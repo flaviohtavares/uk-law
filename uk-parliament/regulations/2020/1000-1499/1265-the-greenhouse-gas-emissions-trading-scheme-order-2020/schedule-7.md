@@ -24,11 +24,11 @@ Article 26(4)
 
 ### PART 1 — Preliminary
 
-#### 1. Interpretation[^key-1fd1f4ee987d8b4d75385fbd4bd89f2d]
+#### 1. Interpretation[^c-1fd1f4ee987d8b4d75385fbd4bd89f2d]
 
 (1) In this Schedule—
 
-- “**conversion notice**” has the meaning given in paragraph 23 , 23A or 23B[^key-7d0bf39a59fcc7fa2037c2683bd02575];
+- “**conversion notice**” has the meaning given in paragraph 23 , 23A or 23B[^c-7d0bf39a59fcc7fa2037c2683bd02575];
 - “**emissions report**” has the meaning given in paragraph 11(2)(b);
 - “**emissions target**”, in relation to an installation, means a target for the installation's reportable emissions (excluding emissions from biomass) set out in the installation's hospital or small emitter permit; and an emissions target for a scheme year is the emissions target for that year set out in the permit;
 - “**hospital-qualifying installation**” means—
@@ -43,7 +43,7 @@ Article 26(4)
 
 (2) For the purposes of this Order, in determining whether or not an installation's reportable emissions or an estimate of reportable emissions exceed the maximum amount or an emissions target and in calculating an installation's emissions target based on reportable emissions or an estimate, emissions from biomass must be excluded.
 
-#### 2. Meaning of installation that primarily provides services to a hospital in scheme year[^key-71365362f16a559c82b59f2b736a093b]
+#### 2. Meaning of installation that primarily provides services to a hospital in scheme year[^c-71365362f16a559c82b59f2b736a093b]
 
 (1) For the purposes of this Schedule, an installation is an installation that primarily provides services to a hospital in a scheme year if at least 85% of the heat produced by the installation in that year is used by or supplied to one or more hospitals.
 
@@ -64,7 +64,7 @@ Article 26(4)
 
 ### PART 2 — Hospital or small emitter status
 
-#### 3. Hospital or small emitter status[^key-0efca0e158b015d9fbea4637333352b9]
+#### 3. Hospital or small emitter status[^c-0efca0e158b015d9fbea4637333352b9]
 
 (1) This paragraph and paragraph 4 apply to determine whether or not an installation is a hospital or small emitter for a scheme year.
 
@@ -77,16 +77,16 @@ Article 26(4)
 - (a) the installation is not a hospital or small emitter for the scheme years in the 2021-2025 allocation period; and
 - (b) for the purposes of this Order, the hospital and small emitter list for 2021-2025 must be treated as not including the installation.
 
-(5) Subject to sub-paragraphs (6) and (7), an installation is a hospital or small emitter for the scheme years in the 2026-2030 period[^key-a809e471bc43b8b98f2b9dfe0a3256e4] if the installation is included in the hospital and small emitter list for 2026-2030.
+(5) Subject to sub-paragraphs (6) and (7), an installation is a hospital or small emitter for the scheme years in the 2026-2030 period[^c-a809e471bc43b8b98f2b9dfe0a3256e4] if the installation is included in the hospital and small emitter list for 2026-2030.
 
-(6) Where a conversion notice is given to the operator of the installation stating that the installation is not a hospital or small emitter for a scheme year in the 2026-2030 period, the installation is not a hospital or small emitter for that scheme year or subsequent scheme years in the period[^key-169262dc07e725476ec7fb78019251de].
+(6) Where a conversion notice is given to the operator of the installation stating that the installation is not a hospital or small emitter for a scheme year in the 2026-2030 period, the installation is not a hospital or small emitter for that scheme year or subsequent scheme years in the period[^c-169262dc07e725476ec7fb78019251de].
 
 (7) Where a regulated activity does not begin to be carried out before 1st November 2025 at an installation that is included in the hospital and small emitter list for 2026-2030—
 
 - (a) the installation is not a hospital or small emitter for the scheme years in the 2026-2030 period; and
 - (b) for the purposes of this Order, the hospital and small emitter list for 2026-2030 must be treated as not including the installation.
 
-#### 4. Hospital or small emitter status: former ultra-small emitters[^key-bd7783eebc66ff5b576de42444328688]
+#### 4. Hospital or small emitter status: former ultra-small emitters[^c-bd7783eebc66ff5b576de42444328688]
 
 (1) This paragraph applies to an installation if—
 
@@ -107,7 +107,7 @@ Article 26(4)
   - (ii) where the installation is included in the ultra-small emitter list for 2026-2030, in any of the 2021, 2022 or 2023 scheme years; and
 - (b) the installation is not an installation that primarily provided services to a hospital in the scheme year preceding the scheme year in which the notice under paragraph 7(2) of Schedule 8 is given.
 
-#### 5. Obtaining hospital or small emitter status for 2026-2030 period[^key-27d3f3be2c2de9552ced6d0682601fd0]
+#### 5. Obtaining hospital or small emitter status for 2026-2030 period[^c-27d3f3be2c2de9552ced6d0682601fd0]
 
 (1) The operator of an installation who wishes to apply for the installation to be a hospital or small emitter for the scheme years in the 2026-2030 period must submit the following to the regulator—
 
@@ -118,10 +118,10 @@ Article 26(4)
 
 (2) An application—
 
-- (a) may not be made before 1st April 2025[^key-ac1b770ad0ee30bd15413e0e3fadce0f];
+- (a) may not be made before 1st April 2025[^c-ac1b770ad0ee30bd15413e0e3fadce0f];
 - (b) must be made on or before 30th June 2025.
 
-(3) After receiving an application, the regulator must on or before 31st August 2025[^key-7028e90acd7ee3923578a22f9480eeec]—
+(3) After receiving an application, the regulator must on or before 31st August 2025[^c-7028e90acd7ee3923578a22f9480eeec]—
 
 - (a) make a preliminary assessment of whether or not the installation meets condition A, B or C; and
 - (b) send the preliminary assessment and the reasons for it to the UK ETS authority.
@@ -131,16 +131,16 @@ Article 26(4)
 - (a) the UK ETS authority must make a final assessment of whether or not the installation meets condition A, B or C; and
 - (b) if the UK ETS authority considers that the installation meets condition A, B or C, the UK ETS authority must include the installation in a list (the “hospital and small emitter list for 2026-2030”).
 
-(5) The UK ETS authority must publish the hospital and small emitter list for 2026-2030 on or before 17th October[^key-b9be9b33492c88c88cc937ef322664c4].
+(5) The UK ETS authority must publish the hospital and small emitter list for 2026-2030 on or before 17th October[^c-b9be9b33492c88c88cc937ef322664c4].
 
 (6) Evidence of an installation's historic reportable emissions may not be taken into account for the purposes of assessing whether or not an installation meets condition B or C unless the evidence is—
 
-- (a) verified as satisfactory[^key-78bb3df80ad762a929430a3b6f9c517d] in accordance with the Verification Regulation 2018; or
+- (a) verified as satisfactory[^c-78bb3df80ad762a929430a3b6f9c517d] in accordance with the Verification Regulation 2018; or
 - (b) where relevant, set out in an emissions report accompanied by the declaration referred to in paragraph 11(2)(b)(ii).
 
 (7) An application may not be made under this paragraph and paragraph 3 of Schedule 8.
 
-#### 6. Obtaining hospital or small emitter status for 2026-2030 period: Conditions A, B and C[^key-b64c4131b9338e80f781d7ea7ba495b4]
+#### 6. Obtaining hospital or small emitter status for 2026-2030 period: Conditions A, B and C[^c-b64c4131b9338e80f781d7ea7ba495b4]
 
 (1) This paragraph applies for the purposes of paragraph 5.
 
@@ -148,7 +148,7 @@ Article 26(4)
 
 (2) Condition A is that the installation—
 
-- (a) is an installation that primarily provides services to a hospital in the 2024[^key-379b044f6412250d8fcdf9d514e1d356] scheme year; or
+- (a) is an installation that primarily provides services to a hospital in the 2024[^c-379b044f6412250d8fcdf9d514e1d356] scheme year; or
 - (b) if a regulated activity has not begun to be carried out at the installation at the date of the application—
   - (i) a regulated activity will begin to be carried out at the installation before 1st November 2025; and
   - (ii) the installation will be an installation that primarily provides services to a hospital after that date.
@@ -187,7 +187,7 @@ Article 26(4)
 
 ### PART 3 — Hospital or small emitter permits
 
-#### 7. Hospital or small emitter permits: application[^key-805c82d897ea7daf06359102e8724721]
+#### 7. Hospital or small emitter permits: application[^c-805c82d897ea7daf06359102e8724721]
 
 (1) The operator of an installation that is a hospital or small emitter for a scheme year may apply to the regulator for a hospital or small emitter permit to come into force in that year [^c24438561].
 
@@ -195,11 +195,11 @@ Article 26(4)
 
 (3) In sub-paragraph (2), “**permit**” includes a permit within the meaning of GGETSR 2012 to which paragraph 1 of Schedule 11 applies (permits to be converted).
 
-#### 8. Hospital or small emitter permits: content of application[^key-1d4945c40ff80cce4f094859d536dc20]
+#### 8. Hospital or small emitter permits: content of application[^c-1d4945c40ff80cce4f094859d536dc20]
 
 An application for a hospital or small emitter permit must contain the matters set out in paragraph 2 of Schedule 6, except for the uncertainty assessment referred to in sub-paragraph (1)(g)(ii) of that paragraph.
 
-#### 9. Hospital or small emitter permits: issue of permit[^key-9781ef9652a999e8b7e04365a3cbec9b]
+#### 9. Hospital or small emitter permits: issue of permit[^c-9781ef9652a999e8b7e04365a3cbec9b]
 
 A hospital or small emitter permit for an installation may be issued only if—
 
@@ -207,7 +207,7 @@ A hospital or small emitter permit for an installation may be issued only if—
 - (b) a monitoring plan has been approved in relation to the installation under the Monitoring and Reporting Regulation 2018; and
 - (c) the regulator considers that from the date on which the permit comes into force the operator of the installation will be capable of monitoring and reporting the installation’s reportable emissions in accordance with the monitoring and reporting conditions of the permit.
 
-#### 10. Hospital or small emitter permits: conversion of existing greenhouse gas emissions permit for 2026-2030 period[^key-9bbae65d516bfd695ce4c8b22c1eabf4]
+#### 10. Hospital or small emitter permits: conversion of existing greenhouse gas emissions permit for 2026-2030 period[^c-9bbae65d516bfd695ce4c8b22c1eabf4]
 
 (1) This paragraph applies where a greenhouse gas emissions permit is in force for an installation that is included in the hospital and small emitter list for 2026-2030.
 
@@ -217,7 +217,7 @@ A hospital or small emitter permit for an installation may be issued only if—
 
 (4) The conversion of the permit does not affect the obligations of the operator under the greenhouse gas emissions permit in respect of specified emissions before 1st January 2026.
 
-#### 11. Hospital or small emitter permits: content of permit[^key-c0bde591cf34e5314bd95a04e94a9667]
+#### 11. Hospital or small emitter permits: content of permit[^c-c0bde591cf34e5314bd95a04e94a9667]
 
 (1) A hospital or small emitter permit must contain—
 
@@ -232,10 +232,10 @@ A hospital or small emitter permit for an installation may be issued only if—
   - (iii) where the installation is included in the ultra-small emitter list for 2021-2025, for each scheme year in the 2021-2025 allocation period for which the installation is a hospital or small emitter (see paragraph 4(2));
   - (iv) where the installation is included in the ultra-small emitter list for 2026-2030, for each scheme year in the 2026-2030 period for which the installation is a hospital or small emitter (see paragraph 4(3));
 - (g) the monitoring plan—
-  - (i) where an application is made for the permit, approved in relation to the installation under [^key-727882a84b21c6b2b8439ce922d3642c]... the Monitoring and Reporting Regulation 2018;
-  - (ii) where an existing permit is converted into a hospital or small emitter permit, approved in relation to the installation under [^key-727882a84b21c6b2b8439ce922d3642c]... the Monitoring and Reporting Regulation 2012 or [^key-727882a84b21c6b2b8439ce922d3642c]... the Monitoring and Reporting Regulation 2018 for the purpose of monitoring reportable emissions at the installation immediately before the hospital or small emitter permit comes into force;
+  - (i) where an application is made for the permit, approved in relation to the installation under [^c-727882a84b21c6b2b8439ce922d3642c]... the Monitoring and Reporting Regulation 2018;
+  - (ii) where an existing permit is converted into a hospital or small emitter permit, approved in relation to the installation under [^c-727882a84b21c6b2b8439ce922d3642c]... the Monitoring and Reporting Regulation 2012 or [^c-727882a84b21c6b2b8439ce922d3642c]... the Monitoring and Reporting Regulation 2018 for the purpose of monitoring reportable emissions at the installation immediately before the hospital or small emitter permit comes into force;
 - (h) the monitoring and reporting conditions (see sub-paragraph (2));
-- (ha)[^key-3026204f411c754f7115bbde8e516f03] the cessation condition referred to in paragraph 4(8) of Schedule 6;
+- (ha)[^c-3026204f411c754f7115bbde8e516f03] the cessation condition referred to in paragraph 4(8) of Schedule 6;
 - (i) any other conditions that the regulator considers appropriate to include in the permit.
 
 (2) The monitoring and reporting conditions are—
@@ -244,13 +244,13 @@ A hospital or small emitter permit for an installation may be issued only if—
   - (i) the Monitoring and Reporting Regulation 2018; and
   - (ii) the monitoring plan (including the written procedures supplementing the monitoring plan);
 - (b) a condition requiring the operator to prepare in accordance with the Monitoring and Reporting Regulation 2018 a report (the “emissions report”) of the installation's reportable emissions in each scheme year for which the installation is a hospital or small emitter that is—
-  - (i) verified as satisfactory[^key-27301d48a3e8160a3aa53cf248b38cbd] in accordance with the Verification Regulation 2018; or
+  - (i) verified as satisfactory[^c-27301d48a3e8160a3aa53cf248b38cbd] in accordance with the Verification Regulation 2018; or
   - (ii) accompanied by a declaration stating that—
     - (aa) in preparing the emissions report the operator has complied with the Monitoring and Reporting Regulation 2018;
     - (bb) the operator has complied with the monitoring plan; and
     - (cc) the emissions report is free from material misstatements,
 
-  and to submit the emissions report and the verification report (where sub-paragraph (i) applies) or declaration (where sub-paragraph (ii) applies)[^key-456286b86156f5fd65fa615eda5806fc] to the regulator on or before 31st March in the following year; and
+  and to submit the emissions report and the verification report (where sub-paragraph (i) applies) or declaration (where sub-paragraph (ii) applies)[^c-456286b86156f5fd65fa615eda5806fc] to the regulator on or before 31st March in the following year; and
 - (c) any further conditions that the regulator considers necessary to give proper effect to the Monitoring and Reporting Regulation 2018 or the Verification Regulation 2018.
 
 (3) A hospital or small emitter permit for a hospital-qualifying installation must contain conditions requiring the operator—
@@ -264,7 +264,7 @@ A hospital or small emitter permit for an installation may be issued only if—
 
 (5) This paragraph is subject to paragraph 14.
 
-#### 12. Hospital or small emitter permits: effect of permit, etc.[^key-3ea71adcb765e42196d7a369fd0ffbce]
+#### 12. Hospital or small emitter permits: effect of permit, etc.[^c-3ea71adcb765e42196d7a369fd0ffbce]
 
 (1) A hospital or small emitter permit for an installation—
 
@@ -273,18 +273,18 @@ A hospital or small emitter permit for an installation may be issued only if—
 
 (2) The operator of the installation must comply with the conditions of the permit.
 
-#### 13. Hospitals and small emitters: modifications to Monitoring and Reporting Regulation 2018[^key-95bf8afe0b7b8a11816ce5c64135e549]
+#### 13. Hospitals and small emitters: modifications to Monitoring and Reporting Regulation 2018[^c-95bf8afe0b7b8a11816ce5c64135e549]
 
 (1) Where an installation is a hospital or small emitter for a scheme year, the Monitoring and Reporting Regulation 2018 has effect with the following modifications (in addition to the modifications in Schedule 4).
 
-(2)[^key-66a1477ec61f37e86f6447c5cb4b8bcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-66a1477ec61f37e86f6447c5cb4b8bcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Article 19 is to be read as if—
 
 - (a) in paragraph 2 for the words from “in one of the following categories” to the end there were substituted “ as a category A installation ”;
 - (b) paragraph 5 were omitted.
 
-(4)[^key-ed66409fb35459df70ee69ef5beb51cf] Article 38 is to be read as if—
+(4)[^c-ed66409fb35459df70ee69ef5beb51cf] Article 38 is to be read as if—
 
 - (a) in paragraph 2—
   - (i) in the first subparagraph “, but, subject to paragraph 2a, the emission factor for bioliquids shall be zero only if the sustainability criteria set out in Article 17(2) to (5) of [Directive 2009/28/EC](https://www.legislation.gov.uk/european/directive/2009/0028) have been fulfilled” were omitted;
@@ -294,12 +294,12 @@ A hospital or small emitter permit for an installation may be issued only if—
 (5) Article 47 is to be read as if—
 
 - (a) every installation that is a hospital or small emitter for a scheme year were an installation to which Article 47 applies (that is to say, an installation that operates with low emissions, disregarding the second subparagraph of paragraph 1 of that Article);
-- (aa)[^key-07e807777a94a74d3a0dfc67dc1d2d7d] in paragraph 3—
+- (aa)[^c-07e807777a94a74d3a0dfc67dc1d2d7d] in paragraph 3—
   - (i) for “an improvement report” there were substituted “a report”;
   - (ii) after “in response to” there were inserted “outstanding non-conformities or”;
 - (b) paragraph 8 were omitted.
 
-(6) Where an emissions report submitted to the regulator under paragraph 11(2)(b) is accompanied by a declaration referred to in paragraph 11(2)(b)(ii) (and is not verified as satisfactory in accordance[^key-ccf4108b7b5fcfd65ff890a28c8848f3] with the Verification Regulation 2018), in the Monitoring and Reporting Regulation 2018—
+(6) Where an emissions report submitted to the regulator under paragraph 11(2)(b) is accompanied by a declaration referred to in paragraph 11(2)(b)(ii) (and is not verified as satisfactory in accordance[^c-ccf4108b7b5fcfd65ff890a28c8848f3] with the Verification Regulation 2018), in the Monitoring and Reporting Regulation 2018—
 
 - (a) Annex 10 must be read as if section 1(2) were omitted;
 - (b) a reference to a verified annual emission report is to be read as a reference to the emissions report;
@@ -308,7 +308,7 @@ A hospital or small emitter permit for an installation may be issued only if—
 - (e) a reference to verifying or verification is to be read as a reference to auditing the reportable emissions reported in the emissions report by the regulator in accordance with the regulator's procedures for auditing reportable emissions of installations, the operators of which submit emissions reports under paragraph 11(2)(b)(ii);
 - (f) a reference to a verification report is to be read as a reference to the record of such an audit given to the operator by the regulator.
 
-#### 14. Former ultra-small emitters: hospital or small emitter permits coming into force after beginning of scheme year[^key-0839c2abb9c0ff63e1a44a14ce8f2eda]
+#### 14. Former ultra-small emitters: hospital or small emitter permits coming into force after beginning of scheme year[^c-0839c2abb9c0ff63e1a44a14ce8f2eda]
 
 (1) This paragraph applies where a hospital or small emitter permit for an installation referred to in paragraph 4(2) or (3) comes into force on a day after 1st January in the relevant scheme year.
 
@@ -327,13 +327,13 @@ A hospital or small emitter permit for an installation may be issued only if—
 
 ### PART 4 — Emissions targets
 
-#### 15. Emissions targets other than for hospital-qualifying installations may not exceed maximum amount[^key-881c7c5e10866f372ff1e3991a30b166]
+#### 15. Emissions targets other than for hospital-qualifying installations may not exceed maximum amount[^c-881c7c5e10866f372ff1e3991a30b166]
 
 (1) Except in the case of a hospital-qualifying installation, an emissions target for a scheme year may not exceed the maximum amount.
 
 (2) This paragraph overrides paragraphs 16 and 17.
 
-#### 16. Emissions targets for 2021-2025 allocation period[^key-079d5644117b552e4338c4c3724b1a5d]
+#### 16. Emissions targets for 2021-2025 allocation period[^c-079d5644117b552e4338c4c3724b1a5d]
 
 (1) This paragraph applies for the purpose of calculating an installation's emissions targets for the scheme years in the 2021-2025 allocation period under paragraph 11(1)(f)(i) and (iii).
 
@@ -374,13 +374,13 @@ Table D
 
 (8) In this paragraph, a reference to reportable emissions is a reference to reportable emissions (within the meaning of GGETSR 2012 or this Order)—
 
-- (a) verified as satisfactory[^key-b35d97c0f56c1c765c426439ea7012b1] in accordance with the Verification Regulation 2012 or the Verification Regulation 2018;
-- (aa)[^key-87f950bdff37e32c65acd33bc79fbe2d] determined under regulation 44 of GGETSR 2012 or article 45 of this Order; or
+- (a) verified as satisfactory[^c-b35d97c0f56c1c765c426439ea7012b1] in accordance with the Verification Regulation 2012 or the Verification Regulation 2018;
+- (aa)[^c-87f950bdff37e32c65acd33bc79fbe2d] determined under regulation 44 of GGETSR 2012 or article 45 of this Order; or
 - (b) where relevant, set out in an emissions report accompanied by the notice or declaration referred to in paragraph 3(8)(b)(ii) of Schedule 5 to GGETSR 2012 or paragraph 11(2)(b)(ii) of this Schedule.
 
 (9) This paragraph is subject to paragraph 14.
 
-#### 17. Emissions targets for 2026-2030 period[^key-abd02e3b17b73e02529c88b9e6fed8bc]
+#### 17. Emissions targets for 2026-2030 period[^c-abd02e3b17b73e02529c88b9e6fed8bc]
 
 (1) This paragraph applies for the purpose of calculating an installation's emissions targets for the scheme years in the 2026-2030 period under—
 
@@ -427,15 +427,15 @@ Table E
 
 (8) In this paragraph, a reference to reportable emissions is a reference to reportable emissions—
 
-- (a) verified as satisfactory[^key-c40ad67055b14e134b9dd2857ac69417] in accordance with the Verification Regulation 2018; [^key-09f05e7a80b6368c816bb1afd3b27e74]...
-- (aa)[^key-1b6b00396a7a363e99e61b7347445188] determined under article 45; or
+- (a) verified as satisfactory[^c-c40ad67055b14e134b9dd2857ac69417] in accordance with the Verification Regulation 2018; [^c-09f05e7a80b6368c816bb1afd3b27e74]...
+- (aa)[^c-1b6b00396a7a363e99e61b7347445188] determined under article 45; or
 - (b) where relevant, set out in an emissions report accompanied by the declaration referred to in paragraph 11(2)(b)(ii).
 
 (9) This paragraph is subject to paragraph 14.
 
-#### 18. Emissions targets: calculation of later targets where initial targets based on estimates[^key-21df9b4f6c4b34ce12605e7f91df9f5a]
+#### 18. Emissions targets: calculation of later targets where initial targets based on estimates[^c-21df9b4f6c4b34ce12605e7f91df9f5a]
 
-(1) This paragraph applies where an installation's emission targets for the scheme years in the 2021-2025 allocation period or the 2026-2030 period[^key-9c396155337d609b8455bd388da62975] are required to be calculated under—
+(1) This paragraph applies where an installation's emission targets for the scheme years in the 2021-2025 allocation period or the 2026-2030 period[^c-9c396155337d609b8455bd388da62975] are required to be calculated under—
 
 - (a) paragraph 16(4) or (5);
 - (b) paragraph 17(4) or (5).
@@ -446,13 +446,13 @@ Table E
 
 (4) But sub-paragraph (3) does not apply if the regulator has given a conversion notice to the operator of the installation, the effect of which is that the installation will not be a hospital or small emitter for the relevant scheme years.
 
-#### 19. Emissions targets: hospital or small emitters must not exceed targets[^key-f15da2899597b49ec815471b7cac6ec3]
+#### 19. Emissions targets: hospital or small emitters must not exceed targets[^c-f15da2899597b49ec815471b7cac6ec3]
 
 (1) The operator of an installation must ensure that the installation's reportable emissions in a scheme year for which the installation is a hospital or small emitter do not exceed the emissions target for that year.
 
 (2) This paragraph is subject to paragraph 14.
 
-#### 19A. Capacity increases: application to increase emissions targets[^key-baaaf67f0938db8922cd56886ad95aee]
+#### 19A. Capacity increases: application to increase emissions targets[^c-baaaf67f0938db8922cd56886ad95aee]
 
 (1) Where a capacity increase is put into operation at an installation after the reference date, the operator of the installation may apply to the regulator to increase the installation’s emissions targets for scheme years after the capacity increase is put into operation (including, if the capacity increase is put into operation on or after 1st January 2021, for the scheme year in which the capacity increase is put into operation).
 
@@ -472,7 +472,7 @@ Table E
 
 (5) Subject to sub-paragraph (4), an application to increase emissions targets may be made at any time.
 
-(6)[^key-4bd24e055650fc2e8072b11ccee8cf84] Where an application is made to increase an installation’s emissions targets for scheme years in the 2027-2030 allocation period, the regulator must not consider the application before 1st February 2026 unless, before that date, benchmarks for the 2027-2030 allocation period are set out in Annex 8 to the Free Allocation Regulation.
+(6)[^c-4bd24e055650fc2e8072b11ccee8cf84] Where an application is made to increase an installation’s emissions targets for scheme years in the 2027-2030 allocation period, the regulator must not consider the application before 1st February 2026 unless, before that date, benchmarks for the 2027-2030 allocation period are set out in Annex 8 to the Free Allocation Regulation.
 
 #### 19B. Capacity increases: content of application
 
@@ -606,8 +606,8 @@ The combined capacity utilisation factor is the result of Step 5.
 
 - “**benchmark**” means—
   - (a) in relation to a sub-installation other than a process emissions sub-installation, the benchmark referred to in Article 16(2) of the Free Allocation Regulation used to determine the preliminary annual number of allowances allocated free of charge in respect of the sub-installation—
-    - (i) where an application is made to increase an installation’s emissions targets for scheme years in the 2021-2025 allocation period or the 2026 scheme year, for scheme years in that allocation period or that scheme year[^key-0227ad32744b11c51ad8e0276f8aa178];
-    - (ii) where an application is made to increase an installation’s emissions targets for scheme years in the 2027-2030 allocation period[^key-337a309a85b979b32ced194ffbaf8428], for scheme years in that allocation period;
+    - (i) where an application is made to increase an installation’s emissions targets for scheme years in the 2021-2025 allocation period or the 2026 scheme year, for scheme years in that allocation period or that scheme year[^c-0227ad32744b11c51ad8e0276f8aa178];
+    - (ii) where an application is made to increase an installation’s emissions targets for scheme years in the 2027-2030 allocation period[^c-337a309a85b979b32ced194ffbaf8428], for scheme years in that allocation period;
   - (b) in relation to a process emissions sub-installation, 0.97;
 - “**capacity decrease**”, in relation to an installation or a sub-installation, means a decrease in installed capacity as a result of one or more physical changes relating to its technical configuration and functioning;
 - “**capacity increase**”, in relation to an installation or a sub-installation, means an increase in installed capacity as a result of one or more physical changes relating to its technical configuration and functioning;
@@ -648,7 +648,7 @@ The combined capacity utilisation factor is the result of Step 5.
 - (c) if the capacity increase or capacity decrease relates to a fuel benchmark sub-installation, terajoules of fuel consumed per year;
 - (d) if the capacity increase or capacity decrease relates to a process emissions sub-installation, tonnes of carbon dioxide equivalent emitted per year.
 
-#### 20. Emissions targets: banking overachieved target[^key-3c97334723cd29e151d8667ce9e0aa46]
+#### 20. Emissions targets: banking overachieved target[^c-3c97334723cd29e151d8667ce9e0aa46]
 
 (1) In this paragraph, an installation's “**bankable amount**”, in relation to a scheme year, means ET – RE, where—
 
@@ -679,7 +679,7 @@ The combined capacity utilisation factor is the result of Step 5.
 
 (6) Except where the installation is a hospital-qualifying installation, if increasing the emissions target for the next scheme year would result in an emissions target that exceeds the maximum amount, the emissions target must be increased by such amount as results in an emissions target of the maximum amount.
 
-#### 21. Emissions targets: targets for 2026-2030 period for hospital or small emitters in 2021-2025 allocation period[^key-70fba928ada483c478174ccbcf3e49dc]
+#### 21. Emissions targets: targets for 2026-2030 period for hospital or small emitters in 2021-2025 allocation period[^c-70fba928ada483c478174ccbcf3e49dc]
 
 (1) This paragraph applies where—
 
@@ -693,20 +693,20 @@ The combined capacity utilisation factor is the result of Step 5.
 
 (3) But sub-paragraph (2) does not apply if the regulator has given a conversion notice to the operator of the installation (the effect of which is that the installation will not be a hospital or small emitter for the scheme years in the 2026-2030 period).
 
-#### 22. Emissions targets: errors[^key-d21a2d67cb8263d1322cfcff29f0e875]
+#### 22. Emissions targets: errors[^c-d21a2d67cb8263d1322cfcff29f0e875]
 
-(1) This paragraph applies where the amount of an installation's reportable emissions used to calculate the installation's emission targets (including revised emissions targets under paragraph 19C or 20[^key-5a44930a752dc50d58950450d7ebde04]) for scheme years in the 2021-2025 allocation period or the 2026-2030 period[^key-d11a0e7c6d75256eb2d7458c7e95b5d9] is amended following a determination of emissions under article 45.
+(1) This paragraph applies where the amount of an installation's reportable emissions used to calculate the installation's emission targets (including revised emissions targets under paragraph 19C or 20[^c-5a44930a752dc50d58950450d7ebde04]) for scheme years in the 2021-2025 allocation period or the 2026-2030 period[^c-d11a0e7c6d75256eb2d7458c7e95b5d9] is amended following a determination of emissions under article 45.
 
-(2) The regulator may calculate revised emissions targets for the current and future scheme years in the [^key-86c93451fa70cafa2432d32496345067]... period and, if the regulator does so, the regulator must vary the installation's hospital or small emitter permit under paragraph 6 of Schedule 6 to include those emissions targets.
+(2) The regulator may calculate revised emissions targets for the current and future scheme years in the [^c-86c93451fa70cafa2432d32496345067]... period and, if the regulator does so, the regulator must vary the installation's hospital or small emitter permit under paragraph 6 of Schedule 6 to include those emissions targets.
 
-(3) In calculating revised emissions targets under sub-paragraph (2), the regulator may take account of what revised emissions targets for past scheme years in the [^key-500f6429b50564e2b51706cd576ca7ff]... period calculated under this paragraph might have been if the determination had been made earlier (but may not calculate revised emissions targets for past years).
+(3) In calculating revised emissions targets under sub-paragraph (2), the regulator may take account of what revised emissions targets for past scheme years in the [^c-500f6429b50564e2b51706cd576ca7ff]... period calculated under this paragraph might have been if the determination had been made earlier (but may not calculate revised emissions targets for past years).
 
 (4) In this paragraph—
 
 - (a) a reference to reportable emissions used to calculate emissions targets for the 2021-2025 allocation period includes a reference to reportable emissions within the meaning of GGETSR 2012; and
 - (b) a reference to a determination of emissions under article 45 includes, in the case of reportable emissions referred to in paragraph (a), a reference to a determination of emissions under regulation 44(3) of GGETSR 2012 or Article 70(1) of the Monitoring and Reporting Regulation 2012.
 
-#### 22A. Publication of emissions targets and reportable emissions[^key-12ef7716d7fcbc39192a7e65667d0ae0]
+#### 22A. Publication of emissions targets and reportable emissions[^c-12ef7716d7fcbc39192a7e65667d0ae0]
 
 (1) The regulator must inform the UK ETS authority of—
 
@@ -719,7 +719,7 @@ The combined capacity utilisation factor is the result of Step 5.
 
 ### PART 5 — End of hospital or small emitter status
 
-#### 23. End of hospital or small emitter status: ceasing to meet criteria[^key-3534af8d450c7a099cdfa8936fbe885d]
+#### 23. End of hospital or small emitter status: ceasing to meet criteria[^c-3534af8d450c7a099cdfa8936fbe885d]
 
 (1) Where—
 
@@ -741,7 +741,7 @@ the regulator must, as soon as reasonably practicable, give a notice (a “conve
 
 (4) Where a hospital or small emitter permit may be revoked under paragraph 12 of Schedule 6, the regulator may instead of revoking the permit give a notice (a “conversion notice”) to the operator of the installation.
 
-#### 23A. End of hospital or small emitter status: voluntary exit of status for 2024 and 2025 scheme years[^key-84122a79ea25a226b7fc62d747e3a087]
+#### 23A. End of hospital or small emitter status: voluntary exit of status for 2024 and 2025 scheme years[^c-84122a79ea25a226b7fc62d747e3a087]
 
 (1) Where the operator of an installation included in the hospital and small emitter list for 2021-2025 wishes that the installation should not be a hospital or small emitter for the 2024 and 2025 scheme years, the operator may request the regulator to give a notice (a “conversion notice”) to the operator of the installation.
 
@@ -749,7 +749,7 @@ the regulator must, as soon as reasonably practicable, give a notice (a “conve
 
 (3) The regulator must refuse a request received after 31st March 2023.
 
-#### 23B. End of hospital or small emitter status: voluntary exit of status for 2027-2030 allocation period[^key-d015563ca42f7a5b5bfc06f620b93d59]
+#### 23B. End of hospital or small emitter status: voluntary exit of status for 2027-2030 allocation period[^c-d015563ca42f7a5b5bfc06f620b93d59]
 
 (1) This paragraph applies where the operator of an installation included in the hospital and small emitter list for 2026-2030 notifies the regulator on or before 30th June 2026 as part of the second stage of an application for free allocation in the 2027-2030 allocation period under Article 4(1a)(b)(i) of the Free Allocation Regulation that—
 
@@ -758,18 +758,18 @@ the regulator must, as soon as reasonably practicable, give a notice (a “conve
 
 (2) The regulator must, as soon as reasonably practicable, give a notice (a “conversion notice”) to the operator.
 
-#### 24. Conversion notices[^key-8462659aa7fcfd1066f59d333947f77d]
+#### 24. Conversion notices[^c-8462659aa7fcfd1066f59d333947f77d]
 
 (1) A conversion notice must—
 
 - (a) set out the grounds for the notice;
 - (b) state that the installation is not a hospital or small emitter for the scheme year following the year in which the notice is given;
 - (c) state that the operator must comply with the conditions of a greenhouse gas emissions permit from 1st January (the “date of conversion”) in the scheme year following the year in which the notice is given;
-- (d)[^key-396e0970f498204715cfd107d574d398] state that, unless the monitoring plan already complies with the Monitoring and Reporting Regulation 2018, the operator must apply to the regulator to vary the monitoring plan so that it does comply with that Regulation.
+- (d)[^c-396e0970f498204715cfd107d574d398] state that, unless the monitoring plan already complies with the Monitoring and Reporting Regulation 2018, the operator must apply to the regulator to vary the monitoring plan so that it does comply with that Regulation.
 
 (2) Where a conversion notice is given, the regulator must convert, with effect from the date of conversion, the installation's hospital or small emitter permit (if any) into a greenhouse gas emissions permit by varying it under paragraph 6 of Schedule 6 so that the provisions of the permit are replaced by provisions that satisfy the requirements of paragraph 4 of Schedule 6.
 
-(3)[^key-139de3eb9aab19fb2703fe7753b7f03a] Despite sub-paragraph (2)—
+(3)[^c-139de3eb9aab19fb2703fe7753b7f03a] Despite sub-paragraph (2)—
 
 - (a) where the monitoring plan does not already comply with the Monitoring and Reporting Regulation 2018, the regulator may revoke the permit under paragraph 12 of Schedule 6 instead of converting it if—
   - (i) the operator fails to apply to the regulator to vary the monitoring plan; or
@@ -780,18 +780,18 @@ the regulator must, as soon as reasonably practicable, give a notice (a “conve
 
 (5) The conversion of the permit does not affect the obligations of the operator under the permit in respect of specified emissions before the date of conversion.
 
-#### 25. End of hospital or small emitter status: ceasing to meet criteria: publication[^key-3e0a8f96b32b12f756f5da4aa57012d3]
+#### 25. End of hospital or small emitter status: ceasing to meet criteria: publication[^c-3e0a8f96b32b12f756f5da4aa57012d3]
 
 (1) The regulator must, as soon as reasonably practicable, inform the UK ETS authority about each installation in respect of which a conversion notice is given.
 
 (2) The UK ETS authority must, from time to time, publish the information referred to in sub-paragraph (1).
 
-#### 26. End of hospital or small emitter status: end of allocation period[^key-b148e03d4913fdfbb0f1d9b69d14a847]
+#### 26. End of hospital or small emitter status: end of allocation period[^c-b148e03d4913fdfbb0f1d9b69d14a847]
 
-(1) The regulator must, as soon as reasonably practicable after the hospital and small emitter list for 2026-2030 is published and in any event on or before 31st October 2025,[^key-2858639660ebbad6bbae59b3169a6462] give notice to the operator of an installation to which sub-paragraph (2) applies—
+(1) The regulator must, as soon as reasonably practicable after the hospital and small emitter list for 2026-2030 is published and in any event on or before 31st October 2025,[^c-2858639660ebbad6bbae59b3169a6462] give notice to the operator of an installation to which sub-paragraph (2) applies—
 
 - (a) stating that the operator must comply with the conditions of a greenhouse gas emissions permit from 1st January 2026; and
-- (b)[^key-a47fe10d85acc0ce4863d9e82c011d63] stating that, unless the monitoring plan already complies with the Monitoring and Reporting Regulation 2018, the operator must apply to the regulator on or before 30th November[^key-271c67dab2b84144849d1eb34850bc61] 2025 to vary the monitoring plan so that it does comply with that Regulation.
+- (b)[^c-a47fe10d85acc0ce4863d9e82c011d63] stating that, unless the monitoring plan already complies with the Monitoring and Reporting Regulation 2018, the operator must apply to the regulator on or before 30th November[^c-271c67dab2b84144849d1eb34850bc61] 2025 to vary the monitoring plan so that it does comply with that Regulation.
 
 (2) This sub-paragraph applies to an installation that is a hospital or small emitter for the 2025 scheme year other than an installation that is included in—
 
@@ -800,10 +800,10 @@ the regulator must, as soon as reasonably practicable, give a notice (a “conve
 
 (3) Where a notice under sub-paragraph (1) is given, the regulator must convert, with effect from 1st January 2026, the installation's hospital or small emitter permit (if any) into a greenhouse gas emissions permit by varying it under paragraph 6 of Schedule 6 so that the provisions of the permit are replaced by provisions that satisfy the requirements of paragraph 4 of Schedule 6.
 
-(4)[^key-2732a82f9d19f48953b569abbec49410] Despite sub-paragraph (3)—
+(4)[^c-2732a82f9d19f48953b569abbec49410] Despite sub-paragraph (3)—
 
 - (a) where the monitoring plan does not already comply with the Monitoring and Reporting Regulation 2018, the regulator may revoke the permit under paragraph 12 of Schedule 6 instead of converting it if—
-  - (i) the operator fails to apply to the regulator on or before 30th November[^key-9d32e16a1d015454d0da21e986dbe985] 2025 to vary the monitoring plan; or
+  - (i) the operator fails to apply to the regulator on or before 30th November[^c-9d32e16a1d015454d0da21e986dbe985] 2025 to vary the monitoring plan; or
   - (ii) the variations applied for are not such that the plan would comply with that Regulation;
 - (b) the regulator must revoke the permit instead of converting it if the regulator considers that the operator will not be capable of monitoring and reporting the installation’s reportable emissions in accordance with the monitoring and reporting conditions of a greenhouse gas emissions permit.
 
@@ -813,138 +813,138 @@ the regulator must, as soon as reasonably practicable, give a notice (a “conve
 
 ## Annotations
 
-[^key-1fd1f4ee987d8b4d75385fbd4bd89f2d]: Commencement: Sch. 7 para. 1 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-1fd1f4ee987d8b4d75385fbd4bd89f2d]: Commencement: Sch. 7 para. 1 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-7d0bf39a59fcc7fa2037c2683bd02575]: Textual amendment: Words in [Sch. 7 para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/1/1) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(3)](https://www.legislation.gov.uk/uksi/2025/124/article/31/3)
+[^c-7d0bf39a59fcc7fa2037c2683bd02575]: Textual amendment: Words in [Sch. 7 para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/1/1) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(3)](https://www.legislation.gov.uk/uksi/2025/124/article/31/3)
 
-[^key-71365362f16a559c82b59f2b736a093b]: Commencement: Sch. 7 para. 2 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-71365362f16a559c82b59f2b736a093b]: Commencement: Sch. 7 para. 2 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-0efca0e158b015d9fbea4637333352b9]: Commencement: Sch. 7 para. 3 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-0efca0e158b015d9fbea4637333352b9]: Commencement: Sch. 7 para. 3 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
 [^c24438551]: Marginal citation: The hospital and small emitter list for 2021-2025 can be accessed at www.sepa.org.uk/media/504726/uk-article-27-27a-installation-list.pdf. A copy of the list may be inspected at the Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London SW1H 0ET; the Industrial Pollution and Radiochemical Inspectorate, Department for Agriculture, Environment and Rural Affairs, Klondyke Building, Cromac Avenue, Belfast BT7 2JA; the Scottish Government Directorate of Energy & Climate Change, Fourth Floor, 5 Atlantic Quay, 150 Broomielaw, Glasgow G2 8LU; and the offices of the Welsh Government, Cathays Park 2, Cathays Park, Cardiff CF10 2NQ.
 
-[^key-a809e471bc43b8b98f2b9dfe0a3256e4]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(2)](https://www.legislation.gov.uk/uksi/2025/124/article/31/2)[(7)](https://www.legislation.gov.uk/uksi/2025/124/article/31/7)
+[^c-a809e471bc43b8b98f2b9dfe0a3256e4]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(2)](https://www.legislation.gov.uk/uksi/2025/124/article/31/2)[(7)](https://www.legislation.gov.uk/uksi/2025/124/article/31/7)
 
-[^key-169262dc07e725476ec7fb78019251de]: Textual amendment: Words in [Sch. 7 para. 3(6)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/3/6) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(4)](https://www.legislation.gov.uk/uksi/2025/124/article/31/4)
+[^c-169262dc07e725476ec7fb78019251de]: Textual amendment: Words in [Sch. 7 para. 3(6)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/3/6) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(4)](https://www.legislation.gov.uk/uksi/2025/124/article/31/4)
 
-[^key-bd7783eebc66ff5b576de42444328688]: Commencement: Sch. 7 para. 4 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-bd7783eebc66ff5b576de42444328688]: Commencement: Sch. 7 para. 4 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-27d3f3be2c2de9552ced6d0682601fd0]: Commencement: Sch. 7 para. 5 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-27d3f3be2c2de9552ced6d0682601fd0]: Commencement: Sch. 7 para. 5 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-ac1b770ad0ee30bd15413e0e3fadce0f]: Textual amendment: Word in [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/5/2) substituted (31.3.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2024 (S.I. 2024/192)](https://www.legislation.gov.uk/uksi/2024/192), [arts. 2](https://www.legislation.gov.uk/uksi/2024/192/article/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2024/192/article/8/2/a)
+[^c-ac1b770ad0ee30bd15413e0e3fadce0f]: Textual amendment: Word in [Sch. 7 para. 5(2)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/5/2) substituted (31.3.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2024 (S.I. 2024/192)](https://www.legislation.gov.uk/uksi/2024/192), [arts. 2](https://www.legislation.gov.uk/uksi/2024/192/article/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2024/192/article/8/2/a)
 
-[^key-7028e90acd7ee3923578a22f9480eeec]: Textual amendment: Words in [Sch. 7 para. 5(3)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/5/3) substituted (31.3.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2024 (S.I. 2024/192)](https://www.legislation.gov.uk/uksi/2024/192), [arts. 2](https://www.legislation.gov.uk/uksi/2024/192/article/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2024/192/article/8/2/b)
+[^c-7028e90acd7ee3923578a22f9480eeec]: Textual amendment: Words in [Sch. 7 para. 5(3)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/5/3) substituted (31.3.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2024 (S.I. 2024/192)](https://www.legislation.gov.uk/uksi/2024/192), [arts. 2](https://www.legislation.gov.uk/uksi/2024/192/article/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2024/192/article/8/2/b)
 
-[^key-b9be9b33492c88c88cc937ef322664c4]: Textual amendment: Words in [Sch. 7 para. 5(5)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/5/5) substituted (31.3.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2024 (S.I. 2024/192)](https://www.legislation.gov.uk/uksi/2024/192), [arts. 2](https://www.legislation.gov.uk/uksi/2024/192/article/2), [8(2)(c)](https://www.legislation.gov.uk/uksi/2024/192/article/8/2/c)
+[^c-b9be9b33492c88c88cc937ef322664c4]: Textual amendment: Words in [Sch. 7 para. 5(5)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/5/5) substituted (31.3.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2024 (S.I. 2024/192)](https://www.legislation.gov.uk/uksi/2024/192), [arts. 2](https://www.legislation.gov.uk/uksi/2024/192/article/2), [8(2)(c)](https://www.legislation.gov.uk/uksi/2024/192/article/8/2/c)
 
-[^key-78bb3df80ad762a929430a3b6f9c517d]: Textual amendment: Words in [Sch. 7 para. 5(6)(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/5/6/a) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(2)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/2)
+[^c-78bb3df80ad762a929430a3b6f9c517d]: Textual amendment: Words in [Sch. 7 para. 5(6)(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/5/6/a) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(2)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/2)
 
-[^key-b64c4131b9338e80f781d7ea7ba495b4]: Commencement: Sch. 7 para. 6 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-b64c4131b9338e80f781d7ea7ba495b4]: Commencement: Sch. 7 para. 6 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-379b044f6412250d8fcdf9d514e1d356]: Textual amendment: Word in [Sch. 7 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/6/2/a) substituted (31.3.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2024 (S.I. 2024/192)](https://www.legislation.gov.uk/uksi/2024/192), [arts. 2](https://www.legislation.gov.uk/uksi/2024/192/article/2), [8(3)](https://www.legislation.gov.uk/uksi/2024/192/article/8/3)
+[^c-379b044f6412250d8fcdf9d514e1d356]: Textual amendment: Word in [Sch. 7 para. 6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/6/2/a) substituted (31.3.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2024 (S.I. 2024/192)](https://www.legislation.gov.uk/uksi/2024/192), [arts. 2](https://www.legislation.gov.uk/uksi/2024/192/article/2), [8(3)](https://www.legislation.gov.uk/uksi/2024/192/article/8/3)
 
-[^key-805c82d897ea7daf06359102e8724721]: Commencement: Sch. 7 para. 7 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-805c82d897ea7daf06359102e8724721]: Commencement: Sch. 7 para. 7 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
 [^c24438561]: Marginal citation: [Paragraph 10](https://www.legislation.gov.uk/uksi/2020/1265/paragraph/10) of Schedule 7 and paragraph 1 of Schedule 11 provide for the conversion of permits into hospital or small emitter permits.
 
-[^key-1d4945c40ff80cce4f094859d536dc20]: Commencement: Sch. 7 para. 8 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-1d4945c40ff80cce4f094859d536dc20]: Commencement: Sch. 7 para. 8 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-9781ef9652a999e8b7e04365a3cbec9b]: Textual amendment: [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/9) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(2)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/2)
+[^c-9781ef9652a999e8b7e04365a3cbec9b]: Textual amendment: [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/9) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(2)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/2)
 
-[^key-9bbae65d516bfd695ce4c8b22c1eabf4]: Commencement: Sch. 7 para. 10 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-9bbae65d516bfd695ce4c8b22c1eabf4]: Commencement: Sch. 7 para. 10 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-c0bde591cf34e5314bd95a04e94a9667]: Commencement: Sch. 7 para. 11 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-c0bde591cf34e5314bd95a04e94a9667]: Commencement: Sch. 7 para. 11 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-727882a84b21c6b2b8439ce922d3642c]: Textual amendment: Words in [Sch. 7 para. 11(1)(g)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/11/1/g) omitted (7.2.2022) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(3)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/3)
+[^c-727882a84b21c6b2b8439ce922d3642c]: Textual amendment: Words in [Sch. 7 para. 11(1)(g)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/11/1/g) omitted (7.2.2022) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(3)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/3)
 
-[^key-3026204f411c754f7115bbde8e516f03]: Textual amendment: [Sch. 7 para. 11(1)(ha)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/11/1/ha) inserted (2.2.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2025 (S.I. 2025/100)](https://www.legislation.gov.uk/uksi/2025/100), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2025/100/article/2/2), [9(2)](https://www.legislation.gov.uk/uksi/2025/100/article/9/2)
+[^c-3026204f411c754f7115bbde8e516f03]: Textual amendment: [Sch. 7 para. 11(1)(ha)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/11/1/ha) inserted (2.2.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2025 (S.I. 2025/100)](https://www.legislation.gov.uk/uksi/2025/100), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2025/100/article/2/2), [9(2)](https://www.legislation.gov.uk/uksi/2025/100/article/9/2)
 
-[^key-27301d48a3e8160a3aa53cf248b38cbd]: Textual amendment: Words in [Sch. 7 para. 11(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/11/2/b/i) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(3)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/3/a)
+[^c-27301d48a3e8160a3aa53cf248b38cbd]: Textual amendment: Words in [Sch. 7 para. 11(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/11/2/b/i) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(3)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/3/a)
 
-[^key-456286b86156f5fd65fa615eda5806fc]: Textual amendment: Words in [Sch. 7 para. 11(2)(b)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/11/2/b) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(3)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/3/b)
+[^c-456286b86156f5fd65fa615eda5806fc]: Textual amendment: Words in [Sch. 7 para. 11(2)(b)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/11/2/b) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(3)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/3/b)
 
-[^key-3ea71adcb765e42196d7a369fd0ffbce]: Commencement: Sch. 7 para. 12 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-3ea71adcb765e42196d7a369fd0ffbce]: Commencement: Sch. 7 para. 12 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-95bf8afe0b7b8a11816ce5c64135e549]: Commencement: Sch. 7 para. 13 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-95bf8afe0b7b8a11816ce5c64135e549]: Commencement: Sch. 7 para. 13 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-66a1477ec61f37e86f6447c5cb4b8bcc]: Textual amendment: [Sch. 7 para. 13(2)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/13/2) omitted (31.12.2020) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(4)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/4/a)
+[^c-66a1477ec61f37e86f6447c5cb4b8bcc]: Textual amendment: [Sch. 7 para. 13(2)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/13/2) omitted (31.12.2020) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(4)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/4/a)
 
-[^key-ed66409fb35459df70ee69ef5beb51cf]: Textual amendment: [Sch. 7 para. 13(4)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/13/4) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [17(3)](https://www.legislation.gov.uk/uksi/2022/1173/article/17/3)
+[^c-ed66409fb35459df70ee69ef5beb51cf]: Textual amendment: [Sch. 7 para. 13(4)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/13/4) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [17(3)](https://www.legislation.gov.uk/uksi/2022/1173/article/17/3)
 
-[^key-07e807777a94a74d3a0dfc67dc1d2d7d]: Textual amendment: [Sch. 7 para. 13(5)(aa)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/13/5/aa) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(4)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/4)
+[^c-07e807777a94a74d3a0dfc67dc1d2d7d]: Textual amendment: [Sch. 7 para. 13(5)(aa)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/13/5/aa) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(4)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/4)
 
-[^key-ccf4108b7b5fcfd65ff890a28c8848f3]: Textual amendment: Words in [Sch. 7 para. 13(6)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/13/6) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(4)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/4/b)
+[^c-ccf4108b7b5fcfd65ff890a28c8848f3]: Textual amendment: Words in [Sch. 7 para. 13(6)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/13/6) substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(4)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/4/b)
 
-[^key-0839c2abb9c0ff63e1a44a14ce8f2eda]: Commencement: Sch. 7 para. 14 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-0839c2abb9c0ff63e1a44a14ce8f2eda]: Commencement: Sch. 7 para. 14 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-881c7c5e10866f372ff1e3991a30b166]: Commencement: Sch. 7 para. 15 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-881c7c5e10866f372ff1e3991a30b166]: Commencement: Sch. 7 para. 15 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-079d5644117b552e4338c4c3724b1a5d]: Commencement: Sch. 7 para. 16 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-079d5644117b552e4338c4c3724b1a5d]: Commencement: Sch. 7 para. 16 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-b35d97c0f56c1c765c426439ea7012b1]: Textual amendment: Words in [Sch. 7 para. 16(8)(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/16/8/a) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(5)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/5/a)
+[^c-b35d97c0f56c1c765c426439ea7012b1]: Textual amendment: Words in [Sch. 7 para. 16(8)(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/16/8/a) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(5)(a)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/5/a)
 
-[^key-87f950bdff37e32c65acd33bc79fbe2d]: Textual amendment: [Sch. 7 para. 16(8)(aa)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/16/8/aa) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(5)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/5/b)
+[^c-87f950bdff37e32c65acd33bc79fbe2d]: Textual amendment: [Sch. 7 para. 16(8)(aa)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/16/8/aa) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(5)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/5/b)
 
-[^key-abd02e3b17b73e02529c88b9e6fed8bc]: Commencement: Sch. 7 para. 17 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-abd02e3b17b73e02529c88b9e6fed8bc]: Commencement: Sch. 7 para. 17 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-c40ad67055b14e134b9dd2857ac69417]: Textual amendment: Words in [Sch. 7 para. 17(8)(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/17/8/a) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/6/a/i)
+[^c-c40ad67055b14e134b9dd2857ac69417]: Textual amendment: Words in [Sch. 7 para. 17(8)(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/17/8/a) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/6/a/i)
 
-[^key-09f05e7a80b6368c816bb1afd3b27e74]: Textual amendment: Word in [Sch. 7 para. 17(8)(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/17/8/a) omitted (31.12.2020) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/6/a/ii)
+[^c-09f05e7a80b6368c816bb1afd3b27e74]: Textual amendment: Word in [Sch. 7 para. 17(8)(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/17/8/a) omitted (31.12.2020) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/6/a/ii)
 
-[^key-1b6b00396a7a363e99e61b7347445188]: Textual amendment: [Sch. 7 para. 17(8)(aa)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/17/8/aa) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(6)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/6/b)
+[^c-1b6b00396a7a363e99e61b7347445188]: Textual amendment: [Sch. 7 para. 17(8)(aa)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/17/8/aa) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [39(6)(b)](https://www.legislation.gov.uk/uksi/2020/1557/article/39/6/b)
 
-[^key-21df9b4f6c4b34ce12605e7f91df9f5a]: Commencement: Sch. 7 para. 18 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-21df9b4f6c4b34ce12605e7f91df9f5a]: Commencement: Sch. 7 para. 18 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-9c396155337d609b8455bd388da62975]: Textual amendment: Words in [Sch. 7 para. 18(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/18/1) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(5)](https://www.legislation.gov.uk/uksi/2025/124/article/31/5)
+[^c-9c396155337d609b8455bd388da62975]: Textual amendment: Words in [Sch. 7 para. 18(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/18/1) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(5)](https://www.legislation.gov.uk/uksi/2025/124/article/31/5)
 
-[^key-f15da2899597b49ec815471b7cac6ec3]: Commencement: Sch. 7 para. 19 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-f15da2899597b49ec815471b7cac6ec3]: Commencement: Sch. 7 para. 19 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-baaaf67f0938db8922cd56886ad95aee]: Textual amendment: [Sch. 7 paras. 19A-19G](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/19A) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(5)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/5)
+[^c-baaaf67f0938db8922cd56886ad95aee]: Textual amendment: [Sch. 7 paras. 19A-19G](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/19A) inserted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(5)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/5)
 
-[^key-4bd24e055650fc2e8072b11ccee8cf84]: Textual amendment: [Sch. 7 para. 19A(6)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/19A/6) inserted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(6)](https://www.legislation.gov.uk/uksi/2025/124/article/31/6)
+[^c-4bd24e055650fc2e8072b11ccee8cf84]: Textual amendment: [Sch. 7 para. 19A(6)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/19A/6) inserted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(6)](https://www.legislation.gov.uk/uksi/2025/124/article/31/6)
 
-[^key-0227ad32744b11c51ad8e0276f8aa178]: Textual amendment: Words in [Sch. 7 para. 19G(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/19G/1) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(7)(a)](https://www.legislation.gov.uk/uksi/2025/124/article/31/7/a)
+[^c-0227ad32744b11c51ad8e0276f8aa178]: Textual amendment: Words in [Sch. 7 para. 19G(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/19G/1) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(7)(a)](https://www.legislation.gov.uk/uksi/2025/124/article/31/7/a)
 
-[^key-337a309a85b979b32ced194ffbaf8428]: Textual amendment: Words in [Sch. 7 para. 19G(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/19G/1) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(7)(b)](https://www.legislation.gov.uk/uksi/2025/124/article/31/7/b)
+[^c-337a309a85b979b32ced194ffbaf8428]: Textual amendment: Words in [Sch. 7 para. 19G(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/19G/1) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(7)(b)](https://www.legislation.gov.uk/uksi/2025/124/article/31/7/b)
 
-[^key-3c97334723cd29e151d8667ce9e0aa46]: Commencement: Sch. 7 para. 20 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-3c97334723cd29e151d8667ce9e0aa46]: Commencement: Sch. 7 para. 20 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-70fba928ada483c478174ccbcf3e49dc]: Commencement: Sch. 7 para. 21 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-70fba928ada483c478174ccbcf3e49dc]: Commencement: Sch. 7 para. 21 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-d21a2d67cb8263d1322cfcff29f0e875]: Commencement: Sch. 7 para. 22 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-d21a2d67cb8263d1322cfcff29f0e875]: Commencement: Sch. 7 para. 22 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-5a44930a752dc50d58950450d7ebde04]: Textual amendment: Words in [Sch. 7 para. 22(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/22/1) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(6)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/6)
+[^c-5a44930a752dc50d58950450d7ebde04]: Textual amendment: Words in [Sch. 7 para. 22(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/22/1) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(6)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/6)
 
-[^key-d11a0e7c6d75256eb2d7458c7e95b5d9]: Textual amendment: Words in [Sch. 7 para. 22(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/22/1) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(8)(a)](https://www.legislation.gov.uk/uksi/2025/124/article/31/8/a)
+[^c-d11a0e7c6d75256eb2d7458c7e95b5d9]: Textual amendment: Words in [Sch. 7 para. 22(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/22/1) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(8)(a)](https://www.legislation.gov.uk/uksi/2025/124/article/31/8/a)
 
-[^key-86c93451fa70cafa2432d32496345067]: Textual amendment: Word in [Sch. 7 para. 22(2)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/22/2) omitted (31.3.2025) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(8)(b)](https://www.legislation.gov.uk/uksi/2025/124/article/31/8/b)
+[^c-86c93451fa70cafa2432d32496345067]: Textual amendment: Word in [Sch. 7 para. 22(2)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/22/2) omitted (31.3.2025) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(8)(b)](https://www.legislation.gov.uk/uksi/2025/124/article/31/8/b)
 
-[^key-500f6429b50564e2b51706cd576ca7ff]: Textual amendment: Word in [Sch. 7 para. 22(3)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/22/3) omitted (31.3.2025) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(8)(c)](https://www.legislation.gov.uk/uksi/2025/124/article/31/8/c)
+[^c-500f6429b50564e2b51706cd576ca7ff]: Textual amendment: Word in [Sch. 7 para. 22(3)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/22/3) omitted (31.3.2025) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(8)(c)](https://www.legislation.gov.uk/uksi/2025/124/article/31/8/c)
 
-[^key-12ef7716d7fcbc39192a7e65667d0ae0]: Textual amendment: [Sch. 7 para. 22A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/22A) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [17(4)](https://www.legislation.gov.uk/uksi/2022/1173/article/17/4)
+[^c-12ef7716d7fcbc39192a7e65667d0ae0]: Textual amendment: [Sch. 7 para. 22A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/22A) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [17(4)](https://www.legislation.gov.uk/uksi/2022/1173/article/17/4)
 
-[^key-3534af8d450c7a099cdfa8936fbe885d]: Commencement: Sch. 7 para. 23 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-3534af8d450c7a099cdfa8936fbe885d]: Commencement: Sch. 7 para. 23 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-84122a79ea25a226b7fc62d747e3a087]: Textual amendment: [Sch. 7 para. 23A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/23A) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [17(5)](https://www.legislation.gov.uk/uksi/2022/1173/article/17/5)
+[^c-84122a79ea25a226b7fc62d747e3a087]: Textual amendment: [Sch. 7 para. 23A](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/23A) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [17(5)](https://www.legislation.gov.uk/uksi/2022/1173/article/17/5)
 
-[^key-d015563ca42f7a5b5bfc06f620b93d59]: Textual amendment: [Sch. 7 para. 23B](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/23B) inserted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(9)](https://www.legislation.gov.uk/uksi/2025/124/article/31/9)
+[^c-d015563ca42f7a5b5bfc06f620b93d59]: Textual amendment: [Sch. 7 para. 23B](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/23B) inserted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [31(9)](https://www.legislation.gov.uk/uksi/2025/124/article/31/9)
 
-[^key-8462659aa7fcfd1066f59d333947f77d]: Commencement: Sch. 7 para. 24 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-8462659aa7fcfd1066f59d333947f77d]: Commencement: Sch. 7 para. 24 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-396e0970f498204715cfd107d574d398]: Textual amendment: [Sch. 7 para. 24(1)(d)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/24/1/d) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(7)(a)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/7/a)
+[^c-396e0970f498204715cfd107d574d398]: Textual amendment: [Sch. 7 para. 24(1)(d)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/24/1/d) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(7)(a)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/7/a)
 
-[^key-139de3eb9aab19fb2703fe7753b7f03a]: Textual amendment: [Sch. 7 para. 24(3)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/24/3) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(7)(b)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/7/b)
+[^c-139de3eb9aab19fb2703fe7753b7f03a]: Textual amendment: [Sch. 7 para. 24(3)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/24/3) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(7)(b)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/7/b)
 
-[^key-3e0a8f96b32b12f756f5da4aa57012d3]: Commencement: Sch. 7 para. 25 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-3e0a8f96b32b12f756f5da4aa57012d3]: Commencement: Sch. 7 para. 25 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-b148e03d4913fdfbb0f1d9b69d14a847]: Commencement: Sch. 7 para. 26 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-b148e03d4913fdfbb0f1d9b69d14a847]: Commencement: Sch. 7 para. 26 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-2858639660ebbad6bbae59b3169a6462]: Textual amendment: Words in [Sch. 7 para. 26(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/26/1) substituted (31.3.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2024 (S.I. 2024/192)](https://www.legislation.gov.uk/uksi/2024/192), [arts. 2](https://www.legislation.gov.uk/uksi/2024/192/article/2), [8(4)(a)(i)](https://www.legislation.gov.uk/uksi/2024/192/article/8/4/a/i)
+[^c-2858639660ebbad6bbae59b3169a6462]: Textual amendment: Words in [Sch. 7 para. 26(1)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/26/1) substituted (31.3.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2024 (S.I. 2024/192)](https://www.legislation.gov.uk/uksi/2024/192), [arts. 2](https://www.legislation.gov.uk/uksi/2024/192/article/2), [8(4)(a)(i)](https://www.legislation.gov.uk/uksi/2024/192/article/8/4/a/i)
 
-[^key-a47fe10d85acc0ce4863d9e82c011d63]: Textual amendment: [Sch. 7 para. 26(1)(b)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/26/1/b) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(8)(a)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/8/a)
+[^c-a47fe10d85acc0ce4863d9e82c011d63]: Textual amendment: [Sch. 7 para. 26(1)(b)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/26/1/b) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(8)(a)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/8/a)
 
-[^key-271c67dab2b84144849d1eb34850bc61]: Textual amendment: Word in [Sch. 7 para. 26(1)(b)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/26/1/b) substituted (31.3.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2024 (S.I. 2024/192)](https://www.legislation.gov.uk/uksi/2024/192), [arts. 2](https://www.legislation.gov.uk/uksi/2024/192/article/2), [8(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/192/article/8/4/a/ii)
+[^c-271c67dab2b84144849d1eb34850bc61]: Textual amendment: Word in [Sch. 7 para. 26(1)(b)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/26/1/b) substituted (31.3.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2024 (S.I. 2024/192)](https://www.legislation.gov.uk/uksi/2024/192), [arts. 2](https://www.legislation.gov.uk/uksi/2024/192/article/2), [8(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/192/article/8/4/a/ii)
 
-[^key-2732a82f9d19f48953b569abbec49410]: Textual amendment: [Sch. 7 para. 26(4)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/26/4) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(8)(b)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/8/b)
+[^c-2732a82f9d19f48953b569abbec49410]: Textual amendment: [Sch. 7 para. 26(4)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/26/4) substituted (7.2.2022) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2021 (S.I. 2021/1455)](https://www.legislation.gov.uk/uksi/2021/1455), [arts. 2](https://www.legislation.gov.uk/uksi/2021/1455/article/2), [25(8)(b)](https://www.legislation.gov.uk/uksi/2021/1455/article/25/8/b)
 
-[^key-9d32e16a1d015454d0da21e986dbe985]: Textual amendment: Word in [Sch. 7 para. 26(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/26/4/a/i) substituted (31.3.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2024 (S.I. 2024/192)](https://www.legislation.gov.uk/uksi/2024/192), [arts. 2](https://www.legislation.gov.uk/uksi/2024/192/article/2), [8(4)(b)](https://www.legislation.gov.uk/uksi/2024/192/article/8/4/b)
+[^c-9d32e16a1d015454d0da21e986dbe985]: Textual amendment: Word in [Sch. 7 para. 26(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/7/paragraph/26/4/a/i) substituted (31.3.2024) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2024 (S.I. 2024/192)](https://www.legislation.gov.uk/uksi/2024/192), [arts. 2](https://www.legislation.gov.uk/uksi/2024/192/article/2), [8(4)(b)](https://www.legislation.gov.uk/uksi/2024/192/article/8/4/b)

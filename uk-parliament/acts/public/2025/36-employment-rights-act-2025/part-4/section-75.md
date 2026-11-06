@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Union supervision of picketing[^key-6ccaa89f4854d659066e62db6bc14251]
+## 75. Union supervision of picketing[^c-6ccaa89f4854d659066e62db6bc14251]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ccaa89f4854d659066e62db6bc14251]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2025/36/section/75) in force at 18.2.2026, see [s. 159(2)(l)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/l)
+[^c-6ccaa89f4854d659066e62db6bc14251]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2025/36/section/75) in force at 18.2.2026, see [s. 159(2)(l)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/l)

@@ -32,7 +32,7 @@ summary: ''
 
 environmental protection
 
-The Greenhouse Gas Emissions Trading Scheme (Miscellaneous Provisions) Regulations 2007 (revoked)[^key-a0ad2c95bdcb807faffbad3516030c24]
+The Greenhouse Gas Emissions Trading Scheme (Miscellaneous Provisions) Regulations 2007 (revoked)[^c-a0ad2c95bdcb807faffbad3516030c24]
 
 Made
 
@@ -46,27 +46,27 @@ Coming into force
 
 1st May 2007
 
-[^key-a0ad2c95bdcb807faffbad3516030c24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0ad2c95bdcb807faffbad3516030c24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a0ad2c95bdcb807faffbad3516030c24]
+## 1. Citation and commencement[^c-a0ad2c95bdcb807faffbad3516030c24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Specification of approved national allocation plan[^key-a0ad2c95bdcb807faffbad3516030c24]
+## 2. Specification of approved national allocation plan[^c-a0ad2c95bdcb807faffbad3516030c24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to The Greenhouse Gas Emissions Trading Scheme Regulations 2005[^key-a0ad2c95bdcb807faffbad3516030c24]
+## 3. Amendment to The Greenhouse Gas Emissions Trading Scheme Regulations 2005[^c-a0ad2c95bdcb807faffbad3516030c24]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a0ad2c95bdcb807faffbad3516030c24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a0ad2c95bdcb807faffbad3516030c24]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-a0ad2c95bdcb807faffbad3516030c24]EXPLANATORY NOTE
+[^c-a0ad2c95bdcb807faffbad3516030c24]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -80,4 +80,4 @@ A full regulatory impact assessment of the effect that the second scheme phase n
 
 ## Annotations
 
-[^key-a0ad2c95bdcb807faffbad3516030c24]: Textual amendment: Regulations revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), regs. 1, [85(b)(iii)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/b/iii) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))
+[^c-a0ad2c95bdcb807faffbad3516030c24]: Textual amendment: Regulations revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), regs. 1, [85(b)(iii)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/b/iii) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))

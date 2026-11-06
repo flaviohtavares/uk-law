@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Referral to the court: collection officer's report etc.[^key-bacc59791a6c8ab70c912457fcef071a]
+## 7. Referral to the court: collection officer's report etc.[^c-bacc59791a6c8ab70c912457fcef071a]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bacc59791a6c8ab70c912457fcef071a]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2016/21/section/7) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-bacc59791a6c8ab70c912457fcef071a]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2016/21/section/7) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

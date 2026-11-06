@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Reports on inspections[^key-7585df69f3eb84ea22dc389981a57095][^key-0e19224ba78e9aeb8072f07e88b7f80c]
+## 46. Reports on inspections[^c-7585df69f3eb84ea22dc389981a57095][^c-0e19224ba78e9aeb8072f07e88b7f80c]
 
 *Extent: S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7585df69f3eb84ea22dc389981a57095]: Commencement: S. 46 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-7585df69f3eb84ea22dc389981a57095]: Commencement: S. 46 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-0e19224ba78e9aeb8072f07e88b7f80c]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2025/11/section/46) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-0e19224ba78e9aeb8072f07e88b7f80c]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2025/11/section/46) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

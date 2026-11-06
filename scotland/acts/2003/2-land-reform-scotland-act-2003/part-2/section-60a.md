@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60A. Liability of owner of land for valuation expenses[^key-0b424979b4fe43bdf2d0b6e7f72ac63a]
+## 60A. Liability of owner of land for valuation expenses[^c-0b424979b4fe43bdf2d0b6e7f72ac63a]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b424979b4fe43bdf2d0b6e7f72ac63a]: Textual amendment: S. 60A inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 57](https://www.legislation.gov.uk/asp/2015/6/section/57), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-0b424979b4fe43bdf2d0b6e7f72ac63a]: Textual amendment: S. 60A inserted (15.4.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 57](https://www.legislation.gov.uk/asp/2015/6/section/57), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

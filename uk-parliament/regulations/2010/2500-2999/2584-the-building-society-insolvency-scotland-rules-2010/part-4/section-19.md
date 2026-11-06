@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Expenses of statement of affairs[^key-d2d6e073ead24693a1825163a2b3ecd6]
+## 19. Expenses of statement of affairs[^c-d2d6e073ead24693a1825163a2b3ecd6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.9 of the 1986 Rules.
 
 ## Annotations
 
-[^key-d2d6e073ead24693a1825163a2b3ecd6]: Commencement: Rule 19 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-d2d6e073ead24693a1825163a2b3ecd6]: Commencement: Rule 19 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

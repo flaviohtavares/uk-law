@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1145A. Land “in a derelict state”[^key-e2b530f0eaed4730f7bd7561f6457a02]
+## 1145A. Land “in a derelict state”[^c-e2b530f0eaed4730f7bd7561f6457a02]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of this Part land is in a derelict state if (and only if) the l
 
 ## Annotations
 
-[^key-e2b530f0eaed4730f7bd7561f6457a02]: Textual amendment: Ss. 1145-1145B substituted for s. 1145 (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/5)
+[^c-e2b530f0eaed4730f7bd7561f6457a02]: Textual amendment: Ss. 1145-1145B substituted for s. 1145 (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/5)

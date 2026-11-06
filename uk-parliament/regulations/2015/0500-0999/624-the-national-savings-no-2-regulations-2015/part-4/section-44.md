@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Accrual of interest[^key-f88a24fdd83e3149a394dbe6e48e987e]
+## 44. Accrual of interest[^c-f88a24fdd83e3149a394dbe6e48e987e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f88a24fdd83e3149a394dbe6e48e987e]: Commencement: Reg. 44 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-f88a24fdd83e3149a394dbe6e48e987e]: Commencement: Reg. 44 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

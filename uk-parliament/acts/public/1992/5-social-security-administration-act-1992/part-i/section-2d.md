@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2D. Work-related activity[^key-4ae0c8065dda10b5708100dac42ad8dc]
+## 2D. Work-related activity[^c-4ae0c8065dda10b5708100dac42ad8dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,7 +73,7 @@ a requirement to undertake work-related activity in accordance with regulations 
   - (ii) is responsible for, and a member of the same household as, a child;
 - (c) “**prescribed**” means specified in, or determined in accordance with, regulations;
 - (d) “**work-related activity**”, in relation to a person, means activity which makes it more likely that the person will obtain or remain in work or be able to do so;
-- (e) any reference to a person attaining pensionable age is, in the case of a man born before 6 December 1953[^key-db4f8fdc6891dabbeb4ecf6a66359c7c], a reference to the time when a woman born on the same day as the man would attain pensionable age;
+- (e) any reference to a person attaining pensionable age is, in the case of a man born before 6 December 1953[^c-db4f8fdc6891dabbeb4ecf6a66359c7c], a reference to the time when a woman born on the same day as the man would attain pensionable age;
 - (f) any reference to a benefit payable to C at a higher rate referable to P is a reference to any case where the amount payable is more than it would be if C and P were not members of the same couple.
 
 (10) For the purposes of this section regulations may make provision—
@@ -85,6 +85,6 @@ a requirement to undertake work-related activity in accordance with regulations 
 
 ## Annotations
 
-[^key-4ae0c8065dda10b5708100dac42ad8dc]: Textual amendment: Ss. 2D-2H inserted (12.11.2009) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/2/2), [61(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/1)
+[^c-4ae0c8065dda10b5708100dac42ad8dc]: Textual amendment: Ss. 2D-2H inserted (12.11.2009) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/2/2), [61(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/1)
 
-[^key-db4f8fdc6891dabbeb4ecf6a66359c7c]: Textual amendment: Words in s. 2D(9)(e) substituted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [s. 38(3)(a)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/3/a), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2011/19/schedule/1/paragraph/5)
+[^c-db4f8fdc6891dabbeb4ecf6a66359c7c]: Textual amendment: Words in s. 2D(9)(e) substituted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [s. 38(3)(a)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/3/a), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2011/19/schedule/1/paragraph/5)

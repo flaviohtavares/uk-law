@@ -22,7 +22,7 @@ summary: ''
 
 Section 10(1).
 
-### Part I — Powers of Acquisition[^key-4babbe302c2f04ea3318769587fd0a0a][^key-a38adedc9d43eb9d1c91185fae7c66e0][^c4119491]
+### Part I — Powers of Acquisition[^c-4babbe302c2f04ea3318769587fd0a0a][^c-a38adedc9d43eb9d1c91185fae7c66e0][^c4119491]
 
 **1.** (1) Subject to paragraph 2 below, the Secretary of State may authorise a licence holder to purchase compulsorily any land required for any purpose connected with the carrying on of the activities which he is authorised by his licence to carry on.
 
@@ -53,7 +53,7 @@ Section 10(1).
 
 **4.** Where a licence holder has acquired any land by virtue of paragraph 1 above, he shall not dispose of that land or of any interest in or right over it except with the consent of the Director.
 
-### Part II — Procedure, Compensation etc. (England and Wales)[^key-8367fead3781635ed492b70b283dd7c6][^key-eefbc7ea8a207f6ae052b362cbaa9fe6]
+### Part II — Procedure, Compensation etc. (England and Wales)[^c-8367fead3781635ed492b70b283dd7c6][^c-eefbc7ea8a207f6ae052b362cbaa9fe6]
 
 #### Application of Acquisition of Land Act 1981 generally
 
@@ -73,7 +73,7 @@ Section 10(1).
 
 > **7.** In assessing the compensation to be paid by the acquiring authority under this Act regard shall be had not only to the extent (if any) to which the value of the land over which the right is to be acquired is depreciated by the acquisition of the right but also to the damage (if any) to be sustained by the owner of the land by reason of its severance from other land of his, or injuriously affecting that other land by the exercise of the powers conferred by this or the special Act.
 
-**9.**[^key-8c4fcaa37b99ba6cf1e752f30b01451a] Section 8(1) of the Compulsory Purchase Act 1965 has effect as if references to acquiring land were to acquiring a right in the land, and Schedule 2A to that Act is to be read as if, for that Schedule, there were substituted—
+**9.**[^c-8c4fcaa37b99ba6cf1e752f30b01451a] Section 8(1) of the Compulsory Purchase Act 1965 has effect as if references to acquiring land were to acquiring a right in the land, and Schedule 2A to that Act is to be read as if, for that Schedule, there were substituted—
 
 > **SCHEDULE 2A — Counter-notice requiring purchase of land**
 >
@@ -139,7 +139,7 @@ Section 10(1).
 
 shall be so modified as to secure that, as against persons with interests in the land which are expressed to be overridden by the deed, the right which is to be compulsorily acquired is vested absolutely in the acquiring authority.
 
-**11.** Section 11 of that Act (powers of entry) shall be so modified as to secure that, as from the date on which the acquiring authority have served notice to treat in respect of any right, they have power, exercisable in the like circumstances and subject to the like conditions, to enter for the purpose of exercising that right (which shall be deemed for this purpose to have been created on the date of service of the notice); and sections 12 (penalty for unauthorised entry) and 13 (entry on enforcement officer's or sheriff's warrant[^key-e3a7f21a7f1c56d9ae7c7534435d9ce6] in the event of obstruction) shall be modified correspondingly.
+**11.** Section 11 of that Act (powers of entry) shall be so modified as to secure that, as from the date on which the acquiring authority have served notice to treat in respect of any right, they have power, exercisable in the like circumstances and subject to the like conditions, to enter for the purpose of exercising that right (which shall be deemed for this purpose to have been created on the date of service of the notice); and sections 12 (penalty for unauthorised entry) and 13 (entry on enforcement officer's or sheriff's warrant[^c-e3a7f21a7f1c56d9ae7c7534435d9ce6] in the event of obstruction) shall be modified correspondingly.
 
 **12.** Section 20 of that Act (protection for interests of tenants at will etc.) shall apply with the modifications necessary to secure that persons with such interests as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right in question.
 
@@ -234,9 +234,9 @@ shall be so modified as to secure that, as against persons with interests in the
 
 ## Annotations
 
-[^key-4babbe302c2f04ea3318769587fd0a0a]: Modification: Sch. 3 Pt. 1 applied in part (11.8.2022) by [The Sizewell C (Nuclear Generating Station) Order 2022 (S.I. 2022/853)](https://www.legislation.gov.uk/uksi/2022/853), [art. 1](https://www.legislation.gov.uk/uksi/2022/853/article/1), [Sch. 18 para. 2(3)](https://www.legislation.gov.uk/uksi/2022/853/schedule/18/paragraph/2/3) (with [arts. 62](https://www.legislation.gov.uk/uksi/2022/853/article/62), [76](https://www.legislation.gov.uk/uksi/2022/853/article/76), [87](https://www.legislation.gov.uk/uksi/2022/853/article/87))
+[^c-4babbe302c2f04ea3318769587fd0a0a]: Modification: Sch. 3 Pt. 1 applied in part (11.8.2022) by [The Sizewell C (Nuclear Generating Station) Order 2022 (S.I. 2022/853)](https://www.legislation.gov.uk/uksi/2022/853), [art. 1](https://www.legislation.gov.uk/uksi/2022/853/article/1), [Sch. 18 para. 2(3)](https://www.legislation.gov.uk/uksi/2022/853/schedule/18/paragraph/2/3) (with [arts. 62](https://www.legislation.gov.uk/uksi/2022/853/article/62), [76](https://www.legislation.gov.uk/uksi/2022/853/article/76), [87](https://www.legislation.gov.uk/uksi/2022/853/article/87))
 
-[^key-a38adedc9d43eb9d1c91185fae7c66e0]: Modification: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/1989/29/schedule/3/part/1) applied in part (with modifications) (13.11.2025) by [The Stonestreet Green Solar Order 2025 (S.I. 2025/1175)](https://www.legislation.gov.uk/uksi/2025/1175), [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1), [Sch. 12 para. 2(3)(4)](https://www.legislation.gov.uk/uksi/2025/1175/schedule/12/paragraph/2/3/4) (with [art. 40](https://www.legislation.gov.uk/uksi/2025/1175/article/40), [Sch. 13](https://www.legislation.gov.uk/uksi/2025/1175/schedule/13))
+[^c-a38adedc9d43eb9d1c91185fae7c66e0]: Modification: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/1989/29/schedule/3/part/1) applied in part (with modifications) (13.11.2025) by [The Stonestreet Green Solar Order 2025 (S.I. 2025/1175)](https://www.legislation.gov.uk/uksi/2025/1175), [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1), [Sch. 12 para. 2(3)(4)](https://www.legislation.gov.uk/uksi/2025/1175/schedule/12/paragraph/2/3/4) (with [art. 40](https://www.legislation.gov.uk/uksi/2025/1175/article/40), [Sch. 13](https://www.legislation.gov.uk/uksi/2025/1175/schedule/13))
 
 [^c4119491]: Modification: Sch. 3 Pt. 1: transfer of functions to the Scottish Minster (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1750/article/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1)
 
@@ -248,17 +248,17 @@ shall be so modified as to secure that, as against persons with interests in the
 
 [^c4119561]: Marginal citation: [1947 c. 42](https://www.legislation.gov.uk/ukpga/1947/42).
 
-[^key-8367fead3781635ed492b70b283dd7c6]: Modification: Sch. 3 Pt. 2 applied (11.8.2022) by [The Sizewell C (Nuclear Generating Station) Order 2022 (S.I. 2022/853)](https://www.legislation.gov.uk/uksi/2022/853), [art. 1](https://www.legislation.gov.uk/uksi/2022/853/article/1), [Sch. 18 para. 2(3)](https://www.legislation.gov.uk/uksi/2022/853/schedule/18/paragraph/2/3) (with [arts. 62](https://www.legislation.gov.uk/uksi/2022/853/article/62), [76](https://www.legislation.gov.uk/uksi/2022/853/article/76), [87](https://www.legislation.gov.uk/uksi/2022/853/article/87))
+[^c-8367fead3781635ed492b70b283dd7c6]: Modification: Sch. 3 Pt. 2 applied (11.8.2022) by [The Sizewell C (Nuclear Generating Station) Order 2022 (S.I. 2022/853)](https://www.legislation.gov.uk/uksi/2022/853), [art. 1](https://www.legislation.gov.uk/uksi/2022/853/article/1), [Sch. 18 para. 2(3)](https://www.legislation.gov.uk/uksi/2022/853/schedule/18/paragraph/2/3) (with [arts. 62](https://www.legislation.gov.uk/uksi/2022/853/article/62), [76](https://www.legislation.gov.uk/uksi/2022/853/article/76), [87](https://www.legislation.gov.uk/uksi/2022/853/article/87))
 
-[^key-eefbc7ea8a207f6ae052b362cbaa9fe6]: Modification: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/1989/29/schedule/3/part/2) applied (13.11.2025) by [The Stonestreet Green Solar Order 2025 (S.I. 2025/1175)](https://www.legislation.gov.uk/uksi/2025/1175), [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1), [Sch. 12 para. 2(3)(4)](https://www.legislation.gov.uk/uksi/2025/1175/schedule/12/paragraph/2/3/4) (with [art. 40](https://www.legislation.gov.uk/uksi/2025/1175/article/40), [Sch. 13](https://www.legislation.gov.uk/uksi/2025/1175/schedule/13))
+[^c-eefbc7ea8a207f6ae052b362cbaa9fe6]: Modification: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/1989/29/schedule/3/part/2) applied (13.11.2025) by [The Stonestreet Green Solar Order 2025 (S.I. 2025/1175)](https://www.legislation.gov.uk/uksi/2025/1175), [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1), [Sch. 12 para. 2(3)(4)](https://www.legislation.gov.uk/uksi/2025/1175/schedule/12/paragraph/2/3/4) (with [art. 40](https://www.legislation.gov.uk/uksi/2025/1175/article/40), [Sch. 13](https://www.legislation.gov.uk/uksi/2025/1175/schedule/13))
 
 [^c4119571]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
 [^c4119581]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 
-[^key-8c4fcaa37b99ba6cf1e752f30b01451a]: Textual amendment: Sch. 3 para. 9 substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 paras. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/7); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-8c4fcaa37b99ba6cf1e752f30b01451a]: Textual amendment: Sch. 3 para. 9 substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 paras. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/7); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
 
-[^key-e3a7f21a7f1c56d9ae7c7534435d9ce6]: Textual amendment: Words in Sch. 3 para. 11 substituted (1.4.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2007/15/schedule/22/paragraph/7); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 5(b)](https://www.legislation.gov.uk/uksi/2007/2709/article/5/b)
+[^c-e3a7f21a7f1c56d9ae7c7534435d9ce6]: Textual amendment: Words in Sch. 3 para. 11 substituted (1.4.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2007/15/schedule/22/paragraph/7); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 5(b)](https://www.legislation.gov.uk/uksi/2007/2709/article/5/b)
 
 [^c4119591]: Modification: Sch. 3 Pt. III para. 15: transfer of certain functions (S.) (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1](https://www.legislation.gov.uk/uksi/1999/1750/article/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.1A. Claims against Welsh public bodies to be issued and heard in Wales[^key-cfc05e5b5547e14add4c52a3089658f3]
+## 7.1A. Claims against Welsh public bodies to be issued and heard in Wales[^c-cfc05e5b5547e14add4c52a3089658f3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Unless required otherwise by any enactment, rule or practice direction, any clai
 
 ## Annotations
 
-[^key-cfc05e5b5547e14add4c52a3089658f3]: Textual amendment: Rules 7.1A, 7.1B inserted (1.10.2020) by [The Civil Procedure (Amendment No. 3) Rules 2020 (S.I. 2020/747)](https://www.legislation.gov.uk/uksi/2020/747), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/747/rule/5/2)
+[^c-cfc05e5b5547e14add4c52a3089658f3]: Textual amendment: Rules 7.1A, 7.1B inserted (1.10.2020) by [The Civil Procedure (Amendment No. 3) Rules 2020 (S.I. 2020/747)](https://www.legislation.gov.uk/uksi/2020/747), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/747/rule/5/2)

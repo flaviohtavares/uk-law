@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2012 (revoked)[^key-a88dbb6c9ab0498122a5b7493e85c84e]
+The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2012 (revoked)[^c-a88dbb6c9ab0498122a5b7493e85c84e]
 
 Made
 
@@ -42,40 +42,40 @@ Coming into operation
 
 30th June 2012
 
-[^key-a88dbb6c9ab0498122a5b7493e85c84e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a88dbb6c9ab0498122a5b7493e85c84e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a88dbb6c9ab0498122a5b7493e85c84e]
+## 1. Citation and commencement[^c-a88dbb6c9ab0498122a5b7493e85c84e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a88dbb6c9ab0498122a5b7493e85c84e]
+## 2. Interpretation[^c-a88dbb6c9ab0498122a5b7493e85c84e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Principal Regulations concerning offshore installations[^key-a88dbb6c9ab0498122a5b7493e85c84e]
+## 3. Amendment of the Principal Regulations concerning offshore installations[^c-a88dbb6c9ab0498122a5b7493e85c84e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Principal Regulations on certification bodies and attestation bodies[^key-a88dbb6c9ab0498122a5b7493e85c84e]
+## 4. Amendments to the Principal Regulations on certification bodies and attestation bodies[^c-a88dbb6c9ab0498122a5b7493e85c84e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Principal Regulations concerning prohibition notices[^key-a88dbb6c9ab0498122a5b7493e85c84e]
+## 5. Amendments to the Principal Regulations concerning prohibition notices[^c-a88dbb6c9ab0498122a5b7493e85c84e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to the Principal Regulations on qualifications of individuals relating to certain stationary equipment[^key-a88dbb6c9ab0498122a5b7493e85c84e]
+## 6. Amendments to the Principal Regulations on qualifications of individuals relating to certain stationary equipment[^c-a88dbb6c9ab0498122a5b7493e85c84e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a88dbb6c9ab0498122a5b7493e85c84e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a88dbb6c9ab0498122a5b7493e85c84e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a88dbb6c9ab0498122a5b7493e85c84e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a88dbb6c9ab0498122a5b7493e85c84e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a88dbb6c9ab0498122a5b7493e85c84e]: Textual amendment: Regulations revoked (31.1.2016) by [The Fluorinated Greenhouse Gases Regulations (Northern Ireland) 2015 (S.R. 2015/425)](https://www.legislation.gov.uk/nisr/2015/425), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/425/regulation/1/1), [30(b)](https://www.legislation.gov.uk/nisr/2015/425/regulation/30/b) (with [reg. 29](https://www.legislation.gov.uk/nisr/2015/425/regulation/29))
+[^c-a88dbb6c9ab0498122a5b7493e85c84e]: Textual amendment: Regulations revoked (31.1.2016) by [The Fluorinated Greenhouse Gases Regulations (Northern Ireland) 2015 (S.R. 2015/425)](https://www.legislation.gov.uk/nisr/2015/425), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/425/regulation/1/1), [30(b)](https://www.legislation.gov.uk/nisr/2015/425/regulation/30/b) (with [reg. 29](https://www.legislation.gov.uk/nisr/2015/425/regulation/29))

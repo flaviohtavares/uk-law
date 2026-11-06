@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 278. The Alcohol Education and Research Council[^key-8fa10288bae939e19bb28d67ec684a54]
+## 278. The Alcohol Education and Research Council[^c-8fa10288bae939e19bb28d67ec684a54]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fa10288bae939e19bb28d67ec684a54]: Commencement: [S. 278](https://www.legislation.gov.uk/ukpga/2012/7/section/278) in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-8fa10288bae939e19bb28d67ec684a54]: Commencement: [S. 278](https://www.legislation.gov.uk/ukpga/2012/7/section/278) in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)

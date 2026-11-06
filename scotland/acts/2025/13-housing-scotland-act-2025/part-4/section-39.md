@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Duty to inform: change of circumstances[^key-b62a6d5ab683547dc0bfec0840eb7331][^key-deef54347925949633c9e43ff764c927]
+## 39. Duty to inform: change of circumstances[^c-b62a6d5ab683547dc0bfec0840eb7331][^c-deef54347925949633c9e43ff764c927]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b62a6d5ab683547dc0bfec0840eb7331]: Commencement: S. 39 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-b62a6d5ab683547dc0bfec0840eb7331]: Commencement: S. 39 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-deef54347925949633c9e43ff764c927]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2025/13/section/39) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-deef54347925949633c9e43ff764c927]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2025/13/section/39) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

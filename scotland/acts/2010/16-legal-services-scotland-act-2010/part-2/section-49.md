@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Majority ownership[^key-959810b1afd1852f270f34c042ce2c61][^key-c6e5b7ca9de0ac1bd1d8eef49068ee4c]
+## 49. Majority ownership[^c-959810b1afd1852f270f34c042ce2c61][^c-c6e5b7ca9de0ac1bd1d8eef49068ee4c]
 
 *Extent: S*
 
@@ -40,13 +40,13 @@ summary: ''
 - (b) consult—
   - (i) the Law Society,
   - (ii) every approved regulator,
-  - (iii) the CMA[^key-24a8882df34b9d741e1c1d26af630ec2], and such other organisation (appearing to them to represent the interests of consumers in Scotland) as they consider appropriate,
+  - (iii) the CMA[^c-24a8882df34b9d741e1c1d26af630ec2], and such other organisation (appearing to them to represent the interests of consumers in Scotland) as they consider appropriate,
   - (iv) such other person or body as they consider appropriate.
 
 ## Annotations
 
-[^key-959810b1afd1852f270f34c042ce2c61]: Commencement: S. 49 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-959810b1afd1852f270f34c042ce2c61]: Commencement: S. 49 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-c6e5b7ca9de0ac1bd1d8eef49068ee4c]: Commencement: S. 49 in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-c6e5b7ca9de0ac1bd1d8eef49068ee4c]: Commencement: S. 49 in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-24a8882df34b9d741e1c1d26af630ec2]: Textual amendment: Word in s. 49(5)(b)(iii) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 196](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/196); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-24a8882df34b9d741e1c1d26af630ec2]: Textual amendment: Word in s. 49(5)(b)(iii) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 196](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/196); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

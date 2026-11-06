@@ -45,11 +45,11 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 32A(4)(a), 32C, 32D(1)(b), 32E(2)(a) and (8)(a), 32F(1)(b), 32H(6), 32I(1) to (4), 32J, 32K(1)(b), 47(1) and (2)(h) and (i), and 48(2) and (4) of, and paragraph 10 of Schedule 1 to, the Child Support (Northern Ireland) Order 1991[^f00001], and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-8c3369bfd752142ed370cc3be3d24ca3]
+## 1. Citation and commencement[^c-8c3369bfd752142ed370cc3be3d24ca3]
 
 These Regulations may be cited as the Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 and shall come into operation on 3rd August 2009.
 
-## 2. Amendment of the Child Support (Collection and Enforcement) Regulations[^key-23eee07d43eaaefe2676d6077acb28ed]
+## 2. Amendment of the Child Support (Collection and Enforcement) Regulations[^c-23eee07d43eaaefe2676d6077acb28ed]
 
 After Part III of the Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992[^f00003] insert—
 
@@ -585,9 +585,9 @@ After Part III of the Child Support (Collection and Enforcement) Regulations (No
 
 .
 
-## 3. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations[^key-f8b03fb3f45b9735da80cbb19ebe9f4f]
+## 3. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations[^c-f8b03fb3f45b9735da80cbb19ebe9f4f]
 
-In paragraph 4(2)(h) of the Schedule to the Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001 *(affected by repeal, see note)*[^key-29078148b8504fe688140a2fc671d4f0][^f00013] (earnings), omit “, other than any expenses wholly, exclusively, and necessarily incurred in the performance of those duties”. *(affected by repeal, see note)*[^key-29078148b8504fe688140a2fc671d4f0]
+In paragraph 4(2)(h) of the Schedule to the Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001 *(affected by repeal, see note)*[^c-29078148b8504fe688140a2fc671d4f0][^f00013] (earnings), omit “, other than any expenses wholly, exclusively, and necessarily incurred in the performance of those duties”. *(affected by repeal, see note)*[^c-29078148b8504fe688140a2fc671d4f0]
 
 Sealed with the Official Seal of the Department for Social Development on 28th July 2009
 
@@ -665,9 +665,9 @@ An assessment of the impact of these Regulations on the private and voluntary se
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-8c3369bfd752142ed370cc3be3d24ca3]: Commencement: Reg. 1 in operation at 3.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/286/regulation/1)
+[^c-8c3369bfd752142ed370cc3be3d24ca3]: Commencement: Reg. 1 in operation at 3.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/286/regulation/1)
 
-[^key-23eee07d43eaaefe2676d6077acb28ed]: Commencement: Reg. 2 in operation at 3.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/286/regulation/1)
+[^c-23eee07d43eaaefe2676d6077acb28ed]: Commencement: Reg. 2 in operation at 3.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/286/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1992 No. 390](https://www.legislation.gov.uk/nisr/1992/390)
 
@@ -689,8 +689,8 @@ An assessment of the impact of these Regulations on the private and voluntary se
 
 [^f00012]: Footnote: Paragraph 10C was inserted by section 1(3) of, and Schedule 1 to, the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4)(N.I.)](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-f8b03fb3f45b9735da80cbb19ebe9f4f]: Commencement: Reg. 3 in operation at 3.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/286/regulation/1)
+[^c-f8b03fb3f45b9735da80cbb19ebe9f4f]: Commencement: Reg. 3 in operation at 3.8.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/286/regulation/1)
 
-[^key-29078148b8504fe688140a2fc671d4f0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/286/regulation/3) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+[^c-29078148b8504fe688140a2fc671d4f0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/286/regulation/3) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
 
 [^f00013]: Footnote: [S.R. 2001 No. 18](https://www.legislation.gov.uk/nisr/2001/18)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Right to referral by Police Scotland to victim support services[^key-ba42490392b5b0b8874d5d5cf254c259][^key-9808ebfd247feae0bfb0f2ae6e2190f4]
+## 52. Right to referral by Police Scotland to victim support services[^c-ba42490392b5b0b8874d5d5cf254c259][^c-9808ebfd247feae0bfb0f2ae6e2190f4]
 
 *Extent: S*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba42490392b5b0b8874d5d5cf254c259]: Commencement: S. 52 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-ba42490392b5b0b8874d5d5cf254c259]: Commencement: S. 52 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-9808ebfd247feae0bfb0f2ae6e2190f4]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2025/12/section/52) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-9808ebfd247feae0bfb0f2ae6e2190f4]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2025/12/section/52) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

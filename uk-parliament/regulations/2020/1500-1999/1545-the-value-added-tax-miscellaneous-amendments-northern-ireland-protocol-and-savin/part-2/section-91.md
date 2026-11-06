@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Amendment of the Value Added Tax (Input Tax) (Specified Supplies) Order 1999[^key-51d87442a922d76d0b9abfd9bc5e6e9e]
+## 91. Amendment of the Value Added Tax (Input Tax) (Specified Supplies) Order 1999[^c-51d87442a922d76d0b9abfd9bc5e6e9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Value Added Tax (Input Tax) (Specified Supplies) Order 1999 [^c24395641] is 
 
 ## Annotations
 
-[^key-51d87442a922d76d0b9abfd9bc5e6e9e]: Commencement: Reg. 91 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-51d87442a922d76d0b9abfd9bc5e6e9e]: Commencement: Reg. 91 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395641]: Marginal citation: [S.I. 1999/3121](https://www.legislation.gov.uk/uksi/1999/3121); amended by [S.I. 2018/1328](https://www.legislation.gov.uk/uksi/2018/1328), 2019/175 and 2019/408. The two last-named instruments are not yet in force and are revoked by this instrument.

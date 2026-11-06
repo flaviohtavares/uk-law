@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Procedure
 
-The Mutual Recognition of Criminal Financial Penalties in the European Union (Scotland) (No. 2) Order 2014 (revoked)[^key-c8fb1fd14bae540b1a5e5562c2386125]
+The Mutual Recognition of Criminal Financial Penalties in the European Union (Scotland) (No. 2) Order 2014 (revoked)[^c-c8fb1fd14bae540b1a5e5562c2386125]
 
 Made
 
@@ -46,29 +46,29 @@ Coming into force
 
 1st December 2014
 
-[^key-c8fb1fd14bae540b1a5e5562c2386125]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8fb1fd14bae540b1a5e5562c2386125]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c8fb1fd14bae540b1a5e5562c2386125]
+## 1. Citation and commencement[^c-c8fb1fd14bae540b1a5e5562c2386125]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Criminal Procedure (Scotland) Act 1995[^key-c8fb1fd14bae540b1a5e5562c2386125]
+## 2. Amendment of the Criminal Procedure (Scotland) Act 1995[^c-c8fb1fd14bae540b1a5e5562c2386125]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c8fb1fd14bae540b1a5e5562c2386125] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c8fb1fd14bae540b1a5e5562c2386125] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-c8fb1fd14bae540b1a5e5562c2386125] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c8fb1fd14bae540b1a5e5562c2386125] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-c8fb1fd14bae540b1a5e5562c2386125] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c8fb1fd14bae540b1a5e5562c2386125] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8fb1fd14bae540b1a5e5562c2386125]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8fb1fd14bae540b1a5e5562c2386125]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-c8fb1fd14bae540b1a5e5562c2386125]EXPLANATORY NOTE
+[^c-c8fb1fd14bae540b1a5e5562c2386125]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -80,4 +80,4 @@ Article 5 makes corresponding amendments to the grounds for non-recognition spec
 
 ## Annotations
 
-[^key-c8fb1fd14bae540b1a5e5562c2386125]: Textual amendment: Order revoked (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [5(d)](https://www.legislation.gov.uk/ssi/2020/339/regulation/5/d)
+[^c-c8fb1fd14bae540b1a5e5562c2386125]: Textual amendment: Order revoked (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [5(d)](https://www.legislation.gov.uk/ssi/2020/339/regulation/5/d)

@@ -68,7 +68,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 17 — Annual close time for trout](part-1/section-17.md)
 
-#### Close times for freshwater fish[^key-65d1716b415bba07f7f1cc17140342e0]
+#### Close times for freshwater fish[^c-65d1716b415bba07f7f1cc17140342e0]
 
 - [Section 17A — Weekly close time for freshwater fish](part-1/section-17a.md)
 - [Section 17B — Annual close time for freshwater fish other than trout](part-1/section-17b.md)
@@ -107,7 +107,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 32 — Exception from regulations with respect to the construction of dams, lades and water wheels](part-1/section-32.md)
 - [Section 33 — Salmon fishing: regulations as to baits and lures](part-1/section-33.md)
 
-#### Unauthorised introduction of fish into inland waters[^key-2f400e858c870943fdf0483e0d354de8]
+#### Unauthorised introduction of fish into inland waters[^c-2f400e858c870943fdf0483e0d354de8]
 
 *Extent: S*
 
@@ -166,7 +166,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 50 — Powers of entry and obstruction of wardens etc.](part-4/section-50.md)
 - [Section 51 — Financial contributions towards organisations developing freshwater fisheries](part-4/section-51.md)
 
-### Conservation measures[^key-965aa74b65cd233ddc91b3cf2e44dbf8]
+### Conservation measures[^c-965aa74b65cd233ddc91b3cf2e44dbf8]
 
 - [Section 51A — Freshwater fish conservation regulations](section-51a.md)
 
@@ -215,8 +215,8 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-65d1716b415bba07f7f1cc17140342e0]: Textual amendment: S. 17A - S. 17B inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [ss. 22](https://www.legislation.gov.uk/asp/2007/12/section/22), [45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-65d1716b415bba07f7f1cc17140342e0]: Textual amendment: S. 17A - S. 17B inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [ss. 22](https://www.legislation.gov.uk/asp/2007/12/section/22), [45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-2f400e858c870943fdf0483e0d354de8]: Textual amendment: S. 33A and preceding cross heading inserted (1.8.2008) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [ss. 35(2)](https://www.legislation.gov.uk/asp/2007/12/section/35/2), [45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/333/article/2/2)
+[^c-2f400e858c870943fdf0483e0d354de8]: Textual amendment: S. 33A and preceding cross heading inserted (1.8.2008) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [ss. 35(2)](https://www.legislation.gov.uk/asp/2007/12/section/35/2), [45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/333/article/2/2)
 
-[^key-965aa74b65cd233ddc91b3cf2e44dbf8]: Textual amendment: [S. 51A](https://www.legislation.gov.uk/asp/2003/15/section/51A) inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [ss. 24(1)](https://www.legislation.gov.uk/asp/2007/12/section/24/1), [45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-965aa74b65cd233ddc91b3cf2e44dbf8]: Textual amendment: [S. 51A](https://www.legislation.gov.uk/asp/2003/15/section/51A) inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [ss. 24(1)](https://www.legislation.gov.uk/asp/2007/12/section/24/1), [45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)

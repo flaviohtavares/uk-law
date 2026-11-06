@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Annual rate of pension credit member’s pension[^key-6d2afe36aec7ffea492ec8a278ce60c2]
+## 93. Annual rate of pension credit member’s pension[^c-6d2afe36aec7ffea492ec8a278ce60c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6d2afe36aec7ffea492ec8a278ce60c2]: Commencement: [Reg. 93](https://www.legislation.gov.uk/uksi/2014/1964/regulation/93) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-6d2afe36aec7ffea492ec8a278ce60c2]: Commencement: [Reg. 93](https://www.legislation.gov.uk/uksi/2014/1964/regulation/93) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00062]: Footnote: Regulation 94 provides for the option to buy out early payment reduction.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Propellants etc.: fit for purpose requirement[^key-ad776821900b016f78c22e9b92bc4d25]
+## 160. Propellants etc.: fit for purpose requirement[^c-ad776821900b016f78c22e9b92bc4d25]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad776821900b016f78c22e9b92bc4d25]: Commencement: Reg. 160 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-ad776821900b016f78c22e9b92bc4d25]: Commencement: Reg. 160 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

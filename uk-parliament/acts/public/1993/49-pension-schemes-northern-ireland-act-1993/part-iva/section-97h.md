@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97H. Benefits other than money purchase: statements of entitlement.[^c11727411][^key-63f73bbc92176f6ef1361cf0dafa2a17]
+## 97H. Benefits other than money purchase: statements of entitlement.[^c11727411][^c-63f73bbc92176f6ef1361cf0dafa2a17]
 
 *Extent: N.I.*
 
-(1)[^key-24c57f96f99bc74456237babed078cd6] The trustees or managers of a qualifying scheme must, on the application of an eligible member, provide the member with a written statement of the amount of the cash equivalent of the member's pension credit rights in relation to categories of benefits other than money purchase benefits.
+(1)[^c-24c57f96f99bc74456237babed078cd6] The trustees or managers of a qualifying scheme must, on the application of an eligible member, provide the member with a written statement of the amount of the cash equivalent of the member's pension credit rights in relation to categories of benefits other than money purchase benefits.
 
 (1A) In the case of a member with pension credit rights in relation to two categories of benefits other than money purchase benefits, the application may relate to pension credit rights in relation to either or both of those categories.
 
@@ -37,6 +37,6 @@ summary: ''
 
 [^c11727411]: Textual amendment: Pt. 4A Chapters 1, 2 (ss. 97A-97Q) inserted (1.12.1999 for certain purposes and otherwise 1.12.2000) by [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), [arts. 1(5)(a)](https://www.legislation.gov.uk/nisi/1999/3147/article/1/5/a), [34](https://www.legislation.gov.uk/nisi/1999/3147/article/34); [S.R. 2000/133](https://www.legislation.gov.uk/nisr/2000/133), [art. 2(3)](https://www.legislation.gov.uk/nisr/2000/133/article/2/3), [Sch. Pt. IV](https://www.legislation.gov.uk/nisr/2000/133/schedule/part/IV)
 
-[^key-63f73bbc92176f6ef1361cf0dafa2a17]: Textual amendment: Words in s. 97H heading substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 63(3)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/63/3) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-63f73bbc92176f6ef1361cf0dafa2a17]: Textual amendment: Words in s. 97H heading substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 63(3)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/63/3) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-24c57f96f99bc74456237babed078cd6]: Textual amendment: S. 97H(1)(1A) substituted for s. 97H(1) (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 63(2)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/63/2) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-24c57f96f99bc74456237babed078cd6]: Textual amendment: S. 97H(1)(1A) substituted for s. 97H(1) (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 63(2)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/63/2) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

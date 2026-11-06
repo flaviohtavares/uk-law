@@ -32,7 +32,7 @@ summary: ''
 
 BUILDING AND BUILDINGS, ENGLAND AND WALES
 
-The Energy Performance of Buildings (Certificates and Inspections) (England and Wales) (Amendment) Regulations 2008 (revoked)[^key-0a6e4ecb76c7df092eb3a988086a7ac4]
+The Energy Performance of Buildings (Certificates and Inspections) (England and Wales) (Amendment) Regulations 2008 (revoked)[^c-0a6e4ecb76c7df092eb3a988086a7ac4]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 6th April 2008
 
-[^key-0a6e4ecb76c7df092eb3a988086a7ac4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a6e4ecb76c7df092eb3a988086a7ac4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, extent and commencement[^key-0a6e4ecb76c7df092eb3a988086a7ac4]
+## 1. Citation, extent and commencement[^c-0a6e4ecb76c7df092eb3a988086a7ac4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the principal regulations[^key-0a6e4ecb76c7df092eb3a988086a7ac4]
+## 2. Amendments to the principal regulations[^c-0a6e4ecb76c7df092eb3a988086a7ac4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a6e4ecb76c7df092eb3a988086a7ac4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a6e4ecb76c7df092eb3a988086a7ac4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a6e4ecb76c7df092eb3a988086a7ac4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a6e4ecb76c7df092eb3a988086a7ac4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0a6e4ecb76c7df092eb3a988086a7ac4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/647) revoked (9.1.2013) by [The Energy Performance of Buildings (England and Wales) Regulations 2012 (S.I. 2012/3118)](https://www.legislation.gov.uk/uksi/2012/3118), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/1/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3118/schedule/3) (with [reg. 44](https://www.legislation.gov.uk/uksi/2012/3118/regulation/44))
+[^c-0a6e4ecb76c7df092eb3a988086a7ac4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/647) revoked (9.1.2013) by [The Energy Performance of Buildings (England and Wales) Regulations 2012 (S.I. 2012/3118)](https://www.legislation.gov.uk/uksi/2012/3118), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/3118/regulation/1/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3118/schedule/3) (with [reg. 44](https://www.legislation.gov.uk/uksi/2012/3118/regulation/44))

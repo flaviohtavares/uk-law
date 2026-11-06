@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Provision of false or misleading information to trustees or managers[^key-895e9af2eccad6f67dcd3d4437f48776]
+## 114. Provision of false or misleading information to trustees or managers[^c-895e9af2eccad6f67dcd3d4437f48776]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ After section 80A of the Pensions Act 2004 (inserted by section 113) insert—
 
 ## Annotations
 
-[^key-895e9af2eccad6f67dcd3d4437f48776]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2021/1/section/114) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(h)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/h) (with [reg. 7](https://www.legislation.gov.uk/uksi/2021/950/regulation/7))
+[^c-895e9af2eccad6f67dcd3d4437f48776]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2021/1/section/114) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(h)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/h) (with [reg. 7](https://www.legislation.gov.uk/uksi/2021/950/regulation/7))

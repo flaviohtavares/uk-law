@@ -24,14 +24,14 @@ Section 56
 
 ### Introductory
 
-**1.**[^key-3d11ecb178b483176177252a33849450][^key-78f9d96c72c801a5bb8ed6aefb3305f0] (1) This Schedule applies where—
+**1.**[^c-3d11ecb178b483176177252a33849450][^c-78f9d96c72c801a5bb8ed6aefb3305f0] (1) This Schedule applies where—
 
 - (a) the driver of a vehicle is required by virtue of a relevant obligation to pay parking charges in respect of the parking of the vehicle on relevant land; and
 - (b) those charges have not been paid in full.
 
 (2) It is immaterial for the purposes of this Schedule whether or not the vehicle was permitted to be parked (or to remain parked) on the land.
 
-**2.**[^key-2b5530bba3b42e827c97288f5dcedb19][^key-7ec3a8bab78542b344d85f308ae2d731] (1) In this Schedule—
+**2.**[^c-2b5530bba3b42e827c97288f5dcedb19][^c-7ec3a8bab78542b344d85f308ae2d731] (1) In this Schedule—
 
 - “**the appropriate national authority**” means—
   - (a) in relation to relevant land in England, the Secretary of State; and
@@ -72,7 +72,7 @@ Section 56
   - (i) specify the sum as the charge for unauthorised parking; and
   - (ii) are adequate to bring the charge to the notice of drivers who park vehicles on the relevant land.
 
-**3.**[^key-c570fc13e669191db75d49a7d45a7f0b][^key-4d5f65d817949d5af6b9ce4401886e49] (1) In this Schedule “**relevant land**” means any land (including land above or below ground level) other than—
+**3.**[^c-c570fc13e669191db75d49a7d45a7f0b][^c-4d5f65d817949d5af6b9ce4401886e49] (1) In this Schedule “**relevant land**” means any land (including land above or below ground level) other than—
 
 - (a) a highway maintainable at the public expense (within the meaning of section 329(1) of the Highways Act 1980);
 - (b) a parking place which is provided or controlled by a traffic authority;
@@ -97,11 +97,11 @@ Section 56
 - (a) any Act (including a local or private Act), whenever passed; or
 - (b) any subordinate legislation, whenever made,
 
-and for this purpose “**subordinate legislation**” means an Order in Council or any order, regulations, byelaws or other legislative instrument , but not byelaws made under section 219 of the Transport Act 2000 by the Strategic Rail Authority, confirmed under Schedule 20 of the Transport Act 2000 and preserved by section 46(4) of the Railways Act 2005[^key-11b04d98dd89af9e1d2d77b3c4836320].
+and for this purpose “**subordinate legislation**” means an Order in Council or any order, regulations, byelaws or other legislative instrument , but not byelaws made under section 219 of the Transport Act 2000 by the Strategic Rail Authority, confirmed under Schedule 20 of the Transport Act 2000 and preserved by section 46(4) of the Railways Act 2005[^c-11b04d98dd89af9e1d2d77b3c4836320].
 
 ### Right to claim unpaid parking charges from keeper of vehicle
 
-**4.**[^key-51e4e731e09ddc5e39d8c26e82faa1b8][^key-5f89178801d340f0d80b86b258511754] (1) The creditor has the right to recover any unpaid parking charges from the keeper of the vehicle.
+**4.**[^c-51e4e731e09ddc5e39d8c26e82faa1b8][^c-5f89178801d340f0d80b86b258511754] (1) The creditor has the right to recover any unpaid parking charges from the keeper of the vehicle.
 
 (2) The right under this paragraph applies only if—
 
@@ -120,21 +120,21 @@ and for this purpose “**subordinate legislation**” means an Order in Council
 
 ### Conditions that must be met for purposes of paragraph 4
 
-**5.**[^key-c299f65659b2bb27c6bafe4926a8c9c3][^key-5be2a1685bd76515d57ef7e6f1922c15] (1) The first condition is that the creditor—
+**5.**[^c-c299f65659b2bb27c6bafe4926a8c9c3][^c-5be2a1685bd76515d57ef7e6f1922c15] (1) The first condition is that the creditor—
 
 - (a) has the right to enforce against the driver of the vehicle the requirement to pay the unpaid parking charges; but
 - (b) is unable to take steps to enforce that requirement against the driver because the creditor does not know both the name of the driver and a current address for service for the driver.
 
 (2) Sub-paragraph (1)(b) ceases to apply if (at any time after the end of the period of 28 days beginning with the day on which the notice to keeper is given) the creditor begins proceedings to recover the unpaid parking charges from the keeper.
 
-**6.**[^key-f878b677a7eaad4d64391b816fe94174][^key-a1cf6474ece3d10528cab11ee0c8a999] (1) The second condition is that the creditor (or a person acting for or on behalf of the creditor)—
+**6.**[^c-f878b677a7eaad4d64391b816fe94174][^c-a1cf6474ece3d10528cab11ee0c8a999] (1) The second condition is that the creditor (or a person acting for or on behalf of the creditor)—
 
 - (a) has given a notice to driver in accordance with paragraph 7, followed by a notice to keeper in accordance with paragraph 8; or
 - (b) has given a notice to keeper in accordance with paragraph 9.
 
 (2) If a notice to driver has been given, any subsequent notice to keeper must be given in accordance with paragraph 8.
 
-**7.**[^key-7edb37da8b3a8766a2bc5b95d01b9489][^key-05fa9c540781a64a79ddd94f9378e42e] (1) A notice which is to be relied on as a notice to driver for the purposes of paragraph 6(1)(a) is given in accordance with this paragraph if the following requirements are met.
+**7.**[^c-7edb37da8b3a8766a2bc5b95d01b9489][^c-05fa9c540781a64a79ddd94f9378e42e] (1) A notice which is to be relied on as a notice to driver for the purposes of paragraph 6(1)(a) is given in accordance with this paragraph if the following requirements are met.
 
 (2) The notice must—
 
@@ -161,7 +161,7 @@ by affixing it to the vehicle or by handing it to a person appearing to be in ch
 - (a) any procedures offered by the creditor for dealing informally with representations by the driver about the notice or any matter contained in it; and
 - (b) any arrangements under which disputes or complaints (however described) may be referred by the driver to independent adjudication or arbitration.
 
-**8.**[^key-6dbcb561cc0f7109fee39a67411d9d24][^key-a7caf478571a91f22c0226d392a739e9] (1) A notice which is to be relied on as a notice to keeper for the purposes of paragraph 6(1)(a) is given in accordance with this paragraph if the following requirements are met.
+**8.**[^c-6dbcb561cc0f7109fee39a67411d9d24][^c-a7caf478571a91f22c0226d392a739e9] (1) A notice which is to be relied on as a notice to keeper for the purposes of paragraph 6(1)(a) is given in accordance with this paragraph if the following requirements are met.
 
 (2) The notice must—
 
@@ -201,7 +201,7 @@ by affixing it to the vehicle or by handing it to a person appearing to be in ch
 - (a) any procedures offered by the creditor for dealing informally with representations by the keeper about the notice or any matter contained in it; and
 - (b) any arrangements under which disputes or complaints (however described) may be referred by the keeper to independent adjudication or arbitration.
 
-**9.**[^key-73b5f0e6c401a0560cc5ad9a6e7e367e][^key-612d7c18361092026a1bc77eceff6d7d] (1) A notice which is to be relied on as a notice to keeper for the purposes of paragraph 6(1)(b) is given in accordance with this paragraph if the following requirements are met.
+**9.**[^c-73b5f0e6c401a0560cc5ad9a6e7e367e][^c-612d7c18361092026a1bc77eceff6d7d] (1) A notice which is to be relied on as a notice to keeper for the purposes of paragraph 6(1)(b) is given in accordance with this paragraph if the following requirements are met.
 
 (2) The notice must—
 
@@ -241,7 +241,7 @@ by affixing it to the vehicle or by handing it to a person appearing to be in ch
 - (a) any procedures offered by the creditor for dealing informally with representations by the keeper about the notice or any matter contained in it; and
 - (b) any arrangements under which disputes or complaints (however described) may be referred by the keeper to independent adjudication or arbitration.
 
-**10.**[^key-88ccff633682e11f8b95fdbda0a20a8b][^key-605922c034953a0f2c126c76cf5fe578] (1) The appropriate national authority may by regulations made by statutory instrument prescribe evidence which must accompany a notice which is to be relied on as a notice to keeper for the purposes of paragraph 6(1)(a) or paragraph 6(1)(b) (as the case may be).
+**10.**[^c-88ccff633682e11f8b95fdbda0a20a8b][^c-605922c034953a0f2c126c76cf5fe578] (1) The appropriate national authority may by regulations made by statutory instrument prescribe evidence which must accompany a notice which is to be relied on as a notice to keeper for the purposes of paragraph 6(1)(a) or paragraph 6(1)(b) (as the case may be).
 
 (2) The regulations may in particular make provision as to—
 
@@ -253,7 +253,7 @@ by affixing it to the vehicle or by handing it to a person appearing to be in ch
 - (a) include incidental, supplementary, transitional, transitory or saving provision;
 - (b) make different provision for different purposes.
 
-**11.**[^key-63d5b1014e3a955781fe4b495935c9e5][^key-3f79be2c6bc671c9c2c539342d652430] (1) The third condition is that—
+**11.**[^c-63d5b1014e3a955781fe4b495935c9e5][^c-3f79be2c6bc671c9c2c539342d652430] (1) The third condition is that—
 
 - (a) the creditor (or a person acting for or on behalf of the creditor) has made an application for the keeper's details in relation to the period of parking to which the unpaid parking charges relate;
 - (b) the application was made during the relevant period for the purposes of paragraph 8(4) (where a notice to driver has been given) or 9(4) (where no notice to driver has been given);
@@ -266,7 +266,7 @@ by affixing it to the vehicle or by handing it to a person appearing to be in ch
 - (a) the name of the registered keeper of the vehicle during the period of parking to which the unpaid parking charges relate; and
 - (b) the address of that person as it appears on the register (or, if that person has ceased to be the registered keeper, as it last appeared on the register).
 
-**12.**[^key-f9b64ca3deaa1a21f73a129661aac38e][^key-231e9f45e19ecbe9eadf9a6389384d10] (1) The fourth condition is that any applicable requirements prescribed under this paragraph were met at the beginning of the period of parking to which the unpaid parking charges relate.
+**12.**[^c-f9b64ca3deaa1a21f73a129661aac38e][^c-231e9f45e19ecbe9eadf9a6389384d10] (1) The fourth condition is that any applicable requirements prescribed under this paragraph were met at the beginning of the period of parking to which the unpaid parking charges relate.
 
 (2) The appropriate national authority may by regulations made by statutory instrument prescribe requirements as to the display of notices on relevant land where parking charges may be incurred in respect of the parking of vehicles on the land.
 
@@ -283,7 +283,7 @@ by affixing it to the vehicle or by handing it to a person appearing to be in ch
 
 ### Hire vehicles
 
-**13.**[^key-9c09b4d92592692e5e11846d50f32265][^key-21839739818ed95cb578aefd27256894] (1) This paragraph applies in the case of parking charges incurred in respect of the parking of a vehicle on relevant land if—
+**13.**[^c-9c09b4d92592692e5e11846d50f32265][^c-21839739818ed95cb578aefd27256894] (1) This paragraph applies in the case of parking charges incurred in respect of the parking of a vehicle on relevant land if—
 
 - (a) the vehicle was at the time of parking hired to any person under a hire agreement with a vehicle-hire firm; and
 - (b) the keeper has been given a notice to keeper within the relevant period for the purposes of paragraph 8(4) or 9(4) (as the case may be).
@@ -317,7 +317,7 @@ by affixing it to the vehicle or by handing it to a person appearing to be in ch
 - (b) any reference to the currency of a hire agreement includes a reference to any period during which, with the consent of the vehicle-hire firm, the hirer continues in possession of the vehicle as hirer, after the expiry of any period specified in the agreement but otherwise on terms and conditions specified in it; and
 - (c) “**vehicle-hire firm**” means any person engaged in the hiring of vehicles in the course of a business.
 
-**14.**[^key-3bdfa3fd983543eae1bf7d6bfcfad9a1][^key-50f52324ad7ba0cbd4efecade3a85e74] (1) If—
+**14.**[^c-3bdfa3fd983543eae1bf7d6bfcfad9a1][^c-50f52324ad7ba0cbd4efecade3a85e74] (1) If—
 
 - (a) the creditor is by virtue of paragraph 13(2) unable to exercise the right to recover from the keeper any unpaid parking charges mentioned in the notice to keeper, and
 - (b) the conditions mentioned in sub-paragraph (2) below are met,
@@ -358,7 +358,7 @@ the creditor may recover those charges (so far as they remain unpaid) from the h
 
 ### Application to Crown vehicles etc
 
-**15.**[^key-f42f17fddfd579703393b64db1f626d4][^key-503489b95ca56cdc38bb88a7fa981363] (1) The provisions of this Schedule apply to—
+**15.**[^c-f42f17fddfd579703393b64db1f626d4][^c-503489b95ca56cdc38bb88a7fa981363] (1) The provisions of this Schedule apply to—
 
 - (a) vehicles in the public service of the Crown that are required to be registered under the Vehicle Excise and Registration Act 1994 (other than a vehicle exempted by sub-paragraph (2)), and
 - (b) any person in the public service of the Crown who is the keeper of a vehicle falling within paragraph (a).
@@ -370,7 +370,7 @@ the creditor may recover those charges (so far as they remain unpaid) from the h
 
 ### Power to amend Schedule
 
-**16.**[^key-500e40b8c5ea56e6173512b33030f15e][^key-1805b779adafb64bffe6ac670117617f] (1) The appropriate national authority may by order made by statutory instrument amend this Schedule for the purpose of—
+**16.**[^c-500e40b8c5ea56e6173512b33030f15e][^c-1805b779adafb64bffe6ac670117617f] (1) The appropriate national authority may by order made by statutory instrument amend this Schedule for the purpose of—
 
 - (a) amending the definition of “relevant land” in paragraph 3;
 - (b) adding to, removing or amending any of the conditions to which the right conferred by paragraph 4 is for the time being subject.
@@ -387,7 +387,7 @@ the creditor may recover those charges (so far as they remain unpaid) from the h
 
 ### Parliamentary procedure
 
-**17.**[^key-92ced2b61a478f1a8ec4f31a140a5949][^key-d67fd283ba60132d582d9b24d9e6a76a] (1) A statutory instrument containing regulations under any provision of this Schedule is subject to annulment by—
+**17.**[^c-92ced2b61a478f1a8ec4f31a140a5949][^c-d67fd283ba60132d582d9b24d9e6a76a] (1) A statutory instrument containing regulations under any provision of this Schedule is subject to annulment by—
 
 - (a) a resolution of either House of Parliament (in the case of regulations made by the Secretary of State); or
 - (b) a resolution of the National Assembly for Wales (in the case of regulations made by the Welsh Ministers).
@@ -399,72 +399,72 @@ the creditor may recover those charges (so far as they remain unpaid) from the h
 
 ## Annotations
 
-[^key-3d11ecb178b483176177252a33849450]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/1) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-3d11ecb178b483176177252a33849450]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/1) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-78f9d96c72c801a5bb8ed6aefb3305f0]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/1) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-78f9d96c72c801a5bb8ed6aefb3305f0]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/1) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-2b5530bba3b42e827c97288f5dcedb19]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/2) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-2b5530bba3b42e827c97288f5dcedb19]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/2) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-7ec3a8bab78542b344d85f308ae2d731]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/2) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-7ec3a8bab78542b344d85f308ae2d731]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/2) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-c570fc13e669191db75d49a7d45a7f0b]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/3) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-c570fc13e669191db75d49a7d45a7f0b]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/3) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-4d5f65d817949d5af6b9ce4401886e49]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/3) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-4d5f65d817949d5af6b9ce4401886e49]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/3) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-11b04d98dd89af9e1d2d77b3c4836320]: Textual amendment: Words in [Sch. 4 para. 3(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/3/4) inserted (26.12.2025) by [The Protection of Freedoms Act 2012 (Definition of Relevant Land) (Amendment) Order 2025 (S.I. 2025/1256)](https://www.legislation.gov.uk/uksi/2025/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1256/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1256/article/2)
+[^c-11b04d98dd89af9e1d2d77b3c4836320]: Textual amendment: Words in [Sch. 4 para. 3(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/3/4) inserted (26.12.2025) by [The Protection of Freedoms Act 2012 (Definition of Relevant Land) (Amendment) Order 2025 (S.I. 2025/1256)](https://www.legislation.gov.uk/uksi/2025/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1256/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1256/article/2)
 
-[^key-51e4e731e09ddc5e39d8c26e82faa1b8]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/4) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-51e4e731e09ddc5e39d8c26e82faa1b8]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/4) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-5f89178801d340f0d80b86b258511754]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/4) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-5f89178801d340f0d80b86b258511754]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/4) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-c299f65659b2bb27c6bafe4926a8c9c3]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/5) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-c299f65659b2bb27c6bafe4926a8c9c3]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/5) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-5be2a1685bd76515d57ef7e6f1922c15]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/5) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-5be2a1685bd76515d57ef7e6f1922c15]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/5) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-f878b677a7eaad4d64391b816fe94174]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/6) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-f878b677a7eaad4d64391b816fe94174]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/6) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-a1cf6474ece3d10528cab11ee0c8a999]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/6) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-a1cf6474ece3d10528cab11ee0c8a999]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/6) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-7edb37da8b3a8766a2bc5b95d01b9489]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/7) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-7edb37da8b3a8766a2bc5b95d01b9489]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/7) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-05fa9c540781a64a79ddd94f9378e42e]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/7) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-05fa9c540781a64a79ddd94f9378e42e]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/7) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-6dbcb561cc0f7109fee39a67411d9d24]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/8) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-6dbcb561cc0f7109fee39a67411d9d24]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/8) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-a7caf478571a91f22c0226d392a739e9]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/8) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-a7caf478571a91f22c0226d392a739e9]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/8) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-73b5f0e6c401a0560cc5ad9a6e7e367e]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/9) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-73b5f0e6c401a0560cc5ad9a6e7e367e]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/9) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-612d7c18361092026a1bc77eceff6d7d]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/9) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-612d7c18361092026a1bc77eceff6d7d]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/9) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-88ccff633682e11f8b95fdbda0a20a8b]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/10) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-88ccff633682e11f8b95fdbda0a20a8b]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/10) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-605922c034953a0f2c126c76cf5fe578]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/10) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-605922c034953a0f2c126c76cf5fe578]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/10) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-63d5b1014e3a955781fe4b495935c9e5]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/11) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-63d5b1014e3a955781fe4b495935c9e5]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/11) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-3f79be2c6bc671c9c2c539342d652430]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/11) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-3f79be2c6bc671c9c2c539342d652430]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/11) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-f9b64ca3deaa1a21f73a129661aac38e]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/12) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-f9b64ca3deaa1a21f73a129661aac38e]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/12) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-231e9f45e19ecbe9eadf9a6389384d10]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/12) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-231e9f45e19ecbe9eadf9a6389384d10]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/12) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-9c09b4d92592692e5e11846d50f32265]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/13) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-9c09b4d92592692e5e11846d50f32265]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/13) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-21839739818ed95cb578aefd27256894]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/13) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-21839739818ed95cb578aefd27256894]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/13) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-3bdfa3fd983543eae1bf7d6bfcfad9a1]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/14) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-3bdfa3fd983543eae1bf7d6bfcfad9a1]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/14) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-50f52324ad7ba0cbd4efecade3a85e74]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/14) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-50f52324ad7ba0cbd4efecade3a85e74]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/14) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-f42f17fddfd579703393b64db1f626d4]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/15) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-f42f17fddfd579703393b64db1f626d4]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/15) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-503489b95ca56cdc38bb88a7fa981363]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/15) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-503489b95ca56cdc38bb88a7fa981363]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/15) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-500e40b8c5ea56e6173512b33030f15e]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/16) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-500e40b8c5ea56e6173512b33030f15e]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/16) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-1805b779adafb64bffe6ac670117617f]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/16) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-1805b779adafb64bffe6ac670117617f]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/16) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
 
-[^key-92ced2b61a478f1a8ec4f31a140a5949]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/17) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
+[^c-92ced2b61a478f1a8ec4f31a140a5949]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/17) in force at 1.10.2012 for E. by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(f)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/f)
 
-[^key-d67fd283ba60132d582d9b24d9e6a76a]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/17) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)
+[^c-d67fd283ba60132d582d9b24d9e6a76a]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2012/9/schedule/4/paragraph/17) in force at 1.10.2012 for W. by [S.I. 2012/2499](https://www.legislation.gov.uk/wsi/2012/2499), [art. 2(1)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2012/2499/article/2/2/b)

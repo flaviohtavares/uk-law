@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Notices from the Commissioner[^key-cfac575d7ad1a38e945c5834144446c0]
+## 96. Notices from the Commissioner[^c-cfac575d7ad1a38e945c5834144446c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfac575d7ad1a38e945c5834144446c0]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2025/18/section/96) in force at 19.8.2025, see [s. 142(3)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/c)
+[^c-cfac575d7ad1a38e945c5834144446c0]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2025/18/section/96) in force at 19.8.2025, see [s. 142(3)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/c)

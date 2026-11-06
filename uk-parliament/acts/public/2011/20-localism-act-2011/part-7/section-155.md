@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Flexible tenancies: other amendments[^key-5f8c7f4d26407342acc4c3b1287b5406]
+## 155. Flexible tenancies: other amendments[^c-5f8c7f4d26407342acc4c3b1287b5406]
 
 *Extent: E+W*
 
-(1)[^key-464c148c77bb95fefa29cdebaf6b8998] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-464c148c77bb95fefa29cdebaf6b8998] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 84(1) of that Act (grounds and orders for possession of dwelling-house let on a secure tenancy) at the end insert “ or in accordance with section 107D (recovery of possession on expiry of flexible tenancy) ”.
 
@@ -86,6 +86,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f8c7f4d26407342acc4c3b1287b5406]: Commencement: S. 155 in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-5f8c7f4d26407342acc4c3b1287b5406]: Commencement: S. 155 in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-464c148c77bb95fefa29cdebaf6b8998]: Textual amendment: S. 155(1) repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(viii)(kk)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/kk) (as renumbered (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(b))
+[^c-464c148c77bb95fefa29cdebaf6b8998]: Textual amendment: S. 155(1) repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(viii)(kk)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/kk) (as renumbered (20.10.2014) by [S.I. 2014/2754](https://www.legislation.gov.uk/uksi/2014/2754), arts. 1, 3(b))

@@ -37,125 +37,125 @@ establishing a specific control and inspection programme related to the recovery
 
 (2008/323/EC) (revoked)
 
-[^key-df0487af037850ec3b2a00e54a623b27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df0487af037850ec3b2a00e54a623b27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject-matter[^key-df0487af037850ec3b2a00e54a623b27]
+## Article 1. Subject-matter[^c-df0487af037850ec3b2a00e54a623b27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Scope[^key-df0487af037850ec3b2a00e54a623b27]
+## Article 2. Scope[^c-df0487af037850ec3b2a00e54a623b27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. National control programmes[^key-df0487af037850ec3b2a00e54a623b27]
+## Article 3. National control programmes[^c-df0487af037850ec3b2a00e54a623b27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Cooperation between Member States[^key-df0487af037850ec3b2a00e54a623b27]
+## Article 4. Cooperation between Member States[^c-df0487af037850ec3b2a00e54a623b27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Commission inspections[^key-df0487af037850ec3b2a00e54a623b27]
+## Article 5. Commission inspections[^c-df0487af037850ec3b2a00e54a623b27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Joint inspection and surveillance activities[^key-df0487af037850ec3b2a00e54a623b27]
+## Article 6. Joint inspection and surveillance activities[^c-df0487af037850ec3b2a00e54a623b27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Infringements[^key-df0487af037850ec3b2a00e54a623b27]
+## Article 7. Infringements[^c-df0487af037850ec3b2a00e54a623b27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Information[^key-df0487af037850ec3b2a00e54a623b27]
+## Article 8. Information[^c-df0487af037850ec3b2a00e54a623b27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Evaluation[^key-df0487af037850ec3b2a00e54a623b27]
+## Article 9. Evaluation[^c-df0487af037850ec3b2a00e54a623b27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Addresses[^key-df0487af037850ec3b2a00e54a623b27]
+## Article 10. Addresses[^c-df0487af037850ec3b2a00e54a623b27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df0487af037850ec3b2a00e54a623b27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Common rules for national control programmes, as referred to in Article 3(1)[^key-df0487af037850ec3b2a00e54a623b27]
+## ANNEX I — Common rules for national control programmes, as referred to in Article 3(1)[^c-df0487af037850ec3b2a00e54a623b27]
 
-[^key-df0487af037850ec3b2a00e54a623b27]Objectives
+[^c-df0487af037850ec3b2a00e54a623b27]Objectives
 
-[^key-df0487af037850ec3b2a00e54a623b27]1.
+[^c-df0487af037850ec3b2a00e54a623b27]1.
 
 The general objective of the national control programmes shall be the verification of compliance with applicable legislation concerning:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]2.
+[^c-df0487af037850ec3b2a00e54a623b27]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]Strategy
+[^c-df0487af037850ec3b2a00e54a623b27]Strategy
 
 The national control programme shall concentrate on control and inspection of fishing and all related activities by any fishing vessel, trap, farm and enterprise engaged in the processing and/or trade of bluefin tuna products.
 
 Inspections of transport and marketing of bluefin tuna shall be used as a complementary cross-checking mechanism to test the efficiency of the control and inspection.
 
-[^key-df0487af037850ec3b2a00e54a623b27]1.1.
+[^c-df0487af037850ec3b2a00e54a623b27]1.1.
 
 Priorities
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]1.2.
+[^c-df0487af037850ec3b2a00e54a623b27]1.2.
 
 Target benchmarks
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]Inspection tasks
+[^c-df0487af037850ec3b2a00e54a623b27]Inspection tasks
 
-[^key-df0487af037850ec3b2a00e54a623b27]1.3.
+[^c-df0487af037850ec3b2a00e54a623b27]1.3.
 
 General inspection tasks
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]1.4.
+[^c-df0487af037850ec3b2a00e54a623b27]1.4.
 
 Inspection tasks for aerial surveillance
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]1.5.
+[^c-df0487af037850ec3b2a00e54a623b27]1.5.
 
 Inspection tasks at sea
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]1.6.
+[^c-df0487af037850ec3b2a00e54a623b27]1.6.
 
 Inspection tasks at landing
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]1.7.
+[^c-df0487af037850ec3b2a00e54a623b27]1.7.
 
 Inspection tasks during transhipment
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]1.8.
+[^c-df0487af037850ec3b2a00e54a623b27]1.8.
 
 Inspection tasks on farm installations
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]1.9.
+[^c-df0487af037850ec3b2a00e54a623b27]1.9.
 
 Inspection tasks concerning transports and marketing
 
@@ -163,36 +163,36 @@ Inspection tasks concerning transports and marketing
 
 [image: see source](https://www.legislation.gov.uk/eudn/2008/323/images/eudn_20080323_2008-04-01_en_001)
 
-## ANNEX II — Contents of national control programmes as referred to in Article 3(2)[^key-df0487af037850ec3b2a00e54a623b27]
+## ANNEX II — Contents of national control programmes as referred to in Article 3(2)[^c-df0487af037850ec3b2a00e54a623b27]
 
-[^key-df0487af037850ec3b2a00e54a623b27]
+[^c-df0487af037850ec3b2a00e54a623b27]
 
 National control programmes shall, *inter alia*, specify:
 
-[^key-df0487af037850ec3b2a00e54a623b27]Means of control
+[^c-df0487af037850ec3b2a00e54a623b27]Means of control
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]Designation of ports
+[^c-df0487af037850ec3b2a00e54a623b27]Designation of ports
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]Annual fishing plans
+[^c-df0487af037850ec3b2a00e54a623b27]Annual fishing plans
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]Inspection protocols
+[^c-df0487af037850ec3b2a00e54a623b27]Inspection protocols
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]Guidelines
+[^c-df0487af037850ec3b2a00e54a623b27]Guidelines
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df0487af037850ec3b2a00e54a623b27]Communication protocols
+[^c-df0487af037850ec3b2a00e54a623b27]Communication protocols
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-df0487af037850ec3b2a00e54a623b27]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-df0487af037850ec3b2a00e54a623b27]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

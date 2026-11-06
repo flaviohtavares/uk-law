@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Acting as agent for unqualified person[^key-a2bd4b8b3bda23faa5e1540873245a6c]
+## 27. Acting as agent for unqualified person[^c-a2bd4b8b3bda23faa5e1540873245a6c]
 
 *Extent: N.I.*
 
-(1)[^c17113171][^key-9d8972b2d09618c5038c174673a19689] Where—
+(1)[^c17113171][^c-9d8972b2d09618c5038c174673a19689] Where—
 
 - (a) a complaint is made to the Lord Chief Justice that a solicitor has wilfully and knowingly—
   - (i) acted as agent in any action, suit, matter or transaction for any unqualified person; or
@@ -37,10 +37,10 @@ then the Lord Chief Justice may impose upon the solicitor a fine not exceeding �
 
 ## Annotations
 
-[^key-a2bd4b8b3bda23faa5e1540873245a6c]: Modification: [Art. 27](https://www.legislation.gov.uk/nisi/1976/582/article/27) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/c)
+[^c-a2bd4b8b3bda23faa5e1540873245a6c]: Modification: [Art. 27](https://www.legislation.gov.uk/nisi/1976/582/article/27) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/c)
 
 [^c17113171]: Textual amendment: SI 1978/1910
 
-[^key-9d8972b2d09618c5038c174673a19689]: Modification: [Art. 27(1)](https://www.legislation.gov.uk/nisi/1976/582/article/27/1) applied ( with modifications) (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/4)
+[^c-9d8972b2d09618c5038c174673a19689]: Modification: [Art. 27(1)](https://www.legislation.gov.uk/nisi/1976/582/article/27/1) applied ( with modifications) (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/4)
 
 [^c17113181]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)

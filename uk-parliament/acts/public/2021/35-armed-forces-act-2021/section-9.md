@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Reserve forces: flexibility of commitments[^key-18271819da96afb764d3619641f13824][^key-7dee65495042a5eff40516ab82d1706a]
+## 9. Reserve forces: flexibility of commitments[^c-18271819da96afb764d3619641f13824][^c-7dee65495042a5eff40516ab82d1706a]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,6 +94,6 @@ summary: ''
 
 ## Annotations
 
-[^key-18271819da96afb764d3619641f13824]: Commencement: S. 9 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-18271819da96afb764d3619641f13824]: Commencement: S. 9 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-7dee65495042a5eff40516ab82d1706a]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/35/section/9) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/c)
+[^c-7dee65495042a5eff40516ab82d1706a]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/35/section/9) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/c)

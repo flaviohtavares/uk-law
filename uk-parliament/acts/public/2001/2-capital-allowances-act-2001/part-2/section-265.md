@@ -23,9 +23,9 @@ summary: ''
 (1) This section applies if—
 
 - (a) a person (“**the successor**”) succeeds to a qualifying activity which until that time was carried on by another person (“**the predecessor**”), and
-- (b)[^key-1a1c54a02a4f2c27a225f1234443b879] if the qualifying activity is a trade or property business, the condition in subsection (1A) or (1B) (whichever is appropriate) is met.
+- (b)[^c-1a1c54a02a4f2c27a225f1234443b879] if the qualifying activity is a trade or property business, the condition in subsection (1A) or (1B) (whichever is appropriate) is met.
 
-(1A)[^key-00a59b9cbb7915926e8574a6943914e5] For income tax purposes, the condition is that no person carrying on the trade or property business immediately before the succession continues to carry it on after the succession.
+(1A)[^c-00a59b9cbb7915926e8574a6943914e5] For income tax purposes, the condition is that no person carrying on the trade or property business immediately before the succession continues to carry it on after the succession.
 
 (1B) For corporation tax purposes, the condition is that no company carrying on the trade or property business in partnership immediately before the succession continues to carry it on in partnership after the succession.
 
@@ -39,7 +39,7 @@ summary: ''
 - (a) immediately before the succession, was owned by the predecessor and was either in use or provided and available for use for the purposes of the discontinued qualifying activity, and
 - (b) immediately after the succession, and without being sold, is either in use or provided and available for use for the purposes of the new qualifying activity.
 
-(4) No entitlement to an annual investment allowance or[^key-8a03c22302b901fa756ba3c21fb85400] a first-year allowance arises under this section.
+(4) No entitlement to an annual investment allowance or[^c-8a03c22302b901fa756ba3c21fb85400] a first-year allowance arises under this section.
 
 (5) In this section “**qualifying activity**”—
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1a1c54a02a4f2c27a225f1234443b879]: Textual amendment: S. 265(1)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 496(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/496/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-1a1c54a02a4f2c27a225f1234443b879]: Textual amendment: S. 265(1)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 496(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/496/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-00a59b9cbb7915926e8574a6943914e5]: Textual amendment: S. 265(1A)(1B) substituted for s. 265(1A) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 496(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/496/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-00a59b9cbb7915926e8574a6943914e5]: Textual amendment: S. 265(1A)(1B) substituted for s. 265(1A) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 496(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/496/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-8a03c22302b901fa756ba3c21fb85400]: Textual amendment: Words in s. 265(4) inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 14](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/14)
+[^c-8a03c22302b901fa756ba3c21fb85400]: Textual amendment: Words in s. 265(4) inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 14](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/14)

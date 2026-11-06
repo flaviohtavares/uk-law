@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Reserve power to control fund-raising by charitable institutions[^key-6c82a8fa27b5b2aa32eff81edb8a4640]
+## 69. Reserve power to control fund-raising by charitable institutions[^c-6c82a8fa27b5b2aa32eff81edb8a4640]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ After section 64 of the 1992 Act insert—
 
 ## Annotations
 
-[^key-6c82a8fa27b5b2aa32eff81edb8a4640]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2006/50/section/69) in force at 27.2.2007 by [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-6c82a8fa27b5b2aa32eff81edb8a4640]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2006/50/section/69) in force at 27.2.2007 by [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)

@@ -25,7 +25,7 @@ summary: ''
 - (a) the commission, preparation or instigation of acts of terrorism;
 - (b) conduct which facilitates the commission, preparation or instigation of such acts, or which is intended to do so;
 - (c) conduct which gives encouragement to the commission, preparation or instigation of such acts, or which is intended to do so;
-- (d) conduct which gives support or assistance to individuals who are known or believed by the individual concerned to be involved in conduct falling within paragraph (a)[^key-4cb28c8f4338b07a9112ad41e63380ad];
+- (d) conduct which gives support or assistance to individuals who are known or believed by the individual concerned to be involved in conduct falling within paragraph (a)[^c-4cb28c8f4338b07a9112ad41e63380ad];
 
 and for the purposes of this Act it is immaterial whether the acts of terrorism in question are specific acts of terrorism or acts of terrorism in general.
 
@@ -33,4 +33,4 @@ and for the purposes of this Act it is immaterial whether the acts of terrorism 
 
 ## Annotations
 
-[^key-4cb28c8f4338b07a9112ad41e63380ad]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/ukpga/2011/23/section/4/1) substituted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2015/6/section/20/2), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+[^c-4cb28c8f4338b07a9112ad41e63380ad]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/ukpga/2011/23/section/4/1) substituted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2015/6/section/20/2), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)

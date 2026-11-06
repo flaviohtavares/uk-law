@@ -35,26 +35,26 @@ concerning the authorisation of preparations of *Lactobacillus plantarum* (DSM 2
 
 (Text with EEA relevance) (revoked)
 
-[^key-4ec070624e62e0008b963ac7787fd34d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ec070624e62e0008b963ac7787fd34d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-4ec070624e62e0008b963ac7787fd34d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Transitional measures[^key-4ec070624e62e0008b963ac7787fd34d]
+## Article 1. Authorisation[^c-4ec070624e62e0008b963ac7787fd34d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-4ec070624e62e0008b963ac7787fd34d]
+## Article 2. Transitional measures[^c-4ec070624e62e0008b963ac7787fd34d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ec070624e62e0008b963ac7787fd34d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 3. Entry into force[^c-4ec070624e62e0008b963ac7787fd34d]
 
-## ANNEX[^key-4ec070624e62e0008b963ac7787fd34d]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4ec070624e62e0008b963ac7787fd34d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-4ec070624e62e0008b963ac7787fd34d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ec070624e62e0008b963ac7787fd34d]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 94](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/94) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-4ec070624e62e0008b963ac7787fd34d]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 94](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/94) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

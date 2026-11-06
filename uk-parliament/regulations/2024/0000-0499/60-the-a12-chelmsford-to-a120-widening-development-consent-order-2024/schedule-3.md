@@ -22,7 +22,7 @@ summary: ''
 
 Articles 14, 15 and 22
 
-### PART 1 — TRUNK ROADS[^key-764e27b3e1bf69587f5eb2b62960baa1]
+### PART 1 — TRUNK ROADS[^c-764e27b3e1bf69587f5eb2b62960baa1]
 
 <table>
 <thead>
@@ -83,7 +83,7 @@ Articles 14, 15 and 22
 </tbody>
 </table>
 
-### PART 2 — CLASSIFIED A ROADS[^key-36dd1cfb7e1ee004b58927e420e5265d]
+### PART 2 — CLASSIFIED A ROADS[^c-36dd1cfb7e1ee004b58927e420e5265d]
 
 <table>
 <thead>
@@ -107,7 +107,7 @@ Articles 14, 15 and 22
 </tbody>
 </table>
 
-### PART 3 — CLASSIFIED B ROADS[^key-a2f045a0c28327c5b720fdf0846cfa10]
+### PART 3 — CLASSIFIED B ROADS[^c-a2f045a0c28327c5b720fdf0846cfa10]
 
 <table>
 <thead>
@@ -164,7 +164,7 @@ Articles 14, 15 and 22
 </tbody>
 </table>
 
-### PART 4 — CLASSIFIED C ROADS[^key-1dd96d5225afd136cc8e3f7755ef419c]
+### PART 4 — CLASSIFIED C ROADS[^c-1dd96d5225afd136cc8e3f7755ef419c]
 
 <table>
 <thead>
@@ -189,7 +189,7 @@ Articles 14, 15 and 22
 </tbody>
 </table>
 
-### PART 5 — UNCLASSIFIED ROADS[^key-f3f1f476cc03750a0347cfc49596772c]
+### PART 5 — UNCLASSIFIED ROADS[^c-f3f1f476cc03750a0347cfc49596772c]
 
 <table>
 <thead>
@@ -228,7 +228,7 @@ Articles 14, 15 and 22
 </tbody>
 </table>
 
-### PART 6 — SPEED LIMITS[^key-893fe8ffe1c3eca871aa7d0531ddd01b]
+### PART 6 — SPEED LIMITS[^c-893fe8ffe1c3eca871aa7d0531ddd01b]
 
 Note: where speed limits are indicated on the plans relating to this Part (the traffic regulation measures speed limits plan) but are not referenced in this Schedule, they indicate that national speed limits apply in accordance with either—
 
@@ -338,7 +338,7 @@ and are not subject to this Order. For details of the scheme lighting design, re
 </tbody>
 </table>
 
-### PART 7 — VARIABLE SPEED LIMITS[^key-b1906a0224c3beb3a4603b29687b388b]
+### PART 7 — VARIABLE SPEED LIMITS[^c-b1906a0224c3beb3a4603b29687b388b]
 
 Note: see the Note to Part 6.
 
@@ -384,7 +384,7 @@ Note: see the Note to Part 6.
 </tbody>
 </table>
 
-### PART 8 — TRAFFIC REGULATION MEASURES (CLEARWAYS)[^key-41ce7f3069bf2d2fff750cf48b8bdf53]
+### PART 8 — TRAFFIC REGULATION MEASURES (CLEARWAYS)[^c-41ce7f3069bf2d2fff750cf48b8bdf53]
 
 <table>
 <thead>
@@ -455,7 +455,7 @@ Note: see the Note to Part 6.
 </tbody>
 </table>
 
-### PART 9 — TRAFFIC REGULATION MEASURES (PROHIBITIONS)[^key-8a6d2842df745e903566433464d0da6f]
+### PART 9 — TRAFFIC REGULATION MEASURES (PROHIBITIONS)[^c-8a6d2842df745e903566433464d0da6f]
 
 <table>
 <thead>
@@ -489,7 +489,7 @@ Note: see the Note to Part 6.
 </tbody>
 </table>
 
-### PART 10 — TRAFFIC REGULATION MEASURES (NO ENTRY)[^key-dc0356de775a1604bfbef0ee2cea5b32]
+### PART 10 — TRAFFIC REGULATION MEASURES (NO ENTRY)[^c-dc0356de775a1604bfbef0ee2cea5b32]
 
 <table>
 <thead>
@@ -514,9 +514,9 @@ Note: see the Note to Part 6.
 </tbody>
 </table>
 
-[^key-6cd612ea09f6153ad8ca7f6eff839863]
+[^c-6cd612ea09f6153ad8ca7f6eff839863]
 
-### PART 11 — TRAFFIC REGULATION MEASURES (WAITING RESTRICTIONS)[^key-7f709b4842aa3b9c7d7395b07c5351b3]
+### PART 11 — TRAFFIC REGULATION MEASURES (WAITING RESTRICTIONS)[^c-7f709b4842aa3b9c7d7395b07c5351b3]
 
 <table>
 <thead>
@@ -539,7 +539,7 @@ Note: see the Note to Part 6.
 </tbody>
 </table>
 
-### PART 12 — REVOCATIONS & VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^key-dd42ba9eeb2f3f584d67edc8cc220ac1]
+### PART 12 — REVOCATIONS & VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^c-dd42ba9eeb2f3f584d67edc8cc220ac1]
 
 <table>
 <thead>
@@ -577,9 +577,9 @@ Note: see the Note to Part 6.
 </tbody>
 </table>
 
-[^key-83d6f45b893a1b87130b5b9bc0198f9f][^f00110][^f00111][^key-8e95667465c6be4cf7c43982bb0814fa][^key-017f4fd4d4587bffa51bb96bfe1a7d05][^key-b7f5a2e856295559b21826a88ead7d76]
+[^c-83d6f45b893a1b87130b5b9bc0198f9f][^f00110][^f00111][^c-8e95667465c6be4cf7c43982bb0814fa][^c-017f4fd4d4587bffa51bb96bfe1a7d05][^c-b7f5a2e856295559b21826a88ead7d76]
 
-### PART 13 — FOOTPATHS, CYCLE TRACKS, FOOTWAYS AND BRIDLEWAYS[^key-2f2fa605bf00c567d3ec67678e40f17a]
+### PART 13 — FOOTPATHS, CYCLE TRACKS, FOOTWAYS AND BRIDLEWAYS[^c-2f2fa605bf00c567d3ec67678e40f17a]
 
 <table>
 <thead>
@@ -773,7 +773,7 @@ Note: see the Note to Part 6.
 </tbody>
 </table>
 
-### PART 14 — ROADS TO BE DE-TRUNKED[^key-0e1ffa5fac6b46fdddabcccfe1b047d1]
+### PART 14 — ROADS TO BE DE-TRUNKED[^c-0e1ffa5fac6b46fdddabcccfe1b047d1]
 
 <table>
 <thead>
@@ -797,17 +797,17 @@ Note: see the Note to Part 6.
 
 ## Annotations
 
-[^key-764e27b3e1bf69587f5eb2b62960baa1]: Commencement: Sch. 3 Pt. 1 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-764e27b3e1bf69587f5eb2b62960baa1]: Commencement: Sch. 3 Pt. 1 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-36dd1cfb7e1ee004b58927e420e5265d]: Commencement: Sch. 3 Pt. 2 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-36dd1cfb7e1ee004b58927e420e5265d]: Commencement: Sch. 3 Pt. 2 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-a2f045a0c28327c5b720fdf0846cfa10]: Commencement: Sch. 3 Pt. 3 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-a2f045a0c28327c5b720fdf0846cfa10]: Commencement: Sch. 3 Pt. 3 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-1dd96d5225afd136cc8e3f7755ef419c]: Commencement: Sch. 3 Pt. 4 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-1dd96d5225afd136cc8e3f7755ef419c]: Commencement: Sch. 3 Pt. 4 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-f3f1f476cc03750a0347cfc49596772c]: Commencement: Sch. 3 Pt. 5 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-f3f1f476cc03750a0347cfc49596772c]: Commencement: Sch. 3 Pt. 5 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-893fe8ffe1c3eca871aa7d0531ddd01b]: Commencement: Sch. 3 Pt. 6 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-893fe8ffe1c3eca871aa7d0531ddd01b]: Commencement: Sch. 3 Pt. 6 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
 [^f00106]: Footnote: There are amendments to section 86 which are not relevant to this Order.
 
@@ -817,32 +817,32 @@ Note: see the Note to Part 6.
 
 [^f00109]: Footnote: There are amendments to sections 81 and 82 which are not relevant to this Order.
 
-[^key-b1906a0224c3beb3a4603b29687b388b]: Commencement: Sch. 3 Pt. 7 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-b1906a0224c3beb3a4603b29687b388b]: Commencement: Sch. 3 Pt. 7 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-41ce7f3069bf2d2fff750cf48b8bdf53]: Commencement: Sch. 3 Pt. 8 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-41ce7f3069bf2d2fff750cf48b8bdf53]: Commencement: Sch. 3 Pt. 8 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-8a6d2842df745e903566433464d0da6f]: Commencement: Sch. 3 Pt. 9 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-8a6d2842df745e903566433464d0da6f]: Commencement: Sch. 3 Pt. 9 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-dc0356de775a1604bfbef0ee2cea5b32]: Commencement: Sch. 3 Pt. 10 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-dc0356de775a1604bfbef0ee2cea5b32]: Commencement: Sch. 3 Pt. 10 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-6cd612ea09f6153ad8ca7f6eff839863]: Textual amendment: Words in Sch. 3 Pt. 10 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-6cd612ea09f6153ad8ca7f6eff839863]: Textual amendment: Words in Sch. 3 Pt. 10 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-7f709b4842aa3b9c7d7395b07c5351b3]: Commencement: Sch. 3 Pt. 11 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-7f709b4842aa3b9c7d7395b07c5351b3]: Commencement: Sch. 3 Pt. 11 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-dd42ba9eeb2f3f584d67edc8cc220ac1]: Commencement: Sch. 3 Pt. 12 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-dd42ba9eeb2f3f584d67edc8cc220ac1]: Commencement: Sch. 3 Pt. 12 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-83d6f45b893a1b87130b5b9bc0198f9f]: Textual amendment: Words in Sch. 3 Pt. 12 omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-83d6f45b893a1b87130b5b9bc0198f9f]: Textual amendment: Words in Sch. 3 Pt. 12 omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
 [^f00110]: Footnote: [S.I. 2005/1841](https://www.legislation.gov.uk/uksi/2005/1841).
 
 [^f00111]: Footnote: [S.I. 1961/1970](https://www.legislation.gov.uk/uksi/1961/1970).
 
-[^key-8e95667465c6be4cf7c43982bb0814fa]: Textual amendment: Words in Sch. 3 Pt. 12 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-8e95667465c6be4cf7c43982bb0814fa]: Textual amendment: Words in Sch. 3 Pt. 12 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-017f4fd4d4587bffa51bb96bfe1a7d05]: Textual amendment: Word in Sch. 3 Pt. 12 inserted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-017f4fd4d4587bffa51bb96bfe1a7d05]: Textual amendment: Word in Sch. 3 Pt. 12 inserted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-b7f5a2e856295559b21826a88ead7d76]: Textual amendment: Words in Sch. 3 Pt. 12 omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-b7f5a2e856295559b21826a88ead7d76]: Textual amendment: Words in Sch. 3 Pt. 12 omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-2f2fa605bf00c567d3ec67678e40f17a]: Commencement: Sch. 3 Pt. 13 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-2f2fa605bf00c567d3ec67678e40f17a]: Commencement: Sch. 3 Pt. 13 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-0e1ffa5fac6b46fdddabcccfe1b047d1]: Commencement: Sch. 3 Pt. 14 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-0e1ffa5fac6b46fdddabcccfe1b047d1]: Commencement: Sch. 3 Pt. 14 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)

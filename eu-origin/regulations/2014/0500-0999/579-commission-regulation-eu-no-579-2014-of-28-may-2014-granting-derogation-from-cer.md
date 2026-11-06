@@ -111,7 +111,7 @@ Directive 96/3/EC is repealed.
 
 **Article 5.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-5d95f9fc92b0b9e609218f52040179d7]...
+[^c-5d95f9fc92b0b9e609218f52040179d7]...
 
 ## ANNEX — LIST OF ACCEPTABLE PREVIOUS CARGOES
 
@@ -249,7 +249,7 @@ Directive 96/3/EC is repealed.
 
 [^f00008]: Footnote: EFSA Panel on Contaminants in the Food Chain (CONTAM); Scientific Opinion on the evaluation of the substances currently on the list in the Annex to Commission Directive 96/3/EC as acceptable previous cargoes for edible fats and oils, Part III of III. *EFSA Journal* 2012; 10(12):2984.
 
-[^key-5d95f9fc92b0b9e609218f52040179d7]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2014/579/signature) omitted (31.12.2020) by virtue of [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [26](https://www.legislation.gov.uk/uksi/2019/642/regulation/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d95f9fc92b0b9e609218f52040179d7]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2014/579/signature) omitted (31.12.2020) by virtue of [The General Food Hygiene (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/642)](https://www.legislation.gov.uk/uksi/2019/642), [regs. 1](https://www.legislation.gov.uk/uksi/2019/642/regulation/1), [26](https://www.legislation.gov.uk/uksi/2019/642/regulation/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) 2016/238 of 19 February 2016 amending the Annex to Regulation (EU) No 579/2014 granting derogation from certain provisions of Annex II to Regulation (EC) No 852/2004 of the European Parliament and of the Council as regards the transport of liquid oils and fats by sea (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/238).
 

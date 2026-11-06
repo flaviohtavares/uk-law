@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Limitation on crofter's ability to nominate disponee[^key-aeec92ea911ce039ec97016408ea2d19]
+## 40. Limitation on crofter's ability to nominate disponee[^c-aeec92ea911ce039ec97016408ea2d19]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In section 13 of the 1993 Act (authorisation of the Land Court of acquisition of
 
 ## Annotations
 
-[^key-aeec92ea911ce039ec97016408ea2d19]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2010/14/section/40) in force at 1.7.2011 by [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4), [5(1)](https://www.legislation.gov.uk/ssi/2010/437/article/5/1))
+[^c-aeec92ea911ce039ec97016408ea2d19]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2010/14/section/40) in force at 1.7.2011 by [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4), [5(1)](https://www.legislation.gov.uk/ssi/2010/437/article/5/1))

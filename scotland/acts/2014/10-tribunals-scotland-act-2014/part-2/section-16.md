@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Upper members[^key-e150349ede762bfa797d85cade6f3eb1]
+## 16. Upper members[^c-e150349ede762bfa797d85cade6f3eb1]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e150349ede762bfa797d85cade6f3eb1]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/10/section/16) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-e150349ede762bfa797d85cade6f3eb1]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/10/section/16) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

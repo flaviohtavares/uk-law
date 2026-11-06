@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Waste and Emissions Trading Act 2003[^key-f8a53b6ea22227799f158a63a673ffe2]
+## 3. Waste and Emissions Trading Act 2003[^c-f8a53b6ea22227799f158a63a673ffe2]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f8a53b6ea22227799f158a63a673ffe2]: Commencement: Reg. 3 in force at 20.3.2019, see reg. 1(2)(a)
+[^c-f8a53b6ea22227799f158a63a673ffe2]: Commencement: Reg. 3 in force at 20.3.2019, see reg. 1(2)(a)
 
 [^c23655981]: Marginal citation: [2003 c. 33](https://www.legislation.gov.uk/ukpga/2003/33). Section 37, as it extends to England and Wales, was amended by [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988); section 37, as it extends to Scotland, was substituted by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).

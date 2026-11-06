@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22CA. State pension under Part 1 of the Pensions Act 2014[^key-ee5862418fa9a9d694e91117ddcd649c]
+## 22CA. State pension under Part 1 of the Pensions Act 2014[^c-ee5862418fa9a9d694e91117ddcd649c]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee5862418fa9a9d694e91117ddcd649c]: Textual amendment: [Reg. 22CA](https://www.legislation.gov.uk/uksi/1987/1968/regulation/22CA) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [9(11)](https://www.legislation.gov.uk/uksi/2015/1985/article/9/11)
+[^c-ee5862418fa9a9d694e91117ddcd649c]: Textual amendment: [Reg. 22CA](https://www.legislation.gov.uk/uksi/1987/1968/regulation/22CA) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [9(11)](https://www.legislation.gov.uk/uksi/2015/1985/article/9/11)

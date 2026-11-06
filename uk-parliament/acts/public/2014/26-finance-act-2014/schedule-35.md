@@ -26,30 +26,30 @@ Section 274
 
 **1.** In this Schedule a reference to an “information duty” is to a duty arising under any of the following provisions to provide information or produce a document—
 
-- (za)[^key-97bbd68f51930152283619c562d69e96] section 236C(1) (duty to make return to HMRC);
+- (za)[^c-97bbd68f51930152283619c562d69e96] section 236C(1) (duty to make return to HMRC);
 - (a) section 255 (duty to provide information or produce document);
 - (b) section 257 (ongoing duty to provide information);
 - (c) section 258 (duty of person dealing with non-resident promoter);
 - (d) section 259 (monitored promoter: duty to provide information about clients);
 - (e) section 260 (intermediaries: duty to provide information about clients);
 - (f) section 261 (duty to provide information about clients following enquiry);
-- (g)[^key-f11d75233e945f6a13f136190e73c3e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-f11d75233e945f6a13f136190e73c3e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) section 263 (information about monitored promoter's address).
-- (i)[^key-2f27c933df7b66148fae9d87b6aad95c] paragraph 1, 2, 5 or 5A of Schedule 36 of FA 2008 (information and inspection powers) as it has effect as a result of section 272A.
+- (i)[^c-2f27c933df7b66148fae9d87b6aad95c] paragraph 1, 2, 5 or 5A of Schedule 36 of FA 2008 (information and inspection powers) as it has effect as a result of section 272A.
 
 ### Penalties for failure to comply
 
 **2.** (1) A person who
 
-- (a)[^key-b9308a6466f2f4d5f62b90d842ddefb7] fails to comply with a duty imposed by or under this Part mentioned in column 1 of the Table is liable to a penalty not exceeding the amount shown in relation to that duty[^key-cd44f68c30de41a85bceeb293151978b] in column 2 of the Table, or-[^key-26c53d2ed383a87022c3fedd909d601c]
+- (a)[^c-b9308a6466f2f4d5f62b90d842ddefb7] fails to comply with a duty imposed by or under this Part mentioned in column 1 of the Table is liable to a penalty not exceeding the amount shown in relation to that duty[^c-cd44f68c30de41a85bceeb293151978b] in column 2 of the Table, or-[^c-26c53d2ed383a87022c3fedd909d601c]
 - (b) deliberately obstructs an officer of Revenue and Customs in the course of an inspection under paragraph 10 of Schedule 36 to FA 2008, as it has effect as a result of section 272A, that has been approved by the tribunal is liable to a penalty not exceeding the relevant amount (see sub-paragraph (3A)).
 
 Table
 
 | *Column 1* | *Column 2* |
 | --- | --- |
-| *Provision or duty[^key-7918da1280957ae5f2703540bc961e27]* | *Maximum penalty (£)* |
-| Section 236B(1) (promotion of arrangements or proposal of a description specified in a stop notice)[^key-0ef40afcc22adfd30842de4d10050fe3] | the relevant amount (see subparagraphs (2A) and (2B)) |
+| *Provision or duty[^c-7918da1280957ae5f2703540bc961e27]* | *Maximum penalty (£)* |
+| Section 236B(1) (promotion of arrangements or proposal of a description specified in a stop notice)[^c-0ef40afcc22adfd30842de4d10050fe3] | the relevant amount (see subparagraphs (2A) and (2B)) |
 | Section 236B(3)(a), (4)(a) or (5)(a) (requirement to notify persons who are subject to a stop notice) | £10,000 |
 | Section 236B(3)(b), (4)(b) or (5)(b) (requirement to notify HMRC of persons who are subject to a stop notice) | £25,000 |
 | Section 236C(1) (duty to make return to HMRC) | £5,000 |
@@ -66,20 +66,20 @@ Table
 | Section 259 (monitored promoter: duty to provide information about clients) | 5,000 |
 | Section 260 (intermediaries: duty to provide information about clients) | 5,000 |
 | Section 261 (duty to provide information about clients following an enquiry) | 10,000 |
-| [^key-49400241978e57c59b8a40f45aacfc58]. . . | [^key-49400241978e57c59b8a40f45aacfc58]. . . |
+| [^c-49400241978e57c59b8a40f45aacfc58]. . . | [^c-49400241978e57c59b8a40f45aacfc58]. . . |
 | Section 263 (duty to provide information about address) | 5,000 |
 | Section 265 (duty to provide information to promoter) | 5,000 |
-| Duty to comply with a notice given under paragraph 1 of Schedule 36 to FA 2008 as it has effect as a result of section 272A[^key-1b591241bfe7289aff6a06937d931006] | the relevant amount (see sub-paragraph (3A)) |
+| Duty to comply with a notice given under paragraph 1 of Schedule 36 to FA 2008 as it has effect as a result of section 272A[^c-1b591241bfe7289aff6a06937d931006] | the relevant amount (see sub-paragraph (3A)) |
 | Duty to comply with a notice given under paragraph 2, 5 or 5A of Schedule 36 to FA 2008 as it has effect as a result of section 272A | the relevant amount (see sub-paragraph (3B)) |
 
-(1A)[^key-753864936ae2ecc8a352c0682e2a4c9c] In relation to a failure to comply with section 236C(1) the maximum penalty specified in column 2 of the Table is a maximum penalty which may be imposed—
+(1A)[^c-753864936ae2ecc8a352c0682e2a4c9c] In relation to a failure to comply with section 236C(1) the maximum penalty specified in column 2 of the Table is a maximum penalty which may be imposed—
 
 - (a) in respect of each failure to provide the required information or statement (see section 236C(6)) about a relevant client (within the meaning given by that section), and
 - (b) for each day on which a complete return is not provided after the end of the period within which it must be provided (see section 236C(7)).
 
-(2) In relation to a failure to comply with section 236B(3), (4) or (5), 236J(1),[^key-c3517c7e70cac6cedf27017c5c7aa519] 249(1), 251, 252, 259 or 260 the maximum penalty specified in column 2 of the Table is a maximum penalty which may be imposed in respect of each person to whom the failure relates.
+(2) In relation to a failure to comply with section 236B(3), (4) or (5), 236J(1),[^c-c3517c7e70cac6cedf27017c5c7aa519] 249(1), 251, 252, 259 or 260 the maximum penalty specified in column 2 of the Table is a maximum penalty which may be imposed in respect of each person to whom the failure relates.
 
-(2A)[^key-135c89bbbfe1543e473ae2e7aa8b6459] In relation to a failure to comply with section 236B(1), the “relevant amount” is the sum of—
+(2A)[^c-135c89bbbfe1543e473ae2e7aa8b6459] In relation to a failure to comply with section 236B(1), the “relevant amount” is the sum of—
 
 - (a) £100,000 in respect of one or more failures relating to a particular stop notice, and
 - (b) £5,000 for each person to whom arrangements of a description specified in that stop notice, or a proposal for such arrangements, were promoted (within the meaning it has in that section).
@@ -97,7 +97,7 @@ Table
 - (b) £7,500, where a person has previously failed to comply with section 253 on one (and only one) occasion during the period of 36 months ending with the date on which the current failure occurred;
 - (c) £10,000, where a person has previously failed to comply with section 253 on two or more occasions during the period mentioned in paragraph (b).
 
-(3A)[^key-7f5a9773f25db11d05afdc8644780ac6] Where a person fails to comply with a notice given under paragraph 1 of Schedule 36 to FA 2008 (as it has effect as a result of section 272A) or deliberately obstructs an officer of Revenue and Customs in the course of an inspection under paragraph 10 of that Schedule (as it has effect as a result of that section) that has been approved by the tribunal, the “relevant amount” is—
+(3A)[^c-7f5a9773f25db11d05afdc8644780ac6] Where a person fails to comply with a notice given under paragraph 1 of Schedule 36 to FA 2008 (as it has effect as a result of section 272A) or deliberately obstructs an officer of Revenue and Customs in the course of an inspection under paragraph 10 of that Schedule (as it has effect as a result of that section) that has been approved by the tribunal, the “relevant amount” is—
 
 - (a) in the case of a failure by a person who was subject to a monitoring notice at the time of the failure, or who had control of or had significant influence over such a person, £1,000,000, and
 - (b) in any other case, £5,000.
@@ -106,16 +106,16 @@ Table
 
 (4) The amount of a penalty imposed under sub-paragraph (1) is to be arrived at after taking account of all relevant considerations, including the desirability of setting it at a level which appears appropriate for deterring the person, or other persons, from similar failures to comply on future occasions having regard (in particular)—
 
-- (a) in the case of a penalty imposed for a failure relating to any arrangements or proposal promoted by a person[^key-519b52047088c019adbf3bbc834da552], to the amount of fees received, or likely to have been received, by the person in connection with the those arrangements or that proposal[^key-f919abd78bb8a1c10050fa0c00013cca];
-- (b) in such a case[^key-bfbc7dbc89b32e4340fcda53970aae18], to the amount of any tax advantage gained, or sought to be gained, [^key-1f49c552a702cd63cc004229ecba0420]... in relation to the [^key-be6dfd036ef194dd3182b6749e9b9267]... arrangements or the arrangements implementing the [^key-be6dfd036ef194dd3182b6749e9b9267]... proposal (including, where the person liable to the penalty is the promoter of those arrangements or that proposal, any advantage that was gained or sought to be gained by the persons to whom the arrangements or proposal were promoted)[^key-42709ab96ee9c78c49c132b1d4514184].
+- (a) in the case of a penalty imposed for a failure relating to any arrangements or proposal promoted by a person[^c-519b52047088c019adbf3bbc834da552], to the amount of fees received, or likely to have been received, by the person in connection with the those arrangements or that proposal[^c-f919abd78bb8a1c10050fa0c00013cca];
+- (b) in such a case[^c-bfbc7dbc89b32e4340fcda53970aae18], to the amount of any tax advantage gained, or sought to be gained, [^c-1f49c552a702cd63cc004229ecba0420]... in relation to the [^c-be6dfd036ef194dd3182b6749e9b9267]... arrangements or the arrangements implementing the [^c-be6dfd036ef194dd3182b6749e9b9267]... proposal (including, where the person liable to the penalty is the promoter of those arrangements or that proposal, any advantage that was gained or sought to be gained by the persons to whom the arrangements or proposal were promoted)[^c-42709ab96ee9c78c49c132b1d4514184].
 
-(5)[^key-a73d8e5eeefb78b089f0c1145f35aa01] The references in sub-paragraph (4) to arrangements or a proposal being “promoted” are to be construed in accordance with section 236A(7).
+(5)[^c-a73d8e5eeefb78b089f0c1145f35aa01] The references in sub-paragraph (4) to arrangements or a proposal being “promoted” are to be construed in accordance with section 236A(7).
 
 (6) Sub-paragraphs (5) to (11) of paragraph 13A of Schedule 34 (meaning of “**control**” and “**significant influence**”) apply to this paragraph as they apply to Part 2 of that Schedule.
 
 ### Daily default penalties for failure to comply
 
-**3.** (1) If the failure to comply with an information duty , other than a duty arising under section 236C(1),[^key-ad50332ea03900f15fb8f014c9cebee0] continues after a penalty is imposed under paragraph 2(1), the person is liable to a further penalty or penalties not exceeding the relevant sum for each day on which the failure continues after the day on which the penalty under paragraph 2(1) was imposed.
+**3.** (1) If the failure to comply with an information duty , other than a duty arising under section 236C(1),[^c-ad50332ea03900f15fb8f014c9cebee0] continues after a penalty is imposed under paragraph 2(1), the person is liable to a further penalty or penalties not exceeding the relevant sum for each day on which the failure continues after the day on which the penalty under paragraph 2(1) was imposed.
 
 (2) In sub-paragraph (1) “**the relevant sum**” means—
 
@@ -126,7 +126,7 @@ Table
 
 **4.** (1) If—
 
-- (a) in complying with an information duty or a requirement to provide evidence under section 236D(2)(d) or 236F(3)(c)[^key-c16e7f1719d15daa8778e2080f51004d], a person provides inaccurate information or produces a document that contains an inaccuracy, and
+- (a) in complying with an information duty or a requirement to provide evidence under section 236D(2)(d) or 236F(3)(c)[^c-c16e7f1719d15daa8778e2080f51004d], a person provides inaccurate information or produces a document that contains an inaccuracy, and
 - (b) condition A, B or C is met,
 
 the person is liable to a penalty not exceeding the relevant sum.
@@ -151,9 +151,9 @@ the person is liable to a penalty not exceeding the relevant sum.
 
 (8) The “**relevant sum**” means—
 
-- (a) £1,000,000, where the information is provided or document produced in compliance with a duty under section 255, 257 or 258 , or under Schedule 36 to FA 2008 as it has effect as a result of section 272A in a case where the person required to provide the information or produce the document was at the time subject to a monitoring notice[^key-52c5ed88a302546707e8805a5dc31c0f];
+- (a) £1,000,000, where the information is provided or document produced in compliance with a duty under section 255, 257 or 258 , or under Schedule 36 to FA 2008 as it has effect as a result of section 272A in a case where the person required to provide the information or produce the document was at the time subject to a monitoring notice[^c-52c5ed88a302546707e8805a5dc31c0f];
 - (b) £10,000, where the information is provided in compliance with a duty under section 261;
-- (c) £5,000, where the information is provided or document produced in compliance with a duty under section 236C(1), 236D(2)(d), 236F(3)(c),[^key-a9accdf5871ba2c9525d681ccd7d8726] 259, 260, [^key-30dfc818c7ae06daa41e30cc9cfa3de8]... or 263 or under Schedule 36 to FA 2008 as it has effect as a result of section 272A in a case not falling within paragraph (a)[^key-84d0e25a60f8084efd8291ddfcd251bc].
+- (c) £5,000, where the information is provided or document produced in compliance with a duty under section 236C(1), 236D(2)(d), 236F(3)(c),[^c-a9accdf5871ba2c9525d681ccd7d8726] 259, 260, [^c-30dfc818c7ae06daa41e30cc9cfa3de8]... or 263 or under Schedule 36 to FA 2008 as it has effect as a result of section 272A in a case not falling within paragraph (a)[^c-84d0e25a60f8084efd8291ddfcd251bc].
 
 (9) If the information or document contains more than one inaccuracy, one penalty is payable under this paragraph whatever the number of inaccuracies.
 
@@ -170,7 +170,7 @@ the person is liable to a penalty not exceeding the relevant sum.
 
 ### Concealing, destroying etc documents following imposition of a duty to provide information
 
-**6.** (1) A person must not conceal, destroy or otherwise dispose of, or arrange for the concealment, destruction or disposal of, a document which is subject to a duty under section 255 or 257 or under Schedule 36 of FA 2008 as it has effect as a result of section 272A[^key-76c0139958876d2c0adb0855115cac4a].
+**6.** (1) A person must not conceal, destroy or otherwise dispose of, or arrange for the concealment, destruction or disposal of, a document which is subject to a duty under section 255 or 257 or under Schedule 36 of FA 2008 as it has effect as a result of section 272A[^c-76c0139958876d2c0adb0855115cac4a].
 
 (2) Sub-paragraph (1) does not apply if the person acts after the document has been produced to an officer of Revenue and Customs in accordance with the duty, unless the officer has notified the person in writing that the document must continue to be available for inspection (and has not withdrawn the notification).
 
@@ -185,12 +185,12 @@ the person is liable to a penalty not exceeding the relevant sum.
 
 ### Concealing, destroying etc documents following informal notification
 
-**7.** (1) A person must not conceal, destroy or otherwise dispose of, or arrange for the concealment, destruction or disposal of, a document if an officer of Revenue and Customs has informed the person in writing that the person is, or is likely, to be given a notice under section 255 or 257, or under Schedule 36 of FA 2008 as it has effect as a result of section 272A,[^key-30c0eb0a4aed5615fd63ef80a0e79698] the effect of which will, or is likely to, require the production of the document.
+**7.** (1) A person must not conceal, destroy or otherwise dispose of, or arrange for the concealment, destruction or disposal of, a document if an officer of Revenue and Customs has informed the person in writing that the person is, or is likely, to be given a notice under section 255 or 257, or under Schedule 36 of FA 2008 as it has effect as a result of section 272A,[^c-30c0eb0a4aed5615fd63ef80a0e79698] the effect of which will, or is likely to, require the production of the document.
 
 (2) Sub-paragraph (1) does not apply if the person acts—
 
 - (a) at least 6 months after the person was, or was last, informed as described in sub-paragraph (1), or
-- (b) after the person becomes subject to a duty under section 255 or 257, or under Schedule 36 of FA 2008 as it has effect as a result of section 272A,[^key-ef76e147587bfac0c4ea233dc3b80d13] which requires the document to be produced.
+- (b) after the person becomes subject to a duty under section 255 or 257, or under Schedule 36 of FA 2008 as it has effect as a result of section 272A,[^c-ef76e147587bfac0c4ea233dc3b80d13] which requires the document to be produced.
 
 (3) A person who conceals, destroys or otherwise disposes of, or arranges for the concealment, destruction or disposal of, a document in breach of sub-paragraph (1), is taken to have failed to comply with the duty to produce the document under the provision concerned (but see sub-paragraph (4)).
 
@@ -223,17 +223,17 @@ the person is liable to a penalty not exceeding the relevant sum.
 
 - (a) the reference in section 100(1) to the Taxes Acts were read as a reference to the Taxes Acts and this Schedule,
 - (b) in subsection (2) of section 100, there were inserted a reference to a penalty under this Schedule, other than
-  - (i)[^key-ec00a6bd75a76f81b807dd90fa6f745d] a penalty under paragraph 3 of this Schedule in respect of which the relevant sum is £600.
-  - (ii)[^key-72408ce9f535165508bb81062f4f00d1] a penalty in respect of a failure to comply with section 236B(1) unless an officer of Revenue and Customs authorised for the purposes of section 100 of TMA 1970 considers that paragraph 2(2C) of this Schedule applies in relation to that failure;
+  - (i)[^c-ec00a6bd75a76f81b807dd90fa6f745d] a penalty under paragraph 3 of this Schedule in respect of which the relevant sum is £600.
+  - (ii)[^c-72408ce9f535165508bb81062f4f00d1] a penalty in respect of a failure to comply with section 236B(1) unless an officer of Revenue and Customs authorised for the purposes of section 100 of TMA 1970 considers that paragraph 2(2C) of this Schedule applies in relation to that failure;
   - (iii) a penalty in respect of a failure to comply with section 236B(3), (4) or (3), 236C(1) or 236J(1);
   - (iv) a penalty in respect of a failure to comply with a notice given under paragraph 1 of Schedule 36 to FA 2008 as it has effect as a result of section 272A unless paragraph 2(3A)(a) of this Schedule applies in relation to that failure;
   - (v) a penalty in respect of a failure to comply with a notice given under paragraph 2, 5 or 5A of Schedule 36 to FA 2008 as it has effect as a result of section 272A.
 
 ### Interest on penalties
 
-**11.** (1) A penalty under this Schedule is to carry interest in accordance with section 101 of FA 2009[^key-cd55c6ee892a6c889910b7c9b1864535].
+**11.** (1) A penalty under this Schedule is to carry interest in accordance with section 101 of FA 2009[^c-cd55c6ee892a6c889910b7c9b1864535].
 
-(2)[^key-bc3807ddc3e4c8987b9f2ba34f623b42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bc3807ddc3e4c8987b9f2ba34f623b42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Double jeopardy
 
@@ -251,70 +251,70 @@ by reason of any failure to include in any return or account a reference number 
 
 ## Annotations
 
-[^key-97bbd68f51930152283619c562d69e96]: Textual amendment: [Sch. 35 para. 1(za)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/1/za) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/2/a)
+[^c-97bbd68f51930152283619c562d69e96]: Textual amendment: [Sch. 35 para. 1(za)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/1/za) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/2/a)
 
-[^key-f11d75233e945f6a13f136190e73c3e6]: Textual amendment: [Sch. 35 para. 1(g)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/1/g) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/2/b)
+[^c-f11d75233e945f6a13f136190e73c3e6]: Textual amendment: [Sch. 35 para. 1(g)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/1/g) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/2/b)
 
-[^key-2f27c933df7b66148fae9d87b6aad95c]: Textual amendment: [Sch. 35 para. 1(i)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/1/i) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(2)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/2/c)
+[^c-2f27c933df7b66148fae9d87b6aad95c]: Textual amendment: [Sch. 35 para. 1(i)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/1/i) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(2)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/2/c)
 
-[^key-b9308a6466f2f4d5f62b90d842ddefb7]: Textual amendment: Words in [Sch. 35 para. 2(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1/a) renumbered as Sch. 35 para. 2(1)(a) (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/a/i)
+[^c-b9308a6466f2f4d5f62b90d842ddefb7]: Textual amendment: Words in [Sch. 35 para. 2(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1/a) renumbered as Sch. 35 para. 2(1)(a) (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/a/i)
 
-[^key-cd44f68c30de41a85bceeb293151978b]: Textual amendment: Word in [Sch. 35 para. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1/a) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/a/ii)
+[^c-cd44f68c30de41a85bceeb293151978b]: Textual amendment: Word in [Sch. 35 para. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1/a) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/a/ii)
 
-[^key-26c53d2ed383a87022c3fedd909d601c]: Textual amendment: [Sch. 35 para. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1/b) and word inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(a)(iii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/a/iii)
+[^c-26c53d2ed383a87022c3fedd909d601c]: Textual amendment: [Sch. 35 para. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1/b) and word inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(a)(iii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/a/iii)
 
-[^key-7918da1280957ae5f2703540bc961e27]: Textual amendment: Words in [Sch. 35 para. 2(1) Table](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/d/i)
+[^c-7918da1280957ae5f2703540bc961e27]: Textual amendment: Words in [Sch. 35 para. 2(1) Table](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/d/i)
 
-[^key-0ef40afcc22adfd30842de4d10050fe3]: Textual amendment: Words in [Sch. 35 para. 2(1) Table](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1/b) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/b)
+[^c-0ef40afcc22adfd30842de4d10050fe3]: Textual amendment: Words in [Sch. 35 para. 2(1) Table](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1/b) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/b)
 
-[^key-49400241978e57c59b8a40f45aacfc58]: Textual amendment: Words in [Sch. 35 para. 2(1) Table](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(d)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/d/ii)
+[^c-49400241978e57c59b8a40f45aacfc58]: Textual amendment: Words in [Sch. 35 para. 2(1) Table](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(d)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/d/ii)
 
-[^key-1b591241bfe7289aff6a06937d931006]: Textual amendment: Words in [Sch. 35 para. 2(1) Table](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/c)
+[^c-1b591241bfe7289aff6a06937d931006]: Textual amendment: Words in [Sch. 35 para. 2(1) Table](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/c)
 
-[^key-753864936ae2ecc8a352c0682e2a4c9c]: Textual amendment: [Sch. 35 para. 2(1A)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1A) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(e)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/e)
+[^c-753864936ae2ecc8a352c0682e2a4c9c]: Textual amendment: [Sch. 35 para. 2(1A)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/1A) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(e)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/e)
 
-[^key-c3517c7e70cac6cedf27017c5c7aa519]: Textual amendment: Words in [Sch. 35 para. 2(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/2) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(f)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/f)
+[^c-c3517c7e70cac6cedf27017c5c7aa519]: Textual amendment: Words in [Sch. 35 para. 2(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/2) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(f)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/f)
 
-[^key-135c89bbbfe1543e473ae2e7aa8b6459]: Textual amendment: [Sch. 35 para. 2(2A)-(2C)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/2A) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(g)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/g)
+[^c-135c89bbbfe1543e473ae2e7aa8b6459]: Textual amendment: [Sch. 35 para. 2(2A)-(2C)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/2A) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(g)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/g)
 
-[^key-7f5a9773f25db11d05afdc8644780ac6]: Textual amendment: [Sch. 35 para. 2(3A)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/3B) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(h)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/h)
+[^c-7f5a9773f25db11d05afdc8644780ac6]: Textual amendment: [Sch. 35 para. 2(3A)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/3B) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(h)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/h)
 
-[^key-519b52047088c019adbf3bbc834da552]: Textual amendment: Words in [Sch. 35 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/4/a) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), Sch. 30 para. 8(3)(i)(a)
+[^c-519b52047088c019adbf3bbc834da552]: Textual amendment: Words in [Sch. 35 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/4/a) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), Sch. 30 para. 8(3)(i)(a)
 
-[^key-f919abd78bb8a1c10050fa0c00013cca]: Textual amendment: Words in [Sch. 35 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/4/a) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), Sch. 30 para. 8(3)(i)(b)
+[^c-f919abd78bb8a1c10050fa0c00013cca]: Textual amendment: Words in [Sch. 35 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/4/a) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), Sch. 30 para. 8(3)(i)(b)
 
-[^key-bfbc7dbc89b32e4340fcda53970aae18]: Textual amendment: Words in [Sch. 35 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/4/b) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), Sch. 30 para. 8(3)(i)(ii)(a)
+[^c-bfbc7dbc89b32e4340fcda53970aae18]: Textual amendment: Words in [Sch. 35 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/4/b) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), Sch. 30 para. 8(3)(i)(ii)(a)
 
-[^key-1f49c552a702cd63cc004229ecba0420]: Textual amendment: Words in [Sch. 35 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/4/b) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), Sch. 30 para. 8(3)(i)(ii)(b)
+[^c-1f49c552a702cd63cc004229ecba0420]: Textual amendment: Words in [Sch. 35 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/4/b) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), Sch. 30 para. 8(3)(i)(ii)(b)
 
-[^key-be6dfd036ef194dd3182b6749e9b9267]: Textual amendment: Word in [Sch. 35 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/4/b) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), Sch. 30 para. 8(3)(i)(ii)(c)
+[^c-be6dfd036ef194dd3182b6749e9b9267]: Textual amendment: Word in [Sch. 35 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/4/b) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), Sch. 30 para. 8(3)(i)(ii)(c)
 
-[^key-42709ab96ee9c78c49c132b1d4514184]: Textual amendment: Words in [Sch. 35 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/4/b) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), Sch. 30 para. 8(3)(i)(ii)(d)
+[^c-42709ab96ee9c78c49c132b1d4514184]: Textual amendment: Words in [Sch. 35 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/4/b) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), Sch. 30 para. 8(3)(i)(ii)(d)
 
-[^key-a73d8e5eeefb78b089f0c1145f35aa01]: Textual amendment: [Sch. 35 para. 2(5)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/5)[(6)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/6) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(j)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/j)
+[^c-a73d8e5eeefb78b089f0c1145f35aa01]: Textual amendment: [Sch. 35 para. 2(5)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/5)[(6)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/2/6) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(3)(j)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/3/j)
 
-[^key-ad50332ea03900f15fb8f014c9cebee0]: Textual amendment: Words in [Sch. 35 para. 3(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/3/1) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/4)
+[^c-ad50332ea03900f15fb8f014c9cebee0]: Textual amendment: Words in [Sch. 35 para. 3(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/3/1) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/4)
 
-[^key-c16e7f1719d15daa8778e2080f51004d]: Textual amendment: Words in [Sch. 35 para. 4(1)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/4/1/a) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(5)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/5/a)
+[^c-c16e7f1719d15daa8778e2080f51004d]: Textual amendment: Words in [Sch. 35 para. 4(1)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/4/1/a) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(5)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/5/a)
 
-[^key-52c5ed88a302546707e8805a5dc31c0f]: Textual amendment: Words in [Sch. 35 para. 4(8)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/4/8/a) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/5/b/i)
+[^c-52c5ed88a302546707e8805a5dc31c0f]: Textual amendment: Words in [Sch. 35 para. 4(8)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/4/8/a) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/5/b/i)
 
-[^key-a9accdf5871ba2c9525d681ccd7d8726]: Textual amendment: Words in [Sch. 35 para. 4(8)(c)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/4/8/c) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(5)(b)(ii)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/5/b/ii/a)
+[^c-a9accdf5871ba2c9525d681ccd7d8726]: Textual amendment: Words in [Sch. 35 para. 4(8)(c)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/4/8/c) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(5)(b)(ii)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/5/b/ii/a)
 
-[^key-30dfc818c7ae06daa41e30cc9cfa3de8]: Textual amendment: Word in [Sch. 35 para. 4(8)(c)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/4/8/c) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(5)(b)(ii)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/5/b/ii/b)
+[^c-30dfc818c7ae06daa41e30cc9cfa3de8]: Textual amendment: Word in [Sch. 35 para. 4(8)(c)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/4/8/c) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(5)(b)(ii)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/5/b/ii/b)
 
-[^key-84d0e25a60f8084efd8291ddfcd251bc]: Textual amendment: Words in [Sch. 35 para. 4(8)(c)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/4/8/c) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(5)(b)(ii)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/5/b/ii/c)
+[^c-84d0e25a60f8084efd8291ddfcd251bc]: Textual amendment: Words in [Sch. 35 para. 4(8)(c)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/4/8/c) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(5)(b)(ii)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/5/b/ii/c)
 
-[^key-76c0139958876d2c0adb0855115cac4a]: Textual amendment: Words in [Sch. 35 para. 6(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/6/1) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/6)
+[^c-76c0139958876d2c0adb0855115cac4a]: Textual amendment: Words in [Sch. 35 para. 6(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/6/1) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/6)
 
-[^key-30c0eb0a4aed5615fd63ef80a0e79698]: Textual amendment: Words in [Sch. 35 para. 7(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/7/1) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(7)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/7/a)
+[^c-30c0eb0a4aed5615fd63ef80a0e79698]: Textual amendment: Words in [Sch. 35 para. 7(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/7/1) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(7)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/7/a)
 
-[^key-ef76e147587bfac0c4ea233dc3b80d13]: Textual amendment: Words in [Sch. 35 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/7/2/b) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(7)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/7/b)
+[^c-ef76e147587bfac0c4ea233dc3b80d13]: Textual amendment: Words in [Sch. 35 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/7/2/b) substituted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(7)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/7/b)
 
-[^key-ec00a6bd75a76f81b807dd90fa6f745d]: Textual amendment: Words in [Sch. 35 para. 10(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/10/b/i) renumbered as Sch. 35 para. 10(b)(i) (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(8)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/8/a)
+[^c-ec00a6bd75a76f81b807dd90fa6f745d]: Textual amendment: Words in [Sch. 35 para. 10(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/10/b/i) renumbered as Sch. 35 para. 10(b)(i) (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(8)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/8/a)
 
-[^key-72408ce9f535165508bb81062f4f00d1]: Textual amendment: [Sch. 35 paras. 10(b)(ii)-(v)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/10/b/ii) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(8)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/8/b)
+[^c-72408ce9f535165508bb81062f4f00d1]: Textual amendment: [Sch. 35 paras. 10(b)(ii)-(v)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/10/b/ii) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 8(8)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/8/8/b)
 
-[^key-cd55c6ee892a6c889910b7c9b1864535]: Textual amendment: Words in [Sch. 35 para. 11(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/11/1) substituted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 88(3)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/88/3/a)
+[^c-cd55c6ee892a6c889910b7c9b1864535]: Textual amendment: Words in [Sch. 35 para. 11(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/11/1) substituted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 88(3)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/88/3/a)
 
-[^key-bc3807ddc3e4c8987b9f2ba34f623b42]: Textual amendment: [Sch. 35 para. 11(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/11/2) omitted (12.2.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 88(3)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/88/3/b)
+[^c-bc3807ddc3e4c8987b9f2ba34f623b42]: Textual amendment: [Sch. 35 para. 11(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/11/2) omitted (12.2.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 88(3)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/88/3/b)

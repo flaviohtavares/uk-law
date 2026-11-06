@@ -166,7 +166,7 @@ EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
-This Order grants development consent for, and authorises East Anglia ONE North Limited to construct, operate and maintain a generating station located in the North Sea approximately 38.4km from the port of Lowestoft and 37.9km from Lowestoft[^key-236f2c4acaf6df308d5ad0d2d67a8968] together with all necessary and associated development. For the purposes of the development that it authorises East Anglia ONE North Limited is authorised by the Order compulsorily or by agreement to purchase land and rights in land to use land, as well as to override easements and other rights. The Order also provides a defence in proceedings in respect of statutory nuisance and to discharge water. The Order imposes requirements in connection with the development for which it grants development consent.
+This Order grants development consent for, and authorises East Anglia ONE North Limited to construct, operate and maintain a generating station located in the North Sea approximately 38.4km from the port of Lowestoft and 37.9km from Lowestoft[^c-236f2c4acaf6df308d5ad0d2d67a8968] together with all necessary and associated development. For the purposes of the development that it authorises East Anglia ONE North Limited is authorised by the Order compulsorily or by agreement to purchase land and rights in land to use land, as well as to override easements and other rights. The Order also provides a defence in proceedings in respect of statutory nuisance and to discharge water. The Order imposes requirements in connection with the development for which it grants development consent.
 
 The Order also grants deemed marine licences for the marine licensable activities, being the deposit of substances and articles and the carrying out of works, involved in the construction of the generating station and associated development. The deemed marine licences impose conditions in connection with the deposits and works for which they grant consent.
 
@@ -184,4 +184,4 @@ A copy of the plans and book of reference referred to in this Order and certifie
 
 [^f00005]: Footnote: [S.I. 2017/572](https://www.legislation.gov.uk/uksi/2017/572).
 
-[^key-236f2c4acaf6df308d5ad0d2d67a8968]: Textual amendment: Words in Explanatory Note substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-236f2c4acaf6df308d5ad0d2d67a8968]: Textual amendment: Words in Explanatory Note substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)

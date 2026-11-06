@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Schedule to be inserted as Schedule 4B to the Police Act 1996[^key-5574ef1826f3cee13f190fd6926d5843]
+## SCHEDULE 7 — Schedule to be inserted as Schedule 4B to the Police Act 1996[^c-5574ef1826f3cee13f190fd6926d5843]
 
 *Extent: E+W+N.I.*
 
@@ -145,4 +145,4 @@ Section 132
 
 ## Annotations
 
-[^key-5574ef1826f3cee13f190fd6926d5843]: Commencement: Sch. 7 in force at 1.9.2014 by [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/b)
+[^c-5574ef1826f3cee13f190fd6926d5843]: Commencement: Sch. 7 in force at 1.9.2014 by [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/b)

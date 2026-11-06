@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Authority to survey and investigate land[^key-30912e0d9c14049bc299c45a8fec0815]
+## 16. Authority to survey and investigate land[^c-30912e0d9c14049bc299c45a8fec0815]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ that authority is deemed to have granted consent.
 
 ## Annotations
 
-[^key-30912e0d9c14049bc299c45a8fec0815]: Commencement: Art. 16 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-30912e0d9c14049bc299c45a8fec0815]: Commencement: Art. 16 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
 [^f00038]: Footnote: As defined in Part 3 of Schedule 14 (For the Protection of Network Rail Infrastructure Limited).

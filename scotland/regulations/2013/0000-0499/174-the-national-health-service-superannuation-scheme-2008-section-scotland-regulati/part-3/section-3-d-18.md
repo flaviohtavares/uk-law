@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.D.18. Exceptions to requirement that NHS employment must have ceased[^key-cf18178937444ce979bd7d7bc11901a4]
+## 3.D.18. Exceptions to requirement that NHS employment must have ceased[^c-cf18178937444ce979bd7d7bc11901a4]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf18178937444ce979bd7d7bc11901a4]: Textual amendment: [Reg. 3.D.18](https://www.legislation.gov.uk/ssi/2013/174/regulation/3.D.18) inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 17](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/17)
+[^c-cf18178937444ce979bd7d7bc11901a4]: Textual amendment: [Reg. 3.D.18](https://www.legislation.gov.uk/ssi/2013/174/regulation/3.D.18) inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 17](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/17)

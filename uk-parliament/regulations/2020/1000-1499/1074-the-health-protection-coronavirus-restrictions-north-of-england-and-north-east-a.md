@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, Restrictions) (North of England and North East and North West of England etc.) (Amendment) Regulations 2020 (revoked)[^key-0d7741abdffb541cdcf51ec1ec5756b8]
+The Health Protection (Coronavirus, Restrictions) (North of England and North East and North West of England etc.) (Amendment) Regulations 2020 (revoked)[^c-0d7741abdffb541cdcf51ec1ec5756b8]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 3rd October 2020
 
-[^key-0d7741abdffb541cdcf51ec1ec5756b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d7741abdffb541cdcf51ec1ec5756b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0d7741abdffb541cdcf51ec1ec5756b8]
+## 1. Citation and commencement[^c-0d7741abdffb541cdcf51ec1ec5756b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus, Restrictions) (North of England) Regulations 2020[^key-0d7741abdffb541cdcf51ec1ec5756b8]
+## 2. Amendment of the Health Protection (Coronavirus, Restrictions) (North of England) Regulations 2020[^c-0d7741abdffb541cdcf51ec1ec5756b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Health Protection (Coronavirus, Restrictions) (North East and North West of England) Regulations 2020[^key-0d7741abdffb541cdcf51ec1ec5756b8]
+## 3. Amendment of the Health Protection (Coronavirus, Restrictions) (North East and North West of England) Regulations 2020[^c-0d7741abdffb541cdcf51ec1ec5756b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Health Protection (Coronavirus, Restrictions) (Obligations of Undertakings) (England) Regulations 2020[^key-0d7741abdffb541cdcf51ec1ec5756b8]
+## 4. Amendment of the Health Protection (Coronavirus, Restrictions) (Obligations of Undertakings) (England) Regulations 2020[^c-0d7741abdffb541cdcf51ec1ec5756b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation of the Health Protection (Coronavirus, Restrictions) (Bolton) Regulations 2020[^key-0d7741abdffb541cdcf51ec1ec5756b8]
+## 5. Revocation of the Health Protection (Coronavirus, Restrictions) (Bolton) Regulations 2020[^c-0d7741abdffb541cdcf51ec1ec5756b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0d7741abdffb541cdcf51ec1ec5756b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d7741abdffb541cdcf51ec1ec5756b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0d7741abdffb541cdcf51ec1ec5756b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d7741abdffb541cdcf51ec1ec5756b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0d7741abdffb541cdcf51ec1ec5756b8]: Textual amendment: Regulations revoked (14.10.2020) by [The Health Protection (Coronavirus, Local COVID-19 Alert Level) (High) (England) Regulations 2020 (S.I. 2020/1104)](https://www.legislation.gov.uk/uksi/2020/1104), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1104/regulation/1/2), [Sch. 3 para. 4(2)(i)](https://www.legislation.gov.uk/uksi/2020/1104/schedule/3/paragraph/4/2/i) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1104/regulation/9))
+[^c-0d7741abdffb541cdcf51ec1ec5756b8]: Textual amendment: Regulations revoked (14.10.2020) by [The Health Protection (Coronavirus, Local COVID-19 Alert Level) (High) (England) Regulations 2020 (S.I. 2020/1104)](https://www.legislation.gov.uk/uksi/2020/1104), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1104/regulation/1/2), [Sch. 3 para. 4(2)(i)](https://www.legislation.gov.uk/uksi/2020/1104/schedule/3/paragraph/4/2/i) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/1104/regulation/9))

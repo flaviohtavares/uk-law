@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 117. Applications for support[^key-df94a7a85c8f4ba68f3a77e197c85b75]
+## 117. Applications for support[^c-df94a7a85c8f4ba68f3a77e197c85b75]
 
 *Extent: N.I.*
 
@@ -36,12 +36,12 @@ summary: ''
 (6) The general rule does not apply where—
 
 - (a) one of the events listed in paragraph (3) of regulation 109 occurs after the first day of the academic year in respect of which the applicant is applying for support, in which case the application must reach the Department within a period of six months beginning with the day on which the relevant event occurred;
-- (aa)[^key-06227541a0e87c3cc7755b3d82932655] the applicant is a person mentioned in paragraph 12 of Part 2 of Schedule 2, in which case the application must reach the Department by 11<sup>th</sup> January 2008 or within a period of six months beginning with the first day of the academic year in respect of which it is submitted, whichever is the later;
+- (aa)[^c-06227541a0e87c3cc7755b3d82932655] the applicant is a person mentioned in paragraph 12 of Part 2 of Schedule 2, in which case the application must reach the Department by 11<sup>th</sup> January 2008 or within a period of six months beginning with the first day of the academic year in respect of which it is submitted, whichever is the later;
 - (b) the applicant is applying for the disabled part-time students’ allowance, in which case the application must reach the Department as soon as is reasonably practicable; or
 - (c) the Department considers that having regard to the circumstances of the particular case the time limit should be relaxed, in which case the application must reach the Department not later than such date as it specifies.
 
 ## Annotations
 
-[^key-df94a7a85c8f4ba68f3a77e197c85b75]: Commencement: [Reg. 117](https://www.legislation.gov.uk/nisr/2007/195/regulation/117) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-df94a7a85c8f4ba68f3a77e197c85b75]: Commencement: [Reg. 117](https://www.legislation.gov.uk/nisr/2007/195/regulation/117) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-06227541a0e87c3cc7755b3d82932655]: Textual amendment: [Reg. 117(6)(aa)](https://www.legislation.gov.uk/nisr/2007/195/regulation/117/6/aa) inserted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [24](https://www.legislation.gov.uk/nisr/2007/293/regulation/24)
+[^c-06227541a0e87c3cc7755b3d82932655]: Textual amendment: [Reg. 117(6)(aa)](https://www.legislation.gov.uk/nisr/2007/195/regulation/117/6/aa) inserted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [24](https://www.legislation.gov.uk/nisr/2007/293/regulation/24)

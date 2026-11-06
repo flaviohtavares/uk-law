@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 354. Notice of agreed proposals where registered social landlord insolvent[^key-4f99c708e318d09c96a17ca52d12b193]
+## 354. Notice of agreed proposals where registered social landlord insolvent[^c-4f99c708e318d09c96a17ca52d12b193]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 45(4) of the Housing Act 1996 (notification of agreed proposals where
 
 ## Annotations
 
-[^key-4f99c708e318d09c96a17ca52d12b193]: Commencement: Art. 354 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-4f99c708e318d09c96a17ca52d12b193]: Commencement: Art. 354 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

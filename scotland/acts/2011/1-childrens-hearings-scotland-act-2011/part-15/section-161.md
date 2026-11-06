@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 161. Appeal to sheriff against decision affecting contact or permanence order[^key-6aed850832fba3fe4ce701bad04b773c]
+## 161. Appeal to sheriff against decision affecting contact or permanence order[^c-6aed850832fba3fe4ce701bad04b773c]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6aed850832fba3fe4ce701bad04b773c]: Commencement: S. 161 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-6aed850832fba3fe4ce701bad04b773c]: Commencement: S. 161 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

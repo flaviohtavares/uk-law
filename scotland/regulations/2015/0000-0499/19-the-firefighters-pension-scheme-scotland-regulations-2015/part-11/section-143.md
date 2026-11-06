@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 143. Review of medical opinion[^key-9cccd6263b7dd522c29ef01c32fd0b3b]
+## 143. Review of medical opinion[^c-9cccd6263b7dd522c29ef01c32fd0b3b]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ the scheme manager must send a copy of the new evidence to the IQMP and invite t
 
 ## Annotations
 
-[^key-9cccd6263b7dd522c29ef01c32fd0b3b]: Commencement: [Reg. 143](https://www.legislation.gov.uk/ssi/2015/19/regulation/143) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-9cccd6263b7dd522c29ef01c32fd0b3b]: Commencement: [Reg. 143](https://www.legislation.gov.uk/ssi/2015/19/regulation/143) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

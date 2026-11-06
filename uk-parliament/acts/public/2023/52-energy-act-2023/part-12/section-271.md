@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271. Offence of failure to comply with a direction[^key-3aa2d26b00a1393700878b820f0ac9db][^key-d2ca9203a5bc61c5cd4c3af52952218f]
+## 271. Offence of failure to comply with a direction[^c-3aa2d26b00a1393700878b820f0ac9db][^c-d2ca9203a5bc61c5cd4c3af52952218f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ Any person who, without reasonable excuse, fails to comply with a direction give
 
 ## Annotations
 
-[^key-3aa2d26b00a1393700878b820f0ac9db]: Commencement: S. 271 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-3aa2d26b00a1393700878b820f0ac9db]: Commencement: S. 271 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-d2ca9203a5bc61c5cd4c3af52952218f]: Commencement: [S. 271](https://www.legislation.gov.uk/ukpga/2023/52/section/271) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/ii)
+[^c-d2ca9203a5bc61c5cd4c3af52952218f]: Commencement: [S. 271](https://www.legislation.gov.uk/ukpga/2023/52/section/271) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/ii)

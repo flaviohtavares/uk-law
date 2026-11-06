@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Information and other matters[^key-73e8324a0423d9240d436640e0f8036d]
+## 101. Information and other matters[^c-73e8324a0423d9240d436640e0f8036d]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73e8324a0423d9240d436640e0f8036d]: Commencement: Reg. 101 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-73e8324a0423d9240d436640e0f8036d]: Commencement: Reg. 101 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

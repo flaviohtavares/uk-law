@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 3. Interpretations in this and the special Act:[^c6403721][^key-9e787866f46b3fbc55b278d09ac7f646][^key-bc2334cf48c12f08248dfdafb49d143c][^c6403711]
+## 3. Interpretations in this and the special Act:[^c6403721][^c-9e787866f46b3fbc55b278d09ac7f646][^c-bc2334cf48c12f08248dfdafb49d143c][^c6403711]
 
 *Extent: E+W+N.I.*
 
@@ -33,7 +33,7 @@ The following words and expressions, both in this and the special Act, shall hav
 - . . . [^c6403761]
 - [^c6403771]. . .
 - The word “**sheriff**” shall include under sheriff or other legally competent deputy; and where any matter in relation to any lands is required to be done by any sheriff or clerk of the peace, the expression “the sheriff,” or the expression “the clerk of the peace,” shall in such case be construed to mean the sheriff or the clerk of the peace of the [^c6403781]. . . place where such lands shall be situate; and if the lands in question, being the property of one and the same party, be situate not wholly in one [^c6403781]. . . place, the same expression shall be construed to mean the sheriff or clerk of the peace of any [^c6403781]. . . place where any part of such lands shall be situate:
-- [^key-71793157dc96b8ab2b00cc1f1a19ed0a]. . .
+- [^c-71793157dc96b8ab2b00cc1f1a19ed0a]. . .
 - Where under the provisions of this or the special Act any notice shall be required to be given to the owner of any lands or where any Act shall be authorized or required to be done with the consent of any such owner, the word “**owner**” shall be understood to mean any person or corporation who, under the provisions of this or the special Act or any Act incorporated therewith, would be enabled to sell and convey lands to the company:
 - The expression “**the company**” shall mean the company or party which shall be authorized by the special Act to construct the railway:
 - Theexpression “**the railway**” shall mean the railway and works by the special Act authorized to be constructed:
@@ -46,9 +46,9 @@ The following words and expressions, both in this and the special Act, shall hav
 
 [^c6403721]: Modification: S. 3 incorporated (4.5.1991) by [S.I. 1991/1162](https://www.legislation.gov.uk/uksi/1991/1162), [art. 3(1)](https://www.legislation.gov.uk/uksi/1991/1162/article/3/1)
 
-[^key-9e787866f46b3fbc55b278d09ac7f646]: Modification: [Ss. 2-4](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/2) incorporated (with modifications) (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 29 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/29/paragraph/4)
+[^c-9e787866f46b3fbc55b278d09ac7f646]: Modification: [Ss. 2-4](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/2) incorporated (with modifications) (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 29 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/29/paragraph/4)
 
-[^key-bc2334cf48c12f08248dfdafb49d143c]: Modification: [Ss. 2-4](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/2) incorporated (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2021/2/schedule/28/paragraph/4)
+[^c-bc2334cf48c12f08248dfdafb49d143c]: Modification: [Ss. 2-4](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/2) incorporated (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2021/2/schedule/28/paragraph/4)
 
 [^c6403711]: Modification: References to clerks of the peace to be construed as references to proper officers of county councils [Courts Act 1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), [Sch. 8 para. 1(2)](https://www.legislation.gov.uk/ukpga/1971/23/schedule/8/paragraph/1/2) and [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 29 Pt. I para. 4(1)(b)](https://www.legislation.gov.uk/ukpga/1972/70/schedule/29/part/I/paragraph/4/1/b)
 
@@ -64,6 +64,6 @@ The following words and expressions, both in this and the special Act, shall hav
 
 [^c6403781]: Textual amendment: Words in s. 3 repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. XIV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XIV) Group 1
 
-[^key-71793157dc96b8ab2b00cc1f1a19ed0a]: Textual amendment: Words in s. 3 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/20), Sch. [10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-71793157dc96b8ab2b00cc1f1a19ed0a]: Textual amendment: Words in s. 3 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/20), Sch. [10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c6403841]: Textual amendment: Definitions repealed by [Statute Law Revision Act 1891 (c. 67)](https://www.legislation.gov.uk/ukpga/1891/67) and Statute Law Revision Act (Northern Ireland), 1954 (c. 35)

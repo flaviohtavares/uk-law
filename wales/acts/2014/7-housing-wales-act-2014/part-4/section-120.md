@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Power to require local housing authority to obtain advisory services[^key-9f0b4900180c4d11ea828a3a9a56983d]
+## 120. Power to require local housing authority to obtain advisory services[^c-9f0b4900180c4d11ea828a3a9a56983d]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f0b4900180c4d11ea828a3a9a56983d]: Commencement: [S. 120](https://www.legislation.gov.uk/anaw/2014/7/section/120) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-9f0b4900180c4d11ea828a3a9a56983d]: Commencement: [S. 120](https://www.legislation.gov.uk/anaw/2014/7/section/120) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

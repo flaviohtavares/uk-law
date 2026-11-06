@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Maintenance approval[^key-0b23a6500f144ad9f685025c28accac8]
+## 34. Maintenance approval[^c-0b23a6500f144ad9f685025c28accac8]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ must not do so without first obtaining from the Governor a certificate of approv
 
 ## Annotations
 
-[^key-0b23a6500f144ad9f685025c28accac8]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2013/2870/article/34) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-0b23a6500f144ad9f685025c28accac8]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2013/2870/article/34) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

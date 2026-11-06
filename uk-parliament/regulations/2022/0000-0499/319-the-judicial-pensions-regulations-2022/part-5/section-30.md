@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Amount of pension for a scheme year[^key-65b1c3e8cbeb7260f04eda23a5303fa8]
+## 30. Amount of pension for a scheme year[^c-65b1c3e8cbeb7260f04eda23a5303fa8]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65b1c3e8cbeb7260f04eda23a5303fa8]: Commencement: Reg. 30 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-65b1c3e8cbeb7260f04eda23a5303fa8]: Commencement: Reg. 30 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

@@ -46,25 +46,25 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred on them by section 23(1) of the Age of Criminal Responsibility (Scotland) Act 2019[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-b9a8f577bf93375a6629612fdab3e245]
+## 1. Citation, commencement and interpretation[^c-b9a8f577bf93375a6629612fdab3e245]
 
 (1) These Regulations may be cited as the Age of Criminal Responsibility (Scotland) Act 2019 (Independent Review of Disclosure of Information) Regulations 2020 and come into force on 30 November 2020.
 
 (2) In these Regulations, “the Act” means the Age of Criminal Responsibility (Scotland) Act 2019.
 
-## 2. Referral of information by the chief constable to the independent reviewer[^key-05d2857dae2a5ae512263ec54349e399]
+## 2. Referral of information by the chief constable to the independent reviewer[^c-05d2857dae2a5ae512263ec54349e399]
 
 (1) This regulation applies where the chief constable is referring information falling within section 14(1) of the Act to the independent reviewer.
 
 (2) The chief constable must, in accordance with section 14(2) of the Act, refer that information to the independent reviewer before the end of the period of 14 days beginning with the day on which the chief constable received the request from the Scottish Ministers in relation to that information.
 
-## 3. Notifications to, and representations by, an applicant or scheme member[^key-0368478902457aff53a1dfe93e69dcc9]
+## 3. Notifications to, and representations by, an applicant or scheme member[^c-0368478902457aff53a1dfe93e69dcc9]
 
 (1) This regulation applies where the independent reviewer is to give notice that information has been received for review under section 16(1) of the Act.
 
 (2) The independent reviewer must, in accordance with section 16(2) and (3) of the Act, notify the applicant or scheme member before the end of the period of 3 days beginning with the day on which the information was received for review.
 
-(3) Subject to paragraph (4), the applicant or scheme member may make representations to the independent reviewer about whether information ought to be included in the Level 2 disclosure[^key-639f3210c5d3552a17f0ee04bce68acd] before the end of the period of 28 days beginning with the day on which the notice under section 16(1) of the Act was received.
+(3) Subject to paragraph (4), the applicant or scheme member may make representations to the independent reviewer about whether information ought to be included in the Level 2 disclosure[^c-639f3210c5d3552a17f0ee04bce68acd] before the end of the period of 28 days beginning with the day on which the notice under section 16(1) of the Act was received.
 
 (4) The independent reviewer may, on cause shown, consider representations made by the applicant or scheme member after the period of 28 days mentioned in paragraph (3).
 
@@ -96,10 +96,10 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^f00001]: Footnote: [2019 asp 7](https://www.legislation.gov.uk/asp/2019/7).
 
-[^key-b9a8f577bf93375a6629612fdab3e245]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/305/regulation/1) in force at 30.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/305/regulation/1/1)
+[^c-b9a8f577bf93375a6629612fdab3e245]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/305/regulation/1) in force at 30.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/305/regulation/1/1)
 
-[^key-05d2857dae2a5ae512263ec54349e399]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/305/regulation/2) in force at 30.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/305/regulation/1/1)
+[^c-05d2857dae2a5ae512263ec54349e399]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/305/regulation/2) in force at 30.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/305/regulation/1/1)
 
-[^key-0368478902457aff53a1dfe93e69dcc9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2020/305/regulation/3) in force at 30.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/305/regulation/1/1)
+[^c-0368478902457aff53a1dfe93e69dcc9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2020/305/regulation/3) in force at 30.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/305/regulation/1/1)
 
-[^key-639f3210c5d3552a17f0ee04bce68acd]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2020/305/regulation/3/3) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 20](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/20) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-639f3210c5d3552a17f0ee04bce68acd]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2020/305/regulation/3/3) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 20](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/20) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))

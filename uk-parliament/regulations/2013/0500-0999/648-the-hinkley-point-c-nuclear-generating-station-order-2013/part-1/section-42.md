@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Trees subject to tree preservation orders[^key-b1f3f8ef1595a1909e0a7a746b18a4c3]
+## 42. Trees subject to tree preservation orders[^c-b1f3f8ef1595a1909e0a7a746b18a4c3]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1f3f8ef1595a1909e0a7a746b18a4c3]: Commencement: Art. 42 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-b1f3f8ef1595a1909e0a7a746b18a4c3]: Commencement: Art. 42 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

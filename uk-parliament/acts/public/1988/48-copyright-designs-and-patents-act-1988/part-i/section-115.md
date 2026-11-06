@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In England and Wales the county court and in[^key-e975f0fb02d833923fdd2bb23b0aea0e] Northern Ireland a county court may entertain proceedings under—
+(1) In England and Wales the county court and in[^c-e975f0fb02d833923fdd2bb23b0aea0e] Northern Ireland a county court may entertain proceedings under—
 
 - section 99 (order for delivery up of infringing copy or other article),
 - section 102(5) (order as to exercise of rights by copyright owner where exclusive licensee has concurrent rights), or
@@ -34,6 +34,6 @@ save that, in Northern Ireland, a county court may entertain such proceedings on
 
 ## Annotations
 
-[^key-e975f0fb02d833923fdd2bb23b0aea0e]: Textual amendment: Words in s. 115(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 72](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/72); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-e975f0fb02d833923fdd2bb23b0aea0e]: Textual amendment: Words in s. 115(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 72](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/72); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c13756461]: Textual amendment: Words in s. 115(1) inserted by [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), [art. 2(8)](https://www.legislation.gov.uk/uksi/1991/724/article/2/8), [Sch](https://www.legislation.gov.uk/uksi/1991/724/schedule)edule Pt. I

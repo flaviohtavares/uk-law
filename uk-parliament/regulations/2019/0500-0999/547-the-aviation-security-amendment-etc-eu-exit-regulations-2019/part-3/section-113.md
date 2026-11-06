@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Revocation of Attachments 6-C2 to 6-C4[^key-22f57171107e2e46bc1ac38227ea7067]
+## 113. Revocation of Attachments 6-C2 to 6-C4[^c-22f57171107e2e46bc1ac38227ea7067]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Attachments 6-C2 to 6-C4.
 
 ## Annotations
 
-[^key-22f57171107e2e46bc1ac38227ea7067]: Commencement: Reg. 113 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-22f57171107e2e46bc1ac38227ea7067]: Commencement: Reg. 113 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

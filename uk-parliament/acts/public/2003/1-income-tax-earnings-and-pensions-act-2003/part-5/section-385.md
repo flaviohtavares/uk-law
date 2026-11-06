@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 385. Meaning of “ship”[^key-d21f9afdf25caa1c87495a920bc6b65d]
+## 385. Meaning of “ship”[^c-d21f9afdf25caa1c87495a920bc6b65d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Chapter “**ship**” does not include an offshore installation.
 
 ## Annotations
 
-[^key-d21f9afdf25caa1c87495a920bc6b65d]: Textual amendment: S. 385 substituted (with effect in accordance with Sch. 27 para. 16 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 27 para. 14](https://www.legislation.gov.uk/ukpga/2004/12/schedule/27/paragraph/14)
+[^c-d21f9afdf25caa1c87495a920bc6b65d]: Textual amendment: S. 385 substituted (with effect in accordance with Sch. 27 para. 16 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 27 para. 14](https://www.legislation.gov.uk/ukpga/2004/12/schedule/27/paragraph/14)

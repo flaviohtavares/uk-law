@@ -32,7 +32,7 @@ Article 2
 
   - (a) site preparation works, including site clearance (including fencing, vegetation removal, demolition of existing structures and the creation of alternative footpaths); earthworks (including soil stripping and storage, site levelling, spoil screening / storage for re-use on site); provision of spoil retaining structures; deep excavations; provision and relocation of drainage infrastructure (including culverts, outfalls, balancing ponds);
   - (b) establishment of site construction compounds, temporary vehicle parking, construction hoardings, perimeter enclosure, security fencing, construction related buildings, structures, plant, machinery (including concrete batching), cranes, concrete silos, construction lighting and internal haulage routes;
-  - (c) further to works listed at (a)[^key-81b04329605ade44aeba873c1581c869], earthworks, including spoil bunds and ground terracing to formation levels, utilities trenches, service tunnels and associated access points and surface and foul water drainage system;
+  - (c) further to works listed at (a)[^c-81b04329605ade44aeba873c1581c869], earthworks, including spoil bunds and ground terracing to formation levels, utilities trenches, service tunnels and associated access points and surface and foul water drainage system;
   - (d) a nuclear reactor unit (unit 1), associated balance of plant, below ground services, ancillary buildings including—
     - (i) buildings, structures and plant housing ‘Nuclear Island’ for Unit 1, including—
       - Reactor Building;
@@ -46,28 +46,28 @@ Article 2
       - Radioactive Waste Process Building;
       - Hot Laundry;
       - Hot Workshop, Hot Warehouse, Facilities for Decontamination;
-      - Effluent Tanks; [^key-812facf30a7d71fd470b2ff600493535]... and[^key-0f270f40c7e97b923bb0b62de8da0dc9]
+      - Effluent Tanks; [^c-812facf30a7d71fd470b2ff600493535]... and[^c-0f270f40c7e97b923bb0b62de8da0dc9]
       - Refuelling Water Storage Tank
       - Emergency Diesel Generator Buildings;
-      - Battery Load Bank;[^key-7aa37993d53fe1232a326ff9471acebf] and[^key-cf7d27b1abd32bd890d8fb536846f932]
-      - Cooling Water Discharge Weir (Buildings); [^key-747a0c54c625df2c0b2c4b2b08f99aeb]...
-      - [^key-747a0c54c625df2c0b2c4b2b08f99aeb]...
+      - Battery Load Bank;[^c-7aa37993d53fe1232a326ff9471acebf] and[^c-cf7d27b1abd32bd890d8fb536846f932]
+      - Cooling Water Discharge Weir (Buildings); [^c-747a0c54c625df2c0b2c4b2b08f99aeb]...
+      - [^c-747a0c54c625df2c0b2c4b2b08f99aeb]...
     - (ii) buildings, structures and plant housing ‘Conventional Island’ for Unit 1, including—
       - Turbine Hall and Sky Bridges;
       - Non-Classified Electrical Building;
       - Gas Insulated Switch Gear;
       - Main Transformer;
       - Unit Transformer;
-      - Auxiliary Transformer; and[^key-d1cfb49d744e068c2873c12c49d63856]
-      - Hydrazine Storage;[^key-0079d5c605228a09f6ccf6e102e8cba7]
-      - [^key-32f5d73ce5b1dbd4d1d813ce71624925]...
+      - Auxiliary Transformer; and[^c-d1cfb49d744e068c2873c12c49d63856]
+      - Hydrazine Storage;[^c-0079d5c605228a09f6ccf6e102e8cba7]
+      - [^c-32f5d73ce5b1dbd4d1d813ce71624925]...
     - (iii) buildings, structures and plant housing ‘Cooling Water Pumphouse and Associated Buildings’ for Unit 1, including—
       - Cooling Water Pumphouse;
       - Forebay;
       - Outfall Pond (Surge Chamber);
       - Filtering Debris Recovery Pit, including associated fish return system infrastructure;
-      - Fire-Fighting Water Building; and[^key-d63c63b1be3934c1d73005ffca3a37a4]
-      - Discharge Shaft (Units 1 & 2);[^key-4c5190eaa90cc0aaed97116f1a791fb2]
+      - Fire-Fighting Water Building; and[^c-d63c63b1be3934c1d73005ffca3a37a4]
+      - Discharge Shaft (Units 1 & 2);[^c-4c5190eaa90cc0aaed97116f1a791fb2]
   - (e) a nuclear reactor unit (unit 2), associated balance of plant, below ground services, ancillary buildings including—
     - (i) buildings, structures and plant housing ‘Nuclear Island’ for Unit 2, including—
       - Reactor building;
@@ -82,7 +82,7 @@ Article 2
       - Hot Workshop, Hot Warehouse, Facilities for Decontamination;
       - Effluent Tanks;
       - Emergency Diesel Generator Buildings;
-      - Battery Load Bank;[^key-06d5f873144ac71d006fb4dc42b2bbef]
+      - Battery Load Bank;[^c-06d5f873144ac71d006fb4dc42b2bbef]
       - Cooling Water Discharge Weir (Buildings); and
       - Refuelling Water Storage Tank
     - (ii) buildings, structures and plant housing ‘Conventional Island’ for Unit 2, including—
@@ -90,10 +90,10 @@ Article 2
       - Non-Classified Electrical Building;
       - Gas Insulated Switch Gear;
       - Main Transformer;
-      - Unit Transformer; and[^key-accd7aa9a9737a4de1dff7f0b0854807]
+      - Unit Transformer; and[^c-accd7aa9a9737a4de1dff7f0b0854807]
       - Auxiliary Transformer;
-      - [^key-9bb9375250cdb39d69184567f43be07d]...
-      - [^key-9bb9375250cdb39d69184567f43be07d]...
+      - [^c-9bb9375250cdb39d69184567f43be07d]...
+      - [^c-9bb9375250cdb39d69184567f43be07d]...
     - (iii) buildings, structures and plant housing ‘Cooling Water Pumphouse and Associated Buildings’ for Unit 2, including—
       - Cooling Water Pumphouse;
       - Forebay;
@@ -101,16 +101,16 @@ Article 2
       - Filtering Debris Recovery Pit; including associated fish return system infrastructure; and
       - Fire-Fighting Water Building;
   - (f) buildings, structures and plant housing ‘Remaining Balance of Plant’ and other plant, including—
-    - [^key-116416f12a648187c1fecdb9f79d0773]...
+    - [^c-116416f12a648187c1fecdb9f79d0773]...
     - Demineralisation Station;
     - Auxiliary Boilers;
     - Hydrogen Storage;
     - Oxygen Storage;
     - Chemical Products Storage;
     - Sewage Treatment Plant;
-    - Conventional Island Water Tanks;[^key-7c526b9d381e555b41795283fb269b90]...
-    - Nuclear Island Water Tank; and[^key-e8b960ed82fe9d04c19265649305531e]
-    - Degassed Water Storage Tanks;[^key-5e1f2aab08c3aa38b6f84c6970372b8a]
+    - Conventional Island Water Tanks;[^c-7c526b9d381e555b41795283fb269b90]...
+    - Nuclear Island Water Tank; and[^c-e8b960ed82fe9d04c19265649305531e]
+    - Degassed Water Storage Tanks;[^c-5e1f2aab08c3aa38b6f84c6970372b8a]
   - (g) buildings, structures and plant housing ‘Fuel and Waste Storage’ including—
     - Interim Spent Fuel Store;
     - Access Control Building; and
@@ -118,10 +118,10 @@ Article 2
   - (h) ancillary and supporting buildings, structures and plant including—
     - Operational Service Centre;
     - Main Control and Access Building;
-    - [^key-b9f9ed6698dbe25fdf8d33e8f5300ac3]...
-    - Auxiliary Administration Building[^key-0747d2f59c0e98ad1c0a0536749fe7a4];
-    - [^key-3770bc49e984f9654ff34b3a587f0342]...
-    - [^key-0a218e25a21c2a98ab1264d22009dc6f]...
+    - [^c-b9f9ed6698dbe25fdf8d33e8f5300ac3]...
+    - Auxiliary Administration Building[^c-0747d2f59c0e98ad1c0a0536749fe7a4];
+    - [^c-3770bc49e984f9654ff34b3a587f0342]...
+    - [^c-0a218e25a21c2a98ab1264d22009dc6f]...
     - Meteorological Station;
     - Meteorological Mast;
     - Garage for Handling Facilities;
@@ -129,17 +129,17 @@ Article 2
     - Areva Warehouse;
     - Raw Water and Potable Water Supply;
     - Outage Access Control Building;
-    - Contaminated Tools Store [^key-b14b1fa640016d008f0bdd6cb738070a]...;
+    - Contaminated Tools Store [^c-b14b1fa640016d008f0bdd6cb738070a]...;
     - Conventional Waste Storage;
     - Transit Area for Very Low Level Waste and Low Level Waste;
-    - [^key-79769b6256c696fa762be1cc4ea7be26]... [^key-7e14913c3e1234c5dd691a9df35f2ebd]...
-    - Back-up Emergency Equipment Store[^key-8ca45f311396d67edac1fd4538980db0]
-    - Service Access Buildings; [^key-c67dc28d2a8a8cc696ba49868cdcebe7]...
-    - Underground Tunnel High Points;[^key-1c53e7ad9dab5f6d143ef0df361b3bd2]
-    - Services Ventilation Building;[^key-d64c59ab5703af3f93f58997a756115b]
-    - Back Up Containerised Generators;[^key-7b16a66110f0f46c4c28d110acd08a57] [^key-31d808ba5b1b4bb41a82bf4ea452bc5d]...
+    - [^c-79769b6256c696fa762be1cc4ea7be26]... [^c-7e14913c3e1234c5dd691a9df35f2ebd]...
+    - Back-up Emergency Equipment Store[^c-8ca45f311396d67edac1fd4538980db0]
+    - Service Access Buildings; [^c-c67dc28d2a8a8cc696ba49868cdcebe7]...
+    - Underground Tunnel High Points;[^c-1c53e7ad9dab5f6d143ef0df361b3bd2]
+    - Services Ventilation Building;[^c-d64c59ab5703af3f93f58997a756115b]
+    - Back Up Containerised Generators;[^c-7b16a66110f0f46c4c28d110acd08a57] [^c-31d808ba5b1b4bb41a82bf4ea452bc5d]...
     - Valve Room for Demineralisation Station.
-    - Emergency Response Centre; and[^key-be393842fa6acd6793e02f336c126e0d]
+    - Emergency Response Centre; and[^c-be393842fa6acd6793e02f336c126e0d]
     - Emergency Response Energy Centre.
   - (i) buildings and structures housing—
     - Simulator Building/Training Centre; and
@@ -147,7 +147,7 @@ Article 2
   - (j) National Grid Substation and associated buildings and plant;
   - (k) transmission towers (pylons) and associated overhead line transmission infrastructure to provide connection to the National Grid Substation (Work No. 1A(j));
   - (l) landscape works, comprising temporary and permanent works, external lighting, footpaths, maintenance buildings and car parking;
-  - (m) site access points, internal access roads, internal rail track, hardstanding and vehicle, motorcycle and bicycle parking areas [^key-6cacd3bf58c99fa38ffe82b08a17d976]..., access roundabout;
+  - (m) site access points, internal access roads, internal rail track, hardstanding and vehicle, motorcycle and bicycle parking areas [^c-6cacd3bf58c99fa38ffe82b08a17d976]..., access roundabout;
   - (n) perimeter and internal fencing, signage, secured entrance, security buildings, CCTV poles, gates, barriers and bollards;
   - (o) establishment and maintenance of a sea wall and associated coastal defences, including foreshore rock armour revetments; and
   - (p) an emergency access road, including junction to existing highway, and Bridge over Bum Brook.
@@ -158,7 +158,7 @@ Article 2
   A new access road, approximately 700m in length, and roundabout connecting to the C182, associated laying, replacement, realignment and diversions of apparatus and associated works, the location of which is shown on sheet no. 2.
 - **Work No. 1C**
 
-  Off-site Delivery Checkpoint[^key-ebfcd60042a86ee588789010d7b4748f] , layby and turning head, adjacent to the C182, the location of which is shown on sheet no. 2.
+  Off-site Delivery Checkpoint[^c-ebfcd60042a86ee588789010d7b4748f] , layby and turning head, adjacent to the C182, the location of which is shown on sheet no. 2.
 
 #### HPC Development Site: cooling water infrastructure — In the District of West Somerset and the County of Somerset and the territorial sea
 
@@ -231,9 +231,9 @@ Article 2
 
   A new site access road commencing at A39 Bath Road and running in a north-westerly direction from the A39 Bath Road connecting into internal site roads, including physical works to close off the Frederick Road junction off A39 Bath Road, the location of which is shown on sheet no. 12.
 
-#### Bridgwater C — ...[^key-6f1f9603aa375789b34911cb014b1eff]
+#### Bridgwater C — ...[^c-6f1f9603aa375789b34911cb014b1eff]
 
-- **[^key-6f1f9603aa375789b34911cb014b1eff]...**
+- **[^c-6f1f9603aa375789b34911cb014b1eff]...**
   - (a)
   - (b)
   - (c)
@@ -480,7 +480,7 @@ Article 2
 
 - **Work No. TJ1**
 
-  A jetty of open piled construction including an elevated roadway and drainage infrastructure (including pipework and outfalls)[^key-cbfebb4cebf3df244d036a3cbc753e3d] and comprising a concrete deck supported on steel tubular piles, commencing at a point at ST1953846080 and extending in a north westerly direction into Bridgwater Bay for a distance of 506 metres and terminating at a point at ST1928546519, the location of which is shown on sheet no. 7 and the sections of which are shown on sheet no. 10.
+  A jetty of open piled construction including an elevated roadway and drainage infrastructure (including pipework and outfalls)[^c-cbfebb4cebf3df244d036a3cbc753e3d] and comprising a concrete deck supported on steel tubular piles, commencing at a point at ST1953846080 and extending in a north westerly direction into Bridgwater Bay for a distance of 506 metres and terminating at a point at ST1928546519, the location of which is shown on sheet no. 7 and the sections of which are shown on sheet no. 10.
 - **Work No. TJ2**
 
   A covered conveyor for transporting aggregates to be used on Work Nos. 1A, 1B and 1C, commencing at a point at ST1968845829 and extending in a north westerly direction for a distance of 788 metres and terminating at a point at ST1931146515, the location of which is shown on sheet no. 8 and the sections of which are shown on sheet no. 10.
@@ -493,9 +493,9 @@ Article 2
 
 ### PART 3 — Approved plans
 
-#### HPC Permanent Development Site[^key-59518bb5b41509487ddbf914e2a3ed42]
+#### HPC Permanent Development Site[^c-59518bb5b41509487ddbf914e2a3ed42]
 
-Site Plans[^key-fba0df9379fd269dce8bfb827b2027c8]
+Site Plans[^c-fba0df9379fd269dce8bfb827b2027c8]
 
 | Drawing number | Rev | Drawing title | Scale | \>Paper size |
 | --- | --- | --- | --- | --- |
@@ -838,9 +838,9 @@ Main Access Control Building
 | HINK-A2-HU-00-GE-001 | 01 | Elevations | 1:100 | A1 |
 | HINK-A2-HU-00-DT-001 | 01 | Part Elevation Detail | 1:50 | A1 |
 
-[^key-c4acbe85337660dbfa0f77b58605e4a7] . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4acbe85337660dbfa0f77b58605e4a7] . . . . . . . . . . . . . . . . . . . . . .
 
-Auxiliary Administration Building[^key-6011cdf8f913ac97aed2a4e3e30dfef6]
+Auxiliary Administration Building[^c-6011cdf8f913ac97aed2a4e3e30dfef6]
 
 | Drawing number | Rev | Drawing title | Scale | \>Paper size |
 | --- | --- | --- | --- | --- |
@@ -849,7 +849,7 @@ Auxiliary Administration Building[^key-6011cdf8f913ac97aed2a4e3e30dfef6]
 | HINK-A2-HUC-00-GE-002 | 03 | East and West Elevations | 1:100 | A1 |
 | HINK-A2-HUC-00-DT-001 | 03 | Part Elevation | 1:50 | A1 |
 
-[^key-c4acbe85337660dbfa0f77b58605e4a7] . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4acbe85337660dbfa0f77b58605e4a7] . . . . . . . . . . . . . . . . . . . . . .
 
 Garage for Handling Facilities
 
@@ -929,7 +929,7 @@ Services Ventilation Building
 | --- | --- | --- | --- | --- |
 | HINK-A2-HGM-00-GA-001 | 01 | Roof Plan & Elevations | 1:100 | A1 |
 
-Off Site Delivery Checkpoint[^key-1cae17fe0455e382a0f1cb4f9b2ca610]
+Off Site Delivery Checkpoint[^c-1cae17fe0455e382a0f1cb4f9b2ca610]
 
 | Drawing number | Rev | Drawing title | Scale | \>Paper size |
 | --- | --- | --- | --- | --- |
@@ -1054,7 +1054,7 @@ Back Up Power Containerised Generator 3 – Near to the Areva Warehouse
 | HPCSPW028 | 00 | NW Boundary Mitigation During Construction Cross Sections C and D | 1:200 | A1 |
 | HPCSPW029 | 00 | NW Boundary Mitigation During Construction Planting Plan | 1:750 | A1 |
 
-#### Bridgwater A[^key-34b8ed676a58bff686b437c058012c63]
+#### Bridgwater A[^c-34b8ed676a58bff686b437c058012c63]
 
 | Drawing number | Rev | Drawing description | Scale | Paper size |
 | --- | --- | --- | --- | --- |
@@ -1093,7 +1093,7 @@ Back Up Power Containerised Generator 3 – Near to the Areva Warehouse
 
 #### Bridgwater C
 
-| [^key-7e1701563c18cc04d1e50a88868092f6]... |  |  |  |  |
+| [^c-7e1701563c18cc04d1e50a88868092f6]... |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -1438,7 +1438,7 @@ Back Up Power Containerised Generator 3 – Near to the Areva Warehouse
 </tbody>
 </table>
 
-[^key-257f34952756f1170aa776a3e6561d09][^key-257f34952756f1170aa776a3e6561d09][^key-257f34952756f1170aa776a3e6561d09][^key-257f34952756f1170aa776a3e6561d09][^key-257f34952756f1170aa776a3e6561d09][^key-257f34952756f1170aa776a3e6561d09][^key-257f34952756f1170aa776a3e6561d09][^key-257f34952756f1170aa776a3e6561d09][^key-257f34952756f1170aa776a3e6561d09][^key-257f34952756f1170aa776a3e6561d09]
+[^c-257f34952756f1170aa776a3e6561d09][^c-257f34952756f1170aa776a3e6561d09][^c-257f34952756f1170aa776a3e6561d09][^c-257f34952756f1170aa776a3e6561d09][^c-257f34952756f1170aa776a3e6561d09][^c-257f34952756f1170aa776a3e6561d09][^c-257f34952756f1170aa776a3e6561d09][^c-257f34952756f1170aa776a3e6561d09][^c-257f34952756f1170aa776a3e6561d09][^c-257f34952756f1170aa776a3e6561d09]
 
 <table>
 <caption>Amenity/Welfare/Administration/Security Areas</caption>
@@ -1560,7 +1560,7 @@ Back Up Power Containerised Generator 3 – Near to the Areva Warehouse
 </tbody>
 </table>
 
-[^key-eed3f6ef8511bfb8af16c5b143cda52b]
+[^c-eed3f6ef8511bfb8af16c5b143cda52b]
 
 <table>
 <caption>A39 Broadway/A38 Taunton Road Junction</caption>
@@ -1691,94 +1691,94 @@ Back Up Power Containerised Generator 3 – Near to the Areva Warehouse
 
 [^M_I_a929de7e-4b1b-4f8d-9194-cf3585a93a6a]: Commencement: Sch. 1 Pt. 1 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-81b04329605ade44aeba873c1581c869]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 2
+[^c-81b04329605ade44aeba873c1581c869]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 2
 
-[^key-812facf30a7d71fd470b2ff600493535]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/2/a)
+[^c-812facf30a7d71fd470b2ff600493535]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/2/a)
 
-[^key-0f270f40c7e97b923bb0b62de8da0dc9]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (24.3.2018) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [arts. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/413/article/3/2/a)
+[^c-0f270f40c7e97b923bb0b62de8da0dc9]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (24.3.2018) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [arts. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/413/article/3/2/a)
 
-[^key-7aa37993d53fe1232a326ff9471acebf]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/2/b)
+[^c-7aa37993d53fe1232a326ff9471acebf]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/2/b)
 
-[^key-cf7d27b1abd32bd890d8fb536846f932]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (24.3.2018) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [arts. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/413/article/3/2/b)
+[^c-cf7d27b1abd32bd890d8fb536846f932]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (24.3.2018) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [arts. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/413/article/3/2/b)
 
-[^key-747a0c54c625df2c0b2c4b2b08f99aeb]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (24.3.2018) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [arts. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2018/413/article/3/2/c)
+[^c-747a0c54c625df2c0b2c4b2b08f99aeb]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (24.3.2018) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [arts. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2018/413/article/3/2/c)
 
-[^key-d1cfb49d744e068c2873c12c49d63856]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/3/a)
+[^c-d1cfb49d744e068c2873c12c49d63856]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/3/a)
 
-[^key-0079d5c605228a09f6ccf6e102e8cba7]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/3/b)
+[^c-0079d5c605228a09f6ccf6e102e8cba7]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/3/b)
 
-[^key-32f5d73ce5b1dbd4d1d813ce71624925]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/3/c)
+[^c-32f5d73ce5b1dbd4d1d813ce71624925]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/3/c)
 
-[^key-d63c63b1be3934c1d73005ffca3a37a4]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/4/a)
+[^c-d63c63b1be3934c1d73005ffca3a37a4]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/4/a)
 
-[^key-4c5190eaa90cc0aaed97116f1a791fb2]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/4/b)
+[^c-4c5190eaa90cc0aaed97116f1a791fb2]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/4/b)
 
-[^key-06d5f873144ac71d006fb4dc42b2bbef]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(5)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/5)
+[^c-06d5f873144ac71d006fb4dc42b2bbef]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(5)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/5)
 
-[^key-accd7aa9a9737a4de1dff7f0b0854807]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/6/a)
+[^c-accd7aa9a9737a4de1dff7f0b0854807]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/6/a)
 
-[^key-9bb9375250cdb39d69184567f43be07d]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/6/b)
+[^c-9bb9375250cdb39d69184567f43be07d]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/6/b)
 
-[^key-116416f12a648187c1fecdb9f79d0773]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/7/a)
+[^c-116416f12a648187c1fecdb9f79d0773]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/7/a)
 
-[^key-7c526b9d381e555b41795283fb269b90]: Textual amendment: Word in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/7/b)
+[^c-7c526b9d381e555b41795283fb269b90]: Textual amendment: Word in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/7/b)
 
-[^key-e8b960ed82fe9d04c19265649305531e]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(7)(c)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/7/c)
+[^c-e8b960ed82fe9d04c19265649305531e]: Textual amendment: Word in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(7)(c)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/7/c)
 
-[^key-5e1f2aab08c3aa38b6f84c6970372b8a]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(7)(d)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/7/d)
+[^c-5e1f2aab08c3aa38b6f84c6970372b8a]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(7)(d)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/7/d)
 
-[^key-b9f9ed6698dbe25fdf8d33e8f5300ac3]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (7.1.2022) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/2/a)
+[^c-b9f9ed6698dbe25fdf8d33e8f5300ac3]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (7.1.2022) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/2/a)
 
-[^key-0747d2f59c0e98ad1c0a0536749fe7a4]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (7.1.2022) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/2/b)
+[^c-0747d2f59c0e98ad1c0a0536749fe7a4]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (7.1.2022) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/2/b)
 
-[^key-3770bc49e984f9654ff34b3a587f0342]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(8)(a)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/8/a)
+[^c-3770bc49e984f9654ff34b3a587f0342]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(8)(a)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/8/a)
 
-[^key-0a218e25a21c2a98ab1264d22009dc6f]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (7.1.2022) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/2/c)
+[^c-0a218e25a21c2a98ab1264d22009dc6f]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (7.1.2022) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/2/c)
 
-[^key-b14b1fa640016d008f0bdd6cb738070a]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(8)(b)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/8/b)
+[^c-b14b1fa640016d008f0bdd6cb738070a]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(8)(b)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/8/b)
 
-[^key-79769b6256c696fa762be1cc4ea7be26]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (7.1.2022) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/2/d)
+[^c-79769b6256c696fa762be1cc4ea7be26]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (7.1.2022) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/2/d)
 
-[^key-7e14913c3e1234c5dd691a9df35f2ebd]: Textual amendment: Word in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(8)(c)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/8/c)
+[^c-7e14913c3e1234c5dd691a9df35f2ebd]: Textual amendment: Word in Sch. 1 Pt. 1 omitted (10.9.2015) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(8)(c)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/8/c)
 
-[^key-8ca45f311396d67edac1fd4538980db0]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (7.1.2022) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(2)(e)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/2/e)
+[^c-8ca45f311396d67edac1fd4538980db0]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (7.1.2022) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(2)(e)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/2/e)
 
-[^key-c67dc28d2a8a8cc696ba49868cdcebe7]: Textual amendment: Word in Sch. 1 Pt. 1 omitted (24.3.2018) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [arts. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/413/article/3/3/a)
+[^c-c67dc28d2a8a8cc696ba49868cdcebe7]: Textual amendment: Word in Sch. 1 Pt. 1 omitted (24.3.2018) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [arts. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/413/article/3/3/a)
 
-[^key-1c53e7ad9dab5f6d143ef0df361b3bd2]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (24.3.2018) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [arts. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/413/article/3/3/b)
+[^c-1c53e7ad9dab5f6d143ef0df361b3bd2]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (24.3.2018) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [arts. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/413/article/3/3/b)
 
-[^key-d64c59ab5703af3f93f58997a756115b]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(8)(f)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/8/f)
+[^c-d64c59ab5703af3f93f58997a756115b]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (10.9.2015) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2015 (S.I. 2015/1666)](https://www.legislation.gov.uk/uksi/2015/1666), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1666/article/1), [3(8)(f)](https://www.legislation.gov.uk/uksi/2015/1666/article/3/8/f)
 
-[^key-7b16a66110f0f46c4c28d110acd08a57]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (24.3.2018) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [arts. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2018/413/article/3/3/c)
+[^c-7b16a66110f0f46c4c28d110acd08a57]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (24.3.2018) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [arts. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2018/413/article/3/3/c)
 
-[^key-31d808ba5b1b4bb41a82bf4ea452bc5d]: Textual amendment: Word in Sch. 1 Pt. 1 omitted (7.1.2022) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(2)(f)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/2/f)
+[^c-31d808ba5b1b4bb41a82bf4ea452bc5d]: Textual amendment: Word in Sch. 1 Pt. 1 omitted (7.1.2022) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(2)(f)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/2/f)
 
-[^key-be393842fa6acd6793e02f336c126e0d]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (7.1.2022) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(2)(g)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/2/g)
+[^c-be393842fa6acd6793e02f336c126e0d]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (7.1.2022) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(2)(g)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/2/g)
 
-[^key-6cacd3bf58c99fa38ffe82b08a17d976]: Textual amendment: Word in Sch. 1 Pt. 1 omitted (7.1.2022) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/3)
+[^c-6cacd3bf58c99fa38ffe82b08a17d976]: Textual amendment: Word in Sch. 1 Pt. 1 omitted (7.1.2022) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/1474/article/3/3)
 
-[^key-ebfcd60042a86ee588789010d7b4748f]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (7.1.2022) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [4](https://www.legislation.gov.uk/uksi/2021/1474/article/4)
+[^c-ebfcd60042a86ee588789010d7b4748f]: Textual amendment: Words in Sch. 1 Pt. 1 substituted (7.1.2022) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [4](https://www.legislation.gov.uk/uksi/2021/1474/article/4)
 
-[^key-6f1f9603aa375789b34911cb014b1eff]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [5](https://www.legislation.gov.uk/uksi/2017/843/article/5)
+[^c-6f1f9603aa375789b34911cb014b1eff]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [5](https://www.legislation.gov.uk/uksi/2017/843/article/5)
 
 [^M_I_796ece86-2a96-4f56-c2b5-7f1529173e28]: Commencement: Sch. 1 Pt. 2 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-cbfebb4cebf3df244d036a3cbc753e3d]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/2) inserted (24.3.2018) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [arts. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/413/article/4/2)
+[^c-cbfebb4cebf3df244d036a3cbc753e3d]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/2) inserted (24.3.2018) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [arts. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/413/article/4/2)
 
-[^key-59518bb5b41509487ddbf914e2a3ed42]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) substituted (24.3.2018) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [art. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/413/schedule)
+[^c-59518bb5b41509487ddbf914e2a3ed42]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) substituted (24.3.2018) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2018 (S.I. 2018/413)](https://www.legislation.gov.uk/uksi/2018/413), [art. 1](https://www.legislation.gov.uk/uksi/2018/413/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/413/schedule)
 
-[^key-fba0df9379fd269dce8bfb827b2027c8]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) substituted (7.1.2022) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/1474/article/5/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1474/article/5/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1474/schedule/1)
+[^c-fba0df9379fd269dce8bfb827b2027c8]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) substituted (7.1.2022) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/1474/article/5/2)[(3)](https://www.legislation.gov.uk/uksi/2021/1474/article/5/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1474/schedule/1)
 
-[^key-c4acbe85337660dbfa0f77b58605e4a7]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) omitted (7.1.2022) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [5(4)](https://www.legislation.gov.uk/uksi/2021/1474/article/5/4)
+[^c-c4acbe85337660dbfa0f77b58605e4a7]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) omitted (7.1.2022) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [5(4)](https://www.legislation.gov.uk/uksi/2021/1474/article/5/4)
 
-[^key-6011cdf8f913ac97aed2a4e3e30dfef6]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) substituted (7.1.2022) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [5(5)](https://www.legislation.gov.uk/uksi/2021/1474/article/5/5)
+[^c-6011cdf8f913ac97aed2a4e3e30dfef6]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) substituted (7.1.2022) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [5(5)](https://www.legislation.gov.uk/uksi/2021/1474/article/5/5)
 
-[^key-1cae17fe0455e382a0f1cb4f9b2ca610]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) inserted (7.1.2022) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/1474/article/5/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1474/schedule/2)
+[^c-1cae17fe0455e382a0f1cb4f9b2ca610]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) inserted (7.1.2022) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2021 (S.I. 2021/1474)](https://www.legislation.gov.uk/uksi/2021/1474), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1474/article/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/1474/article/5/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/1474/schedule/2)
 
-[^key-34b8ed676a58bff686b437c058012c63]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) substituted for drawings (18.8.2017) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2017/843/article/6/2), [Sch.](https://www.legislation.gov.uk/uksi/2017/843/schedule)
+[^c-34b8ed676a58bff686b437c058012c63]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) substituted for drawings (18.8.2017) by [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2017/843/article/6/2), [Sch.](https://www.legislation.gov.uk/uksi/2017/843/schedule)
 
-[^key-7e1701563c18cc04d1e50a88868092f6]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2017/843/article/6/3)
+[^c-7e1701563c18cc04d1e50a88868092f6]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2017/843/article/6/3)
 
-[^key-257f34952756f1170aa776a3e6561d09]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) omitted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 2
+[^c-257f34952756f1170aa776a3e6561d09]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) omitted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 2
 
-[^key-eed3f6ef8511bfb8af16c5b143cda52b]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 2
+[^c-eed3f6ef8511bfb8af16c5b143cda52b]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/648/schedule/1/part/3) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 2

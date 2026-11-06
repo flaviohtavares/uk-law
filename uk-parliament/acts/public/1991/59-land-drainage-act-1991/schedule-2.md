@@ -83,7 +83,7 @@ and such disclosure shall be forthwith recorded in the minutes of the board.
 **4.** (1) An internal drainage board shall—
 
 - (a) before such date in every year as the relevant Minister may fix, send to that Minister a report of their proceedings during the preceding year; and
-- (b) at the same time send a copy of the report to the appropriate supervisory body[^key-4e1f195659018b710a2b10106096f310] and to the council of every county , county borough[^c1415685] and London borough in which any part of the board’s district is situated.
+- (b) at the same time send a copy of the report to the appropriate supervisory body[^c-4e1f195659018b710a2b10106096f310] and to the council of every county , county borough[^c1415685] and London borough in which any part of the board’s district is situated.
 
 (2) Every such report shall be in such form and shall contain particulars with respect to such matters as the relevant Minister may direct.
 
@@ -92,7 +92,7 @@ and such disclosure shall be forthwith recorded in the minutes of the board.
 **5.** (1) An internal drainage board shall—
 
 - (a) as soon as the accounts of the board have been audited, send a copy of them to the relevant Minister; and
-- (b) at the same time, send a copy of the accounts to the appropriate supervisory body[^key-907a9c78064f4eabad8a55d97e20603a] and to the council of every county , county borough[^c1415687] or London borough in which any part of the board’s district is situated.
+- (b) at the same time, send a copy of the accounts to the appropriate supervisory body[^c-907a9c78064f4eabad8a55d97e20603a] and to the council of every county , county borough[^c1415687] or London borough in which any part of the board’s district is situated.
 
 (2) A copy of the audited accounts of an internal drainage board shall be kept at the office of the board and any person who is liable to pay drainage rates in the board’s district shall be entitled, without payment, to inspect and take copies of, or extracts from, that copy.
 
@@ -100,10 +100,10 @@ and such disclosure shall be forthwith recorded in the minutes of the board.
 
 [^c1415683]: Marginal citation: [1774 c. 48](https://www.legislation.gov.uk/apgb/1774/48).
 
-[^key-4e1f195659018b710a2b10106096f310]: Textual amendment: Words in [Sch. 2 para. 4(1)(b)](https://www.legislation.gov.uk/ukpga/1991/59/schedule/2/paragraph/4/1/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 337](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/337) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-4e1f195659018b710a2b10106096f310]: Textual amendment: Words in [Sch. 2 para. 4(1)(b)](https://www.legislation.gov.uk/ukpga/1991/59/schedule/2/paragraph/4/1/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 337](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/337) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c1415685]: Textual amendment: Words inserted in Sch. 2, para. 4(1)(b) (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/5), [Sch. 11](https://www.legislation.gov.uk/ukpga/1994/19/schedule/11), [Pt. II](https://www.legislation.gov.uk/ukpga/1994/19/part/II), [para. 4(13)](https://www.legislation.gov.uk/ukpga/1994/19/paragraph/4/13) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art.3](https://www.legislation.gov.uk/uksi/1996/396/article/3)
 
-[^key-907a9c78064f4eabad8a55d97e20603a]: Textual amendment: Words in [Sch. 2 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/1991/59/schedule/2/paragraph/5/1/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 337](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/337) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-907a9c78064f4eabad8a55d97e20603a]: Textual amendment: Words in [Sch. 2 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/1991/59/schedule/2/paragraph/5/1/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 337](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/337) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c1415687]: Textual amendment: Words in Sch. 2, para. 4(5)(1)(b) (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/5), SCh. 11, Pt. II, para. 4(13) (with ss. 54(5)(7), 55(5)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art.3](https://www.legislation.gov.uk/uksi/1996/396/article/3)

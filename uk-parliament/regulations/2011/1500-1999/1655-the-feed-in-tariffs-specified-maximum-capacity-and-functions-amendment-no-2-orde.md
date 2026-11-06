@@ -32,7 +32,7 @@ summary: ''
 
 Electricity
 
-The Feed-in Tariffs (Specified Maximum Capacity and Functions) (Amendment No.2) Order 2011 (revoked)[^key-6f7aea0ab981fd0305c0119438262c78]
+The Feed-in Tariffs (Specified Maximum Capacity and Functions) (Amendment No.2) Order 2011 (revoked)[^c-6f7aea0ab981fd0305c0119438262c78]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st August 2011
 
-[^key-6f7aea0ab981fd0305c0119438262c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f7aea0ab981fd0305c0119438262c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6f7aea0ab981fd0305c0119438262c78]
+## 1. Citation and commencement[^c-6f7aea0ab981fd0305c0119438262c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-6f7aea0ab981fd0305c0119438262c78]
+## 2. Amendments[^c-6f7aea0ab981fd0305c0119438262c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of article 5A[^key-6f7aea0ab981fd0305c0119438262c78]
+## 3. Amendment of article 5A[^c-6f7aea0ab981fd0305c0119438262c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of article 10[^key-6f7aea0ab981fd0305c0119438262c78]
+## 4. Amendment of article 10[^c-6f7aea0ab981fd0305c0119438262c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of article 13[^key-6f7aea0ab981fd0305c0119438262c78]
+## 5. Amendment of article 13[^c-6f7aea0ab981fd0305c0119438262c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f7aea0ab981fd0305c0119438262c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f7aea0ab981fd0305c0119438262c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6f7aea0ab981fd0305c0119438262c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f7aea0ab981fd0305c0119438262c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f7aea0ab981fd0305c0119438262c78]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1655) revoked (1.12.2012) by [The Feed-in Tariffs Order 2012 (S.I. 2012/2782)](https://www.legislation.gov.uk/uksi/2012/2782), [art. 1](https://www.legislation.gov.uk/uksi/2012/2782/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/2782/schedule/3)
+[^c-6f7aea0ab981fd0305c0119438262c78]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1655) revoked (1.12.2012) by [The Feed-in Tariffs Order 2012 (S.I. 2012/2782)](https://www.legislation.gov.uk/uksi/2012/2782), [art. 1](https://www.legislation.gov.uk/uksi/2012/2782/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/2782/schedule/3)

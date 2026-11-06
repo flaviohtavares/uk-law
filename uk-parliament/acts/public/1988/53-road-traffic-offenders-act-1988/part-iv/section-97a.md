@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Meaning of “driving record”[^key-458070102f64a1de82ff70d6d7f1b9a1]
+## 97A. Meaning of “driving record”[^c-458070102f64a1de82ff70d6d7f1b9a1]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-458070102f64a1de82ff70d6d7f1b9a1]: Textual amendment: S. 97A inserted (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 8](https://www.legislation.gov.uk/ukpga/2006/49/section/8), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(a)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/a)
+[^c-458070102f64a1de82ff70d6d7f1b9a1]: Textual amendment: S. 97A inserted (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 8](https://www.legislation.gov.uk/ukpga/2006/49/section/8), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(a)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/a)

@@ -56,7 +56,7 @@ for all other purposes
 
 The Treasury, in exercise of the powers conferred by sections 426 to 428 of the Financial Services and Markets Act 2000[^f00001], make the following Order:
 
-## 1. Citation, commencement and interpretation[^key-fd51aa00cf264925edd3ecb74463ee49]
+## 1. Citation, commencement and interpretation[^c-fd51aa00cf264925edd3ecb74463ee49]
 
 (1) This Order may be cited as the Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011.
 
@@ -76,7 +76,7 @@ The Treasury, in exercise of the powers conferred by sections 426 to 428 of the 
 
 ## PART 1 — Permissions and Applications etc.
 
-### 2. Credit unions registered at commencement[^key-407ef7e3974eb1a49b08f43fe45befdb]
+### 2. Credit unions registered at commencement[^c-407ef7e3974eb1a49b08f43fe45befdb]
 
 (1) An unauthorised credit union is to be treated as having, at commencement, a Part 4 permission to accept deposits—
 
@@ -92,7 +92,7 @@ The Treasury, in exercise of the powers conferred by sections 426 to 428 of the 
 - “Part 4 permission” has the meaning given in section 40(4) of the Act;
 - “unauthorised credit union” means a credit union which immediately before commencement is not an authorised person.
 
-### 3. Effect of restrictions and prohibitions under the 1985 Order[^key-067f1a42f733a8153726a7e83e2ec608]
+### 3. Effect of restrictions and prohibitions under the 1985 Order[^c-067f1a42f733a8153726a7e83e2ec608]
 
 (1) Where immediately before commencement an unauthorised credit union was subject to a direction under Article 59 of the 1985 Order, that direction has effect from commencement as if it were a requirement imposed on that credit union under section 43 of the Act (imposition of requirements).
 
@@ -103,55 +103,55 @@ The Treasury, in exercise of the powers conferred by sections 426 to 428 of the 
 
 (3) Paragraphs (1) and (2) are subject to anything done under the Act that has effect from or after commencement.
 
-### 4. Approved persons[^key-32f47390fe40a9ad92ea7ba17245f9bf]
+### 4. Approved persons[^c-32f47390fe40a9ad92ea7ba17245f9bf]
 
 (1) Where, at commencement, a person (“P”) is performing a function for an unauthorised credit union under an arrangement entered into by that credit union or by a contractor of that credit union, if P’s continued performance of that function after commencement would, but for this article, require the approval of the Authority under section 59(1) or (2) of the Act (approval), then that continued performance by P of that function after commencement is to be taken to have been approved by the Authority for the purposes of section 59 of the Act.
 
 (2) Paragraph (1) does not apply if P performs a function by virtue of the fact that P holds or has held an office in a credit union and, immediately before commencement, P was ineligible by virtue of Article 39 of the 1985 Order to hold that office.
 
-### 5. Requirement to reapply for Part 4 permission[^key-e2a0547b6596454bc07ad6b5c4cff925]
+### 5. Requirement to reapply for Part 4 permission[^c-e2a0547b6596454bc07ad6b5c4cff925]
 
-(1) At any time on or before 31st March 2014, the FCA or the PRA[^key-5c61d9ee3d75015b11b67bcb2b2ff300] may give a direction under this article to a named unauthorised credit union or a specified class of unauthorised credit unions.
+(1) At any time on or before 31st March 2014, the FCA or the PRA[^c-5c61d9ee3d75015b11b67bcb2b2ff300] may give a direction under this article to a named unauthorised credit union or a specified class of unauthorised credit unions.
 
-(2) A direction under this article is a direction that each credit union named or falling within the specified class must, before a date so specified, apply to the regulator which gave the direction under section 55A[^key-32ae68fe61d0890b9fef8a902af8f2a3] of the Act for permission to carry on the regulated activities which it wishes to carry on.
+(2) A direction under this article is a direction that each credit union named or falling within the specified class must, before a date so specified, apply to the regulator which gave the direction under section 55A[^c-32ae68fe61d0890b9fef8a902af8f2a3] of the Act for permission to carry on the regulated activities which it wishes to carry on.
 
-(3) Section 55A(3)[^key-d81522ff272df64eaa7972f685fd98f3] of the Act does not apply in relation to an application made in pursuance of the direction.
+(3) Section 55A(3)[^c-d81522ff272df64eaa7972f685fd98f3] of the Act does not apply in relation to an application made in pursuance of the direction.
 
-(4) If a credit union fails to comply with the direction, the regulator which gave the direction must consider whether to exercise the power in section 55J (variation or cancellation on initiative of regulator) and, for this purpose, section 55J(1)[^key-8d454eb08bf5d98511e42cd9363d1398] applies as if there was added after sub-paragraph (c)—
+(4) If a credit union fails to comply with the direction, the regulator which gave the direction must consider whether to exercise the power in section 55J (variation or cancellation on initiative of regulator) and, for this purpose, section 55J(1)[^c-8d454eb08bf5d98511e42cd9363d1398] applies as if there was added after sub-paragraph (c)—
 
 > ; or
 >
-> - (d) the person has failed to comply with a direction given by the regulator[^key-a25c7aca1fd964f0fa5263e74eaff436] under article 5(1) of the Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011
+> - (d) the person has failed to comply with a direction given by the regulator[^c-a25c7aca1fd964f0fa5263e74eaff436] under article 5(1) of the Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011
 
 .
 
-(5) If a credit union complies with the direction but the application which it makes pursuant to it is refused, its Part 4 permission ceases to have effect on such date as the regulator which gave the direction[^key-cc5f9cee50d3b68aad35b9ca0397d884] may in its decision notice specify or, if no date is specified, when the matter is no longer open to review.
+(5) If a credit union complies with the direction but the application which it makes pursuant to it is refused, its Part 4 permission ceases to have effect on such date as the regulator which gave the direction[^c-cc5f9cee50d3b68aad35b9ca0397d884] may in its decision notice specify or, if no date is specified, when the matter is no longer open to review.
 
-(6) If a credit union complies with the direction and the PRA[^key-cbe0dd96f9f8b8c5029a5d5573c0819d] gives it a Part 4 permission, that permission has effect on such date as may be specified in the PRA’s[^key-fc129fed05ed8e9b0e1fdbe0cd2ba79d] written notice in place of the Part 4 permission which the credit union had by virtue of article 2.
+(6) If a credit union complies with the direction and the PRA[^c-cbe0dd96f9f8b8c5029a5d5573c0819d] gives it a Part 4 permission, that permission has effect on such date as may be specified in the PRA’s[^c-fc129fed05ed8e9b0e1fdbe0cd2ba79d] written notice in place of the Part 4 permission which the credit union had by virtue of article 2.
 
 (7) For the purposes of this article and article 6, whether a matter is open to review is to be determined in accordance with section 391(8) of the Act.
 
 (8) A direction given under this article or article 6 before commencement has effect on commencement.
 
-### 6. Requirement to reapply for approved person status[^key-19b31fff66be490c2c26cdd9d62479be]
+### 6. Requirement to reapply for approved person status[^c-19b31fff66be490c2c26cdd9d62479be]
 
-(1) At any time on or before 31st March 2014, the FCA[^key-2db4b4b0fa02ab38baa12de691db8dde] or the PRA may give a direction under this article to a named unauthorised credit union or a specified class of unauthorised credit unions.
+(1) At any time on or before 31st March 2014, the FCA[^c-2db4b4b0fa02ab38baa12de691db8dde] or the PRA may give a direction under this article to a named unauthorised credit union or a specified class of unauthorised credit unions.
 
-(2) A direction under this article is a direction that each credit union named or falling within the specified class must, before a date so specified, apply to the regulator which gave the direction[^key-a01a50dcdf3edbd7b8c48abe37413a8e] under section 60 of the Act (applications for approval) for approval under section 59(1) or (2) of the Act in relation to the performance by P of the function referred to in article 4(1).
+(2) A direction under this article is a direction that each credit union named or falling within the specified class must, before a date so specified, apply to the regulator which gave the direction[^c-a01a50dcdf3edbd7b8c48abe37413a8e] under section 60 of the Act (applications for approval) for approval under section 59(1) or (2) of the Act in relation to the performance by P of the function referred to in article 4(1).
 
 (3) If a credit union fails to comply with the direction, the regulator which gave the direction must consider whether to exercise the power in section 63(1) of the Act (withdrawal of approval) to withdraw the approval P is taken to have by virtue of article 4(1), and for this purpose, section 63 applies as if for “given under section 59” there is substituted “taken to have been given under section 59 by virtue of article 4(1) of the Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011”.
 
-(4) If a credit union complies with the direction but the application which it makes in pursuance of it is refused, P’s performance of the function ceases to be taken to have been approved [^key-d6b80754b4d92942653c15292ffd099c]... on such date as the regulator which gave the direction may in its decision notice specify or, if no date is specified, when the matter is no longer open to review.
+(4) If a credit union complies with the direction but the application which it makes in pursuance of it is refused, P’s performance of the function ceases to be taken to have been approved [^c-d6b80754b4d92942653c15292ffd099c]... on such date as the regulator which gave the direction may in its decision notice specify or, if no date is specified, when the matter is no longer open to review.
 
-(5) If a credit union complies with the direction and in response to its application the regulator which gave the direction approves the performance by P of the controlled function, that approval has effect on such date as may be specified in that regulator’s[^key-45a8b01aedefc241a3c09356c7dacfac] written notice in place of the approval which the credit union was taken to have by virtue of article 4(1).
+(5) If a credit union complies with the direction and in response to its application the regulator which gave the direction approves the performance by P of the controlled function, that approval has effect on such date as may be specified in that regulator’s[^c-45a8b01aedefc241a3c09356c7dacfac] written notice in place of the approval which the credit union was taken to have by virtue of article 4(1).
 
-### 7. Requirements to reapply: procedure[^key-7b9c333f6674223813f2619fd0daf415]
+### 7. Requirements to reapply: procedure[^c-7b9c333f6674223813f2619fd0daf415]
 
 (1) A direction given under article 5 or 6 must state the reasons why it has been given to the named credit union or specified class of credit unions.
 
 (2) The date specified in a direction under article 5(2) or 6(2) must be such as to allow a reasonable time for compliance, and in any event must fall after the end of three months beginning with the date when the direction has effect.
 
-(3) If the FCA[^key-1628b4c199e10e393bd2406b3d37e18c] or the PRA gives a direction under article 5 or 6, it must as soon as practicable, and in any event not later than the due date, give a copy to each named credit union and to each credit union which falls, or which it considers may on the due date, fall within the specified class of credit unions.
+(3) If the FCA[^c-1628b4c199e10e393bd2406b3d37e18c] or the PRA gives a direction under article 5 or 6, it must as soon as practicable, and in any event not later than the due date, give a copy to each named credit union and to each credit union which falls, or which it considers may on the due date, fall within the specified class of credit unions.
 
 (4) If the FCA or the PRA fails to give a copy of the direction to a credit union by the due date, the direction (and therefore articles 5(4) and 6(3)) do not apply to it. But if the FCA or the PRA gives the credit union a copy of the direction after the due date the direction has effect in relation to that credit union as if the date specified under article 5(2) or 6(2) were three months after the date on which the copy was given to that credit union, and the copy must indicate that fact.
 
@@ -159,7 +159,7 @@ The Treasury, in exercise of the powers conferred by sections 426 to 428 of the 
 
 (6) Any failure by the FCA or the PRA to comply with paragraph (3) does not invalidate the direction in relation to any credit union to which a copy is given in accordance with this article.
 
-### 8. Pre-commencement applications etc.[^key-c184e03273bcc72bb361f54075ba1dcd]
+### 8. Pre-commencement applications etc.[^c-c184e03273bcc72bb361f54075ba1dcd]
 
 (1) Sections 44 (variation etc. at request of authorised person)[^f00009], 45 (except subsections (1)(b), (2A) or (2B)), 46 (variation of permission on acquisition of control), 47 (exercise of power in support of overseas regulator), 48 (prohibitions and restrictions), 49(1) (persons connected with an applicant), 51 (except subsection (1)) (applications), 52 (determination of applications), 53 (exercise of own-initiative power: procedure), 54 (cancellation of Part 4 permission: procedure), 55 (references to the Tribunal), 56 to 58 (prohibition orders), 60 to 63 and 148 (modification or waiver of rules)[^f00010] apply until commencement with the following modifications—
 
@@ -169,7 +169,7 @@ The Treasury, in exercise of the powers conferred by sections 426 to 428 of the 
 
 (2) Nothing done under the Act by virtue of paragraph (1) (including the determination of any application) may come into force or have any effect before commencement.
 
-### 9. Information gathering and investigations[^key-44c83ece5b0b8b193c29d6341b0dc570]
+### 9. Information gathering and investigations[^c-44c83ece5b0b8b193c29d6341b0dc570]
 
 (1) Sections 165 (Authority’s power to require information)[^f00011] and 167 (general investigations)[^f00012] of the Act have effect until commencement as if—
 
@@ -184,7 +184,7 @@ The Treasury, in exercise of the powers conferred by sections 426 to 428 of the 
 - (b) any requirement imposed under section 175(2) or (3) of the Act ceases to have effect if the requirement pursuant to which the supplementary requirement was imposed ceases to have effect at commencement by virtue of sub-paragraph (a) (and no such supplementary requirement may be imposed thereafter); and
 - (c) no action may be taken or continued under or pursuant to the Act in relation to any requirement which ceases to have effect by virtue of this paragraph.
 
-### 10. Information sharing by the registrar[^key-8556bfe4e7c8e9e98199184dc4ebefe9]
+### 10. Information sharing by the registrar[^c-8556bfe4e7c8e9e98199184dc4ebefe9]
 
 (1) Until commencement Article 2A of the 1985 Order (the registrar and assistant registrar)[^f00013] is amended as follows.
 
@@ -194,13 +194,13 @@ The Treasury, in exercise of the powers conferred by sections 426 to 428 of the 
 
 .
 
-### 11. Application of wider definition of “consumer” to customers of credit unions[^key-d3efc3898c9d8412a575201d9e542201]
+### 11. Application of wider definition of “consumer” to customers of credit unions[^c-d3efc3898c9d8412a575201d9e542201]
 
 Section 425B of the Act[^f00014] (consumers: regulated activities carried on by others) applies for the purposes of section 391(6) of the Act (publication) until 31st March 2014 in addition to the definition of “consumers” in section 425A of the Act (consumers: regulated activities etc. carried on by authorised persons) in relation to activities carried on by credit unions.
 
 ## PART 2 — Consequential Amendments
 
-### 12. Amendments to banking legislation[^key-79bf42fcf6f46923bce47c0274727e13]
+### 12. Amendments to banking legislation[^c-79bf42fcf6f46923bce47c0274727e13]
 
 (1) In section 7(5) of the Dormant Bank and Building Society Accounts Act 2008[^f00015], for the definition of “credit union”, substitute—
 
@@ -210,7 +210,7 @@ Section 425B of the Act[^f00014] (consumers: regulated activities carried on by 
 
 (2) In section 2(2)(b) of the Banking Act 2009[^f00016], after “Credit Unions Act 1979”, insert “or a credit union within the meaning of Article 2(2) of the Credit Unions (Northern Ireland) Order 1985”.
 
-### 13. Amendments to the 1985 Order[^key-bda0d167364dcf1ee1f55783cb55edd1]
+### 13. Amendments to the 1985 Order[^c-bda0d167364dcf1ee1f55783cb55edd1]
 
 (1) The 1985 Order is amended as follows.
 
@@ -430,7 +430,7 @@ Section 425B of the Act[^f00014] (consumers: regulated activities carried on by 
 
 (41) Omit paragraph 2 of Schedule 4 (savings).
 
-### 14. Revocations[^key-8711349f50eb58d5803a084db8855037]
+### 14. Revocations[^c-8711349f50eb58d5803a084db8855037]
 
 The following regulations and statutory rules are revoked—
 
@@ -441,7 +441,7 @@ The following regulations and statutory rules are revoked—
 - (e) the Credit Unions (Limit on Shares) Order (Northern Ireland) 2006[^f00028];
 - (f) the Credit Unions (Deposits and Loans) Order (Northern Ireland) 2006[^f00029].
 
-### 15. Review[^key-6ed793fec57a7a6e023ca90bf9ec6fcd]
+### 15. Review[^c-6ed793fec57a7a6e023ca90bf9ec6fcd]
 
 (1) The Treasury must from time to time—
 
@@ -499,17 +499,17 @@ No separate impact assessment has been prepared for this instrument. An impact a
 
 [^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Section 427 was amended by the Enterprise Act 2002, section 278(1), Schedule 25, paragraph 40(1) and (18).
 
-[^key-fd51aa00cf264925edd3ecb74463ee49]: Commencement: Art. 1 in force at 15.12.2011, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/a)
+[^c-fd51aa00cf264925edd3ecb74463ee49]: Commencement: Art. 1 in force at 15.12.2011, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/a)
 
 [^f00002]: Footnote: [S.I. 1985/1205 (N.I. 12)](https://www.legislation.gov.uk/nisi/1985/1205).
 
 [^f00003]: Footnote: [1969 c. 24 (N.I.)](https://www.legislation.gov.uk/apni/1969/24).
 
-[^key-407ef7e3974eb1a49b08f43fe45befdb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/2832/article/2) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+[^c-407ef7e3974eb1a49b08f43fe45befdb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/2832/article/2) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
 
 [^f00004]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544); article 5 was amended by [S.I. 2002/682](https://www.legislation.gov.uk/uksi/2002/682), article 3(1).
 
-[^key-067f1a42f733a8153726a7e83e2ec608]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/2832/article/3) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+[^c-067f1a42f733a8153726a7e83e2ec608]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/2832/article/3) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
 
 [^f00005]: Footnote: See the Authority’s Handbook. When made by the Authority, new rules and guidance for credit unions will be available at http://fsahandbook.info/FSA/html/handbook/CREDS.
 
@@ -517,67 +517,67 @@ No separate impact assessment has been prepared for this instrument. An impact a
 
 [^f00007]: Footnote: The Credit Unions Sourcebook is part of the Authority’s Handbook. See http://fsahandbook.info/FSA/html/handbook/CREDS.
 
-[^key-32f47390fe40a9ad92ea7ba17245f9bf]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2011/2832/article/4) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+[^c-32f47390fe40a9ad92ea7ba17245f9bf]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2011/2832/article/4) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
 
-[^key-e2a0547b6596454bc07ad6b5c4cff925]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2011/2832/article/5) in force at 31.12.2011, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/b)
+[^c-e2a0547b6596454bc07ad6b5c4cff925]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2011/2832/article/5) in force at 31.12.2011, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/b)
 
-[^key-5c61d9ee3d75015b11b67bcb2b2ff300]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/i)
+[^c-5c61d9ee3d75015b11b67bcb2b2ff300]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/i)
 
-[^key-32ae68fe61d0890b9fef8a902af8f2a3]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/ii)
+[^c-32ae68fe61d0890b9fef8a902af8f2a3]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/ii)
 
-[^key-d81522ff272df64eaa7972f685fd98f3]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/iii)
+[^c-d81522ff272df64eaa7972f685fd98f3]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/iii)
 
-[^key-8d454eb08bf5d98511e42cd9363d1398]: Textual amendment: Words in [art. 5(4)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/aa), [(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/iv)
+[^c-8d454eb08bf5d98511e42cd9363d1398]: Textual amendment: Words in [art. 5(4)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/aa), [(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/iv)
 
-[^key-a25c7aca1fd964f0fa5263e74eaff436]: Textual amendment: Word in [art. 5(4)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/bb), [(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/iv)
+[^c-a25c7aca1fd964f0fa5263e74eaff436]: Textual amendment: Word in [art. 5(4)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/bb), [(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/iv)
 
-[^key-cc5f9cee50d3b68aad35b9ca0397d884]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(v)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/v)
+[^c-cc5f9cee50d3b68aad35b9ca0397d884]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(v)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/v)
 
-[^key-cbe0dd96f9f8b8c5029a5d5573c0819d]: Textual amendment: Word in [art. 5(6)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/aa), [(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/vi)
+[^c-cbe0dd96f9f8b8c5029a5d5573c0819d]: Textual amendment: Word in [art. 5(6)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/aa), [(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/vi)
 
-[^key-fc129fed05ed8e9b0e1fdbe0cd2ba79d]: Textual amendment: Word in [art. 5(6)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/bb), [(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/vi)
+[^c-fc129fed05ed8e9b0e1fdbe0cd2ba79d]: Textual amendment: Word in [art. 5(6)](https://www.legislation.gov.uk/uksi/2011/2832/article/5/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(a)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/bb), [(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/a/vi)
 
-[^key-19b31fff66be490c2c26cdd9d62479be]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2011/2832/article/6) in force at 31.12.2011, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/b)
+[^c-19b31fff66be490c2c26cdd9d62479be]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2011/2832/article/6) in force at 31.12.2011, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/b)
 
-[^key-2db4b4b0fa02ab38baa12de691db8dde]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2011/2832/article/6/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/b/i)
+[^c-2db4b4b0fa02ab38baa12de691db8dde]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2011/2832/article/6/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/b/i)
 
-[^key-a01a50dcdf3edbd7b8c48abe37413a8e]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2011/2832/article/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(b)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/b/iii)
+[^c-a01a50dcdf3edbd7b8c48abe37413a8e]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2011/2832/article/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(b)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/b/iii)
 
-[^key-d6b80754b4d92942653c15292ffd099c]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/uksi/2011/2832/article/6/4) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/b/ii)
+[^c-d6b80754b4d92942653c15292ffd099c]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/uksi/2011/2832/article/6/4) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/b/ii)
 
-[^key-45a8b01aedefc241a3c09356c7dacfac]: Textual amendment: Words in [art. 6(5)](https://www.legislation.gov.uk/uksi/2011/2832/article/6/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(b)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/b/iv)
+[^c-45a8b01aedefc241a3c09356c7dacfac]: Textual amendment: Words in [art. 6(5)](https://www.legislation.gov.uk/uksi/2011/2832/article/6/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(b)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/b/iv)
 
-[^key-7b9c333f6674223813f2619fd0daf415]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2011/2832/article/7) in force at 31.12.2011, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/b)
+[^c-7b9c333f6674223813f2619fd0daf415]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2011/2832/article/7) in force at 31.12.2011, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/b)
 
-[^key-1628b4c199e10e393bd2406b3d37e18c]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2011/2832/article/7) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/c)
+[^c-1628b4c199e10e393bd2406b3d37e18c]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2011/2832/article/7) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 220(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/220/c)
 
-[^key-c184e03273bcc72bb361f54075ba1dcd]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2011/2832/article/8) in force at 31.12.2011, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/b)
+[^c-c184e03273bcc72bb361f54075ba1dcd]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2011/2832/article/8) in force at 31.12.2011, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/b)
 
 [^f00009]: Footnote: Section 44(3) was substituted by the Financial Services Act 2010, section 3(1) and (2).
 
 [^f00010]: Footnote: Section 148 was amended by [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973).
 
-[^key-44c83ece5b0b8b193c29d6341b0dc570]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2011/2832/article/9) in force at 31.12.2011, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/b)
+[^c-44c83ece5b0b8b193c29d6341b0dc570]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2011/2832/article/9) in force at 31.12.2011, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/b)
 
 [^f00011]: Footnote: Section 165 was amended by the Financial Services Act 2010, section 24(1) and (2), Schedule 2, Part 1, paragraphs 1 and 15.
 
 [^f00012]: Footnote: Section 167 was amended by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
 
-[^key-8556bfe4e7c8e9e98199184dc4ebefe9]: Commencement: Art. 10 in force at 15.12.2011, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/a)
+[^c-8556bfe4e7c8e9e98199184dc4ebefe9]: Commencement: Art. 10 in force at 15.12.2011, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/a)
 
 [^f00013]: Footnote: Article 2A was inserted by the Friendly Societies Act [1992 (c.40)](https://www.legislation.gov.uk/ukpga/1992/40), section 120, Schedule 21, Part 2, paragraph 29.
 
-[^key-d3efc3898c9d8412a575201d9e542201]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2011/2832/article/11) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+[^c-d3efc3898c9d8412a575201d9e542201]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2011/2832/article/11) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
 
 [^f00014]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Sections 425A and 425B were inserted by the Financial Services Act 2010, section 24(1), (2), Schedule 2, Part 1, paragraphs 1, 32.
 
-[^key-79bf42fcf6f46923bce47c0274727e13]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2011/2832/article/12) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+[^c-79bf42fcf6f46923bce47c0274727e13]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2011/2832/article/12) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
 
 [^f00015]: Footnote: [2008 c. 31](https://www.legislation.gov.uk/ukpga/2008/31).
 
 [^f00016]: Footnote: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).
 
-[^key-bda0d167364dcf1ee1f55783cb55edd1]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2011/2832/article/13) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+[^c-bda0d167364dcf1ee1f55783cb55edd1]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2011/2832/article/13) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
 
 [^f00017]: Footnote: Article 2(2A) was inserted by [S.I. 2002/1555](https://www.legislation.gov.uk/uksi/2002/1555). There are other amendments to Article 2 not relevant to this Order.
 
@@ -593,7 +593,7 @@ No separate impact assessment has been prepared for this instrument. An impact a
 
 [^f00023]: Footnote: Article 72 was amended by the Arbitration Act [1996 (c. 23)](https://www.legislation.gov.uk/ukpga/1996/23), section 107(1), Schedule 3, paragraph 44.
 
-[^key-8711349f50eb58d5803a084db8855037]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2011/2832/article/14) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+[^c-8711349f50eb58d5803a084db8855037]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2011/2832/article/14) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
 
 [^f00024]: Footnote: [S.R. 1986 No. 130](https://www.legislation.gov.uk/nisr/1986/130).
 
@@ -607,6 +607,6 @@ No separate impact assessment has been prepared for this instrument. An impact a
 
 [^f00029]: Footnote: [S.R. 2006 No. 78](https://www.legislation.gov.uk/nisr/2006/78).
 
-[^key-6ed793fec57a7a6e023ca90bf9ec6fcd]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2011/2832/article/15) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
+[^c-6ed793fec57a7a6e023ca90bf9ec6fcd]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2011/2832/article/15) in force at 31.3.2012, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2/c)
 
 [^f00030]: Footnote: [S.I. 2011/2716](https://www.legislation.gov.uk/uksi/2011/2716).

@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Town and Country Planning (Entertainment Resort Complex, Bedford) Special Development Order 2025 (revoked)[^key-26908ad4b749cd24b095e022df374c58]
+The Town and Country Planning (Entertainment Resort Complex, Bedford) Special Development Order 2025 (revoked)[^c-26908ad4b749cd24b095e022df374c58]
 
 Made
 
@@ -46,7 +46,7 @@ Coming into force
 
 2nd January 2026
 
-[^key-26908ad4b749cd24b095e022df374c58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26908ad4b749cd24b095e022df374c58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -68,14 +68,14 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-26908ad4b749cd24b095e022df374c58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26908ad4b749cd24b095e022df374c58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-26908ad4b749cd24b095e022df374c58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-26908ad4b749cd24b095e022df374c58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-26908ad4b749cd24b095e022df374c58]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/1315) revoked (17.12.2025) by [The Town and Country Planning (Entertainment Resort Complex, Bedford) Special Development (No. 2) Order 2025 (S.I. 2025/1322)](https://www.legislation.gov.uk/uksi/2025/1322), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1322/article/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/1322/article/1/5)
+[^c-26908ad4b749cd24b095e022df374c58]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/1315) revoked (17.12.2025) by [The Town and Country Planning (Entertainment Resort Complex, Bedford) Special Development (No. 2) Order 2025 (S.I. 2025/1322)](https://www.legislation.gov.uk/uksi/2025/1322), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1322/article/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/1322/article/1/5)

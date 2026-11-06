@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 330C. Meaning of “decommissioning expenditure”[^key-da8953aef89c73a7d1e2f3bb3ba9704b]
+## 330C. Meaning of “decommissioning expenditure”[^c-da8953aef89c73a7d1e2f3bb3ba9704b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da8953aef89c73a7d1e2f3bb3ba9704b]: Textual amendment: Ss. 330A-330C inserted (with effect in accordance with Sch. 21 para. 6 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/21/paragraph/3)
+[^c-da8953aef89c73a7d1e2f3bb3ba9704b]: Textual amendment: Ss. 330A-330C inserted (with effect in accordance with Sch. 21 para. 6 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/21/paragraph/3)

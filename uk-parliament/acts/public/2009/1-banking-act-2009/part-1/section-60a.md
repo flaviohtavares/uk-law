@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Further mandatory provision: bail-in provision[^key-3feeef72322c5a6794e29cbfae238ac0]
+## 60A. Further mandatory provision: bail-in provision[^c-3feeef72322c5a6794e29cbfae238ac0]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3feeef72322c5a6794e29cbfae238ac0]: Textual amendment: Ss. 60A, 60B inserted (1.3.2014 for specified purposes, 31.12.2014 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 6(8)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/6/8); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-3feeef72322c5a6794e29cbfae238ac0]: Textual amendment: Ss. 60A, 60B inserted (1.3.2014 for specified purposes, 31.12.2014 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 6(8)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/6/8); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Pension fund annual report[^key-cf9b407479b23c030dbd0e0aae28ebdd]
+## 34. Pension fund annual report[^c-cf9b407479b23c030dbd0e0aae28ebdd]
 
 *Extent: E+W+S*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cf9b407479b23c030dbd0e0aae28ebdd]: Commencement: Reg. 34 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-cf9b407479b23c030dbd0e0aae28ebdd]: Commencement: Reg. 34 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00035]: Footnote: For “proper practices” *see* section 21 of the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26) and regulation 31 of [S.I. 2003/3146](https://www.legislation.gov.uk/uksi/2003/3146).
 

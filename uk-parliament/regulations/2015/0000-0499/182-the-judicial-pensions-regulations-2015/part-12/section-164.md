@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Provision of benefit information statements to members[^key-64d15edc742c0de5a3940dd6111e121b]
+## 164. Provision of benefit information statements to members[^c-64d15edc742c0de5a3940dd6111e121b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64d15edc742c0de5a3940dd6111e121b]: Commencement: [Reg. 164](https://www.legislation.gov.uk/uksi/2015/182/regulation/164) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-64d15edc742c0de5a3940dd6111e121b]: Commencement: [Reg. 164](https://www.legislation.gov.uk/uksi/2015/182/regulation/164) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

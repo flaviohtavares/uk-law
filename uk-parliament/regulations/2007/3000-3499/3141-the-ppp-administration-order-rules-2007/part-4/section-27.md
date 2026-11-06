@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Holders of negotiable instruments[^key-69bd52130e1a5671d2be091d70be6a02]
+## 27. Holders of negotiable instruments[^c-69bd52130e1a5671d2be091d70be6a02]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A creditor shall not vote in respect of a debt on, or secured by, a current bill
 
 ## Annotations
 
-[^key-69bd52130e1a5671d2be091d70be6a02]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2007/3141/rule/27) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-69bd52130e1a5671d2be091d70be6a02]: Commencement: [Rule 27](https://www.legislation.gov.uk/uksi/2007/3141/rule/27) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

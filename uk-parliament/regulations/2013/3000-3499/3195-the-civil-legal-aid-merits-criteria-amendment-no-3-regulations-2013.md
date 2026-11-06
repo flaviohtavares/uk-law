@@ -34,7 +34,7 @@ This Statutory Instrument has been printed in substitution of the SI of the same
 
 Legal Aid And Advice, England And Wales
 
-The Civil Legal Aid (Merits Criteria) (Amendment) (No. 3) Regulations 2013 (revoked)[^key-f0f7686d08b8512a1b678816d3328fdc]
+The Civil Legal Aid (Merits Criteria) (Amendment) (No. 3) Regulations 2013 (revoked)[^c-f0f7686d08b8512a1b678816d3328fdc]
 
 Approved by both Houses of Parliament
 
@@ -50,22 +50,22 @@ Coming into force
 
 1st January 2014
 
-[^key-f0f7686d08b8512a1b678816d3328fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0f7686d08b8512a1b678816d3328fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f0f7686d08b8512a1b678816d3328fdc]
+## 1. Citation and commencement[^c-f0f7686d08b8512a1b678816d3328fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Civil Legal Aid (Merits Criteria) Regulations 2013[^key-f0f7686d08b8512a1b678816d3328fdc]
+## 2. Amendment of the Civil Legal Aid (Merits Criteria) Regulations 2013[^c-f0f7686d08b8512a1b678816d3328fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0f7686d08b8512a1b678816d3328fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0f7686d08b8512a1b678816d3328fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f0f7686d08b8512a1b678816d3328fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0f7686d08b8512a1b678816d3328fdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0f7686d08b8512a1b678816d3328fdc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/3195) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-f0f7686d08b8512a1b678816d3328fdc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/3195) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)

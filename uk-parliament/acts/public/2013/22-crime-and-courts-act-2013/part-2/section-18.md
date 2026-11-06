@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Youth courts to have jurisdiction to grant gang-related injunctions[^key-d77241e1db95ac542e46b1acfd811f8b]
+## 18. Youth courts to have jurisdiction to grant gang-related injunctions[^c-d77241e1db95ac542e46b1acfd811f8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d77241e1db95ac542e46b1acfd811f8b]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2013/22/section/18) in force at 1.6.2015 by [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/813/article/3/a)
+[^c-d77241e1db95ac542e46b1acfd811f8b]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2013/22/section/18) in force at 1.6.2015 by [S.I. 2015/813](https://www.legislation.gov.uk/uksi/2015/813), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/813/article/3/a)

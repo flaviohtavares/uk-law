@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Local authorities to assess bodies of water[^key-f1ffd2046a734d11da595d1791e7cf78]
+## 18. Local authorities to assess bodies of water[^c-f1ffd2046a734d11da595d1791e7cf78]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1ffd2046a734d11da595d1791e7cf78]: Commencement: S. 18 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-f1ffd2046a734d11da595d1791e7cf78]: Commencement: S. 18 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

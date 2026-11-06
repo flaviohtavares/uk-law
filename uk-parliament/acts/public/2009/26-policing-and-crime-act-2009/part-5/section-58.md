@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Power to sell seized personal property: England and Wales[^key-c406f89ea314a606c5886b8850ac8600]
+## 58. Power to sell seized personal property: England and Wales[^c-c406f89ea314a606c5886b8850ac8600]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,4 +112,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c406f89ea314a606c5886b8850ac8600]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2009/26/section/58) in force at 1.6.2015 by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-c406f89ea314a606c5886b8850ac8600]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2009/26/section/58) in force at 1.6.2015 by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)

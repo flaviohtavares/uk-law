@@ -30,7 +30,7 @@ summary: ''
 
 FINANCIAL SERVICES
 
-Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations (Northern Ireland) 1997 (revoked)[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+Open-Ended Investment Companies (Investment Companies with Variable Capital) Regulations (Northern Ireland) 1997 (revoked)[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 Made
 
@@ -40,11 +40,11 @@ Coming into operation
 
 7th July 1997
 
-[^key-be67a84e1c11d0fcbb3d21f09c403e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be67a84e1c11d0fcbb3d21f09c403e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Part I — General[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+### Part I — General[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -53,13 +53,13 @@ Coming into operation
 - [Section 1 — Citation, commencement and extent](part-i/section-1.md)
 - [Section 2 — Interpretation](part-i/section-2.md)
 
-### Part II — Formation Supervision and Control[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+### Part II — Formation Supervision and Control[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### General[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+#### General[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -70,7 +70,7 @@ Coming into operation
 - [Section 5 — Safekeeping of scheme property by depositary](part-ii/section-5.md)
 - [Section 6 — SIB regulations](part-ii/section-6.md)
 
-#### Authorisation[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+#### Authorisation[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -83,7 +83,7 @@ Coming into operation
 - [Section 11 — Representations against refusal of authorisation](part-ii/section-11.md)
 - [Section 12 — UCITS certificate](part-ii/section-12.md)
 
-#### Registrar’s approval of names[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+#### Registrar’s approval of names[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -92,7 +92,7 @@ Coming into operation
 - [Section 13 — Registrar’s approval of names](part-ii/section-13.md)
 - [Section 14 — Prohibition on certain names](part-ii/section-14.md)
 
-#### Alterations[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+#### Alterations[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -100,7 +100,7 @@ Coming into operation
 
 - [Section 15 — SIB approval for certain changes in respect of company](part-ii/section-15.md)
 
-#### Intervention[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+#### Intervention[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -112,7 +112,7 @@ Coming into operation
 - [Section 19 — Notice of directions](part-ii/section-19.md)
 - [Section 20 — Application to the court](part-ii/section-20.md)
 
-#### Investigations[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+#### Investigations[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -123,7 +123,7 @@ Coming into operation
 - [Section 23 — Investigations: disclosure](part-ii/section-23.md)
 - [Section 24 — Investigations: supplementary](part-ii/section-24.md)
 
-#### Winding up[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+#### Winding up[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -133,7 +133,7 @@ Coming into operation
 - [Section 26 — Dissolution on winding up by the court](part-ii/section-26.md)
 - [Section 27 — Dissolution in other circumstances](part-ii/section-27.md)
 
-### Part III — Corporate Code[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+### Part III — Corporate Code[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -151,7 +151,7 @@ Coming into operation
 - [Section 37 — Events affecting company status](part-iii/section-37.md)
 - [Section 38 — Invalidity of certain transactions involving directors](part-iii/section-38.md)
 
-### Shares[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+### Shares[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -166,7 +166,7 @@ Coming into operation
 - [Section 45 — Power of court to rectify register](section-45.md)
 - [Section 46 — Share transfers](section-46.md)
 
-### Operation[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+### Operation[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -186,7 +186,7 @@ Coming into operation
 - [Section 58 — Punishment for fraudulent trading](section-58.md)
 - [Section 59 — Power to provide for employees on cessation or transfer of business](section-59.md)
 
-### Reports[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+### Reports[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -197,7 +197,7 @@ Coming into operation
 - [Section 62 — Reports: voluntary revision](section-62.md)
 - [Section 63 — Auditors](section-63.md)
 
-### Mergers and divisions[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+### Mergers and divisions[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -205,7 +205,7 @@ Coming into operation
 
 - [Section 64 — Mergers and divisions](section-64.md)
 
-### Part IV — Miscellaneous[^key-be67a84e1c11d0fcbb3d21f09c403e05]
+### Part IV — Miscellaneous[^c-be67a84e1c11d0fcbb3d21f09c403e05]
 
 *Extent: N.I.*
 
@@ -236,14 +236,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-be67a84e1c11d0fcbb3d21f09c403e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be67a84e1c11d0fcbb3d21f09c403e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-be67a84e1c11d0fcbb3d21f09c403e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be67a84e1c11d0fcbb3d21f09c403e05]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be67a84e1c11d0fcbb3d21f09c403e05]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/251) revoked (1.11.2004) by [Open-Ended Investment Companies Regulations (Northern Ireland) 2004 (S.R. 2004/335)](https://www.legislation.gov.uk/nisr/2004/335), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b), [84(1)](https://www.legislation.gov.uk/nisr/2004/335/regulation/84/1) (with [reg. 84(2)(3)](https://www.legislation.gov.uk/nisr/2004/335/regulation/84/2))
+[^c-be67a84e1c11d0fcbb3d21f09c403e05]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/251) revoked (1.11.2004) by [Open-Ended Investment Companies Regulations (Northern Ireland) 2004 (S.R. 2004/335)](https://www.legislation.gov.uk/nisr/2004/335), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b), [84(1)](https://www.legislation.gov.uk/nisr/2004/335/regulation/84/1) (with [reg. 84(2)(3)](https://www.legislation.gov.uk/nisr/2004/335/regulation/84/2))

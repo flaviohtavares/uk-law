@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21A. Assessment period cycle to remain the same following change in the first date of entitlement[^key-4de202e0f1175a52979d685247a47a3e]
+## 21A. Assessment period cycle to remain the same following change in the first date of entitlement[^c-4de202e0f1175a52979d685247a47a3e]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4de202e0f1175a52979d685247a47a3e]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2013/376/regulation/21A) inserted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [3(6)](https://www.legislation.gov.uk/uksi/2018/65/regulation/3/6) (with [reg. 8(1)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/1))
+[^c-4de202e0f1175a52979d685247a47a3e]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2013/376/regulation/21A) inserted (11.4.2018) by [The Universal Credit (Miscellaneous Amendments, Saving and Transitional Provision) Regulations 2018 (S.I. 2018/65)](https://www.legislation.gov.uk/uksi/2018/65), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2018/65/regulation/1/4), [3(6)](https://www.legislation.gov.uk/uksi/2018/65/regulation/3/6) (with [reg. 8(1)](https://www.legislation.gov.uk/uksi/2018/65/regulation/8/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Bodies corporate etc.[^key-600ab478cafc22bc9ef2c77b3a02f803]
+## 56. Bodies corporate etc.[^c-600ab478cafc22bc9ef2c77b3a02f803]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ that person, as well as the unincorporated association, is guilty of the offence
 
 ## Annotations
 
-[^key-600ab478cafc22bc9ef2c77b3a02f803]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2006/4/section/56) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-600ab478cafc22bc9ef2c77b3a02f803]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2006/4/section/56) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

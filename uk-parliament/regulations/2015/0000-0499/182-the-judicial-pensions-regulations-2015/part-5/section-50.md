@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Establishment of partial retirement account[^key-3fc4bbf034951bbefdb6d016455d93bd]
+## 50. Establishment of partial retirement account[^c-3fc4bbf034951bbefdb6d016455d93bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fc4bbf034951bbefdb6d016455d93bd]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2015/182/regulation/50) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-3fc4bbf034951bbefdb6d016455d93bd]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2015/182/regulation/50) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

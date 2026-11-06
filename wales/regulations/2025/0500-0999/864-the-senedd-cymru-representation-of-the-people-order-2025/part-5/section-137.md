@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Senedd constituencies not wholly within a county or county borough[^key-92472e199109cc507d7d952fb119b850]
+## 137. Senedd constituencies not wholly within a county or county borough[^c-92472e199109cc507d7d952fb119b850]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ to ensure they are in a form similar to those used elsewhere in the constituency
 
 ## Annotations
 
-[^key-92472e199109cc507d7d952fb119b850]: Commencement: Art. 137 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-92472e199109cc507d7d952fb119b850]: Commencement: Art. 137 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

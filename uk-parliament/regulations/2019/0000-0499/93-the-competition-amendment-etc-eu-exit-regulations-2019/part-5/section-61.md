@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61.[^key-3c1f7ee2ded4cae53f95a2bababc5962]
+## 61.[^c-3c1f7ee2ded4cae53f95a2bababc5962]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 (which amends subordinate legislation) has effect.
 
 ## Annotations
 
-[^key-3c1f7ee2ded4cae53f95a2bababc5962]: Commencement: Reg. 61 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-3c1f7ee2ded4cae53f95a2bababc5962]: Commencement: Reg. 61 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)

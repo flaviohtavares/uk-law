@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Interpretation[^key-49c214f6d31f38e818709131a5ba59a6]
+## 60. Interpretation[^c-49c214f6d31f38e818709131a5ba59a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49c214f6d31f38e818709131a5ba59a6]: Commencement: S. 60 in force at 18.9.2023, see [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/1/a)
+[^c-49c214f6d31f38e818709131a5ba59a6]: Commencement: S. 60 in force at 18.9.2023, see [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/1/a)

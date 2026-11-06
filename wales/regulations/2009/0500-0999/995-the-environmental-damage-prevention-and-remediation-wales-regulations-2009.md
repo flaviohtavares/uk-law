@@ -58,12 +58,12 @@ The Regulations make provision for a purpose mentioned in section 2(2) of, and p
 (1) In these Regulations—
 
 - “**activity**” (“**gweithgaredd**”) means any economic activity, whether public or private and whether or not carried out for profit;
-- “baseline” (“[^key-a89c97ce186e27828facd91c057a4b74]*gwaelodlin*”) means the baselines from which the breadth of the territorial sea is measured for the purposes of the Territorial Sea Act 1987;
+- “baseline” (“[^c-a89c97ce186e27828facd91c057a4b74]*gwaelodlin*”) means the baselines from which the breadth of the territorial sea is measured for the purposes of the Territorial Sea Act 1987;
 - “**groundwater**” (“**dŵ r daear**”) means all water that is below the surface of the ground in the saturation zone and in direct contact with the ground or subsoil;
 - “**local authority**” (“**awdurdod lleol**”) means a county council or a county borough council;
 - “marine waters” (“dyfroedd morol”) means waters classified as marine waters pursuant to Directive [2008/56/EC](https://www.legislation.gov.uk/european/directive/2008/0056) of the European Parliament and of the Council establishing a framework for Community action in the field of marine environmental policy;
 - “natural habitat” (“*cynefin naturiol*”) means—
-  - (a) the habitats of species mentioned in Article 4(2) of, or Annex I to, Council Directive[^key-f0fe5bf7f231d07388e716e82b4d7833] [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) on the conservation of wild birds or listed in Annex II to Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora;
+  - (a) the habitats of species mentioned in Article 4(2) of, or Annex I to, Council Directive[^c-f0fe5bf7f231d07388e716e82b4d7833] [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) on the conservation of wild birds or listed in Annex II to Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora;
   - (b) the natural habitats listed in Annex I to Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043); and
   - (c) the breeding sites or resting places of the species listed in Annex IV to Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043);
 - “**natural resource**” (“**adnoddyn naturiol**”) means—
@@ -73,7 +73,7 @@ The Regulations make provision for a purpose mentioned in section 2(2) of, and p
   - (d) water; and
   - (e) land;
 - “**operator**” (“**gweithredwr**”) means a person who operates or controls an activity, the holder of a permit or authorisation relating to that activity or the person registering or notifying such an activity;
-- “protected species” (“ rhywogaethau a warchodir ”) means a species of a kind mentioned in Article 4(2) of Council Directive[^key-ee2e5c757e459abdf9624adbee7db4be] [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) or listed in Annex I to that Directive or Annexes II and IV to Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043);
+- “protected species” (“ rhywogaethau a warchodir ”) means a species of a kind mentioned in Article 4(2) of Council Directive[^c-ee2e5c757e459abdf9624adbee7db4be] [2009/147/EC](https://www.legislation.gov.uk/european/directive/2009/0147) or listed in Annex I to that Directive or Annexes II and IV to Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043);
 - “**services**” (“**gwasanaethau**”) means the functions performed by a natural resource for the benefit of another natural resource or the public;
 - “**Wales**” (“**Cymru**”) has the meaning given under section 158 of the Government of Wales Act 2006 [^c1967057].
 
@@ -81,11 +81,11 @@ The Regulations make provision for a purpose mentioned in section 2(2) of, and p
 
 (3) In relation to the deliberate release and placing on the market of genetically modified organisms, “**operator**” (“**gweithredwr**”) and “**responsible operator**” (“**gweithredwr cyfrifol**”) includes—
 
-- (a) the holder of a relevant consent issued under Directive [2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018) of the European Parliament and of the Council on the deliberate release into the environment of genetically modified organisms , or under[^key-edb57765433fc2fa65fe3dfc8ce255ea] assimilated[^key-45f3efa2435aa3fb51fc88229c01390c] law which transposed [Directive 2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018) in relation to Wales;
+- (a) the holder of a relevant consent issued under Directive [2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018) of the European Parliament and of the Council on the deliberate release into the environment of genetically modified organisms , or under[^c-edb57765433fc2fa65fe3dfc8ce255ea] assimilated[^c-45f3efa2435aa3fb51fc88229c01390c] law which transposed [Directive 2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018) in relation to Wales;
 - (b) the holder of a relevant consent for the deliberate release of genetically modified organisms granted by the Welsh Ministers under section 111(1) of the Environmental Protection Act 1990 [^c1967060]; or
 - (c) the holder of a relevant authorisation issued under Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/european/regulation/2003/1829) of the European Parliament and of the Council on genetically modified food and feed [^c1967061].
 
-### 3. References to EU instruments[^key-8e89cfa099bbad276319a33ca1055e80][^M_F_eb831479-74f5-4ce7-db0d-03cebafc2a57]
+### 3. References to EU instruments[^c-8e89cfa099bbad276319a33ca1055e80][^M_F_eb831479-74f5-4ce7-db0d-03cebafc2a57]
 
 (1) References in these Regulations to EU instruments are to those instruments as they had effect immediately before exit day.
 
@@ -101,9 +101,9 @@ in any EU instrument referred to in these Regulations includes the United Kingdo
 (1) These Regulations apply in relation to the prevention and remediation of environmental damage; and “**environmental damage**” (“**difrod amgylcheddol**”) is damage to—
 
 - (a) protected species or natural habitats, or a site of special scientific interest,
-- (b) surface water or groundwater, [^key-8c632f5974b0c3a1d1205f514b51dcac]...
-- (c)[^key-c17bf72c4e8615efce08fd9ba0727f8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-365f685adbd4c9b42f054c3bd2b7f425] marine waters, or
+- (b) surface water or groundwater, [^c-8c632f5974b0c3a1d1205f514b51dcac]...
+- (c)[^c-c17bf72c4e8615efce08fd9ba0727f8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-365f685adbd4c9b42f054c3bd2b7f425] marine waters, or
 - (d) land,
 
 as specified in this regulation.
@@ -120,9 +120,9 @@ changes sufficiently to lower the status of the water body in accordance with Di
 
 (4) Environmental damage to groundwater means any damage to a body of groundwater such that its conductivity, level or concentration of pollutants changes sufficiently to lower its status pursuant to Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council (and for pollutants Directive [2006/118/EC](https://www.legislation.gov.uk/european/directive/2006/0118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration [^c1967063]) (whether or not the body of groundwater is in fact reclassified as being of lower status).
 
-(5)[^key-f0f25246dbe57b89a3d1b749493d9b72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f0f25246dbe57b89a3d1b749493d9b72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-9f841abb2c78efefa7a80f4ffd4377b4] Environmental damage to marine waters means damage to marine waters such that their environmental status is significantly adversely affected.
+(5)[^c-9f841abb2c78efefa7a80f4ffd4377b4] Environmental damage to marine waters means damage to marine waters such that their environmental status is significantly adversely affected.
 
 (6) Environmental damage to land means contamination of land by substances, preparations, organisms or micro-organisms that results in a significant risk of adverse effects on human health.
 
@@ -142,12 +142,12 @@ changes sufficiently to lower the status of the water body in accordance with Di
 | Type of damage | Area in which these Regulations apply |
 | --- | --- |
 | Damage to water | Wales and all water up to one nautical mile seaward from the baseline in Wales |
-| Damage to marine waters[^key-6f805c832890cc31c497bfe93d23635d] | All marine waters within any of the following descriptions—[^key-0056d83eb286e09ad90e94cf45f51772]<br>- (a) marine waters up to one nautical mile seaward from the baseline in Wales so far as not already addressed as damage to water;<br>- (b) marine waters from one nautical mile seaward from the baseline in Wales, extending out to 12 nautical miles from the baseline in Wales |
+| Damage to marine waters[^c-6f805c832890cc31c497bfe93d23635d] | All marine waters within any of the following descriptions—[^c-0056d83eb286e09ad90e94cf45f51772]<br>- (a) marine waters up to one nautical mile seaward from the baseline in Wales so far as not already addressed as damage to water;<br>- (b) marine waters from one nautical mile seaward from the baseline in Wales, extending out to 12 nautical miles from the baseline in Wales |
 | Damage in a site of special scientific interest | Wales |
 | Damage to protected species or natural habitats | Wales |
 | Damage to land | Wales |
 
-(2)[^key-77b1c1f43b30bb963f0cc343544cd850] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-77b1c1f43b30bb963f0cc343544cd850] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 7. Other legislation
 
@@ -163,7 +163,7 @@ changes sufficiently to lower the status of the water body in accordance with Di
 - (b) damage that takes place after that date, or is threatened after that date, but is caused by an incident, event or emission that took place before that date; or
 - (c) damage caused by an incident, event or emission that takes place after that date if it derives from an activity that took place and finished before that date.
 
-(1A)[^key-97d98fcdd393e4a24b6539b8f39f4c9b] Paragraph (1) applies in relation to damage to marine waters as if, in sub-paragraph (a), for “the coming into force of these Regulations” there were substituted “19 July 2015”.
+(1A)[^c-97d98fcdd393e4a24b6539b8f39f4c9b] Paragraph (1) applies in relation to damage to marine waters as if, in sub-paragraph (a), for “the coming into force of these Regulations” there were substituted “19 July 2015”.
 
 (2) They do not apply in relation to environmental damage caused by—
 
@@ -197,31 +197,31 @@ if all the conditions in paragraph (2) are fulfilled.
 - (c) the reasons for those modifications or alterations are of overriding public interest, or the result of the damage is outweighed by the benefits of the new modifications or alterations to human health, to the maintenance of human safety or to sustainable development; and
 - (d) the beneficial objectives served by those modifications or alterations of the water body cannot for reasons of technical feasibility or disproportionate cost be achieved by other means.
 
-### 10. Enforcing authorities under the Environmental Permitting (England and Wales) Regulations 2016[^M_F_0320f470-1e9e-47c5-effe-6144af1cf4dd][^key-2f30c22d8f8f8c9a30b017c57a053355]
+### 10. Enforcing authorities under the Environmental Permitting (England and Wales) Regulations 2016[^M_F_0320f470-1e9e-47c5-effe-6144af1cf4dd][^c-2f30c22d8f8f8c9a30b017c57a053355]
 
-(1) These Regulations are enforced in accordance with this regulation if the damage is caused by an activity[^key-535d5185f8ad6f6363256dcc2d54966c] that requires a permit or registration under the Environmental Permitting (England and Wales) Regulations 2016[^key-ff8bfe7a6573401a293409006cd4f5a2].
+(1) These Regulations are enforced in accordance with this regulation if the damage is caused by an activity[^c-535d5185f8ad6f6363256dcc2d54966c] that requires a permit or registration under the Environmental Permitting (England and Wales) Regulations 2016[^c-ff8bfe7a6573401a293409006cd4f5a2].
 
-(2) If either the Natural Resources Body for Wales or[^key-457d7b438e52ca7f20ed6eb0ed56763f] the Environment Agency is responsible for granting the permit, they are enforced by the Natural Resources Body for Wales[^key-4401cc834dc9cdd7289827d3a7908193] in all cases.
+(2) If either the Natural Resources Body for Wales or[^c-457d7b438e52ca7f20ed6eb0ed56763f] the Environment Agency is responsible for granting the permit, they are enforced by the Natural Resources Body for Wales[^c-4401cc834dc9cdd7289827d3a7908193] in all cases.
 
 (3) If the local authority is responsible for granting the permit—
 
 - (a) Part 2 is enforced by the local authority;
 - (b) Part 3 is enforced by—
   - (i) the local authority if the damage is to land;
-  - (ii) the Natural Resources Body for Wales[^key-3a7dbfcb9d801ede5bf21b782cf60fba] if the damage is to water;
-  - (iii)[^key-ee597bddcb69bc77a6478a976fdf70cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iii)[^key-95eb9c7351f335eb3d868eac6724d99d] the Welsh Ministers, if the damage is to marine waters; and
+  - (ii) the Natural Resources Body for Wales[^c-3a7dbfcb9d801ede5bf21b782cf60fba] if the damage is to water;
+  - (iii)[^c-ee597bddcb69bc77a6478a976fdf70cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-95eb9c7351f335eb3d868eac6724d99d] the Welsh Ministers, if the damage is to marine waters; and
   - (iv) the Natural Resources Body for Wales, if the damage is to natural habitats or protected species or a site of special scientific interest.
 
 ### 11. Enforcing authorities in other cases
 
-(1) If the damage is caused by an activity that does not require a permit or registration under the Environmental Permitting (England and Wales) Regulations 2016[^key-57f5d953b48c9b8743c68782f24ecebb] these Regulations are enforced in accordance with the following table.
+(1) If the damage is caused by an activity that does not require a permit or registration under the Environmental Permitting (England and Wales) Regulations 2016[^c-57f5d953b48c9b8743c68782f24ecebb] these Regulations are enforced in accordance with the following table.
 
 | *Type of environmental damage* | *Area of damage* | *Enforcing authority* |
 | --- | --- | --- |
-| Damage to water— |  | Natural Resources Body for Wales[^key-1cb082e59f3e2a203a4af69ace3ae98e] |
-| Damage to marine waters—[^key-3389bee17f4b80309ddc387b828c97d5] | All marine waters out to 12 nautical miles from the baseline in Wales[^key-2aead82ab5a7d75b7514ef9d75e98a40] | the Welsh Ministers[^key-8c5c1f9ab5000105d91f4dadad835b69] |
-| Damage to protected species or natural habitats or a site of special scientific interest— | land | Natural Resources Body for Wales[^key-506501925f37d0bbc052485073ca56de] |
+| Damage to water— |  | Natural Resources Body for Wales[^c-1cb082e59f3e2a203a4af69ace3ae98e] |
+| Damage to marine waters—[^c-3389bee17f4b80309ddc387b828c97d5] | All marine waters out to 12 nautical miles from the baseline in Wales[^c-2aead82ab5a7d75b7514ef9d75e98a40] | the Welsh Ministers[^c-8c5c1f9ab5000105d91f4dadad835b69] |
+| Damage to protected species or natural habitats or a site of special scientific interest— | land | Natural Resources Body for Wales[^c-506501925f37d0bbc052485073ca56de] |
 |  | water but not in the sea<sup>(1)</sup> | Natural Resources Body for Wales |
 |  | the sea | — if the damage is due to an activity authorised by the Natural Resources Body for Wales, the Natural Resources Body for Wales; |
 |  |  | — otherwise the Welsh Ministers |
@@ -306,7 +306,7 @@ Where damage has been caused, and there are reasonable grounds for believing tha
 
 (2) The enforcing authority may withdraw or vary the notification if it is satisfied that the notification should not have been served or that an appeal against the notification is likely to succeed.
 
-### 18A. Reporting by enforcing authorities[^key-34e7b4bfa361aa6d365f2b2f26c6cc9f]
+### 18A. Reporting by enforcing authorities[^c-34e7b4bfa361aa6d365f2b2f26c6cc9f]
 
 (1) Where an enforcing authority has served a responsible operator with notification under regulation 18(1) after the coming into force of this regulation, the enforcing authority must, as soon as reasonably practicable, notify the Welsh Ministers of the relevant environmental damage.
 
@@ -341,7 +341,7 @@ Where damage has been caused, and there are reasonable grounds for believing tha
 
 ### 20. Remediation notices
 
-(A1)[^key-f7fcdc330df5891eb3c2e192e428813c] Where a responsible operator has received a notice from the enforcing authority under regulation 18, it must without delay identify potential remedial measures in accordance with Schedule 4 and submit them in writing to the enforcing authority for its approval.
+(A1)[^c-f7fcdc330df5891eb3c2e192e428813c] Where a responsible operator has received a notice from the enforcing authority under regulation 18, it must without delay identify potential remedial measures in accordance with Schedule 4 and submit them in writing to the enforcing authority for its approval.
 
 (1) Once it receives the proposals from the responsible operator (or, if a proposal is not received within the specified time limit, at any time after the time limit has expired), the enforcing authority must, so far as is practicable, consult—
 
@@ -496,7 +496,7 @@ may notify the appropriate enforcing authority of any environmental damage which
 
 (1) Enforcing authorities may authorise persons for the purposes of enforcing these Regulations.
 
-(2) The powers in section 108 of the Environment Act 1995 [^c1967070] apply in relation to these Regulations, and the powers of persons authorised by the Natural Resources Body for Wales[^key-73d11845cf09bc96b71321bdfad0d01f] in that section are exercisable by persons authorised by any enforcing authority.
+(2) The powers in section 108 of the Environment Act 1995 [^c1967070] apply in relation to these Regulations, and the powers of persons authorised by the Natural Resources Body for Wales[^c-73d11845cf09bc96b71321bdfad0d01f] in that section are exercisable by persons authorised by any enforcing authority.
 
 (3) Those powers are extended to all areas to which these Regulations apply.
 
@@ -556,7 +556,7 @@ Regulation 4
 - (b) the services provided by the amenities they produce;
 - (c) their capacity for natural regeneration;
 - (d) the number of individuals, their density or the area covered;
-- (e) the role of the particular individuals or of the damaged area in relation to the species or to the habitat conservation and the rarity of the species or habitat assessed at the relevant level whether local, regional , national or in their natural range[^key-b77e9457cf61a5f554839cb51c817dcc];
+- (e) the role of the particular individuals or of the damaged area in relation to the species or to the habitat conservation and the rarity of the species or habitat assessed at the relevant level whether local, regional , national or in their natural range[^c-b77e9457cf61a5f554839cb51c817dcc];
 - (f) the capacity of the species for propagation, its viability or the capacity of the habitat for natural regeneration; and
 - (g) the capacity of the species or habitat to recover within a short time of the damage being caused to a condition that leads to its state at the time of the damage or better without any intervention other than increased protection measures.
 
@@ -589,7 +589,7 @@ Regulation 4
 
 (2) The damage must have an adverse effect on the integrity of the site (that is, the coherence of its ecological structure and function, across its whole area, that enables it to sustain the habitat, complex of habitats or the levels of populations of the species affected).
 
-### 5. Express authorisation[^key-07993d12f8cf8b1e7673ccb7c3f54f83]
+### 5. Express authorisation[^c-07993d12f8cf8b1e7673ccb7c3f54f83]
 
 (1) Damage to a protected species or natural habitat and damage to a site of special scientific interest does not include damage caused by an act expressly authorised by the relevant authorities in accordance with—
 
@@ -611,17 +611,17 @@ Regulation 5
 
 This Schedule lists the activities for which there is liability under regulation 5(1).
 
-**1A.**[^key-32735afeb4aaed50785d867116ca7a70] A reference in this Schedule to an activity being authorised, prohibited, operated or managed pursuant to, or subject to, a permit or registration under an EU Directive includes, after exit day, any activity authorised, prohibited, operated or managed pursuant to, or subject to, a permit or registration under any assimilated[^M_F_6cc67690-8ef0-4696-c1e3-74038fe224b8] law which transposed that Directive.
+**1A.**[^c-32735afeb4aaed50785d867116ca7a70] A reference in this Schedule to an activity being authorised, prohibited, operated or managed pursuant to, or subject to, a permit or registration under an EU Directive includes, after exit day, any activity authorised, prohibited, operated or managed pursuant to, or subject to, a permit or registration under any assimilated[^M_F_6cc67690-8ef0-4696-c1e3-74038fe224b8] law which transposed that Directive.
 
-### 2. Operation of permitted installations[^key-05646a48b92aedcca8b0ef71973ba3fc]
+### 2. Operation of permitted installations[^c-05646a48b92aedcca8b0ef71973ba3fc]
 
 The operation of installations subject to permit in pursuance of Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control).
 
 ### 3. Waste management operations
 
-(1) Waste management operations, including the collection, transport, recovery and disposal of waste and hazardous waste, including the supervision of such operations and after—care of disposal sites, subject to permit or registration in pursuance of Directive[^key-6a352245143383bf9dcc3cd6d2664ed5] [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste.
+(1) Waste management operations, including the collection, transport, recovery and disposal of waste and hazardous waste, including the supervision of such operations and after—care of disposal sites, subject to permit or registration in pursuance of Directive[^c-6a352245143383bf9dcc3cd6d2664ed5] [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste.
 
-(2) The operation of landfill sites under Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) on the landfill of waste [^c1967078] and the operation of incineration plants under Directive 2010/75/[^key-ef589eff7857c1337ee6751a38f7b7d9]EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control).
+(2) The operation of landfill sites under Council Directive [1999/31/EC](https://www.legislation.gov.uk/eudr/1999/31) on the landfill of waste [^c1967078] and the operation of incineration plants under Directive 2010/75/[^c-ef589eff7857c1337ee6751a38f7b7d9]EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control).
 
 (3) This does not include the spreading of sewage sludge from urban waste water treatment plants, treated to an approved standard, for agricultural purposes.
 
@@ -633,7 +633,7 @@ The management of extractive waste under Directive [2006/21/EC](https://www.legi
 
 (1) All discharges into the inland surface water that require prior authorisation in pursuance of Directive [2006/11/EC](https://www.legislation.gov.uk/eudr/2006/11) of the European Parliament and of the Council on pollution caused by certain dangerous substances discharged into the aquatic environment of the Community [^c1967081].
 
-(2) All discharges of substances into groundwater that require prior authorisation in pursuance of Council Directive [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68) on the protection of groundwater against pollution caused by certain dangerous substances [^c1967082] or Directive[^key-0aaf8f0a85ba6aba8d9a4fdfd7385e5d] [2006/118/EC](https://www.legislation.gov.uk/eudr/2006/118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration.
+(2) All discharges of substances into groundwater that require prior authorisation in pursuance of Council Directive [80/68/EEC](https://www.legislation.gov.uk/eudr/1980/68) on the protection of groundwater against pollution caused by certain dangerous substances [^c1967082] or Directive[^c-0aaf8f0a85ba6aba8d9a4fdfd7385e5d] [2006/118/EC](https://www.legislation.gov.uk/eudr/2006/118) of the European Parliament and of the Council on the protection of groundwater against pollution and deterioration.
 
 (3) All discharges or injections of pollutants into surface water or groundwater that require a permit, authorisation or registration under Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council of establishing a framework for Community action in the field of water policy [^c1967083].
 
@@ -647,11 +647,11 @@ Manufacture, use, storage, processing, filling, release into the environment and
 
 - (a) dangerous substances as defined in Article 2(2) of Council Directive [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) on the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous substances [^c1967084];
 - (b) dangerous preparations as defined in Article 2(2) of Directive [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) of the European Parliament and of the Council concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations [^c1967085];
-- (ba)[^key-55dc1b69e2651c011a60a3a3c03c596f] hazardous substances as defined in Article 3 of Regulation [(EC) No. 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures;
-- (c) plant protection products which has the same meaning as in Article 2(1) of Regulation[^key-aa9002d227f4294bcf6bb478abfc53a9] [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/eudr/1979/117) and [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414); and
-- (d) biocidal products as defined in Article 2(1)(a) of Directive [98/8/EC](https://www.legislation.gov.uk/eudr/1998/8) of the European Parliament and of the Council concerning the placing of biocidal products on the market [^c1967087] or as defined in Article 3(1)(a) of Regulation[^key-b8311ec50f8ac75477e37489a618d7c1] No. 528/2012 of the European Parliament and of the Council concerning the making available on the market and use of biocidal products.
+- (ba)[^c-55dc1b69e2651c011a60a3a3c03c596f] hazardous substances as defined in Article 3 of Regulation [(EC) No. 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures;
+- (c) plant protection products which has the same meaning as in Article 2(1) of Regulation[^c-aa9002d227f4294bcf6bb478abfc53a9] [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/eudr/1979/117) and [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414); and
+- (d) biocidal products as defined in Article 2(1)(a) of Directive [98/8/EC](https://www.legislation.gov.uk/eudr/1998/8) of the European Parliament and of the Council concerning the placing of biocidal products on the market [^c1967087] or as defined in Article 3(1)(a) of Regulation[^c-b8311ec50f8ac75477e37489a618d7c1] No. 528/2012 of the European Parliament and of the Council concerning the making available on the market and use of biocidal products.
 
-### 8. Transport[^key-cb02678899438bc2b10741cbb746d13c]
+### 8. Transport[^c-cb02678899438bc2b10741cbb746d13c]
 
 Transport by road, rail, inland waterways, sea or air of dangerous goods; or polluting goods as defined in—
 
@@ -666,9 +666,9 @@ Transport by road, rail, inland waterways, sea or air of dangerous goods; or pol
 
 ### 10. Transboundary shipment of waste
 
-Transboundary shipment of waste within, into or out of the European Union, or after exit day into or out of the United Kingdom, requiring an authorisation or prohibited under Regulation[^key-8bd1edfebdc66955f343c23f070f3a52] [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013) of the European Parliament and of the Council on shipments of waste..
+Transboundary shipment of waste within, into or out of the European Union, or after exit day into or out of the United Kingdom, requiring an authorisation or prohibited under Regulation[^c-8bd1edfebdc66955f343c23f070f3a52] [(EC) No 1013/2006](https://www.legislation.gov.uk/european/regulation/2006/1013) of the European Parliament and of the Council on shipments of waste..
 
-### 11. Operation of carbon dioxide storage sites[^key-2ca14a5889d213fbdf40270b5a8010ac]
+### 11. Operation of carbon dioxide storage sites[^c-2ca14a5889d213fbdf40270b5a8010ac]
 
 The operation of storage sites pursuant to Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) of the European Parliament and of the Council on the geological storage of carbon dioxide.
 
@@ -678,12 +678,12 @@ Regulation 19
 
 **1.** The following are permits for the purposes of regulation 19(3) in so far as they relate to an activity in Schedule 2—
 
-- (a) a permit granted under the Environmental Permitting (England and Wales) Regulations 2016[^key-bb28b964f0c1233e4724e6482fe0a7ba] or a registration under those Regulations;
-- (b)[^key-faf24aa8a337a061b63bbbeef310bd36] a marine licence granted under Part 4 of the Marine and Coastal Access Act 2009;
-- (c) [^key-cfdd20aab33a0da1ccfa046ef24ea703]... an ordinary or emergency drought order or a drought permit under the Water Resources Act 1991 [^c1967096];
-- (d)[^key-c3ee3a1468d4e0cee3afefbf8c4923aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a permit granted under the Environmental Permitting (England and Wales) Regulations 2016[^c-bb28b964f0c1233e4724e6482fe0a7ba] or a registration under those Regulations;
+- (b)[^c-faf24aa8a337a061b63bbbeef310bd36] a marine licence granted under Part 4 of the Marine and Coastal Access Act 2009;
+- (c) [^c-cfdd20aab33a0da1ccfa046ef24ea703]... an ordinary or emergency drought order or a drought permit under the Water Resources Act 1991 [^c1967096];
+- (d)[^c-c3ee3a1468d4e0cee3afefbf8c4923aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) a water abstraction or impoundment licence under the Water Resources Act 1991;
-- (f)[^key-213e55c5a5751adf14fea5d66956895d] an authorisation of, or permission for, a plant protection product granted, or deemed to be granted, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414).
+- (f)[^c-213e55c5a5751adf14fea5d66956895d] an authorisation of, or permission for, a plant protection product granted, or deemed to be granted, in accordance with Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/european/regulation/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/european/directive/1979/0117) and [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414).
 
 ## SCHEDULE 4 — Remediation
 
@@ -901,53 +901,53 @@ A regulatory impact assessment has been prepared and copies are available from t
 
 [^c1967053]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Paragraph 1A was inserted into Schedule 2 by section 28 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-a89c97ce186e27828facd91c057a4b74]: Textual amendment: Words in reg. 2(1) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/2)
+[^c-a89c97ce186e27828facd91c057a4b74]: Textual amendment: Words in reg. 2(1) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/2)
 
-[^key-f0fe5bf7f231d07388e716e82b4d7833]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2009/995/regulation/2/1) substituted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/3/a)
+[^c-f0fe5bf7f231d07388e716e82b4d7833]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2009/995/regulation/2/1) substituted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/3/a)
 
 [^c1967056]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Part II of the Act (which includes section 28) was inserted by Schedule 9 to the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and subsequently amended by Schedule 11 to the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16).
 
-[^key-ee2e5c757e459abdf9624adbee7db4be]: Textual amendment: Words in reg. 2(1) substituted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/3/b)
+[^c-ee2e5c757e459abdf9624adbee7db4be]: Textual amendment: Words in reg. 2(1) substituted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/3/b)
 
 [^c1967057]: Marginal citation: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
 
 [^c1967058]: Marginal citation: OJ No L 143, 30.4.2004, p. 56 as amended by Directive 2006/21/EC (OJ No L 102, 11.4.2006, p. 15).
 
-[^key-edb57765433fc2fa65fe3dfc8ce255ea]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/wsi/2009/995/regulation/2/3/a) inserted (31.12.2020) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/244)](https://www.legislation.gov.uk/wsi/2019/244), [regs. 1](https://www.legislation.gov.uk/wsi/2019/244/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2019/244/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-edb57765433fc2fa65fe3dfc8ce255ea]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/wsi/2009/995/regulation/2/3/a) inserted (31.12.2020) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/244)](https://www.legislation.gov.uk/wsi/2019/244), [regs. 1](https://www.legislation.gov.uk/wsi/2019/244/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2019/244/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-45f3efa2435aa3fb51fc88229c01390c]: Textual amendment: Word in [reg. 2(3)(a)](https://www.legislation.gov.uk/wsi/2009/995/regulation/2/3/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/9/2)
+[^c-45f3efa2435aa3fb51fc88229c01390c]: Textual amendment: Word in [reg. 2(3)(a)](https://www.legislation.gov.uk/wsi/2009/995/regulation/2/3/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/9/2)
 
 [^c1967060]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
 [^c1967061]: Marginal citation: OJ No L 268, 18.10.2003, p. 1 as last amended by Regulation (EC) No 298/2008 of the European Parliament and of the Council (OJ No L 97, 9.4.2008, p. 64).
 
-[^key-8e89cfa099bbad276319a33ca1055e80]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2009/995/regulation/3) substituted (31.12.2020) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/244)](https://www.legislation.gov.uk/wsi/2019/244), [regs. 1](https://www.legislation.gov.uk/wsi/2019/244/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2019/244/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e89cfa099bbad276319a33ca1055e80]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/wsi/2009/995/regulation/3) substituted (31.12.2020) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/244)](https://www.legislation.gov.uk/wsi/2019/244), [regs. 1](https://www.legislation.gov.uk/wsi/2019/244/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2019/244/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_eb831479-74f5-4ce7-db0d-03cebafc2a57]: Textual amendment: Word in reg. 3 heading substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
-[^key-8c632f5974b0c3a1d1205f514b51dcac]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/wsi/2009/995/regulation/4/1/b) omitted (19.7.2015) by virtue of [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(3)(a)(i)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/3/a/i)
+[^c-8c632f5974b0c3a1d1205f514b51dcac]: Textual amendment: Word in [reg. 4(1)(b)](https://www.legislation.gov.uk/wsi/2009/995/regulation/4/1/b) omitted (19.7.2015) by virtue of [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(3)(a)(i)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/3/a/i)
 
-[^key-c17bf72c4e8615efce08fd9ba0727f8a]: Textual amendment: [Reg. 4(1)(c)](https://www.legislation.gov.uk/wsi/2009/995/regulation/4/1/c) omitted (19.7.2015) by virtue of [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/3/a/ii)
+[^c-c17bf72c4e8615efce08fd9ba0727f8a]: Textual amendment: [Reg. 4(1)(c)](https://www.legislation.gov.uk/wsi/2009/995/regulation/4/1/c) omitted (19.7.2015) by virtue of [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/3/a/ii)
 
-[^key-365f685adbd4c9b42f054c3bd2b7f425]: Textual amendment: [Reg. 4(1)(c)](https://www.legislation.gov.uk/wsi/2009/995/regulation/4/1/c)[(d)](https://www.legislation.gov.uk/wsi/2009/995/regulation/4/1/d) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/3/a/ii)
+[^c-365f685adbd4c9b42f054c3bd2b7f425]: Textual amendment: [Reg. 4(1)(c)](https://www.legislation.gov.uk/wsi/2009/995/regulation/4/1/c)[(d)](https://www.legislation.gov.uk/wsi/2009/995/regulation/4/1/d) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/3/a/ii)
 
 [^c1967062]: Marginal citation: OJ No L 327, 22.12.2000, p. 1 as last amended by Directive 2008/105/EC of the European Parliament and of the Council (OJ No L 348, 24.12.2008, p. 84).
 
 [^c1967063]: Marginal citation: OJ No L 372, 27.12.2006, p. 19.
 
-[^key-f0f25246dbe57b89a3d1b749493d9b72]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/wsi/2009/995/regulation/4/5) omitted (19.7.2015) by virtue of [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/3/b)
+[^c-f0f25246dbe57b89a3d1b749493d9b72]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/wsi/2009/995/regulation/4/5) omitted (19.7.2015) by virtue of [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/3/b)
 
-[^key-9f841abb2c78efefa7a80f4ffd4377b4]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/wsi/2009/995/regulation/4/5)[(6)](https://www.legislation.gov.uk/wsi/2009/995/regulation/4/6) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/3/b)
+[^c-9f841abb2c78efefa7a80f4ffd4377b4]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/wsi/2009/995/regulation/4/5)[(6)](https://www.legislation.gov.uk/wsi/2009/995/regulation/4/6) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/3/b)
 
-[^key-6f805c832890cc31c497bfe93d23635d]: Textual amendment: Words in reg. 6(1) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(4)(a)(i)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/4/a/i)
+[^c-6f805c832890cc31c497bfe93d23635d]: Textual amendment: Words in reg. 6(1) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(4)(a)(i)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/4/a/i)
 
-[^key-0056d83eb286e09ad90e94cf45f51772]: Textual amendment: Words in reg. 6(1) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(4)(a)(ii)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/4/a/ii)
+[^c-0056d83eb286e09ad90e94cf45f51772]: Textual amendment: Words in reg. 6(1) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(4)(a)(ii)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/4/a/ii)
 
-[^key-77b1c1f43b30bb963f0cc343544cd850]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/wsi/2009/995/regulation/6/2) omitted (19.7.2015) by virtue of [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/4/b)
+[^c-77b1c1f43b30bb963f0cc343544cd850]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/wsi/2009/995/regulation/6/2) omitted (19.7.2015) by virtue of [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/4/b)
 
 [^c1967065]: Marginal citation: The Convention is set out in Schedule 7 to the [Merchant Shipping Act 1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-97d98fcdd393e4a24b6539b8f39f4c9b]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/wsi/2009/995/regulation/8/1A) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/5)
+[^c-97d98fcdd393e4a24b6539b8f39f4c9b]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/wsi/2009/995/regulation/8/1A) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/5)
 
 [^c1967066]: Marginal citation: Both these conventions were implemented in the [Merchant Shipping Act 1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21).
 
@@ -955,61 +955,61 @@ A regulatory impact assessment has been prepared and copies are available from t
 
 [^M_F_0320f470-1e9e-47c5-effe-6144af1cf4dd]: Textual amendment: Reg. 10 heading substituted (6.4.2012) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/630)](https://www.legislation.gov.uk/uksi/2012/630), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/630/regulation/1/b), [19(2)(b)](https://www.legislation.gov.uk/uksi/2012/630/regulation/19/2/b/ii)
 
-[^key-2f30c22d8f8f8c9a30b017c57a053355]: Textual amendment: Words in reg. 10 heading substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 30(2)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/30/2/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-2f30c22d8f8f8c9a30b017c57a053355]: Textual amendment: Words in reg. 10 heading substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 30(2)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/30/2/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-535d5185f8ad6f6363256dcc2d54966c]: Textual amendment: Words in reg. 10(1) substituted (6.4.2012) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/630)](https://www.legislation.gov.uk/uksi/2012/630), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/630/regulation/1/b), [19(2)(b)(i)](https://www.legislation.gov.uk/uksi/2012/630/regulation/19/2/b/i)
+[^c-535d5185f8ad6f6363256dcc2d54966c]: Textual amendment: Words in reg. 10(1) substituted (6.4.2012) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/630)](https://www.legislation.gov.uk/uksi/2012/630), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/630/regulation/1/b), [19(2)(b)(i)](https://www.legislation.gov.uk/uksi/2012/630/regulation/19/2/b/i)
 
-[^key-ff8bfe7a6573401a293409006cd4f5a2]: Textual amendment: Words in reg. 10(1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 30(2)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/30/2/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-ff8bfe7a6573401a293409006cd4f5a2]: Textual amendment: Words in reg. 10(1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 30(2)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/30/2/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-457d7b438e52ca7f20ed6eb0ed56763f]: Textual amendment: Words in reg. 10(2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 52(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/52/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-457d7b438e52ca7f20ed6eb0ed56763f]: Textual amendment: Words in reg. 10(2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 52(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/52/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-4401cc834dc9cdd7289827d3a7908193]: Textual amendment: Words in reg. 10(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 52(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/52/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-4401cc834dc9cdd7289827d3a7908193]: Textual amendment: Words in reg. 10(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 52(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/52/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-3a7dbfcb9d801ede5bf21b782cf60fba]: Textual amendment: Words in reg. 10(3)(a)(ii) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 52(3)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/52/3/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3a7dbfcb9d801ede5bf21b782cf60fba]: Textual amendment: Words in reg. 10(3)(a)(ii) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 52(3)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/52/3/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ee597bddcb69bc77a6478a976fdf70cc]: Textual amendment: Reg. 10(3)(b)(iii) omitted (19.7.2015) by virtue of [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/6)
+[^c-ee597bddcb69bc77a6478a976fdf70cc]: Textual amendment: Reg. 10(3)(b)(iii) omitted (19.7.2015) by virtue of [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/6)
 
-[^key-95eb9c7351f335eb3d868eac6724d99d]: Textual amendment: Reg. 10(3)(b)(iii)(iv) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/6)
+[^c-95eb9c7351f335eb3d868eac6724d99d]: Textual amendment: Reg. 10(3)(b)(iii)(iv) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(6)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/6)
 
-[^key-57f5d953b48c9b8743c68782f24ecebb]: Textual amendment: Words in reg. 11(1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 30(3)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/30/3/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-57f5d953b48c9b8743c68782f24ecebb]: Textual amendment: Words in reg. 11(1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 30(3)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/30/3/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-1cb082e59f3e2a203a4af69ace3ae98e]: Textual amendment: Words in reg. 11 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 53(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/53/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1cb082e59f3e2a203a4af69ace3ae98e]: Textual amendment: Words in reg. 11 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 53(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/53/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-3389bee17f4b80309ddc387b828c97d5]: Textual amendment: Words in reg. 11(1) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/7/a)
+[^c-3389bee17f4b80309ddc387b828c97d5]: Textual amendment: Words in reg. 11(1) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/7/a)
 
-[^key-2aead82ab5a7d75b7514ef9d75e98a40]: Textual amendment: Words in reg. 11(1) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/7/b)
+[^c-2aead82ab5a7d75b7514ef9d75e98a40]: Textual amendment: Words in reg. 11(1) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/7/b)
 
-[^key-8c5c1f9ab5000105d91f4dadad835b69]: Textual amendment: Words in reg. 11(1) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(7)(c)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/7/c)
+[^c-8c5c1f9ab5000105d91f4dadad835b69]: Textual amendment: Words in reg. 11(1) inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (Amendment) (Wales) Regulations 2015 (S.I. 2015/1394)](https://www.legislation.gov.uk/wsi/2015/1394), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/1/2), [2(7)(c)](https://www.legislation.gov.uk/wsi/2015/1394/regulation/2/7/c)
 
-[^key-506501925f37d0bbc052485073ca56de]: Textual amendment: Words in reg. 11 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 53(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/53/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-506501925f37d0bbc052485073ca56de]: Textual amendment: Words in reg. 11 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 53(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/53/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-34e7b4bfa361aa6d365f2b2f26c6cc9f]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/wsi/2009/995/regulation/18A) inserted (20.11.2019) by [The Rural Affairs and Environment (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1408)](https://www.legislation.gov.uk/wsi/2019/1408), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1408/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/1408/regulation/2)
+[^c-34e7b4bfa361aa6d365f2b2f26c6cc9f]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/wsi/2009/995/regulation/18A) inserted (20.11.2019) by [The Rural Affairs and Environment (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1408)](https://www.legislation.gov.uk/wsi/2019/1408), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1408/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/1408/regulation/2)
 
-[^key-f7fcdc330df5891eb3c2e192e428813c]: Textual amendment: [Reg. 20(A1)](https://www.legislation.gov.uk/wsi/2009/995/regulation/20/A1) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [8(2)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/8/2)
+[^c-f7fcdc330df5891eb3c2e192e428813c]: Textual amendment: [Reg. 20(A1)](https://www.legislation.gov.uk/wsi/2009/995/regulation/20/A1) inserted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [8(2)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/8/2)
 
 [^c1967069]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
 [^c1967070]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-73d11845cf09bc96b71321bdfad0d01f]: Textual amendment: Words in [reg. 31(2)](https://www.legislation.gov.uk/wsi/2009/995/regulation/31/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 54](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/54) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-73d11845cf09bc96b71321bdfad0d01f]: Textual amendment: Words in [reg. 31(2)](https://www.legislation.gov.uk/wsi/2009/995/regulation/31/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 54](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/54) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-b77e9457cf61a5f554839cb51c817dcc]: Textual amendment: Words in [Sch. 1 para. 1(1)(e)](https://www.legislation.gov.uk/wsi/2009/995/schedule/1/paragraph/1/1/e) substituted (31.12.2020) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/244)](https://www.legislation.gov.uk/wsi/2019/244), [regs. 1](https://www.legislation.gov.uk/wsi/2019/244/regulation/1), [2(4)](https://www.legislation.gov.uk/wsi/2019/244/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b77e9457cf61a5f554839cb51c817dcc]: Textual amendment: Words in [Sch. 1 para. 1(1)(e)](https://www.legislation.gov.uk/wsi/2009/995/schedule/1/paragraph/1/1/e) substituted (31.12.2020) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/244)](https://www.legislation.gov.uk/wsi/2019/244), [regs. 1](https://www.legislation.gov.uk/wsi/2019/244/regulation/1), [2(4)](https://www.legislation.gov.uk/wsi/2019/244/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c1967073]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Part II of the Act (which includes section 28) was inserted by Schedule 9 to the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and subsequently amended by Schedule 11 to the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16).
 
-[^key-07993d12f8cf8b1e7673ccb7c3f54f83]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2009/995/schedule/1/paragraph/5) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [8(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/8/3)
+[^c-07993d12f8cf8b1e7673ccb7c3f54f83]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2009/995/schedule/1/paragraph/5) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [8(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/8/3)
 
-[^key-32735afeb4aaed50785d867116ca7a70]: Textual amendment: [Sch. 2 para. 1A](https://www.legislation.gov.uk/wsi/2009/995/schedule/2/paragraph/1A) inserted (31.12.2020) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/244)](https://www.legislation.gov.uk/wsi/2019/244), [regs. 1](https://www.legislation.gov.uk/wsi/2019/244/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/wsi/2019/244/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-32735afeb4aaed50785d867116ca7a70]: Textual amendment: [Sch. 2 para. 1A](https://www.legislation.gov.uk/wsi/2009/995/schedule/2/paragraph/1A) inserted (31.12.2020) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/244)](https://www.legislation.gov.uk/wsi/2019/244), [regs. 1](https://www.legislation.gov.uk/wsi/2019/244/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/wsi/2019/244/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_6cc67690-8ef0-4696-c1e3-74038fe224b8]: Textual amendment: Word in [Sch. 2 para. 1A](https://www.legislation.gov.uk/wsi/2009/995/schedule/2/paragraph/1A) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/uksi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1332/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2023/1332/regulation/9/3)
 
-[^key-05646a48b92aedcca8b0ef71973ba3fc]: Textual amendment: Sch. 2 para. 2 substituted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/5/a)
+[^c-05646a48b92aedcca8b0ef71973ba3fc]: Textual amendment: Sch. 2 para. 2 substituted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/5/a)
 
-[^key-6a352245143383bf9dcc3cd6d2664ed5]: Textual amendment: Words in Sch. 2 para. 3(1) substituted (29.3.2011) by [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/uksi/2011/971), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/971/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2011/971/regulation/6)
+[^c-6a352245143383bf9dcc3cd6d2664ed5]: Textual amendment: Words in Sch. 2 para. 3(1) substituted (29.3.2011) by [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/uksi/2011/971), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/971/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2011/971/regulation/6)
 
 [^c1967078]: Marginal citation: OJ No L 182, 16.7.99, p. 1 as 1ast amended by Regulation (EC) No 1137/2008 of the European Parliament and of the Council (OJ No L 311, 21.11.2008, p. 1).
 
-[^key-ef589eff7857c1337ee6751a38f7b7d9]: Textual amendment: Words in Sch. 2 para. 3(2) substituted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/5/b)
+[^c-ef589eff7857c1337ee6751a38f7b7d9]: Textual amendment: Words in Sch. 2 para. 3(2) substituted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/5/b)
 
 [^c1967080]: Marginal citation: OJ No L102, 11.4.2006, p. 15.
 
@@ -1017,7 +1017,7 @@ A regulatory impact assessment has been prepared and copies are available from t
 
 [^c1967082]: Marginal citation: OJ No L 20, 26.1.80, p. 43 as amended by Council Directive 91/692/EC (OJ No L 377, 31.12.1991, p. 48).
 
-[^key-0aaf8f0a85ba6aba8d9a4fdfd7385e5d]: Textual amendment: Words in Sch. 2 para. 5(2) inserted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [5(c)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/5/c)
+[^c-0aaf8f0a85ba6aba8d9a4fdfd7385e5d]: Textual amendment: Words in Sch. 2 para. 5(2) inserted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [5(c)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/5/c)
 
 [^c1967083]: Marginal citation: OJ No L 327, 22.12.2000, p. 1 as amended by Directive 2008/105/EC of the European Parliament and of the Council (OJ No L 348, 24.12.2008, p. 84).
 
@@ -1025,35 +1025,35 @@ A regulatory impact assessment has been prepared and copies are available from t
 
 [^c1967085]: Marginal citation: OJ No L 200, 30.7.99, p. 1 as last amended by Regulation (EC) No 2008/1272 of the European Parliament and of the Council (OJ No L 353, 31.12.2008, p. 1).
 
-[^key-55dc1b69e2651c011a60a3a3c03c596f]: Textual amendment: [Sch. 2 para. 7(ba)](https://www.legislation.gov.uk/wsi/2009/995/schedule/2/paragraph/7/ba) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [19](https://www.legislation.gov.uk/wsi/2019/463/regulation/19)
+[^c-55dc1b69e2651c011a60a3a3c03c596f]: Textual amendment: [Sch. 2 para. 7(ba)](https://www.legislation.gov.uk/wsi/2009/995/schedule/2/paragraph/7/ba) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [19](https://www.legislation.gov.uk/wsi/2019/463/regulation/19)
 
-[^key-aa9002d227f4294bcf6bb478abfc53a9]: Textual amendment: Words in Sch. 2 para. 7(c) substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4) (with [reg. 29](https://www.legislation.gov.uk/uksi/2011/2131/regulation/29))
+[^c-aa9002d227f4294bcf6bb478abfc53a9]: Textual amendment: Words in Sch. 2 para. 7(c) substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4) (with [reg. 29](https://www.legislation.gov.uk/uksi/2011/2131/regulation/29))
 
 [^c1967087]: Marginal citation: OJ No L 123, 24.4.98, p. 1 as last amended by Directive 2008/31/EC of the European Parliament and of the Council (OJ No L 81, 20.3.2008, p. 57).
 
-[^key-b8311ec50f8ac75477e37489a618d7c1]: Textual amendment: Words in Sch. 2 para. 7(d) inserted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [5(d)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/5/d)
+[^c-b8311ec50f8ac75477e37489a618d7c1]: Textual amendment: Words in Sch. 2 para. 7(d) inserted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [5(d)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/5/d)
 
-[^key-cb02678899438bc2b10741cbb746d13c]: Textual amendment: Sch. 2 para. 8 substituted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [5(e)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/5/e)
+[^c-cb02678899438bc2b10741cbb746d13c]: Textual amendment: Sch. 2 para. 8 substituted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [5(e)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/5/e)
 
 [^c1967091]: Marginal citation: OJ No L 117, 8.5.90, p. 1 as last amended by Commission Decision 2005/174/EC (OJ No L 59, 5.3.2005, p. 20).
 
 [^c1967092]: Marginal citation: OJ No L 106, 17.4.2001, p. 1 as last amended by Directive 2008/27/EC of the European Parliament and of the Council (OJ No L 81, 20.3.2008, p. 45).
 
-[^key-8bd1edfebdc66955f343c23f070f3a52]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2009/995/schedule/2/paragraph/10) substituted (31.12.2020) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/244)](https://www.legislation.gov.uk/wsi/2019/244), [regs. 1](https://www.legislation.gov.uk/wsi/2019/244/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/wsi/2019/244/regulation/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8bd1edfebdc66955f343c23f070f3a52]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2009/995/schedule/2/paragraph/10) substituted (31.12.2020) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/244)](https://www.legislation.gov.uk/wsi/2019/244), [regs. 1](https://www.legislation.gov.uk/wsi/2019/244/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/wsi/2019/244/regulation/2/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2ca14a5889d213fbdf40270b5a8010ac]: Textual amendment: Sch. 2 para. 11 inserted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [5(f)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/5/f)
+[^c-2ca14a5889d213fbdf40270b5a8010ac]: Textual amendment: Sch. 2 para. 11 inserted (18.12.2015) by [The Environmental Damage (Prevention and Remediation) (Wales) (Amendment) (No.2) Regulations 2015 (S.I. 2015/1937)](https://www.legislation.gov.uk/wsi/2015/1937), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/1/2), [5(f)](https://www.legislation.gov.uk/wsi/2015/1937/regulation/5/f)
 
-[^key-bb28b964f0c1233e4724e6482fe0a7ba]: Textual amendment: Words in [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/wsi/2009/995/schedule/3/paragraph/1/a) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 30(4)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/30/4/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-bb28b964f0c1233e4724e6482fe0a7ba]: Textual amendment: Words in [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/wsi/2009/995/schedule/3/paragraph/1/a) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 30(4)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/30/4/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-faf24aa8a337a061b63bbbeef310bd36]: Textual amendment: Sch. 3 para. 1(b) substituted (6.4.2011) by [The Marine and Coastal Access Act 2009 (Commencement No.5, Consequential and Transitional Provisions) Order 2011 (S.I. 2011/556)](https://www.legislation.gov.uk/uksi/2011/556), [art. 1(3)](https://www.legislation.gov.uk/uksi/2011/556/article/1/3), [Sch. para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/schedule/paragraph/10/2/a)
+[^c-faf24aa8a337a061b63bbbeef310bd36]: Textual amendment: Sch. 3 para. 1(b) substituted (6.4.2011) by [The Marine and Coastal Access Act 2009 (Commencement No.5, Consequential and Transitional Provisions) Order 2011 (S.I. 2011/556)](https://www.legislation.gov.uk/uksi/2011/556), [art. 1(3)](https://www.legislation.gov.uk/uksi/2011/556/article/1/3), [Sch. para. 10(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/schedule/paragraph/10/2/a)
 
-[^key-cfdd20aab33a0da1ccfa046ef24ea703]: Textual amendment: Words in Sch. 3 para. 1(c) omitted (6.4.2012) by virtue of [The Environmental Permitting (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/630)](https://www.legislation.gov.uk/uksi/2012/630), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/630/regulation/1/b), [19(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/630/regulation/19/4/b/ii)
+[^c-cfdd20aab33a0da1ccfa046ef24ea703]: Textual amendment: Words in Sch. 3 para. 1(c) omitted (6.4.2012) by virtue of [The Environmental Permitting (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/630)](https://www.legislation.gov.uk/uksi/2012/630), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/630/regulation/1/b), [19(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/630/regulation/19/4/b/ii)
 
 [^c1967096]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57) as amended by the [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37).
 
-[^key-c3ee3a1468d4e0cee3afefbf8c4923aa]: Textual amendment: Sch. 3 para. 1(d) omitted (6.4.2012) by virtue of [The Environmental Permitting (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/630)](https://www.legislation.gov.uk/uksi/2012/630), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/630/regulation/1/b), [19(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2012/630/regulation/19/4/b/iii)
+[^c-c3ee3a1468d4e0cee3afefbf8c4923aa]: Textual amendment: Sch. 3 para. 1(d) omitted (6.4.2012) by virtue of [The Environmental Permitting (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/630)](https://www.legislation.gov.uk/uksi/2012/630), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2012/630/regulation/1/b), [19(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2012/630/regulation/19/4/b/iii)
 
-[^key-213e55c5a5751adf14fea5d66956895d]: Textual amendment: Sch. 3 para. 1(f) substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4) (with [reg. 29](https://www.legislation.gov.uk/uksi/2011/2131/regulation/29))
+[^c-213e55c5a5751adf14fea5d66956895d]: Textual amendment: Sch. 3 para. 1(f) substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4) (with [reg. 29](https://www.legislation.gov.uk/uksi/2011/2131/regulation/29))
 
 [^c1967101]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 

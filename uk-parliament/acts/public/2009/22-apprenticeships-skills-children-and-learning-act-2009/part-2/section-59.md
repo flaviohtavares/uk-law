@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Minor and consequential amendments[^key-382043fc93dce88546d14a34ca0cdc84][^key-084ce769ede678562f85375afc5fab52][^key-b346e50594590f16d6aab29087c4cae4]
+## 59. Minor and consequential amendments[^c-382043fc93dce88546d14a34ca0cdc84][^c-084ce769ede678562f85375afc5fab52][^c-b346e50594590f16d6aab29087c4cae4]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ Schedule 2 contains minor and consequential amendments relating to the provision
 
 ## Annotations
 
-[^key-382043fc93dce88546d14a34ca0cdc84]: Commencement: S. 59 in force at 12.1.2010 for specified purposes by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-382043fc93dce88546d14a34ca0cdc84]: Commencement: S. 59 in force at 12.1.2010 for specified purposes by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-084ce769ede678562f85375afc5fab52]: Commencement: S. 59 in force at 1.4.2010 for specified purposes by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-084ce769ede678562f85375afc5fab52]: Commencement: S. 59 in force at 1.4.2010 for specified purposes by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-b346e50594590f16d6aab29087c4cae4]: Commencement: S. 59 in force at 1.9.2010 in so far as not already in force by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-b346e50594590f16d6aab29087c4cae4]: Commencement: S. 59 in force at 1.9.2010 in so far as not already in force by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))

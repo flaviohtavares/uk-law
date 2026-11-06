@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Power to charge fees[^key-da95d68394e75b974cbb384c7dbaebc2][^key-70304404d8dfcda1063efde7eae5bfbc]
+## 4. Power to charge fees[^c-da95d68394e75b974cbb384c7dbaebc2][^c-70304404d8dfcda1063efde7eae5bfbc]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da95d68394e75b974cbb384c7dbaebc2]: Commencement: S. 4 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-da95d68394e75b974cbb384c7dbaebc2]: Commencement: S. 4 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-70304404d8dfcda1063efde7eae5bfbc]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/36/section/4) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/437/regulation/3))
+[^c-70304404d8dfcda1063efde7eae5bfbc]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/36/section/4) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/437/regulation/3))

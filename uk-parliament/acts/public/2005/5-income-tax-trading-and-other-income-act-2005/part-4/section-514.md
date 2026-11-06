@@ -31,10 +31,10 @@ summary: ''
 
 (4) The gain is charged to tax under this Chapter for the tax year in which the insurance year ends instead.
 
-(4A)[^key-7f7505b53d8ed18756e53b7b3bf05889] Subsection (3)(b) includes a case where a person would be liable to tax on the gain under section 465B for the tax year in which the transaction occurs (because the transaction occurs in the year of return, as defined in that section).
+(4A)[^c-7f7505b53d8ed18756e53b7b3bf05889] Subsection (3)(b) includes a case where a person would be liable to tax on the gain under section 465B for the tax year in which the transaction occurs (because the transaction occurs in the year of return, as defined in that section).
 
 (5) If the relevant transaction occurs in the final insurance year, the chargeable event within subsection (1) is treated as occurring before the chargeable event that ends that year.
 
 ## Annotations
 
-[^key-7f7505b53d8ed18756e53b7b3bf05889]: Textual amendment: S. 514(4A) inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 142](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/142)
+[^c-7f7505b53d8ed18756e53b7b3bf05889]: Textual amendment: S. 514(4A) inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 142](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/142)

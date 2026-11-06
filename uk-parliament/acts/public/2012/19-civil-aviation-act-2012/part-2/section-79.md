@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Approved providers of aviation security services[^key-e77e56107c7df5fe163b980c84ffcbfd]
+## 79. Approved providers of aviation security services[^c-e77e56107c7df5fe163b980c84ffcbfd]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e77e56107c7df5fe163b980c84ffcbfd]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2012/19/section/79) in force at 1.4.2014 by [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/262/article/3/b)
+[^c-e77e56107c7df5fe163b980c84ffcbfd]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2012/19/section/79) in force at 1.4.2014 by [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/262/article/3/b)

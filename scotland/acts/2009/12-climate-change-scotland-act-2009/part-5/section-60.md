@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Duty of Scottish Ministers to promote energy efficiency[^key-417c5dd20bd3d10cf1a519917c0ad23a]
+## 60. Duty of Scottish Ministers to promote energy efficiency[^c-417c5dd20bd3d10cf1a519917c0ad23a]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ review the plan prepared and published under this section.
 
 ## Annotations
 
-[^key-417c5dd20bd3d10cf1a519917c0ad23a]: Commencement: S. 60 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-417c5dd20bd3d10cf1a519917c0ad23a]: Commencement: S. 60 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

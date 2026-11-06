@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Winding-up practice of a deceased solicitor[^key-9e09e8f5d096a77bf3305b0fbe20a642]
+## 32. Winding-up practice of a deceased solicitor[^c-9e09e8f5d096a77bf3305b0fbe20a642]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ On the death of a solicitor his personal representatives may, notwithstanding an
 
 ## Annotations
 
-[^key-9e09e8f5d096a77bf3305b0fbe20a642]: Modification: [Art. 32](https://www.legislation.gov.uk/nisi/1976/582/article/32) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(h)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/h)
+[^c-9e09e8f5d096a77bf3305b0fbe20a642]: Modification: [Art. 32](https://www.legislation.gov.uk/nisi/1976/582/article/32) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(h)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/h)
 
 [^c17113461]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)

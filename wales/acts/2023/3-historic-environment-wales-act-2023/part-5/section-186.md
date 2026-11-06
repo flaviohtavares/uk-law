@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 186. Power to correct correctable errors in decision documents[^key-328bd0fd8c858f0203dd92bc7883e603][^key-30e73a1aa2f79d2642fb0175e4689704]
+## 186. Power to correct correctable errors in decision documents[^c-328bd0fd8c858f0203dd92bc7883e603][^c-30e73a1aa2f79d2642fb0175e4689704]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ and it does not matter whether any such application is actually made.
 
 ## Annotations
 
-[^key-328bd0fd8c858f0203dd92bc7883e603]: Commencement: S. 186 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-328bd0fd8c858f0203dd92bc7883e603]: Commencement: S. 186 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-30e73a1aa2f79d2642fb0175e4689704]: Commencement: [S. 186](https://www.legislation.gov.uk/asc/2023/3/section/186) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-30e73a1aa2f79d2642fb0175e4689704]: Commencement: [S. 186](https://www.legislation.gov.uk/asc/2023/3/section/186) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

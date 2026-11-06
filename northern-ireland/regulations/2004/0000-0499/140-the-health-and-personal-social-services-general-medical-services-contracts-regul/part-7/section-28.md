@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Commencement[^key-8552a7ba12347ac4bd8cf104236b5e82]
+## 28. Commencement[^c-8552a7ba12347ac4bd8cf104236b5e82]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The contract shall provide for services to be provided under it from any date af
 
 ## Annotations
 
-[^key-8552a7ba12347ac4bd8cf104236b5e82]: Commencement: Reg. 28 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-8552a7ba12347ac4bd8cf104236b5e82]: Commencement: Reg. 28 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)

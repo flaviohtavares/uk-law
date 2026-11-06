@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Form and content of accounts of insurance companies and groups[^key-7cde2ed71821a13e5227204052a44e51]
+## 72. Form and content of accounts of insurance companies and groups[^c-7cde2ed71821a13e5227204052a44e51]
 
 *Extent: E+W+S+N.I.*
 
@@ -92,7 +92,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7cde2ed71821a13e5227204052a44e51]: Commencement: Art. 72 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7cde2ed71821a13e5227204052a44e51]: Commencement: Art. 72 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00076]: Footnote: Substituted for Parts I and II of Schedule 9, as originally enacted, by [S.R. 1992/258](https://www.legislation.gov.uk/nisr/1992/258).
 

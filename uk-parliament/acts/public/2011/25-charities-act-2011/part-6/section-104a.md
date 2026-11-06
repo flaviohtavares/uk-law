@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104A. Investment of endowment fund on total return basis[^key-21b85094e8cb0e6e2a5c7c1314b7a90b]
+## 104A. Investment of endowment fund on total return basis[^c-21b85094e8cb0e6e2a5c7c1314b7a90b]
 
 *Extent: E+W+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21b85094e8cb0e6e2a5c7c1314b7a90b]: Textual amendment: [Ss. 104A](https://www.legislation.gov.uk/ukpga/2011/25/section/104A), [104B](https://www.legislation.gov.uk/ukpga/2011/25/section/104B) inserted (6.4.2013 for specified purposes, 1.1.2014 in so far as not already in force) by [Trusts (Capital and Income) Act 2013 (c. 1)](https://www.legislation.gov.uk/ukpga/2013/1), [ss. 4](https://www.legislation.gov.uk/ukpga/2013/1/section/4), [5(3)](https://www.legislation.gov.uk/ukpga/2013/1/section/5/3); [S.I. 2013/676](https://www.legislation.gov.uk/uksi/2013/676), [art. 3](https://www.legislation.gov.uk/uksi/2013/676/article/3); [S.I. 2013/2461](https://www.legislation.gov.uk/uksi/2013/2461), [art. 2](https://www.legislation.gov.uk/uksi/2013/2461/article/2)
+[^c-21b85094e8cb0e6e2a5c7c1314b7a90b]: Textual amendment: [Ss. 104A](https://www.legislation.gov.uk/ukpga/2011/25/section/104A), [104B](https://www.legislation.gov.uk/ukpga/2011/25/section/104B) inserted (6.4.2013 for specified purposes, 1.1.2014 in so far as not already in force) by [Trusts (Capital and Income) Act 2013 (c. 1)](https://www.legislation.gov.uk/ukpga/2013/1), [ss. 4](https://www.legislation.gov.uk/ukpga/2013/1/section/4), [5(3)](https://www.legislation.gov.uk/ukpga/2013/1/section/5/3); [S.I. 2013/676](https://www.legislation.gov.uk/uksi/2013/676), [art. 3](https://www.legislation.gov.uk/uksi/2013/676/article/3); [S.I. 2013/2461](https://www.legislation.gov.uk/uksi/2013/2461), [art. 2](https://www.legislation.gov.uk/uksi/2013/2461/article/2)

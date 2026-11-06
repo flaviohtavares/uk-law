@@ -28,7 +28,7 @@ summary: ''
 (2) The driver must—
 
 - (a) carry the disabled person's dog and allow it to remain with that person;
-- (b) not make , or propose to make,[^key-4b325d9ea212d86dec575e55f678bc1f] any additional charge for doing so.
+- (b) not make , or propose to make,[^c-4b325d9ea212d86dec575e55f678bc1f] any additional charge for doing so.
 
 (3) The driver of a taxi commits an offence by failing to comply with a duty imposed by this section.
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b325d9ea212d86dec575e55f678bc1f]: Textual amendment: Words in [s. 168(2)(b)](https://www.legislation.gov.uk/ukpga/2010/15/section/168/2/b) inserted (28.6.2022) by [Taxis and Private Hire Vehicles (Disabled Persons) Act 2022 (c. 29)](https://www.legislation.gov.uk/ukpga/2022/29), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/5/2), [6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
+[^c-4b325d9ea212d86dec575e55f678bc1f]: Textual amendment: Words in [s. 168(2)(b)](https://www.legislation.gov.uk/ukpga/2010/15/section/168/2/b) inserted (28.6.2022) by [Taxis and Private Hire Vehicles (Disabled Persons) Act 2022 (c. 29)](https://www.legislation.gov.uk/ukpga/2022/29), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/5/2), [6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Concealing identity at protests: procedure for designations etc[^key-d68940a6db38b2432caccdbf7e60773c][^key-c694a9ff020d43ec93cd677b019c9a9a]
+## 159. Concealing identity at protests: procedure for designations etc[^c-d68940a6db38b2432caccdbf7e60773c][^c-c694a9ff020d43ec93cd677b019c9a9a]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ must ensure that a constable whose rank is at least that of superintendent is in
 
 ## Annotations
 
-[^key-d68940a6db38b2432caccdbf7e60773c]: Commencement: S. 159 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-d68940a6db38b2432caccdbf7e60773c]: Commencement: S. 159 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-c694a9ff020d43ec93cd677b019c9a9a]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2026/20/section/159) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/l)
+[^c-c694a9ff020d43ec93cd677b019c9a9a]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2026/20/section/159) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/l)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66. Statements of policy about exercise of discretionary functions[^key-fea5ec50f0ad194991060d653cca1d4b]
+## 66. Statements of policy about exercise of discretionary functions[^c-fea5ec50f0ad194991060d653cca1d4b]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fea5ec50f0ad194991060d653cca1d4b]: Commencement: Reg. 66 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-fea5ec50f0ad194991060d653cca1d4b]: Commencement: Reg. 66 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

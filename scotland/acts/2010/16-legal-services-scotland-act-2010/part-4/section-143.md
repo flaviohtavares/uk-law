@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 143. Relevant practitioners[^key-7a464850c985aa339ffb24cf89e2b954]
+## 143. Relevant practitioners[^c-7a464850c985aa339ffb24cf89e2b954]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ In section 46(1) (interpretation of Part 1) of the 2007 Act—
 
 ## Annotations
 
-[^key-7a464850c985aa339ffb24cf89e2b954]: Commencement: [S. 143](https://www.legislation.gov.uk/asp/2010/16/section/143) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-7a464850c985aa339ffb24cf89e2b954]: Commencement: [S. 143](https://www.legislation.gov.uk/asp/2010/16/section/143) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

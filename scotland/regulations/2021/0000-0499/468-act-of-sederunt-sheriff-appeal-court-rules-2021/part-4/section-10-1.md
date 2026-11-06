@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10.1. Application to abandon appeal[^key-a60ee65ef3d1cea279484acac73931b5]
+## 10.1. Application to abandon appeal[^c-a60ee65ef3d1cea279484acac73931b5]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a60ee65ef3d1cea279484acac73931b5]: Commencement: Para. 10.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-a60ee65ef3d1cea279484acac73931b5]: Commencement: Para. 10.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

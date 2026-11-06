@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 288. “The High Court” and “the Master”[^key-3133602239c2a0641b1c20875d0415a8]
+## 288. “The High Court” and “the Master”[^c-3133602239c2a0641b1c20875d0415a8]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3133602239c2a0641b1c20875d0415a8]: Commencement: [Rule 288](https://www.legislation.gov.uk/nisr/2026/11/rule/288) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-3133602239c2a0641b1c20875d0415a8]: Commencement: [Rule 288](https://www.legislation.gov.uk/nisr/2026/11/rule/288) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

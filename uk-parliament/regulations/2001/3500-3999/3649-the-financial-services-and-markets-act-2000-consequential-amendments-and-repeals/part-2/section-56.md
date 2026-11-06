@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Meaning of “banking partnership”[^key-425ffd4961495f124c3326bb443a9388]
+## 56. Meaning of “banking partnership”[^c-425ffd4961495f124c3326bb443a9388]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-425ffd4961495f124c3326bb443a9388]: Commencement: Art. 56 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-425ffd4961495f124c3326bb443a9388]: Commencement: Art. 56 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00061]: Footnote: Article 263D was inserted by the Companies (Northern Ireland) Order 1990 ([S.I. 1990/593 (NI 5)](https://www.legislation.gov.uk/nisi/1990/593)), Articles 3(a), 20(2).

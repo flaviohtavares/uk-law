@@ -48,19 +48,19 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-01f00110ca4b15fa010a5d5f9f4f0b13]
+### 1. Citation and commencement[^c-01f00110ca4b15fa010a5d5f9f4f0b13]
 
 These Regulations may be cited as the Environment and Wildlife (Legislative Functions) (EU Exit) Regulations 2019 and come into force on exit day.
 
 ## PART 2 — Amendments to retained direct EU legislation on the environment
 
-### 2. Regulation [(EC) No 850/2004](https://www.legislation.gov.uk/eur/2004/850) of the European Parliament and of the Council on persistent organic pollutants[^key-3a44bddd3481a92c003e3df60bbd9b15]
+### 2. Regulation [(EC) No 850/2004](https://www.legislation.gov.uk/eur/2004/850) of the European Parliament and of the Council on persistent organic pollutants[^c-3a44bddd3481a92c003e3df60bbd9b15]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Council Regulation [(EC) No 2173/2005](https://www.legislation.gov.uk/eur/2005/2173) on the establishment of a FLEGT licensing scheme for imports of timber into the European Community[^key-2b92d2b7ba44c7c6086602dce7526915]
+### 3. Council Regulation [(EC) No 2173/2005](https://www.legislation.gov.uk/eur/2005/2173) on the establishment of a FLEGT licensing scheme for imports of timber into the European Community[^c-2b92d2b7ba44c7c6086602dce7526915]
 
 (1) Council Regulation [(EC) No 2173/2005](https://www.legislation.gov.uk/eur/2005/2173) on the establishment of a FLEGT licensing scheme for imports of timber into the European Community is amended as follows.
 
@@ -119,7 +119,7 @@ These Regulations may be cited as the Environment and Wildlife (Legislative Func
 
 .
 
-### 4. Regulation [(EC) No 166/2006](https://www.legislation.gov.uk/eur/2006/166) of the European Parliament and of the Council concerning the establishment of a European Pollutant Release and Transfer Register[^key-136493e75b4a975129bafd8965f7f57e]
+### 4. Regulation [(EC) No 166/2006](https://www.legislation.gov.uk/eur/2006/166) of the European Parliament and of the Council concerning the establishment of a European Pollutant Release and Transfer Register[^c-136493e75b4a975129bafd8965f7f57e]
 
 (1) Regulation [(EC) No 166/2006](https://www.legislation.gov.uk/eur/2006/166) of the European Parliament and of the Council concerning the establishment of a European Pollutant Release and Transfer Register is amended as follows.
 
@@ -210,7 +210,7 @@ These Regulations may be cited as the Environment and Wildlife (Legislative Func
 
 .
 
-### 5. Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/eur/2006/1013) of the European Parliament and of the Council on shipments of waste[^key-77a8aa679f36dccf167aaf271d3e64c2]
+### 5. Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/eur/2006/1013) of the European Parliament and of the Council on shipments of waste[^c-77a8aa679f36dccf167aaf271d3e64c2]
 
 (1) Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/eur/2006/1013) of the European Parliament and of the Council on shipments of waste is amended as follows.
 
@@ -287,7 +287,7 @@ These Regulations may be cited as the Environment and Wildlife (Legislative Func
 
 .
 
-### 6. Regulation (EU) No 995/2010 of the European Parliament and of the Council laying down the obligations of operators who place timber and timber products on the market[^key-c70b85b884a8185f82bd3522855955b7]
+### 6. Regulation (EU) No 995/2010 of the European Parliament and of the Council laying down the obligations of operators who place timber and timber products on the market[^c-c70b85b884a8185f82bd3522855955b7]
 
 (1) Regulation (EU) No 995/2010 of the European Parliament and of the Council laying down the obligations of operators who place timber and timber products on the market is amended as follows.
 
@@ -349,7 +349,7 @@ These Regulations may be cited as the Environment and Wildlife (Legislative Func
 
 .
 
-### 7. Regulation (EU) No 511/2014 of the European Parliament and of the Council on compliance measures for users from the Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization in the Union[^key-b71aceafaeb2473915c56b6bf65bdd1d]
+### 7. Regulation (EU) No 511/2014 of the European Parliament and of the Council on compliance measures for users from the Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization in the Union[^c-b71aceafaeb2473915c56b6bf65bdd1d]
 
 (1) Regulation (EU) No 511/2014 of the European Parliament and of the Council on compliance measures for users from the Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization in the Union is amended as follows.
 
@@ -398,7 +398,7 @@ These Regulations may be cited as the Environment and Wildlife (Legislative Func
 
 ## PART 3 — Other provision in relation to the environment
 
-### 9. Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control) (Recast) Power to make decisions on BAT conclusions for the purposes of Directive 2010/75/EU[^key-a07be64d213238dc5dfc0c57424c30fb]
+### 9. Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control) (Recast) Power to make decisions on BAT conclusions for the purposes of Directive 2010/75/EU[^c-a07be64d213238dc5dfc0c57424c30fb]
 
 (1) An appropriate authority may, by regulations, make provision specifying BAT conclusions for the purposes of provisions that have transposed Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control) (Recast) [^c23623951] into domestic law.
 
@@ -452,18 +452,18 @@ These Regulations may be cited as the Environment and Wildlife (Legislative Func
 
 ## PART 4 — Amendments to retained direct EU legislation on wildlife
 
-### 10. Council Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254) prohibiting the use of leghold traps in the Community and the introduction into the Community of pelts and manufactured goods of certain wild animal species originating in countries which catch them by means of leghold traps or trapping methods which do not meet international humane trapping standards[^key-2ed651c483f10eafa83a19df8b5cdafc]
+### 10. Council Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254) prohibiting the use of leghold traps in the Community and the introduction into the Community of pelts and manufactured goods of certain wild animal species originating in countries which catch them by means of leghold traps or trapping methods which do not meet international humane trapping standards[^c-2ed651c483f10eafa83a19df8b5cdafc]
 
 (1) Council Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254) prohibiting the use of leghold traps in the Community and the introduction into the Community of pelts and manufactured goods of certain wild animal species originating in countries which catch them by means of leghold traps or trapping methods which do not meet international humane trapping standards is amended as follows.
 
 (2) In Article 3—
 
-- (a)[^key-6f969d9f462de74072efebdc6f9f0d2a] in paragraph 1, omit the words from “unless the Commission” to the end;
+- (a)[^c-6f969d9f462de74072efebdc6f9f0d2a] in paragraph 1, omit the words from “unless the Commission” to the end;
 - (b) at the end insert—
 
   > **4.**
   >
-  > In paragraph 3 and Article 4[^key-91ee409d1b2e15c2597c1c119731bf34], “**an approved country**”, in relation to the pelts of any species (and goods incorporating such pelts), means a country listed in the Annex to the Council Decision in respect of that species.
+  > In paragraph 3 and Article 4[^c-91ee409d1b2e15c2597c1c119731bf34], “**an approved country**”, in relation to the pelts of any species (and goods incorporating such pelts), means a country listed in the Annex to the Council Decision in respect of that species.
   >
   > **5.**
   >
@@ -510,7 +510,7 @@ These Regulations may be cited as the Environment and Wildlife (Legislative Func
 
 .
 
-### 11. Commission Regulation [(EC) No 35/97](https://www.legislation.gov.uk/eur/1997/35) laying down provisions on the certification of pelts and goods covered by Council Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254)[^key-bf8c9f54b1020a5ac0dc142d0477d461]
+### 11. Commission Regulation [(EC) No 35/97](https://www.legislation.gov.uk/eur/1997/35) laying down provisions on the certification of pelts and goods covered by Council Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254)[^c-bf8c9f54b1020a5ac0dc142d0477d461]
 
 In Article 2 of Commission Regulation [(EC) No 35/97](https://www.legislation.gov.uk/eur/1997/35) laying down provisions on the certification of pelts and goods covered by Council Regulation [(EEC) No 3254/91](https://www.legislation.gov.uk/eur/1991/3254)—
 
@@ -523,7 +523,7 @@ In Article 2 of Commission Regulation [(EC) No 35/97](https://www.legislation.go
 
   .
 
-### 12. Council Regulation [(EC) No 338/97](https://www.legislation.gov.uk/eur/1997/338) on the protection of species of wild fauna and flora by regulating trade therein[^key-5410d3434816ff91e5b9f9411aeb3813]
+### 12. Council Regulation [(EC) No 338/97](https://www.legislation.gov.uk/eur/1997/338) on the protection of species of wild fauna and flora by regulating trade therein[^c-5410d3434816ff91e5b9f9411aeb3813]
 
 **Not yet in force.**
 
@@ -547,34 +547,34 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23623881]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-01f00110ca4b15fa010a5d5f9f4f0b13]: Commencement: Reg. 1 in force at 31.12.2020 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-01f00110ca4b15fa010a5d5f9f4f0b13]: Commencement: Reg. 1 in force at 31.12.2020 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-3a44bddd3481a92c003e3df60bbd9b15]: Textual amendment: Reg. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1358)](https://www.legislation.gov.uk/uksi/2020/1358), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/2020/1358/regulation/30)
+[^c-3a44bddd3481a92c003e3df60bbd9b15]: Textual amendment: Reg. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Persistent Organic Pollutants (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1358)](https://www.legislation.gov.uk/uksi/2020/1358), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/1358/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/2020/1358/regulation/30)
 
-[^key-2b92d2b7ba44c7c6086602dce7526915]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-2b92d2b7ba44c7c6086602dce7526915]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
 [^c23623931]: Marginal citation: Equivalent provision is set out in Commission Regulation (EC) No 1024/2008 laying down detailed measures for the implementation of Council Regulation (EC) No 2173/2005 on the establishment of a FLEGT licensing scheme for imports of timber into the European Community.
 
-[^key-136493e75b4a975129bafd8965f7f57e]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-136493e75b4a975129bafd8965f7f57e]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-77a8aa679f36dccf167aaf271d3e64c2]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-77a8aa679f36dccf167aaf271d3e64c2]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-c70b85b884a8185f82bd3522855955b7]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-c70b85b884a8185f82bd3522855955b7]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-b71aceafaeb2473915c56b6bf65bdd1d]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-b71aceafaeb2473915c56b6bf65bdd1d]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
 [^M_F_52cc6702-c02e-49aa-ee41-c25bd911a8ee]: Textual amendment: Reg. 8 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/1), [39](https://www.legislation.gov.uk/uksi/2020/1620/regulation/39)
 
-[^key-a07be64d213238dc5dfc0c57424c30fb]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-a07be64d213238dc5dfc0c57424c30fb]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
 [^c23623951]: Marginal citation: OJ No L 334, 17.12.2010, p 17, as corrected by a corrigendum (OJ No L 158, 19.6.2012, p 25).
 
-[^key-2ed651c483f10eafa83a19df8b5cdafc]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2ed651c483f10eafa83a19df8b5cdafc]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6f969d9f462de74072efebdc6f9f0d2a]: Textual amendment: Reg. 10(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/5/2/a)
+[^c-6f969d9f462de74072efebdc6f9f0d2a]: Textual amendment: Reg. 10(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [5(2)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/5/2/a)
 
-[^key-91ee409d1b2e15c2597c1c119731bf34]: Textual amendment: Words in reg. 10(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/5/2/b)
+[^c-91ee409d1b2e15c2597c1c119731bf34]: Textual amendment: Words in reg. 10(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [5(2)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/5/2/b)
 
-[^key-bf8c9f54b1020a5ac0dc142d0477d461]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-bf8c9f54b1020a5ac0dc142d0477d461]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-5410d3434816ff91e5b9f9411aeb3813]: Textual amendment: Reg. 12 omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1395/regulation/4)
+[^c-5410d3434816ff91e5b9f9411aeb3813]: Textual amendment: Reg. 12 omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1395/regulation/4)

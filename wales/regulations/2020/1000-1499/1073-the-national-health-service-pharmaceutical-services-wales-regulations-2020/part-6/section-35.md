@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Premises approval: practice amalgamations[^key-06e2f0dfb23c30efd0dee5af02f6b6bf]
+## 35. Premises approval: practice amalgamations[^c-06e2f0dfb23c30efd0dee5af02f6b6bf]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ as if the notice of appeal were submitted under paragraph 6(1) of Schedule 4.
 
 ## Annotations
 
-[^key-06e2f0dfb23c30efd0dee5af02f6b6bf]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2020/1073/regulation/35) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-06e2f0dfb23c30efd0dee5af02f6b6bf]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2020/1073/regulation/35) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

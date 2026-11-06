@@ -30,7 +30,7 @@ summary: ''
   - (i) the net earnings; or
   - (ii) in the case of income which does not consist of earnings, the amount of that income less any amount paid by way of tax on that income which is disregarded under paragraph 1 of Schedule 8 (income other than earnings to be disregarded),
 
-  by the amount of an employment and support[^key-94db6b35f85ce62ca139b8c9cec19378] allowance which would be payable had the payment not been made plus an amount equal to the total of the sums which would fall to be disregarded from that payment under Schedule 7 (earnings to be disregarded) or, as the case may be, any paragraph of Schedule 8 other than paragraph 1 of that Schedule, as is appropriate in the claimant's case,
+  by the amount of an employment and support[^c-94db6b35f85ce62ca139b8c9cec19378] allowance which would be payable had the payment not been made plus an amount equal to the total of the sums which would fall to be disregarded from that payment under Schedule 7 (earnings to be disregarded) or, as the case may be, any paragraph of Schedule 8 other than paragraph 1 of that Schedule, as is appropriate in the claimant's case,
 
 and that period is to begin on the date on which the payment is treated as paid under regulation 93 (date on which income is treated as paid).
 
@@ -44,7 +44,7 @@ and that period is to begin on the date on which the payment is treated as paid 
 
 whichever is the earlier.
 
-(4A)[^key-2e9ee758bd8cef4d8b2ff0cfd552647a][^key-7ec84595a1bcd9a45830a8267728606c]
+(4A)[^c-2e9ee758bd8cef4d8b2ff0cfd552647a][^c-7ec84595a1bcd9a45830a8267728606c]
 
 - (a) This paragraph applies where earnings are derived by a claimant as a member of a reserve force prescribed in Part 1 of Schedule 6 to the Contributions Regulations—
   - (i) in respect of a period of annual continuous training for a maximum of 15 days in any calendar year; or
@@ -90,10 +90,10 @@ those earnings are to be taken into account over a period equal to the aggregate
 
 ## Annotations
 
-[^key-94db6b35f85ce62ca139b8c9cec19378]: Textual amendment: Words in reg. 91(2)(c) substituted (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2009/583/regulation/10/3)
+[^c-94db6b35f85ce62ca139b8c9cec19378]: Textual amendment: Words in reg. 91(2)(c) substituted (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/583/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2009/583/regulation/10/3)
 
 [^c1918938]: Textual amendment: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50). Section 2 was substituted by the [Employment Act 1988 (c. 19)](https://www.legislation.gov.uk/ukpga/1988/19), [section 25(1)](https://www.legislation.gov.uk/ukpga/1988/19/section/25/1) and amended by the [Employment Act 1989 (c. 38)](https://www.legislation.gov.uk/ukpga/1989/38), [section 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4) and Part 1 of Schedule 7 and the [Trade Union Reform and Employment Rights Act 1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), [section 47(1)](https://www.legislation.gov.uk/ukpga/1993/19/section/47/1).
 
-[^key-2e9ee758bd8cef4d8b2ff0cfd552647a]: Textual amendment: Reg. 91(4A)(4B) inserted (5.11.2012) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/2575)](https://www.legislation.gov.uk/uksi/2012/2575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2575/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2012/2575/regulation/5/2)
+[^c-2e9ee758bd8cef4d8b2ff0cfd552647a]: Textual amendment: Reg. 91(4A)(4B) inserted (5.11.2012) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/2575)](https://www.legislation.gov.uk/uksi/2012/2575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2575/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2012/2575/regulation/5/2)
 
-[^key-7ec84595a1bcd9a45830a8267728606c]: Textual amendment: Reg. 91(4A) substituted (6.4.2015) by [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/389/regulation/4/3)
+[^c-7ec84595a1bcd9a45830a8267728606c]: Textual amendment: Reg. 91(4A) substituted (6.4.2015) by [The Social Security (Members of the Reserve Forces) (Amendment) Regulations 2015 (S.I. 2015/389)](https://www.legislation.gov.uk/uksi/2015/389), [regs. 1](https://www.legislation.gov.uk/uksi/2015/389/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/389/regulation/4/3)

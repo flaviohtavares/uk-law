@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Circumstances in which a person is to be treated as being no longer a member of the same household[^key-ffe3d73ef08fa61e96e79724a14120c0]
+## 11. Circumstances in which a person is to be treated as being no longer a member of the same household[^c-ffe3d73ef08fa61e96e79724a14120c0]
 
 *Extent: E+W+S*
 
-(1)[^key-98844534412c523414c935ad5f5dd8fb] Subject to the following provisions of this regulation, where the claimant and any partner of his are living apart from each other they shall be treated as members of the same household unless they do not intend to resume living together.
+(1)[^c-98844534412c523414c935ad5f5dd8fb] Subject to the following provisions of this regulation, where the claimant and any partner of his are living apart from each other they shall be treated as members of the same household unless they do not intend to resume living together.
 
 (2) Where one of the members of a married or unmarried couple is a hospital patient or detained in custody he shall not be treated, on this account, as ceasing to be a member of the same household as his partner—
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ffe3d73ef08fa61e96e79724a14120c0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1991/2887/regulation/11) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-ffe3d73ef08fa61e96e79724a14120c0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1991/2887/regulation/11) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
-[^key-98844534412c523414c935ad5f5dd8fb]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/11/1) substituted (5.10.1993) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 4) Regulations 1993 (S.I. 1993/2119)](https://www.legislation.gov.uk/uksi/1993/2119), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b), [38](https://www.legislation.gov.uk/uksi/1993/2119/regulation/38) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/3))
+[^c-98844534412c523414c935ad5f5dd8fb]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/11/1) substituted (5.10.1993) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 4) Regulations 1993 (S.I. 1993/2119)](https://www.legislation.gov.uk/uksi/1993/2119), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/1/b), [38](https://www.legislation.gov.uk/uksi/1993/2119/regulation/38) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/1993/2119/regulation/1/3))
 
 [^f00044]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); section 4 was amended by the Mental Health Act [1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20), section 148, Schedule 4, paragraph 47.

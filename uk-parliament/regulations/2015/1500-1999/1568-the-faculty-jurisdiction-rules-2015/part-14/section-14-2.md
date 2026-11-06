@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 14.2. Directions[^key-ea70e77e9b3faec6c550796434eb5255]
+## 14.2. Directions[^c-ea70e77e9b3faec6c550796434eb5255]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea70e77e9b3faec6c550796434eb5255]: Commencement: [Rule 14.2](https://www.legislation.gov.uk/uksi/2015/1568/article/14.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-ea70e77e9b3faec6c550796434eb5255]: Commencement: [Rule 14.2](https://www.legislation.gov.uk/uksi/2015/1568/article/14.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

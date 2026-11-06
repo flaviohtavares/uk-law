@@ -35,18 +35,18 @@ concerning the authorisation of the preparation of benzoic acid, calcium formate
 
 (Text with EEA relevance) (revoked)
 
-[^key-78992b89007f6dafd57e7751b11e25ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78992b89007f6dafd57e7751b11e25ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-78992b89007f6dafd57e7751b11e25ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-78992b89007f6dafd57e7751b11e25ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-78992b89007f6dafd57e7751b11e25ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-78992b89007f6dafd57e7751b11e25ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-78992b89007f6dafd57e7751b11e25ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78992b89007f6dafd57e7751b11e25ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-78992b89007f6dafd57e7751b11e25ca]
+## ANNEX[^c-78992b89007f6dafd57e7751b11e25ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-78992b89007f6dafd57e7751b11e25ca]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 287](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/287) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-78992b89007f6dafd57e7751b11e25ca]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 287](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/287) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Evidence of Claims[^key-28081f3f308815f1404c3af0ed252d13]
+## 118. Evidence of Claims[^c-28081f3f308815f1404c3af0ed252d13]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ are to be construed, unless the context otherwise requires, as references to a p
 
 ## Annotations
 
-[^key-28081f3f308815f1404c3af0ed252d13]: Commencement: Rule 118 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-28081f3f308815f1404c3af0ed252d13]: Commencement: Rule 118 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
 
 [^f00018]: Footnote: [1907 c. 24](https://www.legislation.gov.uk/ukpga/1907/24).

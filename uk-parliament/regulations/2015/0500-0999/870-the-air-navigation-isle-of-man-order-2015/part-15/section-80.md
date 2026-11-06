@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Application and interpretation of Part 15[^key-2904c42d963df9e5378b776b4d97da53]
+## 80. Application and interpretation of Part 15[^c-2904c42d963df9e5378b776b4d97da53]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In this Part—
 
 ## Annotations
 
-[^key-2904c42d963df9e5378b776b4d97da53]: Commencement: [Art. 80](https://www.legislation.gov.uk/uksi/2015/870/article/80) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-2904c42d963df9e5378b776b4d97da53]: Commencement: [Art. 80](https://www.legislation.gov.uk/uksi/2015/870/article/80) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

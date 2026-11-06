@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Monitoring and enforcement of standards[^key-3e2cd1f253df83996c93015804d4fdb1]
+## 10. Monitoring and enforcement of standards[^c-3e2cd1f253df83996c93015804d4fdb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e2cd1f253df83996c93015804d4fdb1]: Commencement: S. 10 in force at 1.1.2019 by [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/d)
+[^c-3e2cd1f253df83996c93015804d4fdb1]: Commencement: S. 10 in force at 1.1.2019 by [S.I. 2018/1330](https://www.legislation.gov.uk/uksi/2018/1330), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/1330/regulation/2/d)

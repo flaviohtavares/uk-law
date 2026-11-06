@@ -31,7 +31,7 @@ summary: ''
 
 FISHERIES
 
-Fisheries (Amendment) Byelaws (Northern Ireland) 2003 (revoked)[^key-03bbd39a48d6925885c826709ffc9372]
+Fisheries (Amendment) Byelaws (Northern Ireland) 2003 (revoked)[^c-03bbd39a48d6925885c826709ffc9372]
 
 Made
 
@@ -41,30 +41,30 @@ Coming into operation
 
 1st June 2003
 
-[^key-03bbd39a48d6925885c826709ffc9372]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03bbd39a48d6925885c826709ffc9372]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-03bbd39a48d6925885c826709ffc9372]
+## 1. Citation and commencement[^c-03bbd39a48d6925885c826709ffc9372]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fisheries Byelaws (Northern Ireland) 1997[^key-03bbd39a48d6925885c826709ffc9372]
+## 2. Amendment of the Fisheries Byelaws (Northern Ireland) 1997[^c-03bbd39a48d6925885c826709ffc9372]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-03bbd39a48d6925885c826709ffc9372]
+## 3. Interpretation[^c-03bbd39a48d6925885c826709ffc9372]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Restriction on the killing of salmon[^key-03bbd39a48d6925885c826709ffc9372]
+## 4. Restriction on the killing of salmon[^c-03bbd39a48d6925885c826709ffc9372]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03bbd39a48d6925885c826709ffc9372]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03bbd39a48d6925885c826709ffc9372]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03bbd39a48d6925885c826709ffc9372]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03bbd39a48d6925885c826709ffc9372]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-03bbd39a48d6925885c826709ffc9372]: Textual amendment: Byelaw revoked (1.1.2004) by [Fisheries Byelaws (Northern Ireland) 2003 (S.R. 2003/525)](https://www.legislation.gov.uk/nisr/2003/525), byelaw. 3 Sch. 7
+[^c-03bbd39a48d6925885c826709ffc9372]: Textual amendment: Byelaw revoked (1.1.2004) by [Fisheries Byelaws (Northern Ireland) 2003 (S.R. 2003/525)](https://www.legislation.gov.uk/nisr/2003/525), byelaw. 3 Sch. 7

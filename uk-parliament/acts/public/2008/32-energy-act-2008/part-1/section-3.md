@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Exception for activities carried on partly on land etc[^key-594e79be1498b17ede6803c44bbc9f1f]
+## 3. Exception for activities carried on partly on land etc[^c-594e79be1498b17ede6803c44bbc9f1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-594e79be1498b17ede6803c44bbc9f1f]: Commencement: S. 3 in force at 13.11.2009 for specified purposes by [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-594e79be1498b17ede6803c44bbc9f1f]: Commencement: S. 3 in force at 13.11.2009 for specified purposes by [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))

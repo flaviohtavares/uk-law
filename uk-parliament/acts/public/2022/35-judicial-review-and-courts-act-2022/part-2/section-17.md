@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Power to make consequential or supplementary provision[^key-137732852eb538802e03e6de4dc57e42]
+## 17. Power to make consequential or supplementary provision[^c-137732852eb538802e03e6de4dc57e42]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-137732852eb538802e03e6de4dc57e42]: Commencement: S. 17 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-137732852eb538802e03e6de4dc57e42]: Commencement: S. 17 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)

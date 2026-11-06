@@ -22,9 +22,9 @@ summary: ''
 
 Regulation 2(5)
 
-**1.**[^key-ba460d1023578c3cb19602c633b54c3f] In regulation 1(2) (interpretation), at the end of the definition of “partner” there shall be added “but in so far as this definition applies to a member of a joint-claim couple, it shall only apply to such a member specified in regulation 3E(2)[^f00038]”.
+**1.**[^c-ba460d1023578c3cb19602c633b54c3f] In regulation 1(2) (interpretation), at the end of the definition of “partner” there shall be added “but in so far as this definition applies to a member of a joint-claim couple, it shall only apply to such a member specified in regulation 3E(2)[^f00038]”.
 
-**2.**[^key-f6daac9f6c8149b101feb00eed0880ab] After regulation 23 (attendance) there shall be inserted the following regulation—
+**2.**[^c-f6daac9f6c8149b101feb00eed0880ab] After regulation 23 (attendance) there shall be inserted the following regulation—
 
 > **23A. Attendance by members of a joint-claim couple**
 >
@@ -32,7 +32,7 @@ Regulation 2(5)
 
 .
 
-**3.**[^key-a9d9e957b62f9bca2a7d850fd4efc4a9] In regulation 24 (provision of information and evidence)—
+**3.**[^c-a9d9e957b62f9bca2a7d850fd4efc4a9] In regulation 24 (provision of information and evidence)—
 
 - (a) after paragraph (1) there shall be inserted the following paragraph—
 
@@ -52,33 +52,33 @@ Regulation 2(5)
   ;
 - (e) in paragraph (7)(*a*)[^f00039], after “a jobseeker’s allowance” there shall be inserted “or, in the case of a joint-claim couple, the entitlement of the couple to a joint-claim jobseeker’s allowance”;
 - (f) in paragraph (8) after “paragraph (1)” there shall be inserted “, (1A)” and after “regulation 23” there shall be inserted “or 23A”;
-- (g)[^key-8dbfd43926f622d0aa516400e16a2d22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-8dbfd43926f622d0aa516400e16a2d22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) in paragraph (10) after “regulation 23” there shall be inserted “or 23A”.
 
-**4.**[^key-51b9dbb5d4173f64859795f60f00d6db] In regulation 25(1) (entitlement ceasing on a failure to comply)—
+**4.**[^c-51b9dbb5d4173f64859795f60f00d6db] In regulation 25(1) (entitlement ceasing on a failure to comply)—
 
-- (a)[^key-edc928b7e0cf68dd8268e3c7ce1ad36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-edc928b7e0cf68dd8268e3c7ce1ad36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-edc928b7e0cf68dd8268e3c7ce1ad36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-edc928b7e0cf68dd8268e3c7ce1ad36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in both sub-paragraphs (*b*) and (*c*) for “the claimant” there shall be substituted “that claimant”.
 
-**5.**[^key-4c756df487e25687e8f6137f13e9d823] In regulation 26 (time at which entitlement is to cease)—
+**5.**[^c-4c756df487e25687e8f6137f13e9d823] In regulation 26 (time at which entitlement is to cease)—
 
 - (a) in paragraph (*a*)[^f00042] for “the claimant” there shall be substituted “that claimant”;
 - (b) after “regulation 23” there shall be inserted “or 23A”.
 
-**6.**[^key-edc928b7e0cf68dd8268e3c7ce1ad36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-edc928b7e0cf68dd8268e3c7ce1ad36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-edc928b7e0cf68dd8268e3c7ce1ad36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-edc928b7e0cf68dd8268e3c7ce1ad36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-edc928b7e0cf68dd8268e3c7ce1ad36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-edc928b7e0cf68dd8268e3c7ce1ad36e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7692c1d34810319bce0af88a9e22d477] In regulation 34 (jobseeker’s agreement treated as having been made), after paragraph (*e*)[^f00043] there shall be added the following paragraph—
+**9.**[^c-7692c1d34810319bce0af88a9e22d477] In regulation 34 (jobseeker’s agreement treated as having been made), after paragraph (*e*)[^f00043] there shall be added the following paragraph—
 
 > - (f) if he is temporarily absent from Northern Ireland in the circumstances prescribed in regulation 50(6B)(*a*) or (*c*), for the period of any such temporary absence.
 
 .
 
-**10.**[^key-92a3af15eb9425a01815fe8135dbaa13] In regulation 46(1) (waiting days)—
+**10.**[^c-92a3af15eb9425a01815fe8135dbaa13] In regulation 46(1) (waiting days)—
 
 - (a) at the end of sub-paragraph (*b*) there shall be inserted “, or”;
 - (b) after sub-paragraph (*b*) there shall be added the following sub-paragraphs—
@@ -89,9 +89,9 @@ Regulation 2(5)
 
   .
 
-**11.**[^key-a5d9069e6b7b1b68a21db8af6dfd0518] In regulation 47 (jobseeking period), at the end of paragraph (2)(*b*) there shall be added “or, where the claimant is a member of a joint-claim couple, a jobseeker’s allowance is payable in accordance with Part IXA (hardship)”.
+**11.**[^c-a5d9069e6b7b1b68a21db8af6dfd0518] In regulation 47 (jobseeking period), at the end of paragraph (2)(*b*) there shall be added “or, where the claimant is a member of a joint-claim couple, a jobseeker’s allowance is payable in accordance with Part IXA (hardship)”.
 
-**12.**[^key-8bced4f1d2013531b5c4f23181c2a1ea] In regulation 49 (persons approaching retirement and the jobseeking period)—
+**12.**[^c-8bced4f1d2013531b5c4f23181c2a1ea] In regulation 49 (persons approaching retirement and the jobseeking period)—
 
 - (a) at the beginning of paragraph (1) there shall be inserted “Subject to paragraph (5),”;
 - (b) after paragraph (4) there shall be added the following paragraph—
@@ -100,7 +100,7 @@ Regulation 2(5)
 
   .
 
-**13.**[^key-979954a1d5de8254ab0ea382ae6788fd] In regulation 50 (persons temporarily absent from Northern Ireland), after paragraph (6) there shall be inserted the following paragraphs—
+**13.**[^c-979954a1d5de8254ab0ea382ae6788fd] In regulation 50 (persons temporarily absent from Northern Ireland), after paragraph (6) there shall be inserted the following paragraphs—
 
 > (6A) A member of a joint-claim couple shall be treated, for the purposes of the Order, as being in Northern Ireland where he is a member of a transitional case couple as defined for the purposes of paragraph 8A(2) of Schedule 1 to the Order[^f00044], and as at the date on which Schedule 7 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 comes into operation—
 >
@@ -119,9 +119,9 @@ Regulation 2(5)
 
 .
 
-**14.**[^key-0168a48223d0b83b46e7acce835b8a1d] In regulation 51 (remunerative work), in both paragraph (1)(*a*) and (2), for “the claimant” there shall be substituted “a claimant”.
+**14.**[^c-0168a48223d0b83b46e7acce835b8a1d] In regulation 51 (remunerative work), in both paragraph (1)(*a*) and (2), for “the claimant” there shall be substituted “a claimant”.
 
-**15.**[^key-bae338ac5de1162e14326d11a5aa89af] In regulation 52 (persons treated as engaged in remunerative work)—
+**15.**[^c-bae338ac5de1162e14326d11a5aa89af] In regulation 52 (persons treated as engaged in remunerative work)—
 
 - (a) in paragraph (2), after “income-based jobseeker’s allowance” in the first place where those words occur there shall be inserted “but not a joint-claim jobseeker’s allowance”;
 - (b) after paragraph (2) there shall be inserted the following paragraph—
@@ -136,7 +136,7 @@ Regulation 2(5)
 
   .
 
-**16.**[^key-1b26652b0b94d3be7bc5485aee95f2d3] After regulation 53(*g*) (persons treated as not engaged in remunerative work), there shall be inserted the following paragraph—
+**16.**[^c-1b26652b0b94d3be7bc5485aee95f2d3] After regulation 53(*g*) (persons treated as not engaged in remunerative work), there shall be inserted the following paragraph—
 
 > - (gg) he is—
 >   - (i) a member of a joint-claim couple;
@@ -147,9 +147,9 @@ Regulation 2(5)
 
 .
 
-**17.**[^key-eb8c611f8324bd638118b38765941f2e] In regulation 55(1)(*a*)[^f00046] (short periods of sickness), after “Article 21(5) or (6)” there shall be inserted “or 22A(2)”.
+**17.**[^c-eb8c611f8324bd638118b38765941f2e] In regulation 55(1)(*a*)[^f00046] (short periods of sickness), after “Article 21(5) or (6)” there shall be inserted “or 22A(2)”.
 
-**18.**[^key-73215320ef7895f2c2fb62270f1693c3] For regulation 58 (young persons to whom Article 5(1)(*f*)(iii) or 5A(1)(*e*)(ii) of the Order applies), there shall be substituted the following regulation—
+**18.**[^c-73215320ef7895f2c2fb62270f1693c3] For regulation 58 (young persons to whom Article 5(1)(*f*)(iii) or 5A(1)(*e*)(ii) of the Order applies), there shall be substituted the following regulation—
 
 > **58. Young persons to whom Article 5(1)(f)(iii) or 5A(1)(e)(ii) of the Order applies**
 >
@@ -157,15 +157,15 @@ Regulation 2(5)
 
 .
 
-**19.**[^key-ba619877f5b07c7ad7dff05a8a8ecad8] In regulation 61 (other young persons in prescribed circumstances)—
+**19.**[^c-ba619877f5b07c7ad7dff05a8a8ecad8] In regulation 61 (other young persons in prescribed circumstances)—
 
 - (a) in paragraph (1)(*d*) and (*e*), after “Article 5(1)(*f*)(ii)” there shall be inserted “or Article 5A(1)(*e*)(i)”;
 - (b) in paragraph (1)(*f*), after “(6)(*c*) or (*d*)” there shall be inserted “or 22A(2)(*b*), (*c*), (*f*) or (*g*)”;
 - (c) in paragraph 2(*c*) , after “regulation 23” there shall be inserted “or 23A”.
 
-**20.**[^key-c22eec1fe2fdc0ab0f938e1f91b230cb] In regulation 62 (registration), after “Article 5(1)(*f*)(ii) or (iii)” there shall be inserted “or Article 5A(1)(*e*)(i) or (ii)”.
+**20.**[^c-c22eec1fe2fdc0ab0f938e1f91b230cb] In regulation 62 (registration), after “Article 5(1)(*f*)(ii) or (iii)” there shall be inserted “or Article 5A(1)(*e*)(i) or (ii)”.
 
-**21.**[^key-4399c8dd1daae67bef20fa6cb55bde8e] In regulation 63 (reduced payments under Article 19 of the Order)—
+**21.**[^c-4399c8dd1daae67bef20fa6cb55bde8e] In regulation 63 (reduced payments under Article 19 of the Order)—
 
 - (a) in paragraph (1)[^f00047]—
   - (i) in sub-paragraph (*b*)—
@@ -175,9 +175,9 @@ Regulation 2(5)
   - (iii) in sub-paragraph (*d*) after “Article 21(5)(*b*)(iii)”, in both places where those words occur, there shall be inserted “or 22A(2)(*b*)(iii)”;
 - (b) in paragraph (4) after “Article 21(5)(*b*)(iii)” there shall be inserted “or 22A(2)(*b*)(iii)” and after “Article 21(5)(*c*)” there shall be inserted “or 22A(2)(*c*)”.
 
-**22.**[^key-a75fbd28e63a8f4a2c34144dac0bd1be] In regulation 66(1) (the jobseeker’s agreement) after “Article 21” there shall be inserted “or 22A” and after “Articles 21 and 22” there shall be inserted “or 22A and 22B”.
+**22.**[^c-a75fbd28e63a8f4a2c34144dac0bd1be] In regulation 66(1) (the jobseeker’s agreement) after “Article 21” there shall be inserted “or 22A” and after “Articles 21 and 22” there shall be inserted “or 22A and 22B”.
 
-**23.**[^key-27af6fef4706442562a746b4728a01f6] In regulation 67 (sanctions)—
+**23.**[^c-27af6fef4706442562a746b4728a01f6] In regulation 67 (sanctions)—
 
 - (a) in paragraph (1)[^f00048]—
   - (i) after “Article 21(5)(*b*)”, in each place where those words occur, there shall be inserted “or Article 22A(2)(*b*)”;
@@ -190,9 +190,9 @@ Regulation 2(5)
   - (i) after “Article 21(5)(*b*)(iii)” there shall be inserted “or 22A(2)(*b*)(iii)”;
   - (ii) after “Article 21(5)(*c*)” there shall be inserted “or 22A(2)(*c*)”.
 
-**24.**[^key-61d247a8eee43e383d986c5a24297ae9] In regulation 68(1) and (2)[^f00049] (reduced amount of allowance) after “a couple” there shall be inserted “(including a joint-claim couple)” and after “(6)(*c*) or (*d*)” there shall be inserted “or within Article 22A(2)(*a*) to (*c*), (*f*) or (*g*)”.
+**24.**[^c-61d247a8eee43e383d986c5a24297ae9] In regulation 68(1) and (2)[^f00049] (reduced amount of allowance) after “a couple” there shall be inserted “(including a joint-claim couple)” and after “(6)(*c*) or (*d*)” there shall be inserted “or within Article 22A(2)(*a*) to (*c*), (*f*) or (*g*)”.
 
-**25.**[^key-9927799832525364c32d2db73b79342f] In regulation 69[^f00050] (prescribed period for the purposes of Article 21(2) and 22A(3))—
+**25.**[^c-9927799832525364c32d2db73b79342f] In regulation 69[^f00050] (prescribed period for the purposes of Article 21(2) and 22A(3))—
 
 - (a) in paragraph (1)—
   - (i) for “Article 21(2)” there shall be substituted “Articles 21(2) and 22A(3)”;
@@ -201,12 +201,12 @@ Regulation 2(5)
 - (c) in paragraph (3) after “Article 21” there shall be inserted “or 22A”;
 - (d) in paragraph (4)(*c*) after “Article 21(5) or (6)” there shall be inserted “or 22A(2)”.
 
-**26.**[^key-c464f681efa58043e09f3aed4042cca1] In regulation 70[^f00051] (sanctions of discretionary length)—
+**26.**[^c-c464f681efa58043e09f3aed4042cca1] In regulation 70[^f00051] (sanctions of discretionary length)—
 
 - (a) after “Article 21(3)” there shall be inserted “or 22A(4)”;
 - (b) after “Article 21(6)(*a*)” there shall be inserted “or 22A(2)(*d*)”.
 
-**27.**[^key-002379b8d9103f77995f6c1d4f126f7a] In regulation 72 (good cause for the purposes of Article 21(5)(*a*) and (6)(*c*) and (*d*) and Article 22A(2)(*a*), (*f*) and (*g*) of the Order)—
+**27.**[^c-002379b8d9103f77995f6c1d4f126f7a] In regulation 72 (good cause for the purposes of Article 21(5)(*a*) and (6)(*c*) and (*d*) and Article 22A(2)(*a*), (*f*) and (*g*) of the Order)—
 
 - (a) at the end of paragraph (1) there shall be inserted “and Article 22A (denial or reduction of joint-claim jobseeker’s allowance)”;
 - (b) in paragraphs (2)[^f00052], (4), (5) and (6) after “for the purposes of Article 21(5)(*a*) and (6)(*c*) and (*d*)” there shall be inserted “and Article 22A(2)(*a*), (*f*) and (*g*)”;
@@ -214,21 +214,21 @@ Regulation 2(5)
 - (d) in paragraph (8) after “for the purposes of Article 21(6)(*d*)” there shall be inserted “and Article 22A(2)(*g*)”;
 - (e) in paragraph (9)(*b*)(ii) after “Article 21(6)(*d*)” there shall be inserted “or Article 22A(2)(*g*)”.
 
-**28.**[^key-afed22a5c7cb38eeb66ea876d816fd00] In regulation 73 (good cause for the purposes of Article 21(5)(*b*) and Article 22A(2)(*b*) of the Order)—
+**28.**[^c-afed22a5c7cb38eeb66ea876d816fd00] In regulation 73 (good cause for the purposes of Article 21(5)(*b*) and Article 22A(2)(*b*) of the Order)—
 
 - (a) at the end of paragraph (1) there shall be inserted “and Article 22A (denial or reduction of joint-claim jobseeker’s allowance)”;
 - (b) in paragraphs (2), (2A) and (2B)[^f00055] after “for the purposes of Article 21(5)(*b*)”, in each place where those words occur, there shall be inserted “and Article 22A(2)(*b*)”;
 - (c) in paragraph (2A)(*b*) after “in Article 21(5)(*b*)” there shall be inserted “or 22A(2)(*b*)”;
 - (d) in paragraph (2B)(*b*) after “for the purposes of Article 21(5)(*b*)(iii) and (iv)” there shall be inserted “and Article 22A(2)(*b*)(iii) and (iv)”.
 
-**29.**[^key-4e1f700b417596d2dcd4060a6143a8cb] In regulation 74 (person of prescribed description for the purpose of Article 22(3) and 22B(3) of the Order)—
+**29.**[^c-4e1f700b417596d2dcd4060a6143a8cb] In regulation 74 (person of prescribed description for the purpose of Article 22(3) and 22B(3) of the Order)—
 
 - (a) in paragraph (1)—
   - (i) after “Article 22(3)” there shall be inserted “and Article 22B(3)”;
   - (ii) after “Article 21(6)(*b*) or (*d*)” there shall be inserted “or 22A(2)(*e*) or (*g*)”;
 - (b) in paragraph (4), after “Article 22(3)” there shall be inserted “and Article 22B(3)”.
 
-**30.**[^key-11786ec678b54c7cd44c2ab5eab31655] In regulation 74A[^f00056] (persons in receipt of a training allowance)—
+**30.**[^c-11786ec678b54c7cd44c2ab5eab31655] In regulation 74A[^f00056] (persons in receipt of a training allowance)—
 
 - (a) in paragraph (1) after “a claimant” there shall be inserted “other than a member of a joint-claim couple”;
 - (b) after paragraph (2) there shall be inserted the following paragraphs—
@@ -239,7 +239,7 @@ Regulation 2(5)
 
   .
 
-**31.**[^key-63a31173dc46e30a631b6964104b9dc6] After regulation 74A there shall be inserted the following regulation—
+**31.**[^c-63a31173dc46e30a631b6964104b9dc6] After regulation 74A there shall be inserted the following regulation—
 
 > **74B. Reduced allowance where one member of a joint-claim couple is subject to a sanction**
 >
@@ -255,7 +255,7 @@ Regulation 2(5)
 
 .
 
-**32.**[^key-201f132bd08e209d482b1ca0243a53dc] In regulation 75[^f00058] (interpretation)—
+**32.**[^c-201f132bd08e209d482b1ca0243a53dc] In regulation 75[^f00058] (interpretation)—
 
 - (a) in paragraph (1) after “is not payable)” there shall be inserted “, Article 22A of the Order (denial or reduction of joint-claim jobseeker’s allowance)”;
 - (b) in paragraph (1)(*b*)(iii) after “(iv) and (*c*)” there shall be inserted “and Article 22A(2)(*b*)(iii) and (iv) and Article 22A(2)(*c*)”;
@@ -263,7 +263,7 @@ Regulation 2(5)
 - (d) in paragraph (3) after “Article 21(2) of the Order” there shall be inserted “, Article 22A(3) of the Order”;
 - (e) in paragraph (4) after “paragraph (9)” there shall be inserted “in Article 22A of the Order”.
 
-**33.**[^key-c9c3d685b74280cc04d2de7d81fa1566] In regulation 78 (circumstances in which a person is to be treated as being or not being a member of the household)—
+**33.**[^c-c9c3d685b74280cc04d2de7d81fa1566] In regulation 78 (circumstances in which a person is to be treated as being or not being a member of the household)—
 
 - (a) after paragraph (1) there shall be inserted the following paragraph—
 
@@ -275,7 +275,7 @@ Regulation 2(5)
   - (i) for “Paragraph (1)” there shall be substituted “Paragraphs (1) and (1A)”;
   - (ii) in sub-paragraph (*c*), for “the claimant” there shall be substituted “a claimant”.
 
-**34.**[^key-35ff771c9166a0400f0e2c99373e47fb] For regulation 82 (income-based jobseeker’s allowance) there shall be substituted the following regulation—
+**34.**[^c-35ff771c9166a0400f0e2c99373e47fb] For regulation 82 (income-based jobseeker’s allowance) there shall be substituted the following regulation—
 
 > **82. Income-based jobseeker’s allowance**
 >
@@ -285,7 +285,7 @@ Regulation 2(5)
 
 .
 
-**35.**[^key-b3b5d10ba51c38f91918c82882852651] After regulation 86 there shall be inserted the following regulations—
+**35.**[^c-b3b5d10ba51c38f91918c82882852651] After regulation 86 there shall be inserted the following regulations—
 
 > **86A. Applicable amounts for joint-claim couples**
 >
@@ -326,9 +326,9 @@ Regulation 2(5)
 >
 > (4) Regulation 86(5) shall have effect for the purposes of this regulation as if for “a person resident in those premises shall be determined under Schedule 4” there were substituted “a joint-claim couple where either or both members of the couple are resident in those premises shall be determined under Schedule 3A.”.
 
-**36.**[^key-66af7ad9e0acb623b565a31114f4df61] In regulation 88(1) (calculation of income and capital of members of a claimant’s family and of a polygamous marriage), for “and to regulation” there shall be substituted “and regulations 88ZA (calculation of income and capital of a joint-claim couple) and”.
+**36.**[^c-66af7ad9e0acb623b565a31114f4df61] In regulation 88(1) (calculation of income and capital of members of a claimant’s family and of a polygamous marriage), for “and to regulation” there shall be substituted “and regulations 88ZA (calculation of income and capital of a joint-claim couple) and”.
 
-**37.**[^key-616f77973683eef6b2c4b29ec67b76d7] After regulation 88 there shall be inserted the following regulation—
+**37.**[^c-616f77973683eef6b2c4b29ec67b76d7] After regulation 88 there shall be inserted the following regulation—
 
 > **88ZA. Calculation of income and capital of a joint-claim couple**
 >
@@ -354,33 +354,33 @@ Regulation 2(5)
 
 .
 
-**38.**[^key-cd87a61ff41a5234430f86831f210b34] In regulation 93(1) (calculation of income) for “Article 5(1)” there shall be substituted “Articles 5(1) (the income-based conditions) and 5A(1) (the conditions for claims by joint-claim couples)”.
+**38.**[^c-cd87a61ff41a5234430f86831f210b34] In regulation 93(1) (calculation of income) for “Article 5(1)” there shall be substituted “Articles 5(1) (the income-based conditions) and 5A(1) (the conditions for claims by joint-claim couples)”.
 
-**39.**[^key-09a446e3c84aeb537d019531e5891372] In regulation 94(2)(*b*)[^f00063] (calculation of earnings derived from employed earner’s employment and income other than earnings), after “Schedule 5” there shall be inserted “and Schedule 5A”.
+**39.**[^c-09a446e3c84aeb537d019531e5891372] In regulation 94(2)(*b*)[^f00063] (calculation of earnings derived from employed earner’s employment and income other than earnings), after “Schedule 5” there shall be inserted “and Schedule 5A”.
 
-**40.**[^key-8a614bc361a6eb9b202d2f82def5b44d] In regulation 95(2)(calculation of earnings of self-employed earners), after “Schedule 5” there shall be inserted “and Schedule 5A”.
+**40.**[^c-8a614bc361a6eb9b202d2f82def5b44d] In regulation 95(2)(calculation of earnings of self-employed earners), after “Schedule 5” there shall be inserted “and Schedule 5A”.
 
-**41.**[^key-d94a15d5a5181867c6bda7f91f5c3e6c] In regulation 102C[^f00064] (calculation of income of participants in the self-employment route of the Employment Option of the New Deal)—
+**41.**[^c-d94a15d5a5181867c6bda7f91f5c3e6c] In regulation 102C[^f00064] (calculation of income of participants in the self-employment route of the Employment Option of the New Deal)—
 
 - (a) in paragraph (3)(*a*), after “or his partner” there shall be inserted, “or, in the case of a joint-claim couple, the participant and the other member of the couple of which the participant is a member,”;
 - (b) in paragraph (4), after “Schedule 5” there shall be inserted “or paragraphs 1, 2, 5 and 6 of Schedule 5A”.
 
-**42.**[^key-b6a5b89ce72e1bea168520b4ae3c5fd0] In regulation 105(10)(*a*)(ii)[^f00065] (notional income), for “or 84(1)(*g*)” there shall be substituted “, 84(1)(*g*), 86A(*d*) or 86B(*e*)”.
+**42.**[^c-b6a5b89ce72e1bea168520b4ae3c5fd0] In regulation 105(10)(*a*)(ii)[^f00065] (notional income), for “or 84(1)(*g*)” there shall be substituted “, 84(1)(*g*), 86A(*d*) or 86B(*e*)”.
 
-**43.**[^key-f9dff7edfe4eadaeb00bd278fc6ee6db] In regulation 107[^f00066] (capital limit), after “15(1)” there shall be inserted “and (2A)”.
+**43.**[^c-f9dff7edfe4eadaeb00bd278fc6ee6db] In regulation 107[^f00066] (capital limit), after “15(1)” there shall be inserted “and (2A)”.
 
-**44.**[^key-69b3afbf84efa043af451df9c2e65436] In regulation 113(3)(*a*)(ii)[^f00067] (notional capital), for “or 84(1)(*g*)” there shall be substituted “, 84(1)(*g*), 86A(*d*) or 86B(*e*)”.
+**44.**[^c-69b3afbf84efa043af451df9c2e65436] In regulation 113(3)(*a*)(ii)[^f00067] (notional capital), for “or 84(1)(*g*)” there shall be substituted “, 84(1)(*g*), 86A(*d*) or 86B(*e*)”.
 
-**45.**[^key-1606c1ce7428a317db72559e5f58c009] In regulation 140 (meaning of person in hardship)—
+**45.**[^c-1606c1ce7428a317db72559e5f58c009] In regulation 140 (meaning of person in hardship)—
 
 - (a) in paragraph (1)[^f00068], after “applies” there shall be inserted “or a member of a joint-claim couple and regulation 3E does not apply”;
 - (b) in paragraph (2)[^f00069], after “applies” there shall be inserted “or where the person in hardship is a member of a joint-claim couple and regulation 3E does not apply”.
 
-**46.**[^key-e9f60929ad5035c3a1a56d47a584343a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-e9f60929ad5035c3a1a56d47a584343a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**47.**[^key-e4ec27b3919b28f2ea783b197549d0c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-e4ec27b3919b28f2ea783b197549d0c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**48.**[^key-8b69791866a6faffd95218730de1ef6b] In regulation 150 (amount of a jobseeker’s allowance payable), after paragraph (1) there shall be inserted the following paragraphs—
+**48.**[^c-8b69791866a6faffd95218730de1ef6b] In regulation 150 (amount of a jobseeker’s allowance payable), after paragraph (1) there shall be inserted the following paragraphs—
 
 > (1A) In relation to a joint-claim couple jointly claiming a joint-claim jobseeker’s allowance, paragraph (1) shall have effect as if the references to the claimant were references to the joint-claim couple.
 >
@@ -388,12 +388,12 @@ Regulation 2(5)
 
 .
 
-**49.**[^key-cabe950a76613432d791eb7f93218d6f] In regulation 151 (amount of a jobseeker’s allowance payable where a person is in a residential care or nursing home)—
+**49.**[^c-cabe950a76613432d791eb7f93218d6f] In regulation 151 (amount of a jobseeker’s allowance payable where a person is in a residential care or nursing home)—
 
 - (a) in paragraph (1), after “the claimant” in each place where those words occur there shall be inserted “or, as the case may be, the joint-claim couple”;
 - (b) in paragraph (2), after “weekly applicable amount” there shall be inserted “or, as the case may be, the weekly applicable amount of the joint-claim couple”.
 
-**50.**[^key-5bdbf29ddee0676e3299cd0440393426] In regulation 152 (relevant week)—
+**50.**[^c-5bdbf29ddee0676e3299cd0440393426] In regulation 152 (relevant week)—
 
 - (a) in paragraph (1)(*c*)—
   - (i) after “Article 21” there shall be inserted “or 22A”;
@@ -405,9 +405,9 @@ Regulation 2(5)
 
   .
 
-**51.**[^key-a4213827423b17623c0f9a64a8982b62] In regulation 153 (modification in the calculation of income), for “or regulation 88(4)” there shall be substituted “, regulation 88(4) or 88ZA(3)”.
+**51.**[^c-a4213827423b17623c0f9a64a8982b62] In regulation 153 (modification in the calculation of income), for “or regulation 88(4)” there shall be substituted “, regulation 88(4) or 88ZA(3)”.
 
-**52.**[^key-30c11dc7b8da599a361bf40ad68fd4c8] Regulation 155 (modification of Article 17(2) of the Order) shall be renumbered regulation 155(1) and—
+**52.**[^c-30c11dc7b8da599a361bf40ad68fd4c8] Regulation 155 (modification of Article 17(2) of the Order) shall be renumbered regulation 155(1) and—
 
 - (a) in the renumbered paragraph (1), after “income-based jobseeker’s allowance” in the first place where those words occur, there shall be inserted “but not a joint-claim jobseeker’s allowance”;
 - (b) after the renumbered paragraph (1) there shall be added the following paragraph—
@@ -420,7 +420,7 @@ Regulation 2(5)
 
   .
 
-**53.**[^key-5e6a00ea4287ac33d7daa8183ed545b2] (1) Schedule 1 (applicable amounts) shall be amended in accordance with paragraphs (2) to (4).
+**53.**[^c-5e6a00ea4287ac33d7daa8183ed545b2] (1) Schedule 1 (applicable amounts) shall be amended in accordance with paragraphs (2) to (4).
 
 (2) In paragraph 1, for “and 84(1)” there shall be substituted “, 84(1), 86A and 86B”.
 
@@ -563,7 +563,7 @@ Regulation 2(5)
 > | - (ii) if no-one is in receipt of such an allowance. | - (ii) £80·40. |
 > | (5) Carer Premium. | (5) £14·15 in respect of each person who satisfied the condition specified in paragraph 20J. |
 
-**54.**[^key-3c22d1640bc00acc2e6d5eb5634f9f1d] (1) Schedule 2 (housing costs) shall be amended in accordance with sub-paragraphs (2) to (8).
+**54.**[^c-3c22d1640bc00acc2e6d5eb5634f9f1d] (1) Schedule 2 (housing costs) shall be amended in accordance with sub-paragraphs (2) to (8).
 
 (2) In paragraph 1A[^f00080] (previous entitlement to income support), after sub-paragraph (1) there shall be inserted the following sub-paragraph—
 
@@ -592,9 +592,9 @@ Regulation 2(5)
 - (d) in sub-paragraph (7)(*b*), after “most favourable to him” there shall be inserted “or, as the case may be, to the joint-claim couple of which he is a member”;
 - (e) in sub-paragraph (8)(ii), for “or 84(1)(*g*)” there shall be substituted “, 84(1)(*g*), 86A(*d*) or 86B(*e*)”.
 
-(5) In paragraph 6 (existing housing costs) after sub-paragraph (3) *(affected by repeal, see note)*[^key-8f7ebbee23a39ecfd39dff9c32837858][^f00082] there shall be added the following sub-paragraph— *(affected by repeal, see note)*[^key-8f7ebbee23a39ecfd39dff9c32837858]
+(5) In paragraph 6 (existing housing costs) after sub-paragraph (3) *(affected by repeal, see note)*[^c-8f7ebbee23a39ecfd39dff9c32837858][^f00082] there shall be added the following sub-paragraph— *(affected by repeal, see note)*[^c-8f7ebbee23a39ecfd39dff9c32837858]
 
-> (4) Where either member of a joint-claim couple ceases to be in receipt of or treated as being in receipt of income support and that couple then become entitled to a joint-claim jobseeker’s allowance in a case to which paragraph 1A(1A) applies, the eligible capital for the time being owing shall be recalculated on each anniversary of the date on which the housing costs were first met for whichever of the benefits concerned either member of the couple was first entitled to. *(affected by repeal, see note)*[^key-8f7ebbee23a39ecfd39dff9c32837858]
+> (4) Where either member of a joint-claim couple ceases to be in receipt of or treated as being in receipt of income support and that couple then become entitled to a joint-claim jobseeker’s allowance in a case to which paragraph 1A(1A) applies, the eligible capital for the time being owing shall be recalculated on each anniversary of the date on which the housing costs were first met for whichever of the benefits concerned either member of the couple was first entitled to. *(affected by repeal, see note)*[^c-8f7ebbee23a39ecfd39dff9c32837858]
 
 .
 
@@ -608,7 +608,7 @@ Regulation 2(5)
 
 (8) In paragraph 13 (linking rule)—
 
-- (a)[^key-e80014a6cb933f35839ab89f0111556c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e80014a6cb933f35839ab89f0111556c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after sub-paragraph (1)(*d*), there shall be inserted the following sub-paragraph—
 
   > - (dd) where the applicable amount of a member of a joint-claim couple was determined in accordance with paragraph 1(1) (single claimant) or (2) (lone parent) of Schedule 1 (applicable amounts) in respect of a past period, provided that the claim was made within 12 weeks of the joint-claimant becoming a member of the joint-claim couple, the joint-claim couple shall be treated as having been in receipt of a jobseeker’s allowance for the same period as that member of the joint-claim couple had been treated, for the purposes of this Schedule, as having been;
@@ -626,7 +626,7 @@ Regulation 2(5)
   - (i) after “or his partner”, wherever those words occur, there shall be inserted “or, where a claimant is a member of a joint-claim couple, the other member of that couple”;
   - (ii) in head (*b*), for “or Article 5(1)(*a*)” there shall be substituted “, 5(1)(*a*) or 5A(1)(*a*)”.
 
-**55.**[^key-6b7fb8119c50014b1481c887d8465f14] After Schedule 3 there shall be inserted the following Schedule—
+**55.**[^c-6b7fb8119c50014b1481c887d8465f14] After Schedule 3 there shall be inserted the following Schedule—
 
 > **SCHEDULE 3A — Applicable Amount of a Joint-claim Couple Where a Member is in a Residential Care or Nursing Home**
 >
@@ -735,7 +735,7 @@ Regulation 2(5)
 
 .
 
-**56.**[^key-42d99ee267d395a8f1bb0e267d5c31be] In Schedule 4 (applicable amounts in special cases)—
+**56.**[^c-42d99ee267d395a8f1bb0e267d5c31be] In Schedule 4 (applicable amounts in special cases)—
 
 - (a) paragraph 10 (couples where one member is absent from the United Kingdom) shall be renumbered paragraph 10(1) and after the renumbered paragraph 10(1) there shall be inserted—
   - (i) the following sub-paragraph in column (1)—
@@ -772,7 +772,7 @@ Regulation 2(5)
 
     .
 
-**57.**[^key-3658a189705eab3c65f7ac6384caec06] After Schedule 4 there shall be inserted the following Schedule—
+**57.**[^c-3658a189705eab3c65f7ac6384caec06] After Schedule 4 there shall be inserted the following Schedule—
 
 > **SCHEDULE 4A — Applicable Amounts of Joint-Claim Couples in Special Cases**
 >
@@ -811,7 +811,7 @@ Regulation 2(5)
 
 .
 
-**58.**[^key-49c44b0220fafda13b7020a730c2ed3e] After Schedule 5 there shall be inserted the following Schedule—
+**58.**[^c-49c44b0220fafda13b7020a730c2ed3e] After Schedule 5 there shall be inserted the following Schedule—
 
 > **SCHEDULE 5A — Sums to be Disregarded in the Calculation of Earnings of Members of Joint-Claim Couples**
 >
@@ -875,81 +875,81 @@ Regulation 2(5)
 
 ## Annotations
 
-[^key-ba460d1023578c3cb19602c633b54c3f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/1) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-ba460d1023578c3cb19602c633b54c3f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/1) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00038]: Footnote: Regulation 3E is inserted by regulation 2(2) of these Regulations
 
-[^key-f6daac9f6c8149b101feb00eed0880ab]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/2) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-f6daac9f6c8149b101feb00eed0880ab]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/2) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-a9d9e957b62f9bca2a7d850fd4efc4a9]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/3) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-a9d9e957b62f9bca2a7d850fd4efc4a9]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/3) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00039]: Footnote: Paragraph (7) was amended by regulation 2(4)(*b*) of [S.R. 2000 No. 37](https://www.legislation.gov.uk/nisr/2000/37)
 
-[^key-8dbfd43926f622d0aa516400e16a2d22]: Textual amendment: [Sch. 2 para. 3(g)](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/3/g) revoked (17.4.2012) by [The Social Security (Suspension of Payment of Benefits and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/140)](https://www.legislation.gov.uk/nisr/2012/140), [regs. 1](https://www.legislation.gov.uk/nisr/2012/140/regulation/1), [6](https://www.legislation.gov.uk/nisr/2012/140/regulation/6)
+[^c-8dbfd43926f622d0aa516400e16a2d22]: Textual amendment: [Sch. 2 para. 3(g)](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/3/g) revoked (17.4.2012) by [The Social Security (Suspension of Payment of Benefits and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/140)](https://www.legislation.gov.uk/nisr/2012/140), [regs. 1](https://www.legislation.gov.uk/nisr/2012/140/regulation/1), [6](https://www.legislation.gov.uk/nisr/2012/140/regulation/6)
 
-[^key-51b9dbb5d4173f64859795f60f00d6db]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/4) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-51b9dbb5d4173f64859795f60f00d6db]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/4) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-edc928b7e0cf68dd8268e3c7ce1ad36e]: Textual amendment: [Sch. 2 para. 4(a), 6, 7, 8](https://www.legislation.gov.uk/nisr/2000/350/schedule/2) revoked (6.3.2012) by [The Jobseeker’s Allowance (Sanctions for Failure to Attend) Regulations (Northern Ireland) 2012 (S.R. 2012/44)](https://www.legislation.gov.uk/nisr/2012/44), [regs. 1](https://www.legislation.gov.uk/nisr/2012/44/regulation/1), [4](https://www.legislation.gov.uk/nisr/2012/44/regulation/4)
+[^c-edc928b7e0cf68dd8268e3c7ce1ad36e]: Textual amendment: [Sch. 2 para. 4(a), 6, 7, 8](https://www.legislation.gov.uk/nisr/2000/350/schedule/2) revoked (6.3.2012) by [The Jobseeker’s Allowance (Sanctions for Failure to Attend) Regulations (Northern Ireland) 2012 (S.R. 2012/44)](https://www.legislation.gov.uk/nisr/2012/44), [regs. 1](https://www.legislation.gov.uk/nisr/2012/44/regulation/1), [4](https://www.legislation.gov.uk/nisr/2012/44/regulation/4)
 
-[^key-4c756df487e25687e8f6137f13e9d823]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/5) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-4c756df487e25687e8f6137f13e9d823]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/5) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00042]: Footnote: Regulation 26 (*a*) was amended by regulation 9 of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
 
-[^key-7692c1d34810319bce0af88a9e22d477]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/9) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-7692c1d34810319bce0af88a9e22d477]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/9) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00043]: Footnote: Paragraph (*e*) was added by regulation 2 of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356)
 
-[^key-92a3af15eb9425a01815fe8135dbaa13]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/10) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-92a3af15eb9425a01815fe8135dbaa13]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/10) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-a5d9069e6b7b1b68a21db8af6dfd0518]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/11) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-a5d9069e6b7b1b68a21db8af6dfd0518]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/11) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-8bced4f1d2013531b5c4f23181c2a1ea]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/12) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-8bced4f1d2013531b5c4f23181c2a1ea]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/12) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-979954a1d5de8254ab0ea382ae6788fd]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/13) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-979954a1d5de8254ab0ea382ae6788fd]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/13) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00044]: Footnote: Paragraph 8A was inserted by paragraph 16 of Schedule 7 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
-[^key-0168a48223d0b83b46e7acce835b8a1d]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/14) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-0168a48223d0b83b46e7acce835b8a1d]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/14) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-bae338ac5de1162e14326d11a5aa89af]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/15) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-bae338ac5de1162e14326d11a5aa89af]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/15) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-1b26652b0b94d3be7bc5485aee95f2d3]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/16) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-1b26652b0b94d3be7bc5485aee95f2d3]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/16) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00045]: Footnote: Regulation 52(2A) is inserted by paragraph 15(*b*) of Schedule 2 to these Regulations
 
-[^key-eb8c611f8324bd638118b38765941f2e]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/17) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-eb8c611f8324bd638118b38765941f2e]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/17) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00046]: Footnote: Regulation 55(1) was amended by regulation 17(2) of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
 
-[^key-73215320ef7895f2c2fb62270f1693c3]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/18) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-73215320ef7895f2c2fb62270f1693c3]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/18) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-ba619877f5b07c7ad7dff05a8a8ecad8]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/19) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-ba619877f5b07c7ad7dff05a8a8ecad8]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/19) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-c22eec1fe2fdc0ab0f938e1f91b230cb]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/20) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-c22eec1fe2fdc0ab0f938e1f91b230cb]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/20) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-4399c8dd1daae67bef20fa6cb55bde8e]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/21) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-4399c8dd1daae67bef20fa6cb55bde8e]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/21) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00047]: Footnote: Paragraph (1) was amended by regulation 5 of [S.R. 1997 No. 165](https://www.legislation.gov.uk/nisr/1997/165)
 
-[^key-a75fbd28e63a8f4a2c34144dac0bd1be]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/22) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-a75fbd28e63a8f4a2c34144dac0bd1be]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/22) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-27af6fef4706442562a746b4728a01f6]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/23) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-27af6fef4706442562a746b4728a01f6]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/23) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00048]: Footnote: Regulation 67(1) was amended by regulation 13 of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
 
-[^key-61d247a8eee43e383d986c5a24297ae9]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/24) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-61d247a8eee43e383d986c5a24297ae9]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/24) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00049]: Footnote: Regulation 68 was amended by regulation 6(2) and (3) of [S.R. 1997 No. 165](https://www.legislation.gov.uk/nisr/1997/165) and Article 9(9) of [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428)
 
-[^key-9927799832525364c32d2db73b79342f]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/25) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-9927799832525364c32d2db73b79342f]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/25) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00050]: Footnote: Regulation 69 was substituted by regulation 2(3) of [S.R. 2000 No. 9](https://www.legislation.gov.uk/nisr/2000/9) and amended by regulation 2(2) of [S.R. 2000 No. 197](https://www.legislation.gov.uk/nisr/2000/197)
 
-[^key-c464f681efa58043e09f3aed4042cca1]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/26) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-c464f681efa58043e09f3aed4042cca1]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/26) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00051]: Footnote: Regulation 70 was amended by regulation 9(3)(*d*) of [S.R. 1999 No. 428 (C. 32)](https://www.legislation.gov.uk/nisr/1999/428)
 
-[^key-002379b8d9103f77995f6c1d4f126f7a]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/27) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-002379b8d9103f77995f6c1d4f126f7a]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/27) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00052]: Footnote: Regulation 72(2) was amended by regulation 6(*a*) of [S.R. 1998 No. 198](https://www.legislation.gov.uk/nisr/1998/198)
 
@@ -957,31 +957,31 @@ Regulation 2(5)
 
 [^f00054]: Footnote: Paragraph (5A) was inserted by regulation 5(4) of [S.R. 1997 No. 130](https://www.legislation.gov.uk/nisr/1997/130)
 
-[^key-afed22a5c7cb38eeb66ea876d816fd00]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/28) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-afed22a5c7cb38eeb66ea876d816fd00]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/28) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00055]: Footnote: Regulation 73(2A) was inserted by regulation 7 of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541) and regulation 73(2B) was inserted by regulation 7(*a*) of [S.R. 1998 No. 198](https://www.legislation.gov.uk/nisr/1998/198)
 
-[^key-4e1f700b417596d2dcd4060a6143a8cb]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/29) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-4e1f700b417596d2dcd4060a6143a8cb]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/29) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-11786ec678b54c7cd44c2ab5eab31655]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/30) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-11786ec678b54c7cd44c2ab5eab31655]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/30) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00056]: Footnote: Regulation 74A was inserted by regulation 6 of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356)
 
-[^key-63a31173dc46e30a631b6964104b9dc6]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/31) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-63a31173dc46e30a631b6964104b9dc6]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/31) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00057]: Footnote: Paragraph (3A) was inserted by paragraph 6(3) of Schedule 7 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
-[^key-201f132bd08e209d482b1ca0243a53dc]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/32) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-201f132bd08e209d482b1ca0243a53dc]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/32) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00058]: Footnote: Regulation 75 was substituted by regulation 8 of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541) and amended by regulation 4(2) of [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182) and regulation 8(*a*), (*b*) and (*c*) of [S.R. 1998 No. 198](https://www.legislation.gov.uk/nisr/1998/198)
 
-[^key-c9c3d685b74280cc04d2de7d81fa1566]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/33) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-c9c3d685b74280cc04d2de7d81fa1566]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/33) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00059]: Footnote: Paragraph (3) was amended by regulation 18 of [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358)
 
-[^key-35ff771c9166a0400f0e2c99373e47fb]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/34) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-35ff771c9166a0400f0e2c99373e47fb]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/34) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-b3b5d10ba51c38f91918c82882852651]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/35) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-b3b5d10ba51c38f91918c82882852651]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/35) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00060]: Footnote: Paragraph 20I is inserted by paragraph 53(4) of Schedule 2 to these Regulations
 
@@ -989,55 +989,55 @@ Regulation 2(5)
 
 [^f00062]: Footnote: Article 5B was inserted by paragraph 5(2) of Schedule 7 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
-[^key-66af7ad9e0acb623b565a31114f4df61]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/36) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-66af7ad9e0acb623b565a31114f4df61]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/36) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-616f77973683eef6b2c4b29ec67b76d7]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/37) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-616f77973683eef6b2c4b29ec67b76d7]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/37) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-cd87a61ff41a5234430f86831f210b34]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/38) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-cd87a61ff41a5234430f86831f210b34]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/38) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-09a446e3c84aeb537d019531e5891372]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/39) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-09a446e3c84aeb537d019531e5891372]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/39) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00063]: Footnote: Regulation 94(2) was amended by regulation 5(2)(*a*) of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22)
 
-[^key-8a614bc361a6eb9b202d2f82def5b44d]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/40) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-8a614bc361a6eb9b202d2f82def5b44d]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/40) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-d94a15d5a5181867c6bda7f91f5c3e6c]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/41) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-d94a15d5a5181867c6bda7f91f5c3e6c]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/41) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00064]: Footnote: Regulation 102C was inserted by regulation 4(4) of [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182)
 
-[^key-b6a5b89ce72e1bea168520b4ae3c5fd0]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/42) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-b6a5b89ce72e1bea168520b4ae3c5fd0]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/42) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00065]: Footnote: Paragraph 10 was amended by regulation 2(1)(*a*) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326) and regulation 2(1)(*b*) of [S.R. 1999 No. 391](https://www.legislation.gov.uk/nisr/1999/391)
 
-[^key-f9dff7edfe4eadaeb00bd278fc6ee6db]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/43) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-f9dff7edfe4eadaeb00bd278fc6ee6db]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/43) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00066]: Footnote: Regulation 107 was substituted by regulation 9 of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356)
 
-[^key-69b3afbf84efa043af451df9c2e65436]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/44) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-69b3afbf84efa043af451df9c2e65436]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/44) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00067]: Footnote: Regulation 113 was amended by regulation 3(1)(*a*) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326) and regulation 2(1)(*b*) of [S.R. 1999 No. 391](https://www.legislation.gov.uk/nisr/1999/391)
 
-[^key-1606c1ce7428a317db72559e5f58c009]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/45) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-1606c1ce7428a317db72559e5f58c009]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/45) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00068]: Footnote: Paragraph (1) was amended by Article 9(5)(i) of [S.R. 1999 No. 428 (C.32)](https://www.legislation.gov.uk/nisr/1999/428)
 
 [^f00069]: Footnote: Paragraph (2) was amended by regulation 11(*a*) of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541) and regulation 9(5)(i) of [S.R. 1999 No. 428 (C.32)](https://www.legislation.gov.uk/nisr/1999/428)
 
-[^key-e9f60929ad5035c3a1a56d47a584343a]: Textual amendment: [Sch. 2 para. 46](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/46) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
+[^c-e9f60929ad5035c3a1a56d47a584343a]: Textual amendment: [Sch. 2 para. 46](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/46) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
 
-[^key-e4ec27b3919b28f2ea783b197549d0c9]: Textual amendment: [Sch. 2 para. 47](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/47) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1)
+[^c-e4ec27b3919b28f2ea783b197549d0c9]: Textual amendment: [Sch. 2 para. 47](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/47) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1)
 
-[^key-8b69791866a6faffd95218730de1ef6b]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/48) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-8b69791866a6faffd95218730de1ef6b]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/48) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-cabe950a76613432d791eb7f93218d6f]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/49) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-cabe950a76613432d791eb7f93218d6f]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/49) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-5bdbf29ddee0676e3299cd0440393426]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/50) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-5bdbf29ddee0676e3299cd0440393426]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/50) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-a4213827423b17623c0f9a64a8982b62]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/51) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-a4213827423b17623c0f9a64a8982b62]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/51) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-30c11dc7b8da599a361bf40ad68fd4c8]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/52) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-30c11dc7b8da599a361bf40ad68fd4c8]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/52) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
-[^key-5e6a00ea4287ac33d7daa8183ed545b2]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/53) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-5e6a00ea4287ac33d7daa8183ed545b2]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/53) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00071]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242)
 
@@ -1057,25 +1057,25 @@ Regulation 2(5)
 
 [^f00079]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); relevant amending Regulations are [S.R. 1980 No. 451](https://www.legislation.gov.uk/nisr/1980/451), [S.R. 1983 No. 36](https://www.legislation.gov.uk/nisr/1983/36) and [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317)
 
-[^key-3c22d1640bc00acc2e6d5eb5634f9f1d]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/54) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-3c22d1640bc00acc2e6d5eb5634f9f1d]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/54) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00080]: Footnote: Paragraph 1A was inserted by regulation 5(2) of [S.R. 1997 No. 435](https://www.legislation.gov.uk/nisr/1997/435)
 
 [^f00081]: Footnote: Sub-paragraph (4A) was inserted by regulation 13(2) of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
 
-[^key-8f7ebbee23a39ecfd39dff9c32837858]: Textual amendment: [Sch. 2 para. 54(5)](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/54/5) revoked (1.4.2016) by [The Social Security (Housing Costs Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/44)](https://www.legislation.gov.uk/nisr/2016/44), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/44/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/44/schedule) (with [reg. 6](https://www.legislation.gov.uk/nisr/2016/44/regulation/6))
+[^c-8f7ebbee23a39ecfd39dff9c32837858]: Textual amendment: [Sch. 2 para. 54(5)](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/54/5) revoked (1.4.2016) by [The Social Security (Housing Costs Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/44)](https://www.legislation.gov.uk/nisr/2016/44), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/44/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/44/schedule) (with [reg. 6](https://www.legislation.gov.uk/nisr/2016/44/regulation/6))
 
 [^f00082]: Footnote: Sub-paragraph (3) was added by regulation 5(4) of [S.R. 1997 No. 435](https://www.legislation.gov.uk/nisr/1997/435)
 
 [^f00083]: Footnote: Sub-paragraph (2A) was inserted by regulation 5(6) of [S.R. 1997 No. 435](https://www.legislation.gov.uk/nisr/1997/435)
 
-[^key-e80014a6cb933f35839ab89f0111556c]: Textual amendment: [Sch. 2 para. 54(8)(a)](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/54/8/a) revoked (11.4.2011) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/135)](https://www.legislation.gov.uk/nisr/2011/135), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/135/schedule)
+[^c-e80014a6cb933f35839ab89f0111556c]: Textual amendment: [Sch. 2 para. 54(8)(a)](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/54/8/a) revoked (11.4.2011) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/135)](https://www.legislation.gov.uk/nisr/2011/135), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/135/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2011/135/schedule)
 
 [^f00084]: Footnote: Sub-paragraph (3) was substituted by regulation 7(2) of [S.R. 1997 No. 165](https://www.legislation.gov.uk/nisr/1997/165)
 
 [^f00085]: Footnote: Sub-paragraph (3A) was inserted by regulation 13(3)(*b*) of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541)
 
-[^key-6b7fb8119c50014b1481c887d8465f14]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/55) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-6b7fb8119c50014b1481c887d8465f14]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/55) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00086]: Footnote: S.I. [1988/1990 (N.I. 23)](https://www.legislation.gov.uk/nisi/1988/1990)
 
@@ -1083,11 +1083,11 @@ Regulation 2(5)
 
 [^f00088]: Footnote: [1975 c. 15](https://www.legislation.gov.uk/ukpga/1975/15)
 
-[^key-42d99ee267d395a8f1bb0e267d5c31be]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/56) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-42d99ee267d395a8f1bb0e267d5c31be]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/56) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00089]: Footnote: Regulation 3E is inserted by regulation 2(2) of these Regulations
 
-[^key-3658a189705eab3c65f7ac6384caec06]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/57) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-3658a189705eab3c65f7ac6384caec06]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/57) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00090]: Footnote: [1945 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1945/6); sections 2 and 3 were amended by section 1 of the Disabled Persons (Employment) Act (Northern Ireland) [1960 (c. 4 (N.I.))](https://www.legislation.gov.uk/apni/1960/4) and Schedule 18 to the Education and Libraries (Northern Ireland) Order 1986 (S.I. [1986/594 (N. I. 3)](https://www.legislation.gov.uk/nisi/1986/594))
 
@@ -1095,7 +1095,7 @@ Regulation 2(5)
 
 [^f00092]: Footnote: Regulation 86B is inserted by paragraph 35 of Schedule 2 to these Regulations
 
-[^key-49c44b0220fafda13b7020a730c2ed3e]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/58) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-49c44b0220fafda13b7020a730c2ed3e]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/nisr/2000/350/schedule/2/paragraph/58) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00093]: Footnote: [1945 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1945/6); sections 2 and 3 were amended by section 1 of the Disabled Persons (Employment) Act (Northern Ireland) [1960 (c. 4 (N.I.))](https://www.legislation.gov.uk/apni/1960/4) and Schedule 18 to the Education and Libraries (Northern Ireland) Order 1986 (S.I. [1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594))
 

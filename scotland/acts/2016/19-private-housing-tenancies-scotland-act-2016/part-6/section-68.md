@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Other family member's entitlement to inherit[^key-ae109e39171beb126d3e44ab839591c0]
+## 68. Other family member's entitlement to inherit[^c-ae109e39171beb126d3e44ab839591c0]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ any member of the tenant's family who meets the conditions set out in subsection
 - (a) that the family member is at least 16 years of age at the time of the tenant's death, and
 - (b) that the family member—
   - (i) is occupying the let property as the family member's only or principal home at the time of the tenant's death, and
-  - (ii) has done so for a continuous period of at least 6[^key-0c2686023d1dcd21f9328c4b6fe4d462] months ending with the tenant's death.
+  - (ii) has done so for a continuous period of at least 6[^c-0c2686023d1dcd21f9328c4b6fe4d462] months ending with the tenant's death.
 
 (3) In determining whether the condition set out in subsection (2)(b)(ii) is met, no account is to be taken of any time during which the family member was occupying the let property if and so far as it pre-dates the tenant telling the landlord, in writing, that the let property was being occupied as the family member's only or principal home.
 
@@ -41,6 +41,6 @@ any member of the tenant's family who meets the conditions set out in subsection
 
 ## Annotations
 
-[^key-ae109e39171beb126d3e44ab839591c0]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2016/19/section/68) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-ae109e39171beb126d3e44ab839591c0]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2016/19/section/68) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-0c2686023d1dcd21f9328c4b6fe4d462]: Textual amendment: Word in [s. 68(2)(b)(ii)](https://www.legislation.gov.uk/asp/2016/19/section/68/2/b/ii) substituted (6.10.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 48(3)](https://www.legislation.gov.uk/asp/2025/13/section/48/3), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/3)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/3)
+[^c-0c2686023d1dcd21f9328c4b6fe4d462]: Textual amendment: Word in [s. 68(2)(b)(ii)](https://www.legislation.gov.uk/asp/2016/19/section/68/2/b/ii) substituted (6.10.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 48(3)](https://www.legislation.gov.uk/asp/2025/13/section/48/3), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/3)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/3)

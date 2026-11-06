@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Enforcement powers in relation to ships: Northern Ireland[^key-6a3f2d79a8aa850268ce6dd28eac68b6]
+## 37. Enforcement powers in relation to ships: Northern Ireland[^c-6a3f2d79a8aa850268ce6dd28eac68b6]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a3f2d79a8aa850268ce6dd28eac68b6]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2015/30/section/37) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/c)
+[^c-6a3f2d79a8aa850268ce6dd28eac68b6]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2015/30/section/37) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/c)

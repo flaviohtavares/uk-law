@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Power to refuse to consider application made after issue of enforcement notice[^key-41244d9859f1c8e883c0745c72ab96a7]
+## 71. Power to refuse to consider application made after issue of enforcement notice[^c-41244d9859f1c8e883c0745c72ab96a7]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ A planning authority may refuse to consider an application for planning permissi
 
 ## Annotations
 
-[^key-41244d9859f1c8e883c0745c72ab96a7]: Commencement: S. 71 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-41244d9859f1c8e883c0745c72ab96a7]: Commencement: S. 71 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

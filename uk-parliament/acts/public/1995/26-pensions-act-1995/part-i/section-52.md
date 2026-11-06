@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Restriction on increase where member is under 55.[^key-996bcc38b1c138bbe64ae86af0e1a863][^key-f191ea979d8c2be8dcdfd8160e0820e3]
+## 52. Restriction on increase where member is under 55.[^c-996bcc38b1c138bbe64ae86af0e1a863][^c-f191ea979d8c2be8dcdfd8160e0820e3]
 
 *Extent: E+W+S*
 
@@ -43,6 +43,6 @@ his pension shall then become payable at the annual rate at which it would have 
 
 ## Annotations
 
-[^key-996bcc38b1c138bbe64ae86af0e1a863]: Commencement: S. 52 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-996bcc38b1c138bbe64ae86af0e1a863]: Commencement: S. 52 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
 
-[^key-f191ea979d8c2be8dcdfd8160e0820e3]: Modification: [Ss. 51-54](https://www.legislation.gov.uk/ukpga/1995/26/section/51) modified (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [14](https://www.legislation.gov.uk/uksi/2005/3381/regulation/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/3381/schedule/2/paragraph/3)
+[^c-f191ea979d8c2be8dcdfd8160e0820e3]: Modification: [Ss. 51-54](https://www.legislation.gov.uk/ukpga/1995/26/section/51) modified (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [14](https://www.legislation.gov.uk/uksi/2005/3381/regulation/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/3381/schedule/2/paragraph/3)

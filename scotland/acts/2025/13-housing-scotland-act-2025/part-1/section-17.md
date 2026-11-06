@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Information holder’s provision of false information[^key-a6b7af6282cee952a1517b5b960a1313]
+## 17. Information holder’s provision of false information[^c-a6b7af6282cee952a1517b5b960a1313]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6b7af6282cee952a1517b5b960a1313]: Commencement: S. 17 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-a6b7af6282cee952a1517b5b960a1313]: Commencement: S. 17 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

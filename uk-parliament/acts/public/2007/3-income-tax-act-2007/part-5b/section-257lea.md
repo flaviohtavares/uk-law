@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257LEA. The no disqualifying arrangements requirement[^key-5fdbacabe68cb69fe82c3ff3f8074d66][^key-aaf10c7dc329529b2ca19087f01e69e7]
+## 257LEA. The no disqualifying arrangements requirement[^c-5fdbacabe68cb69fe82c3ff3f8074d66][^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5fdbacabe68cb69fe82c3ff3f8074d66]: Textual amendment: [S. 257LEA](https://www.legislation.gov.uk/ukpga/2007/3/section/257LEA) inserted (with effect in accordance with Sch. 1 para. 14(3)(4) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/4)
+[^c-5fdbacabe68cb69fe82c3ff3f8074d66]: Textual amendment: [S. 257LEA](https://www.legislation.gov.uk/ukpga/2007/3/section/257LEA) inserted (with effect in accordance with Sch. 1 para. 14(3)(4) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/4)
 
-[^key-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
+[^c-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)

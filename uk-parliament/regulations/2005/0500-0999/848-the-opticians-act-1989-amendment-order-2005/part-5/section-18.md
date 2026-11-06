@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Fitting of contact lenses[^key-5ff5969f5c1373e65dbbdde4d406523e]
+## 18. Fitting of contact lenses[^c-5ff5969f5c1373e65dbbdde4d406523e]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ff5969f5c1373e65dbbdde4d406523e]: Commencement: Art. 18 comes into force in accordance with art. 1(3)-(6)
+[^c-5ff5969f5c1373e65dbbdde4d406523e]: Commencement: Art. 18 comes into force in accordance with art. 1(3)-(6)

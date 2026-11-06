@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Online interface orders[^key-8f8eb1ce86642817e7bb9da38b6985bc][^key-a778f199e4b8883df54527b68504980e]
+## 161. Online interface orders[^c-8f8eb1ce86642817e7bb9da38b6985bc][^c-a778f199e4b8883df54527b68504980e]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f8eb1ce86642817e7bb9da38b6985bc]: Commencement: S. 161 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-8f8eb1ce86642817e7bb9da38b6985bc]: Commencement: S. 161 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-a778f199e4b8883df54527b68504980e]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2024/13/section/161) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-a778f199e4b8883df54527b68504980e]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2024/13/section/161) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

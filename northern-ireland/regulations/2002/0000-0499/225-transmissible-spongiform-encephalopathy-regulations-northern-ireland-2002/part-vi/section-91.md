@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91. Slaughter at other premises[^key-fc7dc424576554a5f7d79c62428fec0b]
+## 91. Slaughter at other premises[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc7dc424576554a5f7d79c62428fec0b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/225) revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/202)](https://www.legislation.gov.uk/nisr/2006/202), [regs. 1](https://www.legislation.gov.uk/nisr/2006/202/regulation/1), [20](https://www.legislation.gov.uk/nisr/2006/202/regulation/20), [Sch. 8](https://www.legislation.gov.uk/nisr/2006/202/schedule/8); No historical revised versions have been created for amendments to this S.R. made prior to it's final revocation. A revised version of how the S.R. stood at its first commmencment is available and to see the document content as it originally stood when it was made, select the "Original (As Made) version from the left-hand menu. For further details of the amendments see the List of All Changes available in "More Resources' above"
+[^c-fc7dc424576554a5f7d79c62428fec0b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/225) revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/202)](https://www.legislation.gov.uk/nisr/2006/202), [regs. 1](https://www.legislation.gov.uk/nisr/2006/202/regulation/1), [20](https://www.legislation.gov.uk/nisr/2006/202/regulation/20), [Sch. 8](https://www.legislation.gov.uk/nisr/2006/202/schedule/8); No historical revised versions have been created for amendments to this S.R. made prior to it's final revocation. A revised version of how the S.R. stood at its first commmencment is available and to see the document content as it originally stood when it was made, select the "Original (As Made) version from the left-hand menu. For further details of the amendments see the List of All Changes available in "More Resources' above"

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Power of Secretary of State to make further provision for purposes of Part 5[^key-b2ada056994bfdf6b0e81eb13a312568]
+## 100. Power of Secretary of State to make further provision for purposes of Part 5[^c-b2ada056994bfdf6b0e81eb13a312568]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ After paragraph (3) of Article 106 of the Companies (No. 2) (Northern Ireland) O
 
 ## Annotations
 
-[^key-b2ada056994bfdf6b0e81eb13a312568]: Commencement: Art. 100 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b2ada056994bfdf6b0e81eb13a312568]: Commencement: Art. 100 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3T. Interpretation[^key-4f59898aacce442b581cb94cd25adffd]
+## 3T. Interpretation[^c-4f59898aacce442b581cb94cd25adffd]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In this Part “**enactment**” includes—
 
 ## Annotations
 
-[^key-4f59898aacce442b581cb94cd25adffd]: Textual amendment: S. 3T and cross-heading inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/32) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(i)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/i)
+[^c-4f59898aacce442b581cb94cd25adffd]: Textual amendment: S. 3T and cross-heading inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/32) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(2)(i)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/2/i)

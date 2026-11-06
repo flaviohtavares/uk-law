@@ -48,11 +48,11 @@ The Secretary of State makes the following Rules in exercise of the powers confe
 
 ## PART 1 — Preliminary Provisions and Delegation
 
-### 1. Citation and commencement[^key-33f4d88b3a267b260ce6f55a60934ce1]
+### 1. Citation and commencement[^c-33f4d88b3a267b260ce6f55a60934ce1]
 
 These Rules may be cited as the Armed Forces (Summary Hearing and Activation of Suspended Sentences of Service Detention) Rules 2009 and shall come into force on 31st October 2009.
 
-### 2. Interpretation[^key-81a5fa11806c1ebea4fc454376d8c9eb]
+### 2. Interpretation[^c-81a5fa11806c1ebea4fc454376d8c9eb]
 
 (1) In these Rules—
 
@@ -79,7 +79,7 @@ These Rules may be cited as the Armed Forces (Summary Hearing and Activation of 
 - (b) service offences of which a person is convicted; and
 - (c) offences in the British Islands of which a person is convicted.
 
-### 3. Delegation and subordinate commanders[^key-cf70a2af5f9313d0ab25274c2e37f49b]
+### 3. Delegation and subordinate commanders[^c-cf70a2af5f9313d0ab25274c2e37f49b]
 
 (1) Subject to paragraphs (3) and (4), a commanding officer may delegate to a subordinate commander his relevant functions in relation to a charge, subject to such conditions as the commanding officer considers appropriate.
 
@@ -123,7 +123,7 @@ the reference in paragraph (7)(b) to rule 12(2) is a reference to that rule as m
 
 ## PART 2 — Summary Hearings
 
-### 4. Application of Part 2[^key-f56496a27a64c803d26cb0b777218bc7]
+### 4. Application of Part 2[^c-f56496a27a64c803d26cb0b777218bc7]
 
 (1) Subject to paragraph (2), this Part applies where a charge brought against a person (“the accused”) is—
 
@@ -132,7 +132,7 @@ the reference in paragraph (7)(b) to rule 12(2) is a reference to that rule as m
 
 (2) If an application made under rule 5(2) in relation to the charge is unsuccessful, these Rules shall cease to apply in relation to the charge.
 
-### 5. Applications to hear charges summarily[^key-e9e6ffed342b731b6e8b04f37368f6ed]
+### 5. Applications to hear charges summarily[^c-e9e6ffed342b731b6e8b04f37368f6ed]
 
 (1) If—
 
@@ -154,13 +154,13 @@ this rule applies.
 
 (4) Where an application under paragraph (2) is granted the commanding officer shall provide the accused with a copy of the notification from higher authority that the application has been granted.
 
-### 6. Applications for extended powers in relation to punishment[^key-ed70c4ed061ddb18ed55934d59f41c30]
+### 6. Applications for extended powers in relation to punishment[^c-ed70c4ed061ddb18ed55934d59f41c30]
 
 (1) If the commanding officer—
 
 - (a) is below the rank of rear admiral, major-general or air vice-marshal,
 - (b) considers that the charge should be dealt with summarily, and
-- (c) considers that his powers of punishment might be insufficient to deal with the accused if the charge is [^key-7115ab22d2760e6259825021b8917210]... proved unless he has extended powers for the purposes of one or more provisions of the Act,
+- (c) considers that his powers of punishment might be insufficient to deal with the accused if the charge is [^c-7115ab22d2760e6259825021b8917210]... proved unless he has extended powers for the purposes of one or more provisions of the Act,
 
 he shall make an application to higher authority for extended powers.
 
@@ -176,7 +176,7 @@ he shall make an application to higher authority for extended powers.
 
 (3) Where an application under paragraph (1) is granted the commanding officer shall provide the accused with a copy of the notification from higher authority that the application has been granted.
 
-### 7. Applications for extended powers in relation to activation orders[^key-0f6ce68435c33b5c5d9d990740809e11]
+### 7. Applications for extended powers in relation to activation orders[^c-0f6ce68435c33b5c5d9d990740809e11]
 
 (1) If the commanding officer—
 
@@ -204,7 +204,7 @@ he shall make an application to higher authority for extended powers for the pur
 
 (3) Where an application under paragraph (1) is granted the commanding officer shall provide the accused with a copy of the notification from higher authority that the application has been granted.
 
-### 8. Preliminary procedures[^key-5c5f8c0efbbafc2eb30fac84b49d82ab]
+### 8. Preliminary procedures[^c-5c5f8c0efbbafc2eb30fac84b49d82ab]
 
 (1) As soon as reasonably practicable, the commanding officer or a person authorised by him shall—
 
@@ -255,7 +255,7 @@ he shall make an application to higher authority for extended powers for the pur
 - (c) where an application under rule 6(1) has been granted, rule 6(3); and
 - (d) where an application under rule 7(1) has been granted, rule 7(3).
 
-### 9. Changing the time fixed for a hearing[^key-f2198123600bca13d3af414f473af167]
+### 9. Changing the time fixed for a hearing[^c-f2198123600bca13d3af414f473af167]
 
 (1) Subject to paragraph (3), at any time before the hearing the commanding officer may fix a different time for the hearing.
 
@@ -273,7 +273,7 @@ the commanding officer shall cancel the time fixed and fix a different time for 
 
 (4) Where the commanding officer fixes a different time for the hearing by virtue of paragraph (2)(b), the time fixed shall be not less than 24 hours after he has complied with rule 10(5).
 
-### 10. Representation[^key-c3ab1f7b5353c04159b968c99f145f6b]
+### 10. Representation[^c-c3ab1f7b5353c04159b968c99f145f6b]
 
 (1) Subject to paragraphs (2) and (3) the accused may nominate a person to represent him at the hearing (the “accused’s assisting officer”).
 
@@ -291,7 +291,7 @@ the commanding officer shall cancel the time fixed and fix a different time for 
 
 (6) Where a person consents to act as an accused’s assisting officer he may, on behalf of the accused, exercise any right of the accused to question witnesses or make submissions by virtue of this Part.
 
-### 11. Co-accused and multiple charges[^key-d41d29dc1d2e3554af0da0b498b84f08]
+### 11. Co-accused and multiple charges[^c-d41d29dc1d2e3554af0da0b498b84f08]
 
 (1) The commanding officer may at a single hearing hear—
 
@@ -303,7 +303,7 @@ the commanding officer shall cancel the time fixed and fix a different time for 
 - (a) all charges which are founded on the same facts; and
 - (b) all charges in respect of offences which form, or are part of, a series of offences of the same or a similar character.
 
-### 11A. Interpretation, translation and communication through an intermediary[^key-6c17b60e5984e5b9ff1e7c9e3734203e]
+### 11A. Interpretation, translation and communication through an intermediary[^c-6c17b60e5984e5b9ff1e7c9e3734203e]
 
 (1) This rule applies unless the commanding officer is satisfied that the accused does not need interpretation.
 
@@ -329,7 +329,7 @@ the commanding officer shall cancel the time fixed and fix a different time for 
 
 and references to interpretation shall be construed accordingly.
 
-### 12. Election and starting a summary hearing[^key-6f7d91e1afb2aee76040fd64854a1402]
+### 12. Election and starting a summary hearing[^c-6f7d91e1afb2aee76040fd64854a1402]
 
 (1) Before starting the hearing the commanding officer shall—
 
@@ -359,7 +359,7 @@ the commanding officer shall proceed to hear the evidence and rule 13 shall appl
 
 (5) Where the accused neither admits nor denies a charge the commanding officer shall proceed as if the accused had denied that charge.
 
-### 13. Order of evidence[^key-e218bbe99ddb817873343fb10863d35f]
+### 13. Order of evidence[^c-e218bbe99ddb817873343fb10863d35f]
 
 (1) Subject to paragraph (2), evidence at a hearing shall be heard in the following order—
 
@@ -370,7 +370,7 @@ the commanding officer shall proceed to hear the evidence and rule 13 shall appl
 
 (2) Where the commanding officer proceeds with a hearing after a charge has been amended, substituted or added, he may determine the order in which evidence is heard.
 
-### 14. Oaths and affirmations[^key-ab22f5db95ed4681d27283d25a99dd39]
+### 14. Oaths and affirmations[^c-ab22f5db95ed4681d27283d25a99dd39]
 
 (1) No witness shall give evidence orally under any provision of these Rules unless an oath has first been administered to him.
 
@@ -380,7 +380,7 @@ the commanding officer shall proceed to hear the evidence and rule 13 shall appl
 
 (4) Where section 1 or 6 of that Act applies by virtue of this rule, the reference in that section to the words of the oath prescribed by law is to be read as a reference to the following words: “… the evidence I shall give shall be the truth, the whole truth, and nothing but the truth”.
 
-### 15. Evidence adduced by the commanding officer[^key-b8f1956c03c481686e84ab3f296ad790]
+### 15. Evidence adduced by the commanding officer[^c-b8f1956c03c481686e84ab3f296ad790]
 
 (1) Subject to paragraph (2), the commanding officer may not adduce the evidence of a witness unless—
 
@@ -402,7 +402,7 @@ the commanding officer may adduce the evidence of a witness who can give evidenc
 - (c) the commanding officer shall give the accused an opportunity to question the witness;
 - (d) the commanding officer may question the witness after the accused has had the opportunity to do so.
 
-### 15A. Offences under sections 20(1)(a) and 20A of the Act: use of specimens[^key-3652a184b7ac83b239444dd038020636]
+### 15A. Offences under sections 20(1)(a) and 20A of the Act: use of specimens[^c-3652a184b7ac83b239444dd038020636]
 
 (1) This rule and rule 15B apply to the hearing of a charge of an offence under—
 
@@ -456,7 +456,7 @@ the commanding officer may adduce the evidence of a witness who can give evidenc
 - (a) any person possessing the qualifications prescribed by regulations made under section 27 of the Food Safety Act 1990 as qualifying persons for appointment as public analysts under that Act; and
 - (b) any other person authorised by the Secretary of State to make analyses for the purposes of section 16 of the Road Traffic Offenders Act 1988 or this rule.
 
-### 16. Evidence given by the accused[^key-28d7dec1095fd00dc73da21d0a2e4157]
+### 16. Evidence given by the accused[^c-28d7dec1095fd00dc73da21d0a2e4157]
 
 (1) The accused may give evidence but shall not be compelled to do so.
 
@@ -464,7 +464,7 @@ the commanding officer may adduce the evidence of a witness who can give evidenc
 
 (3) If the accused gives evidence in writing his evidence shall be read to the commanding officer by the accused or his accused’s assisting officer.
 
-### 17. Evidence adduced by the accused[^key-a3d6de2cc35e34c4a94f83b7b82a3b67]
+### 17. Evidence adduced by the accused[^c-a3d6de2cc35e34c4a94f83b7b82a3b67]
 
 (1) Where the time fixed for the hearing is 48 hours or more after the commanding officer has complied with rule 8(1) the accused may not adduce the evidence of a witness unless—
 
@@ -480,17 +480,17 @@ the commanding officer may adduce the evidence of a witness who can give evidenc
 - (c) the commanding officer shall give the accused an opportunity to question the witness; and
 - (d) the commanding officer may question the witness after the accused has had the opportunity to do so.
 
-### 18. Further questioning of witnesses[^key-f24a893e9aa402a8213a616b115cfb79]
+### 18. Further questioning of witnesses[^c-f24a893e9aa402a8213a616b115cfb79]
 
 (1) Where he considers that it would be in the interests of fairness to the accused to do so, the commanding officer may at any time before determining whether or not the charge has been proved give the accused a further opportunity to question any witness whose evidence has been adduced.
 
 (2) Where the accused has had an opportunity to question a witness by virtue of paragraph (1), the commanding officer may question the witness.
 
-### 19. Equivocal admissions[^key-f0312f9b1adeb16906286f1fd5257205]
+### 19. Equivocal admissions[^c-f0312f9b1adeb16906286f1fd5257205]
 
 If at any time in the course of the hearing the commanding officer is of the opinion that an assertion of fact made by the accused after admitting the charge would have amounted to a defence to the charge if it had been raised as such and proved, he shall proceed to hear the charge as if the accused had denied it.
 
-### 20. Procedure at the conclusion of the evidence[^key-6db557d93b61a84a5b95ba6402f75d46]
+### 20. Procedure at the conclusion of the evidence[^c-6db557d93b61a84a5b95ba6402f75d46]
 
 (1) At the conclusion of the evidence the accused may address the commanding officer on any matter.
 
@@ -503,7 +503,7 @@ If at any time in the course of the hearing the commanding officer is of the opi
 - (a) which were denied and determined to have been proved;
 - (b) which were admitted but in respect of which evidence was heard by virtue of rule 12(4).
 
-### 21. Determination of facts on admission of all charges[^key-547a45b716e61f093298341c10a9c0dc]
+### 21. Determination of facts on admission of all charges[^c-547a45b716e61f093298341c10a9c0dc]
 
 (1) Where this rule applies—
 
@@ -534,7 +534,7 @@ he shall determine the facts of the case for the purposes of sentencing and rule
 - (b) the commanding officer shall give the accused an opportunity to question the witness; and
 - (c) the commanding officer may question the witness after the accused has had the opportunity to do so.
 
-### 22. Sentencing[^key-935e0a40a4ebeb0baf4770bb615f1ad8]
+### 22. Sentencing[^c-935e0a40a4ebeb0baf4770bb615f1ad8]
 
 (1) Where this rule applies the commanding officer shall give the accused an opportunity to—
 
@@ -560,7 +560,7 @@ he shall determine the facts of the case for the purposes of sentencing and rule
   - (ii) his right to seek independent legal advice on whether to exercise his right of appeal; and
   - (iii) if service detention has been awarded, his right to make an election under whichever of sections 290(2) and 291(2) of the Act applies.
 
-### 23. Activation of suspended sentences of service detention[^key-26bfe5f728105ac670bab406f15c83be]
+### 23. Activation of suspended sentences of service detention[^c-26bfe5f728105ac670bab406f15c83be]
 
 (1) This rule applies where the commanding officer records a finding that a charge has been proved, and the offence was committed during the operational period of a suspended sentence of service detention passed on the accused by an officer or the Summary Appeal Court.
 
@@ -595,14 +595,14 @@ he shall determine the facts of the case for the purposes of sentencing and rule
 - (b) remind the accused of his right of appeal under section 141 of the Act; and
 - (c) remind the accused of his right to make an election under whichever of sections 290(2) and 291(2) of the Act, as modified by section 292, applies.
 
-### 24. Adjournments[^key-a9eba91d94a32e7102ddcb9173e223cb]
+### 24. Adjournments[^c-a9eba91d94a32e7102ddcb9173e223cb]
 
 The commanding officer may adjourn a hearing at any point if he considers that to do so would be—
 
 - (a) in the interests of fairness to the accused; or
 - (b) expedient for any purpose and not unfair to the accused.
 
-### 25. Rectification of errors[^key-4375402f4518d581352dcb4b7b27730d]
+### 25. Rectification of errors[^c-4375402f4518d581352dcb4b7b27730d]
 
 (1) Where—
 
@@ -618,7 +618,7 @@ the commanding officer may if possible rectify the failure unless to do so would
 
 the commanding officer may if possible rectify the failure unless to do so would in his opinion be unfair to the accused.
 
-### 26. Effect of provisions where charges are amended, substituted or added[^key-1b3c5f2b076324245436bbfb6fc48fcb]
+### 26. Effect of provisions where charges are amended, substituted or added[^c-1b3c5f2b076324245436bbfb6fc48fcb]
 
 (1) This rule applies where, after the start of a summary hearing—
 
@@ -647,7 +647,7 @@ the commanding officer may if possible rectify the failure unless to do so would
 - (a) the reference to the time fixed for the hearing has effect as if it were a reference to the time fixed for proceeding with the hearing;
 - (b) the reference to compliance with rule 8(1) means compliance with that rule in relation to all amended, substituted or additional charges.
 
-### 27. Written record[^key-18aeed3119ae1d2b596d786c44af245a]
+### 27. Written record[^c-18aeed3119ae1d2b596d786c44af245a]
 
 (1) The commanding officer shall produce a written record of the hearing containing the following matters—
 
@@ -662,7 +662,7 @@ the commanding officer may if possible rectify the failure unless to do so would
 - (i) any reasons given in accordance with section 252(1)(a) of the Act;
 - (j) the discontinuance, after the start of the hearing, of proceedings on any charge;
 - (k) any referral, after the start of the hearing, of a charge to the Director of Service Prosecutions;
-- (ka)[^key-2cc875dc56a06b9c9d3faa96d53dde8a] the identity of any interpreter;
+- (ka)[^c-2cc875dc56a06b9c9d3faa96d53dde8a] the identity of any interpreter;
 - (kb) any decision on an application under rule 11A(3);
 - (kc) any agreement under rule 11A(3)(b) to do without a written translation of a document or part of a document;
 - (kd) any steps taken under rule 11A(4);
@@ -672,7 +672,7 @@ the commanding officer may if possible rectify the failure unless to do so would
 
 (3) Where a written record has been produced in accordance with paragraph (1) in a case where a charge has been determined to have been proved the commanding officer shall, as soon as reasonably practicable after the hearing, provide the accused with a copy of it.
 
-### 28. Notification to court administration officer[^key-447d179fad83c06f540d89b2be377fdf]
+### 28. Notification to court administration officer[^c-447d179fad83c06f540d89b2be377fdf]
 
 (1) Where the commanding officer records a finding that a charge has been proved, and the offence was committed during the operational period of a relevant sentence passed on the accused by—
 
@@ -690,14 +690,14 @@ the commanding officer shall notify the court administration officer of the find
 
 ## PART 3 — Hearings as Regards the Making of Activation Orders
 
-### 29. Application of Part 3[^key-2d223c07b530775bf1abde3d108ddc1d]
+### 29. Application of Part 3[^c-2d223c07b530775bf1abde3d108ddc1d]
 
 This Part applies where—
 
 - (a) an offender has been convicted of an offence in the British Islands which was committed during the operational period of a suspended sentence of service detention passed on him by an officer or the Summary Appeal Court; and
 - (b) the offender’s commanding officer has decided to hold a hearing as regards the making of an activation order.
 
-### 30. Applications for extended powers where Part 3 applies[^key-fd2cd5522646f93b59f0b202efb9ad65]
+### 30. Applications for extended powers where Part 3 applies[^c-fd2cd5522646f93b59f0b202efb9ad65]
 
 (1) If the commanding officer—
 
@@ -722,7 +722,7 @@ he shall make an application to higher authority for extended powers for those p
 
 (3) Where an application under paragraph (1) is granted the commanding officer shall provide the offender with a copy of the notification from higher authority that the application has been granted.
 
-### 31. Preliminary procedures[^key-13aa2fd2c6f02f1e5b52680116b859ce]
+### 31. Preliminary procedures[^c-13aa2fd2c6f02f1e5b52680116b859ce]
 
 (1) The offender’s commanding officer shall as soon as reasonably practicable—
 
@@ -752,7 +752,7 @@ he shall make an application to higher authority for extended powers for those p
 - (a) paragraph (1); and
 - (b) where an application under rule 30(1) has been granted, rule 30(3).
 
-### 32. Changing the time of a hearing[^key-eebaa1355590838594f0d06ee4703f0d]
+### 32. Changing the time of a hearing[^c-eebaa1355590838594f0d06ee4703f0d]
 
 (1) Subject to paragraph (2)—
 
@@ -767,7 +767,7 @@ he shall make an application to higher authority for extended powers for those p
 
 (3) Where the commanding officer fixes a different time for the hearing by virtue of paragraph (1)(c), the time fixed shall be not less than 24 hours after he has complied with rule 33(5).
 
-### 33. Representation[^key-0b6ac9bc924915ef796ae8d816bb213d]
+### 33. Representation[^c-0b6ac9bc924915ef796ae8d816bb213d]
 
 (1) Subject to paragraphs (2) and (3) the offender may nominate a person to represent him at the hearing (the “offender’s assisting officer”).
 
@@ -785,7 +785,7 @@ he shall make an application to higher authority for extended powers for those p
 
 (6) Where a person consents to act as an offender’s assisting officer he may, on behalf of the offender, exercise any right of the offender to question witnesses or make submissions by virtue of this Part.
 
-### 33A. Interpretation, translation and communication through an intermediary[^key-8d887036c001c55deb85d9bc4c787a87]
+### 33A. Interpretation, translation and communication through an intermediary[^c-8d887036c001c55deb85d9bc4c787a87]
 
 (1) This rule applies unless the commanding officer is satisfied that the offender does not need interpretation.
 
@@ -811,7 +811,7 @@ he shall make an application to higher authority for extended powers for those p
 
 and references to interpretation shall be construed accordingly.
 
-### 34. The hearing[^key-30a1f9441d2c4c1190593970bd8cc513]
+### 34. The hearing[^c-30a1f9441d2c4c1190593970bd8cc513]
 
 (1) At the hearing the commanding officer shall—
 
@@ -851,30 +851,30 @@ and references to interpretation shall be construed accordingly.
 - (b) remind the offender of his right of appeal under section 141 of the Act; and
 - (c) remind the offender of his right to make an election under whichever of sections 290(2) and 291(2) of the Act, as modified by section 292, applies.
 
-### 35. Adjournments[^key-d8bc4cf244adf4f79e5acd62c49b18ca]
+### 35. Adjournments[^c-d8bc4cf244adf4f79e5acd62c49b18ca]
 
 The commanding officer may adjourn a hearing at any point if he considers that to do so would be—
 
 - (a) in the interests of fairness to the offender; or
 - (b) expedient for any purpose and not unfair to the offender.
 
-### 36. Written record[^key-9f23e2644195676e4af9bf30dc8c627c]
+### 36. Written record[^c-9f23e2644195676e4af9bf30dc8c627c]
 
 (1) The commanding officer shall produce a written record of the hearing containing the following matters—
 
 - (a) the name, rank or rate and service number of the offender;
 - (b) the date of the hearing;
 - (c) his decision as to whether to make an activation order;
-- (d) his reasons for his decision; [^key-eb69255ea8c5580afc2ddabc878a9b83]...
-- (e) any order made ;[^key-d65a9dafbd42bf3d592ee777add85b80]
-- (f)[^key-67e776fc9ae0b3e23fd34c57697b7cc3] the identity of any interpreter;
+- (d) his reasons for his decision; [^c-eb69255ea8c5580afc2ddabc878a9b83]...
+- (e) any order made ;[^c-d65a9dafbd42bf3d592ee777add85b80]
+- (f)[^c-67e776fc9ae0b3e23fd34c57697b7cc3] the identity of any interpreter;
 - (g) any decision on an application under rule 33A(3);
 - (h) any agreement under rule 33A(3)(b) to do without a written translation of a document or part of a document; and
 - (i) any steps taken under rule 33A(4).
 
 (2) The commanding officer shall, as soon as reasonably practicable after the hearing, provide the offender with a copy of the written record.
 
-## Part 3A — Variation of punishments and rescission of activation orders[^key-5d1ed5c9f702a6aeb11b930cd11500e1]
+## Part 3A — Variation of punishments and rescission of activation orders[^c-5d1ed5c9f702a6aeb11b930cd11500e1]
 
 ### 36A. Application of Part 3A
 
@@ -977,11 +977,11 @@ In this Part—
 
 ## PART 4 — Supplementary
 
-### 37. Transitional provisions[^key-73a608408f0897b843a5115e81944c88]
+### 37. Transitional provisions[^c-73a608408f0897b843a5115e81944c88]
 
 Schedule 2 shall have effect.
 
-### 38. Transitory provision[^key-32146d78def1687b5dd681f41ce584c0]
+### 38. Transitory provision[^c-32146d78def1687b5dd681f41ce584c0]
 
 Until section 23 of the Constitutional Reform Act 2005[^f00003] comes into force, references in these Rules to the Supreme Court are to be read as references to the House of Lords.
 
@@ -993,7 +993,7 @@ Ministry of Defence
 
 7th May 2009
 
-## SCHEDULE 1 — PUNISHMENTS THAT MAY NOT BE AWARDED BY SUBORDINATE COMMANDERS OF PARTICULAR RANKS[^key-375825c787430286eaad7178cab76102]
+## SCHEDULE 1 — PUNISHMENTS THAT MAY NOT BE AWARDED BY SUBORDINATE COMMANDERS OF PARTICULAR RANKS[^c-375825c787430286eaad7178cab76102]
 
 Rule 3
 
@@ -1023,7 +1023,7 @@ Rule 37
 
 ### PART 1 — General
 
-#### 1. Interpretation[^key-075ad9c9b5c02cc2cd0e873532576be5]
+#### 1. Interpretation[^c-075ad9c9b5c02cc2cd0e873532576be5]
 
 In this Schedule, and in any provision treated by virtue of this Schedule as inserted or substituted in these Rules—
 
@@ -1036,7 +1036,7 @@ In this Schedule, and in any provision treated by virtue of this Schedule as ins
 - “naval suspended sentence” means a sentence of detention under section 43(1)(e) of NDA 1957 which has been suspended under section 90(1) of that Act, including one awarded and suspended after commencement by virtue of article 55 of the Transitional Order (award of SDA sentence where finding of guilt recorded before commencement);
 - “the new provisions” means the Act, the Transitional Order and these Rules.
 
-#### 2. Proven offences[^key-84c1fd5335975be4e72cc3bb722bdf1b]
+#### 2. Proven offences[^c-84c1fd5335975be4e72cc3bb722bdf1b]
 
 In these Rules, references to proven offences include—
 
@@ -1045,18 +1045,18 @@ In these Rules, references to proven offences include—
   - (i) a finding that a charge has been proved has been recorded under section 76B(7) of AA 1955 or AFA 1955; or
   - (ii) a finding of guilt has been recorded under section 52D(7) of NDA 1957.
 
-#### 3. Charges[^key-622e0f7bde7b6f032bbbc0bd1367a6bf]
+#### 3. Charges[^c-622e0f7bde7b6f032bbbc0bd1367a6bf]
 
 In these Rules, references to a charge include—
 
 - (a) a charge which by virtue of article 46 or 54(5) of the Transitional Order is regarded for the purposes of Part 5 of the Act as allocated for summary hearing; and
 - (b) a charge which is so regarded by virtue of having been referred to the accused’s commanding officer under section 125(2)(e) of the Act following initial allocation of the charge (or of a charge for which it was substituted or to which it was added) for Court Martial trial under article 44 or 47(2) of the Transitional Order.
 
-#### 4. Charges which may be heard summarily only with permission or by senior officer[^key-0f6529acc075e046100a19a98bb3b7c5]
+#### 4. Charges which may be heard summarily only with permission or by senior officer[^c-0f6529acc075e046100a19a98bb3b7c5]
 
 In these Rules, references to an offence within section 54(2) of the Act include an offence which by virtue of article 16 of the Transitional Order (SDA civil offences) is treated as such an offence for the purposes of section 54(1).
 
-#### 5. Delegation and subordinate commanders[^key-f8e8b117c5c0db497b05c92db054d4b9]
+#### 5. Delegation and subordinate commanders[^c-f8e8b117c5c0db497b05c92db054d4b9]
 
 (1) A commanding officer shall not make a delegation under rule 3(1) in relation to a charge if a sentence awarded to the accused under AA 1955, AFA 1955 or NDA 1957 (including one awarded after commencement by virtue of article 55 of the Transitional Order) is for the time being suspended, within the meaning given by article 93 of that Order.
 
@@ -1069,7 +1069,7 @@ the officer is to be regarded as having delegated his relevant functions in rela
 
 (3) In this paragraph “relevant function” has the same meaning as in rule 3.
 
-#### 6. Preliminary steps taken before commencement[^key-109acedd1c3c18df9b675d6187e27c53]
+#### 6. Preliminary steps taken before commencement[^c-109acedd1c3c18df9b675d6187e27c53]
 
 Where—
 
@@ -1080,7 +1080,7 @@ the act is to be regarded for the purposes of these Rules as having been done in
 
 ### PART 2 — Activation of naval suspended sentence
 
-#### 7. Approval by higher authority[^key-03b353372deba1c0fa2ea975a7df80e1]
+#### 7. Approval by higher authority[^c-03b353372deba1c0fa2ea975a7df80e1]
 
 A commanding officer may not make an activation order in relation to a naval suspended sentence, or include any provision in such an order by virtue of section 193(4) of the Act, without the written approval of—
 
@@ -1096,7 +1096,7 @@ A commanding officer may not make an activation order in relation to a naval sus
 - (j) United Kingdom Maritime Component Commander Bahrain; or
 - (k) an officer under the command of an officer mentioned in any of sub-paragraphs (a) to (j), to whom that officer has delegated in writing the power to give such approval.
 
-#### 8. Preliminary procedures[^key-d2284e0e1e6e9c2dcd4b7d9743ab50c0]
+#### 8. Preliminary procedures[^c-d2284e0e1e6e9c2dcd4b7d9743ab50c0]
 
 (1) This paragraph applies where, if a commanding officer found a charge proved, he would (subject to paragraph 7) have power to make an activation order in relation to a naval suspended sentence.
 
@@ -1130,14 +1130,14 @@ A commanding officer may not make an activation order in relation to a naval sus
 
 .
 
-#### 9. Activation following finding that a charge has been proved[^key-bebd23741c5a33857244dfd1feec0062]
+#### 9. Activation following finding that a charge has been proved[^c-bebd23741c5a33857244dfd1feec0062]
 
 (1) Paragraphs 10 and 11 apply where a commanding officer—
 
 - (a) records a finding that a charge has been proved; and
 - (b) by virtue of that finding, has power (subject to paragraph 7) to make an activation order in respect of a naval suspended sentence.
 
-**10.**[^key-79fe2a62f3aecdc54617a6d2945fee5b] (1) Rule 23 applies, with the following modifications.
+**10.**[^c-79fe2a62f3aecdc54617a6d2945fee5b] (1) Rule 23 applies, with the following modifications.
 
 (2) In paragraph (4), for “In considering whether to make an activation order and, if such an order is to be made, what its terms should be” substitute “In considering whether to seek approval for the making of an activation order and, if so, on what terms”.
 
@@ -1164,16 +1164,16 @@ A commanding officer may not make an activation order in relation to a naval sus
 >   - (i) give his reasons for his decision to do so; and
 >   - (ii) inform the accused of any reasons given by another officer for that officer’s decision to give or (as the case may be) to withhold such approval.
 
-**11.**[^key-b89f59339e6efd72a1fc06991378d82c] Rule 27(2) is to be read as requiring the written record of the hearing to contain the matters mentioned in rule 23(5) as substituted by paragraph 10(6) above.
+**11.**[^c-b89f59339e6efd72a1fc06991378d82c] Rule 27(2) is to be read as requiring the written record of the hearing to contain the matters mentioned in rule 23(5) as substituted by paragraph 10(6) above.
 
-#### 12. Notification of finding to court administration officer[^key-e8c0bff68fbf4930eb614299756c713c]
+#### 12. Notification of finding to court administration officer[^c-e8c0bff68fbf4930eb614299756c713c]
 
 Rule 28 applies where—
 
 - (a) a commanding officer records a finding that a charge has been proved; and
 - (b) the Court Martial would, by virtue of that finding, have power to issue a summons or warrant under article 96(8) of the Transitional Order (offender subject to naval suspended sentence passed by court-martial).
 
-#### 13. Part 3 hearings[^key-43fc3704170c7c0198c708df7d7a6496]
+#### 13. Part 3 hearings[^c-43fc3704170c7c0198c708df7d7a6496]
 
 Part 3 of these Rules (except rule 30) applies, as modified by paragraphs 14 to 16, where—
 
@@ -1181,7 +1181,7 @@ Part 3 of these Rules (except rule 30) applies, as modified by paragraphs 14 to 
 - (b) by virtue of that conviction, the person’s commanding officer has power (subject to paragraph 7) to make an activation order in respect of a naval suspended sentence; and
 - (c) the commanding officer has decided to hold a hearing as regards the making of an activation order.
 
-**14.**[^key-a46aa14e385eaa6ff1150da1c3efc8a2] (1) Rule 31(1)(b) is modified as follows.
+**14.**[^c-a46aa14e385eaa6ff1150da1c3efc8a2] (1) Rule 31(1)(b) is modified as follows.
 
 (2) If the naval suspended sentence was awarded at a summary trial under NDA 1957, for paragraph (i) substitute—
 
@@ -1209,7 +1209,7 @@ Part 3 of these Rules (except rule 30) applies, as modified by paragraphs 14 to 
 
 .
 
-**15.**[^key-f143f06eb8dc88d32f268a1d297c0185] (1) Rule 34 is modified as follows.
+**15.**[^c-f143f06eb8dc88d32f268a1d297c0185] (1) Rule 34 is modified as follows.
 
 (2) In paragraph (3), for “In considering whether to make an activation order and, if such an order is to be made, what its terms should be” substitute “In considering whether to seek approval for the making of an activation order and, if so, on what terms”.
 
@@ -1236,7 +1236,7 @@ Part 3 of these Rules (except rule 30) applies, as modified by paragraphs 14 to 
 >   - (i) give his reasons for his decision to do so; and
 >   - (ii) inform the offender of any reasons given by another officer for that officer’s decision to give or (as the case may be) to withhold such approval.
 
-**16.**[^key-72a65dfb539ea29b4d67d246883e7f7d] Rule 36(1)(c) and (d) are to be read as requiring the written record of the hearing to contain the matters mentioned in rule 34(4) as substituted by paragraph 15(6) above.
+**16.**[^c-72a65dfb539ea29b4d67d246883e7f7d] Rule 36(1)(c) and (d) are to be read as requiring the written record of the hearing to contain the matters mentioned in rule 34(4) as substituted by paragraph 15(6) above.
 
 EXPLANATORY NOTE
 
@@ -1264,107 +1264,107 @@ Schedule 2 makes transitional provision (see also rule 37).
 
 [^f00001]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-33f4d88b3a267b260ce6f55a60934ce1]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-33f4d88b3a267b260ce6f55a60934ce1]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-81a5fa11806c1ebea4fc454376d8c9eb]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2009/1216/rule/2) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-81a5fa11806c1ebea4fc454376d8c9eb]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2009/1216/rule/2) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-cf70a2af5f9313d0ab25274c2e37f49b]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2009/1216/rule/3) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-cf70a2af5f9313d0ab25274c2e37f49b]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2009/1216/rule/3) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-f56496a27a64c803d26cb0b777218bc7]: Commencement: Rule 4 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-f56496a27a64c803d26cb0b777218bc7]: Commencement: Rule 4 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-e9e6ffed342b731b6e8b04f37368f6ed]: Commencement: Rule 5 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-e9e6ffed342b731b6e8b04f37368f6ed]: Commencement: Rule 5 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-ed70c4ed061ddb18ed55934d59f41c30]: Commencement: Rule 6 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-ed70c4ed061ddb18ed55934d59f41c30]: Commencement: Rule 6 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-7115ab22d2760e6259825021b8917210]: Textual amendment: Word in rule 6(1)(c) omitted (13.11.2023) by virtue of [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1097/rule/15)
+[^c-7115ab22d2760e6259825021b8917210]: Textual amendment: Word in rule 6(1)(c) omitted (13.11.2023) by virtue of [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1097/rule/15)
 
-[^key-0f6ce68435c33b5c5d9d990740809e11]: Commencement: Rule 7 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-0f6ce68435c33b5c5d9d990740809e11]: Commencement: Rule 7 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-5c5f8c0efbbafc2eb30fac84b49d82ab]: Commencement: Rule 8 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-5c5f8c0efbbafc2eb30fac84b49d82ab]: Commencement: Rule 8 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-f2198123600bca13d3af414f473af167]: Commencement: Rule 9 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-f2198123600bca13d3af414f473af167]: Commencement: Rule 9 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-c3ab1f7b5353c04159b968c99f145f6b]: Commencement: Rule 10 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-c3ab1f7b5353c04159b968c99f145f6b]: Commencement: Rule 10 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-d41d29dc1d2e3554af0da0b498b84f08]: Commencement: Rule 11 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-d41d29dc1d2e3554af0da0b498b84f08]: Commencement: Rule 11 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-6c17b60e5984e5b9ff1e7c9e3734203e]: Textual amendment: Rule 11A inserted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [10](https://www.legislation.gov.uk/uksi/2013/2527/article/10)
+[^c-6c17b60e5984e5b9ff1e7c9e3734203e]: Textual amendment: Rule 11A inserted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [10](https://www.legislation.gov.uk/uksi/2013/2527/article/10)
 
-[^key-6f7d91e1afb2aee76040fd64854a1402]: Commencement: Rule 12 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-6f7d91e1afb2aee76040fd64854a1402]: Commencement: Rule 12 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-e218bbe99ddb817873343fb10863d35f]: Commencement: Rule 13 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-e218bbe99ddb817873343fb10863d35f]: Commencement: Rule 13 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-ab22f5db95ed4681d27283d25a99dd39]: Commencement: Rule 14 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-ab22f5db95ed4681d27283d25a99dd39]: Commencement: Rule 14 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
 [^f00002]: Footnote: [1978 c. 19](https://www.legislation.gov.uk/ukpga/1978/19).
 
-[^key-b8f1956c03c481686e84ab3f296ad790]: Commencement: Rule 15 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-b8f1956c03c481686e84ab3f296ad790]: Commencement: Rule 15 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-3652a184b7ac83b239444dd038020636]: Textual amendment: Rules 15A, 15B inserted (1.11.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [11](https://www.legislation.gov.uk/uksi/2013/2527/article/11)
+[^c-3652a184b7ac83b239444dd038020636]: Textual amendment: Rules 15A, 15B inserted (1.11.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [11](https://www.legislation.gov.uk/uksi/2013/2527/article/11)
 
-[^key-28d7dec1095fd00dc73da21d0a2e4157]: Commencement: Rule 16 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-28d7dec1095fd00dc73da21d0a2e4157]: Commencement: Rule 16 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-a3d6de2cc35e34c4a94f83b7b82a3b67]: Commencement: Rule 17 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-a3d6de2cc35e34c4a94f83b7b82a3b67]: Commencement: Rule 17 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-f24a893e9aa402a8213a616b115cfb79]: Commencement: Rule 18 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-f24a893e9aa402a8213a616b115cfb79]: Commencement: Rule 18 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-f0312f9b1adeb16906286f1fd5257205]: Commencement: Rule 19 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-f0312f9b1adeb16906286f1fd5257205]: Commencement: Rule 19 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-6db557d93b61a84a5b95ba6402f75d46]: Commencement: Rule 20 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-6db557d93b61a84a5b95ba6402f75d46]: Commencement: Rule 20 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-547a45b716e61f093298341c10a9c0dc]: Commencement: Rule 21 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-547a45b716e61f093298341c10a9c0dc]: Commencement: Rule 21 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-935e0a40a4ebeb0baf4770bb615f1ad8]: Commencement: Rule 22 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-935e0a40a4ebeb0baf4770bb615f1ad8]: Commencement: Rule 22 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-26bfe5f728105ac670bab406f15c83be]: Commencement: Rule 23 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-26bfe5f728105ac670bab406f15c83be]: Commencement: Rule 23 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-a9eba91d94a32e7102ddcb9173e223cb]: Commencement: Rule 24 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-a9eba91d94a32e7102ddcb9173e223cb]: Commencement: Rule 24 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-4375402f4518d581352dcb4b7b27730d]: Commencement: Rule 25 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-4375402f4518d581352dcb4b7b27730d]: Commencement: Rule 25 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-1b3c5f2b076324245436bbfb6fc48fcb]: Commencement: Rule 26 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-1b3c5f2b076324245436bbfb6fc48fcb]: Commencement: Rule 26 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-18aeed3119ae1d2b596d786c44af245a]: Commencement: Rule 27 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-18aeed3119ae1d2b596d786c44af245a]: Commencement: Rule 27 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-2cc875dc56a06b9c9d3faa96d53dde8a]: Textual amendment: Rule 27(1)(ka)-(kd) inserted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [12](https://www.legislation.gov.uk/uksi/2013/2527/article/12)
+[^c-2cc875dc56a06b9c9d3faa96d53dde8a]: Textual amendment: Rule 27(1)(ka)-(kd) inserted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [12](https://www.legislation.gov.uk/uksi/2013/2527/article/12)
 
-[^key-447d179fad83c06f540d89b2be377fdf]: Commencement: Rule 28 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-447d179fad83c06f540d89b2be377fdf]: Commencement: Rule 28 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-2d223c07b530775bf1abde3d108ddc1d]: Commencement: Rule 29 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-2d223c07b530775bf1abde3d108ddc1d]: Commencement: Rule 29 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-fd2cd5522646f93b59f0b202efb9ad65]: Commencement: Rule 30 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-fd2cd5522646f93b59f0b202efb9ad65]: Commencement: Rule 30 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-13aa2fd2c6f02f1e5b52680116b859ce]: Commencement: Rule 31 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-13aa2fd2c6f02f1e5b52680116b859ce]: Commencement: Rule 31 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-eebaa1355590838594f0d06ee4703f0d]: Commencement: Rule 32 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-eebaa1355590838594f0d06ee4703f0d]: Commencement: Rule 32 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-0b6ac9bc924915ef796ae8d816bb213d]: Commencement: Rule 33 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-0b6ac9bc924915ef796ae8d816bb213d]: Commencement: Rule 33 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-8d887036c001c55deb85d9bc4c787a87]: Textual amendment: Rule 33A inserted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [13](https://www.legislation.gov.uk/uksi/2013/2527/article/13)
+[^c-8d887036c001c55deb85d9bc4c787a87]: Textual amendment: Rule 33A inserted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [13](https://www.legislation.gov.uk/uksi/2013/2527/article/13)
 
-[^key-30a1f9441d2c4c1190593970bd8cc513]: Commencement: Rule 34 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-30a1f9441d2c4c1190593970bd8cc513]: Commencement: Rule 34 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-d8bc4cf244adf4f79e5acd62c49b18ca]: Commencement: Rule 35 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-d8bc4cf244adf4f79e5acd62c49b18ca]: Commencement: Rule 35 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-9f23e2644195676e4af9bf30dc8c627c]: Commencement: Rule 36 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-9f23e2644195676e4af9bf30dc8c627c]: Commencement: Rule 36 in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-eb69255ea8c5580afc2ddabc878a9b83]: Textual amendment: Word in rule 36(1)(d) omitted (27.10.2013) by virtue of [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2013/2527/article/14/a)
+[^c-eb69255ea8c5580afc2ddabc878a9b83]: Textual amendment: Word in rule 36(1)(d) omitted (27.10.2013) by virtue of [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2013/2527/article/14/a)
 
-[^key-d65a9dafbd42bf3d592ee777add85b80]: Textual amendment: Rule 36(1)(e): semi-colon substituted for full stop (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [14(b)(i)](https://www.legislation.gov.uk/uksi/2013/2527/article/14/b/i)
+[^c-d65a9dafbd42bf3d592ee777add85b80]: Textual amendment: Rule 36(1)(e): semi-colon substituted for full stop (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [14(b)(i)](https://www.legislation.gov.uk/uksi/2013/2527/article/14/b/i)
 
-[^key-67e776fc9ae0b3e23fd34c57697b7cc3]: Textual amendment: Rule 36(1)(f)(i) inserted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [14(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2527/article/14/b/ii)
+[^c-67e776fc9ae0b3e23fd34c57697b7cc3]: Textual amendment: Rule 36(1)(f)(i) inserted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [14(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2527/article/14/b/ii)
 
-[^key-5d1ed5c9f702a6aeb11b930cd11500e1]: Textual amendment: Pt. 3A inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [16](https://www.legislation.gov.uk/uksi/2023/1097/rule/16)
+[^c-5d1ed5c9f702a6aeb11b930cd11500e1]: Textual amendment: Pt. 3A inserted (13.11.2023) by [The Armed Forces (Amendment of Court Rules) Rules 2023 (S.I. 2023/1097)](https://www.legislation.gov.uk/uksi/2023/1097), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/1097/rule/1/2), [16](https://www.legislation.gov.uk/uksi/2023/1097/rule/16)
 
-[^key-73a608408f0897b843a5115e81944c88]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2009/1216/rule/37) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-73a608408f0897b843a5115e81944c88]: Commencement: [Rule 37](https://www.legislation.gov.uk/uksi/2009/1216/rule/37) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-32146d78def1687b5dd681f41ce584c0]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2009/1216/rule/38) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-32146d78def1687b5dd681f41ce584c0]: Commencement: [Rule 38](https://www.legislation.gov.uk/uksi/2009/1216/rule/38) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
 [^f00003]: Footnote: [2005 c. 4](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-375825c787430286eaad7178cab76102]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2009/1216/schedule/1) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-375825c787430286eaad7178cab76102]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2009/1216/schedule/1) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-075ad9c9b5c02cc2cd0e873532576be5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/1) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-075ad9c9b5c02cc2cd0e873532576be5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/1) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
 [^f00004]: Footnote: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18).
 
@@ -1376,32 +1376,32 @@ Schedule 2 makes transitional provision (see also rule 37).
 
 [^f00008]: Footnote: [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059).
 
-[^key-84c1fd5335975be4e72cc3bb722bdf1b]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/2) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-84c1fd5335975be4e72cc3bb722bdf1b]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/2) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-622e0f7bde7b6f032bbbc0bd1367a6bf]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/3) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-622e0f7bde7b6f032bbbc0bd1367a6bf]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/3) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-0f6529acc075e046100a19a98bb3b7c5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/4) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-0f6529acc075e046100a19a98bb3b7c5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/4) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-f8e8b117c5c0db497b05c92db054d4b9]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/5) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-f8e8b117c5c0db497b05c92db054d4b9]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/5) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-109acedd1c3c18df9b675d6187e27c53]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/6) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-109acedd1c3c18df9b675d6187e27c53]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/6) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-03b353372deba1c0fa2ea975a7df80e1]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/7) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-03b353372deba1c0fa2ea975a7df80e1]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/7) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-d2284e0e1e6e9c2dcd4b7d9743ab50c0]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/8) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-d2284e0e1e6e9c2dcd4b7d9743ab50c0]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/8) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-bebd23741c5a33857244dfd1feec0062]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/9) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-bebd23741c5a33857244dfd1feec0062]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/9) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-79fe2a62f3aecdc54617a6d2945fee5b]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/10) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-79fe2a62f3aecdc54617a6d2945fee5b]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/10) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-b89f59339e6efd72a1fc06991378d82c]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/11) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-b89f59339e6efd72a1fc06991378d82c]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/11) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-e8c0bff68fbf4930eb614299756c713c]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/12) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-e8c0bff68fbf4930eb614299756c713c]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/12) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-43fc3704170c7c0198c708df7d7a6496]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/13) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-43fc3704170c7c0198c708df7d7a6496]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/13) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-a46aa14e385eaa6ff1150da1c3efc8a2]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/14) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-a46aa14e385eaa6ff1150da1c3efc8a2]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/14) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-f143f06eb8dc88d32f268a1d297c0185]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/15) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-f143f06eb8dc88d32f268a1d297c0185]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/15) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
 
-[^key-72a65dfb539ea29b4d67d246883e7f7d]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/16) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)
+[^c-72a65dfb539ea29b4d67d246883e7f7d]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2009/1216/schedule/2/paragraph/16) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/1216/rule/1)

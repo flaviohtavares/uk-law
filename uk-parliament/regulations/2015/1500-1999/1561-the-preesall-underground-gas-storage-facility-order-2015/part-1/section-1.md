@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-88605532c594a3b7cd48152e522c3ce8]
+## 1. Citation and commencement[^c-88605532c594a3b7cd48152e522c3ce8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Preesall Underground Gas Storage Facility Order 2
 
 ## Annotations
 
-[^key-88605532c594a3b7cd48152e522c3ce8]: Commencement: Art. 1 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-88605532c594a3b7cd48152e522c3ce8]: Commencement: Art. 1 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)

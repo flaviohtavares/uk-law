@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Transitional provisions[^key-f0b85c2bdd31f86d6fdae7c41af6e911]
+## 6. Transitional provisions[^c-f0b85c2bdd31f86d6fdae7c41af6e911]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The transitional provisions in Schedule 4 shall have effect.
 
 ## Annotations
 
-[^key-f0b85c2bdd31f86d6fdae7c41af6e911]: Commencement: Art. 6 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-f0b85c2bdd31f86d6fdae7c41af6e911]: Commencement: Art. 6 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Court sanction of insolvency practitioners in public interest cases[^key-b7e7d64ef51d1fadd7dba83d8b82f4db]
+## 18. Court sanction of insolvency practitioners in public interest cases[^c-b7e7d64ef51d1fadd7dba83d8b82f4db]
 
 *Extent: N.I.*
 
@@ -101,4 +101,4 @@ After Article 350N of the Insolvency Order (inserted by section 17) insert—
 
 ## Annotations
 
-[^key-b7e7d64ef51d1fadd7dba83d8b82f4db]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2016/2/section/18) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/203/article/3))
+[^c-b7e7d64ef51d1fadd7dba83d8b82f4db]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2016/2/section/18) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/203/article/3))

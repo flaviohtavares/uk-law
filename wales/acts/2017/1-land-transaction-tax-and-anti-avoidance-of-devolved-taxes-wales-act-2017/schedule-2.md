@@ -26,7 +26,7 @@ summary: ''
 
 #### Overview
 
-**1.**[^key-aa9a33cc1c53a2b2611ea7f3a95a4eb8] (1) This Schedule makes provision about the application of this Act (in particular section 10 (contract and transfer)) to pre-completion transactions (the meaning of which is set out in paragraph 3).
+**1.**[^c-aa9a33cc1c53a2b2611ea7f3a95a4eb8] (1) This Schedule makes provision about the application of this Act (in particular section 10 (contract and transfer)) to pre-completion transactions (the meaning of which is set out in paragraph 3).
 
 (2) The Schedule is arranged as follows—
 
@@ -39,7 +39,7 @@ summary: ''
 
 #### Application of this Schedule
 
-**2.**[^key-b4fb5f69545e72ad9d8e9df382367a58] (1) This Schedule applies where—
+**2.**[^c-b4fb5f69545e72ad9d8e9df382367a58] (1) This Schedule applies where—
 
 - (a) a person (““the original buyer””) enters into a contract (““the original contract””) for the acquisition by the original buyer of a chargeable interest under which the acquisition is to be completed by a transfer, and
 - (b) there is a pre-completion transaction.
@@ -52,7 +52,7 @@ summary: ''
 
 #### Meaning of ““pre-completion transaction””
 
-**3.**[^key-590e685c2ba187452ee14a62078b4d7d] (1) A transaction is a pre-completion transaction if—
+**3.**[^c-590e685c2ba187452ee14a62078b4d7d] (1) A transaction is a pre-completion transaction if—
 
 - (a) as a result of the transaction a person other than the original buyer (“**"the transferee”**”) becomes entitled to call for a transfer to the transferee of the whole or part of the subject-matter of the original contract, and
 - (b) immediately before the transaction took place a person (other than the transferee but not necessarily the original buyer) was entitled under the original contract to call for a transfer of the whole or that part of that subject-matter.
@@ -65,7 +65,7 @@ summary: ''
 
 #### Other key terms
 
-**4.**[^key-e058e2b61d2ca75dfba5cc81636ce02a] (1) In this Schedule, references to part of the subject-matter of the original contract—
+**4.**[^c-e058e2b61d2ca75dfba5cc81636ce02a] (1) In this Schedule, references to part of the subject-matter of the original contract—
 
 - (a) are to a chargeable interest that is the same as the chargeable interest referred to in paragraph 2(1)(a) except that it relates to part only of the land concerned, and
 - (b) also include, so far as is appropriate, interests or rights appurtenant or pertaining to the chargeable interest.
@@ -79,17 +79,17 @@ summary: ''
 
 #### Tax not charged on transferee by reason of the pre-completion transaction
 
-**5.**[^key-63b9e91906b76e203a8fea42d02080e3] The transferee is not regarded as entering into a land transaction only by reason of the pre-completion transaction.
+**5.**[^c-63b9e91906b76e203a8fea42d02080e3] The transferee is not regarded as entering into a land transaction only by reason of the pre-completion transaction.
 
 ### PART 2 — PRE-COMPLETION TRANSACTIONS WHICH ARE ASSIGNMENTS OF RIGHTS
 
 #### Pre-completion transactions which are assignments of rights
 
-**6.**[^key-c091c133e7b111b7844ed2354faca3da] A pre-completion transaction is an ““assignment of rights”” if the entitlement of the transferee referred to in paragraph 3(1)(a) is an entitlement to exercise rights under the original contract.
+**6.**[^c-c091c133e7b111b7844ed2354faca3da] A pre-completion transaction is an ““assignment of rights”” if the entitlement of the transferee referred to in paragraph 3(1)(a) is an entitlement to exercise rights under the original contract.
 
 #### Assignments of rights: application of rules about completion and consideration
 
-**7.**[^key-4f501b556773138499abdb11d5eaeddb] (1) This paragraph applies if the pre-completion transaction is an assignment of rights.
+**7.**[^c-4f501b556773138499abdb11d5eaeddb] (1) This paragraph applies if the pre-completion transaction is an assignment of rights.
 
 (2) If the subject-matter of the original contract is transferred to the transferee, the transfer is taken to be the completion of the original contract (despite section 10 and in particular subsection (10)(a) of that section).
 
@@ -127,7 +127,7 @@ summary: ''
 
 #### Assignment of rights: transferor treated as making separate acquisition
 
-**8.**[^key-13cf41aa31bfc679f0bdf55c918909c2] (1) Where paragraph 7(4) to (8) applies (assignment of rights: original contract completed or substantially performed) this Act has effect as if—
+**8.**[^c-13cf41aa31bfc679f0bdf55c918909c2] (1) Where paragraph 7(4) to (8) applies (assignment of rights: original contract completed or substantially performed) this Act has effect as if—
 
 - (a) the effective date of the land transaction mentioned in paragraph 7(4) (““the transferee's land transaction””) were also the effective date of another land transaction (a ““notional land transaction””), and
 - (b) the original buyer were the buyer in that notional land transaction.
@@ -168,7 +168,7 @@ summary: ''
 
 #### Notional land transactions: effect of rescission etc. following substantial performance
 
-**9.**[^key-bd3f4a9d752afc4457a6e0ff5c55bcf8] (1) This paragraph applies where paragraph 8(1) (transferor treated as making separate acquisition) applies by virtue of the substantial performance by the transferee of the original contract.
+**9.**[^c-bd3f4a9d752afc4457a6e0ff5c55bcf8] (1) This paragraph applies where paragraph 8(1) (transferor treated as making separate acquisition) applies by virtue of the substantial performance by the transferee of the original contract.
 
 (2) If the original contract is (to any extent) subsequently rescinded or annulled, or is for any other reason not carried into effect, the tax paid by virtue of paragraph 8(1), and any tax paid by virtue of paragraph 8(3), must (to that extent) be repaid by WRA.
 
@@ -176,14 +176,14 @@ summary: ''
 
 #### Assignment of rights relating to part only of original contract
 
-**10.**[^key-ee7f1eb715f758862431b3ce3aadf4bb] Where the transferee under the assignment of rights referred to in paragraph 7(1) is entitled to call for the transfer of part, but not the whole, of the subject-matter of the original contract—
+**10.**[^c-ee7f1eb715f758862431b3ce3aadf4bb] Where the transferee under the assignment of rights referred to in paragraph 7(1) is entitled to call for the transfer of part, but not the whole, of the subject-matter of the original contract—
 
 - (a) paragraph 7 applies as if the original contract, so far as relating to that part of its subject-matter, were a separate contract, and
 - (b) the references in paragraph 8 to the original contract are to be read accordingly.
 
 #### Assignment of rights: references to ““the seller””
 
-**11.**[^key-0ec5efd574872ddd565f86d72a21d992] (1) This paragraph applies where—
+**11.**[^c-0ec5efd574872ddd565f86d72a21d992] (1) This paragraph applies where—
 
 - (a) the pre-completion transaction is an assignment of rights, and
 - (b) either the subject-matter of the original contract is transferred to the transferee or the original contract is substantially performed by the transferee.
@@ -221,11 +221,11 @@ summary: ''
 
 #### Pre-completion transactions which are free-standing transfers
 
-**12.**[^key-0f6681e1e9a96dab11fb1003efb7857f] A pre-completion transaction which is not an assignment of rights is referred to in this Schedule as a “**"free-standing transfer”**”.
+**12.**[^c-0f6681e1e9a96dab11fb1003efb7857f] A pre-completion transaction which is not an assignment of rights is referred to in this Schedule as a “**"free-standing transfer”**”.
 
 #### Free-standing transfers: consideration and substantial performance
 
-**13.**[^key-eeaa4398ace270b52cfec959e97629a7] (1) This paragraph applies where the pre-completion transaction is a free-standing transfer.
+**13.**[^c-eeaa4398ace270b52cfec959e97629a7] (1) This paragraph applies where the pre-completion transaction is a free-standing transfer.
 
 (2) If the transferee acquires the subject-matter of the free-standing transfer, the consideration for the transaction giving effect to that acquisition is taken to include the consideration given for the free-standing transfer (if that would not otherwise be the case).
 
@@ -244,7 +244,7 @@ summary: ''
 
 #### References to ““the seller”” in cases involving free-standing transfers
 
-**14.**[^key-b5ac990093aad68f0a1ef7c25f995791] (1) This paragraph applies where—
+**14.**[^c-b5ac990093aad68f0a1ef7c25f995791] (1) This paragraph applies where—
 
 - (a) the pre-completion transaction is a free-standing transfer and the transferee acquires the subject-matter of the free-standing transfer as mentioned in paragraph 13(2) (read with paragraph 13(3)), or
 - (b) the pre-completion transaction is an assignment of rights and either—
@@ -304,7 +304,7 @@ summary: ''
 
 #### The minimum consideration rule
 
-**15.**[^key-ce8d36c3ff34f9036c3597c47585ccdf] (1) This paragraph applies where paragraph 7(3) or 13(2) (pre-completion transactions: chargeable interest acquired, or treated as acquired, by transferee) applies.
+**15.**[^c-ce8d36c3ff34f9036c3597c47585ccdf] (1) This paragraph applies where paragraph 7(3) or 13(2) (pre-completion transactions: chargeable interest acquired, or treated as acquired, by transferee) applies.
 
 (2) If there is a relevant connection between parties, then for the purposes of paragraph 1 of Schedule 4 the consideration given by the buyer for the subject-matter of the land transaction referred to in paragraph 7(4) or 13(2) is taken to be the highest of—
 
@@ -328,7 +328,7 @@ references in this Part of this Schedule to the ““original contract”” ar
 
 #### The first minimum amount
 
-**16.**[^key-c2fcae5c52e126418e8362bb7e2bb2fb] (1) The ““first minimum amount”” is to be determined in accordance with sub-paragraph (2) unless conditions A to C in sub-paragraph (3) are met, in which case it is to be determined in accordance with that sub-paragraph.
+**16.**[^c-c2fcae5c52e126418e8362bb7e2bb2fb] (1) The ““first minimum amount”” is to be determined in accordance with sub-paragraph (2) unless conditions A to C in sub-paragraph (3) are met, in which case it is to be determined in accordance with that sub-paragraph.
 
 (2) The ““first minimum amount”” is—
 
@@ -355,7 +355,7 @@ references in this Part of this Schedule to the ““original contract”” ar
 
 #### The second minimum amount
 
-**17.**[^key-7392856189211efdd791c624a4f31ff3] (1) The ““second minimum amount”” is the total of the net amounts of consideration given by the relevant parties.
+**17.**[^c-7392856189211efdd791c624a4f31ff3] (1) The ““second minimum amount”” is the total of the net amounts of consideration given by the relevant parties.
 
 (2) The net amount of consideration given by any relevant party is—
 
@@ -400,7 +400,7 @@ but a person who is a relevant party is not to be treated, for the purposes of t
 
 #### Relief for transferor: assignment of rights
 
-**18.**[^key-816a8084663116e20e54353e4ff3d1d8] (1) This paragraph applies where—
+**18.**[^c-816a8084663116e20e54353e4ff3d1d8] (1) This paragraph applies where—
 
 - (a) a person would, in the absence of this paragraph, be liable to pay tax in respect of a notional land transaction deemed to take place under paragraph 8(1) or an additional notional land transaction deemed to take place under paragraph 8(3), and
 - (b) the original contract had not been substantially performed when the assignment of rights mentioned in paragraph 7(1) was entered into.
@@ -411,7 +411,7 @@ but a person who is a relevant party is not to be treated, for the purposes of t
 
 #### Relief for original buyer: qualifying subsales
 
-**19.**[^key-9fe8db58f76ec397629395fe0c86b4a1] (1) This paragraph applies if—
+**19.**[^c-9fe8db58f76ec397629395fe0c86b4a1] (1) This paragraph applies if—
 
 - (a) the pre-completion transaction is a qualifying subsale (see sub-paragraph (6)),
 - (b) the original buyer would, in the absence of this paragraph, be liable to pay tax in respect of the land transaction given effect by the completion of the original contract or treated as having been given effect by the substantial performance of the original contract,
@@ -447,14 +447,14 @@ and OC may be reduced more than once if there is more than one qualifying subsal
 
 #### Interpretation
 
-**20.**[^key-1630387405ce1156ace85a654a1ea7e7] In this Schedule—
+**20.**[^c-1630387405ce1156ace85a654a1ea7e7] In this Schedule—
 
 - “**"contract”**” (“**"*contract***”") includes any agreement;
 - “**"transfer”**” (“**"*trosglwyddiad***”") includes any instrument.
 
 #### Index of expressions defined in this Schedule
 
-**21.**[^key-54c4a5667cef5ece956dd3524d2e91db] The following Table lists expressions defined or otherwise explained in this Schedule.
+**21.**[^c-54c4a5667cef5ece956dd3524d2e91db] The following Table lists expressions defined or otherwise explained in this Schedule.
 
 Table 1
 
@@ -476,44 +476,44 @@ Table 1
 
 ## Annotations
 
-[^key-aa9a33cc1c53a2b2611ea7f3a95a4eb8]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-aa9a33cc1c53a2b2611ea7f3a95a4eb8]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-b4fb5f69545e72ad9d8e9df382367a58]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-b4fb5f69545e72ad9d8e9df382367a58]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-590e685c2ba187452ee14a62078b4d7d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-590e685c2ba187452ee14a62078b4d7d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-e058e2b61d2ca75dfba5cc81636ce02a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e058e2b61d2ca75dfba5cc81636ce02a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-63b9e91906b76e203a8fea42d02080e3]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-63b9e91906b76e203a8fea42d02080e3]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-c091c133e7b111b7844ed2354faca3da]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-c091c133e7b111b7844ed2354faca3da]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-4f501b556773138499abdb11d5eaeddb]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-4f501b556773138499abdb11d5eaeddb]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-13cf41aa31bfc679f0bdf55c918909c2]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-13cf41aa31bfc679f0bdf55c918909c2]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-bd3f4a9d752afc4457a6e0ff5c55bcf8]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-bd3f4a9d752afc4457a6e0ff5c55bcf8]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-ee7f1eb715f758862431b3ce3aadf4bb]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-ee7f1eb715f758862431b3ce3aadf4bb]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-0ec5efd574872ddd565f86d72a21d992]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/11) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-0ec5efd574872ddd565f86d72a21d992]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/11) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-0f6681e1e9a96dab11fb1003efb7857f]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-0f6681e1e9a96dab11fb1003efb7857f]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-eeaa4398ace270b52cfec959e97629a7]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-eeaa4398ace270b52cfec959e97629a7]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-b5ac990093aad68f0a1ef7c25f995791]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/14) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-b5ac990093aad68f0a1ef7c25f995791]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/14) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-ce8d36c3ff34f9036c3597c47585ccdf]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/15) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-ce8d36c3ff34f9036c3597c47585ccdf]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/15) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-c2fcae5c52e126418e8362bb7e2bb2fb]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/16) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-c2fcae5c52e126418e8362bb7e2bb2fb]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/16) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-7392856189211efdd791c624a4f31ff3]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/17) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-7392856189211efdd791c624a4f31ff3]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/17) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-816a8084663116e20e54353e4ff3d1d8]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/18) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-816a8084663116e20e54353e4ff3d1d8]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/18) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-9fe8db58f76ec397629395fe0c86b4a1]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/19) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-9fe8db58f76ec397629395fe0c86b4a1]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/19) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-1630387405ce1156ace85a654a1ea7e7]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/20) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-1630387405ce1156ace85a654a1ea7e7]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/20) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-54c4a5667cef5ece956dd3524d2e91db]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/21) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-54c4a5667cef5ece956dd3524d2e91db]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/anaw/2017/1/schedule/2/paragraph/21) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 144. Modification of enactments[^key-f0470a396fe4c1b07dba6d4f5f2f5fc7]
+## 144. Modification of enactments[^c-f0470a396fe4c1b07dba6d4f5f2f5fc7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 6, which modifies enactments, has effect.
 
 ## Annotations
 
-[^key-f0470a396fe4c1b07dba6d4f5f2f5fc7]: Commencement: S. 144 in force at 1.5.2007 for specified purposes by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-f0470a396fe4c1b07dba6d4f5f2f5fc7]: Commencement: S. 144 in force at 1.5.2007 for specified purposes by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)

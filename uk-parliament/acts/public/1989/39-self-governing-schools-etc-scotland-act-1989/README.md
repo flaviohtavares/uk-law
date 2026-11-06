@@ -37,19 +37,19 @@ An Act to make provision as regards the acquisition of self-governing status by 
 
 ## Contents
 
-### Part I — Self-Governing Schools[^key-2b4bc652899d73b540e5f9a560fbd310]
+### Part I — Self-Governing Schools[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 *Extent: S*
 
 **No longer in force.**
 
-#### Duty to maintain self-governing schools[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Duty to maintain self-governing schools[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 **No longer in force.**
 
 - [Section 1 — Duty of Secretary of State to maintain self-governing schools.](part-i/section-1.md)
 
-#### Government[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Government[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 **No longer in force.**
 
@@ -62,25 +62,25 @@ An Act to make provision as regards the acquisition of self-governing status by 
 - [Section 8 — Execution of documents.](part-i/section-8.md)
 - [Section 9 — Reports and parents’ meetings.](part-i/section-9.md)
 
-#### Parental rights et ceteralaetc.[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Parental rights et ceteralaetc.[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 **No longer in force.**
 
 - [Section 10 — Rights of parents in relation to individual pupils.](part-i/section-10.md)
 
-#### Fees, charges, books, et ceteralaetc.[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Fees, charges, books, et ceteralaetc.[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 **No longer in force.**
 
 - [Section 11 — Fees, charges, books etc.](part-i/section-11.md)
 
-#### Management of denominational schools[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Management of denominational schools[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 **No longer in force.**
 
 - [Section 12 — Management of denominational schools.](part-i/section-12.md)
 
-#### Procedure for acquisition of self-governing status et ceteralaetc.[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Procedure for acquisition of self-governing status et ceteralaetc.[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 *Extent: S*
 
@@ -95,7 +95,7 @@ An Act to make provision as regards the acquisition of self-governing status by 
 - [Section 19 — Rejection or approval of proposals.](part-i/section-19.md)
 - [Section 20 — Transition to self-governing status.](part-i/section-20.md)
 
-#### Proposals under sections 22A to 22D of 1980 Act where procedure for acquisition of self-governing status initiated[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Proposals under sections 22A to 22D of 1980 Act where procedure for acquisition of self-governing status initiated[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 *Extent: S*
 
@@ -103,7 +103,7 @@ An Act to make provision as regards the acquisition of self-governing status by 
 
 - [Section 21 — Effect of pending procedure for acquisition of self-governing status on proposals for alteration etc. of schools.](part-i/section-21.md)
 
-#### Staff[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Staff[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 *Extent: S*
 
@@ -113,7 +113,7 @@ An Act to make provision as regards the acquisition of self-governing status by 
 - [Section 23 — Further provision as regards teachers in self-governing schools.](part-i/section-23.md)
 - [Section 24 — Effect of pending procedure for acquisition of self-governing status on appointment etc. of staff.](part-i/section-24.md)
 
-#### Benefits and services for pupils[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Benefits and services for pupils[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 *Extent: S*
 
@@ -121,7 +121,7 @@ An Act to make provision as regards the acquisition of self-governing status by 
 
 - [Section 25 — Provision of benefits and services for pupils by education authorities.](part-i/section-25.md)
 
-#### Finance[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Finance[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 **No longer in force.**
 
@@ -130,7 +130,7 @@ An Act to make provision as regards the acquisition of self-governing status by 
 - [Section 28 — Recovery of sums in respect of recurrent grant.](part-i/section-28.md)
 - [Section 29 — Extension of, and recovery for education etc. provided under, section 23 of 1980 Act.](part-i/section-29.md)
 
-#### Change in characteristics, discontinuance et ceteralaetc.[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Change in characteristics, discontinuance et ceteralaetc.[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 **No longer in force.**
 
@@ -138,20 +138,20 @@ An Act to make provision as regards the acquisition of self-governing status by 
 - [Section 31 — Discontinuance by board of management.](part-i/section-31.md)
 - [Section 32 — Compensation in respect of denominational schools.](part-i/section-32.md)
 
-#### Withdrawal of grant[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Withdrawal of grant[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 **No longer in force.**
 
 - [Section 33 — Withdrawal of grant by Secretary of State.](part-i/section-33.md)
 
-#### Miscellaneous[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Miscellaneous[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 **No longer in force.**
 
 - [Section 34 — Administrative, professional, technical or other services.](part-i/section-34.md)
 - [Section 35 — Functions of school board: application of certain provisions of 1988 Act.](part-i/section-35.md)
 
-#### Property[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Property[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 **No longer in force.**
 
@@ -168,19 +168,19 @@ An Act to make provision as regards the acquisition of self-governing status by 
 - [Section 46 — Commissioner for school assets’ right of action for contravention of section 43.](part-i/section-46.md)
 - [Section 47 — Removal of property from school by education authority.](part-i/section-47.md)
 
-#### Provision of information[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Provision of information[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 **No longer in force.**
 
 - [Section 48 — Duty of education authority to provide information.](part-i/section-48.md)
 
-#### Educational endowments[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Educational endowments[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 **No longer in force.**
 
 - [Section 49 — Educational endowments.](part-i/section-49.md)
 
-#### Winding up[^key-2b4bc652899d73b540e5f9a560fbd310]
+#### Winding up[^c-2b4bc652899d73b540e5f9a560fbd310]
 
 **No longer in force.**
 
@@ -262,4 +262,4 @@ SCHEDULES
 
 [^c1019362]: Modification: Act applied (16. 5. 1992) by [Further and Higher Education (Scotland) Act 1992 (c. 37)](https://www.legislation.gov.uk/ukpga/1992/37), [s. 36(3)](https://www.legislation.gov.uk/ukpga/1992/37/section/36/3) (with [s. 30(2)](https://www.legislation.gov.uk/ukpga/1992/37/section/30/2)); [S.I. 1992/817](https://www.legislation.gov.uk/uksi/1992/817), [art. 3(2)](https://www.legislation.gov.uk/uksi/1992/817/article/3/2), [Sch.1](https://www.legislation.gov.uk/uksi/1992/817/schedule/1).
 
-[^key-2b4bc652899d73b540e5f9a560fbd310]: Textual amendment: Pt. I (ss. 1-53) repealed (14.7.2000 for the repeal of ss. 13-22, 24 and 31.12.2004 in so far as not already in force) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), ss. 60(3),[61(2)(c)](https://www.legislation.gov.uk/asp/2000/6/section/61/2/c), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
+[^c-2b4bc652899d73b540e5f9a560fbd310]: Textual amendment: Pt. I (ss. 1-53) repealed (14.7.2000 for the repeal of ss. 13-22, 24 and 31.12.2004 in so far as not already in force) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), ss. 60(3),[61(2)(c)](https://www.legislation.gov.uk/asp/2000/6/section/61/2/c), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)

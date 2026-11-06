@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97D. Vehicle units: downloading data[^key-e330be0867afc24c41c40e53132dbb3c]
+## 97D. Vehicle units: downloading data[^c-e330be0867afc24c41c40e53132dbb3c]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies where a transport undertaking is required by article 10 of the Community Drivers’ Hours Regulation or article 11(2)(b) of the Annex to the AETR[^key-8f4837b82d9b27e736bf4d37973199ea] to ensure that data is downloaded from a vehicle unit in a vehicle.
+(1) This section applies where a transport undertaking is required by article 10 of the Community Drivers’ Hours Regulation or article 11(2)(b) of the Annex to the AETR[^c-8f4837b82d9b27e736bf4d37973199ea] to ensure that data is downloaded from a vehicle unit in a vehicle.
 
 (2) The undertaking must ensure that relevant data is downloaded from the unit not later than the end of the download period if—
 
@@ -40,7 +40,7 @@ summary: ''
 </tbody>
 </table>
 
-[^key-ed149d1d7c1df549c5c8684a58304566][^key-b7c5df83945e222a2261315ad1b1c214]
+[^c-ed149d1d7c1df549c5c8684a58304566][^c-b7c5df83945e222a2261315ad1b1c214]
 
 (4) The undertaking must ensure that all relevant data is downloaded from the unit—
 
@@ -55,16 +55,16 @@ summary: ''
 
 (7) For the purposes of this section and section 97E an undertaking controls the use of a vehicle during any period in which it may determine when, by whom and for what purpose the vehicle may be driven.
 
-(8) In this section and sections 97E to 97G, “downloaded” is to be construed in accordance with the definition of “downloading” in Article 2(2)(n) of the[^key-63a6d67f4f57ef9a2b907eae1232bd37] EU Tachographs Regulation.
+(8) In this section and sections 97E to 97G, “downloaded” is to be construed in accordance with the definition of “downloading” in Article 2(2)(n) of the[^c-63a6d67f4f57ef9a2b907eae1232bd37] EU Tachographs Regulation.
 
 ## Annotations
 
-[^key-e330be0867afc24c41c40e53132dbb3c]: Textual amendment: Ss. 97C-97H inserted (5.2.2008) by [The Passenger and Goods Vehicles (Recording Equipment) (Downloading and Retention of Data) Regulations 2008 (S.I. 2008/198)](https://www.legislation.gov.uk/uksi/2008/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/198/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/198/regulation/2)
+[^c-e330be0867afc24c41c40e53132dbb3c]: Textual amendment: Ss. 97C-97H inserted (5.2.2008) by [The Passenger and Goods Vehicles (Recording Equipment) (Downloading and Retention of Data) Regulations 2008 (S.I. 2008/198)](https://www.legislation.gov.uk/uksi/2008/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/198/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/198/regulation/2)
 
-[^key-8f4837b82d9b27e736bf4d37973199ea]: Textual amendment: Words in [s. 97D(1)](https://www.legislation.gov.uk/ukpga/1968/73/section/97D/1) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/9/a)
+[^c-8f4837b82d9b27e736bf4d37973199ea]: Textual amendment: Words in [s. 97D(1)](https://www.legislation.gov.uk/ukpga/1968/73/section/97D/1) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/9/a)
 
-[^key-ed149d1d7c1df549c5c8684a58304566]: Textual amendment: Words in [s. 97D(3)](https://www.legislation.gov.uk/ukpga/1968/73/section/97D/3) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/9/b)
+[^c-ed149d1d7c1df549c5c8684a58304566]: Textual amendment: Words in [s. 97D(3)](https://www.legislation.gov.uk/ukpga/1968/73/section/97D/3) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/9/b)
 
-[^key-b7c5df83945e222a2261315ad1b1c214]: Textual amendment: Words in s. 97D(3) table substituted (6.4.2015) by [The Passenger and Goods Vehicles (Recording Equipment) (Downloading of Data) Regulations 2015 (S.I. 2015/502)](https://www.legislation.gov.uk/uksi/2015/502), [regs. 1](https://www.legislation.gov.uk/uksi/2015/502/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/502/regulation/2/2)
+[^c-b7c5df83945e222a2261315ad1b1c214]: Textual amendment: Words in s. 97D(3) table substituted (6.4.2015) by [The Passenger and Goods Vehicles (Recording Equipment) (Downloading of Data) Regulations 2015 (S.I. 2015/502)](https://www.legislation.gov.uk/uksi/2015/502), [regs. 1](https://www.legislation.gov.uk/uksi/2015/502/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/502/regulation/2/2)
 
-[^key-63a6d67f4f57ef9a2b907eae1232bd37]: Textual amendment: Words in [s. 97D(8)](https://www.legislation.gov.uk/ukpga/1968/73/section/97D/8) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2016/248/regulation/7)
+[^c-63a6d67f4f57ef9a2b907eae1232bd37]: Textual amendment: Words in [s. 97D(8)](https://www.legislation.gov.uk/ukpga/1968/73/section/97D/8) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2016/248/regulation/7)

@@ -41,7 +41,7 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by section 153(5)(a), (7) and (8)(b) of the Criminal Justice and Immigration Act 2008[^f00001], makes the following Order:
 
-## 1. Citation, interpretation and extent[^key-32c757942659e54f14a6046edaaa4df5]
+## 1. Citation, interpretation and extent[^c-32c757942659e54f14a6046edaaa4df5]
 
 (1) This Order may be cited as the Criminal Justice and Immigration Act 2008 (Commencement No.13 and Transitory Provision) Order 2009.
 
@@ -51,7 +51,7 @@ The Secretary of State, in exercise of the powers conferred by section 153(5)(a)
 - “the 2003 Act” means the Criminal Justice Act 2003[^f00003];
 - “the 2008 Act” means the Criminal Justice and Immigration Act 2008.
 
-## 2. Appointed date[^key-f9253931b9a2ea90f7eb614f630a713c]
+## 2. Appointed date[^c-f9253931b9a2ea90f7eb614f630a713c]
 
 The date appointed for the coming into force of the following provisions of the 2008 Act is 30 November 2009—
 
@@ -127,15 +127,15 @@ The date appointed for the coming into force of the following provisions of the 
   - (xxxi) the 2003 Act save for the entries related to section 221(2) and paragraphs 8(2)(a), 95 in so far as it relates to the references in section 33(1) to an attendance centre order in the 2000 Act, 96, 102, 107 and 123(3) and (8) of Schedule 32; and
 - (v) in Part 5 of Schedule 28 (repeals and revocations), the entries relating to the Nuclear Material (Offences) Act 1983[^f00029]).
 
-**3.**[^key-2d75778c66d837aff76747dba27e3bda] The date appointed for the coming into force of the following provisions of the 2008 Act insofar as they relate to English NHS premises and are not already in force, is 30 November 2009—
+**3.**[^c-2d75778c66d837aff76747dba27e3bda] The date appointed for the coming into force of the following provisions of the 2008 Act insofar as they relate to English NHS premises and are not already in force, is 30 November 2009—
 
 - (a) section 119 (offence of causing nuisance or disturbance on NHS premises);
 - (b) section 120 (power to remove person causing nuisance or disturbance);
 - (c) section 121 (guidance about the power to remove etc.).
 
-## 4. Transitory provision[^key-c9a9410098427b58c21a22a7cdfd4cf4]
+## 4. Transitory provision[^c-c9a9410098427b58c21a22a7cdfd4cf4]
 
-Until section 6 of the 2008 Act comes fully into force, paragraph (b) of the definition of “relevant person” in section 47(11) of the Violent Crime Reduction Act 2006e has effect as if it read “(b) an attendance centre order under section 60 of the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6) or a youth rehabilitation order under Chapter 1 of Part 9 of the Sentencing Code[^key-47114428398c2c1f09daaf64c6fea145]”.
+Until section 6 of the 2008 Act comes fully into force, paragraph (b) of the definition of “relevant person” in section 47(11) of the Violent Crime Reduction Act 2006e has effect as if it read “(b) an attendance centre order under section 60 of the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6) or a youth rehabilitation order under Chapter 1 of Part 9 of the Sentencing Code[^c-47114428398c2c1f09daaf64c6fea145]”.
 
 Signed by the authority of the Secretary of State
 
@@ -358,13 +358,13 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2008 c.4](https://www.legislation.gov.uk/ukpga/2008/4).
 
-[^key-32c757942659e54f14a6046edaaa4df5]: Commencement: Art. 1 in force at made date
+[^c-32c757942659e54f14a6046edaaa4df5]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [2000 c.6](https://www.legislation.gov.uk/ukpga/2000/6)
 
 [^f00003]: Footnote: [2003 c.44](https://www.legislation.gov.uk/ukpga/2003/44)
 
-[^key-f9253931b9a2ea90f7eb614f630a713c]: Commencement: Art. 2 in force at made date
+[^c-f9253931b9a2ea90f7eb614f630a713c]: Commencement: Art. 2 in force at made date
 
 [^f00004]: Footnote: Section 74(3)(a) was amended by section 304 of, and paragraphs 90 and 107 of Schedule 32 to, the 2003 Act.
 
@@ -420,8 +420,8 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
     **(e)**[2006 c. 38](https://www.legislation.gov.uk/ukpga/2006/38)
 
-[^key-2d75778c66d837aff76747dba27e3bda]: Commencement: Art. 3 in force at made date
+[^c-2d75778c66d837aff76747dba27e3bda]: Commencement: Art. 3 in force at made date
 
-[^key-c9a9410098427b58c21a22a7cdfd4cf4]: Commencement: Art. 4 in force at made date
+[^c-c9a9410098427b58c21a22a7cdfd4cf4]: Commencement: Art. 4 in force at made date
 
-[^key-47114428398c2c1f09daaf64c6fea145]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 400](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/400) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-47114428398c2c1f09daaf64c6fea145]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 400](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/400) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

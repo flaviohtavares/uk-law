@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Property devolving with peerages etc.[^key-086594af8530a19a57d3cb6774c3a5db]
+## 70. Property devolving with peerages etc.[^c-086594af8530a19a57d3cb6774c3a5db]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-086594af8530a19a57d3cb6774c3a5db]: Commencement: S. 70 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-086594af8530a19a57d3cb6774c3a5db]: Commencement: S. 70 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. General provision about upright signs and associated plates and structure warning markings[^key-a5f31e046d2e2744f20dd50f6ae0df49]
+## 4. General provision about upright signs and associated plates and structure warning markings[^c-a5f31e046d2e2744f20dd50f6ae0df49]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5f31e046d2e2744f20dd50f6ae0df49]: Commencement: [Dir. 4](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/4) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
+[^c-a5f31e046d2e2744f20dd50f6ae0df49]: Commencement: [Dir. 4](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/4) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)

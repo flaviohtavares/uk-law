@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Dissolution of the Learning and Skills Council for England[^key-9aac6cd0d84756b66736d4e6be63c790]
+## 123. Dissolution of the Learning and Skills Council for England[^c-9aac6cd0d84756b66736d4e6be63c790]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9aac6cd0d84756b66736d4e6be63c790]: Commencement: S. 123 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9), [13](https://www.legislation.gov.uk/uksi/2010/303/article/13), [14](https://www.legislation.gov.uk/uksi/2010/303/article/14)) (as amended (30.3.3010) by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), art. 22)
+[^c-9aac6cd0d84756b66736d4e6be63c790]: Commencement: S. 123 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9), [13](https://www.legislation.gov.uk/uksi/2010/303/article/13), [14](https://www.legislation.gov.uk/uksi/2010/303/article/14)) (as amended (30.3.3010) by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), art. 22)

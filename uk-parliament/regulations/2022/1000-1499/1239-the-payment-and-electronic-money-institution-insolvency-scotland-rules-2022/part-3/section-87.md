@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Definition of proxy[^key-2b2fc5c0c58eb10d4fb2ef23ab564e4d]
+## 87. Definition of proxy[^c-2b2fc5c0c58eb10d4fb2ef23ab564e4d]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b2fc5c0c58eb10d4fb2ef23ab564e4d]: Commencement: Rule 87 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-2b2fc5c0c58eb10d4fb2ef23ab564e4d]: Commencement: Rule 87 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

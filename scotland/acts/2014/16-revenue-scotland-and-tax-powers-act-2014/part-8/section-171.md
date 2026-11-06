@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 171. Scottish landfill tax and Scottish aggregates tax: penalties for multiple failures to pay tax[^key-6733242ed39f6f6b526712fee85a61b4][^key-e778430a9c9488dda069ac9ffcac2935]
+## 171. Scottish landfill tax and Scottish aggregates tax: penalties for multiple failures to pay tax[^c-6733242ed39f6f6b526712fee85a61b4][^c-e778430a9c9488dda069ac9ffcac2935]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6733242ed39f6f6b526712fee85a61b4]: Commencement: [S. 171](https://www.legislation.gov.uk/asp/2014/16/section/171) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-6733242ed39f6f6b526712fee85a61b4]: Commencement: [S. 171](https://www.legislation.gov.uk/asp/2014/16/section/171) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-e778430a9c9488dda069ac9ffcac2935]: Textual amendment: [S. 171](https://www.legislation.gov.uk/asp/2014/16/part/8/chapter/2/crossheading/amounts-of-penalties-for-failure-to-pay-tax-scottish-landfill-tax) heading substituted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 40(6)](https://www.legislation.gov.uk/asp/2024/14/section/40/6), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)
+[^c-e778430a9c9488dda069ac9ffcac2935]: Textual amendment: [S. 171](https://www.legislation.gov.uk/asp/2014/16/part/8/chapter/2/crossheading/amounts-of-penalties-for-failure-to-pay-tax-scottish-landfill-tax) heading substituted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 40(6)](https://www.legislation.gov.uk/asp/2024/14/section/40/6), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)

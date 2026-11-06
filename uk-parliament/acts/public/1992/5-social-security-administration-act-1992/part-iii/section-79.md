@@ -24,8 +24,8 @@ Without prejudice to any other method of recovery—
 
 - (a) amounts recoverable under any enactment or instrument having effect in Northern Ireland and corresponding to an enactment or instrument mentioned in section 71(8) above shall be recoverable by deduction from benefits prescribed under that subsection;
 - (b) amounts recoverable under any enactment having effect in Northern Ireland and corresponding to section 75 above shall be recoverable by deduction from benefits prescribed under subsection (4) of that section; and
-- (c) awards recoverable under Part III of the Northern Ireland Administration Act shall be recoverable by deduction from benefits prescribed under section 71(8)[^key-59e89f77df608d3b421a957a6170c225].
+- (c) awards recoverable under Part III of the Northern Ireland Administration Act shall be recoverable by deduction from benefits prescribed under section 71(8)[^c-59e89f77df608d3b421a957a6170c225].
 
 ## Annotations
 
-[^key-59e89f77df608d3b421a957a6170c225]: Textual amendment: Words in s. 79(c) substituted (1.4.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2012/5/schedule/8/paragraph/3); [S.I. 2012/3090](https://www.legislation.gov.uk/uksi/2012/3090), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2012/3090/article/2/1/c)
+[^c-59e89f77df608d3b421a957a6170c225]: Textual amendment: Words in s. 79(c) substituted (1.4.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2012/5/schedule/8/paragraph/3); [S.I. 2012/3090](https://www.legislation.gov.uk/uksi/2012/3090), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2012/3090/article/2/1/c)

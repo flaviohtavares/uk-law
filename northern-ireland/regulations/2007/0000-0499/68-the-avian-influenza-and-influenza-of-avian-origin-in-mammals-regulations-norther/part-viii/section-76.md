@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76. Duty of the Department to erect signs[^key-6113d5f5bdb22ec249eb40051679ec6d]
+## 76. Duty of the Department to erect signs[^c-6113d5f5bdb22ec249eb40051679ec6d]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6113d5f5bdb22ec249eb40051679ec6d]: Commencement: Reg. 76 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-6113d5f5bdb22ec249eb40051679ec6d]: Commencement: Reg. 76 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

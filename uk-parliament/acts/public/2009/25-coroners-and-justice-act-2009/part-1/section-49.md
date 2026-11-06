@@ -27,8 +27,8 @@ summary: ''
 > - (a) who is informed that the body of a deceased person is lying within his district; or
 > - (b) in whose district an unexpected or unexplained death.
 
-(2)[^key-0623d24f0d71485622e1f1a40dcf38ae] Schedule 11 inserts provisions into the Coroners Act (Northern Ireland) 1959 corresponding to certain provisions in Schedules 5 and 6.
+(2)[^c-0623d24f0d71485622e1f1a40dcf38ae] Schedule 11 inserts provisions into the Coroners Act (Northern Ireland) 1959 corresponding to certain provisions in Schedules 5 and 6.
 
 ## Annotations
 
-[^key-0623d24f0d71485622e1f1a40dcf38ae]: Commencement: [S. 49(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/49/2) in force at 29.2.2016 by [S.R. 2016/23](https://www.legislation.gov.uk/nisr/2016/23), [art. 2](https://www.legislation.gov.uk/nisr/2016/23/article/2)
+[^c-0623d24f0d71485622e1f1a40dcf38ae]: Commencement: [S. 49(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/49/2) in force at 29.2.2016 by [S.R. 2016/23](https://www.legislation.gov.uk/nisr/2016/23), [art. 2](https://www.legislation.gov.uk/nisr/2016/23/article/2)

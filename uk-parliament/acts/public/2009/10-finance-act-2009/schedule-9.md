@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Group relief: preference shares[^key-af22306b50d2a1e34750ab04baa03bf9]
+## SCHEDULE 9 — Group relief: preference shares[^c-af22306b50d2a1e34750ab04baa03bf9]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ Section 28
 
 ## Annotations
 
-[^key-af22306b50d2a1e34750ab04baa03bf9]: Textual amendment: Sch. 9 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-af22306b50d2a1e34750ab04baa03bf9]: Textual amendment: Sch. 9 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

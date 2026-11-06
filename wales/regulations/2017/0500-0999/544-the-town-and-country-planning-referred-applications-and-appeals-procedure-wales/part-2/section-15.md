@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Notification of receipt of appeal[^key-622da3e387c651806ec1d690764d88ad]
+## 15. Notification of receipt of appeal[^c-622da3e387c651806ec1d690764d88ad]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-622da3e387c651806ec1d690764d88ad]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2017/544/regulation/15) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-622da3e387c651806ec1d690764d88ad]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2017/544/regulation/15) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
 
 [^f00015]: Footnote: *See* article 13 of the Town and Country Planning (Development Management Procedure) (Wales) Order 2012 ([S.I. 2012/801 (W. 110)](https://www.legislation.gov.uk/wsi/2012/801)); regulation 11A of the Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 ([S.I. 2012/793 (W. 108)](https://www.legislation.gov.uk/wsi/2012/793)) and regulation 12 of the Planning (Hazardous Substances) Regulations 2015 ([S.I. 2015/1597 (W. 196)](https://www.legislation.gov.uk/wsi/2015/1597)).

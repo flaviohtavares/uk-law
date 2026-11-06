@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-737c7aedd2b3491b7c946873912d0dd8] If the Chief Veterinary Officer confirms that highly pathogenic avian influenza exists or has in the preceding 56 days existed in poultry or other captive birds on any premises, the Secretary of State must impose by notice to the occupier of the infected premises, the measures in Schedule 2 in addition to the measures in Schedule 1.
+(1)[^c-737c7aedd2b3491b7c946873912d0dd8] If the Chief Veterinary Officer confirms that highly pathogenic avian influenza exists or has in the preceding 56 days existed in poultry or other captive birds on any premises, the Secretary of State must impose by notice to the occupier of the infected premises, the measures in Schedule 2 in addition to the measures in Schedule 1.
 
-(2)[^key-8509e08c081a0a382482c8b71431de12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8509e08c081a0a382482c8b71431de12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-737c7aedd2b3491b7c946873912d0dd8]: Textual amendment: [Art. 19(1)](https://www.legislation.gov.uk/uksi/2006/2702/article/19/1) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(15)(a)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/15/a)
+[^c-737c7aedd2b3491b7c946873912d0dd8]: Textual amendment: [Art. 19(1)](https://www.legislation.gov.uk/uksi/2006/2702/article/19/1) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(15)(a)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/15/a)
 
-[^key-8509e08c081a0a382482c8b71431de12]: Textual amendment: [Art. 19(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/19/2) omitted (20.12.2023) by virtue of [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(15)(b)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/15/b)
+[^c-8509e08c081a0a382482c8b71431de12]: Textual amendment: [Art. 19(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/19/2) omitted (20.12.2023) by virtue of [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(15)(b)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/15/b)

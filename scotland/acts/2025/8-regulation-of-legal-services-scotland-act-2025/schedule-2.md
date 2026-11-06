@@ -24,14 +24,14 @@ summary: ''
 
 ### Part 1 — Performance targets
 
-#### 1. Application[^key-f563f299f143f5f37bff62ce73f3beff][^key-a060b2edcf09adfacfb673bfd7a27599]
+#### 1. Application[^c-f563f299f143f5f37bff62ce73f3beff][^c-a060b2edcf09adfacfb673bfd7a27599]
 
 This Part applies where the Lord President—
 
 - (a) is satisfied that an act or omission of a category 1 or category 2 regulator (or a series of acts or omissions) has had, or is likely to have, an adverse impact on the observance of any of the regulatory objectives, or
 - (b) considers that, for any other reason, it is necessary or expedient for one or more performance targets to be set as respects a category 1 or category 2 regulator.
 
-#### 2. Power to set targets[^key-e50de6e71df91f7cb207447943728de2][^key-a436b3ed7714a743f1d779a438087051]
+#### 2. Power to set targets[^c-e50de6e71df91f7cb207447943728de2][^c-a436b3ed7714a743f1d779a438087051]
 
 (1) The Lord President may—
 
@@ -40,7 +40,7 @@ This Part applies where the Lord President—
 
 (2) The regulator must (so far as practicable) comply with a performance target set for it under sub-paragraph (1)(a) or (b).
 
-#### 3. Decision[^key-3a8c901a20cc398fc4a919f0f8d11c37][^key-a72ed648063ae62662195fb4068ba027]
+#### 3. Decision[^c-3a8c901a20cc398fc4a919f0f8d11c37][^c-a72ed648063ae62662195fb4068ba027]
 
 Where the Lord President decides to proceed with a measure under this Part—
 
@@ -49,7 +49,7 @@ Where the Lord President decides to proceed with a measure under this Part—
 
 ### Part 2 — Directions
 
-#### 4. Application[^key-e98c90d4a98fd958b0cd8dbd38d64957][^key-bd31ea6255e530c6b1e2f1f88ad6ece6]
+#### 4. Application[^c-e98c90d4a98fd958b0cd8dbd38d64957][^c-bd31ea6255e530c6b1e2f1f88ad6ece6]
 
 This Part applies where the Lord President is satisfied that—
 
@@ -57,7 +57,7 @@ This Part applies where the Lord President is satisfied that—
 - (b) a category 1 or category 2 regulator has failed to comply with a requirement imposed on it by or under this Act (including a direction given in accordance with this Part), or
 - (c) a category 1 or category 2 regulator has failed to adhere to its internal governance arrangements (including, in particular, those relating to the independent and effective exercise of its regulatory functions).
 
-#### 5. Power to direct[^key-fd254e50f05e06d6dfb7dd79e2e4db94][^key-99fdaea5de5396039686c9c40d8c05d6]
+#### 5. Power to direct[^c-fd254e50f05e06d6dfb7dd79e2e4db94][^c-99fdaea5de5396039686c9c40d8c05d6]
 
 (1) The Lord President may direct the regulator to take—
 
@@ -73,17 +73,17 @@ This Part applies where the Lord President is satisfied that—
 
 (4) The regulator must (so far as practicable) comply with a direction given to it in accordance with this Part.
 
-#### 6. Decision[^key-9c852cef9a785afbe4be04777d1fbf68][^key-268b05710894c8364cefd3c709d7c3da]
+#### 6. Decision[^c-9c852cef9a785afbe4be04777d1fbf68][^c-268b05710894c8364cefd3c709d7c3da]
 
 Where the Lord President decides to proceed with a measure under this Part, the decision notice required under paragraph 19(2) must contain the direction.
 
-#### 7. Extension of time to comply[^key-e767b51227184587f948c07d18a70274][^key-cac09b3d368b3fd7b64093ef0c99ddbe]
+#### 7. Extension of time to comply[^c-e767b51227184587f948c07d18a70274][^c-cac09b3d368b3fd7b64093ef0c99ddbe]
 
 (1) The Lord President may, on an application by a category 1 or category 2 regulator made at any time after the giving of a direction, allow the regulator additional time to comply with the direction.
 
 (2) Where such additional time is allowed, the Lord President must publicise that fact in such manner as the Lord President considers most likely to bring it to the attention of any relevant person or body.
 
-#### 8. Enforcement[^key-f004be6fbcaffc84da1eec420d4272dc][^key-e783d469932f45c2bf127f1c4067a26a]
+#### 8. Enforcement[^c-f004be6fbcaffc84da1eec420d4272dc][^c-e783d469932f45c2bf127f1c4067a26a]
 
 (1) If at any time it appears to the Lord President that a category 1 or category 2 regulator has failed to comply with a direction given under this Part, the Lord President may make an application to the Court of Session for an order as described in sub-paragraph (2).
 
@@ -91,34 +91,34 @@ Where the Lord President decides to proceed with a measure under this Part, the 
 
 ### Part 3 — Censure
 
-#### 9. Application[^key-e4ce803c13c7c9c99e082c83f9399941][^key-1710f495071d0897f926cdcfac1a6513]
+#### 9. Application[^c-e4ce803c13c7c9c99e082c83f9399941][^c-1710f495071d0897f926cdcfac1a6513]
 
 This Part applies where the Lord President is satisfied that—
 
 - (a) an act or omission of a category 1 or category 2 regulator (or a series of acts or omissions) has had, or is likely to have, an adverse impact on the observance of any of the regulatory objectives, or
 - (b) a category 1 or category 2 regulator has failed to comply with a requirement imposed on it by or under this Act.
 
-#### 10. Power to censure[^key-5ded85f984e93b7d49be8cbc50d87bf6][^key-571017830e6934d128db3f68e5367a02]
+#### 10. Power to censure[^c-5ded85f984e93b7d49be8cbc50d87bf6][^c-571017830e6934d128db3f68e5367a02]
 
 The Lord President may make and publish a statement censuring the regulator for—
 
 - (a) the act or omission (or series of acts or omissions), or
 - (b) the failure.
 
-#### 11. Decision[^key-5a3ef95e6709ecd0d66a34db70bf2dd1][^key-63ec69308a787e7f28e74b9dfe30c687]
+#### 11. Decision[^c-5a3ef95e6709ecd0d66a34db70bf2dd1][^c-63ec69308a787e7f28e74b9dfe30c687]
 
 Where the Lord President decides to proceed with a measure under this Part, the decision notice required under paragraph 19(2) must contain the statement (and the statement need not be published separately).
 
 ### Part 4 — Making changes to regulatory functions
 
-#### 12. Application[^key-d22c9b0d94c26a0541f14e62512e897a][^key-d1e8809fc0aa3715a5617e5022d14e33]
+#### 12. Application[^c-d22c9b0d94c26a0541f14e62512e897a][^c-d1e8809fc0aa3715a5617e5022d14e33]
 
 This Part applies when the Lord President is satisfied that—
 
 - (a) an act or omission of a category 1 or category 2 regulator (or a series of acts or omissions) has had, or is likely to have, an adverse impact on the observance of any of the regulatory objectives, and
 - (b) the matter cannot be addressed adequately by the Lord President taking any of the measures mentioned in section 19(4)(a) to (c).
 
-#### 13. Power to make changes[^key-3288a7487271fbfd15e4f5713416ee17][^key-efc0e2c5e3c388c99e8015660f2c0546]
+#### 13. Power to make changes[^c-3288a7487271fbfd15e4f5713416ee17][^c-efc0e2c5e3c388c99e8015660f2c0546]
 
 (1) Where the Lord President is taking a measure mentioned in section 19(4)(d), the Lord President may—
 
@@ -145,7 +145,7 @@ This Part applies when the Lord President is satisfied that—
 
 (8) For the purposes of sub-paragraphs (1)(a) and (2)(a), the regulator’s scheme is the scheme that was approved under section 26(6) of the 1990 Act or, as the case may be, section 28 of this Act (as such scheme may be amended from time to time).
 
-#### 14. Decision[^key-fea90107ae09fccf26d4be511d95f05e][^key-228dd5a16b0764662af2e1bb085b7fce]
+#### 14. Decision[^c-fea90107ae09fccf26d4be511d95f05e][^c-228dd5a16b0764662af2e1bb085b7fce]
 
 (1) Where the Lord President decides to proceed with a measure under this Part, the decision notice required under paragraph 19(2) must—
 
@@ -156,7 +156,7 @@ This Part applies when the Lord President is satisfied that—
 
 (2) The date by which regulations may be made must not be within the period of 3 months beginning with the day on which the decision notice is given to the regulator.
 
-#### 15. Parliamentary procedure for regulations[^key-9c6f15ac0aefb4eaecfe9c66b18188b0][^key-1d9e831fee0e7f09a7343b8d3adcfa25]
+#### 15. Parliamentary procedure for regulations[^c-9c6f15ac0aefb4eaecfe9c66b18188b0][^c-1d9e831fee0e7f09a7343b8d3adcfa25]
 
 (1) The Scottish Ministers may not make regulations under paragraph 13(4) unless—
 
@@ -174,11 +174,11 @@ This Part applies when the Lord President is satisfied that—
 
 ### Part 5 — Procedure for imposing a measure
 
-#### 16. Application[^key-021e58e5d5333b5cd9e08910b652b24a][^key-63079c52070adb3064a65b6e75e5b512]
+#### 16. Application[^c-021e58e5d5333b5cd9e08910b652b24a][^c-63079c52070adb3064a65b6e75e5b512]
 
 This Part applies to the Lord President taking any measure mentioned in section 19(4) against a category 1 or category 2 regulator.
 
-#### 17. Notice of intention[^key-7c2aeb35b258413a337ec047e3512d05][^key-ceb4c4c3ee476dd593cc9b1d75370bd5]
+#### 17. Notice of intention[^c-7c2aeb35b258413a337ec047e3512d05][^c-ceb4c4c3ee476dd593cc9b1d75370bd5]
 
 (1) Before taking a measure against the regulator, the Lord President must give it a notice (a “notice of intention”) of the Lord President’s intention to do so.
 
@@ -188,7 +188,7 @@ This Part applies to the Lord President taking any measure mentioned in section 
 - (b) set out the details of what the Lord President proposes under the measure,
 - (c) explain why the Lord President is satisfied that it is appropriate to take the measure.
 
-#### 18. Consultation[^key-d9bed9b718dabe474a135ac5b11d0da3][^key-53b5544a0e60bd9a7736b1b8eca521da]
+#### 18. Consultation[^c-d9bed9b718dabe474a135ac5b11d0da3][^c-53b5544a0e60bd9a7736b1b8eca521da]
 
 (1) The regulator has 28 days beginning with the date of receipt of the notice of intention (or such longer period as the regulator and the Lord President may agree) to make representations to the Lord President about the proposed measure.
 
@@ -209,7 +209,7 @@ This Part applies to the Lord President taking any measure mentioned in section 
 
 (4) For the purpose of sub-paragraph (3), the Lord President may direct the regulator to give to each of the authorised providers (on the Lord President’s behalf) a copy of the notice of intention and the information required for the consultation.
 
-#### 19. Decision[^key-e3b59ee27888e675bb3f97fb103bae76][^key-5cc20802a94b98a269e899bf2992fa62]
+#### 19. Decision[^c-e3b59ee27888e675bb3f97fb103bae76][^c-5cc20802a94b98a269e899bf2992fa62]
 
 (1) The Lord President must have regard to any representations made to the Lord President by the regulator, or any consultee under paragraph 18(2)(c), when deciding whether to proceed with the proposed measure.
 
@@ -225,7 +225,7 @@ This Part applies to the Lord President taking any measure mentioned in section 
 - (b) set out the details of the action the Lord President is taking under the measure as required by the relevant Part of this schedule, and
 - (c) if appropriate, specify the date from which the measure will take effect (which may be the date on which that notice is given).
 
-#### 20. Meaning of relevant persons or bodies[^key-768813aebc6b0e5b559552540aee0040][^key-1ed26739910624e4cdfcadb155f6ed48]
+#### 20. Meaning of relevant persons or bodies[^c-768813aebc6b0e5b559552540aee0040][^c-1ed26739910624e4cdfcadb155f6ed48]
 
 For the purposes of this Part, relevant persons or bodies include—
 
@@ -236,82 +236,82 @@ For the purposes of this Part, relevant persons or bodies include—
 
 ## Annotations
 
-[^key-f563f299f143f5f37bff62ce73f3beff]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-f563f299f143f5f37bff62ce73f3beff]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-a060b2edcf09adfacfb673bfd7a27599]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/1) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-a060b2edcf09adfacfb673bfd7a27599]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/1) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-e50de6e71df91f7cb207447943728de2]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e50de6e71df91f7cb207447943728de2]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-a436b3ed7714a743f1d779a438087051]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/2) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-a436b3ed7714a743f1d779a438087051]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/2) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-3a8c901a20cc398fc4a919f0f8d11c37]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-3a8c901a20cc398fc4a919f0f8d11c37]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-a72ed648063ae62662195fb4068ba027]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/3) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-a72ed648063ae62662195fb4068ba027]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/3) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-e98c90d4a98fd958b0cd8dbd38d64957]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e98c90d4a98fd958b0cd8dbd38d64957]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-bd31ea6255e530c6b1e2f1f88ad6ece6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/4) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-bd31ea6255e530c6b1e2f1f88ad6ece6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/4) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-fd254e50f05e06d6dfb7dd79e2e4db94]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-fd254e50f05e06d6dfb7dd79e2e4db94]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-99fdaea5de5396039686c9c40d8c05d6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/5) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-99fdaea5de5396039686c9c40d8c05d6]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/5) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-9c852cef9a785afbe4be04777d1fbf68]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-9c852cef9a785afbe4be04777d1fbf68]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-268b05710894c8364cefd3c709d7c3da]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/6) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-268b05710894c8364cefd3c709d7c3da]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/6) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-e767b51227184587f948c07d18a70274]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e767b51227184587f948c07d18a70274]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-cac09b3d368b3fd7b64093ef0c99ddbe]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/7) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-cac09b3d368b3fd7b64093ef0c99ddbe]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/7) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-f004be6fbcaffc84da1eec420d4272dc]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-f004be6fbcaffc84da1eec420d4272dc]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-e783d469932f45c2bf127f1c4067a26a]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/8) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-e783d469932f45c2bf127f1c4067a26a]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/8) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-e4ce803c13c7c9c99e082c83f9399941]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e4ce803c13c7c9c99e082c83f9399941]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-1710f495071d0897f926cdcfac1a6513]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/9) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-1710f495071d0897f926cdcfac1a6513]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/9) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-5ded85f984e93b7d49be8cbc50d87bf6]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-5ded85f984e93b7d49be8cbc50d87bf6]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-571017830e6934d128db3f68e5367a02]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/10) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-571017830e6934d128db3f68e5367a02]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/10) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-5a3ef95e6709ecd0d66a34db70bf2dd1]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-5a3ef95e6709ecd0d66a34db70bf2dd1]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-63ec69308a787e7f28e74b9dfe30c687]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/11) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-63ec69308a787e7f28e74b9dfe30c687]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/11) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-d22c9b0d94c26a0541f14e62512e897a]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-d22c9b0d94c26a0541f14e62512e897a]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-d1e8809fc0aa3715a5617e5022d14e33]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/12) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-d1e8809fc0aa3715a5617e5022d14e33]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/12) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-3288a7487271fbfd15e4f5713416ee17]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-3288a7487271fbfd15e4f5713416ee17]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-efc0e2c5e3c388c99e8015660f2c0546]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/13) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-efc0e2c5e3c388c99e8015660f2c0546]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/13) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-fea90107ae09fccf26d4be511d95f05e]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-fea90107ae09fccf26d4be511d95f05e]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-228dd5a16b0764662af2e1bb085b7fce]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/14) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-228dd5a16b0764662af2e1bb085b7fce]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/14) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-9c6f15ac0aefb4eaecfe9c66b18188b0]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-9c6f15ac0aefb4eaecfe9c66b18188b0]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-1d9e831fee0e7f09a7343b8d3adcfa25]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/15) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-1d9e831fee0e7f09a7343b8d3adcfa25]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/15) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-021e58e5d5333b5cd9e08910b652b24a]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-021e58e5d5333b5cd9e08910b652b24a]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-63079c52070adb3064a65b6e75e5b512]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/16) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-63079c52070adb3064a65b6e75e5b512]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/16) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-7c2aeb35b258413a337ec047e3512d05]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-7c2aeb35b258413a337ec047e3512d05]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-ceb4c4c3ee476dd593cc9b1d75370bd5]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/17) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-ceb4c4c3ee476dd593cc9b1d75370bd5]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/17) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-d9bed9b718dabe474a135ac5b11d0da3]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-d9bed9b718dabe474a135ac5b11d0da3]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-53b5544a0e60bd9a7736b1b8eca521da]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/18) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-53b5544a0e60bd9a7736b1b8eca521da]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/18) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-e3b59ee27888e675bb3f97fb103bae76]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e3b59ee27888e675bb3f97fb103bae76]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-5cc20802a94b98a269e899bf2992fa62]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/19) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-5cc20802a94b98a269e899bf2992fa62]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/19) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-768813aebc6b0e5b559552540aee0040]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-768813aebc6b0e5b559552540aee0040]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-1ed26739910624e4cdfcadb155f6ed48]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/20) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-1ed26739910624e4cdfcadb155f6ed48]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/asp/2025/8/schedule/2/paragraph/20) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

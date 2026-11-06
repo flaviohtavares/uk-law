@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Reference of conduct matters to the Commissioner[^key-0e0e9dee0b2cc9777ee3747417ed29e2]
+## 24. Reference of conduct matters to the Commissioner[^c-0e0e9dee0b2cc9777ee3747417ed29e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ the authority must give a notification of the making of the reference to the per
 
 ## Annotations
 
-[^key-0e0e9dee0b2cc9777ee3747417ed29e2]: Commencement: Reg. 24 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-0e0e9dee0b2cc9777ee3747417ed29e2]: Commencement: Reg. 24 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149A. Inspection of Commission’s registers etc.: Northern Ireland[^key-17166accd238a5f7ee0b6ad4f67e5f35]
+## 149A. Inspection of Commission’s registers etc.: Northern Ireland[^c-17166accd238a5f7ee0b6ad4f67e5f35]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17166accd238a5f7ee0b6ad4f67e5f35]: Textual amendment: [S. 149A](https://www.legislation.gov.uk/ukpga/2000/41/section/149A) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [5](https://www.legislation.gov.uk/uksi/2018/328/article/5)
+[^c-17166accd238a5f7ee0b6ad4f67e5f35]: Textual amendment: [S. 149A](https://www.legislation.gov.uk/ukpga/2000/41/section/149A) inserted (8.3.2018) by [The Transparency of Donations and Loans etc. (Northern Ireland Political Parties) Order 2018 (S.I. 2018/328)](https://www.legislation.gov.uk/uksi/2018/328), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/328/article/1/2), [5](https://www.legislation.gov.uk/uksi/2018/328/article/5)

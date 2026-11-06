@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30E. Appeals against penalties .[^key-d81e4378756652221004dbe3280ac8b2][^c14421881][^key-b6456b16a44469847bb7712afb01ef19]
+## 30E. Appeals against penalties .[^c-d81e4378756652221004dbe3280ac8b2][^c14421881][^c-b6456b16a44469847bb7712afb01ef19]
 
 *Extent: E+W+S*
 
-(1) If the regulated person[^key-681cbd79cd3e10c553adec5f8e0382f2] on whom a penalty is imposed is aggrieved by—
+(1) If the regulated person[^c-681cbd79cd3e10c553adec5f8e0382f2] on whom a penalty is imposed is aggrieved by—
 
 - (a) the imposition of the penalty;
 - (b) the amount of the penalty; or
@@ -60,10 +60,10 @@ the regulated person may make an application to the court under this section.
 
 ## Annotations
 
-[^key-d81e4378756652221004dbe3280ac8b2]: Modification: Ss. 28-30F applied (with modifications) by 1995 c. 45, s. 12(5) (as substituted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 92(10)](https://www.legislation.gov.uk/ukpga/2011/16/section/92/10), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/ii))
+[^c-d81e4378756652221004dbe3280ac8b2]: Modification: Ss. 28-30F applied (with modifications) by 1995 c. 45, s. 12(5) (as substituted (21.3.2012) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 92(10)](https://www.legislation.gov.uk/ukpga/2011/16/section/92/10), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/ii))
 
 [^c14421881]: Textual amendment: Ss. 30A-30F inserted (20.12.2000 for specified purposes otherwise 1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2000/27/section/95/1); [S.I. 2000/3343](https://www.legislation.gov.uk/uksi/2000/3343), [art. 2](https://www.legislation.gov.uk/uksi/2000/3343/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/3343/schedule) (subject to transitional provisions in [arts. 3-15](https://www.legislation.gov.uk/uksi/2000/3343/article/3)); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3266/article/1/2), [2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-b6456b16a44469847bb7712afb01ef19]: Textual amendment: Words in [s. 30E](https://www.legislation.gov.uk/ukpga/1986/44/section/30E) title inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(2)(h)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2/h), [Sch. 14 para. 1(5)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/14/paragraph/1/5)
+[^c-b6456b16a44469847bb7712afb01ef19]: Textual amendment: Words in [s. 30E](https://www.legislation.gov.uk/ukpga/1986/44/section/30E) title inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(2)(h)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2/h), [Sch. 14 para. 1(5)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/14/paragraph/1/5)
 
-[^key-681cbd79cd3e10c553adec5f8e0382f2]: Textual amendment: Words in s. 30E substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [37(4)(f)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/37/4/f)
+[^c-681cbd79cd3e10c553adec5f8e0382f2]: Textual amendment: Words in s. 30E substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [37(4)(f)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/37/4/f)

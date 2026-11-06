@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Subject to paragraph (6), a person who has in his possession or charge an animal or carcase which is infected or suspected of being infected shall immediately notify the Secretary of State[^key-fddf402a89d0371e1276ae586fedcbd9] .
+(1) Subject to paragraph (6), a person who has in his possession or charge an animal or carcase which is infected or suspected of being infected shall immediately notify the Secretary of State[^c-fddf402a89d0371e1276ae586fedcbd9] .
 
 (2) Subject to paragraph (6), a person who in the course of his occupation discovers that an animal or carcase not in his possession or charge is infected or suspected of being infected shall immediately notify the Secretary of State .
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) Any constable who receives notification of disease under section 15(1) of the Act shall immediately inform the Secretary of State .
 
-(5)[^key-ec7b028903cc3310cfa535763e2d2ace] Where notification is received under this article from a person other than the occupier of the premises where the relevant animal or carcase is located, a veterinary inspector may serve a notice on the occupier informing the occupier that—
+(5)[^c-ec7b028903cc3310cfa535763e2d2ace] Where notification is received under this article from a person other than the occupier of the premises where the relevant animal or carcase is located, a veterinary inspector may serve a notice on the occupier informing the occupier that—
 
 - (a) notification has been received under this article; and
 - (b) Schedule 1 applies in relation to the premises.
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-fddf402a89d0371e1276ae586fedcbd9]: Textual amendment: Words in [art. 9(1)-(4)](https://www.legislation.gov.uk/uksi/2006/182/article/9/1) substituted (1.11.2009) by [Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
+[^c-fddf402a89d0371e1276ae586fedcbd9]: Textual amendment: Words in [art. 9(1)-(4)](https://www.legislation.gov.uk/uksi/2006/182/article/9/1) substituted (1.11.2009) by [Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2009/2713/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2713/schedule/1)
 
-[^key-ec7b028903cc3310cfa535763e2d2ace]: Textual amendment: [Art. 9(5)](https://www.legislation.gov.uk/uksi/2006/182/article/9/5) substituted (1.11.2009) by [Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2009/2713/article/7/2)
+[^c-ec7b028903cc3310cfa535763e2d2ace]: Textual amendment: [Art. 9(5)](https://www.legislation.gov.uk/uksi/2006/182/article/9/5) substituted (1.11.2009) by [Animal Health (Divisional Veterinary Managers) Order 2009 (S.I. 2009/2713)](https://www.legislation.gov.uk/uksi/2009/2713), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2713/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2009/2713/article/7/2)
 
 [^f00012]: Footnote: S.I. [1998/463](https://www.legislation.gov.uk/uksi/1998/463).

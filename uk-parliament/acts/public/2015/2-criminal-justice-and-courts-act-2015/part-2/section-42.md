@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Duties of custody officer after charge: arrested juveniles[^key-02a73bf0cdc8b0f6e7296e903c518584]
+## 42. Duties of custody officer after charge: arrested juveniles[^c-02a73bf0cdc8b0f6e7296e903c518584]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 37(15) of the Police and Criminal Evidence Act 1984 (definitions for 
 
 ## Annotations
 
-[^key-02a73bf0cdc8b0f6e7296e903c518584]: Commencement: S. 42 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/a)
+[^c-02a73bf0cdc8b0f6e7296e903c518584]: Commencement: S. 42 in force at 26.10.2015 by [S.I. 2015/1778](https://www.legislation.gov.uk/uksi/2015/1778), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1778/article/3/a)

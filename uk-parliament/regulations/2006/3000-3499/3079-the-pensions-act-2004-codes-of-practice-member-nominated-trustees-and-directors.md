@@ -31,28 +31,28 @@ summary: ''
 
 PENSIONS
 
-The Pensions Act 2004 (Codes of Practice) (Member-nominated Trustees and Directors and Internal Controls) Appointed Day Order 2006 (revoked)[^key-1a7916d6b4342cf333ce763bd77b8aed]
+The Pensions Act 2004 (Codes of Practice) (Member-nominated Trustees and Directors and Internal Controls) Appointed Day Order 2006 (revoked)[^c-1a7916d6b4342cf333ce763bd77b8aed]
 
 Made
 
 17th November 2006
 
-[^key-1a7916d6b4342cf333ce763bd77b8aed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a7916d6b4342cf333ce763bd77b8aed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-1a7916d6b4342cf333ce763bd77b8aed]
+## 1. Citation[^c-1a7916d6b4342cf333ce763bd77b8aed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed day[^key-1a7916d6b4342cf333ce763bd77b8aed]
+## 2. Appointed day[^c-1a7916d6b4342cf333ce763bd77b8aed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a7916d6b4342cf333ce763bd77b8aed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a7916d6b4342cf333ce763bd77b8aed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a7916d6b4342cf333ce763bd77b8aed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a7916d6b4342cf333ce763bd77b8aed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a7916d6b4342cf333ce763bd77b8aed]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/3079) revoked (28.3.2024) by [The Pensions Act 2004 (General Code of Practice) (Appointed Day, Amendment and Revocations) Order 2024 (S.I. 2024/431)](https://www.legislation.gov.uk/uksi/2024/431), [art. 4(b)](https://www.legislation.gov.uk/uksi/2024/431/article/4/b)
+[^c-1a7916d6b4342cf333ce763bd77b8aed]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/3079) revoked (28.3.2024) by [The Pensions Act 2004 (General Code of Practice) (Appointed Day, Amendment and Revocations) Order 2024 (S.I. 2024/431)](https://www.legislation.gov.uk/uksi/2024/431), [art. 4(b)](https://www.legislation.gov.uk/uksi/2024/431/article/4/b)

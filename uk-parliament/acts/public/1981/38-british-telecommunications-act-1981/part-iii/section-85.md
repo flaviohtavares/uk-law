@@ -31,7 +31,7 @@ summary: ''
 - [^c8105631]...
 - “**statutory provision**”, except in relation to Northern Ireland or the Isle of Man, has the same meaning as in section 57(1) of the [^c8105641]Harbours Act 1964, in relation to Northern Ireland, has the same meaning as in section 1(f) of the [^c8105651]Interpretation Act (Northern Ireland) 1954 and, in relation to the Isle of Man, means an Act of Tynwald.
 
-(2)[^c8105661] Any reference in this Act to a subsidiary or wholly-owned subsidiary shall be construed in accordance with section 1159 of the Companies Act 2006[^key-0589ff6a82c6ee4bcdc8f7d5a7a0e055].
+(2)[^c8105661] Any reference in this Act to a subsidiary or wholly-owned subsidiary shall be construed in accordance with section 1159 of the Companies Act 2006[^c-0589ff6a82c6ee4bcdc8f7d5a7a0e055].
 
 (3) This section shall extend to the Isle of Man and the Channel Islands.
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c8105661]: Textual amendment: S. 85(2) substituted by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [s. 144(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/144/4), [Sch. 18 para. 25](https://www.legislation.gov.uk/ukpga/1989/40/schedule/18/paragraph/25)
 
-[^key-0589ff6a82c6ee4bcdc8f7d5a7a0e055]: Textual amendment: Words in s. 85(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/47) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-0589ff6a82c6ee4bcdc8f7d5a7a0e055]: Textual amendment: Words in s. 85(2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/47) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

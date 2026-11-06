@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 238. Company representation[^key-62db9b54a53b784c60103a361ef1c462]
+## 238. Company representation[^c-62db9b54a53b784c60103a361ef1c462]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62db9b54a53b784c60103a361ef1c462]: Commencement: Rule 238 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-62db9b54a53b784c60103a361ef1c462]: Commencement: Rule 238 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

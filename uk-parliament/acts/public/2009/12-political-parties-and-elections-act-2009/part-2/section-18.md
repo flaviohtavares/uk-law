@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Person may not be “responsible person” for more than one third party[^key-14cd2e1712d4ce37d20b112068fcc658]
+## 18. Person may not be “responsible person” for more than one third party[^c-14cd2e1712d4ce37d20b112068fcc658]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ the renewal notification must indicate (under section 88(6)(b)) that the stateme
 
 ## Annotations
 
-[^key-14cd2e1712d4ce37d20b112068fcc658]: Commencement: S. 18 in force at 1.1.2010 by [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(g)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/g)
+[^c-14cd2e1712d4ce37d20b112068fcc658]: Commencement: S. 18 in force at 1.1.2010 by [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(g)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/g)

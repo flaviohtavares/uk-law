@@ -45,15 +45,15 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred upon her by sections 60, 61(1)(a), 105(9), 114(1), 182(2) and 189(1) of the Consumer Credit Act 1974[^f00001], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-e98f4dcd62adb71564ee8b190ab4302a]
+## 1. Citation and commencement[^c-e98f4dcd62adb71564ee8b190ab4302a]
 
 These Regulations may be cited as the Consumer Credit (Agreements) (Amendment) Regulations 2004 and shall come into force on 31st May 2005.
 
-## 2. Amendment of the Consumer Credit (Agreements) Regulations 1983[^key-a96780c7f84f9db1c0040834bc584b0c]
+## 2. Amendment of the Consumer Credit (Agreements) Regulations 1983[^c-a96780c7f84f9db1c0040834bc584b0c]
 
 The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as follows.
 
-**3.**[^key-7b7d818fb4ac8801b882507622d83983] (1) Regulation 1(2) (interpretation) shall be amended as follows.
+**3.**[^c-7b7d818fb4ac8801b882507622d83983] (1) Regulation 1(2) (interpretation) shall be amended as follows.
 
 (2) Insert at the appropriate place—
 
@@ -65,7 +65,7 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 
 (3) In the definition of “total charge for credit” after the words “Total Charge for Credit Regulations” insert “and Schedule 7 to these Regulations”.
 
-**4.**[^key-23684c595395eb8502ceaa07f7ac092b] For regulation 2 (form and content of regulated consumer credit agreements) substitute—
+**4.**[^c-23684c595395eb8502ceaa07f7ac092b] For regulation 2 (form and content of regulated consumer credit agreements) substitute—
 
 > **2. Form and content of regulated consumer credit agreements**
 >
@@ -79,7 +79,7 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 >
 > - (a) the nature of the agreement as set out in paragraph 1 of Schedule 1 to these Regulations;
 > - (b) the parties to the agreement as set out in paragraph 2 of Schedule 1 to these Regulations;
-> - (c)[^key-e453c28706121c93e86dc1f24b9d1b4b] under the heading “Key Financial Information”, the financial and related particulars set out in paragraphs 6 to 8B, 11 to 14 and 15 to 17 of Schedule 1 to these Regulations;
+> - (c)[^c-e453c28706121c93e86dc1f24b9d1b4b] under the heading “Key Financial Information”, the financial and related particulars set out in paragraphs 6 to 8B, 11 to 14 and 15 to 17 of Schedule 1 to these Regulations;
 > - (d) under the heading “Other Financial Information”, the financial and related particulars set out in paragraphs 3 to 5, 9, 10, 14A and 18 to 19A of Schedule 1 to these regulations;
 > - (e) under the heading “Key Information”—
 >   - (i) the information set out in paragraphs 20 to 24 of Schedule 1 to these Regulations; and
@@ -127,7 +127,7 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 
 .
 
-**5.**[^key-755d61f745c22dd99f987dd869ec355f] (1) Regulation 3 (form and content of regulated consumer hire agreements) shall be amended as follows.
+**5.**[^c-755d61f745c22dd99f987dd869ec355f] (1) Regulation 3 (form and content of regulated consumer hire agreements) shall be amended as follows.
 
 (2) For paragraph 4 substitute—
 
@@ -147,13 +147,13 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 
 (3) In paragraph 5 for the words “paragraphs 4 to 8 of Schedule 3” substitute “paragraph (4)(c) above”.
 
-(4)[^key-dfcd41b74db463d1e7ee60b7b73b42a9] In paragraph 6 for the words “Forms 1 to 3” substitute “Forms 1, 4 and 5”
+(4)[^c-dfcd41b74db463d1e7ee60b7b73b42a9] In paragraph 6 for the words “Forms 1 to 3” substitute “Forms 1, 4 and 5”
 
-**6.**[^key-69bf245b12f338519efa97f51e94c0d1] In regulation 4(b) (pawn-receipts) for the words “numbered 16” substitute “numbered 18”.
+**6.**[^c-69bf245b12f338519efa97f51e94c0d1] In regulation 4(b) (pawn-receipts) for the words “numbered 16” substitute “numbered 18”.
 
-**7.**[^key-906c2cda6c2404e432af29f990a6b9ea] In regulation 5(4) (statutory forms) omit the words “the APR,”.
+**7.**[^c-906c2cda6c2404e432af29f990a6b9ea] In regulation 5(4) (statutory forms) omit the words “the APR,”.
 
-**8.**[^key-1c387b03b4cebf83c16ec347683561a6] For regulation 6(2) (signing of the agreement) substitute—
+**8.**[^c-1c387b03b4cebf83c16ec347683561a6] For regulation 6(2) (signing of the agreement) substitute—
 
 > (2) The lettering of the terms of the agreement included in the document referred to in section 61(1)(a) of the Act, containing all the prescribed terms of the regulated agreement, and of the information contained in that document for the purpose of conforming to these Regulations shall—
 >
@@ -162,7 +162,7 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 
 .
 
-**9.**[^key-e9dc6af7caf15aa286f31573afd77107] (1) Regulation 7 (modifying agreements which are, or are treated as, regulated agreements) shall be amended as follows.
+**9.**[^c-e9dc6af7caf15aa286f31573afd77107] (1) Regulation 7 (modifying agreements which are, or are treated as, regulated agreements) shall be amended as follows.
 
 (2) For paragraph (3) substitute—
 
@@ -170,7 +170,7 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 
 .
 
-(3)[^key-fce605757c4c1ecdf0475d87b37d5b6e] For paragraph (4) substitute—
+(3)[^c-fce605757c4c1ecdf0475d87b37d5b6e] For paragraph (4) substitute—
 
 > (4) Subject to paragraph (5) below and regulation 2(9), the information, statements of the protection and remedies, signature and separate boxes which under these Regulations must be contained in documents embodying modifying agreements varying or supplementing earlier credit agreements in relation to the credit being provided under the modifying agreement, shall be set out in the order given by paragraphs (a) to (f) below under, where applicable, the headings specified below—
 >
@@ -209,7 +209,7 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 
 .
 
-**10.**[^key-0806ee5c69930f87f71dc2bf8514aa9e] (1) Schedule 1 (information to be contained in documents embodying regulated consumer credit agreements other than modifying agreements) shall be amended as follows.
+**10.**[^c-0806ee5c69930f87f71dc2bf8514aa9e] (1) Schedule 1 (information to be contained in documents embodying regulated consumer credit agreements other than modifying agreements) shall be amended as follows.
 
 (2) For paragraph 1 substitute—
 
@@ -275,11 +275,11 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 > </tbody>
 > </table>
 >
-> [^key-aca3a87826f6acd3b0482565528a06bc]
+> [^c-aca3a87826f6acd3b0482565528a06bc]
 
 .
 
-**11.**[^key-4ce0e73b4e98f21a589e13570b3c6142] For Schedule 2 (forms of statement and remedies available under the Consumer Credit Act 1974 to debtors under regulated consumer credit agreements) substitute—
+**11.**[^c-4ce0e73b4e98f21a589e13570b3c6142] For Schedule 2 (forms of statement and remedies available under the Consumer Credit Act 1974 to debtors under regulated consumer credit agreements) substitute—
 
 > **SCHEDULE 2**
 >
@@ -386,7 +386,7 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 > </tbody>
 > </table>
 >
-> [^key-49eff61d6476701b0a268da088518da9][^key-1738eb4792607d6e6e3e1c1f3c6f1e7c][^key-438b1aab1a3d68b0b469b372ba639490]
+> [^c-49eff61d6476701b0a268da088518da9][^c-1738eb4792607d6e6e3e1c1f3c6f1e7c][^c-438b1aab1a3d68b0b469b372ba639490]
 >
 > **PART II — Notice to be contained in Documents Embodying a Combined Consumer Credit Agreement and Pawn-Receipt**
 >
@@ -414,9 +414,9 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 > </tbody>
 > </table>
 >
-> [^key-489f09c6403558b5116ed435d6a0e9e6]
+> [^c-489f09c6403558b5116ed435d6a0e9e6]
 
-**12.**[^key-9997c7400cd1f69df3ff9155d4b37daf] (1) Schedule 3 (information to be contained in documents embodying regulated consumer hire agreements other than modifying agreements) shall be amended as follows.
+**12.**[^c-9997c7400cd1f69df3ff9155d4b37daf] (1) Schedule 3 (information to be contained in documents embodying regulated consumer hire agreements other than modifying agreements) shall be amended as follows.
 
 (2) For paragraph 1 substitute—
 
@@ -449,7 +449,7 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 
 .
 
-**13.**[^key-ca7033ed0b4532bfbb0aac4f335702d1] For Schedule 4 (forms of statement of protection and remedies available under the Consumer Credit Act 1974 to hirers under regulated consumer hire agreements) substitute—
+**13.**[^c-ca7033ed0b4532bfbb0aac4f335702d1] For Schedule 4 (forms of statement of protection and remedies available under the Consumer Credit Act 1974 to hirers under regulated consumer hire agreements) substitute—
 
 > **SCHEDULE 4 — Forms of Statement of Protection and Remedies Available under the Consumer Credit Act 1974 to Hirers Under Regulated Consumer Hire Agreements**
 >
@@ -486,7 +486,7 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 
 .
 
-**14.**[^key-972c613a832d5d04be71733f396209da] After Part II of Schedule 5 (forms of signature box) insert—
+**14.**[^c-972c613a832d5d04be71733f396209da] After Part II of Schedule 5 (forms of signature box) insert—
 
 > **PART III — Agreements Under Which a Separate Form of Consent is Required**
 >
@@ -508,7 +508,7 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 
 .
 
-**15.**[^key-26bdc25993b0aaf198f749763720b542] In Schedule 7 (provisions relating to the disclosure of the APR) for paragraph 1 substitute—
+**15.**[^c-26bdc25993b0aaf198f749763720b542] In Schedule 7 (provisions relating to the disclosure of the APR) for paragraph 1 substitute—
 
 > **1. Assumptions about running-account credit**
 >
@@ -547,7 +547,7 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 
 .
 
-**16.**[^key-de8e9f1d52a616fdcfaa6121fc80329b] (1) Schedule 8, part 1 (information to be contained in documents embodying regulated modifying agreements varying or supplementing earlier credit agreements) is amended as follows.
+**16.**[^c-de8e9f1d52a616fdcfaa6121fc80329b] (1) Schedule 8, part 1 (information to be contained in documents embodying regulated modifying agreements varying or supplementing earlier credit agreements) is amended as follows.
 
 (2) For paragraph 1 substitute—
 
@@ -634,7 +634,7 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 
 .
 
-**17.**[^key-4d9b115a4a05e6d10568eb2e531918b0] (1) Schedule 8, Part 2 (information to be contained in documents embodying regulated modifying agreements varying or supplementing earlier hire agreements) is amended as follows.
+**17.**[^c-4d9b115a4a05e6d10568eb2e531918b0] (1) Schedule 8, Part 2 (information to be contained in documents embodying regulated modifying agreements varying or supplementing earlier hire agreements) is amended as follows.
 
 (2) For paragraph 1 substitute—
 
@@ -657,7 +657,7 @@ The Consumer Credit (Agreements) Regulations 1983[^f00002] shall be amended as f
 
 .
 
-## 18. Transitional provision[^key-7645b09eda1c2a9a0631d6f5dd4ccd96]
+## 18. Transitional provision[^c-7645b09eda1c2a9a0631d6f5dd4ccd96]
 
 (1) This regulation applies to documents embodying regulated agreements, and modifying agreements treated under section 82(3) of the Consumer Credit Act 1974[^f00004] as regulated agreements, which have
 
@@ -700,61 +700,61 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).; section 189(1) is cited for the definitions of “prescribed”, and “regulations”.
 
-[^key-e98f4dcd62adb71564ee8b190ab4302a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-e98f4dcd62adb71564ee8b190ab4302a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
-[^key-a96780c7f84f9db1c0040834bc584b0c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2004/1482/regulation/2) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-a96780c7f84f9db1c0040834bc584b0c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2004/1482/regulation/2) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1983/1553](https://www.legislation.gov.uk/uksi/1983/1553), amended by [S.I. 1984/1600](https://www.legislation.gov.uk/uksi/1984/1600), [1985/666](https://www.legislation.gov.uk/uksi/1985/666), [1988/2047](https://www.legislation.gov.uk/uksi/1988/2047), [1999/3177](https://www.legislation.gov.uk/uksi/1999/3177) and [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-7b7d818fb4ac8801b882507622d83983]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2004/1482/regulation/3) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-7b7d818fb4ac8801b882507622d83983]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2004/1482/regulation/3) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
-[^key-23684c595395eb8502ceaa07f7ac092b]: Commencement: Reg. 4 in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-23684c595395eb8502ceaa07f7ac092b]: Commencement: Reg. 4 in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
 [^f00003]: Footnote: [1983/1558](https://www.legislation.gov.uk/uksi/1983/1558).
 
-[^key-e453c28706121c93e86dc1f24b9d1b4b]: Textual amendment: Words in reg. 4 substituted (31.10.2004) by [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/2)
+[^c-e453c28706121c93e86dc1f24b9d1b4b]: Textual amendment: Words in reg. 4 substituted (31.10.2004) by [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/2)
 
-[^key-755d61f745c22dd99f987dd869ec355f]: Commencement: Reg. 5 in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-755d61f745c22dd99f987dd869ec355f]: Commencement: Reg. 5 in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
-[^key-dfcd41b74db463d1e7ee60b7b73b42a9]: Textual amendment: Reg. 5(4) inserted (31.10.2004) by [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/3)
+[^c-dfcd41b74db463d1e7ee60b7b73b42a9]: Textual amendment: Reg. 5(4) inserted (31.10.2004) by [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/3)
 
-[^key-69bf245b12f338519efa97f51e94c0d1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2004/1482/regulation/6) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-69bf245b12f338519efa97f51e94c0d1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2004/1482/regulation/6) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
-[^key-906c2cda6c2404e432af29f990a6b9ea]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2004/1482/regulation/7) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-906c2cda6c2404e432af29f990a6b9ea]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2004/1482/regulation/7) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
-[^key-1c387b03b4cebf83c16ec347683561a6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2004/1482/regulation/8) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-1c387b03b4cebf83c16ec347683561a6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2004/1482/regulation/8) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
-[^key-e9dc6af7caf15aa286f31573afd77107]: Commencement: Reg. 9 in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-e9dc6af7caf15aa286f31573afd77107]: Commencement: Reg. 9 in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
-[^key-fce605757c4c1ecdf0475d87b37d5b6e]: Textual amendment: Reg. 9(3) substituted (31.10.2004) by [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/4)
+[^c-fce605757c4c1ecdf0475d87b37d5b6e]: Textual amendment: Reg. 9(3) substituted (31.10.2004) by [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/4)
 
-[^key-0806ee5c69930f87f71dc2bf8514aa9e]: Commencement: Reg. 10 in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-0806ee5c69930f87f71dc2bf8514aa9e]: Commencement: Reg. 10 in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
-[^key-aca3a87826f6acd3b0482565528a06bc]: Textual amendment: Words in reg. 10(8) substituted (31.10.2004) by [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/5)
+[^c-aca3a87826f6acd3b0482565528a06bc]: Textual amendment: Words in reg. 10(8) substituted (31.10.2004) by [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/5)
 
-[^key-4ce0e73b4e98f21a589e13570b3c6142]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2004/1482/regulation/11) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-4ce0e73b4e98f21a589e13570b3c6142]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2004/1482/regulation/11) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
-[^key-49eff61d6476701b0a268da088518da9]: Textual amendment: Words in reg. 11 omitted (31.10.2004) by virtue of [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/6/a)
+[^c-49eff61d6476701b0a268da088518da9]: Textual amendment: Words in reg. 11 omitted (31.10.2004) by virtue of [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/6/a)
 
-[^key-1738eb4792607d6e6e3e1c1f3c6f1e7c]: Textual amendment: Words in reg. 11 omitted (31.10.2004) by virtue of [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/6/b)
+[^c-1738eb4792607d6e6e3e1c1f3c6f1e7c]: Textual amendment: Words in reg. 11 omitted (31.10.2004) by virtue of [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/6/b)
 
-[^key-438b1aab1a3d68b0b469b372ba639490]: Textual amendment: Words in reg. 11 substituted (31.10.2004) by [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/7)
+[^c-438b1aab1a3d68b0b469b372ba639490]: Textual amendment: Words in reg. 11 substituted (31.10.2004) by [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/7)
 
-[^key-489f09c6403558b5116ed435d6a0e9e6]: Textual amendment: Word in reg. 11 substituted (31.10.2004) by [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/8)
+[^c-489f09c6403558b5116ed435d6a0e9e6]: Textual amendment: Word in reg. 11 substituted (31.10.2004) by [The Consumer Credit (Miscellaneous Amendments) Regulations 2004 (S.I. 2004/2619)](https://www.legislation.gov.uk/uksi/2004/2619), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2004/2619/regulation/2/8)
 
-[^key-9997c7400cd1f69df3ff9155d4b37daf]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2004/1482/regulation/12) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-9997c7400cd1f69df3ff9155d4b37daf]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2004/1482/regulation/12) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
-[^key-ca7033ed0b4532bfbb0aac4f335702d1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2004/1482/regulation/13) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-ca7033ed0b4532bfbb0aac4f335702d1]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2004/1482/regulation/13) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
-[^key-972c613a832d5d04be71733f396209da]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2004/1482/regulation/14) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-972c613a832d5d04be71733f396209da]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2004/1482/regulation/14) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
-[^key-26bdc25993b0aaf198f749763720b542]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2004/1482/regulation/15) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-26bdc25993b0aaf198f749763720b542]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2004/1482/regulation/15) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
-[^key-de8e9f1d52a616fdcfaa6121fc80329b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2004/1482/regulation/16) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-de8e9f1d52a616fdcfaa6121fc80329b]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2004/1482/regulation/16) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
-[^key-4d9b115a4a05e6d10568eb2e531918b0]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2004/1482/regulation/17) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-4d9b115a4a05e6d10568eb2e531918b0]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2004/1482/regulation/17) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
-[^key-7645b09eda1c2a9a0631d6f5dd4ccd96]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2004/1482/regulation/18) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
+[^c-7645b09eda1c2a9a0631d6f5dd4ccd96]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2004/1482/regulation/18) in force at 31.5.2005, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1482/regulation/1)
 
 [^f00004]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — Access to works[^key-582196655ce6572979ae93e320e8ef6f]
+## SCHEDULE 5 — Access to works[^c-582196655ce6572979ae93e320e8ef6f]
 
 *Extent: E+W+S*
 
@@ -61,10 +61,10 @@ Article 18
 </tbody>
 </table>
 
-[^key-fdf17f8b51ff502b47c5324845bc1a3e]
+[^c-fdf17f8b51ff502b47c5324845bc1a3e]
 
 ## Annotations
 
-[^key-582196655ce6572979ae93e320e8ef6f]: Commencement: Sch. 5 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-582196655ce6572979ae93e320e8ef6f]: Commencement: Sch. 5 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
 
-[^key-fdf17f8b51ff502b47c5324845bc1a3e]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2014/1873/schedule/5) substituted (14.5.2015) by [The Rampion Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1319)](https://www.legislation.gov.uk/uksi/2015/1319), [art. 1](https://www.legislation.gov.uk/uksi/2015/1319/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1319/schedule)
+[^c-fdf17f8b51ff502b47c5324845bc1a3e]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2014/1873/schedule/5) substituted (14.5.2015) by [The Rampion Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1319)](https://www.legislation.gov.uk/uksi/2015/1319), [art. 1](https://www.legislation.gov.uk/uksi/2015/1319/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1319/schedule)

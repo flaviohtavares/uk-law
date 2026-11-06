@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. “Relevant user-to-user services”, “relevant search services” and “service providers”[^key-794429704abb5affe061955be813edee]
+## 13. “Relevant user-to-user services”, “relevant search services” and “service providers”[^c-794429704abb5affe061955be813edee]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-794429704abb5affe061955be813edee]: Commencement: S. 13 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-794429704abb5affe061955be813edee]: Commencement: S. 13 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Notification with respect to children admitted into, or discharged from, supported accommodation[^key-2166f48f8d8a9cce98727d70df74691a]
+## 28. Notification with respect to children admitted into, or discharged from, supported accommodation[^c-2166f48f8d8a9cce98727d70df74691a]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2166f48f8d8a9cce98727d70df74691a]: Commencement: Reg. 28 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-2166f48f8d8a9cce98727d70df74691a]: Commencement: Reg. 28 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
 [^f00021]: Footnote: Section 22C was substituted by the Children and Young Persons Act 2008, section 8(1); section 23B was inserted by the Children (Leaving Care) Act 2000, section 2(4); there are amendments to sections 22C and 23B which are not relevant to these Regulations. See [S.I. 2010/959](https://www.legislation.gov.uk/uksi/2010/959), regulation 27 for the general duties of the local authority when placing a child in accommodation in accordance with section 22C(6)(d). See [S.I. 2010/2571](https://www.legislation.gov.uk/uksi/2010/2571), regulation 9 for the meaning of “suitable accommodation” under section 23B(8)(b).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 129. Transfer of status[^key-c010f43fda28b47fe05baf2a7c329cab]
+## 129. Transfer of status[^c-c010f43fda28b47fe05baf2a7c329cab]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c010f43fda28b47fe05baf2a7c329cab]: Commencement: [Reg. 129](https://www.legislation.gov.uk/nisr/2007/195/regulation/129) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-c010f43fda28b47fe05baf2a7c329cab]: Commencement: [Reg. 129](https://www.legislation.gov.uk/nisr/2007/195/regulation/129) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

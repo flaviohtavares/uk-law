@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. Claimants appealing a decision[^key-af9596000b45c93e92f85e03240d7efd]
+## 87. Claimants appealing a decision[^c-af9596000b45c93e92f85e03240d7efd]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ the claimant is to be treated as not having limited capability for work with eff
 
 ## Annotations
 
-[^key-af9596000b45c93e92f85e03240d7efd]: Commencement: [Reg. 87](https://www.legislation.gov.uk/nisr/2016/219/regulation/87) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-af9596000b45c93e92f85e03240d7efd]: Commencement: [Reg. 87](https://www.legislation.gov.uk/nisr/2016/219/regulation/87) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

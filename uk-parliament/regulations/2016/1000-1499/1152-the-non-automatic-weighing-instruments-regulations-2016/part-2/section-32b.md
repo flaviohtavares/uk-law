@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32B. Conformity assessment procedure obligations that are met by complying with the Directive[^key-11238f8fd98b953b87cfde504f6ae1a7]
+## 32B. Conformity assessment procedure obligations that are met by complying with the Directive[^c-11238f8fd98b953b87cfde504f6ae1a7]
 
 *Extent: E+W+S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11238f8fd98b953b87cfde504f6ae1a7]: Textual amendment: [Regs. 32A-32D](https://www.legislation.gov.uk/uksi/2016/1152/regulation/32A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 19](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/19) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 18(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/18/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-11238f8fd98b953b87cfde504f6ae1a7]: Textual amendment: [Regs. 32A-32D](https://www.legislation.gov.uk/uksi/2016/1152/regulation/32A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 19](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/19) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 18(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/18/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

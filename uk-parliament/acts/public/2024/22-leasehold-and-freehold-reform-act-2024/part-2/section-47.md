@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Part 2: consequential amendments to other legislation[^key-68bc3bde4d1fd30651a986a2f7d6e73e]
+## 47. Part 2: consequential amendments to other legislation[^c-68bc3bde4d1fd30651a986a2f7d6e73e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 9 contains amendments to other legislation that are consequential on th
 
 ## Annotations
 
-[^key-68bc3bde4d1fd30651a986a2f7d6e73e]: Commencement: S. 47 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-68bc3bde4d1fd30651a986a2f7d6e73e]: Commencement: S. 47 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

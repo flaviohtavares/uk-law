@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 219. Powers to amend sections 61 and 62[^key-e48d3eb1f258649ef3681117a5939f99]
+## 219. Powers to amend sections 61 and 62[^c-e48d3eb1f258649ef3681117a5939f99]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ But the power to add a kind of content is limited by subsections (2) to (4).
 
 ## Annotations
 
-[^key-e48d3eb1f258649ef3681117a5939f99]: Commencement: S. 219 in force at Royal Assent, see [s. 240(z3)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z3)
+[^c-e48d3eb1f258649ef3681117a5939f99]: Commencement: S. 219 in force at Royal Assent, see [s. 240(z3)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Housing stock under Housing Act 1996[^key-c7e123121c8e0a8079296fcf1db4ce6c][^key-291a91e52ecdb1d948e793c0dd6af74c]
+## 77. Housing stock under Housing Act 1996[^c-c7e123121c8e0a8079296fcf1db4ce6c][^c-291a91e52ecdb1d948e793c0dd6af74c]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7e123121c8e0a8079296fcf1db4ce6c]: Commencement: S. 77 in force at 8.9.2008 for specified purposes by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
+[^c-c7e123121c8e0a8079296fcf1db4ce6c]: Commencement: S. 77 in force at 8.9.2008 for specified purposes by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
 
-[^key-291a91e52ecdb1d948e793c0dd6af74c]: Commencement: S. 77 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-291a91e52ecdb1d948e793c0dd6af74c]: Commencement: S. 77 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

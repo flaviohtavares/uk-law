@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Constitution of election court and place of trial[^key-518e05f1ac8f5744261e9647480c080e]
+## 91. Constitution of election court and place of trial[^c-518e05f1ac8f5744261e9647480c080e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-518e05f1ac8f5744261e9647480c080e]: Commencement: Art. 91 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-518e05f1ac8f5744261e9647480c080e]: Commencement: Art. 91 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

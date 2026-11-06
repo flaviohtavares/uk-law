@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56A. Fees in connection with approval of coronavirus test devices[^key-d768de6fcd510f13f33ea600efbf6378]
+## 56A. Fees in connection with approval of coronavirus test devices[^c-d768de6fcd510f13f33ea600efbf6378]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d768de6fcd510f13f33ea600efbf6378]: Textual amendment: [Reg. 56A](https://www.legislation.gov.uk/uksi/2002/618/regulation/56A) inserted (28.7.2021) by [The Medical Devices (Coronavirus Test Device Approvals) (Amendment) Regulations 2021 (S.I. 2021/910)](https://www.legislation.gov.uk/uksi/2021/910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/910/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2021/910/regulation/9)
+[^c-d768de6fcd510f13f33ea600efbf6378]: Textual amendment: [Reg. 56A](https://www.legislation.gov.uk/uksi/2002/618/regulation/56A) inserted (28.7.2021) by [The Medical Devices (Coronavirus Test Device Approvals) (Amendment) Regulations 2021 (S.I. 2021/910)](https://www.legislation.gov.uk/uksi/2021/910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/910/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2021/910/regulation/9)

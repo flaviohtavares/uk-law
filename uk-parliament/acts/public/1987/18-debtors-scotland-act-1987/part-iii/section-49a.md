@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49A. Deductions where net earnings include holiday pay[^key-5ce326174c52b6c9acd2873c510b8608]
+## 49A. Deductions where net earnings include holiday pay[^c-5ce326174c52b6c9acd2873c510b8608]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ the sum, if any, to be deducted from the holiday pay shall be arrived at by appl
 
 ## Annotations
 
-[^key-5ce326174c52b6c9acd2873c510b8608]: Textual amendment: [S. 49A](https://www.legislation.gov.uk/ukpga/1987/18/section/49A) inserted (1.4.2008) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 200(3)](https://www.legislation.gov.uk/asp/2007/3/section/200/3), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(1)(d)](https://www.legislation.gov.uk/ssi/2008/115/article/3/1/d) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10), [13](https://www.legislation.gov.uk/ssi/2008/115/article/13), [15](https://www.legislation.gov.uk/ssi/2008/115/article/15)) (as amended: (23.2.2009) by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), art. 7; (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(a); and (4.10.2014) by [S.S.I. 2014/173](https://www.legislation.gov.uk/ssi/2014/173), arts. 1(2), 3)
+[^c-5ce326174c52b6c9acd2873c510b8608]: Textual amendment: [S. 49A](https://www.legislation.gov.uk/ukpga/1987/18/section/49A) inserted (1.4.2008) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 200(3)](https://www.legislation.gov.uk/asp/2007/3/section/200/3), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(1)(d)](https://www.legislation.gov.uk/ssi/2008/115/article/3/1/d) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10), [13](https://www.legislation.gov.uk/ssi/2008/115/article/13), [15](https://www.legislation.gov.uk/ssi/2008/115/article/15)) (as amended: (23.2.2009) by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), art. 7; (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(a); and (4.10.2014) by [S.S.I. 2014/173](https://www.legislation.gov.uk/ssi/2014/173), arts. 1(2), 3)

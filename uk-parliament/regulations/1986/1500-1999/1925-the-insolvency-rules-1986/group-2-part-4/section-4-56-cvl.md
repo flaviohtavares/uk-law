@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.56-CVL. The chairman at meetings[^key-9006923f8afb5d72d735644a8da3c51a]
+## 4.56-CVL. The chairman at meetings[^c-9006923f8afb5d72d735644a8da3c51a]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ A person nominated under this paragraph must be either—
 
 ## Annotations
 
-[^key-9006923f8afb5d72d735644a8da3c51a]: Commencement: [Rule 4.56CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.56CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-9006923f8afb5d72d735644a8da3c51a]: Commencement: [Rule 4.56CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.56CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^M_F_6111fff5-7b72-42a5-e441-2838d339e239]: Textual amendment: Words in rule 4.56-CVL(1) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [Sch. para. 53](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/53)

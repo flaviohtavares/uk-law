@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Meaning of “tax advantage”[^key-0f79542783b1a1e44cdae60e124991ed]
+## 65. Meaning of “tax advantage”[^c-0f79542783b1a1e44cdae60e124991ed]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f79542783b1a1e44cdae60e124991ed]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2014/16/section/65) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-0f79542783b1a1e44cdae60e124991ed]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2014/16/section/65) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

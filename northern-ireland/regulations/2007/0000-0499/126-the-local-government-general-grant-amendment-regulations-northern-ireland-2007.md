@@ -32,7 +32,7 @@ summary: ''
 
 local government
 
-The Local Government (General Grant) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-b449a41c9f24490728a4c6e8b9e24096]
+The Local Government (General Grant) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-b449a41c9f24490728a4c6e8b9e24096]
 
 Made
 
@@ -44,22 +44,22 @@ Coming into operation
 
 To be laid before Parliament under paragraph 7(3) of the Schedule to the Northern Ireland Act 2000
 
-[^key-b449a41c9f24490728a4c6e8b9e24096]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b449a41c9f24490728a4c6e8b9e24096]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b449a41c9f24490728a4c6e8b9e24096]
+## 1. Citation and commencement[^c-b449a41c9f24490728a4c6e8b9e24096]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Local Government (General Grant) Regulations (Northern Ireland) 2003[^key-b449a41c9f24490728a4c6e8b9e24096]
+## 2. The Local Government (General Grant) Regulations (Northern Ireland) 2003[^c-b449a41c9f24490728a4c6e8b9e24096]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b449a41c9f24490728a4c6e8b9e24096]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b449a41c9f24490728a4c6e8b9e24096]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b449a41c9f24490728a4c6e8b9e24096]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b449a41c9f24490728a4c6e8b9e24096]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b449a41c9f24490728a4c6e8b9e24096]: Textual amendment: Regulations revoked (1.11.2011) by [The Local Government (Rates Support Grant) Regulations (Northern Ireland) 2011 (S.R. 2011/375)](https://www.legislation.gov.uk/nisr/2011/375), [reg. 1](https://www.legislation.gov.uk/nisr/2011/375/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/375/schedule/2) (with [reg. 6(2)-(4)](https://www.legislation.gov.uk/nisr/2011/375/regulation/6/2))
+[^c-b449a41c9f24490728a4c6e8b9e24096]: Textual amendment: Regulations revoked (1.11.2011) by [The Local Government (Rates Support Grant) Regulations (Northern Ireland) 2011 (S.R. 2011/375)](https://www.legislation.gov.uk/nisr/2011/375), [reg. 1](https://www.legislation.gov.uk/nisr/2011/375/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/375/schedule/2) (with [reg. 6(2)-(4)](https://www.legislation.gov.uk/nisr/2011/375/regulation/6/2))

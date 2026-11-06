@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-28b5aef9e1a6648403ff353b6b5805ac]
+## 2. Interpretation[^c-28b5aef9e1a6648403ff353b6b5805ac]
 
 *Extent: E+W+S*
 
@@ -93,7 +93,7 @@ summary: ''
 - “**temporary construction works**” means any of the temporary construction works described in Schedule 1 (authorised development) to the Order;
 - “**traffic**” has the same meaning as in section 329(1) (further provisions as to interpretation) of the 1980 Act;
 - “**traffic authority**” has the same meaning as in section 121A (traffic authorities) of the 1984 Act;
-- “**traffic regulation order plan**” means the document of that description certified as the traffic regulation order plan by the Secretary of State for the purposes of this Order under article 48[^key-15e7178a46e129a641f739706254a840] (certification of plans, etc.);
+- “**traffic regulation order plan**” means the document of that description certified as the traffic regulation order plan by the Secretary of State for the purposes of this Order under article 48[^c-15e7178a46e129a641f739706254a840] (certification of plans, etc.);
 - “**tribunal**” means the Lands Chamber of the Upper Tribunal;
 - “the undertaker”—
   - (a) in relation to the authorised development, means National Grid;
@@ -122,7 +122,7 @@ summary: ''
 
 ## Annotations
 
-[^key-28b5aef9e1a6648403ff353b6b5805ac]: Commencement: Art. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-28b5aef9e1a6648403ff353b6b5805ac]: Commencement: Art. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
 [^f00007]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -164,4 +164,4 @@ summary: ''
 
 [^f00026]: Footnote: “street authority” is defined in section 49, which was amended by paragraph 117 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
-[^key-15e7178a46e129a641f739706254a840]: Textual amendment: Words in art. 2 substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)
+[^c-15e7178a46e129a641f739706254a840]: Textual amendment: Words in art. 2 substituted (12.6.2024) by [The National Grid (Yorkshire Green Energy Enablement Project) (Corrections) Order 2024 (S.I. 2024/811)](https://www.legislation.gov.uk/uksi/2024/811), [art. 1](https://www.legislation.gov.uk/uksi/2024/811/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/811/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Amendment of the Armed Forces Early Departure Payments Scheme Regulations 2014[^key-0955c530fabd8a37a33dbd5610508cff]
+## 42. Amendment of the Armed Forces Early Departure Payments Scheme Regulations 2014[^c-0955c530fabd8a37a33dbd5610508cff]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ The Armed Forces Early Departure Payments Scheme Regulations 2014[^f00031] are a
 
 ## Annotations
 
-[^key-0955c530fabd8a37a33dbd5610508cff]: Commencement: Reg. 42 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-0955c530fabd8a37a33dbd5610508cff]: Commencement: Reg. 42 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00031]: Footnote: [S.I. 2014/2328](https://www.legislation.gov.uk/uksi/2014/2328).

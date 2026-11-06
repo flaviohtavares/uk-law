@@ -34,7 +34,7 @@ summary: ''
 - (c) the power to order that payments under the order be made by the debtor to the creditor by such method of payment falling within paragraph (7) as may be specified;
 - (d) the power to make an attachment of earnings order under Part IX to secure payments under the order.
 
-(4) The collecting officer shall be the clerk of petty sessions or such other person as may be appointed by the Lord Chancellor as collecting officer [^key-bea6efae0afeec03bc94ea7079592542]....
+(4) The collecting officer shall be the clerk of petty sessions or such other person as may be appointed by the Lord Chancellor as collecting officer [^c-bea6efae0afeec03bc94ea7079592542]....
 
 (5) In any case where—
 
@@ -89,7 +89,7 @@ the court shall, unless upon representations expressly made in that behalf by th
 
 [^c22031381]: Textual amendment: [1993 NI 6](https://www.legislation.gov.uk/nisi/1993)
 
-[^key-bea6efae0afeec03bc94ea7079592542]: Textual amendment: Words in [art. 85(4)](https://www.legislation.gov.uk/nisi/1981/1675/article/85/4) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(17)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/17), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-bea6efae0afeec03bc94ea7079592542]: Textual amendment: Words in [art. 85(4)](https://www.legislation.gov.uk/nisi/1981/1675/article/85/4) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(17)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/17), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16969961]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 

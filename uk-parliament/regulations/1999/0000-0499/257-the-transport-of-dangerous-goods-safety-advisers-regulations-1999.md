@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Transport of Dangerous Goods (Safety Advisers) Regulations 1999 (revoked)[^key-0307d3ae1032b16d308ec450801b8e14]
+The Transport of Dangerous Goods (Safety Advisers) Regulations 1999 (revoked)[^c-0307d3ae1032b16d308ec450801b8e14]
 
 Made
 
@@ -51,125 +51,125 @@ For all other purposes
 
 1st March 1999
 
-[^key-0307d3ae1032b16d308ec450801b8e14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0307d3ae1032b16d308ec450801b8e14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0307d3ae1032b16d308ec450801b8e14]
+## 1. Citation and commencement[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0307d3ae1032b16d308ec450801b8e14]
+## 2. Interpretation[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-0307d3ae1032b16d308ec450801b8e14]
+## 3. Application[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Duty to appoint safety advisers[^key-0307d3ae1032b16d308ec450801b8e14]
+## 4. Duty to appoint safety advisers[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Functions and duties of safety advisers[^key-0307d3ae1032b16d308ec450801b8e14]
+## 5. Functions and duties of safety advisers[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Keeping of reports[^key-0307d3ae1032b16d308ec450801b8e14]
+## 6. Keeping of reports[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Vocational training certificates[^key-0307d3ae1032b16d308ec450801b8e14]
+## 7. Vocational training certificates[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Mutual recognition of vocational training certificates[^key-0307d3ae1032b16d308ec450801b8e14]
+## 8. Mutual recognition of vocational training certificates[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Information to be provided to the Secretary of State or goods vehicle examiners[^key-0307d3ae1032b16d308ec450801b8e14]
+## 9. Information to be provided to the Secretary of State or goods vehicle examiners[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Exemptions[^key-0307d3ae1032b16d308ec450801b8e14]
+## 10. Exemptions[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendments to the CDGCPL Regulations[^key-0307d3ae1032b16d308ec450801b8e14]
+## 11. Amendments to the CDGCPL Regulations[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendments to the CDG Road Regulations[^key-0307d3ae1032b16d308ec450801b8e14]
+## 12. Amendments to the CDG Road Regulations[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment to the Carriage of Explosives by Road Regulations 1996[^key-0307d3ae1032b16d308ec450801b8e14]
+## 13. Amendment to the Carriage of Explosives by Road Regulations 1996[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendments to the Health and Safety (Fees) Regulations 1997[^key-0307d3ae1032b16d308ec450801b8e14]
+## 14. Amendments to the Health and Safety (Fees) Regulations 1997[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0307d3ae1032b16d308ec450801b8e14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0307d3ae1032b16d308ec450801b8e14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DISAPPLICATIONS TO THESE REGULATIONS[^key-0307d3ae1032b16d308ec450801b8e14]
+## SCHEDULE 1 — DISAPPLICATIONS TO THESE REGULATIONS[^c-0307d3ae1032b16d308ec450801b8e14]
 
 Regulation 3(2)
 
-**1.**[^key-0307d3ae1032b16d308ec450801b8e14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0307d3ae1032b16d308ec450801b8e14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-0307d3ae1032b16d308ec450801b8e14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0307d3ae1032b16d308ec450801b8e14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0307d3ae1032b16d308ec450801b8e14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0307d3ae1032b16d308ec450801b8e14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0307d3ae1032b16d308ec450801b8e14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0307d3ae1032b16d308ec450801b8e14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — FUNCTIONS OF SAFETY ADVISERS[^key-0307d3ae1032b16d308ec450801b8e14]
+## SCHEDULE 2 — FUNCTIONS OF SAFETY ADVISERS[^c-0307d3ae1032b16d308ec450801b8e14]
 
 Regulations 5(1), 6, 7(6) and 9(2)
 
-[^key-0307d3ae1032b16d308ec450801b8e14](This Schedule reproduces the provisions of Annex I to the Directive.)
+[^c-0307d3ae1032b16d308ec450801b8e14](This Schedule reproduces the provisions of Annex I to the Directive.)
 
-[^key-0307d3ae1032b16d308ec450801b8e14]
+[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — FORM OF VOCATIONAL TRAINING CERTIFICATE[^key-0307d3ae1032b16d308ec450801b8e14]
+## SCHEDULE 3 — FORM OF VOCATIONAL TRAINING CERTIFICATE[^c-0307d3ae1032b16d308ec450801b8e14]
 
 Regulation 7(3)
 
-[^key-0307d3ae1032b16d308ec450801b8e14](This Schedule reproduces Annex III to the Directive.)
+[^c-0307d3ae1032b16d308ec450801b8e14](This Schedule reproduces Annex III to the Directive.)
 
-### EC certificate of training as safety adviser for the transport of dangerous goods[^key-0307d3ae1032b16d308ec450801b8e14]
+### EC certificate of training as safety adviser for the transport of dangerous goods[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — SUBJECTS TO BE COVERED IN EXAMINATION[^key-0307d3ae1032b16d308ec450801b8e14]
+## SCHEDULE 4 — SUBJECTS TO BE COVERED IN EXAMINATION[^c-0307d3ae1032b16d308ec450801b8e14]
 
 Regulation 7(7)
 
-**1.**[^key-0307d3ae1032b16d308ec450801b8e14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0307d3ae1032b16d308ec450801b8e14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. General preventive and safety measures[^key-0307d3ae1032b16d308ec450801b8e14]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-0307d3ae1032b16d308ec450801b8e14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Provisions relating to the mode of transport used[^key-0307d3ae1032b16d308ec450801b8e14]
+### 2. General preventive and safety measures[^c-0307d3ae1032b16d308ec450801b8e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — AMENDMENTS TO THE HEALTH AND SAFETY (FEES) REGULATIONS 1997[^key-0307d3ae1032b16d308ec450801b8e14]
+**3.**[^c-0307d3ae1032b16d308ec450801b8e14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Provisions relating to the mode of transport used[^c-0307d3ae1032b16d308ec450801b8e14]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 — AMENDMENTS TO THE HEALTH AND SAFETY (FEES) REGULATIONS 1997[^c-0307d3ae1032b16d308ec450801b8e14]
 
 Regulation 14
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 11A — FEES FOR VOCATIONAL TRAINING CERTIFICATE UNDER THE TRANSPORT OF DANGEROUS GOODS (SAFETY ADVISERS) REGULATIONS 1999[^key-0307d3ae1032b16d308ec450801b8e14]
+## SCHEDULE 11A — FEES FOR VOCATIONAL TRAINING CERTIFICATE UNDER THE TRANSPORT OF DANGEROUS GOODS (SAFETY ADVISERS) REGULATIONS 1999[^c-0307d3ae1032b16d308ec450801b8e14]
 
 Regulation 13A
 
@@ -211,4 +211,4 @@ Regulation 13A
 
 ## Annotations
 
-[^key-0307d3ae1032b16d308ec450801b8e14]: Textual amendment: Regulations revoked (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 14](https://www.legislation.gov.uk/uksi/2004/568/schedule/14)
+[^c-0307d3ae1032b16d308ec450801b8e14]: Textual amendment: Regulations revoked (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 14](https://www.legislation.gov.uk/uksi/2004/568/schedule/14)

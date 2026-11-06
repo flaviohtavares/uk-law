@@ -42,7 +42,7 @@ The Department of Economic Development, being the Department concerned[^f00001] 
 
 ## Part I — Introduction
 
-### 1. Citation and commencement[^key-5be4a101477b313beb514303dea8329c]
+### 1. Citation and commencement[^c-5be4a101477b313beb514303dea8329c]
 
 (1) These Regulations may be cited as the Carriage of Dangerous Goods (Classification, Packaging and Labelling) and Use of Transportable Pressure Receptacles Regulations (Northern Ireland) 1997 and, subject to paragraph (2), shall come into operation on 1st July 1997.
 
@@ -52,7 +52,7 @@ The Department of Economic Development, being the Department concerned[^f00001] 
 - (b) regulation 23(3); and
 - (c) Schedule 7.
 
-### 2. Interpretation[^key-060b8445688d9a7cefbebb28407fcccd]
+### 2. Interpretation[^c-060b8445688d9a7cefbebb28407fcccd]
 
 (1) In these Regulations—
 
@@ -232,7 +232,7 @@ The Department of Economic Development, being the Department concerned[^f00001] 
 
   and includes a vehicle which has been provided to the armed forces under any kind of agreement or arrangement under which payments are, or are to be, made for the provision of the vehicle, including a conditional-sale agreement, a credit-sale agreement, a hire-purchase agreement and a contract for sale.
 
-### 3. Application[^key-55dce7ba8678bba9e84dba0b23331eb0]
+### 3. Application[^c-55dce7ba8678bba9e84dba0b23331eb0]
 
 (1) Subject to paragraph (2), regulations 3 to 11 shall apply to and in relation to the carriage of any dangerous goods except where—
 
@@ -321,7 +321,7 @@ where those goods are being carried in—
 
 (8) These Regulations shall apply to a self-employed person as they apply to an employer and an employee and as if that self-employed person were both an employer and an employee.
 
-### 4. Meaning of and revisions to the Approved Carriage List and other approved documents[^key-fab1dab68668833c949a590d90dfee94]
+### 4. Meaning of and revisions to the Approved Carriage List and other approved documents[^c-fab1dab68668833c949a590d90dfee94]
 
 (1) For the purposes of these Regulations the Department shall approve the following documents published by the Health and Safety Commission (in these Regulations referred to as “approved documents”) entitled—
 
@@ -351,7 +351,7 @@ where those goods are being carried in—
 
 ## Part II — Classification, Packaging and Labelling
 
-### 5. Classification and ascertainment of other particulars of dangerous goods[^key-acc052377eb8dcabf4329be0853dd28f]
+### 5. Classification and ascertainment of other particulars of dangerous goods[^c-acc052377eb8dcabf4329be0853dd28f]
 
 (1) A person shall not consign dangerous goods for carriage unless the classification for those goods and the particulars specified in paragraphs (2) to (5) have been ascertained in accordance with those paragraphs.
 
@@ -378,7 +378,7 @@ where those goods are being carried in—
 
 (5) In the case of goods which are not named individually in the Approved Carriage List, the entry for the goods in that List for the purpose of ascertaining the particulars in paragraph (4)(*a*) and (*b*) shall be that which most fully and accurately describes those goods.
 
-### 6. Consignment of dangerous goods in packages[^key-457ac12efa23b72257930d5cd6b57da1]
+### 6. Consignment of dangerous goods in packages[^c-457ac12efa23b72257930d5cd6b57da1]
 
 (1) The consignor shall not consign any dangerous goods for carriage in packages unless those packages are suitable, and in particular, unless—
 
@@ -417,7 +417,7 @@ where those goods are being carried in—
 - (b) restored to their original shape and contour, with chimes (if any) straightened and sealed and all non-integral gaskets replaced; and
 - (c) inspected after cleaning but before painting, with rejection of packagings with visible pitting, significant reduction in material thickness, metal fatigue, damaged threads or closures or other significant defects.
 
-### 7. Use of marks on packagings[^key-f4087f84e289a5072e60ca724ed7bad6]
+### 7. Use of marks on packagings[^c-f4087f84e289a5072e60ca724ed7bad6]
 
 (1) A person shall not mark any packagings with a mark which is liable to be confused with an ADR mark, a RID mark, a UN mark or a joint ADR and RID mark.
 
@@ -426,7 +426,7 @@ where those goods are being carried in—
 - (a) other than in accordance with any requirements specified by the competent authority in relation to that mark; or
 - (b) without the authority of the certificate holder unless the mark is a duplicate of a mark the use of which by that person has been authorised by the holder.
 
-### 8. Particulars to be shown on packages containing dangerous goods[^key-dcfb7a60dd80328380d576c39c64d27a]
+### 8. Particulars to be shown on packages containing dangerous goods[^c-dcfb7a60dd80328380d576c39c64d27a]
 
 (1) Subject to paragraphs (3) to (6) and regulation 9, a consignor shall not consign dangerous goods for carriage in a package unless—
 
@@ -453,7 +453,7 @@ for each of the dangerous goods in the package.
 
 (6) The requirements of paragraph (1)(*a*) shall not apply in relation to dangerous goods to the extent that they are disapplied by the special provisions for those goods in the Approved Carriage List, the code for such provision being in column 10 of the said List.
 
-### 9. Derogations from regulation 9 of the supply Regulations and regulation 8 of these Regulations[^key-5dc4792276b5bd7b8ffdb162194df4b9]
+### 9. Derogations from regulation 9 of the supply Regulations and regulation 8 of these Regulations[^c-5dc4792276b5bd7b8ffdb162194df4b9]
 
 (1) Where a package would otherwise be required to show the particulars required by both regulation 9 of the supply Regulations and regulation 8, it shall be sufficient compliance with the aforementioned provisions if the package shows in accordance with regulation 11 the particulars specified in paragraphs (2) to (6).
 
@@ -467,7 +467,7 @@ for each of the dangerous goods in the package.
 
 (6) In this regulation “pesticide” and “preparations” have the same meanings as in the supply Regulations.
 
-### 10. Derogations from regulation 9 of the supply Regulations[^key-8c04c531c0a16306a7bf9ee4324d6196]
+### 10. Derogations from regulation 9 of the supply Regulations[^c-8c04c531c0a16306a7bf9ee4324d6196]
 
 (1) Where a package is required to show the particulars required by regulation 9 of the supply Regulations, but is excepted from showing the particulars required by regulation 8 because it shows the particulars required by any of the transport rules specified in regulations 3(1)(*a*) to (*f*), it shall be a sufficient compliance with regulation 9 of the supply Regulations if the package shows the particulars specified in paragraphs (2) and (3).
 
@@ -478,7 +478,7 @@ for each of the dangerous goods in the package.
 
 (3) Where the package consists of one or more receptacles in outer packagings, the specified particulars are those required by whichever of the transport rules is appropriate.
 
-### 11. Methods of marking or labelling packages[^key-fb20b61d5c65f49003ba79093eea67d2]
+### 11. Methods of marking or labelling packages[^c-fb20b61d5c65f49003ba79093eea67d2]
 
 (1) The particulars required to be shown by regulations 8 to 10 shall be—
 
@@ -497,7 +497,7 @@ for each of the dangerous goods in the package.
 
 ## Part III — Transportable Pressure Receptacles
 
-### 12. Design, manufacture, modification and repair[^key-ec5cac79f7ff79cdc1930cf7183ffbf0]
+### 12. Design, manufacture, modification and repair[^c-ec5cac79f7ff79cdc1930cf7183ffbf0]
 
 (1) Any person who designs, manufacturers, imports or supplies a transportable pressure receptacle intended for containing dangerous goods shall ensure that—
 
@@ -519,7 +519,7 @@ for each of the dangerous goods in the package.
 - (b) carry out joining of materials; and
 - (c) carry out the relevant tests.
 
-### 13. Approved Requirements, approval and certification[^key-996bbd17c9505820abbff9b5af0b3bcb]
+### 13. Approved Requirements, approval and certification[^c-996bbd17c9505820abbff9b5af0b3bcb]
 
 A person shall not import, supply or own a transportable pressure receptacle containing dangerous goods unless either—
 
@@ -532,7 +532,7 @@ A person shall not import, supply or own a transportable pressure receptacle con
   - (i) there is an EEC Verification Certificate in force in respect of it issued by an inspection body which, under the law of any member State, is authorised to grant such a Certificate for the purposes of the Pressure Vessels Framework Directive and the separate Directive relating to that type of cylinder, or, in the case of a cylinder not subject to EEC verification under any of the separate Directives, it conforms to the requirements of the Pressure Vessels Framework Directive and the separate Directive relating to that type of cylinder; and
   - (ii) it bears all the marks and inscriptions required by the Pressure Vessels Framework Directive and the separate Directive relating to that type of cylinder.
 
-### 14. Marking of transportable pressure receptacles[^key-9b13598e55d97694b6530cc43f92f546]
+### 14. Marking of transportable pressure receptacles[^c-9b13598e55d97694b6530cc43f92f546]
 
 The owner of a transportable pressure receptacle shall ensure that—
 
@@ -541,7 +541,7 @@ The owner of a transportable pressure receptacle shall ensure that—
   - (ii) where required by the Approved Requirements, an examination and test to certify that the receptacle conforms with any relevant periodic examination or test requirements of the Approved Requirements; and
 - (b) a further periodic examination in accordance with the appropriate periodic examination and test requirements of the Approved Requirements is not overdue.
 
-### 15. Approved persons[^key-52ae9b26ca13b2d744a7fe605b116e7d]
+### 15. Approved persons[^c-52ae9b26ca13b2d744a7fe605b116e7d]
 
 (1) In these Regulations, an approved person means—
 
@@ -564,7 +564,7 @@ and any reference in these Regulations to an approved person in connection with 
 
 (8) A person shall not affix to a transportable pressure receptacle a mark liable to be confused with the mark referred to in regulation 14.
 
-### 16. Filling of transportable pressure receptacles[^key-908fcafbcb1edbc3eca44fbb5287b685]
+### 16. Filling of transportable pressure receptacles[^c-908fcafbcb1edbc3eca44fbb5287b685]
 
 The employer of a person who fills a transportable pressure receptacle with dangerous goods shall ensure—
 
@@ -577,7 +577,7 @@ The employer of a person who fills a transportable pressure receptacle with dang
   - (i) the receptacle is checked to verify that it is within its safe operating limits and is not overfilled; and
   - (ii) in the event of overfilling, any excess gas is removed safely.
 
-### 17. Records[^key-1536375365766a0a349b223d62d8fda2]
+### 17. Records[^c-1536375365766a0a349b223d62d8fda2]
 
 The manufacturer or, if he does not have a place of business in Northern Ireland, his agent in Northern Ireland or, if he has no such agent, the importer of a transportable pressure receptacle, and the owner of a hired out transportable pressure receptacle—
 
@@ -586,7 +586,7 @@ The manufacturer or, if he does not have a place of business in Northern Ireland
 
 ## Part IV — Miscellaneous
 
-### 18. Exemption certificates[^key-a28b5319b54e7009ff3885e1e42a7e95]
+### 18. Exemption certificates[^c-a28b5319b54e7009ff3885e1e42a7e95]
 
 (1) Subject to paragraph (2) and to any of the provisions imposed by the Communities in respect of the transport of dangerous goods by road, the Department may, by a certificate in writing, exempt—
 
@@ -610,7 +610,7 @@ it is satisfied that the health or safety of persons who are likely to be affect
 
 and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by the said Secretary of State by a further certificate in writing.
 
-### 19. Enforcement[^key-3d55c5cc34709082448ea662577efada]
+### 19. Enforcement[^c-3d55c5cc34709082448ea662577efada]
 
 (1) The enforcing authority for these Regulations, other than the provisions specified in paragraph (2), shall—
 
@@ -625,7 +625,7 @@ be the Department.
 - (b) paragraphs 3(2), 4(1) and (2), and 21(2) and 10(2) of Schedule 8; and
 - (c) regulations 12(3), 13 and 17, insofar as they relate to owners of transportable pressure receptacles.
 
-### 20. Defences[^key-9968fd27bc89e340eaf4d5099f2ad8f7]
+### 20. Defences[^c-9968fd27bc89e340eaf4d5099f2ad8f7]
 
 (1) In any proceedings for an offence for a contravention of any of the provisions of these Regulations it shall, subject to paragraphs (2) and (3), be a defence for the person charged to prove—
 
@@ -636,7 +636,7 @@ be the Department.
 
 (3) Where a contravention of these Regulations by any person is due to the act or default of the other person, that other person shall be guilty of the offence which would, but for any defence under these Regulations available to the first-mentioned person, be constituted by the act or default.
 
-### 21. Transitional defences[^key-60779d077522c5fa15bd8d7e47ba5de1]
+### 21. Transitional defences[^c-60779d077522c5fa15bd8d7e47ba5de1]
 
 (1) In any proceedings for an offence consisting of a contravention of these Regulations before 1st January 1999, it shall be a defence for the accused to prove that the goods were classified, packaged and labelled for carriage prior to 1st July 1996 in accordance with the 1993 Regulations, and that—
 
@@ -658,7 +658,7 @@ be the Department.
 
 (7) In any proceedings for an offence consisting of a contravention of regulation 8(1), on or after 1st November 1997, in relation to the consignment of goods for carriage in transportable pressure receptacles, it shall be a defence for the accused to prove that the packages were labelled for carriage prior to 1st November 1997 in accordance with the 1995 Regulations as in operation immediately before the commencement of these Regulations and the label has not been altered since then.
 
-### 22. Amendments[^key-1b955fca97868d21a8aedfd066873368][^key-611953c14812400c81aa26f0b41bb28a]
+### 22. Amendments[^c-1b955fca97868d21a8aedfd066873368][^c-611953c14812400c81aa26f0b41bb28a]
 
 (1) In the Highly Flammable Liquids and Liquefied Petroleum Gases Regulations (Northern Ireland) 1975[^f00033] for regulation 7(7) there shall be substituted—
 
@@ -712,7 +712,7 @@ be the Department.
 
 (9) In the Health and Safety (Safety Signs and Signals) Regulations (Northern Ireland) 1996[^f00040], in regulation 2(1) in the definition of “dangerous goods” for “Carriage of Dangerous Goods by Road and Rail (Classification, Packaging and Labelling) Regulations (Northern Ireland) 1995” there shall be substituted “Carriage of Dangerous Goods (Classification, Packaging and Labelling) and Use of Transportable Pressure Receptacles Regulations (Northern Ireland) 1997 ([S.R. 1997 No. 247](https://www.legislation.gov.uk/nisr/1997/247))”.
 
-### 23. Revocations[^key-e21bc8bce72d8176d0e75fdbe7c55a90][^key-c21fe96d54a9b02f0bd881a45459de6f]
+### 23. Revocations[^c-e21bc8bce72d8176d0e75fdbe7c55a90][^c-c21fe96d54a9b02f0bd881a45459de6f]
 
 (1) The Carriage of Dangerous Goods by Road and Rail (Classification, Packaging and Labelling) Regulations (Northern Ireland) 1995[^f00041] are hereby revoked.
 
@@ -720,7 +720,7 @@ be the Department.
 
 (3) The instruments specified in Schedule 7 are hereby revoked.
 
-### 24. Particulars deemed to satisfy the requirements of certain enactments[^key-96ef785a4b4a99ab33a15fe2d7ff06e8]
+### 24. Particulars deemed to satisfy the requirements of certain enactments[^c-96ef785a4b4a99ab33a15fe2d7ff06e8]
 
 Where a package is required to show particulars in accordance with these Regulations and shows such particulars, those particulars shall be deemed to satisfy the requirements of—
 
@@ -741,7 +741,7 @@ Assistant Secretary
 
 Regulation 5(3) and (4)
 
-### Part I — Table of classifications and other particulars[^key-380a11fd2938f744349ec84009fcce2b]
+### Part I — Table of classifications and other particulars[^c-380a11fd2938f744349ec84009fcce2b]
 
 <table>
 <thead>
@@ -795,20 +795,20 @@ Regulation 5(3) and (4)
 
 ### Part II — Specification of Danger Signs
 
-**1.**[^key-9c5c28402d6b3e682e3712fc04868494] The danger signs to be used shall be those shown in column 6 of Part I for the classification of the goods shown in the corresponding entry in column 1 of that Part and the signs shall conform in form and colour to those shown in the said column 6, except that in the case of the signs for the classifications “non-flammable non-toxic gas”, “flammable gas”, “flammable liquid” and “substance which in contact with water emits flammable gas”, the symbol may be in white.
+**1.**[^c-9c5c28402d6b3e682e3712fc04868494] The danger signs to be used shall be those shown in column 6 of Part I for the classification of the goods shown in the corresponding entry in column 1 of that Part and the signs shall conform in form and colour to those shown in the said column 6, except that in the case of the signs for the classifications “non-flammable non-toxic gas”, “flammable gas”, “flammable liquid” and “substance which in contact with water emits flammable gas”, the symbol may be in white.
 
-**2.**[^key-1f3f1747e15afe917b37b05139533224] The words in column 7 of Part I may be included in the lower half of the relevant sign shown in the corresponding entry in column 6 of that Part and where included shall conform in form and colour to those shown in the said column 7, except that—
+**2.**[^c-1f3f1747e15afe917b37b05139533224] The words in column 7 of Part I may be included in the lower half of the relevant sign shown in the corresponding entry in column 6 of that Part and where included shall conform in form and colour to those shown in the said column 7, except that—
 
 - (a) in the case of the signs for the classifications “non-flammable non-toxic gas”, “flammable gas”, “flammable liquid”, “spontaneously combustible substance” and “substance which in contact with water emits flammable gas”, any lettering may be in white;
 - (b) in the case of the sign for the classification “corrosive substance” the lettering shall be in white;
 - (c) in place of the word “toxic”, the word “poison” may be used wherever it occurs; and
 - (d) in place of the word “flammable”, the word “inflammable” may be used wherever it occurs.
 
-**3.**[^key-8e6f6f2c7e50dfdaa4625ba7a5fc2492] Each danger sign shall be in the form of a square set with its sides at an angle of 45° to the vertical.
+**3.**[^c-8e6f6f2c7e50dfdaa4625ba7a5fc2492] Each danger sign shall be in the form of a square set with its sides at an angle of 45° to the vertical.
 
-**4.**[^key-e60e8f373ca80ad825cb0659adf729de] Danger signs shall have a line of the same colour as the symbol, 5 millimetres inside the edge and running parallel to it. (The broken line which surrounds each sign as depicted in column 6 of Part I delineates the edge of that sign and need not be shown.)
+**4.**[^c-e60e8f373ca80ad825cb0659adf729de] Danger signs shall have a line of the same colour as the symbol, 5 millimetres inside the edge and running parallel to it. (The broken line which surrounds each sign as depicted in column 6 of Part I delineates the edge of that sign and need not be shown.)
 
-### Part III — Viscous Substances not required to be Classified as Flammable Liquids[^key-b1aedba77649bb9a726a5f77f1422d04]
+### Part III — Viscous Substances not required to be Classified as Flammable Liquids[^c-b1aedba77649bb9a726a5f77f1422d04]
 
 For the purposes of Part I, a substance shall not be classified as a flammable liquid if it complies with the following conditions, namely—
 
@@ -820,7 +820,7 @@ For the purposes of Part I, a substance shall not be classified as a flammable l
   - (i) in a case where the substance contains not more than 60% of a flammable liquid with a flash point of 61°C or less, not less than 40 seconds;
   - (ii) in any other case, not less than 60 seconds.
 
-### Part IV — Tables of Flash Points and Kinematic Viscosity Ranges of Goods which have been classified as Flammable Liquids in accordance with Regulation 5, which have a Flash Point of less than 23°C and contain either— — Not more than 5% of Toxic or Corrosive Substances with a Packing Group of I or II, or not more than 5% of Flammable Liquids with a Packing Group of I and a Subsidiary Hazard of Toxic or Corrosive[^key-051464318dc98e8433bf48a4e796d191]
+### Part IV — Tables of Flash Points and Kinematic Viscosity Ranges of Goods which have been classified as Flammable Liquids in accordance with Regulation 5, which have a Flash Point of less than 23°C and contain either— — Not more than 5% of Toxic or Corrosive Substances with a Packing Group of I or II, or not more than 5% of Flammable Liquids with a Packing Group of I and a Subsidiary Hazard of Toxic or Corrosive[^c-051464318dc98e8433bf48a4e796d191]
 
 <table>
 <thead>
@@ -837,7 +837,7 @@ For the purposes of Part I, a substance shall not be classified as a flammable l
 </tbody>
 </table>
 
-### Part V — Criteria for Ascertaining Packing Groups of Goods which have been classified as Toxic Substances in accordance with Regulation 5[^key-9ab37495559602d523f4021ae315a5a4]
+### Part V — Criteria for Ascertaining Packing Groups of Goods which have been classified as Toxic Substances in accordance with Regulation 5[^c-9ab37495559602d523f4021ae315a5a4]
 
 Toxic substances shall be allocated into packing group I, II or III in accordance with the criteria given in the following Table:
 
@@ -860,7 +860,7 @@ Toxic substances shall be allocated into packing group I, II or III in accordanc
 
 Regulation 5(4)(*d*)
 
-### Part I — Ascertainment[^key-48fc38f02b2b97c5ef3bc7536b05a562]
+### Part I — Ascertainment[^c-48fc38f02b2b97c5ef3bc7536b05a562]
 
 <table>
 <thead>
@@ -882,20 +882,20 @@ Regulation 5(4)(*d*)
 
 ### Part II — Specification
 
-**1.**[^key-b1956a5f3d2c4648f1f0c0d00efde508] The subsidiary hazard signs to be used shall be those shown in column 2 of Part I for the subsidiary hazard of the goods shown in the corresponding entry in column 1 of that Part and the signs shall conform in form and colour to those shown in the said column 2, except that in the case of the signs for the subsidiary hazards “Danger of fire (flammable gas)”, “Danger of fire (flammable liquid)”, or “Danger of emission of flammable gas on contact with water” the symbol may be in white.
+**1.**[^c-b1956a5f3d2c4648f1f0c0d00efde508] The subsidiary hazard signs to be used shall be those shown in column 2 of Part I for the subsidiary hazard of the goods shown in the corresponding entry in column 1 of that Part and the signs shall conform in form and colour to those shown in the said column 2, except that in the case of the signs for the subsidiary hazards “Danger of fire (flammable gas)”, “Danger of fire (flammable liquid)”, or “Danger of emission of flammable gas on contact with water” the symbol may be in white.
 
-**2.**[^key-22e415bf9dbcbad0facbde92a98f3328] The words in column 3 of Part I may be included in the lower half of the relevant sign shown in the corresponding entry in column 2 of that Part and where included shall conform in form and colour to those shown in the said column 3, except that—
+**2.**[^c-22e415bf9dbcbad0facbde92a98f3328] The words in column 3 of Part I may be included in the lower half of the relevant sign shown in the corresponding entry in column 2 of that Part and where included shall conform in form and colour to those shown in the said column 3, except that—
 
 - (a) in the case of the signs for the subsidiary hazards “Danger of fire (flammable gas)”, “Danger of fire (flammable liquid)”, “Liable to spontaneous combustion” and “Danger of emission of flammable gas on contact with water” any lettering may be in white;
 - (b) in the case of the sign for the classification “corrosive substance” the lettering shall be in white;
 - (c) in place of the word “toxic”, the word “poison” may be used; and
 - (d) in place of the word “flammable”, the word “inflammable” may be used wherever it occurs.
 
-**3.**[^key-e461079f180278190abdc9ad2c6e5ee7] Each subsidiary hazard sign shall be in the form of a square set with its sides at an angle of 45° to the vertical.
+**3.**[^c-e461079f180278190abdc9ad2c6e5ee7] Each subsidiary hazard sign shall be in the form of a square set with its sides at an angle of 45° to the vertical.
 
-**4.**[^key-7f47d5dae79bc7b88ba76901c6ad5af8] Subsidiary hazard signs shall have a line of the same colour as the symbol, 5 millimetres inside the edge and running parallel to it. (The broken line which surrounds each sign as depicted in column 2 of Part I delineates the edge of that sign and need not be shown.)
+**4.**[^c-7f47d5dae79bc7b88ba76901c6ad5af8] Subsidiary hazard signs shall have a line of the same colour as the symbol, 5 millimetres inside the edge and running parallel to it. (The broken line which surrounds each sign as depicted in column 2 of Part I delineates the edge of that sign and need not be shown.)
 
-## SCHEDULE 3 — CIRCUMSTANCES IN WHICH INDIVIDUAL RECEPTACLES NEED NOT COMPLY WITH REGULATION 6(1)(e) AND PARTICULARS NEED NOT BE SHOWN ON PACKAGES IN ACCORDANCE WITH REGULATION 8(1)[^key-97d6182c1e85f22e73f1107e87fc54c2]
+## SCHEDULE 3 — CIRCUMSTANCES IN WHICH INDIVIDUAL RECEPTACLES NEED NOT COMPLY WITH REGULATION 6(1)(e) AND PARTICULARS NEED NOT BE SHOWN ON PACKAGES IN ACCORDANCE WITH REGULATION 8(1)[^c-97d6182c1e85f22e73f1107e87fc54c2]
 
 Regulations 6(3)(*c*) and 8(4)
 
@@ -936,28 +936,28 @@ Regulations 6(3)(*c*) and 8(4)
 
 Regulations 3(5)(*a*) and 15(5)
 
-**1.**[^key-0ea06290e78203374e0123b4fab6888b] On the making of an application to the Department for the approval of an approved person there shall be payable by such person in connection with the performance by or on behalf of the Department of its functions in relation to that application a fee or fees to be determined in accordance with paragraphs 2 to 5.
+**1.**[^c-0ea06290e78203374e0123b4fab6888b] On the making of an application to the Department for the approval of an approved person there shall be payable by such person in connection with the performance by or on behalf of the Department of its functions in relation to that application a fee or fees to be determined in accordance with paragraphs 2 to 5.
 
-**2.**[^key-0656624ca3b7505338b2815e4c7b1a13] On receipt of an application for approval, the Department shall prepare and send to the applicant an estimate of the cost to it of the work necessary for the determination of the application, and the amount so estimated shall, subject to paragraph 4, be the amount of the initial fee payable and shall be paid forthwith.
+**2.**[^c-0656624ca3b7505338b2815e4c7b1a13] On receipt of an application for approval, the Department shall prepare and send to the applicant an estimate of the cost to it of the work necessary for the determination of the application, and the amount so estimated shall, subject to paragraph 4, be the amount of the initial fee payable and shall be paid forthwith.
 
-**3.**[^key-df4cc3465c8473f99e719295419f3e50] On determination of the application, the Department shall prepare and send to the applicant a detailed statement of the work carried out for the determination of the application and of the cost reasonably incurred by it in carrying out that work or in having it carried out on its behalf.
+**3.**[^c-df4cc3465c8473f99e719295419f3e50] On determination of the application, the Department shall prepare and send to the applicant a detailed statement of the work carried out for the determination of the application and of the cost reasonably incurred by it in carrying out that work or in having it carried out on its behalf.
 
-**4.**[^key-2b64c22d9295c5e0b90c6fd620b9aa72] If the cost stated in accordance with paragraph 3—
+**4.**[^c-2b64c22d9295c5e0b90c6fd620b9aa72] If the cost stated in accordance with paragraph 3—
 
 - (a) is greater than the amount of the initial fee estimated in accordance with paragraph 2, the difference shall be the amount of the final fee payable and shall be notified by the Department to the applicant and shall be paid by the applicant forthwith; or
 - (b) is less than the amount of the initial fee estimated in accordance with paragraph 2, the difference shall be paid forthwith to the applicant by the Department.
 
-**5.**[^key-5cbf67755723f403c8beac0a19de75bc] In estimating or stating the cost of carrying out any work the Department may determine the cost of employing an officer for any period on work appropriate to his grade by reference to the average cost to it of employing officers of his grade for that period.
+**5.**[^c-5cbf67755723f403c8beac0a19de75bc] In estimating or stating the cost of carrying out any work the Department may determine the cost of employing an officer for any period on work appropriate to his grade by reference to the average cost to it of employing officers of his grade for that period.
 
-**6.**[^key-2bf5ff46153abe3614f30abd5c38b8f1] Following a surveillance inspection under regulation 15(3) the Department shall prepare and send to the person so inspected a statement of the cost of the performance by or on behalf of the Department of its functions in relation to that inspection, and the amount so stated shall be the fee payable for that inspection and shall be paid forthwith.
+**6.**[^c-2bf5ff46153abe3614f30abd5c38b8f1] Following a surveillance inspection under regulation 15(3) the Department shall prepare and send to the person so inspected a statement of the cost of the performance by or on behalf of the Department of its functions in relation to that inspection, and the amount so stated shall be the fee payable for that inspection and shall be paid forthwith.
 
 ## SCHEDULE 5 — AMENDMENTS TO THE DANGEROUS SUBSTANCES IN HARBOUR AREAS REGULATIONS (NORTHERN IRELAND) 1991
 
 Regulation 22(3)
 
-**1.**[^key-1a671edbe7bcad08ab6b777045c90413] The Dangerous Substances in Harbour Areas Regulations (Northern Ireland) 1991[^f00044] shall be amended in accordance with paragraphs 2 to 7.
+**1.**[^c-1a671edbe7bcad08ab6b777045c90413] The Dangerous Substances in Harbour Areas Regulations (Northern Ireland) 1991[^f00044] shall be amended in accordance with paragraphs 2 to 7.
 
-**2.**[^key-c6a07c591a91ce1ecb2431ad15cdf3d8] In regulation 2(1) (Interpretation)—
+**2.**[^c-c6a07c591a91ce1ecb2431ad15cdf3d8] In regulation 2(1) (Interpretation)—
 
 - (a) for the definition of “approved list” there shall be substituted—
 
@@ -971,13 +971,13 @@ Regulation 22(3)
   ; and
 - (c) in the definition of “portable tank” for the words “Road Traffic (Carriage of Dangerous Substances in Road Tankers and Tank Containers) Regulations (Northern Ireland) 1992” there shall be substituted the words “the Carriage of Dangerous Goods (Classification, Packaging and Labelling) and Use of Transportable Pressure Receptacles Regulations (Northern Ireland) 1997”.
 
-**3.**[^key-d567afd6158add0dc9a66179303b0216] In regulation 3 (Meaning of dangerous substance) for paragraph (2)(*b*) there shall be substituted—
+**3.**[^c-d567afd6158add0dc9a66179303b0216] In regulation 3 (Meaning of dangerous substance) for paragraph (2)(*b*) there shall be substituted—
 
 > - (b) it falls within the definition of “dangerous goods” in regulation 2(1) of the Carriage of Dangerous Goods (Classification, Packaging and Labelling) and Use of Transportable Pressure Receptacles Regulations (Northern Ireland) 1997.
 
 .
 
-**4.**[^key-7375df78d85e38f2303368b3ddc29d16] In regulation 24 (Portable tanks and receptacles) for paragraph (*a*) there shall be substituted—
+**4.**[^c-7375df78d85e38f2303368b3ddc29d16] In regulation 24 (Portable tanks and receptacles) for paragraph (*a*) there shall be substituted—
 
 > - (a) a portable tank, the operator of the tank shall ensure that it is correctly filled and either—
 >   - (i) in the case of a portable tank to which the Carriage of Dangerous Goods by Road Regulations (Northern Ireland) 1997 ([S.R. 1997 No. 248](https://www.legislation.gov.uk/nisr/1997/248)) applies, and
@@ -987,7 +987,7 @@ Regulation 22(3)
 
 .
 
-**5.**[^key-0e04bb640b38a320810c5d5a6c25577f] In regulation 25 (Labelling)—
+**5.**[^c-0e04bb640b38a320810c5d5a6c25577f] In regulation 25 (Labelling)—
 
 - (a) in paragraph (1)(*b*)(ii) for the words “or (where they fall within the definition of dangerous goods in regulation 2(1) of the Carriage of Dangerous Goods by Road and Rail (Classification, Packaging and Labelling) Regulations (Northern Ireland) 1995) those Regulations” there shall be substituted the words “or (where they fall within the definition of dangerous goods in regulation 2(1) of the Carriage of Dangerous Goods (Classification, Packaging and Labelling) and Use of Transportable Pressure Receptacles Regulations (Northern Ireland) 1997) those Regulations”;
 - (b) for paragraph (2)(*a*) there shall be substituted—
@@ -1001,7 +1001,7 @@ Regulation 22(3)
 
   .
 
-**6.**[^key-4f4a208cf0fea2037c2abf781d890d6a] In Schedule 1 (the Classification of and Hazard Warning Signs for Dangerous Substances)—
+**6.**[^c-4f4a208cf0fea2037c2abf781d890d6a] In Schedule 1 (the Classification of and Hazard Warning Signs for Dangerous Substances)—
 
 - (a) in Note 2, for the words “Part III of Schedule 1 to the Carriage of Dangerous Goods by Road and Rail (Classification, Packaging and Labelling) Regulations (Northern Ireland) 1995” there shall be substituted the words “Part III of Schedule 1 to the Carriage of Dangerous Goods (Classification, Packaging and Labelling) and Use of Transportable Pressure Receptacles Regulations (Northern Ireland) 1997”; and
 - (b) for Note 3 there shall be substituted—
@@ -1010,15 +1010,15 @@ Regulation 22(3)
 
   .
 
-**7.**[^key-b919e76c90fda3219e12244a2ff88ab3] In Schedule 3 (List of specified dangerous substances) in sub-paragraph (*c*) for the words “in accordance with the appropriate approved method as construed in accordance with regulation 4(1)(*b*) of the Carriage of Dangerous Goods by Road and Rail (Classification, Packaging and Labelling) Regulations (Northern Ireland) 1995” there shall be substituted the words “in accordance with the appropriate approved method as construed in accordance with regulation 4(1)(*b*) of the Carriage of Dangerous Goods (Classification, Packaging and Labelling) and use of Transportable Pressure Receptacles Regulations (Northern Ireland) 1997”.
+**7.**[^c-b919e76c90fda3219e12244a2ff88ab3] In Schedule 3 (List of specified dangerous substances) in sub-paragraph (*c*) for the words “in accordance with the appropriate approved method as construed in accordance with regulation 4(1)(*b*) of the Carriage of Dangerous Goods by Road and Rail (Classification, Packaging and Labelling) Regulations (Northern Ireland) 1995” there shall be substituted the words “in accordance with the appropriate approved method as construed in accordance with regulation 4(1)(*b*) of the Carriage of Dangerous Goods (Classification, Packaging and Labelling) and use of Transportable Pressure Receptacles Regulations (Northern Ireland) 1997”.
 
 ## SCHEDULE 6 — AMENDMENTS TO THE PRESSURE SYSTEMS AND TRANSPORTABLE GAS CONTAINERS REGULATIONS (NORTHERN IRELAND) 1991
 
 Regulation 22(4)
 
-**1.**[^key-8c3a3e1f9302dc2532b82245823b53cc] The Pressure Systems and Transportable Gas Containers Regulations (Northern Ireland) 1991 shall be amended in accordance with paragraphs 2 to 10.
+**1.**[^c-8c3a3e1f9302dc2532b82245823b53cc] The Pressure Systems and Transportable Gas Containers Regulations (Northern Ireland) 1991 shall be amended in accordance with paragraphs 2 to 10.
 
-**2.**[^key-00ecbf7c1b85e82736cc51a51fbf94cc] In regulation 2 (Interpretation)—
+**2.**[^c-00ecbf7c1b85e82736cc51a51fbf94cc] In regulation 2 (Interpretation)—
 
 - (a) the definitions of “approved design standard”, “approved design specification”, “design specification”, “design standard”, “EEC-type cylinder” and “separate Directives” shall be deleted;
 - (b) in the definition of “examination”—
@@ -1033,7 +1033,7 @@ Regulation 22(4)
 
   .
 
-**3.**[^key-1776a6d98349fd51566a952ad80a9557] In regulation 3 (Application and duties)—
+**3.**[^c-1776a6d98349fd51566a952ad80a9557] In regulation 3 (Application and duties)—
 
 - (a) for paragraph (1) there shall be substituted—
 
@@ -1042,16 +1042,16 @@ Regulation 22(4)
   ; and
 - (b) in paragraph (3) the words “or transportable gas container” and “container” in each place where they occur, shall be deleted.
 
-**4.**[^key-7e71892c8e42414a880474eeab3908c2] In regulation 4 (Design, construction, repair and modification)—
+**4.**[^c-7e71892c8e42414a880474eeab3908c2] In regulation 4 (Design, construction, repair and modification)—
 
 - (a) in paragraph (1) the words “or transportable gas container” in each place where they occur, shall be deleted;
 - (b) in paragraphs (2) and (3) for the words “The pressure system, transportable gas container, or article,” there shall be substituted the words “The pressure system or article,”;
 - (c) in paragraph (5) the words “and transportable gas container” shall be deleted; and
 - (d) in paragraph (6) the words “or transportable gas container” shall be deleted.
 
-**5.**[^key-104f7406badffcb582384b4affc9eea9] Regulations 16 to 22 are hereby revoked.
+**5.**[^c-104f7406badffcb582384b4affc9eea9] Regulations 16 to 22 are hereby revoked.
 
-**6.**[^key-9879b931dc4170c8dabc4b15fbb632d7] In regulation 24 (Power to grant exemptions), for sub-paragraph (1) there shall be substituted—
+**6.**[^c-9879b931dc4170c8dabc4b15fbb632d7] In regulation 24 (Power to grant exemptions), for sub-paragraph (1) there shall be substituted—
 
 > **24.** (1) Subject to paragraph (2), the Department may, by a certificate in writing, exempt—
 >
@@ -1062,9 +1062,9 @@ Regulation 22(4)
 
 .
 
-**7.**[^key-995722109e6140329b49cfc6b2996cd8] Insofar as they relate to transportable gas containers Schedule 1 (Coming into operation of the Regulations and Transitional Provisions) and Schedule 2 (Exceptions to the Regulations) are hereby revoked.
+**7.**[^c-995722109e6140329b49cfc6b2996cd8] Insofar as they relate to transportable gas containers Schedule 1 (Coming into operation of the Regulations and Transitional Provisions) and Schedule 2 (Exceptions to the Regulations) are hereby revoked.
 
-**8.**[^key-ce06dde36acadafb77ccc8343aa197e7] In Schedule 2 (Exceptions to the Regulations) in Part I—
+**8.**[^c-ce06dde36acadafb77ccc8343aa197e7] In Schedule 2 (Exceptions to the Regulations) in Part I—
 
 - (a) for paragraph 9 there shall be substituted the following paragraph—
 
@@ -1077,7 +1077,7 @@ Regulation 22(4)
 
   .
 
-**9.**[^key-4040b438b3e034ab9de4a92c25e0bf85] In Schedule 2 (Exceptions to the Regulations) in Part II—
+**9.**[^c-4040b438b3e034ab9de4a92c25e0bf85] In Schedule 2 (Exceptions to the Regulations) in Part II—
 
 - (a) for paragraph 2(*a*) there shall be substituted—
 
@@ -1100,9 +1100,9 @@ Regulation 22(4)
 
   .
 
-**10.**[^key-47ecbb6159004fd86958b5ebbe89f9f3] Schedule 5 (Fees on application for approvals) is hereby revoked.
+**10.**[^c-47ecbb6159004fd86958b5ebbe89f9f3] Schedule 5 (Fees on application for approvals) is hereby revoked.
 
-## SCHEDULE 7 — REVOCATIONS ON 1st JANUARY 1999[^key-667402ca248867cd256f6e2a525687ae]
+## SCHEDULE 7 — REVOCATIONS ON 1st JANUARY 1999[^c-667402ca248867cd256f6e2a525687ae]
 
 Regulation 23(3)
 
@@ -1121,9 +1121,9 @@ Regulation 23(3)
 
 Regulations 3(5)(*b*) and 19(2)(*b*)
 
-**1.**[^key-daf2ea2f6d58fa6751b1039be4ea9c2e] The requirements referred to in regulation 3(5)(*b*) are specified in paragraphs 2 to 10.
+**1.**[^c-daf2ea2f6d58fa6751b1039be4ea9c2e] The requirements referred to in regulation 3(5)(*b*) are specified in paragraphs 2 to 10.
 
-**2.**[^key-4bc4126b992f6261b8edabe435b5ff9c] (1) Any person who designs, manufactures, imports or supplies any transportable pressure receptacle or any article which is intended to be a component part thereof shall ensure that sub-paragraph (2) is complied with.
+**2.**[^c-4bc4126b992f6261b8edabe435b5ff9c] (1) Any person who designs, manufactures, imports or supplies any transportable pressure receptacle or any article which is intended to be a component part thereof shall ensure that sub-paragraph (2) is complied with.
 
 (2) The transportable pressure receptacle or article, as the case may be, shall be—
 
@@ -1133,7 +1133,7 @@ Regulations 3(5)(*b*) and 19(2)(*b*)
 
 (3) The employer of a person who modifies or repairs a transportable pressure receptacle at work shall ensure that nothing about the way in which it is modified or repaired gives rise to danger or otherwise impairs the operation of any protective device or inspection facility.
 
-**3.**[^key-9a9728bb64efbc85457bb35f754366a6] (1) A person shall not supply or import a transportable pressure receptacle unless the conditions specified in sub-paragraph (3)(*a*) or (*b*) have been met.
+**3.**[^c-9a9728bb64efbc85457bb35f754366a6] (1) A person shall not supply or import a transportable pressure receptacle unless the conditions specified in sub-paragraph (3)(*a*) or (*b*) have been met.
 
 (2) A person who fills a transportable pressure receptacle shall ensure, before doing so and so far as is reasonably practicable, that the conditions specified in sub-paragraph (3)(*a*) or (*b*) have been met.
 
@@ -1151,7 +1151,7 @@ Regulations 3(5)(*b*) and 19(2)(*b*)
 
 (6) The provisions of regulations 15(2) to (5) shall apply in relation to any person approved under sub-paragraph (4)(*a*) as if that person were approved under regulation 15(1)(*a*).
 
-**4.**[^key-55ea6f612fb1560c25e6bd2b1e90a539] (1) From 1st January 1999, the owner of a transportable pressure receptacle shall, for the purpose of determining whether it is safe, ensure that the receptacle has been examined and tested by an approved person in accordance with the appropriate examination and testing requirements of the Approved Requirements.
+**4.**[^c-55ea6f612fb1560c25e6bd2b1e90a539] (1) From 1st January 1999, the owner of a transportable pressure receptacle shall, for the purpose of determining whether it is safe, ensure that the receptacle has been examined and tested by an approved person in accordance with the appropriate examination and testing requirements of the Approved Requirements.
 
 (2) Until 1st January 1999, the owner of a transportable pressure receptacle shall ensure, for the purpose of determining whether it is safe, that the receptacle is examined at appropriate intervals by a competent person.
 
@@ -1161,7 +1161,7 @@ Regulations 3(5)(*b*) and 19(2)(*b*)
 
 (5) A person shall not affix to a transportable pressure receptacle a mark liable to be confused with the mark referred to in sub-paragraph (3).
 
-**5.**[^key-80fa87380a147dda26626af976025d4e] (1) From 1st January 1999 the employer of a person who is to fill with a gas a transportable pressure receptacle at work, shall ensure that before it is filled that person—
+**5.**[^c-80fa87380a147dda26626af976025d4e] (1) From 1st January 1999 the employer of a person who is to fill with a gas a transportable pressure receptacle at work, shall ensure that before it is filled that person—
 
 - (a) checks from the marks on the receptacle—
   - (i) that the receptacle appears to have been examined and tested by an approved person in accordance with the appropriate examination and testing requirements of the Approved Requirements; and
@@ -1183,9 +1183,9 @@ Regulations 3(5)(*b*) and 19(2)(*b*)
 
 (4) Every employer shall ensure that any person employed by him does not refill at work a non-refillable receptacle with a gas.
 
-**6.**[^key-47aec66b631d608e2b49879c7dcd480f] In these Regulations “competent person” means a competent individual person (other than an employee) or a competent body of persons corporate or unincorporate; and any reference in these Regulations to a competent person performing a function includes a reference to his performing it through his employees.
+**6.**[^c-47aec66b631d608e2b49879c7dcd480f] In these Regulations “competent person” means a competent individual person (other than an employee) or a competent body of persons corporate or unincorporate; and any reference in these Regulations to a competent person performing a function includes a reference to his performing it through his employees.
 
-**7.**[^key-7d5391a394c5cce4c6aa1a5071e8a02b] (1) Subject to sub-paragraph (2)—
+**7.**[^c-7d5391a394c5cce4c6aa1a5071e8a02b] (1) Subject to sub-paragraph (2)—
 
 - (a) every employer shall ensure that any person employed by him does not modify at work the body of a transportable pressure receptacle—
   - (i) of seamless construction; or
@@ -1195,7 +1195,7 @@ Regulations 3(5)(*b*) and 19(2)(*b*)
 
 (2) Sub-paragraph (1) shall not apply in relation to any modification constituting the remaking of a thread if such modification is carried out in accordance with a standard approved by the Department.
 
-**8.**[^key-9081a90037be3eda03fa899560796725] (1) Every employer shall ensure that any person employed by him does not carry out at work any major repair on the body of a transportable pressure receptacle—
+**8.**[^c-9081a90037be3eda03fa899560796725] (1) Every employer shall ensure that any person employed by him does not carry out at work any major repair on the body of a transportable pressure receptacle—
 
 - (a) of seamless construction; or
 - (b) which has contained acetylene.
@@ -1206,7 +1206,7 @@ Regulations 3(5)(*b*) and 19(2)(*b*)
 
 (4) In this paragraph “major repair” means any repair involving hot work or welding on the body of a transportable pressure receptacle but (except in relation to sub-paragraph (1)(*b*)) it does not mean any repair involving heat treatment applied for the purpose of restoring the metallurgical properties of the receptacle.
 
-**9.**[^key-edcf52281fcd00d5d9bd471a1976bdf6] (1) This paragraph applies to the re-rating of a transportable pressure receptacle, that is, the reassessment of its capability to contain compressed gas safely with a view to improving its capacity by means of an increase in the charging pressure (or, in the case of liquefied gas, the filling ratio) from that originally assessed and marked on the receptacle at the time of the manufacture.
+**9.**[^c-edcf52281fcd00d5d9bd471a1976bdf6] (1) This paragraph applies to the re-rating of a transportable pressure receptacle, that is, the reassessment of its capability to contain compressed gas safely with a view to improving its capacity by means of an increase in the charging pressure (or, in the case of liquefied gas, the filling ratio) from that originally assessed and marked on the receptacle at the time of the manufacture.
 
 (2) Every employer shall ensure that any person employed by him does not re-rate a transportable pressure receptacle at work unless he is competent to do so and does so in accordance with suitable written procedures drawn up by the owner of the receptacle.
 
@@ -1214,7 +1214,7 @@ Regulations 3(5)(*b*) and 19(2)(*b*)
 
 (4) In this paragraph “filling ratio” means the ratio of the volume of the liquid gas in the receptacle to the total volume of the receptacle.
 
-**10.**[^key-f2bacf500b5335315475d28ae986d9b1] (1) The manufacturer or, if he does not have a place of business in Northern Ireland, his agent in Northern Ireland or, if he has no such agent, the importer of a transportable pressure receptacle—
+**10.**[^c-f2bacf500b5335315475d28ae986d9b1] (1) The manufacturer or, if he does not have a place of business in Northern Ireland, his agent in Northern Ireland or, if he has no such agent, the importer of a transportable pressure receptacle—
 
 - (a) which is to be made to an approved design specification, shall keep a copy of the design specification to which the said receptacle was manufactured together with any certificate of conformity issued under paragraph 3(3)(*a*);
 - (b) which is made to an approved design standard, shall keep a copy of any certificate of conformity issued under paragraph 3(3)(*a*);
@@ -1232,7 +1232,7 @@ Regulations 3(5)(*b*) and 19(2)(*b*)
 
 Regulation 3(5)(*b*)
 
-**1.**[^key-3891d738845751edb3876bfe98c24bf5] The requirements of Schedule 8 shall not apply to any transportable pressure receptacle which—
+**1.**[^c-3891d738845751edb3876bfe98c24bf5] The requirements of Schedule 8 shall not apply to any transportable pressure receptacle which—
 
 - (a) forms part of the equipment of—
   - (i) any ship to which the Merchant Shipping Act 1995[^f00045] applies or would apply if the ship was registered in the United Kingdom under Part II of that Act;
@@ -1245,9 +1245,9 @@ Regulation 3(5)(*b*)
 - (d) is refillable and has an internal volume of less than 0.5 litres or more than 5000 litres; or
 - (e) contains a gas at a pressure of less than 0.5 bar above atmospheric pressure.
 
-**2.**[^key-77a62ca00e7b0f9c698d1de957593732] The requirements of Schedule 8 (other than paragraph 5(4) thereof) shall not apply to any non-refillable transportable pressure receptacle which has an internal volume of less than 1.4 litres or more than 5 litres.
+**2.**[^c-77a62ca00e7b0f9c698d1de957593732] The requirements of Schedule 8 (other than paragraph 5(4) thereof) shall not apply to any non-refillable transportable pressure receptacle which has an internal volume of less than 1.4 litres or more than 5 litres.
 
-**3.**[^key-25468ace537f4b89c7bb4c1836ad69ab] Paragraphs 3, 4, 5(1)(*a*) and 10(1) of Schedule 8 shall not apply to a transportable pressure receptacle which—
+**3.**[^c-25468ace537f4b89c7bb4c1836ad69ab] Paragraphs 3, 4, 5(1)(*a*) and 10(1) of Schedule 8 shall not apply to a transportable pressure receptacle which—
 
 - (a) is a refillable receptacle;
 - (b) is used solely for containing liquefied petroleum gas; and
@@ -1299,9 +1299,9 @@ Regulation 3(5)(*b*)
 
 [^f00002]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039) as modified by the Health and Safety at Work Order (Application to Environmentally Hazardous Substances) Regulations (Northern Ireland) 1996 ([S.R. 1996 No. 525](https://www.legislation.gov.uk/nisr/1996/525))
 
-[^key-5be4a101477b313beb514303dea8329c]: Commencement: Reg. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-5be4a101477b313beb514303dea8329c]: Commencement: Reg. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-060b8445688d9a7cefbebb28407fcccd]: Commencement: Reg. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-060b8445688d9a7cefbebb28407fcccd]: Commencement: Reg. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1993 No. 412](https://www.legislation.gov.uk/nisr/1993/412) as amended by [S.R. 1994 No. 6](https://www.legislation.gov.uk/nisr/1994/6), regulation 25(2) and [S.R. 1995 No. 47](https://www.legislation.gov.uk/nisr/1995/47), regulation 17(11) and Schedule 9
 
@@ -1353,7 +1353,7 @@ Regulation 3(5)(*b*)
 
 [^f00027]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5)
 
-[^key-55dce7ba8678bba9e84dba0b23331eb0]: Commencement: Reg. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-55dce7ba8678bba9e84dba0b23331eb0]: Commencement: Reg. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
 [^f00028]: Footnote: Current edition: volume I-IV ISBN 92 801 1314 3; supplement ISBN 92 801 1316 X
 
@@ -1363,47 +1363,47 @@ Regulation 3(5)(*b*)
 
 [^f00031]: Footnote: [S.R. 1983 No. 43](https://www.legislation.gov.uk/nisr/1983/43)
 
-[^key-fab1dab68668833c949a590d90dfee94]: Commencement: Reg. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-fab1dab68668833c949a590d90dfee94]: Commencement: Reg. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-acc052377eb8dcabf4329be0853dd28f]: Commencement: Reg. 5 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-acc052377eb8dcabf4329be0853dd28f]: Commencement: Reg. 5 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-457ac12efa23b72257930d5cd6b57da1]: Commencement: Reg. 6 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-457ac12efa23b72257930d5cd6b57da1]: Commencement: Reg. 6 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-f4087f84e289a5072e60ca724ed7bad6]: Commencement: Reg. 7 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-f4087f84e289a5072e60ca724ed7bad6]: Commencement: Reg. 7 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-dcfb7a60dd80328380d576c39c64d27a]: Commencement: Reg. 8 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-dcfb7a60dd80328380d576c39c64d27a]: Commencement: Reg. 8 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-5dc4792276b5bd7b8ffdb162194df4b9]: Commencement: Reg. 9 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-5dc4792276b5bd7b8ffdb162194df4b9]: Commencement: Reg. 9 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-8c04c531c0a16306a7bf9ee4324d6196]: Commencement: Reg. 10 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-8c04c531c0a16306a7bf9ee4324d6196]: Commencement: Reg. 10 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-fb20b61d5c65f49003ba79093eea67d2]: Commencement: Reg. 11 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-fb20b61d5c65f49003ba79093eea67d2]: Commencement: Reg. 11 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-ec5cac79f7ff79cdc1930cf7183ffbf0]: Commencement: Reg. 12 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-ec5cac79f7ff79cdc1930cf7183ffbf0]: Commencement: Reg. 12 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-996bbd17c9505820abbff9b5af0b3bcb]: Commencement: Reg. 13 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-996bbd17c9505820abbff9b5af0b3bcb]: Commencement: Reg. 13 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-9b13598e55d97694b6530cc43f92f546]: Commencement: Reg. 14 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-9b13598e55d97694b6530cc43f92f546]: Commencement: Reg. 14 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-52ae9b26ca13b2d744a7fe605b116e7d]: Commencement: Reg. 15 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-52ae9b26ca13b2d744a7fe605b116e7d]: Commencement: Reg. 15 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-908fcafbcb1edbc3eca44fbb5287b685]: Commencement: Reg. 16 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-908fcafbcb1edbc3eca44fbb5287b685]: Commencement: Reg. 16 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-1536375365766a0a349b223d62d8fda2]: Commencement: Reg. 17 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-1536375365766a0a349b223d62d8fda2]: Commencement: Reg. 17 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-a28b5319b54e7009ff3885e1e42a7e95]: Commencement: Reg. 18 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-a28b5319b54e7009ff3885e1e42a7e95]: Commencement: Reg. 18 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-3d55c5cc34709082448ea662577efada]: Commencement: Reg. 19 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-3d55c5cc34709082448ea662577efada]: Commencement: Reg. 19 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
 [^f00032]: Footnote: S.R. 1997 No.
 
-[^key-9968fd27bc89e340eaf4d5099f2ad8f7]: Commencement: Reg. 20 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-9968fd27bc89e340eaf4d5099f2ad8f7]: Commencement: Reg. 20 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-60779d077522c5fa15bd8d7e47ba5de1]: Commencement: Reg. 21 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-60779d077522c5fa15bd8d7e47ba5de1]: Commencement: Reg. 21 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-1b955fca97868d21a8aedfd066873368]: Commencement: Reg. 22(1) in operation at 1.1.1999, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/2/a)
+[^c-1b955fca97868d21a8aedfd066873368]: Commencement: Reg. 22(1) in operation at 1.1.1999, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/2/a)
 
-[^key-611953c14812400c81aa26f0b41bb28a]: Commencement: Reg. 22 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-611953c14812400c81aa26f0b41bb28a]: Commencement: Reg. 22 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
 [^f00033]: Footnote: [S.R. 1975 No. 256](https://www.legislation.gov.uk/nisr/1975/256); regulation 7(7) was substituted by [S.R. 1991 No. 471](https://www.legislation.gov.uk/nisr/1991/471), regulation 25(4) and Schedule 6
 
@@ -1421,120 +1421,120 @@ Regulation 3(5)(*b*)
 
 [^f00040]: Footnote: [S.R. 1996 No. 119](https://www.legislation.gov.uk/nisr/1996/119)
 
-[^key-e21bc8bce72d8176d0e75fdbe7c55a90]: Commencement: Reg. 23(3) in operation at 1.1.1999, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/2/b)
+[^c-e21bc8bce72d8176d0e75fdbe7c55a90]: Commencement: Reg. 23(3) in operation at 1.1.1999, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/2/b)
 
-[^key-c21fe96d54a9b02f0bd881a45459de6f]: Commencement: Reg. 23 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-c21fe96d54a9b02f0bd881a45459de6f]: Commencement: Reg. 23 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
 [^f00041]: Footnote: [S.R. 1995 No. 47](https://www.legislation.gov.uk/nisr/1995/47) as amended by [S.R. 1997 No. 247](https://www.legislation.gov.uk/nisr/1997/247), regulation 6 and Schedule 3
 
 [^f00042]: Footnote: [S.R. 1995 No. 60](https://www.legislation.gov.uk/nisr/1995/60)
 
-[^key-96ef785a4b4a99ab33a15fe2d7ff06e8]: Commencement: Reg. 24 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-96ef785a4b4a99ab33a15fe2d7ff06e8]: Commencement: Reg. 24 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
 [^f00043]: Footnote: [1929 c. 13 (N.I.)](https://www.legislation.gov.uk/apni/1929/13), to which there are amendments not relevant to this regulation
 
-[^key-380a11fd2938f744349ec84009fcce2b]: Commencement: Sch. 1 Pt. I in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-380a11fd2938f744349ec84009fcce2b]: Commencement: Sch. 1 Pt. I in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-9c5c28402d6b3e682e3712fc04868494]: Commencement: Sch. 1 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-9c5c28402d6b3e682e3712fc04868494]: Commencement: Sch. 1 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-1f3f1747e15afe917b37b05139533224]: Commencement: Sch. 1 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-1f3f1747e15afe917b37b05139533224]: Commencement: Sch. 1 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-8e6f6f2c7e50dfdaa4625ba7a5fc2492]: Commencement: Sch. 1 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-8e6f6f2c7e50dfdaa4625ba7a5fc2492]: Commencement: Sch. 1 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-e60e8f373ca80ad825cb0659adf729de]: Commencement: Sch. 1 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-e60e8f373ca80ad825cb0659adf729de]: Commencement: Sch. 1 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-b1aedba77649bb9a726a5f77f1422d04]: Commencement: Sch. 1 Pt. III in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-b1aedba77649bb9a726a5f77f1422d04]: Commencement: Sch. 1 Pt. III in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-051464318dc98e8433bf48a4e796d191]: Commencement: Sch. 1 Pt. IV in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-051464318dc98e8433bf48a4e796d191]: Commencement: Sch. 1 Pt. IV in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-9ab37495559602d523f4021ae315a5a4]: Commencement: Sch. 1 Pt. V in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-9ab37495559602d523f4021ae315a5a4]: Commencement: Sch. 1 Pt. V in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-48fc38f02b2b97c5ef3bc7536b05a562]: Commencement: Sch. 2 Pt. I in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-48fc38f02b2b97c5ef3bc7536b05a562]: Commencement: Sch. 2 Pt. I in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-b1956a5f3d2c4648f1f0c0d00efde508]: Commencement: Sch. 2 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-b1956a5f3d2c4648f1f0c0d00efde508]: Commencement: Sch. 2 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-22e415bf9dbcbad0facbde92a98f3328]: Commencement: Sch. 2 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-22e415bf9dbcbad0facbde92a98f3328]: Commencement: Sch. 2 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-e461079f180278190abdc9ad2c6e5ee7]: Commencement: Sch. 2 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-e461079f180278190abdc9ad2c6e5ee7]: Commencement: Sch. 2 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-7f47d5dae79bc7b88ba76901c6ad5af8]: Commencement: Sch. 2 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-7f47d5dae79bc7b88ba76901c6ad5af8]: Commencement: Sch. 2 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-97d6182c1e85f22e73f1107e87fc54c2]: Commencement: Sch. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-97d6182c1e85f22e73f1107e87fc54c2]: Commencement: Sch. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-0ea06290e78203374e0123b4fab6888b]: Commencement: Sch. 4 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-0ea06290e78203374e0123b4fab6888b]: Commencement: Sch. 4 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-0656624ca3b7505338b2815e4c7b1a13]: Commencement: Sch. 4 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-0656624ca3b7505338b2815e4c7b1a13]: Commencement: Sch. 4 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-df4cc3465c8473f99e719295419f3e50]: Commencement: Sch. 4 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-df4cc3465c8473f99e719295419f3e50]: Commencement: Sch. 4 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-2b64c22d9295c5e0b90c6fd620b9aa72]: Commencement: Sch. 4 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-2b64c22d9295c5e0b90c6fd620b9aa72]: Commencement: Sch. 4 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-5cbf67755723f403c8beac0a19de75bc]: Commencement: Sch. 4 para. 5 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-5cbf67755723f403c8beac0a19de75bc]: Commencement: Sch. 4 para. 5 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-2bf5ff46153abe3614f30abd5c38b8f1]: Commencement: Sch. 4 para. 6 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-2bf5ff46153abe3614f30abd5c38b8f1]: Commencement: Sch. 4 para. 6 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-1a671edbe7bcad08ab6b777045c90413]: Commencement: Sch. 5 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-1a671edbe7bcad08ab6b777045c90413]: Commencement: Sch. 5 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
 [^f00044]: Footnote: [S.R. 1991 No. 509](https://www.legislation.gov.uk/nisr/1991/509); the relevant amending Regulations are [S.R. 1995 No. 47](https://www.legislation.gov.uk/nisr/1995/47), regulation 17(3) and Schedule 4 and [S.R. 1995 No. 60](https://www.legislation.gov.uk/nisr/1995/60), regulation 18(3)
 
-[^key-c6a07c591a91ce1ecb2431ad15cdf3d8]: Commencement: Sch. 5 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-c6a07c591a91ce1ecb2431ad15cdf3d8]: Commencement: Sch. 5 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-d567afd6158add0dc9a66179303b0216]: Commencement: Sch. 5 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-d567afd6158add0dc9a66179303b0216]: Commencement: Sch. 5 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-7375df78d85e38f2303368b3ddc29d16]: Commencement: Sch. 5 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-7375df78d85e38f2303368b3ddc29d16]: Commencement: Sch. 5 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-0e04bb640b38a320810c5d5a6c25577f]: Commencement: Sch. 5 para. 5 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-0e04bb640b38a320810c5d5a6c25577f]: Commencement: Sch. 5 para. 5 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-4f4a208cf0fea2037c2abf781d890d6a]: Commencement: Sch. 5 para. 6 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-4f4a208cf0fea2037c2abf781d890d6a]: Commencement: Sch. 5 para. 6 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-b919e76c90fda3219e12244a2ff88ab3]: Commencement: Sch. 5 para. 7 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-b919e76c90fda3219e12244a2ff88ab3]: Commencement: Sch. 5 para. 7 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-8c3a3e1f9302dc2532b82245823b53cc]: Commencement: Sch. 6 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-8c3a3e1f9302dc2532b82245823b53cc]: Commencement: Sch. 6 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-00ecbf7c1b85e82736cc51a51fbf94cc]: Commencement: Sch. 6 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-00ecbf7c1b85e82736cc51a51fbf94cc]: Commencement: Sch. 6 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-1776a6d98349fd51566a952ad80a9557]: Commencement: Sch. 6 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-1776a6d98349fd51566a952ad80a9557]: Commencement: Sch. 6 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-7e71892c8e42414a880474eeab3908c2]: Commencement: Sch. 6 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-7e71892c8e42414a880474eeab3908c2]: Commencement: Sch. 6 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-104f7406badffcb582384b4affc9eea9]: Commencement: Sch. 6 para. 5 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-104f7406badffcb582384b4affc9eea9]: Commencement: Sch. 6 para. 5 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-9879b931dc4170c8dabc4b15fbb632d7]: Commencement: Sch. 6 para. 6 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-9879b931dc4170c8dabc4b15fbb632d7]: Commencement: Sch. 6 para. 6 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-995722109e6140329b49cfc6b2996cd8]: Commencement: Sch. 6 para. 7 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-995722109e6140329b49cfc6b2996cd8]: Commencement: Sch. 6 para. 7 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-ce06dde36acadafb77ccc8343aa197e7]: Commencement: Sch. 6 para. 8 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-ce06dde36acadafb77ccc8343aa197e7]: Commencement: Sch. 6 para. 8 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-4040b438b3e034ab9de4a92c25e0bf85]: Commencement: Sch. 6 para. 9 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-4040b438b3e034ab9de4a92c25e0bf85]: Commencement: Sch. 6 para. 9 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-47ecbb6159004fd86958b5ebbe89f9f3]: Commencement: Sch. 6 para. 10 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-47ecbb6159004fd86958b5ebbe89f9f3]: Commencement: Sch. 6 para. 10 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-667402ca248867cd256f6e2a525687ae]: Commencement: Sch. 7 in operation at 1.1.1999, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/2/c)
+[^c-667402ca248867cd256f6e2a525687ae]: Commencement: Sch. 7 in operation at 1.1.1999, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/2/c)
 
-[^key-daf2ea2f6d58fa6751b1039be4ea9c2e]: Commencement: Sch. 8 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-daf2ea2f6d58fa6751b1039be4ea9c2e]: Commencement: Sch. 8 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-4bc4126b992f6261b8edabe435b5ff9c]: Commencement: Sch. 8 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-4bc4126b992f6261b8edabe435b5ff9c]: Commencement: Sch. 8 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-9a9728bb64efbc85457bb35f754366a6]: Commencement: Sch. 8 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-9a9728bb64efbc85457bb35f754366a6]: Commencement: Sch. 8 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-55ea6f612fb1560c25e6bd2b1e90a539]: Commencement: Sch. 8 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-55ea6f612fb1560c25e6bd2b1e90a539]: Commencement: Sch. 8 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-80fa87380a147dda26626af976025d4e]: Commencement: Sch. 8 para. 5 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-80fa87380a147dda26626af976025d4e]: Commencement: Sch. 8 para. 5 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-47aec66b631d608e2b49879c7dcd480f]: Commencement: Sch. 8 para. 6 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-47aec66b631d608e2b49879c7dcd480f]: Commencement: Sch. 8 para. 6 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-7d5391a394c5cce4c6aa1a5071e8a02b]: Commencement: Sch. 8 para. 7 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-7d5391a394c5cce4c6aa1a5071e8a02b]: Commencement: Sch. 8 para. 7 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-9081a90037be3eda03fa899560796725]: Commencement: Sch. 8 para. 8 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-9081a90037be3eda03fa899560796725]: Commencement: Sch. 8 para. 8 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-edcf52281fcd00d5d9bd471a1976bdf6]: Commencement: Sch. 8 para. 9 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-edcf52281fcd00d5d9bd471a1976bdf6]: Commencement: Sch. 8 para. 9 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-f2bacf500b5335315475d28ae986d9b1]: Commencement: Sch. 8 para. 10 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-f2bacf500b5335315475d28ae986d9b1]: Commencement: Sch. 8 para. 10 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-3891d738845751edb3876bfe98c24bf5]: Commencement: Sch. 9 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-3891d738845751edb3876bfe98c24bf5]: Commencement: Sch. 9 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
 [^f00045]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21)
 
-[^key-77a62ca00e7b0f9c698d1de957593732]: Commencement: Sch. 9 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-77a62ca00e7b0f9c698d1de957593732]: Commencement: Sch. 9 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
 
-[^key-25468ace537f4b89c7bb4c1836ad69ab]: Commencement: Sch. 9 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)
+[^c-25468ace537f4b89c7bb4c1836ad69ab]: Commencement: Sch. 9 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/247/regulation/1/1)

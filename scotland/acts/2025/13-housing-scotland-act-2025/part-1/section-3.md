@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Interim assessment and reports by local authorities[^key-a3bb52eca8c2b16ec42b038fca2784d1][^key-90cabe1f1e4bc6ab5763786e4d79420f]
+## 3. Interim assessment and reports by local authorities[^c-a3bb52eca8c2b16ec42b038fca2784d1][^c-90cabe1f1e4bc6ab5763786e4d79420f]
 
 *Extent: S*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3bb52eca8c2b16ec42b038fca2784d1]: Commencement: S. 3 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-a3bb52eca8c2b16ec42b038fca2784d1]: Commencement: S. 3 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-90cabe1f1e4bc6ab5763786e4d79420f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2025/13/section/3) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-90cabe1f1e4bc6ab5763786e4d79420f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2025/13/section/3) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

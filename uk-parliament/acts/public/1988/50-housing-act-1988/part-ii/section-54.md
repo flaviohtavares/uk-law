@@ -29,9 +29,9 @@ the Secretary of State may make grants to the association for affording relief f
 
 (2) This section applies to a housing association at any time if, at that time—
 
-- (a) it is a relevant housing association[^key-41e6f676e9ca5523d8420c34c421c7d9];
+- (a) it is a relevant housing association[^c-41e6f676e9ca5523d8420c34c421c7d9];
 - (b) it does not trade for profit; and
-- (c) it is not approved for the purposes of Chapter 7 of Part 13 of the Corporation Tax Act 2010[^key-99b05e0d6a13564cd63e744b9ef10a47] (tax treatment of co-operative housing associations).
+- (c) it is not approved for the purposes of Chapter 7 of Part 13 of the Corporation Tax Act 2010[^c-99b05e0d6a13564cd63e744b9ef10a47] (tax treatment of co-operative housing associations).
 
 (3) References in this section to tax chargeable on an association are to income tax (other than income tax which the association is entitled to deduct on making any payment) and corporation tax.
 
@@ -102,8 +102,8 @@ and in any case shall be of such amount, shall be made at such times and shall b
 
 [^c12869141]: Modification: Ss. 50-55 amended (1.4.1997) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [ss. 28(6)](https://www.legislation.gov.uk/ukpga/1996/52/section/28/6), [231(4)(b)](https://www.legislation.gov.uk/ukpga/1996/52/section/231/4/b) (with [s. 51(4)](https://www.legislation.gov.uk/ukpga/1996/52/section/51/4)); [S.I. 1997/618](https://www.legislation.gov.uk/uksi/1997/618), [art. 2](https://www.legislation.gov.uk/uksi/1997/618/article/2) (subject to transitional provisions and savings in [Sch.](https://www.legislation.gov.uk/uksi/1997/618/schedule))
 
-[^key-41e6f676e9ca5523d8420c34c421c7d9]: Textual amendment: Words in s. 54(2)(a) substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 49](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/49); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-41e6f676e9ca5523d8420c34c421c7d9]: Textual amendment: Words in s. 54(2)(a) substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 49](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/49); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-99b05e0d6a13564cd63e744b9ef10a47]: Textual amendment: Words in s. 54(2)(c) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 211](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/211) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-99b05e0d6a13564cd63e744b9ef10a47]: Textual amendment: Words in s. 54(2)(c) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 211](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/211) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c12869171]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only

@@ -22,39 +22,39 @@ summary: ''
 
 Regulation 35, Schedule 1,paragraph 28
 
-### PART I — ITEMS OF TREATMENT[^key-9869590973a6f08cf328cec52a873f3e]
+### PART I — ITEMS OF TREATMENT[^c-9869590973a6f08cf328cec52a873f3e]
 
 Any item of treatment specified in Determination I of the Statement of Dental Remuneration as being an item of treatment for which the prior approval of the Board is required.
 
 ### PART II — CARE AND TREATMENT
 
-**1.**[^key-530ceb85876ca13f6f024b7efb718b61] A course of care and treatment under [^key-6d7cf26e923ffee79b89d7e0c846160e]... a capitation arrangement, including any treatment on referral [^key-6d7cf26e923ffee79b89d7e0c846160e]..., the cost of which exceeds or is likely to exceed the amount set out in Determination I of the Statement of Dental Remuneration[^key-aab5ea5963b3fe04cbad2f8d285ef49d].
+**1.**[^c-530ceb85876ca13f6f024b7efb718b61] A course of care and treatment under [^c-6d7cf26e923ffee79b89d7e0c846160e]... a capitation arrangement, including any treatment on referral [^c-6d7cf26e923ffee79b89d7e0c846160e]..., the cost of which exceeds or is likely to exceed the amount set out in Determination I of the Statement of Dental Remuneration[^c-aab5ea5963b3fe04cbad2f8d285ef49d].
 
-**2.**[^key-806ea2141fd630340a9d4b8cc75e49c7] Any orthodontic care and treatment to be provided by that dentist, the cost of which exceeds or is likely to exceed the amount set out in Determination I of the Statement of Dental Remuneration[^key-7f3683971b98f24fbfca2fcc3ce42b2b].
+**2.**[^c-806ea2141fd630340a9d4b8cc75e49c7] Any orthodontic care and treatment to be provided by that dentist, the cost of which exceeds or is likely to exceed the amount set out in Determination I of the Statement of Dental Remuneration[^c-7f3683971b98f24fbfca2fcc3ce42b2b].
 
-**3.**[^key-f47f14c1610eca004f816983f073c9ac] A reference in this part of this Schedule, to the cost of care and treatment means the cost of such care and treatment calculated in accordance with the Scale of Fees, but does not include the cost of—
+**3.**[^c-f47f14c1610eca004f816983f073c9ac] A reference in this part of this Schedule, to the cost of care and treatment means the cost of such care and treatment calculated in accordance with the Scale of Fees, but does not include the cost of—
 
 - (a) any care and treatment under a capitation arrangement for which the contractor is remunerated in accordance with Section X (treatment under capitation) in Determination I of the Statement of Dental Remuneration and for which the contractor receives no remuneration other than a capitation payment;
-- (b) in the case of orthodontic care and treatment, fees for diagnosis, study models, retention and the extraction of any tooth for orthodontic purposes; [^key-fe330c710cb80f1ad4e4996d2fe1d5e6]...
-- (ba)[^key-7f892eb958cbdd71cfef642b325d64b2] in the case of care and treatment which is not orthodontic care and treatment, fees for diagnosis and domiciliary visits; and
+- (b) in the case of orthodontic care and treatment, fees for diagnosis, study models, retention and the extraction of any tooth for orthodontic purposes; [^c-fe330c710cb80f1ad4e4996d2fe1d5e6]...
+- (ba)[^c-7f892eb958cbdd71cfef642b325d64b2] in the case of care and treatment which is not orthodontic care and treatment, fees for diagnosis and domiciliary visits; and
 - (c) any part of the care and treatment to be provided privately.
 
 ## Annotations
 
-[^key-9869590973a6f08cf328cec52a873f3e]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2010/208/schedule/4/part/I) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-9869590973a6f08cf328cec52a873f3e]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2010/208/schedule/4/part/I) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
 
-[^key-530ceb85876ca13f6f024b7efb718b61]: Commencement: [Sch. 4 Pt. 2 para. 1](https://www.legislation.gov.uk/ssi/2010/208/schedule/4/paragraph/1) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-530ceb85876ca13f6f024b7efb718b61]: Commencement: [Sch. 4 Pt. 2 para. 1](https://www.legislation.gov.uk/ssi/2010/208/schedule/4/paragraph/1) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
 
-[^key-6d7cf26e923ffee79b89d7e0c846160e]: Textual amendment: Words in [sch. 4 Pt. 2 para. 1](https://www.legislation.gov.uk/ssi/2010/208/schedule/4/paragraph/1) omitted (1.11.2023) by virtue of [The National Health Service (General Dental Services) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/247)](https://www.legislation.gov.uk/ssi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/247/regulation/1/1), [14](https://www.legislation.gov.uk/ssi/2023/247/regulation/14) (with [regs. 16](https://www.legislation.gov.uk/ssi/2023/247/regulation/16), [17](https://www.legislation.gov.uk/ssi/2023/247/regulation/17))
+[^c-6d7cf26e923ffee79b89d7e0c846160e]: Textual amendment: Words in [sch. 4 Pt. 2 para. 1](https://www.legislation.gov.uk/ssi/2010/208/schedule/4/paragraph/1) omitted (1.11.2023) by virtue of [The National Health Service (General Dental Services) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/247)](https://www.legislation.gov.uk/ssi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/247/regulation/1/1), [14](https://www.legislation.gov.uk/ssi/2023/247/regulation/14) (with [regs. 16](https://www.legislation.gov.uk/ssi/2023/247/regulation/16), [17](https://www.legislation.gov.uk/ssi/2023/247/regulation/17))
 
-[^key-aab5ea5963b3fe04cbad2f8d285ef49d]: Textual amendment: Word in sch. 4 Pt. 2 para. 1 substituted (1.4.2016) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/53)](https://www.legislation.gov.uk/ssi/2016/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/53/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2016/53/regulation/2/6/a)
+[^c-aab5ea5963b3fe04cbad2f8d285ef49d]: Textual amendment: Word in sch. 4 Pt. 2 para. 1 substituted (1.4.2016) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/53)](https://www.legislation.gov.uk/ssi/2016/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/53/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2016/53/regulation/2/6/a)
 
-[^key-806ea2141fd630340a9d4b8cc75e49c7]: Commencement: [Sch. 4 Pt. 2 para. 2](https://www.legislation.gov.uk/ssi/2010/208/schedule/4/paragraph/2) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-806ea2141fd630340a9d4b8cc75e49c7]: Commencement: [Sch. 4 Pt. 2 para. 2](https://www.legislation.gov.uk/ssi/2010/208/schedule/4/paragraph/2) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
 
-[^key-7f3683971b98f24fbfca2fcc3ce42b2b]: Textual amendment: Word in sch. 4 Pt. 2 para. 2 substituted (1.4.2016) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/53)](https://www.legislation.gov.uk/ssi/2016/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/53/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2016/53/regulation/2/6/a)
+[^c-7f3683971b98f24fbfca2fcc3ce42b2b]: Textual amendment: Word in sch. 4 Pt. 2 para. 2 substituted (1.4.2016) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/53)](https://www.legislation.gov.uk/ssi/2016/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/53/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2016/53/regulation/2/6/a)
 
-[^key-f47f14c1610eca004f816983f073c9ac]: Commencement: [Sch. 4 Pt. 2 para. 3](https://www.legislation.gov.uk/ssi/2010/208/schedule/4/paragraph/3) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-f47f14c1610eca004f816983f073c9ac]: Commencement: [Sch. 4 Pt. 2 para. 3](https://www.legislation.gov.uk/ssi/2010/208/schedule/4/paragraph/3) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
 
-[^key-fe330c710cb80f1ad4e4996d2fe1d5e6]: Textual amendment: Word in sch. 4 Pt. 2 para. 3 omitted (1.4.2016) by virtue of [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/53)](https://www.legislation.gov.uk/ssi/2016/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/53/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2016/53/regulation/2/6/b)
+[^c-fe330c710cb80f1ad4e4996d2fe1d5e6]: Textual amendment: Word in sch. 4 Pt. 2 para. 3 omitted (1.4.2016) by virtue of [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/53)](https://www.legislation.gov.uk/ssi/2016/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/53/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2016/53/regulation/2/6/b)
 
-[^key-7f892eb958cbdd71cfef642b325d64b2]: Textual amendment: Sch. 4 Pt. 2 para. 3(ba) inserted (1.4.2016) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/53)](https://www.legislation.gov.uk/ssi/2016/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/53/regulation/1/1), [2(6)(c)](https://www.legislation.gov.uk/ssi/2016/53/regulation/2/6/c)
+[^c-7f892eb958cbdd71cfef642b325d64b2]: Textual amendment: Sch. 4 Pt. 2 para. 3(ba) inserted (1.4.2016) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/53)](https://www.legislation.gov.uk/ssi/2016/53), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/53/regulation/1/1), [2(6)(c)](https://www.legislation.gov.uk/ssi/2016/53/regulation/2/6/c)

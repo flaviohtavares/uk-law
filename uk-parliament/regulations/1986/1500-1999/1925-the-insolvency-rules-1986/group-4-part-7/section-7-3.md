@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.3. Form and contents of application[^key-260ee050d25b5302cc0b510df1fcb4f1]
+## 7.3. Form and contents of application[^c-260ee050d25b5302cc0b510df1fcb4f1]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-260ee050d25b5302cc0b510df1fcb4f1]: Commencement: [Rule 7.3](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.3) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-260ee050d25b5302cc0b510df1fcb4f1]: Commencement: [Rule 7.3](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.3) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

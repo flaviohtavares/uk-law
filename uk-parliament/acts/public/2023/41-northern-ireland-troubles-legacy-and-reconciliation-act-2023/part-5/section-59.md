@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Regulations[^key-07383fa7ebef71ce6f5d28b284553ae8]
+## 59. Regulations[^c-07383fa7ebef71ce6f5d28b284553ae8]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ and the regulations may not make reserved provision without the consent of the S
 
 ## Annotations
 
-[^key-07383fa7ebef71ce6f5d28b284553ae8]: Commencement: S. 59 in force at 18.9.2023, see [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/1/a)
+[^c-07383fa7ebef71ce6f5d28b284553ae8]: Commencement: S. 59 in force at 18.9.2023, see [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/1/a)

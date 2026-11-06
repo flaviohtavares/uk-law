@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 12 — DOCUMENTS TO BE CERTIFIED[^key-75ec3c9330d636b8fe5337eb00d66603]
+## SCHEDULE 12 — DOCUMENTS TO BE CERTIFIED[^c-75ec3c9330d636b8fe5337eb00d66603]
 
 *Extent: E+W+S*
 
 Article 44
 
-[^key-75ec3c9330d636b8fe5337eb00d66603]
+[^c-75ec3c9330d636b8fe5337eb00d66603]
 
 The reference to a document in the table with a numbered regulation is a reference to the regulation as numbered in the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009.
 
@@ -69,4 +69,4 @@ The reference to a document in the table with a numbered regulation is a referen
 
 ## Annotations
 
-[^key-75ec3c9330d636b8fe5337eb00d66603]: Commencement: Sch. 12 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-75ec3c9330d636b8fe5337eb00d66603]: Commencement: Sch. 12 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)

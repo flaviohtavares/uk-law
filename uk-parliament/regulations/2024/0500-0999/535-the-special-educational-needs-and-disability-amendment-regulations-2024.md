@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 67(3)(a) and 135(2) and (3) of the Children and Families Act 2014[^f00001].
 
-## 1. Citation, commencement and extent[^key-8d85096281bd457a2907d02bf2102a22]
+## 1. Citation, commencement and extent[^c-8d85096281bd457a2907d02bf2102a22]
 
 (1) These Regulations may be cited as the Special Educational Needs and Disability (Amendment) Regulations 2024 and come into force on 1st September 2024.
 
 (2) They extend to England and Wales.
 
-## 2. Amendment to the Special Educational Needs and Disability Regulations 2014[^key-9c0e96739a44ab6e9291fa13fe9ab911]
+## 2. Amendment to the Special Educational Needs and Disability Regulations 2014[^c-9c0e96739a44ab6e9291fa13fe9ab911]
 
 (1) The Special Educational Needs and Disability Regulations 2014[^f00002] are amended as follows.
 
@@ -83,7 +83,7 @@ Department for Education
 
 18th April 2024
 
-## SCHEDULE — Insertion of Schedule A1[^key-5bc55d35aab0fe269d23b851461060c1]
+## SCHEDULE — Insertion of Schedule A1[^c-5bc55d35aab0fe269d23b851461060c1]
 
 Regulation 2(3)
 
@@ -116,12 +116,12 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2014 c. 6](https://www.legislation.gov.uk/ukpga/2014/6).
 
-[^key-8d85096281bd457a2907d02bf2102a22]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/535/regulation/1) in force at 1.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/535/regulation/1/1)
+[^c-8d85096281bd457a2907d02bf2102a22]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/535/regulation/1) in force at 1.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/535/regulation/1/1)
 
-[^key-9c0e96739a44ab6e9291fa13fe9ab911]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/535/regulation/2) in force at 1.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/535/regulation/1/1)
+[^c-9c0e96739a44ab6e9291fa13fe9ab911]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/535/regulation/2) in force at 1.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/535/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2014/1530](https://www.legislation.gov.uk/uksi/2014/1530); there are amending instruments, but they are not relevant.
 
 [^f00003]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40); section 216(1) was amended by section 54(5) of the Higher Education and Research Act [2017 c. 29](https://www.legislation.gov.uk/ukpga/2017/29).
 
-[^key-5bc55d35aab0fe269d23b851461060c1]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2024/535/schedule) in force at 1.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/535/regulation/1/1)
+[^c-5bc55d35aab0fe269d23b851461060c1]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2024/535/schedule) in force at 1.9.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/535/regulation/1/1)

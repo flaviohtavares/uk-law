@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Amendment of Chapter 12 (security equipment)[^key-4ebb2af553e3dbefa4eaef056f50450f]
+## 125. Amendment of Chapter 12 (security equipment)[^c-4ebb2af553e3dbefa4eaef056f50450f]
 
 *Extent: E+W+S+N.I.*
 
 (1) Chapter 12 of the Annex is amended as follows.
 
-(2)[^key-eb151882637251f5cc76ab58a9f7e7ee] In point 12.0.1.1, omit the final sentence.
+(2)[^c-eb151882637251f5cc76ab58a9f7e7ee] In point 12.0.1.1, omit the final sentence.
 
-(2A)[^key-cc92bde9b70dc976175664d8938fd0d2] For point 12.0.2.1 substitute—
+(2A)[^c-cc92bde9b70dc976175664d8938fd0d2] For point 12.0.2.1 substitute—
 
 > - 12.0.2.1 Designated security equipment may only be installed if it has either been approved or exempted from approval by the appropriate authority.
 
 .
 
-(2B)[^key-a9d6c600eb84368e17836fc68a292617] Omit points 12.0.2.2, 12.0.2.3, 12.0.2.4, 12.0.2.5, 12.0.3, 12.0.4 and 12.0.5.
+(2B)[^c-a9d6c600eb84368e17836fc68a292617] Omit points 12.0.2.2, 12.0.2.3, 12.0.2.4, 12.0.2.5, 12.0.3, 12.0.4 and 12.0.5.
 
 (3) In point 12.1.2.1, omit the second sentence.
 
@@ -74,16 +74,16 @@ summary: ''
 
 (23) Omit points 12.13.2.1 and 12.14.1.3.
 
-(24) Omit Attachments 12-A to 12-O[^key-bcac2b656f81f9d6eb06b670f0d6bcec].
+(24) Omit Attachments 12-A to 12-O[^c-bcac2b656f81f9d6eb06b670f0d6bcec].
 
 ## Annotations
 
-[^key-4ebb2af553e3dbefa4eaef056f50450f]: Commencement: Reg. 125 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-4ebb2af553e3dbefa4eaef056f50450f]: Commencement: Reg. 125 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-eb151882637251f5cc76ab58a9f7e7ee]: Textual amendment: [Reg. 125(2)](https://www.legislation.gov.uk/uksi/2019/547/regulation/125/2) substituted (31.12.2020 immediately before IP completion day) by [The Aviation Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/798)](https://www.legislation.gov.uk/uksi/2020/798), [regs. 1](https://www.legislation.gov.uk/uksi/2020/798/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/798/regulation/2/a)
+[^c-eb151882637251f5cc76ab58a9f7e7ee]: Textual amendment: [Reg. 125(2)](https://www.legislation.gov.uk/uksi/2019/547/regulation/125/2) substituted (31.12.2020 immediately before IP completion day) by [The Aviation Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/798)](https://www.legislation.gov.uk/uksi/2020/798), [regs. 1](https://www.legislation.gov.uk/uksi/2020/798/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/798/regulation/2/a)
 
-[^key-cc92bde9b70dc976175664d8938fd0d2]: Textual amendment: [Reg. 125(2A)](https://www.legislation.gov.uk/uksi/2019/547/regulation/125/2A) inserted (31.12.2020 immediately before IP completion day) by [The Aviation Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/798)](https://www.legislation.gov.uk/uksi/2020/798), [regs. 1](https://www.legislation.gov.uk/uksi/2020/798/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/798/regulation/2/b)
+[^c-cc92bde9b70dc976175664d8938fd0d2]: Textual amendment: [Reg. 125(2A)](https://www.legislation.gov.uk/uksi/2019/547/regulation/125/2A) inserted (31.12.2020 immediately before IP completion day) by [The Aviation Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/798)](https://www.legislation.gov.uk/uksi/2020/798), [regs. 1](https://www.legislation.gov.uk/uksi/2020/798/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/798/regulation/2/b)
 
-[^key-a9d6c600eb84368e17836fc68a292617]: Textual amendment: [Reg. 125(2B)](https://www.legislation.gov.uk/uksi/2019/547/regulation/125/2B) inserted (31.12.2020 immediately before IP completion day) by [The Aviation Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/798)](https://www.legislation.gov.uk/uksi/2020/798), [regs. 1](https://www.legislation.gov.uk/uksi/2020/798/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2020/798/regulation/2/c)
+[^c-a9d6c600eb84368e17836fc68a292617]: Textual amendment: [Reg. 125(2B)](https://www.legislation.gov.uk/uksi/2019/547/regulation/125/2B) inserted (31.12.2020 immediately before IP completion day) by [The Aviation Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/798)](https://www.legislation.gov.uk/uksi/2020/798), [regs. 1](https://www.legislation.gov.uk/uksi/2020/798/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2020/798/regulation/2/c)
 
-[^key-bcac2b656f81f9d6eb06b670f0d6bcec]: Textual amendment: Word in [reg. 125(24)](https://www.legislation.gov.uk/uksi/2019/547/regulation/125/24) substituted (31.12.2020 immediately before IP completion day) by [The Aviation Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/798)](https://www.legislation.gov.uk/uksi/2020/798), [regs. 1](https://www.legislation.gov.uk/uksi/2020/798/regulation/1), [2(d)](https://www.legislation.gov.uk/uksi/2020/798/regulation/2/d)
+[^c-bcac2b656f81f9d6eb06b670f0d6bcec]: Textual amendment: Word in [reg. 125(24)](https://www.legislation.gov.uk/uksi/2019/547/regulation/125/24) substituted (31.12.2020 immediately before IP completion day) by [The Aviation Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/798)](https://www.legislation.gov.uk/uksi/2020/798), [regs. 1](https://www.legislation.gov.uk/uksi/2020/798/regulation/1), [2(d)](https://www.legislation.gov.uk/uksi/2020/798/regulation/2/d)

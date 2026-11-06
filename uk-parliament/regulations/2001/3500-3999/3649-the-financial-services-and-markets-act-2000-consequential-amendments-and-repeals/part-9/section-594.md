@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 594. Insurance companies that may provide safeguarded rights by way of annuities[^key-90bad898ff4bb4399e163f95befeb16d]
+## 594. Insurance companies that may provide safeguarded rights by way of annuities[^c-90bad898ff4bb4399e163f95befeb16d]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90bad898ff4bb4399e163f95befeb16d]: Commencement: Art. 594 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-90bad898ff4bb4399e163f95befeb16d]: Commencement: Art. 594 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

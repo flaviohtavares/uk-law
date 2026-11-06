@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116A. Information relating to deeds of postponement in respect of registered charges and noted charges[^key-6d9b1f35e3e2e42ce998e9927158c813]
+## 116A. Information relating to deeds of postponement in respect of registered charges and noted charges[^c-6d9b1f35e3e2e42ce998e9927158c813]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The registrar may, upon application, make an entry in an individual register ref
 
 ## Annotations
 
-[^key-6d9b1f35e3e2e42ce998e9927158c813]: Textual amendment: Rule 116A inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/43) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-6d9b1f35e3e2e42ce998e9927158c813]: Textual amendment: Rule 116A inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/43) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

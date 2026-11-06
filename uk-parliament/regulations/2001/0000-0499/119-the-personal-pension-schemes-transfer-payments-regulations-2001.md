@@ -47,7 +47,7 @@ The Commissioners of Inland Revenue, in exercise of the powers conferred on them
 
 ## PART I — INTRODUCTORY
 
-### 1. Citation, commencement and effect[^key-8c30465980d0e701e7503dcc508b4251]
+### 1. Citation, commencement and effect[^c-8c30465980d0e701e7503dcc508b4251]
 
 (1) These Regulations may be cited as the Personal Pension Schemes (Transfer Payments) Regulations 2001 and shall come into force for the purposes of—
 
@@ -58,7 +58,7 @@ on 14th February 2001, and for all other purposes on 6th April 2001.
 
 (2) Regulation 10 shall have effect in accordance with regulation 15(1).
 
-### 2. Interpretation[^key-563f13f47ed3116454bfec572727f988]
+### 2. Interpretation[^c-563f13f47ed3116454bfec572727f988]
 
 In these Regulations, unless the context otherwise requires—
 
@@ -94,13 +94,13 @@ In these Regulations, unless the context otherwise requires—
 - “transfer payment” in regulations 5 to 7 and 12 includes a payment under paragraph 1(3) of Schedule 5 to the 1999 Act or under paragraph 1(3) of Schedule 5 to the 1999 Order;
 - “transfer request” means a request in writing in accordance with regulation 4(1), save that a request shall be regarded as in writing if it is furnished by telephonic facsimile transmission, or by electronic communication containing an electronic signature of the individual in question.
 
-### 3. Requirements under section 638(2) of the Taxes Act[^key-4299e890f06a2037ea75dc665013d477]
+### 3. Requirements under section 638(2) of the Taxes Act[^c-4299e890f06a2037ea75dc665013d477]
 
 The provision for the making, acceptance and application of transfer payments, which is required to be made by a personal pension scheme, in order that the scheme may be approved by the Board for the purposes of Chapter IV of Part XIV, is the provision set out in regulations 4 to 13 (to be construed using the relevant definitions in regulation 2).
 
 ## PART II — PROVISION FOR THE MAKING OF TRANSFER PAYMENTS
 
-### 4. Basic obligations[^key-b142b94fd44dfef2d577fc397921cd79]
+### 4. Basic obligations[^c-b142b94fd44dfef2d577fc397921cd79]
 
 (1) Subject to paragraph (2) and regulation 8, where the administrator of a personal pension scheme is requested so to do in writing by an individual who is a member of the scheme, he shall make a transfer payment from the scheme to—
 
@@ -121,7 +121,7 @@ the amount of the funds which represents those rights or has been, or will be, s
 
 (4) The reference in the words of paragraph (1) preceding sub-paragraph (a) to an individual who is a member of a scheme shall be treated as including a reference to a surviving spouse or dependant mentioned in regulation 14(3)(c).
 
-### 5. Transfer payments from one personal pension scheme to another—additional obligation to hand over a lump sum certificate where any of the payments originated from certain schemes mentioned in Chapter I[^key-dad3e17b0dcbd3d78f01200df37b832a]
+### 5. Transfer payments from one personal pension scheme to another—additional obligation to hand over a lump sum certificate where any of the payments originated from certain schemes mentioned in Chapter I[^c-dad3e17b0dcbd3d78f01200df37b832a]
 
 (1) Subject to paragraph (2), the administrator of a personal pension scheme (“the paying scheme”) from which a transfer payment is made in the circumstances described in paragraph (3) shall, on the making of the payment, give the certificate referred to in paragraph (3)(b) to the administrator of the personal pension scheme to which the payment is made (“the receiving scheme”).
 
@@ -134,7 +134,7 @@ the amount of the funds which represents those rights or has been, or will be, s
   - (i) that an amount is payable out of that payment by way of lump sum to the individual in respect of whom the transfer payment will be made, on his pension date, or
   - (ii) that no amount is payable out of that payment by way of lump sum to that individual on his pension date.
 
-### 6. Transfer payments from a personal pension scheme to certain schemes mentioned in Chapter I—additional obligation to hand over a “nil” lump sum certificate where any of the payments originated from such schemes[^key-dba799ddde9e2cebc38aee4f0e882431]
+### 6. Transfer payments from a personal pension scheme to certain schemes mentioned in Chapter I—additional obligation to hand over a “nil” lump sum certificate where any of the payments originated from such schemes[^c-dba799ddde9e2cebc38aee4f0e882431]
 
 (1) Subject to paragraph (2), the administrator of a personal pension scheme (“the paying scheme”) from which a transfer payment is made in the circumstances described in paragraph (3) shall, on the making of the payment, give the certificate referred to in paragraph (3)(b) to the administrator of the approved retirement benefits scheme or relevant statutory scheme to which the payment is made (“the receiving scheme”).
 
@@ -147,7 +147,7 @@ the amount of the funds which represents those rights or has been, or will be, s
 
 ## PART III — PROVISION FOR THE ACCEPTANCE OF TRANSFER PAYMENTS
 
-### 7. Basic obligation[^key-8ec27817cffc70011cd297fb738f6b01]
+### 7. Basic obligation[^c-8ec27817cffc70011cd297fb738f6b01]
 
 Subject to regulations 4 and 8, a personal pension scheme may accept a transfer payment from—
 
@@ -159,7 +159,7 @@ Subject to regulations 4 and 8, a personal pension scheme may accept a transfer 
 
 but shall not accept a transfer payment from any other source without the prior written approval of the Board.
 
-### 8. Prohibition of acceptance of certain transfer payments from certain schemes mentioned in Chapter I unless the administrator has obtained a certificate as to the value of the proposed transfer payment[^key-a4e0b67a36e452039296079642b61b00]
+### 8. Prohibition of acceptance of certain transfer payments from certain schemes mentioned in Chapter I unless the administrator has obtained a certificate as to the value of the proposed transfer payment[^c-a4e0b67a36e452039296079642b61b00]
 
 (1) A personal pension scheme shall not accept a transfer payment from—
 
@@ -179,11 +179,11 @@ but shall not accept a transfer payment from any other source without the prior 
 
 ## PART IV — PROVISION FOR THE APPLICATION OF TRANSFER PAYMENTS
 
-### 9. Basic obligations[^key-58c164f51f1ab30a1d34fe9ab69d0b79]
+### 9. Basic obligations[^c-58c164f51f1ab30a1d34fe9ab69d0b79]
 
 Subject to regulations 10 to 14, any transfer payment accepted by a personal pension scheme in accordance with these Regulations shall only be used for providing benefits listed in section 633(1) of the Taxes Act[^f00015] or for making a further transfer payment subject to the provisions of these Regulations.
 
-### 10. Application of transfer payments to a personal pension scheme from or originating from certain schemes mentioned in Chapter I for the provision of “death benefits”[^key-a0964cf3ad677ec794013a1d1983845a]
+### 10. Application of transfer payments to a personal pension scheme from or originating from certain schemes mentioned in Chapter I for the provision of “death benefits”[^c-a0964cf3ad677ec794013a1d1983845a]
 
 (1) Where a personal pension scheme has in the circumstances described in regulation 8(2) (omitting the word “proposed” wherever it occurs) accepted a transfer payment from—
 
@@ -201,7 +201,7 @@ the accumulated value arising from that transfer payment or, as the case may be,
 
 (3) In the events described in the words of paragraph (2) preceding sub-paragraph (a), subject to sub-paragraphs (a) to (c) of that paragraph, the whole of the accumulated value may be applied to secure the payment of a lump sum.
 
-### 11. Application of transfer payments to a personal pension scheme from or originating from certain schemes mentioned in Chapter I for the provision of lump sums to the member[^key-310a6ab28e0c7c2a89d65e1e6cf516ec]
+### 11. Application of transfer payments to a personal pension scheme from or originating from certain schemes mentioned in Chapter I for the provision of lump sums to the member[^c-310a6ab28e0c7c2a89d65e1e6cf516ec]
 
 (1) Where in the circumstances described in regulation 8(2) (omitting the word “proposed” wherever it occurs) a personal pension scheme (“the receiving scheme”) accepts a transfer payment from—
 
@@ -225,7 +225,7 @@ the accumulated value arising from that transfer payment or, as the case may be,
 
 (4) The reference in paragraph (3) to the retail prices index shall be construed in accordance with section 833(2) of the Taxes Act[^f00018] as if it were a reference in the Income Tax Acts.
 
-### 12. Application of transfer payments to a personal pension scheme where a “nil” lump sum certificate is held[^key-45e261b7d401bfc1caab20ca7e244524]
+### 12. Application of transfer payments to a personal pension scheme where a “nil” lump sum certificate is held[^c-45e261b7d401bfc1caab20ca7e244524]
 
 Where—
 
@@ -234,7 +234,7 @@ Where—
 
 no such lump sum may be paid out of the accumulated value arising from that transfer payment.
 
-### 13. Obligations where there is a pension sharing order or provision[^key-683e7bceea786fadcae602940c611d6b]
+### 13. Obligations where there is a pension sharing order or provision[^c-683e7bceea786fadcae602940c611d6b]
 
 (1) Where—
 
@@ -256,7 +256,7 @@ the administrator of the receiving scheme shall prepare and sign a certificate i
 
 ## PART V — EXCEPTIONS TO SECTION 638(7A) OF THE TAXES ACT AND SUPPLEMENTAL
 
-### 14. Exceptions to section 638(7A) of the Taxes Act[^key-830e8b3e73ca6797423db961b209d38d]
+### 14. Exceptions to section 638(7A) of the Taxes Act[^c-830e8b3e73ca6797423db961b209d38d]
 
 (1) Paragraphs (2) and (3) prescribe situations which fall within the exception in section 638(7A) of the Taxes Act[^f00022] with regard to the making of transfer payments.
 
@@ -286,7 +286,7 @@ the administrator of the receiving scheme shall prepare and sign a certificate i
 - (h) any benefit under the new arrangements corresponds to a benefit which would have been payable to the same person under the paying scheme (and “the same person” means the same individual, without having regard to the way in which that or any other individual is defined in the new arrangements); and
 - (i) the conditions in paragraph (2)(c), (d) and (g) are satisfied (construing the references in paragraph (2)(d) to “this paragraph” and “sub-paragraph (a)” as if they were references to the present paragraph and sub-paragraph (a) of this paragraph).
 
-### 15. Revocations and transitional provision[^key-49983e7d441ac7a32f89b93008c16429]
+### 15. Revocations and transitional provision[^c-49983e7d441ac7a32f89b93008c16429]
 
 (1) Regulations 8 and 9 of the Personal Pension Schemes (Transfer Payments) Regulations 1988[^f00027] shall cease to have effect where the death of the individual referred to in the former regulation occurs on or after 6th April 2001, and regulation 10 of these Regulations shall have effect where the death of the individual referred to in that regulation occurs on or after 6th April 2001.
 
@@ -328,9 +328,9 @@ The Regulatory Impact Assessment for these Regulations can be obtained from Inla
 
 [^f00001]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); subsection (7A) was inserted by paragraph 9 of Schedule 11 to the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4).
 
-[^key-8c30465980d0e701e7503dcc508b4251]: Commencement: Reg. 1 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
+[^c-8c30465980d0e701e7503dcc508b4251]: Commencement: Reg. 1 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
 
-[^key-563f13f47ed3116454bfec572727f988]: Commencement: Reg. 2 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
+[^c-563f13f47ed3116454bfec572727f988]: Commencement: Reg. 2 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
 
 [^f00002]: Footnote: Section 611AA was inserted by section 103 of the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9).
 
@@ -354,39 +354,39 @@ The Regulatory Impact Assessment for these Regulations can be obtained from Inla
 
 [^f00012]: Footnote: Section 611A was inserted by paragraph 15 of Schedule 6 to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26) and amended by paragraph 5 of Schedule 6 to the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16).
 
-[^key-4299e890f06a2037ea75dc665013d477]: Commencement: Reg. 3 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
+[^c-4299e890f06a2037ea75dc665013d477]: Commencement: Reg. 3 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
 
-[^key-b142b94fd44dfef2d577fc397921cd79]: Commencement: Reg. 4 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
+[^c-b142b94fd44dfef2d577fc397921cd79]: Commencement: Reg. 4 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
 
-[^key-dad3e17b0dcbd3d78f01200df37b832a]: Commencement: Reg. 5 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
+[^c-dad3e17b0dcbd3d78f01200df37b832a]: Commencement: Reg. 5 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
 
-[^key-dba799ddde9e2cebc38aee4f0e882431]: Commencement: Reg. 6 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
+[^c-dba799ddde9e2cebc38aee4f0e882431]: Commencement: Reg. 6 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
 
-[^key-8ec27817cffc70011cd297fb738f6b01]: Commencement: Reg. 7 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
+[^c-8ec27817cffc70011cd297fb738f6b01]: Commencement: Reg. 7 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
 
-[^key-a4e0b67a36e452039296079642b61b00]: Commencement: Reg. 8 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
+[^c-a4e0b67a36e452039296079642b61b00]: Commencement: Reg. 8 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
 
 [^f00013]: Footnote: Section 591(2)(g) was amended by Part V(12) of Schedule 26 to the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9).
 
 [^f00014]: Footnote: Section 640A was inserted by paragraph 4 of Schedule 7 to the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26).
 
-[^key-58c164f51f1ab30a1d34fe9ab69d0b79]: Commencement: Reg. 9 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
+[^c-58c164f51f1ab30a1d34fe9ab69d0b79]: Commencement: Reg. 9 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
 
 [^f00015]: Footnote: Section 633(1) was amended by paragraph 3 of Schedule 11 to the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4) and section 172 of the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8).
 
-[^key-a0964cf3ad677ec794013a1d1983845a]: Commencement: Reg. 10 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force but with effect in accordance with reg. 15(1), see [reg. 1](https://www.legislation.gov.uk/uksi/2001/119/regulation/1)
+[^c-a0964cf3ad677ec794013a1d1983845a]: Commencement: Reg. 10 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force but with effect in accordance with reg. 15(1), see [reg. 1](https://www.legislation.gov.uk/uksi/2001/119/regulation/1)
 
 [^f00016]: Footnote: Section 636 was amended by paragraph 6 of Schedule 11 to the Finance Act 1995 and paragraph 13 of Schedule 10 to the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16).
 
 [^f00017]: Footnote: Section 636A was inserted by paragraph 7 of Schedule 11 to the Finance Act 1995.
 
-[^key-310a6ab28e0c7c2a89d65e1e6cf516ec]: Commencement: Reg. 11 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
+[^c-310a6ab28e0c7c2a89d65e1e6cf516ec]: Commencement: Reg. 11 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
 
 [^f00018]: Footnote: Section 833(2) was amended by S.I. [1996/273](https://www.legislation.gov.uk/uksi/1996/273).
 
-[^key-45e261b7d401bfc1caab20ca7e244524]: Commencement: Reg. 12 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
+[^c-45e261b7d401bfc1caab20ca7e244524]: Commencement: Reg. 12 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
 
-[^key-683e7bceea786fadcae602940c611d6b]: Commencement: Reg. 13 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
+[^c-683e7bceea786fadcae602940c611d6b]: Commencement: Reg. 13 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
 
 [^f00019]: Footnote: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
 
@@ -394,7 +394,7 @@ The Regulatory Impact Assessment for these Regulations can be obtained from Inla
 
 [^f00021]: Footnote: S.I. [1988/1014](https://www.legislation.gov.uk/uksi/1988/1014); regulation 4 was amended by S.I. [1989/1115](https://www.legislation.gov.uk/uksi/1989/1115).
 
-[^key-830e8b3e73ca6797423db961b209d38d]: Commencement: Reg. 14 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
+[^c-830e8b3e73ca6797423db961b209d38d]: Commencement: Reg. 14 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
 
 [^f00022]: Footnote: Section 638(7A) was inserted by paragraph 9 of Schedule 11 to the Finance Act 1995.
 
@@ -406,7 +406,7 @@ The Regulatory Impact Assessment for these Regulations can be obtained from Inla
 
 [^f00026]: Footnote: Section 636A was inserted by paragraph 7 of Schedule 11 to the Finance Act 1995, and amended by paragraph 14 of Schedule 10 to the Finance Act 1999 and paragraph 12 of Schedule 13 to the Finance Act [2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17).
 
-[^key-49983e7d441ac7a32f89b93008c16429]: Commencement: Reg. 15 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
+[^c-49983e7d441ac7a32f89b93008c16429]: Commencement: Reg. 15 in force at 14.2.2001 for specified purposes and 6.4.2001 in so far as not already in force, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/119/regulation/1/1)
 
 [^f00027]: Footnote: S.I. [1988/1014](https://www.legislation.gov.uk/uksi/1988/1014).
 

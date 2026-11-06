@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 10 — REPEALS[^key-8e05777bcd277b8df2a5c3c9bce48887]
+## SCHEDULE 10 — REPEALS[^c-8e05777bcd277b8df2a5c3c9bce48887]
 
 *Extent: N.I.*
 
@@ -59,4 +59,4 @@ Section 128(2).
 
 ## Annotations
 
-[^key-8e05777bcd277b8df2a5c3c9bce48887]: Commencement: [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-8e05777bcd277b8df2a5c3c9bce48887]: Commencement: [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

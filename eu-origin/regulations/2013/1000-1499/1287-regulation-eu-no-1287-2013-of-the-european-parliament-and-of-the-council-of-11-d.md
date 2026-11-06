@@ -35,124 +35,124 @@ establishing a Programme for the Competitiveness of Enterprises and small and me
 
 (Text with EEA relevance) (revoked)
 
-[^key-c24dc48d9650c4f21d24432d9e1c91c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c24dc48d9650c4f21d24432d9e1c91c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER I — Subject matter[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+## CHAPTER I — Subject matter[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
-### Article 1. Establishment[^key-c24dc48d9650c4f21d24432d9e1c91c5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Definition[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 1. Establishment[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. General objectives[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 2. Definition[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — Specific objectives and fields of action[^key-c24dc48d9650c4f21d24432d9e1c91c5]
-
-### Article 4. Specific objectives[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 3. General objectives[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Budget[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+## CHAPTER II — Specific objectives and fields of action[^c-c24dc48d9650c4f21d24432d9e1c91c5]
+
+### Article 4. Specific objectives[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Participation of third countries[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 5. Budget[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Participation of entities of non-participating countries[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 6. Participation of third countries[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Actions to improve access to finance for SMEs[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 7. Participation of entities of non-participating countries[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Actions to improve access to markets[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 8. Actions to improve access to finance for SMEs[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Enterprise Europe Network[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 9. Actions to improve access to markets[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Actions to improve the framework conditions for the competitiveness and sustainability of Union enterprises, particularly SMEs[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 10. Enterprise Europe Network[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Actions to promote entrepreneurship[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 11. Actions to improve the framework conditions for the competitiveness and sustainability of Union enterprises, particularly SMEs[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — Implementation of the COSME programme[^key-c24dc48d9650c4f21d24432d9e1c91c5]
-
-### Article 13. Annual work programmes[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 12. Actions to promote entrepreneurship[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Support measures[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+## CHAPTER III — Implementation of the COSME programme[^c-c24dc48d9650c4f21d24432d9e1c91c5]
+
+### Article 13. Annual work programmes[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Monitoring and evaluation[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 14. Support measures[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — Financial provisions and forms of financial assistance[^key-c24dc48d9650c4f21d24432d9e1c91c5]
-
-### Article 16. Forms of financial assistance[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 15. Monitoring and evaluation[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Financial instruments[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+## CHAPTER IV — Financial provisions and forms of financial assistance[^c-c24dc48d9650c4f21d24432d9e1c91c5]
+
+### Article 16. Forms of financial assistance[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Equity Facility for Growth[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 17. Financial instruments[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. The Loan Guarantee Facility[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 18. Equity Facility for Growth[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 20. Protection of the financial interests of the Union[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 19. The Loan Guarantee Facility[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER V — Committee and final provisions[^key-c24dc48d9650c4f21d24432d9e1c91c5]
-
-### Article 21. Committee procedure[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 20. Protection of the financial interests of the Union[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 22. Delegated acts[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+## CHAPTER V — Committee and final provisions[^c-c24dc48d9650c4f21d24432d9e1c91c5]
+
+### Article 21. Committee procedure[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 23. Exercise of the delegation[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 22. Delegated acts[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 24. Repeal and transitional provisions[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 23. Exercise of the delegation[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 25. Entry into force[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+### Article 24. Repeal and transitional provisions[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c24dc48d9650c4f21d24432d9e1c91c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 25. Entry into force[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
-## ANNEX[^key-c24dc48d9650c4f21d24432d9e1c91c5]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c24dc48d9650c4f21d24432d9e1c91c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-c24dc48d9650c4f21d24432d9e1c91c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c24dc48d9650c4f21d24432d9e1c91c5]: Textual amendment: Regulation revoked (31.12.2020) by The Competitiveness of Enterprises and Small and Medium-[Sized Enterprises (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/934)](https://www.legislation.gov.uk/uksi/2019/934), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/934/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/934/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c24dc48d9650c4f21d24432d9e1c91c5]: Textual amendment: Regulation revoked (31.12.2020) by The Competitiveness of Enterprises and Small and Medium-[Sized Enterprises (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/934)](https://www.legislation.gov.uk/uksi/2019/934), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/934/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/934/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

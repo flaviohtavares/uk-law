@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Subsequent sanction notices[^key-3d105588ee00e617012db9d82dc0708b]
+## 122. Subsequent sanction notices[^c-3d105588ee00e617012db9d82dc0708b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d105588ee00e617012db9d82dc0708b]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2023/52/section/122) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-3d105588ee00e617012db9d82dc0708b]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2023/52/section/122) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

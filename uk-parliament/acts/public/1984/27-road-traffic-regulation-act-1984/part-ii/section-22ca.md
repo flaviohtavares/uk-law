@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22CA. Section 22C: power to impose charges[^key-a666ef26ffd1e261503fdb1261f10fa9]
+## 22CA. Section 22C: power to impose charges[^c-a666ef26ffd1e261503fdb1261f10fa9]
 
 *Extent: E+W+S*
 
@@ -72,4 +72,4 @@ for the purpose of protecting a relevant event or a relevant site from danger or
 
 ## Annotations
 
-[^key-a666ef26ffd1e261503fdb1261f10fa9]: Textual amendment: S. 22CA inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/15/2), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)
+[^c-a666ef26ffd1e261503fdb1261f10fa9]: Textual amendment: S. 22CA inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/15/2), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)

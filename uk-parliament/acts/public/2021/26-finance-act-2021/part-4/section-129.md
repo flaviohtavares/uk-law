@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. International arrangements for exchanging information on the gig economy[^key-0a42cd5cc454166c3b0d77b72946eeaa]
+## 129. International arrangements for exchanging information on the gig economy[^c-0a42cd5cc454166c3b0d77b72946eeaa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a42cd5cc454166c3b0d77b72946eeaa]: Textual amendment: [S. 129](https://www.legislation.gov.uk/ukpga/2021/26/section/129) repealed (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 349(11)(d)](https://www.legislation.gov.uk/ukpga/2023/30/section/349/11/d)
+[^c-0a42cd5cc454166c3b0d77b72946eeaa]: Textual amendment: [S. 129](https://www.legislation.gov.uk/ukpga/2021/26/section/129) repealed (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 349(11)(d)](https://www.legislation.gov.uk/ukpga/2023/30/section/349/11/d)

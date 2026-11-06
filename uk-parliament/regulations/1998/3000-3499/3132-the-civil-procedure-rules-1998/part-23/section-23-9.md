@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23.9. Service of order and application where application made without notice[^key-0c10b37dcbca029a45524c08291a44ce][^key-5f2b36747db2747ae6f549eb9eedbfa6]
+## 23.9. Service of order and application where application made without notice[^c-0c10b37dcbca029a45524c08291a44ce][^c-5f2b36747db2747ae6f549eb9eedbfa6]
 
 *Extent: E+W*
 
 (1) This rule applies where the court has disposed of an application which it permitted to be made without service of a copy of the application notice.
 
-(2) Where the court makes an order, whether granting or dismissing the application, a copy of the application notice and any supporting evidence[^key-7aae50a54c3f9078e2e854dde6603321] must, unless the court orders otherwise, be served with the order on any party or other person—
+(2) Where the court makes an order, whether granting or dismissing the application, a copy of the application notice and any supporting evidence[^c-7aae50a54c3f9078e2e854dde6603321] must, unless the court orders otherwise, be served with the order on any party or other person—
 
 - (a) against whom the order was made; and
 - (b) against whom the order was sought.
@@ -31,8 +31,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0c10b37dcbca029a45524c08291a44ce]: Commencement: [Rule 23.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/23.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-0c10b37dcbca029a45524c08291a44ce]: Commencement: [Rule 23.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/23.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-5f2b36747db2747ae6f549eb9eedbfa6]: Textual amendment: Words in rule 23.9 heading inserted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [14(9)(a)](https://www.legislation.gov.uk/uksi/2023/788/rule/14/9/a)
+[^c-5f2b36747db2747ae6f549eb9eedbfa6]: Textual amendment: Words in rule 23.9 heading inserted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [14(9)(a)](https://www.legislation.gov.uk/uksi/2023/788/rule/14/9/a)
 
-[^key-7aae50a54c3f9078e2e854dde6603321]: Textual amendment: Words in rule 23.9(2) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [14(9)(b)](https://www.legislation.gov.uk/uksi/2023/788/rule/14/9/b)
+[^c-7aae50a54c3f9078e2e854dde6603321]: Textual amendment: Words in rule 23.9(2) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [14(9)(b)](https://www.legislation.gov.uk/uksi/2023/788/rule/14/9/b)

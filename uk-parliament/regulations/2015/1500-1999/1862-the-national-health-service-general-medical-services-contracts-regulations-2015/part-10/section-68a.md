@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68A. Enabling access to patient records through GP Connect[^key-711800879d99b796e9b0e37ee431579f]
+## 68A. Enabling access to patient records through GP Connect[^c-711800879d99b796e9b0e37ee431579f]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-711800879d99b796e9b0e37ee431579f]: Textual amendment: Reg. 68A inserted (1.10.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/b), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2025/727/schedule/1/paragraph/3)
+[^c-711800879d99b796e9b0e37ee431579f]: Textual amendment: Reg. 68A inserted (1.10.2025) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2025 (S.I. 2025/727)](https://www.legislation.gov.uk/uksi/2025/727), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/727/regulation/1/2/b), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2025/727/schedule/1/paragraph/3)

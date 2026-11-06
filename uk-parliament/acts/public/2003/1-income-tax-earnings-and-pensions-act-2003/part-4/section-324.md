@@ -30,7 +30,7 @@ summary: ''
 
 (5) Condition D is that the gift is not cash or securities or the use of a service.
 
-(6) Condition E is that the total cost to the donor of all the eligible gifts in respect of the employee in question during the tax year does not exceed £250[^key-8f0fa3586ffef3008eeae5bfefb87c91].
+(6) Condition E is that the total cost to the donor of all the eligible gifts in respect of the employee in question during the tax year does not exceed £250[^c-8f0fa3586ffef3008eeae5bfefb87c91].
 
 (7) For the purposes of condition E, the total cost to the donor includes any value added tax payable on the supply of the gifts to the donor, whether or not the donor is entitled to a credit or repayment in respect of that tax.
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f0fa3586ffef3008eeae5bfefb87c91]: Textual amendment: Word in s. 324(6) substituted (13.6.2003) by [The Income Tax (Exemption of Minor Benefits) (Increase in Sums of Money) Order 2003 (S.I. 2003/1361)](https://www.legislation.gov.uk/uksi/2003/1361), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1361/article/1/1), [4](https://www.legislation.gov.uk/uksi/2003/1361/article/4)
+[^c-8f0fa3586ffef3008eeae5bfefb87c91]: Textual amendment: Word in s. 324(6) substituted (13.6.2003) by [The Income Tax (Exemption of Minor Benefits) (Increase in Sums of Money) Order 2003 (S.I. 2003/1361)](https://www.legislation.gov.uk/uksi/2003/1361), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1361/article/1/1), [4](https://www.legislation.gov.uk/uksi/2003/1361/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Guidance on section 18[^key-22287fe9f4a62c212ae4c70e8bd37986]
+## 20. Guidance on section 18[^c-22287fe9f4a62c212ae4c70e8bd37986]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22287fe9f4a62c212ae4c70e8bd37986]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2024/1/section/20) in force at 31.1.2024, see [s. 47(2)(b)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/b) and [S.S.I. 2024/13](https://www.legislation.gov.uk/ssi/2024/13), [reg. 2](https://www.legislation.gov.uk/ssi/2024/13/regulation/2)
+[^c-22287fe9f4a62c212ae4c70e8bd37986]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2024/1/section/20) in force at 31.1.2024, see [s. 47(2)(b)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/b) and [S.S.I. 2024/13](https://www.legislation.gov.uk/ssi/2024/13), [reg. 2](https://www.legislation.gov.uk/ssi/2024/13/regulation/2)

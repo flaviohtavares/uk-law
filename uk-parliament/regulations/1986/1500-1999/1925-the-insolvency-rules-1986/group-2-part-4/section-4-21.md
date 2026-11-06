@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.21. Transmission and advertisement of order[^key-242bf8a95a6900135e5698d10d114956]
+## 4.21. Transmission and advertisement of order[^c-242bf8a95a6900135e5698d10d114956]
 
 *Extent: E+W*
 
@@ -31,10 +31,10 @@ Alternatively, the order may be served on such other person or persons, or in su
 (4) The official receiver shall forthwith—
 
 - (a) cause the order to be gazetted, and
-- (b) advertise the order in such [^key-9b2496ecb4a3a186b94462c5430e1d0c]... newspaper as the official receiver may select.
+- (b) advertise the order in such [^c-9b2496ecb4a3a186b94462c5430e1d0c]... newspaper as the official receiver may select.
 
 ## Annotations
 
-[^key-242bf8a95a6900135e5698d10d114956]: Commencement: Rule 4.21 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-242bf8a95a6900135e5698d10d114956]: Commencement: Rule 4.21 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-9b2496ecb4a3a186b94462c5430e1d0c]: Textual amendment: Word in rule 4.21(4) omitted (2.4.1991) by virtue of [The Insolvency (Amendment) Rules 1991 (S.I. 1991/495)](https://www.legislation.gov.uk/uksi/1991/495), [rule 1](https://www.legislation.gov.uk/uksi/1991/495/rule/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/1991/495/schedule/paragraph/2)
+[^c-9b2496ecb4a3a186b94462c5430e1d0c]: Textual amendment: Word in rule 4.21(4) omitted (2.4.1991) by virtue of [The Insolvency (Amendment) Rules 1991 (S.I. 1991/495)](https://www.legislation.gov.uk/uksi/1991/495), [rule 1](https://www.legislation.gov.uk/uksi/1991/495/rule/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/1991/495/schedule/paragraph/2)

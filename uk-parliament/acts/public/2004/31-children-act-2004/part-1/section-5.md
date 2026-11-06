@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Children’s Commissioner has the function of promoting and protecting the rights of children in Wales[^key-0f8485d949580a4fe5211ff91b14630f], except in so far as relating to any matter falling within the remit of the Children’s Commissioner for Wales under section 72B, 73 or 74 of the Care Standards Act 2000 (c. 14).
+(1) The Children’s Commissioner has the function of promoting and protecting the rights of children in Wales[^c-0f8485d949580a4fe5211ff91b14630f], except in so far as relating to any matter falling within the remit of the Children’s Commissioner for Wales under section 72B, 73 or 74 of the Care Standards Act 2000 (c. 14).
 
-(1A)[^key-ba2a8c8e6e3420642fd77455b59cf4e5] The function under subsection (1) includes promoting awareness of the views and interests of children in Wales.
+(1A)[^c-ba2a8c8e6e3420642fd77455b59cf4e5] The function under subsection (1) includes promoting awareness of the views and interests of children in Wales.
 
-(2)[^key-24902e748596e8027a74f20b86c11110] Subsections (3) to (5) of section 2 and sections 2A to 2C, 2E and 2F apply in relation to the Children's Commissioner's function under subsection (1) as in relation to the Commissioner's primary function.
+(2)[^c-24902e748596e8027a74f20b86c11110] Subsections (3) to (5) of section 2 and sections 2A to 2C, 2E and 2F apply in relation to the Children's Commissioner's function under subsection (1) as in relation to the Commissioner's primary function.
 
 (2A) For the purposes of subsection (2)—
 
@@ -39,18 +39,18 @@ summary: ''
 
 (5) Subsections (2) to (8) of section 3 apply in relation to an inquiry under subsection (4) above.
 
-(6)[^key-e172e283ecc6ca7a7329370c128617fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e172e283ecc6ca7a7329370c128617fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-b1e95ec406bcb0d7512d01b32c1e19a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-b1e95ec406bcb0d7512d01b32c1e19a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0f8485d949580a4fe5211ff91b14630f]: Textual amendment: Words in s. 5(1) substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/3/2)
+[^c-0f8485d949580a4fe5211ff91b14630f]: Textual amendment: Words in s. 5(1) substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/3/2)
 
-[^key-ba2a8c8e6e3420642fd77455b59cf4e5]: Textual amendment: S. 5(1A) inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 3(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/3/3)
+[^c-ba2a8c8e6e3420642fd77455b59cf4e5]: Textual amendment: S. 5(1A) inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 3(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/3/3)
 
-[^key-24902e748596e8027a74f20b86c11110]: Textual amendment: S. 5(2)(2A) substituted for s. 5(2) (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 3(4)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/3/4)
+[^c-24902e748596e8027a74f20b86c11110]: Textual amendment: S. 5(2)(2A) substituted for s. 5(2) (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 3(4)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/3/4)
 
-[^key-e172e283ecc6ca7a7329370c128617fa]: Textual amendment: S. 5(6) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/2/2/a)
+[^c-e172e283ecc6ca7a7329370c128617fa]: Textual amendment: S. 5(6) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/2/2/a)
 
-[^key-b1e95ec406bcb0d7512d01b32c1e19a7]: Textual amendment: S. 5(7) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/2/2/a)
+[^c-b1e95ec406bcb0d7512d01b32c1e19a7]: Textual amendment: S. 5(7) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/2/2/a)

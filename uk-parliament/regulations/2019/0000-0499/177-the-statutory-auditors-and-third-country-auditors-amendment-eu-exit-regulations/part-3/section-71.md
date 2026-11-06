@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71.[^key-f8749ca5c7659a971b04d09e094bb83b]
+## 71.[^c-f8749ca5c7659a971b04d09e094bb83b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ In regulation 11 (performance, monitoring and enforcement of third country audit
 - (b) in paragraph (2)(b)(i), for “an EEA auditor” substitute “ eligible for appointment as an auditor of bodies corporate incorporated or formed under the law of an equivalent third country or a transitional third country ”;
 - (c) in paragraph (2)(b)(ii), for “EEA competent authority that approved the EEA auditor in accordance with the Audit Directive” substitute “ third country competent authority in that equivalent third country or transitional third country ”;
 - (d) in paragraph (4), in the provisions being substituted for regulations 4(2) to (4) of these Regulations for the purposes of applying regulation 4 with modifications—
-  - (i) in paragraph (2)(a), after “Audit Directive” insert “ before IP completion day[^key-35e6cd6750d9eb8b5754b70584ed37e7]”;
+  - (i) in paragraph (2)(a), after “Audit Directive” insert “ before IP completion day[^c-35e6cd6750d9eb8b5754b70584ed37e7]”;
   - (ii) after paragraph (2)(a), insert—
 
     > - (aa) the UK-adopted international standards adopted by the competent authority in accordance with regulation 4(3)(za), or standards which are equivalent,
@@ -51,6 +51,6 @@ In regulation 11 (performance, monitoring and enforcement of third country audit
 
 ## Annotations
 
-[^key-f8749ca5c7659a971b04d09e094bb83b]: Commencement: Reg. 71 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-f8749ca5c7659a971b04d09e094bb83b]: Commencement: Reg. 71 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
-[^key-35e6cd6750d9eb8b5754b70584ed37e7]: Textual amendment: Words in reg. 71(d)(i) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [15(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/15/f)
+[^c-35e6cd6750d9eb8b5754b70584ed37e7]: Textual amendment: Words in reg. 71(d)(i) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [15(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/15/f)

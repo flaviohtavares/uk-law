@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 65. Transfers of Kyoto units initiated by an account holder[^key-1dfe612f70e6a270df0da195995fe8ec]
+## Article 65. Transfers of Kyoto units initiated by an account holder[^c-1dfe612f70e6a270df0da195995fe8ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Secretary of State must ensure that the Registry provides for the carrying o
 
 ## Annotations
 
-[^key-1dfe612f70e6a270df0da195995fe8ec]: Textual amendment: [Art. 65](https://www.legislation.gov.uk/eur/2013/389/article/65) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/6)
+[^c-1dfe612f70e6a270df0da195995fe8ec]: Textual amendment: [Art. 65](https://www.legislation.gov.uk/eur/2013/389/article/65) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/511/regulation/5/6)

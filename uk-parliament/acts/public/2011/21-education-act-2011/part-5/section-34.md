@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Duties in relation to school admissions[^key-f8c576e8caaa2cda076b58d981933ae2]
+## 34. Duties in relation to school admissions[^c-f8c576e8caaa2cda076b58d981933ae2]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8c576e8caaa2cda076b58d981933ae2]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2011/21/section/34) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-f8c576e8caaa2cda076b58d981933ae2]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2011/21/section/34) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

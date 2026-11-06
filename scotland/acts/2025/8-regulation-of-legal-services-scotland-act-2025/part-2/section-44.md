@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Practice rules[^key-8914b34fcb41a7b69d466fafd7ed5305][^key-65f678294cbc651c0c9641256a3f94d6][^key-2dcca845a8fb547f189b5ec534e13c16]
+## 44. Practice rules[^c-8914b34fcb41a7b69d466fafd7ed5305][^c-65f678294cbc651c0c9641256a3f94d6][^c-2dcca845a8fb547f189b5ec534e13c16]
 
 *Extent: S*
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8914b34fcb41a7b69d466fafd7ed5305]: Commencement: S. 44 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-8914b34fcb41a7b69d466fafd7ed5305]: Commencement: S. 44 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-65f678294cbc651c0c9641256a3f94d6]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2025/8/section/44) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-65f678294cbc651c0c9641256a3f94d6]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2025/8/section/44) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
 
-[^key-2dcca845a8fb547f189b5ec534e13c16]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2025/8/section/44) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)
+[^c-2dcca845a8fb547f189b5ec534e13c16]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2025/8/section/44) in force at 1.7.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/3)[(4)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/4), [sch. 2](https://www.legislation.gov.uk/ssi/2026/96/schedule/2)

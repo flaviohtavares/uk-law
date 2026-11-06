@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14C. Referral to Land Court[^key-53aaf49040701e5a9e87c7d48880bebc]
+## 14C. Referral to Land Court[^c-53aaf49040701e5a9e87c7d48880bebc]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53aaf49040701e5a9e87c7d48880bebc]: Textual amendment: Ss. 14A-14F inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 119(2)](https://www.legislation.gov.uk/asp/2016/18/section/119/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [reg. 9](https://www.legislation.gov.uk/ssi/2016/365/regulation/9))
+[^c-53aaf49040701e5a9e87c7d48880bebc]: Textual amendment: Ss. 14A-14F inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 119(2)](https://www.legislation.gov.uk/asp/2016/18/section/119/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [reg. 9](https://www.legislation.gov.uk/ssi/2016/365/regulation/9))

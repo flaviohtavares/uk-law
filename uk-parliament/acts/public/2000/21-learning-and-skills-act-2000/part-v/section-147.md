@@ -22,7 +22,7 @@ summary: ''
 
 (1) The [^c13165731]Education (Student Support) (Northern Ireland) Order 1998 shall be amended as follows.
 
-(2)[^key-abedc4194908b9aa1469114ddbbaf05f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-abedc4194908b9aa1469114ddbbaf05f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Article 3 (new arrangements for giving financial support to students)—
 
@@ -34,10 +34,10 @@ summary: ''
 - (a) for “at” substitute “ with ”, and
 - (b) for “attending” substitute “ undertaking ”.
 
-(5)[^key-abedc4194908b9aa1469114ddbbaf05f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-abedc4194908b9aa1469114ddbbaf05f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c13165731]: Marginal citation: [S.I. 1998/1759 (N.I. 13)](https://www.legislation.gov.uk/nisi/1998/1759).
 
-[^key-abedc4194908b9aa1469114ddbbaf05f]: Textual amendment: S. 147(2)(5) repealed (13.2.2006) by [The Higher Education (Northern Ireland) Order 2005 (S.I. 2005/1116)](https://www.legislation.gov.uk/nisi/2005/1116), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1116/article/1/3), [Sch.](https://www.legislation.gov.uk/nisi/2005/1116/schedule); [S.R. 2006/30](https://www.legislation.gov.uk/nisr/2006/30), [art. 2](https://www.legislation.gov.uk/nisr/2006/30/article/2)
+[^c-abedc4194908b9aa1469114ddbbaf05f]: Textual amendment: S. 147(2)(5) repealed (13.2.2006) by [The Higher Education (Northern Ireland) Order 2005 (S.I. 2005/1116)](https://www.legislation.gov.uk/nisi/2005/1116), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1116/article/1/3), [Sch.](https://www.legislation.gov.uk/nisi/2005/1116/schedule); [S.R. 2006/30](https://www.legislation.gov.uk/nisr/2006/30), [art. 2](https://www.legislation.gov.uk/nisr/2006/30/article/2)

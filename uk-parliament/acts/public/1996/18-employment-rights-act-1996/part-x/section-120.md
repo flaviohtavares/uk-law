@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^c16332161] The amount of the basic award (before any reduction under section 122) shall not be less than £9,157[^key-cb0ec6fac40068fcb0efaba2e8178d0a] where the reason (or, if more than one, the principal reason)—
+(1)[^c16332161] The amount of the basic award (before any reduction under section 122) shall not be less than £9,157[^c-cb0ec6fac40068fcb0efaba2e8178d0a] where the reason (or, if more than one, the principal reason)—
 
 - (a) in a redundancy case, for selecting the employee for dismissal, or
 - (b) otherwise, for the dismissal,
@@ -41,7 +41,7 @@ is one of those specified in section 100(1)(a) and (b), 101A(d),[^c16332181] 102
 
 [^c16332161]: Modification: S. 120(1): power to amend conferred (17.12.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 34(1)(b)](https://www.legislation.gov.uk/ukpga/1999/26/section/34/1/b); [S.I. 1999/3374](https://www.legislation.gov.uk/uksi/1999/3374), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/3374/article/2/b)
 
-[^key-cb0ec6fac40068fcb0efaba2e8178d0a]: Textual amendment: Sum in [s. 120(1)](https://www.legislation.gov.uk/ukpga/1996/18/section/120/1) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order 2026 (S.I. 2026/310)](https://www.legislation.gov.uk/uksi/2026/310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/310/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/310/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/310/article/4))
+[^c-cb0ec6fac40068fcb0efaba2e8178d0a]: Textual amendment: Sum in [s. 120(1)](https://www.legislation.gov.uk/ukpga/1996/18/section/120/1) substituted (6.4.2026) by [The Employment Rights (Increase of Limits) Order 2026 (S.I. 2026/310)](https://www.legislation.gov.uk/uksi/2026/310), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/310/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/310/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2026/310/article/4))
 
 [^c16332181]: Textual amendment: Words in s. 120(1) substituted (1.10.1998) by [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833), [reg. 32(5)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/32/5)
 

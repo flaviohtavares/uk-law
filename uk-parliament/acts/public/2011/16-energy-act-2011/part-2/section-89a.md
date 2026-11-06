@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89A. Assignments and assignations of applications[^key-daf2bd93338221318948d3a90de229e6]
+## 89A. Assignments and assignations of applications[^c-daf2bd93338221318948d3a90de229e6]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-daf2bd93338221318948d3a90de229e6]: Textual amendment: Ss. 89A 89B inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 71(4)](https://www.legislation.gov.uk/ukpga/2016/20/section/71/4), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-daf2bd93338221318948d3a90de229e6]: Textual amendment: Ss. 89A 89B inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 71(4)](https://www.legislation.gov.uk/ukpga/2016/20/section/71/4), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)

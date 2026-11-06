@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Crown rights[^key-2548d7cdff0fbdd1026fc81d0f376718]
+## 10. Crown rights[^c-2548d7cdff0fbdd1026fc81d0f376718]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2548d7cdff0fbdd1026fc81d0f376718]: Commencement: Art. 10 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-2548d7cdff0fbdd1026fc81d0f376718]: Commencement: Art. 10 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)

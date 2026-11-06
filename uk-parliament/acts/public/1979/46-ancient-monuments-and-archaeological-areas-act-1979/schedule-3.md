@@ -56,10 +56,10 @@ that consent shall have effect for the purposes of this Act as if it were a sche
 
 (2) A scheduled monument consent which has effect as such by virtue of this paragraph shall not cease to have effect by virtue of section 4(1) of this Act if any of the works to which it relates have been executed or started before the monument becomes a scheduled monument.
 
-**6.** (1 (Extent: S) (affected by repeal, see note))[^key-60d51f7dbed05c6e9c788e7df4916126] Section 13(2) of this Act shall not apply to any monument of which the Secretary of State or a local authority have been constituted guardians before the commencement of this Act, except where either— *(Extent: S)* *(affected by repeal, see note)*[^key-60d51f7dbed05c6e9c788e7df4916126]
+**6.** (1 (Extent: S) (affected by repeal, see note))[^c-60d51f7dbed05c6e9c788e7df4916126] Section 13(2) of this Act shall not apply to any monument of which the Secretary of State or a local authority have been constituted guardians before the commencement of this Act, except where either— *(Extent: S)* *(affected by repeal, see note)*[^c-60d51f7dbed05c6e9c788e7df4916126]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-60d51f7dbed05c6e9c788e7df4916126] the guardianship deed provided for control and management of the monument by the guardians; or *(Extent: S)* *(affected by repeal, see note)*[^key-60d51f7dbed05c6e9c788e7df4916126]
-- (b (Extent: S) (affected by repeal, see note))[^key-60d51f7dbed05c6e9c788e7df4916126] the persons for the time being immediately affected by the operation of the guardianship deed have consented to the exercise of control and management of the monument by the guardians. *(Extent: S)* *(affected by repeal, see note)*[^key-60d51f7dbed05c6e9c788e7df4916126]
+- (a (Extent: S) (affected by repeal, see note))[^c-60d51f7dbed05c6e9c788e7df4916126] the guardianship deed provided for control and management of the monument by the guardians; or *(Extent: S)* *(affected by repeal, see note)*[^c-60d51f7dbed05c6e9c788e7df4916126]
+- (b (Extent: S) (affected by repeal, see note))[^c-60d51f7dbed05c6e9c788e7df4916126] the persons for the time being immediately affected by the operation of the guardianship deed have consented to the exercise of control and management of the monument by the guardians. *(Extent: S)* *(affected by repeal, see note)*[^c-60d51f7dbed05c6e9c788e7df4916126]
 
 (2) Section 19(1) of this Act shall not apply to any monument of which the [^c251415]Secretary of State or a local authority had been constituted guardians before 15th August 1913 (being the date of commencement of the Ancient Monuments Consolidation and Amendment Act 1913), except where either—
 
@@ -91,7 +91,7 @@ that consent shall have effect for the purposes of this Act as if it were a sche
 
 [^c251414]: Marginal citation: [1953 c. 49](https://www.legislation.gov.uk/ukpga/1953/49).
 
-[^key-60d51f7dbed05c6e9c788e7df4916126]: Textual amendment: [Sch. 3 para. 6(1)](https://www.legislation.gov.uk/ukpga/1979/46/schedule/3/paragraph/6/1) repealed (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 7(5)](https://www.legislation.gov.uk/asp/2011/3/section/7/5), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-60d51f7dbed05c6e9c788e7df4916126]: Textual amendment: [Sch. 3 para. 6(1)](https://www.legislation.gov.uk/ukpga/1979/46/schedule/3/paragraph/6/1) repealed (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 7(5)](https://www.legislation.gov.uk/asp/2011/3/section/7/5), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
 [^c251415]: Marginal citation: [1913 c. 32](https://www.legislation.gov.uk/ukpga/1913/32).
 

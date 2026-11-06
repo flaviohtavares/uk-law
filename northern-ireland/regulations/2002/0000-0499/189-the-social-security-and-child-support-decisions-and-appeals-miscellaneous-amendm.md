@@ -49,11 +49,11 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by Article 22(4) to (6) of the Child Support (Northern Ireland) Order 1991[^f00001], Article 32 of, and paragraph 4 of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00002], Article 13(5)(a) and (b) of the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997[^f00003], Articles 7(3), 10(1), 11A(1), 13(2) and (7), 15(11), 16(1), 24A(1) and (2)(a), 28(1) and 74(1), (3), (5) and (6) of, and paragraph 12(1) of Schedule 1, paragraph 9 of Schedule 2 and paragraphs 1 to 4, 6 and 7 of Schedule 4 to, the Social Security (Northern Ireland) Order 1998[^f00004], and now vested in it[^f00005], and paragraphs 3(1), 6(7) and (8), 10(1), 19(1) and 20(1) and (3) of Schedule 7 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00006] and of all other powers enabling it in that behalf, with the concurrence of the Lord Chancellor in so far as the Regulations are made under Article 7(3) of the Social Security (Northern Ireland) Order 1998, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-372542f2a73dc1d25252832516f32414]
+## 1. Citation and commencement[^c-372542f2a73dc1d25252832516f32414]
 
 These Regulations may be cited as the Social Security and Child Support (Decisions and Appeals) (Miscellaneous Amendments) Regulations (Northern Ireland) 2002 and shall come into operation on 20th May 2002.
 
-## 2. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-abd7acbf12fd5f3bc7efcc2cce44baec]
+## 2. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-abd7acbf12fd5f3bc7efcc2cce44baec]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00007] shall be amended in accordance with paragraphs (2) to (21).
 
@@ -325,7 +325,7 @@ These Regulations may be cited as the Social Security and Child Support (Decisio
 
 .
 
-## 3. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^key-2705e9d5f01ed7d8769fed3b4b241f21]
+## 3. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^c-2705e9d5f01ed7d8769fed3b4b241f21]
 
 (1) The Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001[^f00047] shall be amended in accordance with paragraphs (2) to (7).
 
@@ -370,12 +370,12 @@ These Regulations may be cited as the Social Security and Child Support (Decisio
 
 (7) In regulation 23 (procedure in connection with appeals)—
 
-- (a)[^key-9c715b1c8e502669552f02620a2dd810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9c715b1c8e502669552f02620a2dd810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (3)(f)(i)—
   - (i) for “Articles 13 and 14” there shall be substituted “Article 13 or 14”; and
   - (ii) for “paragraphs 6 and 7” there shall be substituted “paragraph 6 or 7”.
 
-## 4. Revocations[^key-d49985120955424b938087023738e005]
+## 4. Revocations[^c-d49985120955424b938087023738e005]
 
 Regulation 3(2)(a) of the Social Security and Child Support (Decisions and Appeals) and Jobseeker’s Allowance (Amendment) Regulations (Northern Ireland) 1999[^f00048] and regulation 6(14), (20) and (21)(a) of the Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2000[^f00049] are hereby revoked.
 
@@ -439,9 +439,9 @@ These Regulations do not impose a charge on business.
 
 [^f00006]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-372542f2a73dc1d25252832516f32414]: Commencement: Reg. 1 in operation at 20.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/189/regulation/1)
+[^c-372542f2a73dc1d25252832516f32414]: Commencement: Reg. 1 in operation at 20.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/189/regulation/1)
 
-[^key-abd7acbf12fd5f3bc7efcc2cce44baec]: Commencement: Reg. 2 in operation at 20.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/189/regulation/1)
+[^c-abd7acbf12fd5f3bc7efcc2cce44baec]: Commencement: Reg. 2 in operation at 20.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/189/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending regulations are [S.R. 1999 Nos. 272](https://www.legislation.gov.uk/nisr/1999/272) and [408](https://www.legislation.gov.uk/nisr/1999/408), [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215) and [S.R. 2001 No. 176](https://www.legislation.gov.uk/nisr/2001/176)
 
@@ -523,13 +523,13 @@ These Regulations do not impose a charge on business.
 
 [^f00046]: Footnote: Regulation 46 was substituted by [S.R. 1994 No. 484](https://www.legislation.gov.uk/nisr/1994/484)
 
-[^key-2705e9d5f01ed7d8769fed3b4b241f21]: Commencement: Reg. 3 in operation at 20.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/189/regulation/1)
+[^c-2705e9d5f01ed7d8769fed3b4b241f21]: Commencement: Reg. 3 in operation at 20.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/189/regulation/1)
 
 [^f00047]: Footnote: [S.R. 2001 No. 213](https://www.legislation.gov.uk/nisr/2001/213)
 
-[^key-9c715b1c8e502669552f02620a2dd810]: Textual amendment: [Reg. 3(7)(a)](https://www.legislation.gov.uk/nisr/2002/189/regulation/3/7/a) revoked (21.12.2004) by [The Social Security, Child Support and Tax Credits (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/516)](https://www.legislation.gov.uk/nisr/2004/516), [regs. 1](https://www.legislation.gov.uk/nisr/2004/516/regulation/1), [6](https://www.legislation.gov.uk/nisr/2004/516/regulation/6), [Sch.](https://www.legislation.gov.uk/nisr/2004/516/schedule)
+[^c-9c715b1c8e502669552f02620a2dd810]: Textual amendment: [Reg. 3(7)(a)](https://www.legislation.gov.uk/nisr/2002/189/regulation/3/7/a) revoked (21.12.2004) by [The Social Security, Child Support and Tax Credits (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/516)](https://www.legislation.gov.uk/nisr/2004/516), [regs. 1](https://www.legislation.gov.uk/nisr/2004/516/regulation/1), [6](https://www.legislation.gov.uk/nisr/2004/516/regulation/6), [Sch.](https://www.legislation.gov.uk/nisr/2004/516/schedule)
 
-[^key-d49985120955424b938087023738e005]: Commencement: Reg. 4 in operation at 20.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/189/regulation/1)
+[^c-d49985120955424b938087023738e005]: Commencement: Reg. 4 in operation at 20.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/189/regulation/1)
 
 [^f00048]: Footnote: [S.R. 1999 No. 408](https://www.legislation.gov.uk/nisr/1999/408)
 

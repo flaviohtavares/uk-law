@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Installation of improvements[^key-c82a7a64ab4b11d07118f9ad5469a964][^key-54bcab88f69102ea5b9d23c07618cb9b]
+## 7. Installation of improvements[^c-c82a7a64ab4b11d07118f9ad5469a964][^c-54bcab88f69102ea5b9d23c07618cb9b]
 
 *Extent: E+W+S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c82a7a64ab4b11d07118f9ad5469a964]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2011/16/section/7) in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
+[^c-c82a7a64ab4b11d07118f9ad5469a964]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2011/16/section/7) in force at 21.3.2012 for specified purposes by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2)
 
-[^key-54bcab88f69102ea5b9d23c07618cb9b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2011/16/section/7) in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/125/article/2/b)
+[^c-54bcab88f69102ea5b9d23c07618cb9b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2011/16/section/7) in force at 28.1.2013 in so far as not already in force by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/125/article/2/b)

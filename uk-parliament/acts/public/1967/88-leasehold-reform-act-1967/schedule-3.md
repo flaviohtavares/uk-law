@@ -32,7 +32,7 @@ Sections 22 and 34.
 
 (3) In sub-paragraphs (1) and (2) above references to a notice terminating a tenancy include a tenant’s request for a new tenancy under section 26 of the Landlord and Tenant Act 1954, and a tenant’s notice under section 27(1) of that Act that he does not desire the tenancy to be continued.
 
-**2.** (1)[^key-d3150a746c3aa3964288fe0896e43ee4] Sub-paragraphs (1A) to (1E) below apply where a landlord’s notice terminating the tenancy of any property has been given under section 4 or 25 of the Landlord and Tenant Act 1954 or served under paragraph 4(1) of Schedule 10 to the Local Government and Housing Act 1989 (whether or not that notice has effect to terminate the tenancy).
+**2.** (1)[^c-d3150a746c3aa3964288fe0896e43ee4] Sub-paragraphs (1A) to (1E) below apply where a landlord’s notice terminating the tenancy of any property has been given under section 4 or 25 of the Landlord and Tenant Act 1954 or served under paragraph 4(1) of Schedule 10 to the Local Government and Housing Act 1989 (whether or not that notice has effect to terminate the tenancy).
 
 (1A) A claim to acquire the freehold or an extended lease of the property shall be of no effect if made after the relevant time, but this sub-paragraph is subject to sub-paragraphs (1D) and (1E) below.
 
@@ -58,10 +58,10 @@ Sections 22 and 34.
 
 (4) Where by virtue of sub-paragraph (3) above a landlord’s notice specifies as the date of termination of a tenancy a date earlier than six months after the giving of the notice, then—
 
-- (a) if it is a notice proposing a statutory tenancy, section 7(2) of the Landlord and Tenant Act 1954 shall apply in relation to the notice with the substitution, for references to the period of two months ending with the date of termination specified in the notice and the beginning of that period, of references to the period of three months beginning with the giving of the notice and the end of that period; [^key-0c17d74f743a85c5b1ccabe032be8826]...
-- (b)[^key-0c17d74f743a85c5b1ccabe032be8826] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) if it is a notice proposing a statutory tenancy, section 7(2) of the Landlord and Tenant Act 1954 shall apply in relation to the notice with the substitution, for references to the period of two months ending with the date of termination specified in the notice and the beginning of that period, of references to the period of three months beginning with the giving of the notice and the end of that period; [^c-0c17d74f743a85c5b1ccabe032be8826]...
+- (b)[^c-0c17d74f743a85c5b1ccabe032be8826] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2A.**[^key-20d8a7f88638f7a3b940ac04393f7554] (1) If—
+**2A.**[^c-20d8a7f88638f7a3b940ac04393f7554] (1) If—
 
 - (a) the landlord commences proceedings under Part 2 of the Landlord and Tenant Act 1954; and
 - (b) the tenant subsequently makes a claim to acquire the freehold or an extended lease of the property; and
@@ -123,9 +123,9 @@ include references to those provisions as they apply in relation to Schedule 10 
 - (d)[^c8302821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e)[^c8302831] in the case of a tenancy falling within section 1(1)(a)(ii) of this Act, the premium payable as a condition of the grant of the tenancy.
 
-(1A)[^c8302841] Where the tenant gives the notice by virtue of section 1AA of this Act, sub-paragraph (1) above shall have effect with the substitution for paragraph (b) of— *(affected by repeal, see note)*[^key-49676d7ba54c75c3cb11e1aa78da0101]
+(1A)[^c8302841] Where the tenant gives the notice by virtue of section 1AA of this Act, sub-paragraph (1) above shall have effect with the substitution for paragraph (b) of— *(affected by repeal, see note)*[^c-49676d7ba54c75c3cb11e1aa78da0101]
 
-- “(b) such particulars of the tenancy as serve to identify the instrument creating the tenancy and show that the tenancy is one in relation to which section 1AA(1) of this Act has effect to confer a right to acquire the freehold of the house and premises;”. *(affected by repeal, see note)*[^key-49676d7ba54c75c3cb11e1aa78da0101]
+- “(b) such particulars of the tenancy as serve to identify the instrument creating the tenancy and show that the tenancy is one in relation to which section 1AA(1) of this Act has effect to confer a right to acquire the freehold of the house and premises;”. *(affected by repeal, see note)*[^c-49676d7ba54c75c3cb11e1aa78da0101]
 
 (2) Where the tenant gives the notice by virtue of section 6 , 6A[^c8302851] or 7 of this Act, sub-paragraph (1)(c) [^c8302861]. . . above shall apply with the appropriate modifications of references to the tenant, so that the notice shall show the particulars bringing the case within section 6 , 6A or 7.
 
@@ -177,7 +177,7 @@ Provided that in the case of a debenture-holders’ charge within the meaning of
 - (b) that, in the event of a tenant having that right and giving such a notice within those two months, the landlord’s notice will not operate; and
 - (c) that, in the event of the tenant giving such a notice within those two months, the landlord will be entitled to apply to the court under section 17 or 18 of this Act and proposes to do so or, as the case may be, will not be entitled or does not propose to do so.
 
-(2A)[^key-393e52c2624af31e8d91ab748bda1299] If the landlord’s notice is under section 25 of the Landlord and Tenant Act 1954, sub-paragraph (2) above shall effect in relation to it as if in paragraph (b), after the word “operate” there were inserted the words “and no further proceedings may be taken by him under Part 2 of the Landlord and Tenant Act 1954.”
+(2A)[^c-393e52c2624af31e8d91ab748bda1299] If the landlord’s notice is under section 25 of the Landlord and Tenant Act 1954, sub-paragraph (2) above shall effect in relation to it as if in paragraph (b), after the word “operate” there were inserted the words “and no further proceedings may be taken by him under Part 2 of the Landlord and Tenant Act 1954.”
 
 (3) The landlord shall also in the notice give the names and addresses of any other persons known or believed by him to have an interest superior to the tenancy terminated by the notice or to be the agent concerned with the property on behalf of a person having such an interest; and for this purpose “**an interest superior to the tenancy terminated by the notice**” means the estate in fee simple and any tenancy superior to that tenancy, but includes also a tenancy reversionary on that tenancy.
 
@@ -191,7 +191,7 @@ Provided that in the case of a debenture-holders’ charge within the meaning of
 
 [^c8302371]: Textual amendment: Words inserted by [Local Government and Housing Act 1989 (c. 42, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(1)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/1), [Sch. 11 para. 13(1)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/13/1)
 
-[^key-d3150a746c3aa3964288fe0896e43ee4]: Textual amendment: [Sch. 3 para. 2(1)-(1E)](https://www.legislation.gov.uk/ukpga/1967/88/schedule/3/paragraph/2/1) substituted for [Sch. 3](https://www.legislation.gov.uk/ukpga/1967/88/schedule/3) [para. 2(1)](https://www.legislation.gov.uk/ukpga/1967/88/schedule/3/paragraph/2/1) (1.6.2004) by [The Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/11)
+[^c-d3150a746c3aa3964288fe0896e43ee4]: Textual amendment: [Sch. 3 para. 2(1)-(1E)](https://www.legislation.gov.uk/ukpga/1967/88/schedule/3/paragraph/2/1) substituted for [Sch. 3](https://www.legislation.gov.uk/ukpga/1967/88/schedule/3) [para. 2(1)](https://www.legislation.gov.uk/ukpga/1967/88/schedule/3/paragraph/2/1) (1.6.2004) by [The Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/11)
 
 [^c8302461]: Marginal citation: [1954 c. 56](https://www.legislation.gov.uk/ukpga/1954/56).
 
@@ -205,9 +205,9 @@ Provided that in the case of a debenture-holders’ charge within the meaning of
 
 [^c8302521]: Textual amendment: Sch. 3 para. 2(3)(ii) added by [Local Government and Housing Act 1989 (c. 42, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(1)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/1), [Sch. 11 para. 13(2)(c)(iii)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/13/2/c/iii)
 
-[^key-0c17d74f743a85c5b1ccabe032be8826]: Textual amendment: [Sch. 3 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/1967/88/schedule/3/paragraph/2/4/b) and word repealed (1.6.2004) by [The Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3096/schedule/6)
+[^c-0c17d74f743a85c5b1ccabe032be8826]: Textual amendment: [Sch. 3 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/1967/88/schedule/3/paragraph/2/4/b) and word repealed (1.6.2004) by [The Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3096/schedule/6)
 
-[^key-20d8a7f88638f7a3b940ac04393f7554]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/ukpga/1967/88/schedule/3/paragraph/2A) inserted (1.6.2004) by [The Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/12)
+[^c-20d8a7f88638f7a3b940ac04393f7554]: Textual amendment: [Sch. 3 para. 2A](https://www.legislation.gov.uk/ukpga/1967/88/schedule/3/paragraph/2A) inserted (1.6.2004) by [The Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/12)
 
 [^c8302531]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
@@ -235,7 +235,7 @@ Provided that in the case of a debenture-holders’ charge within the meaning of
 
 [^c8302841]: Textual amendment: Sch. 3 Pt. II para. 6(1A) inserted (1.4.1997) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 106](https://www.legislation.gov.uk/ukpga/1996/52/section/106), [Sch. 9 para. 2(1)(8)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/9/paragraph/2/1/8); [S.I. 1997/618](https://www.legislation.gov.uk/uksi/1997/618), [art. 2(1)](https://www.legislation.gov.uk/uksi/1997/618/article/2/1) (with [Sch.](https://www.legislation.gov.uk/uksi/1997/618/schedule))
 
-[^key-49676d7ba54c75c3cb11e1aa78da0101]: Textual amendment: [Sch. 3 para. 6(1A)](https://www.legislation.gov.uk/ukpga/1967/88/schedule/3/paragraph/6/1A) repealed (7.9.2009 for E.) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/2096](https://www.legislation.gov.uk/uksi/2009/2096), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2009/2096/article/2/2/a)[(c)](https://www.legislation.gov.uk/uksi/2009/2096/article/2/2/c) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/2))
+[^c-49676d7ba54c75c3cb11e1aa78da0101]: Textual amendment: [Sch. 3 para. 6(1A)](https://www.legislation.gov.uk/ukpga/1967/88/schedule/3/paragraph/6/1A) repealed (7.9.2009 for E.) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/2096](https://www.legislation.gov.uk/uksi/2009/2096), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2009/2096/article/2/2/a)[(c)](https://www.legislation.gov.uk/uksi/2009/2096/article/2/2/c) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/2))
 
 [^c8302851]: Textual amendment: Words in Sch. 3 para. 6(2) inserted (26.7.2002 for E. and 1.1.2003 for W.) by [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15), [s. 142(2)](https://www.legislation.gov.uk/ukpga/2002/15/section/142/2); [S.I. 2002/1912](https://www.legislation.gov.uk/uksi/2002/1912), [art. 2(a)](https://www.legislation.gov.uk/uksi/2002/1912/article/2/a) (subject to transitional provisions and savings in Sch. 2 of the commencing S.I.); [S.I. 2002/3012](https://www.legislation.gov.uk/uksi/2002/3012), [art. 2(a)](https://www.legislation.gov.uk/uksi/2002/3012/article/2/a) (subject to transitional provisions and savings in Sch. 2 of the commencing S.I.)
 
@@ -249,7 +249,7 @@ Provided that in the case of a debenture-holders’ charge within the meaning of
 
 [^c8302951]: Textual amendment: Words substituted by [Local Government and Housing Act 1989 (c. 42, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(1)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/1), [Sch. 11 para. 13(5)(a)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/13/5/a)
 
-[^key-393e52c2624af31e8d91ab748bda1299]: Textual amendment: [Sch. 3 para. 10(2A)](https://www.legislation.gov.uk/ukpga/1967/88/schedule/3/paragraph/10/2A) inserted (1.6.2004) by [The Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/13)
+[^c-393e52c2624af31e8d91ab748bda1299]: Textual amendment: [Sch. 3 para. 10(2A)](https://www.legislation.gov.uk/ukpga/1967/88/schedule/3/paragraph/10/2A) inserted (1.6.2004) by [The Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 13](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/13)
 
 [^c8302961]: Textual amendment: Words inserted by [Local Government and Housing Act 1989 (c. 42, SIF 75:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(1)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/1), [Sch. 11 para. 13(5)(b)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/13/5/b)
 

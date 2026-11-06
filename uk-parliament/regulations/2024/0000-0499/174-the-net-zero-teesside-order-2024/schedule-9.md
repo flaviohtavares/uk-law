@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-696a2fec7c46d280af497f1112db0785]
+## SCHEDULE 9 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-696a2fec7c46d280af497f1112db0785]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ Table 8
 
 ## Annotations
 
-[^key-696a2fec7c46d280af497f1112db0785]: Commencement: Sch. 9 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-696a2fec7c46d280af497f1112db0785]: Commencement: Sch. 9 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

@@ -43,13 +43,13 @@ Coming into force
 
 in accordance with article 1
 
-The Treasury, in exercise of the powers conferred upon them by sections 426, 427 and 428(3) of the Financial Services and Markets Act 2000[^f00001], hereby make the following Order:[^key-f18cfbcaf31bddd4d3bdb64cbfceab1b]
+The Treasury, in exercise of the powers conferred upon them by sections 426, 427 and 428(3) of the Financial Services and Markets Act 2000[^f00001], hereby make the following Order:[^c-f18cfbcaf31bddd4d3bdb64cbfceab1b]
 
-## 1. Citation and commencement[^key-4657e76723738660bb77015fd99a9fd9]
+## 1. Citation and commencement[^c-4657e76723738660bb77015fd99a9fd9]
 
 This Order may be cited as the Financial Services and Markets Act 2000 (Official Listing of Securities) (Transitional Provisions) Order 2001 and comes into force on the day on which section 74(1) comes into force.
 
-## 2. Interpretation[^key-873cf6a1d63144a3bb307d8fb6b47ef3]
+## 2. Interpretation[^c-873cf6a1d63144a3bb307d8fb6b47ef3]
 
 (1) In this Order, unless the context otherwise requires—
 
@@ -70,7 +70,7 @@ This Order may be cited as the Financial Services and Markets Act 2000 (Official
 
 (5) Nothing in this Order prejudices the operation of section 16 or 17 of the Interpretation Act 1978[^f00005] in a case for which provision is not made by this Order.
 
-## 3. Continued effect of listing rules[^key-015e08f03fb71c467263eeca8c15495d]
+## 3. Continued effect of listing rules[^c-015e08f03fb71c467263eeca8c15495d]
 
 (1) In this Order, “old listing rules” means rules which had effect immediately before commencement and which were made (or treated as having been made) by the Authority—
 
@@ -85,7 +85,7 @@ This Order may be cited as the Financial Services and Markets Act 2000 (Official
 
 (5) Where any provision of listing rules (“the new provision”) provides that a person is required to pay any fee or take any other step which he was required to pay or take under any provision of old listing rules (“the old provision”), he is to be treated as having complied with the new provision to the same extent as he had complied with the old provision.
 
-## 4. Applications for listing[^key-cf1a0a2a50a229e5536104a8742d61b5]
+## 4. Applications for listing[^c-cf1a0a2a50a229e5536104a8742d61b5]
 
 (1) This article applies to—
 
@@ -99,7 +99,7 @@ This Order may be cited as the Financial Services and Markets Act 2000 (Official
 - (a) the application is to be treated as received by the competent authority on the day on which the original application was received by the Authority, and
 - (b) the reference in paragraph (b) of that subsection to further information which the competent authority requires the applicant to provide in connection with the application is to be treated as including further information which, before commencement, the Authority required the applicant to furnish in connection with the original application.
 
-## 5. Listing particulars etc.[^key-5ca5106a19039103faacef847f813d5b]
+## 5. Listing particulars etc.[^c-5ca5106a19039103faacef847f813d5b]
 
 (1) Where, before commencement—
 
@@ -127,7 +127,7 @@ the delivery of the document to the registrar of companies is to be treated as d
 
 (5) In relation to non-Part IV securities, “offering document” means any listing particulars, supplementary listing particulars, prospectus or supplementary prospectus the preparation of which was required in accordance with the procedures and practices applied by the Authority in relation to the admission of such securities to the official list.
 
-## 6. Supplementary listing particulars etc.[^key-3f865e9b26cffb19fbde3204ddf43322]
+## 6. Supplementary listing particulars etc.[^c-3f865e9b26cffb19fbde3204ddf43322]
 
 (1) Where, before commencement—
 
@@ -154,7 +154,7 @@ for the purposes of section 81 (supplementary details to be submitted in the eve
 
 (5) In this article any reference to any provision of old listing rules includes, in relation to non-Part IV securities, a reference to that provision as applied by the Authority to such securities as part of its procedures and practices in relation to the admission of such securities to the official list.
 
-## 7. Compensation in relation to listing particulars etc. published before commencement[^key-eff553c4f1b2ab59128b5fcb1e0fcc30]
+## 7. Compensation in relation to listing particulars etc. published before commencement[^c-eff553c4f1b2ab59128b5fcb1e0fcc30]
 
 (1) Notwithstanding the repeal of sections 150 and 151 of the 1986 Act (compensation for false or misleading particulars) by virtue of any provision made under the 2000 Act, those sections (including those sections as applied by sections 154A and 156A(3) of the 1986 Act) are to be treated as continuing to apply in relation to—
 
@@ -173,7 +173,7 @@ whether the securities in question were acquired, or any loss was suffered, befo
 
 (4) “Offering document” has the meaning given in article 5(4).
 
-## 8. Suspension of listing[^key-3934ce958949c2732825e2cc20fe4911]
+## 8. Suspension of listing[^c-3934ce958949c2732825e2cc20fe4911]
 
 (1) This article applies where, immediately before commencement—
 
@@ -186,7 +186,7 @@ whether the securities in question were acquired, or any loss was suffered, befo
 
 (4) In paragraph (4), the reference to listing is to be construed in accordance with section 74(5).
 
-## 9. Sponsors[^key-c209231278674fce4179a6c0b528a857]
+## 9. Sponsors[^c-c209231278674fce4179a6c0b528a857]
 
 (1) Paragraph (2) applies to persons who immediately before commencement were on the register of approved sponsors maintained by the Authority for the purposes of old listing rules.
 
@@ -196,7 +196,7 @@ whether the securities in question were acquired, or any loss was suffered, befo
 
 (4) Where an application to which this paragraph applies (“the original application”) was made before commencement, in accordance with the procedure applicable to such an application, but was not finally determined before commencement, it is to be treated after commencement as if it were an application made for the approval, of the person in respect of whom it was made, as a sponsor for the purposes of listing rules made pursuant to section 88.
 
-## 10. Contravention of listing rules by sponsors before commencement[^key-99cdf4070116527c3c00669317eef0a0]
+## 10. Contravention of listing rules by sponsors before commencement[^c-99cdf4070116527c3c00669317eef0a0]
 
 (1) Paragraph (2) applies to a person who—
 
@@ -210,7 +210,7 @@ whether the securities in question were acquired, or any loss was suffered, befo
 
 (3) Subsections (2) to (4) of section 89 (which provide for the giving of warning notices and decision notices and for references to the Tribunal), and listing rules made in connection with that section, apply in relation to a statement made by virtue of paragraph (2) above as they apply in relation to a statement of the kind described in subsection (1) of that section, but subject to articles 12 and 13 below.
 
-## 11. Contravention of listing rules by issuer or director before commencement[^key-51761240f16f0cbdcc500c044b867fb8]
+## 11. Contravention of listing rules by issuer or director before commencement[^c-51761240f16f0cbdcc500c044b867fb8]
 
 (1) Paragraph (2) applies to a person who—
 
@@ -232,7 +232,7 @@ whether the securities in question were acquired, or any loss was suffered, befo
 
 (7) Paragraph (2) above does not affect any power which the competent authority has, under listing rules, to publish information which an issuer failed to publish as required by those rules or old listing rules.
 
-## 12. Procedure for exercising powers where referral procedures begun before commencement[^key-26eff5e7662a1a65c17afaef56a58f23]
+## 12. Procedure for exercising powers where referral procedures begun before commencement[^c-26eff5e7662a1a65c17afaef56a58f23]
 
 (1) In this article—
 
@@ -258,7 +258,7 @@ whether the securities in question were acquired, or any loss was suffered, befo
 
 (9) Subsections (1) and (9) of section 395 (which require the Authority to determine the procedure that it proposes to follow in relation to the giving of notices including decision notices, and to follow the stated procedure) do not apply in relation to the giving of decision notices under paragraphs (4) or (5) above.
 
-## 13. Appeals in relation to decisions taken before commencement[^key-2d72cd43b58c0c7ca3e1a5ad661abf32]
+## 13. Appeals in relation to decisions taken before commencement[^c-2d72cd43b58c0c7ca3e1a5ad661abf32]
 
 (1) In this article—
 
@@ -316,11 +316,11 @@ The definition of “issuer” for the purposes of this Order is provided by reg
 
 [^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-f18cfbcaf31bddd4d3bdb64cbfceab1b]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-f18cfbcaf31bddd4d3bdb64cbfceab1b]: Modification: Order: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-4657e76723738660bb77015fd99a9fd9]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
+[^c-4657e76723738660bb77015fd99a9fd9]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
 
-[^key-873cf6a1d63144a3bb307d8fb6b47ef3]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2001/2957/article/2) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
+[^c-873cf6a1d63144a3bb307d8fb6b47ef3]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2001/2957/article/2) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
 
 [^f00002]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60).
 
@@ -330,26 +330,26 @@ The definition of “issuer” for the purposes of this Order is provided by reg
 
 [^f00005]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-015e08f03fb71c467263eeca8c15495d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2001/2957/article/3) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
+[^c-015e08f03fb71c467263eeca8c15495d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2001/2957/article/3) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
 
 [^f00006]: Footnote: See, in particular, the power to make listing rules in section 142(6). Relevant amendments to Part IV are found in S.I. [1991/2000](https://www.legislation.gov.uk/uksi/1991/2000), [1995/1537](https://www.legislation.gov.uk/uksi/1995/1537), and [2000/968](https://www.legislation.gov.uk/uksi/2000/968) (which substituted the Financial Services Authority as the competent authority for the purposes of Part IV).
 
-[^key-cf1a0a2a50a229e5536104a8742d61b5]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2001/2957/article/4) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
+[^c-cf1a0a2a50a229e5536104a8742d61b5]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2001/2957/article/4) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
 
-[^key-5ca5106a19039103faacef847f813d5b]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2001/2957/article/5) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
+[^c-5ca5106a19039103faacef847f813d5b]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2001/2957/article/5) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
 
-[^key-3f865e9b26cffb19fbde3204ddf43322]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2001/2957/article/6) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
+[^c-3f865e9b26cffb19fbde3204ddf43322]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2001/2957/article/6) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
 
-[^key-eff553c4f1b2ab59128b5fcb1e0fcc30]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2001/2957/article/7) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
+[^c-eff553c4f1b2ab59128b5fcb1e0fcc30]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2001/2957/article/7) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
 
-[^key-3934ce958949c2732825e2cc20fe4911]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2001/2957/article/8) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
+[^c-3934ce958949c2732825e2cc20fe4911]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2001/2957/article/8) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
 
-[^key-c209231278674fce4179a6c0b528a857]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2001/2957/article/9) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
+[^c-c209231278674fce4179a6c0b528a857]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2001/2957/article/9) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
 
-[^key-99cdf4070116527c3c00669317eef0a0]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2001/2957/article/10) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
+[^c-99cdf4070116527c3c00669317eef0a0]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2001/2957/article/10) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
 
-[^key-51761240f16f0cbdcc500c044b867fb8]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2001/2957/article/11) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
+[^c-51761240f16f0cbdcc500c044b867fb8]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2001/2957/article/11) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
 
-[^key-26eff5e7662a1a65c17afaef56a58f23]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2001/2957/article/12) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
+[^c-26eff5e7662a1a65c17afaef56a58f23]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2001/2957/article/12) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
 
-[^key-2d72cd43b58c0c7ca3e1a5ad661abf32]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2001/2957/article/13) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)
+[^c-2d72cd43b58c0c7ca3e1a5ad661abf32]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2001/2957/article/13) in force at 1.12.2001 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2001/2957/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134AC. Use of reports[^key-3419d1ef37f466764907cb486f588f56][^key-664126478f24a6febb38714cad6b23c6]
+## 134AC. Use of reports[^c-3419d1ef37f466764907cb486f588f56][^c-664126478f24a6febb38714cad6b23c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3419d1ef37f466764907cb486f588f56]: Textual amendment: S. 134AC inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/56)
+[^c-3419d1ef37f466764907cb486f588f56]: Textual amendment: S. 134AC inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/56)
 
-[^key-664126478f24a6febb38714cad6b23c6]: Textual amendment: Ss. 134A-134C and cross-headings inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/1/1), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-664126478f24a6febb38714cad6b23c6]: Textual amendment: Ss. 134A-134C and cross-headings inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/1/1), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

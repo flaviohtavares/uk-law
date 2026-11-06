@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Unauthorised use of trade mark, &c. in relation to goods.[^c1130409][^key-2da925821b18a9fdceee83b9d0708d12]
+## 92. Unauthorised use of trade mark, &c. in relation to goods.[^c1130409][^c-2da925821b18a9fdceee83b9d0708d12]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ knowing or having reason to believe that it has been, or is to be, used to produ
 
     [S. 92](https://www.legislation.gov.uk/ukpga/1994/26/section/92) applied (with modifications) (14.8.1996) by [S.I. 1996/1908](https://www.legislation.gov.uk/uksi/1996/1908), [reg. 7](https://www.legislation.gov.uk/uksi/1996/1908/regulation/7)
 
-[^key-2da925821b18a9fdceee83b9d0708d12]: Modification: [S. 92](https://www.legislation.gov.uk/ukpga/1994/26/section/92) applied (with modifications) (29.4.2006) by [Community Trade Mark Regulations 2006 (S.I. 2006/1027)](https://www.legislation.gov.uk/uksi/2006/1027), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1027/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2006/1027/regulation/8)
+[^c-2da925821b18a9fdceee83b9d0708d12]: Modification: [S. 92](https://www.legislation.gov.uk/ukpga/1994/26/section/92) applied (with modifications) (29.4.2006) by [Community Trade Mark Regulations 2006 (S.I. 2006/1027)](https://www.legislation.gov.uk/uksi/2006/1027), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1027/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2006/1027/regulation/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 136. Extension of time periods[^key-de297ef85452e052edc6b70d7fdab869]
+## 136. Extension of time periods[^c-de297ef85452e052edc6b70d7fdab869]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Any period during which a local authority landlord or an applicant may or must d
 
 ## Annotations
 
-[^key-de297ef85452e052edc6b70d7fdab869]: Commencement: S. 136 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-de297ef85452e052edc6b70d7fdab869]: Commencement: S. 136 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

@@ -32,7 +32,7 @@ summary: ''
 
 Animals
 
-The Dangerous Wild Animals Act 1976 (Modification) Order 2007 (revoked)[^key-cb13b802d2a3592c3a8908ad77eb6178]
+The Dangerous Wild Animals Act 1976 (Modification) Order 2007 (revoked)[^c-cb13b802d2a3592c3a8908ad77eb6178]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st October 2007
 
-[^key-cb13b802d2a3592c3a8908ad77eb6178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb13b802d2a3592c3a8908ad77eb6178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cb13b802d2a3592c3a8908ad77eb6178]
+## 1. Citation and commencement[^c-cb13b802d2a3592c3a8908ad77eb6178]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification[^key-cb13b802d2a3592c3a8908ad77eb6178]
+## 2. Modification[^c-cb13b802d2a3592c3a8908ad77eb6178]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-cb13b802d2a3592c3a8908ad77eb6178]
+## 3. Revocation[^c-cb13b802d2a3592c3a8908ad77eb6178]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb13b802d2a3592c3a8908ad77eb6178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb13b802d2a3592c3a8908ad77eb6178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-cb13b802d2a3592c3a8908ad77eb6178]
+## SCHEDULE[^c-cb13b802d2a3592c3a8908ad77eb6178]
 
 Article 2
 
-[^key-cb13b802d2a3592c3a8908ad77eb6178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb13b802d2a3592c3a8908ad77eb6178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cb13b802d2a3592c3a8908ad77eb6178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb13b802d2a3592c3a8908ad77eb6178]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cb13b802d2a3592c3a8908ad77eb6178]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/1437) revoked (30.9.2007) by [The Dangerous Wild Animals Act 1976 (Modification) (No.2) Order 2007 (S.I. 2007/2465)](https://www.legislation.gov.uk/uksi/2007/2465), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2465/article/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2007/2465/article/3/1)
+[^c-cb13b802d2a3592c3a8908ad77eb6178]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/1437) revoked (30.9.2007) by [The Dangerous Wild Animals Act 1976 (Modification) (No.2) Order 2007 (S.I. 2007/2465)](https://www.legislation.gov.uk/uksi/2007/2465), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/2465/article/1/3), [3(1)](https://www.legislation.gov.uk/uksi/2007/2465/article/3/1)

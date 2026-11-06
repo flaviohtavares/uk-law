@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Police officers engaged on service outside their force etc[^key-5181ee6224f48d38cb6fb599260ade57]
+## 10. Police officers engaged on service outside their force etc[^c-5181ee6224f48d38cb6fb599260ade57]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5181ee6224f48d38cb6fb599260ade57]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2009/26/section/10) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/125/article/2/a)
+[^c-5181ee6224f48d38cb6fb599260ade57]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2009/26/section/10) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/125/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Movement of aircraft[^key-1d67cf410af3bdb89fac7e3adbc6868e]
+## 42. Movement of aircraft[^c-1d67cf410af3bdb89fac7e3adbc6868e]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d67cf410af3bdb89fac7e3adbc6868e]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-1d67cf410af3bdb89fac7e3adbc6868e]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

@@ -29,11 +29,11 @@ Regulation 14
 
 **2.** The statements referred to in paragraph 1(a) are—
 
-- (a) the head office of the company is situated in England and Wales (or Wales), in Scotland or in Northern Ireland[^key-6d2a32c6c4437d1a1ba6bfd77ed45f90] (as the case may be);
+- (a) the head office of the company is situated in England and Wales (or Wales), in Scotland or in Northern Ireland[^c-6d2a32c6c4437d1a1ba6bfd77ed45f90] (as the case may be);
 - (b) the company is an open-ended investment company with variable share capital;
-- (ba)[^key-bdd787d8d2df9b5c148e3b6b2a32701e] in the case of an umbrella company, the assets of a sub-fund belong exclusively to that sub-fund and shall not be used to discharge the liabilities of or claims against the umbrella company or any other person or body, or any other sub-fund, and shall not be available for any such purpose;
+- (ba)[^c-bdd787d8d2df9b5c148e3b6b2a32701e] in the case of an umbrella company, the assets of a sub-fund belong exclusively to that sub-fund and shall not be used to discharge the liabilities of or claims against the umbrella company or any other person or body, or any other sub-fund, and shall not be available for any such purpose;
 - (c) the shareholders are not liable for the debts of the company;
-- (d) the scheme property is entrusted to a depositary for safekeeping (subject to any exceptions permitted by FCA[^key-22e07a67ed7afbb1a72aaed221fbf07f] rules); and
+- (d) the scheme property is entrusted to a depositary for safekeeping (subject to any exceptions permitted by FCA[^c-22e07a67ed7afbb1a72aaed221fbf07f] rules); and
 - (e) charges or expenses of the company may be taken out of the scheme property.
 
 **3.** (1) The instrument of incorporation must contain provision as to the following matters—
@@ -71,8 +71,8 @@ Regulation 14
 
 ## Annotations
 
-[^key-6d2a32c6c4437d1a1ba6bfd77ed45f90]: Textual amendment: Words in Sch. 2 para. 2(a) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/30) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-6d2a32c6c4437d1a1ba6bfd77ed45f90]: Textual amendment: Words in Sch. 2 para. 2(a) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/30) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
 
-[^key-bdd787d8d2df9b5c148e3b6b2a32701e]: Textual amendment: Sch. 2 para. 2(ba) inserted (21.12.2011) by [The Open-Ended Investment Companies (Amendment) Regulations 2011 (S.I. 2011/3049)](https://www.legislation.gov.uk/uksi/2011/3049), [regs. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2011/3049/regulation/3/6) (with [regs. 4-10](https://www.legislation.gov.uk/uksi/2011/3049/regulation/4))
+[^c-bdd787d8d2df9b5c148e3b6b2a32701e]: Textual amendment: Sch. 2 para. 2(ba) inserted (21.12.2011) by [The Open-Ended Investment Companies (Amendment) Regulations 2011 (S.I. 2011/3049)](https://www.legislation.gov.uk/uksi/2011/3049), [regs. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2011/3049/regulation/3/6) (with [regs. 4-10](https://www.legislation.gov.uk/uksi/2011/3049/regulation/4))
 
-[^key-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
+[^c-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)

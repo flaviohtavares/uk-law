@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-71f406241b48fdddea4334bc846ec20a]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-71f406241b48fdddea4334bc846ec20a]
 
 *Extent: E+W*
 
 Article 3
 
-[^key-71f406241b48fdddea4334bc846ec20a]
+[^c-71f406241b48fdddea4334bc846ec20a]
 
 A nationally significant infrastructure project as defined in section 14(1)(a) (nationally significant infrastructure projects: general) and section 15 (generating stations) of the 2008 Act being a generating station with a capacity of over 50 megawatts but below 300 megawatts and associated development under sections 115(1) and (2) (development for which development consent may be granted) of the 2008 Act comprising all or part of—
 
-[^key-71f406241b48fdddea4334bc846ec20a]
+[^c-71f406241b48fdddea4334bc846ec20a]
 
 In the London Borough of Bexley
 
-[^key-71f406241b48fdddea4334bc846ec20a]
+[^c-71f406241b48fdddea4334bc846ec20a]
 
 Work No. 1 — Works to construct an integrated energy park—
 
@@ -42,7 +42,7 @@ Work No. 1 — Works to construct an integrated energy park—
   - (v) a steam turbine incorporating at least 30 megawatts heat off–take for district heating and electrical generator (if not constructed and installed as part of Work No. 2);
   - (vi) an integrated protection system and uninterruptable power supplies; and
   - (vii) bottom ash conveyors, including storage bunker, crane and ash collection bay.
-- (b) Work No. 1B[^key-d51cc641dbfeb2f5b166de5671a496b8]— an anaerobic digestion system with a capacity to process up to 40,000 tonnes of waste per calendar year including—
+- (b) Work No. 1B[^c-d51cc641dbfeb2f5b166de5671a496b8]— an anaerobic digestion system with a capacity to process up to 40,000 tonnes of waste per calendar year including—
   - (i) fuel reception and storage facilities as constructed for Work No. 1A;
   - (ii) conveyor and feed system;
   - (iii) anaerobic digestor, dryers and integrated heating system;
@@ -62,22 +62,22 @@ Work No. 1 — Works to construct an integrated energy park—
   - (iv) switch gear and ancillary equipment.
 - (e) Work No. 1E — a building with roof enclosing and/or supporting all or part of Work Nos. 1A, 1B, 1C and 1D.
 
-[^key-71f406241b48fdddea4334bc846ec20a]
+[^c-71f406241b48fdddea4334bc846ec20a]
 
 Work No. 2 — Works to construct—
 
 - (a) a cooling system comprising air-cooled condensers; and
 - (b) if not constructed and installed as part of Work No. 1A, a steam turbine incorporating at least 30 megawatts heat off–take for district heating and electrical generator and a steam turbine building to house all or part of the same.
 
-[^key-71f406241b48fdddea4334bc846ec20a]
+[^c-71f406241b48fdddea4334bc846ec20a]
 
 Work No. 3 — Works to construct and install combined heat and power equipment including heat exchangers, pipework (including flow/return pipework, valving, pumps, pressurisation and water treatment systems).
 
-[^key-71f406241b48fdddea4334bc846ec20a]
+[^c-71f406241b48fdddea4334bc846ec20a]
 
 Work No.4 — Works to construct an electrical substation including switchgear, and transformer, busbar sections, integrated protection scheme and uninterruptable power supplies.
 
-[^key-71f406241b48fdddea4334bc846ec20a]
+[^c-71f406241b48fdddea4334bc846ec20a]
 
 Work No. 5 — Works to construct or install supporting buildings and facilities, including—
 
@@ -99,7 +99,7 @@ Work No. 5 — Works to construct or install supporting buildings and facilities
 - (p) an outage contractor compound; and
 - (q) a permanent contractor laydown area.
 
-[^key-71f406241b48fdddea4334bc846ec20a]
+[^c-71f406241b48fdddea4334bc846ec20a]
 
 Work No. 6 — Works to construct and install supporting infrastructure, including—
 
@@ -108,11 +108,11 @@ Work No. 6 — Works to construct and install supporting infrastructure, includi
 - (c) new or alteration to accesses, a vehicular access road and internal vehicular access road, vehicle turning, waiting and parking areas; and
 - (d) vehicle parking.
 
-[^key-71f406241b48fdddea4334bc846ec20a]
+[^c-71f406241b48fdddea4334bc846ec20a]
 
 Work No. 7 — Works to construct and install from Work No. 6 pipes and cables.
 
-[^key-71f406241b48fdddea4334bc846ec20a]
+[^c-71f406241b48fdddea4334bc846ec20a]
 
 Work No. 8 — Works to construct temporary construction compounds including—
 
@@ -122,11 +122,11 @@ Work No. 8 — Works to construct temporary construction compounds including—
 - (d) new or alteration to accesses; and
 - (e) construction fabrication areas.
 
-[^key-71f406241b48fdddea4334bc846ec20a]
+[^c-71f406241b48fdddea4334bc846ec20a]
 
 In the London Borough of Bexley and the Borough of Dartford
 
-[^key-71f406241b48fdddea4334bc846ec20a]
+[^c-71f406241b48fdddea4334bc846ec20a]
 
 Work No. 9 — Works to construct and install an electrical connection including—
 
@@ -136,15 +136,15 @@ Work No. 9 — Works to construct and install an electrical connection including
 - (d) temporary construction compounds; and
 - (e) new or alteration to accesses.
 
-[^key-71f406241b48fdddea4334bc846ec20a]
+[^c-71f406241b48fdddea4334bc846ec20a]
 
 In the Borough of Dartford
 
-[^key-71f406241b48fdddea4334bc846ec20a]
+[^c-71f406241b48fdddea4334bc846ec20a]
 
 Work No. 10 — Works to connect the electrical connection (Work No. 9) to the Littlebrook substation and associated improvements.
 
-[^key-71f406241b48fdddea4334bc846ec20a]
+[^c-71f406241b48fdddea4334bc846ec20a]
 
 In connection with and in addition to Work Nos. 1, 2, 3, 4, 5, 6, 7, 8, 9 and 10 and, to the extent that it does not otherwise form part of those Work Nos., further associated development within the Order limits including—
 
@@ -166,6 +166,6 @@ and such other buildings, structures, works or operations and modifications to, 
 
 ## Annotations
 
-[^key-71f406241b48fdddea4334bc846ec20a]: Commencement: Sch. 1 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-71f406241b48fdddea4334bc846ec20a]: Commencement: Sch. 1 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-d51cc641dbfeb2f5b166de5671a496b8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2020/419/schedule/1) substituted (10.3.2021) by [The Riverside Energy Park (Correction) Order 2021 (S.I. 2021/273)](https://www.legislation.gov.uk/uksi/2021/273), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/273/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/273/schedule)
+[^c-d51cc641dbfeb2f5b166de5671a496b8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2020/419/schedule/1) substituted (10.3.2021) by [The Riverside Energy Park (Correction) Order 2021 (S.I. 2021/273)](https://www.legislation.gov.uk/uksi/2021/273), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/273/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/273/schedule)

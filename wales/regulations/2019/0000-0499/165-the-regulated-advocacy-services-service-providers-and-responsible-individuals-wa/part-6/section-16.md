@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Service standards[^key-7688b78aa61095447083741222a81a3c]
+## 16. Service standards[^c-7688b78aa61095447083741222a81a3c]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7688b78aa61095447083741222a81a3c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2019/165/regulation/16) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-7688b78aa61095447083741222a81a3c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2019/165/regulation/16) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

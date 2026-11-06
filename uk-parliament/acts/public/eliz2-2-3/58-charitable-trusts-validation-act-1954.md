@@ -77,11 +77,11 @@ This subsection shall not be taken as extending the time for bringing any procee
 
 ## 4. Provisions as to pending proceedings and past decisions and tax payments.
 
-(1)[^key-073f9ebba09e4be2f3c8a60ae93661e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-073f9ebba09e4be2f3c8a60ae93661e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-073f9ebba09e4be2f3c8a60ae93661e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-073f9ebba09e4be2f3c8a60ae93661e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-073f9ebba09e4be2f3c8a60ae93661e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-073f9ebba09e4be2f3c8a60ae93661e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) This Act shall not, by its operation on any instrument as respects the period before the commencement of the Act, impose or increase any liability to tax nor entitle any person to reclaim any tax paid or borne before that commencement, nor (save as respects taxation) require the objects declared by the instrument to be treated for the purposes of any enactment as having been charitable so as to invalidate anything done or any determination given before that commencement.
 
@@ -99,6 +99,6 @@ This Act may be cited as the Charitable Trusts (Validation) Act 1954.
 
 [^c619573]: Textual amendment: Words substituted by [Limitation Act 1980 (c. 58, SIF 79)](https://www.legislation.gov.uk/ukpga/1980/58), [s. 40(2) Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/1980/58/section/40/2/schedule/3/paragraph/4)
 
-[^key-073f9ebba09e4be2f3c8a60ae93661e3]: Textual amendment: [S. 4(1)-(3)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/58/section/4/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 4
+[^c-073f9ebba09e4be2f3c8a60ae93661e3]: Textual amendment: [S. 4(1)-(3)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/58/section/4/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 4
 
 [^c619574]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/58/section/5) repealed by [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)

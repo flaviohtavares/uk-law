@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where the Secretary of State executes works under this section for repairing any damage to a scheduled monument—
 
-- (a) any compensation order previously made in respect of that damage under section 130 of the Powers of Criminal Courts (Sentencing) Act 2000[^c250799] or Chapter 2 of Part 7 of the Sentencing Code[^key-e5fc7ae12aa8aef3f69f364ce4071232] (compensation orders against convicted persons) in favour of any other person shall be enforceable (so far as not already complied with) as if it had been made in favour of the Secretary of State; and
+- (a) any compensation order previously made in respect of that damage under section 130 of the Powers of Criminal Courts (Sentencing) Act 2000[^c250799] or Chapter 2 of Part 7 of the Sentencing Code[^c-e5fc7ae12aa8aef3f69f364ce4071232] (compensation orders against convicted persons) in favour of any other person shall be enforceable (so far as not already complied with) as if it had been made in favour of the Secretary of State; and
 - (b) any such order subsequently made in respect of that damage shall be made in favour of the Secretary of State.
 
 (3)[^c250800] If it appears to the Secretary of State that any works are urgently necessary for the preservation of a scheduled monument situated in England, he may (instead of acting as mentioned in subsection (1) above) authorise the Commission to enter the site of the monument and execute the works as are specified in the authorisation.
@@ -56,7 +56,7 @@ summary: ''
 
 [^c250799]: Textual amendment: Words in s. 5(2)(a) substituted (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165](https://www.legislation.gov.uk/ukpga/2000/6/section/165), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 9 para. 58](https://www.legislation.gov.uk/ukpga/2000/6/schedule/9/paragraph/58)
 
-[^key-e5fc7ae12aa8aef3f69f364ce4071232]: Textual amendment: Words in [s. 5(2)(a)](https://www.legislation.gov.uk/ukpga/1979/46/section/5/2/a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 40](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/40) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e5fc7ae12aa8aef3f69f364ce4071232]: Textual amendment: Words in [s. 5(2)(a)](https://www.legislation.gov.uk/ukpga/1979/46/section/5/2/a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 40](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/40) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c250800]: Textual amendment: S. 5(3)–(5) inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/30)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. General prohibitions on removal[^key-46c9b55481101c6f4ace5d3b9449d11b]
+## 27. General prohibitions on removal[^c-46c9b55481101c6f4ace5d3b9449d11b]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ a person (other than the agency) must not remove the child from the accommodatio
 
 ## Annotations
 
-[^key-46c9b55481101c6f4ace5d3b9449d11b]: Commencement: S. 27 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-46c9b55481101c6f4ace5d3b9449d11b]: Commencement: S. 27 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Undue delays in appeals[^key-bb7d8010db86526b7b628c476689d7a6][^key-4f91b0777f6c1f04c42fe4ff6ce372b1]
+## 119. Undue delays in appeals[^c-bb7d8010db86526b7b628c476689d7a6][^c-4f91b0777f6c1f04c42fe4ff6ce372b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb7d8010db86526b7b628c476689d7a6]: Commencement: S. 119 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-bb7d8010db86526b7b628c476689d7a6]: Commencement: S. 119 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-4f91b0777f6c1f04c42fe4ff6ce372b1]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2023/55/section/119) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/452/regulation/8))
+[^c-4f91b0777f6c1f04c42fe4ff6ce372b1]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2023/55/section/119) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2024/452/regulation/8))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-5540bb26bd34dff309405384bd625737]
+## 1. Citation and commencement[^c-5540bb26bd34dff309405384bd625737]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the North Lincolnshire Green Energy Park Order 2025 a
 
 ## Annotations
 
-[^key-5540bb26bd34dff309405384bd625737]: Commencement: Art. 1 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-5540bb26bd34dff309405384bd625737]: Commencement: Art. 1 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

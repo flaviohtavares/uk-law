@@ -42,95 +42,95 @@ authorising the placing on the market of products containing, consisting of, or 
 
 (2009/813/EC) (revoked)
 
-[^key-1de041d374954d9c794512dc12b63c74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1de041d374954d9c794512dc12b63c74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Genetically modified organism and unique identifier[^key-1de041d374954d9c794512dc12b63c74]
+## Article 1. Genetically modified organism and unique identifier[^c-1de041d374954d9c794512dc12b63c74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Authorisation[^key-1de041d374954d9c794512dc12b63c74]
+## Article 2. Authorisation[^c-1de041d374954d9c794512dc12b63c74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Labelling[^key-1de041d374954d9c794512dc12b63c74]
+## Article 3. Labelling[^c-1de041d374954d9c794512dc12b63c74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Monitoring for environmental effects[^key-1de041d374954d9c794512dc12b63c74]
+## Article 4. Monitoring for environmental effects[^c-1de041d374954d9c794512dc12b63c74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Register[^key-1de041d374954d9c794512dc12b63c74]
+## Article 5. Register[^c-1de041d374954d9c794512dc12b63c74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Authorisation holder[^key-1de041d374954d9c794512dc12b63c74]
+## Article 6. Authorisation holder[^c-1de041d374954d9c794512dc12b63c74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Validity[^key-1de041d374954d9c794512dc12b63c74]
+## Article 7. Validity[^c-1de041d374954d9c794512dc12b63c74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Addressee[^key-1de041d374954d9c794512dc12b63c74]
+## Article 8. Addressee[^c-1de041d374954d9c794512dc12b63c74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-1de041d374954d9c794512dc12b63c74]
+## ANNEX[^c-1de041d374954d9c794512dc12b63c74]
 
-[^key-1de041d374954d9c794512dc12b63c74](a)
+[^c-1de041d374954d9c794512dc12b63c74](a)
 
 **Applicant and Authorisation holder:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1de041d374954d9c794512dc12b63c74](b)
+[^c-1de041d374954d9c794512dc12b63c74](b)
 
 **Designation and specification of the products:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1de041d374954d9c794512dc12b63c74](c)
+[^c-1de041d374954d9c794512dc12b63c74](c)
 
 **Labelling:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1de041d374954d9c794512dc12b63c74](d)
+[^c-1de041d374954d9c794512dc12b63c74](d)
 
 **Method for detection:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1de041d374954d9c794512dc12b63c74](e)
+[^c-1de041d374954d9c794512dc12b63c74](e)
 
 **Unique identifier:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1de041d374954d9c794512dc12b63c74](f)
+[^c-1de041d374954d9c794512dc12b63c74](f)
 
 **Information required under Annex II to the Cartagena Protocol on Biosafety to the Convention on Biological Diversity:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1de041d374954d9c794512dc12b63c74](g)
+[^c-1de041d374954d9c794512dc12b63c74](g)
 
 **Conditions or restrictions on the placing on the market, use or handling of the products:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1de041d374954d9c794512dc12b63c74](h)
+[^c-1de041d374954d9c794512dc12b63c74](h)
 
 **Monitoring plan:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1de041d374954d9c794512dc12b63c74](i)
+[^c-1de041d374954d9c794512dc12b63c74](i)
 
 **Post-market monitoring requirements for the use of the food for human consumption:**
 
@@ -138,4 +138,4 @@ authorising the placing on the market of products containing, consisting of, or 
 
 ## Annotations
 
-[^key-1de041d374954d9c794512dc12b63c74]: Textual amendment: Decision revoked (E.) (20.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (England) Regulations 2022 (S.I. 2022/486)](https://www.legislation.gov.uk/uksi/2022/486), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/486/regulation/1/b), [4(a)](https://www.legislation.gov.uk/uksi/2022/486/regulation/4/a); Decision revoked (W.) (20.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (Wales) Regulations 2022 (S.I. 2022/472)](https://www.legislation.gov.uk/uksi/2022/472), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/472/regulation/1/2/c), [4(a)](https://www.legislation.gov.uk/uksi/2022/472/regulation/4/a); and Decision revoked (S.) (31.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (Scotland) Regulations 2022 (S.S.I. 2022/137)](https://www.legislation.gov.uk/ssi/2022/137), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/137/regulation/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2022/137/regulation/4/a)
+[^c-1de041d374954d9c794512dc12b63c74]: Textual amendment: Decision revoked (E.) (20.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (England) Regulations 2022 (S.I. 2022/486)](https://www.legislation.gov.uk/uksi/2022/486), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/486/regulation/1/b), [4(a)](https://www.legislation.gov.uk/uksi/2022/486/regulation/4/a); Decision revoked (W.) (20.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (Wales) Regulations 2022 (S.I. 2022/472)](https://www.legislation.gov.uk/uksi/2022/472), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/472/regulation/1/2/c), [4(a)](https://www.legislation.gov.uk/uksi/2022/472/regulation/4/a); and Decision revoked (S.) (31.5.2022) by [The Genetically Modified Food and Feed (Authorisations) (Scotland) Regulations 2022 (S.S.I. 2022/137)](https://www.legislation.gov.uk/ssi/2022/137), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/137/regulation/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2022/137/regulation/4/a)

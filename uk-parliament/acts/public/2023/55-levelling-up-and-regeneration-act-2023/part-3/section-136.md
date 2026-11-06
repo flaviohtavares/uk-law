@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Development affecting ancient woodland[^key-a3b8f2621bd7d0513a91284800eacc3a]
+## 136. Development affecting ancient woodland[^c-a3b8f2621bd7d0513a91284800eacc3a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3b8f2621bd7d0513a91284800eacc3a]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2023/55/section/136) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)
+[^c-a3b8f2621bd7d0513a91284800eacc3a]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2023/55/section/136) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)

@@ -43,7 +43,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with section 26(4) of that Act, a draft of this instrument has been laid before and approved by a resolution of the National Assembly for Wales.
 
-## 1. Title, commencement, application and interpretation[^key-99655bad090b413d2e5a1a1c67feca6f]
+## 1. Title, commencement, application and interpretation[^c-99655bad090b413d2e5a1a1c67feca6f]
 
 (1) The title of these Regulations is the Food Hygiene Rating (Promotion of Food Hygiene Rating) (Wales) Regulations 2016 and they come into force on 28 November 2016.
 
@@ -57,11 +57,11 @@ In accordance with section 26(4) of that Act, a draft of this instrument has bee
 - “rating” (“*sgôr*”) means a food hygiene rating given under the Act; and
 - “takeaway food” (“*cludfwyd*”) means food that has been prepared to the specific order of consumers for delivery or collection to be consumed off the premises.
 
-## 2. Establishments to which these Regulations apply[^key-2e70e3287b8af0885409b4271b204303]
+## 2. Establishments to which these Regulations apply[^c-2e70e3287b8af0885409b4271b204303]
 
 These Regulations apply to establishments that supply takeaway food direct to consumers.
 
-## 3. Requirement to promote food hygiene rating[^key-45d3377874ff155ed79d819a7e12539a]
+## 3. Requirement to promote food hygiene rating[^c-45d3377874ff155ed79d819a7e12539a]
 
 (1) An operator of an establishment must ensure that its publicity materials display the statement—
 
@@ -74,7 +74,7 @@ These Regulations apply to establishments that supply takeaway food direct to co
 - (a) type size of at least 9 points as measured in font ‘Times New Roman’ not narrowed; and
 - (b) space between text lines of least 3mm.
 
-## 4. Display of food hygiene rating[^key-d53bba9c8579bcb8388bc5894600f9b5]
+## 4. Display of food hygiene rating[^c-d53bba9c8579bcb8388bc5894600f9b5]
 
 (1) Where publicity materials comply with regulation 3, an operator may also choose to display the establishment’s rating on its publicity materials.
 
@@ -85,14 +85,14 @@ These Regulations apply to establishments that supply takeaway food direct to co
 - (c) display the rating in such a way that makes it clear to which establishment it relates to if publicity materials promote the takeaway food of more than one establishment; and
 - (d) comply with Schedule 1.
 
-## 5. Offences[^key-fc98470f11abf8df31aa3583ab122783]
+## 5. Offences[^c-fc98470f11abf8df31aa3583ab122783]
 
 An operator of an establishment commits an offence if, without reasonable excuse, the operator—
 
 - (a) fails to comply with the requirements of regulation 3; and
 - (b) fails to comply with the requirement of regulation 4(2).
 
-## 6. Offences by bodies corporate[^key-dc6361afda5a266b42dcb1131169fda4]
+## 6. Offences by bodies corporate[^c-dc6361afda5a266b42dcb1131169fda4]
 
 (1) This regulation applies where an offence under regulation 5 is committed by a body corporate.
 
@@ -108,11 +108,11 @@ that director, manager, secretary or person purporting to act as such (as well a
 - (a) to any similar officer of the body; or
 - (b) where the body is a body corporate whose affairs are managed by its members, to any officer or member of the body.
 
-## 7. Enforcement[^key-230cda612134603bacd2c835e6c47d27]
+## 7. Enforcement[^c-230cda612134603bacd2c835e6c47d27]
 
 A food authority may enforce the obligations imposed by regulations 3 and 4(2) on establishments in its area.
 
-## 8. Power of entry[^key-de0776cf665f49637005a86ea1456712]
+## 8. Power of entry[^c-de0776cf665f49637005a86ea1456712]
 
 (1) An authorised officer of a food authority may on production of the officer’s written authority if demanded, enter at all reasonable hours an establishment for the purposes of enforcing the requirements in regulations 3 and 4(2).
 
@@ -120,11 +120,11 @@ A food authority may enforce the obligations imposed by regulations 3 and 4(2) o
 
 (3) An authorised officer may seize and remove any document which they have reasonable grounds to believe may be evidence of a failure to comply with regulations 3 and 4(2).
 
-## 9. Penalties[^key-659f64ce7df1a71aab7c8079005bbac9]
+## 9. Penalties[^c-659f64ce7df1a71aab7c8079005bbac9]
 
 A person guilty of an offence under regulation 5 is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-## 10. Fixed penalties[^key-d7e525388445d357b2a13774a1b7ae79]
+## 10. Fixed penalties[^c-d7e525388445d357b2a13774a1b7ae79]
 
 (1) Where an authorised officer of a food authority has reason to believe that a person has committed an offence under regulation 5, the officer may give a notice to the person offering them the opportunity of discharging any liability to conviction for the offence by payment of a fixed penalty.
 
@@ -135,11 +135,11 @@ A person guilty of an offence under regulation 5 is liable on summary conviction
 
 (3) Schedule 2 (fixed penalty notices) has effect.
 
-## 11. Fixed penalty receipts[^key-ed98552bf6465f38e8f66c125935a87a]
+## 11. Fixed penalty receipts[^c-ed98552bf6465f38e8f66c125935a87a]
 
 A food authority must use amounts paid to it under fixed penalty notices issued under regulation 10 for the purpose of its functions relating to enforcement of food hygiene in Wales.
 
-## 12. Responsibility of food authorities to send information to operators[^key-f4501e44255277e9ee1ddf4800c9275f]
+## 12. Responsibility of food authorities to send information to operators[^c-f4501e44255277e9ee1ddf4800c9275f]
 
 A food authority must send a statement drawing attention to the requirements of these Regulations to operators of establishments in its area in accordance with section 15(1) of the Act (other powers and responsibilities of food authorities).
 
@@ -153,13 +153,13 @@ The Deputy Minister for Health under the authority of the Minister for Health an
 
 Regulation 4
 
-**1.**[^key-5245a2508af3cbcaff375357f1f7e0d3] A valid rating must be displayed in one of the forms shown below.
+**1.**[^c-5245a2508af3cbcaff375357f1f7e0d3] A valid rating must be displayed in one of the forms shown below.
 
 [image: see source](https://www.legislation.gov.uk/wsi/2016/429/images/wsi_20160429_en_001)
 
-**2.**[^key-76ec7c9cbbb722ed896ad4c6a7d1ef77] The appropriate form for an establishment is whichever form shown in paragraph 1 displays the current rating for that establishment.
+**2.**[^c-76ec7c9cbbb722ed896ad4c6a7d1ef77] The appropriate form for an establishment is whichever form shown in paragraph 1 displays the current rating for that establishment.
 
-**3.**[^key-f8d120d1f6dc440978e3dcebb45438af] The rating must conform to the following specifications—
+**3.**[^c-f8d120d1f6dc440978e3dcebb45438af] The rating must conform to the following specifications—
 
 - (a) colour references: Green: c43 m0 y100 k0 & Black;
 - (b) the dimensions for the ratings must be at least 39mm (wide) x 27mm (tall).
@@ -170,22 +170,22 @@ Regulation 10
 
 ### PART 1 — PROCEDURE FOR FIXED PENALTY NOTICES
 
-**1.**[^key-88bc5f1388af4ae47434b20f0146f67f] A fixed penalty notice may offer the opportunity for a person to pay a penalty of £200 (“the penalty”) within a period of 28 days beginning with the day in which the penalty notice is given.
+**1.**[^c-88bc5f1388af4ae47434b20f0146f67f] A fixed penalty notice may offer the opportunity for a person to pay a penalty of £200 (“the penalty”) within a period of 28 days beginning with the day in which the penalty notice is given.
 
-**2.**[^key-f1dc18622856eb56e417053b1a31a4df] A fixed penalty notice may also offer the opportunity for a person to pay a reduced penalty of £150 (“the discounted penalty”) if payment is made within a period of 14 days beginning with the day in which the penalty notice is given.
+**2.**[^c-f1dc18622856eb56e417053b1a31a4df] A fixed penalty notice may also offer the opportunity for a person to pay a reduced penalty of £150 (“the discounted penalty”) if payment is made within a period of 14 days beginning with the day in which the penalty notice is given.
 
-**3.**[^key-91a6d770e2bddbccb4f1fbb4421b93cc] Payment of the penalty or the discounted penalty may be made by posting a letter containing the amount of the penalty to the person described on the notice at the address so described. Payment is to be regarded as having been made at the time at which the letter would be delivered in the ordinary course of post.
+**3.**[^c-91a6d770e2bddbccb4f1fbb4421b93cc] Payment of the penalty or the discounted penalty may be made by posting a letter containing the amount of the penalty to the person described on the notice at the address so described. Payment is to be regarded as having been made at the time at which the letter would be delivered in the ordinary course of post.
 
-**4.**[^key-dd054e382cc479fdd88ab3dcb02444d3] Paragraph 3 does not prevent payment of the penalty being made by any other method.
+**4.**[^c-dd054e382cc479fdd88ab3dcb02444d3] Paragraph 3 does not prevent payment of the penalty being made by any other method.
 
-**5.**[^key-fd8d2aef44adda3031ac9b509581da1b] If a food authority considers that a fixed penalty notice given to a person by an authorised officer acting on its behalf ought not to have been given, the food authority must give notice to that person withdrawing the fixed penalty notice.
+**5.**[^c-fd8d2aef44adda3031ac9b509581da1b] If a food authority considers that a fixed penalty notice given to a person by an authorised officer acting on its behalf ought not to have been given, the food authority must give notice to that person withdrawing the fixed penalty notice.
 
-**6.**[^key-9e30f56260f8326cd853c11007181240] If a fixed penalty notice is withdrawn—
+**6.**[^c-9e30f56260f8326cd853c11007181240] If a fixed penalty notice is withdrawn—
 
 - (a) a food authority must repay any amount which has been paid by way of penalty in pursuance of the fixed penalty notice, and
 - (b) no proceedings may be brought or continued against the person who received the notice for the offence in question.
 
-**7.**[^key-205b01beded2cc83195bec8bd6823128] In any proceedings, a certificate which—
+**7.**[^c-205b01beded2cc83195bec8bd6823128] In any proceedings, a certificate which—
 
 - (a) purports to be signed by or on behalf of the chief finance officer of a food authority, and
 - (b) states that payment of a penalty was or was not received by a date specified in the certificate,
@@ -194,9 +194,9 @@ is evidence of the facts stated.
 
 ### PART 2 — FORM AND CONTENT OF FIXED PENALTY NOTICES
 
-**8.**[^key-183272099ce13c5db6d68820e6770bb8] A fixed penalty notice must give particulars of the circumstance alleged to constitute the offence as are necessary to explain why an offence has occurred.
+**8.**[^c-183272099ce13c5db6d68820e6770bb8] A fixed penalty notice must give particulars of the circumstance alleged to constitute the offence as are necessary to explain why an offence has occurred.
 
-**9.**[^key-39874ccd2f818d428fb09d51c2d73729] A fixed penalty notice must also state—
+**9.**[^c-39874ccd2f818d428fb09d51c2d73729] A fixed penalty notice must also state—
 
 - (a) the name and address of the authority on whose behalf the authorised officer was acting when the officer gave the notice;
 - (b) the amount of the penalty and the period for paying the penalty;
@@ -206,7 +206,7 @@ is evidence of the facts stated.
 - (f) by what method payment may be made;
 - (g) the person to whom and the address at which any representations relating to the notice may be made.
 
-**10.**[^key-fc3b5cff2f0314c0344bac464e1395b3] A fixed penalty notice must also—
+**10.**[^c-fc3b5cff2f0314c0344bac464e1395b3] A fixed penalty notice must also—
 
 - (a) inform the person to whom it is given of his or her right to be tried for the alleged offence, and
 - (b) explain how that right may be exercised.
@@ -249,52 +249,52 @@ A draft of the Regulations was notified to the European Commission in accordance
 
 [^f00001]: Footnote: [2013 anaw 2](https://www.legislation.gov.uk/anaw/2013/2).
 
-[^key-99655bad090b413d2e5a1a1c67feca6f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/429/regulation/1) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-99655bad090b413d2e5a1a1c67feca6f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/429/regulation/1) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-2e70e3287b8af0885409b4271b204303]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/429/regulation/2) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-2e70e3287b8af0885409b4271b204303]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/429/regulation/2) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-45d3377874ff155ed79d819a7e12539a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/429/regulation/3) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-45d3377874ff155ed79d819a7e12539a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/429/regulation/3) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-d53bba9c8579bcb8388bc5894600f9b5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/429/regulation/4) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-d53bba9c8579bcb8388bc5894600f9b5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/429/regulation/4) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-fc98470f11abf8df31aa3583ab122783]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/429/regulation/5) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-fc98470f11abf8df31aa3583ab122783]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/429/regulation/5) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-dc6361afda5a266b42dcb1131169fda4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/429/regulation/6) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-dc6361afda5a266b42dcb1131169fda4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/429/regulation/6) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-230cda612134603bacd2c835e6c47d27]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/429/regulation/7) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-230cda612134603bacd2c835e6c47d27]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/429/regulation/7) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-de0776cf665f49637005a86ea1456712]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2016/429/regulation/8) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-de0776cf665f49637005a86ea1456712]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2016/429/regulation/8) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-659f64ce7df1a71aab7c8079005bbac9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2016/429/regulation/9) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-659f64ce7df1a71aab7c8079005bbac9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2016/429/regulation/9) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-d7e525388445d357b2a13774a1b7ae79]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2016/429/regulation/10) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-d7e525388445d357b2a13774a1b7ae79]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2016/429/regulation/10) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-ed98552bf6465f38e8f66c125935a87a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2016/429/regulation/11) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-ed98552bf6465f38e8f66c125935a87a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2016/429/regulation/11) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-f4501e44255277e9ee1ddf4800c9275f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2016/429/regulation/12) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-f4501e44255277e9ee1ddf4800c9275f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2016/429/regulation/12) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-5245a2508af3cbcaff375357f1f7e0d3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2016/429/schedule/1/paragraph/1) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-5245a2508af3cbcaff375357f1f7e0d3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2016/429/schedule/1/paragraph/1) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-76ec7c9cbbb722ed896ad4c6a7d1ef77]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2016/429/schedule/1/paragraph/2) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-76ec7c9cbbb722ed896ad4c6a7d1ef77]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2016/429/schedule/1/paragraph/2) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-f8d120d1f6dc440978e3dcebb45438af]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2016/429/schedule/1/paragraph/3) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-f8d120d1f6dc440978e3dcebb45438af]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2016/429/schedule/1/paragraph/3) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-88bc5f1388af4ae47434b20f0146f67f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/1) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-88bc5f1388af4ae47434b20f0146f67f]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/1) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-f1dc18622856eb56e417053b1a31a4df]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/2) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-f1dc18622856eb56e417053b1a31a4df]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/2) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-91a6d770e2bddbccb4f1fbb4421b93cc]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/3) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-91a6d770e2bddbccb4f1fbb4421b93cc]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/3) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-dd054e382cc479fdd88ab3dcb02444d3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/4) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-dd054e382cc479fdd88ab3dcb02444d3]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/4) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-fd8d2aef44adda3031ac9b509581da1b]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/5) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-fd8d2aef44adda3031ac9b509581da1b]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/5) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-9e30f56260f8326cd853c11007181240]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/6) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-9e30f56260f8326cd853c11007181240]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/6) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-205b01beded2cc83195bec8bd6823128]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/7) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-205b01beded2cc83195bec8bd6823128]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/7) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-183272099ce13c5db6d68820e6770bb8]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/8) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-183272099ce13c5db6d68820e6770bb8]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/8) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-39874ccd2f818d428fb09d51c2d73729]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/9) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-39874ccd2f818d428fb09d51c2d73729]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/9) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
 
-[^key-fc3b5cff2f0314c0344bac464e1395b3]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/10) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)
+[^c-fc3b5cff2f0314c0344bac464e1395b3]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2016/429/schedule/2/paragraph/10) in force at 28.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/429/regulation/1/1)

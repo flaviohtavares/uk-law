@@ -26,7 +26,7 @@ summary: ''
 
 ### PART 1 — COMPENSATION WHERE PLANNING PERMISSION IS WITHDRAWN, MODIFIED OR REVOKED
 
-#### 1. Compensation in respect of buildings, plant or machinery[^key-6aaaa080f8cede843e858a1f3c2c3ca4]
+#### 1. Compensation in respect of buildings, plant or machinery[^c-6aaaa080f8cede843e858a1f3c2c3ca4]
 
 (1) This paragraph applies where planning permission for minerals development is withdrawn, modified or revoked.
 
@@ -42,7 +42,7 @@ summary: ''
 - (a) the land is held or occupied with other land that is used for agriculture, and
 - (b) the minerals that are won and worked are reasonably required for that use (for example, for the fertilisation of the other land, or for the maintenance, improvement or alteration of buildings or works on the other land that are occupied or used for agriculture).
 
-#### 2. Compensation where minerals permission is modified by order[^key-ed795e263b098ff31ef8acd346799057]
+#### 2. Compensation where minerals permission is modified by order[^c-ed795e263b098ff31ef8acd346799057]
 
 (1) Where an order under section 102 modifies a minerals permission, compensation is payable under section 106 only if one or more of the following conditions are met.
 
@@ -63,7 +63,7 @@ summary: ''
 
 ### PART 2 — COMPENSATION FOLLOWING PERIODIC REVIEW OF MINERALS PERMISSIONS
 
-#### 3. Compensation where working rights are restricted by new conditions of minerals permissions[^key-d052d8c052fdfd6e7c35d168e4048869]
+#### 3. Compensation where working rights are restricted by new conditions of minerals permissions[^c-d052d8c052fdfd6e7c35d168e4048869]
 
 (1) This paragraph applies where—
 
@@ -97,7 +97,7 @@ and references to the conditions of a minerals permission do not include a resto
 
 ### PART 3 — INTERPRETATION
 
-#### 4. Meaning of references to restrictions on working rights[^key-41eb4b6a4145c7b7b6ef9b79f6bd9ff2]
+#### 4. Meaning of references to restrictions on working rights[^c-41eb4b6a4145c7b7b6ef9b79f6bd9ff2]
 
 For the purposes of paragraphs 2 and 3, a restriction is imposed on working rights in respect of land if any of the following is restricted or reduced—
 
@@ -109,10 +109,10 @@ For the purposes of paragraphs 2 and 3, a restriction is imposed on working righ
 
 ## Annotations
 
-[^key-6aaaa080f8cede843e858a1f3c2c3ca4]: Commencement: Sch. 11 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6aaaa080f8cede843e858a1f3c2c3ca4]: Commencement: Sch. 11 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-ed795e263b098ff31ef8acd346799057]: Commencement: Sch. 11 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ed795e263b098ff31ef8acd346799057]: Commencement: Sch. 11 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-d052d8c052fdfd6e7c35d168e4048869]: Commencement: Sch. 11 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d052d8c052fdfd6e7c35d168e4048869]: Commencement: Sch. 11 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-41eb4b6a4145c7b7b6ef9b79f6bd9ff2]: Commencement: Sch. 11 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-41eb4b6a4145c7b7b6ef9b79f6bd9ff2]: Commencement: Sch. 11 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62A. Recovery by taking control of goods[^key-875008a640aa83d74d42b136636f5f1c]
+## 62A. Recovery by taking control of goods[^c-875008a640aa83d74d42b136636f5f1c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a liability order has been made against a person under regulations under S
 
 ## Annotations
 
-[^key-875008a640aa83d74d42b136636f5f1c]: Textual amendment: S. 62A inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 88](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/88) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-875008a640aa83d74d42b136636f5f1c]: Textual amendment: S. 62A inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 88](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/88) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)

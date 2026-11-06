@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Correction of errors and changes in non-domestic rates[^key-7e23cd889e7e1bb4b21e2d518834abe6]
+## 24. Correction of errors and changes in non-domestic rates[^c-7e23cd889e7e1bb4b21e2d518834abe6]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e23cd889e7e1bb4b21e2d518834abe6]: Commencement: Reg. 24 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-7e23cd889e7e1bb4b21e2d518834abe6]: Commencement: Reg. 24 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

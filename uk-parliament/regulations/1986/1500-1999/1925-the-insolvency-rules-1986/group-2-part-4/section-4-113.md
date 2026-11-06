@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.113. Meeting of creditors to remove liquidator[^key-0365580e2ec3e90c1ec339e046f119ca]
+## 4.113. Meeting of creditors to remove liquidator[^c-0365580e2ec3e90c1ec339e046f119ca]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ the chairman shall, within 3 days, send to the official receiver a copy of the r
 
 ## Annotations
 
-[^key-0365580e2ec3e90c1ec339e046f119ca]: Commencement: [Rule 4.113](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.113) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0365580e2ec3e90c1ec339e046f119ca]: Commencement: [Rule 4.113](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.113) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00068]: Marginal citation: \[FORM 4.22\]
 

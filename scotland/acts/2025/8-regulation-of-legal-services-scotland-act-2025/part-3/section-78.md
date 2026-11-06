@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Faculty of Advocates: complaint of professional misconduct and publication of decision[^key-18c5a8cff998a8b88ee5fef6f184f9e1]
+## 78. Faculty of Advocates: complaint of professional misconduct and publication of decision[^c-18c5a8cff998a8b88ee5fef6f184f9e1]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18c5a8cff998a8b88ee5fef6f184f9e1]: Commencement: S. 78 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-18c5a8cff998a8b88ee5fef6f184f9e1]: Commencement: S. 78 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Notification requirements in relation to citrus fruits[^key-435d91451127bbafc965806f6de1aeab]
+## 25. Notification requirements in relation to citrus fruits[^c-435d91451127bbafc965806f6de1aeab]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-435d91451127bbafc965806f6de1aeab]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2019/1517/regulation/25) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [12(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/12/2)
+[^c-435d91451127bbafc965806f6de1aeab]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2019/1517/regulation/25) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [12(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/12/2)

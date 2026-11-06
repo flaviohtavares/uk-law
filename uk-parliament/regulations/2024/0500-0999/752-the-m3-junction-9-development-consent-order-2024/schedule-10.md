@@ -24,9 +24,9 @@ Articles 36 and 45
 
 ### PART 1 — FOR THE PROTECTION OF ELECTRICITY, GAS, WATER AND SEWERAGE UNDERTAKERS
 
-**1.**[^key-a6f83476cf76f4faa7d9702460aa6ac1] For the protection of the utility undertakers referred to in this Part of this Schedule the following provisions have effect, unless otherwise agreed in writing between the undertaker and the utility undertaker concerned.
+**1.**[^c-a6f83476cf76f4faa7d9702460aa6ac1] For the protection of the utility undertakers referred to in this Part of this Schedule the following provisions have effect, unless otherwise agreed in writing between the undertaker and the utility undertaker concerned.
 
-**2.**[^key-969d7e6d4e9cee5450fc4a24d9427636] In this Part of this Schedule—
+**2.**[^c-969d7e6d4e9cee5450fc4a24d9427636] In this Part of this Schedule—
 
 - “**alternative apparatus**” means alternative apparatus adequate to enable the utility undertaker in question to fulfil its statutory functions in a manner no less efficient than previously;
 - “**apparatus**” means—
@@ -50,31 +50,31 @@ and includes a sludge main, disposal main (within the meaning of section 219 (ge
 
 for the area of the authorised development, and in relation to any apparatus, means the utility undertaker to whom it belongs or by whom it is maintained.
 
-#### 3. On street apparatus[^key-df11308beb4b3979e97c3db90bb5abc4]
+#### 3. On street apparatus[^c-df11308beb4b3979e97c3db90bb5abc4]
 
 This Part of this Schedule does not apply to apparatus in respect of which the relations between the undertaker and the utility undertaker are regulated by the provisions of Part 3 (street works in England and Wales) of the 1991 Act.
 
-#### 4. Apparatus in stopped up streets[^key-2493c746aff726c8b86eb59d511cbe62]
+#### 4. Apparatus in stopped up streets[^c-2493c746aff726c8b86eb59d511cbe62]
 
 (1) Where any street is stopped up under article 17 (permanent stopping up and restriction of use of streets and private means of access), any utility undertaker whose apparatus is in the street has the same powers and rights in respect of that apparatus as it enjoyed immediately before the stopping up and the undertaker must grant to the utility undertaker legal easements reasonably satisfactory to the utility undertaker in respect of such apparatus and access to it, but nothing in this paragraph affects any right of the undertaker or of the utility undertaker to require the removal of that apparatus under paragraph 7 or the power of the undertaker to carry out works under paragraph 9.
 
 (2) Regardless of the temporary stopping up or diversion of any highway under the powers conferred by article 16 (temporary stopping up and restriction of use of streets), a utility undertaker is at liberty at all times to take all necessary access across any such stopped up highway and to execute and do all such works and things in, upon or under any such highway as may be reasonably necessary or desirable to enable it to maintain any apparatus which at the time of the stopping up or diversion was in that highway.
 
-#### 5. Protective works to buildings[^key-22b4f092a799cca64172ffc22c4efffb]
+#### 5. Protective works to buildings[^c-22b4f092a799cca64172ffc22c4efffb]
 
 The undertaker, in the case of the powers conferred by article 22 (protective works to buildings), must exercise those powers so as not to obstruct or render less convenient the access to any apparatus.
 
-#### 6. Acquisition of land[^key-b6406bbcf45c5bbfe554e94d75372bf4]
+#### 6. Acquisition of land[^c-b6406bbcf45c5bbfe554e94d75372bf4]
 
 Regardless of any provision in this Order or anything shown on the land plans, the undertaker must not acquire any apparatus otherwise than by agreement.
 
-#### 7. Removal of apparatus[^key-efea1be7e0492df98af3be270645374e]
+#### 7. Removal of apparatus[^c-efea1be7e0492df98af3be270645374e]
 
 (1) If, in the exercise of the powers conferred by this Order, the undertaker acquires any interest in any land in which any apparatus is placed or requires that the utility undertaker’s apparatus is relocated or diverted, that apparatus must not be removed under this Part of this Schedule, and any right of a utility undertaker to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the utility undertaker in question in accordance with sub-paragraphs (2) to (7).
 
 (2) If, for the purpose of executing any works in, on or under any land purchased, held, appropriated or used under this Order, the undertaker requires the removal of any apparatus placed in that land, the undertaker must give to the utility undertaker in question 28 days’ written notice of that requirement, together with a plan of the work proposed, and of the proposed position of the alternative apparatus to be provided or constructed and in that case (or if in consequence of the exercise of any of the powers conferred by this Order a utility undertaker reasonably needs to remove any of its apparatus) the undertaker must, subject to sub-paragraph (3), afford to the utility undertaker the necessary facilities and rights for the construction of alternative apparatus in other land of the undertaker and subsequently for the maintenance of that apparatus.
 
-(3) If alternative apparatus or any part of such apparatus is to be constructed elsewhere than in other land of the undertaker, or the undertaker is unable to afford such facilities and rights as are mentioned in sub-paragraph (2)[^key-bdecb5cb7af211c5c9a4722b032a5817] in the land in which the alternative apparatus or part of such apparatus is to be constructed, the utility undertaker in question must, on receipt of a written notice to that effect from the undertaker, as soon as reasonably possible use its best endeavours to obtain the necessary facilities and rights in the land in which the alternative apparatus is to be constructed.
+(3) If alternative apparatus or any part of such apparatus is to be constructed elsewhere than in other land of the undertaker, or the undertaker is unable to afford such facilities and rights as are mentioned in sub-paragraph (2)[^c-bdecb5cb7af211c5c9a4722b032a5817] in the land in which the alternative apparatus or part of such apparatus is to be constructed, the utility undertaker in question must, on receipt of a written notice to that effect from the undertaker, as soon as reasonably possible use its best endeavours to obtain the necessary facilities and rights in the land in which the alternative apparatus is to be constructed.
 
 (4) Any alternative apparatus to be constructed in land of the undertaker under this Part of this Schedule must be constructed in such manner and in such line or situation as may be agreed between the utility undertaker in question and the undertaker or in default of agreement settled by arbitration in accordance with article 48 (arbitration).
 
@@ -84,13 +84,13 @@ Regardless of any provision in this Order or anything shown on the land plans, t
 
 (7) Nothing in sub-paragraph (6) authorises the undertaker to execute the placing, installation, bedding, packing, removal, connection or disconnection of any apparatus, or execute any filling around the apparatus (where the apparatus is laid in a trench) within 300 millimetres of the apparatus.
 
-#### 8. Facilities and rights for alternative apparatus[^key-e589ccd4e9f7c9d7503e09b240cf12f4]
+#### 8. Facilities and rights for alternative apparatus[^c-e589ccd4e9f7c9d7503e09b240cf12f4]
 
 (1) Where, in accordance with the provisions of this Part of this Schedule, the undertaker affords to a utility undertaker facilities and rights for the construction and maintenance in land of the undertaker of alternative apparatus in substitution for apparatus to be removed, those facilities and rights are to be granted upon such terms and conditions as may be agreed between the undertaker and the utility undertaker in question or in default of agreement settled by arbitration in accordance with article 48 (arbitration).
 
 (2) If the facilities and rights to be afforded by the undertaker in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted, are in the opinion of the arbitrator less favourable on the whole to the utility undertaker in question than the facilities and rights enjoyed by it in respect of the apparatus to be removed and the terms and conditions to which those facilities and rights are subject, the arbitrator must make such provision for the payment of compensation by the undertaker to that utility undertaker as appears to the arbitrator to be reasonable having regard to all the circumstances of the particular case.
 
-#### 9. Retained apparatus[^key-84261e59d7ca5dacac956e984a9dd72c]
+#### 9. Retained apparatus[^c-84261e59d7ca5dacac956e984a9dd72c]
 
 (1) Not less than 28 days before starting the execution of any works in, on or under any land purchased, held, appropriated or used under this Order that are near to, or will or may affect, any apparatus the removal of which has not been required by the undertaker under paragraph 7(2), the undertaker must submit to the utility undertaker in question a plan of the works to be executed.
 
@@ -112,7 +112,7 @@ Regardless of any provision in this Order or anything shown on the land plans, t
 - (d) the position of all electricity apparatus; and
 - (e) by way of detailed drawings, every alteration proposed to be made to such apparatus.
 
-#### 10. Expenses and costs[^key-00e88ac21b4347f0d52d36d757d53167]
+#### 10. Expenses and costs[^c-00e88ac21b4347f0d52d36d757d53167]
 
 (1) Subject to the following provisions of this paragraph, the undertaker must repay to a utility undertaker all expenses reasonably incurred by that utility undertaker in, or in connection with, the inspection, removal, alteration or protection of any apparatus or the construction of any new apparatus which may be required in consequence of the execution of any such works as are referred to in paragraph 7(2).
 
@@ -123,7 +123,7 @@ Regardless of any provision in this Order or anything shown on the land plans, t
 - (a) apparatus of better type, of greater capacity or of greater dimensions is placed in substitution for existing apparatus of worse type, of smaller capacity or of smaller dimensions; or
 - (b) apparatus (whether existing apparatus or apparatus substituted for existing apparatus) is placed at a depth greater than the depth at which the existing apparatus was situated,
 
-and the placing of apparatus of that type or capacity or of those dimensions or the placing of apparatus at that depth, as the case may be, is not agreed by the undertaker or, in default of agreement, is not determined by arbitration in accordance with article 48[^key-628907b42928076d2e8a0de5e30077e4] (arbitration) to be necessary then, if such placing involves cost exceeding that which would have been involved if the apparatus placed had been of the existing type, capacity or dimensions, or at the existing depth, as the case may be, the amount which apart from this sub-paragraph would be payable to the utility undertaker in question by virtue of sub-paragraph (1) must be reduced by the amount of that excess.
+and the placing of apparatus of that type or capacity or of those dimensions or the placing of apparatus at that depth, as the case may be, is not agreed by the undertaker or, in default of agreement, is not determined by arbitration in accordance with article 48[^c-628907b42928076d2e8a0de5e30077e4] (arbitration) to be necessary then, if such placing involves cost exceeding that which would have been involved if the apparatus placed had been of the existing type, capacity or dimensions, or at the existing depth, as the case may be, the amount which apart from this sub-paragraph would be payable to the utility undertaker in question by virtue of sub-paragraph (1) must be reduced by the amount of that excess.
 
 (4) For the purposes of sub-paragraph (3)—
 
@@ -132,7 +132,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (5) An amount which apart from this sub-paragraph would be payable to a utility undertaker in respect of works by virtue of sub-paragraph (1), if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on the utility undertaker any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, is to be reduced by the amount which represents that benefit.
 
-**11.**[^key-944e7b37757dc780cee46779e7e80949] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works referred to in paragraphs 5 or 7(2) any damage is caused to any apparatus or alternative apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of a utility undertaker, or there is any interruption in any service provided, or in the supply of any goods, by any utility undertaker, the undertaker must—
+**11.**[^c-944e7b37757dc780cee46779e7e80949] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works referred to in paragraphs 5 or 7(2) any damage is caused to any apparatus or alternative apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of a utility undertaker, or there is any interruption in any service provided, or in the supply of any goods, by any utility undertaker, the undertaker must—
 
 - (a) bear and pay the cost reasonably incurred by that utility undertaker in making good such damage or restoring the supply; and
 - (b) make reasonable compensation to that utility undertaker for any other expenses, loss, damages, penalty or costs incurred by the utility undertaker,
@@ -145,15 +145,15 @@ by reason or in consequence of any such damage or interruption.
 
 (4) A utility undertaker must give the undertaker reasonable notice of any such claim or demand and no settlement or compromise is to be made without the consent of the undertaker and, if such consent is withheld, the undertaker has the sole conduct of any settlement or compromise of any proceedings necessary to resist the claim or demand.
 
-#### 12. Cooperation[^key-911540a6cbbf4434fed084300c254ed3]
+#### 12. Cooperation[^c-911540a6cbbf4434fed084300c254ed3]
 
 Where in consequence of the proposed construction of any part of the authorised development, the undertaker or a utility undertaker requires the removal of apparatus under paragraph 7(2) or a utility undertaker makes requirements for the protection or alteration of apparatus under paragraph 9, the undertaker must use its best endeavours to co-ordinate the execution of the works in the interests of safety and the efficient and economic execution of the authorised development and taking into account the need to ensure the safe and efficient operation of the utility undertaker’s undertaking and each utility undertaker must use its best endeavours to co-operate with the undertaker for that purpose.
 
 ### PART 2 — FOR THE PROTECTION OF OPERATORS OF ELECTRONIC COMMUNICATIONS CODE NETWORKS
 
-**14.**[^key-ffe3863e356778dd2326c8664cdfd84b] For the protection of any operator, the following provisions have effect, unless otherwise agreed in writing between the undertaker and the operator.
+**14.**[^c-ffe3863e356778dd2326c8664cdfd84b] For the protection of any operator, the following provisions have effect, unless otherwise agreed in writing between the undertaker and the operator.
 
-**15.**[^key-35a8d5639fc1c4f9e061405382ae7dd5] In this Part of this Schedule—
+**15.**[^c-35a8d5639fc1c4f9e061405382ae7dd5] In this Part of this Schedule—
 
 - “**the 2003 Act**” means the Communications Act 2003[^f00101];
 - “**electronic communications apparatus**” has the same meaning as in the electronic communications code;
@@ -165,9 +165,9 @@ Where in consequence of the proposed construction of any part of the authorised 
 - “**infrastructure system**” has the same meaning as in the electronic communications code and references to providing an infrastructure system are to be construed in accordance with paragraph 7 (infrastructure system) of that code; and
 - “**operator**” means the operator of an electronic communications code network.
 
-**16.**[^key-57ded807793a9017cc9038df876de20b] The exercise of the powers conferred by article 36 (statutory undertakers) is subject to Part 10 (undertaker’s works affecting electronic communications apparatus) of the electronic communications code.
+**16.**[^c-57ded807793a9017cc9038df876de20b] The exercise of the powers conferred by article 36 (statutory undertakers) is subject to Part 10 (undertaker’s works affecting electronic communications apparatus) of the electronic communications code.
 
-**17.**[^key-6af9f0fa62bb50aa53dd1bb41d2f95aa] (1) Subject to sub-paragraphs (2) to (4), if as a result of the authorised development or its construction, or of any subsidence resulting from the authorised development—
+**17.**[^c-6af9f0fa62bb50aa53dd1bb41d2f95aa] (1) Subject to sub-paragraphs (2) to (4), if as a result of the authorised development or its construction, or of any subsidence resulting from the authorised development—
 
 - (a) any damage is caused to any electronic communications apparatus belonging to an operator (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of the authorised development), or other property of an operator; or
 - (b) there is any interruption in the supply of the service provided by an operator,
@@ -189,11 +189,11 @@ the undertaker must bear and pay the cost reasonably incurred by the operator in
 
 ### PART 3 — FOR THE PROTECTION OF SOUTHERN GAS NETWORKS PLC AS GAS UNDERTAKER
 
-#### 18. Application[^key-067129c3bedf3b50394bba67c3ff67d6]
+#### 18. Application[^c-067129c3bedf3b50394bba67c3ff67d6]
 
 For the protection of SGN the following provisions will, unless otherwise agreed in writing between the undertaker and SGN, have effect.
 
-#### 19. Interpretation[^key-6d9cb8c643bd187fd115fe3f88e1eb8e]
+#### 19. Interpretation[^c-6d9cb8c643bd187fd115fe3f88e1eb8e]
 
 In this Part of this Schedule—
 
@@ -211,10 +211,10 @@ In this Part of this Schedule—
 - “rights” shall include rights and restrictive covenants, and in relation to decommissioned apparatus the surrender of rights, release of liabilities and transfer of decommissioned apparatus;
 - “**SGN**” means Southern Gas Networks plc (company number 05167021), whose registered office is at St Lawrence House, Station Approach, Horley, Surrey, RH6 9HJ, or its successors in title or successor bodies and any successor as a gas transporter within the meaning of Part 1 of the Gas Act 1986[^f00103].
 - “**specified works**” means any of the authorised works or activities undertaken in association with the authorised works which:
-  - (a) will or may be situated over, or within 15 metres measured in any direction of any apparatus the removal of which has not been required by the undertaker under sub-paragraph 24(2)[^key-f04e98d86033f02710f999e831beeb5f] or otherwise; or
-  - (b) may in any way adversely affect any apparatus the removal of which has not been required by the undertaker under sub-paragraph 24(2)[^key-28f082fe5da187f3f784b004207d765b] or otherwise.
+  - (a) will or may be situated over, or within 15 metres measured in any direction of any apparatus the removal of which has not been required by the undertaker under sub-paragraph 24(2)[^c-f04e98d86033f02710f999e831beeb5f] or otherwise; or
+  - (b) may in any way adversely affect any apparatus the removal of which has not been required by the undertaker under sub-paragraph 24(2)[^c-28f082fe5da187f3f784b004207d765b] or otherwise.
 
-#### 20. On Street Apparatus[^key-75fd70cde98193704f180470778d7b52]
+#### 20. On Street Apparatus[^c-75fd70cde98193704f180470778d7b52]
 
 (1) Except for paragraphs 21 (apparatus of SGN in stopped up streets), 24 (removal of apparatus) in so far as sub-paragraph (2) applies, 25 (facilities and rights for alternative apparatus) in so far as sub-paragraph (2) applies, 26 (retained apparatus: protection of SGN), 27 (expenses) and 28 (indemnity) of this Schedule which will apply in respect of the exercise of all or any powers under the Order affecting the rights and apparatus of SGN, the other provisions of this part of this Schedule do not apply to apparatus in respect of which the relations between the undertaker and SGN are regulated by the provisions of Part 3 of the 1991 Act.
 
@@ -222,17 +222,17 @@ In this Part of this Schedule—
 
 (3) Notwithstanding articles 11 (street works), 12 (power to alter layout etc. of streets), 30 and 35 or any other powers in the Order generally, section 85 (sharing of cost of necessary measures) of the 1991 Act in relation to cost sharing and the regulations made thereunder shall not apply in relation to any diversion of apparatus of SGN under the 1991 Act.
 
-#### 21. Apparatus of SGN in stopped up streets[^key-4394babea8c9a55eef54de0189d3026c]
+#### 21. Apparatus of SGN in stopped up streets[^c-4394babea8c9a55eef54de0189d3026c]
 
 (1) Without prejudice to the generality of any other protection afforded to SGN elsewhere in the Order, where any street is stopped up under article 17 *(*permanent stopping up and restriction of use of streets and private means of access*)* if SGN has any apparatus in the street or accessed via that street SGN will be entitled to the same rights in respect of such apparatus as it enjoyed immediately before the stopping up and the undertaker will grant to SGN, or will procure the granting to SGN of, legal easements reasonably satisfactory to SGN in respect of such apparatus and access to it prior to the stopping up of any such street or highway but nothing in this paragraph shall affect any right of the undertaker or of SGN to require the removal of that apparatus under paragraph 24 (removal of apparatus).
 
 (2) Notwithstanding the temporary stopping up or diversion of any highway under the powers of article 16 (temporary stopping up and restriction of use of streets), SGN will be at liberty at all times to take all necessary access across any such stopped up highway and to execute and do all such works and things in, upon or under any such highway as it would have been entitled to do immediately before such temporary stopping up or diversion in respect of any apparatus which at the time of the stopping up or diversion was in that highway.
 
-#### 22. Protective works to buildings[^key-dfa5c6e65a86e312939e90cbb27f8c78]
+#### 22. Protective works to buildings[^c-dfa5c6e65a86e312939e90cbb27f8c78]
 
 The undertaker, in the case of the powers conferred by article 22 (protective works to buildings), must exercise those powers so as not to obstruct or render less convenient the access to any apparatus without the written consent of SGN.
 
-#### 23. Acquisition of land[^key-0ac28fd6459be4132e1e4024b5383ebd]
+#### 23. Acquisition of land[^c-0ac28fd6459be4132e1e4024b5383ebd]
 
 (1) Regardless of any provision in this Order or anything shown on the land plans or contained in the book of reference to the Order, the undertaker may not appropriate or acquire from SGN any land interest or appropriate, acquire, extinguish, interfere with or override any easement, other interest or right or apparatus of SGN otherwise than by agreement.
 
@@ -248,7 +248,7 @@ The undertaker, in the case of the powers conferred by article 22 (protective wo
 - (b) where no such notice of SGN’s easement, right or other interest exists in relation to such acquired land or any such notice is registered only on the Land Charges Register include with its application to register title to the undertaker’s interest in such acquired land at the Land Registry a notice of SGN’s easement, right or other interest in relation to such acquired land; and
 - (c) provide up to date official entry copies to SGN within 20 working days of receipt of such up to date official entry copies.
 
-#### 24. Removal of apparatus[^key-c8345dac9bb37e3dc85357acca6f83c4]
+#### 24. Removal of apparatus[^c-c8345dac9bb37e3dc85357acca6f83c4]
 
 (1) If, in the exercise of the agreement reached in accordance with paragraph 23 (acquisition of land) or in any other authorised manner, the undertaker acquires any interest in any land in which any apparatus is placed, that apparatus must not be decommissioned or removed under this Part of this Schedule and any right of SGN to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed, is in operation, and the rights and facilities referred to in sub-paragraph (2) have been provided, to the reasonable satisfaction of SGN and in accordance with sub-paragraphs (2) to (5) inclusive.
 
@@ -264,13 +264,13 @@ The undertaker, in the case of the powers conferred by article 22 (protective wo
 
 (5) SGN must, after the alternative apparatus to be provided or constructed has been agreed, and subject to the prior grant to SGN of such facilities and rights as are referred to in sub-paragraph (2) or (3) have been afforded to SGN to its satisfaction, then proceed without unnecessary delay to construct and bring into operation the alternative apparatus and subsequently to decommission or remove any apparatus required by the undertaker to be decommissioned or removed under the provisions of this Part of this Schedule.
 
-#### 25. Facilities and rights for alternative apparatus[^key-3b9aa9fd280b7bdfbb3845eb33a6dfd1]
+#### 25. Facilities and rights for alternative apparatus[^c-3b9aa9fd280b7bdfbb3845eb33a6dfd1]
 
 (1) Where, in accordance with the provisions of this Part of this Schedule, the undertaker affords to or secures for SGN facilities and rights in land for the access to, construction and maintenance alternative apparatus in substitution for apparatus to be decommissioned or removed, those facilities and rights must be granted upon such terms and conditions as may be agreed between the undertaker and SGN and must be no less favourable on the whole to SGN than the facilities and rights enjoyed by it in respect of the apparatus to be decommissioned or removed unless otherwise agreed by SGN.
 
 (2) If the facilities and rights to be afforded by the undertaker and agreed with SGN under sub-paragraph (1) above in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted, are less favourable on the whole to SGN than the facilities and rights enjoyed by it in respect of the apparatus to be decommissioned or removed (in SGN’s opinion) then the terms and conditions to which those facilities and rights are subject in the matter will be referred to arbitration in accordance with paragraph 32 (arbitration) and the arbitrator shall make such provision for the payment of compensation by the undertaker to SGN as appears to the arbitrator to be reasonable having regard to all the circumstances of the particular case.
 
-#### 26. Retained apparatus: protection of SGN[^key-f0cbf94c8d9a64880d468eb78b57e809]
+#### 26. Retained apparatus: protection of SGN[^c-f0cbf94c8d9a64880d468eb78b57e809]
 
 (1) Not less than 56 days before the commencement of any specified works the undertaker must submit to SGN a plan and, if reasonably required by SGN, a ground monitoring scheme in respect of those works.
 
@@ -307,7 +307,7 @@ The undertaker, in the case of the powers conferred by article 22 (protective wo
 
 (11) As soon as reasonably practicable after any ground subsidence event attributable to the authorised development the undertaker shall implement an appropriate ground mitigation scheme save that SGN retains the right to carry out any further necessary protective works for the safeguarding of its apparatus and can recover any such costs in line with paragraph 27 (expenses).
 
-#### 27. Expenses[^key-bc19e4775ae6bcc33b02e3534c46e854]
+#### 27. Expenses[^c-bc19e4775ae6bcc33b02e3534c46e854]
 
 (1) Subject to the following provisions of this paragraph, the undertaker must pay to SGN on demand all charges, costs and expenses reasonably anticipated or incurred by SGN in, or in connection with, the inspection, removal, relaying or replacing, alteration or protection of any apparatus or the construction of any new or alternative apparatus which may be required in consequence of the execution of any authorised works as are referred to in this Part of this Schedule including without limitation—
 
@@ -328,7 +328,7 @@ The undertaker, in the case of the powers conferred by article 22 (protective wo
 - (a) apparatus of better type, of greater capacity or of greater dimensions is placed in substitution for existing apparatus of worse type, of smaller capacity or of smaller dimensions; or
 - (b) apparatus (whether existing apparatus or apparatus substituted for existing apparatus) is placed at a depth greater than the depth at which the existing apparatus was situated,
 
-and the placing of apparatus of that type or capacity or of those dimensions or the placing of apparatus at that depth, as the case may be, is not agreed by the undertaker or, in default of agreement, is not determined by arbitration in accordance with article 48[^key-1cba69ea05e34926a8d797f8ee6934ac] (arbitration) to be necessary, then, if such placing involves cost in the construction of works under this Part of this Schedule exceeding that which would have been involved if the apparatus placed had been of the existing type, capacity or dimensions, or at the existing depth, as the case may be, the amount which apart from this sub-paragraph would be payable to SGN by virtue of sub-paragraph (1) will be reduced by the amount of that excess save where it is not possible or appropriate in the circumstances (including due to statutory or regulatory changes) to obtain the existing type of apparatus at the same capacity and dimensions or place at the existing depth in which case full costs will be borne by the undertaker.
+and the placing of apparatus of that type or capacity or of those dimensions or the placing of apparatus at that depth, as the case may be, is not agreed by the undertaker or, in default of agreement, is not determined by arbitration in accordance with article 48[^c-1cba69ea05e34926a8d797f8ee6934ac] (arbitration) to be necessary, then, if such placing involves cost in the construction of works under this Part of this Schedule exceeding that which would have been involved if the apparatus placed had been of the existing type, capacity or dimensions, or at the existing depth, as the case may be, the amount which apart from this sub-paragraph would be payable to SGN by virtue of sub-paragraph (1) will be reduced by the amount of that excess save where it is not possible or appropriate in the circumstances (including due to statutory or regulatory changes) to obtain the existing type of apparatus at the same capacity and dimensions or place at the existing depth in which case full costs will be borne by the undertaker.
 
 (4) For the purposes of sub-paragraph (3)—
 
@@ -337,7 +337,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (5) An amount which apart from this sub-paragraph would be payable to SGN in respect of works by virtue of sub-paragraph (1) will, if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on SGN any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, be reduced by the amount which represents that benefit.
 
-#### 28. Indemnity[^key-4732e6b2b2e6cc55165e822b625131c2]
+#### 28. Indemnity[^c-4732e6b2b2e6cc55165e822b625131c2]
 
 (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works authorised by this Part of this Schedule (including without limitation relocation, diversion, decommissioning, construction and maintenance of apparatus or alternative apparatus) or in consequence of the construction, use, maintenance or failure of any of the authorised works by or on behalf of the undertaker or in consequence of any act or default of the undertaker (or any person employed or authorised by him) in the course of carrying out such works, including without limitation works carried out by the undertaker under this Part of this Schedule or any subsidence resulting from any of these works, any damage is caused to any apparatus or alternative apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of the authorised works) or property of SGN, or there is any interruption in any service provided, or in the supply of any goods, by SGN, or SGN becomes liable to pay any amount to any third party, the undertaker will—
 
@@ -353,35 +353,35 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (4) SGN must give the undertaker reasonable notice of any such third party claim or demand and no settlement or compromise must, unless payment is required in connection with a statutory compensation scheme, be made without first consulting the promoter and considering their representations.
 
-#### 29. Enactments and agreements[^key-1c397601f56e53779436fcf74ad2d703]
+#### 29. Enactments and agreements[^c-1c397601f56e53779436fcf74ad2d703]
 
 Save to the extent provided for to the contrary elsewhere in this Part of this Schedule or by agreement in writing between SGN and the undertaker, nothing in this Part of this Schedule shall affect the provisions of any enactment or agreement regulating the relations between the undertaker and SGN in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
 
-#### 30. Co-operation[^key-524faff091dbfe7ac6fb82722f077fb6]
+#### 30. Co-operation[^c-524faff091dbfe7ac6fb82722f077fb6]
 
 (1) Where in consequence of the proposed construction of any of the authorised works, the undertaker or SGN requires the removal of apparatus under paragraph 24(2) (removal of apparatus) or SGN makes requirements for the protection or alteration of apparatus under paragraph 26 (retained apparatus: protection of SGN), the undertaker must use its best endeavours to co-ordinate the execution of the works in the interests of safety and the efficient and economic execution of the authorised development and taking into account the need to ensure the safe and efficient operation of SGN’s undertaking and SGN must use its best endeavours to co-operate with the undertaker for that purpose.
 
 (2) For the avoidance of doubt whenever SGN’s consent, agreement or approval is required in relation to plans, documents or other information submitted by the undertaker or the taking of action by the undertaker, it must not be unreasonably withheld or delayed.
 
-#### 31. Access[^key-6d2d3be42a3ca688513ab2d93b523e7b]
+#### 31. Access[^c-6d2d3be42a3ca688513ab2d93b523e7b]
 
 If in consequence of the agreement reached in accordance with paragraph 23(1) (acquisition of land) or the powers granted under this Order the access to any apparatus (including appropriate working areas required to reasonably and safely undertake necessary works by SGN in respect of the apparatus) is materially obstructed, the undertaker must provide such alternative rights and means of access to such apparatus as will enable SGN to maintain or use the apparatus no less effectively than was possible before such obstruction.
 
-#### 32. Arbitration[^key-4e86395973ad45f6f52f8fb39a5d4275]
+#### 32. Arbitration[^c-4e86395973ad45f6f52f8fb39a5d4275]
 
-Save for differences or disputes arising under paragraphs 24(2) and(4) (removal of apparatus), 25(1) (facilities and rights for alternative apparatus)and paragraph 26 (retained apparatus: protection of SGN) any difference or dispute arising between the undertaker and SGN under this Part of this Schedule must, unless otherwise agreed in writing between the undertaker and SGN, be determined by arbitration in accordance with article 48[^key-8de7ab4bdbed233931ae6c6e3e98ecb4] (arbitration).
+Save for differences or disputes arising under paragraphs 24(2) and(4) (removal of apparatus), 25(1) (facilities and rights for alternative apparatus)and paragraph 26 (retained apparatus: protection of SGN) any difference or dispute arising between the undertaker and SGN under this Part of this Schedule must, unless otherwise agreed in writing between the undertaker and SGN, be determined by arbitration in accordance with article 48[^c-8de7ab4bdbed233931ae6c6e3e98ecb4] (arbitration).
 
-#### 33. Notices[^key-59649191eeba2c71a4cdd1e889a679f6]
+#### 33. Notices[^c-59649191eeba2c71a4cdd1e889a679f6]
 
 The plans submitted to SGN by the undertaker pursuant to paragraph 26(1) (retained apparatus: protection of SGN) must be sent to SGN at 1 Forbury Place, 43 Forbury Road, Reading, Berkshire RG1 3JH or such other address as SGN may from time to time appoint instead for that purpose and notify in writing to the undertaker.
 
 ### PART 4 — FOR THE PROTECTION OF THE ENVIRONMENT AGENCY
 
-#### 34. Application[^key-31d706ce04cd48d633c2232f61ae3a02]
+#### 34. Application[^c-31d706ce04cd48d633c2232f61ae3a02]
 
 The following provisions will apply for the protection of the Agency unless otherwise agreed in writing between the undertaker and the Agency.
 
-#### 35. Interpretation[^key-bd8264bb1e32443b2a57dc5f844bfc33]
+#### 35. Interpretation[^c-bd8264bb1e32443b2a57dc5f844bfc33]
 
 (1) In this Part of this Schedule—
 
@@ -409,7 +409,7 @@ or which involves—
 - (d) any quarrying or excavation within 16 metres of a drainage work which is likely to cause damage to or endanger the stability of the banks or structure of that drainage work.
   - “**watercourse**” includes all rivers, streams, ditches, drains, cuts, culverts, dykes, sluices, basins, sewers and passages through which water flows except a public sewer.
 
-#### 36. Submission and approval of plans[^key-4911c74ec68f2c3ef10a852ab9a3695a]
+#### 36. Submission and approval of plans[^c-4911c74ec68f2c3ef10a852ab9a3695a]
 
 (1) Before beginning to construct any specified work, the undertaker must submit to the Agency plans of the specified work and such further particulars available to it as the Agency may within 28 days of the receipt of the plans reasonably request.
 
@@ -425,7 +425,7 @@ or which involves—
 
 (5) In the case of a refusal, if requested to do so the Agency must provide reasons for the grounds of that refusal.
 
-#### 37. Construction of protective works[^key-b2e32575ba061e59f57433aa5d32cf38]
+#### 37. Construction of protective works[^c-b2e32575ba061e59f57433aa5d32cf38]
 
 Without limiting paragraph 36, the requirements which the Agency may have under that paragraph may include conditions requiring the undertaker, at its own expense, to construct such protective works, whether temporary or permanent, before or during the construction of the specified works (including the provision of flood banks, walls or embankments or other new works and the strengthening, repair or renewal of existing banks, walls or embankments) as are reasonably necessary—
 
@@ -434,7 +434,7 @@ Without limiting paragraph 36, the requirements which the Agency may have under 
 
 by reason of any specified work.
 
-#### 38. Timing of works and service of notices[^key-b2624c2e8cb5b21246dab95e7e0acd52]
+#### 38. Timing of works and service of notices[^c-b2624c2e8cb5b21246dab95e7e0acd52]
 
 (1) Subject to sub-paragraph (2), any specified work, and all protective works required by the Agency under paragraph 37, must be constructed—
 
@@ -447,21 +447,21 @@ and the Agency is entitled by its officer to watch and inspect the construction 
 
 (3) If the Agency reasonably requires, the undertaker must construct all or part of the protective works so that they are in place prior to the construction of any specified work to which the protective works relate.
 
-#### 39. Works not in accordance with this Schedule[^key-6327786f8c2fb0a0eedb678035e1f575]
+#### 39. Works not in accordance with this Schedule[^c-6327786f8c2fb0a0eedb678035e1f575]
 
 (1) If any part of a specified work or any protective work required by the Agency is constructed otherwise than in accordance with the requirements of this Part of this Schedule, the Agency may by notice in writing require the undertaker at the undertaker’s own expense to comply with the requirements of this Part of this Schedule or (if the undertaker so elects and the Agency in writing consents, such consent not to be unreasonably withheld or delayed) to remove, alter or pull down the work and, where removal is required, to restore the site to its former condition to such extent and within such limits as the Agency reasonably requires.
 
-(2) Subject to sub-paragraph (3) and paragraph 44 (indemnity)[^key-ff716168f2d49096edc224c493b458a3], if, within a reasonable period, being not less than 28 days beginning with the date when a notice under sub-paragraph (1) is served upon the undertaker the undertaker has failed to begin taking steps to comply with the requirements of the notice and has not subsequently made reasonably expeditious progress towards their implementation, the Agency may execute the works specified in the notice and any reasonable expenditure incurred by the Agency in so doing is recoverable from the undertaker.
+(2) Subject to sub-paragraph (3) and paragraph 44 (indemnity)[^c-ff716168f2d49096edc224c493b458a3], if, within a reasonable period, being not less than 28 days beginning with the date when a notice under sub-paragraph (1) is served upon the undertaker the undertaker has failed to begin taking steps to comply with the requirements of the notice and has not subsequently made reasonably expeditious progress towards their implementation, the Agency may execute the works specified in the notice and any reasonable expenditure incurred by the Agency in so doing is recoverable from the undertaker.
 
 (3) In the event of any dispute as to whether sub-paragraph (1) is properly applicable to any work in respect of which notice has been served under that sub-paragraph, or as to the reasonableness of any requirement of such a notice, the Agency must not, except in the case of an emergency, exercise the powers conferred by sub-paragraph (2) until the dispute has been finally determined in accordance with paragraph 45 (disputes).
 
-#### 40. Maintenance of works[^key-0e0b3f0b30c5df01bbedd0c2632d7f37]
+#### 40. Maintenance of works[^c-0e0b3f0b30c5df01bbedd0c2632d7f37]
 
 (1) Subject to sub-paragraph (6) the undertaker must from the commencement of the construction of the specified works maintain in good repair and condition and free from obstruction any drainage work which is situated within the limits of deviation and on land held by the undertaker for the purposes of or in connection with the specified works, whether or not the drainage work is constructed under the powers conferred by this Order or is already in existence.
 
 (2) If any such drainage work which the undertaker is liable to maintain is not maintained to the reasonable satisfaction of the Agency, the Agency may by notice in writing require the undertaker to repair and restore the work, or any part of such work, or (if the undertaker so elects and the Agency in writing consents, such consent not to be unreasonably withheld or delayed), to remove the work and restore the site to its former condition, to such extent and within such limits as the Agency reasonably requires.
 
-(3) Subject to sub-paragraph (5), and paragraph 44 (indemnity)[^key-2acca8576eb18f28e5ffebd61d7af9cd], if, within a reasonable period, being not less than 28 days beginning with the date on which a notice in respect of any drainage work is served under sub-paragraph (2) on the undertaker, the undertaker has failed to begin taking steps to comply with the requirements of the notice and has not subsequently made reasonably expeditious progress towards their implementation, the Agency may do what is necessary for such compliance and any reasonable expenditure incurred by the Agency in so doing is recoverable from the undertaker.
+(3) Subject to sub-paragraph (5), and paragraph 44 (indemnity)[^c-2acca8576eb18f28e5ffebd61d7af9cd], if, within a reasonable period, being not less than 28 days beginning with the date on which a notice in respect of any drainage work is served under sub-paragraph (2) on the undertaker, the undertaker has failed to begin taking steps to comply with the requirements of the notice and has not subsequently made reasonably expeditious progress towards their implementation, the Agency may do what is necessary for such compliance and any reasonable expenditure incurred by the Agency in so doing is recoverable from the undertaker.
 
 (4) If there is any failure by the undertaker to obtain consent or comply with conditions imposed by the Agency in accordance with the provisions of this Part of this Schedule the Agency may serve written notice requiring the undertaker to cease all or part of the specified works and on receipt of such notice the undertaker must cease the specified works or part thereof until it has obtained the consent or complied with the condition unless the cessation of the specified works or part thereof would cause greater damage than compliance with the written notice.
 
@@ -472,15 +472,15 @@ and the Agency is entitled by its officer to watch and inspect the construction 
 - (a) drainage works which are vested in the Agency, or which the Agency or another person is liable to maintain and is not prevented by the exercise by the undertaker of the powers of the Order from doing so; and
 - (b) any obstruction of a drainage work expressly authorised in the approval of specified works plans and carried out in accordance with the provisions of this Part of this Schedule provided that any obstruction is removed as soon as reasonably practicable.
 
-#### 41. Remediating impaired drainage work[^key-d6eb55370ad0cd635eacc366f6b0f516]
+#### 41. Remediating impaired drainage work[^c-d6eb55370ad0cd635eacc366f6b0f516]
 
 If by reason of the construction of any specified work or of the failure of any such work, the efficiency of any drainage work for flood defence purposes is impaired, or that drainage work is otherwise damaged, such impairment or damage must be made good by the undertaker to the reasonable satisfaction of the Agency and if the undertaker fails to do so, the Agency may make good the impairment or damage and recover any expenditure incurred by the Agency in so doing from the undertaker.
 
-#### 42. Agency access[^key-8efcede60531906092d5ed78f5526b80]
+#### 42. Agency access[^c-8efcede60531906092d5ed78f5526b80]
 
 If by reason of construction of the specified work the Agency’s access to flood defences or equipment maintained for flood defence purposes is materially obstructed, the undertaker must provide such alternative means of access that will allow the Agency to maintain the flood defence or use the equipment no less effectively than was possible before the obstruction within 24 hours or as soon as reasonably practicable of the undertaker becoming aware of such obstruction.
 
-#### 43. Free passage of fish[^key-44d23540e3b662e1d9ee507c25e9833f]
+#### 43. Free passage of fish[^c-44d23540e3b662e1d9ee507c25e9833f]
 
 (1) The undertaker must take all such measures as may be reasonably practicable to prevent any interruption of the free passage of fish in the fishery during the construction of any specified work.
 
@@ -491,11 +491,11 @@ If by reason of construction of the specified work the Agency’s access to floo
 
 damage to the fishery is caused, or the Agency has reason to expect that such damage may be caused, the Agency may serve notice on the undertaker requiring it to take such steps as may be reasonably practicable to make good the damage, or, as the case may be, to protect the fishery against such damage.
 
-(3) Subject to paragraph 44 (indemnity)[^key-0e88f64ebdc901b7637e0f7f27854838], if within such time as may be reasonably practicable for that purpose after the receipt of written notice from the Agency of any damage or expected damage to a fishery, the undertaker fails to take such steps as are described in sub-paragraph (2), the Agency may take those steps and any expenditure incurred by the Agency in so doing is recoverable from the undertaker.
+(3) Subject to paragraph 44 (indemnity)[^c-0e88f64ebdc901b7637e0f7f27854838], if within such time as may be reasonably practicable for that purpose after the receipt of written notice from the Agency of any damage or expected damage to a fishery, the undertaker fails to take such steps as are described in sub-paragraph (2), the Agency may take those steps and any expenditure incurred by the Agency in so doing is recoverable from the undertaker.
 
-(4) Subject to paragraph 44 (indemnity)[^key-f2645a3ad45ac4808567fc0fd0e3bf95], in any case where immediate action by the Agency is reasonably required in order to secure that the risk of damage to the fishery is avoided or reduced, the Agency may take such steps as are reasonable for the purpose, and may recover from the undertaker any expenditure incurred in so doing provided that notice specifying those steps is served on the undertaker as soon as reasonably practicable after the Agency has taken, or commenced to take, the steps specified in the notice.
+(4) Subject to paragraph 44 (indemnity)[^c-f2645a3ad45ac4808567fc0fd0e3bf95], in any case where immediate action by the Agency is reasonably required in order to secure that the risk of damage to the fishery is avoided or reduced, the Agency may take such steps as are reasonable for the purpose, and may recover from the undertaker any expenditure incurred in so doing provided that notice specifying those steps is served on the undertaker as soon as reasonably practicable after the Agency has taken, or commenced to take, the steps specified in the notice.
 
-#### 44. Indemnity[^key-69adf55455770f34f1c5a6012d3f924d]
+#### 44. Indemnity[^c-69adf55455770f34f1c5a6012d3f924d]
 
 (1) The undertaker indemnifies the Agency in respect of all costs, charges and expenses which the Agency may incur—
 
@@ -511,7 +511,7 @@ damage to the fishery is caused, or the Agency has reason to expect that such da
   - (i) the construction, operation or maintenance of the specified works; or
   - (ii) in the case of those specified works that the undertaker is liable to maintain, dealing with any failure of those specified works.
 
-(3) For the avoidance of doubt in sub-paragraph (2)[^key-9c1686d5815c28c6b7ae812caa5d5785]—
+(3) For the avoidance of doubt in sub-paragraph (2)[^c-9c1686d5815c28c6b7ae812caa5d5785]—
 
 - “**costs**” includes—
   - (i) expenses and charges;
@@ -521,10 +521,10 @@ damage to the fishery is caused, or the Agency has reason to expect that such da
 
 (4) The undertaker indemnifies the Agency against all liabilities, claims and demands arising out of or in connection with the authorised development or otherwise out of the matters referred to in sub-paragraph (1).
 
-(5) In sub-paragraph (4)[^key-11a211bb906bd5513a56a029965a9e23]—
+(5) In sub-paragraph (4)[^c-11a211bb906bd5513a56a029965a9e23]—
 
 - “claims” and “demands” include as applicable—
-  - (a) costs (within the meaning of sub-paragraph (3)[^key-9ba1daff29ade8cbca190ac06e119f47]) incurred in connection with any claim or demand;
+  - (a) costs (within the meaning of sub-paragraph (3)[^c-9ba1daff29ade8cbca190ac06e119f47]) incurred in connection with any claim or demand;
   - (b) any interest element of sums claimed or demanded;
 - “**liabilities**” includes—
   - (a) contractual liabilities;
@@ -540,15 +540,15 @@ damage to the fishery is caused, or the Agency has reason to expect that such da
 
 (9) Nothing in this paragraph imposes any liability on the undertaker with respect to any costs, charges, expenses, damages, claims, liabilities, demands or losses to the extent that they are attributable to the neglect or default of the Agency, its officers, servants, contractors or agents.
 
-#### 45. Disputes[^key-fdb9d60a1f0ae9dccc36ee03e8bcf1e4]
+#### 45. Disputes[^c-fdb9d60a1f0ae9dccc36ee03e8bcf1e4]
 
-Any dispute arising between the undertaker and the Agency under this Part of this Schedule must if the parties agree, be determined by arbitration under article 48[^key-58182f09ad7424e7119292c3fca8fd6f] (arbitration), but failing agreement be determined by the Secretary of State for Environment, Food and Rural Affairs or its successor and the Secretary of State for Transport or its successor acting jointly on a reference to them by the undertaker or the Agency, after notice in writing by one to the other.
+Any dispute arising between the undertaker and the Agency under this Part of this Schedule must if the parties agree, be determined by arbitration under article 48[^c-58182f09ad7424e7119292c3fca8fd6f] (arbitration), but failing agreement be determined by the Secretary of State for Environment, Food and Rural Affairs or its successor and the Secretary of State for Transport or its successor acting jointly on a reference to them by the undertaker or the Agency, after notice in writing by one to the other.
 
 ## Annotations
 
-[^key-a6f83476cf76f4faa7d9702460aa6ac1]: Commencement: Sch. 10 para. 1 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-a6f83476cf76f4faa7d9702460aa6ac1]: Commencement: Sch. 10 para. 1 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-969d7e6d4e9cee5450fc4a24d9427636]: Commencement: Sch. 10 para. 2 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-969d7e6d4e9cee5450fc4a24d9427636]: Commencement: Sch. 10 para. 2 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
 [^f00096]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). The definition of “**electrical plant**” (in section 64) was amended by section 108 of, and paragraphs 24 and 38(1) and (3) of Schedule 6 to, the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
@@ -560,122 +560,122 @@ Any dispute arising between the undertaker and the Agency under this Part of thi
 
 [^f00100]: Footnote: Section 104 was amended by sections 96(4) and 101(2) of, and Part 3 of Schedule 9 to, the Water Act 2003 and by section 42(3) of the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-df11308beb4b3979e97c3db90bb5abc4]: Commencement: Sch. 10 para. 3 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-df11308beb4b3979e97c3db90bb5abc4]: Commencement: Sch. 10 para. 3 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-2493c746aff726c8b86eb59d511cbe62]: Commencement: Sch. 10 para. 4 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-2493c746aff726c8b86eb59d511cbe62]: Commencement: Sch. 10 para. 4 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-22b4f092a799cca64172ffc22c4efffb]: Commencement: Sch. 10 para. 5 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-22b4f092a799cca64172ffc22c4efffb]: Commencement: Sch. 10 para. 5 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-b6406bbcf45c5bbfe554e94d75372bf4]: Commencement: Sch. 10 para. 6 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-b6406bbcf45c5bbfe554e94d75372bf4]: Commencement: Sch. 10 para. 6 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-efea1be7e0492df98af3be270645374e]: Commencement: Sch. 10 para. 7 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-efea1be7e0492df98af3be270645374e]: Commencement: Sch. 10 para. 7 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-bdecb5cb7af211c5c9a4722b032a5817]: Textual amendment: Word in [Sch. 10 para. 7(3)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/7/3) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-bdecb5cb7af211c5c9a4722b032a5817]: Textual amendment: Word in [Sch. 10 para. 7(3)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/7/3) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
 
-[^key-e589ccd4e9f7c9d7503e09b240cf12f4]: Commencement: Sch. 10 para. 8 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-e589ccd4e9f7c9d7503e09b240cf12f4]: Commencement: Sch. 10 para. 8 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-84261e59d7ca5dacac956e984a9dd72c]: Commencement: Sch. 10 para. 9 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-84261e59d7ca5dacac956e984a9dd72c]: Commencement: Sch. 10 para. 9 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-00e88ac21b4347f0d52d36d757d53167]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/10) in force at 9.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/752/article/1) (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-00e88ac21b4347f0d52d36d757d53167]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/10) in force at 9.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/752/article/1) (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-628907b42928076d2e8a0de5e30077e4]: Textual amendment: Word in [Sch. 10 para. 10(3)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/10/3) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-628907b42928076d2e8a0de5e30077e4]: Textual amendment: Word in [Sch. 10 para. 10(3)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/10/3) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
 
-[^key-944e7b37757dc780cee46779e7e80949]: Commencement: Sch. 10 para. 11 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-944e7b37757dc780cee46779e7e80949]: Commencement: Sch. 10 para. 11 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-911540a6cbbf4434fed084300c254ed3]: Commencement: Sch. 10 para. 12 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-911540a6cbbf4434fed084300c254ed3]: Commencement: Sch. 10 para. 12 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-ffe3863e356778dd2326c8664cdfd84b]: Commencement: Sch. 10 para. 14 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-ffe3863e356778dd2326c8664cdfd84b]: Commencement: Sch. 10 para. 14 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-35a8d5639fc1c4f9e061405382ae7dd5]: Commencement: Sch. 10 para. 15 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-35a8d5639fc1c4f9e061405382ae7dd5]: Commencement: Sch. 10 para. 15 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
 [^f00101]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00102]: Footnote: Section 106 was amended by section 4 of the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 
-[^key-57ded807793a9017cc9038df876de20b]: Commencement: Sch. 10 para. 16 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-57ded807793a9017cc9038df876de20b]: Commencement: Sch. 10 para. 16 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-6af9f0fa62bb50aa53dd1bb41d2f95aa]: Commencement: Sch. 10 para. 17 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-6af9f0fa62bb50aa53dd1bb41d2f95aa]: Commencement: Sch. 10 para. 17 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-067129c3bedf3b50394bba67c3ff67d6]: Commencement: Sch. 10 para. 18 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-067129c3bedf3b50394bba67c3ff67d6]: Commencement: Sch. 10 para. 18 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-6d9cb8c643bd187fd115fe3f88e1eb8e]: Commencement: Sch. 10 para. 19 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-6d9cb8c643bd187fd115fe3f88e1eb8e]: Commencement: Sch. 10 para. 19 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
 [^f00103]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
 
-[^key-f04e98d86033f02710f999e831beeb5f]: Textual amendment: Word in [Sch. 10 para. 19(a)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/19/a) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-f04e98d86033f02710f999e831beeb5f]: Textual amendment: Word in [Sch. 10 para. 19(a)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/19/a) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
 
-[^key-28f082fe5da187f3f784b004207d765b]: Textual amendment: Word in [Sch. 10 para. 19(b)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/19/b) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-28f082fe5da187f3f784b004207d765b]: Textual amendment: Word in [Sch. 10 para. 19(b)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/19/b) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
 
-[^key-75fd70cde98193704f180470778d7b52]: Commencement: Sch. 10 para. 20 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-75fd70cde98193704f180470778d7b52]: Commencement: Sch. 10 para. 20 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-4394babea8c9a55eef54de0189d3026c]: Commencement: Sch. 10 para. 21 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-4394babea8c9a55eef54de0189d3026c]: Commencement: Sch. 10 para. 21 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-dfa5c6e65a86e312939e90cbb27f8c78]: Commencement: Sch. 10 para. 22 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-dfa5c6e65a86e312939e90cbb27f8c78]: Commencement: Sch. 10 para. 22 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-0ac28fd6459be4132e1e4024b5383ebd]: Commencement: Sch. 10 para. 23 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-0ac28fd6459be4132e1e4024b5383ebd]: Commencement: Sch. 10 para. 23 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-c8345dac9bb37e3dc85357acca6f83c4]: Commencement: Sch. 10 para. 24 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-c8345dac9bb37e3dc85357acca6f83c4]: Commencement: Sch. 10 para. 24 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-3b9aa9fd280b7bdfbb3845eb33a6dfd1]: Commencement: Sch. 10 para. 25 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-3b9aa9fd280b7bdfbb3845eb33a6dfd1]: Commencement: Sch. 10 para. 25 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-f0cbf94c8d9a64880d468eb78b57e809]: Commencement: Sch. 10 para. 26 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-f0cbf94c8d9a64880d468eb78b57e809]: Commencement: Sch. 10 para. 26 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-bc19e4775ae6bcc33b02e3534c46e854]: Commencement: Sch. 10 para. 27 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-bc19e4775ae6bcc33b02e3534c46e854]: Commencement: Sch. 10 para. 27 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-1cba69ea05e34926a8d797f8ee6934ac]: Textual amendment: Word in [Sch. 10 para. 27(3)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/27/3) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-1cba69ea05e34926a8d797f8ee6934ac]: Textual amendment: Word in [Sch. 10 para. 27(3)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/27/3) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
 
-[^key-4732e6b2b2e6cc55165e822b625131c2]: Commencement: Sch. 10 para. 28 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-4732e6b2b2e6cc55165e822b625131c2]: Commencement: Sch. 10 para. 28 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-1c397601f56e53779436fcf74ad2d703]: Commencement: Sch. 10 para. 29 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-1c397601f56e53779436fcf74ad2d703]: Commencement: Sch. 10 para. 29 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-524faff091dbfe7ac6fb82722f077fb6]: Commencement: Sch. 10 para. 30 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-524faff091dbfe7ac6fb82722f077fb6]: Commencement: Sch. 10 para. 30 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-6d2d3be42a3ca688513ab2d93b523e7b]: Commencement: Sch. 10 para. 31 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-6d2d3be42a3ca688513ab2d93b523e7b]: Commencement: Sch. 10 para. 31 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-4e86395973ad45f6f52f8fb39a5d4275]: Commencement: Sch. 10 para. 32 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-4e86395973ad45f6f52f8fb39a5d4275]: Commencement: Sch. 10 para. 32 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-8de7ab4bdbed233931ae6c6e3e98ecb4]: Textual amendment: Word in [Sch. 10 para. 32](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/32) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-8de7ab4bdbed233931ae6c6e3e98ecb4]: Textual amendment: Word in [Sch. 10 para. 32](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/32) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
 
-[^key-59649191eeba2c71a4cdd1e889a679f6]: Commencement: Sch. 10 para. 33 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-59649191eeba2c71a4cdd1e889a679f6]: Commencement: Sch. 10 para. 33 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-31d706ce04cd48d633c2232f61ae3a02]: Commencement: Sch. 10 para. 34 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-31d706ce04cd48d633c2232f61ae3a02]: Commencement: Sch. 10 para. 34 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-bd8264bb1e32443b2a57dc5f844bfc33]: Commencement: Sch. 10 para. 35 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-bd8264bb1e32443b2a57dc5f844bfc33]: Commencement: Sch. 10 para. 35 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
 [^f00104]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57). The definition of “main river” was amended by section 59(3) of the Water Act [2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21).
 
-[^key-4911c74ec68f2c3ef10a852ab9a3695a]: Commencement: Sch. 10 para. 36 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-4911c74ec68f2c3ef10a852ab9a3695a]: Commencement: Sch. 10 para. 36 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-b2e32575ba061e59f57433aa5d32cf38]: Commencement: Sch. 10 para. 37 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-b2e32575ba061e59f57433aa5d32cf38]: Commencement: Sch. 10 para. 37 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-b2624c2e8cb5b21246dab95e7e0acd52]: Commencement: Sch. 10 para. 38 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-b2624c2e8cb5b21246dab95e7e0acd52]: Commencement: Sch. 10 para. 38 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-6327786f8c2fb0a0eedb678035e1f575]: Commencement: Sch. 10 para. 39 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-6327786f8c2fb0a0eedb678035e1f575]: Commencement: Sch. 10 para. 39 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-ff716168f2d49096edc224c493b458a3]: Textual amendment: Words in [Sch. 10 para. 39(2)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/39/2) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-ff716168f2d49096edc224c493b458a3]: Textual amendment: Words in [Sch. 10 para. 39(2)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/39/2) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
 
-[^key-0e0b3f0b30c5df01bbedd0c2632d7f37]: Commencement: Sch. 10 para. 40 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-0e0b3f0b30c5df01bbedd0c2632d7f37]: Commencement: Sch. 10 para. 40 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-2acca8576eb18f28e5ffebd61d7af9cd]: Textual amendment: Words in [Sch. 10 para. 40(3)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/40/3) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-2acca8576eb18f28e5ffebd61d7af9cd]: Textual amendment: Words in [Sch. 10 para. 40(3)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/40/3) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
 
-[^key-d6eb55370ad0cd635eacc366f6b0f516]: Commencement: Sch. 10 para. 41 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-d6eb55370ad0cd635eacc366f6b0f516]: Commencement: Sch. 10 para. 41 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-8efcede60531906092d5ed78f5526b80]: Commencement: Sch. 10 para. 42 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-8efcede60531906092d5ed78f5526b80]: Commencement: Sch. 10 para. 42 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-44d23540e3b662e1d9ee507c25e9833f]: Commencement: Sch. 10 para. 43 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-44d23540e3b662e1d9ee507c25e9833f]: Commencement: Sch. 10 para. 43 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-0e88f64ebdc901b7637e0f7f27854838]: Textual amendment: Words in [Sch. 10 para. 43(3)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/43/3) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-0e88f64ebdc901b7637e0f7f27854838]: Textual amendment: Words in [Sch. 10 para. 43(3)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/43/3) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
 
-[^key-f2645a3ad45ac4808567fc0fd0e3bf95]: Textual amendment: Words in [Sch. 10 para. 43(4)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/43/4) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-f2645a3ad45ac4808567fc0fd0e3bf95]: Textual amendment: Words in [Sch. 10 para. 43(4)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/43/4) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
 
-[^key-69adf55455770f34f1c5a6012d3f924d]: Commencement: Sch. 10 para. 44 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-69adf55455770f34f1c5a6012d3f924d]: Commencement: Sch. 10 para. 44 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-9c1686d5815c28c6b7ae812caa5d5785]: Textual amendment: Word in [Sch. 10 para. 44(3)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/44/3) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-9c1686d5815c28c6b7ae812caa5d5785]: Textual amendment: Word in [Sch. 10 para. 44(3)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/44/3) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
 
-[^key-11a211bb906bd5513a56a029965a9e23]: Textual amendment: Word in [Sch. 10 para. 44(5)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/44/5) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-11a211bb906bd5513a56a029965a9e23]: Textual amendment: Word in [Sch. 10 para. 44(5)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/44/5) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
 
-[^key-9ba1daff29ade8cbca190ac06e119f47]: Textual amendment: Word in [Sch. 10 para. 44(5)(a)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/44/5/a) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-9ba1daff29ade8cbca190ac06e119f47]: Textual amendment: Word in [Sch. 10 para. 44(5)(a)](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/44/5/a) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
 
-[^key-fdb9d60a1f0ae9dccc36ee03e8bcf1e4]: Commencement: Sch. 10 para. 45 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-fdb9d60a1f0ae9dccc36ee03e8bcf1e4]: Commencement: Sch. 10 para. 45 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-58182f09ad7424e7119292c3fca8fd6f]: Textual amendment: Word in [Sch. 10 para. 45](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/45) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-58182f09ad7424e7119292c3fca8fd6f]: Textual amendment: Word in [Sch. 10 para. 45](https://www.legislation.gov.uk/uksi/2024/752/schedule/10/paragraph/45) substituted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)

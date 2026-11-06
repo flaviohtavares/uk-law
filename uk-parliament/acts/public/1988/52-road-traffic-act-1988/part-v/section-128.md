@@ -66,7 +66,7 @@ any of the relevant[^c13989061] conditions was fulfilled in his case.
 - (b) where such an appeal is brought and is withdrawn or struck out for want of prosecution, on the withdrawal or striking out of the appeal,
 - (c) where such an appeal is brought and not withdrawn or struck out for want of prosecution, if and when the appeal is dismissed, and not otherwise.
 
-(7A)[^key-83e293159eae5c3c1eb1c052b9b183a4] The Registrar may suspend a person's registration if the Registrar—
+(7A)[^c-83e293159eae5c3c1eb1c052b9b183a4] The Registrar may suspend a person's registration if the Registrar—
 
 - (a) has given, or is about to give, the person notice under subsection (4),
 - (b) is considering whether to remove the person's name from the register, or has decided to remove the name but the decision is not yet in effect, and
@@ -136,7 +136,7 @@ the Registrar shall not regard the condition mentioned in section 125A(6)(a) of 
 
 [^c13989131]: Textual amendment: Words in s. 128(7) substituted (1.4.2002) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 259(2)](https://www.legislation.gov.uk/ukpga/2000/38/section/259/2); [S.I. 2002/658](https://www.legislation.gov.uk/uksi/2002/658), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/658/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2002/658/schedule/part/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2002/658/article/3/1))
 
-[^key-83e293159eae5c3c1eb1c052b9b183a4]: Textual amendment: S. 128(7A)-(7G) inserted (6.7.2012) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/1/2); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
+[^c-83e293159eae5c3c1eb1c052b9b183a4]: Textual amendment: S. 128(7A)-(7G) inserted (6.7.2012) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/1/2); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
 
 [^c13989141]: Textual amendment: S. 128(8) inserted by [S.I. 1991/1129](https://www.legislation.gov.uk/uksi/1991/1129), [art. 2](https://www.legislation.gov.uk/uksi/1991/1129/article/2)
 

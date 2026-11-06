@@ -30,7 +30,7 @@ summary: ''
 
 BUILDING REGULATIONS
 
-Building (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-ccafc011e785d5e71db475bfdfd5d93f]
+Building (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-ccafc011e785d5e71db475bfdfd5d93f]
 
 Made
 
@@ -40,30 +40,30 @@ Coming into operation
 
 1 January 1998
 
-[^key-ccafc011e785d5e71db475bfdfd5d93f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ccafc011e785d5e71db475bfdfd5d93f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ccafc011e785d5e71db475bfdfd5d93f]
+## 1. Citation and commencement[^c-ccafc011e785d5e71db475bfdfd5d93f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of principal regulations[^key-ccafc011e785d5e71db475bfdfd5d93f]
+## 2. Amendment of principal regulations[^c-ccafc011e785d5e71db475bfdfd5d93f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation and general[^key-ccafc011e785d5e71db475bfdfd5d93f]
+## 3. Interpretation and general[^c-ccafc011e785d5e71db475bfdfd5d93f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ccafc011e785d5e71db475bfdfd5d93f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ccafc011e785d5e71db475bfdfd5d93f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ccafc011e785d5e71db475bfdfd5d93f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ccafc011e785d5e71db475bfdfd5d93f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ccafc011e785d5e71db475bfdfd5d93f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ccafc011e785d5e71db475bfdfd5d93f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ccafc011e785d5e71db475bfdfd5d93f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/481) revoked (1.4.2001) by [Building Regulations (Northern Ireland) 2000 (S.R. 2000/389)](https://www.legislation.gov.uk/nisr/2000/389), [regs. A1](https://www.legislation.gov.uk/nisr/2000/389/regulation/A1), [A19](https://www.legislation.gov.uk/nisr/2000/389/regulation/A19)
+[^c-ccafc011e785d5e71db475bfdfd5d93f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/481) revoked (1.4.2001) by [Building Regulations (Northern Ireland) 2000 (S.R. 2000/389)](https://www.legislation.gov.uk/nisr/2000/389), [regs. A1](https://www.legislation.gov.uk/nisr/2000/389/regulation/A1), [A19](https://www.legislation.gov.uk/nisr/2000/389/regulation/A19)

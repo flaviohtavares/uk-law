@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**201.**[^key-df96f819f617cbe413953c068f4671cc] The Sexual Offences Act 2003 is amended as follows.
+**201.**[^c-df96f819f617cbe413953c068f4671cc] The Sexual Offences Act 2003 is amended as follows.
 
 ## Annotations
 
-[^key-df96f819f617cbe413953c068f4671cc]: Commencement: Reg. 201 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-df96f819f617cbe413953c068f4671cc]: Commencement: Reg. 201 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Amendment of the National Health Service (General Medical Services Contracts) Regulations 2015[^key-1a56db580cab6dabb891f1c2683bd510]
+## 84. Amendment of the National Health Service (General Medical Services Contracts) Regulations 2015[^c-1a56db580cab6dabb891f1c2683bd510]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a56db580cab6dabb891f1c2683bd510]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/2023/1071/regulation/84) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-1a56db580cab6dabb891f1c2683bd510]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/2023/1071/regulation/84) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00069]: Footnote: [S.I. 2015/1862](https://www.legislation.gov.uk/uksi/2015/1862), to which there are amendments not relevant to these Regulations.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — PARTICULARS REQUIRED AS TO NATURE OF CONTROL[^key-4d7055411b008f1531392bd3d7f4ddc3]
+## SCHEDULE 2 — PARTICULARS REQUIRED AS TO NATURE OF CONTROL[^c-4d7055411b008f1531392bd3d7f4ddc3]
 
 *Extent: E+W+S+N.I.*
 
@@ -136,4 +136,4 @@ Regulation 7
 
 ## Annotations
 
-[^key-4d7055411b008f1531392bd3d7f4ddc3]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/2016/339/schedule/2) applied (with modifications) (E.W.S.) (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2016/340/regulation/4), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2016/340/schedule/2/paragraph/4)
+[^c-4d7055411b008f1531392bd3d7f4ddc3]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/2016/339/schedule/2) applied (with modifications) (E.W.S.) (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2016/340/regulation/4), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2016/340/schedule/2/paragraph/4)

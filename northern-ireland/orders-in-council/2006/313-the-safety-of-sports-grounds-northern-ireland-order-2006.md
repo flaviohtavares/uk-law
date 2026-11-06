@@ -70,7 +70,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1(
 
 (2) In this Order—
 
-- “[^key-aa776be284efbf233e02183ee56aa33b]**the court**” means a court of summary jurisdiction;
+- “[^c-aa776be284efbf233e02183ee56aa33b]**the court**” means a court of summary jurisdiction;
 - “**the Department**” means the Department of Culture, Arts and Leisure;
 - “**council**” means a district council;
 - “[^c19549611]**the Fire and Rescue Service Board**” means the Northern Ireland Fire and Rescue Service Board
@@ -705,7 +705,7 @@ This Order makes provision for safety at sports grounds. Part II provides for th
 
 [^c22078451]: Subordinate legislation: [Art. 1(2)](https://www.legislation.gov.uk/nisi/2006/313/article/1/2) power fully exercised: 31.12.2009 appointed by [S.R. 2009/287](https://www.legislation.gov.uk/nisr/2009/287), [art. 2](https://www.legislation.gov.uk/nisr/2009/287/article/2)
 
-[^key-aa776be284efbf233e02183ee56aa33b]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2006/313/article/2/2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 130](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/130) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-aa776be284efbf233e02183ee56aa33b]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2006/313/article/2/2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 130](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/130) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c19549611]: Textual amendment: Art. 2(2): definition of "the Fire and Rescue Service Board" substituted for definition of "the Fire Authority" (15.11.2010) by [Fire and Rescue Services (Northern Ireland) Order 2006 (S.I. 2006/1254 (N.I. 9))](https://www.legislation.gov.uk/nisi/2006/1254), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1254/article/1/3), [63(1)](https://www.legislation.gov.uk/nisi/2006/1254/article/63/1), [Sch. 3 para. 25](https://www.legislation.gov.uk/nisi/2006/1254/schedule/3/paragraph/25) (with [arts. 49](https://www.legislation.gov.uk/nisi/2006/1254/article/49), [62](https://www.legislation.gov.uk/nisi/2006/1254/article/62)); [S.R. 2010/328](https://www.legislation.gov.uk/nisr/2010/328), [art. 2](https://www.legislation.gov.uk/nisr/2010/328/article/2)
 

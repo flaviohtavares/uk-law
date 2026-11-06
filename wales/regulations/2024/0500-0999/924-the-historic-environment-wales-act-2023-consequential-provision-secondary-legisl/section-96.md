@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**96.**[^key-e69366c3b3a2f0859e169d8be4a1f0b6] In regulation 2(2)—
+**96.**[^c-e69366c3b3a2f0859e169d8be4a1f0b6] In regulation 2(2)—
 
 - (a) in sub-paragraph (g)—
   - (i) for “section 12” substitute “section 94”;
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e69366c3b3a2f0859e169d8be4a1f0b6]: Commencement: [Reg. 96](https://www.legislation.gov.uk/wsi/2024/924/regulation/96) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-e69366c3b3a2f0859e169d8be4a1f0b6]: Commencement: [Reg. 96](https://www.legislation.gov.uk/wsi/2024/924/regulation/96) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

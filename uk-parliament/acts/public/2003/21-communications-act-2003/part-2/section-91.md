@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Conditions about regulation of services etc. for end-users[^key-01f9e789165df7b0a1a8a6873f88b7f1][^key-d3b45da7e2f78b2d9f053915b5e2d005]
+## 91. Conditions about regulation of services etc. for end-users[^c-01f9e789165df7b0a1a8a6873f88b7f1][^c-d3b45da7e2f78b2d9f053915b5e2d005]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ they shall set, and apply to that provider, such SMP conditions authorised by th
 (3) The sorts of conditions referred to in subsection (2) are—
 
 - (a) access-related conditions; and
-- (b) SMP conditions authorised or required by sections 87 to 89[^key-5c33deda25493b02dabcd34d10b1cee3] .
+- (b) SMP conditions authorised or required by sections 87 to 89[^c-5c33deda25493b02dabcd34d10b1cee3] .
 
 (4) The reference in subsection (2) to the market situation in the relevant market is a reference to the situation revealed by such market analyses of that market as may have been carried out for the purposes of this Chapter.
 
@@ -45,21 +45,21 @@ they shall set, and apply to that provider, such SMP conditions authorised by th
 - (b) to have the use of those systems audited annually by a qualified auditor; and
 - (c) to publish an annual statement about compliance by the dominant provider with the obligations imposed by virtue of paragraph (a).
 
-(7)[^key-aa2895579b3f336b671da964761f5fae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-aa2895579b3f336b671da964761f5fae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-c40be476937810d3d477aeb1db372a8c] In this section “qualified auditor” means a person who—
+(8)[^c-c40be476937810d3d477aeb1db372a8c] In this section “qualified auditor” means a person who—
 
 - (a) is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006, and
 - (b) if the appointment to carry out such auditing as is mentioned in subsection (6)(b) were an appointment as a statutory auditor, would not be prohibited from acting by section 1214 of that Act (independence requirement).
 
 ## Annotations
 
-[^key-01f9e789165df7b0a1a8a6873f88b7f1]: Commencement: S. 91 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-01f9e789165df7b0a1a8a6873f88b7f1]: Commencement: S. 91 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-d3b45da7e2f78b2d9f053915b5e2d005]: Commencement: S. 91 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-d3b45da7e2f78b2d9f053915b5e2d005]: Commencement: S. 91 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-5c33deda25493b02dabcd34d10b1cee3]: Textual amendment: Word in s. 91(3)(b) substituted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 52(a)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/52/a) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-5c33deda25493b02dabcd34d10b1cee3]: Textual amendment: Word in s. 91(3)(b) substituted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 52(a)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/52/a) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-aa2895579b3f336b671da964761f5fae]: Textual amendment: S. 91(7) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 52(b)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/52/b) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-aa2895579b3f336b671da964761f5fae]: Textual amendment: S. 91(7) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 52(b)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/52/b) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-c40be476937810d3d477aeb1db372a8c]: Textual amendment: S. 91(8) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 30(4)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/30/4) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-c40be476937810d3d477aeb1db372a8c]: Textual amendment: S. 91(8) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 30(4)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/30/4) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))

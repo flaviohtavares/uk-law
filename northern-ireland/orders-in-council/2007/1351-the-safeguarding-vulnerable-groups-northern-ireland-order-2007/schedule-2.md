@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — REGULATED ACTIVITY[^key-75444ec1a3c219896d1c9cceb2cd6dad]
+## SCHEDULE 2 — REGULATED ACTIVITY[^c-75444ec1a3c219896d1c9cceb2cd6dad]
 
 *Extent: N.I.*
 
@@ -29,9 +29,9 @@ Article 9
 **1.**[^c21197491] (1) An activity is a regulated activity relating to children if—
 
 - (a) it is mentioned in paragraph 2(1), and
-- (b) except in the case of activities falling within sub-paragraph (1A),[^key-40950a683606a04061df50e643f10937] it is carried out frequently by the same person or the period condition is satisfied.
+- (b) except in the case of activities falling within sub-paragraph (1A),[^c-40950a683606a04061df50e643f10937] it is carried out frequently by the same person or the period condition is satisfied.
 
-(1A)[^key-0871165f4259dfe4c03a04b1d748ad75] The following activities fall within this sub-paragraph—
+(1A)[^c-0871165f4259dfe4c03a04b1d748ad75] The following activities fall within this sub-paragraph—
 
 - (a) relevant personal care, and
 - (b) health care provided by, or under the direction or supervision of, a health care professional.
@@ -65,23 +65,23 @@ Article 9
 
 - (a) it is carried out frequently by the same person or the period condition is satisfied,
 - (b) it is carried out in an establishment mentioned in paragraph 3(1),
-- (c) it is carried out by a person while engaging in any work falling within sub-paragraph (2A) or (2B)[^key-993206356648833e1777e214b5ecfda5] ,
+- (c) it is carried out by a person while engaging in any work falling within sub-paragraph (2A) or (2B)[^c-993206356648833e1777e214b5ecfda5] ,
 - (d) it is carried out for or in connection with the purposes of the establishment, and
 - (e) it gives that person the opportunity, in consequence of anything he is permitted or required to do in connection with the activity, to have contact with children.
 
-(2A)[^key-c6edb24c40607f75c6f8f796b1551e10] Work falls within this sub-paragraph if it is any form of work for gain, other than any such work which—
+(2A)[^c-c6edb24c40607f75c6f8f796b1551e10] Work falls within this sub-paragraph if it is any form of work for gain, other than any such work which—
 
 - (a) is undertaken in pursuance of a contract for the provision of occasional or temporary services, and
-- (b) is not an activity mentioned in paragraph 2(1) [^key-9c91ed892950b90e56ec1e587be11ac6]....
+- (b) is not an activity mentioned in paragraph 2(1) [^c-9c91ed892950b90e56ec1e587be11ac6]....
 
 (2B) Work falls within this sub-paragraph if it is any form of work which is not for gain, other than—
 
 - (a) any such work which—
   - (i) is carried out on a temporary or occasional basis, and
-  - (ii) is not an activity mentioned in paragraph 2(1) [^key-ea2da973b06e8ffca7f4014fbd90c2b2]..., [^key-31f09505c8c76bb743c90bf18e1e4cfe]...
-- (b)[^key-31f09505c8c76bb743c90bf18e1e4cfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) is not an activity mentioned in paragraph 2(1) [^c-ea2da973b06e8ffca7f4014fbd90c2b2]..., [^c-31f09505c8c76bb743c90bf18e1e4cfe]...
+- (b)[^c-31f09505c8c76bb743c90bf18e1e4cfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2C)[^key-f05c85174ed0611f7f48b2f82a16f22d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2C)[^c-f05c85174ed0611f7f48b2f82a16f22d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Each of the following is a regulated activity relating to children—
 
@@ -92,11 +92,11 @@ Article 9
 
 (5) It is a regulated activity relating to children to foster a child (as mentioned in Article 55).
 
-(6) The exercise of a function of a children’s court guardian[^key-6a7fcfa991a18d5c1b589097bdd7f920] appointed under Article 60 of the Children Order is a regulated activity relating to children.
+(6) The exercise of a function of a children’s court guardian[^c-6a7fcfa991a18d5c1b589097bdd7f920] appointed under Article 60 of the Children Order is a regulated activity relating to children.
 
-(6A)[^key-15f7547c0640da9cf690a7ad1715b84e] The exercise of a function of a controller appointed in respect of a child under Article 101 of the Mental Health (Northern Ireland) Order 1986 (NI 4) is a regulated activity relating to children.
+(6A)[^c-15f7547c0640da9cf690a7ad1715b84e] The exercise of a function of a controller appointed in respect of a child under Article 101 of the Mental Health (Northern Ireland) Order 1986 (NI 4) is a regulated activity relating to children.
 
-(7)[^key-c3632ee31a47b4576029087eabaa712d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-c3632ee31a47b4576029087eabaa712d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7A)[^c22086801] The exercise of a function under Article 130 of the Children (Northern Ireland) Order 1995, so far as it gives the person exercising the function the opportunity, in consequence of anything the person is permitted or required to do in the exercise of that function, to have contact with children is a regulated activity relating to children.
 
@@ -114,7 +114,7 @@ Article 9
 
 (12) Any activity which consists in or involves on a regular basis the day to day management or supervision of a person carrying out an activity mentioned in sub-paragraph (1), (2), (6), (7A) or (8)[^c22086911] is a regulated activity relating to children.
 
-(13)[^key-17412853d0d8d4c42251e4301994cc71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-17412853d0d8d4c42251e4301994cc71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Activities
 
@@ -123,30 +123,30 @@ Article 9
 - (a) any form of teaching, training or instruction of children, unless the teaching, training or instruction is merely incidental to teaching, training or instruction of persons who are not children;
 - (b) any form of care for or supervision of children, unless the care or supervision is merely incidental to care for or supervision of persons who are not children;
 - (c) any form of advice or guidance provided wholly or mainly for children, if the advice or guidance relates to their physical, emotional or educational well-being;
-- (d)[^key-51010cd3d6c717a73044f5a1e53410d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-51010cd3d6c717a73044f5a1e53410d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) moderating a public electronic interactive communication service which is likely to be used wholly or mainly by children;
 - (f) driving a vehicle which is being used only for the purpose of conveying children and any person supervising or caring for the children pursuant to arrangements made in prescribed circumstances.
 
-(2) Sub-paragraph (1)(a), (b), and (c)[^key-ac00810af0791c836b50d5ddbcdeec65] do not include—
+(2) Sub-paragraph (1)(a), (b), and (c)[^c-ac00810af0791c836b50d5ddbcdeec65] do not include—
 
 - (a) teaching, training or instruction provided to a child in the course of his employment;
 - (b) care for or supervision of a child in the course of his employment;
 - (c) advice or guidance provided for a child in the course of his employment;
-- (d)[^key-032e33b844c72fd2bfdbb9df3edb73cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-032e33b844c72fd2bfdbb9df3edb73cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Sub-paragraph (2) does not apply if—
 
 - (a) the child has not attained the age of 16, and
 - (b) the activity is carried out by a person in respect of whom arrangements exist principally for that purpose.
 
-(3A)[^key-2145bb2e1036d3b03d95549965d98d89][^key-830d6af6f57794ba46d90f7ab9819d17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-2145bb2e1036d3b03d95549965d98d89][^c-830d6af6f57794ba46d90f7ab9819d17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3B) Sub-paragraph (1)(b)—
 
-- (a) does not include any health care provided otherwise than by (or under the direction or supervision of) a health care professional, [^key-223e5618e9f672fe96fe9487fd6c3b18]...
-- (b)[^key-223e5618e9f672fe96fe9487fd6c3b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) does not include any health care provided otherwise than by (or under the direction or supervision of) a health care professional, [^c-223e5618e9f672fe96fe9487fd6c3b18]...
+- (b)[^c-223e5618e9f672fe96fe9487fd6c3b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3C)[^key-1818e6198e0becf873d5a1c82dfef8cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3C)[^c-1818e6198e0becf873d5a1c82dfef8cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3D) Sub-paragraph (1)(c) does not include any legal advice.
 
@@ -169,7 +169,7 @@ Article 9
 
 - (a) an educational institution which is exclusively or mainly for the provision of full-time education to children;
 - (b) a nursery school within the meaning of the Education and Libraries (Northern Ireland) Order 1986 (NI 3);
-- (bb)[^c22086951] premises which are used for the provision of education by the Education Authority[^key-127e031596f436a0da2b474117a7f1ea] or on its behalf, which do not fall within paragraph (a) or (b);
+- (bb)[^c22086951] premises which are used for the provision of education by the Education Authority[^c-127e031596f436a0da2b474117a7f1ea] or on its behalf, which do not fall within paragraph (a) or (b);
 - (c) a hospital which is exclusively or mainly for the reception and treatment of children;
 - (d) an institution which is exclusively or mainly for the detention of children;
 - (e) a children's home (within the meaning of Article 9 of the 2003 Order);
@@ -185,19 +185,19 @@ Article 9
 
 #### Positions
 
-**4.**[^key-2765b197134e65ef166f511d2eda711a][^c21197531] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2765b197134e65ef166f511d2eda711a][^c21197531] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.**[^c21197541] A person who is part of a group in relation to which another (P) engages in regulated activity relating to children does not engage in regulated activity only because he assists P or does anything on behalf of or under the direction of P which, but for this paragraph, would amount to engaging in regulated activity relating to children.
 
-#### ...[^key-c6cc7cb12ee64ce7c8d73b4896dfddbb]
+#### ...[^c-c6cc7cb12ee64ce7c8d73b4896dfddbb]
 
-**5A.**[^key-c6cc7cb12ee64ce7c8d73b4896dfddbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5A.**[^c-c6cc7cb12ee64ce7c8d73b4896dfddbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Exceptions
 
 **6.**[^c21197551] The Secretary of State may, by order, provide that in such circumstances as are specified an activity which is a regulated activity in relation to children is not to be treated as a regulated activity.
 
-### PART II — REGULATED ACTIVITY RELATING TO VULNERABLE ADULTS[^key-75444ec1a3c219896d1c9cceb2cd6dad]
+### PART II — REGULATED ACTIVITY RELATING TO VULNERABLE ADULTS[^c-75444ec1a3c219896d1c9cceb2cd6dad]
 
 **7.**[^c21197561] (1) Each of the following is a regulated activity relating to vulnerable adults—
 
@@ -250,9 +250,9 @@ Article 9
 - (b) an order made under Article 99 or 101 of the Mental Health (Northern Ireland) Order 1986 (NI 4) by the High Court in relation to the person or the person's property or affairs, or
 - (c) the appointment of a representative to receive payments on behalf of the person in pursuance of regulations made under the Social Security Administration (Northern Ireland) Act 1992.
 
-(4)[^key-2aebbe44192309f8f84faa9f15fd9273] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2aebbe44192309f8f84faa9f15fd9273] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Any activity which consists in or involves on a regular basis the day to day management or supervision of a person carrying out an activity mentioned in sub-paragraph (1) [^key-130497ed09375a19c83d44ef5b548947]...or (6)[^c22087091] is a regulated activity relating to vulnerable adults.
+(5) Any activity which consists in or involves on a regular basis the day to day management or supervision of a person carrying out an activity mentioned in sub-paragraph (1) [^c-130497ed09375a19c83d44ef5b548947]...or (6)[^c22087091] is a regulated activity relating to vulnerable adults.
 
 (6)[^c22087111] The exercise of a function of the following so far as it gives the person exercising the function the opportunity, in consequence of anything the person is permitted or required to do in the exercise of that function, to have contact with vulnerable adults, is a regulated activity relating to vulnerable adults—
 
@@ -263,11 +263,11 @@ Article 9
 
 (8) [^c22087171]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-8142f0f9a3eb6f3312d3ef72173b1977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-8142f0f9a3eb6f3312d3ef72173b1977] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) A person who is part of a group in relation to which another (P) engages in regulated activity relating to vulnerable adults does not engage in regulated activity only because he assists P or does anything on behalf of or under the direction of P which, but for this sub-paragraph, would amount to engaging in regulated activity relating to vulnerable adults.
 
-**8.**[^key-1aa789fdc6b912b5424457f6a4321ff4][^c21197571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1aa789fdc6b912b5424457f6a4321ff4][^c21197571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.**[^c21197581] The Secretary of State may, by order, provide that in such circumstances as are specified an activity which is a regulated activity in relation to vulnerable adults is not to be treated as a regulated activity.
 
@@ -275,38 +275,38 @@ Article 9
 
 **10.**[^c21197591] (1) The period condition is satisfied if the person carrying out the activity does so at any time on more than three[^c22087211] days in any period of 30 days.
 
-(2) In relation to an activity that falls within paragraph 2(1)(a), (b) or (c)[^key-dd0b742a3d44161ca1fc86781fca644f] [^key-494558542213bcc3fe1862c6a44888dc]..., the period condition is also satisfied if—
+(2) In relation to an activity that falls within paragraph 2(1)(a), (b) or (c)[^c-dd0b742a3d44161ca1fc86781fca644f] [^c-494558542213bcc3fe1862c6a44888dc]..., the period condition is also satisfied if—
 
 - (a) the person carrying out the activity does so at any time between 2 a.m. and 6 a.m, and
-- (b) the activity gives the person the opportunity to have face-to-face contact with children [^key-f40b4d824f4d7f38ebcf4e808c6b7353]....
+- (b) the activity gives the person the opportunity to have face-to-face contact with children [^c-f40b4d824f4d7f38ebcf4e808c6b7353]....
 
 ## Annotations
 
-[^key-75444ec1a3c219896d1c9cceb2cd6dad]: Textual amendment: Sch. 2 para. 7(1)-(3E) substituted for Sch. 2 para. 7(1)-(3) (10.8.2012 for specified purposes, 10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/2); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2075/article/2/b); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-75444ec1a3c219896d1c9cceb2cd6dad]: Textual amendment: Sch. 2 para. 7(1)-(3E) substituted for Sch. 2 para. 7(1)-(3) (10.8.2012 for specified purposes, 10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/2); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2075/article/2/b); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
 [^c21197491]: Commencement: Sch. 2 para. 1 wholly in operation; Sch. 2 para. 1 not in operation at date of making see art. 1(3); Sch. 2 para. 1 in operation for certain purposes at 14.4.2008 by [S.R. 2008/127](https://www.legislation.gov.uk/nisr/2008/127), [art. 4(c)](https://www.legislation.gov.uk/nisr/2008/127/article/4/c); Sch. 2 in operation at 13.3.2009 by [S.R. 2009/41](https://www.legislation.gov.uk/nisr/2009/41), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2009/41/article/3/1/b)
 
-[^key-40950a683606a04061df50e643f10937]: Textual amendment: Words in Sch. 2 para. 1(1)(b) inserted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(2)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/2); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-40950a683606a04061df50e643f10937]: Textual amendment: Words in Sch. 2 para. 1(1)(b) inserted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(2)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/2); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-0871165f4259dfe4c03a04b1d748ad75]: Textual amendment: Sch. 2 para. 1(1A)-(1D) inserted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(3)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/3); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-0871165f4259dfe4c03a04b1d748ad75]: Textual amendment: Sch. 2 para. 1(1A)-(1D) inserted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(3)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/3); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-993206356648833e1777e214b5ecfda5]: Textual amendment: Words in Sch. 2 para. 1(2)(c) substituted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/4); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-993206356648833e1777e214b5ecfda5]: Textual amendment: Words in Sch. 2 para. 1(2)(c) substituted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/4); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-c6edb24c40607f75c6f8f796b1551e10]: Textual amendment: Sch. 2 para. 1(2A)-(2C) inserted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(5)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-c6edb24c40607f75c6f8f796b1551e10]: Textual amendment: Sch. 2 para. 1(2A)-(2C) inserted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(5)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-9c91ed892950b90e56ec1e587be11ac6]: Textual amendment: Words in [Sch. 2 para. 1(2A)(b)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/1/2A/b) omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(2)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/2/a), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
+[^c-9c91ed892950b90e56ec1e587be11ac6]: Textual amendment: Words in [Sch. 2 para. 1(2A)(b)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/1/2A/b) omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(2)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/2/a), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
 
-[^key-ea2da973b06e8ffca7f4014fbd90c2b2]: Textual amendment: Words in [Sch. 2 para. 1(2B)(a)(ii)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/1/2B/a/ii) omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/2/b/i), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
+[^c-ea2da973b06e8ffca7f4014fbd90c2b2]: Textual amendment: Words in [Sch. 2 para. 1(2B)(a)(ii)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/1/2B/a/ii) omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/2/b/i), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
 
-[^key-31f09505c8c76bb743c90bf18e1e4cfe]: Textual amendment: [Sch. 2 para. 1(2B)(b)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/1/2B/b) and word omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/2/b/ii), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
+[^c-31f09505c8c76bb743c90bf18e1e4cfe]: Textual amendment: [Sch. 2 para. 1(2B)(b)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/1/2B/b) and word omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/2/b/ii), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
 
-[^key-f05c85174ed0611f7f48b2f82a16f22d]: Textual amendment: [Sch. 2 para. 1(2C)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/1/2C) omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(2)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/2/c), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
+[^c-f05c85174ed0611f7f48b2f82a16f22d]: Textual amendment: [Sch. 2 para. 1(2C)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/1/2C) omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(2)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/2/c), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
 
-[^key-6a7fcfa991a18d5c1b589097bdd7f920]: Textual amendment: Words in [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/1/6) substituted (13.2.2023) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 137(4)(b)](https://www.legislation.gov.uk/nia/2022/18/section/137/4/b), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2023/12](https://www.legislation.gov.uk/nisr/2023/12), [art. 2](https://www.legislation.gov.uk/nisr/2023/12/article/2)
+[^c-6a7fcfa991a18d5c1b589097bdd7f920]: Textual amendment: Words in [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/1/6) substituted (13.2.2023) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 137(4)(b)](https://www.legislation.gov.uk/nia/2022/18/section/137/4/b), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2023/12](https://www.legislation.gov.uk/nisr/2023/12), [art. 2](https://www.legislation.gov.uk/nisr/2023/12/article/2)
 
-[^key-15f7547c0640da9cf690a7ad1715b84e]: Textual amendment: Sch. 2 para. 1(6A) inserted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(6)(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/6/a); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-15f7547c0640da9cf690a7ad1715b84e]: Textual amendment: Sch. 2 para. 1(6A) inserted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(6)(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/6/a); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-c3632ee31a47b4576029087eabaa712d]: Textual amendment: Sch. 2 para. 1(7) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(6)(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/6/b), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i), (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-c3632ee31a47b4576029087eabaa712d]: Textual amendment: Sch. 2 para. 1(7) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(6)(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/6/b), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i), (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
 [^c22086801]: Textual amendment: Sch. 2 para. 1(7A) inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Regulated Activity, Devolution Alignment and Miscellaneous Provisions) Order (Northern Ireland) 2010 (S.R. 2010/30)](https://www.legislation.gov.uk/nisr/2010/30), [art. 4(2)](https://www.legislation.gov.uk/nisr/2010/30/article/4/2)
 
@@ -322,23 +322,23 @@ Article 9
 
 [^c22086911]: Textual amendment: Words in Sch. 2 para. 1(12) substituted (1.4.2010) by [Safeguarding Vulnerable Groups (Regulated Activity, Devolution Alignment and Miscellaneous Provisions) Order (Northern Ireland) 2010 (S.R. 2010/30)](https://www.legislation.gov.uk/nisr/2010/30), [art. 4(7)](https://www.legislation.gov.uk/nisr/2010/30/article/4/7)
 
-[^key-17412853d0d8d4c42251e4301994cc71]: Textual amendment: [Sch. 2 para. 1(13)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/1/13) omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(2)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/2/d), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
+[^c-17412853d0d8d4c42251e4301994cc71]: Textual amendment: [Sch. 2 para. 1(13)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/1/13) omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(2)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/2/d), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
 
 [^c21197501]: Commencement: Sch. 2 para. 2 wholly in operation; Sch. 2 para. 2 not in operation at date of making see art. 1(3); Sch. 2 para. 2 in operation for certain purposes at 14.4.2008 by [S.R. 2008/127](https://www.legislation.gov.uk/nisr/2008/127), [art. 4(c)](https://www.legislation.gov.uk/nisr/2008/127/article/4/c); Sch. 2 para. 2(1)(f) in operation for certain purposes at 29.5.2008 by [S.R. 2008/233](https://www.legislation.gov.uk/nisr/2008/233), [art. 4(w)](https://www.legislation.gov.uk/nisr/2008/233/article/4/w); Sch. 2 in operation at 13.3.2009 by [S.R. 2009/41](https://www.legislation.gov.uk/nisr/2009/41), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2009/41/article/3/1/b)
 
-[^key-51010cd3d6c717a73044f5a1e53410d0]: Textual amendment: Sch. 2 para. 2(1)(d) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(7)(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/7/a), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-51010cd3d6c717a73044f5a1e53410d0]: Textual amendment: Sch. 2 para. 2(1)(d) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(7)(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/7/a), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-ac00810af0791c836b50d5ddbcdeec65]: Textual amendment: Words in Sch. 2 para. 2(2) substituted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(7)(b)(i)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/7/b/i); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-ac00810af0791c836b50d5ddbcdeec65]: Textual amendment: Words in Sch. 2 para. 2(2) substituted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(7)(b)(i)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/7/b/i); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-032e33b844c72fd2bfdbb9df3edb73cd]: Textual amendment: Sch. 2 para. 2(2)(d) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(7)(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/7/b/ii), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-032e33b844c72fd2bfdbb9df3edb73cd]: Textual amendment: Sch. 2 para. 2(2)(d) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(7)(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/7/b/ii), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-2145bb2e1036d3b03d95549965d98d89]: Textual amendment: [Sch. 2 para. 2(3A)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/2/3A) omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/3/a), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
+[^c-2145bb2e1036d3b03d95549965d98d89]: Textual amendment: [Sch. 2 para. 2(3A)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/2/3A) omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(3)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/3/a), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
 
-[^key-830d6af6f57794ba46d90f7ab9819d17]: Textual amendment: Sch. 2 para. 2(3A)-(3D) inserted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(7)(c)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/7/c); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-830d6af6f57794ba46d90f7ab9819d17]: Textual amendment: Sch. 2 para. 2(3A)-(3D) inserted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(7)(c)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/7/c); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-223e5618e9f672fe96fe9487fd6c3b18]: Textual amendment: [Sch. 2 para. 2(3B)(b)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/2/3B/b) and word omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/3/b), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
+[^c-223e5618e9f672fe96fe9487fd6c3b18]: Textual amendment: [Sch. 2 para. 2(3B)(b)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/2/3B/b) and word omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/3/b), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
 
-[^key-1818e6198e0becf873d5a1c82dfef8cf]: Textual amendment: [Sch. 2 para. 2(3C)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/2/3C) omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/3/c), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
+[^c-1818e6198e0becf873d5a1c82dfef8cf]: Textual amendment: [Sch. 2 para. 2(3C)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/2/3C) omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/3/c), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
 
 [^c21197511]: Commencement: Sch. 2 para. 3 wholly in operation; Sch. 2 para. 3 not in operation at date of making see art. 1(3); Sch. 2 para. 3 in operation for certain purposes at 14.4.2008 by [S.R. 2008/127](https://www.legislation.gov.uk/nisr/2008/127), [art. 4(c)](https://www.legislation.gov.uk/nisr/2008/127/article/4/c); Sch. 2 in operation at 13.3.2009 by [S.R. 2009/41](https://www.legislation.gov.uk/nisr/2009/41), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2009/41/article/3/1/b)
 
@@ -346,25 +346,25 @@ Article 9
 
 [^c22086951]: Textual amendment: Sch. 2 para. 3(1)(bb) inserted (1.4.2010) by [Safeguarding Vulnerable Groups (Regulated Activity, Devolution Alignment and Miscellaneous Provisions) Order (Northern Ireland) 2010 (S.R. 2010/30)](https://www.legislation.gov.uk/nisr/2010/30), [art. 5(b)](https://www.legislation.gov.uk/nisr/2010/30/article/5/b)
 
-[^key-127e031596f436a0da2b474117a7f1ea]: Textual amendment: Words in [Sch. 2 para. 3(1)(bb)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/3/1/bb) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 26(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/26/3) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-127e031596f436a0da2b474117a7f1ea]: Textual amendment: Words in [Sch. 2 para. 3(1)(bb)](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/paragraph/3/1/bb) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 26(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/26/3) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c21494061]: Textual amendment: Sch. 2 para. 3(3)-(5) inserted (12.10.2009) by [Safeguarding Vulnerable Groups (Regulated Activity, Transitional Provisions and Commencement No. 4) Order (Northern Ireland) 2009 (S.R. 2009/304)](https://www.legislation.gov.uk/nisr/2009/304), [art. 23(2)](https://www.legislation.gov.uk/nisr/2009/304/article/23/2)
 
-[^key-2765b197134e65ef166f511d2eda711a]: Textual amendment: Sch. 2 para. 4 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(8)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/8), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-2765b197134e65ef166f511d2eda711a]: Textual amendment: Sch. 2 para. 4 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(8)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/8), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
 [^c21197531]: Commencement: Sch. 2 para. 4 wholly in operation; Sch. 2 para. 4 not in operation at date of making see art. 1(3); Sch. 2 para. 4 in operation for certain purposes at 14.4.2008 by [S.R. 2008/127](https://www.legislation.gov.uk/nisr/2008/127), [art. 4(c)](https://www.legislation.gov.uk/nisr/2008/127/article/4/c); Sch. 2 in operation at 13.3.2009 by [S.R. 2009/41](https://www.legislation.gov.uk/nisr/2009/41), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2009/41/article/3/1/b)
 
 [^c21197541]: Commencement: Sch. 2 para. 5 wholly in operation; Sch. 2 para. 5 not in operation at date of making see art. 1(3); Sch. 2 para. 5 in operation for certain purposes at 14.4.2008 by [S.R. 2008/127](https://www.legislation.gov.uk/nisr/2008/127), [art. 4(c)](https://www.legislation.gov.uk/nisr/2008/127/article/4/c); Sch. 2 in operation at 13.3.2009 by [S.R. 2009/41](https://www.legislation.gov.uk/nisr/2009/41), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2009/41/article/3/1/b)
 
-[^key-c6cc7cb12ee64ce7c8d73b4896dfddbb]: Textual amendment: [Sch. 2 para. 5A and cross-heading](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/part/I/crossheading/guidance) omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/4), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
+[^c-c6cc7cb12ee64ce7c8d73b4896dfddbb]: Textual amendment: [Sch. 2 para. 5A and cross-heading](https://www.legislation.gov.uk/nisi/2007/1351/schedule/2/part/I/crossheading/guidance) omitted (1.9.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 140(4)](https://www.legislation.gov.uk/ukpga/2026/20/section/140/4), [255(9)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/9); [S.R. 2026/153](https://www.legislation.gov.uk/nisr/2026/153), [art. 3](https://www.legislation.gov.uk/nisr/2026/153/article/3)
 
 [^c21197551]: Commencement: Sch. 2 para. 6 wholly in operation; Sch. 2 para. 6 not in operation at date of making see art. 1(3); Sch. 2 para. 6 in operation for certain purposes at 14.4.2008 by [S.R. 2008/127](https://www.legislation.gov.uk/nisr/2008/127), [art. 4(c)](https://www.legislation.gov.uk/nisr/2008/127/article/4/c); Sch. 2 para. 6 in operation for certain purposes at 29.5.2008 by [S.R. 2008/233](https://www.legislation.gov.uk/nisr/2008/233), [art. 5(o)](https://www.legislation.gov.uk/nisr/2008/233/article/5/o); Sch. 2 in operation at 13.3.2009 by [S.R. 2009/41](https://www.legislation.gov.uk/nisr/2009/41), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2009/41/article/3/1/b)
 
 [^c21197561]: Commencement: Sch. 2 para. 7 wholly in operation; Sch. 2 para. 7 not in operation at date of making see art. 1(3); Sch. 2 para. 7 in operation for certain purposes at 14.4.2008 by [S.R. 2008/127](https://www.legislation.gov.uk/nisr/2008/127), [art. 4(c)](https://www.legislation.gov.uk/nisr/2008/127/article/4/c); Sch. 2 para. 7(1)(f) in operation for certain purposes at 29.5.2008 by [S.R. 2008/233](https://www.legislation.gov.uk/nisr/2008/233), [art. 4(w)](https://www.legislation.gov.uk/nisr/2008/233/article/4/w); Sch. 2 in operation at 13.3.2009 by [S.R. 2009/41](https://www.legislation.gov.uk/nisr/2009/41), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2009/41/article/3/1/b)
 
-[^key-2aebbe44192309f8f84faa9f15fd9273]: Textual amendment: Sch. 2 para. 7(4) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 3(3)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/3), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-2aebbe44192309f8f84faa9f15fd9273]: Textual amendment: Sch. 2 para. 7(4) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 3(3)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/3), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-130497ed09375a19c83d44ef5b548947]: Textual amendment: Word in Sch. 2 para. 7(5) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 3(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/4), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-130497ed09375a19c83d44ef5b548947]: Textual amendment: Word in Sch. 2 para. 7(5) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 3(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/4), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
 [^c22087091]: Textual amendment: Words in Sch. 2 para. 7(5) substituted (1.4.2010) by [Safeguarding Vulnerable Groups (Regulated Activity, Devolution Alignment and Miscellaneous Provisions) Order (Northern Ireland) 2010 (S.R. 2010/30)](https://www.legislation.gov.uk/nisr/2010/30), [art. 8(2)](https://www.legislation.gov.uk/nisr/2010/30/article/8/2)
 
@@ -374,9 +374,9 @@ Article 9
 
 [^c22087171]: Textual amendment: Sch. 2 para. 7(8) omitted (1.4.2010) by virtue of [Safeguarding Vulnerable Groups (Regulated Activity, Devolution Alignment and Miscellaneous Provisions) Order (Northern Ireland) 2010 (S.R. 2010/30)](https://www.legislation.gov.uk/nisr/2010/30), [art. 8(5)](https://www.legislation.gov.uk/nisr/2010/30/article/8/5)
 
-[^key-8142f0f9a3eb6f3312d3ef72173b1977]: Textual amendment: Sch. 2 para. 7(9) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 3(5)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/5), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-8142f0f9a3eb6f3312d3ef72173b1977]: Textual amendment: Sch. 2 para. 7(9) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 3(5)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/5), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-1aa789fdc6b912b5424457f6a4321ff4]: Textual amendment: Sch. 2 para. 8 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 3(6)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/6), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-1aa789fdc6b912b5424457f6a4321ff4]: Textual amendment: Sch. 2 para. 8 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 3(6)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/6), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
 [^c21197571]: Commencement: Sch. 2 para. 8 wholly in operation; Sch. 2 para. 8 not in operation at date of making see art. 1(3); Sch. 2 para. 8 in operation for certain purposes at 14.4.2008 by [S.R. 2008/127](https://www.legislation.gov.uk/nisr/2008/127), [art. 4(c)](https://www.legislation.gov.uk/nisr/2008/127/article/4/c); Sch. 2 in operation at 13.3.2009 by [S.R. 2009/41](https://www.legislation.gov.uk/nisr/2009/41), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2009/41/article/3/1/b)
 
@@ -386,8 +386,8 @@ Article 9
 
 [^c22087211]: Textual amendment: Word in Sch. 2 para. 10(1) substituted (1.4.2010) by [Safeguarding Vulnerable Groups (Regulated Activity, Devolution Alignment and Miscellaneous Provisions) Order (Northern Ireland) 2010 (S.R. 2010/30)](https://www.legislation.gov.uk/nisr/2010/30), [art. 10](https://www.legislation.gov.uk/nisr/2010/30/article/10)
 
-[^key-dd0b742a3d44161ca1fc86781fca644f]: Textual amendment: Words in Sch. 2 para. 10(2) substituted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(9)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/9); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-dd0b742a3d44161ca1fc86781fca644f]: Textual amendment: Words in Sch. 2 para. 10(2) substituted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 1(9)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/1/9); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-494558542213bcc3fe1862c6a44888dc]: Textual amendment: Words in Sch. 2 para. 10(2) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 3(7)(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/7/a), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-494558542213bcc3fe1862c6a44888dc]: Textual amendment: Words in Sch. 2 para. 10(2) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 3(7)(a)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/7/a), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
 
-[^key-f40b4d824f4d7f38ebcf4e808c6b7353]: Textual amendment: Words in Sch. 2 para. 10(2)(b) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 3(7)(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/7/b), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)
+[^c-f40b4d824f4d7f38ebcf4e808c6b7353]: Textual amendment: Words in Sch. 2 para. 10(2)(b) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 7 para. 3(7)(b)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/7/paragraph/3/7/b), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(z)(i) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/z/i)

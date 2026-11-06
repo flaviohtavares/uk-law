@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Right of under 18s to have access to other person[^key-d9c6205d8f60c6bc680dea8463713238][^key-3914eb01587d9f6eb7bcd29e45e21d64][^key-28387ce14776d960d15703323185f833]
+## 40. Right of under 18s to have access to other person[^c-d9c6205d8f60c6bc680dea8463713238][^c-3914eb01587d9f6eb7bcd29e45e21d64][^c-28387ce14776d960d15703323185f833]
 
 *Extent: S*
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d9c6205d8f60c6bc680dea8463713238]: Commencement: S. 40 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-d9c6205d8f60c6bc680dea8463713238]: Commencement: S. 40 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
 
-[^key-3914eb01587d9f6eb7bcd29e45e21d64]: Modification: S. 40 applied (12.2.2019 for specified purposes, 13.8.2020 in so far as not already in force) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(1)(g)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/g), [Sch. 3 para. 40(2)(c)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/40/2/c) (with [s. 25(9)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/9)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
+[^c-3914eb01587d9f6eb7bcd29e45e21d64]: Modification: S. 40 applied (12.2.2019 for specified purposes, 13.8.2020 in so far as not already in force) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(1)(g)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/g), [Sch. 3 para. 40(2)(c)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/3/paragraph/40/2/c) (with [s. 25(9)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/9)); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/g)
 
-[^key-28387ce14776d960d15703323185f833]: Modification: [S. 40](https://www.legislation.gov.uk/asp/2016/1/section/40) applied (with modifications) (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 6 para. 17(2)(c)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/6/paragraph/17/2/c) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-28387ce14776d960d15703323185f833]: Modification: [S. 40](https://www.legislation.gov.uk/asp/2016/1/section/40) applied (with modifications) (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 6 para. 17(2)(c)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/6/paragraph/17/2/c) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

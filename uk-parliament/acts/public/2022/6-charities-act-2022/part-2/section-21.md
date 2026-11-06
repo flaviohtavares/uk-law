@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Advice etc from charity trustees, officers and employees[^key-de93c9b575c6a0e37db23c0b5ab9932a][^key-1f2a08f231466199f508832ed7213ece]
+## 21. Advice etc from charity trustees, officers and employees[^c-de93c9b575c6a0e37db23c0b5ab9932a][^c-1f2a08f231466199f508832ed7213ece]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de93c9b575c6a0e37db23c0b5ab9932a]: Commencement: S. 21 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-de93c9b575c6a0e37db23c0b5ab9932a]: Commencement: S. 21 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-1f2a08f231466199f508832ed7213ece]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/6/section/21) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/10)
+[^c-1f2a08f231466199f508832ed7213ece]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2022/6/section/21) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/10)

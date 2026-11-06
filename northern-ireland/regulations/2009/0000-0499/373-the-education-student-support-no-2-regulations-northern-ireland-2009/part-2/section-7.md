@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Period of eligibility[^key-ff870e530b978dafde1e130ab09665a6]
+## 7. Period of eligibility[^c-ff870e530b978dafde1e130ab09665a6]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff870e530b978dafde1e130ab09665a6]: Commencement: Reg. 7 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-ff870e530b978dafde1e130ab09665a6]: Commencement: Reg. 7 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

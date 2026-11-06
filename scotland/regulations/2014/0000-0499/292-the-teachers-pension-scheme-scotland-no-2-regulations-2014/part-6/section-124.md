@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. When a retirement pension does not become payable[^key-50b55aca751342a04cc479308b2159bc]
+## 124. When a retirement pension does not become payable[^c-50b55aca751342a04cc479308b2159bc]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ For the purpose of this Part—
 
 ## Annotations
 
-[^key-50b55aca751342a04cc479308b2159bc]: Commencement: [Reg. 124](https://www.legislation.gov.uk/ssi/2014/292/regulation/124) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-50b55aca751342a04cc479308b2159bc]: Commencement: [Reg. 124](https://www.legislation.gov.uk/ssi/2014/292/regulation/124) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

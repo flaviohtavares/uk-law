@@ -69,7 +69,7 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-## Article 1. Subject matter[^key-6e565c77104d4ba3a2f66f3bcfc7643b]
+## Article 1. Subject matter[^c-6e565c77104d4ba3a2f66f3bcfc7643b]
 
 This Decision lays down detailed rules on the obligations of appropriate authorities to monitor the implementation and use of their infrastructures for spatial information and for reporting on that monitoring.
 
@@ -93,7 +93,7 @@ In this Decision, “appropriate authority” means—
 - (a) the number of spatial data sets for which metadata exist (‘DSi1,1’);
 - (b) the number of spatial data services for which metadata exist (‘DSi1,2’).
 
-2. The following indicator shall be used to measure the number of spatial data sets that are already used by the appropriate authority for reporting under[^key-1b055028fb842bbe8b4bcc04fd01b999] environmental legislation: the number of spatial data sets for which the metadata contains a keyword from a register , which the appropriate authority must approve, or maintain and provide, for the purposes of this Article,[^key-b4f07038975057b8bfe7491abef56bd5] indicating that the spatial data set is used for reporting under the environmental legislation (‘DSi1,3’).
+2. The following indicator shall be used to measure the number of spatial data sets that are already used by the appropriate authority for reporting under[^c-1b055028fb842bbe8b4bcc04fd01b999] environmental legislation: the number of spatial data sets for which the metadata contains a keyword from a register , which the appropriate authority must approve, or maintain and provide, for the purposes of this Article,[^c-b4f07038975057b8bfe7491abef56bd5] indicating that the spatial data set is used for reporting under the environmental legislation (‘DSi1,3’).
 
 3. The following indicators shall be used to measure the number of the spatial data sets that respectively cover regional or national territory:
 
@@ -102,7 +102,7 @@ In this Decision, “appropriate authority” means—
 
 ## Article 4. Monitoring of the conformity of metadata with Commission Regulation (EC) No 1205/2008[^f00007]
 
-The following indicators shall be used to measure the percentage of metadata for spatial data sets and spatial data services that are published by appropriate authorities[^key-21cd4d4cb8ba871ec7b5b0fac33b6f16] through the discovery services referred to in regulation 7(2)(a) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2)(a) of the INSPIRE (Scotland) Regulations 2009[^key-e1ffed2140543a5d334c6c262ee90557] that are in conformity with Regulation (EC) No 1205/2008 as regards metadata:
+The following indicators shall be used to measure the percentage of metadata for spatial data sets and spatial data services that are published by appropriate authorities[^c-21cd4d4cb8ba871ec7b5b0fac33b6f16] through the discovery services referred to in regulation 7(2)(a) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2)(a) of the INSPIRE (Scotland) Regulations 2009[^c-e1ffed2140543a5d334c6c262ee90557] that are in conformity with Regulation (EC) No 1205/2008 as regards metadata:
 
 - ((a)) the number of spatial data sets for which metadata are in conformity with Regulation (EC) No 1205/2008 multiplied by a hundred and divided by the number of spatial data sets for which metadata exist as given by indicator ‘DSi1,1’ (‘MDi1,1’);
 - ((b)) the number of spatial data services for which metadata are in conformity with Regulation (EC) No 1205/2008 multiplied by a hundred and divided by the number of spatial data services for which metadata exist as given by indicator ‘DSi1,2’ (‘MDi1,2’).
@@ -112,13 +112,13 @@ The following indicators shall be used to measure the percentage of metadata for
 The following indicators shall be used to measure the percentage of spatial data sets that are in conformity with Regulation (EU) No 1089/2010 as regards interoperability of spatial data sets:
 
 - ((a)) the number of spatial data sets which are in conformity with Regulation (EU) No 1089/2010 multiplied by a hundred and divided by the number of spatial data sets as given by indicator ‘DSi1,1’ (‘DSi2’);
-- ((b)) the number of spatial data sets corresponding to the themes listed in Annex 1 to[^key-057c736c2b147aa66f690e998297e358] [Commission Regulation (EC) No 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205) which are in conformity with Regulation (EU) No 1089/2010 multiplied by a hundred and divided by the number of spatial data sets corresponding to the themes listed in that Annex (‘DSi2,1’);
-- ((c)) the number of spatial data sets corresponding to the themes listed in Annex 2 to[^key-71a6cd8ac7d9f1eaf2788a909914af1d] [Commission Regulation (EC) No 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205) which are in conformity with Regulation (EU) No 1089/2010 multiplied by a hundred and divided by the number of spatial data sets corresponding to the themes listed in that Annex (‘DSi2,2’);
-- ((d)) the number of spatial data sets corresponding to the themes listed in Annex 3 to[^key-1bf888ba906af1af5f939b440f1e9669] [Commission Regulation (EC) No 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205) which are in conformity with Regulation (EU) No 1089/2010 multiplied by a hundred and divided by the number of spatial data sets corresponding to the themes listed in that Annex (‘DSi2,3’).
+- ((b)) the number of spatial data sets corresponding to the themes listed in Annex 1 to[^c-057c736c2b147aa66f690e998297e358] [Commission Regulation (EC) No 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205) which are in conformity with Regulation (EU) No 1089/2010 multiplied by a hundred and divided by the number of spatial data sets corresponding to the themes listed in that Annex (‘DSi2,1’);
+- ((c)) the number of spatial data sets corresponding to the themes listed in Annex 2 to[^c-71a6cd8ac7d9f1eaf2788a909914af1d] [Commission Regulation (EC) No 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205) which are in conformity with Regulation (EU) No 1089/2010 multiplied by a hundred and divided by the number of spatial data sets corresponding to the themes listed in that Annex (‘DSi2,2’);
+- ((d)) the number of spatial data sets corresponding to the themes listed in Annex 3 to[^c-1bf888ba906af1af5f939b440f1e9669] [Commission Regulation (EC) No 1205/2008](https://www.legislation.gov.uk/european/regulation/2008/1205) which are in conformity with Regulation (EU) No 1089/2010 multiplied by a hundred and divided by the number of spatial data sets corresponding to the themes listed in that Annex (‘DSi2,3’).
 
 ## Article 6. Monitoring of the accessibility of spatial data sets through view and download services
 
-The following indicators shall be used to measure the percentage of spatial data sets that are accessible through the view services and the download services referred to in regulation 7(2)(b) and (c) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2)(b) and (c) of the INSPIRE (Scotland) Regulations 2009[^key-1d7d29602aecea57cd614b484d249fc9]:
+The following indicators shall be used to measure the percentage of spatial data sets that are accessible through the view services and the download services referred to in regulation 7(2)(b) and (c) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2)(b) and (c) of the INSPIRE (Scotland) Regulations 2009[^c-1d7d29602aecea57cd614b484d249fc9]:
 
 - ((a)) the number of spatial data sets for which both view and download services exist multiplied by a hundred and divided by the number of spatial data sets as given by indicator DSi1,1(‘NSi2’);
 - ((b)) the number of spatial data sets for which a view service exists multiplied by a hundred and divided by the number of spatial data sets as given by indicator DSi1,1 (‘NSi2,1’);
@@ -126,7 +126,7 @@ The following indicators shall be used to measure the percentage of spatial data
 
 ## Article 7. Monitoring of the conformity of network services with Commission Regulation (EC) No 976/2009[^f00009]
 
-The following indicators shall be used to measure the percentage of the network services referred to in regulation 7(2) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2) of the INSPIRE (Scotland) Regulations 2009[^key-9d36cfc9f4c0343164b37e21d92b93d6] that are in conformity with Regulation (EC) No 976/2009 as regards the Network Services:
+The following indicators shall be used to measure the percentage of the network services referred to in regulation 7(2) of the INSPIRE Regulations 2009 or, as the case may be, regulation 8(2) of the INSPIRE (Scotland) Regulations 2009[^c-9d36cfc9f4c0343164b37e21d92b93d6] that are in conformity with Regulation (EC) No 976/2009 as regards the Network Services:
 
 - ((a)) the number of network services which are in conformity with Regulation (EC) No 976/2009 multiplied by a hundred and divided by the total number of network services (‘NSi4’);
 - ((b)) the number of discovery services which are in conformity with Regulation (EC) No 976/2009 multiplied by a hundred and divided by the total number of discovery services (‘NSi4,1’);
@@ -136,9 +136,9 @@ The following indicators shall be used to measure the percentage of the network 
 
 ## Article 8. Publication of the monitoring results
 
-The results of the monitoring under regulation 14 of the INSPIRE Regulations 2009 or, as the case may be, regulation 15 of the INSPIRE (Scotland) Regulations 2009[^key-ddd0612736acc271db74f47121939298] shall be published by 31 March of each year at the latest in respect of the status of the implementation of the infrastructure for spatial information on 15 December the preceding year. The results shall be updated at least every year.
+The results of the monitoring under regulation 14 of the INSPIRE Regulations 2009 or, as the case may be, regulation 15 of the INSPIRE (Scotland) Regulations 2009[^c-ddd0612736acc271db74f47121939298] shall be published by 31 March of each year at the latest in respect of the status of the implementation of the infrastructure for spatial information on 15 December the preceding year. The results shall be updated at least every year.
 
-## Article 9. Updating summary reports[^key-e561fcde18a3ce7f68086e243bdcaa1c]
+## Article 9. Updating summary reports[^c-e561fcde18a3ce7f68086e243bdcaa1c]
 
 (1.) By no later than 31 March 2021, the appropriate authority shall publish a report containing summary descriptions of:
 
@@ -156,15 +156,15 @@ The results of the monitoring under regulation 14 of the INSPIRE Regulations 200
 
 (3.) By no later than 31 March in each year following 2021, the appropriate authority shall, if necessary, update the report described in paragraph 1 and, if the report is updated, publish the updated report.
 
-## Article 10. Repeal[^key-ed34d17f93da34367190de18b70ea9d3]
+## Article 10. Repeal[^c-ed34d17f93da34367190de18b70ea9d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Addressees[^key-f085a92cbec19f0d68f8a60134a4f0ec]
+## Article 11. Addressees[^c-f085a92cbec19f0d68f8a60134a4f0ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ec206be7d7303891685a5c2508a5d81]...
+[^c-1ec206be7d7303891685a5c2508a5d81]...
 
 ## Annotations
 
@@ -180,38 +180,38 @@ The results of the monitoring under regulation 14 of the INSPIRE Regulations 200
 
 [^f00006]: Footnote: SWD(2017) 230 final; the complete list appears in annex 1 of it (section 8.1 of the document).
 
-[^key-6e565c77104d4ba3a2f66f3bcfc7643b]: Textual amendment: [Arts. 1-2](https://www.legislation.gov.uk/eudn/2019/1372/article/1) substituted for Arts. 1, 2 (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/2)
+[^c-6e565c77104d4ba3a2f66f3bcfc7643b]: Textual amendment: [Arts. 1-2](https://www.legislation.gov.uk/eudn/2019/1372/article/1) substituted for Arts. 1, 2 (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/2)
 
-[^key-1b055028fb842bbe8b4bcc04fd01b999]: Textual amendment: Words in Art. 3 substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/3/b)
+[^c-1b055028fb842bbe8b4bcc04fd01b999]: Textual amendment: Words in Art. 3 substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/3/b)
 
-[^key-b4f07038975057b8bfe7491abef56bd5]: Textual amendment: Words in Art. 3(2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/3/a)
+[^c-b4f07038975057b8bfe7491abef56bd5]: Textual amendment: Words in Art. 3(2) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/3/a)
 
 [^f00007]: Footnote: Commission Regulation (EC) No 1205/2008 of 3 December 2008 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards metadata ([OJ L 326, 4.12.2008, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.326.01.0012.01.ENG)).
 
-[^key-21cd4d4cb8ba871ec7b5b0fac33b6f16]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eudn/2019/1372/article/4) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/4/a)
+[^c-21cd4d4cb8ba871ec7b5b0fac33b6f16]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eudn/2019/1372/article/4) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/4/a)
 
-[^key-e1ffed2140543a5d334c6c262ee90557]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eudn/2019/1372/article/4) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/4/b)
+[^c-e1ffed2140543a5d334c6c262ee90557]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eudn/2019/1372/article/4) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/4/b)
 
 [^f00008]: Footnote: Commission Regulation (EU) No 1089/2010 of 23 November 2010 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards interoperability of spatial data sets and services ([OJ L 323, 8.12.2010, p. 11](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.323.01.0011.01.ENG)).
 
-[^key-057c736c2b147aa66f690e998297e358]: Textual amendment: Words in [Art. 5(b)](https://www.legislation.gov.uk/eudn/2019/1372/article/5/b) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/5/a)
+[^c-057c736c2b147aa66f690e998297e358]: Textual amendment: Words in [Art. 5(b)](https://www.legislation.gov.uk/eudn/2019/1372/article/5/b) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/5/a)
 
-[^key-71a6cd8ac7d9f1eaf2788a909914af1d]: Textual amendment: Words in [Art. 5(c)](https://www.legislation.gov.uk/eudn/2019/1372/article/5/c) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/5/b)
+[^c-71a6cd8ac7d9f1eaf2788a909914af1d]: Textual amendment: Words in [Art. 5(c)](https://www.legislation.gov.uk/eudn/2019/1372/article/5/c) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/5/b)
 
-[^key-1bf888ba906af1af5f939b440f1e9669]: Textual amendment: Words in [Art. 5(d)](https://www.legislation.gov.uk/eudn/2019/1372/article/5/d) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(5)(c)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/5/c)
+[^c-1bf888ba906af1af5f939b440f1e9669]: Textual amendment: Words in [Art. 5(d)](https://www.legislation.gov.uk/eudn/2019/1372/article/5/d) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(5)(c)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/5/c)
 
-[^key-1d7d29602aecea57cd614b484d249fc9]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eudn/2019/1372/article/6) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/6)
+[^c-1d7d29602aecea57cd614b484d249fc9]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eudn/2019/1372/article/6) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/6)
 
 [^f00009]: Footnote: Commission Regulation (EC) No 976/2009 of 19 October 2009 implementing Directive 2007/2/EC of the European Parliament and of the Council as regards the Network Services ([OJ L 274, 20.10.2009, p. 9](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.274.01.0009.01.ENG)).
 
-[^key-9d36cfc9f4c0343164b37e21d92b93d6]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eudn/2019/1372/article/7) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(7)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/7)
+[^c-9d36cfc9f4c0343164b37e21d92b93d6]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eudn/2019/1372/article/7) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(7)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/7)
 
-[^key-ddd0612736acc271db74f47121939298]: Textual amendment: Words in [Art. 8](https://www.legislation.gov.uk/eudn/2019/1372/article/8) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(8)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/8)
+[^c-ddd0612736acc271db74f47121939298]: Textual amendment: Words in [Art. 8](https://www.legislation.gov.uk/eudn/2019/1372/article/8) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(8)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/8)
 
-[^key-e561fcde18a3ce7f68086e243bdcaa1c]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eudn/2019/1372/article/9) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(9)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/9)
+[^c-e561fcde18a3ce7f68086e243bdcaa1c]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eudn/2019/1372/article/9) substituted (31.12.2020) by [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(9)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/9)
 
-[^key-ed34d17f93da34367190de18b70ea9d3]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eudn/2019/1372/article/10) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(10)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/10)
+[^c-ed34d17f93da34367190de18b70ea9d3]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eudn/2019/1372/article/10) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(10)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/10)
 
-[^key-f085a92cbec19f0d68f8a60134a4f0ec]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/eudn/2019/1372/article/11) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(10)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/10)
+[^c-f085a92cbec19f0d68f8a60134a4f0ec]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/eudn/2019/1372/article/11) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(10)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/10)
 
-[^key-1ec206be7d7303891685a5c2508a5d81]: Textual amendment: Words in [signature](https://www.legislation.gov.uk/eudn/2019/1372/signature) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(10)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/10)
+[^c-1ec206be7d7303891685a5c2508a5d81]: Textual amendment: Words in [signature](https://www.legislation.gov.uk/eudn/2019/1372/signature) omitted (31.12.2020) by virtue of [The INSPIRE (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1091)](https://www.legislation.gov.uk/uksi/2020/1091), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/1/3), [2(10)](https://www.legislation.gov.uk/uksi/2020/1091/regulation/2/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Enforcement order[^key-42f2d86296eb2a542f77f910964596b4]
+## 33. Enforcement order[^c-42f2d86296eb2a542f77f910964596b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42f2d86296eb2a542f77f910964596b4]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2012/19/section/33) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-42f2d86296eb2a542f77f910964596b4]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2012/19/section/33) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

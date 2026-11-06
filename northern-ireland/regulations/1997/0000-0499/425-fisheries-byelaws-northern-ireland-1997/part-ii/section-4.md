@@ -20,11 +20,11 @@ summary: ''
 
 **Not yet in force.**
 
-**4.**[^key-778e1089ea36f2f6f0f6f7e9b5c71dc5] Subject to Part III of the Act there shall be payable to the Board in respect of—
+**4.**[^c-778e1089ea36f2f6f0f6f7e9b5c71dc5] Subject to Part III of the Act there shall be payable to the Board in respect of—
 
 - (a) a fishing rod licence specified in column (1) of Part I of Schedule 1, a duty of the amount set out opposite thereto in column (2) of that Part;
 - (b) a fishing engine specified in column (1) of Part II of Schedule 1, a duty of the amount set out opposite thereto in column (2) of that Part.
 
 ## Annotations
 
-[^key-778e1089ea36f2f6f0f6f7e9b5c71dc5]: Commencement: S. 4 in operation at 1.11.1997, see byelaw 1
+[^c-778e1089ea36f2f6f0f6f7e9b5c71dc5]: Commencement: S. 4 in operation at 1.11.1997, see byelaw 1

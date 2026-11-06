@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Payments where certificates are held by persons jointly[^key-20fe8b69b46fe48db26e1cbeceb41956]
+## 50. Payments where certificates are held by persons jointly[^c-20fe8b69b46fe48db26e1cbeceb41956]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20fe8b69b46fe48db26e1cbeceb41956]: Commencement: Reg. 50 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-20fe8b69b46fe48db26e1cbeceb41956]: Commencement: Reg. 50 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

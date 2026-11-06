@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — Assessment of whether a claimant has limited capability for work-related activity[^key-2c0ffe7dd0d33f83661c1e2570a7cd85]
+## SCHEDULE 3 — Assessment of whether a claimant has limited capability for work-related activity[^c-2c0ffe7dd0d33f83661c1e2570a7cd85]
 
 *Extent: N.I.*
 
@@ -70,4 +70,4 @@ Regulation 30(1)
 
 ## Annotations
 
-[^key-2c0ffe7dd0d33f83661c1e2570a7cd85]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2016/219/schedule/3) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-2c0ffe7dd0d33f83661c1e2570a7cd85]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2016/219/schedule/3) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

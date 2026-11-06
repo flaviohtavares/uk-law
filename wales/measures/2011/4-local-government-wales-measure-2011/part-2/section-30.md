@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Guidance[^key-16b2b34982c58f42d41e2abaca4a4fd8]
+## 30. Guidance[^c-16b2b34982c58f42d41e2abaca4a4fd8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ When exercising its functions, a local authority must have regard to guidance gi
 
 ## Annotations
 
-[^key-16b2b34982c58f42d41e2abaca4a4fd8]: Commencement: [S. 30](https://www.legislation.gov.uk/mwa/2011/4/section/30) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)
+[^c-16b2b34982c58f42d41e2abaca4a4fd8]: Commencement: [S. 30](https://www.legislation.gov.uk/mwa/2011/4/section/30) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)

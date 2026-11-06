@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. The Consumer Credit Appeals Tribunal[^key-5887a23cc2fd28aa9adb9dbce6e5e459]
+## 55. The Consumer Credit Appeals Tribunal[^c-5887a23cc2fd28aa9adb9dbce6e5e459]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5887a23cc2fd28aa9adb9dbce6e5e459]: Textual amendment: [S. 55](https://www.legislation.gov.uk/ukpga/2006/14/section/55) repealed (1.9.2009) by [Transfer of Functions of the Consumer Credit Appeals Tribunal Order 2009 (S.I. 2009/1835)](https://www.legislation.gov.uk/uksi/2009/1835), [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1835/schedule/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4))
+[^c-5887a23cc2fd28aa9adb9dbce6e5e459]: Textual amendment: [S. 55](https://www.legislation.gov.uk/ukpga/2006/14/section/55) repealed (1.9.2009) by [Transfer of Functions of the Consumer Credit Appeals Tribunal Order 2009 (S.I. 2009/1835)](https://www.legislation.gov.uk/uksi/2009/1835), [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1835/schedule/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4))

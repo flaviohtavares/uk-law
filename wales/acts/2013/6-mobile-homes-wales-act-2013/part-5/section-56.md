@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Power to provide sites for mobile homes[^key-8f58b67f2c96d87c79ebea86c21d2eff][^key-e1d235339a498cb1e9019c861363a405][^key-57610ddcdc2810445e11887b9551b55f]
+## 56. Power to provide sites for mobile homes[^c-8f58b67f2c96d87c79ebea86c21d2eff][^c-e1d235339a498cb1e9019c861363a405][^c-57610ddcdc2810445e11887b9551b55f]
 
 *Extent: E+W*
 
@@ -54,8 +54,8 @@ acquire land, or any interest in land, compulsorily.
 
 ## Annotations
 
-[^key-8f58b67f2c96d87c79ebea86c21d2eff]: Modification: [S. 56](https://www.legislation.gov.uk/anaw/2013/6/section/56) modified by 1995 c. 25, Sch. 9 para. 4A(a) (as inserted (5.11.2013) by [Mobile Homes (Wales) Act 2013 (anaw 6)](https://www.legislation.gov.uk/anaw/2013/6), [s. 64(1)](https://www.legislation.gov.uk/anaw/2013/6/section/64/1), [Sch. 4 para. 8(3)](https://www.legislation.gov.uk/anaw/2013/6/schedule/4/paragraph/8/3) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/5/paragraph/7)) (this amendment is to be treated as not having effect until 1.10.2014 by virtue of S.I. 2014/11, art. 3(2)))
+[^c-8f58b67f2c96d87c79ebea86c21d2eff]: Modification: [S. 56](https://www.legislation.gov.uk/anaw/2013/6/section/56) modified by 1995 c. 25, Sch. 9 para. 4A(a) (as inserted (5.11.2013) by [Mobile Homes (Wales) Act 2013 (anaw 6)](https://www.legislation.gov.uk/anaw/2013/6), [s. 64(1)](https://www.legislation.gov.uk/anaw/2013/6/section/64/1), [Sch. 4 para. 8(3)](https://www.legislation.gov.uk/anaw/2013/6/schedule/4/paragraph/8/3) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/5/paragraph/7)) (this amendment is to be treated as not having effect until 1.10.2014 by virtue of S.I. 2014/11, art. 3(2)))
 
-[^key-e1d235339a498cb1e9019c861363a405]: Commencement: [S. 56](https://www.legislation.gov.uk/anaw/2013/6/section/56) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(e)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-e1d235339a498cb1e9019c861363a405]: Commencement: [S. 56](https://www.legislation.gov.uk/anaw/2013/6/section/56) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(e)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/e) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-57610ddcdc2810445e11887b9551b55f]: Modification: [S. 56](https://www.legislation.gov.uk/anaw/2013/6/section/56) modified (16.3.2016) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 103](https://www.legislation.gov.uk/anaw/2014/7/section/103), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2016/266](https://www.legislation.gov.uk/wsi/2016/266), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/266/article/2/a)
+[^c-57610ddcdc2810445e11887b9551b55f]: Modification: [S. 56](https://www.legislation.gov.uk/anaw/2013/6/section/56) modified (16.3.2016) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 103](https://www.legislation.gov.uk/anaw/2014/7/section/103), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2016/266](https://www.legislation.gov.uk/wsi/2016/266), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/266/article/2/a)

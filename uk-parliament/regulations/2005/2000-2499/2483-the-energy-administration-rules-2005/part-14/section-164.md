@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 164. General provisions as to service and notice[^key-8443074a316ff2cff61c1eb7b6b74548]
+## 164. General provisions as to service and notice[^c-8443074a316ff2cff61c1eb7b6b74548]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to Rule 163 and 165, CPR Part 6 (service of documents) applies as regard
 
 ## Annotations
 
-[^key-8443074a316ff2cff61c1eb7b6b74548]: Commencement: Rule 164 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-8443074a316ff2cff61c1eb7b6b74548]: Commencement: Rule 164 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

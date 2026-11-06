@@ -24,9 +24,9 @@ Section 33(1)
 
 ### PART 1 — Amendments to Land Registration Act 2002
 
-**1.**[^key-c18245206a7332cad69ad58cd2c0ca46][^key-6de2dc6c724108eb8419823f2fbd1b56] The Land Registration Act 2002 is amended as follows.
+**1.**[^c-c18245206a7332cad69ad58cd2c0ca46][^c-6de2dc6c724108eb8419823f2fbd1b56] The Land Registration Act 2002 is amended as follows.
 
-**2.**[^key-2f359d5ceb583678c09ff8d5d140a1c7][^key-cd61c91ba11ff366707a773f8e127efa] After section 85 insert—
+**2.**[^c-2f359d5ceb583678c09ff8d5d140a1c7][^c-cd61c91ba11ff366707a773f8e127efa] After section 85 insert—
 
 > **Overseas entities**
 >
@@ -34,7 +34,7 @@ Section 33(1)
 >
 > Schedule 4A is about the ownership of registered land by overseas entities and about registrable dispositions made by them.
 
-**3.**[^key-dfe81bfbb044c94225cc7a93e5b91946][^key-cdfc3eab2cfd7cfcf93e426ee4be4be1] After Schedule 4 insert—
+**3.**[^c-dfe81bfbb044c94225cc7a93e5b91946][^c-cdfc3eab2cfd7cfcf93e426ee4be4be1] After Schedule 4 insert—
 
 > **SCHEDULE 4A — Overseas entities**
 >
@@ -155,7 +155,7 @@ Section 33(1)
 >
 > (2) For the purpose of sub-paragraph (1), an overseas entity “remedies” the failure when it delivers the statements and information mentioned in section 7(1)(a), (b) and (c) of the 2022 Act.
 
-**4.**[^key-72568cbc47436e501d23821908c08937][^key-c5781ed14071550bac89fa7717a4e09e] In section 128 (regulations), in subsection (4)—
+**4.**[^c-72568cbc47436e501d23821908c08937][^c-c5781ed14071550bac89fa7717a4e09e] In section 128 (regulations), in subsection (4)—
 
 - (a) omit the “or” at the end of paragraph (b);
 - (b) at the end of paragraph (d) insert
@@ -166,7 +166,7 @@ Section 33(1)
 
 ### PART 2 — Transition: qualifying estates registered pre-commencement
 
-#### 5. Duty of proprietor to register as an overseas entity within transitional period[^key-8cea4f0b36aaefcce89bc0c24dce6836][^key-9774d13705ba2dbf29ad668d0ca743b8]
+#### 5. Duty of proprietor to register as an overseas entity within transitional period[^c-8cea4f0b36aaefcce89bc0c24dce6836][^c-9774d13705ba2dbf29ad668d0ca743b8]
 
 (1) An overseas entity, and every officer of the entity who is in default, commits an offence if—
 
@@ -189,7 +189,7 @@ Section 33(1)
 
 (5) Nothing in this paragraph limits the power to give a notice under section 34 at any time.
 
-#### 6. Registrar’s duty to enter restriction in relation to qualifying estate[^key-375dfaf50b8ee5eca9be6d1f321cf8b2][^key-741abe0af6ddb2d1d34cf696fa43e347]
+#### 6. Registrar’s duty to enter restriction in relation to qualifying estate[^c-375dfaf50b8ee5eca9be6d1f321cf8b2][^c-741abe0af6ddb2d1d34cf696fa43e347]
 
 (1) This paragraph applies where the Chief Land Registrar is satisfied that—
 
@@ -200,7 +200,7 @@ Section 33(1)
 
 (3) But the restriction does not take effect until the end of the transitional period.
 
-#### 7. Interpretation[^key-a528d1bb4a3382d7569be8b050d56e40][^key-12f4bd276a824dffe2efbfd3ef3f5732]
+#### 7. Interpretation[^c-a528d1bb4a3382d7569be8b050d56e40][^c-12f4bd276a824dffe2efbfd3ef3f5732]
 
 In this Part of this Schedule—
 
@@ -211,30 +211,30 @@ In this Part of this Schedule—
 
 ## Annotations
 
-[^key-c18245206a7332cad69ad58cd2c0ca46]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-c18245206a7332cad69ad58cd2c0ca46]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-6de2dc6c724108eb8419823f2fbd1b56]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/1) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-6de2dc6c724108eb8419823f2fbd1b56]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/1) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-2f359d5ceb583678c09ff8d5d140a1c7]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-2f359d5ceb583678c09ff8d5d140a1c7]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-cd61c91ba11ff366707a773f8e127efa]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/2) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-cd61c91ba11ff366707a773f8e127efa]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/2) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-dfe81bfbb044c94225cc7a93e5b91946]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-dfe81bfbb044c94225cc7a93e5b91946]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-cdfc3eab2cfd7cfcf93e426ee4be4be1]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/3) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-cdfc3eab2cfd7cfcf93e426ee4be4be1]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/3) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-72568cbc47436e501d23821908c08937]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-72568cbc47436e501d23821908c08937]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-c5781ed14071550bac89fa7717a4e09e]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/4) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-c5781ed14071550bac89fa7717a4e09e]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/4) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-8cea4f0b36aaefcce89bc0c24dce6836]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-8cea4f0b36aaefcce89bc0c24dce6836]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-9774d13705ba2dbf29ad668d0ca743b8]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/5) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-9774d13705ba2dbf29ad668d0ca743b8]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/5) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-375dfaf50b8ee5eca9be6d1f321cf8b2]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-375dfaf50b8ee5eca9be6d1f321cf8b2]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-741abe0af6ddb2d1d34cf696fa43e347]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/6) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-741abe0af6ddb2d1d34cf696fa43e347]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/6) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-a528d1bb4a3382d7569be8b050d56e40]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-a528d1bb4a3382d7569be8b050d56e40]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-12f4bd276a824dffe2efbfd3ef3f5732]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/7) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-12f4bd276a824dffe2efbfd3ef3f5732]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2022/10/schedule/3/paragraph/7) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)

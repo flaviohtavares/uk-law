@@ -64,11 +64,11 @@ The Secretary of State, in relation to England, and the Welsh Ministers, in rela
 
 (2) These Regulations extend to England and Wales only.
 
-## 2. Additional European protected species[^key-4091fe82ae6431504043677bafee3cba]
+## 2. Additional European protected species[^c-4091fe82ae6431504043677bafee3cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendment to the Conservation (Natural Habitats &c.) Regulations 1994[^key-dfcff657314928cff0524b041fe6a1d6]
+## 3. Consequential amendment to the Conservation (Natural Habitats &c.) Regulations 1994[^c-dfcff657314928cff0524b041fe6a1d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -112,9 +112,9 @@ A transposition note setting out how these amendments transpose the provisions o
 
 [^f00003]: Footnote: [S.I. 2002/248](https://www.legislation.gov.uk/uksi/2002/248). The functions conferred on the National Assembly for Wales by means of that Order are now exercisable by the Welsh Ministers, by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-4091fe82ae6431504043677bafee3cba]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/2172/regulation/2) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-4091fe82ae6431504043677bafee3cba]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/2172/regulation/2) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-dfcff657314928cff0524b041fe6a1d6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/2172/regulation/3) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-dfcff657314928cff0524b041fe6a1d6]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2008/2172/regulation/3) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
 [^f00006]: Footnote: Schedule 5 has been amended in relation to England and Wales by [S.I. 1988/288](https://www.legislation.gov.uk/uksi/1988/288), [1989/906](https://www.legislation.gov.uk/uksi/1989/906), [1991/367](https://www.legislation.gov.uk/uksi/1991/367), [1992/2350](https://www.legislation.gov.uk/uksi/1992/2350), [1998/878](https://www.legislation.gov.uk/uksi/1998/878), [2007/1843](https://www.legislation.gov.uk/uksi/2007/1843) and [2008/431](https://www.legislation.gov.uk/uksi/2008/431).
 

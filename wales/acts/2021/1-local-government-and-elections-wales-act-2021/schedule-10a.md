@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10A — (introduced by section 115A)[^key-51221402d9499ea3a6e6df8bae962543]
+## SCHEDULE 10A — (introduced by section 115A)[^c-51221402d9499ea3a6e6df8bae962543]
 
 *Extent: E+W*
 
@@ -263,4 +263,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51221402d9499ea3a6e6df8bae962543]: Textual amendment: [Sch. 10A](https://www.legislation.gov.uk/asc/2021/1/schedule/10A) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2022/797/regulation/5)
+[^c-51221402d9499ea3a6e6df8bae962543]: Textual amendment: [Sch. 10A](https://www.legislation.gov.uk/asc/2021/1/schedule/10A) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2022/797/regulation/5)

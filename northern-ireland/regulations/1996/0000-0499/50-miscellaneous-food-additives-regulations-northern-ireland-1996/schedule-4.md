@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — Permitted Carriers and Carrier Solvents[^key-e48820bc3917ace9de2f92833a92b5af]
+## SCHEDULE 4 — Permitted Carriers and Carrier Solvents[^c-e48820bc3917ace9de2f92833a92b5af]
 
 *Extent: N.I.*
 
@@ -108,4 +108,4 @@ Regulations 2(1), 3(6) and 5(2)
 
 ## Annotations
 
-[^key-e48820bc3917ace9de2f92833a92b5af]: Commencement: Sch. 4 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-e48820bc3917ace9de2f92833a92b5af]: Commencement: Sch. 4 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)

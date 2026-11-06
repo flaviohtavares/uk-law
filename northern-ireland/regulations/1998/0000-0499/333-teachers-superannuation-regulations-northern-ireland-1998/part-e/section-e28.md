@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E28. Amounts of spouses' and nominated beneficiaries' long-term pensions[^key-9a5172ae1fc6acbba9b05f3d354cfd0f]
+## E28. Amounts of spouses' and nominated beneficiaries' long-term pensions[^c-9a5172ae1fc6acbba9b05f3d354cfd0f]
 
 *Extent: N.I.*
 
@@ -70,4 +70,4 @@ where—
 
 ## Annotations
 
-[^key-9a5172ae1fc6acbba9b05f3d354cfd0f]: Commencement: Reg. E28 in operation at 2.11.1998, see reg. A1
+[^c-9a5172ae1fc6acbba9b05f3d354cfd0f]: Commencement: Reg. E28 in operation at 2.11.1998, see reg. A1

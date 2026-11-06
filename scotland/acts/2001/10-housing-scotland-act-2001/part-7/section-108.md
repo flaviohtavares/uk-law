@@ -22,12 +22,12 @@ summary: ''
 
 (1) For the purposes of this Act, a person (“**A**”) is a member of another’s (“**B’s**”) family if—
 
-- (a) A is the spouse or civil partner[^key-c58a5f10e2a981b0e0036e137c6c22df] of B, or A and B live together as husband and wife or in a relationship which has the characteristics of the relationship between husband and wife except that the persons are of the same sex, or
+- (a) A is the spouse or civil partner[^c-c58a5f10e2a981b0e0036e137c6c22df] of B, or A and B live together as husband and wife or in a relationship which has the characteristics of the relationship between husband and wife except that the persons are of the same sex, or
 - (b) A is B’s parent, grandparent, child, grandchild, brother, sister, uncle, aunt, nephew or niece.
 
 (2) For the purpose of subsection (1)(b)—
 
-- (a) a relationship by marriage or by virtue of civil partnership[^key-007ecbc9b03b91f4ad4aba5529f0677c] is to be treated as a relationship by blood,
+- (a) a relationship by marriage or by virtue of civil partnership[^c-007ecbc9b03b91f4ad4aba5529f0677c] is to be treated as a relationship by blood,
 - (b) a relationship of the half-blood is to be treated as a relationship of the whole blood,
 - (c) the stepchild of a person is to be treated as that person’s child, and
 - (d) a person brought up or treated by another person as if the person were the child of the other person is to be treated as that person’s child.
@@ -48,6 +48,6 @@ summary: ''
 
 [^c286675]: Commencement: S. 108 wholly in force at 1.10.2001, see s. 113 and [S.S.I. 2001/336](https://www.legislation.gov.uk/ssi/2001/336), [art. 2(2)](https://www.legislation.gov.uk/ssi/2001/336/article/2/2), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2001/336/schedule/part/I) (subject to transitional provisions in [art. 3](https://www.legislation.gov.uk/ssi/2001/336/article/3)) (as amended by [S.S.I. 2001/397](https://www.legislation.gov.uk/ssi/2001/397), [art. 7(b)](https://www.legislation.gov.uk/ssi/2001/397/article/7/b))
 
-[^key-c58a5f10e2a981b0e0036e137c6c22df]: Textual amendment: Words in [s. 108(1)(a)](https://www.legislation.gov.uk/asp/2001/10/section/108/1/a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 64(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/64/2); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [arts. 2(c)](https://www.legislation.gov.uk/ssi/2005/604/article/2/c), [4](https://www.legislation.gov.uk/ssi/2005/604/article/4)
+[^c-c58a5f10e2a981b0e0036e137c6c22df]: Textual amendment: Words in [s. 108(1)(a)](https://www.legislation.gov.uk/asp/2001/10/section/108/1/a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 64(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/64/2); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [arts. 2(c)](https://www.legislation.gov.uk/ssi/2005/604/article/2/c), [4](https://www.legislation.gov.uk/ssi/2005/604/article/4)
 
-[^key-007ecbc9b03b91f4ad4aba5529f0677c]: Textual amendment: Words in [s. 108(2)(a)](https://www.legislation.gov.uk/asp/2001/10/section/108/2/a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 64(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/64/3); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [arts. 2(c)](https://www.legislation.gov.uk/ssi/2005/604/article/2/c), [4](https://www.legislation.gov.uk/ssi/2005/604/article/4)
+[^c-007ecbc9b03b91f4ad4aba5529f0677c]: Textual amendment: Words in [s. 108(2)(a)](https://www.legislation.gov.uk/asp/2001/10/section/108/2/a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 64(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/64/3); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [arts. 2(c)](https://www.legislation.gov.uk/ssi/2005/604/article/2/c), [4](https://www.legislation.gov.uk/ssi/2005/604/article/4)

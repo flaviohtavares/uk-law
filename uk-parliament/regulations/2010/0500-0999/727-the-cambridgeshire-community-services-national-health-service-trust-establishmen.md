@@ -31,7 +31,7 @@ summary: ''
 
 National Health Service, England
 
-The Cambridgeshire Community Services National Health Service Trust (Establishment) Order 2010 (revoked)[^key-491b512b990f0057276a6dba0120c83f]
+The Cambridgeshire Community Services National Health Service Trust (Establishment) Order 2010 (revoked)[^c-491b512b990f0057276a6dba0120c83f]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into force
 
 1st April 2010
 
-[^key-491b512b990f0057276a6dba0120c83f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-491b512b990f0057276a6dba0120c83f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-491b512b990f0057276a6dba0120c83f]
+## 1. Citation, commencement and interpretation[^c-491b512b990f0057276a6dba0120c83f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Establishment and name of the trust[^key-491b512b990f0057276a6dba0120c83f]
+## 2. Establishment and name of the trust[^c-491b512b990f0057276a6dba0120c83f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Nature and functions of the trust[^key-491b512b990f0057276a6dba0120c83f]
+## 3. Nature and functions of the trust[^c-491b512b990f0057276a6dba0120c83f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Directors of the trust[^key-491b512b990f0057276a6dba0120c83f]
+## 4. Directors of the trust[^c-491b512b990f0057276a6dba0120c83f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Operational date and accounting date of the trust[^key-491b512b990f0057276a6dba0120c83f]
+## 5. Operational date and accounting date of the trust[^c-491b512b990f0057276a6dba0120c83f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-491b512b990f0057276a6dba0120c83f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-491b512b990f0057276a6dba0120c83f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-491b512b990f0057276a6dba0120c83f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-491b512b990f0057276a6dba0120c83f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-491b512b990f0057276a6dba0120c83f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/727) revoked (1.4.2026) by [The Cambridgeshire Community Services National Health Service Trust (Dissolution) Order 2026 (S.I. 2026/384)](https://www.legislation.gov.uk/uksi/2026/384), [arts. 1](https://www.legislation.gov.uk/uksi/2026/384/article/1), [3](https://www.legislation.gov.uk/uksi/2026/384/article/3)
+[^c-491b512b990f0057276a6dba0120c83f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/727) revoked (1.4.2026) by [The Cambridgeshire Community Services National Health Service Trust (Dissolution) Order 2026 (S.I. 2026/384)](https://www.legislation.gov.uk/uksi/2026/384), [arts. 1](https://www.legislation.gov.uk/uksi/2026/384/article/1), [3](https://www.legislation.gov.uk/uksi/2026/384/article/3)

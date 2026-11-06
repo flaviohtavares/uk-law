@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. TRA's power to recommend acceptance of undertakings[^key-21f38673d190fd57e524a40b26b7710a]
+## 78. TRA's power to recommend acceptance of undertakings[^c-21f38673d190fd57e524a40b26b7710a]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21f38673d190fd57e524a40b26b7710a]: Commencement: Reg. 78 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-21f38673d190fd57e524a40b26b7710a]: Commencement: Reg. 78 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

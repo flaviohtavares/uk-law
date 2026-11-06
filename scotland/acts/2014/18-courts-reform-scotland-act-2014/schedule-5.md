@@ -26,32 +26,32 @@ summary: ''
 
 #### Promissory Oaths Act 1868
 
-**1.**[^key-1c82fe7d447c55892a759dde2da704bf] In the Promissory Oaths Act 1868, in the second part of the Schedule (persons to take oaths of allegiance and judicial oaths), after “part-time sheriffs” insert “ , summary sheriffs, part-time summary sheriffs ”.
+**1.**[^c-1c82fe7d447c55892a759dde2da704bf] In the Promissory Oaths Act 1868, in the second part of the Schedule (persons to take oaths of allegiance and judicial oaths), after “part-time sheriffs” insert “ , summary sheriffs, part-time summary sheriffs ”.
 
 #### Promissory Oaths Act 1871
 
-**2.**[^key-513a637e998e9164c37ba5ffe36f68a4] In section 2 of the Promissory Oaths Act 1871 (persons before whom oaths are to be taken), for “or sheriff, or, for a part-time sheriff,” substitute “ , sheriff or summary sheriff, or, for a part-time sheriff or part-time summary sheriff, ”.
+**2.**[^c-513a637e998e9164c37ba5ffe36f68a4] In section 2 of the Promissory Oaths Act 1871 (persons before whom oaths are to be taken), for “or sheriff, or, for a part-time sheriff,” substitute “ , sheriff or summary sheriff, or, for a part-time sheriff or part-time summary sheriff, ”.
 
 #### Sheriff Courts (Scotland) Act 1876
 
-**3.**[^key-6183a4c050cd071687e59e09a1529b50] In the Sheriff Courts (Scotland) Act 1876, section 54 (courts to make acts of sederunt) is repealed (so far as not previously repealed).
+**3.**[^c-6183a4c050cd071687e59e09a1529b50] In the Sheriff Courts (Scotland) Act 1876, section 54 (courts to make acts of sederunt) is repealed (so far as not previously repealed).
 
 #### Sheriff Courts (Scotland) Act 1907
 
 **4.** The following provisions of the Sheriff Courts (Scotland) Act 1907 are repealed—
 
-- (a)[^key-8f55f2949cbbc75bb39c494c527a694c][^key-5958c10ee874b8604936e6d763a69d53] sections 4 to 7 (jurisdiction, extension of jurisdiction, power of sheriff to order sheriff clerk to execute deeds relating to heritage, action competent in sheriff court and privative jurisdiction in causes under one thousand five hundred pounds value),
+- (a)[^c-8f55f2949cbbc75bb39c494c527a694c][^c-5958c10ee874b8604936e6d763a69d53] sections 4 to 7 (jurisdiction, extension of jurisdiction, power of sheriff to order sheriff clerk to execute deeds relating to heritage, action competent in sheriff court and privative jurisdiction in causes under one thousand five hundred pounds value),
 - (b) sections 10 and 11 (privilege not to exempt from jurisdiction and appointment of sheriffs and salaried sheriffs-substitute),
 - (c) section 14 (salaries of sheriffs and sheriffs-substitute),
 - (d) section 17 (honorary sheriff-substitute),
-- (e)[^key-ecbe170e0d3beb32b578ee05f3dce147] sections 27 to 29 (appeal to sheriff, appeal to Court of Session and effect of appeal),
-- (f)[^key-975b28432a2863bb33184da6864fe1be] sections 39 and 40 (procedure rules and Court of Session to regulate fees etc.),
+- (e)[^c-ecbe170e0d3beb32b578ee05f3dce147] sections 27 to 29 (appeal to sheriff, appeal to Court of Session and effect of appeal),
+- (f)[^c-975b28432a2863bb33184da6864fe1be] sections 39 and 40 (procedure rules and Court of Session to regulate fees etc.),
 - (g) section 50 (summary applications),
 - (h) Schedule 1 (ordinary cause rules 1993).
 
 #### Sheriff Courts and Legal Officers (Scotland) Act 1927
 
-**5.**[^key-12acf0ded05b98fe3f2d49ef43166fc9] (1) Section 8 of the Sheriff Courts and Legal Officers (Scotland) Act 1927 (issuing of instructions to sheriff clerks and procurators fiscal) is amended in accordance with this paragraph.
+**5.**[^c-12acf0ded05b98fe3f2d49ef43166fc9] (1) Section 8 of the Sheriff Courts and Legal Officers (Scotland) Act 1927 (issuing of instructions to sheriff clerks and procurators fiscal) is amended in accordance with this paragraph.
 
 (2) In subsection (1), for “as regards sheriff clerks and the Lord Advocate as regards procurators fiscal may from time to time issue” substitute “ may from time to time issue to sheriff clerks ”.
 
@@ -66,9 +66,9 @@ summary: ''
 
 #### Sheriff Courts (Scotland) Act 1971
 
-**6.** (1)[^key-08f6ec5cef22868565fda5cf644497ba][^key-992760ab5e0f6fc044f17c6fcdee042b][^key-703f979ea6af94d5e23e5ec3c97b619d] The Sheriff Courts (Scotland) Act 1971 is amended in accordance with this paragraph.
+**6.** (1)[^c-08f6ec5cef22868565fda5cf644497ba][^c-992760ab5e0f6fc044f17c6fcdee042b][^c-703f979ea6af94d5e23e5ec3c97b619d] The Sheriff Courts (Scotland) Act 1971 is amended in accordance with this paragraph.
 
-(2)[^key-08f6ec5cef22868565fda5cf644497ba][^key-992760ab5e0f6fc044f17c6fcdee042b][^key-703f979ea6af94d5e23e5ec3c97b619d] The whole Act, apart from sections 2(3) and 3(4), is repealed.
+(2)[^c-08f6ec5cef22868565fda5cf644497ba][^c-992760ab5e0f6fc044f17c6fcdee042b][^c-703f979ea6af94d5e23e5ec3c97b619d] The whole Act, apart from sections 2(3) and 3(4), is repealed.
 
 (3) In section 2(3) (compensation for loss of office), for “subsection (1) above includes, by virtue of subsection (2)(a) above,” substitute “ section 2(1) of the Courts Reform (Scotland) Act 2014 includes ”.
 
@@ -76,14 +76,14 @@ summary: ''
 
 #### Civil Jurisdiction and Judgments Act 1982
 
-**7.**[^key-bc5644e7f77584553f6b8148deff4249] In section 20(3) of the Civil Jurisdiction and Judgments Act 1982 (rules as to jurisdiction in Scotland)—
+**7.**[^c-bc5644e7f77584553f6b8148deff4249] In section 20(3) of the Civil Jurisdiction and Judgments Act 1982 (rules as to jurisdiction in Scotland)—
 
 - (a) for the opening words substitute “ Section 43 of the Courts Reform (Scotland) Act 2014 does not apply— ”,
 - (b) in paragraph (a), the words “to the extent that it determines jurisdiction” are repealed.
 
 #### Judicial Pensions and Retirement Act 1993
 
-**8.**[^key-03b658f2c106e3d7c2972c74cccb6184] In Schedule 5 to the Judicial Pensions and Retirement Act 1993 (relevant offices for the purposes of retirement provisions)—
+**8.**[^c-03b658f2c106e3d7c2972c74cccb6184] In Schedule 5 to the Judicial Pensions and Retirement Act 1993 (relevant offices for the purposes of retirement provisions)—
 
 - (a) for the entry for “Sheriff principal or sheriff in Scotland” substitute— “ Sheriff principal, sheriff or summary sheriff in Scotland ”,
 - (b) after the entry for “Part-time sheriff in Scotland”, insert— “ Part-time summary sheriff in Scotland ”,
@@ -91,7 +91,7 @@ summary: ''
 
 #### Judiciary and Courts (Scotland) Act 2008
 
-**9.**[^key-a8078f9849dff4c10de7eb21ead3dd94] (1) The Judiciary and Courts (Scotland) Act 2008 is amended in accordance with this paragraph.
+**9.**[^c-a8078f9849dff4c10de7eb21ead3dd94] (1) The Judiciary and Courts (Scotland) Act 2008 is amended in accordance with this paragraph.
 
 (2) The following provisions are repealed—
 
@@ -139,7 +139,7 @@ summary: ''
 
 #### Sheriff Courts and Legal Officers (Scotland) Act 1927
 
-**10.**[^key-6b4358e5a938eff4d74d10c760e56c50] In section 1 of the Sheriff Courts and Legal Officers (Scotland) Act 1927 (appointment of sheriff clerk and procurator fiscal), after subsection (5) insert—
+**10.**[^c-6b4358e5a938eff4d74d10c760e56c50] In section 1 of the Sheriff Courts and Legal Officers (Scotland) Act 1927 (appointment of sheriff clerk and procurator fiscal), after subsection (5) insert—
 
 > (6) For the purposes of subsection (3) above, the appointment of a sheriff clerk as Clerk of the Sheriff Appeal Court under section 59 of the Courts Reform (Scotland) Act 2014 is not a removal from office.
 
@@ -147,7 +147,7 @@ summary: ''
 
 #### Public Records (Scotland) Act 1937
 
-**11.**[^key-870a3b1e7cfdfe49094fd14fb81d17b6] (1) The Public Records (Scotland) Act 1937 is amended in accordance with this paragraph.
+**11.**[^c-870a3b1e7cfdfe49094fd14fb81d17b6] (1) The Public Records (Scotland) Act 1937 is amended in accordance with this paragraph.
 
 (2) After section 1, insert—
 
@@ -187,29 +187,29 @@ summary: ''
 
 #### Administration of Justice (Scotland) Act 1972
 
-**12.** (1)[^key-26c18a2d876cc69fe0daf5654f44afbd] Section 1 of the Administration of Justice (Scotland) Act 1972 (powers of courts to order inspection of documents or other property etc.) is amended in accordance with this paragraph.
+**12.** (1)[^c-26c18a2d876cc69fe0daf5654f44afbd] Section 1 of the Administration of Justice (Scotland) Act 1972 (powers of courts to order inspection of documents or other property etc.) is amended in accordance with this paragraph.
 
-(2)[^key-18bacab6fa9f6d1587fa37160fe3250c] In subsection (1), after “Session” insert “ , of the Sheriff Appeal Court ”.
+(2)[^c-18bacab6fa9f6d1587fa37160fe3250c] In subsection (1), after “Session” insert “ , of the Sheriff Appeal Court ”.
 
-(3)[^key-18bacab6fa9f6d1587fa37160fe3250c] In subsection (1A), after “Session” insert “ , of the Sheriff Appeal Court ”.
+(3)[^c-18bacab6fa9f6d1587fa37160fe3250c] In subsection (1A), after “Session” insert “ , of the Sheriff Appeal Court ”.
 
-(4)[^key-26c18a2d876cc69fe0daf5654f44afbd] In subsection (3), after “sheriff court” insert “ and the Sheriff Appeal Court ”.
+(4)[^c-26c18a2d876cc69fe0daf5654f44afbd] In subsection (3), after “sheriff court” insert “ and the Sheriff Appeal Court ”.
 
 #### Civil Jurisdiction and Judgments Act 1982
 
-**13.**[^key-0aa3d95c834199f90dd1acabb238744d] In section 50 of the Civil Jurisdiction and Judgments Act 1982 (interpretation), in the definition of “court of law”, in paragraph (c) after “Session” insert “ , the Sheriff Appeal Court ”.
+**13.**[^c-0aa3d95c834199f90dd1acabb238744d] In section 50 of the Civil Jurisdiction and Judgments Act 1982 (interpretation), in the definition of “court of law”, in paragraph (c) after “Session” insert “ , the Sheriff Appeal Court ”.
 
 #### Legal Aid (Scotland) Act 1986
 
-**14.** (1)[^key-d1d6cfa9d453c71d92544341248c09c2] The Legal Aid (Scotland) Act 1986 is amended in accordance with this paragraph.
+**14.** (1)[^c-d1d6cfa9d453c71d92544341248c09c2] The Legal Aid (Scotland) Act 1986 is amended in accordance with this paragraph.
 
-(2)[^key-d1d6cfa9d453c71d92544341248c09c2] In section 21(1) (criminal legal aid), in paragraph (a), after sub-paragraph (i) insert—
+(2)[^c-d1d6cfa9d453c71d92544341248c09c2] In section 21(1) (criminal legal aid), in paragraph (a), after sub-paragraph (i) insert—
 
 > - (ia) the Sheriff Appeal Court;
 
 .
 
-(3)[^key-d1d6cfa9d453c71d92544341248c09c2] In section 25 (legal aid in appeals)—
+(3)[^c-d1d6cfa9d453c71d92544341248c09c2] In section 25 (legal aid in appeals)—
 
 - (a) in subsection (2)(b)—
   - (i) for “or 175(2)” substitute “ , 175(2) or 194ZB(1) ”,
@@ -220,11 +220,11 @@ summary: ''
   - (i) for “or 187” substitute “ , 187, 194ZD or 194ZE ”,
   - (ii) after “leave” in each place where it occurs insert “ or permission ”.
 
-(4)[^key-d5b1bed0eeced97a823146140c353158] In Part 1 of Schedule 2 (courts in which civil legal aid is available), in paragraph 1, after the entry for the Scottish Land Court, insert— “ the Sheriff Appeal Court; ”.
+(4)[^c-d5b1bed0eeced97a823146140c353158] In Part 1 of Schedule 2 (courts in which civil legal aid is available), in paragraph 1, after the entry for the Scottish Land Court, insert— “ the Sheriff Appeal Court; ”.
 
 #### Criminal Procedure (Scotland) Act 1995
 
-**15.**[^key-14f6d26918de3c42a386713eb67e4e70] In section 304 of the Criminal Procedure (Scotland) Act 1995 (Criminal Courts Rules Council), in subsection (2)(c), before sub-paragraph (i) insert—
+**15.**[^c-14f6d26918de3c42a386713eb67e4e70] In section 304 of the Criminal Procedure (Scotland) Act 1995 (Criminal Courts Rules Council), in subsection (2)(c), before sub-paragraph (i) insert—
 
 > - (zi) one Appeal Sheriff;
 
@@ -232,7 +232,7 @@ summary: ''
 
 #### Judiciary and Courts (Scotland) Act 2008
 
-**16.**[^key-6293f0ebeb06ea5afd433934e5e5fdf0] (1) The Judiciary and Courts (Scotland) Act 2008 is amended in accordance with this paragraph.
+**16.**[^c-6293f0ebeb06ea5afd433934e5e5fdf0] (1) The Judiciary and Courts (Scotland) Act 2008 is amended in accordance with this paragraph.
 
 (2) In section 2 (Head of the Scottish Judiciary)—
 
@@ -261,7 +261,7 @@ summary: ''
 
 #### Criminal Justice and Licensing (Scotland) Act 2010
 
-**17.**[^key-6ea58a9ca1b2579467a3a6c17eead73e] (1) The Criminal Justice and Licensing (Scotland) Act 2010 is amended in accordance with this paragraph.
+**17.**[^c-6ea58a9ca1b2579467a3a6c17eead73e] (1) The Criminal Justice and Licensing (Scotland) Act 2010 is amended in accordance with this paragraph.
 
 (2) In section 6 (effect of sentencing guidelines)—
 
@@ -313,7 +313,7 @@ summary: ''
 
 #### Scottish Civil Justice Council and Criminal Legal Assistance Act 2013
 
-**18.**[^key-4ce7b899017726f62608f8bea76619bc] In section 2 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013 (functions of the Scottish Civil Justice Council)—
+**18.**[^c-4ce7b899017726f62608f8bea76619bc] In section 2 of the Scottish Civil Justice Council and Criminal Legal Assistance Act 2013 (functions of the Scottish Civil Justice Council)—
 
 - (a) in subsection (1)(b), after “in” where it fourth occurs insert “ the Sheriff Appeal Court or ”,
 - (b) in subsection (6)—
@@ -328,7 +328,7 @@ summary: ''
 
 #### Law Reform (Miscellaneous Provisions) (Scotland) Act 1980
 
-**19.**[^key-9f4cd966b002a01dc9c112a45b2ca32a] (1) The Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 is amended in accordance with this paragraph.
+**19.**[^c-9f4cd966b002a01dc9c112a45b2ca32a] (1) The Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 is amended in accordance with this paragraph.
 
 (2) In section 2(2) (fining of jurors in civil proceedings for non-attendance), after paragraph (a) insert—
 
@@ -372,7 +372,7 @@ summary: ''
 
 #### Legal Aid (Scotland) Act 1986
 
-**23.**[^key-8ec2b8db2b59d44bcc31b9456dc0d268] (1) Part 2 of Schedule 2 to the Legal Aid (Scotland) Act 1986 (proceedings in which civil legal aid is not available) is amended in accordance with this paragraph.
+**23.**[^c-8ec2b8db2b59d44bcc31b9456dc0d268] (1) Part 2 of Schedule 2 to the Legal Aid (Scotland) Act 1986 (proceedings in which civil legal aid is not available) is amended in accordance with this paragraph.
 
 (2) In paragraph 3, sub-paragraph (c) (small claims) is repealed.
 
@@ -396,7 +396,7 @@ summary: ''
 
 #### Tribunals (Scotland) Act 2014
 
-**24.**[^key-2ac80563091a6c8efa8fcfaafda11cd2] After section 57 of the Tribunals (Scotland) Act 2014 insert—
+**24.**[^c-2ac80563091a6c8efa8fcfaafda11cd2] After section 57 of the Tribunals (Scotland) Act 2014 insert—
 
 > **57A. Procedural steps where petition remitted**
 >
@@ -420,29 +420,29 @@ summary: ''
 
 #### Law Reform (Miscellaneous Provisions) (Scotland) Act 1985
 
-**25.**[^key-89c24a2ffde059a3be1d86eabe879462] In the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985, section 14 (remit from Court of Session to sheriff) is repealed.
+**25.**[^c-89c24a2ffde059a3be1d86eabe879462] In the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985, section 14 (remit from Court of Session to sheriff) is repealed.
 
 ### PART 7 — REGULATION OF PROCEDURE AND FEES
 
 #### Courts of Law Fees (Scotland) Act 1895
 
-**26.**[^key-a9cfaed421270b3904f2b3b019d9fdf4] In the Courts of Law Fees (Scotland) Act 1895, section 2 (power of Scottish Ministers to regulate court fees) is repealed.
+**26.**[^c-a9cfaed421270b3904f2b3b019d9fdf4] In the Courts of Law Fees (Scotland) Act 1895, section 2 (power of Scottish Ministers to regulate court fees) is repealed.
 
 #### Vexatious Actions (Scotland) Act 1898
 
-**27.**[^key-fa5fa5ba9cd8bacf5c91e24d946bbd07] The Vexatious Actions (Scotland) Act 1898 is repealed.
+**27.**[^c-fa5fa5ba9cd8bacf5c91e24d946bbd07] The Vexatious Actions (Scotland) Act 1898 is repealed.
 
 #### Execution of Diligence (Scotland) Act 1926
 
-**28.**[^key-e2a9c20a3f31499ff1712f819bb8290c] In the Execution of Diligence (Scotland) Act 1926, section 6 (regulations, forms and fees) is repealed.
+**28.**[^c-e2a9c20a3f31499ff1712f819bb8290c] In the Execution of Diligence (Scotland) Act 1926, section 6 (regulations, forms and fees) is repealed.
 
 #### Administration of Justice (Scotland) Act 1972
 
-**29.**[^key-f94800301338067e4af4b69f96aa6f94] In section 1(3) of the Administration of Justice (Scotland) Act 1972 (powers of courts to order inspection of documents or other property etc.), for “section 32 of the Sheriff Courts (Scotland) Act 1971” substitute “ section 104(1) of the Courts Reform (Scotland) Act 2014 ”.
+**29.**[^c-f94800301338067e4af4b69f96aa6f94] In section 1(3) of the Administration of Justice (Scotland) Act 1972 (powers of courts to order inspection of documents or other property etc.), for “section 32 of the Sheriff Courts (Scotland) Act 1971” substitute “ section 104(1) of the Courts Reform (Scotland) Act 2014 ”.
 
 #### Court of Session Act 1988
 
-**30.**[^key-15dba7084ec091bc055260a5bb5d46e2] (1) The Court of Session Act 1988 is amended in accordance with this paragraph.
+**30.**[^c-15dba7084ec091bc055260a5bb5d46e2] (1) The Court of Session Act 1988 is amended in accordance with this paragraph.
 
 (2) In section 2(4) (composition of the Court), for “section 5(ba) below,” substitute “ an act of sederunt under section 103(1) of the Courts Reform (Scotland) Act 2014, ”.
 
@@ -452,7 +452,7 @@ summary: ''
 
 #### Scottish Civil Justice Council and Criminal Legal Assistance Act 2013
 
-**31.**[^key-bffc4dc1fbb2d2abf86ac81ea1680218] (1) The Scottish Civil Justice Council and Criminal Legal Assistance Act 2013 is amended in accordance with this paragraph.
+**31.**[^c-bffc4dc1fbb2d2abf86ac81ea1680218] (1) The Scottish Civil Justice Council and Criminal Legal Assistance Act 2013 is amended in accordance with this paragraph.
 
 (2) In section 2 (functions of the Council)—
 
@@ -483,38 +483,38 @@ summary: ''
 
 #### Court of Session Act 1988
 
-**32.** (1)[^key-b62dc033aea7911af81637baa9fc5124] The Court of Session Act 1988 is amended in accordance with this paragraph.
+**32.** (1)[^c-b62dc033aea7911af81637baa9fc5124] The Court of Session Act 1988 is amended in accordance with this paragraph.
 
-(2)[^key-b62dc033aea7911af81637baa9fc5124] Section 24 (appeal to the Supreme Court in exchequer causes) is repealed.
+(2)[^c-b62dc033aea7911af81637baa9fc5124] Section 24 (appeal to the Supreme Court in exchequer causes) is repealed.
 
-(3)[^key-d6990a970ce54278be83238ee34f5fb1] In section 32 (appeals)—
+(3)[^c-d6990a970ce54278be83238ee34f5fb1] In section 32 (appeals)—
 
 - (a) in subsection (1), for “sheriff principal or sheriff under section 28 of the Sheriff Courts (Scotland) Act 1907” substitute “ Sheriff Appeal Court under section 113 of the Courts Reform (Scotland) Act 2014 or the judgment of a sheriff principal under section 114 of that Act ”,
 - (b) in each of subsections (2) and (4), for “sheriff principal or sheriff” substitute “ Sheriff Appeal Court or, as the case may be, the sheriff principal ”.
 
-(4)[^key-b62dc033aea7911af81637baa9fc5124] In section 52 (consequential amendments, repeals and savings), subsection (3) is repealed.
+(4)[^c-b62dc033aea7911af81637baa9fc5124] In section 52 (consequential amendments, repeals and savings), subsection (3) is repealed.
 
 #### Constitutional Reform Act 2005
 
-**33.**[^key-bfe0501b06724cdc2b4d4c19a32a7f96] In section 40 of the Constitutional Reform Act 2005 (jurisdiction of the Supreme Court), subsection (3) is repealed.
+**33.**[^c-bfe0501b06724cdc2b4d4c19a32a7f96] In section 40 of the Constitutional Reform Act 2005 (jurisdiction of the Supreme Court), subsection (3) is repealed.
 
 ### PART 9 — JUDGES OF THE COURT OF SESSION
 
 #### Promissory Oaths Act 1868
 
-**34.**[^key-a9b7153a4359f5e41b9cd35ae8665369] In the Promissory Oaths Act 1868, in the Second Part of the Schedule, for “35(3) of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990” substitute “ 20B(1) of the Judiciary and Courts (Scotland) Act 2008 ”.
+**34.**[^c-a9b7153a4359f5e41b9cd35ae8665369] In the Promissory Oaths Act 1868, in the Second Part of the Schedule, for “35(3) of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990” substitute “ 20B(1) of the Judiciary and Courts (Scotland) Act 2008 ”.
 
 #### Administration of Justice Act 1973
 
-**35.**[^key-0ec5ee6065769deaea80228a9875f166] In section 9 of the Administration of Justice Act 1973 (judicial salaries), subsection (5) is repealed.
+**35.**[^c-0ec5ee6065769deaea80228a9875f166] In section 9 of the Administration of Justice Act 1973 (judicial salaries), subsection (5) is repealed.
 
 #### Law Reform (Miscellaneous Provisions) (Scotland) Act 1985
 
-**36.**[^key-8305493e6f10f5364119a0e5e4eefa6a] Section 22 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (re-employment of retired judges) is repealed.
+**36.**[^c-8305493e6f10f5364119a0e5e4eefa6a] Section 22 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (re-employment of retired judges) is repealed.
 
 #### Law Reform (Miscellaneous Provisions) (Scotland) Act 1990
 
-**37.**[^key-54082986d669a7484ab7d5653bb58d59] (1) The Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 is amended in accordance with this paragraph.
+**37.**[^c-54082986d669a7484ab7d5653bb58d59] (1) The Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 is amended in accordance with this paragraph.
 
 (2) In section 35 (judicial appointments)—
 
@@ -525,7 +525,7 @@ summary: ''
 
 #### Judiciary and Courts (Scotland) Act 2008
 
-**38.**[^key-8b1420452d135408e3cddded57d29a58] (1) The Judiciary and Courts (Scotland) Act 2008 is amended in accordance with this paragraph.
+**38.**[^c-8b1420452d135408e3cddded57d29a58] (1) The Judiciary and Courts (Scotland) Act 2008 is amended in accordance with this paragraph.
 
 (2) In section 43(1)(b) (meaning of “judicial office holder”), for “22(1) or (4) (re-employment of retired Court of Session judges) of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c.73)” substitute “ 20E(1) (re-employment of former judges) or 20F(3) (re-employment of former judges: further provision) ”.
 
@@ -537,7 +537,7 @@ summary: ''
 
 #### Criminal Procedure (Scotland) Act 1995
 
-**39.**[^key-ded23552a538f756030cd3a143c25e67] (1) The Criminal Procedure (Scotland) Act 1995 is amended in accordance with this paragraph.
+**39.**[^c-ded23552a538f756030cd3a143c25e67] (1) The Criminal Procedure (Scotland) Act 1995 is amended in accordance with this paragraph.
 
 (2) In section 6(2) (constitution of JP courts), for “stipendiary magistrate” substitute “ summary sheriff ”.
 
@@ -559,7 +559,7 @@ summary: ''
 
 #### Criminal Proceedings etc. (Reform) (Scotland) Act 2007
 
-**40.**[^key-9a86a284c118748b35d5479a9467c6b5] (1) The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 is amended in accordance with this paragraph.
+**40.**[^c-9a86a284c118748b35d5479a9467c6b5] (1) The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 is amended in accordance with this paragraph.
 
 (2) In section 61(3)(a) (efficient disposal of business in JP courts), for “stipendiary magistrate” substitute “ summary sheriff ”.
 
@@ -590,25 +590,25 @@ summary: ''
 
 #### Judiciary and Courts (Scotland) Act 2008
 
-**41.**[^key-95d6eeea204881e379690548d733b82a] In subsection (2) of section 43 of the Judiciary and Courts (Scotland) Act 2008 (meaning of “judicial office holder”), paragraph (h) is repealed.
+**41.**[^c-95d6eeea204881e379690548d733b82a] In subsection (2) of section 43 of the Judiciary and Courts (Scotland) Act 2008 (meaning of “judicial office holder”), paragraph (h) is repealed.
 
 ### PART 11 — MISCELLANEOUS
 
 #### Judicial Offices (Salaries, &c.) Act 1952
 
-**42.**[^key-76becaab8d17192116590ee4522c58de] The Judicial Offices (Salaries, &c.) Act 1952 is repealed.
+**42.**[^c-76becaab8d17192116590ee4522c58de] The Judicial Offices (Salaries, &c.) Act 1952 is repealed.
 
 #### Court of Session Act 1988
 
-**43.**[^key-2d0c0a194462d5e59b8428952e2324ac] In section 51 of the Court of Session Act 1988 (interpretation), in the definition of “enactment”, after “sederunt” insert “ and an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament ”.
+**43.**[^c-2d0c0a194462d5e59b8428952e2324ac] In section 51 of the Court of Session Act 1988 (interpretation), in the definition of “enactment”, after “sederunt” insert “ and an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament ”.
 
 #### Criminal Procedure (Scotland) Act 1995
 
-**44.**[^key-c1db2144d1e23be0a2b1573ade9cdbde] In section 85(4) of the Criminal Procedure (Scotland) Act 1995 (citation of jurors), the words “by registered post or recorded delivery” are repealed.
+**44.**[^c-c1db2144d1e23be0a2b1573ade9cdbde] In section 85(4) of the Criminal Procedure (Scotland) Act 1995 (citation of jurors), the words “by registered post or recorded delivery” are repealed.
 
 #### Interpretation and Legislative Reform (Scotland) Act 2010
 
-**45.**[^key-ce0f0b53da4669afac63c30a12bc8cdb] In schedule 1 to the Interpretation and Legislative Reform (Scotland) Act 2010 (definitions of words and expressions), for the entry for “sheriff” substitute—
+**45.**[^c-ce0f0b53da4669afac63c30a12bc8cdb] In schedule 1 to the Interpretation and Legislative Reform (Scotland) Act 2010 (definitions of words and expressions), for the entry for “sheriff” substitute—
 
 > “**sheriff**” is to be construed in accordance with section 134(2) and (3) of the Courts Reform (Scotland) Act 2014,
 
@@ -616,102 +616,102 @@ summary: ''
 
 ## Annotations
 
-[^key-1c82fe7d447c55892a759dde2da704bf]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/1) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-1c82fe7d447c55892a759dde2da704bf]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/1) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-513a637e998e9164c37ba5ffe36f68a4]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/2) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-513a637e998e9164c37ba5ffe36f68a4]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/2) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-6183a4c050cd071687e59e09a1529b50]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/3) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2015/77/article/6))
+[^c-6183a4c050cd071687e59e09a1529b50]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/3) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2015/77/article/6))
 
-[^key-8f55f2949cbbc75bb39c494c527a694c]: Commencement: Sch. 5 para. 4(a) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-8f55f2949cbbc75bb39c494c527a694c]: Commencement: Sch. 5 para. 4(a) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-5958c10ee874b8604936e6d763a69d53]: Commencement: [Sch. 5 para. 4(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/4/a) in force at 22.9.2015 for specified purposes by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2015/247/article/3/1))
+[^c-5958c10ee874b8604936e6d763a69d53]: Commencement: [Sch. 5 para. 4(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/4/a) in force at 22.9.2015 for specified purposes by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2015/247/article/3/1))
 
-[^key-ecbe170e0d3beb32b578ee05f3dce147]: Commencement: [Sch. 5 para. 4(e)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/4/e) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/378/article/3))
+[^c-ecbe170e0d3beb32b578ee05f3dce147]: Commencement: [Sch. 5 para. 4(e)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/4/e) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/378/article/3))
 
-[^key-975b28432a2863bb33184da6864fe1be]: Commencement: Sch. 5 para. 4(f) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
+[^c-975b28432a2863bb33184da6864fe1be]: Commencement: Sch. 5 para. 4(f) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
 
-[^key-12acf0ded05b98fe3f2d49ef43166fc9]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/5) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-12acf0ded05b98fe3f2d49ef43166fc9]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/5) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-08f6ec5cef22868565fda5cf644497ba]: Commencement: [Sch. 5 para. 6(1)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/6/1)[(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/6/2) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
+[^c-08f6ec5cef22868565fda5cf644497ba]: Commencement: [Sch. 5 para. 6(1)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/6/1)[(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/6/2) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
 
-[^key-992760ab5e0f6fc044f17c6fcdee042b]: Commencement: [Sch. 5 para. 6(1)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/6/1)[(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/6/2) in force at 22.9.2015 for specified purposes by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-992760ab5e0f6fc044f17c6fcdee042b]: Commencement: [Sch. 5 para. 6(1)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/6/1)[(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/6/2) in force at 22.9.2015 for specified purposes by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
-[^key-703f979ea6af94d5e23e5ec3c97b619d]: Commencement: [Sch. 5 para. 6(1)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/6/1) [(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/6/2) in force at 28.11.2016 for specified purposes by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2016/291/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2016/291/article/3/2))
+[^c-703f979ea6af94d5e23e5ec3c97b619d]: Commencement: [Sch. 5 para. 6(1)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/6/1) [(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/6/2) in force at 28.11.2016 for specified purposes by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2016/291/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2016/291/article/3/2))
 
-[^key-bc5644e7f77584553f6b8148deff4249]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/7) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-bc5644e7f77584553f6b8148deff4249]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/7) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-03b658f2c106e3d7c2972c74cccb6184]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/8) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-03b658f2c106e3d7c2972c74cccb6184]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/8) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
-[^key-a8078f9849dff4c10de7eb21ead3dd94]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/9) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-a8078f9849dff4c10de7eb21ead3dd94]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/9) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-6b4358e5a938eff4d74d10c760e56c50]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/10) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-6b4358e5a938eff4d74d10c760e56c50]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/10) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-870a3b1e7cfdfe49094fd14fb81d17b6]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/11) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-870a3b1e7cfdfe49094fd14fb81d17b6]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/11) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-26c18a2d876cc69fe0daf5654f44afbd]: Commencement: [Sch. 5 para. 12(1)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/12/1)[(4)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/12/4) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-26c18a2d876cc69fe0daf5654f44afbd]: Commencement: [Sch. 5 para. 12(1)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/12/1)[(4)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/12/4) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-18bacab6fa9f6d1587fa37160fe3250c]: Commencement: [Sch. 5 para. 12(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/12/2)[(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/12/3) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-18bacab6fa9f6d1587fa37160fe3250c]: Commencement: [Sch. 5 para. 12(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/12/2)[(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/12/3) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
 
-[^key-0aa3d95c834199f90dd1acabb238744d]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/13) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-0aa3d95c834199f90dd1acabb238744d]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/13) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
 
-[^key-d1d6cfa9d453c71d92544341248c09c2]: Commencement: [Sch. 5 para. 14(1)-(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/14/1) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-d1d6cfa9d453c71d92544341248c09c2]: Commencement: [Sch. 5 para. 14(1)-(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/14/1) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
-[^key-d5b1bed0eeced97a823146140c353158]: Commencement: [Sch. 5 para. 14(4)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/14/4) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-d5b1bed0eeced97a823146140c353158]: Commencement: [Sch. 5 para. 14(4)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/14/4) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
 
-[^key-14f6d26918de3c42a386713eb67e4e70]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/15) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-14f6d26918de3c42a386713eb67e4e70]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/15) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
-[^key-6293f0ebeb06ea5afd433934e5e5fdf0]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/16) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-6293f0ebeb06ea5afd433934e5e5fdf0]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/16) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-6ea58a9ca1b2579467a3a6c17eead73e]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/17) in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(d)](https://www.legislation.gov.uk/ssi/2015/336/article/2/d)
+[^c-6ea58a9ca1b2579467a3a6c17eead73e]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/17) in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(d)](https://www.legislation.gov.uk/ssi/2015/336/article/2/d)
 
-[^key-4ce7b899017726f62608f8bea76619bc]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/18) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-4ce7b899017726f62608f8bea76619bc]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/18) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-9f4cd966b002a01dc9c112a45b2ca32a]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/19) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-9f4cd966b002a01dc9c112a45b2ca32a]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/19) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
-[^key-8ec2b8db2b59d44bcc31b9456dc0d268]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/23) in force at 28.11.2016 by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2016/291/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2016/291/article/3/3))
+[^c-8ec2b8db2b59d44bcc31b9456dc0d268]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/23) in force at 28.11.2016 by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2016/291/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2016/291/article/3/3))
 
-[^key-2ac80563091a6c8efa8fcfaafda11cd2]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/24) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-2ac80563091a6c8efa8fcfaafda11cd2]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/24) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
-[^key-89c24a2ffde059a3be1d86eabe879462]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/25) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2015/247/article/3/3))
+[^c-89c24a2ffde059a3be1d86eabe879462]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/25) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 3(3)](https://www.legislation.gov.uk/ssi/2015/247/article/3/3))
 
-[^key-a9cfaed421270b3904f2b3b019d9fdf4]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/26) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
+[^c-a9cfaed421270b3904f2b3b019d9fdf4]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/26) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
 
-[^key-fa5fa5ba9cd8bacf5c91e24d946bbd07]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/27) in force at 28.11.2016 by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/291/article/4))
+[^c-fa5fa5ba9cd8bacf5c91e24d946bbd07]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/27) in force at 28.11.2016 by [S.S.I. 2016/291](https://www.legislation.gov.uk/ssi/2016/291), [art. 2](https://www.legislation.gov.uk/ssi/2016/291/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/291/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/291/article/4))
 
-[^key-e2a9c20a3f31499ff1712f819bb8290c]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/28) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
+[^c-e2a9c20a3f31499ff1712f819bb8290c]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/28) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
 
-[^key-f94800301338067e4af4b69f96aa6f94]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/29) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-f94800301338067e4af4b69f96aa6f94]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/29) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-15dba7084ec091bc055260a5bb5d46e2]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/30) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
+[^c-15dba7084ec091bc055260a5bb5d46e2]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/30) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2015/77/article/7))
 
-[^key-bffc4dc1fbb2d2abf86ac81ea1680218]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/31) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-bffc4dc1fbb2d2abf86ac81ea1680218]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/31) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-b62dc033aea7911af81637baa9fc5124]: Commencement: [Sch. 5 para. 32(1)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/1)[(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/2)[(4)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/4) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 5(1)](https://www.legislation.gov.uk/ssi/2015/247/article/5/1))
+[^c-b62dc033aea7911af81637baa9fc5124]: Commencement: [Sch. 5 para. 32(1)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/1)[(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/2)[(4)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/4) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule) (with [art. 5(1)](https://www.legislation.gov.uk/ssi/2015/247/article/5/1))
 
-[^key-d6990a970ce54278be83238ee34f5fb1]: Commencement: [Sch. 5 para. 32(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/3) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-d6990a970ce54278be83238ee34f5fb1]: Commencement: [Sch. 5 para. 32(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/32/3) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
 
-[^key-bfe0501b06724cdc2b4d4c19a32a7f96]: Commencement: [Sch. 5 para. 33](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/33) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-bfe0501b06724cdc2b4d4c19a32a7f96]: Commencement: [Sch. 5 para. 33](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/33) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
-[^key-a9b7153a4359f5e41b9cd35ae8665369]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/34) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-a9b7153a4359f5e41b9cd35ae8665369]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/34) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-0ec5ee6065769deaea80228a9875f166]: Commencement: [Sch. 5 para. 35](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/35) in force at 1.4.2016 by [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule)
+[^c-0ec5ee6065769deaea80228a9875f166]: Commencement: [Sch. 5 para. 35](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/35) in force at 1.4.2016 by [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule)
 
-[^key-8305493e6f10f5364119a0e5e4eefa6a]: Commencement: [Sch. 5 para. 36](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/36) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-8305493e6f10f5364119a0e5e4eefa6a]: Commencement: [Sch. 5 para. 36](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/36) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-54082986d669a7484ab7d5653bb58d59]: Commencement: [Sch. 5 para. 37](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/37) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-54082986d669a7484ab7d5653bb58d59]: Commencement: [Sch. 5 para. 37](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/37) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-8b1420452d135408e3cddded57d29a58]: Commencement: [Sch. 5 para. 38](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/38) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-8b1420452d135408e3cddded57d29a58]: Commencement: [Sch. 5 para. 38](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/38) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-ded23552a538f756030cd3a143c25e67]: Commencement: [Sch. 5 para. 39](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/39) in force at 1.4.2016 by [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/13/article/3))
+[^c-ded23552a538f756030cd3a143c25e67]: Commencement: [Sch. 5 para. 39](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/39) in force at 1.4.2016 by [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/13/article/3))
 
-[^key-9a86a284c118748b35d5479a9467c6b5]: Commencement: [Sch. 5 para. 40](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/40) in force at 1.4.2016 by [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule)
+[^c-9a86a284c118748b35d5479a9467c6b5]: Commencement: [Sch. 5 para. 40](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/40) in force at 1.4.2016 by [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule)
 
-[^key-95d6eeea204881e379690548d733b82a]: Commencement: [Sch. 5 para. 41](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/41) in force at 1.4.2016 by [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule)
+[^c-95d6eeea204881e379690548d733b82a]: Commencement: [Sch. 5 para. 41](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/41) in force at 1.4.2016 by [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule)
 
-[^key-76becaab8d17192116590ee4522c58de]: Commencement: [Sch. 5 para. 42](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/42) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-76becaab8d17192116590ee4522c58de]: Commencement: [Sch. 5 para. 42](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/42) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-2d0c0a194462d5e59b8428952e2324ac]: Commencement: [Sch. 5 para. 43](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/43) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-2d0c0a194462d5e59b8428952e2324ac]: Commencement: [Sch. 5 para. 43](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/43) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-c1db2144d1e23be0a2b1573ade9cdbde]: Commencement: [Sch. 5 para. 44](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/44) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-c1db2144d1e23be0a2b1573ade9cdbde]: Commencement: [Sch. 5 para. 44](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/44) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-ce0f0b53da4669afac63c30a12bc8cdb]: Commencement: [Sch. 5 para. 45](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/45) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-ce0f0b53da4669afac63c30a12bc8cdb]: Commencement: [Sch. 5 para. 45](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/45) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

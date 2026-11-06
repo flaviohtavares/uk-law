@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Obligations of relevant market participants[^key-5e4fc1c89ff4da6e13433c26b817f00b]
+## 70. Obligations of relevant market participants[^c-5e4fc1c89ff4da6e13433c26b817f00b]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e4fc1c89ff4da6e13433c26b817f00b]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2023/52/section/70) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-5e4fc1c89ff4da6e13433c26b817f00b]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2023/52/section/70) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270BK. Preparation of sites[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+## 270BK. Preparation of sites[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) This Part has effect in relation to the expenditure as if it were capital expenditure on the construction of the building or structure.
 
-(3) For that purpose, sections 270AA(1)(a), 270AB and 270BNA(2) and (7)[^key-4a437a500a72a24b44c8dd9ddac418ef] have effect as if the preparation of the land mentioned in subsection (1) were the construction of the building or structure.
+(3) For that purpose, sections 270AA(1)(a), 270AB and 270BNA(2) and (7)[^c-4a437a500a72a24b44c8dd9ddac418ef] have effect as if the preparation of the land mentioned in subsection (1) were the construction of the building or structure.
 
 ## Annotations
 
-[^key-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)
+[^c-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)
 
-[^key-4a437a500a72a24b44c8dd9ddac418ef]: Textual amendment: Words in s. 270BK(3) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2021/26/schedule/22/paragraph/9)
+[^c-4a437a500a72a24b44c8dd9ddac418ef]: Textual amendment: Words in s. 270BK(3) substituted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2021/26/schedule/22/paragraph/9)

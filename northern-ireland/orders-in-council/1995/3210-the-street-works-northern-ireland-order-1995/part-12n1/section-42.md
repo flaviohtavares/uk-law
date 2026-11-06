@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Liability for damage or loss caused[^key-e9a478ceef423d153a43944fc4ec86a5]
+## 42. Liability for damage or loss caused[^c-e9a478ceef423d153a43944fc4ec86a5]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ as a result of the execution by the undertaker of street works or any event of a
 
 ## Annotations
 
-[^key-e9a478ceef423d153a43944fc4ec86a5]: Modification: Art. 42 modified (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [ss. 236(6)(c)](https://www.legislation.gov.uk/nia/2011/25/section/236/6/c), [254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1), [(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2) (with [ss. 211](https://www.legislation.gov.uk/nia/2011/25/section/211), [238](https://www.legislation.gov.uk/nia/2011/25/section/238)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-e9a478ceef423d153a43944fc4ec86a5]: Modification: Art. 42 modified (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [ss. 236(6)(c)](https://www.legislation.gov.uk/nia/2011/25/section/236/6/c), [254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1), [(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2) (with [ss. 211](https://www.legislation.gov.uk/nia/2011/25/section/211), [238](https://www.legislation.gov.uk/nia/2011/25/section/238)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)

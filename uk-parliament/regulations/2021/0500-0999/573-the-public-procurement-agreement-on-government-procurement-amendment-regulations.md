@@ -48,7 +48,7 @@ The Minister for the Cabinet Office makes these Regulations in exercise of the p
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and extent[^key-08b486d536f656841fac171597fe4543]
+### 1. Citation, commencement and extent[^c-08b486d536f656841fac171597fe4543]
 
 (1) These Regulations may be cited as the Public Procurement (Agreement on Government Procurement) (Amendment) Regulations 2021 and come into force on 11th June 2021.
 
@@ -56,17 +56,17 @@ The Minister for the Cabinet Office makes these Regulations in exercise of the p
 
 ## PART 2 — AMENDMENT OF UNITED KINGDOM SECONDARY LEGISLATION
 
-### 2. Amendments to the Public Contracts Regulations 2015[^key-7600707b5d410354f05171114c7085ca]
+### 2. Amendments to the Public Contracts Regulations 2015[^c-7600707b5d410354f05171114c7085ca]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendments to the Concession Contracts Regulations 2016[^key-7600707b5d410354f05171114c7085ca]
+### 3. Amendments to the Concession Contracts Regulations 2016[^c-7600707b5d410354f05171114c7085ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendments to the Utilities Contracts Regulations 2016[^key-7600707b5d410354f05171114c7085ca]
+### 4. Amendments to the Utilities Contracts Regulations 2016[^c-7600707b5d410354f05171114c7085ca]
 
 **No longer in force.**
 
@@ -74,7 +74,7 @@ The Minister for the Cabinet Office makes these Regulations in exercise of the p
 
 ## PART 3 — AMENDMENT OF SCOTTISH SECONDARY LEGISLATION
 
-### 5. Amendment to the Public Contracts (Scotland) Regulations 2015[^key-d82d0c71e64b11a146d3aaa19d480524]
+### 5. Amendment to the Public Contracts (Scotland) Regulations 2015[^c-d82d0c71e64b11a146d3aaa19d480524]
 
 (1) The Public Contracts (Scotland) Regulations 2015[^f00005] are amended as follows.
 
@@ -159,7 +159,7 @@ The Minister for the Cabinet Office makes these Regulations in exercise of the p
 
 .
 
-### 6. Amendments to the Utilities Contracts (Scotland) Regulations 2016[^key-5d7d4bac91413286b6664126e9497202]
+### 6. Amendments to the Utilities Contracts (Scotland) Regulations 2016[^c-5d7d4bac91413286b6664126e9497202]
 
 (1) The Utilities Contracts (Scotland) Regulations 2016[^f00006] are amended as follows.
 
@@ -248,7 +248,7 @@ The Minister for the Cabinet Office makes these Regulations in exercise of the p
 
 .
 
-### 7. Amendments to the Concession Contracts (Scotland) Regulations 2016[^key-6b28e3d8ac456d9312a550595f60bf47]
+### 7. Amendments to the Concession Contracts (Scotland) Regulations 2016[^c-6b28e3d8ac456d9312a550595f60bf47]
 
 (1) The Concession Contracts (Scotland) Regulations 2016[^f00007] are amended as follows.
 
@@ -335,18 +335,18 @@ The amendments made by these Regulations are “steady state amendments”, as t
 
 [^f00001]: Footnote: [2021 c. 10](https://www.legislation.gov.uk/ukpga/2021/10). See the definition of “appropriate authority” in section 5(1).
 
-[^key-08b486d536f656841fac171597fe4543]: Commencement: Reg. 1 in force at 11.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1)
+[^c-08b486d536f656841fac171597fe4543]: Commencement: Reg. 1 in force at 11.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1)
 
-[^key-7600707b5d410354f05171114c7085ca]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/uksi/2021/573/regulation/2) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-7600707b5d410354f05171114c7085ca]: Textual amendment: [Regs. 2-4](https://www.legislation.gov.uk/uksi/2021/573/regulation/2) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
 
-[^key-d82d0c71e64b11a146d3aaa19d480524]: Commencement: Reg. 5 in force at 11.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1)
+[^c-d82d0c71e64b11a146d3aaa19d480524]: Commencement: Reg. 5 in force at 11.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1)
 
 [^f00005]: Footnote: [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446), as amended by [S.S.I. 2016/47](https://www.legislation.gov.uk/ssi/2016/47) and [S.S.I. 2020/468](https://www.legislation.gov.uk/ssi/2020/468).
 
-[^key-5d7d4bac91413286b6664126e9497202]: Commencement: Reg. 6 in force at 11.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1)
+[^c-5d7d4bac91413286b6664126e9497202]: Commencement: Reg. 6 in force at 11.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1)
 
 [^f00006]: Footnote: [S.S.I. 2016/49](https://www.legislation.gov.uk/ssi/2016/49), as amended by [S.S.I. 2020/468](https://www.legislation.gov.uk/ssi/2020/468).
 
-[^key-6b28e3d8ac456d9312a550595f60bf47]: Commencement: Reg. 7 in force at 11.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1)
+[^c-6b28e3d8ac456d9312a550595f60bf47]: Commencement: Reg. 7 in force at 11.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/573/regulation/1/1)
 
 [^f00007]: Footnote: [S.S.I. 2016/65](https://www.legislation.gov.uk/ssi/2016/65), as amended by [S.S.I. 2016/125](https://www.legislation.gov.uk/ssi/2016/125) and [S.S.I. 2020/468](https://www.legislation.gov.uk/ssi/2020/468).

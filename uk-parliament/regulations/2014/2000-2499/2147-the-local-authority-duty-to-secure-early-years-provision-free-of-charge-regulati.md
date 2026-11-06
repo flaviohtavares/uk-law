@@ -46,40 +46,40 @@ Coming into force
 
 The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 7, 7A, 9A and 104(2) of the Childcare Act 2006[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-cfabdbb39e039ef7aa36d7bac63ec6d6]
+## 1. Citation, commencement and interpretation[^c-cfabdbb39e039ef7aa36d7bac63ec6d6]
 
 (1) These Regulations may be cited as the Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2014 and come into force on 8th September 2014.
 
 (2) In these Regulations—
 
 - “the 2006 Act” means the Childcare Act 2006;
-- “[^key-b5f85eed774dbce1fe5e2e48e7a0ddd5]**Chief Inspector**” means His Majesty’s Chief Inspector of Education, Children’s Services and Skills;
-- “[^key-d4168aeda292d491207fb09f76f7529c]**early years childminder**” means a person registered as—
+- “[^c-b5f85eed774dbce1fe5e2e48e7a0ddd5]**Chief Inspector**” means His Majesty’s Chief Inspector of Education, Children’s Services and Skills;
+- “[^c-d4168aeda292d491207fb09f76f7529c]**early years childminder**” means a person registered as—
   - (a) an early years childminder with domestic premises under section 37(1) or 37A(1) of the 2006 Act;
   - (b) an early years childminder without domestic premises under section 37(2A) or 37A(1A) of the 2006 Act;
   - (c) an early years provider other than a childminder under section 37(2) or 37A(2) of the 2006 Act in respect of early years provision which would be early years childminding, at least some or all of which is on domestic premises, but for section 96(5) of the Act
 - “early years childminder agency” has the meaning given by section 98(1) of the 2006 Act[^f00002];
-- [^key-603e525d00114b5c6dfb15200821b234]...
+- [^c-603e525d00114b5c6dfb15200821b234]...
 - “early years provider” has the meaning given by section 96(3) of the 2006 Act;
-- [^key-603e525d00114b5c6dfb15200821b234]...
+- [^c-603e525d00114b5c6dfb15200821b234]...
 - “eligible child” means a young child—
-  - (a) whose parent is entitled to any one or more of the following—[^key-cae4c38c921d8cfb108b602363850f92]
-    - (i) [^key-ef76404dc946c782532361effba607b6]...
+  - (a) whose parent is entitled to any one or more of the following—[^c-cae4c38c921d8cfb108b602363850f92]
+    - (i) [^c-ef76404dc946c782532361effba607b6]...
     - (ii) the guaranteed element of state pension credit under the State Pension Credit Act 2002;
     - (iii) income-based jobseekers’ allowance under the Jobseekers Act 1995;
     - (iv) income-related employment and support allowance under the Welfare Reform Act 2007;
     - (v) income support under the Social Security and Contributions Act 1992;
     - (vi) support under Part VI of the Immigration and Asylum Act 1999;
     - (vii) universal credit where that parent had, in the relevant assessment period, earned income not exceeding the applicable amount;
-    - (viii) [^key-ef76404dc946c782532361effba607b6]...
-  - (b) [^key-ed77fa351968e8e459f4b87dba1e643f]...
-  - (c) [^key-ed77fa351968e8e459f4b87dba1e643f]...
+    - (viii) [^c-ef76404dc946c782532361effba607b6]...
+  - (b) [^c-ed77fa351968e8e459f4b87dba1e643f]...
+  - (c) [^c-ed77fa351968e8e459f4b87dba1e643f]...
   - (d) for whom an EHC plan is prepared under section 37 of the Children and Families Act 2014 (education, health and care plans)[^f00011]
   - (e) who is entitled to disability living allowance under section 71 of the Social Security Contributions and Benefits Act 1992[^f00012];
-  - (f) who is—[^key-004e622c2f9e0eead2aea30d8a40f47c]
+  - (f) who is—[^c-004e622c2f9e0eead2aea30d8a40f47c]
     - (i) currently looked after by a local authority in England within the meaning given by section 22(1) of the Children Act 1989; or
     - (ii) currently looked after by a local authority in Wales within the meaning given by section 74(1) of the Social Services and Well-being (Wales) Act 2014; or
-  - (g) who has previously been—[^key-d735f06ad9e172205fad9718a4bdb67d]
+  - (g) who has previously been—[^c-d735f06ad9e172205fad9718a4bdb67d]
     - (i) looked after by a local authority in England within the meaning given by section 22(1) of the Children Act 1989; or
     - (ii) looked after by a local authority in Wales within the meaning given by section 74(1) of the Social Services and Well-being (Wales) Act 2014,
 
@@ -88,16 +88,16 @@ The Secretary of State for Education makes the following Regulations in exercise
       - (aa) an adoption order within the meaning given by section 46(1) of the Adoption and Children Act 2002;
       - (bb) a special guardianship order within the meaning given by section 14A(1) of the Children Act 1989;
       - (cc) a child arrangements order within the meaning given by section 8(1) of the Children Act 1989 which consists of, or includes, arrangements relating to when the child is to live with any person or with whom the child is to live or both of those things;
-- “[^key-275421bde72ae52b143361634f995246]**inspection report**” means—
+- “[^c-275421bde72ae52b143361634f995246]**inspection report**” means—
   - (a) in relation to an early years childminder agency, a report under section 51E of the 2006 Act,
   - (b) in relation to an early years provider, a report under—
     - (i) section 5 of the Education Act 2005,
     - (ii) section 50 of the 2006 Act, or
     - (iii) section 109 of the Education and Skills Act 2008;
 - “term” means a term the dates of which have been set under section 32 of the Education Act 2002[^f00017].
-- “universal credit” means the benefit payable in accordance with Part 1 of the Welfare Reform Act 2012.[^key-6401133b1ed98f50cf39630c20ba9564]
+- “universal credit” means the benefit payable in accordance with Part 1 of the Welfare Reform Act 2012.[^c-6401133b1ed98f50cf39630c20ba9564]
 
-(3)[^key-f55fc99a3603374f442749357549130a] For the purposes of paragraph (a)(vii) of the definition of an eligible child—
+(3)[^c-f55fc99a3603374f442749357549130a] For the purposes of paragraph (a)(vii) of the definition of an eligible child—
 
 - (a) “earned income” means income for the purposes of Chapter 2 of Part 6 of the Universal Credit Regulations 2013;
 - (b) the relevant assessment period and the applicable amount are those referred to in paragraphs (4) to (6) as applicable;
@@ -115,14 +115,14 @@ The Secretary of State for Education makes the following Regulations in exercise
 (5) This paragraph applies where paragraph (4) does not because the applicable amount referred to in that paragraph is exceeded and there is a universal credit assessment period (period 2) immediately preceding period 1 referred to in that paragraph—
 
 - (a) the relevant assessment period is the sum of period 1 and period 2 (SAP); and
-- (b) the applicable amount is £2,566.67[^key-07e4e916a09757935c54245a142720ee].
+- (b) the applicable amount is £2,566.67[^c-07e4e916a09757935c54245a142720ee].
 
 (6) This paragraph applies where paragraph (5) does not because the applicable amount referred to in that paragraph is exceeded and there is a universal credit assessment period (period 3) immediately preceding period 2 referred to in that paragraph—
 
 - (a) the relevant assessment period is the period made up of SAP and period 3; and
 - (b) the applicable amount is £3,850.
 
-## 2. Prescribed early years provision[^key-5f017c1d908732c4ca5ee66fb61a2661]
+## 2. Prescribed early years provision[^c-5f017c1d908732c4ca5ee66fb61a2661]
 
 (1) The prescribed early years provision for the purposes of section 7(1) of the 2006 Act (duty to secure early years provision free of charge) is early years provision that is provided by an early years provider, other than an excluded provider, to whom section 40 of the 2006 Act (duty to implement Early Years Foundation Stage) applies.
 
@@ -133,7 +133,7 @@ The Secretary of State for Education makes the following Regulations in exercise
   - (i) does not actively promote the fundamental British values of democracy, the rule of law, individual liberty and mutual respect and tolerance of those with different faiths and beliefs; or
   - (ii) promotes as evidence-based views or theories which are contrary to established scientific or historical evidence and explanations.
 
-## 3. Prescribed description of a young child[^key-048d2eaf70b7c77325e8bc89db156383]
+## 3. Prescribed description of a young child[^c-048d2eaf70b7c77325e8bc89db156383]
 
 (1) For the purposes of section 7(1)(b) of the 2006 Act, a young child is of a prescribed description if the young child meets the conditions in paragraphs (2) or (3).
 
@@ -150,7 +150,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - (b) in the case of a child who was born in the period 1st April to 31st August, 1st September following the child’s birthday;
 - (c) in the case of a child who was born in the period 1st September to 31st December, 1st January following the child’s birthday.
 
-## 4. Availability of early years provision[^key-22e09ace909a390fda9a25fe717e580f]
+## 4. Availability of early years provision[^c-22e09ace909a390fda9a25fe717e580f]
 
 (1) For the purposes of section 7(1) of the 2006 Act, an English local authority must secure that the prescribed early years provision is available for each young child for a period of 570 hours in any year and during no fewer than 38 weeks in any year.
 
@@ -158,7 +158,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 (3) Where a young child becomes an eligible child on a date after the date in regulation 3(4) applicable to the child in question, the first year commences on the date in regulation 3(4) next following the date on which the young child becomes an eligible child, and subsequent years commence on the anniversary of that date.
 
-## 5. Requirement on local authority when discharging its duty under section 7 to secure early years provision free of charge[^key-256b9be4562372ba5ff5f20b64e34489]
+## 5. Requirement on local authority when discharging its duty under section 7 to secure early years provision free of charge[^c-256b9be4562372ba5ff5f20b64e34489]
 
 (1) An English local authority must discharge its duty to a young child under section 7 of the 2006 Act by making arrangements which secure that an early years provider chosen by a parent of the child provides the early years provision to which the child is entitled in cases where—
 
@@ -169,7 +169,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 (2) The requirement in regulation 5(1) applies subject to regulation 6.
 
-## 6. Scope of the requirement in regulation 5(1)[^key-78ed3e7e6d5caceddbdbccbf7ab31dba]
+## 6. Scope of the requirement in regulation 5(1)[^c-78ed3e7e6d5caceddbdbccbf7ab31dba]
 
 (1) The requirement in regulation 5(1) does not apply if the early years provider is any of the following—
 
@@ -184,11 +184,11 @@ The Secretary of State for Education makes the following Regulations in exercise
 - (a) where the early years provision is for a child who meets the condition in regulation 3(2) but does not meet the condition in regulation 3(3), any of the grades specified in the corresponding entry in the third column of the table,
 - (b) where the early years provision is for a child who meets the condition in regulation 3(3), any of the grades specified in the corresponding entry in the fourth column of the table.
 
-## 7. Termination of the arrangements[^key-30805799f9fb5331340fd6e4de993655]
+## 7. Termination of the arrangements[^c-30805799f9fb5331340fd6e4de993655]
 
 Except in the case of arrangements with the governing body of a maintained school, arrangements made by the local authority for the purpose of complying with the requirement in regulation 5(1) must include provision allowing the local authority to terminate the arrangements if the early years provider with whom the arrangements are made becomes a provider mentioned in regulation 6(1)(a) or (b).
 
-## 8. Requirements governing arrangements made for the purpose of discharging the duty of the local authority under section 7[^key-b1ede4e00966ab6be3ac0da2e805ac57]
+## 8. Requirements governing arrangements made for the purpose of discharging the duty of the local authority under section 7[^c-b1ede4e00966ab6be3ac0da2e805ac57]
 
 (1) In making arrangements for the purpose of discharging its duty under section 7 of the 2006 Act with an early years provider (other than the governing body of a maintained school), or with an early years childminder agency, a local authority may impose on the person with whom the arrangements are made only requirements which—
 
@@ -202,19 +202,19 @@ Except in the case of arrangements with the governing body of a maintained schoo
   - (v) the effective safeguarding and promotion of welfare of the children for whom the early years provision is provided;
   - (vi) the active promotion of the fundamental British values of democracy, the rule of law, individual liberty and mutual respect and tolerance of those with different faiths and beliefs;
   - (vii) that views or theories which are contrary to established scientific or historical evidence and explanations are not promoted as evidence-based in the early years provision;
-  - (viii) where the early years provider is awarded a specified grade in its most recent inspection report, that the provider takes the measures identified in that report to improve the effectiveness of the provision, including, where applicable, participation in a training or other quality improvement programme;[^key-85eb68a34e8261e9f421463afe5445c5] or
+  - (viii) where the early years provider is awarded a specified grade in its most recent inspection report, that the provider takes the measures identified in that report to improve the effectiveness of the provision, including, where applicable, participation in a training or other quality improvement programme;[^c-85eb68a34e8261e9f421463afe5445c5] or
 - (d) are otherwise necessary for the effective administration of the arrangements.
 
 (2) But a local authority may not impose requirements which—
 
 - (a) where the arrangements are made with an early years provider—
   - (i) subject the quality of the early years provision to a quality assessment process by the local authority; or
-  - (ii) require the provider to attend any training or other quality improvement programme, other than any training or quality improvement programme identified in an [^key-7fa58178b2f50dd8877bb77f1c498ed8]... inspection report as a measure necessary for the improvement of the early years provision, [^key-fa4fb13d62112a60bc4a3a4cc8a5c453]...
+  - (ii) require the provider to attend any training or other quality improvement programme, other than any training or quality improvement programme identified in an [^c-7fa58178b2f50dd8877bb77f1c498ed8]... inspection report as a measure necessary for the improvement of the early years provision, [^c-fa4fb13d62112a60bc4a3a4cc8a5c453]...
 - (b) where the arrangements are made with an early years childminder agency, subject the quality of the services provided by the childminder agency to a quality assessment process by the local authority.
 
-(3)[^key-e182f730a0e0b61582c8338fb97ac213] In this regulation, “**specified grade**” means, in relation to an inspection specified in the first column of the table in the Schedule and conducted on a date in the corresponding entry in the second column, any of the grades specified in the corresponding entry in the third column of the table (irrespective of whether the provision is for a child who meets the condition in regulation 3(2) or 3(3)).
+(3)[^c-e182f730a0e0b61582c8338fb97ac213] In this regulation, “**specified grade**” means, in relation to an inspection specified in the first column of the table in the Schedule and conducted on a date in the corresponding entry in the second column, any of the grades specified in the corresponding entry in the third column of the table (irrespective of whether the provision is for a child who meets the condition in regulation 3(2) or 3(3)).
 
-## 9. Revocations[^key-64bd09d57942160d9aa7ab7d4bd8e5f5]
+## 9. Revocations[^c-64bd09d57942160d9aa7ab7d4bd8e5f5]
 
 The following are revoked—
 
@@ -229,7 +229,7 @@ Department for Education
 
 11th August 2014
 
-## Schedule — Specified grades[^key-ddd3c58f50dd33c9df0a7026960fd1c3]
+## Schedule — Specified grades[^c-ddd3c58f50dd33c9df0a7026960fd1c3]
 
 Regulations 6(2) and 8(3)
 
@@ -273,72 +273,72 @@ An Impact Assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21). Section 7 was substituted by section 1(2) of the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21). Sections 7A and 9A were inserted by section 87 of the Children and Families Act [2014 (c.6)](https://www.legislation.gov.uk/ukpga/2014/6). See section 106 for the definitions of “prescribed” and “regulations”.
 
-[^key-cfabdbb39e039ef7aa36d7bac63ec6d6]: Commencement: Reg. 1 in force at 8.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1)
+[^c-cfabdbb39e039ef7aa36d7bac63ec6d6]: Commencement: Reg. 1 in force at 8.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1)
 
-[^key-b5f85eed774dbce1fe5e2e48e7a0ddd5]: Textual amendment: Words in reg. 1(2) inserted (20.12.2024) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/2/2/a)
+[^c-b5f85eed774dbce1fe5e2e48e7a0ddd5]: Textual amendment: Words in reg. 1(2) inserted (20.12.2024) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/2/2/a)
 
-[^key-d4168aeda292d491207fb09f76f7529c]: Textual amendment: Words in reg. 1(2) substituted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/10/2)
+[^c-d4168aeda292d491207fb09f76f7529c]: Textual amendment: Words in reg. 1(2) substituted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/10/2)
 
 [^f00002]: Footnote: The definition of “early years childminder agency” was inserted into section 98(1) by paragraph 82 of Schedule 4 to the Children and Families Act 2014.
 
-[^key-603e525d00114b5c6dfb15200821b234]: Textual amendment: Words in reg. 1(2) omitted (1.1.2026) by virtue of [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/2/a)
+[^c-603e525d00114b5c6dfb15200821b234]: Textual amendment: Words in reg. 1(2) omitted (1.1.2026) by virtue of [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/2/a)
 
-[^key-cae4c38c921d8cfb108b602363850f92]: Textual amendment: Words in reg. 1(2) substituted (1.4.2018) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2018 (S.I. 2018/146)](https://www.legislation.gov.uk/uksi/2018/146), [regs. 1](https://www.legislation.gov.uk/uksi/2018/146/regulation/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2018/146/regulation/2/a/i)
+[^c-cae4c38c921d8cfb108b602363850f92]: Textual amendment: Words in reg. 1(2) substituted (1.4.2018) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2018 (S.I. 2018/146)](https://www.legislation.gov.uk/uksi/2018/146), [regs. 1](https://www.legislation.gov.uk/uksi/2018/146/regulation/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2018/146/regulation/2/a/i)
 
-[^key-ef76404dc946c782532361effba607b6]: Textual amendment: Words in reg. 1(2) omitted (1.1.2026) by virtue of [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/2/b/i)
+[^c-ef76404dc946c782532361effba607b6]: Textual amendment: Words in reg. 1(2) omitted (1.1.2026) by virtue of [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/2/b/i)
 
-[^key-ed77fa351968e8e459f4b87dba1e643f]: Textual amendment: Words in reg. 1(2) omitted (1.1.2026) by virtue of [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/2/b/ii)
+[^c-ed77fa351968e8e459f4b87dba1e643f]: Textual amendment: Words in reg. 1(2) omitted (1.1.2026) by virtue of [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/2/b/ii)
 
 [^f00011]: Footnote: [2014 c.6](https://www.legislation.gov.uk/ukpga/2014/6).
 
 [^f00012]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 71 was amended by section 67 of the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-004e622c2f9e0eead2aea30d8a40f47c]: Textual amendment: Words in reg. 1(2) substituted (1.4.2018) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2018 (S.I. 2018/146)](https://www.legislation.gov.uk/uksi/2018/146), [regs. 1](https://www.legislation.gov.uk/uksi/2018/146/regulation/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2018/146/regulation/2/a/ii)
+[^c-004e622c2f9e0eead2aea30d8a40f47c]: Textual amendment: Words in reg. 1(2) substituted (1.4.2018) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2018 (S.I. 2018/146)](https://www.legislation.gov.uk/uksi/2018/146), [regs. 1](https://www.legislation.gov.uk/uksi/2018/146/regulation/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2018/146/regulation/2/a/ii)
 
-[^key-d735f06ad9e172205fad9718a4bdb67d]: Textual amendment: Words in reg. 1(2) substituted (1.4.2018) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2018 (S.I. 2018/146)](https://www.legislation.gov.uk/uksi/2018/146), [regs. 1](https://www.legislation.gov.uk/uksi/2018/146/regulation/1), [2(a)(iii)](https://www.legislation.gov.uk/uksi/2018/146/regulation/2/a/iii)
+[^c-d735f06ad9e172205fad9718a4bdb67d]: Textual amendment: Words in reg. 1(2) substituted (1.4.2018) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2018 (S.I. 2018/146)](https://www.legislation.gov.uk/uksi/2018/146), [regs. 1](https://www.legislation.gov.uk/uksi/2018/146/regulation/1), [2(a)(iii)](https://www.legislation.gov.uk/uksi/2018/146/regulation/2/a/iii)
 
-[^key-275421bde72ae52b143361634f995246]: Textual amendment: Words in reg. 1(2) inserted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(2)(c)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/2/c)
+[^c-275421bde72ae52b143361634f995246]: Textual amendment: Words in reg. 1(2) inserted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(2)(c)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/2/c)
 
 [^f00017]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32). Section 32 was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-6401133b1ed98f50cf39630c20ba9564]: Textual amendment: Words in reg. 1(2) inserted (1.4.2018) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2018 (S.I. 2018/146)](https://www.legislation.gov.uk/uksi/2018/146), [regs. 1](https://www.legislation.gov.uk/uksi/2018/146/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/146/regulation/2/b)
+[^c-6401133b1ed98f50cf39630c20ba9564]: Textual amendment: Words in reg. 1(2) inserted (1.4.2018) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2018 (S.I. 2018/146)](https://www.legislation.gov.uk/uksi/2018/146), [regs. 1](https://www.legislation.gov.uk/uksi/2018/146/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/146/regulation/2/b)
 
-[^key-f55fc99a3603374f442749357549130a]: Textual amendment: Reg. 1(3)-(6) inserted (1.4.2018) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2018 (S.I. 2018/146)](https://www.legislation.gov.uk/uksi/2018/146), [regs. 1](https://www.legislation.gov.uk/uksi/2018/146/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2018/146/regulation/2/c)
+[^c-f55fc99a3603374f442749357549130a]: Textual amendment: Reg. 1(3)-(6) inserted (1.4.2018) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2018 (S.I. 2018/146)](https://www.legislation.gov.uk/uksi/2018/146), [regs. 1](https://www.legislation.gov.uk/uksi/2018/146/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2018/146/regulation/2/c)
 
-[^key-07e4e916a09757935c54245a142720ee]: Textual amendment: Sum in reg. 1(5)(b) substituted (12.4.2018) by [The Early Years Foundation Stage (Exemption from Learning and Development Requirements) and Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2018 (S.I. 2018/383)](https://www.legislation.gov.uk/uksi/2018/383), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/383/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2018/383/regulation/6)
+[^c-07e4e916a09757935c54245a142720ee]: Textual amendment: Sum in reg. 1(5)(b) substituted (12.4.2018) by [The Early Years Foundation Stage (Exemption from Learning and Development Requirements) and Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2018 (S.I. 2018/383)](https://www.legislation.gov.uk/uksi/2018/383), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/383/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2018/383/regulation/6)
 
-[^key-5f017c1d908732c4ca5ee66fb61a2661]: Commencement: Reg. 2 in force at 8.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1)
+[^c-5f017c1d908732c4ca5ee66fb61a2661]: Commencement: Reg. 2 in force at 8.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1)
 
 [^f00018]: Footnote: [2010 c.32](https://www.legislation.gov.uk/ukpga/2010/32). Section 1A was inserted by section 53(7) of the Education Act [2011 (c.21)](https://www.legislation.gov.uk/ukpga/2011/21).
 
-[^key-048d2eaf70b7c77325e8bc89db156383]: Commencement: Reg. 3 in force at 8.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1)
+[^c-048d2eaf70b7c77325e8bc89db156383]: Commencement: Reg. 3 in force at 8.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1)
 
-[^key-22e09ace909a390fda9a25fe717e580f]: Commencement: Reg. 4 in force at 8.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1)
+[^c-22e09ace909a390fda9a25fe717e580f]: Commencement: Reg. 4 in force at 8.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1)
 
-[^key-256b9be4562372ba5ff5f20b64e34489]: Commencement: Reg. 5 in force at 8.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1)
+[^c-256b9be4562372ba5ff5f20b64e34489]: Commencement: Reg. 5 in force at 8.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1)
 
-[^key-78ed3e7e6d5caceddbdbccbf7ab31dba]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2147/regulation/6) substituted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/3)
+[^c-78ed3e7e6d5caceddbdbccbf7ab31dba]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2147/regulation/6) substituted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/3)
 
-[^key-30805799f9fb5331340fd6e4de993655]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/2147/regulation/7) substituted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(4)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/4)
+[^c-30805799f9fb5331340fd6e4de993655]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/2147/regulation/7) substituted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(4)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/4)
 
-[^key-b1ede4e00966ab6be3ac0da2e805ac57]: Commencement: Reg. 8 in force at 8.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1)
+[^c-b1ede4e00966ab6be3ac0da2e805ac57]: Commencement: Reg. 8 in force at 8.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1)
 
 [^f00019]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
 [^f00020]: Footnote: [2014 c.6](https://www.legislation.gov.uk/ukpga/2014/6).
 
-[^key-85eb68a34e8261e9f421463afe5445c5]: Textual amendment: Reg. 8(1)(c)(viii) substituted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(5)(a)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/5/a)
+[^c-85eb68a34e8261e9f421463afe5445c5]: Textual amendment: Reg. 8(1)(c)(viii) substituted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(5)(a)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/5/a)
 
-[^key-7fa58178b2f50dd8877bb77f1c498ed8]: Textual amendment: Words in reg. 8(2)(a)(ii) omitted (1.1.2026) by virtue of [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(5)(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/5/b)
+[^c-7fa58178b2f50dd8877bb77f1c498ed8]: Textual amendment: Words in reg. 8(2)(a)(ii) omitted (1.1.2026) by virtue of [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(5)(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/5/b)
 
-[^key-fa4fb13d62112a60bc4a3a4cc8a5c453]: Textual amendment: Words in reg. 8(2)(a)(ii) omitted (20.12.2024) by virtue of [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/2/5/b)
+[^c-fa4fb13d62112a60bc4a3a4cc8a5c453]: Textual amendment: Words in reg. 8(2)(a)(ii) omitted (20.12.2024) by virtue of [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/2/5/b)
 
-[^key-e182f730a0e0b61582c8338fb97ac213]: Textual amendment: Reg. 8(3) inserted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(5)(c)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/5/c)
+[^c-e182f730a0e0b61582c8338fb97ac213]: Textual amendment: Reg. 8(3) inserted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(5)(c)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/5/c)
 
-[^key-64bd09d57942160d9aa7ab7d4bd8e5f5]: Commencement: Reg. 9 in force at 8.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1)
+[^c-64bd09d57942160d9aa7ab7d4bd8e5f5]: Commencement: Reg. 9 in force at 8.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1)
 
 [^f00021]: Footnote: [S.I. 2013/3193](https://www.legislation.gov.uk/uksi/2013/3193).
 
 [^f00022]: Footnote: [S.I. 2014/1705](https://www.legislation.gov.uk/uksi/2014/1705).
 
-[^key-ddd3c58f50dd33c9df0a7026960fd1c3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2014/2147/schedule) inserted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(6)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/6)
+[^c-ddd3c58f50dd33c9df0a7026960fd1c3]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2014/2147/schedule) inserted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [3(6)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3/6)

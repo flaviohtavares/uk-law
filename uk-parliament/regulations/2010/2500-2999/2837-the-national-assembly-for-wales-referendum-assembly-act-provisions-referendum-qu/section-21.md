@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Sending of applications and notices: electronic signatures and related certificates[^key-4aa45c07b619209bf1618af7bd22b3c7]
+## 21. Sending of applications and notices: electronic signatures and related certificates[^c-4aa45c07b619209bf1618af7bd22b3c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ is (either alone or in combination with other factors) a valid means of establis
 
 ## Annotations
 
-[^key-4aa45c07b619209bf1618af7bd22b3c7]: Commencement: Art. 21 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-4aa45c07b619209bf1618af7bd22b3c7]: Commencement: Art. 21 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

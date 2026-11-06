@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28F. Deliberate infection: disqualification orders[^key-38ecb1de89e57bd6d620fecc0fe10591]
+## 28F. Deliberate infection: disqualification orders[^c-38ecb1de89e57bd6d620fecc0fe10591]
 
 *Extent: S*
 
@@ -87,4 +87,4 @@ if no alternative arrangements for its care are reasonably available.
 
 ## Annotations
 
-[^key-38ecb1de89e57bd6d620fecc0fe10591]: Textual amendment: Ss. 28C-28H inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 10](https://www.legislation.gov.uk/asp/2006/11/section/10), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-38ecb1de89e57bd6d620fecc0fe10591]: Textual amendment: Ss. 28C-28H inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 10](https://www.legislation.gov.uk/asp/2006/11/section/10), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

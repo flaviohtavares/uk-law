@@ -22,7 +22,7 @@ summary: ''
 
 (1) In this section “**the relevant provisions**” means—
 
-- [^key-bd03cd75553dc81a9ce1b18f8215438b]...
+- [^c-bd03cd75553dc81a9ce1b18f8215438b]...
 - section 142(1)(a) and (2)(a),
 - section 143(1), and
 - section 146(2)(b).
@@ -44,4 +44,4 @@ the bonus shares are treated for the purposes of the relevant provisions as havi
 
 ## Annotations
 
-[^key-bd03cd75553dc81a9ce1b18f8215438b]: Textual amendment: Words in [s. 150(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/150/1) omitted (with effect in accordance with s. 38(3) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(a)(iii)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/a/iii)
+[^c-bd03cd75553dc81a9ce1b18f8215438b]: Textual amendment: Words in [s. 150(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/150/1) omitted (with effect in accordance with s. 38(3) of the amending Act) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(a)(iii)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/a/iii)

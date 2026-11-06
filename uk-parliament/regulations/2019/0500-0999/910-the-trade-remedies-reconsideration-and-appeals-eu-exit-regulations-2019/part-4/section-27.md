@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27.[^key-6970fd68b8b8cfc8165d7b16b39ca72f]
+## 27.[^c-6970fd68b8b8cfc8165d7b16b39ca72f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 15 (the effect of an original decision, withdrawal and termination of
 
 ## Annotations
 
-[^key-6970fd68b8b8cfc8165d7b16b39ca72f]: Commencement: Reg. 27 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-6970fd68b8b8cfc8165d7b16b39ca72f]: Commencement: Reg. 27 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)

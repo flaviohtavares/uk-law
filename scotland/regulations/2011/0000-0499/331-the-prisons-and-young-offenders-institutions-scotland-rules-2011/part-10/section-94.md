@@ -40,10 +40,10 @@ summary: ''
 (8) When providing a sample of urine—
 
 - (a) the prisoner must be afforded such degree of privacy for the purposes of providing the sample as may be compatible with the need to prevent or detect any alteration or falsification of the sample; and
-- (b) the prisoner must not be required to provide such a sample in the sight of a person of the opposite gender unless the Governor considers that it is necessary to do so for the purpose of protecting the health, welfare or safety of any person or the security or good order of the prison[^key-f59226c62137f748aa414ff59385a508].
+- (b) the prisoner must not be required to provide such a sample in the sight of a person of the opposite gender unless the Governor considers that it is necessary to do so for the purpose of protecting the health, welfare or safety of any person or the security or good order of the prison[^c-f59226c62137f748aa414ff59385a508].
 
 ## Annotations
 
 [^c21071771]: Marginal citation: [1989 c.45](https://www.legislation.gov.uk/ukpga/1989/45); Section 41C was added by the [Crime and Punishment (Scotland) Act 1997 (c.48)](https://www.legislation.gov.uk/ukpga/1997/48), [section 42](https://www.legislation.gov.uk/ukpga/1997/48/section/42).
 
-[^key-f59226c62137f748aa414ff59385a508]: Textual amendment: Words in [rule 94(8)(b)](https://www.legislation.gov.uk/ssi/2011/331/rule/94/8/b) inserted (26.2.2024) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2023 (S.S.I. 2023/366)](https://www.legislation.gov.uk/ssi/2023/366), [rules 1](https://www.legislation.gov.uk/ssi/2023/366/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2023/366/rule/2/4)
+[^c-f59226c62137f748aa414ff59385a508]: Textual amendment: Words in [rule 94(8)(b)](https://www.legislation.gov.uk/ssi/2011/331/rule/94/8/b) inserted (26.2.2024) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2023 (S.S.I. 2023/366)](https://www.legislation.gov.uk/ssi/2023/366), [rules 1](https://www.legislation.gov.uk/ssi/2023/366/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2023/366/rule/2/4)

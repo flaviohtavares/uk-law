@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The independent monitoring board[^key-3859c50c684e77ee71a4c70eb5da02d9] for a prison shall, in accordance with paragraphs (2) and (3) below, from time to time make a report to the Secretary of State concerning the state of the prison and its administration, including in it any advice and suggestions they consider appropriate.
+(1) The independent monitoring board[^c-3859c50c684e77ee71a4c70eb5da02d9] for a prison shall, in accordance with paragraphs (2) and (3) below, from time to time make a report to the Secretary of State concerning the state of the prison and its administration, including in it any advice and suggestions they consider appropriate.
 
 (2) The board shall comply with any directions given to them from time to time by the Secretary of State as to the following matters:
 
@@ -34,4 +34,4 @@ either in respect of a particular report or generally; providing that no directi
 
 ## Annotations
 
-[^key-3859c50c684e77ee71a4c70eb5da02d9]: Textual amendment: Words in rule 80(1) substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/a)
+[^c-3859c50c684e77ee71a4c70eb5da02d9]: Textual amendment: Words in rule 80(1) substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/a)

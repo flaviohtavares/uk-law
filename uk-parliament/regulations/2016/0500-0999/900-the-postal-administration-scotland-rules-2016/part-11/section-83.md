@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Notice to joint postal administrators[^key-c2a810d2f886536778fbfe6c31516f11]
+## 83. Notice to joint postal administrators[^c-c2a810d2f886536778fbfe6c31516f11]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where two or more persons are acting jointly as the postal administrator in rela
 
 ## Annotations
 
-[^key-c2a810d2f886536778fbfe6c31516f11]: Commencement: Rule 83 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-c2a810d2f886536778fbfe6c31516f11]: Commencement: Rule 83 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

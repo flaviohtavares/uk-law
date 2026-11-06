@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Use of premises, tools and equipment for the preparation of meat products from meat without an EC health mark[^key-3896f5b8021ce98d8adf893cb4f11f87]
+## 18. Use of premises, tools and equipment for the preparation of meat products from meat without an EC health mark[^c-3896f5b8021ce98d8adf893cb4f11f87]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3896f5b8021ce98d8adf893cb4f11f87]: Commencement: Reg. 18 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-3896f5b8021ce98d8adf893cb4f11f87]: Commencement: Reg. 18 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
 
 [^f00026]: Footnote: O.J. No. L.268, 24.9.91, p. 105

@@ -42,7 +42,7 @@ and for the purposes of this subsection the principal office of a company regist
 
 that document may be served either by leaving it in the hands of a person who is or appears to be resident or employed on the land or by leaving it conspicuously affixed to some building or object on the land.
 
-(4A)[^key-56b033d72180736dd34e4a83e2d18aa0] Any document required or authorised by virtue of this Act to be served on any person may be served by electronic means.
+(4A)[^c-56b033d72180736dd34e4a83e2d18aa0] Any document required or authorised by virtue of this Act to be served on any person may be served by electronic means.
 
 (4B) But a document may be served by electronic means on a person who is a consumer only if—
 
@@ -64,4 +64,4 @@ but does not include a water undertaker, a water supply licensee, a sewerage und
 
 [^c13224031]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-56b033d72180736dd34e4a83e2d18aa0]: Textual amendment: [S. 216(4A)-(4C)](https://www.legislation.gov.uk/ukpga/1991/56/section/216/4A) inserted (10.5.2022 for specified purposes) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 87](https://www.legislation.gov.uk/ukpga/2021/30/section/87), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(f)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/f)
+[^c-56b033d72180736dd34e4a83e2d18aa0]: Textual amendment: [S. 216(4A)-(4C)](https://www.legislation.gov.uk/ukpga/1991/56/section/216/4A) inserted (10.5.2022 for specified purposes) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 87](https://www.legislation.gov.uk/ukpga/2021/30/section/87), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(f)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/f)

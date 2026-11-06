@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Co-operation by local authorities and health boards[^key-410f7ac134b493e7e92594a8b37a756d]
+## 89. Co-operation by local authorities and health boards[^c-410f7ac134b493e7e92594a8b37a756d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Local authorities and health boards must co-operate with one another in complyin
 
 ## Annotations
 
-[^key-410f7ac134b493e7e92594a8b37a756d]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2008/5/section/89) in force at 1.4.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
+[^c-410f7ac134b493e7e92594a8b37a756d]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2008/5/section/89) in force at 1.4.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)

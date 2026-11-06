@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Other inquiries held by Commissioner[^key-f190f36019bdf6d34ceece19a9846462]
+## 4. Other inquiries held by Commissioner[^c-f190f36019bdf6d34ceece19a9846462]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f190f36019bdf6d34ceece19a9846462]: Textual amendment: S. 4 repealed (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 2(1)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/2/1)
+[^c-f190f36019bdf6d34ceece19a9846462]: Textual amendment: S. 4 repealed (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 2(1)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/2/1)

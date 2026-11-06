@@ -20,10 +20,10 @@ summary: ''
 
 **Not yet in force.**
 
-**56.**[^key-b92f34d7eab83ae305e83fe58eead226] Where a draft net or a tidal draft net is operated from a boat the only permitted mode of using the net shall be as follows, namely—
+**56.**[^c-b92f34d7eab83ae305e83fe58eead226] Where a draft net or a tidal draft net is operated from a boat the only permitted mode of using the net shall be as follows, namely—
 
 one end of the rope of the net shall be fixed to a buoy, whether anchored or not, and the net shall be shot or paid out from a boat which shall start from such buoy and return thereto without avoidable pause or delay, and the net shall thereupon be drawn into and landed on such boat.
 
 ## Annotations
 
-[^key-b92f34d7eab83ae305e83fe58eead226]: Commencement: S. 56 in operation at 1.11.1997, see byelaw 1
+[^c-b92f34d7eab83ae305e83fe58eead226]: Commencement: S. 56 in operation at 1.11.1997, see byelaw 1

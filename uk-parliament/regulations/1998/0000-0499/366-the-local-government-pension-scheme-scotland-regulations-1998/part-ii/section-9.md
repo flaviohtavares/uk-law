@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Excluded membership[^key-3cf6e58e30e4f9ba9c1564f85b69e3f4]
+## 9. Excluded membership[^c-3cf6e58e30e4f9ba9c1564f85b69e3f4]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cf6e58e30e4f9ba9c1564f85b69e3f4]: Commencement: Reg. 9 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-3cf6e58e30e4f9ba9c1564f85b69e3f4]: Commencement: Reg. 9 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

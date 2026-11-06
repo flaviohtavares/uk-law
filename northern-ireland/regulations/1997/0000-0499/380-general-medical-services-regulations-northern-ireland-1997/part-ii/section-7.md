@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. The Medical Committee[^key-cfa25f40d66e25bfb709163a5d587f7d]
+## 7. The Medical Committee[^c-cfa25f40d66e25bfb709163a5d587f7d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The Medical Committee shall be constituted by the Agency in accordance with Sche
 
 ## Annotations
 
-[^key-cfa25f40d66e25bfb709163a5d587f7d]: Commencement: Reg. 7 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-cfa25f40d66e25bfb709163a5d587f7d]: Commencement: Reg. 7 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

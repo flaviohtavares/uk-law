@@ -35,7 +35,7 @@ An Act to make provision for the granting of scholarships in commemoration of th
 
 ## 1. Marshall scholarships.[^c6189061]
 
-For the purpose of providing, in each year, up to 50[^key-3d94a5d149092374ea1cb421baebc0c1] scholarships (to be known as Marshall scholarships) tenable at universities or university colleges in the United Kingdom by citizens of the United States of America who are graduates of recognised institutions of higher learning in the United States of America, the Secretary of State may make, out of moneys provided by Parliament, grants to the commission established by this Act to defray the expenditure of the commission incurred for the said purpose, including administrative expenses incurred in connection therewith.
+For the purpose of providing, in each year, up to 50[^c-3d94a5d149092374ea1cb421baebc0c1] scholarships (to be known as Marshall scholarships) tenable at universities or university colleges in the United Kingdom by citizens of the United States of America who are graduates of recognised institutions of higher learning in the United States of America, the Secretary of State may make, out of moneys provided by Parliament, grants to the commission established by this Act to defray the expenditure of the commission incurred for the said purpose, including administrative expenses incurred in connection therewith.
 
 ## 2. The Marshall Aid Commemoration Commission.
 
@@ -70,4 +70,4 @@ This Act may be cited as the Marshall Aid Commemoration Act 1953.
 
 [^c6189061]: Modification: S. 1: power to amend conferred by [Marshall Scholarships Act 1959 (8 & 9 Eliz. 2 c. 3)](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/3), [s. 1(1)](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/3/section/1/1)
 
-[^key-3d94a5d149092374ea1cb421baebc0c1]: Textual amendment: Word in [s. 1](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/39/section/1) substituted (23.1.2018) by [The Marshall Scholarships Order 2017 (S.I. 2017/1109)](https://www.legislation.gov.uk/uksi/2017/1109), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1109/article/1), [2](https://www.legislation.gov.uk/uksi/2017/1109/article/2)
+[^c-3d94a5d149092374ea1cb421baebc0c1]: Textual amendment: Word in [s. 1](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/39/section/1) substituted (23.1.2018) by [The Marshall Scholarships Order 2017 (S.I. 2017/1109)](https://www.legislation.gov.uk/uksi/2017/1109), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1109/article/1), [2](https://www.legislation.gov.uk/uksi/2017/1109/article/2)

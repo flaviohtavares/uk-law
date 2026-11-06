@@ -46,11 +46,11 @@ Coming into force
 
 The Minister of Agriculture, Fisheries and Food and the Secretary of State for Wales, (“the Ministers”), in exercise of the powers conferred on them[^f00001] by section 61E(1) and 72(1) of the Land Drainage Act 1991[^f00002] and after consulting in accordance with section 61E(4) of that Act hereby jointly make the following Order:
 
-## 1. Title and commencement[^key-79941513e42cf1f1678c5a8cbf317574]
+## 1. Title and commencement[^c-79941513e42cf1f1678c5a8cbf317574]
 
 This Order may be cited as the Code of Practice on Environmental Procedures for Flood Defence Operating Authorities (Internal Drainage Boards and Local Authorities) Approval Order 1996 and shall come into force on 1st January 1997.
 
-## 2. Approval of Code of Practice[^key-b967096fe981aa9740f835a573a9af98]
+## 2. Approval of Code of Practice[^c-b967096fe981aa9740f835a573a9af98]
 
 The Ministers approve the code of practice issued by them entitled “Code of Practice on Environmental Procedures for Flood Defence Operating Authorities”[^f00003] for the purpose of —
 
@@ -87,8 +87,8 @@ Copies of the code of practice can be obtained, free of charge, quoting referenc
 
 [^f00002]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59): sections 61A to 61E were inserted by the Land Drainage Act [1994 (c. 25)](https://www.legislation.gov.uk/ukpga/1994/25).
 
-[^key-79941513e42cf1f1678c5a8cbf317574]: Commencement: Art. 1 in force at 1.1.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/3062/article/1)
+[^c-79941513e42cf1f1678c5a8cbf317574]: Commencement: Art. 1 in force at 1.1.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/3062/article/1)
 
-[^key-b967096fe981aa9740f835a573a9af98]: Commencement: Art. 2 in force at 1.1.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/3062/article/1)
+[^c-b967096fe981aa9740f835a573a9af98]: Commencement: Art. 2 in force at 1.1.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1996/3062/article/1)
 
 [^f00003]: Footnote: Published by the Ministry of Agriculture, Fisheries and Food with reference PB 2906.

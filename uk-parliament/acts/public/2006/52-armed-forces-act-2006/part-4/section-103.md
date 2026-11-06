@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Custody without charge: other cases[^key-e10573afeea0fe33b9cd75c04c440b63][^key-f815d5b00e489ca2380c3b7cbf4b4a8d][^key-1449651490116242237072ccba8cd608][^key-f815d5b00e489ca2380c3b7cbf4b4a8d]
+## 103. Custody without charge: other cases[^c-e10573afeea0fe33b9cd75c04c440b63][^c-f815d5b00e489ca2380c3b7cbf4b4a8d][^c-1449651490116242237072ccba8cd608][^c-f815d5b00e489ca2380c3b7cbf4b4a8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,8 +29,8 @@ as they apply where a person is arrested under section 67, subject to such modif
 
 ## Annotations
 
-[^key-e10573afeea0fe33b9cd75c04c440b63]: Commencement: S. 103 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-e10573afeea0fe33b9cd75c04c440b63]: Commencement: S. 103 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-f815d5b00e489ca2380c3b7cbf4b4a8d]: Modification: Pt. 4 modified by 1968 c. 20, s. 20(1G)(1H) (as substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 21(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/21/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
+[^c-f815d5b00e489ca2380c3b7cbf4b4a8d]: Modification: Pt. 4 modified by 1968 c. 20, s. 20(1G)(1H) (as substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 21(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/21/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
 
-[^key-1449651490116242237072ccba8cd608]: Commencement: S. 103 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-1449651490116242237072ccba8cd608]: Commencement: S. 103 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

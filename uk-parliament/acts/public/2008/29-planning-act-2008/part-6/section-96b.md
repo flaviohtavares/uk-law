@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96B. Costs[^key-25f5a881b7d681297b9ec7777177f488]
+## 96B. Costs[^c-25f5a881b7d681297b9ec7777177f488]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25f5a881b7d681297b9ec7777177f488]: Textual amendment: S. 96B inserted (18.2.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 10(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/10/3), [118(1)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/d) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-25f5a881b7d681297b9ec7777177f488]: Textual amendment: S. 96B inserted (18.2.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 10(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/10/3), [118(1)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/d) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

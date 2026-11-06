@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 437B. Section 437A: supplementary[^key-f00c7943a9320fe25246bdc11be71f80]
+## 437B. Section 437A: supplementary[^c-f00c7943a9320fe25246bdc11be71f80]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f00c7943a9320fe25246bdc11be71f80]: Textual amendment: Ss. 437A-437C inserted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/22)
+[^c-f00c7943a9320fe25246bdc11be71f80]: Textual amendment: Ss. 437A-437C inserted (with effect in accordance with Sch. 6 para. 27 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2011/11/schedule/6/paragraph/22)

@@ -40,13 +40,13 @@ A MEASURE of the National Assembly for Wales to make provision for the suspensio
 
 ## Contents
 
-### PART 1 — SUSPENSION OF THE RIGHT TO BUY AND RELATED RIGHTS[^key-3ef4081e189d3ef7cf43abca58c0ef42]
+### PART 1 — SUSPENSION OF THE RIGHT TO BUY AND RELATED RIGHTS[^c-3ef4081e189d3ef7cf43abca58c0ef42]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### CHAPTER 1 — DIRECTIONS SUSPENDING THE RIGHT TO BUY AND RELATED RIGHTS[^key-3ef4081e189d3ef7cf43abca58c0ef42]
+#### CHAPTER 1 — DIRECTIONS SUSPENDING THE RIGHT TO BUY AND RELATED RIGHTS[^c-3ef4081e189d3ef7cf43abca58c0ef42]
 
 **No longer in force.**
 
@@ -57,7 +57,7 @@ A MEASURE of the National Assembly for Wales to make provision for the suspensio
 - [Section 5 — Decision of the Welsh Ministers on the application](part-1/section-5.md)
 - [Section 6 — Issue of direction](part-1/section-6.md)
 
-#### CHAPTER 2 — VARIATION OF DIRECTION SUSPENDING THE RIGHT TO BUY AND RELATED RIGHTS[^key-3ef4081e189d3ef7cf43abca58c0ef42]
+#### CHAPTER 2 — VARIATION OF DIRECTION SUSPENDING THE RIGHT TO BUY AND RELATED RIGHTS[^c-3ef4081e189d3ef7cf43abca58c0ef42]
 
 **No longer in force.**
 
@@ -73,7 +73,7 @@ A MEASURE of the National Assembly for Wales to make provision for the suspensio
 - [Section 16 — Decision of the Welsh Ministers on the application](part-1/section-16.md)
 - [Section 17 — Issue of direction as varied to include reducing elements](part-1/section-17.md)
 
-#### CHAPTER 3 — EXTENSION OF DIRECTION SUSPENDING THE RIGHT TO BUY AND RELATED RIGHTS[^key-3ef4081e189d3ef7cf43abca58c0ef42]
+#### CHAPTER 3 — EXTENSION OF DIRECTION SUSPENDING THE RIGHT TO BUY AND RELATED RIGHTS[^c-3ef4081e189d3ef7cf43abca58c0ef42]
 
 **No longer in force.**
 
@@ -83,7 +83,7 @@ A MEASURE of the National Assembly for Wales to make provision for the suspensio
 - [Section 21 — Decision of the Welsh Ministers on the application](part-1/section-21.md)
 - [Section 22 — Issue of direction as extended](part-1/section-22.md)
 
-#### CHAPTER 4 — REVOCATION OF DIRECTION SUSPENDING THE RIGHT TO BUY AND RELATED RIGHTS[^key-3ef4081e189d3ef7cf43abca58c0ef42]
+#### CHAPTER 4 — REVOCATION OF DIRECTION SUSPENDING THE RIGHT TO BUY AND RELATED RIGHTS[^c-3ef4081e189d3ef7cf43abca58c0ef42]
 
 **No longer in force.**
 
@@ -91,7 +91,7 @@ A MEASURE of the National Assembly for Wales to make provision for the suspensio
 - [Section 24 — Application for revocation](part-1/section-24.md)
 - [Section 25 — Decision of the Welsh Ministers on the application](part-1/section-25.md)
 
-#### CHAPTER 5 — APPLICATIONS: GENERAL PROVISIONS[^key-3ef4081e189d3ef7cf43abca58c0ef42]
+#### CHAPTER 5 — APPLICATIONS: GENERAL PROVISIONS[^c-3ef4081e189d3ef7cf43abca58c0ef42]
 
 **No longer in force.**
 
@@ -101,14 +101,14 @@ A MEASURE of the National Assembly for Wales to make provision for the suspensio
 - [Section 29 — Restriction on repeat applications](part-1/section-29.md)
 - [Section 30 — Guidance](part-1/section-30.md)
 
-#### CHAPTER 6 — AMENDMENTS TO THE HOUSING ACT 1985[^key-3ef4081e189d3ef7cf43abca58c0ef42]
+#### CHAPTER 6 — AMENDMENTS TO THE HOUSING ACT 1985[^c-3ef4081e189d3ef7cf43abca58c0ef42]
 
 **No longer in force.**
 
 - [Section 31 — Consequence of the Welsh Ministers deciding to consider certain applications](part-1/section-31.md)
 - [Section 32 — Effect of direction to suspend the right to buy](part-1/section-32.md)
 
-#### CHAPTER 7 — MISCELLANEOUS[^key-3ef4081e189d3ef7cf43abca58c0ef42]
+#### CHAPTER 7 — MISCELLANEOUS[^c-3ef4081e189d3ef7cf43abca58c0ef42]
 
 **No longer in force.**
 
@@ -218,4 +218,4 @@ A MEASURE of the National Assembly for Wales to make provision for the suspensio
 
 ## Annotations
 
-[^key-3ef4081e189d3ef7cf43abca58c0ef42]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/mwa/2011/5/part/1) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/7/2); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
+[^c-3ef4081e189d3ef7cf43abca58c0ef42]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/mwa/2011/5/part/1) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/7/2); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)

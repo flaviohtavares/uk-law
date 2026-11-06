@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2019 (revoked)[^key-70f65c5005298955a3e6a8478d8c7d10]
+The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2019 (revoked)[^c-70f65c5005298955a3e6a8478d8c7d10]
 
 Made
 
@@ -42,32 +42,32 @@ Coming into operation
 
 6th April 2019
 
-[^key-70f65c5005298955a3e6a8478d8c7d10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70f65c5005298955a3e6a8478d8c7d10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-70f65c5005298955a3e6a8478d8c7d10]
+## 1. Citation, commencement and interpretation[^c-70f65c5005298955a3e6a8478d8c7d10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Increase of amounts[^key-70f65c5005298955a3e6a8478d8c7d10]
+## 2. Increase of amounts[^c-70f65c5005298955a3e6a8478d8c7d10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Rounded figures[^key-70f65c5005298955a3e6a8478d8c7d10]
+## 3. Rounded figures[^c-70f65c5005298955a3e6a8478d8c7d10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-70f65c5005298955a3e6a8478d8c7d10]
+## 4. Revocation[^c-70f65c5005298955a3e6a8478d8c7d10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-70f65c5005298955a3e6a8478d8c7d10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70f65c5005298955a3e6a8478d8c7d10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-70f65c5005298955a3e6a8478d8c7d10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70f65c5005298955a3e6a8478d8c7d10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-70f65c5005298955a3e6a8478d8c7d10]: Textual amendment: Order revoked (6.4.2021) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2021 (S.R. 2021/66)](https://www.legislation.gov.uk/nisr/2021/66), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2021/66/article/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2021/66/article/4/a)
+[^c-70f65c5005298955a3e6a8478d8c7d10]: Textual amendment: Order revoked (6.4.2021) by [The Automatic Enrolment (Earnings Trigger and Qualifying Earnings Band) Order (Northern Ireland) 2021 (S.R. 2021/66)](https://www.legislation.gov.uk/nisr/2021/66), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2021/66/article/1/1), [4(a)](https://www.legislation.gov.uk/nisr/2021/66/article/4/a)

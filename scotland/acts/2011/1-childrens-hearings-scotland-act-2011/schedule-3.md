@@ -24,7 +24,7 @@ summary: ''
 
 ### Status
 
-**1.**[^key-3c9208cb3af838601489b6c33f206ed8] (1) SCRA—
+**1.**[^c-3c9208cb3af838601489b6c33f206ed8] (1) SCRA—
 
 - (a) is not a servant or agent of the Crown, and
 - (b) does not enjoy any status, immunity or privilege of the Crown.
@@ -33,7 +33,7 @@ summary: ''
 
 ### Membership
 
-**2.**[^key-fa005382855811dc5d62a296fe2a501d] (1) The members of SCRA are to be appointed by the Scottish Ministers.
+**2.**[^c-fa005382855811dc5d62a296fe2a501d] (1) The members of SCRA are to be appointed by the Scottish Ministers.
 
 (2) There are to be no fewer than five and no more than eight members.
 
@@ -49,7 +49,7 @@ summary: ''
 
 ### Persons disqualified from membership
 
-**3.**[^key-32ac840071796eb776ecabefb2096692] A person is disqualified from appointment, and from holding office, as a member if the person is or becomes—
+**3.**[^c-32ac840071796eb776ecabefb2096692] A person is disqualified from appointment, and from holding office, as a member if the person is or becomes—
 
 - (a) a member of the House of Commons,
 - (b) a member of the Scottish Parliament, or
@@ -57,11 +57,11 @@ summary: ''
 
 ### Resignation of members
 
-**4.**[^key-3df693b30f98c1e6236454a7e1e08dd4] A member of SCRA may resign office by giving notice in writing to the Scottish Ministers.
+**4.**[^c-3df693b30f98c1e6236454a7e1e08dd4] A member of SCRA may resign office by giving notice in writing to the Scottish Ministers.
 
 ### Removal of members
 
-**5.**[^key-0b39b0da0d722a70ad6d6b62a33e12e1] (1) The Scottish Ministers may revoke the appointment of a member of SCRA if—
+**5.**[^c-0b39b0da0d722a70ad6d6b62a33e12e1] (1) The Scottish Ministers may revoke the appointment of a member of SCRA if—
 
 - (a) the member becomes insolvent,
 - (b) the member is incapacitated by physical or mental illness,
@@ -78,7 +78,7 @@ summary: ''
 
 ### Remuneration, allowances etc.
 
-**6.**[^key-33ce460049356c595214d9d5faa064eb] (1) SCRA must pay to its members—
+**6.**[^c-33ce460049356c595214d9d5faa064eb] (1) SCRA must pay to its members—
 
 - (a) such remuneration as the Scottish Ministers may determine, and
 - (b) such allowances in respect of expenses properly incurred by members in the performance of their functions as may be so determined.
@@ -97,7 +97,7 @@ summary: ''
 
 ### Chairing meetings
 
-**7.**[^key-b4775e653e632a82ca01e971f7c2852e] (1) The Scottish Ministers must appoint one of the members of SCRA to chair meetings of SCRA (the “chairing member”).
+**7.**[^c-b4775e653e632a82ca01e971f7c2852e] (1) The Scottish Ministers must appoint one of the members of SCRA to chair meetings of SCRA (the “chairing member”).
 
 (2) The chairing member holds and vacates that office on terms and conditions determined by the Scottish Ministers.
 
@@ -109,7 +109,7 @@ summary: ''
 
 ### The Principal Reporter
 
-**8.**[^key-f5cfd293ddf7ee090b98757c41c9a065] (1) The Principal Reporter is to be appointed by SCRA with the approval of the Scottish Ministers.
+**8.**[^c-f5cfd293ddf7ee090b98757c41c9a065] (1) The Principal Reporter is to be appointed by SCRA with the approval of the Scottish Ministers.
 
 (2) SCRA must take reasonable steps to involve persons who are under 21 years of age in the process for selection of a person for appointment under sub-paragraph (1).
 
@@ -138,11 +138,11 @@ summary: ''
 
 ### Supplementary powers of Principal Reporter
 
-**9.**[^key-288897d01eb65f3e143c08cb2d6d3c93] The Principal Reporter may do anything that the Principal Reporter considers appropriate for the purposes of or in connection with the functions conferred on the Principal Reporter by virtue of this Act or any other enactment.
+**9.**[^c-288897d01eb65f3e143c08cb2d6d3c93] The Principal Reporter may do anything that the Principal Reporter considers appropriate for the purposes of or in connection with the functions conferred on the Principal Reporter by virtue of this Act or any other enactment.
 
 ### Delegation of Principal Reporter's functions
 
-**10.**[^key-6a4ddae204dd0646e2116169aaa765af] (1) The functions of the Principal Reporter conferred by virtue of this Act or any other enactment (other than the duty imposed by paragraph 22) may be carried out on the Principal Reporter's behalf by a person employed by SCRA who is—
+**10.**[^c-6a4ddae204dd0646e2116169aaa765af] (1) The functions of the Principal Reporter conferred by virtue of this Act or any other enactment (other than the duty imposed by paragraph 22) may be carried out on the Principal Reporter's behalf by a person employed by SCRA who is—
 
 - (a) authorised (whether specially or generally) by the Principal Reporter for the purpose, or
 - (b) a member of a class of person authorised (whether specially or generally) by the Principal Reporter for the purpose.
@@ -159,7 +159,7 @@ summary: ''
 
 ### Staff
 
-**11.**[^key-d6330a0e89a3b0d9df3b418b253d3299] (1) SCRA may employ any staff necessary to ensure the carrying out of SCRA's functions.
+**11.**[^c-d6330a0e89a3b0d9df3b418b253d3299] (1) SCRA may employ any staff necessary to ensure the carrying out of SCRA's functions.
 
 (2) Staff are employed on terms and conditions determined by SCRA and approved by the Scottish Ministers.
 
@@ -185,7 +185,7 @@ summary: ''
 
 ### Appeals against dismissal
 
-**12.**[^key-224ee10fe9433deaedf58e14428f076a] (1) A person employed by SCRA who is of a description or class specified in regulations made by the Scottish Ministers may appeal to the Scottish Ministers against dismissal by SCRA.
+**12.**[^c-224ee10fe9433deaedf58e14428f076a] (1) A person employed by SCRA who is of a description or class specified in regulations made by the Scottish Ministers may appeal to the Scottish Ministers against dismissal by SCRA.
 
 (2) SCRA is the respondent in an appeal under this paragraph.
 
@@ -198,7 +198,7 @@ summary: ''
 
 ### Committees
 
-**13.**[^key-5afe3bfa8704c5b09897e7e0cbc37ab3] (1) SCRA may establish committees.
+**13.**[^c-5afe3bfa8704c5b09897e7e0cbc37ab3] (1) SCRA may establish committees.
 
 (2) The members of committees may include persons who are not members of SCRA.
 
@@ -210,7 +210,7 @@ summary: ''
 
 ### SCRA's supplementary powers
 
-**14.**[^key-02126a4104a944a0e825e2242b777b12] (1) SCRA may do anything that it considers appropriate for the purposes of or in connection with its functions.
+**14.**[^c-02126a4104a944a0e825e2242b777b12] (1) SCRA may do anything that it considers appropriate for the purposes of or in connection with its functions.
 
 (2) SCRA may in particular—
 
@@ -222,14 +222,14 @@ summary: ''
 
 ### Procedure
 
-**15.**[^key-b05cf6a1649e56089592cf5ffe650a30] SCRA may determine—
+**15.**[^c-b05cf6a1649e56089592cf5ffe650a30] SCRA may determine—
 
 - (a) its own procedure (including quorum), and
 - (b) the procedure (including quorum) of any of its committees.
 
 ### Delegation of SCRA's functions
 
-**16.**[^key-2c32146fcd5e3ae8b1ee1ee56fc1ac50] (1) Any function of SCRA (whether conferred by virtue of this Act or any other enactment) may be carried out on its behalf by—
+**16.**[^c-2c32146fcd5e3ae8b1ee1ee56fc1ac50] (1) Any function of SCRA (whether conferred by virtue of this Act or any other enactment) may be carried out on its behalf by—
 
 - (a) a member of SCRA,
 - (b) a committee of SCRA,
@@ -240,19 +240,19 @@ summary: ''
 
 ### Financial interests
 
-**17.**[^key-94ef5291713caa837a9eca8791ebc369] (1) The Scottish Ministers must from time to time satisfy themselves that the members of SCRA have no financial or other interest that is likely to prejudicially affect the performance of their functions as members of SCRA.
+**17.**[^c-94ef5291713caa837a9eca8791ebc369] (1) The Scottish Ministers must from time to time satisfy themselves that the members of SCRA have no financial or other interest that is likely to prejudicially affect the performance of their functions as members of SCRA.
 
 (2) A member must comply with a requirement of the Scottish Ministers to give them any information that the Scottish Ministers consider necessary to enable them to comply with sub-paragraph (1).
 
 ### Grants
 
-**18.**[^key-6e0ccdfc1d840d78dbf5d4991c371187] (1) The Scottish Ministers may make grants to SCRA of amounts that they determine.
+**18.**[^c-6e0ccdfc1d840d78dbf5d4991c371187] (1) The Scottish Ministers may make grants to SCRA of amounts that they determine.
 
 (2) A grant is made subject to any conditions specified by the Scottish Ministers (including conditions about repayment).
 
 ### Accounts
 
-**19.**[^key-77424db4362f7f6de45e5857eaaa7c1a] (1) SCRA must—
+**19.**[^c-77424db4362f7f6de45e5857eaaa7c1a] (1) SCRA must—
 
 - (a) keep proper accounts and accounting records,
 - (b) prepare for each financial year a statement of accounts, and
@@ -270,7 +270,7 @@ summary: ''
 
 ### Provision of accounts and other information to Scottish Ministers
 
-**20.**[^key-4f28ec5f0835d433076cde969c342b68] (1) The Scottish Ministers may direct SCRA to give them accounts or other information specified in the direction relating to SCRA's property and activities or proposed activities.
+**20.**[^c-4f28ec5f0835d433076cde969c342b68] (1) The Scottish Ministers may direct SCRA to give them accounts or other information specified in the direction relating to SCRA's property and activities or proposed activities.
 
 (2) SCRA must—
 
@@ -281,7 +281,7 @@ summary: ''
 
 ### SCRA's annual report
 
-**21.**[^key-623a84bfbe607107d76f20e1565a150a] (1) SCRA must, as soon as is reasonably practicable after the end of each financial year, prepare and submit to the Scottish Ministers a report on the carrying out of its functions during the year.
+**21.**[^c-623a84bfbe607107d76f20e1565a150a] (1) SCRA must, as soon as is reasonably practicable after the end of each financial year, prepare and submit to the Scottish Ministers a report on the carrying out of its functions during the year.
 
 (2) The report must include a copy of so much of the report made to SCRA by the Principal Reporter as relates to the year.
 
@@ -293,7 +293,7 @@ summary: ''
 
 ### Principal Reporter's annual report
 
-**22.**[^key-27a4733666dda84926ee47919d642930] (1) The Principal Reporter must, as soon as is reasonably practicable after the end of each financial year, prepare and submit to SCRA a report on the carrying out during the year of the functions conferred on the Principal Reporter by virtue of this Act or any other enactment.
+**22.**[^c-27a4733666dda84926ee47919d642930] (1) The Principal Reporter must, as soon as is reasonably practicable after the end of each financial year, prepare and submit to SCRA a report on the carrying out during the year of the functions conferred on the Principal Reporter by virtue of this Act or any other enactment.
 
 (2) The Principal Reporter may include in the report any other information that the Principal Reporter considers appropriate.
 
@@ -301,7 +301,7 @@ summary: ''
 
 ### Validity of proceedings and actions
 
-**23.**[^key-3d5e595d8c4e8d31d85556f77e084764] The validity of proceedings or actions of SCRA (including proceedings or actions of any of its committees) is not affected by—
+**23.**[^c-3d5e595d8c4e8d31d85556f77e084764] The validity of proceedings or actions of SCRA (including proceedings or actions of any of its committees) is not affected by—
 
 - (a) any vacancy in the membership of SCRA or any of its committees,
 - (b) any defect in the appointment of a member of SCRA or any of its committees, or
@@ -309,48 +309,48 @@ summary: ''
 
 ## Annotations
 
-[^key-3c9208cb3af838601489b6c33f206ed8]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/1) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-3c9208cb3af838601489b6c33f206ed8]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/1) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-fa005382855811dc5d62a296fe2a501d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/2) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-fa005382855811dc5d62a296fe2a501d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/2) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-32ac840071796eb776ecabefb2096692]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/3) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-32ac840071796eb776ecabefb2096692]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/3) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-3df693b30f98c1e6236454a7e1e08dd4]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/4) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-3df693b30f98c1e6236454a7e1e08dd4]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/4) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-0b39b0da0d722a70ad6d6b62a33e12e1]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/5) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-0b39b0da0d722a70ad6d6b62a33e12e1]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/5) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-33ce460049356c595214d9d5faa064eb]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/6) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-33ce460049356c595214d9d5faa064eb]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/6) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-b4775e653e632a82ca01e971f7c2852e]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/7) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-b4775e653e632a82ca01e971f7c2852e]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/7) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-f5cfd293ddf7ee090b98757c41c9a065]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/8) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-f5cfd293ddf7ee090b98757c41c9a065]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/8) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-288897d01eb65f3e143c08cb2d6d3c93]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/9) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-288897d01eb65f3e143c08cb2d6d3c93]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/9) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-6a4ddae204dd0646e2116169aaa765af]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/10) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-6a4ddae204dd0646e2116169aaa765af]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/10) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-d6330a0e89a3b0d9df3b418b253d3299]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/11) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-d6330a0e89a3b0d9df3b418b253d3299]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/11) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-224ee10fe9433deaedf58e14428f076a]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/12) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-224ee10fe9433deaedf58e14428f076a]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/12) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-5afe3bfa8704c5b09897e7e0cbc37ab3]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/13) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-5afe3bfa8704c5b09897e7e0cbc37ab3]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/13) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-02126a4104a944a0e825e2242b777b12]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/14) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-02126a4104a944a0e825e2242b777b12]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/14) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-b05cf6a1649e56089592cf5ffe650a30]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/15) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-b05cf6a1649e56089592cf5ffe650a30]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/15) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-2c32146fcd5e3ae8b1ee1ee56fc1ac50]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/16) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-2c32146fcd5e3ae8b1ee1ee56fc1ac50]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/16) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-94ef5291713caa837a9eca8791ebc369]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/17) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-94ef5291713caa837a9eca8791ebc369]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/17) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-6e0ccdfc1d840d78dbf5d4991c371187]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/18) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-6e0ccdfc1d840d78dbf5d4991c371187]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/18) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-77424db4362f7f6de45e5857eaaa7c1a]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/19) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-77424db4362f7f6de45e5857eaaa7c1a]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/19) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-4f28ec5f0835d433076cde969c342b68]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/20) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-4f28ec5f0835d433076cde969c342b68]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/20) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-623a84bfbe607107d76f20e1565a150a]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/21) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-623a84bfbe607107d76f20e1565a150a]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/21) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-27a4733666dda84926ee47919d642930]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/22) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-27a4733666dda84926ee47919d642930]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/22) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-3d5e595d8c4e8d31d85556f77e084764]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/23) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-3d5e595d8c4e8d31d85556f77e084764]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/asp/2011/1/schedule/3/paragraph/23) in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

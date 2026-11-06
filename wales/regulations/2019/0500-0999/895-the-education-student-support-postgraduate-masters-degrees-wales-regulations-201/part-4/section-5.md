@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Designated courses[^key-0db8114db6e5ab29cc0b7795f0e04f6b]
+## 5. Designated courses[^c-0db8114db6e5ab29cc0b7795f0e04f6b]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In these Regulations (and for the purposes of section 22 of the Teaching and Hig
 
 ## Annotations
 
-[^key-0db8114db6e5ab29cc0b7795f0e04f6b]: Commencement: Reg. 5 in force at 27.5.2019, see reg. 1(2)
+[^c-0db8114db6e5ab29cc0b7795f0e04f6b]: Commencement: Reg. 5 in force at 27.5.2019, see reg. 1(2)

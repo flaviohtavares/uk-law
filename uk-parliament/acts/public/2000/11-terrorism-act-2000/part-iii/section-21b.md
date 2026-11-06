@@ -40,7 +40,7 @@ that another person has committed or attempted to commit[^c19686981] an offence 
 
 (6) The reference to a business in the regulated sector must be construed in accordance with Schedule 3A.
 
-(7) The reference to a constable includes a reference to a National Crime Agency officer[^key-78ca7cef85c454e43cc88701122bebe6] authorised for the purposes of this section by the Director General of that Agency[^c16830691].
+(7) The reference to a constable includes a reference to a National Crime Agency officer[^c-78ca7cef85c454e43cc88701122bebe6] authorised for the purposes of this section by the Director General of that Agency[^c16830691].
 
 ## Annotations
 
@@ -48,6 +48,6 @@ that another person has committed or attempted to commit[^c19686981] an offence 
 
 [^c19686981]: Textual amendment: Words in s. 21B(3) inserted (26.12.2007) by [The Terrorism Act 2000 and Proceeds of Crime Act 2002 (Amendment) Regulations 2007 (S.I. 2007/3398)](https://www.legislation.gov.uk/uksi/2007/3398), [reg. 2](https://www.legislation.gov.uk/uksi/2007/3398/regulation/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2007/3398/schedule/1/paragraph/4)
 
-[^key-78ca7cef85c454e43cc88701122bebe6]: Textual amendment: Words in s. 21B(7) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 73](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/73); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-78ca7cef85c454e43cc88701122bebe6]: Textual amendment: Words in s. 21B(7) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 73](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/73); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
 [^c16830691]: Textual amendment: Words in s. 21B(7) substituted (1.4.2006 subject to art. 4(2)-(7) of the commencing S.I.) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 59](https://www.legislation.gov.uk/ukpga/2005/15/section/59), [Sch. 4 para. 129(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/129/b); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch.](https://www.legislation.gov.uk/uksi/2006/378/schedule)

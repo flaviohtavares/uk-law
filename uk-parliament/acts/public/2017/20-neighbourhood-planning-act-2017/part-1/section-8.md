@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-392d7743cbc14291b01d9e3a4c0106cd] In section 19 of the Planning and Compulsory Purchase Act 2004 (preparation of local development documents) after subsection (1A) insert—
+(1)[^c-392d7743cbc14291b01d9e3a4c0106cd] In section 19 of the Planning and Compulsory Purchase Act 2004 (preparation of local development documents) after subsection (1A) insert—
 
 > (1B) Each local planning authority must identify the strategic priorities for the development and use of land in the authority's area.
 >
@@ -33,14 +33,14 @@ summary: ''
 > - (a) a local planning authority whose area is within, or the same as, the area of the combined authority, and
 > - (b) the spatial development strategy published by the combined authority.
 
-(2)[^key-7b5d14a7fca720f82d9f51338e3798dc] In section 34 of that Act (guidance)—
+(2)[^c-7b5d14a7fca720f82d9f51338e3798dc] In section 34 of that Act (guidance)—
 
 - (a) the existing words become subsection (1), and
 - (b) after that subsection insert—
 
   > (2) The Secretary of State must issue guidance for local planning authorities on how their local development documents (taken as a whole) should address housing needs that result from old age or disability.
 
-(3)[^key-392d7743cbc14291b01d9e3a4c0106cd] In section 35 of that Act (local planning authorities' monitoring reports) after subsection (3) insert—
+(3)[^c-392d7743cbc14291b01d9e3a4c0106cd] In section 35 of that Act (local planning authorities' monitoring reports) after subsection (3) insert—
 
 > (3A) Subsection (3B) applies if a London borough council or a Mayoral development corporation have determined in accordance with section 19(1D) that—
 >
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-392d7743cbc14291b01d9e3a4c0106cd]: Commencement: S. 8(1)(3) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/a)
+[^c-392d7743cbc14291b01d9e3a4c0106cd]: Commencement: S. 8(1)(3) in force at 16.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/38/regulation/2/a)
 
-[^key-7b5d14a7fca720f82d9f51338e3798dc]: Commencement: S. 8(2) in force at 4.7.2019 by [S.I. 2019/1081](https://www.legislation.gov.uk/uksi/2019/1081), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1081/regulation/2)
+[^c-7b5d14a7fca720f82d9f51338e3798dc]: Commencement: S. 8(2) in force at 4.7.2019 by [S.I. 2019/1081](https://www.legislation.gov.uk/uksi/2019/1081), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1081/regulation/2)

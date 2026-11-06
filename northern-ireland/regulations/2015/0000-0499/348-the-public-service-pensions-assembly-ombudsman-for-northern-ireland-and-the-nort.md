@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Public Service Pensions (Assembly Ombudsman for Northern Ireland and the Northern Ireland Commissioner for Complaints) Regulations (Northern Ireland) 2015 (revoked)[^key-459db5fe2b0397df59dc00c146a91e54]
+The Public Service Pensions (Assembly Ombudsman for Northern Ireland and the Northern Ireland Commissioner for Complaints) Regulations (Northern Ireland) 2015 (revoked)[^c-459db5fe2b0397df59dc00c146a91e54]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into operation
 
 21st October 2015
 
-[^key-459db5fe2b0397df59dc00c146a91e54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-459db5fe2b0397df59dc00c146a91e54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-459db5fe2b0397df59dc00c146a91e54]
+## 1. Citation and commencement[^c-459db5fe2b0397df59dc00c146a91e54]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-459db5fe2b0397df59dc00c146a91e54]
+## 2. Interpretation[^c-459db5fe2b0397df59dc00c146a91e54]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Extension of scheme[^key-459db5fe2b0397df59dc00c146a91e54]
+## 3. Extension of scheme[^c-459db5fe2b0397df59dc00c146a91e54]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-459db5fe2b0397df59dc00c146a91e54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-459db5fe2b0397df59dc00c146a91e54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-459db5fe2b0397df59dc00c146a91e54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-459db5fe2b0397df59dc00c146a91e54]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-459db5fe2b0397df59dc00c146a91e54]: Textual amendment: Regulations revoked (11.10.2016) by [The Public Service Pensions (Northern Ireland Public Services Ombudsman) Regulations (Northern Ireland) 2016 (S.R. 2016/340)](https://www.legislation.gov.uk/nisr/2016/340), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/340/regulation/1), [4](https://www.legislation.gov.uk/nisr/2016/340/regulation/4)
+[^c-459db5fe2b0397df59dc00c146a91e54]: Textual amendment: Regulations revoked (11.10.2016) by [The Public Service Pensions (Northern Ireland Public Services Ombudsman) Regulations (Northern Ireland) 2016 (S.R. 2016/340)](https://www.legislation.gov.uk/nisr/2016/340), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/340/regulation/1), [4](https://www.legislation.gov.uk/nisr/2016/340/regulation/4)

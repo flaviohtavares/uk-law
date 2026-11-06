@@ -178,7 +178,7 @@ The characteristics of welds and adjacent zones must be similar to those of the 
 
 (2) In sub-paragraph (1)—
 
-- (a) “**qualified**” means qualified by means of tests carried out by an approved *(Extent: E+W+S)*[^key-e564f4eb367f1b7a32837b23d1f3d6bd] body; and
+- (a) “**qualified**” means qualified by means of tests carried out by an approved *(Extent: E+W+S)*[^c-e564f4eb367f1b7a32837b23d1f3d6bd] body; and
 - (b) “**approved**” means approved by an approved *(Extent: E+W+S)* body.
 
 #### 21.[^M_E_8f1ee50a-a2a7-4e74-fa10-6e7698f8b193]
@@ -204,6 +204,6 @@ Vessels must be accompanied by the instructions and safety information.
 
 [^M_E_c0a78850-64ba-4663-f849-d10cd0c8deea]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-e564f4eb367f1b7a32837b23d1f3d6bd]: Textual amendment: Words in [Sch. 1 para. 21(2)](https://www.legislation.gov.uk/uksi/2016/1092/schedule/1/paragraph/21/2) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 21 para. 39](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/39) (with [Sch. 21 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e564f4eb367f1b7a32837b23d1f3d6bd]: Textual amendment: Words in [Sch. 1 para. 21(2)](https://www.legislation.gov.uk/uksi/2016/1092/schedule/1/paragraph/21/2) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 21 para. 39](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/39) (with [Sch. 21 para. 37](https://www.legislation.gov.uk/uksi/2019/696/schedule/21/paragraph/37)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_8f1ee50a-a2a7-4e74-fa10-6e7698f8b193]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

@@ -40,15 +40,15 @@ is required to have a fiscal representative.
 - (b) shall, subject to such provisions as may be made by regulations, secure (where appropriate by acting on his principal’s behalf) his principal’s compliance with and discharge of the obligations and liabilities to which his principal is subject by virtue of those enactments, and
 - (c) shall be personally liable in respect of any failure of his principal to comply with or discharge any such obligation or liability as if the obligations and liabilities imposed on his principal were imposed jointly and severally on the fiscal representative and his principal.
 
-(5) A fiscal representative shall not be liable by virtue of subsection (4) above himself to be registered [^key-19489d574dba31574f871f00263b8c39]..., but regulations may—
+(5) A fiscal representative shall not be liable by virtue of subsection (4) above himself to be registered [^c-19489d574dba31574f871f00263b8c39]..., but regulations may—
 
-- (a) require the names of fiscal representatives to be shown in such manner as may be prescribed against the names of their principals in the register kept under section 33 or 33A above[^key-b797d3e02df697716b82c6a34392bec4] , and
+- (a) require the names of fiscal representatives to be shown in such manner as may be prescribed against the names of their principals in the register kept under section 33 or 33A above[^c-b797d3e02df697716b82c6a34392bec4] , and
 - (b) make it the duty of a fiscal representative, for the purposes of registration, to notify the Commissioners, within such period as may be prescribed, that his appointment has taken effect or has ceased to have effect.
 
 ## Annotations
 
 [^c14451531]: Textual amendment: Words in s. 34(4) inserted (31.7.1998) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 15(2)](https://www.legislation.gov.uk/ukpga/1998/36/section/15/2)
 
-[^key-19489d574dba31574f871f00263b8c39]: Textual amendment: Words in s. 34(5) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 23 para. 12(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/23/paragraph/12/a)
+[^c-19489d574dba31574f871f00263b8c39]: Textual amendment: Words in s. 34(5) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 23 para. 12(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/23/paragraph/12/a)
 
-[^key-b797d3e02df697716b82c6a34392bec4]: Textual amendment: Words in s. 34(5)(a) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 23 para. 12(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/23/paragraph/12/b)
+[^c-b797d3e02df697716b82c6a34392bec4]: Textual amendment: Words in s. 34(5)(a) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 23 para. 12(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/23/paragraph/12/b)

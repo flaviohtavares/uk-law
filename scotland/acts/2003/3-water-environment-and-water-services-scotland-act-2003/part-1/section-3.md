@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. The water environment: definitions[^key-c8fdd08366ae381b7cabf367cf667737]
+## 3. The water environment: definitions[^c-c8fdd08366ae381b7cabf367cf667737]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ within the landward limits of coastal water.
 
 ## Annotations
 
-[^key-c8fdd08366ae381b7cabf367cf667737]: Commencement: S. 3 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/562/article/2/a)
+[^c-c8fdd08366ae381b7cabf367cf667737]: Commencement: S. 3 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/562/article/2/a)

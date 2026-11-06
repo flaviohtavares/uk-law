@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218. Meaning of “securities”[^key-1cbd0f52c26e5c003238708da76ee3ba]
+## 218. Meaning of “securities”[^c-1cbd0f52c26e5c003238708da76ee3ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ For subsection (1) of section 42[^f00158] of the Local Government (Scotland) Act
 
 ## Annotations
 
-[^key-1cbd0f52c26e5c003238708da76ee3ba]: Commencement: Art. 218 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1cbd0f52c26e5c003238708da76ee3ba]: Commencement: Art. 218 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00158]: Footnote: Subsection (1) of section 42 was substituted by the Financial Services Act [1986 (c. 60](https://www.legislation.gov.uk/ukpga/1986/60), S.I.F 69) section 212(2), Schedule 16, paragraph 9.

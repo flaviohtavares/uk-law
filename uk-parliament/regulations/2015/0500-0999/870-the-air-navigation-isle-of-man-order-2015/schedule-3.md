@@ -22,7 +22,7 @@ summary: ''
 
 Article 24(6) and 32(2)
 
-**1.**[^key-797c5d11f44d1188e8987d2663c18013] (1) Every aircraft of a description specified in the first column of the Table in paragraph 4 which must carry equipment specified in this Schedule must be provided, if flying in the circumstances specified in the second column of the said Table, with adequate equipment.
+**1.**[^c-797c5d11f44d1188e8987d2663c18013] (1) Every aircraft of a description specified in the first column of the Table in paragraph 4 which must carry equipment specified in this Schedule must be provided, if flying in the circumstances specified in the second column of the said Table, with adequate equipment.
 
 (2) For the purpose of this paragraph the expression “adequate equipment” means, subject to sub-paragraphs (3) and (4), the scales of equipment respectively indicated in the third column of that Table.
 
@@ -30,11 +30,11 @@ Article 24(6) and 32(2)
 
 (4) Equipment carried in an aircraft that is necessary for the airworthiness of the aircraft is to be taken into account in determining whether this Schedule is complied with for that aircraft.
 
-**2.**[^key-e8dc4f72f8777d8fcf82c36cb80b59c7] (1) For the purposes of the Table in paragraph 4 flying time in relation to a helicopter or gyroplane is to be calculated on the assumption that it is flying in still air at the speed specified in the relevant flight manual as the speed for compliance with regulations governing flights over water.
+**2.**[^c-e8dc4f72f8777d8fcf82c36cb80b59c7] (1) For the purposes of the Table in paragraph 4 flying time in relation to a helicopter or gyroplane is to be calculated on the assumption that it is flying in still air at the speed specified in the relevant flight manual as the speed for compliance with regulations governing flights over water.
 
 (2) In this Schedule “day” means the time from half an hour before sunrise until half an hour after sunset (both times exclusive), sunset and sunrise being determined at surface level.
 
-**3.**[^key-a563e120acf702b64ef9c57b6436af01] The following items of equipment are not required to be of a type approved by the Department —
+**3.**[^c-a563e120acf702b64ef9c57b6436af01] The following items of equipment are not required to be of a type approved by the Department —
 
 - (a) the equipment referred to in Scale A(2);
 - (b) first aid equipment and handbook, referred to in Scale A(3);
@@ -48,9 +48,9 @@ Article 24(6) and 32(2)
 - (j) food and water, referred to in Scales K, U and V;
 - (k) first aid equipment, referred to in Scales K, U and V;
 - (l) stoves, cooking utensils, snow shovels, ice saws, sleeping bags and Arctic suits, referred to in Scale V;
-- (m)[^key-623f6868f7a830bdb1880f1d3c133c5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m)[^c-623f6868f7a830bdb1880f1d3c133c5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ec3563a911e47acfb520550a12493ffa] Table
+**4.**[^c-ec3563a911e47acfb520550a12493ffa] Table
 
 | Description of aircraft | Circumstances of flight | Scale of Equipment required |
 | --- | --- | --- |
@@ -58,7 +58,7 @@ Article 24(6) and 32(2)
 |  | (i) by night | C, D, G(2) and (3) and GG |
 |  | (ii) flying under Instrument Flight Rules— |  |
 |  | (aa) outside controlled airspace | D |
-|  | (bb) within Class A, B, C or D airspace[^key-e579c7765489520b68c56e4c1216b032] | E with E(4) duplicated and F |
+|  | (bb) within Class A, B, C or D airspace[^c-e579c7765489520b68c56e4c1216b032] | E with E(4) duplicated and F |
 |  | (cc) within Class D or E airspace | E and F |
 |  | (iii) carrying out aerobatic manoeuvres | B(8) and (9) |
 |  | (iv) flying at a height of 13,000ft or more above mean sea level | L1 or L2 |
@@ -74,7 +74,7 @@ Article 24(6) and 32(2)
 |  | (ix) on flights when the weather reports or forecasts available at the aerodrome at the time of departure indicate that conditions favouring ice formation are likely to be met | M |
 |  | (x) on all flights by a pressurised aircraft | R |
 |  | (xi) flying at an altitude of more than 49,000 ft | W |
-| (2) Pressurised aeroplanes operating in areas where thunderstorms or other potentially hazardous weather conditions are likely to be encountered[^key-463e2ccc30c6adeb97aa8d24eac6a125] | flying on any flight | O |
+| (2) Pressurised aeroplanes operating in areas where thunderstorms or other potentially hazardous weather conditions are likely to be encountered[^c-463e2ccc30c6adeb97aa8d24eac6a125] | flying on any flight | O |
 | (3) Turbine-engined aeroplanes having a maximum total mass authorised of more than 5700 kg and piston-engined aeroplanes having a maximum total mass authorised of more than 27,000 kg except aeroplanes falling within paragraph (4) or (5) | flying on any flight | P |
 | (4) Aeroplanes —<br>(a) having a maximum total mass authorised of more than 5700 kg but not more than 11,400 kg,<br>(b) in respect of which there is in force a certificate of airworthiness, or an application for a certificate of airworthiness has been made and not withdrawn or refused, and<br>(c) which conform to a type first issued with a type certificate on or after 1st April 1971 | flying on any flight | S(1) |
 | (5) Aeroplanes for which a certificate of airworthiness was first issued on or after 1st June 1990 and which have a maximum total mass authorised of more than 27,000 kg | flying on any flight | S(2) |
@@ -85,7 +85,7 @@ Article 24(6) and 32(2)
 | (b) having a maximum total mass authorised of more than 5700 kg and conforming to a type for which a certificate of airworthiness was first applied for after 30th April 1972, but not including any aeroplane which in the opinion of the Department is identical in all matters affecting the provision of emergency evacuation facilities to an aeroplane in respect of which an application for a certificate of airworthiness was first made before that date; or | flying by night | Z(1) and (2) |
 | (c) having a maximum approved passenger seating configuration of more than 19 | flying by night | Z(1) |
 | (9) Aeroplanes —<br>(a) powered by one or more turbine jets; or<br>(b) powered by one or more turbine propeller engines, having a maximum total mass authorised of more than 5700 kg and first issued with a certificate of airworthiness in the Isle of Man or the United Kingdom on or after 1st April 1989 | flying on any flight | AA |
-| (10) Helicopters and gyroplanes | flying on any flight — | A(1), (2), (3) and (4) and B(1), (2), (3), (4), (5) and (6)[^key-053682e90ba974bf95fa70508fab0c3c] |
+| (10) Helicopters and gyroplanes | flying on any flight — | A(1), (2), (3) and (4) and B(1), (2), (3), (4), (5) and (6)[^c-053682e90ba974bf95fa70508fab0c3c] |
 |  | (i) flying by day under Visual Flight Rules— |  |
 |  | (aa) with the surface in sight | D |
 |  | (bb) when the surface is not in sight | E |
@@ -119,7 +119,7 @@ Article 24(6) and 32(2)
 | (i) which have a maximum total mass authorised of more than 2730kg but not more than 7000kg or with a maximum approved passenger seating configuration of more than 9 or both; or | flying on any flight | SS(1) or SS(3) |
 | (ii) which have a maximum total mass authorised of more than 7000kg | flying on any flight | SS(1) or SS(3) |
 
-**5.**[^key-6c203560d1d273308e58925b8d9f0700] The scales of equipment indicated in the Table at paragraph 4 are as follows—
+**5.**[^c-6c203560d1d273308e58925b8d9f0700] The scales of equipment indicated in the Table at paragraph 4 are as follows—
 
 **Scale A**
 
@@ -127,13 +127,13 @@ Article 24(6) and 32(2)
 
 (2) Maps, charts, codes and other documents and navigational equipment necessary, in addition to any other equipment required under this Order, for the intended flight of the aircraft including any diversion which may reasonably be expected.
 
-(3)[^key-eebc5d9af2d873feb87efd9aef33aa81] Accessible medical supplies comprising one or more first aid kits appropriate to the number of passengers the aeroplane is authorised to carry; the contents of the first aid kit or kits to be determined by the operator having due regard to the nature of the operation.
+(3)[^c-eebc5d9af2d873feb87efd9aef33aa81] Accessible medical supplies comprising one or more first aid kits appropriate to the number of passengers the aeroplane is authorised to carry; the contents of the first aid kit or kits to be determined by the operator having due regard to the nature of the operation.
 
 (4) A hand fire extinguisher located in the flight crew compartment and in each passenger compartment that is separate from the flight crew compartment, except if the passenger compartment is readily accessible to the flight crew.
 
 **Scale AA**
 
-(1)[^key-f29fab7f4545a4c20b32e1c94285ba20] Subject to paragraph (2), an altitude alerting system capable of alerting the pilot on approaching a preselected altitude in either ascent or descent, by a sequence of visual and aural signals in sufficient time to establish level flight at that preselected altitude and when deviating above or below that preselected altitude, by a visual and aural signal.
+(1)[^c-f29fab7f4545a4c20b32e1c94285ba20] Subject to paragraph (2), an altitude alerting system capable of alerting the pilot on approaching a preselected altitude in either ascent or descent, by a sequence of visual and aural signals in sufficient time to establish level flight at that preselected altitude and when deviating above or below that preselected altitude, by a visual and aural signal.
 
 (2) If the system becomes unserviceable, the aircraft may fly or continue to fly, until it first lands at a place at which it is reasonably practicable for the system to be repaired or replaced.
 
@@ -159,11 +159,11 @@ Article 24(6) and 32(2)
 
 **Scale** C
 
-(1) Equipment for displaying the lights required by point SERA.3215 of Section 3, Chapter 2 of the Annex to SERA[^key-74cd2dccb074fcf3beff37da4f37c10f].
+(1) Equipment for displaying the lights required by point SERA.3215 of Section 3, Chapter 2 of the Annex to SERA[^c-74cd2dccb074fcf3beff37da4f37c10f].
 
 (2) Electrical equipment, supplied from the main source of supply in the aircraft, to provide sufficient illumination to enable the flight crew properly to carry out their duties during flight.
 
-(3) Unless the aircraft is equipped with radio, devices for making the visual signal specified in paragraphs 1, 2 and 3 of Appendix 1 of the Annex to SERA[^key-cc0d9b0b66183f5a471258ab26fe5a65] as indicating a request for permission to land.
+(3) Unless the aircraft is equipped with radio, devices for making the visual signal specified in paragraphs 1, 2 and 3 of Appendix 1 of the Annex to SERA[^c-cc0d9b0b66183f5a471258ab26fe5a65] as indicating a request for permission to land.
 
 **Scale** D
 
@@ -253,7 +253,7 @@ A landing light.
 
 (1) Additional flotation equipment, capable of supporting one-fifth of the number of persons on board, and provided in a place of stowage accessible from outside the flying machine.
 
-(2)[^key-5348a779967a68f4a68f17d83eecae03] Parachute distress rocket signals capable of making, from the surface of the water, the pyrotechnical signal of distress specified in paragraphs 1, 2 and 3 of Appendix 1 of the Annex to SERA and complying with paragraph 3.1 of the International Life-Saving Appliance (LSA) Code contained in International Maritime Organization Resolution MSC.48(66), as amended
+(2)[^c-5348a779967a68f4a68f17d83eecae03] Parachute distress rocket signals capable of making, from the surface of the water, the pyrotechnical signal of distress specified in paragraphs 1, 2 and 3 of Appendix 1 of the Annex to SERA and complying with paragraph 3.1 of the International Life-Saving Appliance (LSA) Code contained in International Maritime Organization Resolution MSC.48(66), as amended
 
 (3) An anchor, a sea anchor and other equipment necessary to facilitate mooring, anchoring or manoeuvring the flying machine on water, appropriate to its size, mass and handling characteristics.
 
@@ -307,7 +307,7 @@ A landing light.
 (1) In every flying machine which is provided with means for maintaining a pressure greater than 700 hectopascals throughout the flight in the flight crew compartment and in the compartments in which the passengers are carried—
 
 - (a) in the event of a failure to maintain such pressure occurring in the circumstances specified in columns 1 and 2 of the Table set out in Part 2, a supply of oxygen sufficient for continuous use during the periods specified in column 3 of the Table, by the persons for whom oxygen is to be provided in accordance with column 4 of the Table; and
-- (b)[^key-0d7045a3229028a36408b68091e77570] in every case where the flying machine flies above flight level 350, a supply of oxygen in a portable container or by an alternative method, together with suitable and sufficient apparatus to enable use of the oxygen for first aid treatment,
+- (b)[^c-0d7045a3229028a36408b68091e77570] in every case where the flying machine flies above flight level 350, a supply of oxygen in a portable container or by an alternative method, together with suitable and sufficient apparatus to enable use of the oxygen for first aid treatment,
 
 together with suitable and sufficient apparatus to enable such persons to use the oxygen.
 
@@ -617,38 +617,38 @@ An underwater sonar location device.
 
 ## Annotations
 
-[^key-797c5d11f44d1188e8987d2663c18013]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/1) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-797c5d11f44d1188e8987d2663c18013]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/1) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-e8dc4f72f8777d8fcf82c36cb80b59c7]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/2) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-e8dc4f72f8777d8fcf82c36cb80b59c7]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/2) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-a563e120acf702b64ef9c57b6436af01]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/3) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-a563e120acf702b64ef9c57b6436af01]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/3) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-623f6868f7a830bdb1880f1d3c133c5f]: Textual amendment: [Sch. 3 para. 3(m)](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/3/m) omitted (1.5.2016) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [19(a)](https://www.legislation.gov.uk/uksi/2016/155/article/19/a)
+[^c-623f6868f7a830bdb1880f1d3c133c5f]: Textual amendment: [Sch. 3 para. 3(m)](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/3/m) omitted (1.5.2016) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [19(a)](https://www.legislation.gov.uk/uksi/2016/155/article/19/a)
 
-[^key-ec3563a911e47acfb520550a12493ffa]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/4) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-ec3563a911e47acfb520550a12493ffa]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/4) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-e579c7765489520b68c56e4c1216b032]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/4) Table substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [19(b)(i)](https://www.legislation.gov.uk/uksi/2016/155/article/19/b/i)
+[^c-e579c7765489520b68c56e4c1216b032]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/4) Table substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [19(b)(i)](https://www.legislation.gov.uk/uksi/2016/155/article/19/b/i)
 
-[^key-463e2ccc30c6adeb97aa8d24eac6a125]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/4) Table substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [19(b)(ii)](https://www.legislation.gov.uk/uksi/2016/155/article/19/b/ii)
+[^c-463e2ccc30c6adeb97aa8d24eac6a125]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/4) Table substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [19(b)(ii)](https://www.legislation.gov.uk/uksi/2016/155/article/19/b/ii)
 
-[^key-053682e90ba974bf95fa70508fab0c3c]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/4) Table substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [19(b)(iii)](https://www.legislation.gov.uk/uksi/2016/155/article/19/b/iii)
+[^c-053682e90ba974bf95fa70508fab0c3c]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/4) Table substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [19(b)(iii)](https://www.legislation.gov.uk/uksi/2016/155/article/19/b/iii)
 
-[^key-6c203560d1d273308e58925b8d9f0700]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/5) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-6c203560d1d273308e58925b8d9f0700]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/5) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-eebc5d9af2d873feb87efd9aef33aa81]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/5) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [19(c)(i)](https://www.legislation.gov.uk/uksi/2016/155/article/19/c/i)
+[^c-eebc5d9af2d873feb87efd9aef33aa81]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/5) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [19(c)(i)](https://www.legislation.gov.uk/uksi/2016/155/article/19/c/i)
 
-[^key-f29fab7f4545a4c20b32e1c94285ba20]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/5) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [19(c)(ii)](https://www.legislation.gov.uk/uksi/2016/155/article/19/c/ii)
+[^c-f29fab7f4545a4c20b32e1c94285ba20]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/5) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [19(c)(ii)](https://www.legislation.gov.uk/uksi/2016/155/article/19/c/ii)
 
-[^key-74cd2dccb074fcf3beff37da4f37c10f]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Air Navigation (Isle of Man) (Amendment) Order 2021 (S.I. 2021/751)](https://www.legislation.gov.uk/uksi/2021/751), [art. 8(2)(a)](https://www.legislation.gov.uk/uksi/2021/751/article/8/2/a)
+[^c-74cd2dccb074fcf3beff37da4f37c10f]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Air Navigation (Isle of Man) (Amendment) Order 2021 (S.I. 2021/751)](https://www.legislation.gov.uk/uksi/2021/751), [art. 8(2)(a)](https://www.legislation.gov.uk/uksi/2021/751/article/8/2/a)
 
-[^key-cc0d9b0b66183f5a471258ab26fe5a65]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Air Navigation (Isle of Man) (Amendment) Order 2021 (S.I. 2021/751)](https://www.legislation.gov.uk/uksi/2021/751), [art. 8(2)(b)](https://www.legislation.gov.uk/uksi/2021/751/article/8/2/b)
+[^c-cc0d9b0b66183f5a471258ab26fe5a65]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Air Navigation (Isle of Man) (Amendment) Order 2021 (S.I. 2021/751)](https://www.legislation.gov.uk/uksi/2021/751), [art. 8(2)(b)](https://www.legislation.gov.uk/uksi/2021/751/article/8/2/b)
 
 [^f00045]: Footnote: [S.I. 2006/601](https://www.legislation.gov.uk/uksi/2006/601).
 
 [^f00046]: Footnote: A gyroplane is designated as performance group A or B according to its ability to continue a flight in the event of engine failure.
 
-[^key-5348a779967a68f4a68f17d83eecae03]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Air Navigation (Isle of Man) (Amendment) Order 2021 (S.I. 2021/751)](https://www.legislation.gov.uk/uksi/2021/751), [art. 8(3)](https://www.legislation.gov.uk/uksi/2021/751/article/8/3)
+[^c-5348a779967a68f4a68f17d83eecae03]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Air Navigation (Isle of Man) (Amendment) Order 2021 (S.I. 2021/751)](https://www.legislation.gov.uk/uksi/2021/751), [art. 8(3)](https://www.legislation.gov.uk/uksi/2021/751/article/8/3)
 
 [^f00048]: Footnote: Annex 10 is published by the International Civil Aviation Organisation.
 
-[^key-0d7045a3229028a36408b68091e77570]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/5) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [19(c)(iii)](https://www.legislation.gov.uk/uksi/2016/155/article/19/c/iii)
+[^c-0d7045a3229028a36408b68091e77570]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/3/paragraph/5) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [19(c)(iii)](https://www.legislation.gov.uk/uksi/2016/155/article/19/c/iii)

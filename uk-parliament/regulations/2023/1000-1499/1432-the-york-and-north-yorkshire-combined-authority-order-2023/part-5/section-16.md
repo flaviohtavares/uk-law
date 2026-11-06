@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Grants to bus service operators[^key-6c0a42ed6c07dcbde7c92309bb9abbe0]
+## 16. Grants to bus service operators[^c-6c0a42ed6c07dcbde7c92309bb9abbe0]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c0a42ed6c07dcbde7c92309bb9abbe0]: Commencement: Art. 16 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-6c0a42ed6c07dcbde7c92309bb9abbe0]: Commencement: Art. 16 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

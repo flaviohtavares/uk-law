@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Powers of SFRS employee in England and Wales[^key-fc8f221f39221546ecb76cdb4429d8a2]
+## 17. Powers of SFRS employee in England and Wales[^c-fc8f221f39221546ecb76cdb4429d8a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fc8f221f39221546ecb76cdb4429d8a2]: Commencement: Art. 17 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-fc8f221f39221546ecb76cdb4429d8a2]: Commencement: Art. 17 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00027]: Footnote: Section 44 was amended by the Emergency Workers (Obstruction) Act [2006 (c. 39)](https://www.legislation.gov.uk/ukpga/2006/39), section 6.
 

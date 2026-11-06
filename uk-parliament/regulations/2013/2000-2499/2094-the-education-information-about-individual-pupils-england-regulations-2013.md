@@ -46,34 +46,34 @@ Coming into force
 
 The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 537A(1) and (2) and 569(4) of the Education Act 1996[^f00001]:
 
-**1.**[^key-bf45de9eb82d31b13a4d03ec11ea797d] (1) These Regulations may be cited as the Education (Information About Individual Pupils) (England) Regulations 2013 and come into force on 1st January 2014.
+**1.**[^c-bf45de9eb82d31b13a4d03ec11ea797d] (1) These Regulations may be cited as the Education (Information About Individual Pupils) (England) Regulations 2013 and come into force on 1st January 2014.
 
 (2) These Regulations apply only in relation to schools in England.
 
-## 2. Interpretation[^key-26fd4e2af01e9a2d9d207330d72d909f]
+## 2. Interpretation[^c-26fd4e2af01e9a2d9d207330d72d909f]
 
 In these Regulations—
 
 - “the 1989 Act” means the Children Act 1989[^f00002];
 - “the 1996 Act” means the Education Act 1996;
-- “[^key-ea990d38fc8cacb98b299f70845d3f2b]**the 2024 Regulations**” means the School Attendance (Pupil Registration) (England) Regulations 2024;
+- “[^c-ea990d38fc8cacb98b299f70845d3f2b]**the 2024 Regulations**” means the School Attendance (Pupil Registration) (England) Regulations 2024;
 - “adoption order” has the meaning given by section 46(1) of the Adoption and Children Act 2002[^f00004];
 - “alternative provision Academy” has the meaning given by section 1C of the Academies Act 2010[^f00005]
 - “budget share” means a budget share allocated in accordance with section 45(1) of the School Standards and Framework Act 1998[^f00006]
-- “child arrangements order” means a child arrangements order as defined by section 8(1) of the Children Act 1989 which consists of, or includes, arrangements relating to either or both of the following (i) with whom the child is to live, and (ii) when the child is to live with any person;[^key-9fec41903766af2972cfce1f285f1179]
+- “child arrangements order” means a child arrangements order as defined by section 8(1) of the Children Act 1989 which consists of, or includes, arrangements relating to either or both of the following (i) with whom the child is to live, and (ii) when the child is to live with any person;[^c-9fec41903766af2972cfce1f285f1179]
 - “commissioning local authority” means the local authority with responsibility for arranging the education provision being commissioned for the pupil;
-- “[^key-16beb8670a2e15cdb760f6bbee75698f]**date of admission to the school**” means the date on which the pupil’s name is added to the school’s admission register;
+- “[^c-16beb8670a2e15cdb760f6bbee75698f]**date of admission to the school**” means the date on which the pupil’s name is added to the school’s admission register;
 - “exclusion start date” means the date set by the head teacher for the exclusion to take effect;
 - “learning aim” means a course of study leading to a qualification to which Part 7 of the Apprenticeships, Skills, Children and Learning Act 2009[^f00007] applies which is awarded or authenticated by a body which is recognised by the Office of Qualifications and Examinations Regulation under section 132 of that Act in respect of the qualification and which has been allocated a qualification number;
 - “level 3” means level 3 as determined by the Office of Qualifications and Examinations Regulation;
-- “looked-after child” means a person who, for the purposes of section 22(1) of the 1989 Act[^f00008] or, as the case may be, section 74(1) of the Social Services and Well-being (Wales) Act 2014[^key-58a5137fdcdc43b5edfda6fab4a5b0d5], is a child looked after by a local authority, and references to the local authority looking after the child are to be read accordingly;
+- “looked-after child” means a person who, for the purposes of section 22(1) of the 1989 Act[^f00008] or, as the case may be, section 74(1) of the Social Services and Well-being (Wales) Act 2014[^c-58a5137fdcdc43b5edfda6fab4a5b0d5], is a child looked after by a local authority, and references to the local authority looking after the child are to be read accordingly;
 - “non-maintained special school” means a special school which is not maintained by a local authority and which is approved for the time being by the Secretary of State under section 342 of the 1996 Act[^f00009];
 - “part-time” in relation to the attendance of a pupil means that the pupil attends fewer than ten school sessions in any week during which the school meets;
 - “permanently excluded” in relation to a pupil means permanently excluded on disciplinary grounds from the school to which a request is made under regulation 3 or 5;
 - “qualification number” means the number assigned to a pupil’s learning aim by the Office of Qualifications and Examinations Regulation;
-- “register” means the register of pupils kept under section 434 of the 1996 Act[^f00010] and refers to the admission register or attendance register kept in accordance with the 2024 Regulations[^key-53b96d3a8360f8be1321c80c4470cd52] as the case may require;
-- [^key-9a2d6ee6c2e64b1d0841dbb6265384ce]...
-- “special educational needs provision type” means the type of special educational needs provision forming part of the graduated approach adopted pursuant to the “Special educational needs and disability code of practice: 0 to 25 years” published on 29th January 2015[^key-18af23ef65897d1c86659604ce8bfea8][^M_F_3969e556-9792-4212-f6d3-ca90d95a236d] under section 77 of the Children and Families Act 2014;
+- “register” means the register of pupils kept under section 434 of the 1996 Act[^f00010] and refers to the admission register or attendance register kept in accordance with the 2024 Regulations[^c-53b96d3a8360f8be1321c80c4470cd52] as the case may require;
+- [^c-9a2d6ee6c2e64b1d0841dbb6265384ce]...
+- “special educational needs provision type” means the type of special educational needs provision forming part of the graduated approach adopted pursuant to the “Special educational needs and disability code of practice: 0 to 25 years” published on 29th January 2015[^c-18af23ef65897d1c86659604ce8bfea8][^M_F_3969e556-9792-4212-f6d3-ca90d95a236d] under section 77 of the Children and Families Act 2014;
 - “special school” has the meaning given by section 337 of the 1996 Act[^f00013];
 - “special guardianship order” has the meaning given by section 14A(1) of the 1989 Act[^f00014];
 - “top up funding” means funding paid to—
@@ -84,25 +84,25 @@ In these Regulations—
   - (v) a non-maintained special school by the commissioning local authority, in addition to the amount allocated to the school by the Secretary of State,
 
   in order to meet the educational needs of a pupil.
-- [^key-ce250df1b609082b87995605b61c6a26]...
-- “unique learner number”, in relation to a registered pupil at a school, means the specific combination of numbers allocated to the pupil by the Secretary of State[^key-6d5e1d894e3418e4948535221eea46e9] as that pupil’s unique learner number; and
+- [^c-ce250df1b609082b87995605b61c6a26]...
+- “unique learner number”, in relation to a registered pupil at a school, means the specific combination of numbers allocated to the pupil by the Secretary of State[^c-6d5e1d894e3418e4948535221eea46e9] as that pupil’s unique learner number; and
 - “unique pupil number” means a combination of numbers which together with a letter or letters are allocated to a pupil and are particular to that pupil, by use of a formula determined by the Department for Education.
 
-## 3. Provision of information by schools maintained by local authorities to their local authorities or to the Secretary of State[^key-39ec3d9faf2778082d758ebc2cbddcbc]
+## 3. Provision of information by schools maintained by local authorities to their local authorities or to the Secretary of State[^c-39ec3d9faf2778082d758ebc2cbddcbc]
 
 (1) For the purposes of section 537A(2)(b) of the 1996 Act, the local authority by which a school is maintained is prescribed as a relevant person.
 
 (2) Within fourteen days of receiving a request from the local authority by which a school is maintained, or from the Secretary of State, the governing body of that school shall provide to the authority or, where so requested, to the Secretary of State, such of the information referred to in Schedule 1, and (where the request stipulates) in respect of such categories of pupils, or former pupils, as is so requested.
 
-## 4. Provision of information relating to pupil referral units by local authorities to the Secretary of State[^key-8ed25ce426a3a6972f353875d8dce62c]
+## 4. Provision of information relating to pupil referral units by local authorities to the Secretary of State[^c-8ed25ce426a3a6972f353875d8dce62c]
 
 Within fourteen days of receiving a request from the Secretary of State, a local authority shall provide to the Secretary of State such of the information referred to in Schedule 1 relating to each pupil referral unit maintained by the authority and (where the request stipulates) in respect of such categories of pupils, or former pupils, as is so requested.
 
-## 5. Provision of information by non-maintained special schools and Academies to the Secretary of State[^key-c467cdc6e838afdbffa5d531bc5625eb]
+## 5. Provision of information by non-maintained special schools and Academies to the Secretary of State[^c-c467cdc6e838afdbffa5d531bc5625eb]
 
 Within fourteen days of receiving a request from the Secretary of State, the proprietor of a non-maintained special school or an Academy[^f00016] shall provide to the Secretary of State such of the information referred to in Schedule 1 and (where the request stipulates) in respect of such categories of pupils, or former pupils, as is so requested.
 
-## 5A. Provision of information by schools[^key-51e26ee18011660a37e89a17603b0331]
+## 5A. Provision of information by schools[^c-51e26ee18011660a37e89a17603b0331]
 
 (1) This regulation applies to the appropriate person at—
 
@@ -129,7 +129,7 @@ that is not a nursery school.
 
 (6) For the purposes of section 537A(8), where the Secretary of State has specified in the request a person to whom the information must be provided, the provision of information to that person is to be treated as compliance with the requirement to provide the information to the Secretary of State.
 
-## 6. Revocations[^key-6845fc5a1a2b19f623a9aaeeaba3f66d]
+## 6. Revocations[^c-6845fc5a1a2b19f623a9aaeeaba3f66d]
 
 The Regulations specified in Schedule 2 are revoked.
 
@@ -147,9 +147,9 @@ Regulations 3 to 5
 
 ### PART 1 — All pupils on the register
 
-**1.**[^key-854a06d67ac520fc79e0f9e5ea6f34fc] In respect of each pupil on the register on the date specified in the request for information, the following information.
+**1.**[^c-854a06d67ac520fc79e0f9e5ea6f34fc] In respect of each pupil on the register on the date specified in the request for information, the following information.
 
-**2.**[^key-785feaf18ef219f63255d1762a57ea3b] The pupil’s—
+**2.**[^c-785feaf18ef219f63255d1762a57ea3b] The pupil’s—
 
 - (a) gender;
 - (b) date of birth;
@@ -162,57 +162,57 @@ Regulations 3 to 5
 - (i) first language;
 - (j) National Curriculum year group;
 - (k) unique learner number, where known;
-- (l)[^key-5bbecb2284fcd40f008915353e69241d] nationality;
+- (l)[^c-5bbecb2284fcd40f008915353e69241d] nationality;
 - (m) country of birth;
 - (n) proficiency in speaking, reading and writing in English.
 
-**3.**[^key-f1277f4c2d3f5ba356bd1dfcc4413a96] The address and postcode of the home where the pupil normally resides.
+**3.**[^c-f1277f4c2d3f5ba356bd1dfcc4413a96] The address and postcode of the home where the pupil normally resides.
 
-**4.**[^key-f75cd5e8e5f02e7267474b97f76c5b36] Whether the pupil is a registered pupil at one school or more than one school, and, where the pupil is registered as a pupil at more than one school, the school that the pupil attends for the majority of his time.
+**4.**[^c-f75cd5e8e5f02e7267474b97f76c5b36] Whether the pupil is a registered pupil at one school or more than one school, and, where the pupil is registered as a pupil at more than one school, the school that the pupil attends for the majority of his time.
 
-**5.**[^key-a4491054655d69c2740cde54d8b67425] Whether the pupil is part-time.
+**5.**[^c-a4491054655d69c2740cde54d8b67425] Whether the pupil is part-time.
 
-**6.**[^key-3ea6d40b3faf0857e382187ebd274002] Whether the pupil is a day or boarding pupil at the school.
+**6.**[^c-3ea6d40b3faf0857e382187ebd274002] Whether the pupil is a day or boarding pupil at the school.
 
-**7.**[^key-40a95a87276bd09626c0ec787272a79e] In the case of a special school that is not a special school established in a hospital, if the pupil is a boarding pupil at the school, whether the pupil boards at the school for seven or less nights per week.
+**7.**[^c-40a95a87276bd09626c0ec787272a79e] In the case of a special school that is not a special school established in a hospital, if the pupil is a boarding pupil at the school, whether the pupil boards at the school for seven or less nights per week.
 
-**8.**[^key-ed35bfc9cee6431f22910627a20f9ce3] Where the pupil has special educational needs, the type of special educational needs that pupil has, the primary and secondary ranking of those types if there is more than one type, and which special educational needs provision type is being made for him.
+**8.**[^c-ed35bfc9cee6431f22910627a20f9ce3] Where the pupil has special educational needs, the type of special educational needs that pupil has, the primary and secondary ranking of those types if there is more than one type, and which special educational needs provision type is being made for him.
 
-**9.**[^key-3d5ec1a2c20783c1515aa46b72e5136e] Where the pupil has special educational needs, whether the pupil is taught (wholly or partly)—
+**9.**[^c-3d5ec1a2c20783c1515aa46b72e5136e] Where the pupil has special educational needs, whether the pupil is taught (wholly or partly)—
 
 - (a) in a special educational needs unit in a school which is not a special school; or
 - (b) at a place reserved in a school which is not a special school where that school receives additional funding from a local authority in order to cater for the pupil’s special educational needs.
 
-**10.**[^key-2aedeb48cf1c1b9850519e87e6ededb3] Whether the school has received any top-up funding in respect of the pupil during such period as is specified in the request for information.
+**10.**[^c-2aedeb48cf1c1b9850519e87e6ededb3] Whether the school has received any top-up funding in respect of the pupil during such period as is specified in the request for information.
 
-**11.**[^key-e4ac9a5c21a319d7f06e33553aebe2be] Where the pupil is, to the knowledge of the governing body or, where appropriate, the proprietor, a looked-after child, that fact and the name of the local authority by whom the pupil is looked-after.
+**11.**[^c-e4ac9a5c21a319d7f06e33553aebe2be] Where the pupil is, to the knowledge of the governing body or, where appropriate, the proprietor, a looked-after child, that fact and the name of the local authority by whom the pupil is looked-after.
 
-**12.**[^key-e3334d78111917fb4479361f3bee139d] Whether the pupil has been, to the knowledge of the governing body or, where appropriate the proprietor, a looked-after child whilst on the register.
+**12.**[^c-e3334d78111917fb4479361f3bee139d] Whether the pupil has been, to the knowledge of the governing body or, where appropriate the proprietor, a looked-after child whilst on the register.
 
-**13.**[^key-892482cab0092887bb55403f18da9710] (1)[^key-bdda7cacec5b83edf63d1efeec7ee5dd] Where a pupil has previously been a looked-after child or has previously been in overseas state care[^key-7ca2505125279c51f92b85ae3ef4d393], whether to the knowledge of the governing body or, where appropriate, the proprietor, that pupil is no longer looked-after or in overseas state care[^key-5c749d2441ddaa87f80a18e7050f047f] as a result of the making of one of the following orders—
+**13.**[^c-892482cab0092887bb55403f18da9710] (1)[^c-bdda7cacec5b83edf63d1efeec7ee5dd] Where a pupil has previously been a looked-after child or has previously been in overseas state care[^c-7ca2505125279c51f92b85ae3ef4d393], whether to the knowledge of the governing body or, where appropriate, the proprietor, that pupil is no longer looked-after or in overseas state care[^c-5c749d2441ddaa87f80a18e7050f047f] as a result of the making of one of the following orders—
 
 - (a) an adoption order;
 - (b) a special guardianship order or
-- (c) a child arrangements[^key-8a00ac80d01a3c84641801827c1d32a8] order,
+- (c) a child arrangements[^c-8a00ac80d01a3c84641801827c1d32a8] order,
 
 and if so which of the above orders was made.
 
-(2)[^key-a4aa45fed8b15cb172390ab7a988b28e] In this paragraph and paragraph 13A, “**in overseas state care**” means in the care of, or accommodated by, a public authority, a religious organisation, or any other organisation the sole or main purpose of which is to benefit society, in a country or territory outside England and Wales.
+(2)[^c-a4aa45fed8b15cb172390ab7a988b28e] In this paragraph and paragraph 13A, “**in overseas state care**” means in the care of, or accommodated by, a public authority, a religious organisation, or any other organisation the sole or main purpose of which is to benefit society, in a country or territory outside England and Wales.
 
-**13A.**[^key-69f7a2a2dde71ee4d35f9aaad96c4653] Where a pupil has previously been a looked-after child or has previously been in overseas state care, whether to the knowledge of the governing body or, where appropriate, the proprietor, that pupil is no longer looked-after or in overseas state care as a result of an adoption effected under the law of a country or territory outside England and Wales.
+**13A.**[^c-69f7a2a2dde71ee4d35f9aaad96c4653] Where a pupil has previously been a looked-after child or has previously been in overseas state care, whether to the knowledge of the governing body or, where appropriate, the proprietor, that pupil is no longer looked-after or in overseas state care as a result of an adoption effected under the law of a country or territory outside England and Wales.
 
-**13B.**[^key-a900599c8da9d566f5ab82841408cddc] (1) Where known, whether the pupil lives in kinship care arrangements and whether those arrangements are formal or informal.
+**13B.**[^c-a900599c8da9d566f5ab82841408cddc] (1) Where known, whether the pupil lives in kinship care arrangements and whether those arrangements are formal or informal.
 
 (2) In this paragraph, “**kinship care arrangements**” means arrangements whereby a child lives with and is cared for, whether for all of the time or for part of the time, by a relative, a friend, or another person connected to them, rather than by their parent.
 
-**14.**[^key-8e368f6d2d0c28ed76dda36b52f96753] (1) Whether pursuant to section 512(3) and 512ZB of the 1996 Act or other arrangements, the pupil has applied and been found eligible for free school meals.
+**14.**[^c-8e368f6d2d0c28ed76dda36b52f96753] (1) Whether pursuant to section 512(3) and 512ZB of the 1996 Act or other arrangements, the pupil has applied and been found eligible for free school meals.
 
 (2) Where the pupil has applied and been found eligible for free school meals—
 
 - (a) the date of the eligibility check, and
 - (b) the statutory provision or details of other arrangements under which the pupil is eligible.
 
-**14A.**[^key-fd0e96014484f57490c25b4ba9f69244] (1) Whether—
+**14A.**[^c-fd0e96014484f57490c25b4ba9f69244] (1) Whether—
 
 - (a) the pupil is, to the knowledge of the governing body or, where appropriate, the proprietor, a young carer; and
 - (b) if so, the pupil has been identified as such by:
@@ -221,16 +221,16 @@ and if so which of the above orders was made.
 
 (2) In this paragraph, “**young carer**” has the meaning given by section 17ZA of the 1989 Act.
 
-**15.**[^key-ee95030dec79df2f0ef3468fbfc1d0ab] In the case of a school which provides primary education, whether the pupil is receiving nursery education in a nursery class at the school.
+**15.**[^c-ee95030dec79df2f0ef3468fbfc1d0ab] In the case of a school which provides primary education, whether the pupil is receiving nursery education in a nursery class at the school.
 
-**16.**[^key-a597105952f80627d5f647b39bcd60b5] For each pupil who is not a boarder—
+**16.**[^c-a597105952f80627d5f647b39bcd60b5] For each pupil who is not a boarder—
 
 - (a) the total number of morning and afternoon sessions which the pupil could have attended during such periods as are specified in the request for information; and
-- (b)[^key-aff28a159cd0ac0cd43d697f27e25245] the number of times each of the codes specified in regulation 10 of the 2024 Regulations is recorded against the pupil’s name in the school’s attendance register in relation to such periods.
+- (b)[^c-aff28a159cd0ac0cd43d697f27e25245] the number of times each of the codes specified in regulation 10 of the 2024 Regulations is recorded against the pupil’s name in the school’s attendance register in relation to such periods.
 
-**17.**[^key-8577812a43eb8a55580c2746f1ad8dd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-8577812a43eb8a55580c2746f1ad8dd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-cc256e489910527b402275467cb63dc1] (1) Whether the pupil normally resides with a person specified in sub-paragraph (2) who is—
+**18.**[^c-cc256e489910527b402275467cb63dc1] (1) Whether the pupil normally resides with a person specified in sub-paragraph (2) who is—
 
 - (a) a person subject to service law by virtue of section 367(1) of the Armed Forces Act 2006[^f00018], or
 - (b) a person subject to service law by virtue of section 4(3)(a) of the Visiting Forces (British Commonwealth) Act 1933[^f00019],
@@ -245,7 +245,7 @@ and who has been assigned Personal Status Category 1 or 2 (within the meaning of
 
 (3) Section 576 of the 1996 Act[^f00021] (meaning of “parent”) does not apply to this paragraph.
 
-### Part 1za — Information about free breakfast club provision[^key-e8dc2ae180ab690434efb32218408993]
+### Part 1za — Information about free breakfast club provision[^c-e8dc2ae180ab690434efb32218408993]
 
 **18ZA.** In the case of a relevant school, the information in paragraphs 18ZB to 18ZG in relation to each qualifying primary pupil for such period as is specified in the request for information.
 
@@ -275,13 +275,13 @@ and who has been assigned Personal Status Category 1 or 2 (within the meaning of
   - (b) that session begins in the afternoon;
 - “**the school’s information management system**” means any electronic system used by a school for recording a qualifying primary pupil’s attendance at, or absence from, a free breakfast club provision and any administrative information about the provision of free breakfast club provision by the appropriate authority of the school.
 
-### Part 1A — Pupils on the Register Receiving Education Provision other than at the School[^key-b7d0d881f20ad3972b6d0b2fbeeda9e6]
+### Part 1A — Pupils on the Register Receiving Education Provision other than at the School[^c-b7d0d881f20ad3972b6d0b2fbeeda9e6]
 
 **18A.** (1) In respect of each pupil on the register, and each pupil who has previously been on the register, who is receiving education provision in any of the circumstances specified in sub-paragraph (2) on the date specified in the request for information or during such period as is specified in the request for information, the information in paragraph 18B.
 
 (2) The circumstances are where the pupil—
 
-- (a)[^key-b61987493ddad2bc98bf4218ddd8e1ac] is required to attend at any place outside the premises of the school, academy or unit for the purpose of receiving education provision which is intended to improve their behaviour by—
+- (a)[^c-b61987493ddad2bc98bf4218ddd8e1ac] is required to attend at any place outside the premises of the school, academy or unit for the purpose of receiving education provision which is intended to improve their behaviour by—
   - (i) the governing body of a maintained school,
   - (ii) the proprietor of an Academy school,
   - (iii) the proprietor of an alternative provision Academy, or
@@ -303,7 +303,7 @@ and who has been assigned Personal Status Category 1 or 2 (within the meaning of
 - (g) whether the education provision is part-time;
 - (h) where the education provision is part-time, the number of school sessions the pupil expects to attend in each week during the period specified in the request for information.
 
-### Part 1B — Pupils for whom managed moves have been arranged[^key-09f95fb81506d701f7708d8bfa0430fa]
+### Part 1B — Pupils for whom managed moves have been arranged[^c-09f95fb81506d701f7708d8bfa0430fa]
 
 **18C.** (1) In respect of each pupil who has previously been on the register for whom a managed move to another educational institution took place during such period as is specified in the request for information, the information in paragraphs 18D to 18J.
 
@@ -355,7 +355,7 @@ and who has been assigned Personal Status Category 1 or 2 (within the meaning of
 
 ### PART 2 — Excluded pupils
 
-**19.**[^key-48338b0c663ea3510cd9c8a69da9695a] In respect of each pupil who has been excluded from the school (whether permanently or otherwise) and whose exclusion start date was during such period as is specified in the request for information, where that specified period falls within the twelve months preceding that request—
+**19.**[^c-48338b0c663ea3510cd9c8a69da9695a] In respect of each pupil who has been excluded from the school (whether permanently or otherwise) and whose exclusion start date was during such period as is specified in the request for information, where that specified period falls within the twelve months preceding that request—
 
 - (a) the exclusion start date;
 - (b) the information in paragraphs 20 to 23 as it existed on the exclusion start date;
@@ -363,7 +363,7 @@ and who has been assigned Personal Status Category 1 or 2 (within the meaning of
 - (d) the information in paragraphs 26A and 26B as it exists on the date specified in the request for information; and
 - (e) where the school is a maintained school, pupil referral unit, Academy school or alternative provision Academy, the information in paragraphs 26C to 26G as it exists on the date specified in the request for information.
 
-**20.**[^key-035a30af0bc36eec126d70543e88afcd] The pupil’s—
+**20.**[^c-035a30af0bc36eec126d70543e88afcd] The pupil’s—
 
 - (a) gender;
 - (b) date of birth;
@@ -373,23 +373,23 @@ and who has been assigned Personal Status Category 1 or 2 (within the meaning of
 - (f) date of admission to the school, and
 - (g) (where applicable) date of leaving the school.
 
-**21.**[^key-cb58a96b8594c485e5f75e6f1fa2945e] Whether the pupil was part-time.
+**21.**[^c-cb58a96b8594c485e5f75e6f1fa2945e] Whether the pupil was part-time.
 
-**22.**[^key-6300d7884789aef524a76076ee078170] Where the pupil had special educational needs, which special educational needs provision type was being made for him.
+**22.**[^c-6300d7884789aef524a76076ee078170] Where the pupil had special educational needs, which special educational needs provision type was being made for him.
 
-**23.**[^key-883e30abc2710a79f0ace4b7822e482a] Whether the pupil was, to the knowledge of the governing body or, where appropriate, the proprietor, a looked-after child.
+**23.**[^c-883e30abc2710a79f0ace4b7822e482a] Whether the pupil was, to the knowledge of the governing body or, where appropriate, the proprietor, a looked-after child.
 
-**24.**[^key-18afe62b2d37357d15038f6040d48f85] Whether the exclusion is or was—
+**24.**[^c-18afe62b2d37357d15038f6040d48f85] Whether the exclusion is or was—
 
 - (a) for a fixed period (otherwise than as specified in sub-paragraph (b));
 - (b) for a fixed period or periods between the morning and the afternoon school sessions[^f00022]; or
 - (c) permanent.
 
-**25.**[^key-9007ce9f5b05aec2c55b73cbefba6681] Where the exclusions is or was for a fixed period, the number of sessions to which the exclusion applies or applied.
+**25.**[^c-9007ce9f5b05aec2c55b73cbefba6681] Where the exclusions is or was for a fixed period, the number of sessions to which the exclusion applies or applied.
 
-**26.**[^key-a65313bcecf593d00c019a50571c1dc7] The reason for the exclusion.
+**26.**[^c-a65313bcecf593d00c019a50571c1dc7] The reason for the exclusion.
 
-**26A.**[^key-b9ee0ce7a94f03d3ad0da77bde4d9b37] (1) Where the exclusion was cancelled—
+**26A.**[^c-b9ee0ce7a94f03d3ad0da77bde4d9b37] (1) Where the exclusion was cancelled—
 
 - (a) which one of the following statements about the cancellation the governing body or, where appropriate, the proprietor considers most relevant—
   - (i) the head teacher or, where appropriate, the principal cancelled the exclusion because they became aware of new information and decided, in light of that information, that the pupil should not be excluded;
@@ -448,14 +448,14 @@ and who has been assigned Personal Status Category 1 or 2 (within the meaning of
 
 ### PART 3 — Attendance information for pupils no longer on the register
 
-**27.**[^key-653bc4ca4dd8534b029410b5242d18b6] In respect of each pupil not on the register who—
+**27.**[^c-653bc4ca4dd8534b029410b5242d18b6] In respect of each pupil not on the register who—
 
 - (a) was not a boarder, and
 - (b) was on the register on any day in the school term which preceded the date specified in the request for information,
 
 the following information.
 
-**28.**[^key-b75ef94aa8e40e293851fea03fd32117] The pupil’s—
+**28.**[^c-b75ef94aa8e40e293851fea03fd32117] The pupil’s—
 
 - (a) gender;
 - (b) date of birth;
@@ -465,19 +465,19 @@ the following information.
 - (f) date of admission to the school, and
 - (g) date of leaving the school.
 
-**29.**[^key-7fdefb59f3f86ecceabfbb78329ee115] Whether the pupil was part-time.
+**29.**[^c-7fdefb59f3f86ecceabfbb78329ee115] Whether the pupil was part-time.
 
-**30.**[^key-29c3c06be1690f028023d02ffb03de15] (1) The total number of morning and afternoon sessions which the pupil could have attended during such periods as are specified in the request for information.
+**30.**[^c-29c3c06be1690f028023d02ffb03de15] (1) The total number of morning and afternoon sessions which the pupil could have attended during such periods as are specified in the request for information.
 
-(2)[^key-3092bf82dcfb50cf223ca41655ec02a6] The number of times each of the codes specified in regulation 10 of the 2024 Regulations is recorded against the pupil’s name in the school’s attendance register in relation to such periods.
+(2)[^c-3092bf82dcfb50cf223ca41655ec02a6] The number of times each of the codes specified in regulation 10 of the 2024 Regulations is recorded against the pupil’s name in the school’s attendance register in relation to such periods.
 
-**31.**[^key-814c91993932fe2ccb767b49cdbeed59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-814c91993932fe2ccb767b49cdbeed59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 4 — Provision of information by schools with sixth forms about the learning aims of individual pupils
 
-**32.**[^key-fa7a52f757ed969c0f4977a9793fee84] The information referred to in this part is required only from those schools (not including special schools) which provide full time education suitable to the requirements of pupils of and over compulsory school age.
+**32.**[^c-fa7a52f757ed969c0f4977a9793fee84] The information referred to in this part is required only from those schools (not including special schools) which provide full time education suitable to the requirements of pupils of and over compulsory school age.
 
-**33.**[^key-1dd4b70dcb00d44e33bf15e74c635188] In respect of each pupil who is or was—
+**33.**[^c-1dd4b70dcb00d44e33bf15e74c635188] In respect of each pupil who is or was—
 
 - (a) on the register during such period as is specified in the request for information, and
 - (b) in or above the school year after the fourth key stage and undertaking a learning aim, or
@@ -485,7 +485,7 @@ the following information.
 
 the following information.
 
-**34.**[^key-b7153b5c31b3aa4631b0730a98dd619c] For each of the pupil’s learning aims—
+**34.**[^c-b7153b5c31b3aa4631b0730a98dd619c] For each of the pupil’s learning aims—
 
 - (a) the qualification number;
 - (b) the date on which the pupil started the learning aim;
@@ -494,20 +494,20 @@ the following information.
 - (e) information as to the pupil’s progress or status in respect of the learning aim;
 - (f) information identifying the syllabus, the subject and the awarding body for the qualification.
 
-**35.**[^key-43d7d17ca48817c507251b9d88f1cba6] Where applicable, the date the pupil left the school.
+**35.**[^c-43d7d17ca48817c507251b9d88f1cba6] Where applicable, the date the pupil left the school.
 
 ### PART 5 — Provision of information by schools with sixth forms about pupils awarded bursaries
 
-**36.**[^key-8254fa6b2e15f4cf01a3ef6eeec61341] The information referred to in this part is required only from those schools (including special schools) which provide full-time education suitable to the requirements of pupils of and over compulsory school age.
+**36.**[^c-8254fa6b2e15f4cf01a3ef6eeec61341] The information referred to in this part is required only from those schools (including special schools) which provide full-time education suitable to the requirements of pupils of and over compulsory school age.
 
-**37.**[^key-ae560fa1c179c250652d3e61ef604f5e] In respect of each pupil who is or was—
+**37.**[^c-ae560fa1c179c250652d3e61ef604f5e] In respect of each pupil who is or was—
 
 - (a) on the register during such period as is specified in the request for information, where that specified period falls within the twelve months preceding that request; and
 - (b) aged 16 or over and under 20 on the 31st August prior to the request from the Secretary of State,
 
 whether the pupil has been awarded a bursary.
 
-### Part 6 — Provision of Information by Local Authorities relating to Pupil Referral Units and by Alternative Provision Academies[^key-6347f0feed9884da8be034f343e2b826]
+### Part 6 — Provision of Information by Local Authorities relating to Pupil Referral Units and by Alternative Provision Academies[^c-6347f0feed9884da8be034f343e2b826]
 
 **38.** The information referred to in this Part is required only from—
 
@@ -524,7 +524,7 @@ whether the pupil has been awarded a bursary.
 
 **43.** In this Part, “**unique reference number**” means a combination of numbers allocated to the school by the Department for Education for the purposes of identification and registration on the website known as “Get Information About Schools” maintained by the Department.
 
-## Schedule 1A — Provision of information about individual pupils to the Secretary of State[^key-ac3b3527a8b376800db2773e8fb8dfa3]
+## Schedule 1A — Provision of information about individual pupils to the Secretary of State[^c-ac3b3527a8b376800db2773e8fb8dfa3]
 
 Regulation 5A
 
@@ -557,7 +557,7 @@ as at each time specified in the request.
 
 **8.** For each time specified in the request, which of the codes specified in regulation 10 of the 2024 Regulations is recorded against the pupil’s name in the school’s attendance register in relation to the relevant session.
 
-## SCHEDULE 2 — Revocations[^key-9407684430400841be85cb2a3fce0160]
+## SCHEDULE 2 — Revocations[^c-9407684430400841be85cb2a3fce0160]
 
 Regulation 6
 
@@ -595,13 +595,13 @@ Further modifications include—
 
 [^f00001]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Section 537A was inserted by the Education Act [1997 (c.44)](https://www.legislation.gov.uk/ukpga/1997/44), section 20, substituted by the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), Schedule 30, paragraphs 57 and 153 and amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158), Schedule 2, paragraph 7(1), (2) and [S.I. 2012/976](https://www.legislation.gov.uk/uksi/2012/976), Schedule 1, paragraph 7. By virtue of the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I 1999/672)](https://www.legislation.gov.uk/uksi/1999/672) the powers conferred by this section are exercisable by the Secretary of State only in relation to England. Section 569(4) was amended by the Education (Wales) Measure [2009 (c. 5)](https://www.legislation.gov.uk/ukpga/2009/5), section 8(1), (5).
 
-[^key-bf45de9eb82d31b13a4d03ec11ea797d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-bf45de9eb82d31b13a4d03ec11ea797d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-26fd4e2af01e9a2d9d207330d72d909f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-26fd4e2af01e9a2d9d207330d72d909f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
 [^f00002]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-ea990d38fc8cacb98b299f70845d3f2b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) substituted (19.8.2024) by [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 1 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/3/2/a)
+[^c-ea990d38fc8cacb98b299f70845d3f2b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) substituted (19.8.2024) by [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 1 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/3/2/a)
 
 [^f00004]: Footnote: [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38).
 
@@ -609,25 +609,25 @@ Further modifications include—
 
 [^f00006]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). Section 45(1) was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158), Schedule 2, paragraph 10(3) and the Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), Schedule 16, paragraph 2.
 
-[^key-9fec41903766af2972cfce1f285f1179]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) inserted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [24(2)(i)](https://www.legislation.gov.uk/uksi/2014/852/article/24/2/i)
+[^c-9fec41903766af2972cfce1f285f1179]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) inserted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [24(2)(i)](https://www.legislation.gov.uk/uksi/2014/852/article/24/2/i)
 
-[^key-16beb8670a2e15cdb760f6bbee75698f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) inserted (19.8.2024) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2024 (S.I. 2024/209)](https://www.legislation.gov.uk/uksi/2024/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/209/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/209/regulation/2/2)
+[^c-16beb8670a2e15cdb760f6bbee75698f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) inserted (19.8.2024) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2024 (S.I. 2024/209)](https://www.legislation.gov.uk/uksi/2024/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/209/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/209/regulation/2/2)
 
 [^f00007]: Footnote: [2009 c. 22](https://www.legislation.gov.uk/ukpga/2009/22).
 
 [^f00008]: Footnote: Section 22(1) was amended by the Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), Schedule 5, paragraph 19, the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), section 2(2) and the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), section 116(2).
 
-[^key-58a5137fdcdc43b5edfda6fab4a5b0d5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 163](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/163)
+[^c-58a5137fdcdc43b5edfda6fab4a5b0d5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 163](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/163)
 
 [^f00009]: Footnote: Section 342 was inserted by the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), section 140(1), Schedule 30, paragraph 82 and section 342(1) was amended by the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), section 142(2), (3)(a). There are other amendments to that provision but none are relevant to these Regulations.
 
 [^f00010]: Footnote: Section 434 was amended by the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31), Schedule 30, paragraph 111(a), Schedule 31, paragraph 1 and [S.I 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158), Schedule 2, paragraph 7(3).
 
-[^key-53b96d3a8360f8be1321c80c4470cd52]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) substituted (19.8.2024) by [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 1 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/3/2/b)
+[^c-53b96d3a8360f8be1321c80c4470cd52]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) substituted (19.8.2024) by [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 1 para. 3(2)(b)](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/3/2/b)
 
-[^key-9a2d6ee6c2e64b1d0841dbb6265384ce]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) omitted (22.4.2014) by virtue of [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [24(2)(ii)](https://www.legislation.gov.uk/uksi/2014/852/article/24/2/ii)
+[^c-9a2d6ee6c2e64b1d0841dbb6265384ce]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) omitted (22.4.2014) by virtue of [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [24(2)(ii)](https://www.legislation.gov.uk/uksi/2014/852/article/24/2/ii)
 
-[^key-18af23ef65897d1c86659604ce8bfea8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) substituted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/2)
+[^c-18af23ef65897d1c86659604ce8bfea8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) substituted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/2)
 
 [^M_F_3969e556-9792-4212-f6d3-ca90d95a236d]: Textual amendment: Words in reg. 2 substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [45](https://www.legislation.gov.uk/uksi/2014/2103/article/45)
 
@@ -635,77 +635,77 @@ Further modifications include—
 
 [^f00014]: Footnote: Section 14A was inserted by the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), section 115(1).
 
-[^key-ce250df1b609082b87995605b61c6a26]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) omitted (1.10.2020) by virtue of [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2020 (S.I. 2020/965)](https://www.legislation.gov.uk/uksi/2020/965), [regs. 1](https://www.legislation.gov.uk/uksi/2020/965/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/965/regulation/2/2)
+[^c-ce250df1b609082b87995605b61c6a26]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) omitted (1.10.2020) by virtue of [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2020 (S.I. 2020/965)](https://www.legislation.gov.uk/uksi/2020/965), [regs. 1](https://www.legislation.gov.uk/uksi/2020/965/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/965/regulation/2/2)
 
-[^key-6d5e1d894e3418e4948535221eea46e9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/29)
+[^c-6d5e1d894e3418e4948535221eea46e9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2013/2094/regulation/2) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/29)
 
-[^key-39ec3d9faf2778082d758ebc2cbddcbc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/2094/regulation/3) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-39ec3d9faf2778082d758ebc2cbddcbc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/2094/regulation/3) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-8ed25ce426a3a6972f353875d8dce62c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/2094/regulation/4) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-8ed25ce426a3a6972f353875d8dce62c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/2094/regulation/4) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-c467cdc6e838afdbffa5d531bc5625eb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/2094/regulation/5) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-c467cdc6e838afdbffa5d531bc5625eb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/2094/regulation/5) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
 [^f00016]: Footnote: By virtue of the Academies Act [2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), section 15(4), references to an Academy are to be read as including references to a city technology college and a city college for the technology of the arts.
 
-[^key-51e26ee18011660a37e89a17603b0331]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2013/2094/regulation/5A) inserted (19.8.2024) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2024 (S.I. 2024/209)](https://www.legislation.gov.uk/uksi/2024/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/209/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/209/regulation/2/3)
+[^c-51e26ee18011660a37e89a17603b0331]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2013/2094/regulation/5A) inserted (19.8.2024) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2024 (S.I. 2024/209)](https://www.legislation.gov.uk/uksi/2024/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/209/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/209/regulation/2/3)
 
-[^key-6845fc5a1a2b19f623a9aaeeaba3f66d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/2094/regulation/6) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-6845fc5a1a2b19f623a9aaeeaba3f66d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/2094/regulation/6) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-854a06d67ac520fc79e0f9e5ea6f34fc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/1) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-854a06d67ac520fc79e0f9e5ea6f34fc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/1) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-785feaf18ef219f63255d1762a57ea3b]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/2) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-785feaf18ef219f63255d1762a57ea3b]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/2) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-5bbecb2284fcd40f008915353e69241d]: Textual amendment: [Sch. 1 para. 2(l)-(n)](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/2/l/n) inserted (1.9.2016) by [The Education (Pupil Information) (England) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/808)](https://www.legislation.gov.uk/uksi/2016/808), [regs. 1](https://www.legislation.gov.uk/uksi/2016/808/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/808/regulation/2)
+[^c-5bbecb2284fcd40f008915353e69241d]: Textual amendment: [Sch. 1 para. 2(l)-(n)](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/2/l/n) inserted (1.9.2016) by [The Education (Pupil Information) (England) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/808)](https://www.legislation.gov.uk/uksi/2016/808), [regs. 1](https://www.legislation.gov.uk/uksi/2016/808/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/808/regulation/2)
 
-[^key-f1277f4c2d3f5ba356bd1dfcc4413a96]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/3) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-f1277f4c2d3f5ba356bd1dfcc4413a96]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/3) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-f75cd5e8e5f02e7267474b97f76c5b36]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/4) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-f75cd5e8e5f02e7267474b97f76c5b36]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/4) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-a4491054655d69c2740cde54d8b67425]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/5) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-a4491054655d69c2740cde54d8b67425]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/5) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-3ea6d40b3faf0857e382187ebd274002]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/6) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-3ea6d40b3faf0857e382187ebd274002]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/6) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-40a95a87276bd09626c0ec787272a79e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/7) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-40a95a87276bd09626c0ec787272a79e]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/7) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-ed35bfc9cee6431f22910627a20f9ce3]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/8) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-ed35bfc9cee6431f22910627a20f9ce3]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/8) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-3d5ec1a2c20783c1515aa46b72e5136e]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/9) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-3d5ec1a2c20783c1515aa46b72e5136e]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/9) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-2aedeb48cf1c1b9850519e87e6ededb3]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/10) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-2aedeb48cf1c1b9850519e87e6ededb3]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/10) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-e4ac9a5c21a319d7f06e33553aebe2be]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/11) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-e4ac9a5c21a319d7f06e33553aebe2be]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/11) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-e3334d78111917fb4479361f3bee139d]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/12) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-e3334d78111917fb4479361f3bee139d]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/12) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-892482cab0092887bb55403f18da9710]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/13) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-892482cab0092887bb55403f18da9710]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/13) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-bdda7cacec5b83edf63d1efeec7ee5dd]: Textual amendment: Sch. 1 para. 13 renumbered as Sch. 1 para. 13(1) (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/3/a/i)
+[^c-bdda7cacec5b83edf63d1efeec7ee5dd]: Textual amendment: Sch. 1 para. 13 renumbered as Sch. 1 para. 13(1) (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/3/a/i)
 
-[^key-7ca2505125279c51f92b85ae3ef4d393]: Textual amendment: Words in [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/13/1) inserted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(3)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/3/a/ii/aa)
+[^c-7ca2505125279c51f92b85ae3ef4d393]: Textual amendment: Words in [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/13/1) inserted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(3)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/3/a/ii/aa)
 
-[^key-5c749d2441ddaa87f80a18e7050f047f]: Textual amendment: Words in [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/13/1) inserted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(3)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/3/a/ii/bb)
+[^c-5c749d2441ddaa87f80a18e7050f047f]: Textual amendment: Words in [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/13/1) inserted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(3)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/3/a/ii/bb)
 
-[^key-8a00ac80d01a3c84641801827c1d32a8]: Textual amendment: Words in [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/13) substituted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [24(3)](https://www.legislation.gov.uk/uksi/2014/852/article/24/3)
+[^c-8a00ac80d01a3c84641801827c1d32a8]: Textual amendment: Words in [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/13) substituted (22.4.2014) by [The Child Arrangements Order (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/852)](https://www.legislation.gov.uk/uksi/2014/852), [arts. 1](https://www.legislation.gov.uk/uksi/2014/852/article/1), [24(3)](https://www.legislation.gov.uk/uksi/2014/852/article/24/3)
 
-[^key-a4aa45fed8b15cb172390ab7a988b28e]: Textual amendment: [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/13/2) inserted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/3/a/iii)
+[^c-a4aa45fed8b15cb172390ab7a988b28e]: Textual amendment: [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/13/2) inserted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/3/a/iii)
 
-[^key-69f7a2a2dde71ee4d35f9aaad96c4653]: Textual amendment: [Sch. 1 para. 13A](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/13A) inserted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/3/b)
+[^c-69f7a2a2dde71ee4d35f9aaad96c4653]: Textual amendment: [Sch. 1 para. 13A](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/13A) inserted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/3/b)
 
-[^key-a900599c8da9d566f5ab82841408cddc]: Textual amendment: Sch. 1 para. 13B inserted (1.9.2026) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2026 (S.I. 2026/639)](https://www.legislation.gov.uk/uksi/2026/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/639/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/639/regulation/3)
+[^c-a900599c8da9d566f5ab82841408cddc]: Textual amendment: Sch. 1 para. 13B inserted (1.9.2026) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2026 (S.I. 2026/639)](https://www.legislation.gov.uk/uksi/2026/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/639/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/639/regulation/3)
 
-[^key-8e368f6d2d0c28ed76dda36b52f96753]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/14) substituted (1.9.2026) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2026 (S.I. 2026/639)](https://www.legislation.gov.uk/uksi/2026/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/639/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/639/regulation/4)
+[^c-8e368f6d2d0c28ed76dda36b52f96753]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/14) substituted (1.9.2026) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2026 (S.I. 2026/639)](https://www.legislation.gov.uk/uksi/2026/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/639/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/639/regulation/4)
 
-[^key-fd0e96014484f57490c25b4ba9f69244]: Textual amendment: [Sch. 1 para. 14A](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/14A) inserted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/3/c)
+[^c-fd0e96014484f57490c25b4ba9f69244]: Textual amendment: [Sch. 1 para. 14A](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/14A) inserted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/3/c)
 
-[^key-ee95030dec79df2f0ef3468fbfc1d0ab]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/15) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-ee95030dec79df2f0ef3468fbfc1d0ab]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/15) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-a597105952f80627d5f647b39bcd60b5]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/16) substituted (1.10.2020) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2020 (S.I. 2020/965)](https://www.legislation.gov.uk/uksi/2020/965), [regs. 1](https://www.legislation.gov.uk/uksi/2020/965/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/965/regulation/2/3/a)
+[^c-a597105952f80627d5f647b39bcd60b5]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/16) substituted (1.10.2020) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2020 (S.I. 2020/965)](https://www.legislation.gov.uk/uksi/2020/965), [regs. 1](https://www.legislation.gov.uk/uksi/2020/965/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/965/regulation/2/3/a)
 
-[^key-aff28a159cd0ac0cd43d697f27e25245]: Textual amendment: [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/16/b) substituted (19.8.2024) by [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 1 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/3/3/a)
+[^c-aff28a159cd0ac0cd43d697f27e25245]: Textual amendment: [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/16/b) substituted (19.8.2024) by [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 1 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/3/3/a)
 
-[^key-8577812a43eb8a55580c2746f1ad8dd3]: Textual amendment: Sch. 1 para. 17 omitted (19.8.2024) by virtue of [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 1 para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/3/3/b)
+[^c-8577812a43eb8a55580c2746f1ad8dd3]: Textual amendment: Sch. 1 para. 17 omitted (19.8.2024) by virtue of [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 1 para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/3/3/b)
 
-[^key-cc256e489910527b402275467cb63dc1]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/18) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-cc256e489910527b402275467cb63dc1]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/18) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
 [^f00018]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52). Section 382 of the Armed Forces Act 2006 provides that the Act expires at the end of one year beginning with the day on which the Armed Forces Act 2011 is passed (3rd November 2011) unless continued by an Order in Council (but not beyond the year 2016). The Armed Forces Act (Continuation) Order 2012 ([S.I. 2012/1750](https://www.legislation.gov.uk/uksi/2012/1750)), article 2 continues the Armed Forces Act 2006 in force until 3rd November 2013.
 
@@ -715,60 +715,60 @@ Further modifications include—
 
 [^f00021]: Footnote: Section 576 was amended by the School Standards and Frameworks Act [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), Schedule 30, paragraph 180(a) and Schedule 31, paragraph 1.
 
-[^key-e8dc2ae180ab690434efb32218408993]: Textual amendment: Sch. 1 Pt. 1ZA inserted (1.9.2026) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2026 (S.I. 2026/639)](https://www.legislation.gov.uk/uksi/2026/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/639/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/639/regulation/5)
+[^c-e8dc2ae180ab690434efb32218408993]: Textual amendment: Sch. 1 Pt. 1ZA inserted (1.9.2026) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2026 (S.I. 2026/639)](https://www.legislation.gov.uk/uksi/2026/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/639/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/639/regulation/5)
 
-[^key-b7d0d881f20ad3972b6d0b2fbeeda9e6]: Textual amendment: [Sch. 1 Pt. 1A](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/part/1A) inserted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/4)
+[^c-b7d0d881f20ad3972b6d0b2fbeeda9e6]: Textual amendment: [Sch. 1 Pt. 1A](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/part/1A) inserted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/4)
 
-[^key-b61987493ddad2bc98bf4218ddd8e1ac]: Textual amendment: Sch. 1 para. 18A(2)(a) substituted (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/558/regulation/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/558/regulation/10))
+[^c-b61987493ddad2bc98bf4218ddd8e1ac]: Textual amendment: Sch. 1 para. 18A(2)(a) substituted (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2026/558/regulation/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/558/regulation/10))
 
-[^key-09f95fb81506d701f7708d8bfa0430fa]: Textual amendment: Sch. 1 Pt. 1B inserted (1.9.2026) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2026 (S.I. 2026/639)](https://www.legislation.gov.uk/uksi/2026/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/639/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/639/regulation/6)
+[^c-09f95fb81506d701f7708d8bfa0430fa]: Textual amendment: Sch. 1 Pt. 1B inserted (1.9.2026) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2026 (S.I. 2026/639)](https://www.legislation.gov.uk/uksi/2026/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/639/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/639/regulation/6)
 
-[^key-48338b0c663ea3510cd9c8a69da9695a]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/19) substituted (1.9.2026) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2026 (S.I. 2026/639)](https://www.legislation.gov.uk/uksi/2026/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/639/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2026/639/regulation/7/1)
+[^c-48338b0c663ea3510cd9c8a69da9695a]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/19) substituted (1.9.2026) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2026 (S.I. 2026/639)](https://www.legislation.gov.uk/uksi/2026/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/639/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2026/639/regulation/7/1)
 
-[^key-035a30af0bc36eec126d70543e88afcd]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/20) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-035a30af0bc36eec126d70543e88afcd]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/20) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-cb58a96b8594c485e5f75e6f1fa2945e]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/21) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-cb58a96b8594c485e5f75e6f1fa2945e]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/21) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-6300d7884789aef524a76076ee078170]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/22) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-6300d7884789aef524a76076ee078170]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/22) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-883e30abc2710a79f0ace4b7822e482a]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/23) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-883e30abc2710a79f0ace4b7822e482a]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/23) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-18afe62b2d37357d15038f6040d48f85]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/24) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-18afe62b2d37357d15038f6040d48f85]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/24) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
 [^f00022]: Footnote: The School Discipline (Pupil Exclusions and Reviews) (England) Regulations 2012 ([S.I. 2012/1033](https://www.legislation.gov.uk/uksi/2012/1033)) provide that any exclusion for a fixed period between the morning and afternoon sessions shall for the purposes of those Regulations be taken as equivalent to half a school day.
 
-[^key-9007ce9f5b05aec2c55b73cbefba6681]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/25) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-9007ce9f5b05aec2c55b73cbefba6681]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/25) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-a65313bcecf593d00c019a50571c1dc7]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/26) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-a65313bcecf593d00c019a50571c1dc7]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/26) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-b9ee0ce7a94f03d3ad0da77bde4d9b37]: Textual amendment: Sch. 1 paras. 26A-26H inserted (1.9.2026) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2026 (S.I. 2026/639)](https://www.legislation.gov.uk/uksi/2026/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/639/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2026/639/regulation/7/2)
+[^c-b9ee0ce7a94f03d3ad0da77bde4d9b37]: Textual amendment: Sch. 1 paras. 26A-26H inserted (1.9.2026) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2026 (S.I. 2026/639)](https://www.legislation.gov.uk/uksi/2026/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/639/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2026/639/regulation/7/2)
 
-[^key-653bc4ca4dd8534b029410b5242d18b6]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/27) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-653bc4ca4dd8534b029410b5242d18b6]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/27) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-b75ef94aa8e40e293851fea03fd32117]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/28) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-b75ef94aa8e40e293851fea03fd32117]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/28) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-7fdefb59f3f86ecceabfbb78329ee115]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/29) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-7fdefb59f3f86ecceabfbb78329ee115]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/29) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-29c3c06be1690f028023d02ffb03de15]: Textual amendment: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/30) substituted (1.10.2020) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2020 (S.I. 2020/965)](https://www.legislation.gov.uk/uksi/2020/965), [regs. 1](https://www.legislation.gov.uk/uksi/2020/965/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2020/965/regulation/2/3/c)
+[^c-29c3c06be1690f028023d02ffb03de15]: Textual amendment: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/30) substituted (1.10.2020) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2020 (S.I. 2020/965)](https://www.legislation.gov.uk/uksi/2020/965), [regs. 1](https://www.legislation.gov.uk/uksi/2020/965/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2020/965/regulation/2/3/c)
 
-[^key-3092bf82dcfb50cf223ca41655ec02a6]: Textual amendment: Sch. 1 para. 30(2) substituted (19.8.2024) by [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 1 para. 3(3)(c)](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/3/3/c)
+[^c-3092bf82dcfb50cf223ca41655ec02a6]: Textual amendment: Sch. 1 para. 30(2) substituted (19.8.2024) by [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 1 para. 3(3)(c)](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/3/3/c)
 
-[^key-814c91993932fe2ccb767b49cdbeed59]: Textual amendment: Sch. 1 para. 31 omitted (19.8.2024) by virtue of [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 1 para. 3(3)(d)](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/3/3/d)
+[^c-814c91993932fe2ccb767b49cdbeed59]: Textual amendment: Sch. 1 para. 31 omitted (19.8.2024) by virtue of [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 1 para. 3(3)(d)](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/3/3/d)
 
-[^key-fa7a52f757ed969c0f4977a9793fee84]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/32) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-fa7a52f757ed969c0f4977a9793fee84]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/32) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-1dd4b70dcb00d44e33bf15e74c635188]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/33) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-1dd4b70dcb00d44e33bf15e74c635188]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/33) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-b7153b5c31b3aa4631b0730a98dd619c]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/34) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-b7153b5c31b3aa4631b0730a98dd619c]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/34) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-43d7d17ca48817c507251b9d88f1cba6]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/35) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-43d7d17ca48817c507251b9d88f1cba6]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/35) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-8254fa6b2e15f4cf01a3ef6eeec61341]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/36) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-8254fa6b2e15f4cf01a3ef6eeec61341]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/36) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-ae560fa1c179c250652d3e61ef604f5e]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/37) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-ae560fa1c179c250652d3e61ef604f5e]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/paragraph/37) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
 
-[^key-6347f0feed9884da8be034f343e2b826]: Textual amendment: [Sch. 1 Pt. 6](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/part/6) inserted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/5)
+[^c-6347f0feed9884da8be034f343e2b826]: Textual amendment: [Sch. 1 Pt. 6](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1/part/6) inserted (1.9.2022) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2022 (S.I. 2022/599)](https://www.legislation.gov.uk/uksi/2022/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/599/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2022/599/regulation/2/5)
 
-[^key-ac3b3527a8b376800db2773e8fb8dfa3]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1A) inserted (19.8.2024) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2024 (S.I. 2024/209)](https://www.legislation.gov.uk/uksi/2024/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/209/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/209/regulation/2/4)
+[^c-ac3b3527a8b376800db2773e8fb8dfa3]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/uksi/2013/2094/schedule/1A) inserted (19.8.2024) by [The Education (Information About Individual Pupils) (England) (Amendment) Regulations 2024 (S.I. 2024/209)](https://www.legislation.gov.uk/uksi/2024/209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/209/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/209/regulation/2/4)
 
-[^key-9407684430400841be85cb2a3fce0160]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2094/schedule/2) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)
+[^c-9407684430400841be85cb2a3fce0160]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2094/schedule/2) in force at 1.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2094/regulation/1/1)

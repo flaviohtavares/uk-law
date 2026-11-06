@@ -24,7 +24,7 @@ summary: ''
 
 (2)[^c19644171] The power conferred by subsection (1) is exercisable in relation to a solicitor at any time during the period for which the solicitor's current certificate is in force if—
 
-- (a)[^key-2b7df5483e79a23b0724d835800ff504] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2b7df5483e79a23b0724d835800ff504] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) it appears to the Society that the case is of a prescribed description.
 
 (3) “**Prescribed**” means prescribed by regulations under section 28.
@@ -64,7 +64,7 @@ by order revoke the direction; or
 
 [^c19644171]: Textual amendment: S. 13A(2)(3) substituted (1.7.2009) for s. 13A(2)-(5) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 16(2)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/16/2) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/iii) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/1365/article/4))
 
-[^key-2b7df5483e79a23b0724d835800ff504]: Textual amendment: [S. 13A(2)(a)](https://www.legislation.gov.uk/ukpga/1974/47/section/13A/2/a) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/8)
+[^c-2b7df5483e79a23b0724d835800ff504]: Textual amendment: [S. 13A(2)(a)](https://www.legislation.gov.uk/ukpga/1974/47/section/13A/2/a) omitted (1.11.2015) by virtue of [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/8)
 
 [^c19644221]: Textual amendment: Words in s. 13A(6) substituted (1.7.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 16(3)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/16/3) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/iii) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/1365/article/4))
 

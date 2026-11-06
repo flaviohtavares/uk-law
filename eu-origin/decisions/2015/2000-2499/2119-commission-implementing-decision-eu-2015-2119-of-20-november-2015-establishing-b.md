@@ -67,7 +67,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** The BAT conclusions for the production of wood-based panels, as set out in the Annex, are adopted.
 
-## Article 2. Application and Interpretation[^key-600b4fad4f7fb03d7de90047e013259c]
+## Article 2. Application and Interpretation[^c-600b4fad4f7fb03d7de90047e013259c]
 
 (1.) The BAT conclusions referred to in Article 1 apply in the United Kingdom.
 
@@ -884,7 +884,7 @@ DESCRIPTION OF TECHNIQUES
 
 [^f00002]: Footnote: [OJ C 146, 17.5.2011, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2011.146.01.0003.01.ENG).
 
-[^key-600b4fad4f7fb03d7de90047e013259c]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2015/2119/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/16/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-600b4fad4f7fb03d7de90047e013259c]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2015/2119/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/16/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: A more suitable measurement period may be employed for any parameter where, due to sampling or analytical limitations, a 30-minute measurement is inappropriate.
 

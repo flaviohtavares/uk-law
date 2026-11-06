@@ -32,7 +32,7 @@ summary: ''
 
 Seeds
 
-The Vegetable Seeds (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]
+The Vegetable Seeds (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]
 
 Made
 
@@ -42,54 +42,54 @@ Coming into operation
 
 11th April 2011
 
-[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]
+## PART 1 — General[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]
 
-### 1. Citation and Commencement[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Control of Vegetable Seed[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]
-
-### 2. Amendment of the Vegetable Seeds Regulations (Northern Ireland) 2009[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]
+### 1. Citation and Commencement[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment to Regulation 2[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]
+## PART 2 — Control of Vegetable Seed[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]
+
+### 2. Amendment of the Vegetable Seeds Regulations (Northern Ireland) 2009[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. New regulations 19A, 19B and 19C[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]
+### 3. Amendment to Regulation 2[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment to regulation 22[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]
+### 4. New regulations 19A, 19B and 19C[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment to regulation 25[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]
+### 5. Amendment to regulation 22[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment to Schedule 1[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]
+### 6. Amendment to regulation 25[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment to Schedule 4[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]
+### 7. Amendment to Schedule 1[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment to Schedule 8[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]
+### 8. Amendment to Schedule 4[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 9. Amendment to Schedule 8[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]
 
-[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7a2dfe7d5dcb0f7f53b562efcdee50d1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2011/38) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(g)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/g)
+[^c-7a2dfe7d5dcb0f7f53b562efcdee50d1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2011/38) revoked (14.7.2016) by [The Seed Marketing Regulations (Northern Ireland) 2016 (S.R. 2016/244)](https://www.legislation.gov.uk/nisr/2016/244), [reg. 35(2)(g)](https://www.legislation.gov.uk/nisr/2016/244/regulation/35/2/g)

@@ -59,7 +59,7 @@ the court may relieve that solicitor and appoint another solicitor for the purpo
 (2F) Subsections (2B)(b) and (2E) above shall not apply in the case of proceedings—
 
 - (a) in respect of a sexual offence to which section 288C of this Act applies; or
-- (aa)[^key-c29be96bb30cdf7ad785544ef07b7211] in respect of an offence to which section 288DC of this Act applies;
+- (aa)[^c-c29be96bb30cdf7ad785544ef07b7211] in respect of an offence to which section 288DC of this Act applies;
 - (b) in respect of which section 288E of this Act applies; or
 - (c) in which an order has been made under section 288F(2) of this Act.
 
@@ -78,6 +78,6 @@ the court may relieve that solicitor and appoint another solicitor for the purpo
 
 [^c18975571]: Textual amendment: S. 92(2A)-(2F) inserted (1.2.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5), [ss. 10(3)](https://www.legislation.gov.uk/asp/2004/5/section/10/3), [27(1)](https://www.legislation.gov.uk/asp/2004/5/section/27/1); [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2](https://www.legislation.gov.uk/ssi/2004/405/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with savings in [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3)) (as amended (31.1.2005) by [S.S.I. 2005/40](https://www.legislation.gov.uk/ssi/2005/40), [art. 3(3)](https://www.legislation.gov.uk/ssi/2005/40/article/3/3) (subject to [art. 1(3)](https://www.legislation.gov.uk/ssi/2005/40/article/1/3)))
 
-[^key-c29be96bb30cdf7ad785544ef07b7211]: Textual amendment: [S. 92(2F)(aa)](https://www.legislation.gov.uk/ukpga/1995/46/section/92/2F/aa) inserted (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 4(7)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/4/7); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-c29be96bb30cdf7ad785544ef07b7211]: Textual amendment: [S. 92(2F)(aa)](https://www.legislation.gov.uk/ukpga/1995/46/section/92/2F/aa) inserted (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 4(7)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/4/7); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
 
 [^c18975661]: Textual amendment: S. 92(4) inserted (1.2.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5), [ss. 10(4)](https://www.legislation.gov.uk/asp/2004/5/section/10/4), [27(1)](https://www.legislation.gov.uk/asp/2004/5/section/27/1); [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2](https://www.legislation.gov.uk/ssi/2004/405/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with savings in [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

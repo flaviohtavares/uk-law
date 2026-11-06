@@ -22,7 +22,7 @@ summary: ''
 
 (1) The person liable for any tax charged under this Chapter is—
 
-- (a) the person to whom the distribution is made or is treated as made (see Part 6 of ICTA and sections 386(3) , 389(3) and 396A[^key-ce1f182a9720bd9eb5f4da09da66ab7b] ), or
+- (a) the person to whom the distribution is made or is treated as made (see Part 6 of ICTA and sections 386(3) , 389(3) and 396A[^c-ce1f182a9720bd9eb5f4da09da66ab7b] ), or
 - (b) the person receiving or entitled to the distribution.
 
 (2) Subsection (1) is subject to—
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce1f182a9720bd9eb5f4da09da66ab7b]: Textual amendment: Words in s. 385(1)(a) substituted (with effect in accordance with s. 19(10) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 19(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/19/4)
+[^c-ce1f182a9720bd9eb5f4da09da66ab7b]: Textual amendment: Words in s. 385(1)(a) substituted (with effect in accordance with s. 19(10) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 19(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/19/4)

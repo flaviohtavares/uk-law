@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Suspension and cancellation of accreditation[^key-ec17c58fbabedf575f399a1fed05a0e4]
+## 100. Suspension and cancellation of accreditation[^c-ec17c58fbabedf575f399a1fed05a0e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec17c58fbabedf575f399a1fed05a0e4]: Commencement: Reg. 100 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-ec17c58fbabedf575f399a1fed05a0e4]: Commencement: Reg. 100 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

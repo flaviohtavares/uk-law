@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Certificate of provisional registration[^key-201c482a17606b894601c3c36b844677]
+## 68. Certificate of provisional registration[^c-201c482a17606b894601c3c36b844677]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The Registrar, or the appropriate person, shall issue to the owner of the ship a
 
 ## Annotations
 
-[^key-201c482a17606b894601c3c36b844677]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/1993/3138/regulation/68) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-201c482a17606b894601c3c36b844677]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/1993/3138/regulation/68) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

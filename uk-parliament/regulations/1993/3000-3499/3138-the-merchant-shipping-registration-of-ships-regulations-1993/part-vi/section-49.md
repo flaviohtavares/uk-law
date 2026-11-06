@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Notification of changes of ownership etc.[^key-d6322bfdf0fe33fea7ce05a34f5322e7]
+## 49. Notification of changes of ownership etc.[^c-d6322bfdf0fe33fea7ce05a34f5322e7]
 
 *Extent: E+W+S+N.I.*
 
 (1) If at any time there occurs, in relation to a registered ship:—
 
-- (a) any change affecting the eligibility of the ship to be registered, not being a change which affects the qualification or eligibility of the owner (as prescribed in[^key-c27e44b4d729eae3a085f0864e9ad5bc] regulations 7 and 12) or the British connection of a ship (as prescribed in regulations 8 and 14), or
+- (a) any change affecting the eligibility of the ship to be registered, not being a change which affects the qualification or eligibility of the owner (as prescribed in[^c-c27e44b4d729eae3a085f0864e9ad5bc] regulations 7 and 12) or the British connection of a ship (as prescribed in regulations 8 and 14), or
 - (b) in respect of a fishing vessel, any change, not affecting that eligibility, in the percentage of the property in the ship beneficially owned by qualified persons or companies,
 
 the owner of the ship shall, as soon as practicable after the change occurs, notify the Registrar.
@@ -33,6 +33,6 @@ the owner of the ship shall, as soon as practicable after the change occurs, not
 
 ## Annotations
 
-[^key-d6322bfdf0fe33fea7ce05a34f5322e7]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1993/3138/regulation/49) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-d6322bfdf0fe33fea7ce05a34f5322e7]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1993/3138/regulation/49) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-c27e44b4d729eae3a085f0864e9ad5bc]: Textual amendment: Words in [reg. 49(1)(a)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/49/1/a) substituted (21.3.1994) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1994 (S.I. 1994/541)](https://www.legislation.gov.uk/uksi/1994/541), [regs. 1](https://www.legislation.gov.uk/uksi/1994/541/regulation/1), [7](https://www.legislation.gov.uk/uksi/1994/541/regulation/7)
+[^c-c27e44b4d729eae3a085f0864e9ad5bc]: Textual amendment: Words in [reg. 49(1)(a)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/49/1/a) substituted (21.3.1994) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 1994 (S.I. 1994/541)](https://www.legislation.gov.uk/uksi/1994/541), [regs. 1](https://www.legislation.gov.uk/uksi/1994/541/regulation/1), [7](https://www.legislation.gov.uk/uksi/1994/541/regulation/7)

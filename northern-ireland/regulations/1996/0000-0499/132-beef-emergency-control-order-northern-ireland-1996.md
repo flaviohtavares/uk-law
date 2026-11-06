@@ -42,7 +42,7 @@ Whereas it appears to the Department of Health and Social Services acting as the
 
 Now therefore the said Department concerned, in exercise of the powers conferred on it by Articles 12(1), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:—
 
-## 1. Title, commencement and interpretation[^key-04abb368af34d5c2c128042fcfbaadff]
+## 1. Title, commencement and interpretation[^c-04abb368af34d5c2c128042fcfbaadff]
 
 (1) This Order may be cited as the Beef (Emergency Control) Order (Northern Ireland) 1996 and shall come into operation on 29th March 1996.
 
@@ -51,7 +51,7 @@ Now therefore the said Department concerned, in exercise of the powers conferred
 - “the 1991 Order” means the Food Safety (Northern Ireland) Order 1991; and
 - “meat” means any part of the carcase of an animal intended for human consumption.
 
-## 2. Prohibition of sale of meat from older bovine animals[^key-97f19f9a826644dd257aa7fdff9fba9f]
+## 2. Prohibition of sale of meat from older bovine animals[^c-97f19f9a826644dd257aa7fdff9fba9f]
 
 (1) A person shall not sell any meat derived from any bovine animal slaughtered after the commencement of this Order and which, at the time of slaughter, was more than 2½ years of age.
 
@@ -60,11 +60,11 @@ Now therefore the said Department concerned, in exercise of the powers conferred
 - (a) in the first instance by reference to records kept in relation to that animal by the Department of Agriculture (in whatever form); or
 - (b) where necessary, by dentition.
 
-## 3. Enforcement[^key-542541cb913730f98b987b8896552114]
+## 3. Enforcement[^c-542541cb913730f98b987b8896552114]
 
 This Order shall be enforced and executed by each district council within its district.
 
-## 4. Application of various provisions of the 1991 Order[^key-0cf315543c2140b7a42106b453602377]
+## 4. Application of various provisions of the 1991 Order[^c-0cf315543c2140b7a42106b453602377]
 
 The following provisions of the 1991 Order shall apply for the purposes of this Order as they apply for the purposes of the 1991 Order and, accordingly, any reference in those provisions to the 1991 Order shall be construed as a reference to this Order—
 
@@ -95,10 +95,10 @@ Any person who contravenes this Order is guilty of an offence under Article 12(2
 
 [^f00001]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762): *See* the definition of ‘the Department concerned' in Article 2(2)
 
-[^key-04abb368af34d5c2c128042fcfbaadff]: Commencement: Art. 1 in operation at 29.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/132/article/1/1)
+[^c-04abb368af34d5c2c128042fcfbaadff]: Commencement: Art. 1 in operation at 29.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/132/article/1/1)
 
-[^key-97f19f9a826644dd257aa7fdff9fba9f]: Commencement: Art. 2 in operation at 29.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/132/article/1/1)
+[^c-97f19f9a826644dd257aa7fdff9fba9f]: Commencement: Art. 2 in operation at 29.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/132/article/1/1)
 
-[^key-542541cb913730f98b987b8896552114]: Commencement: Art. 3 in operation at 29.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/132/article/1/1)
+[^c-542541cb913730f98b987b8896552114]: Commencement: Art. 3 in operation at 29.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/132/article/1/1)
 
-[^key-0cf315543c2140b7a42106b453602377]: Commencement: Art. 4 in operation at 29.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/132/article/1/1)
+[^c-0cf315543c2140b7a42106b453602377]: Commencement: Art. 4 in operation at 29.3.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/132/article/1/1)

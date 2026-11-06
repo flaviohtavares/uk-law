@@ -37,10 +37,10 @@ elect that the following provisions shall apply.
 
 (4) For the purposes of sections 11 to 17 as they have effect by virtue of subsection (3) so much of the consideration for the original disposal as did not consist of money shall be treated as such amount in money as was equivalent to its value in the hands of the landlord.
 
-The landlord or the nominated person may apply to have that amount determined by the appropriate tribunal[^key-46ad044f9ca757c1c2086cc18250ce2b].
+The landlord or the nominated person may apply to have that amount determined by the appropriate tribunal[^c-46ad044f9ca757c1c2086cc18250ce2b].
 
 ## Annotations
 
 [^c10161251]: Textual amendment: Ss. 5, 5A-5E, 6, 7, 8, 8A-8E, 9A, 9B, 10 and crossheading substituted for ss. 5-10 (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 92(1)](https://www.legislation.gov.uk/ukpga/1996/52/section/92/1), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1996/52/schedule/6/part/I); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 
-[^key-46ad044f9ca757c1c2086cc18250ce2b]: Textual amendment: Words in s. 8C(4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/59) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-46ad044f9ca757c1c2086cc18250ce2b]: Textual amendment: Words in s. 8C(4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/59) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

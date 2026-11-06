@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — STREETS SUBJECT TO STREET WORKS[^key-2447801b85269ff26e373740912c4c45]
+## SCHEDULE 6 — STREETS SUBJECT TO STREET WORKS[^c-2447801b85269ff26e373740912c4c45]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ Article 11
 
 ## Annotations
 
-[^key-2447801b85269ff26e373740912c4c45]: Commencement: Sch. 6 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-2447801b85269ff26e373740912c4c45]: Commencement: Sch. 6 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

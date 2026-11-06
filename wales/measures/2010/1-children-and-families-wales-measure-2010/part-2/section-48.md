@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Penalty notices: supplementary provisions[^key-28addbc6d6fc814b259eec62e40e9199]
+## 48. Penalty notices: supplementary provisions[^c-28addbc6d6fc814b259eec62e40e9199]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 (2) Regulations under subsection (1)(b)—
 
 - (a) may make provision for penalties of different amounts to be payable in different cases, including provision for the penalty payable under a penalty notice to differ according to the time by which it is paid, but
-- (b) must secure that the amount of any penalty payable in respect of any offence does not exceed one half of the maximum amount of the fine to which a person committing the offence would be liable on summary conviction or, where there is no such maximum amount, that it does not exceed the amount corresponding to level 4 on the standard scale for summary offences[^key-d208ed7d3fec147d3576c6723c019528].
+- (b) must secure that the amount of any penalty payable in respect of any offence does not exceed one half of the maximum amount of the fine to which a person committing the offence would be liable on summary conviction or, where there is no such maximum amount, that it does not exceed the amount corresponding to level 4 on the standard scale for summary offences[^c-d208ed7d3fec147d3576c6723c019528].
 
 (3) In this section—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28addbc6d6fc814b259eec62e40e9199]: Commencement: S. 48 in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582), [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/uksi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/uksi/2010/2582/schedule/3))
+[^c-28addbc6d6fc814b259eec62e40e9199]: Commencement: S. 48 in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/uksi/2010/2582), [art. 2](https://www.legislation.gov.uk/uksi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/uksi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/uksi/2010/2582/schedule/3))
 
-[^key-d208ed7d3fec147d3576c6723c019528]: Textual amendment: Words in [s. 48(2)(b)](https://www.legislation.gov.uk/mwa/2010/1/section/48/2/b) inserted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 16](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/16) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-d208ed7d3fec147d3576c6723c019528]: Textual amendment: Words in [s. 48(2)(b)](https://www.legislation.gov.uk/mwa/2010/1/section/48/2/b) inserted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 5 para. 16](https://www.legislation.gov.uk/uksi/2015/664/schedule/5/paragraph/16) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

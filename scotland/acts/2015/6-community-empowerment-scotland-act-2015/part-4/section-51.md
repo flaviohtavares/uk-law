@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Representations etc. regarding circumstances affecting ballot result[^key-91329542f45e63657eff578f13a78864]
+## 51. Representations etc. regarding circumstances affecting ballot result[^c-91329542f45e63657eff578f13a78864]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91329542f45e63657eff578f13a78864]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2015/6/section/51) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-91329542f45e63657eff578f13a78864]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2015/6/section/51) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

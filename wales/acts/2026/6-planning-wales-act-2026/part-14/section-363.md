@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 363. Arrangements for exercise of functions: supplementary[^key-4cbc1b6f5fd499e6a77868181129acd7]
+## 363. Arrangements for exercise of functions: supplementary[^c-4cbc1b6f5fd499e6a77868181129acd7]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cbc1b6f5fd499e6a77868181129acd7]: Commencement: S. 363 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4cbc1b6f5fd499e6a77868181129acd7]: Commencement: S. 363 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

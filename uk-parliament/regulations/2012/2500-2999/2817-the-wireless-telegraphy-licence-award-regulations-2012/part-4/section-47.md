@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Alternative method for submission of opt-in bid form[^key-a3a95c337026e363319168e901c55a1b]
+## 47. Alternative method for submission of opt-in bid form[^c-a3a95c337026e363319168e901c55a1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3a95c337026e363319168e901c55a1b]: Commencement: Reg. 47 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-a3a95c337026e363319168e901c55a1b]: Commencement: Reg. 47 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

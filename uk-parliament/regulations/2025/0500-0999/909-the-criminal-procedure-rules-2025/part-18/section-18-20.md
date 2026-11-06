@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.20. Application to vary or discharge the appointment of an intermediary for a defendant[^key-b741385685d0a7a95f2f76c3a51f64f1]
+## 18.20. Application to vary or discharge the appointment of an intermediary for a defendant[^c-b741385685d0a7a95f2f76c3a51f64f1]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b741385685d0a7a95f2f76c3a51f64f1]: Commencement: [Rule 18.20](https://www.legislation.gov.uk/uksi/2025/909/rule/18.20) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b741385685d0a7a95f2f76c3a51f64f1]: Commencement: [Rule 18.20](https://www.legislation.gov.uk/uksi/2025/909/rule/18.20) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

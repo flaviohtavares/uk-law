@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Periodic reporting requirement[^key-965c2e1251b3ab9e66fc324e414e72e6]
+## 32. Periodic reporting requirement[^c-965c2e1251b3ab9e66fc324e414e72e6]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-965c2e1251b3ab9e66fc324e414e72e6]: Commencement: Reg. 32 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-965c2e1251b3ab9e66fc324e414e72e6]: Commencement: Reg. 32 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
 [^f00022]: Footnote: Article 23 was substituted by Article 32(3) of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255)

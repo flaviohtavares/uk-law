@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154B. Financial assistance for major works[^key-4b22c344804254ec432835801b3a7acb]
+## 154B. Financial assistance for major works[^c-4b22c344804254ec432835801b3a7acb]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b22c344804254ec432835801b3a7acb]: Textual amendment: [S. 154B](https://www.legislation.gov.uk/ukpga/1991/56/section/154B) inserted (1.7.2012) by [Water Industry (Financial Assistance) Act 2012 (c. 8)](https://www.legislation.gov.uk/ukpga/2012/8), [ss. 2](https://www.legislation.gov.uk/ukpga/2012/8/section/2), [3(2)](https://www.legislation.gov.uk/ukpga/2012/8/section/3/2)
+[^c-4b22c344804254ec432835801b3a7acb]: Textual amendment: [S. 154B](https://www.legislation.gov.uk/ukpga/1991/56/section/154B) inserted (1.7.2012) by [Water Industry (Financial Assistance) Act 2012 (c. 8)](https://www.legislation.gov.uk/ukpga/2012/8), [ss. 2](https://www.legislation.gov.uk/ukpga/2012/8/section/2), [3(2)](https://www.legislation.gov.uk/ukpga/2012/8/section/3/2)

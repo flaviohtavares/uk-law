@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Enlargement of sites of special scientific interest[^key-024a81e2faed1e1dfbc09c96ae78d5d0]
+## 5. Enlargement of sites of special scientific interest[^c-024a81e2faed1e1dfbc09c96ae78d5d0]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-024a81e2faed1e1dfbc09c96ae78d5d0]: Commencement: S. 5 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-024a81e2faed1e1dfbc09c96ae78d5d0]: Commencement: S. 5 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

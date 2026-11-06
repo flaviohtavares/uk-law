@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Possessing salmon which have been illegally taken, killed or landed[^key-bfb32b5bfb3d5720529c88c6d9f59d0d]
+## 20. Possessing salmon which have been illegally taken, killed or landed[^c-bfb32b5bfb3d5720529c88c6d9f59d0d]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ and, for the purposes of this subsection, “**offence**”, in relation to the 
 
 ## Annotations
 
-[^key-bfb32b5bfb3d5720529c88c6d9f59d0d]: Commencement: S. 20 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-bfb32b5bfb3d5720529c88c6d9f59d0d]: Commencement: S. 20 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

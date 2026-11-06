@@ -28,7 +28,7 @@ summary: ''
 
 - (a) for the name of the group;
 - (b)[^c19632361] the electoral arrangements that are to apply to the council;
-- (c) for the application to the parishes included in the group of all or any of the provisions of sections 298 to 303 of the Charities Act 2011 (parochial charities)[^key-3935910b560ce206fe2d7e07c69ed228] and of any of the provisions of this Act with respect to the custody of parish documents, so as to preserve the separate rights of each parish;
+- (c) for the application to the parishes included in the group of all or any of the provisions of sections 298 to 303 of the Charities Act 2011 (parochial charities)[^c-3935910b560ce206fe2d7e07c69ed228] and of any of the provisions of this Act with respect to the custody of parish documents, so as to preserve the separate rights of each parish;
 - (d) for the dissolution of the separate parish council of any parish included in the group,
 
 and the order may provide for the consent of the parish meeting of a parish being required to any particular act of the parish council, and for any necessary adaptations of this Act to the group of parishes or to the parish meetings of the parishes in the group.
@@ -63,7 +63,7 @@ and any order under subsection (4) above or[^c15088721] section 86 of the Local 
 
 [^c19632361]: Textual amendment: S. 11(3)(b) substituted (13.2.2008) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 101](https://www.legislation.gov.uk/ukpga/2007/28/section/101), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/5/paragraph/4/3); [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/337/article/2/c)
 
-[^key-3935910b560ce206fe2d7e07c69ed228]: Textual amendment: Words in [s. 11(3)(c)](https://www.legislation.gov.uk/ukpga/1972/70/section/11/3/c) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/22) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-3935910b560ce206fe2d7e07c69ed228]: Textual amendment: Words in [s. 11(3)(c)](https://www.legislation.gov.uk/ukpga/1972/70/section/11/3/c) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/22) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c19632431]: Textual amendment: S. 11(3A) inserted (13.2.2008) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 101](https://www.legislation.gov.uk/ukpga/2007/28/section/101), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 5 para. 4(4)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/5/paragraph/4/4); [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/337/article/2/c)
 

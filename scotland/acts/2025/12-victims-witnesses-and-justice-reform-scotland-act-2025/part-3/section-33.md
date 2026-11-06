@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Victim’s right to information about plea agreements, etc.[^key-8fee2bb2ca7ec66ef94be53cf12fb433]
+## 33. Victim’s right to information about plea agreements, etc.[^c-8fee2bb2ca7ec66ef94be53cf12fb433]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fee2bb2ca7ec66ef94be53cf12fb433]: Commencement: S. 33 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-8fee2bb2ca7ec66ef94be53cf12fb433]: Commencement: S. 33 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Responsibility for ensuring the provision of probation services[^key-cdd8f1877731ff9408b29a8fe90e5ca9][^key-cc1944cbd7f834e8e2eecf303fdff303][^key-2b031d5d28720dd1338c1750c4145f09]
+## 2. Responsibility for ensuring the provision of probation services[^c-cdd8f1877731ff9408b29a8fe90e5ca9][^c-cc1944cbd7f834e8e2eecf303fdff303][^c-2b031d5d28720dd1338c1750c4145f09]
 
 *Extent: E+W*
 
@@ -46,8 +46,8 @@ and any provision which the Secretary of State considers should be made for a pu
 
 ## Annotations
 
-[^key-cdd8f1877731ff9408b29a8fe90e5ca9]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/21/section/2) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2008/504/article/4/1/b)[(2)](https://www.legislation.gov.uk/uksi/2008/504/article/4/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2008/504/article/5))
+[^c-cdd8f1877731ff9408b29a8fe90e5ca9]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/21/section/2) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2008/504/article/4/1/b)[(2)](https://www.legislation.gov.uk/uksi/2008/504/article/4/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2008/504/article/5))
 
-[^key-cc1944cbd7f834e8e2eecf303fdff303]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/21/section/2) in force at 1.4.2009 for specified purposes by [S.I. 2009/547](https://www.legislation.gov.uk/uksi/2009/547), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2009/547/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2009/547/article/2/2)
+[^c-cc1944cbd7f834e8e2eecf303fdff303]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/21/section/2) in force at 1.4.2009 for specified purposes by [S.I. 2009/547](https://www.legislation.gov.uk/uksi/2009/547), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2009/547/article/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2009/547/article/2/2)
 
-[^key-2b031d5d28720dd1338c1750c4145f09]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/21/section/2) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/191](https://www.legislation.gov.uk/uksi/2010/191), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/191/article/2/2)
+[^c-2b031d5d28720dd1338c1750c4145f09]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2007/21/section/2) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/191](https://www.legislation.gov.uk/uksi/2010/191), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/191/article/2/2)

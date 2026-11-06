@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Registration plates[^key-6eb97410ab25ee65fecc3a383bf24b38]
+## 45. Registration plates[^c-6eb97410ab25ee65fecc3a383bf24b38]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6eb97410ab25ee65fecc3a383bf24b38]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/49/section/45) in force at 30.7.2008 for E.W. with effect as mentioned in arts. 3 and 4 of the commencing S.I. by [S.I. 2008/1862](https://www.legislation.gov.uk/uksi/2008/1862), [art. 2](https://www.legislation.gov.uk/uksi/2008/1862/article/2)
+[^c-6eb97410ab25ee65fecc3a383bf24b38]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2006/49/section/45) in force at 30.7.2008 for E.W. with effect as mentioned in arts. 3 and 4 of the commencing S.I. by [S.I. 2008/1862](https://www.legislation.gov.uk/uksi/2008/1862), [art. 2](https://www.legislation.gov.uk/uksi/2008/1862/article/2)

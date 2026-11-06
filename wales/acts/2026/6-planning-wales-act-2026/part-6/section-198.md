@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 198. Duty to pass on CIL: further provision[^key-a645e497f13b2a8a75d386927f94f794]
+## 198. Duty to pass on CIL: further provision[^c-a645e497f13b2a8a75d386927f94f794]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a645e497f13b2a8a75d386927f94f794]: Commencement: S. 198 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a645e497f13b2a8a75d386927f94f794]: Commencement: S. 198 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

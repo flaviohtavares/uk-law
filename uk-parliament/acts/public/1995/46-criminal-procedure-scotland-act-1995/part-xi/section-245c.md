@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245C. Remote monitoring.[^key-2e4e67ed494129c159442e73a4e59ad9]
+## 245C. Remote monitoring.[^c-2e4e67ed494129c159442e73a4e59ad9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e4e67ed494129c159442e73a4e59ad9]: Textual amendment: [S. 245C](https://www.legislation.gov.uk/ukpga/1995/46/section/245C) repealed (17.5.2022) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2), [sch. 1 para. 7(2)(d)](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/7/2/d); [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/4))
+[^c-2e4e67ed494129c159442e73a4e59ad9]: Textual amendment: [S. 245C](https://www.legislation.gov.uk/ukpga/1995/46/section/245C) repealed (17.5.2022) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2), [sch. 1 para. 7(2)(d)](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/7/2/d); [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/4))

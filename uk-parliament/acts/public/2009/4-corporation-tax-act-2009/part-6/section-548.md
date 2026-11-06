@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 548. Meaning of debtor repo[^key-cf15e17bd26c2f0f2056bc53191c1fef]
+## 548. Meaning of debtor repo[^c-cf15e17bd26c2f0f2056bc53191c1fef]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf15e17bd26c2f0f2056bc53191c1fef]: Modification: S. 548 applied by 2010 c. 4, s. 938I(3) (as inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/2))
+[^c-cf15e17bd26c2f0f2056bc53191c1fef]: Modification: S. 548 applied by 2010 c. 4, s. 938I(3) (as inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/2))

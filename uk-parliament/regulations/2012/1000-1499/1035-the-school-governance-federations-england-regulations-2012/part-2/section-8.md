@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**8.**[^key-d74a8fefaa832e7cfd51bce7e5fa009e] (1) Where a governing body propose to federate with the governing body of a federation, they must give notice of the proposal to the governing body.
+**8.**[^c-d74a8fefaa832e7cfd51bce7e5fa009e] (1) Where a governing body propose to federate with the governing body of a federation, they must give notice of the proposal to the governing body.
 
 (2) Upon receipt of the notice, the governing body of that federation must consider whether to—
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d74a8fefaa832e7cfd51bce7e5fa009e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/1035/regulation/8) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-d74a8fefaa832e7cfd51bce7e5fa009e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/1035/regulation/8) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

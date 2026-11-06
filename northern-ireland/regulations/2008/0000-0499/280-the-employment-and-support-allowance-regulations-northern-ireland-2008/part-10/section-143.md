@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 143. Disregard of changes occurring during summer vacation[^key-615afb5f9a0874d9afb08a14b49f90c5]
+## 143. Disregard of changes occurring during summer vacation[^c-615afb5f9a0874d9afb08a14b49f90c5]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In calculating a student’s income there is to be disregarded any change in the
 
 ## Annotations
 
-[^key-615afb5f9a0874d9afb08a14b49f90c5]: Commencement: [Reg. 143](https://www.legislation.gov.uk/nisr/2008/280/regulation/143) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-615afb5f9a0874d9afb08a14b49f90c5]: Commencement: [Reg. 143](https://www.legislation.gov.uk/nisr/2008/280/regulation/143) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

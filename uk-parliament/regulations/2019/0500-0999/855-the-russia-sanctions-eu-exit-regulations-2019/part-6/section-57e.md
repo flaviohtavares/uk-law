@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57E. Registration of ships in the United Kingdom[^key-1a5eeddf01c7cca1c982bffd0c9e63df]
+## 57E. Registration of ships in the United Kingdom[^c-1a5eeddf01c7cca1c982bffd0c9e63df]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) designated persons; or
 - (b) persons connected with Russia.
 
-(1A)[^key-7365967a1ef8efc63505b9cde2dde921] The Registrar must refuse to register a ship if it is a specified ship.
+(1A)[^c-7365967a1ef8efc63505b9cde2dde921] The Registrar must refuse to register a ship if it is a specified ship.
 
 (2) The Secretary of State may direct the Registrar to terminate the registration of—
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a5eeddf01c7cca1c982bffd0c9e63df]: Textual amendment: Regs. 57A-57I inserted (1.3.2022 at 3.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/203)](https://www.legislation.gov.uk/uksi/2022/203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/203/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/203/regulation/6)
+[^c-1a5eeddf01c7cca1c982bffd0c9e63df]: Textual amendment: Regs. 57A-57I inserted (1.3.2022 at 3.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/203)](https://www.legislation.gov.uk/uksi/2022/203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/203/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/203/regulation/6)
 
-[^key-7365967a1ef8efc63505b9cde2dde921]: Textual amendment: Reg. 57E(1A) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2026/543/regulation/14)
+[^c-7365967a1ef8efc63505b9cde2dde921]: Textual amendment: Reg. 57E(1A) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2026/543/regulation/14)

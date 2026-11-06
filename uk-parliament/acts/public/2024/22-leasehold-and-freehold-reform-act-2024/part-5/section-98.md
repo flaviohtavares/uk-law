@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Part 5: Crown application[^key-4e9342a363594ab9cdde5ef00252da19]
+## 98. Part 5: Crown application[^c-4e9342a363594ab9cdde5ef00252da19]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e9342a363594ab9cdde5ef00252da19]: Commencement: S. 98 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-4e9342a363594ab9cdde5ef00252da19]: Commencement: S. 98 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

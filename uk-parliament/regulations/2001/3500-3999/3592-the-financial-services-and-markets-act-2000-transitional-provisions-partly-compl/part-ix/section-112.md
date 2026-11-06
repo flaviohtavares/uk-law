@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Preservation of right of appeal under the Banking Act[^key-b523a73f117d5eaada23e442b14aa0bb]
+## 112. Preservation of right of appeal under the Banking Act[^c-b523a73f117d5eaada23e442b14aa0bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ section 27 of the Banking Act (as it has effect by virtue of the 2BCD Regulation
 
 ## Annotations
 
-[^key-b523a73f117d5eaada23e442b14aa0bb]: Commencement: Art. 112 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-b523a73f117d5eaada23e442b14aa0bb]: Commencement: Art. 112 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

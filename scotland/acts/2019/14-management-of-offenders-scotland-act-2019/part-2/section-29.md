@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Sentences to which no disclosure period applies[^key-605d72f01b7136f15ae1b3868fd59214]
+## 29. Sentences to which no disclosure period applies[^c-605d72f01b7136f15ae1b3868fd59214]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-605d72f01b7136f15ae1b3868fd59214]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2019/14/section/29) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-605d72f01b7136f15ae1b3868fd59214]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2019/14/section/29) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

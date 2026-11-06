@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Health service body status: variation of contracts[^key-815feb9efd7184bccd23da114708c3a2]
+## 11. Health service body status: variation of contracts[^c-815feb9efd7184bccd23da114708c3a2]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ as a health service body for the purposes of section 7 of the Act beginning with
 
 ## Annotations
 
-[^key-815feb9efd7184bccd23da114708c3a2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2023/953/regulation/11) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-815feb9efd7184bccd23da114708c3a2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2023/953/regulation/11) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

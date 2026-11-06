@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Local housing strategies[^key-3571c1a1f027ab39142fae994f239c44]
+## 10. Local housing strategies[^c-3571c1a1f027ab39142fae994f239c44]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ In section 89 (duty to prepare a local housing strategy) of the Housing (Scotlan
 
 ## Annotations
 
-[^key-3571c1a1f027ab39142fae994f239c44]: Commencement: S. 10 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-3571c1a1f027ab39142fae994f239c44]: Commencement: S. 10 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

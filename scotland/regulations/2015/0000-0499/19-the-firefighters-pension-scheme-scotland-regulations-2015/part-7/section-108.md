@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. Pension credit member’s rights[^key-0c64cf055c1e2ac1beb362bc6c8ab40a]
+## 108. Pension credit member’s rights[^c-0c64cf055c1e2ac1beb362bc6c8ab40a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Benefits that are attributable (directly or indirectly) to a pension credit may 
 
 ## Annotations
 
-[^key-0c64cf055c1e2ac1beb362bc6c8ab40a]: Commencement: [Reg. 108](https://www.legislation.gov.uk/ssi/2015/19/regulation/108) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-0c64cf055c1e2ac1beb362bc6c8ab40a]: Commencement: [Reg. 108](https://www.legislation.gov.uk/ssi/2015/19/regulation/108) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

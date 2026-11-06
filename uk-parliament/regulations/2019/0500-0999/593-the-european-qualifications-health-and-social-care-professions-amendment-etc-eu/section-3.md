@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Pharmacists and pharmacy technicians[^key-214f861d642a3d2a26f708792d7468b0]
+## 3. Pharmacists and pharmacy technicians[^c-214f861d642a3d2a26f708792d7468b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Schedule 2—
 
 ## Annotations
 
-[^key-214f861d642a3d2a26f708792d7468b0]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-214f861d642a3d2a26f708792d7468b0]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

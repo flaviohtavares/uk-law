@@ -41,31 +41,31 @@ Coming into operation
 
 The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the control of pollution in ambient air, in exercise of the powers conferred on it by that section and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-2422e48b0f68ecdf18368fa4a7251a68]
+## 1. Citation and commencement[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Definitions and interpretation[^key-2422e48b0f68ecdf18368fa4a7251a68]
+## 2. Definitions and interpretation[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Duty to ensure that ambient air quality is improved[^key-2422e48b0f68ecdf18368fa4a7251a68]
+## 3. Duty to ensure that ambient air quality is improved[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Assessment of ambient air quality[^key-2422e48b0f68ecdf18368fa4a7251a68]
+## 4. Assessment of ambient air quality[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Classification of zones[^key-226befa3f1668e8076fff5c0cc676c77]
+## 5. Classification of zones[^c-226befa3f1668e8076fff5c0cc676c77]
 
 (1) The Department shall classify each zone in relation to each of the relevant pollutants according to whether ambient air quality in that zone for that pollutant is required to be assessed by—
 
@@ -73,25 +73,25 @@ The Department of the Environment, being a Department designated[^f00001] for th
 - (b) a combination of measurements and modelling techniques; or
 - (c) by the sole use of modelling or objective estimation techniques.
 
-(2)[^key-2422e48b0f68ecdf18368fa4a7251a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2422e48b0f68ecdf18368fa4a7251a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-2422e48b0f68ecdf18368fa4a7251a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2422e48b0f68ecdf18368fa4a7251a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-2422e48b0f68ecdf18368fa4a7251a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2422e48b0f68ecdf18368fa4a7251a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-2422e48b0f68ecdf18368fa4a7251a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-2422e48b0f68ecdf18368fa4a7251a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-2422e48b0f68ecdf18368fa4a7251a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-2422e48b0f68ecdf18368fa4a7251a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-2422e48b0f68ecdf18368fa4a7251a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-2422e48b0f68ecdf18368fa4a7251a68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Review of classifications[^key-a49d817527f919b265e7601fdf45e6ff]
+## 6. Review of classifications[^c-a49d817527f919b265e7601fdf45e6ff]
 
 (1) The Department shall review the classification of each zone under regulation 5 at least once in every five years in accordance with Part II of Schedule 2.
 
 (2) The Department shall also review the classification of any zone under regulation 5 in the event of significant changes in activities affecting ambient concentrations in the zone of any of the relevant pollutants.
 
-## 7. Method of assessment of ambient air quality[^key-2787803ba5a17c153daf4ac2f750dd3d]
+## 7. Method of assessment of ambient air quality[^c-2787803ba5a17c153daf4ac2f750dd3d]
 
 (1) The Department shall ensure that ambient air quality is assessed in each zone by following the specified method for each relevant pollutant in accordance with its current classification.
 
@@ -112,7 +112,7 @@ The Department of the Environment, being a Department designated[^f00001] for th
 - (b) the sampling and analysis of lead; and
 - (c) the sampling and measurement of PM<sub>10</sub>
 
-are set out in Schedule 6 and these methods must be used unless other methods are used which the Department considers can be demonstrated to give equivalent results or, in relation to the sampling and measurement of PM[^key-353ff556bb7abd66889582d0dd565732]<sub>10</sub>, which the Department considers can be demonstrated to display a consistent relationship to the reference method. .
+are set out in Schedule 6 and these methods must be used unless other methods are used which the Department considers can be demonstrated to give equivalent results or, in relation to the sampling and measurement of PM[^c-353ff556bb7abd66889582d0dd565732]<sub>10</sub>, which the Department considers can be demonstrated to display a consistent relationship to the reference method. .
 
 (7) The Department shall ensure that—
 
@@ -123,31 +123,31 @@ are set out in Schedule 6 and these methods must be used unless other methods ar
 
 (9) For sulphur dioxide, nitrogen dioxide and oxides of nitrogen the volume must be standardised at a temperature of 293°K and a pressure of 101,3 kPa.
 
-## 8. Action plans[^key-2422e48b0f68ecdf18368fa4a7251a68]
+## 8. Action plans[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Action to be taken where limit values are exceeded[^key-2422e48b0f68ecdf18368fa4a7251a68]
+## 9. Action to be taken where limit values are exceeded[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Zones where the levels are lower than the limit value[^key-2422e48b0f68ecdf18368fa4a7251a68]
+## 10. Zones where the levels are lower than the limit value[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Public information[^key-2422e48b0f68ecdf18368fa4a7251a68]
+## 11. Public information[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Revocation of Air Quality Standards Regulations (NI) 1990[^key-2422e48b0f68ecdf18368fa4a7251a68]
+## 12. Revocation of Air Quality Standards Regulations (NI) 1990[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 **No longer in force.**
 
@@ -159,45 +159,45 @@ Dermot Nesbitt
 
 Minister of the Environment
 
-## SCHEDULE 1 — Limit Values, Margins of Tolerance etc.[^key-2422e48b0f68ecdf18368fa4a7251a68]
+## SCHEDULE 1 — Limit Values, Margins of Tolerance etc.[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 **No longer in force.**
 
 Regulations 3(1), 8(2), 9(1) and (3), 11(4) and (5)
 
-### PART I — SULPHUR DIOXIDE[^key-2422e48b0f68ecdf18368fa4a7251a68]
+### PART I — SULPHUR DIOXIDE[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
-#### 1.1. Limit values for sulphur dioxide[^key-2422e48b0f68ecdf18368fa4a7251a68]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 1.2. Alert threshold for sulphur dioxide[^key-2422e48b0f68ecdf18368fa4a7251a68]
+#### 1.1. Limit values for sulphur dioxide[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 1.3. Minimum details to be made available to the public when the alert threshold for sulphur dioxide is exceeded[^key-2422e48b0f68ecdf18368fa4a7251a68]
+#### 1.2. Alert threshold for sulphur dioxide[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — NITROGEN DIOXIDE (NO<sub>2</sub>) AND OXIDES OF NITROGEN (NO<sub>x</sub>)[^key-2422e48b0f68ecdf18368fa4a7251a68]
-
-#### 2.1. Limit values for nitrogen dioxide and oxides of nitrogen[^key-2422e48b0f68ecdf18368fa4a7251a68]
+#### 1.3. Minimum details to be made available to the public when the alert threshold for sulphur dioxide is exceeded[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2.2. Alert threshold for nitrogen dioxide[^key-2422e48b0f68ecdf18368fa4a7251a68]
+### PART II — NITROGEN DIOXIDE (NO<sub>2</sub>) AND OXIDES OF NITROGEN (NO<sub>x</sub>)[^c-2422e48b0f68ecdf18368fa4a7251a68]
+
+#### 2.1. Limit values for nitrogen dioxide and oxides of nitrogen[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2.3. Minimum details to be made available to the public when the alert threshold for nitrogen dioxide is exceeded[^key-2422e48b0f68ecdf18368fa4a7251a68]
+#### 2.2. Alert threshold for nitrogen dioxide[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — PARTICULATE MATTER (PM<sub>10</sub>)[^key-2422e48b0f68ecdf18368fa4a7251a68]
+#### 2.3. Minimum details to be made available to the public when the alert threshold for nitrogen dioxide is exceeded[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — LEAD[^key-2422e48b0f68ecdf18368fa4a7251a68]
+### PART III — PARTICULATE MATTER (PM<sub>10</sub>)[^c-2422e48b0f68ecdf18368fa4a7251a68]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART IV — LEAD[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -205,7 +205,7 @@ Regulations 3(1), 8(2), 9(1) and (3), 11(4) and (5)
 
 Regulations 5(5) and 6(1)
 
-### PART I — UPPER AND LOWER ASSESSMENT THRESHOLDS[^key-09d9bb39a0a7637c426197414575493f]
+### PART I — UPPER AND LOWER ASSESSMENT THRESHOLDS[^c-09d9bb39a0a7637c426197414575493f]
 
 The following upper and lower assessment thresholds will apply:
 
@@ -239,7 +239,7 @@ The following upper and lower assessment thresholds will apply:
   | Upper assessment threshold | 70% of limit value (0.35 μg/m<sup>3</sup>) |
   | Lower assessment threshold | 50% of limit value (0.25 μg/m<sup>3</sup>) |
 
-### PART II — DETERMINATION OF EXCEEDANCES OF UPPER AND LOWER AND LOWER ASSESSMENT THRESHOLDS[^key-dce687b8e9646bcee82cf51a89391888]
+### PART II — DETERMINATION OF EXCEEDANCES OF UPPER AND LOWER AND LOWER ASSESSMENT THRESHOLDS[^c-dce687b8e9646bcee82cf51a89391888]
 
 Exceedances of upper and lower assessment thresholds must be determined on the basis of concentrations during the previous five years where sufficient data are available. An assessment threshold will be deemed to have been exceeded if it has been exceeded during at least three separate years out of those previous five years.
 
@@ -251,7 +251,7 @@ Regulation 7(3) and (5)
 
 The following considerations will apply to fixed measurement.
 
-### PART I — MACROSCALE SITING[^key-09c7b4f75b63f7f0e6ae8b0926ce748c]
+### PART I — MACROSCALE SITING[^c-09c7b4f75b63f7f0e6ae8b0926ce748c]
 
 Protection of human health
 
@@ -271,7 +271,7 @@ Protection of ecosystems and vegetation
 
   Account should be taken of the need to assess air quality on islands.
 
-### PART II — MICROSCALE SITING[^key-baa62537afe3c61957208dfd8e0923da]
+### PART II — MICROSCALE SITING[^c-baa62537afe3c61957208dfd8e0923da]
 
 The following guidelines should be met as far as practicable:
 
@@ -295,7 +295,7 @@ The following factors may also be taken into account:
 - the desirability of co-locating sampling points for different pollutants;
 - planning requirements.
 
-### PART III — DOCUMENTATION AND REVIEW OF SITE SELECTION[^key-aabd8af8bd3ff08309ccad800d5465e9]
+### PART III — DOCUMENTATION AND REVIEW OF SITE SELECTION[^c-aabd8af8bd3ff08309ccad800d5465e9]
 
 The site-selection procedures should be fully documented at the classification stage by such means as compass-point photographs of the surrounding area and a detailed map. Sites should be reviewed at regular intervals with repeated documentation to ensure that selection criteria remain valid over time.
 
@@ -303,7 +303,7 @@ The site-selection procedures should be fully documented at the classification s
 
 Regulation 7(4)
 
-### PART I — MINIMUM NUMBER OF SAMPLING POINTS FOR FIXED MEASUREMENT TO ASSESS COMPLIANCE WITH LIMIT VALUES FOR THE PROTECTION OF HUMAN HEALTH AND ALERT THRESHOLDS IN ZONES AND AGGLOMERATIONS WHERE FIXED MEASUREMENT IS THE SOLE SOURCE OF INFORMATION[^key-5687f621981074d5abe616eb1726195a]
+### PART I — MINIMUM NUMBER OF SAMPLING POINTS FOR FIXED MEASUREMENT TO ASSESS COMPLIANCE WITH LIMIT VALUES FOR THE PROTECTION OF HUMAN HEALTH AND ALERT THRESHOLDS IN ZONES AND AGGLOMERATIONS WHERE FIXED MEASUREMENT IS THE SOLE SOURCE OF INFORMATION[^c-5687f621981074d5abe616eb1726195a]
 
 Diffuse sources
 
@@ -333,7 +333,7 @@ Point sources
 
 - (b) For the assessment of pollution in the vicinity of point sources, the number of sampling points for fixed measurement should be calculated taking into account emission densities, the likely distribution patterns of ambient-air pollution and the potential exposure of the population.
 
-### PART II — MINIMUM NUMBER OF SAMPLING POINTS FOR FIXED MEASUREMENTS TO ASSESS COMPLIANCE WITH LIMIT VALUES FOR THE PROTECTION OF ECOSYSTEMS OR VEGETATION IN ZONES OTHER THAN AGGLOMERATIONS[^key-3f0a134912913143fad16b405bf6a332]
+### PART II — MINIMUM NUMBER OF SAMPLING POINTS FOR FIXED MEASUREMENTS TO ASSESS COMPLIANCE WITH LIMIT VALUES FOR THE PROTECTION OF ECOSYSTEMS OR VEGETATION IN ZONES OTHER THAN AGGLOMERATIONS[^c-3f0a134912913143fad16b405bf6a332]
 
 <table>
 <thead>
@@ -351,7 +351,7 @@ Point sources
 
 Regulation 7(5) and (8)
 
-### PART I — DATA-QUALITY OBJECTIVES[^key-9ebd9805cb1b23cf8270e21e239a2f67]
+### PART I — DATA-QUALITY OBJECTIVES[^c-9ebd9805cb1b23cf8270e21e239a2f67]
 
 The following data-quality objectives for the required accuracy of assessment methods, of minimum time coverage and of data capture of measurement are laid down to guide quality-assurance programmes.
 
@@ -379,7 +379,7 @@ The requirements for minimum data capture and time coverage do not include losse
 
 The Department may allow for random measurements to be made instead of continuous measurements for particulate matter and lead by methods for which accuracy within the 95% confidence interval with respect to continuous monitoring has been demonstrated to be within 10%. Random sampling must be spread evenly over the year.
 
-### PART II — RESULTS OF AIR QUALITY ASSESSMENT[^key-f68cadf1e252f210e11bd510dca1ce7e]
+### PART II — RESULTS OF AIR QUALITY ASSESSMENT[^c-f68cadf1e252f210e11bd510dca1ce7e]
 
 The following information should be compiled for zones or agglomerations within which sources other than measurement are employed to supplement information from measurement or as the sole means of air quality assessment:
 
@@ -391,19 +391,19 @@ The following information should be compiled for zones or agglomerations within 
 
 Where possible maps shall be compiled showing concentration distributions within each zone and agglomeration.
 
-## SCHEDULE 6 — Reference Methods for Assessment of Concentrations of Sulphur Dioxide, Nitrogen Dioxide and Oxides of Nitrogen, Particulate Matter (PM<sub>10</sub> and PM<sub>2·5</sub>) and Lead.[^key-f35c95c265816d3eb4718536395619e5]
+## SCHEDULE 6 — Reference Methods for Assessment of Concentrations of Sulphur Dioxide, Nitrogen Dioxide and Oxides of Nitrogen, Particulate Matter (PM<sub>10</sub> and PM<sub>2·5</sub>) and Lead.[^c-f35c95c265816d3eb4718536395619e5]
 
 Regulation 7(6)
 
-### PART I — REFERENCE METHOD FOR THE ANALYSIS OF SULPHUR DIOXIDE[^key-f3d2ca8611ecb86ef9943797338b0406][^key-f35c95c265816d3eb4718536395619e5]
+### PART I — REFERENCE METHOD FOR THE ANALYSIS OF SULPHUR DIOXIDE[^c-f3d2ca8611ecb86ef9943797338b0406][^c-f35c95c265816d3eb4718536395619e5]
 
 ISO/FDIS 10498 (Standard in draft) Ambient air—determination of sulphur dioxide—ultraviolet fluorescence method[^f00009].
 
-### PART II — REFERENCE METHOD FOR THE ANALYSIS OF NITROGEN DIOXIDE AND OXIDES OF NITROGEN[^key-36a7fc0fe6dbe8e320ba02ad4dcab1b8][^key-f35c95c265816d3eb4718536395619e5]
+### PART II — REFERENCE METHOD FOR THE ANALYSIS OF NITROGEN DIOXIDE AND OXIDES OF NITROGEN[^c-36a7fc0fe6dbe8e320ba02ad4dcab1b8][^c-f35c95c265816d3eb4718536395619e5]
 
 ISO 7996: 1985 Ambient air—determination of the mass concentrations of nitrogen oxides—chemiluminescence method[^f00010].
 
-### PART IIIA — REFERENCE METHOD FOR THE SAMPLING OF LEAD[^key-f35c95c265816d3eb4718536395619e5]
+### PART IIIA — REFERENCE METHOD FOR THE SAMPLING OF LEAD[^c-f35c95c265816d3eb4718536395619e5]
 
 The reference method for the sampling of lead will be that described in the Annex to Directive [82/884/EEC](https://www.legislation.gov.uk/european/directive/1982/0884)[^f00011] until such time as the limit value in Schedule 1 to these Regulations is to be met, when the reference method will be that for PM<sub>10</sub> specified in Part IV of this Schedule.
 
@@ -411,7 +411,7 @@ The reference method for the sampling of lead will be that described in the Anne
 
 ISO 9855: 1993 Ambient air—Determination of the particulate lead content of aerosols collected in filters. Atomic absorption spectroscopy method[^f00012].
 
-### PART IV — REFERENCE METHOD FOR THE SAMPLING AND MEASUREMENT OF PM<sub>10</sub>[^key-18a649b5be0cb08a2705054b69252234][^key-f35c95c265816d3eb4718536395619e5]
+### PART IV — REFERENCE METHOD FOR THE SAMPLING AND MEASUREMENT OF PM<sub>10</sub>[^c-18a649b5be0cb08a2705054b69252234][^c-f35c95c265816d3eb4718536395619e5]
 
 The reference method for the sampling and measurement of PM<sub>10</sub> will be that described in EN 12341 “Air Quality—Field Test Procedure to Demonstrate Reference Equivalence of Sampling Methods for the PM<sub>10</sub> fraction of particulate matter”[^f00013]. The measurement principle is based on the collection on a filter of the PM<sub>10</sub> fraction of ambient particulate matter and the gravimetric mass determination.
 
@@ -419,43 +419,43 @@ The reference method for the sampling and measurement of PM<sub>10</sub> will be
 
 Regulation 9(4)
 
-### ...[^key-2422e48b0f68ecdf18368fa4a7251a68][^key-2422e48b0f68ecdf18368fa4a7251a68]
+### ...[^c-2422e48b0f68ecdf18368fa4a7251a68][^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2422e48b0f68ecdf18368fa4a7251a68][^key-b5f9d8153cff040796c9bae883c17b0b]
+[^c-2422e48b0f68ecdf18368fa4a7251a68][^c-b5f9d8153cff040796c9bae883c17b0b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2422e48b0f68ecdf18368fa4a7251a68][^key-63db1f9961dd03ad0fe51abcccc49c7d]
+[^c-2422e48b0f68ecdf18368fa4a7251a68][^c-63db1f9961dd03ad0fe51abcccc49c7d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2422e48b0f68ecdf18368fa4a7251a68]
+[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2422e48b0f68ecdf18368fa4a7251a68]
+[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2422e48b0f68ecdf18368fa4a7251a68]
+[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2422e48b0f68ecdf18368fa4a7251a68]
+[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2422e48b0f68ecdf18368fa4a7251a68]
+[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2422e48b0f68ecdf18368fa4a7251a68]
+[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2422e48b0f68ecdf18368fa4a7251a68]
+[^c-2422e48b0f68ecdf18368fa4a7251a68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -489,47 +489,47 @@ Regulation 12 revokes for Northern Ireland and at different dates parts of the A
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-2422e48b0f68ecdf18368fa4a7251a68]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/94) revoked (except regs. 5(1), 6, 7) (28.5.2007) by [The Air Quality Standards Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/265)](https://www.legislation.gov.uk/nisr/2007/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/265/regulation/1/1), [30(1)(a)](https://www.legislation.gov.uk/nisr/2007/265/regulation/30/1/a) (with [reg. 30(1)(a)](https://www.legislation.gov.uk/nisr/2007/265/regulation/30/1/a))
+[^c-2422e48b0f68ecdf18368fa4a7251a68]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/94) revoked (except regs. 5(1), 6, 7) (28.5.2007) by [The Air Quality Standards Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/265)](https://www.legislation.gov.uk/nisr/2007/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/265/regulation/1/1), [30(1)(a)](https://www.legislation.gov.uk/nisr/2007/265/regulation/30/1/a) (with [reg. 30(1)(a)](https://www.legislation.gov.uk/nisr/2007/265/regulation/30/1/a))
 
-[^key-226befa3f1668e8076fff5c0cc676c77]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/94/regulation/5) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-226befa3f1668e8076fff5c0cc676c77]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/94/regulation/5) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
-[^key-a49d817527f919b265e7601fdf45e6ff]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2002/94/regulation/6) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-a49d817527f919b265e7601fdf45e6ff]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2002/94/regulation/6) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
-[^key-2787803ba5a17c153daf4ac2f750dd3d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/94/regulation/7) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-2787803ba5a17c153daf4ac2f750dd3d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/94/regulation/7) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
-[^key-353ff556bb7abd66889582d0dd565732]: Textual amendment: Words in [reg. 7(6)](https://www.legislation.gov.uk/nisr/2002/94/regulation/7/6) inserted (7.1.2005) by [The Air Quality Limit Values (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/514)](https://www.legislation.gov.uk/nisr/2004/514), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/514/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2004/514/regulation/4)
+[^c-353ff556bb7abd66889582d0dd565732]: Textual amendment: Words in [reg. 7(6)](https://www.legislation.gov.uk/nisr/2002/94/regulation/7/6) inserted (7.1.2005) by [The Air Quality Limit Values (Amendment) Regulations (Northern Ireland) 2004 (S.R. 2004/514)](https://www.legislation.gov.uk/nisr/2004/514), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/514/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2004/514/regulation/4)
 
-[^key-09d9bb39a0a7637c426197414575493f]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/nisr/2002/94/schedule/2/part/I) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-09d9bb39a0a7637c426197414575493f]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/nisr/2002/94/schedule/2/part/I) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
 [^f00006]: Footnote: The upper and lower assessment thresholds for PM<sub>10</sub> are based on the following indicative limit values for 1 January 2010, which will be reviewed in the light of further information on health and environmental effects, technical feasibility and experience in the application of the existing “Stage 1” limit values
 
-[^key-dce687b8e9646bcee82cf51a89391888]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/2002/94/schedule/2/part/II) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-dce687b8e9646bcee82cf51a89391888]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/2002/94/schedule/2/part/II) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
-[^key-09c7b4f75b63f7f0e6ae8b0926ce748c]: Commencement: [Sch. 3 Pt. I](https://www.legislation.gov.uk/nisr/2002/94/schedule/3/part/I) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-09c7b4f75b63f7f0e6ae8b0926ce748c]: Commencement: [Sch. 3 Pt. I](https://www.legislation.gov.uk/nisr/2002/94/schedule/3/part/I) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
-[^key-baa62537afe3c61957208dfd8e0923da]: Commencement: [Sch. 3 Pt. II](https://www.legislation.gov.uk/nisr/2002/94/schedule/3/part/II) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-baa62537afe3c61957208dfd8e0923da]: Commencement: [Sch. 3 Pt. II](https://www.legislation.gov.uk/nisr/2002/94/schedule/3/part/II) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
-[^key-aabd8af8bd3ff08309ccad800d5465e9]: Commencement: [Sch. 3 Pt. III](https://www.legislation.gov.uk/nisr/2002/94/schedule/3/part/III) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-aabd8af8bd3ff08309ccad800d5465e9]: Commencement: [Sch. 3 Pt. III](https://www.legislation.gov.uk/nisr/2002/94/schedule/3/part/III) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
-[^key-5687f621981074d5abe616eb1726195a]: Commencement: [Sch. 4 Pt. I](https://www.legislation.gov.uk/nisr/2002/94/schedule/4/part/I) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-5687f621981074d5abe616eb1726195a]: Commencement: [Sch. 4 Pt. I](https://www.legislation.gov.uk/nisr/2002/94/schedule/4/part/I) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
-[^key-3f0a134912913143fad16b405bf6a332]: Commencement: [Sch. 4 Pt. II](https://www.legislation.gov.uk/nisr/2002/94/schedule/4/part/II) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-3f0a134912913143fad16b405bf6a332]: Commencement: [Sch. 4 Pt. II](https://www.legislation.gov.uk/nisr/2002/94/schedule/4/part/II) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
-[^key-9ebd9805cb1b23cf8270e21e239a2f67]: Commencement: [Sch. 5 Pt. I](https://www.legislation.gov.uk/nisr/2002/94/schedule/5/part/I) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-9ebd9805cb1b23cf8270e21e239a2f67]: Commencement: [Sch. 5 Pt. I](https://www.legislation.gov.uk/nisr/2002/94/schedule/5/part/I) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
 [^f00007]: Footnote: Copies of these International Standards Organisation publications can be purchased from the British Standards Institution “BSI” sales department either by telephone on 020-8996-9001 or by post from the BSI, Standards House, 389 Chiswick High Road, London W4 4AL
 
 [^f00008]: Footnote: Copies of these International Standards Organisation publications can be purchased from the British Standards Institution “BSI” sales department either by telephone on 020-8996-9001 or by post from the BSI, Standards House, 389 Chiswick High Road, London W4 4AL
 
-[^key-f68cadf1e252f210e11bd510dca1ce7e]: Commencement: [Sch. 5 Pt. II](https://www.legislation.gov.uk/nisr/2002/94/schedule/5/part/II) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-f68cadf1e252f210e11bd510dca1ce7e]: Commencement: [Sch. 5 Pt. II](https://www.legislation.gov.uk/nisr/2002/94/schedule/5/part/II) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
-[^key-f35c95c265816d3eb4718536395619e5]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2002/94/schedule/6) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-f35c95c265816d3eb4718536395619e5]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2002/94/schedule/6) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
-[^key-f3d2ca8611ecb86ef9943797338b0406]: Commencement: [Sch. 6 Pt. I](https://www.legislation.gov.uk/nisr/2002/94/schedule/6/part/I) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-f3d2ca8611ecb86ef9943797338b0406]: Commencement: [Sch. 6 Pt. I](https://www.legislation.gov.uk/nisr/2002/94/schedule/6/part/I) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
 [^f00009]: Footnote: Copies of these International Standards Organisation publications can be purchased from the British Standards Institution “BSI” sales department either by telephone on 020-8996-9001 or by post from the BSI, Standards House, 389 Chiswick High Road, London W4 4AL.
 
-[^key-36a7fc0fe6dbe8e320ba02ad4dcab1b8]: Commencement: [Sch. 6 Pt. II](https://www.legislation.gov.uk/nisr/2002/94/schedule/6/part/II) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-36a7fc0fe6dbe8e320ba02ad4dcab1b8]: Commencement: [Sch. 6 Pt. II](https://www.legislation.gov.uk/nisr/2002/94/schedule/6/part/II) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
 [^f00010]: Footnote: Copies of these International Standards Organisation publications can be purchased from the British Standards Institution “BSI” sales department either by telephone on 020-8996-9001 or by post from the BSI, Standards House, 389 Chiswick High Road, London W4 4AL.
 
@@ -537,10 +537,10 @@ Regulation 12 revokes for Northern Ireland and at different dates parts of the A
 
 [^f00012]: Footnote: O.J. L378, 31.12.1982, p. 15
 
-[^key-18a649b5be0cb08a2705054b69252234]: Commencement: [Sch. 6 Pt. IV](https://www.legislation.gov.uk/nisr/2002/94/schedule/6/part/IV) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-18a649b5be0cb08a2705054b69252234]: Commencement: [Sch. 6 Pt. IV](https://www.legislation.gov.uk/nisr/2002/94/schedule/6/part/IV) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
 [^f00013]: Footnote: European Standards Institute “CEN” publication reference BSEN 12341, obtainable from the British Standards Institute “BSI” as for footnote above
 
-[^key-b5f9d8153cff040796c9bae883c17b0b]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/nisr/2002/94/schedule/7/paragraph/2) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-b5f9d8153cff040796c9bae883c17b0b]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/nisr/2002/94/schedule/7/paragraph/2) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
 
-[^key-63db1f9961dd03ad0fe51abcccc49c7d]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/nisr/2002/94/schedule/7/paragraph/3) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)
+[^c-63db1f9961dd03ad0fe51abcccc49c7d]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/nisr/2002/94/schedule/7/paragraph/3) in operation at 1.5.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/94/regulation/1)

@@ -35,7 +35,7 @@ An Act to make provision for requiring, in certain cases where interest on a loa
 
 [^c8591431]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Payment out of benefit of sums in respect of mortgage interest etc.[^key-4bc58dce33f0bf3f902568dea3e4c941]
+## 1. Payment out of benefit of sums in respect of mortgage interest etc.[^c-4bc58dce33f0bf3f902568dea3e4c941]
 
 *Extent: E+W+S*
 
@@ -78,7 +78,7 @@ shall be subject to annulment in pursuance of a resolution of either House of Pa
 
 Section 1(2).
 
-[^key-9140bf5d12b806bafe0a30a8dc49530d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9140bf5d12b806bafe0a30a8dc49530d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -86,10 +86,10 @@ Section 1(2).
 
 [^c8591431]: Extent: Act extends to Great Britain but for exceptions to this see [s. 2(8)](https://www.legislation.gov.uk/ukpga/1992/33/section/2/8)
 
-[^key-4bc58dce33f0bf3f902568dea3e4c941]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1992/33/section/1) repealed (6.4.2018) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 20(11)(a)(i)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/11/a/i), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2018/438](https://www.legislation.gov.uk/uksi/2018/438), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/3))
+[^c-4bc58dce33f0bf3f902568dea3e4c941]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1992/33/section/1) repealed (6.4.2018) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 20(11)(a)(i)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/11/a/i), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2018/438](https://www.legislation.gov.uk/uksi/2018/438), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/3))
 
 [^c8591461]: Marginal citation: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14).
 
 [^c8591471]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).
 
-[^key-9140bf5d12b806bafe0a30a8dc49530d]: Textual amendment: Sch. repealed (6.4.2018) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 20(11)(a)(ii)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/11/a/ii), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2018/438](https://www.legislation.gov.uk/uksi/2018/438), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/3))
+[^c-9140bf5d12b806bafe0a30a8dc49530d]: Textual amendment: Sch. repealed (6.4.2018) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 20(11)(a)(ii)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/11/a/ii), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2018/438](https://www.legislation.gov.uk/uksi/2018/438), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/3))

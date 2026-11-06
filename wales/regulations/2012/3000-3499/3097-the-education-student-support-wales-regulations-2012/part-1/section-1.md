@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title, commencement and application (affected by repeal, see note)[^key-03e438064e992cb91adefe6dd95b9eaf][^key-640cffab865051583171c3072f59bd51][^key-640cffab865051583171c3072f59bd51]
+## 1. Title, commencement and application (affected by repeal, see note)[^c-03e438064e992cb91adefe6dd95b9eaf][^c-640cffab865051583171c3072f59bd51][^c-640cffab865051583171c3072f59bd51]
 
 *Extent: E+W*
 
-(1) The title of these Regulations is the Education (Student Support) (Wales) Regulations 2012. *(affected by repeal, see note)*[^key-640cffab865051583171c3072f59bd51]
+(1) The title of these Regulations is the Education (Student Support) (Wales) Regulations 2012. *(affected by repeal, see note)*[^c-640cffab865051583171c3072f59bd51]
 
-(2) These Regulations come into force on 4 January 2013 and apply in relation to Wales. *(affected by repeal, see note)*[^key-640cffab865051583171c3072f59bd51]
+(2) These Regulations come into force on 4 January 2013 and apply in relation to Wales. *(affected by repeal, see note)*[^c-640cffab865051583171c3072f59bd51]
 
 ## Annotations
 
-[^key-03e438064e992cb91adefe6dd95b9eaf]: Commencement: Reg. 1 in force at 4.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/3097/regulation/1/2)
+[^c-03e438064e992cb91adefe6dd95b9eaf]: Commencement: Reg. 1 in force at 4.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/3097/regulation/1/2)
 
-[^key-640cffab865051583171c3072f59bd51]: Textual amendment: Regulations revoked (1.9.2014) by [The Education (Student Support) (Wales) Regulations 2013 (S.I. 2013/3177)](https://www.legislation.gov.uk/uksi/2013/3177), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/1) (with savings in [reg. 3(2)-(18)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/2))
+[^c-640cffab865051583171c3072f59bd51]: Textual amendment: Regulations revoked (1.9.2014) by [The Education (Student Support) (Wales) Regulations 2013 (S.I. 2013/3177)](https://www.legislation.gov.uk/uksi/2013/3177), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/1) (with savings in [reg. 3(2)-(18)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/2))

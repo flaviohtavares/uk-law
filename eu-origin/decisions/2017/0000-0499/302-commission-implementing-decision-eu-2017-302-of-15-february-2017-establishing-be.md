@@ -64,7 +64,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** The best available techniques (BAT) conclusions for the intensive rearing of poultry or pigs, as set out in the Annex, are adopted.
 
-## Article 2. Application and Interpretation[^key-d43d6e1557aaa1b3f3a1175bf584f6d1]
+## Article 2. Application and Interpretation[^c-d43d6e1557aaa1b3f3a1175bf584f6d1]
 
 1. The BAT conclusions referred to in Article 1 apply in the United Kingdom.
 
@@ -1393,7 +1393,7 @@ Techniques for reducing ammonia emissions from turkey houses
 
 [^f00002]: Footnote: [OJ C 146, 17.5.2011, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2011.146.01.0003.01.ENG).
 
-[^key-d43d6e1557aaa1b3f3a1175bf584f6d1]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/19/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d43d6e1557aaa1b3f3a1175bf584f6d1]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/19/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: Council Directive 91/676/EEC of 12 December 1991 concerning the protection of waters against pollution caused by nitrates from agricultural sources ([OJ L 375, 31.12.1991, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.375.01.0001.01.ENG)).
 

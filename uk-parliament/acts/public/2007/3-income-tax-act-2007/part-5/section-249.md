@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subsection (2) applies if, in the case of any new shares held by an individual to which EIS relief becomes attributable under section 247, the old shares for which they were exchanged were subscribed for by and issued to the individual.
 
-(2) This Part; (except section 195(7))[^key-6af33e13fc0d4d6521eb89599afa84f8] has effect as if—
+(2) This Part; (except section 195(7))[^c-6af33e13fc0d4d6521eb89599afa84f8] has effect as if—
 
 - (a) the new shares had been subscribed for by the individual at the time when, and for the amount for which, the old shares were subscribed for by the individual,
 - (b) the new shares had been issued to the individual by the new company at the time when the old shares were issued to the individual by the old company,
@@ -31,7 +31,7 @@ summary: ''
 
 (3) Subsection (4) applies if, in the case of any new shares held by an individual to which EIS relief becomes so attributable under section 247, the old shares for which they were exchanged were transferred to the individual as mentioned in section 245.
 
-(4) This Part; (except section 195(7))[^key-30b8a8a4bab69cde69fa3f9cfad0e710] has effect in relation to any subsequent disposal or other event as if—
+(4) This Part; (except section 195(7))[^c-30b8a8a4bab69cde69fa3f9cfad0e710] has effect in relation to any subsequent disposal or other event as if—
 
 - (a) the new shares had been subscribed for by the individual at the time when, and for the amount for which, the old shares were subscribed for,
 - (b) the new shares had been issued by the new company at the time when the old shares were issued by the old company,
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6af33e13fc0d4d6521eb89599afa84f8]: Textual amendment: Words in s. 249(2) inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 11(8)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/11/8/a), [13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/13)
+[^c-6af33e13fc0d4d6521eb89599afa84f8]: Textual amendment: Words in s. 249(2) inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 11(8)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/11/8/a), [13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/13)
 
-[^key-30b8a8a4bab69cde69fa3f9cfad0e710]: Textual amendment: Words in s. 249(4) inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 11(8)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/11/8/b), [13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/13)
+[^c-30b8a8a4bab69cde69fa3f9cfad0e710]: Textual amendment: Words in s. 249(4) inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 11(8)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/11/8/b), [13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/13)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Additional arrangements approved by the schools forum or the Secretary of State[^key-4cd2f6f3fd8b7719d4e33417328b880d]
+## 25. Additional arrangements approved by the schools forum or the Secretary of State[^c-4cd2f6f3fd8b7719d4e33417328b880d]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ their schools forum may authorise such determinations or redeterminations.
 
 ## Annotations
 
-[^key-4cd2f6f3fd8b7719d4e33417328b880d]: Commencement: Reg. 25 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-4cd2f6f3fd8b7719d4e33417328b880d]: Commencement: Reg. 25 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

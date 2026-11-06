@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42B. Review[^key-0a911ffc1ca25c16564356831e9601b0]
+## 42B. Review[^c-0a911ffc1ca25c16564356831e9601b0]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a911ffc1ca25c16564356831e9601b0]: Textual amendment: [Reg. 42B](https://www.legislation.gov.uk/uksi/1988/1478/regulation/42B) substituted (20.5.2018) by [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [12](https://www.legislation.gov.uk/uksi/2017/849/regulation/12)
+[^c-0a911ffc1ca25c16564356831e9601b0]: Textual amendment: [Reg. 42B](https://www.legislation.gov.uk/uksi/1988/1478/regulation/42B) substituted (20.5.2018) by [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [12](https://www.legislation.gov.uk/uksi/2017/849/regulation/12)

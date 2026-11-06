@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. Provision that may be included in individual insolvency rules[^key-a933229ae610300811d9a0bcc2a22c0f]
+## 87. Provision that may be included in individual insolvency rules[^c-a933229ae610300811d9a0bcc2a22c0f]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a933229ae610300811d9a0bcc2a22c0f]: Commencement: S. 87 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-a933229ae610300811d9a0bcc2a22c0f]: Commencement: S. 87 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 132. Independent advocacy services[^key-86c55adf4793ced07d46b0ed567f8742]
+## 132. Independent advocacy services[^c-86c55adf4793ced07d46b0ed567f8742]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ After Article 45 of the Children Order (reviews and representations) insert—
 
 ## Annotations
 
-[^key-86c55adf4793ced07d46b0ed567f8742]: Commencement: S. 132 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-86c55adf4793ced07d46b0ed567f8742]: Commencement: S. 132 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

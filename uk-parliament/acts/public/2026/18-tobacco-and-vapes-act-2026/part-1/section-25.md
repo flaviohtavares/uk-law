@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Restricted premises orders: appeals[^key-da876229c15ef932b1ee002eba462030]
+## 25. Restricted premises orders: appeals[^c-da876229c15ef932b1ee002eba462030]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An appeal against an order made under section 23 or 24 may be brought to the Cro
 
 ## Annotations
 
-[^key-da876229c15ef932b1ee002eba462030]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2026/18/section/25) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-da876229c15ef932b1ee002eba462030]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2026/18/section/25) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

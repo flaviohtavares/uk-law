@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Requests to supply and exemptions from duty[^key-82747427db3533af4c818b31989cd3df]
+## 44. Requests to supply and exemptions from duty[^c-82747427db3533af4c818b31989cd3df]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ in so far as that information has not already been given to the person by the pu
 
 ## Annotations
 
-[^key-82747427db3533af4c818b31989cd3df]: Commencement: Reg. 44 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-82747427db3533af4c818b31989cd3df]: Commencement: Reg. 44 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)

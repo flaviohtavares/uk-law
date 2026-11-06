@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Phasing out of industrial buildings allowance: anti-avoidance[^key-02f4bc25253ccc04d8af079fe2c1bd45]
+## 87. Phasing out of industrial buildings allowance: anti-avoidance[^c-02f4bc25253ccc04d8af079fe2c1bd45]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02f4bc25253ccc04d8af079fe2c1bd45]: Textual amendment: [S. 87](https://www.legislation.gov.uk/ukpga/2008/9/section/87) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 29(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/29/c)
+[^c-02f4bc25253ccc04d8af079fe2c1bd45]: Textual amendment: [S. 87](https://www.legislation.gov.uk/ukpga/2008/9/section/87) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 29(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/29/c)

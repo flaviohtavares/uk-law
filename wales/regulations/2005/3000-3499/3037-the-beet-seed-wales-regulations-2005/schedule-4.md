@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — CONDITIONS TO BE SATISFIED BY THE SEED[^key-a733380141fde135b177f4b27a64298c]
+## SCHEDULE 4 — CONDITIONS TO BE SATISFIED BY THE SEED[^c-a733380141fde135b177f4b27a64298c]
 
 *Extent: E+W*
 
@@ -24,38 +24,38 @@ summary: ''
 
 Regulations 2(1), 7(8) to (12), (13)(b), (15)(c) and (18)(b), 9(3), (4)(c) and (5), 10(5), (6) to (13),(15)(a), 12(3) and 12(4)(f) to (h), 13(1)(b) and (c), paragraphs 2(3)(a), 5(3)(a), 9(3)(a), 13(3)(a), 15(3)(a), 16(2), 19(3)(a), 23(3)(a), 27(3)(a) and 30(2)(a) and (b) of Schedule 1 and paragraphs 9(1) and (2) and 10 of Schedule 3
 
-### PART I — Conditions to be examined mainly by field inspections[^key-a733380141fde135b177f4b27a64298c]
+### PART I — Conditions to be examined mainly by field inspections[^c-a733380141fde135b177f4b27a64298c]
 
-**1.**[^key-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — Conditions to be examined by seed testing[^key-a733380141fde135b177f4b27a64298c]
+### PART II — Conditions to be examined by seed testing[^c-a733380141fde135b177f4b27a64298c]
 
-**2.**[^key-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — Other conditions[^key-a733380141fde135b177f4b27a64298c]
+### PART III — Other conditions[^c-a733380141fde135b177f4b27a64298c]
 
-**11.**[^key-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — General provisions[^key-a733380141fde135b177f4b27a64298c]
+### PART IV — General provisions[^c-a733380141fde135b177f4b27a64298c]
 
-**12.**[^key-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-a733380141fde135b177f4b27a64298c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a733380141fde135b177f4b27a64298c]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(d)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/d) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))
+[^c-a733380141fde135b177f4b27a64298c]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2012/245/regulation/1), [34(d)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/d) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))

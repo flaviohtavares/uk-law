@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Sustainability appraisal[^key-bcfe789610a00d4406bb89fe567cb43a]
+## 22. Sustainability appraisal[^c-bcfe789610a00d4406bb89fe567cb43a]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcfe789610a00d4406bb89fe567cb43a]: Commencement: S. 22 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-bcfe789610a00d4406bb89fe567cb43a]: Commencement: S. 22 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

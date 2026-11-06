@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. Compensation[^key-252e317e6352193ec767ee0d3d27de2e]
+## 194. Compensation[^c-252e317e6352193ec767ee0d3d27de2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,13 +44,13 @@ summary: ''
 
 (9) The amount of compensation to be paid under this article is the amount the court thinks reasonable, having regard to the loss suffered and any other relevant circumstances.
 
-(10)[^key-c004c1a80d80d90c87c06be266c196de] In the case of an enforcement authority in relation to England and Wales or Northern Ireland—
+(10)[^c-c004c1a80d80d90c87c06be266c196de] In the case of an enforcement authority in relation to England and Wales or Northern Ireland—
 
 - (a) the reference in paragraph (5) to the enforcement authority is a reference to the enforcement authority which obtained the property freezing order or interim receiving order concerned, and
 - (b) the reference in paragraph (8) to the enforcement authority is a reference to the enforcement authority which obtained the recovery order concerned.
 
 ## Annotations
 
-[^key-252e317e6352193ec767ee0d3d27de2e]: Commencement: [Art. 194](https://www.legislation.gov.uk/uksi/2005/3181/article/194) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-252e317e6352193ec767ee0d3d27de2e]: Commencement: [Art. 194](https://www.legislation.gov.uk/uksi/2005/3181/article/194) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-c004c1a80d80d90c87c06be266c196de]: Textual amendment: [Art. 194(10)](https://www.legislation.gov.uk/uksi/2005/3181/article/194/10) inserted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(40)](https://www.legislation.gov.uk/uksi/2008/302/article/2/40)
+[^c-c004c1a80d80d90c87c06be266c196de]: Textual amendment: [Art. 194(10)](https://www.legislation.gov.uk/uksi/2005/3181/article/194/10) inserted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(40)](https://www.legislation.gov.uk/uksi/2008/302/article/2/40)

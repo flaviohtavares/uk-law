@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.7. Discharge where warrant withdrawn[^key-4b7b2db0ccaba0d1d4bff3593d40ba13]
+## 50.7. Discharge where warrant withdrawn[^c-4b7b2db0ccaba0d1d4bff3593d40ba13]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b7b2db0ccaba0d1d4bff3593d40ba13]: Commencement: [Rule 50.7](https://www.legislation.gov.uk/uksi/2025/909/rule/50.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-4b7b2db0ccaba0d1d4bff3593d40ba13]: Commencement: [Rule 50.7](https://www.legislation.gov.uk/uksi/2025/909/rule/50.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

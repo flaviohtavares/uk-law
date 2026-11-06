@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Cancellation and variation of references under section 22 or 33[^key-a1ca3fb6bab80dc78ce3a2acc2f2da29]
+## 37. Cancellation and variation of references under section 22 or 33[^c-a1ca3fb6bab80dc78ce3a2acc2f2da29]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,24 +35,24 @@ summary: ''
 
 and the undertaking or order concerned may be varied, superseded, released or revoked accordingly.
 
-(6) The CMA[^key-57f9836dc46b8b4b01ff74cb5b12ab73] may at any time vary a reference under section 22 or 33.
+(6) The CMA[^c-57f9836dc46b8b4b01ff74cb5b12ab73] may at any time vary a reference under section 22 or 33.
 
-(7)[^key-f05c3bbf4148e4e8c98695f57bcac858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f05c3bbf4148e4e8c98695f57bcac858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-f05c3bbf4148e4e8c98695f57bcac858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-f05c3bbf4148e4e8c98695f57bcac858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9) No variation by the CMA[^key-b0749224df10383b630ad2fa95b5db14] under this section shall be capable of altering the period permitted by section 39 within which the report of the CMA[^key-d2e5051cf11959f3d836d1e515340481] under section 38 is to be prepared and published.
+(9) No variation by the CMA[^c-b0749224df10383b630ad2fa95b5db14] under this section shall be capable of altering the period permitted by section 39 within which the report of the CMA[^c-d2e5051cf11959f3d836d1e515340481] under section 38 is to be prepared and published.
 
 ## Annotations
 
-[^key-a1ca3fb6bab80dc78ce3a2acc2f2da29]: Modification: Pt. 3 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/56); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a1ca3fb6bab80dc78ce3a2acc2f2da29]: Modification: Pt. 3 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/56); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^M_F_002cfc54-974e-48d1-ab85-4cc56923393d]: Textual amendment: Word in s. 37(1)-(4) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/26/3), [Sch. 5 para. 77(2)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/77/2) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)), [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d)
 
-[^key-57f9836dc46b8b4b01ff74cb5b12ab73]: Textual amendment: Word in s. 37(6) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 77(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/77/3) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-57f9836dc46b8b4b01ff74cb5b12ab73]: Textual amendment: Word in s. 37(6) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 77(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/77/3) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-f05c3bbf4148e4e8c98695f57bcac858]: Textual amendment: S. 37(7)(8) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 77(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/77/4) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-f05c3bbf4148e4e8c98695f57bcac858]: Textual amendment: S. 37(7)(8) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 77(4)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/77/4) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-b0749224df10383b630ad2fa95b5db14]: Textual amendment: Word in s. 37(9) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 77(5)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/77/5/a) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-b0749224df10383b630ad2fa95b5db14]: Textual amendment: Word in s. 37(9) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 77(5)(a)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/77/5/a) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-d2e5051cf11959f3d836d1e515340481]: Textual amendment: Word in s. 37(9) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 77(5)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/77/5/b) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-d2e5051cf11959f3d836d1e515340481]: Textual amendment: Word in s. 37(9) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 77(5)(b)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/77/5/b) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

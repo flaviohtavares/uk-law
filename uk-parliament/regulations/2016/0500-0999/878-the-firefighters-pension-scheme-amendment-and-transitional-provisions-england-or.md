@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 26(1), (2) and (5) of the Fire Services Act 1947[^f00001] and section 12 of the Superannuation Act 1972[^f00002], as applied by section 16(3) of that Act.
 
-## 1. Citation, application and commencement[^key-4e0885e77820ec6b3931933b8bf46bfb]
+## 1. Citation, application and commencement[^c-4e0885e77820ec6b3931933b8bf46bfb]
 
 (1) This Order may be cited as the Firefighters’ Pension Scheme (Amendment and Transitional Provisions) (England) Order 2016.
 
@@ -56,7 +56,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (3) This Order comes into force on 30th September 2016 but article 2(2) has effect from 1st December 2006.
 
-## 2. Amendment of the Firemen’s Pension Scheme Order 1992[^key-d349f7ce08c74d919ffebae8755bd9df]
+## 2. Amendment of the Firemen’s Pension Scheme Order 1992[^c-d349f7ce08c74d919ffebae8755bd9df]
 
 (1) Schedule 2 to the Firemen’s Pension Scheme Order 1992[^f00004] is amended as follows.
 
@@ -77,7 +77,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 .
 
-## 3. Transitional provision[^key-086dc1d43965d2a3a8262907b10a7720]
+## 3. Transitional provision[^c-086dc1d43965d2a3a8262907b10a7720]
 
 (1) A fire and rescue authority must pay the required amount as described in paragraph (3) to a firefighter who falls within paragraph (2).
 
@@ -89,7 +89,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 Where—
 
-- A is the total value of each contribution (not including any contribution in relation to an additional pension benefit),[^key-df8774e5ff4fd4d2cf5125d1cd8d0500] paid net of any tax that would have been payable by the firefighter had the contribution not been paid;
+- A is the total value of each contribution (not including any contribution in relation to an additional pension benefit),[^c-df8774e5ff4fd4d2cf5125d1cd8d0500] paid net of any tax that would have been payable by the firefighter had the contribution not been paid;
 - B is the interest calculated on A in accordance with paragraph (4); and
 - C is 100/60.
 
@@ -136,11 +136,11 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11); section 12 was amended by section 10 of the Pensions (Miscellaneous Provisions) Act [1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7). Section 16 was repealed by section 54 of, and Schedule 2 to, the Fire and Rescue Services Act 2004 but continues to have effect, in relation to England and Scotland, for the purposes of the scheme set out in the Firemen’s Pension Scheme Order 1992 by virtue of article 3 of [S.I. 2004/2306](https://www.legislation.gov.uk/uksi/2004/2306).
 
-[^key-4e0885e77820ec6b3931933b8bf46bfb]: Commencement: Art. 1 in force at 30.9.2016, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/878/article/1/3)
+[^c-4e0885e77820ec6b3931933b8bf46bfb]: Commencement: Art. 1 in force at 30.9.2016, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/878/article/1/3)
 
 [^f00003]: Footnote: The Secretary of State’s functions under section 26 of the Fire Services Act 1947, in so far as they were exercisable in relation to Scotland, were devolved to Scottish Ministers by section 63 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46) and article 2 of, and Schedule 1 to, [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750). The Secretary of State’s functions under section 26 are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-d349f7ce08c74d919ffebae8755bd9df]: Commencement: Art. 2 in force at 30.9.2016, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/878/article/1/3)
+[^c-d349f7ce08c74d919ffebae8755bd9df]: Commencement: Art. 2 in force at 30.9.2016, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/878/article/1/3)
 
 [^f00004]: Footnote: [S.I. 1992/129](https://www.legislation.gov.uk/uksi/1992/129); amended by [S.I. 1997/2309](https://www.legislation.gov.uk/uksi/1997/2309), [1997/2851](https://www.legislation.gov.uk/uksi/1997/2851), [1998/1010](https://www.legislation.gov.uk/uksi/1998/1010), [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [2001/3691](https://www.legislation.gov.uk/uksi/2001/3691), [2004/1912](https://www.legislation.gov.uk/uksi/2004/1912), [2006/1810](https://www.legislation.gov.uk/uksi/2006/1810), [2006/3433](https://www.legislation.gov.uk/uksi/2006/3433), [2008/214](https://www.legislation.gov.uk/uksi/2008/214), [2012/953](https://www.legislation.gov.uk/uksi/2012/953), [2013/1392](https://www.legislation.gov.uk/uksi/2013/1392) and [2015/579](https://www.legislation.gov.uk/uksi/2015/579).
 
@@ -148,9 +148,9 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00006]: Footnote: Part LA was inserted into [S.I 1992/129](https://www.legislation.gov.uk/uksi/1992/129) by [S.I 2006/1810](https://www.legislation.gov.uk/uksi/2006/1810). Rule LA(1)(3) was amended by [S.I 2006/3433](https://www.legislation.gov.uk/uksi/2006/3433).
 
-[^key-086dc1d43965d2a3a8262907b10a7720]: Commencement: Art. 3 in force at 30.9.2016, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/878/article/1/3)
+[^c-086dc1d43965d2a3a8262907b10a7720]: Commencement: Art. 3 in force at 30.9.2016, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/878/article/1/3)
 
-[^key-df8774e5ff4fd4d2cf5125d1cd8d0500]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2016/878/article/3/3) inserted (with effect from 30.9.2016) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (England) Order 2017 (S.I. 2017/892)](https://www.legislation.gov.uk/uksi/2017/892), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/892/article/1/1)[(4)](https://www.legislation.gov.uk/uksi/2017/892/article/1/4), [5](https://www.legislation.gov.uk/uksi/2017/892/article/5)
+[^c-df8774e5ff4fd4d2cf5125d1cd8d0500]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2016/878/article/3/3) inserted (with effect from 30.9.2016) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (England) Order 2017 (S.I. 2017/892)](https://www.legislation.gov.uk/uksi/2017/892), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/892/article/1/1)[(4)](https://www.legislation.gov.uk/uksi/2017/892/article/1/4), [5](https://www.legislation.gov.uk/uksi/2017/892/article/5)
 
 [^f00007]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 

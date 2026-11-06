@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Approved premises: substance testing[^key-ae0633a528f84cd07a146c4f49172947]
+## 13A. Approved premises: substance testing[^c-ae0633a528f84cd07a146c4f49172947]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae0633a528f84cd07a146c4f49172947]: Textual amendment: [S. 13A](https://www.legislation.gov.uk/ukpga/2007/21/section/13A) inserted (3.10.2022) by [Approved Premises (Substance Testing) Act 2022 (c. 27)](https://www.legislation.gov.uk/ukpga/2022/27), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2022/27/section/1/3), [2(2)](https://www.legislation.gov.uk/ukpga/2022/27/section/2/2); [S.I. 2022/1013](https://www.legislation.gov.uk/uksi/2022/1013), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1013/regulation/3)
+[^c-ae0633a528f84cd07a146c4f49172947]: Textual amendment: [S. 13A](https://www.legislation.gov.uk/ukpga/2007/21/section/13A) inserted (3.10.2022) by [Approved Premises (Substance Testing) Act 2022 (c. 27)](https://www.legislation.gov.uk/ukpga/2022/27), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2022/27/section/1/3), [2(2)](https://www.legislation.gov.uk/ukpga/2022/27/section/2/2); [S.I. 2022/1013](https://www.legislation.gov.uk/uksi/2022/1013), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1013/regulation/3)

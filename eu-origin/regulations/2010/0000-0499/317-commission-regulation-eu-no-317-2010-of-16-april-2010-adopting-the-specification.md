@@ -35,27 +35,27 @@ adopting the specifications of the 2011 ad hoc module on employment of disabled 
 
 (Text with EEA relevance) (revoked)
 
-[^key-0db2868c592dad3485be421509bcc500]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0db2868c592dad3485be421509bcc500]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-0db2868c592dad3485be421509bcc500] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0db2868c592dad3485be421509bcc500] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0db2868c592dad3485be421509bcc500] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0db2868c592dad3485be421509bcc500] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0db2868c592dad3485be421509bcc500]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0db2868c592dad3485be421509bcc500]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-0db2868c592dad3485be421509bcc500]
+## ANNEX[^c-0db2868c592dad3485be421509bcc500]
 
-[^key-0db2868c592dad3485be421509bcc500] LABOUR FORCE SAMPLE SURVEY
+[^c-0db2868c592dad3485be421509bcc500] LABOUR FORCE SAMPLE SURVEY
 
 **Specifications of the 2011 ad hoc module on employment of disabled people**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0db2868c592dad3485be421509bcc500]1.
+[^c-0db2868c592dad3485be421509bcc500]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0db2868c592dad3485be421509bcc500]2.
+[^c-0db2868c592dad3485be421509bcc500]2.
 
 The variables shall be coded as follows:
 
@@ -63,4 +63,4 @@ The variables shall be coded as follows:
 
 ## Annotations
 
-[^key-0db2868c592dad3485be421509bcc500]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 170](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/170); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0db2868c592dad3485be421509bcc500]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 170](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/170); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

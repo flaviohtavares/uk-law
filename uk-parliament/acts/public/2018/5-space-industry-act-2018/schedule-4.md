@@ -24,11 +24,11 @@ Section 22
 
 ### Hijacking of spacecraft
 
-**1.**[^key-df84a1e12d322a560db9877af456886b] A person on board a UK-launched spacecraft in flight who unlawfully, by the use of force or by threats of any kind, seizes the spacecraft or exercises control of it commits the offence of hijacking a spacecraft.
+**1.**[^c-df84a1e12d322a560db9877af456886b] A person on board a UK-launched spacecraft in flight who unlawfully, by the use of force or by threats of any kind, seizes the spacecraft or exercises control of it commits the offence of hijacking a spacecraft.
 
 ### Destroying, damaging or endangering safety of spacecraft
 
-**2.**[^key-1cb9c469e901eaeab656ca2dcf2d5a5f] (1) It is an offence for a person unlawfully and intentionally—
+**2.**[^c-1cb9c469e901eaeab656ca2dcf2d5a5f] (1) It is an offence for a person unlawfully and intentionally—
 
 - (a) to destroy a UK-launched spacecraft,
 - (b) to damage a UK-launched spacecraft in a way that renders it incapable of flight or is likely to endanger its safety in flight,
@@ -62,7 +62,7 @@ Section 22
 
 ### Other acts endangering or likely to endanger safety of spacecraft
 
-**3.**[^key-b699bd8886d097e41fae259ab5f768b2] (1) It is an offence for a person unlawfully and intentionally—
+**3.**[^c-b699bd8886d097e41fae259ab5f768b2] (1) It is an offence for a person unlawfully and intentionally—
 
 - (a) to destroy or damage property to which sub-paragraph (2) applies, or
 - (b) to interfere with the operation of such property,
@@ -86,7 +86,7 @@ if the destruction, damage or interference is likely to endanger the safety of a
 
 ### Endangering safety at spaceports
 
-**4.**[^key-8b24401f5efcddc4cbda51fb86781211] (1) It is an offence for a person, by means of a device, substance or weapon, intentionally to commit at a spaceport an act of violence that—
+**4.**[^c-8b24401f5efcddc4cbda51fb86781211] (1) It is an offence for a person, by means of a device, substance or weapon, intentionally to commit at a spaceport an act of violence that—
 
 - (a) causes or is likely to cause death or serious personal injury, and
 - (b) endangers or is likely to endanger the safe operation of the spaceport or the safety of persons at the spaceport.
@@ -109,7 +109,7 @@ in such a way as to endanger or be likely to endanger the safe operation of the 
 
 ### Offences in relation to certain dangerous articles
 
-**5.**[^key-594416f1d777dc918e035b6a1b55ec94] (1) It is an offence for a person to have with him or her an article to which sub- paragraph (2) applies—
+**5.**[^c-594416f1d777dc918e035b6a1b55ec94] (1) It is an offence for a person to have with him or her an article to which sub- paragraph (2) applies—
 
 - (a) on board a UK-launched spacecraft in flight, or
 - (b) at a space site in the United Kingdom.
@@ -145,7 +145,7 @@ in such a way as to endanger or be likely to endanger the safe operation of the 
 
 ### Powers exercisable on suspicion of intended offence under this Schedule
 
-**6.**[^key-06c97d97754a2b822a5dc31092660b78] (1) A constable who has reasonable cause to suspect that a person is intending to commit an offence under paragraph 1, 2, 3 or 4 in relation to a spacecraft may—
+**6.**[^c-06c97d97754a2b822a5dc31092660b78] (1) A constable who has reasonable cause to suspect that a person is intending to commit an offence under paragraph 1, 2, 3 or 4 in relation to a spacecraft may—
 
 - (a) prevent the person from embarking on the spacecraft or (as the case may be) the carrier aircraft by which it is to be carried;
 - (b) remove the person from that craft (if it has not yet been launched);
@@ -161,14 +161,14 @@ in such a way as to endanger or be likely to endanger the safe operation of the 
 
 ### Prosecution of offences
 
-**7.**[^key-e33a66880d55d065e4a819c4e1d1e136] Proceedings for an offence under paragraph 1, 2, 3 or 4 may be instituted—
+**7.**[^c-e33a66880d55d065e4a819c4e1d1e136] Proceedings for an offence under paragraph 1, 2, 3 or 4 may be instituted—
 
 - (a) in England and Wales, only by or with the consent of the Attorney General;
 - (b) in Northern Ireland, only by or with the consent of the Director of Public Prosecutions for Northern Ireland.
 
 ### Interpretation
 
-**8.**[^key-ba349f77e2f7a0c25f94399b72d51dd2] (1) In this Schedule—
+**8.**[^c-ba349f77e2f7a0c25f94399b72d51dd2] (1) In this Schedule—
 
 - “**act of violence**” means—
   - (a) an act done in the United Kingdom that constitutes the offence of murder, attempted murder, manslaughter, culpable homicide or assault or an offence under section 18, 20, 21, 22, 23, 24, 28 or 29 of the Offences against the Person Act 1861 or under section 2 of the Explosive Substances Act 1883;
@@ -190,18 +190,18 @@ References to a spacecraft or carrier aircraft having completed a flight are to 
 
 ## Annotations
 
-[^key-df84a1e12d322a560db9877af456886b]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/1) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-df84a1e12d322a560db9877af456886b]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/1) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-1cb9c469e901eaeab656ca2dcf2d5a5f]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/2) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-1cb9c469e901eaeab656ca2dcf2d5a5f]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/2) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-b699bd8886d097e41fae259ab5f768b2]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/3) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-b699bd8886d097e41fae259ab5f768b2]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/3) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-8b24401f5efcddc4cbda51fb86781211]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/4) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-8b24401f5efcddc4cbda51fb86781211]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/4) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-594416f1d777dc918e035b6a1b55ec94]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/5) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-594416f1d777dc918e035b6a1b55ec94]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/5) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-06c97d97754a2b822a5dc31092660b78]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/6) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-06c97d97754a2b822a5dc31092660b78]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/6) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-e33a66880d55d065e4a819c4e1d1e136]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/7) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-e33a66880d55d065e4a819c4e1d1e136]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/7) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-ba349f77e2f7a0c25f94399b72d51dd2]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/8) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-ba349f77e2f7a0c25f94399b72d51dd2]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2018/5/schedule/4/paragraph/8) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 109](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/109) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

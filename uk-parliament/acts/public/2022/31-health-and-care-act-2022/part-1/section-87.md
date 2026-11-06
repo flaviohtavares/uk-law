@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Tidying up etc provisions about accounts of certain NHS bodies[^key-858dd91edb770e089dbcd68984f2d758][^key-773b37ec4f2f13e8fc1db0c81288ea45]
+## 87. Tidying up etc provisions about accounts of certain NHS bodies[^c-858dd91edb770e089dbcd68984f2d758][^c-773b37ec4f2f13e8fc1db0c81288ea45]
 
 *Extent: E+W*
 
@@ -85,6 +85,6 @@ summary: ''
 
 ## Annotations
 
-[^key-858dd91edb770e089dbcd68984f2d758]: Commencement: S. 87 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-858dd91edb770e089dbcd68984f2d758]: Commencement: S. 87 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-773b37ec4f2f13e8fc1db0c81288ea45]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2022/31/section/87) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 11](https://www.legislation.gov.uk/uksi/2022/734/regulation/11), [13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [18](https://www.legislation.gov.uk/uksi/2022/734/regulation/18), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-773b37ec4f2f13e8fc1db0c81288ea45]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2022/31/section/87) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 11](https://www.legislation.gov.uk/uksi/2022/734/regulation/11), [13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [18](https://www.legislation.gov.uk/uksi/2022/734/regulation/18), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Offshore receipts in respect of intangible property[^key-a8fa100047ed26bf9b2ac532b02dbcdc]
+## SCHEDULE 3 — Offshore receipts in respect of intangible property[^c-a8fa100047ed26bf9b2ac532b02dbcdc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,34 +24,34 @@ summary: ''
 
 Section 15
 
-**1.**[^key-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-a8fa100047ed26bf9b2ac532b02dbcdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a8fa100047ed26bf9b2ac532b02dbcdc]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/2019/1/schedule/3) omitted (with effect in accordance with s. 20(12) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(10)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/10)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)
+[^c-a8fa100047ed26bf9b2ac532b02dbcdc]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/2019/1/schedule/3) omitted (with effect in accordance with s. 20(12) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(10)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/10)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)

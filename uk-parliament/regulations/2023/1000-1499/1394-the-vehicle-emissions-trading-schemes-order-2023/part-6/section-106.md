@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Provision of false or misleading information: SPV manufacturers[^key-b7069fe02f6e90832bfa99fe38c4f2c2]
+## 106. Provision of false or misleading information: SPV manufacturers[^c-b7069fe02f6e90832bfa99fe38c4f2c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7069fe02f6e90832bfa99fe38c4f2c2]: Commencement: Art. 106 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-b7069fe02f6e90832bfa99fe38c4f2c2]: Commencement: Art. 106 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

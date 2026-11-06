@@ -22,9 +22,9 @@ summary: ''
 
 (1) This Chapter sets out how a company may claim group relief, how group relief is given and limitations on the amount of group relief to be given on a claim.
 
-(2) Sections 130 to[^key-cd7d65cb9503ada2aba90f5e2e2e27df] 134[^key-303f946fec303d82246c7892e6e38253] deal with claims in relation to surrenderable amounts under Chapter 2.
+(2) Sections 130 to[^c-cd7d65cb9503ada2aba90f5e2e2e27df] 134[^c-303f946fec303d82246c7892e6e38253] deal with claims in relation to surrenderable amounts under Chapter 2.
 
-(3)[^key-43042c858be1d09e0e0115be5d8fb1f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-43042c858be1d09e0e0115be5d8fb1f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Section 137 deals with how group relief is given.
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cd7d65cb9503ada2aba90f5e2e2e27df]: Textual amendment: Words in s. 129(2) substituted (with effect in accordance with Sch. 6 para. 10 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2010/33/schedule/6/paragraph/2)
+[^c-cd7d65cb9503ada2aba90f5e2e2e27df]: Textual amendment: Words in s. 129(2) substituted (with effect in accordance with Sch. 6 para. 10 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2010/33/schedule/6/paragraph/2)
 
-[^key-303f946fec303d82246c7892e6e38253]: Textual amendment: Word in s. 129(2) substituted (18.11.2015) (with effect in accordance with s. 35(3) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 35(2)(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/35/2/a)
+[^c-303f946fec303d82246c7892e6e38253]: Textual amendment: Word in s. 129(2) substituted (18.11.2015) (with effect in accordance with s. 35(3) of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 35(2)(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/35/2/a)
 
-[^key-43042c858be1d09e0e0115be5d8fb1f7]: Textual amendment: [S. 129(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/129/3) omitted (with effect in accordance with Sch. 4 para. 4(1) of the amending Act) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/4/paragraph/1/2)
+[^c-43042c858be1d09e0e0115be5d8fb1f7]: Textual amendment: [S. 129(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/129/3) omitted (with effect in accordance with Sch. 4 para. 4(1) of the amending Act) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/4/paragraph/1/2)

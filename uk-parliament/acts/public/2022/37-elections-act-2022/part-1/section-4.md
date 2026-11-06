@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Handling of postal voting documents by political campaigners[^key-362b80ab6dbfff2d2fafe9e8e5e2adb9][^key-33de611148d2d687bc082b664a58d3a8]
+## 4. Handling of postal voting documents by political campaigners[^c-362b80ab6dbfff2d2fafe9e8e5e2adb9][^c-33de611148d2d687bc082b664a58d3a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-362b80ab6dbfff2d2fafe9e8e5e2adb9]: Commencement: S. 4 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-362b80ab6dbfff2d2fafe9e8e5e2adb9]: Commencement: S. 4 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-33de611148d2d687bc082b664a58d3a8]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/37/section/4) in force at 12.12.2023 by [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))
+[^c-33de611148d2d687bc082b664a58d3a8]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/37/section/4) in force at 12.12.2023 by [S.I. 2023/1234](https://www.legislation.gov.uk/uksi/2023/1234), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1234/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1234/regulation/3))

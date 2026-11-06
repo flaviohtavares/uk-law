@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26.[^key-d25192883c45d32ae4de6d35f75d27c0]
+## 26.[^c-d25192883c45d32ae4de6d35f75d27c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,7 +73,7 @@ In section 1262 (index of defined expressions), in the Table—
 
 ## Annotations
 
-[^key-d25192883c45d32ae4de6d35f75d27c0]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-d25192883c45d32ae4de6d35f75d27c0]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586591]: Marginal citation: The definition of “approved third country competent authority” was inserted by regulation 6(5) of [S.I. 2010/2537](https://www.legislation.gov.uk/uksi/2010/2537).
 

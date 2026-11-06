@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Certification of plans and documents, etc.[^key-9cf5da28a584ca9d5eda8caf58f07d1c]
+## 38. Certification of plans and documents, etc.[^c-9cf5da28a584ca9d5eda8caf58f07d1c]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cf5da28a584ca9d5eda8caf58f07d1c]: Commencement: Art. 38 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-9cf5da28a584ca9d5eda8caf58f07d1c]: Commencement: Art. 38 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)

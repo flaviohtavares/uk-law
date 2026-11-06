@@ -28,7 +28,7 @@ summary: ''
 - (b) in a case where the scheme is a money purchase scheme, as from the relevant time—
   - (i) the transferee makes relevant contributions to the scheme in respect of the employee, or
   - (ii) if the employee is not an active member of the scheme but is eligible to be such a member, the transferee would be required to make such contributions if the employee were an active member, and
-- (c) in a case where the scheme is not a money purchase scheme, as from the relevant time the scheme complies with prescribed requirements[^key-2ff81c92f89829a27dd25d704e3b53d4].
+- (c) in a case where the scheme is not a money purchase scheme, as from the relevant time the scheme complies with prescribed requirements[^c-2ff81c92f89829a27dd25d704e3b53d4].
 
 (3) The requirement in this paragraph is that, as from the relevant time, the transferee makes relevant contributions to a stakeholder pension scheme of which the employee is a member.
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ff81c92f89829a27dd25d704e3b53d4]: Textual amendment: Words in [art. 235(2)(c)](https://www.legislation.gov.uk/nisi/2005/255/article/235/2/c) substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 71](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/71)
+[^c-2ff81c92f89829a27dd25d704e3b53d4]: Textual amendment: Words in [art. 235(2)(c)](https://www.legislation.gov.uk/nisi/2005/255/article/235/2/c) substituted (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 71](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/71)

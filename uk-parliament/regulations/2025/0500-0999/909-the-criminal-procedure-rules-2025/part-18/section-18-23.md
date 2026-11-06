@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.23. Declaration by intermediary[^key-c9328fca7c346ae0fdb711cc3ec29ceb]
+## 18.23. Declaration by intermediary[^c-c9328fca7c346ae0fdb711cc3ec29ceb]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9328fca7c346ae0fdb711cc3ec29ceb]: Commencement: [Rule 18.23](https://www.legislation.gov.uk/uksi/2025/909/rule/18.23) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c9328fca7c346ae0fdb711cc3ec29ceb]: Commencement: [Rule 18.23](https://www.legislation.gov.uk/uksi/2025/909/rule/18.23) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

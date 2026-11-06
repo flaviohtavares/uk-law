@@ -46,27 +46,27 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in respect of matters relating to electronic communications, in exercise of the powers conferred by that section makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-85d263b750f5269773762c805f9601ef]
+## 1. Citation, commencement and interpretation[^c-85d263b750f5269773762c805f9601ef]
 
 These Regulations may be cited as the 823–832 MHz and 1785–1805 MHz etc. Frequency Bands (Management) Regulations 2015 and come into force on 2nd October 2015.
 
-**2.**[^key-24d4e830ab970dd0f7de832051cf0594] In these Regulations—
+**2.**[^c-24d4e830ab970dd0f7de832051cf0594] In these Regulations—
 
 - “Commission Decision” means Commission Implementing Decision 2014/641/EU of 1st September 2014 on harmonised technical conditions of radio spectrum use by wireless audio programme making and special events equipment in the Union[^f00003];
 - “OFCOM” means the Office of Communications as established by the Office of Communications Act 2002[^f00004];
 - “non-interference and non-protection basis” has the meaning given by Article 2 of the Commission Decision;
 - “wireless audio PMSE equipment” has the meaning given by Article 2 of the Commission Decision.
 
-## 3. Designation of spectrum for wireless audio PMSE equipment[^key-723037d4ae2f8cfa3f53830595252531]
+## 3. Designation of spectrum for wireless audio PMSE equipment[^c-723037d4ae2f8cfa3f53830595252531]
 
-(1)[^key-15289b9bb1b06b9b8343f93261965ea1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-15289b9bb1b06b9b8343f93261965ea1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) OFCOM must [^key-9ba7ef38161a7370cf9c2c446c65f96e]...—
+(2) OFCOM must [^c-9ba7ef38161a7370cf9c2c446c65f96e]...—
 
 - (a) designate and make available, on a non-interference and non-protection basis, the 823–832 MHz and 1785–1805 MHz frequency bands for wireless audio PMSE equipment, subject to the technical conditions set out in the Annex to the Commission Decision; and
 - (b) designate and make available radio spectrum in addition to the spectrum covered by sub-paragraph (a) so that an additional amount of at least 30 MHz can be used for wireless audio PMSE equipment, subject to user demand and on a non-interference and non-protection basis with regard to users who have an individual right to use such spectrum.
 
-**4.**[^key-fb037e190caad3fec42210aba26b478f] Notwithstanding regulation 3(2)(a), any authorisations and rights to use spectrum in the 823–832 MHz and 1785–1805 MHz frequency bands which existed on 1st September 2014 may be continued, but only until expiry thereof and to the extent necessary.
+**4.**[^c-fb037e190caad3fec42210aba26b478f] Notwithstanding regulation 3(2)(a), any authorisations and rights to use spectrum in the 823–832 MHz and 1785–1805 MHz frequency bands which existed on 1st September 2014 may be continued, but only until expiry thereof and to the extent necessary.
 
 Ed Vaizey
 
@@ -96,18 +96,18 @@ A Transposition Note has been produced for these Regulations and is published wi
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3 of, and Part I of the Schedule to, the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-85d263b750f5269773762c805f9601ef]: Commencement: Reg. 1 in force at 2.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1658/regulation/1)
+[^c-85d263b750f5269773762c805f9601ef]: Commencement: Reg. 1 in force at 2.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1658/regulation/1)
 
-[^key-24d4e830ab970dd0f7de832051cf0594]: Commencement: Reg. 2 in force at 2.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1658/regulation/1)
+[^c-24d4e830ab970dd0f7de832051cf0594]: Commencement: Reg. 2 in force at 2.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1658/regulation/1)
 
 [^f00003]: Footnote: OJ No L 263, 3.9.2014, p29.
 
 [^f00004]: Footnote: [2002 c. 11](https://www.legislation.gov.uk/ukpga/2002/11).
 
-[^key-723037d4ae2f8cfa3f53830595252531]: Commencement: Reg. 3 in force at 2.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1658/regulation/1)
+[^c-723037d4ae2f8cfa3f53830595252531]: Commencement: Reg. 3 in force at 2.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1658/regulation/1)
 
-[^key-15289b9bb1b06b9b8343f93261965ea1]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/1658/regulation/3/1) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-15289b9bb1b06b9b8343f93261965ea1]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/1658/regulation/3/1) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ba7ef38161a7370cf9c2c446c65f96e]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/1658/regulation/3/2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ba7ef38161a7370cf9c2c446c65f96e]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/1658/regulation/3/2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fb037e190caad3fec42210aba26b478f]: Commencement: Reg. 4 in force at 2.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1658/regulation/1)
+[^c-fb037e190caad3fec42210aba26b478f]: Commencement: Reg. 4 in force at 2.10.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1658/regulation/1)

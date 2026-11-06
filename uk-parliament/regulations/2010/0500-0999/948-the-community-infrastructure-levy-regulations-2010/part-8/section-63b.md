@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63B. Transitional provision: when a MDC ceases being the charging authority for an area[^key-5c276e9a4b46d427c7fea1dbd7f4dec4]
+## 63B. Transitional provision: when a MDC ceases being the charging authority for an area[^c-5c276e9a4b46d427c7fea1dbd7f4dec4]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ the permitted recipient may agree with a charging authority (C) that C shall be 
 
 ## Annotations
 
-[^key-5c276e9a4b46d427c7fea1dbd7f4dec4]: Textual amendment: [Regs. 63A](https://www.legislation.gov.uk/uksi/2010/948/regulation/63A), [63B](https://www.legislation.gov.uk/uksi/2010/948/regulation/63B) inserted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2013/982/regulation/9/1)
+[^c-5c276e9a4b46d427c7fea1dbd7f4dec4]: Textual amendment: [Regs. 63A](https://www.legislation.gov.uk/uksi/2010/948/regulation/63A), [63B](https://www.legislation.gov.uk/uksi/2010/948/regulation/63B) inserted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2013/982/regulation/9/1)

@@ -75,9 +75,9 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** The appropriate authority[^key-e17abd5edac9dad3a8d6d8c5c9cc0d90] shall authorise imports of ova and embryos of the porcine species from the third countries from which imports of porcine semen are authorised in accordance with Commission Implementing Decision 2012/137/EU[^key-413975e29129ede6e786be56f3d32a41].
+**Article 1.** The appropriate authority[^c-e17abd5edac9dad3a8d6d8c5c9cc0d90] shall authorise imports of ova and embryos of the porcine species from the third countries from which imports of porcine semen are authorised in accordance with Commission Implementing Decision 2012/137/EU[^c-413975e29129ede6e786be56f3d32a41].
 
-In this Decision:[^key-8234717df2a7440ff681b1ce1f145cd8]
+In this Decision:[^c-8234717df2a7440ff681b1ce1f145cd8]
 
 - — “**appropriate authority**” means the Secretary of State (in relation to England), the Welsh Ministers (in relation to Wales) and the Scottish Ministers (in relation to Scotland); but the “appropriate authority” is the Secretary of State if consent is given by:
   - ((a)) in relation to Wales, the Welsh Ministers;
@@ -88,7 +88,7 @@ In this Decision:[^key-8234717df2a7440ff681b1ce1f145cd8]
 
 **Article 3.** This Decision shall apply from 1 September 2008.
 
-**Article 4.**[^key-1762a2f873f1e95d439abac7db3ef638] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-1762a2f873f1e95d439abac7db3ef638] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 22 July 2008.
 
@@ -106,10 +106,10 @@ Androulla Vassiliou
 
 [^f00003]: Footnote: [OJ L 196, 25.7.2002, p. 45](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.196.01.0045.01.ENG). Decision as last amended by Decision 2007/14/EC ([OJ L 7, 12.1.2007, p. 28](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.007.01.0028.01.ENG)).
 
-[^key-e17abd5edac9dad3a8d6d8c5c9cc0d90]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2008/636/article/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [52(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/52/2/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-e17abd5edac9dad3a8d6d8c5c9cc0d90]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2008/636/article/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [52(2)(a)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/52/2/a) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-413975e29129ede6e786be56f3d32a41]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2008/636/article/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [52(2)(b)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/52/2/b) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-413975e29129ede6e786be56f3d32a41]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2008/636/article/1) substituted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [52(2)(b)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/52/2/b) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-8234717df2a7440ff681b1ce1f145cd8]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2008/636/article/1) inserted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [52(2)(c)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/52/2/c) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-8234717df2a7440ff681b1ce1f145cd8]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2008/636/article/1) inserted (31.12.2020) by [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [52(2)(c)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/52/2/c) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
 
-[^key-1762a2f873f1e95d439abac7db3ef638]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eudn/2008/636/article/4) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [52(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/52/3) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))
+[^c-1762a2f873f1e95d439abac7db3ef638]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eudn/2008/636/article/4) omitted (31.12.2020) by virtue of [The Import of, and Trade in, Animals and Animal Products (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1462)](https://www.legislation.gov.uk/uksi/2020/1462), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3), [52(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/52/3) (with [regs. 69-71](https://www.legislation.gov.uk/uksi/2020/1462/regulation/69))

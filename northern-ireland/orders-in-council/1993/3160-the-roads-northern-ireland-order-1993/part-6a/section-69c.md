@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69C. Variation and revocation of gating orders[^key-df9554fbff6f05898122e8c1e2f42bd3]
+## 69C. Variation and revocation of gating orders[^c-df9554fbff6f05898122e8c1e2f42bd3]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df9554fbff6f05898122e8c1e2f42bd3]: Textual amendment: Pt. 6A inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 1](https://www.legislation.gov.uk/nia/2011/23/section/1), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-df9554fbff6f05898122e8c1e2f42bd3]: Textual amendment: Pt. 6A inserted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 1](https://www.legislation.gov.uk/nia/2011/23/section/1), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

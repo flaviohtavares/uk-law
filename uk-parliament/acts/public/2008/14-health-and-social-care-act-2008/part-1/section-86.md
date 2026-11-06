@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Penalty notices[^c1942195][^key-abbd17387f846a4ed0c34cb7b55e0569]
+## 86. Penalty notices[^c1942195][^c-abbd17387f846a4ed0c34cb7b55e0569]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c1942195]: Commencement: S. 86 partly in force; S. 86 in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-abbd17387f846a4ed0c34cb7b55e0569]: Commencement: S. 86 in force at 1.4.2009 in so far as not already in force by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/28)
+[^c-abbd17387f846a4ed0c34cb7b55e0569]: Commencement: S. 86 in force at 1.4.2009 in so far as not already in force by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/28)

@@ -39,7 +39,7 @@ This Act may be cited as the Forged Transfers Act 1892, and this Act and the [^c
 
 ## 2. Removal of doubt as to the operation of 54 &55 Vict. c. 43[^c575659]
 
-The Forged Transfers Act, 1891, shall have effect as if at the end of sub-section one of section one of that Act there were added the words "[^key-258d7c19823a276a7a432ea3532f7650]... whether the person receiving such compensation, or any person through whom he claims, has or has not paid any fee or otherwise contributed to any fund out of which the compensation is paid.”
+The Forged Transfers Act, 1891, shall have effect as if at the end of sub-section one of section one of that Act there were added the words "[^c-258d7c19823a276a7a432ea3532f7650]... whether the person receiving such compensation, or any person through whom he claims, has or has not paid any fee or otherwise contributed to any fund out of which the compensation is paid.”
 
 ## 3. Amendment of 54 & 55 Vict. c. 43. s. 1(2).[^c575661]
 
@@ -59,7 +59,7 @@ Where the shares, stock, or securities of a company or local authority have by a
 
 [^c575659]: Modification: The text of s. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-258d7c19823a276a7a432ea3532f7650]: Textual amendment: Words in s. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9 Group 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9)
+[^c-258d7c19823a276a7a432ea3532f7650]: Textual amendment: Words in s. 2 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9 Group 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9)
 
 [^c575661]: Modification: The text of s. 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

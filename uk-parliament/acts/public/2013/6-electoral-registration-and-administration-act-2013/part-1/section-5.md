@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Invitations to register[^key-a2543db250eb8c3056d4236f8b72b024][^key-9fa0b74510dffe776fb7ee9e74c4e24d]
+## 5. Invitations to register[^c-a2543db250eb8c3056d4236f8b72b024][^c-9fa0b74510dffe776fb7ee9e74c4e24d]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a2543db250eb8c3056d4236f8b72b024]: Commencement: S. 5 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(e)](https://www.legislation.gov.uk/uksi/2014/414/article/5/e)
+[^c-a2543db250eb8c3056d4236f8b72b024]: Commencement: S. 5 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(e)](https://www.legislation.gov.uk/uksi/2014/414/article/5/e)
 
-[^key-9fa0b74510dffe776fb7ee9e74c4e24d]: Commencement: S. 5 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/d)
+[^c-9fa0b74510dffe776fb7ee9e74c4e24d]: Commencement: S. 5 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/d)

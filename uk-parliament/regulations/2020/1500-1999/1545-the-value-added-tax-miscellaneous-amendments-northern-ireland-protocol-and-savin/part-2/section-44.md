@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44.[^key-c715339be779488e017654392c216f48]
+## 44.[^c-c715339be779488e017654392c216f48]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The amendments made by regulations 38 to 43 are to be treated for the purposes o
 
 ## Annotations
 
-[^key-c715339be779488e017654392c216f48]: Commencement: Reg. 44 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-c715339be779488e017654392c216f48]: Commencement: Reg. 44 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. UK furnished holiday lettings business treated as trade[^key-01d5c0f69ad14acfd5de70a2b1c0fd15]
+## 127. UK furnished holiday lettings business treated as trade[^c-01d5c0f69ad14acfd5de70a2b1c0fd15]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01d5c0f69ad14acfd5de70a2b1c0fd15]: Textual amendment: [S. 127](https://www.legislation.gov.uk/ukpga/2007/3/section/127) omitted (in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/3/3/a), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [16](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/16), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-01d5c0f69ad14acfd5de70a2b1c0fd15]: Textual amendment: [S. 127](https://www.legislation.gov.uk/ukpga/2007/3/section/127) omitted (in relation to the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/3/3/a), [12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/1) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [16](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/16), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))

@@ -50,18 +50,18 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 84(1) of the Animal Health Act 1981[^f00001] and with the approval of the Treasury, makes the following Order.
 
-## 1. Title, application and commencement[^key-3391e5fc1688b0dd61505b93702e7755]
+## 1. Title, application and commencement[^c-3391e5fc1688b0dd61505b93702e7755]
 
 This Order may be cited as the Diseases of Animals (Approved Disinfectants) (Fees) (England) Order 2008, applies in England and comes into force on 6th April 2008.
 
-## 2. Fees for the testing of disinfectants[^key-965eea623522855e5f5bb14c503b42f8]
+## 2. Fees for the testing of disinfectants[^c-965eea623522855e5f5bb14c503b42f8]
 
 A person who applies for a disinfectant to be approved under article 3 of the Diseases of Animals (Approved Disinfectants) (England) Order 2007[^f00002] must, when applying, pay to the Secretary of State the fees set out in the Schedule consisting of both—
 
 - (a) the fee for administrative services in Part I of the Schedule; and
 - (b) the fee for testing for the relevant purpose in Part II of the Schedule.
 
-## 3. Revocation[^key-037f0e70bbbd01087a255b12986214bd]
+## 3. Revocation[^c-037f0e70bbbd01087a255b12986214bd]
 
 The Diseases of Animals (Approved Disinfectants) (Fees) (England) Order 2007[^f00003] is revoked.
 
@@ -85,13 +85,13 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 ## SCHEDULE
 
-### PART 1 — Fee payable in respect of administrative services[^key-7a6e6e898de03ca4d433b873a1ebfcf5]
+### PART 1 — Fee payable in respect of administrative services[^c-7a6e6e898de03ca4d433b873a1ebfcf5]
 
 |  | Fee (£) |
 | --- | --- |
 | Fee for administrative services | 1,650 |
 
-### PART 2 — Fee payable in respect of testing for specific purposes[^key-0e56412726cb6b2622e6e9713355a848]
+### PART 2 — Fee payable in respect of testing for specific purposes[^c-0e56412726cb6b2622e6e9713355a848]
 
 |  | Fee (£) |
 | --- | --- |
@@ -133,16 +133,16 @@ A full impact assessment has not been produced for this instrument as a minimal 
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). Powers to make Orders under these sections were originally conferred on “the Ministers” by section 86 of the Act. These powers are now exercisable by the Secretary of State. Functions of “the Ministers” were transferred, so far as exercisable by the Secretaries of State for Scotland and Wales, to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 ([S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)). Functions of the Minister of Agriculture, Fisheries and Food were then further transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
-[^key-3391e5fc1688b0dd61505b93702e7755]: Commencement: Art. 1 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/652/article/1)
+[^c-3391e5fc1688b0dd61505b93702e7755]: Commencement: Art. 1 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/652/article/1)
 
-[^key-965eea623522855e5f5bb14c503b42f8]: Commencement: Art. 2 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/652/article/1)
+[^c-965eea623522855e5f5bb14c503b42f8]: Commencement: Art. 2 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/652/article/1)
 
 [^f00002]: Footnote: [S.I. 2007/448](https://www.legislation.gov.uk/uksi/2007/448).
 
-[^key-037f0e70bbbd01087a255b12986214bd]: Commencement: Art. 3 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/652/article/1)
+[^c-037f0e70bbbd01087a255b12986214bd]: Commencement: Art. 3 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/652/article/1)
 
 [^f00003]: Footnote: [S.I. 2007/2203](https://www.legislation.gov.uk/uksi/2007/2203).
 
-[^key-7a6e6e898de03ca4d433b873a1ebfcf5]: Commencement: Sch. Pt. 1 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/652/article/1)
+[^c-7a6e6e898de03ca4d433b873a1ebfcf5]: Commencement: Sch. Pt. 1 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/652/article/1)
 
-[^key-0e56412726cb6b2622e6e9713355a848]: Commencement: Sch. Pt. 2 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/652/article/1)
+[^c-0e56412726cb6b2622e6e9713355a848]: Commencement: Sch. Pt. 2 in force at 6.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/652/article/1)

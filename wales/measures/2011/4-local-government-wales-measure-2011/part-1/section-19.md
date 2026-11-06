@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Reports and recommendations by democratic services committees[^key-725e5a1675f89a43cd74e6aeb772c950]
+## 19. Reports and recommendations by democratic services committees[^c-725e5a1675f89a43cd74e6aeb772c950]
 
 *Extent: E+W*
 
-(1) A democratic services committee for a local authority must, as soon as practicable after it has prepared a report or made a recommendation under section 11(1)(c)or 11A(2)[^key-7c0ae7c66d288a690e941d95a130a59e], arrange for a copy of it to be sent to each member of the authority who is not a member of the committee.
+(1) A democratic services committee for a local authority must, as soon as practicable after it has prepared a report or made a recommendation under section 11(1)(c)or 11A(2)[^c-7c0ae7c66d288a690e941d95a130a59e], arrange for a copy of it to be sent to each member of the authority who is not a member of the committee.
 
 (2) A local authority must consider any report or recommendations at a meeting held not more than three months after copies of the report or recommendation are first sent to members of the authority.
 
 ## Annotations
 
-[^key-725e5a1675f89a43cd74e6aeb772c950]: Commencement: S. 19 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)
+[^c-725e5a1675f89a43cd74e6aeb772c950]: Commencement: S. 19 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)
 
-[^key-7c0ae7c66d288a690e941d95a130a59e]: Textual amendment: Words in [s. 19](https://www.legislation.gov.uk/mwa/2011/4/section/19) inserted (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [ss. 60(2)](https://www.legislation.gov.uk/anaw/2013/4/section/60/2), [75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d)
+[^c-7c0ae7c66d288a690e941d95a130a59e]: Textual amendment: Words in [s. 19](https://www.legislation.gov.uk/mwa/2011/4/section/19) inserted (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [ss. 60(2)](https://www.legislation.gov.uk/anaw/2013/4/section/60/2), [75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d)

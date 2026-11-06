@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58B. Payment by cheque[^key-76935b3a69ab49138ecd3ea34d183472]
+## 58B. Payment by cheque[^c-76935b3a69ab49138ecd3ea34d183472]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulations under section 95(1) of the Finance Act 2007 (payment by cheque) may,
 
 ## Annotations
 
-[^key-76935b3a69ab49138ecd3ea34d183472]: Textual amendment: S. 58B inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 95(8)](https://www.legislation.gov.uk/ukpga/2007/11/section/95/8)
+[^c-76935b3a69ab49138ecd3ea34d183472]: Textual amendment: S. 58B inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 95(8)](https://www.legislation.gov.uk/ukpga/2007/11/section/95/8)

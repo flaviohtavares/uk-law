@@ -43,7 +43,7 @@ The National Assembly for Wales, in exercise of the powers conferred on the Secr
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-76d3ee97969a9a289b1f0d8f35ed2f8a]
+### 1. Citation and commencement[^c-76d3ee97969a9a289b1f0d8f35ed2f8a]
 
 (1) These Regulations may be cited as the Education (Special Educational Needs) (Wales) Regulations 2002.
 
@@ -51,15 +51,15 @@ The National Assembly for Wales, in exercise of the powers conferred on the Secr
 
 (3) These Regulations apply only in relation to Wales.
 
-### 2. Interpretation[^key-db6b9719fc1522cbe631838122f523d8]
+### 2. Interpretation[^c-db6b9719fc1522cbe631838122f523d8]
 
 (1) In these Regulations—
 
-- “[^key-b708b14c3b79f2de5c3f4e1520ecf109]**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
+- “[^c-b708b14c3b79f2de5c3f4e1520ecf109]**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
 - “**the Act**” (“*y Ddeddf*”) means the Education Act 1996;
 - “**annual review**” (“*adolygiad blynyddol*”) means a review of a child’s statement of special educational needs carried out within 12 months of making the statement or the previous review under section 328(5)(b) of the Act;
 - “**assessment**” (“*asesiad*”) means an assessment of a child’s educational needs under section 323 of the Act;
-- “[^key-a4a5d5b902ddd5e3a2ae60cabf712724]**authority**” means a local authority;
+- “[^c-a4a5d5b902ddd5e3a2ae60cabf712724]**authority**” means a local authority;
 - “**Careers Service**” (“*Gwasanaeth Gyrfaoedd*”) means a body (whether or not having a distinct legal personality) established to provide careers services under sections 8 to 10 of the Employment and Training Act 1973[^f00003];
 - “**early education provider**” (“*darparydd addysg gynnar*”) means a provider of relevant nursery education except that it shall not include an authority in respect of a maintained nursery school;
 - “**head of SEN**” (“*pennaeth AAA*”) means the person responsible for co-ordinating the day to day provision of education for pupils with special educational needs;
@@ -67,8 +67,8 @@ The National Assembly for Wales, in exercise of the powers conferred on the Secr
 - “**health authority**” (“*awdurdod iechyd*”) has the same meaning as in the National Health Service Act 1977 [^f00004];
 - “the National Assembly” (“*y Cynulliad Cenedlaethol*”) means the National Assembly for Wales;
 - “**parent partnership services**” (“*gwasanaethau partneriaeth rhieni*”) means the arrangements made by an authority under section 332A of the Act for the provision of advice and information about matters relating to special educational needs to parents of children with special educational needs;
-- [^key-83e81159d3e6d64d59a0edba9277d082]...[^f00005]
-- “[^key-bc34c1fa0d1fd04fe1ccd641d26affde]**social worker**” means a person employed or engaged by the authority as a social worker;
+- [^c-83e81159d3e6d64d59a0edba9277d082]...[^f00005]
+- “[^c-bc34c1fa0d1fd04fe1ccd641d26affde]**social worker**” means a person employed or engaged by the authority as a social worker;
 - “**statement**” (“*datganiad*”) means a statement of a child’s special educational needs made under section 324 of the Act;
 - “**target**” (“*targed*”) means the knowledge, skills and understanding which a child is expected to have by the end of a particular period;
 - “**tenth year of compulsory education**” (“*degfed flwyddyn o addysg orfodol*”) means the ninth school year after the school year in which a child reaches compulsory school age;
@@ -92,7 +92,7 @@ The National Assembly for Wales, in exercise of the powers conferred on the Secr
 | “special school” (“*ysgol arbennig*”) | Section 337 of the Act |
 | “young offender institution” (“*sefydliad tramgwyddwyr ifanc*”) | Section 43 of the Prison Act 1952[^f00009] |
 
-(3) In these Regulations any reference to the health authority [^key-84bcd1d7ae3f5f34a8c8be1c0c9bfb4c]... is, in relation to a particular child, a reference to the health authority [^key-84bcd1d7ae3f5f34a8c8be1c0c9bfb4c]... in whose area that child lives.
+(3) In these Regulations any reference to the health authority [^c-84bcd1d7ae3f5f34a8c8be1c0c9bfb4c]... is, in relation to a particular child, a reference to the health authority [^c-84bcd1d7ae3f5f34a8c8be1c0c9bfb4c]... in whose area that child lives.
 
 (4) Where a thing is required to be done under these Regulations—
 
@@ -105,18 +105,18 @@ The National Assembly for Wales, in exercise of the powers conferred on the Secr
 - (b) to a Schedule are references to a Schedule of the Act;
 - (c) to a regulation are references to a regulation in these Regulations.
 
-### 3. Delegation of functions[^key-82f56d02cb7c5b67a554e7713b110d77]
+### 3. Delegation of functions[^c-82f56d02cb7c5b67a554e7713b110d77]
 
 Where a head teacher has any functions or duties under these Regulations he or she may delegate those functions or duties—
 
 - (a) generally to a member of the staff of the school who is a qualified teacher, or
 - (b) in a particular case to a member of the staff of the school who teaches the child in question.
 
-### 4. Notices[^key-2fbd948aa5567bba841e6e011fcfbe0d]
+### 4. Notices[^c-2fbd948aa5567bba841e6e011fcfbe0d]
 
 Any notice required to be given by these Regulations shall be given in writing.
 
-### 5. Service of documents[^key-80a18f6b6531f49e1379a30415b105f2]
+### 5. Service of documents[^c-80a18f6b6531f49e1379a30415b105f2]
 
 (1) Where any provision in Part IV of the Act or in these Regulations authorises or requires any document to be served or sent to a person or any notice to be given to a person the document may be served or sent or the notice may be given by properly addressing, pre-paying and posting a letter containing the document or notice.
 
@@ -134,7 +134,7 @@ Any notice required to be given by these Regulations shall be given in writing.
 
 ## PART II — ASSESSMENTS
 
-### 6. Notices relating to assessment[^key-507ede2b14456b7b0df0828cbd03f795]
+### 6. Notices relating to assessment[^c-507ede2b14456b7b0df0828cbd03f795]
 
 (1) Paragraph (2) applies where—
 
@@ -143,7 +143,7 @@ Any notice required to be given by these Regulations shall be given in writing.
 
 (2) Where this paragraph applies an authority shall send copies of the relevant notice—
 
-- (a)[^key-4a522498bd343f795db19d64cb23aa7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4a522498bd343f795db19d64cb23aa7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) to the health authority,
 - (c) if the child is registered at a school, to the head teacher of that school, or
 - (d) if the child receives education from an early education provider, to the head of SEN in relation to that provider.
@@ -155,21 +155,21 @@ Any notice required to be given by these Regulations shall be given in writing.
 - (a) under section 328(2) or 329(1) a child’s parent asks an authority to arrange for an assessment, and
 - (b) no assessment has been made for that child within the period of six months ending with the date on which the request is made
 
-the authority shall give notice to the persons referred to in paragraph (2)(b) to (d)[^key-9ae503bd169f24b47668092afb315241] that the request has been made and inform them what help the authority are likely to request.
+the authority shall give notice to the persons referred to in paragraph (2)(b) to (d)[^c-9ae503bd169f24b47668092afb315241] that the request has been made and inform them what help the authority are likely to request.
 
 (5) Where—
 
 - (a) under section 329A(1) a responsible body asks an authority to arrange for an assessment, and
 - (b) no assessment has been made for that child within the period of six months ending with the date on which the request is made
 
-the authority shall give notice to the persons referred to in paragraph (2)(b) to (d)[^key-e69e4478c20e1d3096db5882dbee55a7] that the request has been made and inform them what help the authority are likely to request.
+the authority shall give notice to the persons referred to in paragraph (2)(b) to (d)[^c-e69e4478c20e1d3096db5882dbee55a7] that the request has been made and inform them what help the authority are likely to request.
 
 (6) Where the head teacher at a school or head of SEN in relation to an early education provider is the responsible body referred to at paragraph (5)(a) the authority may—
 
 - (a) choose not to serve a notice on the head teacher or head of SEN under paragraph (5), and
 - (b) endorse the notice served on the responsible body under section 329A(7) or serve a further notice accompanying that notice informing the head teacher of the school or the head of SEN in relation to the early education provider of the help the authority are likely to request.
 
-### 7. Advice to be sought[^key-ba578b9ddb08c949c7a8e9ba8b50ec1a]
+### 7. Advice to be sought[^c-ba578b9ddb08c949c7a8e9ba8b50ec1a]
 
 (1) For the purpose of making an assessment an authority shall seek—
 
@@ -177,7 +177,7 @@ the authority shall give notice to the persons referred to in paragraph (2)(b) t
 - (b) educational advice as provided for in regulation 8;
 - (c) medical advice from the health authority as provided for in regulation 9;
 - (d) psychological advice as provided for in regulation 10;
-- (e)[^key-19ae8b88b1b7544646fe89067ecd8535] advice from a social worker,
+- (e)[^c-19ae8b88b1b7544646fe89067ecd8535] advice from a social worker,
 - (f) any other advice which the authority consider appropriate for the purpose of arriving at a satisfactory assessment.
 
 (2) The advice referred to in paragraph (1) shall be written advice relating to—
@@ -200,7 +200,7 @@ under section 323(1)(d) or section 329A(3)(d) as the case may be.
 - (a) the authority have obtained advice under paragraph (1)(b),(c),(d),(e) or (f) respectively within the preceding 12 months, and
 - (b) the authority, the person from whom the advice was obtained and the child’s parent are satisfied that the existing advice is sufficient for the purpose of arriving at a satisfactory assessment.
 
-### 8. Educational advice[^key-5739564cf846a636250112bd69cb423c]
+### 8. Educational advice[^c-5739564cf846a636250112bd69cb423c]
 
 (1) The educational advice referred to in regulation 7(1)(b) shall, subject to paragraphs (2) to (5), be sought—
 
@@ -231,11 +231,11 @@ and any person from whom advice is sought as provided in paragraph (1) is not qu
 
 (9) Paragraphs (4) and (7) are without prejudice to regulation 7(3).
 
-### 9. Medical advice[^key-64f48b74c55c13cd72c01275431dffc6]
+### 9. Medical advice[^c-64f48b74c55c13cd72c01275431dffc6]
 
-The advice referred to in paragraph 7(1)(c) shall be sought from the health authority, who shall obtain the advice from a fully registered medical practitioner who holds a licence to practise[^key-46c610a46c6370a741920ded15879d17].
+The advice referred to in paragraph 7(1)(c) shall be sought from the health authority, who shall obtain the advice from a fully registered medical practitioner who holds a licence to practise[^c-46c610a46c6370a741920ded15879d17].
 
-### 10. Psychological advice[^key-1a288bb7c0ccb543d5a953d50f30abcb]
+### 10. Psychological advice[^c-1a288bb7c0ccb543d5a953d50f30abcb]
 
 (1) The psychological advice referred to in regulation 7(1)(d) shall be sought from a person—
 
@@ -246,7 +246,7 @@ The advice referred to in paragraph 7(1)(c) shall be sought from the health auth
 
 (3) Paragraph (2) is without prejudice to regulation 7(3).
 
-### 11. Matters to be taken into account in making an assessment[^key-b9d917f5410856771f8a792197182938]
+### 11. Matters to be taken into account in making an assessment[^c-b9d917f5410856771f8a792197182938]
 
 When making an assessment an authority shall take into consideration—
 
@@ -254,7 +254,7 @@ When making an assessment an authority shall take into consideration—
 - (b) any evidence submitted by, or at the request of, the child’s parent under section 323(1)(d) or section 329A(3)(d); and
 - (c) the advice obtained under regulation 7.
 
-### 12. Time limits and prescribed information[^key-f868a4090166b593b768695cfa5d8ce7]
+### 12. Time limits and prescribed information[^c-f868a4090166b593b768695cfa5d8ce7]
 
 (1) Where under section 323(1) an authority serve a notice on a child’s parent informing the parent that they are considering whether to make an assessment they shall within 6 weeks of the date of service of that notice give notice to the child’s parent of—
 
@@ -312,27 +312,27 @@ When making an assessment an authority shall take into consideration—
 - (b) the child’s parent has indicated to the authority that he or she wishes to provide advice to the authority after the expiry of 6 weeks from the date on which a request for such advice under regulation 7(1)(a) was received, and the authority have agreed to consider such advice before completing the assessment;
 - (c) the authority have requested advice from the head teacher of a school under regulation 7(1)(b) during a period beginning one week before any date on which that school was closed for a continuous period of not less than 4 weeks from that date and ending one week before the date on which it re-opens;
 - (d) the authority have requested advice from the head of SEN in relation to, or other person responsible for, a child’s education at an early education provider under regulation 7(1)(b) during a period beginning one week before any date on which that early education provider was closed for a continuous period of not less than four weeks from that date and ending one week before the date on which it re-opens;
-- (e) the authority have requested advice from a health authority [^key-a9c8ed8646ba3b9649b08095eab69a83]... under regulation 7(1)(c) [^key-a9c8ed8646ba3b9649b08095eab69a83]... and the health authority [^key-a9c8ed8646ba3b9649b08095eab69a83]... have not complied with that request within 6 weeks from the date on which it was made;
+- (e) the authority have requested advice from a health authority [^c-a9c8ed8646ba3b9649b08095eab69a83]... under regulation 7(1)(c) [^c-a9c8ed8646ba3b9649b08095eab69a83]... and the health authority [^c-a9c8ed8646ba3b9649b08095eab69a83]... have not complied with that request within 6 weeks from the date on which it was made;
 - (f) exceptional personal circumstances affect the child or the child’s parent during the 10 week period referred to in paragraph (6);
 - (g) the child or the child’s parent are absent from the area of the authority for a continuous period of not less than 4 weeks during the 10 week period referred to in paragraph (6); or
 - (h) the child fails to keep an appointment for an examination or a test during the 10 week period referred to in paragraph (6);
-- (i)[^key-6fb37499f9afb2c0f714f359eac512be] the authority have not produced or maintained any social services information or records relevant to the assessment of the child before the date on which they served or gave the notice referred to in regulation 6(1), 6(4) or 6(5) (as appropriate).
+- (i)[^c-6fb37499f9afb2c0f714f359eac512be] the authority have not produced or maintained any social services information or records relevant to the assessment of the child before the date on which they served or gave the notice referred to in regulation 6(1), 6(4) or 6(5) (as appropriate).
 
-(7A)[^M_F_6c48ddc4-4dad-4ca7-90a5-fc75e3ae3025] In paragraph (7)(i) “social services information or records” means information or records produced or maintained by the authority in connection with the exercise of their social services functions (within the meaning of the Social Services and Well-being (Wales) Act 2014[^key-3f3bd5af8da19fdad7e3b5a230441644]).
+(7A)[^M_F_6c48ddc4-4dad-4ca7-90a5-fc75e3ae3025] In paragraph (7)(i) “social services information or records” means information or records produced or maintained by the authority in connection with the exercise of their social services functions (within the meaning of the Social Services and Well-being (Wales) Act 2014[^c-3f3bd5af8da19fdad7e3b5a230441644]).
 
-(8) Subject to paragraphs (9) and (10)[^key-866242c5eb009c652cbceb8cb5214337] where an authority have requested advice from a health authority [^key-28bcd935dc0bf21b2b800d1865187068]... under regulation 7(1)(c) [^key-28bcd935dc0bf21b2b800d1865187068]... the health authority [^key-28bcd935dc0bf21b2b800d1865187068]... shall comply with that request within 6 weeks of the date on which they receive it.
+(8) Subject to paragraphs (9) and (10)[^c-866242c5eb009c652cbceb8cb5214337] where an authority have requested advice from a health authority [^c-28bcd935dc0bf21b2b800d1865187068]... under regulation 7(1)(c) [^c-28bcd935dc0bf21b2b800d1865187068]... the health authority [^c-28bcd935dc0bf21b2b800d1865187068]... shall comply with that request within 6 weeks of the date on which they receive it.
 
-(9) A health authority [^key-1587d684dda41900de3de2cb015901ae]... need not comply with the time limit referred to in paragraph (8) if it is impractical to do so because—
+(9) A health authority [^c-1587d684dda41900de3de2cb015901ae]... need not comply with the time limit referred to in paragraph (8) if it is impractical to do so because—
 
 - (a) exceptional personal circumstances affect the child or the child’s parent during the 6 week period referred to in paragraph (8);
 - (b) the child or the child’s parent are absent from the area of the authority for a continuous period of not less than 4 weeks during the 6 week period referred to in paragraph (8); or
-- (c) the child fails to keep an appointment for an examination or a test made by the health authority [^key-960fc73f278f82997ca4089b06f6a97a]... during the 6 week period referred to in paragraph (8).
+- (c) the child fails to keep an appointment for an examination or a test made by the health authority [^c-960fc73f278f82997ca4089b06f6a97a]... during the 6 week period referred to in paragraph (8).
 
 (10) A health authority need not comply with the time limit referred to in paragraph (8) if they have not before the date on which a copy of a notice has been served on them in accordance with regulation 6(1), 6(3) or 6(4) produced or maintained any information or records relevant to the assessment of the child.
 
-(11)[^key-2062bbb1b3b13a2db17e242ae025d2ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-2062bbb1b3b13a2db17e242ae025d2ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Children without statements in special schools[^key-160cf328a89bc42f5cc98cb0bf472d2b]
+### 13. Children without statements in special schools[^c-160cf328a89bc42f5cc98cb0bf472d2b]
 
 If a child without a statement has been admitted to a special school for the purposes of an assessment, as provided for in section 316A(2), the child may remain at that school—
 
@@ -341,7 +341,7 @@ If a child without a statement has been admitted to a special school for the pur
 
 ## PART III — STATEMENTS
 
-### 14. Notices accompanying a proposed statement, or proposed amended statement[^key-ab35745ac0a4280dabbcf8f416eb95f7]
+### 14. Notices accompanying a proposed statement, or proposed amended statement[^c-ab35745ac0a4280dabbcf8f416eb95f7]
 
 The notice which shall be served by an authority on a parent pursuant to paragraph 2B(2) of Schedule 27 to accompany
 
@@ -350,11 +350,11 @@ The notice which shall be served by an authority on a parent pursuant to paragra
 
 shall contain the information as specified in Part A of Schedule 1 to these Regulations.
 
-### 15. Notices accompanying amendment notices[^key-37b9fe18fba37cc4d52cb2c1246ad188]
+### 15. Notices accompanying amendment notices[^c-37b9fe18fba37cc4d52cb2c1246ad188]
 
 The notice which shall be served on a parent pursuant to paragraph 2B(2) of Schedule 27 to accompany an amendment notice (served under paragraph 2A (4) of Schedule 27) shall contain the information as specified in Part B of Schedule 1 to these Regulations.
 
-### 16. Statement of special educational needs[^key-3e9540913067f943fba4f745dd6be533]
+### 16. Statement of special educational needs[^c-3e9540913067f943fba4f745dd6be533]
 
 A statement shall—
 
@@ -368,7 +368,7 @@ A statement shall—
   - (iii) amended pursuant to an order of the Tribunal, and the date of such order; or
   - (iv) amended pursuant to a direction of the National Assembly, and the date of any such direction.
 
-### 17. Time limits and prescribed information[^key-09d012c5c3057e5a3e57403a570c37a6]
+### 17. Time limits and prescribed information[^c-09d012c5c3057e5a3e57403a570c37a6]
 
 (1) Where an authority have made an assessment of a child for whom no statement is maintained they shall within two weeks of the date on which the assessment was completed either—
 
@@ -399,9 +399,9 @@ A statement shall—
 
 - (a) exceptional personal circumstances affect the child or the child’s parent during the 8 week period referred to in paragraph (3);
 - (b) the child or the child’s parent are absent from the area of the authority for a continuous period of not less than 4 weeks during the 8 week period referred to in paragraph (3);
-- (c) the child’s parent indicates that he or she wishes to make representations to the authority about the content of the statement under paragraph 4(1) of Schedule 27 after the expiry of the 15 day period for making such representations provided for in paragraph 4(4) of that Schedule; or[^key-84fd1e438856c3319d6d61c4397bd861]
-- (d) a meeting between the child’s parent and an officer of the authority has been held pursuant to paragraph 4(1) of Schedule 27 and the child’s parent under paragraph 4(2) of that Schedule has either required that another such meeting be arranged or has required a meeting with the appropriate person be arranged; [^key-095befe7408887d7ff74c0f93968026b]...
-- (e)[^key-095befe7408887d7ff74c0f93968026b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the child’s parent indicates that he or she wishes to make representations to the authority about the content of the statement under paragraph 4(1) of Schedule 27 after the expiry of the 15 day period for making such representations provided for in paragraph 4(4) of that Schedule; or[^c-84fd1e438856c3319d6d61c4397bd861]
+- (d) a meeting between the child’s parent and an officer of the authority has been held pursuant to paragraph 4(1) of Schedule 27 and the child’s parent under paragraph 4(2) of that Schedule has either required that another such meeting be arranged or has required a meeting with the appropriate person be arranged; [^c-095befe7408887d7ff74c0f93968026b]...
+- (e)[^c-095befe7408887d7ff74c0f93968026b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Where under paragraph 8(1) of Schedule 27 the child’s parent asks the authority to substitute for the name of a school or institution specified in a statement the name of another school specified by the parent and where the conditions referred to in paragraph 8(1)(b) of Schedule 27 have been satisfied the authority shall within 8 weeks of the date on which the request was received either—
 
@@ -413,7 +413,7 @@ A statement shall—
 (7) The authority need not comply with the time limit in paragraph (6) where—
 
 - (a) the amendment notice contained an amendment about the type or name of a school or institution or the provision made for the child concerned under arrangements made under section 319, and
-- (b) it is impractical to do so because any of the circumstances referred to in paragraph (4)(a) to (d)[^key-f3847a9ed2e619599909d0db476bbc9d] apply in relation to the eight week period referred to in paragraph (6).
+- (b) it is impractical to do so because any of the circumstances referred to in paragraph (4)(a) to (d)[^c-f3847a9ed2e619599909d0db476bbc9d] apply in relation to the eight week period referred to in paragraph (6).
 
 (8) Where under paragraph 11(1) of Schedule 27 an authority give notice to the child’s parent that they have determined to cease to maintain a statement they shall not cease to maintain the statement before the expiry of the prescribed period during which the parent may appeal to the Tribunal against the determination[^f00011].
 
@@ -422,7 +422,7 @@ A statement shall—
 - (a) the availability to the parent of arrangements for the prevention and resolution of disagreements between parents and authorities made by the authority under section 332B, and
 - (b) the fact that the arrangements made under section 332B cannot affect any right the parent has to appeal to the Tribunal and that the parent may appeal to the Tribunal and take up the arrangements made under section 332B.
 
-### 18. Reviews of statements[^key-d11aa9f03fa55880d18df7779e2da5dc]
+### 18. Reviews of statements[^c-d11aa9f03fa55880d18df7779e2da5dc]
 
 (1) Not less than two weeks before the first day of every school term an authority shall serve a notice on the head teacher of every school listing those pupils registered at that school—
 
@@ -435,7 +435,7 @@ A statement shall—
 - (b) a maintained nursery school,
 - (c) a pupil referral unit,
 - (d) a school approved by the National Assembly under section 342, or
-- (e) a City College for Technology and the Arts, a City Technology College or an Academy[^key-793aa14821e92271b93f40ff70dda919],
+- (e) a City College for Technology and the Arts, a City Technology College or an Academy[^c-793aa14821e92271b93f40ff70dda919],
 
 at which a pupil for whom the authority is responsible is a registered pupil.
 
@@ -456,15 +456,15 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 - (a) listing all the children for whom the authority is responsible and who will be in the tenth year of compulsory education in that school year, and
 - (b) indicating the school attended by each of those children or the educational provision made in respect of them.
 
-(6) Not less than two weeks before the first day of every school term an authority shall serve a notice on the health authority [^key-c5e2cbafd2ba0ddce8afa1a80e730100]...—
+(6) Not less than two weeks before the first day of every school term an authority shall serve a notice on the health authority [^c-c5e2cbafd2ba0ddce8afa1a80e730100]...—
 
 - (a) listing—
-  - (i) those children living in the area of the health authority [^key-242182287b0668afdc800b890a50b2f2]...;
+  - (i) those children living in the area of the health authority [^c-242182287b0668afdc800b890a50b2f2]...;
   - (ii) for whom the authority is responsible; and
   - (iii) whose annual reviews fall to be carried out before the commencement of the second term after the notice is given; and
 - (b) indicating the school attended by those children or the educational provision made in respect of them.
 
-### 19. Phase transfers[^key-539dd54fe01d5e01843e4b87bda07f21]
+### 19. Phase transfers[^c-539dd54fe01d5e01843e4b87bda07f21]
 
 (1) This regulation applies where—
 
@@ -480,7 +480,7 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 (3) Where this regulation applies an authority must ensure that the child’s statement is amended so that before 15th February in the calendar year of the child’s transfer the statement names the school or other institution which the child will be attending following that transfer.
 
-### 20. Review of statement of child attending school (other than a review in respect of a child in tenth year of compulsory education)[^key-f83511ea45d9d33e42830bd59e5bb10e]
+### 20. Review of statement of child attending school (other than a review in respect of a child in tenth year of compulsory education)[^c-f83511ea45d9d33e42830bd59e5bb10e]
 
 (1) This regulation applies where—
 
@@ -502,7 +502,7 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 - (a) the child’s progress towards meeting the objectives specified in the statement;
 - (b) the child’s progress towards attaining any targets established in furtherance of the objectives specified in the statement;
-- (c)[^key-6de8e82522af4c356ba1abfb32ff10df] where the school is a community, foundation or voluntary school or a community or foundation special school other than a special school established in a hospital, the application of the provisions of—
+- (c)[^c-6de8e82522af4c356ba1abfb32ff10df] where the school is a community, foundation or voluntary school or a community or foundation special school other than a special school established in a hospital, the application of the provisions of—
   - (i) the National Curriculum to the child, and the progress made in relation to those provisions by the child since the statement was made or the last review under section 328; or
   - (ii) the curriculum adopted or otherwise provided to the child under the 2021 Act and the progress made in relation to those provisions by the child, as assessed under arrangements made in regulations under section 56 of the 2021 Act since the statement was made or the last review under section 328;
 - (d) the application of any provisions substituted for the provisions of the National Curriculum in order to maintain a balanced and broadly based curriculum and the progress made in relation to those provisions by the child since the statement was made or the last review under section 328;
@@ -556,7 +556,7 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 (16) In this regulation “school” has the same meaning as in regulation 18.
 
-### 21. Review of statements where child in tenth year of compulsory education attends school[^key-47c2a7bf1db1384a01801822eb43b5c8]
+### 21. Review of statements where child in tenth year of compulsory education attends school[^c-47c2a7bf1db1384a01801822eb43b5c8]
 
 (1) This regulation applies where—
 
@@ -579,7 +579,7 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 - (a) the child’s progress towards meeting the objectives specified in the statement;
 - (b) the child’s progress towards attaining any targets established in furtherance of the objectives specified in the statement;
-- (c)[^key-54f7840ef73b01c27d32aa7eb8708094] where the school is a community, foundation or voluntary school or a community or foundation special school other than a special school established in a hospital, the application of the provisions of—
+- (c)[^c-54f7840ef73b01c27d32aa7eb8708094] where the school is a community, foundation or voluntary school or a community or foundation special school other than a special school established in a hospital, the application of the provisions of—
   - (i) the National Curriculum to the child, and the progress made in relation to those provisions by the child since the statement was made or the last review under section 328; or
   - (ii) the curriculum adopted or otherwise provided to the child under the 2021 Act and the progress made in relation to those provisions by the child, as assessed under arrangements made in regulations under section 56 of the 2021 Act since the statement was made or the last review under section 328;
 - (d) the application of any provisions substituted for the provisions of the National Curriculum in order to maintain a balanced and broadly based curriculum and the progress made in relation to the provisions by the child since the statement was made or the last review under section 328;
@@ -593,11 +593,11 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 - (a) the child’s parent;
 - (b) a member or members of the staff of the school who teach the child or who are otherwise responsible for the provision of education for the child whose attendance the head teacher considers appropriate;
-- (c)[^key-a2a70e9d7220d4f1789fd71a2c227231] two representatives of the authority of which one is to be a person employed or engaged by the authority in connection with their education functions and one is to be a social worker,
+- (c)[^c-a2a70e9d7220d4f1789fd71a2c227231] two representatives of the authority of which one is to be a person employed or engaged by the authority in connection with their education functions and one is to be a social worker,
 - (d) a representative of the Careers Service;
 - (e) any person whose attendance the head teacher considers appropriate;
 - (f) any person whose attendance the authority consider appropriate and who is specified in the notice; and
-- (g)[^key-9a7145db00488e5be7a311ca65ad578f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-9a7145db00488e5be7a311ca65ad578f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The head teacher shall not later than two weeks before the date on which the meeting referred to in paragraph (6) is to be held serve on all the persons invited to attend that meeting and who have not informed the head teacher that they will not be attending it copies of the advice received pursuant to the request under paragraph (4) and shall by written notice request the recipients to submit to him or her before or at the meeting written comments on that advice and any other advice which they think appropriate.
 
@@ -634,7 +634,7 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 (16) In this regulation “school” has the same meaning as in regulation 18.
 
-### 22. Review of statement where child does not attend school[^key-6bf95fd64ff8d1b17a62d248c45521f0]
+### 22. Review of statement where child does not attend school[^c-6bf95fd64ff8d1b17a62d248c45521f0]
 
 (1) This regulation applies where an authority review a statement under section 328 and the child concerned does not attend a school.
 
@@ -643,13 +643,13 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 (3) The authority shall invite the following persons to attend a meeting to be held on a date before the review referred to in paragraph (1) is required to be completed—
 
 - (a) the child’s parent;
-- (b) where the review referred to in paragraph (1) is the first review commenced after the child has begun the tenth year of compulsory education, a social worker[^key-20605db7ff1b1e3ef20b4ae7eaf62a75];
+- (b) where the review referred to in paragraph (1) is the first review commenced after the child has begun the tenth year of compulsory education, a social worker[^c-20605db7ff1b1e3ef20b4ae7eaf62a75];
 - (c) where sub-paragraph (b) applies, a representative of the Careers Service; and
 - (d) any person or persons whose attendance the authority consider appropriate.
 
 (4) The authority shall not later than two weeks before the date on which the meeting referred to in paragraph (3) is to be held send to all the persons invited to that meeting a copy of the report which they propose to make under paragraph (2) and by written notice accompanying the copies shall request the recipients to submit to the authority written comments on the report and any other advice which they think appropriate.
 
-(5) A representative of the authority who is a person employed or engaged by the authority in connection with its education functions[^key-b9a2a952cf3557e289e0d0c035f8e291] shall attend the meeting.
+(5) A representative of the authority who is a person employed or engaged by the authority in connection with its education functions[^c-b9a2a952cf3557e289e0d0c035f8e291] shall attend the meeting.
 
 (6) The meeting shall consider the matters referred to in regulation 20(5), and in any case where the review is commenced after the child has begun the tenth year of compulsory education, the matters referred to in regulation 20(5)(f), and shall make recommendations in accordance with regulation 20(9), and in any case where the child has begun the tenth year of compulsory education, recommendations as to the matters which it concludes ought to be included in a transition plan.
 
@@ -666,7 +666,7 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 (11) In this regulation “school” has the same meaning as in regulation 18.
 
-### 23. Transfer of statements[^key-ff63e8a250c443a3593432245c1a4540]
+### 23. Transfer of statements[^c-ff63e8a250c443a3593432245c1a4540]
 
 (1) This regulation applies where a child in respect of whom a statement is maintained moves from the area of the authority which maintains the statement ('the old authority') into that of another ('the new authority').
 
@@ -690,11 +690,11 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 (6) Where by virtue of the transfer the new authority come under a duty to arrange the child’s attendance at a school specified in the statement but in light of the child’s move that attendance is no longer practicable the new authority may arrange for the child’s attendance at another school appropriate for the child until such time as it is possible to amend the statement in accordance with the procedure set out in Schedule 27.
 
-(7) In this regulation “the new authority” shall include a local authority[^key-971658f858b55a8c51d6320f73bc9d64] in England for the purposes of paragraphs (1) and (2) only.
+(7) In this regulation “the new authority” shall include a local authority[^c-971658f858b55a8c51d6320f73bc9d64] in England for the purposes of paragraphs (1) and (2) only.
 
-(8) An authority to whom a statement is transferred from a local authority[^key-51b6a2f4b5adc76dc583256c3391436b] in England shall treat the statement as having been transferred by an old authority for the purposes of paragraphs (3) to (6).
+(8) An authority to whom a statement is transferred from a local authority[^c-51b6a2f4b5adc76dc583256c3391436b] in England shall treat the statement as having been transferred by an old authority for the purposes of paragraphs (3) to (6).
 
-### 24. Restriction on disclosure of statements[^key-d6831beb2e5ab31280fb0c139c902c20]
+### 24. Restriction on disclosure of statements[^c-d6831beb2e5ab31280fb0c139c902c20]
 
 (1) Subject to the provisions of the Act and of these Regulations, a statement in respect of a child shall not be disclosed without the child’s consent except—
 
@@ -704,8 +704,8 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 - (d) on the order of any court or for the purposes of any criminal proceedings;
 - (e) for the purposes of any investigation under Part III of the Local Government Act 1974[^f00012] (investigation of maladministration);
 - (f) to the National Assembly when it requests such disclosure for the purposes of deciding whether to give directions or make an order under section 496, 497 or 497A of the Act;
-- (g) for the purposes of an assessment of the needs of the child with respect to the provision of any statutory services for the child being carried out by officers of a local authority[^key-d801eddf8156762e1ad6df2af1898671] by virtue of arrangements made under section 5(5) of the Disabled Persons (Services, Consultation and Representation) Act 1986[^f00013];
-- (h)[^key-7658d496301f8a6467acd9c6df3e792e] for the purposes of a local authority in the performance of their duties under sections 78(1)(a), 120(5)(a) and 121(3)(a) of the Social Services and Well-being (Wales) Act 2014 and section 87(3) of the Children Act 1989;
+- (g) for the purposes of an assessment of the needs of the child with respect to the provision of any statutory services for the child being carried out by officers of a local authority[^c-d801eddf8156762e1ad6df2af1898671] by virtue of arrangements made under section 5(5) of the Disabled Persons (Services, Consultation and Representation) Act 1986[^f00013];
+- (h)[^c-7658d496301f8a6467acd9c6df3e792e] for the purposes of a local authority in the performance of their duties under sections 78(1)(a), 120(5)(a) and 121(3)(a) of the Social Services and Well-being (Wales) Act 2014 and section 87(3) of the Children Act 1989;
 - (i) to Her Majesty’s Chief Inspector of Education and Training in Wales, one of Her Majesty’s Inspectors of Education and Training in Wales, or to a registered inspector or a member of an inspection team, who requests the right to inspect or take copies of a statement in accordance with section 2(8) or 3(3) of or paragraph 7 of Schedule 2 to the School Inspections Act 1996[^f00015] respectively;
 - (j) to the Careers Service for the purposes of writing or amending a transition plan; or
 - (k) to a Young Offender Institution for the purposes of the performance of its duties under Rule 38 of the Young Offender Institution Rules 2000[^f00016].
@@ -720,11 +720,11 @@ at which a pupil for whom the authority is responsible is a registered pupil.
 
 ## PART IV — REVOCATION AND TRANSITIONAL PROVISIONS
 
-### 25. Revocation of the 1994 Regulations[^key-04f78107d42afe7e28605951ef3fe5a0]
+### 25. Revocation of the 1994 Regulations[^c-04f78107d42afe7e28605951ef3fe5a0]
 
 Subject to regulation 26, the 1994 Regulations are hereby revoked.
 
-### 26. Transitional provisions[^key-a094df207ea011509772e087fc771b9c]
+### 26. Transitional provisions[^c-a094df207ea011509772e087fc771b9c]
 
 (1) Subject to the following provisions of this regulation references in these Regulations to anything done under these Regulations shall be read in relation to the times, circumstances or purposes in relation to which a corresponding provision of the 1994 Regulations had effect and so far as the nature of the reference permits as including a reference to that corresponding provision.
 
@@ -766,11 +766,11 @@ The Presiding Officer of the National Assembly
 
 Regulation 14
 
-### Part A — Notice to parent[^key-6af853e3434109cb921018c223f7b54c][^key-143d6569883150347c3d420bdd48640a]
+### Part A — Notice to parent[^c-6af853e3434109cb921018c223f7b54c][^c-143d6569883150347c3d420bdd48640a]
 
 [image: see source](https://www.legislation.gov.uk/wsi/2002/152/images/wsi_20020152_en_001) [image: see source](https://www.legislation.gov.uk/wsi/2002/152/images/wsi_20020152_en_002) [image: see source](https://www.legislation.gov.uk/wsi/2002/152/images/wsi_20020152_en_003)
 
-### PART B[^key-012d877b3c659f8a878eec6ec09f8397][^key-dbde84ef7381d23cf48fa9c848b34d5d]
+### PART B[^c-012d877b3c659f8a878eec6ec09f8397][^c-dbde84ef7381d23cf48fa9c848b34d5d]
 
 Regulation 15
 
@@ -780,27 +780,27 @@ Regulation 15
 
 Regulation 16
 
-### PART 1: — INTRODUCTION[^key-c3a138f8b28fc5250bfa38e42ee848fd][^key-44498ec547889e0ccd37ffb09b9c8d43]
+### PART 1: — INTRODUCTION[^c-c3a138f8b28fc5250bfa38e42ee848fd][^c-44498ec547889e0ccd37ffb09b9c8d43]
 
 [image: see source](https://www.legislation.gov.uk/wsi/2002/152/images/wsi_20020152_en_007) [image: see source](https://www.legislation.gov.uk/wsi/2002/152/images/wsi_20020152_en_008)
 
-### PART 2: — SPECIAL EDUCATIONAL NEEDS[^key-219b308eadde6cb4ab153609b474c92e]
+### PART 2: — SPECIAL EDUCATIONAL NEEDS[^c-219b308eadde6cb4ab153609b474c92e]
 
 [image: see source](https://www.legislation.gov.uk/wsi/2002/152/images/wsi_20020152_en_009)
 
-### PART 3: — SPECIAL EDUCATIONAL PROVISION[^key-03597c890b14068b5ef1356a8c2d6980]
+### PART 3: — SPECIAL EDUCATIONAL PROVISION[^c-03597c890b14068b5ef1356a8c2d6980]
 
 [image: see source](https://www.legislation.gov.uk/wsi/2002/152/images/wsi_20020152_en_010)
 
-### PART 4: — PLACEMENT[^key-8dcd1b2a8f530a4bbf1e23a966a73ca9]
+### PART 4: — PLACEMENT[^c-8dcd1b2a8f530a4bbf1e23a966a73ca9]
 
 [image: see source](https://www.legislation.gov.uk/wsi/2002/152/images/wsi_20020152_en_011)
 
-### PART 5: — NON-EDUCATIONAL NEEDS[^key-0686f406796a8ea9752d05b88ae5e5f4]
+### PART 5: — NON-EDUCATIONAL NEEDS[^c-0686f406796a8ea9752d05b88ae5e5f4]
 
 [image: see source](https://www.legislation.gov.uk/wsi/2002/152/images/wsi_20020152_en_012)
 
-### PART 6: — NON-EDUCATIONAL PROVISION[^key-7b82e112b03180af0fdff0bb1a9b4b0c][^key-586b0b8a93fd201cad76ddc19128b242]
+### PART 6: — NON-EDUCATIONAL PROVISION[^c-7b82e112b03180af0fdff0bb1a9b4b0c][^c-586b0b8a93fd201cad76ddc19128b242]
 
 [image: see source](https://www.legislation.gov.uk/wsi/2002/152/images/wsi_20020152_en_013)
 
@@ -834,23 +834,23 @@ Provision is made from the transition from the regime imposed by the 1994 Regula
 
 [^f00002]: Footnote: *See* the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-76d3ee97969a9a289b1f0d8f35ed2f8a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2002/152/regulation/1) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-76d3ee97969a9a289b1f0d8f35ed2f8a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2002/152/regulation/1) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-db6b9719fc1522cbe631838122f523d8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2002/152/regulation/2) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-db6b9719fc1522cbe631838122f523d8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2002/152/regulation/2) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-b708b14c3b79f2de5c3f4e1520ecf109]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2002/152/regulation/2) inserted (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/6/2)
+[^c-b708b14c3b79f2de5c3f4e1520ecf109]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2002/152/regulation/2) inserted (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/6/2)
 
-[^key-a4a5d5b902ddd5e3a2ae60cabf712724]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2002/152/regulation/2/1) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(2)(a)(i)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/2/a/i)
+[^c-a4a5d5b902ddd5e3a2ae60cabf712724]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2002/152/regulation/2/1) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(2)(a)(i)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/2/a/i)
 
 [^f00003]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50). Sections 8, 9 and 10 were substituted by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19), section 45.
 
 [^f00004]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49). Amended by the Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17) and the Health Act [1999 (c. 32)](https://www.legislation.gov.uk/ukpga/1999/32).
 
-[^key-83e81159d3e6d64d59a0edba9277d082]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2002/152/regulation/2/1) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/2/a/ii)
+[^c-83e81159d3e6d64d59a0edba9277d082]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2002/152/regulation/2/1) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/2/a/ii)
 
 [^f00005]: Footnote: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42). Section 1A was inserted by the Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), s102(3).
 
-[^key-bc34c1fa0d1fd04fe1ccd641d26affde]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2002/152/regulation/2/1) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(2)(a)(iii)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/2/a/iii)
+[^c-bc34c1fa0d1fd04fe1ccd641d26affde]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2002/152/regulation/2/1) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(2)(a)(iii)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/2/a/iii)
 
 [^f00006]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
@@ -860,148 +860,148 @@ Provision is made from the transition from the regime imposed by the 1994 Regula
 
 [^f00009]: Footnote: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52).
 
-[^key-84bcd1d7ae3f5f34a8c8be1c0c9bfb4c]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/wsi/2002/152/regulation/2/3) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(2)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/2/b)
+[^c-84bcd1d7ae3f5f34a8c8be1c0c9bfb4c]: Textual amendment: Words in [reg. 2(3)](https://www.legislation.gov.uk/wsi/2002/152/regulation/2/3) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(2)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/2/b)
 
-[^key-82f56d02cb7c5b67a554e7713b110d77]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2002/152/regulation/3) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-82f56d02cb7c5b67a554e7713b110d77]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2002/152/regulation/3) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-2fbd948aa5567bba841e6e011fcfbe0d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2002/152/regulation/4) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-2fbd948aa5567bba841e6e011fcfbe0d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2002/152/regulation/4) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-80a18f6b6531f49e1379a30415b105f2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2002/152/regulation/5) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-80a18f6b6531f49e1379a30415b105f2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2002/152/regulation/5) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-507ede2b14456b7b0df0828cbd03f795]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2002/152/regulation/6) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-507ede2b14456b7b0df0828cbd03f795]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2002/152/regulation/6) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-4a522498bd343f795db19d64cb23aa7e]: Textual amendment: [Reg. 6(2)(a)](https://www.legislation.gov.uk/wsi/2002/152/regulation/6/2/a) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(3)(a)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/3/a)
+[^c-4a522498bd343f795db19d64cb23aa7e]: Textual amendment: [Reg. 6(2)(a)](https://www.legislation.gov.uk/wsi/2002/152/regulation/6/2/a) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(3)(a)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/3/a)
 
-[^key-9ae503bd169f24b47668092afb315241]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/wsi/2002/152/regulation/6/4) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(3)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/3/b)
+[^c-9ae503bd169f24b47668092afb315241]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/wsi/2002/152/regulation/6/4) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(3)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/3/b)
 
-[^key-e69e4478c20e1d3096db5882dbee55a7]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/wsi/2002/152/regulation/6/5) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(3)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/3/b)
+[^c-e69e4478c20e1d3096db5882dbee55a7]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/wsi/2002/152/regulation/6/5) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(3)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/3/b)
 
-[^key-ba578b9ddb08c949c7a8e9ba8b50ec1a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2002/152/regulation/7) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-ba578b9ddb08c949c7a8e9ba8b50ec1a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2002/152/regulation/7) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-19ae8b88b1b7544646fe89067ecd8535]: Textual amendment: [Reg. 7(1)(e)](https://www.legislation.gov.uk/wsi/2002/152/regulation/7/1/e) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/4)
+[^c-19ae8b88b1b7544646fe89067ecd8535]: Textual amendment: [Reg. 7(1)(e)](https://www.legislation.gov.uk/wsi/2002/152/regulation/7/1/e) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/4)
 
-[^key-5739564cf846a636250112bd69cb423c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2002/152/regulation/8) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-5739564cf846a636250112bd69cb423c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2002/152/regulation/8) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-64f48b74c55c13cd72c01275431dffc6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2002/152/regulation/9) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-64f48b74c55c13cd72c01275431dffc6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2002/152/regulation/9) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-46c610a46c6370a741920ded15879d17]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/wsi/2002/152/regulation/9) inserted (16.11.2009 as notified in the London Gazette dated 21.8.2004) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/3), [Sch. 1 para. 51(1)](https://www.legislation.gov.uk/uksi/2002/3135/schedule/1/paragraph/51/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
+[^c-46c610a46c6370a741920ded15879d17]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/wsi/2002/152/regulation/9) inserted (16.11.2009 as notified in the London Gazette dated 21.8.2004) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/3), [Sch. 1 para. 51(1)](https://www.legislation.gov.uk/uksi/2002/3135/schedule/1/paragraph/51/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
 
-[^key-1a288bb7c0ccb543d5a953d50f30abcb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2002/152/regulation/10) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-1a288bb7c0ccb543d5a953d50f30abcb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2002/152/regulation/10) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-b9d917f5410856771f8a792197182938]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2002/152/regulation/11) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-b9d917f5410856771f8a792197182938]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2002/152/regulation/11) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-f868a4090166b593b768695cfa5d8ce7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2002/152/regulation/12) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-f868a4090166b593b768695cfa5d8ce7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2002/152/regulation/12) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-a9c8ed8646ba3b9649b08095eab69a83]: Textual amendment: Words in [reg. 12(7)(e)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/7/e) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(5)(a)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/5/a)
+[^c-a9c8ed8646ba3b9649b08095eab69a83]: Textual amendment: Words in [reg. 12(7)(e)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/7/e) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(5)(a)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/5/a)
 
-[^key-6fb37499f9afb2c0f714f359eac512be]: Textual amendment: [Reg. 12(7)(i)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/7/i) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(5)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/5/b)
+[^c-6fb37499f9afb2c0f714f359eac512be]: Textual amendment: [Reg. 12(7)(i)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/7/i) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(5)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/5/b)
 
 [^M_F_6c48ddc4-4dad-4ca7-90a5-fc75e3ae3025]: Textual amendment: Reg. 12(7A) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(5)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/5/b)
 
-[^key-3f3bd5af8da19fdad7e3b5a230441644]: Textual amendment: Words in [reg. 12(7A)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/7A) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 40](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/40)
+[^c-3f3bd5af8da19fdad7e3b5a230441644]: Textual amendment: Words in [reg. 12(7A)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/7A) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 40](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/40)
 
-[^key-866242c5eb009c652cbceb8cb5214337]: Textual amendment: Words in [reg. 12(8)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/8) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(5)(c)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/5/c)
+[^c-866242c5eb009c652cbceb8cb5214337]: Textual amendment: Words in [reg. 12(8)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/8) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(5)(c)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/5/c)
 
-[^key-28bcd935dc0bf21b2b800d1865187068]: Textual amendment: Words in [reg. 12(8)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/8) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(5)(c)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/5/c)
+[^c-28bcd935dc0bf21b2b800d1865187068]: Textual amendment: Words in [reg. 12(8)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/8) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(5)(c)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/5/c)
 
-[^key-1587d684dda41900de3de2cb015901ae]: Textual amendment: Words in [reg. 12(9)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/9) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(5)(d)(i)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/5/d/i)
+[^c-1587d684dda41900de3de2cb015901ae]: Textual amendment: Words in [reg. 12(9)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/9) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(5)(d)(i)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/5/d/i)
 
-[^key-960fc73f278f82997ca4089b06f6a97a]: Textual amendment: Words in [reg. 12(9)(c)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/9/c) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(5)(d)(ii)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/5/d/ii)
+[^c-960fc73f278f82997ca4089b06f6a97a]: Textual amendment: Words in [reg. 12(9)(c)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/9/c) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(5)(d)(ii)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/5/d/ii)
 
-[^key-2062bbb1b3b13a2db17e242ae025d2ff]: Textual amendment: [Reg. 12(11)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/11) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(5)(e)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/5/e)
+[^c-2062bbb1b3b13a2db17e242ae025d2ff]: Textual amendment: [Reg. 12(11)](https://www.legislation.gov.uk/wsi/2002/152/regulation/12/11) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(5)(e)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/5/e)
 
-[^key-160cf328a89bc42f5cc98cb0bf472d2b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2002/152/regulation/13) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-160cf328a89bc42f5cc98cb0bf472d2b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2002/152/regulation/13) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
 [^f00010]: Footnote: Once a statement has been made for a child that statement will determine whether the child will be educated in a special school or elsewhere.
 
-[^key-ab35745ac0a4280dabbcf8f416eb95f7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2002/152/regulation/14) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-ab35745ac0a4280dabbcf8f416eb95f7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2002/152/regulation/14) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-37b9fe18fba37cc4d52cb2c1246ad188]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2002/152/regulation/15) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-37b9fe18fba37cc4d52cb2c1246ad188]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2002/152/regulation/15) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-3e9540913067f943fba4f745dd6be533]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2002/152/regulation/16) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-3e9540913067f943fba4f745dd6be533]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2002/152/regulation/16) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-09d012c5c3057e5a3e57403a570c37a6]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2002/152/regulation/17) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-09d012c5c3057e5a3e57403a570c37a6]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2002/152/regulation/17) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-84fd1e438856c3319d6d61c4397bd861]: Textual amendment: Word in [reg. 17(4)](https://www.legislation.gov.uk/wsi/2002/152/regulation/17/4) inserted (14.9.2022) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2022/913/regulation/2/2/a)
+[^c-84fd1e438856c3319d6d61c4397bd861]: Textual amendment: Word in [reg. 17(4)](https://www.legislation.gov.uk/wsi/2002/152/regulation/17/4) inserted (14.9.2022) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/wsi/2022/913/regulation/2/2/a)
 
-[^key-095befe7408887d7ff74c0f93968026b]: Textual amendment: [Reg. 17(4)(e)](https://www.legislation.gov.uk/wsi/2002/152/regulation/17/4/e) and word omitted (14.9.2022) by virtue of [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2022/913/regulation/2/2/b)
+[^c-095befe7408887d7ff74c0f93968026b]: Textual amendment: [Reg. 17(4)(e)](https://www.legislation.gov.uk/wsi/2002/152/regulation/17/4/e) and word omitted (14.9.2022) by virtue of [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2022/913/regulation/2/2/b)
 
-[^key-f3847a9ed2e619599909d0db476bbc9d]: Textual amendment: Word in [reg. 17(7)(b)](https://www.legislation.gov.uk/wsi/2002/152/regulation/17/7/b) substituted (14.9.2022) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2022/913/regulation/2/3)
+[^c-f3847a9ed2e619599909d0db476bbc9d]: Textual amendment: Word in [reg. 17(7)(b)](https://www.legislation.gov.uk/wsi/2002/152/regulation/17/7/b) substituted (14.9.2022) by [The Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/913)](https://www.legislation.gov.uk/wsi/2022/913), [regs. 1](https://www.legislation.gov.uk/wsi/2022/913/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2022/913/regulation/2/3)
 
 [^f00011]: Footnote: The Special Educational Needs Tribunal Regulations 2001 (S.I. [2001/600](https://www.legislation.gov.uk/uksi/2001/600)) provide that an appeal must be made no later than the first working day after the expiry of two months from when the authority notify a parent of the right of appeal. Under paragraph 11(5) of Schedule 27 to the Education Act 1996 a local authority may not cease to maintain a statement if a parent has appealed against the authority’s determination to cease to maintain a statement and that appeal has not been determined by the tribunal or withdrawn.
 
-[^key-d11aa9f03fa55880d18df7779e2da5dc]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2002/152/regulation/18) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-d11aa9f03fa55880d18df7779e2da5dc]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2002/152/regulation/18) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-793aa14821e92271b93f40ff70dda919]: Textual amendment: Words in [reg. 18(2)(e)](https://www.legislation.gov.uk/wsi/2002/152/regulation/18/2/e) substituted (31.7.2003) by [The Education Act 2002 (Transitional Provisions and Consequential Amendments) (Wales) Regulations 2003 (S.I. 2003/1717)](https://www.legislation.gov.uk/wsi/2003/1717), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2003/1717/regulation/1/1), [7(2)](https://www.legislation.gov.uk/wsi/2003/1717/regulation/7/2)
+[^c-793aa14821e92271b93f40ff70dda919]: Textual amendment: Words in [reg. 18(2)(e)](https://www.legislation.gov.uk/wsi/2002/152/regulation/18/2/e) substituted (31.7.2003) by [The Education Act 2002 (Transitional Provisions and Consequential Amendments) (Wales) Regulations 2003 (S.I. 2003/1717)](https://www.legislation.gov.uk/wsi/2003/1717), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2003/1717/regulation/1/1), [7(2)](https://www.legislation.gov.uk/wsi/2003/1717/regulation/7/2)
 
-[^key-c5e2cbafd2ba0ddce8afa1a80e730100]: Textual amendment: Words in [reg. 18(6)](https://www.legislation.gov.uk/wsi/2002/152/regulation/18/6) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(6)(a)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/6/a)
+[^c-c5e2cbafd2ba0ddce8afa1a80e730100]: Textual amendment: Words in [reg. 18(6)](https://www.legislation.gov.uk/wsi/2002/152/regulation/18/6) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(6)(a)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/6/a)
 
-[^key-242182287b0668afdc800b890a50b2f2]: Textual amendment: Words in [reg. 18(6)(a)(i)](https://www.legislation.gov.uk/wsi/2002/152/regulation/18/6/a/i) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(6)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/6/b)
+[^c-242182287b0668afdc800b890a50b2f2]: Textual amendment: Words in [reg. 18(6)(a)(i)](https://www.legislation.gov.uk/wsi/2002/152/regulation/18/6/a/i) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(6)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/6/b)
 
-[^key-539dd54fe01d5e01843e4b87bda07f21]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2002/152/regulation/19) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-539dd54fe01d5e01843e4b87bda07f21]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2002/152/regulation/19) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-f83511ea45d9d33e42830bd59e5bb10e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2002/152/regulation/20) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-f83511ea45d9d33e42830bd59e5bb10e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2002/152/regulation/20) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-6de8e82522af4c356ba1abfb32ff10df]: Textual amendment: [Reg. 20(5)(c)](https://www.legislation.gov.uk/wsi/2002/152/regulation/20/5/c) substituted (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/6/3)
+[^c-6de8e82522af4c356ba1abfb32ff10df]: Textual amendment: [Reg. 20(5)(c)](https://www.legislation.gov.uk/wsi/2002/152/regulation/20/5/c) substituted (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/6/3)
 
-[^key-47c2a7bf1db1384a01801822eb43b5c8]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2002/152/regulation/21) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-47c2a7bf1db1384a01801822eb43b5c8]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2002/152/regulation/21) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-54f7840ef73b01c27d32aa7eb8708094]: Textual amendment: [Reg. 21(5)(c)](https://www.legislation.gov.uk/wsi/2002/152/regulation/21/5/c) substituted (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/6/3)
+[^c-54f7840ef73b01c27d32aa7eb8708094]: Textual amendment: [Reg. 21(5)(c)](https://www.legislation.gov.uk/wsi/2002/152/regulation/21/5/c) substituted (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/6/3)
 
-[^key-a2a70e9d7220d4f1789fd71a2c227231]: Textual amendment: [Reg. 21(6)(c)](https://www.legislation.gov.uk/wsi/2002/152/regulation/21/6/c) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(7)(a)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/7/a)
+[^c-a2a70e9d7220d4f1789fd71a2c227231]: Textual amendment: [Reg. 21(6)(c)](https://www.legislation.gov.uk/wsi/2002/152/regulation/21/6/c) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(7)(a)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/7/a)
 
-[^key-9a7145db00488e5be7a311ca65ad578f]: Textual amendment: [Reg. 21(6)(g)](https://www.legislation.gov.uk/wsi/2002/152/regulation/21/6/g) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(7)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/7/b)
+[^c-9a7145db00488e5be7a311ca65ad578f]: Textual amendment: [Reg. 21(6)(g)](https://www.legislation.gov.uk/wsi/2002/152/regulation/21/6/g) omitted (5.5.2010) by virtue of [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(7)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/7/b)
 
-[^key-6bf95fd64ff8d1b17a62d248c45521f0]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2002/152/regulation/22) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-6bf95fd64ff8d1b17a62d248c45521f0]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2002/152/regulation/22) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-20605db7ff1b1e3ef20b4ae7eaf62a75]: Textual amendment: Words in [reg. 22(3)(b)](https://www.legislation.gov.uk/wsi/2002/152/regulation/22/3/b) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(8)(a)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/8/a)
+[^c-20605db7ff1b1e3ef20b4ae7eaf62a75]: Textual amendment: Words in [reg. 22(3)(b)](https://www.legislation.gov.uk/wsi/2002/152/regulation/22/3/b) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(8)(a)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/8/a)
 
-[^key-b9a2a952cf3557e289e0d0c035f8e291]: Textual amendment: Words in [reg. 22(5)](https://www.legislation.gov.uk/wsi/2002/152/regulation/22/5) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(8)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/8/b)
+[^c-b9a2a952cf3557e289e0d0c035f8e291]: Textual amendment: Words in [reg. 22(5)](https://www.legislation.gov.uk/wsi/2002/152/regulation/22/5) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(8)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/8/b)
 
-[^key-ff63e8a250c443a3593432245c1a4540]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2002/152/regulation/23) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-ff63e8a250c443a3593432245c1a4540]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2002/152/regulation/23) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-971658f858b55a8c51d6320f73bc9d64]: Textual amendment: Words in [reg. 23(7)](https://www.legislation.gov.uk/wsi/2002/152/regulation/23/7) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(9)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/9)
+[^c-971658f858b55a8c51d6320f73bc9d64]: Textual amendment: Words in [reg. 23(7)](https://www.legislation.gov.uk/wsi/2002/152/regulation/23/7) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(9)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/9)
 
-[^key-51b6a2f4b5adc76dc583256c3391436b]: Textual amendment: Words in [reg. 23(8)](https://www.legislation.gov.uk/wsi/2002/152/regulation/23/8) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(9)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/9)
+[^c-51b6a2f4b5adc76dc583256c3391436b]: Textual amendment: Words in [reg. 23(8)](https://www.legislation.gov.uk/wsi/2002/152/regulation/23/8) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(9)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/9)
 
-[^key-d6831beb2e5ab31280fb0c139c902c20]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2002/152/regulation/24) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-d6831beb2e5ab31280fb0c139c902c20]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2002/152/regulation/24) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
 [^f00012]: Footnote: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
-[^key-d801eddf8156762e1ad6df2af1898671]: Textual amendment: Words in [reg. 24(1)(g)](https://www.legislation.gov.uk/wsi/2002/152/regulation/24/1/g) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(10)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/10)
+[^c-d801eddf8156762e1ad6df2af1898671]: Textual amendment: Words in [reg. 24(1)(g)](https://www.legislation.gov.uk/wsi/2002/152/regulation/24/1/g) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(10)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/10)
 
 [^f00013]: Footnote: [1986 c. 33](https://www.legislation.gov.uk/ukpga/1986/33); section 5 is amended by the Special Education Needs and Disability Act 2001, paragraphs 16 to 18 of Schedule 8.
 
-[^key-7658d496301f8a6467acd9c6df3e792e]: Textual amendment: [Reg. 24(1)(h)](https://www.legislation.gov.uk/wsi/2002/152/regulation/24/1/h) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 41](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/41)
+[^c-7658d496301f8a6467acd9c6df3e792e]: Textual amendment: [Reg. 24(1)(h)](https://www.legislation.gov.uk/wsi/2002/152/regulation/24/1/h) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 41](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/41)
 
 [^f00015]: Footnote: [1996 c. 57](https://www.legislation.gov.uk/ukpga/1996/57); section 2(8) is amended by the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44), section 42 and Schedule 6, and paragraph 7 of Schedule 3 is amended by the Education Act 1997, section 42 and Schedule 6, paragraph 12.
 
 [^f00016]: Footnote: S.I. [2000/3371](https://www.legislation.gov.uk/uksi/2000/3371).
 
-[^key-04f78107d42afe7e28605951ef3fe5a0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2002/152/regulation/25) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-04f78107d42afe7e28605951ef3fe5a0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2002/152/regulation/25) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-a094df207ea011509772e087fc771b9c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2002/152/regulation/26) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-a094df207ea011509772e087fc771b9c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2002/152/regulation/26) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-6af853e3434109cb921018c223f7b54c]: Commencement: [Sch. 1 Pt. A](https://www.legislation.gov.uk/wsi/2002/152/schedule/1/part/A) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-6af853e3434109cb921018c223f7b54c]: Commencement: [Sch. 1 Pt. A](https://www.legislation.gov.uk/wsi/2002/152/schedule/1/part/A) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-143d6569883150347c3d420bdd48640a]: Textual amendment: [Sch. 1 Pt. A](https://www.legislation.gov.uk/wsi/2002/152/schedule/1/part/A): the words “maintained (local authority) school including a local authority maintained special school” are substituted for “maintained (LEA) school, including an LEA maintained special school” (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(11)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/11)
+[^c-143d6569883150347c3d420bdd48640a]: Textual amendment: [Sch. 1 Pt. A](https://www.legislation.gov.uk/wsi/2002/152/schedule/1/part/A): the words “maintained (local authority) school including a local authority maintained special school” are substituted for “maintained (LEA) school, including an LEA maintained special school” (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(11)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/11)
 
-[^key-012d877b3c659f8a878eec6ec09f8397]: Commencement: [Sch. 1 Pt. B](https://www.legislation.gov.uk/wsi/2002/152/schedule/1/part/B) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-012d877b3c659f8a878eec6ec09f8397]: Commencement: [Sch. 1 Pt. B](https://www.legislation.gov.uk/wsi/2002/152/schedule/1/part/B) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-dbde84ef7381d23cf48fa9c848b34d5d]: Textual amendment: Words in [Sch. 1 Pt. B](https://www.legislation.gov.uk/wsi/2002/152/schedule/1/part/B): the words “maintained (local authority) school including a local authority maintained special school” are substituted for “maintained (LEA) school, including an LEA maintained special school” (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(11)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/11)
+[^c-dbde84ef7381d23cf48fa9c848b34d5d]: Textual amendment: Words in [Sch. 1 Pt. B](https://www.legislation.gov.uk/wsi/2002/152/schedule/1/part/B): the words “maintained (local authority) school including a local authority maintained special school” are substituted for “maintained (LEA) school, including an LEA maintained special school” (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(11)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/11)
 
-[^key-c3a138f8b28fc5250bfa38e42ee848fd]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/1) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-c3a138f8b28fc5250bfa38e42ee848fd]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/1) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-44498ec547889e0ccd37ffb09b9c8d43]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/1/paragraph/2): in para. 2 the words “Social Work Advice” are substituted for “Advice for Social Services Authority” (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(12)(a)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/12/a)
+[^c-44498ec547889e0ccd37ffb09b9c8d43]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/1/paragraph/2): in para. 2 the words “Social Work Advice” are substituted for “Advice for Social Services Authority” (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(12)(a)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/12/a)
 
-[^key-219b308eadde6cb4ab153609b474c92e]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/2) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-219b308eadde6cb4ab153609b474c92e]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/2) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-03597c890b14068b5ef1356a8c2d6980]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/3) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-03597c890b14068b5ef1356a8c2d6980]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/3) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-8dcd1b2a8f530a4bbf1e23a966a73ca9]: Commencement: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/4) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-8dcd1b2a8f530a4bbf1e23a966a73ca9]: Commencement: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/4) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-0686f406796a8ea9752d05b88ae5e5f4]: Commencement: [Sch. 2 Pt. 5](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/5) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-0686f406796a8ea9752d05b88ae5e5f4]: Commencement: [Sch. 2 Pt. 5](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/5) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-7b82e112b03180af0fdff0bb1a9b4b0c]: Commencement: [Sch. 2 Pt. 6](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/6) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
+[^c-7b82e112b03180af0fdff0bb1a9b4b0c]: Commencement: [Sch. 2 Pt. 6](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/6) in force at 1.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/152/regulation/1/2)
 
-[^key-586b0b8a93fd201cad76ddc19128b242]: Textual amendment: [Sch. 2 Pt. 6 Appendix E](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/6/appendix/E) heading: the words “the Social Worker” are substituted for “the Social Services Authority” (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(12)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/12/b)
+[^c-586b0b8a93fd201cad76ddc19128b242]: Textual amendment: [Sch. 2 Pt. 6 Appendix E](https://www.legislation.gov.uk/wsi/2002/152/schedule/2/part/6/appendix/E) heading: the words “the Social Worker” are substituted for “the Social Services Authority” (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 8(12)(b)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/8/12/b)

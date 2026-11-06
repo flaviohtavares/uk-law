@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 196. Application of Chapter[^key-70248a5467043b634d4be0a05b3240f2]
+## 196. Application of Chapter[^c-70248a5467043b634d4be0a05b3240f2]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ which are required to be served by any provision of the Regulations or these Rul
 
 ## Annotations
 
-[^key-70248a5467043b634d4be0a05b3240f2]: Commencement: Rule 196 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-70248a5467043b634d4be0a05b3240f2]: Commencement: Rule 196 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

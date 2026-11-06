@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Spreading of relief[^key-434c469d4fecdd251e8fc9a4f58711d5][^key-09555aaaf55c6c68857928aa06047912]
+## 197. Spreading of relief[^c-434c469d4fecdd251e8fc9a4f58711d5][^c-09555aaaf55c6c68857928aa06047912]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,14 +25,14 @@ summary: ''
 - (a) contributions are paid by an employer under a registered pension scheme in two consecutive chargeable periods (“**the previous chargeable period**” and “**the current chargeable period**”), and
 - (b) the amount of the contributions paid in the current chargeable period otherwise than for an excepted purpose (“CCCP”) exceeds 210% of the amount of the contributions paid in the previous chargeable period (“CPCP”).
 
-(2) Relief under the relieving provisions[^key-83df725ca2c564a4f41973030f3efabc] is to be given in respect of so much of CCCP as exceeds 110% of CPCP (“the amount of the relevant excess contributions”) in accordance with subsections (4) and (5).
+(2) Relief under the relieving provisions[^c-83df725ca2c564a4f41973030f3efabc] is to be given in respect of so much of CCCP as exceeds 110% of CPCP (“the amount of the relevant excess contributions”) in accordance with subsections (4) and (5).
 
 (3) But subsection (2)—
 
 - (a) does not apply if the amount of the relevant excess contributions is less than £500,000, and
 - (b) has effect subject to section 198 (cessation of business).
 
-(4) A fraction of the whole of the amount of the relevant excess contributions is to be treated for the purposes of the relieving provisions[^key-f441b5ae9b9f2eca12b6920815f4ba15] as if it had been paid in the chargeable period, or in each of the two or three chargeable periods, immediately after the current chargeable period (leaving only the remainder to be treated as paid in the current chargeable period).
+(4) A fraction of the whole of the amount of the relevant excess contributions is to be treated for the purposes of the relieving provisions[^c-f441b5ae9b9f2eca12b6920815f4ba15] as if it had been paid in the chargeable period, or in each of the two or three chargeable periods, immediately after the current chargeable period (leaving only the remainder to be treated as paid in the current chargeable period).
 
 (5) The following table specifies (by reference to the amount of the relevant excess contributions)—
 
@@ -64,29 +64,29 @@ DCCP is the number of days in the current chargeable period, and
 
 DPCP is the number of days in the previous chargeable period.
 
-(9A)[^key-c8fa343b5c36940daee4157c29b8cb8a] In this section “**the relieving provisions**” means the provisions mentioned in subsections (2) to (4) of section 196 (relief for employers in respect of contributions paid), as they have effect under that section.
+(9A)[^c-c8fa343b5c36940daee4157c29b8cb8a] In this section “**the relieving provisions**” means the provisions mentioned in subsections (2) to (4) of section 196 (relief for employers in respect of contributions paid), as they have effect under that section.
 
 (10) In this section “**chargeable period**” means—
 
-- (a) in a case where the contributions are deducted in computing profits to be charged under Part 2 of[^key-82a12a6cb1dcf40a090db634c56c634a] ITTOIA 2005 or Part 3 of CTA 2009 (trading income),[^key-f7906ae0f13ceb5c86c32a319d86e228] a period of account, and
-- (b) in a case where relief in respect of the contributions is given under section 76 of FA 2012[^key-2ce550f55ee04fa12b6713fd4381fb45][^key-677e893e404612176098ab01887d75bc] (expenses of insurance companies) or Chapter 2 of Part 16 of CTA 2009 (expenses of management: companies with investment business), an accounting period.
+- (a) in a case where the contributions are deducted in computing profits to be charged under Part 2 of[^c-82a12a6cb1dcf40a090db634c56c634a] ITTOIA 2005 or Part 3 of CTA 2009 (trading income),[^c-f7906ae0f13ceb5c86c32a319d86e228] a period of account, and
+- (b) in a case where relief in respect of the contributions is given under section 76 of FA 2012[^c-2ce550f55ee04fa12b6713fd4381fb45][^c-677e893e404612176098ab01887d75bc] (expenses of insurance companies) or Chapter 2 of Part 16 of CTA 2009 (expenses of management: companies with investment business), an accounting period.
 
 ## Annotations
 
-[^key-434c469d4fecdd251e8fc9a4f58711d5]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-434c469d4fecdd251e8fc9a4f58711d5]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-09555aaaf55c6c68857928aa06047912]: Modification: S. 197 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [20](https://www.legislation.gov.uk/uksi/2006/575/regulation/20)
+[^c-09555aaaf55c6c68857928aa06047912]: Modification: S. 197 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [20](https://www.legislation.gov.uk/uksi/2006/575/regulation/20)
 
-[^key-83df725ca2c564a4f41973030f3efabc]: Textual amendment: Words in s. 197(2) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 29 para. 14(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/14/2/a)
+[^c-83df725ca2c564a4f41973030f3efabc]: Textual amendment: Words in s. 197(2) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 29 para. 14(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/14/2/a)
 
-[^key-f441b5ae9b9f2eca12b6920815f4ba15]: Textual amendment: Words in s. 197(4) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 29 para. 14(2)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/14/2/b)
+[^c-f441b5ae9b9f2eca12b6920815f4ba15]: Textual amendment: Words in s. 197(4) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 29 para. 14(2)(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/14/2/b)
 
-[^key-c8fa343b5c36940daee4157c29b8cb8a]: Textual amendment: S. 197(9A) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 29 para. 14(2)(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/14/2/c)
+[^c-c8fa343b5c36940daee4157c29b8cb8a]: Textual amendment: S. 197(9A) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 29 para. 14(2)(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/14/2/c)
 
-[^key-82a12a6cb1dcf40a090db634c56c634a]: Textual amendment: Words in s. 197(10)(a) inserted (6.4.2006) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 647](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/647), [Sch. 2 para. 161](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2/paragraph/161) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-82a12a6cb1dcf40a090db634c56c634a]: Textual amendment: Words in s. 197(10)(a) inserted (6.4.2006) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 647](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/647), [Sch. 2 para. 161](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2/paragraph/161) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-f7906ae0f13ceb5c86c32a319d86e228]: Textual amendment: Words in s. 197(10)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 575(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/575/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-f7906ae0f13ceb5c86c32a319d86e228]: Textual amendment: Words in s. 197(10)(a) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 575(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/575/a) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-2ce550f55ee04fa12b6713fd4381fb45]: Textual amendment: Words in s. 197(10)(b) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 116](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/116)
+[^c-2ce550f55ee04fa12b6713fd4381fb45]: Textual amendment: Words in s. 197(10)(b) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 116](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/116)
 
-[^key-677e893e404612176098ab01887d75bc]: Textual amendment: Words in s. 197(10)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 575(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/575/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-677e893e404612176098ab01887d75bc]: Textual amendment: Words in s. 197(10)(b) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 575(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/575/b) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

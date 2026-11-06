@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12A. Fees in Very High Cost Cases[^key-db5bf455bc46c1078a3a1c83e7f66b3b]
+## 12A. Fees in Very High Cost Cases[^c-db5bf455bc46c1078a3a1c83e7f66b3b]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where services consisting of representation made available under section 16 of t
 
 ## Annotations
 
-[^key-db5bf455bc46c1078a3a1c83e7f66b3b]: Textual amendment: Reg. 12A inserted (2.12.2013) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2013 (S.I. 2013/2803)](https://www.legislation.gov.uk/uksi/2013/2803), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2803/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/2803/regulation/3/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2803/regulation/4))
+[^c-db5bf455bc46c1078a3a1c83e7f66b3b]: Textual amendment: Reg. 12A inserted (2.12.2013) by [The Criminal Legal Aid (Remuneration) (Amendment) Regulations 2013 (S.I. 2013/2803)](https://www.legislation.gov.uk/uksi/2013/2803), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2803/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/2803/regulation/3/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2013/2803/regulation/4))

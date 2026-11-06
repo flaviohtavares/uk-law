@@ -24,13 +24,13 @@ Section 22
 
 ### PART 1 — Amendments to the Banking Act 2009
 
-**1.**[^key-1ef86dc179de89b60fedd602874cecf0] The Banking Act 2009 is amended as follows.
+**1.**[^c-1ef86dc179de89b60fedd602874cecf0] The Banking Act 2009 is amended as follows.
 
-**2.**[^key-9c1d89f161a60ad02580dc56efa36c6f] In the heading to Part 5 (payment systems), after “systems” insert “and service providers”.
+**2.**[^c-9c1d89f161a60ad02580dc56efa36c6f] In the heading to Part 5 (payment systems), after “systems” insert “and service providers”.
 
-**3.**[^key-aff8d9d96f97d1b721031822b19b77e5] In section 181 (overview), after “services” insert “, including”.
+**3.**[^c-aff8d9d96f97d1b721031822b19b77e5] In section 181 (overview), after “services” insert “, including”.
 
-**4.**[^key-92eb23dab4bb01c7771e8258f1006721] (1) Section 182 (interpretation of payment system) is amended as follows.
+**4.**[^c-92eb23dab4bb01c7771e8258f1006721] (1) Section 182 (interpretation of payment system) is amended as follows.
 
 (2) In the heading, for ““payment system”” substitute “key terms”.
 
@@ -73,19 +73,19 @@ Section 22
 > - (b) the definition of “DSA service provider” in subsection (5A);
 > - (c) the definition in section 206AA of a person who provides services connected with a recognised payment system that uses digital settlement assets.
 
-**5.**[^key-d408d222a9e5f0bde98e4a58ea3726a6] (1) Section 183 (interpretation of other expressions) is amended as follows.
+**5.**[^c-d408d222a9e5f0bde98e4a58ea3726a6] (1) Section 183 (interpretation of other expressions) is amended as follows.
 
 (2) In the opening words of paragraph (k) after “system” insert “or to a DSA service provider”.
 
 (3) In sub-paragraph (i) of paragraph (k), after “constituting” insert “, or connected with,”.
 
-**6.**[^key-881b84edfeb8abf45520c7d17253d1cc] In the cross-heading before section 184 (recognition order), after “systems” insert “and service providers”.
+**6.**[^c-881b84edfeb8abf45520c7d17253d1cc] In the cross-heading before section 184 (recognition order), after “systems” insert “and service providers”.
 
-**7.**[^key-3e03373fcc4a0230026a9e0e65f3623c] In the heading to section 184 , after “order” insert “: payment system”.
+**7.**[^c-3e03373fcc4a0230026a9e0e65f3623c] In the heading to section 184 , after “order” insert “: payment system”.
 
-**8.**[^key-c42c192959ffaeca0c121d749458485c] In section 184, in subsection (4), after “constituting” insert “or connected with”.
+**8.**[^c-c42c192959ffaeca0c121d749458485c] In section 184, in subsection (4), after “constituting” insert “or connected with”.
 
-**9.**[^key-71cd432160586391bb14ec0975d9603d] After section 184 insert—
+**9.**[^c-71cd432160586391bb14ec0975d9603d] After section 184 insert—
 
 > **184A. Recognition order: DSA service provider**
 >
@@ -95,9 +95,9 @@ Section 22
 >
 > (3) The Treasury may not specify a DSA service provider operated solely by the Bank of England.
 
-**10.**[^key-f46698d9f2f2380a72edc292bdae8892] In the heading to section 185 (recognition criteria) after “criteria” insert “: payment system”.
+**10.**[^c-f46698d9f2f2380a72edc292bdae8892] In the heading to section 185 (recognition criteria) after “criteria” insert “: payment system”.
 
-**11.**[^key-a51f942a55020e41bc06fbb17e9abd18] After section 185 insert—
+**11.**[^c-a51f942a55020e41bc06fbb17e9abd18] After section 185 insert—
 
 > **185A. Recognition criteria: DSA service provider**
 >
@@ -115,7 +115,7 @@ Section 22
 >   - (i) operators of payment systems that use digital settlement assets, and
 >   - (ii) other DSA service providers.
 
-**12.**[^key-bda9622665f5f95eba50e23c4e026a90] (1) Section 186 (procedure) is amended as follows.
+**12.**[^c-bda9622665f5f95eba50e23c4e026a90] (1) Section 186 (procedure) is amended as follows.
 
 (2) In the opening words of subsection (1) after “system” insert “or a DSA service provider”.
 
@@ -133,7 +133,7 @@ Section 22
 
 (7) In subsection (3), after “system” insert “or a DSA service provider”.
 
-**13.**[^key-89103cb66742d2cd238e6c6deca19623] (1) Section 186A (amendment of recognition order) is amended as follows.
+**13.**[^c-89103cb66742d2cd238e6c6deca19623] (1) Section 186A (amendment of recognition order) is amended as follows.
 
 (2) After subsection (2)(a) insert—
 
@@ -152,7 +152,7 @@ Section 22
 - (a) after first “system” insert “or by a recognised DSA service provider”,
 - (b) after second “system” insert “or provider,”.
 
-**14.**[^key-bd181b1b8ba5ab7474d6aaeb0990a906] (1) Section 187 (de-recognition) is amended as follows.
+**14.**[^c-bd181b1b8ba5ab7474d6aaeb0990a906] (1) Section 187 (de-recognition) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -177,7 +177,7 @@ Section 22
 
 (7) In subsection (5), after “system” insert “, or by a recognised DSA service provider”.
 
-**15.**[^key-dae8bad73feb4df4abb6963c05107932] (1) Section 188 (principles) is amended as follows.
+**15.**[^c-dae8bad73feb4df4abb6963c05107932] (1) Section 188 (principles) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -192,7 +192,7 @@ Section 22
 - (c) the words after “and” become paragraph (c);
 - (d) at end insert “or to such DSA service providers”.
 
-**16.**[^key-a63cbccd0a01988bcc8c1fe780956cce] In section 189 (codes of practice)—
+**16.**[^c-a63cbccd0a01988bcc8c1fe780956cce] In section 189 (codes of practice)—
 
 - (a) the words after “about” to the first “systems” become paragraph (a);
 - (b) after that paragraph, insert
@@ -206,12 +206,12 @@ Section 22
 - (d) the words after “and” become paragraph (c);
 - (e) at end insert “or to such DSA service providers”.
 
-**17.**[^key-b3445b5b499bd035ccd2d1c01a8f00a3] In section 190 (system rules), in subsection (1)(a)—
+**17.**[^c-b3445b5b499bd035ccd2d1c01a8f00a3] In section 190 (system rules), in subsection (1)(a)—
 
 - (a) after “constituting” insert “, or connected with,”;
 - (b) at end insert “, or a DSA service provider”.
 
-**18.**[^key-c85178cf1a5020a6350078c7ce085a64] After section 190 insert—
+**18.**[^c-c85178cf1a5020a6350078c7ce085a64] After section 190 insert—
 
 > **190A. Service provider rules**
 >
@@ -225,7 +225,7 @@ Section 22
 >
 > (2) A requirement under subsection (1)(d) or (e) may be general or specific.
 
-**19.**[^key-1e9db8ea9ef3a6d06813c6ced5179d6a] (1) Section 191 (directions) is amended as follows.
+**19.**[^c-1e9db8ea9ef3a6d06813c6ced5179d6a] (1) Section 191 (directions) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -252,7 +252,7 @@ Section 22
 
 (5) In subsection (4)(b), after “operator” insert “, DSA service provider”.
 
-**20.**[^key-779ba723588a2cdf17bebb6395caa5c0] After section 192 (role of FCA and PRA), insert—
+**20.**[^c-779ba723588a2cdf17bebb6395caa5c0] After section 192 (role of FCA and PRA), insert—
 
 > **192A. Power of Bank to require FCA to refrain from specified action**
 >
@@ -277,7 +277,7 @@ Section 22
 >
 > (7) The FCA is not required to comply with a direction under this section if or to the extent that in the opinion of the FCA compliance would be incompatible with any international obligation of the United Kingdom.
 
-**21.**[^key-ef472d1e946bf980093e23e854f76c66] (1) Section 193 (inspection) is amended as follows.
+**21.**[^c-ef472d1e946bf980093e23e854f76c66] (1) Section 193 (inspection) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -289,7 +289,7 @@ Section 22
 - (a) after first “system” insert “, or a recognised DSA service provider”;
 - (b) after second “system” insert “or such a DSA service provider”.
 
-**22.**[^key-338c9a0f5111b70b508b386040d82335] (1) Section 194 (inspection: warrant) is amended as follows.
+**22.**[^c-338c9a0f5111b70b508b386040d82335] (1) Section 194 (inspection: warrant) is amended as follows.
 
 (2) In subsection (1)(a)—
 
@@ -304,7 +304,7 @@ Section 22
 
 (4) In subsection (3), after “system” insert “, the DSA service provider”.
 
-**23.**[^key-919345d97a5ef1295cb31c7f92c71c7a] (1) Section 195 (independent report) is amended as follows.
+**23.**[^c-919345d97a5ef1295cb31c7f92c71c7a] (1) Section 195 (independent report) is amended as follows.
 
 (2) In subsection (1)(a), omit “or”.
 
@@ -317,22 +317,22 @@ Section 22
 
 (5) In subsection (2)(b), after “operator” insert “, recognised DSA service provider”.
 
-**24.**[^key-95d4ee40cfbddd77997475060bbd710f] In section 196 (compliance failure)—
+**24.**[^c-95d4ee40cfbddd77997475060bbd710f] In section 196 (compliance failure)—
 
 - (a) after first “system” insert “, a recognised DSA service provider”;
 - (b) after second “system” insert “or such a DSA service provider”.
 
-**25.**[^key-86ba398b876f00d47ea9cafdbd7435dc] In section 197 (publication), in subsection (1)—
+**25.**[^c-86ba398b876f00d47ea9cafdbd7435dc] In section 197 (publication), in subsection (1)—
 
 - (a) after first “system” insert “, a recognised DSA service provider”;
 - (b) after second “system” insert “or such a DSA service provider”.
 
-**26.**[^key-570b0d64376b1be38a0e2a7acda5f0e6] In section 198 (penalty), in subsection (1)—
+**26.**[^c-570b0d64376b1be38a0e2a7acda5f0e6] In section 198 (penalty), in subsection (1)—
 
 - (a) after first “system” insert “, a recognised DSA service provider”;
 - (b) after second “system” insert “or such a DSA service provider”.
 
-**27.**[^key-4d20035b4867b80b27b5d38102e1e6fd] (1) Section 199 (closure) is amended as follows.
+**27.**[^c-4d20035b4867b80b27b5d38102e1e6fd] (1) Section 199 (closure) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -352,7 +352,7 @@ Section 22
 
 (5) In subsection (4), after “operator” insert “, DSA service provider,”.
 
-**28.**[^key-b0e1e42a275b62026e4e5efc0d855b8c] (1) Section 200 (management disqualification) is amended as follows.
+**28.**[^c-b0e1e42a275b62026e4e5efc0d855b8c] (1) Section 200 (management disqualification) is amended as follows.
 
 (2) In subsection (1), after “system” insert “or from being a DSA service provider”.
 
@@ -366,7 +366,7 @@ Section 22
 - (a) after “system” insert “, or of each recognised DSA service provider,”;
 - (b) after “206A(2)(b)” insert “or 206A(2A)(b) (as the case may be).”
 
-**29.**[^key-20e4c33ab35dc5ad4cdc363334abf4c7] (1) Section 201 (warning) is amended as follows.
+**29.**[^c-20e4c33ab35dc5ad4cdc363334abf4c7] (1) Section 201 (warning) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -383,12 +383,12 @@ Section 22
 - (c) in paragraph (b), after “operator” insert “, or DSA service provider”;
 - (d) in paragraph (d), after “operator” insert “or DSA service provider”.
 
-**30.**[^key-2b0179056a450c12405b3dc24b625630] In section 202 (appeal), in subsection (2)—
+**30.**[^c-2b0179056a450c12405b3dc24b625630] In section 202 (appeal), in subsection (2)—
 
 - (a) after first “system” insert “or recognised DSA service provider”;
 - (b) after second “system” insert “or DSA service provider (as the case may be)”.
 
-**31.**[^key-11ea7c9c8637969bb4c18c64421085f9] (1) Section 202A (injunctions) is amended as follows.
+**31.**[^c-11ea7c9c8637969bb4c18c64421085f9] (1) Section 202A (injunctions) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -404,12 +404,12 @@ Section 22
   - (ii) after second “system” insert “or such a DSA service provider”;
 - (b) in the words following paragraph (b), after “operator” insert “, DSA service provider,”.
 
-**32.**[^key-06e3cf22692eb104b7dbcd353ec127c8] In section 203 (fees), in subsection (1)—
+**32.**[^c-06e3cf22692eb104b7dbcd353ec127c8] In section 203 (fees), in subsection (1)—
 
 - (a) after first “systems” insert “, recognised DSA service providers,”;
 - (b) after second “systems” insert “or such DSA service providers”.
 
-**33.**[^key-141669068960aed5f2944a38ddba076d] After section 203B (annual report) insert—
+**33.**[^c-141669068960aed5f2944a38ddba076d] After section 203B (annual report) insert—
 
 > **203C. Policy statement**
 >
@@ -429,7 +429,7 @@ Section 22
 >
 > (4) Nothing in this section is to be regarded as preventing the Bank of England from exercising any of its powers under this Part where it considers it necessary to do so by reason of urgency, before it has prepared a statement under this section.
 
-**34.**[^key-44008b8c97caec6b3811c0bf6716705f] (1) Section 204 (information) is amended as follows.
+**34.**[^c-44008b8c97caec6b3811c0bf6716705f] (1) Section 204 (information) is amended as follows.
 
 (2) In subsection (1)(a), after “206A(2)(b)” insert “or 206A(2A)(b)”.
 
@@ -443,7 +443,7 @@ Section 22
 - (a) after first “system” insert “, a recognised DSA service provider,”;
 - (b) after second “system” insert “or such a DSA service provider”.
 
-**35.**[^key-8b5455c3b6c6202f146dc3a16e143ec6] (1) Section 205 (pretending to be recognised) is amended as follows.
+**35.**[^c-8b5455c3b6c6202f146dc3a16e143ec6] (1) Section 205 (pretending to be recognised) is amended as follows.
 
 (2) In the opening words of subsection (1) after “system” insert “or DSA service provider”.
 
@@ -453,7 +453,7 @@ Section 22
 
 (5) In subsection (1A), after “system” insert “or recognised DSA service provider”.
 
-**36.**[^key-2b681a81c25f4b41edbbbad9e6071ad9] (1) Section 206 (saving for informal oversight) is amended as follows.
+**36.**[^c-2b681a81c25f4b41edbbbad9e6071ad9] (1) Section 206 (saving for informal oversight) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -465,7 +465,7 @@ Section 22
 - (a) after first “systems” insert “, DSA service providers”;
 - (b) after second “systems” insert “or DSA service providers”.
 
-**37.**[^key-d112f0c5605c412ee52695f9631a8290] (1) Section 206A (services forming part of recognised payment systems) is amended as follows.
+**37.**[^c-d112f0c5605c412ee52695f9631a8290] (1) Section 206A (services forming part of recognised payment systems) is amended as follows.
 
 (2) For the heading substitute “Service providers”.
 
@@ -501,7 +501,7 @@ Section 22
 
 (8) In subsection (5) after “(2)(b)” insert “, (2A)(b) or (2B)(b)”.
 
-**38.**[^key-80fc8b5c9f036a0399df4a127d1b08d0] After section 206A insert—
+**38.**[^c-80fc8b5c9f036a0399df4a127d1b08d0] After section 206A insert—
 
 > **206AA. Service providers connected with a recognised payment system that uses digital settlement assets**
 >
@@ -514,7 +514,7 @@ Section 22
 > - (e) the person sets rules, standards, or conditions of access or participation in relation to the payment system, or
 > - (f) the person provides any service that facilitates, or supports, a transfer of money or digital settlement assets to be made using the payment system, including any infrastructure provider in relation to the system.
 
-**39.**[^key-fba32957a2d6968e75ce2d5ed013a33c] In section 259 (statutory instruments), in the Table in subsection (3), in Part 5, at the appropriate place insert—
+**39.**[^c-fba32957a2d6968e75ce2d5ed013a33c] In section 259 (statutory instruments), in the Table in subsection (3), in Part 5, at the appropriate place insert—
 
 > |  |  |  |
 > | --- | --- | --- |
@@ -522,9 +522,9 @@ Section 22
 
 ### PART 2 — Amendments to the Financial Services (Banking Reform) Act 2013
 
-**40.**[^key-0505918a901c0a08da6aaa0f3b513eed] The Financial Services (Banking Reform) Act 2013 is amended as follows.
+**40.**[^c-0505918a901c0a08da6aaa0f3b513eed] The Financial Services (Banking Reform) Act 2013 is amended as follows.
 
-**41.**[^key-13b45eac57bb6bf46fd76a82cb5950a5] (1) Section 41 (meaning of payment system) is amended as follows.
+**41.**[^c-13b45eac57bb6bf46fd76a82cb5950a5] (1) Section 41 (meaning of payment system) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -540,7 +540,7 @@ Section 22
 >
 > (2C) The Treasury may by regulations amend the definition of “digital settlement asset” in subsection (2A).
 
-**42.**[^key-423d553e832ce57e33f8e1b294f3fb65] (1) Section 42 (participants in payment systems) is amended as follows.
+**42.**[^c-423d553e832ce57e33f8e1b294f3fb65] (1) Section 42 (participants in payment systems) is amended as follows.
 
 (2) In subsection (2)(c), for “subsection (5)” substitute “subsections (5) and (5A)”.
 
@@ -555,7 +555,7 @@ Section 22
 >   - (i) sets rules, standards, or conditions of access or participation in relation to the system, or
 >   - (ii) provides any service that facilitates, or supports, a transfer of money or digital settlement assets to be made using the system, including any infrastructure provider in relation to the system.
 
-**43.**[^key-6f8bad79b7d69ce5991ce891d170ed51] In section 98 (duty of regulators to ensure co-ordinated exercise of functions), for paragraph (c) of subsection (5) substitute—
+**43.**[^c-6f8bad79b7d69ce5991ce891d170ed51] In section 98 (duty of regulators to ensure co-ordinated exercise of functions), for paragraph (c) of subsection (5) substitute—
 
 > - (c) in relation to the FCA—
 >   - (i) the functions conferred on it by or under FSMA 2000 (see section 1A(6) of that Act);
@@ -565,7 +565,7 @@ Section 22
 >     - (a) credit institutions where authorised under Part 4A of FSMA 2000, or
 >     - (b) authorised payment institutions under the Payment Services Regulations 2017 ([S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752)).
 
-**44.**[^key-822222582affc9c81e06d2950773bf80] In section 110 (interpretation of Part), at the appropriate place insert—
+**44.**[^c-822222582affc9c81e06d2950773bf80] In section 110 (interpretation of Part), at the appropriate place insert—
 
 > - “**digital settlement asset**” has the meaning given by section 41(2A);
 
@@ -575,23 +575,23 @@ Section 22
 
 .
 
-**45.**[^key-b75e52c821eec4bd5523a60eef315092] In section 112 (interpretation: infrastructure companies), after subsection (2)(a) insert—
+**45.**[^c-b75e52c821eec4bd5523a60eef315092] In section 112 (interpretation: infrastructure companies), after subsection (2)(a) insert—
 
 > - (aa) a recognised DSA service provider,
 
-**46.**[^key-be746f3bd6d1e6c4c4a6e8f9c225d87d] In section 113 (interpretation: other expressions), in subsection (1) at the appropriate place insert—
+**46.**[^c-be746f3bd6d1e6c4c4a6e8f9c225d87d] In section 113 (interpretation: other expressions), in subsection (1) at the appropriate place insert—
 
 > - “**recognised DSA service provider**” means a DSA service provider, as defined by section 182(5A) of the Banking Act 2009, in respect of which a recognition order under section 184A of that Act is in force;
 
 .
 
-**47.**[^key-b85e6e25126f5fa1b0118ecf96947cdc] (1) Section 115 (objective of FMI administration) is amended as follows.
+**47.**[^c-b85e6e25126f5fa1b0118ecf96947cdc] (1) Section 115 (objective of FMI administration) is amended as follows.
 
 (2) In the opening words of subsection (1) after system insert “, or a recognised DSA service provider,”.
 
 (3) In subsection (1)(a) after “system” in each place, insert “or provider”.
 
-**48.**[^key-ca5a78f53855856476e2b41119bc876b] In section 143 (Parliamentary control of orders and regulations), after subsection (2)(a) insert—
+**48.**[^c-ca5a78f53855856476e2b41119bc876b] In section 143 (Parliamentary control of orders and regulations), after subsection (2)(a) insert—
 
 > - (aa) regulations under section 41(2C) (meaning of “**digital settlement asset**”);
 
@@ -599,98 +599,98 @@ Section 22
 
 ## Annotations
 
-[^key-1ef86dc179de89b60fedd602874cecf0]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/1) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-1ef86dc179de89b60fedd602874cecf0]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/1) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-9c1d89f161a60ad02580dc56efa36c6f]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/2) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-9c1d89f161a60ad02580dc56efa36c6f]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/2) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-aff8d9d96f97d1b721031822b19b77e5]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/3) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-aff8d9d96f97d1b721031822b19b77e5]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/3) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-92eb23dab4bb01c7771e8258f1006721]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/4) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-92eb23dab4bb01c7771e8258f1006721]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/4) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-d408d222a9e5f0bde98e4a58ea3726a6]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/5) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-d408d222a9e5f0bde98e4a58ea3726a6]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/5) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-881b84edfeb8abf45520c7d17253d1cc]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/6) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-881b84edfeb8abf45520c7d17253d1cc]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/6) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-3e03373fcc4a0230026a9e0e65f3623c]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/7) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-3e03373fcc4a0230026a9e0e65f3623c]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/7) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-c42c192959ffaeca0c121d749458485c]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/8) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-c42c192959ffaeca0c121d749458485c]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/8) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-71cd432160586391bb14ec0975d9603d]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/9) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-71cd432160586391bb14ec0975d9603d]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/9) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-f46698d9f2f2380a72edc292bdae8892]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/10) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-f46698d9f2f2380a72edc292bdae8892]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/10) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-a51f942a55020e41bc06fbb17e9abd18]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/11) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-a51f942a55020e41bc06fbb17e9abd18]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/11) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-bda9622665f5f95eba50e23c4e026a90]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/12) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-bda9622665f5f95eba50e23c4e026a90]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/12) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-89103cb66742d2cd238e6c6deca19623]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/13) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-89103cb66742d2cd238e6c6deca19623]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/13) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-bd181b1b8ba5ab7474d6aaeb0990a906]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/14) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-bd181b1b8ba5ab7474d6aaeb0990a906]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/14) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-dae8bad73feb4df4abb6963c05107932]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/15) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-dae8bad73feb4df4abb6963c05107932]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/15) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-a63cbccd0a01988bcc8c1fe780956cce]: Commencement: [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/16) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-a63cbccd0a01988bcc8c1fe780956cce]: Commencement: [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/16) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-b3445b5b499bd035ccd2d1c01a8f00a3]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/17) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-b3445b5b499bd035ccd2d1c01a8f00a3]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/17) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-c85178cf1a5020a6350078c7ce085a64]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/18) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-c85178cf1a5020a6350078c7ce085a64]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/18) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-1e9db8ea9ef3a6d06813c6ced5179d6a]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/19) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-1e9db8ea9ef3a6d06813c6ced5179d6a]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/19) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-779ba723588a2cdf17bebb6395caa5c0]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/20) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-779ba723588a2cdf17bebb6395caa5c0]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/20) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-ef472d1e946bf980093e23e854f76c66]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/21) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-ef472d1e946bf980093e23e854f76c66]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/21) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-338c9a0f5111b70b508b386040d82335]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/22) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-338c9a0f5111b70b508b386040d82335]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/22) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-919345d97a5ef1295cb31c7f92c71c7a]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/23) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-919345d97a5ef1295cb31c7f92c71c7a]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/23) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-95d4ee40cfbddd77997475060bbd710f]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/24) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-95d4ee40cfbddd77997475060bbd710f]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/24) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-86ba398b876f00d47ea9cafdbd7435dc]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/25) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-86ba398b876f00d47ea9cafdbd7435dc]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/25) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-570b0d64376b1be38a0e2a7acda5f0e6]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/26) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-570b0d64376b1be38a0e2a7acda5f0e6]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/26) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-4d20035b4867b80b27b5d38102e1e6fd]: Commencement: [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/27) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-4d20035b4867b80b27b5d38102e1e6fd]: Commencement: [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/27) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-b0e1e42a275b62026e4e5efc0d855b8c]: Commencement: [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/28) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-b0e1e42a275b62026e4e5efc0d855b8c]: Commencement: [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/28) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-20e4c33ab35dc5ad4cdc363334abf4c7]: Commencement: [Sch. 6 para. 29](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/29) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-20e4c33ab35dc5ad4cdc363334abf4c7]: Commencement: [Sch. 6 para. 29](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/29) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-2b0179056a450c12405b3dc24b625630]: Commencement: [Sch. 6 para. 30](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/30) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-2b0179056a450c12405b3dc24b625630]: Commencement: [Sch. 6 para. 30](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/30) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-11ea7c9c8637969bb4c18c64421085f9]: Commencement: [Sch. 6 para. 31](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/31) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-11ea7c9c8637969bb4c18c64421085f9]: Commencement: [Sch. 6 para. 31](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/31) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-06e3cf22692eb104b7dbcd353ec127c8]: Commencement: [Sch. 6 para. 32](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/32) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-06e3cf22692eb104b7dbcd353ec127c8]: Commencement: [Sch. 6 para. 32](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/32) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-141669068960aed5f2944a38ddba076d]: Commencement: [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/33) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-141669068960aed5f2944a38ddba076d]: Commencement: [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/33) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-44008b8c97caec6b3811c0bf6716705f]: Commencement: [Sch. 6 para. 34](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/34) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-44008b8c97caec6b3811c0bf6716705f]: Commencement: [Sch. 6 para. 34](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/34) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-8b5455c3b6c6202f146dc3a16e143ec6]: Commencement: [Sch. 6 para. 35](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/35) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-8b5455c3b6c6202f146dc3a16e143ec6]: Commencement: [Sch. 6 para. 35](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/35) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-2b681a81c25f4b41edbbbad9e6071ad9]: Commencement: [Sch. 6 para. 36](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/36) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-2b681a81c25f4b41edbbbad9e6071ad9]: Commencement: [Sch. 6 para. 36](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/36) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-d112f0c5605c412ee52695f9631a8290]: Commencement: [Sch. 6 para. 37](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/37) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-d112f0c5605c412ee52695f9631a8290]: Commencement: [Sch. 6 para. 37](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/37) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-80fc8b5c9f036a0399df4a127d1b08d0]: Commencement: [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/38) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-80fc8b5c9f036a0399df4a127d1b08d0]: Commencement: [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/38) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-fba32957a2d6968e75ce2d5ed013a33c]: Commencement: [Sch. 6 para. 39](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/39) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-fba32957a2d6968e75ce2d5ed013a33c]: Commencement: [Sch. 6 para. 39](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/39) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-0505918a901c0a08da6aaa0f3b513eed]: Commencement: [Sch. 6 para. 40](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/40) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-0505918a901c0a08da6aaa0f3b513eed]: Commencement: [Sch. 6 para. 40](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/40) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-13b45eac57bb6bf46fd76a82cb5950a5]: Commencement: [Sch. 6 para. 41](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/41) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-13b45eac57bb6bf46fd76a82cb5950a5]: Commencement: [Sch. 6 para. 41](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/41) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-423d553e832ce57e33f8e1b294f3fb65]: Commencement: [Sch. 6 para. 42](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/42) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-423d553e832ce57e33f8e1b294f3fb65]: Commencement: [Sch. 6 para. 42](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/42) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-6f8bad79b7d69ce5991ce891d170ed51]: Commencement: [Sch. 6 para. 43](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/43) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-6f8bad79b7d69ce5991ce891d170ed51]: Commencement: [Sch. 6 para. 43](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/43) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-822222582affc9c81e06d2950773bf80]: Commencement: [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/44) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-822222582affc9c81e06d2950773bf80]: Commencement: [Sch. 6 para. 44](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/44) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-b75e52c821eec4bd5523a60eef315092]: Commencement: [Sch. 6 para. 45](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/45) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-b75e52c821eec4bd5523a60eef315092]: Commencement: [Sch. 6 para. 45](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/45) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-be746f3bd6d1e6c4c4a6e8f9c225d87d]: Commencement: [Sch. 6 para. 46](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/46) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-be746f3bd6d1e6c4c4a6e8f9c225d87d]: Commencement: [Sch. 6 para. 46](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/46) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-b85e6e25126f5fa1b0118ecf96947cdc]: Commencement: [Sch. 6 para. 47](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/47) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-b85e6e25126f5fa1b0118ecf96947cdc]: Commencement: [Sch. 6 para. 47](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/47) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
 
-[^key-ca5a78f53855856476e2b41119bc876b]: Commencement: [Sch. 6 para. 48](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/48) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-ca5a78f53855856476e2b41119bc876b]: Commencement: [Sch. 6 para. 48](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/48) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)

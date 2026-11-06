@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Sexual activity with a corpse (affected by repeal, see note)[^key-7c2052227feb82f4d86e82eb793258e0][^c20916631][^c20916631]
+## 70. Sexual activity with a corpse (affected by repeal, see note)[^c-7c2052227feb82f4d86e82eb793258e0][^c20916631][^c20916631]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c2052227feb82f4d86e82eb793258e0]: Textual amendment: S. 70 substituted (E.W.) (29.9.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 115(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/115/1), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)
+[^c-7c2052227feb82f4d86e82eb793258e0]: Textual amendment: S. 70 substituted (E.W.) (29.9.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 115(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/115/1), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)
 
 [^c20916631]: Textual amendment: Ss. 66-72 repealed (N.I.) (2.2.2009) by [The Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2))](https://www.legislation.gov.uk/nisi/2008/1769), [arts. 1](https://www.legislation.gov.uk/nisi/2008/1769/article/1), [78(e)](https://www.legislation.gov.uk/nisi/2008/1769/article/78/e), [Sch. 3](https://www.legislation.gov.uk/nisi/2008/1769/schedule/3) (with [Sch. 2 para. 1](https://www.legislation.gov.uk/nisi/2008/1769/schedule/2/paragraph/1)) [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)

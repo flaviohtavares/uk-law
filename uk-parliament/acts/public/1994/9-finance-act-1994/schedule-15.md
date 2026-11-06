@@ -24,59 +24,59 @@ Section 137.
 
 ### Amendments of the Taxes Act 1988
 
-**1.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-3fc5ce10e582027f7a939ac13796aa35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-e330eb14eb6a3d394e504a68071aa5e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-e330eb14eb6a3d394e504a68071aa5e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-18c4806b729224196bfcd3713e7320b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-18c4806b729224196bfcd3713e7320b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-18c4806b729224196bfcd3713e7320b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-18c4806b729224196bfcd3713e7320b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-18c4806b729224196bfcd3713e7320b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-18c4806b729224196bfcd3713e7320b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-18c4806b729224196bfcd3713e7320b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-18c4806b729224196bfcd3713e7320b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-18c4806b729224196bfcd3713e7320b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-18c4806b729224196bfcd3713e7320b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-18c4806b729224196bfcd3713e7320b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-18c4806b729224196bfcd3713e7320b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-18c4806b729224196bfcd3713e7320b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-18c4806b729224196bfcd3713e7320b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Amendments of the Taxation of Chargeable Gains Act 1992
 
@@ -163,10 +163,10 @@ Section 137.
 
 ## Annotations
 
-[^key-3fc5ce10e582027f7a939ac13796aa35]: Textual amendment: Sch. 15 paras. 1-19 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-3fc5ce10e582027f7a939ac13796aa35]: Textual amendment: Sch. 15 paras. 1-19 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-e330eb14eb6a3d394e504a68071aa5e0]: Textual amendment: Sch. 15 para. 20 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-e330eb14eb6a3d394e504a68071aa5e0]: Textual amendment: Sch. 15 para. 20 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-18c4806b729224196bfcd3713e7320b8]: Textual amendment: Sch. 15 paras. 21-27 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-18c4806b729224196bfcd3713e7320b8]: Textual amendment: Sch. 15 paras. 21-27 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c14460531]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).

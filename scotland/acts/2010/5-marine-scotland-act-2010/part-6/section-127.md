@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 127. Forfeiture[^key-63110182a74ebb674c2b6e978dfd8f8b]
+## 127. Forfeiture[^c-63110182a74ebb674c2b6e978dfd8f8b]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The court by which a person is convicted of an offence under this Part may order
 
 ## Annotations
 
-[^key-63110182a74ebb674c2b6e978dfd8f8b]: Commencement: [S. 127](https://www.legislation.gov.uk/asp/2010/5/section/127) in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(e)](https://www.legislation.gov.uk/ssi/2010/230/article/4/e)
+[^c-63110182a74ebb674c2b6e978dfd8f8b]: Commencement: [S. 127](https://www.legislation.gov.uk/asp/2010/5/section/127) in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(e)](https://www.legislation.gov.uk/ssi/2010/230/article/4/e)

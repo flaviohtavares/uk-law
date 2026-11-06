@@ -35,16 +35,16 @@ on the conclusion of the Agreement for Cooperation in the Peaceful Uses of Nucle
 
 (2013/408/Euratom) (revoked)
 
-[^key-8bb95d804a091b84480912ae0d479cf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8bb95d804a091b84480912ae0d479cf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-8bb95d804a091b84480912ae0d479cf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-8bb95d804a091b84480912ae0d479cf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-8bb95d804a091b84480912ae0d479cf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-8bb95d804a091b84480912ae0d479cf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8bb95d804a091b84480912ae0d479cf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8bb95d804a091b84480912ae0d479cf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8bb95d804a091b84480912ae0d479cf0]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-8bb95d804a091b84480912ae0d479cf0]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

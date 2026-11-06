@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248. Meaning of “product”[^key-b99d753b5c6623b074028f8d76306db8][^key-07fdc4c312ec89df814167c53c67fe54]
+## 248. Meaning of “product”[^c-b99d753b5c6623b074028f8d76306db8][^c-07fdc4c312ec89df814167c53c67fe54]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b99d753b5c6623b074028f8d76306db8]: Commencement: S. 248 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-b99d753b5c6623b074028f8d76306db8]: Commencement: S. 248 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-07fdc4c312ec89df814167c53c67fe54]: Commencement: [S. 248](https://www.legislation.gov.uk/ukpga/2024/13/section/248) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-07fdc4c312ec89df814167c53c67fe54]: Commencement: [S. 248](https://www.legislation.gov.uk/ukpga/2024/13/section/248) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

@@ -31,11 +31,11 @@ Wireless Telegraphy Act 1998 (repealed)
 
 1998 c. 6
 
-[^key-c5e4f9fb753b520d212c8c3eec82603a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5e4f9fb753b520d212c8c3eec82603a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Charges for wireless telegraphy licences.[^key-c5e4f9fb753b520d212c8c3eec82603a]
+## 1. Charges for wireless telegraphy licences.[^c-c5e4f9fb753b520d212c8c3eec82603a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -43,7 +43,7 @@ Wireless Telegraphy Act 1998 (repealed)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Bidding for licences.[^key-c5e4f9fb753b520d212c8c3eec82603a]
+## 3. Bidding for licences.[^c-c5e4f9fb753b520d212c8c3eec82603a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -55,7 +55,7 @@ Wireless Telegraphy Act 1998 (repealed)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Recovery of sums payable to OFCOM[^key-c5e4f9fb753b520d212c8c3eec82603a]
+## 4A. Recovery of sums payable to OFCOM[^c-c5e4f9fb753b520d212c8c3eec82603a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -123,4 +123,4 @@ Repeals and revocations
 
 ## Annotations
 
-[^key-c5e4f9fb753b520d212c8c3eec82603a]: Textual amendment: Act repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
+[^c-c5e4f9fb753b520d212c8c3eec82603a]: Textual amendment: Act repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))

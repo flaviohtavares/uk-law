@@ -28,7 +28,7 @@ summary: ''
 
 (2) Without prejudice to the generality of this power, the regulations may make any such provision as was made, immediately before the commencement of this Part, by Schedule 7A to the Companies Act 1985 (c. 6).
 
-(2A)[^key-09a0250f01bb53c22a747067fca06bd2][^c22574031] The regulations must provide that any information required to be included in the report as to the policy of the company with respect to the making of remuneration payments and payments for loss of office (within the meaning of Chapter 4A of Part 10) is to be set out in a separate part of the report.
+(2A)[^c-09a0250f01bb53c22a747067fca06bd2][^c22574031] The regulations must provide that any information required to be included in the report as to the policy of the company with respect to the making of remuneration payments and payments for loss of office (within the meaning of Chapter 4A of Part 10) is to be set out in a separate part of the report.
 
 (3) It is the duty of—
 
@@ -45,6 +45,6 @@ to give notice to the company of such matters relating to himself as may be nece
 
 [^c20617081]: Modification: Ss. 418-469 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-09a0250f01bb53c22a747067fca06bd2]: Textual amendment: S. 421(2A) inserted (25.4.2013 for specified purposes, 1.10.2013 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 79(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/79/1), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i), [(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)
+[^c-09a0250f01bb53c22a747067fca06bd2]: Textual amendment: S. 421(2A) inserted (25.4.2013 for specified purposes, 1.10.2013 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 79(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/79/1), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i), [(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)
 
 [^c22574031]: Textual amendment: S. 421(2A) inserted (25.4.2013 for specified purposes) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 79(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/79/1), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)

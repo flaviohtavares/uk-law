@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 863K. Vesting statements[^key-abc998cdb47022ee341c3bdcc3e63960]
+## 863K. Vesting statements[^c-abc998cdb47022ee341c3bdcc3e63960]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abc998cdb47022ee341c3bdcc3e63960]: Textual amendment: Ss. 863H-863L and cross-heading inserted (with effect in accordance with Sch. 17 para. 21 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/15)
+[^c-abc998cdb47022ee341c3bdcc3e63960]: Textual amendment: Ss. 863H-863L and cross-heading inserted (with effect in accordance with Sch. 17 para. 21 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 para. 15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/15)

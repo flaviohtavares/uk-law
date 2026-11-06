@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Register of rights of burial[^key-eaa43b07563eaa09c12059708b4923f7]
+## 17. Register of rights of burial[^c-eaa43b07563eaa09c12059708b4923f7]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eaa43b07563eaa09c12059708b4923f7]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/20/section/17) in force at 28.12.2016 by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4))
+[^c-eaa43b07563eaa09c12059708b4923f7]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2016/20/section/17) in force at 28.12.2016 by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4))

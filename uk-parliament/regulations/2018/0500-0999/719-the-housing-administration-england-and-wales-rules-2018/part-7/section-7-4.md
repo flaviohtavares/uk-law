@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.4. Information required to identify persons and proceedings etc.[^key-c2cc2bb05d2a97349f10aaea3035624d]
+## 7.4. Information required to identify persons and proceedings etc.[^c-c2cc2bb05d2a97349f10aaea3035624d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2cc2bb05d2a97349f10aaea3035624d]: Commencement: Rule 7.4 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-c2cc2bb05d2a97349f10aaea3035624d]: Commencement: Rule 7.4 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

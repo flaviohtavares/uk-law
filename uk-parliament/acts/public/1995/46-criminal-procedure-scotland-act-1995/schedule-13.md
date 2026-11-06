@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13 — TRANSFER OF COMMUNITY PAYBACK ORDERS TO ENGLAND AND WALES OR NORTHERN IRELAND[^key-d08b65f68ae60f9593fd30b6653f8e04]
+## SCHEDULE 13 — TRANSFER OF COMMUNITY PAYBACK ORDERS TO ENGLAND AND WALES OR NORTHERN IRELAND[^c-d08b65f68ae60f9593fd30b6653f8e04]
 
 *Extent: S*
 
@@ -118,11 +118,11 @@ Section 227ZO
 
   specify in accordance with sub-paragraph (3) the person responsible for monitoring compliance with the restricted movement requirement.
 
-(3) The person specified under sub-paragraph (2)(c) must be of a description specified in regulations made by the Secretary of State by virtue of paragraph 31(2) of Schedule 9 to the Sentencing Code[^key-f44ccc74f5059188a20828a4d2243355].
+(3) The person specified under sub-paragraph (2)(c) must be of a description specified in regulations made by the Secretary of State by virtue of paragraph 31(2) of Schedule 9 to the Sentencing Code[^c-f44ccc74f5059188a20828a4d2243355].
 
 (4) The clerk of the court must ensure that a copy of the order, and such other documents and information relating to the case as may be useful, are given to—
 
-- (a) [^key-e28582f75a18337f0aad7d33d91f735f]... the home court,
+- (a) [^c-e28582f75a18337f0aad7d33d91f735f]... the home court,
 - (b) the relevant service in the area in which the offender resides or will reside, and
 - (c) if a person is specified under sub-paragraph (2)(c), that person.
 
@@ -172,28 +172,28 @@ Section 227ZO
 
 (10) Section 227G(3) of this Act does not apply where the appropriate Scottish court is considering imposing a restricted movement requirement by virtue of sub-paragraph (6)(b)(i).
 
-**7.** (1)[^key-860ea7b52e1683534b00f6af52bf1979] In this Part—
+**7.** (1)[^c-860ea7b52e1683534b00f6af52bf1979] In this Part—
 
-- [^key-7263014047510a04d6dc339c07c3c6bf]...
-- [^key-7263014047510a04d6dc339c07c3c6bf]...
+- [^c-7263014047510a04d6dc339c07c3c6bf]...
+- [^c-7263014047510a04d6dc339c07c3c6bf]...
 - “the appropriate Scottish court” means, in relation to an order to which paragraph 6 applies—
   - (a) the court in Scotland which imposed the order by virtue of paragraph 1, or
   - (b) where the order has been varied by virtue of paragraph 2 or 6(6)(b), the court in Scotland which made the last such variation;
 - “corresponding order” means—
-  - (a) in relation to an offender who is under the age of 18, a youth rehabilitation order within the meaning given by section 173 of the Sentencing Code[^key-5669d55e0070be26aec981e37c048667],
-  - (b) in relation to any other offender, a community order within the meaning given by section 200 of that Code[^key-aa2d30d89f219a2ef8286b3be5ed659a];
+  - (a) in relation to an offender who is under the age of 18, a youth rehabilitation order within the meaning given by section 173 of the Sentencing Code[^c-5669d55e0070be26aec981e37c048667],
+  - (b) in relation to any other offender, a community order within the meaning given by section 200 of that Code[^c-aa2d30d89f219a2ef8286b3be5ed659a];
 - “the home court” means the magistrates’ court acting for the local justice area in which the offender resides or will reside;
 - “relevant area” means—
-  - (a) in relation to an offender who is under the age of 18, the area of the local authority [^key-c6662668b1985746ec3e834b2f459762]... where the offender resides or will reside,
+  - (a) in relation to an offender who is under the age of 18, the area of the local authority [^c-c6662668b1985746ec3e834b2f459762]... where the offender resides or will reside,
   - (b) in relation to any other offender, the local justice area where the offender resides or will reside;
 - “relevant service” means—
-  - (a) in relation to an offender who is under the age of 18, a team established under section 39 of the Crime and Disorder Act 1998 (youth offending teams)[^key-b8a6fd25abd0916284337b9d83099d20],
+  - (a) in relation to an offender who is under the age of 18, a team established under section 39 of the Crime and Disorder Act 1998 (youth offending teams)[^c-b8a6fd25abd0916284337b9d83099d20],
   - (b) in relation to any other offender, a provider of a probation service within the meaning of Part 1 of the Offender Management Act 2007;
 - “responsible officer”—
-  - (a) in relation to an offender who is under the age of 18, has the meaning given in section 191 of the Sentencing Code[^key-fc01e7c2e19672059e1cbb4d9e4d8aaa],
-  - (b) in relation to any other offender, has the meaning given in section 213 of that Code[^key-4debe6a90c64501114f8683bc164afb5].
+  - (a) in relation to an offender who is under the age of 18, has the meaning given in section 191 of the Sentencing Code[^c-fc01e7c2e19672059e1cbb4d9e4d8aaa],
+  - (b) in relation to any other offender, has the meaning given in section 213 of that Code[^c-4debe6a90c64501114f8683bc164afb5].
 
-(1A)[^key-287a921e63c86fa179568222478cb170] For the purposes of the definition of “relevant area” in sub-paragraph (1), “**local authority**” means—
+(1A)[^c-287a921e63c86fa179568222478cb170] For the purposes of the definition of “relevant area” in sub-paragraph (1), “**local authority**” means—
 
 - (a) in relation to England—
   - (i) a county council,
@@ -372,26 +372,26 @@ Section 227ZO
 
 ## Annotations
 
-[^key-d08b65f68ae60f9593fd30b6653f8e04]: Textual amendment: Sch. 13 inserted (16.9.2011) by [The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011 (S.I. 2011/2298)](https://www.legislation.gov.uk/uksi/2011/2298), [art. 1](https://www.legislation.gov.uk/uksi/2011/2298/article/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2011/2298/schedule/paragraph/6) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2011/2298/article/4/4))
+[^c-d08b65f68ae60f9593fd30b6653f8e04]: Textual amendment: Sch. 13 inserted (16.9.2011) by [The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011 (S.I. 2011/2298)](https://www.legislation.gov.uk/uksi/2011/2298), [art. 1](https://www.legislation.gov.uk/uksi/2011/2298/article/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2011/2298/schedule/paragraph/6) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2011/2298/article/4/4))
 
-[^key-f44ccc74f5059188a20828a4d2243355]: Textual amendment: Words in Sch. 13 para. 5(3) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f44ccc74f5059188a20828a4d2243355]: Textual amendment: Words in Sch. 13 para. 5(3) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(2)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-e28582f75a18337f0aad7d33d91f735f]: Textual amendment: Words in Sch. 13 para. 5(4)(a) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/18); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-e28582f75a18337f0aad7d33d91f735f]: Textual amendment: Words in Sch. 13 para. 5(4)(a) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/18); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-860ea7b52e1683534b00f6af52bf1979]: Modification: Sch. 13 para. 7(1) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-860ea7b52e1683534b00f6af52bf1979]: Modification: Sch. 13 para. 7(1) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-7263014047510a04d6dc339c07c3c6bf]: Textual amendment: Words in Sch. 13 para. 7(1) omitted (1.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(3)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/3/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7263014047510a04d6dc339c07c3c6bf]: Textual amendment: Words in Sch. 13 para. 7(1) omitted (1.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(3)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/3/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-5669d55e0070be26aec981e37c048667]: Textual amendment: Words in Sch. 13 para. 7(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(3)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/3/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-5669d55e0070be26aec981e37c048667]: Textual amendment: Words in Sch. 13 para. 7(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(3)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/3/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-aa2d30d89f219a2ef8286b3be5ed659a]: Textual amendment: Words in Sch. 13 para. 7(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(3)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/3/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-aa2d30d89f219a2ef8286b3be5ed659a]: Textual amendment: Words in Sch. 13 para. 7(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(3)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/3/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c6662668b1985746ec3e834b2f459762]: Textual amendment: Words in Sch. 13 para. 7(1) omitted (1.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(3)(d)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/3/d) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c6662668b1985746ec3e834b2f459762]: Textual amendment: Words in Sch. 13 para. 7(1) omitted (1.12.2020) by virtue of [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(3)(d)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/3/d) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-b8a6fd25abd0916284337b9d83099d20]: Textual amendment: Words in Sch. 13 para. 7(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(3)(e)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/3/e) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b8a6fd25abd0916284337b9d83099d20]: Textual amendment: Words in Sch. 13 para. 7(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(3)(e)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/3/e) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-fc01e7c2e19672059e1cbb4d9e4d8aaa]: Textual amendment: Words in Sch. 13 para. 7(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(3)(f)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/3/f) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fc01e7c2e19672059e1cbb4d9e4d8aaa]: Textual amendment: Words in Sch. 13 para. 7(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(3)(f)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/3/f) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4debe6a90c64501114f8683bc164afb5]: Textual amendment: Words in Sch. 13 para. 7(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(3)(g)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/3/g) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4debe6a90c64501114f8683bc164afb5]: Textual amendment: Words in Sch. 13 para. 7(1) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(3)(g)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/3/g) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-287a921e63c86fa179568222478cb170]: Textual amendment: Sch. 13 para. 7(1A) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/4) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-287a921e63c86fa179568222478cb170]: Textual amendment: Sch. 13 para. 7(1A) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 133(4)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/133/4) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

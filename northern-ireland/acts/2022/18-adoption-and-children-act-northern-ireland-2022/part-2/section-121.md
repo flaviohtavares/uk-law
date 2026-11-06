@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 121. Provision of services to children in need, etc.[^key-464301531b99e68c2204c2a2ee7df6f2]
+## 121. Provision of services to children in need, etc.[^c-464301531b99e68c2204c2a2ee7df6f2]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-464301531b99e68c2204c2a2ee7df6f2]: Commencement: S. 121 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-464301531b99e68c2204c2a2ee7df6f2]: Commencement: S. 121 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

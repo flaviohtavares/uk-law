@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. Failure to pay instalments[^key-dea994e92a1645c7c1a89979c8c53643]
+## 8A. Failure to pay instalments[^c-dea994e92a1645c7c1a89979c8c53643]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dea994e92a1645c7c1a89979c8c53643]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1975/30/section/8A) inserted (1.4.2021) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 21(2)](https://www.legislation.gov.uk/asp/2020/4/section/21/2), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/327/regulation/4))
+[^c-dea994e92a1645c7c1a89979c8c53643]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/ukpga/1975/30/section/8A) inserted (1.4.2021) by [Non-Domestic Rates (Scotland) Act 2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4), [ss. 21(2)](https://www.legislation.gov.uk/asp/2020/4/section/21/2), [44(2)](https://www.legislation.gov.uk/asp/2020/4/section/44/2); [S.S.I. 2020/327](https://www.legislation.gov.uk/ssi/2020/327), [sch.](https://www.legislation.gov.uk/ssi/2020/327/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2020/327/regulation/4))

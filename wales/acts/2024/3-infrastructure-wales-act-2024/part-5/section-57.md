@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Duty to have regard to specific matters when making decisions on applications[^key-15d6c2dfad7e29ee999aa4d2f28b177d][^key-6ba5f77172dadd34fb07df25fba3e3f3]
+## 57. Duty to have regard to specific matters when making decisions on applications[^c-15d6c2dfad7e29ee999aa4d2f28b177d][^c-6ba5f77172dadd34fb07df25fba3e3f3]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ In deciding an application for infrastructure consent, the examining authority o
 
 ## Annotations
 
-[^key-15d6c2dfad7e29ee999aa4d2f28b177d]: Commencement: S. 57 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-15d6c2dfad7e29ee999aa4d2f28b177d]: Commencement: S. 57 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-6ba5f77172dadd34fb07df25fba3e3f3]: Commencement: [S. 57](https://www.legislation.gov.uk/asc/2024/3/section/57) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(c)](https://www.legislation.gov.uk/wsi/2025/698/article/3/c)
+[^c-6ba5f77172dadd34fb07df25fba3e3f3]: Commencement: [S. 57](https://www.legislation.gov.uk/asc/2024/3/section/57) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(c)](https://www.legislation.gov.uk/wsi/2025/698/article/3/c)

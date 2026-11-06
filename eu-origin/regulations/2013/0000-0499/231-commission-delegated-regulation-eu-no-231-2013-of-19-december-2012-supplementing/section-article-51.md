@@ -34,7 +34,7 @@ Net economic interest shall be measured at the origination and shall be maintain
 
 There shall be no multiple applications of the retention requirements for any given securitisation.
 
-2.[^key-a76891547557a67472867424c1646cbf] Paragraph 1 shall not apply—
+2.[^c-a76891547557a67472867424c1646cbf] Paragraph 1 shall not apply—
 
 - (a) where the securitised exposures are claims or contingent claims on or fully, unconditionally and irrevocably guaranteed by an institution in relation to which securitisation rules provide an exemption from risk retention requirements that would otherwise be imposed by the rules, or
 - (b) to transactions which are based on an index and in relation to which securitisation rules provide an exemption from risk retention requirements that would otherwise be imposed by the rules,
@@ -43,4 +43,4 @@ and for this purpose “**securitisation rules**” means rules made by the FCA 
 
 ## Annotations
 
-[^key-a76891547557a67472867424c1646cbf]: Textual amendment: Art. 51(2) substituted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/16)
+[^c-a76891547557a67472867424c1646cbf]: Textual amendment: Art. 51(2) substituted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2024/705/schedule/2/paragraph/16)

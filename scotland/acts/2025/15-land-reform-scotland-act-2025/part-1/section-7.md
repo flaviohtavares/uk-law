@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Establishment of the Land and Communities Commissioner[^key-4aed88ddaae59f67ac9f257518899a9b]
+## 7. Establishment of the Land and Communities Commissioner[^c-4aed88ddaae59f67ac9f257518899a9b]
 
 *Extent: S*
 
@@ -157,4 +157,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4aed88ddaae59f67ac9f257518899a9b]: Commencement: S. 7 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-4aed88ddaae59f67ac9f257518899a9b]: Commencement: S. 7 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

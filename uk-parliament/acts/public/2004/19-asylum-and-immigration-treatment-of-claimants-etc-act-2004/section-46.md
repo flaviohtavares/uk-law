@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Money[^key-93f99fc0cd4c7a43927d465f5613f541]
+## 46. Money[^c-93f99fc0cd4c7a43927d465f5613f541]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ There shall be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-93f99fc0cd4c7a43927d465f5613f541]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2004/19/section/46) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-93f99fc0cd4c7a43927d465f5613f541]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2004/19/section/46) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)

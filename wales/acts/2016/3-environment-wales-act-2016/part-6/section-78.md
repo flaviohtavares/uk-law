@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Further provision about payment of fees[^key-be7f4eac1439526d6bbc07c74da2e89a][^key-f752602ca01ab2e9c037f21b4e46367f]
+## 78. Further provision about payment of fees[^c-be7f4eac1439526d6bbc07c74da2e89a][^c-f752602ca01ab2e9c037f21b4e46367f]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ In the Marine and Coastal Access Act 2009, after section 107 insert—
 
 ## Annotations
 
-[^key-be7f4eac1439526d6bbc07c74da2e89a]: Commencement: [S. 78](https://www.legislation.gov.uk/anaw/2016/3/section/78) in force at 24.2.2017 for specified purposes by [S.I. 2017/152](https://www.legislation.gov.uk/wsi/2017/152), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/152/article/2/b)
+[^c-be7f4eac1439526d6bbc07c74da2e89a]: Commencement: [S. 78](https://www.legislation.gov.uk/anaw/2016/3/section/78) in force at 24.2.2017 for specified purposes by [S.I. 2017/152](https://www.legislation.gov.uk/wsi/2017/152), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/152/article/2/b)
 
-[^key-f752602ca01ab2e9c037f21b4e46367f]: Commencement: [S. 78](https://www.legislation.gov.uk/anaw/2016/3/section/78) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/504](https://www.legislation.gov.uk/wsi/2017/504), [art. 2](https://www.legislation.gov.uk/wsi/2017/504/article/2)
+[^c-f752602ca01ab2e9c037f21b4e46367f]: Commencement: [S. 78](https://www.legislation.gov.uk/anaw/2016/3/section/78) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/504](https://www.legislation.gov.uk/wsi/2017/504), [art. 2](https://www.legislation.gov.uk/wsi/2017/504/article/2)

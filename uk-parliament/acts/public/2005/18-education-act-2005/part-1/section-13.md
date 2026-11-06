@@ -38,7 +38,7 @@ he must comply with subsections (2) and (3).
 
 - (a) he must without delay give a notice in writing, stating that the case falls within paragraph (a) or (b) of subsection (1)—
   - (i) to the Secretary of State,
-  - (ii) in the case of a maintained school, to the local authority[^key-94ed0295e29907765ea29be5dd3e5cb4], and
+  - (ii) in the case of a maintained school, to the local authority[^c-94ed0295e29907765ea29be5dd3e5cb4], and
   - (iii) in the case of any other school, to the proprietor of the school, and
 - (b) he must state his opinion in the report of the inspection.
 
@@ -60,4 +60,4 @@ he must state his opinion in the report.
 
 [^c19216481]: Modification: S. 13(1)-(3) applied (with modifications) (1.9.2005 for E. and 1.9.2006 for W.) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2000/21/schedule/7/paragraph/7) (as substituted by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 46](https://www.legislation.gov.uk/ukpga/2005/18/section/46), [125](https://www.legislation.gov.uk/ukpga/2005/18/section/125), [Sch. 5 para. 3(9)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/5/paragraph/3/9)); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); [S.I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)

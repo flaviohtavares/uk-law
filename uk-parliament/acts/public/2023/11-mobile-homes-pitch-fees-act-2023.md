@@ -35,7 +35,7 @@ An Act to amend the provisions about pitch fees in the Mobile Homes Act 1983; an
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Pitch fee changes in England: link to the consumer prices index[^key-1390281b49cd0442404af83781628eed]
+## 1. Pitch fee changes in England: link to the consumer prices index[^c-1390281b49cd0442404af83781628eed]
 
 (1) Part 1 of Schedule 1 (implied terms in pitch agreements) to the Mobile Homes Act 1983 is amended as follows.
 
@@ -61,7 +61,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
     ;
   - (ii) omit the definition of “retail prices index”.
 
-## 2. Application and other provision[^key-d1af27358c0e10694b010460655815cb]
+## 2. Application and other provision[^c-d1af27358c0e10694b010460655815cb]
 
 (1) The amendments made by section 1 apply in relation to any post-commencement fee review, whether relating to an agreement made before or after this Act comes into force.
 
@@ -78,7 +78,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
   - (i) in the case of a fee review under Chapter 2, the written notice served in accordance with paragraph 17 of that Chapter;
   - (ii) in the case of a fee review under Chapter 4, the written notice served in accordance with paragraph 15 of that Chapter.
 
-## 3. Extent, commencement and short title[^key-4576a6c3fbe4d0f8eef165eb1ec915d4]
+## 3. Extent, commencement and short title[^c-4576a6c3fbe4d0f8eef165eb1ec915d4]
 
 (1) This Act extends to England and Wales only.
 
@@ -88,8 +88,8 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-1390281b49cd0442404af83781628eed]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/11/section/1) in force at 2.7.2023, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/11/section/3/2)
+[^c-1390281b49cd0442404af83781628eed]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/11/section/1) in force at 2.7.2023, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/11/section/3/2)
 
-[^key-d1af27358c0e10694b010460655815cb]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/11/section/2) in force at 2.7.2023, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/11/section/3/2)
+[^c-d1af27358c0e10694b010460655815cb]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/11/section/2) in force at 2.7.2023, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/11/section/3/2)
 
-[^key-4576a6c3fbe4d0f8eef165eb1ec915d4]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/11/section/3) in force at 2.7.2023, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/11/section/3/2)
+[^c-4576a6c3fbe4d0f8eef165eb1ec915d4]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/11/section/3) in force at 2.7.2023, see [s. 3(2)](https://www.legislation.gov.uk/ukpga/2023/11/section/3/2)

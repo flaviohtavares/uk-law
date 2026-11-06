@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Defence to proceedings in respect of statutory nuisance[^key-3bcc631fa98819b43f87715adf34ece7]
+## 9. Defence to proceedings in respect of statutory nuisance[^c-3bcc631fa98819b43f87715adf34ece7]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3bcc631fa98819b43f87715adf34ece7]: Commencement: Art. 9 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-3bcc631fa98819b43f87715adf34ece7]: Commencement: Art. 9 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
 [^f00033]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

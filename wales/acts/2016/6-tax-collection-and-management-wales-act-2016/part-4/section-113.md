@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Further provision about records[^key-333ac97a2a6a2698199916218fa5bbec]
+## 113. Further provision about records[^c-333ac97a2a6a2698199916218fa5bbec]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ the person exercising the power must stop and may not continue until such eviden
 
 ## Annotations
 
-[^key-333ac97a2a6a2698199916218fa5bbec]: Commencement: S. 113 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-333ac97a2a6a2698199916218fa5bbec]: Commencement: S. 113 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)

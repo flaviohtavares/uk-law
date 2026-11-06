@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Payments for exhibition of election notices[^key-1d62c6725e4d2578ce461ab61b8b5df0]
+## 73. Payments for exhibition of election notices[^c-1d62c6725e4d2578ce461ab61b8b5df0]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ shall be guilty of an illegal practice.
 
 ## Annotations
 
-[^key-1d62c6725e4d2578ce461ab61b8b5df0]: Commencement: Art. 73 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-1d62c6725e4d2578ce461ab61b8b5df0]: Commencement: Art. 73 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

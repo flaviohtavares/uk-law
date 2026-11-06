@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Charges for services provided with the help of an undertaker[^key-5b5c47376e896b5b14ad7d7dc2afcb75]
+## 59. Charges for services provided with the help of an undertaker[^c-5b5c47376e896b5b14ad7d7dc2afcb75]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b5c47376e896b5b14ad7d7dc2afcb75]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2003/37/section/59) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-5b5c47376e896b5b14ad7d7dc2afcb75]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2003/37/section/59) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/i) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))

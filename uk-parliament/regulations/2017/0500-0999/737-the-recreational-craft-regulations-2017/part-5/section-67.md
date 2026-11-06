@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Enforcement powers[^key-5248b29280f3440a2e3bb9b905bb93dc]
+## 67. Enforcement powers[^c-5248b29280f3440a2e3bb9b905bb93dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 13 (enforcement and investigatory powers conferred on the market survei
 
 ## Annotations
 
-[^key-5248b29280f3440a2e3bb9b905bb93dc]: Commencement: Reg. 67 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-5248b29280f3440a2e3bb9b905bb93dc]: Commencement: Reg. 67 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

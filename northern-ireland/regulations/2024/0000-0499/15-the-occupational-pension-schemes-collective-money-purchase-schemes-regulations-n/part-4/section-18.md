@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Advice of scheme actuary[^key-64ad39e1778851f3a2b08b237b30ce42]
+## 18. Advice of scheme actuary[^c-64ad39e1778851f3a2b08b237b30ce42]
 
 *Extent: N.I.*
 
@@ -24,10 +24,10 @@ When advising the trustees of a collective money purchase scheme in accordance w
 
 - (a) the Institute and Faculty of Actuaries (or its successor);
 - (b) the Regulator.
-- (c)[^key-4bbcb6050a7bf148d6543b8e51f1b2b6] the Financial Reporting Council Limited.
+- (c)[^c-4bbcb6050a7bf148d6543b8e51f1b2b6] the Financial Reporting Council Limited.
 
 ## Annotations
 
-[^key-64ad39e1778851f3a2b08b237b30ce42]: Commencement: Reg. 18 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-64ad39e1778851f3a2b08b237b30ce42]: Commencement: Reg. 18 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-4bbcb6050a7bf148d6543b8e51f1b2b6]: Textual amendment: [Reg. 18(c)](https://www.legislation.gov.uk/nisr/2024/15/regulation/18/c) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(12)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/12)
+[^c-4bbcb6050a7bf148d6543b8e51f1b2b6]: Textual amendment: [Reg. 18(c)](https://www.legislation.gov.uk/nisr/2024/15/regulation/18/c) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(12)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/12)

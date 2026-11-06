@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Advice before making National Park proposals[^key-e448796bb537fbdf6ae7d8abc4ce0c5a][^key-ef7d022b8c954d6d31b9be2b8989aa8f]
+## 5. Advice before making National Park proposals[^c-e448796bb537fbdf6ae7d8abc4ce0c5a][^c-ef7d022b8c954d6d31b9be2b8989aa8f]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e448796bb537fbdf6ae7d8abc4ce0c5a]: Commencement: S. 5 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-e448796bb537fbdf6ae7d8abc4ce0c5a]: Commencement: S. 5 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-ef7d022b8c954d6d31b9be2b8989aa8f]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2026/6/section/5) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/c)
+[^c-ef7d022b8c954d6d31b9be2b8989aa8f]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2026/6/section/5) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/c)

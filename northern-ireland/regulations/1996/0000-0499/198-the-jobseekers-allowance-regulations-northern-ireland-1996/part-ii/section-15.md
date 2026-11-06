@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Circumstances in which a person is not to be regarded as available[^key-8e849329d5e9fd3490f24b11e8482c25]
+## 15. Circumstances in which a person is not to be regarded as available[^c-8e849329d5e9fd3490f24b11e8482c25]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ A person shall not be regarded as available for employment in the following circ
 
 ## Annotations
 
-[^key-8e849329d5e9fd3490f24b11e8482c25]: Commencement: Reg. 15 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-8e849329d5e9fd3490f24b11e8482c25]: Commencement: Reg. 15 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00038]: Footnote: [1953 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1953/18)

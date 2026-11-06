@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Distribution plan[^key-06bf56042219b7be9f6f43de7034a858]
+## 109. Distribution plan[^c-06bf56042219b7be9f6f43de7034a858]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06bf56042219b7be9f6f43de7034a858]: Commencement: Rule 109 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-06bf56042219b7be9f6f43de7034a858]: Commencement: Rule 109 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

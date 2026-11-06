@@ -56,7 +56,7 @@ His Majesty, in exercise of the powers conferred on him by sections 159[^f00001]
 
 His Majesty is satisfied, in relation to copyright in wireless broadcasts, to the extent that this Order relates to a country to which article 7 of the Copyright and Performances (Application to Other Countries) Order 2016[^f00005] applies[^f00006], that provision has been or will be made under the law of that country in respect of wireless broadcasts giving adequate protection to the owners of copyright under Part 1 of the Act.
 
-## 1. Citation, commencement and extent[^key-c252ade4f55576d764974249fcf96dd3]
+## 1. Citation, commencement and extent[^c-c252ade4f55576d764974249fcf96dd3]
 
 (1) This Order may be cited as the Copyright and Performances (Application to Other Countries) (Amendment) Order 2024.
 
@@ -69,17 +69,17 @@ His Majesty is satisfied, in relation to copyright in wireless broadcasts, to th
 - (a) “**the CPTPP**” means the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, signed at Santiago on 8 March 2018, including the UK Accession Protocol, as it has effect in the United Kingdom from time to time[^f00008];
 - (b) “**the UK Accession Protocol**” means the Protocol on the Accession of the United Kingdom of Great Britain and Northern Ireland to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, signed at Auckland and Bandar Seri Begawan on 16 July 2023[^f00009].
 
-## 2. Amendment of the Copyright and Performances (Application to Other Countries) Order 2016[^key-a87de818794c98ba0a245cfc404618f5]
+## 2. Amendment of the Copyright and Performances (Application to Other Countries) Order 2016[^c-a87de818794c98ba0a245cfc404618f5]
 
 The Copyright and Performances (Application to Other Countries) Order 2016[^f00010] is amended in accordance with articles 3 to 6.
 
-## 3. Literary, dramatic, musical and artistic works first published before 1st June 1957: replacement of restriction on the application of Part 1 of the Act to countries that are party to the Berne Convention or are WTO members[^key-0aebdb116079e2e8d1decda425dbaed9]
+## 3. Literary, dramatic, musical and artistic works first published before 1st June 1957: replacement of restriction on the application of Part 1 of the Act to countries that are party to the Berne Convention or are WTO members[^c-0aebdb116079e2e8d1decda425dbaed9]
 
 In article 2 (Berne Convention[^f00011] parties and WTO members: restriction on the application of Part 1 of the Act to certain works first published before 1st June 1957), for paragraph (2) substitute—
 
 > (2) Paragraph 5(1) of Schedule 1 to the Act (copyright: transitional provisions and savings) does not apply in relation to a literary, dramatic, musical or artistic work first published before 1st June 1957 in so far as its application would otherwise prevent the work from qualifying for copyright protection under section 154[^f00012] (qualification by reference to author).
 
-## 4. Sound recordings: removal of restrictions on the application of Part 1 of the Act to countries that are party to the WPPT[^key-c040ac77009124c1f076f92f7332990e]
+## 4. Sound recordings: removal of restrictions on the application of Part 1 of the Act to countries that are party to the WPPT[^c-c040ac77009124c1f076f92f7332990e]
 
 In article 3 (WPPT parties: restrictions on the application of Part 1 of the Act to sound recordings)—
 
@@ -88,7 +88,7 @@ In article 3 (WPPT parties: restrictions on the application of Part 1 of the Act
   - (ii) for “restrictions” substitute “restriction”;
 - (b) in paragraph (2), omit sub-paragraphs (b) and (c).
 
-## 5. Broadcasts: removal of restrictions on the application of Part 1 of the Act to countries that are party to the Rome Convention and countries that are WTO members[^key-d6600b98d6b81234541873b8adbe6153]
+## 5. Broadcasts: removal of restrictions on the application of Part 1 of the Act to countries that are party to the Rome Convention and countries that are WTO members[^c-d6600b98d6b81234541873b8adbe6153]
 
 (1) In article 6 (Rome Convention[^f00013] parties: restrictions on the application of Part 1 of the Act to broadcasts)—
 
@@ -102,9 +102,9 @@ In article 3 (WPPT parties: restrictions on the application of Part 1 of the Act
 
 (3) In article 8(2)[^f00014] (miscellaneous countries: application of Part 1 of the Act to wireless broadcasts), for “a member State” substitute “Malta”.
 
-## 6. Performances: removal of restrictions on the application of Part 2 of the Act to certain countries that are party to the Rome Convention and certain countries that are party to the WPPT[^key-a587b9d04b2d889acf64f7de0b9cb9ca]
+## 6. Performances: removal of restrictions on the application of Part 2 of the Act to certain countries that are party to the Rome Convention and certain countries that are party to the WPPT[^c-a587b9d04b2d889acf64f7de0b9cb9ca]
 
-(1)[^key-8bb07ebd0e53b2cb1985adca57bca974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-8bb07ebd0e53b2cb1985adca57bca974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Omit article 10 (WPPT parties that are Rome Convention parties: application of Part 2 of the Act).
 
@@ -157,7 +157,7 @@ A copy of this instrument and the Explanatory Memorandum are available from the 
 
 [^f00006]: Footnote: Article 7 applies to certain members of the World Trade Organisation (see article 7(1)).
 
-[^key-c252ade4f55576d764974249fcf96dd3]: Commencement: Art. 1 comes into force in accordance with art. 1(2)
+[^c-c252ade4f55576d764974249fcf96dd3]: Commencement: Art. 1 comes into force in accordance with art. 1(2)
 
 [^f00007]: Footnote: See Article 21 of the Protocol on the Accession of the United Kingdom of Great Britain and Northern Ireland to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, signed at Auckland and Bandar Seri Begawan on 16 July 2023.
 
@@ -165,27 +165,27 @@ A copy of this instrument and the Explanatory Memorandum are available from the 
 
 [^f00009]: Footnote: See https://www.gov.uk/government/publications/accession-protocol-of-the-uk-to-the-cptpp .
 
-[^key-a87de818794c98ba0a245cfc404618f5]: Commencement: Art. 2 comes into force in accordance with art. 1(2)
+[^c-a87de818794c98ba0a245cfc404618f5]: Commencement: Art. 2 comes into force in accordance with art. 1(2)
 
 [^f00010]: Footnote: [S.I. 2016/1219](https://www.legislation.gov.uk/uksi/2016/1219), amended by [S.I. 2019/605](https://www.legislation.gov.uk/uksi/2019/605), [2021/636](https://www.legislation.gov.uk/uksi/2021/636), [2021/1258](https://www.legislation.gov.uk/uksi/2021/1258), [2023/296](https://www.legislation.gov.uk/uksi/2023/296).  
 
-[^key-0aebdb116079e2e8d1decda425dbaed9]: Commencement: Art. 3 comes into force in accordance with art. 1(2)
+[^c-0aebdb116079e2e8d1decda425dbaed9]: Commencement: Art. 3 comes into force in accordance with art. 1(2)
 
 [^f00011]: Footnote: Cm. 1212; “the Berne Convention” is defined in section 159(9) of the Copyright, Designs and Patents Act [1988 (c. 48)](https://www.legislation.gov.uk/ukpga/1988/48).
 
 [^f00012]: Footnote: Section 154 was amended by regulations 4 and 5(3) of [S.I. 1995/3297](https://www.legislation.gov.uk/uksi/1995/3297), section 22(1) of the Intellectual Property Act [2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), regulations 2 and 14 of [S.I. 2019/605](https://www.legislation.gov.uk/uksi/2019/605), section 2(3) of the British Overseas Territories Act [2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), and regulation 2(2) of, and Schedule 2 to, [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498).
 
-[^key-c040ac77009124c1f076f92f7332990e]: Commencement: Art. 4 comes into force in accordance with art. 1(2)
+[^c-c040ac77009124c1f076f92f7332990e]: Commencement: Art. 4 comes into force in accordance with art. 1(2)
 
-[^key-d6600b98d6b81234541873b8adbe6153]: Commencement: Art. 5 comes into force in accordance with art. 1(2)
+[^c-d6600b98d6b81234541873b8adbe6153]: Commencement: Art. 5 comes into force in accordance with art. 1(2)
 
 [^f00013]: Footnote: Cm. 2425; “the Rome Convention” is defined in section 159(9) of the Copyright, Designs and Patents Act (c. 48).
 
 [^f00014]: Footnote: Article 8(2) was substituted by [S.I. 2023/296](https://www.legislation.gov.uk/uksi/2023/296).
 
-[^key-a587b9d04b2d889acf64f7de0b9cb9ca]: Commencement: Art. 6 comes into force in accordance with art. 1(2)
+[^c-a587b9d04b2d889acf64f7de0b9cb9ca]: Commencement: Art. 6 comes into force in accordance with art. 1(2)
 
-[^key-8bb07ebd0e53b2cb1985adca57bca974]: Textual amendment: [Art. 6(1)](https://www.legislation.gov.uk/uksi/2024/193/article/6/1) omitted (14.12.2024) by virtue of [The Copyright and Performances (Application to Other Countries) (Amendment) (No. 2) Order 2024 (S.I. 2024/1124)](https://www.legislation.gov.uk/uksi/2024/1124), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/2/2)
+[^c-8bb07ebd0e53b2cb1985adca57bca974]: Textual amendment: [Art. 6(1)](https://www.legislation.gov.uk/uksi/2024/193/article/6/1) omitted (14.12.2024) by virtue of [The Copyright and Performances (Application to Other Countries) (Amendment) (No. 2) Order 2024 (S.I. 2024/1124)](https://www.legislation.gov.uk/uksi/2024/1124), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/2/2)
 
 [^f00015]: Footnote: Section 187 was amended by regulation 2(1) of, and paragraphs 1 and 13(1)(b) of Schedule 1 to, [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498).
 

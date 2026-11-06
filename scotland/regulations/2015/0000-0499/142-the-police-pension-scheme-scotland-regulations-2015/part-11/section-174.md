@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 174. Calculating the amount of a transfer value or club transfer value[^key-8aadb3ab5c6d6680756f04146c9dfa9a]
+## 174. Calculating the amount of a transfer value or club transfer value[^c-8aadb3ab5c6d6680756f04146c9dfa9a]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8aadb3ab5c6d6680756f04146c9dfa9a]: Commencement: Reg. 174 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-8aadb3ab5c6d6680756f04146c9dfa9a]: Commencement: Reg. 174 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

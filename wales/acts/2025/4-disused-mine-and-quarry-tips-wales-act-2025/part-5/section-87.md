@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Meaning of “threat to human welfare”[^key-2cf049bf68282589b9410442dd1f7074]
+## 87. Meaning of “threat to human welfare”[^c-2cf049bf68282589b9410442dd1f7074]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ For the purposes of this Act, a threat to human welfare exists where there is a 
 
 ## Annotations
 
-[^key-2cf049bf68282589b9410442dd1f7074]: Commencement: S. 87 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-2cf049bf68282589b9410442dd1f7074]: Commencement: S. 87 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 162. Repayment interest: supplementary[^key-62e64832db833f32d917d5270159e598]
+## 162. Repayment interest: supplementary[^c-62e64832db833f32d917d5270159e598]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62e64832db833f32d917d5270159e598]: Commencement: S. 162 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(g)](https://www.legislation.gov.uk/wsi/2018/33/article/2/g)
+[^c-62e64832db833f32d917d5270159e598]: Commencement: S. 162 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(g)](https://www.legislation.gov.uk/wsi/2018/33/article/2/g)

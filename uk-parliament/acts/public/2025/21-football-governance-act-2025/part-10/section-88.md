@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Restrictions on the disclosure of information[^key-e44a54c5f747994e326fa217adf0d212]
+## 88. Restrictions on the disclosure of information[^c-e44a54c5f747994e326fa217adf0d212]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e44a54c5f747994e326fa217adf0d212]: Commencement: S. 88 in force at Royal Assent, see [s. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/d)
+[^c-e44a54c5f747994e326fa217adf0d212]: Commencement: S. 88 in force at Royal Assent, see [s. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/d)

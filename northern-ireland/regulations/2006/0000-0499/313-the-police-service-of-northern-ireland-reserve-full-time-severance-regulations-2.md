@@ -51,19 +51,19 @@ The Secretary of State has consulted with the Police Negotiating Board in accord
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-759f7248629a44b3079b605b2d2523e8]
+### 1. Citation and commencement[^c-759f7248629a44b3079b605b2d2523e8]
 
 These Regulations may be cited as the Police Service of Northern Ireland Reserve (Full-time) Severance Regulations 2006 and shall come into operation on 17th August 2006.
 
-### 2. Interpretation[^key-ccf392def932a3c1a515d73ddaff7b47]
+### 2. Interpretation[^c-ccf392def932a3c1a515d73ddaff7b47]
 
 In these Regulations—
 
 - “annual pensionable pay” means the pensionable pay of the member at the annual rate to which he is entitled on the date of his leaving the reserve service;
 - “applicant” means a member of the reserve service who applies to enter the Scheme under regulation 4;
 - “appropriate factor” has the meaning assigned to it in regulation 2(4)(c) of the Royal Ulster Constabulary Regulations 1996[^f00006];
-- “compulsory retirement age” means—[^key-198fbd0467b8447c28ea83ace2528730]
-  - (a) if the member was serving on or after , but not prior to,[^key-50d62ba405b83e3b17b030ad8d357487] 1st July 1994, the age of 55 years,
+- “compulsory retirement age” means—[^c-198fbd0467b8447c28ea83ace2528730]
+  - (a) if the member was serving on or after , but not prior to,[^c-50d62ba405b83e3b17b030ad8d357487] 1st July 1994, the age of 55 years,
   - (b) if the member was serving prior to 1st July 1994, the age of 57 years.
 - “date of leaving” means the date the member leaves the reserve service under the terms of the Scheme after completing the period of required re-training undertaken;
 - “disciplinary reasons” are any reasons connected to the Discipline Regulations;
@@ -83,7 +83,7 @@ In these Regulations—
 - “time period” means the lump sum factor specified in the tables in Part 2 of the Schedule expressed in years and fractions of years measured from the date of payment of the additional severance lump sum;
 - “unexpired period of the lump sum” means the time period less the number of days elapsed since the date of payment of the severance lump sums.
 
-### 3. Length and termination of the Scheme[^key-9b30247a809ae924f6e62f742b392e3d]
+### 3. Length and termination of the Scheme[^c-9b30247a809ae924f6e62f742b392e3d]
 
 (1) There shall be a severance scheme for members of the reserve service which shall be treated as having had effect from 1st April 2005.
 
@@ -92,11 +92,11 @@ In these Regulations—
 (3) The Secretary of State must not make such a determination without—
 
 - (a) consulting with the Chief Constable, the Northern Ireland Policing Board and the Police Association; and
-- (b) the consent of the Department of Finance and Personnel[^key-fb101a2c504e1087405b5b8c17d034ba].
+- (b) the consent of the Department of Finance and Personnel[^c-fb101a2c504e1087405b5b8c17d034ba].
 
 ## PART 2 — ELIGIBILITY
 
-### 4. Eligibility for and entry to Scheme[^key-e3a385c412f6f08900b6b4fd55b430ef]
+### 4. Eligibility for and entry to Scheme[^c-e3a385c412f6f08900b6b4fd55b430ef]
 
 (1) Any person who was a member of the reserve service on 31st March 2005 is eligible to apply to enter the Scheme except those who are or have been—
 
@@ -114,13 +114,13 @@ In these Regulations—
 
 ## PART 3 — ENTITLEMENTS
 
-### 5. Application[^key-305a673ae18dba3354d24711e704cdab]
+### 5. Application[^c-305a673ae18dba3354d24711e704cdab]
 
 (1) Upon entering the Scheme a member of the reserve service shall be entitled to benefits in accordance with these Regulations.
 
 (2) The Pensions Regulations shall apply to members of the Scheme subject to the modifications in regulations 10 to 14 below.
 
-### 6. Benefits payable[^key-cebc98f02e0d671a6a31d26e66cc9613]
+### 6. Benefits payable[^c-cebc98f02e0d671a6a31d26e66cc9613]
 
 (1) A member of the Scheme shall be eligible to receive one or more of the following discretionary benefits on the date of leaving—
 
@@ -135,7 +135,7 @@ In these Regulations—
 
 (4) The additional severance lump sum referred to in paragraph (3) shall be equivalent to one sixth of the member’s annual pensionable pay at the date of leaving.
 
-### 7. Employment in the Police Service of Northern Ireland[^key-ddec5f08bea15de2acfc98fe9eaf08a3]
+### 7. Employment in the Police Service of Northern Ireland[^c-ddec5f08bea15de2acfc98fe9eaf08a3]
 
 (1) A member of the Scheme who—
 
@@ -171,17 +171,17 @@ shall be required to make a repayment.
 - (a) joins the Police Service of Northern Ireland as a member of the police support staff; or
 - (b) joins a police force in Great Britain.
 
-### 8. Capping mechanism[^key-fcc8d0c6a5ec3ab52efc2f88911da556]
+### 8. Capping mechanism[^c-fcc8d0c6a5ec3ab52efc2f88911da556]
 
 The capping mechanism in Part 3 of the Schedule shall be applied to the calculation of a member’s lump sum under Part 2 of the Schedule so as to limit the lump sum payable.
 
-### 9. Part-time service[^key-9f5811cc30b7006717cebdb32165ce5d]
+### 9. Part-time service[^c-9f5811cc30b7006717cebdb32165ce5d]
 
 A member who has been in part-time service shall be entitled to the benefits payable in the Scheme subject to the adjustment of his annual pensionable pay by the appropriate factor.
 
 ## PART 4 — PENSIONS
 
-### 10. Eligibility for pensionable service enhancements[^key-cb6e647d74a35a1fddcdc488a810c35e]
+### 10. Eligibility for pensionable service enhancements[^c-cb6e647d74a35a1fddcdc488a810c35e]
 
 (1) A member who complies with the following conditions shall be eligible for pensionable service enhancements in accordance with the Pensions Regulations—
 
@@ -190,7 +190,7 @@ A member who has been in part-time service shall be entitled to the benefits pay
 
 (2) Paragraph (1) applies to those members of the reserve service who are on authorised unpaid leave.
 
-### 11. Payment in lieu[^key-d127746e179ac3ba693366721ae6b376]
+### 11. Payment in lieu[^c-d127746e179ac3ba693366721ae6b376]
 
 (1) A member who would have been entitled to a short service award as defined in regulation B2 (member’s short service award) of the Pensions Regulations shall receive a payment in lieu in accordance with this regulation.
 
@@ -200,7 +200,7 @@ A member who has been in part-time service shall be entitled to the benefits pay
 
 (4) An applicant who is entitled to a payment in lieu will be entitled to commute a proportion of his payment in lieu under regulation B7(4)(b) (commutation – general provision) of the Pensions Regulations, in place of the commutation lump sum payable at 60 years.
 
-### 12. Ill-health[^key-5c6a6771bad08e331a5d65dc603a2beb]
+### 12. Ill-health[^c-5c6a6771bad08e331a5d65dc603a2beb]
 
 (1) This regulation applies when a member is eligible to—
 
@@ -209,7 +209,7 @@ A member who has been in part-time service shall be entitled to the benefits pay
 
 (2) The benefits awarded under the Scheme shall be limited so that the sum of those benefits and benefits awarded under either regulation B3 or B5(4) of the Pensions Regulations shall not exceed the maximum applicable under regulation B3 or B5(4) of those Regulations respectively.
 
-### 13. Injury on duty[^key-2dfd21df91299403fb5cb8f97fa8a049]
+### 13. Injury on duty[^c-2dfd21df91299403fb5cb8f97fa8a049]
 
 (1) This regulation applies to the payment of an injury pension to a member under regulation B4 (member’s injury award) of the Pensions Regulations.
 
@@ -232,7 +232,7 @@ A member who has been in part-time service shall be entitled to the benefits pay
 - (a) the minimum income guarantee calculation under paragraph 2 of that Part shall take no account of any pensionable service enhancements under these Regulations; and
 - (b) the amount of an injury pension under paragraph 3 of that Part shall take account of pensionable service enhancements paid to the member under these Regulations.
 
-### 14. Actuarially reduced pensions[^key-4a3055f84b7ab898d172d7de6a3c1dbd]
+### 14. Actuarially reduced pensions[^c-4a3055f84b7ab898d172d7de6a3c1dbd]
 
 (1) A member who leaves the reserve service under the Scheme and is not immediately eligible to receive a pension, or payment in lieu of pension, may elect to receive an actuarially reduced pension.
 
@@ -244,7 +244,7 @@ A member who has been in part-time service shall be entitled to the benefits pay
 
 ## PART 5 — RE-TRAINING
 
-### 15. Conversion lump sum[^key-93d3f3bfb3ed33115b5ee574ae3cc008]
+### 15. Conversion lump sum[^c-93d3f3bfb3ed33115b5ee574ae3cc008]
 
 (1) All members shall be offered 9 months of re-training before the date of leaving.
 
@@ -286,7 +286,7 @@ Regulations 6 and 8
 
 ### PART 1 — PENSIONABLE SERVICE ENHANCEMENTS AND PAYMENT IN LIEU
 
-**1.**[^key-b309d2eb86178a335baf9b91a56931ec] (1) A member of the Scheme aged 50 or over on the date of leaving shall be entitled to pensionable service enhancements of up to 5 years, subject to a maximum of—
+**1.**[^c-b309d2eb86178a335baf9b91a56931ec] (1) A member of the Scheme aged 50 or over on the date of leaving shall be entitled to pensionable service enhancements of up to 5 years, subject to a maximum of—
 
 - (a) total pensionable service of 30 years; or
 - (b) that to which the member would have been entitled had he served until his compulsory retirement age,
@@ -304,7 +304,7 @@ whichever is less.
 
 ### PART 2 — SEVERANCE LUMP SUMS
 
-**2.**[^key-671495dea7c4a9ab3ce7a308832ed888] (1) A member who is aged 50 years or over on the date of leaving shall be entitled to a severance lump sum.
+**2.**[^c-671495dea7c4a9ab3ce7a308832ed888] (1) A member who is aged 50 years or over on the date of leaving shall be entitled to a severance lump sum.
 
 (2) The amount of the lump sum in sub-paragraph (1) shall be calculated by multiplying the member’s annual pensionable pay at the date of leaving by the appropriate lump sum factor as specified in the following tables—
 
@@ -332,7 +332,7 @@ whichever is less.
 </tbody>
 </table>
 
-**3.**[^key-1f207400d555ca3032cc0c72fd7f6143] (1) A member who is aged below 50 years on the date of leaving and who is entitled to an immediate pension shall be entitled to a severance lump sum.
+**3.**[^c-1f207400d555ca3032cc0c72fd7f6143] (1) A member who is aged below 50 years on the date of leaving and who is entitled to an immediate pension shall be entitled to a severance lump sum.
 
 (2) The amount of the lump sum in sub-paragraph (1) shall be calculated by multiplying the member’s annual pensionable pay at the date of leaving by the appropriate lump sum factor as specified in the following table—
 
@@ -341,7 +341,7 @@ whichever is less.
 | Compulsory Retirement Age | 55 | 57 |
 | Lump Sum Factor | 2 1/2 | 2 3/4 |
 
-**4.**[^key-30e8cb3867042869c350184f24e143f6] (1) A member who is aged below 50 years on the date of leaving and is not entitled to an immediate pension but has served at least 5 years shall be entitled to a severance lump sum.
+**4.**[^c-30e8cb3867042869c350184f24e143f6] (1) A member who is aged below 50 years on the date of leaving and is not entitled to an immediate pension but has served at least 5 years shall be entitled to a severance lump sum.
 
 (2) The amount of the lump sum in sub-paragraph (1) shall be calculated by multiplying the member’s annual pensionable pay by the appropriate lump sum factor determined by his number of years as a member as specified in the following table—
 
@@ -357,9 +357,9 @@ whichever is less.
 
 ### PART 3 — CAPPING MECHANISM
 
-**5.**[^key-0f00224ed85dca021cb182ad9d3671dc] The benefits of severance shall not exceed the amount calculated as potential earnings, and where this occurs the difference between the two shall be deducted from the severance lump sum.
+**5.**[^c-0f00224ed85dca021cb182ad9d3671dc] The benefits of severance shall not exceed the amount calculated as potential earnings, and where this occurs the difference between the two shall be deducted from the severance lump sum.
 
-**6.**[^key-7a1dbd8b2b6665e60fcb4ca99f42edc6] In paragraph 5—
+**6.**[^c-7a1dbd8b2b6665e60fcb4ca99f42edc6] In paragraph 5—
 
 - “benefits of severance” means the sum of the severance lump sum under Part 2 of the Schedule, and the member’s gross pension entitlement, before commutation, payable between the date of leaving and compulsory retirement age (or the expiry of his period of extension);
 - “potential earnings” means the member’s basic salary and any standing allowances he would have earned by remaining as a member between the date of leaving until compulsory retirement age or the end of the period of extension.
@@ -404,15 +404,15 @@ Regulation 15 provides for a period of 9 months' re-training to be offered to al
 
 [^f00005]: Footnote: Section 26(6) originally required consultation with the Police Authority and the Police Association; paragraph 23 of Schedule 6 to the 2000 Act amends the 1998 Act to replace “Police Authority” with “Board” which is defined as the Northern Ireland Policing Board
 
-[^key-759f7248629a44b3079b605b2d2523e8]: Commencement: Reg. 1 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-759f7248629a44b3079b605b2d2523e8]: Commencement: Reg. 1 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-ccf392def932a3c1a515d73ddaff7b47]: Commencement: Reg. 2 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-ccf392def932a3c1a515d73ddaff7b47]: Commencement: Reg. 2 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
 [^f00006]: Footnote: [S.R. 1996 No. 473](https://www.legislation.gov.uk/nisr/1996/473); regulation 2(4) is inserted by paragraph 1 of Schedule 1 to those Regulations
 
-[^key-198fbd0467b8447c28ea83ace2528730]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2006/313/regulation/2) substituted (with effect in accordance with reg. 1 of the amending Rule) by [Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Full-Time) (Severance) (Amendment) Regulations 2008 (S.R. 2008/439)](https://www.legislation.gov.uk/nisr/2008/439), [regs. 1](https://www.legislation.gov.uk/nisr/2008/439/regulation/1), [3](https://www.legislation.gov.uk/nisr/2008/439/regulation/3)
+[^c-198fbd0467b8447c28ea83ace2528730]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2006/313/regulation/2) substituted (with effect in accordance with reg. 1 of the amending Rule) by [Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Full-Time) (Severance) (Amendment) Regulations 2008 (S.R. 2008/439)](https://www.legislation.gov.uk/nisr/2008/439), [regs. 1](https://www.legislation.gov.uk/nisr/2008/439/regulation/1), [3](https://www.legislation.gov.uk/nisr/2008/439/regulation/3)
 
-[^key-50d62ba405b83e3b17b030ad8d357487]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2006/313/regulation/2) inserted (with effect in accordance with reg. 1(1) of the amending Rule) by [Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Full-Time) (Severance) (Amendment) Regulations 2010 (S.R. 2010/377)](https://www.legislation.gov.uk/nisr/2010/377), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/377/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2010/377/regulation/3)
+[^c-50d62ba405b83e3b17b030ad8d357487]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2006/313/regulation/2) inserted (with effect in accordance with reg. 1(1) of the amending Rule) by [Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Full-Time) (Severance) (Amendment) Regulations 2010 (S.R. 2010/377)](https://www.legislation.gov.uk/nisr/2010/377), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/377/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2010/377/regulation/3)
 
 [^f00007]: Footnote: [S.R. 2000 No. 315](https://www.legislation.gov.uk/nisr/2000/315); amended by the Police Service of Northern Ireland (Conduct) Regulations 2003 ([S.R. 2003 No. 68](https://www.legislation.gov.uk/nisr/2003/68))
 
@@ -422,45 +422,45 @@ Regulation 15 provides for a period of 9 months' re-training to be offered to al
 
 [^f00010]: Footnote: Regulation 47A and Schedule 11 were inserted by regulation 2 of the Royal Ulster Constabulary Reserve (Full-time) (Appointment and Conditions of Service) (Amendment) Regulations 1997 ([S.R. 1997 No. 363](https://www.legislation.gov.uk/nisr/1997/363))
 
-[^key-9b30247a809ae924f6e62f742b392e3d]: Commencement: Reg. 3 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-9b30247a809ae924f6e62f742b392e3d]: Commencement: Reg. 3 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-fb101a2c504e1087405b5b8c17d034ba]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/nisr/2006/313/regulation/3/3/b) substituted (31.12.2011) by [Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Full-Time) (Severance) (Amendment) Regulations 2011 (S.R. 2011/408)](https://www.legislation.gov.uk/nisr/2011/408), [regs. 1](https://www.legislation.gov.uk/nisr/2011/408/regulation/1), [3](https://www.legislation.gov.uk/nisr/2011/408/regulation/3)
+[^c-fb101a2c504e1087405b5b8c17d034ba]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/nisr/2006/313/regulation/3/3/b) substituted (31.12.2011) by [Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Full-Time) (Severance) (Amendment) Regulations 2011 (S.R. 2011/408)](https://www.legislation.gov.uk/nisr/2011/408), [regs. 1](https://www.legislation.gov.uk/nisr/2011/408/regulation/1), [3](https://www.legislation.gov.uk/nisr/2011/408/regulation/3)
 
-[^key-e3a385c412f6f08900b6b4fd55b430ef]: Commencement: Reg. 4 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-e3a385c412f6f08900b6b4fd55b430ef]: Commencement: Reg. 4 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-305a673ae18dba3354d24711e704cdab]: Commencement: Reg. 5 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-305a673ae18dba3354d24711e704cdab]: Commencement: Reg. 5 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-cebc98f02e0d671a6a31d26e66cc9613]: Commencement: Reg. 6 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-cebc98f02e0d671a6a31d26e66cc9613]: Commencement: Reg. 6 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-ddec5f08bea15de2acfc98fe9eaf08a3]: Commencement: Reg. 7 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-ddec5f08bea15de2acfc98fe9eaf08a3]: Commencement: Reg. 7 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-fcc8d0c6a5ec3ab52efc2f88911da556]: Commencement: Reg. 8 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-fcc8d0c6a5ec3ab52efc2f88911da556]: Commencement: Reg. 8 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-9f5811cc30b7006717cebdb32165ce5d]: Commencement: Reg. 9 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-9f5811cc30b7006717cebdb32165ce5d]: Commencement: Reg. 9 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-cb6e647d74a35a1fddcdc488a810c35e]: Commencement: Reg. 10 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-cb6e647d74a35a1fddcdc488a810c35e]: Commencement: Reg. 10 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-d127746e179ac3ba693366721ae6b376]: Commencement: Reg. 11 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-d127746e179ac3ba693366721ae6b376]: Commencement: Reg. 11 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-5c6a6771bad08e331a5d65dc603a2beb]: Commencement: Reg. 12 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-5c6a6771bad08e331a5d65dc603a2beb]: Commencement: Reg. 12 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-2dfd21df91299403fb5cb8f97fa8a049]: Commencement: Reg. 13 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-2dfd21df91299403fb5cb8f97fa8a049]: Commencement: Reg. 13 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-4a3055f84b7ab898d172d7de6a3c1dbd]: Commencement: Reg. 14 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-4a3055f84b7ab898d172d7de6a3c1dbd]: Commencement: Reg. 14 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-93d3f3bfb3ed33115b5ee574ae3cc008]: Commencement: Reg. 15 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-93d3f3bfb3ed33115b5ee574ae3cc008]: Commencement: Reg. 15 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-b309d2eb86178a335baf9b91a56931ec]: Commencement: Sch. para. 1 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-b309d2eb86178a335baf9b91a56931ec]: Commencement: Sch. para. 1 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-671495dea7c4a9ab3ce7a308832ed888]: Commencement: Sch. para. 2 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-671495dea7c4a9ab3ce7a308832ed888]: Commencement: Sch. para. 2 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-1f207400d555ca3032cc0c72fd7f6143]: Commencement: Sch. para. 3 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-1f207400d555ca3032cc0c72fd7f6143]: Commencement: Sch. para. 3 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-30e8cb3867042869c350184f24e143f6]: Commencement: Sch. para. 4 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-30e8cb3867042869c350184f24e143f6]: Commencement: Sch. para. 4 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-0f00224ed85dca021cb182ad9d3671dc]: Commencement: Sch. para. 5 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-0f00224ed85dca021cb182ad9d3671dc]: Commencement: Sch. para. 5 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
-[^key-7a1dbd8b2b6665e60fcb4ca99f42edc6]: Commencement: Sch. para. 6 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
+[^c-7a1dbd8b2b6665e60fcb4ca99f42edc6]: Commencement: Sch. para. 6 in operation at 17.8.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/313/regulation/1)
 
 [^f00011]: Footnote: [S.I. 1972 No. 1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
 

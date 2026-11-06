@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Motor cycle sidestands[^key-6d30f0adedc97bc57627f4edee1b12e5]
+## 38. Motor cycle sidestands[^c-6d30f0adedc97bc57627f4edee1b12e5]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d30f0adedc97bc57627f4edee1b12e5]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1986/1078/regulation/38) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-6d30f0adedc97bc57627f4edee1b12e5]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1986/1078/regulation/38) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

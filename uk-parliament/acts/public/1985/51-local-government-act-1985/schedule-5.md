@@ -220,7 +220,7 @@ Section 8.
 
 (35) In section 125(4), after the word “county”, there shall be inserted the words “metropolitan district,”.
 
-(36)[^key-ecf5c4ac0a2ef4cc9ac2385f223c1958] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(36)[^c-ecf5c4ac0a2ef4cc9ac2385f223c1958] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (37)[^c3167111] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -376,7 +376,7 @@ the Secretary of State, after consulting the council, may exercise any of its po
 
 [^c3167221]: Textual amendment: Sch. 5 para. 4(21) repealed by [Road Traffic (Consequential Provisions) Act 1988 (c.54, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1988/54), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1988/54/section/3/1) 5, Sch. 1 Pt. I, Sch. 4 paras. 1, 2
 
-[^key-ecf5c4ac0a2ef4cc9ac2385f223c1958]: Textual amendment: [Sch. 5 para. 4(36)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/5/paragraph/4/36) repealed (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
+[^c-ecf5c4ac0a2ef4cc9ac2385f223c1958]: Textual amendment: [Sch. 5 para. 4(36)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/5/paragraph/4/36) repealed (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
 
 [^c3167261]: Textual amendment: [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1985/51/schedule/5/part/II) repealed (so far as relating to Greater London) (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [ss. 294(1)(c)](https://www.legislation.gov.uk/ukpga/1999/29/section/294/1/c), [423](https://www.legislation.gov.uk/ukpga/1999/29/section/423), [Sch. 34 Pt. VI](https://www.legislation.gov.uk/ukpga/1999/29/schedule/34/part/VI) (with [s. 294(2)-(8)](https://www.legislation.gov.uk/ukpga/1999/29/section/294/2), [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2](https://www.legislation.gov.uk/uksi/2000/801/article/2), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/III)
 

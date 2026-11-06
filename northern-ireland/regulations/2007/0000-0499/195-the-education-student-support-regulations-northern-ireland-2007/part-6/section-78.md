@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Categories of student[^key-5f93f920858fb92a84a501660d2a2bb7]
+## 78. Categories of student[^c-5f93f920858fb92a84a501660d2a2bb7]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ In this Part—
 
 ## Annotations
 
-[^key-5f93f920858fb92a84a501660d2a2bb7]: Commencement: [Reg. 78](https://www.legislation.gov.uk/nisr/2007/195/regulation/78) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-5f93f920858fb92a84a501660d2a2bb7]: Commencement: [Reg. 78](https://www.legislation.gov.uk/nisr/2007/195/regulation/78) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

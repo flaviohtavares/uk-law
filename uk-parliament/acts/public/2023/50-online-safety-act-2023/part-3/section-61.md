@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. “Primary priority content that is harmful to children”[^key-2aadd27f50f22a68ecc407abe7471d0e]
+## 61. “Primary priority content that is harmful to children”[^c-2aadd27f50f22a68ecc407abe7471d0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2aadd27f50f22a68ecc407abe7471d0e]: Commencement: S. 61 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-2aadd27f50f22a68ecc407abe7471d0e]: Commencement: S. 61 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)

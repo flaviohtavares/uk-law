@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Clinical trials.[^key-2ab242d9e9fa4af0254fd703dc6212af]
+## 31. Clinical trials.[^c-2ab242d9e9fa4af0254fd703dc6212af]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ab242d9e9fa4af0254fd703dc6212af]: Textual amendment: S. 31 omitted (1.5.2004) by virtue of [Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031)](https://www.legislation.gov.uk/uksi/2004/1031), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1031/regulation/1), [Sch. 10 para. 6](https://www.legislation.gov.uk/uksi/2004/1031/schedule/10/paragraph/6)
+[^c-2ab242d9e9fa4af0254fd703dc6212af]: Textual amendment: S. 31 omitted (1.5.2004) by virtue of [Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031)](https://www.legislation.gov.uk/uksi/2004/1031), [reg. 1](https://www.legislation.gov.uk/uksi/2004/1031/regulation/1), [Sch. 10 para. 6](https://www.legislation.gov.uk/uksi/2004/1031/schedule/10/paragraph/6)

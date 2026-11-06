@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Voluntary de-registration[^key-4a868d5896a39d4c458051ccee7a07df]
+## 22. Voluntary de-registration[^c-4a868d5896a39d4c458051ccee7a07df]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a868d5896a39d4c458051ccee7a07df]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/29/section/22) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/c)
+[^c-4a868d5896a39d4c458051ccee7a07df]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/29/section/22) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/c)

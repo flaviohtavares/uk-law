@@ -35,270 +35,270 @@ laying down the rules for participation and dissemination in "Horizon 2020 - the
 
 (Text with EEA relevance) (revoked)
 
-[^key-b89b6779da78e97bf6b63d9bee74ad0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b89b6779da78e97bf6b63d9bee74ad0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## TITLE I — INTRODUCTORY PROVISIONS[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+## TITLE I — INTRODUCTORY PROVISIONS[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
-### Article 1. Subject matter and scope[^key-b89b6779da78e97bf6b63d9bee74ad0e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Definitions[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+### Article 1. Subject matter and scope[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Confidentiality[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+### Article 2. Definitions[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Information to be made available[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+### Article 3. Confidentiality[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Guidance and information for potential participants[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+### Article 4. Information to be made available[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## TITLE II — RULES FOR PARTICIPATION[^key-b89b6779da78e97bf6b63d9bee74ad0e]
-
-### CHAPTER I — General provisions[^key-b89b6779da78e97bf6b63d9bee74ad0e]
-
-#### Article 6. Forms of funding[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+### Article 5. Guidance and information for potential participants[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 7. Legal entities that may participate in actions[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+## TITLE II — RULES FOR PARTICIPATION[^c-b89b6779da78e97bf6b63d9bee74ad0e]
+
+### CHAPTER I — General provisions[^c-b89b6779da78e97bf6b63d9bee74ad0e]
+
+#### Article 6. Forms of funding[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 8. Independence[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+#### Article 7. Legal entities that may participate in actions[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER II — Grants[^key-b89b6779da78e97bf6b63d9bee74ad0e]
-
-#### Section I — Award procedure[^key-b89b6779da78e97bf6b63d9bee74ad0e]
-
-##### Article 9. Conditions for participation[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+#### Article 8. Independence[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 10. Eligibility for funding[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+### CHAPTER II — Grants[^c-b89b6779da78e97bf6b63d9bee74ad0e]
+
+#### Section I — Award procedure[^c-b89b6779da78e97bf6b63d9bee74ad0e]
+
+##### Article 9. Conditions for participation[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 11. Calls for proposals[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 10. Eligibility for funding[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 12. Joint calls with third countries or with international organisations[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 11. Calls for proposals[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 13. Proposals[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 12. Joint calls with third countries or with international organisations[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 14. Ethics review[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 13. Proposals[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 15. Selection and award criteria[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 14. Ethics review[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 16. Evaluation review procedure[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 15. Selection and award criteria[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 17. Enquiries and complaints[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 16. Evaluation review procedure[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 18. Grant agreement[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 17. Enquiries and complaints[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 19. Grant decisions[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 18. Grant agreement[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 20. Time to grant[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 19. Grant decisions[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 21. Time to Pay[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 20. Time to grant[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 22. Secure electronic system[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 21. Time to Pay[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Section II — Implementation[^key-b89b6779da78e97bf6b63d9bee74ad0e]
-
-##### Article 23. Implementation of actions[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 22. Secure electronic system[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 24. Consortium[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+#### Section II — Implementation[^c-b89b6779da78e97bf6b63d9bee74ad0e]
+
+##### Article 23. Implementation of actions[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Section III — Forms of grants and funding rules[^key-b89b6779da78e97bf6b63d9bee74ad0e]
-
-##### Article 25. Forms of grants[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 24. Consortium[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 26. Eligibility of costs[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+#### Section III — Forms of grants and funding rules[^c-b89b6779da78e97bf6b63d9bee74ad0e]
+
+##### Article 25. Forms of grants[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 27. Direct eligible personnel costs[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 26. Eligibility of costs[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 28. Funding of the action[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 27. Direct eligible personnel costs[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 29. Indirect costs[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 28. Funding of the action[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 30. Evaluation of the funding levels[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 29. Indirect costs[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 31. Annual productive hours[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 30. Evaluation of the funding levels[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 32. Owners of SMEs and natural persons without a salary[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 31. Annual productive hours[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 33. Unit costs[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 32. Owners of SMEs and natural persons without a salary[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 34. Certificate on the financial statements[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 33. Unit costs[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 35. Certificate on the methodology[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 34. Certificate on the financial statements[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 36. Certifying auditors[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 35. Certificate on the methodology[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 37. Cumulative funding[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 36. Certifying auditors[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Section IV — Guarantees[^key-b89b6779da78e97bf6b63d9bee74ad0e]
-
-##### Article 38. Participant Guarantee Fund[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 37. Cumulative funding[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 39. Operation of the Fund[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+#### Section IV — Guarantees[^c-b89b6779da78e97bf6b63d9bee74ad0e]
+
+##### Article 38. Participant Guarantee Fund[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER III — Experts[^key-b89b6779da78e97bf6b63d9bee74ad0e]
-
-#### Article 40. Appointment of independent experts[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 39. Operation of the Fund[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## TITLE III — RULES GOVERNING THE EXPLOITATION AND DISSEMINATION OF RESULTS[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+### CHAPTER III — Experts[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
-### CHAPTER I — Grants[^key-b89b6779da78e97bf6b63d9bee74ad0e]
-
-#### Section I — Results[^key-b89b6779da78e97bf6b63d9bee74ad0e]
-
-##### Article 41. Ownership of results[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+#### Article 40. Appointment of independent experts[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 42. Protection of results[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+## TITLE III — RULES GOVERNING THE EXPLOITATION AND DISSEMINATION OF RESULTS[^c-b89b6779da78e97bf6b63d9bee74ad0e]
+
+### CHAPTER I — Grants[^c-b89b6779da78e97bf6b63d9bee74ad0e]
+
+#### Section I — Results[^c-b89b6779da78e97bf6b63d9bee74ad0e]
+
+##### Article 41. Ownership of results[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 43. Exploitation and dissemination of results[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 42. Protection of results[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 44. Transfer and licensing of results[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 43. Exploitation and dissemination of results[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Section II — Access rights to background and results[^key-b89b6779da78e97bf6b63d9bee74ad0e]
-
-##### Article 45. Background[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 44. Transfer and licensing of results[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 46. Access rights principles[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+#### Section II — Access rights to background and results[^c-b89b6779da78e97bf6b63d9bee74ad0e]
+
+##### Article 45. Background[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 47. Access rights for implementation[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 46. Access rights principles[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 48. Access rights for exploitation[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 47. Access rights for implementation[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 49. Access rights for the Union and the Member States[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 48. Access rights for exploitation[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## TITLE IV — SPECIFIC PROVISIONS[^key-b89b6779da78e97bf6b63d9bee74ad0e]
-
-### Article 50. Prizes[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+##### Article 49. Access rights for the Union and the Member States[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 51. Procurement, pre-commercial procurement and public procurement of innovative solutions[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+## TITLE IV — SPECIFIC PROVISIONS[^c-b89b6779da78e97bf6b63d9bee74ad0e]
+
+### Article 50. Prizes[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 52. Financial Instruments[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+### Article 51. Procurement, pre-commercial procurement and public procurement of innovative solutions[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 53. SME Instrument[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+### Article 52. Financial Instruments[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 54. Fast Track to Innovation[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+### Article 53. SME Instrument[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 55. Other specific provisions[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+### Article 54. Fast Track to Innovation[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## TITLE V — FINAL PROVISIONS[^key-b89b6779da78e97bf6b63d9bee74ad0e]
-
-### Article 56. Exercise of the delegation[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+### Article 55. Other specific provisions[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 57. Repeal and transitional provisions[^key-b89b6779da78e97bf6b63d9bee74ad0e]
+## TITLE V — FINAL PROVISIONS[^c-b89b6779da78e97bf6b63d9bee74ad0e]
+
+### Article 56. Exercise of the delegation[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 58.**[^key-b89b6779da78e97bf6b63d9bee74ad0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 57. Repeal and transitional provisions[^c-b89b6779da78e97bf6b63d9bee74ad0e]
 
-[^key-b89b6779da78e97bf6b63d9bee74ad0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 58.**[^c-b89b6779da78e97bf6b63d9bee74ad0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b89b6779da78e97bf6b63d9bee74ad0e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b89b6779da78e97bf6b63d9bee74ad0e]: Textual amendment: Regulation revoked (31.12.2020) by [The Horizon 2020 Framework Programme for Research and Innovation (EU Exit) Regulations 2019 (S.I. 2019/21)](https://www.legislation.gov.uk/uksi/2019/21), [regs. 1](https://www.legislation.gov.uk/uksi/2019/21/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/21/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b89b6779da78e97bf6b63d9bee74ad0e]: Textual amendment: Regulation revoked (31.12.2020) by [The Horizon 2020 Framework Programme for Research and Innovation (EU Exit) Regulations 2019 (S.I. 2019/21)](https://www.legislation.gov.uk/uksi/2019/21), [regs. 1](https://www.legislation.gov.uk/uksi/2019/21/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/21/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

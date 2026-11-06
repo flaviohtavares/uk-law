@@ -22,7 +22,7 @@ summary: ''
 
 (1) In these Rules, the expression—
 
-- “administrative court division” means an area specified as such in directions issued by the Department of Justice under section 2 of the Justice Act (Northern Ireland) 2015;[^key-c5ef3a45b69c47e1b1210a7146808fb3]
+- “administrative court division” means an area specified as such in directions issued by the Department of Justice under section 2 of the Justice Act (Northern Ireland) 2015;[^c-c5ef3a45b69c47e1b1210a7146808fb3]
 - \[[^f00542] “**controller**” means a person appointed as controller for a patient under Article 101 of the Mental Health (Northern Ireland) Order 1986;\]
 - “**Court Funds Rules**” means rules made by the Lord Chancellor, with the concurrence of the Treasury, under section 82 of the Judicature (Northern Ireland) Act 1978;
 - \[[^f00543] . . .\]
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c5ef3a45b69c47e1b1210a7146808fb3]: Textual amendment: Words in Order 58 rule 2(1) inserted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(24)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/24); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-c5ef3a45b69c47e1b1210a7146808fb3]: Textual amendment: Words in Order 58 rule 2(1) inserted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(24)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/24); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
 [^f00542]: Footnote: Words inserted by [S.R. 1988 No. 100](https://www.legislation.gov.uk/nisr/1988/100) with effect from 1.5.88
 

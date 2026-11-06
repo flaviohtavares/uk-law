@@ -30,7 +30,7 @@ summary: ''
 
 REGISTRATION OF BIRTHS, DEATHS AND MARRIAGES
 
-Births, Deaths and Marriages (Fees) Order (Northern Ireland) 1998 (revoked)[^key-dc4ab570b72c8347540643776ca51eb7]
+Births, Deaths and Marriages (Fees) Order (Northern Ireland) 1998 (revoked)[^c-dc4ab570b72c8347540643776ca51eb7]
 
 Made
 
@@ -42,31 +42,31 @@ Coming into operation
 
 1st November 1998
 
-[^key-dc4ab570b72c8347540643776ca51eb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc4ab570b72c8347540643776ca51eb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dc4ab570b72c8347540643776ca51eb7]
+## 1. Citation and commencement[^c-dc4ab570b72c8347540643776ca51eb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable[^key-dc4ab570b72c8347540643776ca51eb7]
+## 2. Fees payable[^c-dc4ab570b72c8347540643776ca51eb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees under the Marriage Act 1983[^key-dc4ab570b72c8347540643776ca51eb7]
+## 3. Fees under the Marriage Act 1983[^c-dc4ab570b72c8347540643776ca51eb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-dc4ab570b72c8347540643776ca51eb7]
+## 4. Revocation[^c-dc4ab570b72c8347540643776ca51eb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dc4ab570b72c8347540643776ca51eb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc4ab570b72c8347540643776ca51eb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Fees Payable[^key-dc4ab570b72c8347540643776ca51eb7]
+## SCHEDULE — Fees Payable[^c-dc4ab570b72c8347540643776ca51eb7]
 
 Articles 2 and 3
 
@@ -74,8 +74,8 @@ Articles 2 and 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-dc4ab570b72c8347540643776ca51eb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc4ab570b72c8347540643776ca51eb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc4ab570b72c8347540643776ca51eb7]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/330) revoked (1.8.2002) by [Births, Deaths and Marriages (Fees) (No. 2) Order (Northern Ireland) 2002 (S.R. 2002/242)](https://www.legislation.gov.uk/nisr/2002/242), [arts. 1](https://www.legislation.gov.uk/nisr/2002/242/article/1), [4](https://www.legislation.gov.uk/nisr/2002/242/article/4)
+[^c-dc4ab570b72c8347540643776ca51eb7]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/330) revoked (1.8.2002) by [Births, Deaths and Marriages (Fees) (No. 2) Order (Northern Ireland) 2002 (S.R. 2002/242)](https://www.legislation.gov.uk/nisr/2002/242), [arts. 1](https://www.legislation.gov.uk/nisr/2002/242/article/1), [4](https://www.legislation.gov.uk/nisr/2002/242/article/4)

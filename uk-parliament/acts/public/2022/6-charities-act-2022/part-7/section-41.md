@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Extent, commencement and short title[^key-850d5129bcd7c668684f1cf20b68e37d]
+## 41. Extent, commencement and short title[^c-850d5129bcd7c668684f1cf20b68e37d]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ has the same extent as the enactment or provision to which it relates.
 
 ## Annotations
 
-[^key-850d5129bcd7c668684f1cf20b68e37d]: Commencement: S. 41 in force at Royal Assent, see [s. 41(3)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/3)
+[^c-850d5129bcd7c668684f1cf20b68e37d]: Commencement: S. 41 in force at Royal Assent, see [s. 41(3)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/3)

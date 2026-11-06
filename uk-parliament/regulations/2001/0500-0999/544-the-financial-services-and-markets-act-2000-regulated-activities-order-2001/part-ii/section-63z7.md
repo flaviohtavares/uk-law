@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63Z7. Interpretation[^key-d686ca47d70e55ec032b2f7748406496]
+## 63Z7. Interpretation[^c-d686ca47d70e55ec032b2f7748406496]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-d686ca47d70e55ec032b2f7748406496]: Textual amendment: [Pt. 2 Ch. 15F](https://www.legislation.gov.uk/uksi/2001/544/part/2/chapter/15F) inserted (16.12.2025 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (ESG Ratings) Order 2025 (S.I. 2025/1349)](https://www.legislation.gov.uk/uksi/2025/1349), [arts. 2](https://www.legislation.gov.uk/uksi/2025/1349/article/2), [6](https://www.legislation.gov.uk/uksi/2025/1349/article/6) (with [arts. 8-22](https://www.legislation.gov.uk/uksi/2025/1349/article/8))
+[^c-d686ca47d70e55ec032b2f7748406496]: Textual amendment: [Pt. 2 Ch. 15F](https://www.legislation.gov.uk/uksi/2001/544/part/2/chapter/15F) inserted (16.12.2025 for specified purposes) by [The Financial Services and Markets Act 2000 (Regulated Activities) (ESG Ratings) Order 2025 (S.I. 2025/1349)](https://www.legislation.gov.uk/uksi/2025/1349), [arts. 2](https://www.legislation.gov.uk/uksi/2025/1349/article/2), [6](https://www.legislation.gov.uk/uksi/2025/1349/article/6) (with [arts. 8-22](https://www.legislation.gov.uk/uksi/2025/1349/article/8))

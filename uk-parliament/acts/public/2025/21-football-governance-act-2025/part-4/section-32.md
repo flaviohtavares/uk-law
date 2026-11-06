@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Determinations under sections 28 and 29: time limits[^key-6f5bbabe16c68454862b91b7e2ce101e][^key-73a6faf34f3304f4bf1e514026e875d1]
+## 32. Determinations under sections 28 and 29: time limits[^c-6f5bbabe16c68454862b91b7e2ce101e][^c-73a6faf34f3304f4bf1e514026e875d1]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f5bbabe16c68454862b91b7e2ce101e]: Commencement: S. 32 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-6f5bbabe16c68454862b91b7e2ce101e]: Commencement: S. 32 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-73a6faf34f3304f4bf1e514026e875d1]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/21/section/32) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(vi)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/vi)
+[^c-73a6faf34f3304f4bf1e514026e875d1]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2025/21/section/32) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(vi)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/vi)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Communications generally[^key-342b9822343cefdccbeb5387a87adb8d]
+## 34. Communications generally[^c-342b9822343cefdccbeb5387a87adb8d]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-342b9822343cefdccbeb5387a87adb8d]: Textual amendment: [Rule 34](https://www.legislation.gov.uk/uksi/1999/728/rule/34) substituted (24.10.2000) by [The Prison (Amendment) (No. 2) Rules 2000 (S.I. 2000/2641)](https://www.legislation.gov.uk/uksi/2000/2641), [rules 1](https://www.legislation.gov.uk/uksi/2000/2641/rule/1), [4](https://www.legislation.gov.uk/uksi/2000/2641/rule/4)
+[^c-342b9822343cefdccbeb5387a87adb8d]: Textual amendment: [Rule 34](https://www.legislation.gov.uk/uksi/1999/728/rule/34) substituted (24.10.2000) by [The Prison (Amendment) (No. 2) Rules 2000 (S.I. 2000/2641)](https://www.legislation.gov.uk/uksi/2000/2641), [rules 1](https://www.legislation.gov.uk/uksi/2000/2641/rule/1), [4](https://www.legislation.gov.uk/uksi/2000/2641/rule/4)

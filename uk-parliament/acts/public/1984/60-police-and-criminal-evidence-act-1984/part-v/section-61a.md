@@ -48,7 +48,7 @@ summary: ''
 
 (8) Nothing in this section applies to any person—
 
-- (a) arrested or detained under the terrorism provisions or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^key-13ea720558029387edc5e1e09b9b559f];
+- (a) arrested or detained under the terrorism provisions or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^c-13ea720558029387edc5e1e09b9b559f];
 - (b) arrested under an extradition arrest power.
 
 ## Annotations
@@ -59,4 +59,4 @@ summary: ''
 
 [^c18960011]: Textual amendment: S. 61A inserted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 118(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/118/2), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/p)
 
-[^key-13ea720558029387edc5e1e09b9b559f]: Textual amendment: Words in [s. 61A(8)(a)](https://www.legislation.gov.uk/ukpga/1984/60/section/61A/8/a) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 18(6)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/18/6); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-13ea720558029387edc5e1e09b9b559f]: Textual amendment: Words in [s. 61A(8)(a)](https://www.legislation.gov.uk/ukpga/1984/60/section/61A/8/a) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 18(6)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/18/6); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)

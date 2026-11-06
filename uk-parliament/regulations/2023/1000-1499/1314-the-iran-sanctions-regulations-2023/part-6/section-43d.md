@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43D. Procurement of services relating to specified ships[^key-ed946ff1507a2e0c3b07217da50f68ca]
+## 43D. Procurement of services relating to specified ships[^c-ed946ff1507a2e0c3b07217da50f68ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed946ff1507a2e0c3b07217da50f68ca]: Textual amendment: [Pt. 6 Ch. 4A](https://www.legislation.gov.uk/uksi/2023/1314/part/6/chapter/4A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2026/983/regulation/18)
+[^c-ed946ff1507a2e0c3b07217da50f68ca]: Textual amendment: [Pt. 6 Ch. 4A](https://www.legislation.gov.uk/uksi/2023/1314/part/6/chapter/4A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2026/983/regulation/18)

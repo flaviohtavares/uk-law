@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Form and content of waiver[^key-184df42e64731922537ffc6a328a60ee]
+## 47. Form and content of waiver[^c-184df42e64731922537ffc6a328a60ee]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The Scottish Ministers may by regulations make provision about—
 
 ## Annotations
 
-[^key-184df42e64731922537ffc6a328a60ee]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2021/15/section/47) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-184df42e64731922537ffc6a328a60ee]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2021/15/section/47) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Disregard of changes occurring during summer vacation[^key-2549a28fa258b9ef705c47154b7c0021]
+## 50. Disregard of changes occurring during summer vacation[^c-2549a28fa258b9ef705c47154b7c0021]
 
 *Extent: E+W+S*
 
-In calculating a student’s income there shall be disregarded any change in the standard maintenance grant occurring in the recognised summer vacation appropriate to the student’s course, if that vacation does not form part of his period of study,[^key-587cd8c1e89995e51c9ac62c0704d1b5] from the date on which the change occurred to the end of that vacation.
+In calculating a student’s income there shall be disregarded any change in the standard maintenance grant occurring in the recognised summer vacation appropriate to the student’s course, if that vacation does not form part of his period of study,[^c-587cd8c1e89995e51c9ac62c0704d1b5] from the date on which the change occurred to the end of that vacation.
 
 ## Annotations
 
-[^key-2549a28fa258b9ef705c47154b7c0021]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1991/2887/regulation/50) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-2549a28fa258b9ef705c47154b7c0021]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1991/2887/regulation/50) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
-[^key-587cd8c1e89995e51c9ac62c0704d1b5]: Textual amendment: Words in [reg. 50](https://www.legislation.gov.uk/uksi/1991/2887/regulation/50) substituted (5.10.1992) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 3) Regulations 1992 (S.I. 1992/2155)](https://www.legislation.gov.uk/uksi/1992/2155), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2155/regulation/1/1), [Sch. para. 16](https://www.legislation.gov.uk/uksi/1992/2155/schedule/paragraph/16)
+[^c-587cd8c1e89995e51c9ac62c0704d1b5]: Textual amendment: Words in [reg. 50](https://www.legislation.gov.uk/uksi/1991/2887/regulation/50) substituted (5.10.1992) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 3) Regulations 1992 (S.I. 1992/2155)](https://www.legislation.gov.uk/uksi/1992/2155), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/2155/regulation/1/1), [Sch. para. 16](https://www.legislation.gov.uk/uksi/1992/2155/schedule/paragraph/16)

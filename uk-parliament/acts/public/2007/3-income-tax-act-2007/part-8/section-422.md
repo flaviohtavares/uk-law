@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 422. Disqualified overseas gifts[^key-da745041ea40c78f371859e7dd2df471]
+## 422. Disqualified overseas gifts[^c-da745041ea40c78f371859e7dd2df471]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da745041ea40c78f371859e7dd2df471]: Textual amendment: S. 422 omitted (8.4.2010 with effect in accordance with Sch. 8 para. 8(5) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 8 para. 3(3)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/3/3)
+[^c-da745041ea40c78f371859e7dd2df471]: Textual amendment: S. 422 omitted (8.4.2010 with effect in accordance with Sch. 8 para. 8(5) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 8 para. 3(3)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/3/3)

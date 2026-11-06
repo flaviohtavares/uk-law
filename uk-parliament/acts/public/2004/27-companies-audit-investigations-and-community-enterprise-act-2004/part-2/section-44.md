@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Civil proceedings[^key-03e974ef97d6feb7db369239db5746ed]
+## 44. Civil proceedings[^c-03e974ef97d6feb7db369239db5746ed]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ are to be paid to the Regulator.
 
 ## Annotations
 
-[^key-03e974ef97d6feb7db369239db5746ed]: Commencement: S. 44 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-03e974ef97d6feb7db369239db5746ed]: Commencement: S. 44 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)

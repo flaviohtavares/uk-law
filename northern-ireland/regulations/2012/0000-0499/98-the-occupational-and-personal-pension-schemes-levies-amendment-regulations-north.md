@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Occupational and Personal Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2012 (revoked)[^key-637bbe69126e28b1953cc3a90ea0b6dd]
+The Occupational and Personal Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2012 (revoked)[^c-637bbe69126e28b1953cc3a90ea0b6dd]
 
 Approved by resolution of the Assembly on 11th September 2012
 
@@ -44,32 +44,32 @@ Coming into operation
 
 1st April 2012
 
-[^key-637bbe69126e28b1953cc3a90ea0b6dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-637bbe69126e28b1953cc3a90ea0b6dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-637bbe69126e28b1953cc3a90ea0b6dd]
+## 1. Citation, commencement and interpretation[^c-637bbe69126e28b1953cc3a90ea0b6dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Occupational and Personal Pension Schemes (General Levy) Regulations[^key-637bbe69126e28b1953cc3a90ea0b6dd]
+## 2. Amendment of the Occupational and Personal Pension Schemes (General Levy) Regulations[^c-637bbe69126e28b1953cc3a90ea0b6dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Occupational Pension Schemes (Levies) Regulations[^key-637bbe69126e28b1953cc3a90ea0b6dd]
+## 3. Amendment of the Occupational Pension Schemes (Levies) Regulations[^c-637bbe69126e28b1953cc3a90ea0b6dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-637bbe69126e28b1953cc3a90ea0b6dd]
+## 4. Revocations[^c-637bbe69126e28b1953cc3a90ea0b6dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-637bbe69126e28b1953cc3a90ea0b6dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-637bbe69126e28b1953cc3a90ea0b6dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-637bbe69126e28b1953cc3a90ea0b6dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-637bbe69126e28b1953cc3a90ea0b6dd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-637bbe69126e28b1953cc3a90ea0b6dd]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2012/98) revoked (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/60)](https://www.legislation.gov.uk/nisr/2021/60), [reg. 3](https://www.legislation.gov.uk/nisr/2021/60/regulation/3)
+[^c-637bbe69126e28b1953cc3a90ea0b6dd]: Textual amendment: [Rule](https://www.legislation.gov.uk/nisr/2012/98) revoked (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/60)](https://www.legislation.gov.uk/nisr/2021/60), [reg. 3](https://www.legislation.gov.uk/nisr/2021/60/regulation/3)

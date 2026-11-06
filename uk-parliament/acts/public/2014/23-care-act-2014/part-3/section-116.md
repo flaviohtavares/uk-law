@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Membership of the United Kingdom Ethics Committee Authority[^key-05c9d03f18a5cdf23f8f117d31eb4b87]
+## 116. Membership of the United Kingdom Ethics Committee Authority[^c-05c9d03f18a5cdf23f8f117d31eb4b87]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 5 of the Medicines for Human Use (Clinical Trials) Regulations 200
 
 ## Annotations
 
-[^key-05c9d03f18a5cdf23f8f117d31eb4b87]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2014/23/section/116) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(h)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/h)
+[^c-05c9d03f18a5cdf23f8f117d31eb4b87]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2014/23/section/116) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(h)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/h)

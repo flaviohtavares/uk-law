@@ -44,11 +44,11 @@ Coming into operation
 
 The Department of the Environment and the Department of Agriculture in exercise of the powers conferred on them by Article 19 of the Ports (Northern Ireland) Order 1994[^f00001] and of every other power enabling them in that behalf, hereby make the following Order:—
 
-## 1. Title and commencement[^key-a4a6180a43650b0285c35742c0fbbbf8]
+## 1. Title and commencement[^c-a4a6180a43650b0285c35742c0fbbbf8]
 
 This Order may be cited as the Ports (Levy on Disposals of Land, etc.) Order (Northern Ireland) 1997 and shall come into operation on 1st March 1997.
 
-## 2. Interpretation[^key-32bb3e2f0b93097b93f51c34c759bd37]
+## 2. Interpretation[^c-32bb3e2f0b93097b93f51c34c759bd37]
 
 (1) In this Order—
 
@@ -99,27 +99,27 @@ This Order may be cited as the Ports (Levy on Disposals of Land, etc.) Order (No
 
 (3) In this Order, “the purposes of Article 19 of the 1994 Order” shall include all or any of the purposes of this Order.
 
-## 3. Relevant estate in land — specified description[^key-0c5b32521a5b6f616a93df6a191b43ab]
+## 3. Relevant estate in land — specified description[^c-0c5b32521a5b6f616a93df6a191b43ab]
 
 For the purposes of Article 19 of the 1994 Order, an estate in land is a relevant estate if, not being such an estate by virtue of paragraph (2)(*b*)(i) or (ii) of that Article, it is an estate of any kind in land which is relevant land or in land in which a relevant estate within either of those heads subsists at the time of the transfer referred to in that sub-paragraph.
 
-## 4. Time of disposal[^key-91ea179896f15be58cc59f3776a0be50]
+## 4. Time of disposal[^c-91ea179896f15be58cc59f3776a0be50]
 
 Subject to the provisions of this Order, the time at which a disposal of relevant land or a relevant estate in land is to be regarded for the purposes of Article 19 of the 1994 Order as being made is the time at which it is made, or is to be regarded as being made, for the purposes of the 1992 Act.
 
-## 5. Person making disposal[^key-8794b7e711cf97b7ba2a104f7da94906]
+## 5. Person making disposal[^c-8794b7e711cf97b7ba2a104f7da94906]
 
 Subject to the provisions of this Order, a disposal is to be regarded as being made by a person if it would be regarded as being made by that person for the purposes of the statutory provisions relating to corporation tax on chargeable gains.
 
-## 6. Chargeable disposals[^key-26081ef6c55aacb9bb1d74c2accf06d2]
+## 6. Chargeable disposals[^c-26081ef6c55aacb9bb1d74c2accf06d2]
 
 Subject to the provisions of this Order, every description of disposal of relevant land or a relevant estate in land made by a member of a chargeable company’s group is to be a chargeable disposal for the purposes of Article 19 of the 1994 Order.
 
-## 7. Accrual of gains[^key-7271fedec1b421ed5fd8985e2cfe7cbf]
+## 7. Accrual of gains[^c-7271fedec1b421ed5fd8985e2cfe7cbf]
 
 Where, for the purposes of Article 19 of the 1994 Order, on a disposal of relevant land or a relevant estate in land a gain accrues or is regarded as accruing to a member of a chargeable company’s group, the gain shall for those purposes be regarded as accruing to the chargeable company, even if the disposal is not made by that company or no actual benefit accrues to that company on the disposal.
 
-## 8. Computation of gains[^key-97e7dc26b76530996f8c71713182c638]
+## 8. Computation of gains[^c-97e7dc26b76530996f8c71713182c638]
 
 (1) Subject to the provisions of this Order, the amount of the gain which accrues, or is to be regarded for the purposes of Article 19 of the 1994 Order as accruing, to a member of a chargeable company’s group on a disposal of relevant land or a relevant estate in land shall be the amount of the gain accruing or regarded as accruing on the disposal computed in accordance with the statutory provisions relating to the computation of corporation tax on chargeable gains and taking account of any claim or election which is made for the purposes of the 1992 Act.
 
@@ -172,15 +172,15 @@ the disposal shall no longer be disregarded for the purposes mentioned in paragr
   in each case as increased by the percentage of any increase in the retail prices index between that for the month in which this Order is made and that for the month immediately preceding the month in which the calculation falls to be made; and
 - (e) “disregarded limit”, in relation to a disposal made, or regarded for the purposes of Article 19 of the 1994 Order as being made, by a member of a chargeable company’s group means £4,000 as increased by the percentage of any increase in the retail prices index between that for the month in which this Order is made and that for the month immediately preceding the month in which the disposal is made or regarded for those purposes as being made.
 
-## 9. Miscellaneous modifications of tax provisions as applied[^key-374ee17c12d28f3ee0f4cd4458a2d943]
+## 9. Miscellaneous modifications of tax provisions as applied[^c-374ee17c12d28f3ee0f4cd4458a2d943]
 
 Schedule 2 (which provides for miscellaneous exclusions from and modifications of the statutory provisions relating to corporation tax on chargeable gains as they apply for the purposes of Article 19 of the 1994 Order) shall have effect.
 
-## 10. Market values — disputes[^key-5f3bf27808a45b9268aa4bbfa755180f]
+## 10. Market values — disputes[^c-5f3bf27808a45b9268aa4bbfa755180f]
 
 Where the market value of any land or any estate in land is required to be determined for the purpose of computing the amount of any gain accruing on a disposal made, or to be regarded for the purposes of Article 19 of the 1994 Order as being made, by a chargeable company or another member of the chargeable company’s group, Article 38 shall apply for the purpose of resolving any dispute between the chargeable company and the Department regarding that value.
 
-## 11. Appropriation to trading stock[^key-414a386ed70b76611bf3d5a9c541578e]
+## 11. Appropriation to trading stock[^c-414a386ed70b76611bf3d5a9c541578e]
 
 (1) If relevant land or a relevant estate in land is within the levy period appropriated by a member of a chargeable company’s group as trading stock in such circumstances that section 161(1) of the 1992 Act applies to the appropriation, the disposal constituted by the appropriation shall for the purposes of Article 19 of the 1994 Order be regarded as taking place at such time as the land or estate ceases to be beneficially owned—
 
@@ -196,11 +196,11 @@ and that time shall accordingly be the disposal date in relation to that disposa
 
 (3) Sections 161(3), (4) and 173(2) of the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order.
 
-## 12. Claims and elections — special cases[^key-92e93bb294abc6156bfcd2acc766df64]
+## 12. Claims and elections — special cases[^c-92e93bb294abc6156bfcd2acc766df64]
 
 Where in relation to a disposal a claim or election which might otherwise have been made for the purposes of the 1992 Act cannot for some reason be made for those purposes but the provision of that Act providing for such a claim or election has not for the purposes of Article 19 of the 1994 Order been disapplied by this Order, the chargeable company may make the claim or election for the purposes of that Article 19 if any gain which accrued on the disposal would thereby be eliminated or the amount of the gain would thereby be reduced or if it would result in the disposal being treated as not being a disposal.
 
-## 13. Payment of levy — general[^key-b58553de583c0935fcb0cb58b31115f8]
+## 13. Payment of levy — general[^c-b58553de583c0935fcb0cb58b31115f8]
 
 (1) Subject to the provisions of this Order, levy chargeable on a disposal shall be payable within the period beginning with the disposal date and ending with the quarter date next following the disposal date.
 
@@ -212,7 +212,7 @@ Where in relation to a disposal a claim or election which might otherwise have b
 
 (5) In paragraph (2) “accounting reference date” means an accounting reference date within the meaning given by Article 232 of the Companies (Northern Ireland) Order 1986[^f00006].
 
-## 14. Payment of levy — Article 8(3) and 8(5) cases[^key-95ccde559b1db43bf47b8d099e5b6851]
+## 14. Payment of levy — Article 8(3) and 8(5) cases[^c-95ccde559b1db43bf47b8d099e5b6851]
 
 (1) Subject to paragraph (2)—
 
@@ -228,7 +228,7 @@ Where in relation to a disposal a claim or election which might otherwise have b
 
 paragraph (1)(*a*) or (*b*) shall apply as if the reference to the disposal date relating to the disposal which causes the minimum limit or the materiality threshold to be exceeded were a reference to the date on which the subsequent event occurs.
 
-## 15. Interest[^key-8927b8dd3ce2cf00b88b66fb4b22c9dd]
+## 15. Interest[^c-8927b8dd3ce2cf00b88b66fb4b22c9dd]
 
 (1) Subject to the provisions of this Order, a chargeable company which fails to pay an amount of levy within the period within which it is payable in accordance with this Order shall also pay to the Department interest on that amount at the rate applicable under paragraph (2) from the first day after the end of that period until that amount is paid.
 
@@ -262,13 +262,13 @@ paragraph (1)(*a*) or (*b*) shall apply as if the reference to the disposal date
   - (i) the published annual base rate of the Bank of England or the time-weighted average of such published annual base rates for the part or parts in respect of which there is such a published annual base rate; and
   - (ii) the time-weighted averages of the bank lending rates over the remainder of the said period of the banks specified in sub-paragraph (*d*).
 
-## 16. Payment notice[^key-95656e48d2ecf1da93a884cc2ef0a58f]
+## 16. Payment notice[^c-95656e48d2ecf1da93a884cc2ef0a58f]
 
 (1) Subject to paragraph (2), when a chargeable company pays levy or interest on unpaid levy, it shall at the same time give to the Department a notice in writing in such form as it may require stating the sum paid, the liability in respect of which it is paid, and the manner in which it has been computed.
 
 (2) This Article does not apply in respect of a payment which is made on an annual reporting date and accompanies a disposal statement.
 
-## 17. Repayment — error, mistake or recomputation[^key-f9d013b249b235c9613355c1e014c724]
+## 17. Repayment — error, mistake or recomputation[^c-f9d013b249b235c9613355c1e014c724]
 
 (1) If a chargeable company which has paid levy or interest on unpaid levy alleges that the payment was excessive—
 
@@ -288,7 +288,7 @@ the company may by notice in writing at any time make a claim to the Department 
 
 until the repayment is made, at base rate.
 
-## 18. Leases at rents — grant[^key-962307c3ae804f7c96bc0bfc4c622aea]
+## 18. Leases at rents — grant[^c-962307c3ae804f7c96bc0bfc4c622aea]
 
 (1) For the purposes of Article 19 of the 1994 Order—
 
@@ -310,11 +310,11 @@ until the repayment is made, at base rate.
 
 (6) Paragraph (1)(*a*) applies to a lease under which a rent is payable of land which is relevant land or is land in which a relevant estate subsists, granted by a chargeable company or another member of that company’s group (that company or other member not itself being a tenant of the land), and paragraph (1)(*b*) applies to a lease under which a rent is payable of land which is relevant land or is land in which a relevant estate subsists, granted by a chargeable company or another member of that company’s group (that company or other member being itself a tenant of the land).
 
-## 19. Leases at rents — subsequent disposals of reversions[^key-43c7f575e3f36a2a227732e7d5101805]
+## 19. Leases at rents — subsequent disposals of reversions[^c-43c7f575e3f36a2a227732e7d5101805]
 
 Where, following the grant during the levy period of a lease to which Article 18(1)(*a*) or (*b*) applies, there is a subsequent disposal of the land or an estate in the land subject to that lease, the consideration for that disposal shall, in the computation for the purposes of Article 19 of the 1994 Order of any gain accruing or regarded as accruing on the disposal, be deemed to be equal to what would be the market value of the estate in land disposed of at the disposal date if no rent were payable under the lease.
 
-## 20. Leases at rents — early termination, renewal or extension[^key-e25393f46647e0f837f3f401110473c2]
+## 20. Leases at rents — early termination, renewal or extension[^c-e25393f46647e0f837f3f401110473c2]
 
 (1) Subject to paragraph (2), where a lease under which a rent is payable has been granted on terms which confer on the lessor a right to terminate it at a specified date or in specified circumstances, it shall be assumed, in determining the market value of the lease pursuant to Article 18, that that right will not be exercised by the lessor.
 
@@ -324,7 +324,7 @@ Where, following the grant during the levy period of a lease to which Article 18
 
 (4) If the lease is not renewed or extended pursuant to that right, the market value shall be redetermined, as at the date on which such right lapses or becomes incapable of being exercised, by reference to the actual term of the lease.
 
-## 21. Leases at rents — holding over and tacit relocation[^key-eafc116cc81eb3a9ab483aacc94a6466]
+## 21. Leases at rents — holding over and tacit relocation[^c-eafc116cc81eb3a9ab483aacc94a6466]
 
 (1) Subject to paragraph (2), where—
 
@@ -349,7 +349,7 @@ the disposal constituted by the grant of the lease shall be regarded as taking p
 
 and the explanation of “effective subsidiary” in the definition of “group” in Article 2(1) shall apply for the purposes of the definition in this paragraph as it applies for the purposes of that definition.
 
-## 22. Leases — adjustment of levy[^key-162fc51e21e804cffc8c456dfc2cd9c5]
+## 22. Leases — adjustment of levy[^c-162fc51e21e804cffc8c456dfc2cd9c5]
 
 (1) Where the market value of a lease is required to be redetermined pursuant to Article 20(1) or (2) or Article 21(1) or (2) or a gain is required to be recomputed under Article 24(2), details of the redetermination or recomputation shall be furnished by the chargeable company to the Department together with the disposal statement for the disposal period in which the event giving rise to the redetermination or recomputation took place.
 
@@ -364,7 +364,7 @@ in each case in accordance with this Article.
 
 (4) Any sum to be paid to the Department under paragraph (2)(*b*) shall be payable within the period beginning with the date of the event which gives rise to the redetermination and ending with the next following quarter date.
 
-## 23. Leases at rents — levy payable by instalments[^key-b619231aa9063005a3d4ab655767f337]
+## 23. Leases at rents — levy payable by instalments[^c-b619231aa9063005a3d4ab655767f337]
 
 (1) Subject to paragraph (2) and Article 24, the levy payable on the grant of a lease under which a rent is payable may, in so far as it exceeds the amount of levy which would but for Article 18 have been payable on the grant, be paid by the chargeable company by up to ten equal instalments on each of the company’s annual reporting dates or on the anniversaries of those dates, beginning with the annual reporting date relating to the disposal period in which the lease is granted and ending with the earlier of—
 
@@ -380,7 +380,7 @@ in each case in accordance with this Article.
 
 (4) Where an instalment is payable in accordance with paragraph (1) or (2) on a date falling after the annual reporting date relating to the last disposal period of a chargeable company, the company shall furnish to the Department on that date a statement which gives in respect of that instalment the information which is required by paragraph 14 of Schedule 3 to be given in relation to an instalment which is payable on an annual reporting date.
 
-## 24. Leases — early termination[^key-e462b31938318428a1ed44e7e8533bf1]
+## 24. Leases — early termination[^c-e462b31938318428a1ed44e7e8533bf1]
 
 (1) This Article applies to a lease in respect of which, and to the extent to which, levy is payable by instalments under Article 23, not being a lease granted to a member of the chargeable company’s group.
 
@@ -406,7 +406,7 @@ on terms substantially similar to those of the first-mentioned lease (but disreg
 
 (5) In this Article “group”, in relation to a lessee, has the meaning given by Article 21(3).
 
-## 25. Operational leases[^key-0553a400a1c471fde9b8b00158a2ba46]
+## 25. Operational leases[^c-0553a400a1c471fde9b8b00158a2ba46]
 
 (1) Subject to paragraph (2), where a disposal of relevant land or a relevant estate in land is constituted by the granting of a lease—
 
@@ -451,7 +451,7 @@ shall be payable within the period beginning with the date on which the operatio
 
   and in head (ii) “transport legislation” means any statutory provision empowering a member of the chargeable company’s group or, as regards the six months mentioned in paragraph (5)(*b*), the relevant port authority to provide, in places where persons using the services and facilities provided by that member or authority may require them, amenities or facilities for those and other persons.
 
-## 26. Leases — supplementary[^key-9c9b11397074c987e07735bb1f570850]
+## 26. Leases — supplementary[^c-9c9b11397074c987e07735bb1f570850]
 
 (1) References to rent in Articles 18, 19, 20, 21, 23 and 24 and in paragraph (3) do not include anything which, though reserved as or held out to be rent, consists of—
 
@@ -470,7 +470,7 @@ shall be payable within the period beginning with the date on which the operatio
 
 (5) Paragraphs 5 and 7 of that Schedule shall not apply for the purposes of Article 19 of the 1994 Order.
 
-## 27. Options — computation of gains[^key-41b17404fd6c21ba86981c428c871ad1]
+## 27. Options — computation of gains[^c-41b17404fd6c21ba86981c428c871ad1]
 
 (1) This Article applies to a disposal of relevant land or a relevant estate in land constituted by the grant by a member of the chargeable company’s group of an option to acquire that land or estate in land.
 
@@ -478,22 +478,22 @@ shall be payable within the period beginning with the date on which the operatio
 
 (3) Where the consideration payable on the exercise of the option (or any part of the consideration) is unascertainable at the time the amount of any gain falls to be computed under paragraph (2), then, in the computation of that amount under that paragraph, the consideration shall (so far as unascertainable at that time) be taken to be the highest amount which could reasonably be expected to be paid; and if the right to receive any part of the consideration depends on a contingency, it shall be assumed that the contingency will occur.
 
-## 28. Options — payment of levy[^key-bed5dde07691dd6498d5c63d86f32b61]
+## 28. Options — payment of levy[^c-bed5dde07691dd6498d5c63d86f32b61]
 
 The levy chargeable on a disposal to which Article 27 applies shall be payable—
 
 - (a) as regards the amount which would have been payable but for Article 27(2), within the period beginning with the date of grant of the option and ending on the quarter date next following that date;
 - (b) as regards the remainder, within the period beginning with the date of grant of the option and ending with the annual reporting date relating to the last disposal period of the chargeable company.
 
-## 29. Options — subsequent exercise[^key-79a84baadbcd2765afa4d7136e5564ea]
+## 29. Options — subsequent exercise[^c-79a84baadbcd2765afa4d7136e5564ea]
 
 If a chargeable company becomes liable to pay levy in respect of the grant of an option and that option is exercised within the levy period, then the disposal constituted by the grant of the option shall be treated as if Article 27 had not applied to it, and any gain accruing or regarded as accruing on the disposal shall be recomputed accordingly.
 
-## 30. Option lapsing — recomputation[^key-b771308be26f8c42ef939f9e49a99fce]
+## 30. Option lapsing — recomputation[^c-b771308be26f8c42ef939f9e49a99fce]
 
 If an option the grant of which constitutes a disposal to which Article 27 applies lapses (without being exercised) or becomes incapable of being exercised, the gain accruing on that disposal shall be recomputed as if Article 27(2) had not applied.
 
-## 31. Option lapsing — supplementary[^key-5be57b4fee24369095bfb2775ad35df5]
+## 31. Option lapsing — supplementary[^c-5be57b4fee24369095bfb2775ad35df5]
 
 (1) If a gain falls to be recomputed in accordance with Article 30, and—
 
@@ -502,7 +502,7 @@ If an option the grant of which constitutes a disposal to which Article 27 appli
 
 (2) Upon receipt of details of the recomputation the Department shall inquire into the matter and, if an excessive payment has been made by the chargeable company, the amount thereof (whether levy or interest on unpaid levy or both) shall be repaid as provided in Article 32.
 
-## 32. Option lapsing etc. — repayment[^key-184670251f80ab939a306d0839705f2e]
+## 32. Option lapsing etc. — repayment[^c-184670251f80ab939a306d0839705f2e]
 
 If—
 
@@ -520,18 +520,18 @@ If—
   - (IIA) if the option lapsed or became incapable of being exercised within the levy period, within 20 business days of receipt of the disposal statement referred to in Article 31(1)(*a*);
   - (IIB) in any other case, within 20 business days of the receipt of details of the recomputation or, if it reasonably requests the chargeable company to supply further information for the purpose of its inquiry into the matter pursuant to Article 31(2), within 20 such days of receiving such further information.
 
-## 33. Disposals within wholly-owned group[^key-e727dbfea50cab33c488319abe247aea]
+## 33. Disposals within wholly-owned group[^c-e727dbfea50cab33c488319abe247aea]
 
 Sections 171 and 172 of the 1992 Act shall apply for the purposes of Article 19 of the 1994 Order as if the reference in subsection (1) of each of those sections to corporation tax on chargeable gains were a reference to levy under that Article 19 and as if the references in those sections to a group were to a wholly-owned group.
 
-## 34. Company ceasing to be member of group[^key-c22b229dd2391690bc36606129678afc]
+## 34. Company ceasing to be member of group[^c-c22b229dd2391690bc36606129678afc]
 
 Where the sale and reacquisition of an asset which are to be treated by virtue of section 178 (3) or (5) or 179 (3) or (6) of the 1992 Act (including any of those subsections as it has effect by virtue of Article 19(6) of the 1994 Order) as having taken place are a sale and reacquisition of relevant land or a relevant estate in land—
 
 - (a) the sale and reacquisition shall for the purposes of Article 19 of the 1994 Order and this Order be treated as having taken place immediately before the company mentioned in section 178 or 179 ceased to be a member of the group mentioned in sections 178(3) or (5) or 179(3) or (6), at market value at that time (and not immediately after the acquisition of the asset, at market value at that time) and that time shall accordingly be the disposal date in relation to the disposal constituted by the sale; and
 - (b) in the event that the consideration for which that company acquired the land or interest has before the section 178 or 179 disposal fallen to be recomputed under Article 35, the sum attributable to the land or estate under section 38(1)(*a*) of the 1992 Act, as applied for the purposes of Article 19 of the 1994 Order, shall be that consideration as last previously recomputed.
 
-## 35. Decrease in equity holding[^key-c9d5ecc23d92b0240d0dcfb3dcaba383]
+## 35. Decrease in equity holding[^c-c9d5ecc23d92b0240d0dcfb3dcaba383]
 
 (1) Where—
 
@@ -629,7 +629,7 @@ the sum which for the purposes of the part disposal is to be attributable to the
   - (ii) if there is not one such member, those two or more members of which together or of an effective subsidiary of which together every other member is an effective subsidiary;
 - (b) a reference to a consideration as redetermined by virtue of the provisions of paragraph (1) is a reference to that consideration as increased in accordance with sub-paragraph (I) and as decreased in accordance with sub-paragraph (II) of that paragraph.
 
-## 36. Disposal statements[^key-27cf9721fbaedb71b9d5c0715b31d903]
+## 36. Disposal statements[^c-27cf9721fbaedb71b9d5c0715b31d903]
 
 (1) On or before each annual reporting date a chargeable company shall furnish to the Department a statement (in this Article referred to as a “disposal statement”), in such form as the Department may require, in respect of the disposal period to which that annual report date relates.
 
@@ -655,7 +655,7 @@ the sum which for the purposes of the part disposal is to be attributable to the
 
 (9) For the purpose of enabling the person making a valuation to do so, the chargeable company shall provide him with any earlier relevant valuation, documents or records in its possession such as are mentioned in Article 39; and a valuation shall include a statement reconciling the base value attributed by it with the value ascribed to the land or estate (or to any land or estate in land of which that land or estate in land forms or formed part) in any earlier valuation such as is there mentioned.
 
-## 37. Assessment[^key-259489ca800a5be9e716b26c795b6712]
+## 37. Assessment[^c-259489ca800a5be9e716b26c795b6712]
 
 (1) If in relation to any disposal period it appears to the Department—
 
@@ -680,7 +680,7 @@ less—
 
 (5) If a chargeable company disputes an assessment under paragraph (1), Article 38 shall apply for the purpose of resolving the dispute; but pending resolution of the dispute the company shall remain liable to make any payment to the Department as if the dispute had not been so referred.
 
-## 38. Referee[^key-8eb3f0f92dcded2a7129b881fd2cda97]
+## 38. Referee[^c-8eb3f0f92dcded2a7129b881fd2cda97]
 
 (1) Where there is a dispute between a chargeable company and the Department and this Article applies for the purpose of its resolution, then if—
 
@@ -717,7 +717,7 @@ but subject to this paragraph the procedure at a hearing shall be determined by 
 
 (8) The reasonable remuneration and expenses of the referee shall be payable by such one of the parties to the dispute, or by each of them in such proportions, as he may determine.
 
-## 39. Supplementary requirements[^key-cc4489dcec61749bfa2665bd2710f103]
+## 39. Supplementary requirements[^c-cc4489dcec61749bfa2665bd2710f103]
 
 (1) In this Article, “the duty period” means, in relation to a chargeable company, the levy period and any period after the levy period in which any levy or interest on unpaid levy payable by the company has not been paid.
 
@@ -766,7 +766,7 @@ a member of the chargeable company’s group shall, if so requested by the Depar
 - (a) the chargeable company or the other member of its group shall retain until the end of the duty period that document, and the chargeable company and every transferred 51 per cent subsidiary of the chargeable company shall so retain all other documents and records transferred by the transfer or, in the case of such a subsidiary, belonging to it at the time of the transfer which relate in a material way to the valuation; and
 - (b) if the valuation or the document containing it was prepared by a person other than the chargeable company itself, the company shall take reasonable steps to obtain from the person who prepared it copies of such documents relating in a material way to the valuation as the company does not itself have and shall retain any copies so obtained until the end of the duty period.
 
-## 40. Service of documents[^key-29fe3e644681f2591b2cee1afdb06816]
+## 40. Service of documents[^c-29fe3e644681f2591b2cee1afdb06816]
 
 (1) Any notice or other document required or authorised by this Order to be given or furnished to any other person may be given or furnished—
 
@@ -777,7 +777,7 @@ a member of the chargeable company’s group shall, if so requested by the Depar
 
 (3) Where the person to whom the document is to be given or furnished has, in accordance with the arrangements agreed to in that behalf, provided an address for the giving or furnishing of the document, his proper address for the purposes of this paragraph shall be the address so provided.
 
-## 41. Penalties[^key-1693b9f99a3749df90d0e1614289707b]
+## 41. Penalties[^c-1693b9f99a3749df90d0e1614289707b]
 
 (1) Where a chargeable company—
 
@@ -819,7 +819,7 @@ Assistant Secretary
 
 Article 8(11)(*b*)
 
-**1.**[^key-d8c2c4e552fdbb68b185fbe8594e4b65] For the purposes of this Order, a disposal of relevant land or a relevant estate in land made or to be regarded for those purposes as being made by a member of a chargeable company’s group (referred to in this Schedule as “the first-mentioned disposal”) will be treated as associated with another such disposal (referred to in this Schedule as “the second-mentioned disposal”) whether or not the disposals are made or are to be regarded as being made at the same time if the first-mentioned disposal—
+**1.**[^c-d8c2c4e552fdbb68b185fbe8594e4b65] For the purposes of this Order, a disposal of relevant land or a relevant estate in land made or to be regarded for those purposes as being made by a member of a chargeable company’s group (referred to in this Schedule as “the first-mentioned disposal”) will be treated as associated with another such disposal (referred to in this Schedule as “the second-mentioned disposal”) whether or not the disposals are made or are to be regarded as being made at the same time if the first-mentioned disposal—
 
 - (a) is reasonably to be regarded as being connected with the second-mentioned disposal;
 - (b) is effected with a view to enabling the second-mentioned disposal to be effected or facilitating its being effected; or
@@ -827,33 +827,33 @@ Article 8(11)(*b*)
 
 - and in a case where either or both of the first-mentioned disposal and the second-mentioned disposal is a section 178 or 179 disposal, this paragraph shall apply as if a reference to the disposal included a reference to the disposal or issue of shares as a result of which the disposal is treated as taking place.
 
-**2.**[^key-69fd98114fb0f57bfa616dce3176c606] Subject to paragraph 3, for the purposes of paragraph 1(*a*), the first-mentioned disposal is reasonably to be regarded as connected with the second-mentioned disposal if—
+**2.**[^c-69fd98114fb0f57bfa616dce3176c606] Subject to paragraph 3, for the purposes of paragraph 1(*a*), the first-mentioned disposal is reasonably to be regarded as connected with the second-mentioned disposal if—
 
 - (a) the disposals are made to the same person or to persons who are connected with each other;
 - (b) where the first-mentioned disposal, but not the second-mentioned disposal, is a section 178 or 179 disposal, the person to whom the disposal or issue of shares is made as a result of which the first-mentioned disposal is treated as taking place and the person to whom the land or estate in land the subject of the second-mentioned disposal is disposed of are the same person or are connected persons; or
 - (c) where both the first-mentioned disposal and the second-mentioned disposal are section 178 or 179 disposals, the persons to whom the disposal or issue of shares is made as a result of which those disposals are treated as taking place are the same person or are connected persons.
 
-**3.**[^key-804f0b045cb27ca9502f9648f23aa73d] A disposal is not reasonably to be regarded as connected with another disposal by virtue of this paragraph if they are reasonably to be regarded as separate transactions by reference to the terms, dates and any other relevant aspects of the disposals.
+**3.**[^c-804f0b045cb27ca9502f9648f23aa73d] A disposal is not reasonably to be regarded as connected with another disposal by virtue of this paragraph if they are reasonably to be regarded as separate transactions by reference to the terms, dates and any other relevant aspects of the disposals.
 
-**4.**[^key-df4c4243717c3caada2f4b7319c3d38f] For the purposes of paragraphs 2 and 3, any question whether a person is connected with another shall be determined in accordance with the provisions of section 839(2) to (8) of the 1988 Act.
+**4.**[^c-df4c4243717c3caada2f4b7319c3d38f] For the purposes of paragraphs 2 and 3, any question whether a person is connected with another shall be determined in accordance with the provisions of section 839(2) to (8) of the 1988 Act.
 
 ## SCHEDULE 2 — Modification of Tax Provisions Applying to Levy
 
 Article 9
 
-**1.**[^key-dc2879546055f7c2b58c3b99d30b7b43] Section 21(7) of the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order.
+**1.**[^c-dc2879546055f7c2b58c3b99d30b7b43] Section 21(7) of the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order.
 
-**2.**[^key-781874272a52428ba4f7c810632cd75c] Section 23(4) of the 1992 Act shall apply for the purposes of Article 19 of the 1994 Order as if the reference in it to the inspector were a reference to the Department.
+**2.**[^c-781874272a52428ba4f7c810632cd75c] Section 23(4) of the 1992 Act shall apply for the purposes of Article 19 of the 1994 Order as if the reference in it to the inspector were a reference to the Department.
 
-**3.**[^key-5f0b302b224e530a74fe7f2bf3fb008d] Sections 35 and 36 of, and Schedules 3 and 4 to, the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order.
+**3.**[^c-5f0b302b224e530a74fe7f2bf3fb008d] Sections 35 and 36 of, and Schedules 3 and 4 to, the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order.
 
-**4.**[^key-fc5760ed7b7603881ea0804ddb74a2ec] Section 37(1) of the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order.
+**4.**[^c-fc5760ed7b7603881ea0804ddb74a2ec] Section 37(1) of the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order.
 
-**5.**[^key-0a5e13d6f43f7bc8151a26d14e3dd28e] (1) Subject to sub-paragraph (2), section 38(1)(*a*) of the 1992 Act shall, in relation to the computation of any gain accruing on the disposal of relevant land or a relevant estate in land (other than land or an estate in land acquired within the levy period), apply for the purposes of Article 19 of the 1994 Order as if that paragraph referred, and referred only, to the market value of the land or estate disposed of for its existing use at the beginning of the levy period, that value being determined in accordance with valuation principles and methods provided for in Article 36(7) and (8) (and in this paragraph “existing use” means the purpose for which the land or estate is used at that time).
+**5.**[^c-0a5e13d6f43f7bc8151a26d14e3dd28e] (1) Subject to sub-paragraph (2), section 38(1)(*a*) of the 1992 Act shall, in relation to the computation of any gain accruing on the disposal of relevant land or a relevant estate in land (other than land or an estate in land acquired within the levy period), apply for the purposes of Article 19 of the 1994 Order as if that paragraph referred, and referred only, to the market value of the land or estate disposed of for its existing use at the beginning of the levy period, that value being determined in accordance with valuation principles and methods provided for in Article 36(7) and (8) (and in this paragraph “existing use” means the purpose for which the land or estate is used at that time).
 
 (2) This paragraph shall not apply in relation to any relevant land or relevant estate in land where there has, or there is to be regarded as having, been within the levy period a previous disposal of that land or estate from one member of the chargeable company’s group to another member of that group.
 
-**6.**[^key-b4c76bd1af33acc2efcd830276dfae5e] (1) In the application, for the purposes of Article 19 of the 1994 Order, of section 38(1)(*b*) of the 1992 Act there shall, in relation to relevant land and a relevant estate in land, be excluded from the sums allowable any expenditure incurred before the beginning of the levy period.
+**6.**[^c-b4c76bd1af33acc2efcd830276dfae5e] (1) In the application, for the purposes of Article 19 of the 1994 Order, of section 38(1)(*b*) of the 1992 Act there shall, in relation to relevant land and a relevant estate in land, be excluded from the sums allowable any expenditure incurred before the beginning of the levy period.
 
 (2) Section 38(1)(*b*) and (*c*) of the 1992 Act shall apply for the purposes of Article 19 of the 1994 Order as if—
 
@@ -862,31 +862,31 @@ Article 9
   - (i) Article 36(5); or
   - (ii) paragraph 6 or 7 of Schedule 3.
 
-**7.**[^key-fff24bf6a1731ed40608a87e730df586] Section 39(1) and (2) of the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order to a sum applied in the manner specified in section 23(1)(*a*) or (*b*), (3), (4) or (5) of the 1992 Act.
+**7.**[^c-fff24bf6a1731ed40608a87e730df586] Section 39(1) and (2) of the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order to a sum applied in the manner specified in section 23(1)(*a*) or (*b*), (3), (4) or (5) of the 1992 Act.
 
-**8.**[^key-602cadee3ade83d5ede54d099236556d] Sections 48 and 49(2) of the 1992 Act shall apply for the purposes of Article 19 of the 1994 Order as if the references in those provisions to the inspector were references to the Department.
+**8.**[^c-602cadee3ade83d5ede54d099236556d] Sections 48 and 49(2) of the 1992 Act shall apply for the purposes of Article 19 of the 1994 Order as if the references in those provisions to the inspector were references to the Department.
 
-**9.**[^key-aaab013caeeb7ee84122067f597cf3f3] (1) In the application for the purposes of Article 19 of the 1994 Order of section 52(4) of the 1992 Act, the words from “and the method of apportionment” to the end of that subsection shall not apply; and, instead, the method of apportionment adopted for the purposes of any computation under Chapter III of Part II of the 1992 Act as applied for the purposes of Article 19 of the 1994 Order shall, subject to the express provisions of that Chapter as so applied, be such method as appears to the Department or, in the event of a dispute, to a referee to be just and reasonable.
+**9.**[^c-aaab013caeeb7ee84122067f597cf3f3] (1) In the application for the purposes of Article 19 of the 1994 Order of section 52(4) of the 1992 Act, the words from “and the method of apportionment” to the end of that subsection shall not apply; and, instead, the method of apportionment adopted for the purposes of any computation under Chapter III of Part II of the 1992 Act as applied for the purposes of Article 19 of the 1994 Order shall, subject to the express provisions of that Chapter as so applied, be such method as appears to the Department or, in the event of a dispute, to a referee to be just and reasonable.
 
 (2) Subsection (4) shall apply as if the words “necessary apportionments” referred to any apportionments which appear to the Department or, in the event of a dispute (in which case Article 38 shall apply for the purposes of resolving it), to a referee to be necessary for the purposes of this Order.
 
-**10.**[^key-09bb2552bfed7c221c2bd1d03980acb2] (1) Section 54 of the 1992 Act shall apply for the purposes of Article 19 of the 1994 Order as if in the definition of “RI” there were substituted for the reference to the retail prices index for March 1982 a reference to the retail prices index for the month in which the chargeable company’s levy period begins.
+**10.**[^c-09bb2552bfed7c221c2bd1d03980acb2] (1) Section 54 of the 1992 Act shall apply for the purposes of Article 19 of the 1994 Order as if in the definition of “RI” there were substituted for the reference to the retail prices index for March 1982 a reference to the retail prices index for the month in which the chargeable company’s levy period begins.
 
 (2) Section 55(1) of the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order.
 
-**11.**[^key-180c93187123b6d0ecc75fa6dede0429] Sections 139 and 140 of the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order.
+**11.**[^c-180c93187123b6d0ecc75fa6dede0429] Sections 139 and 140 of the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order.
 
-**12.**[^key-822dd04843b8ad23668ca1ab411b7820] Sections 152 to 158 and 247 of the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order.
+**12.**[^c-822dd04843b8ad23668ca1ab411b7820] Sections 152 to 158 and 247 of the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order.
 
-**13.**[^key-31de6f14cd4f62061d0df47971cd058b] Section 243(4) of the 1992 Act shall apply for the purposes of Article 19 of the 1994 Order as if the words “not being an estate or interest which is a wasting asset” were omitted.
+**13.**[^c-31de6f14cd4f62061d0df47971cd058b] Section 243(4) of the 1992 Act shall apply for the purposes of Article 19 of the 1994 Order as if the words “not being an estate or interest which is a wasting asset” were omitted.
 
-**14.**[^key-47d01fdff1bd41d7d2400aa942d326c7] Section 250 of the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order.
+**14.**[^c-47d01fdff1bd41d7d2400aa942d326c7] Section 250 of the 1992 Act shall not apply for the purposes of Article 19 of the 1994 Order.
 
 ## SCHEDULE 3 — Disposal Statements
 
 Article 36
 
-### 1. Totals for disposal period[^key-8dd3056480939011b2a30cbb29f19537]
+### 1. Totals for disposal period[^c-8dd3056480939011b2a30cbb29f19537]
 
 A disposal statement shall state—
 
@@ -904,38 +904,38 @@ A disposal statement shall state—
 - (h) where in the period between the end of any previous disposal period and the end of the disposal period to which the disposal statement relates an amount of levy has pursuant to Article 8(3), 8(5) or 19 to 35 become payable in respect of one or more disposals made or to be regarded as having been made in an earlier disposal period, the total amount of such amounts of levy and interest payable thereon computed as stated in sub-paragraph (*f*); and
   - (i) whether any of the disposals of which details have in accordance with paragraph 11 been set out in any earlier disposal statement are, save as required to be stated in the disposal statement by virtue of sub-paragraph (*h*), disposals to which paragraphs 12 and 13 apply.
 
-### 2. Individual relevant disposals[^key-f9957358a14e221d8aee5539ce88da47]
+### 2. Individual relevant disposals[^c-f9957358a14e221d8aee5539ce88da47]
 
 The information required by the following paragraphs 3 to 10 shall be given in the disposal statement with respect to each relevant disposal.
 
-**3.**[^key-169d35107e67e0ec1bed6df514a597ff] There shall be given the date of the disposal and the name of the member of the chargeable company’s group which made or is to be regarded as having made the disposal.
+**3.**[^c-169d35107e67e0ec1bed6df514a597ff] There shall be given the date of the disposal and the name of the member of the chargeable company’s group which made or is to be regarded as having made the disposal.
 
-**4.**[^key-733cdadc988018a03baa43e2f0c3799e] A description shall be given of the relevant land or the relevant estate in land, the subject of the disposal, together with a plan showing the location of the relevant land or of the land in which the relevant estate subsists.
+**4.**[^c-733cdadc988018a03baa43e2f0c3799e] A description shall be given of the relevant land or the relevant estate in land, the subject of the disposal, together with a plan showing the location of the relevant land or of the land in which the relevant estate subsists.
 
-**5.**[^key-59f018a76e2a503f69bec5aaa8489d04] A summary of the terms of the disposal shall be given, including—
+**5.**[^c-59f018a76e2a503f69bec5aaa8489d04] A summary of the terms of the disposal shall be given, including—
 
 - (a) the name of the person to whom the disposal was made or is to be regarded as having been made;
 - (b) the consideration for the disposal (including any part the payment of which is deferred); and
 - (c) in the case of a lease, the term for which the lease was granted.
 
-**6.**[^key-3916aae00d30cf2d7a1713054eacdc76] In the case of a disposal other than a section 178 or 179 disposal there shall be given for the purposes of paragraph 5(*b*) a valuation of any part of the consideration which is not a specific amount of money made by an independent valuer; and, in the case of such a disposal, it shall be stated whether the disposal was made by way of a bargain made at arm’s length (and, for this purpose, a disposal shall be taken not to have been so made if the person to whom the disposal was made was at the time of the disposal a member of the chargeable company’s group or connected with a member of that group, any question whether a person was connected with a company being determinable in accordance with section 839(2) to (8) of the 1988 Act).
+**6.**[^c-3916aae00d30cf2d7a1713054eacdc76] In the case of a disposal other than a section 178 or 179 disposal there shall be given for the purposes of paragraph 5(*b*) a valuation of any part of the consideration which is not a specific amount of money made by an independent valuer; and, in the case of such a disposal, it shall be stated whether the disposal was made by way of a bargain made at arm’s length (and, for this purpose, a disposal shall be taken not to have been so made if the person to whom the disposal was made was at the time of the disposal a member of the chargeable company’s group or connected with a member of that group, any question whether a person was connected with a company being determinable in accordance with section 839(2) to (8) of the 1988 Act).
 
-**7.**[^key-9278f552fead3286300b06c82d41aaca] In the case of a disposal which is not a section 178 or 179 disposal and which is made otherwise than by way of a bargain made at arm’s length—
+**7.**[^c-9278f552fead3286300b06c82d41aaca] In the case of a disposal which is not a section 178 or 179 disposal and which is made otherwise than by way of a bargain made at arm’s length—
 
 - (a) it shall be stated whether the consideration stated under paragraph 5 is the full value received or to be regarded as being received or derived from the disposal; and
 - (b) except where the consideration is wholly in money, there shall be annexed to the disposal statement a valuation of the consideration by an independent valuer.
 
-**8.**[^key-4210f56da354d6f5890fb1ef9d88beca] In the case of a section 178 or 179 disposal there shall be stated for the purposes of sub-paragraph 5(*b*) the market value at the time of the disposal of the relevant land or of the relevant estate in land the subject of the disposal, together with the assumptions and methods applied and the calculations carried out in determining that value.
+**8.**[^c-4210f56da354d6f5890fb1ef9d88beca] In the case of a section 178 or 179 disposal there shall be stated for the purposes of sub-paragraph 5(*b*) the market value at the time of the disposal of the relevant land or of the relevant estate in land the subject of the disposal, together with the assumptions and methods applied and the calculations carried out in determining that value.
 
-**9.**[^key-e82b1b32ef2886cb7dbd5853be82f18b] The amount of the gain accruing on the disposal shall be given, computed in accordance with this Order, together with details of any claim or election made pursuant to this Order and affecting the computation of that amount.
+**9.**[^c-e82b1b32ef2886cb7dbd5853be82f18b] The amount of the gain accruing on the disposal shall be given, computed in accordance with this Order, together with details of any claim or election made pursuant to this Order and affecting the computation of that amount.
 
-**10.**[^key-abc56bf684e7896ec5444002a2c144cf] There shall be given—
+**10.**[^c-abc56bf684e7896ec5444002a2c144cf] There shall be given—
 
 - (a) the amount of the levy chargeable on the gain accruing on the disposal;
 - (b) the amount of any interest payable on that amount of levy; and
 - (c) a computation showing how each such amount is calculated.
 
-### 11. Further information[^key-705caa65c395a37ab5923b21c0b17db9]
+### 11. Further information[^c-705caa65c395a37ab5923b21c0b17db9]
 
 There shall be given—
 
@@ -944,25 +944,25 @@ There shall be given—
 
 - which took place or are for the purposes of Article 19 of the 1994 Order to be regarded as having taken place in the disposal period to which the disposal statement relates together with, in each case, the information which would be required under paragraphs 3, 4 and 5(*a*) were such disposals relevant disposals.
 
-**12.**[^key-dc9f38febc2d7a86804af5bb14a1f555] If a disposal on which by virtue of Article 8(2) or (4) or Article 25(1) no gain was regarded as arising is subsequently regarded as giving rise to a gain by virtue of Article 8(3) or (5) or Article 25(2) the disposal statement shall give the date of the previous disposal statement in which information about that disposal was given in accordance with paragraph 11.
+**12.**[^c-dc9f38febc2d7a86804af5bb14a1f555] If a disposal on which by virtue of Article 8(2) or (4) or Article 25(1) no gain was regarded as arising is subsequently regarded as giving rise to a gain by virtue of Article 8(3) or (5) or Article 25(2) the disposal statement shall give the date of the previous disposal statement in which information about that disposal was given in accordance with paragraph 11.
 
-**13.**[^key-a677a7e42626cefdba1d4ba8bdfc4365] If in the period between the end of any previous disposal period and the end of the disposal period to which the disposal statement relates an amount of levy has pursuant to Article 8(3), 8(5) or 19 to 35 become payable in respect of a disposal made or to be regarded as having been made in an earlier disposal period, the disposal statement shall give particulars of how that amount and any interest thereon is computed (including in respect of a disposal on which a gain is regarded as arising by virtue of Article 8(3) or Article 25(2), the particulars regarding the disposal which would have fallen to be given in the disposal statement for the disposal period in which the disposal took place and had the disposal been regarded at the time when that disposal statement was furnished as one on which a gain arose).
+**13.**[^c-a677a7e42626cefdba1d4ba8bdfc4365] If in the period between the end of any previous disposal period and the end of the disposal period to which the disposal statement relates an amount of levy has pursuant to Article 8(3), 8(5) or 19 to 35 become payable in respect of a disposal made or to be regarded as having been made in an earlier disposal period, the disposal statement shall give particulars of how that amount and any interest thereon is computed (including in respect of a disposal on which a gain is regarded as arising by virtue of Article 8(3) or Article 25(2), the particulars regarding the disposal which would have fallen to be given in the disposal statement for the disposal period in which the disposal took place and had the disposal been regarded at the time when that disposal statement was furnished as one on which a gain arose).
 
-**14.**[^key-0c7af64a74eaacbdb37e0dfc271508f3] If an instalment under Article 23 is payable on the annual reporting date on or before which the disposal statement is to be furnished, the disposal statement shall give—
+**14.**[^c-0c7af64a74eaacbdb37e0dfc271508f3] If an instalment under Article 23 is payable on the annual reporting date on or before which the disposal statement is to be furnished, the disposal statement shall give—
 
 - (a) the amount of that instalment; and
 - (b) the amount of every instalment previously paid in respect of the disposal to which that instalment relates,
 
 - specifying how the instalments have been calculated.
 
-### 15. Interpretation[^key-731ef5f51cdaea34370546ea7dda6dec]
+### 15. Interpretation[^c-731ef5f51cdaea34370546ea7dda6dec]
 
 In this Schedule “disposal”—
 
 - (a) does not, except in paragraphs 1(i) and 11(*a*), include a small disposal; and
 - (b) does not, except in paragraphs 1(i) and 11(*b*), include a disposal for which Article 25(1) provides.
 
-**16.**[^key-564311374e19a0f3000ca905cf02ad5c] In this Schedule references to an independent valuer are references to a person such as is mentioned in Article 36(6).
+**16.**[^c-564311374e19a0f3000ca905cf02ad5c] In this Schedule references to an independent valuer are references to a person such as is mentioned in Article 36(6).
 
 (This note is not part of the Order.)
 
@@ -992,9 +992,9 @@ Copies of the Statements of Asset Valuation Practice and Guidance Notes, referre
 
 [^f00001]: Footnote: S.I. [1994/2809 (N.I. 16)](https://www.legislation.gov.uk/nisi/1994/2809); *see* Article 2(2) for the definition of ‘‘the Department''. The Department of Agriculture is the Department where the harbour (in relation to which a relevant port authority is or immediately before a transfer under Article 4 thereof was the harbour authority) is a fishery harbour
 
-[^key-a4a6180a43650b0285c35742c0fbbbf8]: Commencement: Art. 1 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-a4a6180a43650b0285c35742c0fbbbf8]: Commencement: Art. 1 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-32bb3e2f0b93097b93f51c34c759bd37]: Commencement: Art. 2 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-32bb3e2f0b93097b93f51c34c759bd37]: Commencement: Art. 2 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
 [^f00002]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
@@ -1004,164 +1004,164 @@ Copies of the Statements of Asset Valuation Practice and Guidance Notes, referre
 
 [^f00005]: Footnote: S.I. [1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032); Art. 231 was inserted by Art. 5 of the Companies (Northern Ireland) Order 1990 S.I. [1990/593 (N.I. 5)](https://www.legislation.gov.uk/nisi/1990/593)
 
-[^key-0c5b32521a5b6f616a93df6a191b43ab]: Commencement: Art. 3 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-0c5b32521a5b6f616a93df6a191b43ab]: Commencement: Art. 3 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-91ea179896f15be58cc59f3776a0be50]: Commencement: Art. 4 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-91ea179896f15be58cc59f3776a0be50]: Commencement: Art. 4 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-8794b7e711cf97b7ba2a104f7da94906]: Commencement: Art. 5 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-8794b7e711cf97b7ba2a104f7da94906]: Commencement: Art. 5 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-26081ef6c55aacb9bb1d74c2accf06d2]: Commencement: Art. 6 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-26081ef6c55aacb9bb1d74c2accf06d2]: Commencement: Art. 6 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-7271fedec1b421ed5fd8985e2cfe7cbf]: Commencement: Art. 7 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-7271fedec1b421ed5fd8985e2cfe7cbf]: Commencement: Art. 7 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-97e7dc26b76530996f8c71713182c638]: Commencement: Art. 8 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-97e7dc26b76530996f8c71713182c638]: Commencement: Art. 8 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-374ee17c12d28f3ee0f4cd4458a2d943]: Commencement: Art. 9 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-374ee17c12d28f3ee0f4cd4458a2d943]: Commencement: Art. 9 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-5f3bf27808a45b9268aa4bbfa755180f]: Commencement: Art. 10 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-5f3bf27808a45b9268aa4bbfa755180f]: Commencement: Art. 10 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-414a386ed70b76611bf3d5a9c541578e]: Commencement: Art. 11 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-414a386ed70b76611bf3d5a9c541578e]: Commencement: Art. 11 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-92e93bb294abc6156bfcd2acc766df64]: Commencement: Art. 12 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-92e93bb294abc6156bfcd2acc766df64]: Commencement: Art. 12 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-b58553de583c0935fcb0cb58b31115f8]: Commencement: Art. 13 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-b58553de583c0935fcb0cb58b31115f8]: Commencement: Art. 13 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
 [^f00006]: Footnote: S.I. [1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032); Art. 232 was inserted by Art. 5 of the Companies (Northern Ireland) Order 1990 S.I. [1990/593 (N.I. 5)](https://www.legislation.gov.uk/nisi/1990/593)
 
-[^key-95ccde559b1db43bf47b8d099e5b6851]: Commencement: Art. 14 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-95ccde559b1db43bf47b8d099e5b6851]: Commencement: Art. 14 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-8927b8dd3ce2cf00b88b66fb4b22c9dd]: Commencement: Art. 15 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-8927b8dd3ce2cf00b88b66fb4b22c9dd]: Commencement: Art. 15 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-95656e48d2ecf1da93a884cc2ef0a58f]: Commencement: Art. 16 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-95656e48d2ecf1da93a884cc2ef0a58f]: Commencement: Art. 16 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-f9d013b249b235c9613355c1e014c724]: Commencement: Art. 17 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-f9d013b249b235c9613355c1e014c724]: Commencement: Art. 17 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-962307c3ae804f7c96bc0bfc4c622aea]: Commencement: Art. 18 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-962307c3ae804f7c96bc0bfc4c622aea]: Commencement: Art. 18 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-43c7f575e3f36a2a227732e7d5101805]: Commencement: Art. 19 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-43c7f575e3f36a2a227732e7d5101805]: Commencement: Art. 19 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-e25393f46647e0f837f3f401110473c2]: Commencement: Art. 20 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-e25393f46647e0f837f3f401110473c2]: Commencement: Art. 20 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-eafc116cc81eb3a9ab483aacc94a6466]: Commencement: Art. 21 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-eafc116cc81eb3a9ab483aacc94a6466]: Commencement: Art. 21 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-162fc51e21e804cffc8c456dfc2cd9c5]: Commencement: Art. 22 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-162fc51e21e804cffc8c456dfc2cd9c5]: Commencement: Art. 22 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-b619231aa9063005a3d4ab655767f337]: Commencement: Art. 23 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-b619231aa9063005a3d4ab655767f337]: Commencement: Art. 23 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-e462b31938318428a1ed44e7e8533bf1]: Commencement: Art. 24 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-e462b31938318428a1ed44e7e8533bf1]: Commencement: Art. 24 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-0553a400a1c471fde9b8b00158a2ba46]: Commencement: Art. 25 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-0553a400a1c471fde9b8b00158a2ba46]: Commencement: Art. 25 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-9c9b11397074c987e07735bb1f570850]: Commencement: Art. 26 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-9c9b11397074c987e07735bb1f570850]: Commencement: Art. 26 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
 [^f00007]: Footnote: [1970 c. 1 (N.I.)](https://www.legislation.gov.uk/apni/1970/1)
 
-[^key-41b17404fd6c21ba86981c428c871ad1]: Commencement: Art. 27 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-41b17404fd6c21ba86981c428c871ad1]: Commencement: Art. 27 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-bed5dde07691dd6498d5c63d86f32b61]: Commencement: Art. 28 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-bed5dde07691dd6498d5c63d86f32b61]: Commencement: Art. 28 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-79a84baadbcd2765afa4d7136e5564ea]: Commencement: Art. 29 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-79a84baadbcd2765afa4d7136e5564ea]: Commencement: Art. 29 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-b771308be26f8c42ef939f9e49a99fce]: Commencement: Art. 30 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-b771308be26f8c42ef939f9e49a99fce]: Commencement: Art. 30 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-5be57b4fee24369095bfb2775ad35df5]: Commencement: Art. 31 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-5be57b4fee24369095bfb2775ad35df5]: Commencement: Art. 31 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-184670251f80ab939a306d0839705f2e]: Commencement: Art. 32 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-184670251f80ab939a306d0839705f2e]: Commencement: Art. 32 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-e727dbfea50cab33c488319abe247aea]: Commencement: Art. 33 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-e727dbfea50cab33c488319abe247aea]: Commencement: Art. 33 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-c22b229dd2391690bc36606129678afc]: Commencement: Art. 34 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-c22b229dd2391690bc36606129678afc]: Commencement: Art. 34 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-c9d5ecc23d92b0240d0dcfb3dcaba383]: Commencement: Art. 35 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-c9d5ecc23d92b0240d0dcfb3dcaba383]: Commencement: Art. 35 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
 [^f00008]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
 [^f00009]: Footnote: Schedule 18 was amended by the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26), section 101; and by the Capital Allowances Act [1990 (c. 1)](https://www.legislation.gov.uk/ukpga/1990/1), section 164 and Schedule 1, paragraph 8(1) and (40)
 
-[^key-27cf9721fbaedb71b9d5c0715b31d903]: Commencement: Art. 36 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-27cf9721fbaedb71b9d5c0715b31d903]: Commencement: Art. 36 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-259489ca800a5be9e716b26c795b6712]: Commencement: Art. 37 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-259489ca800a5be9e716b26c795b6712]: Commencement: Art. 37 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-8eb3f0f92dcded2a7129b881fd2cda97]: Commencement: Art. 38 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-8eb3f0f92dcded2a7129b881fd2cda97]: Commencement: Art. 38 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-cc4489dcec61749bfa2665bd2710f103]: Commencement: Art. 39 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-cc4489dcec61749bfa2665bd2710f103]: Commencement: Art. 39 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
 [^f00010]: Footnote: S.I. [1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032); Article 246 was inserted by Art. 12 of the Companies (Northern Ireland) Order 1990 S.I. [1990/593 (N.I. 5)](https://www.legislation.gov.uk/nisi/1990/593)
 
 [^f00011]: Footnote: Article 266 was inserted by the Companies (Northern Ireland) Order 1990, Article 23(1)
 
-[^key-29fe3e644681f2591b2cee1afdb06816]: Commencement: Art. 40 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-29fe3e644681f2591b2cee1afdb06816]: Commencement: Art. 40 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
 [^f00012]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-1693b9f99a3749df90d0e1614289707b]: Commencement: Art. 41 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-1693b9f99a3749df90d0e1614289707b]: Commencement: Art. 41 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
 [^f00013]: Footnote: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44) as applied to Northern Ireland by the Crown Proceedings (Northern Ireland) Order 1981 (S.I. [1981/233](https://www.legislation.gov.uk/uksi/1981/233)) and amended by the Magistrates' Courts (Northern Ireland) Order 1981 (S.I. [1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675), Schedule 6 paragraphs 2 to 4)
 
-[^key-d8c2c4e552fdbb68b185fbe8594e4b65]: Commencement: Sch. 1 para. 1 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-d8c2c4e552fdbb68b185fbe8594e4b65]: Commencement: Sch. 1 para. 1 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-69fd98114fb0f57bfa616dce3176c606]: Commencement: Sch. 1 para. 2 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-69fd98114fb0f57bfa616dce3176c606]: Commencement: Sch. 1 para. 2 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-804f0b045cb27ca9502f9648f23aa73d]: Commencement: Sch. 1 para. 3 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-804f0b045cb27ca9502f9648f23aa73d]: Commencement: Sch. 1 para. 3 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-df4c4243717c3caada2f4b7319c3d38f]: Commencement: Sch. 1 para. 4 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-df4c4243717c3caada2f4b7319c3d38f]: Commencement: Sch. 1 para. 4 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-dc2879546055f7c2b58c3b99d30b7b43]: Commencement: Sch. 2 para. 1 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-dc2879546055f7c2b58c3b99d30b7b43]: Commencement: Sch. 2 para. 1 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-781874272a52428ba4f7c810632cd75c]: Commencement: Sch. 2 para. 2 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-781874272a52428ba4f7c810632cd75c]: Commencement: Sch. 2 para. 2 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-5f0b302b224e530a74fe7f2bf3fb008d]: Commencement: Sch. 2 para. 3 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-5f0b302b224e530a74fe7f2bf3fb008d]: Commencement: Sch. 2 para. 3 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-fc5760ed7b7603881ea0804ddb74a2ec]: Commencement: Sch. 2 para. 4 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-fc5760ed7b7603881ea0804ddb74a2ec]: Commencement: Sch. 2 para. 4 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-0a5e13d6f43f7bc8151a26d14e3dd28e]: Commencement: Sch. 2 para. 5 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-0a5e13d6f43f7bc8151a26d14e3dd28e]: Commencement: Sch. 2 para. 5 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-b4c76bd1af33acc2efcd830276dfae5e]: Commencement: Sch. 2 para. 6 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-b4c76bd1af33acc2efcd830276dfae5e]: Commencement: Sch. 2 para. 6 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-fff24bf6a1731ed40608a87e730df586]: Commencement: Sch. 2 para. 7 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-fff24bf6a1731ed40608a87e730df586]: Commencement: Sch. 2 para. 7 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-602cadee3ade83d5ede54d099236556d]: Commencement: Sch. 2 para. 8 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-602cadee3ade83d5ede54d099236556d]: Commencement: Sch. 2 para. 8 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-aaab013caeeb7ee84122067f597cf3f3]: Commencement: Sch. 2 para. 9 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-aaab013caeeb7ee84122067f597cf3f3]: Commencement: Sch. 2 para. 9 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-09bb2552bfed7c221c2bd1d03980acb2]: Commencement: Sch. 2 para. 10 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-09bb2552bfed7c221c2bd1d03980acb2]: Commencement: Sch. 2 para. 10 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-180c93187123b6d0ecc75fa6dede0429]: Commencement: Sch. 2 para. 11 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-180c93187123b6d0ecc75fa6dede0429]: Commencement: Sch. 2 para. 11 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-822dd04843b8ad23668ca1ab411b7820]: Commencement: Sch. 2 para. 12 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-822dd04843b8ad23668ca1ab411b7820]: Commencement: Sch. 2 para. 12 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-31de6f14cd4f62061d0df47971cd058b]: Commencement: Sch. 2 para. 13 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-31de6f14cd4f62061d0df47971cd058b]: Commencement: Sch. 2 para. 13 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-47d01fdff1bd41d7d2400aa942d326c7]: Commencement: Sch. 2 para. 14 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-47d01fdff1bd41d7d2400aa942d326c7]: Commencement: Sch. 2 para. 14 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-8dd3056480939011b2a30cbb29f19537]: Commencement: Sch. 3 para. 1 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-8dd3056480939011b2a30cbb29f19537]: Commencement: Sch. 3 para. 1 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-f9957358a14e221d8aee5539ce88da47]: Commencement: Sch. 3 para. 2 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-f9957358a14e221d8aee5539ce88da47]: Commencement: Sch. 3 para. 2 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-169d35107e67e0ec1bed6df514a597ff]: Commencement: Sch. 3 para. 3 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-169d35107e67e0ec1bed6df514a597ff]: Commencement: Sch. 3 para. 3 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-733cdadc988018a03baa43e2f0c3799e]: Commencement: Sch. 3 para. 4 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-733cdadc988018a03baa43e2f0c3799e]: Commencement: Sch. 3 para. 4 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-59f018a76e2a503f69bec5aaa8489d04]: Commencement: Sch. 3 para. 5 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-59f018a76e2a503f69bec5aaa8489d04]: Commencement: Sch. 3 para. 5 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-3916aae00d30cf2d7a1713054eacdc76]: Commencement: Sch. 3 para. 6 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-3916aae00d30cf2d7a1713054eacdc76]: Commencement: Sch. 3 para. 6 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-9278f552fead3286300b06c82d41aaca]: Commencement: Sch. 3 para. 7 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-9278f552fead3286300b06c82d41aaca]: Commencement: Sch. 3 para. 7 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-4210f56da354d6f5890fb1ef9d88beca]: Commencement: Sch. 3 para. 8 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-4210f56da354d6f5890fb1ef9d88beca]: Commencement: Sch. 3 para. 8 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-e82b1b32ef2886cb7dbd5853be82f18b]: Commencement: Sch. 3 para. 9 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-e82b1b32ef2886cb7dbd5853be82f18b]: Commencement: Sch. 3 para. 9 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-abc56bf684e7896ec5444002a2c144cf]: Commencement: Sch. 3 para. 10 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-abc56bf684e7896ec5444002a2c144cf]: Commencement: Sch. 3 para. 10 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-705caa65c395a37ab5923b21c0b17db9]: Commencement: Sch. 3 para. 11 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-705caa65c395a37ab5923b21c0b17db9]: Commencement: Sch. 3 para. 11 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-dc9f38febc2d7a86804af5bb14a1f555]: Commencement: Sch. 3 para. 12 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-dc9f38febc2d7a86804af5bb14a1f555]: Commencement: Sch. 3 para. 12 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-a677a7e42626cefdba1d4ba8bdfc4365]: Commencement: Sch. 3 para. 13 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-a677a7e42626cefdba1d4ba8bdfc4365]: Commencement: Sch. 3 para. 13 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-0c7af64a74eaacbdb37e0dfc271508f3]: Commencement: Sch. 3 para. 14 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-0c7af64a74eaacbdb37e0dfc271508f3]: Commencement: Sch. 3 para. 14 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-731ef5f51cdaea34370546ea7dda6dec]: Commencement: Sch. 3 para. 15 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-731ef5f51cdaea34370546ea7dda6dec]: Commencement: Sch. 3 para. 15 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
 
-[^key-564311374e19a0f3000ca905cf02ad5c]: Commencement: Sch. 3 para. 16 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)
+[^c-564311374e19a0f3000ca905cf02ad5c]: Commencement: Sch. 3 para. 16 in operation at 1.3.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/12/article/1)

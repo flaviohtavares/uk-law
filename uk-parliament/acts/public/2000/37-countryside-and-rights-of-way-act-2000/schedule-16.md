@@ -22,7 +22,7 @@ summary: ''
 
 Section 102.
 
-### Part I — Access to the countryside[^c1057252][^key-623f192bd2c84db4cda45fcae402bd27][^key-80dccfa55954e1f2207b42e8003f3c74][^key-081338827f60bc0c71c24b5a8aa1f922][^key-259f073811830e862621fd101bb7faba]
+### Part I — Access to the countryside[^c1057252][^c-623f192bd2c84db4cda45fcae402bd27][^c-80dccfa55954e1f2207b42e8003f3c74][^c-081338827f60bc0c71c24b5a8aa1f922][^c-259f073811830e862621fd101bb7faba]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ Section 102.
 | 1990 c. 43. | The Environmental Protection Act 1990. | In Schedule 8, in paragraph 1(8), the words “62(1) and”. |
 | 1994 c. 19. | The Local Government (Wales) Act 1994. | In Schedule 6, paragraph 13. |
 
-### Part II — Public rights of way and road traffic[^c1057253][^key-9f13259c519b8f963a825452ae722956][^key-148593750714e374de07388c6333c923]
+### Part II — Public rights of way and road traffic[^c1057253][^c-9f13259c519b8f963a825452ae722956][^c-148593750714e374de07388c6333c923]
 
 *Extent: E+W*
 
@@ -96,19 +96,19 @@ Section 102.
 
 [^c1057252]: Commencement: [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I) partly in force; [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I) not in force at Royal Assent see [s. 103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3); [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I) in force for certain purposes for E. at 1.4.2001 by [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2(2)(k)](https://www.legislation.gov.uk/uksi/2001/114/article/2/2/k); [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I) in force for certain purpsoes for W. at 1.5.2001 by [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2(m)](https://www.legislation.gov.uk/uksi/2001/1410/article/2/m)
 
-[^key-623f192bd2c84db4cda45fcae402bd27]: Commencement: [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I) in force at 21.6.2004 for specified purposes for W. by [S.I. 2004/1489](https://www.legislation.gov.uk/wsi/2004/1489), [art. 2(c)](https://www.legislation.gov.uk/wsi/2004/1489/article/2/c) (with [art. 3](https://www.legislation.gov.uk/wsi/2004/1489/article/3))
+[^c-623f192bd2c84db4cda45fcae402bd27]: Commencement: [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I) in force at 21.6.2004 for specified purposes for W. by [S.I. 2004/1489](https://www.legislation.gov.uk/wsi/2004/1489), [art. 2(c)](https://www.legislation.gov.uk/wsi/2004/1489/article/2/c) (with [art. 3](https://www.legislation.gov.uk/wsi/2004/1489/article/3))
 
-[^key-80dccfa55954e1f2207b42e8003f3c74]: Commencement: [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I) in force at 28.5.2005 for W. in so far as not already in force for W. in so far as not already in force by [S.I. 2005/423](https://www.legislation.gov.uk/wsi/2005/423), [art. 2(i)](https://www.legislation.gov.uk/wsi/2005/423/article/2/i)
+[^c-80dccfa55954e1f2207b42e8003f3c74]: Commencement: [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I) in force at 28.5.2005 for W. in so far as not already in force for W. in so far as not already in force by [S.I. 2005/423](https://www.legislation.gov.uk/wsi/2005/423), [art. 2(i)](https://www.legislation.gov.uk/wsi/2005/423/article/2/i)
 
-[^key-081338827f60bc0c71c24b5a8aa1f922]: Commencement: [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I) in force at 31.10.2005 for specified purposes for E. by [S.I. 2005/2752](https://www.legislation.gov.uk/uksi/2005/2752), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2005/2752/article/2/1/c)
+[^c-081338827f60bc0c71c24b5a8aa1f922]: Commencement: [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I) in force at 31.10.2005 for specified purposes for E. by [S.I. 2005/2752](https://www.legislation.gov.uk/uksi/2005/2752), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2005/2752/article/2/1/c)
 
-[^key-259f073811830e862621fd101bb7faba]: Commencement: [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I) in force at 6.12.2006 for specified purposes for W. by [S.I. 2006/3257](https://www.legislation.gov.uk/wsi/2006/3257), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/3257/article/2/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2006/3257/article/4))
+[^c-259f073811830e862621fd101bb7faba]: Commencement: [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I) in force at 6.12.2006 for specified purposes for W. by [S.I. 2006/3257](https://www.legislation.gov.uk/wsi/2006/3257), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/3257/article/2/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2006/3257/article/4))
 
 [^c1057253]: Commencement: [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/II) partly in force; [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/II) not in force at Royal Assent see [s. 103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3); [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/II) in force for certain purposes for E. at 30.1.2001 and in force for certain further purposes for E. at 1.4.2001 by [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2(1)(g)(2)(l)](https://www.legislation.gov.uk/uksi/2001/114/article/2/1/g/2/l) (with [art. 3](https://www.legislation.gov.uk/uksi/2001/114/article/3)); [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/II) in force for certain purpsoes for W. at 1.5.2001 by [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2(n)(o)](https://www.legislation.gov.uk/uksi/2001/1410/article/2/n/o) (with [art. 3](https://www.legislation.gov.uk/uksi/2001/1410/article/3))
 
-[^key-9f13259c519b8f963a825452ae722956]: Commencement: [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/II) in force at 2.5.2006 for specified purposes for E. by [S.I. 2006/1172](https://www.legislation.gov.uk/uksi/2006/1172), [art. 2(f)](https://www.legislation.gov.uk/uksi/2006/1172/article/2/f)
+[^c-9f13259c519b8f963a825452ae722956]: Commencement: [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/II) in force at 2.5.2006 for specified purposes for E. by [S.I. 2006/1172](https://www.legislation.gov.uk/uksi/2006/1172), [art. 2(f)](https://www.legislation.gov.uk/uksi/2006/1172/article/2/f)
 
-[^key-148593750714e374de07388c6333c923]: Commencement: [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/II) in force at 11.5.2006 for specified purposes for W. by [S.I. 2006/1279](https://www.legislation.gov.uk/wsi/2006/1279), [art. 2(i)(k)](https://www.legislation.gov.uk/wsi/2006/1279/article/2/i/k)
+[^c-148593750714e374de07388c6333c923]: Commencement: [Sch. 16 Pt. II](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/II) in force at 11.5.2006 for specified purposes for W. by [S.I. 2006/1279](https://www.legislation.gov.uk/wsi/2006/1279), [art. 2(i)(k)](https://www.legislation.gov.uk/wsi/2006/1279/article/2/i/k)
 
 [^c1057254]: Commencement: [Sch. 16 Pt. III](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/III) wholly in force at 1.5.2001; [Sch. 16 Pt. III](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/III) not in force at Royal Assent see [s. 103(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/3); [Sch. 16 Pt. III](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/III) in force for E. at 30.1.2001 by [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2001/114/article/2/1/d/ii); [Sch. 16 Pt. III](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/III) in force for W. at 1.5.2001 by [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2(p)](https://www.legislation.gov.uk/uksi/2001/1410/article/2/p)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Calculation of capital[^key-83da682e54c1e9cb2a6a6a25b414ba09]
+## 42. Calculation of capital[^c-83da682e54c1e9cb2a6a6a25b414ba09]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ if the payment was made in respect of a period for the whole or part of which ho
 
 ## Annotations
 
-[^key-83da682e54c1e9cb2a6a6a25b414ba09]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2006/406/regulation/42) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-83da682e54c1e9cb2a6a6a25b414ba09]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2006/406/regulation/42) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

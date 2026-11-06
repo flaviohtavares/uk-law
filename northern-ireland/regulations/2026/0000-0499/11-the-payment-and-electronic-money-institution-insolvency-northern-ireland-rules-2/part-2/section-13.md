@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. The special administration order[^key-ae11dc732489a8312b17557b4e2a75eb]
+## 13. The special administration order[^c-ae11dc732489a8312b17557b4e2a75eb]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ If the court makes a special administration order, the order must state—
 
 ## Annotations
 
-[^key-ae11dc732489a8312b17557b4e2a75eb]: Commencement: [Rule 13](https://www.legislation.gov.uk/nisr/2026/11/rule/13) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-ae11dc732489a8312b17557b4e2a75eb]: Commencement: [Rule 13](https://www.legislation.gov.uk/nisr/2026/11/rule/13) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

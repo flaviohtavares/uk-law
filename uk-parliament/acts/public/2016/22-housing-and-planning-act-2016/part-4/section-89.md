@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Private providers: policies for high income social tenants[^key-e2314185718bcf3b0f44cc0a788fbb6b]
+## 89. Private providers: policies for high income social tenants[^c-e2314185718bcf3b0f44cc0a788fbb6b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2314185718bcf3b0f44cc0a788fbb6b]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2016/22/section/89) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)
+[^c-e2314185718bcf3b0f44cc0a788fbb6b]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2016/22/section/89) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)

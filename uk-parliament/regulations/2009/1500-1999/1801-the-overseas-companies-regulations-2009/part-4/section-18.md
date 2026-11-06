@@ -25,7 +25,7 @@ summary: ''
 - “**limited liability partnership**” means a limited liability partnership incorporated under the Limited Liability Partnerships Act 2000 [^c1976199] or Limited Liability Partnerships Act (Northern Ireland) 2002 [^c1976200];
 - “**permanent representative**” means a permanent representative of a company whose particulars have been delivered to the registrar under regulation 7(1)(f);
 - “**police force**” means a police force within the meaning of section 101(1) of the Police Act 1996 [^c1976201] (interpretation), section 50 of the Police (Scotland) Act 1967 [^c1976202] (meaning of police area, etc) or section 1 of the Police (Northern Ireland) Act 2000 [^c1976203] (name of the police in Northern Ireland); and
-- [^key-e6a19fbd56c8c4540c481d51b46a144a]...
+- [^c-e6a19fbd56c8c4540c481d51b46a144a]...
 
 ## Annotations
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^c1976203]: Marginal citation: [2000 c.32](https://www.legislation.gov.uk/ukpga/2000/32).
 
-[^key-e6a19fbd56c8c4540c481d51b46a144a]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2009/1801/regulation/18/2) omitted (21.3.2024) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/4/2)
+[^c-e6a19fbd56c8c4540c481d51b46a144a]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2009/1801/regulation/18/2) omitted (21.3.2024) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/4/2)

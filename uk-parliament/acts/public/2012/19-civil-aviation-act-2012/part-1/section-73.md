@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Regulations[^key-17ac387c25f839a5800b929bce41576f]
+## 73. Regulations[^c-17ac387c25f839a5800b929bce41576f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17ac387c25f839a5800b929bce41576f]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2012/19/section/73) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-17ac387c25f839a5800b929bce41576f]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2012/19/section/73) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. Variation and discharge of youth diversion orders[^key-ae3a3f26d9d8ba366154a6debe4393f0]
+## 225. Variation and discharge of youth diversion orders[^c-ae3a3f26d9d8ba366154a6debe4393f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ The period for which an order has effect may be extended under paragraph (c) on 
 
 ## Annotations
 
-[^key-ae3a3f26d9d8ba366154a6debe4393f0]: Commencement: S. 225 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-ae3a3f26d9d8ba366154a6debe4393f0]: Commencement: S. 225 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

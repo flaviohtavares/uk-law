@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Air Quality Standards (Scotland) Regulations 2007 (revoked)[^key-4691bce6a5fe599879f30fcbb36db03c]
+The Air Quality Standards (Scotland) Regulations 2007 (revoked)[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 29th March 2007
 
-[^key-4691bce6a5fe599879f30fcbb36db03c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4691bce6a5fe599879f30fcbb36db03c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-4691bce6a5fe599879f30fcbb36db03c]
+### PART 1 — General[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 **No longer in force.**
 
@@ -58,11 +58,11 @@ Coming into force
 - [Section 2 — Definitions](part-1/section-2.md)
 - [Section 3 — Designation of competent authority](part-1/section-3.md)
 
-### PART 2 — Group A and Group B pollutants and ozone[^key-4691bce6a5fe599879f30fcbb36db03c]
+### PART 2 — Group A and Group B pollutants and ozone[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 **No longer in force.**
 
-#### CHAPTER 1 — Air Quality Standards[^key-4691bce6a5fe599879f30fcbb36db03c]
+#### CHAPTER 1 — Air Quality Standards[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 **No longer in force.**
 
@@ -70,7 +70,7 @@ Coming into force
 - [Section 5 — Zones and agglomerations](part-2/section-5.md)
 - [Section 6 — Air quality standards](part-2/section-6.md)
 
-#### CHAPTER 2 — Attainment of air quality standards[^key-4691bce6a5fe599879f30fcbb36db03c]
+#### CHAPTER 2 — Attainment of air quality standards[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 **No longer in force.**
 
@@ -78,14 +78,14 @@ Coming into force
 - [Section 8 — Improvement plans](part-2/section-8.md)
 - [Section 9 — Other improvement measures](part-2/section-9.md)
 
-#### CHAPTER 3 — Maintenance of air quality standards and action plans[^key-4691bce6a5fe599879f30fcbb36db03c]
+#### CHAPTER 3 — Maintenance of air quality standards and action plans[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 **No longer in force.**
 
 - [Section 10 — Maintenance of air quality standards](part-2/section-10.md)
 - [Section 11 — Action plans](part-2/section-11.md)
 
-#### CHAPTER 4 — Assessment[^key-4691bce6a5fe599879f30fcbb36db03c]
+#### CHAPTER 4 — Assessment[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 **No longer in force.**
 
@@ -95,7 +95,7 @@ Coming into force
 - [Section 15 — Sampling points](part-2/section-15.md)
 - [Section 16 — Other assessment requirements](part-2/section-16.md)
 
-### PART 3 — Other pollutants and background monitoring[^key-4691bce6a5fe599879f30fcbb36db03c]
+### PART 3 — Other pollutants and background monitoring[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 **No longer in force.**
 
@@ -104,7 +104,7 @@ Coming into force
 - [Section 19 — Monitoring of polycyclic aromatic hydrocarbons](part-3/section-19.md)
 - [Section 20 — Background monitoring](part-3/section-20.md)
 
-### PART 4 — Public information and participation[^key-4691bce6a5fe599879f30fcbb36db03c]
+### PART 4 — Public information and participation[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 **No longer in force.**
 
@@ -117,7 +117,7 @@ Coming into force
 - [Section 27 — Information on action and improvement plans](part-4/section-27.md)
 - [Section 28 — Public participation in improvement plans](part-4/section-28.md)
 
-### PART 5 — Miscellaneous provisions[^key-4691bce6a5fe599879f30fcbb36db03c]
+### PART 5 — Miscellaneous provisions[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 **No longer in force.**
 
@@ -141,14 +141,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-4691bce6a5fe599879f30fcbb36db03c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4691bce6a5fe599879f30fcbb36db03c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-4691bce6a5fe599879f30fcbb36db03c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4691bce6a5fe599879f30fcbb36db03c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4691bce6a5fe599879f30fcbb36db03c]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards (Scotland) Regulations 2010 (S.S.I. 2010/204)](https://www.legislation.gov.uk/ssi/2010/204), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/204/regulation/1), [29](https://www.legislation.gov.uk/ssi/2010/204/regulation/29)
+[^c-4691bce6a5fe599879f30fcbb36db03c]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards (Scotland) Regulations 2010 (S.S.I. 2010/204)](https://www.legislation.gov.uk/ssi/2010/204), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/204/regulation/1), [29](https://www.legislation.gov.uk/ssi/2010/204/regulation/29)

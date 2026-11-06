@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Certification of documents, etc.[^key-8a5d6f8488f810b6205ee5f16e5dfb92]
+## 62. Certification of documents, etc.[^c-8a5d6f8488f810b6205ee5f16e5dfb92]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a5d6f8488f810b6205ee5f16e5dfb92]: Commencement: Art. 62 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-8a5d6f8488f810b6205ee5f16e5dfb92]: Commencement: Art. 62 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

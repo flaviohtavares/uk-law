@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Procedure for determining applications and effect of grant of consent[^key-f54dd970c71b5d384e4cd7dd7addc31a][^key-77b438c45d041cfd7b9f87a7396c2a33]
+## 17. Procedure for determining applications and effect of grant of consent[^c-f54dd970c71b5d384e4cd7dd7addc31a][^c-77b438c45d041cfd7b9f87a7396c2a33]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f54dd970c71b5d384e4cd7dd7addc31a]: Commencement: S. 17 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-f54dd970c71b5d384e4cd7dd7addc31a]: Commencement: S. 17 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-77b438c45d041cfd7b9f87a7396c2a33]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2023/3/section/17) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-77b438c45d041cfd7b9f87a7396c2a33]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2023/3/section/17) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

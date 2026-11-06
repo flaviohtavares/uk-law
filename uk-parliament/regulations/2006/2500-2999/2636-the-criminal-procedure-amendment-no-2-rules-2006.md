@@ -50,13 +50,13 @@ Coming into force
 
 The Criminal Procedure Rule Committee makes the following Rules under section 69 of the Courts Act 2003[^f00001], after consulting in accordance with section 72(1)(a) of that Act:
 
-## 1. Citation, commencement and interpretation[^key-04c0a1d5cbfe6b058f84f6b91dae4088]
+## 1. Citation, commencement and interpretation[^c-04c0a1d5cbfe6b058f84f6b91dae4088]
 
 These Rules may be cited as the Criminal Procedure (Amendment No. 2) Rules 2006 and shall come into force on 6th November 2006.
 
-**2.**[^key-e46d08e4cc195ec39139cdfa8962f7f2] In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Criminal Procedure Rules 2005[^f00002].
+**2.**[^c-e46d08e4cc195ec39139cdfa8962f7f2] In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Criminal Procedure Rules 2005[^f00002].
 
-## 3. Amendments to the Criminal Procedure Rules 2005[^key-143352c79cd12ad415e2223dee291473]
+## 3. Amendments to the Criminal Procedure Rules 2005[^c-143352c79cd12ad415e2223dee291473]
 
 In rule 2.1 (When the Rules apply), at the end of paragraph (3), insert—
 
@@ -64,7 +64,7 @@ In rule 2.1 (When the Rules apply), at the end of paragraph (3), insert—
 
 .
 
-**4.**[^key-a385fece9749624d0c00dc1cbab7e494] In Part 4 (Service of documents)—
+**4.**[^c-a385fece9749624d0c00dc1cbab7e494] In Part 4 (Service of documents)—
 
 - (a) in the table of contents, in the entry for rule 4.1, for “Summons issued by a magistrates' court”, substitute “Service of summons, requisition etc.”;
 - (b) in the heading to rule 4.1 (Service of summons, etc issued by a magistrates' court), for “etc issued by a magistrates' court”, substitute “requisition etc.”;
@@ -79,25 +79,25 @@ In rule 2.1 (When the Rules apply), at the end of paragraph (3), insert—
   - (i) after “summons, process, notice”, insert “, requisition”, and
   - (ii) after “summons, notice, process”, insert “, requisition”.
 
-**5.**[^key-321e7359cf750a69bd13ba922ac71ae8] In Part 7 (Commencing proceedings in magistrates' courts), in the table of contents—
+**5.**[^c-321e7359cf750a69bd13ba922ac71ae8] In Part 7 (Commencing proceedings in magistrates' courts), in the table of contents—
 
 - (a) in the entry for rule 7.3, after “Information”, insert “or written charge”; and
 - (b) in the entry for rule 7.7, after “summons”, insert “or requisition”.
 
-**6.**[^key-49d6ce3675f5dfed36ec68788ae7fae9] In rule 7.2(1) (Statement of offence), for the words from “information laid in” to “made by,”, substitute “written charge issued by a public prosecutor and every information, summons or warrant laid in or issued by”.
+**6.**[^c-49d6ce3675f5dfed36ec68788ae7fae9] In rule 7.2(1) (Statement of offence), for the words from “information laid in” to “made by,”, substitute “written charge issued by a public prosecutor and every information, summons or warrant laid in or issued by”.
 
-**7.**[^key-b4e2c4abf5fd285cc6e5f389a45ca6f9] In the note after rule 7.2, for “Formerly”, substitute “Section 1 of the Magistrates' Courts Act 1980 provides for the laying of an information in a magistrates' court. Section 29 of the Criminal Justice Act 2003 provides for the issue of a written charge and requisition by a public prosecutor. These rules derive in part from”.
+**7.**[^c-b4e2c4abf5fd285cc6e5f389a45ca6f9] In the note after rule 7.2, for “Formerly”, substitute “Section 1 of the Magistrates' Courts Act 1980 provides for the laying of an information in a magistrates' court. Section 29 of the Criminal Justice Act 2003 provides for the issue of a written charge and requisition by a public prosecutor. These rules derive in part from”.
 
-**8.**[^key-9e88aff0c3b2b067c8b653d707830fc3] In the heading to rule 7.3 (Information to be for one offence only), after “Information”, insert “or written charge”.
+**8.**[^c-9e88aff0c3b2b067c8b653d707830fc3] In the heading to rule 7.3 (Information to be for one offence only), after “Information”, insert “or written charge”.
 
-**9.**[^key-ef5a2bda8270adb2d9c10923ed441b86] In rule 7.3—
+**9.**[^c-ef5a2bda8270adb2d9c10923ed441b86] In rule 7.3—
 
 - (a) in paragraphs (1), (3), (4) and (5), after “information”, wherever that word occurs, insert “or written charge”; and
 - (b) in paragraph (2), after “informations”, insert “or written charges”.
 
-**10.**[^key-a46a4fa0b2040b1093da27b55f81a8a0] In the heading to rule 7.7 (Form of summons), after “summons”, insert “or requisition”.
+**10.**[^c-a46a4fa0b2040b1093da27b55f81a8a0] In the heading to rule 7.7 (Form of summons), after “summons”, insert “or requisition”.
 
-**11.**[^key-fad2b59dac79cccb59472b007b97b1fe] In rule 7.7—
+**11.**[^c-fad2b59dac79cccb59472b007b97b1fe] In rule 7.7—
 
 - (a) for paragraph (1), substitute—
 
@@ -111,9 +111,9 @@ In rule 2.1 (When the Rules apply), at the end of paragraph (3), insert—
   - (i) after “summonses”, insert “or requisitions”, and
   - (ii) after “informations”, insert “, written charges”.
 
-**12.**[^key-35fb20f1c9a74981e3d4dd09a0d483bb] In the note after rule 7.7, after “summons”, insert “or a requisition”.
+**12.**[^c-35fb20f1c9a74981e3d4dd09a0d483bb] In the note after rule 7.7, after “summons”, insert “or a requisition”.
 
-**13.**[^key-9d33de304bea6a1d573e6c0cd4c9879b] In Part 15 (Preparatory hearings in cases of serious fraud and other complex or lengthy cases in the Crown Court)—
+**13.**[^c-9d33de304bea6a1d573e6c0cd4c9879b] In Part 15 (Preparatory hearings in cases of serious fraud and other complex or lengthy cases in the Crown Court)—
 
 - (a) for rule 15.1(2), substitute—
 
@@ -127,29 +127,29 @@ In rule 2.1 (When the Rules apply), at the end of paragraph (3), insert—
   ; and
 - (b) in rule 15.4(1), omit “for the purpose of determining whether to make an order that the trial will be conducted without a jury under section 43 or section 44 of the Criminal Justice Act 2003”.
 
-**14.**[^key-77309bab7fbdf1459626e2489ba04584] In rule 24.1(1)(i) (Requirement to disclose expert evidence)—
+**14.**[^c-77309bab7fbdf1459626e2489ba04584] In rule 24.1(1)(i) (Requirement to disclose expert evidence)—
 
 - (a) after “parties”, insert “and the court”; and
 - (b) after “evidence,”, insert “and notify the expert of this disclosure,”.
 
-**15.**[^key-eb13b2a492d9e47f1720d2f6e2764bce] In the note after rule 24.1 (Requirement to disclose expert evidence), at the end, insert “Part 33 contains rules about the duties of an expert and the content of an expert’s report.”.
+**15.**[^c-eb13b2a492d9e47f1720d2f6e2764bce] In the note after rule 24.1 (Requirement to disclose expert evidence), at the end, insert “Part 33 contains rules about the duties of an expert and the content of an expert’s report.”.
 
-**16.**[^key-ce6ee8468be690542f6ac597c3dd209d] In the note after rule 29.3 (Late applications), at the end, insert “An application to make or vary a special measures direction also may be made in the time allowed under rule 36.6.”.
+**16.**[^c-ce6ee8468be690542f6ac597c3dd209d] In the note after rule 29.3 (Late applications), at the end, insert “An application to make or vary a special measures direction also may be made in the time allowed under rule 36.6.”.
 
-**17.**[^key-c800d028af46100157e0b67b9f963b86] In rule 29.8(a) (Expert evidence in connection with special measures directions)—
+**17.**[^c-c800d028af46100157e0b67b9f963b86] In rule 29.8(a) (Expert evidence in connection with special measures directions)—
 
 - (a) for “to those proceedings”, substitute “and the court”; and
 - (b) for “; and”, substitute “and notify the expert of this disclosure; and”.
 
-**18.**[^key-7c6b9ba4ccb016660c7fc3d9699febe8] In the note after rule 29.8, at the end, insert “Part 33 contains rules about the duties of an expert and the content of an expert’s report.”.
+**18.**[^c-7c6b9ba4ccb016660c7fc3d9699febe8] In the note after rule 29.8, at the end, insert “Part 33 contains rules about the duties of an expert and the content of an expert’s report.”.
 
-**19.**[^key-9ab009d0dc0e45bceac3601e8a958ef1] For Part 33 (Expert evidence), substitute the Part as set out in Schedule 1 to these Rules.
+**19.**[^c-9ab009d0dc0e45bceac3601e8a958ef1] For Part 33 (Expert evidence), substitute the Part as set out in Schedule 1 to these Rules.
 
-**20.**[^key-95d846539a091251e08f7951557f876c] For Part 36 (Evidence about a complainant’s sexual behaviour), substitute the Part as set out in Schedule 2 to these Rules.
+**20.**[^c-95d846539a091251e08f7951557f876c] For Part 36 (Evidence about a complainant’s sexual behaviour), substitute the Part as set out in Schedule 2 to these Rules.
 
-**21.**[^key-184bf27ea19118efb1347b224b13fe3b] In the heading to Part 68, for “or sentence”, substitute “, sentence or sentence review decision”.
+**21.**[^c-184bf27ea19118efb1347b224b13fe3b] In the heading to Part 68, for “or sentence”, substitute “, sentence or sentence review decision”.
 
-**22.**[^key-c56762efd5eed81ef6f7bd38da639cf8] In rule 68.3 (Notice of appeal and application for extension of time)—
+**22.**[^c-c56762efd5eed81ef6f7bd38da639cf8] In rule 68.3 (Notice of appeal and application for extension of time)—
 
 - (a) after paragraph (1A), insert—
 
@@ -175,7 +175,7 @@ In rule 2.1 (When the Rules apply), at the end of paragraph (3), insert—
 
     .
 
-**23.**[^key-6072bbd922f30d805a7a3660a14f0f25] In rule 68.5 (Exercise of court’s powers to give leave to appeal, etc: general rules)—
+**23.**[^c-6072bbd922f30d805a7a3660a14f0f25] In rule 68.5 (Exercise of court’s powers to give leave to appeal, etc: general rules)—
 
 - (a) in paragraph (1)(a)—
   - (i) for “or”, substitute “,”, and
@@ -191,7 +191,7 @@ In rule 2.1 (When the Rules apply), at the end of paragraph (3), insert—
   - (ii) after “the 2005 Order”, insert “or article 14 of the 2006 Order”; and
 - (e) in paragraph (4), after “1968 Act”, insert “or the 2006 Order”.
 
-**24.**[^key-a037ae5bda9df67049457cca95ed977e] In rule 68.6 (Further applications to a judge or to the court: additional rules)—
+**24.**[^c-a037ae5bda9df67049457cca95ed977e] In rule 68.6 (Further applications to a judge or to the court: additional rules)—
 
 - (a) in paragraph (1)(a)—
   - (i) for the first “or”, substitute “,”, and
@@ -206,7 +206,7 @@ In rule 2.1 (When the Rules apply), at the end of paragraph (3), insert—
   - (i) for “or”, substitute “,”, and
   - (ii) after “the 2005 Order”, insert “or article 11 of the 2006 Order”.
 
-**25.**[^key-25f6e327e4aaf9abb9deecad38a97aec] In rule 68.8 (Bail with condition of surety)—
+**25.**[^c-25f6e327e4aaf9abb9deecad38a97aec] In rule 68.8 (Bail with condition of surety)—
 
 - (a) in paragraph (1), after “appellant”, insert “or, in an appeal brought by a specified prosecutor under section 74(8) of the Serious Organised Crime and Police Act 2005, to the offender”;
 - (b) in paragraph (5), for “appellant's”, substitute “appellant or offender's”;
@@ -215,33 +215,33 @@ In rule 2.1 (When the Rules apply), at the end of paragraph (3), insert—
   - (ii) after “appellant”, wherever that word occurs, insert “or offender”; and
 - (d) in paragraph (10), after “appellant”, insert “or offender”.
 
-**26.**[^key-cd2e657fc78f51bd29e9a4edb3592350] In rule 68.9(1) (Forfeiture of recognizances in respect of person bailed to appear), after “appellant”, insert “or, in an appeal brought by a specified prosecutor under section 74(8) of the Serious Organised Crime and Police Act 2005, in respect of an offender,”.
+**26.**[^c-cd2e657fc78f51bd29e9a4edb3592350] In rule 68.9(1) (Forfeiture of recognizances in respect of person bailed to appear), after “appellant”, insert “or, in an appeal brought by a specified prosecutor under section 74(8) of the Serious Organised Crime and Police Act 2005, in respect of an offender,”.
 
-**27.**[^key-5b4e383c2ecc2f347ca5208eec176560] In rule 68.11 (Supply of documentary and other exhibits), for “The Registrar”, wherever those words occur, substitute “Unless the court otherwise directs, the Registrar”.
+**27.**[^c-5b4e383c2ecc2f347ca5208eec176560] In rule 68.11 (Supply of documentary and other exhibits), for “The Registrar”, wherever those words occur, substitute “Unless the court otherwise directs, the Registrar”.
 
-**28.**[^key-96478a6601dc26c36129946cbdb03603] In rule 68.13(1) (Transcripts)—
+**28.**[^c-96478a6601dc26c36129946cbdb03603] In rule 68.13(1) (Transcripts)—
 
 - (a) in sub-paragraph (a), omit “or any interested party”; and
 - (b) in sub-paragraph (b)—
   - (i) for “may”, where it first appears, substitute “shall”, and
   - (ii) after “Treasury”, insert “, unless the court otherwise directs”.
 
-**29.**[^key-137cf1e5ce20c23089a72aa99ccd75bb] In rule 68.15(1) (Application for a witness order and for evidence to be received), after “appellant”, insert “, or, in an appeal brought by a specified prosecutor under section 74(8) of the Serious Organised Crime and Police Act 2005, by the appellant or the offender”.
+**29.**[^c-137cf1e5ce20c23089a72aa99ccd75bb] In rule 68.15(1) (Application for a witness order and for evidence to be received), after “appellant”, insert “, or, in an appeal brought by a specified prosecutor under section 74(8) of the Serious Organised Crime and Police Act 2005, by the appellant or the offender”.
 
-**30.**[^key-ba0aa6d88c250bb19c47ca4a7c3e0f92] In rule 68.17(2)(a) (Vulnerable witness giving video recorded testimony), after “appellant”, insert “or, in an appeal brought by a specified prosecutor under section 74(8) of the Serious Organised Crime and Police Act 2005, the name of the offender,”.
+**30.**[^c-ba0aa6d88c250bb19c47ca4a7c3e0f92] In rule 68.17(2)(a) (Vulnerable witness giving video recorded testimony), after “appellant”, insert “or, in an appeal brought by a specified prosecutor under section 74(8) of the Serious Organised Crime and Police Act 2005, the name of the offender,”.
 
-**31.**[^key-64da0c3c785b5bfb829f18e6aac9e010] In rule 68.21(a) (Procedure for the admission of evidence of bad character), for “appellant,”, substitute “appellant or, where the appeal is brought by a specified prosecutor under section 74(8) of the Serious Organised Crime and Police Act 2005, as a reference to an offender”.
+**31.**[^c-64da0c3c785b5bfb829f18e6aac9e010] In rule 68.21(a) (Procedure for the admission of evidence of bad character), for “appellant,”, substitute “appellant or, where the appeal is brought by a specified prosecutor under section 74(8) of the Serious Organised Crime and Police Act 2005, as a reference to an offender”.
 
-**32.**[^key-6ecaddb754a34b68633ff7ec0c5ad399] In rule 68.22 (Abandonment of proceedings)—
+**32.**[^c-6ecaddb754a34b68633ff7ec0c5ad399] In rule 68.22 (Abandonment of proceedings)—
 
 - (a) in paragraph (1)—
   - (i) after “1968”, for “or”, substitute “,”, and
   - (ii) after “2003”, insert “or under section 74(8) of the Serious Organised Crime and Police Act 2005”; and
 - (b) in paragraph (3), for “court of trial”, substitute “Crown Court”.
 
-**33.**[^key-efe34a2c5866ced851f9d2df45bc70be] In rule 68.23(1) (The Registrar), for “court of trial”, substitute “Crown Court”.
+**33.**[^c-efe34a2c5866ced851f9d2df45bc70be] In rule 68.23(1) (The Registrar), for “court of trial”, substitute “Crown Court”.
 
-**34.**[^key-d3cf524c87f2ba1070f5b16ef522ab6f] In rule 68.29 (Notice of determination of court)—
+**34.**[^c-d3cf524c87f2ba1070f5b16ef522ab6f] In rule 68.29 (Notice of determination of court)—
 
 - (a) in paragraph (1)—
   - (i) in the opening words, for the second “or”, substitute “,”,
@@ -260,7 +260,7 @@ In rule 2.1 (When the Rules apply), at the end of paragraph (3), insert—
 
   .
 
-**35.**[^key-3ef1126e40d21369d5b1118fb8085ad1] In rule 68.30(1) (Enforcement of fines), after “appellant,”, insert “or, in an appeal brought by a specified prosecutor under section 74(8) of the Serious Organised Crime and Police Act 2005, on the offender,”.
+**35.**[^c-3ef1126e40d21369d5b1118fb8085ad1] In rule 68.30(1) (Enforcement of fines), after “appellant,”, insert “or, in an appeal brought by a specified prosecutor under section 74(8) of the Serious Organised Crime and Police Act 2005, on the offender,”.
 
 Phillips of Worth Matravers, *C.J.*
 
@@ -306,7 +306,7 @@ One of Her Majesty’s Principal Secretaries of State
 
 3rd October 2006
 
-## SCHEDULE 1[^key-2b11eb6362096e0fc6bafe651409a7ff]
+## SCHEDULE 1[^c-2b11eb6362096e0fc6bafe651409a7ff]
 
 Rule 19
 
@@ -416,7 +416,7 @@ Rule 19
 >
 > (5) Unless the court otherwise directs, the instructing co-defendants are jointly and severally liable for the payment of the expert’s fees and expenses.
 
-## SCHEDULE 2[^key-f87c8e68a02db381749f8a63456b05f7]
+## SCHEDULE 2[^c-f87c8e68a02db381749f8a63456b05f7]
 
 Rule 20
 
@@ -521,15 +521,15 @@ In addition, the following amendments are made:
 
 [^f00001]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39).
 
-[^key-04c0a1d5cbfe6b058f84f6b91dae4088]: Commencement: Rule 1 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-04c0a1d5cbfe6b058f84f6b91dae4088]: Commencement: Rule 1 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-e46d08e4cc195ec39139cdfa8962f7f2]: Commencement: Rule 2 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-e46d08e4cc195ec39139cdfa8962f7f2]: Commencement: Rule 2 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
 [^f00002]: Footnote: S.I. [2005/384](https://www.legislation.gov.uk/uksi/2005/384); amended by S.I. [2006/353](https://www.legislation.gov.uk/uksi/2006/353).
 
-[^key-143352c79cd12ad415e2223dee291473]: Commencement: Rule 3 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-143352c79cd12ad415e2223dee291473]: Commencement: Rule 3 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-a385fece9749624d0c00dc1cbab7e494]: Commencement: Rule 4 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-a385fece9749624d0c00dc1cbab7e494]: Commencement: Rule 4 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
 [^f00003]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
@@ -537,77 +537,77 @@ In addition, the following amendments are made:
 
 [^f00005]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); section 29 will take effect from a date to be appointed. Section 29(5)(ca) was inserted by section 50(6) of, and paragraph 130 of Schedule 4 to, the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 29(5)(cb) was inserted by section 59 of, and paragraph 196 of Schedule 4 to, the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15).
 
-[^key-321e7359cf750a69bd13ba922ac71ae8]: Commencement: Rule 5 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-321e7359cf750a69bd13ba922ac71ae8]: Commencement: Rule 5 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-49d6ce3675f5dfed36ec68788ae7fae9]: Commencement: Rule 6 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-49d6ce3675f5dfed36ec68788ae7fae9]: Commencement: Rule 6 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-b4e2c4abf5fd285cc6e5f389a45ca6f9]: Commencement: Rule 7 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-b4e2c4abf5fd285cc6e5f389a45ca6f9]: Commencement: Rule 7 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-9e88aff0c3b2b067c8b653d707830fc3]: Commencement: Rule 8 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-9e88aff0c3b2b067c8b653d707830fc3]: Commencement: Rule 8 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-ef5a2bda8270adb2d9c10923ed441b86]: Commencement: Rule 9 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-ef5a2bda8270adb2d9c10923ed441b86]: Commencement: Rule 9 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-a46a4fa0b2040b1093da27b55f81a8a0]: Commencement: Rule 10 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-a46a4fa0b2040b1093da27b55f81a8a0]: Commencement: Rule 10 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-fad2b59dac79cccb59472b007b97b1fe]: Commencement: Rule 11 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-fad2b59dac79cccb59472b007b97b1fe]: Commencement: Rule 11 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-35fb20f1c9a74981e3d4dd09a0d483bb]: Commencement: Rule 12 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-35fb20f1c9a74981e3d4dd09a0d483bb]: Commencement: Rule 12 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-9d33de304bea6a1d573e6c0cd4c9879b]: Commencement: Rule 13 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-9d33de304bea6a1d573e6c0cd4c9879b]: Commencement: Rule 13 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
 [^f00006]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); sections 43 and 44 will take effect from a date to be appointed.
 
 [^f00007]: Footnote: [2004 c. 28](https://www.legislation.gov.uk/ukpga/2004/28); section 17 will take effect from a date to be appointed.
 
-[^key-77309bab7fbdf1459626e2489ba04584]: Commencement: Rule 14 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-77309bab7fbdf1459626e2489ba04584]: Commencement: Rule 14 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-eb13b2a492d9e47f1720d2f6e2764bce]: Commencement: Rule 15 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-eb13b2a492d9e47f1720d2f6e2764bce]: Commencement: Rule 15 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-ce6ee8468be690542f6ac597c3dd209d]: Commencement: Rule 16 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-ce6ee8468be690542f6ac597c3dd209d]: Commencement: Rule 16 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-c800d028af46100157e0b67b9f963b86]: Commencement: Rule 17 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-c800d028af46100157e0b67b9f963b86]: Commencement: Rule 17 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-7c6b9ba4ccb016660c7fc3d9699febe8]: Commencement: Rule 18 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-7c6b9ba4ccb016660c7fc3d9699febe8]: Commencement: Rule 18 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-9ab009d0dc0e45bceac3601e8a958ef1]: Commencement: Rule 19 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-9ab009d0dc0e45bceac3601e8a958ef1]: Commencement: Rule 19 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-95d846539a091251e08f7951557f876c]: Commencement: Rule 20 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-95d846539a091251e08f7951557f876c]: Commencement: Rule 20 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-184bf27ea19118efb1347b224b13fe3b]: Commencement: Rule 21 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-184bf27ea19118efb1347b224b13fe3b]: Commencement: Rule 21 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-c56762efd5eed81ef6f7bd38da639cf8]: Commencement: Rule 22 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-c56762efd5eed81ef6f7bd38da639cf8]: Commencement: Rule 22 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
 [^f00008]: Footnote: [2005 c. 15](https://www.legislation.gov.uk/ukpga/2005/15).
 
 [^f00009]: Footnote: S.I. [2006/2135](https://www.legislation.gov.uk/uksi/2006/2135).
 
-[^key-6072bbd922f30d805a7a3660a14f0f25]: Commencement: Rule 23 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-6072bbd922f30d805a7a3660a14f0f25]: Commencement: Rule 23 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-a037ae5bda9df67049457cca95ed977e]: Commencement: Rule 24 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-a037ae5bda9df67049457cca95ed977e]: Commencement: Rule 24 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-25f6e327e4aaf9abb9deecad38a97aec]: Commencement: Rule 25 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-25f6e327e4aaf9abb9deecad38a97aec]: Commencement: Rule 25 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-cd2e657fc78f51bd29e9a4edb3592350]: Commencement: Rule 26 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-cd2e657fc78f51bd29e9a4edb3592350]: Commencement: Rule 26 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-5b4e383c2ecc2f347ca5208eec176560]: Commencement: Rule 27 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-5b4e383c2ecc2f347ca5208eec176560]: Commencement: Rule 27 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-96478a6601dc26c36129946cbdb03603]: Commencement: Rule 28 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-96478a6601dc26c36129946cbdb03603]: Commencement: Rule 28 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-137cf1e5ce20c23089a72aa99ccd75bb]: Commencement: Rule 29 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-137cf1e5ce20c23089a72aa99ccd75bb]: Commencement: Rule 29 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-ba0aa6d88c250bb19c47ca4a7c3e0f92]: Commencement: Rule 30 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-ba0aa6d88c250bb19c47ca4a7c3e0f92]: Commencement: Rule 30 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-64da0c3c785b5bfb829f18e6aac9e010]: Commencement: Rule 31 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-64da0c3c785b5bfb829f18e6aac9e010]: Commencement: Rule 31 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-6ecaddb754a34b68633ff7ec0c5ad399]: Commencement: Rule 32 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-6ecaddb754a34b68633ff7ec0c5ad399]: Commencement: Rule 32 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-efe34a2c5866ced851f9d2df45bc70be]: Commencement: Rule 33 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-efe34a2c5866ced851f9d2df45bc70be]: Commencement: Rule 33 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-d3cf524c87f2ba1070f5b16ef522ab6f]: Commencement: Rule 34 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-d3cf524c87f2ba1070f5b16ef522ab6f]: Commencement: Rule 34 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-3ef1126e40d21369d5b1118fb8085ad1]: Commencement: Rule 35 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-3ef1126e40d21369d5b1118fb8085ad1]: Commencement: Rule 35 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
-[^key-2b11eb6362096e0fc6bafe651409a7ff]: Commencement: Sch. 1 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-2b11eb6362096e0fc6bafe651409a7ff]: Commencement: Sch. 1 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
 [^f00010]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33); section 30(4A) was inserted by section 47 of, and paragraph 32 of Schedule 1 to, the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25) and is repealed by section 41 to, and paragraph 60(1) and (6) of Schedule 3 and Schedule 37 to, the Criminal Justice Act 2003, with effect from a date to be appointed.
 
@@ -633,7 +633,7 @@ In addition, the following amendments are made:
 
 [^f00021]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39).
 
-[^key-f87c8e68a02db381749f8a63456b05f7]: Commencement: Sch. 2 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
+[^c-f87c8e68a02db381749f8a63456b05f7]: Commencement: Sch. 2 in force at 6.11.2006, see [rule 1](https://www.legislation.gov.uk/uksi/2006/2636/rule/1)
 
 [^f00022]: Footnote: S.I. [1982/1109](https://www.legislation.gov.uk/uksi/1982/1109); amended by S.I. [2000/2987](https://www.legislation.gov.uk/uksi/2000/2987); there are other amending instruments, but none is relevant.
 

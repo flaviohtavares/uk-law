@@ -26,8 +26,8 @@ summary: ''
 - (b) any other means of capturing or killing which is indiscriminate or capable of causing the local disappearance of any species of wild bird; or
 - (c) any means of capturing or killing from a mechanically propelled vehicle, including a ship or an aircraft, while in immediate pursuit of a wild bird with a view to capturing or killing that bird.
 
-(2)[^key-7aef718e0e7b792169c9d444e830aa71] The prohibited means of capturing or killing wild birds are those listed in Schedule 2A.
+(2)[^c-7aef718e0e7b792169c9d444e830aa71] The prohibited means of capturing or killing wild birds are those listed in Schedule 2A.
 
 ## Annotations
 
-[^key-7aef718e0e7b792169c9d444e830aa71]: Textual amendment: [Reg. 42(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/42/2) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [57](https://www.legislation.gov.uk/uksi/2019/579/regulation/57); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7aef718e0e7b792169c9d444e830aa71]: Textual amendment: [Reg. 42(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/42/2) substituted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [57](https://www.legislation.gov.uk/uksi/2019/579/regulation/57); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

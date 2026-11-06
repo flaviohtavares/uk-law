@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Application for registration where claims assigned to different assignees[^key-64b7b5e9b3f35cea492ddbde67bba66f][^key-215309a166eec7973310681e088f2d08][^key-d70f3958abcd6e5960edc40090b4f363]
+## 24. Application for registration where claims assigned to different assignees[^c-64b7b5e9b3f35cea492ddbde67bba66f][^c-215309a166eec7973310681e088f2d08][^c-d70f3958abcd6e5960edc40090b4f363]
 
 *Extent: S*
 
-[^key-d70f3958abcd6e5960edc40090b4f363]
+[^c-d70f3958abcd6e5960edc40090b4f363]
 
 (1) Where an assignation document assigns different claims to different assignees, each assignee may apply to the Keeper for registration of the document only in so far as it assigns a claim to that assignee (“**the applicant**”).
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-64b7b5e9b3f35cea492ddbde67bba66f]: Commencement: S. 24 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-64b7b5e9b3f35cea492ddbde67bba66f]: Commencement: S. 24 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-215309a166eec7973310681e088f2d08]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2023/3/section/24) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-215309a166eec7973310681e088f2d08]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2023/3/section/24) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
-[^key-d70f3958abcd6e5960edc40090b4f363]: Modification: Pt. 1 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [3](https://www.legislation.gov.uk/uksi/2025/275/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/275/article/4), [20](https://www.legislation.gov.uk/uksi/2025/275/article/20))
+[^c-d70f3958abcd6e5960edc40090b4f363]: Modification: Pt. 1 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [3](https://www.legislation.gov.uk/uksi/2025/275/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/275/article/4), [20](https://www.legislation.gov.uk/uksi/2025/275/article/20))

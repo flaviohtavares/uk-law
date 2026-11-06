@@ -70,7 +70,7 @@ on the transfer of any liability to which it relates, or of part of any such lia
 
 (8) References in this section to the liabilities of the Secretary of State do not include any liability in respect of interest on any principal moneys the payment of which is the subject of any guarantee given under this section or section 7 of the [^c823556]Shipbuilding Industry Act 1967.
 
-(9) In this section “**construction**” includes the completion of a partially constructed ship or installation and the alteration of a ship or installation and of a partially constructed ship or installation[^c823557] and “[^c823558]**holding company**” and “**subsidiary**” have the meanings assigned to them by section 1159 of the Companies Act 2006[^key-ede37c992c9ca383a2bbb71641c1ae85].
+(9) In this section “**construction**” includes the completion of a partially constructed ship or installation and the alteration of a ship or installation and of a partially constructed ship or installation[^c823557] and “[^c823558]**holding company**” and “**subsidiary**” have the meanings assigned to them by section 1159 of the Companies Act 2006[^c-ede37c992c9ca383a2bbb71641c1ae85].
 
 ### 10A. Interest grants.[^c823562][^c823561]
 
@@ -223,7 +223,7 @@ Section 19.
 - (a) the vesting of any property, rights or liabilities in the Secretary of State under section 9(3) of the [^c823588]Shipbuilding Industry Act 1967;
 - (b) the operation—
   - (i) of subsections (2) and (7) and, subject to paragraphs 2 and 3 below, of subsection (8), of section 10 of that Act;
-  - (ii)[^key-5f41b002ba59a2ebaa99f8dd1a860a65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-5f41b002ba59a2ebaa99f8dd1a860a65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** Any sums received by the Secretary of State by way of repayment of or interest on a loan under the [^c823590]Shipbuilding Industry Act 1967 shall be paid into the National Loans Fund, and the reference to subsection (5) of section 10 of that Act in subsection (8) of that section shall include a reference to this paragraph.
 
@@ -278,7 +278,7 @@ The above repeals have effect subject to Schedule 3 to this Act.
 
 [^c823558]: Textual amendment: Words added by [Industry Act 1975 (c. 68)](https://www.legislation.gov.uk/ukpga/1975/68) , [s. 24(3)](https://www.legislation.gov.uk/ukpga/1975/68/section/24/3)
 
-[^key-ede37c992c9ca383a2bbb71641c1ae85]: Textual amendment: Words in s. 10(9) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2) , [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/24) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10) )
+[^c-ede37c992c9ca383a2bbb71641c1ae85]: Textual amendment: Words in s. 10(9) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941) , [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2) , [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/24) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10) )
 
 [^c823562]: Modification: [S. 10A](https://www.legislation.gov.uk/ukpga/1972/63/section/10A): Functions transferred (1.7.1999) by virtue of [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [ss. 53](https://www.legislation.gov.uk/ukpga/1998/46/section/53), [56(1)(f)](https://www.legislation.gov.uk/ukpga/1998/46/section/56/1/f) (with [s. 126(3)-(11)](https://www.legislation.gov.uk/ukpga/1998/46/section/126/3)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/1).
 
@@ -332,7 +332,7 @@ The above repeals have effect subject to Schedule 3 to this Act.
 
 [^c823588]: Marginal citation: [1967 c. 40](https://www.legislation.gov.uk/ukpga/1967/40).
 
-[^key-5f41b002ba59a2ebaa99f8dd1a860a65]: Textual amendment: [Sch. 3 para. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/1972/63/schedule/3/paragraph/1/b/ii) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/7)
+[^c-5f41b002ba59a2ebaa99f8dd1a860a65]: Textual amendment: [Sch. 3 para. 1(b)(ii)](https://www.legislation.gov.uk/ukpga/1972/63/schedule/3/paragraph/1/b/ii) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/7)
 
 [^c823590]: Marginal citation: [1967 c. 40](https://www.legislation.gov.uk/ukpga/1967/40).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Applications for variation or renewal of the inclusion of active substances in Annex I, IA or IB[^key-a598459395dc18877bc7b7f7e0457927]
+## 7. Applications for variation or renewal of the inclusion of active substances in Annex I, IA or IB[^c-a598459395dc18877bc7b7f7e0457927]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ subject to regulation 39(2), within the period of 12 months of receiving the dos
 
 ## Annotations
 
-[^key-a598459395dc18877bc7b7f7e0457927]: Commencement: Reg. 7 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-a598459395dc18877bc7b7f7e0457927]: Commencement: Reg. 7 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

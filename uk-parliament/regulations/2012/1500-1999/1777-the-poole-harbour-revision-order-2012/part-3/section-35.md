@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Exemptions from dues[^key-eb10135a53be8b3a974219df040df4a7]
+## 35. Exemptions from dues[^c-eb10135a53be8b3a974219df040df4a7]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb10135a53be8b3a974219df040df4a7]: Commencement: Art. 35 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-eb10135a53be8b3a974219df040df4a7]: Commencement: Art. 35 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

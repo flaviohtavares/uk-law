@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Union (Definition of Treaties) (Republic of Korea Framework Agreement) Order 2012 (revoked)[^key-51715ec1c0b9480a15c1875d33af1dfc]
+The European Union (Definition of Treaties) (Republic of Korea Framework Agreement) Order 2012 (revoked)[^c-51715ec1c0b9480a15c1875d33af1dfc]
 
 Made
 
@@ -46,28 +46,28 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-51715ec1c0b9480a15c1875d33af1dfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51715ec1c0b9480a15c1875d33af1dfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-51715ec1c0b9480a15c1875d33af1dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-51715ec1c0b9480a15c1875d33af1dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-51715ec1c0b9480a15c1875d33af1dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-51715ec1c0b9480a15c1875d33af1dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-51715ec1c0b9480a15c1875d33af1dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-51715ec1c0b9480a15c1875d33af1dfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51715ec1c0b9480a15c1875d33af1dfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51715ec1c0b9480a15c1875d33af1dfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-51715ec1c0b9480a15c1875d33af1dfc]
+## SCHEDULE[^c-51715ec1c0b9480a15c1875d33af1dfc]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51715ec1c0b9480a15c1875d33af1dfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51715ec1c0b9480a15c1875d33af1dfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-51715ec1c0b9480a15c1875d33af1dfc]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/358) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51715ec1c0b9480a15c1875d33af1dfc]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/358) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

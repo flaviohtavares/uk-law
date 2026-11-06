@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 508. Maximum penalties[^key-62f586d7a7723d135fb020df12ce9b5a]
+## 508. Maximum penalties[^c-62f586d7a7723d135fb020df12ce9b5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 18 (penalties) of the Public Offers of Securities Regulations 1995
 
 ## Annotations
 
-[^key-62f586d7a7723d135fb020df12ce9b5a]: Commencement: Art. 508 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-62f586d7a7723d135fb020df12ce9b5a]: Commencement: Art. 508 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

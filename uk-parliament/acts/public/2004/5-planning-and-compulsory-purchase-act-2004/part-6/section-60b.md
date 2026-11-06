@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60B. Procedure for preparation and publication of Framework[^key-d78ab1fd52b9e750056ca7f770e4c070]
+## 60B. Procedure for preparation and publication of Framework[^c-d78ab1fd52b9e750056ca7f770e4c070]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) carry out an appraisal of the sustainability of the policies set out in the draft, and
 - (c) carry out consultation in accordance with the statement of public participation.
 
-(1A)[^key-8202fed37b2ee2ab23c2ceb6d1f4b44f] In preparing the draft Framework under subsection (1)(a), the Welsh Ministers must have regard to the most recent sustainable land management report published under section 6 of the Agriculture (Wales) Act 2023.
+(1A)[^c-8202fed37b2ee2ab23c2ceb6d1f4b44f] In preparing the draft Framework under subsection (1)(a), the Welsh Ministers must have regard to the most recent sustainable land management report published under section 6 of the Agriculture (Wales) Act 2023.
 
 (2) The appraisal under subsection (1)(b) must include an assessment of the likely effects of the policies in the draft Framework on the use of the Welsh language.
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d78ab1fd52b9e750056ca7f770e4c070]: Textual amendment: Ss. 60-60C and crossheading substituted for s. 60 and crossheading (W.) (6.9.2015 for specified purposes, 4.1.2016 for the substitution of ss. 60, 60A, 60B so far as not already in force, 4.12.2020 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 3](https://www.legislation.gov.uk/anaw/2015/4/section/3), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 2](https://www.legislation.gov.uk/wsi/2015/1987/article/2) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1987/article/7)); [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)
+[^c-d78ab1fd52b9e750056ca7f770e4c070]: Textual amendment: Ss. 60-60C and crossheading substituted for s. 60 and crossheading (W.) (6.9.2015 for specified purposes, 4.1.2016 for the substitution of ss. 60, 60A, 60B so far as not already in force, 4.12.2020 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 3](https://www.legislation.gov.uk/anaw/2015/4/section/3), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 2](https://www.legislation.gov.uk/wsi/2015/1987/article/2) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1987/article/7)); [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)
 
-[^key-8202fed37b2ee2ab23c2ceb6d1f4b44f]: Textual amendment: [S. 60B(1A)](https://www.legislation.gov.uk/ukpga/2004/5/section/60B/1A) inserted (17.10.2023) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(3)(d)](https://www.legislation.gov.uk/asc/2023/4/section/56/3/d), [Sch. 2 para. 5](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/5)
+[^c-8202fed37b2ee2ab23c2ceb6d1f4b44f]: Textual amendment: [S. 60B(1A)](https://www.legislation.gov.uk/ukpga/2004/5/section/60B/1A) inserted (17.10.2023) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [s. 56(3)(d)](https://www.legislation.gov.uk/asc/2023/4/section/56/3/d), [Sch. 2 para. 5](https://www.legislation.gov.uk/asc/2023/4/schedule/2/paragraph/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Pensionable service[^key-9aa6a0048af66c1fc48ad0f51cb20a1b]
+## 21. Pensionable service[^c-9aa6a0048af66c1fc48ad0f51cb20a1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9aa6a0048af66c1fc48ad0f51cb20a1b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2014/2336/regulation/21) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-9aa6a0048af66c1fc48ad0f51cb20a1b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2014/2336/regulation/21) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

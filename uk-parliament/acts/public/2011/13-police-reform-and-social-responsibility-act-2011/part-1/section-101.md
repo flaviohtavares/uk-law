@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Crime and disorder reduction[^key-e2cf856ed89072157e38839db2c52ce8]
+## 101. Crime and disorder reduction[^c-e2cf856ed89072157e38839db2c52ce8]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2cf856ed89072157e38839db2c52ce8]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2011/13/section/101) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-e2cf856ed89072157e38839db2c52ce8]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2011/13/section/101) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

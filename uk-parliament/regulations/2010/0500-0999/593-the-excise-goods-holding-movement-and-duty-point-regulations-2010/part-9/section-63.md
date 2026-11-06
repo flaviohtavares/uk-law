@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Simplified procedure for certain movements of tobacco products[^key-b890bde157e99445a477c437fc885257]
+## 63. Simplified procedure for certain movements of tobacco products[^c-b890bde157e99445a477c437fc885257]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b890bde157e99445a477c437fc885257]: Modification: [Pt. 9](https://www.legislation.gov.uk/uksi/2010/593/part/9) modified (N.I.) (31.12.2020) in so far as these regulations are continued, as they had effect immediately before IP completion day, in respect of the holding, movement and taxation of excise goods in Northern Ireland, by virtue of [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1), [54](https://www.legislation.gov.uk/uksi/2020/1559/regulation/54) (with [regs. 2](https://www.legislation.gov.uk/uksi/2020/1559/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/1559/regulation/3))
+[^c-b890bde157e99445a477c437fc885257]: Modification: [Pt. 9](https://www.legislation.gov.uk/uksi/2010/593/part/9) modified (N.I.) (31.12.2020) in so far as these regulations are continued, as they had effect immediately before IP completion day, in respect of the holding, movement and taxation of excise goods in Northern Ireland, by virtue of [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1559)](https://www.legislation.gov.uk/uksi/2020/1559), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1), [54](https://www.legislation.gov.uk/uksi/2020/1559/regulation/54) (with [regs. 2](https://www.legislation.gov.uk/uksi/2020/1559/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/1559/regulation/3))

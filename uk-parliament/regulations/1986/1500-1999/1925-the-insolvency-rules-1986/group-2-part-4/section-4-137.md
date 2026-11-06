@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.137. Notice to official receiver of intention to vacate office (NO CVL APPLICATION)[^key-f262b008d1cc02b3615b5186712fdd79][^key-f4f53274c18b541c39410f2e20ed88cd]
+## 4.137. Notice to official receiver of intention to vacate office (NO CVL APPLICATION)[^c-f262b008d1cc02b3615b5186712fdd79][^c-f4f53274c18b541c39410f2e20ed88cd]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f262b008d1cc02b3615b5186712fdd79]: Commencement: [Rule 4.137](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.137) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f262b008d1cc02b3615b5186712fdd79]: Commencement: [Rule 4.137](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.137) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-f4f53274c18b541c39410f2e20ed88cd]: Textual amendment: [Rule 4.137](https://www.legislation.gov.uk/uksi/1986/1925/article/4.137) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 66](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/66)
+[^c-f4f53274c18b541c39410f2e20ed88cd]: Textual amendment: [Rule 4.137](https://www.legislation.gov.uk/uksi/1986/1925/article/4.137) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 66](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/66)

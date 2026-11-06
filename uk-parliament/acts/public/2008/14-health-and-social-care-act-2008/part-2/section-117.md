@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Duty to inform and consult the public[^key-b38a5a1c593fc13b318c1ade57e63e90]
+## 117. Duty to inform and consult the public[^c-b38a5a1c593fc13b318c1ade57e63e90]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ After section 26A of the 2002 Act insert—
 
 ## Annotations
 
-[^key-b38a5a1c593fc13b318c1ade57e63e90]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2008/14/section/117) in force at 1.1.2009 by [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/3244/article/2/c)
+[^c-b38a5a1c593fc13b318c1ade57e63e90]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2008/14/section/117) in force at 1.1.2009 by [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/3244/article/2/c)

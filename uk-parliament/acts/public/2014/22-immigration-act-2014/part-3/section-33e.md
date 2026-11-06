@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33E. Other procedures for ending agreement[^key-31348d22a84da1247d546219edc7642a]
+## 33E. Other procedures for ending agreement[^c-31348d22a84da1247d546219edc7642a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31348d22a84da1247d546219edc7642a]: Textual amendment: Ss. 33D, 33E and cross-heading inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2016/19/section/40/2), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), regs. 2(a), 5(d)
+[^c-31348d22a84da1247d546219edc7642a]: Textual amendment: Ss. 33D, 33E and cross-heading inserted (1.11.2016 for specified purposes, 1.12.2016 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2016/19/section/40/2), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), regs. 2(a), 5(d)

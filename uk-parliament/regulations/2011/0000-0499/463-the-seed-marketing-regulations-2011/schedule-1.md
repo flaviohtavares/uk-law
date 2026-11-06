@@ -173,10 +173,10 @@ Regulation 4
 </tbody>
 </table>
 
-[^key-57c45a04938637f578c8d3cc1fcd7f91][^key-6d9de945448b8d8a989c5daa5f199e13]
+[^c-57c45a04938637f578c8d3cc1fcd7f91][^c-6d9de945448b8d8a989c5daa5f199e13]
 
 ## Annotations
 
-[^key-57c45a04938637f578c8d3cc1fcd7f91]: Textual amendment: Words in Sch. 1 substituted (1.4.2017) by [The Seeds (Miscellaneous Amendments) (England) Regulations 2017 (S.I. 2017/288)](https://www.legislation.gov.uk/uksi/2017/288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/288/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2017/288/regulation/2)
+[^c-57c45a04938637f578c8d3cc1fcd7f91]: Textual amendment: Words in Sch. 1 substituted (1.4.2017) by [The Seeds (Miscellaneous Amendments) (England) Regulations 2017 (S.I. 2017/288)](https://www.legislation.gov.uk/uksi/2017/288), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/288/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2017/288/regulation/2)
 
-[^key-6d9de945448b8d8a989c5daa5f199e13]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2011/463/schedule/1) substituted (1.7.2020) by [The Vegetable Plant Material and Seed (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/579)](https://www.legislation.gov.uk/uksi/2020/579), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/579/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/579/regulation/4/2)
+[^c-6d9de945448b8d8a989c5daa5f199e13]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2011/463/schedule/1) substituted (1.7.2020) by [The Vegetable Plant Material and Seed (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/579)](https://www.legislation.gov.uk/uksi/2020/579), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/579/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/579/regulation/4/2)

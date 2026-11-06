@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 132. Transfer statement[^key-0f47f4ade4de79eb777ec221474163b9]
+## 132. Transfer statement[^c-0f47f4ade4de79eb777ec221474163b9]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f47f4ade4de79eb777ec221474163b9]: Commencement: [Reg. 132](https://www.legislation.gov.uk/ssi/2015/19/regulation/132) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-0f47f4ade4de79eb777ec221474163b9]: Commencement: [Reg. 132](https://www.legislation.gov.uk/ssi/2015/19/regulation/132) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

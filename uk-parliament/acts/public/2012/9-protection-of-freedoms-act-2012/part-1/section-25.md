@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Material taken before commencement[^key-03029c8848ee739d4eefaeade2ff4af1]
+## 25. Material taken before commencement[^c-03029c8848ee739d4eefaeade2ff4af1]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03029c8848ee739d4eefaeade2ff4af1]: Commencement: S. 25 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/g) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-03029c8848ee739d4eefaeade2ff4af1]: Commencement: S. 25 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/g) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))

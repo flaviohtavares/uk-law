@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Authorisation of classes of works[^key-b87e999b307b7c58f7175929665778d5][^key-2fda34d727e8a0097b09a1640a5a69df]
+## 12. Authorisation of classes of works[^c-b87e999b307b7c58f7175929665778d5][^c-2fda34d727e8a0097b09a1640a5a69df]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b87e999b307b7c58f7175929665778d5]: Commencement: S. 12 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-b87e999b307b7c58f7175929665778d5]: Commencement: S. 12 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-2fda34d727e8a0097b09a1640a5a69df]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2023/3/section/12) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-2fda34d727e8a0097b09a1640a5a69df]: Commencement: [S. 12](https://www.legislation.gov.uk/asc/2023/3/section/12) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Amendment of Article 7 of Regulation [(EC) No 2111/2005](https://www.legislation.gov.uk/eur/2005/2111)[^key-f780458a6ee6fe560ffeffd48d4815b6]
+## 24. Amendment of Article 7 of Regulation [(EC) No 2111/2005](https://www.legislation.gov.uk/eur/2005/2111)[^c-f780458a6ee6fe560ffeffd48d4815b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Article 7 (rights of defence).
 
 ## Annotations
 
-[^key-f780458a6ee6fe560ffeffd48d4815b6]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f780458a6ee6fe560ffeffd48d4815b6]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

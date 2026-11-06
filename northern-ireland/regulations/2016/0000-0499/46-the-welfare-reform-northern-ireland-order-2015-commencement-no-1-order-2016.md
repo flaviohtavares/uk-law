@@ -39,11 +39,11 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 Those powers are exercisable by the Secretary of State by virtue of Article 4(1)(a) of that Order.
 
-## 1. Citation[^key-42fee3df2fa0e8339652c1a7279064f0]
+## 1. Citation[^c-42fee3df2fa0e8339652c1a7279064f0]
 
 This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 1) Order 2016.
 
-## 2. Transitional and savings provision[^key-78897781de4010b0d7d49ce47070bbcf]
+## 2. Transitional and savings provision[^c-78897781de4010b0d7d49ce47070bbcf]
 
 (1) The amendment of Article 7 (child support maintenance) of the Child Support (Northern Ireland) Order 1991 by virtue of the commencement of the provisions referred to in Article 3(5)(a) of this Order does not have effect in relation to a case which is an existing case.
 
@@ -59,7 +59,7 @@ This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Com
 - “maintenance assessment” and “maintenance calculation” have the same meaning as in Article 2(2) of the Child Support (Northern Ireland) Order 1991[^f00002];
 - “new calculation rules” means the rules in Part 1 of Schedule 1 (calculation of child support maintenance) to that Order as amended by paragraph 2 of Schedule 1 (calculation by reference to gross weekly income) to the Child Maintenance Act (Northern Ireland) 2008[^f00003].
 
-## 3. Provisions coming into force on 17th February 2016[^key-202b71eab9faeaf1b1053a76e9b6ca65]
+## 3. Provisions coming into force on 17th February 2016[^c-202b71eab9faeaf1b1053a76e9b6ca65]
 
 (1) The following provisions of the Welfare Reform (Northern Ireland) Order 2015 come into force on 17th February 2016.
 
@@ -102,18 +102,18 @@ This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Com
 - (b) Part 2 of Schedule 12 (entitlement to jobseeker’s allowance);
 - (c) Part 12 of Schedule 12 (information-sharing).
 
-## 4. Provisions coming into force on 4th April 2016[^key-db5d23cd9124455b447cd3cce0b5bd76]
+## 4. Provisions coming into force on 4th April 2016[^c-db5d23cd9124455b447cd3cce0b5bd76]
 
 The following provisions in Part 6 (general) of the Welfare Reform (Northern Ireland) Order 2015 come into force on 4th April 2016—
 
 - (a) Article 109 (recovery of benefit payments), for the purpose of making regulations under section 109A of the Social Security Administration (Northern Ireland) Act 1992;
 - (b) Articles 115 and 116 (penalties as alternative to prosecution).
 
-## 5. Provisions coming into force on other dates[^key-e00d2f7a8de1d71d34cf2cfd3a00a588]
+## 5. Provisions coming into force on other dates[^c-e00d2f7a8de1d71d34cf2cfd3a00a588]
 
 In Part 3 (working age benefits) of the Welfare Reform (Northern Ireland) Order 2015—
 
-- (a)[^key-324c4a71693c00fa55d7d9e4325a3b31] in Chapter 2 (employment and support allowance)—
+- (a)[^c-324c4a71693c00fa55d7d9e4325a3b31] in Chapter 2 (employment and support allowance)—
   - (i) Article 57(4) comes into force on 17th March 2016;
   - (ii) Article 57(1) to (3) and Article 58 come into force on 28th November 2016;
 - (b) in Chapter 3 (income support), Article 64 (entitlement of lone parents to income support etc.) comes into force on 16th January 2017.
@@ -143,18 +143,18 @@ This Order brings into force provisions of the Welfare Reform (Northern Ireland)
 
 [^f00001]: Footnote: [S.I. 2015/2006. (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
 
-[^key-42fee3df2fa0e8339652c1a7279064f0]: Commencement: Art. 1 in operation at 12.2.2016
+[^c-42fee3df2fa0e8339652c1a7279064f0]: Commencement: Art. 1 in operation at 12.2.2016
 
-[^key-78897781de4010b0d7d49ce47070bbcf]: Commencement: Art. 2 in operation at 12.2.2016
+[^c-78897781de4010b0d7d49ce47070bbcf]: Commencement: Art. 2 in operation at 12.2.2016
 
 [^f00002]: Footnote: [S.I. 1991/2628 (N.I. 23)](https://www.legislation.gov.uk/nisi/1991/2628)
 
 [^f00003]: Footnote: [2008 c. 10(N.I.)](https://www.legislation.gov.uk/nia/2008/10) .
 
-[^key-202b71eab9faeaf1b1053a76e9b6ca65]: Commencement: Art. 3 in operation at 12.2.2016
+[^c-202b71eab9faeaf1b1053a76e9b6ca65]: Commencement: Art. 3 in operation at 12.2.2016
 
-[^key-db5d23cd9124455b447cd3cce0b5bd76]: Commencement: Art. 4 in operation at 12.2.2016
+[^c-db5d23cd9124455b447cd3cce0b5bd76]: Commencement: Art. 4 in operation at 12.2.2016
 
-[^key-e00d2f7a8de1d71d34cf2cfd3a00a588]: Commencement: Art. 5 in operation at 12.2.2016
+[^c-e00d2f7a8de1d71d34cf2cfd3a00a588]: Commencement: Art. 5 in operation at 12.2.2016
 
-[^key-324c4a71693c00fa55d7d9e4325a3b31]: Textual amendment: [Art. 5(a)](https://www.legislation.gov.uk/nisr/2016/46/article/5/a) substituted (15.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 2) Order 2016 (S.R. 2016/166)](https://www.legislation.gov.uk/nisr/2016/166), [art. 3](https://www.legislation.gov.uk/nisr/2016/166/article/3)
+[^c-324c4a71693c00fa55d7d9e4325a3b31]: Textual amendment: [Art. 5(a)](https://www.legislation.gov.uk/nisr/2016/46/article/5/a) substituted (15.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 2) Order 2016 (S.R. 2016/166)](https://www.legislation.gov.uk/nisr/2016/166), [art. 3](https://www.legislation.gov.uk/nisr/2016/166/article/3)

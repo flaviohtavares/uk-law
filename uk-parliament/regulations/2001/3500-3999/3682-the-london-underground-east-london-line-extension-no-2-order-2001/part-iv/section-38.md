@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Maintenance of approved works etc.[^key-21ceb25f895142c84638140258aebca7]
+## 38. Maintenance of approved works etc.[^c-21ceb25f895142c84638140258aebca7]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-21ceb25f895142c84638140258aebca7]: Commencement: Art. 38 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-21ceb25f895142c84638140258aebca7]: Commencement: Art. 38 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
 [^f00027]: Footnote: S.I. [1994/157](https://www.legislation.gov.uk/uksi/1994/157).

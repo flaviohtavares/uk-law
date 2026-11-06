@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE A2 — Modification of neighbourhood development plans[^key-9024c739eaeec90eb8d673bb2d8e5d77]
+## SCHEDULE A2 — Modification of neighbourhood development plans[^c-9024c739eaeec90eb8d673bb2d8e5d77]
 
 *Extent: E+W*
 
@@ -200,9 +200,9 @@ the Secretary of State may appoint a person to carry out the examination.
 
 - (a) having regard to national policies and advice contained in guidance issued by the Secretary of State, it is appropriate to make the plan,
 - (b) the making of the plan contributes to the achievement of sustainable development,
-- (ca)[^key-ccf2af67dd29bd7dc75b68d603ae0f0b] the making of the plan would not result in the development plan for the area of the authority proposing that less housing is provided by means of development taking place in that area than if the draft plan were not to be made,
-- (d) the making of the plan does not breach, and is otherwise compatible with, assimilated[^key-b2659c3fc801543b2c609cfa1a1ed36c][^M_F_57a3b9c4-5c3b-4403-e345-c920393ae9d8] obligations,
-- (da)[^key-786ddf9d3051290d3f33ca219404d894] any requirements imposed in relation to the plan by or under Part 6 of the Levelling-up and Regeneration Act 2023 (environmental outcomes reports) have been complied with, and
+- (ca)[^c-ccf2af67dd29bd7dc75b68d603ae0f0b] the making of the plan would not result in the development plan for the area of the authority proposing that less housing is provided by means of development taking place in that area than if the draft plan were not to be made,
+- (d) the making of the plan does not breach, and is otherwise compatible with, assimilated[^c-b2659c3fc801543b2c609cfa1a1ed36c][^M_F_57a3b9c4-5c3b-4403-e345-c920393ae9d8] obligations,
+- (da)[^c-786ddf9d3051290d3f33ca219404d894] any requirements imposed in relation to the plan by or under Part 6 of the Levelling-up and Regeneration Act 2023 (environmental outcomes reports) have been complied with, and
 - (e) prescribed conditions are met in relation to the plan and prescribed matters have been complied with in connection with the proposal for the plan.
 
 (3) The examiner is not to consider any matter that does not fall within sub-paragraph (1) (apart from considering whether the draft plan is compatible with the Convention rights).
@@ -335,15 +335,15 @@ the Secretary of State may appoint a person to carry out the examination.
 
 ## Annotations
 
-[^key-9024c739eaeec90eb8d673bb2d8e5d77]: Textual amendment: Sch. A2 inserted (27.4.2017 for specified purposes; 31.1.2018 in so far as not already in force) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/20/schedule/1); [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/b)
+[^c-9024c739eaeec90eb8d673bb2d8e5d77]: Textual amendment: Sch. A2 inserted (27.4.2017 for specified purposes; 31.1.2018 in so far as not already in force) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/2017/20/schedule/1); [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/b)
 
-[^key-ccf2af67dd29bd7dc75b68d603ae0f0b]: Textual amendment: Sch. A2 para. 11(2)(ca) substituted for Sch. A2 para. 11(2)(c) (25.3.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 99(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/99/3/a), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/d) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))
+[^c-ccf2af67dd29bd7dc75b68d603ae0f0b]: Textual amendment: Sch. A2 para. 11(2)(ca) substituted for Sch. A2 para. 11(2)(c) (25.3.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 99(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/99/3/a), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/d) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))
 
-[^key-b2659c3fc801543b2c609cfa1a1ed36c]: Textual amendment: Word in [Sch. A2 para. 11(2)(d)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/A2/paragraph/11/2/d) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 53(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/53/2/b)
+[^c-b2659c3fc801543b2c609cfa1a1ed36c]: Textual amendment: Word in [Sch. A2 para. 11(2)(d)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/A2/paragraph/11/2/d) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 53(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/53/2/b)
 
 [^M_F_57a3b9c4-5c3b-4403-e345-c920393ae9d8]: Textual amendment: Words in Sch. A2 para. 11(2)(d) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-786ddf9d3051290d3f33ca219404d894]: Textual amendment: Sch. A2 para. 11(2)(da) inserted (25.3.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 99(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/99/3/b), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/d) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))
+[^c-786ddf9d3051290d3f33ca219404d894]: Textual amendment: Sch. A2 para. 11(2)(da) inserted (25.3.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 99(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/99/3/b), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/d) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))
 
 [^M_F_6ad9000b-738a-4a65-f447-3d6c0884eb59]: Textual amendment: Word in [Sch. A2 para. 14(4)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/A2/paragraph/11/2/d) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 53(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/53/2/b)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Defence: lawful disclosure[^key-0b91ddac82f8276f9d1b6e235946426b]
+## 45. Defence: lawful disclosure[^c-0b91ddac82f8276f9d1b6e235946426b]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ It is a defence for a person charged with an offence under regulation 44 to prov
 
 ## Annotations
 
-[^key-0b91ddac82f8276f9d1b6e235946426b]: Commencement: Reg. 45 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-0b91ddac82f8276f9d1b6e235946426b]: Commencement: Reg. 45 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)

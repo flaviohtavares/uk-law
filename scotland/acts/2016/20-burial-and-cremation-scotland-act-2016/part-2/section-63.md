@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Fees for cremation and other services[^key-71b2813a4a06e087e61a0a527eec18b8]
+## 63. Fees for cremation and other services[^c-71b2813a4a06e087e61a0a527eec18b8]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71b2813a4a06e087e61a0a527eec18b8]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2016/20/section/63) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-71b2813a4a06e087e61a0a527eec18b8]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2016/20/section/63) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

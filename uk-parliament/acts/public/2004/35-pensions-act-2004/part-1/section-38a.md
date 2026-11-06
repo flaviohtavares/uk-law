@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38A. Section 38 contribution notice: meaning of “material detriment test”[^key-9098695fa1910af70de0317a13b9d922]
+## 38A. Section 38 contribution notice: meaning of “material detriment test”[^c-9098695fa1910af70de0317a13b9d922]
 
 *Extent: E+W+S*
 
@@ -69,4 +69,4 @@ and, in the case of acts or failures to act forming part of a series, any refere
 
 ## Annotations
 
-[^key-9098695fa1910af70de0317a13b9d922]: Textual amendment: Ss. 38A, 38B inserted (for specified purposes and with effect in accordance with Sch. 9 para. 15(1) of the amending Act and 29.6.2009 so far as not already in force) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/3), [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/9/paragraph/2/2); S.I. 2009/1566, art. 2(1)(b)(ii)
+[^c-9098695fa1910af70de0317a13b9d922]: Textual amendment: Ss. 38A, 38B inserted (for specified purposes and with effect in accordance with Sch. 9 para. 15(1) of the amending Act and 29.6.2009 so far as not already in force) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/3), [Sch. 9 para. 2(2)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/9/paragraph/2/2); S.I. 2009/1566, art. 2(1)(b)(ii)

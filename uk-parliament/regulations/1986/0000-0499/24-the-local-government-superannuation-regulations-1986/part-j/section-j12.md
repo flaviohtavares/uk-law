@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## J12. National Insurance modification for graduated retirement pension[^key-296cb6b05b59090deffda26c3ee38a6f]
+## J12. National Insurance modification for graduated retirement pension[^c-296cb6b05b59090deffda26c3ee38a6f]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-296cb6b05b59090deffda26c3ee38a6f]: Commencement: [Reg. J12](https://www.legislation.gov.uk/uksi/1986/24/regulation/J12) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-296cb6b05b59090deffda26c3ee38a6f]: Commencement: [Reg. J12](https://www.legislation.gov.uk/uksi/1986/24/regulation/J12) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

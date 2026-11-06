@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Authority to survey and investigate the land onshore[^key-5ed6bc474605afd6953210c809dfb5cb]
+## 19. Authority to survey and investigate the land onshore[^c-5ed6bc474605afd6953210c809dfb5cb]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ but such consent must not be unreasonably withheld or delayed.
 
 ## Annotations
 
-[^key-5ed6bc474605afd6953210c809dfb5cb]: Commencement: Art. 19 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-5ed6bc474605afd6953210c809dfb5cb]: Commencement: Art. 19 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

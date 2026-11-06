@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. New schools, merged schools and closing schools[^key-60be675c9a6a8abcdd05bdaef17e3a0b]
+## 30. New schools, merged schools and closing schools[^c-60be675c9a6a8abcdd05bdaef17e3a0b]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ from the date of the school’s opening, on the basis of expected pupil numbers 
 
 ## Annotations
 
-[^key-60be675c9a6a8abcdd05bdaef17e3a0b]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2025/42/regulation/30) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-60be675c9a6a8abcdd05bdaef17e3a0b]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2025/42/regulation/30) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

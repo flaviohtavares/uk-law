@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34A. Capital gains tax–administration-period investment[^key-44d0e7a7ca249c62d8e14bedb7d2a32f]
+## 34A. Capital gains tax–administration-period investment[^c-44d0e7a7ca249c62d8e14bedb7d2a32f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of capital gains tax—
 
 ## Annotations
 
-[^key-44d0e7a7ca249c62d8e14bedb7d2a32f]: Textual amendment: [Reg. 34A](https://www.legislation.gov.uk/uksi/1998/1870/regulation/34A) inserted (6.4.2018) by [The Individual Savings Account (Amendment No. 3) Regulations 2017 (S.I. 2017/1089)](https://www.legislation.gov.uk/uksi/2017/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1089/regulation/1), [9](https://www.legislation.gov.uk/uksi/2017/1089/regulation/9)
+[^c-44d0e7a7ca249c62d8e14bedb7d2a32f]: Textual amendment: [Reg. 34A](https://www.legislation.gov.uk/uksi/1998/1870/regulation/34A) inserted (6.4.2018) by [The Individual Savings Account (Amendment No. 3) Regulations 2017 (S.I. 2017/1089)](https://www.legislation.gov.uk/uksi/2017/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1089/regulation/1), [9](https://www.legislation.gov.uk/uksi/2017/1089/regulation/9)

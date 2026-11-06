@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Extension of schemes[^key-9ffcd334a17e0a4a6e54d99d76106b6e]
+## 25. Extension of schemes[^c-9ffcd334a17e0a4a6e54d99d76106b6e]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ffcd334a17e0a4a6e54d99d76106b6e]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2014/2/section/25) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/p)
+[^c-9ffcd334a17e0a4a6e54d99d76106b6e]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2014/2/section/25) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(p)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/p)

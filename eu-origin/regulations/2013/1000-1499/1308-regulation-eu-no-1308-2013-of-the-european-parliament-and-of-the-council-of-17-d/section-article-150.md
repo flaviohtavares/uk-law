@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 150. Regulation of supply for cheese with a protected designation of origin or protected geographical indication[^key-baba02ffdd6514dd1afa8b2f2d8d6308]
+## Article 150. Regulation of supply for cheese with a protected designation of origin or protected geographical indication[^c-baba02ffdd6514dd1afa8b2f2d8d6308]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baba02ffdd6514dd1afa8b2f2d8d6308]: Textual amendment: [Art. 150](https://www.legislation.gov.uk/eur/2013/1308/article/150) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/828/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-baba02ffdd6514dd1afa8b2f2d8d6308]: Textual amendment: [Art. 150](https://www.legislation.gov.uk/eur/2013/1308/article/150) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/828)](https://www.legislation.gov.uk/uksi/2019/828), [regs. 1](https://www.legislation.gov.uk/uksi/2019/828/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/828/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

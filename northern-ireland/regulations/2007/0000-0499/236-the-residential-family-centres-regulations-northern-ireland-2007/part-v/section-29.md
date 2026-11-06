@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Visits by registered provider[^key-52fe3db1f18db2396dc327f404017c9e]
+## 29. Visits by registered provider[^c-52fe3db1f18db2396dc327f404017c9e]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) another of the directors or other persons responsible for the management of the organisation or partnership; or
 - (c) an employee of the organisation or partnership who is not directly concerned with the conduct of the residential family centre.
 
-(3) Visits under paragraph (1) or (2) shall take place at least once a month or as agreed with the RQIA[^key-1ab6982513a93aea57feba0c8096e8f0] and shall be unannounced.
+(3) Visits under paragraph (1) or (2) shall take place at least once a month or as agreed with the RQIA[^c-1ab6982513a93aea57feba0c8096e8f0] and shall be unannounced.
 
 (4) The person carrying out the visit shall—
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52fe3db1f18db2396dc327f404017c9e]: Commencement: Reg. 29 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-52fe3db1f18db2396dc327f404017c9e]: Commencement: Reg. 29 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
 
-[^key-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

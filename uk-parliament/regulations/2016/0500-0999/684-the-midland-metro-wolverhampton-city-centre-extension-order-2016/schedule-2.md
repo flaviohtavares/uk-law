@@ -16,37 +16,37 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — STREETS SUBJECT TO ALTERATION OF LAYOUT[^key-32871c63665a162448320071a0869e9f]
+## SCHEDULE 2 — STREETS SUBJECT TO ALTERATION OF LAYOUT[^c-32871c63665a162448320071a0869e9f]
 
 *Extent: E+W*
 
 Article 9
 
-[^key-32871c63665a162448320071a0869e9f]
+[^c-32871c63665a162448320071a0869e9f]
 
 **Key to Schedule 2**
 
-[^key-32871c63665a162448320071a0869e9f]
+[^c-32871c63665a162448320071a0869e9f]
 
 RS – Realignment of street
 
-[^key-32871c63665a162448320071a0869e9f]
+[^c-32871c63665a162448320071a0869e9f]
 
 WS – Widening of street by setting back kerb line
 
-[^key-32871c63665a162448320071a0869e9f]
+[^c-32871c63665a162448320071a0869e9f]
 
 NS – Narrowing of street by setting forward of kerb line
 
-[^key-32871c63665a162448320071a0869e9f]
+[^c-32871c63665a162448320071a0869e9f]
 
 NP – Creation of new way
 
-[^key-32871c63665a162448320071a0869e9f]
+[^c-32871c63665a162448320071a0869e9f]
 
 LB – Creation of parking or service bay
 
-[^key-32871c63665a162448320071a0869e9f]
+[^c-32871c63665a162448320071a0869e9f]
 
 In the City of Wolverhampton—
 
@@ -71,4 +71,4 @@ In the City of Wolverhampton—
 
 ## Annotations
 
-[^key-32871c63665a162448320071a0869e9f]: Commencement: Sch. 2 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-32871c63665a162448320071a0869e9f]: Commencement: Sch. 2 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

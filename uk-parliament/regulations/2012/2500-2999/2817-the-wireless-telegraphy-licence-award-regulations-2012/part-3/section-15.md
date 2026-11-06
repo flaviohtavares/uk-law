@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Determination of bidder’s eligibility limit for the opt-in round and first primary bid round[^key-c5deee312359e54ea7c0e62773f27425]
+## 15. Determination of bidder’s eligibility limit for the opt-in round and first primary bid round[^c-c5deee312359e54ea7c0e62773f27425]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5deee312359e54ea7c0e62773f27425]: Commencement: Reg. 15 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-c5deee312359e54ea7c0e62773f27425]: Commencement: Reg. 15 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

@@ -120,7 +120,7 @@ must be passed before 1st April 1975, but any other resolution under this paragr
 
 - (a) sections 160 and 171 of the [^c15133781]Public Health Act 1875;
 - (b)[^c15133791] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) section[^key-6b417d72d101bdaa77734b359dc4e27d] 80 of the [^c15133801]Public Health Acts Amendment Act 1907 and so much of section 81 of that Act as relates to the [^c15133811]Town Police Clauses Act 1847;
+- (c) section[^c-6b417d72d101bdaa77734b359dc4e27d] 80 of the [^c15133801]Public Health Acts Amendment Act 1907 and so much of section 81 of that Act as relates to the [^c15133811]Town Police Clauses Act 1847;
 - (d) sections 17 to 19, 75 and 76 of the [^c15133821]Public Health Act 1925.
 
 **27.** (1) The powers conferred on certain authorities by the enactments to which this paragraph applies shall be exercisable not only by those authorities, but also by all local authorities within the meaning of this Act, whether or not they are local authorities for the purposes of the Public Health Acts 1875 to 1925, and references in those enactments to an urban authority or a local authority shall be construed accordingly.
@@ -265,7 +265,7 @@ must be passed before 1st April 1975, but any other resolution under this paragr
 
 [^c15133791]: Textual amendment: Sch. 14 paras. 25(2)(b), 26(b) repealed by [Local Government (Miscellaneous Provisions) Act 1982 (c. 30, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1982/30), [s. 47](https://www.legislation.gov.uk/ukpga/1982/30/section/47), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1982/30/schedule/7/part/I)
 
-[^key-6b417d72d101bdaa77734b359dc4e27d]: Textual amendment: Word in Sch. 14 para. 26(c) substituted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(r)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/r), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/5/paragraph/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/p)
+[^c-6b417d72d101bdaa77734b359dc4e27d]: Textual amendment: Word in Sch. 14 para. 26(c) substituted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(r)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/r), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/5/paragraph/4) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/p)
 
 [^c15133801]: Marginal citation: [1907 c. 53](https://www.legislation.gov.uk/ukpga/1907/53).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Operational land for the purposes of the 1990 Act[^key-5ecd3f925f69b9a74fc26bff42532eb3]
+## 35. Operational land for the purposes of the 1990 Act[^c-5ecd3f925f69b9a74fc26bff42532eb3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Development consent granted by this Order is to be treated as specific planning 
 
 ## Annotations
 
-[^key-5ecd3f925f69b9a74fc26bff42532eb3]: Commencement: Art. 35 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-5ecd3f925f69b9a74fc26bff42532eb3]: Commencement: Art. 35 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)

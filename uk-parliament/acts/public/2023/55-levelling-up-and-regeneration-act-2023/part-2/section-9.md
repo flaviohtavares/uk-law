@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Combined county authorities and their areas[^key-e52a6de93cc4aeb48396b64ed1c994eb]
+## 9. Combined county authorities and their areas[^c-e52a6de93cc4aeb48396b64ed1c994eb]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e52a6de93cc4aeb48396b64ed1c994eb]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/55/section/9) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-e52a6de93cc4aeb48396b64ed1c994eb]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/55/section/9) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

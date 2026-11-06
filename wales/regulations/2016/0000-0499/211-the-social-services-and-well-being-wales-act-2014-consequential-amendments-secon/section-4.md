@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Savings and transitional provision[^key-ec9f25444f48e0eb13d20c526498dca5]
+## 4. Savings and transitional provision[^c-ec9f25444f48e0eb13d20c526498dca5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 4 (which makes savings and transitional provision) has effect.
 
 ## Annotations
 
-[^key-ec9f25444f48e0eb13d20c526498dca5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/211/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2)
+[^c-ec9f25444f48e0eb13d20c526498dca5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/211/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2)

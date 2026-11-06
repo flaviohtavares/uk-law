@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 11 — Exempt information relating to health services[^c20952981][^key-ae62f10b41db4db82ff13a0ffafba39e][^key-c655adb80a45002d4bf2b3ca09f42ca6]
+## SCHEDULE 11 — Exempt information relating to health services[^c20952981][^c-ae62f10b41db4db82ff13a0ffafba39e][^c-c655adb80a45002d4bf2b3ca09f42ca6]
 
 *Extent: E+W*
 
@@ -101,6 +101,6 @@ Section 186
 
 [^c20952981]: Modification: [Sch. 11](https://www.legislation.gov.uk/ukpga/2006/42/schedule/11) applied (with modifications) (1.3.2007) by [National Health Service Act 2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41), [ss. 247(2)(4)](https://www.legislation.gov.uk/ukpga/2006/41/section/247/2/4), [277](https://www.legislation.gov.uk/ukpga/2006/41/section/277)
 
-[^key-ae62f10b41db4db82ff13a0ffafba39e]: Modification: [Sch. 11](https://www.legislation.gov.uk/ukpga/2006/42/schedule/11) applied (with modifications) by 2006 c. 41, s. 247A(3)(a)(4) (as inserted (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 78](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/78); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b))
+[^c-ae62f10b41db4db82ff13a0ffafba39e]: Modification: [Sch. 11](https://www.legislation.gov.uk/ukpga/2006/42/schedule/11) applied (with modifications) by 2006 c. 41, s. 247A(3)(a)(4) (as inserted (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 78](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/78); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b))
 
-[^key-c655adb80a45002d4bf2b3ca09f42ca6]: Modification: [Sch. 11](https://www.legislation.gov.uk/ukpga/2006/42/schedule/11) applied (1.4.2013) by [The Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) Regulations 2013 (S.I. 2013/218)](https://www.legislation.gov.uk/uksi/2013/218), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2013/218/regulation/30/3)
+[^c-c655adb80a45002d4bf2b3ca09f42ca6]: Modification: [Sch. 11](https://www.legislation.gov.uk/ukpga/2006/42/schedule/11) applied (1.4.2013) by [The Local Authority (Public Health, Health and Wellbeing Boards and Health Scrutiny) Regulations 2013 (S.I. 2013/218)](https://www.legislation.gov.uk/uksi/2013/218), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/218/regulation/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2013/218/regulation/30/3)

@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Application of polygraph condition[^key-367046df522aef68f05b10ecaf1a9d0d][^key-c0aafa5778d49e4aa866106b296fcbfa][^key-11033a851c4068ecf0f33f7dc06dcd85]
+## 28. Application of polygraph condition[^c-367046df522aef68f05b10ecaf1a9d0d][^c-c0aafa5778d49e4aa866106b296fcbfa][^c-11033a851c4068ecf0f33f7dc06dcd85]
 
 *Extent: E+W*
 
-(1) The Secretary of State may include a polygraph condition in the licence of a person to whom this section applies (see subsections (2), (2A) and (2B))[^key-d174ca8302cc9dac623c8d001a49e9d1].
+(1) The Secretary of State may include a polygraph condition in the licence of a person to whom this section applies (see subsections (2), (2A) and (2B))[^c-d174ca8302cc9dac623c8d001a49e9d1].
 
-(2) This section applies to a person serving a relevant custodial sentence in respect of a relevant sexual offence *(affected by repeal, see note)*[^key-7554b00134dd9fd6640b9b63951ac9ca] an offence within subsection (3A) or a relevant terrorist offence[^key-f169f478d8b0fe12cd31506a2567198f] who—
+(2) This section applies to a person serving a relevant custodial sentence in respect of a relevant sexual offence *(affected by repeal, see note)*[^c-7554b00134dd9fd6640b9b63951ac9ca] an offence within subsection (3A) or a relevant terrorist offence[^c-f169f478d8b0fe12cd31506a2567198f] who—
 
 - (a) is released on licence by the Secretary of State under any enactment; and
 - (b) is not aged under 18 on the day on which he is released.
 
-(2A)[^key-5b9c29d115f0c09bd7ed15094f0e9843] This section also applies to a person serving a relevant custodial sentence in respect of an offence of murder who—
+(2A)[^c-5b9c29d115f0c09bd7ed15094f0e9843] This section also applies to a person serving a relevant custodial sentence in respect of an offence of murder who—
 
 - (a) the Secretary of State considers poses a risk of committing a relevant sexual offence on release,
 - (b) is released on licence by the Secretary of State under any enactment, and
@@ -41,10 +41,10 @@ summary: ''
 
 (3) In this section “**relevant custodial sentence**” means—
 
-- (a)[^key-cfce96bc08f44e9c6c263c3ccb88ca63] a life sentence within the meaning of Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (see section 34(2) of that Act), or
+- (a)[^c-cfce96bc08f44e9c6c263c3ccb88ca63] a life sentence within the meaning of Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (see section 34(2) of that Act), or
 - (b) a fixed-term sentence within the meaning of Chapter 6 of Part 12 of the Criminal Justice Act 2003 (see section 237 of that Act) of a term of 12 months or more.
 
-(3A)[^key-2a083bfc5187657065dcfc0f75e0b8f9] An offence is within this subsection if it is—
+(3A)[^c-2a083bfc5187657065dcfc0f75e0b8f9] An offence is within this subsection if it is—
 
 - (a) a relevant offence involving domestic abuse (see subsections (3B) and (3C)), or
 - (b) a relevant sexual offence (see subsection (4)).
@@ -61,31 +61,31 @@ summary: ''
 - (c) an offence specified in Part 1 of Schedule 15 to the Criminal Justice Act 2003 (specified violent offences);
 - (d) an offence under section 76 of the Serious Crime Act 2015 (controlling or coercive behaviour in an intimate or family relationship).
 
-(4) In this section “**relevant sexual offence**” means an offence specified in any one or more of—[^key-8b2fd0298148e6666d48ed81a0feaf64]
+(4) In this section “**relevant sexual offence**” means an offence specified in any one or more of—[^c-8b2fd0298148e6666d48ed81a0feaf64]
 
 - (a) Schedule 3 to the Sexual Offences Act 2003 (sexual offences attracting notification requirements),
 - (b) Part 2 of Schedule 15 to the Criminal Justice Act 2003 (sexual offences under the law of England and Wales specified for certain purposes),
 - (c) paragraphs 1 to 21 of Schedule 16 to that Act (sexual offences under the law of Scotland specified for certain purposes), as that Schedule had effect immediately before its repeal on 14 July 2008, and
 - (d) Part 2 of Schedule 17 to that Act (sexual offences under the law of Northern Ireland specified for certain purposes), as that Schedule had effect immediately before its repeal on 14 July 2008.
 
-(4ZA)[^key-4b69c075647cc0e12e0c71bf55a2a43b] In determining for the purposes of subsection (4) whether an offence is specified in Schedule 3 to the Sexual Offences Act 2003, any limitation in that Schedule referring to the circumstances of a particular case (including the sentence imposed) is to be disregarded.
+(4ZA)[^c-4b69c075647cc0e12e0c71bf55a2a43b] In determining for the purposes of subsection (4) whether an offence is specified in Schedule 3 to the Sexual Offences Act 2003, any limitation in that Schedule referring to the circumstances of a particular case (including the sentence imposed) is to be disregarded.
 
-(4A)[^key-4fe0e1ef0ec65e984f12b05f904c115c] In this section “**relevant terrorist offence**” means—
+(4A)[^c-4fe0e1ef0ec65e984f12b05f904c115c] In this section “**relevant terrorist offence**” means—
 
 - (a) an offence that is specified in Part 1 or 2 of Schedule 19ZA to the Criminal Justice Act 2003 (terrorism offences carrying restricted eligibility for release on licence),
-- (b) [^key-f78fae7c7364597d027492a253344890]... [^key-7f62d18c6bacbd6276d7f964bbb3b640]...
-- (c) an offence that was determined to have a terrorist connection , or[^key-313a34fa1abeb8dd81bc1d8c01e7de77]
+- (b) [^c-f78fae7c7364597d027492a253344890]... [^c-7f62d18c6bacbd6276d7f964bbb3b640]...
+- (c) an offence that was determined to have a terrorist connection , or[^c-313a34fa1abeb8dd81bc1d8c01e7de77]
 - (d) an offence within any of subsections (4BA) to (4BC) which the Secretary of State is satisfied—
   - (i) was, or took place in the course of, an act of terrorism, or
   - (ii) was committed for the purposes of terrorism.
 
 (4B) In subsection (4A)—
 
-- (a)[^key-5568a87422fb89cd942051387f25c780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5568a87422fb89cd942051387f25c780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) paragraph (c) is to be read in accordance with section 247A(7A) of the Criminal Justice Act 2003 (meaning of offences determined to have a terrorist connection);
-- (c)[^key-5fff68504054e42052ca735c9c4ba92a] in paragraph (d) “**terrorism**” has the same meaning as in the Terrorism Act 2000 (see section 1 of that Act).
+- (c)[^c-5fff68504054e42052ca735c9c4ba92a] in paragraph (d) “**terrorism**” has the same meaning as in the Terrorism Act 2000 (see section 1 of that Act).
 
-(4BA)[^key-836660bb20db24b34dbbe0abe21ecd36] An offence is within this subsection if—
+(4BA)[^c-836660bb20db24b34dbbe0abe21ecd36] An offence is within this subsection if—
 
 - (a) it was committed before 18 June 2009,
 - (b) it was punishable with imprisonment for more than 2 years, and
@@ -107,9 +107,9 @@ summary: ''
 - (d) it was not an offence in relation to which section 32 of the Counter-Terrorism Act 2008 or section 69 of the Sentencing Code applied, and
 - (e) the corresponding offence is not specified in Schedule A1 to the Sentencing Code.
 
-(4C)[^key-33c6289d5b8c72fffbe565feed54f97b] A sentence in respect of a service offence is to be treated for the purposes of this section (except subsections (4BA) to (4BC))[^key-09a81f84c7848850d1f489c309eac51e] as if it were a sentence in respect of the corresponding offence.
+(4C)[^c-33c6289d5b8c72fffbe565feed54f97b] A sentence in respect of a service offence is to be treated for the purposes of this section (except subsections (4BA) to (4BC))[^c-09a81f84c7848850d1f489c309eac51e] as if it were a sentence in respect of the corresponding offence.
 
-(4D) In subsections (4BA) to (4C)[^key-d18bc9eb0c1e0a5d98a9ebd89c0d1516]—
+(4D) In subsections (4BA) to (4C)[^c-d18bc9eb0c1e0a5d98a9ebd89c0d1516]—
 
 - (a) “**service offence**” means an offence under—
   - (i) section 42 of the Armed Forces Act 2006,
@@ -126,44 +126,44 @@ summary: ''
 
 ## Annotations
 
-[^key-367046df522aef68f05b10ecaf1a9d0d]: Commencement: S. 28 in force at 19.1.2009 for specified purposes and with effect in accordance with art. 5 by [S.I. 2009/32](https://www.legislation.gov.uk/uksi/2009/32), [arts. 3(a)](https://www.legislation.gov.uk/uksi/2009/32/article/3/a), [4](https://www.legislation.gov.uk/uksi/2009/32/article/4)
+[^c-367046df522aef68f05b10ecaf1a9d0d]: Commencement: S. 28 in force at 19.1.2009 for specified purposes and with effect in accordance with art. 5 by [S.I. 2009/32](https://www.legislation.gov.uk/uksi/2009/32), [arts. 3(a)](https://www.legislation.gov.uk/uksi/2009/32/article/3/a), [4](https://www.legislation.gov.uk/uksi/2009/32/article/4)
 
-[^key-c0aafa5778d49e4aa866106b296fcbfa]: Commencement: S. 28 in force at 6.1.2014 in so far as not already in force by [S.I. 2013/1963](https://www.legislation.gov.uk/uksi/2013/1963), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1963/article/2/1)
+[^c-c0aafa5778d49e4aa866106b296fcbfa]: Commencement: S. 28 in force at 6.1.2014 in so far as not already in force by [S.I. 2013/1963](https://www.legislation.gov.uk/uksi/2013/1963), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/1963/article/2/1)
 
-[^key-11033a851c4068ecf0f33f7dc06dcd85]: Modification: S. 28 applied (29.6.2021) by [1984 c. 47](https://www.legislation.gov.uk/ukpga/1984/47), [Sch. para. 2(3C)](https://www.legislation.gov.uk/ukpga/1984/47/schedule/paragraph/2/3C) (as inserted by [Counter Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(r)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/r), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2021/11/schedule/11/paragraph/2))
+[^c-11033a851c4068ecf0f33f7dc06dcd85]: Modification: S. 28 applied (29.6.2021) by [1984 c. 47](https://www.legislation.gov.uk/ukpga/1984/47), [Sch. para. 2(3C)](https://www.legislation.gov.uk/ukpga/1984/47/schedule/paragraph/2/3C) (as inserted by [Counter Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(r)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/r), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2021/11/schedule/11/paragraph/2))
 
-[^key-d174ca8302cc9dac623c8d001a49e9d1]: Textual amendment: Words in [s. 28(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/1) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/2), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
+[^c-d174ca8302cc9dac623c8d001a49e9d1]: Textual amendment: Words in [s. 28(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/1) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/2), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
 
-[^key-7554b00134dd9fd6640b9b63951ac9ca]: Textual amendment: Words in s. 28(2) substituted (5.7.2021 in relation to specified areas for the specified period) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 76(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/76/2), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2021/797](https://www.legislation.gov.uk/uksi/2021/797), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2021/797/regulation/2/1), [3](https://www.legislation.gov.uk/uksi/2021/797/regulation/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/797/regulation/4/2))
+[^c-7554b00134dd9fd6640b9b63951ac9ca]: Textual amendment: Words in s. 28(2) substituted (5.7.2021 in relation to specified areas for the specified period) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 76(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/76/2), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2021/797](https://www.legislation.gov.uk/uksi/2021/797), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2021/797/regulation/2/1), [3](https://www.legislation.gov.uk/uksi/2021/797/regulation/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/797/regulation/4/2))
 
-[^key-f169f478d8b0fe12cd31506a2567198f]: Textual amendment: Words in s. 28(2) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 32(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/32/2/a), [50(2)(q)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/q)
+[^c-f169f478d8b0fe12cd31506a2567198f]: Textual amendment: Words in s. 28(2) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 32(2)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/32/2/a), [50(2)(q)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/q)
 
-[^key-5b9c29d115f0c09bd7ed15094f0e9843]: Textual amendment: [S. 28(2A)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/2A)[(2B)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/2B) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/3), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
+[^c-5b9c29d115f0c09bd7ed15094f0e9843]: Textual amendment: [S. 28(2A)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/2A)[(2B)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/2B) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/3), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
 
-[^key-cfce96bc08f44e9c6c263c3ccb88ca63]: Textual amendment: S. 28(3)(a)(b) substituted for s. 28(3)(a)-(g) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 146(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/146/a), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
+[^c-cfce96bc08f44e9c6c263c3ccb88ca63]: Textual amendment: S. 28(3)(a)(b) substituted for s. 28(3)(a)-(g) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 146(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/146/a), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
 
-[^key-2a083bfc5187657065dcfc0f75e0b8f9]: Textual amendment: S. 28(3A)-(3C) inserted (5.7.2021 in relation to specified areas for the specified period) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 76(4)](https://www.legislation.gov.uk/ukpga/2021/17/section/76/4), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2021/797](https://www.legislation.gov.uk/uksi/2021/797), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2021/797/regulation/2/1), [3](https://www.legislation.gov.uk/uksi/2021/797/regulation/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/797/regulation/4/2))
+[^c-2a083bfc5187657065dcfc0f75e0b8f9]: Textual amendment: S. 28(3A)-(3C) inserted (5.7.2021 in relation to specified areas for the specified period) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 76(4)](https://www.legislation.gov.uk/ukpga/2021/17/section/76/4), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2021/797](https://www.legislation.gov.uk/uksi/2021/797), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2021/797/regulation/2/1), [3](https://www.legislation.gov.uk/uksi/2021/797/regulation/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/797/regulation/4/2))
 
-[^key-8b2fd0298148e6666d48ed81a0feaf64]: Textual amendment: Words in s. 28(4)(a)-(d) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 146(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/146/b), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
+[^c-8b2fd0298148e6666d48ed81a0feaf64]: Textual amendment: Words in s. 28(4)(a)-(d) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 146(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/146/b), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
 
-[^key-4b69c075647cc0e12e0c71bf55a2a43b]: Textual amendment: [S. 28(4ZA)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4ZA) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 146(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/146/c), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
+[^c-4b69c075647cc0e12e0c71bf55a2a43b]: Textual amendment: [S. 28(4ZA)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4ZA) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 146(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/146/c), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
 
-[^key-4fe0e1ef0ec65e984f12b05f904c115c]: Textual amendment: S. 28(4A)(4B) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 32(2)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/32/2/b), [50(2)(q)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/q)
+[^c-4fe0e1ef0ec65e984f12b05f904c115c]: Textual amendment: S. 28(4A)(4B) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 32(2)(b)](https://www.legislation.gov.uk/ukpga/2021/11/section/32/2/b), [50(2)(q)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/q)
 
-[^key-f78fae7c7364597d027492a253344890]: Textual amendment: [S. 28(4A)(b)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4A/b) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 146(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/146/d), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
+[^c-f78fae7c7364597d027492a253344890]: Textual amendment: [S. 28(4A)(b)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4A/b) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 146(d)](https://www.legislation.gov.uk/ukpga/2022/32/section/146/d), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
 
-[^key-7f62d18c6bacbd6276d7f964bbb3b640]: Textual amendment: Word in [s. 28(4A)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4A) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(4)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/4/a), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
+[^c-7f62d18c6bacbd6276d7f964bbb3b640]: Textual amendment: Word in [s. 28(4A)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4A) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(4)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/4/a), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
 
-[^key-313a34fa1abeb8dd81bc1d8c01e7de77]: Textual amendment: [S. 28(4A)(d)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4A/d) and word inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(4)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/4/b), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
+[^c-313a34fa1abeb8dd81bc1d8c01e7de77]: Textual amendment: [S. 28(4A)(d)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4A/d) and word inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(4)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/4/b), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
 
-[^key-5568a87422fb89cd942051387f25c780]: Textual amendment: [S. 28(4B)(a)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4B/a) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 146(e)](https://www.legislation.gov.uk/ukpga/2022/32/section/146/e), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
+[^c-5568a87422fb89cd942051387f25c780]: Textual amendment: [S. 28(4B)(a)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4B/a) omitted (28.6.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 146(e)](https://www.legislation.gov.uk/ukpga/2022/32/section/146/e), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
 
-[^key-5fff68504054e42052ca735c9c4ba92a]: Textual amendment: [S. 28(4B)(c)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4B/c) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/5), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
+[^c-5fff68504054e42052ca735c9c4ba92a]: Textual amendment: [S. 28(4B)(c)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4B/c) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/5), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
 
-[^key-836660bb20db24b34dbbe0abe21ecd36]: Textual amendment: [S. 28(4BA)-(4BC)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4BA) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/6), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
+[^c-836660bb20db24b34dbbe0abe21ecd36]: Textual amendment: [S. 28(4BA)-(4BC)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4BA) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/6), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
 
-[^key-33c6289d5b8c72fffbe565feed54f97b]: Textual amendment: [S. 28(4C)-(4E)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4C) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 146(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/146/f), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
+[^c-33c6289d5b8c72fffbe565feed54f97b]: Textual amendment: [S. 28(4C)-(4E)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4C) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 146(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/146/f), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
 
-[^key-09a81f84c7848850d1f489c309eac51e]: Textual amendment: Words in [s. 28(4C)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4C) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/7), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
+[^c-09a81f84c7848850d1f489c309eac51e]: Textual amendment: Words in [s. 28(4C)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4C) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(7)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/7), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
 
-[^key-d18bc9eb0c1e0a5d98a9ebd89c0d1516]: Textual amendment: Words in [s. 28(4D)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4D) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/8), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
+[^c-d18bc9eb0c1e0a5d98a9ebd89c0d1516]: Textual amendment: Words in [s. 28(4D)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4D) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 191(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/191/8), [255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)

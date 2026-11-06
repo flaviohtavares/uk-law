@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Open space in the City of Nottingham[^key-e2bdf1715707eefbeac216664d222d14]
+## 42. Open space in the City of Nottingham[^c-e2bdf1715707eefbeac216664d222d14]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2bdf1715707eefbeac216664d222d14]: Commencement: Art. 42 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-e2bdf1715707eefbeac216664d222d14]: Commencement: Art. 42 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

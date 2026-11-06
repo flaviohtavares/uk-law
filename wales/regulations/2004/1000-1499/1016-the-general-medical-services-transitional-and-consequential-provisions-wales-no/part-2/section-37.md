@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Permission for use of facilities in private practice under section 72 of the 1977 Act[^key-00241510885dea5c94d33c39fded6ad1]
+## 37. Permission for use of facilities in private practice under section 72 of the 1977 Act[^c-00241510885dea5c94d33c39fded6ad1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where, on 31st March 2004, a relevant medical practitioner had the permission of
 
 ## Annotations
 
-[^key-00241510885dea5c94d33c39fded6ad1]: Commencement: Art. 37 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-00241510885dea5c94d33c39fded6ad1]: Commencement: Art. 37 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE — REVOCATIONS[^key-cd41601aae6303eb39cc67f460956cdc]
+## SCHEDULE — REVOCATIONS[^c-cd41601aae6303eb39cc67f460956cdc]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ Article 146
 
 ## Annotations
 
-[^key-cd41601aae6303eb39cc67f460956cdc]: Commencement: Sch. in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-cd41601aae6303eb39cc67f460956cdc]: Commencement: Sch. in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

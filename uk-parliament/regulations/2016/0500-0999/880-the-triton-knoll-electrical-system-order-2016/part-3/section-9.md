@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Temporary stopping up of streets[^key-16fc3de411c2e85ad89dfff258722cee]
+## 9. Temporary stopping up of streets[^c-16fc3de411c2e85ad89dfff258722cee]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16fc3de411c2e85ad89dfff258722cee]: Commencement: Art. 9 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-16fc3de411c2e85ad89dfff258722cee]: Commencement: Art. 9 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)

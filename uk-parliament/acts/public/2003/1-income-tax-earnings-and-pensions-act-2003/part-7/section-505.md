@@ -41,7 +41,7 @@ counts as employment income of the participant for the relevant tax year (see su
 
 the tax due is reduced by the amount or aggregate amount of any tax paid by virtue of section 501 (charge on capital receipts in respect of plan shares) on any capital receipts in respect of the shares.
 
-(4A)[^key-2615d14c1119228f7a1d5d77871b31ff] Any tax due under subsection (2) or (3) is reduced by the amount or aggregate amount of any tax paid by virtue of Chapter 3B of this Part in relation to the shares.
+(4A)[^c-2615d14c1119228f7a1d5d77871b31ff] Any tax due under subsection (2) or (3) is reduced by the amount or aggregate amount of any tax paid by virtue of Chapter 3B of this Part in relation to the shares.
 
 (5) The “**relevant tax year**” is the tax year in which the exit date falls.
 
@@ -53,4 +53,4 @@ the tax due is reduced by the amount or aggregate amount of any tax paid by virt
 
 ## Annotations
 
-[^key-2615d14c1119228f7a1d5d77871b31ff]: Textual amendment: S. 505(4A) inserted (18.6.2004 with effect in accordance with s. 88(11)-(13) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 88(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/88/5)
+[^c-2615d14c1119228f7a1d5d77871b31ff]: Textual amendment: S. 505(4A) inserted (18.6.2004 with effect in accordance with s. 88(11)-(13) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 88(5)](https://www.legislation.gov.uk/ukpga/2004/12/section/88/5)

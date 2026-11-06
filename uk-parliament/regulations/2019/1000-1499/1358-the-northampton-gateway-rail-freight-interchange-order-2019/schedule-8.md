@@ -22,7 +22,7 @@ summary: ''
 
 Article 16
 
-### PART 1 — EXISTING ORDERS[^key-220317e46f3172724668775e379ee7ff]
+### PART 1 — EXISTING ORDERS[^c-220317e46f3172724668775e379ee7ff]
 
 | *(1)*<br>*Statutory Instrument / Order Title* | *(2)*<br>*S.I. Number* | *(3)*<br>*Changes* | *(4)*<br>*Event* |
 | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ Article 16
 | The A45 Trunk Road (Thrapston to Northampton, Northamptonshire) (Derestriction) Order 2011 | [2011 No. 592](https://www.legislation.gov.uk/nisr/2011/592) | In the Schedule—<br>(i) for paragraphs 16 and 17, substitute—<br>> **16.** the southbound carriageway of the A45 from a point 133 metres southwest of its junction with the exit slip road leading to its roundabout junction with the A508 and B526, known as Queen Eleanor Roundabout, Northampton, to a point 390 metres north of the junction between the A45 and Watering Lane;<br>><br>> **17.** the northbound carriageway of the A45 from a point 390 metres north its junction with Watering Lane, to a point 138 metres south of its junction with the entry slip road leading from Queen Eleanor Roundabout;<br>; and<br>(ii) omit paragraph 22. | Opening to traffic of the highway works within Works No. 8 |
 | The Northamptonshire County Council (Various Roads, South Northamptonshire District and Northampton Borough) (30mph, 40mph and 50mph speed limit) Order 2013 |  | In Schedule 3—<br>(i) for—<br>> Northampton Road, Roade / Courteenhall – from a point 50 metres north of its junction with London Road to a point 30 metres north of its junction with Blisworth Road<br>substitute—<br>> Northampton Road, Roade / Courteenhall – from its roundabout junction with the Roade Bypass to a point 30 metres north of its junction with the unnamed road to Quinton<br>; and<br>(ii) for—<br>> Stratford Road, Roade / Northampton Road, Stoke Bruerne – a point 512 metres south of its junction with High Street, Roade for a distance of 2.5 kilometres in a southerly direction.<br>substitute—<br>> Northampton Road, Stoke Bruerne – a point 250 metres south of the roundabout junction between the A508 Roade Bypass and Stratford Road for a distance of 1.75 kilometres in a southerly direction. | Opening to traffic of the Roade Bypass constructed as part of Works No. 13 |
 
-### PART 2 — HIGHWAYS SUBJECT TO 50MPH SPEED LIMIT[^key-b8c24e23d621662d522637ceaf993327]
+### PART 2 — HIGHWAYS SUBJECT TO 50MPH SPEED LIMIT[^c-b8c24e23d621662d522637ceaf993327]
 
 | *(1)*<br>*Location* | *(2)*<br>*Description* | *(3)*<br>*Event* |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ Article 16
 | A508 | From a point 250 metres south of the roundabout junction between the A508 Roade Bypass and Stratford Road to that junction; the centreline of which is shown coloured orange between points AH and AK as shown on the speed limit plans (Document 2.7C). | Completion of Works No. 13 |
 | Northampton Road | From the roundabout junction between the A508 Roade Bypass and Northampton Road to a point 162 metres south of that roundabout; the centreline of which is shown coloured orange between points AL and AM as shown on the speed limit plans (Document 2.7B). | Completion of Works No. 13 |
 
-### PART 3 — DERESTRICTED HIGHWAYS[^key-3120c106881e56f943ac7f1217f9f90a]
+### PART 3 — DERESTRICTED HIGHWAYS[^c-3120c106881e56f943ac7f1217f9f90a]
 
 | *(1)*<br>*Location* | *(2)*<br>*Description* | *(3)*<br>*Event* |
 | --- | --- | --- |
@@ -61,7 +61,7 @@ Article 16
 | Blisworth Road (Parish of Roade) | From a point 140 metres west of the roundabout junction between the Roade Bypass and Blisworth Road (Parish of Roade) to that junction; the centreline of which is shown coloured light blue between points AB and AC as shown on the speed limit plans (Document 2.7C). | Completion of Works No. 13 |
 | A508 Roade Bypass | From a point 140 metres north of the roundabout junction between the A508 Roade Bypass and Northampton Road to that junction; the centreline of which is shown coloured light blue between points AE and AF as shown on the speed limit plans (Document 2.7C). | Completion of Works No. 13 |
 
-### PART 4 — TEMPORARY SPEED LIMITS[^key-f0e96499c4074997eed8497d42018a51]
+### PART 4 — TEMPORARY SPEED LIMITS[^c-f0e96499c4074997eed8497d42018a51]
 
 | *(1)*<br>*Location* | *(2)*<br>*Temporary limit to be imposed* | *(3)*<br>*Description* | *(4)*<br>*Duration* |
 | --- | --- | --- | --- |
@@ -75,10 +75,10 @@ Article 16
 
 ## Annotations
 
-[^key-220317e46f3172724668775e379ee7ff]: Commencement: Sch. 8 Pt. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-220317e46f3172724668775e379ee7ff]: Commencement: Sch. 8 Pt. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-b8c24e23d621662d522637ceaf993327]: Commencement: Sch. 8 Pt. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-b8c24e23d621662d522637ceaf993327]: Commencement: Sch. 8 Pt. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-3120c106881e56f943ac7f1217f9f90a]: Commencement: Sch. 8 Pt. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-3120c106881e56f943ac7f1217f9f90a]: Commencement: Sch. 8 Pt. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-f0e96499c4074997eed8497d42018a51]: Commencement: Sch. 8 Pt. 4 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-f0e96499c4074997eed8497d42018a51]: Commencement: Sch. 8 Pt. 4 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

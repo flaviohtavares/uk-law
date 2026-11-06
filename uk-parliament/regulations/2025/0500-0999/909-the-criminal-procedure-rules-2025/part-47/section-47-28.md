@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.28. Application for warrant under section 8 of the Police and Criminal Evidence Act 1984[^key-f71b17c5be42230c581f4df88bec871a]
+## 47.28. Application for warrant under section 8 of the Police and Criminal Evidence Act 1984[^c-f71b17c5be42230c581f4df88bec871a]
 
 *Extent: E+W*
 
@@ -90,7 +90,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f71b17c5be42230c581f4df88bec871a]: Commencement: Rule 47.28 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f71b17c5be42230c581f4df88bec871a]: Commencement: Rule 47.28 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01198]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); section 8 was amended by paragraph 80 of Schedule 14 to the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), sections 111, 113 and 114 of, and paragraph 43 of Schedule 7 to, the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and section 86 of the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
 

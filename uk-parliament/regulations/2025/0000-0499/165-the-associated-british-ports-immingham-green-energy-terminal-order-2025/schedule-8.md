@@ -22,7 +22,7 @@ summary: ''
 
 Article 13
 
-### PART 1 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OR DIVERSION OF STREETS OR PUBLIC RIGHTS OF WAY[^key-358e349d44c4f6d48f548b2d901185a8]
+### PART 1 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OR DIVERSION OF STREETS OR PUBLIC RIGHTS OF WAY[^c-358e349d44c4f6d48f548b2d901185a8]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street or public right of way* | *(3)*<br>*Measure* |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ Article 13
 | North East Lincolnshire | A1173 | Temporary closure of the areas within the A1173 shaded green and marked AB and AC on sheet 6 of the stopping up and restriction of use of streets and public rights of way plan. |
 | North East Lincolnshire | Kings Road | Temporary closure of the area shaded green and marked Z on sheets 6 and 7 of the stopping up and restriction of use of streets and public rights of way plan. |
 
-### PART 2 — TEMPORARY USE OF MOTOR VEHICLES ON PUBLIC RIGHTS OF WAY[^key-97196701256fe3db9f8be09d0268d474]
+### PART 2 — TEMPORARY USE OF MOTOR VEHICLES ON PUBLIC RIGHTS OF WAY[^c-97196701256fe3db9f8be09d0268d474]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measure* |
 | --- | --- | --- |
@@ -44,6 +44,6 @@ Article 13
 
 ## Annotations
 
-[^key-358e349d44c4f6d48f548b2d901185a8]: Commencement: Sch. 8 Pt. 1 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-358e349d44c4f6d48f548b2d901185a8]: Commencement: Sch. 8 Pt. 1 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
-[^key-97196701256fe3db9f8be09d0268d474]: Commencement: Sch. 8 Pt. 2 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-97196701256fe3db9f8be09d0268d474]: Commencement: Sch. 8 Pt. 2 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

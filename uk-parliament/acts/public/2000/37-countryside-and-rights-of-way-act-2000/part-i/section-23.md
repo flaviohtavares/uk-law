@@ -35,8 +35,8 @@ summary: ''
 
 *Extent: E*
 
-(6)[^key-cc135834bf950020276f7dbf75140a0d] Nothing in this section applies in relation to land which is coastal margin.
+(6)[^c-cc135834bf950020276f7dbf75140a0d] Nothing in this section applies in relation to land which is coastal margin.
 
 ## Annotations
 
-[^key-cc135834bf950020276f7dbf75140a0d]: Textual amendment: [S. 23(6)](https://www.legislation.gov.uk/ukpga/2000/37/section/23/6) added (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/17)
+[^c-cc135834bf950020276f7dbf75140a0d]: Textual amendment: [S. 23(6)](https://www.legislation.gov.uk/ukpga/2000/37/section/23/6) added (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/17)

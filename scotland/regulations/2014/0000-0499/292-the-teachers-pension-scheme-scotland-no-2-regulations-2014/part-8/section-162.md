@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 162. Commutation of part of pension[^key-901ca6d4a78c63f794c915efba56ccaa]
+## 162. Commutation of part of pension[^c-901ca6d4a78c63f794c915efba56ccaa]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-901ca6d4a78c63f794c915efba56ccaa]: Commencement: [Reg. 162](https://www.legislation.gov.uk/ssi/2014/292/regulation/162) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-901ca6d4a78c63f794c915efba56ccaa]: Commencement: [Reg. 162](https://www.legislation.gov.uk/ssi/2014/292/regulation/162) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

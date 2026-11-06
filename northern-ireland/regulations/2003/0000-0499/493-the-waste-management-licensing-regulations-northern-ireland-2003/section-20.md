@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Refusal, revocation and cessation of registration[^key-fc6448d42c8ca6ae0b4cd7fabfe60428]
+## 20. Refusal, revocation and cessation of registration[^c-fc6448d42c8ca6ae0b4cd7fabfe60428]
 
 *Extent: N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 (2) Where the Department has refused to register an activity under paragraph (1), it shall serve a notice on the establishment or undertaking stating that the registration has been refused and giving the reasons for its decision.
 
-(3) Subject to paragraph (3A) unless the Department[^key-f5ab1b2d3da7b0b245301d9fb4c11977] has within the period of 28 days from the date on which it received a notice under regulation 18(3), either –
+(3) Subject to paragraph (3A) unless the Department[^c-f5ab1b2d3da7b0b245301d9fb4c11977] has within the period of 28 days from the date on which it received a notice under regulation 18(3), either –
 
 - (a) entered the relevant particulars in the register in relation to the establishment or undertaking which submitted the notice; or
 - (b) served on it a notice of refusal stating that registration is refused and giving reasons for that decision,
 
 those particulars shall be entered in the register at the end of that 28 day period.
 
-(3A)[^key-999ac1a8b32dfbf57deaf6faf4e23426] In the case of an exempt activity falling within paragraph 49 of Part I Schedule 2, unless the Department has within two months from the date on which it received a notice under regulation 18(3), either:
+(3A)[^c-999ac1a8b32dfbf57deaf6faf4e23426] In the case of an exempt activity falling within paragraph 49 of Part I Schedule 2, unless the Department has within two months from the date on which it received a notice under regulation 18(3), either:
 
 - (i) entered the relevant particulars in the register in relation to the establishment or undertaking that submitted the notice; or
 - (ii) served on it a notice of refusal stating that registration is refused and giving the reasons for the decision,
@@ -43,9 +43,9 @@ those particulars shall be entered in the register at the end of the two month p
 (5) Subject to paragraphs (6) and (7), the Department may revoke the registration of an exempt activity where it is satisfied that –
 
 - (a) the establishment or undertaking to which the relevant entry relates no longer exists or has ceased to carry out that activity; or
-- (b) the activity is no longer being carried out in compliance with the conditions or limitations of the relevant paragraph of Part I of Schedule 2 or with the relevant provisions of regulation 17(2) or (4);[^key-fe89bf4b9bc3e88948c08eddaa692516]
-- (c) there has been a breach of any of the registration obligations applicable to that activity; or[^key-dd2bf5edda5eb4853838ab16d28ae71d]
-- (d)[^key-0d8e4e66fc4453af91d2119f21653120] in the case of an exempt activity falling within paragraph 49 of Part I Schedule 2 where the competent authority has carried out an inspection in accordance with sub-paragraph (4A) of paragraph 13 of Schedule 3 and the particulars required to be verified under that sub-paragraph are not met.
+- (b) the activity is no longer being carried out in compliance with the conditions or limitations of the relevant paragraph of Part I of Schedule 2 or with the relevant provisions of regulation 17(2) or (4);[^c-fe89bf4b9bc3e88948c08eddaa692516]
+- (c) there has been a breach of any of the registration obligations applicable to that activity; or[^c-dd2bf5edda5eb4853838ab16d28ae71d]
+- (d)[^c-0d8e4e66fc4453af91d2119f21653120] in the case of an exempt activity falling within paragraph 49 of Part I Schedule 2 where the competent authority has carried out an inspection in accordance with sub-paragraph (4A) of paragraph 13 of Schedule 3 and the particulars required to be verified under that sub-paragraph are not met.
 
 (6) Before revoking a registration, the Department shall serve on the establishment or undertaking carrying out the exempt activity, a notice (“a revocation notice”) stating that the registration is to be revoked and giving reasons for the decision.
 
@@ -59,14 +59,14 @@ those particulars shall be entered in the register at the end of the two month p
 
 ## Annotations
 
-[^key-fc6448d42c8ca6ae0b4cd7fabfe60428]: Commencement: Reg. 20 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-fc6448d42c8ca6ae0b4cd7fabfe60428]: Commencement: Reg. 20 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
-[^key-f5ab1b2d3da7b0b245301d9fb4c11977]: Textual amendment: Words in reg. 20(3) substituted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/7/a) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
+[^c-f5ab1b2d3da7b0b245301d9fb4c11977]: Textual amendment: Words in reg. 20(3) substituted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/7/a) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
 
-[^key-999ac1a8b32dfbf57deaf6faf4e23426]: Textual amendment: Reg. 20(3A) inserted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/7/b) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
+[^c-999ac1a8b32dfbf57deaf6faf4e23426]: Textual amendment: Reg. 20(3A) inserted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/7/b) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
 
-[^key-fe89bf4b9bc3e88948c08eddaa692516]: Textual amendment: Words in reg. 20(5)(b) substituted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/7/c) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
+[^c-fe89bf4b9bc3e88948c08eddaa692516]: Textual amendment: Words in reg. 20(5)(b) substituted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/7/c) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
 
-[^key-dd2bf5edda5eb4853838ab16d28ae71d]: Textual amendment: Words in reg. 20(5)(c) substituted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 7(d)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/7/d) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
+[^c-dd2bf5edda5eb4853838ab16d28ae71d]: Textual amendment: Words in reg. 20(5)(c) substituted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 7(d)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/7/d) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
 
-[^key-0d8e4e66fc4453af91d2119f21653120]: Textual amendment: Reg. 20(5)(d) inserted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 7(e)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/7/e) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))
+[^c-0d8e4e66fc4453af91d2119f21653120]: Textual amendment: Reg. 20(5)(d) inserted (5.1.2007) by [Waste Electrical and Electronic Equipment (Waste Management Licensing) Regulations (Northern Ireland) 2006 (S.R. 2006/519)](https://www.legislation.gov.uk/nisr/2006/519), [reg. 1](https://www.legislation.gov.uk/nisr/2006/519/regulation/1), [Sch. 1 para. 7(e)](https://www.legislation.gov.uk/nisr/2006/519/schedule/1/paragraph/7/e) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2006/519/schedule/2))

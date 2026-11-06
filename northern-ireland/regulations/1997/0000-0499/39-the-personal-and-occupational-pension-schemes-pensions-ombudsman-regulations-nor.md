@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 142(4) and (6)(*b*) and (*c*), 147A, 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-59f1dc8468ab482eeb4597dcf192f573]
+## 1. Citation, commencement and interpretation[^c-59f1dc8468ab482eeb4597dcf192f573]
 
 (1) These Regulations may be cited as the Personal and Occupational Pension Schemes (Pensions Ombudsman) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
 
@@ -58,13 +58,13 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Jurisdiction in relation to administrators[^key-615fc3a38d6715be6bcc2270392b5654]
+## 2. Jurisdiction in relation to administrators[^c-615fc3a38d6715be6bcc2270392b5654]
 
 (1) The Pensions Ombudsman may investigate and determine a complaint concerning the administration of an occupational or a personal pension scheme made to him by or in respect of an actual or potential beneficiary of the scheme who alleges that he has sustained injustice in consequence of maladministration in connection with an act or omission of an administrator.
 
 (2) Where the Pensions Ombudsman commences an investigation under paragraph (1), the provisions of Part X of the Act (investigations: the Pensions Ombudsman) shall apply in relation to the administrator as they would apply in relation to a person responsible for the management of the scheme.
 
-## 3. Exclusion from jurisdiction: use of internal disputes procedure[^key-b1c01f813be145093f3c43b0b5d32a93]
+## 3. Exclusion from jurisdiction: use of internal disputes procedure[^c-b1c01f813be145093f3c43b0b5d32a93]
 
 (1) In a case to which Article 50 applies (internal dispute resolution), the Pensions Ombudsman shall not, subject to paragraph (2) of this regulation, investigate or determine a complaint or dispute concerning an occupational pension scheme unless written notice of a decision in respect of that complaint or dispute has first been issued by the trustees or managers of the scheme under the arrangements required by Article 50(2)(*b*).
 
@@ -73,7 +73,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 - (a) there is no real prospect of a notice being issued within a reasonable period from the date on which the complaint or dispute was received by him in writing; and
 - (b) it is reasonable in the circumstances that he should investigate and determine the complaint or dispute.
 
-## 4. Exclusions from jurisdiction[^key-af04b8e0c30fabac934b57a2bdf8fffc]
+## 4. Exclusions from jurisdiction[^c-af04b8e0c30fabac934b57a2bdf8fffc]
 
 (1) The Pensions Ombudsman shall not investigate or determine any complaint or dispute which can be investigated by, or under arrangements made by—
 
@@ -92,7 +92,7 @@ other than a complaint or dispute relating to the management of a personal pensi
 - (f) Articles 56 to 61 (the minimum funding requirement and schedules of contributions); and
 - (g) Articles 85 and 86 (requirement for money purchase schemes to keep schedules of payments).
 
-## 5. Time limit for making complaints and referring disputes[^key-9df06b9c585bb90079e2aba5c7be6204]
+## 5. Time limit for making complaints and referring disputes[^c-9df06b9c585bb90079e2aba5c7be6204]
 
 (1) Subject to paragraphs (2) and (3), the Pensions Ombudsman shall not investigate a complaint or dispute if the act or omission which is the subject thereof occurred more than 3 years before the date on which the complaint or dispute was received by him in writing.
 
@@ -100,7 +100,7 @@ other than a complaint or dispute relating to the management of a personal pensi
 
 (3) Where, in the opinion of the Pensions Ombudsman, it was reasonable for a complaint not to be made or a dispute not to be referred before the end of the period allowed under paragraph (1) or (2), the Pensions Ombudsman may investigate and determine that complaint or dispute if it is received by him in writing within such further period as he considers reasonable.
 
-## 6. Payment of interest on late paid benefit[^key-e51c47fe957a188385852c9c63ff547e]
+## 6. Payment of interest on late paid benefit[^c-e51c47fe957a188385852c9c63ff547e]
 
 (1) For the purposes of section 147A of the Act[^f00006] (interest on late payment of benefit) the prescribed rate of interest shall be the base rate for the time being quoted by the reference banks.
 
@@ -112,13 +112,13 @@ other than a complaint or dispute relating to the management of a personal pensi
   - (ii) are incorporated in and carrying on within the United Kingdom a deposit-taking business (as defined in section 6, but subject to any order under section 7 of that Act); and
   - (iii) quote a base rate applicable to sterling deposits.
 
-## 7. Revocations[^key-440366e3389dc4d356f89166261fc24c]
+## 7. Revocations[^c-440366e3389dc4d356f89166261fc24c]
 
 (1) The Personal and Occupational Pension Schemes (Pensions Ombudsman) Regulations (Northern Ireland) 1991[^f00008] and the Personal and Occupational Pension Schemes (Pensions Ombudsman) (Amendment) Regulations (Northern Ireland) 1996[^f00009] are hereby revoked.
 
 (2) Paragraph 29 of Schedule 2 to the Occupational and Personal Pension Schemes (Consequential Amendments) Regulations (Northern Ireland) 1994[^f00010] is hereby revoked.
 
-## 8. Saving[^key-f7a854f07f8ef6513fddd1f4c01b3c98]
+## 8. Saving[^c-f7a854f07f8ef6513fddd1f4c01b3c98]
 
 Anything done under any regulation revoked by these Regulations, if it could have been done under or for the purpose of the corresponding provision of these Regulations, shall be deemed to have been done under the corresponding provision of these Regulations and anything begun under any such regulation may be continued under these Regulations as if begun under these Regulations.
 
@@ -164,31 +164,31 @@ Sections 142(4) and 147A of the Act; enabling powers under which these Regulatio
 
 [^f00001]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); section 142 was amended by Article 153(2) and (3) of the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)) and section 147A was inserted by Article 156 of that Order
 
-[^key-59f1dc8468ab482eeb4597dcf192f573]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)
+[^c-59f1dc8468ab482eeb4597dcf192f573]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-615fc3a38d6715be6bcc2270392b5654]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)
+[^c-615fc3a38d6715be6bcc2270392b5654]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)
 
-[^key-b1c01f813be145093f3c43b0b5d32a93]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)
+[^c-b1c01f813be145093f3c43b0b5d32a93]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)
 
-[^key-af04b8e0c30fabac934b57a2bdf8fffc]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)
+[^c-af04b8e0c30fabac934b57a2bdf8fffc]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)
 
 [^f00004]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60); Recognition Orders relevant for these purposes have been made in relation to the Investment Management Regulatory Organisation, the Financial Intermediaries Managers and Brokers Association, the Life Assurance and Unit Trust Regulatory Organisation, the Securities and Futures Authority and the Personal Investment Authority. A certified copy of the register entry relating to any of these recognitions may be obtained from the Securities and Investments Board under section 103(5) of the Financial Services Act 1986
 
 [^f00005]: Footnote: Section 114 was amended by section 193(2) of, and paragraph 12 of Schedule 23 to, the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40). *See also* section 206 of that Act and the Financial Services Act 1986 (Delegation) Order 1987 (S.I. [1987/942](https://www.legislation.gov.uk/uksi/1987/942)) as amended by article 4 of S.I. [1991/200](https://www.legislation.gov.uk/uksi/1991/200)
 
-[^key-9df06b9c585bb90079e2aba5c7be6204]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)
+[^c-9df06b9c585bb90079e2aba5c7be6204]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)
 
-[^key-e51c47fe957a188385852c9c63ff547e]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)
+[^c-e51c47fe957a188385852c9c63ff547e]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)
 
 [^f00006]: Footnote: Section 147A was inserted by Article 156 of the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
 
 [^f00007]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22)
 
-[^key-440366e3389dc4d356f89166261fc24c]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)
+[^c-440366e3389dc4d356f89166261fc24c]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1991 No. 93](https://www.legislation.gov.uk/nisr/1991/93)
 
@@ -196,4 +196,4 @@ Sections 142(4) and 147A of the Act; enabling powers under which these Regulatio
 
 [^f00010]: Footnote: [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-f7a854f07f8ef6513fddd1f4c01b3c98]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)
+[^c-f7a854f07f8ef6513fddd1f4c01b3c98]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/39/regulation/1/1)

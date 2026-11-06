@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Seizure and disposal of dogs in connection with disqualification order[^key-500e4c32d9e328136806cd49cc961395][^key-a3265a4ebfa01296efe85512298d4765]
+## 67. Seizure and disposal of dogs in connection with disqualification order[^c-500e4c32d9e328136806cd49cc961395][^c-a3265a4ebfa01296efe85512298d4765]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-500e4c32d9e328136806cd49cc961395]: Commencement: S. 67 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-500e4c32d9e328136806cd49cc961395]: Commencement: S. 67 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-a3265a4ebfa01296efe85512298d4765]: Commencement: S. 67 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)
+[^c-a3265a4ebfa01296efe85512298d4765]: Commencement: S. 67 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)

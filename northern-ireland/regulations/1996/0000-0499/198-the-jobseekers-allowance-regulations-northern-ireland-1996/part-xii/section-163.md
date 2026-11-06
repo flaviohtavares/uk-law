@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 163. Calculation of earnings[^key-c321f6b6f3459d663b1259d2b068b11a]
+## 163. Calculation of earnings[^c-c321f6b6f3459d663b1259d2b068b11a]
 
 *Extent: N.I.*
 
@@ -95,6 +95,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c321f6b6f3459d663b1259d2b068b11a]: Commencement: Reg. 163 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-c321f6b6f3459d663b1259d2b068b11a]: Commencement: Reg. 163 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00123]: Footnote: [1925 c. 34](https://www.legislation.gov.uk/ukpga/1925/34)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Department—
 
-- (a)[^key-43a18db4c5e3311872d52f7a9e33f88d] shall request the Ombudsman to investigate any custody-related matter if any of the events to which it relates is of such a nature or description, or occurs in such circumstances, as may be prescribed;
+- (a)[^c-43a18db4c5e3311872d52f7a9e33f88d] shall request the Ombudsman to investigate any custody-related matter if any of the events to which it relates is of such a nature or description, or occurs in such circumstances, as may be prescribed;
 - (b) may request the Ombudsman to investigate any other custody-related matter which is specified in the request.
 
 (2) Before making any request under subsection (1) the Department shall consult the Ombudsman.
@@ -55,4 +55,4 @@ and any matter the Department considers is (or may be) linked to such events.
 
 ## Annotations
 
-[^key-43a18db4c5e3311872d52f7a9e33f88d]: Commencement: [S. 39(1)(a)](https://www.legislation.gov.uk/nia/2016/21/section/39/1/a) in operation at 1.9.2016 for specified purposes by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 3(d)](https://www.legislation.gov.uk/nisr/2016/248/article/3/d)
+[^c-43a18db4c5e3311872d52f7a9e33f88d]: Commencement: [S. 39(1)(a)](https://www.legislation.gov.uk/nia/2016/21/section/39/1/a) in operation at 1.9.2016 for specified purposes by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 3(d)](https://www.legislation.gov.uk/nisr/2016/248/article/3/d)

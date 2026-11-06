@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Other amendments relating to financial support[^key-bb494f639b6f3a960ea79f1f9a5ae256][^key-640d40b54de57bf28918d92fd90e50b6]
+## 88. Other amendments relating to financial support[^c-bb494f639b6f3a960ea79f1f9a5ae256][^c-640d40b54de57bf28918d92fd90e50b6]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb494f639b6f3a960ea79f1f9a5ae256]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2017/29/section/88) in force at 1.4.2018 for E. by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/l)
+[^c-bb494f639b6f3a960ea79f1f9a5ae256]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2017/29/section/88) in force at 1.4.2018 for E. by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/l)
 
-[^key-640d40b54de57bf28918d92fd90e50b6]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2017/29/section/88) in force at 1.4.2018 for W. by [S.I. 2018/415](https://www.legislation.gov.uk/wsi/2018/415), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2018/415/regulation/2/a)
+[^c-640d40b54de57bf28918d92fd90e50b6]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2017/29/section/88) in force at 1.4.2018 for W. by [S.I. 2018/415](https://www.legislation.gov.uk/wsi/2018/415), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2018/415/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Repeal of provision about minimum service levels[^key-54765263836015ab876864f78507e434]
+## 78. Repeal of provision about minimum service levels[^c-54765263836015ab876864f78507e434]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54765263836015ab876864f78507e434]: Commencement: S. 78 in force at Royal Assent, see [s. 159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)
+[^c-54765263836015ab876864f78507e434]: Commencement: S. 78 in force at Royal Assent, see [s. 159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)

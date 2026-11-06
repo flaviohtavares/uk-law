@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17ZC. Disqualified member[^key-4e3a08a030a4b8ab326bea00206f3522]
+## 17ZC. Disqualified member[^c-4e3a08a030a4b8ab326bea00206f3522]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ Section 159A applies to LLPs, modified so that it reads as follows—
 
 ## Annotations
 
-[^key-4e3a08a030a4b8ab326bea00206f3522]: Textual amendment: [Reg. 17ZC](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17ZC) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2024/234/regulation/18); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-4e3a08a030a4b8ab326bea00206f3522]: Textual amendment: [Reg. 17ZC](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17ZC) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2024/234/regulation/18); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

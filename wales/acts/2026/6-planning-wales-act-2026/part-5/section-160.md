@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 160. Right to appeal against refusal of application or failure to make decision[^key-0e9eb420ebbe713123ade174d05c341d]
+## 160. Right to appeal against refusal of application or failure to make decision[^c-0e9eb420ebbe713123ade174d05c341d]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e9eb420ebbe713123ade174d05c341d]: Commencement: S. 160 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-0e9eb420ebbe713123ade174d05c341d]: Commencement: S. 160 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 192. Employers' contributions[^key-f046c357e47419127de430e99f38e961]
+## 192. Employers' contributions[^c-f046c357e47419127de430e99f38e961]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ In respect of each pay period, the employer of a person (P) in pensionable servi
 
 ## Annotations
 
-[^key-f046c357e47419127de430e99f38e961]: Textual amendment: [Reg. 192](https://www.legislation.gov.uk/nisr/2014/310/regulation/192) substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [12](https://www.legislation.gov.uk/nisr/2015/126/regulation/12)
+[^c-f046c357e47419127de430e99f38e961]: Textual amendment: [Reg. 192](https://www.legislation.gov.uk/nisr/2014/310/regulation/192) substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [12](https://www.legislation.gov.uk/nisr/2015/126/regulation/12)

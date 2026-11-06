@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Review of apparatus market identifications and determinations[^key-731e6faf767ea21dc23c525a4340b0a9][^key-5a518e722f604fd935daa25bccea3836]
+## 85. Review of apparatus market identifications and determinations[^c-731e6faf767ea21dc23c525a4340b0a9][^c-5a518e722f604fd935daa25bccea3836]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,15 +41,15 @@ summary: ''
 - (a) they must so inform the Secretary of State; and
 - (b) the Secretary of State may by order remove or restrict OFCOM’s power under this Chapter to set SMP apparatus conditions by reference to that market.
 
-(7) Sections 79, 80, 80A and 81(1)[^key-0fcd2e942534537add0eb31098fc564b] apply—
+(7) Sections 79, 80, 80A and 81(1)[^c-0fcd2e942534537add0eb31098fc564b] apply—
 
 - (a) in relation to the identification of a apparatus market for the purposes of reviewing a market power determination under this section, as they apply in relation to the identification of such a market for the purpose of making a market determination; and
 - (b) in relation to the review of such a determination, as they apply in relation to the making of such a determination.
 
 ## Annotations
 
-[^key-731e6faf767ea21dc23c525a4340b0a9]: Commencement: S. 85 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-731e6faf767ea21dc23c525a4340b0a9]: Commencement: S. 85 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-5a518e722f604fd935daa25bccea3836]: Commencement: S. 85 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5a518e722f604fd935daa25bccea3836]: Commencement: S. 85 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-0fcd2e942534537add0eb31098fc564b]: Textual amendment: Words in s. 85(7) substituted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/48) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [11](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/11))
+[^c-0fcd2e942534537add0eb31098fc564b]: Textual amendment: Words in s. 85(7) substituted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/48) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [11](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/11))

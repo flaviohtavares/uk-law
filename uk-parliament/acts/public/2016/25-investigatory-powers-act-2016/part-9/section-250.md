@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250. Power to develop compliance systems etc.[^key-ed1728f98c4a31e4eccbd4625d29b0b7]
+## 250. Power to develop compliance systems etc.[^c-ed1728f98c4a31e4eccbd4625d29b0b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ such apparatus, systems or other facilities or services as the Secretary of Stat
 
 ## Annotations
 
-[^key-ed1728f98c4a31e4eccbd4625d29b0b7]: Commencement: [S. 250](https://www.legislation.gov.uk/ukpga/2016/25/section/250) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/q)
+[^c-ed1728f98c4a31e4eccbd4625d29b0b7]: Commencement: [S. 250](https://www.legislation.gov.uk/ukpga/2016/25/section/250) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/q)

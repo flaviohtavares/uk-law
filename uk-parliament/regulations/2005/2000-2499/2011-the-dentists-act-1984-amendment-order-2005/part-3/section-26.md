@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Repeal of section 34[^key-c54d312b6ed58aac4b9fafae481f9ba4]
+## 26. Repeal of section 34[^c-c54d312b6ed58aac4b9fafae481f9ba4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Section 34 (restoration of name erased under section 27 of the Act) is hereby re
 
 ## Annotations
 
-[^key-c54d312b6ed58aac4b9fafae481f9ba4]: Commencement: Art. 26 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-c54d312b6ed58aac4b9fafae481f9ba4]: Commencement: Art. 26 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

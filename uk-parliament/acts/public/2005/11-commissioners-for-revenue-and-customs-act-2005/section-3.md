@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Declaration of confidentiality[^key-df2837aeb1d81748c935b9f348b3415b]
+## 3. Declaration of confidentiality[^c-df2837aeb1d81748c935b9f348b3415b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df2837aeb1d81748c935b9f348b3415b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2005/11/section/3) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-df2837aeb1d81748c935b9f348b3415b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2005/11/section/3) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)

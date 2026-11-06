@@ -47,15 +47,15 @@ The Secretary of State for Work and Pensions makes the following Regulations in 
 
 These powers are exercisable by the Secretary of State by virtue of Article 4(1)(b) of the Welfare Reform (Northern Ireland) Order 2015[^f00003].
 
-## 1. Citation and commencement[^key-b50823a1bf1e1fbf13a53244b06c2e2e]
+## 1. Citation and commencement[^c-b50823a1bf1e1fbf13a53244b06c2e2e]
 
 (1) These Regulations may be cited as the Housing Benefit (Amendment No. 2) Regulations (Northern Ireland) 2016.
 
 (2) This regulation and regulation 7 come into operation on 14th September 2016.
 
-(3) The remaining provisions of these Regulations come into operation on 20th February 2017[^key-d76574bfb9e74f5c29e35324dc23e3b4] .
+(3) The remaining provisions of these Regulations come into operation on 20th February 2017[^c-d76574bfb9e74f5c29e35324dc23e3b4] .
 
-## 2. Interpretation[^key-864f1a5640896b9c5055f731ee939884]
+## 2. Interpretation[^c-864f1a5640896b9c5055f731ee939884]
 
 (1) In these Regulations—
 
@@ -64,7 +64,7 @@ These powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Amendment of the Housing Benefit Regulations relating to qualifying parents or carers, parents of armed forces personnel who are away from home on operations or who have a child who cannot share a bedroom[^key-8e84dfd16594c4e346e9242197357528]
+## 3. Amendment of the Housing Benefit Regulations relating to qualifying parents or carers, parents of armed forces personnel who are away from home on operations or who have a child who cannot share a bedroom[^c-8e84dfd16594c4e346e9242197357528]
 
 (1) The Housing Benefit Regulations are amended in accordance with paragraphs (2) to (6).
 
@@ -173,7 +173,7 @@ These powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
   .
 
-## 4. Amendment of the Housing Benefit (State Pension Credit) Regulations relating to qualifying parents or carers, parents of armed forces personnel who are away from home on operations or who have a child who cannot share a bedroom[^key-76eaece6694868c6b347c1bce959834d]
+## 4. Amendment of the Housing Benefit (State Pension Credit) Regulations relating to qualifying parents or carers, parents of armed forces personnel who are away from home on operations or who have a child who cannot share a bedroom[^c-76eaece6694868c6b347c1bce959834d]
 
 (1) The Housing Benefit (State Pension Credit) Regulations are amended in accordance with paragraphs (2) to (6).
 
@@ -273,7 +273,7 @@ These powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
   .
 
-## 5. Amendment of the Housing Benefit Regulations relating to the determination of the maximum rent (social sector)[^key-0a85961898b9d6ebe3a829934976a24f]
+## 5. Amendment of the Housing Benefit Regulations relating to the determination of the maximum rent (social sector)[^c-0a85961898b9d6ebe3a829934976a24f]
 
 (1) The Housing Benefit Regulations are amended in accordance with paragraphs (2) to (8).
 
@@ -423,7 +423,7 @@ These powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 (8) In Schedule 3 (excluded tenancies) in paragraph 3 omit sub-paragraph (a).
 
-## 6. Amendment of the Housing Benefit (Consequential Provisions) Regulations relating to the determination of the maximum rent (social sector)[^key-06ddc69d6f8c22a3a35c4d0c6803f47a]
+## 6. Amendment of the Housing Benefit (Consequential Provisions) Regulations relating to the determination of the maximum rent (social sector)[^c-06ddc69d6f8c22a3a35c4d0c6803f47a]
 
 In paragraph 4 of Schedule 3 (transitional and savings provisions) to the Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006[^f00029]—
 
@@ -439,7 +439,7 @@ In paragraph 4 of Schedule 3 (transitional and savings provisions) to the Housin
     ;
 - (b) in sub-paragraph (9) in head (a) of the definition of “eligible rent”[^f00031] after “regulations 13A (eligible rent),” insert “13AA (eligible rent and maximum rent (social sector)),”.
 
-## 7. Revocation[^key-05c6209ddeeaed1d24b804a50243341e]
+## 7. Revocation[^c-05c6209ddeeaed1d24b804a50243341e]
 
 The Housing Benefit (Amendment) Regulations (Northern Ireland) 2016[^f00032] are revoked.
 
@@ -493,11 +493,11 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00003]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006)
 
-[^key-b50823a1bf1e1fbf13a53244b06c2e2e]: Commencement: Reg. 1 in operation at 14.9.2016, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/2)
+[^c-b50823a1bf1e1fbf13a53244b06c2e2e]: Commencement: Reg. 1 in operation at 14.9.2016, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/2)
 
-[^key-d76574bfb9e74f5c29e35324dc23e3b4]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3) substituted (16.1.2017) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/432)](https://www.legislation.gov.uk/nisr/2016/432), [regs. 1](https://www.legislation.gov.uk/nisr/2016/432/regulation/1), [7](https://www.legislation.gov.uk/nisr/2016/432/regulation/7)
+[^c-d76574bfb9e74f5c29e35324dc23e3b4]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3) substituted (16.1.2017) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/432)](https://www.legislation.gov.uk/nisr/2016/432), [regs. 1](https://www.legislation.gov.uk/nisr/2016/432/regulation/1), [7](https://www.legislation.gov.uk/nisr/2016/432/regulation/7)
 
-[^key-864f1a5640896b9c5055f731ee939884]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/326/regulation/2) in operation at 23.1.2017, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3)
+[^c-864f1a5640896b9c5055f731ee939884]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/326/regulation/2) in operation at 23.1.2017, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3)
 
 [^f00004]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending Regulations are [S.R. 2008 No. 101](https://www.legislation.gov.uk/nisr/2008/101), [S.R. 2008 No. 428](https://www.legislation.gov.uk/nisr/2008/428) and [S.R. 2011 No. 51](https://www.legislation.gov.uk/nisr/2011/51)
 
@@ -505,7 +505,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-8e84dfd16594c4e346e9242197357528]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2016/326/regulation/3) in operation at 23.1.2017, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3)
+[^c-8e84dfd16594c4e346e9242197357528]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2016/326/regulation/3) in operation at 23.1.2017, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3)
 
 [^f00007]: Footnote: The definition of “maximum rent (LHA)” was inserted by regulation 2(2)(f) of [S.R. 2008 No. 101](https://www.legislation.gov.uk/nisr/2008/101) and the definition of “qualifying income-related benefit” was amended by regulation 3(2)(a)(x) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378) and the definition of “young individual” was amended by regulation 2(2)(b)(i) and (ii) of [S.R. 2011 No. 51](https://www.legislation.gov.uk/nisr/2011/51) and regulation 2(2)(a)(i) to (ii) of [S.R.2011 No. 293](https://www.legislation.gov.uk/nisr/2011/293)
 
@@ -525,7 +525,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00015]: Footnote: Head (f) was added by regulation 2(8) of [S.R. 2011 No. 51](https://www.legislation.gov.uk/nisr/2011/51)
 
-[^key-76eaece6694868c6b347c1bce959834d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/326/regulation/4) in operation at 23.1.2017, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3)
+[^c-76eaece6694868c6b347c1bce959834d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/326/regulation/4) in operation at 23.1.2017, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3)
 
 [^f00016]: Footnote: The definition of “maximum rent (LHA)” was inserted by regulation 2(2)(f) of [S.R. 2008 No. 102](https://www.legislation.gov.uk/nisr/2008/102) and the definition of “qualifying income-related benefit” was inserted by regulation 3(2)(c) of [S.R. 2008 No. 285](https://www.legislation.gov.uk/nisr/2008/285) and amended by regulation 4(2)(a)(ix) of [S.R. 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378)
 
@@ -545,7 +545,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00024]: Footnote: Head (f) was added by regulation 3(8) of [S.R. 2011 No. 51](https://www.legislation.gov.uk/nisr/2011/51)
 
-[^key-0a85961898b9d6ebe3a829934976a24f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2016/326/regulation/5) in operation at 23.1.2017, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3)
+[^c-0a85961898b9d6ebe3a829934976a24f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2016/326/regulation/5) in operation at 23.1.2017, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3)
 
 [^f00025]: Footnote: The definition of “eligible rent” was substituted by regulation 2(2)(c) of [S.R. 2008 No. 101](https://www.legislation.gov.uk/nisr/2008/101)
 
@@ -555,7 +555,7 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00028]: Footnote: [S.I. 1988 No. 1990 (N.I. 23)](https://www.legislation.gov.uk/nisi/1988/1990)
 
-[^key-06ddc69d6f8c22a3a35c4d0c6803f47a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2016/326/regulation/6) in operation at 23.1.2017, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3)
+[^c-06ddc69d6f8c22a3a35c4d0c6803f47a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2016/326/regulation/6) in operation at 23.1.2017, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/3)
 
 [^f00029]: Footnote: [S.R. 2006 No. 407](https://www.legislation.gov.uk/nisr/2006/407); relevant amending Regulations are [S.R. 2008 No.103](https://www.legislation.gov.uk/nisr/2008/103)
 
@@ -563,6 +563,6 @@ An assessment of the impact of this instrument has been carried out. Copies of t
 
 [^f00031]: Footnote: The definition of “eligible rent” was inserted by regulation 6(a)(ii)(aa) of [S.R. 2008 No. 103](https://www.legislation.gov.uk/nisr/2008/103)
 
-[^key-05c6209ddeeaed1d24b804a50243341e]: Commencement: Reg. 7 in operation at 14.9.2016, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/2)
+[^c-05c6209ddeeaed1d24b804a50243341e]: Commencement: Reg. 7 in operation at 14.9.2016, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/326/regulation/1/2)
 
 [^f00032]: Footnote: [S.R. 2016 No. 258](https://www.legislation.gov.uk/nisr/2016/258)

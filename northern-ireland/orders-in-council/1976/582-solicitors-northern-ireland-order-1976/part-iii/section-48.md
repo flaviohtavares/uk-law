@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Powers of Tribunal on inquiry being held[^key-0af728c1e358067f4d3e1efe928327b0][^c17114361]
+## 48. Powers of Tribunal on inquiry being held[^c-0af728c1e358067f4d3e1efe928327b0][^c17114361]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ the Tribunal may, by certificate signed by any two members thereof, certify such
 
 ## Annotations
 
-[^key-0af728c1e358067f4d3e1efe928327b0]: Modification: [Art. 48](https://www.legislation.gov.uk/nisi/1976/582/article/48) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(y)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/y)
+[^c-0af728c1e358067f4d3e1efe928327b0]: Modification: [Art. 48](https://www.legislation.gov.uk/nisi/1976/582/article/48) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(y)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/y)
 
 [^c17114361]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)

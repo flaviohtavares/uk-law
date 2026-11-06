@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Amendments to the Government of Maintained Schools (Clerk to a Governing Body) (Wales) Regulations 2013[^key-4606f5a3cd1db232e4f04f1502e86b8c]
+## 94. Amendments to the Government of Maintained Schools (Clerk to a Governing Body) (Wales) Regulations 2013[^c-4606f5a3cd1db232e4f04f1502e86b8c]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4606f5a3cd1db232e4f04f1502e86b8c]: Commencement: Reg. 94 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-4606f5a3cd1db232e4f04f1502e86b8c]: Commencement: Reg. 94 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00047]: Footnote: [2013/2127 (W.208)](https://www.legislation.gov.uk/wsi/2013/2127)

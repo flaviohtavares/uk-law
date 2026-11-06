@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39.[^key-ab4517fe16aeb0dd7772d54993c54e2f]
+## 39.[^c-ab4517fe16aeb0dd7772d54993c54e2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In regulation 22 (submission of statements) —
 
 ## Annotations
 
-[^key-ab4517fe16aeb0dd7772d54993c54e2f]: Commencement: Reg. 39 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-ab4517fe16aeb0dd7772d54993c54e2f]: Commencement: Reg. 39 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

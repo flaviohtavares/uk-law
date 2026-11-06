@@ -45,7 +45,7 @@ In accordance with section 37(3) of the 2013 Act, more than 6 weeks have elapsed
 
 The Welsh Ministers make the following Order in exercise of their powers conferred by section 37(1) of the 2013 Act.
 
-## 1. Title, commencement and interpretation[^key-b74f768fabadd80577145e21ed585162][^key-0411e380ae4222750ae2a04162eb74f4]
+## 1. Title, commencement and interpretation[^c-b74f768fabadd80577145e21ed585162][^c-0411e380ae4222750ae2a04162eb74f4]
 
 (1) The title of this Order is the County of the Isle of Anglesey (Electoral Arrangements) Order 2021.
 
@@ -57,9 +57,9 @@ The Welsh Ministers make the following Order in exercise of their powers conferr
 
 - “electoral ward” (“*ward etholiadol*”) means any area for which members are elected to the Isle of Anglesey County Council;
 
-- words and expressions used in this Order have the same meaning as they have in Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013[^key-d6e310dad4c5d34fbae830fba5d0f31f], except so far as a contrary intention appears.
+- words and expressions used in this Order have the same meaning as they have in Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013[^c-d6e310dad4c5d34fbae830fba5d0f31f], except so far as a contrary intention appears.
 
-## 2. Electoral arrangements for the County of the Isle of Anglesey[^key-6993703fd5c468ae978523a4112b3cad][^key-680c7be76a7553179df7388ab24f3433]
+## 2. Electoral arrangements for the County of the Isle of Anglesey[^c-6993703fd5c468ae978523a4112b3cad][^c-680c7be76a7553179df7388ab24f3433]
 
 (1) The electoral wards of the County of the Isle of Anglesey, as they exist immediately before the ordinary day of election of councillors in 2022, are abolished.
 
@@ -77,7 +77,7 @@ Minister for Finance and Local Government, one of the Welsh Ministers
 
 4 October 2021
 
-## SCHEDULE — NAMES AND AREAS OF ELECTORAL WARDS AND NUMBER OF MEMBERS OF THE COUNCIL[^key-23c9557bd3a62780356fb97041c80612][^key-9ef38eddb48052a0c830669deba8e703]
+## SCHEDULE — NAMES AND AREAS OF ELECTORAL WARDS AND NUMBER OF MEMBERS OF THE COUNCIL[^c-23c9557bd3a62780356fb97041c80612][^c-9ef38eddb48052a0c830669deba8e703]
 
 Article 2
 
@@ -124,22 +124,22 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [2013 anaw 4](https://www.legislation.gov.uk/anaw/2013/4).
 
-[^key-b74f768fabadd80577145e21ed585162]: Commencement: Art. 1 in force at 6.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1112/article/1/2)
+[^c-b74f768fabadd80577145e21ed585162]: Commencement: Art. 1 in force at 6.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1112/article/1/2)
 
-[^key-0411e380ae4222750ae2a04162eb74f4]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2021/1112/article/1) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1112/article/1/3)
+[^c-0411e380ae4222750ae2a04162eb74f4]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2021/1112/article/1) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1112/article/1/3)
 
 [^f00003]: Footnote: [S.I. 1976/246](https://www.legislation.gov.uk/uksi/1976/246). Section 74(3) of the 2013 Act provides that these Regulations continue to have effect in relation to orders made under Part 3 of the 2013 Act, as if those orders were made under Part 4 of the 1972 Act.
 
 [^f00004]: Footnote: The Local Authorities (Change to the Years of Ordinary Elections) (Wales) Order 2019 ([S.I. 2019/1269 (W. 220)](https://www.legislation.gov.uk/wsi/2019/1269)) amends section 26(1) of the 1972 Act to provide that the year in which the ordinary elections of councillors of local authorities shall take place is 2022 instead of 2021.
 
-[^key-d6e310dad4c5d34fbae830fba5d0f31f]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1112/article/1/4) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 15](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/15)
+[^c-d6e310dad4c5d34fbae830fba5d0f31f]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1112/article/1/4) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 15](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/15)
 
-[^key-6993703fd5c468ae978523a4112b3cad]: Commencement: Art. 2 in force at 6.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1112/article/1/2)
+[^c-6993703fd5c468ae978523a4112b3cad]: Commencement: Art. 2 in force at 6.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1112/article/1/2)
 
-[^key-680c7be76a7553179df7388ab24f3433]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2021/1112/article/2) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1112/article/1/3)
+[^c-680c7be76a7553179df7388ab24f3433]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2021/1112/article/2) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1112/article/1/3)
 
 [^f00005]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 58 of the 1972 Act was repealed by section 73(2) of, and Schedule 2 to, the 2013 Act, subject to savings provisions specified in section 74 of the 2013 Act.
 
-[^key-23c9557bd3a62780356fb97041c80612]: Commencement: Sch. in force at 6.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1112/article/1/2)
+[^c-23c9557bd3a62780356fb97041c80612]: Commencement: Sch. in force at 6.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1112/article/1/2)
 
-[^key-9ef38eddb48052a0c830669deba8e703]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2021/1112/schedule) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1112/article/1/3)
+[^c-9ef38eddb48052a0c830669deba8e703]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2021/1112/schedule) in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1112/article/1/3)

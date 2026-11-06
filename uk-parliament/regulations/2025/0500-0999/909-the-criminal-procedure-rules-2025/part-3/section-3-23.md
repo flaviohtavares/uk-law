@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.23. Application for preparatory hearing[^key-1c4d9c6315eeb50dc0821bba08fabff1]
+## 3.23. Application for preparatory hearing[^c-1c4d9c6315eeb50dc0821bba08fabff1]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c4d9c6315eeb50dc0821bba08fabff1]: Commencement: [Rule 3.23](https://www.legislation.gov.uk/uksi/2025/909/rule/3.23) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1c4d9c6315eeb50dc0821bba08fabff1]: Commencement: [Rule 3.23](https://www.legislation.gov.uk/uksi/2025/909/rule/3.23) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

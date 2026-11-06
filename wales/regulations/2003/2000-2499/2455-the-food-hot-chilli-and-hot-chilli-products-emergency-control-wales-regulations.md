@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Wales) Regulations 2003 (revoked)[^key-32a7941dbb8874ca04443589249a9972]
+The Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Wales) Regulations 2003 (revoked)[^c-32a7941dbb8874ca04443589249a9972]
 
 Made
 
@@ -41,40 +41,40 @@ Coming into force
 
 25th September 2003
 
-[^key-32a7941dbb8874ca04443589249a9972]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32a7941dbb8874ca04443589249a9972]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-32a7941dbb8874ca04443589249a9972]
+## 1. Title, commencement and application[^c-32a7941dbb8874ca04443589249a9972]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-32a7941dbb8874ca04443589249a9972]
+## 2. Interpretation[^c-32a7941dbb8874ca04443589249a9972]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on import[^key-32a7941dbb8874ca04443589249a9972]
+## 3. Prohibition on import[^c-32a7941dbb8874ca04443589249a9972]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-32a7941dbb8874ca04443589249a9972]
+## 4. Enforcement[^c-32a7941dbb8874ca04443589249a9972]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Food Safety Act 1990 and sampling and analysis[^key-32a7941dbb8874ca04443589249a9972]
+## 5. Application of various provisions of the Food Safety Act 1990 and sampling and analysis[^c-32a7941dbb8874ca04443589249a9972]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Destruction of illegal imports[^key-32a7941dbb8874ca04443589249a9972]
+## 6. Destruction of illegal imports[^c-32a7941dbb8874ca04443589249a9972]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-32a7941dbb8874ca04443589249a9972]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32a7941dbb8874ca04443589249a9972]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-32a7941dbb8874ca04443589249a9972]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32a7941dbb8874ca04443589249a9972]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-32a7941dbb8874ca04443589249a9972]: Textual amendment: Regulations revoked (10.6.2005) by [The Food (Chilli, Chilli Products, Curcuma and Palm Oil) (Emergency Control) (Wales) Regulations 2005 (S.I. 2005/1540)](https://www.legislation.gov.uk/uksi/2005/1540), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1540/regulation/1), [7](https://www.legislation.gov.uk/uksi/2005/1540/regulation/7)
+[^c-32a7941dbb8874ca04443589249a9972]: Textual amendment: Regulations revoked (10.6.2005) by [The Food (Chilli, Chilli Products, Curcuma and Palm Oil) (Emergency Control) (Wales) Regulations 2005 (S.I. 2005/1540)](https://www.legislation.gov.uk/uksi/2005/1540), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1540/regulation/1), [7](https://www.legislation.gov.uk/uksi/2005/1540/regulation/7)

@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S*
 
-(A1)[^key-353797768db61bd0beb881df546a5755] A stopping officer may direct the driver of a vehicle to stop the vehicle for the purpose of it being weighed under section 78 if the vehicle appears to the officer to be one to which subsection (A2) could apply.
+(A1)[^c-353797768db61bd0beb881df546a5755] A stopping officer may direct the driver of a vehicle to stop the vehicle for the purpose of it being weighed under section 78 if the vehicle appears to the officer to be one to which subsection (A2) could apply.
 
 (A2) This subsection applies to—
 
 - (a) motor vehicles in categories M<sub>2</sub> and M<sub>3</sub> and their trailers in category O;
 - (b) motor vehicles in categories N<sub>2</sub> and N<sub>3</sub> and their trailers in categories O<sub>3</sub> and O<sub>4</sub>,
 
-as defined in Article 4 of the road vehicles type approval Regulation[^key-d5be699c5c0a92a1449ad8d51e9222dd].
+as defined in Article 4 of the road vehicles type approval Regulation[^c-d5be699c5c0a92a1449ad8d51e9222dd].
 
 (1) Where a motor vehicle or trailer is weighed under section 78 of this Act, a certificate of weight must be given to the person in charge of the vehicle, and the certificate so given shall exempt the motor vehicle and the trailer, if any, from being weighed so long as it is during the continuance of the same journey carrying the same load.
 
@@ -59,15 +59,15 @@ shall be evidence (in Scotland, sufficient evidence) of the matter so stated.
 
 neither he nor any person complying with such a requirement shall be liable for any damage to or loss in respect of the vehicle or its load or the trailer or its load unless it is shown that he acted without reasonable care.
 
-(6)[^key-e4e0f097456a93f68b6bcf54da0d1cae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e4e0f097456a93f68b6bcf54da0d1cae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c13977311]: Modification: S. 79 restricted (1.7.1992) by [S.I. 1992/1217](https://www.legislation.gov.uk/uksi/1992/1217), [regs. 7](https://www.legislation.gov.uk/uksi/1992/1217/regulation/7), [9](https://www.legislation.gov.uk/uksi/1992/1217/regulation/9) (with [reg. 11](https://www.legislation.gov.uk/uksi/1992/1217/part/IV))
 
-[^key-353797768db61bd0beb881df546a5755]: Textual amendment: S. 79(A1)(A2) inserted (30.3.2011) by [The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996)](https://www.legislation.gov.uk/uksi/2011/996), [regs. 1](https://www.legislation.gov.uk/uksi/2011/996/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2011/996/regulation/2/4/a)
+[^c-353797768db61bd0beb881df546a5755]: Textual amendment: S. 79(A1)(A2) inserted (30.3.2011) by [The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996)](https://www.legislation.gov.uk/uksi/2011/996), [regs. 1](https://www.legislation.gov.uk/uksi/2011/996/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2011/996/regulation/2/4/a)
 
-[^key-d5be699c5c0a92a1449ad8d51e9222dd]: Textual amendment: Words in s. 79(A2) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/2/3/a) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-d5be699c5c0a92a1449ad8d51e9222dd]: Textual amendment: Words in s. 79(A2) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/2/3/a) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
 [^c13977321]: Textual amendment: S. 79(2)(a) repealed (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 83](https://www.legislation.gov.uk/ukpga/1991/40/section/83), [Sch. 8](https://www.legislation.gov.uk/ukpga/1991/40/schedule/8); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 
@@ -77,4 +77,4 @@ neither he nor any person complying with such a requirement shall be liable for 
 
 [^c13977361]: Textual amendment: Word in s. 79(3) substituted (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 48](https://www.legislation.gov.uk/ukpga/1991/40/section/48), [Sch. 4 para. 59(3)(b)](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4/paragraph/59/3/b); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 
-[^key-e4e0f097456a93f68b6bcf54da0d1cae]: Textual amendment: S. 79(6) omitted (1.9.2020) by virtue of [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/2/3/b) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-e4e0f097456a93f68b6bcf54da0d1cae]: Textual amendment: S. 79(6) omitted (1.9.2020) by virtue of [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/2/3/b) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))

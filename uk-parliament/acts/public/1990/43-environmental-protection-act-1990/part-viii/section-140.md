@@ -46,17 +46,17 @@ of any specified substance or article if he considers it appropriate to do so fo
 
 (4) The Secretary of State may, by regulations under this section, direct that, for the purposes of any power conferred on him under subsection (3)(b) above, any prohibition or restriction on the importation into or the landing and unloading in the United Kingdom imposed—
 
-- (a)[^key-c10e34f88e9d2edff3c4262439814354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c10e34f88e9d2edff3c4262439814354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) by or under any enactment,
 
 shall be treated as imposed under subsection (1)(a) above and any power conferred on him under subsection (3)(b) above shall be exercisable accordingly.
 
-(5)[^key-0a438090dcd80e7337b00ceafa846731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0a438090dcd80e7337b00ceafa846731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Subject to subsection (7) below, it shall be the duty of the Secretary of State before he makes any regulations under this section other than regulations under subsection (4) above—
 
-- (a)[^key-3cb30fd408c7f338691be0a19b085917] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) [^key-15933c1ace5cabdd183874c2ede30c71]... to publish in the London Gazette and, if the regulations apply in Scotland or Northern Ireland, the Edinburgh Gazette or, as the case may be, Belfast Gazette and in any other publication which he considers appropriate, a notice indicating the effect of the proposed regulations and specifying—
+- (a)[^c-3cb30fd408c7f338691be0a19b085917] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) [^c-15933c1ace5cabdd183874c2ede30c71]... to publish in the London Gazette and, if the regulations apply in Scotland or Northern Ireland, the Edinburgh Gazette or, as the case may be, Belfast Gazette and in any other publication which he considers appropriate, a notice indicating the effect of the proposed regulations and specifying—
   - (i) the date on which it is proposed that the regulations will come into force;
   - (ii) a place where a draft of the proposed regulations may be inspected free of charge by members of the public during office hours; and
   - (iii) a period of not less than fourteen days, beginning with the date on which the notice is first published, during which representations in writing may be made to the Secretary of State about the proposed regulations; and
@@ -73,12 +73,12 @@ but the Secretary of State shall not make any regulations incorporating modifica
 
 (9) Regulations under this section may provide that a person who contravenes or fails to comply with a specified provision of the regulations or causes or permits another person to contravene or fail to comply with a specified provision of the regulations commits an offence and may prescribe the maximum penalty for the offence.
 
-(10) No offence under the regulations shall be made punishable with imprisonment for more than two years or punishable on summary conviction with a fine exceeding level 5 on the standard scale (if not calculated on a daily basis) or, in the case of a continuing offence, exceeding one-tenth of the level on the standard scale specified as the maximum penalty for the original offence. *(Extent: E+W)* *(affected by repeal, see note)*[^key-7ca7a44a2be4dd036d1b0f1cab2bbb70] — *(Extent: E+W)*
+(10) No offence under the regulations shall be made punishable with imprisonment for more than two years or punishable on summary conviction with a fine exceeding level 5 on the standard scale (if not calculated on a daily basis) or, in the case of a continuing offence, exceeding one-tenth of the level on the standard scale specified as the maximum penalty for the original offence. *(Extent: E+W)* *(affected by repeal, see note)*[^c-7ca7a44a2be4dd036d1b0f1cab2bbb70] — *(Extent: E+W)*
 
 - (a (Extent: E+W)) exceeding one-tenth of the level on the standard scale specified as the maximum penalty for the original offence, or *(Extent: E+W)*
 - (b (Extent: E+W)) if there is no maximum penalty for the original offence, exceeding one-tenth of the greater of £5,000 or level 4 on the standard scale. *(Extent: E+W)*
 
-(10A)[^key-a7b0ef291de0102abd3c5c941fad9aeb] Regulations under this section may provide for an enforcement officer to give to a person whom the enforcement officer has reason to believe has committed an offence under the regulations a notice offering the opportunity of discharging any liability to conviction for the offence by payment of a fixed penalty not exceeding level 3 on the standard scale.
+(10A)[^c-a7b0ef291de0102abd3c5c941fad9aeb] Regulations under this section may provide for an enforcement officer to give to a person whom the enforcement officer has reason to believe has committed an offence under the regulations a notice offering the opportunity of discharging any liability to conviction for the offence by payment of a fixed penalty not exceeding level 3 on the standard scale.
 
 (10B) In subsection (10A), an “**enforcement officer**” means a person referred to in subsection (3)(c).
 
@@ -99,7 +99,7 @@ but the Secretary of State shall not make any regulations incorporating modifica
 
 (11) In this section—
 
-- “ *(Extent: S)*[^key-3a25af9d04dbb5f9ccd68deca38982b4]**enactment *(Extent: S)***” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament; *(Extent: S)*
+- “ *(Extent: S)*[^c-3a25af9d04dbb5f9ccd68deca38982b4]**enactment *(Extent: S)***” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament; *(Extent: S)*
 - “**the environment**” means the air, water and land, or any of those media, and the medium of air includes the air within buildings and the air within other natural or man-made structures above or below ground;
 - “**specified**” means specified in the regulations; and
 - “**substance**” means any natural or artificial substance, whether in solid or liquid form or in the form of a gas or vapour and it includes mixtures of substances.
@@ -110,16 +110,16 @@ but the Secretary of State shall not make any regulations incorporating modifica
 
 [^c13747931]: Textual amendment: Words in s. 140(3)(c) substituted (E.W.S.) (6.5.1999) by [S.I. 1999/1108](https://www.legislation.gov.uk/uksi/1999/1108), [reg. 2](https://www.legislation.gov.uk/uksi/1999/1108/regulation/2)
 
-[^key-c10e34f88e9d2edff3c4262439814354]: Textual amendment: [S. 140(4)(a)](https://www.legislation.gov.uk/ukpga/1990/43/section/140/4/a) omitted (31.12.2020) by virtue of [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2019/458/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c10e34f88e9d2edff3c4262439814354]: Textual amendment: [S. 140(4)(a)](https://www.legislation.gov.uk/ukpga/1990/43/section/140/4/a) omitted (31.12.2020) by virtue of [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2019/458/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0a438090dcd80e7337b00ceafa846731]: Textual amendment: S. 140(5) repealed (22.7.2012) by [The Advisory Committee on Hazardous Substances (Abolition) Order 2012 (S.I. 2012/1923)](https://www.legislation.gov.uk/uksi/2012/1923), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1923/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/1923/schedule)
+[^c-0a438090dcd80e7337b00ceafa846731]: Textual amendment: S. 140(5) repealed (22.7.2012) by [The Advisory Committee on Hazardous Substances (Abolition) Order 2012 (S.I. 2012/1923)](https://www.legislation.gov.uk/uksi/2012/1923), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1923/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/1923/schedule)
 
-[^key-3cb30fd408c7f338691be0a19b085917]: Textual amendment: S. 140(6)(a) repealed (22.7.2012) by [The Advisory Committee on Hazardous Substances (Abolition) Order 2012 (S.I. 2012/1923)](https://www.legislation.gov.uk/uksi/2012/1923), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1923/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/1923/schedule)
+[^c-3cb30fd408c7f338691be0a19b085917]: Textual amendment: S. 140(6)(a) repealed (22.7.2012) by [The Advisory Committee on Hazardous Substances (Abolition) Order 2012 (S.I. 2012/1923)](https://www.legislation.gov.uk/uksi/2012/1923), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1923/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/1923/schedule)
 
-[^key-15933c1ace5cabdd183874c2ede30c71]: Textual amendment: Words in s. 140(6)(b) repealed (22.7.2012) by [The Advisory Committee on Hazardous Substances (Abolition) Order 2012 (S.I. 2012/1923)](https://www.legislation.gov.uk/uksi/2012/1923), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1923/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/1923/schedule)
+[^c-15933c1ace5cabdd183874c2ede30c71]: Textual amendment: Words in s. 140(6)(b) repealed (22.7.2012) by [The Advisory Committee on Hazardous Substances (Abolition) Order 2012 (S.I. 2012/1923)](https://www.legislation.gov.uk/uksi/2012/1923), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1923/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/1923/schedule)
 
-[^key-7ca7a44a2be4dd036d1b0f1cab2bbb70]: Textual amendment: Words in s. 140(10) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 16(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/16/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-7ca7a44a2be4dd036d1b0f1cab2bbb70]: Textual amendment: Words in s. 140(10) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 16(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/16/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-a7b0ef291de0102abd3c5c941fad9aeb]: Textual amendment: [S. 140(10A)-(10D)](https://www.legislation.gov.uk/ukpga/1990/43/section/140/10A) inserted (S.) (4.2.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 21(2)](https://www.legislation.gov.uk/asp/2024/13/section/21/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 2](https://www.legislation.gov.uk/ssi/2025/10/regulation/2)
+[^c-a7b0ef291de0102abd3c5c941fad9aeb]: Textual amendment: [S. 140(10A)-(10D)](https://www.legislation.gov.uk/ukpga/1990/43/section/140/10A) inserted (S.) (4.2.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 21(2)](https://www.legislation.gov.uk/asp/2024/13/section/21/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 2](https://www.legislation.gov.uk/ssi/2025/10/regulation/2)
 
-[^key-3a25af9d04dbb5f9ccd68deca38982b4]: Textual amendment: Words in s. 140(11) inserted (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 40(9)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/40/9); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-3a25af9d04dbb5f9ccd68deca38982b4]: Textual amendment: Words in s. 140(11) inserted (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 40(9)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/40/9); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

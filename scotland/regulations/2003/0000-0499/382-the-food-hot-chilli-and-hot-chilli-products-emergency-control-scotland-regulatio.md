@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Scotland) Regulations 2003 (revoked)[^key-eb54883c425df3efd4a1a0ea3ce3f61f]
+The Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (Scotland) Regulations 2003 (revoked)[^c-eb54883c425df3efd4a1a0ea3ce3f61f]
 
 Made
 
@@ -45,48 +45,48 @@ Coming into force
 
 9th August 2003
 
-[^key-eb54883c425df3efd4a1a0ea3ce3f61f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb54883c425df3efd4a1a0ea3ce3f61f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-eb54883c425df3efd4a1a0ea3ce3f61f]
+## 1. Citation, commencement and extent[^c-eb54883c425df3efd4a1a0ea3ce3f61f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-eb54883c425df3efd4a1a0ea3ce3f61f]
+## 2. Interpretation[^c-eb54883c425df3efd4a1a0ea3ce3f61f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on import[^key-eb54883c425df3efd4a1a0ea3ce3f61f]
+## 3. Prohibition on import[^c-eb54883c425df3efd4a1a0ea3ce3f61f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition on placing on the market[^key-eb54883c425df3efd4a1a0ea3ce3f61f]
+## 4. Prohibition on placing on the market[^c-eb54883c425df3efd4a1a0ea3ce3f61f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Enforcement[^key-eb54883c425df3efd4a1a0ea3ce3f61f]
+## 5. Enforcement[^c-eb54883c425df3efd4a1a0ea3ce3f61f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of various provisions of the Food Safety Act 1990 and sampling and analysis[^key-eb54883c425df3efd4a1a0ea3ce3f61f]
+## 6. Application of various provisions of the Food Safety Act 1990 and sampling and analysis[^c-eb54883c425df3efd4a1a0ea3ce3f61f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Destruction of illegal hot chilli or hot chilli products[^key-eb54883c425df3efd4a1a0ea3ce3f61f]
+## 7. Destruction of illegal hot chilli or hot chilli products[^c-eb54883c425df3efd4a1a0ea3ce3f61f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Costs of analysis, storage and destruction[^key-eb54883c425df3efd4a1a0ea3ce3f61f]
+## 8. Costs of analysis, storage and destruction[^c-eb54883c425df3efd4a1a0ea3ce3f61f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eb54883c425df3efd4a1a0ea3ce3f61f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb54883c425df3efd4a1a0ea3ce3f61f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-eb54883c425df3efd4a1a0ea3ce3f61f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb54883c425df3efd4a1a0ea3ce3f61f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eb54883c425df3efd4a1a0ea3ce3f61f]: Textual amendment: Regulations revoked (14.2.2004) by [The Food (Chilli and Chilli Products) (Emergency Control) (Scotland) Regulations 2004 (S.S.I. 2004/56)](https://www.legislation.gov.uk/ssi/2004/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/56/regulation/1), [9](https://www.legislation.gov.uk/ssi/2004/56/regulation/9)
+[^c-eb54883c425df3efd4a1a0ea3ce3f61f]: Textual amendment: Regulations revoked (14.2.2004) by [The Food (Chilli and Chilli Products) (Emergency Control) (Scotland) Regulations 2004 (S.S.I. 2004/56)](https://www.legislation.gov.uk/ssi/2004/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/56/regulation/1), [9](https://www.legislation.gov.uk/ssi/2004/56/regulation/9)

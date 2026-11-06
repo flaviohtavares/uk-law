@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 236. Power of the Welsh Ministers to make tree preservation orders and woodland preservation orders[^key-a06c0a19a3ac09540b820de5f5f02377]
+## 236. Power of the Welsh Ministers to make tree preservation orders and woodland preservation orders[^c-a06c0a19a3ac09540b820de5f5f02377]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a06c0a19a3ac09540b820de5f5f02377]: Commencement: S. 236 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a06c0a19a3ac09540b820de5f5f02377]: Commencement: S. 236 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

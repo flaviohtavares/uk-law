@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Interpretation of Part III[^key-f8421f367ccec4cfee4b0899e555aedb]
+## 40. Interpretation of Part III[^c-f8421f367ccec4cfee4b0899e555aedb]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8421f367ccec4cfee4b0899e555aedb]: Commencement: Reg. 40 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-f8421f367ccec4cfee4b0899e555aedb]: Commencement: Reg. 40 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)

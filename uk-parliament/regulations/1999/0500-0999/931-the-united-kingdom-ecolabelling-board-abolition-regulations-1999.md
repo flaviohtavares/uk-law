@@ -45,43 +45,43 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of subsection (2) of section 2 of the European Communities Act 1972[^f00002] in relation to the operation of a Community eco-label award scheme, in exercise of the powers conferred on him by that subsection and of all other powers enabling him in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-450af618858cd778a5ab3562139ec389]
+## 1. Citation and commencement[^c-450af618858cd778a5ab3562139ec389]
 
 These Regulations may be cited as the United Kingdom Ecolabelling Board (Abolition) Regulations 1999 and shall come into force on 19th April 1999.
 
-## 2. Interpretation[^key-f148cd980821e70763c30ad5acaf878f]
+## 2. Interpretation[^c-f148cd980821e70763c30ad5acaf878f]
 
 In these Regulations “the Board” means the body corporate established by regulation 2(1) of the United Kingdom Ecolabelling Board Regulations 1992[^f00003].
 
-## 3. Abolition of the Board[^key-9206acdf06f7e7cca8cdea52859f685e]
+## 3. Abolition of the Board[^c-9206acdf06f7e7cca8cdea52859f685e]
 
 The Board is hereby abolished.
 
-## 4. Designation of the Secretary of State as competent body[^key-f115dc020949336fc806ad88b1bd37e4]
+## 4. Designation of the Secretary of State as competent body[^c-f115dc020949336fc806ad88b1bd37e4]
 
 The Secretary of State shall be the body in the United Kingdom responsible for carrying out the tasks of the competent body provided for in Council Regulation [(EEC) No. 880/92](https://www.legislation.gov.uk/european/regulation/1992/0880)[^f00004].
 
-## 5. Transfer of property, rights and liabilities[^key-869f5dde710074b3936749ae7c9704f6]
+## 5. Transfer of property, rights and liabilities[^c-869f5dde710074b3936749ae7c9704f6]
 
 All the property, rights and liabilities to which the Board is entitled or subject immediately before the date on which these Regulations come into force are transferred on that date to the Secretary of State for the Environment, Transport and the Regions.
 
-## 6. Provision for continuity in exercise of functions[^key-3c8580ee76b3038d2834d746939a8f56]
+## 6. Provision for continuity in exercise of functions[^c-3c8580ee76b3038d2834d746939a8f56]
 
 Anything duly done by, or any request or decision duly made by, the Board is deemed to have been duly done by, or made by, the Secretary of State.
 
-## 7. Investigation of complaints by Parliamentary Commissioner for Administration[^key-108027c79c34996c473101dae8f77c3c]
+## 7. Investigation of complaints by Parliamentary Commissioner for Administration[^c-108027c79c34996c473101dae8f77c3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Superannuation Act 1972[^key-9af4f5170a7d1117045ee54cdd2b7f97]
+## 8. Superannuation Act 1972[^c-9af4f5170a7d1117045ee54cdd2b7f97]
 
 In Schedule 1 to the Superannuation Act 1972[^f00006] (bodies whose employees etc. may be covered by superannuation schemes), under the heading “Other bodies” the entry “United Kingdom Ecolabelling Board” is omitted.
 
-## 9. Income and Corporation Taxes Act 1988[^key-f83cacc0915fd7a72dbdf481905ca32c]
+## 9. Income and Corporation Taxes Act 1988[^c-f83cacc0915fd7a72dbdf481905ca32c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Revocation of the United Kingdom Ecolabelling Board Regulations 1992[^key-65299f4abff758e11acde61c9b70bb2d]
+## 10. Revocation of the United Kingdom Ecolabelling Board Regulations 1992[^c-65299f4abff758e11acde61c9b70bb2d]
 
 The United Kingdom Ecolabelling Board Regulations 1992 are hereby revoked.
 
@@ -105,28 +105,28 @@ These Regulations abolish the United Kingdom Ecolabelling Board, which was the c
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-450af618858cd778a5ab3562139ec389]: Commencement: Reg. 1 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)
+[^c-450af618858cd778a5ab3562139ec389]: Commencement: Reg. 1 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)
 
-[^key-f148cd980821e70763c30ad5acaf878f]: Commencement: Reg. 2 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)
+[^c-f148cd980821e70763c30ad5acaf878f]: Commencement: Reg. 2 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)
 
 [^f00003]: Footnote: S.I. [1992/2383](https://www.legislation.gov.uk/uksi/1992/2383).
 
-[^key-9206acdf06f7e7cca8cdea52859f685e]: Commencement: Reg. 3 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)
+[^c-9206acdf06f7e7cca8cdea52859f685e]: Commencement: Reg. 3 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)
 
-[^key-f115dc020949336fc806ad88b1bd37e4]: Commencement: Reg. 4 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)
+[^c-f115dc020949336fc806ad88b1bd37e4]: Commencement: Reg. 4 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)
 
 [^f00004]: Footnote: OJ No. L99, 11.4.92, p. 1.
 
-[^key-869f5dde710074b3936749ae7c9704f6]: Commencement: Reg. 5 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)
+[^c-869f5dde710074b3936749ae7c9704f6]: Commencement: Reg. 5 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)
 
-[^key-3c8580ee76b3038d2834d746939a8f56]: Commencement: Reg. 6 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)
+[^c-3c8580ee76b3038d2834d746939a8f56]: Commencement: Reg. 6 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)
 
-[^key-108027c79c34996c473101dae8f77c3c]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1999/931/regulation/7) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-108027c79c34996c473101dae8f77c3c]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1999/931/regulation/7) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-9af4f5170a7d1117045ee54cdd2b7f97]: Commencement: Reg. 8 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)
+[^c-9af4f5170a7d1117045ee54cdd2b7f97]: Commencement: Reg. 8 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)
 
 [^f00006]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11). The relevant amending instrument is S.I. [1992/2383](https://www.legislation.gov.uk/uksi/1992/2383).
 
-[^key-f83cacc0915fd7a72dbdf481905ca32c]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1999/931/regulation/9) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-f83cacc0915fd7a72dbdf481905ca32c]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1999/931/regulation/9) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-65299f4abff758e11acde61c9b70bb2d]: Commencement: Reg. 10 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)
+[^c-65299f4abff758e11acde61c9b70bb2d]: Commencement: Reg. 10 in force at 19.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/931/regulation/1)

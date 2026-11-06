@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20B. Unsatisfactory professional conduct: powers of Tribunal on appeal[^key-20032209f23b306c42816667dddedfe0]
+## 20B. Unsatisfactory professional conduct: powers of Tribunal on appeal[^c-20032209f23b306c42816667dddedfe0]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20032209f23b306c42816667dddedfe0]: Textual amendment: [Ss. 20B-20E](https://www.legislation.gov.uk/ukpga/1990/40/section/20B) inserted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [ss. 54(3)](https://www.legislation.gov.uk/asp/2007/5/section/54/3), [82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(c)](https://www.legislation.gov.uk/ssi/2008/311/article/2/c)
+[^c-20032209f23b306c42816667dddedfe0]: Textual amendment: [Ss. 20B-20E](https://www.legislation.gov.uk/ukpga/1990/40/section/20B) inserted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [ss. 54(3)](https://www.legislation.gov.uk/asp/2007/5/section/54/3), [82(2)](https://www.legislation.gov.uk/asp/2007/5/section/82/2) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2(c)](https://www.legislation.gov.uk/ssi/2008/311/article/2/c)

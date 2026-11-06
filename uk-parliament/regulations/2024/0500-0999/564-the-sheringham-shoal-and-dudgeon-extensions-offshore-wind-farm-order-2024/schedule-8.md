@@ -22,11 +22,11 @@ summary: ''
 
 Article 19
 
-### 1. Compensation enactments[^key-d0cbc60a5f75690b8ae7293f528b120b]
+### 1. Compensation enactments[^c-d0cbc60a5f75690b8ae7293f528b120b]
 
 The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right or the imposition of a restrictive covenant as they apply as respects compensation for the compulsory purchase of land and interests in land.
 
-### 2.[^key-03671c93fae903841818332a03940dd9]
+### 2.[^c-03671c93fae903841818332a03940dd9]
 
 (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph ‎(2).
 
@@ -40,7 +40,7 @@ The enactments for the time being in force with respect to compensation for the 
 >
 > the authority is deemed for the purposes of subsection (3)(a) to have entered on that land when it entered on that land for the purpose of exercising that right.
 
-### 3.[^key-662fbd7a7a157338965d75ab16ce656c]
+### 3.[^c-662fbd7a7a157338965d75ab16ce656c]
 
 (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00046] has effect subject to the modifications set out in sub-paragraph ‎2(2).
 
@@ -49,14 +49,14 @@ The enactments for the time being in force with respect to compensation for the 
 - (a) for “land is acquired or taken from” substitute “a right or restrictive covenant over land is purchased from or imposed on”; and
 - (b) for “acquired or taken from him” substitute “over which the right is exercisable or the restrictive covenant enforceable”.
 
-### 4. Application of Part 1 of the 1965 Act[^key-abeabf9f7c079e26efbaf3603f3d5197]
+### 4. Application of Part 1 of the 1965 Act[^c-abeabf9f7c079e26efbaf3603f3d5197]
 
 Part 1 of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 23 (modification of Part 1 of the 1965 Act)) to the acquisition of land under article 17 (compulsory acquisition of land), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restrictive covenant, under article 19 (compulsory acquisition of rights)—
 
 - (a) with the modifications specified in paragraph 5; and
 - (b) with such other modifications as may be necessary.
 
-### 5.[^key-b6437a0a38e604cbc6d84672546cf733]
+### 5.[^c-b6437a0a38e604cbc6d84672546cf733]
 
 (1) The modifications referred to in paragraph ‎4(a) are as follows.
 
@@ -92,7 +92,7 @@ with such an interest as is actually caused, or likely to be caused, by the exer
 >
 > **1. Introduction**
 >
-> (1) This Schedule applies where an acquiring authority serves a notice to treat in respect of a right over, or a restrictive covenant affecting, the whole or part of a house, building or factory and has not executed a general vesting declaration under section 4 of the Acquisition of Land Act 1981 as applied by article 21[^key-e55f5d953475c52b42875fa495920e00] (application of the 1981 Act) of the Dudgeon and Sheringham Shoal Extensions Offshore Wind Farm Development Consent Order 2024 in respect of the land to which the notice to treat relates.
+> (1) This Schedule applies where an acquiring authority serves a notice to treat in respect of a right over, or a restrictive covenant affecting, the whole or part of a house, building or factory and has not executed a general vesting declaration under section 4 of the Acquisition of Land Act 1981 as applied by article 21[^c-e55f5d953475c52b42875fa495920e00] (application of the 1981 Act) of the Dudgeon and Sheringham Shoal Extensions Offshore Wind Farm Development Consent Order 2024 in respect of the land to which the notice to treat relates.
 >
 > (2) But see article 22(4) (acquisition of subsoil or airspace only) of the Dudgeon and Sheringham Shoal Extensions Offshore Wind Farm Development Consent Order 2024 which excludes the acquisition of subsoil or airspace only from this Schedule.
 >
@@ -145,16 +145,16 @@ with such an interest as is actually caused, or likely to be caused, by the exer
 
 ## Annotations
 
-[^key-d0cbc60a5f75690b8ae7293f528b120b]: Commencement: Sch. 8 para. 1 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-d0cbc60a5f75690b8ae7293f528b120b]: Commencement: Sch. 8 para. 1 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-03671c93fae903841818332a03940dd9]: Commencement: Sch. 8 para. 2 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-03671c93fae903841818332a03940dd9]: Commencement: Sch. 8 para. 2 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-662fbd7a7a157338965d75ab16ce656c]: Commencement: Sch. 8 para. 3 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-662fbd7a7a157338965d75ab16ce656c]: Commencement: Sch. 8 para. 3 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
 [^f00046]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-abeabf9f7c079e26efbaf3603f3d5197]: Commencement: Sch. 8 para. 4 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-abeabf9f7c079e26efbaf3603f3d5197]: Commencement: Sch. 8 para. 4 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-b6437a0a38e604cbc6d84672546cf733]: Commencement: Sch. 8 para. 5 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-b6437a0a38e604cbc6d84672546cf733]: Commencement: Sch. 8 para. 5 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-e55f5d953475c52b42875fa495920e00]: Textual amendment: Words in [Sch. 8 para. 5(8)](https://www.legislation.gov.uk/uksi/2024/564/schedule/8/paragraph/5/8) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-e55f5d953475c52b42875fa495920e00]: Textual amendment: Words in [Sch. 8 para. 5(8)](https://www.legislation.gov.uk/uksi/2024/564/schedule/8/paragraph/5/8) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table

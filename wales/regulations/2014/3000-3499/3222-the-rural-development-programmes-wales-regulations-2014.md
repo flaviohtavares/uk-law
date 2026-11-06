@@ -49,21 +49,21 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 The Welsh Ministers make these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to the European Communities Act 1972[^f00003].
 
-## 1. Title, commencement and application[^key-d4a9e083b266c91353dc157dccc9187f]
+## 1. Title, commencement and application[^c-d4a9e083b266c91353dc157dccc9187f]
 
 (1) The title of these Regulations is the Rural Development Programmes (Wales) Regulations 2014.
 
 (2) These Regulations come into force on 1 January 2015 and apply in relation to Wales.
 
-## 2. Interpretation[^key-4e32d32f01ecc30af4afbc4b1823b499]
+## 2. Interpretation[^c-4e32d32f01ecc30af4afbc4b1823b499]
 
 (1) In these Regulations, unless the context requires otherwise—
 
-- “approved operation” (“*gweithrediad a gymeradwywyd*”) means an operation which the Welsh Ministers have approved in writing for the receipt of financial assistance, and “approve” (“*cymeradwyo*”) and “approval” (“*cymeradwyaeth*”) are to be construed accordingly (see paragraph (3))[^key-f38ee54a4e7efd85a3c629a0f7d6e2cd];
-- “authorised person” (“*person awdurdodedig*”) means a person authorised by the Welsh Ministers for the purposes of these Regulations[^key-2b54eec104b8328876c6424ae66ee452]...;
+- “approved operation” (“*gweithrediad a gymeradwywyd*”) means an operation which the Welsh Ministers have approved in writing for the receipt of financial assistance, and “approve” (“*cymeradwyo*”) and “approval” (“*cymeradwyaeth*”) are to be construed accordingly (see paragraph (3))[^c-f38ee54a4e7efd85a3c629a0f7d6e2cd];
+- “authorised person” (“*person awdurdodedig*”) means a person authorised by the Welsh Ministers for the purposes of these Regulations[^c-2b54eec104b8328876c6424ae66ee452]...;
 - “beneficiary” (“*buddiolwr*”) means a person who has been granted financial assistance or a person who has taken over the commitments of such a person;
-- [^key-6f7d8bb7e28b4fce08ac136ca33f4926]...
-- [^key-e444de2bea2f8cb69c9d910c28a8d25d]...
+- [^c-6f7d8bb7e28b4fce08ac136ca33f4926]...
+- [^c-e444de2bea2f8cb69c9d910c28a8d25d]...
 - “the EU legislation” (“*deddfwriaeth yr UE*”) means the instruments listed in the Schedule;
 - “financial assistance” (“*cymorth ariannol*”) means an amount paid or payable under these Regulations;
 - “operation” (“*gweithrediad*”) has the meaning given to it in Regulation (EU) No 1303/2013 of the European Parliament and of the Council of 17 December 2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation [(EC) No 1083/2006](https://www.legislation.gov.uk/european/regulation/2006/1083)[^f00004];
@@ -71,9 +71,9 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 (2) Any reference in these Regulations to an EU instrument is a reference to that instrument as amended from time to time.
 
-(3)[^key-a640c43c5eebdaf937e7b1bbe75802e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a640c43c5eebdaf937e7b1bbe75802e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Financial assistance[^key-0c5a4f639966ab9ddb8db564a8c937ba]
+## 3. Financial assistance[^c-0c5a4f639966ab9ddb8db564a8c937ba]
 
 (1) The Welsh Ministers may pay financial assistance to a beneficiary in connection with an approved operation.
 
@@ -82,7 +82,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 - (a) at such a time, or by such instalments at such intervals or times as they think fit, and
 - (b) subject to such conditions relating to payment as they may determine.
 
-## 4. Approval of operations[^key-c49dc19396eb7d8de5f9181a9f57962e]
+## 4. Approval of operations[^c-c49dc19396eb7d8de5f9181a9f57962e]
 
 (1) An application for the approval of an operation must—
 
@@ -91,7 +91,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 as the Welsh Ministers may require.
 
-(2) The Welsh Ministers may, provided that they are satisfied that an operation to which the application relates is eligible for financial[^key-3a62e19e9c6a5176afaaa8f47f203253] assistance, approve that operation.
+(2) The Welsh Ministers may, provided that they are satisfied that an operation to which the application relates is eligible for financial[^c-3a62e19e9c6a5176afaaa8f47f203253] assistance, approve that operation.
 
 (3) The Welsh Ministers may vary an approval by varying any condition to which it is subject, or imposing conditions.
 
@@ -101,17 +101,17 @@ as the Welsh Ministers may require.
 - (b) give the beneficiary an opportunity to make written representations within such time as the Welsh Ministers consider reasonable; and
 - (c) consider such representations.
 
-## 5. Claims[^key-257d26a83b50cf90a9ec2a687ecac7ac]
+## 5. Claims[^c-257d26a83b50cf90a9ec2a687ecac7ac]
 
 Any claim for payment of financial assistance is to be made at such time and be in such form and be accompanied by such information as the Welsh Ministers may require.
 
-## 6. Provision of information[^key-a952e51c388e0f1c27c42e468aca8718]
+## 6. Provision of information[^c-a952e51c388e0f1c27c42e468aca8718]
 
 (1) A beneficiary must supply to the Welsh Ministers such information about an approved operation as the Welsh Ministers may require.
 
 (2) Where the Welsh Ministers require information under paragraph (1), the beneficiary must supply that information within such period as the Welsh Ministers may determine.
 
-## 7. Powers of entry[^key-6a5d2185d5b9e6ae4f9496d6b9dfcd95]
+## 7. Powers of entry[^c-6a5d2185d5b9e6ae4f9496d6b9dfcd95]
 
 (1) An authorised person may, at all reasonable times and on production, if so required, of their authority to do so, enter any premises other than premises which are used wholly or mainly as a private dwelling—
 
@@ -125,7 +125,7 @@ for any of the purposes mentioned in paragraph (2).
 - (a) verifying the accuracy of any information provided by a beneficiary relating to the approved operation;
 - (b) ascertaining whether any financial assistance is payable or recoverable or the amount of such financial assistance that is payable or recoverable;
 - (c) ascertaining whether an offence under these Regulations has been or is being committed;
-- (d) otherwise ascertaining whether financial[^key-730a61d0b4d859dcf204a2bcabc2efa1] assistance is being efficiently and correctly used;
+- (d) otherwise ascertaining whether financial[^c-730a61d0b4d859dcf204a2bcabc2efa1] assistance is being efficiently and correctly used;
 - (e) providing a control report pursuant to Article 54(1) of Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013[^f00005]; and
 - (f) determining whether there has been non-compliance with these Regulations or the EU legislation.
 
@@ -150,7 +150,7 @@ for any of the purposes mentioned in paragraph (2).
 
 (8) An authorised person who enters any unoccupied premises must leave them as effectively secured as they were before entry.
 
-## 8. Powers of an authorised person[^key-8db5da9ea4efede33e421fca080b9749]
+## 8. Powers of an authorised person[^c-8db5da9ea4efede33e421fca080b9749]
 
 (1) An authorised person who has entered any premises by virtue of regulation 7 may—
 
@@ -171,7 +171,7 @@ for any of the purposes mentioned in paragraph (2).
 
 (5) In this regulation, “the operation” (“*y gweithrediad*”) means the approved operation in relation to which entry onto premises has been sought pursuant to regulation 7.
 
-## 9. Record keeping[^key-46d340b32211e31f0e124784f473f1c9]
+## 9. Record keeping[^c-46d340b32211e31f0e124784f473f1c9]
 
 (1) Save as provided in paragraphs (2) and (3), a beneficiary must retain any invoice, account or other document relating to an approved operation until the end of six years after the last payment of financial assistance made to the beneficiary pursuant to these Regulations in relation to an approved operation.
 
@@ -179,7 +179,7 @@ for any of the purposes mentioned in paragraph (2).
 
 (3) Where, in the normal course of business, a beneficiary transfers the original of any document referred to in paragraph (1) to another person, the beneficiary must retain a copy of that document until the end of the period specified in paragraph (1).
 
-## 10. Powers of recovery etc.[^key-c035e7b67bd4a82adb1ce3ca81b5528a]
+## 10. Powers of recovery etc.[^c-c035e7b67bd4a82adb1ce3ca81b5528a]
 
 (1) The Welsh Ministers may exercise the powers specified in paragraph (2) where they are satisfied, as regards an approved operation, that—
 
@@ -195,7 +195,7 @@ for any of the purposes mentioned in paragraph (2).
 - (h) the approved operation has not been or is not being properly carried out;
 - (i) the approved operation has been or is being unreasonably delayed or is unlikely to be completed;
 - (j) the financial assistance duplicates or would duplicate assistance provided or to be provided out of monies made available by—
-  - (i)[^key-06022504bba8261144fc14f2542c69bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-06022504bba8261144fc14f2542c69bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) the Welsh Ministers, or
   - (iii) a body exercising public functions within the United Kingdom;
 - (k) the beneficiary is in breach of any requirement to which they are subject under these Regulations or under the EU legislation; or
@@ -207,11 +207,11 @@ for any of the purposes mentioned in paragraph (2).
 - (b) reduce or withhold any financial assistance in respect of the approved operation;
 - (c) recover on demand the whole or any part of any financial assistance already paid to the beneficiary.
 
-(3)[^key-536f6a7b54a5a458230625a3f25b2ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-536f6a7b54a5a458230625a3f25b2ae6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For the purposes of paragraph (1)(j), a sum duplicates financial assistance if it is, or would be, paid for any of the same purposes.
 
-## 11. Recovery of interest[^key-267ecd9e30c0ca451c8436c2dec37307]
+## 11. Recovery of interest[^c-267ecd9e30c0ca451c8436c2dec37307]
 
 (1) Where the Welsh Ministers exercise the powers conferred by regulation 10(2)(c), they may also recover, on demand, interest on the sum to be recovered at the rate of 1 percentage point above LIBOR for the period from the day on which the financial assistance was granted until the day on which the Welsh Ministers recover the amount.
 
@@ -219,11 +219,11 @@ for any of the purposes mentioned in paragraph (2).
 
 (3) In any proceedings relating to this regulation, a certificate of the Welsh Ministers stating the LIBOR applicable during a period specified in the certificate is deemed to be conclusive evidence of the rate applicable in the specified period if the certificate also states that the Bank of England notified the Welsh Ministers of that rate.
 
-## 12. Sums payable to the Welsh Ministers to be recovered as a debt[^key-7320db49f987727e719dd114baf423e3]
+## 12. Sums payable to the Welsh Ministers to be recovered as a debt[^c-7320db49f987727e719dd114baf423e3]
 
 In any case where an amount falls to be paid to the Welsh Ministers by virtue of these Regulations (or by virtue of action taken under these Regulations), such amount is recoverable as a debt.
 
-## 13. Offences and penalties[^key-ae1f7e9747c3d41fff045d42dce5f8ef]
+## 13. Offences and penalties[^c-ae1f7e9747c3d41fff045d42dce5f8ef]
 
 (1) A person is guilty of an offence if—
 
@@ -248,7 +248,7 @@ In any case where an amount falls to be paid to the Welsh Ministers by virtue of
 - (a) a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient, in the opinion of the prosecutor, to justify the proceedings came to their knowledge is conclusive evidence of that fact;
 - (b) a certificate stating that matter and purporting to be so signed is deemed to be so signed unless the contrary is proved.
 
-## 14. Corporate, partnership and unincorporated association offences[^key-b32749285a5c78ff957684c8bcd45388]
+## 14. Corporate, partnership and unincorporated association offences[^c-b32749285a5c78ff957684c8bcd45388]
 
 (1) Where—
 
@@ -275,11 +275,11 @@ the relevant individual as well as the body corporate, partnership or unincorpor
 
 (5) A fine imposed on a partnership or unincorporated association on its conviction of an offence under these Regulations is to be paid out of the funds of the partnership or unincorporated association.
 
-## 15. Undertakings[^key-7035f16cd7a35b33254dbb310f9447c3]
+## 15. Undertakings[^c-7035f16cd7a35b33254dbb310f9447c3]
 
 A beneficiary may be required by the Welsh Ministers to give such undertakings as the Welsh Ministers consider appropriate to the case.
 
-## 16. Transfer of holdings[^key-1a7da4a737dd02f589448c7bfaebd197]
+## 16. Transfer of holdings[^c-1a7da4a737dd02f589448c7bfaebd197]
 
 For the purposes of Article 8(3)(a) of Commission Implementing Regulation (EU) No 809/2014 of 17 July 2014[^f00008], the period within which the transferee must inform the Welsh Ministers of the transfer and request payment of the aid or support, or both, is 30 days beginning with the first day after the date of the transfer.
 
@@ -291,19 +291,19 @@ Deputy Minister for Farming and Food, under authority of the Minister for Natura
 
 Regulation 2
 
-**1.**[^key-c0764f11cccaf16796e3d708c764153f] Regulation (EU) No 1303/2013 of the European Parliament and of the Council of 17 December 2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation [(EC) No 1083/2006](https://www.legislation.gov.uk/european/regulation/2006/1083)[^f00009].
+**1.**[^c-c0764f11cccaf16796e3d708c764153f] Regulation (EU) No 1303/2013 of the European Parliament and of the Council of 17 December 2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation [(EC) No 1083/2006](https://www.legislation.gov.uk/european/regulation/2006/1083)[^f00009].
 
-**2.**[^key-f023ef2f7c9ce75e920560624ea2f1cb] Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698)[^f00010].
+**2.**[^c-f023ef2f7c9ce75e920560624ea2f1cb] Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698)[^f00010].
 
-**3.**[^key-215be3b4ada132a4c4d66e582e88c5bb] Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations [(EEC) No 352/78](https://www.legislation.gov.uk/european/regulation/1978/0352), [(EC) No 165/94](https://www.legislation.gov.uk/european/regulation/1994/0165), [(EC) No 2799/98](https://www.legislation.gov.uk/european/regulation/1998/2799), [(EC) No 814/2000](https://www.legislation.gov.uk/european/regulation/2000/0814), [(EC) No 1290/2005](https://www.legislation.gov.uk/european/regulation/2005/1290) and [(EC) No 485/2008](https://www.legislation.gov.uk/european/regulation/2008/0485)[^f00011].
+**3.**[^c-215be3b4ada132a4c4d66e582e88c5bb] Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations [(EEC) No 352/78](https://www.legislation.gov.uk/european/regulation/1978/0352), [(EC) No 165/94](https://www.legislation.gov.uk/european/regulation/1994/0165), [(EC) No 2799/98](https://www.legislation.gov.uk/european/regulation/1998/2799), [(EC) No 814/2000](https://www.legislation.gov.uk/european/regulation/2000/0814), [(EC) No 1290/2005](https://www.legislation.gov.uk/european/regulation/2005/1290) and [(EC) No 485/2008](https://www.legislation.gov.uk/european/regulation/2008/0485)[^f00011].
 
-**4.**[^key-02ddff713b2fca6ed72ec035605479f8] Commission Delegated Regulation (EU) No 640/2014 of 11 March 2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance[^f00012].
+**4.**[^c-02ddff713b2fca6ed72ec035605479f8] Commission Delegated Regulation (EU) No 640/2014 of 11 March 2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance[^f00012].
 
-**5.**[^key-f09da42e3afc627139c905e25a2efcfc] Commission Delegated Regulation (EU) No 807/2014 of 11 March 2014 supplementing Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and introducing transitional provisions[^f00013].
+**5.**[^c-f09da42e3afc627139c905e25a2efcfc] Commission Delegated Regulation (EU) No 807/2014 of 11 March 2014 supplementing Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and introducing transitional provisions[^f00013].
 
-**6.**[^key-0cff1edd4d260a9d54dfe49f7107ebf1] Commission Implementing Regulation (EU) No 808/2014 of 17 July 2014 laying down rules for the application of Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD)[^f00014].
+**6.**[^c-0cff1edd4d260a9d54dfe49f7107ebf1] Commission Implementing Regulation (EU) No 808/2014 of 17 July 2014 laying down rules for the application of Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD)[^f00014].
 
-**7.**[^key-bfa5756483509911e1a8fa82b0887731] Commission Implementing Regulation (EU) No 809/2014 of 17 July 2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance[^f00015].
+**7.**[^c-bfa5756483509911e1a8fa82b0887731] Commission Implementing Regulation (EU) No 809/2014 of 17 July 2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance[^f00015].
 
 EXPLANATORY NOTE
 
@@ -339,90 +339,90 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-d4a9e083b266c91353dc157dccc9187f]: Commencement: Reg. 1 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-d4a9e083b266c91353dc157dccc9187f]: Commencement: Reg. 1 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
-[^key-4e32d32f01ecc30af4afbc4b1823b499]: Commencement: Reg. 2 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-4e32d32f01ecc30af4afbc4b1823b499]: Commencement: Reg. 2 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
-[^key-f38ee54a4e7efd85a3c629a0f7d6e2cd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/2/1) inserted (31.12.2020) by [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f38ee54a4e7efd85a3c629a0f7d6e2cd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/2/1) inserted (31.12.2020) by [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2b54eec104b8328876c6424ae66ee452]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/2/1) omitted (31.12.2020) by virtue of [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b54eec104b8328876c6424ae66ee452]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/2/1) omitted (31.12.2020) by virtue of [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6f7d8bb7e28b4fce08ac136ca33f4926]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/2/1) omitted (31.12.2020) by virtue of [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(2)(a)(iii)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/2/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6f7d8bb7e28b4fce08ac136ca33f4926]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/2/1) omitted (31.12.2020) by virtue of [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(2)(a)(iii)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/2/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e444de2bea2f8cb69c9d910c28a8d25d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/2/1) omitted (31.12.2020) by virtue of [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(2)(a)(iv)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/2/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e444de2bea2f8cb69c9d910c28a8d25d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/2/1) omitted (31.12.2020) by virtue of [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(2)(a)(iv)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/2/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: OJ No L 347, 20.12.2013, p. 320.
 
-[^key-a640c43c5eebdaf937e7b1bbe75802e3]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/2/3) omitted (26.3.2021) by virtue of [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/wsi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2), [13](https://www.legislation.gov.uk/wsi/2021/400/regulation/13)
+[^c-a640c43c5eebdaf937e7b1bbe75802e3]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/2/3) omitted (26.3.2021) by virtue of [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/wsi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2), [13](https://www.legislation.gov.uk/wsi/2021/400/regulation/13)
 
-[^key-0c5a4f639966ab9ddb8db564a8c937ba]: Commencement: Reg. 3 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-0c5a4f639966ab9ddb8db564a8c937ba]: Commencement: Reg. 3 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
-[^key-c49dc19396eb7d8de5f9181a9f57962e]: Commencement: Reg. 4 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-c49dc19396eb7d8de5f9181a9f57962e]: Commencement: Reg. 4 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
-[^key-3a62e19e9c6a5176afaaa8f47f203253]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/4/2) substituted (31.12.2020) by [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3a62e19e9c6a5176afaaa8f47f203253]: Textual amendment: Word in [reg. 4(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/4/2) substituted (31.12.2020) by [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-257d26a83b50cf90a9ec2a687ecac7ac]: Commencement: Reg. 5 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-257d26a83b50cf90a9ec2a687ecac7ac]: Commencement: Reg. 5 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
-[^key-a952e51c388e0f1c27c42e468aca8718]: Commencement: Reg. 6 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-a952e51c388e0f1c27c42e468aca8718]: Commencement: Reg. 6 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
-[^key-6a5d2185d5b9e6ae4f9496d6b9dfcd95]: Commencement: Reg. 7 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-6a5d2185d5b9e6ae4f9496d6b9dfcd95]: Commencement: Reg. 7 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
-[^key-730a61d0b4d859dcf204a2bcabc2efa1]: Textual amendment: Word in [reg. 7(2)(d)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/7/2/d) substituted (31.12.2020) by [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-730a61d0b4d859dcf204a2bcabc2efa1]: Textual amendment: Word in [reg. 7(2)(d)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/7/2/d) substituted (31.12.2020) by [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: OJ No L 347, 20.12.2013, p. 549.
 
-[^key-8db5da9ea4efede33e421fca080b9749]: Commencement: Reg. 8 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-8db5da9ea4efede33e421fca080b9749]: Commencement: Reg. 8 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
-[^key-46d340b32211e31f0e124784f473f1c9]: Commencement: Reg. 9 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-46d340b32211e31f0e124784f473f1c9]: Commencement: Reg. 9 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
-[^key-c035e7b67bd4a82adb1ce3ca81b5528a]: Commencement: Reg. 10 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-c035e7b67bd4a82adb1ce3ca81b5528a]: Commencement: Reg. 10 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
-[^key-06022504bba8261144fc14f2542c69bf]: Textual amendment: [Reg. 10(1)(j)(i)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/10/1/j/i) omitted (31.12.2020) by virtue of [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-06022504bba8261144fc14f2542c69bf]: Textual amendment: [Reg. 10(1)(j)(i)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/10/1/j/i) omitted (31.12.2020) by virtue of [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-536f6a7b54a5a458230625a3f25b2ae6]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/10/3) omitted (31.12.2020) by virtue of [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-536f6a7b54a5a458230625a3f25b2ae6]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/10/3) omitted (31.12.2020) by virtue of [The Common Agricultural Policy (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/688)](https://www.legislation.gov.uk/wsi/2019/688), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/688/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/wsi/2019/688/regulation/3/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-267ecd9e30c0ca451c8436c2dec37307]: Commencement: Reg. 11 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-267ecd9e30c0ca451c8436c2dec37307]: Commencement: Reg. 11 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
-[^key-7320db49f987727e719dd114baf423e3]: Commencement: Reg. 12 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-7320db49f987727e719dd114baf423e3]: Commencement: Reg. 12 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
-[^key-ae1f7e9747c3d41fff045d42dce5f8ef]: Commencement: Reg. 13 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-ae1f7e9747c3d41fff045d42dce5f8ef]: Commencement: Reg. 13 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
-[^key-b32749285a5c78ff957684c8bcd45388]: Commencement: Reg. 14 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-b32749285a5c78ff957684c8bcd45388]: Commencement: Reg. 14 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
 [^f00006]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1), (2) and (5) were repealed by the Magistrates’ Courts Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), section 132 and Schedule 6; subsection (3) was amended by the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56(1) and Schedule 8, Part 2, paragraph 19; subsection (4) was amended by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 109(1) and (3), Schedule 8, paragraph 71 and Schedule 10.
 
 [^f00007]: Footnote: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43). Paragraph 2(a) of Schedule 3 was repealed by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), sections 41 and 332, Schedule 3, Part 2, paragraph 51(1) and (13)(a), and Schedule 37, Part 4. Paragraph 5 was repealed by the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), sections 25(2) and 101(2) and Schedule 13; paragraph 6 was amended by the Criminal Justice Act 2003, section 41, Schedule 3, Part 2, paragraph 51(1) and (13)(b).
 
-[^key-7035f16cd7a35b33254dbb310f9447c3]: Commencement: Reg. 15 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-7035f16cd7a35b33254dbb310f9447c3]: Commencement: Reg. 15 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
-[^key-1a7da4a737dd02f589448c7bfaebd197]: Commencement: Reg. 16 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-1a7da4a737dd02f589448c7bfaebd197]: Commencement: Reg. 16 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
 [^f00008]: Footnote: OJ No L 227, 31.07.2014, p. 69.
 
-[^key-c0764f11cccaf16796e3d708c764153f]: Commencement: Sch. para. 1 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-c0764f11cccaf16796e3d708c764153f]: Commencement: Sch. para. 1 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
 [^f00009]: Footnote: OJ No L 347, 20.12.2013, p. 320.
 
-[^key-f023ef2f7c9ce75e920560624ea2f1cb]: Commencement: Sch. para. 2 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-f023ef2f7c9ce75e920560624ea2f1cb]: Commencement: Sch. para. 2 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
 [^f00010]: Footnote: OJ No L 347, 20.12.2013, p. 487.
 
-[^key-215be3b4ada132a4c4d66e582e88c5bb]: Commencement: Sch. para. 3 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-215be3b4ada132a4c4d66e582e88c5bb]: Commencement: Sch. para. 3 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
 [^f00011]: Footnote: OJ No L 347, 20.12.2013, p. 549.
 
-[^key-02ddff713b2fca6ed72ec035605479f8]: Commencement: Sch. para. 4 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-02ddff713b2fca6ed72ec035605479f8]: Commencement: Sch. para. 4 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
 [^f00012]: Footnote: OJ No L 181, 20.06.2014, p. 48.
 
-[^key-f09da42e3afc627139c905e25a2efcfc]: Commencement: Sch. para. 5 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-f09da42e3afc627139c905e25a2efcfc]: Commencement: Sch. para. 5 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
 [^f00013]: Footnote: OJ No L 227, 31.07.2014, p. 1.
 
-[^key-0cff1edd4d260a9d54dfe49f7107ebf1]: Commencement: Sch. para. 6 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-0cff1edd4d260a9d54dfe49f7107ebf1]: Commencement: Sch. para. 6 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
 [^f00014]: Footnote: OJ No L 227, 31.07.2014, p. 18.
 
-[^key-bfa5756483509911e1a8fa82b0887731]: Commencement: Sch. para. 7 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
+[^c-bfa5756483509911e1a8fa82b0887731]: Commencement: Sch. para. 7 in force at 1.1.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/3222/regulation/1/2)
 
 [^f00015]: Footnote: OJ No L 227, 31.07.2014, p. 69.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Power of SEPA to obtain information about land.[^key-457fe583410fd869be83d52144e0a5b8]
+## 27. Power of SEPA to obtain information about land.[^c-457fe583410fd869be83d52144e0a5b8]
 
 *Extent: E+W+S*
 
@@ -44,10 +44,10 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 *Extent: S*
 
-(4)[^key-0d1e48a05f6345966be276d11bae8f49] In subsection (1) above, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
+(4)[^c-0d1e48a05f6345966be276d11bae8f49] In subsection (1) above, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
 
 ## Annotations
 
-[^key-457fe583410fd869be83d52144e0a5b8]: Modification: S. 27 applied (with modifications) (S.) (26.11.2009) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [ss. 78](https://www.legislation.gov.uk/asp/2009/6/section/78), [97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-457fe583410fd869be83d52144e0a5b8]: Modification: S. 27 applied (with modifications) (S.) (26.11.2009) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [ss. 78](https://www.legislation.gov.uk/asp/2009/6/section/78), [97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
 
-[^key-0d1e48a05f6345966be276d11bae8f49]: Textual amendment: [S. 27(4)](https://www.legislation.gov.uk/ukpga/1995/25/section/27/4) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 43(2)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/43/2); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)
+[^c-0d1e48a05f6345966be276d11bae8f49]: Textual amendment: [S. 27(4)](https://www.legislation.gov.uk/ukpga/1995/25/section/27/4) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 43(2)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/43/2); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2)

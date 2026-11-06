@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Functions retained by the Secretary of State[^key-40ccfdc259bfa47a6cc382f0f346c711]
+## 3. Functions retained by the Secretary of State[^c-40ccfdc259bfa47a6cc382f0f346c711]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The functions of the Secretary of State under sections 47(4) and 65(2) of the In
 
 ## Annotations
 
-[^key-40ccfdc259bfa47a6cc382f0f346c711]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1997/2781/article/3) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)
+[^c-40ccfdc259bfa47a6cc382f0f346c711]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/1997/2781/article/3) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)
 
 [^f00015]: Footnote: [1982 c. 50](https://www.legislation.gov.uk/ukpga/1982/50).

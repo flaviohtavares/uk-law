@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Number of Electoral Commissioners[^key-a99fa7951a0646f940df21d6085f377f]
+## 6. Number of Electoral Commissioners[^c-a99fa7951a0646f940df21d6085f377f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 1 of the 2000 Act (establishment of Electoral Commission), in subsect
 
 ## Annotations
 
-[^key-a99fa7951a0646f940df21d6085f377f]: Commencement: S. 6 in force at 1.10.2010 by [S.I. 2010/2409](https://www.legislation.gov.uk/uksi/2010/2409), [art. 2](https://www.legislation.gov.uk/uksi/2010/2409/article/2)
+[^c-a99fa7951a0646f940df21d6085f377f]: Commencement: S. 6 in force at 1.10.2010 by [S.I. 2010/2409](https://www.legislation.gov.uk/uksi/2010/2409), [art. 2](https://www.legislation.gov.uk/uksi/2010/2409/article/2)

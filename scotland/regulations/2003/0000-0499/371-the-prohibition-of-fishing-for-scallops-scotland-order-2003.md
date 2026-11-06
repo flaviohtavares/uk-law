@@ -45,7 +45,7 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by sections 5 and 15(3) of the Sea Fish (Conservation) Act 1967[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:
 
-## 1. Citation, commencement and extent[^key-45cbe5c2756154819009b334499ac4f1]
+## 1. Citation, commencement and extent[^c-45cbe5c2756154819009b334499ac4f1]
 
 (1) This Order may be cited as the Prohibition of Fishing for Scallops (Scotland) Order 2003 and shall come into force on 22nd September 2003.
 
@@ -53,7 +53,7 @@ The Scottish Ministers, in exercise of the powers conferred by sections 5 and 15
 
 (3) Insofar as it extends beyond Scotland and the Scottish zone, it does so only as a matter of Scots law.
 
-## 2. Interpretation[^key-f383e07993ee85808444288aeb3355f7]
+## 2. Interpretation[^c-f383e07993ee85808444288aeb3355f7]
 
 (1) In this Order–
 
@@ -66,32 +66,32 @@ The Scottish Ministers, in exercise of the powers conferred by sections 5 and 15
 
 (2) For the purposes of this Order, other than article 4(a), a fishing boat is deemed to have been fishing for king scallops if the catch retained on board that boat includes at least 20 per cent by weight king scallops.
 
-## 3. Prohibition of fishing for king scallops by means of dredge to which obstruction attached[^key-9a375aa6f0e56172b0d3c0debf22ed5f]
+## 3. Prohibition of fishing for king scallops by means of dredge to which obstruction attached[^c-9a375aa6f0e56172b0d3c0debf22ed5f]
 
-Fishing for king scallops by any[^key-e47034487e07662a4892ba05cdc8e7a9] fishing boat by means of a–
+Fishing for king scallops by any[^c-e47034487e07662a4892ba05cdc8e7a9] fishing boat by means of a–
 
 - (a) French dredge; or
 - (b) scallop dredge,
 
 to which anything has been attached which obstructs in whole or in part the rings or netting on any part of the dredge is prohibited in the Scottish zone.
 
-## 4. Prohibition of fishing for king scallops – French dredges[^key-81f4d02163c2ae159d1a7214149b20f7]
+## 4. Prohibition of fishing for king scallops – French dredges[^c-81f4d02163c2ae159d1a7214149b20f7]
 
-Fishing for king scallops by any[^key-11d658bc8c5faa38210969e63a578aac] fishing boat by means of a French dredge is prohibited–
+Fishing for king scallops by any[^c-11d658bc8c5faa38210969e63a578aac] fishing boat by means of a French dredge is prohibited–
 
 - (a) in Scottish inshore waters; and
 - (b) in any other part of the Scottish zone, where more than 6 French dredges are towed from each side of the fishing boat.
 
-## 5. Prohibition of fishing for king scallops – scallop dredges[^key-9464a15b5569f84dac83d0a26695232f]
+## 5. Prohibition of fishing for king scallops – scallop dredges[^c-9464a15b5569f84dac83d0a26695232f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Powers of British sea-fishery officers[^key-87690df4fe8665d65ab7c939562c83dc]
+## 6. Powers of British sea-fishery officers[^c-87690df4fe8665d65ab7c939562c83dc]
 
 (1) For the purpose of enforcing the provisions of this Order a British sea-fishery officer may exercise in relation to–
 
 - (a) any Scottish fishing boat wherever it may be; and
-- (b) any other[^key-1a00b38ca87c0f850ff8218dd88fe034] fishing boat in the Scottish zone,
+- (b) any other[^c-1a00b38ca87c0f850ff8218dd88fe034] fishing boat in the Scottish zone,
 
 the powers set out in this article.
 
@@ -137,9 +137,9 @@ It is an offence under section 5(1) of the Sea Fish (Conservation) Act 1967 to u
 
 [^f00001]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84); section 5(1) was substituted by the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29), section 22(1); section 15(3) was substituted by the Sea Fisheries Act [1968 (c. 77)](https://www.legislation.gov.uk/ukpga/1968/77), Schedule 1, paragraph 38(3) and amended by the Fishery Limits Act [1976 (c. 86)](https://www.legislation.gov.uk/ukpga/1976/86), Schedule 2, paragraph 16(1). Relevant modifications are contained in the Scotland Act 1998 (Functions Exercisable in or as Regards Scotland) Order 1999 (S.I. [1999/1748](https://www.legislation.gov.uk/uksi/1999/1748)), article 5 and the Scotland Act 1998 (Modification of Functions) Order 1999 (S.I. [1999/1756](https://www.legislation.gov.uk/uksi/1999/1756)), articles 3, 5 and 6. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46). Section 22(2) which contains a definition of “the Ministers” for the purposes of sections 5 and 15(3) was amended by the Fisheries Act 1981, sections 19(2)(a) and 45(b). The definition has effect in relation to Scotland with the modifications made by section 22A(12)(b) inserted by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 43(13).
 
-[^key-45cbe5c2756154819009b334499ac4f1]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2003/371/article/1) in force at 22.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2003/371/article/1/1)
+[^c-45cbe5c2756154819009b334499ac4f1]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2003/371/article/1) in force at 22.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2003/371/article/1/1)
 
-[^key-f383e07993ee85808444288aeb3355f7]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2003/371/article/2) in force at 22.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2003/371/article/1/1)
+[^c-f383e07993ee85808444288aeb3355f7]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2003/371/article/2) in force at 22.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2003/371/article/1/1)
 
 [^f00002]: Footnote: [1984 c. 26](https://www.legislation.gov.uk/ukpga/1984/26).
 
@@ -147,16 +147,16 @@ It is an offence under section 5(1) of the Sea Fish (Conservation) Act 1967 to u
 
 [^f00004]: Footnote: S.I. [1999/1126](https://www.legislation.gov.uk/uksi/1999/1126).
 
-[^key-9a375aa6f0e56172b0d3c0debf22ed5f]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2003/371/article/3) in force at 22.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2003/371/article/1/1)
+[^c-9a375aa6f0e56172b0d3c0debf22ed5f]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2003/371/article/3) in force at 22.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2003/371/article/1/1)
 
-[^key-e47034487e07662a4892ba05cdc8e7a9]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/ssi/2003/371/article/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 24(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/24/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-e47034487e07662a4892ba05cdc8e7a9]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/ssi/2003/371/article/3) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 24(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/24/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-81f4d02163c2ae159d1a7214149b20f7]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2003/371/article/4) in force at 22.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2003/371/article/1/1)
+[^c-81f4d02163c2ae159d1a7214149b20f7]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2003/371/article/4) in force at 22.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2003/371/article/1/1)
 
-[^key-11d658bc8c5faa38210969e63a578aac]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/ssi/2003/371/article/4) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 24(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/24/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-11d658bc8c5faa38210969e63a578aac]: Textual amendment: Word in [art. 4](https://www.legislation.gov.uk/ssi/2003/371/article/4) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 24(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/24/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-9464a15b5569f84dac83d0a26695232f]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/ssi/2003/371/article/5) revoked (1.6.2017) by [The Regulation of Scallop Fishing (Scotland) Order 2017 (S.S.I. 2017/127)](https://www.legislation.gov.uk/ssi/2017/127), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/127/article/1/1), [7](https://www.legislation.gov.uk/ssi/2017/127/article/7)
+[^c-9464a15b5569f84dac83d0a26695232f]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/ssi/2003/371/article/5) revoked (1.6.2017) by [The Regulation of Scallop Fishing (Scotland) Order 2017 (S.S.I. 2017/127)](https://www.legislation.gov.uk/ssi/2017/127), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/127/article/1/1), [7](https://www.legislation.gov.uk/ssi/2017/127/article/7)
 
-[^key-87690df4fe8665d65ab7c939562c83dc]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2003/371/article/6) in force at 22.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2003/371/article/1/1)
+[^c-87690df4fe8665d65ab7c939562c83dc]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2003/371/article/6) in force at 22.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2003/371/article/1/1)
 
-[^key-1a00b38ca87c0f850ff8218dd88fe034]: Textual amendment: Word in [art. 6(1)(b)](https://www.legislation.gov.uk/ssi/2003/371/article/6/1/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 24(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/24/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-1a00b38ca87c0f850ff8218dd88fe034]: Textual amendment: Word in [art. 6(1)(b)](https://www.legislation.gov.uk/ssi/2003/371/article/6/1/b) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 24(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/24/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

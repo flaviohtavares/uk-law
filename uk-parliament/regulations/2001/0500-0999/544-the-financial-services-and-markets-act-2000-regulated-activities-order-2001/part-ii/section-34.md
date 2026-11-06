@@ -29,8 +29,8 @@ and for the purposes of article 25(1) and (2), a company is not, by reason of is
 
 (2) In paragraph (1), “company", “shares", “debentures", “share warrants" and “debenture warrants" have the meanings given by article 18(2).
 
-(3)[^key-6f46b7480e20d468f57d5e387fbb62ea] This article is subject to article 4(4).
+(3)[^c-6f46b7480e20d468f57d5e387fbb62ea] This article is subject to article 4(4).
 
 ## Annotations
 
-[^key-6f46b7480e20d468f57d5e387fbb62ea]: Textual amendment: Art. 34(3) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [12(6)](https://www.legislation.gov.uk/uksi/2017/488/article/12/6)
+[^c-6f46b7480e20d468f57d5e387fbb62ea]: Textual amendment: Art. 34(3) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [12(6)](https://www.legislation.gov.uk/uksi/2017/488/article/12/6)

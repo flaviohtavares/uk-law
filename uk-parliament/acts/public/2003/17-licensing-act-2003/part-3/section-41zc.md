@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 41ZC. Intervening decision by a London licensing authority[^key-53ee138e1a439660433c64ab8f26062a]
+## 41ZC. Intervening decision by a London licensing authority[^c-53ee138e1a439660433c64ab8f26062a]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53ee138e1a439660433c64ab8f26062a]: Textual amendment: [Ss. 41ZA-41ZD](https://www.legislation.gov.uk/ukpga/2003/17/section/41ZA) and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 26 para. 15](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/15) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))
+[^c-53ee138e1a439660433c64ab8f26062a]: Textual amendment: [Ss. 41ZA-41ZD](https://www.legislation.gov.uk/ukpga/2003/17/section/41ZA) and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 26 para. 15](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/15) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Crown application[^key-1aabd02033e97c12e7db8f483aa7bb22][^key-86a0f36fc8ee7152bc143c4edd19c2cf][^key-529fc190c1999b6ee70df74ed0c0d738][^key-8634962d168b5261d0877adff5e8d744]
+## 23. Crown application[^c-1aabd02033e97c12e7db8f483aa7bb22][^c-86a0f36fc8ee7152bc143c4edd19c2cf][^c-529fc190c1999b6ee70df74ed0c0d738][^c-8634962d168b5261d0877adff5e8d744]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,10 +28,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1aabd02033e97c12e7db8f483aa7bb22]: Commencement: S. 23 in force at 1.1.2007 for E. by [S.I. 2006/3125](https://www.legislation.gov.uk/uksi/2006/3125), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3125/article/2/1)
+[^c-1aabd02033e97c12e7db8f483aa7bb22]: Commencement: S. 23 in force at 1.1.2007 for E. by [S.I. 2006/3125](https://www.legislation.gov.uk/uksi/2006/3125), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/3125/article/2/1)
 
-[^key-86a0f36fc8ee7152bc143c4edd19c2cf]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2006/28/section/23) in force at 1.3.2007 for S. by [S.I. 2006/3125](https://www.legislation.gov.uk/uksi/2006/3125), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3125/article/2/2)
+[^c-86a0f36fc8ee7152bc143c4edd19c2cf]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2006/28/section/23) in force at 1.3.2007 for S. by [S.I. 2006/3125](https://www.legislation.gov.uk/uksi/2006/3125), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3125/article/2/2)
 
-[^key-529fc190c1999b6ee70df74ed0c0d738]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2006/28/section/23) in force at 13.12.2008 for W. by [S.I. 2008/3171](https://www.legislation.gov.uk/wsi/2008/3171), [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/3171/article/2/a)
+[^c-529fc190c1999b6ee70df74ed0c0d738]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2006/28/section/23) in force at 13.12.2008 for W. by [S.I. 2008/3171](https://www.legislation.gov.uk/wsi/2008/3171), [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/3171/article/2/a)
 
-[^key-8634962d168b5261d0877adff5e8d744]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2006/28/section/23) in force at 1.8.2012 for N.I. by [S.R. 2012/307](https://www.legislation.gov.uk/nisr/2012/307), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/307/article/2/a)
+[^c-8634962d168b5261d0877adff5e8d744]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2006/28/section/23) in force at 1.8.2012 for N.I. by [S.R. 2012/307](https://www.legislation.gov.uk/nisr/2012/307), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/307/article/2/a)

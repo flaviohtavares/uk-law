@@ -48,11 +48,11 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 In accordance with section 4A(8) of that Act the Treasury have consulted, where they think it appropriate, the Scottish Ministers, the Department for Finance and Personnel for Northern Ireland and the Welsh Ministers.
 
-## 1. Title and commencement[^key-0ace76e752f0c618cedd49e6527a7278]
+## 1. Title and commencement[^c-0ace76e752f0c618cedd49e6527a7278]
 
 This Order may be cited as the Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2012 and comes into force on 1st April 2012.
 
-## 2. Designations[^key-0452ef78e3cfd6a1522b76c7349efd8b]
+## 2. Designations[^c-0452ef78e3cfd6a1522b76c7349efd8b]
 
 A body listed in column 2 of a table in the Schedule is a designated body in relation to the department named in column 1 of that table for the financial year that ends on 31st March 2013.
 
@@ -64,7 +64,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 7th March 2012
 
-## SCHEDULE — Designated Bodies[^key-6aaccf7df43c4c74fbdfb2fa31289850]
+## SCHEDULE — Designated Bodies[^c-6aaccf7df43c4c74fbdfb2fa31289850]
 
 Article 2
 
@@ -75,15 +75,15 @@ Department for Education
 | Department | Designated body |
 | --- | --- |
 | Department for Education | Academies (as established under section 1 of the Academies Act 2010)<br>Children and Family Court Advisory and Support Service<br>Children’s Commissioner |
-|  | [^key-439b39f0fd836f6d567678863216a329]... |
-|  | [^key-439b39f0fd836f6d567678863216a329]... |
-|  | [^key-439b39f0fd836f6d567678863216a329]... |
-|  | [^key-439b39f0fd836f6d567678863216a329]... |
-|  | [^key-439b39f0fd836f6d567678863216a329]... |
+|  | [^c-439b39f0fd836f6d567678863216a329]... |
+|  | [^c-439b39f0fd836f6d567678863216a329]... |
+|  | [^c-439b39f0fd836f6d567678863216a329]... |
+|  | [^c-439b39f0fd836f6d567678863216a329]... |
+|  | [^c-439b39f0fd836f6d567678863216a329]... |
 |  | School Teachers’ Review Body |
-|  | Social Mobility and Child Poverty Commission[^key-a96bd1418df0f21241dca4ee3d8e192a] |
-|  | [^key-439b39f0fd836f6d567678863216a329]... |
-|  | [^key-439b39f0fd836f6d567678863216a329]... |
+|  | Social Mobility and Child Poverty Commission[^c-a96bd1418df0f21241dca4ee3d8e192a] |
+|  | [^c-439b39f0fd836f6d567678863216a329]... |
+|  | [^c-439b39f0fd836f6d567678863216a329]... |
 
 Table 2
 
@@ -94,12 +94,12 @@ Department of Health
 | Department of Health | Administration of Radioactive Substances Advisory Committee<br>Advisory Committee on Antimicrobial Resistance and Healthcare Associated Infection<br>Advisory Committee on Dangerous Pathogens<br>Advisory Group on Hepatitis<br>Alcohol Education Research Council |
 |  | Appointments Commission |
 |  | Care Quality Commission<br>Committee on Carcinogenicity of Chemicals in Food, Consumer Products and the Environment<br>Committee on the Medical Aspects of Radiation in the Environment<br>Committee on the Mutagenicity of Chemicals in Food, Consumer Products and the Environment<br>Committee on the Medical Effects of Air Pollutants |
-|  | Council for the Regulation of Healthcare Professionals<br>Expert Advisory Group on AIDS<br>Expert Group on Vitamins and Minerals<br>General Social Care Council<br>Gene Therapy Advisory Committee<br>[^key-912ea54846c352893314b07e38a54bab]...<br>Health Education England[^key-57be403de9a1300a7ecebcb7ad293459]<br>Health Protection Agency<br>Health Research Authority<br>Human Fertilisation and Embryology Authority<br>Human Genetics Commission<br>Human Tissue Authority<br>The Health and Social Care Information Centre[^key-da9d010106a0038b8f8cc1a6b86fee03]<br>Joint Committee on Vaccination and Immunisation<br>Monitor – Independent Regulator of NHS Foundation Trusts |
+|  | Council for the Regulation of Healthcare Professionals<br>Expert Advisory Group on AIDS<br>Expert Group on Vitamins and Minerals<br>General Social Care Council<br>Gene Therapy Advisory Committee<br>[^c-912ea54846c352893314b07e38a54bab]...<br>Health Education England[^c-57be403de9a1300a7ecebcb7ad293459]<br>Health Protection Agency<br>Health Research Authority<br>Human Fertilisation and Embryology Authority<br>Human Genetics Commission<br>Human Tissue Authority<br>The Health and Social Care Information Centre[^c-da9d010106a0038b8f8cc1a6b86fee03]<br>Joint Committee on Vaccination and Immunisation<br>Monitor – Independent Regulator of NHS Foundation Trusts |
 |  | National Health Service Trust Development Authority |
 |  | National Institute for Health and Clinical Excellence |
 |  | National Patient Safety Agency |
 |  | National Treatment Agency for Substance Misuse |
-|  | NHS Business Services Authority<br>NHS Charities in England (as defined by section 43 of the Charities Act 1993 as amended)<br>NHS Commissioning Board Authority<br>The National Health Service Commissioning Board[^key-d4976b8b537696b546a083f7ceefae4c] |
+|  | NHS Business Services Authority<br>NHS Charities in England (as defined by section 43 of the Charities Act 1993 as amended)<br>NHS Commissioning Board Authority<br>The National Health Service Commissioning Board[^c-d4976b8b537696b546a083f7ceefae4c] |
 |  | NHS Direct<br>NHS Foundation Trusts (as established under section 30 of the National Health Service Act 2006) |
 |  | NHS Institute for Innovation and Improvement |
 |  | NHS Litigation Authority<br>The NHS Pay Review Body |
@@ -122,18 +122,18 @@ Department for Transport
 
 | Department | Designated body |
 | --- | --- |
-| Department for Transport | Air Travel Trust[^key-2ef362b4c4cbf7b59411eefede8b1903] |
-|  | British Transport Police Authority[^key-4970dbdc1f5b58fa10d45bb4f1b4651a] |
-|  | [^key-cdb8053ed1da70a524d9768c85d65e54]. . . |
+| Department for Transport | Air Travel Trust[^c-2ef362b4c4cbf7b59411eefede8b1903] |
+|  | British Transport Police Authority[^c-4970dbdc1f5b58fa10d45bb4f1b4651a] |
+|  | [^c-cdb8053ed1da70a524d9768c85d65e54]. . . |
 |  | CTRL Section 1 Finance Plc |
 |  | Directly Operated Railways |
 |  | Disabled Persons Transport Advisory Committee |
 |  | High Speed Two (HS2) Limited |
 |  | LCR Finance Plc |
 |  | London and Continental Railways |
-|  | Passenger Focus[^key-d7ac673ffe73c64f02b771c6365ae797] |
+|  | Passenger Focus[^c-d7ac673ffe73c64f02b771c6365ae797] |
 |  | Railway Heritage Committee |
-|  | [^key-cdb8053ed1da70a524d9768c85d65e54]. . . |
+|  | [^c-cdb8053ed1da70a524d9768c85d65e54]. . . |
 |  |  |
 
 Table 5
@@ -142,15 +142,15 @@ Department for Communities and Local Government
 
 | Department | Designated body |
 | --- | --- |
-| Department for Communities and Local Government | AWM (Subsidiary) Ltd<br>[^key-397abeac57ab0aad5c869aad8b474e8a]...<br>Building Regulations Advisory Committee |
+| Department for Communities and Local Government | AWM (Subsidiary) Ltd<br>[^c-397abeac57ab0aad5c869aad8b474e8a]...<br>Building Regulations Advisory Committee |
 |  | Commission for Local Administration in England<br>emEP Limited<br>English Partnerships (LP) Limited<br>Estuary Management Company Ltd |
-|  | [^key-397abeac57ab0aad5c869aad8b474e8a]. . . |
+|  | [^c-397abeac57ab0aad5c869aad8b474e8a]. . . |
 |  | Homes and Communities Agency |
 |  | Independent Housing Ombudsman Limited |
-|  | [^key-397abeac57ab0aad5c869aad8b474e8a]...<br>The Leasehold Advisory Service |
+|  | [^c-397abeac57ab0aad5c869aad8b474e8a]...<br>The Leasehold Advisory Service |
 |  | London Thames Gateway Development Corporation<br>NorwePP (NWDA Subsidiary) Limited |
-|  | ONE North East General Partner Limited<br>[^key-397abeac57ab0aad5c869aad8b474e8a]... |
-|  | [^key-397abeac57ab0aad5c869aad8b474e8a]. . . |
+|  | ONE North East General Partner Limited<br>[^c-397abeac57ab0aad5c869aad8b474e8a]... |
+|  | [^c-397abeac57ab0aad5c869aad8b474e8a]. . . |
 |  | Thurrock Development Corporation |
 |  | Valuation Tribunal for England |
 |  | Valuation Tribunal Service |
@@ -168,7 +168,7 @@ Department for Business, Innovation and Skills
 |  | AEA Insurance Ltd |
 |  | Arts and Humanities Research Council |
 |  | Biotechnology and Biological Sciences Research Council |
-|  | BIS (Postal Services Act 2011) B Company Limited[^key-4649ccd9190871d58adcae4f7d343b26] |
+|  | BIS (Postal Services Act 2011) B Company Limited[^c-4649ccd9190871d58adcae4f7d343b26] |
 |  | BIS (Postal Services Act 2011) Company Limited |
 |  | British Hallmarking Council |
 |  | British Shipbuilders |
@@ -179,15 +179,15 @@ Department for Business, Innovation and Skills
 |  | Capital for Enterprise Fund Managers Limited |
 |  | Capital for Enterprise Ltd |
 |  | Central Arbitration Committee |
-|  | Certification Officer<br>[^key-f9caa2d1203f946d8c7e75e36ff66dec]... |
-|  | [^key-40a92b02574424031df40096cfdf1928]. . . |
+|  | Certification Officer<br>[^c-f9caa2d1203f946d8c7e75e36ff66dec]... |
+|  | [^c-40a92b02574424031df40096cfdf1928]. . . |
 |  | Competition Appeal Tribunal |
 |  | Competition Commission |
 |  | Competition Service |
 |  | Construction Industry Training Board (established under the Industrial Training Act 1964) |
 |  | Copyright Tribunal |
 |  | Council for Science and Technology<br>Diamond Light Source Ltd |
-|  | Directions Finningley<br>Director of Fair Access to Higher Education<br>[^key-40a92b02574424031df40096cfdf1928]... |
+|  | Directions Finningley<br>Director of Fair Access to Higher Education<br>[^c-40a92b02574424031df40096cfdf1928]... |
 |  | East Midlands Development Agency |
 |  | East of England Development Agency |
 |  | Economic and Social Research Council |
@@ -199,39 +199,39 @@ Department for Business, Innovation and Skills
 |  | Govan Shipbuilders Ltd |
 |  | Henry Robb Ltd |
 |  | Higher Education Funding Council for England |
-|  | [^key-40a92b02574424031df40096cfdf1928]. . . |
+|  | [^c-40a92b02574424031df40096cfdf1928]. . . |
 |  | Industrial Development Advisory Board |
 |  | Insolvency Practitioners Tribunal |
 |  | Learning and Skills Improvement Service |
 |  | Low Pay Commission |
 |  | Medical Research Council |
-|  | [^key-40a92b02574424031df40096cfdf1928]. . . |
+|  | [^c-40a92b02574424031df40096cfdf1928]. . . |
 |  | National Consumer Council |
-|  | [^key-40a92b02574424031df40096cfdf1928]. . . |
+|  | [^c-40a92b02574424031df40096cfdf1928]. . . |
 |  | Natural Environment Research Council |
-|  | [^key-40a92b02574424031df40096cfdf1928]. . . |
-|  | [^key-40a92b02574424031df40096cfdf1928]. . . |
-|  | [^key-40a92b02574424031df40096cfdf1928]. . . |
+|  | [^c-40a92b02574424031df40096cfdf1928]. . . |
+|  | [^c-40a92b02574424031df40096cfdf1928]. . . |
+|  | [^c-40a92b02574424031df40096cfdf1928]. . . |
 |  | The NESTA Trust |
 |  | North East Shipbuilders Ltd |
 |  | North West Development Agency |
 |  | NW VCLF HF LLP<br>Office of Manpower Economics |
 |  | ONE North East |
 |  | The Pirbright Institute |
-|  | RCUK Shared Services Centre Limited[^key-53ac81a061e917fd741003b48c3ecb2a] |
+|  | RCUK Shared Services Centre Limited[^c-53ac81a061e917fd741003b48c3ecb2a] |
 |  | Science and Technology Facilities Council |
 |  | Smith’s Dock Ltd |
 |  | South East Development Agency |
 |  | South West of England Regional Development Agency<br>STFC Innovations Ltd |
 |  | Student Loans Company Limited |
 |  | Sunderland Shipbuilders Ltd |
-|  | Technology Strategy Board<br>[^key-40a92b02574424031df40096cfdf1928]...<br>United Kingdom Atomic Energy Authority |
+|  | Technology Strategy Board<br>[^c-40a92b02574424031df40096cfdf1928]...<br>United Kingdom Atomic Energy Authority |
 |  | United Kingdom Commission for Employment and Skills |
 |  | UK Energy Efficiency Investments 1 L.P. |
 |  | UK Green Investment Bank plc |
 |  | UK Green Sustainable Waste and Energy Investments L.P. |
 |  | UK Waste Resources and Energy Investments L.P. |
-|  | [^key-40a92b02574424031df40096cfdf1928]...<br>Wave Hub Limited |
+|  | [^c-40a92b02574424031df40096cfdf1928]...<br>Wave Hub Limited |
 |  | Yorkshire and the Humber Development Agency |
 |  |  |
 
@@ -252,8 +252,8 @@ Home Office
 | --- | --- |
 | Home Office | The Advisory Council on the Misuse of Drugs |
 |  | Animal Procedures Committee |
-|  | [^key-6b66afb61b2490ea0129c0e7bbe78c88]. . . |
-|  | College of Policing[^key-66dbf94ced974d5e5a57f2a7b56fadf5] |
+|  | [^c-6b66afb61b2490ea0129c0e7bbe78c88]. . . |
+|  | College of Policing[^c-66dbf94ced974d5e5a57f2a7b56fadf5] |
 |  | Disclosure and Barring Service (DBS) |
 |  | Her Majesty’s Inspectorate of Constabulary |
 |  | Independent Police Complaints Commission |
@@ -282,7 +282,7 @@ Ministry of Justice
 | Ministry of Justice | Administrative Justice and Tribunals Council<br>Advisory Committee on Civil Costs |
 |  | Advisory Committees on Justices of the Peace in England and Wales<br>Advisory Council on National Records and Archives |
 |  | Advisory Panel on Public Sector Information<br>Assessor for Compensation of Miscarriages of Justice |
-|  | Chief Coroner’s Office[^key-782ab68c5eb14cf90ca7b9a0d2e2ca4d] |
+|  | Chief Coroner’s Office[^c-782ab68c5eb14cf90ca7b9a0d2e2ca4d] |
 |  | Civil Justice Council |
 |  | Civil Procedure Rule Committee<br>Commission on a Bill of Rights<br>Court Funds Office |
 |  | Criminal Cases Review Commission |
@@ -339,7 +339,7 @@ Foreign and Commonwealth Office
 | Foreign and Commonwealth Office | BBC World Service<br>Foreign Compensation Commission |
 |  | The Great Britain-China Centre |
 |  | Marshall Aid Commemoration Commission<br>The Westminster Foundation for Democracy Limited |
-|  | The UK China Forum[^key-67afd9347b6c2b3f373c15a7c736a07f] |
+|  | The UK China Forum[^c-67afd9347b6c2b3f373c15a7c736a07f] |
 
 Table 12
 
@@ -359,8 +359,8 @@ Department of Energy and Climate Change
 | Department of Energy and Climate Change | Civil Nuclear Police Authority<br>Coal Authority |
 |  | Committee on Climate Change |
 |  | Committee on Radioactive Waste Management |
-|  | Dounreay Site Restoration Limited[^key-9ee7c3224195d6d9ea7736bfd5e4dec8] |
-|  | Fuel Poverty Advisory Group<br>LLW Repository Limited<br>Magnox Limited<br>[^key-1197652a36d98f688a0ba0a8bc423a27]...<br>[^key-1197652a36d98f688a0ba0a8bc423a27]... |
+|  | Dounreay Site Restoration Limited[^c-9ee7c3224195d6d9ea7736bfd5e4dec8] |
+|  | Fuel Poverty Advisory Group<br>LLW Repository Limited<br>Magnox Limited<br>[^c-1197652a36d98f688a0ba0a8bc423a27]...<br>[^c-1197652a36d98f688a0ba0a8bc423a27]... |
 |  | Nuclear Decommissioning Authority<br>Nuclear Liabilities Financing Assurance Board<br>Sellafield Limited |
 |  | Research Sites Restoration Limited |
 
@@ -400,12 +400,12 @@ Department for Culture, Media and Sport
 
 | Department | Designated body |
 | --- | --- |
-| Department for Culture, Media and Sport | Advisory Committee on National Historic Ships[^key-fcf3901915cdb56403b5dc558905915a] |
+| Department for Culture, Media and Sport | Advisory Committee on National Historic Ships[^c-fcf3901915cdb56403b5dc558905915a] |
 |  | Advisory Committee on the Government Art Collection |
-|  | [^key-7b6f0c336d3685b31ca3abb672689a3d]...<br>Artco Trading Ltd |
+|  | [^c-7b6f0c336d3685b31ca3abb672689a3d]...<br>Artco Trading Ltd |
 |  | Arts Council of England |
 |  | Arts Council of England Lottery |
-|  | BBC<br>[^key-7b6f0c336d3685b31ca3abb672689a3d]...<br>BBC Free to View Ltd<br>BBC Free to View (Satellite) Ltd<br>BBC Investments Ltd<br>BBC News Ltd<br>BBC Property Ltd<br>BBC Property Investment Ltd<br>BBC Property Development Ltd |
+|  | BBC<br>[^c-7b6f0c336d3685b31ca3abb672689a3d]...<br>BBC Free to View Ltd<br>BBC Free to View (Satellite) Ltd<br>BBC Investments Ltd<br>BBC News Ltd<br>BBC Property Ltd<br>BBC Property Investment Ltd<br>BBC Property Development Ltd |
 |  | BIG Lottery Fund |
 |  | British Film Institute (Big Screen) Ltd |
 |  | British Film Institute |
@@ -413,12 +413,12 @@ Department for Culture, Media and Sport
 |  | British Library |
 |  | British Museum Company Ltd |
 |  | British Museum<br>British Museum Great Court Limited<br>British Museum Ventures Ltd |
-|  | British Tourist Authority<br>British Screen Finance Ltd<br>British Screen Rights Limited<br>[^key-7b6f0c336d3685b31ca3abb672689a3d]...<br>The Caird Fund<br>[^key-7b6f0c336d3685b31ca3abb672689a3d]...<br>Centre House Productions Ltd<br>[^key-7b6f0c336d3685b31ca3abb672689a3d]... |
+|  | British Tourist Authority<br>British Screen Finance Ltd<br>British Screen Rights Limited<br>[^c-7b6f0c336d3685b31ca3abb672689a3d]...<br>The Caird Fund<br>[^c-7b6f0c336d3685b31ca3abb672689a3d]...<br>Centre House Productions Ltd<br>[^c-7b6f0c336d3685b31ca3abb672689a3d]... |
 |  | Churches Conservation Trust<br>The Commonwealth Broadcasting Association<br>Contracts Rights Renewal Adjudicator<br>The Dame Helen Gardner Bequest<br>Daunus Ltd<br>The Development Fund |
 |  | Digital UK Limited<br>DSHS Ltd<br>DTT Multiplex Operators Ltd<br>DTV Services<br>English Institute of Sport |
 |  | English Sports Council |
 |  | English Sports Council Lottery |
-|  | [^key-7b6f0c336d3685b31ca3abb672689a3d]. . . |
+|  | [^c-7b6f0c336d3685b31ca3abb672689a3d]. . . |
 |  | Equalities and Human Rights Commission |
 |  | European Co-Production Fund Limited |
 |  | Freesat (UK ) Ltd |
@@ -433,10 +433,10 @@ Department for Culture, Media and Sport
 |  | Horserace Betting Levy Board |
 |  | Imperial War Museum |
 |  | Imperial War Museum Trading Company Limited |
-|  | [^key-7b6f0c336d3685b31ca3abb672689a3d]. . . |
+|  | [^c-7b6f0c336d3685b31ca3abb672689a3d]. . . |
 |  | Joint Industry Grading Scheme Ltd |
 |  | Media Applications Technologies Ltd |
-|  | [^key-7b6f0c336d3685b31ca3abb672689a3d]. . . |
+|  | [^c-7b6f0c336d3685b31ca3abb672689a3d]. . . |
 |  | Morgan Stanley Gamma Investments |
 |  | Mortimer Productions Ltd |
 |  | The Museums, Libraries and Archives Council |
@@ -446,7 +446,7 @@ Department for Culture, Media and Sport
 |  | National Lottery Commission |
 |  | National Maritime Museum Enterprises Ltd |
 |  | National Maritime Museum |
-|  | National Museums Liverpool[^key-dfc0bcac55e6b55c38a6e9b88980666b] |
+|  | National Museums Liverpool[^c-dfc0bcac55e6b55c38a6e9b88980666b] |
 |  | National Museums Liverpool Trading Ltd |
 |  | National Portrait Gallery |
 |  | National Portrait Gallery Ltd |
@@ -464,10 +464,10 @@ Department for Culture, Media and Sport
 |  | Royal Armouries Trading & Enterprises Ltd |
 |  | Royal Armouries Museum |
 |  | S4C |
-|  | Science Museum Group[^key-e5f0e36e4089efaf47b2dc3612f52bb5] |
+|  | Science Museum Group[^c-e5f0e36e4089efaf47b2dc3612f52bb5] |
 |  | Sir John Soane’s Museum<br>Skillset Sector Skills<br>Soane Museum Enterprises<br>The Sports Council Trust Company<br>Sports Ground Safety Authority |
 |  | Stratford Village Development (GP) Ltd<br>Tate Gallery<br>Tate Gallery Projects Limited |
-|  | [^key-7b6f0c336d3685b31ca3abb672689a3d]. . . |
+|  | [^c-7b6f0c336d3685b31ca3abb672689a3d]. . . |
 |  | Treasure Valuation Committee |
 |  | UK Anti-Doping |
 |  | UK Sport Council |
@@ -505,7 +505,7 @@ Northern Ireland Office
 | Department | Designated body |
 | --- | --- |
 | Northern Ireland Office | Boundary Commission for Northern Ireland |
-|  | Northern Ireland Human Rights Commission<br>Parades Commission for Northern Ireland[^key-3b66c39c169409faf742558ed86d2ac4] |
+|  | Northern Ireland Human Rights Commission<br>Parades Commission for Northern Ireland[^c-3b66c39c169409faf742558ed86d2ac4] |
 |  |  |
 
 Table 18
@@ -537,7 +537,7 @@ Cabinet Office
 
 | Department | Designated body |
 | --- | --- |
-| Cabinet Office | Advisory Committee on Business Appointments<br>[^key-14f55022fcfe666ccb14bec2d40b7b1c]... |
+| Cabinet Office | Advisory Committee on Business Appointments<br>[^c-14f55022fcfe666ccb14bec2d40b7b1c]... |
 |  | Civil Service Commission |
 |  | Commissioner for Public Appointments |
 |  | Committee on Standards in Public Life |
@@ -562,62 +562,62 @@ An impact assessment has not been prepared for this instrument because no impact
 
 [^f00001]: Footnote: [2000 c. 20](https://www.legislation.gov.uk/ukpga/2000/20). Relevant amendments to this Act were made by section 43(2), (3) and (4) of the Constitutional Reform and Governance Act [2010 (c.25)](https://www.legislation.gov.uk/ukpga/2010/25).
 
-[^key-0ace76e752f0c618cedd49e6527a7278]: Commencement: Art. 1 in force at 1.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/717/article/1)
+[^c-0ace76e752f0c618cedd49e6527a7278]: Commencement: Art. 1 in force at 1.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/717/article/1)
 
-[^key-0452ef78e3cfd6a1522b76c7349efd8b]: Commencement: Art. 2 in force at 1.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/717/article/1)
+[^c-0452ef78e3cfd6a1522b76c7349efd8b]: Commencement: Art. 2 in force at 1.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/717/article/1)
 
-[^key-6aaccf7df43c4c74fbdfb2fa31289850]: Commencement: Sch. in force at 1.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/717/article/1)
+[^c-6aaccf7df43c4c74fbdfb2fa31289850]: Commencement: Sch. in force at 1.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/717/article/1)
 
-[^key-439b39f0fd836f6d567678863216a329]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 1 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
+[^c-439b39f0fd836f6d567678863216a329]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 1 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
 
-[^key-a96bd1418df0f21241dca4ee3d8e192a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 1 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
+[^c-a96bd1418df0f21241dca4ee3d8e192a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 1 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
 
-[^key-912ea54846c352893314b07e38a54bab]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 2 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
+[^c-912ea54846c352893314b07e38a54bab]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 2 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
 
-[^key-57be403de9a1300a7ecebcb7ad293459]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 2 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
+[^c-57be403de9a1300a7ecebcb7ad293459]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 2 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
 
-[^key-da9d010106a0038b8f8cc1a6b86fee03]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 2 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/4/a)
+[^c-da9d010106a0038b8f8cc1a6b86fee03]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 2 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/4/a)
 
-[^key-d4976b8b537696b546a083f7ceefae4c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 2 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/4/b)
+[^c-d4976b8b537696b546a083f7ceefae4c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 2 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/4/b)
 
-[^key-2ef362b4c4cbf7b59411eefede8b1903]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 4 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
+[^c-2ef362b4c4cbf7b59411eefede8b1903]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 4 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
 
-[^key-4970dbdc1f5b58fa10d45bb4f1b4651a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 4 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/5/a)
+[^c-4970dbdc1f5b58fa10d45bb4f1b4651a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 4 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/5/a)
 
-[^key-cdb8053ed1da70a524d9768c85d65e54]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 4 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
+[^c-cdb8053ed1da70a524d9768c85d65e54]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 4 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
 
-[^key-d7ac673ffe73c64f02b771c6365ae797]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 4 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/5/b)
+[^c-d7ac673ffe73c64f02b771c6365ae797]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 4 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/5/b)
 
-[^key-397abeac57ab0aad5c869aad8b474e8a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 5 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
+[^c-397abeac57ab0aad5c869aad8b474e8a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 5 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
 
-[^key-4649ccd9190871d58adcae4f7d343b26]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 6 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
+[^c-4649ccd9190871d58adcae4f7d343b26]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 6 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
 
-[^key-f9caa2d1203f946d8c7e75e36ff66dec]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 6 omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/20)
+[^c-f9caa2d1203f946d8c7e75e36ff66dec]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 6 omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/20)
 
-[^key-40a92b02574424031df40096cfdf1928]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 6 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
+[^c-40a92b02574424031df40096cfdf1928]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 6 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
 
-[^key-53ac81a061e917fd741003b48c3ecb2a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 6 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/6)
+[^c-53ac81a061e917fd741003b48c3ecb2a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 6 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/6)
 
-[^key-6b66afb61b2490ea0129c0e7bbe78c88]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 8 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
+[^c-6b66afb61b2490ea0129c0e7bbe78c88]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 8 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
 
-[^key-66dbf94ced974d5e5a57f2a7b56fadf5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 8 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
+[^c-66dbf94ced974d5e5a57f2a7b56fadf5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 8 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
 
-[^key-782ab68c5eb14cf90ca7b9a0d2e2ca4d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 9 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
+[^c-782ab68c5eb14cf90ca7b9a0d2e2ca4d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 9 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
 
-[^key-67afd9347b6c2b3f373c15a7c736a07f]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 11 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
+[^c-67afd9347b6c2b3f373c15a7c736a07f]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 11 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
 
-[^key-9ee7c3224195d6d9ea7736bfd5e4dec8]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 13 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
+[^c-9ee7c3224195d6d9ea7736bfd5e4dec8]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 13 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
 
-[^key-1197652a36d98f688a0ba0a8bc423a27]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 13 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
+[^c-1197652a36d98f688a0ba0a8bc423a27]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 13 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
 
-[^key-fcf3901915cdb56403b5dc558905915a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 15 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
+[^c-fcf3901915cdb56403b5dc558905915a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 15 inserted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3135/schedule/1)
 
-[^key-7b6f0c336d3685b31ca3abb672689a3d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 15 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
+[^c-7b6f0c336d3685b31ca3abb672689a3d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 15 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
 
-[^key-dfc0bcac55e6b55c38a6e9b88980666b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 15 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/7/a)
+[^c-dfc0bcac55e6b55c38a6e9b88980666b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 15 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/7/a)
 
-[^key-e5f0e36e4089efaf47b2dc3612f52bb5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 15 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/7/b)
+[^c-e5f0e36e4089efaf47b2dc3612f52bb5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 15 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/7/b)
 
-[^key-3b66c39c169409faf742558ed86d2ac4]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 17 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/8)
+[^c-3b66c39c169409faf742558ed86d2ac4]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 17 substituted (29.1.2013) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/8)
 
-[^key-14f55022fcfe666ccb14bec2d40b7b1c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 20 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)
+[^c-14f55022fcfe666ccb14bec2d40b7b1c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2012/717/schedule) Table 20 omitted (29.1.2013) by virtue of [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2012 (S.I. 2012/3135)](https://www.legislation.gov.uk/uksi/2012/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/3135/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/3135/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3135/schedule/2)

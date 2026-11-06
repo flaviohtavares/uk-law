@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Conduct of referendum: poll at referendum not taken together with poll at relevant election or referendum[^key-bb0e5913c22dcf2fc1fda3cbe2a0a987]
+## 8. Conduct of referendum: poll at referendum not taken together with poll at relevant election or referendum[^c-bb0e5913c22dcf2fc1fda3cbe2a0a987]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb0e5913c22dcf2fc1fda3cbe2a0a987]: Commencement: Reg. 8 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-bb0e5913c22dcf2fc1fda3cbe2a0a987]: Commencement: Reg. 8 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141. Electronic applications, notices and signatures[^key-018b04d68b271f9259df50068d79d1c8]
+## 141. Electronic applications, notices and signatures[^c-018b04d68b271f9259df50068d79d1c8]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ is, either alone or in combination with other factors, a valid means of establis
 
 ## Annotations
 
-[^key-018b04d68b271f9259df50068d79d1c8]: Commencement: Art. 141 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-018b04d68b271f9259df50068d79d1c8]: Commencement: Art. 141 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

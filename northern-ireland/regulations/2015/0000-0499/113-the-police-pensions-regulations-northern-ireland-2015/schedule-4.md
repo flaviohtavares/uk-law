@@ -40,7 +40,7 @@ In this Schedule—
   - (a) who is in pensionable service [^c22512601] under this scheme; or
   - (b) who, for the purposes of determining entitlement to payment of benefits to or in respect of the member, is taken to be an active member of this scheme [^c22512611];
 - “**closing date**”, in relation to a transition member, means—
-  - (za) if the member is a full protection member of the existing police pension scheme, 31st March 2022;[^key-00a5b7c3e1093c026ffda3b04259f95f]
+  - (za) if the member is a full protection member of the existing police pension scheme, 31st March 2022;[^c-00a5b7c3e1093c026ffda3b04259f95f]
   - (a) if the member is a tapered protection member of the existing scheme, the tapered protection closing date for that member; or
   - (b) if the member is not a protected member of the existing scheme, the scheme closing date;
 - “**exception**” means an exception to section 18(1) of the Act;
@@ -66,7 +66,7 @@ In this Schedule—
   - (d) in relation to the 2006 Scotland police pension scheme has the meaning given in the 2015 Scotland police pension scheme; and
   - (e) in relation to an existing scheme other than the 1988 scheme or the 2006 scheme, means a person in respect of whom an exception under section 18(6) of the Act applies for the purpose of that scheme; and
 - “**transition date**”, in relation to a transition member, means—
-  - (za) if the member is a full protection member of the existing police pension scheme, 1st April 2022;[^key-7769e7d4f741a87bfb039f0621acff89]
+  - (za) if the member is a full protection member of the existing police pension scheme, 1st April 2022;[^c-7769e7d4f741a87bfb039f0621acff89]
   - (a) if the member is a tapered protection member of the existing police pension scheme, the day after the tapered protection closing date for that member;
   - (b) if the member is not a protected member of that scheme, the day after the scheme closing date;
 
@@ -194,7 +194,7 @@ In this Schedule—
 
 (1) A person (P) to whom any of paragraph 11 applies is a full protection member of the 1988 scheme.
 
-(2)[^key-e923ed9343ed558152adfa1e87e7df04] P ceases to be a full protection member of the 1988 scheme on whichever of the following days occurs first—
+(2)[^c-e923ed9343ed558152adfa1e87e7df04] P ceases to be a full protection member of the 1988 scheme on whichever of the following days occurs first—
 
 - (a) the day on which P ceases to be in pensionable service under that scheme; or
 - (b) 31st March 2022.
@@ -241,7 +241,7 @@ In this Schedule—
 
 (1) A person (P) to whom paragraph 14 applies is a full protection member of the 2006 scheme.
 
-(2)[^key-a574610606aa17439380ac8b06527685] P ceases to be a full protection member of the 2006 scheme on whichever of the following days occurs first—
+(2)[^c-a574610606aa17439380ac8b06527685] P ceases to be a full protection member of the 2006 scheme on whichever of the following days occurs first—
 
 - (a) the day on which P ceases to be in pensionable service under that scheme; or
 - (b) 31st March 2022.
@@ -426,7 +426,7 @@ For the purpose of this Part in relation to the existing police pension scheme, 
 (2) If this paragraph applies—
 
 - (a) an ill-health pension is not payable under the existing police pension scheme.
-- (b) if the member is a 2006 transition member, a lump sum is not payable under regulation 25(1) (b) of the 2009 Regulations[^key-b07e072b6bef1ff6cf872c8beec8f812] ; and
+- (b) if the member is a 2006 transition member, a lump sum is not payable under regulation 25(1) (b) of the 2009 Regulations[^c-b07e072b6bef1ff6cf872c8beec8f812] ; and
 - (c) a pension is payable in accordance with this paragraph (“transition members ill-health pension”).
 
 (3) If the member meets the lower tier threshold only—
@@ -620,12 +620,12 @@ For the purpose of this Part in relation to the existing police pension scheme, 
 
 (1) This paragraph applies in relation to a transition member with continuity of service who dies as a deferred member or pensioner member or active member of this scheme.
 
-(2) The scheme manager must[^key-7d1894ee86fa811cbd1491c5f8284a12] grant a gratuity under both this scheme and the 2006 scheme if the conditions for payment are met under both—
+(2) The scheme manager must[^c-7d1894ee86fa811cbd1491c5f8284a12] grant a gratuity under both this scheme and the 2006 scheme if the conditions for payment are met under both—
 
 - (a) regulation 165 (death gratuity – estate); and
 - (b) regulation 42 of the 2009 Regulations(death gratuity – estate).
 
-(3) The scheme manager must[^key-adb0c0f1f4deae0d4f535e5373bc5564] grant a gratuity under both this scheme and the 1988 scheme if the conditions for payment are met under both —
+(3) The scheme manager must[^c-adb0c0f1f4deae0d4f535e5373bc5564] grant a gratuity under both this scheme and the 1988 scheme if the conditions for payment are met under both —
 
 - (a) regulation 165 (death gratuity – estate); and
 - (b) regulation E3 of the 1988 Regulations.
@@ -636,7 +636,7 @@ For the purpose of this Part in relation to the existing police pension scheme, 
 
 (1) This paragraph applies in relation to a transition member with continuity of service (T).
 
-(2) The provisions of the existing police pension scheme relating to an election to purchase increased benefits made before 1[^key-46f2326e1f96f068b08de1a0593f6549]<sup>st</sup> April 2022 [^c22512671]continue to apply after the closing date as if T continued in pensionable service under that scheme.
+(2) The provisions of the existing police pension scheme relating to an election to purchase increased benefits made before 1[^c-46f2326e1f96f068b08de1a0593f6549]<sup>st</sup> April 2022 [^c22512671]continue to apply after the closing date as if T continued in pensionable service under that scheme.
 
 (3) T may choose to end payments for added 60ths or added years after joining the scheme.
 
@@ -668,7 +668,7 @@ For the purpose of this Part in relation to the existing police pension scheme, 
 
 If a transition member with continuity of service (T) opts out of this scheme and T has less than 2 years' qualifying service, T must be refunded all member contributions under the existing police pension scheme.
 
-#### 39. Calculation of weighted accrual for ... service in the 1988 scheme[^key-e3351c2662087efcfbd08f279362f0ba]
+#### 39. Calculation of weighted accrual for ... service in the 1988 scheme[^c-e3351c2662087efcfbd08f279362f0ba]
 
 (1) This paragraph applies to a 1988 transition member with continuity of service (“the member”).
 
@@ -704,14 +704,14 @@ where—
 - (a) part-time service is taken to be full-time service; and
 - (b) the limit of 30 years' service applies.
 
-(7)[^key-f859fd3ac6df469aa22f9b2b74671bec] The annual rate of pension payable to the member under the 1988 scheme is the higher of —
+(7)[^c-f859fd3ac6df469aa22f9b2b74671bec] The annual rate of pension payable to the member under the 1988 scheme is the higher of —
 
 - (a) the amount calculated by multiplying the accrual rate by the member’s final pay; or
 - (b) where a member is entitled to a deferred pension under regulation B5 (member’s deferred pension) and under Part 6 (member’s deferred pension) of Schedule B, the amount of pension that would have been payable under the 1988 scheme if those provisions applied for the calculation instead of paragraphs (3) to (6) of this paragraph.
 
 (8) If the member is in part-time service, the member's final pay is calculated using the full-time equivalent rate of the member's pensionable earnings.
 
-(9)[^key-5ab9171b2d3726b3e842ed57dd4460e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-5ab9171b2d3726b3e842ed57dd4460e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 40. Calculation of lump sum under the 1988 scheme
 
@@ -937,31 +937,31 @@ where—
 
 [^c22512611]: Marginal citation: See chapter 1 of Part 4 (active membership) for when a member of the police service is taken to be an active member of this scheme.
 
-[^key-00a5b7c3e1093c026ffda3b04259f95f]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/1) inserted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/2/a)
+[^c-00a5b7c3e1093c026ffda3b04259f95f]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/1) inserted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/2/a)
 
-[^key-7769e7d4f741a87bfb039f0621acff89]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/1) inserted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/2/b)
+[^c-7769e7d4f741a87bfb039f0621acff89]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/1) inserted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/2/b)
 
 [^c22512621]: Marginal citation: See regulation 19 (periods of unpaid leave) for periods of unpaid leave during which the employment relationship continues.
 
 [^c22512631]: Marginal citation: See definition of “pensionable service” in section 34 of the Act
 
-[^key-e923ed9343ed558152adfa1e87e7df04]: Textual amendment: [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/9/2) substituted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(3)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/3)
+[^c-e923ed9343ed558152adfa1e87e7df04]: Textual amendment: [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/9/2) substituted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(3)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/3)
 
-[^key-a574610606aa17439380ac8b06527685]: Textual amendment: [Sch. 4 para. 12(2)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/12/2) substituted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(4)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/4)
+[^c-a574610606aa17439380ac8b06527685]: Textual amendment: [Sch. 4 para. 12(2)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/12/2) substituted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(4)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/4)
 
 [^c22512641]: Marginal citation: SR 1988 no.374
 
 [^c22512651]: Marginal citation: S.R. [2009 No.79](https://www.legislation.gov.uk/ukcm/2009/79).
 
-[^key-b07e072b6bef1ff6cf872c8beec8f812]: Textual amendment: Words in [Sch. 4 para. 23(2)(b)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/23/2/b) substituted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(5)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/5)
+[^c-b07e072b6bef1ff6cf872c8beec8f812]: Textual amendment: Words in [Sch. 4 para. 23(2)(b)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/23/2/b) substituted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(5)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/5)
 
 [^c22512661]: Marginal citation: [S.I.1971/1073](https://www.legislation.gov.uk/uksi/1971/1073) (N.I.10.)
 
-[^key-7d1894ee86fa811cbd1491c5f8284a12]: Textual amendment: Word in [Sch. 4 para. 34(2)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/34/2) substituted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(6)(a)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/6/a)
+[^c-7d1894ee86fa811cbd1491c5f8284a12]: Textual amendment: Word in [Sch. 4 para. 34(2)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/34/2) substituted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(6)(a)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/6/a)
 
-[^key-adb0c0f1f4deae0d4f535e5373bc5564]: Textual amendment: Word in [Sch. 4 para. 34(3)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/34/3) substituted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(6)(b)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/6/b)
+[^c-adb0c0f1f4deae0d4f535e5373bc5564]: Textual amendment: Word in [Sch. 4 para. 34(3)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/34/3) substituted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(6)(b)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/6/b)
 
-[^key-46f2326e1f96f068b08de1a0593f6549]: Textual amendment: Words in [Sch. 4 para. 35(2)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/35/2) substituted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(7)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/7)
+[^c-46f2326e1f96f068b08de1a0593f6549]: Textual amendment: Words in [Sch. 4 para. 35(2)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/35/2) substituted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(7)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/7)
 
 [^c22512671]: Marginal citation: See
 
@@ -969,11 +969,11 @@ where—
 
 [^c22512681]: Marginal citation: See Part 6 (retirement benefits) for the meaning of “qualifying service”.
 
-[^key-e3351c2662087efcfbd08f279362f0ba]: Textual amendment: Word in [Sch. 4 para. 39](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/39) heading omitted (30.3.2022) by virtue of [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(8)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/8)
+[^c-e3351c2662087efcfbd08f279362f0ba]: Textual amendment: Word in [Sch. 4 para. 39](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/39) heading omitted (30.3.2022) by virtue of [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(8)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/8)
 
-[^key-f859fd3ac6df469aa22f9b2b74671bec]: Textual amendment: [Sch. 4 para. 39(7)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/39/7) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [43(2)](https://www.legislation.gov.uk/nisr/2024/38/regulation/43/2)
+[^c-f859fd3ac6df469aa22f9b2b74671bec]: Textual amendment: [Sch. 4 para. 39(7)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/39/7) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [43(2)](https://www.legislation.gov.uk/nisr/2024/38/regulation/43/2)
 
-[^key-5ab9171b2d3726b3e842ed57dd4460e3]: Textual amendment: [Sch. 4 para. 39(9)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/39/9) omitted (30.3.2022) by virtue of [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(9)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/9)
+[^c-5ab9171b2d3726b3e842ed57dd4460e3]: Textual amendment: [Sch. 4 para. 39(9)](https://www.legislation.gov.uk/nisr/2015/113/schedule/4/paragraph/39/9) omitted (30.3.2022) by virtue of [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [6(9)](https://www.legislation.gov.uk/nisr/2022/148/regulation/6/9)
 
 [^c22512691]: Marginal citation: S.R [1988 No.374](https://www.legislation.gov.uk/ukcm/1988/374)
 

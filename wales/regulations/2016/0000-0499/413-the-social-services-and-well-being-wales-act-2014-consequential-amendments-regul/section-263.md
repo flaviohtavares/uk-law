@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**263.**[^key-2b0923df59f1b4afdaf97c7e5e2e7530] In section 31[^f00205] (supply of information concerning the death of children to Local Safeguarding Children Boards)—
+**263.**[^c-2b0923df59f1b4afdaf97c7e5e2e7530] In section 31[^f00205] (supply of information concerning the death of children to Local Safeguarding Children Boards)—
 
 - (a) in subsection (2) for “appropriate Local Safeguarding Children Board” substitute “appropriate Board”;
 - (b) in subsection (4) for “appropriate Local Safeguarding Children Board” substitute “appropriate Board”;
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b0923df59f1b4afdaf97c7e5e2e7530]: Commencement: Reg. 263 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-2b0923df59f1b4afdaf97c7e5e2e7530]: Commencement: Reg. 263 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00205]: Footnote: Section 31 was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158), Part 2 of Schedule 2, paragraph 65.

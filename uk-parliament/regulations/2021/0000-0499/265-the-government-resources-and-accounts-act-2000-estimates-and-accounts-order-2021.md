@@ -48,13 +48,13 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 In accordance with section 4A(8) of that Act the Treasury have consulted, where they think it appropriate, the Scottish Ministers, the Department for Finance and Personnel for Northern Ireland and the Welsh Ministers.
 
-## 1. Citation and commencement[^key-9acb0f5a28f7b6e6a3fe4f43e140e11c]
+## 1. Citation and commencement[^c-9acb0f5a28f7b6e6a3fe4f43e140e11c]
 
 (1) This Order may be cited as the Government Resources and Accounts Act 2000 (Estimates and Accounts) Order 2021.
 
 (2) This Order comes into force on 1st April 2021.
 
-## 2. Designations[^key-e40671e8b3cbabf7952655ec496636eb]
+## 2. Designations[^c-e40671e8b3cbabf7952655ec496636eb]
 
 A body which is listed in a Part of the Schedule to this Order is a designated body for the purposes of section 4A of the Government Resources and Accounts Act 2000—
 
@@ -67,7 +67,7 @@ James Morris
 
 Two of the Lords Commissioners of Her Majesty’s Treasury
 
-## SCHEDULE — Designated Bodies[^key-ca6bfdb24f328c463db997b750a59ead]
+## SCHEDULE — Designated Bodies[^c-ca6bfdb24f328c463db997b750a59ead]
 
 ### PART 1 — Ministry of Defence
 
@@ -999,8 +999,8 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00001]: Footnote: [2000 c.20](https://www.legislation.gov.uk/ukpga/2000/20). Section 4A was inserted by section 43(2) of the Constitutional Reform and Governance Act [2010 (c.25)](https://www.legislation.gov.uk/ukpga/2010/25).
 
-[^key-9acb0f5a28f7b6e6a3fe4f43e140e11c]: Commencement: Art. 1 in force at 1.4.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/265/article/1/2)
+[^c-9acb0f5a28f7b6e6a3fe4f43e140e11c]: Commencement: Art. 1 in force at 1.4.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/265/article/1/2)
 
-[^key-e40671e8b3cbabf7952655ec496636eb]: Commencement: Art. 2 in force at 1.4.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/265/article/1/2)
+[^c-e40671e8b3cbabf7952655ec496636eb]: Commencement: Art. 2 in force at 1.4.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/265/article/1/2)
 
-[^key-ca6bfdb24f328c463db997b750a59ead]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2021/265/schedule) substituted (31.1.2022) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2021 (S.I. 2021/1441)](https://www.legislation.gov.uk/uksi/2021/1441), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1441/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/1441/schedule)
+[^c-ca6bfdb24f328c463db997b750a59ead]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2021/265/schedule) substituted (31.1.2022) by [The Government Resources and Accounts Act 2000 (Estimates and Accounts) (Amendment) Order 2021 (S.I. 2021/1441)](https://www.legislation.gov.uk/uksi/2021/1441), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1441/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/1441/schedule)

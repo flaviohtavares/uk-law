@@ -46,7 +46,7 @@ Coming into force
 
 [^c22358371]The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 32, 43(2) and 46 of the Local Audit and Accountability Act 2014 .
 
-In accordance with section 32(3) of the Act he has consulted the Comptroller and Auditor General, such representatives of relevant authorities as he thinks appropriate, and the recognised supervisory bodies.[^key-066b69ad7cbca6ba69ce78f823b12fcd][^key-2c29e5196db6e35e2872eb8211a31e39]
+In accordance with section 32(3) of the Act he has consulted the Comptroller and Auditor General, such representatives of relevant authorities as he thinks appropriate, and the recognised supervisory bodies.[^c-066b69ad7cbca6ba69ce78f823b12fcd][^c-2c29e5196db6e35e2872eb8211a31e39]
 
 ## PART 1 — Introductory
 
@@ -66,7 +66,7 @@ In accordance with section 32(3) of the Act he has consulted the Comptroller and
 - “**the 2011 Act**” means the Police Reform and Social Responsibility Act 2011 [^c22358421];
 - “**the Act**” means the Local Audit and Accountability Act 2014;
 - “**audit letter**” means the annual audit letter to the relevant authority by the local auditor sent pursuant to the Code of Audit Practice published by the National Audit Office, 157-197 Buckingham Palace Road, Victoria, London SW1W 9SP and dated January 2015. Reference number: 10495-001;
-- “[^key-3b990863f5f1d88caa3aea9db0a47106]**auditor’s annual report**” has the same meaning as in—
+- “[^c-3b990863f5f1d88caa3aea9db0a47106]**auditor’s annual report**” has the same meaning as in—
   - (a) the Code of Audit Practice published by the National Audit Office and dated April 2020 with Reference number: 11868-002; or
   - (b) the Code of Audit Practice published by the National Audit Office and dated September 2024 with Reference number: 013422;
 - “**Category 1 authority**” means a relevant authority that either—
@@ -183,7 +183,7 @@ as are considered necessary by those conducting the internal audit.
 
 ## PART 3 — Published accounts and audit – Category 1 authorities
 
-### 7. Statement of accounts for Category 1 authorities[^key-ce5bb85420cbc6cfb122dda8770c72c2][^key-70035a21a3337ec5545e0c0a5ba2fd67]
+### 7. Statement of accounts for Category 1 authorities[^c-ce5bb85420cbc6cfb122dda8770c72c2][^c-70035a21a3337ec5545e0c0a5ba2fd67]
 
 (1) A statement of accounts prepared by a Category 1 authority under section 3(3) of the Act must be prepared in accordance with—
 
@@ -218,13 +218,13 @@ as are considered necessary by those conducting the internal audit.
 - (c) a debit in respect of any repayment, made in that financial year, of the principal of any amount borrowed where the repayment was met by payments out of the major repairs reserve; and
 - (d) a debit in respect of the meeting of any liability, in that financial year, in respect of credit arrangements, other than any liability which, in accordance with proper practices in relation to accounts, must be charged to a revenue account, where the meeting of that liability was met by payments out of the major repairs reserve.
 
-### 8. Narrative statements[^key-dbaddea9a63f8e5c7c0b43ae13524f08]
+### 8. Narrative statements[^c-dbaddea9a63f8e5c7c0b43ae13524f08]
 
 (1) A Category 1 authority must prepare a narrative statement in accordance with paragraph (2) in respect of each financial year.
 
 (2) A narrative statement prepared under paragraph (1) must include comment by the authority on its financial performance and economy, efficiency and effectiveness in its use of resources over the financial year.
 
-### 9. Signing and approval of statement of accounts for Category 1 authorities[^key-2b8e8514d89f0e830ab02f7d09f06c4b]
+### 9. Signing and approval of statement of accounts for Category 1 authorities[^c-2b8e8514d89f0e830ab02f7d09f06c4b]
 
 (1) The responsible financial officer for a Category 1 authority must, on behalf of that authority, in the following order—
 
@@ -247,7 +247,7 @@ as are considered necessary by those conducting the internal audit.
 
 before that authority approves it.
 
-### 9A. Publication of statement of accounts, annual governance statement and narrative statement for Category 1 authorities: financial years 2015-2028[^key-0318a4546f9cc50ca8c0cab123e0e5e5]
+### 9A. Publication of statement of accounts, annual governance statement and narrative statement for Category 1 authorities: financial years 2015-2028[^c-0318a4546f9cc50ca8c0cab123e0e5e5]
 
 (1) This regulation applies to Category 1 authorities for the financial years in the period beginning with 1st April 2015 and ending with 31st March 2028.
 
@@ -301,15 +301,15 @@ before that authority approves it.
   - (c) the narrative statement prepared in accordance with regulation 8;
 - “**last publication date**”, in relation to a financial year, means the date on or before which the accountability statements must be published in accordance with paragraphs (2) or (3).
 
-### 10. Publication of statement of accounts, annual governance statement and narrative statement for Category 1 authorities : financial years 2028 onwards[^key-71f104dcc94ec68be94af349154c2d18]
+### 10. Publication of statement of accounts, annual governance statement and narrative statement for Category 1 authorities : financial years 2028 onwards[^c-71f104dcc94ec68be94af349154c2d18]
 
-(1)[^key-f7e3816c239514a9b18e7d0a3648d053] For a financial year beginning in 2028 or later[^key-b11f86804468156940989b13d04ad05d] ,[^M_F_ed4505b0-300a-46d0-c819-40f8dd364007] a Category 1 authority must, after approving the statement of accounts in accordance with regulation 9(2) but not later than 31st July of the financial year immediately following the end of the financial year to which the statement relates, publish (which must include publication on the authority's website)—
+(1)[^c-f7e3816c239514a9b18e7d0a3648d053] For a financial year beginning in 2028 or later[^c-b11f86804468156940989b13d04ad05d] ,[^M_F_ed4505b0-300a-46d0-c819-40f8dd364007] a Category 1 authority must, after approving the statement of accounts in accordance with regulation 9(2) but not later than 31st July of the financial year immediately following the end of the financial year to which the statement relates, publish (which must include publication on the authority's website)—
 
-- (a) the statement of accounts together with the opinion and any certificate[^key-bc056f7ee9d89f735f4127d699c6372b], entered by the local auditor in accordance with section 20(2) of the Act;
+- (a) the statement of accounts together with the opinion and any certificate[^c-bc056f7ee9d89f735f4127d699c6372b], entered by the local auditor in accordance with section 20(2) of the Act;
 - (b) the annual governance statement approved in accordance with regulation 6(2); and
 - (c) the narrative statement prepared in accordance with regulation 8.
 
-(2) Where[^key-a013badf83b22bc22145c2737de3628f] an audit of accounts has not been concluded before the date specified in paragraph (1) an authority must—
+(2) Where[^c-a013badf83b22bc22145c2737de3628f] an audit of accounts has not been concluded before the date specified in paragraph (1) an authority must—
 
 - (a) publish (which must include publication on the authority's website) as soon as reasonably practicable on or after that date a notice stating that it has not been able to publish the statement of accounts and its reasons for this; and
 - (b) comply with paragraph (1) as if for “but not later than 31st July of the financial year immediately following the end of the financial year to which the statement relates” there were substituted “ as soon as reasonably practicable after the receipt of any report from the auditor which contains the auditor's final findings from the audit which is issued before the conclusion of the audit ”.
@@ -319,21 +319,21 @@ before that authority approves it.
 - (a) keep copies of those documents for purchase by any person on payment of a reasonable sum; and
 - (b) ensure that those documents remain available for public access for a period of not less than five years beginning with the date on which those documents were first published in accordance with that paragraph.
 
-(4)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4A)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4B)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4B)[^c-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4C)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4C)[^c-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6A)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6A)[^c-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6B)[^key-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6B)[^c-a1aeb2922500f6eb8919a0c38fd6bd9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Published accounts and audit – Category 2 authorities
 
@@ -374,7 +374,7 @@ prepared in accordance with, and in the form specified in any annual return requ
 
 ### 13. Publication of statement of accounts and annual governance statement for Category 2 authorities
 
-(1) Subject to paragraphs (3) and (6),[^key-53089df782d58778165826640fa0a9a3] a Category 2 authority must, after the conclusion of the period for the exercise of public rights but not later than 30th September of the financial year immediately following the end of the financial year to which the statement relates, publish (which must include publication on that authority's website)—
+(1) Subject to paragraphs (3) and (6),[^c-53089df782d58778165826640fa0a9a3] a Category 2 authority must, after the conclusion of the period for the exercise of public rights but not later than 30th September of the financial year immediately following the end of the financial year to which the statement relates, publish (which must include publication on that authority's website)—
 
 - (a) the statement of accounts together with any certificate or opinion entered by the local auditor in accordance with section 20(2) of the Act; and
 - (b) the annual governance statement approved in accordance with regulation 6(3).
@@ -393,7 +393,7 @@ prepared in accordance with, and in the form specified in any annual return requ
 
 (5) In the case of a Category 2 authority which is a parish meeting, and where the authority has displayed its statement of accounts in a conspicuous place in accordance with regulation 2(5)(b)(ii), paragraph (4)(b) does not apply.
 
-(6)[^key-47e887ac327be66ed301857341cd8ef3] Paragraph (1) applies in relation to the publication of documents relating to the financial year beginning in 2019 as if for “30th September” there were substituted “30th November”.
+(6)[^c-47e887ac327be66ed301857341cd8ef3] Paragraph (1) applies in relation to the publication of documents relating to the financial year beginning in 2019 as if for “30th September” there were substituted “30th November”.
 
 ## PART 5 — Inspection and notice procedure
 
@@ -407,12 +407,12 @@ prepared in accordance with, and in the form specified in any annual return requ
 
 ### 15. Commencement of the period for the exercise of public rights
 
-(1) Subject to[^key-5a065db5adac9d93df07f4d7a565e7af] paragraphs (5), (6) and (7)[^key-05cb6decc40a6f56bbf8893411540045] the responsible financial officer for a relevant authority must, on behalf of the authority, ensure that commencement of the period for the exercise of public rights under regulation 9(1)(b) or 12(3)(a) (as the case may be), takes place on such a day that ensures that the period referred to in regulation 14(1) includes—
+(1) Subject to[^c-5a065db5adac9d93df07f4d7a565e7af] paragraphs (5), (6) and (7)[^c-05cb6decc40a6f56bbf8893411540045] the responsible financial officer for a relevant authority must, on behalf of the authority, ensure that commencement of the period for the exercise of public rights under regulation 9(1)(b) or 12(3)(a) (as the case may be), takes place on such a day that ensures that the period referred to in regulation 14(1) includes—
 
-- (a)[^key-4cc07a5590abcc8e29a8822c1c02590b][^key-ebc2ae85d5622ccd3b470c4a00f8cb2f][^key-43c50b5c631e3eabcd0a361b69efa055][^key-935941baebeefb77873ad5925259f88b][^key-d6d43857e804e57d78c693a12d008839][^key-2e5e502b6cb7ebc454fa3f65c65f0a29] the first 10 working days of June of the financial year immediately following the end of the financial year to which the statement relates, where that authority is a Category 1 authority; or
+- (a)[^c-4cc07a5590abcc8e29a8822c1c02590b][^c-ebc2ae85d5622ccd3b470c4a00f8cb2f][^c-43c50b5c631e3eabcd0a361b69efa055][^c-935941baebeefb77873ad5925259f88b][^c-d6d43857e804e57d78c693a12d008839][^c-2e5e502b6cb7ebc454fa3f65c65f0a29] the first 10 working days of June of the financial year immediately following the end of the financial year to which the statement relates, where that authority is a Category 1 authority; or
 - (b) the first 10 working days of July of the financial year immediately following the end of the financial year to which the statement relates, where that authority is a Category 2 authority.
 
-(1A)[^key-9e5a9412a5d9102fa5e1db2157c8ff10] Where the period for the exercise of public rights has not been commenced in accordance with paragraph (1) a relevant authority must—
+(1A)[^c-9e5a9412a5d9102fa5e1db2157c8ff10] Where the period for the exercise of public rights has not been commenced in accordance with paragraph (1) a relevant authority must—
 
 - (a) publish (which must include publication on the authority’s website) as soon as reasonably practicable a notice stating that it has not been able to commence the period for the exercise of public rights and its reasons for this; and
 - (b) comply with paragraph (1) as if for “on such a day” to the end there were substituted “as soon as reasonably practicable.”
@@ -441,11 +441,11 @@ prepared in accordance with, and in the form specified in any annual return requ
 
 but has not yet had entered on it a certificate in accordance with section 20(2)(a) of the Act that the auditor has completed the audit in accordance with the Act.
 
-(5)[^key-bd9dc5b36aa918dfcc9b6f4f05b8eb4d] Paragraph (1) applies in relation to accounts relating to the financial year beginning in 2019 as if for from “on such a day” to the end there were substituted “on or before the first working day of September 2020”.
+(5)[^c-bd9dc5b36aa918dfcc9b6f4f05b8eb4d] Paragraph (1) applies in relation to accounts relating to the financial year beginning in 2019 as if for from “on such a day” to the end there were substituted “on or before the first working day of September 2020”.
 
-(6)[^key-1905339f8be14a187716159adb520721] Paragraph (1) applies in relation to accounts of a Category 1 authority[^key-fe5d4b86351d6024aeb0f9777b15c2fa] relating to the financial years beginning in 2020 and 2021 as if from “on such a day” to the end there were substituted “on or before the first working day of August of the financial year immediately following the end of the financial year to which the statement relates.”
+(6)[^c-1905339f8be14a187716159adb520721] Paragraph (1) applies in relation to accounts of a Category 1 authority[^c-fe5d4b86351d6024aeb0f9777b15c2fa] relating to the financial years beginning in 2020 and 2021 as if from “on such a day” to the end there were substituted “on or before the first working day of August of the financial year immediately following the end of the financial year to which the statement relates.”
 
-(7)[^key-48131d145350f3ab22f4741d3540b837] Paragraph (1) applies in relation to accounts of a Category 1 authority for the financial years beginning in 2024, 2025, 2026 and 2027 as if from “on such a day” to the end there were substituted “on or before the first working day of July of the financial year immediately following the end of the financial year to which the statement relates.”
+(7)[^c-48131d145350f3ab22f4741d3540b837] Paragraph (1) applies in relation to accounts of a Category 1 authority for the financial years beginning in 2024, 2025, 2026 and 2027 as if from “on such a day” to the end there were substituted “on or before the first working day of July of the financial year immediately following the end of the financial year to which the statement relates.”
 
 ### 16. Notice of conclusion of audit
 
@@ -481,9 +481,9 @@ The summary statement of accounts which the Greater London Authority (“**the A
 - (c) a summary of the capital expenditure of the Authority;
 - (d) a summary of the capital expenditure of each of the functional bodies and the London Pensions Fund Authority.
 
-### 19. Joint boards, combined authorities , combined county authorities and National Park authorities[^key-44a2198e66f9871a1bc32ec7c8247a1d]
+### 19. Joint boards, combined authorities , combined county authorities and National Park authorities[^c-44a2198e66f9871a1bc32ec7c8247a1d]
 
-(1) Any joint board, combined authority , combined county authority[^key-bb761d53af7d4427b074fc6bb4de9cf2] or National Park authority to which these Regulations apply must deposit with each constituent authority—
+(1) Any joint board, combined authority , combined county authority[^c-bb761d53af7d4427b074fc6bb4de9cf2] or National Park authority to which these Regulations apply must deposit with each constituent authority—
 
 - (a) any documents it makes available for inspection under section 25(1) of the Act, as soon as reasonably practicable after notice has been given under regulation 16(1) or documents have been published under regulation 13(4) (as the case may be) in the case of a Category 2 authority with exempt status;
 - (b) the annual governance statement prepared in accordance with regulation 6(2) or (3) (as the case may be); and
@@ -494,13 +494,13 @@ The summary statement of accounts which the Greater London Authority (“**the A
 - (a) the Secretary of State; and
 - (b) Natural England.
 
-### 20. Publication of annual audit letter or auditor’s annual report[^key-ea21742323b9b2d1b4c6c8456ba9bb77]
+### 20. Publication of annual audit letter or auditor’s annual report[^c-ea21742323b9b2d1b4c6c8456ba9bb77]
 
-(1) Where [^key-ea05ffbd70b0cf431648c4d7769488ef]... a relevant authority receives any audit letter or auditor’s annual report[^key-c9fe4f8ddf7266e69f9bb0a0e80ca515] from the local auditor, the members of the relevant authority, or, in the case of a Category 1 authority, a committee of that authority, must meet to consider that letter or report[^key-b868420126a8d97e17ab56c0c63d986e] as soon as reasonably practicable.
+(1) Where [^c-ea05ffbd70b0cf431648c4d7769488ef]... a relevant authority receives any audit letter or auditor’s annual report[^c-c9fe4f8ddf7266e69f9bb0a0e80ca515] from the local auditor, the members of the relevant authority, or, in the case of a Category 1 authority, a committee of that authority, must meet to consider that letter or report[^c-b868420126a8d97e17ab56c0c63d986e] as soon as reasonably practicable.
 
-(2) Following consideration of the letter or report[^key-ef1b94403b009f0d172b027eb65130cf] in accordance with paragraph (1) the authority must—
+(2) Following consideration of the letter or report[^c-ef1b94403b009f0d172b027eb65130cf] in accordance with paragraph (1) the authority must—
 
-- (a) publish (which must include publication on the authority's website) the audit letter or auditor’s annual report[^key-12d29692ee7beb8a8f9a1fda3ce282c5] received from the local auditor; and
+- (a) publish (which must include publication on the authority's website) the audit letter or auditor’s annual report[^c-12d29692ee7beb8a8f9a1fda3ce282c5] received from the local auditor; and
 - (b) make copies available for purchase by any person on payment of such sum as the relevant authority may reasonably require.
 
 ### 21. Transitory provisions
@@ -619,9 +619,9 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c22358371]: Marginal citation: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2); see also section 134(6) of the [Greater London Authority Act 1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29) (amended by paragraph 43 of Schedule 12 to the Local Audit and Accountability Act 2014) and [S.I. 2015/179](https://www.legislation.gov.uk/uksi/2015/179) (C.11).
 
-[^key-066b69ad7cbca6ba69ce78f823b12fcd]: Modification: Regulations modified by S.I. 2009/276, reg. 9(4) (as substituted (E.) (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2018/930/regulation/7/5))
+[^c-066b69ad7cbca6ba69ce78f823b12fcd]: Modification: Regulations modified by S.I. 2009/276, reg. 9(4) (as substituted (E.) (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2018/930/regulation/7/5))
 
-[^key-2c29e5196db6e35e2872eb8211a31e39]: Modification: Regulations modified by S.I. 2009/276, reg. 10(2) (as substituted (E.) (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2018/930/regulation/7/6))
+[^c-2c29e5196db6e35e2872eb8211a31e39]: Modification: Regulations modified by S.I. 2009/276, reg. 10(2) (as substituted (E.) (5.9.2018) by [The Local Government (Structural Changes) (General) (Amendment) Regulations 2018 (S.I. 2018/930)](https://www.legislation.gov.uk/uksi/2018/930), [regs. 1](https://www.legislation.gov.uk/uksi/2018/930/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2018/930/regulation/7/6))
 
 [^c22358381]: Marginal citation: See section 3(2) of the Local Audit and Accountability Act 2014 for the definition of “financial year”.
 
@@ -633,7 +633,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c22358421]: Marginal citation: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
 
-[^key-3b990863f5f1d88caa3aea9db0a47106]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/2/1) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/2)
+[^c-3b990863f5f1d88caa3aea9db0a47106]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/2/1) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/2)
 
 [^c22358431]: Marginal citation: See section 6 of the Local Audit and Accountability Act 2014 for the definition of “smaller authority”.
 
@@ -657,9 +657,9 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c22358531]: Marginal citation: See section 21 of the [Local Government Act 2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26) for the definition of “proper practices in relation to accounts”.
 
-[^key-ce5bb85420cbc6cfb122dda8770c72c2]: Modification: Reg. 7 modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/21/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-ce5bb85420cbc6cfb122dda8770c72c2]: Modification: Reg. 7 modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/21/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
-[^key-70035a21a3337ec5545e0c0a5ba2fd67]: Modification: Reg. 7 modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/22/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-70035a21a3337ec5545e0c0a5ba2fd67]: Modification: Reg. 7 modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/22/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
 [^c22358541]: Marginal citation: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Section 14 has been amended by section 59 of the [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31) and paragraph 23 of Schedule 14 to the [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18).
 
@@ -669,77 +669,77 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c22358571]: Marginal citation: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26).
 
-[^key-dbaddea9a63f8e5c7c0b43ae13524f08]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/234/regulation/8) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/21/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-dbaddea9a63f8e5c7c0b43ae13524f08]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/234/regulation/8) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/21/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
-[^key-2b8e8514d89f0e830ab02f7d09f06c4b]: Modification: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/234/regulation/9) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [21(2)(c)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/21/2/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-2b8e8514d89f0e830ab02f7d09f06c4b]: Modification: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/234/regulation/9) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [21(2)(c)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/21/2/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
-[^key-0318a4546f9cc50ca8c0cab123e0e5e5]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2015/234/regulation/9A) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/3)
+[^c-0318a4546f9cc50ca8c0cab123e0e5e5]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2015/234/regulation/9A) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/3)
 
-[^key-71f104dcc94ec68be94af349154c2d18]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2015/234/regulation/10) heading inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/4/a)
+[^c-71f104dcc94ec68be94af349154c2d18]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2015/234/regulation/10) heading inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/4/a)
 
-[^key-f7e3816c239514a9b18e7d0a3648d053]: Modification: Reg. 10(1) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [21(2)(d)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/21/2/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-f7e3816c239514a9b18e7d0a3648d053]: Modification: Reg. 10(1) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [21(2)(d)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/21/2/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
-[^key-b11f86804468156940989b13d04ad05d]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/10/1) substituted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/4/b/i)
+[^c-b11f86804468156940989b13d04ad05d]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/10/1) substituted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/4/b/i)
 
 [^M_F_ed4505b0-300a-46d0-c819-40f8dd364007]: Textual amendment: Words in reg. 10(1) substituted (31.3.2021) by [The Accounts and Audit (Amendment) Regulations 2021 (S.I. 2021/263)](https://www.legislation.gov.uk/uksi/2021/263), [regs. 1](https://www.legislation.gov.uk/uksi/2021/263/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/263/regulation/2/2/a)
 
-[^key-bc056f7ee9d89f735f4127d699c6372b]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/10/1) substituted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/4/b/ii)
+[^c-bc056f7ee9d89f735f4127d699c6372b]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/10/1) substituted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/4/b/ii)
 
-[^key-a013badf83b22bc22145c2737de3628f]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/234/regulation/10/2) substituted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/4/c)
+[^c-a013badf83b22bc22145c2737de3628f]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/234/regulation/10/2) substituted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/4/c)
 
-[^key-a1aeb2922500f6eb8919a0c38fd6bd9d]: Textual amendment: [Reg. 10(4)-(6B)](https://www.legislation.gov.uk/uksi/2015/234/regulation/10/4) omitted (30.9.2024) by virtue of [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(4)(d)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/4/d)
+[^c-a1aeb2922500f6eb8919a0c38fd6bd9d]: Textual amendment: [Reg. 10(4)-(6B)](https://www.legislation.gov.uk/uksi/2015/234/regulation/10/4) omitted (30.9.2024) by virtue of [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(4)(d)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/4/d)
 
-[^key-53089df782d58778165826640fa0a9a3]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/13/1) substituted (30.4.2020) by [The Accounts and Audit (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/404)](https://www.legislation.gov.uk/uksi/2020/404), [regs. 1](https://www.legislation.gov.uk/uksi/2020/404/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/404/regulation/2/3/a)
+[^c-53089df782d58778165826640fa0a9a3]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/13/1) substituted (30.4.2020) by [The Accounts and Audit (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/404)](https://www.legislation.gov.uk/uksi/2020/404), [regs. 1](https://www.legislation.gov.uk/uksi/2020/404/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/404/regulation/2/3/a)
 
-[^key-47e887ac327be66ed301857341cd8ef3]: Textual amendment: [Reg. 13(6)](https://www.legislation.gov.uk/uksi/2015/234/regulation/13/6) inserted (30.4.2020) by [The Accounts and Audit (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/404)](https://www.legislation.gov.uk/uksi/2020/404), [regs. 1](https://www.legislation.gov.uk/uksi/2020/404/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/404/regulation/2/3/b)
+[^c-47e887ac327be66ed301857341cd8ef3]: Textual amendment: [Reg. 13(6)](https://www.legislation.gov.uk/uksi/2015/234/regulation/13/6) inserted (30.4.2020) by [The Accounts and Audit (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/404)](https://www.legislation.gov.uk/uksi/2020/404), [regs. 1](https://www.legislation.gov.uk/uksi/2020/404/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/404/regulation/2/3/b)
 
-[^key-5a065db5adac9d93df07f4d7a565e7af]: Textual amendment: Words in reg. 15(1) inserted (30.4.2020) by [The Accounts and Audit (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/404)](https://www.legislation.gov.uk/uksi/2020/404), [regs. 1](https://www.legislation.gov.uk/uksi/2020/404/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/404/regulation/2/4/a)
+[^c-5a065db5adac9d93df07f4d7a565e7af]: Textual amendment: Words in reg. 15(1) inserted (30.4.2020) by [The Accounts and Audit (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/404)](https://www.legislation.gov.uk/uksi/2020/404), [regs. 1](https://www.legislation.gov.uk/uksi/2020/404/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/404/regulation/2/4/a)
 
-[^key-05cb6decc40a6f56bbf8893411540045]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/15/1) substituted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/5/a)
+[^c-05cb6decc40a6f56bbf8893411540045]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/15/1) substituted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/5/a)
 
-[^key-4cc07a5590abcc8e29a8822c1c02590b]: Modification: Reg. 15(1)(a) modified (25.3.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/470/article/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2017/470/article/9/2)
+[^c-4cc07a5590abcc8e29a8822c1c02590b]: Modification: Reg. 15(1)(a) modified (25.3.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/470/article/1/3), [9(2)](https://www.legislation.gov.uk/uksi/2017/470/article/9/2)
 
-[^key-ebc2ae85d5622ccd3b470c4a00f8cb2f]: Modification: Reg. 15(1)(a) modified (25.3.2017) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) Order 2017 (S.I. 2017/469)](https://www.legislation.gov.uk/uksi/2017/469), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/469/article/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2017/469/article/11/2)
+[^c-ebc2ae85d5622ccd3b470c4a00f8cb2f]: Modification: Reg. 15(1)(a) modified (25.3.2017) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) Order 2017 (S.I. 2017/469)](https://www.legislation.gov.uk/uksi/2017/469), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/469/article/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2017/469/article/11/2)
 
-[^key-43c50b5c631e3eabcd0a361b69efa055]: Modification: Reg. 15(1)(a) modified (30.1.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2), [41(2)](https://www.legislation.gov.uk/uksi/2021/112/article/41/2)[(3)](https://www.legislation.gov.uk/uksi/2021/112/article/41/3)
+[^c-43c50b5c631e3eabcd0a361b69efa055]: Modification: Reg. 15(1)(a) modified (30.1.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2), [41(2)](https://www.legislation.gov.uk/uksi/2021/112/article/41/2)[(3)](https://www.legislation.gov.uk/uksi/2021/112/article/41/3)
 
-[^key-935941baebeefb77873ad5925259f88b]: Modification: Reg. 15(1)(a) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [39(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/39/1)[(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/39/3)
+[^c-935941baebeefb77873ad5925259f88b]: Modification: Reg. 15(1)(a) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [39(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/39/1)[(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/39/3)
 
-[^key-d6d43857e804e57d78c693a12d008839]: Modification: Reg. 15(1)(a) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [54(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/54/1)[(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/54/3)
+[^c-d6d43857e804e57d78c693a12d008839]: Modification: Reg. 15(1)(a) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [54(1)](https://www.legislation.gov.uk/uksi/2023/1432/article/54/1)[(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/54/3)
 
-[^key-2e5e502b6cb7ebc454fa3f65c65f0a29]: Modification: [Reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2015/234/regulation/15/1/a) modified (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2024/414/article/11/3)
+[^c-2e5e502b6cb7ebc454fa3f65c65f0a29]: Modification: [Reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2015/234/regulation/15/1/a) modified (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2024/414/article/11/3)
 
-[^key-9e5a9412a5d9102fa5e1db2157c8ff10]: Textual amendment: Reg. 15(1A) inserted (31.3.2021) by [The Accounts and Audit (Amendment) Regulations 2021 (S.I. 2021/263)](https://www.legislation.gov.uk/uksi/2021/263), [regs. 1](https://www.legislation.gov.uk/uksi/2021/263/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/263/regulation/2/3/b)
+[^c-9e5a9412a5d9102fa5e1db2157c8ff10]: Textual amendment: Reg. 15(1A) inserted (31.3.2021) by [The Accounts and Audit (Amendment) Regulations 2021 (S.I. 2021/263)](https://www.legislation.gov.uk/uksi/2021/263), [regs. 1](https://www.legislation.gov.uk/uksi/2021/263/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/263/regulation/2/3/b)
 
 [^c22358581]: Marginal citation: See regulation 12 of the Smaller Authorities Regulations for the application of section 20 of the Act in relation to a Category 2 authority with exempt status.
 
-[^key-bd9dc5b36aa918dfcc9b6f4f05b8eb4d]: Textual amendment: Reg. 15(5) inserted (30.4.2020) by [The Accounts and Audit (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/404)](https://www.legislation.gov.uk/uksi/2020/404), [regs. 1](https://www.legislation.gov.uk/uksi/2020/404/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/404/regulation/2/4/b)
+[^c-bd9dc5b36aa918dfcc9b6f4f05b8eb4d]: Textual amendment: Reg. 15(5) inserted (30.4.2020) by [The Accounts and Audit (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/404)](https://www.legislation.gov.uk/uksi/2020/404), [regs. 1](https://www.legislation.gov.uk/uksi/2020/404/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/404/regulation/2/4/b)
 
-[^key-1905339f8be14a187716159adb520721]: Textual amendment: Reg. 15(6) inserted (31.3.2021) by [The Accounts and Audit (Amendment) Regulations 2021 (S.I. 2021/263)](https://www.legislation.gov.uk/uksi/2021/263), [regs. 1](https://www.legislation.gov.uk/uksi/2021/263/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2021/263/regulation/2/3/c)
+[^c-1905339f8be14a187716159adb520721]: Textual amendment: Reg. 15(6) inserted (31.3.2021) by [The Accounts and Audit (Amendment) Regulations 2021 (S.I. 2021/263)](https://www.legislation.gov.uk/uksi/2021/263), [regs. 1](https://www.legislation.gov.uk/uksi/2021/263/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2021/263/regulation/2/3/c)
 
-[^key-fe5d4b86351d6024aeb0f9777b15c2fa]: Textual amendment: Words in reg. 15(6) inserted (3.6.2021) by [The Accounts and Audit (Amendment No. 2) Regulations 2021 (S.I. 2021/565)](https://www.legislation.gov.uk/uksi/2021/565), [regs. 1](https://www.legislation.gov.uk/uksi/2021/565/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/565/regulation/2/2)
+[^c-fe5d4b86351d6024aeb0f9777b15c2fa]: Textual amendment: Words in reg. 15(6) inserted (3.6.2021) by [The Accounts and Audit (Amendment No. 2) Regulations 2021 (S.I. 2021/565)](https://www.legislation.gov.uk/uksi/2021/565), [regs. 1](https://www.legislation.gov.uk/uksi/2021/565/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/565/regulation/2/2)
 
-[^key-48131d145350f3ab22f4741d3540b837]: Textual amendment: [Reg. 15(7)](https://www.legislation.gov.uk/uksi/2015/234/regulation/15/7) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/5/b)
+[^c-48131d145350f3ab22f4741d3540b837]: Textual amendment: [Reg. 15(7)](https://www.legislation.gov.uk/uksi/2015/234/regulation/15/7) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/5/b)
 
 [^c22358591]: Marginal citation: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).
 
 [^c22358601]: Marginal citation: See section 424 of the [Greater London Authority Act 1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29) for the definition of “functional body”.
 
-[^key-44a2198e66f9871a1bc32ec7c8247a1d]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2015/234/regulation/19) heading inserted (17.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2024/418/regulation/4/a)
+[^c-44a2198e66f9871a1bc32ec7c8247a1d]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2015/234/regulation/19) heading inserted (17.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2024/418/regulation/4/a)
 
-[^key-bb761d53af7d4427b074fc6bb4de9cf2]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/19/1) inserted (17.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2024/418/regulation/4/b)
+[^c-bb761d53af7d4427b074fc6bb4de9cf2]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/19/1) inserted (17.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (England) Regulations 2024 (S.I. 2024/418)](https://www.legislation.gov.uk/uksi/2024/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/418/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2024/418/regulation/4/b)
 
-[^key-ea21742323b9b2d1b4c6c8456ba9bb77]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2015/234/regulation/20) heading inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(a)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/a)
+[^c-ea21742323b9b2d1b4c6c8456ba9bb77]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2015/234/regulation/20) heading inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(a)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/a)
 
-[^key-ea05ffbd70b0cf431648c4d7769488ef]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/20/1) omitted (30.9.2024) by virtue of [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/b/i)
+[^c-ea05ffbd70b0cf431648c4d7769488ef]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/20/1) omitted (30.9.2024) by virtue of [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/b/i)
 
-[^key-c9fe4f8ddf7266e69f9bb0a0e80ca515]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/20/1) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/b/ii)
+[^c-c9fe4f8ddf7266e69f9bb0a0e80ca515]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/20/1) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/b/ii)
 
-[^key-b868420126a8d97e17ab56c0c63d986e]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/20/1) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/b/iii)
+[^c-b868420126a8d97e17ab56c0c63d986e]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/20/1) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/b/iii)
 
-[^key-ef1b94403b009f0d172b027eb65130cf]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/uksi/2015/234/regulation/20/2) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(c)(i)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/c/i)
+[^c-ef1b94403b009f0d172b027eb65130cf]: Textual amendment: Words in [reg. 20(2)](https://www.legislation.gov.uk/uksi/2015/234/regulation/20/2) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(c)(i)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/c/i)
 
-[^key-12d29692ee7beb8a8f9a1fda3ce282c5]: Textual amendment: Words in [reg. 20(2)(a)](https://www.legislation.gov.uk/uksi/2015/234/regulation/20/2/a) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/c/ii)
+[^c-12d29692ee7beb8a8f9a1fda3ce282c5]: Textual amendment: Words in [reg. 20(2)(a)](https://www.legislation.gov.uk/uksi/2015/234/regulation/20/2/a) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [2(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/907/regulation/2/6/c/ii)
 
 [^c22358611]: Marginal citation: [S.I. 2003/527](https://www.legislation.gov.uk/uksi/2003/527) to which there are amendments not relevant to these Regulations.
 

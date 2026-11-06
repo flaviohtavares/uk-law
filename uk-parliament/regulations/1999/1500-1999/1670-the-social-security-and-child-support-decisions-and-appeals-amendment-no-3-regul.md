@@ -113,7 +113,7 @@ The Secretary of State for Social Security, in exercise of powers conferred by s
 
 .
 
-(5)[^key-b29bf311c6eb608e32f467e2a697748b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b29bf311c6eb608e32f467e2a697748b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Social Security.
 
@@ -145,4 +145,4 @@ Amendments are also made in regulation 41 of the principal Regulations to specif
 
 [^c1644747]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991); the relevant amending instrument is [S.I. 1999/1662](https://www.legislation.gov.uk/uksi/1999/1662) (C.47).
 
-[^key-b29bf311c6eb608e32f467e2a697748b]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/uksi/1999/1670/regulation/2/5) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-b29bf311c6eb608e32f467e2a697748b]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/uksi/1999/1670/regulation/2/5) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)

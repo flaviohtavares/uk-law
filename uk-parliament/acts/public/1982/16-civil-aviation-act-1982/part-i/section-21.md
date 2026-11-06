@@ -28,10 +28,10 @@ summary: ''
 - (b) shall incorporate any statements published by the CAA under section 69 below during that year;
 - (c) [^c19351321]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) shall include such information as the Secretary of State may from time to time specify with respect to the plans and the past and present activities of the CAA and its financial position.
-- (e)[^key-b09a411a283b21e9115ee038cc1e01b5] shall contain a statement by the CAA about efficiency in the performance of its functions (an “efficiency statement”);
+- (e)[^c-b09a411a283b21e9115ee038cc1e01b5] shall contain a statement by the CAA about efficiency in the performance of its functions (an “efficiency statement”);
 - (f) shall contain the auditors' assessment mentioned in subsection (2B).
 
-(2A)[^key-a3ce2ae4afd6f4b745aacc9b3abb6dc4] The Secretary of State may from time to time give directions about matters that must be covered in an efficiency statement, including matters relating to the plans or the past or present activities of the CAA.
+(2A)[^c-a3ce2ae4afd6f4b745aacc9b3abb6dc4] The Secretary of State may from time to time give directions about matters that must be covered in an efficiency statement, including matters relating to the plans or the past or present activities of the CAA.
 
 (2B) The auditors appointed under section 15(2) in respect of an accounting year must produce an assessment of the efficiency statement for that year.
 
@@ -43,6 +43,6 @@ summary: ''
 
 [^c19351321]: Textual amendment: S. 21(2)(c) repealed (16.2.2004) by [The Aviation Safety Regulations 2004 (S.I. 2004/77)](https://www.legislation.gov.uk/uksi/2004/77), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2004/77/regulation/2/2) (with savings in [reg. 2(6)](https://www.legislation.gov.uk/uksi/2004/77/regulation/2/6))
 
-[^key-b09a411a283b21e9115ee038cc1e01b5]: Textual amendment: S. 21(2)(e)(f) inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 102(2)](https://www.legislation.gov.uk/ukpga/2012/19/section/102/2), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 5(2)](https://www.legislation.gov.uk/uksi/2013/589/article/5/2)
+[^c-b09a411a283b21e9115ee038cc1e01b5]: Textual amendment: S. 21(2)(e)(f) inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 102(2)](https://www.legislation.gov.uk/ukpga/2012/19/section/102/2), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 5(2)](https://www.legislation.gov.uk/uksi/2013/589/article/5/2)
 
-[^key-a3ce2ae4afd6f4b745aacc9b3abb6dc4]: Textual amendment: S. 21(2A)(2B) inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 102(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/102/3), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 5(2)](https://www.legislation.gov.uk/uksi/2013/589/article/5/2)
+[^c-a3ce2ae4afd6f4b745aacc9b3abb6dc4]: Textual amendment: S. 21(2A)(2B) inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 102(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/102/3), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 5(2)](https://www.legislation.gov.uk/uksi/2013/589/article/5/2)

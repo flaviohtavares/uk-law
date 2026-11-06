@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7.[^key-7ada378902560c1c82b5eec0bed18aad]
+## 7.[^c-7ada378902560c1c82b5eec0bed18aad]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For Schedule 1, substitute the Schedule set out in the Schedule to these Regulat
 
 ## Annotations
 
-[^key-7ada378902560c1c82b5eec0bed18aad]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with 2020 c.1, Sch. 5 para. 1(1)), see reg. 1
+[^c-7ada378902560c1c82b5eec0bed18aad]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with 2020 c.1, Sch. 5 para. 1(1)), see reg. 1

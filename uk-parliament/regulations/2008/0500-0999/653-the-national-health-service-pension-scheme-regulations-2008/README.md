@@ -44,7 +44,7 @@ Coming into force
 
 1st April 2008
 
-The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 10(1) and (2) and 12(1) and (2) of, and Schedule 3 to, the Superannuation Act 1972[^f00001], with the consent of the Treasury[^f00002]. In accordance with section 10(4) of that Act, the Secretary of State has consulted with representatives of persons likely to be affected by these Regulations, as appeared to the Secretary of State to be appropriate[^f00003].[^key-98c9383019728e55159529afb0c0b384][^key-3aa5c9d29402893f850eddcd403b9097]
+The Secretary of State for Health makes the following Regulations in exercise of the powers conferred by sections 10(1) and (2) and 12(1) and (2) of, and Schedule 3 to, the Superannuation Act 1972[^f00001], with the consent of the Treasury[^f00002]. In accordance with section 10(4) of that Act, the Secretary of State has consulted with representatives of persons likely to be affected by these Regulations, as appeared to the Secretary of State to be appropriate[^f00003].[^c-98c9383019728e55159529afb0c0b384][^c-3aa5c9d29402893f850eddcd403b9097]
 
 ## Contents
 
@@ -321,7 +321,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 2.F.15 — Bulk transfers in](part-2/section-2-f-15.md)
 - [Section 2.F.16 — EU and other overseas transfers](part-2/section-2-f-16.md)
 
-##### Transfers across[^key-6ad9519151ca3310cce953d20b5a1379]
+##### Transfers across[^c-6ad9519151ca3310cce953d20b5a1379]
 
 - [Section 2.F.17 — Transfers across from the 1995 Section](part-2/section-2-f-17.md)
 - [Section 2.F.18 — Right to transfer a deferred pension to the 2015 Scheme](part-2/section-2-f-18.md)
@@ -451,14 +451,14 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 2.J.14 — Employing authority and certain member record keeping and contribution estimates](part-2/section-2-j-14.md)
 - [Section 2.J.15 — Benefit information statements](part-2/section-2-j-15.md)
 
-#### CHAPTER 2.K[^key-689c5d36d0edf6a08d1cd456a1c288ce]
+#### CHAPTER 2.K[^c-689c5d36d0edf6a08d1cd456a1c288ce]
 
-##### 2008 Section Optants[^key-689c5d36d0edf6a08d1cd456a1c288ce]
+##### 2008 Section Optants[^c-689c5d36d0edf6a08d1cd456a1c288ce]
 
 - [Section 2.K.1 — Application of Chapter 2.K](part-2/section-2-k-1.md)
 - [Section 2.K.2 — Options for 1995 Section members to join this Section of the Scheme under Chapter 2.K](part-2/section-2-k-2.md)
 
-##### Transfer of service from the 1995 Section[^key-689c5d36d0edf6a08d1cd456a1c288ce]
+##### Transfer of service from the 1995 Section[^c-689c5d36d0edf6a08d1cd456a1c288ce]
 
 - [Section 2.K.3 — Service credited from the 1995 Section](part-2/section-2-k-3.md)
 - [Section 2.K.4 — Treatment of Additional Pension](part-2/section-2-k-4.md)
@@ -471,7 +471,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 2.K.11 — Meaning of “capped Optant service”](part-2/section-2-k-11.md)
 - [Section 2.K.12 — Amount of pension and lump sum to be paid to a 2008 Section Optant](part-2/section-2-k-12.md)
 
-##### Miscellaneous provisions[^key-689c5d36d0edf6a08d1cd456a1c288ce]
+##### Miscellaneous provisions[^c-689c5d36d0edf6a08d1cd456a1c288ce]
 
 - [Section 2.K.13 — Transfers in: transitional provision](part-2/section-2-k-13.md)
 - [Section 2.K.14 — 2008 Section Optants: Transitional Tier 2 ill-health pension](part-2/section-2-k-14.md)
@@ -486,7 +486,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 2.K.23 — Lump sum payable on the death of a 2008 Section Optant who is in receipt of a tier 1 ill-health pension under regulation E2A of the 1995 Regulations](part-2/section-2-k-23.md)
 - [Section 2.K.24 — Children’s pensions payable on the death of a 2008 Section Optant who is in receipt of a tier 1 ill-health pension under regulation E2A of the 1995 Regulations](part-2/section-2-k-24.md)
 
-#### CHAPTER 2.L — Waiting Period Joiners[^key-fbda4064e3008371b283317496ade442]
+#### CHAPTER 2.L — Waiting Period Joiners[^c-fbda4064e3008371b283317496ade442]
 
 - [Section 2.L.1 — Application of Chapter 2.L](part-2/section-2-l-1.md)
 - [Section 2.L.2 — Nominations and notices accepted by the Secretary of State under the 1995 Regulations and Chapter 2.E of these Regulations](part-2/section-2-l-2.md)
@@ -494,7 +494,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 2.L.4 — Lump sum payable on the death of a Waiting Period Joiner](part-2/section-2-l-4.md)
 - [Section 2.L.5 — Children’s pensions payable on the death of a Waiting Period Joiner](part-2/section-2-l-5.md)
 
-#### Chapter 2.M — Independent Providers[^key-6c284d686fcbdf2d525783ae68d80711]
+#### Chapter 2.M — Independent Providers[^c-6c284d686fcbdf2d525783ae68d80711]
 
 - [Section 2.M.1 — General](part-2/section-2-m-1.md)
 - [Section 2.M.2 — IP Guarantees](part-2/section-2-m-2.md)
@@ -526,14 +526,14 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.A.3 — Meaning of “pensionable service”](part-3/section-3-a-3.md)
 - [Section 3.A.4 — Pensionable service: breaks in service](part-3/section-3-a-4.md)
 
-##### Qualifying service[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Qualifying service[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.A.5 — Meaning of “qualifying service”](part-3/section-3-a-5.md)
 - [Section 3.A.6 — Qualifying service: disregard of breaks in service](part-3/section-3-a-6.md)
 
-##### Pensionable earnings[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Pensionable earnings[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -548,7 +548,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.A.15 — Limit on pensionable earnings—dentist performers carrying on deceased person’s business](part-3/section-3-a-15.md)
 - [Section 3.A.16 — Out of hours providers](part-3/section-3-a-16.md)
 
-#### CHAPTER 3.B — MEMBERSHIP[^key-d8b7394b5516cee263fa1805f85422f4]
+#### CHAPTER 3.B — MEMBERSHIP[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -557,7 +557,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.B.2 — Restrictions on eligibility: general](part-3/section-3-b-2.md)
 - [Section 3.B.3 — Concurrent employments](part-3/section-3-b-3.md)
 
-##### Joining and leaving the Scheme[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Joining and leaving the Scheme[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -566,11 +566,11 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.B.6 — Restriction on further participation in this Section of the Scheme](part-3/section-3-b-6.md)
 - [Section 3.B.7 — Membership: locum practitioners](part-3/section-3-b-7.md)
 
-#### Chapter 3.C — CONTRIBUTIONS[^key-d8b7394b5516cee263fa1805f85422f4]
+#### Chapter 3.C — CONTRIBUTIONS[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
-##### Basic contributions by members[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Basic contributions by members[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -581,7 +581,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.C.4 — Guarantees, indemnities and bonds](part-3/section-3-c-4.md)
 - [Section 3.C.5 — Payment of Contributions](part-3/section-3-c-5.md)
 
-##### Additional contributions to purchase additional pensions[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Additional contributions to purchase additional pensions[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -596,17 +596,17 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.C.14 — Effect of part payment of periodical contributions](part-3/section-3-c-14.md)
 - [Section 3.C.15 — Revaluation of increases bought under options: members’ pensions](part-3/section-3-c-15.md)
 
-##### Repayment of contributions[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Repayment of contributions[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.C.16 — Repayment of contributions](part-3/section-3-c-16.md)
 
-#### CHAPTER 3.D — MEMBERS’ RETIREMENT BENEFITS[^key-d8b7394b5516cee263fa1805f85422f4]
+#### CHAPTER 3.D — MEMBERS’ RETIREMENT BENEFITS[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
-##### Entitlement to pensions[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Entitlement to pensions[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -620,21 +620,21 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.D.8 — Re-assessment of entitlement to an ill-health pension determined under regulation 3.D.7](part-3/section-3-d-8.md)
 - [Section 3.D.9 — Early retirement on ill-health (deferred members)](part-3/section-3-d-9.md)
 
-##### Options to exchange pension for lump sum[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Options to exchange pension for lump sum[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.D.10 — General option to exchange part of pension for lump sum](part-3/section-3-d-10.md)
 - [Section 3.D.11 — Option for members in serious ill-health to exchange whole pension for lump sum](part-3/section-3-d-11.md)
 
-##### Pension debit members and pension credit members[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Pension debit members and pension credit members[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.D.12 — Reduction in pension debit member’s benefits](part-3/section-3-d-12.md)
 - [Section 3.D.13 — Pension credit member’s rights](part-3/section-3-d-13.md)
 
-##### Allocation[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Allocation[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -642,24 +642,24 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.D.15 — Procedure for election under regulation 3.D.14](part-3/section-3-d-15.md)
 - [Section 3.D.16 — Effect of allocation](part-3/section-3-d-16.md)
 
-##### Dual capacity membership[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Dual capacity membership[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.D.17 — Dual capacity membership](part-3/section-3-d-17.md)
 
-##### Contracting-out obligations (GMPs, etc.)[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Contracting-out obligations (GMPs, etc.)[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.D.18 — Guaranteed minimum pensions etc](part-3/section-3-d-18.md)
 - [Section 3.D.19 — Exceptions to requirement that NHS employment must have ceased](part-3/section-3-d-19.md)
 
-#### CHAPTER 3.E — DEATH BENEFTS[^key-d8b7394b5516cee263fa1805f85422f4]
+#### CHAPTER 3.E — DEATH BENEFTS[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
-##### Pensions for surviving adults[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Pensions for surviving adults[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -671,7 +671,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.E.6 — Recent leavers](part-3/section-3-e-6.md)
 - [Section 3.E.7 — Re-employed pensioners: adult survivor pensions in initial period](part-3/section-3-e-7.md)
 
-##### Pensions for dependent children[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Pensions for dependent children[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -684,7 +684,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.E.14 — Power to increase pension in respect of children not maintained by surviving parent etc](part-3/section-3-e-14.md)
 - [Section 3.E.15 — Amount of children’s pension under regulation 3.E.8: re-employed pensioners](part-3/section-3-e-15.md)
 
-##### Lump sum death benefits[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Lump sum death benefits[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -697,7 +697,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.E.21 — Payment of lump sums or pensions on death](part-3/section-3-e-21.md)
 - [Section 3.E.22 — Tax treatment under the 2004 Act of lump sums payable on pensioners’ deaths](part-3/section-3-e-22.md)
 
-##### Miscellaneous and general provisions[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Miscellaneous and general provisions[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -706,11 +706,11 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.E.25 — Dual capacity membership: death benefits](part-3/section-3-e-25.md)
 - [Section 3.E.26 — Guaranteed minimum pensions for surviving spouses and civil partners](part-3/section-3-e-26.md)
 
-#### CHAPTER 3.F — TRANSFERS[^key-d8b7394b5516cee263fa1805f85422f4]
+#### CHAPTER 3.F — TRANSFERS[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
-##### Transfers out[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Transfers out[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -722,7 +722,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.F.6 — Calculating amounts of transfer value payments](part-3/section-3-f-6.md)
 - [Section 3.F.7 — Effect of transfers-out](part-3/section-3-f-7.md)
 
-##### Transfers in[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Transfers in[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -736,36 +736,36 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.F.15 — Bulk transfers in](part-3/section-3-f-15.md)
 - [Section 3.F.16 — EU and other overseas transfers](part-3/section-3-f-16.md)
 
-##### Transfers across[^key-67fcc18c2ce3424460d4dc16964a2680][^key-d8b7394b5516cee263fa1805f85422f4]
+##### Transfers across[^c-67fcc18c2ce3424460d4dc16964a2680][^c-d8b7394b5516cee263fa1805f85422f4]
 
 - [Section 3.F.17 — Transfers across from the 1995 Section](part-3/section-3-f-17.md)
 - [Section 3.F.18 — Right to transfer a deferred pension to the 2015 Scheme](part-3/section-3-f-18.md)
 
-#### CHAPTER 3.G — RE-EMPLOYMENT AND REJOINING THE SCHEME[^key-d8b7394b5516cee263fa1805f85422f4]
+#### CHAPTER 3.G — RE-EMPLOYMENT AND REJOINING THE SCHEME[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
-##### Preliminary[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Preliminary[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.G.1 — Application of Chapter 3.G](part-3/section-3-g-1.md)
 
-##### General rule: separate treatment of service etc except where unfavourable to member[^key-d8b7394b5516cee263fa1805f85422f4]
+##### General rule: separate treatment of service etc except where unfavourable to member[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.G.2 — General rule: separate treatment of service etc](part-3/section-3-g-2.md)
 - [Section 3.G.3 — Exception to general rule in 3.G.2](part-3/section-3-g-3.md)
 
-##### Special rules about re-employment of ill-health pensioners[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Special rules about re-employment of ill-health pensioners[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.G.4 — Effect of re-employment on tier 2 ill-health pensions](part-3/section-3-g-4.md)
 - [Section 3.G.5 — Re-employed tier 1 ill-health pensioners](part-3/section-3-g-5.md)
 
-#### CHAPTER 3.H — ABATEMENT[^key-d8b7394b5516cee263fa1805f85422f4]
+#### CHAPTER 3.H — ABATEMENT[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -777,93 +777,93 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.H.6 — Employed pensioners with more than one pension](part-3/section-3-h-6.md)
 - [Section 3.H.7 — Provisional reductions and later adjustments](part-3/section-3-h-7.md)
 
-#### CHAPTER 3.J — MISCELLANEOUS AND SUPPLEMENTARY PROVISIONS[^key-d8b7394b5516cee263fa1805f85422f4]
+#### CHAPTER 3.J — MISCELLANEOUS AND SUPPLEMENTARY PROVISIONS[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
-##### Scheme administrator[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Scheme administrator[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.J.1 — Appointment of Scheme administrator](part-3/section-3-j-1.md)
 
-##### Claims[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Claims[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.J.2 — Claims for benefits](part-3/section-3-j-2.md)
 - [Section 3.J.2A — Provision of information: continuing entitlement to benefit](part-3/section-3-j-2a.md)
 
-##### Power to extend time limits[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Power to extend time limits[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.J.3 — Power to extend time limits](part-3/section-3-j-3.md)
 
-##### Beneficiaries who are incapable of looking after their affairs[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Beneficiaries who are incapable of looking after their affairs[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.J.4 — Beneficiaries who are incapable of looking after their affairs](part-3/section-3-j-4.md)
 
-##### Commutation of small pensions[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Commutation of small pensions[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.J.5 — Commutation of small pensions](part-3/section-3-j-5.md)
 
-##### Reduction in and forfeiture of benefits[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Reduction in and forfeiture of benefits[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.J.6 — Reduction in benefits in cases where loss caused by member’s crime, negligence or fraud](part-3/section-3-j-6.md)
 - [Section 3.J.7 — Forfeiture of rights to benefits](part-3/section-3-j-7.md)
 
-##### Provisions about tax[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Provisions about tax[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.J.8 — Deduction of tax](part-3/section-3-j-8.md)
 
-##### Interest on delayed payments[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Interest on delayed payments[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.J.9 — Interest on late payment of benefits and refunds of contributions](part-3/section-3-j-9.md)
 - [Section 3.J.9A — Interest and Administration Charges: Late paid contributions](part-3/section-3-j-9a.md)
 
-##### Determinations[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Determinations[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.J.10 — Determination of questions](part-3/section-3-j-10.md)
 - [Section 3.J.11 — Determinations by medical practitioners](part-3/section-3-j-11.md)
 
-##### General prohibition on unauthorised payments[^key-d8b7394b5516cee263fa1805f85422f4]
+##### General prohibition on unauthorised payments[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.J.12 — General prohibition on unauthorised payments](part-3/section-3-j-12.md)
 
-##### Prohibition on assignment or charging of benefits[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Prohibition on assignment or charging of benefits[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.J.13 — Prohibition on assignment or charging of benefits](part-3/section-3-j-13.md)
 
-##### Record keeping and contribution estimates[^key-d8b7394b5516cee263fa1805f85422f4]
+##### Record keeping and contribution estimates[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
 - [Section 3.J.14 — Employing authority and certain member record keeping and contribution estimates](part-3/section-3-j-14.md)
 - [Section 3.J.15 — Benefit information statements](part-3/section-3-j-15.md)
 
-#### CHAPTER 3.K — 2008 Section Optants[^key-ce4df8598cfe969aa510d39614f40976][^key-d8b7394b5516cee263fa1805f85422f4]
+#### CHAPTER 3.K — 2008 Section Optants[^c-ce4df8598cfe969aa510d39614f40976][^c-d8b7394b5516cee263fa1805f85422f4]
 
 - [Section 3.K.1 — Application of Chapter 3.K](part-3/section-3-k-1.md)
 - [Section 3.K.2 — Options for 1995 Section members to join this Section of the Scheme under Chapter 3.K](part-3/section-3-k-2.md)
 
-##### Transfer of service and pensionable earnings from the 1995 Section[^key-ce4df8598cfe969aa510d39614f40976][^key-d8b7394b5516cee263fa1805f85422f4]
+##### Transfer of service and pensionable earnings from the 1995 Section[^c-ce4df8598cfe969aa510d39614f40976][^c-d8b7394b5516cee263fa1805f85422f4]
 
 - [Section 3.K.3 — Service and pensionable earnings credited from the 1995 Section](part-3/section-3-k-3.md)
 - [Section 3.K.4 — Treatment of Additional Pension](part-3/section-3-k-4.md)
@@ -873,7 +873,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.K.8 — Pension debit members](part-3/section-3-k-8.md)
 - [Section 3.K.9 — Pensionable earnings credited under regulations 3.K.3 and 3.K.5 to be treated as capped Optant pensionable earnings](part-3/section-3-k-9.md)
 
-##### Miscellaneous provisions[^key-ce4df8598cfe969aa510d39614f40976][^key-d8b7394b5516cee263fa1805f85422f4]
+##### Miscellaneous provisions[^c-ce4df8598cfe969aa510d39614f40976][^c-d8b7394b5516cee263fa1805f85422f4]
 
 - [Section 3.K.10 — Transfers in: transitional provision](part-3/section-3-k-10.md)
 - [Section 3.K.11 — Amount of pension and lump sum be to be paid to a 2008 Section Optant](part-3/section-3-k-11.md)
@@ -890,7 +890,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.K.22 — Lump sum payable on the death of a 2008 Section Optant who is in receipt of a tier 1 ill-health pension under regulation E2A of the 1995 Regulations](part-3/section-3-k-22.md)
 - [Section 3.K.23 — Children’s pensions payable on the death of a 2008 Section Optant who is in receipt of a tier 1 ill-health pension under regulation E2A of the 1995 Regulations](part-3/section-3-k-23.md)
 
-#### CHAPTER 3.L — Waiting Period Joiners[^key-5a75d7fe3bf61d57fc23850805d2825d][^key-d8b7394b5516cee263fa1805f85422f4]
+#### CHAPTER 3.L — Waiting Period Joiners[^c-5a75d7fe3bf61d57fc23850805d2825d][^c-d8b7394b5516cee263fa1805f85422f4]
 
 - [Section 3.L.1 — Application of Chapter 3.L](part-3/section-3-l-1.md)
 - [Section 3.L.2 — Nominations and notices accepted by the Secretary of State under the 1995 Regulations and Chapter 3.E of these Regulations](part-3/section-3-l-2.md)
@@ -898,7 +898,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 3.L.4 — Lump sum payable on the death of a Waiting Period Joiner](part-3/section-3-l-4.md)
 - [Section 3.L.5 — Children’s pensions payable on the death of a Waiting Period Joiner](part-3/section-3-l-5.md)
 
-### PART 4 — BENEFITS IN CASES OF MIXED SERVICE[^key-665e719ffe715a10046e1a4a915c1d12]
+### PART 4 — BENEFITS IN CASES OF MIXED SERVICE[^c-665e719ffe715a10046e1a4a915c1d12]
 
 *Extent: E+W*
 
@@ -949,7 +949,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 - [Section 4.B.6 — Cases with less than 1 year of concurrent officer service](part-4/section-4-b-6.md)
 - [Section 4.B.7 — Cases with 1 year or more of concurrent officer service](part-4/section-4-b-7.md)
 
-##### Non-concurrent Officer and Practitioner Service[^key-a5544516e0a263a5a4ddf2fe0173f869]
+##### Non-concurrent Officer and Practitioner Service[^c-a5544516e0a263a5a4ddf2fe0173f869]
 
 - [Section 4.B.7A — Cases with non-concurrent officer service between periods of practitioner service](part-4/section-4-b-7a.md)
 
@@ -1075,28 +1075,28 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00003]: Footnote: *See* section 10(4) of the Superannuation Act 1972.
 
-[^key-98c9383019728e55159529afb0c0b384]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2008/653) applied (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [14(2)](https://www.legislation.gov.uk/uksi/2015/95/regulation/14/2)
+[^c-98c9383019728e55159529afb0c0b384]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2008/653) applied (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [14(2)](https://www.legislation.gov.uk/uksi/2015/95/regulation/14/2)
 
-[^key-3aa5c9d29402893f850eddcd403b9097]: Modification: Regulations modified (temp.) (25.3.2022 immediately after the expiry of [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [s. 45](https://www.legislation.gov.uk/ukpga/2020/7/section/45)) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2022/273/regulation/11) (with [reg. 9](https://www.legislation.gov.uk/uksi/2022/273/regulation/9)) (as amended (31.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/1028)](https://www.legislation.gov.uk/uksi/2022/1028) [S.I. 2022/1028](https://www.legislation.gov.uk/uksi/2022/1028), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1028/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/1028/regulation/2))
+[^c-3aa5c9d29402893f850eddcd403b9097]: Modification: Regulations modified (temp.) (25.3.2022 immediately after the expiry of [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [s. 45](https://www.legislation.gov.uk/ukpga/2020/7/section/45)) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2022/273/regulation/11) (with [reg. 9](https://www.legislation.gov.uk/uksi/2022/273/regulation/9)) (as amended (31.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/1028)](https://www.legislation.gov.uk/uksi/2022/1028) [S.I. 2022/1028](https://www.legislation.gov.uk/uksi/2022/1028), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1028/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/1028/regulation/2))
 
-[^key-6ad9519151ca3310cce953d20b5a1379]: Textual amendment: [Reg. 2.F.17](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.17) and cross-heading inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [45](https://www.legislation.gov.uk/uksi/2008/2263/regulation/45) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-6ad9519151ca3310cce953d20b5a1379]: Textual amendment: [Reg. 2.F.17](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.F.17) and cross-heading inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [45](https://www.legislation.gov.uk/uksi/2008/2263/regulation/45) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
 
 [^M_F_07706ad2-d546-4bde-d32a-99c46d55bc1b]: Textual amendment: Words in Ch. 2.G heading inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
 
-[^key-689c5d36d0edf6a08d1cd456a1c288ce]: Textual amendment: [Ch. 2K](https://www.legislation.gov.uk/uksi/2008/653/chapter/2K) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2009/2446/regulation/52)
+[^c-689c5d36d0edf6a08d1cd456a1c288ce]: Textual amendment: [Ch. 2K](https://www.legislation.gov.uk/uksi/2008/653/chapter/2K) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2009/2446/regulation/52)
 
-[^key-fbda4064e3008371b283317496ade442]: Textual amendment: [Ch. 2.L](https://www.legislation.gov.uk/uksi/2008/653/chapter/2.L) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2010/492/regulation/35)
+[^c-fbda4064e3008371b283317496ade442]: Textual amendment: [Ch. 2.L](https://www.legislation.gov.uk/uksi/2008/653/chapter/2.L) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2010/492/regulation/35)
 
-[^key-6c284d686fcbdf2d525783ae68d80711]: Textual amendment: [Ch. 2.M](https://www.legislation.gov.uk/uksi/2008/653/chapter/2.M) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2014/570/regulation/35) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
+[^c-6c284d686fcbdf2d525783ae68d80711]: Textual amendment: [Ch. 2.M](https://www.legislation.gov.uk/uksi/2008/653/chapter/2.M) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2014/570/regulation/35) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-67fcc18c2ce3424460d4dc16964a2680]: Textual amendment: [Reg. 3.F.17](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.F.17) and cross-heading inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [77](https://www.legislation.gov.uk/uksi/2008/2263/regulation/77) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-67fcc18c2ce3424460d4dc16964a2680]: Textual amendment: [Reg. 3.F.17](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.F.17) and cross-heading inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [77](https://www.legislation.gov.uk/uksi/2008/2263/regulation/77) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
 
-[^key-ce4df8598cfe969aa510d39614f40976]: Textual amendment: [Ch. 3K](https://www.legislation.gov.uk/uksi/2008/653/chapter/3K) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [94](https://www.legislation.gov.uk/uksi/2009/2446/regulation/94)
+[^c-ce4df8598cfe969aa510d39614f40976]: Textual amendment: [Ch. 3K](https://www.legislation.gov.uk/uksi/2008/653/chapter/3K) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [94](https://www.legislation.gov.uk/uksi/2009/2446/regulation/94)
 
-[^key-5a75d7fe3bf61d57fc23850805d2825d]: Textual amendment: [Ch. 3.L](https://www.legislation.gov.uk/uksi/2008/653/chapter/3L) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2010/492/regulation/52)
+[^c-5a75d7fe3bf61d57fc23850805d2825d]: Textual amendment: [Ch. 3.L](https://www.legislation.gov.uk/uksi/2008/653/chapter/3L) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2010/492/regulation/52)
 
-[^key-665e719ffe715a10046e1a4a915c1d12]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/2008/653/part/4) excluded (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [21(2)](https://www.legislation.gov.uk/uksi/2015/95/regulation/21/2)
+[^c-665e719ffe715a10046e1a4a915c1d12]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/2008/653/part/4) excluded (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [21(2)](https://www.legislation.gov.uk/uksi/2015/95/regulation/21/2)
 
-[^key-a5544516e0a263a5a4ddf2fe0173f869]: Textual amendment: [Reg. 4.B.7A](https://www.legislation.gov.uk/uksi/2008/653/regulation/4) and cross-heading inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [99](https://www.legislation.gov.uk/uksi/2009/2446/regulation/99)
+[^c-a5544516e0a263a5a4ddf2fe0173f869]: Textual amendment: [Reg. 4.B.7A](https://www.legislation.gov.uk/uksi/2008/653/regulation/4) and cross-heading inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [99](https://www.legislation.gov.uk/uksi/2009/2446/regulation/99)

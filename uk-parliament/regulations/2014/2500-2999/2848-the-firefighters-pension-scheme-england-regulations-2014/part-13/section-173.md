@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Forfeiture of lump sum death benefit: offences committed by other persons[^key-4e296aeb7b00d101c06ea2c45bee011e]
+## 173. Forfeiture of lump sum death benefit: offences committed by other persons[^c-4e296aeb7b00d101c06ea2c45bee011e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e296aeb7b00d101c06ea2c45bee011e]: Commencement: [Reg. 173](https://www.legislation.gov.uk/uksi/2014/2848/regulation/173) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-4e296aeb7b00d101c06ea2c45bee011e]: Commencement: [Reg. 173](https://www.legislation.gov.uk/uksi/2014/2848/regulation/173) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

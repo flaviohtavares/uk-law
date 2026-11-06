@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. High risk offenders: medical enquiries following disqualification[^key-def6deb225fa038329a6401b16b37fba]
+## 13. High risk offenders: medical enquiries following disqualification[^c-def6deb225fa038329a6401b16b37fba]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-def6deb225fa038329a6401b16b37fba]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/49/section/13) in force at 1.6.2013 by [S.I. 2013/1012](https://www.legislation.gov.uk/uksi/2013/1012), [art. 2](https://www.legislation.gov.uk/uksi/2013/1012/article/2)
+[^c-def6deb225fa038329a6401b16b37fba]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2006/49/section/13) in force at 1.6.2013 by [S.I. 2013/1012](https://www.legislation.gov.uk/uksi/2013/1012), [art. 2](https://www.legislation.gov.uk/uksi/2013/1012/article/2)

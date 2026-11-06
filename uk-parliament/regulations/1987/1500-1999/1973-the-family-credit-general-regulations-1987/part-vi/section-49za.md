@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49ZA. Surrendering an award following birth or adoption etc. of child[^key-5986c8596aad8bf1d5a5a32ed59fc05d]
+## 49ZA. Surrendering an award following birth or adoption etc. of child[^c-5986c8596aad8bf1d5a5a32ed59fc05d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5986c8596aad8bf1d5a5a32ed59fc05d]: Textual amendment: [Reg. 49ZA](https://www.legislation.gov.uk/uksi/1987/1973/regulation/49ZA) inserted (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2001/892/regulation/18)
+[^c-5986c8596aad8bf1d5a5a32ed59fc05d]: Textual amendment: [Reg. 49ZA](https://www.legislation.gov.uk/uksi/1987/1973/regulation/49ZA) inserted (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2001/892/regulation/18)

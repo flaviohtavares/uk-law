@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Power of OSCR to obtain information from charities[^key-1500e0d0e68c046810550cd5ee007de9]
+## 22. Power of OSCR to obtain information from charities[^c-1500e0d0e68c046810550cd5ee007de9]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ which OSCR requires in relation to the charity's entry in the Register.
 
 ## Annotations
 
-[^key-1500e0d0e68c046810550cd5ee007de9]: Commencement: S. 22 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-1500e0d0e68c046810550cd5ee007de9]: Commencement: S. 22 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)

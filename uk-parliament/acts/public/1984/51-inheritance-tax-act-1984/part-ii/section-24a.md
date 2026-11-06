@@ -30,7 +30,7 @@ summary: ''
 
 (3) Subsections (2) to (5) of section 23 and subsection (4) of section 24 above shall apply in relation to subsection (1) above as they apply in relation to section 24(1).
 
-(4)[^key-4202d4d52bc294e4e63bbaddeae432a2] To the extent that the value transferred by a transfer of value made on the death of a member of a pension scheme is attributable to the member’s notional pension property—
+(4)[^c-4202d4d52bc294e4e63bbaddeae432a2] To the extent that the value transferred by a transfer of value made on the death of a member of a pension scheme is attributable to the member’s notional pension property—
 
 - (a) the value transferred is treated for the purposes of this section as also attributable to any land in the United Kingdom that on the death of the member is given under the scheme to a body falling within subsection (2), and
 - (b) section 23(2) does not (despite subsection (3)) apply in relation to subsection (1).
@@ -45,4 +45,4 @@ summary: ''
 
 [^c21411631]: Textual amendment: S. 24A(2)(za) inserted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 277](https://www.legislation.gov.uk/ukpga/2008/17/section/277), [325](https://www.legislation.gov.uk/ukpga/2008/17/section/325), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2008/17/schedule/9/paragraph/7); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-4202d4d52bc294e4e63bbaddeae432a2]: Textual amendment: [S. 24A(4)](https://www.legislation.gov.uk/ukpga/1984/51/section/24A/4) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 69(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/69/6), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-4202d4d52bc294e4e63bbaddeae432a2]: Textual amendment: [S. 24A(4)](https://www.legislation.gov.uk/ukpga/1984/51/section/24A/4) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 69(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/69/6), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

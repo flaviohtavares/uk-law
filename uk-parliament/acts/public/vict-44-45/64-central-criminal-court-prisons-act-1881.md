@@ -31,30 +31,30 @@ Central Criminal Court (Prisons) Act 1881 (repealed)
 
 1881 c. 64
 
-[^key-89e581aa972f7c0d56fa3feba4369e98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-89e581aa972f7c0d56fa3feba4369e98]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[27th August 1881\]
 
 **No longer in force.**
 
-## 1. Short title.[^key-89e581aa972f7c0d56fa3feba4369e98][^key-89e581aa972f7c0d56fa3feba4369e98]
+## 1. Short title.[^c-89e581aa972f7c0d56fa3feba4369e98][^c-89e581aa972f7c0d56fa3feba4369e98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application to Central Criminal Court district of rules under s. 24 of 40 & 41 Vict. c. 21.[^key-89e581aa972f7c0d56fa3feba4369e98][^key-89e581aa972f7c0d56fa3feba4369e98]
+## 2. Application to Central Criminal Court district of rules under s. 24 of 40 & 41 Vict. c. 21.[^c-89e581aa972f7c0d56fa3feba4369e98][^c-89e581aa972f7c0d56fa3feba4369e98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Definitions.[^key-89e581aa972f7c0d56fa3feba4369e98][^key-89e581aa972f7c0d56fa3feba4369e98]
+## 3. Definitions.[^c-89e581aa972f7c0d56fa3feba4369e98][^c-89e581aa972f7c0d56fa3feba4369e98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Enactments referred to.[^key-89e581aa972f7c0d56fa3feba4369e98]
+## SCHEDULE — Enactments referred to.[^c-89e581aa972f7c0d56fa3feba4369e98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-89e581aa972f7c0d56fa3feba4369e98]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 1 Group 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/1)
+[^c-89e581aa972f7c0d56fa3feba4369e98]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 1 Group 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Insurance[^key-9b69efcf48501a1403478d9a83e93314]
+## 75. Insurance[^c-9b69efcf48501a1403478d9a83e93314]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b69efcf48501a1403478d9a83e93314]: Commencement: S. 75 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-9b69efcf48501a1403478d9a83e93314]: Commencement: S. 75 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

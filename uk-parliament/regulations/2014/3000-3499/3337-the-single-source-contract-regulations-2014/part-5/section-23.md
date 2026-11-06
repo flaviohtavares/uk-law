@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Contract pricing statement[^key-ae2ad1be7a9e9f2ad3bd677d2f37e874]
+## 23. Contract pricing statement[^c-ae2ad1be7a9e9f2ad3bd677d2f37e874]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae2ad1be7a9e9f2ad3bd677d2f37e874]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2014/3337/regulation/23) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2024/420/regulation/27) (with [reg. 44(1)](https://www.legislation.gov.uk/uksi/2024/420/regulation/44/1))
+[^c-ae2ad1be7a9e9f2ad3bd677d2f37e874]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2014/3337/regulation/23) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2024/420/regulation/27) (with [reg. 44(1)](https://www.legislation.gov.uk/uksi/2024/420/regulation/44/1))

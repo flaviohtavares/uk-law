@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. The room standard[^key-33d147afefb643dccd86f33532a940a1]
+## 42. The room standard[^c-33d147afefb643dccd86f33532a940a1]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33d147afefb643dccd86f33532a940a1]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2016/22/section/42) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-33d147afefb643dccd86f33532a940a1]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2016/22/section/42) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

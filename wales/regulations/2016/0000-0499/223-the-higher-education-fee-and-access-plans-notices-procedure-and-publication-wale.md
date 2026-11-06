@@ -43,9 +43,9 @@ Coming into force
 
 28 March 2016
 
-The Welsh Ministers, in exercise of the powers conferred on them by sections 37(7)(a), 37(7)(c), 38(2)(b), 38(3) and 40(2) of the Higher Education (Wales) Act 2015[^f00001], make the following Regulations:[^key-95f93b490f1df5a1bc97e4cb84e32c71]
+The Welsh Ministers, in exercise of the powers conferred on them by sections 37(7)(a), 37(7)(c), 38(2)(b), 38(3) and 40(2) of the Higher Education (Wales) Act 2015[^f00001], make the following Regulations:[^c-95f93b490f1df5a1bc97e4cb84e32c71]
 
-## 1. Title, commencement, interpretation and application[^key-9e3d228f9f0966dd82f211129b7894f7]
+## 1. Title, commencement, interpretation and application[^c-9e3d228f9f0966dd82f211129b7894f7]
 
 (1) The title of these Regulations is the Higher Education (Fee and Access Plans) (Notices, Procedure and Publication) (Wales) Regulations 2016 and they come into force on 28 March 2016.
 
@@ -56,11 +56,11 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 37(
 
 (3) These Regulations apply in relation to Wales.
 
-## 2. Maximum period that may be specified in notice under section 37 of the 2015 Act[^key-283cfb5a2f539e4770eefe83077820f3]
+## 2. Maximum period that may be specified in notice under section 37 of the 2015 Act[^c-283cfb5a2f539e4770eefe83077820f3]
 
 The maximum period that may be specified in notice under section 37 is one year.
 
-## 3. Procedure to be followed in connection with the withdrawal of notice under section 37 of the 2015 Act[^key-4043c39299210e89e35fc1575b359fd9]
+## 3. Procedure to be followed in connection with the withdrawal of notice under section 37 of the 2015 Act[^c-4043c39299210e89e35fc1575b359fd9]
 
 (1) HEFCW may withdraw notice given under section 37 by notice of withdrawal to the governing body of the institution.
 
@@ -72,38 +72,38 @@ The maximum period that may be specified in notice under section 37 is one year.
 
 (3) The date on which notice under section 37 is withdrawn is the date of notice of withdrawal.
 
-**4.**[^key-fd0319bd852e0d3195e41a8e288d68b8] If HEFCW have given notice of withdrawal under regulation 3, they must immediately give a copy of the notice of withdrawal to the Welsh Ministers.
+**4.**[^c-fd0319bd852e0d3195e41a8e288d68b8] If HEFCW have given notice of withdrawal under regulation 3, they must immediately give a copy of the notice of withdrawal to the Welsh Ministers.
 
-## 5. Procedure to be followed in connection with giving notice under section 38 of the 2015 Act[^key-90fe675c3dfba73f5d74a3a33c18c7fc]
+## 5. Procedure to be followed in connection with giving notice under section 38 of the 2015 Act[^c-90fe675c3dfba73f5d74a3a33c18c7fc]
 
 Subject to regulation 6, the following provisions apply in connection with giving notice under section 38—
 
 - (a) sections 42 to 44; and
 - (b) regulations 2 to 10 of the 2015 Regulations.
 
-**6.**[^key-0ff919105cd6beacac44a4f59c3083de] Regulation 4 of the 2015 Regulations is to be read as if—
+**6.**[^c-0ff919105cd6beacac44a4f59c3083de] Regulation 4 of the 2015 Regulations is to be read as if—
 
 - (a) for “notice or direction specified in section 41(1) of the 2015 Act”, there were substituted “notice under section 38 of the 2015 Act”; and
 - (b) the words “or direction” in paragraphs (a) to (c) were omitted.
 
-## 7. Compliance by HEFCW with section 40(1) of the 2015 Act[^key-83adbe9542ed99c76139bc409818e3c5][^key-7b4ad177f66f2b33ce99fc413072b0db]
+## 7. Compliance by HEFCW with section 40(1) of the 2015 Act[^c-83adbe9542ed99c76139bc409818e3c5][^c-7b4ad177f66f2b33ce99fc413072b0db]
 
 If HEFCW give notice under section 37, 38 or 39, they must—
 
 - (a) immediately give a copy of the notice to the Welsh Ministers; and
 - (b) publish a copy of the notice on their website within the period of seven days beginning with the day on which the notice is given to the governing body of the institution.
 
-**8.**[^key-1237fb09bea86809bb1d03c9112de249] For the purposes of regulation 7—
+**8.**[^c-1237fb09bea86809bb1d03c9112de249] For the purposes of regulation 7—
 
 - (a) notice under section 37 or 39 is to be treated as given by HEFCW in accordance with regulation 4 of the 2015 Regulations; and
 - (b) notice under section 38 is to be treated as given by HEFCW in accordance with regulation 4 of the 2015 Regulations as applied, with modifications, by regulations 5(b) and 6 of these Regulations.
 
-**9.**[^key-f6f94e06d09d0321723dc3bc507f2af8] A copy of a notice under section 37 which is published on HEFCW’s website under regulation 7(b) is to remain on that website until the earlier of—
+**9.**[^c-f6f94e06d09d0321723dc3bc507f2af8] A copy of a notice under section 37 which is published on HEFCW’s website under regulation 7(b) is to remain on that website until the earlier of—
 
 - (a) the end of the period specified in the notice under section 37(2); or
 - (b) the date of notice of withdrawal given by HEFCW under regulation 3 to the governing body of the institution in connection with that notice.
 
-**10.**[^key-e83fb04132f6e4d565bfc75f3c2cf4d7] A copy of a notice under section 38 or 39 which is published on HEFCW’s website under regulation 7(b) is to remain on that website until the date on which the period to which the relevant fee and access plan related would have, but for the notice, expired.
+**10.**[^c-e83fb04132f6e4d565bfc75f3c2cf4d7] A copy of a notice under section 38 or 39 which is published on HEFCW’s website under regulation 7(b) is to remain on that website until the date on which the period to which the relevant fee and access plan related would have, but for the notice, expired.
 
 Huw Lewis
 
@@ -133,28 +133,28 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1).
 
-[^key-95f93b490f1df5a1bc97e4cb84e32c71]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2016/223) modified (temp.) (1.8.2024) by [The Tertiary Education and Research (Wales) Act 2022 (Commencement No. 4 and Transitory and Transitional Provisions) Order 2024 (S.I. 2024/806)](https://www.legislation.gov.uk/wsi/2024/806), [art. 25](https://www.legislation.gov.uk/wsi/2024/806/article/25) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-95f93b490f1df5a1bc97e4cb84e32c71]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2016/223) modified (temp.) (1.8.2024) by [The Tertiary Education and Research (Wales) Act 2022 (Commencement No. 4 and Transitory and Transitional Provisions) Order 2024 (S.I. 2024/806)](https://www.legislation.gov.uk/wsi/2024/806), [art. 25](https://www.legislation.gov.uk/wsi/2024/806/article/25) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
 
-[^key-9e3d228f9f0966dd82f211129b7894f7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/223/regulation/1) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
+[^c-9e3d228f9f0966dd82f211129b7894f7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/223/regulation/1) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2015/1485 (W. 164)](https://www.legislation.gov.uk/wsi/2015/1485).
 
-[^key-283cfb5a2f539e4770eefe83077820f3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/223/regulation/2) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
+[^c-283cfb5a2f539e4770eefe83077820f3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/223/regulation/2) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
 
-[^key-4043c39299210e89e35fc1575b359fd9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/223/regulation/3) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
+[^c-4043c39299210e89e35fc1575b359fd9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/223/regulation/3) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
 
-[^key-fd0319bd852e0d3195e41a8e288d68b8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/223/regulation/4) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
+[^c-fd0319bd852e0d3195e41a8e288d68b8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/223/regulation/4) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
 
-[^key-90fe675c3dfba73f5d74a3a33c18c7fc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/223/regulation/5) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
+[^c-90fe675c3dfba73f5d74a3a33c18c7fc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/223/regulation/5) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
 
-[^key-0ff919105cd6beacac44a4f59c3083de]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/223/regulation/6) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
+[^c-0ff919105cd6beacac44a4f59c3083de]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/223/regulation/6) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
 
-[^key-83adbe9542ed99c76139bc409818e3c5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/223/regulation/7) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
+[^c-83adbe9542ed99c76139bc409818e3c5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/223/regulation/7) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
 
-[^key-7b4ad177f66f2b33ce99fc413072b0db]: Modification: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/223/regulation/7) modified (1.8.2024) by [The Tertiary Education and Research (Wales) Act 2022 (Commencement No. 4 and Transitory and Transitional Provisions) Order 2024 (S.I. 2024/806)](https://www.legislation.gov.uk/wsi/2024/806), [art. 45](https://www.legislation.gov.uk/wsi/2024/806/article/45)
+[^c-7b4ad177f66f2b33ce99fc413072b0db]: Modification: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/223/regulation/7) modified (1.8.2024) by [The Tertiary Education and Research (Wales) Act 2022 (Commencement No. 4 and Transitory and Transitional Provisions) Order 2024 (S.I. 2024/806)](https://www.legislation.gov.uk/wsi/2024/806), [art. 45](https://www.legislation.gov.uk/wsi/2024/806/article/45)
 
-[^key-1237fb09bea86809bb1d03c9112de249]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2016/223/regulation/8) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
+[^c-1237fb09bea86809bb1d03c9112de249]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2016/223/regulation/8) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
 
-[^key-f6f94e06d09d0321723dc3bc507f2af8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2016/223/regulation/9) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
+[^c-f6f94e06d09d0321723dc3bc507f2af8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2016/223/regulation/9) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
 
-[^key-e83fb04132f6e4d565bfc75f3c2cf4d7]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2016/223/regulation/10) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)
+[^c-e83fb04132f6e4d565bfc75f3c2cf4d7]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2016/223/regulation/10) in force at 28.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/223/regulation/1/1)

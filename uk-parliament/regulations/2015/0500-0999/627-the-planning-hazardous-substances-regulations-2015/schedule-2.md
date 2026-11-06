@@ -45,7 +45,7 @@ Hazardous substances consent is not required for the presence of a hazardous sub
 **5.** For the purpose of paragraph 4, a substance is to be treated as having been unloaded from a craft in an emergency if—
 
 - (a) it was unloaded from a craft to which a direction under section 3(1) of the Dangerous Vessels Act 1985 [^c22465231] (directions by Secretary of State to harbour master) applied; or
-- (b)[^key-18581ec5f7cc8d198ba65f22a3c3dd85] it was unloaded from a craft after having been brought into a harbour area, within the meaning of regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016, without requiring notification under paragraph (1) of regulation 6 of those Regulations by virtue of an exemption under paragraph (6) of that regulation
+- (b)[^c-18581ec5f7cc8d198ba65f22a3c3dd85] it was unloaded from a craft after having been brought into a harbour area, within the meaning of regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016, without requiring notification under paragraph (1) of regulation 6 of those Regulations by virtue of an exemption under paragraph (6) of that regulation
 
 ### 6. Landfill sites
 
@@ -80,7 +80,7 @@ Hazardous substances consent is not required for the presence of an explosive wi
   - (ii) paragraph 1(d) of Schedule 1 to those Regulations; or
 - (b) a licence is required and has been granted under those Regulations by the Office for Nuclear Regulation in cases where the assent of the local authority was required pursuant to regulation 13(3) of those Regulations or would have been required but for regulation 13(4)(b), (c), (d), (e), (f) or (g) of those Regulations.
 
-**12.**[^key-cf7ffdbadb42b203440c2ec8e7dbabf3] Hazardous substances consent is not required where an explosives licence within the meaning of regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016 has been issued.
+**12.**[^c-cf7ffdbadb42b203440c2ec8e7dbabf3] Hazardous substances consent is not required where an explosives licence within the meaning of regulation 2(1) of the Dangerous Goods in Harbour Areas Regulations 2016 has been issued.
 
 ### 13. Presence of established substances
 
@@ -135,7 +135,7 @@ In this Schedule—
 
 [^c22465231]: Marginal citation: [1985 c. 22](https://www.legislation.gov.uk/ukpga/1985/22).
 
-[^key-18581ec5f7cc8d198ba65f22a3c3dd85]: Textual amendment: [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2015/627/schedule/2/paragraph/5/b) substituted (1.10.2016) by [The Dangerous Goods in Harbour Areas Regulations 2016 (S.I. 2016/721)](https://www.legislation.gov.uk/uksi/2016/721), [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1), [Sch. 5 para. 13(a)](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/13/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/721/regulation/5))
+[^c-18581ec5f7cc8d198ba65f22a3c3dd85]: Textual amendment: [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2015/627/schedule/2/paragraph/5/b) substituted (1.10.2016) by [The Dangerous Goods in Harbour Areas Regulations 2016 (S.I. 2016/721)](https://www.legislation.gov.uk/uksi/2016/721), [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1), [Sch. 5 para. 13(a)](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/13/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/721/regulation/5))
 
 [^c22465251]: Marginal citation: O.J. L 304, 14.11.2008, p. 75.
 
@@ -143,6 +143,6 @@ In this Schedule—
 
 [^c22465271]: Marginal citation: [S.I. 2014/1638](https://www.legislation.gov.uk/uksi/2014/1638).
 
-[^key-cf7ffdbadb42b203440c2ec8e7dbabf3]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2015/627/schedule/2/paragraph/12) substituted (1.10.2016) by [The Dangerous Goods in Harbour Areas Regulations 2016 (S.I. 2016/721)](https://www.legislation.gov.uk/uksi/2016/721), [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1), [Sch. 5 para. 13(b)](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/13/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/721/regulation/5))
+[^c-cf7ffdbadb42b203440c2ec8e7dbabf3]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2015/627/schedule/2/paragraph/12) substituted (1.10.2016) by [The Dangerous Goods in Harbour Areas Regulations 2016 (S.I. 2016/721)](https://www.legislation.gov.uk/uksi/2016/721), [reg. 1](https://www.legislation.gov.uk/uksi/2016/721/regulation/1), [Sch. 5 para. 13(b)](https://www.legislation.gov.uk/uksi/2016/721/schedule/5/paragraph/13/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/721/regulation/5))
 
 [^c22465291]: Marginal citation: [S.I.2015/595](https://www.legislation.gov.uk/uksi/2015/595).

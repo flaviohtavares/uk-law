@@ -35,68 +35,68 @@ laying down rules on the format and timetables for the submission of annual data
 
 *(notified under document C(2018) 5270)* (revoked)
 
-[^key-f3fc36be76aa36e0098a02593ea701b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3fc36be76aa36e0098a02593ea701b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Content of annual reports[^key-f3fc36be76aa36e0098a02593ea701b7]
+## Article 1. Content of annual reports[^c-f3fc36be76aa36e0098a02593ea701b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Correlation with the multi-annual Union programme[^key-f3fc36be76aa36e0098a02593ea701b7]
+## Article 2. Correlation with the multi-annual Union programme[^c-f3fc36be76aa36e0098a02593ea701b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Compilation of the annual report[^key-f3fc36be76aa36e0098a02593ea701b7]
+## Article 3. Compilation of the annual report[^c-f3fc36be76aa36e0098a02593ea701b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Deadline for the submission of annual reports[^key-f3fc36be76aa36e0098a02593ea701b7]
+## Article 4. Deadline for the submission of annual reports[^c-f3fc36be76aa36e0098a02593ea701b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Addressees[^key-f3fc36be76aa36e0098a02593ea701b7]
+## Article 5. Addressees[^c-f3fc36be76aa36e0098a02593ea701b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f3fc36be76aa36e0098a02593ea701b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f3fc36be76aa36e0098a02593ea701b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-f3fc36be76aa36e0098a02593ea701b7]
+## ANNEX I[^c-f3fc36be76aa36e0098a02593ea701b7]
 
-### SECTION 1 — BIOLOGICAL DATA[^key-f3fc36be76aa36e0098a02593ea701b7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### SECTION 2 — FISHING ACTIVITY DATA[^key-f3fc36be76aa36e0098a02593ea701b7]
+### SECTION 1 — BIOLOGICAL DATA[^c-f3fc36be76aa36e0098a02593ea701b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 3 — ECONOMIC AND SOCIAL DATA[^key-f3fc36be76aa36e0098a02593ea701b7]
+### SECTION 2 — FISHING ACTIVITY DATA[^c-f3fc36be76aa36e0098a02593ea701b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 4 — SAMPLING STRATEGY FOR BIOLOGICAL DATA FROM COMMERCIAL FISHERIES[^key-f3fc36be76aa36e0098a02593ea701b7]
+### SECTION 3 — ECONOMIC AND SOCIAL DATA[^c-f3fc36be76aa36e0098a02593ea701b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 5 — DATA QUALITY[^key-f3fc36be76aa36e0098a02593ea701b7]
+### SECTION 4 — SAMPLING STRATEGY FOR BIOLOGICAL DATA FROM COMMERCIAL FISHERIES[^c-f3fc36be76aa36e0098a02593ea701b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 6 — DATA AVAILABILITY[^key-f3fc36be76aa36e0098a02593ea701b7]
+### SECTION 5 — DATA QUALITY[^c-f3fc36be76aa36e0098a02593ea701b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECTION 7 — COORDINATION[^key-f3fc36be76aa36e0098a02593ea701b7]
+### SECTION 6 — DATA AVAILABILITY[^c-f3fc36be76aa36e0098a02593ea701b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-f3fc36be76aa36e0098a02593ea701b7]
+### SECTION 7 — COORDINATION[^c-f3fc36be76aa36e0098a02593ea701b7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-f3fc36be76aa36e0098a02593ea701b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f3fc36be76aa36e0098a02593ea701b7]: Textual amendment: Decision revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/1)
+[^c-f3fc36be76aa36e0098a02593ea701b7]: Textual amendment: Decision revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/1)

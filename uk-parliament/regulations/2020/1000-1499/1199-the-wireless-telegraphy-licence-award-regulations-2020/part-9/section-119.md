@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Refunds[^key-045a59c4cb62d02ab91bb4b2e2424099]
+## 119. Refunds[^c-045a59c4cb62d02ab91bb4b2e2424099]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Where, following the grant of licences, the total amount a bidder has on deposit
 
 ## Annotations
 
-[^key-045a59c4cb62d02ab91bb4b2e2424099]: Commencement: Reg. 119 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-045a59c4cb62d02ab91bb4b2e2424099]: Commencement: Reg. 119 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

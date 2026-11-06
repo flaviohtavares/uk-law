@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019[^key-5df848726352dac0e7db7fdc946a4955]
+## 6. The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019[^c-5df848726352dac0e7db7fdc946a4955]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Ex
 
 ## Annotations
 
-[^key-5df848726352dac0e7db7fdc946a4955]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day, see reg. 1(6)
+[^c-5df848726352dac0e7db7fdc946a4955]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion day, see reg. 1(6)
 
 [^c24413941]: Marginal citation: [S.I. 2019/865](https://www.legislation.gov.uk/uksi/2019/865).

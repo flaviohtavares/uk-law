@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Maintenance, decommissioning and demolition of authorised development[^key-f5aa83a28ad950a0db24feb2175b8f57]
+## 4. Maintenance, decommissioning and demolition of authorised development[^c-f5aa83a28ad950a0db24feb2175b8f57]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5aa83a28ad950a0db24feb2175b8f57]: Commencement: Art. 4 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-f5aa83a28ad950a0db24feb2175b8f57]: Commencement: Art. 4 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)

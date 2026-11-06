@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Periods of unpaid leave[^key-0bc9b1109b9501d67b974ade6e80e286]
+## 13. Periods of unpaid leave[^c-0bc9b1109b9501d67b974ade6e80e286]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bc9b1109b9501d67b974ade6e80e286]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-0bc9b1109b9501d67b974ade6e80e286]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

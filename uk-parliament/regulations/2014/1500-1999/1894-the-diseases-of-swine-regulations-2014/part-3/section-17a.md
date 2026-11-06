@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17A. Revocation of a regulation 10A notice[^key-e961fafe4b9f340ea0b07823197b7b28]
+## 17A. Revocation of a regulation 10A notice[^c-e961fafe4b9f340ea0b07823197b7b28]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e961fafe4b9f340ea0b07823197b7b28]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/17A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(12)](https://www.legislation.gov.uk/uksi/2026/475/article/3/12)
+[^c-e961fafe4b9f340ea0b07823197b7b28]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/17A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(12)](https://www.legislation.gov.uk/uksi/2026/475/article/3/12)

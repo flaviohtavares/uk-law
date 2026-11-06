@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Transfer to another secure contract-holder: landlord's consent[^key-f3a1e8bf4aec5a1924a025b777b6ff01]
+## 119. Transfer to another secure contract-holder: landlord's consent[^c-f3a1e8bf4aec5a1924a025b777b6ff01]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a landlord refuses consent or consents subject to conditions to a transfer
 
 ## Annotations
 
-[^key-f3a1e8bf4aec5a1924a025b777b6ff01]: Commencement: [S. 119](https://www.legislation.gov.uk/anaw/2016/1/section/119) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-f3a1e8bf4aec5a1924a025b777b6ff01]: Commencement: [S. 119](https://www.legislation.gov.uk/anaw/2016/1/section/119) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

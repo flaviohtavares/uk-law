@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Amendment of Schedule 3 (English text)[^key-9056f94d39fe90d6aaf0b47faae36fc8]
+## 144. Amendment of Schedule 3 (English text)[^c-9056f94d39fe90d6aaf0b47faae36fc8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9056f94d39fe90d6aaf0b47faae36fc8]: Commencement: Reg. 144 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-9056f94d39fe90d6aaf0b47faae36fc8]: Commencement: Reg. 144 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

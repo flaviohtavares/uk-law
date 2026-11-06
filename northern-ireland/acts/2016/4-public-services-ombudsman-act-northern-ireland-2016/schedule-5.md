@@ -28,7 +28,7 @@ Section 22.
 - (b) an inquiry under the Inquiries Act 2005, or
 - (c) an inquiry under the Inquiry into Historical Institutional Abuse Act (Northern Ireland) 2013.
 
-**2.** Action taken by the Department of Health[^key-311155a5e602f825c55f0c9ab74558fc] in the exercise of its functions under regulations made under Articles 61, 62 or 63 of the Health and Personal Social Services (Northern Ireland) Order 1972 by virtue of Article 10 of the Health and Medicines (Northern Ireland) Order 1988 (investigations of matters relating to services).
+**2.** Action taken by the Department of Health[^c-311155a5e602f825c55f0c9ab74558fc] in the exercise of its functions under regulations made under Articles 61, 62 or 63 of the Health and Personal Social Services (Northern Ireland) Order 1972 by virtue of Article 10 of the Health and Medicines (Northern Ireland) Order 1988 (investigations of matters relating to services).
 
 **3.** The commencement or conduct of any civil or criminal proceedings before a court of law in the United Kingdom, or of proceedings before any international court or tribunal.
 
@@ -55,4 +55,4 @@ Section 22.
 
 ## Annotations
 
-[^key-311155a5e602f825c55f0c9ab74558fc]: Textual amendment: Words in [Sch. 5 para. 2](https://www.legislation.gov.uk/nia/2016/4/schedule/5/paragraph/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 250(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/250/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-311155a5e602f825c55f0c9ab74558fc]: Textual amendment: Words in [Sch. 5 para. 2](https://www.legislation.gov.uk/nia/2016/4/schedule/5/paragraph/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 250(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/250/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

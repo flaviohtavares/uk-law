@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100.[^key-da44acc877a40227d943d6a5052ec2d9]
+## 100.[^c-da44acc877a40227d943d6a5052ec2d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ In Article 26 (quality assurance)—
     - (aa) for “statutory auditors and audit firms” substitute “ individuals and firms ”;
     - (bb) for point (a), substitute—
 
-      > - (a) in the case of statutory auditors carrying out audits of public interest entities, other than those which,[^key-33025a622496a17b4f81406c4bb06235] but for being public interest entities, would qualify (or would if they were companies) as small or medium-sized under sections 382 and 383 or sections 465 and 467 of the Companies Act 2006, at least every three years; and
+      > - (a) in the case of statutory auditors carrying out audits of public interest entities, other than those which,[^c-33025a622496a17b4f81406c4bb06235] but for being public interest entities, would qualify (or would if they were companies) as small or medium-sized under sections 382 and 383 or sections 465 and 467 of the Companies Act 2006, at least every three years; and
 
       ;
 - (c) in paragraph 4—
@@ -58,7 +58,7 @@ In Article 26 (quality assurance)—
   > (5A) In point (a) of the first subparagraph of paragraph (5), “**relevant experience**” means having experience of—
   >
   > - (a) statutory audit work;
-  > - (b) equivalent work, for the purposes of an appointment of a person to conduct inspections made prior to IP completion day[^key-32d3b790344570bd178ece5c285a5114], on the audit of accounts under the law of an EEA State, or part of an EEA State, or Gibraltar; or
+  > - (b) equivalent work, for the purposes of an appointment of a person to conduct inspections made prior to IP completion day[^c-32d3b790344570bd178ece5c285a5114], on the audit of accounts under the law of an EEA State, or part of an EEA State, or Gibraltar; or
   > - (c) equivalent work, for the purposes of an appointment of a person to conduct inspections, on the audit of accounts under the law of—
   >   - (i) an equivalent third country, or part of an equivalent third country; or
   >   - (ii) a transitional third country, or part of a transitional third country.
@@ -86,8 +86,8 @@ In Article 26 (quality assurance)—
 
 ## Annotations
 
-[^key-da44acc877a40227d943d6a5052ec2d9]: Commencement: Reg. 100 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-da44acc877a40227d943d6a5052ec2d9]: Commencement: Reg. 100 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
-[^key-33025a622496a17b4f81406c4bb06235]: Textual amendment: Words in reg. 100(b)(ii)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Statutory Auditors, Third Country Auditors and International Accounting Standards (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1392)](https://www.legislation.gov.uk/uksi/2019/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1392/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2019/1392/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-33025a622496a17b4f81406c4bb06235]: Textual amendment: Words in reg. 100(b)(ii)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Statutory Auditors, Third Country Auditors and International Accounting Standards (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1392)](https://www.legislation.gov.uk/uksi/2019/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1392/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2019/1392/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-32d3b790344570bd178ece5c285a5114]: Textual amendment: Words in reg. 100(f) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2020/523/regulation/16)
+[^c-32d3b790344570bd178ece5c285a5114]: Textual amendment: Words in reg. 100(f) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2020/523/regulation/16)

@@ -26,10 +26,10 @@ summary: ''
 
 (3) Paragraph (b) of subsection (1) of section six of the [^c4793161]Transport Charges &c. (Miscellaneous Provisions) Act 1954 (which relates to the revision of charges), shall not apply to any inland waterway undertaking which is an independent inland waterway undertaking within the meaning of this section.
 
-(4)[^c4793171][^key-e1589061b534a57586bec0089e8a4109] In this section—
+(4)[^c4793171][^c-e1589061b534a57586bec0089e8a4109] In this section—
 
 - “**independent railway undertaking**” means a railway undertaking not forming part of the undertaking of any of the Boards, being an undertaking the carrying on of which is authorised by, or by an order made under, an Act of Parliament;
-- “**independent inland waterway undertaking**” means an undertaking not forming part of the undertaking of any of the Boards or Canal & River Trust[^key-a0f3ed85ad5ef1b72f8ca932ecdc3d42], being an undertaking engaged in conserving, maintaining, improving or working a canal or other inland navigation or the navigation of a tidal water, but does not include—
+- “**independent inland waterway undertaking**” means an undertaking not forming part of the undertaking of any of the Boards or Canal & River Trust[^c-a0f3ed85ad5ef1b72f8ca932ecdc3d42], being an undertaking engaged in conserving, maintaining, improving or working a canal or other inland navigation or the navigation of a tidal water, but does not include—
   - (a) an undertaking none of the charges of which has been the subject of a Provisional Order made, and confirmed by Parliament, in pursuance of sections twenty-four and thirty-six of the [^c4793181]Railway and Canal Traffic Act 1888, or
   - (b) an undertaking forming part of a harbour undertaking if the inland waterway is situated wholly within the limits of the harbour, or
   - (c) an undertaking all or any of the charges of which are, under the statutory provisions relating to that undertaking, subject to revision by the Minister and some other Minister acting together;
@@ -52,8 +52,8 @@ summary: ''
 
 [^c4793171]: Modification: S. 52(4) amended (E.W.) by [London Regional Transport Act 1984 (c. 32, SIF 126)](https://www.legislation.gov.uk/ukpga/1984/32), [s. 67(2)](https://www.legislation.gov.uk/ukpga/1984/32/section/67/2)(*a*), Sch. 4 para. 6(2)(5)
 
-[^key-e1589061b534a57586bec0089e8a4109]: Modification: S. 52(4) modified (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/2/2/a)
+[^c-e1589061b534a57586bec0089e8a4109]: Modification: S. 52(4) modified (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/2/2/a)
 
-[^key-a0f3ed85ad5ef1b72f8ca932ecdc3d42]: Textual amendment: Words in [s. 52(4)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/section/52/4) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/21) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-a0f3ed85ad5ef1b72f8ca932ecdc3d42]: Textual amendment: Words in [s. 52(4)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/section/52/4) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/21) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c4793181]: Marginal citation: [1888 c. 25](https://www.legislation.gov.uk/ukpga/1888/25).

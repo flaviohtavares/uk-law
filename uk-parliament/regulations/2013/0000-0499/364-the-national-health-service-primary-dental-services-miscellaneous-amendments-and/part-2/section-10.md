@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Amendment of regulation 9[^key-2f471bd54e4983f1dd445993cf372a9c]
+## 10. Amendment of regulation 9[^c-2f471bd54e4983f1dd445993cf372a9c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 9 (health service body status), in paragraphs (1), (4)(a), (5), an
 
 ## Annotations
 
-[^key-2f471bd54e4983f1dd445993cf372a9c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/364/regulation/10) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-2f471bd54e4983f1dd445993cf372a9c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/364/regulation/10) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

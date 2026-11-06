@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Determination of application under section 55.[^key-ed01cb4cf2d827ccd70020313ba0850e]
+## 56. Determination of application under section 55.[^c-ed01cb4cf2d827ccd70020313ba0850e]
 
 *Extent: E+W*
 
-(1) The Secretary of State, in determining any application under section 55 above in respect of any licence, shall take into account any representations in writing received by him, within the period mentioned in subsection (4) of that section, from the appropriate agency[^key-65c5b87bfb39eb393b150f08cecffa0e] or from the holder of the licence.
+(1) The Secretary of State, in determining any application under section 55 above in respect of any licence, shall take into account any representations in writing received by him, within the period mentioned in subsection (4) of that section, from the appropriate agency[^c-65c5b87bfb39eb393b150f08cecffa0e] or from the holder of the licence.
 
 (2) Before determining on an application under section 55 above whether a licence should be revoked or varied the Secretary of State may, if he thinks fit—
 
@@ -44,6 +44,6 @@ and the Secretary of State shall act as mentioned in paragraph (a) or (b) above 
 
 ## Annotations
 
-[^key-ed01cb4cf2d827ccd70020313ba0850e]: Modification: S. 56 applied (with modifications) (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/20/2)
+[^c-ed01cb4cf2d827ccd70020313ba0850e]: Modification: S. 56 applied (with modifications) (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/20/2)
 
-[^key-65c5b87bfb39eb393b150f08cecffa0e]: Textual amendment: Words in ss. 53-57 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-65c5b87bfb39eb393b150f08cecffa0e]: Textual amendment: Words in ss. 53-57 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

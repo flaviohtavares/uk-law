@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Revocation[^key-e801bca8aa91af57f2335fe8e235845b]
+## 55. Revocation[^c-e801bca8aa91af57f2335fe8e235845b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Police, Fire and Crime Commissioner for North Yorkshire (Fire and Rescue Aut
 
 ## Annotations
 
-[^key-e801bca8aa91af57f2335fe8e235845b]: Commencement: Art. 55 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-e801bca8aa91af57f2335fe8e235845b]: Commencement: Art. 55 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00109]: Footnote: [S.I. 2018/290](https://www.legislation.gov.uk/uksi/2018/290).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256ZA. Application of Part[^key-b2373b6167b09cdcdf0bd1e0464a458d][^key-935f6544e55359fa0989b19ff0c80cd3]
+## 256ZA. Application of Part[^c-b2373b6167b09cdcdf0bd1e0464a458d][^c-935f6544e55359fa0989b19ff0c80cd3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ This part applies to Northern Ireland only.
 
 ## Annotations
 
-[^key-b2373b6167b09cdcdf0bd1e0464a458d]: Textual amendment: [Reg. 256ZA](https://www.legislation.gov.uk/uksi/2012/1916/regulation/256ZA) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [197(1)](https://www.legislation.gov.uk/uksi/2019/775/regulation/197/1) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 151](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/151))
+[^c-b2373b6167b09cdcdf0bd1e0464a458d]: Textual amendment: [Reg. 256ZA](https://www.legislation.gov.uk/uksi/2012/1916/regulation/256ZA) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [197(1)](https://www.legislation.gov.uk/uksi/2019/775/regulation/197/1) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 151](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/151))
 
-[^key-935f6544e55359fa0989b19ff0c80cd3]: Textual amendment: Pt. 12A inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2013/1855/regulation/28)
+[^c-935f6544e55359fa0989b19ff0c80cd3]: Textual amendment: Pt. 12A inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2013/1855/regulation/28)

@@ -71,14 +71,14 @@ and references to “serve”, “service”, “notice” and “notify”, and
 
 the document must be served on the solicitor unless personal service is required by an enactment, rule, practice direction or court order.
 
-(4) Where it appears to the court that there is a good reason to authorise service by a method other than those specified in paragraphs (2), (3) and (6)[^key-2ffe97c31973949519b6d1f2b9d5cbfb], the court may direct that service is to be effected by that method.
+(4) Where it appears to the court that there is a good reason to authorise service by a method other than those specified in paragraphs (2), (3) and (6)[^c-2ffe97c31973949519b6d1f2b9d5cbfb], the court may direct that service is to be effected by that method.
 
 (5) A direction that service is to be effected by an alternative method must specify—
 
 - (a) the method of service; and
 - (b) the date on which the document will be deemed to be served.
 
-(6)[^key-cae1bd5d4cd629096803a8e978f25540] Documents may be served by document exchange or electronic communication in accordance with the relevant practice direction.
+(6)[^c-cae1bd5d4cd629096803a8e978f25540] Documents may be served by document exchange or electronic communication in accordance with the relevant practice direction.
 
 ## 6.4. Service of documents on children and protected parties
 
@@ -195,10 +195,10 @@ it will be treated as being served on the next business day.
 - “**application form**” includes an application notice;
 - “**Commonwealth State**” means a State listed in Schedule 3 to the British Nationality Act 1981 [^c23071651];
 - “**jurisdiction**” means, unless the context otherwise requires, England and Wales and any part of the territorial waters of the United Kingdom adjoining England and Wales;
-- [^key-5b50824e3fae77a4ff4276332a9aba6b]...
+- [^c-5b50824e3fae77a4ff4276332a9aba6b]...
 - “**the Service Convention**” means the Convention on the service abroad of judicial and extra-judicial documents in civil or commercial matters signed at the Hague on November 15, 1965;
-- “**Service Convention country**” means a country[^key-1a026aa9ef5962174eae2b4755a4b9e0]... which is a party to the Service Convention; and
-- [^key-d311ee3c0b34f3ff694d7bb1cba4189a]...
+- “**Service Convention country**” means a country[^c-1a026aa9ef5962174eae2b4755a4b9e0]... which is a party to the Service Convention; and
+- [^c-d311ee3c0b34f3ff694d7bb1cba4189a]...
 
 (3) In rules 6.12 to 6.19, a reference to service by a party includes service by a person who is not a party where service by such a person is required under these Rules.
 
@@ -224,7 +224,7 @@ and sets out the time period for doing so where the application is served out of
 (2) Where the applicant serves an application on a respondent in—
 
 - (a) Scotland or Northern Ireland; or
-- (b) a [^key-6e3d181beff431db07531325752e3c93]... Service Convention country within Europe,
+- (b) a [^c-6e3d181beff431db07531325752e3c93]... Service Convention country within Europe,
 
 the period for filing an acknowledgment of service or an answer to an application is 21 days after service of the application.
 
@@ -243,13 +243,13 @@ the period for filing an acknowledgment of service or an answer to an applicatio
 (3) Where an application form or other document is to be served on a person out of the United Kingdom, it may be served by any method—
 
 - (a) provided for by—
-  - (i)[^key-055d7c90c7a23e4b3c13d46fea9046ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-055d7c90c7a23e4b3c13d46fea9046ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) rule 6.16 (service through foreign governments, judicial authorities and British Consular authorities); or
 - (b) permitted by the law of the country in which it is to be served.
 
 (4) Nothing in paragraph (3) or in any court order authorises or requires any person to do anything which is contrary to the law of the country where the application form or other document is to be served.
 
-## 6.15. Service in accordance with the Service Regulation[^key-f20c15cbea02e08e1f69111e95c87629]
+## 6.15. Service in accordance with the Service Regulation[^c-f20c15cbea02e08e1f69111e95c87629]
 
 *Extent: E+W*
 
@@ -279,9 +279,9 @@ the period for filing an acknowledgment of service or an answer to an applicatio
 
 the methods of service permitted by paragraphs (1)(b) and (2) are not available and the person wishing to serve, or that person's agent, must effect service direct unless Practice Direction 6B provides otherwise.
 
-(4)[^key-52c13ee76895fa28da30282867ffb472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-52c13ee76895fa28da30282867ffb472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-52c13ee76895fa28da30282867ffb472]... (A list of British Overseas Territories is reproduced in Practice Direction 6B.)
+[^c-52c13ee76895fa28da30282867ffb472]... (A list of British Overseas Territories is reproduced in Practice Direction 6B.)
 
 ## 6.17. Procedure where service is to be through foreign governments, judicial authorities and British Consular authorities
 
@@ -304,7 +304,7 @@ the methods of service permitted by paragraphs (1)(b) and (2) are not available 
 (4) The Senior Master shall send documents forwarded under this rule—
 
 - (a) where the application form or other document is being served through the authority designated under the Service Convention, to that authority; or
-- (b) in any other case, to the Foreign, Commonwealth and Development Office[^key-dd7f0a3aa329c0c9ee10908c05246327] with a request that it arranges for the application form or other document to be served.
+- (b) in any other case, to the Foreign, Commonwealth and Development Office[^c-dd7f0a3aa329c0c9ee10908c05246327] with a request that it arranges for the application form or other document to be served.
 
 (5) An official certificate which—
 
@@ -339,7 +339,7 @@ is evidence of the facts stated in the certificate.
 - (a) the person on whom the document is to be served is able to read and understand English; and
 - (b) service of the document is to be effected directly on that person.
 
-[^key-d5676548c7d903f212e0be1c08ed3c6d]...
+[^c-d5676548c7d903f212e0be1c08ed3c6d]...
 
 ## 6.19. Undertaking to be responsible for expenses of the Foreign, Commonwealth and Development Office[^M_F_f0d42942-57da-4762-e2bd-3771d347d04f]
 
@@ -347,39 +347,39 @@ is evidence of the facts stated in the certificate.
 
 Every request for service under rule 6.17 (procedure where service is to be through foreign governments, judicial authorities, etc.) must contain an undertaking by the person making the request—
 
-- (a) to be responsible for all expenses incurred by the Foreign, Commonwealth and Development Office[^key-231cf6426d285916bca642c4995da4e1] or foreign judicial authority; and
-- (b) to pay those expenses to the Foreign, Commonwealth and Development Office[^key-93e39ef44cbb5be848f1536d0d7b60a5] or foreign judicial authority on being informed of the amount.
+- (a) to be responsible for all expenses incurred by the Foreign, Commonwealth and Development Office[^c-231cf6426d285916bca642c4995da4e1] or foreign judicial authority; and
+- (b) to pay those expenses to the Foreign, Commonwealth and Development Office[^c-93e39ef44cbb5be848f1536d0d7b60a5] or foreign judicial authority on being informed of the amount.
 
 ## Annotations
 
-[^key-2ffe97c31973949519b6d1f2b9d5cbfb]: Textual amendment: Words in [rule 6.3(4)](https://www.legislation.gov.uk/uksi/2017/1035/rule/6.3/4) substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2022/1192/rule/3/a)
+[^c-2ffe97c31973949519b6d1f2b9d5cbfb]: Textual amendment: Words in [rule 6.3(4)](https://www.legislation.gov.uk/uksi/2017/1035/rule/6.3/4) substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2022/1192/rule/3/a)
 
-[^key-cae1bd5d4cd629096803a8e978f25540]: Textual amendment: [Rule 6.3(6)](https://www.legislation.gov.uk/uksi/2017/1035/rule/6.3/6) substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2022/1192/rule/3/b)
+[^c-cae1bd5d4cd629096803a8e978f25540]: Textual amendment: [Rule 6.3(6)](https://www.legislation.gov.uk/uksi/2017/1035/rule/6.3/6) substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2022/1192/rule/3/b)
 
 [^c23071641]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
 [^c23071651]: Marginal citation: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61). There are relevant amendments in: [S.I. 1983/882](https://www.legislation.gov.uk/uksi/1983/882); [S.I. 1983/1699](https://www.legislation.gov.uk/uksi/1983/1699); the [Brunei and Maldives Act 1985 (c.3)](https://www.legislation.gov.uk/ukpga/1985/3); section 1, Schedule; [S.I. 1989/1331](https://www.legislation.gov.uk/uksi/1989/1331); [S.I. 1998/3161](https://www.legislation.gov.uk/uksi/1998/3161); [S.I. 1990/1502](https://www.legislation.gov.uk/uksi/1990/1502); [S.I. 1994/1634](https://www.legislation.gov.uk/uksi/1994/1634); [S.I. 2010/246](https://www.legislation.gov.uk/uksi/2010/246).
 
-[^key-5b50824e3fae77a4ff4276332a9aba6b]: Textual amendment: Words in rule 6.11(2) omitted (31.12.2020) by virtue of [S.I. 2019/517](https://www.legislation.gov.uk/uksi/2019/517), [reg. 30(3)(a)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/3/a) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/4/3/a))
+[^c-5b50824e3fae77a4ff4276332a9aba6b]: Textual amendment: Words in rule 6.11(2) omitted (31.12.2020) by virtue of [S.I. 2019/517](https://www.legislation.gov.uk/uksi/2019/517), [reg. 30(3)(a)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/3/a) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/4/3/a))
 
-[^key-1a026aa9ef5962174eae2b4755a4b9e0]: Textual amendment: Words in rule 6.11(2) omitted (31.12.2020) by virtue of [S.I. 2019/517](https://www.legislation.gov.uk/uksi/2019/517), [reg. 30(3)(b)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/3/b) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/4/3/a))
+[^c-1a026aa9ef5962174eae2b4755a4b9e0]: Textual amendment: Words in rule 6.11(2) omitted (31.12.2020) by virtue of [S.I. 2019/517](https://www.legislation.gov.uk/uksi/2019/517), [reg. 30(3)(b)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/3/b) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/4/3/a))
 
-[^key-d311ee3c0b34f3ff694d7bb1cba4189a]: Textual amendment: Words in rule 6.11(2) omitted (31.12.2020) by virtue of [S.I. 2019/517](https://www.legislation.gov.uk/uksi/2019/517), [reg. 30(3)(c)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/3/c) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/4/3/a))
+[^c-d311ee3c0b34f3ff694d7bb1cba4189a]: Textual amendment: Words in rule 6.11(2) omitted (31.12.2020) by virtue of [S.I. 2019/517](https://www.legislation.gov.uk/uksi/2019/517), [reg. 30(3)(c)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/3/c) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/4/3/a))
 
-[^key-6e3d181beff431db07531325752e3c93]: Textual amendment: Words in rule 6.13(2)(b) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [30(4)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/4) (with [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6e3d181beff431db07531325752e3c93]: Textual amendment: Words in rule 6.13(2)(b) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [30(4)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/4) (with [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-055d7c90c7a23e4b3c13d46fea9046ec]: Textual amendment: Rule 6.14(3)(a)(i) omitted (31.12.2020) by virtue of [S.I. 2019/517](https://www.legislation.gov.uk/uksi/2019/517), [reg. 30(5)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/5) (as amended by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/4/3/b))
+[^c-055d7c90c7a23e4b3c13d46fea9046ec]: Textual amendment: Rule 6.14(3)(a)(i) omitted (31.12.2020) by virtue of [S.I. 2019/517](https://www.legislation.gov.uk/uksi/2019/517), [reg. 30(5)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/5) (as amended by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/4/3/b))
 
-[^key-f20c15cbea02e08e1f69111e95c87629]: Textual amendment: Rule 6.15 omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [30(6)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/6) (with [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f20c15cbea02e08e1f69111e95c87629]: Textual amendment: Rule 6.15 omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [30(6)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/6) (with [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-52c13ee76895fa28da30282867ffb472]: Textual amendment: Rule 6.16(4) and words omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [30(7)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/7) (with [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52c13ee76895fa28da30282867ffb472]: Textual amendment: Rule 6.16(4) and words omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [30(7)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/7) (with [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dd7f0a3aa329c0c9ee10908c05246327]: Textual amendment: Words in rule 6.17(4)(b) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 28(a)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/28/a)
+[^c-dd7f0a3aa329c0c9ee10908c05246327]: Textual amendment: Words in rule 6.17(4)(b) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 28(a)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/28/a)
 
-[^key-d5676548c7d903f212e0be1c08ed3c6d]: Textual amendment: Words in rule 6.18 omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [30(8)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/8) (with [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5676548c7d903f212e0be1c08ed3c6d]: Textual amendment: Words in rule 6.18 omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [30(8)](https://www.legislation.gov.uk/uksi/2019/517/regulation/30/8) (with [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_f0d42942-57da-4762-e2bd-3771d347d04f]: Textual amendment: Words in rule 6.19 heading substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/28/b)
 
-[^key-231cf6426d285916bca642c4995da4e1]: Textual amendment: Words in rule 6.19(a) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/28/b)
+[^c-231cf6426d285916bca642c4995da4e1]: Textual amendment: Words in rule 6.19(a) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/28/b)
 
-[^key-93e39ef44cbb5be848f1536d0d7b60a5]: Textual amendment: Words in rule 6.19(b) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/28/b)
+[^c-93e39ef44cbb5be848f1536d0d7b60a5]: Textual amendment: Words in rule 6.19(b) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/28/b)

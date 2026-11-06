@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Station works at Poplar[^key-bc7633929c90d5acd9e3b7aa7c901673]
+## 8. Station works at Poplar[^c-bc7633929c90d5acd9e3b7aa7c901673]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ DLRL may, in the construction of Works Nos. 3 and 4, and within the limits of de
 
 ## Annotations
 
-[^key-bc7633929c90d5acd9e3b7aa7c901673]: Commencement: Art. 8 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-bc7633929c90d5acd9e3b7aa7c901673]: Commencement: Art. 8 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

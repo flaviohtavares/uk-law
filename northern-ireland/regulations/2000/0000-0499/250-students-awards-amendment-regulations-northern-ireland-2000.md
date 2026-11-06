@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-Students Awards (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-6157b10196d03c958ba048db5d520332]
+Students Awards (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-6157b10196d03c958ba048db5d520332]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 24th August 2000
 
-[^key-6157b10196d03c958ba048db5d520332]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6157b10196d03c958ba048db5d520332]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6157b10196d03c958ba048db5d520332]
+## 1. Citation and commencement[^c-6157b10196d03c958ba048db5d520332]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Students Awards Regulations (Northern Ireland) 1999[^key-6157b10196d03c958ba048db5d520332]
+## 2. Amendment of the Students Awards Regulations (Northern Ireland) 1999[^c-6157b10196d03c958ba048db5d520332]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157b10196d03c958ba048db5d520332]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6157b10196d03c958ba048db5d520332]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6157b10196d03c958ba048db5d520332]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6157b10196d03c958ba048db5d520332]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6157b10196d03c958ba048db5d520332]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/250) revoked (1.9.2000) by [Students Awards Regulations (Northern Ireland) 2000 (S.R. 2000/311)](https://www.legislation.gov.uk/nisr/2000/311), [regs. 1](https://www.legislation.gov.uk/nisr/2000/311/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2000/311/regulation/2/1)
+[^c-6157b10196d03c958ba048db5d520332]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/250) revoked (1.9.2000) by [Students Awards Regulations (Northern Ireland) 2000 (S.R. 2000/311)](https://www.legislation.gov.uk/nisr/2000/311), [regs. 1](https://www.legislation.gov.uk/nisr/2000/311/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2000/311/regulation/2/1)

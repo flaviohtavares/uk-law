@@ -33,7 +33,7 @@ An Act to consolidate the enactments relating to internal drainage boards, and t
 
 \[25th July 1991\] [^c1415278]
 
-[^c1415268][^c1415269][^c1415270][^c1415271][^c1415272][^c1415273][^c1415274][^c1415275][^c1415276][^c1415277]BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-538493b8aa38ffb5ede22cb3f67588ef][^key-bb6cdd6b2625481b8d0f76f618fb8414]
+[^c1415268][^c1415269][^c1415270][^c1415271][^c1415272][^c1415273][^c1415274][^c1415275][^c1415276][^c1415277]BE IT ENACTED by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-538493b8aa38ffb5ede22cb3f67588ef][^c-bb6cdd6b2625481b8d0f76f618fb8414]
 
 ## Contents
 
@@ -113,7 +113,7 @@ An Act to consolidate the enactments relating to internal drainage boards, and t
 - [Section 36 — Raising of the expenses of internal drainage boards.](part-iv/section-36.md)
 - [Section 37 — Apportionment of drainage expenses.](part-iv/section-37.md)
 
-##### Disclosure of Revenue and Customs information[^key-2e25586515503988fceb2de4dac2d3c5]
+##### Disclosure of Revenue and Customs information[^c-2e25586515503988fceb2de4dac2d3c5]
 
 - [Section 37A — Disclosure of Revenue and Customs information](part-iv/section-37a.md)
 - [Section 37B — Restrictions on onward disclosure of Revenue and Customs information](part-iv/section-37b.md)
@@ -252,12 +252,12 @@ SCHEDULES
 
 [^c1415277]: Modification: Act: certain functions transferred (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2 Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/article/2/schedule/1)
 
-[^key-538493b8aa38ffb5ede22cb3f67588ef]: Modification: Act: amendment to earlier affecting provision SI 1999/672 Sch. 1 (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(6)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/6), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-538493b8aa38ffb5ede22cb3f67588ef]: Modification: Act: amendment to earlier affecting provision SI 1999/672 Sch. 1 (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 100(6)](https://www.legislation.gov.uk/ukpga/2003/37/section/100/6), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(x)](https://www.legislation.gov.uk/uksi/2004/641/article/3/x) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-bb6cdd6b2625481b8d0f76f618fb8414]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/59) power to amend conferred (1.10.2010) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 28](https://www.legislation.gov.uk/ukpga/2010/29/section/28), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-bb6cdd6b2625481b8d0f76f618fb8414]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/59) power to amend conferred (1.10.2010) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 28](https://www.legislation.gov.uk/ukpga/2010/29/section/28), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
 [^c1415453]: Modification: [Pt. IV Chs. I](https://www.legislation.gov.uk/ukpga/1991/59/part/IV/chapter/I), [II](https://www.legislation.gov.uk/ukpga/1991/59/part/IV/chapter/II) (ss. 36-54) restricted (1.12.1991) by [Water Consolidation (consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/2/2), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 2 Pt. I para. 2(2)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/part/I/paragraph/2/2)
 
-[^key-2e25586515503988fceb2de4dac2d3c5]: Textual amendment: [Ss. 37A-37C](https://www.legislation.gov.uk/ukpga/1991/59/section/37A) and cross-heading inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 97(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/97/2), [147(2)(n)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/n) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-2e25586515503988fceb2de4dac2d3c5]: Textual amendment: [Ss. 37A-37C](https://www.legislation.gov.uk/ukpga/1991/59/section/37A) and cross-heading inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 97(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/97/2), [147(2)(n)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/n) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
 
 [^c1415478]: Modification: [Pt. IV Chs. I](https://www.legislation.gov.uk/ukpga/1991/59/part/IV/chapter/I), [II](https://www.legislation.gov.uk/ukpga/1991/59/part/IV/chapter/II) (ss. 36-54) restricted (1.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/2/2), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 2 Pt. I para. 2(2)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/part/I/paragraph/2/2)

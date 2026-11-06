@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-fa7dd3158eb9fffa9cd28bd7d966bf46][^key-75df519508a62c1c47fc60f444f34ceb] Schedule 8 (abolition of the QCDA: consequential amendments) has effect.
+(1)[^c-fa7dd3158eb9fffa9cd28bd7d966bf46][^c-75df519508a62c1c47fc60f444f34ceb] Schedule 8 (abolition of the QCDA: consequential amendments) has effect.
 
-(2)[^key-c004165b684e763b0b4ec8c0c5ca640b] The Secretary of State may by order make changes in consequence of section 25 to any provision of subordinate legislation made before the date on which this Act is passed.
+(2)[^c-c004165b684e763b0b4ec8c0c5ca640b] The Secretary of State may by order make changes in consequence of section 25 to any provision of subordinate legislation made before the date on which this Act is passed.
 
-(3)[^key-c004165b684e763b0b4ec8c0c5ca640b] “**Subordinate legislation**” has the meaning given by section 21(1) of the Interpretation Act 1978.
+(3)[^c-c004165b684e763b0b4ec8c0c5ca640b] “**Subordinate legislation**” has the meaning given by section 21(1) of the Interpretation Act 1978.
 
 ## Annotations
 
-[^key-fa7dd3158eb9fffa9cd28bd7d966bf46]: Commencement: [S. 26(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/26/1) in force at 15.1.2012 for specified purposes by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 2](https://www.legislation.gov.uk/uksi/2012/84/article/2)
+[^c-fa7dd3158eb9fffa9cd28bd7d966bf46]: Commencement: [S. 26(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/26/1) in force at 15.1.2012 for specified purposes by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 2](https://www.legislation.gov.uk/uksi/2012/84/article/2)
 
-[^key-75df519508a62c1c47fc60f444f34ceb]: Commencement: [S. 26(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/26/1) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-75df519508a62c1c47fc60f444f34ceb]: Commencement: [S. 26(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/26/1) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-c004165b684e763b0b4ec8c0c5ca640b]: Commencement: [S. 26(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/26/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/26/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-c004165b684e763b0b4ec8c0c5ca640b]: Commencement: [S. 26(2)](https://www.legislation.gov.uk/ukpga/2011/21/section/26/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/26/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

@@ -24,19 +24,19 @@ Regulation 13
 
 ### Part I
 
-**1.**[^key-a130c734f40d05a87eaf430289a256a4] In a case where explosives in different Divisions are being carried together, regulation 13(1)(*a*) and (*b*) shall be applied in accordance with the provisions of paragraphs 3, 4 and 5 of Schedule 4.
+**1.**[^c-a130c734f40d05a87eaf430289a256a4] In a case where explosives in different Divisions are being carried together, regulation 13(1)(*a*) and (*b*) shall be applied in accordance with the provisions of paragraphs 3, 4 and 5 of Schedule 4.
 
-**2.**[^key-ee1415c6d096ecf52af96c5468366a40] In a case where explosives in different Compatibility Groups are being carried together regulation 13(1)(*b*) shall be applied in accordance with paragraph 2 of Schedule 4.
+**2.**[^c-ee1415c6d096ecf52af96c5468366a40] In a case where explosives in different Compatibility Groups are being carried together regulation 13(1)(*b*) shall be applied in accordance with paragraph 2 of Schedule 4.
 
-**3.**[^key-b7654098d3d213e8bf0be50db1e492a1] Where explosives in Division 1.4 and Compatibility Group S are being carried in a vehicle, regulation 13(1)(*a*) and (*b*) shall apply as if there were no upper limit on the quantity of such explosives which may be carried.
+**3.**[^c-b7654098d3d213e8bf0be50db1e492a1] Where explosives in Division 1.4 and Compatibility Group S are being carried in a vehicle, regulation 13(1)(*a*) and (*b*) shall apply as if there were no upper limit on the quantity of such explosives which may be carried.
 
-**4.**[^key-d7f52c9e77531dad3fdf00b9bf16df10] Where explosives allocated on classification UN Number 0336 are being carried in a vehicle of type I, regulation 13(1)(*a*) shall apply as if the maximum quantity which may be carried in that vehicle, where it is not attached to a trailer, was 3,000 kilograms and the maximum quantity where the vehicle is attached to a trailer, was 4,000 kilograms.
+**4.**[^c-d7f52c9e77531dad3fdf00b9bf16df10] Where explosives allocated on classification UN Number 0336 are being carried in a vehicle of type I, regulation 13(1)(*a*) shall apply as if the maximum quantity which may be carried in that vehicle, where it is not attached to a trailer, was 3,000 kilograms and the maximum quantity where the vehicle is attached to a trailer, was 4,000 kilograms.
 
-**5.**[^key-ef7ef7da3be7cd919afde6e34fe42093] Notwithstanding regulation 13(1)(*a*) a person shall not carry explosives in Compatibility Group A in a vehicle, which was constructed on or after 1st January 1997, unless the vehicle is of type III and the quantity of explosives is 50 kilograms or less.
+**5.**[^c-ef7ef7da3be7cd919afde6e34fe42093] Notwithstanding regulation 13(1)(*a*) a person shall not carry explosives in Compatibility Group A in a vehicle, which was constructed on or after 1st January 1997, unless the vehicle is of type III and the quantity of explosives is 50 kilograms or less.
 
-**6.**[^key-3bdb3fdf0a0158c10c63046b8b394c26] Where, in accordance with paragraph 7(*c*) of Schedule 4, the dangerous goods allocated on classification the UN Number 1942 are carried with explosives, they shall be treated as if they were explosives in Division 1.1 and Compatibility Group D for the purposes of regulation 13.
+**6.**[^c-3bdb3fdf0a0158c10c63046b8b394c26] Where, in accordance with paragraph 7(*c*) of Schedule 4, the dangerous goods allocated on classification the UN Number 1942 are carried with explosives, they shall be treated as if they were explosives in Division 1.1 and Compatibility Group D for the purposes of regulation 13.
 
-### Part II[^key-97188c051093f96776bc18e7ec310bfc]
+### Part II[^c-97188c051093f96776bc18e7ec310bfc]
 
 <table>
 <thead>
@@ -50,7 +50,7 @@ Regulation 13
 </tbody>
 </table>
 
-### Part III[^key-06c449f96ba689da45b671bd98002db4]
+### Part III[^c-06c449f96ba689da45b671bd98002db4]
 
 <table>
 <thead>
@@ -72,18 +72,18 @@ Regulation 13
 
 ## Annotations
 
-[^key-a130c734f40d05a87eaf430289a256a4]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/paragraph/1) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-a130c734f40d05a87eaf430289a256a4]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/paragraph/1) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-ee1415c6d096ecf52af96c5468366a40]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/paragraph/2) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-ee1415c6d096ecf52af96c5468366a40]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/paragraph/2) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-b7654098d3d213e8bf0be50db1e492a1]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/paragraph/3) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-b7654098d3d213e8bf0be50db1e492a1]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/paragraph/3) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-d7f52c9e77531dad3fdf00b9bf16df10]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/paragraph/4) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-d7f52c9e77531dad3fdf00b9bf16df10]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/paragraph/4) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-ef7ef7da3be7cd919afde6e34fe42093]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/paragraph/5) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-ef7ef7da3be7cd919afde6e34fe42093]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/paragraph/5) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-3bdb3fdf0a0158c10c63046b8b394c26]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/paragraph/6) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-3bdb3fdf0a0158c10c63046b8b394c26]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/paragraph/6) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-97188c051093f96776bc18e7ec310bfc]: Commencement: [Sch. 3 Pt. II](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/part/II) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-97188c051093f96776bc18e7ec310bfc]: Commencement: [Sch. 3 Pt. II](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/part/II) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
-[^key-06c449f96ba689da45b671bd98002db4]: Commencement: [Sch. 3 Pt. III](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/part/III) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-06c449f96ba689da45b671bd98002db4]: Commencement: [Sch. 3 Pt. III](https://www.legislation.gov.uk/nisr/1997/474/schedule/3/part/III) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

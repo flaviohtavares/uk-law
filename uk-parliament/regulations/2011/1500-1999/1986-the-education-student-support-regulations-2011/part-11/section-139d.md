@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 139D. Transfers from courses which are designated to courses which are not designated[^key-4a3180d0dc82370ee6b9f4690e4e1894]
+## 139D. Transfers from courses which are designated to courses which are not designated[^c-4a3180d0dc82370ee6b9f4690e4e1894]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a3180d0dc82370ee6b9f4690e4e1894]: Textual amendment: Regs. 139A-139D inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [14](https://www.legislation.gov.uk/uksi/2018/472/regulation/14)
+[^c-4a3180d0dc82370ee6b9f4690e4e1894]: Textual amendment: Regs. 139A-139D inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [14](https://www.legislation.gov.uk/uksi/2018/472/regulation/14)

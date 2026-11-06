@@ -92,7 +92,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (8) For the purposes of Part 2 of Schedule 6, and regulation 13 so far as it relates to that Part of Schedule 6, these Regulations come into force on 13th December 2018.
 
-(9)[^key-ce04d5fa7fdc791a1ca56a07f89ab27d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-ce04d5fa7fdc791a1ca56a07f89ab27d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Interpretation
 
@@ -145,9 +145,9 @@ The requirements laid down in Articles 9(1) and 10(1) do not apply to milk or mi
 
 (2) This regulation applies to a relevant food that is offered for sale to a final consumer or to a mass caterer otherwise than by means of distance communication and is—
 
-- (a) not prepacked, or[^key-e064f253f7b3065bbc6059ea738d71fd]
-- (b) packed on the sales premises at the consumer's request, [^key-8d394b582b4c442b312c94209f33a23a]...
-- (c)[^key-75de9cec6a8ccccbd0083db78992a81e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) not prepacked, or[^c-e064f253f7b3065bbc6059ea738d71fd]
+- (b) packed on the sales premises at the consumer's request, [^c-8d394b582b4c442b312c94209f33a23a]...
+- (c)[^c-75de9cec6a8ccccbd0083db78992a81e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where a food business operator intends to make available the particulars specified in Article 9(1)(c) relating to a relevant food orally, and a substance or product listed in Annex II or derived from a substance or product listed in Annex II is used as an ingredient or processing aid in the manufacture or preparation of the food, the operator must indicate that details of that substance or product can be obtained by asking a member of staff.
 
@@ -163,7 +163,7 @@ The requirements laid down in Articles 9(1) and 10(1) do not apply to milk or mi
 
 (6) In this regulation “**relevant food**” means a food in which an ingredient or processing aid listed in Annex II, or derived from a substance or product listed in Annex II, has been used in its manufacture or preparation and that is still present in the finished product (even if in an altered form).
 
-## 5A. Foods that are prepacked for direct sale – duty to list ingredients[^key-b9839c552cc671784126809046e759b6]
+## 5A. Foods that are prepacked for direct sale – duty to list ingredients[^c-b9839c552cc671784126809046e759b6]
 
 (1) A food business operator who offers for sale a food to which this regulation applies must provide directly on the package or on a label attached to the package the particulars required by—
 
@@ -195,9 +195,9 @@ The requirements laid down in Articles 9(1) and 10(1) do not apply to milk or mi
 
 (2) This regulation applies to a food that is offered for sale to a final consumer or a mass caterer and is—
 
-- (a) not prepacked, or[^key-ea7b5709483fe100ec02ad36ccd4c5a0]
-- (b) packed on the sales premises at the consumer's request, [^key-47ae2ad02d129b0049229eb81aa64aec]...
-- (c)[^key-30356f0534d0efb40e4760ba7377f395] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) not prepacked, or[^c-ea7b5709483fe100ec02ad36ccd4c5a0]
+- (b) packed on the sales premises at the consumer's request, [^c-47ae2ad02d129b0049229eb81aa64aec]...
+- (c)[^c-30356f0534d0efb40e4760ba7377f395] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This regulation does not apply to a food prepared to be ready for consumption by a final consumer that is offered for sale to a final consumer by a mass caterer (whether at a mass catering establishment where sales are made in person to a final consumer or by means of distance communication) as part of their business as a mass caterer.
 
@@ -208,7 +208,7 @@ The requirements laid down in Articles 9(1) and 10(1) do not apply to milk or mi
 
 (5) Paragraph (4) does not apply in the case of an offer for sale made by means of distance communication.
 
-## 6A. Foods that are prepacked for direct sale – general requirement to name them[^key-56f77c3182995651689142c03249864d]
+## 6A. Foods that are prepacked for direct sale – general requirement to name them[^c-56f77c3182995651689142c03249864d]
 
 (1) A food business operator who offers for sale a food to which this regulation applies must provide the particulars required by Article 9(1)(a) (the name of the food), as read with—
 
@@ -295,9 +295,9 @@ The requirements laid down in Articles 9(1) and 10(1) do not apply to milk or mi
 
 (1) A person is guilty of an offence if the person fails to comply with—
 
-- (a) any provision of FIC specified in paragraph (2), as read with Articles 1(3) and 6 and the first subparagraph of Article 54(1), [^key-6bcde978c1acb0a090f61b2890416491]...
-- (b) regulation 5(5) , or[^key-92fc0447857ab4bca9f6604b3fbe9775]
-- (c)[^key-8a0e5bb5a1fa8650584b2d548088403f] regulation 5A(1)(b).
+- (a) any provision of FIC specified in paragraph (2), as read with Articles 1(3) and 6 and the first subparagraph of Article 54(1), [^c-6bcde978c1acb0a090f61b2890416491]...
+- (b) regulation 5(5) , or[^c-92fc0447857ab4bca9f6604b3fbe9775]
+- (c)[^c-8a0e5bb5a1fa8650584b2d548088403f] regulation 5A(1)(b).
 
 (2) The provisions of FIC are—
 
@@ -317,9 +317,9 @@ A person guilty of an offence under regulation 10 is liable on summary convictio
 - (a) enabling an improvement notice to be served on a person requiring the person to comply with any of the following provisions—
   - (i) a provision of FIC specified in Schedule 5, to the extent provided for in section 10 as applied by paragraph (1) and modified by Part 1 of Schedule 4;
   - (ii) regulation 5(3), (4) or (5);
-  - (iia)[^key-2442acb99262959fee6984ea88296676] regulation 5A(1);
+  - (iia)[^c-2442acb99262959fee6984ea88296676] regulation 5A(1);
   - (iii) regulation 6(1) or (4);
-  - (iiia)[^key-753f368c2242d2895569d3534f8194ec] regulation 6A(1) or (3);
+  - (iiia)[^c-753f368c2242d2895569d3534f8194ec] regulation 6A(1) or (3);
   - (iv) regulation 7(1), (4) or (5); or
   - (v) regulation 8(1) or (3); and
 - (b) making the failure to comply with a notice referred to in subparagraph (a) an offence.
@@ -365,15 +365,15 @@ Schedule 7 has effect.
 - (b) assess the extent to which those objectives are achieved, and
 - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
 
-(4) A[^key-24f9ed03339618d2aeeb154c4a1520ca] report under this regulation must be published before 13th December 2024[^key-d54f777dcc3cd6f4043dbf7b03368a4b].
+(4) A[^c-24f9ed03339618d2aeeb154c4a1520ca] report under this regulation must be published before 13th December 2024[^c-d54f777dcc3cd6f4043dbf7b03368a4b].
 
 (5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
 
-## 16. Transitional provisions: withdrawal from the EU[^key-ef6fab447b5a8ecdb39cd3a031db4a58]
+## 16. Transitional provisions: withdrawal from the EU[^c-ef6fab447b5a8ecdb39cd3a031db4a58]
 
 (1) An authorised officer of a food authority must not serve on a person an improvement notice relating to a failure to comply with Article 9(1)(h) of FIC if—
 
-- (a) the improvement notice would relate to a product that was placed on the market before 1 January 2024[^key-daef41baf9392d2e660f4d64b1252895]; and
+- (a) the improvement notice would relate to a product that was placed on the market before 1 January 2024[^c-daef41baf9392d2e660f4d64b1252895]; and
 - (b) the matter would not have constituted a failure to comply with that provision of FIC as it had effect in EU law immediately before IP completion day.
 
 (2) An authorised officer of a food authority must not serve on a person an improvement notice relating to a failure to comply with Article 7(1) or Article 36(2)(a) or (b) of FIC if—
@@ -399,7 +399,7 @@ Schedule 7 has effect.
 - “specified product” means an individually identifiable product, including a wine product, bearing an indication listed in point 5, 6 or 7 of Annex 10 to Commission Implementing [Regulation (EU) No 668/2014](https://www.legislation.gov.uk/european/regulation/2014/0668) laying down rules for the application of [Regulation (EU) No 1151/2012](https://www.legislation.gov.uk/european/regulation/2012/1151) of the European Parliament and of the Council on quality schemes for agricultural products and foodstuffs as that Regulation had effect in EU law immediately before IP completion day;
 - “wine product” means a product to which Part 2 of Annex 7 to [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products as that Regulation had effect in EU law immediately before IP completion day applies.
 
-## 17. Transitional provision: the Trade and Cooperation Agreement[^key-b6bb78033035aea2baa8c4e0083c7c9a]
+## 17. Transitional provision: the Trade and Cooperation Agreement[^c-b6bb78033035aea2baa8c4e0083c7c9a]
 
 (1) An authorised officer of an enforcement authority must not serve an improvement notice under section 10(1) of the Food Safety Act 1990 as it applies, by virtue of regulation 12(1), to these Regulations (as modified by regulation 12(1) and Part 1 of Schedule 4), in respect of EU Annex 15 wine (including EU Annex 15 wine labelled on or after 1st May 2021) that is placed on the market in England—
 
@@ -433,11 +433,11 @@ Regulation 4(1) and (3)
 
 Regulation 5(1), (3), (5) and (6)
 
-[^key-77f4e97ee2b56bc42ebfddcc490f7b13]...
+[^c-77f4e97ee2b56bc42ebfddcc490f7b13]...
 
 Regulation 6(1)
 
-[^key-77f4e97ee2b56bc42ebfddcc490f7b13]...
+[^c-77f4e97ee2b56bc42ebfddcc490f7b13]...
 
 Regulation 7(1) and (4)
 
@@ -512,9 +512,9 @@ Regulation 12
 > - (c) any other provision of Regulation (EU) No 1169/2011 of the European Parliament and of the Council specified in Schedule 5 to the Food Information Regulations 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations); or
 > - (d) any of the following provisions of the Food Information Regulations 2014—
 >   - (i) regulation 5(3), (4) or (5);
->   - (ia)[^key-ac82f29a28333d1b9e0698bf05be99f8] regulation 5A(1);
+>   - (ia)[^c-ac82f29a28333d1b9e0698bf05be99f8] regulation 5A(1);
 >   - (ii) regulation 6(1) or (4);
->   - (iia)[^key-0cb1c24ec3491e812480be6805609197] regulation 6A(1) or (3);
+>   - (iia)[^c-0cb1c24ec3491e812480be6805609197] regulation 6A(1) or (3);
 >   - (iii) regulation 7(1), (4) or (5); or
 >   - (iv) regulation 8(1) or (3).
 
@@ -610,15 +610,15 @@ Regulation 12
 | 23\. | Article 12(1) (availability and placement of mandatory food information) | Articles 1(3) and 6, the first subparagraph of Article 54(1) and Article 12(2) for pre-packed foods, Articles 12(5) and 44 for non-prepacked foods and Articles 14 and 44 for foods offered for sale by means of distance communication |
 | 24\. | Article 12(2) (general requirement for mandatory food information to appear directly on the package or on a label attached to prepacked food) | Articles 1(3), 6 and 12(1) and the first subparagraph of Article 54(1) |
 | 25\. | Article 13(1) (general requirement for the presentation of mandatory particulars) | Articles 1(3) and 6, the first subparagraph of Article 54(1) and, in the case of foods that are not prepacked etc. containing an allergenic substance or product etc., regulation 5 |
-| 26\. | Article 13(2) (requirement relating to the presentation of mandatory particulars referred to in Article 9(1)(a) to (l)) | Articles 1(3) and 6, the first subparagraph of Article 54(1) and Annex IV, and, in relation to Article 13(2) as it applies to the presentation of a mandatory nutrition declaration, the second subparagraph of Article 55, and, in relation to honey, point 4(b) of Article 2 of Council[^key-69482811edb669456860919249750992] [Directive 2001/110/EC](https://www.legislation.gov.uk/eudr/2001/110) relating to honey |
-| 27\. | Article 13(3) (font size of mandatory particulars on smaller packages) | Articles 1(3) and 6 , the first subparagraph of Article 54(1) and, in relation to honey, point 4(b) of Article 2 of Council[^key-afaf644d005ef54199b72076586d3555] [Directive 2001/110/EC](https://www.legislation.gov.uk/eudr/2001/110) |
+| 26\. | Article 13(2) (requirement relating to the presentation of mandatory particulars referred to in Article 9(1)(a) to (l)) | Articles 1(3) and 6, the first subparagraph of Article 54(1) and Annex IV, and, in relation to Article 13(2) as it applies to the presentation of a mandatory nutrition declaration, the second subparagraph of Article 55, and, in relation to honey, point 4(b) of Article 2 of Council[^c-69482811edb669456860919249750992] [Directive 2001/110/EC](https://www.legislation.gov.uk/eudr/2001/110) relating to honey |
+| 27\. | Article 13(3) (font size of mandatory particulars on smaller packages) | Articles 1(3) and 6 , the first subparagraph of Article 54(1) and, in relation to honey, point 4(b) of Article 2 of Council[^c-afaf644d005ef54199b72076586d3555] [Directive 2001/110/EC](https://www.legislation.gov.uk/eudr/2001/110) |
 | 28\. | Article 13(5) (field of vision requirements) | Articles 1(3), 6, 13(6) and 16(1) and (2) and the first subparagraph of Article 54(1) |
 | 29\. | Article 14(1) (distance selling of prepacked foods) | Articles 1(3), 6, 9 and 14(3) and the first subparagraph of Article 54(1) |
 | 30\. | Article 14(2) (distance selling of non-prepacked foods) | Articles 1(3), 6, 14(1) and 42 and the first subparagraph of Article 54(1) |
 | 31\. | Article 15(1) (language requirements) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
 | 32\. | Article 17(1) (name of food) | Articles 1(3), 6 and 9(1), the first subparagraph of Article 54(1), regulation 4 and Schedule 2 |
-| 33\. | [^key-749140a6d8ec8470e5745e496d5fe42f]. . . | [^key-749140a6d8ec8470e5745e496d5fe42f]. . . |
-| 34\. | [^key-749140a6d8ec8470e5745e496d5fe42f]. . . | [^key-749140a6d8ec8470e5745e496d5fe42f]. . . |
+| 33\. | [^c-749140a6d8ec8470e5745e496d5fe42f]. . . | [^c-749140a6d8ec8470e5745e496d5fe42f]. . . |
+| 34\. | [^c-749140a6d8ec8470e5745e496d5fe42f]. . . | [^c-749140a6d8ec8470e5745e496d5fe42f]. . . |
 | 35\. | Article 17(4) (prohibition against replacing the name of a food with another name) | Articles 1(3) and 6 and the first subparagraph of Article 54(1) |
 | 36\. | Article 17(5) (requirements on the name of a food and particulars that must accompany it) except so far as it applies to the specific requirements in Part B of Annex VI concerning the designation “minced meat” | Articles 1(3) and 6, the first subparagraph of Article 54(1) and Annex VI |
 | 37\. | Article 18(1) (list of ingredient requirements) | Articles 1(3), 6, 18(4), 19(1) and 20, the first subparagraph of Article 54(1), Annex VII, regulation 8 and the first subparagraph of paragraph 5 of Article 3 of Council Directive [2001/112/EC](https://www.legislation.gov.uk/eudr/2001/112) relating to fruit juices and certain similar products intended for human consumption [^c22166881] |
@@ -662,7 +662,7 @@ Regulation 12
 | --- | --- |
 | Article 9(1)(l) (mandatory nutrition declaration) | Articles 1(3), 6, 9(2), 11 and 16, section 3 of Chapter IV, Article 40, the second subparagraph of Article 54(1), the second subparagraph of Article 55, Annex V and regulation 3 |
 
-### Part 4 — FIC provisions concerning primary ingredient country of origin/place of provenance[^key-827af438314b2d311daeb7d651b78d45]
+### Part 4 — FIC provisions concerning primary ingredient country of origin/place of provenance[^c-827af438314b2d311daeb7d651b78d45]
 
 | Provision of FIC | Provisions to be read with the provision of FIC |
 | --- | --- |
@@ -1119,59 +1119,59 @@ A full impact assessment of the effect these Regulations will have on the costs 
 
 [^c22166781]: Marginal citation: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), to which there are other amendments not relevant to these Regulations. See section 142(1) for the meaning of “regulations”.
 
-[^key-ce04d5fa7fdc791a1ca56a07f89ab27d]: Textual amendment: [Reg. 1(9)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/9) omitted (1.10.2021) by virtue of [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/2)
+[^c-ce04d5fa7fdc791a1ca56a07f89ab27d]: Textual amendment: [Reg. 1(9)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/9) omitted (1.10.2021) by virtue of [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/2)
 
 [^c22166791]: Marginal citation: OJ No L 66, 13.3.1999, p 16, last amended by Regulation (EC) No 1137/2008 of the European Parliament and of the Council (OJ No L 311, 21.11.2008, p 1).
 
-[^key-e064f253f7b3065bbc6059ea738d71fd]: Textual amendment: Word in [reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/5/2/a) inserted (1.10.2021) by [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/3/a)
+[^c-e064f253f7b3065bbc6059ea738d71fd]: Textual amendment: Word in [reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/5/2/a) inserted (1.10.2021) by [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/3/a)
 
-[^key-8d394b582b4c442b312c94209f33a23a]: Textual amendment: Word in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/5/2/b) omitted (1.10.2021) by virtue of [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/3/b)
+[^c-8d394b582b4c442b312c94209f33a23a]: Textual amendment: Word in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/5/2/b) omitted (1.10.2021) by virtue of [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/3/b)
 
-[^key-75de9cec6a8ccccbd0083db78992a81e]: Textual amendment: [Reg. 5(2)(c)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/5/2/c) omitted (1.10.2021) by virtue of [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/3/c)
+[^c-75de9cec6a8ccccbd0083db78992a81e]: Textual amendment: [Reg. 5(2)(c)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/5/2/c) omitted (1.10.2021) by virtue of [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/3/c)
 
-[^key-b9839c552cc671784126809046e759b6]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2014/1855/regulation/5A) substituted (19.5.2022) by [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/2)
+[^c-b9839c552cc671784126809046e759b6]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2014/1855/regulation/5A) substituted (19.5.2022) by [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/2)
 
-[^key-ea7b5709483fe100ec02ad36ccd4c5a0]: Textual amendment: Word in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/6/2/a) inserted (1.10.2021) by [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/5/a)
+[^c-ea7b5709483fe100ec02ad36ccd4c5a0]: Textual amendment: Word in [reg. 6(2)(a)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/6/2/a) inserted (1.10.2021) by [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/5/a)
 
-[^key-47ae2ad02d129b0049229eb81aa64aec]: Textual amendment: Word in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/6/2/b) omitted (1.10.2021) by virtue of [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/5/b)
+[^c-47ae2ad02d129b0049229eb81aa64aec]: Textual amendment: Word in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/6/2/b) omitted (1.10.2021) by virtue of [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/5/b)
 
-[^key-30356f0534d0efb40e4760ba7377f395]: Textual amendment: [Reg. 6(2)(c)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/6/2/c) omitted (1.10.2021) by virtue of [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/5/c)
+[^c-30356f0534d0efb40e4760ba7377f395]: Textual amendment: [Reg. 6(2)(c)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/6/2/c) omitted (1.10.2021) by virtue of [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/5/c)
 
-[^key-56f77c3182995651689142c03249864d]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2014/1855/regulation/6A) substituted (19.5.2022) by [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/3)
+[^c-56f77c3182995651689142c03249864d]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2014/1855/regulation/6A) substituted (19.5.2022) by [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/3)
 
 [^c22166801]: Marginal citation: OJ No L 139, 30.4.2004, p 55, last amended by Commission Regulation (EU) No 633/2014 (OJ No L 175, 16.6.2014, p 6).
 
-[^key-6bcde978c1acb0a090f61b2890416491]: Textual amendment: Word in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/10/1/a) omitted (1.10.2021) by virtue of [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/7/a)
+[^c-6bcde978c1acb0a090f61b2890416491]: Textual amendment: Word in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/10/1/a) omitted (1.10.2021) by virtue of [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/7/a)
 
-[^key-92fc0447857ab4bca9f6604b3fbe9775]: Textual amendment: Word in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/10/1/b) inserted (1.10.2021) by [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/7/b)
+[^c-92fc0447857ab4bca9f6604b3fbe9775]: Textual amendment: Word in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/10/1/b) inserted (1.10.2021) by [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/7/b)
 
-[^key-8a0e5bb5a1fa8650584b2d548088403f]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/10/1/c) substituted (19.5.2022) by [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/4)
+[^c-8a0e5bb5a1fa8650584b2d548088403f]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/10/1/c) substituted (19.5.2022) by [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/4)
 
-[^key-2442acb99262959fee6984ea88296676]: Textual amendment: [Reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/12/1/a)[(iia)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/12/1/iia) substituted (19.5.2022) by [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/5/a)
+[^c-2442acb99262959fee6984ea88296676]: Textual amendment: [Reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/12/1/a)[(iia)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/12/1/iia) substituted (19.5.2022) by [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/5/a)
 
-[^key-753f368c2242d2895569d3534f8194ec]: Textual amendment: [Reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/12/1/a)[(iiia)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/12/1/iiia) substituted (19.5.2022) by [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/5/b)
+[^c-753f368c2242d2895569d3534f8194ec]: Textual amendment: [Reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/12/1/a)[(iiia)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/12/1/iiia) substituted (19.5.2022) by [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/5/b)
 
 [^c22166811]: Marginal citation: Subsections (5) and (6) of section 32 were amended by paragraph 18 of Schedule 2 to the [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16).
 
-[^key-24f9ed03339618d2aeeb154c4a1520ca]: Textual amendment: Word in [reg. 15(4)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/15/4) substituted (1.10.2021) by [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(9)(i)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/9/i)
+[^c-24f9ed03339618d2aeeb154c4a1520ca]: Textual amendment: Word in [reg. 15(4)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/15/4) substituted (1.10.2021) by [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(9)(i)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/9/i)
 
-[^key-d54f777dcc3cd6f4043dbf7b03368a4b]: Textual amendment: Word in [reg. 15(4)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/15/4) substituted (1.10.2021) by [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(9)(ii)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/9/ii)
+[^c-d54f777dcc3cd6f4043dbf7b03368a4b]: Textual amendment: Word in [reg. 15(4)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/15/4) substituted (1.10.2021) by [The Food Information (Amendment) (England) Regulations 2019 (S.I. 2019/1218)](https://www.legislation.gov.uk/uksi/2019/1218), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1218/regulation/1), [2(9)(ii)](https://www.legislation.gov.uk/uksi/2019/1218/regulation/2/9/ii)
 
-[^key-ef6fab447b5a8ecdb39cd3a031db4a58]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/1855/regulation/16) inserted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/632/regulation/2)
+[^c-ef6fab447b5a8ecdb39cd3a031db4a58]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/1855/regulation/16) inserted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/632/regulation/2)
 
-[^key-daef41baf9392d2e660f4d64b1252895]: Textual amendment: Words in [reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/16/1/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (England) Regulations 2022 (S.I. 2022/938)](https://www.legislation.gov.uk/uksi/2022/938), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/938/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2022/938/regulation/7)
+[^c-daef41baf9392d2e660f4d64b1252895]: Textual amendment: Words in [reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/16/1/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (England) Regulations 2022 (S.I. 2022/938)](https://www.legislation.gov.uk/uksi/2022/938), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/938/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2022/938/regulation/7)
 
-[^key-b6bb78033035aea2baa8c4e0083c7c9a]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/1855/regulation/17) inserted (1.1.2022) by [The Wine (Amendment) Regulations 2021 (S.I. 2021/1471)](https://www.legislation.gov.uk/uksi/2021/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2021/1471/regulation/4)
+[^c-b6bb78033035aea2baa8c4e0083c7c9a]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/1855/regulation/17) inserted (1.1.2022) by [The Wine (Amendment) Regulations 2021 (S.I. 2021/1471)](https://www.legislation.gov.uk/uksi/2021/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2021/1471/regulation/4)
 
-[^key-77f4e97ee2b56bc42ebfddcc490f7b13]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/1) omitted (19.5.2022) by virtue of [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/6)
+[^c-77f4e97ee2b56bc42ebfddcc490f7b13]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/1) omitted (19.5.2022) by virtue of [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/6)
 
 [^c22166831]: Marginal citation: OJ No L 157, 17.6.2008, p 46, last amended by Regulation (EU) No 1308/2013 of the European Parliament and of the Council (OJ No L 347, 20.12.2013, p 671).
 
 [^c22166841]: Marginal citation: OJ No L 304, 22.11.2011, p 18, last amended by Commission Delegated Regulation (EU) No 78/2014 (OJ No L 27, 30.1.2014, p 7).
 
-[^key-ac82f29a28333d1b9e0698bf05be99f8]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/4/paragraph/1) substituted (19.5.2022) by [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/7/a)
+[^c-ac82f29a28333d1b9e0698bf05be99f8]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/4/paragraph/1) substituted (19.5.2022) by [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/7/a)
 
-[^key-0cb1c24ec3491e812480be6805609197]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/4/paragraph/1) substituted (19.5.2022) by [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/7/b)
+[^c-0cb1c24ec3491e812480be6805609197]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/4/paragraph/1) substituted (19.5.2022) by [The Food Information (Amendment) (England) Regulations 2022 (S.I. 2022/481)](https://www.legislation.gov.uk/uksi/2022/481), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/481/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2022/481/regulation/2/7/b)
 
 [^c22166851]: Marginal citation: [Section 21(2)](https://www.legislation.gov.uk/uksi/2014/1855/section/21/2) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
@@ -1179,15 +1179,15 @@ A full impact assessment of the effect these Regulations will have on the costs 
 
 [^c22166871]: Marginal citation: [Section 36A](https://www.legislation.gov.uk/uksi/2014/1855/section/36A) was inserted by paragraph 16 of Schedule 5 to the [Food Standards Act 1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28).
 
-[^key-69482811edb669456860919249750992]: Textual amendment: Words in Sch. 5 Pt. 2 table inserted (24.6.2015) by [The Honey (England) Regulations 2015 (S.I. 2015/1348)](https://www.legislation.gov.uk/uksi/2015/1348), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1348/regulation/1/1), [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/uksi/2015/1348/schedule/3/paragraph/2/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2015/1348/regulation/4), [5](https://www.legislation.gov.uk/uksi/2015/1348/regulation/5))
+[^c-69482811edb669456860919249750992]: Textual amendment: Words in Sch. 5 Pt. 2 table inserted (24.6.2015) by [The Honey (England) Regulations 2015 (S.I. 2015/1348)](https://www.legislation.gov.uk/uksi/2015/1348), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1348/regulation/1/1), [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/uksi/2015/1348/schedule/3/paragraph/2/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2015/1348/regulation/4), [5](https://www.legislation.gov.uk/uksi/2015/1348/regulation/5))
 
-[^key-afaf644d005ef54199b72076586d3555]: Textual amendment: Words in Sch. 5 Pt. 2 table substituted (24.6.2015) by [The Honey (England) Regulations 2015 (S.I. 2015/1348)](https://www.legislation.gov.uk/uksi/2015/1348), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1348/regulation/1/1), [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/1348/schedule/3/paragraph/2/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2015/1348/regulation/4), [5](https://www.legislation.gov.uk/uksi/2015/1348/regulation/5))
+[^c-afaf644d005ef54199b72076586d3555]: Textual amendment: Words in Sch. 5 Pt. 2 table substituted (24.6.2015) by [The Honey (England) Regulations 2015 (S.I. 2015/1348)](https://www.legislation.gov.uk/uksi/2015/1348), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1348/regulation/1/1), [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/1348/schedule/3/paragraph/2/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2015/1348/regulation/4), [5](https://www.legislation.gov.uk/uksi/2015/1348/regulation/5))
 
-[^key-749140a6d8ec8470e5745e496d5fe42f]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1855/schedule/5/part/2) table omitted (31.12.2020) by virtue of [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/150/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-749140a6d8ec8470e5745e496d5fe42f]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1855/schedule/5/part/2) table omitted (31.12.2020) by virtue of [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/150/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22166881]: Marginal citation: OJ No L 10, 12.1.2002, p 58, last amended by Directive 2012/12/EU of the European Parliament and of the Council (OJ No L 115, 27.4.2012, p 1).
 
-[^key-827af438314b2d311daeb7d651b78d45]: Textual amendment: [Sch. 5 Pt. 4](https://www.legislation.gov.uk/uksi/2014/1855/schedule/5/part/4) inserted (18.6.2020) by [The Food Information (Amendment) (England) Regulations 2020 (S.I. 2020/541)](https://www.legislation.gov.uk/uksi/2020/541), [regs. 1](https://www.legislation.gov.uk/uksi/2020/541/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/541/regulation/2/2)
+[^c-827af438314b2d311daeb7d651b78d45]: Textual amendment: [Sch. 5 Pt. 4](https://www.legislation.gov.uk/uksi/2014/1855/schedule/5/part/4) inserted (18.6.2020) by [The Food Information (Amendment) (England) Regulations 2020 (S.I. 2020/541)](https://www.legislation.gov.uk/uksi/2020/541), [regs. 1](https://www.legislation.gov.uk/uksi/2020/541/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/541/regulation/2/2)
 
 [^c22166891]: Marginal citation: Relevant amending instruments are [S.I. 1998/141](https://www.legislation.gov.uk/uksi/1998/141), 1398, 1999/747, 1136, 1483, 1603, 2000/768, 2254, 3323, 2003/461, 474, 1563, 1596, 1659, 2075, 2243, 2647, 3120, 2004/1512, 2824, 2005/899, 2626, 2006/14, 2007/2080, 2008/1188, 1317, 2009/2538, 3235, 2010/295, 2817, 2011/402, 1043, 2936, 2012/1809, 2619, 2013/466, 2210, 2775, 3235. [S.I. 1996/1499](https://www.legislation.gov.uk/uksi/1996/1499) is amended on 15th August 2014 by paragraphs 1 to 3 of Schedule 7 to these Regulations.
 

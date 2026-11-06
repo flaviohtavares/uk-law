@@ -45,15 +45,15 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred on the Secretary of State by sections 20(2) and 21(1) of, and Schedule 4 to, the Further and Higher Education Act 1992[^f00001] (“the Act”) and now exercisable by them[^f00002].
 
-## 1. Title and commencement[^key-2905aee8c9cfa31bc806a6b3f7a2078e]
+## 1. Title and commencement[^c-2905aee8c9cfa31bc806a6b3f7a2078e]
 
 The title of these Regulations is the Gower College Swansea Further Education Corporation (Government) Regulations 2010 and they come into force on 20 May 2010.
 
-## 2. Instrument of Government[^key-86452e13037191fde71447dfd749114f]
+## 2. Instrument of Government[^c-86452e13037191fde71447dfd749114f]
 
 The Instrument of Government of Gower College Swansea Further Education Corporation is as prescribed in Schedule 1 to these Regulations.
 
-## 3. Articles of Government[^key-03bf8ab1ea6c4fe41c4efc0135c523d3]
+## 3. Articles of Government[^c-03bf8ab1ea6c4fe41c4efc0135c523d3]
 
 The Articles of Government of Gower College Swansea Further Education Corporation are as prescribed in Schedule 2 to these Regulations.
 
@@ -151,7 +151,7 @@ Change of name
 
 Application of seal
 
-### 1. Interpretation[^key-d26854ad9b9478ceeccc761c8b635399]
+### 1. Interpretation[^c-d26854ad9b9478ceeccc761c8b635399]
 
 (1) In this Instrument of Government—
 
@@ -180,7 +180,7 @@ Application of seal
 - “student members” (“*aelodau myfyrwyr*”); and
 - “Welsh Ministers Appointed Members” (“*Aelodau a Benodwyd gan Weinidogion Cymru*”).
 
-### 2. Composition of the Corporation[^key-b1fa5b766b1321ef104ab6e1f0f09755]
+### 2. Composition of the Corporation[^c-b1fa5b766b1321ef104ab6e1f0f09755]
 
 (1) The Corporation must consist of—
 
@@ -196,7 +196,7 @@ Application of seal
 
 (2) Any question as to whether a person is qualified in accordance with sub-paragraph (1) for appointment as a member to any category, must be determined by the relevant appointing authority as specified in paragraph 5.
 
-### 3. Determination of membership numbers[^key-fc1201942cf1ed5204dfa19b0fc17ab6]
+### 3. Determination of membership numbers[^c-fc1201942cf1ed5204dfa19b0fc17ab6]
 
 (1) At its first meeting, the Corporation must determine—
 
@@ -213,7 +213,7 @@ Application of seal
 
 (4) No determination under this paragraph has effect so as to terminate the appointment of any person who is already a member at the time when it takes effect.
 
-### 4. Appointments[^key-6357501c5112bdbbc9b5b7462b546b7d]
+### 4. Appointments[^c-6357501c5112bdbbc9b5b7462b546b7d]
 
 (1) The Corporation is the appointing authority in relation to the appointment of any member other than—
 
@@ -239,7 +239,7 @@ Application of seal
 
 (7) Nothing in this paragraph entitles the Corporation to request more than one nomination from any of the bodies referred to in paragraph 2(1)(c) to (g) to fill any single vacancy.
 
-### 5. Appointment of Chair and Vice Chair[^key-e37896573c4de0e89fb50a2ac1795c58]
+### 5. Appointment of Chair and Vice Chair[^c-e37896573c4de0e89fb50a2ac1795c58]
 
 (1) The Corporation must appoint a Chair and a Vice Chair from among its members.
 
@@ -259,7 +259,7 @@ Application of seal
 
 (9) The Chair and Vice Chair are eligible for reappointment at the expiry of their terms of office, subject to any rules made under article 20 of the Articles of Government concerning the number of terms of office which a person may serve.
 
-### 6. Appointment of the Clerk[^key-982c63b98ddcff1e25c2f9061cf145b8]
+### 6. Appointment of the Clerk[^c-982c63b98ddcff1e25c2f9061cf145b8]
 
 (1) The Corporation must appoint a person to serve as Clerk, but the Principal may not be appointed as Clerk.
 
@@ -269,7 +269,7 @@ Application of seal
 
 (4) The Clerk must comply with any written requirements of the Welsh Ministers.
 
-### 7. Eligibility[^key-cdfdcad4e32ce443f8eb5886ba519a1d]
+### 7. Eligibility[^c-cdfdcad4e32ce443f8eb5886ba519a1d]
 
 (1) A person who is under the age of 18 may only be a student member.
 
@@ -285,7 +285,7 @@ Application of seal
 
 (7) The Clerk may not be a member.
 
-(8) Subject to sub-paragraphs (9) and (10), a person may not be a member if that person has been made[^key-34a350cbef910150638b932680b01b0f] bankrupt[^f00006], or if that person is the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order or a bankruptcy restrictions undertaking[^f00007], or if that person has made a composition or arrangement with creditors, including an individual voluntary arrangement.
+(8) Subject to sub-paragraphs (9) and (10), a person may not be a member if that person has been made[^c-34a350cbef910150638b932680b01b0f] bankrupt[^f00006], or if that person is the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order or a bankruptcy restrictions undertaking[^f00007], or if that person has made a composition or arrangement with creditors, including an individual voluntary arrangement.
 
 (9) Where a person is disqualified from being a member by reason of having been made bankrupt, or being the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order or a bankruptcy restrictions undertaking, that disqualification ceases–
 
@@ -307,13 +307,13 @@ Application of seal
 
 (13) Upon a member becoming disqualified from being a member by virtue of sub-paragraphs (8) to (11), that member must immediately give written notice of that fact to the Clerk.
 
-### 8. Term of office[^key-b2207a577c14e3df9b9bbb19a296daba]
+### 8. Term of office[^c-b2207a577c14e3df9b9bbb19a296daba]
 
 (1) A member holds and vacates office in accordance with the terms of the appointment but the length of the term of office must not exceed four years.
 
 (2) A member retiring at the end of the term of office is eligible for reappointment, subject to any rules made under article 20 of the Articles of Government concerning the number of terms of office which a person may serve, and paragraph 4 applies to the reappointment of a member as it applies to the appointment of a member’s successor.
 
-### 9. Termination of membership[^key-a4fafe590e465f11cb13e8ba55bf7150]
+### 9. Termination of membership[^c-a4fafe590e465f11cb13e8ba55bf7150]
 
 (1) A member may resign from office at any time by giving written notice to the Clerk.
 
@@ -329,7 +329,7 @@ Application of seal
 - (a) at the end of the student’s final academic year or at such other time in the year after ceasing to be a student as the Corporation may decide; or
 - (b) if expelled from the institution.
 
-### 10. Members not to hold interests in matters relating to the institution[^key-42228074cdacb7f20c73bdc27da171b9]
+### 10. Members not to hold interests in matters relating to the institution[^c-42228074cdacb7f20c73bdc27da171b9]
 
 (1) Except with the prior approval in writing of the Welsh Ministers, no member may take or hold any interest in any property held or used for the purpose of the institution.
 
@@ -357,7 +357,7 @@ Application of seal
 
 (6) This paragraph does not prevent the members of the Corporation considering and voting upon proposals for the Corporation to insure the members of the Corporation against liabilities incurred by them arising out of their offices or the Corporation obtaining such insurance and paying the premiums.
 
-### 11. Meetings of the Corporation[^key-74c167220224ac7440d91d516b9d6f91]
+### 11. Meetings of the Corporation[^c-74c167220224ac7440d91d516b9d6f91]
 
 (1) The Corporation must meet at least once in every term, and hold other meetings as may be necessary.
 
@@ -369,7 +369,7 @@ Application of seal
 
 (5) Every member must act in the best interests of the Corporation and accordingly may not be bound in speaking and voting by mandates given by any other body or person.
 
-### 12. Quorum[^key-1fa9e3fcb3fa75ac179133fd31196b18]
+### 12. Quorum[^c-1fa9e3fcb3fa75ac179133fd31196b18]
 
 (1) Until the first determination of the number of members under paragraph 3, meetings of the Corporation are quorate if eight members are present.
 
@@ -379,7 +379,7 @@ Application of seal
 
 (4) In circumstances where a meeting of the Corporation cannot be held or cannot continue, due to a lack of quorum, the Chair may call a special meeting as soon as is reasonably practicable.
 
-### 13. Proceedings of meetings[^key-fb53072a56cd9acb059d054ab00cd571]
+### 13. Proceedings of meetings[^c-fb53072a56cd9acb059d054ab00cd571]
 
 (1) Every question to be decided at a meeting of the Corporation must be determined by a simple majority of the votes of the members present and voting on the question. Where there is an equal division of votes, the chair of the meeting has the casting vote.
 
@@ -415,7 +415,7 @@ Application of seal
 
 (10) If the Clerk withdraws from a meeting or part of a meeting under sub-paragraph (9), the Corporation or committee of the Corporation must appoint a person (other than the Principal) to serve as a temporary Clerk in accordance with paragraph 6(3).
 
-### 14. Minutes[^key-21a0cee1980e8c55bec353b763369ab4]
+### 14. Minutes[^c-21a0cee1980e8c55bec353b763369ab4]
 
 (1) Subject to sub-paragraph (2), at every meeting of the Corporation and of any committee of the Corporation, the minutes of the last meeting must be taken as an agenda item and, if agreed to be accurate, those minutes must be signed as a true record by the chair of the meeting.
 
@@ -423,7 +423,7 @@ Application of seal
 
 (3) Separate minutes must be taken of those parts of meetings from which the Clerk, Principal or staff or student members have withdrawn in accordance with sub-paragraphs (5) to (9) of paragraph 13 and such persons are not entitled to see the minute of that part of the meeting or any papers relating to it.
 
-### 15. Public access to meetings of the Corporation[^key-dad95c2750bf198d5d51ca3b9c93ee1a]
+### 15. Public access to meetings of the Corporation[^c-dad95c2750bf198d5d51ca3b9c93ee1a]
 
 (1) Subject to paragraph 13, the following are entitled to attend meetings of the Corporation—
 
@@ -433,7 +433,7 @@ Application of seal
 
 (2) Any question as to whether any other person should be allowed to attend a meeting of the Corporation must be determined by the Corporation.
 
-### 16. Publication of minutes and papers[^key-aa3f9f3b86f169fb73643100bd569156]
+### 16. Publication of minutes and papers[^c-aa3f9f3b86f169fb73643100bd569156]
 
 (1) Subject to sub-paragraph (2), the Corporation must make available, as soon as reasonably practicable, during normal office hours at the institution to any person wishing to inspect them, a copy of the following documents—
 
@@ -451,19 +451,19 @@ Application of seal
 
 (3) Items excluded under sub-paragraph (2)(d) must be regularly reviewed by the Corporation. If an item ceases to be confidential the Corporation must, as soon as reasonably practicable, make a copy of that item available during normal office hours at the institution to any person wishing to inspect it.
 
-### 17. Allowances to members[^key-538b8d148d129953fac80f095e9028f0]
+### 17. Allowances to members[^c-538b8d148d129953fac80f095e9028f0]
 
 The Corporation may pay to its members such travelling, subsistence or other allowances as it decides, but must not pay allowances which remunerate members for their services as members.
 
-### 18. Copies of Instrument of Government[^key-2284a2a335aebba12fe4cfa95aa1ed5e]
+### 18. Copies of Instrument of Government[^c-2284a2a335aebba12fe4cfa95aa1ed5e]
 
 The Corporation must give a copy of this Instrument to every member and make a copy available for inspection by any person upon request during normal office hours at the institution.
 
-### 19. Change of name[^key-0208fd6a682c8cf1e543a0b0ebe8f988]
+### 19. Change of name[^c-0208fd6a682c8cf1e543a0b0ebe8f988]
 
 The Corporation may change its name with the approval of the Welsh Ministers.
 
-### 20. Application of seal[^key-2adda865ca10baa5db8c5db1998365f4]
+### 20. Application of seal[^c-2adda865ca10baa5db8c5db1998365f4]
 
 The application of the seal of the Corporation is authenticated by:
 
@@ -560,7 +560,7 @@ Rules and bye-laws
 
 Copies of Articles of Government, rules and bye-laws
 
-### 1. Interpretation[^key-66265d7fb93837c9a32ee9c3e7209311]
+### 1. Interpretation[^c-66265d7fb93837c9a32ee9c3e7209311]
 
 In these Articles of Government—
 
@@ -573,11 +573,11 @@ In these Articles of Government—
 
 the defined words and expressions in the Instrument of Government have the same meaning.
 
-### 2. Conduct of the institution[^key-d0d36c3fa381b0d7d1336bd011c4d76a]
+### 2. Conduct of the institution[^c-d0d36c3fa381b0d7d1336bd011c4d76a]
 
 The institution must be conducted in accordance with the provisions of the Instrument of Government, these Articles, any rules or bye laws made under these Articles and any trust deed regulating the institution.
 
-### 3. Responsibilities of the Corporation, Principal and the Clerk[^key-f651e9c74d16140cc695ad98a4c1b10b]
+### 3. Responsibilities of the Corporation, Principal and the Clerk[^c-f651e9c74d16140cc695ad98a4c1b10b]
 
 (1) The Corporation is responsible for—
 
@@ -611,7 +611,7 @@ The institution must be conducted in accordance with the provisions of the Instr
 - (c) the conduct of its business; and
 - (d) matters of governance practice.
 
-### 4. Academic Board[^key-8085c4d2dd1befc04162d150cdc88436]
+### 4. Academic Board[^c-8085c4d2dd1befc04162d150cdc88436]
 
 (1) The Corporation may establish an Academic Board.
 
@@ -644,7 +644,7 @@ The institution must be conducted in accordance with the provisions of the Instr
 - (b) the arrangements for the selection or election of members of the Academic Board; and
 - (c) the number of members of any committee established under paragraph (8) and the terms on which they hold and vacate office.
 
-### 5. Committees[^key-c19125e58151bed9c2a98ae6c61f9160]
+### 5. Committees[^c-c19125e58151bed9c2a98ae6c61f9160]
 
 (1) The Corporation may establish a committee of the Corporation for any purpose, other than to carry out functions assigned in these Articles to the Principal or (if the Corporation has established an Academic Board) to the Academic Board.
 
@@ -654,7 +654,7 @@ The institution must be conducted in accordance with the provisions of the Instr
 
 (4) The Corporation must make available for inspection by any person during normal office hours at the institution a written statement of its policy regarding attendance at committee meetings by persons who are not committee members.
 
-### 6. Delegations[^key-464fbbf52033e1b459e8a3e590330e85]
+### 6. Delegations[^c-464fbbf52033e1b459e8a3e590330e85]
 
 (1) Subject to paragraph (2), the Corporation may delegate powers to—
 
@@ -675,7 +675,7 @@ The institution must be conducted in accordance with the provisions of the Instr
 
 (4) The Academic Board may delegate powers to any committee established under article 4(8).
 
-### 7. Committee to determine the dismissal of senior post holders[^key-bd7f7c40337578f028b72fa2e0ce65be]
+### 7. Committee to determine the dismissal of senior post holders[^c-bd7f7c40337578f028b72fa2e0ce65be]
 
 (1) The Corporation may establish a committee to determine—
 
@@ -686,7 +686,7 @@ The institution must be conducted in accordance with the provisions of the Instr
 
 (3) The rules made under paragraph (2) must include the requirement that any committee established under this article must consist solely of members of the Corporation.
 
-### 8. The Search Committee[^key-f25ba546d467af99155d5be11b0cfdf1]
+### 8. The Search Committee[^c-f25ba546d467af99155d5be11b0cfdf1]
 
 (1) The Corporation must establish a committee, to be known as the Search Committee, to advise on—
 
@@ -708,7 +708,7 @@ The institution must be conducted in accordance with the provisions of the Instr
 
 (5) The Corporation must make available a copy of any such remit and rules, for inspection by any person during normal office hours at the institution.
 
-### 9. The Audit Committee[^key-d2b84b60eb7d4efde249c74500ea8140]
+### 9. The Audit Committee[^c-d2b84b60eb7d4efde249c74500ea8140]
 
 (1) The Corporation must establish a committee, to be known as the Audit Committee, to advise on matters relating to the Corporation’s audit arrangements and systems of internal control.
 
@@ -722,7 +722,7 @@ The institution must be conducted in accordance with the provisions of the Instr
 
 (6) The Audit Committee must operate in accordance with any requirements of the Welsh Ministers.
 
-### 10. Appointment and promotion of staff[^key-873cc3733ea40fd8f2749cf5c1a3f4e0]
+### 10. Appointment and promotion of staff[^c-873cc3733ea40fd8f2749cf5c1a3f4e0]
 
 (1) Where there is a vacancy or expected vacancy in a senior post, the Corporation must—
 
@@ -748,15 +748,15 @@ The institution must be conducted in accordance with the provisions of the Instr
 - (a) may be required to act as Principal or in the place of any other senior post holder; and
 - (b) has all the duties and responsibilities of the Principal or such other senior post holder, during the period of the vacancy or temporary absence.
 
-### 11. Conduct of staff[^key-b0803ff0cc51c76ab2af0f5fbe8e63d6]
+### 11. Conduct of staff[^c-b0803ff0cc51c76ab2af0f5fbe8e63d6]
 
 After consultation with the staff, the Corporation must make rules relating to the conduct of the staff.
 
-### 12. Academic freedom[^key-a3a3a0a7d9bd7378b88ef1a15711995f]
+### 12. Academic freedom[^c-a3a3a0a7d9bd7378b88ef1a15711995f]
 
 In making rules under article 11, the Corporation must have regard to the need to ensure that academic staff of the institution have freedom within the law to question and test received wisdom, and to put forward new ideas and controversial or unpopular opinions, without placing themselves at risk of losing their jobs or any privileges which they may enjoy at the institution.
 
-### 13. Grievance, suspension and disciplinary procedures[^key-af7aaf904c8ce8568256cdbe3ce3d012]
+### 13. Grievance, suspension and disciplinary procedures[^c-af7aaf904c8ce8568256cdbe3ce3d012]
 
 (1) After consultation with staff, the Corporation must make rules setting out—
 
@@ -768,13 +768,13 @@ In making rules under article 11, the Corporation must have regard to the need t
 
 (2) The rules made by the Corporation under paragraph (1) must comply with the provisions of article 7.
 
-### 14. Suspension and dismissal of the Clerk[^key-a90438cc0793e5bed9733f5c02744486]
+### 14. Suspension and dismissal of the Clerk[^c-a90438cc0793e5bed9733f5c02744486]
 
 (1) Where the Clerk is also a member of staff of the institution, the Clerk is treated as a senior post holder for the purposes of article 13.
 
 (2) Where the Clerk is suspended or dismissed as a member of staff in accordance with rules made under article 13, that suspension or dismissal does not affect the position of the Clerk in the separate role of Clerk to the Corporation.
 
-### 15. Students[^key-45d895b6b0273556f95096067d8d4fcf]
+### 15. Students[^c-45d895b6b0273556f95096067d8d4fcf]
 
 (1) Any Students' Union must—
 
@@ -786,21 +786,21 @@ In making rules under article 11, the Corporation must have regard to the need t
 
 (3) If there is no Academic Board, the Corporation must, after consultation with representatives of the students, advise the Principal on procedures for the expulsion of a student for an unsatisfactory standard of work or other academic reason.
 
-### 16. Financial matters[^key-2692157a53260189e1997a5fe921d498]
+### 16. Financial matters[^c-2692157a53260189e1997a5fe921d498]
 
 The Corporation must set the policy by which the tuition and other fees payable to the Corporation are determined (subject to any terms and conditions attached to grants, loans or other payments made by the Welsh Ministers).
 
-### 17. Co-operation with the Welsh Ministers' auditor[^key-801ba61a2763abada462fd849775f9d9]
+### 17. Co-operation with the Welsh Ministers' auditor[^c-801ba61a2763abada462fd849775f9d9]
 
 The Corporation must co-operate with any person authorised by the Welsh Ministers to audit any returns of numbers of students or claims for financial assistance, including giving any such person access to any documents or records held by the Corporation, including records stored on computers.
 
-### 18. Internal audit[^key-b22719ec3686ab0547c4fed8374aa1ac]
+### 18. Internal audit[^c-b22719ec3686ab0547c4fed8374aa1ac]
 
 (1) The Corporation must, whenever it considers appropriate, examine and evaluate (or, subject to paragraph (2), arrange for the examination and evaluation on its behalf of) its systems of internal financial control to ensure that they contribute to the proper, economic, efficient and effective use of the Corporation’s resources.
 
 (2) The Corporation must not appoint any persons (“internal auditors”) to carry out the activities referred to in paragraph (1) on its behalf if such persons are appointed as external auditors under article 19(3).
 
-### 19. Accounts and audit of accounts[^key-1395930f4912790293d7ff7555b017e9]
+### 19. Accounts and audit of accounts[^c-1395930f4912790293d7ff7555b017e9]
 
 (1) The Corporation must—
 
@@ -827,11 +827,11 @@ The Corporation must co-operate with any person authorised by the Welsh Minister
 - (a) the last financial year ends on the date of dissolution of the Corporation; and
 - (b) the Corporation may decide, with the approval of the Welsh Ministers, that what would otherwise have been the last two financial years are treated as a single financial year for the purpose of this article.
 
-### 20. Rules and bye laws[^key-c725ece3acd34ebd7bf65c08986d6f06]
+### 20. Rules and bye laws[^c-c725ece3acd34ebd7bf65c08986d6f06]
 
 The Corporation may make rules and bye laws concerning any matters with regard to the government and conduct of the institution. Such rules and bye laws are subject to the provisions of the Instrument of Government and these Articles.
 
-### 21. Copies of Articles of Government, rules and bye laws[^key-64f47fc949492fd952e08ab65a1cf093]
+### 21. Copies of Articles of Government, rules and bye laws[^c-64f47fc949492fd952e08ab65a1cf093]
 
 The Corporation must give a copy of these Articles, and of any rules and bye laws, to every member and must make them available for inspection by any person upon request during normal office hours at the institution.
 
@@ -845,33 +845,33 @@ These Regulations prescribe the Instrument of Government and Articles of Governm
 
 [^f00002]: Footnote: The functions of the Secretary of State under sections 20(2) and 21(1) of, and Schedule 4 to, the Further and Higher Education Act 1992 were (so far as exercisable in relation to Wales) transferred to the National Assembly for Wales, by article 2 of, and Schedule 1 to, the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales were then transferred to the Welsh Ministers by virtue of paragraphs 30(1) and 30(2)(a) of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-2905aee8c9cfa31bc806a6b3f7a2078e]: Commencement: Reg. 1 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-2905aee8c9cfa31bc806a6b3f7a2078e]: Commencement: Reg. 1 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-86452e13037191fde71447dfd749114f]: Commencement: Reg. 2 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-86452e13037191fde71447dfd749114f]: Commencement: Reg. 2 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-03bf8ab1ea6c4fe41c4efc0135c523d3]: Commencement: Reg. 3 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-03bf8ab1ea6c4fe41c4efc0135c523d3]: Commencement: Reg. 3 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-d26854ad9b9478ceeccc761c8b635399]: Commencement: Sch. 1 para. 1 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-d26854ad9b9478ceeccc761c8b635399]: Commencement: Sch. 1 para. 1 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
 [^f00003]: Footnote: [1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^key-b1fa5b766b1321ef104ab6e1f0f09755]: Commencement: Sch. 1 para. 2 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-b1fa5b766b1321ef104ab6e1f0f09755]: Commencement: Sch. 1 para. 2 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
 [^f00004]: Footnote: [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21); section 39 was amended by article 9(1) of and paragraphs 48 and 59 of Schedule 1 to the National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 ([S.I. 2005/3238) (W.243)](https://www.legislation.gov.uk/wsi/2005/3238); and by section 47 of and paragraphs 1-3 of the Schedule to the Learning and Skills (Wales) Measure 2009 (No. 1) but at the time of making these Regulations those provisions had not yet been commenced.
 
-[^key-fc1201942cf1ed5204dfa19b0fc17ab6]: Commencement: Sch. 1 para. 3 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-fc1201942cf1ed5204dfa19b0fc17ab6]: Commencement: Sch. 1 para. 3 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-6357501c5112bdbbc9b5b7462b546b7d]: Commencement: Sch. 1 para. 4 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-6357501c5112bdbbc9b5b7462b546b7d]: Commencement: Sch. 1 para. 4 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
 [^f00005]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); section 28 was amended by sections 112, 143(1) and 153 and Schedule 11 to the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), section 140(1) and paragraph 38 of Schedule 30 to the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31) and section 582(1) and paragraph 109 of Schedule 37 to the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-e37896573c4de0e89fb50a2ac1795c58]: Commencement: Sch. 1 para. 5 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-e37896573c4de0e89fb50a2ac1795c58]: Commencement: Sch. 1 para. 5 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-982c63b98ddcff1e25c2f9061cf145b8]: Commencement: Sch. 1 para. 6 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-982c63b98ddcff1e25c2f9061cf145b8]: Commencement: Sch. 1 para. 6 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-cdfdcad4e32ce443f8eb5886ba519a1d]: Commencement: Sch. 1 para. 7 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-cdfdcad4e32ce443f8eb5886ba519a1d]: Commencement: Sch. 1 para. 7 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-34a350cbef910150638b932680b01b0f]: Textual amendment: Word in [Sch. 1 para. 7(8)](https://www.legislation.gov.uk/wsi/2010/1369/schedule/1/paragraph/7/8)[(9)](https://www.legislation.gov.uk/wsi/2010/1369/schedule/1/paragraph/7/9) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/15/a)
+[^c-34a350cbef910150638b932680b01b0f]: Textual amendment: Word in [Sch. 1 para. 7(8)](https://www.legislation.gov.uk/wsi/2010/1369/schedule/1/paragraph/7/8)[(9)](https://www.legislation.gov.uk/wsi/2010/1369/schedule/1/paragraph/7/9) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/15/a)
 
 [^f00006]: Footnote: At the time of the making of these Regulations, the legislative provisions dealing with a person being adjudged bankrupt are section 264 of the Insolvency Act [1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45) as amended by the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
@@ -879,76 +879,76 @@ These Regulations prescribe the Instrument of Government and Articles of Governm
 
 [^f00008]: Footnote: This would, at the time of the making of these Regulations be as a result of an application under section 375 of the Insolvency Act 1986. Section 375 was amended by section 106 of, and Schedule 15 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22).
 
-[^key-b2207a577c14e3df9b9bbb19a296daba]: Commencement: Sch. 1 para. 8 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-b2207a577c14e3df9b9bbb19a296daba]: Commencement: Sch. 1 para. 8 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-a4fafe590e465f11cb13e8ba55bf7150]: Commencement: Sch. 1 para. 9 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-a4fafe590e465f11cb13e8ba55bf7150]: Commencement: Sch. 1 para. 9 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-42228074cdacb7f20c73bdc27da171b9]: Commencement: Sch. 1 para. 10 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-42228074cdacb7f20c73bdc27da171b9]: Commencement: Sch. 1 para. 10 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-74c167220224ac7440d91d516b9d6f91]: Commencement: Sch. 1 para. 11 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-74c167220224ac7440d91d516b9d6f91]: Commencement: Sch. 1 para. 11 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-1fa9e3fcb3fa75ac179133fd31196b18]: Commencement: Sch. 1 para. 12 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-1fa9e3fcb3fa75ac179133fd31196b18]: Commencement: Sch. 1 para. 12 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-fb53072a56cd9acb059d054ab00cd571]: Commencement: Sch. 1 para. 13 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-fb53072a56cd9acb059d054ab00cd571]: Commencement: Sch. 1 para. 13 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-21a0cee1980e8c55bec353b763369ab4]: Commencement: Sch. 1 para. 14 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-21a0cee1980e8c55bec353b763369ab4]: Commencement: Sch. 1 para. 14 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-dad95c2750bf198d5d51ca3b9c93ee1a]: Commencement: Sch. 1 para. 15 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-dad95c2750bf198d5d51ca3b9c93ee1a]: Commencement: Sch. 1 para. 15 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-aa3f9f3b86f169fb73643100bd569156]: Commencement: Sch. 1 para. 16 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-aa3f9f3b86f169fb73643100bd569156]: Commencement: Sch. 1 para. 16 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-538b8d148d129953fac80f095e9028f0]: Commencement: Sch. 1 para. 17 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-538b8d148d129953fac80f095e9028f0]: Commencement: Sch. 1 para. 17 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-2284a2a335aebba12fe4cfa95aa1ed5e]: Commencement: Sch. 1 para. 18 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-2284a2a335aebba12fe4cfa95aa1ed5e]: Commencement: Sch. 1 para. 18 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-0208fd6a682c8cf1e543a0b0ebe8f988]: Commencement: Sch. 1 para. 19 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-0208fd6a682c8cf1e543a0b0ebe8f988]: Commencement: Sch. 1 para. 19 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-2adda865ca10baa5db8c5db1998365f4]: Commencement: Sch. 1 para. 20 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-2adda865ca10baa5db8c5db1998365f4]: Commencement: Sch. 1 para. 20 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-66265d7fb93837c9a32ee9c3e7209311]: Commencement: Sch. 2 para. 1 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-66265d7fb93837c9a32ee9c3e7209311]: Commencement: Sch. 2 para. 1 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
 [^f00009]: Footnote: Appointed by the Gower College Swansea (Incorporation) Order 2010 ([S.I. 2010/1368 (W.118)](https://www.legislation.gov.uk/wsi/2010/1368)).
 
-[^key-d0d36c3fa381b0d7d1336bd011c4d76a]: Commencement: Sch. 2 para. 2 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-d0d36c3fa381b0d7d1336bd011c4d76a]: Commencement: Sch. 2 para. 2 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-f651e9c74d16140cc695ad98a4c1b10b]: Commencement: Sch. 2 para. 3 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-f651e9c74d16140cc695ad98a4c1b10b]: Commencement: Sch. 2 para. 3 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-8085c4d2dd1befc04162d150cdc88436]: Commencement: Sch. 2 para. 4 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-8085c4d2dd1befc04162d150cdc88436]: Commencement: Sch. 2 para. 4 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-c19125e58151bed9c2a98ae6c61f9160]: Commencement: Sch. 2 para. 5 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-c19125e58151bed9c2a98ae6c61f9160]: Commencement: Sch. 2 para. 5 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-464fbbf52033e1b459e8a3e590330e85]: Commencement: Sch. 2 para. 6 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-464fbbf52033e1b459e8a3e590330e85]: Commencement: Sch. 2 para. 6 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
 [^f00010]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^key-bd7f7c40337578f028b72fa2e0ce65be]: Commencement: Sch. 2 para. 7 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-bd7f7c40337578f028b72fa2e0ce65be]: Commencement: Sch. 2 para. 7 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-f25ba546d467af99155d5be11b0cfdf1]: Commencement: Sch. 2 para. 8 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-f25ba546d467af99155d5be11b0cfdf1]: Commencement: Sch. 2 para. 8 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-d2b84b60eb7d4efde249c74500ea8140]: Commencement: Sch. 2 para. 9 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-d2b84b60eb7d4efde249c74500ea8140]: Commencement: Sch. 2 para. 9 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-873cc3733ea40fd8f2749cf5c1a3f4e0]: Commencement: Sch. 2 para. 10 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-873cc3733ea40fd8f2749cf5c1a3f4e0]: Commencement: Sch. 2 para. 10 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
 [^f00011]: Footnote: The date of establishment is 20 May 2010. See article 2 of the Gower College Swansea (Incorporation) Order 2010 ([S.I. 2010/1368 (W.118)](https://www.legislation.gov.uk/wsi/2010/1368)).
 
-[^key-b0803ff0cc51c76ab2af0f5fbe8e63d6]: Commencement: Sch. 2 para. 11 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-b0803ff0cc51c76ab2af0f5fbe8e63d6]: Commencement: Sch. 2 para. 11 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-a3a3a0a7d9bd7378b88ef1a15711995f]: Commencement: Sch. 2 para. 12 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-a3a3a0a7d9bd7378b88ef1a15711995f]: Commencement: Sch. 2 para. 12 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-af7aaf904c8ce8568256cdbe3ce3d012]: Commencement: Sch. 2 para. 13 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-af7aaf904c8ce8568256cdbe3ce3d012]: Commencement: Sch. 2 para. 13 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-a90438cc0793e5bed9733f5c02744486]: Commencement: Sch. 2 para. 14 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-a90438cc0793e5bed9733f5c02744486]: Commencement: Sch. 2 para. 14 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-45d895b6b0273556f95096067d8d4fcf]: Commencement: Sch. 2 para. 15 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-45d895b6b0273556f95096067d8d4fcf]: Commencement: Sch. 2 para. 15 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-2692157a53260189e1997a5fe921d498]: Commencement: Sch. 2 para. 16 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-2692157a53260189e1997a5fe921d498]: Commencement: Sch. 2 para. 16 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-801ba61a2763abada462fd849775f9d9]: Commencement: Sch. 2 para. 17 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-801ba61a2763abada462fd849775f9d9]: Commencement: Sch. 2 para. 17 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-b22719ec3686ab0547c4fed8374aa1ac]: Commencement: Sch. 2 para. 18 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-b22719ec3686ab0547c4fed8374aa1ac]: Commencement: Sch. 2 para. 18 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-1395930f4912790293d7ff7555b017e9]: Commencement: Sch. 2 para. 19 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-1395930f4912790293d7ff7555b017e9]: Commencement: Sch. 2 para. 19 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-c725ece3acd34ebd7bf65c08986d6f06]: Commencement: Sch. 2 para. 20 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-c725ece3acd34ebd7bf65c08986d6f06]: Commencement: Sch. 2 para. 20 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
 
-[^key-64f47fc949492fd952e08ab65a1cf093]: Commencement: Sch. 2 para. 21 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)
+[^c-64f47fc949492fd952e08ab65a1cf093]: Commencement: Sch. 2 para. 21 in force at 20.5.2010, see [reg. 1](https://www.legislation.gov.uk/wsi/2010/1369/regulation/1)

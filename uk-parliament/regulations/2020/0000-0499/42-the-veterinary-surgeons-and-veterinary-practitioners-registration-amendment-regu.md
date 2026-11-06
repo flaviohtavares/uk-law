@@ -31,7 +31,7 @@ summary: ''
 
 Veterinary Surgeons
 
-The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations Order of Council 2020 (revoked)[^key-ff6b891cbb3c944583608c1e13da69b1]
+The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations Order of Council 2020 (revoked)[^c-ff6b891cbb3c944583608c1e13da69b1]
 
 Made
 
@@ -45,52 +45,52 @@ At the Council Chamber, Whitehall, the 20th day of January 2020
 
 By the Lords of Her Majesty’s Most Honourable Privy Council
 
-[^key-ff6b891cbb3c944583608c1e13da69b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff6b891cbb3c944583608c1e13da69b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ff6b891cbb3c944583608c1e13da69b1]
+## 1. Citation and commencement[^c-ff6b891cbb3c944583608c1e13da69b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approval[^key-ff6b891cbb3c944583608c1e13da69b1]
+## 2. Approval[^c-ff6b891cbb3c944583608c1e13da69b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-ff6b891cbb3c944583608c1e13da69b1]
+## 3. Revocation[^c-ff6b891cbb3c944583608c1e13da69b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff6b891cbb3c944583608c1e13da69b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff6b891cbb3c944583608c1e13da69b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations 2019[^key-ff6b891cbb3c944583608c1e13da69b1]
+## SCHEDULE 1 — The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations 2019[^c-ff6b891cbb3c944583608c1e13da69b1]
 
 Article 2
 
-[^key-ff6b891cbb3c944583608c1e13da69b1]The Council of the Royal College of Veterinary Surgeons, in exercise of its powers under section 11 of the Veterinary Surgeons Act 1966, makes the following Regulations.
+[^c-ff6b891cbb3c944583608c1e13da69b1]The Council of the Royal College of Veterinary Surgeons, in exercise of its powers under section 11 of the Veterinary Surgeons Act 1966, makes the following Regulations.
 
-[^key-ff6b891cbb3c944583608c1e13da69b1]For Part 4 (Fees payable) of the Veterinary Surgeons and Veterinary Practitioners (Registration) Regulations 2014, substitute—
+[^c-ff6b891cbb3c944583608c1e13da69b1]For Part 4 (Fees payable) of the Veterinary Surgeons and Veterinary Practitioners (Registration) Regulations 2014, substitute—
 
-> **PART 4 — Fees payable[^key-ff6b891cbb3c944583608c1e13da69b1]**
+> **PART 4 — Fees payable[^c-ff6b891cbb3c944583608c1e13da69b1]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff6b891cbb3c944583608c1e13da69b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff6b891cbb3c944583608c1e13da69b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Revocations[^key-ff6b891cbb3c944583608c1e13da69b1]
+## SCHEDULE 2 — Revocations[^c-ff6b891cbb3c944583608c1e13da69b1]
 
 Article 3
 
-**1.**[^key-ff6b891cbb3c944583608c1e13da69b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ff6b891cbb3c944583608c1e13da69b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ff6b891cbb3c944583608c1e13da69b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ff6b891cbb3c944583608c1e13da69b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ff6b891cbb3c944583608c1e13da69b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ff6b891cbb3c944583608c1e13da69b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff6b891cbb3c944583608c1e13da69b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff6b891cbb3c944583608c1e13da69b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff6b891cbb3c944583608c1e13da69b1]: Textual amendment: Order revoked (1.4.2023) by [The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations Order of Council 2023 (S.I. 2023/242)](https://www.legislation.gov.uk/uksi/2023/242), [arts. 1](https://www.legislation.gov.uk/uksi/2023/242/article/1), [3](https://www.legislation.gov.uk/uksi/2023/242/article/3)
+[^c-ff6b891cbb3c944583608c1e13da69b1]: Textual amendment: Order revoked (1.4.2023) by [The Veterinary Surgeons and Veterinary Practitioners (Registration) (Amendment) Regulations Order of Council 2023 (S.I. 2023/242)](https://www.legislation.gov.uk/uksi/2023/242), [arts. 1](https://www.legislation.gov.uk/uksi/2023/242/article/1), [3](https://www.legislation.gov.uk/uksi/2023/242/article/3)

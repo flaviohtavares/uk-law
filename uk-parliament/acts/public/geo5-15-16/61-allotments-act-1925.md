@@ -61,7 +61,7 @@ Section ten of the Act of 1922 is hereby amended by the substitutionfor paragrap
 
 The right of a tenant to claim compensation under subsection (4) of section ten of the Act of 1922 shall be exerciseable notwithstanding that it is otherwise agreed in the contract of tenancy in any case where the rent payable by the tenant under his contract of tenancy for the land exceeds three pence per pole, [^c584517]. . ..
 
-## 8. Sale, &c., of land used as allotments.[^key-e6a25fe9d5f28b6c90fa365ee44020b5]
+## 8. Sale, &c., of land used as allotments.[^c-e6a25fe9d5f28b6c90fa365ee44020b5]
 
 Where a local authority has purchased or appropriated[^c584521] land for use as allotments the local authority shall not sell, appropriate, use, or dispose of the land for any purpose other than use for allotments without the consent of the Minister of Agriculture and Fisheries [^c584522]. . . and such consent may be given unconditionally or subject to such conditions as the Minister thinks fit, but shall not be given unless the Minister is satisfied that adequate provision will be made for allotment holders displaced by the action of the local authority or that such provision is unnecessary or not reasonably practicable, [^c584522]. . ..
 
@@ -115,7 +115,7 @@ Section eleven of the Act of 1922 shall be read as if the period of twenty-one d
 
 [^c584517]: Textual amendment: Words in [s. 7](https://www.legislation.gov.uk/ukpga/Geo5/15-16/61/section/7) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt.III](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/III)
 
-[^key-e6a25fe9d5f28b6c90fa365ee44020b5]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/Geo5/15-16/61/section/8) excluded (21.8.2013) by [The Croxley Rail Link Order 2013 (S.I. 2013/1967)](https://www.legislation.gov.uk/uksi/2013/1967), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1), [16(2)](https://www.legislation.gov.uk/uksi/2013/1967/article/16/2)
+[^c-e6a25fe9d5f28b6c90fa365ee44020b5]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/Geo5/15-16/61/section/8) excluded (21.8.2013) by [The Croxley Rail Link Order 2013 (S.I. 2013/1967)](https://www.legislation.gov.uk/uksi/2013/1967), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1), [16(2)](https://www.legislation.gov.uk/uksi/2013/1967/article/16/2)
 
 [^c584521]: Textual amendment: Words inserted by Agricultural Land (Utilisation) Act [1931 c. 41](https://www.legislation.gov.uk/ukpga/1931/41)), Sch. 2
 

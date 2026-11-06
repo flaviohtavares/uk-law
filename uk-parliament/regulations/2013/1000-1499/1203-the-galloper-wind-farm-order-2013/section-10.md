@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Deemed licence under the Marine and Coastal Access Act 2009[^key-e1b37ce431df8f476137983318836cf7]
+## 10. Deemed licence under the Marine and Coastal Access Act 2009[^c-e1b37ce431df8f476137983318836cf7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker is granted a deemed licence under Part 4 Chapter 1 of the 2009 Ac
 
 ## Annotations
 
-[^key-e1b37ce431df8f476137983318836cf7]: Commencement: Art. 10 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)
+[^c-e1b37ce431df8f476137983318836cf7]: Commencement: Art. 10 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)

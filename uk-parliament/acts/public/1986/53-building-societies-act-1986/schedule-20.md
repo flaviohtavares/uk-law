@@ -172,7 +172,7 @@ to give to a building society or building societies generally an indication of t
 
 ### Existing financial years
 
-**16.**[^key-2810b4a120a14cc5acc471f93b2aaae1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-2810b4a120a14cc5acc471f93b2aaae1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Qualifying assets
 
@@ -222,7 +222,7 @@ to give to a building society or building societies generally an indication of t
 
 [^c15528611]: Textual amendment: Sch. 20 paras. 7-13, 15, 17 repealed (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [46(2)](https://www.legislation.gov.uk/ukpga/1997/32/section/46/2), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 67(b)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/67/b), [Sch. 9](https://www.legislation.gov.uk/ukpga/1997/32/schedule/9); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(y)(z)(xxxix)(cc)(xxi)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/y/z/xxxix/cc/xxi)
 
-[^key-2810b4a120a14cc5acc471f93b2aaae1]: Textual amendment: [Sch. 20 para. 16](https://www.legislation.gov.uk/ukpga/1986/53/schedule/20/paragraph/16) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/17) (with [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/18))
+[^c-2810b4a120a14cc5acc471f93b2aaae1]: Textual amendment: [Sch. 20 para. 16](https://www.legislation.gov.uk/ukpga/1986/53/schedule/20/paragraph/16) omitted (18.2.2014) by virtue of [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(2)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/2), [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/17) (with [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2013/33/schedule/9/paragraph/18))
 
 [^c15528641]: Textual amendment: Sch. 20 paras. 7-13, 15, 17 repealed (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 43](https://www.legislation.gov.uk/ukpga/1997/32/section/43), [46(2)](https://www.legislation.gov.uk/ukpga/1997/32/section/46/2), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3), [Sch. 7 para. 67(b)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/7/paragraph/67/b), [Sch. 9](https://www.legislation.gov.uk/ukpga/1997/32/schedule/9); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(w)(y)(z)(xxxix)(cc)(xxi)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/w/y/z/xxxix/cc/xxi)
 

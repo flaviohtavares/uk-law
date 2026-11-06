@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — Repeals[^key-cf82a6b54f3a018065fb93e7dca013ba]
+## SCHEDULE 2 — Repeals[^c-cf82a6b54f3a018065fb93e7dca013ba]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf82a6b54f3a018065fb93e7dca013ba]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2010/1/schedule/2) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))
+[^c-cf82a6b54f3a018065fb93e7dca013ba]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2010/1/schedule/2) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))

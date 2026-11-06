@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111A. Issues arising in proceedings: contributions, etc.[^key-063e83226c70d612f19ae58c57ed0a5a][^c14898571]
+## 111A. Issues arising in proceedings: contributions, etc.[^c-063e83226c70d612f19ae58c57ed0a5a][^c14898571]
 
 *Extent: N.I.*
 
@@ -50,6 +50,6 @@ the decision shall be referred to such an officer to be made in accordance (subj
 
 ## Annotations
 
-[^key-063e83226c70d612f19ae58c57ed0a5a]: Modification: [S. 111A](https://www.legislation.gov.uk/ukpga/1992/8/section/111A) modified by 2014 c. 7, s. 10A(3) (as inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(17)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/17))
+[^c-063e83226c70d612f19ae58c57ed0a5a]: Modification: [S. 111A](https://www.legislation.gov.uk/ukpga/1992/8/section/111A) modified by 2014 c. 7, s. 10A(3) (as inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(17)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/17))
 
 [^c14898571]: Textual amendment: [S. 111A](https://www.legislation.gov.uk/ukpga/1992/8/section/111A) inserted (1.4.1999) by [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671), [art. 5](https://www.legislation.gov.uk/uksi/1999/671/article/5), [Sch. 6 para. 10](https://www.legislation.gov.uk/uksi/1999/671/schedule/6/paragraph/10); [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (subject to arts. 3-6 of that S.R.)

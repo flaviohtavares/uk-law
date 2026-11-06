@@ -86,8 +86,8 @@ summary: ''
 
 .
 
-(4)[^key-914d952f01e708301196634571cf0858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-914d952f01e708301196634571cf0858] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-914d952f01e708301196634571cf0858]: Textual amendment: [S. 40(4)](https://www.legislation.gov.uk/asp/2019/17/section/40/4) omitted (27.11.2023) by virtue of [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/3)
+[^c-914d952f01e708301196634571cf0858]: Textual amendment: [S. 40(4)](https://www.legislation.gov.uk/asp/2019/17/section/40/4) omitted (27.11.2023) by virtue of [The Transport (Scotland) Act 2019 Amendment Regulations 2023 (S.S.I. 2023/347)](https://www.legislation.gov.uk/ssi/2023/347), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/347/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/347/regulation/2/3)

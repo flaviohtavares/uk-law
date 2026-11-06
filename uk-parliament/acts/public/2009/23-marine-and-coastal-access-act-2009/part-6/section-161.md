@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Inquiries[^key-c75bc8ec61abcb23ebf63d870d972baf]
+## 161. Inquiries[^c-c75bc8ec61abcb23ebf63d870d972baf]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c75bc8ec61abcb23ebf63d870d972baf]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2009/23/section/161) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)
+[^c-c75bc8ec61abcb23ebf63d870d972baf]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2009/23/section/161) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/c)

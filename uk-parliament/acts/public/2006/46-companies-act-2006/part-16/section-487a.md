@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 487A. Maximum engagement period: transitional arrangements[^key-6f1b92796b12bf35ad446c91f63d5abb]
+## 487A. Maximum engagement period: transitional arrangements[^c-6f1b92796b12bf35ad446c91f63d5abb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f1b92796b12bf35ad446c91f63d5abb]: Textual amendment: S. 487A omitted (with effect in accordance with reg. 1(6)(8) of the amending S.I.) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [12(7)](https://www.legislation.gov.uk/uksi/2017/516/regulation/12/7)
+[^c-6f1b92796b12bf35ad446c91f63d5abb]: Textual amendment: S. 487A omitted (with effect in accordance with reg. 1(6)(8) of the amending S.I.) by virtue of [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [12(7)](https://www.legislation.gov.uk/uksi/2017/516/regulation/12/7)

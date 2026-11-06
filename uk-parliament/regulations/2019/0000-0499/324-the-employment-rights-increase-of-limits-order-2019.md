@@ -32,7 +32,7 @@ summary: ''
 
 Terms And Conditions Of Employment
 
-The Employment Rights (Increase of Limits) Order 2019 (revoked)[^key-8e61022901aca8ff53120ed3b7254401]
+The Employment Rights (Increase of Limits) Order 2019 (revoked)[^c-8e61022901aca8ff53120ed3b7254401]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 6th April 2019
 
-[^key-8e61022901aca8ff53120ed3b7254401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8e61022901aca8ff53120ed3b7254401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8e61022901aca8ff53120ed3b7254401]
+## 1. Citation, commencement and interpretation[^c-8e61022901aca8ff53120ed3b7254401]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-8e61022901aca8ff53120ed3b7254401]
+## 2. Revocation[^c-8e61022901aca8ff53120ed3b7254401]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase of limits[^key-8e61022901aca8ff53120ed3b7254401]
+## 3. Increase of limits[^c-8e61022901aca8ff53120ed3b7254401]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-8e61022901aca8ff53120ed3b7254401]
+## 4. Transitional provisions[^c-8e61022901aca8ff53120ed3b7254401]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8e61022901aca8ff53120ed3b7254401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8e61022901aca8ff53120ed3b7254401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-8e61022901aca8ff53120ed3b7254401]
+## SCHEDULE[^c-8e61022901aca8ff53120ed3b7254401]
 
 Article 3
 
@@ -78,8 +78,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-8e61022901aca8ff53120ed3b7254401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8e61022901aca8ff53120ed3b7254401]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8e61022901aca8ff53120ed3b7254401]: Textual amendment: Regulations revoked (6.4.2020) by [The Employment Rights (Increase of Limits) Order 2020 (S.I. 2020/205)](https://www.legislation.gov.uk/uksi/2020/205), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/205/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/205/article/2) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2020/205/article/4)); and, to the extent that it still remains in force, reg. 6(3)(a) is amended (S.) (19.11.20203) by The Carer’s [Assistance (Carer Support Payment) (Consequential and Miscellaneous Amendments and Transitional Provision) (Scotland) Regulations 2023 (S.S.I. 2023/258)](https://www.legislation.gov.uk/ssi/2023/258), [regs. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2023/258/regulation/7/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2023/258/regulation/9))
+[^c-8e61022901aca8ff53120ed3b7254401]: Textual amendment: Regulations revoked (6.4.2020) by [The Employment Rights (Increase of Limits) Order 2020 (S.I. 2020/205)](https://www.legislation.gov.uk/uksi/2020/205), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/205/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/205/article/2) (with transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2020/205/article/4)); and, to the extent that it still remains in force, reg. 6(3)(a) is amended (S.) (19.11.20203) by The Carer’s [Assistance (Carer Support Payment) (Consequential and Miscellaneous Amendments and Transitional Provision) (Scotland) Regulations 2023 (S.S.I. 2023/258)](https://www.legislation.gov.uk/ssi/2023/258), [regs. 1](https://www.legislation.gov.uk/ssi/2023/258/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2023/258/regulation/7/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2023/258/regulation/9))

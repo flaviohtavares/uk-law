@@ -29,11 +29,11 @@ summary: ''
 (4) Subsection (1) does not apply in relation to—
 
 - (a) an authorised unit trust scheme;
-- (aa)[^key-6f5283ffed6736e2ae162cdd264b6f6a] an authorised contractual scheme;
+- (aa)[^c-6f5283ffed6736e2ae162cdd264b6f6a] an authorised contractual scheme;
 - (b) a scheme constituted by an authorised open-ended investment company; or
 - (c) a recognised scheme.
 
-(5) Subsection (1) does not apply to anything done in accordance with rules made by the FCA[^key-4a14bb60846e9eb4516ee5857a1dfa27] for the purpose of exempting from that subsection the promotion otherwise than to the general public of schemes of specified descriptions.
+(5) Subsection (1) does not apply to anything done in accordance with rules made by the FCA[^c-4a14bb60846e9eb4516ee5857a1dfa27] for the purpose of exempting from that subsection the promotion otherwise than to the general public of schemes of specified descriptions.
 
 (6) The Treasury may by order specify circumstances in which subsection (1) does not apply.
 
@@ -56,6 +56,6 @@ summary: ''
 
 [^c1709514]: Commencement: S. 238 wholly in force at 1.12.2001; s. 238 not in force at Royal Assent see s. 431(2); s. 238 in force for certain purposes at 25.2.2001 by [S.I. 2001/516](https://www.legislation.gov.uk/uksi/2001/516), [art. 2(b)](https://www.legislation.gov.uk/uksi/2001/516/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2001/516/schedule/part/2); s. 238 in force for specified purposes at 18.6.2001 by [S.I. 2001/1820](https://www.legislation.gov.uk/uksi/2001/1820), [art. 2](https://www.legislation.gov.uk/uksi/2001/1820/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1820/schedule); s. 238 in force in so far as not already in force at 1.12.2001 by [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-6f5283ffed6736e2ae162cdd264b6f6a]: Textual amendment: S. 238(4)(aa) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/3/7) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-6f5283ffed6736e2ae162cdd264b6f6a]: Textual amendment: S. 238(4)(aa) inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/3/7) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
 
-[^key-4a14bb60846e9eb4516ee5857a1dfa27]: Textual amendment: Word in ss. 237-239 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-4a14bb60846e9eb4516ee5857a1dfa27]: Textual amendment: Word in ss. 237-239 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

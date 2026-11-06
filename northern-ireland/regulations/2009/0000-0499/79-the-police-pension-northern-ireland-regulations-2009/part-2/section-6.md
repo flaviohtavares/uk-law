@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Eligibility for pension awards payable on the ground of permanent disablement[^key-06d811dc274cfed4f6f16cffb8de69aa]
+## 6. Eligibility for pension awards payable on the ground of permanent disablement[^c-06d811dc274cfed4f6f16cffb8de69aa]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) a candidate for appointment to the police service; and
 - (b) a police officer who seeks under regulation 7(5) to cancel his election that regulation 5(1) shall not apply in his case.
-- (c)[^key-c12f6ee860597aa5f675e84bdc6f274d] a police officer who has been automatically enrolled or re-enrolled.
+- (c)[^c-c12f6ee860597aa5f675e84bdc6f274d] a police officer who has been automatically enrolled or re-enrolled.
 
 (2) A person to whom this regulation applies shall, if required by the Board, submit to an examination by a duly qualified medical practitioner selected by the Board (“the selected medical practitioner”) in accordance with regulation 65 in order that the Board may determine his eligibility to receive pension awards payable on the ground of permanent disablement.
 
@@ -54,6 +54,6 @@ Provided that—
 
 ## Annotations
 
-[^key-06d811dc274cfed4f6f16cffb8de69aa]: Commencement: Reg. 6 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-06d811dc274cfed4f6f16cffb8de69aa]: Commencement: Reg. 6 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
-[^key-c12f6ee860597aa5f675e84bdc6f274d]: Textual amendment: [Reg. 6(1)(c)](https://www.legislation.gov.uk/nisr/2009/79/regulation/6/1/c) inserted (1.4.2013) by [The Police Pension (Northern Ireland) (Amendment) Regulations 2013 (S.R. 2013/36)](https://www.legislation.gov.uk/nisr/2013/36), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/36/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/nisr/2013/36/schedule/paragraph/2)
+[^c-c12f6ee860597aa5f675e84bdc6f274d]: Textual amendment: [Reg. 6(1)(c)](https://www.legislation.gov.uk/nisr/2009/79/regulation/6/1/c) inserted (1.4.2013) by [The Police Pension (Northern Ireland) (Amendment) Regulations 2013 (S.R. 2013/36)](https://www.legislation.gov.uk/nisr/2013/36), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/36/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/nisr/2013/36/schedule/paragraph/2)

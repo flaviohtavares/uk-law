@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 424. Meaning of “the reference banks”[^key-1b36a108758021a41e6f1bcaa85047c1]
+## 424. Meaning of “the reference banks”[^c-1b36a108758021a41e6f1bcaa85047c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b36a108758021a41e6f1bcaa85047c1]: Commencement: Art. 424 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1b36a108758021a41e6f1bcaa85047c1]: Commencement: Art. 424 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Committal for sentence of young offenders on summary trial of certain ... offences[^key-75c7c9dbc068571579360057bd1a1fe6][^key-1c34e3b68cfab3da9539f74b22026640]
+## 16A. Committal for sentence of young offenders on summary trial of certain ... offences[^c-75c7c9dbc068571579360057bd1a1fe6][^c-1c34e3b68cfab3da9539f74b22026640]
 
 *Extent: E+W*
 
 (1) This section applies where—
 
-- (a) on summary trial of an offence within section 252A(1)(a) or (1A)(a) (offences[^key-42fc69592452936c4c336e9f4242924a] attracting special sentence for offenders of particular concern), a person is convicted of the offence,
+- (a) on summary trial of an offence within section 252A(1)(a) or (1A)(a) (offences[^c-42fc69592452936c4c336e9f4242924a] attracting special sentence for offenders of particular concern), a person is convicted of the offence,
 - (b) the person is aged under 18 at the time of conviction, and
 - (c) the court is of the opinion that—
   - (i) the offence, or
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-75c7c9dbc068571579360057bd1a1fe6]: Textual amendment: [S. 16A](https://www.legislation.gov.uk/ukpga/2020/17/section/16A) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 26(2)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/26/2)
+[^c-75c7c9dbc068571579360057bd1a1fe6]: Textual amendment: [S. 16A](https://www.legislation.gov.uk/ukpga/2020/17/section/16A) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 26(2)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/26/2)
 
-[^key-1c34e3b68cfab3da9539f74b22026640]: Textual amendment: Word in [s. 16A heading](https://www.legislation.gov.uk/ukpga/2020/17/part/2/chapter/2/crossheading/committal-following-summary-trial-persons-under-18) omitted (22.3.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 7(9)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/2/section/7/9/a/i), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-1c34e3b68cfab3da9539f74b22026640]: Textual amendment: Word in [s. 16A heading](https://www.legislation.gov.uk/ukpga/2020/17/part/2/chapter/2/crossheading/committal-following-summary-trial-persons-under-18) omitted (22.3.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 7(9)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/2/section/7/9/a/i), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-42fc69592452936c4c336e9f4242924a]: Textual amendment: Words in [s. 16A(1)(a)](https://www.legislation.gov.uk/ukpga/2020/17/section/16A/1/a) substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 7(9)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/2/section/7/9/a/ii), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-42fc69592452936c4c336e9f4242924a]: Textual amendment: Words in [s. 16A(1)(a)](https://www.legislation.gov.uk/ukpga/2020/17/section/16A/1/a) substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 7(9)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/2/section/7/9/a/ii), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

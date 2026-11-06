@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Counselling[^key-5ba15b5f9471f8967aa4252e7acbb8be]
+## 62. Counselling[^c-5ba15b5f9471f8967aa4252e7acbb8be]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ba15b5f9471f8967aa4252e7acbb8be]: Commencement: S. 62 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-5ba15b5f9471f8967aa4252e7acbb8be]: Commencement: S. 62 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

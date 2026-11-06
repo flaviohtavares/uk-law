@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Default powers.[^key-8124916d76ab3d3bbf6e60a73eec4ce9]
+## 71. Default powers.[^c-8124916d76ab3d3bbf6e60a73eec4ce9]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8124916d76ab3d3bbf6e60a73eec4ce9]: Textual amendment: S. 71 substituted (21.7.2008 for specified purposes, otherwise 6.4.2010 for E. and 26.7.2010 for W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170), [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2008/14/schedule/11/paragraph/26); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(e)](https://www.legislation.gov.uk/uksi/2010/708/article/6/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/uksi/2010/1547), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/1547/article/2/e/f) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1547/schedule/1))
+[^c-8124916d76ab3d3bbf6e60a73eec4ce9]: Textual amendment: S. 71 substituted (21.7.2008 for specified purposes, otherwise 6.4.2010 for E. and 26.7.2010 for W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170), [Sch. 11 para. 26](https://www.legislation.gov.uk/ukpga/2008/14/schedule/11/paragraph/26); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(e)](https://www.legislation.gov.uk/uksi/2010/708/article/6/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/uksi/2010/1547), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/1547/article/2/e/f) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1547/schedule/1))

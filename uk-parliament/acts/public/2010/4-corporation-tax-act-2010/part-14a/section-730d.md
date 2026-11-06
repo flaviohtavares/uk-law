@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 730D. Disallowance of deductible amounts: profit transfers[^key-e8dcce066e61ae6bc605a2b85b4b9a33]
+## 730D. Disallowance of deductible amounts: profit transfers[^c-e8dcce066e61ae6bc605a2b85b4b9a33]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ in any accounting period ending on or after the relevant day.
 
 ## Annotations
 
-[^key-e8dcce066e61ae6bc605a2b85b4b9a33]: Textual amendment: Pt. 14A inserted (with effect in accordance with Sch. 14 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/14/paragraph/1)
+[^c-e8dcce066e61ae6bc605a2b85b4b9a33]: Textual amendment: Pt. 14A inserted (with effect in accordance with Sch. 14 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/14/paragraph/1)

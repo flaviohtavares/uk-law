@@ -46,11 +46,11 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-759050923a988a86bbcbd50136467d99]
+### 1. Citation and commencement[^c-759050923a988a86bbcbd50136467d99]
 
 This Order may be cited as the Safeguarding Vulnerable Groups (Regulated Activity, Devolution Alignment and Miscellaneous Provisions) Order (Northern Ireland) 2010 and comes into operation on 1st April 2010.
 
-### 2. Interpretation[^key-93519a4c2f8a3144f6f82381645b4bf7]
+### 2. Interpretation[^c-93519a4c2f8a3144f6f82381645b4bf7]
 
 In this Order—
 
@@ -58,11 +58,11 @@ In this Order—
 
 ## PART 2 — Regulated activity relating to children
 
-### 3. Regulated activity: children[^key-47d788f180226db1864d85499611d58c]
+### 3. Regulated activity: children[^c-47d788f180226db1864d85499611d58c]
 
 Part 1 of Schedule 2 to the 2007 Order (regulated activity relating to children) is amended in accordance with Articles 4 to 6.
 
-**4.**[^key-ebaf64e08ec3931d483bc84a10104a4b] (1) Paragraph 1 (general) is amended as follows.
+**4.**[^c-ebaf64e08ec3931d483bc84a10104a4b] (1) Paragraph 1 (general) is amended as follows.
 
 (2) After sub-paragraph (7) insert—
 
@@ -80,7 +80,7 @@ Part 1 of Schedule 2 to the 2007 Order (regulated activity relating to children)
 
 (7) In sub-paragraph (12), for “(8) or (9)” substitute “(7A) or (8)”.
 
-**5.**[^key-f478fdcce33b1fd3f4da02a5be6d1769] In paragraph 3(1) (establishments)—
+**5.**[^c-f478fdcce33b1fd3f4da02a5be6d1769] In paragraph 3(1) (establishments)—
 
 - (a) omit the words “and (8)”; and
 - (b) after paragraph (b) insert—
@@ -89,15 +89,15 @@ Part 1 of Schedule 2 to the 2007 Order (regulated activity relating to children)
 
   .
 
-**6.**[^key-c10027f6eb76c20577363e5e36778977][^key-b036abf87c90e14c4360371228aeabda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c10027f6eb76c20577363e5e36778977][^c-b036abf87c90e14c4360371228aeabda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Regulated activity relating to vulnerable adults
 
-### 7. Regulated activity: vulnerable adults[^key-ae752d2b5b8bc3beef2faa0aa724c77d]
+### 7. Regulated activity: vulnerable adults[^c-ae752d2b5b8bc3beef2faa0aa724c77d]
 
 Part 2 of Schedule 2 to the 2007 Order (regulated activity relating to vulnerable adults) is amended in accordance with Articles 8 and 9.
 
-**8.**[^key-ef60c7547c79a13743ffaf63f0483499] (1) Paragraph 7 (regulated activity relating to vulnerable adults) is amended as follows.
+**8.**[^c-ef60c7547c79a13743ffaf63f0483499] (1) Paragraph 7 (regulated activity relating to vulnerable adults) is amended as follows.
 
 (2) In sub-paragraph (5) for “ or (4)” substitute “, (4) or (6)”.
 
@@ -114,33 +114,33 @@ Part 2 of Schedule 2 to the 2007 Order (regulated activity relating to vulnerabl
 
 (5) Omit sub-paragraph (8).
 
-**9.**[^key-2a2f5469cece9e5bf659e18c9a23fa36][^key-7efa533f3d29af4aff1a2aebd890748d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-2a2f5469cece9e5bf659e18c9a23fa36][^c-7efa533f3d29af4aff1a2aebd890748d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — The period condition
 
-### 10. Regulated activity: the period condition[^key-1bb507e33f7fb5c4c4140831bcfc767b]
+### 10. Regulated activity: the period condition[^c-1bb507e33f7fb5c4c4140831bcfc767b]
 
 In Part 3 of Schedule 2 to the 2007 Order (the period condition), in paragraph 10(1) for “two” substitute “three”.
 
-### 11. Controlled activity: the period condition[^key-3acbaaf36e3d9582c554c0a8d3296aec][^key-f14ebd9e432583baf225b7edf56d0be7]
+### 11. Controlled activity: the period condition[^c-3acbaaf36e3d9582c554c0a8d3296aec][^c-f14ebd9e432583baf225b7edf56d0be7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Devolution alignment
 
-### 12. Provision of information by the Independent Safeguarding Authority to a police force in England, Wales or Scotland[^key-f6491fe427b5375b70af286ec501bd24]
+### 12. Provision of information by the Independent Safeguarding Authority to a police force in England, Wales or Scotland[^c-f6491fe427b5375b70af286ec501bd24]
 
 In Article 52A(1)[^f00008] of the 2007 Order, after “Police Service of Northern Ireland” insert “or the chief constable of a police force in England, Wales or Scotland”.
 
 ## PART 6 — Miscellaneous amendments to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007
 
-**13.**[^key-e5cd9a1b3cbf0d5a58f5649d963b1ca4] The 2007 Order is amended in accordance with Articles 14 to 24.
+**13.**[^c-e5cd9a1b3cbf0d5a58f5649d963b1ca4] The 2007 Order is amended in accordance with Articles 14 to 24.
 
-### 14. Definition of institution of further education[^key-d8e69a27dd4f65b7d00e6d08a3a18f18][^key-ff087cb51647ef0f6fa5433dfc56b146]
+### 14. Definition of institution of further education[^c-d8e69a27dd4f65b7d00e6d08a3a18f18][^c-ff087cb51647ef0f6fa5433dfc56b146]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Amendments to references to the Regulation and Improvement Authority[^key-b49c0cedbe94e689485e31edb2ad7e6b]
+### 15. Amendments to references to the Regulation and Improvement Authority[^c-b49c0cedbe94e689485e31edb2ad7e6b]
 
 (1) In Article 2(2) (Interpretation) for the definition of “the Regulation and Improvement Authority” substitute—
 
@@ -150,40 +150,40 @@ In Article 52A(1)[^f00008] of the 2007 Order, after “Police Service of Norther
 
 (2) In Article 47(7) and paragraph 1(8) of Schedule 2 for “the Regulation and Improvement Authority” substitute “RQIA”.
 
-### 16. Educational establishments: members of governing body subject to monitoring[^key-4bccc09a80c8f7a3e120028e85427bc1][^key-cdf4b44f53113d3e28761dd951a9a21f]
+### 16. Educational establishments: members of governing body subject to monitoring[^c-4bccc09a80c8f7a3e120028e85427bc1][^c-cdf4b44f53113d3e28761dd951a9a21f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Educational establishments: check on members of governing body[^key-4bccc09a80c8f7a3e120028e85427bc1][^key-ab444e3930083e447165397aec3f6a41]
+### 17. Educational establishments: check on members of governing body[^c-4bccc09a80c8f7a3e120028e85427bc1][^c-ab444e3930083e447165397aec3f6a41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Monitoring application[^key-4bccc09a80c8f7a3e120028e85427bc1][^key-1122cad89564c970cf18becd0f227f6d]
+### 18. Monitoring application[^c-4bccc09a80c8f7a3e120028e85427bc1][^c-1122cad89564c970cf18becd0f227f6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Monitoring: additional fees[^key-4bccc09a80c8f7a3e120028e85427bc1][^key-a2f33338cb2a72519cdcb1ff3d0b5e51]
+### 19. Monitoring: additional fees[^c-4bccc09a80c8f7a3e120028e85427bc1][^c-a2f33338cb2a72519cdcb1ff3d0b5e51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Vetting information[^key-4bccc09a80c8f7a3e120028e85427bc1][^key-ec2bdf02ccf0d2975495e047533a400e]
+### 20. Vetting information[^c-4bccc09a80c8f7a3e120028e85427bc1][^c-ec2bdf02ccf0d2975495e047533a400e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Notification of cessation of monitoring[^key-4bccc09a80c8f7a3e120028e85427bc1][^key-e3e923d381e175e3510ad825784ec495]
+### 21. Notification of cessation of monitoring[^c-4bccc09a80c8f7a3e120028e85427bc1][^c-e3e923d381e175e3510ad825784ec495]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Registers[^key-5c1b3e014283603eba4b7925f307d44b]
+### 22. Registers[^c-5c1b3e014283603eba4b7925f307d44b]
 
 In Article 43 (Registers: duty to refer)—
 
-- (a)[^key-5a4f9d983891cfd72a2f50185e32270d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5a4f9d983891cfd72a2f50185e32270d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the table in paragraph (7) in entry 3, in column 1 (relevant register) for “Either of” substitute “Any of”.
 
-**23.**[^key-55266ef54f6fe70e4dc9b29a61251fc7] In Article 45 (Registers: notice of barring and cessation of monitoring), in paragraph (6)(a), omit “of entry 1 or 8”.
+**23.**[^c-55266ef54f6fe70e4dc9b29a61251fc7] In Article 45 (Registers: notice of barring and cessation of monitoring), in paragraph (6)(a), omit “of entry 1 or 8”.
 
-**24.**[^key-c98e84198418e4cd272d6d74613df762][^key-c92f5a3e84fd5303495170b548bae5b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-c98e84198418e4cd272d6d74613df762][^c-c92f5a3e84fd5303495170b548bae5b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Paul Goggins
 
@@ -255,68 +255,68 @@ Article 22 amends Article 43 of the 2007 Order to require keepers of professiona
 
 [^f00001]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
-[^key-759050923a988a86bbcbd50136467d99]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-759050923a988a86bbcbd50136467d99]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-93519a4c2f8a3144f6f82381645b4bf7]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2010/30/article/2) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-93519a4c2f8a3144f6f82381645b4bf7]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2010/30/article/2) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-47d788f180226db1864d85499611d58c]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2010/30/article/3) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-47d788f180226db1864d85499611d58c]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2010/30/article/3) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-ebaf64e08ec3931d483bc84a10104a4b]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2010/30/article/4) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-ebaf64e08ec3931d483bc84a10104a4b]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2010/30/article/4) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
 [^f00002]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755).
 
-[^key-f478fdcce33b1fd3f4da02a5be6d1769]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2010/30/article/5) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-f478fdcce33b1fd3f4da02a5be6d1769]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2010/30/article/5) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-c10027f6eb76c20577363e5e36778977]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisr/2010/30/article/6) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-c10027f6eb76c20577363e5e36778977]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisr/2010/30/article/6) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
 
-[^key-b036abf87c90e14c4360371228aeabda]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2010/30/article/6) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-b036abf87c90e14c4360371228aeabda]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2010/30/article/6) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-ae752d2b5b8bc3beef2faa0aa724c77d]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2010/30/article/7) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-ae752d2b5b8bc3beef2faa0aa724c77d]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2010/30/article/7) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-ef60c7547c79a13743ffaf63f0483499]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2010/30/article/8) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-ef60c7547c79a13743ffaf63f0483499]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2010/30/article/8) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-2a2f5469cece9e5bf659e18c9a23fa36]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/nisr/2010/30/article/9) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-2a2f5469cece9e5bf659e18c9a23fa36]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/nisr/2010/30/article/9) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
 
-[^key-7efa533f3d29af4aff1a2aebd890748d]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2010/30/article/9) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-7efa533f3d29af4aff1a2aebd890748d]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2010/30/article/9) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-1bb507e33f7fb5c4c4140831bcfc767b]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2010/30/article/10) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-1bb507e33f7fb5c4c4140831bcfc767b]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2010/30/article/10) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-3acbaaf36e3d9582c554c0a8d3296aec]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/nisr/2010/30/article/11) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-3acbaaf36e3d9582c554c0a8d3296aec]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/nisr/2010/30/article/11) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
 
-[^key-f14ebd9e432583baf225b7edf56d0be7]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2010/30/article/11) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-f14ebd9e432583baf225b7edf56d0be7]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2010/30/article/11) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-f6491fe427b5375b70af286ec501bd24]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2010/30/article/12) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-f6491fe427b5375b70af286ec501bd24]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2010/30/article/12) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
 [^f00008]: Footnote: Article 52A was inserted by the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), section 91.
 
-[^key-e5cd9a1b3cbf0d5a58f5649d963b1ca4]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2010/30/article/13) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-e5cd9a1b3cbf0d5a58f5649d963b1ca4]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2010/30/article/13) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-d8e69a27dd4f65b7d00e6d08a3a18f18]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/nisr/2010/30/article/14) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-d8e69a27dd4f65b7d00e6d08a3a18f18]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/nisr/2010/30/article/14) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
 
-[^key-ff087cb51647ef0f6fa5433dfc56b146]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2010/30/article/14) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-ff087cb51647ef0f6fa5433dfc56b146]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2010/30/article/14) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-b49c0cedbe94e689485e31edb2ad7e6b]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2010/30/article/15) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-b49c0cedbe94e689485e31edb2ad7e6b]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2010/30/article/15) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-4bccc09a80c8f7a3e120028e85427bc1]: Textual amendment: [Art. 21](https://www.legislation.gov.uk/nisr/2010/30/article/21) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-4bccc09a80c8f7a3e120028e85427bc1]: Textual amendment: [Art. 21](https://www.legislation.gov.uk/nisr/2010/30/article/21) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
 
-[^key-cdf4b44f53113d3e28761dd951a9a21f]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2010/30/article/16) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-cdf4b44f53113d3e28761dd951a9a21f]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2010/30/article/16) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-ab444e3930083e447165397aec3f6a41]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/2010/30/article/17) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-ab444e3930083e447165397aec3f6a41]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/2010/30/article/17) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-1122cad89564c970cf18becd0f227f6d]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/2010/30/article/18) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-1122cad89564c970cf18becd0f227f6d]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/2010/30/article/18) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-a2f33338cb2a72519cdcb1ff3d0b5e51]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/2010/30/article/19) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-a2f33338cb2a72519cdcb1ff3d0b5e51]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/2010/30/article/19) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-ec2bdf02ccf0d2975495e047533a400e]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/2010/30/article/20) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-ec2bdf02ccf0d2975495e047533a400e]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/2010/30/article/20) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-e3e923d381e175e3510ad825784ec495]: Commencement: [Art. 21](https://www.legislation.gov.uk/nisr/2010/30/article/21) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-e3e923d381e175e3510ad825784ec495]: Commencement: [Art. 21](https://www.legislation.gov.uk/nisr/2010/30/article/21) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-5c1b3e014283603eba4b7925f307d44b]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2010/30/article/22) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-5c1b3e014283603eba4b7925f307d44b]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2010/30/article/22) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-5a4f9d983891cfd72a2f50185e32270d]: Textual amendment: [Art. 22(a)](https://www.legislation.gov.uk/nisr/2010/30/article/22/a) and word revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-5a4f9d983891cfd72a2f50185e32270d]: Textual amendment: [Art. 22(a)](https://www.legislation.gov.uk/nisr/2010/30/article/22/a) and word revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
 
-[^key-55266ef54f6fe70e4dc9b29a61251fc7]: Commencement: [Art. 23](https://www.legislation.gov.uk/nisr/2010/30/article/23) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-55266ef54f6fe70e4dc9b29a61251fc7]: Commencement: [Art. 23](https://www.legislation.gov.uk/nisr/2010/30/article/23) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
 
-[^key-c98e84198418e4cd272d6d74613df762]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/nisr/2010/30/article/24) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-c98e84198418e4cd272d6d74613df762]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/nisr/2010/30/article/24) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
 
-[^key-c92f5a3e84fd5303495170b548bae5b4]: Commencement: [Art. 24](https://www.legislation.gov.uk/nisr/2010/30/article/24) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)
+[^c-c92f5a3e84fd5303495170b548bae5b4]: Commencement: [Art. 24](https://www.legislation.gov.uk/nisr/2010/30/article/24) in operation at 1.4.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/30/article/1)

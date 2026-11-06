@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140B. Powers of court in relation to unfair relationships[^key-2c4fbf348bc0681c9fc2e0bcb50ffb43][^c18853441][^c18853421]
+## 140B. Powers of court in relation to unfair relationships[^c-2c4fbf348bc0681c9fc2e0bcb50ffb43][^c18853441][^c18853421]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 - (a) fixed-sum credit not exceeding £15,000; or
 - (b) running-account credit on which the credit limit does not exceed £15,000.
 
-(7)[^key-557d6f7dbade9afe6ce3497ff7ea56b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-557d6f7dbade9afe6ce3497ff7ea56b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) A party to any proceedings mentioned in subsection (2) shall be entitled, in accordance with rules of court, to have any person who might be the subject of an order under this section made a party to the proceedings.
 
@@ -59,10 +59,10 @@ summary: ''
 
 ## Annotations
 
-[^key-2c4fbf348bc0681c9fc2e0bcb50ffb43]: Modification: Ss. 140A-140C applied (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [29(12)](https://www.legislation.gov.uk/uksi/2015/910/article/29/12) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-2c4fbf348bc0681c9fc2e0bcb50ffb43]: Modification: Ss. 140A-140C applied (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [29(12)](https://www.legislation.gov.uk/uksi/2015/910/article/29/12) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
 [^c18853441]: Textual amendment: S. 140B inserted (6.4.2007) by [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), ss. {20}, 71(2) (with Sch. 3 paras. 14, 16); [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2)
 
 [^c18853421]: Textual amendment: S. 140A and preceding cross-heading inserted (6.4.2007) by [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), ss. {19}, 71(2) (with Sch. 3 para. 16); [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2)
 
-[^key-557d6f7dbade9afe6ce3497ff7ea56b6]: Textual amendment: S. 140B(7) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 69(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/69/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-557d6f7dbade9afe6ce3497ff7ea56b6]: Textual amendment: S. 140B(7) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 69(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/69/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

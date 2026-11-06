@@ -22,7 +22,7 @@ summary: ''
 
 Article 45
 
-**1.**[^key-099a327936965955c58a72aba44a8571] Documents for certification that they are true copies of the documents referred to in this Order
+**1.**[^c-099a327936965955c58a72aba44a8571] Documents for certification that they are true copies of the documents referred to in this Order
 
 | (1) Document/Plan | (2) Document Number | (3) Document date/Plan number with revision number |
 | --- | --- | --- |
@@ -134,4 +134,4 @@ Article 45
 
 ## Annotations
 
-[^key-099a327936965955c58a72aba44a8571]: Textual amendment: Sch. 15 Table substituted (11.4.2025) by [The West Midlands Rail Freight Interchange (Amendment No. 2) Order 2025 (S.I. 2025/481)](https://www.legislation.gov.uk/uksi/2025/481), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/481/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/481/schedule)
+[^c-099a327936965955c58a72aba44a8571]: Textual amendment: Sch. 15 Table substituted (11.4.2025) by [The West Midlands Rail Freight Interchange (Amendment No. 2) Order 2025 (S.I. 2025/481)](https://www.legislation.gov.uk/uksi/2025/481), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/481/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/481/schedule)

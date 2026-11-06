@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Interim reports[^key-cd0b7d86f3fe6d41cd408a6e7133b68d][^key-77a74e39f026a1a4815f942e7b62a1fa]
+## 114. Interim reports[^c-cd0b7d86f3fe6d41cd408a6e7133b68d][^c-77a74e39f026a1a4815f942e7b62a1fa]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd0b7d86f3fe6d41cd408a6e7133b68d]: Commencement: S. 114 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-cd0b7d86f3fe6d41cd408a6e7133b68d]: Commencement: S. 114 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-77a74e39f026a1a4815f942e7b62a1fa]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2022/31/section/114) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-77a74e39f026a1a4815f942e7b62a1fa]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2022/31/section/114) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

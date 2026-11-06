@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**27.**[^key-92c50c6233ebe381cc93d3c998799cd5] For section 131 (effect under this Act of certain nullity decrees) substitute—
+**27.**[^c-92c50c6233ebe381cc93d3c998799cd5] For section 131 (effect under this Act of certain nullity decrees) substitute—
 
 > **131. Effect under this Act of certain nullity decrees**
 >
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92c50c6233ebe381cc93d3c998799cd5]: Commencement: Art. 27 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-92c50c6233ebe381cc93d3c998799cd5]: Commencement: Art. 27 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

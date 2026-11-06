@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Written record of state of preparation in certain cases[^key-58e831e0c88b534d85ee4a6d7351f6ac]
+## 2. Written record of state of preparation in certain cases[^c-58e831e0c88b534d85ee4a6d7351f6ac]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ After section 72D of the 1995 Act (as inserted by section 1(3) of this Act) inse
 
 ## Annotations
 
-[^key-58e831e0c88b534d85ee4a6d7351f6ac]: Commencement: S. 2 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-58e831e0c88b534d85ee4a6d7351f6ac]: Commencement: S. 2 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

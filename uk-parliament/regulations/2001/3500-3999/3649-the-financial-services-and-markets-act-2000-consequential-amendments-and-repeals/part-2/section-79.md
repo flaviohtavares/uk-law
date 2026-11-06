@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Change in default rules of recognised investment exchange and clearing house[^key-0dc5ea97e82a0f6900fa82867ff45a5f]
+## 79. Change in default rules of recognised investment exchange and clearing house[^c-0dc5ea97e82a0f6900fa82867ff45a5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 157(1) of the Companies Act 1989 (notification of change in default r
 
 ## Annotations
 
-[^key-0dc5ea97e82a0f6900fa82867ff45a5f]: Commencement: Art. 79 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0dc5ea97e82a0f6900fa82867ff45a5f]: Commencement: Art. 79 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

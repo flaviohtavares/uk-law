@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 96. Offences under Part VII[^key-c0e8ee42d1b050db01be21c6e78f2653]
+## 96. Offences under Part VII[^c-c0e8ee42d1b050db01be21c6e78f2653]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0e8ee42d1b050db01be21c6e78f2653]: Commencement: [Art. 96](https://www.legislation.gov.uk/nisi/1986/595/article/96) in operation at 31.3.2013 in so far as not already in operation by [S.R. 2012/349](https://www.legislation.gov.uk/nisr/2012/349), [art. 2(2)(g)](https://www.legislation.gov.uk/nisr/2012/349/article/2/2/g)
+[^c-c0e8ee42d1b050db01be21c6e78f2653]: Commencement: [Art. 96](https://www.legislation.gov.uk/nisi/1986/595/article/96) in operation at 31.3.2013 in so far as not already in operation by [S.R. 2012/349](https://www.legislation.gov.uk/nisr/2012/349), [art. 2(2)(g)](https://www.legislation.gov.uk/nisr/2012/349/article/2/2/g)

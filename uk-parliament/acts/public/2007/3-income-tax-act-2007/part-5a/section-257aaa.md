@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257AAA. Risk-to-capital condition[^key-1087b07df8951c0d0d2b1aa164d38bfa][^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+## 257AAA. Risk-to-capital condition[^c-1087b07df8951c0d0d2b1aa164d38bfa][^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1087b07df8951c0d0d2b1aa164d38bfa]: Textual amendment: [S. 257AAA](https://www.legislation.gov.uk/ukpga/2007/3/section/257AAA) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 14(2)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/14/2/b)[(4)](https://www.legislation.gov.uk/ukpga/2018/3/section/14/4); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/2/a)
+[^c-1087b07df8951c0d0d2b1aa164d38bfa]: Textual amendment: [S. 257AAA](https://www.legislation.gov.uk/ukpga/2007/3/section/257AAA) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 14(2)(b)](https://www.legislation.gov.uk/ukpga/2018/3/section/14/2/b)[(4)](https://www.legislation.gov.uk/ukpga/2018/3/section/14/4); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/2/a)
 
-[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
+[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)

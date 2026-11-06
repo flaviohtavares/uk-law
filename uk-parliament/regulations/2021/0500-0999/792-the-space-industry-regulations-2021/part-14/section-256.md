@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256. Offence of disclosing protected information[^key-39c71ded6b4cc6f21449036d33f76569]
+## 256. Offence of disclosing protected information[^c-39c71ded6b4cc6f21449036d33f76569]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ It is an offence for a person to disclose information in contravention of regula
 
 ## Annotations
 
-[^key-39c71ded6b4cc6f21449036d33f76569]: Commencement: Reg. 256 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-39c71ded6b4cc6f21449036d33f76569]: Commencement: Reg. 256 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

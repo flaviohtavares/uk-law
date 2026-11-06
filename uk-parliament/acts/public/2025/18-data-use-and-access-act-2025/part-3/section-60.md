@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Pre-commencement consultation[^key-c956dbbe8519d7e2c7397a03fad0f2d3]
+## 60. Pre-commencement consultation[^c-c956dbbe8519d7e2c7397a03fad0f2d3]
 
 *Extent: E+W+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c956dbbe8519d7e2c7397a03fad0f2d3]: Commencement: S. 60 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-c956dbbe8519d7e2c7397a03fad0f2d3]: Commencement: S. 60 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)

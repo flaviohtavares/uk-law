@@ -38,8 +38,8 @@ summary: ''
 
 (4) A landlord is not to be treated as having failed to comply with the duty imposed by section 14(1) where the purported failure occurred only because the landlord lacked necessary rights (of access or otherwise) despite having taken reasonable steps for the purposes of acquiring those rights.
 
-(5)[^key-9ad6686574abc4dc0b0a545ee5f6c845] For the purpose of subsection (4), in relation to any work intended to be carried out to parts owned in common with other owners but where a majority of the owners has not consented to the intended work, a landlord is to be treated as lacking necessary rights.
+(5)[^c-9ad6686574abc4dc0b0a545ee5f6c845] For the purpose of subsection (4), in relation to any work intended to be carried out to parts owned in common with other owners but where a majority of the owners has not consented to the intended work, a landlord is to be treated as lacking necessary rights.
 
 ## Annotations
 
-[^key-9ad6686574abc4dc0b0a545ee5f6c845]: Textual amendment: [S. 16(5)](https://www.legislation.gov.uk/asp/2006/1/section/16/5) inserted (1.3.2019) by [The Housing (Scotland) Act 2006 (Supplemental Provision) Order 2019 (S.S.I. 2019/62)](https://www.legislation.gov.uk/ssi/2019/62), [arts. 1](https://www.legislation.gov.uk/ssi/2019/62/article/1), [2](https://www.legislation.gov.uk/ssi/2019/62/article/2)
+[^c-9ad6686574abc4dc0b0a545ee5f6c845]: Textual amendment: [S. 16(5)](https://www.legislation.gov.uk/asp/2006/1/section/16/5) inserted (1.3.2019) by [The Housing (Scotland) Act 2006 (Supplemental Provision) Order 2019 (S.S.I. 2019/62)](https://www.legislation.gov.uk/ssi/2019/62), [arts. 1](https://www.legislation.gov.uk/ssi/2019/62/article/1), [2](https://www.legislation.gov.uk/ssi/2019/62/article/2)

@@ -36,13 +36,13 @@ summary: ''
 
 (5) The Income Support (General) Regulations 1987 [^c16476191] shall be amended in accordance with Schedule 5 to this Order.
 
-(6)[^key-f34b006aa67c74179bdb392832671214] The Social Security (Claims and Payments) Regulations 1987 [^c16476201] shall be amended in accordance with Schedule 6 to this Order.
+(6)[^c-f34b006aa67c74179bdb392832671214] The Social Security (Claims and Payments) Regulations 1987 [^c16476201] shall be amended in accordance with Schedule 6 to this Order.
 
-(7)[^key-74c94d924f063f39cd4b9823dec6d6ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-74c94d924f063f39cd4b9823dec6d6ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) The Social Fund (Application for Review) Regulations 1988 [^c16476231] shall be amended in accordance with Schedule 8 to this Order.
 
-(9)[^key-6644e953c27a82ae6d4601044e832823] The Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988 [^c16476241] shall be amended in accordance with Schedule 9 to this Order.
+(9)[^c-6644e953c27a82ae6d4601044e832823] The Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988 [^c16476241] shall be amended in accordance with Schedule 9 to this Order.
 
 (10) The Community Charges (Deductions from Income Support) (Scotland) Regulations 1989 [^c16476251] shall be amended in accordance with Schedule 10 to this Order.
 
@@ -76,15 +76,15 @@ summary: ''
 
 [^c16476191]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are [S.I. 1989/534](https://www.legislation.gov.uk/uksi/1989/534), 663, 1678, 1990/671, 1993/2119, 1995/516, 2303, 1996/206, 462 and 1997/65 and 2863.
 
-[^key-f34b006aa67c74179bdb392832671214]: Modification: Art. 3(6) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-f34b006aa67c74179bdb392832671214]: Modification: Art. 3(6) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c16476201]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968); relevant amending instruments are [S.I. 1988/522](https://www.legislation.gov.uk/uksi/1988/522), 1989/136 and 1686, 1990/2208, 1991/387, 2741 and 2284, 1992/247, 1026 and 2595, 1993/1113 and 2113, 1994/2319 and 2943, 1995/1613, 1996/1460 and 2306 and 1998/1174 and 1381.
 
-[^key-74c94d924f063f39cd4b9823dec6d6ba]: Textual amendment: [Art. 3(7)](https://www.legislation.gov.uk/uksi/1999/3178/article/3/7) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-74c94d924f063f39cd4b9823dec6d6ba]: Textual amendment: [Art. 3(7)](https://www.legislation.gov.uk/uksi/1999/3178/article/3/7) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c16476231]: Marginal citation: [S.I. 1988/34](https://www.legislation.gov.uk/uksi/1988/34); relevant amending instruments are [S.I. 1988/1843](https://www.legislation.gov.uk/uksi/1988/1843) and 1990/580.
 
-[^key-6644e953c27a82ae6d4601044e832823]: Modification: Art. 3(9) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-6644e953c27a82ae6d4601044e832823]: Modification: Art. 3(9) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c16476241]: Marginal citation: [S.I. 1988/664](https://www.legislation.gov.uk/uksi/1988/664); relevant amending instruments are [S.I. 1991/2742](https://www.legislation.gov.uk/uksi/1991/2742), 1996/30 and 1345.
 

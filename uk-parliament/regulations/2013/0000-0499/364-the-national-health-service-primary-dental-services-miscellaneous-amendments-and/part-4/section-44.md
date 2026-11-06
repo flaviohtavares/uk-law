@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Amendment of regulation 2[^key-3575e9a65b1927bf21211d46cf867559]
+## 44. Amendment of regulation 2[^c-3575e9a65b1927bf21211d46cf867559]
 
 *Extent: E+W*
 
@@ -75,7 +75,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3575e9a65b1927bf21211d46cf867559]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2013/364/regulation/44) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-3575e9a65b1927bf21211d46cf867559]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2013/364/regulation/44) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
 
 [^f00011]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 

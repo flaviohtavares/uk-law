@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. The Investigating Committee[^key-ab26e6f399ecb41c0d7ccdf225691b54][^key-8588161c5129692c98bb0781d7858b8b][^key-5d51a942548532a1063f2e55a379f92d]
+## 26. The Investigating Committee[^c-ab26e6f399ecb41c0d7ccdf225691b54][^c-8588161c5129692c98bb0781d7858b8b][^c-5d51a942548532a1063f2e55a379f92d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,16 +24,16 @@ summary: ''
 
 (2) Where an allegation is referred to the Investigating Committee, it shall—
 
-- (a)[^key-950d52db28ac46700dee9b058150162b] notify without delay the person concerned of the allegation and invite him to submit written representations within a prescribed period;
+- (a)[^c-950d52db28ac46700dee9b058150162b] notify without delay the person concerned of the allegation and invite him to submit written representations within a prescribed period;
 - (b) where it sees fit, notify the person making the allegation of the representations mentioned in sub-paragraph (a) and invite him to deal within a specified period with any points raised by the Committee in respect of those representations;
 - (c) take such other steps as are reasonably practicable to obtain as much information as possible about the case;
 - (d) consider, in the light of the information which it has been able to obtain and any representations or other observations made to it under sub-paragraph (a) or (b), whether in its opinion—
   - (i) in respect of an allegation of the kind mentioned in article 22(1)(a), there is a case to answer, and
   - (ii) in respect of an allegation of the kind mentioned in article 22(1)(b), whether the entry concerned has been fraudulently procured or incorrectly made.
 
-(3)[^key-950d52db28ac46700dee9b058150162b] The Council shall by rules make provision as to the procedure to be followed by the Investigating Committee in any investigation carried out by it under this article.
+(3)[^c-950d52db28ac46700dee9b058150162b] The Council shall by rules make provision as to the procedure to be followed by the Investigating Committee in any investigation carried out by it under this article.
 
-(4)[^key-950d52db28ac46700dee9b058150162b] In the case of an allegation of the kind mentioned in article 22(1)(b) the rules shall, in particular, make similar provision to that made by virtue of article 32(2)(b), (f), (g), (h), (i), (j), (m), (n), (o) and (p) and may provide for the Registrar to be made a party to the proceedings.
+(4)[^c-950d52db28ac46700dee9b058150162b] In the case of an allegation of the kind mentioned in article 22(1)(b) the rules shall, in particular, make similar provision to that made by virtue of article 32(2)(b), (f), (g), (h), (i), (j), (m), (n), (o) and (p) and may provide for the Registrar to be made a party to the proceedings.
 
 (5) When the Investigating Committee reaches a decision under paragraph (2) as to whether—
 
@@ -50,7 +50,7 @@ it shall notify in writing both the person concerned and the person making the a
   - (ii) to the Health Committee in the case of an allegation of a kind mentioned in article 22(1)(a)(iv), or
   - (iii) to the Conduct and Competence Committee, in the case of any other allegation.
 
-(6A)[^key-8357c5abad88d40162647b3d8d71676a] In deciding whether to act under paragraph (6)(a) or (b)(i), the Investigating Committee (or any panel by which a function under that paragraph is exercisable as mentioned in paragraph 18(2) of Schedule 1) must have regard to the over-arching objective of the Council under article 3(4) (read with article 3(4A)).
+(6A)[^c-8357c5abad88d40162647b3d8d71676a] In deciding whether to act under paragraph (6)(a) or (b)(i), the Investigating Committee (or any panel by which a function under that paragraph is exercisable as mentioned in paragraph 18(2) of Schedule 1) must have regard to the over-arching objective of the Council under article 3(4) (read with article 3(4A)).
 
 (7) In the case of an allegation of a kind mentioned in article 22(1)(b), if the Investigating Committee is satisfied that an entry in the register has been fraudulently procured or incorrectly made, it may make an order that the Registrar remove or amend the entry and shall notify the person concerned of his right of appeal under article 38.
 
@@ -80,12 +80,12 @@ it shall notify in writing both the person concerned and the person making the a
 
 ## Annotations
 
-[^key-ab26e6f399ecb41c0d7ccdf225691b54]: Commencement: Art. 26 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-ab26e6f399ecb41c0d7ccdf225691b54]: Commencement: Art. 26 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-8588161c5129692c98bb0781d7858b8b]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2002/254/article/26) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
+[^c-8588161c5129692c98bb0781d7858b8b]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2002/254/article/26) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
 
-[^key-5d51a942548532a1063f2e55a379f92d]: Modification: [Art. 26](https://www.legislation.gov.uk/uksi/2002/254/article/26) continued (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/23/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-5d51a942548532a1063f2e55a379f92d]: Modification: [Art. 26](https://www.legislation.gov.uk/uksi/2002/254/article/26) continued (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/23/2); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-950d52db28ac46700dee9b058150162b]: Commencement: [Art. 26(2)(a)](https://www.legislation.gov.uk/uksi/2002/254/article/26/2/a)[(3)](https://www.legislation.gov.uk/uksi/2002/254/article/26/3)[(4)](https://www.legislation.gov.uk/uksi/2002/254/article/26/4) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
+[^c-950d52db28ac46700dee9b058150162b]: Commencement: [Art. 26(2)(a)](https://www.legislation.gov.uk/uksi/2002/254/article/26/2/a)[(3)](https://www.legislation.gov.uk/uksi/2002/254/article/26/3)[(4)](https://www.legislation.gov.uk/uksi/2002/254/article/26/4) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
 
-[^key-8357c5abad88d40162647b3d8d71676a]: Textual amendment: [Art. 26(6A)](https://www.legislation.gov.uk/uksi/2002/254/article/26/6A) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 6(3)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/6/3); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-8357c5abad88d40162647b3d8d71676a]: Textual amendment: [Art. 26(6A)](https://www.legislation.gov.uk/uksi/2002/254/article/26/6A) inserted (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 6(3)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/6/3); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)

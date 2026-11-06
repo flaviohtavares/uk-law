@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-Fertilisers (Mammalian Meat and Bone Meal) Regulations (Northern Ireland) 1998 (revoked)[^key-f7be52ab3421aa081debac231aed31cc]
+Fertilisers (Mammalian Meat and Bone Meal) Regulations (Northern Ireland) 1998 (revoked)[^c-f7be52ab3421aa081debac231aed31cc]
 
 Made
 
@@ -40,36 +40,36 @@ Coming into operation
 
 6th July 1998
 
-[^key-f7be52ab3421aa081debac231aed31cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7be52ab3421aa081debac231aed31cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f7be52ab3421aa081debac231aed31cc]
+## 1. Citation and commencement[^c-f7be52ab3421aa081debac231aed31cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f7be52ab3421aa081debac231aed31cc]
+## 2. Interpretation[^c-f7be52ab3421aa081debac231aed31cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on mammalian meat and bone meal as or in fertiliser on agricultural land[^key-f7be52ab3421aa081debac231aed31cc]
+## 3. Prohibition on mammalian meat and bone meal as or in fertiliser on agricultural land[^c-f7be52ab3421aa081debac231aed31cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Restriction on mammalian meat and bone meal as or in fertiliser in other cases[^key-f7be52ab3421aa081debac231aed31cc]
+## 4. Restriction on mammalian meat and bone meal as or in fertiliser in other cases[^c-f7be52ab3421aa081debac231aed31cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-f7be52ab3421aa081debac231aed31cc]
+## 5. Revocations[^c-f7be52ab3421aa081debac231aed31cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f7be52ab3421aa081debac231aed31cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7be52ab3421aa081debac231aed31cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f7be52ab3421aa081debac231aed31cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7be52ab3421aa081debac231aed31cc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f7be52ab3421aa081debac231aed31cc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/187) revoked (18.7.2002) by [Transmissible Spongiform Encephalopathy Regulations (Northern Ireland) 2002 (S.R. 2002/225)](https://www.legislation.gov.uk/nisr/2002/225), [reg. 1](https://www.legislation.gov.uk/nisr/2002/225/regulation/1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2002/225/schedule/8/part/I)
+[^c-f7be52ab3421aa081debac231aed31cc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/187) revoked (18.7.2002) by [Transmissible Spongiform Encephalopathy Regulations (Northern Ireland) 2002 (S.R. 2002/225)](https://www.legislation.gov.uk/nisr/2002/225), [reg. 1](https://www.legislation.gov.uk/nisr/2002/225/regulation/1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2002/225/schedule/8/part/I)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Supply of goods and services[^key-937f43288e584c268a248ac7057439b3][^key-ee70a1327ae8828a3285f4e4b784e636]
+## 15. Supply of goods and services[^c-937f43288e584c268a248ac7057439b3][^c-ee70a1327ae8828a3285f4e4b784e636]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-937f43288e584c268a248ac7057439b3]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2011/13/section/15) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-937f43288e584c268a248ac7057439b3]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2011/13/section/15) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-ee70a1327ae8828a3285f4e4b784e636]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2011/13/section/15) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-ee70a1327ae8828a3285f4e4b784e636]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2011/13/section/15) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)

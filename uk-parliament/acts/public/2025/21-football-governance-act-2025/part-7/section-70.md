@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Commitments in lieu of investigations[^key-0e9bde7865ea9ff91b038ab942a2e3f8][^key-9a60b68de15c24fb2f89ab70b561e70d][^key-fc13440bed3963eff674a92dffddaf2d][^key-e156055b970f73e41befa42effd3545e][^key-7b72b591cf142647ace7c60d1ef5d5c1][^key-599c0fd036a48d623c5e228b2c0051e1]
+## 70. Commitments in lieu of investigations[^c-0e9bde7865ea9ff91b038ab942a2e3f8][^c-9a60b68de15c24fb2f89ab70b561e70d][^c-fc13440bed3963eff674a92dffddaf2d][^c-e156055b970f73e41befa42effd3545e][^c-7b72b591cf142647ace7c60d1ef5d5c1][^c-599c0fd036a48d623c5e228b2c0051e1]
 
 *Extent: E+W*
 
@@ -50,14 +50,14 @@ summary: ''
 
 ## Annotations
 
-[^key-0e9bde7865ea9ff91b038ab942a2e3f8]: Commencement: S. 70 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-0e9bde7865ea9ff91b038ab942a2e3f8]: Commencement: S. 70 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-9a60b68de15c24fb2f89ab70b561e70d]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/21/section/70) in force at 12.12.2025 for specified purposes by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(b)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/b/vi)
+[^c-9a60b68de15c24fb2f89ab70b561e70d]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/21/section/70) in force at 12.12.2025 for specified purposes by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(b)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/b/vi)
 
-[^key-fc13440bed3963eff674a92dffddaf2d]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/21/section/70) in force at 5.5.2026 for specified purposes by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/c/ii)
+[^c-fc13440bed3963eff674a92dffddaf2d]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/21/section/70) in force at 5.5.2026 for specified purposes by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/c/ii)
 
-[^key-e156055b970f73e41befa42effd3545e]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/21/section/70) in force at 1.7.2026 for specified purposes by [S.I. 2026/705](https://www.legislation.gov.uk/uksi/2026/705), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/705/regulation/2/1/b/iii)
+[^c-e156055b970f73e41befa42effd3545e]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/21/section/70) in force at 1.7.2026 for specified purposes by [S.I. 2026/705](https://www.legislation.gov.uk/uksi/2026/705), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/705/regulation/2/1/b/iii)
 
-[^key-7b72b591cf142647ace7c60d1ef5d5c1]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/21/section/70) in force at 29.10.2026 for specified purposes by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/b/iii)
+[^c-7b72b591cf142647ace7c60d1ef5d5c1]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/21/section/70) in force at 29.10.2026 for specified purposes by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/b/iii)
 
-[^key-599c0fd036a48d623c5e228b2c0051e1]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/21/section/70) in force at 1.11.2026 for specified purposes by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/c/iii)
+[^c-599c0fd036a48d623c5e228b2c0051e1]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/21/section/70) in force at 1.11.2026 for specified purposes by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/c/iii)

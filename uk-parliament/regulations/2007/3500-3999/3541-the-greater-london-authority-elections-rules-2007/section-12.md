@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Supply of postal voters lists, etc.[^key-5c1d259b24db6e5543f406f3e2ddc2b6]
+## 12. Supply of postal voters lists, etc.[^c-5c1d259b24db6e5543f406f3e2ddc2b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c1d259b24db6e5543f406f3e2ddc2b6]: Textual amendment: [Rule 12](https://www.legislation.gov.uk/uksi/2007/3541/rule/12) inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2016/24/rule/4)
+[^c-5c1d259b24db6e5543f406f3e2ddc2b6]: Textual amendment: [Rule 12](https://www.legislation.gov.uk/uksi/2007/3541/rule/12) inserted (8.2.2016) by [The Greater London Authority Elections (Amendment) Rules 2016 (S.I. 2016/24)](https://www.legislation.gov.uk/uksi/2016/24), [rules 1(2)](https://www.legislation.gov.uk/uksi/2016/24/rule/1/2), [4](https://www.legislation.gov.uk/uksi/2016/24/rule/4)

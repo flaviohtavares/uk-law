@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Charter of standards and values[^key-89fffd0d8521d47e0ac91b75061f31a3]
+## 10. Charter of standards and values[^c-89fffd0d8521d47e0ac91b75061f31a3]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89fffd0d8521d47e0ac91b75061f31a3]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/16/section/10) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-89fffd0d8521d47e0ac91b75061f31a3]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/16/section/10) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

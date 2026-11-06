@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90B. Power to alter priorities on dissolution and winding up[^key-124ad71d27c2f58d68ed567b2628d432]
+## 90B. Power to alter priorities on dissolution and winding up[^c-124ad71d27c2f58d68ed567b2628d432]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-124ad71d27c2f58d68ed567b2628d432]: Textual amendment: S. 90B inserted (20.11.2014) by [Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26), [ss. 2](https://www.legislation.gov.uk/ukpga/2007/26/section/2), [6(2)](https://www.legislation.gov.uk/ukpga/2007/26/section/6/2); [S.I. 2014/2796](https://www.legislation.gov.uk/uksi/2014/2796), [art. 2](https://www.legislation.gov.uk/uksi/2014/2796/article/2)
+[^c-124ad71d27c2f58d68ed567b2628d432]: Textual amendment: S. 90B inserted (20.11.2014) by [Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)](https://www.legislation.gov.uk/ukpga/2007/26), [ss. 2](https://www.legislation.gov.uk/ukpga/2007/26/section/2), [6(2)](https://www.legislation.gov.uk/ukpga/2007/26/section/6/2); [S.I. 2014/2796](https://www.legislation.gov.uk/uksi/2014/2796), [art. 2](https://www.legislation.gov.uk/uksi/2014/2796/article/2)

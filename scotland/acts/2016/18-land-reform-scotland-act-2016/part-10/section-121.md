@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Use of land for non-agricultural purposes: objection to notice of diversification[^key-afc7d834da3fe408a2775c9520c37c63]
+## 121. Use of land for non-agricultural purposes: objection to notice of diversification[^c-afc7d834da3fe408a2775c9520c37c63]
 
 *Extent: S*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afc7d834da3fe408a2775c9520c37c63]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2016/18/section/121) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-afc7d834da3fe408a2775c9520c37c63]: Commencement: [S. 121](https://www.legislation.gov.uk/asp/2016/18/section/121) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))

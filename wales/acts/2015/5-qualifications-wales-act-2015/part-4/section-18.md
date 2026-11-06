@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Approval of unrestricted priority qualifications[^key-14f34ccfbc55acafa490e761af544abb]
+## 18. Approval of unrestricted priority qualifications[^c-14f34ccfbc55acafa490e761af544abb]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14f34ccfbc55acafa490e761af544abb]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2015/5/section/18) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-14f34ccfbc55acafa490e761af544abb]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2015/5/section/18) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

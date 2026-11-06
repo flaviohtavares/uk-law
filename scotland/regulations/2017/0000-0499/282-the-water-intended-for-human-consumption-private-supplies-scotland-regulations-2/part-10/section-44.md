@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Water (Scotland) Act 1980: local authority powers[^key-6c0fe956428b79cfe8d1f5738cb8cd00]
+## 44. Water (Scotland) Act 1980: local authority powers[^c-6c0fe956428b79cfe8d1f5738cb8cd00]
 
 *Extent: S*
 
@@ -31,13 +31,13 @@ by a person designated by the local authority in writing, such samples of the wa
 
 - (a) in regulation 20(1)—
   - (i) for “Each enforcing authority” substitute “A local authority”; and
-  - (ii) for “regulation 18” substitute “regulation 44(1)”;[^key-6c8a13acfe7204a5698485c6540fa629]
+  - (ii) for “regulation 18” substitute “regulation 44(1)”;[^c-6c8a13acfe7204a5698485c6540fa629]
 - (b) in regulation 20(2)(a), for “enforcing authority” substitute “local authority”;
 - (c) in regulation 20(2)(b)(ii), for “enforcing authority” substitute “local authority”; and
 - (d) in schedule 4, for “enforcing authority” in each place it occurs, substitute “local authority”.
 
 ## Annotations
 
-[^key-6c0fe956428b79cfe8d1f5738cb8cd00]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2017/282/regulation/44) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-6c0fe956428b79cfe8d1f5738cb8cd00]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2017/282/regulation/44) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-6c8a13acfe7204a5698485c6540fa629]: Textual amendment: Words in reg. 44(2)(a)(ii) substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/4)
+[^c-6c8a13acfe7204a5698485c6540fa629]: Textual amendment: Words in reg. 44(2)(a)(ii) substituted (26.10.2017) by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/4)

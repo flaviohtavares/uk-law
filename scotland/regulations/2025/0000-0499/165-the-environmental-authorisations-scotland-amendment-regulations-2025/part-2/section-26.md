@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Amendment of regulation 55 (appeals to the Scottish Ministers)[^key-79d1dc17f36688fc5032ebc0d11833fa]
+## 26. Amendment of regulation 55 (appeals to the Scottish Ministers)[^c-79d1dc17f36688fc5032ebc0d11833fa]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In regulation 55(1) (appeals to the Scottish Ministers)—
 
 ## Annotations
 
-[^key-79d1dc17f36688fc5032ebc0d11833fa]: Commencement: Reg. 26 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-79d1dc17f36688fc5032ebc0d11833fa]: Commencement: Reg. 26 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

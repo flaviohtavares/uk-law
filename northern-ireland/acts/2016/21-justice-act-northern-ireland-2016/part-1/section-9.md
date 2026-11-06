@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Powers of court on referral of debtor's case[^key-eff01230d068f1ac6e24354d026c03a7]
+## 9. Powers of court on referral of debtor's case[^c-eff01230d068f1ac6e24354d026c03a7]
 
 *Extent: N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eff01230d068f1ac6e24354d026c03a7]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2016/21/section/9) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-eff01230d068f1ac6e24354d026c03a7]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2016/21/section/9) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

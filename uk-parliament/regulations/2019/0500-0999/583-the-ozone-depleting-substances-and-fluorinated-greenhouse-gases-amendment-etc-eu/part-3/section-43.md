@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Article 10 (training and certification)[^key-2f8c7f617efc99ce9dea235e13c46fa4]
+## 43. Article 10 (training and certification)[^c-2f8c7f617efc99ce9dea235e13c46fa4]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 > **10.**
 >
-> Certificates and training attestations issued in any part of the United Kingdom, or issued in a member State in accordance with Article 10 of Regulation (EU) No 517/2014 as it has effect in EU law and as amended from time to time [^c23643381], shall be valid in any part of Great Britain[^key-9bd01bf32a0fd659126de7c5263f1446].
+> Certificates and training attestations issued in any part of the United Kingdom, or issued in a member State in accordance with Article 10 of Regulation (EU) No 517/2014 as it has effect in EU law and as amended from time to time [^c23643381], shall be valid in any part of Great Britain[^c-9bd01bf32a0fd659126de7c5263f1446].
 
 .
 
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2f8c7f617efc99ce9dea235e13c46fa4]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-2f8c7f617efc99ce9dea235e13c46fa4]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c23643381]: Marginal citation: OJ No. L 150, 20.5, 2014, p. 195.
 
-[^key-9bd01bf32a0fd659126de7c5263f1446]: Textual amendment: Words in [reg. 43(6)](https://www.legislation.gov.uk/uksi/2019/583/regulation/43/6) substituted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(21)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/21)
+[^c-9bd01bf32a0fd659126de7c5263f1446]: Textual amendment: Words in [reg. 43(6)](https://www.legislation.gov.uk/uksi/2019/583/regulation/43/6) substituted (31.12.2020 immediately before IP completion day) by [The Ozone-Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1616)](https://www.legislation.gov.uk/uksi/2020/1616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/1/2), [2(21)](https://www.legislation.gov.uk/uksi/2020/1616/regulation/2/21)

@@ -31,7 +31,7 @@ summary: ''
 - (a) the addition or abstraction was not carried out fraudulently, and did not injuriously affect the composition of the product, and
 - (b) the product was sold having attached to it, or to a container or package in which it was sold, a conspicuous notice of adequate size and legibly printed, specifying the substance added or abstracted.
 
-(5) Where a medicinal product is sold or supplied in pursuance of a prescription given by an appropriate practitioner[^key-3eea0d03d2c4e903af5b91121c178ff7], the preceding provisions of this section shall have effect as if—
+(5) Where a medicinal product is sold or supplied in pursuance of a prescription given by an appropriate practitioner[^c-3eea0d03d2c4e903af5b91121c178ff7], the preceding provisions of this section shall have effect as if—
 
 - (a) in those provisions any reference to sale included a reference to supply and (except as provided by the following paragraph) any reference to the purchaser included a reference to the person (if any) for whom the product was prescribed by the practitioner, and
 - (b) in subsection (1) of this section, for the words “demanded by the purchaser", there were substituted the words “specified in the prescription".
@@ -40,4 +40,4 @@ summary: ''
 
 [^c998597]: Modification: Ss. 63–65 extended by [S.I. 1984/187](https://www.legislation.gov.uk/uksi/1984/187) , [art. 2](https://www.legislation.gov.uk/uksi/1984/187/article/2)
 
-[^key-3eea0d03d2c4e903af5b91121c178ff7]: Textual amendment: Words in s. 64(5) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 8](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/8) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-3eea0d03d2c4e903af5b91121c178ff7]: Textual amendment: Words in s. 64(5) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 8](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/8) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. UNCRC compatibility issues in criminal proceedings[^key-38fd6d1f7a7cad5863e82698fdc1fc46]
+## 32. UNCRC compatibility issues in criminal proceedings[^c-38fd6d1f7a7cad5863e82698fdc1fc46]
 
 *Extent: S*
 
@@ -92,4 +92,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38fd6d1f7a7cad5863e82698fdc1fc46]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2024/1/section/32) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-38fd6d1f7a7cad5863e82698fdc1fc46]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2024/1/section/32) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

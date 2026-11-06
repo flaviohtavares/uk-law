@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Modification of regulations 67G and 68 in case of trade dispute[^key-09902c7e2b1fce23c9d1b2c6dfeba488]
+## 32. Modification of regulations 67G and 68 in case of trade dispute[^c-09902c7e2b1fce23c9d1b2c6dfeba488]
 
 *Extent: E+W+S+N.I.*
 
 In the heading to regulation 71 (modification of regulation 68 in case of trade dispute), for “regulation 68” substitute “regulations 67G and 68”.
 
-**33.**[^key-14cd626593fed8845d2a3fa9546a36ea] In regulation 71—
+**33.**[^c-14cd626593fed8845d2a3fa9546a36ea] In regulation 71—
 
 - (a) in paragraph (1), for “regulation 68” substitute “regulations 67G and 68”,
 - (b) in paragraph (3)—
@@ -32,6 +32,6 @@ In the heading to regulation 71 (modification of regulation 68 in case of trade 
 
 ## Annotations
 
-[^key-09902c7e2b1fce23c9d1b2c6dfeba488]: Commencement: Reg. 32 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-09902c7e2b1fce23c9d1b2c6dfeba488]: Commencement: Reg. 32 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
 
-[^key-14cd626593fed8845d2a3fa9546a36ea]: Commencement: Reg. 33 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-14cd626593fed8845d2a3fa9546a36ea]: Commencement: Reg. 33 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — REGULATIONS REVOKED BY REGULATION 2[^key-e9ab20af626c692252f9b5adf2a80b3c]
+## SCHEDULE 4 — REGULATIONS REVOKED BY REGULATION 2[^c-e9ab20af626c692252f9b5adf2a80b3c]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9ab20af626c692252f9b5adf2a80b3c]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1988/1478/schedule/4) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-e9ab20af626c692252f9b5adf2a80b3c]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1988/1478/schedule/4) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)

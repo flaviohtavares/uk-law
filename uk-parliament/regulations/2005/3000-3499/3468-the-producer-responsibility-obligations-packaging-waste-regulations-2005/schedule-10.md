@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — MID-YEAR CHANGES[^key-bd11561da08e2ecdc01a62801dcc99f0]
+## SCHEDULE 10 — MID-YEAR CHANGES[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
 *Extent: E+W+S*
 
@@ -24,52 +24,52 @@ summary: ''
 
 Regulation 39
 
-### PART 1 — SCHEME MEMBERSHIP[^key-bd11561da08e2ecdc01a62801dcc99f0]
+### PART 1 — SCHEME MEMBERSHIP[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
-**1.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — GROUP MEMBERSHIP[^key-bd11561da08e2ecdc01a62801dcc99f0]
+### PART II — GROUP MEMBERSHIP[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
-**4.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — INCAPACITY[^key-bd11561da08e2ecdc01a62801dcc99f0]
+### PART III — INCAPACITY[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
-**18.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-bd11561da08e2ecdc01a62801dcc99f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bd11561da08e2ecdc01a62801dcc99f0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/3468) revoked (16.3.2007) by [The Producer Responsibility Obligations (Packaging Waste) Regulations 2007 (S.I. 2007/871)](https://www.legislation.gov.uk/uksi/2007/871), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/871/regulation/1/1), [41(1)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/1) (with [reg. 41(2)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/2)[(3)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/3))
+[^c-bd11561da08e2ecdc01a62801dcc99f0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/3468) revoked (16.3.2007) by [The Producer Responsibility Obligations (Packaging Waste) Regulations 2007 (S.I. 2007/871)](https://www.legislation.gov.uk/uksi/2007/871), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/871/regulation/1/1), [41(1)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/1) (with [reg. 41(2)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/2)[(3)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/3))

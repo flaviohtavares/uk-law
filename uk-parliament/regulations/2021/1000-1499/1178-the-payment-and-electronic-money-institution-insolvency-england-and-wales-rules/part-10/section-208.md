@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 208. Application of Chapter[^key-18e6db056fe52399996788e6f14b7878]
+## 208. Application of Chapter[^c-18e6db056fe52399996788e6f14b7878]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The rules in this Chapter apply to applications in connection with section 176A 
 
 ## Annotations
 
-[^key-18e6db056fe52399996788e6f14b7878]: Commencement: Rule 208 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-18e6db056fe52399996788e6f14b7878]: Commencement: Rule 208 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

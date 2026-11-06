@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Request for acceptance of a transfer payment[^key-4c6e6122abba4e3f2211caba7c80d875]
+## 150. Request for acceptance of a transfer payment[^c-4c6e6122abba4e3f2211caba7c80d875]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
   - (i) the pension scheme from which the transfer payment is to be made; and
   - (ii) the anticipated amount of the transfer payment;
 - (b) must meet any other conditions the scheme manager requires; and
-- (c) subject to paragraph (3), must be made during the period of 12 months beginning with the day on which P commences service in scheme employment[^key-0d488f8cae9aaa78a80fbf0759559b32].
+- (c) subject to paragraph (3), must be made during the period of 12 months beginning with the day on which P commences service in scheme employment[^c-0d488f8cae9aaa78a80fbf0759559b32].
 
 (3) A request that a transfer payment be accepted from the Civil Service Additional Voluntary Contribution Scheme must be made—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c6e6122abba4e3f2211caba7c80d875]: Commencement: [Reg. 150](https://www.legislation.gov.uk/uksi/2014/1964/regulation/150) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-4c6e6122abba4e3f2211caba7c80d875]: Commencement: [Reg. 150](https://www.legislation.gov.uk/uksi/2014/1964/regulation/150) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-0d488f8cae9aaa78a80fbf0759559b32]: Textual amendment: Words in [reg. 150(2)(c)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/150/2/c) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(11)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/11)
+[^c-0d488f8cae9aaa78a80fbf0759559b32]: Textual amendment: Words in [reg. 150(2)(c)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/150/2/c) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(11)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/11)

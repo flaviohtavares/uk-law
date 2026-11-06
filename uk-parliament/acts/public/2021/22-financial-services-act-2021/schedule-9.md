@@ -24,7 +24,7 @@ Section 24
 
 ### PART 1 — Provisions to be inserted in Chapter 5 of Part 17 of the Financial Services and Markets Act 2000
 
-**1.**[^key-d453f277a417080b72b061eba477ebd5] In Chapter 5 of Part 17 of the Financial Services and Markets Act 2000 (recognised overseas schemes), before section 272 (and the italic heading before that section) insert—
+**1.**[^c-d453f277a417080b72b061eba477ebd5] In Chapter 5 of Part 17 of the Financial Services and Markets Act 2000 (recognised overseas schemes), before section 272 (and the italic heading before that section) insert—
 
 > **Schemes authorised in approved countries**
 >
@@ -383,13 +383,13 @@ Section 24
 
 #### Financial Services and Markets Act 2000 (c. 8)
 
-**2.**[^key-fa9ac0c9b06cc6809e250e4d667d5d83] The Financial Services and Markets Act 2000 is amended as follows.
+**2.**[^c-fa9ac0c9b06cc6809e250e4d667d5d83] The Financial Services and Markets Act 2000 is amended as follows.
 
-**3.**[^key-ce9e46545209ad63c7b509a7b043209c] In section 138I (consultation by the FCA), after subsection (9) insert—
+**3.**[^c-ce9e46545209ad63c7b509a7b043209c] In section 138I (consultation by the FCA), after subsection (9) insert—
 
 > (9A) This section does not apply to rules made by the FCA under section 271E.
 
-**4.**[^key-8b9091527809401b9beb315cbb9000c1] (1) Section 165 (regulators' powers to require information) is amended as follows.
+**4.**[^c-8b9091527809401b9beb315cbb9000c1] (1) Section 165 (regulators' powers to require information) is amended as follows.
 
 (2) In subsection (7)(b), after “section” insert “ 271A or ”.
 
@@ -397,7 +397,7 @@ Section 24
 
 > (12) In subsection (7)(b), the reference to a scheme that is recognised includes a scheme a part of which is recognised.
 
-**5.**[^key-c2c355efd244d2e400adebfd5935b6cc] In section 237(2) (Part 17 definitions), in the definition of “the operator”—
+**5.**[^c-c2c355efd244d2e400adebfd5935b6cc] In section 237(2) (Part 17 definitions), in the definition of “the operator”—
 
 - (a) in paragraph (ab) omit “and”, and
 - (b) after paragraph (b) insert
@@ -406,39 +406,39 @@ Section 24
   >
   > - (ba) in relation to a recognised scheme, means the legal entity with overall responsibility for the management and performance of the functions of the scheme.
 
-**6.**[^key-e36160881b0cf28174c9cfaad273dd29] In section 392 (application of third party rights to notices)—
+**6.**[^c-e36160881b0cf28174c9cfaad273dd29] In section 392 (application of third party rights to notices)—
 
 - (a) in paragraph (a), before “280(1)” insert “ 271N(2), 271R(3), ”, and
 - (b) in paragraph (b), before “280(2)” insert “ 271N(3), 271R(4), ”.
 
-**7.**[^key-01eb82ea83fd42ba93e5538f77dd388e] In section 395(13) (meaning of supervisory notice), before paragraph (f) insert—
+**7.**[^c-01eb82ea83fd42ba93e5538f77dd388e] In section 395(13) (meaning of supervisory notice), before paragraph (f) insert—
 
 > - (ea) section 271M(3), (6) or (7)(b);
 
 .
 
-**8.**[^key-c651a85e95687c6d0dac3ac9614c03cb] In section 429(2) (regulations subject to affirmative procedure), after “262,” insert “ 271S, ”.
+**8.**[^c-c651a85e95687c6d0dac3ac9614c03cb] In section 429(2) (regulations subject to affirmative procedure), after “262,” insert “ 271S, ”.
 
 #### The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)
 
-**9.**[^key-c918aa6382ed2846ddafb06c1bb6f2ff] Part 6 of the Alternative Investment Fund Managers Regulations 2013 (marketing of alternative investment funds) is amended as follows.
+**9.**[^c-c918aa6382ed2846ddafb06c1bb6f2ff] Part 6 of the Alternative Investment Fund Managers Regulations 2013 (marketing of alternative investment funds) is amended as follows.
 
-**10.**[^key-446b8e14b38a9002671930af56f38621] In regulation 57 (marketing of third country AIFs by full-scope UK AIFMs), after paragraph (1) insert—
+**10.**[^c-446b8e14b38a9002671930af56f38621] In regulation 57 (marketing of third country AIFs by full-scope UK AIFMs), after paragraph (1) insert—
 
 > (1A) An AIF does not fall within paragraph (1) if it is recognised under section 271A of the Act.
 
-**11.**[^key-aaca3d228f2cef1ccd673e7218cfae09] In regulation 58(1) (marketing of AIFs managed by small third country AIFMs), at the end insert “ , except where the AIF is recognised under section 271A of the Act ”.
+**11.**[^c-aaca3d228f2cef1ccd673e7218cfae09] In regulation 58(1) (marketing of AIFs managed by small third country AIFMs), at the end insert “ , except where the AIF is recognised under section 271A of the Act ”.
 
-**12.**[^key-b4ae0f04c9325e21bca0ea3c08411282] In regulation 59 (marketing of AIFs managed by other third country AIFMs)—
+**12.**[^c-b4ae0f04c9325e21bca0ea3c08411282] In regulation 59 (marketing of AIFs managed by other third country AIFMs)—
 
 - (a) in paragraph (1), at the end insert “ , except where the AIF is recognised under section 271A of the Act ”, and
 - (b) in paragraph (4A), for “collective investment scheme” substitute “ AIF ”.
 
 #### The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)
 
-**13.**[^key-8e52f62c24cd1adc7035810975af66c3] Part 6 of the Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (temporary recognition of collective investment schemes) is amended as follows.
+**13.**[^c-8e52f62c24cd1adc7035810975af66c3] Part 6 of the Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (temporary recognition of collective investment schemes) is amended as follows.
 
-**14.**[^key-3b9864dd90788f03314c871f2237e37c] In regulation 62(3) (end of temporary recognition)—
+**14.**[^c-3b9864dd90788f03314c871f2237e37c] In regulation 62(3) (end of temporary recognition)—
 
 - (a) in sub-paragraph (a)(i)—
   - (i) before “275(3)” insert “ 271H(1) or ”, and
@@ -451,9 +451,9 @@ Section 24
 - (e) in sub-paragraph (c)(ii), for “that section” substitute “ either of those sections ”, and
 - (f) in sub-paragraph (d), for “3” substitute “ 5 ”.
 
-**15.**[^key-944702b2f6fb90f508da90194c0cd2bb] In regulation 67 (power to extend the period for temporary recognition), omit paragraph (2).
+**15.**[^c-944702b2f6fb90f508da90194c0cd2bb] In regulation 67 (power to extend the period for temporary recognition), omit paragraph (2).
 
-**16.**[^key-2c25b54974fec7f96e547547f98e33d0] After regulation 67 insert—
+**16.**[^c-2c25b54974fec7f96e547547f98e33d0] After regulation 67 insert—
 
 > **Applications under section 271A of the 2000 Act**
 >
@@ -470,34 +470,34 @@ Section 24
 
 ## Annotations
 
-[^key-d453f277a417080b72b061eba477ebd5]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/1) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-d453f277a417080b72b061eba477ebd5]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/1) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-fa9ac0c9b06cc6809e250e4d667d5d83]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/2) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-fa9ac0c9b06cc6809e250e4d667d5d83]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/2) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-ce9e46545209ad63c7b509a7b043209c]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/3) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-ce9e46545209ad63c7b509a7b043209c]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/3) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-8b9091527809401b9beb315cbb9000c1]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/4) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-8b9091527809401b9beb315cbb9000c1]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/4) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-c2c355efd244d2e400adebfd5935b6cc]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/5) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-c2c355efd244d2e400adebfd5935b6cc]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/5) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-e36160881b0cf28174c9cfaad273dd29]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/6) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-e36160881b0cf28174c9cfaad273dd29]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/6) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-01eb82ea83fd42ba93e5538f77dd388e]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/7) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-01eb82ea83fd42ba93e5538f77dd388e]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/7) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-c651a85e95687c6d0dac3ac9614c03cb]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/8) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-c651a85e95687c6d0dac3ac9614c03cb]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/8) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-c918aa6382ed2846ddafb06c1bb6f2ff]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/9) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-c918aa6382ed2846ddafb06c1bb6f2ff]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/9) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-446b8e14b38a9002671930af56f38621]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/10) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-446b8e14b38a9002671930af56f38621]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/10) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-aaca3d228f2cef1ccd673e7218cfae09]: Commencement: [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/11) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-aaca3d228f2cef1ccd673e7218cfae09]: Commencement: [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/11) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-b4ae0f04c9325e21bca0ea3c08411282]: Commencement: [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/12) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-b4ae0f04c9325e21bca0ea3c08411282]: Commencement: [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/12) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-8e52f62c24cd1adc7035810975af66c3]: Commencement: [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/13) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-8e52f62c24cd1adc7035810975af66c3]: Commencement: [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/13) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-3b9864dd90788f03314c871f2237e37c]: Commencement: [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/14) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-3b9864dd90788f03314c871f2237e37c]: Commencement: [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/14) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-944702b2f6fb90f508da90194c0cd2bb]: Commencement: [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/15) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-944702b2f6fb90f508da90194c0cd2bb]: Commencement: [Sch. 9 para. 15](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/15) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
 
-[^key-2c25b54974fec7f96e547547f98e33d0]: Commencement: [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/16) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)
+[^c-2c25b54974fec7f96e547547f98e33d0]: Commencement: [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/2021/22/schedule/9/paragraph/16) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/a)

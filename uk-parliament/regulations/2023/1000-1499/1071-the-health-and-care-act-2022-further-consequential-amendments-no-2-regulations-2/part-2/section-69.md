@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Amendment of the National Health Service (Direct Payments) Regulations 2013[^key-ad8dd6a820162e3d8011083ef6f87dc1]
+## 69. Amendment of the National Health Service (Direct Payments) Regulations 2013[^c-ad8dd6a820162e3d8011083ef6f87dc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad8dd6a820162e3d8011083ef6f87dc1]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2023/1071/regulation/69) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-ad8dd6a820162e3d8011083ef6f87dc1]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2023/1071/regulation/69) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00058]: Footnote: [S.I. 2013/1617](https://www.legislation.gov.uk/uksi/2013/1617), to which there are amendments not relevant to these Regulations.

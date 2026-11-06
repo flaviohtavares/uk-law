@@ -31,10 +31,10 @@ Decision No 2455/2001/EC of the European Parliament and of the Council
 
 of 20 November 2001 establishing the list of priority substances in the field of water policy and amending Directive 2000/60/EC (Text with EEA relevance) (revoked)
 
-[^key-e944652070d10f63af001f88dd726141]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e944652070d10f63af001f88dd726141]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-e944652070d10f63af001f88dd726141] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-e944652070d10f63af001f88dd726141] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e944652070d10f63af001f88dd726141]: Textual amendment: Decision revoked (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [27(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/27/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e944652070d10f63af001f88dd726141]: Textual amendment: Decision revoked (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [27(a)](https://www.legislation.gov.uk/uksi/2019/558/regulation/27/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

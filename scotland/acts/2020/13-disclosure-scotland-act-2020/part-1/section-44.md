@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Unlawful request for and use of a Level 2 disclosure[^key-c4443905810347aac1b2bdeb9f62b4bb]
+## 44. Unlawful request for and use of a Level 2 disclosure[^c-c4443905810347aac1b2bdeb9f62b4bb]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4443905810347aac1b2bdeb9f62b4bb]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2020/13/section/44) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-c4443905810347aac1b2bdeb9f62b4bb]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2020/13/section/44) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

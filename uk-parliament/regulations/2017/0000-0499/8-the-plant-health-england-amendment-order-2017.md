@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health, England
 
-The Plant Health (England) (Amendment) Order 2017 (revoked)[^key-0d96343dc62765c7bafee4d283937a42]
+The Plant Health (England) (Amendment) Order 2017 (revoked)[^c-0d96343dc62765c7bafee4d283937a42]
 
 Made
 
@@ -46,80 +46,80 @@ Coming into force
 
 6th February 2017
 
-[^key-0d96343dc62765c7bafee4d283937a42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d96343dc62765c7bafee4d283937a42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0d96343dc62765c7bafee4d283937a42]
+## 1. Citation and commencement[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (England) Order 2015[^key-0d96343dc62765c7bafee4d283937a42]
+## 2. Amendment of the Plant Health (England) Order 2015[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Article 2 (general interpretation)[^key-0d96343dc62765c7bafee4d283937a42]
+## 3. Article 2 (general interpretation)[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Article 6 (advance notification of landing)[^key-0d96343dc62765c7bafee4d283937a42]
+## 4. Article 6 (advance notification of landing)[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Article 9 (presentation and display of documents)[^key-0d96343dc62765c7bafee4d283937a42]
+## 5. Article 9 (presentation and display of documents)[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Article 18 (requirements for plant health movement documents)[^key-0d96343dc62765c7bafee4d283937a42]
+## 6. Article 18 (requirements for plant health movement documents)[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Article 19 (prohibitions on the introduction of plant pests and relevant material from the European Union)[^key-0d96343dc62765c7bafee4d283937a42]
+## 7. Article 19 (prohibitions on the introduction of plant pests and relevant material from the European Union)[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Article 24 (general provisions relating to plant passports)[^key-0d96343dc62765c7bafee4d283937a42]
+## 8. Article 24 (general provisions relating to plant passports)[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Article 36 (information as to compliance with notices)[^key-0d96343dc62765c7bafee4d283937a42]
+## 9. Article 36 (information as to compliance with notices)[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Article 39 (miscellaneous provisions for certain solanaceous species)[^key-0d96343dc62765c7bafee4d283937a42]
+## 10. Article 39 (miscellaneous provisions for certain solanaceous species)[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Article 46 (offences)[^key-0d96343dc62765c7bafee4d283937a42]
+## 11. Article 46 (offences)[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Schedule 1 (plant pests which may not be introduced into or spread within England)[^key-0d96343dc62765c7bafee4d283937a42]
+## 12. Schedule 1 (plant pests which may not be introduced into or spread within England)[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Schedule 2 (relevant material which may not be introduced into or moved within England if that relevant material is carrying or infected with plant pests)[^key-0d96343dc62765c7bafee4d283937a42]
+## 13. Schedule 2 (relevant material which may not be introduced into or moved within England if that relevant material is carrying or infected with plant pests)[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Schedule 4 (restrictions on the introduction into and movement within England of relevant material)[^key-0d96343dc62765c7bafee4d283937a42]
+## 14. Schedule 4 (restrictions on the introduction into and movement within England of relevant material)[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Schedule 11 (notice of landing)[^key-0d96343dc62765c7bafee4d283937a42]
+## 15. Schedule 11 (notice of landing)[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Schedule 16 (potato brown rot)[^key-0d96343dc62765c7bafee4d283937a42]
+## 16. Schedule 16 (potato brown rot)[^c-0d96343dc62765c7bafee4d283937a42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0d96343dc62765c7bafee4d283937a42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d96343dc62765c7bafee4d283937a42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0d96343dc62765c7bafee4d283937a42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d96343dc62765c7bafee4d283937a42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0d96343dc62765c7bafee4d283937a42]: Textual amendment: Order revoked (E.) (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)
+[^c-0d96343dc62765c7bafee4d283937a42]: Textual amendment: Order revoked (E.) (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)

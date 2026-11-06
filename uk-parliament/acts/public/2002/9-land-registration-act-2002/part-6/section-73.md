@@ -35,10 +35,10 @@ summary: ''
 
 (6) Subsection (5) does not apply if the objection is one which the registrar is satisfied is groundless.
 
-(7) If it is not possible to dispose by agreement of an objection to which subsection (5) applies, the registrar must refer the matter to the First-tier Tribunal[^key-3b3da9b6d24d92dee59ab174be1acd0f].
+(7) If it is not possible to dispose by agreement of an objection to which subsection (5) applies, the registrar must refer the matter to the First-tier Tribunal[^c-3b3da9b6d24d92dee59ab174be1acd0f].
 
 (8) Rules may make provision about references under subsection (7).
 
 ## Annotations
 
-[^key-3b3da9b6d24d92dee59ab174be1acd0f]: Textual amendment: Words in s. 73(7) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 226](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/226) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-3b3da9b6d24d92dee59ab174be1acd0f]: Textual amendment: Words in s. 73(7) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 226](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/226) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

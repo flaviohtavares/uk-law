@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Powers of entry and investigation etc[^key-c35a1d28ebeaea2f63c80b7986ef8924]
+## 49. Powers of entry and investigation etc[^c-c35a1d28ebeaea2f63c80b7986ef8924]
 
 *Extent: E+W*
 
@@ -258,4 +258,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c35a1d28ebeaea2f63c80b7986ef8924]: Commencement: S. 49 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-c35a1d28ebeaea2f63c80b7986ef8924]: Commencement: S. 49 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

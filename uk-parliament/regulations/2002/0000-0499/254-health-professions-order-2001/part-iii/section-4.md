@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Registrar[^key-257e22cd664bf6f870872caad93d10b2][^key-83f4d455cc5fc24291c618a3e7ee8214]
+## 4. Registrar[^c-257e22cd664bf6f870872caad93d10b2][^c-83f4d455cc5fc24291c618a3e7ee8214]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-257e22cd664bf6f870872caad93d10b2]: Commencement: Art. 4 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-257e22cd664bf6f870872caad93d10b2]: Commencement: Art. 4 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-83f4d455cc5fc24291c618a3e7ee8214]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2002/254/article/4) in force at 1.4.2002 as notified in the London Gazette dated 25.3.2002, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
+[^c-83f4d455cc5fc24291c618a3e7ee8214]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2002/254/article/4) in force at 1.4.2002 as notified in the London Gazette dated 25.3.2002, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)

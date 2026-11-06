@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 174. Creation of the new community ward of Magor West[^key-fe9699fd261cb24fd42710c30bfeafb9][^key-ac275c7c25bbe165d2940aefbfdfbde3]
+## 174. Creation of the new community ward of Magor West[^c-fe9699fd261cb24fd42710c30bfeafb9][^c-ac275c7c25bbe165d2940aefbfdfbde3]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The new community ward of Magor West is created in the community of Magor with U
 
 ## Annotations
 
-[^key-fe9699fd261cb24fd42710c30bfeafb9]: Commencement: Art. 174 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-fe9699fd261cb24fd42710c30bfeafb9]: Commencement: Art. 174 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-ac275c7c25bbe165d2940aefbfdfbde3]: Commencement: [Art. 174](https://www.legislation.gov.uk/wsi/2021/1227/article/174) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-ac275c7c25bbe165d2940aefbfdfbde3]: Commencement: [Art. 174](https://www.legislation.gov.uk/wsi/2021/1227/article/174) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

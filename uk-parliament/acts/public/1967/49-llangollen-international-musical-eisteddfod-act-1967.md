@@ -31,24 +31,24 @@ Llangollen International Musical Eisteddfod Act 1967 (repealed)
 
 1967 c.49
 
-[^key-170b110df47daa6c1769018e24f2225a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-170b110df47daa6c1769018e24f2225a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[14th July 1967\]
 
 **No longer in force.**
 
-## 1. Contributions towards expenses of Llangollen Eisteddfod.[^key-170b110df47daa6c1769018e24f2225a][^key-170b110df47daa6c1769018e24f2225a]
+## 1. Contributions towards expenses of Llangollen Eisteddfod.[^c-170b110df47daa6c1769018e24f2225a][^c-170b110df47daa6c1769018e24f2225a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Consequential increases in rate support grant.[^key-170b110df47daa6c1769018e24f2225a][^key-170b110df47daa6c1769018e24f2225a]
+## 2. Consequential increases in rate support grant.[^c-170b110df47daa6c1769018e24f2225a][^c-170b110df47daa6c1769018e24f2225a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title.[^key-170b110df47daa6c1769018e24f2225a][^key-170b110df47daa6c1769018e24f2225a]
+## 3. Short title.[^c-170b110df47daa6c1769018e24f2225a][^c-170b110df47daa6c1769018e24f2225a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-170b110df47daa6c1769018e24f2225a]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1967/49) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-170b110df47daa6c1769018e24f2225a]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1967/49) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

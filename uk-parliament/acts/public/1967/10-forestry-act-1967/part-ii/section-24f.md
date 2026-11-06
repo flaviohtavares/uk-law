@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24F. Notices under section 24C(3) or 24E(2) that affect tree preservation orders[^key-f45017a2fc9d6504fd7eef670bd2c333]
+## 24F. Notices under section 24C(3) or 24E(2) that affect tree preservation orders[^c-f45017a2fc9d6504fd7eef670bd2c333]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f45017a2fc9d6504fd7eef670bd2c333]: Textual amendment: [S. 24F](https://www.legislation.gov.uk/ukpga/1967/10/section/24F) inserted (18.8.2023 for specified purposes, 1.4.2024 in so far as not already in force) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 40](https://www.legislation.gov.uk/asc/2023/4/section/40), [56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)
+[^c-f45017a2fc9d6504fd7eef670bd2c333]: Textual amendment: [S. 24F](https://www.legislation.gov.uk/ukpga/1967/10/section/24F) inserted (18.8.2023 for specified purposes, 1.4.2024 in so far as not already in force) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 40](https://www.legislation.gov.uk/asc/2023/4/section/40), [56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a); [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Provision relating to tribunal considering fitness for office of justices of the peace[^key-b692d588d8ad8e0ab44e09f7daac20b0]
+## 41. Provision relating to tribunal considering fitness for office of justices of the peace[^c-b692d588d8ad8e0ab44e09f7daac20b0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b692d588d8ad8e0ab44e09f7daac20b0]: Commencement: S. 41 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2010/39/article/5))
+[^c-b692d588d8ad8e0ab44e09f7daac20b0]: Commencement: S. 41 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2010/39/article/5))

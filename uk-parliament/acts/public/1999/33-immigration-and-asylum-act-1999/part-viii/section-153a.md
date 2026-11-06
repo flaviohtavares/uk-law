@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153A. Detained persons: national minimum wage[^key-204fb84c69ceb6b3035b3c48489991aa]
+## 153A. Detained persons: national minimum wage[^c-204fb84c69ceb6b3035b3c48489991aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A detained person does not qualify for the national minimum wage in respect of w
 
 ## Annotations
 
-[^key-204fb84c69ceb6b3035b3c48489991aa]: Textual amendment: S. 153A inserted (31.8.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 59(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/59/1), [62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2); [S.I. 2006/2226](https://www.legislation.gov.uk/uksi/2006/2226), [art. 3](https://www.legislation.gov.uk/uksi/2006/2226/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2226/schedule/1)
+[^c-204fb84c69ceb6b3035b3c48489991aa]: Textual amendment: S. 153A inserted (31.8.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 59(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/59/1), [62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2); [S.I. 2006/2226](https://www.legislation.gov.uk/uksi/2006/2226), [art. 3](https://www.legislation.gov.uk/uksi/2006/2226/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2226/schedule/1)

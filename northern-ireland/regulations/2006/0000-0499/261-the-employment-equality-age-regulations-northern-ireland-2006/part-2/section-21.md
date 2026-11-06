@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. The provision of vocational training[^key-96ee31553e5827712e733ebc972a8e52]
+## 21. The provision of vocational training[^c-96ee31553e5827712e733ebc972a8e52]
 
 *Extent: N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96ee31553e5827712e733ebc972a8e52]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/261/regulation/21) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-96ee31553e5827712e733ebc972a8e52]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2006/261/regulation/21) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00019]: Footnote: S.I. [1986/594 (N.I.3)](https://www.legislation.gov.uk/nisi/1986/594)

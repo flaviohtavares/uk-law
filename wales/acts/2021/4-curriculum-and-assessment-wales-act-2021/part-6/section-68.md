@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Welsh Ministers' duty to promote access etc to Welsh medium courses of study[^key-d9f2eec24ba74dfded7fbe397032de99][^key-b99257fc3df9646d9c585d0152a8b048]
+## 68. Welsh Ministers' duty to promote access etc to Welsh medium courses of study[^c-d9f2eec24ba74dfded7fbe397032de99][^c-b99257fc3df9646d9c585d0152a8b048]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d9f2eec24ba74dfded7fbe397032de99]: Commencement: [S. 68](https://www.legislation.gov.uk/asc/2021/4/section/68) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(d)](https://www.legislation.gov.uk/wsi/2022/652/article/7/d)
+[^c-d9f2eec24ba74dfded7fbe397032de99]: Commencement: [S. 68](https://www.legislation.gov.uk/asc/2021/4/section/68) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(d)](https://www.legislation.gov.uk/wsi/2022/652/article/7/d)
 
-[^key-b99257fc3df9646d9c585d0152a8b048]: Commencement: [S. 68](https://www.legislation.gov.uk/asc/2021/4/section/68) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(d)](https://www.legislation.gov.uk/wsi/2022/652/article/9/d)
+[^c-b99257fc3df9646d9c585d0152a8b048]: Commencement: [S. 68](https://www.legislation.gov.uk/asc/2021/4/section/68) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(d)](https://www.legislation.gov.uk/wsi/2022/652/article/9/d)

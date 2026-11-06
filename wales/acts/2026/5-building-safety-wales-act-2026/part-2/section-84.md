@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Further provision about HMO fire risk assessments[^key-1348735041659626c0bf2101df1bcb12]
+## 84. Further provision about HMO fire risk assessments[^c-1348735041659626c0bf2101df1bcb12]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1348735041659626c0bf2101df1bcb12]: Commencement: S. 84 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-1348735041659626c0bf2101df1bcb12]: Commencement: S. 84 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

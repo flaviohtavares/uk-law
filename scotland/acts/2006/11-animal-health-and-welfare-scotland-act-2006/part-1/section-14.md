@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Penalties and time limits[^key-550871033a55874f9b2afa44dd54e42c]
+## 14. Penalties and time limits[^c-550871033a55874f9b2afa44dd54e42c]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ For section 75 (punishment of summary offences not otherwise provided for) of th
 
 ## Annotations
 
-[^key-550871033a55874f9b2afa44dd54e42c]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2006/11/section/14) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-550871033a55874f9b2afa44dd54e42c]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2006/11/section/14) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

@@ -30,7 +30,7 @@ Article 133(1)
 
 ### School management
 
-**3.** (1) This paragraph applies to a voluntary grammar school the trustees or governing body of which had entered into an agreement with the Department or the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] or boards under Schedule 6 to the 1972 Order which was existing immediately before 1st August 1984.
+**3.** (1) This paragraph applies to a voluntary grammar school the trustees or governing body of which had entered into an agreement with the Department or the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] or boards under Schedule 6 to the 1972 Order which was existing immediately before 1st August 1984.
 
 (2) Subject to sub-paragraph (3), and agreement made, or having effect as if made, by the trustees or governing body of a school to which this paragraph applies with the Department or the Authority or boards under paragraph 1 of Schedule 6 to the 1972 Order and existing immediately before 1st August 1984 shall continue to have effect as if made under paragraph 1 of Schedule 6 to this Order.
 
@@ -48,4 +48,4 @@ Article 133(1)
 
 ## Annotations
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

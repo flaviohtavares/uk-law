@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Lights, beacons, or sea-marks not to be exhibited or altered without sanction of Trinity House[^c559619][^c559620][^key-f1e36435c719aff7333061d7636bae66][^c559618]
+## 78. Lights, beacons, or sea-marks not to be exhibited or altered without sanction of Trinity House[^c559619][^c559620][^c-f1e36435c719aff7333061d7636bae66][^c559618]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ The undertakers shall not erect any lighthouse or beacon, or exhibit or allow to
 
 [^c559620]: Modification: S. 78 incorporated (E.W.S.)(15. 11. 1991) by [S.I. 1991/2609](https://www.legislation.gov.uk/uksi/1991/2609), [art. 11(2)](https://www.legislation.gov.uk/uksi/1991/2609/article/11/2).
 
-[^key-f1e36435c719aff7333061d7636bae66]: Modification: S. 78 incorporated (with modifications) (E.W.S.) (16.8.2012) by [The Hinkley Point Harbour Empowerment Order 2012 (S.I. 2012/1914)](https://www.legislation.gov.uk/uksi/2012/1914), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/1914/article/3) (with [arts. 34](https://www.legislation.gov.uk/uksi/2012/1914/article/34), [35](https://www.legislation.gov.uk/uksi/2012/1914/article/35), [37](https://www.legislation.gov.uk/uksi/2012/1914/article/37), [40](https://www.legislation.gov.uk/uksi/2012/1914/article/40))
+[^c-f1e36435c719aff7333061d7636bae66]: Modification: S. 78 incorporated (with modifications) (E.W.S.) (16.8.2012) by [The Hinkley Point Harbour Empowerment Order 2012 (S.I. 2012/1914)](https://www.legislation.gov.uk/uksi/2012/1914), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1914/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/1914/article/3) (with [arts. 34](https://www.legislation.gov.uk/uksi/2012/1914/article/34), [35](https://www.legislation.gov.uk/uksi/2012/1914/article/35), [37](https://www.legislation.gov.uk/uksi/2012/1914/article/37), [40](https://www.legislation.gov.uk/uksi/2012/1914/article/40))
 
 [^c559618]: Modification: S. 78 incorporated with [Milford Haven Conservancy Act 1958 (c. 23)](https://www.legislation.gov.uk/ukpga/1958/23), ibid., s. 8(2)

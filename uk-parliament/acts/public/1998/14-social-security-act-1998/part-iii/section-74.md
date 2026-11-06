@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 74. Provision of information[^key-a6ec68573173510c55c9172b013989fd][^key-4e673810d18f23124f817fa9b29686a4]
+## 74. Provision of information[^c-a6ec68573173510c55c9172b013989fd][^c-4e673810d18f23124f817fa9b29686a4]
 
 In subsection (1) of section 5 of the Administration Act (regulations about claims for and payments of benefit), there shall be inserted after paragraph (h) the following paragraph—
 
@@ -26,6 +26,6 @@ In subsection (1) of section 5 of the Administration Act (regulations about clai
 
 ## Annotations
 
-[^key-a6ec68573173510c55c9172b013989fd]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/1998/14/section/74) in force at 4.3.1999 for specified purposes by [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule)
+[^c-a6ec68573173510c55c9172b013989fd]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/1998/14/section/74) in force at 4.3.1999 for specified purposes by [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule)
 
-[^key-4e673810d18f23124f817fa9b29686a4]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/1998/14/section/74) in force at 29.11.1999 for specified purposes by [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/3178/article/4), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
+[^c-4e673810d18f23124f817fa9b29686a4]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/1998/14/section/74) in force at 29.11.1999 for specified purposes by [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/3178/article/4), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Warrant to enter land[^key-fb92441f8a4f7d73c15f10b9f4853463][^key-89d3ebe58818df15682ac724a067f063]
+## 107. Warrant to enter land[^c-fb92441f8a4f7d73c15f10b9f4853463][^c-89d3ebe58818df15682ac724a067f063]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fb92441f8a4f7d73c15f10b9f4853463]: Commencement: S. 107 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-fb92441f8a4f7d73c15f10b9f4853463]: Commencement: S. 107 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-89d3ebe58818df15682ac724a067f063]: Commencement: [S. 107](https://www.legislation.gov.uk/asc/2024/3/section/107) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-89d3ebe58818df15682ac724a067f063]: Commencement: [S. 107](https://www.legislation.gov.uk/asc/2024/3/section/107) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

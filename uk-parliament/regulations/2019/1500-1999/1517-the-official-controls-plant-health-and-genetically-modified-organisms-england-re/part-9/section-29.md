@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Right of entry conferred by a warrant issued by a justice of the peace[^key-b11b6ca0733cfae3873cf721a35d24b6]
+## 29. Right of entry conferred by a warrant issued by a justice of the peace[^c-b11b6ca0733cfae3873cf721a35d24b6]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b11b6ca0733cfae3873cf721a35d24b6]: Commencement: Reg. 29 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-b11b6ca0733cfae3873cf721a35d24b6]: Commencement: Reg. 29 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)

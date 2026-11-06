@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Planning permission: supplementary matters[^key-96f232dcf6028710de820c9a7e0578d9]
+## 24. Planning permission: supplementary matters[^c-96f232dcf6028710de820c9a7e0578d9]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-96f232dcf6028710de820c9a7e0578d9]: Commencement: Art. 24 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-96f232dcf6028710de820c9a7e0578d9]: Commencement: Art. 24 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00026]: Footnote: [S.I. 1969/17](https://www.legislation.gov.uk/uksi/1969/17).
 

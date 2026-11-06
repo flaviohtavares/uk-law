@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Election of Mayor[^key-d98148c207a55c5d31d6240118c25408]
+## 3. Election of Mayor[^c-d98148c207a55c5d31d6240118c25408]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d98148c207a55c5d31d6240118c25408]: Commencement: Art. 3 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
+[^c-d98148c207a55c5d31d6240118c25408]: Commencement: Art. 3 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)

@@ -28,7 +28,7 @@ Blank Bonds and Trusts Act 1696 (repealed)
 
 1696 c.25
 
-[^c1765444]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-64560590add2177fb04b9ededeae8ca1][^key-3986dd7bdf16a47646624ba9b551da25]
+[^c1765444]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-64560590add2177fb04b9ededeae8ca1][^c-3986dd7bdf16a47646624ba9b551da25]
 
 **No longer in force (ended 1995-08-01).**
 
@@ -38,6 +38,6 @@ Our Soveraign Lord considering that the Subscriveing of Bonds Assignations and D
 
 [^c1765444]: Textual amendment: Act repealed (1.8.1995) by [Requirements of Writing (Scotland) Act 1995 (c. 7)](https://www.legislation.gov.uk/ukpga/1995/7), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/2), [15(2)](https://www.legislation.gov.uk/ukpga/1995/7/section/15/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1995/7/schedule/5) (with [ss. 9(3)(5)(7)](https://www.legislation.gov.uk/ukpga/1995/7/section/9/3/5/7), [13](https://www.legislation.gov.uk/ukpga/1995/7/section/13), [14(3)(4)](https://www.legislation.gov.uk/ukpga/1995/7/section/14/3/4))
 
-[^key-64560590add2177fb04b9ededeae8ca1]: Modification: Act excluded (6.4.2008) so far as still in force by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 742](https://www.legislation.gov.uk/ukpga/2006/46/section/742), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 3(1)(g)](https://www.legislation.gov.uk/uksi/2007/3495/article/3/1/g) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))
+[^c-64560590add2177fb04b9ededeae8ca1]: Modification: Act excluded (6.4.2008) so far as still in force by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 742](https://www.legislation.gov.uk/ukpga/2006/46/section/742), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 3(1)(g)](https://www.legislation.gov.uk/uksi/2007/3495/article/3/1/g) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))
 
-[^key-3986dd7bdf16a47646624ba9b551da25]: Modification: Act excluded (8.12.2017) so far as still in force by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 152](https://www.legislation.gov.uk/uksi/2017/1212/regulation/152) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-3986dd7bdf16a47646624ba9b551da25]: Modification: Act excluded (8.12.2017) so far as still in force by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 152](https://www.legislation.gov.uk/uksi/2017/1212/regulation/152) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))

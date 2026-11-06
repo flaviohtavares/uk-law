@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Registration of events affecting registered crofts[^key-13b161d8c2367709688b760022878f9a][^key-9c75a2afa3be9c7882e41eddfa09ae9a]
+## 5. Registration of events affecting registered crofts[^c-13b161d8c2367709688b760022878f9a][^c-9c75a2afa3be9c7882e41eddfa09ae9a]
 
 *Extent: S*
 
@@ -52,7 +52,7 @@ summary: ''
   - (ii) in accordance with proposals submitted under section 23(5) of that Act;
   - (iii) pursuant to a determination under section 23(5C) of that Act;
   - (iv) (or part of the croft) under section 29A(1) of that Act other than such a letting under a short lease (within the meaning of section 29A(4) of that Act);
-- (l) the making of a decrofting direction under section 24(2) or (3) or, as the case may be, 24B(1)[^key-efc67723a3ff34d004a3c3a1cfd43f48] of that Act;
+- (l) the making of a decrofting direction under section 24(2) or (3) or, as the case may be, 24B(1)[^c-efc67723a3ff34d004a3c3a1cfd43f48] of that Act;
 - (m) the division of the croft, or owner-occupied croft, under section 26G of that Act;
 - (n) the letting of the croft—
   - (i) in accordance with proposals submitted under section 26J(1) of that Act;
@@ -82,8 +82,8 @@ that subsection.
 
 ## Annotations
 
-[^key-13b161d8c2367709688b760022878f9a]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2010/14/section/5) in force at 30.10.2012 for specified purposes by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/1)
+[^c-13b161d8c2367709688b760022878f9a]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2010/14/section/5) in force at 30.10.2012 for specified purposes by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/1)
 
-[^key-9c75a2afa3be9c7882e41eddfa09ae9a]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2010/14/section/5) in force at 30.11.2012 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)
+[^c-9c75a2afa3be9c7882e41eddfa09ae9a]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2010/14/section/5) in force at 30.11.2012 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)
 
-[^key-efc67723a3ff34d004a3c3a1cfd43f48]: Textual amendment: Words in s. 5(3)(l) substituted (retrospective to 1.10.2011) by [Crofting (Amendment) (Scotland) Act 2013 (asp 10)](https://www.legislation.gov.uk/asp/2013/10), [ss. 3](https://www.legislation.gov.uk/asp/2013/10/section/3), [6](https://www.legislation.gov.uk/asp/2013/10/section/6), [Sch. para. 2(3)](https://www.legislation.gov.uk/asp/2013/10/schedule/paragraph/2/3)
+[^c-efc67723a3ff34d004a3c3a1cfd43f48]: Textual amendment: Words in s. 5(3)(l) substituted (retrospective to 1.10.2011) by [Crofting (Amendment) (Scotland) Act 2013 (asp 10)](https://www.legislation.gov.uk/asp/2013/10), [ss. 3](https://www.legislation.gov.uk/asp/2013/10/section/3), [6](https://www.legislation.gov.uk/asp/2013/10/section/6), [Sch. para. 2(3)](https://www.legislation.gov.uk/asp/2013/10/schedule/paragraph/2/3)

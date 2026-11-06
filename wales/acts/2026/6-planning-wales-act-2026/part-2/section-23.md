@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Independent examination[^key-ce7b52b7453902220976710b6a03d32f]
+## 23. Independent examination[^c-ce7b52b7453902220976710b6a03d32f]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce7b52b7453902220976710b6a03d32f]: Commencement: S. 23 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ce7b52b7453902220976710b6a03d32f]: Commencement: S. 23 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

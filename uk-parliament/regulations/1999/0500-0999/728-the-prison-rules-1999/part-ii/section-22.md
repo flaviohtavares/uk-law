@@ -22,8 +22,8 @@ summary: ''
 
 (1) If a prisoner dies, becomes seriously ill, sustains any severe injury or is removed to hospital on account of mental disorder, the governor shall, if he knows his or her address, at once inform the prisoner’s spouse or next of kin, and also any person who the prisoner may reasonably have asked should be informed.
 
-(2) If a prisoner dies, the governor shall give notice immediately to the coroner having jurisdiction, to the independent monitoring board[^key-a24d493b9b460590d2af009ca8625961] and to the Secretary of State.
+(2) If a prisoner dies, the governor shall give notice immediately to the coroner having jurisdiction, to the independent monitoring board[^c-a24d493b9b460590d2af009ca8625961] and to the Secretary of State.
 
 ## Annotations
 
-[^key-a24d493b9b460590d2af009ca8625961]: Textual amendment: Words in [rule 22(2)](https://www.legislation.gov.uk/uksi/1999/728/rule/22/2) substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/a)
+[^c-a24d493b9b460590d2af009ca8625961]: Textual amendment: Words in [rule 22(2)](https://www.legislation.gov.uk/uksi/1999/728/rule/22/2) substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/a)

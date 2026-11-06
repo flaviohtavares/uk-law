@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Permanent health insurance[^key-63ae6f5ffc9393c1131b4e135e050300]
+## 64. Permanent health insurance[^c-63ae6f5ffc9393c1131b4e135e050300]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of sections 2(1)(c) and 3(3) of the Act (deductions from an emp
 
 ## Annotations
 
-[^key-63ae6f5ffc9393c1131b4e135e050300]: Commencement: [Reg. 64](https://www.legislation.gov.uk/nisr/2016/219/regulation/64) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-63ae6f5ffc9393c1131b4e135e050300]: Commencement: [Reg. 64](https://www.legislation.gov.uk/nisr/2016/219/regulation/64) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

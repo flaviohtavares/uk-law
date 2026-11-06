@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 73. Notification of implementing provisions[^key-dd578a3789a0dfeca964df33bd41ea14]
+## Article 73. Notification of implementing provisions[^c-dd578a3789a0dfeca964df33bd41ea14]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd578a3789a0dfeca964df33bd41ea14]: Textual amendment: [Art. 73](https://www.legislation.gov.uk/eur/2006/865/article/73) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(71)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/71)
+[^c-dd578a3789a0dfeca964df33bd41ea14]: Textual amendment: [Art. 73](https://www.legislation.gov.uk/eur/2006/865/article/73) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(71)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/71)

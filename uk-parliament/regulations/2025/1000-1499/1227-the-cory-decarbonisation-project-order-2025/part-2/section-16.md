@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Temporary prohibition or restriction of use of streets, private means of access and public rights of way and authorising vehicular use on public rights of way[^key-b14597fdd7c04148615b06179ca5910c]
+## 16. Temporary prohibition or restriction of use of streets, private means of access and public rights of way and authorising vehicular use on public rights of way[^c-b14597fdd7c04148615b06179ca5910c]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b14597fdd7c04148615b06179ca5910c]: Commencement: Art. 16 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-b14597fdd7c04148615b06179ca5910c]: Commencement: Art. 16 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
 [^f00039]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).

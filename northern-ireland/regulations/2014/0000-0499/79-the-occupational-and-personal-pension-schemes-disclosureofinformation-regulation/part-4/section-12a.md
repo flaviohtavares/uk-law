@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12A. Additional information available on request: pooled funds[^key-16523bda0b19263d29395ef910e70a0f]
+## 12A. Additional information available on request: pooled funds[^c-16523bda0b19263d29395ef910e70a0f]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16523bda0b19263d29395ef910e70a0f]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/nisr/2014/79/regulation/12A) inserted (6.4.2019) by [The Occupational Pension Schemes (Administration and Disclosure) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/53)](https://www.legislation.gov.uk/nisr/2018/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/53/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2018/53/regulation/3/3)
+[^c-16523bda0b19263d29395ef910e70a0f]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/nisr/2014/79/regulation/12A) inserted (6.4.2019) by [The Occupational Pension Schemes (Administration and Disclosure) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/53)](https://www.legislation.gov.uk/nisr/2018/53), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2018/53/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2018/53/regulation/3/3)

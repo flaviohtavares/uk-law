@@ -31,17 +31,17 @@ Pastoral Measure 1983 (repealed)
 
 1983 No. 1
 
-[^key-3a6eace6e91c7c6e272df679fd6a9969]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a6eace6e91c7c6e272df679fd6a9969]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Part I — Procedure for making Pastoral Schemes and Orders[^key-3a6eace6e91c7c6e272df679fd6a9969]
+### Part I — Procedure for making Pastoral Schemes and Orders[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 *Extent: E*
 
 **No longer in force.**
 
-#### Pastoral committees[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Pastoral committees[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 *Extent: E*
 
@@ -60,14 +60,14 @@ Pastoral Measure 1983 (repealed)
 - [Section 10 — Transmission of copies of Order in Council or order.](part-i/section-10.md)
 - [Section 11 — Validity and operation of schemes and orders.](part-i/section-11.md)
 
-#### Modified procedure for schemes and orders affecting more than one diocese[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Modified procedure for schemes and orders affecting more than one diocese[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
 - [Section 12 — Limited extension of diocesan proposals and schemes to other dioceses.](part-i/section-12.md)
 - [Section 13 — Joint pastoral committees.](part-i/section-13.md)
 
-#### Supplementary[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Supplementary[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
@@ -75,13 +75,13 @@ Pastoral Measure 1983 (repealed)
 - [Section 15 — Withdrawal of scheme or order at request of bishop.](part-i/section-15.md)
 - [Section 16 — Supplementary powers of Commissioners and pastoral committees.](part-i/section-16.md)
 
-### Part II — Contents and Effect of Pastoral Schemes and Orders[^key-3a6eace6e91c7c6e272df679fd6a9969]
+### Part II — Contents and Effect of Pastoral Schemes and Orders[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 *Extent: E*
 
 **No longer in force.**
 
-#### Changes in benefices, parishes, extra-parochial places, archdeaconries and deaneries[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Changes in benefices, parishes, extra-parochial places, archdeaconries and deaneries[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
@@ -89,7 +89,7 @@ Pastoral Measure 1983 (repealed)
 - [Section 18 — Holding of benefices in plurality.](part-ii/section-18.md)
 - [Section 19 — Archdeaconries and deaneries.](part-ii/section-19.md)
 
-#### Team and group ministries[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Team and group ministries[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 *Extent: E*
 
@@ -100,7 +100,7 @@ Pastoral Measure 1983 (repealed)
 - [Section 21 — Establishment of group ministries.](part-ii/section-21.md)
 - [Section 22 — Termination and alteration of team ministries and group ministries.](part-ii/section-22.md)
 
-#### Other provisions as to clergy and ministry[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Other provisions as to clergy and ministry[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
@@ -109,7 +109,7 @@ Pastoral Measure 1983 (repealed)
 - [Section 25 — Operation of schemes dispossessing clergy or dissolving archdeaconries or deaneries.](part-ii/section-25.md)
 - [Section 26 — Compensation of clergy.](part-ii/section-26.md)
 
-#### Churches, churchyards and parsonage houses[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Churches, churchyards and parsonage houses[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
@@ -120,32 +120,32 @@ Pastoral Measure 1983 (repealed)
 - [Section 31 — Parsonage houses.](part-ii/section-31.md)
 - [Section 32 — Patronage](part-ii/section-32.md)
 
-#### Endowments, stipends and other remuneration[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Endowments, stipends and other remuneration[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
 - [Section 33 — Provisions as to endowments, income, etc.](part-ii/section-33.md)
 
-#### Provisions as to sinecures[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Provisions as to sinecures[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
 - [Section 34 — Sinecure rectories and chapelries.](part-ii/section-34.md)
 
-#### Pastoral schemes affecting more than one diocese[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Pastoral schemes affecting more than one diocese[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
 - [Section 35 — Limited extension of pastoral schemes to other dioceses.](part-ii/section-35.md)
 - [Section 36 — Schemes for the alteration of diocesan boundaries.](part-ii/section-36.md)
 
-#### Pastoral orders[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Pastoral orders[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
 - [Section 37 — Powers exercisable by pastoral order.](part-ii/section-37.md)
 
-#### Supplementary[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Supplementary[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
@@ -153,13 +153,13 @@ Pastoral Measure 1983 (repealed)
 - [Section 39 — Amendment and revocation of pastoral schemes and orders.](part-ii/section-39.md)
 - [Section 40 — Application of Schedule 3 containing supplementary provisions and powers.](part-ii/section-40.md)
 
-### Part III — Redundant Churches[^key-3a6eace6e91c7c6e272df679fd6a9969]
+### Part III — Redundant Churches[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 *Extent: E*
 
 **No longer in force.**
 
-#### Appointment of statutory bodies for purposes relating to redundant churches[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Appointment of statutory bodies for purposes relating to redundant churches[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
@@ -169,7 +169,7 @@ Pastoral Measure 1983 (repealed)
 - [Section 44 — Appointment of Redundant Churches Fund.](part-iii/section-44.md)
 - [Section 45 — Power to establish new body to replace the Advisory Board and the Redundant Churches Fund](part-iii/section-45.md)
 
-#### Redundancy provisions in pastoral church buildings schemes[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Redundancy provisions in pastoral church buildings schemes[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
@@ -177,7 +177,7 @@ Pastoral Measure 1983 (repealed)
 - [Section 47 — Other provision by pastoral church buildings scheme for redundant church.](part-iii/section-47.md)
 - [Section 48 — No other cases to be dealt with by pastoral church buildings scheme.](part-iii/section-48.md)
 
-#### Redundancy schemes[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Redundancy schemes[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
@@ -190,14 +190,14 @@ Pastoral Measure 1983 (repealed)
 - [Section 55 — Schemes under Charities Act 1960 for redundant chapels belonging to charities.](part-iii/section-55.md)
 - [Section 56 — Churches not to be closed or disposed of otherwise than under this Measure.](part-iii/section-56.md)
 
-#### Amendment and revocation of redundancy schemes and redundancy provisions in pastoral church buildings schemes[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Amendment and revocation of redundancy schemes and redundancy provisions in pastoral church buildings schemes[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
 - [Section 57 — Amendment of redundancy schemes and provisions.](part-iii/section-57.md)
 - [Section 58 — Restoration of redundant building to use as a church building.](part-iii/section-58.md)
 
-#### Vesting of property and other supplementary provisions[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Vesting of property and other supplementary provisions[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 *Extent: E*
 
@@ -212,19 +212,19 @@ Pastoral Measure 1983 (repealed)
 - [Section 64 — Disposal of font, communion table and plate, and other contents.](part-iii/section-64.md)
 - [Section 65 — Disposal of human remains.](part-iii/section-65.md)
 
-#### Preservation of redundant churches by Secretary of State[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Preservation of redundant churches by Secretary of State[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
 - [Section 66 — Transfer of redundant churches to Secretary of State.](part-iii/section-66.md)
 
-### Part IV — Miscellaneous, Administrative and General[^key-3a6eace6e91c7c6e272df679fd6a9969]
+### Part IV — Miscellaneous, Administrative and General[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 *Extent: E*
 
 **No longer in force.**
 
-#### Restrictions on presentation[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Restrictions on presentation[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
@@ -236,7 +236,7 @@ Pastoral Measure 1983 (repealed)
 - [Section 72 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iv/section-72.md)
 - [Section 73 — Suspension of new rights of patronage.](part-iv/section-73.md)
 
-#### Miscellaneous provisions[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Miscellaneous provisions[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
@@ -244,7 +244,7 @@ Pastoral Measure 1983 (repealed)
 - [Section 75 — Induction in one parish church.](part-iv/section-75.md)
 - [Section 76 — Grant of land for new churches etc and vesting of certain churches.](part-iv/section-76.md)
 
-#### Administrative provisions[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### Administrative provisions[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 *Extent: E*
 
@@ -261,7 +261,7 @@ Pastoral Measure 1983 (repealed)
 - [Section 83 — Provisions as to notices and other documents.](part-iv/section-83.md)
 - [Section 84 — Provisions where there is no parochial church council, incumbent, etc.](part-iv/section-84.md)
 
-#### General provisions[^key-3a6eace6e91c7c6e272df679fd6a9969]
+#### General provisions[^c-3a6eace6e91c7c6e272df679fd6a9969]
 
 **No longer in force.**
 
@@ -280,7 +280,7 @@ Pastoral Measure 1983 (repealed)
 
 **No longer in force.**
 
-[^key-3a6eace6e91c7c6e272df679fd6a9969] SCHEDULES
+[^c-3a6eace6e91c7c6e272df679fd6a9969] SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -294,4 +294,4 @@ Pastoral Measure 1983 (repealed)
 
 ## Annotations
 
-[^key-3a6eace6e91c7c6e272df679fd6a9969]: Textual amendment: [Measure](https://www.legislation.gov.uk/ukcm/1983/1) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-3a6eace6e91c7c6e272df679fd6a9969]: Textual amendment: [Measure](https://www.legislation.gov.uk/ukcm/1983/1) repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

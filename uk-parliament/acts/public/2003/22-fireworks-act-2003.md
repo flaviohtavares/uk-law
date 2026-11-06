@@ -38,7 +38,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Introductory
 
-### 1. Introduction[^key-678ccf1b83d7c9fb973ee44dcb7e980c]
+### 1. Introduction[^c-678ccf1b83d7c9fb973ee44dcb7e980c]
 
 (1) In this Act “**fireworks**” means devices which—
 
@@ -57,9 +57,9 @@ but do not include supplying them otherwise than in the course of a business.
 
 ## Fireworks regulations
 
-### 2. Power to make regulations about fireworks[^key-5306c0f697215435b4787a7fd5a517cd]
+### 2. Power to make regulations about fireworks[^c-5306c0f697215435b4787a7fd5a517cd]
 
-(1)[^key-feefd5c6aa888951bd0a5ead0fdba2be] The Secretary of State may by regulations (“**fireworks regulations**”) make any provision which the Secretary of State considers appropriate—
+(1)[^c-feefd5c6aa888951bd0a5ead0fdba2be] The Secretary of State may by regulations (“**fireworks regulations**”) make any provision which the Secretary of State considers appropriate—
 
 - (a) for securing that there is no risk that use of fireworks will have the consequences specified in subsection (2), or
 - (b) for securing that the risk that the use of fireworks will have those consequences is the minimum that is compatible with their being used.
@@ -70,29 +70,29 @@ but do not include supplying them otherwise than in the course of a business.
 - (b) death of animals or injury or distress to animals, and
 - (c) destruction of, or damage to, property.
 
-(3)[^key-fb0dec00e675dffc867ccc5aa2a096cd] Before making fireworks regulations the Secretary of State must consult—
+(3)[^c-fb0dec00e675dffc867ccc5aa2a096cd] Before making fireworks regulations the Secretary of State must consult—
 
-- (a) the Health and Safety Executive[^key-c7fc5829c043d4de1213369784600050],
+- (a) the Health and Safety Executive[^c-c7fc5829c043d4de1213369784600050],
 - (b) organisations which appear to the Secretary of State to be representative of interests substantially affected by the proposal, and
 - (c) other persons whom the Secretary of State considers it appropriate to consult.
 
-(4)[^key-fb0dec00e675dffc867ccc5aa2a096cd] Before making fireworks regulations the Secretary of State must issue a full regulatory impact assessment setting out details of the costs and benefits and the wider economic, social and environmental impact of the proposed regulations.
+(4)[^c-fb0dec00e675dffc867ccc5aa2a096cd] Before making fireworks regulations the Secretary of State must issue a full regulatory impact assessment setting out details of the costs and benefits and the wider economic, social and environmental impact of the proposed regulations.
 
-(5)[^key-fb0dec00e675dffc867ccc5aa2a096cd] But subsection (3) does not apply if the regulations are to—
+(5)[^c-fb0dec00e675dffc867ccc5aa2a096cd] But subsection (3) does not apply if the regulations are to—
 
 - (a) cease to have effect at the end of the period of not more than twelve months beginning with the day on which they come into force, and
 - (b) contain a statement that it appears to the Secretary of State that the need to protect the public requires that the regulations should be made without delay.
 
-(6)[^key-fb0dec00e675dffc867ccc5aa2a096cd] The power to make fireworks regulations includes power—
+(6)[^c-fb0dec00e675dffc867ccc5aa2a096cd] The power to make fireworks regulations includes power—
 
 - (a) to make different provision for different cases, and
 - (b) to make any incidental, supplementary, consequential and transitional provision which the Secretary of State considers appropriate.
 
-(7)[^key-fb0dec00e675dffc867ccc5aa2a096cd] Section 18 of the Consumer Protection Act 1987 (c. 43) (power to require information for deciding whether to make, vary or revoke regulations under section 11 of that Act) applies in relation to fireworks regulations as in relation to regulations under section 11 of that Act.
+(7)[^c-fb0dec00e675dffc867ccc5aa2a096cd] Section 18 of the Consumer Protection Act 1987 (c. 43) (power to require information for deciding whether to make, vary or revoke regulations under section 11 of that Act) applies in relation to fireworks regulations as in relation to regulations under section 11 of that Act.
 
 (8) Nothing in this Act shall be construed as in any way limiting the provision that may be made in regulations under section 11 of the Consumer Protection Act 1987.
 
-### 3. Prohibition of supply etc. to young persons[^key-5e895784a8014440e0e4a46d7b1dac3a]
+### 3. Prohibition of supply etc. to young persons[^c-5e895784a8014440e0e4a46d7b1dac3a]
 
 (1) Fireworks regulations may include provision prohibiting persons from—
 
@@ -108,7 +108,7 @@ fireworks, or fireworks of a description specified in the regulations, to person
 - (a) exceptions from the prohibition, or
 - (b) provision for the granting of dispensations from the prohibition.
 
-### 4. Prohibition of supply etc. in certain circumstances[^key-ca4bb472e7b67c0058e5ae3070d5ae8c][^key-12e86dee4c955a31407c7ad56eb341e7]
+### 4. Prohibition of supply etc. in certain circumstances[^c-ca4bb472e7b67c0058e5ae3070d5ae8c][^c-12e86dee4c955a31407c7ad56eb341e7]
 
 (1) Fireworks regulations may include provision prohibiting persons from supplying, purchasing, possessing or using fireworks, or fireworks of a description specified in the regulations, during hours of the day so specified.
 
@@ -124,7 +124,7 @@ specified in the regulations.
 - (a) exceptions from the prohibition, or
 - (b) provision for the granting of dispensations from the prohibition.
 
-### 5. Prohibition of supply etc. of certain fireworks[^key-c205f81dd0d6679361a3e7e7821eab32]
+### 5. Prohibition of supply etc. of certain fireworks[^c-c205f81dd0d6679361a3e7e7821eab32]
 
 (1) Fireworks regulations may include provision—
 
@@ -151,7 +151,7 @@ specified in the regulations.
 - (a) exceptions from the prohibition, or
 - (b) provision for the granting of dispensations from the prohibition.
 
-### 6. Public fireworks displays[^key-37874dbf3b3844b1cca05a3fb9c3be7e][^key-8f1f5bc0eef5e84406ef02bdf98c97cc]
+### 6. Public fireworks displays[^c-37874dbf3b3844b1cca05a3fb9c3be7e][^c-8f1f5bc0eef5e84406ef02bdf98c97cc]
 
 (1) Fireworks regulations may include provision prohibiting persons from operating a public fireworks display unless—
 
@@ -174,7 +174,7 @@ specified in the regulations.
 
 (5) In this section “**public fireworks display**” means a fireworks display at which the public, or any section of the public, are present (whether or not they have paid to be).
 
-### 7. Licensing of suppliers[^key-0583e937879fb0af7e4087df1caf6b1e]
+### 7. Licensing of suppliers[^c-0583e937879fb0af7e4087df1caf6b1e]
 
 (1) Fireworks regulations may include provision prohibiting persons, or persons of a description specified in the regulations, from supplying, exposing for supply or possessing for supply fireworks, or fireworks of a description so specified, unless—
 
@@ -198,7 +198,7 @@ specified in the regulations.
 - (a) exceptions from the prohibition, or
 - (b) provision for the granting of dispensations from the prohibition.
 
-### 8. Information about fireworks[^key-64c7910dcd370ffb54fc692bec7d8c32]
+### 8. Information about fireworks[^c-64c7910dcd370ffb54fc692bec7d8c32]
 
 (1) Fireworks regulations may include provision for securing that—
 
@@ -219,7 +219,7 @@ given in relation to fireworks, or fireworks of a description specified in the r
 
 (4) If fireworks regulations impose any requirement by virtue of this section, they may contain provision requiring the keeping of records by any person to whom information is given under the regulations.
 
-### 9. Prohibition of importation etc. of fireworks[^key-226308525052970e27014b4f8dd59c66]
+### 9. Prohibition of importation etc. of fireworks[^c-226308525052970e27014b4f8dd59c66]
 
 (1) Fireworks regulations may include provision prohibiting persons from—
 
@@ -279,7 +279,7 @@ fireworks, or fireworks of a description specified in the regulations, unless th
 
 ## Supplementary
 
-### 11. Offences[^key-a6b3c47fbab6d0fec6f4fc8b980d23c4][^key-0e33f992e5bb60e42f7f6c635eda4aec]
+### 11. Offences[^c-a6b3c47fbab6d0fec6f4fc8b980d23c4][^c-0e33f992e5bb60e42f7f6c635eda4aec]
 
 (1) Any person who contravenes a prohibition imposed by fireworks regulations is guilty of an offence.
 
@@ -299,7 +299,7 @@ or to both.
 
 (5) Fireworks regulations may not provide for any contravention of the regulations to be an offence.
 
-(6)[^key-a0e067b4a2cce6b2c3e6ffcebdd9a9a1] Paragraphs (c), (e) and (f) of section 11(3) of the Consumer Protection Act 1987 (c. 43) (provision about offences which may be included in regulations) apply in relation to fireworks regulations as to regulations under section 11 of that Act, but as if references to an offence under section 12 of that Act were references to an offence under this section.
+(6)[^c-a0e067b4a2cce6b2c3e6ffcebdd9a9a1] Paragraphs (c), (e) and (f) of section 11(3) of the Consumer Protection Act 1987 (c. 43) (provision about offences which may be included in regulations) apply in relation to fireworks regulations as to regulations under section 11 of that Act, but as if references to an offence under section 12 of that Act were references to an offence under this section.
 
 (7) Section 39 of that Act (defence of due diligence) applies to offences under subsections (1) and (2) of this section; and section 40(1) of that Act (liability of persons other than the principal offender) has effect accordingly.
 
@@ -307,7 +307,7 @@ or to both.
 
 (9) Section 40(2) and (3) of the Consumer Protection Act 1987 (c. 43) (offences by bodies corporate) applies to an offence under this section as to an offence under that Act.
 
-### 11A. Prohibitions on possession of fireworks – power of search: Scotland[^key-32605bf0ba1ca4baf9243d5ae1175d2c]
+### 11A. Prohibitions on possession of fireworks – power of search: Scotland[^c-32605bf0ba1ca4baf9243d5ae1175d2c]
 
 (1) A constable may search a person without warrant if the constable has reasonable grounds for suspecting that the person possesses a firework in contravention of a prohibition imposed by fireworks regulations.
 
@@ -324,22 +324,22 @@ or to both.
 
 commits an offence.
 
-(6)[^key-80fe0a849598055a49b41d9507bdb09c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-80fe0a849598055a49b41d9507bdb09c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) A person who commits an offence under subsection (5) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 11B. Prohibitions on possession of fireworks – arrest without warrant: Scotland[^key-cfa08ffb7d8053c0ee5f67806cb39a9e]
+### 11B. Prohibitions on possession of fireworks – arrest without warrant: Scotland[^c-cfa08ffb7d8053c0ee5f67806cb39a9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Enforcement[^key-7ff5714b06ef2648db3ee615643ffb4a][^key-0201a75d2294c8ff0db7658a4ec86306]
+### 12. Enforcement[^c-7ff5714b06ef2648db3ee615643ffb4a][^c-0201a75d2294c8ff0db7658a4ec86306]
 
-(1)[^key-8b8859eb6e2bb4fff1c269b2cc4dacf3] Section 27 of the Consumer Protection Act 1987 (enforcement authorities), apart from subsection (1)(b), applies in relation to fireworks regulations as to regulations under section 11 of that Act.
+(1)[^c-8b8859eb6e2bb4fff1c269b2cc4dacf3] Section 27 of the Consumer Protection Act 1987 (enforcement authorities), apart from subsection (1)(b), applies in relation to fireworks regulations as to regulations under section 11 of that Act.
 
 (2) The following provisions of that Act—
 
-- (a)[^key-aa001cbc7847cb1af4b85950b260ed95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) section 29(4) and (7)[^key-003a4517482c3a4e91b2753396fd245c] and section 30(1) to (9) (powers of search etc.), apart from the references to forfeiture and suspension notices,
+- (a)[^c-aa001cbc7847cb1af4b85950b260ed95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) section 29(4) and (7)[^c-003a4517482c3a4e91b2753396fd245c] and section 30(1) to (9) (powers of search etc.), apart from the references to forfeiture and suspension notices,
 - (c) section 32 (obstruction of officer),
 - (d) section 33 (appeals against detention), apart from subsections (2)(a)(ii) and (3)(a)(ii),
 - (e) section 34 (compensation for seizure and detention),
@@ -350,11 +350,11 @@ commits an offence.
 
 apply in relation to fireworks regulations as to regulations under section 11 of that Act.
 
-(2A)[^key-3b9585adaf981ad23260508261a123d5] For the investigatory powers available to a person for the purposes of the duty to enforce imposed by virtue of subsection (1) (in addition to the powers in Part 4 of the Consumer Protection Act 1987), see Schedule 5 to the Consumer Rights Act 2015.
+(2A)[^c-3b9585adaf981ad23260508261a123d5] For the investigatory powers available to a person for the purposes of the duty to enforce imposed by virtue of subsection (1) (in addition to the powers in Part 4 of the Consumer Protection Act 1987), see Schedule 5 to the Consumer Rights Act 2015.
 
 (3) In Schedules 14 and 15 to the Enterprise Act 2002 (c. 40) (disclosure of information), insert at the appropriate place— “ Fireworks Act 2003. ”.
 
-### 13. Savings for certain privileges[^key-72258ac17dc516efba9c66d921a48231][^key-e57564e4974fe8dfc010c04ef15dbeed]
+### 13. Savings for certain privileges[^c-72258ac17dc516efba9c66d921a48231][^c-e57564e4974fe8dfc010c04ef15dbeed]
 
 Section 47 of the Consumer Protection Act 1987 (savings for privileges) applies in relation to this Act.
 
@@ -364,7 +364,7 @@ Section 47 of the Consumer Protection Act 1987 (savings for privileges) applies 
 
 (1) The power to make regulations under section 3 or 4(2) applies to explosives other than fireworks as to fireworks; and regulations made by virtue of this subsection are fireworks regulations for all the purposes of this Act.
 
-(2) In subsection (1) “**explosives**” has the same meaning as in the Explosives Regulations 2014[^key-795bb76df1524ca59d1e0a18df7ffe70].
+(2) In subsection (1) “**explosives**” has the same meaning as in the Explosives Regulations 2014[^c-795bb76df1524ca59d1e0a18df7ffe70].
 
 (3) The Secretary of State may by regulations substitute a new definition of “explosives” for the definition in subsection (2).
 
@@ -374,7 +374,7 @@ Section 47 of the Consumer Protection Act 1987 (savings for privileges) applies 
 
 The Schedule (repeals and revocation) has effect.
 
-### 16. Parliamentary procedure for regulations[^key-ad8a67a96dbf06aefd59e49109f3e8d4][^key-15406a140a355cf36843bf5940f4c339]
+### 16. Parliamentary procedure for regulations[^c-ad8a67a96dbf06aefd59e49109f3e8d4][^c-15406a140a355cf36843bf5940f4c339]
 
 (1) Any power to make regulations under this Act is exercisable by statutory instrument.
 
@@ -422,64 +422,64 @@ Section 15
 
 ## Annotations
 
-[^key-678ccf1b83d7c9fb973ee44dcb7e980c]: Commencement: S. 1 in force at 28.11.2003 by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
+[^c-678ccf1b83d7c9fb973ee44dcb7e980c]: Commencement: S. 1 in force at 28.11.2003 by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
 
-[^key-5306c0f697215435b4787a7fd5a517cd]: Commencement: S. 2 in force at 28.11.2003 by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
+[^c-5306c0f697215435b4787a7fd5a517cd]: Commencement: S. 2 in force at 28.11.2003 by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
 
-[^key-feefd5c6aa888951bd0a5ead0fdba2be]: Modification: S. 2(1): functions made exercisable concurrently (29.7.2004) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2004 (S.I. 2004/2030)](https://www.legislation.gov.uk/uksi/2004/2030), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/2030/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/2030/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/2030/article/7))
+[^c-feefd5c6aa888951bd0a5ead0fdba2be]: Modification: S. 2(1): functions made exercisable concurrently (29.7.2004) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2004 (S.I. 2004/2030)](https://www.legislation.gov.uk/uksi/2004/2030), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/2030/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/2030/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/2030/article/7))
 
-[^key-fb0dec00e675dffc867ccc5aa2a096cd]: Modification: S. 2(3)(4)(5)(6)(7): functions made exercisable concurrently (29.7.2004) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2004 (S.I. 2004/2030)](https://www.legislation.gov.uk/uksi/2004/2030), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/2030/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/2030/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/2030/article/7))
+[^c-fb0dec00e675dffc867ccc5aa2a096cd]: Modification: S. 2(3)(4)(5)(6)(7): functions made exercisable concurrently (29.7.2004) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2004 (S.I. 2004/2030)](https://www.legislation.gov.uk/uksi/2004/2030), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/2030/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/2030/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/2030/article/7))
 
-[^key-c7fc5829c043d4de1213369784600050]: Textual amendment: Words in [s. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2003/22/section/2/3/a) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
+[^c-c7fc5829c043d4de1213369784600050]: Textual amendment: Words in [s. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2003/22/section/2/3/a) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 
-[^key-5e895784a8014440e0e4a46d7b1dac3a]: Commencement: S. 3 in force at 28.11.2003 by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
+[^c-5e895784a8014440e0e4a46d7b1dac3a]: Commencement: S. 3 in force at 28.11.2003 by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
 
-[^key-ca4bb472e7b67c0058e5ae3070d5ae8c]: Commencement: S. 4 in force at 15.7.2004 by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
+[^c-ca4bb472e7b67c0058e5ae3070d5ae8c]: Commencement: S. 4 in force at 15.7.2004 by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
 
-[^key-12e86dee4c955a31407c7ad56eb341e7]: Modification: S. 4: functions made exercisable concurrently (29.7.2004) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2004 (S.I. 2004/2030)](https://www.legislation.gov.uk/uksi/2004/2030), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/2030/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/2030/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/2030/article/7))
+[^c-12e86dee4c955a31407c7ad56eb341e7]: Modification: S. 4: functions made exercisable concurrently (29.7.2004) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2004 (S.I. 2004/2030)](https://www.legislation.gov.uk/uksi/2004/2030), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/2030/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/2030/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/2030/article/7))
 
-[^key-c205f81dd0d6679361a3e7e7821eab32]: Commencement: S. 5 in force at 28.11.2003 by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
+[^c-c205f81dd0d6679361a3e7e7821eab32]: Commencement: S. 5 in force at 28.11.2003 by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
 
-[^key-37874dbf3b3844b1cca05a3fb9c3be7e]: Commencement: S. 6 in force at 15.7.2004 by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
+[^c-37874dbf3b3844b1cca05a3fb9c3be7e]: Commencement: S. 6 in force at 15.7.2004 by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
 
-[^key-8f1f5bc0eef5e84406ef02bdf98c97cc]: Modification: S. 6: functions made exercisable concurrently (29.7.2004) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2004 (S.I. 2004/2030)](https://www.legislation.gov.uk/uksi/2004/2030), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/2030/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/2030/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/2030/article/7))
+[^c-8f1f5bc0eef5e84406ef02bdf98c97cc]: Modification: S. 6: functions made exercisable concurrently (29.7.2004) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2004 (S.I. 2004/2030)](https://www.legislation.gov.uk/uksi/2004/2030), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/2030/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/2030/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/2030/article/7))
 
-[^key-0583e937879fb0af7e4087df1caf6b1e]: Commencement: S. 7 in force at 15.7.2004 by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
+[^c-0583e937879fb0af7e4087df1caf6b1e]: Commencement: S. 7 in force at 15.7.2004 by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
 
-[^key-64c7910dcd370ffb54fc692bec7d8c32]: Commencement: S. 8 in force at 15.7.2004 by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
+[^c-64c7910dcd370ffb54fc692bec7d8c32]: Commencement: S. 8 in force at 15.7.2004 by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
 
-[^key-226308525052970e27014b4f8dd59c66]: Commencement: S. 9 in force at 15.7.2004 by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
+[^c-226308525052970e27014b4f8dd59c66]: Commencement: S. 9 in force at 15.7.2004 by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
 
-[^key-a6b3c47fbab6d0fec6f4fc8b980d23c4]: Commencement: S. 11 in force at 28.11.2003 for specified purposes by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
+[^c-a6b3c47fbab6d0fec6f4fc8b980d23c4]: Commencement: S. 11 in force at 28.11.2003 for specified purposes by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
 
-[^key-0e33f992e5bb60e42f7f6c635eda4aec]: Commencement: S. 11 in force at 15.7.2004 for specified purposes by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
+[^c-0e33f992e5bb60e42f7f6c635eda4aec]: Commencement: S. 11 in force at 15.7.2004 for specified purposes by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
 
-[^key-a0e067b4a2cce6b2c3e6ffcebdd9a9a1]: Modification: S. 11(6): functions made exercisable concurrently (29.7.2004) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2004 (S.I. 2004/2030)](https://www.legislation.gov.uk/uksi/2004/2030), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/2030/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/2030/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/2030/article/7))
+[^c-a0e067b4a2cce6b2c3e6ffcebdd9a9a1]: Modification: S. 11(6): functions made exercisable concurrently (29.7.2004) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2004 (S.I. 2004/2030)](https://www.legislation.gov.uk/uksi/2004/2030), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/2030/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/2030/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/2030/article/7))
 
-[^key-32605bf0ba1ca4baf9243d5ae1175d2c]: Textual amendment: Ss. 11A, 11B inserted (1.9.2006) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 76](https://www.legislation.gov.uk/asp/2006/10/section/76), [104(1)](https://www.legislation.gov.uk/asp/2006/10/section/104/1); [S.S.I. 2006/432](https://www.legislation.gov.uk/ssi/2006/432), [art. 2(d)](https://www.legislation.gov.uk/ssi/2006/432/article/2/d)
+[^c-32605bf0ba1ca4baf9243d5ae1175d2c]: Textual amendment: Ss. 11A, 11B inserted (1.9.2006) by [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), [ss. 76](https://www.legislation.gov.uk/asp/2006/10/section/76), [104(1)](https://www.legislation.gov.uk/asp/2006/10/section/104/1); [S.S.I. 2006/432](https://www.legislation.gov.uk/ssi/2006/432), [art. 2(d)](https://www.legislation.gov.uk/ssi/2006/432/article/2/d)
 
-[^key-80fe0a849598055a49b41d9507bdb09c]: Textual amendment: [S. 11A(6)](https://www.legislation.gov.uk/ukpga/2003/22/section/11A/6) repealed (S.) (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 16(a)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/16/a); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-80fe0a849598055a49b41d9507bdb09c]: Textual amendment: [S. 11A(6)](https://www.legislation.gov.uk/ukpga/2003/22/section/11A/6) repealed (S.) (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 16(a)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/16/a); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
-[^key-cfa08ffb7d8053c0ee5f67806cb39a9e]: Textual amendment: S. 11B repealed (S.) (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 16(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/16/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-cfa08ffb7d8053c0ee5f67806cb39a9e]: Textual amendment: S. 11B repealed (S.) (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 16(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/16/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
-[^key-7ff5714b06ef2648db3ee615643ffb4a]: Commencement: S. 12 in force at 28.11.2003 for specified purposes by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
+[^c-7ff5714b06ef2648db3ee615643ffb4a]: Commencement: S. 12 in force at 28.11.2003 for specified purposes by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
 
-[^key-0201a75d2294c8ff0db7658a4ec86306]: Commencement: S. 12 in force at 15.7.2004 for specified purposes by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
+[^c-0201a75d2294c8ff0db7658a4ec86306]: Commencement: S. 12 in force at 15.7.2004 for specified purposes by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
 
-[^key-8b8859eb6e2bb4fff1c269b2cc4dacf3]: Modification: S. 12(1): functions made exercisable concurrently (29.7.2004) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2004 (S.I. 2004/2030)](https://www.legislation.gov.uk/uksi/2004/2030), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/2030/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/2030/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/2030/article/7))
+[^c-8b8859eb6e2bb4fff1c269b2cc4dacf3]: Modification: S. 12(1): functions made exercisable concurrently (29.7.2004) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2004 (S.I. 2004/2030)](https://www.legislation.gov.uk/uksi/2004/2030), [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/2030/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/2030/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2004/2030/article/7))
 
-[^key-aa001cbc7847cb1af4b85950b260ed95]: Textual amendment: S. 12(2)(a) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 82(2)(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/82/2/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-aa001cbc7847cb1af4b85950b260ed95]: Textual amendment: S. 12(2)(a) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 82(2)(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/82/2/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-003a4517482c3a4e91b2753396fd245c]: Textual amendment: Words in [s. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2003/22/section/12/2/b) substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 82(2)(b)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/82/2/b); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-003a4517482c3a4e91b2753396fd245c]: Textual amendment: Words in [s. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2003/22/section/12/2/b) substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 82(2)(b)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/82/2/b); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
-[^key-3b9585adaf981ad23260508261a123d5]: Textual amendment: S. 12(2A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 82(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/82/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-3b9585adaf981ad23260508261a123d5]: Textual amendment: S. 12(2A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 82(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/82/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
-[^key-72258ac17dc516efba9c66d921a48231]: Commencement: S. 13 in force at 28.11.2003 for specified purposes by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
+[^c-72258ac17dc516efba9c66d921a48231]: Commencement: S. 13 in force at 28.11.2003 for specified purposes by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
 
-[^key-e57564e4974fe8dfc010c04ef15dbeed]: Commencement: S. 13 in force at 15.7.2004 for specified purposes by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
+[^c-e57564e4974fe8dfc010c04ef15dbeed]: Commencement: S. 13 in force at 15.7.2004 for specified purposes by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
 
-[^key-795bb76df1524ca59d1e0a18df7ffe70]: Textual amendment: Words in [s. 14(2)](https://www.legislation.gov.uk/ukpga/2003/22/section/14/2) substituted (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 7](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/7)
+[^c-795bb76df1524ca59d1e0a18df7ffe70]: Textual amendment: Words in [s. 14(2)](https://www.legislation.gov.uk/ukpga/2003/22/section/14/2) substituted (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 7](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/7)
 
-[^key-ad8a67a96dbf06aefd59e49109f3e8d4]: Commencement: S. 16 in force at 28.11.2003 for specified purposes by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
+[^c-ad8a67a96dbf06aefd59e49109f3e8d4]: Commencement: S. 16 in force at 28.11.2003 for specified purposes by [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule)
 
-[^key-15406a140a355cf36843bf5940f4c339]: Commencement: S. 16 in force at 15.7.2004 for specified purposes by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
+[^c-15406a140a355cf36843bf5940f4c339]: Commencement: S. 16 in force at 15.7.2004 for specified purposes by [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)

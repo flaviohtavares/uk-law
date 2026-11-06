@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 97. Code of practice[^key-35fbd50f018edb46adaca9223e4dd3fd][^key-1edbf459fafb83f89320381869dd602c]
+## 97. Code of practice[^c-35fbd50f018edb46adaca9223e4dd3fd][^c-1edbf459fafb83f89320381869dd602c]
 
 *Extent: E+W+S*
 
@@ -43,6 +43,6 @@ In the Social Security Administration Act 1992, after section 80D (inserted by s
 
 ## Annotations
 
-[^key-35fbd50f018edb46adaca9223e4dd3fd]: Commencement: S. 97 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-35fbd50f018edb46adaca9223e4dd3fd]: Commencement: S. 97 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-1edbf459fafb83f89320381869dd602c]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2025/28/section/97) in force at 24.6.2026 by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/d)
+[^c-1edbf459fafb83f89320381869dd602c]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2025/28/section/97) in force at 24.6.2026 by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/d)

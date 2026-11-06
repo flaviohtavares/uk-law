@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 134(2) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-63c6c0b4ea1e14e5acdf13f9b0df8450]
+## 1. Citation, commencement and interpretation[^c-63c6c0b4ea1e14e5acdf13f9b0df8450]
 
 (1) These Regulations may be cited as the Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation on 1st November 2005.
 
@@ -49,7 +49,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of regulation 1 of the principal Regulations[^key-e3bd70056055517255b84dff862ff88b]
+## 2. Amendment of regulation 1 of the principal Regulations[^c-e3bd70056055517255b84dff862ff88b]
 
 In regulation 1 of the principal Regulations (citation, commencement and interpretation)—
 
@@ -68,7 +68,7 @@ In regulation 1 of the principal Regulations (citation, commencement and interpr
     , and
 - (b) paragraphs (3) and (4) shall be omitted.
 
-## 3. Amendment of regulation 2 of the principal Regulations[^key-764dfd73d48dd7dfe833971980bc45b4]
+## 3. Amendment of regulation 2 of the principal Regulations[^c-764dfd73d48dd7dfe833971980bc45b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -98,13 +98,13 @@ A regulatory impact assessment has not been produced for this rule as it has no 
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-63c6c0b4ea1e14e5acdf13f9b0df8450]: Commencement: Reg. 1 in operation at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/447/regulation/1/1)
+[^c-63c6c0b4ea1e14e5acdf13f9b0df8450]: Commencement: Reg. 1 in operation at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/447/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1988 No. 368](https://www.legislation.gov.uk/nisr/1988/368)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-e3bd70056055517255b84dff862ff88b]: Commencement: Reg. 2 in operation at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/447/regulation/1/1)
+[^c-e3bd70056055517255b84dff862ff88b]: Commencement: Reg. 2 in operation at 1.11.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/447/regulation/1/1)
 
 [^f00005]: Footnote: The definition of “claimant” was substituted by regulation 2(a) of [S.R. 1991 No. 464](https://www.legislation.gov.uk/nisr/1991/464)
 
@@ -114,4 +114,4 @@ A regulatory impact assessment has not been produced for this rule as it has no 
 
 [^f00008]: Footnote: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)
 
-[^key-764dfd73d48dd7dfe833971980bc45b4]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/447/regulation/3) revoked (6.4.2017) by [The Social Fund (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/55)](https://www.legislation.gov.uk/nisr/2017/55), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/55/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/55/schedule)
+[^c-764dfd73d48dd7dfe833971980bc45b4]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/447/regulation/3) revoked (6.4.2017) by [The Social Fund (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/55)](https://www.legislation.gov.uk/nisr/2017/55), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2017/55/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/55/schedule)

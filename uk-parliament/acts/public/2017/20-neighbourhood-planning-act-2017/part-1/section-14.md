@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Restrictions on power to impose planning conditions[^key-97ecc16f6b31ea3a4306ae52c9e0a41d]
+## 14. Restrictions on power to impose planning conditions[^c-97ecc16f6b31ea3a4306ae52c9e0a41d]
 
 *Extent: E+W*
 
-(1)[^key-9da654c8c1a081964340d532da3045e9] After section 100 of the Town and Country Planning Act 1990 insert—
+(1)[^c-9da654c8c1a081964340d532da3045e9] After section 100 of the Town and Country Planning Act 1990 insert—
 
 > **Power to impose conditions on grant of planning permission in England**
 >
@@ -77,14 +77,14 @@ summary: ''
 
 > (3ZAA) No regulations may be made under section 100ZA(1) unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
 
-(3)[^key-9da654c8c1a081964340d532da3045e9] Section 100ZA of the Town and Country Planning Act 1990 (as inserted by subsection (1) of this section) has effect in relation to conditions on a grant or modification of planning permission only if the permission is granted or modified on or after the coming into force of this section.
+(3)[^c-9da654c8c1a081964340d532da3045e9] Section 100ZA of the Town and Country Planning Act 1990 (as inserted by subsection (1) of this section) has effect in relation to conditions on a grant or modification of planning permission only if the permission is granted or modified on or after the coming into force of this section.
 
-(4)[^key-13f45bef50fc23fb618bb58b40dffb2e] Schedule 3 contains amendments in consequence of subsection (1).
+(4)[^c-13f45bef50fc23fb618bb58b40dffb2e] Schedule 3 contains amendments in consequence of subsection (1).
 
 ## Annotations
 
-[^key-97ecc16f6b31ea3a4306ae52c9e0a41d]: Commencement: S. 14 in force at 19.7.2017 for specified purposes by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/e)
+[^c-97ecc16f6b31ea3a4306ae52c9e0a41d]: Commencement: S. 14 in force at 19.7.2017 for specified purposes by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/e)
 
-[^key-9da654c8c1a081964340d532da3045e9]: Commencement: S. 14(1)(3) in force at 1.10.2018 for specified purposes by [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/a)
+[^c-9da654c8c1a081964340d532da3045e9]: Commencement: S. 14(1)(3) in force at 1.10.2018 for specified purposes by [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/a)
 
-[^key-13f45bef50fc23fb618bb58b40dffb2e]: Commencement: S. 14(4) in force at 1.10.2018 for specified purposes by [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/b)
+[^c-13f45bef50fc23fb618bb58b40dffb2e]: Commencement: S. 14(4) in force at 1.10.2018 for specified purposes by [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/b)

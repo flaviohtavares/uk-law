@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-603256d7c2d0f7a7db551e528d5c8488] An IFC authority must keep proper accounts and proper records in relation to the accounts.
+(1)[^c-603256d7c2d0f7a7db551e528d5c8488] An IFC authority must keep proper accounts and proper records in relation to the accounts.
 
-(2)[^key-807d88a0cfae873b5fdad409a800d173] The accounts of an IFC authority that by virtue of section 150(3) is a joint committee of councils must be made up yearly to 31st March.
+(2)[^c-807d88a0cfae873b5fdad409a800d173] The accounts of an IFC authority that by virtue of section 150(3) is a joint committee of councils must be made up yearly to 31st March.
 
 ## Annotations
 
-[^key-603256d7c2d0f7a7db551e528d5c8488]: Commencement: [S. 176(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/176/1) in force at 1.10.2010 by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(e)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/e)
+[^c-603256d7c2d0f7a7db551e528d5c8488]: Commencement: [S. 176(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/176/1) in force at 1.10.2010 by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(e)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/e)
 
-[^key-807d88a0cfae873b5fdad409a800d173]: Commencement: [S. 176(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/176/2) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/i)
+[^c-807d88a0cfae873b5fdad409a800d173]: Commencement: [S. 176(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/176/2) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/i)

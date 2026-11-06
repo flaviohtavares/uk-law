@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1248. Secretary of State's power to require second audit of a company[^key-f12f53fd077008a67789cb22d15175dc]
+## 1248. Secretary of State's power to require second audit of a company[^c-f12f53fd077008a67789cb22d15175dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,12 +53,12 @@ summary: ''
 (8) A company guilty of an offence under this section is liable on summary conviction—
 
 - (a) in a case within subsection (5)(a) or (7)(a) or (b), to a fine not exceeding level 5 on the standard scale, and
-- (b) in a case within subsection (5)(b) or (7)(c), to a fine not exceeding one-tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-40433374fbc7100afd1eb2cccaf480f7]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)* for each day on which the failure continues.
+- (b) in a case within subsection (5)(b) or (7)(c), to a fine not exceeding one-tenth of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-40433374fbc7100afd1eb2cccaf480f7]one-tenth of the greater of £5,000 or level 4 on the standard scale *(Extent: E+W)* for each day on which the failure continues.
 
 (9) In this section “**registrar of companies**” has the meaning given by section 1060.
 
 ## Annotations
 
-[^key-f12f53fd077008a67789cb22d15175dc]: Modification: S. 1248 applied (with modifications) by 1986 c. 53, Sch. 11 para. 3DA(3) (as inserted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/3) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
+[^c-f12f53fd077008a67789cb22d15175dc]: Modification: S. 1248 applied (with modifications) by 1986 c. 53, Sch. 11 para. 3DA(3) (as inserted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/3) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
 
-[^key-40433374fbc7100afd1eb2cccaf480f7]: Textual amendment: Words in s. 1248(8)(b) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 9(26)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/9/26) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-40433374fbc7100afd1eb2cccaf480f7]: Textual amendment: Words in s. 1248(8)(b) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 3 para. 9(26)](https://www.legislation.gov.uk/uksi/2015/664/schedule/3/paragraph/9/26) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

@@ -33,56 +33,56 @@ of 1 August 2014
 
 supplementing Council Regulation (EC) No 1217/2009 setting up a network for the collection of accountancy data on the incomes and business operation of agricultural holdings in the European Union (revoked)
 
-[^key-d6148c396c3e49517c431f233a650500]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6148c396c3e49517c431f233a650500]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Scope of application[^key-d6148c396c3e49517c431f233a650500]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Threshold[^key-d6148c396c3e49517c431f233a650500]
+## Article 1. Scope of application[^c-d6148c396c3e49517c431f233a650500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Selection plan[^key-d6148c396c3e49517c431f233a650500]
+## Article 2. Threshold[^c-d6148c396c3e49517c431f233a650500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Reference period for the standard output[^key-d6148c396c3e49517c431f233a650500]
+## Article 3. Selection plan[^c-d6148c396c3e49517c431f233a650500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. General and principal types of farming[^key-d6148c396c3e49517c431f233a650500]
+## Article 4. Reference period for the standard output[^c-d6148c396c3e49517c431f233a650500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Farm return[^key-d6148c396c3e49517c431f233a650500]
+## Article 5. General and principal types of farming[^c-d6148c396c3e49517c431f233a650500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Repeals[^key-d6148c396c3e49517c431f233a650500]
+## Article 6. Farm return[^c-d6148c396c3e49517c431f233a650500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-d6148c396c3e49517c431f233a650500]
+## Article 7. Repeals[^c-d6148c396c3e49517c431f233a650500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6148c396c3e49517c431f233a650500]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I — General and principal types of farming and correspondence between them[^key-d6148c396c3e49517c431f233a650500]
+## Article 8. Entry into force[^c-d6148c396c3e49517c431f233a650500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-d6148c396c3e49517c431f233a650500]
+[^c-d6148c396c3e49517c431f233a650500]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6148c396c3e49517c431f233a650500] Farm return — main groups of accountancy data to be collected
+## ANNEX I — General and principal types of farming and correspondence between them[^c-d6148c396c3e49517c431f233a650500]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d6148c396c3e49517c431f233a650500] Farm return — general rules for data collection
+## ANNEX II[^c-d6148c396c3e49517c431f233a650500]
+
+[^c-d6148c396c3e49517c431f233a650500] Farm return — main groups of accountancy data to be collected
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d6148c396c3e49517c431f233a650500] Farm return — general rules for data collection
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6148c396c3e49517c431f233a650500]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 241](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/241); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d6148c396c3e49517c431f233a650500]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 241](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/241); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

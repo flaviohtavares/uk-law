@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. CAA’s 2002 Act functions.[^c14880131][^key-8c5876eb0c4875a61befdd7e1d47dcb0]
+## 87. CAA’s 2002 Act functions.[^c14880131][^c-8c5876eb0c4875a61befdd7e1d47dcb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 [^c14880131]: Commencement: S. 87 wholly in force at 1.2.2001, see s. 275(1)(2) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-8c5876eb0c4875a61befdd7e1d47dcb0]: Textual amendment: Word in s. 87 substituted (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 9 para. 25](https://www.legislation.gov.uk/ukpga/2002/40/schedule/9/paragraph/25); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule)
+[^c-8c5876eb0c4875a61befdd7e1d47dcb0]: Textual amendment: Word in s. 87 substituted (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 9 para. 25](https://www.legislation.gov.uk/ukpga/2002/40/schedule/9/paragraph/25); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule)
 
 [^c14880141]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).

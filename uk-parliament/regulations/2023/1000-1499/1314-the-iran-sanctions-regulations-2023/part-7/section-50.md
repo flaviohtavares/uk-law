@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Registration of ships in the United Kingdom[^key-61be6ea33196e74c37652ba6163a851a]
+## 50. Registration of ships in the United Kingdom[^c-61be6ea33196e74c37652ba6163a851a]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Registrar must refuse to register a ship if, on the basis of the information given to the Registrar by the Secretary of State or accompanying the application for registration, the ship appears to the Registrar to be—
 
-- (a)[^key-b67fa19a7271a62295aa4c659fe8b136] owned, controlled, chartered or operated by a designated person , or[^key-b92152cb76cff948287ce52783a8364b]
-- (b)[^key-8beafa423cfe2769b3370ed9af172ee0] a specified ship.
+- (a)[^c-b67fa19a7271a62295aa4c659fe8b136] owned, controlled, chartered or operated by a designated person , or[^c-b92152cb76cff948287ce52783a8364b]
+- (b)[^c-8beafa423cfe2769b3370ed9af172ee0] a specified ship.
 
 (2) The Secretary of State may direct the Registrar to terminate the registration of—
 
@@ -37,10 +37,10 @@ summary: ''
 
 ## Annotations
 
-[^key-61be6ea33196e74c37652ba6163a851a]: Commencement: Reg. 50 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-61be6ea33196e74c37652ba6163a851a]: Commencement: Reg. 50 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-b67fa19a7271a62295aa4c659fe8b136]: Textual amendment: Words in [reg. 50(1)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/50/1/a) renumbered as reg. 50(1)(a) (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2026/983/regulation/20/a)
+[^c-b67fa19a7271a62295aa4c659fe8b136]: Textual amendment: Words in [reg. 50(1)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/50/1/a) renumbered as reg. 50(1)(a) (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2026/983/regulation/20/a)
 
-[^key-b92152cb76cff948287ce52783a8364b]: Textual amendment: Word in [reg. 50(1)(a)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/50/1/a) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2026/983/regulation/20/b)
+[^c-b92152cb76cff948287ce52783a8364b]: Textual amendment: Word in [reg. 50(1)(a)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/50/1/a) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2026/983/regulation/20/b)
 
-[^key-8beafa423cfe2769b3370ed9af172ee0]: Textual amendment: [Reg. 50(1)(b)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/50/1/b) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [20(c)](https://www.legislation.gov.uk/uksi/2026/983/regulation/20/c)
+[^c-8beafa423cfe2769b3370ed9af172ee0]: Textual amendment: [Reg. 50(1)(b)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/50/1/b) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [20(c)](https://www.legislation.gov.uk/uksi/2026/983/regulation/20/c)

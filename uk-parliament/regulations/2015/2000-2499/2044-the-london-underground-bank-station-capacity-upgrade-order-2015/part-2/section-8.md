@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Station works at Bank[^key-3968e58939aaae247e2ef60b32b5538c]
+## 8. Station works at Bank[^c-3968e58939aaae247e2ef60b32b5538c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Company may, in the construction of Work No. 1, and within the limits of dev
 
 ## Annotations
 
-[^key-3968e58939aaae247e2ef60b32b5538c]: Commencement: Art. 8 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-3968e58939aaae247e2ef60b32b5538c]: Commencement: Art. 8 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

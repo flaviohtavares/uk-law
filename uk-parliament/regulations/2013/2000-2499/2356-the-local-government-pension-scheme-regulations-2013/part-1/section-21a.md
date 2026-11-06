@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21A. Lost pensionable pay[^key-4f79ede77c75026aefd30347c1e66893]
+## 21A. Lost pensionable pay[^c-4f79ede77c75026aefd30347c1e66893]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f79ede77c75026aefd30347c1e66893]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2013/2356/regulation/21A) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [11](https://www.legislation.gov.uk/uksi/2026/226/regulation/11)
+[^c-4f79ede77c75026aefd30347c1e66893]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2013/2356/regulation/21A) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [11](https://www.legislation.gov.uk/uksi/2026/226/regulation/11)

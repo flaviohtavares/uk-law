@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.29. Adjournment[^key-90237962cc16e891df85fed66371c292]
+## 6.29. Adjournment[^c-90237962cc16e891df85fed66371c292]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-90237962cc16e891df85fed66371c292]: Commencement: [Rule 6.29](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.29) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-90237962cc16e891df85fed66371c292]: Commencement: [Rule 6.29](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.29) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00137]: Marginal citation: \[FORM 6.23\]
 

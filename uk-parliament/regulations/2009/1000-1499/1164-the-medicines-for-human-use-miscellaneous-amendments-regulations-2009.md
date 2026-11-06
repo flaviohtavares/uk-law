@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 [^c19685671]. He is designated for the purposes of that section in relation to medicinal products [^c19685681].
 
-## 1. Citation and commencement[^key-fc93ddde2bfab7676f59a337d2bac93a]
+## 1. Citation and commencement[^c-fc93ddde2bfab7676f59a337d2bac93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 5 to the Medicines for Human Use (Marketing Authorisations Etc) Regulations 1994[^key-fc93ddde2bfab7676f59a337d2bac93a]
+## 2. Amendment of Schedule 5 to the Medicines for Human Use (Marketing Authorisations Etc) Regulations 1994[^c-fc93ddde2bfab7676f59a337d2bac93a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -72,7 +72,7 @@ For paragraph 2 of regulation 30 of the Medicines for Human Use (Clinical Trials
 
 .
 
-## 4. Amendment of regulation 8 of the Medicines for Human Use (Manufacturing, Wholesale Dealing and Miscellaneous Amendments) Regulations 2005[^key-892dd37c64de9e692371ec1eb4075c11]
+## 4. Amendment of regulation 8 of the Medicines for Human Use (Manufacturing, Wholesale Dealing and Miscellaneous Amendments) Regulations 2005[^c-892dd37c64de9e692371ec1eb4075c11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -102,8 +102,8 @@ An Impact Assessment has been prepared in respect of these Regulations which is 
 
 [^c19685681]: Marginal citation: [S.I.1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
 
-[^key-fc93ddde2bfab7676f59a337d2bac93a]: Textual amendment: Regs. 1, 2 revoked (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-fc93ddde2bfab7676f59a337d2bac93a]: Textual amendment: Regs. 1, 2 revoked (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
 [^c19685701]: Marginal citation: [S.I. 2004/1031](https://www.legislation.gov.uk/uksi/2004/1031).
 
-[^key-892dd37c64de9e692371ec1eb4075c11]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1164/regulation/4) revoked (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-892dd37c64de9e692371ec1eb4075c11]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/1164/regulation/4) revoked (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))

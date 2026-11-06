@@ -22,7 +22,7 @@ summary: ''
 
 1. An approval shall be required in respect of air traffic controller training organisations and aero-medical centres.
 
-2. The approval referred to in paragraph 1 of this Article shall be issued upon application, when the applicant has demonstrated that it complies with regulations made under[^key-607c2567e50d96a8a5906ff4beed35fa] Article 53 adopted to ensure compliance with the essential requirements referred to in Article 48.
+2. The approval referred to in paragraph 1 of this Article shall be issued upon application, when the applicant has demonstrated that it complies with regulations made under[^c-607c2567e50d96a8a5906ff4beed35fa] Article 53 adopted to ensure compliance with the essential requirements referred to in Article 48.
 
 3. The approval referred to in paragraph 1 of this Article shall specify the privileges granted to the organisation. The approval may be amended to add or remove privileges, in accordance with regulations made under point (a) of the first subparagraph of Article 53(1).
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-607c2567e50d96a8a5906ff4beed35fa]: Textual amendment: Words in [Art. 51](https://www.legislation.gov.uk/eur/2018/1139/article/51) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [127](https://www.legislation.gov.uk/uksi/2019/645/regulation/127) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-607c2567e50d96a8a5906ff4beed35fa]: Textual amendment: Words in [Art. 51](https://www.legislation.gov.uk/eur/2018/1139/article/51) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [127](https://www.legislation.gov.uk/uksi/2019/645/regulation/127) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

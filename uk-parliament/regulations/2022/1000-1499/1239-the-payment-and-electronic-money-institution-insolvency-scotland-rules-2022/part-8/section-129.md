@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 129. Remuneration of administrator[^key-d1b85e5508c7f8be2608e9dd05ddd390]
+## 129. Remuneration of administrator[^c-d1b85e5508c7f8be2608e9dd05ddd390]
 
 *Extent: S*
 
@@ -93,4 +93,4 @@ and the meeting must issue a determination in accordance with paragraph (9)(a)(i
 
 ## Annotations
 
-[^key-d1b85e5508c7f8be2608e9dd05ddd390]: Commencement: Rule 129 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-d1b85e5508c7f8be2608e9dd05ddd390]: Commencement: Rule 129 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

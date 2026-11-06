@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. The special restrictions[^key-b189e5f905565a34417ee65b22d03703]
+## 88. The special restrictions[^c-b189e5f905565a34417ee65b22d03703]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b189e5f905565a34417ee65b22d03703]: Commencement: S. 88 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-b189e5f905565a34417ee65b22d03703]: Commencement: S. 88 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

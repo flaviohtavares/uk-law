@@ -131,7 +131,7 @@ The Licensing (Northern Ireland) Order 1996 [^c17145581]
 - [Section 47 — Extension licences for sale, etc., of liquor in certain premises outside permitted hours](part-iii/section-47.md)
 - [Section 48 — Suitability of certain premises for functions](part-iii/section-48.md)
 
-#### Major event orders[^key-c5046bef552c64b6eccac69f4604ec97]
+#### Major event orders[^c-c5046bef552c64b6eccac69f4604ec97]
 
 - [Section 48A — Extension of permitted hours for major events](part-iii/section-48a.md)
 - [Section 48B — Major event order: conditions](part-iii/section-48b.md)
@@ -156,7 +156,7 @@ The Licensing (Northern Ireland) Order 1996 [^c17145581]
 - [Section 53 — International airports](part-iv/section-53.md)
 - [Section 54 — Seamen's canteens](part-iv/section-54.md)
 
-#### Self-service and vending machines[^key-fbfa52cbc5a021317b7d7b0f781b48c9]
+#### Self-service and vending machines[^c-fbfa52cbc5a021317b7d7b0f781b48c9]
 
 - [Section 54A — Prohibition on self-service and sales by vending machines](part-iv/section-54a.md)
 
@@ -198,13 +198,13 @@ The Licensing (Northern Ireland) Order 1996 [^c17145581]
 - [Section 68 — Prohibition of consumption, etc., of intoxicating liquor in certain premises](part-iv/section-68.md)
 - [Section 69 — Persons found on unlicensed premises, etc.](part-iv/section-69.md)
 
-### PART 4A — CLOSURE OF LICENSED PREMISES[^key-ef70bbf2419afa46388f7b74ad26523a]
+### PART 4A — CLOSURE OF LICENSED PREMISES[^c-ef70bbf2419afa46388f7b74ad26523a]
 
-#### Closure of licensed premises in an identified district[^key-ef70bbf2419afa46388f7b74ad26523a]
+#### Closure of licensed premises in an identified district[^c-ef70bbf2419afa46388f7b74ad26523a]
 
 - [Section 69A — Orders to close licensed premises in district experiencing disorder](part-4a/section-69a.md)
 
-#### Closure of identified licensed premises[^key-ef70bbf2419afa46388f7b74ad26523a]
+#### Closure of identified licensed premises[^c-ef70bbf2419afa46388f7b74ad26523a]
 
 - [Section 69B — Closure orders for identified licensed premises](part-4a/section-69b.md)
 - [Section 69C — Extension of closure order](part-4a/section-69c.md)
@@ -215,7 +215,7 @@ The Licensing (Northern Ireland) Order 1996 [^c17145581]
 - [Section 69H — Enforcement of closure order](part-4a/section-69h.md)
 - [Section 69I — Exemption of police from liability for damages](part-4a/section-69i.md)
 
-#### Interpretation[^key-ef70bbf2419afa46388f7b74ad26523a]
+#### Interpretation[^c-ef70bbf2419afa46388f7b74ad26523a]
 
 - [Section 69J — Interpretation of Part 4A](part-4a/section-69j.md)
 
@@ -226,7 +226,7 @@ The Licensing (Northern Ireland) Order 1996 [^c17145581]
 - [Section 70 — Production of licence](part-v/section-70.md)
 - [Section 71 — Provision for inspection and rights of entry](part-v/section-71.md)
 
-#### Penalty points[^key-a6c4ce958fbaf25522cc9cbe161e2052]
+#### Penalty points[^c-a6c4ce958fbaf25522cc9cbe161e2052]
 
 - [Section 71A — Penalty points to be attributed to an offence](part-v/section-71a.md)
 - [Section 71B — Endorsement of licences](part-v/section-71b.md)
@@ -240,31 +240,31 @@ The Licensing (Northern Ireland) Order 1996 [^c17145581]
 - [Section 75 — Procedure in connection with suspension](part-v/section-75.md)
 - [Section 76 — Appeals against suspension of licence, etc.](part-v/section-76.md)
 
-### PART 5A — PAVEMENT CAFE AREAS[^key-c7902ac677d6b2dbac1995d389a6d294]
+### PART 5A — PAVEMENT CAFE AREAS[^c-c7902ac677d6b2dbac1995d389a6d294]
 
-#### Pavement café areas: definitions[^key-c7902ac677d6b2dbac1995d389a6d294]
+#### Pavement café areas: definitions[^c-c7902ac677d6b2dbac1995d389a6d294]
 
 - [Section 76A](part-5a/section-76a.md)
 
-#### Sale for consumption on pavement café area not prohibited by Article 5(3)(b) or 51 in certain cases[^key-c7902ac677d6b2dbac1995d389a6d294]
+#### Sale for consumption on pavement café area not prohibited by Article 5(3)(b) or 51 in certain cases[^c-c7902ac677d6b2dbac1995d389a6d294]
 
 - [Section 76B](part-5a/section-76b.md)
 
-#### Pavement café area where consumption permitted: hours, conduct etc.[^key-c7902ac677d6b2dbac1995d389a6d294]
+#### Pavement café area where consumption permitted: hours, conduct etc.[^c-c7902ac677d6b2dbac1995d389a6d294]
 
 - [Section 76C](part-5a/section-76c.md)
 
-#### Young persons prohibited from certain pavement café areas[^key-c7902ac677d6b2dbac1995d389a6d294]
+#### Young persons prohibited from certain pavement café areas[^c-c7902ac677d6b2dbac1995d389a6d294]
 
 - [Section 76D](part-5a/section-76d.md)
 
-#### Off-licence: penalty for consumption on pavement café area[^key-c7902ac677d6b2dbac1995d389a6d294]
+#### Off-licence: penalty for consumption on pavement café area[^c-c7902ac677d6b2dbac1995d389a6d294]
 
 - [Section 76E](part-5a/section-76e.md)
 
 ### PART VI — MISCELLANEOUS
 
-#### Code of practice[^key-acb7a04cafb1086b18e62e7958d0c6df]
+#### Code of practice[^c-acb7a04cafb1086b18e62e7958d0c6df]
 
 - [Section 76F — Code of practice](part-vi/section-76f.md)
 
@@ -272,7 +272,7 @@ The Licensing (Northern Ireland) Order 1996 [^c17145581]
 
 - [Section 77 — Special provisions with respect to grant or renewal of licences for seamen's canteens](part-vi/section-77.md)
 
-#### Indoor arenas and outdoor stadia[^key-7a781aab2860f460a2c53cd3f5d1b1ac][^c17145931]
+#### Indoor arenas and outdoor stadia[^c-7a781aab2860f460a2c53cd3f5d1b1ac][^c17145931]
 
 *Extent: N.I.*
 
@@ -324,18 +324,18 @@ SCHEDULES
 
 [^c17145581]: Textual amendment: functions transf. by SR 1999/481
 
-[^key-c5046bef552c64b6eccac69f4604ec97]: Textual amendment: [Arts. 48A](https://www.legislation.gov.uk/nisi/1996/3158/article/48A), [48B](https://www.legislation.gov.uk/nisi/1996/3158/article/48B) and cross-heading inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 7(1)](https://www.legislation.gov.uk/nia/2021/7/section/7/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-c5046bef552c64b6eccac69f4604ec97]: Textual amendment: [Arts. 48A](https://www.legislation.gov.uk/nisi/1996/3158/article/48A), [48B](https://www.legislation.gov.uk/nisi/1996/3158/article/48B) and cross-heading inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 7(1)](https://www.legislation.gov.uk/nia/2021/7/section/7/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
 
-[^key-fbfa52cbc5a021317b7d7b0f781b48c9]: Textual amendment: [Art. 54A](https://www.legislation.gov.uk/nisi/1996/3158/article/54A) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 18(1)](https://www.legislation.gov.uk/nia/2021/7/section/18/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-fbfa52cbc5a021317b7d7b0f781b48c9]: Textual amendment: [Art. 54A](https://www.legislation.gov.uk/nisi/1996/3158/article/54A) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 18(1)](https://www.legislation.gov.uk/nia/2021/7/section/18/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
 
-[^key-ef70bbf2419afa46388f7b74ad26523a]: Textual amendment: Pt. 4A inserted (10.12.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 1(1)](https://www.legislation.gov.uk/nia/2011/18/section/1/1), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
+[^c-ef70bbf2419afa46388f7b74ad26523a]: Textual amendment: Pt. 4A inserted (10.12.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 1(1)](https://www.legislation.gov.uk/nia/2011/18/section/1/1), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
 
-[^key-a6c4ce958fbaf25522cc9cbe161e2052]: Textual amendment: Arts. 71A-71C and cross-heading inserted (1.5.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 2(1)](https://www.legislation.gov.uk/nia/2011/18/section/2/1), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
+[^c-a6c4ce958fbaf25522cc9cbe161e2052]: Textual amendment: Arts. 71A-71C and cross-heading inserted (1.5.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 2(1)](https://www.legislation.gov.uk/nia/2011/18/section/2/1), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
 
-[^key-c7902ac677d6b2dbac1995d389a6d294]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/nisi/1996/3158/part/5A) inserted (1.10.2016) by [Licensing of Pavement Cafes Act (Northern Ireland) 2014 (c. 9)](https://www.legislation.gov.uk/nia/2014/9), [s. 32(1)](https://www.legislation.gov.uk/nia/2014/9/section/32/1), [Sch. para. 2](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/2); [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
+[^c-c7902ac677d6b2dbac1995d389a6d294]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/nisi/1996/3158/part/5A) inserted (1.10.2016) by [Licensing of Pavement Cafes Act (Northern Ireland) 2014 (c. 9)](https://www.legislation.gov.uk/nia/2014/9), [s. 32(1)](https://www.legislation.gov.uk/nia/2014/9/section/32/1), [Sch. para. 2](https://www.legislation.gov.uk/nia/2014/9/schedule/paragraph/2); [S.R. 2016/126](https://www.legislation.gov.uk/nisr/2016/126), [art. 2](https://www.legislation.gov.uk/nisr/2016/126/article/2)
 
-[^key-acb7a04cafb1086b18e62e7958d0c6df]: Textual amendment: [Art. 76F](https://www.legislation.gov.uk/nisi/1996/3158/article/76F) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 25(1)](https://www.legislation.gov.uk/nia/2021/7/section/25/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-acb7a04cafb1086b18e62e7958d0c6df]: Textual amendment: [Art. 76F](https://www.legislation.gov.uk/nisi/1996/3158/article/76F) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 25(1)](https://www.legislation.gov.uk/nia/2021/7/section/25/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
 
-[^key-7a781aab2860f460a2c53cd3f5d1b1ac]: Textual amendment: Art. 77A cross-heading substituted (1.9.2016) by [Licensing Act (Northern Ireland) 2016 (c. 24)](https://www.legislation.gov.uk/nia/2016/24), [ss. 4(3)](https://www.legislation.gov.uk/nia/2016/24/section/4/3), 8(1)
+[^c-7a781aab2860f460a2c53cd3f5d1b1ac]: Textual amendment: Art. 77A cross-heading substituted (1.9.2016) by [Licensing Act (Northern Ireland) 2016 (c. 24)](https://www.legislation.gov.uk/nia/2016/24), [ss. 4(3)](https://www.legislation.gov.uk/nia/2016/24/section/4/3), 8(1)
 
 [^c17145931]: Textual amendment: [2004 NI 17](https://www.legislation.gov.uk/nisi/2004)

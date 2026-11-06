@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-1809e473218d0527e148a95e25f935e6]
+## 2. Interpretation[^c-1809e473218d0527e148a95e25f935e6]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 - “**carriageway**” has the same meaning as in section 329(1) of the 1980 Act;
 - “**classification of roads plans**” means the document of that description listed in Schedule 10 (documents to be certified) and certified by the Secretary of State as the classification of road plans for the purposes of this Order;
 - “**commence**” means beginning to carry out any material operation (as defined in section 56(4)(a) of the 1990 Act) forming part of the authorised development other than an operation consisting of pre-commencement works, and “**commencement**” is to be construed accordingly;
-- “**cycle track**” has the same meaning as in section 329(1)[^f00023] of the 1980 Act , save that all cycle tracks in this Order provide for a right of way on foot[^key-18b2c097f8e085a2304d3a319155059e];
+- “**cycle track**” has the same meaning as in section 329(1)[^f00023] of the 1980 Act , save that all cycle tracks in this Order provide for a right of way on foot[^c-18b2c097f8e085a2304d3a319155059e];
 - “**Crown land plans**” means the plans listed in Schedule 10 (documents to be certified) and certified by the Secretary of State as the Crown land plans for the purposes of this Order;
 - “**electronic transmission**” means a communication transmitted—
   - (a) by means of an electronic communications network; or
@@ -126,11 +126,11 @@ and in this definition “**electronic communications network**” has the same 
 
 (9) References in this Order to the expression “includes” may be construed without limitation, unless so construing would give rise to any materially new or materially different environmental effects in comparison with those reported in the environmental statement.
 
-(10)[^key-b9600b4c34021a1a6d4aa3bfedfcea58] References to any statutory body includes a body’s successor or replacement body that may from time to time be primarily responsible for the functions duties and responsibilities currently exercised by that statutory body over the authorised development.
+(10)[^c-b9600b4c34021a1a6d4aa3bfedfcea58] References to any statutory body includes a body’s successor or replacement body that may from time to time be primarily responsible for the functions duties and responsibilities currently exercised by that statutory body over the authorised development.
 
 ## Annotations
 
-[^key-1809e473218d0527e148a95e25f935e6]: Commencement: Art. 2 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-1809e473218d0527e148a95e25f935e6]: Commencement: Art. 2 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
 [^f00014]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -152,7 +152,7 @@ and in this definition “**electronic communications network**” has the same 
 
 [^f00023]: Footnote: The definition of “cycle track” in section 329(1) of the 1980 Act was amended by section 1 of the Cycle Tracks Act [1984 (c. 38)](https://www.legislation.gov.uk/ukpga/1984/38) and paragraph 21(2) of Schedule 3 to the Road Traffic (Consequential Provisions) Act [1988 (c. 54)](https://www.legislation.gov.uk/ukpga/1988/54).
 
-[^key-18b2c097f8e085a2304d3a319155059e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1090/article/2/1) inserted (12.1.2026) by [The A46 Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)
+[^c-18b2c097f8e085a2304d3a319155059e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1090/article/2/1) inserted (12.1.2026) by [The A46 Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)
 
 [^f00024]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Section 32(1) was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
@@ -172,4 +172,4 @@ and in this definition “**electronic communications network**” has the same 
 
 [^f00032]: Footnote: Section 19(1) was amended by paragraph 15 of Schedule 1 to, the Infrastructure Act 2015.
 
-[^key-b9600b4c34021a1a6d4aa3bfedfcea58]: Textual amendment: [Art. 2(10)](https://www.legislation.gov.uk/uksi/2025/1090/article/2/10) inserted (12.1.2026) by [The A46 Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)
+[^c-b9600b4c34021a1a6d4aa3bfedfcea58]: Textual amendment: [Art. 2(10)](https://www.legislation.gov.uk/uksi/2025/1090/article/2/10) inserted (12.1.2026) by [The A46 Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)

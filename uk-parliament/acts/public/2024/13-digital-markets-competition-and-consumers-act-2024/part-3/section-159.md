@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Interim enforcement orders and undertakings[^key-b44955de9dacbbee1e5b53c17b9a6cbf][^key-7422575b82f3f27d59555feacf5fb81b]
+## 159. Interim enforcement orders and undertakings[^c-b44955de9dacbbee1e5b53c17b9a6cbf][^c-7422575b82f3f27d59555feacf5fb81b]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b44955de9dacbbee1e5b53c17b9a6cbf]: Commencement: S. 159 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-b44955de9dacbbee1e5b53c17b9a6cbf]: Commencement: S. 159 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-7422575b82f3f27d59555feacf5fb81b]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2024/13/section/159) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-7422575b82f3f27d59555feacf5fb81b]: Commencement: [S. 159](https://www.legislation.gov.uk/ukpga/2024/13/section/159) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

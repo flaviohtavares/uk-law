@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Saving for undertaker's highway and planning functions[^key-4d87e56e4eaac3270a6aa8d2dd1df6cf]
+## 51. Saving for undertaker's highway and planning functions[^c-4d87e56e4eaac3270a6aa8d2dd1df6cf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Except as expressly provided, nothing in this Order is to prejudice the rights, 
 
 ## Annotations
 
-[^key-4d87e56e4eaac3270a6aa8d2dd1df6cf]: Commencement: Art. 51 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-4d87e56e4eaac3270a6aa8d2dd1df6cf]: Commencement: Art. 51 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 85. Cost of calculations for transfer of AVCs or SCAVCs into the Scheme where no transfer is requested[^key-71a90f4794ba8d10e92ec7212cd48d19]
+## 85. Cost of calculations for transfer of AVCs or SCAVCs into the Scheme where no transfer is requested[^c-71a90f4794ba8d10e92ec7212cd48d19]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ they may deduct the cost of calculating the transfer value from the accumulated 
 
 ## Annotations
 
-[^key-71a90f4794ba8d10e92ec7212cd48d19]: Commencement: Reg. 85 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-71a90f4794ba8d10e92ec7212cd48d19]: Commencement: Reg. 85 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

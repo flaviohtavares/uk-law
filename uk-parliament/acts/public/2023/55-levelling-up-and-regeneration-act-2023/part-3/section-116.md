@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Duration of temporary stop notices[^key-b38697077841694edc5ab5229c5fc352][^key-cd725086b8d9f4923ae31c24ec197b36]
+## 116. Duration of temporary stop notices[^c-b38697077841694edc5ab5229c5fc352][^c-cd725086b8d9f4923ae31c24ec197b36]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b38697077841694edc5ab5229c5fc352]: Commencement: S. 116 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-b38697077841694edc5ab5229c5fc352]: Commencement: S. 116 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-cd725086b8d9f4923ae31c24ec197b36]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2023/55/section/116) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/452/regulation/6))
+[^c-cd725086b8d9f4923ae31c24ec197b36]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2023/55/section/116) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/452/regulation/6))

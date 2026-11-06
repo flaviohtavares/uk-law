@@ -31,10 +31,10 @@ Commission Regulation (EC) No 2630/2000
 
 of 30 November 2000 amending Council Regulation (EC) No 1420/1999 establishing common rules and procedures to apply to shipments of certain types of waste from the European Community to Bahrain, Haiti, Honduras, Libya, Namibia, Qatar, Uzbekistan and the Vatican City (Text with EEA relevance) (revoked)
 
-[^key-b821bf831076fa39fd2a19b44ab7e9e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b821bf831076fa39fd2a19b44ab7e9e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-b821bf831076fa39fd2a19b44ab7e9e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-b821bf831076fa39fd2a19b44ab7e9e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b821bf831076fa39fd2a19b44ab7e9e8]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-b821bf831076fa39fd2a19b44ab7e9e8]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

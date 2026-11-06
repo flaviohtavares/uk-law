@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Lodging of application[^key-49cdacf192c13bc26988c549cb0eacd3]
+## 8. Lodging of application[^c-49cdacf192c13bc26988c549cb0eacd3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The application and its accompanying documents must be lodged with the court.
 
 ## Annotations
 
-[^key-49cdacf192c13bc26988c549cb0eacd3]: Commencement: Rule 8 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-49cdacf192c13bc26988c549cb0eacd3]: Commencement: Rule 8 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

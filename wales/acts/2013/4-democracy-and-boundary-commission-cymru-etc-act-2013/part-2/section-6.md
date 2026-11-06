@@ -22,7 +22,7 @@ summary: ''
 
 (1) The quorum for meetings of the Commission is 3.
 
-(1A)[^key-7d417b9bf4bd7b22d275ad8a44575b59] The Welsh Ministers may by regulations amend subsection (1) to change the quorum, but may not change the quorum to a number which is lower than 3.
+(1A)[^c-7d417b9bf4bd7b22d275ad8a44575b59] The Welsh Ministers may by regulations amend subsection (1) to change the quorum, but may not change the quorum to a number which is lower than 3.
 
 (2) The Commission may otherwise regulate its own procedure.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d417b9bf4bd7b22d275ad8a44575b59]: Textual amendment: S. 6(1A) inserted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 15](https://www.legislation.gov.uk/asc/2024/4/section/15), [25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)
+[^c-7d417b9bf4bd7b22d275ad8a44575b59]: Textual amendment: S. 6(1A) inserted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 15](https://www.legislation.gov.uk/asc/2024/4/section/15), [25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)

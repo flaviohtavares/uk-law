@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Care provider offence: excluded care providers[^key-797e9671e502fb91a659710553b1509e]
+## 22. Care provider offence: excluded care providers[^c-797e9671e502fb91a659710553b1509e]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 (5) A person is not a care provider for the purposes of section 21 to the extent that the person carries out a function of a local authority in Wales mentioned in subsection (4) in respect of which any of the following has effect—
 
-- (a) a direction under section 107 of the Local Government and Elections (Wales) Act 2021 (asc 1) (direction that a function be performed by the Welsh Ministers or their nominee)[^key-78cc8c924f877270c1f5acb557f74dcd];
+- (a) a direction under section 107 of the Local Government and Elections (Wales) Act 2021 (asc 1) (direction that a function be performed by the Welsh Ministers or their nominee)[^c-78cc8c924f877270c1f5acb557f74dcd];
 - (b) a direction under section 25 or 26 of the School Standards and Organisation (Wales) Act 2013 (anaw 1) (powers of Welsh Ministers to direct education functions to be carried out by another person);
 - (c) a direction under section 154 or 155 of the Social Services and Well-Being (Wales) Act 2014 (anaw 4) (powers of Welsh Ministers to direct social services functions to be carried out by another person).
 
@@ -51,15 +51,15 @@ summary: ''
 (8) In this section—
 
 - “**child**” has the same meaning as in section 20;
-- “**registered adoption society**” means an adoption society (as defined in section 2 of the Adoption and Children Act 2002) which is a voluntary organisation (as defined in that section) and in respect of which a person is registered under Part 2 of the Care Standards Act 2000 or Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)[^key-35557b9e03bbcae550aebf924c786217];
-- “**registered adoption support agency**” means an adoption support agency (as defined in section 8 of the Adoption and Children Act 2002) in respect of which a person is registered under Part 2 of the Care Standards Act 2000 or Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016[^key-24d787cd964dd65ce9494414b39d396b].
+- “**registered adoption society**” means an adoption society (as defined in section 2 of the Adoption and Children Act 2002) which is a voluntary organisation (as defined in that section) and in respect of which a person is registered under Part 2 of the Care Standards Act 2000 or Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)[^c-35557b9e03bbcae550aebf924c786217];
+- “**registered adoption support agency**” means an adoption support agency (as defined in section 8 of the Adoption and Children Act 2002) in respect of which a person is registered under Part 2 of the Care Standards Act 2000 or Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016[^c-24d787cd964dd65ce9494414b39d396b].
 
 ## Annotations
 
-[^key-797e9671e502fb91a659710553b1509e]: Commencement: S. 22 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/18)
+[^c-797e9671e502fb91a659710553b1509e]: Commencement: S. 22 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/18)
 
-[^key-78cc8c924f877270c1f5acb557f74dcd]: Textual amendment: Words in s. 22(5)(a) substituted (1.4.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296)](https://www.legislation.gov.uk/wsi/2021/296), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2021/296/regulation/10)
+[^c-78cc8c924f877270c1f5acb557f74dcd]: Textual amendment: Words in s. 22(5)(a) substituted (1.4.2021) by [The Local Government and Elections (Wales) Act 2021 (Consequential Amendments) Regulations 2021 (S.I. 2021/296)](https://www.legislation.gov.uk/wsi/2021/296), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/296/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2021/296/regulation/10)
 
-[^key-35557b9e03bbcae550aebf924c786217]: Textual amendment: Words in s. 22(8) inserted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2019 (S.I. 2019/772)](https://www.legislation.gov.uk/wsi/2019/772), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/772/regulation/1/2), [31(a)](https://www.legislation.gov.uk/wsi/2019/772/regulation/31/a)
+[^c-35557b9e03bbcae550aebf924c786217]: Textual amendment: Words in s. 22(8) inserted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2019 (S.I. 2019/772)](https://www.legislation.gov.uk/wsi/2019/772), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/772/regulation/1/2), [31(a)](https://www.legislation.gov.uk/wsi/2019/772/regulation/31/a)
 
-[^key-24d787cd964dd65ce9494414b39d396b]: Textual amendment: Words in s. 22(8) inserted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2019 (S.I. 2019/772)](https://www.legislation.gov.uk/wsi/2019/772), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/772/regulation/1/2), [31(b)](https://www.legislation.gov.uk/wsi/2019/772/regulation/31/b)
+[^c-24d787cd964dd65ce9494414b39d396b]: Textual amendment: Words in s. 22(8) inserted (29.4.2019) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2019 (S.I. 2019/772)](https://www.legislation.gov.uk/wsi/2019/772), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/772/regulation/1/2), [31(b)](https://www.legislation.gov.uk/wsi/2019/772/regulation/31/b)

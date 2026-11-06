@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Requirements, appeals, etc.[^key-f2de9734cfc460792221e08f72b776ba]
+## 38. Requirements, appeals, etc.[^c-f2de9734cfc460792221e08f72b776ba]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 16 (procedure for discharge of requirements) has effect in relation to 
 
 ## Annotations
 
-[^key-f2de9734cfc460792221e08f72b776ba]: Commencement: Art. 38 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-f2de9734cfc460792221e08f72b776ba]: Commencement: Art. 38 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)

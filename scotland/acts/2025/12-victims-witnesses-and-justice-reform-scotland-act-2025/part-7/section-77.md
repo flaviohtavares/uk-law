@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. President and Vice President: incapacity and suspension[^key-a66c763120dd7c0f715861bfdc1ff3b0]
+## 77. President and Vice President: incapacity and suspension[^c-a66c763120dd7c0f715861bfdc1ff3b0]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a66c763120dd7c0f715861bfdc1ff3b0]: Commencement: S. 77 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-a66c763120dd7c0f715861bfdc1ff3b0]: Commencement: S. 77 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

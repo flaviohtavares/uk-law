@@ -42,14 +42,14 @@ to pay any amount due from him or it by way of general betting duty or pool bett
 
 (5) Subject to paragraphs (6) and (7), the following persons shall be disqualified for obtaining or holding a bookmaker's licence—
 
-- (a) a person under the age of 18[^key-35b5a96ee7ee5f96f851c3270d9f2679];
-- (b)[^key-6b69747fff1ee1dde365cf6fa1af54b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-0adc7d6518debe2cd5fdd5dcecf5b243] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-18462431c1718f3d5054ffc0fa73d113] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a person under the age of 18[^c-35b5a96ee7ee5f96f851c3270d9f2679];
+- (b)[^c-6b69747fff1ee1dde365cf6fa1af54b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-0adc7d6518debe2cd5fdd5dcecf5b243] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-18462431c1718f3d5054ffc0fa73d113] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-016814683c16089d4e993b760d9b8b43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-016814683c16089d4e993b760d9b8b43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-f607a11325047838b453d32b03686b44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f607a11325047838b453d32b03686b44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) A bookmaker's licence purporting to be held by any person
 
@@ -62,14 +62,14 @@ is void.
 
 [^c17000421]: Textual amendment: [1986 c. 41](https://www.legislation.gov.uk/ukpga/1986/41)
 
-[^key-35b5a96ee7ee5f96f851c3270d9f2679]: Textual amendment: Word in [art. 7(5)(a)](https://www.legislation.gov.uk/nisi/1985/1204/article/7/5/a) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(1)(a)](https://www.legislation.gov.uk/nia/2022/14/section/11/1/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-35b5a96ee7ee5f96f851c3270d9f2679]: Textual amendment: Word in [art. 7(5)(a)](https://www.legislation.gov.uk/nisi/1985/1204/article/7/5/a) substituted (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(1)(a)](https://www.legislation.gov.uk/nia/2022/14/section/11/1/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-6b69747fff1ee1dde365cf6fa1af54b2]: Textual amendment: [Art. 7(5)(b)](https://www.legislation.gov.uk/nisi/1985/1204/article/7/5/b) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(2)(a)](https://www.legislation.gov.uk/nia/2022/14/section/11/2/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-6b69747fff1ee1dde365cf6fa1af54b2]: Textual amendment: [Art. 7(5)(b)](https://www.legislation.gov.uk/nisi/1985/1204/article/7/5/b) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(2)(a)](https://www.legislation.gov.uk/nia/2022/14/section/11/2/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-0adc7d6518debe2cd5fdd5dcecf5b243]: Textual amendment: [Art. 7(5)(c)](https://www.legislation.gov.uk/nisi/1985/1204/article/7/5/c) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(2)(a)](https://www.legislation.gov.uk/nia/2022/14/section/11/2/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-0adc7d6518debe2cd5fdd5dcecf5b243]: Textual amendment: [Art. 7(5)(c)](https://www.legislation.gov.uk/nisi/1985/1204/article/7/5/c) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(2)(a)](https://www.legislation.gov.uk/nia/2022/14/section/11/2/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-18462431c1718f3d5054ffc0fa73d113]: Textual amendment: [Art. 7(5)(d)](https://www.legislation.gov.uk/nisi/1985/1204/article/7/5/d) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(3)(a)](https://www.legislation.gov.uk/nia/2022/14/section/11/3/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-18462431c1718f3d5054ffc0fa73d113]: Textual amendment: [Art. 7(5)(d)](https://www.legislation.gov.uk/nisi/1985/1204/article/7/5/d) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(3)(a)](https://www.legislation.gov.uk/nia/2022/14/section/11/3/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-016814683c16089d4e993b760d9b8b43]: Textual amendment: [Art. 7(6)](https://www.legislation.gov.uk/nisi/1985/1204/article/7/6) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(3)(a)](https://www.legislation.gov.uk/nia/2022/14/section/11/3/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-016814683c16089d4e993b760d9b8b43]: Textual amendment: [Art. 7(6)](https://www.legislation.gov.uk/nisi/1985/1204/article/7/6) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(3)(a)](https://www.legislation.gov.uk/nia/2022/14/section/11/3/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
 
-[^key-f607a11325047838b453d32b03686b44]: Textual amendment: [Art. 7(7)](https://www.legislation.gov.uk/nisi/1985/1204/article/7/7) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(2)(a)](https://www.legislation.gov.uk/nia/2022/14/section/11/2/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)
+[^c-f607a11325047838b453d32b03686b44]: Textual amendment: [Art. 7(7)](https://www.legislation.gov.uk/nisi/1985/1204/article/7/7) repealed (27.4.2022) by [Betting, Gaming, Lotteries and Amusements (Amendment) Act (Northern Ireland) 2022 (c. 14)](https://www.legislation.gov.uk/nia/2022/14), [ss. 11(2)(a)](https://www.legislation.gov.uk/nia/2022/14/section/11/2/a), [17(2)](https://www.legislation.gov.uk/nia/2022/14/section/17/2)

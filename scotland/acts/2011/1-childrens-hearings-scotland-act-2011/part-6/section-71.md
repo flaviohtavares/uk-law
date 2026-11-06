@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Case remitted under section 49 of Criminal Procedure (Scotland) Act 1995[^key-22755643e8a80bba1368e6963530d817]
+## 71. Case remitted under section 49 of Criminal Procedure (Scotland) Act 1995[^c-22755643e8a80bba1368e6963530d817]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22755643e8a80bba1368e6963530d817]: Commencement: S. 71 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-22755643e8a80bba1368e6963530d817]: Commencement: S. 71 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

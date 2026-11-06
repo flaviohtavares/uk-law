@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.12. Proceedings commenced in wrong court[^key-b39b184ce56690fac8dd30b56a7eea19]
+## 7.12. Proceedings commenced in wrong court[^c-b39b184ce56690fac8dd30b56a7eea19]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Where winding-up or bankruptcy proceedings are commenced in a court which is, in
 
 ## Annotations
 
-[^key-b39b184ce56690fac8dd30b56a7eea19]: Commencement: [Rule 7.12](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.12) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b39b184ce56690fac8dd30b56a7eea19]: Commencement: [Rule 7.12](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.12) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

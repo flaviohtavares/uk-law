@@ -30,7 +30,7 @@ summary: ''
 
 CUSTOMS AND EXCISE
 
-The Alcoholic Liquor (Amendment of Units of Measurement) Order 1992 (revoked)[^key-70ab02ea67ec3f5e6f44937e2c889e8a]
+The Alcoholic Liquor (Amendment of Units of Measurement) Order 1992 (revoked)[^c-70ab02ea67ec3f5e6f44937e2c889e8a]
 
 Made
 
@@ -44,22 +44,22 @@ Coming into force
 
 31st August 1992
 
-[^key-70ab02ea67ec3f5e6f44937e2c889e8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70ab02ea67ec3f5e6f44937e2c889e8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-70ab02ea67ec3f5e6f44937e2c889e8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-70ab02ea67ec3f5e6f44937e2c889e8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-70ab02ea67ec3f5e6f44937e2c889e8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-70ab02ea67ec3f5e6f44937e2c889e8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-70ab02ea67ec3f5e6f44937e2c889e8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-70ab02ea67ec3f5e6f44937e2c889e8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-70ab02ea67ec3f5e6f44937e2c889e8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70ab02ea67ec3f5e6f44937e2c889e8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-70ab02ea67ec3f5e6f44937e2c889e8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70ab02ea67ec3f5e6f44937e2c889e8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-70ab02ea67ec3f5e6f44937e2c889e8a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1992/1917) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-70ab02ea67ec3f5e6f44937e2c889e8a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1992/1917) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)

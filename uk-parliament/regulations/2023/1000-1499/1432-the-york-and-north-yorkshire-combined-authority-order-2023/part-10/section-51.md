@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Secondments[^key-cad850fabe3045c1372689b963c60eaa]
+## 51. Secondments[^c-cad850fabe3045c1372689b963c60eaa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In the case of a person who, immediately before 7th May 2024 is seconded to the 
 
 ## Annotations
 
-[^key-cad850fabe3045c1372689b963c60eaa]: Commencement: Art. 51 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-cad850fabe3045c1372689b963c60eaa]: Commencement: Art. 51 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

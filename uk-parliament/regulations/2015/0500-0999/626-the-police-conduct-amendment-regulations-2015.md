@@ -32,7 +32,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police (Conduct) (Amendment) Regulations 2015 (revoked)[^key-7bd866502c898d1a474c620f199744eb]
+The Police (Conduct) (Amendment) Regulations 2015 (revoked)[^c-7bd866502c898d1a474c620f199744eb]
 
 Made
 
@@ -44,62 +44,62 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-7bd866502c898d1a474c620f199744eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7bd866502c898d1a474c620f199744eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-7bd866502c898d1a474c620f199744eb]
+## 1. Citation, commencement and interpretation[^c-7bd866502c898d1a474c620f199744eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Police (Conduct) Regulations 2012[^key-7bd866502c898d1a474c620f199744eb]
+## 2. Amendment to the Police (Conduct) Regulations 2012[^c-7bd866502c898d1a474c620f199744eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-7bd866502c898d1a474c620f199744eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Transitional provisions[^key-7bd866502c898d1a474c620f199744eb]
+## 20. Transitional provisions[^c-7bd866502c898d1a474c620f199744eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7bd866502c898d1a474c620f199744eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7bd866502c898d1a474c620f199744eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7bd866502c898d1a474c620f199744eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7bd866502c898d1a474c620f199744eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7bd866502c898d1a474c620f199744eb]: Textual amendment: Regulations revoked (1.2.2020) by [The Police (Conduct) Regulations 2020 (S.I. 2020/4)](https://www.legislation.gov.uk/uksi/2020/4), [regs. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/1/c) (with transitional provisions in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/2) and with [reg. 4](https://www.legislation.gov.uk/uksi/2020/4/regulation/4))
+[^c-7bd866502c898d1a474c620f199744eb]: Textual amendment: Regulations revoked (1.2.2020) by [The Police (Conduct) Regulations 2020 (S.I. 2020/4)](https://www.legislation.gov.uk/uksi/2020/4), [regs. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/1/c) (with transitional provisions in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/4/regulation/3/2) and with [reg. 4](https://www.legislation.gov.uk/uksi/2020/4/regulation/4))

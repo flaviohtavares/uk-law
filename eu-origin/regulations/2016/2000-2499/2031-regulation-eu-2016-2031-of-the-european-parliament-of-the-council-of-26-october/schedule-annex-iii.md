@@ -23,7 +23,7 @@ summary: ''
 The criteria to be taken into account for the assessment referred to in Article 42 are the following:
 
 - ((1)) as regards plants for planting other than seeds:
-  - ((a)) they are introduced into Great Britain[^key-86439a09b42c819f444b9a359fd38bd0] usually in the form of a shrub or tree or they are present in Great Britain[^key-a9cce9923cfe2282cccfefc5ace95e11] in such form or are taxonomically related to such plants;
+  - ((a)) they are introduced into Great Britain[^c-86439a09b42c819f444b9a359fd38bd0] usually in the form of a shrub or tree or they are present in Great Britain[^c-a9cce9923cfe2282cccfefc5ace95e11] in such form or are taxonomically related to such plants;
   - ((b)) they are collected in the wild or grown from plants collected in the wild;
   - ((c)) they are grown outdoors or grown from plants grown outdoors in the third countries, group of third countries or specific areas of third countries concerned;
   - ((d)) they are known to host commonly hosted pests known to have a major impact on plant species which are of major economic, social or environmental importance to Great Britain;
@@ -35,6 +35,6 @@ The criteria to be taken into account for the assessment referred to in Article 
 
 ## Annotations
 
-[^key-86439a09b42c819f444b9a359fd38bd0]: Textual amendment: Words in Annex 3 point (1)(a) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [38(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/38/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-86439a09b42c819f444b9a359fd38bd0]: Textual amendment: Words in Annex 3 point (1)(a) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [38(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/38/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-a9cce9923cfe2282cccfefc5ace95e11]: Textual amendment: Words in Annex 3 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [38(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/38/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-a9cce9923cfe2282cccfefc5ace95e11]: Textual amendment: Words in Annex 3 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [38(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/38/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

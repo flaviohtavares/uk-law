@@ -22,13 +22,13 @@ summary: ''
 
 Section 280(1)
 
-### ...[^key-da5e2e35b4869d4e129d8d5a0221ef8a]
+### ...[^c-da5e2e35b4869d4e129d8d5a0221ef8a]
 
 **Not yet in force.**
 
-**1.**[^key-da5e2e35b4869d4e129d8d5a0221ef8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-da5e2e35b4869d4e129d8d5a0221ef8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-da5e2e35b4869d4e129d8d5a0221ef8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-da5e2e35b4869d4e129d8d5a0221ef8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Railway Regulation Act 1842 (c. 55)
 
@@ -164,7 +164,7 @@ Section 280(1)
 
 **Not yet in force.**
 
-**28.** An offence under section 12 of the Agricultural Wages Act 1948 (hindering investigation of complaints etc.). *(affected by repeal, see note)*[^key-bd508f3e4e8b0218671a298f4eca75df]
+**28.** An offence under section 12 of the Agricultural Wages Act 1948 (hindering investigation of complaints etc.). *(affected by repeal, see note)*[^c-bd508f3e4e8b0218671a298f4eca75df]
 
 ### Wireless Telegraphy Act 1949 (c. 54)
 
@@ -300,9 +300,9 @@ Section 280(1)
 
 **Not yet in force.**
 
-**60.**[^key-fe1a968213e93cfe44fc050fd4fa8a10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-fe1a968213e93cfe44fc050fd4fa8a10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**61.**[^key-4bbc48abddbfe70fca7330f78a7ad5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**61.**[^c-4bbc48abddbfe70fca7330f78a7ad5a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Cereals Marketing Act 1965 (c. 14)
 
@@ -360,7 +360,7 @@ Section 280(1)
 
 **Not yet in force.**
 
-**72.**[^key-48bb0acee19fcf9104b93b4725039f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**72.**[^c-48bb0acee19fcf9104b93b4725039f06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Slaughterhouses Act 1974 (c. 3)
 
@@ -534,7 +534,7 @@ Section 280(1)
 
 ## Annotations
 
-[^key-da5e2e35b4869d4e129d8d5a0221ef8a]: Textual amendment: Sch. 25 paras. 1, 2 and cross-heading repealed (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(g)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/g/i), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
+[^c-da5e2e35b4869d4e129d8d5a0221ef8a]: Textual amendment: Sch. 25 paras. 1, 2 and cross-heading repealed (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(g)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/g/i), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
 
 [^c20696851]: Textual amendment: Sch. 25 para. 12 repealed (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 321](https://www.legislation.gov.uk/ukpga/2009/23/section/321), [324](https://www.legislation.gov.uk/ukpga/2009/23/section/324), [Sch. 22 Pt. 5(C)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/C); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2010/298/article/2/2), [3](https://www.legislation.gov.uk/uksi/2010/298/article/3), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/12)
 
@@ -542,7 +542,7 @@ Section 280(1)
 
 [^c20200001]: Textual amendment: Sch. 25 para. 14 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2008/12/section/1/1), {Sch. 1 Pt. 1 Group 4}
 
-[^key-bd508f3e4e8b0218671a298f4eca75df]: Textual amendment: Sch. 25 para. 28 repealed (1.10.2013 for E.) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/4)) (as amended (7.9.2013) by [S.I. 2013/2271](https://www.legislation.gov.uk/uksi/2013/2271), art. 2)
+[^c-bd508f3e4e8b0218671a298f4eca75df]: Textual amendment: Sch. 25 para. 28 repealed (1.10.2013 for E.) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/4)) (as amended (7.9.2013) by [S.I. 2013/2271](https://www.legislation.gov.uk/uksi/2013/2271), art. 2)
 
 [^c19252021]: Textual amendment: Sch. 25 para. 29 repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [ss. 125(1)](https://www.legislation.gov.uk/ukpga/2006/36/section/125/1), [126](https://www.legislation.gov.uk/ukpga/2006/36/section/126), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
 
@@ -580,12 +580,12 @@ Section 280(1)
 
 [^c19192301]: Textual amendment: Sch. 25 para. 54 repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356(4)](https://www.legislation.gov.uk/ukpga/2005/19/section/356/4), [358](https://www.legislation.gov.uk/ukpga/2005/19/section/358), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4) (with [art. 6](https://www.legislation.gov.uk/uksi/2006/3272/article/6), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
 
-[^key-fe1a968213e93cfe44fc050fd4fa8a10]: Textual amendment: Sch. 25 para. 60 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-fe1a968213e93cfe44fc050fd4fa8a10]: Textual amendment: Sch. 25 para. 60 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-4bbc48abddbfe70fca7330f78a7ad5a7]: Textual amendment: Sch. 25 para. 61 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-4bbc48abddbfe70fca7330f78a7ad5a7]: Textual amendment: Sch. 25 para. 61 repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c20696961]: Textual amendment: Sch. 15 para. 70 repealed (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 321](https://www.legislation.gov.uk/ukpga/2009/23/section/321), [324](https://www.legislation.gov.uk/ukpga/2009/23/section/324), [Sch. 22 Pt. 5(B)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/B); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27)
 
-[^key-48bb0acee19fcf9104b93b4725039f06]: Textual amendment: [Sch. 25 para. 72](https://www.legislation.gov.uk/ukpga/2003/44/schedule/25/paragraph/72) omitted (1.10.2018) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 14](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/14) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
+[^c-48bb0acee19fcf9104b93b4725039f06]: Textual amendment: [Sch. 25 para. 72](https://www.legislation.gov.uk/ukpga/2003/44/schedule/25/paragraph/72) omitted (1.10.2018) by virtue of [The Animal Welfare (Licensing of Activities Involving Animals) (England) Regulations 2018 (S.I. 2018/486)](https://www.legislation.gov.uk/uksi/2018/486), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2018/486/regulation/1/1/b), [Sch. 9 para. 14](https://www.legislation.gov.uk/uksi/2018/486/schedule/9/paragraph/14) (with [reg. 27](https://www.legislation.gov.uk/uksi/2018/486/regulation/27))
 
 [^c19252411]: Textual amendment: Sch. 25 para. 74 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 4-6](https://www.legislation.gov.uk/ukpga/2006/43/section/4), [8](https://www.legislation.gov.uk/ukpga/2006/43/section/8), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))

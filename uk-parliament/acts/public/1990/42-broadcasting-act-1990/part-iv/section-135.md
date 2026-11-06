@@ -29,7 +29,7 @@ summary: ''
 (4) Any shares issued in pursuance of this section—
 
 - (a) shall be of such nominal value as the Secretary of State may direct; and
-- (b) shall be issued as fully paid and treated for the purposes of the Companies Act 2006[^key-ad0498fe85ff68787eae030b03efbdb1] as if they had been paid up by virtue of the payment to the nominated company of their nominal value in cash.
+- (b) shall be issued as fully paid and treated for the purposes of the Companies Act 2006[^c-ad0498fe85ff68787eae030b03efbdb1] as if they had been paid up by virtue of the payment to the nominated company of their nominal value in cash.
 
 (5) The Secretary of State shall not exercise any power conferred on him by this section, or dispose of any securities issued to him in pursuance of this section, without the consent of the Treasury.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad0498fe85ff68787eae030b03efbdb1]: Textual amendment: Words in [s. 135(4)(b)](https://www.legislation.gov.uk/ukpga/1990/42/section/135/4/b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 119(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/119/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-ad0498fe85ff68787eae030b03efbdb1]: Textual amendment: Words in [s. 135(4)(b)](https://www.legislation.gov.uk/ukpga/1990/42/section/135/4/b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 119(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/119/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

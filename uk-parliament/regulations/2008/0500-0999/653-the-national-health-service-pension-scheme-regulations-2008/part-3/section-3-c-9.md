@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.C.9. Payment of additional lump sum contributions by employing authority[^key-578d10c2e2bae4bfcbfab4ba981b0a17][^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.C.9. Payment of additional lump sum contributions by employing authority[^c-578d10c2e2bae4bfcbfab4ba981b0a17][^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -41,12 +41,12 @@ may not exceed £5000 or such other amount as the Secretary of State may for the
 
 (5) A contribution under this regulation must be paid by the employing authority to the Secretary of State within one month of the date on which the authority gave the Secretary of State notice under regulation 3.C.10(2).
 
-(6)[^key-5868f46ff81b1a1d9bec8690ee018e39] In the case of a 2008 Section Optant, this regulation is subject to regulation 3.K.4.
+(6)[^c-5868f46ff81b1a1d9bec8690ee018e39] In the case of a 2008 Section Optant, this regulation is subject to regulation 3.K.4.
 
 ## Annotations
 
-[^key-578d10c2e2bae4bfcbfab4ba981b0a17]: Modification: [Regs. 3.C.6-3.C.13](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.6) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/ii)
+[^c-578d10c2e2bae4bfcbfab4ba981b0a17]: Modification: [Regs. 3.C.6-3.C.13](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.6) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/ii)
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-5868f46ff81b1a1d9bec8690ee018e39]: Textual amendment: [Reg. 3.C.9(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.9/6) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [63](https://www.legislation.gov.uk/uksi/2009/2446/regulation/63)
+[^c-5868f46ff81b1a1d9bec8690ee018e39]: Textual amendment: [Reg. 3.C.9(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.9/6) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [63](https://www.legislation.gov.uk/uksi/2009/2446/regulation/63)

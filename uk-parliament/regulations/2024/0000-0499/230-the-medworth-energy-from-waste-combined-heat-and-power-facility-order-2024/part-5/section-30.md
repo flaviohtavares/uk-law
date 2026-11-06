@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Modification of Part 1 of the Compulsory Purchase Act 1965[^key-d83c39a759a6187c7a5f373ee91f483b]
+## 30. Modification of Part 1 of the Compulsory Purchase Act 1965[^c-d83c39a759a6187c7a5f373ee91f483b]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d83c39a759a6187c7a5f373ee91f483b]: Commencement: Art. 30 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-d83c39a759a6187c7a5f373ee91f483b]: Commencement: Art. 30 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

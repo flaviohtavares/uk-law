@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Additional functions of the GLA[^key-dadde78edcb5344f42ebceb66bd5fa79]
+## 16. Additional functions of the GLA[^c-dadde78edcb5344f42ebceb66bd5fa79]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ After section 40 of the GLAA 1999 insert—
 
 ## Annotations
 
-[^key-dadde78edcb5344f42ebceb66bd5fa79]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2026/23/section/16) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-dadde78edcb5344f42ebceb66bd5fa79]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2026/23/section/16) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

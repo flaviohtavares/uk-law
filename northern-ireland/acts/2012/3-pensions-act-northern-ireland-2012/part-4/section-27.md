@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Definition of money purchase benefits[^key-123754abb27750d7ef9393853ee9f207]
+## 27. Definition of money purchase benefits[^c-123754abb27750d7ef9393853ee9f207]
 
 *Extent: N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-123754abb27750d7ef9393853ee9f207]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2012/3/section/27) in operation at 24.7.2014 by [S.R. 2014/203](https://www.legislation.gov.uk/nisr/2014/203), [art. 2](https://www.legislation.gov.uk/nisr/2014/203/article/2)
+[^c-123754abb27750d7ef9393853ee9f207]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2012/3/section/27) in operation at 24.7.2014 by [S.R. 2014/203](https://www.legislation.gov.uk/nisr/2014/203), [art. 2](https://www.legislation.gov.uk/nisr/2014/203/article/2)

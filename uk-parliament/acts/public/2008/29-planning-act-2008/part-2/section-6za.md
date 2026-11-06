@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6ZA. Review: supplementary[^key-7d16af01b0d2de09a96f80415f3a660b]
+## 6ZA. Review: supplementary[^c-7d16af01b0d2de09a96f80415f3a660b]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ the initial period is the period of two years beginning with the relevant date.
 
 ## Annotations
 
-[^key-7d16af01b0d2de09a96f80415f3a660b]: Textual amendment: [S. 6ZA](https://www.legislation.gov.uk/ukpga/2008/29/section/6ZA) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2025/34/section/1/6), [118(1)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/a) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/a)
+[^c-7d16af01b0d2de09a96f80415f3a660b]: Textual amendment: [S. 6ZA](https://www.legislation.gov.uk/ukpga/2008/29/section/6ZA) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2025/34/section/1/6), [118(1)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/a) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/a)

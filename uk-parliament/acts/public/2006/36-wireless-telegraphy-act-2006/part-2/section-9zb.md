@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9ZB. Review of pre-26 May 2011 limitations etc.[^key-c211d226342bcda5e16c5d816f8cee87]
+## 9ZB. Review of pre-26 May 2011 limitations etc.[^c-c211d226342bcda5e16c5d816f8cee87]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c211d226342bcda5e16c5d816f8cee87]: Textual amendment: Ss. 9ZA, 9ZB inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/7) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-c211d226342bcda5e16c5d816f8cee87]: Textual amendment: Ss. 9ZA, 9ZB inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/7) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

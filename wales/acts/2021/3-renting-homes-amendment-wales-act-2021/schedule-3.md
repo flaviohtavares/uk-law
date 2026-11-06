@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — NEW SCHEDULE 9B TO THE 2016 ACT[^key-c3024b48c010898080b35fdb0fc0cb3f]
+## SCHEDULE 3 — NEW SCHEDULE 9B TO THE 2016 ACT[^c-c3024b48c010898080b35fdb0fc0cb3f]
 
 *Extent: E+W*
 
 (introduced by section 10)
 
-[^key-c3024b48c010898080b35fdb0fc0cb3f]
+[^c-c3024b48c010898080b35fdb0fc0cb3f]
 
 This Schedule sets out the new Schedule 9B to the 2016 Act, to be inserted (with the new Schedules 9A and 9C) after Schedule 9—
 
@@ -101,4 +101,4 @@ This Schedule sets out the new Schedule 9B to the 2016 Act, to be inserted (with
 
 ## Annotations
 
-[^key-c3024b48c010898080b35fdb0fc0cb3f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asc/2021/3/schedule/3) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-c3024b48c010898080b35fdb0fc0cb3f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/asc/2021/3/schedule/3) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

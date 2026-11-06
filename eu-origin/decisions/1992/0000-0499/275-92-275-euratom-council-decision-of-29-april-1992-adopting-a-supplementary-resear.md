@@ -31,10 +31,10 @@ summary: ''
 
 of 29 April 1992 adopting a supplementary research programme to be implemented by the Joint Research Centre for the European Atomic Energy Community (1992-1995) (revoked)
 
-[^key-c7cc700cf9ec6e77559941e502da2bf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7cc700cf9ec6e77559941e502da2bf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-c7cc700cf9ec6e77559941e502da2bf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-c7cc700cf9ec6e77559941e502da2bf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c7cc700cf9ec6e77559941e502da2bf0]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-c7cc700cf9ec6e77559941e502da2bf0]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

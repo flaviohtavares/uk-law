@@ -24,10 +24,10 @@ summary: ''
 
 (2) The Secretary of State may if he thinks fit arrange with some other person for that person to hold examinations for the purpose mentioned in subsection (1) above.
 
-(3)[^key-c86f825ae3584eeae99985e4ab3b5bc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c86f825ae3584eeae99985e4ab3b5bc6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) There shall be charged in respect of any examination which is held by the Secretary of State under this section such fees as the Secretary of State may from time to time with the approval of the Treasury determine.
 
 ## Annotations
 
-[^key-c86f825ae3584eeae99985e4ab3b5bc6]: Textual amendment: [S. 73(3)](https://www.legislation.gov.uk/ukpga/1985/72/section/73/3) repealed (1.10.2006) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1031/schedule/9) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
+[^c-c86f825ae3584eeae99985e4ab3b5bc6]: Textual amendment: [S. 73(3)](https://www.legislation.gov.uk/ukpga/1985/72/section/73/3) repealed (1.10.2006) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1031/schedule/9) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))

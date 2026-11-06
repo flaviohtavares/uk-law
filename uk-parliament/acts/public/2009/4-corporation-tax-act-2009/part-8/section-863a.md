@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 863A. Asset becoming chargeable intangible asset: EU exit charge[^key-2e6f2c4ca927715bb4c2b14ec8a049bd]
+## 863A. Asset becoming chargeable intangible asset: EU exit charge[^c-2e6f2c4ca927715bb4c2b14ec8a049bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e6f2c4ca927715bb4c2b14ec8a049bd]: Textual amendment: S. 863A inserted (with effect in accordance with Sch. 8 para. 12(4) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 8 para. 12(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/8/paragraph/12/3)
+[^c-2e6f2c4ca927715bb4c2b14ec8a049bd]: Textual amendment: S. 863A inserted (with effect in accordance with Sch. 8 para. 12(4) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 8 para. 12(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/8/paragraph/12/3)

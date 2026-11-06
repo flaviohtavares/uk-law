@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Legal professional privilege[^key-9aa933d7a1880c94ea840fef42056f54]
+## 51. Legal professional privilege[^c-9aa933d7a1880c94ea840fef42056f54]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in this Part requires any person to produce a document which that person
 
 ## Annotations
 
-[^key-9aa933d7a1880c94ea840fef42056f54]: Commencement: Art. 51 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-9aa933d7a1880c94ea840fef42056f54]: Commencement: Art. 51 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

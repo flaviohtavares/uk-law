@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Improvement notices[^key-072074ed8129965d81d1a08c8b8a67a7][^key-f973b3e23af09a5a4c4a6283107821f5]
+## 13. Improvement notices[^c-072074ed8129965d81d1a08c8b8a67a7][^c-f973b3e23af09a5a4c4a6283107821f5]
 
 *Extent: E+W+S*
 
 (1) If an inspector has reasonable grounds for believing that there is—
 
-- (a) a failure in connection with the carrying on of a retail pharmacy business at or from[^key-87c5c167878e33e61f2c1f10c91ebc7a] a registered pharmacy entered in the Register under section 74A of the Medicines Act 1968 (registration or premises: Great Britain) to meet the standards that are set[^key-5a51027a80ee1d2d316d4a4f59a42b37] under article 7(1); [^key-1675792043defc06a24623ba9dbac42a]...
-- (b) a failure to comply with conditions to which the entry of a registered pharmacy entered in the Register under section 74A of the Medicines Act 1968 is subject by virtue of section 74D(1)[^f00029] of that Act (conditional registration: Great Britain); or[^key-5c22aa2e4b82c5cdb0e25e24f220506d]
-- (c)[^key-bf8bdacdb5647751abbff349ef3d1108] a failure to comply with a requirement contained in any rules made under article 7(4),
+- (a) a failure in connection with the carrying on of a retail pharmacy business at or from[^c-87c5c167878e33e61f2c1f10c91ebc7a] a registered pharmacy entered in the Register under section 74A of the Medicines Act 1968 (registration or premises: Great Britain) to meet the standards that are set[^c-5a51027a80ee1d2d316d4a4f59a42b37] under article 7(1); [^c-1675792043defc06a24623ba9dbac42a]...
+- (b) a failure to comply with conditions to which the entry of a registered pharmacy entered in the Register under section 74A of the Medicines Act 1968 is subject by virtue of section 74D(1)[^f00029] of that Act (conditional registration: Great Britain); or[^c-5c22aa2e4b82c5cdb0e25e24f220506d]
+- (c)[^c-bf8bdacdb5647751abbff349ef3d1108] a failure to comply with a requirement contained in any rules made under article 7(4),
 
 the inspector may serve a notice on the person carrying on the retail pharmacy business at or from the registered pharmacy (in this Order referred to as an “improvement notice”).
 
 (2) An improvement notice must—
 
-- (a) state the inspector’s grounds for believing that there is a failure referred to in paragraph (1)[^key-9a74bed2b4addc48203f1ad9550388f7];
+- (a) state the inspector’s grounds for believing that there is a failure referred to in paragraph (1)[^c-9a74bed2b4addc48203f1ad9550388f7];
 - (b) specify the measures that the person to whom the notice is addressed must take in order to rectify that failure;
 - (c) require that person to take those measures, or measures that the inspector agrees are at least equivalent to them, within the period specified in the notice which may not be less than 28 days beginning with the day on which the notice is served; and
 - (d) state—
@@ -70,23 +70,23 @@ the inspector may serve a notice on the person carrying on the retail pharmacy b
 
 ## Annotations
 
-[^key-072074ed8129965d81d1a08c8b8a67a7]: Commencement: Art. 13 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-072074ed8129965d81d1a08c8b8a67a7]: Commencement: Art. 13 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-f973b3e23af09a5a4c4a6283107821f5]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2010/231/article/13) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-f973b3e23af09a5a4c4a6283107821f5]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2010/231/article/13) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
-[^key-87c5c167878e33e61f2c1f10c91ebc7a]: Textual amendment: Words in [art. 13(1)](https://www.legislation.gov.uk/uksi/2010/231/article/13/1) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [22(2)(a)](https://www.legislation.gov.uk/uksi/2016/372/article/22/2/a); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-87c5c167878e33e61f2c1f10c91ebc7a]: Textual amendment: Words in [art. 13(1)](https://www.legislation.gov.uk/uksi/2010/231/article/13/1) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [22(2)(a)](https://www.legislation.gov.uk/uksi/2016/372/article/22/2/a); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
-[^key-5a51027a80ee1d2d316d4a4f59a42b37]: Textual amendment: Word in [art. 13(1)(a)](https://www.legislation.gov.uk/uksi/2010/231/article/13/1/a) substituted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [22(2)(b)](https://www.legislation.gov.uk/uksi/2016/372/article/22/2/b); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-5a51027a80ee1d2d316d4a4f59a42b37]: Textual amendment: Word in [art. 13(1)(a)](https://www.legislation.gov.uk/uksi/2010/231/article/13/1/a) substituted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [22(2)(b)](https://www.legislation.gov.uk/uksi/2016/372/article/22/2/b); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
-[^key-1675792043defc06a24623ba9dbac42a]: Textual amendment: Word in [art. 13(1)(a)](https://www.legislation.gov.uk/uksi/2010/231/article/13/1/a) omitted (24.5.2018) by virtue of [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [22(2)(c)](https://www.legislation.gov.uk/uksi/2016/372/article/22/2/c); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-1675792043defc06a24623ba9dbac42a]: Textual amendment: Word in [art. 13(1)(a)](https://www.legislation.gov.uk/uksi/2010/231/article/13/1/a) omitted (24.5.2018) by virtue of [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [22(2)(c)](https://www.legislation.gov.uk/uksi/2016/372/article/22/2/c); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
 [^f00029]: Footnote: Sections 74A and 74D are inserted into the Act by paragraph 1(8) of Schedule 4 to this Order.
 
-[^key-5c22aa2e4b82c5cdb0e25e24f220506d]: Textual amendment: Words in [art. 13(1)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/13/1/b) substituted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [22(2)(d)](https://www.legislation.gov.uk/uksi/2016/372/article/22/2/d); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-5c22aa2e4b82c5cdb0e25e24f220506d]: Textual amendment: Words in [art. 13(1)(b)](https://www.legislation.gov.uk/uksi/2010/231/article/13/1/b) substituted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [22(2)(d)](https://www.legislation.gov.uk/uksi/2016/372/article/22/2/d); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
-[^key-bf8bdacdb5647751abbff349ef3d1108]: Textual amendment: [Art. 13(1)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/13/1/c) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [22(2)(e)](https://www.legislation.gov.uk/uksi/2016/372/article/22/2/e); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-bf8bdacdb5647751abbff349ef3d1108]: Textual amendment: [Art. 13(1)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/13/1/c) inserted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [22(2)(e)](https://www.legislation.gov.uk/uksi/2016/372/article/22/2/e); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
-[^key-9a74bed2b4addc48203f1ad9550388f7]: Textual amendment: Words in [art. 13(2)(a)](https://www.legislation.gov.uk/uksi/2010/231/article/13/2/a) substituted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2016/372/article/22/3); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
+[^c-9a74bed2b4addc48203f1ad9550388f7]: Textual amendment: Words in [art. 13(2)(a)](https://www.legislation.gov.uk/uksi/2010/231/article/13/2/a) substituted (24.5.2018) by [The Pharmacy (Premises Standards, Information Obligations, etc.) Order 2016 (S.I. 2016/372)](https://www.legislation.gov.uk/uksi/2016/372), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2016/372/article/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2016/372/article/22/3); [S.I. 2018/512](https://www.legislation.gov.uk/uksi/2018/512), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/512/article/2/1/b)
 
 [^f00030]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. General saving[^key-a889d07cd760cefc6be6892b47c5379d]
+## 8. General saving[^c-a889d07cd760cefc6be6892b47c5379d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The provisions of this Order do not affect the operation of section 1297 of the 
 
 ## Annotations
 
-[^key-a889d07cd760cefc6be6892b47c5379d]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2008/2860/article/8) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-a889d07cd760cefc6be6892b47c5379d]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2008/2860/article/8) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)

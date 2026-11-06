@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Making economic resources available for benefit of designated persons[^key-0ba82b259a171c987b3e54742396bcc3]
+## 16. Making economic resources available for benefit of designated persons[^c-0ba82b259a171c987b3e54742396bcc3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) A person who contravenes the prohibition in paragraph (1) commits an offence.
 
-(3A)[^key-bcbc82c7b10cf521e3a31ae43e7a8f20] The reference in paragraph (1) to making economic resources available to any person for the benefit of a designated person includes making economic resources available for the benefit of a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (and references to designated person in paragraph (4) are to be read accordingly).
+(3A)[^c-bcbc82c7b10cf521e3a31ae43e7a8f20] The reference in paragraph (1) to making economic resources available to any person for the benefit of a designated person includes making economic resources available for the benefit of a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (and references to designated person in paragraph (4) are to be read accordingly).
 
 (4) For the purposes of paragraph (1)—
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ba82b259a171c987b3e54742396bcc3]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-0ba82b259a171c987b3e54742396bcc3]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
 
-[^key-bcbc82c7b10cf521e3a31ae43e7a8f20]: Textual amendment: [Reg. 16(3A)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/16/3A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [31(4)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/31/4)
+[^c-bcbc82c7b10cf521e3a31ae43e7a8f20]: Textual amendment: [Reg. 16(3A)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/16/3A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [31(4)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/31/4)

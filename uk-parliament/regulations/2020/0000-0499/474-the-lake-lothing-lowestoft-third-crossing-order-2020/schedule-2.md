@@ -24,7 +24,7 @@ Article 4
 
 ### PART 1 — REQUIREMENTS
 
-#### 1. Interpretation[^key-dc3cc33356e2774570a824521d73e9e6]
+#### 1. Interpretation[^c-dc3cc33356e2774570a824521d73e9e6]
 
 In this Schedule—
 
@@ -39,11 +39,11 @@ In this Schedule—
 - “**scheme-wide written scheme of investigation**” means the document of that description as referenced in Schedule 14 (documents to be certified) certified by the Secretary of State as the scheme-wide written scheme of investigation for the purposes of this Order and which sets out the framework to control the impacts of the authorised development on heritage assets; and
 - “**transport assessment**” means the document of that description as referenced in Schedule 14 (documents to be certified) certified by the Secretary of State as transport assessment for the purposes of this Order and which sets out an assessment of the impact of the Scheme on the surrounding highway network.
 
-#### 2. Time limit for commencement of the authorised development[^key-caa126b8c55c67a547bb382f4a9e6a44]
+#### 2. Time limit for commencement of the authorised development[^c-caa126b8c55c67a547bb382f4a9e6a44]
 
 The authorised development must commence within 5 years of the date on which this Order comes into force.
 
-#### 3. Design of the authorised development[^key-bf76060ae06ff2e828560a9bd9eef382]
+#### 3. Design of the authorised development[^c-bf76060ae06ff2e828560a9bd9eef382]
 
 (1) The authorised development must be designed and implemented in general accordance with the general arrangement plans.
 
@@ -64,7 +64,7 @@ The authorised development must commence within 5 years of the date on which thi
 - (c) details of approach ramps, engineered fill, retaining structures, piles and foundations where those details have not already been submitted by the undertaker to the county planning authority as part of a scheme bridge approval in principle report pursuant to Volume 1 Section 1 Part BD2/12 (Technical Approval of Highways Structures) of Highways England's Design Manual for Roads and Bridges; and
 - (d) any other details requested by the county planning authority prior to or within 14 days of receiving a submission by the undertaker under paragraph (6).
 
-#### 4. Code of construction practice[^key-d1e6236ba2b724fd72387a0e234c4c0b]
+#### 4. Code of construction practice[^c-d1e6236ba2b724fd72387a0e234c4c0b]
 
 (1) No part of the authorised development may commence until a code of construction practice for that part of the authorised development has been submitted to the county planning authority by the undertaker following consultation with the Environment Agency, the harbour authority and the local planning authority and the submitted code of construction practice has been approved by the county planning authority.
 
@@ -72,7 +72,7 @@ The authorised development must commence within 5 years of the date on which thi
 
 (3) The authorised development must be carried out in accordance with the code of construction practice produced under sub-paragraph (1).
 
-#### 5. Landscaping scheme[^key-d7d27a9c0e37732e71381087cb0d8b20]
+#### 5. Landscaping scheme[^c-d7d27a9c0e37732e71381087cb0d8b20]
 
 (1) No part of the authorised development may commence until a written landscaping scheme for the authorised development has been submitted to the county planning authority by the undertaker following consultation with the local planning authority and the written landscaping scheme has been approved in writing by the county planning authority.
 
@@ -89,7 +89,7 @@ The authorised development must commence within 5 years of the date on which thi
 
 (3) All landscaping works must be carried out and maintained to a reasonable standard in accordance with the relevant recommendations of appropriate British Standards or other recognised codes of good practice.
 
-#### 6. Surface water drainage[^key-d4e71ea918f71ef071e67852d992b631]
+#### 6. Surface water drainage[^c-d4e71ea918f71ef071e67852d992b631]
 
 (1) No part of the authorised development which comprises any part of a surface water drainage system may commence until written details of that surface water drainage system have been submitted to the county planning authority by the undertaker following consultation with the local planning authority, the harbour authority and the surface water drainage system has been approved in writing by the county planning authority.
 
@@ -97,7 +97,7 @@ The authorised development must commence within 5 years of the date on which thi
 
 (3) The surface water drainage system must be constructed in accordance with the approved details referred to in sub-paragraph (1).
 
-#### 7. Highways lighting[^key-64c8df06f905008865dfa48106d56025]
+#### 7. Highways lighting[^c-64c8df06f905008865dfa48106d56025]
 
 (1) No part of the authorised development may commence until a written scheme of the proposed highway lighting to be provided for that part of the authorised development has been submitted to the county planning authority by the undertaker following consultation with the local planning authority and the harbour authority and the written scheme of the proposed highway lighting for that part of the authorised development has been approved in writing by the county planning authority.
 
@@ -107,7 +107,7 @@ The authorised development must commence within 5 years of the date on which thi
 
 (4) Nothing in this requirement restricts lighting of the authorised development during its construction or where temporarily required for maintenance.
 
-#### 8. Contaminated land and groundwater[^key-ca44e678b3c615fce97b3ac1046a5183]
+#### 8. Contaminated land and groundwater[^c-ca44e678b3c615fce97b3ac1046a5183]
 
 (1) The undertaker must carry out further ground investigation surveys—
 
@@ -134,15 +134,15 @@ it must be reported as soon as reasonably practicable to the county planning aut
 
 (8) In this paragraph, where approval or determination is sought by the undertaker from the county planning authority, before giving any approval or determination the county planning authority must consult with the local planning authority, the Environment Agency and, where the approval or determination relates to matters within Lowestoft Harbour, the harbour authority.
 
-#### 9. Mooring[^key-e1e02788485fd1aa628f9fd5e4c07e3c]
+#### 9. Mooring[^c-e1e02788485fd1aa628f9fd5e4c07e3c]
 
 The new bridge must not be opened for traffic until Work No. 7 has been made available for use by recreational vessels.
 
-#### 10. Written schemes of investigation[^key-792aa129843341280c0e3996e060a448]
+#### 10. Written schemes of investigation[^c-792aa129843341280c0e3996e060a448]
 
 The authorised development must be carried out in accordance with the scheme-wide written scheme of investigation.
 
-#### 11. Navigation risk assessment[^key-c05c6a767582c4190654a58f1c3ae0fd]
+#### 11. Navigation risk assessment[^c-c05c6a767582c4190654a58f1c3ae0fd]
 
 (1) Prior to commencement of construction of the new bridge and following consultation with the harbour authority, the undertaker must undertake a vessel simulation which takes account of the final design of the new bridge.
 
@@ -158,7 +158,7 @@ The authorised development must be carried out in accordance with the scheme-wid
 
 (7) Article 62 applies to any dispute arising under this paragraph between the undertaker and the harbour authority in place of the provisions of Part 2 of this Schedule.
 
-#### 12. Traffic mitigation[^key-a5ae9adc1d5324bf5146ed066ced1536]
+#### 12. Traffic mitigation[^c-a5ae9adc1d5324bf5146ed066ced1536]
 
 (1) The authorised development must not be opened for traffic until the undertaker has carried out and completed the following works—
 
@@ -181,30 +181,30 @@ The authorised development must be carried out in accordance with the scheme-wid
 
 (7) If the county planning authority determines that the undertaker must implement those remedial measures, the undertaker must implement them.
 
-#### 13. Piling works risk assessment[^key-c94e7aa0416a732a0a9a3309ae6d5ec1]
+#### 13. Piling works risk assessment[^c-c94e7aa0416a732a0a9a3309ae6d5ec1]
 
 (1) No piling work to be carried out as part of the authorised development may be undertaken until the undertaker has submitted an update to the piling works risk assessment for approval to the Environment Agency.
 
 (2) Any piling work to be carried out as part of the authorised development must be in undertaken in accordance with the recommendations of the updated piling works risk assessment approved under sub-paragraph (1).
 
-#### 14. New bridge operating signals[^key-028e8d1ef500e1cfd89e82f935637ec2]
+#### 14. New bridge operating signals[^c-028e8d1ef500e1cfd89e82f935637ec2]
 
 The operating signals of the new bridge must be operated in accordance with the new bridge operating signals assessment or any update to that assessment as may be submitted to and approved by the county planning authority.
 
-#### 15. Amendment to approved details[^key-3d40a84425e3020f2dd796975b8bb4f5]
+#### 15. Amendment to approved details[^c-3d40a84425e3020f2dd796975b8bb4f5]
 
 With respect to any requirement which requires the authorised development to be carried out in accordance with the details approved under this Part of this Schedule, the approved details are taken to include any amendments that may subsequently be approved in writing by the body responsible for approving the details for that requirement, following consultation by the undertaker with the Environment Agency, the harbour authority or the local planning authority (where required to do so by the requirement) and the undertaker demonstrating to the body responsible that the amended details would not give rise to any materially new or materially different environmental effects than those assessed in the environmental statement.
 
 ### PART 2 — PROCEDURE FOR DISCHARGE OF REQUIREMENTS
 
-#### 16. Interpretation[^key-e5567a7bc197a5636013831bf696bc86]
+#### 16. Interpretation[^c-e5567a7bc197a5636013831bf696bc86]
 
 In this Part of this Schedule, “**discharging authority**” means—
 
 - (a) any body responsible for giving any consent, agreement or approval required by a requirement included in Part 1 of this Schedule, or for giving any consent, agreement or approval further to any document referred to in any such requirement; or
 - (b) the local planning authority in the exercise of its functions set out in sections 60 and 61 of the Control of Pollution Act 1974 [^c24091531].
 
-#### 17. Applications made under requirements[^key-b689e26589dee1c57ddbe8e5c1b028ea]
+#### 17. Applications made under requirements[^c-b689e26589dee1c57ddbe8e5c1b028ea]
 
 (1) Where an application has been made to the discharging authority for any consent, agreement or approval required by a requirement (including agreement or approval in respect of part of a requirement) contained in Part 1 of this Schedule, or a document referred to by a requirement, the discharging authority must give notice to the undertaker of the discharging authority's decision on the application with a period of 8 weeks beginning with—
 
@@ -221,7 +221,7 @@ In this Part of this Schedule, “**discharging authority**” means—
 
 and where consent, agreement or approval is refused or granted subject to conditions the discharging authority must provide its reasons for that decision with the notice of the decision.
 
-#### 18. Further information regarding requirements[^key-95eae8943959c4fa56ab2e676c3f60d2]
+#### 18. Further information regarding requirements[^c-95eae8943959c4fa56ab2e676c3f60d2]
 
 (1) In relation to any part of an application made under this Schedule, the discharging authority has the right to request such further information from the undertaker as is necessary to enable the discharging authority to consider the application.
 
@@ -231,7 +231,7 @@ and where consent, agreement or approval is refused or granted subject to condit
 
 (4) If the discharging authority does not give the notification within the period specified in sub-paragraph (2) or (3) it (and the consultee, as the case may be) is deemed to have sufficient information to consider the application and is not entitled to request further information without the prior agreement of the undertaker.
 
-#### 19. Appeals[^key-d4d6470450b74ec6bc7d9dad0fe6e1d7]
+#### 19. Appeals[^c-d4d6470450b74ec6bc7d9dad0fe6e1d7]
 
 (1) Where the undertaker makes an application to the discharging authority, the undertaker may appeal to the Secretary of State in the event that—
 
@@ -277,60 +277,60 @@ and may deal with the application as if it had been made to the adjudicator in t
 
 (12) On application by the discharging authority or the undertaker, the adjudicator may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the adjudicator must have regard to relevant guidance on the Planning Practice Guidance website or any official circular or guidance which may replace it.
 
-#### 20. Publication of requirements[^key-9600a9ad8dedce12b5b296e6ed762a42]
+#### 20. Publication of requirements[^c-9600a9ad8dedce12b5b296e6ed762a42]
 
 (1) The undertaker, must, as soon as reasonably practicable following the making of this Order, establish and maintain in an electronic form suitable for inspection by members of the public a register of those requirements contained in Part 1 of this Schedule that provide for further approvals to be given by the discharging authority.
 
 (2) The register must set out in relation to each requirement the status of the requirement, in terms of whether any approval to be given by the discharging authority has been applied for or given, providing an electronic link to any document containing any approved details.
 
-#### 21. Anticipatory steps towards compliance with any requirement[^key-15118d1c1726e850764b0c4be5b907d7]
+#### 21. Anticipatory steps towards compliance with any requirement[^c-15118d1c1726e850764b0c4be5b907d7]
 
 If before this Order came into force the undertaker or any other person took any steps that were intended to be steps towards compliance with any provision of Part 1 of this Schedule, those steps may be taken into account for the purpose of determining compliance with that provision if they would have been valid steps for that purpose had they been taken after this Order came into force.
 
 ## Annotations
 
-[^key-dc3cc33356e2774570a824521d73e9e6]: Commencement: Sch. 2 para. 1 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-dc3cc33356e2774570a824521d73e9e6]: Commencement: Sch. 2 para. 1 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
 [^c24091521]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-caa126b8c55c67a547bb382f4a9e6a44]: Commencement: Sch. 2 para. 2 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-caa126b8c55c67a547bb382f4a9e6a44]: Commencement: Sch. 2 para. 2 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-bf76060ae06ff2e828560a9bd9eef382]: Commencement: Sch. 2 para. 3 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-bf76060ae06ff2e828560a9bd9eef382]: Commencement: Sch. 2 para. 3 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-d1e6236ba2b724fd72387a0e234c4c0b]: Commencement: Sch. 2 para. 4 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-d1e6236ba2b724fd72387a0e234c4c0b]: Commencement: Sch. 2 para. 4 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-d7d27a9c0e37732e71381087cb0d8b20]: Commencement: Sch. 2 para. 5 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-d7d27a9c0e37732e71381087cb0d8b20]: Commencement: Sch. 2 para. 5 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-d4e71ea918f71ef071e67852d992b631]: Commencement: Sch. 2 para. 6 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-d4e71ea918f71ef071e67852d992b631]: Commencement: Sch. 2 para. 6 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-64c8df06f905008865dfa48106d56025]: Commencement: Sch. 2 para. 7 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-64c8df06f905008865dfa48106d56025]: Commencement: Sch. 2 para. 7 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-ca44e678b3c615fce97b3ac1046a5183]: Commencement: Sch. 2 para. 8 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-ca44e678b3c615fce97b3ac1046a5183]: Commencement: Sch. 2 para. 8 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-e1e02788485fd1aa628f9fd5e4c07e3c]: Commencement: Sch. 2 para. 9 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-e1e02788485fd1aa628f9fd5e4c07e3c]: Commencement: Sch. 2 para. 9 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-792aa129843341280c0e3996e060a448]: Commencement: Sch. 2 para. 10 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-792aa129843341280c0e3996e060a448]: Commencement: Sch. 2 para. 10 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-c05c6a767582c4190654a58f1c3ae0fd]: Commencement: Sch. 2 para. 11 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-c05c6a767582c4190654a58f1c3ae0fd]: Commencement: Sch. 2 para. 11 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-a5ae9adc1d5324bf5146ed066ced1536]: Commencement: Sch. 2 para. 12 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-a5ae9adc1d5324bf5146ed066ced1536]: Commencement: Sch. 2 para. 12 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-c94e7aa0416a732a0a9a3309ae6d5ec1]: Commencement: Sch. 2 para. 13 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-c94e7aa0416a732a0a9a3309ae6d5ec1]: Commencement: Sch. 2 para. 13 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-028e8d1ef500e1cfd89e82f935637ec2]: Commencement: Sch. 2 para. 14 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-028e8d1ef500e1cfd89e82f935637ec2]: Commencement: Sch. 2 para. 14 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-3d40a84425e3020f2dd796975b8bb4f5]: Commencement: Sch. 2 para. 15 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-3d40a84425e3020f2dd796975b8bb4f5]: Commencement: Sch. 2 para. 15 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-e5567a7bc197a5636013831bf696bc86]: Commencement: Sch. 2 para. 16 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-e5567a7bc197a5636013831bf696bc86]: Commencement: Sch. 2 para. 16 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
 [^c24091531]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
-[^key-b689e26589dee1c57ddbe8e5c1b028ea]: Commencement: Sch. 2 para. 17 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-b689e26589dee1c57ddbe8e5c1b028ea]: Commencement: Sch. 2 para. 17 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-95eae8943959c4fa56ab2e676c3f60d2]: Commencement: Sch. 2 para. 18 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-95eae8943959c4fa56ab2e676c3f60d2]: Commencement: Sch. 2 para. 18 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-d4d6470450b74ec6bc7d9dad0fe6e1d7]: Commencement: Sch. 2 para. 19 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-d4d6470450b74ec6bc7d9dad0fe6e1d7]: Commencement: Sch. 2 para. 19 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-9600a9ad8dedce12b5b296e6ed762a42]: Commencement: Sch. 2 para. 20 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-9600a9ad8dedce12b5b296e6ed762a42]: Commencement: Sch. 2 para. 20 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-15118d1c1726e850764b0c4be5b907d7]: Commencement: Sch. 2 para. 21 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-15118d1c1726e850764b0c4be5b907d7]: Commencement: Sch. 2 para. 21 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

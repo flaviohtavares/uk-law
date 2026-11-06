@@ -52,16 +52,16 @@ In considering the rate of import duty that ought to apply to goods in a standar
 
 The Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the European Union for the following Regulations to come into force on such day as the Treasury may by regulations under section 52 of that Act appoint.
 
-## 1. Citation, commencement and interpretation[^key-0c4e36c3f11de836c142ab797db6b820]
+## 1. Citation, commencement and interpretation[^c-0c4e36c3f11de836c142ab797db6b820]
 
 (1) These Regulations may be cited as the Customs Tariff (Establishment) (EU Exit) Regulations 2020 and come into force on such day as the Treasury may by regulations under section 52 of the Taxation (Cross-border Trade) Act 2018 appoint.
 
 (2) In these Regulations—
 
 - “**Goods Classification Table**” means the table so named in Annex I in Part Three of the Tariff of the United Kingdom;
-- “**Tariff of the United Kingdom**” means the document entitled “the Tariff of the United Kingdom, version 1.34, dated 1st September 2026[^key-a20551c11bc8e3994b76e92b409c1a81]”.
+- “**Tariff of the United Kingdom**” means the document entitled “the Tariff of the United Kingdom, version 1.34, dated 1st September 2026[^c-a20551c11bc8e3994b76e92b409c1a81]”.
 
-## 2. Establishment of the customs tariff[^key-d16088c6fb3acaf0b897d447c0a5a770]
+## 2. Establishment of the customs tariff[^c-d16088c6fb3acaf0b897d447c0a5a770]
 
 (1) The customs tariff [^c24456401] is established as a system which consists of the following elements.
 
@@ -81,9 +81,9 @@ The Treasury consider it appropriate in consequence of, or otherwise in connecti
 
 (6) In paragraph (4), “**Tariff Table**” means the table so named in Annex II of Part Three of the Tariff of the United Kingdom.
 
-## 3. Rules of interpretation[^key-038cec897645e1bf80c11199a46812cf]
+## 3. Rules of interpretation[^c-038cec897645e1bf80c11199a46812cf]
 
-(1)[^key-03a0a1cd0e8c121e583fdb195cbbdc43][^key-438ae176c432ba9a3e7990d681bf31d0] For the purposes of determining the commodity codes within which goods most appropriately fall, the rules of interpretation contained in the following have effect—
+(1)[^c-03a0a1cd0e8c121e583fdb195cbbdc43][^c-438ae176c432ba9a3e7990d681bf31d0] For the purposes of determining the commodity codes within which goods most appropriately fall, the rules of interpretation contained in the following have effect—
 
 - (a) Part Two (Goods Classification Table Rules of Interpretation) of the Tariff of the United Kingdom; and
 - (b) notes to a section or chapter of the Goods Classification Table.
@@ -120,16 +120,16 @@ This instrument is one of a group of instruments covered by an overarching Tax I
 
     . A person unable to access this electronically can arrange access to a hard copy, while government advice on social distancing and unnecessary travel applies, by calling 020 7270 5000, and otherwise by inspection free of charge at HMRC, 100 Parliament Street, London SW1A 2BQ.
 
-[^key-0c4e36c3f11de836c142ab797db6b820]: Commencement: Reg. 1 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-0c4e36c3f11de836c142ab797db6b820]: Commencement: Reg. 1 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-a20551c11bc8e3994b76e92b409c1a81]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1430/regulation/1/2) substituted (1.10.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 6) Regulations 2026 (S.I. 2026/984)](https://www.legislation.gov.uk/uksi/2026/984), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/984/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2026/984/regulation/5)
+[^c-a20551c11bc8e3994b76e92b409c1a81]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1430/regulation/1/2) substituted (1.10.2026) by [The Customs (Tariff and Miscellaneous Amendments) (No. 6) Regulations 2026 (S.I. 2026/984)](https://www.legislation.gov.uk/uksi/2026/984), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2026/984/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2026/984/regulation/5)
 
-[^key-d16088c6fb3acaf0b897d447c0a5a770]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d16088c6fb3acaf0b897d447c0a5a770]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24456401]: Marginal citation: “The customs tariff” is defined in section 8(2) of the Taxation (Cross-border Trade) Act 2018.
 
-[^key-038cec897645e1bf80c11199a46812cf]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-038cec897645e1bf80c11199a46812cf]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-03a0a1cd0e8c121e583fdb195cbbdc43]: Modification: Reg. 3(1) applied in part (31.12.2020) by [The Trade Preference Scheme (EU Exit) Regulations 2020 (S.I. 2020/1438)](https://www.legislation.gov.uk/uksi/2020/1438), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/2/2/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/4)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-03a0a1cd0e8c121e583fdb195cbbdc43]: Modification: Reg. 3(1) applied in part (31.12.2020) by [The Trade Preference Scheme (EU Exit) Regulations 2020 (S.I. 2020/1438)](https://www.legislation.gov.uk/uksi/2020/1438), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/2/2/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1438/regulation/1/4)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-438ae176c432ba9a3e7990d681bf31d0]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/1430/regulation/3/1) applied in part (19.6.2023) by [The Trade Preference Scheme (Developing Countries Trading Scheme) Regulations 2023 (S.I. 2023/561)](https://www.legislation.gov.uk/uksi/2023/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/2/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/4))
+[^c-438ae176c432ba9a3e7990d681bf31d0]: Modification: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/1430/regulation/3/1) applied in part (19.6.2023) by [The Trade Preference Scheme (Developing Countries Trading Scheme) Regulations 2023 (S.I. 2023/561)](https://www.legislation.gov.uk/uksi/2023/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/561/regulation/2/2) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/561/regulation/1/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Appeals[^key-28b29b3b9b0386846a6931fe6eec028e][^key-7e6d6bc052c39ca8317449c3040bba28]
+## 61. Appeals[^c-28b29b3b9b0386846a6931fe6eec028e][^c-7e6d6bc052c39ca8317449c3040bba28]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28b29b3b9b0386846a6931fe6eec028e]: Commencement: S. 61 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-28b29b3b9b0386846a6931fe6eec028e]: Commencement: S. 61 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-7e6d6bc052c39ca8317449c3040bba28]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2025/28/section/61) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-7e6d6bc052c39ca8317449c3040bba28]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2025/28/section/61) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

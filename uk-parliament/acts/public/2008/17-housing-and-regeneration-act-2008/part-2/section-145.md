@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Moratorium[^key-1e010882dc9fdf6a45516609d6ae31c0]
+## 145. Moratorium[^c-1e010882dc9fdf6a45516609d6ae31c0]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e010882dc9fdf6a45516609d6ae31c0]: Textual amendment: [S. 145](https://www.legislation.gov.uk/ukpga/2008/17/section/145) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/12/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/e) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2024/437/regulation/4/1))
+[^c-1e010882dc9fdf6a45516609d6ae31c0]: Textual amendment: [S. 145](https://www.legislation.gov.uk/ukpga/2008/17/section/145) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 12(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/12/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/e) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2024/437/regulation/4/1))

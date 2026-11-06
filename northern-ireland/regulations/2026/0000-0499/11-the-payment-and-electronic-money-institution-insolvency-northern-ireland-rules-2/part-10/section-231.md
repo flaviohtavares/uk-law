@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 231. Orders enforcing compliance with these Rules[^key-09fb3e3dd098ce4d5ff3152c42c89664]
+## 231. Orders enforcing compliance with these Rules[^c-09fb3e3dd098ce4d5ff3152c42c89664]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09fb3e3dd098ce4d5ff3152c42c89664]: Commencement: [Rule 231](https://www.legislation.gov.uk/nisr/2026/11/rule/231) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-09fb3e3dd098ce4d5ff3152c42c89664]: Commencement: [Rule 231](https://www.legislation.gov.uk/nisr/2026/11/rule/231) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

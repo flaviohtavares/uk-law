@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Review[^key-3f6e71cb8e6d13ca00d540443bf4fe89]
+## 46. Review[^c-3f6e71cb8e6d13ca00d540443bf4fe89]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ After regulation 8 (general interpretation) insert—
 
 ## Annotations
 
-[^key-3f6e71cb8e6d13ca00d540443bf4fe89]: Commencement: Reg. 46 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-3f6e71cb8e6d13ca00d540443bf4fe89]: Commencement: Reg. 46 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00044]: Footnote: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26).

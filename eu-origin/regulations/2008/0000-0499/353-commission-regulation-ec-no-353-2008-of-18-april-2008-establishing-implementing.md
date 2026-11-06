@@ -91,7 +91,7 @@ HAS ADOPTED THIS REGULATION:
 This Regulation establishes implementing rules for the following applications:
 
 - ((a)) applications for authorisation, submitted in accordance with Article 15 of Regulation (EC) No 1924/2006; and
-- ((b)) applications for the inclusion of a claim in the list provided for in Article 13(4)[^key-d33f943c4e0bfba754aec4939f21adaa] submitted in accordance with Article 18 of Regulation (EC) No 1924/2006.
+- ((b)) applications for the inclusion of a claim in the list provided for in Article 13(4)[^c-d33f943c4e0bfba754aec4939f21adaa] submitted in accordance with Article 18 of Regulation (EC) No 1924/2006.
 
 ## Article 2. Scope of the application
 
@@ -145,7 +145,7 @@ The application shall be prepared and presented in accordance with the technical
 
 3. The national competent authority shall, without delay, inform the Authority, the Commission and the other Member States of the withdrawal. Only the withdrawal of the application under the conditions mentioned in paragraph 1 and in this paragraph puts an end to the procedure.
 
-**Article 8.**[^key-14c2b3255b037155fee4ac66f0799a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-14c2b3255b037155fee4ac66f0799a37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
@@ -171,7 +171,7 @@ One application shall be prepared for each individual health claim; this means t
 
 5\.
 
-The application shall indicate whether health claim concerned or a similar one has been scientifically evaluated, by another country[^key-c9622c9961319173fe1b8b53ed0d8610]. If so, a copy of the scientific evaluation shall be provided.
+The application shall indicate whether health claim concerned or a similar one has been scientifically evaluated, by another country[^c-c9622c9961319173fe1b8b53ed0d8610]. If so, a copy of the scientific evaluation shall be provided.
 
 6\.
 
@@ -361,12 +361,12 @@ Other
 
 [^f00002]: Footnote: http://www.efsa.europa.eu/EFSA/efsa\_locale-1178620753812\_1178623592471.htm
 
-[^key-d33f943c4e0bfba754aec4939f21adaa]: Textual amendment: Words in [Art. 1(b)](https://www.legislation.gov.uk/eur/2008/353/article/1/b) substituted (E.W.S.) (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2019/651/regulation/20/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d33f943c4e0bfba754aec4939f21adaa]: Textual amendment: Words in [Art. 1(b)](https://www.legislation.gov.uk/eur/2008/353/article/1/b) substituted (E.W.S.) (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2019/651/regulation/20/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Inserted by [Commission Regulation (EC) No 1169/2009 of 30 November 2009 amending Regulation (EC) No 353/2008 establishing implementing rules for applications for authorisation of health claims as provided for in Article 15 of Regulation (EC) No 1924/2006 of the European Parliament and of the Council (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2009/1169).
 
-[^key-14c2b3255b037155fee4ac66f0799a37]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2008/353/article/8) omitted (E.W.S.) (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2019/651/regulation/20/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14c2b3255b037155fee4ac66f0799a37]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2008/353/article/8) omitted (E.W.S.) (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2019/651/regulation/20/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c9622c9961319173fe1b8b53ed0d8610]: Textual amendment: Words in Annex para. 5 substituted (E.W.S.) (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [20(4)](https://www.legislation.gov.uk/uksi/2019/651/regulation/20/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9622c9961319173fe1b8b53ed0d8610]: Textual amendment: Words in Annex para. 5 substituted (E.W.S.) (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [20(4)](https://www.legislation.gov.uk/uksi/2019/651/regulation/20/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: Where appropriate internationally recognised specifications may be cited.

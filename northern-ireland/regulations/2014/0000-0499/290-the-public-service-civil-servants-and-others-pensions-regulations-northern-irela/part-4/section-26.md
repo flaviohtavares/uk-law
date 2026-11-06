@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Pensionable earnings[^key-9431dddfd0e5753868cbbe8470487e84]
+## 26. Pensionable earnings[^c-9431dddfd0e5753868cbbe8470487e84]
 
 *Extent: N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
   - (a) an amount determined by the employer in accordance with the arrangement under which the benefit is provided; or
   - (b) otherwise, an amount determined by the scheme manager;
 - “permanent pensionable earnings”, in respect of any period, means—
-  - (a) basic pay in respect of that period (not including pay received in respect of a period of sick leave on reduced pay at a rate determined by the member’s employer to be appropriate because it is equivalent to the annual rate of an ill-health pension)[^key-769a9f01e7a97042013e9bfabac9ccb3] ;
+  - (a) basic pay in respect of that period (not including pay received in respect of a period of sick leave on reduced pay at a rate determined by the member’s employer to be appropriate because it is equivalent to the annual rate of an ill-health pension)[^c-769a9f01e7a97042013e9bfabac9ccb3] ;
   - (b) any allowance granted on a permanent basis that the scheme manager determines to be permanent pensionable earnings in respect of that period; and
   - (c) the money value of any benefit in kind that the scheme manager determines to be permanent pensionable earnings in respect of that period;
 - “fluctuating pensionable earnings”, in respect of any period, means any of the following that the scheme manager determines to be fluctuating pensionable earnings in respect of that period—
@@ -47,7 +47,7 @@ summary: ''
   - (b) any allowance not granted on a permanent basis; and
   - (c) the money value of any benefit in kind.
 
-(5)[^key-f7625303de9e26bc3df65e20def61602] In this regulation—
+(5)[^c-f7625303de9e26bc3df65e20def61602] In this regulation—
 
 - (a) the total fluctuating pensionable earnings in respect of any period must not exceed one third of the total permanent pensionable earnings in respect of the same period.
 - (b) for the purposes of this regulation “total fluctuating pensionable earnings” applies only to industrial employees of the Northern Ireland Civil Service, and means—
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9431dddfd0e5753868cbbe8470487e84]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2014/290/regulation/26) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-9431dddfd0e5753868cbbe8470487e84]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2014/290/regulation/26) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-769a9f01e7a97042013e9bfabac9ccb3]: Textual amendment: Words in [reg. 26(4)](https://www.legislation.gov.uk/nisr/2014/290/regulation/26/4) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [13(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/13/a)
+[^c-769a9f01e7a97042013e9bfabac9ccb3]: Textual amendment: Words in [reg. 26(4)](https://www.legislation.gov.uk/nisr/2014/290/regulation/26/4) inserted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [13(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/13/a)
 
-[^key-f7625303de9e26bc3df65e20def61602]: Textual amendment: [Reg. 26(5)](https://www.legislation.gov.uk/nisr/2014/290/regulation/26/5) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [13(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/13/b)
+[^c-f7625303de9e26bc3df65e20def61602]: Textual amendment: [Reg. 26(5)](https://www.legislation.gov.uk/nisr/2014/290/regulation/26/5) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [13(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/13/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Civil sanctions[^key-3bc9f3eaf0817c974bcc1b3a98188243]
+## 3. Civil sanctions[^c-3bc9f3eaf0817c974bcc1b3a98188243]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bc9f3eaf0817c974bcc1b3a98188243]: Commencement: S. 3 in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2866/article/6))
+[^c-3bc9f3eaf0817c974bcc1b3a98188243]: Commencement: S. 3 in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/2866/article/6))

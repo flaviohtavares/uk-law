@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Delegation of Commission functions[^key-85ff0415b81d0f02ca253dacfad1e4be]
+## 120. Delegation of Commission functions[^c-85ff0415b81d0f02ca253dacfad1e4be]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85ff0415b81d0f02ca253dacfad1e4be]: Commencement: S. 120 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-85ff0415b81d0f02ca253dacfad1e4be]: Commencement: S. 120 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)

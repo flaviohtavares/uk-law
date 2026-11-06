@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14A. Marriage converted from a civil partnership: when voidable[^key-b7f2e266216c16bf2ab0be9ee363b4cc]
+## 14A. Marriage converted from a civil partnership: when voidable[^c-b7f2e266216c16bf2ab0be9ee363b4cc]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7f2e266216c16bf2ab0be9ee363b4cc]: Textual amendment: [Art. 14A](https://www.legislation.gov.uk/nisi/1978/1045/article/14A) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [37(3)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/37/3)
+[^c-b7f2e266216c16bf2ab0be9ee363b4cc]: Textual amendment: [Art. 14A](https://www.legislation.gov.uk/nisi/1978/1045/article/14A) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [37(3)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/37/3)

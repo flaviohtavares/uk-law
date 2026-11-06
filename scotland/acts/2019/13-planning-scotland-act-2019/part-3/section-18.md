@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-324ee0391e1defd3b98d24ee61825c54] The Town and Country Planning (Scotland) Act 1997 is amended as follows.
+(1)[^c-324ee0391e1defd3b98d24ee61825c54] The Town and Country Planning (Scotland) Act 1997 is amended as follows.
 
-(2)[^key-324ee0391e1defd3b98d24ee61825c54] In section 35A (pre-application consultation: preliminary)—
+(2)[^c-324ee0391e1defd3b98d24ee61825c54] In section 35A (pre-application consultation: preliminary)—
 
 - (a) in subsection (1A)—
   - (i) the words “to which section 42 applies” become paragraph (a),
@@ -37,12 +37,12 @@ summary: ''
 - (c) in subsection (5), after “form” insert “ , and have such content, ”,
 - (d) in subsection (9), for “the development is not of a class prescribed under subsection (1)” substitute “ compliance with section 35B is not required ”.
 
-(3)[^key-1c14fc3f47f92b163e08f9f0caf2d45c] In section 35B (pre-application consultation: compliance), in subsection (3), after “weeks” insert “ , but no more than 18 months, ”.
+(3)[^c-1c14fc3f47f92b163e08f9f0caf2d45c] In section 35B (pre-application consultation: compliance), in subsection (3), after “weeks” insert “ , but no more than 18 months, ”.
 
-(4)[^key-324ee0391e1defd3b98d24ee61825c54] In section 35C (pre-application consultation report), in subsection (2), after “form” insert “ and include such content ”.
+(4)[^c-324ee0391e1defd3b98d24ee61825c54] In section 35C (pre-application consultation report), in subsection (2), after “form” insert “ and include such content ”.
 
 ## Annotations
 
-[^key-324ee0391e1defd3b98d24ee61825c54]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/asp/2019/13/section/18/1)[(2)](https://www.legislation.gov.uk/asp/2019/13/section/18/2)[(4)](https://www.legislation.gov.uk/asp/2019/13/section/18/4) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
+[^c-324ee0391e1defd3b98d24ee61825c54]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/asp/2019/13/section/18/1)[(2)](https://www.legislation.gov.uk/asp/2019/13/section/18/2)[(4)](https://www.legislation.gov.uk/asp/2019/13/section/18/4) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
 
-[^key-1c14fc3f47f92b163e08f9f0caf2d45c]: Commencement: [S. 18(3)](https://www.legislation.gov.uk/asp/2019/13/section/18/3) in force at 1.10.2022 by [S.S.I. 2021/101](https://www.legislation.gov.uk/ssi/2021/101), [reg. 3](https://www.legislation.gov.uk/ssi/2021/101/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2021/101/regulation/4)) (as amended by S.S.I. 2022/67, [regs. 1](https://www.legislation.gov.uk/ssi/2022/67/regulation/1), [2](https://www.legislation.gov.uk/ssi/2022/67/regulation/2))
+[^c-1c14fc3f47f92b163e08f9f0caf2d45c]: Commencement: [S. 18(3)](https://www.legislation.gov.uk/asp/2019/13/section/18/3) in force at 1.10.2022 by [S.S.I. 2021/101](https://www.legislation.gov.uk/ssi/2021/101), [reg. 3](https://www.legislation.gov.uk/ssi/2021/101/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2021/101/regulation/4)) (as amended by S.S.I. 2022/67, [regs. 1](https://www.legislation.gov.uk/ssi/2022/67/regulation/1), [2](https://www.legislation.gov.uk/ssi/2022/67/regulation/2))

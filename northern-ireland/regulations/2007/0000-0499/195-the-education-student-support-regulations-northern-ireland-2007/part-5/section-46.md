@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Childcare grant[^key-ae91db965e285039923e219bf9be05a0]
+## 46. Childcare grant[^c-ae91db965e285039923e219bf9be05a0]
 
 *Extent: N.I.*
 
@@ -47,7 +47,7 @@ except that the student does not qualify for any such grant in respect of each w
 
 ## Annotations
 
-[^key-ae91db965e285039923e219bf9be05a0]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2007/195/regulation/46) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-ae91db965e285039923e219bf9be05a0]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2007/195/regulation/46) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
 [^f00044]: Footnote: [S.I. 1996/274 (N.I.1)](https://www.legislation.gov.uk/nisi/1996/274)
 

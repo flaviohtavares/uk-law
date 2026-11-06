@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Periods to be disregarded[^key-bd824b4453d4c7059fcfe36aeefba364]
+## 19. Periods to be disregarded[^c-bd824b4453d4c7059fcfe36aeefba364]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ and his normal weekly earnings shall be determined by reference to his weekly ea
 
 ## Annotations
 
-[^key-bd824b4453d4c7059fcfe36aeefba364]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1991/2887/regulation/19) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-bd824b4453d4c7059fcfe36aeefba364]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1991/2887/regulation/19) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)

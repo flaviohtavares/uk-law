@@ -39,7 +39,7 @@ Coming into operation in accordance with article 1(1)
 
 The Secretary of State and the Commissioners for His Majesty’s Revenue and Customs make the following Order in exercise of the powers conferred by section 155(1)(a) and (2) of the Social Security Administration (Northern Ireland) Act 1992[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-206379e0194e202ed74090e062895c3c]
+## 1. Citation, commencement and interpretation[^c-206379e0194e202ed74090e062895c3c]
 
 (1) This Order may be cited as the Social Security (Iceland) (Liechtenstein) (Norway) Order (Northern Ireland) 2023 and comes into operation—
 
@@ -52,7 +52,7 @@ The Secretary of State and the Commissioners for His Majesty’s Revenue and Cus
 - (b) “the Depositary” is to be interpreted in accordance with Article 73(2) (Authentic text and depositary) of the Convention set out in the Schedule to this Order; and
 - (c) “**EEA EFTA State**” has the meaning given to it in Article 1(o) (Definitions) of the Convention set out in the Schedule to this Order.
 
-## 2. Modification of legislation[^key-c568f291a4ffe51f8010e05b2711504e]
+## 2. Modification of legislation[^c-c568f291a4ffe51f8010e05b2711504e]
 
 (1) The legislation to which this paragraph applies is modified to the extent required to give effect to the provisions contained in the Convention set out in the Schedule to this Order, so far as they relate to Northern Ireland.
 
@@ -71,7 +71,7 @@ The Secretary of State and the Commissioners for His Majesty’s Revenue and Cus
   - (ii) Regulation [(EC) No 987/2009](https://www.legislation.gov.uk/european/regulation/2009/0987) of the European Parliament and of the Council of 16 September 2009 laying down the procedure for implementing Regulation [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883); and
 - (j) regulations within the scope of section 155(5) of the Social Security Administration (Northern Ireland) Act 1992[^f00013].
 
-## 3. Variation of Orders[^key-38ad9059cfb6ee55e57d85305f90e172]
+## 3. Variation of Orders[^c-38ad9059cfb6ee55e57d85305f90e172]
 
 The Social Security (Iceland) Order (Northern Ireland) 1985[^f00014] and the Social Security (Norway) Order (Northern Ireland) 1991[^f00015] are varied in accordance with Article 78 (Relationship with pre-existing Social Security Coordination Agreements) of the Convention set out in the Schedule to this Order, so far as they relate to Northern Ireland.
 
@@ -93,7 +93,7 @@ Two of the Commissioners for His Majesty’s Revenue and Customs
 
 19th October 2023
 
-## SCHEDULE — Convention on Social Security Coordination between Iceland, the Principality of Liechtenstein, the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland[^key-108677bb237a0a221c1edc212f80c059]
+## SCHEDULE — Convention on Social Security Coordination between Iceland, the Principality of Liechtenstein, the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland[^c-108677bb237a0a221c1edc212f80c059]
 
 Articles 1, 2 and 3
 
@@ -101,13 +101,13 @@ Articles 1, 2 and 3
 | --- |
 | PREAMBLE |
 
-[^key-108677bb237a0a221c1edc212f80c059]Iceland, the Principality of Liechtenstein, the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland;
+[^c-108677bb237a0a221c1edc212f80c059]Iceland, the Principality of Liechtenstein, the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland;
 
-[^key-108677bb237a0a221c1edc212f80c059]NOTING that the United Kingdom withdrew from the European Union on 31 January 2020 and ceased applying the Agreement on the European Economic Area with effect from 1 January 2021;
+[^c-108677bb237a0a221c1edc212f80c059]NOTING that the United Kingdom withdrew from the European Union on 31 January 2020 and ceased applying the Agreement on the European Economic Area with effect from 1 January 2021;
 
-[^key-108677bb237a0a221c1edc212f80c059]RECOGNISING the importance of the coordination of social security rights enjoyed by persons moving between the States to work, to stay or to reside, as well as the rights enjoyed by their family members and survivors;
+[^c-108677bb237a0a221c1edc212f80c059]RECOGNISING the importance of the coordination of social security rights enjoyed by persons moving between the States to work, to stay or to reside, as well as the rights enjoyed by their family members and survivors;
 
-[^key-108677bb237a0a221c1edc212f80c059]Have agreed as follows:
+[^c-108677bb237a0a221c1edc212f80c059]Have agreed as follows:
 
 |  |
 | --- |
@@ -117,7 +117,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 1<br>**Definitions** |
 
-[^key-108677bb237a0a221c1edc212f80c059]For the purposes of this Convention, the following definitions apply:
+[^c-108677bb237a0a221c1edc212f80c059]For the purposes of this Convention, the following definitions apply:
 
 - (a) “**the 1983 Convention**” means the 1983 Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Iceland, signed in Reykjavik on 25 August 1983;
 - (b) “**the 1990 Convention**” means the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Kingdom of Norway, signed in Oslo on 19 June 1990;
@@ -182,7 +182,7 @@ Articles 1, 2 and 3
   | --- |
   | ARTICLE 2<br>**Persons Covered** |
 
-[^key-108677bb237a0a221c1edc212f80c059]This Convention applies to persons, including stateless persons and refugees, who are or have been subject to the legislation of one or more States, as well as to the members of their families and their survivors.
+[^c-108677bb237a0a221c1edc212f80c059]This Convention applies to persons, including stateless persons and refugees, who are or have been subject to the legislation of one or more States, as well as to the members of their families and their survivors.
 
 |  |
 | --- |
@@ -267,7 +267,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 9<br>**Equal treatment of benefits, income, facts or events** |
 
-[^key-108677bb237a0a221c1edc212f80c059]Unless otherwise provided for in this Convention, the States shall ensure the application of the principle of equal treatment of benefits, income, facts or events in the following manner:
+[^c-108677bb237a0a221c1edc212f80c059]Unless otherwise provided for in this Convention, the States shall ensure the application of the principle of equal treatment of benefits, income, facts or events in the following manner:
 
 - (a) where, under the legislation of the competent State, the receipt of social security benefits and other income has certain legal effects, the relevant provisions of that legislation shall also apply to the receipt of equivalent benefits acquired under the legislation of another State or to income acquired in another State;
 - (b) where, under the legislation of the competent State, legal effects are attributed to the occurrence of certain facts or events, that State shall take account of like facts or events that have occurred in any other State as though they had taken place in its own territory.
@@ -276,7 +276,7 @@ Articles 1, 2 and 3
   | --- |
   | ARTICLE 10<br>**Aggregation of periods** |
 
-[^key-108677bb237a0a221c1edc212f80c059]Unless otherwise provided for in this Convention, the competent institution of a State shall, to the extent necessary, take into account periods of insurance, employment, self-employment or residence completed under the legislation of any other State as though they were periods completed under the legislation which it applies, where its legislation makes conditional upon the completion of periods of insurance, employment, self-employment or residence:
+[^c-108677bb237a0a221c1edc212f80c059]Unless otherwise provided for in this Convention, the competent institution of a State shall, to the extent necessary, take into account periods of insurance, employment, self-employment or residence completed under the legislation of any other State as though they were periods completed under the legislation which it applies, where its legislation makes conditional upon the completion of periods of insurance, employment, self-employment or residence:
 
 - (a) the acquisition, retention, duration or recovery of the right to benefits;
 - (b) the coverage by legislation; or
@@ -286,7 +286,7 @@ Articles 1, 2 and 3
   | --- |
   | ARTICLE 11<br>**Waiving of residence rules** |
 
-[^key-108677bb237a0a221c1edc212f80c059]The States shall ensure the application of the principle of exportability of cash benefits in accordance with sub-paragraphs (a) and (b):
+[^c-108677bb237a0a221c1edc212f80c059]The States shall ensure the application of the principle of exportability of cash benefits in accordance with sub-paragraphs (a) and (b):
 
 - (a) Cash benefits payable under the legislation of a State or under this Convention shall not be subject to any reduction, amendment, suspension, withdrawal or confiscation on account of the fact that the beneficiary or the members of their family reside in a State other than that in which the institution responsible for providing benefits is situated.
 - (b) Sub-paragraph (a) does not apply to the cash benefits covered by Article 6(1)(c) and (h).
@@ -295,7 +295,7 @@ Articles 1, 2 and 3
   | --- |
   | ARTICLE 12<br>**Preventing of overlapping of benefits** |
 
-[^key-108677bb237a0a221c1edc212f80c059]Unless otherwise provided, this Convention shall neither confer nor maintain the right to several benefits of the same kind for one and the same period of compulsory insurance.
+[^c-108677bb237a0a221c1edc212f80c059]Unless otherwise provided, this Convention shall neither confer nor maintain the right to several benefits of the same kind for one and the same period of compulsory insurance.
 
 |  |
 | --- |
@@ -424,7 +424,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 20<br>**Immigration applications** |
 
-[^key-108677bb237a0a221c1edc212f80c059]This Convention applies without prejudice to the right of a State to charge a health fee under national legislation in connection with an application for a permit to enter, to stay, to work, or to reside in that State.
+[^c-108677bb237a0a221c1edc212f80c059]This Convention applies without prejudice to the right of a State to charge a health fee under national legislation in connection with an application for a permit to enter, to stay, to work, or to reside in that State.
 
 |  |
 | --- |
@@ -434,7 +434,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 21<br>**Residence in a State other than the competent State** |
 
-[^key-108677bb237a0a221c1edc212f80c059]An insured person or members of their family who reside in a State other than the competent State shall receive in the State of residence benefits in kind provided, on behalf of the competent institution, by the institution of the place of residence, in accordance with the legislation it applies, as though the persons concerned were insured under the said legislation.
+[^c-108677bb237a0a221c1edc212f80c059]An insured person or members of their family who reside in a State other than the competent State shall receive in the State of residence benefits in kind provided, on behalf of the competent institution, by the institution of the place of residence, in accordance with the legislation it applies, as though the persons concerned were insured under the said legislation.
 
 |  |
 | --- |
@@ -444,7 +444,7 @@ Articles 1, 2 and 3
 
 (2) The members of the family of a frontier worker shall be entitled to benefits in kind during their stay in the competent State.
 
-[^key-108677bb237a0a221c1edc212f80c059]Where the competent State is listed in Annex 3 however, the members of the family of a frontier worker who reside in the same State as the frontier worker shall be entitled to benefits in kind in the competent State only under the conditions laid down in Article 23.
+[^c-108677bb237a0a221c1edc212f80c059]Where the competent State is listed in Annex 3 however, the members of the family of a frontier worker who reside in the same State as the frontier worker shall be entitled to benefits in kind in the competent State only under the conditions laid down in Article 23.
 
 |  |
 | --- |
@@ -500,7 +500,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 27<br>**Right to benefits in kind under the legislation of the State of residence** |
 
-[^key-108677bb237a0a221c1edc212f80c059]A person who receives a pension or pensions under the legislation of two or more States, of which one is the State of residence, and who is entitled to benefits in kind under the legislation of that State, shall, with the members of their family, receive such benefits in kind from and at the expense of the institution of the place of residence, as though that person were a pensioner whose pension was payable solely under the legislation of that State.
+[^c-108677bb237a0a221c1edc212f80c059]A person who receives a pension or pensions under the legislation of two or more States, of which one is the State of residence, and who is entitled to benefits in kind under the legislation of that State, shall, with the members of their family, receive such benefits in kind from and at the expense of the institution of the place of residence, as though that person were a pensioner whose pension was payable solely under the legislation of that State.
 
 |  |
 | --- |
@@ -512,7 +512,7 @@ Articles 1, 2 and 3
 - (b) receives a pension or pensions under the legislation of one or more States; and
 - (c) is not entitled to benefits in kind under the legislation of the State of residence,
 
-[^key-108677bb237a0a221c1edc212f80c059]shall nevertheless receive such benefits for themselves and the members of their family, insofar as the pensioner would be entitled to them under the legislation of the State competent in respect of their pension or at least one of the States competent, if that person resided in that State. The benefits in kind shall be provided at the expense of the institution referred to in paragraph (2) by the institution of the place of residence, as though the person concerned were entitled to a pension and entitled to benefits in kind under the legislation of that State.
+[^c-108677bb237a0a221c1edc212f80c059]shall nevertheless receive such benefits for themselves and the members of their family, insofar as the pensioner would be entitled to them under the legislation of the State competent in respect of their pension or at least one of the States competent, if that person resided in that State. The benefits in kind shall be provided at the expense of the institution referred to in paragraph (2) by the institution of the place of residence, as though the person concerned were entitled to a pension and entitled to benefits in kind under the legislation of that State.
 
 (2) In the cases covered by paragraph (1), the cost of the benefits in kind shall be borne by the institution as determined in accordance with the following rules:
 
@@ -524,18 +524,18 @@ Articles 1, 2 and 3
   | --- |
   | ARTICLE 29<br>**Pensions under the legislation of one or more States other than the State of residence, where there is a right to benefits in kind in the latter State** |
 
-[^key-108677bb237a0a221c1edc212f80c059]Where a person receiving a pension or pensions under the legislation of one or more States resides in a State under whose legislation the right to receive benefits in kind is not subject to conditions of insurance, or conditions of activity as an employed or self-employed person, and that person does not receive a pension from the State of residence, the cost of benefits in kind provided to them and to members of their family shall be borne by the institution of one of the States competent in respect of the person’s pensions determined in accordance with Article 28(2) to the extent that the person and the members of their family would be entitled to such benefits if they resided in that State.
+[^c-108677bb237a0a221c1edc212f80c059]Where a person receiving a pension or pensions under the legislation of one or more States resides in a State under whose legislation the right to receive benefits in kind is not subject to conditions of insurance, or conditions of activity as an employed or self-employed person, and that person does not receive a pension from the State of residence, the cost of benefits in kind provided to them and to members of their family shall be borne by the institution of one of the States competent in respect of the person’s pensions determined in accordance with Article 28(2) to the extent that the person and the members of their family would be entitled to such benefits if they resided in that State.
 
 |  |
 | --- |
 | ARTICLE 30<br>**Residence of members of the family in a State other than the one in which the pensioner resides** |
 
-[^key-108677bb237a0a221c1edc212f80c059]Where a person:
+[^c-108677bb237a0a221c1edc212f80c059]Where a person:
 
 - (a) receives a pension or pensions under the legislation of one or more States; and
 - (b) resides in a State other than the one in which members of their family reside,
 
-[^key-108677bb237a0a221c1edc212f80c059]those members of that person’s family shall be entitled to receive benefits in kind from the institution of the place of their residence in accordance with the legislation it applies insofar as the pensioner is entitled to benefits in kind under the legislation of a State. The costs shall be borne by the competent institution responsible for the costs of the benefits in kind provided to the pensioner in their State of residence.
+[^c-108677bb237a0a221c1edc212f80c059]those members of that person’s family shall be entitled to receive benefits in kind from the institution of the place of their residence in accordance with the legislation it applies insofar as the pensioner is entitled to benefits in kind under the legislation of a State. The costs shall be borne by the competent institution responsible for the costs of the benefits in kind provided to the pensioner in their State of residence.
 
 |  |
 | --- |
@@ -546,7 +546,7 @@ Articles 1, 2 and 3
 - (a) a person receiving a pension or pensions under the legislation of one or more States and who is entitled to benefits in kind under the legislation of one of the States which provide their pension(s);
 - (b) the members of their family,
 
-[^key-108677bb237a0a221c1edc212f80c059]who are staying in a State other than the one in which they reside.
+[^c-108677bb237a0a221c1edc212f80c059]who are staying in a State other than the one in which they reside.
 
 (2) Article 22(1) applies *mutatis mutandis* to the persons described in paragraph (1) when they stay in the State in which is situated the competent institution responsible for the cost of the benefits in kind provided to the pensioner in their State of residence and that State has opted for this and is listed in Annex 4.
 
@@ -580,7 +580,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 34<br>**General Provisions** |
 
-[^key-108677bb237a0a221c1edc212f80c059]Articles 27 to 33 do not apply to a pensioner or the members of the pensioner’s family who are entitled to benefits under the legislation of a State on the basis of an activity as an employed or self-employed person. In such cases, the person concerned shall be subject, for the purposes of this Chapter, to Articles 21 to 25.
+[^c-108677bb237a0a221c1edc212f80c059]Articles 27 to 33 do not apply to a pensioner or the members of the pensioner’s family who are entitled to benefits under the legislation of a State on the basis of an activity as an employed or self-employed person. In such cases, the person concerned shall be subject, for the purposes of this Chapter, to Articles 21 to 25.
 
 |  |
 | --- |
@@ -633,13 +633,13 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 39<br>**Benefits for an occupational disease where the person suffering from such a disease has been exposed to the same risk in several States** |
 
-[^key-108677bb237a0a221c1edc212f80c059]When a person who has contracted an occupational disease has, under the legislation of two or more States, pursued an activity which by its nature is likely to cause the said disease, the benefits that that person or their survivors may claim shall be provided exclusively under the legislation of the last of those States whose conditions are satisfied.
+[^c-108677bb237a0a221c1edc212f80c059]When a person who has contracted an occupational disease has, under the legislation of two or more States, pursued an activity which by its nature is likely to cause the said disease, the benefits that that person or their survivors may claim shall be provided exclusively under the legislation of the last of those States whose conditions are satisfied.
 
 |  |
 | --- |
 | ARTICLE 40<br>**Aggravation of an occupational disease** |
 
-[^key-108677bb237a0a221c1edc212f80c059]In the event of aggravation of an occupational disease for which a person suffering from such a disease has received or is receiving benefits under the legislation of a State, the following rules apply:
+[^c-108677bb237a0a221c1edc212f80c059]In the event of aggravation of an occupational disease for which a person suffering from such a disease has received or is receiving benefits under the legislation of a State, the following rules apply:
 
 - (a) if the person concerned, while in receipt of benefits, has not pursued, under the legislation of another State, an activity as an employed or self-employed person likely to cause or aggravate the disease in question, the competent institution of the first State shall bear the cost of the benefits under the provisions of the legislation which it applies, taking into account the aggravation;
 - (b) if the person concerned, while in receipt of benefits, has pursued such an activity under the legislation of another State, the competent institution of the first State shall bear the cost of the benefits under the legislation it applies without taking the aggravation into account. The competent institution of the second State shall grant a supplement to the person concerned, the amount of which shall be equal to the difference between the amount of benefits due after the aggravation and the amount which would have been due prior to the aggravation under the legislation it applies, if the disease in question had occurred under the legislation of that State;
@@ -696,19 +696,19 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 45<br>**Calculation of invalidity benefits** |
 
-[^key-108677bb237a0a221c1edc212f80c059]Without prejudice to Article 10 where, under the legislation of the State competent under Title II of this Convention, the amount of invalidity benefits is dependent on the duration of the periods of insurance, employment, self-employment or residence, the competent State is not required to take into account any such periods completed under the legislation of another State for the purposes of calculating the amount of invalidity benefit payable.
+[^c-108677bb237a0a221c1edc212f80c059]Without prejudice to Article 10 where, under the legislation of the State competent under Title II of this Convention, the amount of invalidity benefits is dependent on the duration of the periods of insurance, employment, self-employment or residence, the competent State is not required to take into account any such periods completed under the legislation of another State for the purposes of calculating the amount of invalidity benefit payable.
 
 |  |
 | --- |
 | ARTICLE 46<br>**Special provisions on aggregation of periods** |
 
-[^key-108677bb237a0a221c1edc212f80c059]The competent institution of a State whose legislation makes the acquisition, retention or recovery of the right to benefits conditional upon the completion of periods of insurance or residence shall, where necessary, apply Article 50 *mutatis mutandis*.
+[^c-108677bb237a0a221c1edc212f80c059]The competent institution of a State whose legislation makes the acquisition, retention or recovery of the right to benefits conditional upon the completion of periods of insurance or residence shall, where necessary, apply Article 50 *mutatis mutandis*.
 
 |  |
 | --- |
 | ARTICLE 47<br>**Aggravation of invalidity** |
 
-[^key-108677bb237a0a221c1edc212f80c059]In the case of aggravation of an invalidity for which a person is receiving benefits under the legislation of a State in accordance with this Convention, the benefit shall continue to be provided in accordance with this Chapter, taking the aggravation into account.
+[^c-108677bb237a0a221c1edc212f80c059]In the case of aggravation of an invalidity for which a person is receiving benefits under the legislation of a State in accordance with this Convention, the benefit shall continue to be provided in accordance with this Chapter, taking the aggravation into account.
 
 |  |
 | --- |
@@ -797,7 +797,7 @@ Articles 1, 2 and 3
   - (i) a benefit of the same type, except where an agreement has been concluded between two or more States to avoid the same credited period being taken into account more than once; or
   - (ii) a benefit referred to in sub-paragraph (a).
 
-[^key-108677bb237a0a221c1edc212f80c059]The benefits and agreements referred to in sub-paragraphs (a) and (b) are listed in Annex 6.
+[^c-108677bb237a0a221c1edc212f80c059]The benefits and agreements referred to in sub-paragraphs (a) and (b) are listed in Annex 6.
 
 |  |
 | --- |
@@ -825,7 +825,7 @@ Articles 1, 2 and 3
   - (i) determine the basis for calculation of the benefits in accordance only with periods of insurance completed under the legislation it applies;
   - (ii) use, in order to determine the amount to be calculated in accordance with the periods of insurance and/or residence completed under the legislation of the other States, the same elements determined or recorded for the periods of insurance completed under the legislation it applies;
 
-[^key-108677bb237a0a221c1edc212f80c059]where necessary in accordance with the procedures laid down in Annex 7 for the State concerned;
+[^c-108677bb237a0a221c1edc212f80c059]where necessary in accordance with the procedures laid down in Annex 7 for the State concerned;
 
 - (d) in the event that sub-paragraph (c) is not applicable because the legislation of a State provides for the benefit to be calculated on the basis of elements other than periods of insurance or residence which are not linked to time, the competent institution shall take into account, in respect of each period of insurance or residence completed under the legislation of any other State, the amount of the capital accrued, the capital which is considered as having been accrued or any other element for the calculation under the legislation it administers divided by the corresponding units of periods in the pension scheme concerned.
 
@@ -840,7 +840,7 @@ Articles 1, 2 and 3
 - (a) the duration of the said periods is less than one year; and
 - (b) taking only these periods into account no right to benefit is acquired under that legislation.
 
-[^key-108677bb237a0a221c1edc212f80c059]For the purposes of this Article, “**periods**” shall mean all periods of insurance, employment, self-employment or residence which either qualify for, or directly increase, the benefit concerned.
+[^c-108677bb237a0a221c1edc212f80c059]For the purposes of this Article, “**periods**” shall mean all periods of insurance, employment, self-employment or residence which either qualify for, or directly increase, the benefit concerned.
 
 (2) The competent institution of each of the States concerned shall take into account the periods referred to in paragraph (1), for the purposes of Article 51(1)(b)(i).
 
@@ -866,7 +866,7 @@ Articles 1, 2 and 3
 
 (1) The competent institution of a State whose legislation makes the acquisition, retention, recovery or duration of the right to benefits conditional upon the completion of either periods of insurance, employment or self-employment shall, to the extent necessary, take into account periods of insurance, employment or self-employment completed under the legislation of any other State as though they were completed under the legislation it applies.
 
-[^key-108677bb237a0a221c1edc212f80c059]However, when the applicable legislation makes the right to benefits conditional on the completion of periods of insurance, the periods of employment or self-employment completed under the legislation of another State shall not be taken into account unless such periods would have been considered to be periods of insurance had they been completed in accordance with the applicable legislation.
+[^c-108677bb237a0a221c1edc212f80c059]However, when the applicable legislation makes the right to benefits conditional on the completion of periods of insurance, the periods of employment or self-employment completed under the legislation of another State shall not be taken into account unless such periods would have been considered to be periods of insurance had they been completed in accordance with the applicable legislation.
 
 (2) The application of paragraph (1) of this Article shall be conditional on the person concerned having the most recently completed, in accordance with the legislation under which the benefits are claimed:
 
@@ -954,7 +954,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 65<br>**Claims, declarations or appeals** |
 
-[^key-108677bb237a0a221c1edc212f80c059]Any claim, declaration or appeal which should have been submitted, in application of the legislation of one State, within a specified period to an authority, institution or tribunal of that State shall be admissible if it is submitted within the same period to a corresponding authority, institution or tribunal of another State. In such a case, the authority, institution or tribunal receiving the claim, declaration or appeal shall forward it without delay to the competent authority, institution or tribunal of the former State either directly or through the competent authorities of the States concerned. The date on which such claims, declarations or appeals were submitted to the authority, institution or tribunal of the second State shall be considered as the date of their submission to the competent authority, institution or tribunal.
+[^c-108677bb237a0a221c1edc212f80c059]Any claim, declaration or appeal which should have been submitted, in application of the legislation of one State, within a specified period to an authority, institution or tribunal of that State shall be admissible if it is submitted within the same period to a corresponding authority, institution or tribunal of another State. In such a case, the authority, institution or tribunal receiving the claim, declaration or appeal shall forward it without delay to the competent authority, institution or tribunal of the former State either directly or through the competent authorities of the States concerned. The date on which such claims, declarations or appeals were submitted to the authority, institution or tribunal of the second State shall be considered as the date of their submission to the competent authority, institution or tribunal.
 
 |  |
 | --- |
@@ -987,7 +987,7 @@ Articles 1, 2 and 3
 
 (2) If a person receives benefits under the legislation of one State in respect of an injury resulting from events occurring in another State, the provisions of the said legislation which determine the cases in which the civil liability of employers or of their employees is to be excluded apply with regard to the said person or to the competent institution.
 
-[^key-108677bb237a0a221c1edc212f80c059]Paragraph (1) shall also apply to any rights of the institution responsible for providing benefits against employers or their employees in cases where their liability is not excluded.
+[^c-108677bb237a0a221c1edc212f80c059]Paragraph (1) shall also apply to any rights of the institution responsible for providing benefits against employers or their employees in cases where their liability is not excluded.
 
 (3) Where, in accordance with Article 36(3) or Article 42(2), two or more States or their competent authorities have concluded an agreement to waive reimbursement between institutions under their jurisdiction, or, where reimbursement does not depend on the amount of benefits actually provided, any rights arising against a liable third party shall be governed by the following rules:
 
@@ -1001,7 +1001,7 @@ Articles 1, 2 and 3
   | --- |
   | ARTICLE 69<br>**Implementation of legislation** |
 
-[^key-108677bb237a0a221c1edc212f80c059]Special provisions for implementing the legislation of a certain State are referred to in Annex 7 to the Convention.
+[^c-108677bb237a0a221c1edc212f80c059]Special provisions for implementing the legislation of a certain State are referred to in Annex 7 to the Convention.
 
 |  |
 | --- |
@@ -1057,7 +1057,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 72<br>**Annexes** |
 
-[^key-108677bb237a0a221c1edc212f80c059]The Annexes (including any appendices) shall form integral parts of this Convention.
+[^c-108677bb237a0a221c1edc212f80c059]The Annexes (including any appendices) shall form integral parts of this Convention.
 
 |  |
 | --- |
@@ -1143,9 +1143,9 @@ Articles 1, 2 and 3
 - (b) any claim to a benefit, pension or allowance made but not determined at the date upon which this Convention comes into force;
 - (c) any claim to a benefit, pension or allowance made after the date this Convention comes into force but only where that claim relates to entitlement to such benefit, pension or allowance for a period prior to the date upon which this Convention comes into force.
 
-[^key-108677bb237a0a221c1edc212f80c059]In witness whereof the undersigned, duly authorised by their respective Governments, have signed this Convention.
+[^c-108677bb237a0a221c1edc212f80c059]In witness whereof the undersigned, duly authorised by their respective Governments, have signed this Convention.
 
-[^key-108677bb237a0a221c1edc212f80c059]Done at London, this 30th day of June 2023, in one original in the English language, which shall be deposited with the Depositary, who shall transmit certified copies to all the States.
+[^c-108677bb237a0a221c1edc212f80c059]Done at London, this 30th day of June 2023, in one original in the English language, which shall be deposited with the Depositary, who shall transmit certified copies to all the States.
 
 |  |
 | --- |
@@ -1178,7 +1178,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 1<br>**Definitions** |
 
-[^key-108677bb237a0a221c1edc212f80c059]For the purposes of this Annex, the following definitions, in addition to those set out in Article 1 of this Convention, apply.
+[^c-108677bb237a0a221c1edc212f80c059]For the purposes of this Annex, the following definitions, in addition to those set out in Article 1 of this Convention, apply.
 
 - (a) “**document**” means a set of data, irrespective of the medium used, structured in such a way that it can be exchanged electronically and which must be communicated in order to enable the operation of this Convention and this Annex;
 - (b) “**fraud**” means any deliberate act or deliberate omission to act, carried out with the intention to either:
@@ -1283,7 +1283,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 9<br>**Prevention of overlapping of benefits** |
 
-[^key-108677bb237a0a221c1edc212f80c059]Notwithstanding other provisions in this Convention, when benefits due under the legislation of two or more States are mutually reduced, suspended or withdrawn, any amounts that would not be paid in the event of strict application of the rules concerning reduction, suspension or withdrawal laid down by the legislation of the State concerned shall be divided by the number of benefits subjected to reduction, suspension or withdrawal.
+[^c-108677bb237a0a221c1edc212f80c059]Notwithstanding other provisions in this Convention, when benefits due under the legislation of two or more States are mutually reduced, suspended or withdrawn, any amounts that would not be paid in the event of strict application of the rules concerning reduction, suspension or withdrawal laid down by the legislation of the State concerned shall be divided by the number of benefits subjected to reduction, suspension or withdrawal.
 
 |  |
 | --- |
@@ -1346,7 +1346,7 @@ Articles 1, 2 and 3
 
 (2) The application of paragraph (1) shall not have the effect of producing, for the total sum of the periods completed during one calendar year, a total exceeding the number of days indicated in the last column in the table in paragraph (1)(b), 52 weeks, 12 months or four quarters.
 
-[^key-108677bb237a0a221c1edc212f80c059]If the periods to be converted correspond to the maximum annual amount of periods under the legislation of the State in which they have been completed, the application of paragraph (1) shall not result within one calendar year in periods that are shorter than the possible maximum annual amount of periods provided under the legislation concerned.
+[^c-108677bb237a0a221c1edc212f80c059]If the periods to be converted correspond to the maximum annual amount of periods under the legislation of the State in which they have been completed, the application of paragraph (1) shall not result within one calendar year in periods that are shorter than the possible maximum annual amount of periods provided under the legislation concerned.
 
 (3) The conversion shall be carried out either in one single operation covering all those periods which were communicated as an aggregate, or for each year, if the periods were communicated on a year-by-year basis.
 
@@ -1392,7 +1392,7 @@ Articles 1, 2 and 3
 - (a) in the case of an employed activity, the working time or the remuneration; and
 - (b) in the case of a self-employed activity, the turnover, working time, number of services rendered or income.
 
-[^key-108677bb237a0a221c1edc212f80c059]In the framework of an overall assessment, a share of less than 25% in respect of the criteria mentioned above shall be an indicator that a substantial part of the activities is not being pursued in the relevant State.
+[^c-108677bb237a0a221c1edc212f80c059]In the framework of an overall assessment, a share of less than 25% in respect of the criteria mentioned above shall be an indicator that a substantial part of the activities is not being pursued in the relevant State.
 
 (13) For the purposes of the application of Article 15(2)(b) of this Convention, the “centre of interest” of the activities of a self-employed person shall be determined by taking account of all the aspects of that person’s occupational activities, notably the place where the person’s fixed and permanent place of business is located, the habitual nature or the duration of the activities pursued, the number of services rendered, and the intention of the person concerned as revealed by all the circumstances.
 
@@ -1422,7 +1422,7 @@ Articles 1, 2 and 3
 
 (4) Where uncertainty about the determination of the applicable legislation requires contacts between the institutions or authorities of two or more States, at the request of one or more of the institutions designated by the competent authorities of the State(s) concerned, or of the competent authorities themselves, the legislation applicable to the person concerned shall be determined by common agreement, having regard to Article 15 of this Convention and Article 13 of this Annex.
 
-[^key-108677bb237a0a221c1edc212f80c059]Where there is a difference of views between the institutions or competent authorities concerned, those bodies shall seek agreement in accordance with the conditions set out above and Article 6 of this Annex shall apply.
+[^c-108677bb237a0a221c1edc212f80c059]Where there is a difference of views between the institutions or competent authorities concerned, those bodies shall seek agreement in accordance with the conditions set out above and Article 6 of this Annex shall apply.
 
 (5) The competent institution of the State whose legislation is determined to be applicable either provisionally or definitively shall without delay inform the person concerned.
 
@@ -1432,7 +1432,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 16<br>**Procedure for the application of Article 18 of this Convention** |
 
-[^key-108677bb237a0a221c1edc212f80c059]A request by the employer or the person concerned for exceptions to Articles 13 to 17 of this Convention shall be submitted, whenever possible in advance, to the competent authority or the body designated by the authority of the State, whose legislation the employee or person concerned requests be applied.
+[^c-108677bb237a0a221c1edc212f80c059]A request by the employer or the person concerned for exceptions to Articles 13 to 17 of this Convention shall be submitted, whenever possible in advance, to the competent authority or the body designated by the authority of the State, whose legislation the employee or person concerned requests be applied.
 
 |  |
 | --- |
@@ -1498,7 +1498,7 @@ Articles 1, 2 and 3
 - (b) have registered that document with the institution of the place of residence in accordance with paragraph (1); and
 - (c) a health fee has been paid by or on behalf of the person or members of their family to the State of residence as part of an application for a permit to enter, stay, work or reside in that State,
 
-[^key-108677bb237a0a221c1edc212f80c059]that person or members of that person’s family may apply to the institution of the State of residence for reimbursement (in whole or part, as the case may be) of the health fee paid.
+[^c-108677bb237a0a221c1edc212f80c059]that person or members of that person’s family may apply to the institution of the State of residence for reimbursement (in whole or part, as the case may be) of the health fee paid.
 
 (5) Where a claim is made in accordance with paragraph (1), the institution of the State of residence shall determine that claim within three calendar months, starting on the day the claim was received, and shall make any reimbursement of a health fee paid in accordance with the conditions in this Article.
 
@@ -1528,7 +1528,7 @@ Articles 1, 2 and 3
 
 (5) If the reimbursement of such costs has not been requested directly from the institution of the place of stay, the costs incurred shall be reimbursed to the person concerned by the competent institution in accordance with the reimbursement rates administered by the institution of the place of stay or the amounts which would have been subject to reimbursement to the institution of the place of stay, if Article 46 of this Annex had applied in the case concerned.
 
-[^key-108677bb237a0a221c1edc212f80c059]The institution of the place of stay shall provide the competent institution, upon request, with all necessary information about these rates or amounts.
+[^c-108677bb237a0a221c1edc212f80c059]The institution of the place of stay shall provide the competent institution, upon request, with all necessary information about these rates or amounts.
 
 (6) By way of derogation from paragraph (5), the competent institution may undertake the reimbursement of the costs incurred within the limits of and under the conditions of the reimbursement rates laid down in its legislation, provided that the insured person has agreed to this provision being applied to them.
 
@@ -1555,7 +1555,7 @@ Articles 1, 2 and 3
 - (c) does not exercise, or has not exercised, an activity as an employed or self-employed person in the State of study during the period to which the health fee relates; and
 - (d) a health fee has been paid by or on behalf of that person to the State of study as part of an application for a permit to enter, stay or reside for the purposes of pursuing a full-time course of study in that State;
 
-[^key-108677bb237a0a221c1edc212f80c059]that person may apply to the institution of the State of study for reimbursement (in whole or part, as the case may be) of the health fee paid.
+[^c-108677bb237a0a221c1edc212f80c059]that person may apply to the institution of the State of study for reimbursement (in whole or part, as the case may be) of the health fee paid.
 
 (12) Where a claim is made in accordance with paragraph (11), the institution of the State of study shall process and settle that claim within a reasonable period but not later than three calendar months starting on the day the claim was received and make any reimbursement of a health fee paid in accordance with the conditions in this Article.
 
@@ -1579,17 +1579,17 @@ Articles 1, 2 and 3
 
 (2) If an insured person does not reside in the competent State, they shall request authorisation from the institution of the place of residence, which shall forward it to the competent institution without delay.
 
-[^key-108677bb237a0a221c1edc212f80c059]In that event, the institution of the place of residence shall certify in a statement whether the conditions set out in the second sentence of Article 24(2) of this Convention are met in the State of residence.
+[^c-108677bb237a0a221c1edc212f80c059]In that event, the institution of the place of residence shall certify in a statement whether the conditions set out in the second sentence of Article 24(2) of this Convention are met in the State of residence.
 
-[^key-108677bb237a0a221c1edc212f80c059]The competent institution may refuse to grant the requested authorisation only if, in accordance with the assessment of the institution of the place of residence, the conditions set out in the second sentence of Article 24(2) of this Convention are not met in the State of residence of the insured person, or if the same treatment can be provided in the competent State itself, within a time-limit which is medically justifiable, taking into account the current state of health and the probable course of illness of the person concerned.
+[^c-108677bb237a0a221c1edc212f80c059]The competent institution may refuse to grant the requested authorisation only if, in accordance with the assessment of the institution of the place of residence, the conditions set out in the second sentence of Article 24(2) of this Convention are not met in the State of residence of the insured person, or if the same treatment can be provided in the competent State itself, within a time-limit which is medically justifiable, taking into account the current state of health and the probable course of illness of the person concerned.
 
-[^key-108677bb237a0a221c1edc212f80c059]The competent institution shall inform the institution of the place of residence of its decision.
+[^c-108677bb237a0a221c1edc212f80c059]The competent institution shall inform the institution of the place of residence of its decision.
 
-[^key-108677bb237a0a221c1edc212f80c059]In the absence of a reply within the deadlines set by its national legislation, the authorisation shall be considered to have been granted by the competent institution.
+[^c-108677bb237a0a221c1edc212f80c059]In the absence of a reply within the deadlines set by its national legislation, the authorisation shall be considered to have been granted by the competent institution.
 
 (3) If an insured person who does not reside in the competent State is in need of urgent vitally necessary treatment, and the authorisation cannot be refused in accordance with the second sentence of Article 24(2) of this Convention, the authorisation shall be granted by the institution of the place of residence on behalf of the competent institution, which shall be immediately informed by the institution of the place of residence.
 
-[^key-108677bb237a0a221c1edc212f80c059]The competent institution shall accept the findings and the treatment options of the doctors approved by the institution of the place of residence that issues the authorisation, concerning the need for urgent vitally necessary treatment.
+[^c-108677bb237a0a221c1edc212f80c059]The competent institution shall accept the findings and the treatment options of the doctors approved by the institution of the place of residence that issues the authorisation, concerning the need for urgent vitally necessary treatment.
 
 (4) At any time during the procedure granting the authorisation, the competent institution shall retain the right to have the insured person examined by a doctor of its own choice in the State of stay or residence.
 
@@ -1659,7 +1659,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 25<br>**Contributions by pensioners** |
 
-[^key-108677bb237a0a221c1edc212f80c059]If a person receives a pension from more than one State, the amount of contributions deducted from all the pensions paid shall, under no circumstances, be greater than the amount deducted in respect of a person who receives the same amount of pension from the competent State.
+[^c-108677bb237a0a221c1edc212f80c059]If a person receives a pension from more than one State, the amount of contributions deducted from all the pensions paid shall, under no circumstances, be greater than the amount deducted in respect of a person who receives the same amount of pension from the competent State.
 
 |  |
 | --- |
@@ -1695,9 +1695,9 @@ Articles 1, 2 and 3
 
 (2) When a final decision has been taken on that subject, the competent institution shall, without delay, inform the institution of the place of residence or stay which provided the benefits in kind.
 
-[^key-108677bb237a0a221c1edc212f80c059]Where an accident at work or occupational disease is not established, benefits in kind shall continue to be provided as sickness benefits if the person concerned is entitled to them.
+[^c-108677bb237a0a221c1edc212f80c059]Where an accident at work or occupational disease is not established, benefits in kind shall continue to be provided as sickness benefits if the person concerned is entitled to them.
 
-[^key-108677bb237a0a221c1edc212f80c059]Where an accident at work or occupational disease is established, sickness benefits in kind provided to the person concerned shall be considered as accident at work or occupational disease benefits from the date on which the accident at work occurred or the occupational disease was first medically diagnosed.
+[^c-108677bb237a0a221c1edc212f80c059]Where an accident at work or occupational disease is established, sickness benefits in kind provided to the person concerned shall be considered as accident at work or occupational disease benefits from the date on which the accident at work occurred or the occupational disease was first medically diagnosed.
 
 (3) Article 6(6) of this Annex applies *mutatis mutandis*.
 
@@ -1707,7 +1707,7 @@ Articles 1, 2 and 3
 
 (1) In the case referred to in Article 39 of this Convention, the declaration or notification of the occupational disease shall be sent to the competent institution for occupational diseases of the last State under the legislation of which the person concerned pursued an activity likely to cause that disease.
 
-[^key-108677bb237a0a221c1edc212f80c059]When the institution to which the declaration or notification was sent establishes that an activity likely to cause the occupational disease in question was last pursued under the legislation of another State, it shall send the declaration or notification and all accompanying certificates to the equivalent institution in that State.
+[^c-108677bb237a0a221c1edc212f80c059]When the institution to which the declaration or notification was sent establishes that an activity likely to cause the occupational disease in question was last pursued under the legislation of another State, it shall send the declaration or notification and all accompanying certificates to the equivalent institution in that State.
 
 (2) Where the institution of the last State under the legislation of which the person concerned pursued an activity likely to cause the occupational disease in question establishes that the person concerned or their survivors do not meet the requirements of that legislation, *inter alia*, because the person concerned had never pursued in that State an activity which caused the occupational disease or because that State does not recognise the occupational nature of the disease, that institution shall forward without delay the declaration or notification and all accompanying certificates, including the findings and reports of medical examinations performed by the first institution to the institution of the previous State under the legislation of which the person concerned pursued an activity likely to cause the occupational disease in question.
 
@@ -1727,13 +1727,13 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 31<br>**Aggravation of an occupational disease** |
 
-[^key-108677bb237a0a221c1edc212f80c059]In the cases covered by Article 40 of this Convention, the claimant must provide the institution in the State from which they are claiming entitlement to benefits with details concerning benefits previously granted for the occupational disease in question. That institution may contact any other previously competent institution in order to obtain the information it considers necessary.
+[^c-108677bb237a0a221c1edc212f80c059]In the cases covered by Article 40 of this Convention, the claimant must provide the institution in the State from which they are claiming entitlement to benefits with details concerning benefits previously granted for the occupational disease in question. That institution may contact any other previously competent institution in order to obtain the information it considers necessary.
 
 |  |
 | --- |
 | ARTICLE 32<br>**Assessment of the degree of incapacity in the event of occupational accidents or diseases which occurred previously or subsequently** |
 
-[^key-108677bb237a0a221c1edc212f80c059]Where a previous or subsequent incapacity for work was caused by an accident which occurred when the person concerned was subject to the legislation of a State which makes no distinction according to the origin of the incapacity to work, the competent institution or the body designated by the competent authority of the State in question shall:
+[^c-108677bb237a0a221c1edc212f80c059]Where a previous or subsequent incapacity for work was caused by an accident which occurred when the person concerned was subject to the legislation of a State which makes no distinction according to the origin of the incapacity to work, the competent institution or the body designated by the competent authority of the State in question shall:
 
 - (a) upon request by the competent institution of another State, provide information concerning the degree of the previous or subsequent incapacity for work, and where possible, information making it possible to determine whether the incapacity is the result of an accident at work within the meaning of the legislation applied by the institution in another State;
 - (b) take into account the degree of incapacity caused by these previous or subsequent cases when determining the right to benefits and the amount, in accordance with the applicable legislation.
@@ -1742,9 +1742,9 @@ Articles 1, 2 and 3
   | --- |
   | ARTICLE 33<br>**Submission and investigation of claims for pensions or supplementary allowances** |
 
-[^key-108677bb237a0a221c1edc212f80c059]In order to receive a pension or supplementary allowance under the legislation of a State, the person concerned or their survivors residing in the territory of another State shall submit, where appropriate, a claim either to the competent institution or to the institution of the place of residence, which shall send it to the competent institution.
+[^c-108677bb237a0a221c1edc212f80c059]In order to receive a pension or supplementary allowance under the legislation of a State, the person concerned or their survivors residing in the territory of another State shall submit, where appropriate, a claim either to the competent institution or to the institution of the place of residence, which shall send it to the competent institution.
 
-[^key-108677bb237a0a221c1edc212f80c059]The claim shall contain the information required under the legislation applied by the competent institution.
+[^c-108677bb237a0a221c1edc212f80c059]The claim shall contain the information required under the legislation applied by the competent institution.
 
 |  |
 | --- |
@@ -1754,9 +1754,9 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 34<br>**Claim for death grants** |
 
-[^key-108677bb237a0a221c1edc212f80c059]For the purposes of Articles 43 and 44 of this Convention, the claim for death grants shall be sent either to the competent institution or to the institution of the claimant’s place of residence, which shall send it to the competent institution.
+[^c-108677bb237a0a221c1edc212f80c059]For the purposes of Articles 43 and 44 of this Convention, the claim for death grants shall be sent either to the competent institution or to the institution of the claimant’s place of residence, which shall send it to the competent institution.
 
-[^key-108677bb237a0a221c1edc212f80c059]The claim shall contain the information required under the legislation applied by the competent institution.
+[^c-108677bb237a0a221c1edc212f80c059]The claim shall contain the information required under the legislation applied by the competent institution.
 
 |  |
 | --- |
@@ -1772,7 +1772,7 @@ Articles 1, 2 and 3
 
 (3) The institution of each State shall calculate, under the legislation it applies, the amount due corresponding to periods of voluntary or optional continued insurance which, under Article 52(3)(c) of this Convention, shall not be subject to another State’s rules relating to withdrawal, reduction or suspension.
 
-[^key-108677bb237a0a221c1edc212f80c059]Where the legislation applied by the competent institution does not allow it to determine this amount directly, on the grounds that that legislation allocates different values to insurance periods, a notional amount may be established. The Joint Administrative Committee shall lay down the detailed arrangements for the determination of that notional amount.
+[^c-108677bb237a0a221c1edc212f80c059]Where the legislation applied by the competent institution does not allow it to determine this amount directly, on the grounds that that legislation allocates different values to insurance periods, a notional amount may be established. The Joint Administrative Committee shall lay down the detailed arrangements for the determination of that notional amount.
 
 |  |
 | --- |
@@ -1826,13 +1826,13 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 39<br>**Notification of decisions to the claimant** |
 
-[^key-108677bb237a0a221c1edc212f80c059]Each institution shall notify the claimant of the decision it has taken in accordance with the applicable legislation. Each decision shall specify the remedies and periods allowed for appeals.
+[^c-108677bb237a0a221c1edc212f80c059]Each institution shall notify the claimant of the decision it has taken in accordance with the applicable legislation. Each decision shall specify the remedies and periods allowed for appeals.
 
 |  |
 | --- |
 | ARTICLE 40<br>**Determination of the degree of invalidity** |
 
-[^key-108677bb237a0a221c1edc212f80c059]Each institution shall, in accordance with its legislation, have the possibility of having the claimant examined by a medical doctor or other expert of its choice to determine the degree of invalidity. However, the institution of a State shall take into consideration documents, medical reports and administrative information collected by the institution of any other State as if they had been drawn up in its own territory.
+[^c-108677bb237a0a221c1edc212f80c059]Each institution shall, in accordance with its legislation, have the possibility of having the claimant examined by a medical doctor or other expert of its choice to determine the degree of invalidity. However, the institution of a State shall take into consideration documents, medical reports and administrative information collected by the institution of any other State as if they had been drawn up in its own territory.
 
 |  |
 | --- |
@@ -1869,7 +1869,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 44<br>**Coordination measures in the States** |
 
-[^key-108677bb237a0a221c1edc212f80c059]Without prejudice to Article 50 of this Convention, where national legislation includes rules for determining the institution responsible or the scheme applicable or for designating periods of insurance to a specific scheme, those rules shall be applied, taking into account only periods of insurance completed under the legislation of the State concerned.
+[^c-108677bb237a0a221c1edc212f80c059]Without prejudice to Article 50 of this Convention, where national legislation includes rules for determining the institution responsible or the scheme applicable or for designating periods of insurance to a specific scheme, those rules shall be applied, taking into account only periods of insurance completed under the legislation of the State concerned.
 
 |  |
 | --- |
@@ -1920,7 +1920,7 @@ Articles 1, 2 and 3
 - (a) family members who do not reside in the same State as the insured person, as provided for in Article 21 of this Convention; and to
 - (b) pensioners and members of their family, as provided for in Article 28(1), Article 29 and Article 30 of this Convention,
 
-[^key-108677bb237a0a221c1edc212f80c059]shall be reimbursed by the competent institutions to the institutions providing those benefits, on the basis of a fixed amount established for each calendar year. This fixed amount shall be as close as possible to actual expenditure.
+[^c-108677bb237a0a221c1edc212f80c059]shall be reimbursed by the competent institutions to the institutions providing those benefits, on the basis of a fixed amount established for each calendar year. This fixed amount shall be as close as possible to actual expenditure.
 
 |  |
 | --- |
@@ -1928,9 +1928,9 @@ Articles 1, 2 and 3
 
 (1) For each creditor State, the monthly fixed amount per person (Fi) for a calendar year shall be determined by dividing the annual average cost per person (Yi), broken down by age group (i), by 12 and by applying a reduction (X) to the result in accordance with the following formula:
 
-[^key-108677bb237a0a221c1edc212f80c059]*Fi = Yi\*1/12\*(1-X)*
+[^c-108677bb237a0a221c1edc212f80c059]*Fi = Yi\*1/12\*(1-X)*
 
-[^key-108677bb237a0a221c1edc212f80c059]Where:
+[^c-108677bb237a0a221c1edc212f80c059]Where:
 
 - the index (*i* = 1, 2 and 3) represents the three age groups used for calculating the fixed amounts:
 - *i* = 1: persons aged under 20,
@@ -1945,7 +1945,7 @@ Articles 1, 2 and 3
 
 (4) For each debtor State, the total fixed amount for a calendar year shall be the sum of the products obtained by multiplying, in each age group *i*, the determined monthly fixed amounts per person by the number of months completed by the persons concerned in the creditor State in that age group.
 
-[^key-108677bb237a0a221c1edc212f80c059]The number of months completed by the persons concerned in the creditor State shall be the sum of the calendar months in a calendar year during which the persons concerned were, because of their residence in the territory of the creditor State, eligible to receive benefits in kind in that territory at the expense of the debtor State. Those months shall be determined from an inventory kept for that purpose by the institution of the place of residence, based on documentary evidence of the entitlement of the beneficiaries supplied by the competent institution.
+[^c-108677bb237a0a221c1edc212f80c059]The number of months completed by the persons concerned in the creditor State shall be the sum of the calendar months in a calendar year during which the persons concerned were, because of their residence in the territory of the creditor State, eligible to receive benefits in kind in that territory at the expense of the debtor State. Those months shall be determined from an inventory kept for that purpose by the institution of the place of residence, based on documentary evidence of the entitlement of the beneficiaries supplied by the competent institution.
 
 (5) The Joint Administrative Committee may present a proposal containing any amendments which may prove necessary in order to ensure that the calculation of fixed amounts comes as close as possible to the actual expenditure incurred and the reductions referred to in paragraph (3) do not result in unbalanced payments or double payments for the States.
 
@@ -1955,7 +1955,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 49<br>**Notification of annual average costs** |
 
-[^key-108677bb237a0a221c1edc212f80c059]The annual average cost per person in each age group for a specific year shall be notified to the Joint Administrative Committee at the latest by the end of the second year following the year in question. If the notification is not made by this deadline, the annual average cost per person which the Joint Administrative Committee has last determined for a previous year will be taken.
+[^c-108677bb237a0a221c1edc212f80c059]The annual average cost per person in each age group for a specific year shall be notified to the Joint Administrative Committee at the latest by the end of the second year following the year in question. If the notification is not made by this deadline, the annual average cost per person which the Joint Administrative Committee has last determined for a previous year will be taken.
 
 |  |
 | --- |
@@ -2001,7 +2001,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 53<br>**Statement of Annual Accounts** |
 
-[^key-108677bb237a0a221c1edc212f80c059]The States shall notify each other of the amount of the claims introduced, settled or contested (creditor position) and the amount of claims received, settled or contested (debtor position).
+[^c-108677bb237a0a221c1edc212f80c059]The States shall notify each other of the amount of the claims introduced, settled or contested (creditor position) and the amount of claims received, settled or contested (debtor position).
 
 |  |
 | --- |
@@ -2015,7 +2015,7 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 54<br>**Common provisions** |
 
-[^key-108677bb237a0a221c1edc212f80c059]For the purposes of applying Article 67 of this Convention and within the framework defined therein, the recovery of claims shall, wherever possible, be by way of offsetting either between the institutions of the States concerned, or vis-à-vis the natural or legal person concerned in accordance with Articles 55 to 57 of this Annex. If it is not possible to recover all or any of the claim via this offsetting procedure, the remainder of the amount due shall be recovered in accordance with Articles 58 to 68 of this Annex.
+[^c-108677bb237a0a221c1edc212f80c059]For the purposes of applying Article 67 of this Convention and within the framework defined therein, the recovery of claims shall, wherever possible, be by way of offsetting either between the institutions of the States concerned, or vis-à-vis the natural or legal person concerned in accordance with Articles 55 to 57 of this Annex. If it is not possible to recover all or any of the claim via this offsetting procedure, the remainder of the amount due shall be recovered in accordance with Articles 58 to 68 of this Annex.
 
 |  |
 | --- |
@@ -2031,9 +2031,9 @@ Articles 1, 2 and 3
 
 (3) If a person has received social welfare assistance in one State during a period in which they were entitled to benefits under the legislation of another State, the body which provided the assistance may, if it is legally entitled to reclaim the benefits due to the person concerned, request the institution of any other State responsible for paying benefits in favour of the person concerned to deduct the amount of assistance paid from the amounts which that State pays to the person concerned.
 
-[^key-108677bb237a0a221c1edc212f80c059]This provision applies *mutatis mutandis* to any family member of a person concerned who has received assistance in the territory of a State during a period in which the insured person was entitled to benefits under the legislation of another State in respect of that family member.
+[^c-108677bb237a0a221c1edc212f80c059]This provision applies *mutatis mutandis* to any family member of a person concerned who has received assistance in the territory of a State during a period in which the insured person was entitled to benefits under the legislation of another State in respect of that family member.
 
-[^key-108677bb237a0a221c1edc212f80c059]The institution of a State which has paid an undue amount of assistance shall send a statement of the amount due to the institution of the other State, which shall then deduct the amount, subject to the conditions and limits laid down for this kind of offsetting procedure in accordance with the legislation it applies, and transfer the amount without delay to the institution that has paid the undue amount.
+[^c-108677bb237a0a221c1edc212f80c059]The institution of a State which has paid an undue amount of assistance shall send a statement of the amount due to the institution of the other State, which shall then deduct the amount, subject to the conditions and limits laid down for this kind of offsetting procedure in accordance with the legislation it applies, and transfer the amount without delay to the institution that has paid the undue amount.
 
 |  |
 | --- |
@@ -2041,21 +2041,21 @@ Articles 1, 2 and 3
 
 (1) For the purposes of applying Article 6 of this Annex, at the latest three months after the applicable legislation has been determined or the institution responsible for paying the benefits has been identified, the institution which provisionally paid the cash benefits shall draw up a statement of the amount provisionally paid and shall send it to the institution identified as being competent.
 
-[^key-108677bb237a0a221c1edc212f80c059]The institution identified as being competent for paying the benefits shall deduct the amount due in respect of the provisional payment from the arrears of the corresponding benefits it owes to the person concerned and shall without delay transfer the amount deducted to the institution which provisionally paid the cash benefits.
+[^c-108677bb237a0a221c1edc212f80c059]The institution identified as being competent for paying the benefits shall deduct the amount due in respect of the provisional payment from the arrears of the corresponding benefits it owes to the person concerned and shall without delay transfer the amount deducted to the institution which provisionally paid the cash benefits.
 
-[^key-108677bb237a0a221c1edc212f80c059]If the amount of provisionally paid benefits exceeds the amount of arrears, or if arrears do not exist, the institution identified as being competent shall deduct this amount from ongoing payments subject to the conditions and limits applying to this kind of offsetting procedure under the legislation it applies, and without delay transfer the amount deducted to the institution which provisionally paid the cash benefits.
+[^c-108677bb237a0a221c1edc212f80c059]If the amount of provisionally paid benefits exceeds the amount of arrears, or if arrears do not exist, the institution identified as being competent shall deduct this amount from ongoing payments subject to the conditions and limits applying to this kind of offsetting procedure under the legislation it applies, and without delay transfer the amount deducted to the institution which provisionally paid the cash benefits.
 
 (2) The institution which has provisionally received contributions from a legal or natural person shall not reimburse the amounts in question to the person who paid them until it has ascertained from the institution identified as being competent the sums due to it under Article 6(4) of this Annex.
 
-[^key-108677bb237a0a221c1edc212f80c059]Upon request of the institution identified as being competent, which shall be made at the latest three months after the applicable legislation has been determined, the institution that has provisionally received contributions shall transfer them to the institution identified as being competent for that period for the purpose of settling the situation concerning the contributions owed by the legal or natural person to it. The contributions transferred shall be retroactively deemed as having been paid to the institution identified as being competent.
+[^c-108677bb237a0a221c1edc212f80c059]Upon request of the institution identified as being competent, which shall be made at the latest three months after the applicable legislation has been determined, the institution that has provisionally received contributions shall transfer them to the institution identified as being competent for that period for the purpose of settling the situation concerning the contributions owed by the legal or natural person to it. The contributions transferred shall be retroactively deemed as having been paid to the institution identified as being competent.
 
-[^key-108677bb237a0a221c1edc212f80c059]If the amount of provisionally paid contributions exceeds the amount the legal or natural person owes to the institution identified as being competent, the institution which provisionally received contributions shall reimburse the amount in excess to the legal or natural person concerned.
+[^c-108677bb237a0a221c1edc212f80c059]If the amount of provisionally paid contributions exceeds the amount the legal or natural person owes to the institution identified as being competent, the institution which provisionally received contributions shall reimburse the amount in excess to the legal or natural person concerned.
 
 |  |
 | --- |
 | ARTICLE 57<br>**Costs related to offsetting** |
 
-[^key-108677bb237a0a221c1edc212f80c059]No costs are payable where the debt is recovered via the offsetting procedure provided for in Articles 55 and 56 of this Annex.
+[^c-108677bb237a0a221c1edc212f80c059]No costs are payable where the debt is recovered via the offsetting procedure provided for in Articles 55 and 56 of this Annex.
 
 |  |
 | --- |
@@ -2158,7 +2158,7 @@ Articles 1, 2 and 3
 
 (2) As soon as the requested party has received the notification or information referred to in paragraph (1) either from the applicant party or from the interested party, it shall suspend the enforcement procedure pending the decision of the appropriate authority in the matter, unless the applicant party requests otherwise in accordance with the second sub-paragraph of this paragraph. Should the requested party deem it necessary, and without prejudice to Article 67 of this Annex, it may take precautionary measures to guarantee recovery insofar as the laws or regulations in force in its own State allow such action for similar claims.
 
-[^key-108677bb237a0a221c1edc212f80c059]Notwithstanding the first sub-paragraph, the applicant party may, in accordance with the laws, regulations and administrative practices in force in its own State, request the requested party to recover a contested claim, insofar as the relevant laws, regulations and administrative practices in force in the requested party’s State allow such action. If the result of the contestation is subsequently favourable to the debtor, the applicant party shall be liable for the reimbursement of any sums recovered, together with any compensation due, in accordance with the legislation in force in the requested party’s State.
+[^c-108677bb237a0a221c1edc212f80c059]Notwithstanding the first sub-paragraph, the applicant party may, in accordance with the laws, regulations and administrative practices in force in its own State, request the requested party to recover a contested claim, insofar as the relevant laws, regulations and administrative practices in force in the requested party’s State allow such action. If the result of the contestation is subsequently favourable to the debtor, the applicant party shall be liable for the reimbursement of any sums recovered, together with any compensation due, in accordance with the legislation in force in the requested party’s State.
 
 (3) Where the contestation concerns enforcement measures taken in the State of the requested party, the action shall be brought before the appropriate authority of that State in accordance with its laws and regulations.
 
@@ -2184,7 +2184,7 @@ Articles 1, 2 and 3
 - (a) by the laws in force in the State of the applicant party, insofar as they concern the claim or the instrument permitting its enforcement; and
 - (b) by the laws in force in the State of the requested party, insofar as they concern enforcement measures in the requested State.
 
-[^key-108677bb237a0a221c1edc212f80c059]Periods of limitation according to the laws in force in the State of the requested party shall start from the date of direct recognition or from the date of acceptance, recognition, supplementing or replacement in accordance with Article 62 of this Annex.
+[^c-108677bb237a0a221c1edc212f80c059]Periods of limitation according to the laws in force in the State of the requested party shall start from the date of direct recognition or from the date of acceptance, recognition, supplementing or replacement in accordance with Article 62 of this Annex.
 
 (2) Steps taken in the recovery of claims by the requested party in pursuance of a request for assistance, which, if they had been carried out by the applicant party, would have had the effect of suspending or interrupting the period of limitation according to the laws in force in the State of the applicant party, shall be deemed to have been taken in the latter, insofar as that effect is concerned.
 
@@ -2216,15 +2216,15 @@ Articles 1, 2 and 3
 
 (1) Without prejudice to other provisions, where a recipient or a claimant of benefits, or a member of that person’s family, is staying or residing within the territory of a State other than that in which the debtor institution is located, the medical examination shall be carried out, at the request of that institution, by the institution of the beneficiary’s place of stay or residence in accordance with the procedures laid down by the legislation applied by that institution.
 
-[^key-108677bb237a0a221c1edc212f80c059]The debtor institution shall inform the institution of the place of stay or residence of any special requirements, if necessary, to be followed and points to be covered by the medical examination.
+[^c-108677bb237a0a221c1edc212f80c059]The debtor institution shall inform the institution of the place of stay or residence of any special requirements, if necessary, to be followed and points to be covered by the medical examination.
 
 (2) The institution of the place of stay or residence shall forward a report to the debtor institution that requested the medical examination. This institution shall be bound by the findings of the institution of the place of stay or residence.
 
-[^key-108677bb237a0a221c1edc212f80c059]The debtor institution shall reserve the right to have the beneficiary examined by a doctor of its choice. However, the beneficiary may be asked to return to the State of the debtor institution only if the beneficiary is able to make the journey without prejudice to that person’s health and the cost of travel and accommodation is paid for by the debtor institution.
+[^c-108677bb237a0a221c1edc212f80c059]The debtor institution shall reserve the right to have the beneficiary examined by a doctor of its choice. However, the beneficiary may be asked to return to the State of the debtor institution only if the beneficiary is able to make the journey without prejudice to that person’s health and the cost of travel and accommodation is paid for by the debtor institution.
 
 (3) Where a recipient or a claimant of benefits, or a member of that person’s family, is staying or residing in the territory of a State other than that in which the debtor institution is located, the administrative check shall, at the request of the debtor institution, be performed by the institution of the beneficiary’s place of stay or residence.
 
-[^key-108677bb237a0a221c1edc212f80c059]Paragraph (2) shall also apply in this case.
+[^c-108677bb237a0a221c1edc212f80c059]Paragraph (2) shall also apply in this case.
 
 (4) As an exception to the principle of free-of-charge mutual administrative cooperation in Article 60(3) of this Convention, the effective amount of the expenses of the checks referred to in this Article shall be refunded to the institution which was requested to carry them out by the debtor institution which requested them.
 
@@ -2244,19 +2244,19 @@ Articles 1, 2 and 3
 | --- |
 | ARTICLE 71<br>**Currency conversion** |
 
-[^key-108677bb237a0a221c1edc212f80c059]For the purposes of this Convention and this Annex, the exchange rates between currencies shall be the reference rates published by the financial institution designated for this purpose by the Joint Administrative Committee. The date to be taken into account for determining the exchange rates shall be fixed by the Joint Administrative Committee.
+[^c-108677bb237a0a221c1edc212f80c059]For the purposes of this Convention and this Annex, the exchange rates between currencies shall be the reference rates published by the financial institution designated for this purpose by the Joint Administrative Committee. The date to be taken into account for determining the exchange rates shall be fixed by the Joint Administrative Committee.
 
 |  |
 | --- |
 | ARTICLE 72<br>**Implementing provisions** |
 
-[^key-108677bb237a0a221c1edc212f80c059]The Joint Administrative Committee may adopt further guidance on the implementation of this Convention and of this Annex.
+[^c-108677bb237a0a221c1edc212f80c059]The Joint Administrative Committee may adopt further guidance on the implementation of this Convention and of this Annex.
 
 |  |
 | --- |
 | ARTICLE 73<br>**Interim provisions for forms and documents** |
 
-[^key-108677bb237a0a221c1edc212f80c059]For an interim period, the end date of which shall be agreed by the Joint Administrative Committee, all forms and documents issued by the competent institutions in the format used immediately before this Convention comes into force shall be valid for the purposes of implementing this Convention and, where appropriate, shall continue to be used for the exchange of information between competent institutions. All such forms and documents issued before and during that interim period shall be valid until their expiry or cancellation.
+[^c-108677bb237a0a221c1edc212f80c059]For an interim period, the end date of which shall be agreed by the Joint Administrative Committee, all forms and documents issued by the competent institutions in the format used immediately before this Convention comes into force shall be valid for the purposes of implementing this Convention and, where appropriate, shall continue to be used for the exchange of information between competent institutions. All such forms and documents issued before and during that interim period shall be valid until their expiry or cancellation.
 
 |  |
 | --- |
@@ -2580,13 +2580,13 @@ This Order does not impose any costs on business, charities or the voluntary sec
 
 [^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8). Section 155 was amended by [S.I. 2020/1508](https://www.legislation.gov.uk/uksi/2020/1508); there are other amendments that are not relevant to this Order. In relation to Child Benefit and Guardian’s Allowance in Northern Ireland, the power under section 155 was transferred to the Board by section 50(1) and (2)(d) of the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21). The Board is defined in section 67 of that Act as the Commissioners of Inland Revenue. The functions of the Commissioners of Inland Revenue were transferred to the Commissioners for His Majesty’s Revenue and Customs by section 5(2) of the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Section 50(1) of that Act provides that, insofar as is appropriate in consequence of section 5, a reference to the Commissioners of Inland Revenue in an enactment, however expressed, shall be taken as a reference to the Commissioners for His Majesty’s Revenue and Customs.
 
-[^key-206379e0194e202ed74090e062895c3c]: Commencement: Art. 1 in operation at 19.10.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/181/article/1/1)
+[^c-206379e0194e202ed74090e062895c3c]: Commencement: Art. 1 in operation at 19.10.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/181/article/1/1)
 
 [^f00002]: Footnote: The date on which the Convention enters into force will be published on the relevant page on UK Treaties Online which can be found at: https://www.gov.uk/guidance/uk-treaties.
 
 [^f00003]: Footnote: 2023 CP 889.
 
-[^key-c568f291a4ffe51f8010e05b2711504e]: Commencement: Art. 2 in operation at 19.10.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/181/article/1/1)
+[^c-c568f291a4ffe51f8010e05b2711504e]: Commencement: Art. 2 in operation at 19.10.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/181/article/1/1)
 
 [^f00004]: Footnote: No modifications are made in respect of payments out of the social fund, Christmas bonus, statutory sick pay or statutory maternity pay because section 155(4)(b)(i) to (iv) of the Social Security Administration (Northern Ireland) Act 1992 excludes these benefits from the scope of the power to modify.
 
@@ -2608,10 +2608,10 @@ This Order does not impose any costs on business, charities or the voluntary sec
 
 [^f00013]: Footnote: Subsection (5) of section 155 has been amended by paragraph 48(4) of Schedule 2 to [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); paragraph 19(c) of Schedule 2 to the State Pension Credit Act (Northern Ireland) 2002; paragraph 1 of Schedule 6 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21); paragraph 4(25)(c) of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2007; paragraph 23(5) of Schedule 2 to [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006); paragraph 21(4)(a) and (b) of Schedule 12, and paragraph 31(4)(a) and (b) of Schedule 16 to the Pensions Act (Northern Ireland) 2015; and by regulation 3 of [S.R. 2011/357](https://www.legislation.gov.uk/nisr/2011/357).
 
-[^key-38ad9059cfb6ee55e57d85305f90e172]: Commencement: Art. 3 in operation at 19.10.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/181/article/1/1)
+[^c-38ad9059cfb6ee55e57d85305f90e172]: Commencement: Art. 3 in operation at 19.10.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/181/article/1/1)
 
 [^f00014]: Footnote: [S.R. 1985 No. 205](https://www.legislation.gov.uk/nisr/1985/205); relevant amending instruments are [S.R. 1988 No. 120](https://www.legislation.gov.uk/nisr/1988/120), [S.R. 1992 No. 562](https://www.legislation.gov.uk/nisr/1992/562), [S.R. 1995 No. 110](https://www.legislation.gov.uk/nisr/1995/110), [S.R. 1996 No. 327](https://www.legislation.gov.uk/nisr/1996/327), [S.R. 2001 No. 86](https://www.legislation.gov.uk/nisr/2001/86), [S.R. 2005 No. 544](https://www.legislation.gov.uk/nisr/2005/544) and [S.R. 2016 No. 188](https://www.legislation.gov.uk/nisr/2016/188).
 
 [^f00015]: Footnote: [S.R. 1991 No. 139](https://www.legislation.gov.uk/nisr/1991/139); relevant amending instruments are [S.R. 1995 No. 110](https://www.legislation.gov.uk/nisr/1995/110), [S.R. 1996 No. 327](https://www.legislation.gov.uk/nisr/1996/327), [S.R. 2001 No. 86](https://www.legislation.gov.uk/nisr/2001/86), [S.R. 2005 No. 544](https://www.legislation.gov.uk/nisr/2005/544), [S.R. 2016 No. 188](https://www.legislation.gov.uk/nisr/2016/188), [S.R. 2017 No. 73](https://www.legislation.gov.uk/nisr/2017/73) and [S.R. 2020 No. 357](https://www.legislation.gov.uk/nisr/2020/357).
 
-[^key-108677bb237a0a221c1edc212f80c059]: Commencement: Sch. in operation at 19.10.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/181/article/1/1)
+[^c-108677bb237a0a221c1edc212f80c059]: Commencement: Sch. in operation at 19.10.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/181/article/1/1)

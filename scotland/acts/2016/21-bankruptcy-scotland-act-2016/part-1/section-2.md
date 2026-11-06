@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Sequestration of estate of living debtor[^key-0340bc28fbda2dc82e5ed4d57baf1889]
+## 2. Sequestration of estate of living debtor[^c-0340bc28fbda2dc82e5ed4d57baf1889]
 
 *Extent: S*
 
@@ -25,8 +25,8 @@ summary: ''
 - (a) by debtor application made by the debtor, if subsection (2) or (8) applies to the debtor, or
 - (b) on the petition of—
   - (i) a qualified creditor, or qualified creditors, if the debtor is apparently insolvent,
-  - (ii)[^key-4bcb5e88165ecdcdd18541e784431b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (iii)[^key-4bcb5e88165ecdcdd18541e784431b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-4bcb5e88165ecdcdd18541e784431b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-4bcb5e88165ecdcdd18541e784431b73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iv) a trustee acting under a trust deed if a condition mentioned in subsection (7) is satisfied.
 
 (2) This subsection applies to the debtor where—
@@ -35,8 +35,8 @@ summary: ''
   - (i) has been assessed by the common financial tool as requiring to make no debtor's contribution, or
   - (ii) has been in receipt of payments, of a kind prescribed, for a period of at least 6 months ending with the day on which the debtor application is made,
 - (b) the total amount of the debtor's debts (including interest) at the date the debtor application is made is—
-  - (i) not less than such[^key-614bb539828a455c55bf57505a275465] amount as may be prescribed, and
-  - (ii) not more than £25,000[^key-992205b4c7a307ff195ba0cfaa78ee53] or such other amount as may be prescribed,
+  - (i) not less than such[^c-614bb539828a455c55bf57505a275465] amount as may be prescribed, and
+  - (ii) not more than £25,000[^c-992205b4c7a307ff195ba0cfaa78ee53] or such other amount as may be prescribed,
 - (c) the total value of the debtor's assets (leaving out of account any liabilities) on the date the debtor application is made does not exceed £2,000 or such other amount as may be prescribed,
 - (d) no single asset of the debtor has a value which exceeds £1,000 or such other amount as may be prescribed,
 - (e) the debtor does not own land,
@@ -46,7 +46,7 @@ summary: ''
   - (i) an application made by the debtor other than by virtue of this subsection, or
   - (ii) a petition.
 
-(2A)[^key-329fa024a84d60f0d5ace6adc2c9758e] For the purposes of subsection (2)(b), the amount of a loan made to the debtor is not to be regarded as a debt where the loan was made by virtue of regulations to which section 73B (regulations relating to student loans) of the Education (Scotland) Act 1980 applies.
+(2A)[^c-329fa024a84d60f0d5ace6adc2c9758e] For the purposes of subsection (2)(b), the amount of a loan made to the debtor is not to be regarded as a debt where the loan was made by virtue of regulations to which section 73B (regulations relating to student loans) of the Education (Scotland) Act 1980 applies.
 
 (3) For the purposes of subsection (2)(c) and (d)—
 
@@ -84,12 +84,12 @@ summary: ''
 
 ## Annotations
 
-[^key-0340bc28fbda2dc82e5ed4d57baf1889]: Commencement: S. 2 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-0340bc28fbda2dc82e5ed4d57baf1889]: Commencement: S. 2 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-4bcb5e88165ecdcdd18541e784431b73]: Textual amendment: S. 2(1)(b)(ii)(iii) omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2019/94/regulation/4/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4bcb5e88165ecdcdd18541e784431b73]: Textual amendment: S. 2(1)(b)(ii)(iii) omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2019/94/regulation/4/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-614bb539828a455c55bf57505a275465]: Textual amendment: Word in [s. 2(2)(b)(i)](https://www.legislation.gov.uk/asp/2016/21/section/2/2/b/i) substituted (6.2.2023) by [The Bankruptcy and Debt Arrangement Scheme (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/9)](https://www.legislation.gov.uk/ssi/2023/9), [regs. 1](https://www.legislation.gov.uk/ssi/2023/9/regulation/1), [2](https://www.legislation.gov.uk/ssi/2023/9/regulation/2)
+[^c-614bb539828a455c55bf57505a275465]: Textual amendment: Word in [s. 2(2)(b)(i)](https://www.legislation.gov.uk/asp/2016/21/section/2/2/b/i) substituted (6.2.2023) by [The Bankruptcy and Debt Arrangement Scheme (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/9)](https://www.legislation.gov.uk/ssi/2023/9), [regs. 1](https://www.legislation.gov.uk/ssi/2023/9/regulation/1), [2](https://www.legislation.gov.uk/ssi/2023/9/regulation/2)
 
-[^key-992205b4c7a307ff195ba0cfaa78ee53]: Textual amendment: Sum in s. 2(2)(b)(ii) substituted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2021/148/regulation/4/2) (with [regs. 3(a)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/a), [4(4)](https://www.legislation.gov.uk/ssi/2021/148/regulation/4/4))
+[^c-992205b4c7a307ff195ba0cfaa78ee53]: Textual amendment: Sum in s. 2(2)(b)(ii) substituted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2021/148/regulation/4/2) (with [regs. 3(a)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/a), [4(4)](https://www.legislation.gov.uk/ssi/2021/148/regulation/4/4))
 
-[^key-329fa024a84d60f0d5ace6adc2c9758e]: Textual amendment: S. 2(2A) inserted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2021/148/regulation/4/3) (with [regs. 3(a)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/a), [4(4)](https://www.legislation.gov.uk/ssi/2021/148/regulation/4/4))
+[^c-329fa024a84d60f0d5ace6adc2c9758e]: Textual amendment: S. 2(2A) inserted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2021/148/regulation/4/3) (with [regs. 3(a)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/a), [4(4)](https://www.legislation.gov.uk/ssi/2021/148/regulation/4/4))

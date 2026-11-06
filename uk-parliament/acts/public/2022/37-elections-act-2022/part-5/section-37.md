@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Interpretation of Part[^key-e9edf31e75b8a62bfd60c3f0b7d705fc][^key-0badf50a2711d6f6b7a25c0e9774160a]
+## 37. Interpretation of Part[^c-e9edf31e75b8a62bfd60c3f0b7d705fc][^c-0badf50a2711d6f6b7a25c0e9774160a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
   - (d) member of a local authority in England, Wales or Northern Ireland;
   - (e) elected mayor (within the meaning of Part 1A or 2 of the Local Government Act 2000);
   - (f) mayor for the area of a combined authority established under section 103 of the Local Democracy, Economic Development and Construction Act 2009;
-  - (fa) mayor for the area of a combined county authority established under section[^key-57995d871e2c6aa7e5c1e9837ca9e6fd] 9(1) of the Levelling-up and Regeneration Act 2023;
+  - (fa) mayor for the area of a combined county authority established under section[^c-57995d871e2c6aa7e5c1e9837ca9e6fd] 9(1) of the Levelling-up and Regeneration Act 2023;
   - (h) Mayor of London;
   - (i) member of the London Assembly;
   - (j) police and crime commissioner;
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e9edf31e75b8a62bfd60c3f0b7d705fc]: Commencement: S. 37 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-e9edf31e75b8a62bfd60c3f0b7d705fc]: Commencement: S. 37 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-0badf50a2711d6f6b7a25c0e9774160a]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/37/section/37) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/e)
+[^c-0badf50a2711d6f6b7a25c0e9774160a]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2022/37/section/37) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/e)
 
-[^key-57995d871e2c6aa7e5c1e9837ca9e6fd]: Textual amendment: Words in [s. 37(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/37/1) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/b/ii), [Sch. 4 para. 227](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/227) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2023/1405/regulation/7/b)
+[^c-57995d871e2c6aa7e5c1e9837ca9e6fd]: Textual amendment: Words in [s. 37(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/37/1) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/b/ii), [Sch. 4 para. 227](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/227) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2023/1405/regulation/7/b)

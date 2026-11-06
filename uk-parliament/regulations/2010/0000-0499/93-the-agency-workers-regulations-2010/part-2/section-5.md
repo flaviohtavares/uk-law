@@ -46,8 +46,8 @@ whether by collective agreement or otherwise, including any variations in those 
 
 (5) An employee is not a comparable employee if that employee's employment has ceased.
 
-(6)[^key-667c3d816d539bfc3c968077dfd738c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-667c3d816d539bfc3c968077dfd738c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-667c3d816d539bfc3c968077dfd738c0]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/2010/93/regulation/5/6) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-667c3d816d539bfc3c968077dfd738c0]: Textual amendment: [Reg. 5(6)](https://www.legislation.gov.uk/uksi/2010/93/regulation/5/6) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/2) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))

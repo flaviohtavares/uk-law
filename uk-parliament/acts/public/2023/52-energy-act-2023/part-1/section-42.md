@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Transport and storage administration orders[^key-cd4145d350d5c2d78616b96b481ef214]
+## 42. Transport and storage administration orders[^c-cd4145d350d5c2d78616b96b481ef214]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd4145d350d5c2d78616b96b481ef214]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/52/section/42) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-cd4145d350d5c2d78616b96b481ef214]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/52/section/42) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

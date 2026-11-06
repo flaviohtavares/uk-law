@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Restrictions on investment of scheme’s resources in employer-related assets.[^key-b03a966ca11eb9d26b2fe32fbe6478e3][^key-36c0be76be1b6fd5cec0810cc40b7b90]
+## 112. Restrictions on investment of scheme’s resources in employer-related assets.[^c-b03a966ca11eb9d26b2fe32fbe6478e3][^c-36c0be76be1b6fd5cec0810cc40b7b90]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b03a966ca11eb9d26b2fe32fbe6478e3]: Textual amendment: S. 112 repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/1995/26/schedule/3/paragraph/26), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II)
+[^c-b03a966ca11eb9d26b2fe32fbe6478e3]: Textual amendment: S. 112 repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/1995/26/schedule/3/paragraph/26), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II)
 
-[^key-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)

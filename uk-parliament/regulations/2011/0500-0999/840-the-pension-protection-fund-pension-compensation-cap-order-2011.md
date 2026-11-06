@@ -36,21 +36,21 @@ Coming into force
 
 1st April 2011
 
-[^key-811fcd493d89edc2a38f8a523801ba9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-811fcd493d89edc2a38f8a523801ba9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-811fcd493d89edc2a38f8a523801ba9b][^key-811fcd493d89edc2a38f8a523801ba9b]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. The compensation cap[^key-811fcd493d89edc2a38f8a523801ba9b][^key-811fcd493d89edc2a38f8a523801ba9b]
+## 1. Citation and commencement[^c-811fcd493d89edc2a38f8a523801ba9b][^c-811fcd493d89edc2a38f8a523801ba9b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of the Pension Protection Fund (Pension Compensation Cap) Order 2010[^key-811fcd493d89edc2a38f8a523801ba9b][^key-811fcd493d89edc2a38f8a523801ba9b]
+## 2. The compensation cap[^c-811fcd493d89edc2a38f8a523801ba9b][^c-811fcd493d89edc2a38f8a523801ba9b]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Revocation of the Pension Protection Fund (Pension Compensation Cap) Order 2010[^c-811fcd493d89edc2a38f8a523801ba9b][^c-811fcd493d89edc2a38f8a523801ba9b]
 
 **No longer in force.**
 
@@ -58,10 +58,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-811fcd493d89edc2a38f8a523801ba9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-811fcd493d89edc2a38f8a523801ba9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-811fcd493d89edc2a38f8a523801ba9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-811fcd493d89edc2a38f8a523801ba9b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-811fcd493d89edc2a38f8a523801ba9b]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2011/840) revoked (1.4.2012) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2012 (S.I. 2012/528)](https://www.legislation.gov.uk/uksi/2012/528), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/528/article/1/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2012/528/schedule)
+[^c-811fcd493d89edc2a38f8a523801ba9b]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2011/840) revoked (1.4.2012) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2012 (S.I. 2012/528)](https://www.legislation.gov.uk/uksi/2012/528), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/528/article/1/2/c), [Sch.](https://www.legislation.gov.uk/uksi/2012/528/schedule)

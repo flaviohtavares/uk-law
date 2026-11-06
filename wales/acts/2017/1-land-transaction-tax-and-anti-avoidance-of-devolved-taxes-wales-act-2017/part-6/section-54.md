@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Buyer with a disability: declaration by the Official Solicitor[^key-6f8efb907d42e174535ed326906a014d]
+## 54. Buyer with a disability: declaration by the Official Solicitor[^c-6f8efb907d42e174535ed326906a014d]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ the requirement in section 53 is deemed to be met.
 
 ## Annotations
 
-[^key-6f8efb907d42e174535ed326906a014d]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2017/1/section/54) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-6f8efb907d42e174535ed326906a014d]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2017/1/section/54) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

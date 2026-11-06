@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.108. Recourse to the court[^key-3cd429780944af0d9d340d0898769129]
+## 2.108. Recourse to the court[^c-3cd429780944af0d9d340d0898769129]
 
 *Extent: E+W*
 
 (1) If the administrator considers that the remuneration fixed for him by the creditors' committee, or by resolution of the creditors, is insufficient, he may apply to the court for an order increasing its amount or rate.
 
-(1A)[^key-10aaf6823dd632e3719c4bfeef639cd7] In a case where the administrator has made a statement under paragraph 52(1)(b), if the administrator considers that the remuneration fixed by the approval of the creditors in accordance with Rule 2.107(2) is insufficient, he may apply to the court for an order increasing its amount or rate.
+(1A)[^c-10aaf6823dd632e3719c4bfeef639cd7] In a case where the administrator has made a statement under paragraph 52(1)(b), if the administrator considers that the remuneration fixed by the approval of the creditors in accordance with Rule 2.107(2) is insufficient, he may apply to the court for an order increasing its amount or rate.
 
 (2) The administrator shall give at least 14 days' notice of his application to the members of the creditors' committee; and the committee may nominate one or more members to appear, or be represented, and to be heard on the application.
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
+[^c-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
 
-[^key-10aaf6823dd632e3719c4bfeef639cd7]: Textual amendment: [Rule 2.108(1A)](https://www.legislation.gov.uk/uksi/1986/1925/rule/2.108/1A) inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [17](https://www.legislation.gov.uk/uksi/2005/527/rule/17) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))
+[^c-10aaf6823dd632e3719c4bfeef639cd7]: Textual amendment: [Rule 2.108(1A)](https://www.legislation.gov.uk/uksi/1986/1925/rule/2.108/1A) inserted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [17](https://www.legislation.gov.uk/uksi/2005/527/rule/17) (with [rule 3(1)](https://www.legislation.gov.uk/uksi/2005/527/article/3/1))

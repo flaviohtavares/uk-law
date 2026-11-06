@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Failure of unconnected multiple employer schemes to commence operation[^key-178a3adfeb0d467bfefefb5bd2218b9f]
+## 6. Failure of unconnected multiple employer schemes to commence operation[^c-178a3adfeb0d467bfefefb5bd2218b9f]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ After section 60 insert—
 
 ## Annotations
 
-[^key-178a3adfeb0d467bfefefb5bd2218b9f]: Commencement: Reg. 6 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-178a3adfeb0d467bfefefb5bd2218b9f]: Commencement: Reg. 6 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

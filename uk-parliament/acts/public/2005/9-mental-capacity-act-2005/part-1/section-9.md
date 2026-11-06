@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Lasting powers of attorney[^key-6d2a5683b13162868f7afa69a6f556ba]
+## 9. Lasting powers of attorney[^c-6d2a5683b13162868f7afa69a6f556ba]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ confers no authority.
 
 ## Annotations
 
-[^key-6d2a5683b13162868f7afa69a6f556ba]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/2005/9/section/9) applied (temp.) (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) Regulations 2014 (S.I. 2014/2936)](https://www.legislation.gov.uk/uksi/2014/2936), [regs. 1(5)(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/1/5), [14(5)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/14/5)
+[^c-6d2a5683b13162868f7afa69a6f556ba]: Modification: [S. 9](https://www.legislation.gov.uk/ukpga/2005/9/section/9) applied (temp.) (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) Regulations 2014 (S.I. 2014/2936)](https://www.legislation.gov.uk/uksi/2014/2936), [regs. 1(5)(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/1/5), [14(5)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/14/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Rating the quality of, and the standards applied to, higher education[^key-fc0b9a7ebec03804dbd0592bda2acad6]
+## 25. Rating the quality of, and the standards applied to, higher education[^c-fc0b9a7ebec03804dbd0592bda2acad6]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ and the reference to “higher education” in subsection (1)(b) is to be read a
 
 ## Annotations
 
-[^key-fc0b9a7ebec03804dbd0592bda2acad6]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/29/section/25) in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/c)
+[^c-fc0b9a7ebec03804dbd0592bda2acad6]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/29/section/25) in force at 1.1.2018 by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/2/c)

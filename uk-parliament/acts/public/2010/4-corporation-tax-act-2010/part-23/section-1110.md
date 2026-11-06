@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1110. Recovery of overpaid tax credit etc[^key-6afe2b3f0738c8646e4f76f8a81b6811]
+## 1110. Recovery of overpaid tax credit etc[^c-6afe2b3f0738c8646e4f76f8a81b6811]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6afe2b3f0738c8646e4f76f8a81b6811]: Textual amendment: Ss. 1110, 1111 omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/43)
+[^c-6afe2b3f0738c8646e4f76f8a81b6811]: Textual amendment: Ss. 1110, 1111 omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/43)

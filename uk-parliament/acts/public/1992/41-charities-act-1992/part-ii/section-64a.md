@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64A. Reserve power to control fund-raising by charitable institutions[^key-483a5a531a1d27404354ed1cf29b75e3]
+## 64A. Reserve power to control fund-raising by charitable institutions[^c-483a5a531a1d27404354ed1cf29b75e3]
 
 *Extent: E+W*
 
-(1) The Secretary of State[^key-866b5467da5c070db7cf8967228ff6e1] may make such regulations as appear to him to be necessary or desirable for or in connection with regulating charity fund-raising.
+(1) The Secretary of State[^c-866b5467da5c070db7cf8967228ff6e1] may make such regulations as appear to him to be necessary or desirable for or in connection with regulating charity fund-raising.
 
-(2) In this section and sections 64B and 64C[^key-8bd9faf7e283c074b9fdb6c91e7315e2] “ **charity fund-raising** ” means activities which are carried on by—
+(2) In this section and sections 64B and 64C[^c-8bd9faf7e283c074b9fdb6c91e7315e2] “ **charity fund-raising** ” means activities which are carried on by—
 
 - (a) charitable institutions,
 - (b) persons managing charitable institutions, or
@@ -74,8 +74,8 @@ are engaged in charity fund-raising.
 
 ## Annotations
 
-[^key-483a5a531a1d27404354ed1cf29b75e3]: Textual amendment: S. 64A inserted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [ss. 69](https://www.legislation.gov.uk/ukpga/2006/50/section/69), [79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-483a5a531a1d27404354ed1cf29b75e3]: Textual amendment: S. 64A inserted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [ss. 69](https://www.legislation.gov.uk/ukpga/2006/50/section/69), [79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
-[^key-866b5467da5c070db7cf8967228ff6e1]: Textual amendment: Words in [s. 64A(1)](https://www.legislation.gov.uk/ukpga/1992/41/section/64A/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 8(3)(e)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/8/3/e) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-866b5467da5c070db7cf8967228ff6e1]: Textual amendment: Words in [s. 64A(1)](https://www.legislation.gov.uk/ukpga/1992/41/section/64A/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 8(3)(e)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/8/3/e) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-8bd9faf7e283c074b9fdb6c91e7315e2]: Textual amendment: Words in s. 64A(2) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 14(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/14/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/j)
+[^c-8bd9faf7e283c074b9fdb6c91e7315e2]: Textual amendment: Words in s. 64A(2) inserted (31.7.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 14(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/14/4), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2016/815/regulation/2/j)

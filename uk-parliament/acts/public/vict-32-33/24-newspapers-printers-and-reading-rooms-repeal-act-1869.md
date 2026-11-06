@@ -59,7 +59,7 @@ Nothing inthis Act contained shall extend or be construed to extend to any paper
 
 ##### Section twenty-nine
 
-Every person who shall print any paper for hire, reward, gain, or profit, shall carefully preserve and keep one copy (at least) of every paper so printed by him or her, on which he or she shall write, or cause to be written or printed, in fair and legible characters, the name and place of abode of the person or persons by whom he or she shall be employed to print the same; and every person printing any paper for hire, reward, gain, or profit who shall omit or neglect to write, or cause to be written or printed as aforesaid, the name and place of his or her employer on one of such printed papers, or to keep or preserve the same for the space of six calendar months next after the printing thereof, or to produce and show the same to any justice of the peace who within the said space of six calendar months shall require to see the same, shall for every such omission, neglect, or refusal be liable on summary conviction to a fine[^key-55c67654e1a2d7143e67ce32e0eebf82] of level 2 on the standard scale[^c567348].
+Every person who shall print any paper for hire, reward, gain, or profit, shall carefully preserve and keep one copy (at least) of every paper so printed by him or her, on which he or she shall write, or cause to be written or printed, in fair and legible characters, the name and place of abode of the person or persons by whom he or she shall be employed to print the same; and every person printing any paper for hire, reward, gain, or profit who shall omit or neglect to write, or cause to be written or printed as aforesaid, the name and place of his or her employer on one of such printed papers, or to keep or preserve the same for the space of six calendar months next after the printing thereof, or to produce and show the same to any justice of the peace who within the said space of six calendar months shall require to see the same, shall for every such omission, neglect, or refusal be liable on summary conviction to a fine[^c-55c67654e1a2d7143e67ce32e0eebf82] of level 2 on the standard scale[^c567348].
 
 ##### Section thirty - one
 
@@ -67,15 +67,15 @@ Nothingherein contained shall extend . . . . . . [^c567349] to the printing . . 
 
 ##### Section thirty - four
 
-No personhall be prosecuted [^key-ecad8d1a81587890c02ae05a9dccbde7]... for any penalty imposed by this Act, unless such prosecution shall be commenced, [^key-ecad8d1a81587890c02ae05a9dccbde7]... within three calendar months next after such penalty shall have been incurred.
+No personhall be prosecuted [^c-ecad8d1a81587890c02ae05a9dccbde7]... for any penalty imposed by this Act, unless such prosecution shall be commenced, [^c-ecad8d1a81587890c02ae05a9dccbde7]... within three calendar months next after such penalty shall have been incurred.
 
 ##### Part of Section thirty - five
 
-[^key-68f296e7e625ddb9d31cf915f503f74e]...
+[^c-68f296e7e625ddb9d31cf915f503f74e]...
 
 ##### Section thirty - six
 
-[^key-6a8aa1abb5682cb0ea964097d4519b87]...
+[^c-6a8aa1abb5682cb0ea964097d4519b87]...
 
 ### 51 Geo. 3 c. 65
 
@@ -93,7 +93,7 @@ If anyperson shall file any bill in any court for the discovery of the name of a
 
 #### Section two
 
-Every personwho shall print any paper or book whatsoever which shall be meant to be published or dispersed, and who shall not print upon the front of every such paper, if the same shall be printed on one side only, or upon the first or last leaf of every paper or book which shall consist of more than one leaf, in legible characters, his or her name and usual place of abode or business, and every person who shall publish or disperse, or assist in publishing or dispersing, any printed paper or book on which the name and place of abode of the person printing the same shall not be printed as aforesaid, shall for every copy of such paper so printed by him or her be liable on summary conviction to a fine not exceeding[^key-7bb3d02e308e7a85ffd22f65cb20a01c] level 1 on the standard scale[^c567354]: Provided always, that nothing herein contained shall be construed to impose any penalty upon any person for printing any paper excepted out of the operation of the [^c567355]Unlawful Societies Act 1799, either in the said Act or by any Act made for the amendment thereof.
+Every personwho shall print any paper or book whatsoever which shall be meant to be published or dispersed, and who shall not print upon the front of every such paper, if the same shall be printed on one side only, or upon the first or last leaf of every paper or book which shall consist of more than one leaf, in legible characters, his or her name and usual place of abode or business, and every person who shall publish or disperse, or assist in publishing or dispersing, any printed paper or book on which the name and place of abode of the person printing the same shall not be printed as aforesaid, shall for every copy of such paper so printed by him or her be liable on summary conviction to a fine not exceeding[^c-7bb3d02e308e7a85ffd22f65cb20a01c] level 1 on the standard scale[^c567354]: Provided always, that nothing herein contained shall be construed to impose any penalty upon any person for printing any paper excepted out of the operation of the [^c567355]Unlawful Societies Act 1799, either in the said Act or by any Act made for the amendment thereof.
 
 #### Section three
 
@@ -123,23 +123,23 @@ It shallnot be lawful for any person or persons to commence, prosecute, enter, o
 
 [^c567347]: Marginal citation: [1799 c. 79](https://www.legislation.gov.uk/apgb/1799/79).
 
-[^key-55c67654e1a2d7143e67ce32e0eebf82]: Textual amendment: Words in Sch. 2 substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 50(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/50/a); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-55c67654e1a2d7143e67ce32e0eebf82]: Textual amendment: Words in Sch. 2 substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 50(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/50/a); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c567348]: Textual amendment: Words substituted (E.W.S.) by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
 [^c567349]: Textual amendment: Words repealed by [Printer's Imprint Act 1961 (c. 31)](https://www.legislation.gov.uk/ukpga/1961/31), [s. 1(3)](https://www.legislation.gov.uk/ukpga/1961/31/section/1/3)
 
-[^key-ecad8d1a81587890c02ae05a9dccbde7]: Textual amendment: Words in Sch. 2 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 50(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/50/b), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-ecad8d1a81587890c02ae05a9dccbde7]: Textual amendment: Words in Sch. 2 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 50(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/50/b), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-68f296e7e625ddb9d31cf915f503f74e]: Textual amendment: Words in Sch. 2 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 50(c)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/50/c), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-68f296e7e625ddb9d31cf915f503f74e]: Textual amendment: Words in Sch. 2 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 50(c)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/50/c), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
-[^key-6a8aa1abb5682cb0ea964097d4519b87]: Textual amendment: Words in Sch. 2 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 50(d)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/50/d), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-6a8aa1abb5682cb0ea964097d4519b87]: Textual amendment: Words in Sch. 2 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 50(d)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/50/d), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c567352]: Marginal citation: [1799 c. 79](https://www.legislation.gov.uk/apgb/1799/79).
 
 [^c567353]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/IV)
 
-[^key-7bb3d02e308e7a85ffd22f65cb20a01c]: Textual amendment: Words in Sch. 2 substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 50(e)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/50/e); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-7bb3d02e308e7a85ffd22f65cb20a01c]: Textual amendment: Words in Sch. 2 substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 50(e)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/50/e); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c567354]: Textual amendment: Words substituted (E.W.S.) by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 

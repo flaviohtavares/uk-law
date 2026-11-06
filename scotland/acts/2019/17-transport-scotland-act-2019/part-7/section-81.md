@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Application of net proceeds of workplace parking licensing schemes[^key-b44949100cb2fbc5ec61e733afd59be4]
+## 81. Application of net proceeds of workplace parking licensing schemes[^c-b44949100cb2fbc5ec61e733afd59be4]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b44949100cb2fbc5ec61e733afd59be4]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2019/17/section/81) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-b44949100cb2fbc5ec61e733afd59be4]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2019/17/section/81) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

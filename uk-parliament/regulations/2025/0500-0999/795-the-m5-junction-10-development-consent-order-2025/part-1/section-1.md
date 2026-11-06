@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-bdd566b58baa285d7ee6039e1d0812b5]
+## 1. Citation and commencement[^c-bdd566b58baa285d7ee6039e1d0812b5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the M5 Junction 10 Development Consent Order 2025 and
 
 ## Annotations
 
-[^key-bdd566b58baa285d7ee6039e1d0812b5]: Commencement: Art. 1 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-bdd566b58baa285d7ee6039e1d0812b5]: Commencement: Art. 1 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)

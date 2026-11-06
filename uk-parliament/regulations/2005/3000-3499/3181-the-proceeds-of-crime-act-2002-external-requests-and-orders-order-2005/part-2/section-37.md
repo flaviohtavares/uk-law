@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Satisfaction of external order[^key-dd1b8da4d8241ab555cdd2acead5c6ad]
+## 37. Satisfaction of external order[^c-dd1b8da4d8241ab555cdd2acead5c6ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd1b8da4d8241ab555cdd2acead5c6ad]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2005/3181/article/37) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-dd1b8da4d8241ab555cdd2acead5c6ad]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2005/3181/article/37) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

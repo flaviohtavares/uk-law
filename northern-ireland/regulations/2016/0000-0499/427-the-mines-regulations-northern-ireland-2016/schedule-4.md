@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 73(2) and (3)
 
-### PART 1 — Revocations[^key-0754179e654457588435a05e2bc49c67]
+### PART 1 — Revocations[^c-0754179e654457588435a05e2bc49c67]
 
 Miscellaneous Mines (General Regulations) Order (Northern Ireland) 1970[^f00019]
 
@@ -80,7 +80,7 @@ Mines (Safety of Exit) Regulations (Northern Ireland) 1998[^f00045]
 
 Escape and Rescue from Mines Regulations (Northern Ireland) 1999[^f00046]
 
-### PART 2 — Partial revocations[^key-17f0bd1dc33625869288fece6da63862]
+### PART 2 — Partial revocations[^c-17f0bd1dc33625869288fece6da63862]
 
 | Instrument | Extent of revocation |
 | --- | --- |
@@ -91,7 +91,7 @@ Escape and Rescue from Mines Regulations (Northern Ireland) 1999[^f00046]
 
 ## Annotations
 
-[^key-0754179e654457588435a05e2bc49c67]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2016/427/schedule/4/part/1) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-0754179e654457588435a05e2bc49c67]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2016/427/schedule/4/part/1) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00019]: Footnote: [S.R. 1970 No.104](https://www.legislation.gov.uk/nisr/1970/104)
 
@@ -149,7 +149,7 @@ Escape and Rescue from Mines Regulations (Northern Ireland) 1999[^f00046]
 
 [^f00046]: Footnote: [S.R. 1999 No.173](https://www.legislation.gov.uk/nisr/1999/173)
 
-[^key-17f0bd1dc33625869288fece6da63862]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nisr/2016/427/schedule/4/part/2) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-17f0bd1dc33625869288fece6da63862]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/nisr/2016/427/schedule/4/part/2) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
 [^f00047]: Footnote: [S.R. 1982 No. 429](https://www.legislation.gov.uk/nisr/1982/429)
 

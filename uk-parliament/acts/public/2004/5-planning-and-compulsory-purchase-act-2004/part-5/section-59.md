@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. Supplementary[^key-e7a89953c1071b769e4c33271551df4e][^key-cb6e9ea8c55a1bb8067c213e22197406]
+## 59. Supplementary[^c-e7a89953c1071b769e4c33271551df4e][^c-cb6e9ea8c55a1bb8067c213e22197406]
 
 *Extent: E+W*
 
 (1) This section applies for the purposes of this Part.
 
-(2) An inspector is a person appointed under any of the planning Acts to determine appeals instead of the Secretary of State or appointed under section 76D of the principal Act to determine applications instead of the Secretary of State[^key-06f156f2722ffe4b416efe9b519ddf9e] .
+(2) An inspector is a person appointed under any of the planning Acts to determine appeals instead of the Secretary of State or appointed under section 76D of the principal Act to determine applications instead of the Secretary of State[^c-06f156f2722ffe4b416efe9b519ddf9e] .
 
-(2A)[^key-eaeaa910646f07b7613a7fa650c75cd5] An inspector is also a person appointed under Schedule 4D of the principal Act to determine an application instead of the Welsh Ministers.
+(2A)[^c-eaeaa910646f07b7613a7fa650c75cd5] An inspector is also a person appointed under Schedule 4D of the principal Act to determine an application instead of the Welsh Ministers.
 
 (3) In the case of a decision document issued by an inspector any other inspector may act under this Part.
 
@@ -61,10 +61,10 @@ summary: ''
 
 ## Annotations
 
-[^key-e7a89953c1071b769e4c33271551df4e]: Commencement: S. 59 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-e7a89953c1071b769e4c33271551df4e]: Commencement: S. 59 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-cb6e9ea8c55a1bb8067c213e22197406]: Commencement: S. 59 in force at 28.9.2004 in so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/a)
+[^c-cb6e9ea8c55a1bb8067c213e22197406]: Commencement: S. 59 in force at 28.9.2004 in so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/a)
 
-[^key-06f156f2722ffe4b416efe9b519ddf9e]: Textual amendment: Words in s. 59(2) inserted (9.5.2013 for E. for specified purposes, 1.10.2013 for specified purposes, 1.10.2014 in so far as not already in force) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [s. 35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/12); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2); [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/1/a); [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
+[^c-06f156f2722ffe4b416efe9b519ddf9e]: Textual amendment: Words in s. 59(2) inserted (9.5.2013 for E. for specified purposes, 1.10.2013 for specified purposes, 1.10.2014 in so far as not already in force) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [s. 35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/27/schedule/1/paragraph/12); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2); [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/1/a); [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
 
-[^key-eaeaa910646f07b7613a7fa650c75cd5]: Textual amendment: S. 59(2A) inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2015/4/schedule/3/paragraph/2); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(d)](https://www.legislation.gov.uk/wsi/2016/52/article/3/d)
+[^c-eaeaa910646f07b7613a7fa650c75cd5]: Textual amendment: S. 59(2A) inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2015/4/schedule/3/paragraph/2); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(d)](https://www.legislation.gov.uk/wsi/2016/52/article/3/d)

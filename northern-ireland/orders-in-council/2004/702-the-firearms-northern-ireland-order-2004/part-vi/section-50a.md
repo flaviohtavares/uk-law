@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50A. Authorisation of shotgun clubs to allow use of shotguns by minors for limited purposes[^key-68f8ee6d58eb954392245f39cf550587]
+## 50A. Authorisation of shotgun clubs to allow use of shotguns by minors for limited purposes[^c-68f8ee6d58eb954392245f39cf550587]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ shall be guilty of an offence.
 
 ## Annotations
 
-[^key-68f8ee6d58eb954392245f39cf550587]: Textual amendment: Art. 50A and cross-heading inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(4)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/4)
+[^c-68f8ee6d58eb954392245f39cf550587]: Textual amendment: Art. 50A and cross-heading inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 1(4)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/1/4)

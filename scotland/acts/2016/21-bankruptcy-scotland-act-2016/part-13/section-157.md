@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 157. Bankruptcy restrictions order: application of section 218(13)[^key-613056172b7539c6a41a5b8e523ba205]
+## 157. Bankruptcy restrictions order: application of section 218(13)[^c-613056172b7539c6a41a5b8e523ba205]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ specify in a bankruptcy restrictions order that section 218(13) is to apply to t
 
 ## Annotations
 
-[^key-613056172b7539c6a41a5b8e523ba205]: Commencement: [S. 157](https://www.legislation.gov.uk/asp/2016/21/section/157) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-613056172b7539c6a41a5b8e523ba205]: Commencement: [S. 157](https://www.legislation.gov.uk/asp/2016/21/section/157) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

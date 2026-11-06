@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 145. Committee procedure[^key-54de989ede79ba889900b73b9d188451]
+## Article 145. Committee procedure[^c-54de989ede79ba889900b73b9d188451]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54de989ede79ba889900b73b9d188451]: Textual amendment: [Art. 145](https://www.legislation.gov.uk/eur/2017/625/article/145) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [27(5)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/27/5) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-54de989ede79ba889900b73b9d188451]: Textual amendment: [Art. 145](https://www.legislation.gov.uk/eur/2017/625/article/145) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [27(5)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/27/5) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

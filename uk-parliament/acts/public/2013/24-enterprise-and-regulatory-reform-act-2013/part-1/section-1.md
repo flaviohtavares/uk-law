@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. The green purposes[^key-001c9072e010b6eaf0dd6dd8ada12861]
+## 1. The green purposes[^c-001c9072e010b6eaf0dd6dd8ada12861]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-001c9072e010b6eaf0dd6dd8ada12861]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2013/24/section/1) omitted (18.8.2017) by virtue of [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 37(2)(a)](https://www.legislation.gov.uk/ukpga/2016/12/section/37/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5) (with [s. 38](https://www.legislation.gov.uk/ukpga/2016/12/section/38)); [S.I. 2017/842](https://www.legislation.gov.uk/uksi/2017/842), [reg. 2](https://www.legislation.gov.uk/uksi/2017/842/regulation/2)
+[^c-001c9072e010b6eaf0dd6dd8ada12861]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2013/24/section/1) omitted (18.8.2017) by virtue of [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 37(2)(a)](https://www.legislation.gov.uk/ukpga/2016/12/section/37/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5) (with [s. 38](https://www.legislation.gov.uk/ukpga/2016/12/section/38)); [S.I. 2017/842](https://www.legislation.gov.uk/uksi/2017/842), [reg. 2](https://www.legislation.gov.uk/uksi/2017/842/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Appointment of person to act on behalf of individual[^key-a475619d7b2acd8fbfcf2c01375fe9b7]
+## 58. Appointment of person to act on behalf of individual[^c-a475619d7b2acd8fbfcf2c01375fe9b7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a475619d7b2acd8fbfcf2c01375fe9b7]: Textual amendment: [S. 58](https://www.legislation.gov.uk/asp/2018/9/section/58) repealed (24.1.2022) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 2(2)](https://www.legislation.gov.uk/asp/2020/18/section/2/2), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/442](https://www.legislation.gov.uk/ssi/2021/442), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/442/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/442/regulation/3))
+[^c-a475619d7b2acd8fbfcf2c01375fe9b7]: Textual amendment: [S. 58](https://www.legislation.gov.uk/asp/2018/9/section/58) repealed (24.1.2022) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 2(2)](https://www.legislation.gov.uk/asp/2020/18/section/2/2), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/442](https://www.legislation.gov.uk/ssi/2021/442), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/442/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/442/regulation/3))

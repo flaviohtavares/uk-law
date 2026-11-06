@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Investigations: further provisions.[^key-36c0be76be1b6fd5cec0810cc40b7b90]
+## 150. Investigations: further provisions.[^c-36c0be76be1b6fd5cec0810cc40b7b90]
 
 *Extent: E+W+S*
 
 (1) For the purposes of an investigation under this Part or under any corresponding legislation having effect in Northern Ireland, the Pensions Ombudsman may require—
 
-- (a) any person responsible for the management of the scheme to which the complaint or reference relates[^key-34c4602b633ab97b3efa73cb5a00efa4], or
+- (a) any person responsible for the management of the scheme to which the complaint or reference relates[^c-34c4602b633ab97b3efa73cb5a00efa4], or
 - (b) any other person who, in his opinion is able to furnish information or produce documents relevant to the investigation,
 
 to furnish any such information or produce any such documents.
@@ -41,15 +41,15 @@ to furnish any such information or produce any such documents.
 
 (8) In this section “**the court**” means—
 
-- (a) in England and Wales, the county court[^key-e87a004280cf35964d8f228607c1f75b];
+- (a) in England and Wales, the county court[^c-e87a004280cf35964d8f228607c1f75b];
 - (b) in Scotland, the sheriff.
 
 (9) Subsections (4) and (5) shall be construed, in their application to Scotland, as if contempt of court were categorised as an offence in Scots law.
 
 ## Annotations
 
-[^key-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
-[^key-34c4602b633ab97b3efa73cb5a00efa4]: Textual amendment: Words in [s. 150(1)(a)](https://www.legislation.gov.uk/ukpga/1993/48/section/150/1/a) substituted (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [ss. 157(8)](https://www.legislation.gov.uk/ukpga/1995/26/section/157/8), [180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
+[^c-34c4602b633ab97b3efa73cb5a00efa4]: Textual amendment: Words in [s. 150(1)(a)](https://www.legislation.gov.uk/ukpga/1993/48/section/150/1/a) substituted (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [ss. 157(8)](https://www.legislation.gov.uk/ukpga/1995/26/section/157/8), [180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
 
-[^key-e87a004280cf35964d8f228607c1f75b]: Textual amendment: Words in [s. 150(8)(a)](https://www.legislation.gov.uk/ukpga/1993/48/section/150/8/a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-e87a004280cf35964d8f228607c1f75b]: Textual amendment: Words in [s. 150(8)(a)](https://www.legislation.gov.uk/ukpga/1993/48/section/150/8/a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))

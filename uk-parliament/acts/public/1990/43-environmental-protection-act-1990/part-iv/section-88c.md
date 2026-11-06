@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88C. Littering from a vehicle: Scottish civil penalty regime[^key-4c6f6b412ad186f3e77e83aa31d448a2]
+## 88C. Littering from a vehicle: Scottish civil penalty regime[^c-4c6f6b412ad186f3e77e83aa31d448a2]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c6f6b412ad186f3e77e83aa31d448a2]: Textual amendment: [Ss. 88C](https://www.legislation.gov.uk/ukpga/1990/43/section/88C), [88D](https://www.legislation.gov.uk/ukpga/1990/43/section/88D) inserted (S.) (1.8.2025 for specified purposes) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 18(2)](https://www.legislation.gov.uk/asp/2024/13/section/18/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-4c6f6b412ad186f3e77e83aa31d448a2]: Textual amendment: [Ss. 88C](https://www.legislation.gov.uk/ukpga/1990/43/section/88C), [88D](https://www.legislation.gov.uk/ukpga/1990/43/section/88D) inserted (S.) (1.8.2025 for specified purposes) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 18(2)](https://www.legislation.gov.uk/asp/2024/13/section/18/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)

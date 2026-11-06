@@ -48,7 +48,7 @@ summary: ''
 
 (4) In subsection (2)—
 
-- (a)[^key-57e09ab079b88843661e2dfe0507cf36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-57e09ab079b88843661e2dfe0507cf36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (b), for “paragraph (c)” there is substituted “ paragraph (l) ”; and
 - (c) in paragraph (c), for “paragraph (d)” there is substituted “ paragraph (m) ”.
 
@@ -80,4 +80,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57e09ab079b88843661e2dfe0507cf36]: Textual amendment: S. 80(4)(a) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
+[^c-57e09ab079b88843661e2dfe0507cf36]: Textual amendment: S. 80(4)(a) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Notice to be given to bidders before the opt-in round[^key-4d7091f092018a80c1405c131c0d1d49]
+## 45. Notice to be given to bidders before the opt-in round[^c-4d7091f092018a80c1405c131c0d1d49]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Before the start of the opt-in round, OFCOM shall notify each bidder of the date
 
 ## Annotations
 
-[^key-4d7091f092018a80c1405c131c0d1d49]: Commencement: Reg. 45 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-4d7091f092018a80c1405c131c0d1d49]: Commencement: Reg. 45 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

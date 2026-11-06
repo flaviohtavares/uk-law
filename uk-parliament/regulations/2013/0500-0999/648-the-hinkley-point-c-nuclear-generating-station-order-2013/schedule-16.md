@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 16 — Limits of harbour[^key-7ad294d81aaa7db7fb59d4c9ffbc4b9e]
+## SCHEDULE 16 — Limits of harbour[^c-7ad294d81aaa7db7fb59d4c9ffbc4b9e]
 
 *Extent: E+W+S*
 
 Article 58
 
-[^key-7ad294d81aaa7db7fb59d4c9ffbc4b9e]
+[^c-7ad294d81aaa7db7fb59d4c9ffbc4b9e]
 
 The limits of the harbour referred to in article 58 are—
 
@@ -31,4 +31,4 @@ The limits of the harbour referred to in article 58 are—
 
 ## Annotations
 
-[^key-7ad294d81aaa7db7fb59d4c9ffbc4b9e]: Commencement: Sch. 16 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-7ad294d81aaa7db7fb59d4c9ffbc4b9e]: Commencement: Sch. 16 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

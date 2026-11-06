@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Prohibition on entities being registered political parties and recognised third parties at same time[^key-aab27100744fe0300918570b04110555][^key-e161983b3f0327a2a9f8153facab27d0]
+## 24. Prohibition on entities being registered political parties and recognised third parties at same time[^c-aab27100744fe0300918570b04110555][^c-e161983b3f0327a2a9f8153facab27d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aab27100744fe0300918570b04110555]: Commencement: S. 24 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-aab27100744fe0300918570b04110555]: Commencement: S. 24 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-e161983b3f0327a2a9f8153facab27d0]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/37/section/24) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-e161983b3f0327a2a9f8153facab27d0]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/37/section/24) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)

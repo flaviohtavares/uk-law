@@ -34,7 +34,7 @@ An Act to establish and make provision about a National Health Service Commissio
 
 \[27th March 2012\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-a801d651e613ebc66855d10596be0fad]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-a801d651e613ebc66855d10596be0fad]
 
 ## Contents
 
@@ -241,7 +241,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 113 — Orders under section 112: criteria for deciding applicable trusts](part-3/section-113.md)
 - [Section 114 — Repeal of sections 112 and 113](part-3/section-114.md)
 
-#### CHAPTER 4 — The NHS payment scheme[^key-1ed6bb140516fad71f8355f9d04b8c06]
+#### CHAPTER 4 — The NHS payment scheme[^c-1ed6bb140516fad71f8355f9d04b8c06]
 
 *Extent: E+W*
 
@@ -537,24 +537,24 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 #### CHAPTER 1 — Information standards
 
-##### Powers to publish standards[^key-7ca1d5ca048e8f04304c231747febe1f]
+##### Powers to publish standards[^c-7ca1d5ca048e8f04304c231747febe1f]
 
 - [Section 250 — Powers to publish information standards](part-9/section-250.md)
 - [Section 250A — Standards relating to information technology](part-9/section-250a.md)
 - [Section 251 — ... Procedure etc](part-9/section-251.md)
 
-##### Compliance with standards[^key-7575343cb5db974453737ab5291fbc38]
+##### Compliance with standards[^c-7575343cb5db974453737ab5291fbc38]
 
 - [Section 251ZA — Monitoring compliance](part-9/section-251za.md)
 - [Section 251ZB — Notice requesting compliance by relevant IT providers](part-9/section-251zb.md)
 - [Section 251ZC — Public censure of relevant IT providers](part-9/section-251zc.md)
 - [Section 251ZD — Exercise of functions of Secretary of State by other persons](part-9/section-251zd.md)
 
-##### Accreditation[^key-e0d6fd2cacb4682f0cc57a1b527fb4a8]
+##### Accreditation[^c-e0d6fd2cacb4682f0cc57a1b527fb4a8]
 
 - [Section 251ZE — Accreditation of information technology etc](part-9/section-251ze.md)
 
-#### CHAPTER 1A — Continuity of Information[^key-134a54eef445c150cf8d9da96f3bd08c]
+#### CHAPTER 1A — Continuity of Information[^c-134a54eef445c150cf8d9da96f3bd08c]
 
 *Extent: E+W*
 
@@ -562,9 +562,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 251B — Duty to share information](part-9/section-251b.md)
 - [Section 251C — Continuity of information: interpretation](part-9/section-251c.md)
 
-#### CHAPTER 2 — NHS ENGLAND: HEALTH AND SOCIAL CARE INFORMATION ETC.[^key-15f76a582be5f9711683064608f4bda9][^key-bf7bddc2c82e701282d044978c502f2d]
+#### CHAPTER 2 — NHS ENGLAND: HEALTH AND SOCIAL CARE INFORMATION ETC.[^c-15f76a582be5f9711683064608f4bda9][^c-bf7bddc2c82e701282d044978c502f2d]
 
-##### ... General duties[^key-bdad356ed5910b90e7aa16e52ebdb8b5]
+##### ... General duties[^c-bdad356ed5910b90e7aa16e52ebdb8b5]
 
 - [Section 252 — The Health and Social Care Information Centre](part-9/section-252.md)
 - [Section 253 — NHS England data functions: general](part-9/section-253.md)
@@ -609,14 +609,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 276 — Dissolution of predecessor body](part-9/section-276.md)
 - [Section 277 — Consequential provision](part-9/section-277.md)
 
-#### CHAPTER 3 — Information about adult social care[^key-05913b9bcb684d3010a11474a0241e45]
+#### CHAPTER 3 — Information about adult social care[^c-05913b9bcb684d3010a11474a0241e45]
 
 - [Section 277A — Provision of adult social care information to Secretary of State](part-9/section-277a.md)
 - [Section 277B — Restrictions on onward disclosure of information](part-9/section-277b.md)
 - [Section 277C — Directions to certain bodies to exercise functions under this Chapter](part-9/section-277c.md)
 - [Section 277D — Arrangements with third parties](part-9/section-277d.md)
 
-#### CHAPTER 4 — Enforcement[^key-1fbc0c578dab0036b2adb411b060def5]
+#### CHAPTER 4 — Enforcement[^c-1fbc0c578dab0036b2adb411b060def5]
 
 - [Section 277E — Enforcement of provisions under this Part](part-9/section-277e.md)
 - [Section 277F — Directions to Special Health Authority to exercise functions under section 277E](part-9/section-277f.md)
@@ -720,24 +720,24 @@ SCHEDULES
 
 ## Annotations
 
-[^key-a801d651e613ebc66855d10596be0fad]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-a801d651e613ebc66855d10596be0fad]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-1ed6bb140516fad71f8355f9d04b8c06]: Textual amendment: [Pt. 3 Ch. 4](https://www.legislation.gov.uk/ukpga/2012/7/part/3/chapter/4) (ss. 114A-114F) substituted for Pt. 3 Ch. 4 (ss. 115-127) (1.7.2022 but only for the insertion of ss. 114C, 114D for specified purposes, 1.4.2023 in so far as not already in force) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/3); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/b) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30)); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/d)
+[^c-1ed6bb140516fad71f8355f9d04b8c06]: Textual amendment: [Pt. 3 Ch. 4](https://www.legislation.gov.uk/ukpga/2012/7/part/3/chapter/4) (ss. 114A-114F) substituted for Pt. 3 Ch. 4 (ss. 115-127) (1.7.2022 but only for the insertion of ss. 114C, 114D for specified purposes, 1.4.2023 in so far as not already in force) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/3); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/b) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30)); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/d)
 
-[^key-7ca1d5ca048e8f04304c231747febe1f]: Textual amendment: S. 250 cross-heading inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/2); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
+[^c-7ca1d5ca048e8f04304c231747febe1f]: Textual amendment: S. 250 cross-heading inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/2); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
 
-[^key-7575343cb5db974453737ab5291fbc38]: Textual amendment: [S. 251ZA](https://www.legislation.gov.uk/ukpga/2012/7/section/251ZA) cross-heading inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/6); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
+[^c-7575343cb5db974453737ab5291fbc38]: Textual amendment: [S. 251ZA](https://www.legislation.gov.uk/ukpga/2012/7/section/251ZA) cross-heading inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/6); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
 
-[^key-e0d6fd2cacb4682f0cc57a1b527fb4a8]: Textual amendment: [Ss. 251ZB-251ZE](https://www.legislation.gov.uk/ukpga/2012/7/section/251ZB) and cross-heading inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1/2/h), [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/8); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
+[^c-e0d6fd2cacb4682f0cc57a1b527fb4a8]: Textual amendment: [Ss. 251ZB-251ZE](https://www.legislation.gov.uk/ukpga/2012/7/section/251ZB) and cross-heading inserted (19.6.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1/2/h), [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2025/18/schedule/15/paragraph/8); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z15)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z15)
 
-[^key-134a54eef445c150cf8d9da96f3bd08c]: Textual amendment: Pt. 9 Ch. 1A inserted (25.6.2015) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [ss. 2](https://www.legislation.gov.uk/ukpga/2015/28/section/2), [6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4); [S.I. 2015/1438](https://www.legislation.gov.uk/uksi/2015/1438), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1438/regulation/2/a)
+[^c-134a54eef445c150cf8d9da96f3bd08c]: Textual amendment: Pt. 9 Ch. 1A inserted (25.6.2015) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [ss. 2](https://www.legislation.gov.uk/ukpga/2015/28/section/2), [6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4); [S.I. 2015/1438](https://www.legislation.gov.uk/uksi/2015/1438), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1438/regulation/2/a)
 
-[^key-15f76a582be5f9711683064608f4bda9]: Modification: Pt. 9 Ch. 2: power to amend conferred (1.7.2022) by [2021 c. 3](https://www.legislation.gov.uk/ukpga/2021/3), [s 43(3)](https://www.legislation.gov.uk/ukpga/2021/3/section/43/3) (as inserted by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(5)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/5/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30)))
+[^c-15f76a582be5f9711683064608f4bda9]: Modification: Pt. 9 Ch. 2: power to amend conferred (1.7.2022) by [2021 c. 3](https://www.legislation.gov.uk/ukpga/2021/3), [s 43(3)](https://www.legislation.gov.uk/ukpga/2021/3/section/43/3) (as inserted by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 101(5)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/101/5/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30)))
 
-[^key-bf7bddc2c82e701282d044978c502f2d]: Textual amendment: [Pt. 9 Ch. 2](https://www.legislation.gov.uk/ukpga/2012/7/part/9/chapter/2) heading substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 17(2)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/17/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-bf7bddc2c82e701282d044978c502f2d]: Textual amendment: [Pt. 9 Ch. 2](https://www.legislation.gov.uk/ukpga/2012/7/part/9/chapter/2) heading substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 17(2)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/17/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-bdad356ed5910b90e7aa16e52ebdb8b5]: Textual amendment: Words in [s. 252 cross-heading](https://www.legislation.gov.uk/ukpga/2012/7/part/9/chapter/2/crossheading/establishment-and-general-duties) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 17(3)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/17/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-bdad356ed5910b90e7aa16e52ebdb8b5]: Textual amendment: Words in [s. 252 cross-heading](https://www.legislation.gov.uk/ukpga/2012/7/part/9/chapter/2/crossheading/establishment-and-general-duties) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 17(3)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/17/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-05913b9bcb684d3010a11474a0241e45]: Textual amendment: [Pt. 9 Ch. 3](https://www.legislation.gov.uk/ukpga/2012/7/part/9/chapter/3) inserted (31.7.2022 but only for the insertion of ss. 277A (for specified purposes), 277B, 277C, 1.10.2022 but only for the insertion of s. 277A(6)) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 99](https://www.legislation.gov.uk/ukpga/2022/31/section/99), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 3](https://www.legislation.gov.uk/uksi/2022/734/regulation/3) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30)); [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/b)
+[^c-05913b9bcb684d3010a11474a0241e45]: Textual amendment: [Pt. 9 Ch. 3](https://www.legislation.gov.uk/ukpga/2012/7/part/9/chapter/3) inserted (31.7.2022 but only for the insertion of ss. 277A (for specified purposes), 277B, 277C, 1.10.2022 but only for the insertion of s. 277A(6)) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 99](https://www.legislation.gov.uk/ukpga/2022/31/section/99), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 3](https://www.legislation.gov.uk/uksi/2022/734/regulation/3) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30)); [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/b)
 
-[^key-1fbc0c578dab0036b2adb411b060def5]: Textual amendment: [Pt. 9 Ch. 4](https://www.legislation.gov.uk/ukpga/2012/7/part/9/chapter/4) inserted (1.10.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/100/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/c)
+[^c-1fbc0c578dab0036b2adb411b060def5]: Textual amendment: [Pt. 9 Ch. 4](https://www.legislation.gov.uk/ukpga/2012/7/part/9/chapter/4) inserted (1.10.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/100/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/c)

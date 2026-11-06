@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 146. Company representation[^key-d9215c3b19c65f2a63a94ae0d57799dc]
+## 146. Company representation[^c-d9215c3b19c65f2a63a94ae0d57799dc]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d9215c3b19c65f2a63a94ae0d57799dc]: Commencement: Rule 146 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-d9215c3b19c65f2a63a94ae0d57799dc]: Commencement: Rule 146 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00021]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).

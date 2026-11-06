@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Issue, purchase and registration of bonds[^key-8b57a0383e327b7d690094fe5c273234]
+## 3. Issue, purchase and registration of bonds[^c-8b57a0383e327b7d690094fe5c273234]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b57a0383e327b7d690094fe5c273234]: Commencement: Reg. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-8b57a0383e327b7d690094fe5c273234]: Commencement: Reg. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

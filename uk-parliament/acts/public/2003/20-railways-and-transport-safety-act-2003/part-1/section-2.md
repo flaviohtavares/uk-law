@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Meaning of railway accident” and railway incident”[^key-cf0f58f991edc654a66c3720fcadf6b3]
+## 2. Meaning of railway accident” and railway incident”[^c-cf0f58f991edc654a66c3720fcadf6b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf0f58f991edc654a66c3720fcadf6b3]: Commencement: S. 2 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(ii)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/ii)
+[^c-cf0f58f991edc654a66c3720fcadf6b3]: Commencement: S. 2 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(ii)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Intermediate employers[^key-940df17d6ace1f7e02320f1f646e9c00]
+## 48. Intermediate employers[^c-940df17d6ace1f7e02320f1f646e9c00]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-940df17d6ace1f7e02320f1f646e9c00]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2009/470/regulation/48) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-940df17d6ace1f7e02320f1f646e9c00]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2009/470/regulation/48) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

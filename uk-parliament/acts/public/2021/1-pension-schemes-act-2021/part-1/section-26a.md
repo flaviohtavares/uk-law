@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26A. Unconnected multiple employer schemes: requirement to submit annual accounts[^key-3eba2932e953f74db5a6c73334fa9736]
+## 26A. Unconnected multiple employer schemes: requirement to submit annual accounts[^c-3eba2932e953f74db5a6c73334fa9736]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3eba2932e953f74db5a6c73334fa9736]: Textual amendment: [S. 26A](https://www.legislation.gov.uk/ukpga/2021/1/section/26A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2025/1313/regulation/13)
+[^c-3eba2932e953f74db5a6c73334fa9736]: Textual amendment: [S. 26A](https://www.legislation.gov.uk/ukpga/2021/1/section/26A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2025/1313/regulation/13)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Credits.[^key-54a813f6b6c84c3b40a72204438156ea]
+## 71. Credits.[^c-54a813f6b6c84c3b40a72204438156ea]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54a813f6b6c84c3b40a72204438156ea]: Modification: S. 71 modified (27.4.2005) by [The Occupational and Personal Pension Schemes (Pension Liberation) Regulations (Northern Ireland) 2005 (S.R. 2005/193)](https://www.legislation.gov.uk/nisr/2005/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/193/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2005/193/regulation/2/5), [(6)](https://www.legislation.gov.uk/nisr/2005/193/regulation/2/6)
+[^c-54a813f6b6c84c3b40a72204438156ea]: Modification: S. 71 modified (27.4.2005) by [The Occupational and Personal Pension Schemes (Pension Liberation) Regulations (Northern Ireland) 2005 (S.R. 2005/193)](https://www.legislation.gov.uk/nisr/2005/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/193/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2005/193/regulation/2/5), [(6)](https://www.legislation.gov.uk/nisr/2005/193/regulation/2/6)

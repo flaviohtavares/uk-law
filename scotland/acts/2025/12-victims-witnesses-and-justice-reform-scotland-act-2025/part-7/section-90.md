@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Sexual Offences Court records: authentication and electronic form[^key-c3c44f93a8dd616927ebd47678a3b305]
+## 90. Sexual Offences Court records: authentication and electronic form[^c-c3c44f93a8dd616927ebd47678a3b305]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3c44f93a8dd616927ebd47678a3b305]: Commencement: S. 90 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-c3c44f93a8dd616927ebd47678a3b305]: Commencement: S. 90 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

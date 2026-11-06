@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Notice of restrictions where avian influenza is suspected on premises[^key-1385f0cb1c9705fbe869e2054edf7149]
+## 10. Notice of restrictions where avian influenza is suspected on premises[^c-1385f0cb1c9705fbe869e2054edf7149]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1385f0cb1c9705fbe869e2054edf7149]: Commencement: Reg. 10 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-1385f0cb1c9705fbe869e2054edf7149]: Commencement: Reg. 10 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

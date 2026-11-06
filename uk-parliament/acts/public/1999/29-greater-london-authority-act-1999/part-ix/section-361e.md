@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 361E. Directions by the Secretary of State to revise the strategy[^key-f662fe1053a09884e43f87e337b95713]
+## 361E. Directions by the Secretary of State to revise the strategy[^c-f662fe1053a09884e43f87e337b95713]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f662fe1053a09884e43f87e337b95713]: Textual amendment: S. 361E repealed (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/2011/20/schedule/23/paragraph/11), [Sch. 25 Pt. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/33); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(e)(f)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/e/f) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-f662fe1053a09884e43f87e337b95713]: Textual amendment: S. 361E repealed (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 23 para. 11](https://www.legislation.gov.uk/ukpga/2011/20/schedule/23/paragraph/11), [Sch. 25 Pt. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/33); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(e)(f)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/e/f) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

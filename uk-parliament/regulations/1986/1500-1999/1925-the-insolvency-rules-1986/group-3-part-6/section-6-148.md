@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.148. Rule against solicitation[^key-f0e1aa93ccdba3da508ae07c9b92054f]
+## 6.148. Rule against solicitation[^c-f0e1aa93ccdba3da508ae07c9b92054f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0e1aa93ccdba3da508ae07c9b92054f]: Commencement: [Rule 6.148](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.148) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f0e1aa93ccdba3da508ae07c9b92054f]: Commencement: [Rule 6.148](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.148) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

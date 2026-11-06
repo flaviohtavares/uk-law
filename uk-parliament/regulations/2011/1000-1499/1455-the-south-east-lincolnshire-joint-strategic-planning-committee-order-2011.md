@@ -44,13 +44,13 @@ Coming into force
 
 5th July 2011
 
-[^key-af4e0836203a9c9f7c7c3d946ec7d958]The Secretary of State, in exercise of the powers conferred by section 29 of the Planning and Compulsory Purchase Act 2004[^f00001], makes the following Order:[^key-ac81a246354e7cee8d57f40632073b39]
+[^c-af4e0836203a9c9f7c7c3d946ec7d958]The Secretary of State, in exercise of the powers conferred by section 29 of the Planning and Compulsory Purchase Act 2004[^f00001], makes the following Order:[^c-ac81a246354e7cee8d57f40632073b39]
 
-## 1. Citation and commencement[^key-e0e540361871ade6271a60e05481f8cd]
+## 1. Citation and commencement[^c-e0e540361871ade6271a60e05481f8cd]
 
 This Order may be cited as the South East Lincolnshire Joint Strategic Planning Committee Order 2011 and shall come into force on 5th July 2011.
 
-## 2. Interpretation[^key-9a4309e87c4af771b6880354b545672b]
+## 2. Interpretation[^c-9a4309e87c4af771b6880354b545672b]
 
 In this Order—
 
@@ -66,7 +66,7 @@ In this Order—
 - “sub-committee” means a sub-committee appointed under article 8(1);
 - “voting member” means a member appointed under article 5(1) and entitled to vote in accordance with article 5(2).
 
-## 3. Establishment of the joint committee[^key-f7e5993e327927a5f82baec5a7244e4b]
+## 3. Establishment of the joint committee[^c-f7e5993e327927a5f82baec5a7244e4b]
 
 (1) A joint committee, to be known as the South East Lincolnshire Joint Strategic Planning Committee, is constituted as the local planning authority for the purposes of Part 2 (local development) of the 2004 Act for the areas of Boston Borough Council and South Holland District Council and in respect of the matters specified in article 4(1) (being matters specified in the agreement).
 
@@ -76,7 +76,7 @@ In this Order—
 - (b) Boston Borough Council; and
 - (c) South Holland District Council.
 
-## 4. Functions of the joint committee[^key-f21750ac2bf7569a0ebbcc31f032adec]
+## 4. Functions of the joint committee[^c-f21750ac2bf7569a0ebbcc31f032adec]
 
 (1) The matters referred to in article 3(1) are—
 
@@ -89,7 +89,7 @@ In this Order—
 
 .
 
-## 5. Membership of the joint committee and voting rights[^key-41359c70fcc277dee8d0707e5f4e7c84]
+## 5. Membership of the joint committee and voting rights[^c-41359c70fcc277dee8d0707e5f4e7c84]
 
 (1) The joint committee shall consist of—
 
@@ -110,13 +110,13 @@ In this Order—
 
 (7) Voting members and substitutes shall be entitled to recovery from the constituent authority by which they are appointed or nominated (as the case may be) any expenses incurred in connection with the discharge of the joint committee’s functions.
 
-## 6. Disqualification from membership of the joint committee[^key-f4b203da18dbf404d35f60f130d17721]
+## 6. Disqualification from membership of the joint committee[^c-f4b203da18dbf404d35f60f130d17721]
 
 (1) A person who is disqualified under Part 5 (general provisions as to members and proceedings of local authorities) of the 1972 Act from being elected or being a member of a local authority shall be disqualified from being a member of the joint committee.
 
 (2) Section 92 of the 1972 Act (proceedings for disqualification)[^f00003], with the exception of subsections (7), (7A), (7B) and (8), shall apply with respect to membership of, or claims to be entitled to act as a member of, the joint committee as it applies to membership of, or claims to be entitled to act as a member of, a local authority.
 
-## 7. Tenure of office[^key-ce47881b4298db06405c8c8f622dffe5]
+## 7. Tenure of office[^c-ce47881b4298db06405c8c8f622dffe5]
 
 (1) A voting member shall hold office for a period of four years from the date of appointment or such lesser period, not being less than one year, as may be decided by the authority which makes the appointment, but shall cease to be a voting member if that person—
 
@@ -139,7 +139,7 @@ In this Order—
 
 (5) Any casual vacancy shall be filled as soon as practicable by the authority or body which appointed or nominated the member of the joint committee whose membership has ceased.
 
-## 8. Sub-committees[^key-d850c1b88654e82015f1478a11dbfe2f]
+## 8. Sub-committees[^c-d850c1b88654e82015f1478a11dbfe2f]
 
 (1) The joint committee may, in accordance with paragraphs (2) and (3), appoint one or more sub-committees.
 
@@ -147,13 +147,13 @@ In this Order—
 
 (3) Subject to paragraph (2), the persons appointed to a sub-committee and the sub-committee’s terms of reference shall be determined by the joint committee.
 
-## 9. Meetings and proceedings[^key-2ca74a6717164d0ecfbde12c156b7513]
+## 9. Meetings and proceedings[^c-2ca74a6717164d0ecfbde12c156b7513]
 
 (1) The meetings and proceedings of the joint committee shall be conducted in accordance with the rules set out in the Schedule to this Order, which shall have effect.
 
 (2) Sub-paragraphs (3) to (5) of paragraph 5 of the Schedule (calling of meetings) and sub-paragraph (2) of paragraph 6 of the Schedule (proceedings of meetings) shall apply with respect to meetings of any sub-committee as if references to the joint committee were references to the sub-committee, unless the joint committee agrees otherwise.
 
-## 10. Expenses of joint committee[^key-f4904b6ee1a5f4c0c13fca37927b0d54]
+## 10. Expenses of joint committee[^c-f4904b6ee1a5f4c0c13fca37927b0d54]
 
 (1) The expenses incurred by the joint committee and any sub-committee, in relation to accommodating meetings of the joint committee or sub-committee, shall be defrayed by the constituent authority at whose office the meeting is held, or who arranges the venue for the meeting, except so far as may be otherwise agreed by the joint committee.
 
@@ -175,7 +175,7 @@ Department for Communities and Local Government
 
 Article 9
 
-### 1. Meetings[^key-6544433d86de97eabfc950197af7b15b]
+### 1. Meetings[^c-6544433d86de97eabfc950197af7b15b]
 
 (1) The joint committee shall in every year hold an annual meeting.
 
@@ -183,7 +183,7 @@ Article 9
 
 (3) The joint committee may in every year hold, in addition to the annual meeting, such other meetings as it may determine.
 
-### 2. Appointment of chair and vice-chair[^key-d8b99ba24ece79f9f57cbe6607612c45]
+### 2. Appointment of chair and vice-chair[^c-d8b99ba24ece79f9f57cbe6607612c45]
 
 (1) Subject to sub-paragraphs (3) and (4), the joint committee shall at their annual meeting appoint a chair and a vice-chair from among the voting members of the joint committee.
 
@@ -193,7 +193,7 @@ Article 9
 
 (4) A member of a constituent authority may not be appointed as chair if any other member of that authority has held that office (otherwise than to fill a casual vacancy) in the previous 12 months.
 
-### 3. Casual vacancies[^key-f971d440f8c072eb3a931c70c886e804]
+### 3. Casual vacancies[^c-f971d440f8c072eb3a931c70c886e804]
 
 (1) This paragraph applies if a casual vacancy occurs in the office of chair or vice-chair of the joint committee.
 
@@ -203,7 +203,7 @@ Article 9
 
 (4) The person so appointed shall, so far as practicable, be a member of the same constituent authority as the person in whose place that person is appointed.
 
-### 4. Conduct of meetings[^key-ff61dc1a8e3e270b451f5e95fc5eaafa]
+### 4. Conduct of meetings[^c-ff61dc1a8e3e270b451f5e95fc5eaafa]
 
 (1) At a meeting of the joint committee the chair if present shall preside.
 
@@ -213,7 +213,7 @@ Article 9
 
 (4) In the case of an equality of votes, the chair shall give a casting vote in addition to any other vote that person may have.
 
-### 5. Calling of meetings[^key-8312ca8565de6e4819302f2960e6c420]
+### 5. Calling of meetings[^c-8312ca8565de6e4819302f2960e6c420]
 
 (1) The chair of the joint committee may call a meeting of the joint committee at any time.
 
@@ -241,7 +241,7 @@ any three members of the joint committee, may, on that refusal or the expiration
 
 (7) Where the office of chair is vacant, sub-paragraphs (1) to (6) shall apply as if references to the chair of the joint committee were references to the vice-chair of the joint committee.
 
-### 6. Proceedings of meetings[^key-c7b9fa6db3909076482f116c52737901]
+### 6. Proceedings of meetings[^c-c7b9fa6db3909076482f116c52737901]
 
 (1) No business shall be transacted at a meeting of the joint committee unless at least five voting members are present.
 
@@ -251,7 +251,7 @@ any three members of the joint committee, may, on that refusal or the expiration
 
 (4) The names of the voting and co-opted members and of any substitute present at each meeting of the joint committee shall be recorded in the minutes of the proceedings of that meeting.
 
-### 7. Admission to meetings[^key-0239d49cb1086610374427280e0be21f]
+### 7. Admission to meetings[^c-0239d49cb1086610374427280e0be21f]
 
 (1) The following provisions of the 1972 Act shall apply with respect to meetings of the joint committee as if references to a principal council were references to the joint committee—
 
@@ -261,7 +261,7 @@ any three members of the joint committee, may, on that refusal or the expiration
 
 (2) Where the public have been excluded from the whole or part of a meeting of the joint committee in accordance with any provision referred to in sub-paragraph (1), the joint committee may exclude co-opted members and observers from that meeting or (a the case may be) the relevant part of that meeting.
 
-### 8. Standing orders[^key-415411d8cfc2b78b553b889579e77f6a]
+### 8. Standing orders[^c-415411d8cfc2b78b553b889579e77f6a]
 
 Subject to the provisions of this Order the joint committee may make standing orders for the regulation of their proceedings and may vary or revoke any such orders.
 
@@ -281,49 +281,49 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 ## Annotations
 
-[^key-af4e0836203a9c9f7c7c3d946ec7d958]: Textual amendment: Order continued, despite the substitution of power conferring provision [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5), [s. 29](https://www.legislation.gov.uk/ukpga/2004/5/section/29) by [2023 c. 55](https://www.legislation.gov.uk/ukpga/2023/55), [Sch. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/7), (25.3.2026) by [The Levelling Up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/169/schedule/2)
+[^c-af4e0836203a9c9f7c7c3d946ec7d958]: Textual amendment: Order continued, despite the substitution of power conferring provision [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5), [s. 29](https://www.legislation.gov.uk/ukpga/2004/5/section/29) by [2023 c. 55](https://www.legislation.gov.uk/ukpga/2023/55), [Sch. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/7), (25.3.2026) by [The Levelling Up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/169/schedule/2)
 
 [^f00001]: Footnote: [2004 c.5](https://www.legislation.gov.uk/ukpga/2004/5).
 
-[^key-ac81a246354e7cee8d57f40632073b39]: Modification: [Order](https://www.legislation.gov.uk/uksi/2011/1455) excluded (30.4.2026) by [The Springwell Solar Farm Order 2026 (S.I. 2026/419)](https://www.legislation.gov.uk/uksi/2026/419), [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2026/419/schedule/3/paragraph/1) (with [art. 48](https://www.legislation.gov.uk/uksi/2026/419/article/48))
+[^c-ac81a246354e7cee8d57f40632073b39]: Modification: [Order](https://www.legislation.gov.uk/uksi/2011/1455) excluded (30.4.2026) by [The Springwell Solar Farm Order 2026 (S.I. 2026/419)](https://www.legislation.gov.uk/uksi/2026/419), [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2026/419/schedule/3/paragraph/1) (with [art. 48](https://www.legislation.gov.uk/uksi/2026/419/article/48))
 
-[^key-e0e540361871ade6271a60e05481f8cd]: Commencement: Art. 1 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-e0e540361871ade6271a60e05481f8cd]: Commencement: Art. 1 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
-[^key-9a4309e87c4af771b6880354b545672b]: Commencement: Art. 2 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-9a4309e87c4af771b6880354b545672b]: Commencement: Art. 2 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
 [^f00002]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-f7e5993e327927a5f82baec5a7244e4b]: Commencement: Art. 3 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-f7e5993e327927a5f82baec5a7244e4b]: Commencement: Art. 3 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
-[^key-f21750ac2bf7569a0ebbcc31f032adec]: Commencement: Art. 4 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-f21750ac2bf7569a0ebbcc31f032adec]: Commencement: Art. 4 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
-[^key-41359c70fcc277dee8d0707e5f4e7c84]: Commencement: Art. 5 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-41359c70fcc277dee8d0707e5f4e7c84]: Commencement: Art. 5 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
-[^key-f4b203da18dbf404d35f60f130d17721]: Commencement: Art. 6 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-f4b203da18dbf404d35f60f130d17721]: Commencement: Art. 6 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
 [^f00003]: Footnote: Section 92 was amended by sections 37, 38 and 46 of the Criminal Justice Act [1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48).
 
-[^key-ce47881b4298db06405c8c8f622dffe5]: Commencement: Art. 7 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-ce47881b4298db06405c8c8f622dffe5]: Commencement: Art. 7 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
-[^key-d850c1b88654e82015f1478a11dbfe2f]: Commencement: Art. 8 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-d850c1b88654e82015f1478a11dbfe2f]: Commencement: Art. 8 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
-[^key-2ca74a6717164d0ecfbde12c156b7513]: Commencement: Art. 9 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-2ca74a6717164d0ecfbde12c156b7513]: Commencement: Art. 9 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
-[^key-f4904b6ee1a5f4c0c13fca37927b0d54]: Commencement: Art. 10 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-f4904b6ee1a5f4c0c13fca37927b0d54]: Commencement: Art. 10 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
-[^key-6544433d86de97eabfc950197af7b15b]: Commencement: Sch. para. 1 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-6544433d86de97eabfc950197af7b15b]: Commencement: Sch. para. 1 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
-[^key-d8b99ba24ece79f9f57cbe6607612c45]: Commencement: Sch. para. 2 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-d8b99ba24ece79f9f57cbe6607612c45]: Commencement: Sch. para. 2 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
-[^key-f971d440f8c072eb3a931c70c886e804]: Commencement: Sch. para. 3 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-f971d440f8c072eb3a931c70c886e804]: Commencement: Sch. para. 3 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
-[^key-ff61dc1a8e3e270b451f5e95fc5eaafa]: Commencement: Sch. para. 4 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-ff61dc1a8e3e270b451f5e95fc5eaafa]: Commencement: Sch. para. 4 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
-[^key-8312ca8565de6e4819302f2960e6c420]: Commencement: Sch. para. 5 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-8312ca8565de6e4819302f2960e6c420]: Commencement: Sch. para. 5 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
-[^key-c7b9fa6db3909076482f116c52737901]: Commencement: Sch. para. 6 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-c7b9fa6db3909076482f116c52737901]: Commencement: Sch. para. 6 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
-[^key-0239d49cb1086610374427280e0be21f]: Commencement: Sch. para. 7 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-0239d49cb1086610374427280e0be21f]: Commencement: Sch. para. 7 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
 
 [^f00004]: Footnote: Section 100A was inserted by section 1(1) of the Local Government (Access to Information) Act [1985 (c.43)](https://www.legislation.gov.uk/ukpga/1985/43) (“the 1985 Act”). Relevant amendments were made by [S.I. 2002/715](https://www.legislation.gov.uk/uksi/2002/715).
 
@@ -331,4 +331,4 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00006]: Footnote: Schedule 12A was inserted by section 1(2) of and Part 1 of Schedule 1 to the 1985 Act. Paragraphs 1 to 11 were substituted by [S.I. 2006/88](https://www.legislation.gov.uk/uksi/2006/88). Paragraph 8 was amended by [2007/2194](https://www.legislation.gov.uk/uksi/2007/2194) and prospectively amended by section 2 of the Co-operative and Community Benefit Societies and Credit Unions Act [2010 (c.7)](https://www.legislation.gov.uk/ukpga/2010/7).
 
-[^key-415411d8cfc2b78b553b889579e77f6a]: Commencement: Sch. para. 8 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)
+[^c-415411d8cfc2b78b553b889579e77f6a]: Commencement: Sch. para. 8 in force at 5.7.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/1455/article/1)

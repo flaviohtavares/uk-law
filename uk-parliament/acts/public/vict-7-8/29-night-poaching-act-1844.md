@@ -29,7 +29,7 @@ Night Poaching Act 1844
 
 1844 c.29
 
-An Act to extend an Act of the Ninth Year of King George the Fourth, for the more effectual Prevention of Persons going armed by Night for the Destruction of Game. *(Extent: S)* *(affected by repeal, see note)*[^key-f4f5783cc188eabe6a9a6603ed32645a]
+An Act to extend an Act of the Ninth Year of King George the Fourth, for the more effectual Prevention of Persons going armed by Night for the Destruction of Game. *(Extent: S)* *(affected by repeal, see note)*[^c-f4f5783cc188eabe6a9a6603ed32645a]
 
 \[4th July 1844\][^c558047][^c558048][^c558049][^c558050]
 
@@ -41,7 +41,7 @@ All the pains, punishments, and forfeitures imposed by the said Act upon persons
 
 ## Annotations
 
-[^key-f4f5783cc188eabe6a9a6603ed32645a]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/7-8/29) repealed (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as amended by [S.S.I. 2011/287](https://www.legislation.gov.uk/ssi/2011/287), art. 2)
+[^c-f4f5783cc188eabe6a9a6603ed32645a]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/7-8/29) repealed (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [s. 43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1), [Sch. Pt. 2](https://www.legislation.gov.uk/asp/2011/6/schedule/part/2) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(l)(ii)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/l/ii) (as amended by [S.S.I. 2011/287](https://www.legislation.gov.uk/ssi/2011/287), art. 2)
 
 [^c558047]: Modification: Short title “The Night Poaching Act, 1844” given by [Short Titles Act 1896 (c. 14)](https://www.legislation.gov.uk/ukpga/1896/14)
 

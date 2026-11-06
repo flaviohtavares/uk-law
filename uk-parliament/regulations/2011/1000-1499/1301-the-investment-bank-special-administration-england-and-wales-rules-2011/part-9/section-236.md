@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 236. Service of court documents outside jurisdiction[^key-f91052f0a5a496332b31a15607779672]
+## 236. Service of court documents outside jurisdiction[^c-f91052f0a5a496332b31a15607779672]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ CPR Part 6 applies to the service of court documents outside the jurisdiction wi
 
 ## Annotations
 
-[^key-f91052f0a5a496332b31a15607779672]: Commencement: [Rule 236](https://www.legislation.gov.uk/uksi/2011/1301/rule/236) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-f91052f0a5a496332b31a15607779672]: Commencement: [Rule 236](https://www.legislation.gov.uk/uksi/2011/1301/rule/236) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

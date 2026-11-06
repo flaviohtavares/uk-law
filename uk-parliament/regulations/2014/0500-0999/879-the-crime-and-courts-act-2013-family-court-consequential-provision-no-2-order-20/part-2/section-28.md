@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Amendments to the Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993[^key-93406ead6439a8730f4ffb8b5bcb15c2]
+## 28. Amendments to the Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Order 1993[^c-93406ead6439a8730f4ffb8b5bcb15c2]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Reciprocal Enforcement of Maintenance Orders (Hague Convention Countries) Or
 
 ## Annotations
 
-[^key-93406ead6439a8730f4ffb8b5bcb15c2]: Commencement: Art. 28 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-93406ead6439a8730f4ffb8b5bcb15c2]: Commencement: Art. 28 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00013]: Footnote: [S.I. 1993/593](https://www.legislation.gov.uk/uksi/1993/593). Relevant amending instruments are [S.I. 1999/1318](https://www.legislation.gov.uk/uksi/1999/1318), [2001/410](https://www.legislation.gov.uk/uksi/2001/410), [2005/617](https://www.legislation.gov.uk/uksi/2005/617) and [2011/1484](https://www.legislation.gov.uk/uksi/2011/1484).

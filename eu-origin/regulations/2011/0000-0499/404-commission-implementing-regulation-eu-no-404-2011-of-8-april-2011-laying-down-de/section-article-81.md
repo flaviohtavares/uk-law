@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The competent authorities of a fisheries administration must[^key-47eddf6aceb8b751e1a3d17b37140ec5] require that the discharge of any catches referred to in Article 78 of this Regulation does not commence until it is expressly authorised. If the discharge is interrupted, permission shall be required before the discharge can recommence.
+The competent authorities of a fisheries administration must[^c-47eddf6aceb8b751e1a3d17b37140ec5] require that the discharge of any catches referred to in Article 78 of this Regulation does not commence until it is expressly authorised. If the discharge is interrupted, permission shall be required before the discharge can recommence.
 
 ## Annotations
 
-[^key-47eddf6aceb8b751e1a3d17b37140ec5]: Textual amendment: Words in [Art. 81](https://www.legislation.gov.uk/eur/2011/404/article/81) substituted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(64)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/64); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-47eddf6aceb8b751e1a3d17b37140ec5]: Textual amendment: Words in [Art. 81](https://www.legislation.gov.uk/eur/2011/404/article/81) substituted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(64)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/64); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

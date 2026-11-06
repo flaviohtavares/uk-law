@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110.[^key-1d7f5329e7f633758c3116825e611881]
+## 110.[^c-1d7f5329e7f633758c3116825e611881]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 150A (enterprise investment schemes), in subsection (3)(a), for “hu
 
 ## Annotations
 
-[^key-1d7f5329e7f633758c3116825e611881]: Commencement: Reg. 110 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-1d7f5329e7f633758c3116825e611881]: Commencement: Reg. 110 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -54,7 +54,7 @@ Section 38(11).
 
 (4) In subsection (7)(a)(i), after “general fund” insert “ or (as the case may be) council fund ”.
 
-(5)[^key-b1194f94a7c3bf8ec3d5f627e2ad88d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b1194f94a7c3bf8ec3d5f627e2ad88d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In subsection (9)(b), for “(8)” substitute “ (8B) ”.
 
@@ -62,7 +62,7 @@ Section 38(11).
 
 (2) In subsection (1), after “general fund” insert “ or (as the case may be) council fund ”.
 
-(3)[^key-05b1364762001a3ed556e0735333ffe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-05b1364762001a3ed556e0735333ffe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.**[^c10521421] In section 35 of that Act (definition of “**special items**”), at the end add—
 
@@ -98,11 +98,11 @@ Section 38(11).
 
 [^c10521401]: Commencement: Sch. 12 in force at 3.4.1995, see s. 66 and [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 6(1)](https://www.legislation.gov.uk/uksi/1995/852/article/6/1) (with [art. 6(2)-(5)](https://www.legislation.gov.uk/uksi/1995/852/article/6/2))
 
-[^key-b1194f94a7c3bf8ec3d5f627e2ad88d8]: Textual amendment: [Sch. 12 para. 4(5)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/12/paragraph/4/5) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/13); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iii)
+[^c-b1194f94a7c3bf8ec3d5f627e2ad88d8]: Textual amendment: [Sch. 12 para. 4(5)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/12/paragraph/4/5) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/13); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iii)
 
 [^c10521411]: Commencement: Sch. 12 in force at 3.4.1995, see s. 66 and [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 6(1)](https://www.legislation.gov.uk/uksi/1995/852/article/6/1) (with [art. 6(2)-(5)](https://www.legislation.gov.uk/uksi/1995/852/article/6/2))
 
-[^key-05b1364762001a3ed556e0735333ffe7]: Textual amendment: [Sch. 12 para. 5(3)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/12/paragraph/5/3) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/13); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iii)
+[^c-05b1364762001a3ed556e0735333ffe7]: Textual amendment: [Sch. 12 para. 5(3)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/12/paragraph/5/3) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/13); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(ee)(iii)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/iii)
 
 [^c10521421]: Commencement: [Sch. 12](https://www.legislation.gov.uk/ukpga/1994/19/schedule/12) in force at 3.4.1995, see [s. 66](https://www.legislation.gov.uk/ukpga/1994/19/section/66) and [S.I. 1995/852](https://www.legislation.gov.uk/uksi/1995/852), [art. 6(1)](https://www.legislation.gov.uk/uksi/1995/852/article/6/1) (with [art. 6(2)-(5)](https://www.legislation.gov.uk/uksi/1995/852/article/6/2))
 

@@ -44,7 +44,7 @@ summary: ''
 
 (6) Where a registered society's year of account is one in relation to which a direction under section 43C has effect, the society shall not publish any year end or interim revenue account or balance sheet, unless it incorporates a report by the auditor or auditors appointed in pursuance of the direction stating whether in their opinion it complies with subsection (1) or (4), as the case may be, of section 37.
 
-(6A)[^key-1992bbbabb017d7e7849ecf67ea9c1d2] Subsections (4) to (6) do not apply to an interim revenue account or balance sheet that—
+(6A)[^c-1992bbbabb017d7e7849ecf67ea9c1d2] Subsections (4) to (6) do not apply to an interim revenue account or balance sheet that—
 
 - (a) is published together with the latest year end revenue account and balance sheet complying with subsection (2), (3) or (6) (as the case may be), and
 - (b) is marked in clearly legible characters and in a prominent position with the words “UNAUDITED REVENUE ACCOUNT” or “UNAUDITED BALANCE SHEET” (as the case may be).
@@ -79,4 +79,4 @@ subsection (10) shall, if the year is not one in relation to which the registrar
 
 [^c20353861]: Textual amendment: [1997 NI 22](https://www.legislation.gov.uk/nisi/1997)
 
-[^key-1992bbbabb017d7e7849ecf67ea9c1d2]: Textual amendment: S. 37A(6A) inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 12](https://www.legislation.gov.uk/nia/2016/16/section/12), [17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1)
+[^c-1992bbbabb017d7e7849ecf67ea9c1d2]: Textual amendment: S. 37A(6A) inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 12](https://www.legislation.gov.uk/nia/2016/16/section/12), [17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1)

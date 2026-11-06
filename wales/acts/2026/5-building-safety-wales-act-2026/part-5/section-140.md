@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Short title[^key-6815c3a8cc0e5a282428a55827620df9]
+## 140. Short title[^c-6815c3a8cc0e5a282428a55827620df9]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ This Act may be referred to as—
 
 ## Annotations
 
-[^key-6815c3a8cc0e5a282428a55827620df9]: Commencement: S. 140 in force at 28.4.2026, see [s. 138(1)(f)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/f)
+[^c-6815c3a8cc0e5a282428a55827620df9]: Commencement: S. 140 in force at 28.4.2026, see [s. 138(1)(f)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/f)

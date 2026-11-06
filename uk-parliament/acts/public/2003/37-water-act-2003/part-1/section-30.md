@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Enforcement notices, and related procedures and offences[^key-038a8b3a3ef43684b817b20a2aeed425]
+## 30. Enforcement notices, and related procedures and offences[^c-038a8b3a3ef43684b817b20a2aeed425]
 
 *Extent: E+W*
 
@@ -83,4 +83,4 @@ After section 25 of the WRA there is inserted—
 
 ## Annotations
 
-[^key-038a8b3a3ef43684b817b20a2aeed425]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2003/37/section/30) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(o)](https://www.legislation.gov.uk/uksi/2006/984/article/2/o)
+[^c-038a8b3a3ef43684b817b20a2aeed425]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2003/37/section/30) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(o)](https://www.legislation.gov.uk/uksi/2006/984/article/2/o)

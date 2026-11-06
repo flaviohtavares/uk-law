@@ -26,7 +26,7 @@ summary: ''
 - (b) a relevant derivative contracts transaction, or
 - (c) a relevant intangible fixed assets transaction,
 
-tax would have been chargeable under the law of a member State [^key-efc88d3b26c66f0ed7818746ec76551b]... in respect of a relevant profit but for the Mergers Directive.
+tax would have been chargeable under the law of a member State [^c-efc88d3b26c66f0ed7818746ec76551b]... in respect of a relevant profit but for the Mergers Directive.
 
 (2) In this section “**relevant loan relationship transaction**” means—
 
@@ -78,10 +78,10 @@ tax would have been chargeable under the law of a member State [^key-efc88d3b26c
 - (e) in the case of a transfer within subsection (4)(a), a profit which would be treated as accruing to a transparent entity in respect of an intangible fixed asset, because of the transfer of intangible fixed assets by the transparent entity, if it were not transparent, and
 - (f) in the case of a merger within subsection (4)(b), a profit which would be treated as accruing to a transparent entity in respect of an intangible fixed asset, because of the transfer of intangible fixed assets by the transparent entity in the course of the merger, if it were not transparent.
 
-(6) In this section “**transparent entity**” means a company which is resident in a member State [^key-6931405bb1b97e1b1a28008b524c4bd3]... and does not have an ordinary share capital.
+(6) In this section “**transparent entity**” means a company which is resident in a member State [^c-6931405bb1b97e1b1a28008b524c4bd3]... and does not have an ordinary share capital.
 
 ## Annotations
 
-[^key-efc88d3b26c66f0ed7818746ec76551b]: Textual amendment: Words in [s. 120(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/120/1) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [18(6)](https://www.legislation.gov.uk/uksi/2019/689/regulation/18/6) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-efc88d3b26c66f0ed7818746ec76551b]: Textual amendment: Words in [s. 120(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/120/1) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [18(6)](https://www.legislation.gov.uk/uksi/2019/689/regulation/18/6) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6931405bb1b97e1b1a28008b524c4bd3]: Textual amendment: Words in [s. 120(6)](https://www.legislation.gov.uk/ukpga/2010/8/section/120/6) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [18(6)](https://www.legislation.gov.uk/uksi/2019/689/regulation/18/6) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6931405bb1b97e1b1a28008b524c4bd3]: Textual amendment: Words in [s. 120(6)](https://www.legislation.gov.uk/ukpga/2010/8/section/120/6) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [18(6)](https://www.legislation.gov.uk/uksi/2019/689/regulation/18/6) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

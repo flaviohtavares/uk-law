@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 209. Notice of application under Article 150A(5)[^key-fc400632c0f4c2600cccda737b189a9a]
+## 209. Notice of application under Article 150A(5)[^c-fc400632c0f4c2600cccda737b189a9a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ An application under Article 150A(5) may be made without the application being s
 
 ## Annotations
 
-[^key-fc400632c0f4c2600cccda737b189a9a]: Commencement: [Rule 209](https://www.legislation.gov.uk/nisr/2026/11/rule/209) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-fc400632c0f4c2600cccda737b189a9a]: Commencement: [Rule 209](https://www.legislation.gov.uk/nisr/2026/11/rule/209) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

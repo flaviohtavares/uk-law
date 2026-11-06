@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Functions of approvers[^key-922ba3b1b3daf9f4f0430d2999464b43]
+## 4. Functions of approvers[^c-922ba3b1b3daf9f4f0430d2999464b43]
 
 *Extent: E+W*
 
@@ -52,17 +52,17 @@ summary: ''
   - (xxv) regulation 41 (sound insulation testing),
   - (xxvi) regulation 42 (mechanical ventilation air flow rate testing),
   - (xxvii) regulation 43 (pressure testing),
-  - (xxviii) regulation 44 (commissioning), [^key-51a905c765b48c28c83568c2439944cd]...
+  - (xxviii) regulation 44 (commissioning), [^c-51a905c765b48c28c83568c2439944cd]...
   - (xxix) regulation 44ZA (commissioning in respect of a system for on-site electricity generation), and
-  - (xxx)[^key-77d73c9ca73a52e13f0f53afe38a3393] regulation 44ZAA (particulars of connection to public electronic communications network), and
+  - (xxx)[^c-77d73c9ca73a52e13f0f53afe38a3393] regulation 44ZAA (particulars of connection to public electronic communications network), and
 - (b) in the Energy Performance of Buildings (England and Wales) Regulations 2012[^f00041], regulation 7A (energy performance certificates on construction).
 
 ## Annotations
 
-[^key-922ba3b1b3daf9f4f0430d2999464b43]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/1268/regulation/4) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-922ba3b1b3daf9f4f0430d2999464b43]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/1268/regulation/4) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
 
-[^key-51a905c765b48c28c83568c2439944cd]: Textual amendment: Word in [reg. 4(2)(a)(xxviii)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/4/2/a/xxviii) omitted (1.7.2025) by virtue of [The Building etc. (Amendment) (Wales) Regulations 2025 (S.I. 2025/377)](https://www.legislation.gov.uk/wsi/2025/377), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/377/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/wsi/2025/377/regulation/5/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2025/377/regulation/3))
+[^c-51a905c765b48c28c83568c2439944cd]: Textual amendment: Word in [reg. 4(2)(a)(xxviii)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/4/2/a/xxviii) omitted (1.7.2025) by virtue of [The Building etc. (Amendment) (Wales) Regulations 2025 (S.I. 2025/377)](https://www.legislation.gov.uk/wsi/2025/377), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/377/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/wsi/2025/377/regulation/5/2/a) (with [reg. 3](https://www.legislation.gov.uk/wsi/2025/377/regulation/3))
 
-[^key-77d73c9ca73a52e13f0f53afe38a3393]: Textual amendment: [Reg. 4(2)(a)(xxx)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/4/2/a/xxx) inserted (1.7.2025) by [The Building etc. (Amendment) (Wales) Regulations 2025 (S.I. 2025/377)](https://www.legislation.gov.uk/wsi/2025/377), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/377/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/wsi/2025/377/regulation/5/2/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2025/377/regulation/3))
+[^c-77d73c9ca73a52e13f0f53afe38a3393]: Textual amendment: [Reg. 4(2)(a)(xxx)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/4/2/a/xxx) inserted (1.7.2025) by [The Building etc. (Amendment) (Wales) Regulations 2025 (S.I. 2025/377)](https://www.legislation.gov.uk/wsi/2025/377), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/377/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/wsi/2025/377/regulation/5/2/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2025/377/regulation/3))
 
 [^f00041]: Footnote: [S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118). Regulation 7A was inserted by [S.I. 2016/284](https://www.legislation.gov.uk/uksi/2016/284).

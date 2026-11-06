@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**36.**[^key-ce81ee1112c503dbb33e83f9f35cdb2d] A bait net shall not exceed 50 metres in length and shall have a mesh of not more than 6.5 millimetres from knot to knot or 26 millimetres to be measured all round each mesh.
+**36.**[^c-ce81ee1112c503dbb33e83f9f35cdb2d] A bait net shall not exceed 50 metres in length and shall have a mesh of not more than 6.5 millimetres from knot to knot or 26 millimetres to be measured all round each mesh.
 
 ## Annotations
 
-[^key-ce81ee1112c503dbb33e83f9f35cdb2d]: Commencement: S. 36 in operation at 1.11.1997, see byelaw 1
+[^c-ce81ee1112c503dbb33e83f9f35cdb2d]: Commencement: S. 36 in operation at 1.11.1997, see byelaw 1

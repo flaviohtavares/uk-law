@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Amount of the grant for fees for a course that is provided at a private institution on behalf of a publicly-funded institution[^key-4816556be9179b6b448c7ce7e8e53560]
+## 31. Amount of the grant for fees for a course that is provided at a private institution on behalf of a publicly-funded institution[^c-4816556be9179b6b448c7ce7e8e53560]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4816556be9179b6b448c7ce7e8e53560]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2007/195/regulation/31) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-4816556be9179b6b448c7ce7e8e53560]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2007/195/regulation/31) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

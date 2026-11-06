@@ -31,49 +31,49 @@ Incest and Related Offences (Scotland) Act 1986 (repealed)
 
 1986 c. 36
 
-[^key-faa75ba3f97a8c82920708d032ab0510]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-faa75ba3f97a8c82920708d032ab0510]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Incest and related offences.[^key-faa75ba3f97a8c82920708d032ab0510][^key-faa75ba3f97a8c82920708d032ab0510]
+## 1. Incest and related offences.[^c-faa75ba3f97a8c82920708d032ab0510][^c-faa75ba3f97a8c82920708d032ab0510]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Consequential amendments and repeals.[^key-faa75ba3f97a8c82920708d032ab0510][^key-faa75ba3f97a8c82920708d032ab0510]
+## 2. Consequential amendments and repeals.[^c-faa75ba3f97a8c82920708d032ab0510][^c-faa75ba3f97a8c82920708d032ab0510]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title, commencement and extent.[^key-faa75ba3f97a8c82920708d032ab0510][^key-faa75ba3f97a8c82920708d032ab0510]
+## 3. Short title, commencement and extent.[^c-faa75ba3f97a8c82920708d032ab0510][^c-faa75ba3f97a8c82920708d032ab0510]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-faa75ba3f97a8c82920708d032ab0510] SCHEDULES
+[^c-faa75ba3f97a8c82920708d032ab0510] SCHEDULES
 
-## SCHEDULE 1 — Consequential Amendments[^key-faa75ba3f97a8c82920708d032ab0510]
+## SCHEDULE 1 — Consequential Amendments[^c-faa75ba3f97a8c82920708d032ab0510]
 
 Section 2(1).
 
-### The Criminal Procedure (Scotland) Act 1975 (c. 21)[^key-faa75ba3f97a8c82920708d032ab0510]
+### The Criminal Procedure (Scotland) Act 1975 (c. 21)[^c-faa75ba3f97a8c82920708d032ab0510]
 
-**1.**[^key-faa75ba3f97a8c82920708d032ab0510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-faa75ba3f97a8c82920708d032ab0510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
-**2.**[^key-faa75ba3f97a8c82920708d032ab0510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-faa75ba3f97a8c82920708d032ab0510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-faa75ba3f97a8c82920708d032ab0510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-faa75ba3f97a8c82920708d032ab0510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Sexual Offences (Scotland) Act 1976 (c. 67)[^key-faa75ba3f97a8c82920708d032ab0510]
+### The Sexual Offences (Scotland) Act 1976 (c. 67)[^c-faa75ba3f97a8c82920708d032ab0510]
 
-**4.**[^key-faa75ba3f97a8c82920708d032ab0510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-faa75ba3f97a8c82920708d032ab0510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Adoption (Scotland) Act 1978 (c. 28)[^key-faa75ba3f97a8c82920708d032ab0510]
+### The Adoption (Scotland) Act 1978 (c. 28)[^c-faa75ba3f97a8c82920708d032ab0510]
 
-**5.**[^key-faa75ba3f97a8c82920708d032ab0510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-faa75ba3f97a8c82920708d032ab0510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Enactments Repealed[^key-faa75ba3f97a8c82920708d032ab0510]
+## SCHEDULE 2 — Enactments Repealed[^c-faa75ba3f97a8c82920708d032ab0510]
 
 Section 2(2).
 
@@ -81,4 +81,4 @@ Section 2(2).
 
 ## Annotations
 
-[^key-faa75ba3f97a8c82920708d032ab0510]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1986/36) repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 15](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/15); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-faa75ba3f97a8c82920708d032ab0510]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1986/36) repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 15](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/15); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

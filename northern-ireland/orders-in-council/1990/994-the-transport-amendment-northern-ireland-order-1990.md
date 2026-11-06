@@ -166,7 +166,7 @@ After section 10 of the principal Act there shall be inserted the following sect
 
 *Para. (2)—Amendments*
 
-## 6. Grants for transport facilities and services[^key-678974bf71fea32ff1cb81997809606c]
+## 6. Grants for transport facilities and services[^c-678974bf71fea32ff1cb81997809606c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -184,4 +184,4 @@ After section 10 of the principal Act there shall be inserted the following sect
 
 [^c5473991]: Textual amendment: [1967 c. 37 (N.I.)](https://www.legislation.gov.uk/apni/1967/37)
 
-[^key-678974bf71fea32ff1cb81997809606c]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisi/1990/994/article/6) repealed (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [s. 48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)
+[^c-678974bf71fea32ff1cb81997809606c]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisi/1990/994/article/6) repealed (5.10.2015) by [Transport Act (Northern Ireland) 2011 (c. 11)](https://www.legislation.gov.uk/nia/2011/11), [s. 48(2)](https://www.legislation.gov.uk/nia/2011/11/section/48/2), [Sch. 2](https://www.legislation.gov.uk/nia/2011/11/schedule/2); [S.R. 2015/284](https://www.legislation.gov.uk/nisr/2015/284), [art. 2(1)](https://www.legislation.gov.uk/nisr/2015/284/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/284/schedule)

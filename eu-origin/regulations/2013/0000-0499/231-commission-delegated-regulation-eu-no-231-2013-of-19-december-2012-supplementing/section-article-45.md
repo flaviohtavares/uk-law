@@ -25,7 +25,7 @@ summary: ''
 - (a) identify, measure, manage and monitor at any time the risks to which the AIFs under their management are or might be exposed;
 - (b) ensure compliance with the limits set in accordance with Article 44.
 
-2. The arrangements, processes and techniques referred to in paragraph 1 shall be proportionate to the nature, scale and complexity of the business of the AIFM and of each AIF it manages and shall be consistent with the AIF’s risk profile as disclosed to investors in accordance with rule 3.2.5(3) of the Investment Funds sourcebook[^key-e57bff7a1541a148b9e2ca571d9edaa1].
+2. The arrangements, processes and techniques referred to in paragraph 1 shall be proportionate to the nature, scale and complexity of the business of the AIFM and of each AIF it manages and shall be consistent with the AIF’s risk profile as disclosed to investors in accordance with rule 3.2.5(3) of the Investment Funds sourcebook[^c-e57bff7a1541a148b9e2ca571d9edaa1].
 
 3. For the purposes of paragraph 1, the AIFM shall take the following actions for each AIF it manages:
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e57bff7a1541a148b9e2ca571d9edaa1]: Textual amendment: Words in Art. 45(2) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [26(8)](https://www.legislation.gov.uk/uksi/2019/328/regulation/26) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e57bff7a1541a148b9e2ca571d9edaa1]: Textual amendment: Words in Art. 45(2) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [26(8)](https://www.legislation.gov.uk/uksi/2019/328/regulation/26) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

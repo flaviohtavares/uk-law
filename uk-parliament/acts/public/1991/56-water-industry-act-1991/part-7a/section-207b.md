@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 207B. Procedure on appeals[^key-cf903621de5e1513a80183aecb9d1634]
+## 207B. Procedure on appeals[^c-cf903621de5e1513a80183aecb9d1634]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf903621de5e1513a80183aecb9d1634]: Textual amendment: Pt. 7A inserted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 37(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/37/2), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(g)](https://www.legislation.gov.uk/uksi/2016/465/article/2/g) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-cf903621de5e1513a80183aecb9d1634]: Textual amendment: Pt. 7A inserted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 37(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/37/2), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(g)](https://www.legislation.gov.uk/uksi/2016/465/article/2/g) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)

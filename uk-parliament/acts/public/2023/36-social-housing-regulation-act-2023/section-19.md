@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Notification of constitutional changes[^key-37a60507f7baeb331fb302203c606d04][^key-572d4e5c1672ab8f92d11598ebfdd43d]
+## 19. Notification of constitutional changes[^c-37a60507f7baeb331fb302203c606d04][^c-572d4e5c1672ab8f92d11598ebfdd43d]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37a60507f7baeb331fb302203c606d04]: Commencement: S. 19 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-37a60507f7baeb331fb302203c606d04]: Commencement: S. 19 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-572d4e5c1672ab8f92d11598ebfdd43d]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2023/36/section/19) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/l)
+[^c-572d4e5c1672ab8f92d11598ebfdd43d]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2023/36/section/19) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/l)

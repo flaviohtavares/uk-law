@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Code of audit practice[^key-68696a40f2a144114ff5aec959f82f7e]
+## 10. Code of audit practice[^c-68696a40f2a144114ff5aec959f82f7e]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68696a40f2a144114ff5aec959f82f7e]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2013/3/section/10) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(c)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/c)
+[^c-68696a40f2a144114ff5aec959f82f7e]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2013/3/section/10) in force at 4.7.2013 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(c)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/c)

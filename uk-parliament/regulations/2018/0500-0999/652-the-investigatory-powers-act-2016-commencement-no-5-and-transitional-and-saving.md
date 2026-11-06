@@ -412,9 +412,9 @@ The following provisions of the 2016 Act come into force on 8th August 2018—
 - (b) conduct occurring between 27th July 2018 and the day on which the repeal of Chapter 1 of Part 1 of RIPA by paragraph 45 of Schedule 10 to the 2016 Act is fully in force that is the making of an application for a warrant, or the issue of a warrant, under Chapter 1 of Part 1 of RIPA;
 - (c) the imposition of any requirement on any person to provide assistance in giving effect to any such warrant.
 
-(2)[^key-ed99f4cdd91b9efb51729958ed22a35b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ed99f4cdd91b9efb51729958ed22a35b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Duty not to make unauthorised disclosures[^key-171e2be63822836a883aedd99919c96f]
+#### 18. Duty not to make unauthorised disclosures[^c-171e2be63822836a883aedd99919c96f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -656,9 +656,9 @@ The following provisions of the Investigatory Powers Act 2016 (c. 25) have been 
 
 [^c22951731]: Marginal citation: [Section 16](https://www.legislation.gov.uk/uksi/2018/652/section/16) was amended by section 32(5) to (7) of the [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11).
 
-[^key-ed99f4cdd91b9efb51729958ed22a35b]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/uksi/2018/652/regulation/17/2) omitted (30.8.2018) by virtue of [The Investigatory Powers Act 2016 (Commencement No. 8 and Transitional and Saving Provisions) Regulations 2018 (S.I. 2018/940)](https://www.legislation.gov.uk/uksi/2018/940), [reg. 9(1)](https://www.legislation.gov.uk/uksi/2018/940/regulation/9/1)[(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/9/2)
+[^c-ed99f4cdd91b9efb51729958ed22a35b]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/uksi/2018/652/regulation/17/2) omitted (30.8.2018) by virtue of [The Investigatory Powers Act 2016 (Commencement No. 8 and Transitional and Saving Provisions) Regulations 2018 (S.I. 2018/940)](https://www.legislation.gov.uk/uksi/2018/940), [reg. 9(1)](https://www.legislation.gov.uk/uksi/2018/940/regulation/9/1)[(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/9/2)
 
-[^key-171e2be63822836a883aedd99919c96f]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/652/regulation/18) omitted (30.8.2018) by virtue of [The Investigatory Powers Act 2016 (Commencement No. 8 and Transitional and Saving Provisions) Regulations 2018 (S.I. 2018/940)](https://www.legislation.gov.uk/uksi/2018/940), [reg. 9(1)](https://www.legislation.gov.uk/uksi/2018/940/regulation/9/1)[(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/9/2)
+[^c-171e2be63822836a883aedd99919c96f]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/652/regulation/18) omitted (30.8.2018) by virtue of [The Investigatory Powers Act 2016 (Commencement No. 8 and Transitional and Saving Provisions) Regulations 2018 (S.I. 2018/940)](https://www.legislation.gov.uk/uksi/2018/940), [reg. 9(1)](https://www.legislation.gov.uk/uksi/2018/940/regulation/9/1)[(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/9/2)
 
 [^c22951751]: Marginal citation: Schedule A1 was added by [S.I. 2011/1340](https://www.legislation.gov.uk/uksi/2011/1340). Paragraph 6 of Schedule A1 was amended by paragraph 125 of Schedule 9 to the Crime and Courts Act 2013.
 

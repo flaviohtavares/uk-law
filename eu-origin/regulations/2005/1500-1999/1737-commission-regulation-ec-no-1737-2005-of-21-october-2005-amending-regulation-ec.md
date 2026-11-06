@@ -35,43 +35,43 @@ amending Regulation (EC) No 1726/1999 as regards the definition and transmission
 
 (Text with EEA relevance) (revoked)
 
-[^key-966baa94b6006338347329bfa28d003e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-966baa94b6006338347329bfa28d003e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-966baa94b6006338347329bfa28d003e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-966baa94b6006338347329bfa28d003e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-966baa94b6006338347329bfa28d003e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-966baa94b6006338347329bfa28d003e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-966baa94b6006338347329bfa28d003e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-966baa94b6006338347329bfa28d003e]
+## ANNEX I[^c-966baa94b6006338347329bfa28d003e]
 
-[^key-966baa94b6006338347329bfa28d003e]LIST OF VARIABLES
+[^c-966baa94b6006338347329bfa28d003e]LIST OF VARIABLES
 
 Structural statistics on labour costs
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]Figure 1
+[^c-966baa94b6006338347329bfa28d003e]Figure 1
 
 Labour costs and their main components
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]Figure 2
+[^c-966baa94b6006338347329bfa28d003e]Figure 2
 
 Disaggregation of the component ‘Wages and salaries’ (D.11)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]Figure 3
+[^c-966baa94b6006338347329bfa28d003e]Figure 3
 
 Disaggregation of the component ‘Employers’ social contributions’ (D.12)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — DEFINITIONS OF THE VARIABLES[^key-966baa94b6006338347329bfa28d003e]
+## ANNEX II — DEFINITIONS OF THE VARIABLES[^c-966baa94b6006338347329bfa28d003e]
 
-[^key-966baa94b6006338347329bfa28d003e]A.
+[^c-966baa94b6006338347329bfa28d003e]A.
 
 NUMBER OF EMPLOYEES
 
@@ -79,7 +79,7 @@ NUMBER OF EMPLOYEES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]A.1
+[^c-966baa94b6006338347329bfa28d003e]A.1
 
 Total number of employees
 
@@ -87,19 +87,19 @@ Total number of employees
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]A.11
+[^c-966baa94b6006338347329bfa28d003e]A.11
 
 Full-time employees (excluding apprentices)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]A.12
+[^c-966baa94b6006338347329bfa28d003e]A.12
 
 Part-time employees (excluding apprentices)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]A.121
+[^c-966baa94b6006338347329bfa28d003e]A.121
 
 Part-time employees converted into full-time units
 
@@ -107,13 +107,13 @@ Part-time employees converted into full-time units
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]A.13
+[^c-966baa94b6006338347329bfa28d003e]A.13
 
 Apprentices
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]A.131
+[^c-966baa94b6006338347329bfa28d003e]A.131
 
 Part-time apprentices converted into full-time units
 
@@ -121,7 +121,7 @@ Part-time apprentices converted into full-time units
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]B.
+[^c-966baa94b6006338347329bfa28d003e]B.
 
 HOURS ACTUALLY WORKED
 
@@ -129,39 +129,39 @@ HOURS ACTUALLY WORKED
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]C.
+[^c-966baa94b6006338347329bfa28d003e]C.
 
 PAID HOURS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]Calculation of annual hours actually worked and annual paid hours
+[^c-966baa94b6006338347329bfa28d003e]Calculation of annual hours actually worked and annual paid hours
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]Annual hours actually worked for full-time employees (B.11)
+[^c-966baa94b6006338347329bfa28d003e]Annual hours actually worked for full-time employees (B.11)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]Annual hours actually worked for part-time employees (B.12) and for apprentices (B.13)
+[^c-966baa94b6006338347329bfa28d003e]Annual hours actually worked for part-time employees (B.12) and for apprentices (B.13)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]Annual paid hours for full-time employees (C.11)
+[^c-966baa94b6006338347329bfa28d003e]Annual paid hours for full-time employees (C.11)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]Annual paid hours for part-time employees (C.12) and for apprentices (C.13)
+[^c-966baa94b6006338347329bfa28d003e]Annual paid hours for part-time employees (C.12) and for apprentices (C.13)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.
+[^c-966baa94b6006338347329bfa28d003e]D.
 
 LABOUR COSTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.1
+[^c-966baa94b6006338347329bfa28d003e]D.1
 
 Compensation of employees
 
@@ -169,7 +169,7 @@ Compensation of employees
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.11
+[^c-966baa94b6006338347329bfa28d003e]D.11
 
 Wages and salaries
 
@@ -177,31 +177,31 @@ Wages and salaries
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.111
+[^c-966baa94b6006338347329bfa28d003e]D.111
 
 Wages and salaries (excluding apprentices)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.1111
+[^c-966baa94b6006338347329bfa28d003e]D.1111
 
 Direct remuneration, bonuses and allowances
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.11111
+[^c-966baa94b6006338347329bfa28d003e]D.11111
 
 Direct remuneration, bonuses and allowances paid in each pay period
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.11112
+[^c-966baa94b6006338347329bfa28d003e]D.11112
 
 Direct remuneration, bonuses and allowances not paid in each pay period
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.1112
+[^c-966baa94b6006338347329bfa28d003e]D.1112
 
 Payments to employees' savings schemes
 
@@ -209,13 +209,13 @@ Payments to employees' savings schemes
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.1113
+[^c-966baa94b6006338347329bfa28d003e]D.1113
 
 Payments for days not worked
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.1114
+[^c-966baa94b6006338347329bfa28d003e]D.1114
 
 Wages and salaries in kind
 
@@ -223,43 +223,43 @@ Wages and salaries in kind
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.11141
+[^c-966baa94b6006338347329bfa28d003e]D.11141
 
 Company products
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.11142
+[^c-966baa94b6006338347329bfa28d003e]D.11142
 
 Staff housing
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.11143
+[^c-966baa94b6006338347329bfa28d003e]D.11143
 
 Company cars
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.11144
+[^c-966baa94b6006338347329bfa28d003e]D.11144
 
 Stock options and share purchase schemes
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.11145
+[^c-966baa94b6006338347329bfa28d003e]D.11145
 
 Other
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.112
+[^c-966baa94b6006338347329bfa28d003e]D.112
 
 Wages and salaries of apprentices
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.12
+[^c-966baa94b6006338347329bfa28d003e]D.12
 
 Employers' social contributions
 
@@ -267,7 +267,7 @@ Employers' social contributions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.121
+[^c-966baa94b6006338347329bfa28d003e]D.121
 
 Employers' actual social contributions (excluding apprentices)
 
@@ -275,19 +275,19 @@ Employers' actual social contributions (excluding apprentices)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.1211
+[^c-966baa94b6006338347329bfa28d003e]D.1211
 
 Statutory social-security contributions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.1212
+[^c-966baa94b6006338347329bfa28d003e]D.1212
 
 Collectively agreed, contractual and voluntary social-security contributions payable by the employer
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.122
+[^c-966baa94b6006338347329bfa28d003e]D.122
 
 Employers’ imputed social contributions (excluding apprentices)
 
@@ -295,31 +295,31 @@ Employers’ imputed social contributions (excluding apprentices)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.1221
+[^c-966baa94b6006338347329bfa28d003e]D.1221
 
 Guaranteed remuneration in the event of sickness
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.1222
+[^c-966baa94b6006338347329bfa28d003e]D.1222
 
 Employers' imputed social contributions for pensions and health care
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.1223
+[^c-966baa94b6006338347329bfa28d003e]D.1223
 
 Payments to employees leaving the enterprise
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.1224
+[^c-966baa94b6006338347329bfa28d003e]D.1224
 
 Other imputed social contributions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.123
+[^c-966baa94b6006338347329bfa28d003e]D.123
 
 Employers’ social contributions for apprentices
 
@@ -327,7 +327,7 @@ Employers’ social contributions for apprentices
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.2
+[^c-966baa94b6006338347329bfa28d003e]D.2
 
 Vocational training costs paid by the employer
 
@@ -335,7 +335,7 @@ Vocational training costs paid by the employer
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.3
+[^c-966baa94b6006338347329bfa28d003e]D.3
 
 Other expenditure paid by the employer
 
@@ -343,7 +343,7 @@ Other expenditure paid by the employer
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.4
+[^c-966baa94b6006338347329bfa28d003e]D.4
 
 Taxes paid by the employer
 
@@ -351,7 +351,7 @@ Taxes paid by the employer
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.5
+[^c-966baa94b6006338347329bfa28d003e]D.5
 
 Subsidies received by the employer
 
@@ -359,59 +359,59 @@ Subsidies received by the employer
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]Appendix to Annex II
+[^c-966baa94b6006338347329bfa28d003e]Appendix to Annex II
 
 Illustrative examples for the classification of certain labour cost items
 
-[^key-966baa94b6006338347329bfa28d003e]D.11111:
+[^c-966baa94b6006338347329bfa28d003e]D.11111:
 
 Direct remuneration, bonuses and allowances paid in each pay period
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.11112:
+[^c-966baa94b6006338347329bfa28d003e]D.11112:
 
 Direct remuneration, bonuses and allowances not paid in each pay period
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.1113:
+[^c-966baa94b6006338347329bfa28d003e]D.1113:
 
 Payments for days not worked
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.1114:
+[^c-966baa94b6006338347329bfa28d003e]D.1114:
 
 Wages and salaries in kind and their components
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.121:
+[^c-966baa94b6006338347329bfa28d003e]D.121:
 
 Employers’ actual social contributions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.122:
+[^c-966baa94b6006338347329bfa28d003e]D.122:
 
 Employers’ imputed social contributions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.2:
+[^c-966baa94b6006338347329bfa28d003e]D.2:
 
 Vocational training paid by the employer
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]D.3:
+[^c-966baa94b6006338347329bfa28d003e]D.3:
 
 Other expenditure by the employer
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — TRANSMISSION OF DATA INCLUDING BREAKDOWNS BY ECONOMIC ACTIVITY, ENTERPRISE SIZE CLASS AND COUNTRY OR REGION[^key-966baa94b6006338347329bfa28d003e]
+## ANNEX III — TRANSMISSION OF DATA INCLUDING BREAKDOWNS BY ECONOMIC ACTIVITY, ENTERPRISE SIZE CLASS AND COUNTRY OR REGION[^c-966baa94b6006338347329bfa28d003e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -419,22 +419,22 @@ Other expenditure by the employer
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]Identification of a record
+[^c-966baa94b6006338347329bfa28d003e]Identification of a record
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]Confidentiality Flag
+[^c-966baa94b6006338347329bfa28d003e]Confidentiality Flag
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]Variables
+[^c-966baa94b6006338347329bfa28d003e]Variables
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-966baa94b6006338347329bfa28d003e]Transmission
+[^c-966baa94b6006338347329bfa28d003e]Transmission
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-966baa94b6006338347329bfa28d003e]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/77); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-966baa94b6006338347329bfa28d003e]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/77); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

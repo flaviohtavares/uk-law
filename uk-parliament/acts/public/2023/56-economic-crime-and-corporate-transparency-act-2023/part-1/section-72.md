@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Delivery of documents: identity verification etc[^key-062ac9a7fa28b0f0dc580202a7aa5cca]
+## 72. Delivery of documents: identity verification etc[^c-062ac9a7fa28b0f0dc580202a7aa5cca]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-062ac9a7fa28b0f0dc580202a7aa5cca]: Commencement: S. 72 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-062ac9a7fa28b0f0dc580202a7aa5cca]: Commencement: S. 72 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

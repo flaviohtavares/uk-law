@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Temporary stopping up of public rights of way[^key-6ce7df3647717aeef9590e7ee459e352][^key-bfd4376aad39f55830998b7b845460e2]
+## 9. Temporary stopping up of public rights of way[^c-6ce7df3647717aeef9590e7ee459e352][^c-bfd4376aad39f55830998b7b845460e2]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ The undertaker may, in connection with the carrying out of the authorised projec
 
 ## Annotations
 
-[^key-6ce7df3647717aeef9590e7ee459e352]: Commencement: Art. 9 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-6ce7df3647717aeef9590e7ee459e352]: Commencement: Art. 9 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
 
-[^key-bfd4376aad39f55830998b7b845460e2]: Textual amendment: Art. 9(1) renumbered as art. 9 (13.7.2018) by [The East Anglia THREE Offshore Wind Farm (Correction) Order 2018 (S.I. 2018/843)](https://www.legislation.gov.uk/uksi/2018/843), [art. 1](https://www.legislation.gov.uk/uksi/2018/843/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/843/schedule)
+[^c-bfd4376aad39f55830998b7b845460e2]: Textual amendment: Art. 9(1) renumbered as art. 9 (13.7.2018) by [The East Anglia THREE Offshore Wind Farm (Correction) Order 2018 (S.I. 2018/843)](https://www.legislation.gov.uk/uksi/2018/843), [art. 1](https://www.legislation.gov.uk/uksi/2018/843/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/843/schedule)

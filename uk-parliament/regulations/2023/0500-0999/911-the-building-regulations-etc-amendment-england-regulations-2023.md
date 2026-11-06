@@ -51,7 +51,7 @@ The Secretary of State has consulted the Building Regulations Advisory Committee
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent and interpretation[^key-dd14393d52b88130a979c8930b3c8990]
+### 1. Citation, commencement, extent and interpretation[^c-dd14393d52b88130a979c8930b3c8990]
 
 (1) These Regulations may be cited as the Building Regulations etc. (Amendment) (England) Regulations 2023.
 
@@ -63,11 +63,11 @@ The Secretary of State has consulted the Building Regulations Advisory Committee
 
 ## PART 2 — Amendment of the Building Regulations 2010
 
-### 2. Amendment of the 2010 Regulations[^key-a38990e6b8a7385e5ff8ba20492cdb32]
+### 2. Amendment of the 2010 Regulations[^c-a38990e6b8a7385e5ff8ba20492cdb32]
 
 The 2010 Regulations are amended in accordance with regulations 3 to 17.
 
-### 3. Amendments to regulation 2[^key-cf9c92a6e036e6959bf891b84e9b7ae2]
+### 3. Amendments to regulation 2[^c-cf9c92a6e036e6959bf891b84e9b7ae2]
 
 In regulation 2(1) (interpretation) of the 2010 Regulations—
 
@@ -125,7 +125,7 @@ In regulation 2(1) (interpretation) of the 2010 Regulations—
   ;
 - (c) omit the definition of “full plans”.
 
-### 4. Amendments after regulation 2[^key-98ec5175e84ecaec9d617cfde1e46148]
+### 4. Amendments after regulation 2[^c-98ec5175e84ecaec9d617cfde1e46148]
 
 After regulation 2 (interpretation) of the 2010 Regulations insert—
 
@@ -160,7 +160,7 @@ After regulation 2 (interpretation) of the 2010 Regulations insert—
 
 .
 
-### 5. Amendment to regulation 10 and transitional provision[^key-da9e52385c50333b44df59c466e4b6be]
+### 5. Amendment to regulation 10 and transitional provision[^c-da9e52385c50333b44df59c466e4b6be]
 
 (1) In regulation 10 (exemption of Mayor’s Office for Policing and Crime from procedural requirements) of the 2010 Regulations, for paragraph (2) substitute—
 
@@ -172,7 +172,7 @@ After regulation 2 (interpretation) of the 2010 Regulations insert—
 
 (3) In paragraph (2) “**building work**” has the same meaning as in the 2010 Regulations.
 
-### 6. Amendments relating to dutyholders and competence[^key-964647ed3ad8f217967ba3399942da9d]
+### 6. Amendments relating to dutyholders and competence[^c-964647ed3ad8f217967ba3399942da9d]
 
 (1) After regulation 11 (power to dispense with or relax requirements) of the 2010 Regulations insert the following new Part—
 
@@ -590,7 +590,7 @@ After regulation 2 (interpretation) of the 2010 Regulations insert—
 
 .
 
-### 7. Amendments: deposit of plans and building control authorities etc[^key-eef6621bebf79aa87df0b0b9f83848fa]
+### 7. Amendments: deposit of plans and building control authorities etc[^c-eef6621bebf79aa87df0b0b9f83848fa]
 
 (1) In regulation 11 (power to dispense with or relax regulations) of the 2010 Regulations, in paragraph (2), for “local authority” substitute “building control authority”.
 
@@ -893,7 +893,7 @@ After regulation 2 (interpretation) of the 2010 Regulations insert—
 - (b) in paragraph 1(g)(ii) for “to deposit full plans” substitute “an application for building control approval with full plans”;
 - (c) in paragraph 1(l) for “to deposit full plans” substitute “an application for building control approval with full plans”.
 
-### 8. Amendments: applications for building control[^key-3415ccb2dd65b7246246ee28eb9824b6]
+### 8. Amendments: applications for building control[^c-3415ccb2dd65b7246246ee28eb9824b6]
 
 For regulation 14 of the 2010 Regulations substitute—
 
@@ -1014,7 +1014,7 @@ For regulation 14 of the 2010 Regulations substitute—
 
 .
 
-### 9. Amendments: consultation on applications for building control[^key-5cec5c6a01db31c945281e7683fd2bfc]
+### 9. Amendments: consultation on applications for building control[^c-5cec5c6a01db31c945281e7683fd2bfc]
 
 After regulation 15 of the 2010 Regulations insert—
 
@@ -1035,7 +1035,7 @@ After regulation 15 of the 2010 Regulations insert—
 
 .
 
-### 10. Other appeals[^key-49449845fa315b03cc3d6b1e00a74c4f]
+### 10. Other appeals[^c-49449845fa315b03cc3d6b1e00a74c4f]
 
 After regulation 18 (unauthorised building work) of the 2010 Regulations insert—
 
@@ -1166,7 +1166,7 @@ After regulation 18 (unauthorised building work) of the 2010 Regulations insert�
 
 .
 
-### 11. Regulator’s notices[^key-d55325a0e94123e307fe8a0e54e4a127]
+### 11. Regulator’s notices[^c-d55325a0e94123e307fe8a0e54e4a127]
 
 After regulation 19 (supervision of building work otherwise than by local authorities) of the 2010 Regulations insert—
 
@@ -1247,7 +1247,7 @@ After regulation 19 (supervision of building work otherwise than by local author
 
 .
 
-### 12. Amendments to regulations 20 and 20A of the 2010 Regulations[^key-58f30eff7ce39a25013e9bc2f680a2fb]
+### 12. Amendments to regulations 20 and 20A of the 2010 Regulations[^c-58f30eff7ce39a25013e9bc2f680a2fb]
 
 (1) In regulation 20 (provisions applicable to self-certification schemes) of the 2010 Regulations, after paragraph (1) insert—
 
@@ -1261,7 +1261,7 @@ After regulation 19 (supervision of building work otherwise than by local author
 
 .
 
-### 13. Amendments to relating to fire safety information[^key-18959d306b1c524df963cba385f028cc]
+### 13. Amendments to relating to fire safety information[^c-18959d306b1c524df963cba385f028cc]
 
 (1) In regulation 38 (fire safety information) of the 2010 Regulations, for paragraph (2) substitute—
 
@@ -1299,7 +1299,7 @@ After regulation 19 (supervision of building work otherwise than by local author
 
 (3) In regulation 17A (certificate for building occupied before work is completed), in sub-paragraph (1)(c) for “those parts of the building which are to be occupied before completion of the work currently comply with regulation 38 and Part B of Schedule 1” substitute “regulation 38 and Part B of Schedule 1 are currently complied with in relation to those parts of the building which are to be occupied before completion of the work”.
 
-### 14. Amendments relating to commencement of section 33 of the Building Act 1984[^key-87499e78b6fed4feedadbbc5f0f3ec12]
+### 14. Amendments relating to commencement of section 33 of the Building Act 1984[^c-87499e78b6fed4feedadbbc5f0f3ec12]
 
 (1) In regulation 19 of the 2010 Regulations—
 
@@ -1308,7 +1308,7 @@ After regulation 19 (supervision of building work otherwise than by local author
 
 (2) Omit regulations 45 and 46 of the 2010 Regulations.
 
-### 15. Starting on site and commencement of work[^key-0ff53440f1d73db7095bb524287841b7]
+### 15. Starting on site and commencement of work[^c-0ff53440f1d73db7095bb524287841b7]
 
 (1) In regulation 16 of the 2010 Regulations—
 
@@ -1386,7 +1386,7 @@ After regulation 19 (supervision of building work otherwise than by local author
 
 .
 
-### 16. Enforcement provisions[^key-242f5a11501ab3b3a4aec99ba4e96a83]
+### 16. Enforcement provisions[^c-242f5a11501ab3b3a4aec99ba4e96a83]
 
 (1) In regulation 47, for sub-paragraph (a) substitute—
 
@@ -1557,7 +1557,7 @@ After regulation 19 (supervision of building work otherwise than by local author
 
 .
 
-### 17. Other miscellaneous amendments to the 2010 Regulations[^key-17300b4ce9e8446aed689a9d41984d2b]
+### 17. Other miscellaneous amendments to the 2010 Regulations[^c-17300b4ce9e8446aed689a9d41984d2b]
 
 (1) In regulation 5 of the 2010 Regulations omit “the purposes of paragraph 8(1)(e) of Schedule 1 to the Act and for”.
 
@@ -1565,7 +1565,7 @@ After regulation 19 (supervision of building work otherwise than by local author
 
 ## PART 3 — Amendment of other secondary legislation
 
-### 18. Amendments to the Building (Local Authority Charges) Regulations 2010[^key-e11d7e05cbe5d23677820d57db44cc2b]
+### 18. Amendments to the Building (Local Authority Charges) Regulations 2010[^c-e11d7e05cbe5d23677820d57db44cc2b]
 
 (1) The Building (Local Authority Charges) Regulations 2010[^f00016] are amended as follows.
 
@@ -1621,7 +1621,7 @@ After regulation 19 (supervision of building work otherwise than by local author
 
 (6) Omit regulation 14 (fees for determination of questions by the Secretary of State).
 
-### 19. Amendments to the Energy Performance of Buildings (England and Wales) Regulations 2012[^key-7d7bfc30a8ddf860d39c33630d8064d8]
+### 19. Amendments to the Energy Performance of Buildings (England and Wales) Regulations 2012[^c-7d7bfc30a8ddf860d39c33630d8064d8]
 
 (1) The Energy Performance of Buildings (England and Wales) Regulations 2012[^f00017] are amended as follows.
 
@@ -1631,7 +1631,7 @@ After regulation 19 (supervision of building work otherwise than by local author
 
 .
 
-### 20. Amendments to the Building Safety (Registration of Higher-Risk Buildings and Review of Decisions) (England) Regulations 2023[^key-c9cd313b30ac9040ed18821337bb24b5]
+### 20. Amendments to the Building Safety (Registration of Higher-Risk Buildings and Review of Decisions) (England) Regulations 2023[^c-c9cd313b30ac9040ed18821337bb24b5]
 
 (1) The Building Safety (Registration of Higher-Risk Buildings and Review of Decisions) (England) Regulations 2023[^f00018] are amended as follows.
 
@@ -1656,7 +1656,7 @@ After regulation 19 (supervision of building work otherwise than by local author
 
   .
 
-### 21. Amendments to the Building Safety (Responsible Actors Scheme and Prohibitions) Regulations 2023[^key-2335ba708559bb81bee93f18883b1f15]
+### 21. Amendments to the Building Safety (Responsible Actors Scheme and Prohibitions) Regulations 2023[^c-2335ba708559bb81bee93f18883b1f15]
 
 (1) The Building Safety (Responsible Actors Scheme and Prohibitions) Regulations 2023[^f00019] are amended as follows.
 
@@ -1712,7 +1712,7 @@ After regulation 19 (supervision of building work otherwise than by local author
 
 ## PART 4 — Transitional, supplementary and saving provisions
 
-### 22. Transitional and saving provisions[^key-0c74a72e18d51aad9e76d9da0baa3806]
+### 22. Transitional and saving provisions[^c-0c74a72e18d51aad9e76d9da0baa3806]
 
 (1) The amendments made to the 2010 Regulations by the provisions listed in paragraph (2) do not apply to—
 
@@ -1743,15 +1743,15 @@ After regulation 19 (supervision of building work otherwise than by local author
 
 ceases on 6th April 2024 where the building work has not started by that date.
 
-### 23. Transitional and saving provisions: appeals[^key-508846f06c97ae4796b9f23e181a819d]
+### 23. Transitional and saving provisions: appeals[^c-508846f06c97ae4796b9f23e181a819d]
 
 In relation to any appeal, or any application to a magistrates’ court, under Part 1 of the Act which was made before the regime start date, the 2010 Regulations apply without the amendments made by regulation 10 (other appeals).
 
-### 24. Transitional, supplementary and saving provisions: HRBs[^key-c6b6d14e8995e703e548224266633ade]
+### 24. Transitional, supplementary and saving provisions: HRBs[^c-c6b6d14e8995e703e548224266633ade]
 
 Except to the extent provided for in Schedule 3 (transitional, supplementary and saving provisions) to the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023, regulations 22 and 23 do not apply to higher-risk buildings.
 
-### 25. Interpretation of this Part[^key-f6401d897050164f6e1f6eb76639b589]
+### 25. Interpretation of this Part[^c-f6401d897050164f6e1f6eb76639b589]
 
 For the purposes of this Part—
 
@@ -1819,13 +1819,13 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00003]: Footnote: Under the transitional provisions in regulation 5(1) of [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362) the requirement to consult under section 120B of the Building Act 1984 does not apply to proposals consulted on under section 14(3) of the Building Act 1984 before it was repealed by paragraph 17 of Schedule 5 to the Building Safety Act 2022.
 
-[^key-dd14393d52b88130a979c8930b3c8990]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/911/regulation/1) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-dd14393d52b88130a979c8930b3c8990]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/911/regulation/1) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214) as amended by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [2014/110](https://www.legislation.gov.uk/uksi/2014/110), [2015/767](https://www.legislation.gov.uk/uksi/2015/767), [2016/285](https://www.legislation.gov.uk/uksi/2016/285), [2016/1274](https://www.legislation.gov.uk/uksi/2016/1274), [2018/1230](https://www.legislation.gov.uk/uksi/2018/1230), [2021/1391](https://www.legislation.gov.uk/uksi/2021/1391), [2022/608](https://www.legislation.gov.uk/uksi/2022/608) and [2023/520](https://www.legislation.gov.uk/uksi/2023/520). There are other amending instruments, but none is relevant to this instrument.
 
-[^key-a38990e6b8a7385e5ff8ba20492cdb32]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/911/regulation/2) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-a38990e6b8a7385e5ff8ba20492cdb32]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/911/regulation/2) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^key-cf9c92a6e036e6959bf891b84e9b7ae2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/911/regulation/3) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-cf9c92a6e036e6959bf891b84e9b7ae2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/911/regulation/3) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
 [^f00005]: Footnote: Paragraph 1B of Schedule 1 to the Building Act [1984 (c. 55)](https://www.legislation.gov.uk/ukpga/1984/55).
 
@@ -1833,17 +1833,17 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00007]: Footnote: [S.I. 2023/275](https://www.legislation.gov.uk/uksi/2023/275).
 
-[^key-98ec5175e84ecaec9d617cfde1e46148]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/911/regulation/4) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-98ec5175e84ecaec9d617cfde1e46148]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/911/regulation/4) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^key-da9e52385c50333b44df59c466e4b6be]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/911/regulation/5) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-da9e52385c50333b44df59c466e4b6be]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/911/regulation/5) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^key-964647ed3ad8f217967ba3399942da9d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/911/regulation/6) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-964647ed3ad8f217967ba3399942da9d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/911/regulation/6) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
 [^f00008]: Footnote: Higher-risk building work is defined in section 91ZA of the Building Act [1984 (c. 55)](https://www.legislation.gov.uk/ukpga/1984/55) which was inserted into that Act by section 32 of the Building Safety Act [2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30).
 
 [^f00009]: Footnote: [S.I. 2015/51](https://www.legislation.gov.uk/uksi/2015/51).
 
-[^key-eef6621bebf79aa87df0b0b9f83848fa]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/911/regulation/7) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-eef6621bebf79aa87df0b0b9f83848fa]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/911/regulation/7) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
 [^f00010]: Footnote: Regulation 17A was inserted by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119).
 
@@ -1855,48 +1855,48 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00014]: Footnote: A company limited by guarantee, registered in England and Wales with company registration number 04980223.
 
-[^key-3415ccb2dd65b7246246ee28eb9824b6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/911/regulation/8) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-3415ccb2dd65b7246246ee28eb9824b6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/911/regulation/8) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^key-5cec5c6a01db31c945281e7683fd2bfc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/911/regulation/9) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-5cec5c6a01db31c945281e7683fd2bfc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/911/regulation/9) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^key-49449845fa315b03cc3d6b1e00a74c4f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/911/regulation/10) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-49449845fa315b03cc3d6b1e00a74c4f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/911/regulation/10) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^key-d55325a0e94123e307fe8a0e54e4a127]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2023/911/regulation/11) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-d55325a0e94123e307fe8a0e54e4a127]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2023/911/regulation/11) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^key-58f30eff7ce39a25013e9bc2f680a2fb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/911/regulation/12) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-58f30eff7ce39a25013e9bc2f680a2fb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/911/regulation/12) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^key-18959d306b1c524df963cba385f028cc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/911/regulation/13) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-18959d306b1c524df963cba385f028cc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/911/regulation/13) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^key-87499e78b6fed4feedadbbc5f0f3ec12]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/911/regulation/14) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-87499e78b6fed4feedadbbc5f0f3ec12]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/911/regulation/14) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^key-0ff53440f1d73db7095bb524287841b7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/911/regulation/15) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-0ff53440f1d73db7095bb524287841b7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/911/regulation/15) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^key-242f5a11501ab3b3a4aec99ba4e96a83]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/911/regulation/16) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-242f5a11501ab3b3a4aec99ba4e96a83]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/911/regulation/16) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
 [^f00015]: Footnote: See the definition of compliance notice in section 35B(2) of the Building Act 1984, inserted by section 38 of the Building Safety Act 2022.
 
-[^key-17300b4ce9e8446aed689a9d41984d2b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2023/911/regulation/17) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-17300b4ce9e8446aed689a9d41984d2b]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2023/911/regulation/17) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^key-e11d7e05cbe5d23677820d57db44cc2b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2023/911/regulation/18) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-e11d7e05cbe5d23677820d57db44cc2b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2023/911/regulation/18) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 2010/404](https://www.legislation.gov.uk/uksi/2010/404) as amended by [S.I. 2010/2215](https://www.legislation.gov.uk/uksi/2010/2215).
 
-[^key-7d7bfc30a8ddf860d39c33630d8064d8]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2023/911/regulation/19) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-7d7bfc30a8ddf860d39c33630d8064d8]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2023/911/regulation/19) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118).
 
-[^key-c9cd313b30ac9040ed18821337bb24b5]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2023/911/regulation/20) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-c9cd313b30ac9040ed18821337bb24b5]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2023/911/regulation/20) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 2023/315](https://www.legislation.gov.uk/uksi/2023/315).
 
-[^key-2335ba708559bb81bee93f18883b1f15]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2023/911/regulation/21) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-2335ba708559bb81bee93f18883b1f15]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2023/911/regulation/21) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
 [^f00019]: Footnote: [S.I. 2023/753](https://www.legislation.gov.uk/uksi/2023/753).
 
-[^key-0c74a72e18d51aad9e76d9da0baa3806]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2023/911/regulation/22) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-0c74a72e18d51aad9e76d9da0baa3806]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2023/911/regulation/22) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^key-508846f06c97ae4796b9f23e181a819d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2023/911/regulation/23) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-508846f06c97ae4796b9f23e181a819d]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2023/911/regulation/23) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^key-c6b6d14e8995e703e548224266633ade]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2023/911/regulation/24) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-c6b6d14e8995e703e548224266633ade]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2023/911/regulation/24) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
 
-[^key-f6401d897050164f6e1f6eb76639b589]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2023/911/regulation/25) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)
+[^c-f6401d897050164f6e1f6eb76639b589]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2023/911/regulation/25) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2)

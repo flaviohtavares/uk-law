@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Procedure of the interim tribunal[^key-273e7e25351b020747bbc1736d5b0ce8]
+## 89. Procedure of the interim tribunal[^c-273e7e25351b020747bbc1736d5b0ce8]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-273e7e25351b020747bbc1736d5b0ce8]: Commencement: Art. 89 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-273e7e25351b020747bbc1736d5b0ce8]: Commencement: Art. 89 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

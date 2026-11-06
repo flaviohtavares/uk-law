@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. No mains or pipes[^key-bec5ad1a356ee21aefd8cc1f658795ef]
+## 38. No mains or pipes[^c-bec5ad1a356ee21aefd8cc1f658795ef]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bec5ad1a356ee21aefd8cc1f658795ef]: Commencement: Art. 38 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-bec5ad1a356ee21aefd8cc1f658795ef]: Commencement: Art. 38 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

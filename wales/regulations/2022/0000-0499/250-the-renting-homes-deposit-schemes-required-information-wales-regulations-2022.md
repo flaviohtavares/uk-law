@@ -43,13 +43,13 @@ Coming into force in accordance with regulation 1
 
 The Welsh Ministers make these Regulations in exercise of the powers conferred on them by sections 45(3)[^f00001] and 256(1) of the Renting Homes (Wales) Act 2016[^f00002].
 
-## 1. Title and commencement[^key-6502ba25b5f8884b86262ee971e7ab69][^M_I_02718a66-7ab3-4fb5-95b9-a9e427f7d1e8]
+## 1. Title and commencement[^c-6502ba25b5f8884b86262ee971e7ab69][^M_I_02718a66-7ab3-4fb5-95b9-a9e427f7d1e8]
 
 **May not be in force at this date. Check the source.**
 
-The title of these Regulations is the Renting Homes (Deposit Schemes) (Required Information) (Wales) Regulations 2022 and they come into force on the day on 1 December 2022 (the day on which section 239 of the Renting Homes (Wales) Act 2016 comes into force)[^key-8b7e1734d7ec26cec1308002b58d7d42].[^f00003]
+The title of these Regulations is the Renting Homes (Deposit Schemes) (Required Information) (Wales) Regulations 2022 and they come into force on the day on 1 December 2022 (the day on which section 239 of the Renting Homes (Wales) Act 2016 comes into force)[^c-8b7e1734d7ec26cec1308002b58d7d42].[^f00003]
 
-## 2. Interpretation[^key-fa7bb10191df9621b339b1a2d8c2b9c9]
+## 2. Interpretation[^c-fa7bb10191df9621b339b1a2d8c2b9c9]
 
 **May not be in force at this date. Check the source.**
 
@@ -57,7 +57,7 @@ The title of these Regulations is the Renting Homes (Deposit Schemes) (Required 
 
 (2) The words and expressions used in these Regulations have the same meaning as they have in the Act.
 
-## 3. Required information relating to deposits[^key-b64dfc309b3edee11001076db175528e]
+## 3. Required information relating to deposits[^c-b64dfc309b3edee11001076db175528e]
 
 **May not be in force at this date. Check the source.**
 
@@ -82,7 +82,7 @@ The title of these Regulations is the Renting Homes (Deposit Schemes) (Required 
 
 (2) For the purposes of paragraph (1)(d), the reference to a landlord or a contract-holder who is not contactable includes a landlord or contract-holder whose whereabouts are known but who has failed, within a reasonable period of time, to respond to communications in respect of the deposit.
 
-## 4. Revocation[^key-5e6589c4496003ab5dcca90debaee970]
+## 4. Revocation[^c-5e6589c4496003ab5dcca90debaee970]
 
 **May not be in force at this date. Check the source.**
 
@@ -108,17 +108,17 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [2016 anaw 1](https://www.legislation.gov.uk/anaw/2016/1).
 
-[^key-6502ba25b5f8884b86262ee971e7ab69]: Commencement: Reg. 1 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 11](https://www.legislation.gov.uk/uksi/2022/906/article/11))
+[^c-6502ba25b5f8884b86262ee971e7ab69]: Commencement: Reg. 1 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 11](https://www.legislation.gov.uk/uksi/2022/906/article/11))
 
 [^M_I_02718a66-7ab3-4fb5-95b9-a9e427f7d1e8]: Commencement: Reg. 1 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 11](https://www.legislation.gov.uk/uksi/2022/906/article/11))
 
-[^key-8b7e1734d7ec26cec1308002b58d7d42]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/250/regulation/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [11](https://www.legislation.gov.uk/wsi/2022/906/article/11)
+[^c-8b7e1734d7ec26cec1308002b58d7d42]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/wsi/2022/250/regulation/1) substituted (13.8.2022) by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/wsi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/906/article/1/2), [11](https://www.legislation.gov.uk/wsi/2022/906/article/11)
 
 [^f00003]: Footnote: Section 239 of the Renting Homes (Wales) Act 2016 will come into force on a day appointed by the Welsh Ministers in an order made by statutory instrument.
 
-[^key-fa7bb10191df9621b339b1a2d8c2b9c9]: Commencement: Reg. 2 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 11](https://www.legislation.gov.uk/uksi/2022/906/article/11))
+[^c-fa7bb10191df9621b339b1a2d8c2b9c9]: Commencement: Reg. 2 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 11](https://www.legislation.gov.uk/uksi/2022/906/article/11))
 
-[^key-b64dfc309b3edee11001076db175528e]: Commencement: Reg. 3 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 11](https://www.legislation.gov.uk/uksi/2022/906/article/11))
+[^c-b64dfc309b3edee11001076db175528e]: Commencement: Reg. 3 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 11](https://www.legislation.gov.uk/uksi/2022/906/article/11))
 
 [^f00004]: Footnote: See paragraph 1(3) of Schedule 5 to the Act.
 
@@ -126,6 +126,6 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00006]: Footnote: Section 46 of the Act was amended by section 18 of, and paragraph 7 of Schedule 6 to, the Renting Homes (Amendment) (Wales) [Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3).
 
-[^key-5e6589c4496003ab5dcca90debaee970]: Commencement: Reg. 4 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 11](https://www.legislation.gov.uk/uksi/2022/906/article/11))
+[^c-5e6589c4496003ab5dcca90debaee970]: Commencement: Reg. 4 in force at 1.12.2022, see reg. 1 (as amended by [The Renting Homes (Wales) Act 2016 (Commencement No. 2 and Consequential Amendments) Order 2022 (S.I. 2022/906)](https://www.legislation.gov.uk/uksi/2022/906), [art. 11](https://www.legislation.gov.uk/uksi/2022/906/article/11))
 
 [^f00007]: Footnote: [S.I. 2007/797](https://www.legislation.gov.uk/uksi/2007/797).

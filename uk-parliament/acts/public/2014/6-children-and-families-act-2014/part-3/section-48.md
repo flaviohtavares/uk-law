@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Release of child or young person for whom EHC plan previously maintained[^key-2dd63c3ea293f52cac34d88e06b31ec6]
+## 48. Release of child or young person for whom EHC plan previously maintained[^c-2dd63c3ea293f52cac34d88e06b31ec6]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dd63c3ea293f52cac34d88e06b31ec6]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2014/6/section/48) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-2dd63c3ea293f52cac34d88e06b31ec6]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2014/6/section/48) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

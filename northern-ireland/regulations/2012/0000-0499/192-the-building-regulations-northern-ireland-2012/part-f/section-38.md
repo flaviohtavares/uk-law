@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Application and interpretation[^key-b645bd1c449e305b2b3d97cd35ce0bc4]
+## 38. Application and interpretation[^c-b645bd1c449e305b2b3d97cd35ce0bc4]
 
 *Extent: N.I.*
 
@@ -93,4 +93,4 @@ and includes all parts of the element between the surface bounding the condition
 
 ## Annotations
 
-[^key-b645bd1c449e305b2b3d97cd35ce0bc4]: Textual amendment: Reg. 38 substituted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2014/44/regulation/6/1) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))
+[^c-b645bd1c449e305b2b3d97cd35ce0bc4]: Textual amendment: Reg. 38 substituted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [6(1)](https://www.legislation.gov.uk/nisr/2014/44/regulation/6/1) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))

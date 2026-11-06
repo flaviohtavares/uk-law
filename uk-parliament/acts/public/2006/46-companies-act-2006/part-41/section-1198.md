@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A person must not carry on business in the United Kingdom under a name that gives so misleading an indication of the nature of the activities of the business as to pose a risk of harm to the public in the United Kingdom or elsewhere[^key-48df118aad1be98bae409d6086a0838c].
+(1) A person must not carry on business in the United Kingdom under a name that gives so misleading an indication of the nature of the activities of the business as to pose a risk of harm to the public in the United Kingdom or elsewhere[^c-48df118aad1be98bae409d6086a0838c].
 
 (2) A person who uses a name in contravention of this section commits an offence.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48df118aad1be98bae409d6086a0838c]: Textual amendment: Words in [s. 1198(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/1198/1) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 24](https://www.legislation.gov.uk/ukpga/2023/56/section/24), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/s)
+[^c-48df118aad1be98bae409d6086a0838c]: Textual amendment: Words in [s. 1198(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/1198/1) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 24](https://www.legislation.gov.uk/ukpga/2023/56/section/24), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/s)

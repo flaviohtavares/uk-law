@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. Import permits, export permits and re-export certificates shall, taking account of Article 8(3), be applied for in sufficient time to allow their issue prior to the introduction of specimens into or their export or re-export from Great Britain[^key-862ed3fd6a80d039f728dd26267a92f7].
+1. Import permits, export permits and re-export certificates shall, taking account of Article 8(3), be applied for in sufficient time to allow their issue prior to the introduction of specimens into or their export or re-export from Great Britain[^c-862ed3fd6a80d039f728dd26267a92f7].
 
 2. The assignation of specimens to a customs procedure shall not be authorised until after presentation of the requisite documents.
 
 ## Annotations
 
-[^key-862ed3fd6a80d039f728dd26267a92f7]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2006/865/article/13/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/8)
+[^c-862ed3fd6a80d039f728dd26267a92f7]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2006/865/article/13/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/8)

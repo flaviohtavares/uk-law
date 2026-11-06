@@ -32,53 +32,53 @@ Northern Ireland Budget Act 2017 (repealed)
 
 2017 c. 34
 
-[^key-ac14aed31a2a60599dfca8b351d1f35e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac14aed31a2a60599dfca8b351d1f35e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Issue of sum out of the Consolidated Fund for the year ending 31 March 2018 and appropriation of that sum[^key-ac14aed31a2a60599dfca8b351d1f35e]
+## 1. Issue of sum out of the Consolidated Fund for the year ending 31 March 2018 and appropriation of that sum[^c-ac14aed31a2a60599dfca8b351d1f35e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Power of the Department of Finance to borrow[^key-ac14aed31a2a60599dfca8b351d1f35e]
+## 2. Power of the Department of Finance to borrow[^c-ac14aed31a2a60599dfca8b351d1f35e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Use of resources (other than accruing resources) in the year ending 31 March 2018[^key-ac14aed31a2a60599dfca8b351d1f35e]
+## 3. Use of resources (other than accruing resources) in the year ending 31 March 2018[^c-ac14aed31a2a60599dfca8b351d1f35e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Limits on use of certain accruing resources in the year ending 31 March 2018[^key-ac14aed31a2a60599dfca8b351d1f35e]
+## 4. Limits on use of certain accruing resources in the year ending 31 March 2018[^c-ac14aed31a2a60599dfca8b351d1f35e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Act to take effect as if it were a Budget Act of the Assembly etc[^key-ac14aed31a2a60599dfca8b351d1f35e]
+## 5. Act to take effect as if it were a Budget Act of the Assembly etc[^c-ac14aed31a2a60599dfca8b351d1f35e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Repeal of spent provisions[^key-ac14aed31a2a60599dfca8b351d1f35e]
+## 6. Repeal of spent provisions[^c-ac14aed31a2a60599dfca8b351d1f35e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Interpretation[^key-ac14aed31a2a60599dfca8b351d1f35e]
+## 7. Interpretation[^c-ac14aed31a2a60599dfca8b351d1f35e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Short title[^key-ac14aed31a2a60599dfca8b351d1f35e]
+## 8. Short title[^c-ac14aed31a2a60599dfca8b351d1f35e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-ac14aed31a2a60599dfca8b351d1f35e]SCHEDULES
+[^c-ac14aed31a2a60599dfca8b351d1f35e]SCHEDULES
 
-## SCHEDULE 1 — SUMS GRANTED FOR THE YEAR ENDING 31 MARCH 2018[^key-ac14aed31a2a60599dfca8b351d1f35e]
+## SCHEDULE 1 — SUMS GRANTED FOR THE YEAR ENDING 31 MARCH 2018[^c-ac14aed31a2a60599dfca8b351d1f35e]
 
 Section 1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — AMOUNTS OF RESOURCES AUTHORISED FOR USE AND AMOUNTS OF ACCRUING RESOURCES WHICH MAY BE USED IN YEAR ENDING 31 MARCH 2018[^key-ac14aed31a2a60599dfca8b351d1f35e]
+## SCHEDULE 2 — AMOUNTS OF RESOURCES AUTHORISED FOR USE AND AMOUNTS OF ACCRUING RESOURCES WHICH MAY BE USED IN YEAR ENDING 31 MARCH 2018[^c-ac14aed31a2a60599dfca8b351d1f35e]
 
 Sections 3 and 4.
 
@@ -86,4 +86,4 @@ Sections 3 and 4.
 
 ## Annotations
 
-[^key-ac14aed31a2a60599dfca8b351d1f35e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2017/34) repealed (N.I.) (25.11.2020) by [Budget (No. 3) Act (Northern Ireland) 2020 (c. 6)](https://www.legislation.gov.uk/nia/2020/6), [Sch. 5](https://www.legislation.gov.uk/nia/2020/6/schedule/5)
+[^c-ac14aed31a2a60599dfca8b351d1f35e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2017/34) repealed (N.I.) (25.11.2020) by [Budget (No. 3) Act (Northern Ireland) 2020 (c. 6)](https://www.legislation.gov.uk/nia/2020/6), [Sch. 5](https://www.legislation.gov.uk/nia/2020/6/schedule/5)

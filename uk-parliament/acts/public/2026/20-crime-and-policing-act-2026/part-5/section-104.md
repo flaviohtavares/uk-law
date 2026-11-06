@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Pornographic images of strangulation or suffocation: England and Wales and Northern Ireland[^key-18b64a9785664a726b42b85465adc120]
+## 104. Pornographic images of strangulation or suffocation: England and Wales and Northern Ireland[^c-18b64a9785664a726b42b85465adc120]
 
 *Extent: E+W+S+N.I.*
 
@@ -121,4 +121,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18b64a9785664a726b42b85465adc120]: Commencement: S. 104 not in force at Royal Assent, see [s. 255(1)(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8)(h)
+[^c-18b64a9785664a726b42b85465adc120]: Commencement: S. 104 not in force at Royal Assent, see [s. 255(1)(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/8)(h)

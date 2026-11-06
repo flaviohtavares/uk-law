@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Appointment of sheriffs as Appeal Sheriffs[^key-1181f92a75361d29b772111dd0fcb25d]
+## 50. Appointment of sheriffs as Appeal Sheriffs[^c-1181f92a75361d29b772111dd0fcb25d]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1181f92a75361d29b772111dd0fcb25d]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2014/18/section/50) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-1181f92a75361d29b772111dd0fcb25d]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2014/18/section/50) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

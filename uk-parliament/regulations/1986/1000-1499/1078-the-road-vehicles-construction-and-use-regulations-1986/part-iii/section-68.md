@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68. Plates—agricultural trailed appliances[^key-4b6cff5c24f284a00542a84457fb578b]
+## 68. Plates—agricultural trailed appliances[^c-4b6cff5c24f284a00542a84457fb578b]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b6cff5c24f284a00542a84457fb578b]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/1986/1078/regulation/68) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-4b6cff5c24f284a00542a84457fb578b]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/1986/1078/regulation/68) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

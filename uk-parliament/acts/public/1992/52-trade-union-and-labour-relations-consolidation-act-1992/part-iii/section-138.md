@@ -27,7 +27,7 @@ summary: ''
 
 (2) A person who is thus unlawfully refused any service of an employment agency has a right of complaint to an employment tribunal[^c14516251].
 
-(2A)[^key-e0a4ea5c0a20591ffb029f5696a874d5] Section 12A of the Employment Tribunals Act 1996 (financial penalties) applies in relation to a complaint under this section as it applies in relation to a claim involving an employer and a worker (reading references to an employer as references to the employment agency and references to a worker as references to the complainant).
+(2A)[^c-e0a4ea5c0a20591ffb029f5696a874d5] Section 12A of the Employment Tribunals Act 1996 (financial penalties) applies in relation to a complaint under this section as it applies in relation to a claim involving an employer and a worker (reading references to an employer as references to the employment agency and references to a worker as references to the complainant).
 
 (3) Where an advertisement is published which indicates, or might reasonably be understood as indicating—
 
@@ -48,4 +48,4 @@ a person who does not satisfy that condition or, as the case may be, is unwillin
 
 [^c14516251]: Textual amendment: Words in s. 138(2) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/a) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
-[^key-e0a4ea5c0a20591ffb029f5696a874d5]: Textual amendment: [S. 138(2A)](https://www.legislation.gov.uk/ukpga/1992/52/section/138/2A) inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/3/paragraph/1) (with [s. 24(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/5)); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/253/article/3/h)
+[^c-e0a4ea5c0a20591ffb029f5696a874d5]: Textual amendment: [S. 138(2A)](https://www.legislation.gov.uk/ukpga/1992/52/section/138/2A) inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/3/paragraph/1) (with [s. 24(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/5)); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/253/article/3/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35.1. Duty to restrict expert evidence[^key-31be6674da40952bbd6fb1b393f20bc7]
+## 35.1. Duty to restrict expert evidence[^c-31be6674da40952bbd6fb1b393f20bc7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Expert evidence shall be restricted to that which is reasonably required to reso
 
 ## Annotations
 
-[^key-31be6674da40952bbd6fb1b393f20bc7]: Commencement: [Rule 35.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.1) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-31be6674da40952bbd6fb1b393f20bc7]: Commencement: [Rule 35.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/35.1) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

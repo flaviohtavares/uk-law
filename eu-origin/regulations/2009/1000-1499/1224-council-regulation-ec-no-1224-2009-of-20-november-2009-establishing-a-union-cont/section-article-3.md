@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 3. Relationship with international and national provisions[^key-0bab8007281ef2eee3be79ed5acaedf5]
+## Article 3. Relationship with international and national provisions[^c-0bab8007281ef2eee3be79ed5acaedf5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Regulation applies without prejudice to special provisions contained in fis
 
 ## Annotations
 
-[^key-0bab8007281ef2eee3be79ed5acaedf5]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2009/1224/article/3) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0bab8007281ef2eee3be79ed5acaedf5]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2009/1224/article/3) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

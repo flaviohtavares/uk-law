@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Removal of obstructions other than vessels or wreck[^key-980c5acc4f0e401c31b2765db7ac42ac]
+## 22. Removal of obstructions other than vessels or wreck[^c-980c5acc4f0e401c31b2765db7ac42ac]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ the Commissioners may recover the deficiency or the whole of the expenses, as th
 
 ## Annotations
 
-[^key-980c5acc4f0e401c31b2765db7ac42ac]: Commencement: Art. 22 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-980c5acc4f0e401c31b2765db7ac42ac]: Commencement: Art. 22 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

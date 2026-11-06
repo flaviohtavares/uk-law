@@ -40,17 +40,17 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Article 65(4) of the Roads (Northern Ireland) Order 1993[^f00001] and of all other powers enabling it in that behalf, and it appearing to the Department that the Regulations are necessary or expedient in the interests of safety and the free movement of traffic, makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-3edb8698822532249c19ee9fa6af3eff]
+## 1. Citation, commencement and interpretation[^c-3edb8698822532249c19ee9fa6af3eff]
 
 (1) These Regulations may be cited as The Road Humps Regulations (Northern Ireland) 1999 and shall come into operation on 19th April 1999.
 
 (2) In these Regulations “traffic sign” has the meaning assigned to that term by Article 28 of the Road Traffic Regulation (Northern Ireland) Order 1997[^f00002].
 
-## 2. Circumstances in which road humps may not be constructed[^key-536d1000b92e1f0dbc62bf4509d73a59]
+## 2. Circumstances in which road humps may not be constructed[^c-536d1000b92e1f0dbc62bf4509d73a59]
 
 No road hump shall be constructed in any special road.
 
-## 3. Nature, dimension and location of road humps[^key-7ce7bb3c6b766de8d2bdfbc6ce33edbe]
+## 3. Nature, dimension and location of road humps[^c-7ce7bb3c6b766de8d2bdfbc6ce33edbe]
 
 (1) Subject to regulation 6, no road hump shall be constructed or maintained in a road unless—
 
@@ -59,11 +59,11 @@ No road hump shall be constructed in any special road.
 - (c) the highest point on it is not less than 25 millimetres nor more than 100 millimetres higher than an imaginary line parallel to the centre line of that carriageway connecting the surface of that carriageway on one side of the road hump to the surface of that carriageway on the other side of the road hump and passing vertically below that point; and
 - (d) it has no vertical face of any material forming part of that road hump exceeding 6 millimetres measured vertically from top to bottom of that face.
 
-(2) A road hump may be located within the limits of a zebra crossing so that an imaginary line along the centre of the hump from one side of the road to the other is in the same position as an imaginary line from one side of the road to the other along the centre of the pattern of black and white stripes required by paragraph 8 of Part II of Schedule 1 to the[^key-49368b503311fdd1e532499e573939d5] 2006 Regulations .
+(2) A road hump may be located within the limits of a zebra crossing so that an imaginary line along the centre of the hump from one side of the road to the other is in the same position as an imaginary line from one side of the road to the other along the centre of the pattern of black and white stripes required by paragraph 8 of Part II of Schedule 1 to the[^c-49368b503311fdd1e532499e573939d5] 2006 Regulations .
 
 (3) Save as mentioned in paragraph (2) no road hump shall be located within the limits of a zebra controlled area or within 30 metres from the imaginary line along the centre of the pattern of stripes mentioned in that paragraph.
 
-(4) A road hump may be located within the limits of a Pelican crossing so that an imaginary line along the centre of the hump from one side of the road to the other is in the same position as an imaginary line along the centre of the limits of the crossing from one side of the road to the other as shown in a diagram in Part II of Schedule 4 to the[^key-7af512513c32ec83c6a2c5024b966a2d] 2006 Regulations .
+(4) A road hump may be located within the limits of a Pelican crossing so that an imaginary line along the centre of the hump from one side of the road to the other is in the same position as an imaginary line along the centre of the limits of the crossing from one side of the road to the other as shown in a diagram in Part II of Schedule 4 to the[^c-7af512513c32ec83c6a2c5024b966a2d] 2006 Regulations .
 
 (5) Save as mentioned in paragraph (4) no road hump shall be located within the limits of a Pelican controlled area or within 30 metres from the imaginary line along the centre of the limits of the crossing mentioned in that paragraph.
 
@@ -74,7 +74,7 @@ No road hump shall be constructed in any special road.
 - (c) under or within 25 metres of any part of a structure over the carriageway of the road any part of which is 6£5 metres or less above the surface of the carriageway; or
 - (d) above or within 25 metres of any part of a bridge over which the carriageway of the road passes or any part of a tunnel, culvert or other similar structure which crosses beneath the carriageway of the road.
 
-(7)[^key-610d3f4dd0dd72743b67899a65ae9d56] In this regulation—
+(7)[^c-610d3f4dd0dd72743b67899a65ae9d56] In this regulation—
 
 - “the 2006 Regulations” means The Zebra, Pelican and Puffin Pedestrian Crossings Regulations (Northern Ireland) 2006;
 - “Pelican controlled area” has the same meaning as in regulation 2 of the 2006 Regulations;
@@ -82,7 +82,7 @@ No road hump shall be constructed in any special road.
 - “zebra controlled area” has the same meaning as “Zebra controlled area” in regulation 2 of the 2006 Regulations;
 - “zebra crossing” has the same meaning as “Zebra crossing” in regulation 2 of the 2006 Regulations.
 
-## 4. Lighting of road humps[^key-259e12b5a60a929519c8a03b1c5b3506]
+## 4. Lighting of road humps[^c-259e12b5a60a929519c8a03b1c5b3506]
 
 Subject to regulation 6, no road hump shall be constructed in any road unless in the road there is lighting for that road hump which is—
 
@@ -91,13 +91,13 @@ Subject to regulation 6, no road hump shall be constructed in any road unless in
 - (c) a street lamp within 5 metres of the hump; or
 - (d) lighting specially provided for the road hump.
 
-## 5. Placing of traffic signs[^key-c6114b991f7fdd32e2ecc97140356822]
+## 5. Placing of traffic signs[^c-c6114b991f7fdd32e2ecc97140356822]
 
 Subject to regulation 6, where a road hump is constructed in a road there shall be placed and thereafter maintained appropriate traffic signs as prescribed in the Traffic Signs Regulations (Northern Ireland) 1997[^f00005] in such positions as the Department may consider requisite to provide adequate warning of the presence of a road hump or a series of road humps to persons using the road.
 
-**6.**[^key-1ee6daa88514ae9e2d043ec9b4f837ad] Where a road hump is placed in a road which is subject to a speed limit of 20 miles per hour or less, the provisions of regulations 3(1)(a), 3(6)(c) and (d), 4 and 5 shall not apply.
+**6.**[^c-1ee6daa88514ae9e2d043ec9b4f837ad] Where a road hump is placed in a road which is subject to a speed limit of 20 miles per hour or less, the provisions of regulations 3(1)(a), 3(6)(c) and (d), 4 and 5 shall not apply.
 
-## 7. Revocation[^key-489bfda9d70ff4106a0bd9f98d26cd4f]
+## 7. Revocation[^c-489bfda9d70ff4106a0bd9f98d26cd4f]
 
 The Road Humps Regulations (Northern Ireland) 1992[^f00006] and the Road Humps (Amendment) Regulations (Northern Ireland) 1996[^f00007] are hereby revoked.
 
@@ -124,29 +124,29 @@ These Regulations revoke the Road Humps Regulations (Northern Ireland) 1992 (“
 
 [^f00001]: Footnote: [S.I. 1993/3160 (N.I. 15)](https://www.legislation.gov.uk/nisi/1993/3160); see Article 2(2) for the definition of “the Department”
 
-[^key-3edb8698822532249c19ee9fa6af3eff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/101/regulation/1) in operation at 19.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1)
+[^c-3edb8698822532249c19ee9fa6af3eff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/101/regulation/1) in operation at 19.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1997/276 (N.I. 2)](https://www.legislation.gov.uk/nisi/1997/276)
 
-[^key-536d1000b92e1f0dbc62bf4509d73a59]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/101/regulation/2) in operation at 19.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1)
+[^c-536d1000b92e1f0dbc62bf4509d73a59]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/101/regulation/2) in operation at 19.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1)
 
-[^key-7ce7bb3c6b766de8d2bdfbc6ce33edbe]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/101/regulation/3) in operation at 19.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1)
+[^c-7ce7bb3c6b766de8d2bdfbc6ce33edbe]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/101/regulation/3) in operation at 19.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1)
 
-[^key-49368b503311fdd1e532499e573939d5]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/1999/101/regulation/3/2) substituted (20.4.2007) by [The Road Humps (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/158)](https://www.legislation.gov.uk/nisr/2007/158), [regs. 1](https://www.legislation.gov.uk/nisr/2007/158/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2007/158/regulation/2/1)
+[^c-49368b503311fdd1e532499e573939d5]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/1999/101/regulation/3/2) substituted (20.4.2007) by [The Road Humps (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/158)](https://www.legislation.gov.uk/nisr/2007/158), [regs. 1](https://www.legislation.gov.uk/nisr/2007/158/regulation/1), [2(1)](https://www.legislation.gov.uk/nisr/2007/158/regulation/2/1)
 
-[^key-7af512513c32ec83c6a2c5024b966a2d]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/1999/101/regulation/3/4) substituted (20.4.2007) by [The Road Humps (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/158)](https://www.legislation.gov.uk/nisr/2007/158), [regs. 1](https://www.legislation.gov.uk/nisr/2007/158/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2007/158/regulation/2/2)
+[^c-7af512513c32ec83c6a2c5024b966a2d]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/1999/101/regulation/3/4) substituted (20.4.2007) by [The Road Humps (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/158)](https://www.legislation.gov.uk/nisr/2007/158), [regs. 1](https://www.legislation.gov.uk/nisr/2007/158/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2007/158/regulation/2/2)
 
-[^key-610d3f4dd0dd72743b67899a65ae9d56]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/nisr/1999/101/regulation/3/7) substituted (20.4.2007) by [The Road Humps (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/158)](https://www.legislation.gov.uk/nisr/2007/158), [regs. 1](https://www.legislation.gov.uk/nisr/2007/158/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2007/158/regulation/2/3)
+[^c-610d3f4dd0dd72743b67899a65ae9d56]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/nisr/1999/101/regulation/3/7) substituted (20.4.2007) by [The Road Humps (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/158)](https://www.legislation.gov.uk/nisr/2007/158), [regs. 1](https://www.legislation.gov.uk/nisr/2007/158/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2007/158/regulation/2/3)
 
-[^key-259e12b5a60a929519c8a03b1c5b3506]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/101/regulation/4) in operation at 19.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1)
+[^c-259e12b5a60a929519c8a03b1c5b3506]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/101/regulation/4) in operation at 19.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1)
 
-[^key-c6114b991f7fdd32e2ecc97140356822]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/101/regulation/5) in operation at 19.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1)
+[^c-c6114b991f7fdd32e2ecc97140356822]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/101/regulation/5) in operation at 19.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1997 No. 386](https://www.legislation.gov.uk/nisr/1997/386)
 
-[^key-1ee6daa88514ae9e2d043ec9b4f837ad]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/101/regulation/6) in operation at 19.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1)
+[^c-1ee6daa88514ae9e2d043ec9b4f837ad]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/101/regulation/6) in operation at 19.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1)
 
-[^key-489bfda9d70ff4106a0bd9f98d26cd4f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1999/101/regulation/7) in operation at 19.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1)
+[^c-489bfda9d70ff4106a0bd9f98d26cd4f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1999/101/regulation/7) in operation at 19.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/101/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1992 No. 132](https://www.legislation.gov.uk/nisr/1992/132)
 

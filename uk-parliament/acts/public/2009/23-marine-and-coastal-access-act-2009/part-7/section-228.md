@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Theft of fish from private fisheries etc[^key-e5c91159838ba708e6789bf1b5a93e9e]
+## 228. Theft of fish from private fisheries etc[^c-e5c91159838ba708e6789bf1b5a93e9e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5c91159838ba708e6789bf1b5a93e9e]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2009/23/section/228) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/14)
+[^c-e5c91159838ba708e6789bf1b5a93e9e]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2009/23/section/228) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/14)

@@ -176,7 +176,7 @@ whichever is the latest.
 
 #### 9. Registration of vested land
 
-(1) The Keeper of the Registers of Scotland may, without prejudice to Part 2 of the Land Registration[^key-b1e96152e3f531de248849ba5b438782] etc. (Scotland) Act 2012 (asp 5), register any land vested under section 7 or 8 on receiving the material specified in subsection (2).
+(1) The Keeper of the Registers of Scotland may, without prejudice to Part 2 of the Land Registration[^c-b1e96152e3f531de248849ba5b438782] etc. (Scotland) Act 2012 (asp 5), register any land vested under section 7 or 8 on receiving the material specified in subsection (2).
 
 (2) The material referred to in subsection (1) is—
 
@@ -380,7 +380,7 @@ as may be required for any purpose for which the land may be acquired under that
 
 shall be entitled to compensation to be determined, in case of dispute, under the 1963 Act.
 
-(6)[^key-e7b5a9f5881c1f8d08de7cd80c2d79e3] The powers conferred by this section constitute a real right.
+(6)[^c-e7b5a9f5881c1f8d08de7cd80c2d79e3] The powers conferred by this section constitute a real right.
 
 #### 21. Temporary use of land for construction of works
 
@@ -728,7 +728,7 @@ in accordance with the following provisions of this section.
 - (a) impose restrictions on the use of the portion of Burnshot Road between its junctions with, respectively, the A90 and Main Street, Kirkliston; and
 - (b) revoke in whole or in part any traffic regulation order in so far as the revocation is consequential on any restriction made under this subsection.
 
-(5) The local traffic authority shall not exercise the powers conferred by this section unless it has given not less than 12 weeks' notice in writing of its intention so to do to the Chief Constable of the Police Service of Scotland[^key-a2cb00551c34f6aabfd8be8512368fba]; and the authorised undertaker shall not exercise the powers conferred by this section unless it has in addition obtained the prior consent of the Council.
+(5) The local traffic authority shall not exercise the powers conferred by this section unless it has given not less than 12 weeks' notice in writing of its intention so to do to the Chief Constable of the Police Service of Scotland[^c-a2cb00551c34f6aabfd8be8512368fba]; and the authorised undertaker shall not exercise the powers conferred by this section unless it has in addition obtained the prior consent of the Council.
 
 (6) The Council shall not exercise the powers conferred by this section unless it has consulted the authorised undertaker.
 
@@ -1594,8 +1594,8 @@ are submitted to that local planning authority for its written approval.
 
 ## Annotations
 
-[^key-b1e96152e3f531de248849ba5b438782]: Textual amendment: Words in s. 9(1) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 paras. 53(2)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/53/2) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13, 16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-b1e96152e3f531de248849ba5b438782]: Textual amendment: Words in s. 9(1) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 paras. 53(2)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/53/2) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13, 16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-e7b5a9f5881c1f8d08de7cd80c2d79e3]: Textual amendment: S. 20(6) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 paras. 53(3)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/53/3) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13, 16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-e7b5a9f5881c1f8d08de7cd80c2d79e3]: Textual amendment: S. 20(6) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 paras. 53(3)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/53/3) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13, 16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-a2cb00551c34f6aabfd8be8512368fba]: Textual amendment: Words in [s. 38(5)](https://www.legislation.gov.uk/asp/2007/16/section/38/5) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 37](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/37); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-a2cb00551c34f6aabfd8be8512368fba]: Textual amendment: Words in [s. 38(5)](https://www.legislation.gov.uk/asp/2007/16/section/38/5) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 37](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/37); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

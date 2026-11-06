@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Performance targets[^key-b1f5f643b431ff112984f53871c85052]
+## 53. Performance targets[^c-b1f5f643b431ff112984f53871c85052]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1f5f643b431ff112984f53871c85052]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2003/20/section/53) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(jj)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/jj)
+[^c-b1f5f643b431ff112984f53871c85052]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2003/20/section/53) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(jj)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/jj)

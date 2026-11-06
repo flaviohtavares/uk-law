@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 286. “Insolvent estate”[^key-1699d296662cf586b3c798dc7aca068e]
+## 286. “Insolvent estate”[^c-1699d296662cf586b3c798dc7aca068e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ References to “the insolvent estate” are to the assets of a bank which is su
 
 ## Annotations
 
-[^key-1699d296662cf586b3c798dc7aca068e]: Commencement: Rule 286 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-1699d296662cf586b3c798dc7aca068e]: Commencement: Rule 286 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

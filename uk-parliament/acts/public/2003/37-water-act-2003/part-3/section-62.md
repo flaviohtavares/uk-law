@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Water resources management plans[^key-f2572354f22ba5111a94a3b5a1a5a6c2][^key-6f9054e6bf767f1ed0ebfa25bd6df505][^key-1927540dfb4acaa982669007997bc8d6][^key-464785ad1c674ca3a54d4937d4e79694]
+## 62. Water resources management plans[^c-f2572354f22ba5111a94a3b5a1a5a6c2][^c-6f9054e6bf767f1ed0ebfa25bd6df505][^c-1927540dfb4acaa982669007997bc8d6][^c-464785ad1c674ca3a54d4937d4e79694]
 
 *Extent: E+W*
 
@@ -164,10 +164,10 @@ After section 37 of the WIA there is inserted—
 
 ## Annotations
 
-[^key-f2572354f22ba5111a94a3b5a1a5a6c2]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2003/37/section/62) in force at 1.10.2004 for specified purposes by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(j)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/j) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-f2572354f22ba5111a94a3b5a1a5a6c2]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2003/37/section/62) in force at 1.10.2004 for specified purposes by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(j)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/j) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
 
-[^key-6f9054e6bf767f1ed0ebfa25bd6df505]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2003/37/section/62) in force at 1.10.2005 for specified purposes by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/i) (with [Sch. para. 6](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/6)[8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)) (which transitional provisions in Sch. para. 6 are revoked (1.4.2007) by S.I. 2007/1021, art. 3(1)(b)(2))
+[^c-6f9054e6bf767f1ed0ebfa25bd6df505]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2003/37/section/62) in force at 1.10.2005 for specified purposes by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(i)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/i) (with [Sch. para. 6](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/6)[8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8)) (which transitional provisions in Sch. para. 6 are revoked (1.4.2007) by S.I. 2007/1021, art. 3(1)(b)(2))
 
-[^key-1927540dfb4acaa982669007997bc8d6]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2003/37/section/62) in force at 1.4.2006 for specified purposes by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(q)](https://www.legislation.gov.uk/uksi/2006/984/article/2/q) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/8)[9](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/9)) (which transitional provisions in Sch. paras. 8, 9 are revoked (1.4.2007) by S.I. 2007/1021, art. 3(1)(c)(2))
+[^c-1927540dfb4acaa982669007997bc8d6]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2003/37/section/62) in force at 1.4.2006 for specified purposes by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(q)](https://www.legislation.gov.uk/uksi/2006/984/article/2/q) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/8)[9](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/9)) (which transitional provisions in Sch. paras. 8, 9 are revoked (1.4.2007) by S.I. 2007/1021, art. 3(1)(c)(2))
 
-[^key-464785ad1c674ca3a54d4937d4e79694]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2003/37/section/62) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/a)
+[^c-464785ad1c674ca3a54d4937d4e79694]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2003/37/section/62) in force at 1.4.2007 in so far as not already in force by [S.I. 2007/1021](https://www.legislation.gov.uk/uksi/2007/1021), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1021/article/2/a)

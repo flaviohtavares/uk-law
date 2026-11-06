@@ -68,7 +68,7 @@ Section 13
 
 the person is not so entitled afterwards.
 
-#### Pension under Part 1 of the Pensions Act 2014[^key-4e6562afef61a825223be4c617dfe915]
+#### Pension under Part 1 of the Pensions Act 2014[^c-4e6562afef61a825223be4c617dfe915]
 
 **6A.** (1) Any question—
 
@@ -97,7 +97,7 @@ the person is to be treated for the purposes of Part 1 of the Pensions Act 2014 
 
 (6) Paragraph 10 makes provision about deferment of state pensions under Part 1 of the Pensions Act 2014.
 
-#### Pension under Part 1 of the Pensions Act (Northern Ireland) 2015[^key-e558166f1c602a060fb05389e67340ba]
+#### Pension under Part 1 of the Pensions Act (Northern Ireland) 2015[^c-e558166f1c602a060fb05389e67340ba]
 
 *Extent: N.I.*
 
@@ -135,7 +135,7 @@ the person is to be treated for the purposes of Part 1 of the Pensions Act (Nort
 - (a) whether the person is entitled to a Category A retirement pension (under section 44 of the 1992 Act) for any period after the certificate is issued, and
 - (b) (if so) the rate at which the person is so entitled for the period,
 
-is to be decided as if the person’s gender had always been the acquired gender (but this is subject to sub-paragraph (3))[^key-43fa8e0ed869ad491cb59748fb317e07] .
+is to be decided as if the person’s gender had always been the acquired gender (but this is subject to sub-paragraph (3))[^c-43fa8e0ed869ad491cb59748fb317e07] .
 
 (2) Accordingly, if (immediately before the certificate is issued) the person—
 
@@ -162,7 +162,7 @@ the person is to be treated for the purposes of section 44 of the 1992 Act as at
 
 **8.** (1) Any question whether the person is entitled to—
 
-- (a) a Category B retirement pension (under section 48A, 48AA,[^key-bad065cd96ab4344a7265e4bd9d24088] 48B, 48BB or 51 of the 1992 Act), or
+- (a) a Category B retirement pension (under section 48A, 48AA,[^c-bad065cd96ab4344a7265e4bd9d24088] 48B, 48BB or 51 of the 1992 Act), or
 - (b) an increase in a Category A retirement pension under section 51A or 52 of the 1992 Act (increase in Category A retirement pension by reference to amount of Category B retirement pension),
 
 for any period after the certificate is issued is (in accordance with section 9(1)) to be decided as if the person’s gender were the acquired gender (but subject to sub-paragraph (4)).
@@ -179,7 +179,7 @@ the person may cease to be so entitled when it is issued.
 - (a) is a man who has attained the age at which a woman of the same age attains pensionable age, but
 - (b) has not attained the age of 65,
 
-the person is to be treated for the purposes of sections 48A, 48AA,[^key-ff5e9ac37619084342388d7e32bba43c] 48B and 48BB of the 1992 Act as attaining pensionable age when it is issued.
+the person is to be treated for the purposes of sections 48A, 48AA,[^c-ff5e9ac37619084342388d7e32bba43c] 48B and 48BB of the 1992 Act as attaining pensionable age when it is issued.
 
 (4) But a person who is a man (immediately before the certificate is issued) is not entitled to a Category B retirement pension under section 48B of the 1992 Act for any period after it is issued if the person—
 
@@ -192,7 +192,7 @@ the person is to be treated for the purposes of sections 48A, 48AA,[^key-ff5e9ac
 
 **9.** (1) Any question—
 
-- (a) whether the person is entitled to a shared additional pension (under section 55A or 55AA[^key-25d098884b00cfbf694d7ef9a4a813b7] of the 1992 Act) for any period after the certificate is issued, and
+- (a) whether the person is entitled to a shared additional pension (under section 55A or 55AA[^c-25d098884b00cfbf694d7ef9a4a813b7] of the 1992 Act) for any period after the certificate is issued, and
 - (b) (if so) the rate at which the person is so entitled for the period,
 
 is to be decided on the basis of the person attaining pensionable age on the same date as someone of the acquired gender (and the same age).
@@ -209,7 +209,7 @@ the person ceases to be so entitled when it is issued.
 - (a) is a man who has attained the age at which a woman of the same age attains pensionable age, but
 - (b) has not attained the age of 65,
 
-the person is to be treated for the purposes of section 55A or 55AA[^key-705caf3f67d8349a5ab034c89d1b31ab] of the 1992 Act as attaining pensionable age when it is issued.
+the person is to be treated for the purposes of section 55A or 55AA[^c-705caf3f67d8349a5ab034c89d1b31ab] of the 1992 Act as attaining pensionable age when it is issued.
 
 (4) Paragraph 10 makes provision about deferment of shared additional pensions.
 
@@ -217,11 +217,11 @@ the person is to be treated for the purposes of section 55A or 55AA[^key-705caf3
 
 **10.** (1) The person’s entitlement to—
 
-- (za)[^key-f221f26e1ad33194f2398c0f43c8d685] a state pension under Part 1 of the Pensions Act 2014,
+- (za)[^c-f221f26e1ad33194f2398c0f43c8d685] a state pension under Part 1 of the Pensions Act 2014,
 
 *Extent: N.I.*
 
-- (zb)[^key-f20c9ba92c1dc8ef5e803eeb9bca1f06] a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015,
+- (zb)[^c-f20c9ba92c1dc8ef5e803eeb9bca1f06] a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015,
 - (a) a Category A retirement pension,
 - (b) a Category B retirement pension, or
 - (c) a shared additional pension,
@@ -233,9 +233,9 @@ is not to be taken to have been deferred for any period ending before the certif
 - (a) was actually deferred during the period, and
 - (b) would have been capable of being so deferred had the person’s gender been the acquired gender.
 
-#### ...[^key-211c443b13f5fa0757a921c01ad432d7]
+#### ...[^c-211c443b13f5fa0757a921c01ad432d7]
 
-**11.**[^key-211c443b13f5fa0757a921c01ad432d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-211c443b13f5fa0757a921c01ad432d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Graduated retirement benefit: Great Britain
 
@@ -315,7 +315,7 @@ the person is to be treated for the purposes of section 9 of the 1993 Act and th
 
 (6) If at that time the person has attained the age of 65, the fact that the person’s gender has become the acquired gender does not affect the person’s pensionable age for those purposes.
 
-(7) The fact that the person’s gender has become the acquired gender does not affect any guaranteed minimum pension to which the person is entitled as a widow or widower or surviving civil partner[^key-26b9a38009978da70bafd4abb1e4a8c9] immediately before the certificate is issued (except in consequence of the operation of the previous provisions of this Schedule).
+(7) The fact that the person’s gender has become the acquired gender does not affect any guaranteed minimum pension to which the person is entitled as a widow or widower or surviving civil partner[^c-26b9a38009978da70bafd4abb1e4a8c9] immediately before the certificate is issued (except in consequence of the operation of the previous provisions of this Schedule).
 
 (8) If a transaction to which section 15 of the 1993 Act applies which is carried out before the certificate is issued discharges a liability to provide a guaranteed minimum pension for or in respect of the person, it continues to do so afterwards.
 
@@ -339,24 +339,24 @@ the person is to be treated for the purposes of section 9 of the 1993 Act and th
 
 ## Annotations
 
-[^key-4e6562afef61a825223be4c617dfe915]: Textual amendment: Sch. 5 para. 6A and cross-heading inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 48(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/48/2)
+[^c-4e6562afef61a825223be4c617dfe915]: Textual amendment: Sch. 5 para. 6A and cross-heading inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 48(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/48/2)
 
-[^key-e558166f1c602a060fb05389e67340ba]: Textual amendment: Sch. 5 para. 6B and cross-heading inserted (N.I.) (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 43(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/43/2)
+[^c-e558166f1c602a060fb05389e67340ba]: Textual amendment: Sch. 5 para. 6B and cross-heading inserted (N.I.) (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 43(2)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/43/2)
 
-[^key-43fa8e0ed869ad491cb59748fb317e07]: Textual amendment: Words in Sch. 5 para. 7(1) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 48(3)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/48/3)
+[^c-43fa8e0ed869ad491cb59748fb317e07]: Textual amendment: Words in Sch. 5 para. 7(1) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 48(3)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/48/3)
 
-[^key-bad065cd96ab4344a7265e4bd9d24088]: Textual amendment: Word in Sch. 5 para. 8(1)(a) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 76](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/76)
+[^c-bad065cd96ab4344a7265e4bd9d24088]: Textual amendment: Word in Sch. 5 para. 8(1)(a) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 76](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/76)
 
-[^key-ff5e9ac37619084342388d7e32bba43c]: Textual amendment: Word in Sch. 5 para. 8(3) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 76](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/76)
+[^c-ff5e9ac37619084342388d7e32bba43c]: Textual amendment: Word in Sch. 5 para. 8(3) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 76](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/76)
 
-[^key-25d098884b00cfbf694d7ef9a4a813b7]: Textual amendment: Words in Sch. 5 para. 9(1)(a) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2014/19/schedule/11/paragraph/16)
+[^c-25d098884b00cfbf694d7ef9a4a813b7]: Textual amendment: Words in Sch. 5 para. 9(1)(a) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2014/19/schedule/11/paragraph/16)
 
-[^key-705caf3f67d8349a5ab034c89d1b31ab]: Textual amendment: Words in Sch. 5 para. 9(3) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2014/19/schedule/11/paragraph/16)
+[^c-705caf3f67d8349a5ab034c89d1b31ab]: Textual amendment: Words in Sch. 5 para. 9(3) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2014/19/schedule/11/paragraph/16)
 
-[^key-f221f26e1ad33194f2398c0f43c8d685]: Textual amendment: Sch. 5 para. 10(1)(za) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 48(4)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/48/4)
+[^c-f221f26e1ad33194f2398c0f43c8d685]: Textual amendment: Sch. 5 para. 10(1)(za) inserted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 48(4)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/48/4)
 
-[^key-f20c9ba92c1dc8ef5e803eeb9bca1f06]: Textual amendment: Sch. 5 para. 10(1)(zb) inserted (N.I.) (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 43(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/43/3)
+[^c-f20c9ba92c1dc8ef5e803eeb9bca1f06]: Textual amendment: Sch. 5 para. 10(1)(zb) inserted (N.I.) (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 43(3)](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/43/3)
 
-[^key-211c443b13f5fa0757a921c01ad432d7]: Textual amendment: Sch. 5 para. 11 and crossheading omitted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 83](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/83)
+[^c-211c443b13f5fa0757a921c01ad432d7]: Textual amendment: Sch. 5 para. 11 and crossheading omitted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 83](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/83)
 
-[^key-26b9a38009978da70bafd4abb1e4a8c9]: Textual amendment: Words in [Sch. 5 para. 15(7)](https://www.legislation.gov.uk/ukpga/2004/7/schedule/5/paragraph/15/7) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2020/1143/regulation/43)
+[^c-26b9a38009978da70bafd4abb1e4a8c9]: Textual amendment: Words in [Sch. 5 para. 15(7)](https://www.legislation.gov.uk/ukpga/2004/7/schedule/5/paragraph/15/7) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [43](https://www.legislation.gov.uk/uksi/2020/1143/regulation/43)

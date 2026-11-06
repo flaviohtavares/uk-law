@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 519. Meaning of “the reference banks”[^key-82c2531e5ab7c8e29f772acb58d28dfb]
+## 519. Meaning of “the reference banks”[^c-82c2531e5ab7c8e29f772acb58d28dfb]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ Regulation 9 of the National Parks Authorities (Levies) (Wales) Regulations 1995
 
 ## Annotations
 
-[^key-82c2531e5ab7c8e29f772acb58d28dfb]: Commencement: Art. 519 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-82c2531e5ab7c8e29f772acb58d28dfb]: Commencement: Art. 519 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00337]: Footnote: Sub-paragraph (3)(a) was amended by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129), article 3, Schedule 2.

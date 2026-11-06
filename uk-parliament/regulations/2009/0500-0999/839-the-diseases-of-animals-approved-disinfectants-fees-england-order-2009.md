@@ -34,7 +34,7 @@ Animals, England
 
 Animal Health
 
-The Diseases of Animals (Approved Disinfectants) (Fees) (England) Order 2009 (revoked)[^key-7dc5876c583fece56760fc10563223eb]
+The Diseases of Animals (Approved Disinfectants) (Fees) (England) Order 2009 (revoked)[^c-7dc5876c583fece56760fc10563223eb]
 
 Made
 
@@ -48,27 +48,27 @@ Coming into force
 
 1st May 2009
 
-[^key-7dc5876c583fece56760fc10563223eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dc5876c583fece56760fc10563223eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-7dc5876c583fece56760fc10563223eb]
+## 1. Title, application and commencement[^c-7dc5876c583fece56760fc10563223eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees for the testing of disinfectants[^key-7dc5876c583fece56760fc10563223eb]
+## 2. Fees for the testing of disinfectants[^c-7dc5876c583fece56760fc10563223eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-7dc5876c583fece56760fc10563223eb]
+## 3. Revocation[^c-7dc5876c583fece56760fc10563223eb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7dc5876c583fece56760fc10563223eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dc5876c583fece56760fc10563223eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Fee payable in respect of testing for specific purposes[^key-7dc5876c583fece56760fc10563223eb]
+## SCHEDULE — Fee payable in respect of testing for specific purposes[^c-7dc5876c583fece56760fc10563223eb]
 
 article 2
 
@@ -76,8 +76,8 @@ article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-7dc5876c583fece56760fc10563223eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dc5876c583fece56760fc10563223eb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7dc5876c583fece56760fc10563223eb]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/839) revoked (6.4.2010) by [The Diseases of Animals (Approved Disinfectants) (Fees) (England) Order 2010 (S.I. 2010/739)](https://www.legislation.gov.uk/uksi/2010/739), [arts. 1](https://www.legislation.gov.uk/uksi/2010/739/article/1), [4](https://www.legislation.gov.uk/uksi/2010/739/article/4)
+[^c-7dc5876c583fece56760fc10563223eb]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/839) revoked (6.4.2010) by [The Diseases of Animals (Approved Disinfectants) (Fees) (England) Order 2010 (S.I. 2010/739)](https://www.legislation.gov.uk/uksi/2010/739), [arts. 1](https://www.legislation.gov.uk/uksi/2010/739/article/1), [4](https://www.legislation.gov.uk/uksi/2010/739/article/4)

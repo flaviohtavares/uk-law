@@ -40,11 +40,11 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred upon him by Article 13 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00001] and of all other powers enabling him in that behalf, on the advice of the Magistrates' Courts Rules Committee and after consultation with the Lord Chief Justice, hereby makes the following Rules:—
 
-## 1. Citation and commencement[^key-5a66990cd46b4f32eec8078d124e9346]
+## 1. Citation and commencement[^c-5a66990cd46b4f32eec8078d124e9346]
 
 These Rules may be cited as the Magistrates' Courts (Children’s Evidence) (Notices of Transfer) Rules (Northern Ireland) 1996 and shall come into operation on 8th April 1996.
 
-## 2. Interpretation[^key-2c5f6d1c198e855532753e5175b0e9cd]
+## 2. Interpretation[^c-2c5f6d1c198e855532753e5175b0e9cd]
 
 (1) In these Rules—
 
@@ -53,15 +53,15 @@ These Rules may be cited as the Magistrates' Courts (Children’s Evidence) (Not
 
 (2) Any reference in these Rules to a form by number is a reference to that form so numbered in the Schedule to these Rules.
 
-## 3. Transfer in custody[^key-15503ce4cbc963022426b8f212af5fe2]
+## 3. Transfer in custody[^c-15503ce4cbc963022426b8f212af5fe2]
 
 Where a magistrates' court, in exercise of the power conferred by paragraph 2(1) of Schedule 1, orders a person to be kept in custody, a warrant of commitment in Form 1 shall be issued.
 
-## 4. Notification of enlargement of recognizance[^key-eea9052e803f973cde1c8264df97fd1d]
+## 4. Notification of enlargement of recognizance[^c-eea9052e803f973cde1c8264df97fd1d]
 
 Where a magistrates' court, in exercise of the power conferred by paragraph 2(5)(*b*) of Schedule 1 enlarges, in a surety’s absence, a recognizance conditioned in accordance with Article 47(1)(*b*) or 48 of the Magistrates' Courts (Northern Ireland) Order 1981, the clerk of petty sessions shall notify the surety of the decision of the court and inform him that he is bound to secure that the person charged appears before the Crown Court.
 
-## 5. Documents to be sent to Crown Court[^key-342d2800c6d4bed7b2c3f28c310dab36]
+## 5. Documents to be sent to Crown Court[^c-342d2800c6d4bed7b2c3f28c310dab36]
 
 As soon as practicable and in any event within 7 days after a magistrates' court to which a notice of transfer has been given has discharged the functions reserved to it under Article 4(3), the clerk of petty sessions shall send to the chief clerk of the Crown Court—
 
@@ -74,7 +74,7 @@ Mackay of Clashfern, C.
 
 Dated 27th March 1996.
 
-## SCHEDULE[^key-af61e97a09e971cf4873fb8897fdecf2]
+## SCHEDULE[^c-af61e97a09e971cf4873fb8897fdecf2]
 
 Rule 2
 
@@ -100,16 +100,16 @@ Rule 5 provides for certain documents to be sent to the Crown Court by the magis
 
 [^f00001]: Footnote: S.I. [1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
-[^key-5a66990cd46b4f32eec8078d124e9346]: Commencement: Rule 1 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/127/rule/1)
+[^c-5a66990cd46b4f32eec8078d124e9346]: Commencement: Rule 1 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/127/rule/1)
 
-[^key-2c5f6d1c198e855532753e5175b0e9cd]: Commencement: Rule 2 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/127/rule/1)
+[^c-2c5f6d1c198e855532753e5175b0e9cd]: Commencement: Rule 2 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/127/rule/1)
 
 [^f00002]: Footnote: S.I. [1995/757 (N.I. 3)](https://www.legislation.gov.uk/nisi/1995/757)
 
-[^key-15503ce4cbc963022426b8f212af5fe2]: Commencement: Rule 3 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/127/rule/1)
+[^c-15503ce4cbc963022426b8f212af5fe2]: Commencement: Rule 3 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/127/rule/1)
 
-[^key-eea9052e803f973cde1c8264df97fd1d]: Commencement: Rule 4 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/127/rule/1)
+[^c-eea9052e803f973cde1c8264df97fd1d]: Commencement: Rule 4 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/127/rule/1)
 
-[^key-342d2800c6d4bed7b2c3f28c310dab36]: Commencement: Rule 5 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/127/rule/1)
+[^c-342d2800c6d4bed7b2c3f28c310dab36]: Commencement: Rule 5 in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/127/rule/1)
 
-[^key-af61e97a09e971cf4873fb8897fdecf2]: Commencement: Sch. in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/127/rule/1)
+[^c-af61e97a09e971cf4873fb8897fdecf2]: Commencement: Sch. in operation at 8.4.1996, see [rule 1](https://www.legislation.gov.uk/nisr/1996/127/rule/1)

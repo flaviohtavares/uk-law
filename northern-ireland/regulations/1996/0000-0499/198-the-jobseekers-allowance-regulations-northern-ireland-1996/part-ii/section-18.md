@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Steps to be taken by persons actively seeking employment[^key-2310cb299fdf998b359a3d356f59dc02]
+## 18. Steps to be taken by persons actively seeking employment[^c-2310cb299fdf998b359a3d356f59dc02]
 
 *Extent: N.I.*
 
@@ -78,7 +78,7 @@ unless those circumstances were due to reasons beyond his control.
 
 ## Annotations
 
-[^key-2310cb299fdf998b359a3d356f59dc02]: Commencement: Reg. 18 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-2310cb299fdf998b359a3d356f59dc02]: Commencement: Reg. 18 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00039]: Footnote: [S.I. 1979/591](https://www.legislation.gov.uk/uksi/1979/591); relevant amending regulations are [S.I. 1980/1975](https://www.legislation.gov.uk/uksi/1980/1975) and [S.I. 1994/1553](https://www.legislation.gov.uk/uksi/1994/1553)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13A — Modifications if proposed civil partnership referred under section 139E[^key-2fb344438b2a2683423dc8debe6b84fb]
+## SCHEDULE 13A — Modifications if proposed civil partnership referred under section 139E[^c-2fb344438b2a2683423dc8debe6b84fb]
 
 *Extent: E+W*
 
@@ -130,4 +130,4 @@ the duty under section 143 to complete the civil partnership schedule arises on 
 
 ## Annotations
 
-[^key-2fb344438b2a2683423dc8debe6b84fb]: Textual amendment: [Sch. 13A](https://www.legislation.gov.uk/ukpga/2004/33/schedule/13A) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-2fb344438b2a2683423dc8debe6b84fb]: Textual amendment: [Sch. 13A](https://www.legislation.gov.uk/ukpga/2004/33/schedule/13A) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))

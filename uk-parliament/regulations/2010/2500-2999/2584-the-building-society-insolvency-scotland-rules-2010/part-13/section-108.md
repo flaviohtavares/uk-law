@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. Retention of proxies[^key-5d10d9c157e1d4741df13945dcc548b5]
+## 108. Retention of proxies[^c-5d10d9c157e1d4741df13945dcc548b5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 7.17 of the 1986 Rules.
 
 ## Annotations
 
-[^key-5d10d9c157e1d4741df13945dcc548b5]: Commencement: Rule 108 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-5d10d9c157e1d4741df13945dcc548b5]: Commencement: Rule 108 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

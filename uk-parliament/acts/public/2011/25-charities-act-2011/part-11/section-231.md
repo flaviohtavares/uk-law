@@ -32,8 +32,8 @@ summary: ''
   - (i) is the same as, or
   - (ii) is in the opinion of the Commission too like,
 
-  the name or a working name[^key-ba566149abd3e8f7234d44e35bec747e] of any other charity (whether registered or not),
-- (b) the Commission is of the opinion referred to in any of paragraphs (b) to (e) of section 42(2) (power to require charity's name or working name[^key-8f6a71df8705831a924e71b7cea1519d] to be changed) in relation to the proposed name of the CIO (reading paragraph (b) as referring to the proposed purposes of the CIO and to the activities which it is proposed it should carry on), or
+  the name or a working name[^c-ba566149abd3e8f7234d44e35bec747e] of any other charity (whether registered or not),
+- (b) the Commission is of the opinion referred to in any of paragraphs (b) to (e) of section 42(2) (power to require charity's name or working name[^c-8f6a71df8705831a924e71b7cea1519d] to be changed) in relation to the proposed name of the CIO (reading paragraph (b) as referring to the proposed purposes of the CIO and to the activities which it is proposed it should carry on), or
 - (c) having considered any representations received from those whom it has consulted under section 230(1), the Commission considers (having regard to any regulations made under subsection (3)) that it would not be appropriate to grant the application.
 
 (3) CIO regulations may make provision about circumstances in which it would not be appropriate to grant an application for conversion.
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba566149abd3e8f7234d44e35bec747e]: Textual amendment: Words in [s. 231(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/231/2) inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 34(a)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/34/a); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(q)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/q)
+[^c-ba566149abd3e8f7234d44e35bec747e]: Textual amendment: Words in [s. 231(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/231/2) inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 34(a)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/34/a); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(q)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/q)
 
-[^key-8f6a71df8705831a924e71b7cea1519d]: Textual amendment: Words in [s. 231(2)(b)](https://www.legislation.gov.uk/ukpga/2011/25/section/231/2/b) inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 34(b)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/34/b); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(q)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/q)
+[^c-8f6a71df8705831a924e71b7cea1519d]: Textual amendment: Words in [s. 231(2)(b)](https://www.legislation.gov.uk/ukpga/2011/25/section/231/2/b) inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 34(b)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/34/b); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(q)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/q)

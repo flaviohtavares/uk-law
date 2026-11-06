@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 292. Expressions used generally[^key-28cf6485e36a03cd145afcb39fd3d08e]
+## 292. Expressions used generally[^c-28cf6485e36a03cd145afcb39fd3d08e]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) In paragraph (5), after “Secretary of State” insert “or the Treasury”.
 
-(4) In paragraph (7), for “Chapter 20 of Part 4 of these Rules, or Chapter 23 of Part 6” substitute “Part 16 of the 2009 Rules[^key-bd0018793498bdd409588b2834c47efb]”.
+(4) In paragraph (7), for “Chapter 20 of Part 4 of these Rules, or Chapter 23 of Part 6” substitute “Part 16 of the 2009 Rules[^c-bd0018793498bdd409588b2834c47efb]”.
 
 (5) Ignore paragraphs (8) to (14).
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-28cf6485e36a03cd145afcb39fd3d08e]: Commencement: Rule 292 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-28cf6485e36a03cd145afcb39fd3d08e]: Commencement: Rule 292 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00097]: Footnote: Rule 13.13 was amended by [S.I. 1999/1022](https://www.legislation.gov.uk/uksi/1999/1022) and [S.I. 2003/1730](https://www.legislation.gov.uk/uksi/2003/1730).
 
-[^key-bd0018793498bdd409588b2834c47efb]: Textual amendment: Words in [rule 292(4)](https://www.legislation.gov.uk/uksi/2009/356/rule/292/4) substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [83](https://www.legislation.gov.uk/uksi/2010/2579/rule/83)
+[^c-bd0018793498bdd409588b2834c47efb]: Textual amendment: Words in [rule 292(4)](https://www.legislation.gov.uk/uksi/2009/356/rule/292/4) substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [83](https://www.legislation.gov.uk/uksi/2010/2579/rule/83)

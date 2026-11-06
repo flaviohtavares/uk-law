@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Set off for enhancement in value of retained land[^key-7e750f4887da4df79b3124a0a61abdd6]
+## 47. Set off for enhancement in value of retained land[^c-7e750f4887da4df79b3124a0a61abdd6]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ which will accrue to that person by reason of the construction of the authorised
 
 ## Annotations
 
-[^key-7e750f4887da4df79b3124a0a61abdd6]: Commencement: Art. 47 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-7e750f4887da4df79b3124a0a61abdd6]: Commencement: Art. 47 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)

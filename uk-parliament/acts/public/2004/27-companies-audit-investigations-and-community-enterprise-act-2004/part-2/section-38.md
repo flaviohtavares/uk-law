@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Becoming a community interest company: decision by Regulator[^key-c6ab93384f00623f92850b6ec9636bfb]
+## 38. Becoming a community interest company: decision by Regulator[^c-c6ab93384f00623f92850b6ec9636bfb]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6ab93384f00623f92850b6ec9636bfb]: Textual amendment: Ss. 38, 38A substituted for s. 38 (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 227(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/227/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-c6ab93384f00623f92850b6ec9636bfb]: Textual amendment: Ss. 38, 38A substituted for s. 38 (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 227(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/227/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

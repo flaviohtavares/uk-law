@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Effect of amendment of constitution on members[^key-470322688b3f13ef5e0d5a19a697c789]
+## 18. Effect of amendment of constitution on members[^c-470322688b3f13ef5e0d5a19a697c789]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-470322688b3f13ef5e0d5a19a697c789]: Commencement: Reg. 18 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-470322688b3f13ef5e0d5a19a697c789]: Commencement: Reg. 18 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Modification of the Gambling Act 2005 to reflect provisions of Part 1 of the Horserace Betting and Olympic Lottery Act 2004[^key-a4783de984640e92d9b9edd5a4369c31]
+## 8. Modification of the Gambling Act 2005 to reflect provisions of Part 1 of the Horserace Betting and Olympic Lottery Act 2004[^c-a4783de984640e92d9b9edd5a4369c31]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4783de984640e92d9b9edd5a4369c31]: Textual amendment: [Arts. 7](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [8](https://www.legislation.gov.uk/uksi/2006/3272/article/8) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [5](https://www.legislation.gov.uk/uksi/2007/2169/article/5)
+[^c-a4783de984640e92d9b9edd5a4369c31]: Textual amendment: [Arts. 7](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [8](https://www.legislation.gov.uk/uksi/2006/3272/article/8) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [5](https://www.legislation.gov.uk/uksi/2007/2169/article/5)

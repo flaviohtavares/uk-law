@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 452. Persons from whom pensions must be purchased[^key-bfafaeee09e206eeb484de37cec50b65]
+## 452. Persons from whom pensions must be purchased[^c-bfafaeee09e206eeb484de37cec50b65]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bfafaeee09e206eeb484de37cec50b65]: Commencement: Art. 452 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-bfafaeee09e206eeb484de37cec50b65]: Commencement: Art. 452 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00304]: Footnote: Paragraph (2) was modified by [S.I. 1994/1696](https://www.legislation.gov.uk/uksi/1994/1696), regulation 68, Schedule 8, paragraph 37(b). The effect of that modification has been incorporated in paragraph (2)(b) as amended by this Order.

@@ -24,19 +24,19 @@ summary: ''
 
 (2) The form and content of any page of that book is to be prescribed.
 
-(3)[^key-c909aca0bb1e8996e0c66e5636a080e0] In this section and sections 90, 91, 92 and 94, “**the district registrar**” means—
+(3)[^c-c909aca0bb1e8996e0c66e5636a080e0] In this section and sections 90, 91, 92 and 94, “**the district registrar**” means—
 
 - (a) where the civil partnership is to be registered in a registration district, the district registrar for that district,
 - (b) where the civil partnership is to be registered in Scottish waters—
   - (i) in the case where the civil partnership is to be registered by an approved celebrant, the district registrar to whom the civil partnership notices were submitted,
   - (ii) in the case where the civil partnership is to be registered by an authorised registrar, the district registrar for the registration district of the proposed authorised registrar.
 
-(4)[^key-1dd1caea2b26893dc4fddd9a18ad8c84] Subsection (1) is subject to section 88E.
+(4)[^c-1dd1caea2b26893dc4fddd9a18ad8c84] Subsection (1) is subject to section 88E.
 
 ## Annotations
 
 [^c20568241]: Commencement: S. 89 wholly in force at 5.12.2005; s. 89 not in force at Royal Assent see s. 263; s. 89(1) in force at 14.9.2005 for certain purposes by [S.S.I. 2005/428](https://www.legislation.gov.uk/ssi/2005/428), [art. 2](https://www.legislation.gov.uk/ssi/2005/428/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/428/schedule) and otherwise 5.12.2005 insofar as not already in force by [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/604/article/2/b); s. 89(2) in force at 14.9.2005 by [S.S.I. 2005/428](https://www.legislation.gov.uk/ssi/2005/428), [art. 2](https://www.legislation.gov.uk/ssi/2005/428/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2005/428/schedule)
 
-[^key-c909aca0bb1e8996e0c66e5636a080e0]: Textual amendment: S. 89(3) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(6)](https://www.legislation.gov.uk/asp/2014/5/section/24/6), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-c909aca0bb1e8996e0c66e5636a080e0]: Textual amendment: S. 89(3) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(6)](https://www.legislation.gov.uk/asp/2014/5/section/24/6), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-1dd1caea2b26893dc4fddd9a18ad8c84]: Textual amendment: S. 89(4) inserted for specified purposes (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396)](https://www.legislation.gov.uk/uksi/2015/396), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2015/396/schedule/3/paragraph/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/396/article/1/3))
+[^c-1dd1caea2b26893dc4fddd9a18ad8c84]: Textual amendment: S. 89(4) inserted for specified purposes (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396)](https://www.legislation.gov.uk/uksi/2015/396), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2015/396/schedule/3/paragraph/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/396/article/1/3))

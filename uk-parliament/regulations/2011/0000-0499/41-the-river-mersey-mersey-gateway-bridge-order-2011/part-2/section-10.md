@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Access to works[^key-6e7068a577eff90bd656f10f0e9f77a6]
+## 10. Access to works[^c-6e7068a577eff90bd656f10f0e9f77a6]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The undertaker may, for the purposes of the authorised works—
 
 ## Annotations
 
-[^key-6e7068a577eff90bd656f10f0e9f77a6]: Commencement: Art. 10 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-6e7068a577eff90bd656f10f0e9f77a6]: Commencement: Art. 10 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

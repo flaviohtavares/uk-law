@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Cross-border delegation of functions by SFRS[^key-bcb30a2e0b39d208d91dd86045b4cc01]
+## 20. Cross-border delegation of functions by SFRS[^c-bcb30a2e0b39d208d91dd86045b4cc01]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcb30a2e0b39d208d91dd86045b4cc01]: Commencement: Art. 20 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-bcb30a2e0b39d208d91dd86045b4cc01]: Commencement: Art. 20 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)

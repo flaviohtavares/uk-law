@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-515f4209bc8688aad2127e7ad27a2770] In this Order—
+(1)[^c-515f4209bc8688aad2127e7ad27a2770] In this Order—
 
 - “**the Act**” means the Electricity Act 1989 [^c22695591];
 - “**2009 Order**” means the Renewables Obligation Order 2009 [^c22695601];
@@ -80,7 +80,7 @@ summary: ''
 - “**BS EN 15415-1:2011**” means the document identified by Standard Number BS EN 15415-1:2011 and entitled “Solid recovered fuels. Determination of particle size distribution. Screen method for small dimension particles” published by the British Standards Institution on 30th September 2011 [^c22695631];
 - “**BS EN 15590:2011**” means the document identified by Standard Number BS EN 15590:2011 and entitled “Solid recovered fuels. Determination of the current rate of aerobic microbial activity using the real dynamic respiration index” published by the British Standards Institution on 30th September 2011 [^c22695641];
 - “**CFD**” has the meaning given in section 6(2) of the Energy Act 2013 [^c22695651];
-- “[^key-2054fcdcbd5d27cb74d82578b6a952a4]**CHPQA**” means the Combined Heat and Power Quality Assurance Standard, Issue 6, October 2016 and Guidance Note 44 (Use of CHPQA in respect of the Renewables Obligation and Contracts for Difference), Issue 6, October 2016;[^M_M_f0ed1d20-d417-4807-c666-3e1ecf8e8b07]
+- “[^c-2054fcdcbd5d27cb74d82578b6a952a4]**CHPQA**” means the Combined Heat and Power Quality Assurance Standard, Issue 6, October 2016 and Guidance Note 44 (Use of CHPQA in respect of the Renewables Obligation and Contracts for Difference), Issue 6, October 2016;[^M_M_f0ed1d20-d417-4807-c666-3e1ecf8e8b07]
 - “**CHP station**” means a station which generates electricity and is (or may be) operated for purposes including the supply to any premises of—
   - (a) heat produced in association with electricity, or
   - (b) steam produced from, or air or water heated by, such heat;
@@ -93,7 +93,7 @@ summary: ''
   - (a) the person operating the national transmission system for Great Britain (“the national system operator”), or
   - (b) if the national system operator's functions under Chapter 2 of Part 2 of the Energy Act 2013 [^c22695681] have been transferred to an alternative delivery body, that body;
 - “**designated electricity supplier**” has the meaning given by article 7(1);
-- “EII excluded electricity” means electricity which constitutes EII excluded electricity within the meaning of regulation 6(1) of the Electricity Supplier Obligations (Amendment & Excluded Electricity) Regulations 2015;[^key-35e31eb8e9ab3a2064b52ba3325de66a] [^M_M_2cf79f71-e503-49e0-cc45-c2f7291c66d8]
+- “EII excluded electricity” means electricity which constitutes EII excluded electricity within the meaning of regulation 6(1) of the Electricity Supplier Obligations (Amendment & Excluded Electricity) Regulations 2015;[^c-35e31eb8e9ab3a2064b52ba3325de66a] [^M_M_2cf79f71-e503-49e0-cc45-c2f7291c66d8]
 - “**energy content**”, in relation to any substance, means the energy contained within that substance (whether measured by a calorimeter or determined in some other way) expressed in terms of the substance's gross calorific value within the meaning of British Standard BS 7420:1991 (Guide for determination of calorific values of solid, liquid and gaseous fuels (including definitions)) published by the British Standard Institute on 28th June 1991 [^c22695691];
 - “**energy crops**” means—
   - (a) a perennial crop planted at high density, the stems of which are harvested above ground level at intervals of less than twenty years and which is one of the following—
@@ -160,7 +160,7 @@ summary: ''
   - (b) in relation to fossil fuel or waste used by a generating station, the use of fossil fuel or waste—
     - (i) by the station for ancillary purposes, and
     - (ii) in a month in which the energy content of the fossil fuel or waste so used (or, where both are so used, their combined energy content) does not exceed 10% of the energy content of all the energy sources used by the station to generate electricity during that month;
-- [^key-97e58850b955a5f7cd71e5bfdec24209]...
+- [^c-97e58850b955a5f7cd71e5bfdec24209]...
 - “plant”, with reference to plant matter, includes shrubs and trees;
 - “**post-2016 capacity**” means—
   - (a) in relation to a generating station accredited on or before 31st March 2016, any capacity which, in the Authority's view—
@@ -192,7 +192,7 @@ summary: ''
 - “**sewage gas**” means gas formed by the anaerobic digestion of sewage (including sewage which has been treated or processed);
 - “**Solid Recovered Fuel**” means solid fuel which—
   - (a) complies with the classification and specification requirements in BS EN:15359:2011,
-  - (b) is prepared from a waste which is not a hazardous waste (where hazardous waste has the meaning given in Article 3(2) of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste , as last amended by[^key-5ab72405abae877c18647c5c8edfff8b] Directive (EU) 2018/851[^key-5be18314827b95c01648cf2c93e98e5b]),
+  - (b) is prepared from a waste which is not a hazardous waste (where hazardous waste has the meaning given in Article 3(2) of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste , as last amended by[^c-5ab72405abae877c18647c5c8edfff8b] Directive (EU) 2018/851[^c-5be18314827b95c01648cf2c93e98e5b]),
   - (c) has a maximum rate of oxygen uptake of no more than 1500 milligrams of oxygen per kilogram of volatile solids per hour when measured using the real dynamic respiration test specified in BS EN 15590:2011, and
   - (d) when subject to a methodology for the determination of particle size in accordance with BS EN 15415-1:2011, is able to pass through an opening measuring no more than 150 millimetres in all dimensions;
 - “**specified day**”, in relation to an obligation period, means the 1st September immediately following it;
@@ -215,7 +215,7 @@ summary: ''
 - “**volatile solids**” means any mass loss, corrected for moisture, when a solid is heated out of contact with air under the conditions specified, and using the methods, in BS EN 15402:2011; and
 - “**waste**” has the meaning given in Article 3(1) of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste [^c22695831] but—
   - (a) also includes anything derived from waste, and
-  - (b) does not include landfill gas, sewage gas or any substance intentionally modified or contaminated to fall within the meaning of “waste” given in Article 3(1) of that Directive[^key-464125ee9cdafbf898098dcc49845c02] [^M_M_3e6ee338-ae59-4a3f-9e32-0cc811316ae9].
+  - (b) does not include landfill gas, sewage gas or any substance intentionally modified or contaminated to fall within the meaning of “waste” given in Article 3(1) of that Directive[^c-464125ee9cdafbf898098dcc49845c02] [^M_M_3e6ee338-ae59-4a3f-9e32-0cc811316ae9].
 
 (2) Where biomass or waste is used in a generating station (whether alone or together or in combination with another fuel) and—
 
@@ -238,11 +238,11 @@ references in this Order to the energy content of that biomass or waste and foss
 
 (6) Any reference in this Order to the supply of electricity made to customers in Northern Ireland is to be construed in accordance with the definition of “supply” in Article 3 of the Electricity (Northern Ireland) Order 1992 [^c22695841].
 
-(7)[^key-3a6989737068952c3e4aba2c1f398ce0] A reference in this Order to residue does not, in the case of residue from processing, include a reference to any substance that is a primary aim of a production process or that the process has been deliberately modified to produce.
+(7)[^c-3a6989737068952c3e4aba2c1f398ce0] A reference in this Order to residue does not, in the case of residue from processing, include a reference to any substance that is a primary aim of a production process or that the process has been deliberately modified to produce.
 
 ## Annotations
 
-[^key-515f4209bc8688aad2127e7ad27a2770]: Modification: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1947/article/2/1) modified (temp.) (29.5.2021) by [The Combined Heat and Power Quality Assurance (Temporary Modifications) Regulations 2021 (S.I. 2021/656)](https://www.legislation.gov.uk/uksi/2021/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/656/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/656/regulation/3/2)
+[^c-515f4209bc8688aad2127e7ad27a2770]: Modification: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1947/article/2/1) modified (temp.) (29.5.2021) by [The Combined Heat and Power Quality Assurance (Temporary Modifications) Regulations 2021 (S.I. 2021/656)](https://www.legislation.gov.uk/uksi/2021/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/656/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/656/regulation/3/2)
 
 [^c22695591]: Marginal citation: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).
 
@@ -258,7 +258,7 @@ references in this Order to the energy content of that biomass or waste and foss
 
 [^c22695651]: Marginal citation: [2013 c.32](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-2054fcdcbd5d27cb74d82578b6a952a4]: Textual amendment: Words in art. 2(1) substituted (1.1.2017) by [The Combined Heat and Power Quality Assurance Regulations 2016 (S.I. 2016/1108)](https://www.legislation.gov.uk/uksi/2016/1108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2016/1108/regulation/2)
+[^c-2054fcdcbd5d27cb74d82578b6a952a4]: Textual amendment: Words in art. 2(1) substituted (1.1.2017) by [The Combined Heat and Power Quality Assurance Regulations 2016 (S.I. 2016/1108)](https://www.legislation.gov.uk/uksi/2016/1108), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1108/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2016/1108/regulation/2)
 
 [^M_M_f0ed1d20-d417-4807-c666-3e1ecf8e8b07]: Marginal citation: Available at www.gov.uk/guidance/combined-heat-power-quality-assurance-programme.
 
@@ -266,7 +266,7 @@ references in this Order to the energy content of that biomass or waste and foss
 
 [^c22695681]: Marginal citation: [2013 c.32](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-35e31eb8e9ab3a2064b52ba3325de66a]: Textual amendment: Words in art. 2(1) inserted (15.12.2017) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [2](https://www.legislation.gov.uk/uksi/2017/1289/article/2)
+[^c-35e31eb8e9ab3a2064b52ba3325de66a]: Textual amendment: Words in art. 2(1) inserted (15.12.2017) by [The Renewables Obligation (Amendment) (Energy Intensive Industries) Order 2017 (S.I. 2017/1289)](https://www.legislation.gov.uk/uksi/2017/1289), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1289/article/1/1), [2](https://www.legislation.gov.uk/uksi/2017/1289/article/2)
 
 [^M_M_2cf79f71-e503-49e0-cc45-c2f7291c66d8]: Marginal citation: [S.I. 2015/721](https://www.legislation.gov.uk/uksi/2015/721), as amended by [S.I. 2017/1051](https://www.legislation.gov.uk/uksi/2017/1051) (The Electricity Supplier Obligations (Amendment & Excluded Electricity) (Amendment) Regulations 2017).
 
@@ -294,20 +294,20 @@ references in this Order to the energy content of that biomass or waste and foss
 
 [^c22695801]: Marginal citation: [1964 c.29](https://www.legislation.gov.uk/ukpga/1964/29).
 
-[^key-97e58850b955a5f7cd71e5bfdec24209]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1947/article/2/1) omitted (31.12.2020) by virtue of [The Renewables Obligation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/35)](https://www.legislation.gov.uk/uksi/2019/35), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/35/regulation/1/2), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2019/35/schedule/1/paragraph/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-97e58850b955a5f7cd71e5bfdec24209]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1947/article/2/1) omitted (31.12.2020) by virtue of [The Renewables Obligation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/35)](https://www.legislation.gov.uk/uksi/2019/35), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/35/regulation/1/2), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2019/35/schedule/1/paragraph/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5ab72405abae877c18647c5c8edfff8b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1947/article/2/1) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2018/942/regulation/27)
+[^c-5ab72405abae877c18647c5c8edfff8b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1947/article/2/1) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2018/942/regulation/27)
 
-[^key-5be18314827b95c01648cf2c93e98e5b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1947/article/2/1) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2020/904/regulation/20)
+[^c-5be18314827b95c01648cf2c93e98e5b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/1947/article/2/1) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2020/904/regulation/20)
 
 [^c22695821]: Marginal citation: Section 4(4) contains the definition of “distribute” (which provides the definition of “distribution system”) and “transmission system”. The definition of “distribute” was inserted by section 28(1) and (3)(a) of the [Utilities Act 2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27); the definition of “transmission system” was substituted by section 135(1) and (4) of the [Energy Act 2004 (c.20)](https://www.legislation.gov.uk/ukpga/2004/20).
 
 [^c22695831]: Marginal citation: OJ No L 312, 22.11.2008, p3.
 
-[^key-464125ee9cdafbf898098dcc49845c02]: Textual amendment: Words in art. 2(1) substituted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/3/2)
+[^c-464125ee9cdafbf898098dcc49845c02]: Textual amendment: Words in art. 2(1) substituted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/3/2)
 
 [^M_M_3e6ee338-ae59-4a3f-9e32-0cc811316ae9]: Marginal citation: [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council of 19th November 2008 on waste and repealing certain Directives, O.J. No. L 312, 22.11.2008, p.3.
 
 [^c22695841]: Marginal citation: S.R. (NI) 1992 No 231. There have been amendments which are not relevant.
 
-[^key-3a6989737068952c3e4aba2c1f398ce0]: Textual amendment: Art. 2(7) inserted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/3/3)
+[^c-3a6989737068952c3e4aba2c1f398ce0]: Textual amendment: Art. 2(7) inserted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/3/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 149. Short title[^key-c6d3e79b4c06e548e20d05bd1f9ff0b5]
+## 149. Short title[^c-c6d3e79b4c06e548e20d05bd1f9ff0b5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Renters’ Rights Act 2025.
 
 ## Annotations
 
-[^key-c6d3e79b4c06e548e20d05bd1f9ff0b5]: Commencement: S. 149 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-c6d3e79b4c06e548e20d05bd1f9ff0b5]: Commencement: S. 149 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)

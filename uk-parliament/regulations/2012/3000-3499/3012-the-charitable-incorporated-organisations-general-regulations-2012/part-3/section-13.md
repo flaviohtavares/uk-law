@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Matters to be provided for in constitution[^key-6f8ded98d3ad24585b49389d67b95e52]
+## 13. Matters to be provided for in constitution[^c-6f8ded98d3ad24585b49389d67b95e52]
 
 *Extent: E+W*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f8ded98d3ad24585b49389d67b95e52]: Commencement: Reg. 13 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-6f8ded98d3ad24585b49389d67b95e52]: Commencement: Reg. 13 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

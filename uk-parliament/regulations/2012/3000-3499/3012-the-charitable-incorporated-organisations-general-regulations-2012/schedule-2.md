@@ -22,39 +22,39 @@ summary: ''
 
 Regulation 50
 
-### 1. Application of this Schedule[^key-6116f47561c8856563f2826a346df52b]
+### 1. Application of this Schedule[^c-6116f47561c8856563f2826a346df52b]
 
 This Schedule applies to documents or information sent or supplied to a CIO but not to documents or information sent or supplied by one CIO to another.
 
-### 2. Communications in hard copy form: introduction[^key-9ede5e690e53d8477f7a103b88d03004]
+### 2. Communications in hard copy form: introduction[^c-9ede5e690e53d8477f7a103b88d03004]
 
 A document or information is validly sent or supplied to a CIO if it is sent or supplied in hard copy form in accordance with this Schedule.
 
-### 3. Method of communication in hard copy form[^key-0548e9eb85f8bcc11c994babd87c9104]
+### 3. Method of communication in hard copy form[^c-0548e9eb85f8bcc11c994babd87c9104]
 
 (1) A document or information in hard copy form may be sent or supplied by hand or by post to an address in accordance with paragraph 4.
 
 (2) For the purposes of this Schedule, a person sends a document or information by post if the person posts a prepaid envelope containing the document or information.
 
-### 4. Address for communications in hard copy form[^key-600a06c304882736e55b278441eebec9]
+### 4. Address for communications in hard copy form[^c-600a06c304882736e55b278441eebec9]
 
 A document or information in hard copy form may be sent or supplied—
 
 - (a) to an address specified by the CIO for the purpose;
 - (b) to the CIO’s principal office as it appears on the register of charities.
 
-### 5. Communications in electronic form: introduction[^key-9cdbc50c06fe08e5f7baa71144ef4e78]
+### 5. Communications in electronic form: introduction[^c-9cdbc50c06fe08e5f7baa71144ef4e78]
 
 A document or information is validly sent or supplied to a CIO if it is sent or supplied in electronic form in accordance with this Schedule.
 
-### 6. Conditions for use of communications in electronic form[^key-68f6efefb9e932b54f55be5523cec1a1]
+### 6. Conditions for use of communications in electronic form[^c-68f6efefb9e932b54f55be5523cec1a1]
 
 A document or information may only be sent or supplied to a CIO in electronic form if—
 
 - (a) the CIO has agreed (generally or specifically) that the document or information may be sent or supplied in that form and the CIO has not revoked that agreement; or
 - (b) the CIO is treated by regulation 51 as having so agreed.
 
-### 7. Address for communications in electronic form[^key-b0f53bcde7d491ee23a998fb68ac95c4]
+### 7. Address for communications in electronic form[^c-b0f53bcde7d491ee23a998fb68ac95c4]
 
 (1) Where a document or information is sent or supplied in electronic form by electronic means, it may only be sent or supplied to an address—
 
@@ -65,16 +65,16 @@ A document or information may only be sent or supplied to a CIO in electronic fo
 
 ## Annotations
 
-[^key-6116f47561c8856563f2826a346df52b]: Commencement: Sch. 2 para. 1 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-6116f47561c8856563f2826a346df52b]: Commencement: Sch. 2 para. 1 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
-[^key-9ede5e690e53d8477f7a103b88d03004]: Commencement: Sch. 2 para. 2 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-9ede5e690e53d8477f7a103b88d03004]: Commencement: Sch. 2 para. 2 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
-[^key-0548e9eb85f8bcc11c994babd87c9104]: Commencement: Sch. 2 para. 3 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-0548e9eb85f8bcc11c994babd87c9104]: Commencement: Sch. 2 para. 3 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
-[^key-600a06c304882736e55b278441eebec9]: Commencement: Sch. 2 para. 4 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-600a06c304882736e55b278441eebec9]: Commencement: Sch. 2 para. 4 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
-[^key-9cdbc50c06fe08e5f7baa71144ef4e78]: Commencement: Sch. 2 para. 5 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-9cdbc50c06fe08e5f7baa71144ef4e78]: Commencement: Sch. 2 para. 5 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
-[^key-68f6efefb9e932b54f55be5523cec1a1]: Commencement: Sch. 2 para. 6 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-68f6efefb9e932b54f55be5523cec1a1]: Commencement: Sch. 2 para. 6 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
-[^key-b0f53bcde7d491ee23a998fb68ac95c4]: Commencement: Sch. 2 para. 7 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-b0f53bcde7d491ee23a998fb68ac95c4]: Commencement: Sch. 2 para. 7 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Scottish Biodiversity Strategy[^key-f9b593ee7842de033dd66b4f8659a2ec]
+## 2. Scottish Biodiversity Strategy[^c-f9b593ee7842de033dd66b4f8659a2ec]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ lay a report before the Scottish Parliament regarding the implementation of the 
 
 ## Annotations
 
-[^key-f9b593ee7842de033dd66b4f8659a2ec]: Commencement: S. 2 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-f9b593ee7842de033dd66b4f8659a2ec]: Commencement: S. 2 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

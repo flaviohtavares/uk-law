@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Referral of questions of law by Tenant Farming Commissioner to Land Court[^key-c09036d6a7a7e333c2a6154ed2344e83]
+## 38. Referral of questions of law by Tenant Farming Commissioner to Land Court[^c-c09036d6a7a7e333c2a6154ed2344e83]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Tenant Farming Commissioner may refer to the Land Court for determination an
 
 ## Annotations
 
-[^key-c09036d6a7a7e333c2a6154ed2344e83]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2016/18/section/38) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-c09036d6a7a7e333c2a6154ed2344e83]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2016/18/section/38) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

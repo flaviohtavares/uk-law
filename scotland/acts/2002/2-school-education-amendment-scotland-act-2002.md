@@ -74,7 +74,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 there shall be inserted “ qualifying ”.
 
-## 2. Provisions relating to the abolition of the post of assistant headteacher[^key-f379efb39332a5ed03f30584a7501032]
+## 2. Provisions relating to the abolition of the post of assistant headteacher[^c-f379efb39332a5ed03f30584a7501032]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -86,6 +86,6 @@ there shall be inserted “ qualifying ”.
 
 ## Annotations
 
-[^key-f379efb39332a5ed03f30584a7501032]: Textual amendment: [S. 2](https://www.legislation.gov.uk/asp/2002/2/section/2) repealed (1.8.2007) by [Scottish Schools (Parental Involvement) Act 2006 (asp 8)](https://www.legislation.gov.uk/asp/2006/8), [s. 24(2)](https://www.legislation.gov.uk/asp/2006/8/section/24/2), [Sch.](https://www.legislation.gov.uk/asp/2006/8/schedule); [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-f379efb39332a5ed03f30584a7501032]: Textual amendment: [S. 2](https://www.legislation.gov.uk/asp/2002/2/section/2) repealed (1.8.2007) by [Scottish Schools (Parental Involvement) Act 2006 (asp 8)](https://www.legislation.gov.uk/asp/2006/8), [s. 24(2)](https://www.legislation.gov.uk/asp/2006/8/section/24/2), [Sch.](https://www.legislation.gov.uk/asp/2006/8/schedule); [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
 
 [^c378260]: Subordinate legislation: [S. 3(1)](https://www.legislation.gov.uk/asp/2002/2/section/3/1) power fully exercised: different dates appointed for specified provisions by [S.S.I. 2002/74](https://www.legislation.gov.uk/ssi/2002/74), [arts. 2](https://www.legislation.gov.uk/ssi/2002/74/article/2), [3](https://www.legislation.gov.uk/ssi/2002/74/article/3)

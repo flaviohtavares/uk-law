@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Reimbursement of expenses relating to animals involved in fighting offences[^key-0e28e2a72f34f34c6d0b32ce688b758e][^key-5ac3f54658d0f7072104bf04e5c149d1]
+## 39. Reimbursement of expenses relating to animals involved in fighting offences[^c-0e28e2a72f34f34c6d0b32ce688b758e][^c-5ac3f54658d0f7072104bf04e5c149d1]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0e28e2a72f34f34c6d0b32ce688b758e]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2006/45/section/39) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
+[^c-0e28e2a72f34f34c6d0b32ce688b758e]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2006/45/section/39) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
 
-[^key-5ac3f54658d0f7072104bf04e5c149d1]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2006/45/section/39) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-5ac3f54658d0f7072104bf04e5c149d1]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2006/45/section/39) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

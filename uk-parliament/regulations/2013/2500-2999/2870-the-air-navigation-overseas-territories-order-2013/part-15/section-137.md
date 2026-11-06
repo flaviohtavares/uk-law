@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Restriction on aerial photography, aerial survey and aerial work in aircraft registered outside the Territory[^key-8fbc3e47a7b0e457f5171bea6eed37b6]
+## 137. Restriction on aerial photography, aerial survey and aerial work in aircraft registered outside the Territory[^c-8fbc3e47a7b0e457f5171bea6eed37b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fbc3e47a7b0e457f5171bea6eed37b6]: Commencement: [Art. 137](https://www.legislation.gov.uk/uksi/2013/2870/article/137) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-8fbc3e47a7b0e457f5171bea6eed37b6]: Commencement: [Art. 137](https://www.legislation.gov.uk/uksi/2013/2870/article/137) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

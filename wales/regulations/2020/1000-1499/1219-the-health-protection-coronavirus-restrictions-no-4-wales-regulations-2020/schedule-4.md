@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Form of sign to accompany premises improvement notice or premises closure notice[^key-1bd064b8937e5457af2873f366b5d17e]
+## SCHEDULE 4 — Form of sign to accompany premises improvement notice or premises closure notice[^c-1bd064b8937e5457af2873f366b5d17e]
 
 *Extent: E+W*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Regulation 26
 
-### 1. Sign to be displayed with premises improvement notice[^key-1bd064b8937e5457af2873f366b5d17e]
+### 1. Sign to be displayed with premises improvement notice[^c-1bd064b8937e5457af2873f366b5d17e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Sign to be displayed with premises closure notice[^key-1bd064b8937e5457af2873f366b5d17e]
+### 2. Sign to be displayed with premises closure notice[^c-1bd064b8937e5457af2873f366b5d17e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1bd064b8937e5457af2873f366b5d17e]: Textual amendment: Regulations revoked (except reg. 48) (20.12.2020) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020 (S.I. 2020/1609)](https://www.legislation.gov.uk/wsi/2020/1609), [reg. 58(a)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/58/a) (as amended by [S.I. 2020/1610](https://www.legislation.gov.uk/uksi/2020/1610), regs. 1(2), 2(2))
+[^c-1bd064b8937e5457af2873f366b5d17e]: Textual amendment: Regulations revoked (except reg. 48) (20.12.2020) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020 (S.I. 2020/1609)](https://www.legislation.gov.uk/wsi/2020/1609), [reg. 58(a)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/58/a) (as amended by [S.I. 2020/1610](https://www.legislation.gov.uk/uksi/2020/1610), regs. 1(2), 2(2))

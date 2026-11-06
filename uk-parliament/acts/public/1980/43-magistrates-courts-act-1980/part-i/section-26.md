@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Power to issue summons to accused in certain circumstances.[^key-cc0a67d39be782527a2a83b4dae6c259]
+## 26. Power to issue summons to accused in certain circumstances.[^c-cc0a67d39be782527a2a83b4dae6c259]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc0a67d39be782527a2a83b4dae6c259]: Textual amendment: S. 26(1)(2) substituted (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/12); S.I. 2012/1320, art. 4(1)(c)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(c), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(c)(2)(3) (with arts. 3, 4)
+[^c-cc0a67d39be782527a2a83b4dae6c259]: Textual amendment: S. 26(1)(2) substituted (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 for specified purposes) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/12); S.I. 2012/1320, art. 4(1)(c)(2)(3) (with art. 5) (see S.I. 2012/2574, art. 4(2) and S.I. 2013/1103, art. 4); S.I. 2012/2574, art. 2(2)(3)(c), Sch. (with arts. 3, 4) (as amended (4.11.2012) by S.I. 2012/2761, art. 2) (with S.I. 2013/1103, art. 4); S.I. 2013/1103, art. 2(1)(c)(2)(3) (with arts. 3, 4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 183. “The appropriate fee”[^key-5c5145788356dfbbd05a9f22a96be25e]
+## 183. “The appropriate fee”[^c-5c5145788356dfbbd05a9f22a96be25e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c5145788356dfbbd05a9f22a96be25e]: Commencement: Rule 183 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-5c5145788356dfbbd05a9f22a96be25e]: Commencement: Rule 183 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

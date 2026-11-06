@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**48.**[^key-375dbb0dec6c8b851c9f49723af4a816] Before regulation 51 in the heading insert “EU” before “computerised system”
+**48.**[^c-375dbb0dec6c8b851c9f49723af4a816] Before regulation 51 in the heading insert “EU” before “computerised system”
 
 ## Annotations
 
-[^key-375dbb0dec6c8b851c9f49723af4a816]: Commencement: Reg. 48 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-375dbb0dec6c8b851c9f49723af4a816]: Commencement: Reg. 48 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

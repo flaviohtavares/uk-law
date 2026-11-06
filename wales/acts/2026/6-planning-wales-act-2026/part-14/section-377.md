@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 377. Statutory review of orders relating to highways and statutory undertakers[^key-7c189fada38269327dd73de3fdc4dec2]
+## 377. Statutory review of orders relating to highways and statutory undertakers[^c-7c189fada38269327dd73de3fdc4dec2]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c189fada38269327dd73de3fdc4dec2]: Commencement: S. 377 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-7c189fada38269327dd73de3fdc4dec2]: Commencement: S. 377 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

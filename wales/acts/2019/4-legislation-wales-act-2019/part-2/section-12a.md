@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12A. Meaning of references to laying documents before Senedd Cymru[^key-a6c2e2e77198108550266b0380bf7b5b]
+## 12A. Meaning of references to laying documents before Senedd Cymru[^c-a6c2e2e77198108550266b0380bf7b5b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6c2e2e77198108550266b0380bf7b5b]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/anaw/2019/4/section/12A) and cross-heading inserted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(e)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/e), [Sch. 2 para. 3](https://www.legislation.gov.uk/asc/2025/3/schedule/2/paragraph/3)
+[^c-a6c2e2e77198108550266b0380bf7b5b]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/anaw/2019/4/section/12A) and cross-heading inserted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(e)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/e), [Sch. 2 para. 3](https://www.legislation.gov.uk/asc/2025/3/schedule/2/paragraph/3)

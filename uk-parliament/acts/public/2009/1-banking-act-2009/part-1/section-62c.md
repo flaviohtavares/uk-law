@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62C. Resolution administrator: further functions[^key-8c56b8a8b7c49cbfeeda26703171fadc]
+## 62C. Resolution administrator: further functions[^c-8c56b8a8b7c49cbfeeda26703171fadc]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c56b8a8b7c49cbfeeda26703171fadc]: Textual amendment: Ss. 62B-62E and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [70](https://www.legislation.gov.uk/uksi/2014/3329/article/70)
+[^c-8c56b8a8b7c49cbfeeda26703171fadc]: Textual amendment: Ss. 62B-62E and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [70](https://www.legislation.gov.uk/uksi/2014/3329/article/70)

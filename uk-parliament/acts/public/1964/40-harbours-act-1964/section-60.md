@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Power to amend Acts of local application.[^c7744141][^key-8aa3054daff66a942e917871e93eeb84][^c7744131]
+## 60. Power to amend Acts of local application.[^c7744141][^c-8aa3054daff66a942e917871e93eeb84][^c7744131]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ summary: ''
 
 [^c7744141]: Modification: S. 60: transfer of certain functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-8aa3054daff66a942e917871e93eeb84]: Modification: [S. 60](https://www.legislation.gov.uk/ukpga/1964/40/section/60): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(b)(viii)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/b/viii), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), [reg. 2](https://www.legislation.gov.uk/uksi/2018/278/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/278/schedule))
+[^c-8aa3054daff66a942e917871e93eeb84]: Modification: [S. 60](https://www.legislation.gov.uk/ukpga/1964/40/section/60): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(b)(viii)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/b/viii), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), [reg. 2](https://www.legislation.gov.uk/uksi/2018/278/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/278/schedule))
 
 [^c7744131]: Modification: Functions of Minister of Agriculture, Fisheries and Food under s. 60 now exercisable (W.) by Secretary of State or by Minister of Agriculture, Fisheries and Food and Secretary of State for Wales jointly by [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272), [art. 2](https://www.legislation.gov.uk/uksi/1978/272/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1978/272/schedule/1)
 

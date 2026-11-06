@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Parenting orders in respect of criminal conduct and anti-social behaviour : youth offending teams[^key-93935ba989e952ee477d672a15b60556][^key-c590f7843e2770dcecee938879378f80]
+## 26. Parenting orders in respect of criminal conduct and anti-social behaviour : youth offending teams[^c-93935ba989e952ee477d672a15b60556][^c-c590f7843e2770dcecee938879378f80]
 
 *Extent: E+W*
 
@@ -42,12 +42,12 @@ summary: ''
 
 (8) The second condition is that any interference with family life which is likely to result from the attendance of the parent at a residential course is proportionate in all the circumstances.
 
-(9)[^key-d638003110c34ac719c2eed32dec0f5e] A person is eligible to be the responsible officer in relation to a parenting order under this section only if he is a member of a youth offending team.
+(9)[^c-d638003110c34ac719c2eed32dec0f5e] A person is eligible to be the responsible officer in relation to a parenting order under this section only if he is a member of a youth offending team.
 
 ## Annotations
 
-[^key-93935ba989e952ee477d672a15b60556]: Commencement: S. 26 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/a/iii)
+[^c-93935ba989e952ee477d672a15b60556]: Commencement: S. 26 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/a/iii)
 
-[^key-c590f7843e2770dcecee938879378f80]: Textual amendment: Words in s. 26 heading inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 14 para. 54(2)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/54/2); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(d)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/d)
+[^c-c590f7843e2770dcecee938879378f80]: Textual amendment: Words in s. 26 heading inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 14 para. 54(2)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/54/2); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(d)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/d)
 
-[^key-d638003110c34ac719c2eed32dec0f5e]: Textual amendment: S. 26(9) inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 14 para. 54(3)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/54/3); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(d)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/d)
+[^c-d638003110c34ac719c2eed32dec0f5e]: Textual amendment: S. 26(9) inserted (1.8.2007 for E.) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 14 para. 54(3)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/14/paragraph/54/3); [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(d)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/d)

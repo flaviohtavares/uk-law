@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Hoardings to be set up during building etc.[^c13427471][^c13427481][^M_C_b30f9b23-517a-4a5b-b0d4-c683c46e5f25][^key-3649bb49bc13152455dd2123a65e90f4][^key-3759c48a10d0ae6604c83cac4926305e]
+## 172. Hoardings to be set up during building etc.[^c13427471][^c13427481][^M_C_b30f9b23-517a-4a5b-b0d4-c683c46e5f25][^c-3649bb49bc13152455dd2123a65e90f4][^c-3759c48a10d0ae6604c83cac4926305e]
 
 *Extent: E+W*
 
@@ -47,9 +47,9 @@ For the purposes of this section the appropriate authority, in relation to any s
 
 [^M_C_b30f9b23-517a-4a5b-b0d4-c683c46e5f25]: Modification: S. 172 excluded (24.9.2014) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) Order 2014 (S.I. 2014/2384)](https://www.legislation.gov.uk/uksi/2014/2384), [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1), [Sch. 19](https://www.legislation.gov.uk/uksi/2014/2384/schedule/19) [Pt. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2014/2384/part/1/paragraph/2/3)
 
-[^key-3649bb49bc13152455dd2123a65e90f4]: Modification: [S. 172](https://www.legislation.gov.uk/ukpga/1980/66/section/172) excluded (15.4.2025) by [The A122 (Lower Thames Crossing) Development Consent Order 2025 (S.I. 2025/462)](https://www.legislation.gov.uk/uksi/2025/462), [arts. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1), [53(1)](https://www.legislation.gov.uk/uksi/2025/462/article/53/1) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/462/article/5), [43](https://www.legislation.gov.uk/uksi/2025/462/article/43), [53(7)](https://www.legislation.gov.uk/uksi/2025/462/article/53/7), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/462/schedule/14))
+[^c-3649bb49bc13152455dd2123a65e90f4]: Modification: [S. 172](https://www.legislation.gov.uk/ukpga/1980/66/section/172) excluded (15.4.2025) by [The A122 (Lower Thames Crossing) Development Consent Order 2025 (S.I. 2025/462)](https://www.legislation.gov.uk/uksi/2025/462), [arts. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1), [53(1)](https://www.legislation.gov.uk/uksi/2025/462/article/53/1) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/462/article/5), [43](https://www.legislation.gov.uk/uksi/2025/462/article/43), [53(7)](https://www.legislation.gov.uk/uksi/2025/462/article/53/7), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/462/schedule/14))
 
-[^key-3759c48a10d0ae6604c83cac4926305e]: Modification: [S. 172](https://www.legislation.gov.uk/ukpga/1980/66/section/172) excluded (23.4.2025) by [The Cambridge Waste Water Treatment Plant Relocation Order 2025 (S.I. 2025/452)](https://www.legislation.gov.uk/uksi/2025/452), [art. 1](https://www.legislation.gov.uk/uksi/2025/452/article/1), [Sch. 17 para. 2(3)](https://www.legislation.gov.uk/uksi/2025/452/schedule/17/paragraph/2/3) (with [art. 50](https://www.legislation.gov.uk/uksi/2025/452/article/50))
+[^c-3759c48a10d0ae6604c83cac4926305e]: Modification: [S. 172](https://www.legislation.gov.uk/ukpga/1980/66/section/172) excluded (23.4.2025) by [The Cambridge Waste Water Treatment Plant Relocation Order 2025 (S.I. 2025/452)](https://www.legislation.gov.uk/uksi/2025/452), [art. 1](https://www.legislation.gov.uk/uksi/2025/452/article/1), [Sch. 17 para. 2(3)](https://www.legislation.gov.uk/uksi/2025/452/schedule/17/paragraph/2/3) (with [art. 50](https://www.legislation.gov.uk/uksi/2025/452/article/50))
 
 [^c13427491]: Textual amendment: Words inserted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51) s. 8, Sch. 4 para. 7
 

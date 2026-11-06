@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Appeals etc[^key-d03db5e3e63b0d0b09b1951ba9a51120]
+## 55. Appeals etc[^c-d03db5e3e63b0d0b09b1951ba9a51120]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 10 makes provision about appeals and reviews.
 
 ## Annotations
 
-[^key-d03db5e3e63b0d0b09b1951ba9a51120]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2017/10/section/55) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-d03db5e3e63b0d0b09b1951ba9a51120]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2017/10/section/55) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

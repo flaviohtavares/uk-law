@@ -121,7 +121,7 @@ Disclosure of avoidance schemes
 </tbody>
 </table>
 
-[^key-8880ba69fd8930fd635470a571beba5a][^key-8880ba69fd8930fd635470a571beba5a][^key-8880ba69fd8930fd635470a571beba5a][^key-8880ba69fd8930fd635470a571beba5a][^key-8880ba69fd8930fd635470a571beba5a][^key-8880ba69fd8930fd635470a571beba5a][^key-8880ba69fd8930fd635470a571beba5a]
+[^c-8880ba69fd8930fd635470a571beba5a][^c-8880ba69fd8930fd635470a571beba5a][^c-8880ba69fd8930fd635470a571beba5a][^c-8880ba69fd8930fd635470a571beba5a][^c-8880ba69fd8930fd635470a571beba5a][^c-8880ba69fd8930fd635470a571beba5a][^c-8880ba69fd8930fd635470a571beba5a]
 
 (7) Charges on income for corporation tax
 
@@ -284,4 +284,4 @@ Disclosure of avoidance schemes
 
 ## Annotations
 
-[^key-8880ba69fd8930fd635470a571beba5a]: Textual amendment: Sch. 11 Pt. 2(6) entries and note repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-8880ba69fd8930fd635470a571beba5a]: Textual amendment: Sch. 11 Pt. 2(6) entries and note repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

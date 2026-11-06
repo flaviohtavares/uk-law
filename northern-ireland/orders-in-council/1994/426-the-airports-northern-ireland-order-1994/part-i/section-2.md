@@ -33,13 +33,13 @@ summary: ''
 - “licensed airport” means an airport licensed under an Order in Council under section 60 of the 1982 Act (Air Navigation Orders);
 - “modifications” includes additions, omissions and amendments;
 - “operator”, in relation to an aircraft, means the person for the time being having the management of the aircraft;
-- “[^key-6220f897e1010e08ece22e5dd5f7a852] **regulated airport** ” has the meaning given in Article 2A;
+- “[^c-6220f897e1010e08ece22e5dd5f7a852] **regulated airport** ” has the meaning given in Article 2A;
 - “statutory provision” has the meaning assigned to it by section 1(f) of the Interpretation Act (Northern Ireland) 1954[^c5479181];
 - “[^c21401001] **subsidiary** ” has the same meaning as in the Companies Acts (see section 1159 of the Companies Act 2006).
 
 (3) For the purposes of this Order, a hovercraft within the meaning of the Hovercraft Act 1968[^c5479191] is not an aircraft.
 
-(3A)[^key-f6abbd2d423338db9aba6cb28922744b] Subject to paragraph (3D), a reference in this Order to an aircraft includes a reference to a medium-range rocket.
+(3A)[^c-f6abbd2d423338db9aba6cb28922744b] Subject to paragraph (3D), a reference in this Order to an aircraft includes a reference to a medium-range rocket.
 
 (3B) In paragraph (3A) “**rocket**” means a projectile of mainly cylindrical or similar shape that can be propelled from or above the earth by combustion of its fuel (or fuel and oxidant).
 
@@ -63,7 +63,7 @@ summary: ''
 
 [^c21400941]: Textual amendment: Art. 2(2): definition of "the Companies Order" omitted (1.10.2009) by virtue of [Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [Sch. 1 para. 149(2)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/149/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-6220f897e1010e08ece22e5dd5f7a852]: Textual amendment: Words in art. 2(2) substituted (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/7) (with [Sch. 8 paras. 10](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/10), [12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-6220f897e1010e08ece22e5dd5f7a852]: Textual amendment: Words in art. 2(2) substituted (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/7) (with [Sch. 8 paras. 10](https://www.legislation.gov.uk/ukpga/2012/19/schedule/8/paragraph/10), [12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
 [^c5479181]: Textual amendment: [1954 c.33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -71,4 +71,4 @@ summary: ''
 
 [^c5479191]: Textual amendment: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59)
 
-[^key-f6abbd2d423338db9aba6cb28922744b]: Textual amendment: [Art. 2(3A)-(3D)](https://www.legislation.gov.uk/nisi/1994/426/article/2/3A) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/17); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 116](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/116) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-f6abbd2d423338db9aba6cb28922744b]: Textual amendment: [Art. 2(3A)-(3D)](https://www.legislation.gov.uk/nisi/1994/426/article/2/3A) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/17); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 116](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/116) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

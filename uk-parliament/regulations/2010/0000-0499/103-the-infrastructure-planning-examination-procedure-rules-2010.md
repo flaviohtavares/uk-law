@@ -48,11 +48,11 @@ Coming into force
 
 The Lord Chancellor, in exercise of the powers conferred by sections 88(6), 90(3), and 97 of, and paragraphs 3 and 4 of Schedule 3 to, the Planning Act 2008[^f00001], and after consultation with the Administrative Justice and Tribunals Council, makes the following Rules:
 
-## 1. Citation, commencement and application[^key-b60e45972df48e54fc1722bec4a0b817]
+## 1. Citation, commencement and application[^c-b60e45972df48e54fc1722bec4a0b817]
 
 (1) These Rules may be cited as the Infrastructure Planning (Examination Procedure) Rules 2010 and shall come into force on 1st March 2010.
 
-(2) Subject to paragraphs (3) to (5), these Rules apply to the examination of an application [^key-4801983f3420f3ad194a53cd4f43fde6]... by an Examining authority.
+(2) Subject to paragraphs (3) to (5), these Rules apply to the examination of an application [^c-4801983f3420f3ad194a53cd4f43fde6]... by an Examining authority.
 
 (3) These Rules do not apply if the development to which the application relates (or part of the development) is the construction (other than by a gas transporter) of an oil or gas cross-country pipe-line—
 
@@ -63,31 +63,31 @@ The Lord Chancellor, in exercise of the powers conferred by sections 88(6), 90(3
 
 (5) Parts 1 and 3 of the Schedule to these Rules apply instead of rules 3 to 23 to the examination of closed evidence where the Secretary of State has made a direction.
 
-## 2. Interpretation[^key-bb26215985829055ab7239516bb3d790]
+## 2. Interpretation[^c-bb26215985829055ab7239516bb3d790]
 
 (1) In these Rules, unless otherwise defined in Part 1 of the Schedule to these Rules—
 
 - “the 2008 Act” means the Planning Act 2008;
 - “**accepted application**” means an application that has been accepted under section 55 (acceptance of applications);
 - “**address**” includes any number or address used for the purposes of electronic transmission;
-- “**affected person**” means a person whose name has been given to the Secretary of State[^key-2e85e8a4c3f584083aed0af14a5f55be] in a notice under section 59 (notice of persons interested in land to which compulsory acquisition request relates);
+- “**affected person**” means a person whose name has been given to the Secretary of State[^c-2e85e8a4c3f584083aed0af14a5f55be] in a notice under section 59 (notice of persons interested in land to which compulsory acquisition request relates);
 - “**application**” means an application for development consent under section 37 (application for orders granting development consent) and includes—
   - (a) part of an application;
   - (b) any accompanying documents and further representations made by the applicant; and
   - (c) any amendments made to the application;
-- “**assessor**” means a person appointed by the Secretary of State[^key-6dadade04959f66aaeef39ba41a372f0] to assist and advise the Examining authority in its examination of an application;
+- “**assessor**” means a person appointed by the Secretary of State[^c-6dadade04959f66aaeef39ba41a372f0] to assist and advise the Examining authority in its examination of an application;
 - “**closed evidence**” means any representation which is subject to a direction;
 - “appointed person” means a person appointed by the Secretary of State as an appointed person;
 - “**compulsory acquisition hearing**” means a hearing held in accordance with section 92(3) (compulsory acquisition hearings);
 - “**compulsory acquisition request**” means a request for an order granting development consent to authorise compulsory acquisition of land or of an interest in or right over land;
-- [^key-3edb7c5be76c35c0fe53498093b7248a]...
-- “**direction**” means a direction given by the Secretary of State under section 95A(2)[^key-3f308dd2b71a0805ce065db07c36183c];
+- [^c-3edb7c5be76c35c0fe53498093b7248a]...
+- “**direction**” means a direction given by the Secretary of State under section 95A(2)[^c-3f308dd2b71a0805ce065db07c36183c];
 - “**electronic transmission**” means a communication transmitted—
   - (a) by means of an electronic communications network; or
   - (b) by other means but in electronic form;
 - “**Examining authority**” means—
   - (a) the Panel or single appointed person appointed under section 65 (appointment of members, and lead member, of Panel) or section 79 (appointment of single appointed person), and may include one or more members of the Panel allocated a function of the Panel in accordance with section 76 (allocation within Panel of Panel’s functions); or
-  - (b) the Secretary of State, in respect of those matters which are the subject of a direction by the Secretary of State under section 95A(2)[^key-b94850567762bf324863b3cf5a6118ee];
+  - (b) the Secretary of State, in respect of those matters which are the subject of a direction by the Secretary of State under section 95A(2)[^c-b94850567762bf324863b3cf5a6118ee];
 - “**hearing**” means an open-floor hearing, issue-specific hearing or compulsory acquisition hearing;
 - “**interested party**”, in relation to an application, means a person who is an interested party for the purposes of Chapter 4 of Part 6[^f00003];
 - “**issue-specific hearing**” means a hearing held in accordance with section 91 (hearings about specific issues);
@@ -98,13 +98,13 @@ The Lord Chancellor, in exercise of the powers conferred by sections 88(6), 90(3
 - “**procedural decision**”, in relation to an application, means a decision about how the application is to be examined;
 - “**representation**” includes evidence and references to the making of a representation include the giving of evidence;
 - “**single appointed person**” means the appointed person appointed under section 79 (appointment of single appointed person) to handle the application;
-- [^key-ae9faf085eafccd4e887ea59af1668f3]...
+- [^c-ae9faf085eafccd4e887ea59af1668f3]...
 - “**statement of common ground**” means a written statement prepared jointly by the applicant and any interested party, which contains agreed factual information about the application; and
 - “**written representation**” means the full particulars of the case which a person puts forward in respect of an application and includes any supporting evidence or documents.
 
 (2) Any reference in these Rules to a section, Part or Schedule by number is a reference to a section or Part of, or a Schedule to, so numbered in the 2008 Act.
 
-## 3. Relevant representations, etc.[^key-9c578ee6675f94cf1ff82737cc0dc08f]
+## 3. Relevant representations, etc.[^c-9c578ee6675f94cf1ff82737cc0dc08f]
 
 (1) An interested party must ensure that their relevant representation is received by the Secretary of State by whichever is the later of—
 
@@ -127,27 +127,27 @@ and may specify the date by which the copies or information must be received by 
 
 (5) As soon as practicable after receipt of any relevant representations, written comments on relevant representations or further information requested under paragraph (4)(b) the Secretary of State must make the representations, comments or information available in accordance with rule 21.
 
-## 4. Notice of appointment of a Panel or a single appointed person[^key-b3de11206c6da35c0c8ebba094a1872c]
+## 4. Notice of appointment of a Panel or a single appointed person[^c-b3de11206c6da35c0c8ebba094a1872c]
 
-(1) Where the Examining authority is a Panel or a single appointed person, the Secretary of State[^key-7218a6c75722c83e9ceda03ff5e3ac3e] must, before the preliminary meeting, notify all those who in accordance with section 56(2) (notifying persons of accepted applications) have been notified of an accepted application, that the Examining authority has been appointed and give details of who has been appointed.
+(1) Where the Examining authority is a Panel or a single appointed person, the Secretary of State[^c-7218a6c75722c83e9ceda03ff5e3ac3e] must, before the preliminary meeting, notify all those who in accordance with section 56(2) (notifying persons of accepted applications) have been notified of an accepted application, that the Examining authority has been appointed and give details of who has been appointed.
 
 (2) Where—
 
 - (a) a single appointed person has been appointed as the Examining authority in relation to an application; and
-- (b) the Secretary of State[^key-a78fce7367a8af4efb39c6e1975ea81e] subsequently decides that the Examining authority should be a Panel,
+- (b) the Secretary of State[^c-a78fce7367a8af4efb39c6e1975ea81e] subsequently decides that the Examining authority should be a Panel,
 
-the Secretary of State must notify all interested parties of the Secretary of State’s decision[^key-c89888da9324b0f7a6de29ccdc676538].
+the Secretary of State must notify all interested parties of the Secretary of State’s decision[^c-c89888da9324b0f7a6de29ccdc676538].
 
-(3) The Secretary of State must notify all interested parties[^key-a12684f73860a48f782c8dfebb28cb81] of—
+(3) The Secretary of State must notify all interested parties[^c-a12684f73860a48f782c8dfebb28cb81] of—
 
 - (a) any change in the membership of the Panel or appointment of any replacement single appointed person in accordance with section 82 (appointment of replacement single appointed person); and
-- (b) any direction given by the Secretary of State under section 95A[^key-015fec223331ade5e86816750cd38eba].
+- (b) any direction given by the Secretary of State under section 95A[^c-015fec223331ade5e86816750cd38eba].
 
-## 5. Initial assessment of issues[^key-7687412ccb8dfc017a3d3ab592c6d76e]
+## 5. Initial assessment of issues[^c-7687412ccb8dfc017a3d3ab592c6d76e]
 
 The Examining authority shall make its initial assessment under section 88(1) (initial assessment of issues, and preliminary meeting) within the period of 21 days that begins with the day after the day notified under section 56 (notifying persons of accepted application) as the deadline for the receipt of representations.
 
-## 6. Notice of preliminary and other meetings[^key-0bc55fdb1728705e1976acb218b23261]
+## 6. Notice of preliminary and other meetings[^c-0bc55fdb1728705e1976acb218b23261]
 
 (1) The Examining authority must give at least 21 days’ notice of the date, time and place of the meeting required by section 88(2) (in these Rules, “the preliminary meeting”), to all those whom it is required by section 88(3) to invite to the preliminary meeting, and to any other person it chooses to invite.
 
@@ -155,7 +155,7 @@ The Examining authority shall make its initial assessment under section 88(1) (i
 
 (3) Where the Examining authority holds any other meeting for the purposes of the examination to which these Rules apply, it shall arrange for such notice to be given of that meeting as appears to the authority to be necessary.
 
-## 7. Preliminary meeting[^key-629d03131b540cf687681869db90dc51]
+## 7. Preliminary meeting[^c-629d03131b540cf687681869db90dc51]
 
 (1) The Examining authority shall preside at the preliminary meeting and shall determine—
 
@@ -167,15 +167,15 @@ The Examining authority shall make its initial assessment under section 88(1) (i
 
 (2) As soon as practicable after the end of the preliminary meeting, the Examining authority must prepare a note of the proceedings, and make the note available in accordance with rule 21 to all interested parties and anyone who attended the preliminary meeting.
 
-## 8. Timetable[^key-706c95f3755941acee54b0b4061b13e9]
+## 8. Timetable[^c-706c95f3755941acee54b0b4061b13e9]
 
-(1) At the preliminary meeting, or as soon as practicable after the end of that meeting, the Examining authority must set the timetable for its examination of the application [^key-a484d77a46bf4f81f29d16dff9f4daf6]..., specifying in the timetable—
+(1) At the preliminary meeting, or as soon as practicable after the end of that meeting, the Examining authority must set the timetable for its examination of the application [^c-a484d77a46bf4f81f29d16dff9f4daf6]..., specifying in the timetable—
 
 - (a) the date by which written representations must be received by the Examining authority;
 - (b) the period within which the Examining authority will ask questions in writing and seek further written information about—
-  - (i) any matter contained in the application [^key-43dfa374ed5e36128e766a5c4fb5faeb]... or a relevant representation;
+  - (i) any matter contained in the application [^c-43dfa374ed5e36128e766a5c4fb5faeb]... or a relevant representation;
   - (ii) any written representation; and
-  - (iii) any other matter it considers relevant to its examination of the application[^key-a484d77a46bf4f81f29d16dff9f4daf6]...;
+  - (iii) any other matter it considers relevant to its examination of the application[^c-a484d77a46bf4f81f29d16dff9f4daf6]...;
 - (c) the period within which the applicant will have the opportunity to comment in writing on—
   - (i) any relevant or written representations; and
   - (ii) any responses to written questions received from an interested party or others;
@@ -194,21 +194,21 @@ The Examining authority shall make its initial assessment under section 88(1) (i
 
 (3) The Examining authority may subsequently vary the timetable; and as soon as practicable after doing so it must notify the variation to all interested parties and any other person it has invited to the preliminary meeting.
 
-## 9. Notice of procedural decisions[^key-58ac3f58e60357c0bc84a7c6b508d329]
+## 9. Notice of procedural decisions[^c-58ac3f58e60357c0bc84a7c6b508d329]
 
 As soon as practicable after making any procedural decision, the Examining authority must notify all interested parties of the decision.
 
-## 10. Written representations[^key-58ee72ad310ae8b4ec394a870a0379d9]
+## 10. Written representations[^c-58ee72ad310ae8b4ec394a870a0379d9]
 
 (1) An interested party must ensure that any written representation that party may wish to make is received by the Examining authority by the date specified in the timetable set under rule 8, or otherwise under this rule, by the Examining authority.
 
-(2) The Examining authority may at any time specify the date (being a date not earlier than the end of a period of 21 days) *(Extent: E+W)* *(affected by repeal, see note)*[^key-56b0a51064d796c65d4b6989697bfd2b] by which a written representation to be submitted from an interested party must be received by the Examining authority.
+(2) The Examining authority may at any time specify the date (being a date not earlier than the end of a period of 21 days) *(Extent: E+W)* *(affected by repeal, see note)*[^c-56b0a51064d796c65d4b6989697bfd2b] by which a written representation to be submitted from an interested party must be received by the Examining authority.
 
 (3) The Examining authority may permit a written representation to be made by any person who is not an interested party.
 
-(4) Any person, other than the applicant, who submits a written representation, must identify in their written representation those parts of the application [^key-0fa0bbc591b26b288ca456314ce2effe]... with which they agree and those parts with which they do not agree, and must state the reasons for such disagreement.
+(4) Any person, other than the applicant, who submits a written representation, must identify in their written representation those parts of the application [^c-0fa0bbc591b26b288ca456314ce2effe]... with which they agree and those parts with which they do not agree, and must state the reasons for such disagreement.
 
-(5) The Examining authority must provide all interested parties with the opportunity to comment in writing on any written representation relevant to the examination of the application [^key-33965490930299859faa812e31130280]....
+(5) The Examining authority must provide all interested parties with the opportunity to comment in writing on any written representation relevant to the examination of the application [^c-33965490930299859faa812e31130280]....
 
 (6) The Examining authority may in writing request—
 
@@ -224,17 +224,17 @@ and shall specify the date by which these must be received by it.
 
 (9) The Examining authority must make all written representations, responses to written questions and further information received by it available in accordance with rule 21 as soon as is practicable*.*
 
-## 11. Appointment of assessor[^key-a77321e138794876f0e303eaff5c7bd9]
+## 11. Appointment of assessor[^c-a77321e138794876f0e303eaff5c7bd9]
 
 The Examining authority must notify all interested parties of the name of any assessor, appointed under section 100 (assessors), and of the particular matters on which the assessor is to assist the Examining authority.
 
-## 12. Appointment of barrister, solicitor or advocate[^key-34838626c50e259a2974b688c590a733]
+## 12. Appointment of barrister, solicitor or advocate[^c-34838626c50e259a2974b688c590a733]
 
 The Examining authority must notify all interested parties if a barrister, solicitor or advocate is appointed under section 101 (legal advice and assistance) give details of who has been appointed.
 
-## 13. Notification of hearings[^key-e267e2129c12afbcdeaa9a06786e46f0]
+## 13. Notification of hearings[^c-e267e2129c12afbcdeaa9a06786e46f0]
 
-(1) In fixing, and causing persons to be informed of, a deadline under section 92(2) (compulsory acquisition hearing) or 93(1) (open-floor hearing), the Examining authority must ensure that the deadline is at least 21 days after the date on which notice of the deadline is given *(Extent: E+W)* *(affected by repeal, see note)*[^key-199c81469aa821a583a417827a581b0e] give such notice of the deadline as appears to it to be reasonable *(Extent: E+W)*.
+(1) In fixing, and causing persons to be informed of, a deadline under section 92(2) (compulsory acquisition hearing) or 93(1) (open-floor hearing), the Examining authority must ensure that the deadline is at least 21 days after the date on which notice of the deadline is given *(Extent: E+W)* *(affected by repeal, see note)*[^c-199c81469aa821a583a417827a581b0e] give such notice of the deadline as appears to it to be reasonable *(Extent: E+W)*.
 
 (2) The Examining authority may disregard any request for an open-floor hearing or for a compulsory acquisition hearing to be held which is received after the deadline.
 
@@ -243,13 +243,13 @@ The Examining authority must notify all interested parties if a barrister, solic
 - (a) all interested parties of the date, time and place fixed for any open-floor hearing or issue-specific hearing; and
 - (b) affected persons of the date, time and place fixed for a compulsory acquisition hearing,
 
-and ensure that at least 21 days’ notice is given of any hearing *(Extent: E+W)* *(affected by repeal, see note)*[^key-20e6178bca4236fa5f939a6a622780e4] give such notice of any hearing as appears to it to be reasonable *(Extent: E+W)*.
+and ensure that at least 21 days’ notice is given of any hearing *(Extent: E+W)* *(affected by repeal, see note)*[^c-20e6178bca4236fa5f939a6a622780e4] give such notice of any hearing as appears to it to be reasonable *(Extent: E+W)*.
 
 (4) The Examining authority may vary the date, time and place fixed for any hearing and must give such notice of any variation as appears to it to be reasonable.
 
 (5) The place at which a hearing is to be held shall be determined by the Examining authority in consultation with the applicant and, where the Examining authority is satisfied, having regard to the nature of the application, that it is reasonable to do so, the Examining authority may direct that different parts of a hearing shall be held at different locations.
 
-(6) Unless the Examining authority otherwise directs, the applicant must not later than 21 days *(Extent: E+W)* *(affected by repeal, see note)*[^key-c6cf225e619ea1b1a5ac57ef7af6ed06] before the date fixed for the commencement of a hearing , and as soon as practicable after being informed of that date, the applicant must— *(Extent: E+W)*[^key-8cb2aade6f0890ed96705a09f1fd0156]—
+(6) Unless the Examining authority otherwise directs, the applicant must not later than 21 days *(Extent: E+W)* *(affected by repeal, see note)*[^c-c6cf225e619ea1b1a5ac57ef7af6ed06] before the date fixed for the commencement of a hearing , and as soon as practicable after being informed of that date, the applicant must— *(Extent: E+W)*[^c-8cb2aade6f0890ed96705a09f1fd0156]—
 
 - (a) post and maintain a notice of the hearing in a conspicuous place or (in the case of an application for an order making provision for land-based linear works more than 5 kilometres in length) at intervals of not more than 5 kilometres on, or as close as is reasonably practicable to, the land to which the application relates;
 - (b) post and maintain a notice of the hearing in one or more places where public notices are usually posted in the area to which the proposals contained in the application relate; and
@@ -257,7 +257,7 @@ and ensure that at least 21 days’ notice is given of any hearing *(Extent: E+W
 
 (7) In this rule “**by local advertisement**” means—
 
-- (a) by publication of the notice in a newspaper circulating in the locality in which the land to which the application relates is situated or on a website maintained by or on behalf of the applicant *(Extent: E+W)*[^key-f3c3468f137f7b551441872a1903d575]; and
+- (a) by publication of the notice in a newspaper circulating in the locality in which the land to which the application relates is situated or on a website maintained by or on behalf of the applicant *(Extent: E+W)*[^c-f3c3468f137f7b551441872a1903d575]; and
 - (b) where the Examining authority maintains a website for the purpose of advertisement of applications, by publication of the notice on the website.
 
 (8) Where a direction has been given under paragraph (5), paragraph (6) shall have effect with the substitution—
@@ -269,7 +269,7 @@ and ensure that at least 21 days’ notice is given of any hearing *(Extent: E+W
 
 (10) A notice of a hearing posted or published pursuant to paragraph (6) must contain a statement of the date, time and place of the hearing, and of the section of the 2008 Act under which the application has been made, together with a description of the proposals contained in the application sufficient to identify the location of the proposed development with or without reference to a specified map, and details of a place where a copy of the application can be inspected.
 
-## 14. Procedure at hearings[^key-64bd0ad3de79d80ce270a588620bef8f]
+## 14. Procedure at hearings[^c-64bd0ad3de79d80ce270a588620bef8f]
 
 (1) The Examining authority shall preside at any hearing and shall determine the procedure at the hearing.
 
@@ -280,7 +280,7 @@ and ensure that at least 21 days’ notice is given of any hearing *(Extent: E+W
 
 (3) Any oral representations must be based on either the relevant or written representations made by the person by whom or on whose behalf the oral representations are made; and where those relevant or written representations exceed 1500 words the person by whom they were made must prepare a summary.
 
-(4) Without prejudice to the Examining authority’s discretion as to the conduct of the hearing, nothing in paragraph (2) or (3) precludes a person from referring to issues which they consider relevant to the examination of an application [^key-394e426bc586f1cae7576f80c7f0b162]... but which are not issues identified by the Examining authority pursuant to paragraph (2) or included in their relevant or written representations.
+(4) Without prejudice to the Examining authority’s discretion as to the conduct of the hearing, nothing in paragraph (2) or (3) precludes a person from referring to issues which they consider relevant to the examination of an application [^c-394e426bc586f1cae7576f80c7f0b162]... but which are not issues identified by the Examining authority pursuant to paragraph (2) or included in their relevant or written representations.
 
 (5) The Examining authority[^f00004] shall be responsible for the oral questioning of a person giving evidence (“**A**”) except where, in the view of the Examining authority, oral questioning of A by another person (“**B**”) is necessary in order to ensure—
 
@@ -297,46 +297,46 @@ and ensure that at least 21 days’ notice is given of any hearing *(Extent: E+W
 
 (10) The Examining authority may permit any person, in addition to those who are entitled under section 91(3), 92(4) or 93(3), to make oral representations at a hearing.
 
-## 15. Hearings[^key-633080ebad2bd96812da9e3fc83aaf00]
+## 15. Hearings[^c-633080ebad2bd96812da9e3fc83aaf00]
 
 (1) Where the Examining authority is a Panel, it may hold any two or more hearings relating to the same application concurrently; and where it does so and decides to allocate functions under section 76 (allocation within the Panel of the Panel’s functions), it must notify all interested parties of the details of the allocation.
 
 (2) The Examining authority may consider all compulsory acquisition requests relating to the same application at the same compulsory acquisition hearing or at separate compulsory acquisition hearings.
 
-## 16. Site inspections[^key-dca82a1da223374603deab838e5e5c33]
+## 16. Site inspections[^c-dca82a1da223374603deab838e5e5c33]
 
-(1) The Examining authority may make an unaccompanied inspection of any site to which the application [^key-5d4877287d94fa5761931f9476b38607]... relate before or during its examination of the application [^key-5d4877287d94fa5761931f9476b38607]... without giving notice of its intention.
+(1) The Examining authority may make an unaccompanied inspection of any site to which the application [^c-5d4877287d94fa5761931f9476b38607]... relate before or during its examination of the application [^c-5d4877287d94fa5761931f9476b38607]... without giving notice of its intention.
 
-(2) The Examining authority may, before the completion of its examination of the application [^key-0f016af11931008e7f5f8b843208f16c]..., inspect any site to which the application [^key-0f016af11931008e7f5f8b843208f16c]... relate in the company of any interested party or their representative.
+(2) The Examining authority may, before the completion of its examination of the application [^c-0f016af11931008e7f5f8b843208f16c]..., inspect any site to which the application [^c-0f016af11931008e7f5f8b843208f16c]... relate in the company of any interested party or their representative.
 
 (3) Where the Examining authority intends to make an inspection of the kind referred to in paragraph (2), it must notify all interested parties of the date, time and place at which it proposes to make the inspection.
 
 (4) The Examining authority shall not be bound to defer an inspection of the kind referred to in paragraph (2) where an interested party is neither present nor represented at the time appointed.
 
-## 17. Further information[^key-97da510f3c69e5d61d575d49e9b404ed]
+## 17. Further information[^c-97da510f3c69e5d61d575d49e9b404ed]
 
-(1) The Examining authority may at any time before the completion of its examination of an application [^key-f579787ab1fe4f30214095ebef35ecc8]... request further information or written comments from an interested party, who must supply such information by the date and in the manner specified by the Examining authority.
+(1) The Examining authority may at any time before the completion of its examination of an application [^c-f579787ab1fe4f30214095ebef35ecc8]... request further information or written comments from an interested party, who must supply such information by the date and in the manner specified by the Examining authority.
 
 (2) The Examining authority shall on receiving any further information or written comments within the specified period, consider whether or not a further opportunity to comment in writing should be given to all interested parties and, if so, the Examining authority shall specify a period for making any further written comments.
 
-(3) The Examining authority and the Secretary of State[^key-c685084180c049a98e4c7afe3d9f6080] may disregard any information or written comments received after the date specified or in a manner other than that specified.
+(3) The Examining authority and the Secretary of State[^c-c685084180c049a98e4c7afe3d9f6080] may disregard any information or written comments received after the date specified or in a manner other than that specified.
 
-## 18. Additional copies[^key-03c4dc95301823b01943bc99d5e31ada]
+## 18. Additional copies[^c-03c4dc95301823b01943bc99d5e31ada]
 
 (1) The Examining authority may at any time before the completion of its examination of an application request from any interested party additional copies of any document sent to the Examining authority during the examination and specify the period within which and the manner in which the copies are to be supplied.
 
 (2) The interested party must supply the copies within the period and in the manner specified by the Examining authority.
 
-## 19. Procedure after completion of examination[^key-b0e6336877c2fcf73818bda2208a39bd]
+## 19. Procedure after completion of examination[^c-b0e6336877c2fcf73818bda2208a39bd]
 
-(1)[^key-1f6ae2f6f206b10a80f02fd8fb49913a] After the completion of its examination, the Examining authority must make a written report to the Secretary of State.
+(1)[^c-1f6ae2f6f206b10a80f02fd8fb49913a] After the completion of its examination, the Examining authority must make a written report to the Secretary of State.
 
 (2) The report must include the Examining authority’s—
 
-- (a) findings and conclusions in respect of the application [^key-5d68741758cc8a216dd184b8ad38b9c0]...; and
+- (a) findings and conclusions in respect of the application [^c-5d68741758cc8a216dd184b8ad38b9c0]...; and
 - (b) recommendation as to the decision to be made on the application.
 
-(3) If after the completion of the Examining authority’s examination, the Secretary of State[^key-bcb1f352636422ab82a4f8d82f925a38]—
+(3) If after the completion of the Examining authority’s examination, the Secretary of State[^c-bcb1f352636422ab82a4f8d82f925a38]—
 
 - (a) differs from the Examining authority on any matter of fact mentioned in, or appearing to the Secretary of State to be material to, a conclusion reached by the Examining authority; or
 - (b) takes into consideration any new evidence or new matter of fact,
@@ -352,16 +352,16 @@ and is for that reason disposed to disagree with a recommendation made by the Ex
 - (b) for “written representation” there shall be substituted “representation in writing”; and
 - (c) paragraphs (2) and (4) shall not apply .
 
-## 20. Procedure following quashing of decision[^key-3feb066f40bd3e56dab2e51fab286a58]
+## 20. Procedure following quashing of decision[^c-3feb066f40bd3e56dab2e51fab286a58]
 
-(1)[^key-2cae42b18203704dd45ca05689980f6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-2cae42b18203704dd45ca05689980f6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where a decision of the Secretary of State in respect of an application is quashed in proceedings before any court, the Secretary of State—
 
 - (a) shall send to all interested parties a written statement of the matters with respect to which further representations in writing are invited for the purposes of the Secretary of State’s further consideration of the application;
 - (b) shall give all interested parties the opportunity of making representations in writing to the Secretary of State in respect of those matters.
 
-## 21. Availability and inspection of representations and documents[^key-bc0e79ea36bd123e9ea3d2c7cd1f38c4]
+## 21. Availability and inspection of representations and documents[^c-bc0e79ea36bd123e9ea3d2c7cd1f38c4]
 
 (1) Relevant representations, written representations or documents must be made available by the Secretary of State to all interested parties and to anyone who requests an opportunity to inspect and take copies of them.
 
@@ -385,7 +385,7 @@ and is for that reason disposed to disagree with a recommendation made by the Ex
 
 (4) In this rule “**document**” means any notice, report or other document required or authorised to be sent or prepared under these Rules or under the 2008 Act
 
-## 22. Form and service of notices etc.[^key-b4d6dac4e7fb90bd1e8689622406f302]
+## 22. Form and service of notices etc.[^c-b4d6dac4e7fb90bd1e8689622406f302]
 
 (1) Where under any provision of these Rules a person is required to notify another person or body of something, that notification must be in writing.
 
@@ -393,21 +393,21 @@ and is for that reason disposed to disagree with a recommendation made by the Ex
 
 - (a) by sending it by post, addressed to that person at that person’s usual or last known place of abode, or in a case where an address for service has been given by that person, at that address;
 - (b) by sending it in a prepaid registered letter, or by recorded delivery service addressed to that person at that person’s usual or last known place of residence, or in a case where an address for service has been give by that person, at that address; or
-- (c) subject to paragraphs (3) to (6) *(Extent: E+W)* *(affected by repeal, see note)*[^key-115f9954e80b0afeda3bd9fb07a01237], by electronic transmission to such address as may for the time being be specified by the person for that purpose.
+- (c) subject to paragraphs (3) to (6) *(Extent: E+W)* *(affected by repeal, see note)*[^c-115f9954e80b0afeda3bd9fb07a01237], by electronic transmission to such address as may for the time being be specified by the person for that purpose.
 
-(3 (Extent: E+W) (affected by repeal, see note))[^key-92cd601aa8b1c41655a25e8ec44c6003] Where a representation, notice or other document required to be sent for any purpose of these Rules is sent by electronic transmission, the requirement shall be taken to be fulfilled where the recipient of the representation, notice or other document has consented, either in writing or by electronic transmission, to the use of electronic transmission. *(Extent: E+W)* *(affected by repeal, see note)*[^key-92cd601aa8b1c41655a25e8ec44c6003]
+(3 (Extent: E+W) (affected by repeal, see note))[^c-92cd601aa8b1c41655a25e8ec44c6003] Where a representation, notice or other document required to be sent for any purpose of these Rules is sent by electronic transmission, the requirement shall be taken to be fulfilled where the recipient of the representation, notice or other document has consented, either in writing or by electronic transmission, to the use of electronic transmission. *(Extent: E+W)* *(affected by repeal, see note)*[^c-92cd601aa8b1c41655a25e8ec44c6003]
 
-(4 (Extent: E+W) (affected by repeal, see note))[^key-92cd601aa8b1c41655a25e8ec44c6003] Where the recipient of a representation, notice or other document served or sent by electronic transmission notifies the sender within 7 days of receipt that the recipient requires a paper copy of all or any part of that representation, notice or other document, the sender must provide such a copy as soon as is reasonably practicable. *(Extent: E+W)* *(affected by repeal, see note)*[^key-92cd601aa8b1c41655a25e8ec44c6003]
+(4 (Extent: E+W) (affected by repeal, see note))[^c-92cd601aa8b1c41655a25e8ec44c6003] Where the recipient of a representation, notice or other document served or sent by electronic transmission notifies the sender within 7 days of receipt that the recipient requires a paper copy of all or any part of that representation, notice or other document, the sender must provide such a copy as soon as is reasonably practicable. *(Extent: E+W)* *(affected by repeal, see note)*[^c-92cd601aa8b1c41655a25e8ec44c6003]
 
-(5 (Extent: E+W) (affected by repeal, see note))[^key-92cd601aa8b1c41655a25e8ec44c6003] A person may revoke their consent to the use of electronic transmission for any purpose of these Rules by giving notice to that effect in writing or by electronic transmission, specifying the purpose for which electronic transmission may not be used and the date on which revocation is to take effect, being not less that 7 days after the date on which the notice is given. *(Extent: E+W)* *(affected by repeal, see note)*[^key-92cd601aa8b1c41655a25e8ec44c6003]
+(5 (Extent: E+W) (affected by repeal, see note))[^c-92cd601aa8b1c41655a25e8ec44c6003] A person may revoke their consent to the use of electronic transmission for any purpose of these Rules by giving notice to that effect in writing or by electronic transmission, specifying the purpose for which electronic transmission may not be used and the date on which revocation is to take effect, being not less that 7 days after the date on which the notice is given. *(Extent: E+W)* *(affected by repeal, see note)*[^c-92cd601aa8b1c41655a25e8ec44c6003]
 
-(6 (Extent: E+W) (affected by repeal, see note))[^key-92cd601aa8b1c41655a25e8ec44c6003] A revocation under paragraph (5) shall take effect on the date specified in the notice. *(Extent: E+W)* *(affected by repeal, see note)*[^key-92cd601aa8b1c41655a25e8ec44c6003]
+(6 (Extent: E+W) (affected by repeal, see note))[^c-92cd601aa8b1c41655a25e8ec44c6003] A revocation under paragraph (5) shall take effect on the date specified in the notice. *(Extent: E+W)* *(affected by repeal, see note)*[^c-92cd601aa8b1c41655a25e8ec44c6003]
 
-## 23. Allowing further time[^key-711deec94ee34812e320554fb15091d9]
+## 23. Allowing further time[^c-711deec94ee34812e320554fb15091d9]
 
 The Secretary of State or the Examining authority may at any time and in any particular case allow further time for the taking of any step which must or may be taken by virtue of these Rules.
 
-## 24. Closed evidence not to be disclosed[^key-bc7732020531bc4ba7762d491902dd60]
+## 24. Closed evidence not to be disclosed[^c-bc7732020531bc4ba7762d491902dd60]
 
 Nothing in these Rules shall be taken to require or permit closed evidence to be disclosed to a person other than—
 
@@ -431,13 +431,13 @@ Rules 1 and 2
 
 ### PART 1 — Interpretation
 
-**1.**[^key-5f77a211340bbed77d2cd23f9d5dbe0a] In this Schedule—
+**1.**[^c-5f77a211340bbed77d2cd23f9d5dbe0a] In this Schedule—
 
 - “**application**” means an application for development consent under section 37 (applications for orders granting development consent) to which closed evidence relates and includes—
   - (a) part of the application;
   - (b) any accompanying documents and further representations made by the applicant; and
   - (c) any amendments made to the application;
-- “**appointed representative**” means a person appointed under section 95A[^key-b9ea312ff1e194bbd43ed76c85417a3b] to represent the interests of a precluded person;
+- “**appointed representative**” means a person appointed under section 95A[^c-b9ea312ff1e194bbd43ed76c85417a3b] to represent the interests of a precluded person;
 - “**examiner**” means the person appointed under paragraph 9(1);
 - “**hearing**” means the hearing at which closed evidence is to be examined;
 - “party”, except in the expression “interested party”, means—
@@ -447,11 +447,11 @@ Rules 1 and 2
 
 ### PART 2 — Request for a direction
 
-#### 2. Acknowledgement of request for a direction[^key-ac9a8e6c242ed3c25ff873cda0cad99e]
+#### 2. Acknowledgement of request for a direction[^c-ac9a8e6c242ed3c25ff873cda0cad99e]
 
 As soon as practicable after receiving a request for a direction the Secretary of State shall acknowledge receipt of the request in writing.
 
-#### 3. Publicity[^key-a71f7026b8703f6bc35b36d85e47083c]
+#### 3. Publicity[^c-a71f7026b8703f6bc35b36d85e47083c]
 
 (1) As soon as practicable after receiving a request for a direction the request shall be publicised by the Secretary of State in accordance with paragraphs (2) and (3).
 
@@ -474,7 +474,7 @@ As soon as practicable after receiving a request for a direction the Secretary o
 - (a) by publication of the notice in a newspaper circulating in the locality in which the land to which the application relates is situated; and
 - (b) where the Secretary of State maintains a website for the purpose of advertisement of applications, by publication of the notice on the website.
 
-#### 4. Notice of decision in respect of request for a direction[^key-cd446feffd2ad0cc05457a185104c306]
+#### 4. Notice of decision in respect of request for a direction[^c-cd446feffd2ad0cc05457a185104c306]
 
 (1) As soon as practicable after determining whether or not to give a direction, the Secretary of State shall notify the decision to—
 
@@ -485,13 +485,13 @@ but nothing in this paragraph requires or permits the Secretary of State to give
 
 (2) Where a direction is given the Secretary of State shall, at the same time as notifying the decision in accordance with paragraph (1), send a copy of the direction to—
 
-- (a) the person who requested the direction; and[^key-dac54dfa777fe2f5d23e781a1f0f198a]
-- (b)[^key-250d411974f92e6af2bf86b9ae06e09d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the person who requested the direction; and[^c-dac54dfa777fe2f5d23e781a1f0f198a]
+- (b)[^c-250d411974f92e6af2bf86b9ae06e09d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) any precluded person or their appointed representative.
 
 ### PART 3 — Examination of closed evidence
 
-#### 5. Functions of appointed representative[^key-9fd4d4bb31e801348e01d787f264828a]
+#### 5. Functions of appointed representative[^c-9fd4d4bb31e801348e01d787f264828a]
 
 (1) The provisions of this paragraph apply to an appointed representative.
 
@@ -520,7 +520,7 @@ but nothing in this paragraph requires or permits the Secretary of State to give
 - (a) the person who supplied the closed evidence to the Secretary of State; or
 - (b) a person specified, or of any description specified, in the direction.
 
-#### 6. Pre-hearing meeting[^key-8022c8bc26680d303fab1fce53cd9d0f]
+#### 6. Pre-hearing meeting[^c-8022c8bc26680d303fab1fce53cd9d0f]
 
 (1) The Secretary of State may hold a pre-hearing meeting and shall give the parties, and such other persons as the Secretary of State may invite, not less than 14 days’ notice of the date, time and place fixed for the holding of the pre-hearing meeting.
 
@@ -542,13 +542,13 @@ but nothing in this paragraph requires or permits the Secretary of State to give
 
 (6) In this paragraph, “**procedural decision**” means a decision about how the closed evidence is to be examined.
 
-#### 7. Notice of hearing[^key-939deedeb08479f2a9e7b198ef4d292b]
+#### 7. Notice of hearing[^c-939deedeb08479f2a9e7b198ef4d292b]
 
 (1) Unless the Secretary of State agrees a lesser period of notice with the parties and anyone invited to the pre-hearing meeting, the Secretary of State must give to them not less than 14 days’ notice of the date, time and place fixed for the holding of the hearing.
 
 (2) The Secretary of State may vary the date, time or place for the holding of the hearing and shall give the parties such notice of any variation as appears to the Secretary of State to be reasonable.
 
-#### 8. Hearing procedure[^key-6863c5baffa0f1f82fdd15be4df6fb9f]
+#### 8. Hearing procedure[^c-6863c5baffa0f1f82fdd15be4df6fb9f]
 
 (1) The Secretary of State shall determine the procedure at the hearing.
 
@@ -568,7 +568,7 @@ but nothing in this paragraph requires or permits the Secretary of State to give
 
 (5) The Secretary of State may from time to time adjourn a hearing and, if the date, time and place of the adjourned hearing are announced at the hearing before the adjournment, no further notice shall be required.
 
-#### 9. Appointment of an examiner[^key-e9bf780de6c25dbc026fe015863bbb3b]
+#### 9. Appointment of an examiner[^c-e9bf780de6c25dbc026fe015863bbb3b]
 
 (1) The Secretary of State may appoint an examiner to preside at the hearing.
 
@@ -576,7 +576,7 @@ but nothing in this paragraph requires or permits the Secretary of State to give
 
 (3) Where an examiner has been appointed, paragraphs 8 and 12 shall apply in relation to the examiner as if for “the Secretary of State”, there were substituted “the examiner”.
 
-#### 10. Procedure after a hearing[^key-5b6232400952227ee9432ceed2a2abf6]
+#### 10. Procedure after a hearing[^c-5b6232400952227ee9432ceed2a2abf6]
 
 (1) This paragraph applies if an examiner has been appointed.
 
@@ -587,11 +587,11 @@ but nothing in this paragraph requires or permits the Secretary of State to give
 
 (3) The report referred to in paragraph (2) must only be disclosed to the parties and any person specified, or of a description specified, in the direction.
 
-#### 11. Further time[^key-6347f0ae4d39d1a60f0032ed47041b44]
+#### 11. Further time[^c-6347f0ae4d39d1a60f0032ed47041b44]
 
 The Secretary of State may at any time and in any particular case allow further time for the taking of any step which must or may to be taken virtue of this Schedule.
 
-#### 12. Site inspections[^key-780c6bb97d6a8ea7c5d4aaae26e8a984]
+#### 12. Site inspections[^c-780c6bb97d6a8ea7c5d4aaae26e8a984]
 
 (1) Before or during the examination of the closed evidence, the Secretary of State may make an unaccompanied inspection of any site to which the closed evidence or application relates, without giving notice of his intention to the parties.
 
@@ -601,7 +601,7 @@ The Secretary of State may at any time and in any particular case allow further 
 
 (4) The Secretary of State shall not be bound to defer an inspection of the kind referred to in sub-paragraph (2) where a party is not present at the time appointed.
 
-#### 13. Procedure after completion of examination[^key-d5db784042ae7a28ed12484f583698d8]
+#### 13. Procedure after completion of examination[^c-d5db784042ae7a28ed12484f583698d8]
 
 (1) The Secretary of State may disregard any representations received after the completion of the examination.
 
@@ -621,13 +621,13 @@ and is for that reason disposed to disagree with any recommendation made by the 
 
 (5) In this paragraph “**completion of the examination**” means the completion of the examination of the closed evidence.
 
-#### 14. Reasons for decision to grant or refuse development consent[^key-e518402d0d76e81222a3c2f7d8199ee5]
+#### 14. Reasons for decision to grant or refuse development consent[^c-e518402d0d76e81222a3c2f7d8199ee5]
 
 (1) The Secretary of State may refer to the report of an examiner in the statement of reasons prepared in accordance with section 116 (reasons for decision to grant or refuse development consent) but must not disclose the closed evidence.
 
 (2) The Secretary of State may refer to the closed evidence in the version of the statement of reasons which is sent to the parties in accordance with section 116.
 
-#### 15. Procedure following quashing of decision[^key-316eff4601e8968201917bdbdeb5cd62]
+#### 15. Procedure following quashing of decision[^c-316eff4601e8968201917bdbdeb5cd62]
 
 (1) This paragraph applies where the Secretary of State’s decision on an application is quashed in proceedings before any court.
 
@@ -668,156 +668,156 @@ A combined impact assessment has been prepared for these Rules and for the Infra
 
 [^f00001]: Footnote: [2008 c.29](https://www.legislation.gov.uk/ukpga/2008/29). See section 235(1) for the meaning of “prescribed”.
 
-[^key-b60e45972df48e54fc1722bec4a0b817]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2010/103/rule/1) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-b60e45972df48e54fc1722bec4a0b817]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2010/103/rule/1) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-4801983f3420f3ad194a53cd4f43fde6]: Textual amendment: Words in [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/2) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/3)
+[^c-4801983f3420f3ad194a53cd4f43fde6]: Textual amendment: Words in [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/2) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/3)
 
-[^key-bb26215985829055ab7239516bb3d790]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2010/103/rule/2) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-bb26215985829055ab7239516bb3d790]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2010/103/rule/2) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-2e85e8a4c3f584083aed0af14a5f55be]: Textual amendment: Words in Rules substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/2)
+[^c-2e85e8a4c3f584083aed0af14a5f55be]: Textual amendment: Words in Rules substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/2)
 
-[^key-6dadade04959f66aaeef39ba41a372f0]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2010/103/rule/2) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/4/a)
+[^c-6dadade04959f66aaeef39ba41a372f0]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2010/103/rule/2) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/4/a)
 
-[^key-3edb7c5be76c35c0fe53498093b7248a]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2010/103/rule/2) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/4/b)
+[^c-3edb7c5be76c35c0fe53498093b7248a]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2010/103/rule/2) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/4/b)
 
-[^key-3f308dd2b71a0805ce065db07c36183c]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2010/103/rule/2) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(4)(c)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/4/c)
+[^c-3f308dd2b71a0805ce065db07c36183c]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2010/103/rule/2) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(4)(c)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/4/c)
 
-[^key-b94850567762bf324863b3cf5a6118ee]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2010/103/rule/2) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(4)(d)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/4/d)
+[^c-b94850567762bf324863b3cf5a6118ee]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2010/103/rule/2) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(4)(d)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/4/d)
 
 [^f00003]: Footnote: See section 102(1) (interpretation of Chapter 4: “interested party” and other expressions).
 
-[^key-ae9faf085eafccd4e887ea59af1668f3]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2010/103/rule/2) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(4)(e)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/4/e)
+[^c-ae9faf085eafccd4e887ea59af1668f3]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2010/103/rule/2) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(4)(e)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/4/e)
 
-[^key-9c578ee6675f94cf1ff82737cc0dc08f]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2010/103/rule/3) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-9c578ee6675f94cf1ff82737cc0dc08f]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2010/103/rule/3) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-b3de11206c6da35c0c8ebba094a1872c]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2010/103/rule/4) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-b3de11206c6da35c0c8ebba094a1872c]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2010/103/rule/4) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-7218a6c75722c83e9ceda03ff5e3ac3e]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/4/1) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/5/a)
+[^c-7218a6c75722c83e9ceda03ff5e3ac3e]: Textual amendment: Words in [rule 4(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/4/1) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/5/a)
 
-[^key-a78fce7367a8af4efb39c6e1975ea81e]: Textual amendment: Words in [rule 4(2)(b)](https://www.legislation.gov.uk/uksi/2010/103/rule/4/2/b) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/5/a)
+[^c-a78fce7367a8af4efb39c6e1975ea81e]: Textual amendment: Words in [rule 4(2)(b)](https://www.legislation.gov.uk/uksi/2010/103/rule/4/2/b) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/5/a)
 
-[^key-c89888da9324b0f7a6de29ccdc676538]: Textual amendment: Words in [rule 4(2)](https://www.legislation.gov.uk/uksi/2010/103/rule/4/2) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/5/b)
+[^c-c89888da9324b0f7a6de29ccdc676538]: Textual amendment: Words in [rule 4(2)](https://www.legislation.gov.uk/uksi/2010/103/rule/4/2) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/5/b)
 
-[^key-a12684f73860a48f782c8dfebb28cb81]: Textual amendment: Words in [rule 4(3)](https://www.legislation.gov.uk/uksi/2010/103/rule/4/3) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(5)(c)(i)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/5/c/i)
+[^c-a12684f73860a48f782c8dfebb28cb81]: Textual amendment: Words in [rule 4(3)](https://www.legislation.gov.uk/uksi/2010/103/rule/4/3) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(5)(c)(i)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/5/c/i)
 
-[^key-015fec223331ade5e86816750cd38eba]: Textual amendment: Words in [rule 4(3)(b)](https://www.legislation.gov.uk/uksi/2010/103/rule/4/3/b) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/5/c/ii)
+[^c-015fec223331ade5e86816750cd38eba]: Textual amendment: Words in [rule 4(3)(b)](https://www.legislation.gov.uk/uksi/2010/103/rule/4/3/b) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/5/c/ii)
 
-[^key-7687412ccb8dfc017a3d3ab592c6d76e]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2010/103/rule/5) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-7687412ccb8dfc017a3d3ab592c6d76e]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2010/103/rule/5) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-0bc55fdb1728705e1976acb218b23261]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2010/103/rule/6) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-0bc55fdb1728705e1976acb218b23261]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2010/103/rule/6) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-629d03131b540cf687681869db90dc51]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2010/103/rule/7) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-629d03131b540cf687681869db90dc51]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2010/103/rule/7) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-706c95f3755941acee54b0b4061b13e9]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2010/103/rule/8) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-706c95f3755941acee54b0b4061b13e9]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2010/103/rule/8) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-a484d77a46bf4f81f29d16dff9f4daf6]: Textual amendment: Words in [rule 8(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/8/1) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/6)
+[^c-a484d77a46bf4f81f29d16dff9f4daf6]: Textual amendment: Words in [rule 8(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/8/1) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/6)
 
-[^key-43dfa374ed5e36128e766a5c4fb5faeb]: Textual amendment: Words in [rule 8(1)(b)(i)](https://www.legislation.gov.uk/uksi/2010/103/rule/8/1/b/i) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/7)
+[^c-43dfa374ed5e36128e766a5c4fb5faeb]: Textual amendment: Words in [rule 8(1)(b)(i)](https://www.legislation.gov.uk/uksi/2010/103/rule/8/1/b/i) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/7)
 
-[^key-58ac3f58e60357c0bc84a7c6b508d329]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2010/103/rule/9) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-58ac3f58e60357c0bc84a7c6b508d329]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2010/103/rule/9) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-58ee72ad310ae8b4ec394a870a0379d9]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2010/103/rule/10) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-58ee72ad310ae8b4ec394a870a0379d9]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2010/103/rule/10) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-56b0a51064d796c65d4b6989697bfd2b]: Textual amendment: Words in [rule 10(2)](https://www.legislation.gov.uk/uksi/2010/103/rule/10/2) omitted (E.W.) (30.4.2024) by virtue of [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2024/317/rule/3) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
+[^c-56b0a51064d796c65d4b6989697bfd2b]: Textual amendment: Words in [rule 10(2)](https://www.legislation.gov.uk/uksi/2010/103/rule/10/2) omitted (E.W.) (30.4.2024) by virtue of [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [3](https://www.legislation.gov.uk/uksi/2024/317/rule/3) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
 
-[^key-0fa0bbc591b26b288ca456314ce2effe]: Textual amendment: Words in [rule 10(4)](https://www.legislation.gov.uk/uksi/2010/103/rule/10/4) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/6)
+[^c-0fa0bbc591b26b288ca456314ce2effe]: Textual amendment: Words in [rule 10(4)](https://www.legislation.gov.uk/uksi/2010/103/rule/10/4) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/6)
 
-[^key-33965490930299859faa812e31130280]: Textual amendment: Words in [rule 10(5)](https://www.legislation.gov.uk/uksi/2010/103/rule/10/5) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/6)
+[^c-33965490930299859faa812e31130280]: Textual amendment: Words in [rule 10(5)](https://www.legislation.gov.uk/uksi/2010/103/rule/10/5) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/6)
 
-[^key-a77321e138794876f0e303eaff5c7bd9]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2010/103/rule/11) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-a77321e138794876f0e303eaff5c7bd9]: Commencement: [Rule 11](https://www.legislation.gov.uk/uksi/2010/103/rule/11) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-34838626c50e259a2974b688c590a733]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2010/103/rule/12) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-34838626c50e259a2974b688c590a733]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2010/103/rule/12) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-e267e2129c12afbcdeaa9a06786e46f0]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2010/103/rule/13) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-e267e2129c12afbcdeaa9a06786e46f0]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2010/103/rule/13) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-199c81469aa821a583a417827a581b0e]: Textual amendment: Words in [rule 13(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/13/1) substituted (E.W.) (30.4.2024) by [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2024/317/rule/4/a) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
+[^c-199c81469aa821a583a417827a581b0e]: Textual amendment: Words in [rule 13(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/13/1) substituted (E.W.) (30.4.2024) by [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2024/317/rule/4/a) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
 
-[^key-20e6178bca4236fa5f939a6a622780e4]: Textual amendment: Words in [rule 13(3)](https://www.legislation.gov.uk/uksi/2010/103/rule/13/3) substituted (E.W.) (30.4.2024) by [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2024/317/rule/4/b) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
+[^c-20e6178bca4236fa5f939a6a622780e4]: Textual amendment: Words in [rule 13(3)](https://www.legislation.gov.uk/uksi/2010/103/rule/13/3) substituted (E.W.) (30.4.2024) by [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2024/317/rule/4/b) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
 
-[^key-c6cf225e619ea1b1a5ac57ef7af6ed06]: Textual amendment: Words in [rule 13(6)](https://www.legislation.gov.uk/uksi/2010/103/rule/13/6) omitted (E.W.) (30.4.2024) by virtue of [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/2024/317/rule/4/c/i) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
+[^c-c6cf225e619ea1b1a5ac57ef7af6ed06]: Textual amendment: Words in [rule 13(6)](https://www.legislation.gov.uk/uksi/2010/103/rule/13/6) omitted (E.W.) (30.4.2024) by virtue of [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/2024/317/rule/4/c/i) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
 
-[^key-8cb2aade6f0890ed96705a09f1fd0156]: Textual amendment: Words in [rule 13(6)](https://www.legislation.gov.uk/uksi/2010/103/rule/13/6) inserted (E.W.) (30.4.2024) by [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2024/317/rule/4/c/ii) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
+[^c-8cb2aade6f0890ed96705a09f1fd0156]: Textual amendment: Words in [rule 13(6)](https://www.legislation.gov.uk/uksi/2010/103/rule/13/6) inserted (E.W.) (30.4.2024) by [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2024/317/rule/4/c/ii) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
 
-[^key-f3c3468f137f7b551441872a1903d575]: Textual amendment: Words in [rule 13(7)(a)](https://www.legislation.gov.uk/uksi/2010/103/rule/13/7/a) inserted (E.W.) (30.4.2024) by [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2024/317/rule/4/d) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
+[^c-f3c3468f137f7b551441872a1903d575]: Textual amendment: Words in [rule 13(7)(a)](https://www.legislation.gov.uk/uksi/2010/103/rule/13/7/a) inserted (E.W.) (30.4.2024) by [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2024/317/rule/4/d) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
 
-[^key-64bd0ad3de79d80ce270a588620bef8f]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2010/103/rule/14) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-64bd0ad3de79d80ce270a588620bef8f]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2010/103/rule/14) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-394e426bc586f1cae7576f80c7f0b162]: Textual amendment: Words in [rule 14(4)](https://www.legislation.gov.uk/uksi/2010/103/rule/14/4) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/6)
+[^c-394e426bc586f1cae7576f80c7f0b162]: Textual amendment: Words in [rule 14(4)](https://www.legislation.gov.uk/uksi/2010/103/rule/14/4) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/6)
 
 [^f00004]: Footnote: By virtue of section 101(2), any oral questioning of a person making representations at a hearing may be carried out on the Examining authority’s behalf by a barrister, solicitor or advocate appointed under section 101(1) of the 2008 Act.
 
-[^key-633080ebad2bd96812da9e3fc83aaf00]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2010/103/rule/15) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-633080ebad2bd96812da9e3fc83aaf00]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2010/103/rule/15) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-dca82a1da223374603deab838e5e5c33]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2010/103/rule/16) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-dca82a1da223374603deab838e5e5c33]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2010/103/rule/16) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-5d4877287d94fa5761931f9476b38607]: Textual amendment: Words in [rule 16(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/16/1) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/6)
+[^c-5d4877287d94fa5761931f9476b38607]: Textual amendment: Words in [rule 16(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/16/1) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/6)
 
-[^key-0f016af11931008e7f5f8b843208f16c]: Textual amendment: Words in [rule 16(2)](https://www.legislation.gov.uk/uksi/2010/103/rule/16/2) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/6)
+[^c-0f016af11931008e7f5f8b843208f16c]: Textual amendment: Words in [rule 16(2)](https://www.legislation.gov.uk/uksi/2010/103/rule/16/2) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/6)
 
-[^key-97da510f3c69e5d61d575d49e9b404ed]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2010/103/rule/17) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-97da510f3c69e5d61d575d49e9b404ed]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2010/103/rule/17) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-f579787ab1fe4f30214095ebef35ecc8]: Textual amendment: Words in [rule 17(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/17/1) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/6)
+[^c-f579787ab1fe4f30214095ebef35ecc8]: Textual amendment: Words in [rule 17(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/17/1) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/6)
 
-[^key-c685084180c049a98e4c7afe3d9f6080]: Textual amendment: Words in [rule 17(3)](https://www.legislation.gov.uk/uksi/2010/103/rule/17/3) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/8)
+[^c-c685084180c049a98e4c7afe3d9f6080]: Textual amendment: Words in [rule 17(3)](https://www.legislation.gov.uk/uksi/2010/103/rule/17/3) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/8)
 
-[^key-03c4dc95301823b01943bc99d5e31ada]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2010/103/rule/18) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-03c4dc95301823b01943bc99d5e31ada]: Commencement: [Rule 18](https://www.legislation.gov.uk/uksi/2010/103/rule/18) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-b0e6336877c2fcf73818bda2208a39bd]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2010/103/rule/19) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-b0e6336877c2fcf73818bda2208a39bd]: Commencement: [Rule 19](https://www.legislation.gov.uk/uksi/2010/103/rule/19) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-1f6ae2f6f206b10a80f02fd8fb49913a]: Textual amendment: Words in [rule 19(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/19/1) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(9)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/9/a)
+[^c-1f6ae2f6f206b10a80f02fd8fb49913a]: Textual amendment: Words in [rule 19(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/19/1) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(9)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/9/a)
 
-[^key-5d68741758cc8a216dd184b8ad38b9c0]: Textual amendment: Words in [rule 19(2)(a)](https://www.legislation.gov.uk/uksi/2010/103/rule/19/2/a) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(9)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/9/b)
+[^c-5d68741758cc8a216dd184b8ad38b9c0]: Textual amendment: Words in [rule 19(2)(a)](https://www.legislation.gov.uk/uksi/2010/103/rule/19/2/a) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(9)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/9/b)
 
-[^key-bcb1f352636422ab82a4f8d82f925a38]: Textual amendment: Words in [rule 19](https://www.legislation.gov.uk/uksi/2010/103/rule/19) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/8)
+[^c-bcb1f352636422ab82a4f8d82f925a38]: Textual amendment: Words in [rule 19](https://www.legislation.gov.uk/uksi/2010/103/rule/19) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(8)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/8)
 
-[^key-3feb066f40bd3e56dab2e51fab286a58]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2010/103/rule/20) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-3feb066f40bd3e56dab2e51fab286a58]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2010/103/rule/20) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-2cae42b18203704dd45ca05689980f6c]: Textual amendment: [Rule 20(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/20/1) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/10)
+[^c-2cae42b18203704dd45ca05689980f6c]: Textual amendment: [Rule 20(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/20/1) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(10)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/10)
 
-[^key-bc0e79ea36bd123e9ea3d2c7cd1f38c4]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2010/103/rule/21) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-bc0e79ea36bd123e9ea3d2c7cd1f38c4]: Commencement: [Rule 21](https://www.legislation.gov.uk/uksi/2010/103/rule/21) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-b4d6dac4e7fb90bd1e8689622406f302]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2010/103/rule/22) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-b4d6dac4e7fb90bd1e8689622406f302]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2010/103/rule/22) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-115f9954e80b0afeda3bd9fb07a01237]: Textual amendment: Words in [rule 22(2)(c)](https://www.legislation.gov.uk/uksi/2010/103/rule/22/2/c) omitted (E.W.) (30.4.2024) by virtue of [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2024/317/rule/5/a) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
+[^c-115f9954e80b0afeda3bd9fb07a01237]: Textual amendment: Words in [rule 22(2)(c)](https://www.legislation.gov.uk/uksi/2010/103/rule/22/2/c) omitted (E.W.) (30.4.2024) by virtue of [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2024/317/rule/5/a) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
 
-[^key-92cd601aa8b1c41655a25e8ec44c6003]: Textual amendment: [Rule 22(3)-(6)](https://www.legislation.gov.uk/uksi/2010/103/rule/22/3) omitted (E.W.) (30.4.2024) by virtue of [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2024/317/rule/5/b) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
+[^c-92cd601aa8b1c41655a25e8ec44c6003]: Textual amendment: [Rule 22(3)-(6)](https://www.legislation.gov.uk/uksi/2010/103/rule/22/3) omitted (E.W.) (30.4.2024) by virtue of [The Infrastructure Planning (Examination Procedure) (Amendment) Rules 2024 (S.I. 2024/317)](https://www.legislation.gov.uk/uksi/2024/317), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/317/rule/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2024/317/rule/5/b) (with [rule 6](https://www.legislation.gov.uk/uksi/2024/317/rule/6))
 
-[^key-711deec94ee34812e320554fb15091d9]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2010/103/rule/23) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-711deec94ee34812e320554fb15091d9]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2010/103/rule/23) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-bc7732020531bc4ba7762d491902dd60]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2010/103/rule/24) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-bc7732020531bc4ba7762d491902dd60]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2010/103/rule/24) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-5f77a211340bbed77d2cd23f9d5dbe0a]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/1) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-5f77a211340bbed77d2cd23f9d5dbe0a]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/1) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-b9ea312ff1e194bbd43ed76c85417a3b]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/1) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(11)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/11/a)
+[^c-b9ea312ff1e194bbd43ed76c85417a3b]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/1) substituted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(11)(a)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/11/a)
 
-[^key-ac9a8e6c242ed3c25ff873cda0cad99e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/2) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-ac9a8e6c242ed3c25ff873cda0cad99e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/2) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-a71f7026b8703f6bc35b36d85e47083c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/3) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-a71f7026b8703f6bc35b36d85e47083c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/3) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-cd446feffd2ad0cc05457a185104c306]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/4) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-cd446feffd2ad0cc05457a185104c306]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/4) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-dac54dfa777fe2f5d23e781a1f0f198a]: Textual amendment: Word in [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/4/2/a) inserted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(11)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/11/b)
+[^c-dac54dfa777fe2f5d23e781a1f0f198a]: Textual amendment: Word in [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/4/2/a) inserted (1.4.2012) by [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(11)(b)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/11/b)
 
-[^key-250d411974f92e6af2bf86b9ae06e09d]: Textual amendment: [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/4/2/b) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(11)(c)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/11/c)
+[^c-250d411974f92e6af2bf86b9ae06e09d]: Textual amendment: [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/4/2/b) omitted (1.4.2012) by virtue of [The Localism Act 2011 (Infrastructure Planning) (Consequential Amendments) Regulations 2012 (S.I. 2012/635)](https://www.legislation.gov.uk/uksi/2012/635), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/635/regulation/1/2), [5(11)(c)](https://www.legislation.gov.uk/uksi/2012/635/regulation/5/11/c)
 
-[^key-9fd4d4bb31e801348e01d787f264828a]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/5) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-9fd4d4bb31e801348e01d787f264828a]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/5) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-8022c8bc26680d303fab1fce53cd9d0f]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/6) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-8022c8bc26680d303fab1fce53cd9d0f]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/6) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-939deedeb08479f2a9e7b198ef4d292b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/7) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-939deedeb08479f2a9e7b198ef4d292b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/7) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-6863c5baffa0f1f82fdd15be4df6fb9f]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/8) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-6863c5baffa0f1f82fdd15be4df6fb9f]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/8) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-e9bf780de6c25dbc026fe015863bbb3b]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/9) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-e9bf780de6c25dbc026fe015863bbb3b]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/9) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-5b6232400952227ee9432ceed2a2abf6]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/10) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-5b6232400952227ee9432ceed2a2abf6]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/10) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-6347f0ae4d39d1a60f0032ed47041b44]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/11) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-6347f0ae4d39d1a60f0032ed47041b44]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/11) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-780c6bb97d6a8ea7c5d4aaae26e8a984]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/12) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-780c6bb97d6a8ea7c5d4aaae26e8a984]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/12) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-d5db784042ae7a28ed12484f583698d8]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/13) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-d5db784042ae7a28ed12484f583698d8]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/13) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-e518402d0d76e81222a3c2f7d8199ee5]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/14) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-e518402d0d76e81222a3c2f7d8199ee5]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/14) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
 
-[^key-316eff4601e8968201917bdbdeb5cd62]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/15) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)
+[^c-316eff4601e8968201917bdbdeb5cd62]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2010/103/schedule/paragraph/15) in force at 1.3.2010, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2010/103/rule/1/1)

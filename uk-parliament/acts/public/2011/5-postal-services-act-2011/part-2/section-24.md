@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Information[^key-d5770c8466fc15599c28a7d5fd760e9b][^key-1e1a031bbe82dae0a8518707ed931406]
+## 24. Information[^c-d5770c8466fc15599c28a7d5fd760e9b][^c-1e1a031bbe82dae0a8518707ed931406]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Minister for the Civil Service or the[^key-1250db8f65409cc0423f11c8bd4df0f6] Secretary of State may by order make provision for requiring any prescribed person to disclose any information (whether in the form of a document or otherwise) to the Minister for the Civil Service or the Secretary of State for any purpose of this Part.
+(1) The Minister for the Civil Service or the[^c-1250db8f65409cc0423f11c8bd4df0f6] Secretary of State may by order make provision for requiring any prescribed person to disclose any information (whether in the form of a document or otherwise) to the Minister for the Civil Service or the Secretary of State for any purpose of this Part.
 
 (2) Information that—
 
@@ -31,7 +31,7 @@ may be shared among relevant persons for the purpose of facilitating the adminis
 
 (3) “**Relevant persons**” means—
 
-- (za)[^key-a7165d8e3935137c82cb0ef3e7d16bbd] the Minister for the Civil Service,
+- (za)[^c-a7165d8e3935137c82cb0ef3e7d16bbd] the Minister for the Civil Service,
 - (a) the Secretary of State,
 - (b) any person who administers, or exercises functions under, a new public scheme,
 - (c) the trustee of the RMPP,
@@ -45,10 +45,10 @@ may be shared among relevant persons for the purpose of facilitating the adminis
 
 ## Annotations
 
-[^key-d5770c8466fc15599c28a7d5fd760e9b]: Commencement: S. 24 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-d5770c8466fc15599c28a7d5fd760e9b]: Commencement: S. 24 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-1e1a031bbe82dae0a8518707ed931406]: Modification: S. 24 functions made exercisable concurrently (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [2(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2014/500/article/2/2/a/iv) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-1e1a031bbe82dae0a8518707ed931406]: Modification: S. 24 functions made exercisable concurrently (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [2(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2014/500/article/2/2/a/iv) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
 
-[^key-1250db8f65409cc0423f11c8bd4df0f6]: Textual amendment: Words in [s. 24(1)](https://www.legislation.gov.uk/ukpga/2011/5/section/24/1) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2014/500/article/5/5/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-1250db8f65409cc0423f11c8bd4df0f6]: Textual amendment: Words in [s. 24(1)](https://www.legislation.gov.uk/ukpga/2011/5/section/24/1) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2014/500/article/5/5/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
 
-[^key-a7165d8e3935137c82cb0ef3e7d16bbd]: Textual amendment: [S. 24(3)(za)](https://www.legislation.gov.uk/ukpga/2011/5/section/24/3/za) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2014/500/article/5/5/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))
+[^c-a7165d8e3935137c82cb0ef3e7d16bbd]: Textual amendment: [S. 24(3)(za)](https://www.legislation.gov.uk/ukpga/2011/5/section/24/3/za) inserted (2.4.2014) by [The Transfer of Functions (Royal Mail Pension Plan) Order 2014 (S.I. 2014/500)](https://www.legislation.gov.uk/uksi/2014/500), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/500/article/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2014/500/article/5/5/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/500/article/4))

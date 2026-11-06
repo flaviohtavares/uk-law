@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Designation of traffic officers[^key-8f3d092df71610561b647810e7818706][^key-6454bcf26b1f9dbb1cd2bf3ca6778ffa]
+## 2. Designation of traffic officers[^c-8f3d092df71610561b647810e7818706][^c-6454bcf26b1f9dbb1cd2bf3ca6778ffa]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f3d092df71610561b647810e7818706]: Commencement: S. 2 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/a)
+[^c-8f3d092df71610561b647810e7818706]: Commencement: S. 2 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/a)
 
-[^key-6454bcf26b1f9dbb1cd2bf3ca6778ffa]: Commencement: S. 2 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/a)
+[^c-6454bcf26b1f9dbb1cd2bf3ca6778ffa]: Commencement: S. 2 in force at 1.5.2009 for W. by [S.I. 2009/1095](https://www.legislation.gov.uk/uksi/2009/1095), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1095/article/2/a)

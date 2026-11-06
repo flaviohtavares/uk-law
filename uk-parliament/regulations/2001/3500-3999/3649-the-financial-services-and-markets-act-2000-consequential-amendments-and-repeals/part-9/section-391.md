@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 391. Investment of sums standing to the credit of any trust fund[^key-39a8f691152dc1a2783fab3b97cf85d8]
+## 391. Investment of sums standing to the credit of any trust fund[^c-39a8f691152dc1a2783fab3b97cf85d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39a8f691152dc1a2783fab3b97cf85d8]: Commencement: Art. 391 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-39a8f691152dc1a2783fab3b97cf85d8]: Commencement: Art. 391 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

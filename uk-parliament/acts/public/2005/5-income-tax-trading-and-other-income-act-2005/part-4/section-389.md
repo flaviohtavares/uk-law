@@ -28,7 +28,7 @@ summary: ''
 
 (4) The amount of the dividends treated as paid to each unit holder is so much of the total amount mentioned in subsection (1) as is proportionate to the unit holder's rights.
 
-(5) The dividends are treated as paid on the shares and by the company referred to in section 617(1) of CTA 2010[^key-83a6d3658d31326e36c13c4337f3f4b8] (which relates to the trustees of an authorised unit trust being treated as a UK resident company in which the unit holders' rights are shares).
+(5) The dividends are treated as paid on the shares and by the company referred to in section 617(1) of CTA 2010[^c-83a6d3658d31326e36c13c4337f3f4b8] (which relates to the trustees of an authorised unit trust being treated as a UK resident company in which the unit holders' rights are shares).
 
 (6) This section does not apply if the authorised unit trust is an approved personal pension scheme.
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83a6d3658d31326e36c13c4337f3f4b8]: Textual amendment: Words in s. 389(5) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 454](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/454) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-83a6d3658d31326e36c13c4337f3f4b8]: Textual amendment: Words in s. 389(5) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 454](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/454) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

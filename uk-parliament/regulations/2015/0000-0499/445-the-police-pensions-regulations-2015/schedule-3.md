@@ -91,7 +91,7 @@ The scheme manager must refund to a member the amount of any payment for added p
 
 (5) A member may exercise the added pension option more than once but an option to make a lump sum payment for added pension may only be exercised once in any scheme year.
 
-(6)[^key-8d39dd7679191251aeac3e70ffee9756] An option to make a lump sum payment for added pension may only be exercised if the member—
+(6)[^c-8d39dd7679191251aeac3e70ffee9756] An option to make a lump sum payment for added pension may only be exercised if the member—
 
 - (a) has been an active member of this scheme in relation to a continuous period of pensionable service for at least 12 months; and
 - (b) has been provided with a statement of the amount of added pension (if paragraph 16 applies).
@@ -235,6 +235,6 @@ This Part applies in relation to an active member of this scheme who opts to mak
 
 [^c22403041]: Marginal citation: Added pension which increases the member's retirement benefits is payable to the member as part of the member's full retirement pension in accordance with the provisions of Part 7.
 
-[^key-8d39dd7679191251aeac3e70ffee9756]: Modification: [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/uksi/2015/445/schedule/3/paragraph/5/6) excluded (1.10.2023) by [The Police Pensions (Remediable Service) Regulations 2023 (S.I. 2023/831)](https://www.legislation.gov.uk/uksi/2023/831), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/831/regulation/1/b), [30](https://www.legislation.gov.uk/uksi/2023/831/regulation/30)
+[^c-8d39dd7679191251aeac3e70ffee9756]: Modification: [Sch. 3 para. 5(6)](https://www.legislation.gov.uk/uksi/2015/445/schedule/3/paragraph/5/6) excluded (1.10.2023) by [The Police Pensions (Remediable Service) Regulations 2023 (S.I. 2023/831)](https://www.legislation.gov.uk/uksi/2023/831), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/831/regulation/1/b), [30](https://www.legislation.gov.uk/uksi/2023/831/regulation/30)
 
 [^c22403051]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).

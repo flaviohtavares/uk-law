@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Old mining permissions.[^c15658421][^key-b4788da9a576281cdc47a057dadf79bf]
+## 22. Old mining permissions.[^c15658421][^c-b4788da9a576281cdc47a057dadf79bf]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ cease to have effect on the day following the last date on which the application
 
 [^c15658421]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/1991/34/section/22) wholly in force at 25.09.1991 see [s. 84(2)(3)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/2/3) and [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3).
 
-[^key-b4788da9a576281cdc47a057dadf79bf]: Modification: [S. 22](https://www.legislation.gov.uk/ukpga/1991/34/section/22) applied (with modifications) (7.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 87(2)(a)](https://www.legislation.gov.uk/ukpga/2004/5/section/87/2/a) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
+[^c-b4788da9a576281cdc47a057dadf79bf]: Modification: [S. 22](https://www.legislation.gov.uk/ukpga/1991/34/section/22) applied (with modifications) (7.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 87(2)(a)](https://www.legislation.gov.uk/ukpga/2004/5/section/87/2/a) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
 
 [^c15658431]: Marginal citation: [1947 c. 51](https://www.legislation.gov.uk/ukpga/1947/51).

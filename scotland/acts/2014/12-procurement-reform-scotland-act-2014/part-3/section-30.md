@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Technical specifications[^key-6c45e838cac23fcf171c1168d15dd85a]
+## 30. Technical specifications[^c-6c45e838cac23fcf171c1168d15dd85a]
 
 *Extent: S*
 
-(1) The Scottish Ministers may by regulations make provision about the use of technical specifications in regulated procurements (other than higher value regulated procurements[^key-ad92b66572cb72a387af604a873f6567]).
+(1) The Scottish Ministers may by regulations make provision about the use of technical specifications in regulated procurements (other than higher value regulated procurements[^c-ad92b66572cb72a387af604a873f6567]).
 
 (2) In this section, a technical specification is a specification which defines required characteristics of—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6c45e838cac23fcf171c1168d15dd85a]: Commencement: S. 30 in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-6c45e838cac23fcf171c1168d15dd85a]: Commencement: S. 30 in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
 
-[^key-ad92b66572cb72a387af604a873f6567]: Textual amendment: Words in s. 30(1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2020/468/regulation/3/4) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-ad92b66572cb72a387af604a873f6567]: Textual amendment: Words in s. 30(1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2020/468/regulation/3/4) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

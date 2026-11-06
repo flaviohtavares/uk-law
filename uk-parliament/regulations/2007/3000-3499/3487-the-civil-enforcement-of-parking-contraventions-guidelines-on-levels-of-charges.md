@@ -32,7 +32,7 @@ summary: ''
 
 road traffic, england
 
-The Civil Enforcement of Parking Contraventions (Guidelines on Levels of Charges) (England) Order 2007 (revoked)[^key-134110c634219cbb6943900b98647556]
+The Civil Enforcement of Parking Contraventions (Guidelines on Levels of Charges) (England) Order 2007 (revoked)[^c-134110c634219cbb6943900b98647556]
 
 Made
 
@@ -46,50 +46,50 @@ Coming into force
 
 20th January 2008
 
-[^key-134110c634219cbb6943900b98647556]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-134110c634219cbb6943900b98647556]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-134110c634219cbb6943900b98647556]
+## 1. Citation, commencement, interpretation and application[^c-134110c634219cbb6943900b98647556]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Guidelines[^key-134110c634219cbb6943900b98647556]
+## 2. Guidelines[^c-134110c634219cbb6943900b98647556]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-134110c634219cbb6943900b98647556]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-134110c634219cbb6943900b98647556]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — GUIDELINES FOR THE SETTING BY ENFORCEMENT AUTHORITIES OUTSIDE GREATER LONDON OF CHARGES FOR PARKING CONTRAVENTIONS[^key-134110c634219cbb6943900b98647556]
+## SCHEDULE — GUIDELINES FOR THE SETTING BY ENFORCEMENT AUTHORITIES OUTSIDE GREATER LONDON OF CHARGES FOR PARKING CONTRAVENTIONS[^c-134110c634219cbb6943900b98647556]
 
 Article 2
 
-### 1. Scope of guidelines[^key-134110c634219cbb6943900b98647556]
+### 1. Scope of guidelines[^c-134110c634219cbb6943900b98647556]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Penalty charges[^key-134110c634219cbb6943900b98647556]
+### 2. Penalty charges[^c-134110c634219cbb6943900b98647556]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Charges for the removal, storage and disposal of vehicles[^key-134110c634219cbb6943900b98647556]
+### 3. Charges for the removal, storage and disposal of vehicles[^c-134110c634219cbb6943900b98647556]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Release of vehicle from an immobilisation device under Section 79 of the Traffic Management Act 2004[^key-134110c634219cbb6943900b98647556]
+### 4. Release of vehicle from an immobilisation device under Section 79 of the Traffic Management Act 2004[^c-134110c634219cbb6943900b98647556]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Saving for powers of the Secretary of State[^key-134110c634219cbb6943900b98647556]
+### 5. Saving for powers of the Secretary of State[^c-134110c634219cbb6943900b98647556]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-134110c634219cbb6943900b98647556]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-134110c634219cbb6943900b98647556]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-134110c634219cbb6943900b98647556]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/3487) revoked (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [32(1)(c)](https://www.legislation.gov.uk/uksi/2022/71/regulation/32/1/c) (with [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/5), [40](https://www.legislation.gov.uk/uksi/2022/71/regulation/40), [41](https://www.legislation.gov.uk/uksi/2022/71/regulation/41))
+[^c-134110c634219cbb6943900b98647556]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/3487) revoked (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Approved Devices, Charging Guidelines and General Provisions) (England) Regulations 2022 (S.I. 2022/71)](https://www.legislation.gov.uk/uksi/2022/71), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/2), [32(1)(c)](https://www.legislation.gov.uk/uksi/2022/71/regulation/32/1/c) (with [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/71/regulation/1/5), [40](https://www.legislation.gov.uk/uksi/2022/71/regulation/40), [41](https://www.legislation.gov.uk/uksi/2022/71/regulation/41))

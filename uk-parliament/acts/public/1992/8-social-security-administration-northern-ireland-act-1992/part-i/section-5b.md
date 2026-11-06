@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5B. Use of social security information[^key-06f559524d1fad86a13771617201fd98]
+## 5B. Use of social security information[^c-06f559524d1fad86a13771617201fd98]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06f559524d1fad86a13771617201fd98]: Textual amendment: S. 5B inserted (8.10.2007) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 38(1)](https://www.legislation.gov.uk/nia/2007/2/section/38/1), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [S.R. 2007/429](https://www.legislation.gov.uk/nisr/2007/429), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2007/429/article/2/1/a)
+[^c-06f559524d1fad86a13771617201fd98]: Textual amendment: S. 5B inserted (8.10.2007) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 38(1)](https://www.legislation.gov.uk/nia/2007/2/section/38/1), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [S.R. 2007/429](https://www.legislation.gov.uk/nisr/2007/429), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2007/429/article/2/1/a)

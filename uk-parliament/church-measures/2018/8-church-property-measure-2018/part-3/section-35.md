@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 35. Shared burial ground[^key-0b7ef58d7eeb532d6a95269babd6ad87]
+## 35. Shared burial ground[^c-0b7ef58d7eeb532d6a95269babd6ad87]
 
 *Extent: E*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b7ef58d7eeb532d6a95269babd6ad87]: Commencement: [S. 35](https://www.legislation.gov.uk/ukcm/2018/8/section/35) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-0b7ef58d7eeb532d6a95269babd6ad87]: Commencement: [S. 35](https://www.legislation.gov.uk/ukcm/2018/8/section/35) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

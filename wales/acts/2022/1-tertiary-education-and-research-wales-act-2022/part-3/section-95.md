@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Education and training for persons over 19[^key-39eef26e378fbe56bce8725831004758][^key-d6a73d795e897d00a8ab00b3f348400b]
+## 95. Education and training for persons over 19[^c-39eef26e378fbe56bce8725831004758][^c-d6a73d795e897d00a8ab00b3f348400b]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-39eef26e378fbe56bce8725831004758]: Commencement: S. 95 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-39eef26e378fbe56bce8725831004758]: Commencement: S. 95 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-d6a73d795e897d00a8ab00b3f348400b]: Commencement: [S. 95](https://www.legislation.gov.uk/asc/2022/1/section/95) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(u)](https://www.legislation.gov.uk/wsi/2026/62/article/2/u)
+[^c-d6a73d795e897d00a8ab00b3f348400b]: Commencement: [S. 95](https://www.legislation.gov.uk/asc/2022/1/section/95) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(u)](https://www.legislation.gov.uk/wsi/2026/62/article/2/u)

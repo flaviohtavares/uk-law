@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Regulated activities to which regulation 47 has effect[^key-b5f78a3d74a4b31a6b80bf62ba4b642c]
+## 52. Regulated activities to which regulation 47 has effect[^c-b5f78a3d74a4b31a6b80bf62ba4b642c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (2) This paragraph applies to a regulated activity—
 
-- (a) in the case of a person who satisfies the conditions in regulation 49, which the person is, immediately before IP completion day[^key-bdaf1a013f1ce31be020b17c1cf53c5e], authorised to carry on in the United Kingdom by virtue of section 31(1)(b) or (c) of the 2000 Act;
+- (a) in the case of a person who satisfies the conditions in regulation 49, which the person is, immediately before IP completion day[^c-bdaf1a013f1ce31be020b17c1cf53c5e], authorised to carry on in the United Kingdom by virtue of section 31(1)(b) or (c) of the 2000 Act;
 - (b) in the case of a person who satisfies the conditions in regulation 50, which the person is, immediately before the day on which regulation 28 ceases to apply, permitted to carry on in the United Kingdom by virtue of that regulation;
 - (c) in the case of a person who satisfies the conditions in regulation 51, which the person is, immediately before the day on which regulation 34 ceases to apply, permitted to carry on in the United Kingdom by virtue of that regulation.
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5f78a3d74a4b31a6b80bf62ba4b642c]: Textual amendment: Pt. 7 inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/405/regulation/3)
+[^c-b5f78a3d74a4b31a6b80bf62ba4b642c]: Textual amendment: Pt. 7 inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/405/regulation/3)
 
-[^key-bdaf1a013f1ce31be020b17c1cf53c5e]: Textual amendment: Words in [reg. 52](https://www.legislation.gov.uk/uksi/2018/1149/regulation/52) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(z)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/z)
+[^c-bdaf1a013f1ce31be020b17c1cf53c5e]: Textual amendment: Words in [reg. 52](https://www.legislation.gov.uk/uksi/2018/1149/regulation/52) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(z)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/z)

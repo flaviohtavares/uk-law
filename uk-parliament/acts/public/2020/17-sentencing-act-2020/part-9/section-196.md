@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196. Transfer of youth rehabilitation orders to Northern Ireland[^key-73c6a8616e4e33995ac680fc33871e25]
+## 196. Transfer of youth rehabilitation orders to Northern Ireland[^c-73c6a8616e4e33995ac680fc33871e25]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 8 makes provision about the transfer of youth rehabilitation orders to 
 
 ## Annotations
 
-[^key-73c6a8616e4e33995ac680fc33871e25]: Commencement: S. 196 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-73c6a8616e4e33995ac680fc33871e25]: Commencement: S. 196 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

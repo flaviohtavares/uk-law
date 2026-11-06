@@ -46,7 +46,7 @@ In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-7745f03c75c31fee975dc44457130ce4]
+### 1. Citation and commencement[^c-7745f03c75c31fee975dc44457130ce4]
 
 (1) These Regulations may be cited as the Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019.
 
@@ -54,11 +54,11 @@ In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 2 — Amendments to the Copyright, Designs and Patents Act 1988
 
-### 2. Amendments to the Copyright, Designs and Patents Act 1988[^key-5de16963ed7060d98f3497cbf68f7e0d]
+### 2. Amendments to the Copyright, Designs and Patents Act 1988[^c-5de16963ed7060d98f3497cbf68f7e0d]
 
 The Copyright, Designs and Patents Act 1988 [^c23651351] is amended in accordance with this Part.
 
-### 3.[^key-f82e11613d812fe0e285e8a7f245f083]
+### 3.[^c-f82e11613d812fe0e285e8a7f245f083]
 
 In section 6A (safeguards in case of certain satellite broadcasts) [^c23651361]—
 
@@ -66,23 +66,23 @@ In section 6A (safeguards in case of certain satellite broadcasts) [^c23651361]�
 - (b) in subsection (2)(a), for “that place” substitute “ the United Kingdom ”;
 - (c) in subsection (3)(b), for “the place in which he has his principal establishment in the European Economic Area” substitute “ the United Kingdom ”.
 
-### 4.[^key-87adad779655b84d85dff4ab103b17c2]
+### 4.[^c-87adad779655b84d85dff4ab103b17c2]
 
 In section 12(6) and (8)(c) (duration of copyright in literary, dramatic, musical or artistic works) [^c23651371], for “an EEA state”, in each place it occurs, substitute “ the United Kingdom ”.
 
-### 5.[^key-65fe20e05429d31a98acc0580a452e47]
+### 5.[^c-65fe20e05429d31a98acc0580a452e47]
 
 In section 13A(4) (duration of copyright in sound recordings) [^c23651381], for “an EEA state” substitute “ the United Kingdom ”.
 
-### 6.[^key-2b5cf1c061e5eeeef7911b3fb2706170]
+### 6.[^c-2b5cf1c061e5eeeef7911b3fb2706170]
 
 In section 13B(7) and (8) (duration of copyright in films) [^c23651391], for “an EEA state”, in each place it occurs, substitute “ the United Kingdom ”.
 
-### 7.[^key-553bfa935cc4860816168520274359cc]
+### 7.[^c-553bfa935cc4860816168520274359cc]
 
 In section 14(3) (duration of copyright in broadcasts) [^c23651401], for “an EEA state” substitute “ the United Kingdom ”.
 
-### 8.[^key-fc642433d734efedb5336c5ead8273eb]
+### 8.[^c-fc642433d734efedb5336c5ead8273eb]
 
 In section 15A(4) (meaning of country of origin) [^c23651411]—
 
@@ -93,50 +93,50 @@ In section 15A(4) (meaning of country of origin) [^c23651411]—
   ;
 - (b) in sub-paragraph (b), for “if none of those countries is an EEA state” substitute “ if the United Kingdom is not one of those countries ”.
 
-### 9.[^key-2e8623d0e7240320a706d83733705685]
+### 9.[^c-2e8623d0e7240320a706d83733705685]
 
 In section 31B(1) and (9) (making and supply of accessible copies by authorised bodies) [^c23651421] omit “or another member State of the European Union” in each place it occurs.
 
-### 10.[^key-a60b5fdb388dbf9379ceb218b47f6e6b]
+### 10.[^c-a60b5fdb388dbf9379ceb218b47f6e6b]
 
 In section 31BB(4)(b) (accessible and intermediate copies: records and notification) [^c23651431], for “another” substitute “ a ”.
 
-### 11.[^key-e4a08ddc604fda905e807285d576d983]
+### 11.[^c-e4a08ddc604fda905e807285d576d983]
 
 Omit section 44B (permitted uses of orphan works) [^c23651441].
 
-### 12.[^key-f31ec6899e938ec9c530602f98582789]
+### 12.[^c-f31ec6899e938ec9c530602f98582789]
 
 Omit section 76A (certain permitted uses of orphan works) [^c23651451].
 
-### 13.[^key-42f63db0b7a7167dcbcb2100095c59f9]
+### 13.[^c-42f63db0b7a7167dcbcb2100095c59f9]
 
 In section 144A(1) (collective exercise of certain rights in relation to cable re-transmission) [^c23651461], for “another” substitute “ an ”.
 
-### 14.[^key-ea903b4c21329e3847d82f21f528dd8e]
+### 14.[^c-ea903b4c21329e3847d82f21f528dd8e]
 
 In section 154(1) (qualification by reference to author) [^c23651471]—
 
 - (a) in paragraph (a), omit “a national of another EEA state,”;
 - (b) in paragraphs (b) and (c), omit “or another EEA state”.
 
-### 15.[^key-9b0c9c5ea9f3962709a55575fecd5fdf]
+### 15.[^c-9b0c9c5ea9f3962709a55575fecd5fdf]
 
 In section 155(1)(a) (qualification by reference to country of first publication) [^c23651481] omit “another EEA state,”.
 
-### 16.[^key-72e812afc2c451c82b160d0e8c1afef5]
+### 16.[^c-72e812afc2c451c82b160d0e8c1afef5]
 
 In section 156(1)(a) (qualification by reference to place of transmission) [^c23651491] omit “another EEA state,”.
 
-### 17.[^key-42b86c12bb4102bce0de44fcdbe049ec]
+### 17.[^c-42b86c12bb4102bce0de44fcdbe049ec]
 
 In section 170 (transitional provisions and savings) [^c23651501] omit subsection (3).
 
-### 18.[^key-8d602b38dd8f487c44f28dda54c8c8b3]
+### 18.[^c-8d602b38dd8f487c44f28dda54c8c8b3]
 
 In section 172A (meaning of EEA and related expressions) [^c23651511] omit subsection (2).
 
-### 19.[^key-714b62be12d65eb96fc8b683d5c86e5c]
+### 19.[^c-714b62be12d65eb96fc8b683d5c86e5c]
 
 In section 178 (minor definitions) [^c23651521], at the appropriate place insert—
 
@@ -147,7 +147,7 @@ In section 178 (minor definitions) [^c23651521], at the appropriate place insert
 > - (c) a British protected person within the meaning of that Act, or
 > - (d) a body incorporated under the law of any part of the United Kingdom.
 
-### 20.[^key-588b75b24492d64dffce013f5a6ac12d]
+### 20.[^c-588b75b24492d64dffce013f5a6ac12d]
 
 In section 179 (index of defined expressions) [^c23651531]—
 
@@ -160,23 +160,23 @@ In section 179 (index of defined expressions) [^c23651531]—
 
   .
 
-### 21.[^key-29ef8441048c2a95903b0aa7f3c7a073]
+### 21.[^c-29ef8441048c2a95903b0aa7f3c7a073]
 
 In section 191(4) (duration of rights) [^c23651541], for “an EEA state” substitute “ the United Kingdom ”.
 
-### 22.[^key-d1cc35b25ce7e50429374241fb073a6d]
+### 22.[^c-d1cc35b25ce7e50429374241fb073a6d]
 
 In section 206(1) (qualifying countries, individuals and persons) [^c23651551] omit paragraph (b).
 
-### 23.[^key-6bca98dbc2e281edb8697018e2e1497e]
+### 23.[^c-6bca98dbc2e281edb8697018e2e1497e]
 
 Omit Schedule ZA1 (certain permitted uses of orphan works) [^c23651561].
 
-### 24.[^key-6861fdf5ea6b1e8d0a1232d4bfbe9fac]
+### 24.[^c-6861fdf5ea6b1e8d0a1232d4bfbe9fac]
 
 In Schedule 1 (copyright: transitional provisions and savings) [^c23651571], in paragraph 6(1A), for “another” substitute “ an ”.
 
-### 25.[^key-e816e3326b12075e763392022e71b718]
+### 25.[^c-e816e3326b12075e763392022e71b718]
 
 In Schedule 2 (rights in performances: permitted acts) [^c23651581]—
 
@@ -186,7 +186,7 @@ In Schedule 2 (rights in performances: permitted acts) [^c23651581]—
 
 ## PART 3 — Amendments to subordinate legislation
 
-### 26. Amendments to the Duration of Copyright and Rights in Performances Regulations 1995[^key-131005f4ce38ac0c990dafc0c9cc4d7f]
+### 26. Amendments to the Duration of Copyright and Rights in Performances Regulations 1995[^c-131005f4ce38ac0c990dafc0c9cc4d7f]
 
 (1) The Duration of Copyright and Rights in Performances Regulations 1995 [^c23651591] are amended as follows.
 
@@ -199,7 +199,7 @@ In Schedule 2 (rights in performances: permitted acts) [^c23651581]—
 - (a) in paragraphs (1) and (2) for “another EEA state”, in each place it occurs, substitute “ an EEA state ”;
 - (b) omit paragraph (3).
 
-### 27. Amendments to the Copyright and Related Rights Regulations 1996[^key-efefd0596553a885b1ad7a5619273b14]
+### 27. Amendments to the Copyright and Related Rights Regulations 1996[^c-efefd0596553a885b1ad7a5619273b14]
 
 (1) The Copyright and Related Rights Regulations 1996 [^c23651601] are amended as follows.
 
@@ -213,7 +213,7 @@ In Schedule 2 (rights in performances: permitted acts) [^c23651581]—
 
 (4) In regulation 29(1)(a) (satellite broadcasting: international co-production agreements) after “an EEA state” insert “ or a national of the United Kingdom ”.
 
-### 28. Amendments to the Copyright and Rights in Databases Regulations 1997[^key-a7227acdc15e24b3db184d5154ccfc52]
+### 28. Amendments to the Copyright and Rights in Databases Regulations 1997[^c-a7227acdc15e24b3db184d5154ccfc52]
 
 (1) The Copyright and Rights in Databases Regulations 1997 [^c23651611] are amended as follows.
 
@@ -228,7 +228,7 @@ In Schedule 2 (rights in performances: permitted acts) [^c23651581]—
 - (b) in paragraph (2), for “the EEA” and for “an EEA state”, in each place it occurs, substitute “ the United Kingdom ”;
 - (c) in paragraph (4), omit sub-paragraph (a).
 
-### 29. Amendments to the Artist's Resale Right Regulations 2006[^key-b2dcb599fb90bdc4122acaa4658454cc]
+### 29. Amendments to the Artist's Resale Right Regulations 2006[^c-b2dcb599fb90bdc4122acaa4658454cc]
 
 (1) The Artist's Resale Right Regulations 2006 [^c23651621] are amended as follows.
 
@@ -241,20 +241,20 @@ In Schedule 2 (rights in performances: permitted acts) [^c23651581]—
 
 (4) In regulation 17 (review of regulations) omit paragraph (2).
 
-### 30. Amendments to the Copyright and Rights in Performances (Extended Collective Licensing) Regulations 2014[^key-b711ebf862ef690314f4bda066988460]
+### 30. Amendments to the Copyright and Rights in Performances (Extended Collective Licensing) Regulations 2014[^c-b711ebf862ef690314f4bda066988460]
 
 In regulation 5(1)(d) of the Copyright and Rights in Performances (Extended Collective Licensing) Regulations 2014 [^c23651631] (application for authorisation), for “European Economic Area” substitute “ the United Kingdom ”.
 
-### 31. Amendments to the Copyright and Rights in Performances (Licensing of Orphan Works) Regulations 2014[^key-308e9cca7fa99723b9689714142867e1]
+### 31. Amendments to the Copyright and Rights in Performances (Licensing of Orphan Works) Regulations 2014[^c-308e9cca7fa99723b9689714142867e1]
 
 [^c23651641]In regulation 4 of the Copyright and Rights in Performances (Licensing of Orphan Works) Regulations 2014 (diligent search)—
 
-- (a)[^key-f84bab95c0559b912ba750d4c0cad9d6] in paragraph (3)—
+- (a)[^c-f84bab95c0559b912ba750d4c0cad9d6] in paragraph (3)—
   - (i) in sub-paragraph (a) omit “and the relevant database maintained by the Office for Harmonization in the Internal Market; and”;
   - (ii) omit sub-paragraph (b);
 - (b) in paragraph (5) omit sub-paragraph (b).
 
-### 32. Amendments to the Collective Management of Copyright (EU Directive) Regulations 2016[^key-20122f71692ad28b224a9b31e1e4a873]
+### 32. Amendments to the Collective Management of Copyright (EU Directive) Regulations 2016[^c-20122f71692ad28b224a9b31e1e4a873]
 
 (1) The Collective Management of Copyright (EU Directive) Regulations 2016 [^c23651651] are amended as follows.
 
@@ -268,21 +268,21 @@ In regulation 5(1)(d) of the Copyright and Rights in Performances (Extended Coll
 
 (6) In regulation 51 (review) omit paragraph (2).
 
-### 33. Amendments to the Copyright and Performances (Application to Other Countries) Order 2016[^key-73d1a20a7a9dc97987280cb9c0b88382]
+### 33. Amendments to the Copyright and Performances (Application to Other Countries) Order 2016[^c-73d1a20a7a9dc97987280cb9c0b88382]
 
 In regulation 1 of the Copyright and Performances (Application to Other Countries) Order 2016 [^c23651661] (citation, commencement, interpretation and revocation), in paragraph (2), in the definition of “relevant country”, for “another EEA state” substitute “ an EEA state ”.
 
-### 34. Revocation of the Portability of Online Content Services Regulations 2018[^key-b53d79aafdee00f82b6ad22eed969883]
+### 34. Revocation of the Portability of Online Content Services Regulations 2018[^c-b53d79aafdee00f82b6ad22eed969883]
 
 The Portability of Online Content Services Regulations 2018 are revoked [^c23651671].
 
-### 35. Amendments to the Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018[^key-f66deb2df1c7c2acd4a41c6ea7b28d59]
+### 35. Amendments to the Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018[^c-f66deb2df1c7c2acd4a41c6ea7b28d59]
 
 Omit regulation 20(4) of the Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (review) [^c23651681].
 
 ## PART 4 — Amendments to retained direct EU legislation
 
-### 36. Amendments to Council Regulation (EU) 2017/1563[^key-50217887c4a30f4566b7084cd5401574]
+### 36. Amendments to Council Regulation (EU) 2017/1563[^c-50217887c4a30f4566b7084cd5401574]
 
 (1) Council Regulation (EU) 2017/1563 on the cross-border exchange between the Union and third countries of accessible format copies of certain works and other subject matter protected by copyright and related rights for the benefit of persons who are blind, visually impaired or otherwise print disabled is amended as follows.
 
@@ -314,15 +314,15 @@ Omit regulation 20(4) of the Copyright and Related Rights (Marrakesh Treaty etc.
 
 (10) At the end omit the sentence starting “This Regulation shall be binding”.
 
-### 37. Revocations[^key-452c5f89511c362479baafff232ac015]
+### 37. Revocations[^c-452c5f89511c362479baafff232ac015]
 
 Regulation (EU) No 2017/1128 of the European Parliament and of the Council of 14th June 2017 on cross-border portability of online content services in the internal market is revoked.
 
 ## PART 5 — Transitional provisions and savings
 
-### 38. Transitional provisions and savings[^key-b10adc9e308ea80ac6188daa36f992a3]
+### 38. Transitional provisions and savings[^c-b10adc9e308ea80ac6188daa36f992a3]
 
-The amendments made by these Regulations do not apply to any database in which a database right exists under the Copyright and Rights in Databases Regulations 1997 prior to IP completion day[^key-ee0aaa943e387c892b5124e1fccc0f87].
+The amendments made by these Regulations do not apply to any database in which a database right exists under the Copyright and Rights in Databases Regulations 1997 prior to IP completion day[^c-ee0aaa943e387c892b5124e1fccc0f87].
 
 Chris Skidmore
 
@@ -340,152 +340,152 @@ A full impact assessment of the effect of this instrument will have on the costs
 
 [^c23651341]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-7745f03c75c31fee975dc44457130ce4]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-7745f03c75c31fee975dc44457130ce4]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-5de16963ed7060d98f3497cbf68f7e0d]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-5de16963ed7060d98f3497cbf68f7e0d]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651351]: Marginal citation: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-f82e11613d812fe0e285e8a7f245f083]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-f82e11613d812fe0e285e8a7f245f083]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651361]: Marginal citation: Section 6A was inserted by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498).
 
-[^key-87adad779655b84d85dff4ab103b17c2]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-87adad779655b84d85dff4ab103b17c2]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651371]: Marginal citation: Section 12 was substituted by [S.I. 1995/3297](https://www.legislation.gov.uk/uksi/1995/3297), amended by the [Government of Wales Act 2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32), [section 160(1)](https://www.legislation.gov.uk/ukpga/2006/32/section/160/1), [Schedule 10](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10), [paragraphs 22](https://www.legislation.gov.uk/ukpga/2006/32/paragraph/22),23, [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), [S.I](https://www.legislation.gov.uk/uksi/2003/2498/section/I). 2013/1782.
 
-[^key-65fe20e05429d31a98acc0580a452e47]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-65fe20e05429d31a98acc0580a452e47]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651381]: Marginal citation: Section 13A was substituted by [S.I. 1995/3297](https://www.legislation.gov.uk/uksi/1995/3297), amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), [S.I](https://www.legislation.gov.uk/uksi/2003/2498/section/I). 2013/1782.
 
-[^key-2b5cf1c061e5eeeef7911b3fb2706170]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-2b5cf1c061e5eeeef7911b3fb2706170]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651391]: Marginal citation: Section 13B was substituted by [S.I. 1995/3297](https://www.legislation.gov.uk/uksi/1995/3297), amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498).
 
-[^key-553bfa935cc4860816168520274359cc]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-553bfa935cc4860816168520274359cc]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651401]: Marginal citation: Section 14 was substituted by [S.I. 1995/3297](https://www.legislation.gov.uk/uksi/1995/3297), amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498).
 
-[^key-fc642433d734efedb5336c5ead8273eb]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-fc642433d734efedb5336c5ead8273eb]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651411]: Marginal citation: Section 15A was inserted by [S.I. 1995/3297](https://www.legislation.gov.uk/uksi/1995/3297).
 
-[^key-2e8623d0e7240320a706d83733705685]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-2e8623d0e7240320a706d83733705685]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651421]: Marginal citation: Section 31B was amended by [S.I. 2018/995](https://www.legislation.gov.uk/uksi/2018/995), [regulation 5](https://www.legislation.gov.uk/uksi/2018/995/regulation/5).
 
-[^key-a60b5fdb388dbf9379ceb218b47f6e6b]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-a60b5fdb388dbf9379ceb218b47f6e6b]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651431]: Marginal citation: Section 31BB was amended by [S.I. 2018/995](https://www.legislation.gov.uk/uksi/2018/995), [regulation 7](https://www.legislation.gov.uk/uksi/2018/995/regulation/7).
 
-[^key-e4a08ddc604fda905e807285d576d983]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-e4a08ddc604fda905e807285d576d983]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651441]: Marginal citation: Section 44B was inserted by [S.I. 2014/2861](https://www.legislation.gov.uk/uksi/2014/2861).
 
-[^key-f31ec6899e938ec9c530602f98582789]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-f31ec6899e938ec9c530602f98582789]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651451]: Marginal citation: Section 76A was inserted by [S.I. 2014/2861](https://www.legislation.gov.uk/uksi/2014/2861).
 
-[^key-42f63db0b7a7167dcbcb2100095c59f9]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-42f63db0b7a7167dcbcb2100095c59f9]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651461]: Marginal citation: Section 144A was inserted by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), [S.I](https://www.legislation.gov.uk/uksi/2003/2498/section/I). 2006/1028.
 
-[^key-ea903b4c21329e3847d82f21f528dd8e]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-ea903b4c21329e3847d82f21f528dd8e]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651471]: Marginal citation: Section 154 was amended by the [British Overseas Territories Act 2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8), [section 2(3)](https://www.legislation.gov.uk/ukpga/2002/8/section/2/3), the [Intellectual Property Act 2014 (c.18)](https://www.legislation.gov.uk/ukpga/2014/18), [section 22(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/22/1), [S.I](https://www.legislation.gov.uk/ukpga/2014/18/section/I). 1995/3297, [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498).
 
-[^key-9b0c9c5ea9f3962709a55575fecd5fdf]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-9b0c9c5ea9f3962709a55575fecd5fdf]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651481]: Marginal citation: Section 155 was amended by the [Intellectual Property Act 2014 (c.18)](https://www.legislation.gov.uk/ukpga/2014/18), [section 22(2)](https://www.legislation.gov.uk/ukpga/2014/18/section/22/2).
 
-[^key-72e812afc2c451c82b160d0e8c1afef5]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-72e812afc2c451c82b160d0e8c1afef5]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651491]: Marginal citation: Section 156 was amended by the [Intellectual Property Act 2014 (c.18)](https://www.legislation.gov.uk/ukpga/2014/18), [section 22(3)](https://www.legislation.gov.uk/ukpga/2014/18/section/22/3), [S.I](https://www.legislation.gov.uk/ukpga/2014/18/section/I). 2003/2498.
 
-[^key-42b86c12bb4102bce0de44fcdbe049ec]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-42b86c12bb4102bce0de44fcdbe049ec]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651501]: Marginal citation: Section 170 was amended by the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), [section 76](https://www.legislation.gov.uk/ukpga/2013/24/section/76).
 
-[^key-8d602b38dd8f487c44f28dda54c8c8b3]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-8d602b38dd8f487c44f28dda54c8c8b3]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651511]: Marginal citation: Section 172A was inserted by [S.I. 1995/3297](https://www.legislation.gov.uk/uksi/1995/3297), amended by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), [S.I](https://www.legislation.gov.uk/uksi/1996/2967/section/I). 2006/1028.
 
-[^key-714b62be12d65eb96fc8b683d5c86e5c]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-714b62be12d65eb96fc8b683d5c86e5c]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651521]: Marginal citation: Section 178 was amended by the [Northern Ireland Act 1998 (c.47)](https://www.legislation.gov.uk/ukpga/1998/47), [section 99](https://www.legislation.gov.uk/ukpga/1998/47/section/99), [Schedule 13](https://www.legislation.gov.uk/ukpga/1998/47/schedule/13), [para 8(7)](https://www.legislation.gov.uk/ukpga/1998/47/paragraph/8/7), the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), [section 125(1)](https://www.legislation.gov.uk/ukpga/1998/46/section/125/1), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [para 25(7)](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/25/7), the [Government of Wales Act 2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32), [section 160(1)](https://www.legislation.gov.uk/ukpga/2006/32/section/160/1), [Schedule 10](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10), [paras 22](https://www.legislation.gov.uk/ukpga/2006/32/paragraph/22),29, [S.I.1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), [S.I](https://www.legislation.gov.uk/uksi/1996/2967/section/I). 2003/2498.
 
-[^key-588b75b24492d64dffce013f5a6ac12d]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-588b75b24492d64dffce013f5a6ac12d]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651531]: Marginal citation: Section 179 was amended by the [Broadcasting Act 1990 (c.42)](https://www.legislation.gov.uk/ukpga/1990/42), [section 175(3)](https://www.legislation.gov.uk/ukpga/1990/42/section/175/3), the [Northern Ireland Act 1998 (c.47)](https://www.legislation.gov.uk/ukpga/1998/47), [section 99](https://www.legislation.gov.uk/ukpga/1998/47/section/99), [Schedule 13](https://www.legislation.gov.uk/ukpga/1998/47/schedule/13), [paragraph 8(8)](https://www.legislation.gov.uk/ukpga/1998/47/paragraph/8/8), the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), [section 125](https://www.legislation.gov.uk/ukpga/1998/46/section/125), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [para 25(8)](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/25/8), the [Copyright (Visually Impaired Persons) Act 2002 (c.33)](https://www.legislation.gov.uk/ukpga/2002/33), [section 7(2)](https://www.legislation.gov.uk/ukpga/2002/33/section/7/2), the [Government of Wales Act 2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32), [section 160(1)](https://www.legislation.gov.uk/ukpga/2006/32/section/160/1), [Schedule 10](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10), [paragraphs 22](https://www.legislation.gov.uk/ukpga/2006/32/paragraph/22),30, [S.I. 1992/3233](https://www.legislation.gov.uk/uksi/1992/3233), [S.I](https://www.legislation.gov.uk/uksi/1992/3233/section/I). 1995/3297, [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), [S.I](https://www.legislation.gov.uk/uksi/1996/2967/section/I). 1997/3032, [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), [S.I](https://www.legislation.gov.uk/uksi/2003/2498/section/I). 2006/1028, [S.I. 2014/1372](https://www.legislation.gov.uk/uksi/2014/1372), [S.I](https://www.legislation.gov.uk/uksi/2014/1372/section/I). 2014/1384.
 
-[^key-29ef8441048c2a95903b0aa7f3c7a073]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-29ef8441048c2a95903b0aa7f3c7a073]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651541]: Marginal citation: Section 191 was amended by [S.I. 1995/3297](https://www.legislation.gov.uk/uksi/1995/3297), [S.I](https://www.legislation.gov.uk/uksi/1995/3297/section/I). 1996/2967, [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), [S.I](https://www.legislation.gov.uk/uksi/2003/2498/section/I). 2006/18, [S.I. 2013/1782](https://www.legislation.gov.uk/uksi/2013/1782).
 
-[^key-d1cc35b25ce7e50429374241fb073a6d]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-d1cc35b25ce7e50429374241fb073a6d]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651551]: Marginal citation: Section 206 was amended by the [British Overseas Territories Act 2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8), [section 2(3)](https://www.legislation.gov.uk/ukpga/2002/8/section/2/3), the [Intellectual Property Act 2014 (c.18)](https://www.legislation.gov.uk/ukpga/2014/18), [section 22(5)](https://www.legislation.gov.uk/ukpga/2014/18/section/22/5), (6), (7).
 
-[^key-6bca98dbc2e281edb8697018e2e1497e]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-6bca98dbc2e281edb8697018e2e1497e]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651561]: Marginal citation: Schedule ZA1 was inserted by [S.I. 2014/2861](https://www.legislation.gov.uk/uksi/2014/2861).
 
-[^key-6861fdf5ea6b1e8d0a1232d4bfbe9fac]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-6861fdf5ea6b1e8d0a1232d4bfbe9fac]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651571]: Marginal citation: Schedule 1 was amended by the [British Overseas Territories Act 2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8), [s1(2)](https://www.legislation.gov.uk/ukpga/2002/8/section/1/2), the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), [s 74(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/74/1), (3)(b), [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), [S.I](https://www.legislation.gov.uk/uksi/2003/2498/section/I). 2006/1210.
 
-[^key-e816e3326b12075e763392022e71b718]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-e816e3326b12075e763392022e71b718]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651581]: Marginal citation: Schedule 2 was amended by [S.I. 2018/995](https://www.legislation.gov.uk/uksi/2018/995), [regulations 12 to 16](https://www.legislation.gov.uk/uksi/2018/995/regulation/12).
 
-[^key-131005f4ce38ac0c990dafc0c9cc4d7f]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-131005f4ce38ac0c990dafc0c9cc4d7f]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651591]: Marginal citation: [S.I. 1995/3297](https://www.legislation.gov.uk/uksi/1995/3297), amended by S.I 2006/1028, S.I 2016/1210.
 
-[^key-efefd0596553a885b1ad7a5619273b14]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-efefd0596553a885b1ad7a5619273b14]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651601]: Marginal citation: [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), [S.I](https://www.legislation.gov.uk/uksi/2003/2498/section/I). 2006/1028.
 
-[^key-a7227acdc15e24b3db184d5154ccfc52]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-a7227acdc15e24b3db184d5154ccfc52]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651611]: Marginal citation: [S.I. 1997/3032](https://www.legislation.gov.uk/uksi/1997/3032), amended by [S.I. 2003/2501](https://www.legislation.gov.uk/uksi/2003/2501); there are other amending instruments but none is relevant.
 
-[^key-b2dcb599fb90bdc4122acaa4658454cc]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-b2dcb599fb90bdc4122acaa4658454cc]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651621]: Marginal citation: [S.I. 2006/346](https://www.legislation.gov.uk/uksi/2006/346), amended by S.I 2009/2792, [S.I. 2011/2873](https://www.legislation.gov.uk/uksi/2011/2873).
 
-[^key-b711ebf862ef690314f4bda066988460]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-b711ebf862ef690314f4bda066988460]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651631]: Marginal citation: [S.I. 2014/2588](https://www.legislation.gov.uk/uksi/2014/2588), amended by [S.I. 2016/221](https://www.legislation.gov.uk/uksi/2016/221).
 
-[^key-308e9cca7fa99723b9689714142867e1]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-308e9cca7fa99723b9689714142867e1]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651641]: Marginal citation: [S.I. 2014/2863](https://www.legislation.gov.uk/uksi/2014/2863).
 
-[^key-f84bab95c0559b912ba750d4c0cad9d6]: Textual amendment: [Reg. 31(a)](https://www.legislation.gov.uk/uksi/2019/605/regulation/31/a) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1050/regulation/3)
+[^c-f84bab95c0559b912ba750d4c0cad9d6]: Textual amendment: [Reg. 31(a)](https://www.legislation.gov.uk/uksi/2019/605/regulation/31/a) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1050/regulation/3)
 
-[^key-20122f71692ad28b224a9b31e1e4a873]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-20122f71692ad28b224a9b31e1e4a873]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651651]: Marginal citation: [S.I. 2016/221](https://www.legislation.gov.uk/uksi/2016/221).
 
-[^key-73d1a20a7a9dc97987280cb9c0b88382]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-73d1a20a7a9dc97987280cb9c0b88382]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651661]: Marginal citation: [S.I. 2016/1219](https://www.legislation.gov.uk/uksi/2016/1219).
 
-[^key-b53d79aafdee00f82b6ad22eed969883]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-b53d79aafdee00f82b6ad22eed969883]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651671]: Marginal citation: [S.I. 2018/249](https://www.legislation.gov.uk/uksi/2018/249).
 
-[^key-f66deb2df1c7c2acd4a41c6ea7b28d59]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-f66deb2df1c7c2acd4a41c6ea7b28d59]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651681]: Marginal citation: [S.I. 2018/995](https://www.legislation.gov.uk/uksi/2018/995).
 
-[^key-50217887c4a30f4566b7084cd5401574]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-50217887c4a30f4566b7084cd5401574]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
 [^c23651691]: Marginal citation: Directive 95/46/EC was repealed by Article 94.1 of Regulation 2016/679. Under Article 94.2 of that Regulation references to Directive 95/46/EC shall be construed as references to that Regulation.
 
-[^key-452c5f89511c362479baafff232ac015]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-452c5f89511c362479baafff232ac015]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-b10adc9e308ea80ac6188daa36f992a3]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-b10adc9e308ea80ac6188daa36f992a3]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-ee0aaa943e387c892b5124e1fccc0f87]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)
+[^c-ee0aaa943e387c892b5124e1fccc0f87]: Textual amendment: Words in [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)

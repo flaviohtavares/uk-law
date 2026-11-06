@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Requirements that must be met by warrants[^key-834f6b9f614a1f29e45d5ee50644dc36]
+## 31. Requirements that must be met by warrants[^c-834f6b9f614a1f29e45d5ee50644dc36]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ the warrant must specify the addresses, numbers, apparatus, or other factors, or
 
 ## Annotations
 
-[^key-834f6b9f614a1f29e45d5ee50644dc36]: Commencement: S. 31 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/o)
+[^c-834f6b9f614a1f29e45d5ee50644dc36]: Commencement: S. 31 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/o)

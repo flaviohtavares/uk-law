@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Duty of public authorities to secure involvement: guidance[^key-f64ed5e6e0107758ac69e20cb0179d24]
+## 24. Duty of public authorities to secure involvement: guidance[^c-f64ed5e6e0107758ac69e20cb0179d24]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f64ed5e6e0107758ac69e20cb0179d24]: Commencement: S. 24 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/b)
+[^c-f64ed5e6e0107758ac69e20cb0179d24]: Commencement: S. 24 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(b)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/b)

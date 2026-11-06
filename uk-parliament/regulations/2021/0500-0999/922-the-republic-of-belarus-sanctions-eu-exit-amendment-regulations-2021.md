@@ -34,7 +34,7 @@ Regulations made by the Secretary of State, laid before Parliament under section
 
 Sanctions
 
-The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2021 (revoked)[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2021 (revoked)[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 Made
 
@@ -48,175 +48,175 @@ Coming into force
 
 at noon on 9th August 2021
 
-[^key-5ca8253e88b7ad96037e1e7cd480ca8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5ca8253e88b7ad96037e1e7cd480ca8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+## 1. Citation and commencement[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 1 — General[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+## PART 1 — General[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
-### 2. Amendment of the Republic of Belarus (Sanctions) (EU Exit) Regulations 2019[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 3. Interpretation[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 2. Amendment of the Republic of Belarus (Sanctions) (EU Exit) Regulations 2019[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Application of prohibitions and requirements outside the United Kingdom[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 3. Interpretation[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Designation of persons[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
-
-### 5. Power to designate persons[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 4. Application of prohibitions and requirements outside the United Kingdom[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Designation criteria[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+## PART 2 — Designation of persons[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
+
+### 5. Power to designate persons[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Finance[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
-
-### 7. Financial sanctions[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 6. Designation criteria[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Transferable securities etc.[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+## PART 3 — Finance[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
+
+### 7. Financial sanctions[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-5ca8253e88b7ad96037e1e7cd480ca8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 4 — Trade[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
-
-### 10. Definition of “restricted goods” and “restricted technology”[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 8. Transferable securities etc.[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Further definitions[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+**9.**[^c-5ca8253e88b7ad96037e1e7cd480ca8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Trade[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
+
+### 10. Definition of “restricted goods” and “restricted technology”[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Definition of “interception and monitoring services”[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 11. Further definitions[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Interpretation of other expressions used in Part 5[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 12. Definition of “interception and monitoring services”[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Export of restricted goods and tobacco industry goods[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 13. Interpretation of other expressions used in Part 5[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-5ca8253e88b7ad96037e1e7cd480ca8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**16.**[^key-5ca8253e88b7ad96037e1e7cd480ca8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**17.**[^key-5ca8253e88b7ad96037e1e7cd480ca8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 18. Interception and monitoring services[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 14. Export of restricted goods and tobacco industry goods[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Dual-use goods and technology[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+**15.**[^c-5ca8253e88b7ad96037e1e7cd480ca8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-5ca8253e88b7ad96037e1e7cd480ca8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^c-5ca8253e88b7ad96037e1e7cd480ca8a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Interception and monitoring services[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Trade: further provision[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 19. Dual-use goods and technology[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Aircraft sanctions[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
-
-### 21. Aircraft[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 20. Trade: further provision[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — Exceptions and licences[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+## PART 5 — Aircraft sanctions[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
-### 22. Finance: exceptions from prohibitions[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 23. Exception for authorised conduct in a relevant country[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 21. Aircraft[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Exception for acts done for purposes of national security or prevention of serious crime[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+## PART 6 — Exceptions and licences[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
+
+### 22. Finance: exceptions from prohibitions[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Exceptions: finance[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 23. Exception for authorised conduct in a relevant country[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Treasury licences[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 24. Exception for acts done for purposes of national security or prevention of serious crime[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Trade licences[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 25. Exceptions: finance[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 7 — Information, enforcement etc.[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
-
-### 28. Application of information powers in the Customs and Excise Management Act 1979[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 26. Treasury licences[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Disclosure of information[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 27. Trade licences[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Penalties for offences[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+## PART 7 — Information, enforcement etc.[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
+
+### 28. Application of information powers in the Customs and Excise Management Act 1979[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Jurisdiction to try offences[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 29. Disclosure of information[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Modification of penalties under the Customs and Excise Management Act 1979[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 30. Penalties for offences[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Monetary penalties[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 31. Jurisdiction to try offences[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Maritime enforcement[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 32. Modification of penalties under the Customs and Excise Management Act 1979[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Trade: overlapping offences[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 33. Monetary penalties[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 8 — Amendments to Schedules[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
-
-### 36. Schedule 1[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 34. Maritime enforcement[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 37. Interception and monitoring goods and technology; other goods[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+### 35. Trade: overlapping offences[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 38. Treasury licences[^key-5ca8253e88b7ad96037e1e7cd480ca8a]
+## PART 8 — Amendments to Schedules[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
+
+### 36. Schedule 1[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5ca8253e88b7ad96037e1e7cd480ca8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 37. Interception and monitoring goods and technology; other goods[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 38. Treasury licences[^c-5ca8253e88b7ad96037e1e7cd480ca8a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5ca8253e88b7ad96037e1e7cd480ca8a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-5ca8253e88b7ad96037e1e7cd480ca8a]EXPLANATORY NOTE
+[^c-5ca8253e88b7ad96037e1e7cd480ca8a]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -238,4 +238,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 ## Annotations
 
-[^key-5ca8253e88b7ad96037e1e7cd480ca8a]: Textual amendment: Regulations revoked (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2021/1146/regulation/39)
+[^c-5ca8253e88b7ad96037e1e7cd480ca8a]: Textual amendment: Regulations revoked (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2021/1146/regulation/39)

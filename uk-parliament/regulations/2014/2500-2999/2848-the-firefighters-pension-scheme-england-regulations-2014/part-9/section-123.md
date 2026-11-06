@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Payments into the Firefighters’ Pension Fund[^key-1695f5e9089c78168097a46515c2a33e]
+## 123. Payments into the Firefighters’ Pension Fund[^c-1695f5e9089c78168097a46515c2a33e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ The scheme manager must pay into the FPF—
 
 ## Annotations
 
-[^key-1695f5e9089c78168097a46515c2a33e]: Commencement: [Reg. 123](https://www.legislation.gov.uk/uksi/2014/2848/regulation/123) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-1695f5e9089c78168097a46515c2a33e]: Commencement: [Reg. 123](https://www.legislation.gov.uk/uksi/2014/2848/regulation/123) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

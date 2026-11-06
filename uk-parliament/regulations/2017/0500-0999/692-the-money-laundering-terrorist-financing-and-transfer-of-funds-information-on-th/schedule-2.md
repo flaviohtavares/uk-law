@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Listed Activities[^key-2d0ac75476d2cd0e323d75b4cb46e293]
+## SCHEDULE 2 — Listed Activities[^c-2d0ac75476d2cd0e323d75b4cb46e293]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 10(4)
 
-The activities [^key-0808e784b45376f0446a4901700137e9]... are—
+The activities [^c-0808e784b45376f0446a4901700137e9]... are—
 
 > **2.** Lending including, inter alia: consumer credit, credit agreements relating to immovable property, factoring, with or without recourse, financing of commercial transactions (including forfeiting).
 >
 > **3.** Financial leasing.
 >
-> **4.**[^key-6b992592d099a1b824693976d6079380] Payment services as defined in regulation 2(1) of the Payment Services Regulations 2017[^M_F_8c4c1dba-7a35-4772-d5d0-ccfdf071af98], other than an account information service (within the meaning of that term in regulation 2(1) of those Regulations).
+> **4.**[^c-6b992592d099a1b824693976d6079380] Payment services as defined in regulation 2(1) of the Payment Services Regulations 2017[^M_F_8c4c1dba-7a35-4772-d5d0-ccfdf071af98], other than an account information service (within the meaning of that term in regulation 2(1) of those Regulations).
 >
-> **5.** Issuing and administering other means of payment (e.g. travellers' cheques and bankers' drafts) [^key-a974f7e453ea749fd67c19c8413d7c77]....
+> **5.** Issuing and administering other means of payment (e.g. travellers' cheques and bankers' drafts) [^c-a974f7e453ea749fd67c19c8413d7c77]....
 >
 > **6.** Guarantees and commitments.
 >
@@ -58,12 +58,12 @@ The activities [^key-0808e784b45376f0446a4901700137e9]... are—
 
 ## Annotations
 
-[^key-2d0ac75476d2cd0e323d75b4cb46e293]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/692/schedule/2) heading substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [12(4)(a)](https://www.legislation.gov.uk/uksi/2022/838/regulation/12/4/a) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-2d0ac75476d2cd0e323d75b4cb46e293]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/692/schedule/2) heading substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [12(4)(a)](https://www.legislation.gov.uk/uksi/2022/838/regulation/12/4/a) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
 
-[^key-0808e784b45376f0446a4901700137e9]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/692/schedule/2) omitted (17.8.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [12(4)(b)](https://www.legislation.gov.uk/uksi/2022/838/regulation/12/4/b) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-0808e784b45376f0446a4901700137e9]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/692/schedule/2) omitted (17.8.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [12(4)(b)](https://www.legislation.gov.uk/uksi/2022/838/regulation/12/4/b) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
 
-[^key-6b992592d099a1b824693976d6079380]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2017/692/schedule/2/paragraph/4) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [15](https://www.legislation.gov.uk/uksi/2022/860/regulation/15)
+[^c-6b992592d099a1b824693976d6079380]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2017/692/schedule/2/paragraph/4) substituted (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [15](https://www.legislation.gov.uk/uksi/2022/860/regulation/15)
 
 [^M_F_8c4c1dba-7a35-4772-d5d0-ccfdf071af98]: Textual amendment: [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752). There have been amendments to regulation 2 but none are relevant.
 
-[^key-a974f7e453ea749fd67c19c8413d7c77]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/692/schedule/2) omitted (17.8.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [12(4)(d)](https://www.legislation.gov.uk/uksi/2022/838/regulation/12/4/d) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-a974f7e453ea749fd67c19c8413d7c77]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2017/692/schedule/2) omitted (17.8.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [12(4)(d)](https://www.legislation.gov.uk/uksi/2022/838/regulation/12/4/d) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))

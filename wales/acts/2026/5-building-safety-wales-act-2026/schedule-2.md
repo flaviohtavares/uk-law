@@ -26,7 +26,7 @@ summary: ''
 
 ### PART 1 — PROCEDURE BEFORE APPLYING FOR SPECIAL MEASURES ORDER
 
-#### 1. Introductory[^key-2ac61d1feb890e0daf8bea393a933438]
+#### 1. Introductory[^c-2ac61d1feb890e0daf8bea393a933438]
 
 (1) The building safety authority for a category 1 building may not apply to a residential property tribunal for a special measures order in relation to the building unless—
 
@@ -38,7 +38,7 @@ summary: ''
 - (a) it has complied with the requirements of this Part, and
 - (b) the building safety authority for the building agrees to the making of the application.
 
-#### 2. Notice that authority proposes to apply for special measures order[^key-d6c1133463550e6a248e3185089b3f01]
+#### 2. Notice that authority proposes to apply for special measures order[^c-d6c1133463550e6a248e3185089b3f01]
 
 (1) A building safety authority or fire safety authority that proposes to apply for a special measures order in relation to a category 1 building must give notice of the proposal to every other person who is an interested person in relation to the building.
 
@@ -51,7 +51,7 @@ summary: ''
 - (e) specify a period in which interested persons may make representations in response to the notice;
 - (f) state that any representations must be made in writing and sent to a postal or email address specified in the notice.
 
-#### 3. Notice of authority’s decision whether to apply for order[^key-90a5f6d10276afe7eea5871be61954b7]
+#### 3. Notice of authority’s decision whether to apply for order[^c-90a5f6d10276afe7eea5871be61954b7]
 
 (1) This paragraph applies where a building safety authority or fire safety authority has given a notice under paragraph 2 of a proposal to apply for a special measures order in relation to a category 1 building.
 
@@ -66,7 +66,7 @@ summary: ''
 - (b) give its reasons for reaching that decision;
 - (c) if the authority intends to make the application, set out the terms of the order that the authority intends to invite the residential property tribunal to make, including the name and address of the proposed special measures manager.
 
-#### 4. Requirement to include financial management proposal with notice of proposal or decision[^key-2e200a94ca643a0ea0e52d9251e00e25]
+#### 4. Requirement to include financial management proposal with notice of proposal or decision[^c-2e200a94ca643a0ea0e52d9251e00e25]
 
 (1) This paragraph applies where a building safety authority or fire safety authority gives to an interested person—
 
@@ -85,7 +85,7 @@ summary: ''
 
 (4) In this paragraph “**relevant accountable person**” means an accountable person to whose building safety functions the proposed special measures order would apply.
 
-#### 5. Further provision about giving notices under this Part[^key-b7dfa76dea6c81e98ec540d347cbf5a2]
+#### 5. Further provision about giving notices under this Part[^c-b7dfa76dea6c81e98ec540d347cbf5a2]
 
 (1) Paragraphs 2 to 4 do not require a building safety authority or fire safety authority to give a notice or financial management proposal to an interested person if the authority—
 
@@ -99,7 +99,7 @@ summary: ''
 
 ### PART 2 — FURTHER PROVISION ABOUT EFFECT AND IMPLEMENTATION OF SPECIAL MEASURES ORDER
 
-#### 6. Functions to be carried out by special measures manager[^key-b922b4f1fdc569d5fca6a1ec3d281c8e]
+#### 6. Functions to be carried out by special measures manager[^c-b922b4f1fdc569d5fca6a1ec3d281c8e]
 
 (1) This paragraph applies while a special measures order is in force in relation to the building safety functions of an accountable person for a category 1 building.
 
@@ -107,11 +107,11 @@ summary: ''
 
 (3) Any building safety functions of the accountable person relating to the making of an application or appeal to a residential property tribunal are to be treated as functions of the accountable person and the special measures manager (and may be exercised by either of them).
 
-#### 7. Effect of special measures order on compliance notices[^key-89023cfba33094aa0a7c2cc83d21bdbb]
+#### 7. Effect of special measures order on compliance notices[^c-89023cfba33094aa0a7c2cc83d21bdbb]
 
 Where a special measures order is made in relation to the building safety functions of an accountable person for a category 1 building, any compliance notice given to that accountable person ceases to have effect (but this does not affect any liability incurred as a result of a failure to comply with the notice that took place before the order was made).
 
-#### 8. Effect of special measures order on relevant contracts[^key-89179cd824f6c24e772e6a033cbaf811]
+#### 8. Effect of special measures order on relevant contracts[^c-89179cd824f6c24e772e6a033cbaf811]
 
 (1) This paragraph applies where—
 
@@ -133,7 +133,7 @@ Where a special measures order is made in relation to the building safety functi
 
 (5) The notice under sub-paragraph (1)(b) must state which rights or liabilities of the accountable person under the relevant contract are relevant rights or liabilities.
 
-#### 9. Effect of special measures order on legal proceedings[^key-d91a9d0a73888515982224069456128f]
+#### 9. Effect of special measures order on legal proceedings[^c-d91a9d0a73888515982224069456128f]
 
 (1) This paragraph applies where—
 
@@ -150,7 +150,7 @@ Where a special measures order is made in relation to the building safety functi
   - (i) the cause of action is a relevant cause of action, or
   - (ii) causes of action of a description that includes it are relevant causes of action.
 
-#### 10. Reimbursement of damages paid by special measures manager[^key-149453bcf53255663c3e4319a6878f9b]
+#### 10. Reimbursement of damages paid by special measures manager[^c-149453bcf53255663c3e4319a6878f9b]
 
 (1) This paragraph applies where—
 
@@ -159,7 +159,7 @@ Where a special measures order is made in relation to the building safety functi
 
 (2) The accountable person is liable to reimburse to the manager an amount equal to the amount of damages paid by the manager.
 
-#### 11. Payments received by special measures manager to be held on trust[^key-7c176c91e2fd3ad262320673249619c1]
+#### 11. Payments received by special measures manager to be held on trust[^c-7c176c91e2fd3ad262320673249619c1]
 
 (1) This paragraph applies where a special measures order relating to a category 1 building requires one or more relevant accountable persons to make payments to a special measures manager.
 
@@ -186,7 +186,7 @@ Where a special measures order is made in relation to the building safety functi
 
 (6) In this paragraph “**relevant accountable person**” means an accountable person to whose building safety functions the special measures order applies.
 
-#### 12. Power of tribunal to give further directions[^key-933e2ab809689baada7aefa9c9fb6a61]
+#### 12. Power of tribunal to give further directions[^c-933e2ab809689baada7aefa9c9fb6a61]
 
 (1) This paragraph applies while a special measures order is in force in relation to a category 1 building.
 
@@ -202,7 +202,7 @@ Where a special measures order is made in relation to the building safety functi
 - (c) an accountable person for the building;
 - (d) the special measures manager.
 
-#### 13. Change in accountable person[^key-d0556712daf9cd355372248bfda6e1e5]
+#### 13. Change in accountable person[^c-d0556712daf9cd355372248bfda6e1e5]
 
 (1) This paragraph applies where—
 
@@ -231,11 +231,11 @@ Where a special measures order is made in relation to the building safety functi
 
 ### PART 3 — REVIEW, VARIATION AND REVOCATION OF SPECIAL MEASURES ORDER
 
-#### 14. Duration of special measures order[^key-8f90ccc21011dc21b66f7ece49357deb]
+#### 14. Duration of special measures order[^c-8f90ccc21011dc21b66f7ece49357deb]
 
 A special measures order continues in force until it is revoked under paragraph 16.
 
-#### 15. Authority to keep certain matters under review[^key-5c609322c431900d30e3067f52503d3b]
+#### 15. Authority to keep certain matters under review[^c-5c609322c431900d30e3067f52503d3b]
 
 (1) This paragraph applies while a special measures order is in force in relation to a category 1 building.
 
@@ -248,7 +248,7 @@ A special measures order continues in force until it is revoked under paragraph 
 
 (3) If, on such a review, the authority considers that any term of the special measures order should be varied, it must apply for a variation of the order under paragraph 16 (but this requirement is subject to the provisions of that paragraph).
 
-#### 16. Variation or revocation of special measures order[^key-5a1305e4d9d9b3bfb4ea2be732430723]
+#### 16. Variation or revocation of special measures order[^c-5a1305e4d9d9b3bfb4ea2be732430723]
 
 (1) A residential property tribunal may vary or revoke a special measures order relating to a category 1 building on an application by—
 
@@ -285,7 +285,7 @@ A special measures order continues in force until it is revoked under paragraph 
 
 (8) Sub-paragraph (7)(d) does not require the agreement of the special measures manager if the manager is an individual who lacks capacity to agree to the application.
 
-#### 17. Procedure before authority applies to vary special measures order[^key-c654dec717d3e5a39f7575c1e813e4e9]
+#### 17. Procedure before authority applies to vary special measures order[^c-c654dec717d3e5a39f7575c1e813e4e9]
 
 (1) A building safety authority or fire safety authority that proposes to apply to a residential property tribunal to vary a special measures order must give notice of the proposal to every other person who is an interested person in relation to the building.
 
@@ -318,7 +318,7 @@ A special measures order continues in force until it is revoked under paragraph 
 - (a) the form of a notice;
 - (b) how a notice must be given.
 
-#### 18. Directions where special measures order is varied or revoked[^key-e9582db9e07f24038037ba7bfe9b34d3]
+#### 18. Directions where special measures order is varied or revoked[^c-e9582db9e07f24038037ba7bfe9b34d3]
 
 (1) Where a residential property tribunal varies or revokes a special measures order, it may give directions to any person with respect to—
 
@@ -352,7 +352,7 @@ A special measures order continues in force until it is revoked under paragraph 
 
 ### PART 4 — SUPPLEMENTARY
 
-#### 19. Notifications relating to special measures order[^key-840f0b5ce77db1b12e82cf42d5e0d55e]
+#### 19. Notifications relating to special measures order[^c-840f0b5ce77db1b12e82cf42d5e0d55e]
 
 (1) This paragraph applies where—
 
@@ -361,7 +361,7 @@ A special measures order continues in force until it is revoked under paragraph 
 
 (2) The building safety authority or fire safety authority on whose application the special measures order was made must take all reasonable steps to give every other person who is an interested person in relation to the building notice that the order has been made, varied or revoked.
 
-#### 20. Power of tribunal to amend order under section 24 of the Landlord and Tenant Act 1987[^key-a22478d2c0d61f5ad053aa037b53f829]
+#### 20. Power of tribunal to amend order under section 24 of the Landlord and Tenant Act 1987[^c-a22478d2c0d61f5ad053aa037b53f829]
 
 (1) Sub-paragraph (2) applies where—
 
@@ -375,7 +375,7 @@ A special measures order continues in force until it is revoked under paragraph 
 - (a) section 24(2C) of the Landlord and Tenant Act [1987 (c. 31)](https://www.legislation.gov.uk/ukpga/1987/31), which prevents a section 24 order from providing for a manager to carry out a function if a special measures order provides that the function is to be carried out by a special measures manager;
 - (b) section 24ZA of that Act, which enables a special measures manager to apply for a section 24 order.
 
-#### 21. Meaning of “interested person”[^key-6ab4eea55a5e9468c9704130dee2df07]
+#### 21. Meaning of “interested person”[^c-6ab4eea55a5e9468c9704130dee2df07]
 
 (1) In this Schedule “**interested person**”, in relation to a category 1 building, means—
 
@@ -404,44 +404,44 @@ A special measures order continues in force until it is revoked under paragraph 
 
 ## Annotations
 
-[^key-2ac61d1feb890e0daf8bea393a933438]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-2ac61d1feb890e0daf8bea393a933438]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-d6c1133463550e6a248e3185089b3f01]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-d6c1133463550e6a248e3185089b3f01]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-90a5f6d10276afe7eea5871be61954b7]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-90a5f6d10276afe7eea5871be61954b7]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-2e200a94ca643a0ea0e52d9251e00e25]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-2e200a94ca643a0ea0e52d9251e00e25]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-b7dfa76dea6c81e98ec540d347cbf5a2]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-b7dfa76dea6c81e98ec540d347cbf5a2]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-b922b4f1fdc569d5fca6a1ec3d281c8e]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-b922b4f1fdc569d5fca6a1ec3d281c8e]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-89023cfba33094aa0a7c2cc83d21bdbb]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-89023cfba33094aa0a7c2cc83d21bdbb]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-89179cd824f6c24e772e6a033cbaf811]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-89179cd824f6c24e772e6a033cbaf811]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-d91a9d0a73888515982224069456128f]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-d91a9d0a73888515982224069456128f]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-149453bcf53255663c3e4319a6878f9b]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-149453bcf53255663c3e4319a6878f9b]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-7c176c91e2fd3ad262320673249619c1]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-7c176c91e2fd3ad262320673249619c1]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-933e2ab809689baada7aefa9c9fb6a61]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-933e2ab809689baada7aefa9c9fb6a61]: Commencement: Sch. 2 para. 12 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-d0556712daf9cd355372248bfda6e1e5]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-d0556712daf9cd355372248bfda6e1e5]: Commencement: Sch. 2 para. 13 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-8f90ccc21011dc21b66f7ece49357deb]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-8f90ccc21011dc21b66f7ece49357deb]: Commencement: Sch. 2 para. 14 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-5c609322c431900d30e3067f52503d3b]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-5c609322c431900d30e3067f52503d3b]: Commencement: Sch. 2 para. 15 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-5a1305e4d9d9b3bfb4ea2be732430723]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-5a1305e4d9d9b3bfb4ea2be732430723]: Commencement: Sch. 2 para. 16 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-c654dec717d3e5a39f7575c1e813e4e9]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-c654dec717d3e5a39f7575c1e813e4e9]: Commencement: Sch. 2 para. 17 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-e9582db9e07f24038037ba7bfe9b34d3]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-e9582db9e07f24038037ba7bfe9b34d3]: Commencement: Sch. 2 para. 18 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-840f0b5ce77db1b12e82cf42d5e0d55e]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-840f0b5ce77db1b12e82cf42d5e0d55e]: Commencement: Sch. 2 para. 19 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-a22478d2c0d61f5ad053aa037b53f829]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-a22478d2c0d61f5ad053aa037b53f829]: Commencement: Sch. 2 para. 20 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
 
-[^key-6ab4eea55a5e9468c9704130dee2df07]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-6ab4eea55a5e9468c9704130dee2df07]: Commencement: Sch. 2 para. 21 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

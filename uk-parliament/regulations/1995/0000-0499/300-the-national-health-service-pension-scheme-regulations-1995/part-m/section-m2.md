@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## M2. Exercising a right to a transfer or a buy out[^key-e340595f578b73e4dd2c3e29fb3f5cb5]
+## M2. Exercising a right to a transfer or a buy out[^c-e340595f578b73e4dd2c3e29fb3f5cb5]
 
 *Extent: E+W+S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e340595f578b73e4dd2c3e29fb3f5cb5]: Textual amendment: [Pt. M](https://www.legislation.gov.uk/uksi/1995/300/part/M) (regs. M1-M6) substituted for Pt. M (regs. M1-M7) (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2008/654/regulation/41)
+[^c-e340595f578b73e4dd2c3e29fb3f5cb5]: Textual amendment: [Pt. M](https://www.legislation.gov.uk/uksi/1995/300/part/M) (regs. M1-M6) substituted for Pt. M (regs. M1-M7) (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2008/654/regulation/41)
 
 [^M_F_1ac2d2b6-133c-4122-b236-6af431510b29]: Textual amendment: Words in reg. M2(1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/1/paragraph/1)

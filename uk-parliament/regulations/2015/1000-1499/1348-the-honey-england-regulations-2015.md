@@ -48,7 +48,7 @@ Coming into force
 
 [^c22642401]The Secretary of State has had regard to relevant advice given by the Food Standards Agency in accordance with section 48(4A) of the Food Safety Act 1990.
 
-There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c22642411], during the preparation and evaluation of the following Regulations.[^key-26dc4a3e064b2411f6d4ad92c1a93f4d]
+There has been consultation, as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c22642411], during the preparation and evaluation of the following Regulations.[^c-26dc4a3e064b2411f6d4ad92c1a93f4d]
 
 ## PART 1 — Introduction
 
@@ -237,7 +237,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 ### 17. Additional labelling requirements
 
-(1) No person may trade in honey unless the country of origin where the honey has been harvested is indicated on the label except that, if the honey originates in more than one [^key-b9f8595af3acd4fdf330bec3446bfb78]... country, the countries of origin may be replaced with the indication “blend of honeys from more than one country” or similar wording[^key-e32a55b80a3810758723e6f0e2d3df14].
+(1) No person may trade in honey unless the country of origin where the honey has been harvested is indicated on the label except that, if the honey originates in more than one [^c-b9f8595af3acd4fdf330bec3446bfb78]... country, the countries of origin may be replaced with the indication “blend of honeys from more than one country” or similar wording[^c-e32a55b80a3810758723e6f0e2d3df14].
 
 (2) In paragraphs (3) to (5), “**relevant honey**” means all honey except for baker's honey and filtered honey.
 
@@ -253,7 +253,7 @@ Where two or more provisions of these Regulations apply in determining the name 
 
 Each food authority must enforce and execute these Regulations in its area.
 
-### 18A. Methods of analysis[^key-d29097f6c4ead681eddbce45bdd7901f]
+### 18A. Methods of analysis[^c-d29097f6c4ead681eddbce45bdd7901f]
 
 In carrying out its obligations under regulation 18, a food authority must, whenever possible, use a method of analysis approved by the Codex Alimentarius, or another internationally recognised validated method of analysis, to verify compliance with the provisions of these Regulations.
 
@@ -284,7 +284,7 @@ An authorised officer of a food authority must not serve an improvement notice u
 - (a) the improvement notice would relate to a product that was placed on the market or labelled before 24th June 2015; and
 - (b) the matters constituting the alleged contravention would not have constituted an offence under the Honey (England) Regulations 2003 as they stood immediately before 24th June 2015.
 
-### 22A. Transitional provisions: withdrawal from the EU[^key-b1f77ec0cac54fdbf24b59d9a2b3ef2d]
+### 22A. Transitional provisions: withdrawal from the EU[^c-b1f77ec0cac54fdbf24b59d9a2b3ef2d]
 
 (1) An authorised officer of a food authority must not serve on a person an improvement notice relating to a contravention of regulation 17(1) if—
 
@@ -293,7 +293,7 @@ An authorised officer of a food authority must not serve an improvement notice u
 
 (2) An authorised officer of a food authority must not serve on a person an improvement notice relating to a contravention of regulation 17(1) if—
 
-- (a) the improvement notice would relate to a product that was placed on the market before 1 January 2024[^key-d1a49be654ed06124b520d3f1773c65b];
+- (a) the improvement notice would relate to a product that was placed on the market before 1 January 2024[^c-d1a49be654ed06124b520d3f1773c65b];
 - (b) the product bears one of the indications provided for in regulation 17(1) as that provision had effect immediately before IP completion day;
 - (c) had the product been placed on the market immediately before IP completion day, the use of the indication would not have constituted a contravention of regulation 17(1) as that provision had effect immediately before IP completion day; and
 - (d) the indication is accurate in identifying the “EU”, “non-EU” or “EU and non-EU” origins, as the case may be, of the honeys in the product.
@@ -479,7 +479,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c22642411]: Marginal citation: OJ No L 31, 1.2.2002, p 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014, p 1).
 
-[^key-26dc4a3e064b2411f6d4ad92c1a93f4d]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-26dc4a3e064b2411f6d4ad92c1a93f4d]: Modification: Regulations applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^c22642421]: Marginal citation: OJ No L 304, 22.11.2011, p 18, last amended by Commission Delegated Regulation (EU) No 78/2014 (OJ No L 27, 30.1.2014, p 7).
 
@@ -487,11 +487,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c22642441]: Marginal citation: OJ No L 31, 1.2.2002, p 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014, p 1).
 
-[^key-b9f8595af3acd4fdf330bec3446bfb78]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2015/1348/regulation/17/1) omitted (27.5.2021) by virtue of [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2021/632/regulation/4/2/a)
+[^c-b9f8595af3acd4fdf330bec3446bfb78]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2015/1348/regulation/17/1) omitted (27.5.2021) by virtue of [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2021/632/regulation/4/2/a)
 
-[^key-e32a55b80a3810758723e6f0e2d3df14]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2015/1348/regulation/17/1) substituted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2021/632/regulation/4/2/b)
+[^c-e32a55b80a3810758723e6f0e2d3df14]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/uksi/2015/1348/regulation/17/1) substituted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2021/632/regulation/4/2/b)
 
-[^key-d29097f6c4ead681eddbce45bdd7901f]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2015/1348/regulation/18A) inserted (31.12.2020) by [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/150/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d29097f6c4ead681eddbce45bdd7901f]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2015/1348/regulation/18A) inserted (31.12.2020) by [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/150/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22642451]: Marginal citation: [S.I. 2003/2243](https://www.legislation.gov.uk/uksi/2003/2243), amended by [S.I. 2005/1920](https://www.legislation.gov.uk/uksi/2005/1920), 2626, 2014/1855.
 
@@ -499,9 +499,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c22642471]: Marginal citation: [S.I. 2014/1855](https://www.legislation.gov.uk/uksi/2014/1855).
 
-[^key-b1f77ec0cac54fdbf24b59d9a2b3ef2d]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/uksi/2015/1348/regulation/22A) inserted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/632/regulation/4/3)
+[^c-b1f77ec0cac54fdbf24b59d9a2b3ef2d]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/uksi/2015/1348/regulation/22A) inserted (27.5.2021) by [The Food and Drink (Miscellaneous Amendments Relating to Food and Wine Composition, Information and Labelling) Regulations 2021 (S.I. 2021/632)](https://www.legislation.gov.uk/uksi/2021/632), [regs. 1](https://www.legislation.gov.uk/uksi/2021/632/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/632/regulation/4/3)
 
-[^key-d1a49be654ed06124b520d3f1773c65b]: Textual amendment: Words in [reg. 22A(2)(a)](https://www.legislation.gov.uk/uksi/2015/1348/regulation/22A/2/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (England) Regulations 2022 (S.I. 2022/938)](https://www.legislation.gov.uk/uksi/2022/938), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/938/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2022/938/regulation/9)
+[^c-d1a49be654ed06124b520d3f1773c65b]: Textual amendment: Words in [reg. 22A(2)(a)](https://www.legislation.gov.uk/uksi/2015/1348/regulation/22A/2/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (England) Regulations 2022 (S.I. 2022/938)](https://www.legislation.gov.uk/uksi/2022/938), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/938/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2022/938/regulation/9)
 
 [^c22642481]: Marginal citation: [Section 35(1)](https://www.legislation.gov.uk/uksi/2015/1348/section/35/1) is amended by paragraph 42 of Schedule 26 to the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) from a date to be appointed. There are other amendments to section 35(1) not relevant to these Regulations.
 

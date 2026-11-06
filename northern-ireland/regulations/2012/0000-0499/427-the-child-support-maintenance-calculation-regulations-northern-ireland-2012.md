@@ -42,15 +42,15 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 3(1)(b), 4(3), 8(3), 14(4) and (5), 16(1) and (1A), 18(1), (4) and (6), 19(2), (3) and (5), 28ZA(2)(b) and (4)(c); 28ZB(6)(c) and (8), 28A(5), 28B(2)(c), 28C(2)(b) and (5), 28F(2)(b), (3)(b) and (5), 28G(2) and (3), 39, 47(1) and (2) and 48(4) of, and paragraphs 3(2) and (3), 4(1) and (2), 5, 5A(6)(b), 7(3), 8(2), 9, 10(1) and (2), 10C(2)(b) and 11 of Schedule 1, paragraphs 2, 4 and 5 of Schedule 4A and paragraphs 2(2) to (5) and 4 to 6 of Schedule 4B to, the Child Support (Northern Ireland) Order 1991[^f00001], and now vested in it[^f00002].[^key-5cd465a3d8a872c5e03b177110a9dffd]
+The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 3(1)(b), 4(3), 8(3), 14(4) and (5), 16(1) and (1A), 18(1), (4) and (6), 19(2), (3) and (5), 28ZA(2)(b) and (4)(c); 28ZB(6)(c) and (8), 28A(5), 28B(2)(c), 28C(2)(b) and (5), 28F(2)(b), (3)(b) and (5), 28G(2) and (3), 39, 47(1) and (2) and 48(4) of, and paragraphs 3(2) and (3), 4(1) and (2), 5, 5A(6)(b), 7(3), 8(2), 9, 10(1) and (2), 10C(2)(b) and 11 of Schedule 1, paragraphs 2, 4 and 5 of Schedule 4A and paragraphs 2(2) to (5) and 4 to 6 of Schedule 4B to, the Child Support (Northern Ireland) Order 1991[^f00001], and now vested in it[^f00002].[^c-5cd465a3d8a872c5e03b177110a9dffd]
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-4066032fe6a2c7d7db860a7290a192b4]
+### 1. Citation and commencement[^c-4066032fe6a2c7d7db860a7290a192b4]
 
 These Regulations may be cited as the Child Support Maintenance Calculation Regulations (Northern Ireland) 2012 and shall come into operation in relation to a particular case on the day on which paragraph 2 of Schedule 1 to the Child Maintenance Act (Northern Ireland) 2008[^f00003] comes into operation in relation to that type of case.
 
-### 2. Interpretation[^key-3159a306c702de7ee459dc0b9dc8c642]
+### 2. Interpretation[^c-3159a306c702de7ee459dc0b9dc8c642]
 
 (1) In these Regulations—
 
@@ -59,12 +59,12 @@ These Regulations may be cited as the Child Support Maintenance Calculation Regu
 - “the Child Support Order” means the Child Support (Northern Ireland) Order 1991;
 - “the Children Order” means the Children (Northern Ireland) Order 1995[^f00005];
 - “the Contributions and Benefits Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00006];
-- “contribution-based jobseeker’s allowance” means an allowance under the Jobseekers (Northern Ireland) Order 1995 as amended by the provisions of Part 1 of Schedule 12 to the Welfare Reform (Northern Ireland) Order 2015 that remove references to an income-based allowance, and a contribution-based allowance under the Jobseekers (Northern Ireland) Order 1995 as that Order has effect apart from those provisions;[^key-50ac3d2b5497fbced45129ff444784d6]
-- “contributory employment and support allowance” means an allowance under Part 1 of the Welfare Reform Act 2007 as amended by the provisions of Schedule 3, and Part 1 of Schedule 12, to the Welfare Reform (Northern Ireland) Order 2015 that remove references to an income related allowance, and a contributory allowance under Part 1 of the Welfare Reform Act 2007 as that Part has effect apart from those provisions,[^key-39c17c27d3a7d225d26a895ca1422f3d]
+- “contribution-based jobseeker’s allowance” means an allowance under the Jobseekers (Northern Ireland) Order 1995 as amended by the provisions of Part 1 of Schedule 12 to the Welfare Reform (Northern Ireland) Order 2015 that remove references to an income-based allowance, and a contribution-based allowance under the Jobseekers (Northern Ireland) Order 1995 as that Order has effect apart from those provisions;[^c-50ac3d2b5497fbced45129ff444784d6]
+- “contributory employment and support allowance” means an allowance under Part 1 of the Welfare Reform Act 2007 as amended by the provisions of Schedule 3, and Part 1 of Schedule 12, to the Welfare Reform (Northern Ireland) Order 2015 that remove references to an income related allowance, and a contributory allowance under Part 1 of the Welfare Reform Act 2007 as that Part has effect apart from those provisions,[^c-39c17c27d3a7d225d26a895ca1422f3d]
 - “couple” has the meaning given by paragraph 10C(5) of Schedule 1;
 - “current income” has the meaning given in regulation 36;
 - “the Earnings and Pensions Act” means the Income Tax (Earnings and Pensions) Act 2003[^f00008];
-- “[^key-4abf92e8348ee0a8b997f6464778ce9c]**electronic communication**” has the same meaning as in section 4(1) of the Electronic Communications Act (Northern Ireland) 2001;
+- “[^c-4abf92e8348ee0a8b997f6464778ce9c]**electronic communication**” has the same meaning as in section 4(1) of the Electronic Communications Act (Northern Ireland) 2001;
 - “the flat rate” means the flat rate of child support maintenance payable under paragraph 4 of Schedule 1;
 - “gross weekly income” means income calculated under Chapter 1 of Part 4;
 - “historic income” has the meaning given in regulation 34;
@@ -96,37 +96,37 @@ These Regulations may be cited as the Child Support Maintenance Calculation Regu
 
 (2) Any reference in these Regulations to a numbered Article or Schedule is to the Article of, or Schedule to, the Child Support Order.
 
-### 2A. Use of electronic communications[^key-a7dff455208b411fe6eecb7fca5926e7]
+### 2A. Use of electronic communications[^c-a7dff455208b411fe6eecb7fca5926e7]
 
 The Schedule makes provision for the use of electronic communications.
 
-### 3. Meaning of “calculation decision”[^key-6bfeef61da9781649fb7d6bdeea3dad6]
+### 3. Meaning of “calculation decision”[^c-6bfeef61da9781649fb7d6bdeea3dad6]
 
 In these Regulations “calculation decision” means a decision of the Department under Article 13, 18[^f00022] or 19 determining the amount of child support maintenance to be fixed in accordance with Part I of Schedule 1.
 
-### 4. Meaning of “latest available tax year”[^key-7ea40c24581f4387b2b0b595b280e45d]
+### 4. Meaning of “latest available tax year”[^c-7ea40c24581f4387b2b0b595b280e45d]
 
 (1) In these Regulations “latest available tax year” means the tax year which, on the date on which the Department requests information from HMRC for the purposes of regulation 34 or regulation 68, is the most recent relevant tax year for which HMRC have received the information required to be provided in relation to the non-resident parent under the PAYE Regulations or in a self assessment return.
 
 (2) In this regulation a “relevant tax year” is any one of the 6 tax years immediately preceding the date of the request for information referred to in paragraph (1).
 
-### 5. Calculation – information applicable[^key-d2d9f6d8a38014a3236c9a1e036cfcb4]
+### 5. Calculation – information applicable[^c-d2d9f6d8a38014a3236c9a1e036cfcb4]
 
 Information required for the purposes of making a calculation decision or a decision in relation to an application for a variation is the information applicable at the date from which that decision (assuming that the decision was a decision to make or amend a maintenance calculation) would have effect.
 
-### 6. Rounding[^key-61644796a04107d2e2472bcdc2b3816f]
+### 6. Rounding[^c-61644796a04107d2e2472bcdc2b3816f]
 
 Where a calculation decision or a decision in relation to an application for a variation results in a fraction of a penny, that is to be treated as a penny if it is either one half or exceeds one half, and otherwise it is to be disregarded.
 
-### 7. Service of documents[^key-e470c2878e7e99b7d4fef5b21fc36b29]
+### 7. Service of documents[^c-e470c2878e7e99b7d4fef5b21fc36b29]
 
 (1) Where any document is given or sent to the Department, that document is to be treated as having been given or sent on the date of receipt by the Department.
 
 (2) Where the Department sends any written notification or any document by ordinary post to a person’s last known or notified address that document is treated as having been given or sent on the second day following the day on which it is posted.
 
-(3)[^key-dc9f3a9908b37379e0165e42899b2048] Where the Department sends any written notification or any document by electronic communication to a person’s last known or notified address for electronic communication that document is treated as having been given or sent at the end of the first day after the day it was sent.
+(3)[^c-dc9f3a9908b37379e0165e42899b2048] Where the Department sends any written notification or any document by electronic communication to a person’s last known or notified address for electronic communication that document is treated as having been given or sent at the end of the first day after the day it was sent.
 
-### 8. Authorisation of representative[^key-60c1c1256f1475f229fec94a9ee4fb96]
+### 8. Authorisation of representative[^c-60c1c1256f1475f229fec94a9ee4fb96]
 
 (1) A person may authorise a representative, whether or not legally qualified, to receive notices and other documents on that person’s behalf and to act on that person’s behalf in relation to the making of applications and the supply of information under any provision of the Child Support Order or these Regulations.
 
@@ -134,13 +134,13 @@ Where a calculation decision or a decision in relation to an application for a v
 
 ## PART 2 — APPLICATION FOR A MAINTENANCE CALCULATION
 
-### 9. Applications under Article 7[^key-16dab103d5d8e31d2136e42114e5121e]
+### 9. Applications under Article 7[^c-16dab103d5d8e31d2136e42114e5121e]
 
 (1) The Department may determine the form in which an application for a maintenance calculation is to be made and may require the applicant to provide such information or evidence as it reasonably requires in order to process the application (including, in the case of an application by a person with care, information sufficient to enable the person named as the non-resident parent to be identified).
 
 (2) The application is to be taken to have been made when the application has been submitted to the Department in the required form and the information required under paragraph (1) has been provided.
 
-### 10. Multiple applications[^key-8f535cef99b0da7253e4ce3bc0c75c3b]
+### 10. Multiple applications[^c-8f535cef99b0da7253e4ce3bc0c75c3b]
 
 (1) Where two or more applications for a maintenance calculation are made with respect to the same child the Department may determine which to proceed with.
 
@@ -153,19 +153,19 @@ Where a calculation decision or a decision in relation to an application for a v
 
 the Department must proceed with the application in relation to each non-resident parent, treating it as a single application for a maintenance calculation in respect of that qualifying child.
 
-### 11. Notice of application[^key-9f0fd30962272547d4e80c5565cede05]
+### 11. Notice of application[^c-9f0fd30962272547d4e80c5565cede05]
 
-(1) Where an application has been made under Article 7 , and the requirement in paragraph (3) is satisfied, the Department must[^key-b3f62f2f033ee7661f8109140b288d1a] give written notice to the non-resident parent—
+(1) Where an application has been made under Article 7 , and the requirement in paragraph (3) is satisfied, the Department must[^c-b3f62f2f033ee7661f8109140b288d1a] give written notice to the non-resident parent—
 
 - (a) requesting such information as the Department may require to make the maintenance calculation; and
 - (b) where relevant, advising the non-resident parent of the power of the Department to make an estimate of income or a default maintenance decision.
 
-(2)[^key-e8ce733179d2e0bb260ffc6d5eddd52a] The notice must be sent by—
+(2)[^c-e8ce733179d2e0bb260ffc6d5eddd52a] The notice must be sent by—
 
 - (a) post to the last known address of the non-resident parent (as ascertained and verified in accordance with paragraph (3)(a)); or
 - (b) by electronic communication in accordance with the Schedule.
 
-(3)[^key-3b2a20f0bc84bc813e059c6fcb1b7953] The requirement is that the address of the non-resident parent in relation to the application has been ascertained and verified.
+(3)[^c-3b2a20f0bc84bc813e059c6fcb1b7953] The requirement is that the address of the non-resident parent in relation to the application has been ascertained and verified.
 
 (4) Except where paragraph (5) or (6) applies to an application, notice must be given as soon as is reasonably practicable.
 
@@ -205,17 +205,17 @@ notice must be given in accordance with paragraph (7).
 
 ### CHAPTER 1 — MAKING THE MAINTENANCE CALCULATION
 
-#### 12. Initial effective date[^key-ea683c9352200c323be06eda6882918a]
+#### 12. Initial effective date[^c-ea683c9352200c323be06eda6882918a]
 
-(1)[^key-ed41bf51a2daca438930b91f7f12b7a7] The effective date of a decision under Article 13 is the date provided as the initial effective date in the notice given to the non-resident parent under[^key-f5d5e8d9c491b2940074e043430aa5d0] regulation 11.
+(1)[^c-ed41bf51a2daca438930b91f7f12b7a7] The effective date of a decision under Article 13 is the date provided as the initial effective date in the notice given to the non-resident parent under[^c-f5d5e8d9c491b2940074e043430aa5d0] regulation 11.
 
-(2)[^key-cb125eb70d8b2de7957fe906266ac6eb] The non-resident parent must be notified of the initial effective date—
+(2)[^c-cb125eb70d8b2de7957fe906266ac6eb] The non-resident parent must be notified of the initial effective date—
 
-- (a) by written notice posted to the last known postal address[^key-160452bf48e89d19baeca946648d3816] of the non-resident parent at least two days prior to the initial effective date; [^key-f38780a127349a1879ea461900fa2367]...
-- (b) by telephone on or before the initial effective date and by written notice sent by ordinary post to the last known postal address[^key-81bd063556824462ae8b2464304b433d] of the non-resident parent; or[^key-b34b9e3c9660854ce29c78a3829f3d44]
+- (a) by written notice posted to the last known postal address[^c-160452bf48e89d19baeca946648d3816] of the non-resident parent at least two days prior to the initial effective date; [^c-f38780a127349a1879ea461900fa2367]...
+- (b) by telephone on or before the initial effective date and by written notice sent by ordinary post to the last known postal address[^c-81bd063556824462ae8b2464304b433d] of the non-resident parent; or[^c-b34b9e3c9660854ce29c78a3829f3d44]
 - (c) by electronic communication in accordance with the Schedule, at least one day prior to the initial effective date.
 
-#### 13. Effect of variation applied for before a maintenance calculation is made[^key-83062ded3057cf468d52eed0239d9106]
+#### 13. Effect of variation applied for before a maintenance calculation is made[^c-83062ded3057cf468d52eed0239d9106]
 
 (1) Subject to paragraph (2), where an application for a variation is made in the circumstances referred to in Article 28A(3) and the application is agreed to, the effective date of the maintenance calculation which takes account of the variation is—
 
@@ -233,11 +233,11 @@ the date from which the maintenance calculation is to take account of the variat
 
 ### CHAPTER 2 — REVISION
 
-#### 14. Grounds for revision[^key-de0b6eaceece111d0a3fc4c82956978a]
+#### 14. Grounds for revision[^c-de0b6eaceece111d0a3fc4c82956978a]
 
 (1) A decision to which Article 18(1A)[^f00025] applies may be revised by the Department—
 
-- (a)[^key-293faac177fa94dbde4353ea132004ac] if the Department receives an application for the revision of a decision under either Article 18 or Article 28G of the Child Support Order—
+- (a)[^c-293faac177fa94dbde4353ea132004ac] if the Department receives an application for the revision of a decision under either Article 18 or Article 28G of the Child Support Order—
   - (i) within 30 days after the date of notification of the decision;
   - (ii) within 30 days after the date on which notice of the correction is given under regulation 27A(3) (correction of accidental errors); or
   - (iii) within such longer time as may be allowed under regulation 15;
@@ -252,7 +252,7 @@ the date from which the maintenance calculation is to take account of the variat
 
 (3) An interim maintenance decision or default maintenance decision made under Article 14 may be revised at any time.
 
-(3A)[^key-c5d413f13a0720a0c531aa95e9bcc9ba] Where—
+(3A)[^c-c5d413f13a0720a0c531aa95e9bcc9ba] Where—
 
 - (a) the Department makes a decision and there is an appeal;
 - (b) there is a further decision in relation to the appellant (“decision B”) after the appeal but before the appeal results in a decision by an appeal tribunal (“decision C”); and
@@ -262,7 +262,7 @@ decision B may be revised at any time.
 
 (4) In paragraph (1)(e) “official error” means an error made by an officer of the Department or HMRC acting as such to which no person outside the Department or HMRC materially contributed, but excludes any error of law which is shown to have been an error by virtue of a subsequent decision of a Child Support Commissioner or a court.
 
-#### 14A. Consideration of revision before appeal[^key-d66845d73c13be074c7db1743c241fb9]
+#### 14A. Consideration of revision before appeal[^c-d66845d73c13be074c7db1743c241fb9]
 
 (1) This regulation applies in a case where—
 
@@ -277,7 +277,7 @@ decision B may be revised at any time.
 
 (5) In this regulation, “decision” means a decision mentioned in Article 22(1)(a) or (b) (as substituted by section 10 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000).
 
-#### 15. Late application for a revision[^key-2e34f65afc12552ee022108d1037107d]
+#### 15. Late application for a revision[^c-2e34f65afc12552ee022108d1037107d]
 
 (1) The time limit for making an application for a revision specified in regulation 14(1)(a) may be extended where the conditions specified in the following provisions of this regulation are satisfied.
 
@@ -288,12 +288,12 @@ decision B may be revised at any time.
 (4) An application for an extension of time may not be granted unless the applicant satisfies the Department that—
 
 - (a) it is reasonable to grant the application;
-- (b) the application for revision has merit , except in a case to which regulation 14A applies[^key-f5f6df58236563ffb6f42df7c522a254]; and
+- (b) the application for revision has merit , except in a case to which regulation 14A applies[^c-f5f6df58236563ffb6f42df7c522a254]; and
 - (c) special circumstances are relevant to the application and because of those special circumstances it was not practicable for the application to be made within the time limit specified in regulation 14(1)(a).
 
 (5) In determining whether it is reasonable to grant an application for an extension of time, the Department must have regard to the principle that the greater the amount of time that has elapsed between the end of the time specified in regulation 14(1)(a) for applying for a revision and the making of the application for an extension of time, the more compelling should be the special circumstances on which the application is based.
 
-(6) In determining whether it is reasonable to grant the application for an extension of time , except in a case to which regulation 14A applies[^key-e5cef56395e64562a3b5f6e5d3427176], no account shall be taken of the following—
+(6) In determining whether it is reasonable to grant the application for an extension of time , except in a case to which regulation 14A applies[^c-e5cef56395e64562a3b5f6e5d3427176], no account shall be taken of the following—
 
 - (a) that the applicant, or any person acting for the applicant, was unaware of or misunderstood the law applicable to the case (including ignorance or misunderstanding of the time limits imposed by these Regulations); or
 - (b) that a Child Support Commissioner or a court has taken a different view of the law from that previously understood and applied.
@@ -302,13 +302,13 @@ decision B may be revised at any time.
 
 (8) In paragraph (6)(b) the reference to a Child Support Commissioner shall be read as including a reference to the Upper Tribunal established under section 3 of the Tribunals, Courts and Enforcement Act 2007[^f00028].
 
-#### 16. Effective date of a revision[^key-7b0dbddb7fd768bbe94597c1648db144]
+#### 16. Effective date of a revision[^c-7b0dbddb7fd768bbe94597c1648db144]
 
 Where a decision is revised and the date from which the original decision took effect is found to be wrong, the decision as revised takes effect from the date on which the original decision would have taken effect had the error not been made.
 
 ### CHAPTER 3 — SUPERSESSION
 
-#### 17. Grounds for supersession[^key-3e789710ed427a81b4b65c522eacfbc5]
+#### 17. Grounds for supersession[^c-3e789710ed427a81b4b65c522eacfbc5]
 
 (1) A decision mentioned in Article 19(1)[^f00029] may be superseded by a decision of the Department, on an application or on the Department’s own initiative, where—
 
@@ -328,7 +328,7 @@ Where a decision is revised and the date from which the original decision took e
 
 (7) This regulation is subject to any provision in Chapter 4 relating to the circumstances in which a supersession decision may be made.
 
-#### 18. Effective dates for supersession decisions[^key-748cca8cc5b1d47012bc2a3a5fa55d75]
+#### 18. Effective dates for supersession decisions[^c-748cca8cc5b1d47012bc2a3a5fa55d75]
 
 (1) This regulation sets out cases and circumstances in which a supersession decision takes effect on a date other than the date mentioned in Article 19(4)[^f00032].
 
@@ -360,7 +360,7 @@ Where a decision is revised and the date from which the original decision took e
 
 ### CHAPTER 4 — UPDATING GROSS WEEKLY INCOME
 
-#### 19. Setting the review date[^key-56cbd494b4d6761003c96227ab96dc67]
+#### 19. Setting the review date[^c-56cbd494b4d6761003c96227ab96dc67]
 
 (1) The Department must, in relation to each application for a maintenance calculation, fix a date at which the non-resident parent’s gross weekly income is to be reviewed by reference to an updated HMRC figure (“the review date”).
 
@@ -370,19 +370,19 @@ Where a decision is revised and the date from which the original decision took e
 
 (4) Where an application for a maintenance calculation in relation to both non-resident parents of a qualifying child is treated as a single application by virtue of regulation 10(3) the Department may fix different review dates in respect of each non-resident parent.
 
-#### 20. Updating gross weekly income at the review date[^key-647e5426dead1568f4b40fc3bd99ca64]
+#### 20. Updating gross weekly income at the review date[^c-647e5426dead1568f4b40fc3bd99ca64]
 
 (1) Where an updated figure is provided by HMRC for the latest available tax year in accordance with a request under regulation 34(2)(b), that figure applies, for the purposes of determining historic income, on or after the review date.
 
 (2) If the non-resident parent’s gross weekly income, as calculated in accordance with Chapter 1 of Part 4 by reference to that updated figure, has changed, the Department may make a supersession decision with effect from the review date.
 
-#### 21. Updating unearned income at the review date[^key-8394fe0018a179ebd5944c663240cb70]
+#### 21. Updating unearned income at the review date[^c-8394fe0018a179ebd5944c663240cb70]
 
 (1) This regulation applies where, in relation to a maintenance calculation in force, additional income has been taken into account by virtue of a variation previously agreed to under regulation 68.
 
 (2) When the Department makes a request to HMRC for the purposes of reviewing the non-resident parent’s gross weekly income in accordance with regulation 20 the Department may also request information relating to the non-resident parent’s unearned income for the latest available tax year and, where appropriate, make a supersession decision on the basis of that information with effect from the review date.
 
-#### 22. Periodic current income check[^key-907605c4d6f80aca4919da3bdb18e6b2]
+#### 22. Periodic current income check[^c-907605c4d6f80aca4919da3bdb18e6b2]
 
 (1) Where—
 
@@ -399,7 +399,7 @@ the Department may, for the purposes of validating that amount, require evidence
 
 (5) Where the Department makes a supersession decision under paragraph (3) and the relevant change of circumstances affecting the non-resident parent’s current income was one that the non-resident parent was required to report in accordance with regulations under Article 16(1), the decision takes effect from the date on which the change occurred.
 
-#### 23. 25 per cent. tolerance for changes outside annual review or periodic current income check[^key-707cfca221274d171efa44939068ca0f]
+#### 23. 25 per cent. tolerance for changes outside annual review or periodic current income check[^c-707cfca221274d171efa44939068ca0f]
 
 (1) This regulation applies where the non-resident parent’s gross weekly income is based on an amount of current income by virtue of regulation 33(2) and, before the next review date, there is a change of circumstances affecting the amount of that current income.
 
@@ -415,13 +415,13 @@ the Department may, for the purposes of validating that amount, require evidence
 
 ### CHAPTER 5 — NOTIFICATION OF DECISIONS
 
-#### 24. Notification – general[^key-dc411fe2cb79b1177bd66a4b05c4d7bd]
+#### 24. Notification – general[^c-dc411fe2cb79b1177bd66a4b05c4d7bd]
 
 (1) Notification of a decision made by the Department under Article 13, 14 or 19 or of any revision of such a decision under Article 18 must be given to the parties in accordance with this Chapter.
 
 (2) Any such notification must include information as to the provisions relating to the revision and supersession of, and appeals from, decisions made under the Child Support Order.
 
-#### 25. Notification of a maintenance calculation[^key-99ad3411e846f40d7878bd889b54c75a]
+#### 25. Notification of a maintenance calculation[^c-99ad3411e846f40d7878bd889b54c75a]
 
 (1) Notification of a decision made under Article 13 or 14(2)[^f00035] must set out—
 
@@ -452,17 +452,17 @@ and must state the nature of the information required to enable a calculation de
 - (a) the address of any person other than the recipient of the notice (other than the address of the relevant office of the Department) or any other information the use of which could reasonably be expected to lead to any such persons being located; and
 - (b) any other information the use of which could reasonably be expected to lead to any person other than the qualifying child or a party to the application being identified.
 
-#### 26. Notification of a revision or supersession[^key-e62fc9f40aa0f27b1ef32cf9d6e242df]
+#### 26. Notification of a revision or supersession[^c-e62fc9f40aa0f27b1ef32cf9d6e242df]
 
 (1) A notification of a decision made following the revision or supersession of a decision made under Article 13, 14 or 19, whether as originally made or revised under Article 18, must, subject to the qualification in regulation 25(3), set out the information mentioned in regulation 25(1) and (2) in relation to the decision in question.
 
 (2) The requirement in paragraph (1) does not apply where the Department has decided not to supersede a decision and in that case the Department must, where appropriate and as far as reasonably practicable, notify the parties of that decision.
 
-#### 27. Notification of cessation of a maintenance calculation[^key-c4c1af8164793f3e4d91cf7efa0493f3]
+#### 27. Notification of cessation of a maintenance calculation[^c-c4c1af8164793f3e4d91cf7efa0493f3]
 
 Where the Department decides that a maintenance calculation has ceased or is to cease to have effect, the Department must immediately notify the non-resident parent and person with care so far as that is reasonably practicable.
 
-### Chapter 5A — Accidental errors[^key-72d8c764ba3b3f8bccdb1fc38ae3ec13]
+### Chapter 5A — Accidental errors[^c-72d8c764ba3b3f8bccdb1fc38ae3ec13]
 
 #### 27A. Correction of accidental errors
 
@@ -476,7 +476,7 @@ Where the Department decides that a maintenance calculation has ceased or is to 
 
 ### CHAPTER 6 — MISCELLANEOUS MATTERS RELATING TO APPEALS
 
-#### 28. Decisions involving issues that arise on appeal in other cases[^key-789fe8bd834694c656b02f0345b0f730]
+#### 28. Decisions involving issues that arise on appeal in other cases[^c-789fe8bd834694c656b02f0345b0f730]
 
 (1) For the purposes of Article 28ZA(2)(b)[^f00037]—
 
@@ -492,18 +492,18 @@ Where the Department decides that a maintenance calculation has ceased or is to 
   - (i) there would be no liability for child support maintenance, or
   - (ii) such liability would be less than would be the case were an appeal not made.
 
-#### 29. Appeals involving issues that arise in other cases[^key-dd456b58b8af8437caaddc2d66e736d6]
+#### 29. Appeals involving issues that arise in other cases[^c-dd456b58b8af8437caaddc2d66e736d6]
 
 The circumstances prescribed for the purposes of Article 28ZB(6)(c)[^f00038], are where the Department—
 
 - (a) certifies in writing that an appeal against that decision in question is being considered; and
 - (b) considers that, if such an appeal were already determined, it would affect the determination of the appeal described in Article 28ZB(1)(a).
 
-#### 30. Tribunal decision made pending outcome of a related appeal[^key-e2f86c0b7a7f63a629c3530bcda1ac4b]
+#### 30. Tribunal decision made pending outcome of a related appeal[^c-e2f86c0b7a7f63a629c3530bcda1ac4b]
 
 Where, in accordance with Article 28ZB(5) the Department makes a decision superseding the decision of an appeal tribunal or Child Support Commissioner, the superseding decision takes effect from the date on which the decision of the appeal tribunal or, as the case may be, the Child Support Commissioner would have taken effect had it been decided in accordance with the determination of the Child Support Commissioner or the court in the appeal referred to in Article 28ZB(1)(b).
 
-#### 31. Supersession of tribunal decision made in error due to misrepresentation etc.[^key-5b79c7b68d8903ea46e606ec8767fa55]
+#### 31. Supersession of tribunal decision made in error due to misrepresentation etc.[^c-5b79c7b68d8903ea46e606ec8767fa55]
 
 (1) Where—
 
@@ -512,7 +512,7 @@ Where, in accordance with Article 28ZB(5) the Department makes a decision supers
 
 the superseding decision takes effect from the date on which the decision of the appeal tribunal or, as the case may be, the Child Support Commissioner, took or was to take, effect.
 
-#### 32. Supersession of look-alike case where law reinterpreted by a Child Support Commissioner or a court[^key-5ad0cad6521279026885670a544f0f7d]
+#### 32. Supersession of look-alike case where law reinterpreted by a Child Support Commissioner or a court[^c-5ad0cad6521279026885670a544f0f7d]
 
 Any supersession decision made under Article 19[^f00039] in consequence of a determination which is a relevant determination for the purposes of Article 28ZC[^f00040] takes effect from the date of the relevant determination.
 
@@ -520,17 +520,17 @@ Any supersession decision made under Article 19[^f00039] in consequence of a det
 
 ### CHAPTER 1 — DETERMINATION OF GROSS WEEKLY INCOME
 
-#### 33. The general rule for determining gross weekly income[^key-d94d39250428dfffabc2c3427481036c]
+#### 33. The general rule for determining gross weekly income[^c-d94d39250428dfffabc2c3427481036c]
 
 (1) The gross weekly income of a non-resident parent for the purposes of a calculation decision is a weekly amount determined at the effective date of the decision on the basis of either historic income or current income in accordance with this Chapter.
 
-(2)[^key-4987940c5f9478f5ad429959b2c5a75c] The non-resident parent’s gross weekly income is to be based on historic income unless—
+(2)[^c-4987940c5f9478f5ad429959b2c5a75c] The non-resident parent’s gross weekly income is to be based on historic income unless—
 
 - (a) current income differs from historic income by an amount that is at least 25 per cent. of historic income; or
-- (b) [^key-6b1abed9c8afd68a67230e4ff00780f4]...no historic income is available ; or[^key-9a1f06edc6aa22fe9c5bc18aa6206ee9]
+- (b) [^c-6b1abed9c8afd68a67230e4ff00780f4]...no historic income is available ; or[^c-9a1f06edc6aa22fe9c5bc18aa6206ee9]
 - (c) the Department is unable, for whatever reason, to request or obtain the information from HMRC.
 
-(2A)[^key-9082b30603688c560532a536fe5651f9] For the purposes of paragraph (2)(a), current income is treated as differing from historic income by an amount that is at least 25 per cent. of historic income where
+(2A)[^c-9082b30603688c560532a536fe5651f9] For the purposes of paragraph (2)(a), current income is treated as differing from historic income by an amount that is at least 25 per cent. of historic income where
 
 - (a) the amount of historic income is nil; and
 - (b) the amount of current income is greater than nil.
@@ -541,7 +541,7 @@ Any supersession decision made under Article 19[^f00039] in consequence of a det
 
 (5) This regulation is subject to regulation 23(4).
 
-#### 34. Historic income – general[^key-5096735b46140ba2e678030b007af107]
+#### 34. Historic income – general[^c-5096735b46140ba2e678030b007af107]
 
 (1) Historic income is determined by—
 
@@ -556,7 +556,7 @@ Any supersession decision made under Article 19[^f00039] in consequence of a det
 
 (3) Where the non-resident parent has made relievable pension contributions during the tax year to which the HMRC figure relates and those contributions have not been deducted under net pay arrangements, the HMRC figure is, if the non-resident parent so requests and provides such information as the Department requires, to be adjusted by deducting the amount of those contributions.
 
-#### 35. Historic income – the HMRC figure[^key-ac9e6e6c399efe6750a7e9b9aec8de4c]
+#### 35. Historic income – the HMRC figure[^c-ac9e6e6c399efe6750a7e9b9aec8de4c]
 
 (1) The HMRC figure is the amount identified by HMRC from information provided in a self-assessment return or under the PAYE Regulations, as the sum of the income on which the non-resident parent was charged to tax for the latest available tax year—
 
@@ -569,7 +569,7 @@ Any supersession decision made under Article 19[^f00039] in consequence of a det
   - (iv) income support, and
 - (d) under Part 2 of the Trading and Other Income Act.
 
-(2)[^key-dd4ba1ba5dcf5117939cb07bf3f624c3] The amount identified as income for the purposes of paragraph (1)(a) is to be taken after any deduction for relative pension contributions made by the non-resident parent’s employer in accordance with net pay arrangements.
+(2)[^c-dd4ba1ba5dcf5117939cb07bf3f624c3] The amount identified as income for the purposes of paragraph (1)(a) is to be taken after any deduction for relative pension contributions made by the non-resident parent’s employer in accordance with net pay arrangements.
 
 (3) The amount identified as income for the purposes of paragraph (1)(b) is not to include a UK social security pension.
 
@@ -577,7 +577,7 @@ Any supersession decision made under Article 19[^f00039] in consequence of a det
 
 (5) Where, for the latest available tax year, HMRC has both information provided in a self- assessment return and information provided under the PAYE Regulations, the amount identified for the purposes of paragraph (1) is to be taken from the former.
 
-#### 36. Current income – general[^key-8b8d2a223a87696eb7d1b4ebed74dae9]
+#### 36. Current income – general[^c-8b8d2a223a87696eb7d1b4ebed74dae9]
 
 (1) Current income is the sum of the non-resident parent’s income—
 
@@ -589,7 +589,7 @@ calculated or estimated as a weekly amount at the effective date of the relevant
 
 (2) Where payment is made in a currency other than sterling, an amount equal to any banking charge payable in converting that payment to sterling is to be disregarded in calculating the current income of a non-resident parent.
 
-#### 37. Current income as an employee or office-holder[^key-37a46227e5efb6ab3ff379f04c866452]
+#### 37. Current income as an employee or office-holder[^c-37a46227e5efb6ab3ff379f04c866452]
 
 (1) The non-resident parent’s current income as an employee or office-holder is income of a kind that would be taxable earnings within the meaning of section 10(2) of the Earnings and Pensions Act and is to be calculated as follows.
 
@@ -604,7 +604,7 @@ calculated or estimated as a weekly amount at the effective date of the relevant
 
 (5) Where the non-resident parent’s employer makes deductions of relievable pension contributions from the payments referred to in paragraph (2) or (3) the amount of those payments is to be calculated after those deductions.
 
-#### 38. Current income from self-employment[^key-afa4a841e2676a387035a70c4e7decf5]
+#### 38. Current income from self-employment[^c-afa4a841e2676a387035a70c4e7decf5]
 
 (1) The non-resident parent’s current income from self-employment is to be determined by reference to the profits of any trade, profession or vocation carried on by the non-resident parent at the effective date of the relevant calculation decision.
 
@@ -618,7 +618,7 @@ calculated or estimated as a weekly amount at the effective date of the relevant
 
 (6) The profits of a trade, profession or vocation that the non-resident parent has ceased to carry on at the effective date of the relevant calculation decision are to be taken as nil.
 
-#### 39. Deduction for pension contributions relievable at source[^key-3ee48081334c42e2bf9392d55549756f]
+#### 39. Deduction for pension contributions relievable at source[^c-3ee48081334c42e2bf9392d55549756f]
 
 Where the non resident parent—
 
@@ -627,15 +627,15 @@ Where the non resident parent—
 
 there is to be deducted from the sum of any amounts calculated in accordance with regulation 37 or 38 an amount determined by the Department as representing the weekly average of those contributions.
 
-#### 40. Current income from a pension[^key-957db7975123bcf653f5819efcf4639d]
+#### 40. Current income from a pension[^c-957db7975123bcf653f5819efcf4639d]
 
 The non-resident parent’s current income from a pension is to be calculated as the weekly average, over such period as the Department considers appropriate, of amounts received by the non-resident parent from a pension or annuity or other income (excluding UK social security pensions) of a kind that would be charged to tax under Part 9 of the Earnings and Pensions Act.
 
-#### 41. Estimate of current income where insufficient information available[^key-43f0e05603a078178073ab55dca1d5ad]
+#### 41. Estimate of current income where insufficient information available[^c-43f0e05603a078178073ab55dca1d5ad]
 
 (1) Where—
 
-- (a)[^key-532f21a2adf0449fc4e8cc0249edbaee] current income applies by virtue of regulation 33(2)(a) where the amount of historic income is nil or by virtue of[^key-9a7791d85179ad9a46db550825ea4c7d] regulation 33(2)(b) or (c)[^key-f01dadb916ccc3f4c89dff83b3b293f5] ; and
+- (a)[^c-532f21a2adf0449fc4e8cc0249edbaee] current income applies by virtue of regulation 33(2)(a) where the amount of historic income is nil or by virtue of[^c-9a7791d85179ad9a46db550825ea4c7d] regulation 33(2)(b) or (c)[^c-f01dadb916ccc3f4c89dff83b3b293f5] ; and
 - (b) the information available in relation to current income is insufficient or unreliable,
 
 the Department may estimate that income and, in doing so, may make any assumption as to any fact.
@@ -644,7 +644,7 @@ the Department may estimate that income and, in doing so, may make any assumptio
 
 ### CHAPTER 2 — RATES OF CHILD SUPPORT MAINTENANCE
 
-#### 42. Reduced rate[^key-3d888e5e743ae3c39ad9efed71df8774]
+#### 42. Reduced rate[^c-3d888e5e743ae3c39ad9efed71df8774]
 
 The reduced rate is an amount calculated as follows—
 
@@ -668,14 +668,14 @@ The reduced rate is an amount calculated as follows—
 </tbody>
 </table>
 
-[^key-c41e4f5429cb6dbfdd7c46c0381793b6]
+[^c-c41e4f5429cb6dbfdd7c46c0381793b6]
 
-#### 43. Flat rate[^key-3e061e17cde47fa873fd4150dbc62497]
+#### 43. Flat rate[^c-3e061e17cde47fa873fd4150dbc62497]
 
 (1) The following benefits, pensions and allowances are prescribed for the purposes of paragraph 4(1)(b) of Schedule 1—
 
 - (a) under the Contributions and Benefits Act—
-  - (i)[^key-4145cf0e105325512a5ddd181d24dc54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-4145cf0e105325512a5ddd181d24dc54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) category A retirement pension,
   - (iii) category B retirement pension,
   - (iv) category C and category D retirement pension,
@@ -692,35 +692,35 @@ The reduced rate is an amount calculated as follows—
 - (d) a training allowance (other than in respect of a relevant training scheme);
 - (e) a war disablement pension within the meaning of section 146(2) of the Contributions and Benefits Act[^f00044] or a pension which is analogous to such a pension paid by the government of a country outside the United Kingdom;
 - (f) a war widow’s pension within the meaning of that section, or a war widower’s pension or surviving civil partner’s war pension;
-- (g) a payment under a scheme mentioned in section 1(2) of the Armed Forces (Pensions and Compensation) Act 2004[^f00045]; [^key-13136ff5870964118899110c639d984d]...
-- (h) contributory employment and support allowance ;[^key-2329ab7642a3fdd29ed6ad52cba6ae1a] [^key-84306257eaed09a3a053b040e125fd3c]...
-- (i) a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015; and[^key-60e15fc83e8ee5e0c5f310a856b45585]
-- (j)[^key-ec426a407c5fe4328880de0d35f34cde] the carer support payment component of carer support given in accordance with[^key-3c88bed6eb812c97e00af090030c029b] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023.
+- (g) a payment under a scheme mentioned in section 1(2) of the Armed Forces (Pensions and Compensation) Act 2004[^f00045]; [^c-13136ff5870964118899110c639d984d]...
+- (h) contributory employment and support allowance ;[^c-2329ab7642a3fdd29ed6ad52cba6ae1a] [^c-84306257eaed09a3a053b040e125fd3c]...
+- (i) a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015; and[^c-60e15fc83e8ee5e0c5f310a856b45585]
+- (j)[^c-ec426a407c5fe4328880de0d35f34cde] the carer support payment component of carer support given in accordance with[^c-3c88bed6eb812c97e00af090030c029b] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023.
 
 (2) The following benefits are prescribed for the purposes of paragraph 4(1)(c) of Schedule 1—
 
 - (a) income support;
 - (b) income-based jobseeker’s allowance;
-- (c) income-related employment and support allowance; [^key-bb7456ed75058fa1f90e6cc2710575e6]...
-- (d) state pension credit; and[^key-619186196e0646d6b318cd92efb9b73f]
-- (e)[^key-1de85f53eb329dfe4a5fc4df953da749] universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015, where the award of universal credit is calculated on the basis that the non-resident parent does not have any earned income.
+- (c) income-related employment and support allowance; [^c-bb7456ed75058fa1f90e6cc2710575e6]...
+- (d) state pension credit; and[^c-619186196e0646d6b318cd92efb9b73f]
+- (e)[^c-1de85f53eb329dfe4a5fc4df953da749] universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015, where the award of universal credit is calculated on the basis that the non-resident parent does not have any earned income.
 
 (3) Where the conditions referred to in paragraph 4(2) of Schedule 1 are satisfied the flat rate of maintenance payable is half the flat rate that would otherwise apply.
 
 (4) In paragraph (1)(d) “training allowance” means a payment under section 1 of the Employment and Training Act (Northern Ireland) 1950[^f00046] which is paid to a person for that person’s maintenance while undergoing training.
 
-(5)[^key-2a6a5f37796820629e201da010d106c2] For the purposes of paragraph (2)(e) and regulation 44(1)(c) “earned income” has the meaning given in regulation 51 of the Universal Credit Regulations (Northern Ireland) 2016.
+(5)[^c-2a6a5f37796820629e201da010d106c2] For the purposes of paragraph (2)(e) and regulation 44(1)(c) “earned income” has the meaning given in regulation 51 of the Universal Credit Regulations (Northern Ireland) 2016.
 
-#### 44. Nil rate[^key-1f39d1fd550c8da490d23b59cefa7efa]
+#### 44. Nil rate[^c-1f39d1fd550c8da490d23b59cefa7efa]
 
 (1) The nil rate is payable where the non-resident parent is*—*
 
 - (a) a child;
 - (b) a prisoner or a person serving a sentence of imprisonment detained in hospital;
 - (c) a person who is 16 or 17 years old and—
-  - (i) in receipt of income support, income-based jobseeker’s allowance or income-related employment and support allowance, [^key-cdd0408f03474e0b5188f447fed3b1af]...
+  - (i) in receipt of income support, income-based jobseeker’s allowance or income-related employment and support allowance, [^c-cdd0408f03474e0b5188f447fed3b1af]...
   - (ii) a member of a couple whose partner is in receipt of income support, income-based jobseeker’s allowance or income-related employment and support allowance;
-  - (iii)[^key-7aa9a259b6cfeaf2440034cc317775d0] in receipt of universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015, where the award of universal credit is calculated on the basis that they do not have any earned income; or
+  - (iii)[^c-7aa9a259b6cfeaf2440034cc317775d0] in receipt of universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015, where the award of universal credit is calculated on the basis that they do not have any earned income; or
   - (iv) in a case not covered by paragraph (iii), a member of a couple where their partner is in receipt of universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015 and the award of universal credit is calculated on the basis that the non-resident parent does not have any earned income;
 - (d) a person receiving an allowance in respect of a relevant training scheme; or
 - (e) a person who is resident in a residential care home, nursing home or an independent hospital who—
@@ -741,7 +741,7 @@ The reduced rate is an amount calculated as follows—
 - “the Regional Health and Social Care Board” means the Regional Health and Social Care Board established under section 7 of the Health and Social Care (Reform) Act (Northern Ireland) 2009[^f00051];
 - “residential care home” has the meaning assigned to it by Article 10 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003.
 
-#### 45. Decrease for shared care[^key-fab7de6f1b01cec29c091d8e9ffb9ee5]
+#### 45. Decrease for shared care[^c-fab7de6f1b01cec29c091d8e9ffb9ee5]
 
 (1) This regulation and regulation 46 apply where the Department determines the number of nights which count for the purposes of the decrease in the amount of child support maintenance under paragraphs 7 and 8 of Schedule 1[^f00052].
 
@@ -763,7 +763,7 @@ The reduced rate is an amount calculated as follows—
 - (b) the non-resident parent has the care of the qualifying child when the non-resident parent is looking after the child; and
 - (c) where, on a particular night, a child is a boarder at a boarding school, or an in-patient in a hospital, the person who would, but for those circumstances, have the care of the child for that night, shall be treated as having care of the child for that night.
 
-#### 46. Assumption as to number of nights of shared care[^key-60ac6289ea24a470bbf76d405a07cd1a]
+#### 46. Assumption as to number of nights of shared care[^c-60ac6289ea24a470bbf76d405a07cd1a]
 
 (1) This regulation applies where the Department is required to make a determination under regulation 45 for the purposes of a calculation decision.
 
@@ -776,7 +776,7 @@ the Department may make the decision on the basis of an assumption that the non-
 
 (3) Where the Department makes a decision under paragraph (2) the assumption applies until an application is made under Article 19 for a supersession of that decision and the evidence provided is sufficient to enable a determination to be made on the basis set out in regulation 45(4).
 
-#### 47. Non-resident parent party to another maintenance arrangement[^key-0776437a3c9cd4a5e94761716bb68da8]
+#### 47. Non-resident parent party to another maintenance arrangement[^c-0776437a3c9cd4a5e94761716bb68da8]
 
 (1) An agreement described in paragraph (2) is an agreement of a prescribed description for the purposes of paragraph 5A(6)(b) of Schedule 1[^f00053].
 
@@ -790,7 +790,7 @@ the Department may make the decision on the basis of an assumption that the non-
 
 ### CHAPTER 3 — DEFAULT MAINTENANCE DECISIONS
 
-#### 48. Default rate[^key-8e91df24c3d50b6c8ecf778f6196bfcc]
+#### 48. Default rate[^c-8e91df24c3d50b6c8ecf778f6196bfcc]
 
 (1) Where the Department makes a default maintenance decision under Article 14(1)[^f00054] the default rate is set out in paragraph (2).
 
@@ -804,7 +804,7 @@ apportioned, where the non-resident parent has more than one qualifying child an
 
 ### CHAPTER 4 — SPECIAL CASES
 
-#### 49. Parent treated as a non-resident parent in shared care cases[^key-e194ae3bbd3a159409a97f8a4d2e6608]
+#### 49. Parent treated as a non-resident parent in shared care cases[^c-e194ae3bbd3a159409a97f8a4d2e6608]
 
 (1) Where the circumstances of a case are that—
 
@@ -817,15 +817,15 @@ the case is to be treated as a special case for the purposes of the Child Suppor
 
 (3) Where the applicant is receiving child benefit in respect of the qualifying child the applicant is assumed, in the absence of evidence to the contrary, to be providing day to day care to a greater extent than any other person.
 
-(4)[^key-4c87fcb9a53819dc957b71b1870d4a61] For the purposes of paragraph (3), where a person has made an election under section 11A(1) of the Social Security Administration (Northern Ireland) Act 1992 for payments of child benefit not to be made, that person is to be treated as receiving child benefit.
+(4)[^c-4c87fcb9a53819dc957b71b1870d4a61] For the purposes of paragraph (3), where a person has made an election under section 11A(1) of the Social Security Administration (Northern Ireland) Act 1992 for payments of child benefit not to be made, that person is to be treated as receiving child benefit.
 
-#### 50. Child in care who is allowed to live with a parent[^key-e93f9f401cb38e371e2193c1b8cf85bc]
+#### 50. Child in care who is allowed to live with a parent[^c-e93f9f401cb38e371e2193c1b8cf85bc]
 
 (1) Where the circumstances of a case are that a qualifying child who is in the care of an authority is allowed by the authority to live with a parent of that child under Article 27(5) of the Children Order, that case is to be treated as a special case for the purposes of the Child Support Order.
 
 (2) For the purposes of this case, Article 4(3)(b) is to be modified so that, for the reference to the person who usually provides day to day care for the child there is substituted a reference to the parent of the child with whom the authority has allowed the child to live.
 
-#### 51. Non-resident parent liable to maintain a child of the family or a child abroad[^key-0224cc5e0a35d37221749bcaead942b8]
+#### 51. Non-resident parent liable to maintain a child of the family or a child abroad[^c-0224cc5e0a35d37221749bcaead942b8]
 
 (1) A case is to be treated as a special case for the purposes of the Child Support Order where—
 
@@ -839,7 +839,7 @@ the case is to be treated as a special case for the purposes of the Child Suppor
 
 (3) For the purposes of this regulation “child” includes a person who has not attained the age of 20 whom the non-resident parent is liable to maintain in accordance with paragraph (1)(b)(ii).
 
-#### 52. Care provided in part by an authority[^key-36a219f1204255d17c12aa0fe101b66e]
+#### 52. Care provided in part by an authority[^c-36a219f1204255d17c12aa0fe101b66e]
 
 (1) This regulation applies where paragraph (2) applies and the rate of child support maintenance payable is the basic rate, or the reduced rate, or has been calculated following agreement to a variation where the non-resident parent’s liability would otherwise have been the flat rate or the nil rate.
 
@@ -881,13 +881,13 @@ that case is to be treated as a special case for the purpose of the Child Suppor
 
 (12) A child is in the care of an authority for any night in which that child is being looked after by the authority within the meaning of Article 25 of the Children Order[^f00056].
 
-#### 53. Care provided for relevant other child by an authority[^key-012810cb1f5df35eda1d5fe88f270fd5]
+#### 53. Care provided for relevant other child by an authority[^c-012810cb1f5df35eda1d5fe88f270fd5]
 
-(1)[^key-d4ade608c2c870903cae7e9c10c43d8a] Where a child, other than a qualifying child, is cared for in part or in full by an authority and the non-resident parent or the non-resident parent’s partner receives child benefit for that child the child is a relevant other child for the purposes of Schedule 1.
+(1)[^c-d4ade608c2c870903cae7e9c10c43d8a] Where a child, other than a qualifying child, is cared for in part or in full by an authority and the non-resident parent or the non-resident parent’s partner receives child benefit for that child the child is a relevant other child for the purposes of Schedule 1.
 
-(2)[^key-9c748735058ac84902a52bb99ec0f12f] For the purposes of paragraph (1), where a person has made an election under section 11A(1) of the Social Security Administration (Northern Ireland) Act 1992 for payments of child benefit not to be made, that person is to be treated as receiving child benefit.
+(2)[^c-9c748735058ac84902a52bb99ec0f12f] For the purposes of paragraph (1), where a person has made an election under section 11A(1) of the Social Security Administration (Northern Ireland) Act 1992 for payments of child benefit not to be made, that person is to be treated as receiving child benefit.
 
-#### 54. Child who is a boarder or an in-patient in hospital[^key-005cf9ed62b35945fc8f3386a9ac8a8b]
+#### 54. Child who is a boarder or an in-patient in hospital[^c-005cf9ed62b35945fc8f3386a9ac8a8b]
 
 (1) Where the circumstances of the case are that—
 
@@ -902,7 +902,7 @@ that case is to be treated as a special case for the purposes of the Child Suppo
 
 ### CHAPTER 1 — GENERAL
 
-#### 55. Application for a variation[^key-077527698e609a45a8e38ba537931313]
+#### 55. Application for a variation[^c-077527698e609a45a8e38ba537931313]
 
 (1) Where an application for a variation is made other than in writing it is treated as made on the date on which the applicant notifies the Department that the applicant wishes to make such an application.
 
@@ -912,7 +912,7 @@ that case is to be treated as a special case for the purposes of the Child Suppo
 
 (4) The Department may treat an application for a variation made on one ground as made on another ground if that other ground is more appropriate to the facts alleged in that case.
 
-#### 56. Rejection of an application following preliminary consideration[^key-49582d73c5778951aefca040d5569d34]
+#### 56. Rejection of an application following preliminary consideration[^c-49582d73c5778951aefca040d5569d34]
 
 (1) The circumstances prescribed for the purposes of Article 28B(2)(c)[^f00057] are—
 
@@ -931,7 +931,7 @@ that case is to be treated as a special case for the purposes of the Child Suppo
 
 (2) The circumstances set out in paragraph (1) are circumstances prescribed for the purposes of Article 28F(3)(b)[^f00058] in which the Department must not agree to a variation.
 
-#### 57. Provision of information[^key-7cc195a1567e9dab97deb372fcf86d05]
+#### 57. Provision of information[^c-7cc195a1567e9dab97deb372fcf86d05]
 
 (1) Where the Department has received an application for a variation it may request further information or evidence from the applicant to enable that application to be determined.
 
@@ -939,7 +939,7 @@ that case is to be treated as a special case for the purposes of the Child Suppo
 
 (3) Where any information or evidence requested is not provided within the time specified in paragraph (2), the Department may, where able to do so, proceed to determine the application in the absence of the requested information or evidence.
 
-#### 58. Procedure in relation to a variation[^key-f7863f2dd6b8bc122df6bb4cac9a7dd3]
+#### 58. Procedure in relation to a variation[^c-f7863f2dd6b8bc122df6bb4cac9a7dd3]
 
 (1) Where the Department has given the preliminary consideration to an application for a variation and not rejected it, it—
 
@@ -965,7 +965,7 @@ that case is to be treated as a special case for the purposes of the Child Suppo
 - (b) medical evidence or medical advice which has not been disclosed to the applicant or the other party and which the Department considers would be harmful to the health of the applicant or that party if disclosed; or
 - (c) the address of the other party or qualifying child, or any other information which could reasonably be expected to lead to that party or child being located, where the Department considers that there would be a risk of harm or undue distress to that other party or that child or any other children living with that other party if the address or information were disclosed.
 
-#### 59. Factors not taken into account for the purposes of Article 28F[^key-02fad242ba6b1213bb0dbbdcb70d31dd]
+#### 59. Factors not taken into account for the purposes of Article 28F[^c-02fad242ba6b1213bb0dbbdcb70d31dd]
 
 The following factors are not to be taken into account in determining whether it would be just and equitable to agree to a variation in any case—
 
@@ -977,7 +977,7 @@ The following factors are not to be taken into account in determining whether it
 - (f) the failure by a non-resident parent to make payments of child support maintenance, or to make payments under a maintenance order or a maintenance agreement; or
 - (g) representations made by persons other than the parties.
 
-#### 60. Procedure on revision or supersession of a previously determined variation[^key-f203059155e72172441fa7d42c2a5e7e]
+#### 60. Procedure on revision or supersession of a previously determined variation[^c-f203059155e72172441fa7d42c2a5e7e]
 
 (1) Subject to paragraph (2), where the Department has received an application under Article 18 or 19[^f00059] in connection with a previously determined variation which has effect on a maintenance calculation in force, regulations 57 to 59 apply in relation to that application as if it were an application for a variation that had not been rejected after preliminary consideration.
 
@@ -986,7 +986,7 @@ The following factors are not to be taken into account in determining whether it
 - (a) were the application to succeed, the decision as revised or superseded would be less advantageous to the applicant than the decision before it was so revised or superseded; or
 - (b) it appears to the Department that representations of the other party would not be relevant to the decision.
 
-#### 61. Regular payments condition[^key-733dec3f89956a32d608db8a969ebe2e]
+#### 61. Regular payments condition[^c-733dec3f89956a32d608db8a969ebe2e]
 
 (1) For the purposes of Article 28C(2)(b)[^f00060] the payments are those fixed by the interim maintenance decision or the maintenance calculation in force, as the case may be, adjusted to take account of the variation applied for by the non-resident parent as if that variation had been agreed.
 
@@ -994,7 +994,7 @@ The following factors are not to be taken into account in determining whether it
 
 ### CHAPTER 2 — GROUNDS FOR VARIATION: SPECIAL EXPENSES
 
-#### 62. Contact costs[^key-2c53161e3c72c2312e622bb53f69fbbc]
+#### 62. Contact costs[^c-2c53161e3c72c2312e622bb53f69fbbc]
 
 (1) Subject to the following provisions of this regulation and regulation 67, the following costs incurred or reasonably expected to be incurred by the non-resident parent, whether in respect of the non-resident parent or the qualifying child or both, for the purpose of maintaining contact with that child, constitute special expenses for the purposes of paragraph 2(2) of Schedule 4B[^f00061]—
 
@@ -1019,7 +1019,7 @@ The following factors are not to be taken into account in determining whether it
 
 (4) Where, at the date on which the variation application is made, the non-resident parent has received, is in receipt of, or will receive, any financial assistance, other than a loan, from any source to meet, wholly or in part, the costs of maintaining contact with a child as referred to in paragraph (1), only the amount of the costs referred to in that paragraph, after the deduction of the financial assistance, constitutes special expenses for the purposes of paragraph 2(2) of Schedule 4B.
 
-#### 63. Illness or disability of relevant other child[^key-75bcc569edc9da9ca13a65788a11341b]
+#### 63. Illness or disability of relevant other child[^c-75bcc569edc9da9ca13a65788a11341b]
 
 (1) Subject to the following provisions of this regulation, expenses necessarily incurred by the non-resident parent in respect of the items listed in sub-paragraphs (a) to (m) due to the long-term illness or disability of a relevant other child constitute special expenses for the purposes of paragraph 2(2) of Schedule 4B—
 
@@ -1040,37 +1040,37 @@ The following factors are not to be taken into account in determining whether it
 (2) For the purposes of this regulation and regulation 62—
 
 - (a) a person is “disabled” for a period in respect of which—
-  - (i) adult disability payment,[^key-f818a2810430d6fbe6fda22fc7324f86] armed forces independence payment[^key-0d7d4939be99c41478cd5e58c75fdd39] , child disability payment[^key-72abfd7d2dd6e82914eadcb42d366860] , disability living allowance[^key-0a16c2f909b48f89604398310cc37863] , Scottish adult disability living allowance[^key-2efe190c94bb820f4d76e60828d2b329] or personal independence payment is paid to or in respect of that person,
-  - (ii) that person would receive disability living allowance , or the care component of child disability payment in accordance with regulation 11 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021,[^key-9d0bb200c9950d37bd3953d46ed4c57a] if it were not for the fact that the person is a patient, though remaining part of the applicant’s family, [^key-78a3d3c533767862511bb4a4060d1558]...
-  - (iii) that person is registered as blind in a register maintained by or on behalf of a Health and Social Services Board established under Article 16 of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00062], [^key-b71eb2a19546c29ff672e4708799359a]...[^key-3a9419c2641b4875f657b059dadeddb6]
-  - (iv) that person would receive personal independence payment but for regulations under Article 91(1) of the Welfare Reform (Northern Ireland) Order 2015 (hospital in-patients), and remains part of the applicant’s family, [^key-e74f42b697d841889158e3a9838482b3]...[^key-e2572acf73c7c62b2dff7c849051d0b3]
-  - (v) that person would receive adult disability payment but for regulation 28 (effect of admission to hospital on ongoing entitlement to Adult Disability Payment) of the Disability Assistance for Working Age People (Scotland) Regulations 2022[^key-448ba4f15996332ba91c8dc0bc041015], and remains part of the applicant’s family, or[^key-c2f4bd872f690515bfed3cbd27d66aed]
+  - (i) adult disability payment,[^c-f818a2810430d6fbe6fda22fc7324f86] armed forces independence payment[^c-0d7d4939be99c41478cd5e58c75fdd39] , child disability payment[^c-72abfd7d2dd6e82914eadcb42d366860] , disability living allowance[^c-0a16c2f909b48f89604398310cc37863] , Scottish adult disability living allowance[^c-2efe190c94bb820f4d76e60828d2b329] or personal independence payment is paid to or in respect of that person,
+  - (ii) that person would receive disability living allowance , or the care component of child disability payment in accordance with regulation 11 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021,[^c-9d0bb200c9950d37bd3953d46ed4c57a] if it were not for the fact that the person is a patient, though remaining part of the applicant’s family, [^c-78a3d3c533767862511bb4a4060d1558]...
+  - (iii) that person is registered as blind in a register maintained by or on behalf of a Health and Social Services Board established under Article 16 of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00062], [^c-b71eb2a19546c29ff672e4708799359a]...[^c-3a9419c2641b4875f657b059dadeddb6]
+  - (iv) that person would receive personal independence payment but for regulations under Article 91(1) of the Welfare Reform (Northern Ireland) Order 2015 (hospital in-patients), and remains part of the applicant’s family, [^c-e74f42b697d841889158e3a9838482b3]...[^c-e2572acf73c7c62b2dff7c849051d0b3]
+  - (v) that person would receive adult disability payment but for regulation 28 (effect of admission to hospital on ongoing entitlement to Adult Disability Payment) of the Disability Assistance for Working Age People (Scotland) Regulations 2022[^c-448ba4f15996332ba91c8dc0bc041015], and remains part of the applicant’s family, or[^c-c2f4bd872f690515bfed3cbd27d66aed]
   - (vi) that person would receive Scottish adult disability living allowance but for regulation 23 (effect of admission to hospital on ongoing entitlement to Scottish adult disability living allowance) of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025, and remains part of the applicant’s family,
 
   and “disability” is to be construed accordingly;
-- (aa)[^key-ef0cf9410c3bb4a3ea3101d0d0865d21] “armed forces independence payment” means armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;
-- (ab)[^key-7b83cbd13dde4477cfaba5dfecee3c8f] “**child disability payment**” has the meaning given in regulation 2 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021
+- (aa)[^c-ef0cf9410c3bb4a3ea3101d0d0865d21] “armed forces independence payment” means armed forces independence payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011;
+- (ab)[^c-7b83cbd13dde4477cfaba5dfecee3c8f] “**child disability payment**” has the meaning given in regulation 2 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021
 - (b) “disability living allowance” means the care component of a disability living allowance, payable under section 72 of the Contributions and Benefits Act[^f00063];
-- (ba)[^key-075d40ba7c1f3e5cecb80cd2cab70134] “**Scottish adult disability living allowance**” means the care component of a Scottish adult disability living allowance, payable under regulation 6 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
+- (ba)[^c-075d40ba7c1f3e5cecb80cd2cab70134] “**Scottish adult disability living allowance**” means the care component of a Scottish adult disability living allowance, payable under regulation 6 of the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025;
 - (c) “health services” has the same meaning as in Article 2(2) of the Health and Personal Social Services (Northern Ireland) Order 1972;
 - (d) “long-term illness” means an illness from which the child is suffering at the date of the application or the date from which the variation, if agreed, would take effect and which is likely to last for at least 12 months after that date, or, if likely to be shorter than 12 months, for the remainder of the child’s life;
 - (e) “relevant other child” has the meaning given in paragraph 10C(2) of Schedule 1[^f00064].
-- (f)[^key-f4f4d7dfab0eeceb3b6d5c621a617262] “**personal independence payment**” means the daily living component of personal independence payment under Article 83 of the Welfare Reform (Northern Ireland) Order 2015.
-- (g)[^key-0033ab8b09803ffa781a506cd69b08e3] “**adult disability payment**” means the daily living component of adult disability payment under regulation 5 of the Disability Assistance for Working Age People (Scotland) Regulations 2022;
+- (f)[^c-f4f4d7dfab0eeceb3b6d5c621a617262] “**personal independence payment**” means the daily living component of personal independence payment under Article 83 of the Welfare Reform (Northern Ireland) Order 2015.
+- (g)[^c-0033ab8b09803ffa781a506cd69b08e3] “**adult disability payment**” means the daily living component of adult disability payment under regulation 5 of the Disability Assistance for Working Age People (Scotland) Regulations 2022;
 
 (3) Where, at the date on which the non-resident parent makes the variation application—
 
 - (a) the non-resident parent or a member of the non-resident parent’s household has received, is in receipt of, or will receive any financial assistance from any source in respect of the long-term illness or disability of the relevant other child; or
-- (b) adult disability payment,[^key-1284bcc588f12611d978ab9698a02c6f] armed forces independence payment[^key-43b89b5f5cf77f3bdadc6c3db3fcc042] , child disability payment[^key-bdd56aa9f72aff0c79bdf76c9c0a4afd] , a disability living allowance[^key-03649ea16653c33c38ae99dd5c3936b3] , Scottish adult disability living allowance[^key-d37805b631167cfed52c09bed1ce0ab9] or personal independence payment is received by the non-resident parent or the member of the non-resident parent’s household on behalf of the relevant other child,
+- (b) adult disability payment,[^c-1284bcc588f12611d978ab9698a02c6f] armed forces independence payment[^c-43b89b5f5cf77f3bdadc6c3db3fcc042] , child disability payment[^c-bdd56aa9f72aff0c79bdf76c9c0a4afd] , a disability living allowance[^c-03649ea16653c33c38ae99dd5c3936b3] , Scottish adult disability living allowance[^c-d37805b631167cfed52c09bed1ce0ab9] or personal independence payment is received by the non-resident parent or the member of the non-resident parent’s household on behalf of the relevant other child,
 
-only the net amount of the costs incurred in respect of the items listed in paragraph (1), after the deduction of the financial assistance or the amount of the payment or[^key-b3e2cfb40be8fc78f21d8e23f9d68104] allowance, constitute special expenses for the purposes of paragraph 2(2) of Schedule 4B.
+only the net amount of the costs incurred in respect of the items listed in paragraph (1), after the deduction of the financial assistance or the amount of the payment or[^c-b3e2cfb40be8fc78f21d8e23f9d68104] allowance, constitute special expenses for the purposes of paragraph 2(2) of Schedule 4B.
 
 (4) For the purpose of paragraph (2)(a)—
 
 - (a) “patient” means a person (other than a person who is serving a sentence of imprisonment or detention in a juvenile justice centre within the meaning of Article 51 of the Criminal Justice (Children) (Northern Ireland) Order 1998[^f00065] or a young offenders centre within the meaning of section 2 of the Treatment of Offenders Act (Northern Ireland) 1968[^f00066] who is regarded as receiving free in-patient treatment within the meaning of the Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005[^f00067]; and
 - (b) where a person has ceased to be registered in a register as referred to in head (iii) of that sub-paragraph, having regained their eyesight, that person is to be treated as though registered blind, for a period of 28 days after the day on which that person ceased to be registered in such a register.
 
-#### 64. Prior debts[^key-12f068bea51a44f6c05adc210a8c1be9]
+#### 64. Prior debts[^c-12f068bea51a44f6c05adc210a8c1be9]
 
 (1) Subject to the following provisions of this regulation and regulation 67, the repayment of debts to which paragraph (2) applies constitute special expenses for the purposes of paragraph 2(2) of Schedule 4B where those debts were incurred—
 
@@ -1126,7 +1126,7 @@ only the net amount of the costs incurred in respect of the items listed in para
 - (j) improvements to the insulation of the home; or
 - (k) other improvements which the Department considers reasonable in the circumstances.
 
-#### 65. Boarding school fees[^key-3a300a5d5507809b18c852e92ff76f1a]
+#### 65. Boarding school fees[^c-3a300a5d5507809b18c852e92ff76f1a]
 
 (1) Subject to the following provisions of this regulation and regulation 67, the maintenance element of boarding school fees, incurred or reasonably expected to be incurred by the non-resident parent, constitutes special expenses for the purposes of paragraph 2(2) of Schedule 4B.
 
@@ -1155,7 +1155,7 @@ a portion of the expenses incurred by the non-resident parent in respect of the 
   - (a) a course leading to a postgraduate degree or comparable qualification, a first degree or comparable qualification, a diploma of higher education or a higher national diploma; or
   - (b) any other course which is of a standard above advanced GNVQ, or equivalent, including a course which is of a standard above a general certificate of education (advanced level) or a Scottish national qualification (higher or advanced higher).
 
-#### 66. Payments in respect of certain mortgages, loans or insurance policies[^key-015272540cfd422438df3358e1a7a504]
+#### 66. Payments in respect of certain mortgages, loans or insurance policies[^c-015272540cfd422438df3358e1a7a504]
 
 (1) Subject to regulation 67, the payments to which paragraph (2) applies constitute special expenses for the purposes of paragraph 2(2) of Schedule 4B.
 
@@ -1168,7 +1168,7 @@ a portion of the expenses incurred by the non-resident parent in respect of the 
   - (iv) the non-resident parent has no legal or equitable interest in and no charge or right to have a charge over the property, or
 - (b) of amounts payable in respect of a policy of insurance taken out for the discharge of a mortgage or loan referred to in sub-paragraph (a), including an endowment policy, except where the non-resident parent is entitled to any part of the proceeds on the maturity of that policy.
 
-#### 67. Thresholds[^key-a9d1a3b4a526ad324e15d140f93841f3]
+#### 67. Thresholds[^c-a9d1a3b4a526ad324e15d140f93841f3]
 
 (1) Subject to paragraphs (3) and (4), the costs or repayments referred to in regulations 62 and 64 to 66 are to be special expenses for the purposes of paragraph 2(2) of Schedule 4B only where they are equal to or exceed the threshold amount of £10 per week.
 
@@ -1180,7 +1180,7 @@ a portion of the expenses incurred by the non-resident parent in respect of the 
 
 ### CHAPTER 3 — GROUNDS FOR VARIATION: ADDITIONAL INCOME
 
-#### 68. Non-resident parent with unearned income[^key-d3f5be9079bedda6de05dfb9729224d8]
+#### 68. Non-resident parent with unearned income[^c-d3f5be9079bedda6de05dfb9729224d8]
 
 (1) A case is a case for a variation for the purposes of paragraph 4(1) of Schedule 4B where the non-resident parent has unearned income equal to or exceeding £2,500 per annum.
 
@@ -1190,10 +1190,10 @@ a portion of the expenses incurred by the non-resident parent in respect of the 
 
 (4) For the purposes of paragraph (2), the information in relation to property income is to be taken after deduction of relief under section 118 of the Income Tax Act 2007[^f00068].
 
-(5)[^key-cdade6fff7751435bf1e8b8e478b77e1] Where—
+(5)[^c-cdade6fff7751435bf1e8b8e478b77e1] Where—
 
-- (a) the latest available tax year is not the most recent tax year;[^key-c9ff23315ca002856d316a70cd369562]...
-- (b) the information provided by HMRC in relation to the latest available tax year does not include any information from a self-assessment return ; or[^key-c252eb836a2ccb8f225034dc857d8f21]
+- (a) the latest available tax year is not the most recent tax year;[^c-c9ff23315ca002856d316a70cd369562]...
+- (b) the information provided by HMRC in relation to the latest available tax year does not include any information from a self-assessment return ; or[^c-c252eb836a2ccb8f225034dc857d8f21]
 - (c) the Department is unable, for whatever reason, to request or obtain the information from HMRC,
 
 the Department may, if satisfied that there is sufficient evidence to do so, determine the amount of the non-resident parent’s unearned income by reference to the most recent tax year; and any such determination must, as far as possible, be based on the information that would be required to be provided in a self assessment return.
@@ -1202,11 +1202,11 @@ the Department may, if satisfied that there is sufficient evidence to do so, det
 
 (7) Where a variation is agreed to under this regulation, the non-resident parent is to be treated as having additional weekly income of the amount determined in accordance with paragraph (3) or (5) divided by 365 and multiplied by 7.
 
-(8)[^key-d330eef3abb3c47294dcb4ac493d49fe] Subject to paragraph (9), where the non-resident parent makes relievable pension contributions, which have not been otherwise taken into account for the purposes of the maintenance calculation, there is to be deducted from the additional weekly income calculated in accordance with paragraph (7) an amount determined by the Department as representing the weekly average of those contributions.
+(8)[^c-d330eef3abb3c47294dcb4ac493d49fe] Subject to paragraph (9), where the non-resident parent makes relievable pension contributions, which have not been otherwise taken into account for the purposes of the maintenance calculation, there is to be deducted from the additional weekly income calculated in accordance with paragraph (7) an amount determined by the Department as representing the weekly average of those contributions.
 
 (9) An amount must only be deducted in accordance with paragraph (8) where the relievable pension contributions referred to in that paragraph relate to the same tax year that has been used for the purposes of determining the additional weekly income.
 
-#### 68A. Assets exceeding a prescribed value[^key-60b1f4024639c49a73b1d93a04f7392d]
+#### 68A. Assets exceeding a prescribed value[^c-60b1f4024639c49a73b1d93a04f7392d]
 
 (1) Where this paragraph applies, the other cases prescribed under paragraph 4(1) of Schedule 4B to the Child Support Order are cases where the Department is satisfied that there is an asset in which the non-resident parent has a legal or beneficial interest and the value of that interest exceeds the prescribed value.
 
@@ -1242,7 +1242,7 @@ the Department may, if satisfied that there is sufficient evidence to do so, det
 - “statutory rate of interest” means interest at the statutory rate prescribed for a judgment debt;
 - “virtual currency” means a digital representation of value which is not issued by a central bank or a public authority; and is accepted by natural or legal persons as a means of payment; and can be transferred, stored or traded electronically.
 
-#### 69. Non-resident parent on a flat rate or nil rate with gross weekly income[^key-15218586f53d2b90046c0e17d7bd422d]
+#### 69. Non-resident parent on a flat rate or nil rate with gross weekly income[^c-15218586f53d2b90046c0e17d7bd422d]
 
 (1) A case is a case for a variation for the purposes of paragraph 4(1) of Schedule 4B where—
 
@@ -1250,7 +1250,7 @@ the Department may, if satisfied that there is sufficient evidence to do so, det
   - (i) the nil rate by virtue of the non-resident parent being one of the persons referred to in paragraph (3), or
   - (ii) the flat rate by virtue of the non-resident parent receiving a benefit, pension or allowance mentioned in regulation 43(1);
 - (b) the Department is satisfied that the non-resident parent has an amount of income that would be taken into account in the maintenance calculation as gross weekly income if sub-paragraph (a) did not apply; and
-- (c) that income is [^key-6ff5f9de568fe61daa13b8eaa4f4c8ce]...more than £100 per week.
+- (c) that income is [^c-6ff5f9de568fe61daa13b8eaa4f4c8ce]...more than £100 per week.
 
 (2) Where a variation is agreed to under this regulation, the non-resident parent is treated as having additional income of the amount referred to in paragraph (1)(b*).*
 
@@ -1261,7 +1261,7 @@ the Department may, if satisfied that there is sufficient evidence to do so, det
 - (c) a person receiving an allowance in respect of work-based training for young people;
 - (d) a person referred to in regulation 44(1)(e).
 
-#### 70. Diversion of income[^key-d15b67a93b50061509a92dd0868ddf4f]
+#### 70. Diversion of income[^c-d15b67a93b50061509a92dd0868ddf4f]
 
 (1) A case is a case for a variation for the purposes of paragraph 4(1) of Schedule 4B where—
 
@@ -1274,7 +1274,7 @@ the Department may, if satisfied that there is sufficient evidence to do so, det
 
 ### CHAPTER 4 — EFFECT OF VARIATION ON THE MAINTENANCE CALCULATION
 
-#### 71. Effect on maintenance calculation – special expenses[^key-b2152edda5d039118f277451f7922cc2]
+#### 71. Effect on maintenance calculation – special expenses[^c-b2152edda5d039118f277451f7922cc2]
 
 (1) Subject to paragraph (2) and regulation 73, where the variation agreed to is one falling within Chapter 2, effect is to be given to the variation in the maintenance calculation by deducting from the gross weekly income of the non-resident parent the weekly amount of those expenses referred to in that Chapter.
 
@@ -1284,17 +1284,17 @@ the Department may, if satisfied that there is sufficient evidence to do so, det
 - (b) the amount by which the capped amount exceeds the figure calculated under sub-paragraph (a) is to be calculated; and
 - (c) effect is to be given to the variation in the maintenance calculation by deducting from the capped amount the amount calculated under sub-paragraph (b).
 
-#### 72. Effect on the maintenance calculation – additional income grounds[^key-5fed52b8a771032c35e3e207b2f6739f]
+#### 72. Effect on the maintenance calculation – additional income grounds[^c-5fed52b8a771032c35e3e207b2f6739f]
 
 (1) Subject to paragraph (2) and regulation 73, where the variation agreed to is one falling within Chapter 3, effect is to be given to the variation by increasing the gross weekly income of the non-resident parent which would otherwise be taken into account by the weekly amount of the additional income except that, where the amount of gross weekly income calculated in this way would exceed the capped amount, the amount of the gross weekly income taken into account is to be the capped amount.
 
 (2) Where a variation is agreed to under this Chapter and the non-resident parent’s liability would, apart from the variation, be a flat rate (or an amount equivalent to the flat rate), the amount of child support maintenance which the non-resident parent is liable to pay is a weekly amount calculated by adding an amount equivalent to the flat rate to the amount calculated by applying Schedule 1[^f00069] to the additional income arising under the variation.
 
-#### 73. Effect on maintenance calculation – general[^key-81b9ef9e1b415e3dd17cde5917026976]
+#### 73. Effect on maintenance calculation – general[^c-81b9ef9e1b415e3dd17cde5917026976]
 
 (1) Subject to paragraph (5), where more than one variation is agreed to in respect of the same period, regulations 71 and 72 apply and the results are to be aggregated as appropriate.
 
-(1A)[^key-0e70c36a804d2567da19dfc28e817aa2] Where the application of a variation agreed to (or of the aggregate of variations agreed to) would decrease the amount of child support maintenance payable by the non-resident parent to less than the figure equivalent to the flat rate referred to in paragraph 4(1) of Schedule 1 (or in that sub-paragraph as modified by regulations under paragraph 10A of that Schedule), the non-resident parent is instead liable to pay child support maintenance at a rate equivalent to that flat rate apportioned if appropriate as provided in paragraph 6 of Schedule 1.
+(1A)[^c-0e70c36a804d2567da19dfc28e817aa2] Where the application of a variation agreed to (or of the aggregate of variations agreed to) would decrease the amount of child support maintenance payable by the non-resident parent to less than the figure equivalent to the flat rate referred to in paragraph 4(1) of Schedule 1 (or in that sub-paragraph as modified by regulations under paragraph 10A of that Schedule), the non-resident parent is instead liable to pay child support maintenance at a rate equivalent to that flat rate apportioned if appropriate as provided in paragraph 6 of Schedule 1.
 
 (2) Paragraph 7(2) to (7) of Schedule 1 applies where the rate of child support maintenance is affected by a variation which is agreed to and paragraph 7(2) is to be read as if after “as calculated in accordance with the preceding paragraphs” there were inserted, “, Schedule 4B and regulations made under that Schedule”.
 
@@ -1304,7 +1304,7 @@ the Department may, if satisfied that there is sufficient evidence to do so, det
 
 (5) The effect of a variation is not to be applied for any period during which a circumstance referred to in regulation 56(1)(d) to (f) applies.
 
-#### 74. Situations in which a variation previously agreed to may be taken into account in calculating maintenance liability[^key-f0ad1d25b07fa317a817ad967b366c78]
+#### 74. Situations in which a variation previously agreed to may be taken into account in calculating maintenance liability[^c-f0ad1d25b07fa317a817ad967b366c78]
 
 (1) This regulation applies where—
 
@@ -1313,17 +1313,17 @@ the Department may, if satisfied that there is sufficient evidence to do so, det
   - (ii) the decision as to the maintenance calculation has been replaced with a default maintenance decision under Article 14(1)(b)[^f00070]; and
 - (b) the non-resident parent has subsequently become liable to pay a rate of child support maintenance which can be adjusted to take account of the variation by virtue of a decision under Article 18(1B) or 19.
 
-(2) Where this regulation applies [^key-968f85e050a14594ac6d51fd64912387]..., the Department may, when making the decision referred to in paragraph (1)(b), take into account the effect of the variation upon the amount of liability for child support maintenance notwithstanding the fact that an application has not been made.
+(2) Where this regulation applies [^c-968f85e050a14594ac6d51fd64912387]..., the Department may, when making the decision referred to in paragraph (1)(b), take into account the effect of the variation upon the amount of liability for child support maintenance notwithstanding the fact that an application has not been made.
 
 ## PART 6
 
 ### MEANING OF TERMS IN THE CHILD SUPPORT ORDER
 
-#### 75. Meaning of “child” for the purposes of the Child Support Order[^key-2cd38eeded68d3e16fbef841e7831489]
+#### 75. Meaning of “child” for the purposes of the Child Support Order[^c-2cd38eeded68d3e16fbef841e7831489]
 
-(1)[^key-2e610ace565f32aeed2834070f19bea4] Subject to paragraphs (2) and (3), the prescribed[^key-c07167785de1c69180012145c8eb2b2e] condition for the purposes of Article 3(1)[^f00071] is that the person is a qualifying young person as defined in section 138(2) of the Contributions and Benefits Act[^f00072].
+(1)[^c-2e610ace565f32aeed2834070f19bea4] Subject to paragraphs (2) and (3), the prescribed[^c-c07167785de1c69180012145c8eb2b2e] condition for the purposes of Article 3(1)[^f00071] is that the person is a qualifying young person as defined in section 138(2) of the Contributions and Benefits Act[^f00072].
 
-(2)[^key-b57a7c2e6f3cf9dacdd5328bf9fea147] A person does not satisfy the condition referred to in paragraph (1) where the person is—
+(2)[^c-b57a7c2e6f3cf9dacdd5328bf9fea147] A person does not satisfy the condition referred to in paragraph (1) where the person is—
 
 - (a) engaged in remunerative work in any week during a prescribed period; or
 - (b) in receipt of other financial support in any week.
@@ -1337,14 +1337,14 @@ the Department may, if satisfied that there is sufficient evidence to do so, det
 - “remunerative work” has the meaning given in regulation 1(3) (citation, commencement and interpretation) of the 2006 Regulations
 - “week” has the meaning given in the 2006 Regulations.
 
-#### 76. Meaning of “relevant other child” for the purposes of the Child Support Order[^key-f329cce0089ac7a8054976256118896e][^key-568094cb040d6493a722ba3a4db09f8f]
+#### 76. Meaning of “relevant other child” for the purposes of the Child Support Order[^c-f329cce0089ac7a8054976256118896e][^c-568094cb040d6493a722ba3a4db09f8f]
 
 For the purposes of paragraph 10C(2)(b) of Schedule 1 “relevant other child” includes a child, other than a qualifying child, in respect of whom the non-resident parent or the non-resident parent’s partner
 
-- (a)[^key-74d4567691f2778c39840395336c43d9] would receive child benefit, but in respect of whom they do not do so, solely because the conditions set out in section 142 of the Contributions and Benefits Act[^f00073] are not met ; or[^key-02a7890cd223a36c602b25d7b192a13d]
+- (a)[^c-74d4567691f2778c39840395336c43d9] would receive child benefit, but in respect of whom they do not do so, solely because the conditions set out in section 142 of the Contributions and Benefits Act[^f00073] are not met ; or[^c-02a7890cd223a36c602b25d7b192a13d]
 - (b) has made an election under section 11A(1) of the Social Security Administration (Northern Ireland) Act 1992 for payments of child benefit not to be made.
 
-#### 77. Persons who are not persons with care[^key-9a38c22fec8f08032e3ce6dc27f73656]
+#### 77. Persons who are not persons with care[^c-9a38c22fec8f08032e3ce6dc27f73656]
 
 (1) The following categories of person are not persons with care for the purposes of the Child Support Order—
 
@@ -1361,7 +1361,7 @@ Anne McCleary
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE — Electronic Communications[^key-4de684bcfbe31bf8f3f9ed8ac87d1c59]
+## SCHEDULE — Electronic Communications[^c-4de684bcfbe31bf8f3f9ed8ac87d1c59]
 
 Regulation 2A
 
@@ -1457,13 +1457,13 @@ Article 3 and paragraphs 5A, 8(2), 9 and 10(2) to Schedule 1 of the Order, some 
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-5cd465a3d8a872c5e03b177110a9dffd]: Modification: [Rule](https://www.legislation.gov.uk/nisr/2012/427) modified (temp.) (10.12.2012) by [The Child Maintenance (2008 Act) (Commencement No. 10 and Transitional Provisions) Order (Northern Ireland) 2012 (S.R. 2012/440)](https://www.legislation.gov.uk/nisr/2012/440), [art. 5](https://www.legislation.gov.uk/nisr/2012/440/article/5)
+[^c-5cd465a3d8a872c5e03b177110a9dffd]: Modification: [Rule](https://www.legislation.gov.uk/nisr/2012/427) modified (temp.) (10.12.2012) by [The Child Maintenance (2008 Act) (Commencement No. 10 and Transitional Provisions) Order (Northern Ireland) 2012 (S.R. 2012/440)](https://www.legislation.gov.uk/nisr/2012/440), [art. 5](https://www.legislation.gov.uk/nisr/2012/440/article/5)
 
-[^key-4066032fe6a2c7d7db860a7290a192b4]: Commencement: Reg. 1 comes into force in accordance with reg. 1
+[^c-4066032fe6a2c7d7db860a7290a192b4]: Commencement: Reg. 1 comes into force in accordance with reg. 1
 
 [^f00003]: Footnote: [2008 c. 10 (N.I.)](https://www.legislation.gov.uk/nia/2008/10)
 
-[^key-3159a306c702de7ee459dc0b9dc8c642]: Commencement: Reg. 2 comes into force in accordance with reg. 1
+[^c-3159a306c702de7ee459dc0b9dc8c642]: Commencement: Reg. 2 comes into force in accordance with reg. 1
 
 [^f00004]: Footnote: Paragraph 10A is amended by paragraph 1(26) of Schedule 4 to the Child Maintenance Act (Northern Ireland) 2008
 
@@ -1471,13 +1471,13 @@ Article 3 and paragraphs 5A, 8(2), 9 and 10(2) to Schedule 1 of the Order, some 
 
 [^f00006]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
-[^key-50ac3d2b5497fbced45129ff444784d6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/427/regulation/2) inserted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(2)(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/2/a)
+[^c-50ac3d2b5497fbced45129ff444784d6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/427/regulation/2) inserted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(2)(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/2/a)
 
-[^key-39c17c27d3a7d225d26a895ca1422f3d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/427/regulation/2) substituted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(2)(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/2/b)
+[^c-39c17c27d3a7d225d26a895ca1422f3d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/427/regulation/2) substituted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(2)(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/2/b)
 
 [^f00008]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1)
 
-[^key-4abf92e8348ee0a8b997f6464778ce9c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/427/regulation/2) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(2)](https://www.legislation.gov.uk/nisr/2022/178/article/5/2)
+[^c-4abf92e8348ee0a8b997f6464778ce9c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2012/427/regulation/2) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(2)](https://www.legislation.gov.uk/nisr/2022/178/article/5/2)
 
 [^f00009]: Footnote: Section 123 was amended by paragraph 13(2), (4) and (5) of Schedule 2 and Schedule 3 to the Jobseekers (Northern Ireland) Order 1995, paragraph 2 of Schedule 2 to the State Pension Credit Act (Northern Ireland) [2002 (c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)), paragraph 96 of Schedule 24 to the Civil Partnership Act 2004, paragraph 3(9) and (10) of Schedule 3 to the Welfare Reform Act (Northern Ireland) [2007 (c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2007/2)) and section 3(1) of the Welfare Reform Act (Northern Ireland) [2010 (c. 13 (N.I.)](https://www.legislation.gov.uk/nia/2010/13))
 
@@ -1505,83 +1505,83 @@ Article 3 and paragraphs 5A, 8(2), 9 and 10(2) to Schedule 1 of the Order, some 
 
 [^f00021]: Footnote: [1966 c. 45](https://www.legislation.gov.uk/ukpga/1966/45)
 
-[^key-a7dff455208b411fe6eecb7fca5926e7]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2012/427/regulation/2A) added (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(3)](https://www.legislation.gov.uk/nisr/2022/178/article/5/3)
+[^c-a7dff455208b411fe6eecb7fca5926e7]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2012/427/regulation/2A) added (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(3)](https://www.legislation.gov.uk/nisr/2022/178/article/5/3)
 
-[^key-6bfeef61da9781649fb7d6bdeea3dad6]: Commencement: Reg. 3 comes into force in accordance with reg. 1
+[^c-6bfeef61da9781649fb7d6bdeea3dad6]: Commencement: Reg. 3 comes into force in accordance with reg. 1
 
 [^f00022]: Footnote: Article 13 was amended by paragraph 11 of Schedule 6 to the Social Security (Northern Ireland) Order 1998 and paragraph 1(29)(a) of Schedule 4 to the Child Maintenance Act (Northern Ireland) 2008 and is substituted by section 1(1) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and amended by Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008 and Article 18 was substituted by Article 40 of the Social Security (Northern Ireland) Order 1998 and amended by section 8 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008
 
-[^key-7ea40c24581f4387b2b0b595b280e45d]: Commencement: Reg. 4 comes into force in accordance with reg. 1
+[^c-7ea40c24581f4387b2b0b595b280e45d]: Commencement: Reg. 4 comes into force in accordance with reg. 1
 
-[^key-d2d9f6d8a38014a3236c9a1e036cfcb4]: Commencement: Reg. 5 comes into force in accordance with reg. 1
+[^c-d2d9f6d8a38014a3236c9a1e036cfcb4]: Commencement: Reg. 5 comes into force in accordance with reg. 1
 
-[^key-61644796a04107d2e2472bcdc2b3816f]: Commencement: Reg. 6 comes into force in accordance with reg. 1
+[^c-61644796a04107d2e2472bcdc2b3816f]: Commencement: Reg. 6 comes into force in accordance with reg. 1
 
-[^key-e470c2878e7e99b7d4fef5b21fc36b29]: Commencement: Reg. 7 comes into force in accordance with reg. 1
+[^c-e470c2878e7e99b7d4fef5b21fc36b29]: Commencement: Reg. 7 comes into force in accordance with reg. 1
 
-[^key-dc9f3a9908b37379e0165e42899b2048]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2012/427/regulation/7/3) added (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(4)](https://www.legislation.gov.uk/nisr/2022/178/article/5/4)
+[^c-dc9f3a9908b37379e0165e42899b2048]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/nisr/2012/427/regulation/7/3) added (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(4)](https://www.legislation.gov.uk/nisr/2022/178/article/5/4)
 
-[^key-60c1c1256f1475f229fec94a9ee4fb96]: Commencement: Reg. 8 comes into force in accordance with reg. 1
+[^c-60c1c1256f1475f229fec94a9ee4fb96]: Commencement: Reg. 8 comes into force in accordance with reg. 1
 
-[^key-16dab103d5d8e31d2136e42114e5121e]: Commencement: Reg. 9 comes into force in accordance with reg. 1
+[^c-16dab103d5d8e31d2136e42114e5121e]: Commencement: Reg. 9 comes into force in accordance with reg. 1
 
-[^key-8f535cef99b0da7253e4ce3bc0c75c3b]: Commencement: Reg. 10 comes into force in accordance with reg. 1
+[^c-8f535cef99b0da7253e4ce3bc0c75c3b]: Commencement: Reg. 10 comes into force in accordance with reg. 1
 
 [^f00023]: Footnote: Article 7 was amended by Article 12(1) of the Child Support (Northern Ireland) Order 1995 and Schedule 7 to the Social Security (Northern Ireland) Order 1998 and is amended by sections 1(2) and 2 of, and paragraphs 11 and 13 of Schedule 3 to, the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008
 
-[^key-9f0fd30962272547d4e80c5565cede05]: Commencement: Reg. 11 comes into force in accordance with reg. 1
+[^c-9f0fd30962272547d4e80c5565cede05]: Commencement: Reg. 11 comes into force in accordance with reg. 1
 
-[^key-b3f62f2f033ee7661f8109140b288d1a]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/nisr/2012/427/regulation/11/1) substituted (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2014/193/regulation/4/2/a)
+[^c-b3f62f2f033ee7661f8109140b288d1a]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/nisr/2012/427/regulation/11/1) substituted (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/nisr/2014/193/regulation/4/2/a)
 
-[^key-e8ce733179d2e0bb260ffc6d5eddd52a]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/nisr/2012/427/regulation/11/2) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(5)](https://www.legislation.gov.uk/nisr/2022/178/article/5/5)
+[^c-e8ce733179d2e0bb260ffc6d5eddd52a]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/nisr/2012/427/regulation/11/2) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(5)](https://www.legislation.gov.uk/nisr/2022/178/article/5/5)
 
-[^key-3b2a20f0bc84bc813e059c6fcb1b7953]: Textual amendment: [Reg. 11(3)-(9)](https://www.legislation.gov.uk/nisr/2012/427/regulation/11/3) added (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/nisr/2014/193/regulation/4/2/c)
+[^c-3b2a20f0bc84bc813e059c6fcb1b7953]: Textual amendment: [Reg. 11(3)-(9)](https://www.legislation.gov.uk/nisr/2012/427/regulation/11/3) added (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/nisr/2014/193/regulation/4/2/c)
 
-[^key-ea683c9352200c323be06eda6882918a]: Commencement: Reg. 12 comes into force in accordance with reg. 1
+[^c-ea683c9352200c323be06eda6882918a]: Commencement: Reg. 12 comes into force in accordance with reg. 1
 
-[^key-ed41bf51a2daca438930b91f7f12b7a7]: Textual amendment: [Reg. 12(1)](https://www.legislation.gov.uk/nisr/2012/427/regulation/12/1): reg. 12 renumbered as reg. 12(1) (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2014/193/regulation/4/3/a)
+[^c-ed41bf51a2daca438930b91f7f12b7a7]: Textual amendment: [Reg. 12(1)](https://www.legislation.gov.uk/nisr/2012/427/regulation/12/1): reg. 12 renumbered as reg. 12(1) (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2014/193/regulation/4/3/a)
 
-[^key-f5d5e8d9c491b2940074e043430aa5d0]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2012/427/regulation/12/1) substituted (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2014/193/regulation/4/3/b)
+[^c-f5d5e8d9c491b2940074e043430aa5d0]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2012/427/regulation/12/1) substituted (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2014/193/regulation/4/3/b)
 
-[^key-cb125eb70d8b2de7957fe906266ac6eb]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/nisr/2012/427/regulation/12/2) added (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [4(3)(c)](https://www.legislation.gov.uk/nisr/2014/193/regulation/4/3/c)
+[^c-cb125eb70d8b2de7957fe906266ac6eb]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/nisr/2012/427/regulation/12/2) added (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [4(3)(c)](https://www.legislation.gov.uk/nisr/2014/193/regulation/4/3/c)
 
-[^key-160452bf48e89d19baeca946648d3816]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/12/2/a) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(6)(c)](https://www.legislation.gov.uk/nisr/2022/178/article/5/6/c)
+[^c-160452bf48e89d19baeca946648d3816]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/12/2/a) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(6)(c)](https://www.legislation.gov.uk/nisr/2022/178/article/5/6/c)
 
-[^key-f38780a127349a1879ea461900fa2367]: Textual amendment: Word in [reg. 12(2)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/12/2/a) omitted (26.5.2022) by virtue of [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(6)(a)](https://www.legislation.gov.uk/nisr/2022/178/article/5/6/a)
+[^c-f38780a127349a1879ea461900fa2367]: Textual amendment: Word in [reg. 12(2)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/12/2/a) omitted (26.5.2022) by virtue of [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(6)(a)](https://www.legislation.gov.uk/nisr/2022/178/article/5/6/a)
 
-[^key-81bd063556824462ae8b2464304b433d]: Textual amendment: Words in [reg. 12(2)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/12/2/b) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(6)(c)](https://www.legislation.gov.uk/nisr/2022/178/article/5/6/c)
+[^c-81bd063556824462ae8b2464304b433d]: Textual amendment: Words in [reg. 12(2)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/12/2/b) substituted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(6)(c)](https://www.legislation.gov.uk/nisr/2022/178/article/5/6/c)
 
-[^key-b34b9e3c9660854ce29c78a3829f3d44]: Textual amendment: [Reg. 12(2)(c)](https://www.legislation.gov.uk/nisr/2012/427/regulation/12/2/c) and word inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(6)(b)](https://www.legislation.gov.uk/nisr/2022/178/article/5/6/b)
+[^c-b34b9e3c9660854ce29c78a3829f3d44]: Textual amendment: [Reg. 12(2)(c)](https://www.legislation.gov.uk/nisr/2012/427/regulation/12/2/c) and word inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(6)(b)](https://www.legislation.gov.uk/nisr/2022/178/article/5/6/b)
 
-[^key-83062ded3057cf468d52eed0239d9106]: Commencement: Reg. 13 comes into force in accordance with reg. 1
+[^c-83062ded3057cf468d52eed0239d9106]: Commencement: Reg. 13 comes into force in accordance with reg. 1
 
 [^f00024]: Footnote: Article 28J is inserted by section 19(1) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and amended by Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008
 
-[^key-de0b6eaceece111d0a3fc4c82956978a]: Commencement: Reg. 14 comes into force in accordance with reg. 1
+[^c-de0b6eaceece111d0a3fc4c82956978a]: Commencement: Reg. 14 comes into force in accordance with reg. 1
 
 [^f00025]: Footnote: Paragraph (1A) was inserted by section 8(3) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and amended by Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008
 
-[^key-293faac177fa94dbde4353ea132004ac]: Textual amendment: [Reg. 14(1)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/14/1/a) substituted (23.3.2015) by [The Child Support (Modification, Miscellaneous and Consequential Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/116)](https://www.legislation.gov.uk/nisr/2015/116), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/116/regulation/1/2), [8(2)](https://www.legislation.gov.uk/nisr/2015/116/regulation/8/2)
+[^c-293faac177fa94dbde4353ea132004ac]: Textual amendment: [Reg. 14(1)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/14/1/a) substituted (23.3.2015) by [The Child Support (Modification, Miscellaneous and Consequential Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/116)](https://www.legislation.gov.uk/nisr/2015/116), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/116/regulation/1/2), [8(2)](https://www.legislation.gov.uk/nisr/2015/116/regulation/8/2)
 
 [^f00026]: Footnote: Article 22 is substituted by Article 42 of the Social Security (Northern Ireland) Order 1998 and section 10 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and amended by Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008
 
 [^f00027]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162)
 
-[^key-c5d413f13a0720a0c531aa95e9bcc9ba]: Textual amendment: [Reg. 14(3A)](https://www.legislation.gov.uk/nisr/2012/427/regulation/14/3A) inserted (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [4(4)](https://www.legislation.gov.uk/nisr/2014/193/regulation/4/4)
+[^c-c5d413f13a0720a0c531aa95e9bcc9ba]: Textual amendment: [Reg. 14(3A)](https://www.legislation.gov.uk/nisr/2012/427/regulation/14/3A) inserted (30.6.2014) by [The Child Support (Modification, Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2014 (S.R. 2014/193)](https://www.legislation.gov.uk/nisr/2014/193), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/193/regulation/1/1), [4(4)](https://www.legislation.gov.uk/nisr/2014/193/regulation/4/4)
 
-[^key-d66845d73c13be074c7db1743c241fb9]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/nisr/2012/427/regulation/14A) inserted (11.7.2016) by [The Social Security, Child Support and Mesothelioma Lump Sum Payments (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/208)](https://www.legislation.gov.uk/nisr/2016/208), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2016/208/regulation/1/2/a), [5(2)](https://www.legislation.gov.uk/nisr/2016/208/regulation/5/2)
+[^c-d66845d73c13be074c7db1743c241fb9]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/nisr/2012/427/regulation/14A) inserted (11.7.2016) by [The Social Security, Child Support and Mesothelioma Lump Sum Payments (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/208)](https://www.legislation.gov.uk/nisr/2016/208), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2016/208/regulation/1/2/a), [5(2)](https://www.legislation.gov.uk/nisr/2016/208/regulation/5/2)
 
-[^key-2e34f65afc12552ee022108d1037107d]: Commencement: Reg. 15 comes into force in accordance with reg. 1
+[^c-2e34f65afc12552ee022108d1037107d]: Commencement: Reg. 15 comes into force in accordance with reg. 1
 
-[^key-f5f6df58236563ffb6f42df7c522a254]: Textual amendment: Words in [reg. 15(4)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/15/4/b) inserted (11.7.2016) by [The Social Security, Child Support and Mesothelioma Lump Sum Payments (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/208)](https://www.legislation.gov.uk/nisr/2016/208), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2016/208/regulation/1/2/a), [5(3)(a)](https://www.legislation.gov.uk/nisr/2016/208/regulation/5/3/a)
+[^c-f5f6df58236563ffb6f42df7c522a254]: Textual amendment: Words in [reg. 15(4)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/15/4/b) inserted (11.7.2016) by [The Social Security, Child Support and Mesothelioma Lump Sum Payments (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/208)](https://www.legislation.gov.uk/nisr/2016/208), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2016/208/regulation/1/2/a), [5(3)(a)](https://www.legislation.gov.uk/nisr/2016/208/regulation/5/3/a)
 
-[^key-e5cef56395e64562a3b5f6e5d3427176]: Textual amendment: Words in [reg. 15(6)](https://www.legislation.gov.uk/nisr/2012/427/regulation/15/6) inserted (11.7.2016) by [The Social Security, Child Support and Mesothelioma Lump Sum Payments (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/208)](https://www.legislation.gov.uk/nisr/2016/208), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2016/208/regulation/1/2/a), [5(3)(b)](https://www.legislation.gov.uk/nisr/2016/208/regulation/5/3/b)
+[^c-e5cef56395e64562a3b5f6e5d3427176]: Textual amendment: Words in [reg. 15(6)](https://www.legislation.gov.uk/nisr/2012/427/regulation/15/6) inserted (11.7.2016) by [The Social Security, Child Support and Mesothelioma Lump Sum Payments (Decisions and Appeals) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/208)](https://www.legislation.gov.uk/nisr/2016/208), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2016/208/regulation/1/2/a), [5(3)(b)](https://www.legislation.gov.uk/nisr/2016/208/regulation/5/3/b)
 
 [^f00028]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15)
 
-[^key-7b0dbddb7fd768bbe94597c1648db144]: Commencement: Reg. 16 comes into force in accordance with reg. 1
+[^c-7b0dbddb7fd768bbe94597c1648db144]: Commencement: Reg. 16 comes into force in accordance with reg. 1
 
-[^key-3e789710ed427a81b4b65c522eacfbc5]: Commencement: Reg. 17 comes into force in accordance with reg. 1
+[^c-3e789710ed427a81b4b65c522eacfbc5]: Commencement: Reg. 17 comes into force in accordance with reg. 1
 
 [^f00029]: Footnote: Paragraph (1) is amended by section 9(2) of, and Schedule 9 to, the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
 
@@ -1589,7 +1589,7 @@ Article 3 and paragraphs 5A, 8(2), 9 and 10(2) to Schedule 1 of the Order, some 
 
 [^f00031]: Footnote: Article 41 is amended by paragraph 26 of Schedule 6 to the Social Security (Northern Ireland) Order 1998, sections 1(2(a) and 21 of, and paragraph 11 of Schedule 3 to, the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and paragraph 128 of Schedule 1 to [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941)
 
-[^key-748cca8cc5b1d47012bc2a3a5fa55d75]: Commencement: Reg. 18 comes into force in accordance with reg. 1
+[^c-748cca8cc5b1d47012bc2a3a5fa55d75]: Commencement: Reg. 18 comes into force in accordance with reg. 1
 
 [^f00032]: Footnote: Paragraph 4 is amended by section 9(3) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
 
@@ -1597,93 +1597,93 @@ Article 3 and paragraphs 5A, 8(2), 9 and 10(2) to Schedule 1 of the Order, some 
 
 [^f00034]: Footnote: Paragraph 5A is inserted by paragraph 5(2) of Schedule 1 to the Child Maintenance Act (Northern Ireland) 2008
 
-[^key-56cbd494b4d6761003c96227ab96dc67]: Commencement: Reg. 19 comes into force in accordance with reg. 1
+[^c-56cbd494b4d6761003c96227ab96dc67]: Commencement: Reg. 19 comes into force in accordance with reg. 1
 
-[^key-647e5426dead1568f4b40fc3bd99ca64]: Commencement: Reg. 20 comes into force in accordance with reg. 1
+[^c-647e5426dead1568f4b40fc3bd99ca64]: Commencement: Reg. 20 comes into force in accordance with reg. 1
 
-[^key-8394fe0018a179ebd5944c663240cb70]: Commencement: Reg. 21 comes into force in accordance with reg. 1
+[^c-8394fe0018a179ebd5944c663240cb70]: Commencement: Reg. 21 comes into force in accordance with reg. 1
 
-[^key-907605c4d6f80aca4919da3bdb18e6b2]: Commencement: Reg. 22 comes into force in accordance with reg. 1
+[^c-907605c4d6f80aca4919da3bdb18e6b2]: Commencement: Reg. 22 comes into force in accordance with reg. 1
 
-[^key-707cfca221274d171efa44939068ca0f]: Commencement: Reg. 23 comes into force in accordance with reg. 1
+[^c-707cfca221274d171efa44939068ca0f]: Commencement: Reg. 23 comes into force in accordance with reg. 1
 
-[^key-dc411fe2cb79b1177bd66a4b05c4d7bd]: Commencement: Reg. 24 comes into force in accordance with reg. 1
+[^c-dc411fe2cb79b1177bd66a4b05c4d7bd]: Commencement: Reg. 24 comes into force in accordance with reg. 1
 
-[^key-99ad3411e846f40d7878bd889b54c75a]: Commencement: Reg. 25 comes into force in accordance with reg. 1
+[^c-99ad3411e846f40d7878bd889b54c75a]: Commencement: Reg. 25 comes into force in accordance with reg. 1
 
 [^f00035]: Footnote: Paragraph (2) was amended by Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008
 
 [^f00036]: Footnote: Part I was amended by paragraph 4(7) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995, paragraph 32(1) and (2) of Schedule 6 to the Social Security (Northern Ireland) Order 1998, paragraphs 10 and 11 of Schedule 24 to the Civil Partnership Act 2004 and paragraph 2(8) of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2007 and is substituted by Schedule 1 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and amended by paragraph 12 of Schedule 24 to the Civil Partnership Act 2004 and Schedule 1 to the Child Maintenance Act (Northern Ireland ) 2008
 
-[^key-e62fc9f40aa0f27b1ef32cf9d6e242df]: Commencement: Reg. 26 comes into force in accordance with reg. 1
+[^c-e62fc9f40aa0f27b1ef32cf9d6e242df]: Commencement: Reg. 26 comes into force in accordance with reg. 1
 
-[^key-c4c1af8164793f3e4d91cf7efa0493f3]: Commencement: Reg. 27 comes into force in accordance with reg. 1
+[^c-c4c1af8164793f3e4d91cf7efa0493f3]: Commencement: Reg. 27 comes into force in accordance with reg. 1
 
-[^key-72d8c764ba3b3f8bccdb1fc38ae3ec13]: Textual amendment: [Pt. 3 Ch. 5A](https://www.legislation.gov.uk/nisr/2012/427/part/3/chapter/5A) added (23.3.2015) by [The Child Support (Modification, Miscellaneous and Consequential Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/116)](https://www.legislation.gov.uk/nisr/2015/116), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/116/regulation/1/2), [8(3)](https://www.legislation.gov.uk/nisr/2015/116/regulation/8/3)
+[^c-72d8c764ba3b3f8bccdb1fc38ae3ec13]: Textual amendment: [Pt. 3 Ch. 5A](https://www.legislation.gov.uk/nisr/2012/427/part/3/chapter/5A) added (23.3.2015) by [The Child Support (Modification, Miscellaneous and Consequential Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/116)](https://www.legislation.gov.uk/nisr/2015/116), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/116/regulation/1/2), [8(3)](https://www.legislation.gov.uk/nisr/2015/116/regulation/8/3)
 
-[^key-789fe8bd834694c656b02f0345b0f730]: Commencement: Reg. 28 comes into force in accordance with reg. 1
+[^c-789fe8bd834694c656b02f0345b0f730]: Commencement: Reg. 28 comes into force in accordance with reg. 1
 
 [^f00037]: Footnote: Article 28ZA was inserted by Article 43 of the Social Security (Northern Ireland) Order 1998 and is amended by paragraph 19(b) of Schedule 3 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008
 
-[^key-dd456b58b8af8437caaddc2d66e736d6]: Commencement: Reg. 29 comes into force in accordance with reg. 1
+[^c-dd456b58b8af8437caaddc2d66e736d6]: Commencement: Reg. 29 comes into force in accordance with reg. 1
 
 [^f00038]: Footnote: Article 28ZB was inserted by Article 43 of the Social Security (Northern Ireland) Order 1998 and amended by paragraph 20 of Schedule 3 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
 
-[^key-e2f86c0b7a7f63a629c3530bcda1ac4b]: Commencement: Reg. 30 comes into force in accordance with reg. 1
+[^c-e2f86c0b7a7f63a629c3530bcda1ac4b]: Commencement: Reg. 30 comes into force in accordance with reg. 1
 
-[^key-5b79c7b68d8903ea46e606ec8767fa55]: Commencement: Reg. 31 comes into force in accordance with reg. 1
+[^c-5b79c7b68d8903ea46e606ec8767fa55]: Commencement: Reg. 31 comes into force in accordance with reg. 1
 
-[^key-5ad0cad6521279026885670a544f0f7d]: Commencement: Reg. 32 comes into force in accordance with reg. 1
+[^c-5ad0cad6521279026885670a544f0f7d]: Commencement: Reg. 32 comes into force in accordance with reg. 1
 
 [^f00039]: Footnote: Article 19 was substituted by Article 41 of the Social Security (Northern Ireland) Order 1998 and amended by section 9 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008
 
 [^f00040]: Footnote: Article 28ZC was inserted by Article 44 of the Social Security (Northern Ireland) Order 1998 and is amended by section 1(2)(a) of, and paragraph 21 of Schedule 3 to, the Child Support, Pensions and Social Security Act (Northern Ireland) 2000, paragraph 57 of Schedule 9 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) and Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008
 
-[^key-d94d39250428dfffabc2c3427481036c]: Commencement: Reg. 33 comes into force in accordance with reg. 1
+[^c-d94d39250428dfffabc2c3427481036c]: Commencement: Reg. 33 comes into force in accordance with reg. 1
 
-[^key-4987940c5f9478f5ad429959b2c5a75c]: Modification: [Reg. 33(2)](https://www.legislation.gov.uk/nisr/2012/427/regulation/33/2) modified (temp.) (29.7.2013) by [The Child Maintenance (2008 Act) (Commencement No. 11 and Transitional Provisions) Order (Northern Ireland) 2013 (S.R. 2013/201)](https://www.legislation.gov.uk/nisr/2013/201), [art. 6(a)](https://www.legislation.gov.uk/nisr/2013/201/article/6/a)
+[^c-4987940c5f9478f5ad429959b2c5a75c]: Modification: [Reg. 33(2)](https://www.legislation.gov.uk/nisr/2012/427/regulation/33/2) modified (temp.) (29.7.2013) by [The Child Maintenance (2008 Act) (Commencement No. 11 and Transitional Provisions) Order (Northern Ireland) 2013 (S.R. 2013/201)](https://www.legislation.gov.uk/nisr/2013/201), [art. 6(a)](https://www.legislation.gov.uk/nisr/2013/201/article/6/a)
 
-[^key-6b1abed9c8afd68a67230e4ff00780f4]: Textual amendment: Words in [reg. 33(2)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/33/2/b) omitted (coming into force in accordance with reg. 1(4) of the amending Rule) by virtue of [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/4), [8(2)(a)(i)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/2/a/i); [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/276/article/2/a)
+[^c-6b1abed9c8afd68a67230e4ff00780f4]: Textual amendment: Words in [reg. 33(2)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/33/2/b) omitted (coming into force in accordance with reg. 1(4) of the amending Rule) by virtue of [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/4), [8(2)(a)(i)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/2/a/i); [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/276/article/2/a)
 
-[^key-9a1f06edc6aa22fe9c5bc18aa6206ee9]: Textual amendment: [Reg. 33(2)(c)](https://www.legislation.gov.uk/nisr/2012/427/regulation/33/2/c) and word added (coming into force in accordance with reg. 1(4) of the amending Rule) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/4), [8(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/2/a/ii); [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/276/article/2/a)
+[^c-9a1f06edc6aa22fe9c5bc18aa6206ee9]: Textual amendment: [Reg. 33(2)(c)](https://www.legislation.gov.uk/nisr/2012/427/regulation/33/2/c) and word added (coming into force in accordance with reg. 1(4) of the amending Rule) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/4), [8(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/2/a/ii); [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/276/article/2/a)
 
-[^key-9082b30603688c560532a536fe5651f9]: Textual amendment: [Reg. 33(2A)](https://www.legislation.gov.uk/nisr/2012/427/regulation/33/2A) inserted (coming into force in accordance with reg. 1(4) of the amending Rule) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/4), [8(2)(b)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/2/b); [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/276/article/2/a)
+[^c-9082b30603688c560532a536fe5651f9]: Textual amendment: [Reg. 33(2A)](https://www.legislation.gov.uk/nisr/2012/427/regulation/33/2A) inserted (coming into force in accordance with reg. 1(4) of the amending Rule) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/4), [8(2)(b)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/2/b); [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/276/article/2/a)
 
-[^key-5096735b46140ba2e678030b007af107]: Commencement: Reg. 34 comes into force in accordance with reg. 1
+[^c-5096735b46140ba2e678030b007af107]: Commencement: Reg. 34 comes into force in accordance with reg. 1
 
-[^key-ac9e6e6c399efe6750a7e9b9aec8de4c]: Commencement: Reg. 35 comes into force in accordance with reg. 1
+[^c-ac9e6e6c399efe6750a7e9b9aec8de4c]: Commencement: Reg. 35 comes into force in accordance with reg. 1
 
 [^f00041]: Footnote: Table A was amended by paragraph 24(3) of Schedule 3 to the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5)
 
-[^key-dd4ba1ba5dcf5117939cb07bf3f624c3]: Textual amendment: [Reg. 35(2)](https://www.legislation.gov.uk/nisr/2012/427/regulation/35/2) substituted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2019 (S.R. 2019/222)](https://www.legislation.gov.uk/nisr/2019/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/222/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2019/222/regulation/6/2)
+[^c-dd4ba1ba5dcf5117939cb07bf3f624c3]: Textual amendment: [Reg. 35(2)](https://www.legislation.gov.uk/nisr/2012/427/regulation/35/2) substituted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2019 (S.R. 2019/222)](https://www.legislation.gov.uk/nisr/2019/222), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/222/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2019/222/regulation/6/2)
 
 [^f00042]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3)
 
-[^key-8b8d2a223a87696eb7d1b4ebed74dae9]: Commencement: Reg. 36 comes into force in accordance with reg. 1
+[^c-8b8d2a223a87696eb7d1b4ebed74dae9]: Commencement: Reg. 36 comes into force in accordance with reg. 1
 
-[^key-37a46227e5efb6ab3ff379f04c866452]: Commencement: Reg. 37 comes into force in accordance with reg. 1
+[^c-37a46227e5efb6ab3ff379f04c866452]: Commencement: Reg. 37 comes into force in accordance with reg. 1
 
-[^key-afa4a841e2676a387035a70c4e7decf5]: Commencement: Reg. 38 comes into force in accordance with reg. 1
+[^c-afa4a841e2676a387035a70c4e7decf5]: Commencement: Reg. 38 comes into force in accordance with reg. 1
 
-[^key-3ee48081334c42e2bf9392d55549756f]: Commencement: Reg. 39 comes into force in accordance with reg. 1
+[^c-3ee48081334c42e2bf9392d55549756f]: Commencement: Reg. 39 comes into force in accordance with reg. 1
 
-[^key-957db7975123bcf653f5819efcf4639d]: Commencement: Reg. 40 comes into force in accordance with reg. 1
+[^c-957db7975123bcf653f5819efcf4639d]: Commencement: Reg. 40 comes into force in accordance with reg. 1
 
-[^key-43f0e05603a078178073ab55dca1d5ad]: Commencement: Reg. 41 comes into force in accordance with reg. 1
+[^c-43f0e05603a078178073ab55dca1d5ad]: Commencement: Reg. 41 comes into force in accordance with reg. 1
 
-[^key-532f21a2adf0449fc4e8cc0249edbaee]: Modification: [Reg. 41(1)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/41/1/a) modified (temp.) (29.7.2013) by [The Child Maintenance (2008 Act) (Commencement No. 11 and Transitional Provisions) Order (Northern Ireland) 2013 (S.R. 2013/201)](https://www.legislation.gov.uk/nisr/2013/201), [art. 6(b)](https://www.legislation.gov.uk/nisr/2013/201/article/6/b)
+[^c-532f21a2adf0449fc4e8cc0249edbaee]: Modification: [Reg. 41(1)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/41/1/a) modified (temp.) (29.7.2013) by [The Child Maintenance (2008 Act) (Commencement No. 11 and Transitional Provisions) Order (Northern Ireland) 2013 (S.R. 2013/201)](https://www.legislation.gov.uk/nisr/2013/201), [art. 6(b)](https://www.legislation.gov.uk/nisr/2013/201/article/6/b)
 
-[^key-9a7791d85179ad9a46db550825ea4c7d]: Textual amendment: Words in [reg. 41(1)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/41/1/a) inserted (coming into force in accordance with reg. 1(4) of the amending Rule) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/4), [8(3)(a)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/3/a); [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/276/article/2/a)
+[^c-9a7791d85179ad9a46db550825ea4c7d]: Textual amendment: Words in [reg. 41(1)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/41/1/a) inserted (coming into force in accordance with reg. 1(4) of the amending Rule) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/4), [8(3)(a)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/3/a); [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/276/article/2/a)
 
-[^key-f01dadb916ccc3f4c89dff83b3b293f5]: Textual amendment: Words in [reg. 41(1)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/41/1/a) inserted (coming into force in accordance with reg. 1(4) of the amending Rule) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/4), [8(3)(b)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/3/b); [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/276/article/2/a)
+[^c-f01dadb916ccc3f4c89dff83b3b293f5]: Textual amendment: Words in [reg. 41(1)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/41/1/a) inserted (coming into force in accordance with reg. 1(4) of the amending Rule) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/4), [8(3)(b)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/3/b); [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/276/article/2/a)
 
-[^key-3d888e5e743ae3c39ad9efed71df8774]: Commencement: Reg. 42 comes into force in accordance with reg. 1
+[^c-3d888e5e743ae3c39ad9efed71df8774]: Commencement: Reg. 42 comes into force in accordance with reg. 1
 
-[^key-c41e4f5429cb6dbfdd7c46c0381793b6]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/nisr/2012/427/regulation/42) Table substituted (25.11.2013) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations (Northern Ireland) 2013 (S.R. 2013/190)](https://www.legislation.gov.uk/nisr/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/190/regulation/1/2), [6(2)](https://www.legislation.gov.uk/nisr/2013/190/regulation/6/2)
+[^c-c41e4f5429cb6dbfdd7c46c0381793b6]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/nisr/2012/427/regulation/42) Table substituted (25.11.2013) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations (Northern Ireland) 2013 (S.R. 2013/190)](https://www.legislation.gov.uk/nisr/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/190/regulation/1/2), [6(2)](https://www.legislation.gov.uk/nisr/2013/190/regulation/6/2)
 
-[^key-3e061e17cde47fa873fd4150dbc62497]: Commencement: Reg. 43 comes into force in accordance with reg. 1
+[^c-3e061e17cde47fa873fd4150dbc62497]: Commencement: Reg. 43 comes into force in accordance with reg. 1
 
-[^key-4145cf0e105325512a5ddd181d24dc54]: Textual amendment: [Reg. 43(1)(a)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/1/a/i) omitted (6.4.2017) by virtue of [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2017 (S.R. 2017/66)](https://www.legislation.gov.uk/nisr/2017/66), [arts. 1(2)(c)](https://www.legislation.gov.uk/nisr/2017/66/article/1/2/c), [27](https://www.legislation.gov.uk/nisr/2017/66/article/27) (with [arts. 2](https://www.legislation.gov.uk/nisr/2017/66/article/2), [3](https://www.legislation.gov.uk/nisr/2017/66/article/3))
+[^c-4145cf0e105325512a5ddd181d24dc54]: Textual amendment: [Reg. 43(1)(a)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/1/a/i) omitted (6.4.2017) by virtue of [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2017 (S.R. 2017/66)](https://www.legislation.gov.uk/nisr/2017/66), [arts. 1(2)(c)](https://www.legislation.gov.uk/nisr/2017/66/article/1/2/c), [27](https://www.legislation.gov.uk/nisr/2017/66/article/27) (with [arts. 2](https://www.legislation.gov.uk/nisr/2017/66/article/2), [3](https://www.legislation.gov.uk/nisr/2017/66/article/3))
 
 [^f00043]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
@@ -1691,33 +1691,33 @@ Article 3 and paragraphs 5A, 8(2), 9 and 10(2) to Schedule 1 of the Order, some 
 
 [^f00045]: Footnote: [2004 c. 32](https://www.legislation.gov.uk/ukpga/2004/32)
 
-[^key-13136ff5870964118899110c639d984d]: Textual amendment: Word in [reg. 43(1)(g)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/1/g) omitted (6.4.2016) by virtue of [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2015 (S.R. 2015/411)](https://www.legislation.gov.uk/nisr/2015/411), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b), [27(a)](https://www.legislation.gov.uk/nisr/2015/411/article/27/a)
+[^c-13136ff5870964118899110c639d984d]: Textual amendment: Word in [reg. 43(1)(g)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/1/g) omitted (6.4.2016) by virtue of [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2015 (S.R. 2015/411)](https://www.legislation.gov.uk/nisr/2015/411), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b), [27(a)](https://www.legislation.gov.uk/nisr/2015/411/article/27/a)
 
-[^key-2329ab7642a3fdd29ed6ad52cba6ae1a]: Textual amendment: [Reg. 43(1)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/1/i) and word inserted (6.4.2016) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2015 (S.R. 2015/411)](https://www.legislation.gov.uk/nisr/2015/411), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b), [27(b)](https://www.legislation.gov.uk/nisr/2015/411/article/27/b)
+[^c-2329ab7642a3fdd29ed6ad52cba6ae1a]: Textual amendment: [Reg. 43(1)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/1/i) and word inserted (6.4.2016) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2015 (S.R. 2015/411)](https://www.legislation.gov.uk/nisr/2015/411), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b), [27(b)](https://www.legislation.gov.uk/nisr/2015/411/article/27/b)
 
-[^key-84306257eaed09a3a053b040e125fd3c]: Textual amendment: Word in [reg. 43(1)(h)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/1/h) omitted (19.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [47(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/47/a)
+[^c-84306257eaed09a3a053b040e125fd3c]: Textual amendment: Word in [reg. 43(1)(h)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/1/h) omitted (19.11.2023) by virtue of [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [47(a)](https://www.legislation.gov.uk/uksi/2023/1218/article/47/a)
 
-[^key-60e15fc83e8ee5e0c5f310a856b45585]: Textual amendment: Word in [reg. 43(1)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/1/i) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [47(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/47/b)
+[^c-60e15fc83e8ee5e0c5f310a856b45585]: Textual amendment: Word in [reg. 43(1)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/1/i) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [47(b)](https://www.legislation.gov.uk/uksi/2023/1218/article/47/b)
 
-[^key-ec426a407c5fe4328880de0d35f34cde]: Textual amendment: [Reg. 43(1)(j)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/1/j) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [47(c)](https://www.legislation.gov.uk/uksi/2023/1218/article/47/c)
+[^c-ec426a407c5fe4328880de0d35f34cde]: Textual amendment: [Reg. 43(1)(j)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/1/j) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [47(c)](https://www.legislation.gov.uk/uksi/2023/1218/article/47/c)
 
-[^key-3c88bed6eb812c97e00af090030c029b]: Textual amendment: Words in [reg. 43(1)(j)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/1/j) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [50](https://www.legislation.gov.uk/uksi/2026/246/article/50)
+[^c-3c88bed6eb812c97e00af090030c029b]: Textual amendment: Words in [reg. 43(1)(j)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/1/j) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [50](https://www.legislation.gov.uk/uksi/2026/246/article/50)
 
-[^key-bb7456ed75058fa1f90e6cc2710575e6]: Textual amendment: Word in [reg. 43(2)(c)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/2/c) omitted (coming into operation in accordance with reg. 1(1) of the amending Rule) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(3)(a)(i)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/3/a/i)
+[^c-bb7456ed75058fa1f90e6cc2710575e6]: Textual amendment: Word in [reg. 43(2)(c)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/2/c) omitted (coming into operation in accordance with reg. 1(1) of the amending Rule) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(3)(a)(i)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/3/a/i)
 
-[^key-619186196e0646d6b318cd92efb9b73f]: Textual amendment: Word in [reg. 43(2)(d)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/2/d) inserted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/3/a/ii)
+[^c-619186196e0646d6b318cd92efb9b73f]: Textual amendment: Word in [reg. 43(2)(d)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/2/d) inserted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/3/a/ii)
 
-[^key-1de85f53eb329dfe4a5fc4df953da749]: Textual amendment: [Reg. 43(2)(e)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/2/e) inserted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/3/a/iii)
+[^c-1de85f53eb329dfe4a5fc4df953da749]: Textual amendment: [Reg. 43(2)(e)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/2/e) inserted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/3/a/iii)
 
 [^f00046]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); section 1 was amended by Article 3 of the Employment and Training (Amendment) (Northern Ireland) Order 1988 ([S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087)) and Article 5 of the Industrial Training (Northern Ireland) Order 1990 ([S.I. 1990/1200 (N.I. 8)](https://www.legislation.gov.uk/nisi/1990/1200))
 
-[^key-2a6a5f37796820629e201da010d106c2]: Textual amendment: [Reg. 43(5)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/5) inserted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(3)(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/3/b)
+[^c-2a6a5f37796820629e201da010d106c2]: Textual amendment: [Reg. 43(5)](https://www.legislation.gov.uk/nisr/2012/427/regulation/43/5) inserted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(3)(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/3/b)
 
-[^key-1f39d1fd550c8da490d23b59cefa7efa]: Commencement: Reg. 44 comes into force in accordance with reg. 1
+[^c-1f39d1fd550c8da490d23b59cefa7efa]: Commencement: Reg. 44 comes into force in accordance with reg. 1
 
-[^key-cdd0408f03474e0b5188f447fed3b1af]: Textual amendment: Word in [reg. 44(1)(c)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/44/1/c/i) omitted (coming into operation in accordance with reg. 1(1) of the amending Rule) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(4)(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/4/a)
+[^c-cdd0408f03474e0b5188f447fed3b1af]: Textual amendment: Word in [reg. 44(1)(c)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/44/1/c/i) omitted (coming into operation in accordance with reg. 1(1) of the amending Rule) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(4)(a)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/4/a)
 
-[^key-7aa9a259b6cfeaf2440034cc317775d0]: Textual amendment: [Reg. 44(1)(c)(iii)](https://www.legislation.gov.uk/nisr/2012/427/regulation/44/1/c/iii)[(iv)](https://www.legislation.gov.uk/nisr/2012/427/regulation/44/1/c/iv) inserted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(4)(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/4/b)
+[^c-7aa9a259b6cfeaf2440034cc317775d0]: Textual amendment: [Reg. 44(1)(c)(iii)](https://www.legislation.gov.uk/nisr/2012/427/regulation/44/1/c/iii)[(iv)](https://www.legislation.gov.uk/nisr/2012/427/regulation/44/1/c/iv) inserted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [41(4)(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/41/4/b)
 
 [^f00047]: Footnote: Part 1 is substituted by Schedule 1 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and paragraph 5 of Schedule 1 was amended by paragraph 2 of Schedule 1 to the Child Maintenance Act (Northern Ireland) 2008
 
@@ -1729,123 +1729,123 @@ Article 3 and paragraphs 5A, 8(2), 9 and 10(2) to Schedule 1 of the Order, some 
 
 [^f00051]: Footnote: [2009 c. 1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1)
 
-[^key-fab7de6f1b01cec29c091d8e9ffb9ee5]: Commencement: Reg. 45 comes into force in accordance with reg. 1
+[^c-fab7de6f1b01cec29c091d8e9ffb9ee5]: Commencement: Reg. 45 comes into force in accordance with reg. 1
 
 [^f00052]: Footnote: Paragraphs 7 and 8 are substituted by Schedule 1 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and paragraph 7 is amended by paragraph 6 of Schedule 1 and paragraph 1(25) of Schedule 4 to the Child Maintenance Act (Northern Ireland) 2008 and paragraph 8 by paragraph 7 of Schedule 1 to the Child Maintenance Act (Northern Ireland) 2008
 
-[^key-60ac6289ea24a470bbf76d405a07cd1a]: Commencement: Reg. 46 comes into force in accordance with reg. 1
+[^c-60ac6289ea24a470bbf76d405a07cd1a]: Commencement: Reg. 46 comes into force in accordance with reg. 1
 
-[^key-0776437a3c9cd4a5e94761716bb68da8]: Commencement: Reg. 47 comes into force in accordance with reg. 1
+[^c-0776437a3c9cd4a5e94761716bb68da8]: Commencement: Reg. 47 comes into force in accordance with reg. 1
 
 [^f00053]: Footnote: Paragraph 5A is inserted by paragraph 5(2) of Schedule 1 to the Child Maintenance Act (Northern Ireland) 2008
 
-[^key-8e91df24c3d50b6c8ecf778f6196bfcc]: Commencement: Reg. 48 comes into force in accordance with reg. 1
+[^c-8e91df24c3d50b6c8ecf778f6196bfcc]: Commencement: Reg. 48 comes into force in accordance with reg. 1
 
 [^f00054]: Footnote: Article 14(1) was substituted by paragraph 12(1) of Schedule 6 to the Social Security (Northern Ireland) Order 1998
 
-[^key-e194ae3bbd3a159409a97f8a4d2e6608]: Commencement: Reg. 49 comes into force in accordance with reg. 1
+[^c-e194ae3bbd3a159409a97f8a4d2e6608]: Commencement: Reg. 49 comes into force in accordance with reg. 1
 
 [^f00055]: Footnote: Article 7 was amended by Article 12(1) of the Child Support (Northern Ireland) Order 1995 and Schedule 7 to the Social Security (Northern Ireland) Order 1998 and is amended by sections 1(2) and 2 and paragraphs 11 and 13 of Schedule 3 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and by Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008
 
-[^key-4c87fcb9a53819dc957b71b1870d4a61]: Textual amendment: [Reg. 49(4)](https://www.legislation.gov.uk/nisr/2012/427/regulation/49/4) added (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/2), [8(4)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/4)
+[^c-4c87fcb9a53819dc957b71b1870d4a61]: Textual amendment: [Reg. 49(4)](https://www.legislation.gov.uk/nisr/2012/427/regulation/49/4) added (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/2), [8(4)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/4)
 
-[^key-e93f9f401cb38e371e2193c1b8cf85bc]: Commencement: Reg. 50 comes into force in accordance with reg. 1
+[^c-e93f9f401cb38e371e2193c1b8cf85bc]: Commencement: Reg. 50 comes into force in accordance with reg. 1
 
-[^key-0224cc5e0a35d37221749bcaead942b8]: Commencement: Reg. 51 comes into force in accordance with reg. 1
+[^c-0224cc5e0a35d37221749bcaead942b8]: Commencement: Reg. 51 comes into force in accordance with reg. 1
 
-[^key-36a219f1204255d17c12aa0fe101b66e]: Commencement: Reg. 52 comes into force in accordance with reg. 1
+[^c-36a219f1204255d17c12aa0fe101b66e]: Commencement: Reg. 52 comes into force in accordance with reg. 1
 
 [^f00056]: Footnote: Article 25 was amended by section 2(1) of the Children (Leaving Care) Act (Northern Ireland) [2002 (c. 11 (N.I.)](https://www.legislation.gov.uk/nia/2002/11))
 
-[^key-012810cb1f5df35eda1d5fe88f270fd5]: Commencement: Reg. 53 comes into force in accordance with reg. 1
+[^c-012810cb1f5df35eda1d5fe88f270fd5]: Commencement: Reg. 53 comes into force in accordance with reg. 1
 
-[^key-d4ade608c2c870903cae7e9c10c43d8a]: Textual amendment: [Reg. 53(1)](https://www.legislation.gov.uk/nisr/2012/427/regulation/53/1): reg. 53 renumbered as reg. 53(1) (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/2), [8(5)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/5)
+[^c-d4ade608c2c870903cae7e9c10c43d8a]: Textual amendment: [Reg. 53(1)](https://www.legislation.gov.uk/nisr/2012/427/regulation/53/1): reg. 53 renumbered as reg. 53(1) (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/2), [8(5)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/5)
 
-[^key-9c748735058ac84902a52bb99ec0f12f]: Textual amendment: [Reg. 53(2)](https://www.legislation.gov.uk/nisr/2012/427/regulation/53/2) added (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/2), [8(5)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/5)
+[^c-9c748735058ac84902a52bb99ec0f12f]: Textual amendment: [Reg. 53(2)](https://www.legislation.gov.uk/nisr/2012/427/regulation/53/2) added (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/2), [8(5)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/5)
 
-[^key-005cf9ed62b35945fc8f3386a9ac8a8b]: Commencement: Reg. 54 comes into force in accordance with reg. 1
+[^c-005cf9ed62b35945fc8f3386a9ac8a8b]: Commencement: Reg. 54 comes into force in accordance with reg. 1
 
-[^key-077527698e609a45a8e38ba537931313]: Commencement: Reg. 55 comes into force in accordance with reg. 1
+[^c-077527698e609a45a8e38ba537931313]: Commencement: Reg. 55 comes into force in accordance with reg. 1
 
-[^key-49582d73c5778951aefca040d5569d34]: Commencement: Reg. 56 comes into force in accordance with reg. 1
+[^c-49582d73c5778951aefca040d5569d34]: Commencement: Reg. 56 comes into force in accordance with reg. 1
 
 [^f00057]: Footnote: Article 28B was inserted by Article 3(1) of the Child Support (Northern Ireland) Order 1995 and is substituted by section 5(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000. *See also* [S.R. 2001 No. 24](https://www.legislation.gov.uk/nisr/2001/24)
 
 [^f00058]: Footnote: Article 28F was inserted by Article 3(1) of the Child Support (Northern Ireland) Order 1995, is substituted by section 5(5) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and amended by Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008. *See also* [S.R. 2001 No. 24](https://www.legislation.gov.uk/nisr/2001/24)
 
-[^key-7cc195a1567e9dab97deb372fcf86d05]: Commencement: Reg. 57 comes into force in accordance with reg. 1
+[^c-7cc195a1567e9dab97deb372fcf86d05]: Commencement: Reg. 57 comes into force in accordance with reg. 1
 
-[^key-f7863f2dd6b8bc122df6bb4cac9a7dd3]: Commencement: Reg. 58 comes into force in accordance with reg. 1
+[^c-f7863f2dd6b8bc122df6bb4cac9a7dd3]: Commencement: Reg. 58 comes into force in accordance with reg. 1
 
-[^key-02fad242ba6b1213bb0dbbdcb70d31dd]: Commencement: Reg. 59 comes into force in accordance with reg. 1
+[^c-02fad242ba6b1213bb0dbbdcb70d31dd]: Commencement: Reg. 59 comes into force in accordance with reg. 1
 
-[^key-f203059155e72172441fa7d42c2a5e7e]: Commencement: Reg. 60 comes into force in accordance with reg. 1
+[^c-f203059155e72172441fa7d42c2a5e7e]: Commencement: Reg. 60 comes into force in accordance with reg. 1
 
 [^f00059]: Footnote: Article 18 was substituted by Article 40 of the Social Security (Northern Ireland) Order 1998 and amended by section 8 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008 and Article 19 was substituted by Article 41 of the Social Security (Northern Ireland) Order 1998 and amended by section 9 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and Schedule 5 to the Child Maintenance Act (Northern Ireland) 2008
 
-[^key-733dec3f89956a32d608db8a969ebe2e]: Commencement: Reg. 61 comes into force in accordance with reg. 1
+[^c-733dec3f89956a32d608db8a969ebe2e]: Commencement: Reg. 61 comes into force in accordance with reg. 1
 
 [^f00060]: Footnote: Article 28C was inserted by Article 3(1) of the Child Support (Northern Ireland) Order 1995 and is substituted by section 5(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000. *See also* [S.R. 2001 No. 24](https://www.legislation.gov.uk/nisr/2001/24)
 
-[^key-2c53161e3c72c2312e622bb53f69fbbc]: Commencement: Reg. 62 comes into force in accordance with reg. 1
+[^c-2c53161e3c72c2312e622bb53f69fbbc]: Commencement: Reg. 62 comes into force in accordance with reg. 1
 
 [^f00061]: Footnote: Schedule 4B was inserted by section 3(3) of the Child Support (Northern Ireland) Order 1995 and is substituted by section 6(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
 
-[^key-75bcc569edc9da9ca13a65788a11341b]: Commencement: Reg. 63 comes into force in accordance with reg. 1
+[^c-75bcc569edc9da9ca13a65788a11341b]: Commencement: Reg. 63 comes into force in accordance with reg. 1
 
-[^key-f818a2810430d6fbe6fda22fc7324f86]: Textual amendment: Words in [reg. 63(2)(a)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/i) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [27(2)(a)](https://www.legislation.gov.uk/uksi/2022/177/article/27/2/a)
+[^c-f818a2810430d6fbe6fda22fc7324f86]: Textual amendment: Words in [reg. 63(2)(a)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/i) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [27(2)(a)](https://www.legislation.gov.uk/uksi/2022/177/article/27/2/a)
 
-[^key-0d7d4939be99c41478cd5e58c75fdd39]: Textual amendment: Words in [reg. 63(2)(a)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/i) inserted (24.12.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) (Northern Ireland) Order 2013 (S.I. 2013/3021)](https://www.legislation.gov.uk/uksi/2013/3021), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3021/article/1), [31(2)(a)](https://www.legislation.gov.uk/uksi/2013/3021/article/31/2/a)
+[^c-0d7d4939be99c41478cd5e58c75fdd39]: Textual amendment: Words in [reg. 63(2)(a)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/i) inserted (24.12.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) (Northern Ireland) Order 2013 (S.I. 2013/3021)](https://www.legislation.gov.uk/uksi/2013/3021), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3021/article/1), [31(2)(a)](https://www.legislation.gov.uk/uksi/2013/3021/article/31/2/a)
 
-[^key-72abfd7d2dd6e82914eadcb42d366860]: Textual amendment: Words in [reg. 63(2)(a)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/i) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [19(2)(a)](https://www.legislation.gov.uk/uksi/2021/786/article/19/2/a)
+[^c-72abfd7d2dd6e82914eadcb42d366860]: Textual amendment: Words in [reg. 63(2)(a)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/i) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [19(2)(a)](https://www.legislation.gov.uk/uksi/2021/786/article/19/2/a)
 
-[^key-0a16c2f909b48f89604398310cc37863]: Textual amendment: Words in [reg. 63(2)(a)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/i) substituted (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [39(a)](https://www.legislation.gov.uk/nisr/2016/228/regulation/39/a)
+[^c-0a16c2f909b48f89604398310cc37863]: Textual amendment: Words in [reg. 63(2)(a)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/i) substituted (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [39(a)](https://www.legislation.gov.uk/nisr/2016/228/regulation/39/a)
 
-[^key-2efe190c94bb820f4d76e60828d2b329]: Textual amendment: Words in [reg. 63(2)(a)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/i) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [30(2)(a)](https://www.legislation.gov.uk/uksi/2025/227/article/30/2/a)
+[^c-2efe190c94bb820f4d76e60828d2b329]: Textual amendment: Words in [reg. 63(2)(a)(i)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/i) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [30(2)(a)](https://www.legislation.gov.uk/uksi/2025/227/article/30/2/a)
 
-[^key-9d0bb200c9950d37bd3953d46ed4c57a]: Textual amendment: Words in [reg. 63(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/ii) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [19(2)(b)](https://www.legislation.gov.uk/uksi/2021/786/article/19/2/b)
+[^c-9d0bb200c9950d37bd3953d46ed4c57a]: Textual amendment: Words in [reg. 63(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/ii) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [19(2)(b)](https://www.legislation.gov.uk/uksi/2021/786/article/19/2/b)
 
-[^key-78a3d3c533767862511bb4a4060d1558]: Textual amendment: Word in [reg. 63(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/ii) omitted (20.6.2016) by virtue of [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [39(b)](https://www.legislation.gov.uk/nisr/2016/228/regulation/39/b)
+[^c-78a3d3c533767862511bb4a4060d1558]: Textual amendment: Word in [reg. 63(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/ii) omitted (20.6.2016) by virtue of [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [39(b)](https://www.legislation.gov.uk/nisr/2016/228/regulation/39/b)
 
 [^f00062]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
-[^key-b71eb2a19546c29ff672e4708799359a]: Textual amendment: Word in [reg. 63(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/iii) omitted (21.3.2022) by virtue of [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [27(2)(b)](https://www.legislation.gov.uk/uksi/2022/177/article/27/2/b)
+[^c-b71eb2a19546c29ff672e4708799359a]: Textual amendment: Word in [reg. 63(2)(a)(iii)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/iii) omitted (21.3.2022) by virtue of [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [27(2)(b)](https://www.legislation.gov.uk/uksi/2022/177/article/27/2/b)
 
-[^key-3a9419c2641b4875f657b059dadeddb6]: Textual amendment: [Reg. 63(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/iv) and word inserted (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [39(c)](https://www.legislation.gov.uk/nisr/2016/228/regulation/39/c)
+[^c-3a9419c2641b4875f657b059dadeddb6]: Textual amendment: [Reg. 63(2)(a)(iv)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/iv) and word inserted (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [39(c)](https://www.legislation.gov.uk/nisr/2016/228/regulation/39/c)
 
-[^key-e74f42b697d841889158e3a9838482b3]: Textual amendment: Word in [reg. 63(2)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [30(2)(b)](https://www.legislation.gov.uk/uksi/2025/227/article/30/2/b)
+[^c-e74f42b697d841889158e3a9838482b3]: Textual amendment: Word in [reg. 63(2)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a) omitted (21.3.2025) by virtue of [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [30(2)(b)](https://www.legislation.gov.uk/uksi/2025/227/article/30/2/b)
 
-[^key-e2572acf73c7c62b2dff7c849051d0b3]: Textual amendment: [Reg. 63(2)(a)(v)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/v) and word inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [27(2)(c)](https://www.legislation.gov.uk/uksi/2022/177/article/27/2/c)
+[^c-e2572acf73c7c62b2dff7c849051d0b3]: Textual amendment: [Reg. 63(2)(a)(v)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/v) and word inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [27(2)(c)](https://www.legislation.gov.uk/uksi/2022/177/article/27/2/c)
 
-[^key-448ba4f15996332ba91c8dc0bc041015]: Textual amendment: Words in [reg. 63(2)(a)(v)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/v) substituted (6.6.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) (No. 2) Order 2022 (S.I. 2022/530)](https://www.legislation.gov.uk/uksi/2022/530), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/530/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2022/530/article/12/2)
+[^c-448ba4f15996332ba91c8dc0bc041015]: Textual amendment: Words in [reg. 63(2)(a)(v)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/v) substituted (6.6.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) (No. 2) Order 2022 (S.I. 2022/530)](https://www.legislation.gov.uk/uksi/2022/530), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/530/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2022/530/article/12/2)
 
-[^key-c2f4bd872f690515bfed3cbd27d66aed]: Textual amendment: [Reg. 63(2)(a)(vi)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/vi) and word inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [30(2)(c)](https://www.legislation.gov.uk/uksi/2025/227/article/30/2/c)
+[^c-c2f4bd872f690515bfed3cbd27d66aed]: Textual amendment: [Reg. 63(2)(a)(vi)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/a/vi) and word inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [30(2)(c)](https://www.legislation.gov.uk/uksi/2025/227/article/30/2/c)
 
-[^key-ef0cf9410c3bb4a3ea3101d0d0865d21]: Textual amendment: [Reg. 63(2)(aa)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/aa) inserted (24.12.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) (Northern Ireland) Order 2013 (S.I. 2013/3021)](https://www.legislation.gov.uk/uksi/2013/3021), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3021/article/1), [31(2)(b)](https://www.legislation.gov.uk/uksi/2013/3021/article/31/2/b)
+[^c-ef0cf9410c3bb4a3ea3101d0d0865d21]: Textual amendment: [Reg. 63(2)(aa)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/aa) inserted (24.12.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) (Northern Ireland) Order 2013 (S.I. 2013/3021)](https://www.legislation.gov.uk/uksi/2013/3021), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3021/article/1), [31(2)(b)](https://www.legislation.gov.uk/uksi/2013/3021/article/31/2/b)
 
-[^key-7b83cbd13dde4477cfaba5dfecee3c8f]: Textual amendment: [Reg. 63(2)(ab)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/ab) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [19(2)(c)](https://www.legislation.gov.uk/uksi/2021/786/article/19/2/c)
+[^c-7b83cbd13dde4477cfaba5dfecee3c8f]: Textual amendment: [Reg. 63(2)(ab)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/ab) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [19(2)(c)](https://www.legislation.gov.uk/uksi/2021/786/article/19/2/c)
 
 [^f00063]: Footnote: Section 72 was amended by Article 64(2) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)), sections 48 and 54(2) of, and Schedule 8 to, the Welfare Reform Act (Northern Ireland) 2007 and regulation 2(4) of [S.R. 2011 No. 356](https://www.legislation.gov.uk/nisr/2011/356)
 
-[^key-075d40ba7c1f3e5cecb80cd2cab70134]: Textual amendment: [Reg. 63(2)(ba)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/ba) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [30(2)(d)](https://www.legislation.gov.uk/uksi/2025/227/article/30/2/d)
+[^c-075d40ba7c1f3e5cecb80cd2cab70134]: Textual amendment: [Reg. 63(2)(ba)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/ba) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [30(2)(d)](https://www.legislation.gov.uk/uksi/2025/227/article/30/2/d)
 
 [^f00064]: Footnote: Paragraph 10C is inserted by Schedule 1 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and was amended by paragraph 12 of Schedule 24 to the Civil Partnership Act 2004
 
-[^key-f4f4d7dfab0eeceb3b6d5c621a617262]: Textual amendment: [Reg. 63(2)(f)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/f) added (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [39(d)](https://www.legislation.gov.uk/nisr/2016/228/regulation/39/d)
+[^c-f4f4d7dfab0eeceb3b6d5c621a617262]: Textual amendment: [Reg. 63(2)(f)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/f) added (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [39(d)](https://www.legislation.gov.uk/nisr/2016/228/regulation/39/d)
 
-[^key-0033ab8b09803ffa781a506cd69b08e3]: Textual amendment: [Reg. 63(2)(g)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/g) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [27(2)(d)](https://www.legislation.gov.uk/uksi/2022/177/article/27/2/d)
+[^c-0033ab8b09803ffa781a506cd69b08e3]: Textual amendment: [Reg. 63(2)(g)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/2/g) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [27(2)(d)](https://www.legislation.gov.uk/uksi/2022/177/article/27/2/d)
 
-[^key-1284bcc588f12611d978ab9698a02c6f]: Textual amendment: Words in [reg. 63(3)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/3/b) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [27(2)(e)](https://www.legislation.gov.uk/uksi/2022/177/article/27/2/e)
+[^c-1284bcc588f12611d978ab9698a02c6f]: Textual amendment: Words in [reg. 63(3)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/3/b) inserted (21.3.2022) by [The Social Security (Disability Assistance for Working Age People) (Consequential Amendments) Order 2022 (S.I. 2022/177)](https://www.legislation.gov.uk/uksi/2022/177), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/177/article/1/2), [27(2)(e)](https://www.legislation.gov.uk/uksi/2022/177/article/27/2/e)
 
-[^key-43b89b5f5cf77f3bdadc6c3db3fcc042]: Textual amendment: Words in [reg. 63(3)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/3/b) inserted (24.12.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) (Northern Ireland) Order 2013 (S.I. 2013/3021)](https://www.legislation.gov.uk/uksi/2013/3021), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3021/article/1), [31(2)(c)(i)](https://www.legislation.gov.uk/uksi/2013/3021/article/31/2/c/i)
+[^c-43b89b5f5cf77f3bdadc6c3db3fcc042]: Textual amendment: Words in [reg. 63(3)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/3/b) inserted (24.12.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) (Northern Ireland) Order 2013 (S.I. 2013/3021)](https://www.legislation.gov.uk/uksi/2013/3021), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3021/article/1), [31(2)(c)(i)](https://www.legislation.gov.uk/uksi/2013/3021/article/31/2/c/i)
 
-[^key-bdd56aa9f72aff0c79bdf76c9c0a4afd]: Textual amendment: Words in [reg. 63(3)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/3/b) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2021/786/article/19/3)
+[^c-bdd56aa9f72aff0c79bdf76c9c0a4afd]: Textual amendment: Words in [reg. 63(3)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/3/b) inserted (26.7.2021) by [The Social Security (Scotland) Act 2018 (Disability Assistance for Children and Young People) (Consequential Modifications) Order 2021 (S.I. 2021/786)](https://www.legislation.gov.uk/uksi/2021/786), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/786/article/1/2), [19(3)](https://www.legislation.gov.uk/uksi/2021/786/article/19/3)
 
-[^key-03649ea16653c33c38ae99dd5c3936b3]: Textual amendment: Words in [reg. 63(3)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/3/b) inserted (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [39(e)](https://www.legislation.gov.uk/nisr/2016/228/regulation/39/e)
+[^c-03649ea16653c33c38ae99dd5c3936b3]: Textual amendment: Words in [reg. 63(3)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/3/b) inserted (20.6.2016) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/228)](https://www.legislation.gov.uk/nisr/2016/228), [regs. 1](https://www.legislation.gov.uk/nisr/2016/228/regulation/1), [39(e)](https://www.legislation.gov.uk/nisr/2016/228/regulation/39/e)
 
-[^key-d37805b631167cfed52c09bed1ce0ab9]: Textual amendment: Words in [reg. 63(3)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/3/b) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [30(2)(e)](https://www.legislation.gov.uk/uksi/2025/227/article/30/2/e)
+[^c-d37805b631167cfed52c09bed1ce0ab9]: Textual amendment: Words in [reg. 63(3)(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/3/b) inserted (21.3.2025) by [The Social Security (Scotland) Act 2018 (Disability Assistance) (Consequential Amendments) Order 2025 (S.I. 2025/227)](https://www.legislation.gov.uk/uksi/2025/227), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/227/article/1/1), [30(2)(e)](https://www.legislation.gov.uk/uksi/2025/227/article/30/2/e)
 
-[^key-b3e2cfb40be8fc78f21d8e23f9d68104]: Textual amendment: Words in [reg. 63(3)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/3) inserted (24.12.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) (Northern Ireland) Order 2013 (S.I. 2013/3021)](https://www.legislation.gov.uk/uksi/2013/3021), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3021/article/1), [31(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/3021/article/31/2/c/ii)
+[^c-b3e2cfb40be8fc78f21d8e23f9d68104]: Textual amendment: Words in [reg. 63(3)](https://www.legislation.gov.uk/nisr/2012/427/regulation/63/3) inserted (24.12.2013) by [The Armed Forces and Reserve Forces Compensation Scheme (Consequential Provisions: Subordinate Legislation) (Northern Ireland) Order 2013 (S.I. 2013/3021)](https://www.legislation.gov.uk/uksi/2013/3021), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3021/article/1), [31(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/3021/article/31/2/c/ii)
 
 [^f00065]: Footnote: [S.I. 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504)
 
@@ -1853,74 +1853,74 @@ Article 3 and paragraphs 5A, 8(2), 9 and 10(2) to Schedule 1 of the Order, some 
 
 [^f00067]: Footnote: [S.R. 2005 No. 580](https://www.legislation.gov.uk/nisr/2005/580)
 
-[^key-12f068bea51a44f6c05adc210a8c1be9]: Commencement: Reg. 64 comes into force in accordance with reg. 1
+[^c-12f068bea51a44f6c05adc210a8c1be9]: Commencement: Reg. 64 comes into force in accordance with reg. 1
 
-[^key-3a300a5d5507809b18c852e92ff76f1a]: Commencement: Reg. 65 comes into force in accordance with reg. 1
+[^c-3a300a5d5507809b18c852e92ff76f1a]: Commencement: Reg. 65 comes into force in accordance with reg. 1
 
-[^key-015272540cfd422438df3358e1a7a504]: Commencement: Reg. 66 comes into force in accordance with reg. 1
+[^c-015272540cfd422438df3358e1a7a504]: Commencement: Reg. 66 comes into force in accordance with reg. 1
 
-[^key-a9d1a3b4a526ad324e15d140f93841f3]: Commencement: Reg. 67 comes into force in accordance with reg. 1
+[^c-a9d1a3b4a526ad324e15d140f93841f3]: Commencement: Reg. 67 comes into force in accordance with reg. 1
 
-[^key-d3f5be9079bedda6de05dfb9729224d8]: Commencement: Reg. 68 comes into force in accordance with reg. 1
+[^c-d3f5be9079bedda6de05dfb9729224d8]: Commencement: Reg. 68 comes into force in accordance with reg. 1
 
 [^f00068]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3)
 
-[^key-cdade6fff7751435bf1e8b8e478b77e1]: Modification: [Reg. 68(5)](https://www.legislation.gov.uk/nisr/2012/427/regulation/68/5) modified (temp.) (29.7.2013) by [The Child Maintenance (2008 Act) (Commencement No. 11 and Transitional Provisions) Order (Northern Ireland) 2013 (S.R. 2013/201)](https://www.legislation.gov.uk/nisr/2013/201), [art. 6(c)](https://www.legislation.gov.uk/nisr/2013/201/article/6/c)
+[^c-cdade6fff7751435bf1e8b8e478b77e1]: Modification: [Reg. 68(5)](https://www.legislation.gov.uk/nisr/2012/427/regulation/68/5) modified (temp.) (29.7.2013) by [The Child Maintenance (2008 Act) (Commencement No. 11 and Transitional Provisions) Order (Northern Ireland) 2013 (S.R. 2013/201)](https://www.legislation.gov.uk/nisr/2013/201), [art. 6(c)](https://www.legislation.gov.uk/nisr/2013/201/article/6/c)
 
-[^key-c9ff23315ca002856d316a70cd369562]: Textual amendment: Word in [reg. 68(5)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/68/5/a) omitted (25.11.2013) by virtue of [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations (Northern Ireland) 2013 (S.R. 2013/190)](https://www.legislation.gov.uk/nisr/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/190/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/nisr/2013/190/regulation/6/3/a)
+[^c-c9ff23315ca002856d316a70cd369562]: Textual amendment: Word in [reg. 68(5)(a)](https://www.legislation.gov.uk/nisr/2012/427/regulation/68/5/a) omitted (25.11.2013) by virtue of [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations (Northern Ireland) 2013 (S.R. 2013/190)](https://www.legislation.gov.uk/nisr/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/190/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/nisr/2013/190/regulation/6/3/a)
 
-[^key-c252eb836a2ccb8f225034dc857d8f21]: Textual amendment: [Reg. 68(5)(c)](https://www.legislation.gov.uk/nisr/2012/427/regulation/68/5/c) and preceding word inserted (25.11.2013) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations (Northern Ireland) 2013 (S.R. 2013/190)](https://www.legislation.gov.uk/nisr/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/190/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/nisr/2013/190/regulation/6/3/a)
+[^c-c252eb836a2ccb8f225034dc857d8f21]: Textual amendment: [Reg. 68(5)(c)](https://www.legislation.gov.uk/nisr/2012/427/regulation/68/5/c) and preceding word inserted (25.11.2013) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations (Northern Ireland) 2013 (S.R. 2013/190)](https://www.legislation.gov.uk/nisr/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/190/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/nisr/2013/190/regulation/6/3/a)
 
-[^key-d330eef3abb3c47294dcb4ac493d49fe]: Textual amendment: [Reg. 68(8)](https://www.legislation.gov.uk/nisr/2012/427/regulation/68/8)[(9)](https://www.legislation.gov.uk/nisr/2012/427/regulation/68/9) added (25.11.2013) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations (Northern Ireland) 2013 (S.R. 2013/190)](https://www.legislation.gov.uk/nisr/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/190/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/nisr/2013/190/regulation/6/3/b)
+[^c-d330eef3abb3c47294dcb4ac493d49fe]: Textual amendment: [Reg. 68(8)](https://www.legislation.gov.uk/nisr/2012/427/regulation/68/8)[(9)](https://www.legislation.gov.uk/nisr/2012/427/regulation/68/9) added (25.11.2013) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations (Northern Ireland) 2013 (S.R. 2013/190)](https://www.legislation.gov.uk/nisr/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/190/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/nisr/2013/190/regulation/6/3/b)
 
-[^key-60b1f4024639c49a73b1d93a04f7392d]: Textual amendment: [Reg. 68A](https://www.legislation.gov.uk/nisr/2012/427/regulation/68A) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2019/221/regulation/2/2), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
+[^c-60b1f4024639c49a73b1d93a04f7392d]: Textual amendment: [Reg. 68A](https://www.legislation.gov.uk/nisr/2012/427/regulation/68A) inserted (10.12.2019) by [The Child Support (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2019 (S.R. 2019/221)](https://www.legislation.gov.uk/nisr/2019/221), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/221/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2019/221/regulation/2/2), [5](https://www.legislation.gov.uk/nisr/2019/221/regulation/5)
 
-[^key-15218586f53d2b90046c0e17d7bd422d]: Commencement: Reg. 69 comes into force in accordance with reg. 1
+[^c-15218586f53d2b90046c0e17d7bd422d]: Commencement: Reg. 69 comes into force in accordance with reg. 1
 
-[^key-6ff5f9de568fe61daa13b8eaa4f4c8ce]: Textual amendment: Words in [reg. 69(1)(c)](https://www.legislation.gov.uk/nisr/2012/427/regulation/69/1/c) omitted (25.11.2013) by virtue of [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations (Northern Ireland) 2013 (S.R. 2013/190)](https://www.legislation.gov.uk/nisr/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/190/regulation/1/2), [6(4)](https://www.legislation.gov.uk/nisr/2013/190/regulation/6/4)
+[^c-6ff5f9de568fe61daa13b8eaa4f4c8ce]: Textual amendment: Words in [reg. 69(1)(c)](https://www.legislation.gov.uk/nisr/2012/427/regulation/69/1/c) omitted (25.11.2013) by virtue of [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations (Northern Ireland) 2013 (S.R. 2013/190)](https://www.legislation.gov.uk/nisr/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/190/regulation/1/2), [6(4)](https://www.legislation.gov.uk/nisr/2013/190/regulation/6/4)
 
-[^key-d15b67a93b50061509a92dd0868ddf4f]: Commencement: Reg. 70 comes into force in accordance with reg. 1
+[^c-d15b67a93b50061509a92dd0868ddf4f]: Commencement: Reg. 70 comes into force in accordance with reg. 1
 
-[^key-b2152edda5d039118f277451f7922cc2]: Commencement: Reg. 71 comes into force in accordance with reg. 1
+[^c-b2152edda5d039118f277451f7922cc2]: Commencement: Reg. 71 comes into force in accordance with reg. 1
 
-[^key-5fed52b8a771032c35e3e207b2f6739f]: Commencement: Reg. 72 comes into force in accordance with reg. 1
+[^c-5fed52b8a771032c35e3e207b2f6739f]: Commencement: Reg. 72 comes into force in accordance with reg. 1
 
 [^f00069]: Footnote: Part I was amended by paragraph 4(7) of Schedule 2 to the Jobseekers (Northern Ireland) Order 1995, paragraph 32(1) and (2) of Schedule 6 to the Social Security (Northern Ireland) Order 1998, paragraphs 10 and 11 of Schedule 24 to the Civil Partnership Act 2004 and paragraph 2(8) of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2007 and is substituted by Schedule 1 to the Child Support, Pensions and Social Security Act (Northern Ireland) 2000 and amended by paragraph 12 of Schedule 24 to the Civil Partnership Act 2004 and Schedules 1 and 4 to the Child Maintenance Act (Northern Ireland) 2008
 
-[^key-81b9ef9e1b415e3dd17cde5917026976]: Commencement: Reg. 73 comes into force in accordance with reg. 1
+[^c-81b9ef9e1b415e3dd17cde5917026976]: Commencement: Reg. 73 comes into force in accordance with reg. 1
 
-[^key-0e70c36a804d2567da19dfc28e817aa2]: Textual amendment: [Reg. 73(1A)](https://www.legislation.gov.uk/nisr/2012/427/regulation/73/1A) inserted (25.11.2013) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations (Northern Ireland) 2013 (S.R. 2013/190)](https://www.legislation.gov.uk/nisr/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/190/regulation/1/2), [6(5)](https://www.legislation.gov.uk/nisr/2013/190/regulation/6/5)
+[^c-0e70c36a804d2567da19dfc28e817aa2]: Textual amendment: [Reg. 73(1A)](https://www.legislation.gov.uk/nisr/2012/427/regulation/73/1A) inserted (25.11.2013) by [The Child Support and Claims and Payments (Miscellaneous Amendments and Change to the Minimum Amount of Liability) Regulations (Northern Ireland) 2013 (S.R. 2013/190)](https://www.legislation.gov.uk/nisr/2013/190), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/190/regulation/1/2), [6(5)](https://www.legislation.gov.uk/nisr/2013/190/regulation/6/5)
 
-[^key-f0ad1d25b07fa317a817ad967b366c78]: Commencement: Reg. 74 comes into force in accordance with reg. 1
+[^c-f0ad1d25b07fa317a817ad967b366c78]: Commencement: Reg. 74 comes into force in accordance with reg. 1
 
 [^f00070]: Footnote: Article 14(1) was substituted by paragraph 12(1) of Schedule 6 to Social Security (Northern Ireland) Order 1998
 
-[^key-968f85e050a14594ac6d51fd64912387]: Textual amendment: Words in [reg. 74(2)](https://www.legislation.gov.uk/nisr/2012/427/regulation/74/2) omitted (coming into force in accordance with reg. 1(4) of the amending Rule) by virtue of [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/4), [8(6)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/6); [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/276/article/2/a)
+[^c-968f85e050a14594ac6d51fd64912387]: Textual amendment: Words in [reg. 74(2)](https://www.legislation.gov.uk/nisr/2012/427/regulation/74/2) omitted (coming into force in accordance with reg. 1(4) of the amending Rule) by virtue of [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(4)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/4), [8(6)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/6); [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(a)](https://www.legislation.gov.uk/nisr/2013/276/article/2/a)
 
-[^key-2cd38eeded68d3e16fbef841e7831489]: Commencement: Reg. 75 comes into force in accordance with reg. 1
+[^c-2cd38eeded68d3e16fbef841e7831489]: Commencement: Reg. 75 comes into force in accordance with reg. 1
 
-[^key-2e610ace565f32aeed2834070f19bea4]: Textual amendment: Reg. 75 renumbered as reg. 75(1) (19.7.2021) by [The Child Support Maintenance Calculation (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/188)](https://www.legislation.gov.uk/nisr/2021/188), [regs. 1](https://www.legislation.gov.uk/nisr/2021/188/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2021/188/regulation/2/2/a)
+[^c-2e610ace565f32aeed2834070f19bea4]: Textual amendment: Reg. 75 renumbered as reg. 75(1) (19.7.2021) by [The Child Support Maintenance Calculation (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/188)](https://www.legislation.gov.uk/nisr/2021/188), [regs. 1](https://www.legislation.gov.uk/nisr/2021/188/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2021/188/regulation/2/2/a)
 
-[^key-c07167785de1c69180012145c8eb2b2e]: Textual amendment: Words in [reg. 75(1)](https://www.legislation.gov.uk/nisr/2012/427/regulation/75/1) substituted (19.7.2021) by [The Child Support Maintenance Calculation (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/188)](https://www.legislation.gov.uk/nisr/2021/188), [regs. 1](https://www.legislation.gov.uk/nisr/2021/188/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2021/188/regulation/2/2/b)
+[^c-c07167785de1c69180012145c8eb2b2e]: Textual amendment: Words in [reg. 75(1)](https://www.legislation.gov.uk/nisr/2012/427/regulation/75/1) substituted (19.7.2021) by [The Child Support Maintenance Calculation (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/188)](https://www.legislation.gov.uk/nisr/2021/188), [regs. 1](https://www.legislation.gov.uk/nisr/2021/188/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2021/188/regulation/2/2/b)
 
 [^f00071]: Footnote: Article 3 is substituted by section 26 of the Child Maintenance Act (Northern Ireland) 2008
 
 [^f00072]: Footnote: Section 138 was substituted by section 2(2) of the Child Benefit Act 2005
 
-[^key-b57a7c2e6f3cf9dacdd5328bf9fea147]: Textual amendment: [Reg. 75(2)-(4)](https://www.legislation.gov.uk/nisr/2012/427/regulation/75/2) inserted (19.7.2021) by [The Child Support Maintenance Calculation (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/188)](https://www.legislation.gov.uk/nisr/2021/188), [regs. 1](https://www.legislation.gov.uk/nisr/2021/188/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2021/188/regulation/2/2/c)
+[^c-b57a7c2e6f3cf9dacdd5328bf9fea147]: Textual amendment: [Reg. 75(2)-(4)](https://www.legislation.gov.uk/nisr/2012/427/regulation/75/2) inserted (19.7.2021) by [The Child Support Maintenance Calculation (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/188)](https://www.legislation.gov.uk/nisr/2021/188), [regs. 1](https://www.legislation.gov.uk/nisr/2021/188/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2021/188/regulation/2/2/c)
 
-[^key-f329cce0089ac7a8054976256118896e]: Commencement: Reg. 76 comes into force in accordance with reg. 1
+[^c-f329cce0089ac7a8054976256118896e]: Commencement: Reg. 76 comes into force in accordance with reg. 1
 
-[^key-568094cb040d6493a722ba3a4db09f8f]: Textual amendment: [Reg. 76](https://www.legislation.gov.uk/nisr/2012/427/regulation/76) heading substituted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/2), [8(7)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/7)
+[^c-568094cb040d6493a722ba3a4db09f8f]: Textual amendment: [Reg. 76](https://www.legislation.gov.uk/nisr/2012/427/regulation/76) heading substituted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/2), [8(7)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/7)
 
-[^key-74d4567691f2778c39840395336c43d9]: Textual amendment: Reg. 76(a) inserted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/2), [8(7)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/7)
+[^c-74d4567691f2778c39840395336c43d9]: Textual amendment: Reg. 76(a) inserted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/2), [8(7)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/7)
 
 [^f00073]: Footnote: Section 142 was substituted by section 56(2) of the Tax Credits Act 2002 and amended by paragraph 39 of Schedule 1 to the Child Benefit Act 2005
 
-[^key-02a7890cd223a36c602b25d7b192a13d]: Textual amendment: [Reg. 76(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/76/b) and word added (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/2), [8(7)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/7)
+[^c-02a7890cd223a36c602b25d7b192a13d]: Textual amendment: [Reg. 76(b)](https://www.legislation.gov.uk/nisr/2012/427/regulation/76/b) and word added (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/2), [8(7)](https://www.legislation.gov.uk/nisr/2013/182/regulation/8/7)
 
-[^key-9a38c22fec8f08032e3ce6dc27f73656]: Commencement: Reg. 77 comes into force in accordance with reg. 1
+[^c-9a38c22fec8f08032e3ce6dc27f73656]: Commencement: Reg. 77 comes into force in accordance with reg. 1
 
 [^f00074]: Footnote: Article 25 was amended by section 2(1) of the Children (Leaving Care) Act (Northern Ireland) 2002
 
-[^key-4de684bcfbe31bf8f3f9ed8ac87d1c59]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2012/427/schedule) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(7)](https://www.legislation.gov.uk/nisr/2022/178/article/5/7)
+[^c-4de684bcfbe31bf8f3f9ed8ac87d1c59]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2012/427/schedule) inserted (26.5.2022) by [The Child Support (Amendments Relating to Electronic Communications) Order (Northern Ireland) 2022 (S.R. 2022/178)](https://www.legislation.gov.uk/nisr/2022/178), [arts. 1](https://www.legislation.gov.uk/nisr/2022/178/article/1), [5(7)](https://www.legislation.gov.uk/nisr/2022/178/article/5/7)

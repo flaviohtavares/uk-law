@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 71. Notices, notifications and applications[^key-a2553bbba0e18a4c196b0a8142bc3c49]
+## 71. Notices, notifications and applications[^c-a2553bbba0e18a4c196b0a8142bc3c49]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ All notices, notifications and applications under these Regulations—
 
 ## Annotations
 
-[^key-a2553bbba0e18a4c196b0a8142bc3c49]: Commencement: Reg. 71 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-a2553bbba0e18a4c196b0a8142bc3c49]: Commencement: Reg. 71 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

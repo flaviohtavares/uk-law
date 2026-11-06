@@ -41,13 +41,13 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by sections 212 and 216(3) of the Housing and Planning Act 2016[^f00001] and section 104 of the Deregulation Act 2015[^f00002], makes the following Regulations:
 
-## 1. Citation and Interpretation[^key-58461366666c0037cb450833da093880]
+## 1. Citation and Interpretation[^c-58461366666c0037cb450833da093880]
 
 These Regulations may be cited as the Housing and Planning Act 2016 (Commencement No.2, Transitional Provisions and Savings) Regulations 2016.
 
-**2.**[^key-df3485042ea9bf1c7e963374ee2f0be3] In these Regulations, “the Act” means the Housing and Planning Act 2016.
+**2.**[^c-df3485042ea9bf1c7e963374ee2f0be3] In these Regulations, “the Act” means the Housing and Planning Act 2016.
 
-## 3. Provisions coming into force on 13th July 2016[^key-2acb8d01fa55f68010c9f606f8d733dd]
+## 3. Provisions coming into force on 13th July 2016[^c-2acb8d01fa55f68010c9f606f8d733dd]
 
 The following provisions of the Act come into force on 13th July 2016—
 
@@ -65,7 +65,7 @@ The following provisions of the Act come into force on 13th July 2016—
 - (l) section 202 (extension of compulsory purchase time limit during challenge);
 - (m) sections 203 to 206 (power to override easements and other rights) and Schedule 19 (amendments to do with sections 203 and 204).
 
-## 4. Provisions coming into force on 1st October 2016[^key-1e94ef297accb8e98eb20ed1e02f9cd9]
+## 4. Provisions coming into force on 1st October 2016[^c-1e94ef297accb8e98eb20ed1e02f9cd9]
 
 (1) The following provisions of the Act come into force on 1st October 2016—
 
@@ -80,11 +80,11 @@ The following provisions of the Act come into force on 13th July 2016—
 
 (2) For the purposes of the reference to “a report of the kind mentioned in section 75ZA(1)” in subsection (1)(a) of section 75ZB inserted in the Town and Country Planning Act 1990[^f00003] (“the 1990 Act”) by section 156 of the Act, section 155 of the Act (which inserts section 75ZA in the 1990 Act) is treated as if it were in force.
 
-## 5. Provisions coming into force on 31st<sup></sup>October 2016[^key-54a03e0670a4b92bafb37dff5a4b5a34]
+## 5. Provisions coming into force on 31st<sup></sup>October 2016[^c-54a03e0670a4b92bafb37dff5a4b5a34]
 
 Sections 9, 10 and 11 of the Act (self-build and custom housebuilding) come into force on 31st October 2016.
 
-## 6. Saving and transitional provisions[^key-d6ebbf0b48d2f4b7685ea321c80f7e8a]
+## 6. Saving and transitional provisions[^c-d6ebbf0b48d2f4b7685ea321c80f7e8a]
 
 (1) The amendments made by section 179 of, and Schedule 14 to, the Act (right to enter and survey land: consequential amendments) do not apply in relation to a case where a person is authorised to enter and survey or value land under any of the relevant provisions and gives notice of the intended entry to the owner or occupier of the land before 13th July 2016.
 
@@ -115,25 +115,25 @@ Sections 9, 10 and 11 of the Act (self-build and custom housebuilding) come into
 - (w) paragraph (2)(1) of Schedule 6 to the Postal Services Act 2000[^f00026];
 - (x) section 17(1) of the Housing and Regeneration Act 2008[^f00027].
 
-**7.**[^key-ca2e735770132486187036a023835c44] The amendments made by section 182 of the Act (time limits for notice to treat or general vesting declaration) do not apply in relation to a compulsory purchase order which becomes operative before 13th July 2016.
+**7.**[^c-ca2e735770132486187036a023835c44] The amendments made by section 182 of the Act (time limits for notice to treat or general vesting declaration) do not apply in relation to a compulsory purchase order which becomes operative before 13th July 2016.
 
-**8.**[^key-5772cf60f2967a2b05e902c6c6a42c70] The amendment made by section 201 of the Act (power to quash decision to confirm compulsory purchase order) does not apply in relation to an application to the High Court under section 23 of the Acquisition of Land Act 1981[^f00028] which is made before 13th July 2016.
+**8.**[^c-5772cf60f2967a2b05e902c6c6a42c70] The amendment made by section 201 of the Act (power to quash decision to confirm compulsory purchase order) does not apply in relation to an application to the High Court under section 23 of the Acquisition of Land Act 1981[^f00028] which is made before 13th July 2016.
 
-**9.**[^key-8db201501c9d688c3ae5a221f1f84e63] The amendments made by section 202 of the Act (extension of compulsory purchase time limit during challenge) do not apply in relation to an application under section 23 of the Acquisition of Land Act 1981 which is made in respect of a compulsory purchase order which becomes operative before 13th July 2016.
+**9.**[^c-8db201501c9d688c3ae5a221f1f84e63] The amendments made by section 202 of the Act (extension of compulsory purchase time limit during challenge) do not apply in relation to an application under section 23 of the Acquisition of Land Act 1981 which is made in respect of a compulsory purchase order which becomes operative before 13th July 2016.
 
-**10.**[^key-7f76b363abe8b100fbc4f1095bf59b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7f76b363abe8b100fbc4f1095bf59b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of provisions expressed by reference to commencement[^key-0790c3ede59bb9cf3844efd82f5479d8]
+## 11. Amendment of provisions expressed by reference to commencement[^c-0790c3ede59bb9cf3844efd82f5479d8]
 
 (1) The Self-build and Custom Housebuilding Act 2015[^f00031] is amended as follows.
 
 (2) In section 2A, in subsection (4)(b), for “the day before the day on which section 10 of the Housing and Planning Act 2016 comes into force” substitute “30 October 2016”.
 
-**12.**[^key-64356ba3811b36c0ae790ef72e5f2bb4] (1) The Act is amended as follows.
+**12.**[^c-64356ba3811b36c0ae790ef72e5f2bb4] (1) The Act is amended as follows.
 
 (2) In section 10, in subsection (3), for “the commencement of this section” substitute “31 October 2016”.
 
-(3)[^key-4497ff958c76aecc274736f56f3c288a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4497ff958c76aecc274736f56f3c288a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 205(1), in the definition of “other qualifying land”, for “the day on which this section comes into force” substitute “13 July 2016”.
 
@@ -187,19 +187,19 @@ NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
 
 [^f00002]: Footnote: [2015 c.20](https://www.legislation.gov.uk/ukpga/2015/20).
 
-[^key-58461366666c0037cb450833da093880]: Commencement: Reg. 1 in force at 11.7.2016 at made date
+[^c-58461366666c0037cb450833da093880]: Commencement: Reg. 1 in force at 11.7.2016 at made date
 
-[^key-df3485042ea9bf1c7e963374ee2f0be3]: Commencement: Reg. 2 in force at 11.7.2016 at made date
+[^c-df3485042ea9bf1c7e963374ee2f0be3]: Commencement: Reg. 2 in force at 11.7.2016 at made date
 
-[^key-2acb8d01fa55f68010c9f606f8d733dd]: Commencement: Reg. 3 in force at 11.7.2016 at made date
+[^c-2acb8d01fa55f68010c9f606f8d733dd]: Commencement: Reg. 3 in force at 11.7.2016 at made date
 
-[^key-1e94ef297accb8e98eb20ed1e02f9cd9]: Commencement: Reg. 4 in force at 11.7.2016 at made date
+[^c-1e94ef297accb8e98eb20ed1e02f9cd9]: Commencement: Reg. 4 in force at 11.7.2016 at made date
 
 [^f00003]: Footnote: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-54a03e0670a4b92bafb37dff5a4b5a34]: Commencement: Reg. 5 in force at 11.7.2016 at made date
+[^c-54a03e0670a4b92bafb37dff5a4b5a34]: Commencement: Reg. 5 in force at 11.7.2016 at made date
 
-[^key-d6ebbf0b48d2f4b7685ea321c80f7e8a]: Commencement: Reg. 6 in force at 11.7.2016 at made date
+[^c-d6ebbf0b48d2f4b7685ea321c80f7e8a]: Commencement: Reg. 6 in force at 11.7.2016 at made date
 
 [^f00004]: Footnote: [1842 c. 94](https://www.legislation.gov.uk/ukpga/1842/94); section 16(1) was amended by the Statute Law Revision (No 2) Act [1888 (c. 57)](https://www.legislation.gov.uk/ukpga/1888/57) and by [S.I. 2006/1177](https://www.legislation.gov.uk/uksi/2006/1177).
 
@@ -249,20 +249,20 @@ NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
 
 [^f00027]: Footnote: [2008 c. 17](https://www.legislation.gov.uk/ukpga/2008/17). Section 333ZD of the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29) provides that section 17 of the Housing and Regeneration Act 2008 applies in relation to the Greater London Authority and land in Greater London as it applies in relation to the Homes and Communities Agency and land outside Greater London. Section 210 of the Localism Act [2011(c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) provides that section 17 of the Housing and Regeneration Act 2008 applies in relation to a Mayoral Development Corporation as it applies in relation to the Homes and Communities Agency.
 
-[^key-ca2e735770132486187036a023835c44]: Commencement: Reg. 7 in force at 11.7.2016 at made date
+[^c-ca2e735770132486187036a023835c44]: Commencement: Reg. 7 in force at 11.7.2016 at made date
 
-[^key-5772cf60f2967a2b05e902c6c6a42c70]: Commencement: Reg. 8 in force at 11.7.2016 at made date
+[^c-5772cf60f2967a2b05e902c6c6a42c70]: Commencement: Reg. 8 in force at 11.7.2016 at made date
 
 [^f00028]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67); an amendment has been made to section 23 but it is not relevant to these Regulations.
 
-[^key-8db201501c9d688c3ae5a221f1f84e63]: Commencement: Reg. 9 in force at 11.7.2016 at made date
+[^c-8db201501c9d688c3ae5a221f1f84e63]: Commencement: Reg. 9 in force at 11.7.2016 at made date
 
-[^key-7f76b363abe8b100fbc4f1095bf59b10]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2016/733/regulation/10) revoked (19.7.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 37(5)(a)](https://www.legislation.gov.uk/ukpga/2017/20/section/37/5/a), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/i)
+[^c-7f76b363abe8b100fbc4f1095bf59b10]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2016/733/regulation/10) revoked (19.7.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 37(5)(a)](https://www.legislation.gov.uk/ukpga/2017/20/section/37/5/a), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/i)
 
-[^key-0790c3ede59bb9cf3844efd82f5479d8]: Commencement: Reg. 11 in force at 11.7.2016 at made date
+[^c-0790c3ede59bb9cf3844efd82f5479d8]: Commencement: Reg. 11 in force at 11.7.2016 at made date
 
 [^f00031]: Footnote: [2015 c.17](https://www.legislation.gov.uk/ukpga/2015/17). Section 2A is inserted by section 10 of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
-[^key-64356ba3811b36c0ae790ef72e5f2bb4]: Commencement: Reg. 12 in force at 11.7.2016 at made date
+[^c-64356ba3811b36c0ae790ef72e5f2bb4]: Commencement: Reg. 12 in force at 11.7.2016 at made date
 
-[^key-4497ff958c76aecc274736f56f3c288a]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/2016/733/regulation/12/3) revoked (19.7.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 37(5)(b)](https://www.legislation.gov.uk/ukpga/2017/20/section/37/5/b), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/i)
+[^c-4497ff958c76aecc274736f56f3c288a]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/2016/733/regulation/12/3) revoked (19.7.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 37(5)(b)](https://www.legislation.gov.uk/ukpga/2017/20/section/37/5/b), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/i)

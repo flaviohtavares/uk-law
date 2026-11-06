@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Maximum penalty for offences relating to offensive weapons[^key-06a8e5d1a643f36b30734ddcf512a44e]
+## 29. Maximum penalty for offences relating to offensive weapons[^c-06a8e5d1a643f36b30734ddcf512a44e]
 
 *Extent: E+W+S*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06a8e5d1a643f36b30734ddcf512a44e]: Commencement: S. 29 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-06a8e5d1a643f36b30734ddcf512a44e]: Commencement: S. 29 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

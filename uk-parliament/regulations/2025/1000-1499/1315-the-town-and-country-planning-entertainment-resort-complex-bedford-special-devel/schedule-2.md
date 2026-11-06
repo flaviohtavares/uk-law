@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — Classes of development permitted[^key-26908ad4b749cd24b095e022df374c58]
+## SCHEDULE 2 — Classes of development permitted[^c-26908ad4b749cd24b095e022df374c58]
 
 *Extent: E+W*
 
@@ -24,42 +24,42 @@ summary: ''
 
 Articles 2(4), 4
 
-### 1. Visitor entertainment and hospitality facilities[^key-26908ad4b749cd24b095e022df374c58]
+### 1. Visitor entertainment and hospitality facilities[^c-26908ad4b749cd24b095e022df374c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Support for provision and operation of visitor entertainment and hospitality facilities[^key-26908ad4b749cd24b095e022df374c58]
+### 2. Support for provision and operation of visitor entertainment and hospitality facilities[^c-26908ad4b749cd24b095e022df374c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Rail-related development[^key-26908ad4b749cd24b095e022df374c58]
+### 3. Rail-related development[^c-26908ad4b749cd24b095e022df374c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Utilities and services[^key-26908ad4b749cd24b095e022df374c58]
+### 4. Utilities and services[^c-26908ad4b749cd24b095e022df374c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Walking, wheeling and cycling routes[^key-26908ad4b749cd24b095e022df374c58]
+### 5. Walking, wheeling and cycling routes[^c-26908ad4b749cd24b095e022df374c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Roads and associated infrastructure[^key-26908ad4b749cd24b095e022df374c58]
+### 6. Roads and associated infrastructure[^c-26908ad4b749cd24b095e022df374c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Vehicle-related facilities[^key-26908ad4b749cd24b095e022df374c58]
+### 7. Vehicle-related facilities[^c-26908ad4b749cd24b095e022df374c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Security and reception[^key-26908ad4b749cd24b095e022df374c58]
+### 8. Security and reception[^c-26908ad4b749cd24b095e022df374c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Landscaping and environmental measures, miscellaneous features, facilities and amenities[^key-26908ad4b749cd24b095e022df374c58]
+### 9. Landscaping and environmental measures, miscellaneous features, facilities and amenities[^c-26908ad4b749cd24b095e022df374c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-26908ad4b749cd24b095e022df374c58]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/1315) revoked (17.12.2025) by [The Town and Country Planning (Entertainment Resort Complex, Bedford) Special Development (No. 2) Order 2025 (S.I. 2025/1322)](https://www.legislation.gov.uk/uksi/2025/1322), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1322/article/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/1322/article/1/5)
+[^c-26908ad4b749cd24b095e022df374c58]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/1315) revoked (17.12.2025) by [The Town and Country Planning (Entertainment Resort Complex, Bedford) Special Development (No. 2) Order 2025 (S.I. 2025/1322)](https://www.legislation.gov.uk/uksi/2025/1322), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/1322/article/1/2)[(5)](https://www.legislation.gov.uk/uksi/2025/1322/article/1/5)

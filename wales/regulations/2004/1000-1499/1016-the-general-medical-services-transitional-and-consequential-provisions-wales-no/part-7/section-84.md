@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Transitory interpretation of references in enactments to primary medical services[^key-19be4b6611248cb3b14c10789062cbc6]
+## 84. Transitory interpretation of references in enactments to primary medical services[^c-19be4b6611248cb3b14c10789062cbc6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ For so long as default contracts entered into pursuant to section 176(3) of the 
 
 ## Annotations
 
-[^key-19be4b6611248cb3b14c10789062cbc6]: Commencement: Art. 84 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-19be4b6611248cb3b14c10789062cbc6]: Commencement: Art. 84 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

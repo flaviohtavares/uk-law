@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. Irritancy for non-payment of rent[^key-e45e997afa9876d4b1f40951dfc51299]
+## 123. Irritancy for non-payment of rent[^c-e45e997afa9876d4b1f40951dfc51299]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e45e997afa9876d4b1f40951dfc51299]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2016/18/section/123) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-e45e997afa9876d4b1f40951dfc51299]: Commencement: [S. 123](https://www.legislation.gov.uk/asp/2016/18/section/123) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Periods of absence from a dwelling[^key-639ff3215c4923f4b392b1b1be94bb49]
+## 26. Periods of absence from a dwelling[^c-639ff3215c4923f4b392b1b1be94bb49]
 
 *Extent: E+W*
 
@@ -81,7 +81,7 @@ or is detained in custody pending sentence upon conviction;
 
 ## Annotations
 
-[^key-639ff3215c4923f4b392b1b1be94bb49]: Commencement: Reg. 26 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-639ff3215c4923f4b392b1b1be94bb49]: Commencement: Reg. 26 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00095]: Footnote: [2007 c.21](https://www.legislation.gov.uk/ukpga/2007/21).
 

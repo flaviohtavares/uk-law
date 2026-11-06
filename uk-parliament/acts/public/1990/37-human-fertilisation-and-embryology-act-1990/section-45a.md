@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Power to make consequential provision[^key-3838f51e4bcb9bf6e49d4087ae2619e8]
+## 45A. Power to make consequential provision[^c-3838f51e4bcb9bf6e49d4087ae2619e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) Before making an order under this section containing provision which would, if included in an Act of the Scottish Parliament, be within the legislative competence of that Parliament, the Secretary of State must consult the Scottish Ministers.
 
-(4) Before making an order under this section containing provision which would be within the legislative competence of the National Assembly for Wales if it were included in an Act of the Assembly[^key-7b25e95d0d79acfb253a3ace0dc4752d], the Secretary of State must consult the Welsh Ministers.
+(4) Before making an order under this section containing provision which would be within the legislative competence of the National Assembly for Wales if it were included in an Act of the Assembly[^c-7b25e95d0d79acfb253a3ace0dc4752d], the Secretary of State must consult the Welsh Ministers.
 
 (5) Before making an order under this section containing provision which would if included in an Act of the Northern Ireland Assembly, be within the legislative competence of that Assembly, the Secretary of State must consult the Department of Health, Social Services and Public Safety.
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3838f51e4bcb9bf6e49d4087ae2619e8]: Textual amendment: S. 45A inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 31](https://www.legislation.gov.uk/ukpga/2008/22/section/31), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(o)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/o)
+[^c-3838f51e4bcb9bf6e49d4087ae2619e8]: Textual amendment: S. 45A inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 31](https://www.legislation.gov.uk/ukpga/2008/22/section/31), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(o)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/o)
 
-[^key-7b25e95d0d79acfb253a3ace0dc4752d]: Textual amendment: Words in s. 45A(4) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 52](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/52) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-7b25e95d0d79acfb253a3ace0dc4752d]: Textual amendment: Words in s. 45A(4) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 52](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/52) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

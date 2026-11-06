@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Account to specify amount of accrued earned pension and leaver index adjustment[^key-62a8c277245f4ce345a5f12115180563]
+## 61. Account to specify amount of accrued earned pension and leaver index adjustment[^c-62a8c277245f4ce345a5f12115180563]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The deferred member’s account must specify—
 
 ## Annotations
 
-[^key-62a8c277245f4ce345a5f12115180563]: Commencement: [Reg. 61](https://www.legislation.gov.uk/ssi/2014/292/regulation/61) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-62a8c277245f4ce345a5f12115180563]: Commencement: [Reg. 61](https://www.legislation.gov.uk/ssi/2014/292/regulation/61) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

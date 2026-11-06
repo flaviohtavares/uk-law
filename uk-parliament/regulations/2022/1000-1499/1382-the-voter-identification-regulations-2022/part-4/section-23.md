@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Supply of the record to police forces and other organisations[^key-3b67b09c26b4d4b738242c27c0ae742c]
+## 23. Supply of the record to police forces and other organisations[^c-3b67b09c26b4d4b738242c27c0ae742c]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ as those paragraphs apply to such a constable, officer or employee.
 
 ## Annotations
 
-[^key-3b67b09c26b4d4b738242c27c0ae742c]: Commencement: Reg. 23 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-3b67b09c26b4d4b738242c27c0ae742c]: Commencement: Reg. 23 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

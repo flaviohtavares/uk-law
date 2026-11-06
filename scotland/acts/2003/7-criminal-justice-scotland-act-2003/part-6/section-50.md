@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-489a0d31ccc8c27c59f2a5895d96a349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-489a0d31ccc8c27c59f2a5895d96a349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-489a0d31ccc8c27c59f2a5895d96a349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-489a0d31ccc8c27c59f2a5895d96a349] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 245A (restriction of liberty orders) of that Act, in subsection (1)—
 
@@ -30,10 +30,10 @@ summary: ''
 - (b) the words from “, if” to “disposal,” are repealed;
 - (c) after “may” there is inserted “ , instead of imposing on him a sentence of, or including, imprisonment or any other form of detention, ”.
 
-(4)[^key-9753030dc901a6771c5149c771b88c59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9753030dc901a6771c5149c771b88c59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-489a0d31ccc8c27c59f2a5895d96a349]: Textual amendment: S. 50(1)(2) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 47(4)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/47/4); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-489a0d31ccc8c27c59f2a5895d96a349]: Textual amendment: S. 50(1)(2) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 47(4)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/47/4); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
 
-[^key-9753030dc901a6771c5149c771b88c59]: Textual amendment: S. 50(4) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 47(4)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/47/4); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-9753030dc901a6771c5149c771b88c59]: Textual amendment: S. 50(4) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 47(4)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/47/4); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))

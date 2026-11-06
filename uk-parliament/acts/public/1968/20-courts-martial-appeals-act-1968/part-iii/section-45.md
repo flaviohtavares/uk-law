@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to this section, any sentence passed on an appeal from the Appeal Court to the Supreme Court[^key-43a101b14573c8bb291621972d34a78b] in substitution for another sentence shall, unless the Supreme Court or the Appeal Court otherwise direct, begin to run from the time when that other sentence would have begun to run.
+(1) Subject to this section, any sentence passed on an appeal from the Appeal Court to the Supreme Court[^c-43a101b14573c8bb291621972d34a78b] in substitution for another sentence shall, unless the Supreme Court or the Appeal Court otherwise direct, begin to run from the time when that other sentence would have begun to run.
 
 (2) Where under this Part of this Act a person subject to a sentence is granted[^c7715551] bail pending an appeal, the time during which he is released on bail shall be disregarded in computing the term of his sentence.
 
 ## Annotations
 
-[^key-43a101b14573c8bb291621972d34a78b]: Textual amendment: Words in s. 45(1) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 17(7)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/17/7); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-43a101b14573c8bb291621972d34a78b]: Textual amendment: Words in s. 45(1) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 17(7)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/17/7); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c7715551]: Textual amendment: Words substituted by [Bail Act 1976 (c. 63, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1976/63), [s. 12](https://www.legislation.gov.uk/ukpga/1976/63/section/12), [Sch. 2 para. 46](https://www.legislation.gov.uk/ukpga/1976/63/schedule/2/paragraph/46)

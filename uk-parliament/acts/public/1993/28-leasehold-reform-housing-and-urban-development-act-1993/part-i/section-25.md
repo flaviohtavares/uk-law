@@ -47,7 +47,7 @@ the court may, on the application of either the nominee purchaser or the reversi
 
 - (a) providing for the interests to be acquired by the nominee purchaser to be vested in him on the terms referred to in subsection (5);
 - (b) providing for those interests to be vested in him on those terms, but subject to such modifications as—
-  - (i) may have been determined by the appropriate tribunal[^key-9e11987e628ce761241a36348d8d6728], on the application of either the nominee purchaser or the reversioner, to be required by reason of any change in circumstances since the time when the terms were determined as mentioned in that subsection, and
+  - (i) may have been determined by the appropriate tribunal[^c-9e11987e628ce761241a36348d8d6728], on the application of either the nominee purchaser or the reversioner, to be required by reason of any change in circumstances since the time when the terms were determined as mentioned in that subsection, and
   - (ii) are specified in the order; or
 - (c) providing for the initial notice to be deemed to have been withdrawn at the end of the appropriate period specified in subsection (8);
 
@@ -62,4 +62,4 @@ and Schedule 5 shall have effect in relation to any such order as is mentioned i
 
 ## Annotations
 
-[^key-9e11987e628ce761241a36348d8d6728]: Textual amendment: Words in [s. 25(6)(b)(i)](https://www.legislation.gov.uk/ukpga/1993/28/section/25/6/b/i) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 102](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/102) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-9e11987e628ce761241a36348d8d6728]: Textual amendment: Words in [s. 25(6)(b)(i)](https://www.legislation.gov.uk/ukpga/1993/28/section/25/6/b/i) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 102](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/102) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

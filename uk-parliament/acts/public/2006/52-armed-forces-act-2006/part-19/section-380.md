@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 380. Power to make transitional and transitory provision[^key-7c7f89c8e6a809b1eb3532ddcd733008][^key-0db979ea2b252facdb8d281b0ff0738c]
+## 380. Power to make transitional and transitory provision[^c-7c7f89c8e6a809b1eb3532ddcd733008][^c-0db979ea2b252facdb8d281b0ff0738c]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,20 +54,20 @@ any provision of this Act or amended by or under this Act has effect with such m
 - (a) any provision of or made under this Act;
 - (b) any provision of or made under an enactment repealed by this Act.
 
-(8A)[^key-cc115302350a6dd7ad2a63dd439dd8f7] The power under subsection (1) to make transitional provision in connection with the coming into force of any provision made by or under this Act includes power, where this Act or any provision made under it is amended, to amend any earlier order under this section (whether the amendment relates to a subject already dealt with in the earlier order or a new subject)[^key-6f967fd718e1564dc58d2e0ec72612ad].
+(8A)[^c-cc115302350a6dd7ad2a63dd439dd8f7] The power under subsection (1) to make transitional provision in connection with the coming into force of any provision made by or under this Act includes power, where this Act or any provision made under it is amended, to amend any earlier order under this section (whether the amendment relates to a subject already dealt with in the earlier order or a new subject)[^c-6f967fd718e1564dc58d2e0ec72612ad].
 
-(9)[^key-b3d2c995ab2a622422623c0172370ab1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-b3d2c995ab2a622422623c0172370ab1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In this section “**commencement**” means the commencement of such provisions of this Act as may be specified by the order.
 
 ## Annotations
 
-[^key-7c7f89c8e6a809b1eb3532ddcd733008]: Commencement: S. 380 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-7c7f89c8e6a809b1eb3532ddcd733008]: Commencement: S. 380 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-0db979ea2b252facdb8d281b0ff0738c]: Commencement: S. 380 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-0db979ea2b252facdb8d281b0ff0738c]: Commencement: S. 380 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-cc115302350a6dd7ad2a63dd439dd8f7]: Textual amendment: S. 380(8A) inserted (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/23); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/669/article/3/e)
+[^c-cc115302350a6dd7ad2a63dd439dd8f7]: Textual amendment: S. 380(8A) inserted (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/23); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/669/article/3/e)
 
-[^key-6f967fd718e1564dc58d2e0ec72612ad]: Textual amendment: Words in [s. 380(8A)](https://www.legislation.gov.uk/ukpga/2006/52/section/380/8A) inserted (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(c)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/c)[(6)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/6)
+[^c-6f967fd718e1564dc58d2e0ec72612ad]: Textual amendment: Words in [s. 380(8A)](https://www.legislation.gov.uk/ukpga/2006/52/section/380/8A) inserted (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(c)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/c)[(6)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/6)
 
-[^key-b3d2c995ab2a622422623c0172370ab1]: Textual amendment: S. 380(9) repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2011/18/schedule/4/paragraph/15), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)
+[^c-b3d2c995ab2a622422623c0172370ab1]: Textual amendment: S. 380(9) repealed (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2011/18/schedule/4/paragraph/15), [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/18/schedule/5); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(f)(i)](https://www.legislation.gov.uk/uksi/2012/669/article/4/f/i)

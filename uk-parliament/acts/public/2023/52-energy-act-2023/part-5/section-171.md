@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Provision of advice, analysis or information[^key-3422e19746f6971821eae985b2391fcf][^key-80797cea1a9a74b1430acf81893ffbd5]
+## 171. Provision of advice, analysis or information[^c-3422e19746f6971821eae985b2391fcf][^c-80797cea1a9a74b1430acf81893ffbd5]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3422e19746f6971821eae985b2391fcf]: Commencement: S. 171 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-3422e19746f6971821eae985b2391fcf]: Commencement: S. 171 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-80797cea1a9a74b1430acf81893ffbd5]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2023/52/section/171) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(vi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/vi)
+[^c-80797cea1a9a74b1430acf81893ffbd5]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2023/52/section/171) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(vi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/vi)

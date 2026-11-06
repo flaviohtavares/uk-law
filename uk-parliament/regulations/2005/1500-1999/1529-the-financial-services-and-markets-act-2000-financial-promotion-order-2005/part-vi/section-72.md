@@ -25,11 +25,11 @@ summary: ''
 (2) The requirements of this paragraph are that—
 
 - (a) the employer will make a contribution to the group personal pension scheme or stakeholder pension scheme to which the communication relates in the event of the employee becoming a member of the scheme and the communication contains a statement informing the employee of this;
-- (b)[^key-6790062442c75a58fc907ec66833cedf] the employer has not received, and will not receive, any direct financial benefit as a result of making the communication;
-- (c) the employer notifies the employee in writing prior to the employee becoming a member of the scheme of the amount of the contribution that the employer will make to the scheme in respect of that employee or the basis on which the contribution will be calculated[^key-d67f3527abfa3d13e8a69db76a13ebd4]; and
+- (b)[^c-6790062442c75a58fc907ec66833cedf] the employer has not received, and will not receive, any direct financial benefit as a result of making the communication;
+- (c) the employer notifies the employee in writing prior to the employee becoming a member of the scheme of the amount of the contribution that the employer will make to the scheme in respect of that employee or the basis on which the contribution will be calculated[^c-d67f3527abfa3d13e8a69db76a13ebd4]; and
 - (d) in the case of a non-real time communication, the communication contains, or is accompanied by, a statement informing the employee of his right to seek advice from an authorised person or an appointed representative.
 
-(3)[^key-ffda5ed2c37e5a29657ac5db8b635647] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ffda5ed2c37e5a29657ac5db8b635647] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In this article—
 
@@ -39,11 +39,11 @@ summary: ''
 
 ## Annotations
 
-[^key-6790062442c75a58fc907ec66833cedf]: Textual amendment: Art. 72(2)(b) substituted (13.4.2010) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) Order 2010 (S.I. 2010/905)](https://www.legislation.gov.uk/uksi/2010/905), [arts. 1](https://www.legislation.gov.uk/uksi/2010/905/article/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2010/905/article/4/a/i)
+[^c-6790062442c75a58fc907ec66833cedf]: Textual amendment: Art. 72(2)(b) substituted (13.4.2010) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) Order 2010 (S.I. 2010/905)](https://www.legislation.gov.uk/uksi/2010/905), [arts. 1](https://www.legislation.gov.uk/uksi/2010/905/article/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2010/905/article/4/a/i)
 
-[^key-d67f3527abfa3d13e8a69db76a13ebd4]: Textual amendment: Words in art. 72(2)(c) inserted (13.4.2010) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) Order 2010 (S.I. 2010/905)](https://www.legislation.gov.uk/uksi/2010/905), [arts. 1](https://www.legislation.gov.uk/uksi/2010/905/article/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2010/905/article/4/a/ii)
+[^c-d67f3527abfa3d13e8a69db76a13ebd4]: Textual amendment: Words in art. 72(2)(c) inserted (13.4.2010) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) Order 2010 (S.I. 2010/905)](https://www.legislation.gov.uk/uksi/2010/905), [arts. 1](https://www.legislation.gov.uk/uksi/2010/905/article/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2010/905/article/4/a/ii)
 
-[^key-ffda5ed2c37e5a29657ac5db8b635647]: Textual amendment: Art. 72(3) omitted (13.4.2010) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) Order 2010 (S.I. 2010/905)](https://www.legislation.gov.uk/uksi/2010/905), [arts. 1](https://www.legislation.gov.uk/uksi/2010/905/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2010/905/article/4/b)
+[^c-ffda5ed2c37e5a29657ac5db8b635647]: Textual amendment: Art. 72(3) omitted (13.4.2010) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) Order 2010 (S.I. 2010/905)](https://www.legislation.gov.uk/uksi/2010/905), [arts. 1](https://www.legislation.gov.uk/uksi/2010/905/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2010/905/article/4/b)
 
 [^c14203201]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48) as amended by section 239 of the [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35).
 

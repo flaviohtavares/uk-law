@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendment of the Fishery Products (Official Controls Charges) (England) Regulations 2007[^key-ebffb14a5e8c3eb7cd0c273c59fc3376]
+## 2. Amendment of the Fishery Products (Official Controls Charges) (England) Regulations 2007[^c-ebffb14a5e8c3eb7cd0c273c59fc3376]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ebffb14a5e8c3eb7cd0c273c59fc3376]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see reg. 1(2)
+[^c-ebffb14a5e8c3eb7cd0c273c59fc3376]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see reg. 1(2)
 
 [^c24375361]: Marginal citation: [S.I. 2007/3392](https://www.legislation.gov.uk/uksi/2007/3392), as last amended by [S.I. 2019/1474](https://www.legislation.gov.uk/uksi/2019/1474).

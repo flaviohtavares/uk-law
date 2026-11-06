@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. No-smoking signs in Wales[^key-a01767b24915b254b7b16f97282220ac]
+## 155. No-smoking signs in Wales[^c-a01767b24915b254b7b16f97282220ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a01767b24915b254b7b16f97282220ac]: Commencement: S. 155 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-a01767b24915b254b7b16f97282220ac]: Commencement: S. 155 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)

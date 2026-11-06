@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Power to add or alter requirements[^key-8c5def97b3f662454385d3d6c4c68019][^key-3063af5c22dac192301b4b93bbced831]
+## 18. Power to add or alter requirements[^c-8c5def97b3f662454385d3d6c4c68019][^c-3063af5c22dac192301b4b93bbced831]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c5def97b3f662454385d3d6c4c68019]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
+[^c-8c5def97b3f662454385d3d6c4c68019]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
 
-[^key-3063af5c22dac192301b4b93bbced831]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2026/2/section/18) in force at 1.10.2026 in so far as not already in force by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/h) (as amended by S.I. 2026/948, [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-3063af5c22dac192301b4b93bbced831]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2026/2/section/18) in force at 1.10.2026 in so far as not already in force by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/h) (as amended by S.I. 2026/948, [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))

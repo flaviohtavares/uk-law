@@ -34,7 +34,7 @@ Animals, England
 
 Animal Health
 
-The Zoonoses and Animal By-Products (Fees) (England) Regulations 2009 (revoked)[^key-bbb0a08697c984b1cc653c094e147e86]
+The Zoonoses and Animal By-Products (Fees) (England) Regulations 2009 (revoked)[^c-bbb0a08697c984b1cc653c094e147e86]
 
 Made
 
@@ -48,31 +48,31 @@ Coming into force
 
 17th August 2009
 
-[^key-bbb0a08697c984b1cc653c094e147e86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbb0a08697c984b1cc653c094e147e86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-bbb0a08697c984b1cc653c094e147e86]
+## 1. Title, application and commencement[^c-bbb0a08697c984b1cc653c094e147e86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-bbb0a08697c984b1cc653c094e147e86]
+## 2. Interpretation[^c-bbb0a08697c984b1cc653c094e147e86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees[^key-bbb0a08697c984b1cc653c094e147e86]
+## 3. Fees[^c-bbb0a08697c984b1cc653c094e147e86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-bbb0a08697c984b1cc653c094e147e86]
+## 4. Revocation[^c-bbb0a08697c984b1cc653c094e147e86]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bbb0a08697c984b1cc653c094e147e86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbb0a08697c984b1cc653c094e147e86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-bbb0a08697c984b1cc653c094e147e86]
+## SCHEDULE[^c-bbb0a08697c984b1cc653c094e147e86]
 
 Regulation 3
 
@@ -80,8 +80,8 @@ Regulation 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-bbb0a08697c984b1cc653c094e147e86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bbb0a08697c984b1cc653c094e147e86]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bbb0a08697c984b1cc653c094e147e86]: Textual amendment: Regulations revoked (20.7.2010) by The Zoonoses and Animal By-[Products (Fees) (England) Regulations 2010 (S.I. 2010/1668)](https://www.legislation.gov.uk/uksi/2010/1668), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1668/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2010/1668/regulation/4)
+[^c-bbb0a08697c984b1cc653c094e147e86]: Textual amendment: Regulations revoked (20.7.2010) by The Zoonoses and Animal By-[Products (Fees) (England) Regulations 2010 (S.I. 2010/1668)](https://www.legislation.gov.uk/uksi/2010/1668), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1668/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2010/1668/regulation/4)

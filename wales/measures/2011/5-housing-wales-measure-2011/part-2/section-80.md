@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Restrictions on dealings following an inquiry or extraordinary audit[^key-fb8ec5c3824b13e69a16e50bf78848c3]
+## 80. Restrictions on dealings following an inquiry or extraordinary audit[^c-fb8ec5c3824b13e69a16e50bf78848c3]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb8ec5c3824b13e69a16e50bf78848c3]: Commencement: [S. 80](https://www.legislation.gov.uk/mwa/2011/5/section/80) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(r)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/r)
+[^c-fb8ec5c3824b13e69a16e50bf78848c3]: Commencement: [S. 80](https://www.legislation.gov.uk/mwa/2011/5/section/80) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(r)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/r)

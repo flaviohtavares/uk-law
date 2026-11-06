@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Partnerships[^key-f3d2c57d847cfbbc14f631789c961f1d]
+## 18. Partnerships[^c-f3d2c57d847cfbbc14f631789c961f1d]
 
 *Extent: N.I.*
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f3d2c57d847cfbbc14f631789c961f1d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/261/regulation/18) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-f3d2c57d847cfbbc14f631789c961f1d]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2006/261/regulation/18) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00016]: Footnote: [1907 c. 24](https://www.legislation.gov.uk/ukpga/1907/24)
 

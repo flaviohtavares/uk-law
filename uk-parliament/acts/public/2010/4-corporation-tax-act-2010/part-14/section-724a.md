@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 724A. Disregard of change in parent company[^key-5b3ae313255e5ba836c18c0642966ce8][^key-49429f43d63265c3f1be60bdf14d9a7e]
+## 724A. Disregard of change in parent company[^c-5b3ae313255e5ba836c18c0642966ce8][^c-49429f43d63265c3f1be60bdf14d9a7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,15 +51,15 @@ summary: ''
 
 (7) “**Scheme of reconstruction**” means a scheme carried out in pursuance of a compromise or arrangement—
 
-- (a) to which Part 26 or 26A[^key-5043e7372a5afdc601fdfa39220e20b3] of the Companies Act 2006 (arrangements and reconstructions) applies, or
+- (a) to which Part 26 or 26A[^c-5043e7372a5afdc601fdfa39220e20b3] of the Companies Act 2006 (arrangements and reconstructions) applies, or
 - (b) under any corresponding provision of the law of a country or territory outside the United Kingdom.
 
 (8) Chapter 6 of Part 5 (equity holders and profits or assets available for distribution) applies for the purposes of subsection (1)(b) and (c) as it applies for the purposes of section 151(4).
 
 ## Annotations
 
-[^key-5b3ae313255e5ba836c18c0642966ce8]: Modification: [Ss. 719-724A](https://www.legislation.gov.uk/ukpga/2010/4/section/719) modified (with effect in relation to accounting periods commencing on or after 31.12.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [ss. 212(5)](https://www.legislation.gov.uk/ukpga/2023/30/section/212/5), [264](https://www.legislation.gov.uk/ukpga/2023/30/section/264)
+[^c-5b3ae313255e5ba836c18c0642966ce8]: Modification: [Ss. 719-724A](https://www.legislation.gov.uk/ukpga/2010/4/section/719) modified (with effect in relation to accounting periods commencing on or after 31.12.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [ss. 212(5)](https://www.legislation.gov.uk/ukpga/2023/30/section/212/5), [264](https://www.legislation.gov.uk/ukpga/2023/30/section/264)
 
-[^key-49429f43d63265c3f1be60bdf14d9a7e]: Textual amendment: S. 724A inserted (with effect in accordance with s. 37(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 37(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/37/4)
+[^c-49429f43d63265c3f1be60bdf14d9a7e]: Textual amendment: S. 724A inserted (with effect in accordance with s. 37(6) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 37(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/37/4)
 
-[^key-5043e7372a5afdc601fdfa39220e20b3]: Textual amendment: Words in [s. 724A(7)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/724A/7/a) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 44](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/44) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-5043e7372a5afdc601fdfa39220e20b3]: Textual amendment: Words in [s. 724A(7)(a)](https://www.legislation.gov.uk/ukpga/2010/4/section/724A/7/a) inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 44](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/44) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

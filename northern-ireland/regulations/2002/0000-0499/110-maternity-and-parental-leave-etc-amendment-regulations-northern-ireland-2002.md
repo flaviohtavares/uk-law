@@ -33,7 +33,7 @@ Regulations made by the Department for Employment and Learning and laid before t
 
 EMPLOYMENT
 
-Maternity and Parental Leave etc. (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^key-c432dd8760165975e5fc1f0700b78dc8]
+Maternity and Parental Leave etc. (Amendment) Regulations (Northern Ireland) 2002 (revoked)[^c-c432dd8760165975e5fc1f0700b78dc8]
 
 Made
 
@@ -45,21 +45,21 @@ Coming into operation
 
 21st April 2002
 
-[^key-c432dd8760165975e5fc1f0700b78dc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c432dd8760165975e5fc1f0700b78dc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-3bd825a6893e65f160566d23b7880e9d]
+## 1. Citation and commencement[^c-3bd825a6893e65f160566d23b7880e9d]
 
 These Regulations may be cited as the Maternity and Parental Leave etc. (Amendment) Regulations (Northern Ireland) 2002 and shall come into operation on 21st April 2002.
 
-## 2. Interpretation[^key-85089ebf8321423b201b06914c9d7d32]
+## 2. Interpretation[^c-85089ebf8321423b201b06914c9d7d32]
 
 In these Regulations, “the principal Regulations” means the Maternity and Parental Leave etc. Regulations (Northern Ireland) 1999[^f00003].
 
-## 3. Amendment of the principal Regulations[^key-334bac40723d421be9e25e91c0a4a3a6]
+## 3. Amendment of the principal Regulations[^c-334bac40723d421be9e25e91c0a4a3a6]
 
 The principal Regulations shall be amended in accordance with regulations 4 to 7.
 
-**4.**[^key-2465a1fdc6617878518c0d4387e12062] In regulation 13 (entitlement to parental leave)—
+**4.**[^c-2465a1fdc6617878518c0d4387e12062] In regulation 13 (entitlement to parental leave)—
 
 - (a) in paragraph (1)(*a*), after the words “employed for a period of not less than one year”, insert “or is to be treated as having been so employed by virtue of paragraph (1A)”;
 - (b) after paragraph (1), insert—
@@ -74,7 +74,7 @@ The principal Regulations shall be amended in accordance with regulations 4 to 7
   ;
 - (c) omit regulation 13(3).
 
-**5.**[^key-7f69167a37573b581a3ade101525366a] In regulation 14 (extent of entitlement)—
+**5.**[^c-7f69167a37573b581a3ade101525366a] In regulation 14 (extent of entitlement)—
 
 - (a) in paragraph (1) for “An employee is entitled” substitute “Except in the case referred to in paragraph (1A), an employee is entitled”;
 - (b) after paragraph (1), insert—
@@ -83,7 +83,7 @@ The principal Regulations shall be amended in accordance with regulations 4 to 7
 
   .
 
-**6.**[^key-8fc6110b37fc90fdae62f2cc8e8f151e] For regulation 15 (when parental leave may be taken) substitute—
+**6.**[^c-8fc6110b37fc90fdae62f2cc8e8f151e] For regulation 15 (when parental leave may be taken) substitute—
 
 > **15.** (1) Except in the cases referred to in paragraphs (2) to (4), an employee may not exercise any entitlement to parental leave in respect of a child after the date of the child’s fifth birthday or, in the case of a child placed with the employee for adoption by him, after—
 >
@@ -110,7 +110,7 @@ The principal Regulations shall be amended in accordance with regulations 4 to 7
 
 .
 
-**7.**[^key-191ca88af552bba04aeb243ad30efffc] In Schedule 2 (default provisions in respect of parental leave)—
+**7.**[^c-191ca88af552bba04aeb243ad30efffc] In Schedule 2 (default provisions in respect of parental leave)—
 
 - (a) after paragraph 2, insert—
 
@@ -137,24 +137,24 @@ Department for Employment and Learning
 
 **May not be in force at this date. Check the source.**
 
-[^key-c432dd8760165975e5fc1f0700b78dc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c432dd8760165975e5fc1f0700b78dc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c432dd8760165975e5fc1f0700b78dc8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/110) revoked (21.4.2002) by [Maternity and Parental Leave etc. (Amendment No. 2) Regulations (Northern Ireland) 2002 (S.R. 2002/135)](https://www.legislation.gov.uk/nisr/2002/135), [regs. 1](https://www.legislation.gov.uk/nisr/2002/135/regulation/1), [3](https://www.legislation.gov.uk/nisr/2002/135/regulation/3)
+[^c-c432dd8760165975e5fc1f0700b78dc8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/110) revoked (21.4.2002) by [Maternity and Parental Leave etc. (Amendment No. 2) Regulations (Northern Ireland) 2002 (S.R. 2002/135)](https://www.legislation.gov.uk/nisr/2002/135), [regs. 1](https://www.legislation.gov.uk/nisr/2002/135/regulation/1), [3](https://www.legislation.gov.uk/nisr/2002/135/regulation/3)
 
-[^key-3bd825a6893e65f160566d23b7880e9d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1) in operation at 21.4.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1)
+[^c-3bd825a6893e65f160566d23b7880e9d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1) in operation at 21.4.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1)
 
-[^key-85089ebf8321423b201b06914c9d7d32]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/110/regulation/2) in operation at 21.4.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1)
+[^c-85089ebf8321423b201b06914c9d7d32]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/110/regulation/2) in operation at 21.4.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1999 No. 471](https://www.legislation.gov.uk/nisr/1999/471)
 
-[^key-334bac40723d421be9e25e91c0a4a3a6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/110/regulation/3) in operation at 21.4.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1)
+[^c-334bac40723d421be9e25e91c0a4a3a6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/110/regulation/3) in operation at 21.4.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1)
 
-[^key-2465a1fdc6617878518c0d4387e12062]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/110/regulation/4) in operation at 21.4.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1)
+[^c-2465a1fdc6617878518c0d4387e12062]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/110/regulation/4) in operation at 21.4.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1)
 
-[^key-7f69167a37573b581a3ade101525366a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/110/regulation/5) in operation at 21.4.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1)
+[^c-7f69167a37573b581a3ade101525366a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/110/regulation/5) in operation at 21.4.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1)
 
-[^key-8fc6110b37fc90fdae62f2cc8e8f151e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2002/110/regulation/6) in operation at 21.4.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1)
+[^c-8fc6110b37fc90fdae62f2cc8e8f151e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2002/110/regulation/6) in operation at 21.4.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1)
 
-[^key-191ca88af552bba04aeb243ad30efffc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/110/regulation/7) in operation at 21.4.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1)
+[^c-191ca88af552bba04aeb243ad30efffc]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/110/regulation/7) in operation at 21.4.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/110/regulation/1)

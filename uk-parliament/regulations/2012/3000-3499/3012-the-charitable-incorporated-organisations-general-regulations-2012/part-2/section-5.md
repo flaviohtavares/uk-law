@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. CIO not to be exempt[^key-044098ec3f43e96cd590b5f437d4e512]
+## 5. CIO not to be exempt[^c-044098ec3f43e96cd590b5f437d4e512]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ No application may be made for a CIO to be constituted and registered where the 
 
 ## Annotations
 
-[^key-044098ec3f43e96cd590b5f437d4e512]: Commencement: Reg. 5 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-044098ec3f43e96cd590b5f437d4e512]: Commencement: Reg. 5 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

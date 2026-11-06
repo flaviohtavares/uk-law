@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 8ZA. Child’s consent in relation to information society services: age verification[^key-dcec8823c6fe35fe5ce1b1bb5cf7bc6a]
+## Article 8ZA. Child’s consent in relation to information society services: age verification[^c-dcec8823c6fe35fe5ce1b1bb5cf7bc6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcec8823c6fe35fe5ce1b1bb5cf7bc6a]: Textual amendment: Art. 8ZA inserted (29.4.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 72(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/72/3), [78(1)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/b)
+[^c-dcec8823c6fe35fe5ce1b1bb5cf7bc6a]: Textual amendment: Art. 8ZA inserted (29.4.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 72(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/72/3), [78(1)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/b)

@@ -32,13 +32,13 @@ summary: ''
 
 (6) This section is subject to regulations under section 104C(4) (disapplication of this section).
 
-(7) In this section “constituent council”, in relation to a combined authority, means— *(affected by repeal, see note)*[^key-529e781758addc0089f6952e54677b89]
+(7) In this section “constituent council”, in relation to a combined authority, means— *(affected by repeal, see note)*[^c-529e781758addc0089f6952e54677b89]
 
-- (a) a county council the whole or any part of whose area is within the area of the authority, or *(affected by repeal, see note)*[^key-529e781758addc0089f6952e54677b89]
-- (b) a district council whose area is within the area of the authority. *(affected by repeal, see note)*[^key-529e781758addc0089f6952e54677b89]
+- (a) a county council the whole or any part of whose area is within the area of the authority, or *(affected by repeal, see note)*[^c-529e781758addc0089f6952e54677b89]
+- (b) a district council whose area is within the area of the authority. *(affected by repeal, see note)*[^c-529e781758addc0089f6952e54677b89]
 
 ## Annotations
 
 [^M_F_5b522d73-f76c-43e7-af3f-4302c84fe840]: Textual amendment: [Ss. 104A-104C](https://www.legislation.gov.uk/ukpga/2009/20/section/104A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 64(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/64/8), [255(2)(h)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/h) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-529e781758addc0089f6952e54677b89]: Textual amendment: [S. 104A(7)](https://www.legislation.gov.uk/ukpga/2009/20/section/104A/7) omitted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-529e781758addc0089f6952e54677b89]: Textual amendment: [S. 104A(7)](https://www.legislation.gov.uk/ukpga/2009/20/section/104A/7) omitted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

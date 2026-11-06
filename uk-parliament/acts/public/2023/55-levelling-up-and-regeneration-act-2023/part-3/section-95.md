@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Contents of the spatial development strategy[^key-582aafdb759b632438008effe6274b99]
+## 95. Contents of the spatial development strategy[^c-582aafdb759b632438008effe6274b99]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-582aafdb759b632438008effe6274b99]: Commencement: S. 95 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-582aafdb759b632438008effe6274b99]: Commencement: S. 95 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)

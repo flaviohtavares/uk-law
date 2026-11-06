@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Powers to give directions[^key-5a3b60f987c022d10d6a8b9796c803e5]
+## 85. Powers to give directions[^c-5a3b60f987c022d10d6a8b9796c803e5]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a3b60f987c022d10d6a8b9796c803e5]: Commencement: Reg. 85 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-5a3b60f987c022d10d6a8b9796c803e5]: Commencement: Reg. 85 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

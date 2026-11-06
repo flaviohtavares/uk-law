@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Suitability of the service[^key-fd5486a46cc0afabb11681fb80ad049e]
+## 11. Suitability of the service[^c-fd5486a46cc0afabb11681fb80ad049e]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd5486a46cc0afabb11681fb80ad049e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2019/165/regulation/11) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-fd5486a46cc0afabb11681fb80ad049e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2019/165/regulation/11) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

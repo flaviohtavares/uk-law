@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.16. Notice of arrest for breach of bail[^key-c0ff06fc2c9b00fc21e35ca993964203]
+## 14.16. Notice of arrest for breach of bail[^c-c0ff06fc2c9b00fc21e35ca993964203]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c0ff06fc2c9b00fc21e35ca993964203]: Commencement: [Rule 14.16](https://www.legislation.gov.uk/uksi/2025/909/rule/14.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c0ff06fc2c9b00fc21e35ca993964203]: Commencement: [Rule 14.16](https://www.legislation.gov.uk/uksi/2025/909/rule/14.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00374]: Footnote: [1976 c. 63](https://www.legislation.gov.uk/ukpga/1976/63); section 7 was amended by section 65 of, and Schedule 12 to, the Criminal Law Act [1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45), section 109 of, and paragraph 185 of Schedule 8 and Schedule 10 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), sections 198 and 220 of, and Schedule 4 to, the Extradition Act [2003 (c. 41)](https://www.legislation.gov.uk/ukpga/2003/41), section 177 of, and paragraph 74 of Schedule 21 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) and sections 90 and 105 of, and paragraphs 1 and 8 of Schedule 11 and paragraphs 14 and 16 of Schedule 12 to, the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
 

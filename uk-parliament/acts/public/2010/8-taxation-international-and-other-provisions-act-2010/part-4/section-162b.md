@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162B. Arrangements to avoid participation condition[^key-3cabb4175d00d13bd2fc5f3e4c8b1c31]
+## 162B. Arrangements to avoid participation condition[^c-3cabb4175d00d13bd2fc5f3e4c8b1c31]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cabb4175d00d13bd2fc5f3e4c8b1c31]: Textual amendment: [S. 162B](https://www.legislation.gov.uk/ukpga/2010/8/section/162B) inserted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 15](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/15), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)
+[^c-3cabb4175d00d13bd2fc5f3e4c8b1c31]: Textual amendment: [S. 162B](https://www.legislation.gov.uk/ukpga/2010/8/section/162B) inserted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 15](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/15), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)

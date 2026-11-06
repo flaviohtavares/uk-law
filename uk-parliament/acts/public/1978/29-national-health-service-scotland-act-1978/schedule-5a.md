@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5A — Healthcare Improvement Scotland[^key-77c7b79d31ccb6b8a394e4bff1c84630][^c20968041]
+## SCHEDULE 5A — Healthcare Improvement Scotland[^c-77c7b79d31ccb6b8a394e4bff1c84630][^c20968041]
 
 *Extent: S*
 
@@ -113,7 +113,7 @@ of such pensions, allowances or gratuities to or in respect of any person who is
 
 (8) The reference in sub-paragraph (7) to pensions, allowances and gratuities includes a reference to pensions, allowances and gratuities by way of compensation for loss of employment.
 
-### Medical reviewers[^key-57aace6a44759188f69108dc5c7ab26b]
+### Medical reviewers[^c-57aace6a44759188f69108dc5c7ab26b]
 
 **7A.** (1) HIS must appoint persons employed under paragraph 7(5) to exercise the functions of medical reviewers; and when doing so those employees are to be known as medical reviewers.
 
@@ -173,7 +173,7 @@ may attend and take part in meetings of HIS or any of its committees, but are no
 
 ### Delegation of functions
 
-**11.** (1) HIS may, subject to sub-paragraphs (2) to[^key-d27f3b9bdb41d532377fd8f693500396] (3) authorise—
+**11.** (1) HIS may, subject to sub-paragraphs (2) to[^c-d27f3b9bdb41d532377fd8f693500396] (3) authorise—
 
 - (a) the chief executive;
 - (b) any other employee;
@@ -186,7 +186,7 @@ to exercise such of its functions, and to such extent, as it may determine.
 - (a) the approval of annual reports and accounts;
 - (b) the approval of any budget or other financial plan.
 
-(2A)[^key-c82848ac3a1ac5046784f0b52beac65d] HIS may authorise an employee to carry out the functions of a medical reviewer under section 17.
+(2A)[^c-c82848ac3a1ac5046784f0b52beac65d] HIS may authorise an employee to carry out the functions of a medical reviewer under section 17.
 
 (2B) Any other function conferred on a medical reviewer or the senior medical reviewer may not, subject to sub-paragraph (2C), be delegated by HIS.
 
@@ -227,12 +227,12 @@ and must do so in accordance with any directions the Scottish Ministers may give
 
 ## Annotations
 
-[^key-77c7b79d31ccb6b8a394e4bff1c84630]: Textual amendment: Sch. 5A inserted (1.8.2010 for specified purposes, 1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 16](https://www.legislation.gov.uk/asp/2010/8/schedule/16); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-77c7b79d31ccb6b8a394e4bff1c84630]: Textual amendment: Sch. 5A inserted (1.8.2010 for specified purposes, 1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 16](https://www.legislation.gov.uk/asp/2010/8/schedule/16); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
 [^c20968041]: Textual amendment: Sch. 5A inserted (1.8.2010 for certain purposes, 1.10.2010 for certain purposes and otherwise prosp.) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 110(1)](https://www.legislation.gov.uk/asp/2010/8/section/110/1), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 16](https://www.legislation.gov.uk/asp/2010/8/schedule/16); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-57aace6a44759188f69108dc5c7ab26b]: Textual amendment: [Sch. 5A para. 7A](https://www.legislation.gov.uk/ukpga/1978/29/schedule/5A/paragraph/7A) inserted (8.6.2013) by [Certification of Death (Scotland) Act 2011 (asp 11)](https://www.legislation.gov.uk/asp/2011/11), [s. 32(3)](https://www.legislation.gov.uk/asp/2011/11/section/32/3), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2011/11/schedule/1/paragraph/2); [S.S.I. 2013/159](https://www.legislation.gov.uk/ssi/2013/159), [art. 2](https://www.legislation.gov.uk/ssi/2013/159/article/2), [sch.](https://www.legislation.gov.uk/ssi/2013/159/schedule)
+[^c-57aace6a44759188f69108dc5c7ab26b]: Textual amendment: [Sch. 5A para. 7A](https://www.legislation.gov.uk/ukpga/1978/29/schedule/5A/paragraph/7A) inserted (8.6.2013) by [Certification of Death (Scotland) Act 2011 (asp 11)](https://www.legislation.gov.uk/asp/2011/11), [s. 32(3)](https://www.legislation.gov.uk/asp/2011/11/section/32/3), [sch. 1 para. 2](https://www.legislation.gov.uk/asp/2011/11/schedule/1/paragraph/2); [S.S.I. 2013/159](https://www.legislation.gov.uk/ssi/2013/159), [art. 2](https://www.legislation.gov.uk/ssi/2013/159/article/2), [sch.](https://www.legislation.gov.uk/ssi/2013/159/schedule)
 
-[^key-d27f3b9bdb41d532377fd8f693500396]: Textual amendment: Word in [sch. 5A para. 11(1)](https://www.legislation.gov.uk/ukpga/1978/29/schedule/5A/paragraph/11/1) substituted (8.6.2013) by [Certification of Death (Scotland) Act 2011 (asp 11)](https://www.legislation.gov.uk/asp/2011/11), [s. 32(3)](https://www.legislation.gov.uk/asp/2011/11/section/32/3), [sch. 1 para. 3(a)](https://www.legislation.gov.uk/asp/2011/11/schedule/1/paragraph/3/a); [S.S.I. 2013/159](https://www.legislation.gov.uk/ssi/2013/159), [art. 2](https://www.legislation.gov.uk/ssi/2013/159/article/2), [sch.](https://www.legislation.gov.uk/ssi/2013/159/schedule)
+[^c-d27f3b9bdb41d532377fd8f693500396]: Textual amendment: Word in [sch. 5A para. 11(1)](https://www.legislation.gov.uk/ukpga/1978/29/schedule/5A/paragraph/11/1) substituted (8.6.2013) by [Certification of Death (Scotland) Act 2011 (asp 11)](https://www.legislation.gov.uk/asp/2011/11), [s. 32(3)](https://www.legislation.gov.uk/asp/2011/11/section/32/3), [sch. 1 para. 3(a)](https://www.legislation.gov.uk/asp/2011/11/schedule/1/paragraph/3/a); [S.S.I. 2013/159](https://www.legislation.gov.uk/ssi/2013/159), [art. 2](https://www.legislation.gov.uk/ssi/2013/159/article/2), [sch.](https://www.legislation.gov.uk/ssi/2013/159/schedule)
 
-[^key-c82848ac3a1ac5046784f0b52beac65d]: Textual amendment: [Sch. 5A para. 11(2A)-(2C)](https://www.legislation.gov.uk/ukpga/1978/29/schedule/5A/paragraph/11/2A) inserted (8.6.2013) by [Certification of Death (Scotland) Act 2011 (asp 11)](https://www.legislation.gov.uk/asp/2011/11), [s. 32(3)](https://www.legislation.gov.uk/asp/2011/11/section/32/3), [sch. 1 para. 3(b)](https://www.legislation.gov.uk/asp/2011/11/schedule/1/paragraph/3/b); [S.S.I. 2013/159](https://www.legislation.gov.uk/ssi/2013/159), [art. 2](https://www.legislation.gov.uk/ssi/2013/159/article/2), [sch.](https://www.legislation.gov.uk/ssi/2013/159/schedule)
+[^c-c82848ac3a1ac5046784f0b52beac65d]: Textual amendment: [Sch. 5A para. 11(2A)-(2C)](https://www.legislation.gov.uk/ukpga/1978/29/schedule/5A/paragraph/11/2A) inserted (8.6.2013) by [Certification of Death (Scotland) Act 2011 (asp 11)](https://www.legislation.gov.uk/asp/2011/11), [s. 32(3)](https://www.legislation.gov.uk/asp/2011/11/section/32/3), [sch. 1 para. 3(b)](https://www.legislation.gov.uk/asp/2011/11/schedule/1/paragraph/3/b); [S.S.I. 2013/159](https://www.legislation.gov.uk/ssi/2013/159), [art. 2](https://www.legislation.gov.uk/ssi/2013/159/article/2), [sch.](https://www.legislation.gov.uk/ssi/2013/159/schedule)

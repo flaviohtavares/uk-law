@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Amendments to Commission Regulation (EU) 2019/1782[^key-f3ecfd20bf88c8bdad8824e3831723b0]
+## 16. Amendments to Commission Regulation (EU) 2019/1782[^c-f3ecfd20bf88c8bdad8824e3831723b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3ecfd20bf88c8bdad8824e3831723b0]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-f3ecfd20bf88c8bdad8824e3831723b0]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)

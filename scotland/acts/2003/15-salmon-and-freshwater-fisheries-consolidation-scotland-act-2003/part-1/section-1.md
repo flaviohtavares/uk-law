@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Methods of fishing: salmon[^key-72c3904e0d6953053bb0d8068788127c]
+## 1. Methods of fishing: salmon[^c-72c3904e0d6953053bb0d8068788127c]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ shall be guilty of an offence.
 
 ## Annotations
 
-[^key-72c3904e0d6953053bb0d8068788127c]: Commencement: S. 1 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-72c3904e0d6953053bb0d8068788127c]: Commencement: S. 1 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

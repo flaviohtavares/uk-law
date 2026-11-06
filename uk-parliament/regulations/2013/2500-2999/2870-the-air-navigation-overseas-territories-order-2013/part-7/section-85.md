@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Duties of pilot-in-command – search and rescue[^key-05f0e63d743ea2da3c7a3885bd8a0a88]
+## 85. Duties of pilot-in-command – search and rescue[^c-05f0e63d743ea2da3c7a3885bd8a0a88]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Without prejudice to any other provision of this Order, the pilot-in-command of 
 
 ## Annotations
 
-[^key-05f0e63d743ea2da3c7a3885bd8a0a88]: Commencement: [Art. 85](https://www.legislation.gov.uk/uksi/2013/2870/article/85) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-05f0e63d743ea2da3c7a3885bd8a0a88]: Commencement: [Art. 85](https://www.legislation.gov.uk/uksi/2013/2870/article/85) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

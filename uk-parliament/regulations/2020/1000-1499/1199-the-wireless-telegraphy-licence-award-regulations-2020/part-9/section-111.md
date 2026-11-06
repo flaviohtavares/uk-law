@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Licence fee payable by a winning bidder for a 700 MHz licence[^key-dddc9737a1ceae8fc95cf7c709cad4da]
+## 111. Licence fee payable by a winning bidder for a 700 MHz licence[^c-dddc9737a1ceae8fc95cf7c709cad4da]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The licence fee payable by a winning bidder for a 700 MHz licence shall be an am
 
 ## Annotations
 
-[^key-dddc9737a1ceae8fc95cf7c709cad4da]: Commencement: Reg. 111 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-dddc9737a1ceae8fc95cf7c709cad4da]: Commencement: Reg. 111 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

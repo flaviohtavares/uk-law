@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Importation of goods: Northern Ireland[^key-113cb445472127225daa84484e59b067][^key-f9d1f2edd2430a76feff2c7643aa81c8]
+## 30A. Importation of goods: Northern Ireland[^c-113cb445472127225daa84484e59b067][^c-f9d1f2edd2430a76feff2c7643aa81c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-113cb445472127225daa84484e59b067]: Textual amendment: Ss. 30A-30C and cross-heading inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2020/26/section/2/4), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-113cb445472127225daa84484e59b067]: Textual amendment: Ss. 30A-30C and cross-heading inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2020/26/section/2/4), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-f9d1f2edd2430a76feff2c7643aa81c8]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2018/22/part/1) applied (31.1.2024) by [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), [reg. 25A](https://www.legislation.gov.uk/uksi/2020/1605/regulation/25A) (as inserted by [The Taxation (Cross-border Trade) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/12)](https://www.legislation.gov.uk/uksi/2024/12), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/12/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/12/regulation/3/3))
+[^c-f9d1f2edd2430a76feff2c7643aa81c8]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2018/22/part/1) applied (31.1.2024) by [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), [reg. 25A](https://www.legislation.gov.uk/uksi/2020/1605/regulation/25A) (as inserted by [The Taxation (Cross-border Trade) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/12)](https://www.legislation.gov.uk/uksi/2024/12), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/12/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2024/12/regulation/3/3))

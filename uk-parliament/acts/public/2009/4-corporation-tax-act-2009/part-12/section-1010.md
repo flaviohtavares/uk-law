@@ -25,7 +25,7 @@ summary: ''
 - (a) the market value of the shares when they are acquired, less
 - (b) the total amount or value of any consideration given by any person in relation to the acquisition of the shares.
 
-This is subject to section 1012 [^key-56dd308091b8a9e80edd0358ccd28e65]... .
+This is subject to section 1012 [^c-56dd308091b8a9e80edd0358ccd28e65]... .
 
 (2) The consideration mentioned in subsection (1)(b) does not include the performance of any duties of, or in connection with, the relevant employment.
 
@@ -33,4 +33,4 @@ This is subject to section 1012 [^key-56dd308091b8a9e80edd0358ccd28e65]... .
 
 ## Annotations
 
-[^key-56dd308091b8a9e80edd0358ccd28e65]: Textual amendment: Words in s. 1010(1) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(c)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/c)
+[^c-56dd308091b8a9e80edd0358ccd28e65]: Textual amendment: Words in s. 1010(1) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(c)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## P3. Use and investment of superannuation fund's moneys[^key-f0a5a296633886a718d56fd83c444623]
+## P3. Use and investment of superannuation fund's moneys[^c-f0a5a296633886a718d56fd83c444623]
 
 *Extent: E+W+S*
 
@@ -78,7 +78,7 @@ and the value at any time of all investments of fund moneys is to be taken to in
 
 ## Annotations
 
-[^key-f0a5a296633886a718d56fd83c444623]: Commencement: [Reg. P3](https://www.legislation.gov.uk/uksi/1986/24/regulation/P3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-f0a5a296633886a718d56fd83c444623]: Commencement: [Reg. P3](https://www.legislation.gov.uk/uksi/1986/24/regulation/P3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00074]: Footnote: [1984 c.43](https://www.legislation.gov.uk/ukpga/1984/43).
 

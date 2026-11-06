@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Rules of good husbandry[^key-26808df892a01c7006ceb9edbe0e0e51]
+## 39. Rules of good husbandry[^c-26808df892a01c7006ceb9edbe0e0e51]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26808df892a01c7006ceb9edbe0e0e51]: Commencement: S. 39 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-26808df892a01c7006ceb9edbe0e0e51]: Commencement: S. 39 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

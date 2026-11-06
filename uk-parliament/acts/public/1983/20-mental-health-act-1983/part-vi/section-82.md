@@ -34,7 +34,7 @@ summary: ''
 
 (6) Where a person removed under this section was immediately before his removal subject to a restriction order or restriction direction[^c10389091] of limited duration, the restriction order or restriction direction to which he is subject by virtue of subsection (2) above shall expire on the date on which the first-mentioned restriction order or restriction direction would have expired if he had not been so removed.
 
-(7) In this section “**the responsible authority**” means the Department of Health and Social Services for Northern Ireland or, in relation to a patient who is subject to a restriction order or restriction direction[^c10389111], the Department of Justice in Northern Ireland[^key-9478d255d6feb7c1da0be752e98a7a66].
+(7) In this section “**the responsible authority**” means the Department of Health and Social Services for Northern Ireland or, in relation to a patient who is subject to a restriction order or restriction direction[^c10389111], the Department of Justice in Northern Ireland[^c-9478d255d6feb7c1da0be752e98a7a66].
 
 ## Annotations
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c10389111]: Textual amendment: Words substituted by [S.I. 1986/596](https://www.legislation.gov.uk/uksi/1986/596), [art. 2(13)](https://www.legislation.gov.uk/uksi/1986/596/article/2/13)
 
-[^key-9478d255d6feb7c1da0be752e98a7a66]: Textual amendment: Words in [s. 82(7)](https://www.legislation.gov.uk/ukpga/1983/20/section/82/7) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 28(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/28/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-9478d255d6feb7c1da0be752e98a7a66]: Textual amendment: Words in [s. 82(7)](https://www.legislation.gov.uk/ukpga/1983/20/section/82/7) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 28(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/28/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

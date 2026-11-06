@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145K. Place of supply of goods subject to warehousing regime[^key-37427b7c2e13b4b6486b4cbedf795ade]
+## 145K. Place of supply of goods subject to warehousing regime[^c-37427b7c2e13b4b6486b4cbedf795ade]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37427b7c2e13b4b6486b4cbedf795ade]: Textual amendment: [Reg. 145K](https://www.legislation.gov.uk/uksi/1995/2518/regulation/145K) inserted (1.9.2005) by [The Value Added Tax (Amendment) (No. 2) Regulations 2005 (S.I. 2005/2231)](https://www.legislation.gov.uk/uksi/2005/2231), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2005/2231/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2005/2231/regulation/10)
+[^c-37427b7c2e13b4b6486b4cbedf795ade]: Textual amendment: [Reg. 145K](https://www.legislation.gov.uk/uksi/1995/2518/regulation/145K) inserted (1.9.2005) by [The Value Added Tax (Amendment) (No. 2) Regulations 2005 (S.I. 2005/2231)](https://www.legislation.gov.uk/uksi/2005/2231), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2005/2231/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2005/2231/regulation/10)

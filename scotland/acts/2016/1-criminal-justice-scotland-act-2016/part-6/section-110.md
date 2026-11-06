@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-39408955c88a16bf351a293a886b8404] After section 288G of the 1995 Act there is inserted—
+(1)[^c-39408955c88a16bf351a293a886b8404] After section 288G of the 1995 Act there is inserted—
 
 > **Use of live television link**
 >
@@ -103,13 +103,13 @@ summary: ''
 
 (2) In addition—
 
-- (a)[^key-8064dc08a3f4a486ef79b814d8e0a34e] in section 117 (presence of appellant or applicant at hearing) of the 1995 Act—
+- (a)[^c-8064dc08a3f4a486ef79b814d8e0a34e] in section 117 (presence of appellant or applicant at hearing) of the 1995 Act—
   - (i) subsection (6) is repealed,
   - (ii) in subsection (7), for the word “(6)” there is substituted “ (5) ”,
-- (b)[^key-39408955c88a16bf351a293a886b8404] section 80 of the Criminal Justice (Scotland) Act 2003 is repealed.
+- (b)[^c-39408955c88a16bf351a293a886b8404] section 80 of the Criminal Justice (Scotland) Act 2003 is repealed.
 
 ## Annotations
 
-[^key-39408955c88a16bf351a293a886b8404]: Commencement: [S. 110(1)](https://www.legislation.gov.uk/asp/2016/1/section/110/1)[(2)(b)](https://www.legislation.gov.uk/asp/2016/1/section/110/2/b) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2017/345/article/10))
+[^c-39408955c88a16bf351a293a886b8404]: Commencement: [S. 110(1)](https://www.legislation.gov.uk/asp/2016/1/section/110/1)[(2)(b)](https://www.legislation.gov.uk/asp/2016/1/section/110/2/b) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2017/345/article/10))
 
-[^key-8064dc08a3f4a486ef79b814d8e0a34e]: Commencement: [S. 110(2)(a)](https://www.legislation.gov.uk/asp/2016/1/section/110/2/a) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-8064dc08a3f4a486ef79b814d8e0a34e]: Commencement: [S. 110(2)(a)](https://www.legislation.gov.uk/asp/2016/1/section/110/2/a) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

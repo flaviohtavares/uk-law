@@ -43,11 +43,11 @@ Coming into force
 
 The Welsh Ministers make this Order in exercise of the powers conferred by sections 1, 7, 35(1), 87(2) and (5)(a) and 88(2) and (4)(a) of the Animal Health Act 1981[^f00001].
 
-## 1. Title, application and commencement[^key-8f432fab9251c05f704d55e14b35faae]
+## 1. Title, application and commencement[^c-8f432fab9251c05f704d55e14b35faae]
 
 The title of this Order is the Specified Animal Pathogens (Wales) Order 2008. It applies in relation to Wales and comes into force on 10 May 2008.
 
-## 2. Extension of the definition of “animal”, “poultry” and “disease”[^key-7fb81ff2be893dafe46145273690a08f]
+## 2. Extension of the definition of “animal”, “poultry” and “disease”[^c-7fb81ff2be893dafe46145273690a08f]
 
 For the purposes of the Animal Health Act 1981 in relation to this Order—
 
@@ -55,7 +55,7 @@ For the purposes of the Animal Health Act 1981 in relation to this Order—
 - (b) the definition of “poultry” (“*dofednod*”) is extended so as to comprise any species of bird; and
 - (c) the definition of “disease” (“*clefyd*”) is extended so as to comprise any disease of animals and poultry which may be caused by one or more specified animal pathogens.
 
-## 3. Interpretation[^key-95d17c4dcf83e3e5a8cda803037b3b24]
+## 3. Interpretation[^c-95d17c4dcf83e3e5a8cda803037b3b24]
 
 (1) In this Order—
 
@@ -71,7 +71,7 @@ For the purposes of the Animal Health Act 1981 in relation to this Order—
 
 (3) A licence or notice issued under this Order must be in writing, may be subject to conditions and may be amended, suspended or revoked by notice in writing at any time.
 
-## 4. Prohibitions in relation to specified animal pathogens[^key-2b638a92a54c408083c30cc8878e7611]
+## 4. Prohibitions in relation to specified animal pathogens[^c-2b638a92a54c408083c30cc8878e7611]
 
 (1) No person may have in their possession—
 
@@ -87,21 +87,21 @@ except under the authority of a licence issued by the Welsh Ministers.
 - (a) has possession of any thing in respect of which they have reasonable grounds for suspecting that an animal pathogen specified in Part 1 of Schedule 1 is present, and
 - (b) does not have a licence in respect of that pathogen.
 
-## 5. Exceptions[^key-8a0b4abec53e0c5f54faf39cd67e3355]
+## 5. Exceptions[^c-8a0b4abec53e0c5f54faf39cd67e3355]
 
 (1) Article 4 does not apply to any person who is transporting a pathogen or carrier and who does not own or have any rights in that pathogen or carrier.
 
 (2) Article 4 does not apply in relation to any pathogen or carrier contained in a product—
 
 - (a) authorised to be placed on the market in the United Kingdom as a veterinary medicinal product, or authorised to be administered to an animal in the United Kingdom;
-- (b) authorised to be placed on the market under the Human Medicines Regulations 2012[^key-30fac21055fd43b677db7be29d2417b8];
-- (c)[^key-2ae7118b3f8dd9f5883bc7c26a3dc71d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) authorised to be placed on the market under the Human Medicines Regulations 2012[^c-30fac21055fd43b677db7be29d2417b8];
+- (c)[^c-2ae7118b3f8dd9f5883bc7c26a3dc71d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Powers of inspectors[^key-04ff4a02f5cde7ac09c026a50a0d2678]
+## 6. Powers of inspectors[^c-04ff4a02f5cde7ac09c026a50a0d2678]
 
 In addition to the powers set out in the Animal Health Act 1981, an inspector enforcing this Order has the powers set out in Schedule 2.
 
-## 7. Improvement notices[^key-609c11a0634eac50b1ff46b6a7eb0ff1]
+## 7. Improvement notices[^c-609c11a0634eac50b1ff46b6a7eb0ff1]
 
 (1) If an inspector is of the opinion that a person—
 
@@ -118,7 +118,7 @@ that inspector may serve on that person a notice (“an improvement notice”).
 
 (3) A notice must include directions as to the measures to be taken to remedy any contravention or matter to which the notice relates; and any such directions may be framed so as to afford the person on whom the notice is served a choice between different ways of remedying the contravention or matter.
 
-## 8. Prohibition notices[^key-b8a6aed40ce760955b1dac1d33b534b3]
+## 8. Prohibition notices[^c-b8a6aed40ce760955b1dac1d33b534b3]
 
 (1) This paragraph applies to any activities for which a licence is required under this Order.
 
@@ -135,7 +135,7 @@ that inspector may serve on that person a notice (“an improvement notice”).
 - (a) at the end of the period specified in the notice; or
 - (b) if the notice so declares, immediately.
 
-## 9. Appeals against improvement and prohibition notices[^key-8132ae649cebc463215bf6f5e29171fb]
+## 9. Appeals against improvement and prohibition notices[^c-8132ae649cebc463215bf6f5e29171fb]
 
 (1) A person on whom an improvement or prohibition notice is served may within 21 days appeal against the notice to a person appointed for the purpose by the Welsh Ministers.
 
@@ -143,15 +143,15 @@ that inspector may serve on that person a notice (“an improvement notice”).
 
 (3) The Welsh Ministers may then either cancel the notice or confirm it, with or without modifications, and must notify the appellant, together with the reasons for their decision.
 
-## 10. Licences[^key-75be67edb7e3e92ae54a21496b88cf38]
+## 10. Licences[^c-75be67edb7e3e92ae54a21496b88cf38]
 
 No person may contravene a licence condition imposed on that person.
 
-## 11. Enforcement[^key-2bf8acb24b4178b43d41bafabbf7ee57]
+## 11. Enforcement[^c-2bf8acb24b4178b43d41bafabbf7ee57]
 
 This Order is enforced by the Welsh Ministers.
 
-## 12. Revocations[^key-f9f68032a2a4b9a849ecbad90d24c55e]
+## 12. Revocations[^c-f9f68032a2a4b9a849ecbad90d24c55e]
 
 The following Orders are revoked—
 
@@ -170,132 +170,132 @@ Article 3
 
 ### PART 1
 
-**1.**[^key-c9198d04c1ec286670d29bc47fba63c2] African horse sickness virus
+**1.**[^c-c9198d04c1ec286670d29bc47fba63c2] African horse sickness virus
 
-**2.**[^key-53372662f83a825ec3abf85baf122e6e] African swine fever virus
+**2.**[^c-53372662f83a825ec3abf85baf122e6e] African swine fever virus
 
-**3.**[^key-005f97f7b827105e9c8a8ff08bf6d4a5] Aujesky’s disease virus
+**3.**[^c-005f97f7b827105e9c8a8ff08bf6d4a5] Aujesky’s disease virus
 
-**4.**[^key-d0e3265487abe50bd8745a6e3f3cee16] Avian influenza viruses that are —
+**4.**[^c-d0e3265487abe50bd8745a6e3f3cee16] Avian influenza viruses that are —
 
 - (a) uncharacterised;
 - (b) Type A viruses which have an intravenous pathogenicity index in six-week-old chickens of greater than 1.2; or
 - (c) Type A viruses H5 or H7 subtype for which nucleotide sequencing has demonstrated multiple basic amino acids at the cleavage site of hæmagglutinin
 
-**5.**[^key-0d09d6f294737fb8c3280d14ae77736c] *Babesia bovis*
+**5.**[^c-0d09d6f294737fb8c3280d14ae77736c] *Babesia bovis*
 
-**6.**[^key-e8fc9f4b8ffc1dea28ae9e6b8a302ef4] *Babesia bigemina*
+**6.**[^c-e8fc9f4b8ffc1dea28ae9e6b8a302ef4] *Babesia bigemina*
 
-**7.**[^key-88df3fd8cdca5bc00f3a6c2f1289278b] *Babesia caballi*
+**7.**[^c-88df3fd8cdca5bc00f3a6c2f1289278b] *Babesia caballi*
 
-**8.**[^key-3cc030ddb7cc37ec90e391aabb49b521] *Bacillus anthracis*
+**8.**[^c-3cc030ddb7cc37ec90e391aabb49b521] *Bacillus anthracis*
 
-**9.**[^key-a1c563c630f72225125c5d6baaca1220] Bluetongue virus
+**9.**[^c-a1c563c630f72225125c5d6baaca1220] Bluetongue virus
 
-**10.**[^key-555f2f622f2eb969b65a45fda249599b] Bovine leucosis virus
+**10.**[^c-555f2f622f2eb969b65a45fda249599b] Bovine leucosis virus
 
-**11.**[^key-cb7c7564b9a7843a06e07c52d9a691a3] *Brucella abortus*
+**11.**[^c-cb7c7564b9a7843a06e07c52d9a691a3] *Brucella abortus*
 
-**12.**[^key-015c03f1e95b02ac2e132f8eb11cf8a0] *Brucella melitensis*
+**12.**[^c-015c03f1e95b02ac2e132f8eb11cf8a0] *Brucella melitensis*
 
-**13.**[^key-08be5f959cdade3ab1e90cfeef6d4787] *Brucella ovis*
+**13.**[^c-08be5f959cdade3ab1e90cfeef6d4787] *Brucella ovis*
 
-**14.**[^key-5b6dcb285d1b96ea9da1a62bfcc88746] *Brucella suis*
+**14.**[^c-5b6dcb285d1b96ea9da1a62bfcc88746] *Brucella suis*
 
-**15.**[^key-2b8e1c5f4b796ec1a7d2e8dfaa08f58b] *Burkholderia mallei*
+**15.**[^c-2b8e1c5f4b796ec1a7d2e8dfaa08f58b] *Burkholderia mallei*
 
-**16.**[^key-263442ae9af1bbc1c5730969c952cc0a] Classical swine fever virus
+**16.**[^c-263442ae9af1bbc1c5730969c952cc0a] Classical swine fever virus
 
-**17.**[^key-eb0bb7262c98780bd5e3a1e0e7c4f25c] *Cochliomyia hominivorax*
+**17.**[^c-eb0bb7262c98780bd5e3a1e0e7c4f25c] *Cochliomyia hominivorax*
 
-**18.**[^key-0750a3615044f6e5c08992c8afa2e5bf] Eastern and Western equine encephalomyelitis viruses
+**18.**[^c-0750a3615044f6e5c08992c8afa2e5bf] Eastern and Western equine encephalomyelitis viruses
 
-**19.**[^key-20f9fd0a9225c046bf9eca7c0cf9bac5] *Echinococcus multilocularis*
+**19.**[^c-20f9fd0a9225c046bf9eca7c0cf9bac5] *Echinococcus multilocularis*
 
-**20.**[^key-227f6fa85530cb86ee850e6520ce9518] *Echniococcus granulosus*
+**20.**[^c-227f6fa85530cb86ee850e6520ce9518] *Echniococcus granulosus*
 
-**21.**[^key-38477b3c9d364c5ab2d1e0c5ba694b0c] *Ehrlichia ruminantium*
+**21.**[^c-38477b3c9d364c5ab2d1e0c5ba694b0c] *Ehrlichia ruminantium*
 
-**22.**[^key-b2a34b3d555f076e747848291217808a] Equine infectious anemia virus
+**22.**[^c-b2a34b3d555f076e747848291217808a] Equine infectious anemia virus
 
-**23.**[^key-4d0a07055308eb6d1db97b5153e4caae] Foot and mouth disease virus
+**23.**[^c-4d0a07055308eb6d1db97b5153e4caae] Foot and mouth disease virus
 
-**24.**[^key-5f82a3b5dc5699b8b3160232a123aa30] Hendra disease virus
+**24.**[^c-5f82a3b5dc5699b8b3160232a123aa30] Hendra disease virus
 
-**25.**[^key-7c1d64faef9cf1ad39d3df0976a2221c] *Histoplasma farciminosum*
+**25.**[^c-7c1d64faef9cf1ad39d3df0976a2221c] *Histoplasma farciminosum*
 
-**26.**[^key-5a62204ad30ec97063665169ade4951e] Japanese encephalitis virus
+**26.**[^c-5a62204ad30ec97063665169ade4951e] Japanese encephalitis virus
 
-**27.**[^key-85ad2e6bdf4c7bc1ed7b0dbd88777b53] Lumpy skin disease virus
+**27.**[^c-85ad2e6bdf4c7bc1ed7b0dbd88777b53] Lumpy skin disease virus
 
-**28.**[^key-ad4186e3dd3e845589ae2105e04ff893] *Mycoplasma agalactiae*
+**28.**[^c-ad4186e3dd3e845589ae2105e04ff893] *Mycoplasma agalactiae*
 
-**29.**[^key-27c180a2c0a8004eb24bd9fe8e8ce156] *Mycoplasma capricolum* sub species *capripneumoniae*
+**29.**[^c-27c180a2c0a8004eb24bd9fe8e8ce156] *Mycoplasma capricolum* sub species *capripneumoniae*
 
-**30.**[^key-a1a4031005bcfc1cbdc1b02a55cae7bb] *Mycoplasma mycoides* sub species *mycoides SC* and *mycoides LC* variants
+**30.**[^c-a1a4031005bcfc1cbdc1b02a55cae7bb] *Mycoplasma mycoides* sub species *mycoides SC* and *mycoides LC* variants
 
-**31.**[^key-9ae2937b0e0370904df97549a5b3cabf] *Mycoplasma mycoides var capri*
+**31.**[^c-9ae2937b0e0370904df97549a5b3cabf] *Mycoplasma mycoides var capri*
 
-**32.**[^key-9ee354264fa78592af2b2d62af1e5890] Newcastle disease (avian paramyxovirus type 1) viruses which are—
+**32.**[^c-9ee354264fa78592af2b2d62af1e5890] Newcastle disease (avian paramyxovirus type 1) viruses which are—
 
 - (a) uncharacterised; or
 - (b) have an intracerebral pathogenicity index in one-day-old chicks of 0.4 or more, when not less than 10 million 50% egg infectious doses (EID50) are administered to each bird in the test.
 
-**33.**[^key-34dbf2e6ff8b086a9d39944dfaa4cb16] Nipah disease virus
+**33.**[^c-34dbf2e6ff8b086a9d39944dfaa4cb16] Nipah disease virus
 
-**34.**[^key-1776be8546a539d4733530a6dceb194b] Peste des petits ruminants virus
+**34.**[^c-1776be8546a539d4733530a6dceb194b] Peste des petits ruminants virus
 
-**34A.**[^key-8dfcfac65266bf3aafd460bb35f0adf8] Porcine Reproductive and Respiratory Syndrome virus genotype 2
+**34A.**[^c-8dfcfac65266bf3aafd460bb35f0adf8] Porcine Reproductive and Respiratory Syndrome virus genotype 2
 
-**35.**[^key-dbb4c9575912976a2087f730f4b6c7af] Rabies virus and all viruses of the genus *Lyssavirus*
+**35.**[^c-dbb4c9575912976a2087f730f4b6c7af] Rabies virus and all viruses of the genus *Lyssavirus*
 
-**36.**[^key-3afd1fa57e828d56ef7239a7c646716a] Rift Valley Fever virus
+**36.**[^c-3afd1fa57e828d56ef7239a7c646716a] Rift Valley Fever virus
 
-**37.**[^key-9f9d22b35e900fdbbea5658b8889147a] Rinderpest virus
+**37.**[^c-9f9d22b35e900fdbbea5658b8889147a] Rinderpest virus
 
-**38.**[^key-527fc402ca6cb03b45a0f639f96530e3] St. Louis equine encephalomyelitis virus
+**38.**[^c-527fc402ca6cb03b45a0f639f96530e3] St. Louis equine encephalomyelitis virus
 
-**39.**[^key-c6849c4faa01662e5dfe35621f1cf5b0] Sheep and goat pox virus
+**39.**[^c-c6849c4faa01662e5dfe35621f1cf5b0] Sheep and goat pox virus
 
-**40.**[^key-dc4ce8074dc9387b4e50234bdf1226f5] Swine vesicular disease virus
+**40.**[^c-dc4ce8074dc9387b4e50234bdf1226f5] Swine vesicular disease virus
 
-**41.**[^key-a89d2f4bbf03441ceecf005e30f939b0] Teschen disease virus
+**41.**[^c-a89d2f4bbf03441ceecf005e30f939b0] Teschen disease virus
 
-**42.**[^key-b98204221d00a9356e7005ea424a2712] *Theileria annulata*
+**42.**[^c-b98204221d00a9356e7005ea424a2712] *Theileria annulata*
 
-**43.**[^key-7901e681c0c2fa0233203b46492663f5] *Theileria equi*
+**43.**[^c-7901e681c0c2fa0233203b46492663f5] *Theileria equi*
 
-**44.**[^key-a10aadc938616957947f688021eab9ce] *Theileria parva*
+**44.**[^c-a10aadc938616957947f688021eab9ce] *Theileria parva*
 
-**45.**[^key-057725ca10d7adb90febc7fb62edfde7] *Trichinella spiralis*
+**45.**[^c-057725ca10d7adb90febc7fb62edfde7] *Trichinella spiralis*
 
-**46.**[^key-3a9d894939c8174c03b300e57c4f9d75] *Trypanosoma brucei*
+**46.**[^c-3a9d894939c8174c03b300e57c4f9d75] *Trypanosoma brucei*
 
-**47.**[^key-c43d796899ebfea707242d1f16375913] *Trypanosoma congolense*
+**47.**[^c-c43d796899ebfea707242d1f16375913] *Trypanosoma congolense*
 
-**48.**[^key-c423ffb9d09abd6d44c89ad0f27a54c7] *Trypanosoma equiperdum*
+**48.**[^c-c423ffb9d09abd6d44c89ad0f27a54c7] *Trypanosoma equiperdum*
 
-**49.**[^key-c2908693049ec984eff57e5d4c38897a] *Trypanosoma evansi*
+**49.**[^c-c2908693049ec984eff57e5d4c38897a] *Trypanosoma evansi*
 
-**50.**[^key-bea0eb52a1ce4c7ed076b02b81e6c1ef] *Trypanosoma simiae*
+**50.**[^c-bea0eb52a1ce4c7ed076b02b81e6c1ef] *Trypanosoma simiae*
 
-**51.**[^key-f30e71d05c28f3ac02e2e08d4c571846] *Trypanosoma vivax*
+**51.**[^c-f30e71d05c28f3ac02e2e08d4c571846] *Trypanosoma vivax*
 
-**52.**[^key-344f6278841a3b2533fa4f2c012bf71b] Venezuelan equine encephalomyelitis virus
+**52.**[^c-344f6278841a3b2533fa4f2c012bf71b] Venezuelan equine encephalomyelitis virus
 
-**53.**[^key-00cfa393dd8d9fa938d319a25543d47d] Vesicular stomatitis virus
+**53.**[^c-00cfa393dd8d9fa938d319a25543d47d] Vesicular stomatitis virus
 
-**54.**[^key-58160c8469ca6d77e7001f37d6432bcd] West Nile virus
+**54.**[^c-58160c8469ca6d77e7001f37d6432bcd] West Nile virus
 
 ### PART 2
 
-**55.**[^key-513ec8575cccd5e2909ff788c87465b5] The live virus causing viral hæmorrhagic disease of rabbits
+**55.**[^c-513ec8575cccd5e2909ff788c87465b5] The live virus causing viral hæmorrhagic disease of rabbits
 
 ## SCHEDULE 2 — Powers of inspectors
 
 Article 6
 
-### 1. General powers of inspectors[^key-4d436d23cb340f1dfb233d1f2adc14e2]
+### 1. General powers of inspectors[^c-4d436d23cb340f1dfb233d1f2adc14e2]
 
 (1) The inspector may be accompanied by such other persons as the inspector considers necessary.
 
@@ -323,15 +323,15 @@ Article 6
 
 (6) No answer given by a person in pursuance of a requirement imposed under sub-paragraph (2)(g) is admissible in evidence against that person or the spouse or civil partner of that person in any proceedings.
 
-### 2. Seizure of pathogens[^key-51e52b7ac10f6289d31288630a363f88]
+### 2. Seizure of pathogens[^c-51e52b7ac10f6289d31288630a363f88]
 
 (1) Where an inspector has reasonable grounds for suspecting that a specified animal pathogen or a carrier is in the possession of a person who does not hold a licence required by this Order or in contravention of a condition of a licence granted under this Order, that inspector may at any time seize, or caused to be seized, such pathogen, carrier or any material in which the inspector reasonably suspects such pathogen to have been kept or into which the inspector reasonably suspects it to be introduced.
 
 (2) If the inspector considers it expedient to do so, that inspector may for the purpose of preventing the introduction or spreading of disease, detain, treat or destroy any pathogen, carrier or material seized.
 
-(3)[^key-672204fec4cd5d37996bd0cfd06184a8] Sub-paragraphs (1) and (2) do not apply in the case of the pathogen known as Porcine Reproductive and Respiratory Syndrome virus genotype 2.
+(3)[^c-672204fec4cd5d37996bd0cfd06184a8] Sub-paragraphs (1) and (2) do not apply in the case of the pathogen known as Porcine Reproductive and Respiratory Syndrome virus genotype 2.
 
-### 3. Cleansing and disinfection[^key-9554e53fe4f93cfd36681252f6b7f59b]
+### 3. Cleansing and disinfection[^c-9554e53fe4f93cfd36681252f6b7f59b]
 
 (1) An inspector may, by notice served upon the occupier of any premises (including a dwelling house) or upon the owner or person in charge of any vehicle by which a specified pathogen, carrier or material is or has been present in contravention of this Order or of a licence issued under it, require the person on whom the notice was served to cleanse and disinfect such premises, place or vehicle in such manner as that inspector may by such notice specify, at the expense of the person on whom the notice is served.
 
@@ -349,154 +349,154 @@ As in the previous Order, it provides that possession of an animal pathogen spec
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). Functions of the Minister and the Secretary of State transferred to the National Assembly for Wales by S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672) and S.I. [2004/3044](https://www.legislation.gov.uk/uksi/2004/3044). Functions of the National Assembly for Wales are exercisable by the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
 
-[^key-8f432fab9251c05f704d55e14b35faae]: Commencement: Art. 1 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-8f432fab9251c05f704d55e14b35faae]: Commencement: Art. 1 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-7fb81ff2be893dafe46145273690a08f]: Commencement: Art. 2 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-7fb81ff2be893dafe46145273690a08f]: Commencement: Art. 2 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-95d17c4dcf83e3e5a8cda803037b3b24]: Commencement: Art. 3 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-95d17c4dcf83e3e5a8cda803037b3b24]: Commencement: Art. 3 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-2b638a92a54c408083c30cc8878e7611]: Commencement: Art. 4 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-2b638a92a54c408083c30cc8878e7611]: Commencement: Art. 4 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-8a0b4abec53e0c5f54faf39cd67e3355]: Commencement: Art. 5 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-8a0b4abec53e0c5f54faf39cd67e3355]: Commencement: Art. 5 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-30fac21055fd43b677db7be29d2417b8]: Textual amendment: Words in [art. 5(2)(b)](https://www.legislation.gov.uk/wsi/2008/1270/article/5/2/b) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 96(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/96/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-30fac21055fd43b677db7be29d2417b8]: Textual amendment: Words in [art. 5(2)(b)](https://www.legislation.gov.uk/wsi/2008/1270/article/5/2/b) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 96(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/96/a) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-2ae7118b3f8dd9f5883bc7c26a3dc71d]: Textual amendment: [Art. 5(2)(c)](https://www.legislation.gov.uk/wsi/2008/1270/article/5/2/c) omitted (14.8.2012) by virtue of [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 96(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/96/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-2ae7118b3f8dd9f5883bc7c26a3dc71d]: Textual amendment: [Art. 5(2)(c)](https://www.legislation.gov.uk/wsi/2008/1270/article/5/2/c) omitted (14.8.2012) by virtue of [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 96(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/96/b) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-04ff4a02f5cde7ac09c026a50a0d2678]: Commencement: Art. 6 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-04ff4a02f5cde7ac09c026a50a0d2678]: Commencement: Art. 6 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-609c11a0634eac50b1ff46b6a7eb0ff1]: Commencement: Art. 7 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-609c11a0634eac50b1ff46b6a7eb0ff1]: Commencement: Art. 7 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-b8a6aed40ce760955b1dac1d33b534b3]: Commencement: Art. 8 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-b8a6aed40ce760955b1dac1d33b534b3]: Commencement: Art. 8 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-8132ae649cebc463215bf6f5e29171fb]: Commencement: Art. 9 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-8132ae649cebc463215bf6f5e29171fb]: Commencement: Art. 9 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-75be67edb7e3e92ae54a21496b88cf38]: Commencement: Art. 10 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-75be67edb7e3e92ae54a21496b88cf38]: Commencement: Art. 10 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-2bf8acb24b4178b43d41bafabbf7ee57]: Commencement: Art. 11 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-2bf8acb24b4178b43d41bafabbf7ee57]: Commencement: Art. 11 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-f9f68032a2a4b9a849ecbad90d24c55e]: Commencement: Art. 12 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-f9f68032a2a4b9a849ecbad90d24c55e]: Commencement: Art. 12 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
 [^f00004]: Footnote: S.I. [1998/463](https://www.legislation.gov.uk/uksi/1998/463).
 
 [^f00005]: Footnote: S.I. [2006/2981 (W.272)](https://www.legislation.gov.uk/wsi/2006/2981).
 
-[^key-c9198d04c1ec286670d29bc47fba63c2]: Commencement: Sch. 1 para. 1 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-c9198d04c1ec286670d29bc47fba63c2]: Commencement: Sch. 1 para. 1 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-53372662f83a825ec3abf85baf122e6e]: Commencement: Sch. 1 para. 2 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-53372662f83a825ec3abf85baf122e6e]: Commencement: Sch. 1 para. 2 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-005f97f7b827105e9c8a8ff08bf6d4a5]: Commencement: Sch. 1 para. 3 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-005f97f7b827105e9c8a8ff08bf6d4a5]: Commencement: Sch. 1 para. 3 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-d0e3265487abe50bd8745a6e3f3cee16]: Commencement: Sch. 1 para. 4 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-d0e3265487abe50bd8745a6e3f3cee16]: Commencement: Sch. 1 para. 4 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-0d09d6f294737fb8c3280d14ae77736c]: Commencement: Sch. 1 para. 5 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-0d09d6f294737fb8c3280d14ae77736c]: Commencement: Sch. 1 para. 5 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-e8fc9f4b8ffc1dea28ae9e6b8a302ef4]: Commencement: Sch. 1 para. 6 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-e8fc9f4b8ffc1dea28ae9e6b8a302ef4]: Commencement: Sch. 1 para. 6 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-88df3fd8cdca5bc00f3a6c2f1289278b]: Commencement: Sch. 1 para. 7 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-88df3fd8cdca5bc00f3a6c2f1289278b]: Commencement: Sch. 1 para. 7 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-3cc030ddb7cc37ec90e391aabb49b521]: Commencement: Sch. 1 para. 8 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-3cc030ddb7cc37ec90e391aabb49b521]: Commencement: Sch. 1 para. 8 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-a1c563c630f72225125c5d6baaca1220]: Commencement: Sch. 1 para. 9 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-a1c563c630f72225125c5d6baaca1220]: Commencement: Sch. 1 para. 9 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-555f2f622f2eb969b65a45fda249599b]: Commencement: Sch. 1 para. 10 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-555f2f622f2eb969b65a45fda249599b]: Commencement: Sch. 1 para. 10 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-cb7c7564b9a7843a06e07c52d9a691a3]: Commencement: Sch. 1 para. 11 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-cb7c7564b9a7843a06e07c52d9a691a3]: Commencement: Sch. 1 para. 11 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-015c03f1e95b02ac2e132f8eb11cf8a0]: Commencement: Sch. 1 para. 12 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-015c03f1e95b02ac2e132f8eb11cf8a0]: Commencement: Sch. 1 para. 12 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-08be5f959cdade3ab1e90cfeef6d4787]: Commencement: Sch. 1 para. 13 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-08be5f959cdade3ab1e90cfeef6d4787]: Commencement: Sch. 1 para. 13 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-5b6dcb285d1b96ea9da1a62bfcc88746]: Commencement: Sch. 1 para. 14 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-5b6dcb285d1b96ea9da1a62bfcc88746]: Commencement: Sch. 1 para. 14 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-2b8e1c5f4b796ec1a7d2e8dfaa08f58b]: Commencement: Sch. 1 para. 15 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-2b8e1c5f4b796ec1a7d2e8dfaa08f58b]: Commencement: Sch. 1 para. 15 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-263442ae9af1bbc1c5730969c952cc0a]: Commencement: Sch. 1 para. 16 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-263442ae9af1bbc1c5730969c952cc0a]: Commencement: Sch. 1 para. 16 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-eb0bb7262c98780bd5e3a1e0e7c4f25c]: Commencement: Sch. 1 para. 17 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-eb0bb7262c98780bd5e3a1e0e7c4f25c]: Commencement: Sch. 1 para. 17 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-0750a3615044f6e5c08992c8afa2e5bf]: Commencement: Sch. 1 para. 18 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-0750a3615044f6e5c08992c8afa2e5bf]: Commencement: Sch. 1 para. 18 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-20f9fd0a9225c046bf9eca7c0cf9bac5]: Commencement: Sch. 1 para. 19 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-20f9fd0a9225c046bf9eca7c0cf9bac5]: Commencement: Sch. 1 para. 19 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-227f6fa85530cb86ee850e6520ce9518]: Commencement: Sch. 1 para. 20 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-227f6fa85530cb86ee850e6520ce9518]: Commencement: Sch. 1 para. 20 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-38477b3c9d364c5ab2d1e0c5ba694b0c]: Commencement: Sch. 1 para. 21 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-38477b3c9d364c5ab2d1e0c5ba694b0c]: Commencement: Sch. 1 para. 21 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-b2a34b3d555f076e747848291217808a]: Commencement: Sch. 1 para. 22 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-b2a34b3d555f076e747848291217808a]: Commencement: Sch. 1 para. 22 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-4d0a07055308eb6d1db97b5153e4caae]: Commencement: Sch. 1 para. 23 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-4d0a07055308eb6d1db97b5153e4caae]: Commencement: Sch. 1 para. 23 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-5f82a3b5dc5699b8b3160232a123aa30]: Commencement: Sch. 1 para. 24 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-5f82a3b5dc5699b8b3160232a123aa30]: Commencement: Sch. 1 para. 24 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-7c1d64faef9cf1ad39d3df0976a2221c]: Commencement: Sch. 1 para. 25 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-7c1d64faef9cf1ad39d3df0976a2221c]: Commencement: Sch. 1 para. 25 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-5a62204ad30ec97063665169ade4951e]: Commencement: Sch. 1 para. 26 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-5a62204ad30ec97063665169ade4951e]: Commencement: Sch. 1 para. 26 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-85ad2e6bdf4c7bc1ed7b0dbd88777b53]: Commencement: Sch. 1 para. 27 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-85ad2e6bdf4c7bc1ed7b0dbd88777b53]: Commencement: Sch. 1 para. 27 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-ad4186e3dd3e845589ae2105e04ff893]: Commencement: Sch. 1 para. 28 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-ad4186e3dd3e845589ae2105e04ff893]: Commencement: Sch. 1 para. 28 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-27c180a2c0a8004eb24bd9fe8e8ce156]: Commencement: Sch. 1 para. 29 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-27c180a2c0a8004eb24bd9fe8e8ce156]: Commencement: Sch. 1 para. 29 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-a1a4031005bcfc1cbdc1b02a55cae7bb]: Commencement: Sch. 1 para. 30 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-a1a4031005bcfc1cbdc1b02a55cae7bb]: Commencement: Sch. 1 para. 30 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-9ae2937b0e0370904df97549a5b3cabf]: Commencement: Sch. 1 para. 31 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-9ae2937b0e0370904df97549a5b3cabf]: Commencement: Sch. 1 para. 31 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-9ee354264fa78592af2b2d62af1e5890]: Commencement: Sch. 1 para. 32 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-9ee354264fa78592af2b2d62af1e5890]: Commencement: Sch. 1 para. 32 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-34dbf2e6ff8b086a9d39944dfaa4cb16]: Commencement: Sch. 1 para. 33 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-34dbf2e6ff8b086a9d39944dfaa4cb16]: Commencement: Sch. 1 para. 33 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-1776be8546a539d4733530a6dceb194b]: Commencement: Sch. 1 para. 34 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-1776be8546a539d4733530a6dceb194b]: Commencement: Sch. 1 para. 34 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-8dfcfac65266bf3aafd460bb35f0adf8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2008/1270/schedule/1) Item 34A inserted (22.12.2009) by [The Specified Animal Pathogens (Wales) (Amendment) Order 2009 (S.I. 2009/3234)](https://www.legislation.gov.uk/wsi/2009/3234), [arts. 1](https://www.legislation.gov.uk/wsi/2009/3234/article/1), [3](https://www.legislation.gov.uk/wsi/2009/3234/article/3)
+[^c-8dfcfac65266bf3aafd460bb35f0adf8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2008/1270/schedule/1) Item 34A inserted (22.12.2009) by [The Specified Animal Pathogens (Wales) (Amendment) Order 2009 (S.I. 2009/3234)](https://www.legislation.gov.uk/wsi/2009/3234), [arts. 1](https://www.legislation.gov.uk/wsi/2009/3234/article/1), [3](https://www.legislation.gov.uk/wsi/2009/3234/article/3)
 
-[^key-dbb4c9575912976a2087f730f4b6c7af]: Commencement: Sch. 1 para. 35 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-dbb4c9575912976a2087f730f4b6c7af]: Commencement: Sch. 1 para. 35 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-3afd1fa57e828d56ef7239a7c646716a]: Commencement: Sch. 1 para. 36 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-3afd1fa57e828d56ef7239a7c646716a]: Commencement: Sch. 1 para. 36 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-9f9d22b35e900fdbbea5658b8889147a]: Commencement: Sch. 1 para. 37 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-9f9d22b35e900fdbbea5658b8889147a]: Commencement: Sch. 1 para. 37 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-527fc402ca6cb03b45a0f639f96530e3]: Commencement: Sch. 1 para. 38 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-527fc402ca6cb03b45a0f639f96530e3]: Commencement: Sch. 1 para. 38 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-c6849c4faa01662e5dfe35621f1cf5b0]: Commencement: Sch. 1 para. 39 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-c6849c4faa01662e5dfe35621f1cf5b0]: Commencement: Sch. 1 para. 39 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-dc4ce8074dc9387b4e50234bdf1226f5]: Commencement: Sch. 1 para. 40 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-dc4ce8074dc9387b4e50234bdf1226f5]: Commencement: Sch. 1 para. 40 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-a89d2f4bbf03441ceecf005e30f939b0]: Commencement: Sch. 1 para. 41 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-a89d2f4bbf03441ceecf005e30f939b0]: Commencement: Sch. 1 para. 41 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-b98204221d00a9356e7005ea424a2712]: Commencement: Sch. 1 para. 42 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-b98204221d00a9356e7005ea424a2712]: Commencement: Sch. 1 para. 42 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-7901e681c0c2fa0233203b46492663f5]: Commencement: Sch. 1 para. 43 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-7901e681c0c2fa0233203b46492663f5]: Commencement: Sch. 1 para. 43 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-a10aadc938616957947f688021eab9ce]: Commencement: Sch. 1 para. 44 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-a10aadc938616957947f688021eab9ce]: Commencement: Sch. 1 para. 44 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-057725ca10d7adb90febc7fb62edfde7]: Commencement: Sch. 1 para. 45 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-057725ca10d7adb90febc7fb62edfde7]: Commencement: Sch. 1 para. 45 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-3a9d894939c8174c03b300e57c4f9d75]: Commencement: Sch. 1 para. 46 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-3a9d894939c8174c03b300e57c4f9d75]: Commencement: Sch. 1 para. 46 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-c43d796899ebfea707242d1f16375913]: Commencement: Sch. 1 para. 47 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-c43d796899ebfea707242d1f16375913]: Commencement: Sch. 1 para. 47 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-c423ffb9d09abd6d44c89ad0f27a54c7]: Commencement: Sch. 1 para. 48 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-c423ffb9d09abd6d44c89ad0f27a54c7]: Commencement: Sch. 1 para. 48 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-c2908693049ec984eff57e5d4c38897a]: Commencement: Sch. 1 para. 49 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-c2908693049ec984eff57e5d4c38897a]: Commencement: Sch. 1 para. 49 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-bea0eb52a1ce4c7ed076b02b81e6c1ef]: Commencement: Sch. 1 para. 50 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-bea0eb52a1ce4c7ed076b02b81e6c1ef]: Commencement: Sch. 1 para. 50 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-f30e71d05c28f3ac02e2e08d4c571846]: Commencement: Sch. 1 para. 51 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-f30e71d05c28f3ac02e2e08d4c571846]: Commencement: Sch. 1 para. 51 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-344f6278841a3b2533fa4f2c012bf71b]: Commencement: Sch. 1 para. 52 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-344f6278841a3b2533fa4f2c012bf71b]: Commencement: Sch. 1 para. 52 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-00cfa393dd8d9fa938d319a25543d47d]: Commencement: Sch. 1 para. 53 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-00cfa393dd8d9fa938d319a25543d47d]: Commencement: Sch. 1 para. 53 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-58160c8469ca6d77e7001f37d6432bcd]: Commencement: Sch. 1 para. 54 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-58160c8469ca6d77e7001f37d6432bcd]: Commencement: Sch. 1 para. 54 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-513ec8575cccd5e2909ff788c87465b5]: Commencement: Sch. 1 para. 55 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-513ec8575cccd5e2909ff788c87465b5]: Commencement: Sch. 1 para. 55 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-4d436d23cb340f1dfb233d1f2adc14e2]: Commencement: Sch. 2 para. 1 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-4d436d23cb340f1dfb233d1f2adc14e2]: Commencement: Sch. 2 para. 1 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-51e52b7ac10f6289d31288630a363f88]: Commencement: Sch. 2 para. 2 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-51e52b7ac10f6289d31288630a363f88]: Commencement: Sch. 2 para. 2 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
 
-[^key-672204fec4cd5d37996bd0cfd06184a8]: Textual amendment: [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/wsi/2008/1270/schedule/2/paragraph/2/3) inserted (22.12.2009) by [The Specified Animal Pathogens (Wales) (Amendment) Order 2009 (S.I. 2009/3234)](https://www.legislation.gov.uk/wsi/2009/3234), [arts. 1](https://www.legislation.gov.uk/wsi/2009/3234/article/1), [4](https://www.legislation.gov.uk/wsi/2009/3234/article/4)
+[^c-672204fec4cd5d37996bd0cfd06184a8]: Textual amendment: [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/wsi/2008/1270/schedule/2/paragraph/2/3) inserted (22.12.2009) by [The Specified Animal Pathogens (Wales) (Amendment) Order 2009 (S.I. 2009/3234)](https://www.legislation.gov.uk/wsi/2009/3234), [arts. 1](https://www.legislation.gov.uk/wsi/2009/3234/article/1), [4](https://www.legislation.gov.uk/wsi/2009/3234/article/4)
 
-[^key-9554e53fe4f93cfd36681252f6b7f59b]: Commencement: Sch. 2 para. 3 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)
+[^c-9554e53fe4f93cfd36681252f6b7f59b]: Commencement: Sch. 2 para. 3 in force at 10.5.2008, see [art. 1](https://www.legislation.gov.uk/wsi/2008/1270/article/1)

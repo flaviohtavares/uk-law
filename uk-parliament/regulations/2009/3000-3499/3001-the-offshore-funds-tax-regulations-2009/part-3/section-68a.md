@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68A. Index tracking funds[^key-5fa07fe9c61de62aef5d2855066d559c]
+## 68A. Index tracking funds[^c-5fa07fe9c61de62aef5d2855066d559c]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fa07fe9c61de62aef5d2855066d559c]: Textual amendment: Reg. 68A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2011/1211/regulation/35)
+[^c-5fa07fe9c61de62aef5d2855066d559c]: Textual amendment: Reg. 68A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2011/1211/regulation/35)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 27. Other ecclesiastical jurisdictions[^key-c472a148f44214a198f641d2bf19b859]
+## 27. Other ecclesiastical jurisdictions[^c-c472a148f44214a198f641d2bf19b859]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Schedule 1 (which makes provision in relation to other ecclesiastical jurisdicti
 
 ## Annotations
 
-[^key-c472a148f44214a198f641d2bf19b859]: Commencement: [S. 27](https://www.legislation.gov.uk/ukcm/2018/3/section/27) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-c472a148f44214a198f641d2bf19b859]: Commencement: [S. 27](https://www.legislation.gov.uk/ukcm/2018/3/section/27) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235A. Contractual schemes[^key-f2faac5a886a99e1bc5733312b628651]
+## 235A. Contractual schemes[^c-f2faac5a886a99e1bc5733312b628651]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,7 +55,7 @@ summary: ''
 (6) The conditions are—
 
 - (a) that the scheme is a limited partnership;
-- (aa)[^key-2c6dd608640e23537e8011cc71a1292c] that the limited partnership is not designated under section 8(2) of the Limited Partnerships Act 1907 as a private fund limited partnership;
+- (aa)[^c-2c6dd608640e23537e8011cc71a1292c] that the limited partnership is not designated under section 8(2) of the Limited Partnerships Act 1907 as a private fund limited partnership;
 - (b) that the limited partnership—
   - (i) at any time has only one general partner; and
   - (ii) on formation has only one limited partner, who is a person nominated by the general partner (“the nominated partner”);
@@ -75,6 +75,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f2faac5a886a99e1bc5733312b628651]: Textual amendment: S. 235A inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/3/5) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-f2faac5a886a99e1bc5733312b628651]: Textual amendment: S. 235A inserted (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2013/1388/regulation/3/5) (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
 
-[^key-2c6dd608640e23537e8011cc71a1292c]: Textual amendment: S. 235A(6)(aa) inserted (6.4.2017) by [The Legislative Reform (Private Fund Limited Partnerships) Order 2017 (S.I. 2017/514)](https://www.legislation.gov.uk/uksi/2017/514), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/514/article/1/2), [3](https://www.legislation.gov.uk/uksi/2017/514/article/3)
+[^c-2c6dd608640e23537e8011cc71a1292c]: Textual amendment: S. 235A(6)(aa) inserted (6.4.2017) by [The Legislative Reform (Private Fund Limited Partnerships) Order 2017 (S.I. 2017/514)](https://www.legislation.gov.uk/uksi/2017/514), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/514/article/1/2), [3](https://www.legislation.gov.uk/uksi/2017/514/article/3)

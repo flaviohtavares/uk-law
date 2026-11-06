@@ -22,16 +22,16 @@ summary: ''
 
 Regulation 4(1)
 
-**1.** In section 68 (power for the Regulator to collect information relevant to the Board of the Pension Protection Fund), for “the Board of the Pension Protection Fund”, substitute “ the scheme manager of the financial assistance scheme which are conferred on it[^key-abdb82204af13ee0ac8f424825ecf120] by regulations made under, or by virtue of, section 286 ”.
+**1.** In section 68 (power for the Regulator to collect information relevant to the Board of the Pension Protection Fund), for “the Board of the Pension Protection Fund”, substitute “ the scheme manager of the financial assistance scheme which are conferred on it[^c-abdb82204af13ee0ac8f424825ecf120] by regulations made under, or by virtue of, section 286 ”.
 
 **2.** In section 85 (disclosure by the Regulator for facilitating the exercise of functions by the Board)—
 
 - (a) for “Section 82 does not preclude” substitute “ Neither section 82 nor Article 77 of the Pensions (Northern Ireland) Order 2005 precludes ”;
-- (b) for the words “the Board of the Pension Protection Fund to exercise its functions”, substitute “ the scheme manager of the financial assistance scheme to exercise functions conferred on it[^key-6d88e0e92f7c1d36a39680b3097b9b35] by regulations made under or by virtue of section 286, and Part 2 of the Pensions (Northern Ireland) Order 2005 shall be read accordingly ”.
+- (b) for the words “the Board of the Pension Protection Fund to exercise its functions”, substitute “ the scheme manager of the financial assistance scheme to exercise functions conferred on it[^c-6d88e0e92f7c1d36a39680b3097b9b35] by regulations made under or by virtue of section 286, and Part 2 of the Pensions (Northern Ireland) Order 2005 shall be read accordingly ”.
 
 **3.** In section 88(4) (disclosure of tax information by the Regulator), after “subsection (3)” insert “ or as mentioned in Article 83(3) of the Pensions (Northern Ireland) Order 2005 ”.
 
-**3ZA.**[^key-ed4ac2287e6af9a5cf249cdf900f2d19] In section 113 (investment of funds)—
+**3ZA.**[^c-ed4ac2287e6af9a5cf249cdf900f2d19] In section 113 (investment of funds)—
 
 - (a) at the beginning of subsection (1), insert “Subject to subsection (1A),”; and
 - (b) after subsection (1), insert—
@@ -60,17 +60,17 @@ Regulation 4(1)
   - (“d) the operation of the financial assistance scheme including the number of persons who have received payments under the Financial Assistance Scheme Regulations 2005 and the total amount of those payments.”; and
 - (c) in subsection (6)(a), for “the date on which the Board is established” substitute “the date on which the Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 come into force”.
 
-**3A.**[^key-684b944a690bdb74a27cbae3117a13ce] In section 134 (directions)—
+**3A.**[^c-684b944a690bdb74a27cbae3117a13ce] In section 134 (directions)—
 
 - (a) in subsection (1), for “there is an assessment period in relation to an eligible scheme” substitute “an occupational pension scheme is a qualifying pension scheme under section 286(2) which has not been fully wound up”;
 - (b) in subsection (2), for the words from the beginning to “is kept to a minimum” substitute “With a view to ensuring that any reduction in the scheme’s assets is kept to a minimum or that the assets of the scheme are invested in a way which, in the opinion of the scheme manager, is appropriate”;
-- (ba)[^key-ddb50b311b3bf9a7bdb943b085f091c5] in subsection (2), after paragraph (b) insert—
+- (ba)[^c-ddb50b311b3bf9a7bdb943b085f091c5] in subsection (2), after paragraph (b) insert—
 
   > - (ba) the determination of interim pensions,
 
   ;
 - (c) in subsections (2) and (4), for “the Board”, substitute “the scheme manager”; and
-- (ca)[^key-bf7535c59fa78f7164a5947c930470c9] in subsection (3), before paragraph (a) insert—
+- (ca)[^c-bf7535c59fa78f7164a5947c930470c9] in subsection (3), before paragraph (a) insert—
 
   > - (za) “interim pension” has the meaning given by regulations under section 286(1),
 
@@ -82,7 +82,7 @@ Regulation 4(1)
 
   .
 
-**3B.**[^key-85e1a9c473342624ec5ff288fc810f70] In section 135 (restrictions on winding up, discharge of liabilities etc)—
+**3B.**[^c-85e1a9c473342624ec5ff288fc810f70] In section 135 (restrictions on winding up, discharge of liabilities etc)—
 
 - (a) in subsection (1), for “there is an assessment period in relation to an eligible scheme” substitute “an occupational pension scheme is a qualifying pension scheme under section 286(2)”;
 - (b) omit subsections (2), (3), (5) to (7) and (11);
@@ -199,10 +199,10 @@ Regulation 4(1)
 
 **5.** In section 190 (information to be provided to the Board etc.)—
 
-- (a)[^key-c220411943a6adfc599424a7cd063c73] in subsection (1), for “the Board” substitute “the scheme manager”
+- (a)[^c-c220411943a6adfc599424a7cd063c73] in subsection (1), for “the Board” substitute “the scheme manager”
 - (b) in subsection (2), for “of entitlement to compensation under Chapter 3 of this Part” substitute “ that a person is entitled to a payment from the financial assistance scheme ”.
 
-**6.**[^key-8b42c3b2951d90cdcd6bb3e8fd685840] In section 191 (notices requiring provision of information to the Board)—
+**6.**[^c-8b42c3b2951d90cdcd6bb3e8fd685840] In section 191 (notices requiring provision of information to the Board)—
 
 - (a) in subsection (1)(b), after “the Board’s” insert “or scheme manager’s”;
 - (b) in subsection (2)—
@@ -239,22 +239,22 @@ Regulation 4(1)
 - (e) in subsection (2)(a), after “the information” insert “ or complaint ”; and
 - (f) in subsection (6), for “The Board” substitute “ The scheme manager ”.
 
-**9.** In section 195(1)(b) (offence of providing false or misleading information to the Board), for the words from “by the Board” to the end of that paragraph substitute “ by the scheme manager for the purposes of exercising its[^key-f7b18fedf747dd4dfdc93e78753a74bb] functions. ”.
+**9.** In section 195(1)(b) (offence of providing false or misleading information to the Board), for the words from “by the Board” to the end of that paragraph substitute “ by the scheme manager for the purposes of exercising its[^c-f7b18fedf747dd4dfdc93e78753a74bb] functions. ”.
 
 **10.** In section 196 (use of information by the Board)—
 
 - (a) for “the Board”, in each place, substitute “ the scheme manager ”; and
-- (b)[^key-ec8a4627b0f20ed5ea40979c35072078] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ec8a4627b0f20ed5ea40979c35072078] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.** In section 197 (restricted information)—
 
 - (a) in subsections (1) and (3), after “the Board”, in each place, insert “ or the scheme manager ”;
-- (ab)[^key-5adb7a6382565cac3187d47f2a543620] in subsection (2), before paragraph (a) insert—
+- (ab)[^c-5adb7a6382565cac3187d47f2a543620] in subsection (2), before paragraph (a) insert—
 
   > - (za) regulation 6A of the Financial Assistance Scheme Regulations 2005,
 
   ;
-- (b) in subsection (4), after “its functions” insert “ or by the scheme manager in the exercise of its[^key-8a25e08a550be30605d15d7653f9d5af] functions ”;
+- (b) in subsection (4), after “its functions” insert “ or by the scheme manager in the exercise of its[^c-8a25e08a550be30605d15d7653f9d5af] functions ”;
 - (c) in subsection (6)(a), after “that section” insert “ (disregarding any modifications of that section made by the Financial Assistance Scheme Regulations 2005) ”; and
 - (d) after subsection (6), insert—
 
@@ -269,9 +269,9 @@ Regulation 4(1)
 
 **12.** In section 198 (disclosure by the Board of restricted information for facilitating exercise of functions by the Board)—
 
-- (a) at the end of subsection (1), add “ or the scheme manager to exercise its[^key-fce1d159783625d5b6723df66cab7e30] functions ”;
+- (a) at the end of subsection (1), add “ or the scheme manager to exercise its[^c-fce1d159783625d5b6723df66cab7e30] functions ”;
 - (b) in subsection (2)—
-  - (i) after “its functions”, insert “ or the scheme manager properly to exercise any of its[^key-d0d6af1cfa31150297c74676815de17e] functions ”; and
+  - (i) after “its functions”, insert “ or the scheme manager properly to exercise any of its[^c-d0d6af1cfa31150297c74676815de17e] functions ”; and
   - (ii) after “the Board”, in the second place, insert “ or, as the case may be, the scheme manager ”; and
 - (c) in subsection (3)—
   - (i) after “the Board”, in both places, insert “ or, as the case may be, the scheme manager ”; and
@@ -292,7 +292,7 @@ Regulation 4(1)
 - (d) in subsection (8), for “with the consent of the Board” substitute—
 
   > - (a) in a case where the disclosure under that subsection was made by the Board, with the consent of the Board, and
-  > - (b) in a case where the disclosure under that subsection was made by the scheme manager, with its[^key-41baa228086bcc8d8ff41ab9658688e5] consent
+  > - (b) in a case where the disclosure under that subsection was made by the scheme manager, with its[^c-41baa228086bcc8d8ff41ab9658688e5] consent
 
   ;
 - (e) for subsection (9)(a), substitute—
@@ -302,11 +302,11 @@ Regulation 4(1)
 
   ; and
 - (f) in subsection (10)—
-  - (i)[^key-528ff3f09c3ed517a913114bebd529fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-528ff3f09c3ed517a913114bebd529fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) after “the Board” insert “ or, as the case may be, the scheme manager ”; and
-  - (iii)[^key-aa09e93aa29525296b77acbe699baedb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-aa09e93aa29525296b77acbe699baedb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14A.**[^key-eed74625b55eaed9b7b58b406b24baa2] In section 202 (tax information)—
+**14A.**[^c-eed74625b55eaed9b7b58b406b24baa2] In section 202 (tax information)—
 
 - (a) in each place it occurs, for “the Board” substitute “the scheme manager”;
 - (b) in subsection (1) for “tax functions” substitute “a function of the Revenue and Customs”;
@@ -353,14 +353,14 @@ Regulation 4(1)
 
   .
 
-**17.**[^key-02bd46f0bc1594be10ed588f0d45abff] In paragraph 18(2) of Schedule 5 (delegation)—
+**17.**[^c-02bd46f0bc1594be10ed588f0d45abff] In paragraph 18(2) of Schedule 5 (delegation)—
 
 - (a) after sub-paragraph (g), insert—
 
-  > - (zga)[^key-a1dcacaf644a879e302dc220dd4cd0fe] Paragraphs 6A, 7(1) and 8 of Schedule 6 (transfer of property, rights and liabilities to the Board) as modified;
+  > - (zga)[^c-a1dcacaf644a879e302dc220dd4cd0fe] Paragraphs 6A, 7(1) and 8 of Schedule 6 (transfer of property, rights and liabilities to the Board) as modified;
   > - (ga) regulation 9(1)(d) of the Financial Assistance Scheme Regulations 2005 (“the 2005 Regulations”) (receiving notification of the details prescribed in regulation 14);
   > - (gb) regulation 14A of the 2005 Regulations (working with qualifying pension schemes);
-  > - (gc) regulations 17 to 20 of, and Schedules 2 to 7[^key-68c2d9be6b4709d30fd12ffe65c85d0a] to, the 2005 Regulations in so far as those provisions relate to—
+  > - (gc) regulations 17 to 20 of, and Schedules 2 to 7[^c-68c2d9be6b4709d30fd12ffe65c85d0a] to, the 2005 Regulations in so far as those provisions relate to—
   >   - (i) the determination of the amount of payments to beneficiaries,
   >   - (ii) paying instalments of payments to beneficiaries (including non-payment where the scheme manager decides to suspend payments in accordance with regulation 8 of the Financial Assistance Scheme (Provision of Information and Administration of Payments) Regulations 2005), or
   >   - (iii) receiving information pursuant to notification requirements;
@@ -369,16 +369,16 @@ Regulation 4(1)
   >   - (ii) regulation 8 (suspension of payments) in so far as that regulation provides for the scheme manager to decide to suspend payments or not continue any such suspension;
   > - (ge) regulations 3 (notice of a reviewable determination), 14(d) (dealing with matters arising out of a review decision) and 16 (notice of a review decision or a subsequent review decision) of the Financial Assistance Scheme (Internal Review) Regulations 2005;
   > - (gf) regulation 23(6) and (8) (taking or refraining from taking such steps as directed by the Ombudsman) of the Financial Assistance Scheme (Appeals) Regulations 2005;
-  > - (gg)[^key-194975de35434b1c4da13d83089fa341] regulation 27 of the 2005 Regulations (scheme manager calculations after a valuation);
+  > - (gg)[^c-194975de35434b1c4da13d83089fa341] regulation 27 of the 2005 Regulations (scheme manager calculations after a valuation);
   > - (gh) regulation 28 of the 2005 Regulations (determination of certain asset shares, notional pensions and survivor notional pensions);
   > - (gi) regulation 31 of the 2005 Regulations (payments where amounts relating to money purchase benefits are transferred to the Secretary of State);
 
   ; and
-- (b) in sub-paragraph (h), for the words “paragraphs (a) to (g)” substitute “paragraphs (a) to (gi)[^key-e986be28a4c6e2421663465f84b97274]”.
+- (b) in sub-paragraph (h), for the words “paragraphs (a) to (g)” substitute “paragraphs (a) to (gi)[^c-e986be28a4c6e2421663465f84b97274]”.
 
 **18.** In paragraph 22(7)(a) of Schedule 5 (accounts), for “the date on which the Board is established” substitute “the date on which the Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 come into force”.
 
-**19.**[^key-f16bb015a1c756b9fa322d131424ddb5] In Schedule 6 (transfer of property, rights and liabilities to the Board)—
+**19.**[^c-f16bb015a1c756b9fa322d131424ddb5] In Schedule 6 (transfer of property, rights and liabilities to the Board)—
 
 - (a) after paragraph 3(2) insert—
 
@@ -415,52 +415,52 @@ Regulation 4(1)
 
 ## Annotations
 
-[^key-abdb82204af13ee0ac8f424825ecf120]: Textual amendment: Word in Sch. 1 para. 1 substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/4/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-abdb82204af13ee0ac8f424825ecf120]: Textual amendment: Word in Sch. 1 para. 1 substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/4/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-6d88e0e92f7c1d36a39680b3097b9b35]: Textual amendment: Word in Sch. 1 para. 2(b) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/4/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-6d88e0e92f7c1d36a39680b3097b9b35]: Textual amendment: Word in Sch. 1 para. 2(b) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/4/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-ed4ac2287e6af9a5cf249cdf900f2d19]: Textual amendment: Sch. 1 paras. 3ZA-3ZE inserted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/18/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-ed4ac2287e6af9a5cf249cdf900f2d19]: Textual amendment: Sch. 1 paras. 3ZA-3ZE inserted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/18/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-684b944a690bdb74a27cbae3117a13ce]: Textual amendment: Sch. 1 para. 3A inserted (17.7.2008) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/1903)](https://www.legislation.gov.uk/uksi/2008/1903), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1903/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2008/1903/regulation/13/a)
+[^c-684b944a690bdb74a27cbae3117a13ce]: Textual amendment: Sch. 1 para. 3A inserted (17.7.2008) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/1903)](https://www.legislation.gov.uk/uksi/2008/1903), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1903/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2008/1903/regulation/13/a)
 
-[^key-ddb50b311b3bf9a7bdb943b085f091c5]: Textual amendment: [Sch. 1 para. 3A(ba)](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/3A/ba) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(a)(i)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/a/i)
+[^c-ddb50b311b3bf9a7bdb943b085f091c5]: Textual amendment: [Sch. 1 para. 3A(ba)](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/3A/ba) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(a)(i)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/a/i)
 
-[^key-bf7535c59fa78f7164a5947c930470c9]: Textual amendment: [Sch. 1 para. 3A(ca)](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/3A/ca) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(a)(ii)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/a/ii)
+[^c-bf7535c59fa78f7164a5947c930470c9]: Textual amendment: [Sch. 1 para. 3A(ca)](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/3A/ca) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(a)(ii)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/a/ii)
 
-[^key-85e1a9c473342624ec5ff288fc810f70]: Textual amendment: [Sch. 1 paras. 3B-3E](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/3B) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/b)
+[^c-85e1a9c473342624ec5ff288fc810f70]: Textual amendment: [Sch. 1 paras. 3B-3E](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/3B) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/b)
 
-[^key-c220411943a6adfc599424a7cd063c73]: Textual amendment: Sch. 1 para. 5(a) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/18/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-c220411943a6adfc599424a7cd063c73]: Textual amendment: Sch. 1 para. 5(a) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/18/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-8b42c3b2951d90cdcd6bb3e8fd685840]: Textual amendment: Sch. 1 para. 6 substituted (17.7.2008) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/1903)](https://www.legislation.gov.uk/uksi/2008/1903), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1903/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2008/1903/regulation/13/b)
+[^c-8b42c3b2951d90cdcd6bb3e8fd685840]: Textual amendment: Sch. 1 para. 6 substituted (17.7.2008) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/1903)](https://www.legislation.gov.uk/uksi/2008/1903), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1903/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2008/1903/regulation/13/b)
 
-[^key-f7b18fedf747dd4dfdc93e78753a74bb]: Textual amendment: Word in Sch. 1 para. 9 substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/2/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-f7b18fedf747dd4dfdc93e78753a74bb]: Textual amendment: Word in Sch. 1 para. 9 substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/2/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-ec8a4627b0f20ed5ea40979c35072078]: Textual amendment: Sch. 1 para. 10(b) omitted (10.7.2009) by virtue of [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [18(c)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/18/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-ec8a4627b0f20ed5ea40979c35072078]: Textual amendment: Sch. 1 para. 10(b) omitted (10.7.2009) by virtue of [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [18(c)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/18/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-5adb7a6382565cac3187d47f2a543620]: Textual amendment: Sch. 1 para. 11(ab) inserted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [18(d)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/18/d) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-5adb7a6382565cac3187d47f2a543620]: Textual amendment: Sch. 1 para. 11(ab) inserted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [18(d)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/18/d) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-8a25e08a550be30605d15d7653f9d5af]: Textual amendment: Word in Sch. 1 para. 11(b) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/2/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-8a25e08a550be30605d15d7653f9d5af]: Textual amendment: Word in Sch. 1 para. 11(b) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/2/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-fce1d159783625d5b6723df66cab7e30]: Textual amendment: Word in Sch. 1 para. 12(a) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/2/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-fce1d159783625d5b6723df66cab7e30]: Textual amendment: Word in Sch. 1 para. 12(a) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/2/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-d0d6af1cfa31150297c74676815de17e]: Textual amendment: Word in Sch. 1 para. 12(b)(i) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/2/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-d0d6af1cfa31150297c74676815de17e]: Textual amendment: Word in Sch. 1 para. 12(b)(i) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/2/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-41baa228086bcc8d8ff41ab9658688e5]: Textual amendment: Word in Sch. 1 para. 14(d)(e) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/2/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-41baa228086bcc8d8ff41ab9658688e5]: Textual amendment: Word in Sch. 1 para. 14(d)(e) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/7/2/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-528ff3f09c3ed517a913114bebd529fa]: Textual amendment: Sch. 1 para. 14(f)(i) omitted (10.7.2009) by virtue of [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [18(e)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/18/e) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-528ff3f09c3ed517a913114bebd529fa]: Textual amendment: Sch. 1 para. 14(f)(i) omitted (10.7.2009) by virtue of [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [18(e)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/18/e) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-aa09e93aa29525296b77acbe699baedb]: Textual amendment: Sch. 1 para. 14(f)(iii) omitted (10.7.2009) by virtue of [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [18(e)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/18/e) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-aa09e93aa29525296b77acbe699baedb]: Textual amendment: Sch. 1 para. 14(f)(iii) omitted (10.7.2009) by virtue of [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [18(e)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/18/e) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-eed74625b55eaed9b7b58b406b24baa2]: Textual amendment: [Sch. 1 para. 14A](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/14A) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(c)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/c)
+[^c-eed74625b55eaed9b7b58b406b24baa2]: Textual amendment: [Sch. 1 para. 14A](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/14A) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(c)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/c)
 
-[^key-02bd46f0bc1594be10ed588f0d45abff]: Textual amendment: Sch. 1 paras. 17, 18 added (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [18(f)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/18/f) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-02bd46f0bc1594be10ed588f0d45abff]: Textual amendment: Sch. 1 paras. 17, 18 added (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [18(f)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/18/f) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-a1dcacaf644a879e302dc220dd4cd0fe]: Textual amendment: Words in [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/17/a) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/d/i/aa)
+[^c-a1dcacaf644a879e302dc220dd4cd0fe]: Textual amendment: Words in [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/17/a) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/d/i/aa)
 
-[^key-68c2d9be6b4709d30fd12ffe65c85d0a]: Textual amendment: Words in [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/17/a) substituted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/d/i/bb)
+[^c-68c2d9be6b4709d30fd12ffe65c85d0a]: Textual amendment: Words in [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/17/a) substituted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/d/i/bb)
 
-[^key-194975de35434b1c4da13d83089fa341]: Textual amendment: Words in [Sch. 1 paras. 17(a)](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/17/a) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(d)(i)(cc)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/d/i/cc)
+[^c-194975de35434b1c4da13d83089fa341]: Textual amendment: Words in [Sch. 1 paras. 17(a)](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/17/a) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(d)(i)(cc)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/d/i/cc)
 
-[^key-e986be28a4c6e2421663465f84b97274]: Textual amendment: Word in [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/17/b) substituted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(d)(ii)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/d/ii)
+[^c-e986be28a4c6e2421663465f84b97274]: Textual amendment: Word in [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/17/b) substituted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(d)(ii)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/d/ii)
 
-[^key-f16bb015a1c756b9fa322d131424ddb5]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/19) added (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(e)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/e)
+[^c-f16bb015a1c756b9fa322d131424ddb5]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1/paragraph/19) added (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [15(e)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/15/e)

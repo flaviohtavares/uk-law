@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — STREETS SUBJECT TO STREET WORKS[^key-0ca34e8b545f98380f36972adbf1f63c]
+## SCHEDULE 5 — STREETS SUBJECT TO STREET WORKS[^c-0ca34e8b545f98380f36972adbf1f63c]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ Table 5
 
 ## Annotations
 
-[^key-0ca34e8b545f98380f36972adbf1f63c]: Commencement: Sch. 5 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)
+[^c-0ca34e8b545f98380f36972adbf1f63c]: Commencement: Sch. 5 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/779/article/1)

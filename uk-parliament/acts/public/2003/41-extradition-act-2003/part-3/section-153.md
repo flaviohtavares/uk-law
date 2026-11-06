@@ -38,7 +38,7 @@ summary: ''
 
 (4) The provisions are—
 
-- (a)[^key-6ef6ab92fc32857f3ce74f5bfab063bd] section 79 or 80 of the Sentencing Code;
+- (a)[^c-6ef6ab92fc32857f3ce74f5bfab063bd] section 79 or 80 of the Sentencing Code;
 - (b) section 246(1), (2) or (3) of the Criminal Procedure (Scotland) Act 1995 (c. 46);
 - (c) Article 4(1) of the Criminal Justice (Northern Ireland) Order 1996 (S.I. 1996/3160 (N.I. 24)).
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^c2088188]: Textual amendment: Words in s. 153(1)(b) substituted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 74(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/74/4), [116](https://www.legislation.gov.uk/ukpga/2009/26/section/116); [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(q)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/q)
 
-[^key-6ef6ab92fc32857f3ce74f5bfab063bd]: Textual amendment: S. 153(4)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 204](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/204) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6ef6ab92fc32857f3ce74f5bfab063bd]: Textual amendment: S. 153(4)(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 204](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/204) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

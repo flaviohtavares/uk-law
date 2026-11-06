@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. The Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009[^key-6ebb9e559a367b4ec49b3ae7832fa7d0]
+## 8. The Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009[^c-6ebb9e559a367b4ec49b3ae7832fa7d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6ebb9e559a367b4ec49b3ae7832fa7d0]: Commencement: Reg. 8 in force at 31.12.2020, see reg. 1(7)
+[^c-6ebb9e559a367b4ec49b3ae7832fa7d0]: Commencement: Reg. 8 in force at 31.12.2020, see reg. 1(7)
 
 [^c24413961]: Marginal citation: [S.I. 2009/1976](https://www.legislation.gov.uk/uksi/2009/1976); relevant amending instruments are [S.I. 2010/43](https://www.legislation.gov.uk/uksi/2010/43) and, prospectively on IP completion day, [S.I. 2019/758](https://www.legislation.gov.uk/uksi/2019/758), 828. Prospective amendments were also included in [S.I. 2019/865](https://www.legislation.gov.uk/uksi/2019/865). They would have come into force on IP completion day. Those prospective amendments are omitted by regulation 6 of this instrument and replaced with the amendments in regulation 8 of this instrument.
 

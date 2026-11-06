@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-9aea0fbd847fb48e8b27cdcf563cd10c]
+## 1. Citation and commencement[^c-9aea0fbd847fb48e8b27cdcf563cd10c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Trade Union (Facility Time Publication Req
 
 ## Annotations
 
-[^key-9aea0fbd847fb48e8b27cdcf563cd10c]: Commencement: Reg. 1 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)
+[^c-9aea0fbd847fb48e8b27cdcf563cd10c]: Commencement: Reg. 1 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/328/regulation/1)

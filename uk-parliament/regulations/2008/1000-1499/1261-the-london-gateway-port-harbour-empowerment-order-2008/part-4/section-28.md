@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Power to acquire land[^key-957fbb9c3430c51b935d43ada76cfde5]
+## 28. Power to acquire land[^c-957fbb9c3430c51b935d43ada76cfde5]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-957fbb9c3430c51b935d43ada76cfde5]: Commencement: Art. 28 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-957fbb9c3430c51b935d43ada76cfde5]: Commencement: Art. 28 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

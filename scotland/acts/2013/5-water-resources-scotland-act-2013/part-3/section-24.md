@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Development of assets[^key-4920acaeedc4a0f8be4f75bdb4798338]
+## 24. Development of assets[^c-4920acaeedc4a0f8be4f75bdb4798338]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ After section 50 of the 2002 Act there is inserted—
 
 ## Annotations
 
-[^key-4920acaeedc4a0f8be4f75bdb4798338]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2013/5/section/24) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)
+[^c-4920acaeedc4a0f8be4f75bdb4798338]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2013/5/section/24) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)

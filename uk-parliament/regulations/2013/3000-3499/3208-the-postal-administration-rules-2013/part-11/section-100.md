@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Hearings without notice[^key-673c7946d94f9e2622877e835c9bdd28]
+## 100. Hearings without notice[^c-673c7946d94f9e2622877e835c9bdd28]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ but nothing in those provisions is to be taken as prohibiting the applicant from
 
 ## Annotations
 
-[^key-673c7946d94f9e2622877e835c9bdd28]: Commencement: [Rule 100](https://www.legislation.gov.uk/uksi/2013/3208/rule/100) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-673c7946d94f9e2622877e835c9bdd28]: Commencement: [Rule 100](https://www.legislation.gov.uk/uksi/2013/3208/rule/100) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Performance of special procedure in course of business: approval requirement[^key-c634d8c7cfb6d2a993c3bc1364ae3675][^key-eb3fa59cfdf0c4dce443951a79115445][^M_C_214bf2ed-24c0-4595-c64c-dda9b2fb697c]
+## 69. Performance of special procedure in course of business: approval requirement[^c-c634d8c7cfb6d2a993c3bc1364ae3675][^c-eb3fa59cfdf0c4dce443951a79115445][^M_C_214bf2ed-24c0-4595-c64c-dda9b2fb697c]
 
 *Extent: E+W*
 
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c634d8c7cfb6d2a993c3bc1364ae3675]: Commencement: [S. 69](https://www.legislation.gov.uk/anaw/2017/2/section/69) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/e)
+[^c-c634d8c7cfb6d2a993c3bc1364ae3675]: Commencement: [S. 69](https://www.legislation.gov.uk/anaw/2017/2/section/69) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/e)
 
-[^key-eb3fa59cfdf0c4dce443951a79115445]: Commencement: [S. 69](https://www.legislation.gov.uk/anaw/2017/2/section/69) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(l)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/l) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-eb3fa59cfdf0c4dce443951a79115445]: Commencement: [S. 69](https://www.legislation.gov.uk/anaw/2017/2/section/69) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(l)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/l) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
 
 [^M_C_214bf2ed-24c0-4595-c64c-dda9b2fb697c]: Modification: S. 69(2) excluded (29.11.2024) by [The Special Procedures Approved Premises and Vehicles (Wales) Regulations 2024 (S.I. 2024/1229)](https://www.legislation.gov.uk/uksi/2024/1229), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1229/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/1229/regulation/3)

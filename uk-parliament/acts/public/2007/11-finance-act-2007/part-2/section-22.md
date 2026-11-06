@@ -24,7 +24,7 @@ summary: ''
 
 (2) Omit “or” at the end of paragraph (d).
 
-(3)[^key-461005f1d49c3f942317c8050217c72b] After that paragraph insert—
+(3)[^c-461005f1d49c3f942317c8050217c72b] After that paragraph insert—
 
 > - (da) it consists wholly of aggregate won by being removed from the ground along the line or proposed line of any railway, tramway or monorail or proposed railway, tramway or monorail and in the course of excavations carried out—
 >   - (i) for the purpose of improving or maintaining the railway, tramway or monorail or of constructing the proposed railway, tramway or monorail; and
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-461005f1d49c3f942317c8050217c72b]: Commencement: S. 22(3) in force at 1.8.2007 for the purposes of the amendment made by that sub-section by [S.I. 2007/2118](https://www.legislation.gov.uk/uksi/2007/2118), [art. 2](https://www.legislation.gov.uk/uksi/2007/2118/article/2)
+[^c-461005f1d49c3f942317c8050217c72b]: Commencement: S. 22(3) in force at 1.8.2007 for the purposes of the amendment made by that sub-section by [S.I. 2007/2118](https://www.legislation.gov.uk/uksi/2007/2118), [art. 2](https://www.legislation.gov.uk/uksi/2007/2118/article/2)

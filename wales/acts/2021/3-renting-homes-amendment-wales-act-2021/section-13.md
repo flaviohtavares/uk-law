@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Power to restrict right to exclude contract-holder from dwelling for specified periods[^key-35a241f7a9a0b535a836e375f600f254]
+## 13. Power to restrict right to exclude contract-holder from dwelling for specified periods[^c-35a241f7a9a0b535a836e375f600f254]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35a241f7a9a0b535a836e375f600f254]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2021/3/section/13) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-35a241f7a9a0b535a836e375f600f254]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2021/3/section/13) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

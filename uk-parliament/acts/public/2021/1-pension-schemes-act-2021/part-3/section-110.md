@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-8ae4fb8f3a5df3b9bdd17e6d23eedb5d] The Pensions Act 2004 is amended as follows.
+(1)[^c-8ae4fb8f3a5df3b9bdd17e6d23eedb5d] The Pensions Act 2004 is amended as follows.
 
-(2)[^key-8fc9612a2a8cf56619226740865e28f5][^key-e510e8613f435585f1cc65e5d84abd0a] After section 72 insert—
+(2)[^c-8fc9612a2a8cf56619226740865e28f5][^c-e510e8613f435585f1cc65e5d84abd0a] After section 72 insert—
 
 > **72A. Interviews**
 >
@@ -30,9 +30,9 @@ summary: ''
 >
 > (2) A notice under subsection (1) must contain such other information as may be prescribed.
 
-(3)[^key-8ae4fb8f3a5df3b9bdd17e6d23eedb5d] In section 72 (provision of information), omit subsections (1A) and (1B).
+(3)[^c-8ae4fb8f3a5df3b9bdd17e6d23eedb5d] In section 72 (provision of information), omit subsections (1A) and (1B).
 
-(4)[^key-8ae4fb8f3a5df3b9bdd17e6d23eedb5d] In section 77 (penalties relating to sections 72 to 75)—
+(4)[^c-8ae4fb8f3a5df3b9bdd17e6d23eedb5d] In section 77 (penalties relating to sections 72 to 75)—
 
 - (a) after subsection (1) insert—
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8ae4fb8f3a5df3b9bdd17e6d23eedb5d]: Commencement: [S. 110(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/1)[(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/4) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/950/regulation/9))
+[^c-8ae4fb8f3a5df3b9bdd17e6d23eedb5d]: Commencement: [S. 110(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/1)[(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/4) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/950/regulation/9))
 
-[^key-8fc9612a2a8cf56619226740865e28f5]: Commencement: [S. 110(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/2) in force at 31.5.2021 for specified purposes by [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/c)
+[^c-8fc9612a2a8cf56619226740865e28f5]: Commencement: [S. 110(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/2) in force at 31.5.2021 for specified purposes by [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/c)
 
-[^key-e510e8613f435585f1cc65e5d84abd0a]: Commencement: [S. 110(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/2) in force at 1.10.2021 in so far as not already in force by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/950/regulation/9))
+[^c-e510e8613f435585f1cc65e5d84abd0a]: Commencement: [S. 110(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/110/2) in force at 1.10.2021 in so far as not already in force by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/950/regulation/9))

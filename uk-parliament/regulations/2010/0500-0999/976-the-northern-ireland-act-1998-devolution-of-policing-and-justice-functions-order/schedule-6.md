@@ -24,9 +24,9 @@ Article 6(3)
 
 ### Criminal Justice Act 1988
 
-**1.**[^key-26b36f774f940b19379526b685c61d31] Amend the Criminal Justice Act 1988[^f00218] as follows.
+**1.**[^c-26b36f774f940b19379526b685c61d31] Amend the Criminal Justice Act 1988[^f00218] as follows.
 
-**2.**[^key-b280f514255746899dcf478d24e7d9eb] (1) In section 133[^f00219] (compensation for miscarriages of justice) after subsection (6) insert—
+**2.**[^c-b280f514255746899dcf478d24e7d9eb] (1) In section 133[^f00219] (compensation for miscarriages of justice) after subsection (6) insert—
 
 > (6A) Subject to what follows, in the application of this section in relation to a person (“P”) convicted in Northern Ireland of a criminal offence, in subsections (1) to (4) any reference to the Secretary of State is to be read as a reference to the Department of Justice in Northern Ireland.
 >
@@ -92,7 +92,7 @@ Article 6(3)
   - (i) the protected information, or
   - (ii) a summary of the protected information that appears to the Secretary of State to be sufficiently detailed to enable the Department (including any assessor) to deal properly with the application.
 
-**3.**[^key-4d14be60f9ecab7b122e030112829228] In section 133A[^f00221] (miscarriages of justice: amount of compensation) after subsection (8) insert—
+**3.**[^c-4d14be60f9ecab7b122e030112829228] In section 133A[^f00221] (miscarriages of justice: amount of compensation) after subsection (8) insert—
 
 > (9) In relation to compensation payable by the Department of Justice in Northern Ireland, the power in subsection (7) is exercisable by the Department (and not by the Secretary of State).
 >
@@ -102,7 +102,7 @@ Article 6(3)
 >
 > (12) Section 41(3) of the Interpretation Act (Northern Ireland) 1954[^f00223] applies for the purposes of subsection (11) in relation to the laying of a draft as it applies in relation to the laying of a statutory document under an enactment.
 
-**4.**[^key-f9e7f6a35926c56d32234addff902024] (1) Amend Schedule 12[^f00224] (assessors of compensation for miscarriages of justice) as follows.
+**4.**[^c-f9e7f6a35926c56d32234addff902024] (1) Amend Schedule 12[^f00224] (assessors of compensation for miscarriages of justice) as follows.
 
 (2) In paragraph 6(4) omit the words from “Lord Chancellor” to “concurrence of the”.
 
@@ -115,9 +115,9 @@ Article 6(3)
 
 ### Criminal Appeal Act 1995
 
-**5.**[^key-e80e86489501a12a2f19ede4940b7dee] Amend the Criminal Appeal Act 1995[^f00225] as follows.
+**5.**[^c-e80e86489501a12a2f19ede4940b7dee] Amend the Criminal Appeal Act 1995[^f00225] as follows.
 
-**6.**[^key-0b4dbec7ae7c8a333144c96475c51fbf] (1) Amend section 16[^f00226] (assistance in connection with prerogative of mercy) as follows.
+**6.**[^c-0b4dbec7ae7c8a333144c96475c51fbf] (1) Amend section 16[^f00226] (assistance in connection with prerogative of mercy) as follows.
 
 (2) After subsection (2) insert—
 
@@ -143,9 +143,9 @@ Article 6(3)
 
 and the Minister must, in accordance with section 16(2A), consider whether Her Majesty’s prerogative of mercy should be exercised on Her behalf under section 23(2) of the Northern Ireland Act 1998.
 
-**7.**[^key-8b76a721bec6e651cb80b443c2ffb571] In section 24(1)(b) (exceptions from obligations of non-disclosure) after “Secretary of State” insert “or the Department of Justice in Northern Ireland”.
+**7.**[^c-8b76a721bec6e651cb80b443c2ffb571] In section 24(1)(b) (exceptions from obligations of non-disclosure) after “Secretary of State” insert “or the Department of Justice in Northern Ireland”.
 
-**8.**[^key-b799f889e12e2d08e3a857f528ce767c] (1) Amend Schedule 1 (the Commission) as follows.
+**8.**[^c-b799f889e12e2d08e3a857f528ce767c] (1) Amend Schedule 1 (the Commission) as follows.
 
 (2) In paragraph 6(3) for the “and” after paragraph (c) substitute—
 
@@ -164,17 +164,17 @@ and the Minister must, in accordance with section 16(2A), consider whether Her M
 
 ## Annotations
 
-[^key-26b36f774f940b19379526b685c61d31]: Commencement: Sch. 6 para. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-26b36f774f940b19379526b685c61d31]: Commencement: Sch. 6 para. 1 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00218]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33).
 
-[^key-b280f514255746899dcf478d24e7d9eb]: Commencement: Sch. 6 para. 2 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-b280f514255746899dcf478d24e7d9eb]: Commencement: Sch. 6 para. 2 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00219]: Footnote: Section 133 was amended by section 61 of the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4). Other amendments have been made to section 133 but none are relevant.
 
 [^f00220]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-4d14be60f9ecab7b122e030112829228]: Commencement: Sch. 6 para. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-4d14be60f9ecab7b122e030112829228]: Commencement: Sch. 6 para. 3 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00221]: Footnote: Section 133A was inserted by section 61 of the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4).
 
@@ -182,22 +182,22 @@ and the Minister must, in accordance with section 16(2A), consider whether Her M
 
 [^f00223]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(3) was substituted by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).
 
-[^key-f9e7f6a35926c56d32234addff902024]: Commencement: Sch. 6 para. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-f9e7f6a35926c56d32234addff902024]: Commencement: Sch. 6 para. 4 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00224]: Footnote: Amendment have been made to Schedule 12 but none are relevant.
 
-[^key-e80e86489501a12a2f19ede4940b7dee]: Commencement: Sch. 6 para. 5 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-e80e86489501a12a2f19ede4940b7dee]: Commencement: Sch. 6 para. 5 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00225]: Footnote: [1995 c. 35](https://www.legislation.gov.uk/ukpga/1995/35).
 
-[^key-0b4dbec7ae7c8a333144c96475c51fbf]: Commencement: Sch. 6 para. 6 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-0b4dbec7ae7c8a333144c96475c51fbf]: Commencement: Sch. 6 para. 6 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00226]: Footnote: Section 16 was amended by Schedule 11 to the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52).
 
 [^f00227]: Footnote: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-8b76a721bec6e651cb80b443c2ffb571]: Commencement: Sch. 6 para. 7 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-8b76a721bec6e651cb80b443c2ffb571]: Commencement: Sch. 6 para. 7 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
-[^key-b799f889e12e2d08e3a857f528ce767c]: Commencement: Sch. 6 para. 8 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-b799f889e12e2d08e3a857f528ce767c]: Commencement: Sch. 6 para. 8 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00228]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(3) was substituted by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).

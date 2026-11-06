@@ -48,7 +48,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-520b598f34aa8f31c9281bc4dac97934]
+### 1. Citation, commencement and extent[^c-520b598f34aa8f31c9281bc4dac97934]
 
 (1) These Regulations may be cited as the Exclusivity Terms for Zero Hours Workers (Unenforceability and Redress) Regulations 2022.
 
@@ -56,7 +56,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 
 (3) These Regulations extend to England and Wales and Scotland.
 
-### 2. Interpretation[^key-48a14078a9ef2450156997227119c2d2]
+### 2. Interpretation[^c-48a14078a9ef2450156997227119c2d2]
 
 In these Regulations—
 
@@ -71,7 +71,7 @@ In these Regulations—
 
 ## PART 2 — Unenforceability
 
-### 3. Unenforceability[^key-b99bb8f4dd940cc728c684a98ffc6c39]
+### 3. Unenforceability[^c-b99bb8f4dd940cc728c684a98ffc6c39]
 
 (1) Any provision of a specified contract which contains an exclusivity term is unenforceable against a worker.
 
@@ -81,21 +81,21 @@ In these Regulations—
 
 ## PART 3 — Calculation of net average weekly wages
 
-### 4. Permanent contracts of employment or other worker’s contracts[^key-7c0bc22d401c5d75b823abcd4a79f4c0]
+### 4. Permanent contracts of employment or other worker’s contracts[^c-7c0bc22d401c5d75b823abcd4a79f4c0]
 
 Where the contract of employment or other worker’s contract is permanent, the average weekly wages are calculated by dividing by 52 the total remuneration to which the worker is entitled under that contract in respect of a period of 52 weeks.
 
-### 5. All other contracts of employment or other worker’s contracts[^key-9f47d187325b02703b6a28eb60df745f]
+### 5. All other contracts of employment or other worker’s contracts[^c-9f47d187325b02703b6a28eb60df745f]
 
 Where regulation 4 does not apply, the average weekly wages are calculated by dividing the total remuneration to which the worker is entitled under their contract by the number of weeks during which their contract is expected to continue.
 
-### 6. Net average weekly wages[^key-b19205c1d06f26210cd20d588b8fff7a]
+### 6. Net average weekly wages[^c-b19205c1d06f26210cd20d588b8fff7a]
 
 The net average weekly wages are calculated by subtracting all deductions of whatever nature from the average weekly wages.
 
 ## PART 4 — Redress and Remedies
 
-### 7. Unfair dismissal and the right not to be subjected to a detriment[^key-3f7881097b16335425644c61418a622a]
+### 7. Unfair dismissal and the right not to be subjected to a detriment[^c-3f7881097b16335425644c61418a622a]
 
 (1) An employee who works under a specified contract is to be regarded for the purpose of Part 10 of the 1996 Act as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is the reason specified in paragraph (3).
 
@@ -107,13 +107,13 @@ The net average weekly wages are calculated by subtracting all deductions of wha
 
 (5) Section 108 of the 1996 Act (qualifying period of employment) does not apply in relation to a dismissal to which paragraph (1) applies.
 
-### 8. Complaints to employment tribunals[^key-39d3b08a6d2f55af3611515de91664ec]
+### 8. Complaints to employment tribunals[^c-39d3b08a6d2f55af3611515de91664ec]
 
 (1) Subject to regulation 7(4), a worker may present a complaint to an employment tribunal that an employer has infringed the right conferred on the worker by regulation 7(2).
 
 (2) Subject to paragraph (3), an employment tribunal must not consider a complaint under this regulation unless it is presented before the end of the period of three months beginning with the date of the act or failure to act to which the complaint relates, or where that act or failure is part of a series of similar acts or failures, the last of them.
 
-(2A)[^key-ccb1ee39f9da6d65310b65588c8d479c] Regulation 8A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+(2A)[^c-ccb1ee39f9da6d65310b65588c8d479c] Regulation 8A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
 (3) A tribunal may consider any such complaint which is out of time if, in all the circumstances of the case, it considers that it is just and equitable to do so.
 
@@ -129,7 +129,7 @@ The net average weekly wages are calculated by subtracting all deductions of wha
 
 (6) Where a worker presents a complaint under this regulation it is for the employer to identify the ground on which any act, or deliberate failure to act, was done.
 
-### 8A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-dd09b60dba164d778a90ae8d72e6d056]
+### 8A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-dd09b60dba164d778a90ae8d72e6d056]
 
 (1) In this regulation—
 
@@ -142,7 +142,7 @@ The net average weekly wages are calculated by subtracting all deductions of wha
 
 (4) The power conferred on the employment tribunal by regulation 8(3) to extend the time limit set by paragraph (2) of that regulation is exercisable in relation to that time limit as extended by this regulation.
 
-### 9. Remedies[^key-94add1e45f9a9be77d9a41ae59dbb208]
+### 9. Remedies[^c-94add1e45f9a9be77d9a41ae59dbb208]
 
 (1) Where an employment tribunal finds that a complaint presented to it under regulation 8 is well founded, it must take such of the following steps as it considers just and equitable—
 
@@ -177,7 +177,7 @@ any compensation awarded under paragraph (1)(b) must not exceed the limit specif
 
 ## PART 5 — Review
 
-### 10. Review[^key-8fa20847c6a5aff779ac12646721bf7e]
+### 10. Review[^c-8fa20847c6a5aff779ac12646721bf7e]
 
 (1) The Secretary of State must from time to time—
 
@@ -232,32 +232,32 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: Relevant amendments were made to section 236(3) by the Small Business, Enterprise and Employment Act 2015, section 153(1) and (3) and the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), section 9 and Schedule 4, Part 3, paragraphs 5 and 42(1) and (3)(a) and (c).
 
-[^key-520b598f34aa8f31c9281bc4dac97934]: Commencement: Reg. 1 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
+[^c-520b598f34aa8f31c9281bc4dac97934]: Commencement: Reg. 1 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
 
-[^key-48a14078a9ef2450156997227119c2d2]: Commencement: Reg. 2 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
+[^c-48a14078a9ef2450156997227119c2d2]: Commencement: Reg. 2 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
 
 [^f00003]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 5 was substituted by the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), section 73 and Schedule 9, Part 1, paragraph 1. The lower earnings limit is specified by regulation 10 of the Social Security (Contributions) Regulations 2001 ([S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004)).
 
 [^f00004]: Footnote: Section 27 was amended by the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), Schedule 7, paragraphs 24 and 25, the Agency Workers Regulations 2010 ([S.I. 2010/93](https://www.legislation.gov.uk/uksi/2010/93)), Schedule 2, Part 1, paragraph 10, the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 126 and Schedule 7, paragraphs 29, 30(a) and (b), the Parental Bereavement (Leave and Pay) Act [2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24), section 1(c) and Schedule 1, Part 3, paragraph 21.
 
-[^key-b99bb8f4dd940cc728c684a98ffc6c39]: Commencement: Reg. 3 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
+[^c-b99bb8f4dd940cc728c684a98ffc6c39]: Commencement: Reg. 3 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
 
-[^key-7c0bc22d401c5d75b823abcd4a79f4c0]: Commencement: Reg. 4 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
+[^c-7c0bc22d401c5d75b823abcd4a79f4c0]: Commencement: Reg. 4 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
 
-[^key-9f47d187325b02703b6a28eb60df745f]: Commencement: Reg. 5 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
+[^c-9f47d187325b02703b6a28eb60df745f]: Commencement: Reg. 5 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
 
-[^key-b19205c1d06f26210cd20d588b8fff7a]: Commencement: Reg. 6 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
+[^c-b19205c1d06f26210cd20d588b8fff7a]: Commencement: Reg. 6 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
 
-[^key-3f7881097b16335425644c61418a622a]: Commencement: Reg. 7 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
+[^c-3f7881097b16335425644c61418a622a]: Commencement: Reg. 7 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
 
-[^key-39d3b08a6d2f55af3611515de91664ec]: Commencement: Reg. 8 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
+[^c-39d3b08a6d2f55af3611515de91664ec]: Commencement: Reg. 8 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
 
-[^key-ccb1ee39f9da6d65310b65588c8d479c]: Textual amendment: [Reg. 8(2A)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/8/2A) inserted (5.12.2022) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2022 (S.I. 2022/1181)](https://www.legislation.gov.uk/uksi/2022/1181), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1181/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/1181/article/3/2)
+[^c-ccb1ee39f9da6d65310b65588c8d479c]: Textual amendment: [Reg. 8(2A)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/8/2A) inserted (5.12.2022) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2022 (S.I. 2022/1181)](https://www.legislation.gov.uk/uksi/2022/1181), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1181/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2022/1181/article/3/2)
 
-[^key-dd09b60dba164d778a90ae8d72e6d056]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2022/1145/regulation/8A) inserted (5.12.2022) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2022 (S.I. 2022/1181)](https://www.legislation.gov.uk/uksi/2022/1181), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1181/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2022/1181/article/3/3)
+[^c-dd09b60dba164d778a90ae8d72e6d056]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2022/1145/regulation/8A) inserted (5.12.2022) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2022 (S.I. 2022/1181)](https://www.legislation.gov.uk/uksi/2022/1181), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1181/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2022/1181/article/3/3)
 
-[^key-94add1e45f9a9be77d9a41ae59dbb208]: Commencement: Reg. 9 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
+[^c-94add1e45f9a9be77d9a41ae59dbb208]: Commencement: Reg. 9 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
 
 [^f00005]: Footnote: Section 124(1ZA) was inserted by the Unfair Dismissal (Variation of the Limit of Compensatory Award) Order 2013, ([S.I. 2013/1949](https://www.legislation.gov.uk/uksi/2013/1949)), articles 2(1) and (3). Section 124(1ZA)(a) was amended by the Employment Rights (Increase of Limits) Order 2022, ([S.I. 2022/182](https://www.legislation.gov.uk/uksi/2022/182)), Article 3 and Schedule 1, paragraph 6.
 
-[^key-8fa20847c6a5aff779ac12646721bf7e]: Commencement: Reg. 10 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)
+[^c-8fa20847c6a5aff779ac12646721bf7e]: Commencement: Reg. 10 in force at 5.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1145/regulation/1/2)

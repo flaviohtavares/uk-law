@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Procedure on an investigation by the Pensions Ombudsman[^key-0b47b75e4e9e2d01515fad95fadd2497]
+## 123. Procedure on an investigation by the Pensions Ombudsman[^c-0b47b75e4e9e2d01515fad95fadd2497]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ In section 149(6) of the Pension Schemes Act 1993 (procedure on an investigation
 
 ## Annotations
 
-[^key-0b47b75e4e9e2d01515fad95fadd2497]: Commencement: Art. 123 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0b47b75e4e9e2d01515fad95fadd2497]: Commencement: Art. 123 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

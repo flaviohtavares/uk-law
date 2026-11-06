@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E9. Amounts of children's short-term and long-term pensions[^key-d68a0fb0f3e8553354e76ec69008e32a]
+## E9. Amounts of children's short-term and long-term pensions[^c-d68a0fb0f3e8553354e76ec69008e32a]
 
 *Extent: E+W+S*
 
@@ -62,6 +62,6 @@ whichever results in the smaller reduction in its annual rate.
 
 ## Annotations
 
-[^key-d68a0fb0f3e8553354e76ec69008e32a]: Commencement: [Reg. E9](https://www.legislation.gov.uk/uksi/1986/24/regulation/E9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-d68a0fb0f3e8553354e76ec69008e32a]: Commencement: [Reg. E9](https://www.legislation.gov.uk/uksi/1986/24/regulation/E9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00036]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).

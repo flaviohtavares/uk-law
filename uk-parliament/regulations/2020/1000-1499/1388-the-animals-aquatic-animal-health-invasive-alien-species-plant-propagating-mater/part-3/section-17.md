@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Commission Delegated Regulation (EU) 2018/772[^key-1267c910bcdb91bdf7f48b2114109a4d]
+## 17. Commission Delegated Regulation (EU) 2018/772[^c-1267c910bcdb91bdf7f48b2114109a4d]
 
 *Extent: E+W+S*
 
@@ -84,7 +84,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1267c910bcdb91bdf7f48b2114109a4d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-1267c910bcdb91bdf7f48b2114109a4d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/1388/regulation/17) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
 [^f00051]: Footnote: [S.I. 2013/2033](https://www.legislation.gov.uk/uksi/2013/2033), to which there are amendments not relevant to these Regulations.
 

@@ -34,7 +34,7 @@ LICENCES AND LICENSING
 
 CRIMINAL LAW
 
-The Knife Dealers (Licence Conditions) Order 2009 (revoked)[^key-1cc38e98ade4a3a4366218aac78d713d]
+The Knife Dealers (Licence Conditions) Order 2009 (revoked)[^c-1cc38e98ade4a3a4366218aac78d713d]
 
 Made
 
@@ -48,32 +48,32 @@ Coming into force
 
 1st September 2009
 
-[^key-1cc38e98ade4a3a4366218aac78d713d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cc38e98ade4a3a4366218aac78d713d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1cc38e98ade4a3a4366218aac78d713d]
+## 1. Citation and commencement[^c-1cc38e98ade4a3a4366218aac78d713d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1cc38e98ade4a3a4366218aac78d713d]
+## 2. Interpretation[^c-1cc38e98ade4a3a4366218aac78d713d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Mandatory conditions for all knife dealers' licences[^key-1cc38e98ade4a3a4366218aac78d713d]
+## 3. Mandatory conditions for all knife dealers' licences[^c-1cc38e98ade4a3a4366218aac78d713d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Mandatory additional conditions for swords[^key-1cc38e98ade4a3a4366218aac78d713d]
+## 4. Mandatory additional conditions for swords[^c-1cc38e98ade4a3a4366218aac78d713d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1cc38e98ade4a3a4366218aac78d713d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cc38e98ade4a3a4366218aac78d713d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1cc38e98ade4a3a4366218aac78d713d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cc38e98ade4a3a4366218aac78d713d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1cc38e98ade4a3a4366218aac78d713d]: Textual amendment: Order revoked (29.1.2013) by [The Knife Dealers (Licence Conditions) (Scotland) Order 2013 (S.S.I. 2013/22)](https://www.legislation.gov.uk/ssi/2013/22), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/22/article/1/1), [5](https://www.legislation.gov.uk/ssi/2013/22/article/5)
+[^c-1cc38e98ade4a3a4366218aac78d713d]: Textual amendment: Order revoked (29.1.2013) by [The Knife Dealers (Licence Conditions) (Scotland) Order 2013 (S.S.I. 2013/22)](https://www.legislation.gov.uk/ssi/2013/22), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/22/article/1/1), [5](https://www.legislation.gov.uk/ssi/2013/22/article/5)

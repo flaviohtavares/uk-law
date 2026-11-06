@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Assessment and control of inhalable and respirable dust in coal mines[^key-6e2321728b6ecdf579d3315c9e54e23c]
+## 45. Assessment and control of inhalable and respirable dust in coal mines[^c-6e2321728b6ecdf579d3315c9e54e23c]
 
 *Extent: N.I.*
 
@@ -31,11 +31,11 @@ summary: ''
 
 (4) The mine operator shall ensure that the exposure to inhalable dust of persons at work below ground at the mine is either prevented or, where that is not reasonably practicable, reduced to as low a level as is reasonably practicable.
 
-(5) The mine operator shall have in place suitable arrangements for sampling the levels of respirable dust [^key-9d0f8774713e1afa52dd332c13bc9b30]... to which persons at work are exposed below ground at the mine.
+(5) The mine operator shall have in place suitable arrangements for sampling the levels of respirable dust [^c-9d0f8774713e1afa52dd332c13bc9b30]... to which persons at work are exposed below ground at the mine.
 
-(6) If a sample exceeds the action level for respirable dust [^key-bcc397335eb97ac8968f04c55c080dbb]..., the mine operator shall—
+(6) If a sample exceeds the action level for respirable dust [^c-bcc397335eb97ac8968f04c55c080dbb]..., the mine operator shall—
 
-- (a) determine the reason why the [^key-2649a2a6b5c701ddec71f40f9c4dce6f]... action level was exceeded;
+- (a) determine the reason why the [^c-2649a2a6b5c701ddec71f40f9c4dce6f]... action level was exceeded;
 - (b) ensure that appropriate remedial action is taken; and
 - (c) ensure that appropriate further sampling is carried out for the purpose of assessing the effectiveness of any remedial action.
 
@@ -43,10 +43,10 @@ summary: ''
 
 ## Annotations
 
-[^key-6e2321728b6ecdf579d3315c9e54e23c]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2016/427/regulation/45) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-6e2321728b6ecdf579d3315c9e54e23c]: Commencement: [Reg. 45](https://www.legislation.gov.uk/nisr/2016/427/regulation/45) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
 
-[^key-9d0f8774713e1afa52dd332c13bc9b30]: Textual amendment: Words in [reg. 45(5)](https://www.legislation.gov.uk/nisr/2016/427/regulation/45/5) omitted (21.3.2022) by virtue of [The Mines (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/9)](https://www.legislation.gov.uk/nisr/2022/9), [regs. 1](https://www.legislation.gov.uk/nisr/2022/9/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2022/9/regulation/2/4/a)
+[^c-9d0f8774713e1afa52dd332c13bc9b30]: Textual amendment: Words in [reg. 45(5)](https://www.legislation.gov.uk/nisr/2016/427/regulation/45/5) omitted (21.3.2022) by virtue of [The Mines (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/9)](https://www.legislation.gov.uk/nisr/2022/9), [regs. 1](https://www.legislation.gov.uk/nisr/2022/9/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/nisr/2022/9/regulation/2/4/a)
 
-[^key-bcc397335eb97ac8968f04c55c080dbb]: Textual amendment: Words in [reg. 45(6)](https://www.legislation.gov.uk/nisr/2016/427/regulation/45/6) omitted (21.3.2022) by virtue of [The Mines (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/9)](https://www.legislation.gov.uk/nisr/2022/9), [regs. 1](https://www.legislation.gov.uk/nisr/2022/9/regulation/1), [2(4)(b)(i)](https://www.legislation.gov.uk/nisr/2022/9/regulation/2/4/b/i)
+[^c-bcc397335eb97ac8968f04c55c080dbb]: Textual amendment: Words in [reg. 45(6)](https://www.legislation.gov.uk/nisr/2016/427/regulation/45/6) omitted (21.3.2022) by virtue of [The Mines (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/9)](https://www.legislation.gov.uk/nisr/2022/9), [regs. 1](https://www.legislation.gov.uk/nisr/2022/9/regulation/1), [2(4)(b)(i)](https://www.legislation.gov.uk/nisr/2022/9/regulation/2/4/b/i)
 
-[^key-2649a2a6b5c701ddec71f40f9c4dce6f]: Textual amendment: Word in [reg. 45(6)(a)](https://www.legislation.gov.uk/nisr/2016/427/regulation/45/6/a) omitted (21.3.2022) by virtue of [The Mines (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/9)](https://www.legislation.gov.uk/nisr/2022/9), [regs. 1](https://www.legislation.gov.uk/nisr/2022/9/regulation/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2022/9/regulation/2/4/b/ii)
+[^c-2649a2a6b5c701ddec71f40f9c4dce6f]: Textual amendment: Word in [reg. 45(6)(a)](https://www.legislation.gov.uk/nisr/2016/427/regulation/45/6/a) omitted (21.3.2022) by virtue of [The Mines (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/9)](https://www.legislation.gov.uk/nisr/2022/9), [regs. 1](https://www.legislation.gov.uk/nisr/2022/9/regulation/1), [2(4)(b)(ii)](https://www.legislation.gov.uk/nisr/2022/9/regulation/2/4/b/ii)

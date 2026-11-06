@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Powers of inspection[^key-331ab3520a9e31dabf8d2c6bee93c47f]
+## 59. Powers of inspection[^c-331ab3520a9e31dabf8d2c6bee93c47f]
 
 *Extent: E+W*
 
@@ -90,4 +90,4 @@ summary: ''
 
 ## Annotations
 
-[^key-331ab3520a9e31dabf8d2c6bee93c47f]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2017/3/section/59) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(s)](https://www.legislation.gov.uk/wsi/2018/35/article/2/s)
+[^c-331ab3520a9e31dabf8d2c6bee93c47f]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2017/3/section/59) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(s)](https://www.legislation.gov.uk/wsi/2018/35/article/2/s)

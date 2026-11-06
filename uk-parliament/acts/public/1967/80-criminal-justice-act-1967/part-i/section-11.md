@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Notice of alibi.[^key-5df420125a0107802c1251a7154d47b1]
+## 11. Notice of alibi.[^c-5df420125a0107802c1251a7154d47b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5df420125a0107802c1251a7154d47b1]: Textual amendment: S. 11 repealed (24.6.2008) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2008/1650](https://www.legislation.gov.uk/uksi/2008/1650), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/1650/article/4/c)
+[^c-5df420125a0107802c1251a7154d47b1]: Textual amendment: S. 11 repealed (24.6.2008) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2008/1650](https://www.legislation.gov.uk/uksi/2008/1650), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/1650/article/4/c)

@@ -46,7 +46,7 @@ summary: ''
 
 **5.** An appeal, or other proceedings in the nature of an appeal, instituted on a claim, or proceedings in the nature of a claim, made before 6th April 1965 shall be continued before the same Commissioners notwithstanding that, under Schedule 2 to this Act or Schedule 2 to the Income Tax Management Act 1964, an appeal on the claim should have been made to some other Commissioners.
 
-**6.**[^key-6933f02ce382224977067cc9bd4a2eec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6933f02ce382224977067cc9bd4a2eec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Choice of Commissioners to hear proceedings
 
@@ -78,7 +78,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6933f02ce382224977067cc9bd4a2eec]: Textual amendment: Sch. 4 para. 6 repealed (3.5.1994) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [Sch. 26 Pt. 5(22)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/V/22)
+[^c-6933f02ce382224977067cc9bd4a2eec]: Textual amendment: Sch. 4 para. 6 repealed (3.5.1994) by [Finance Act 1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), [Sch. 26 Pt. 5(22)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/V/22)
 
 [^c846579]: Textual amendment: Sch. 4 para. 8 repealed by [Finance Act 1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39), [s.157](https://www.legislation.gov.uk/ukpga/1982/39/section/157), [Sch.22 Part X](https://www.legislation.gov.uk/ukpga/1982/39/schedule/22).
 

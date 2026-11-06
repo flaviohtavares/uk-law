@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. NCA: information sharing[^key-0d4a5923c7d21163735a1bf1b2f87ea8][^key-6d66607432ef18749f560dfc740ca6d7]
+## 68. NCA: information sharing[^c-0d4a5923c7d21163735a1bf1b2f87ea8][^c-6d66607432ef18749f560dfc740ca6d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In section 16 of the Crime and Courts Act 2013 (interpretation of Part 1), in su
 
 ## Annotations
 
-[^key-0d4a5923c7d21163735a1bf1b2f87ea8]: Commencement: S. 68 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-0d4a5923c7d21163735a1bf1b2f87ea8]: Commencement: S. 68 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-6d66607432ef18749f560dfc740ca6d7]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/50/section/68) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/t)
+[^c-6d66607432ef18749f560dfc740ca6d7]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/50/section/68) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/t)

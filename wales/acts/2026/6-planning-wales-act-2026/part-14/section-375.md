@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 375. Validity of certain decisions and orders[^key-fba343daca2def3cf505e6cb1c52bd21]
+## 375. Validity of certain decisions and orders[^c-fba343daca2def3cf505e6cb1c52bd21]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ may not be questioned in any legal proceedings except an application for statuto
 
 ## Annotations
 
-[^key-fba343daca2def3cf505e6cb1c52bd21]: Commencement: S. 375 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-fba343daca2def3cf505e6cb1c52bd21]: Commencement: S. 375 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

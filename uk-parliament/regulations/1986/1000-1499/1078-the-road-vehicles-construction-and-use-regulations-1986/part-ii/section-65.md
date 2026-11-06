@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. Maintenance of spray suppression devices[^key-bea243e80ff3ca7c70a59e43af115c9a]
+## 65. Maintenance of spray suppression devices[^c-bea243e80ff3ca7c70a59e43af115c9a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Every part of every containment device with which a vehicle is required to be fi
 
 ## Annotations
 
-[^key-bea243e80ff3ca7c70a59e43af115c9a]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/1986/1078/regulation/65) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-bea243e80ff3ca7c70a59e43af115c9a]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/1986/1078/regulation/65) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

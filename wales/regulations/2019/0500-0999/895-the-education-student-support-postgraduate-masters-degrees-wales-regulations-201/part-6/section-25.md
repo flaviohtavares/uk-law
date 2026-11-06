@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Amount of base grant[^key-c4aee1093a2e888e250ecc3cd7f1a373]
+## 25. Amount of base grant[^c-c4aee1093a2e888e250ecc3cd7f1a373]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The amount of the base grant available to an eligible student is £1,000.
 
 ## Annotations
 
-[^key-c4aee1093a2e888e250ecc3cd7f1a373]: Commencement: Reg. 25 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-c4aee1093a2e888e250ecc3cd7f1a373]: Commencement: Reg. 25 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)

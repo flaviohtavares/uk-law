@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Register of protected areas[^key-ab31523333291fea748b88a0fc0c9b86]
+## 7. Register of protected areas[^c-ab31523333291fea748b88a0fc0c9b86]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ a register of the protected areas lying (whether wholly or partly) within the di
 
 (3) In this section, “**protected areas**” means—
 
-- (za)[^key-1637de5ec0aeec9c8db13023ee1d9894] any shellfish water protected area,
+- (za)[^c-1637de5ec0aeec9c8db13023ee1d9894] any shellfish water protected area,
 - (a) any bodies of water identified under section 6, and
 - (b) the areas and bodies of water falling within subsection (4).
 
@@ -54,6 +54,6 @@ a register of the protected areas lying (whether wholly or partly) within the di
 
 ## Annotations
 
-[^key-ab31523333291fea748b88a0fc0c9b86]: Commencement: S. 7 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/562/article/2/a)
+[^c-ab31523333291fea748b88a0fc0c9b86]: Commencement: S. 7 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/562/article/2/a)
 
-[^key-1637de5ec0aeec9c8db13023ee1d9894]: Textual amendment: S. 7(3)(za) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 54(3)](https://www.legislation.gov.uk/asp/2013/7/section/54/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-1637de5ec0aeec9c8db13023ee1d9894]: Textual amendment: S. 7(3)(za) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 54(3)](https://www.legislation.gov.uk/asp/2013/7/section/54/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

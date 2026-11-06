@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 261. Electronic delivery of special administration documents to court[^key-9fdc1e31702884baa933ba570588870f]
+## 261. Electronic delivery of special administration documents to court[^c-9fdc1e31702884baa933ba570588870f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fdc1e31702884baa933ba570588870f]: Commencement: Rule 261 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-9fdc1e31702884baa933ba570588870f]: Commencement: Rule 261 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

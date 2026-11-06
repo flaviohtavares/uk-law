@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1269. Interpretation of sections 1267 and 1268[^key-06d911998da0f05a799bca0403d97b9a]
+## 1269. Interpretation of sections 1267 and 1268[^c-06d911998da0f05a799bca0403d97b9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In sections 1267 and 1268—
 
 ## Annotations
 
-[^key-06d911998da0f05a799bca0403d97b9a]: Textual amendment: Word in s. 1269 substituted (with effect in accordance with s. 381(1) of the amending Act) by virtue of [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 311](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/311) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-06d911998da0f05a799bca0403d97b9a]: Textual amendment: Word in s. 1269 substituted (with effect in accordance with s. 381(1) of the amending Act) by virtue of [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 311](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/311) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

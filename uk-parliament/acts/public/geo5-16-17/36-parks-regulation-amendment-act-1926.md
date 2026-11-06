@@ -39,11 +39,11 @@ The [^c587812]Parks Regulation Act 1872 (hereinafter referred to as the principa
 
 . . . [^c587813]
 
-## 2. Power to make regulations.[^c587815][^key-a0d4b463f236dd9bfa79a20a8fea97b2][^c587814]
+## 2. Power to make regulations.[^c587815][^c-a0d4b463f236dd9bfa79a20a8fea97b2][^c587814]
 
 (1) Subject to the provisions of this Act, the Commissioners of Works may make such regulations to be observed by persons using any park to which the principal Act applies, as they consider necessary for securing the proper management of the park, and the preservation of order and prevention of abuses therein, and if any person fails to comply with, or acts in contravention of, any regulations so made, he shall be guilty of an offence against the principal Act and shall be liable on conviction thereof by a court of summary jurisdiction to a penalty not exceeding level 1 on the standard scale[^c587816].
 
-(1A (Extent: E+W))[^key-dda70dc779e112f2eec481d47429e374] Regulations under subsection (1) may include provision applying (with any necessary modifications) sections 4 to 6 of the Royal Parks (Trading) Act 2000 (seizure, retention, disposal and forfeiture of property) in relation to offences under that subsection that are not park trading offences for the purposes of that Act. *(Extent: E+W)*
+(1A (Extent: E+W))[^c-dda70dc779e112f2eec481d47429e374] Regulations under subsection (1) may include provision applying (with any necessary modifications) sections 4 to 6 of the Royal Parks (Trading) Act 2000 (seizure, retention, disposal and forfeiture of property) in relation to offences under that subsection that are not park trading offences for the purposes of that Act. *(Extent: E+W)*
 
 (2) Before any regulation made under this Act comes into operation, a draft thereof shall be laid before each House of Parliament for a period of not less than twenty-one days on which that House has sat, and if either House before the expiration of that period presents an Address to His Majesty against the draft or any part thereof, no further proceedings shall be taken thereon, but without prejudice to the making of any new draft regulation.
 
@@ -87,13 +87,13 @@ Now, therefore, this Act shall apply to the Royal Botanic Gardens, Kew, as if re
 
 [^c587815]: Modification: S. 2 modified (E.W.)(20.7.2000) by [2000 c. 13](https://www.legislation.gov.uk/ukpga/2000/13), [ss. 1](https://www.legislation.gov.uk/ukpga/2000/13/section/1), [2](https://www.legislation.gov.uk/ukpga/2000/13/section/2)
 
-[^key-a0d4b463f236dd9bfa79a20a8fea97b2]: Modification: S. 2 applied (E.W.) (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 162(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/162/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(z)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/z)
+[^c-a0d4b463f236dd9bfa79a20a8fea97b2]: Modification: S. 2 applied (E.W.) (1.7.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 162(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/162/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(z)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/z)
 
 [^c587814]: Modification: S. 2 extended by [Road Traffic Regulation Act 1984 (c. 27, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1984/27), [s. 62](https://www.legislation.gov.uk/ukpga/1984/27/section/62)
 
 [^c587816]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F) 289G
 
-[^key-dda70dc779e112f2eec481d47429e374]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukpga/Geo5/16-17/36/section/2/1A) inserted (E.W.) (19.12.2011) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 150(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/150/1), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/2834](https://www.legislation.gov.uk/uksi/2011/2834), [art. 2(j)](https://www.legislation.gov.uk/uksi/2011/2834/article/2/j)
+[^c-dda70dc779e112f2eec481d47429e374]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukpga/Geo5/16-17/36/section/2/1A) inserted (E.W.) (19.12.2011) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 150(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/150/1), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/2834](https://www.legislation.gov.uk/uksi/2011/2834), [art. 2(j)](https://www.legislation.gov.uk/uksi/2011/2834/article/2/j)
 
 [^c587817]: Marginal citation: [1868 c. 37](https://www.legislation.gov.uk/ukpga/1868/37).
 

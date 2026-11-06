@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Application for compulsory treatment order: notification[^key-4e85ff7095dfcc75b88c0d27b994529e]
+## 60. Application for compulsory treatment order: notification[^c-4e85ff7095dfcc75b88c0d27b994529e]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e85ff7095dfcc75b88c0d27b994529e]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2003/13/section/60) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-4e85ff7095dfcc75b88c0d27b994529e]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2003/13/section/60) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

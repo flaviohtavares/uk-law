@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Entitlement to state pension at transitional rate[^key-08c5fed955c265c7fabc45f0515633e0]
+## 4. Entitlement to state pension at transitional rate[^c-08c5fed955c265c7fabc45f0515633e0]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) the person has at least the minimum number of qualifying years, and
 - (c) the person has at least one pre-commencement qualifying year.
 
-(2)[^key-be9df7b47b6846f9c135c33b64ed36e8] The minimum number of qualifying years for a state pension payable at the transitional rate is to be specified in regulations and may not be more than 10.
+(2)[^c-be9df7b47b6846f9c135c33b64ed36e8] The minimum number of qualifying years for a state pension payable at the transitional rate is to be specified in regulations and may not be more than 10.
 
 (3) A person entitled to a state pension payable at the transitional rate is not entitled to a state pension under section 2.
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-08c5fed955c265c7fabc45f0515633e0]: Commencement: S. 4 in force at 6.4.2016 so far as not brought into force earlier by an order, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
+[^c-08c5fed955c265c7fabc45f0515633e0]: Commencement: S. 4 in force at 6.4.2016 so far as not brought into force earlier by an order, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
 
-[^key-be9df7b47b6846f9c135c33b64ed36e8]: Commencement: S. 4(2) in force at 5.2.2015 for specified purposes by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/134/article/2/1)[(4)(b)](https://www.legislation.gov.uk/uksi/2015/134/article/2/4/b)
+[^c-be9df7b47b6846f9c135c33b64ed36e8]: Commencement: S. 4(2) in force at 5.2.2015 for specified purposes by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/134/article/2/1)[(4)(b)](https://www.legislation.gov.uk/uksi/2015/134/article/2/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Amendment of regulation 8A (additional information and publicity)[^key-d165120dbed60dcda8479d0d2d4f3600]
+## 53. Amendment of regulation 8A (additional information and publicity)[^c-d165120dbed60dcda8479d0d2d4f3600]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In regulation 8A—
 
 ## Annotations
 
-[^key-d165120dbed60dcda8479d0d2d4f3600]: Commencement: Reg. 53 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-d165120dbed60dcda8479d0d2d4f3600]: Commencement: Reg. 53 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

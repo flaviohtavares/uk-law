@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Inheritance (Provision for Family and Dependants) (Northern Ireland) Order 1979[^key-9b62c11036ffa2f936f3aed244bf3973]
+## 137. Inheritance (Provision for Family and Dependants) (Northern Ireland) Order 1979[^c-9b62c11036ffa2f936f3aed244bf3973]
 
 *Extent: N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9b62c11036ffa2f936f3aed244bf3973]: Commencement: Reg. 137 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-9b62c11036ffa2f936f3aed244bf3973]: Commencement: Reg. 137 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00223]: Footnote: [S.I. 1979/924 (N.I.8)](https://www.legislation.gov.uk/nisi/1979/924).

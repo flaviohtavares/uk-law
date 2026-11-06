@@ -35,50 +35,50 @@ laying down a standardised presentation format for the insurance product informa
 
 (Text with EEA relevance) (revoked)
 
-[^key-e6694cc191dd20505c44d45bd573c3b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e6694cc191dd20505c44d45bd573c3b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Name and company logo of the manufacturer[^key-e6694cc191dd20505c44d45bd573c3b6]
+## Article 1. Name and company logo of the manufacturer[^c-e6694cc191dd20505c44d45bd573c3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Reference to complete pre-contractual and contractual information[^key-e6694cc191dd20505c44d45bd573c3b6]
+## Article 2. Reference to complete pre-contractual and contractual information[^c-e6694cc191dd20505c44d45bd573c3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Length[^key-e6694cc191dd20505c44d45bd573c3b6]
+## Article 3. Length[^c-e6694cc191dd20505c44d45bd573c3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Presentation and order of content[^key-e6694cc191dd20505c44d45bd573c3b6]
+## Article 4. Presentation and order of content[^c-e6694cc191dd20505c44d45bd573c3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Plain language[^key-e6694cc191dd20505c44d45bd573c3b6]
+## Article 5. Plain language[^c-e6694cc191dd20505c44d45bd573c3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Headings and information thereunder[^key-e6694cc191dd20505c44d45bd573c3b6]
+## Article 6. Headings and information thereunder[^c-e6694cc191dd20505c44d45bd573c3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Use of icons[^key-e6694cc191dd20505c44d45bd573c3b6]
+## Article 7. Use of icons[^c-e6694cc191dd20505c44d45bd573c3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-e6694cc191dd20505c44d45bd573c3b6]
+## Article 8. Entry into force[^c-e6694cc191dd20505c44d45bd573c3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e6694cc191dd20505c44d45bd573c3b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e6694cc191dd20505c44d45bd573c3b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-e6694cc191dd20505c44d45bd573c3b6]
+## ANNEX[^c-e6694cc191dd20505c44d45bd573c3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e6694cc191dd20505c44d45bd573c3b6]: Textual amendment: Regulation revoked (5.4.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/d/ii)
+[^c-e6694cc191dd20505c44d45bd573c3b6]: Textual amendment: Regulation revoked (5.4.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/d/ii)

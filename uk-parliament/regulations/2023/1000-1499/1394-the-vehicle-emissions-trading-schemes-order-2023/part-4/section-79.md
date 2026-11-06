@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Preparation and notification of final information[^key-63a94fd2b6e9e5e85d26f511217b2309]
+## 79. Preparation and notification of final information[^c-63a94fd2b6e9e5e85d26f511217b2309]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ On or before 31st October of each year following a scheme year, the administrato
 
 ## Annotations
 
-[^key-63a94fd2b6e9e5e85d26f511217b2309]: Commencement: Art. 79 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-63a94fd2b6e9e5e85d26f511217b2309]: Commencement: Art. 79 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

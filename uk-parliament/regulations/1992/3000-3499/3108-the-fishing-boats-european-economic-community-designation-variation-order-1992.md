@@ -32,7 +32,7 @@ SEA FISHERIES
 
 FISHERY LIMITS
 
-[^key-dd7e2ffed7799e1bf616ae4f98e69ed9]The Fishing Boats (European Economic Community) Designation (Variation) Order 1992 (revoked)
+[^c-dd7e2ffed7799e1bf616ae4f98e69ed9]The Fishing Boats (European Economic Community) Designation (Variation) Order 1992 (revoked)
 
 Made
 
@@ -64,4 +64,4 @@ Coming into force
 
 ## Annotations
 
-[^key-dd7e2ffed7799e1bf616ae4f98e69ed9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1992/3108) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 paras. 3(1)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/1), [4(g)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/4/g) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-dd7e2ffed7799e1bf616ae4f98e69ed9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1992/3108) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 paras. 3(1)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/1), [4(g)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/4/g) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

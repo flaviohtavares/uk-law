@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Removal of limitations on Greater London Authority's general power[^key-2797d06ecbb474e19e704eb8ee653682][^key-37f94d1871a77acd8b082c690ba1d4e8]
+## 186. Removal of limitations on Greater London Authority's general power[^c-2797d06ecbb474e19e704eb8ee653682][^c-37f94d1871a77acd8b082c690ba1d4e8]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2797d06ecbb474e19e704eb8ee653682]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2011/20/section/186) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(u)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/u) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-2797d06ecbb474e19e704eb8ee653682]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2011/20/section/186) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(u)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/u) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-37f94d1871a77acd8b082c690ba1d4e8]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2011/20/section/186) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(e)](https://www.legislation.gov.uk/uksi/2012/628/article/6/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-37f94d1871a77acd8b082c690ba1d4e8]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2011/20/section/186) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(e)](https://www.legislation.gov.uk/uksi/2012/628/article/6/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

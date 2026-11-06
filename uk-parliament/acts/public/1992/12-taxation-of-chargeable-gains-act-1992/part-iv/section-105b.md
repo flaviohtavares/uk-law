@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105B. Provision supplementary to section 105A[^key-073d0ce2ce81c943adb1fe43b4927e27][^key-387b5e61a4dd333cbabbc2d90f09c7b6]
+## 105B. Provision supplementary to section 105A[^c-073d0ce2ce81c943adb1fe43b4927e27][^c-387b5e61a4dd333cbabbc2d90f09c7b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ For this purpose “**ordinary shares**” has the meaning given in section 151A
 
 (6) For the purposes of section 105A, shares in a company shall not be treated as being of the same class unless they are so treated by the practice of a recognised stock exchange, or would be so treated if dealt with on that recognised stock exchange.
 
-(7) In section 105A(2) to (5) and subsections (2) to (4) above, any reference to the relevant shares or to the tax-advantaged-scheme[^key-cc71e0b7f716b14b5c0470fee8a2a2c0] shares includes a reference to the securities (if any) directly or indirectly derived from the shares in question by virtue of one or more applications of section 127 (including that section as applied by virtue of any enactment relating to chargeable gains).
+(7) In section 105A(2) to (5) and subsections (2) to (4) above, any reference to the relevant shares or to the tax-advantaged-scheme[^c-cc71e0b7f716b14b5c0470fee8a2a2c0] shares includes a reference to the securities (if any) directly or indirectly derived from the shares in question by virtue of one or more applications of section 127 (including that section as applied by virtue of any enactment relating to chargeable gains).
 
 (8) In this section—
 
@@ -55,8 +55,8 @@ and in subsection (4) the reference to section 128(3) includes a reference to th
 
 ## Annotations
 
-[^key-073d0ce2ce81c943adb1fe43b4927e27]: Modification: Ss. 104-114 modified (6.4.1999) by [The Individual Savings Account Regulations 1998 (S.I. 1998/1870)](https://www.legislation.gov.uk/uksi/1998/1870), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1870/regulation/1), [34(2)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/34/2) (as amended (6.4.2008) by [S.I. 2008/704](https://www.legislation.gov.uk/uksi/2008/704), [regs. 1](https://www.legislation.gov.uk/uksi/2008/704/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2008/704/regulation/15/2), (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 87](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/87), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89))
+[^c-073d0ce2ce81c943adb1fe43b4927e27]: Modification: Ss. 104-114 modified (6.4.1999) by [The Individual Savings Account Regulations 1998 (S.I. 1998/1870)](https://www.legislation.gov.uk/uksi/1998/1870), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1870/regulation/1), [34(2)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/34/2) (as amended (6.4.2008) by [S.I. 2008/704](https://www.legislation.gov.uk/uksi/2008/704), [regs. 1](https://www.legislation.gov.uk/uksi/2008/704/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2008/704/regulation/15/2), (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 87](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/87), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89))
 
-[^key-387b5e61a4dd333cbabbc2d90f09c7b6]: Textual amendment: Ss. 105A, 105B inserted (with effect in accordance with s. 50(2)-(4) of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/50/1)
+[^c-387b5e61a4dd333cbabbc2d90f09c7b6]: Textual amendment: Ss. 105A, 105B inserted (with effect in accordance with s. 50(2)-(4) of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/50/1)
 
-[^key-cc71e0b7f716b14b5c0470fee8a2a2c0]: Textual amendment: Words in s. 105B(7)(8) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 123](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/123), [146](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/146) (with [Sch. 8 paras. 147-157](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/147))
+[^c-cc71e0b7f716b14b5c0470fee8a2a2c0]: Textual amendment: Words in s. 105B(7)(8) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 123](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/123), [146](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/146) (with [Sch. 8 paras. 147-157](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/147))

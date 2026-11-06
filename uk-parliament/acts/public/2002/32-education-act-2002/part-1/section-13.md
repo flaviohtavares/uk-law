@@ -32,7 +32,7 @@ summary: ''
 
 but does not include higher education.
 
-(3) In this section “**company**” means a company as defined in section 1(1) of the Companies Act 2006[^key-c850535c3e71afce93044b84e207cdd4].
+(3) In this section “**company**” means a company as defined in section 1(1) of the Companies Act 2006[^c-c850535c3e71afce93044b84e207cdd4].
 
 (4) The reference in subsection (1) to investing in a company includes a reference to becoming a member of the company and to investing in it by the acquisition of any assets, securities or rights or otherwise.
 
@@ -40,4 +40,4 @@ but does not include higher education.
 
 ## Annotations
 
-[^key-c850535c3e71afce93044b84e207cdd4]: Textual amendment: Words in s. 13(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 198(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/198/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-c850535c3e71afce93044b84e207cdd4]: Textual amendment: Words in s. 13(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 198(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/198/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

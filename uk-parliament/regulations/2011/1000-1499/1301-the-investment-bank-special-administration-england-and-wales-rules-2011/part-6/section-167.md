@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 167. Payments of a periodical nature[^key-94884a47dfa37d555f3a3ae6c4bd7a77]
+## 167. Payments of a periodical nature[^c-94884a47dfa37d555f3a3ae6c4bd7a77]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94884a47dfa37d555f3a3ae6c4bd7a77]: Commencement: [Rule 167](https://www.legislation.gov.uk/uksi/2011/1301/rule/167) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-94884a47dfa37d555f3a3ae6c4bd7a77]: Commencement: [Rule 167](https://www.legislation.gov.uk/uksi/2011/1301/rule/167) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

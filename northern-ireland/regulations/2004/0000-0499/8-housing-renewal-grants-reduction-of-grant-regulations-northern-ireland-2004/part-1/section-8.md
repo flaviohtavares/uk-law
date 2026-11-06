@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Remunerative work[^key-bca083dadf428b02ca0719d84b5c73ba]
+## 8. Remunerative work[^c-bca083dadf428b02ca0719d84b5c73ba]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bca083dadf428b02ca0719d84b5c73ba]: Commencement: Reg. 8 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-bca083dadf428b02ca0719d84b5c73ba]: Commencement: Reg. 8 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

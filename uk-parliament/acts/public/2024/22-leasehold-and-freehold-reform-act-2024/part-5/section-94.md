@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Estate management: sales information requests[^key-1758ef4edd40c16e5d0a0d4fd008ac68]
+## 94. Estate management: sales information requests[^c-1758ef4edd40c16e5d0a0d4fd008ac68]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1758ef4edd40c16e5d0a0d4fd008ac68]: Commencement: S. 94 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-1758ef4edd40c16e5d0a0d4fd008ac68]: Commencement: S. 94 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

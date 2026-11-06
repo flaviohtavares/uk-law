@@ -22,7 +22,7 @@ summary: ''
 
 Articles 32 and 39
 
-**1.**[^key-a22bb96046c437da9b7690496fc4f630] (1) Sections 271 to 274[^f00046] of the 1990 Act (power to extinguish rights of statutory undertakers etc. and power of statutory undertakers etc. to remove or re-site apparatus) apply in relation to any land acquired or appropriated by Network Rail under this Order subject to the following provisions of this paragraph; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282[^f00047], which provide for the payment of compensation) have effect accordingly.
+**1.**[^c-a22bb96046c437da9b7690496fc4f630] (1) Sections 271 to 274[^f00046] of the 1990 Act (power to extinguish rights of statutory undertakers etc. and power of statutory undertakers etc. to remove or re-site apparatus) apply in relation to any land acquired or appropriated by Network Rail under this Order subject to the following provisions of this paragraph; and all such other provisions of that Act as apply for the purposes of those provisions (including sections 275 to 278, which contain provisions consequential on the extinguishment of any rights under sections 271 and 272, and sections 279(2) to (4), 280 and 282[^f00047], which provide for the payment of compensation) have effect accordingly.
 
 (2) In the provisions of the 1990 Act, as applied by sub-paragraph (1), references to the appropriate Minister are references to the Secretary of State.
 
@@ -44,7 +44,7 @@ is entitled to recover from Network Rail compensation in respect of expenditure 
 
 ### Apparatus of statutory undertakers etc. in stopped up streets
 
-**2.**[^key-84e81dff1cfd6a61011a26dd701e6582] (1) Where a street is stopped up under article 11 (stopping up of streets) any statutory utility whose apparatus is under, in, upon, along or across the street has the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
+**2.**[^c-84e81dff1cfd6a61011a26dd701e6582] (1) Where a street is stopped up under article 11 (stopping up of streets) any statutory utility whose apparatus is under, in, upon, along or across the street has the same powers and rights in respect of that apparatus, subject to the provisions of this paragraph, as if this Order had not been made.
 
 (2) Where a street is stopped up under article 11 any statutory utility whose apparatus is under, in, upon, over, along or across the street may, and if reasonably requested to do so by Network Rail must—
 
@@ -83,7 +83,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-a22bb96046c437da9b7690496fc4f630]: Commencement: Sch. 11 para. 1 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-a22bb96046c437da9b7690496fc4f630]: Commencement: Sch. 11 para. 1 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
 
 [^f00046]: Footnote: Sections 272 to 274 were amended by paragraph 103(1) and (2) of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
@@ -91,4 +91,4 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 [^f00048]: Footnote: The definition of “public utility undertakers” was amended by section 190(3) of, and part 1 of Schedule 27 to, the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15) and section 112(4) of, and Schedule 18 to, the Electricity Act [1989 (c. 29)](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-84e81dff1cfd6a61011a26dd701e6582]: Commencement: Sch. 11 para. 2 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-84e81dff1cfd6a61011a26dd701e6582]: Commencement: Sch. 11 para. 2 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)

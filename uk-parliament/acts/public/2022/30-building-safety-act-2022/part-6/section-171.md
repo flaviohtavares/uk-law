@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Short title[^key-7ccb7b15d6b8a3b622757db1e331dd84]
+## 171. Short title[^c-7ccb7b15d6b8a3b622757db1e331dd84]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Building Safety Act 2022.
 
 ## Annotations
 
-[^key-7ccb7b15d6b8a3b622757db1e331dd84]: Commencement: S. 171 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)
+[^c-7ccb7b15d6b8a3b622757db1e331dd84]: Commencement: S. 171 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)

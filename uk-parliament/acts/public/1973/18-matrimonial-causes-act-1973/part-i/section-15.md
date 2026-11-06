@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Application of sections 8 and 9 to proceedings for a nullity of marriage order[^key-6cd4461a59d321da2e671057ee4fd2a7]
+## 15. Application of sections 8 and 9 to proceedings for a nullity of marriage order[^c-6cd4461a59d321da2e671057ee4fd2a7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Section 8 (intervention of Queen's Proctor) and section 9 (proceedings before di
 
 ## Annotations
 
-[^key-6cd4461a59d321da2e671057ee4fd2a7]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/1973/18/section/15) substituted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/14) (with [s. 8(6)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/6)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-6cd4461a59d321da2e671057ee4fd2a7]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/1973/18/section/15) substituted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/14) (with [s. 8(6)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/6)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

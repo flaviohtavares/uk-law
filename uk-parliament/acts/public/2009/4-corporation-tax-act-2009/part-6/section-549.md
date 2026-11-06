@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 549. Meaning of debtor quasi-repo[^key-d1b0680d85a5a65c26c95eddc2cfa96c]
+## 549. Meaning of debtor quasi-repo[^c-d1b0680d85a5a65c26c95eddc2cfa96c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) Condition B is that, in accordance with generally accepted accounting practice, the accounts of the borrower for the period in which the advance is received record a financial liability in respect of the advance.
 
-(4) Condition C is that under that or any other arrangement the borrower or any other person[^key-beee24b5f225b502259c13c6b7968efa] sells any securities at any time.
+(4) Condition C is that under that or any other arrangement the borrower or any other person[^c-beee24b5f225b502259c13c6b7968efa] sells any securities at any time.
 
 (5) Condition D is that the arrangement or other arrangement—
 
@@ -52,6 +52,6 @@ would extinguish the financial liability in respect of the advance recorded in t
 
 ## Annotations
 
-[^key-d1b0680d85a5a65c26c95eddc2cfa96c]: Modification: S. 549 applied by 2010 c. 4, s. 938I(3) (as inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/2))
+[^c-d1b0680d85a5a65c26c95eddc2cfa96c]: Modification: S. 549 applied by 2010 c. 4, s. 938I(3) (as inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/11/schedule/5/paragraph/2))
 
-[^key-beee24b5f225b502259c13c6b7968efa]: Textual amendment: Words in s. 549(4) inserted (1.4.2009 retrospective) by [Corporation Tax Act 2009 (Amendment) Order 2009 (S.I. 2009/2860)](https://www.legislation.gov.uk/uksi/2009/2860), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/2860/article/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2009/2860/article/6/5)
+[^c-beee24b5f225b502259c13c6b7968efa]: Textual amendment: Words in s. 549(4) inserted (1.4.2009 retrospective) by [Corporation Tax Act 2009 (Amendment) Order 2009 (S.I. 2009/2860)](https://www.legislation.gov.uk/uksi/2009/2860), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/2860/article/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2009/2860/article/6/5)

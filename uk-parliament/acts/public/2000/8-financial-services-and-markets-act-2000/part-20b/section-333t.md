@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 333T. Funding of action against illegal money lending[^key-8e0c8441769702c3a6785fb588ee58ec]
+## 333T. Funding of action against illegal money lending[^c-8e0c8441769702c3a6785fb588ee58ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e0c8441769702c3a6785fb588ee58ec]: Textual amendment: Pt. 20B inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/29/2), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(w)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/w)
+[^c-8e0c8441769702c3a6785fb588ee58ec]: Textual amendment: Pt. 20B inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/29/2), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(w)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/w)

@@ -36,13 +36,13 @@ summary: ''
 - (b) section 39(3) and (6)(d) and paragraph 7 of Schedule 7;
 - (c) sections 63 to 68 and Schedule 14;
 - (d) section 76;
-- (e) section 85(6) to (7B)[^key-c98b87dc7730f6ad7102699fab72ddaa] (so far as relating to any provision of Part 3 of the Magistrates' Courts Act 1980 which extends to Northern Ireland);
+- (e) section 85(6) to (7B)[^c-c98b87dc7730f6ad7102699fab72ddaa] (so far as relating to any provision of Part 3 of the Magistrates' Courts Act 1980 which extends to Northern Ireland);
 - (f) sections 86 and 90 to 92 and Schedules 18 and 19.
 
 (4) The following provisions of this Act extend to Northern Ireland only—
 
 - (a) sections 82 and 83;
-- (b) sections 87, 88 and 89(1) to (5)[^key-ca2f8e54768e30b929f43fe4da6c2d2e];
+- (b) sections 87, 88 and 89(1) to (5)[^c-ca2f8e54768e30b929f43fe4da6c2d2e];
 - (c) section 122 and Schedule 21.
 
 (5) Except as otherwise provided by this Act, an amendment, repeal or revocation of any enactment by any provision of this Act extends to the part or parts of the United Kingdom to which the enactment extends.
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c98b87dc7730f6ad7102699fab72ddaa]: Textual amendment: Words in s. 152(3)(e) substituted (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [Sch. 3 para. 15(a)](https://www.legislation.gov.uk/uksi/2014/3141/schedule/3/paragraph/15/a)
+[^c-c98b87dc7730f6ad7102699fab72ddaa]: Textual amendment: Words in s. 152(3)(e) substituted (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [Sch. 3 para. 15(a)](https://www.legislation.gov.uk/uksi/2014/3141/schedule/3/paragraph/15/a)
 
-[^key-ca2f8e54768e30b929f43fe4da6c2d2e]: Textual amendment: Words in s. 152(4)(b) substituted (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [Sch. 3 para. 15(b)](https://www.legislation.gov.uk/uksi/2014/3141/schedule/3/paragraph/15/b)
+[^c-ca2f8e54768e30b929f43fe4da6c2d2e]: Textual amendment: Words in s. 152(4)(b) substituted (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [Sch. 3 para. 15(b)](https://www.legislation.gov.uk/uksi/2014/3141/schedule/3/paragraph/15/b)

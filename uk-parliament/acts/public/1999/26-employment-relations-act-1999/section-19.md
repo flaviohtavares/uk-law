@@ -41,7 +41,7 @@ summary: ''
 - (h) include supplemental, incidental, consequential and transitional provision, including provision amending an enactment;
 - (i) make different provision for different cases or circumstances.
 
-(4)[^key-213bd46d8bf8b2623c5347b35d120879] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-213bd46d8bf8b2623c5347b35d120879] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Regulations under this section which create an offence—
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c12486311]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-213bd46d8bf8b2623c5347b35d120879]: Textual amendment: S. 19(4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/4) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-213bd46d8bf8b2623c5347b35d120879]: Textual amendment: S. 19(4) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/4) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

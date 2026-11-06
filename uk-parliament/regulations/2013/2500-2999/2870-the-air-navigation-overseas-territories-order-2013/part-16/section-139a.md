@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139A. Fatigue of air traffic controllers – air traffic control service provider’s responsibilities[^key-5a4daad1719536261bf630dfa09633ad]
+## 139A. Fatigue of air traffic controllers – air traffic control service provider’s responsibilities[^c-5a4daad1719536261bf630dfa09633ad]
 
 *Extent: E+W+S+N.I.*
 
-(1) Save in respect of a Flight Information Services Officer, the[^key-90f25a07a38af5c1bdeb7a3afeb49043] holder of an approval under article 138 (“the approved provider”) must establish a fatigue management scheme.
+(1) Save in respect of a Flight Information Services Officer, the[^c-90f25a07a38af5c1bdeb7a3afeb49043] holder of an approval under article 138 (“the approved provider”) must establish a fatigue management scheme.
 
 (2) A fatigue management scheme must—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a4daad1719536261bf630dfa09633ad]: Textual amendment: [Art. 139A](https://www.legislation.gov.uk/uksi/2013/2870/article/139A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2021/755/article/15/2)
+[^c-5a4daad1719536261bf630dfa09633ad]: Textual amendment: [Art. 139A](https://www.legislation.gov.uk/uksi/2013/2870/article/139A) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2021/755/article/15/2)
 
-[^key-90f25a07a38af5c1bdeb7a3afeb49043]: Textual amendment: Words in [art. 139A(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/139A/1) substituted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [10](https://www.legislation.gov.uk/uksi/2024/384/article/10)
+[^c-90f25a07a38af5c1bdeb7a3afeb49043]: Textual amendment: Words in [art. 139A(1)](https://www.legislation.gov.uk/uksi/2013/2870/article/139A/1) substituted (10.4.2024) by [The Air Navigation (Overseas Territories) (Amendment) Order 2024 (S.I. 2024/384)](https://www.legislation.gov.uk/uksi/2024/384), [arts. 1](https://www.legislation.gov.uk/uksi/2024/384/article/1), [10](https://www.legislation.gov.uk/uksi/2024/384/article/10)

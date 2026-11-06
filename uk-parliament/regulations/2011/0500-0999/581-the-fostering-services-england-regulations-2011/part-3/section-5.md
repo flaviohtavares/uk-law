@@ -35,11 +35,11 @@ summary: ''
 
 (3) A person may not carry on a fostering agency if that person—
 
-- (a) has been made[^key-f0e12c5d7bdde9566992ca1d754f44a1] bankrupt or sequestration of their estate has been awarded and (in either case) they have not been discharged and the bankruptcy order has not been annulled or rescinded, or a moratorium period under a debt relief order (within the meaning of section 251A of the Insolvency Act 1986 [^c20747301]) applies in relation to them, or
+- (a) has been made[^c-f0e12c5d7bdde9566992ca1d754f44a1] bankrupt or sequestration of their estate has been awarded and (in either case) they have not been discharged and the bankruptcy order has not been annulled or rescinded, or a moratorium period under a debt relief order (within the meaning of section 251A of the Insolvency Act 1986 [^c20747301]) applies in relation to them, or
 - (b) has made a composition arrangement with their creditors and has not been discharged in respect of it.
 
 ## Annotations
 
-[^key-f0e12c5d7bdde9566992ca1d754f44a1]: Textual amendment: Word in reg. 5(3)(a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-f0e12c5d7bdde9566992ca1d754f44a1]: Textual amendment: Word in reg. 5(3)(a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
 [^c20747301]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Section 251A was inserted by section 108(1) of, and Schedule 17 to, the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).

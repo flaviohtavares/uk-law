@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Amendment of regulation 63 (accelerated applications)[^key-36d923f7eb9759e25210f924334fbe6e]
+## 31. Amendment of regulation 63 (accelerated applications)[^c-36d923f7eb9759e25210f924334fbe6e]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In regulation 63 (accelerated applications)—
 
 ## Annotations
 
-[^key-36d923f7eb9759e25210f924334fbe6e]: Commencement: Reg. 31 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-36d923f7eb9759e25210f924334fbe6e]: Commencement: Reg. 31 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

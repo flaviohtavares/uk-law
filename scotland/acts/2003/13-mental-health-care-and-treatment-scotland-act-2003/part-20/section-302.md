@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 302. Absconding etc. by other patients[^key-3352e9e60301cda3604080ca498a566b][^key-9bada11e2c099a2ea6420cbc37c256aa][^key-b6cd55f13e1ef464d5d6394dd06fc3b4][^key-47553d3cfbf90da73085fe19afad27ab]
+## 302. Absconding etc. by other patients[^c-3352e9e60301cda3604080ca498a566b][^c-9bada11e2c099a2ea6420cbc37c256aa][^c-b6cd55f13e1ef464d5d6394dd06fc3b4][^c-47553d3cfbf90da73085fe19afad27ab]
 
 *Extent: S*
 
@@ -68,10 +68,10 @@ and who absconds from the charge of that authorised person or otherwise fails to
 
 ## Annotations
 
-[^key-3352e9e60301cda3604080ca498a566b]: Commencement: [S. 302](https://www.legislation.gov.uk/asp/2003/13/section/302) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-3352e9e60301cda3604080ca498a566b]: Commencement: [S. 302](https://www.legislation.gov.uk/asp/2003/13/section/302) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
 
-[^key-9bada11e2c099a2ea6420cbc37c256aa]: Modification: Ss. 301-303 applied (with modifications) (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [22](https://www.legislation.gov.uk/ssi/2005/467/regulation/22) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
+[^c-9bada11e2c099a2ea6420cbc37c256aa]: Modification: Ss. 301-303 applied (with modifications) (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [22](https://www.legislation.gov.uk/ssi/2005/467/regulation/22) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
 
-[^key-b6cd55f13e1ef464d5d6394dd06fc3b4]: Modification: [S. 302](https://www.legislation.gov.uk/asp/2003/13/section/302) applied (with modifications) (7.5.2008) by [Mental Health (Cross-border Visits) (Scotland) Regulations 2008 (S.S.I. 2008/181)](https://www.legislation.gov.uk/ssi/2008/181), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/181/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/ssi/2008/181/regulation/2/1/b)
+[^c-b6cd55f13e1ef464d5d6394dd06fc3b4]: Modification: [S. 302](https://www.legislation.gov.uk/asp/2003/13/section/302) applied (with modifications) (7.5.2008) by [Mental Health (Cross-border Visits) (Scotland) Regulations 2008 (S.S.I. 2008/181)](https://www.legislation.gov.uk/ssi/2008/181), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/181/regulation/1/1), [2(1)(b)](https://www.legislation.gov.uk/ssi/2008/181/regulation/2/1/b)
 
-[^key-47553d3cfbf90da73085fe19afad27ab]: Modification: [S. 302](https://www.legislation.gov.uk/asp/2003/13/section/302) applied (with modifications) (2.10.2008) by [Mental Health (Absconding Patients from Other Jurisdictions) (Scotland) Regulations 2008 (S.S.I. 2008/333)](https://www.legislation.gov.uk/ssi/2008/333), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/333/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2008/333/regulation/4), [5](https://www.legislation.gov.uk/ssi/2008/333/regulation/5)
+[^c-47553d3cfbf90da73085fe19afad27ab]: Modification: [S. 302](https://www.legislation.gov.uk/asp/2003/13/section/302) applied (with modifications) (2.10.2008) by [Mental Health (Absconding Patients from Other Jurisdictions) (Scotland) Regulations 2008 (S.S.I. 2008/333)](https://www.legislation.gov.uk/ssi/2008/333), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/333/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2008/333/regulation/4), [5](https://www.legislation.gov.uk/ssi/2008/333/regulation/5)

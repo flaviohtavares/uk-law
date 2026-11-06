@@ -41,13 +41,13 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 122(1)(a), 133(2)(b), 167D(1) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 8(4), 9(4) and 36(2) of, and paragraph 11(2) of Schedule 1 to, the Jobseekers (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-49873b06a3dcd544d26436905f2a348a]
+## 1. Citation, commencement and interpretation[^c-49873b06a3dcd544d26436905f2a348a]
 
 (1) These Regulations may be cited as the Social Security (Income Support and Jobseeker’s Allowance) (Amendment) Regulations (Northern Ireland) 2004 and shall come into operation on 4th October 2004.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-a2e81859ae543a5ebb95dc42a732be16]
+## 2. Amendment of the Income Support (General) Regulations[^c-a2e81859ae543a5ebb95dc42a732be16]
 
 In regulation 4 of the Income Support (General) Regulations (Northern Ireland) 1987[^f00005] (temporary absence from Northern Ireland), after paragraph (3)[^f00006] there shall be inserted the following paragraph –
 
@@ -61,13 +61,13 @@ In regulation 4 of the Income Support (General) Regulations (Northern Ireland) 1
 
 .
 
-## 3. Amendment of the Jobseeker’s Allowance Regulations[^key-8ed14f0dbc36b41ff51fb878c1b57d05]
+## 3. Amendment of the Jobseeker’s Allowance Regulations[^c-8ed14f0dbc36b41ff51fb878c1b57d05]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00011] shall be amended in accordance with paragraphs (2) to (6).
 
 (2) In regulation 14(1)[^f00012] (circumstances in which a person is to be treated as available) –
 
-- (a)[^key-4afacfebdcf102ad578641177a03618e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4afacfebdcf102ad578641177a03618e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after sub-paragraph (o)[^f00014] there shall be added the following sub-paragraph –
 
   > - (p) if he is temporarily absent from Northern Ireland in the circumstances prescribed by regulation 50(6AA)[^f00015] or, as the case may be, (6C)[^f00016].
@@ -167,11 +167,11 @@ These Regulations do not impose any charge on business.
 
 [^f00003]: Footnote: *See* Article 8(b) and Part II of Schedule 6 to, [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-49873b06a3dcd544d26436905f2a348a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/308/regulation/1) in operation at 4.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/308/regulation/1/1)
+[^c-49873b06a3dcd544d26436905f2a348a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/308/regulation/1) in operation at 4.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/308/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-a2e81859ae543a5ebb95dc42a732be16]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/308/regulation/2) in operation at 4.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/308/regulation/1/1)
+[^c-a2e81859ae543a5ebb95dc42a732be16]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/308/regulation/2) in operation at 4.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/308/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131)
 
@@ -185,13 +185,13 @@ These Regulations do not impose any charge on business.
 
 [^f00010]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194); paragraph 13 of Schedule 3 was amended by Schedule 1 to the Health and Personal Social Services (Northern Ireland) Order 1994 ([S.I. 1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429))
 
-[^key-8ed14f0dbc36b41ff51fb878c1b57d05]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/308/regulation/3) in operation at 4.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/308/regulation/1/1)
+[^c-8ed14f0dbc36b41ff51fb878c1b57d05]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/308/regulation/3) in operation at 4.10.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/308/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1997 No. 138](https://www.legislation.gov.uk/nisr/1997/138), [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350) and [S.R. 2001 No. 56](https://www.legislation.gov.uk/nisr/2001/56)
 
 [^f00012]: Footnote: Paragraph (1) was amended by regulation 2(2) of [S.R. 1997 No. 138](https://www.legislation.gov.uk/nisr/1997/138)
 
-[^key-4afacfebdcf102ad578641177a03618e]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/2004/308/regulation/3/2) revoked (30.3.2015) by [The Jobseeker’s Allowance (Extended Period of Sickness) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/138)](https://www.legislation.gov.uk/nisr/2015/138), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/138/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2015/138/regulation/5)
+[^c-4afacfebdcf102ad578641177a03618e]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/2004/308/regulation/3/2) revoked (30.3.2015) by [The Jobseeker’s Allowance (Extended Period of Sickness) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/138)](https://www.legislation.gov.uk/nisr/2015/138), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/138/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2015/138/regulation/5)
 
 [^f00014]: Footnote: Sub-paragraph (o) was inserted by regulation 2(2)(c) of [S.R. 2001 No. 56](https://www.legislation.gov.uk/nisr/2001/56)
 

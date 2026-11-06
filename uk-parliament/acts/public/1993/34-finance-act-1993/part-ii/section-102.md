@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Modification of Taxation of Chargeable Gains Act 1992.[^key-116afbe03e34d300d18c884ddd4a4a92]
+## 102. Modification of Taxation of Chargeable Gains Act 1992.[^c-116afbe03e34d300d18c884ddd4a4a92]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-116afbe03e34d300d18c884ddd4a4a92]: Textual amendment: [S. 102](https://www.legislation.gov.uk/ukpga/1993/34/section/102) repealed (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)
+[^c-116afbe03e34d300d18c884ddd4a4a92]: Textual amendment: [S. 102](https://www.legislation.gov.uk/ukpga/1993/34/section/102) repealed (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)

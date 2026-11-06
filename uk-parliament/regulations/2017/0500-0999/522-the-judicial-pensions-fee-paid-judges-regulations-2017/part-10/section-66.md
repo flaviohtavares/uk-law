@@ -42,7 +42,7 @@ summary: ''
 - (a) P is not married and is not in a civil partnership; and
 - (b) P does not have a qualifying child.
 
-(6) Condition B is that, on any day during the period beginning with the day on which P first held an eligible fee-paid judicial office [^key-03fa01e3b09a10a722e4dcf8b59993ed]... and ending with the day on which P retires—
+(6) Condition B is that, on any day during the period beginning with the day on which P first held an eligible fee-paid judicial office [^c-03fa01e3b09a10a722e4dcf8b59993ed]... and ending with the day on which P retires—
 
 - (a) P was married or was in a civil partnership, or
 - (b) P had a qualifying child.
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03fa01e3b09a10a722e4dcf8b59993ed]: Textual amendment: Words in [reg. 66(6)](https://www.legislation.gov.uk/uksi/2017/522/regulation/66/6) omitted (17.12.2024) by virtue of [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2024/1358/regulation/17)
+[^c-03fa01e3b09a10a722e4dcf8b59993ed]: Textual amendment: Words in [reg. 66(6)](https://www.legislation.gov.uk/uksi/2017/522/regulation/66/6) omitted (17.12.2024) by virtue of [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2024/1358/regulation/17)

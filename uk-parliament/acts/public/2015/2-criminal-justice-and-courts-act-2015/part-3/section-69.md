@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Jurors and electronic communications devices[^key-777fff215a39c5b880b2b4ad62c71f5b]
+## 69. Jurors and electronic communications devices[^c-777fff215a39c5b880b2b4ad62c71f5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ In the Juries Act 1974, after section 15 insert—
 
 ## Annotations
 
-[^key-777fff215a39c5b880b2b4ad62c71f5b]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2015/2/section/69) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/54)
+[^c-777fff215a39c5b880b2b4ad62c71f5b]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2015/2/section/69) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/54)

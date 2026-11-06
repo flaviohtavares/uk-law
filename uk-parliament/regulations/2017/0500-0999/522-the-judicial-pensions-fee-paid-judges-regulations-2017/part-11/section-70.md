@@ -23,8 +23,8 @@ summary: ''
 (1) In this Part—
 
 - “**authorised insurer**” means—
-  - (a) a person who has permission under Part 4A of the Financial Services and Markets Act 2000 [^c23060521] to effect or carry out contracts of long-term insurance (within the meaning of article 3(1) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c23060531]), [^key-b5e10fa44624f52e3c96a8f50d535111]...
-  - (b) [^key-b5e10fa44624f52e3c96a8f50d535111]...
+  - (a) a person who has permission under Part 4A of the Financial Services and Markets Act 2000 [^c23060521] to effect or carry out contracts of long-term insurance (within the meaning of article 3(1) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 [^c23060531]), [^c-b5e10fa44624f52e3c96a8f50d535111]...
+  - (b) [^c-b5e10fa44624f52e3c96a8f50d535111]...
 - “**last day of reckonable service**” has the meaning given in regulation 72;
 - “**market level adjustment**” has the meaning given in regulation 78;
 - “**normal pension age**” means the earliest age at which, if a person's qualifying judicial service had continued until retirement at that age, a member might have been entitled to receive a pension under the principal scheme, otherwise than by reason of meeting the ill-health certification condition;
@@ -51,7 +51,7 @@ summary: ''
 
 [^c23060531]: Textual amendment: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544), to which there are amendments not relevant to these Regulations.
 
-[^key-b5e10fa44624f52e3c96a8f50d535111]: Textual amendment: Words in [reg. 70(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/70/1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 90](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/90) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b5e10fa44624f52e3c96a8f50d535111]: Textual amendment: Words in [reg. 70(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/70/1) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 90](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/90) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23060551]: Textual amendment: 1993 (c. 48). Section 1 was amended by section 239 of the [Pensions Act 2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35); [paragraph 23(1)](https://www.legislation.gov.uk/uksi/2017/522/paragraph/23/1) of Schedule 20, and Part 3(2) of Schedule 27 to the [Finance Act 2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11); [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820) and [S.I. 2007/3014](https://www.legislation.gov.uk/uksi/2007/3014).
 

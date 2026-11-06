@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. New administrator appointed[^key-69e7d3164cb684cfebd56154c28dc928]
+## 102. New administrator appointed[^c-69e7d3164cb684cfebd56154c28dc928]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69e7d3164cb684cfebd56154c28dc928]: Commencement: Rule 102 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-69e7d3164cb684cfebd56154c28dc928]: Commencement: Rule 102 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

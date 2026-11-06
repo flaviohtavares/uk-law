@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Acknowledgement and notification of application by tribunal[^key-9a9d06222f3e4f05fa5c5d51b66861ea]
+## 8. Acknowledgement and notification of application by tribunal[^c-9a9d06222f3e4f05fa5c5d51b66861ea]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a9d06222f3e4f05fa5c5d51b66861ea]: Commencement: Reg. 8 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-9a9d06222f3e4f05fa5c5d51b66861ea]: Commencement: Reg. 8 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

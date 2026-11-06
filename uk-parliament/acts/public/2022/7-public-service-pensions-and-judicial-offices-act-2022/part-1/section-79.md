@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Section 78: transitional provision[^key-6acccecefca6b99f361f4dd207f8d789][^key-f3d7d3e1a24dbe5033f37e6380863b6b]
+## 79. Section 78: transitional provision[^c-6acccecefca6b99f361f4dd207f8d789][^c-f3d7d3e1a24dbe5033f37e6380863b6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ is treated as having been made under section 78(1).
 
 ## Annotations
 
-[^key-6acccecefca6b99f361f4dd207f8d789]: Commencement: S. 79 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-6acccecefca6b99f361f4dd207f8d789]: Commencement: S. 79 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-f3d7d3e1a24dbe5033f37e6380863b6b]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2022/7/section/79) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)
+[^c-f3d7d3e1a24dbe5033f37e6380863b6b]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2022/7/section/79) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/d)[(e)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/e)

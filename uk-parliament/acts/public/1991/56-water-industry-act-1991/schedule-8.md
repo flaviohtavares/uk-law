@@ -31,7 +31,7 @@ Section 140.
 
 ### Authorisations having effect as deemed consents under the Control of Pollution Act 1974
 
-**2.**[^c13225481][^key-838cabb360c76a3c7a3a27af38091bc8][^key-d24d074f8f1a6a2576f1d933ab735086] (1) Where, by virtue of section 43(2) of the [^c13225491]Control of Pollution Act 1974 there is, immediately before the commencement of this Act, a deemed consent for the purposes of the [^c13225501]Public Health (Drainage of Trade Premises) Act 1937 which has effect under the [^c13225511]Water Act 1989 in relation to any sewerage undertaker, that deemed consent shall have effect as a deemed consent for the purposes of Chapter III of Part IV of this Act subject to the following provisions of this paragraph.
+**2.**[^c13225481][^c-838cabb360c76a3c7a3a27af38091bc8][^c-d24d074f8f1a6a2576f1d933ab735086] (1) Where, by virtue of section 43(2) of the [^c13225491]Control of Pollution Act 1974 there is, immediately before the commencement of this Act, a deemed consent for the purposes of the [^c13225501]Public Health (Drainage of Trade Premises) Act 1937 which has effect under the [^c13225511]Water Act 1989 in relation to any sewerage undertaker, that deemed consent shall have effect as a deemed consent for the purposes of Chapter III of Part IV of this Act subject to the following provisions of this paragraph.
 
 (2) The sewerage undertaker—
 
@@ -42,7 +42,7 @@ by notice served on the owner and any occupier of the premises in question cance
 
 (3) An actual consent given under sub-paragraph (2) above shall be so given either conditionally or subject to any conditions which may be attached to consents by virtue of section 121 of this Act.
 
-(3A)[^key-87926a596d0e22d74d8bf4e2776067bd] If a sewerage undertaker serves a notice under sub-paragraph (2) in relation to premises in respect of which a sewerage licensee provides sewerage services, the sewerage undertaker must send a copy of the notice to the sewerage licensee.
+(3A)[^c-87926a596d0e22d74d8bf4e2776067bd] If a sewerage undertaker serves a notice under sub-paragraph (2) in relation to premises in respect of which a sewerage licensee provides sewerage services, the sewerage undertaker must send a copy of the notice to the sewerage licensee.
 
 (4) It is hereby declared that the provisions of Chapter III of Part IV of this Act with respect to the variation of conditions of a consent apply in relation to an actual consent under sub-paragraph (2) above as they apply in relation to any other actual consent under Chapter III of Part IV of this Act.
 
@@ -50,7 +50,7 @@ by notice served on the owner and any occupier of the premises in question cance
 
 ### Appeals in respect of consents under paragraph 2
 
-**3.**[^c13225521][^key-838cabb360c76a3c7a3a27af38091bc8][^key-d24d074f8f1a6a2576f1d933ab735086] (1) A person on whom notice is served in pursuance of paragraph 2(2) above may, in accordance with regulations made by the Secretary of State, appeal to the Authority[^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7].
+**3.**[^c13225521][^c-838cabb360c76a3c7a3a27af38091bc8][^c-d24d074f8f1a6a2576f1d933ab735086] (1) A person on whom notice is served in pursuance of paragraph 2(2) above may, in accordance with regulations made by the Secretary of State, appeal to the Authority[^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7].
 
 (2) Section 137 of this Act shall apply, with the necessary modifications, in relation to appeals under this paragraph as it applies in relation to appeals under section 122 of this Act.
 
@@ -58,7 +58,7 @@ by notice served on the owner and any occupier of the premises in question cance
 
 ### Determinations of disputes as to transitional matters
 
-**4.**[^c13225531][^key-838cabb360c76a3c7a3a27af38091bc8][^key-d24d074f8f1a6a2576f1d933ab735086] (1) Any dispute in so far as it—
+**4.**[^c13225531][^c-838cabb360c76a3c7a3a27af38091bc8][^c-d24d074f8f1a6a2576f1d933ab735086] (1) Any dispute in so far as it—
 
 - (a) arises after the commencement of this Act and relates to a deemed consent in respect of discharges previously authorised under section 4 of the [^c13225541]Public Health (Drainage of Trade Premises) Act 1937; and
 - (b) is a dispute as to the nature or composition of any trade effluent discharged from any trade premises into a sewer during any period, as to the quantity of trade effluent so discharged on any one day during any period or as to the rate of trade effluent so discharged during any period,
@@ -87,9 +87,9 @@ shall, unless the parties otherwise agree, be referred to the Authority for dete
 
 [^c13225481]: Modification: Sch. 8 para. 2 amended (27.8.1993) by [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12), [ss. 40](https://www.legislation.gov.uk/ukpga/1993/12/section/40), [51(2)](https://www.legislation.gov.uk/ukpga/1993/12/section/51/2), [Sch. 3 Pt. I para. 8](https://www.legislation.gov.uk/ukpga/1993/12/schedule/3/part/I/paragraph/8) (with [ss. 42](https://www.legislation.gov.uk/ukpga/1993/12/section/42), [46](https://www.legislation.gov.uk/ukpga/1993/12/section/46)).
 
-[^key-838cabb360c76a3c7a3a27af38091bc8]: Modification: Sch. 8 paras. 2-4 modified by S.I. 2010/675, Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
+[^c-838cabb360c76a3c7a3a27af38091bc8]: Modification: Sch. 8 paras. 2-4 modified by S.I. 2010/675, Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
 
-[^key-d24d074f8f1a6a2576f1d933ab735086]: Modification: Sch. 8 paras. 2-4 modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-d24d074f8f1a6a2576f1d933ab735086]: Modification: Sch. 8 paras. 2-4 modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^c13225491]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
@@ -97,7 +97,7 @@ shall, unless the parties otherwise agree, be referred to the Authority for dete
 
 [^c13225511]: Marginal citation: [1989 c. 15](https://www.legislation.gov.uk/ukpga/1989/15).
 
-[^key-87926a596d0e22d74d8bf4e2776067bd]: Textual amendment: [Sch. 8 para. 2(3A)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/8/paragraph/2/3A) inserted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 123](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/123); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxiii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxiii)
+[^c-87926a596d0e22d74d8bf4e2776067bd]: Textual amendment: [Sch. 8 para. 2(3A)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/8/paragraph/2/3A) inserted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 123](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/123); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxiii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxiii)
 
 [^c13225521]: Modification: Sch. 8 para. 3 amended (27.8.1993) by [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12), [ss. 40](https://www.legislation.gov.uk/ukpga/1993/12/section/40), [51(2)](https://www.legislation.gov.uk/ukpga/1993/12/section/51/2), [Sch. 3 Pt. I para. 8](https://www.legislation.gov.uk/ukpga/1993/12/schedule/3/part/I/paragraph/8) (with [ss. 42](https://www.legislation.gov.uk/ukpga/1993/12/section/42), [46](https://www.legislation.gov.uk/ukpga/1993/12/section/46)).
 

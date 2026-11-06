@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Vesting of estate at date of sequestration[^key-ee4c8454c7104b4823c25c35d70bce21]
+## 78. Vesting of estate at date of sequestration[^c-ee4c8454c7104b4823c25c35d70bce21]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ would be required in order to complete title vests in the trustee, by virtue of 
 
 ## Annotations
 
-[^key-ee4c8454c7104b4823c25c35d70bce21]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2016/21/section/78) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-ee4c8454c7104b4823c25c35d70bce21]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2016/21/section/78) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Guidance on detention of vulnerable persons[^key-54a7c8520ec0e93a5bc8770119545cf0]
+## 59. Guidance on detention of vulnerable persons[^c-54a7c8520ec0e93a5bc8770119545cf0]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ and “**detention**” is to be construed accordingly.
 
 ## Annotations
 
-[^key-54a7c8520ec0e93a5bc8770119545cf0]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2016/19/section/59) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/l)
+[^c-54a7c8520ec0e93a5bc8770119545cf0]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2016/19/section/59) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/l)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14Z28. Transfer schemes in connection with integrated care boards[^key-b6af639f7551d731516bf50373d99124]
+## 14Z28. Transfer schemes in connection with integrated care boards[^c-b6af639f7551d731516bf50373d99124]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6af639f7551d731516bf50373d99124]: Textual amendment: [Pt. 2 Ch. A3](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/A3) inserted (9.5.2022 but only for the insertion of ss. 14Z25 (for specified purposes), 14Z26, 14Z28, 1.7.2022 in so far as not already in force) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/c); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-b6af639f7551d731516bf50373d99124]: Textual amendment: [Pt. 2 Ch. A3](https://www.legislation.gov.uk/ukpga/2006/41/part/2/chapter/A3) inserted (9.5.2022 but only for the insertion of ss. 14Z25 (for specified purposes), 14Z26, 14Z28, 1.7.2022 in so far as not already in force) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/19/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/c); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

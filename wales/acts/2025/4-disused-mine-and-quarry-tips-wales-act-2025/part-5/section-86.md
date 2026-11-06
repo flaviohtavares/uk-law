@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Meaning of “tip” and “disused tip”[^key-f8e831fc86bfcb8a92f56b722570eae9]
+## 86. Meaning of “tip” and “disused tip”[^c-f8e831fc86bfcb8a92f56b722570eae9]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8e831fc86bfcb8a92f56b722570eae9]: Commencement: S. 86 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-f8e831fc86bfcb8a92f56b722570eae9]: Commencement: S. 86 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

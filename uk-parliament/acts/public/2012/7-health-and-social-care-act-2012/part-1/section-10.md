@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Clinical commissioning groups[^key-8636452132f54c4c3313e1812afe03e5][^key-546eb1898f04ffaf31bc148e4d023803][^key-4ee78cdb780984ef6f059a4618cb6e66]
+## 10. Clinical commissioning groups[^c-8636452132f54c4c3313e1812afe03e5][^c-546eb1898f04ffaf31bc148e4d023803][^c-4ee78cdb780984ef6f059a4618cb6e66]
 
 *Extent: E+W*
 
@@ -32,8 +32,8 @@ After section 1H of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-8636452132f54c4c3313e1812afe03e5]: Commencement: S. 10 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-8636452132f54c4c3313e1812afe03e5]: Commencement: S. 10 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-546eb1898f04ffaf31bc148e4d023803]: Commencement: S. 10 in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-546eb1898f04ffaf31bc148e4d023803]: Commencement: S. 10 in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-4ee78cdb780984ef6f059a4618cb6e66]: Commencement: S. 10 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-4ee78cdb780984ef6f059a4618cb6e66]: Commencement: S. 10 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

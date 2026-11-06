@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Mutual credits and set-off[^key-747700256a2b140388a56be405e1ebd0]
+## 55. Mutual credits and set-off[^c-747700256a2b140388a56be405e1ebd0]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-747700256a2b140388a56be405e1ebd0]: Commencement: [Rule 55](https://www.legislation.gov.uk/uksi/2013/3208/rule/55) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-747700256a2b140388a56be405e1ebd0]: Commencement: [Rule 55](https://www.legislation.gov.uk/uksi/2013/3208/rule/55) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

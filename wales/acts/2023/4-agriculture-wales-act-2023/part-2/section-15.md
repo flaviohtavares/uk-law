@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Steps to be taken in preparing report under section 14[^key-f45f15a8af2517d6d94f31e79095b524]
+## 15. Steps to be taken in preparing report under section 14[^c-f45f15a8af2517d6d94f31e79095b524]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In preparing a report under section 14, the Welsh Ministers must have regard toâ
 
 ## Annotations
 
-[^key-f45f15a8af2517d6d94f31e79095b524]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2023/4/section/15) in force at 17.10.2023, see [s. 56(2)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/b)
+[^c-f45f15a8af2517d6d94f31e79095b524]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2023/4/section/15) in force at 17.10.2023, see [s. 56(2)(b)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/b)

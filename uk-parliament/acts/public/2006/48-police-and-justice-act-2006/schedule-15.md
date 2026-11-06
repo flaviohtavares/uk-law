@@ -24,7 +24,7 @@ Section 52
 
 ### Part 1 — Police reform
 
-[^key-e15c3dac88c224035385b2b501ebafbd](A) National Policing Improvement Agency
+[^c-e15c3dac88c224035385b2b501ebafbd](A) National Policing Improvement Agency
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -46,7 +46,7 @@ Section 52
 | Energy Act 2004 (c. 20) | In Schedule 14, paragraph 9. |
 | Serious Organised Crime and Police Act 2005 (c. 15) | In Schedule 4, paragraphs 77(5), 103, 104 and 163. |
 
-[^c1764152][^key-875b759112b53856de09a4f64376a1d8][^key-e764c1293d921849f0d4a65cec1f3192][^key-f5b3f36f381af176028759e53532d435][^key-3b9238b07ddc084fdaf39b1f8ab67692](B) Other repeals relating to Part 1
+[^c1764152][^c-875b759112b53856de09a4f64376a1d8][^c-e764c1293d921849f0d4a65cec1f3192][^c-f5b3f36f381af176028759e53532d435][^c-3b9238b07ddc084fdaf39b1f8ab67692](B) Other repeals relating to Part 1
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -62,7 +62,7 @@ Section 52
 | Railways and Transport Safety Act 2003 (c. 20) | In section 19, paragraph (f) and the word “and” preceding it.<br>Section 75(7).<br>In section 76, the entry relating to the National Policing Plan. |
 | Courts Act 2003 (c. 39) | In Schedule 8, paragraphs 373 to 376. |
 
-### Part 2 — Powers of police etc[^key-bd621ba6faca91664a59c0e11bf22748][^key-371ec5860c679e32ff7e73a86ac31903][^key-05f349e7f6b5295a9bde4f3fc54ec949]
+### Part 2 — Powers of police etc[^c-bd621ba6faca91664a59c0e11bf22748][^c-371ec5860c679e32ff7e73a86ac31903][^c-05f349e7f6b5295a9bde4f3fc54ec949]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -71,7 +71,7 @@ Section 52
 | Criminal Justice Act 2003 (c. 44) | In section 25(2), the word “and” preceding paragraph (h). |
 | Immigration, Asylum and Nationality Act 2006 (c. 13) | In sections 32(5) and 33(5), the word “and” preceding paragraph (c).<br>In section 36(9), the word “and” preceding the definition of “Revenue and Customs purposes”. |
 
-### Part 3 — Crime and anti-social behaviour[^key-23d400d5c1d59aa2044a7f7a08ae0977][^key-567a6418afd8c303910217978a6a9756][^key-48575656bbeba1fb440688850cce5696]
+### Part 3 — Crime and anti-social behaviour[^c-23d400d5c1d59aa2044a7f7a08ae0977][^c-567a6418afd8c303910217978a6a9756][^c-48575656bbeba1fb440688850cce5696]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -81,7 +81,7 @@ Section 52
 | Anti-social Behaviour Act 2003 (c. 38) | Section 13(4)(b).<br>Section 91. |
 | Clean Neighbourhoods and Environment Act 2005 (c. 16) | Section 1. |
 
-### Part 4 — Miscellaneous[^key-3e3c37ec8bcfa4c7e477bc2cb7610f84][^key-096a4f29d9258c85a6d02b188c0fb11f][^key-2eaf93f06003efed9b4a8055e5f5093a][^key-f9d94998fcf8101ca1b31418d344c970]
+### Part 4 — Miscellaneous[^c-3e3c37ec8bcfa4c7e477bc2cb7610f84][^c-096a4f29d9258c85a6d02b188c0fb11f][^c-2eaf93f06003efed9b4a8055e5f5093a][^c-f9d94998fcf8101ca1b31418d344c970]
 
 | *Short title or title* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -100,34 +100,34 @@ Section 52
 
 ## Annotations
 
-[^key-e15c3dac88c224035385b2b501ebafbd]: Commencement: Sch. 15 Pt. 1(A) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-e15c3dac88c224035385b2b501ebafbd]: Commencement: Sch. 15 Pt. 1(A) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
 [^c1764152]: Commencement: Sch. 15 Pt. 1(B) in force for specified purposes at Royal Assent see s. 53(1)(2)
 
-[^key-875b759112b53856de09a4f64376a1d8]: Commencement: Sch. 15 Pt. 1(B) in force at 1.4.2007 for specified purposes by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-875b759112b53856de09a4f64376a1d8]: Commencement: Sch. 15 Pt. 1(B) in force at 1.4.2007 for specified purposes by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-e764c1293d921849f0d4a65cec1f3192]: Commencement: Sch. 15 Pt. 1(B) in force at 1.4.2007 for specified purposes by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(r)](https://www.legislation.gov.uk/uksi/2007/709/article/3/r) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-e764c1293d921849f0d4a65cec1f3192]: Commencement: Sch. 15 Pt. 1(B) in force at 1.4.2007 for specified purposes by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(r)](https://www.legislation.gov.uk/uksi/2007/709/article/3/r) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-f5b3f36f381af176028759e53532d435]: Commencement: Sch. 15 Pt. 1(B) in force at 1.12.2007 for specified purposes by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/3203/article/2/e)
+[^c-f5b3f36f381af176028759e53532d435]: Commencement: Sch. 15 Pt. 1(B) in force at 1.12.2007 for specified purposes by [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/3203/article/2/e)
 
-[^key-3b9238b07ddc084fdaf39b1f8ab67692]: Commencement: Sch. 15 Pt. 1(B) in force at 14.3.2008 for specified purposes by [S.I. 2008/311](https://www.legislation.gov.uk/uksi/2008/311), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/311/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/311/article/3))
+[^c-3b9238b07ddc084fdaf39b1f8ab67692]: Commencement: Sch. 15 Pt. 1(B) in force at 14.3.2008 for specified purposes by [S.I. 2008/311](https://www.legislation.gov.uk/uksi/2008/311), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/311/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/311/article/3))
 
-[^key-bd621ba6faca91664a59c0e11bf22748]: Commencement: Sch. 15 Pt. 2. in force at 15.1.2007 for specified purposes by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(l)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/l) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3))
+[^c-bd621ba6faca91664a59c0e11bf22748]: Commencement: Sch. 15 Pt. 2. in force at 15.1.2007 for specified purposes by [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(l)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/l) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/3364/article/3))
 
-[^key-371ec5860c679e32ff7e73a86ac31903]: Commencement: Sch. 15 Pt. 2 in force at 1.4.2007 for specified purposes by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(t)](https://www.legislation.gov.uk/uksi/2007/709/article/3/t) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-371ec5860c679e32ff7e73a86ac31903]: Commencement: Sch. 15 Pt. 2 in force at 1.4.2007 for specified purposes by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(t)](https://www.legislation.gov.uk/uksi/2007/709/article/3/t) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-05f349e7f6b5295a9bde4f3fc54ec949]: Commencement: Sch. 15 Pt. 2 in force at 29.6.2007 for specified purposes for E.W. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/1614/article/2/i)
+[^c-05f349e7f6b5295a9bde4f3fc54ec949]: Commencement: Sch. 15 Pt. 2 in force at 29.6.2007 for specified purposes for E.W. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/1614/article/2/i)
 
-[^key-23d400d5c1d59aa2044a7f7a08ae0977]: Commencement: Sch. 15 Pt. 3 in force at 6.4.2007 for specified purposes for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(c)](https://www.legislation.gov.uk/uksi/2007/709/article/4/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))
+[^c-23d400d5c1d59aa2044a7f7a08ae0977]: Commencement: Sch. 15 Pt. 3 in force at 6.4.2007 for specified purposes for E. by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 4(c)](https://www.legislation.gov.uk/uksi/2007/709/article/4/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2007/709/article/8))
 
-[^key-567a6418afd8c303910217978a6a9756]: Commencement: Sch. 15 Pt. 3 in force at 1.8.2007 for specified purposes for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(e)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/e)
+[^c-567a6418afd8c303910217978a6a9756]: Commencement: Sch. 15 Pt. 3 in force at 1.8.2007 for specified purposes for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(e)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/e)
 
-[^key-48575656bbeba1fb440688850cce5696]: Commencement: Sch. 15 Pt. 3 in force at 19.11.2007 for specified purposes for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/c)
+[^c-48575656bbeba1fb440688850cce5696]: Commencement: Sch. 15 Pt. 3 in force at 19.11.2007 for specified purposes for W. by [S.I. 2007/3073](https://www.legislation.gov.uk/uksi/2007/3073), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3073/article/2/c)
 
-[^key-3e3c37ec8bcfa4c7e477bc2cb7610f84]: Commencement: Sch. 15 Pt. 4 in force at 1.10.2007 for specified purposes for S. by [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2(d)](https://www.legislation.gov.uk/ssi/2007/434/article/2/d)
+[^c-3e3c37ec8bcfa4c7e477bc2cb7610f84]: Commencement: Sch. 15 Pt. 4 in force at 1.10.2007 for specified purposes for S. by [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2(d)](https://www.legislation.gov.uk/ssi/2007/434/article/2/d)
 
-[^key-096a4f29d9258c85a6d02b188c0fb11f]: Commencement: Sch. 15 Pt. 4 in force at 1.4.2008 for specified purposes for N.I. by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 3(c)](https://www.legislation.gov.uk/uksi/2008/790/article/3/c)
+[^c-096a4f29d9258c85a6d02b188c0fb11f]: Commencement: Sch. 15 Pt. 4 in force at 1.4.2008 for specified purposes for N.I. by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 3(c)](https://www.legislation.gov.uk/uksi/2008/790/article/3/c)
 
-[^key-2eaf93f06003efed9b4a8055e5f5093a]: Commencement: Sch. 15 Pt. 4 in force at 1.4.2008 for specified purposes for E.W. by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/790/article/2/e)
+[^c-2eaf93f06003efed9b4a8055e5f5093a]: Commencement: Sch. 15 Pt. 4 in force at 1.4.2008 for specified purposes for E.W. by [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/790/article/2/e)
 
-[^key-f9d94998fcf8101ca1b31418d344c970]: Commencement: Sch. 15 Pt. 4 in force at 1.10.2008 for E.W.N.I. by [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/2503/article/2/d)
+[^c-f9d94998fcf8101ca1b31418d344c970]: Commencement: Sch. 15 Pt. 4 in force at 1.10.2008 for E.W.N.I. by [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/2503/article/2/d)

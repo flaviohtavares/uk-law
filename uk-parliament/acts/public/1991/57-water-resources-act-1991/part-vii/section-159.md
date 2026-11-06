@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to the following provisions of this Part, the appropriate agency[^key-9afb02f0ac1d75d6ffe7921b1202c8ca] shall, for the purpose of carrying out its functions, have power—
+(1) Subject to the following provisions of this Part, the appropriate agency[^c-9afb02f0ac1d75d6ffe7921b1202c8ca] shall, for the purpose of carrying out its functions, have power—
 
 - (a) to lay a relevant pipe in, under or over any street and to keep that pipe there;
 - (b) to inspect, maintain, adjust, repair or alter any relevant pipe which is in, under or over any street; and
@@ -30,7 +30,7 @@ summary: ''
   - (iii) breaking up or opening a sewer, drain or tunnel;
   - (iv) moving or removing earth and other materials.
 
-(1A)[^key-1b88a63725c86ad29e53346677e26ed5] The appropriate agency may carry out work within subsection (1)(a) to (c) if—
+(1A)[^c-1b88a63725c86ad29e53346677e26ed5] The appropriate agency may carry out work within subsection (1)(a) to (c) if—
 
 - (a) it thinks the work desirable having regard to the national flood and coastal erosion risk management strategies under sections 7 and 8 of the Flood and Water Management Act 2010, and
 - (b) the purpose of the work is to manage a flood risk (within the meaning of that Act) from (i) the sea, or (ii) a main river.
@@ -58,9 +58,9 @@ summary: ''
 
 ## Annotations
 
-[^key-9afb02f0ac1d75d6ffe7921b1202c8ca]: Textual amendment: Words in ss. 159-161B substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 283](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/283) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9afb02f0ac1d75d6ffe7921b1202c8ca]: Textual amendment: Words in ss. 159-161B substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 283](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/283) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-1b88a63725c86ad29e53346677e26ed5]: Textual amendment: S. 159(1A) inserted (19.7.2011 for E., 1.10.2011 for W.) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/45) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/f); [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/d)
+[^c-1b88a63725c86ad29e53346677e26ed5]: Textual amendment: S. 159(1A) inserted (19.7.2011 for E., 1.10.2011 for W.) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 2 para. 45](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/45) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2011/1770](https://www.legislation.gov.uk/uksi/2011/1770), [art. 3(f)](https://www.legislation.gov.uk/uksi/2011/1770/article/3/f); [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), [art. 3(2)(d)](https://www.legislation.gov.uk/uksi/2011/2204/article/3/2/d)
 
 [^c18737451]: Marginal citation: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).
 

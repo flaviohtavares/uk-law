@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Sale to tenant or third party where landlord in breach of order or award[^key-311e61bab71eb2e9d163492878ecc133]
+## 100. Sale to tenant or third party where landlord in breach of order or award[^c-311e61bab71eb2e9d163492878ecc133]
 
 *Extent: S*
 
@@ -478,4 +478,4 @@ summary: ''
 
 ## Annotations
 
-[^key-311e61bab71eb2e9d163492878ecc133]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2016/18/section/100) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-311e61bab71eb2e9d163492878ecc133]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2016/18/section/100) in force at 23.12.2016 for specified purposes by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))

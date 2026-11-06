@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.3. Power to vary requirements[^key-ffedbb5f5ef2ba11e89ea6151f4aa567]
+## 36.3. Power to vary requirements[^c-ffedbb5f5ef2ba11e89ea6151f4aa567]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ The court or the Registrar may—
 
 ## Annotations
 
-[^key-ffedbb5f5ef2ba11e89ea6151f4aa567]: Commencement: [Rule 36.3](https://www.legislation.gov.uk/uksi/2025/909/rule/36.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ffedbb5f5ef2ba11e89ea6151f4aa567]: Commencement: [Rule 36.3](https://www.legislation.gov.uk/uksi/2025/909/rule/36.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00913]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).
 

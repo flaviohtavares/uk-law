@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Application of Chapter to part of expenditure[^key-3d2ba6769c72a6d1f8a941854237c6d7]
+## 92. Application of Chapter to part of expenditure[^c-3d2ba6769c72a6d1f8a941854237c6d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d2ba6769c72a6d1f8a941854237c6d7]: Textual amendment: S. 92 omitted (with effect in accordance with Sch. 26 para. 14 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 26 para. 8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/26/paragraph/8)
+[^c-3d2ba6769c72a6d1f8a941854237c6d7]: Textual amendment: S. 92 omitted (with effect in accordance with Sch. 26 para. 14 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 26 para. 8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/26/paragraph/8)

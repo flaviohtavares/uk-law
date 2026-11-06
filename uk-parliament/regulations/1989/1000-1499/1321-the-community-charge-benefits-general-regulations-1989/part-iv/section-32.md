@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Calculation of capital outside the United Kingdom[^key-8e2edd060477017f0b95baecd659abcf]
+## 32. Calculation of capital outside the United Kingdom[^c-8e2edd060477017f0b95baecd659abcf]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ less, where there would be expenses attributable to sale, 10 per cent. and the a
 
 ## Annotations
 
-[^key-8e2edd060477017f0b95baecd659abcf]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1989/1321/regulation/32) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-8e2edd060477017f0b95baecd659abcf]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1989/1321/regulation/32) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

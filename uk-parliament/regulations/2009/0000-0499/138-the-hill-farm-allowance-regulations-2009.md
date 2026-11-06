@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, England
 
-The Hill Farm Allowance Regulations 2009 (revoked)[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+The Hill Farm Allowance Regulations 2009 (revoked)[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 Made
 
@@ -46,115 +46,115 @@ Coming into force
 
 24th February 2009
 
-[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+## 1. Title, commencement and application[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+## 2. Interpretation[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payment of hill farm allowance[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+## 3. Payment of hill farm allowance[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Eligibility for hill farm allowance[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+## 4. Eligibility for hill farm allowance[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amount of payment[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+## 5. Amount of payment[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Deductions from claimed forage area[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+## 6. Deductions from claimed forage area[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Holdings situated partly outside England[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+## 7. Holdings situated partly outside England[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Notional Livestock Density[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+## SCHEDULE 1 — Notional Livestock Density[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Payment Rates per Hectare[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+## SCHEDULE 2 — Payment Rates per Hectare[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 Regulation 5(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Deductions From Claimed Forage Area[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+## SCHEDULE 3 — Deductions From Claimed Forage Area[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 Regulation 6
 
-**1.**[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Holdings Situated Partly Outside England[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+## SCHEDULE 4 — Holdings Situated Partly Outside England[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 Regulation 7
 
-### 1. Agency arrangements[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+### 1. Agency arrangements[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Set-off[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. Apportionment of livestock units[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+### 5. Set-off[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Apportionment of individual reference quantity of milk[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+### 6. Apportionment of livestock units[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Apportionment of hectarage of land used for the purposes of agriculture[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+### 7. Apportionment of individual reference quantity of milk[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Relevant Animals[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+### 8. Apportionment of hectarage of land used for the purposes of agriculture[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 — Relevant Animals[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 Regulation 2
 
-### 1. Breeding cows[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+### 1. Breeding cows[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Ewes[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]
+### 4. Ewes[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]EXPLANATORY NOTE
+[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -172,4 +172,4 @@ An impact assessment has not been prepared because the changes to the existing h
 
 ## Annotations
 
-[^key-50f35520fe9bbb32ea4e85bc0ef6d1e1]: Textual amendment: Regulations revoked (14.2.2014) by [The Uplands Transitional Payment Regulations 2014 (S.I. 2014/112)](https://www.legislation.gov.uk/uksi/2014/112), [reg. 9](https://www.legislation.gov.uk/uksi/2014/112/regulation/9)
+[^c-50f35520fe9bbb32ea4e85bc0ef6d1e1]: Textual amendment: Regulations revoked (14.2.2014) by [The Uplands Transitional Payment Regulations 2014 (S.I. 2014/112)](https://www.legislation.gov.uk/uksi/2014/112), [reg. 9](https://www.legislation.gov.uk/uksi/2014/112/regulation/9)

@@ -186,7 +186,7 @@ The convener must have regard to the convenience of those invited to participate
 | winding up by the court | decisions of creditors to consider whether to remove or replace the liquidator (other than after a liquidator's resignation) | the creditors | 14 days |
 | creditors' voluntary winding up or a winding up by the court | other decisions of creditors | the creditors | 14 days |
 | creditors' voluntary winding up or a winding up by the court | decisions of contributories | every person appearing (by the company's records or otherwise) to be a contributory | 14 days |
-| [^key-9b23ae8b0b9772002d304d2f601f307f]. . . | [^key-9b23ae8b0b9772002d304d2f601f307f]. . . | [^key-9b23ae8b0b9772002d304d2f601f307f]. . . | [^key-9b23ae8b0b9772002d304d2f601f307f]. . . |
+| [^c-9b23ae8b0b9772002d304d2f601f307f]. . . | [^c-9b23ae8b0b9772002d304d2f601f307f]. . . | [^c-9b23ae8b0b9772002d304d2f601f307f]. . . | [^c-9b23ae8b0b9772002d304d2f601f307f]. . . |
 
 (2) This rule does not apply where the court orders under rule 8.12 that notice of a decision procedure be given by advertisement only.
 
@@ -413,7 +413,7 @@ The chair of a meeting may, without an adjournment, declare the meeting suspende
 
 (2) The manager may from time to time deliver a further statement; and each such statement supersedes any previous statement.
 
-## 8.30. Claim made in proceedings in other member States[^key-913d3c4b1e3cb742a0b93572b8349f4a]
+## 8.30. Claim made in proceedings in other member States[^c-913d3c4b1e3cb742a0b93572b8349f4a]
 
 *Extent: S*
 
@@ -434,11 +434,11 @@ The chair of a meeting may, without an adjournment, declare the meeting suspende
 
 (4) Where a debt is partly secured its value for voting purposes is the value of the unsecured part.
 
-(5) No vote may be cast in respect of a claim more than once on any resolution put to the meeting [^key-48adc63fab1237c2e9e26e4d419cafae]....
+(5) No vote may be cast in respect of a claim more than once on any resolution put to the meeting [^c-48adc63fab1237c2e9e26e4d419cafae]....
 
 (6) A vote cast in a decision procedure which is not a meeting may not be changed.
 
-(7) Paragraph (5) does not prevent a creditor [^key-6719d58158b9f32671bdeb5f9fb4caeb]... from—
+(7) Paragraph (5) does not prevent a creditor [^c-6719d58158b9f32671bdeb5f9fb4caeb]... from—
 
 - (a) voting in respect of less than the full value of an entitlement to vote; or
 - (b) casting a vote one way in respect of part of the value of an entitlement and another way in respect of some or all of the balance of that value.
@@ -731,7 +731,7 @@ and the notices required by sub-paragraphs (a) and (c) may be delivered at the s
 
 [^c23538651]: Marginal citation: [Section 173(2)(d)](https://www.legislation.gov.uk/ssi/2018/347/section/173/2/d) is prospectively amended, (2)(a), (b) and (e) substituted and (2A) inserted by paragraph 44 of schedule 9 of the 2015 Act, and section 174(4) amended by paragraph 45 of schedule 9 of the same Act.
 
-[^key-9b23ae8b0b9772002d304d2f601f307f]: Textual amendment: Words in rule 8.11(1) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137I](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137I) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-9b23ae8b0b9772002d304d2f601f307f]: Textual amendment: Words in rule 8.11(1) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137I](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137I) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c23538661]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
@@ -745,11 +745,11 @@ and the notices required by sub-paragraphs (a) and (c) may be delivered at the s
 
 [^c23538721]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-913d3c4b1e3cb742a0b93572b8349f4a]: Textual amendment: Rule 8.30 omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137J](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137J) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-913d3c4b1e3cb742a0b93572b8349f4a]: Textual amendment: Rule 8.30 omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137J](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137J) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-48adc63fab1237c2e9e26e4d419cafae]: Textual amendment: Words in rule 8.31(5) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137K(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137K/a) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-48adc63fab1237c2e9e26e4d419cafae]: Textual amendment: Words in rule 8.31(5) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137K(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137K/a) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-6719d58158b9f32671bdeb5f9fb4caeb]: Textual amendment: Words in rule 8.31(7) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137K(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137K/b) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-6719d58158b9f32671bdeb5f9fb4caeb]: Textual amendment: Words in rule 8.31(7) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137K(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137K/b) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c23538731]: Marginal citation: [Section 246A](https://www.legislation.gov.uk/ssi/2018/347/section/246A) was inserted by [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18) and prospectively amended by paragraph 54 of schedule 9 of the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) (“**the 2015 Act**”) and [S.S.I. 2017/209](https://www.legislation.gov.uk/ssi/2017/209), [article 5](https://www.legislation.gov.uk/ssi/2017/209/article/5).
 

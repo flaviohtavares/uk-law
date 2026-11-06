@@ -35,7 +35,7 @@ An Act to make provision for the better administration of the enactments relatin
 
 ## 1—6 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c580997]
 
-## 7. Representation of Ministry of Pensions on Royal Patriotic Fund Corporation.[^key-aea629df093fe27ad481111dca99a002]
+## 7. Representation of Ministry of Pensions on Royal Patriotic Fund Corporation.[^c-aea629df093fe27ad481111dca99a002]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -94,7 +94,7 @@ An Act to make provision for the better administration of the enactments relatin
 
 [^c580997]: Textual amendment: [Ss. 1–6](https://www.legislation.gov.uk/ukpga/Geo5/8-9/57/section/1), [11–13](https://www.legislation.gov.uk/ukpga/Geo5/8-9/57/section/11), [15](https://www.legislation.gov.uk/ukpga/Geo5/8-9/57/section/15), [16](https://www.legislation.gov.uk/ukpga/Geo5/8-9/57/section/16), [18(4)](https://www.legislation.gov.uk/ukpga/Geo5/8-9/57/section/18/4), [Sch.](https://www.legislation.gov.uk/ukpga/Geo5/8-9/57/schedule) repealed by [Statute Law Revision Act 1927 (c. 42)](https://www.legislation.gov.uk/ukpga/1927/42)
 
-[^key-aea629df093fe27ad481111dca99a002]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Geo5/8-9/57/section/7) repealed (1.1.2006) by [Armed Forces (Pensions and Compensation) Act 2004 (c. 32)](https://www.legislation.gov.uk/ukpga/2004/32), [s. 8](https://www.legislation.gov.uk/ukpga/2004/32/section/8), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/32/schedule/3); [S.I. 2005/3107](https://www.legislation.gov.uk/uksi/2005/3107), [art. 3](https://www.legislation.gov.uk/uksi/2005/3107/article/3)
+[^c-aea629df093fe27ad481111dca99a002]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Geo5/8-9/57/section/7) repealed (1.1.2006) by [Armed Forces (Pensions and Compensation) Act 2004 (c. 32)](https://www.legislation.gov.uk/ukpga/2004/32), [s. 8](https://www.legislation.gov.uk/ukpga/2004/32/section/8), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/32/schedule/3); [S.I. 2005/3107](https://www.legislation.gov.uk/uksi/2005/3107), [art. 3](https://www.legislation.gov.uk/uksi/2005/3107/article/3)
 
 [^c580999]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Geo5/8-9/57/section/8) repealed by [Statute Law (Repeals) Act 1981 (c. 19)](https://www.legislation.gov.uk/ukpga/1981/19), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1981/19/section/1/1), [Sch. 1 Pt. IX](https://www.legislation.gov.uk/ukpga/1981/19/schedule/1/part/IX)
 

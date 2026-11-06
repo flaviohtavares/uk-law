@@ -50,11 +50,11 @@ In accordance with section 48(4A) of that Act, he has had regard to relevant adv
 
 As required by Article 9 of Regulation (EC) No. 178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## 1. Title, application and commencement[^key-d5f9c014d41a62f978782c436076e234]
+## 1. Title, application and commencement[^c-d5f9c014d41a62f978782c436076e234]
 
 These Regulations may be cited as the Nutrition and Health Claims (England) Regulations 2007, apply in relation to England only and come into force on 1st October 2007.
 
-## 2. Interpretation[^key-b2ee953125f5108ef7eae0376c83e4b0]
+## 2. Interpretation[^c-b2ee953125f5108ef7eae0376c83e4b0]
 
 (1) In these Regulations —
 
@@ -65,8 +65,8 @@ These Regulations may be cited as the Nutrition and Health Claims (England) Regu
 - “**port health authority**” means —
   - (a) in relation to the London port health district, the Common Council of the City of London, and
   - (b) in relation to any port health district constituted by order under section 2(3) of the Public Health (Control of Disease) Act 1984[^f00004], a port health authority for that district constituted by order under section 2(4) of that Act;
-- “[^key-ff1fad848ac6e86dab6c2945a33fb981]**the Regulation**” means Regulation [(EC) No. 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) of the European Parliament and of the Council on nutrition and health claims made on foods, as the Annex to that Regulation may be amended from time to time;
-- “[^key-b18a5031de5c3048a9984c74525f8adf]**specified provision of the Regulation**” means—
+- “[^c-ff1fad848ac6e86dab6c2945a33fb981]**the Regulation**” means Regulation [(EC) No. 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) of the European Parliament and of the Council on nutrition and health claims made on foods, as the Annex to that Regulation may be amended from time to time;
+- “[^c-b18a5031de5c3048a9984c74525f8adf]**specified provision of the Regulation**” means—
   - (a) Article 3 (general requirements relating to all claims);
   - (b) Article 4(3) (restrictions on claims that may be made on alcoholic beverages);
   - (c) Article 6(2) (requirement for use of claims to be justified);
@@ -81,54 +81,54 @@ These Regulations may be cited as the Nutrition and Health Claims (England) Regu
 
 (3) Any reference to a numbered Article is a reference to the Article so numbered in the Regulation.
 
-## 3. Competent Authorities[^key-d66b11ab7fe0cf4c15ba625801f3c4be]
+## 3. Competent Authorities[^c-d66b11ab7fe0cf4c15ba625801f3c4be]
 
 The competent authority for the purposes of the Regulation —
 
-- (a) in relation to Articles 1(4), 15(2), 16(2) and 18(2) is the Secretary of State[^key-9dc33ba67b9f08198cd03a721a145d22], and
+- (a) in relation to Articles 1(4), 15(2), 16(2) and 18(2) is the Secretary of State[^c-9dc33ba67b9f08198cd03a721a145d22], and
 - (b) in relation to Article 6(3) is —
   - (i) each port health authority in its district, and
   - (ii) outside such districts, each food authority in its area.
 
-## 4. Enforcement[^key-eab2b3da660c920ed8ce1717fa02914a]
+## 4. Enforcement[^c-eab2b3da660c920ed8ce1717fa02914a]
 
 Each port health authority within its district and each food authority within its area shall execute and enforce the provisions of these Regulations and of the Regulation.
 
-## 5. Offences and Penalties[^key-101697368cbba1776835e700cc7da1c4]
+## 5. Offences and Penalties[^c-101697368cbba1776835e700cc7da1c4]
 
-[^key-b98a3452a7991f748cc30813ec4f03d5]Subject to the derogation contained in Article 1(3) (relating to trade marks etc) and to the transitional measures contained in Article 28, any person who contravenes or fails to comply with a specified provision of the Regulation[^key-c5e9b16361816f586188da931d0d4d6f] is guilty of an offence and liable —
+[^c-b98a3452a7991f748cc30813ec4f03d5]Subject to the derogation contained in Article 1(3) (relating to trade marks etc) and to the transitional measures contained in Article 28, any person who contravenes or fails to comply with a specified provision of the Regulation[^c-c5e9b16361816f586188da931d0d4d6f] is guilty of an offence and liable —
 
 - (a) on conviction on indictment to a term of imprisonment not exceeding two years or to a fine or both;
 - (b) on summary conviction to a term of imprisonment not exceeding three months or to a fine not exceeding the statutory maximum or both.
 
-(2)[^key-ed94fbc855b44ffa6e909d2aa50a66b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ed94fbc855b44ffa6e909d2aa50a66b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of various provisions of the Act[^key-784d5108701cb76678048d0816cb8bf1]
+## 6. Application of various provisions of the Act[^c-784d5108701cb76678048d0816cb8bf1]
 
 The following provisions of the Act shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part of it is to be construed as a reference to these Regulations —
 
 - (a) section 2 (extended meaning of “sale” etc);
 - (b) section 3 (presumption that food is intended for human consumption);
-- (ba)[^key-544cad8583da98151f6a457a198c23e9] section 10(1) and (2) (improvement notices) with the modifications specified in Part 1 of the Schedule;
+- (ba)[^c-544cad8583da98151f6a457a198c23e9] section 10(1) and (2) (improvement notices) with the modifications specified in Part 1 of the Schedule;
 - (c) section 20 (offences due to the fault of another person);
 - (d) section 21 (defence of due diligence) as it applies for the purposes of section 14 or 15;
 - (e) section 22 (defence of publication in the course of business);
 - (f) section 30(8) (which relates to documentary evidence);
-- (fa)[^key-6466186efb4e6405792131d0c9862e83] section 32(1) to (8) (powers of entry) with the modifications specified in Part 2 of the Schedule;
+- (fa)[^c-6466186efb4e6405792131d0c9862e83] section 32(1) to (8) (powers of entry) with the modifications specified in Part 2 of the Schedule;
 - (fb) section 33 (obstruction of officers);
 - (g) section 34 (time limit for prosecution);
-- (ga)[^key-67ac0ece570a39fc8007a8eb567c47c7] section 35 (punishment of offences) with the modification specified in Part 3 of the Schedule;
+- (ga)[^c-67ac0ece570a39fc8007a8eb567c47c7] section 35 (punishment of offences) with the modification specified in Part 3 of the Schedule;
 - (h) section 36 (offences by bodies corporate);
 - (i) section 36A (offences by Scottish partnerships); and
-- (ia)[^key-3270890026395034cbce59d0affea0bd] section 37(1), (3), (5) and (6) (appeals) with the modifications specified in Part 4 of the Schedule;
+- (ia)[^c-3270890026395034cbce59d0affea0bd] section 37(1), (3), (5) and (6) (appeals) with the modifications specified in Part 4 of the Schedule;
 - (ib) section 39 (appeals against improvement notices) with the modifications specified in Part 5 of the Schedule; and
 - (j) section 44 (protection of officers acting in good faith).
 
-## 7. Obstruction of officers and provision of information etc[^key-89560ed286a79a7222c477593525efae]
+## 7. Obstruction of officers and provision of information etc[^c-89560ed286a79a7222c477593525efae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Food Labelling Regulations[^key-c6b894d8a7523090975667de425f0e95]
+## 8. Amendment of the Food Labelling Regulations[^c-c6b894d8a7523090975667de425f0e95]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -142,7 +142,7 @@ Department of Health
 
 18th July 2007
 
-## Schedule — Modification of provisions of the Act[^key-dd82d6a47dd6fce56953671f8101bf24]
+## Schedule — Modification of provisions of the Act[^c-dd82d6a47dd6fce56953671f8101bf24]
 
 Regulation 6
 
@@ -243,42 +243,42 @@ EXPLANATORY NOTE
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by Commission Regulation (EC) No. 575/2006 (OJ No. L100, 8.4.2006, p.3).
 
-[^key-d5f9c014d41a62f978782c436076e234]: Commencement: Reg. 1 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2080/regulation/1)
+[^c-d5f9c014d41a62f978782c436076e234]: Commencement: Reg. 1 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2080/regulation/1)
 
-[^key-b2ee953125f5108ef7eae0376c83e4b0]: Commencement: Reg. 2 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2080/regulation/1)
+[^c-b2ee953125f5108ef7eae0376c83e4b0]: Commencement: Reg. 2 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2080/regulation/1)
 
 [^f00004]: Footnote: [1984 c.22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-ff1fad848ac6e86dab6c2945a33fb981]: Textual amendment: Words in reg. 2(1) substituted (1.10.2010) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2010 (S.I. 2010/1768)](https://www.legislation.gov.uk/uksi/2010/1768), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1768/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/1768/regulation/3)
+[^c-ff1fad848ac6e86dab6c2945a33fb981]: Textual amendment: Words in reg. 2(1) substituted (1.10.2010) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2010 (S.I. 2010/1768)](https://www.legislation.gov.uk/uksi/2010/1768), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1768/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/1768/regulation/3)
 
-[^key-b18a5031de5c3048a9984c74525f8adf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/2080/regulation/2/1) inserted (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/2)
+[^c-b18a5031de5c3048a9984c74525f8adf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/2080/regulation/2/1) inserted (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/2)
 
-[^key-d66b11ab7fe0cf4c15ba625801f3c4be]: Commencement: Reg. 3 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2080/regulation/1)
+[^c-d66b11ab7fe0cf4c15ba625801f3c4be]: Commencement: Reg. 3 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2080/regulation/1)
 
-[^key-9dc33ba67b9f08198cd03a721a145d22]: Textual amendment: Words in reg. 3(a) substituted (16.1.2012) by [The Transfer of Functions (Food) Regulations 2011 (S.I. 2011/3012)](https://www.legislation.gov.uk/uksi/2011/3012), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3012/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/3012/regulation/4)
+[^c-9dc33ba67b9f08198cd03a721a145d22]: Textual amendment: Words in reg. 3(a) substituted (16.1.2012) by [The Transfer of Functions (Food) Regulations 2011 (S.I. 2011/3012)](https://www.legislation.gov.uk/uksi/2011/3012), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/3012/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/3012/regulation/4)
 
-[^key-eab2b3da660c920ed8ce1717fa02914a]: Commencement: Reg. 4 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2080/regulation/1)
+[^c-eab2b3da660c920ed8ce1717fa02914a]: Commencement: Reg. 4 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2080/regulation/1)
 
-[^key-101697368cbba1776835e700cc7da1c4]: Commencement: Reg. 5 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2080/regulation/1)
+[^c-101697368cbba1776835e700cc7da1c4]: Commencement: Reg. 5 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2080/regulation/1)
 
-[^key-b98a3452a7991f748cc30813ec4f03d5]: Textual amendment: Reg. 5(1) renumbered as reg. 5 (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/3/a/i)
+[^c-b98a3452a7991f748cc30813ec4f03d5]: Textual amendment: Reg. 5(1) renumbered as reg. 5 (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/3/a/i)
 
-[^key-c5e9b16361816f586188da931d0d4d6f]: Textual amendment: Words in reg. 5 substituted (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/3/a/ii)
+[^c-c5e9b16361816f586188da931d0d4d6f]: Textual amendment: Words in reg. 5 substituted (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/3/a/ii)
 
-[^key-ed94fbc855b44ffa6e909d2aa50a66b3]: Textual amendment: Reg. 5(2) omitted (1.10.2024) by virtue of [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/3/b)
+[^c-ed94fbc855b44ffa6e909d2aa50a66b3]: Textual amendment: Reg. 5(2) omitted (1.10.2024) by virtue of [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/3/b)
 
-[^key-784d5108701cb76678048d0816cb8bf1]: Commencement: Reg. 6 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2080/regulation/1)
+[^c-784d5108701cb76678048d0816cb8bf1]: Commencement: Reg. 6 in force at 1.10.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/2080/regulation/1)
 
-[^key-544cad8583da98151f6a457a198c23e9]: Textual amendment: Reg. 6(ba) inserted (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/4/a)
+[^c-544cad8583da98151f6a457a198c23e9]: Textual amendment: Reg. 6(ba) inserted (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/4/a)
 
-[^key-6466186efb4e6405792131d0c9862e83]: Textual amendment: Reg. 6(fa)(fb) inserted (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/4/b)
+[^c-6466186efb4e6405792131d0c9862e83]: Textual amendment: Reg. 6(fa)(fb) inserted (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/4/b)
 
-[^key-67ac0ece570a39fc8007a8eb567c47c7]: Textual amendment: Reg. 6(ga) inserted (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/4/c)
+[^c-67ac0ece570a39fc8007a8eb567c47c7]: Textual amendment: Reg. 6(ga) inserted (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/4/c)
 
-[^key-3270890026395034cbce59d0affea0bd]: Textual amendment: Reg. 6(ia)(ib) inserted (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/4/d)
+[^c-3270890026395034cbce59d0affea0bd]: Textual amendment: Reg. 6(ia)(ib) inserted (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/4/d)
 
-[^key-89560ed286a79a7222c477593525efae]: Textual amendment: Reg. 7 omitted (1.10.2024) by virtue of [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/5)
+[^c-89560ed286a79a7222c477593525efae]: Textual amendment: Reg. 7 omitted (1.10.2024) by virtue of [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/5)
 
-[^key-c6b894d8a7523090975667de425f0e95]: Textual amendment: Reg. 8 revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 20
+[^c-c6b894d8a7523090975667de425f0e95]: Textual amendment: Reg. 8 revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 20
 
-[^key-dd82d6a47dd6fce56953671f8101bf24]: Textual amendment: Sch. inserted (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/6)
+[^c-dd82d6a47dd6fce56953671f8101bf24]: Textual amendment: Sch. inserted (1.10.2024) by [The Nutrition and Health Claims (England) (Amendment) Regulations 2024 (S.I. 2024/165)](https://www.legislation.gov.uk/uksi/2024/165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/165/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2024/165/regulation/2/6)

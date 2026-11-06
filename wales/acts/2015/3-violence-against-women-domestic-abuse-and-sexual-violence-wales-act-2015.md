@@ -52,7 +52,7 @@ An Act of the National Assembly for Wales to improve arrangements for the preven
 
 (2) See section 24 for the definitions of “gender-based violence”, “domestic abuse” and “sexual violence”.
 
-### 2. Violence against women and girls[^key-ff7a4df3746e889c06037c58cb31ebf5]
+### 2. Violence against women and girls[^c-ff7a4df3746e889c06037c58cb31ebf5]
 
 (1) A person exercising relevant functions must have regard (along with all other relevant matters) to the need to remove or minimise any factors which—
 
@@ -66,7 +66,7 @@ An Act of the National Assembly for Wales to improve arrangements for the preven
 
 ## National strategy
 
-### 3. Duty to prepare, publish and review a national strategy[^key-e722d1e18008f92ef4e62d7eb1e07d48]
+### 3. Duty to prepare, publish and review a national strategy[^c-e722d1e18008f92ef4e62d7eb1e07d48]
 
 (1) The Welsh Ministers must prepare and publish a strategy (a “national strategy”) which—
 
@@ -94,13 +94,13 @@ An Act of the National Assembly for Wales to improve arrangements for the preven
 - (a) the poll held at an ordinary general election under section 3 of the Government of Wales Act 2006 (c.32), or
 - (b) the poll held at an extraordinary general election under section 5 of that Act.
 
-### 4. Duty to implement the national strategy[^key-ca87e07ce31f731c3aacbb7ecf01c5d6]
+### 4. Duty to implement the national strategy[^c-ca87e07ce31f731c3aacbb7ecf01c5d6]
 
 The Welsh Ministers must, in exercising their functions, take all reasonable steps to achieve the objectives specified in the most recently published national strategy.
 
 ## Local strategies
 
-### 5. Duty to prepare local strategies[^key-a5fd5e33d60ead88aefa30802bef4dac]
+### 5. Duty to prepare local strategies[^c-a5fd5e33d60ead88aefa30802bef4dac]
 
 (1) A local authority and a Local Health Board any part of whose area lies within the area of the local authority must jointly prepare a strategy (“a local strategy”) for the local authority's area.
 
@@ -119,9 +119,9 @@ The Welsh Ministers must, in exercising their functions, take all reasonable ste
 
 (5) But the inclusion in a local strategy of any provision relating to action mentioned in subsection (4) requires the approval of the body or person concerned.
 
-(5A)[^key-e2dd6a15a2f4576a77dbef8d883e495f] A local strategy or revised strategy may be published by including it within a local well-being plan published under section 39 , 44(5) or 47(6) or (11)[^key-30d12f9f51464a9325773f1486b7b5dc] of the Well-being of Future Generations (Wales) Act 2015 (anaw 2) by a public services board of which both the local authority and the Local Health Board is a member.
+(5A)[^c-e2dd6a15a2f4576a77dbef8d883e495f] A local strategy or revised strategy may be published by including it within a local well-being plan published under section 39 , 44(5) or 47(6) or (11)[^c-30d12f9f51464a9325773f1486b7b5dc] of the Well-being of Future Generations (Wales) Act 2015 (anaw 2) by a public services board of which both the local authority and the Local Health Board is a member.
 
-### 6. Publication and review of local strategies[^key-6ff58716c18692ddc6b1404a1962dcc1]
+### 6. Publication and review of local strategies[^c-6ff58716c18692ddc6b1404a1962dcc1]
 
 (1) A local authority and a Local Health Board's first local strategy must be published no later than one year after the date on which the first ordinary election is held following the date on which section 5(1) is commenced.
 
@@ -143,7 +143,7 @@ The Welsh Ministers must, in exercising their functions, take all reasonable ste
 
 (7) In this section, “**ordinary election**” means an election held under section 26 of the Local Government Act 1972 (c.70) (elections of councillors to local authorities).
 
-### 7. Matters to which regard must be had in preparing or reviewing a local strategy[^key-59a0d764778871efcf40caedff80bb7b]
+### 7. Matters to which regard must be had in preparing or reviewing a local strategy[^c-59a0d764778871efcf40caedff80bb7b]
 
 (1) In preparing and reviewing a local strategy, a local authority and Local Health Board must have regard to—
 
@@ -162,7 +162,7 @@ The Welsh Ministers must, in exercising their functions, take all reasonable ste
 
 (4) A statutory instrument containing regulations made under subsection (2) is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
 
-### 8. Duty to implement local strategies[^key-a3883c45f2c082ecc690a11d82bc0da0]
+### 8. Duty to implement local strategies[^c-a3883c45f2c082ecc690a11d82bc0da0]
 
 (1) A local authority must, in exercising its functions, take all reasonable steps to achieve the objectives specified in the most recently published local strategy for its area.
 
@@ -170,7 +170,7 @@ The Welsh Ministers must, in exercising their functions, take all reasonable ste
 
 ## Education
 
-### 9. Information about educational provision to promote the purpose of this Act[^key-b8ae08aa09ffa9fe12f05e274617502c]
+### 9. Information about educational provision to promote the purpose of this Act[^c-b8ae08aa09ffa9fe12f05e274617502c]
 
 (1) The Education Act 1996 (c.56) is amended as follows.
 
@@ -195,11 +195,11 @@ The Welsh Ministers must, in exercising their functions, take all reasonable ste
 
 ### 10. Guidance to further and higher education institutions
 
-(1) The Commission for Tertiary Education and Research (“[^key-7e5df5d301d85e48e55fb594d76b84f6]**the Commission**”) may issue guidance to the governing bodies of institutions in Wales within the further education sector on how the bodies may contribute to the pursuit of the purpose of this Act.
+(1) The Commission for Tertiary Education and Research (“[^c-7e5df5d301d85e48e55fb594d76b84f6]**the Commission**”) may issue guidance to the governing bodies of institutions in Wales within the further education sector on how the bodies may contribute to the pursuit of the purpose of this Act.
 
-(2) The Commission[^key-aa0484e8e9b7f4caebb5caa6da0440d1] may issue guidance to the governing bodies of institutions in Wales within the higher education sector on how the bodies may contribute to the pursuit of the purpose of this Act.
+(2) The Commission[^c-aa0484e8e9b7f4caebb5caa6da0440d1] may issue guidance to the governing bodies of institutions in Wales within the higher education sector on how the bodies may contribute to the pursuit of the purpose of this Act.
 
-(3) But the Commission[^key-3f796ba5713afa1b62dfc2d7d6eee81d] may not issue guidance under this section—
+(3) But the Commission[^c-3f796ba5713afa1b62dfc2d7d6eee81d] may not issue guidance under this section—
 
 - (a) which is directed at a particular institution,
 - (b) in respect of courses or programmes of research (including the contents of such courses or programmes or the manner in which they are taught, supervised or assessed),
@@ -208,7 +208,7 @@ The Welsh Ministers must, in exercising their functions, take all reasonable ste
 
 (4) A governing body to which guidance is issued under this section must have regard to it.
 
-(5) Before issuing guidance under this section the Commission[^key-b420d7704ff5cd0657628da50aa1983c] must consult such persons as it considers appropriate.
+(5) Before issuing guidance under this section the Commission[^c-b420d7704ff5cd0657628da50aa1983c] must consult such persons as it considers appropriate.
 
 (6) Guidance issued under this section must be published.
 
@@ -218,13 +218,13 @@ The Welsh Ministers must, in exercising their functions, take all reasonable ste
 - (b) is within the further education sector if it falls within section 91(3) of the Further and Higher Education Act 1992 (c.13) (“**the 1992 Act**”), and
 - (c) is within the higher education sector if it falls within section 91(5) of the 1992 Act.
 
-(8)[^key-103a7bbb3c98618e8b19caeea81bc187] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-103a7bbb3c98618e8b19caeea81bc187] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) In this section “**governing body**” has the meaning given by section 90 of the 1992 Act.
 
 ## Measuring performance towards achieving the purpose of this Act
 
-### 11. National indicators[^key-382fde323719874518754f023a8fbace]
+### 11. National indicators[^c-382fde323719874518754f023a8fbace]
 
 (1) The Welsh Ministers must—
 
@@ -246,7 +246,7 @@ The Welsh Ministers must, in exercising their functions, take all reasonable ste
 
 (5) Before publishing national indicators (including indicators revised under subsection (3)), the Welsh Ministers must consult such persons as they consider appropriate.
 
-### 12. Annual progress reports by the Welsh Ministers[^key-7fb44abd1f67f5d1839d88ea63f519c6]
+### 12. Annual progress reports by the Welsh Ministers[^c-7fb44abd1f67f5d1839d88ea63f519c6]
 
 (1) The Welsh Ministers must, in respect of each financial year, publish a report—
 
@@ -261,7 +261,7 @@ The Welsh Ministers must, in exercising their functions, take all reasonable ste
 
 (5) A report under this section must be published and laid before the National Assembly as soon as reasonably practicable following the end of the financial year to which the report relates.
 
-### 13. Annual progress reports by local authorities and Local Health Boards[^key-ce02c63871a6bbf0ab0542239a1921b8]
+### 13. Annual progress reports by local authorities and Local Health Boards[^c-ce02c63871a6bbf0ab0542239a1921b8]
 
 (1) A local authority and Local Health Board must publish, in respect of each financial year, a report of the progress they have made in achieving the objectives specified in their local strategy.
 
@@ -420,7 +420,7 @@ as the Welsh Ministers consider necessary for the exercise of the National Advis
 
 (4) A relevant authority which decides not to comply with a request under subsection (3) must notify the National Adviser in writing of the reasons for the decision.
 
-### 22. Annual plan and annual reports[^key-b8b3d931097afc18c00a348c21f86268]
+### 22. Annual plan and annual reports[^c-b8b3d931097afc18c00a348c21f86268]
 
 (1) Before 30 November in each financial year the Ministerial Adviser must—
 
@@ -445,7 +445,7 @@ as the Welsh Ministers consider necessary for the exercise of the National Advis
 - (b) a statement of the matters on which the National Adviser has reported under section 21(1)(e) during that year;
 - (c) a statement of the other activities the National Adviser has undertaken during that year in the exercise of the National Adviser's functions.
 
-### 23. Publication of reports[^key-ee46afb69bcb32aade54cbd1dad47d16]
+### 23. Publication of reports[^c-ee46afb69bcb32aade54cbd1dad47d16]
 
 (1) The Welsh Ministers must publish—
 
@@ -553,42 +553,42 @@ The short title of this Act is the Violence against Women, Domestic Abuse and Se
 
 ## Annotations
 
-[^key-ff7a4df3746e889c06037c58cb31ebf5]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2015/3/section/2) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/a)
+[^c-ff7a4df3746e889c06037c58cb31ebf5]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2015/3/section/2) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/a)
 
-[^key-e722d1e18008f92ef4e62d7eb1e07d48]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2015/3/section/3) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/b)
+[^c-e722d1e18008f92ef4e62d7eb1e07d48]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2015/3/section/3) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/b)
 
-[^key-ca87e07ce31f731c3aacbb7ecf01c5d6]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2015/3/section/4) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/c)
+[^c-ca87e07ce31f731c3aacbb7ecf01c5d6]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2015/3/section/4) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/c)
 
-[^key-a5fd5e33d60ead88aefa30802bef4dac]: Commencement: S. 5 in force at 4.1.2016 by [S.I. 2015/2019](https://www.legislation.gov.uk/wsi/2015/2019), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/2019/article/2/a)
+[^c-a5fd5e33d60ead88aefa30802bef4dac]: Commencement: S. 5 in force at 4.1.2016 by [S.I. 2015/2019](https://www.legislation.gov.uk/wsi/2015/2019), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/2019/article/2/a)
 
-[^key-e2dd6a15a2f4576a77dbef8d883e495f]: Textual amendment: S. 5(5A) inserted (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 35](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/35); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-e2dd6a15a2f4576a77dbef8d883e495f]: Textual amendment: S. 5(5A) inserted (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 35](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/35); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
 
-[^key-30d12f9f51464a9325773f1486b7b5dc]: Textual amendment: Words in [s. 5(5A)](https://www.legislation.gov.uk/anaw/2015/3/section/5/5A) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 9](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/9)
+[^c-30d12f9f51464a9325773f1486b7b5dc]: Textual amendment: Words in [s. 5(5A)](https://www.legislation.gov.uk/anaw/2015/3/section/5/5A) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 9](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/9)
 
-[^key-6ff58716c18692ddc6b1404a1962dcc1]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2015/3/section/6) in force at 4.1.2016 by [S.I. 2015/2019](https://www.legislation.gov.uk/wsi/2015/2019), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/2019/article/2/b)
+[^c-6ff58716c18692ddc6b1404a1962dcc1]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2015/3/section/6) in force at 4.1.2016 by [S.I. 2015/2019](https://www.legislation.gov.uk/wsi/2015/2019), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/2019/article/2/b)
 
-[^key-59a0d764778871efcf40caedff80bb7b]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2015/3/section/7) in force at 4.1.2016 by [S.I. 2015/2019](https://www.legislation.gov.uk/wsi/2015/2019), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/2019/article/2/c)
+[^c-59a0d764778871efcf40caedff80bb7b]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2015/3/section/7) in force at 4.1.2016 by [S.I. 2015/2019](https://www.legislation.gov.uk/wsi/2015/2019), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/2019/article/2/c)
 
-[^key-a3883c45f2c082ecc690a11d82bc0da0]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2015/3/section/8) in force at 4.1.2016 by [S.I. 2015/2019](https://www.legislation.gov.uk/wsi/2015/2019), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/2019/article/2/d)
+[^c-a3883c45f2c082ecc690a11d82bc0da0]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2015/3/section/8) in force at 4.1.2016 by [S.I. 2015/2019](https://www.legislation.gov.uk/wsi/2015/2019), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/2019/article/2/d)
 
-[^key-b8ae08aa09ffa9fe12f05e274617502c]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2015/3/section/9) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/d)
+[^c-b8ae08aa09ffa9fe12f05e274617502c]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2015/3/section/9) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/d)
 
-[^key-7e5df5d301d85e48e55fb594d76b84f6]: Textual amendment: Words in s. 10(1) substituted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 33(2)(a)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/33/2/a) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 11(1)](https://www.legislation.gov.uk/wsi/2026/62/article/11/1) (with [art. 11(2)](https://www.legislation.gov.uk/wsi/2026/62/article/11/2)[(3)](https://www.legislation.gov.uk/wsi/2026/62/article/11/3))
+[^c-7e5df5d301d85e48e55fb594d76b84f6]: Textual amendment: Words in s. 10(1) substituted (1.4.2026) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 33(2)(a)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/33/2/a) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 11(1)](https://www.legislation.gov.uk/wsi/2026/62/article/11/1) (with [art. 11(2)](https://www.legislation.gov.uk/wsi/2026/62/article/11/2)[(3)](https://www.legislation.gov.uk/wsi/2026/62/article/11/3))
 
-[^key-aa0484e8e9b7f4caebb5caa6da0440d1]: Textual amendment: Words in s. 10(2) substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 33(2)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/33/2/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xvii)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xvii) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-aa0484e8e9b7f4caebb5caa6da0440d1]: Textual amendment: Words in s. 10(2) substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 33(2)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/33/2/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xvii)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xvii) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
 
-[^key-3f796ba5713afa1b62dfc2d7d6eee81d]: Textual amendment: Words in s. 10(3) substituted (1.8.2024 to the extent it omits the word "HEFCW" and substitutes it with "the Commission", 1.4.2026 in so far as not already in force) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 33(2)(c)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/33/2/c) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 3(c)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/3/c/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww)[(xliv)](https://www.legislation.gov.uk/wsi/2026/62/article/2/xliv)
+[^c-3f796ba5713afa1b62dfc2d7d6eee81d]: Textual amendment: Words in s. 10(3) substituted (1.8.2024 to the extent it omits the word "HEFCW" and substitutes it with "the Commission", 1.4.2026 in so far as not already in force) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 33(2)(c)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/33/2/c) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 3(c)(v)](https://www.legislation.gov.uk/wsi/2024/806/article/3/c/v) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ww)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ww)[(xliv)](https://www.legislation.gov.uk/wsi/2026/62/article/2/xliv)
 
-[^key-b420d7704ff5cd0657628da50aa1983c]: Textual amendment: Words in s. 10(5) substituted (1.8.2024 to the extent it omits the word "HEFCW" and substitutes it with "the Commission", 1.4.2026 in so far as not already in force) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 33(2)(d)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/33/2/d) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 3(c)(vi)](https://www.legislation.gov.uk/wsi/2024/806/article/3/c/vi) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 12(1)](https://www.legislation.gov.uk/wsi/2026/62/article/12/1) (with [art. 12(2)](https://www.legislation.gov.uk/wsi/2026/62/article/12/2))
+[^c-b420d7704ff5cd0657628da50aa1983c]: Textual amendment: Words in s. 10(5) substituted (1.8.2024 to the extent it omits the word "HEFCW" and substitutes it with "the Commission", 1.4.2026 in so far as not already in force) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 33(2)(d)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/33/2/d) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 3(c)(vi)](https://www.legislation.gov.uk/wsi/2024/806/article/3/c/vi) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28)); [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 12(1)](https://www.legislation.gov.uk/wsi/2026/62/article/12/1) (with [art. 12(2)](https://www.legislation.gov.uk/wsi/2026/62/article/12/2))
 
-[^key-103a7bbb3c98618e8b19caeea81bc187]: Textual amendment: S. 10(8) omitted (1.8.2024) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 33(2)(e)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/33/2/e) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xvii)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xvii) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-103a7bbb3c98618e8b19caeea81bc187]: Textual amendment: S. 10(8) omitted (1.8.2024) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 33(2)(e)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/33/2/e) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xvii)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xvii) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
 
-[^key-382fde323719874518754f023a8fbace]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2015/3/section/11) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(e)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/e)
+[^c-382fde323719874518754f023a8fbace]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2015/3/section/11) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(e)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/e)
 
-[^key-7fb44abd1f67f5d1839d88ea63f519c6]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2015/3/section/12) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(f)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/f)
+[^c-7fb44abd1f67f5d1839d88ea63f519c6]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2015/3/section/12) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(f)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/f)
 
-[^key-ce02c63871a6bbf0ab0542239a1921b8]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2015/3/section/13) in force at 4.1.2016 by [S.I. 2015/2019](https://www.legislation.gov.uk/wsi/2015/2019), [art. 2(e)](https://www.legislation.gov.uk/wsi/2015/2019/article/2/e)
+[^c-ce02c63871a6bbf0ab0542239a1921b8]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2015/3/section/13) in force at 4.1.2016 by [S.I. 2015/2019](https://www.legislation.gov.uk/wsi/2015/2019), [art. 2(e)](https://www.legislation.gov.uk/wsi/2015/2019/article/2/e)
 
-[^key-b8b3d931097afc18c00a348c21f86268]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2015/3/section/22) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(g)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/g)
+[^c-b8b3d931097afc18c00a348c21f86268]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2015/3/section/22) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(g)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/g)
 
-[^key-ee46afb69bcb32aade54cbd1dad47d16]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2015/3/section/23) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/h)
+[^c-ee46afb69bcb32aade54cbd1dad47d16]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2015/3/section/23) in force at 5.10.2015 by [S.I. 2015/1680](https://www.legislation.gov.uk/wsi/2015/1680), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/1680/article/2/h)

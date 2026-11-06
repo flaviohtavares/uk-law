@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Abolition of local registers etc[^key-7cd413a7e8e30dcd7f729729cc68f804][^key-4b49296d17a83138af1b2d7600d52a6c][^key-e7f05c9dbe9cf8fd4d3e6810eaddc69b]
+## 51. Abolition of local registers etc[^c-7cd413a7e8e30dcd7f729729cc68f804][^c-4b49296d17a83138af1b2d7600d52a6c][^c-e7f05c9dbe9cf8fd4d3e6810eaddc69b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,8 +31,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7cd413a7e8e30dcd7f729729cc68f804]: Commencement: S. 51 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-7cd413a7e8e30dcd7f729729cc68f804]: Commencement: S. 51 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-4b49296d17a83138af1b2d7600d52a6c]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/56/section/51) in force at 4.3.2024 for specified purposes by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10)
+[^c-4b49296d17a83138af1b2d7600d52a6c]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/56/section/51) in force at 4.3.2024 for specified purposes by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10)
 
-[^key-e7f05c9dbe9cf8fd4d3e6810eaddc69b]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/56/section/51) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-e7f05c9dbe9cf8fd4d3e6810eaddc69b]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/56/section/51) in force at 18.11.2025 for specified purposes by [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)

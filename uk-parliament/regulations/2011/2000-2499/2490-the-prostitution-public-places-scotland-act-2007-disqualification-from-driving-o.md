@@ -48,25 +48,25 @@ Coming into force in accordance with article 1
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 104, 112(1) and 113(3) of the Scotland Act 1998[^f00001].
 
-## 1. Citation, commencement and extent[^key-e8f3b2beb92c736f361456d818ae7b2c]
+## 1. Citation, commencement and extent[^c-e8f3b2beb92c736f361456d818ae7b2c]
 
 (1) This Order may be cited as the Prostitution (Public Places) (Scotland) Act 2007 (Disqualification from Driving) Order 2011 and shall come into force 21 days after the day on which it is laid before Parliament.
 
 (2) This Order extends to Scotland only.
 
-## 2. Interpretation[^key-9d3cf15ffc67ea6722f9f602e858dede]
+## 2. Interpretation[^c-9d3cf15ffc67ea6722f9f602e858dede]
 
 In this Order—
 
 - “the 1988 Act” means the Road Traffic Act 1988[^f00002];
 - “the 2007 Act” means the Prostitution (Public Places) (Scotland) Act 2007[^f00003];
 - “Community licence” has the meaning given by section 108(1) of the 1988 Act[^f00004];
-- [^key-57df1b74f4d3854950dde8f66f06dd23]...
+- [^c-57df1b74f4d3854950dde8f66f06dd23]...
 - “disqualification order” means an order under article 3(1);
 - “motor vehicle” has the meaning given by section 185(1) of the 1988 Act;
 - “Northern Ireland licence” has the meaning given by section 108(1) of the 1988 Act[^f00008].
 
-## 3. Power to disqualify from holding or obtaining a licence[^key-c6aa14b7de7864085da1bcf802ce96de]
+## 3. Power to disqualify from holding or obtaining a licence[^c-c6aa14b7de7864085da1bcf802ce96de]
 
 (1) Where—
 
@@ -87,16 +87,16 @@ the court may make an order that the person is to be disqualified from holding o
 
 (4) A disqualification order may not be made in respect of an offence committed before the coming into force of this Order.
 
-## 4. Requirement to surrender licence[^key-2f2807d63e8b9b82dddaf5ca5a71aef1]
+## 4. Requirement to surrender licence[^c-2f2807d63e8b9b82dddaf5ca5a71aef1]
 
 A court which makes a disqualification order must require the person in respect of whom the order is made to produce any of the following held by the person—
 
 - (a) a licence to drive a motor vehicle granted under Part III of the 1988 Act;
 - (b) a Northern Ireland licence;
-- (c) a Community licence; [^key-12135e0d0ab7f85cd1aef779c26dcbce]...
-- (d)[^key-f2cdae0cf6ecd4ad5d07894edc127e7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) a Community licence; [^c-12135e0d0ab7f85cd1aef779c26dcbce]...
+- (d)[^c-f2cdae0cf6ecd4ad5d07894edc127e7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Appeals procedure[^key-5851856f8e4d2d12f2b2556fec1c99db]
+## 5. Appeals procedure[^c-5851856f8e4d2d12f2b2556fec1c99db]
 
 A person in respect of whom a disqualification order is made may appeal against the order as if it were a sentence imposed by the court on summary conviction.
 
@@ -126,9 +126,9 @@ The 2007 Act provides that these offences are punishable by a fine not exceeding
 
 [^f00001]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-e8f3b2beb92c736f361456d818ae7b2c]: Commencement: Art. 1 in force at 10.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2490/article/1/1)
+[^c-e8f3b2beb92c736f361456d818ae7b2c]: Commencement: Art. 1 in force at 10.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2490/article/1/1)
 
-[^key-9d3cf15ffc67ea6722f9f602e858dede]: Commencement: Art. 2 in force at 10.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2490/article/1/1)
+[^c-9d3cf15ffc67ea6722f9f602e858dede]: Commencement: Art. 2 in force at 10.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2490/article/1/1)
 
 [^f00002]: Footnote: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52).
 
@@ -136,16 +136,16 @@ The 2007 Act provides that these offences are punishable by a fine not exceeding
 
 [^f00004]: Footnote: This definition in section 108(1) was amended by the Driving Licences (Community Driving Licence) Regulations 1996 ([S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974)), Schedule 1, paragraph 19.
 
-[^key-57df1b74f4d3854950dde8f66f06dd23]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2011/2490/article/2) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/16/a)
+[^c-57df1b74f4d3854950dde8f66f06dd23]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2011/2490/article/2) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/16/a)
 
 [^f00008]: Footnote: This definition in section 108(1) was inserted by the Road Traffic (Driver Licensing and Information Systems) Act [1989 (c.22)](https://www.legislation.gov.uk/ukpga/1989/22), section 7 and Schedule 3, paragraph 15.
 
-[^key-c6aa14b7de7864085da1bcf802ce96de]: Commencement: Art. 3 in force at 10.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2490/article/1/1)
+[^c-c6aa14b7de7864085da1bcf802ce96de]: Commencement: Art. 3 in force at 10.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2490/article/1/1)
 
-[^key-2f2807d63e8b9b82dddaf5ca5a71aef1]: Commencement: Art. 4 in force at 10.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2490/article/1/1)
+[^c-2f2807d63e8b9b82dddaf5ca5a71aef1]: Commencement: Art. 4 in force at 10.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2490/article/1/1)
 
-[^key-12135e0d0ab7f85cd1aef779c26dcbce]: Textual amendment: Word in [art. 4(c)](https://www.legislation.gov.uk/uksi/2011/2490/article/4/c) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 16(b)(i)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/16/b/i)
+[^c-12135e0d0ab7f85cd1aef779c26dcbce]: Textual amendment: Word in [art. 4(c)](https://www.legislation.gov.uk/uksi/2011/2490/article/4/c) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 16(b)(i)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/16/b/i)
 
-[^key-f2cdae0cf6ecd4ad5d07894edc127e7c]: Textual amendment: [Art. 4(d)](https://www.legislation.gov.uk/uksi/2011/2490/article/4/d) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 16(b)(ii)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/16/b/ii)
+[^c-f2cdae0cf6ecd4ad5d07894edc127e7c]: Textual amendment: [Art. 4(d)](https://www.legislation.gov.uk/uksi/2011/2490/article/4/d) omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 16(b)(ii)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/16/b/ii)
 
-[^key-5851856f8e4d2d12f2b2556fec1c99db]: Commencement: Art. 5 in force at 10.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2490/article/1/1)
+[^c-5851856f8e4d2d12f2b2556fec1c99db]: Commencement: Art. 5 in force at 10.11.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2490/article/1/1)

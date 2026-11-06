@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Transfers of convicted persons[^key-9ae6e19e539b46ace813061d8078d0e8]
+## 40. Transfers of convicted persons[^c-9ae6e19e539b46ace813061d8078d0e8]
 
 *Extent: S*
 
@@ -124,4 +124,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ae6e19e539b46ace813061d8078d0e8]: Commencement: S. 40 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-9ae6e19e539b46ace813061d8078d0e8]: Commencement: S. 40 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

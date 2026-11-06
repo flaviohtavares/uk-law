@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Councils to publish additional information[^key-255afc66e141112ec268582e99a42416]
+## 49. Councils to publish additional information[^c-255afc66e141112ec268582e99a42416]
 
 *Extent: N.I.*
 
@@ -35,19 +35,19 @@ summary: ''
 
 but this subsection does not require a power to be specified in the list if the arrangements for its discharge by the officer are made for a specified period not exceeding six months.
 
-(3) There must be kept at the offices of a council or on the council’s website[^key-4ca55a467888da88cf9781e25e029998] a written summary of the rights—
+(3) There must be kept at the offices of a council or on the council’s website[^c-4ca55a467888da88cf9781e25e029998] a written summary of the rights—
 
 - (a) to attend meetings of a council and of committees and sub-committees of a council; and
 - (b) to inspect and copy documents and to be furnished with documents,
 
 which are conferred by this Part and such other statutory provisions as the Department may by order specify.
 
-(4) The register maintained under subsection (1), the list maintained under subsection (2) and the summary kept under subsection (3) must be open to inspection by the public at the offices of the council or on the council’s website[^key-c431e22eea2d78e4c2805db25460829e].
+(4) The register maintained under subsection (1), the list maintained under subsection (2) and the summary kept under subsection (3) must be open to inspection by the public at the offices of the council or on the council’s website[^c-c431e22eea2d78e4c2805db25460829e].
 
 ## Annotations
 
-[^key-255afc66e141112ec268582e99a42416]: Commencement: S. 49 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-255afc66e141112ec268582e99a42416]: Commencement: S. 49 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-4ca55a467888da88cf9781e25e029998]: Textual amendment: Words in s. 49(3) inserted (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2020/74/regulation/9/a)
+[^c-4ca55a467888da88cf9781e25e029998]: Textual amendment: Words in s. 49(3) inserted (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [9(a)](https://www.legislation.gov.uk/nisr/2020/74/regulation/9/a)
 
-[^key-c431e22eea2d78e4c2805db25460829e]: Textual amendment: Words in s. 49(4) inserted (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [9(b)](https://www.legislation.gov.uk/nisr/2020/74/regulation/9/b)
+[^c-c431e22eea2d78e4c2805db25460829e]: Textual amendment: Words in s. 49(4) inserted (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [9(b)](https://www.legislation.gov.uk/nisr/2020/74/regulation/9/b)

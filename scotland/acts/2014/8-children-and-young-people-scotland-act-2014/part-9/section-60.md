@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Collaborative working among corporate parents[^key-fa17a4cceeb3792335ad0684e59f5f20]
+## 60. Collaborative working among corporate parents[^c-fa17a4cceeb3792335ad0684e59f5f20]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa17a4cceeb3792335ad0684e59f5f20]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2014/8/section/60) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
+[^c-fa17a4cceeb3792335ad0684e59f5f20]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2014/8/section/60) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)

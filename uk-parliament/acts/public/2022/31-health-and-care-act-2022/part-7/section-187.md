@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Short title[^key-7685e8fa6a1a6d17fcd0941e359648a1]
+## 187. Short title[^c-7685e8fa6a1a6d17fcd0941e359648a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Health and Care Act 2022.
 
 ## Annotations
 
-[^key-7685e8fa6a1a6d17fcd0941e359648a1]: Commencement: S. 187 in force at Royal Assent, see [s. 186(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/1)
+[^c-7685e8fa6a1a6d17fcd0941e359648a1]: Commencement: S. 187 in force at Royal Assent, see [s. 186(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/1)

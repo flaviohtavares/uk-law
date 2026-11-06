@@ -51,10 +51,10 @@ section 494 applies as if that paragraph referred instead to the amount of the d
 
 (7) In this section—
 
-- “**accounting period**” is to be read in accordance with Chapter 2 of Part 2 of CTA 2009[^key-973b80124611081adce4710939a27045],
+- “**accounting period**” is to be read in accordance with Chapter 2 of Part 2 of CTA 2009[^c-973b80124611081adce4710939a27045],
 - “**the policy period**” means the period beginning with the making of the insurance and ending immediately before the chargeable event, and
 - “ **qualifying endowment policy**” means a policy which is a qualifying policy as a result of paragraph 2 of Schedule 15 to ICTA.
 
 ## Annotations
 
-[^key-973b80124611081adce4710939a27045]: Textual amendment: Words in s. 496(7) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 633](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/633) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-973b80124611081adce4710939a27045]: Textual amendment: Words in s. 496(7) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 633](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/633) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

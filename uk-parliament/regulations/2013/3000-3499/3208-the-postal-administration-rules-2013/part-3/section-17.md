@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Limited disclosure[^key-cca48140d02084e5123c076b59598fac]
+## 17. Limited disclosure[^c-cca48140d02084e5123c076b59598fac]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cca48140d02084e5123c076b59598fac]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2013/3208/rule/17) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-cca48140d02084e5123c076b59598fac]: Commencement: [Rule 17](https://www.legislation.gov.uk/uksi/2013/3208/rule/17) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

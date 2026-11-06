@@ -45,7 +45,7 @@ summary: ''
 
 (7) In this regulation and regulation 106—
 
-- “**re-valued pensionable earnings**” means, in relation to each scheme year in the earnings reference period, the pensionable earnings for that year increased up to the beginning date for the old service pension by the rate of change in prices specified by the Treasury by order (in respect of the NHS Pension Scheme 2015)[^key-bdfb85486190e6cff6c528619eb84591] under section 9 of the 2013 Act; and
+- “**re-valued pensionable earnings**” means, in relation to each scheme year in the earnings reference period, the pensionable earnings for that year increased up to the beginning date for the old service pension by the rate of change in prices specified by the Treasury by order (in respect of the NHS Pension Scheme 2015)[^c-bdfb85486190e6cff6c528619eb84591] under section 9 of the 2013 Act; and
 - “the earnings reference period” is the period ending on the last day of the scheme year immediately preceding the scheme year in which the employed pensioner left the old employment and starting on the later of—
   - (a) the first day of the scheme year in which the employed pensioner first joined this scheme; and
   - (b) the first day of the tenth scheme year preceding the scheme year in which the employed pensioner left the old employment.
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdfb85486190e6cff6c528619eb84591]: Textual amendment: Words in [reg. 105(7)](https://www.legislation.gov.uk/uksi/2015/94/regulation/105/7) inserted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2023/301/regulation/14)
+[^c-bdfb85486190e6cff6c528619eb84591]: Textual amendment: Words in [reg. 105(7)](https://www.legislation.gov.uk/uksi/2015/94/regulation/105/7) inserted (1.4.2023) by [The National Health Service Pension Schemes (Amendment) Regulations 2023 (S.I. 2023/301)](https://www.legislation.gov.uk/uksi/2023/301), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/301/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2023/301/regulation/14)
 
 [^c22361551]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56). Section 8(2) has been amended by section 1(5) of the [Pensions (Miscellaneous Provisions) Act 1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7) and section 39(1) and (4) of the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30).

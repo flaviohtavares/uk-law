@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.17. Production of certificates of execution of service[^key-2c728ae8abe4bd841109cdaab8a09c6b]
+## 3.17. Production of certificates of execution of service[^c-2c728ae8abe4bd841109cdaab8a09c6b]
 
 *Extent: S*
 
 (1) The production before the sheriff of–
 
 - (a) a certificate of execution of service in Form 43; and
-- (b) additionally in the case of postal service, a[^key-dcbafbd6f27c1ffbccbbf1b0a8d6c73c] receipt of the registered or recorded delivery letter,
+- (b) additionally in the case of postal service, a[^c-dcbafbd6f27c1ffbccbbf1b0a8d6c73c] receipt of the registered or recorded delivery letter,
 
 shall be sufficient evidence that service was duly made.
 
@@ -31,6 +31,6 @@ shall be sufficient evidence that service was duly made.
 
 ## Annotations
 
-[^key-2c728ae8abe4bd841109cdaab8a09c6b]: Commencement: Rule 3.17 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-2c728ae8abe4bd841109cdaab8a09c6b]: Commencement: Rule 3.17 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
-[^key-dcbafbd6f27c1ffbccbbf1b0a8d6c73c]: Textual amendment: Word in rule 3.17(1)(b) substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(19)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/19) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-dcbafbd6f27c1ffbccbbf1b0a8d6c73c]: Textual amendment: Word in rule 3.17(1)(b) substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(19)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/19) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

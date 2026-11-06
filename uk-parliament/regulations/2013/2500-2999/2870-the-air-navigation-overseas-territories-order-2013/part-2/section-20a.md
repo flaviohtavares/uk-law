@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20A. Aircraft subject to an international interest[^key-6fd408d62c413c1c1d57e221268d8269]
+## 20A. Aircraft subject to an international interest[^c-6fd408d62c413c1c1d57e221268d8269]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fd408d62c413c1c1d57e221268d8269]: Textual amendment: [Art. 20A](https://www.legislation.gov.uk/uksi/2013/2870/article/20A) inserted (coming into force in accordance with art. 1 of the amending S.I.) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2014 (S.I. 2014/3281)](https://www.legislation.gov.uk/uksi/2014/3281), [art. 4](https://www.legislation.gov.uk/uksi/2014/3281/article/4)
+[^c-6fd408d62c413c1c1d57e221268d8269]: Textual amendment: [Art. 20A](https://www.legislation.gov.uk/uksi/2013/2870/article/20A) inserted (coming into force in accordance with art. 1 of the amending S.I.) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2014 (S.I. 2014/3281)](https://www.legislation.gov.uk/uksi/2014/3281), [art. 4](https://www.legislation.gov.uk/uksi/2014/3281/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Complaint[^key-86a7bdf7f62cdb5b4f7d7ab3ed6b3c23]
+## 66. Complaint[^c-86a7bdf7f62cdb5b4f7d7ab3ed6b3c23]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ and, where satisfied that there has been prejudice, take such action as the rele
 
 ## Annotations
 
-[^key-86a7bdf7f62cdb5b4f7d7ab3ed6b3c23]: Commencement: Rule 66 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-86a7bdf7f62cdb5b4f7d7ab3ed6b3c23]: Commencement: Rule 66 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

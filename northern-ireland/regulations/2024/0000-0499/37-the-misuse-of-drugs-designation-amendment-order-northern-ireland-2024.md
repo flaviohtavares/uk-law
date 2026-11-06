@@ -42,13 +42,13 @@ Coming into operation
 
 The Department of Health, makes the following Order in exercise of the powers conferred by section 7(4) and (5) of the Misuse of Drugs Act 1971[^f00001] as adapted by section 7(9) of that Act and now vested in it[^f00002] and after consultation with the Advisory Council on the Misuse of Drugs in accordance with section 7(7) of that Act.
 
-## 1. Citation, commencement and interpretation[^key-9baf2683c94b912b1dc7aa146c55de9f]
+## 1. Citation, commencement and interpretation[^c-9baf2683c94b912b1dc7aa146c55de9f]
 
 (1) This Order may be cited as the Misuse of Drugs (Designation) (Amendment) Order (Northern Ireland) 2024 and shall come into operation on 27th March 2024.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to this Order as it applies to an Act of the Northern Ireland Assembly.
 
-## 2. Amendment of the Misuse of Drugs (Designation) Order (Northern Ireland) 2001[^key-4e4ba090a793578dd6eafc0267711b70]
+## 2. Amendment of the Misuse of Drugs (Designation) Order (Northern Ireland) 2001[^c-4e4ba090a793578dd6eafc0267711b70]
 
 (1) The following amendments are made to Part 1 of Schedule 1 to the Misuse of Drugs (Designation) Order (Northern Ireland) 2001[^f00004] (which specifies Controlled Drugs to which section 7(4) of the Misuse of Drugs Act 1971 applies).
 
@@ -126,10 +126,10 @@ Regulation 2 adds twenty-one substances (including seventeen synthetic opioids, 
 
 [^f00002]: Footnote: [S.R. & O. (N. I.) No. 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504), Article 5(a) and [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(6).
 
-[^key-9baf2683c94b912b1dc7aa146c55de9f]: Commencement: Art. 1 in operation at 27.3.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/37/article/1/1)
+[^c-9baf2683c94b912b1dc7aa146c55de9f]: Commencement: Art. 1 in operation at 27.3.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/37/article/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-4e4ba090a793578dd6eafc0267711b70]: Commencement: Art. 2 in operation at 27.3.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/37/article/1/1)
+[^c-4e4ba090a793578dd6eafc0267711b70]: Commencement: Art. 2 in operation at 27.3.2024, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2024/37/article/1/1)
 
 [^f00004]: Footnote: [S.R. 2001 No. 431](https://www.legislation.gov.uk/nisr/2001/431), relevant amending Orders are [S.R. 2019 No. 207](https://www.legislation.gov.uk/nisr/2019/207), S.R. 2018 Nos. [174](https://www.legislation.gov.uk/nisr/2018/174) and [3](https://www.legislation.gov.uk/nisr/2018/3), S.R. 2015 Nos. [228](https://www.legislation.gov.uk/nisr/2015/228) and [54](https://www.legislation.gov.uk/nisr/2015/54), S.R. 2014 Nos. [262](https://www.legislation.gov.uk/nisr/2014/262), [159](https://www.legislation.gov.uk/nisr/2014/159) and [20](https://www.legislation.gov.uk/nisr/2014/20), [S.R. 2013 No. 77](https://www.legislation.gov.uk/nisr/2013/77), [S.R. 2012 No. 212](https://www.legislation.gov.uk/nisr/2012/212), [S.R. 2011 No. 154](https://www.legislation.gov.uk/nisr/2011/154), S.R. 2010 Nos. [246](https://www.legislation.gov.uk/nisr/2010/246) and [149](https://www.legislation.gov.uk/nisr/2010/149), [S.R. 2009 No. 389](https://www.legislation.gov.uk/nisr/2009/389), [S.R. 2005 No. 359](https://www.legislation.gov.uk/nisr/2005/359) and [S.R. 2021 No. 231](https://www.legislation.gov.uk/nisr/2021/231).

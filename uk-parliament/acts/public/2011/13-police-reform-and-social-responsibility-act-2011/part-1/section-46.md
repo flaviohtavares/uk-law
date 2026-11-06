@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Deputy Assistant Commissioners of Police of the Metropolis[^key-29a633d8b4952fb2204c9d48d55b34f6]
+## 46. Deputy Assistant Commissioners of Police of the Metropolis[^c-29a633d8b4952fb2204c9d48d55b34f6]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29a633d8b4952fb2204c9d48d55b34f6]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2011/13/section/46) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-29a633d8b4952fb2204c9d48d55b34f6]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2011/13/section/46) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

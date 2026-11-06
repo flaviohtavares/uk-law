@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.4. Application to discharge an order for imprisonment[^key-00632b43c42d9ed663bf5701cd0f0f10]
+## 48.4. Application to discharge an order for imprisonment[^c-00632b43c42d9ed663bf5701cd0f0f10]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-00632b43c42d9ed663bf5701cd0f0f10]: Commencement: [Rule 48.4](https://www.legislation.gov.uk/uksi/2025/909/rule/48.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-00632b43c42d9ed663bf5701cd0f0f10]: Commencement: [Rule 48.4](https://www.legislation.gov.uk/uksi/2025/909/rule/48.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01273]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 97(4) was amended by sections 13 and 14 of, and paragraph 7 of Schedule 2 to, the Contempt of Court Act [1981 (c. 47)](https://www.legislation.gov.uk/ukpga/1981/47) and section 17 of, and paragraph 6 of Schedule 3 and Part I of Schedule 4 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53).
 

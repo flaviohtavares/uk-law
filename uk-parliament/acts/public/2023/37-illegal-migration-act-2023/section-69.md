@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Short title[^key-8ef6f64779a8c530175da5c32be1a9a7]
+## 69. Short title[^c-8ef6f64779a8c530175da5c32be1a9a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Illegal Migration Act 2023.
 
 ## Annotations
 
-[^key-8ef6f64779a8c530175da5c32be1a9a7]: Commencement: S. 69 in force at Royal Assent, see [s. 68(3)(e)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/e)
+[^c-8ef6f64779a8c530175da5c32be1a9a7]: Commencement: S. 69 in force at Royal Assent, see [s. 68(3)(e)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/e)

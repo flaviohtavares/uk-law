@@ -50,8 +50,8 @@ summary: ''
 
 (6) Paragraph 41(5)(b) of Schedule 5 has the effect that a replacement option is to be treated as granted on the date when the original option was granted.
 
-(7)[^key-5fed4a9c9938ea1da87a9816feac1d4b] Subsection (1)(a) and (b) do not apply where the relevant company is subject to an employee-ownership trust (within the meaning of paragraph 27(4) to (6) of Schedule 2).
+(7)[^c-5fed4a9c9938ea1da87a9816feac1d4b] Subsection (1)(a) and (b) do not apply where the relevant company is subject to an employee-ownership trust (within the meaning of paragraph 27(4) to (6) of Schedule 2).
 
 ## Annotations
 
-[^key-5fed4a9c9938ea1da87a9816feac1d4b]: Textual amendment: S. 534(7) inserted (retrospective to 1.10.2014) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/1/1)
+[^c-5fed4a9c9938ea1da87a9816feac1d4b]: Textual amendment: S. 534(7) inserted (retrospective to 1.10.2014) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/3/paragraph/1/1)

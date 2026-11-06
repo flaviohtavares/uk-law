@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Abolition of Housing Revenue Account subsidy in England[^key-4629036c8d8e7de2e057f518ecd8d1c1]
+## 167. Abolition of Housing Revenue Account subsidy in England[^c-4629036c8d8e7de2e057f518ecd8d1c1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 15 (abolition of Housing Revenue Account subsidy in England) has effect
 
 ## Annotations
 
-[^key-4629036c8d8e7de2e057f518ecd8d1c1]: Commencement: S. 167 in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)
+[^c-4629036c8d8e7de2e057f518ecd8d1c1]: Commencement: S. 167 in force at 1.10.2013 by [S.I. 2013/797](https://www.legislation.gov.uk/uksi/2013/797), [art. 3](https://www.legislation.gov.uk/uksi/2013/797/article/3)

@@ -24,8 +24,8 @@ summary: ''
 
 (2) An employer who would, apart from this section, be liable to pay an amount of statutory sick pay to an employee in respect of a qualifying day (the “**day in question**”) shall be entitled to withhold payment of that amount if—
 
-- (a) the day in question is one in respect of which he has not been duly notified in accordance with regulations under subsection (1) above; [^key-3e06301501691e9b586f606a7fa90e8b]...
-- (b) [^key-3e06301501691e9b586f606a7fa90e8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the day in question is one in respect of which he has not been duly notified in accordance with regulations under subsection (1) above; [^c-3e06301501691e9b586f606a7fa90e8b]...
+- (b) [^c-3e06301501691e9b586f606a7fa90e8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where an employer withholds any amount of statutory sick pay under this section—
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e06301501691e9b586f606a7fa90e8b]: Textual amendment: [S. 156(2)(b)](https://www.legislation.gov.uk/ukpga/1992/4/section/156/2/b) and word omitted (6.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 10(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/10/7), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/373/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4))
+[^c-3e06301501691e9b586f606a7fa90e8b]: Textual amendment: [S. 156(2)(b)](https://www.legislation.gov.uk/ukpga/1992/4/section/156/2/b) and word omitted (6.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 10(7)](https://www.legislation.gov.uk/ukpga/2025/36/section/10/7), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/373/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4))

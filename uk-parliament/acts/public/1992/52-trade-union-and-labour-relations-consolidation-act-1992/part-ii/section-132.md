@@ -24,7 +24,7 @@ summary: ''
 
 (2)[^c14516151] Subsection (1) does not apply to these provisions—
 
-- (a) section 72A to section 72Q[^key-0d27d536fb527d031bd685e8ebc25cd0];
+- (a) section 72A to section 72Q[^c-0d27d536fb527d031bd685e8ebc25cd0];
 - (b) in section 80, subsections (5A) to (5C) and (8) to (10);
 - (c) in section 81, subsection (8).
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c14516151]: Textual amendment: [S. 132(2)-(5)](https://www.legislation.gov.uk/ukpga/1992/52/section/132/2) inserted (25.10.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [S. 29](https://www.legislation.gov.uk/ukpga/1999/26/section/29), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/1), [20(3)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/6/paragraph/20/3); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1), [Sch. 1 para. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/paragraph/I) (with [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/5))
 
-[^key-0d27d536fb527d031bd685e8ebc25cd0]: Textual amendment: Words in [s. 132(2)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/132/2/a) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2026/881/article/6/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-0d27d536fb527d031bd685e8ebc25cd0]: Textual amendment: Words in [s. 132(2)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/132/2/a) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2026/881/article/6/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

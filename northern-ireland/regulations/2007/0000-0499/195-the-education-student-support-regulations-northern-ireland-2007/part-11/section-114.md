@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 114. Interpretation of regulation 113[^key-6cb4935ffe35ffca716d484fda253667]
+## 114. Interpretation of regulation 113[^c-6cb4935ffe35ffca716d484fda253667]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cb4935ffe35ffca716d484fda253667]: Commencement: [Reg. 114](https://www.legislation.gov.uk/nisr/2007/195/regulation/114) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-6cb4935ffe35ffca716d484fda253667]: Commencement: [Reg. 114](https://www.legislation.gov.uk/nisr/2007/195/regulation/114) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

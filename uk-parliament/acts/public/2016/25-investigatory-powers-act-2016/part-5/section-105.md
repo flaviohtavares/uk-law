@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Decision to issue warrants under sections 102 to 104 to be taken personally by Ministers[^key-da2436504c7ae37bc149b6fe75a33d34]
+## 105. Decision to issue warrants under sections 102 to 104 to be taken personally by Ministers[^c-da2436504c7ae37bc149b6fe75a33d34]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da2436504c7ae37bc149b6fe75a33d34]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2016/25/section/105) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/g)
+[^c-da2436504c7ae37bc149b6fe75a33d34]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2016/25/section/105) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2018/652/regulation/4/g)

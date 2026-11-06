@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Power of councils to prosecute offences[^key-15a5f33ae9c5477d134367755e4b426e]
+## 29. Power of councils to prosecute offences[^c-15a5f33ae9c5477d134367755e4b426e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A council may prosecute proceedings for any offence under this Act.
 
 ## Annotations
 
-[^key-15a5f33ae9c5477d134367755e4b426e]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2011/16/section/29) in operation at 2.4.2012 by [S.R. 2012/154](https://www.legislation.gov.uk/nisr/2012/154), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/154/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/154/schedule/1)
+[^c-15a5f33ae9c5477d134367755e4b426e]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2011/16/section/29) in operation at 2.4.2012 by [S.R. 2012/154](https://www.legislation.gov.uk/nisr/2012/154), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/154/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/154/schedule/1)

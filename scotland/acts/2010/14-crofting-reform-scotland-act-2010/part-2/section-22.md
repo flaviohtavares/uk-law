@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Meaning of “croft” etc.[^key-8e3ac29bcc0dab77ab8186b4924ac0cb]
+## 22. Meaning of “croft” etc.[^c-8e3ac29bcc0dab77ab8186b4924ac0cb]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e3ac29bcc0dab77ab8186b4924ac0cb]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2010/14/section/22) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)
+[^c-8e3ac29bcc0dab77ab8186b4924ac0cb]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2010/14/section/22) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)

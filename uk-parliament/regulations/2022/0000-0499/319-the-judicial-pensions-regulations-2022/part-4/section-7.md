@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Qualifying judicial office[^key-6a1466fdafe9c9e1dc8ca4395f21ab99]
+## 7. Qualifying judicial office[^c-6a1466fdafe9c9e1dc8ca4395f21ab99]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purpose of these Regulations, a person who is appointed to an office spe
 
 ## Annotations
 
-[^key-6a1466fdafe9c9e1dc8ca4395f21ab99]: Commencement: Reg. 7 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-6a1466fdafe9c9e1dc8ca4395f21ab99]: Commencement: Reg. 7 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

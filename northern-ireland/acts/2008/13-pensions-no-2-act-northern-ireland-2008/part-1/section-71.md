@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Agency workers[^key-74f10bff99b91f754eda528b09d7e676][^key-c7809aeba5b1b0899c602fd94a318a67]
+## 71. Agency workers[^c-74f10bff99b91f754eda528b09d7e676][^c-c7809aeba5b1b0899c602fd94a318a67]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74f10bff99b91f754eda528b09d7e676]: Commencement: S. 71 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-74f10bff99b91f754eda528b09d7e676]: Commencement: S. 71 in operation at 30.6.2012 by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
 
-[^key-c7809aeba5b1b0899c602fd94a318a67]: Modification: S. 71 applied by 1993 c. 49, s. 119(2A) (as inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 41(2)(c)](https://www.legislation.gov.uk/nia/2015/5/section/41/2/c), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/f))
+[^c-c7809aeba5b1b0899c602fd94a318a67]: Modification: S. 71 applied by 1993 c. 49, s. 119(2A) (as inserted (16.7.2015) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 41(2)(c)](https://www.legislation.gov.uk/nia/2015/5/section/41/2/c), [53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2015/307/article/2/1/f))

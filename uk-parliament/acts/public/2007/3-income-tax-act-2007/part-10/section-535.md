@@ -24,15 +24,15 @@ summary: ''
 
 (2) Subsection (1) applies if the gain is applicable and applied to charitable purposes only.
 
-(3) In this section “**offshore income gain**” has the same meaning as in Chapter 5 of Part 2 of the Offshore (Tax) Funds Regulations 2009 ([^key-d846b5becbb9992169418a46c52aa58e][S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001)).
+(3) In this section “**offshore income gain**” has the same meaning as in Chapter 5 of Part 2 of the Offshore (Tax) Funds Regulations 2009 ([^c-d846b5becbb9992169418a46c52aa58e][S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001)).
 
-(4) See regulation 31(3) to (5) of the Offshore Funds (Tax) Regulations 2009 ([^key-c8aba03fcc9063e0bf85bb1098552bbb][S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001)), which—
+(4) See regulation 31(3) to (5) of the Offshore Funds (Tax) Regulations 2009 ([^c-c8aba03fcc9063e0bf85bb1098552bbb][S.I. 2009/3001](https://www.legislation.gov.uk/uksi/2009/3001)), which—
 
 - (a) applies where property held on charitable trusts ceases to be subject to charitable trusts, and
 - (b) provides for any gain accruing under that subsection to be treated as an offshore income gain not accruing to a charity.
 
 ## Annotations
 
-[^key-d846b5becbb9992169418a46c52aa58e]: Textual amendment: Words in s. 535(3) substituted (with effect in accordance with art. 1(2)(3) Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [129(4)(a)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/129/4/a)
+[^c-d846b5becbb9992169418a46c52aa58e]: Textual amendment: Words in s. 535(3) substituted (with effect in accordance with art. 1(2)(3) Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [129(4)(a)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/129/4/a)
 
-[^key-c8aba03fcc9063e0bf85bb1098552bbb]: Textual amendment: Words in s. 535(4) substituted (with effect in accordance with art. 1(2)(3) Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [129(4)(b)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/129/4/b)
+[^c-c8aba03fcc9063e0bf85bb1098552bbb]: Textual amendment: Words in s. 535(4) substituted (with effect in accordance with art. 1(2)(3) Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [129(4)(b)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/129/4/b)

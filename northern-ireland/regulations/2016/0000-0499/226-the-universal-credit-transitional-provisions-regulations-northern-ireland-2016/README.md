@@ -59,7 +59,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 
 *Extent: N.I.*
 
-#### CHAPTER A1 — ENTITLEMENT TO CLAIM UNIVERSAL CREDIT[^key-efd1470785fff1980edd1d6e3baeda86]
+#### CHAPTER A1 — ENTITLEMENT TO CLAIM UNIVERSAL CREDIT[^c-efd1470785fff1980edd1d6e3baeda86]
 
 - [Section 2A — Department discretion to determine that claims for universal credit may not be made](part-2/section-2a.md)
 - [Section 2B — Restriction on claims for universal credit by persons entitled to a severe disability premium](part-2/section-2b.md)
@@ -118,7 +118,7 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 - [Section 38 — Loss of benefit penalties transition from working tax credit](part-2/section-38.md)
 - [Section 39 — Loss of benefits penalties maximum total reduction](part-2/section-39.md)
 
-### PART 3 — ARRANGEMENTS REGARDING CHANGES TO THE CHILD ELEMENT[^key-2a455c2db41407bca3a85be67d12e5d8]
+### PART 3 — ARRANGEMENTS REGARDING CHANGES TO THE CHILD ELEMENT[^c-2a455c2db41407bca3a85be67d12e5d8]
 
 - [Section 40 — Restriction on claims for universal credit during the interim period](part-3/section-40.md)
 - [Section 41 — Availability of the child element where maximum exceeded - transitionally protected children and qualifying young persons](part-3/section-41.md)
@@ -126,16 +126,16 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 - [Section 43 — Evidence for non-consensual conception where claimant previously had an award of child tax credit](part-3/section-43.md)
 - [Section 44 — Abolition of higher amount of the child element for first child or qualifying young person – saving where claimant responsible for a child or qualifying young person born before 6th April 2017](part-3/section-44.md)
 
-### PART 4 — MANAGED MIGRATION TO UNIVERSAL CREDIT[^key-e97a2f3efa41f940f3ec36113800032e]
+### PART 4 — MANAGED MIGRATION TO UNIVERSAL CREDIT[^c-e97a2f3efa41f940f3ec36113800032e]
 
-#### The Migration Process[^key-e97a2f3efa41f940f3ec36113800032e]
+#### The Migration Process[^c-e97a2f3efa41f940f3ec36113800032e]
 
 - [Section 45 — Migration notice](part-4/section-45.md)
 - [Section 46 — Extension of the deadline day](part-4/section-46.md)
 - [Section 47 — Termination of existing benefits if no claim before the deadline](part-4/section-47.md)
 - [Section 48 — Notified persons who claim as a different benefit unit](part-4/section-48.md)
 
-#### Transitional Protection[^key-e97a2f3efa41f940f3ec36113800032e]
+#### Transitional Protection[^c-e97a2f3efa41f940f3ec36113800032e]
 
 - [Section 49 — Meaning of “qualifying claim”](part-4/section-49.md)
 - [Section 50 — Meaning of “migration day”](part-4/section-50.md)
@@ -146,12 +146,12 @@ Those powers are exercisable by the Secretary of State by virtue of Article 4(1)
 - [Section 55 — The transitional element - indicative UC amount](part-4/section-55.md)
 - [Section 56 — The transitional element – initial amount and adjustment where other elements increase](part-4/section-56.md)
 
-#### Ending of transitional protection[^key-e97a2f3efa41f940f3ec36113800032e]
+#### Ending of transitional protection[^c-e97a2f3efa41f940f3ec36113800032e]
 
 - [Section 57 — Circumstances in which transitional protection ceases](part-4/section-57.md)
 - [Section 58 — Application of transitional protection to a subsequent award](part-4/section-58.md)
 
-#### Miscellaneous[^key-e97a2f3efa41f940f3ec36113800032e]
+#### Miscellaneous[^c-e97a2f3efa41f940f3ec36113800032e]
 
 - [Section 59 — Qualifying claim – Department may set later commencement day](part-4/section-59.md)
 - [Section 60 — Minimum income floor not to apply for first 12 months](part-4/section-60.md)
@@ -231,8 +231,8 @@ An assessment has been made of the impact of Universal Credit. Copies of the imp
 
 [^f00001]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006); for the meaning of “prescribed” and “Regulations” see Article 5.
 
-[^key-efd1470785fff1980edd1d6e3baeda86]: Textual amendment: [Pt. 2 Ch. A1](https://www.legislation.gov.uk/nisr/2016/226/part/2/chapter/A1) inserted (coming into operation in accordance with reg. 1(9) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(9)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/9), [12(2)](https://www.legislation.gov.uk/nisr/2017/116/regulation/12/2)
+[^c-efd1470785fff1980edd1d6e3baeda86]: Textual amendment: [Pt. 2 Ch. A1](https://www.legislation.gov.uk/nisr/2016/226/part/2/chapter/A1) inserted (coming into operation in accordance with reg. 1(9) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(9)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/9), [12(2)](https://www.legislation.gov.uk/nisr/2017/116/regulation/12/2)
 
-[^key-2a455c2db41407bca3a85be67d12e5d8]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/nisr/2016/226/part/3) inserted (coming into operation in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/79)](https://www.legislation.gov.uk/nisr/2017/79), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/79/regulation/1/3), [3(3)](https://www.legislation.gov.uk/nisr/2017/79/regulation/3/3)
+[^c-2a455c2db41407bca3a85be67d12e5d8]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/nisr/2016/226/part/3) inserted (coming into operation in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/79)](https://www.legislation.gov.uk/nisr/2017/79), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/79/regulation/1/3), [3(3)](https://www.legislation.gov.uk/nisr/2017/79/regulation/3/3)
 
-[^key-e97a2f3efa41f940f3ec36113800032e]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/nisr/2016/226/part/4) added (24.7.2019) by [The Universal Credit (Managed Migration and Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/152)](https://www.legislation.gov.uk/nisr/2019/152), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/2), [2(8)](https://www.legislation.gov.uk/nisr/2019/152/regulation/2/8)
+[^c-e97a2f3efa41f940f3ec36113800032e]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/nisr/2016/226/part/4) added (24.7.2019) by [The Universal Credit (Managed Migration and Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/152)](https://www.legislation.gov.uk/nisr/2019/152), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/152/regulation/1/2), [2(8)](https://www.legislation.gov.uk/nisr/2019/152/regulation/2/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Social Security Contributions and Benefits (Northern Ireland) Act 1992[^key-8017f77558b5ef66d9ccce63c1786d60]
+## 66. Social Security Contributions and Benefits (Northern Ireland) Act 1992[^c-8017f77558b5ef66d9ccce63c1786d60]
 
 *Extent: N.I.*
 
@@ -314,7 +314,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8017f77558b5ef66d9ccce63c1786d60]: Commencement: Reg. 66 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-8017f77558b5ef66d9ccce63c1786d60]: Commencement: Reg. 66 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00096]: Footnote: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7).
 

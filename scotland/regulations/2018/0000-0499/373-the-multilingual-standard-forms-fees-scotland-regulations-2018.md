@@ -32,7 +32,7 @@ summary: ''
 
 Registration Of Births, Deaths & Marriages, Etc.
 
-The Multilingual Standard Forms (Fees) (Scotland) Regulations 2018 (revoked)[^key-0e734a7c5f5c3ea0d634a8ff4f642e4e]
+The Multilingual Standard Forms (Fees) (Scotland) Regulations 2018 (revoked)[^c-0e734a7c5f5c3ea0d634a8ff4f642e4e]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 16th February 2019
 
-[^key-0e734a7c5f5c3ea0d634a8ff4f642e4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e734a7c5f5c3ea0d634a8ff4f642e4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-0e734a7c5f5c3ea0d634a8ff4f642e4e]
+## 1. Citation, commencement and extent[^c-0e734a7c5f5c3ea0d634a8ff4f642e4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees for issue of multilingual standard forms[^key-0e734a7c5f5c3ea0d634a8ff4f642e4e]
+## 2. Fees for issue of multilingual standard forms[^c-0e734a7c5f5c3ea0d634a8ff4f642e4e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0e734a7c5f5c3ea0d634a8ff4f642e4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e734a7c5f5c3ea0d634a8ff4f642e4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0e734a7c5f5c3ea0d634a8ff4f642e4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0e734a7c5f5c3ea0d634a8ff4f642e4e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0e734a7c5f5c3ea0d634a8ff4f642e4e]: Textual amendment: Regulations revoked (31.12.2020) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2), [14](https://www.legislation.gov.uk/ssi/2020/441/regulation/14)
+[^c-0e734a7c5f5c3ea0d634a8ff4f642e4e]: Textual amendment: Regulations revoked (31.12.2020) by [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2), [14](https://www.legislation.gov.uk/ssi/2020/441/regulation/14)

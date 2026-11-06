@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Liability for compliance with protector’s direction[^key-3593528e610ca13190f4937503a23d1b]
+## 57. Liability for compliance with protector’s direction[^c-3593528e610ca13190f4937503a23d1b]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3593528e610ca13190f4937503a23d1b]: Commencement: S. 57 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-3593528e610ca13190f4937503a23d1b]: Commencement: S. 57 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

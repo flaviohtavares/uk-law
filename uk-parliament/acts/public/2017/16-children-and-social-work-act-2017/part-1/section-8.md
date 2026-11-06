@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Care orders: permanence provisions[^key-d53c986270e6c17a6da9b7b2904868f5]
+## 8. Care orders: permanence provisions[^c-d53c986270e6c17a6da9b7b2904868f5]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ In section 31 of the Children Act 1989 (care and supervision orders), for subsec
 
 ## Annotations
 
-[^key-d53c986270e6c17a6da9b7b2904868f5]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/16/section/8) in force at 31.10.2017 by [S.I. 2017/918](https://www.legislation.gov.uk/uksi/2017/918), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/918/regulation/2/a)
+[^c-d53c986270e6c17a6da9b7b2904868f5]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/16/section/8) in force at 31.10.2017 by [S.I. 2017/918](https://www.legislation.gov.uk/uksi/2017/918), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/918/regulation/2/a)

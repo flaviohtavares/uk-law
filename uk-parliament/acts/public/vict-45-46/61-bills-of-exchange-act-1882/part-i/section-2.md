@@ -34,7 +34,7 @@ In this Act, unless the context otherwise requires,—
 - “**Issue**” means the first delivery of a bill or note, complete in form to a person who takes it as a holder.
 - “**Person**” includes a body of persons whether incorporated or not.
 
-“postal operator” has the meaning given by[^c580821] section 27 of the Postal Services Act 2011[^key-2437bfe756922ffb555523fbc26baed5].
+“postal operator” has the meaning given by[^c580821] section 27 of the Postal Services Act 2011[^c-2437bfe756922ffb555523fbc26baed5].
 
 - “**Value**” means valuable consideration.
 - “**Written**” includes printed, and “**writing**” includes print.
@@ -45,4 +45,4 @@ In this Act, unless the context otherwise requires,—
 
 [^c580821]: Textual amendment: S. 2: Definition of “postal operator” inserted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/4/2)
 
-[^key-2437bfe756922ffb555523fbc26baed5]: Textual amendment: Words in s. 2 substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 73](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/73); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-2437bfe756922ffb555523fbc26baed5]: Textual amendment: Words in s. 2 substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 73](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/73); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

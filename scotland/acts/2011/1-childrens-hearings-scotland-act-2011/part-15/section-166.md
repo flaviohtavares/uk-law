@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 166. Review of requirement imposed on local authority[^key-75237f8f558d03dfabb4c28f10e3fbd2]
+## 166. Review of requirement imposed on local authority[^c-75237f8f558d03dfabb4c28f10e3fbd2]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75237f8f558d03dfabb4c28f10e3fbd2]: Commencement: S. 166 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-75237f8f558d03dfabb4c28f10e3fbd2]: Commencement: S. 166 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

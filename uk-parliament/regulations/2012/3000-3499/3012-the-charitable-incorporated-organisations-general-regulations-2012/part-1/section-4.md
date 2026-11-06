@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Interpretation: hard copy, electronic form and related expressions[^key-55929c1fea545061abb156ff927fe867]
+## 4. Interpretation: hard copy, electronic form and related expressions[^c-55929c1fea545061abb156ff927fe867]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ and references to “electronic means” in these Regulations have a correspondi
 
 ## Annotations
 
-[^key-55929c1fea545061abb156ff927fe867]: Commencement: Reg. 4 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-55929c1fea545061abb156ff927fe867]: Commencement: Reg. 4 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

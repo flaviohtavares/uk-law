@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where an agreement is not an NHS contract, a dispute arising out of or in connection with the agreement, except any matter dealt with under the complaints procedure under Part 12, may be referred for consideration and determination by the Secretary of State—
 
-- (a) if it relates to a period when the contractor was treated as a health service body, by the contractor or by NHS England[^key-9520329cffeb7671913a444ac58ebf84]; or
+- (a) if it relates to a period when the contractor was treated as a health service body, by the contractor or by NHS England[^c-9520329cffeb7671913a444ac58ebf84]; or
 - (b) in any other case, by the contractor or, if the contractor agrees in writing, by NHS England.
 
 (2) Where a dispute is referred to the Secretary of State under paragraph (1)—
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

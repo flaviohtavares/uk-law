@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Defence to proceedings in respect of statutory nuisance[^key-394496ca4382e959c4115a735d5989c1]
+## 9. Defence to proceedings in respect of statutory nuisance[^c-394496ca4382e959c4115a735d5989c1]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-394496ca4382e959c4115a735d5989c1]: Commencement: Art. 9 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-394496ca4382e959c4115a735d5989c1]: Commencement: Art. 9 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
 
 [^f00014]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). Section 82(1) was amended by paragraph 6 of Schedule 17 to the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25). There are amendments to this Act which are not relevant to this Order.
 

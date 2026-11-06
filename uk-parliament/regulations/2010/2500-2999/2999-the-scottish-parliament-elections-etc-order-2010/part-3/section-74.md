@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Details to appear on election publications[^key-7e50318fa103739967bfccf4f47a95ac]
+## 74. Details to appear on election publications[^c-7e50318fa103739967bfccf4f47a95ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,12 +85,12 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 (14) For the purpose of determining whether any material is material such as is mentioned in paragraph (1), it is immaterial that it does not expressly mention the name of any candidate.
 
-(15)[^key-915e582c4f881a49c23b9a515c35e7cd] Regulations under paragraph (7) shall be subject to the negative procedure.
+(15)[^c-915e582c4f881a49c23b9a515c35e7cd] Regulations under paragraph (7) shall be subject to the negative procedure.
 
 ## Annotations
 
-[^key-7e50318fa103739967bfccf4f47a95ac]: Commencement: Art. 74 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-7e50318fa103739967bfccf4f47a95ac]: Commencement: Art. 74 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00049]: Footnote: Section 143 was amended by the 2000 Act, section 66(2).
 
-[^key-915e582c4f881a49c23b9a515c35e7cd]: Textual amendment: [Art. 74(15)](https://www.legislation.gov.uk/uksi/2010/2999/article/74/15) substituted (1.7.2015) by [The Scotland Act 2012 (Saving and Consequential Provisions) Order 2015 (S.I. 2015/683)](https://www.legislation.gov.uk/uksi/2015/683), [arts. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1), [8](https://www.legislation.gov.uk/uksi/2015/683/article/8) (with [arts. 3-9](https://www.legislation.gov.uk/uksi/2015/683/article/3))
+[^c-915e582c4f881a49c23b9a515c35e7cd]: Textual amendment: [Art. 74(15)](https://www.legislation.gov.uk/uksi/2010/2999/article/74/15) substituted (1.7.2015) by [The Scotland Act 2012 (Saving and Consequential Provisions) Order 2015 (S.I. 2015/683)](https://www.legislation.gov.uk/uksi/2015/683), [arts. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1), [8](https://www.legislation.gov.uk/uksi/2015/683/article/8) (with [arts. 3-9](https://www.legislation.gov.uk/uksi/2015/683/article/3))

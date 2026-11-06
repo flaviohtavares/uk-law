@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Composition of tribunals[^key-7d569eb9c0f673fac226e1120640b4da]
+## 9. Composition of tribunals[^c-7d569eb9c0f673fac226e1120640b4da]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d569eb9c0f673fac226e1120640b4da]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/1237/regulation/9) omitted (27.1.2024) by virtue of [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2024/94/regulation/8/3) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+[^c-7d569eb9c0f673fac226e1120640b4da]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/1237/regulation/9) omitted (27.1.2024) by virtue of [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2024/94/regulation/8/3) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Purpose for which notices may be given[^key-0aeec71e362daec29fe0a5700168b592]
+## 16. Purpose for which notices may be given[^c-0aeec71e362daec29fe0a5700168b592]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0aeec71e362daec29fe0a5700168b592]: Commencement: S. 16 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-0aeec71e362daec29fe0a5700168b592]: Commencement: S. 16 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

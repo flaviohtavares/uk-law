@@ -44,14 +44,14 @@ but nothing in this subsection affects the provisions of Schedule 1 to this Act.
 
   > - 7. The unit of account mentioned in this Convention is the Special Drawing Right as defined by the International Monetary Fund. The amount mentioned in paragraph 3 of this article shall be converted into the national currency of the State of the Court seised of the case on the basis of the value of that currency on the date of the judgment or the date agreed upon by the Parties.
 
-(3)[^key-28f2dfb4ee0241e709d717675efff6db][^c984154] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-28f2dfb4ee0241e709d717675efff6db][^c984154] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) If judgment in respect of a liability limited by the said Article 22, 23 [^key-aeea4ebfe6c061935ce8039e4700ced2]... is given—
+(4) If judgment in respect of a liability limited by the said Article 22, 23 [^c-aeea4ebfe6c061935ce8039e4700ced2]... is given—
 
 - (a) in the case of a liability limited by the said Article 22, at a time when the amendments made by this section to that Article are in force for the purposes of the liability; or
 - (b) in any other case, at a time when the amendments made by this section to the other Article in question are in force,
 
-then, notwithstanding that the liability arose before the amendments in question came into force, the judgment shall be in accordance with that Article as amended by this section [^key-aeea4ebfe6c061935ce8039e4700ced2]... .
+then, notwithstanding that the liability arose before the amendments in question came into force, the judgment shall be in accordance with that Article as amended by this section [^c-aeea4ebfe6c061935ce8039e4700ced2]... .
 
 ## Annotations
 
@@ -65,6 +65,6 @@ then, notwithstanding that the liability arose before the amendments in question
 
 [^c984155]: Marginal citation: [1965 c. 37](https://www.legislation.gov.uk/ukpga/1965/37)
 
-[^key-28f2dfb4ee0241e709d717675efff6db]: Textual amendment: S. 4(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-28f2dfb4ee0241e709d717675efff6db]: Textual amendment: S. 4(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
-[^key-aeea4ebfe6c061935ce8039e4700ced2]: Textual amendment: Words in s. 4(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-aeea4ebfe6c061935ce8039e4700ced2]: Textual amendment: Words in s. 4(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

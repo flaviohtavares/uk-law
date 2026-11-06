@@ -34,7 +34,7 @@ summary: ''
 
 (3) Without prejudice to the generality of subsection (1), provision may be made by regulations under this section applying in relation to an international trade mark (UK) the provisions of—
 
-- (a)[^key-ee833dbafde480a0f0cae0554da92b71] sections 21 to 21F (unjustified threats);
+- (a)[^c-ee833dbafde480a0f0cae0554da92b71] sections 21 to 21F (unjustified threats);
 - (b) sections 89 to 91 (importation of infringing goods, material or articles); and
 - (c) sections 92, 93, 95 and 96 (offences).
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee833dbafde480a0f0cae0554da92b71]: Textual amendment: S. 54(3)(a) substituted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2017/14/section/2/4), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-ee833dbafde480a0f0cae0554da92b71]: Textual amendment: S. 54(3)(a) substituted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2017/14/section/2/4), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))

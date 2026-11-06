@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Supply of full register etc to registered political parties etc and restrictions on use[^key-8015c82acfaadd1d0430bb4d63999e40][^key-e7e11c4a1689c6ea930c08863d88fdb7]
+## 106. Supply of full register etc to registered political parties etc and restrictions on use[^c-8015c82acfaadd1d0430bb4d63999e40][^c-e7e11c4a1689c6ea930c08863d88fdb7]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ otherwise than for the purposes set out in paragraph (4) below.
 
 ## Annotations
 
-[^key-8015c82acfaadd1d0430bb4d63999e40]: Modification: [Reg. 106](https://www.legislation.gov.uk/uksi/2001/341/regulation/106) applied (with modifications) (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/1962/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2004/1962/article/6/1), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2004/1962/schedule/2/part/3)
+[^c-8015c82acfaadd1d0430bb4d63999e40]: Modification: [Reg. 106](https://www.legislation.gov.uk/uksi/2001/341/regulation/106) applied (with modifications) (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/1962/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2004/1962/article/6/1), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2004/1962/schedule/2/part/3)
 
-[^key-e7e11c4a1689c6ea930c08863d88fdb7]: Textual amendment: Pt. 6 inserted (16.10.2002) by [The Representation of the People (England and Wales) (Amendment) Regulations 2002 (S.I. 2002/1871)](https://www.legislation.gov.uk/uksi/2002/1871), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/2), [15](https://www.legislation.gov.uk/uksi/2002/1871/regulation/15) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/3))
+[^c-e7e11c4a1689c6ea930c08863d88fdb7]: Textual amendment: Pt. 6 inserted (16.10.2002) by [The Representation of the People (England and Wales) (Amendment) Regulations 2002 (S.I. 2002/1871)](https://www.legislation.gov.uk/uksi/2002/1871), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/2), [15](https://www.legislation.gov.uk/uksi/2002/1871/regulation/15) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/3))

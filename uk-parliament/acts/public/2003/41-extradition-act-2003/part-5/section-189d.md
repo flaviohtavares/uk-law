@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189D. Codes of practice[^key-7ddb265a619d075689e9deae39301a48]
+## 189D. Codes of practice[^c-7ddb265a619d075689e9deae39301a48]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ddb265a619d075689e9deae39301a48]: Textual amendment: Ss. 189A-189E and cross-heading inserted (1.5.2021) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 168](https://www.legislation.gov.uk/ukpga/2014/12/section/168), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2021/532](https://www.legislation.gov.uk/uksi/2021/532), [art. 3](https://www.legislation.gov.uk/uksi/2021/532/article/3)
+[^c-7ddb265a619d075689e9deae39301a48]: Textual amendment: Ss. 189A-189E and cross-heading inserted (1.5.2021) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 168](https://www.legislation.gov.uk/ukpga/2014/12/section/168), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2021/532](https://www.legislation.gov.uk/uksi/2021/532), [art. 3](https://www.legislation.gov.uk/uksi/2021/532/article/3)

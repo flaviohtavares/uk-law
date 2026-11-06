@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. National deer management and venison plan: matters which may be considered[^key-c4976f1c165f4d702389069e8b8ff9e6][^key-80a18edfb811bc6b620a5cbeae4183f0]
+## 24. National deer management and venison plan: matters which may be considered[^c-c4976f1c165f4d702389069e8b8ff9e6][^c-80a18edfb811bc6b620a5cbeae4183f0]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ After section 40B of the 1996 Act, insert—
 
 ## Annotations
 
-[^key-c4976f1c165f4d702389069e8b8ff9e6]: Commencement: S. 24 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-c4976f1c165f4d702389069e8b8ff9e6]: Commencement: S. 24 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-80a18edfb811bc6b620a5cbeae4183f0]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2026/6/section/24) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/o)
+[^c-80a18edfb811bc6b620a5cbeae4183f0]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2026/6/section/24) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(o)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/o)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52B. Sections 52 and 52A: exceptions for photographs of 16 and 17 year olds[^key-584707b38e84ba83719345f107a57e73]
+## 52B. Sections 52 and 52A: exceptions for photographs of 16 and 17 year olds[^c-584707b38e84ba83719345f107a57e73]
 
 *Extent: S*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-584707b38e84ba83719345f107a57e73]: Textual amendment: Ss. 52B, 52C inserted (7.10.2005) by [Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (asp 9)](https://www.legislation.gov.uk/asp/2005/9), [ss. 16(3)](https://www.legislation.gov.uk/asp/2005/9/section/16/3), [20(2)](https://www.legislation.gov.uk/asp/2005/9/section/20/2); [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)
+[^c-584707b38e84ba83719345f107a57e73]: Textual amendment: Ss. 52B, 52C inserted (7.10.2005) by [Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (asp 9)](https://www.legislation.gov.uk/asp/2005/9), [ss. 16(3)](https://www.legislation.gov.uk/asp/2005/9/section/16/3), [20(2)](https://www.legislation.gov.uk/asp/2005/9/section/20/2); [S.S.I. 2005/480](https://www.legislation.gov.uk/ssi/2005/480), [art. 2](https://www.legislation.gov.uk/ssi/2005/480/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Proposal to make notifiable change[^key-f73f4b12f10029a90476dfac08db3b37]
+## 29. Proposal to make notifiable change[^c-f73f4b12f10029a90476dfac08db3b37]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f73f4b12f10029a90476dfac08db3b37]: Commencement: S. 29 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-f73f4b12f10029a90476dfac08db3b37]: Commencement: S. 29 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

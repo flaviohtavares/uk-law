@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Authority’s right to remove and dispose of property[^key-b46fda66dfaece9e0002ac154010b099]
+## 45. Authority’s right to remove and dispose of property[^c-b46fda66dfaece9e0002ac154010b099]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b46fda66dfaece9e0002ac154010b099]: Commencement: S. 45 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-b46fda66dfaece9e0002ac154010b099]: Commencement: S. 45 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Designation of an Interim Border Security Commander[^key-2ee35730276e94e4a428a8da59cda7fa][^key-102f70a8dd5ff03c08bc2ed3011cd129]
+## 8. Designation of an Interim Border Security Commander[^c-2ee35730276e94e4a428a8da59cda7fa][^c-102f70a8dd5ff03c08bc2ed3011cd129]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ee35730276e94e4a428a8da59cda7fa]: Commencement: S. 8 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-2ee35730276e94e4a428a8da59cda7fa]: Commencement: S. 8 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-102f70a8dd5ff03c08bc2ed3011cd129]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2025/31/section/8) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)
+[^c-102f70a8dd5ff03c08bc2ed3011cd129]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2025/31/section/8) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)

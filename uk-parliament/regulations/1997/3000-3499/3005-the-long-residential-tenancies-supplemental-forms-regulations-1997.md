@@ -44,11 +44,11 @@ Coming into force
 
 The Secretary of State for the Environment, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred on them by sections 18 and 66 of and paragraph 5 of Schedule 5 to the Landlord and Tenant Act 1954[^f00001], as applied by section 186(5) of and paragraph 19 of Schedule 10 to the Local Government and Housing Act 1989[^f00002], and now vested in them[^f00003] and of all other powers enabling them in that behalf, hereby make the following Regulations—
 
-## 1. Citation and commencement[^key-7cf85e22d63b84b493f727e6d00ca270]
+## 1. Citation and commencement[^c-7cf85e22d63b84b493f727e6d00ca270]
 
 These Regulations may be cited as the Long Residential Tenancies (Supplemental Forms) Regulations and shall come into force on 15th January 1998.
 
-## 2. Interpretation[^key-6ed14347e83c11ea0580c7fccdf84572]
+## 2. Interpretation[^c-6ed14347e83c11ea0580c7fccdf84572]
 
 In these Regulations—
 
@@ -57,7 +57,7 @@ In these Regulations—
 
 any reference to a numbered form is a reference to the form bearing that number in the Schedule, or to a form substantially to the same effect.
 
-## 3. Forms[^key-ea66e6c480cbe65d6ef9b44d750f6c26]
+## 3. Forms[^c-ea66e6c480cbe65d6ef9b44d750f6c26]
 
 The forms prescribed for the purposes specified below shall be as follows—
 
@@ -83,7 +83,7 @@ Parliamentary Under Secretary of State, Welsh Office
 
 16th December 1997
 
-## SCHEDULE — Prescribed Forms[^key-64ee1bbaa6f02cdd465ea5b393c4eff5]
+## SCHEDULE — Prescribed Forms[^c-64ee1bbaa6f02cdd465ea5b393c4eff5]
 
 Regulation 3
 
@@ -125,10 +125,10 @@ Forms 1 to 6 are prescribed for the purposes of Schedule 10 in the Long Resident
 
 [^f00003]: Footnote: S.I. [1974/1896](https://www.legislation.gov.uk/uksi/1974/1896).
 
-[^key-7cf85e22d63b84b493f727e6d00ca270]: Commencement: Reg. 1 in force at 15.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/3005/regulation/1)
+[^c-7cf85e22d63b84b493f727e6d00ca270]: Commencement: Reg. 1 in force at 15.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/3005/regulation/1)
 
-[^key-6ed14347e83c11ea0580c7fccdf84572]: Commencement: Reg. 2 in force at 15.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/3005/regulation/1)
+[^c-6ed14347e83c11ea0580c7fccdf84572]: Commencement: Reg. 2 in force at 15.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/3005/regulation/1)
 
-[^key-ea66e6c480cbe65d6ef9b44d750f6c26]: Commencement: Reg. 3 in force at 15.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/3005/regulation/1)
+[^c-ea66e6c480cbe65d6ef9b44d750f6c26]: Commencement: Reg. 3 in force at 15.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/3005/regulation/1)
 
-[^key-64ee1bbaa6f02cdd465ea5b393c4eff5]: Commencement: Sch. in force at 15.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/3005/regulation/1)
+[^c-64ee1bbaa6f02cdd465ea5b393c4eff5]: Commencement: Sch. in force at 15.1.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/3005/regulation/1)

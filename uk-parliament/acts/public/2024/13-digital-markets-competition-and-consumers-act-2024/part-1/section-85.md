@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Penalties for failure to comply with competition requirements[^key-7d431a4ba0ca485cd272942d6defad61][^key-634e439934b4bc1cc57c087004318782]
+## 85. Penalties for failure to comply with competition requirements[^c-7d431a4ba0ca485cd272942d6defad61][^c-634e439934b4bc1cc57c087004318782]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d431a4ba0ca485cd272942d6defad61]: Commencement: S. 85 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-7d431a4ba0ca485cd272942d6defad61]: Commencement: S. 85 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-634e439934b4bc1cc57c087004318782]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2024/13/section/85) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-634e439934b4bc1cc57c087004318782]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2024/13/section/85) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

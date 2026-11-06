@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.26. Procedure following order for transfer[^key-c707444db0290fcb567281188110d900]
+## 4.26. Procedure following order for transfer[^c-c707444db0290fcb567281188110d900]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c707444db0290fcb567281188110d900]: Commencement: Rule 4.26 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-c707444db0290fcb567281188110d900]: Commencement: Rule 4.26 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

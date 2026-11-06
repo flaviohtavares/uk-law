@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Financial support for other activities connected to tertiary education[^key-f3936c6bc5490c645cebf5169d927794][^key-3956320de3014d6e6b01f5eea6e19017][^key-3c40bc88c74b06e4ba6213693516d70a]
+## 103. Financial support for other activities connected to tertiary education[^c-f3936c6bc5490c645cebf5169d927794][^c-3956320de3014d6e6b01f5eea6e19017][^c-3c40bc88c74b06e4ba6213693516d70a]
 
 *Extent: E+W*
 
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f3936c6bc5490c645cebf5169d927794]: Commencement: S. 103 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-f3936c6bc5490c645cebf5169d927794]: Commencement: S. 103 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-3956320de3014d6e6b01f5eea6e19017]: Commencement: [S. 103](https://www.legislation.gov.uk/asc/2022/1/section/103) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(jj)](https://www.legislation.gov.uk/wsi/2023/919/article/3/jj)
+[^c-3956320de3014d6e6b01f5eea6e19017]: Commencement: [S. 103](https://www.legislation.gov.uk/asc/2022/1/section/103) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(jj)](https://www.legislation.gov.uk/wsi/2023/919/article/3/jj)
 
-[^key-3c40bc88c74b06e4ba6213693516d70a]: Commencement: [S. 103](https://www.legislation.gov.uk/asc/2022/1/section/103) in force at 1.4.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(cc)](https://www.legislation.gov.uk/wsi/2026/62/article/2/cc)
+[^c-3c40bc88c74b06e4ba6213693516d70a]: Commencement: [S. 103](https://www.legislation.gov.uk/asc/2022/1/section/103) in force at 1.4.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(cc)](https://www.legislation.gov.uk/wsi/2026/62/article/2/cc)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Warning notice[^key-ce3f2bb111f038ff1754453063623dc0]
+## 118. Warning notice[^c-ce3f2bb111f038ff1754453063623dc0]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce3f2bb111f038ff1754453063623dc0]: Commencement: [S. 118](https://www.legislation.gov.uk/anaw/2014/7/section/118) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-ce3f2bb111f038ff1754453063623dc0]: Commencement: [S. 118](https://www.legislation.gov.uk/anaw/2014/7/section/118) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

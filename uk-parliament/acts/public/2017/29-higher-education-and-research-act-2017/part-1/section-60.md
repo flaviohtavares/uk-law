@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Appeals against revocation of authorisation[^key-019a4e000a758ce98ad7c341a8f1f6e2]
+## 60. Appeals against revocation of authorisation[^c-019a4e000a758ce98ad7c341a8f1f6e2]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-019a4e000a758ce98ad7c341a8f1f6e2]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2017/29/section/60) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/g)
+[^c-019a4e000a758ce98ad7c341a8f1f6e2]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2017/29/section/60) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/g)

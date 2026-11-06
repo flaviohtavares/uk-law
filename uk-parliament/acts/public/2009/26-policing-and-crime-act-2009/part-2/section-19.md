@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Soliciting: England and Wales[^key-b63eb5ad80b7f0478dd22435025b9ba2]
+## 19. Soliciting: England and Wales[^c-b63eb5ad80b7f0478dd22435025b9ba2]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ Before section 52 of Sexual Offences Act 2003 (c. 42) (but after the italic head
 
 ## Annotations
 
-[^key-b63eb5ad80b7f0478dd22435025b9ba2]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2009/26/section/19) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(f)](https://www.legislation.gov.uk/uksi/2010/507/article/5/f)
+[^c-b63eb5ad80b7f0478dd22435025b9ba2]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2009/26/section/19) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(f)](https://www.legislation.gov.uk/uksi/2010/507/article/5/f)

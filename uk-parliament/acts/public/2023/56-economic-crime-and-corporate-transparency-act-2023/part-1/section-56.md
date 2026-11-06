@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Use or disclosure of profit and loss accounts for certain companies[^key-a36305a12caf5c4baaca2bb6d293f5bc]
+## 56. Use or disclosure of profit and loss accounts for certain companies[^c-a36305a12caf5c4baaca2bb6d293f5bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a36305a12caf5c4baaca2bb6d293f5bc]: Commencement: S. 56 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-a36305a12caf5c4baaca2bb6d293f5bc]: Commencement: S. 56 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

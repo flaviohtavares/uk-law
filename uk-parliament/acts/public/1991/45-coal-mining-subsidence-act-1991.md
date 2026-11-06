@@ -161,7 +161,7 @@ the Corporation may exercise that power at any time subsequent to the date of th
 
 (3) The Corporation shall send with a schedule of remedial works a notice stating that, if any other party does not agree that the remedial action to be taken by the Corporation in respect of any damage should be determined by reference (where relevant) to the works and costs specified in the schedule, he should notify the Corporation within the period of 28 days beginning with the date of his receipt of the schedule.
 
-(4) If any other party gives such a notification within that period and he and the Corporation do not agree the schedule, with or without modifications, before the end of the next succeeding period of 28 days, the matter may be referred to the appropriate tribunal[^key-686e05a6805598294db8ece9bd0becb8], which may determine the works and costs to be specified in the schedule.
+(4) If any other party gives such a notification within that period and he and the Corporation do not agree the schedule, with or without modifications, before the end of the next succeeding period of 28 days, the matter may be referred to the appropriate tribunal[^c-686e05a6805598294db8ece9bd0becb8], which may determine the works and costs to be specified in the schedule.
 
 (5) A schedule of remedial works relating to any damage—
 
@@ -175,7 +175,7 @@ the Corporation may exercise that power at any time subsequent to the date of th
 - (a) any party by a notice given to the other party or parties requests a variation of a schedule of remedial works; and
 - (b) the variation requested is not agreed between both or all parties, with or without modifications, before the end of the period of 28 days beginning with the date of the notice,
 
-the matter may be referred to the appropriate tribunal[^key-2223b42e0764b1911f62842499f4294f], which may determine whether the schedule shall have effect subject to the variation.
+the matter may be referred to the appropriate tribunal[^c-2223b42e0764b1911f62842499f4294f], which may determine whether the schedule shall have effect subject to the variation.
 
 (7) On and after the date on which a schedule of remedial works relating to any damage first comes into effect the works specified in the schedule (and only those works) shall be regarded as remedial works in relation to the damage.
 
@@ -504,7 +504,7 @@ the Corporation will neither execute any works for making good the damage while 
 
 is affected by subsidence damage and the character of the property as one of historic, architectural, archaeological or other special interest is or may be affected by that damage.
 
-(1A)[^key-067c9ab94adffd7dd5808d1da6bd94c2] This section also applies where any property in Wales which—
+(1A)[^c-067c9ab94adffd7dd5808d1da6bd94c2] This section also applies where any property in Wales which—
 
 - (a) is a scheduled monument within the meaning given by section 3 of the Historic Environment (Wales) Act 2023,
 - (b) has been notified to the Corporation by the Secretary of State as a monument of special historic interest, within the meaning given by section 75(6) of that Act, for the time being under the guardianship of the Welsh Ministers, or
@@ -525,13 +525,13 @@ is affected by subsidence damage and the character of the property as one of his
 
 (1) In the case of subsidence damage to any ecclesiastical property—
 
-- (a) the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^key-014a86c077614dd6da6ffe45d18b1662]Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* shall be entitled, in addition to any other person who is so entitled, to give a damage notice; and
-- (b) where any other such person is the claimant, the Commissioners *(Extent: E)* *(affected by repeal, see note)*[^key-014a86c077614dd6da6ffe45d18b1662]Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* shall be treated as another person interested whether or not they give *(Extent: E)* *(affected by repeal, see note)*[^key-42dcabf7909b6839bc8bf7716fd3671b]it gives *(Extent: E)* such a notice.
+- (a) the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^c-014a86c077614dd6da6ffe45d18b1662]Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* shall be entitled, in addition to any other person who is so entitled, to give a damage notice; and
+- (b) where any other such person is the claimant, the Commissioners *(Extent: E)* *(affected by repeal, see note)*[^c-014a86c077614dd6da6ffe45d18b1662]Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* shall be treated as another person interested whether or not they give *(Extent: E)* *(affected by repeal, see note)*[^c-42dcabf7909b6839bc8bf7716fd3671b]it gives *(Extent: E)* such a notice.
 
 (2) Any payment under section 10 or 11 above in respect of ecclesiastical property which would, apart from this subsection, fall to be made to the owner of the property—
 
-- (a) shall be made to the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^key-014a86c077614dd6da6ffe45d18b1662]Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)*; and
-- (b) shall be applied by them *(Extent: E)* *(affected by repeal, see note)*[^key-9f239a787f5cbdbcdaacd498a24bcc80]it *(Extent: E)* for the purposes for which the proceeds of a sale of the property by agreement would be applicable under any enactment or Measure authorising, or disposing of the proceeds of, such a sale.
+- (a) shall be made to the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^c-014a86c077614dd6da6ffe45d18b1662]Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)*; and
+- (b) shall be applied by them *(Extent: E)* *(affected by repeal, see note)*[^c-9f239a787f5cbdbcdaacd498a24bcc80]it *(Extent: E)* for the purposes for which the proceeds of a sale of the property by agreement would be applicable under any enactment or Measure authorising, or disposing of the proceeds of, such a sale.
 
 (3) Where, in relation to any property other than ecclesiastical property—
 
@@ -542,7 +542,7 @@ the payment shall be made to that body.
 
 (4) In this section—
 
-- “**ecclesiastical property**” means property in England belonging to any ecclesiastical benefice of the Church of England *(Extent: E)*[^key-32fab622c1c6b9c9b01391de76d86bf5], or being or forming part of a church subject to the jurisdiction of a bishop of any diocese of the Church of England *(Extent: E)* or the site of such a church, or being or forming part of a burial ground subject to such jurisdiction;
+- “**ecclesiastical property**” means property in England belonging to any ecclesiastical benefice of the Church of England *(Extent: E)*[^c-32fab622c1c6b9c9b01391de76d86bf5], or being or forming part of a church subject to the jurisdiction of a bishop of any diocese of the Church of England *(Extent: E)* or the site of such a church, or being or forming part of a burial ground subject to such jurisdiction;
 - “**the representative body**”, in relation to property of any description held for religious purposes, means the body of persons (if any) which, in relation to that property or property of that description, has been notified to the Corporation by the Secretary of State, after consultation with such persons and organisations as he may think appropriate.
 
 #### 21. Property belonging to protected tenants.[^c1033263]
@@ -822,7 +822,7 @@ and if the damage was partly attributable to the fault of that person or any per
 
 - (a) the death had been attributable to the negligence of the Corporation; and
 - (b) the persons by or on behalf of whom an action could have been brought against the Corporation for damages in respect of the death if it had been so attributable included any person who at the time of the death was, or but for the injury would have been, wholly or partly maintained by the deceased; and
-- (c) the damages were claimed under the [^c1033307]Fatal Accidents Act 1976 where the death resulted from an injury caused in England or Wales, or the [^c1033308]Damages (Scotland) Act 1976 *(Extent: S)* *(affected by repeal, see note)*[^key-a807020f8b01508218f55b5c0faba2fb]Damages (Scotland) Act 2011 *(Extent: S)* where the death resulted from an injury caused in Scotland.
+- (c) the damages were claimed under the [^c1033307]Fatal Accidents Act 1976 where the death resulted from an injury caused in England or Wales, or the [^c1033308]Damages (Scotland) Act 1976 *(Extent: S)* *(affected by repeal, see note)*[^c-a807020f8b01508218f55b5c0faba2fb]Damages (Scotland) Act 2011 *(Extent: S)* where the death resulted from an injury caused in Scotland.
 
 (3) Subject to subsection (4) below, the Corporation shall be liable, in a case of disablement, to pay the like damages, recoverable in the like manner and within the like time, as would have been payable if the disablement had been attributable to the negligence of the Corporation.
 
@@ -866,7 +866,7 @@ and if the injury was partly attributable to the fault of that person the liabil
 
 are not to be regarded as unreasonable in a case to which section 9 above applies.
 
-(7) Where any such property as is mentioned in paragraph (a) of subsection (2) above is ecclesiastical property within the meaning of section 20 above, the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^key-5683d779d82b48087d3f7f6b521b1387]Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* shall be included among the persons whose consent is required by that paragraph.
+(7) Where any such property as is mentioned in paragraph (a) of subsection (2) above is ecclesiastical property within the meaning of section 20 above, the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^c-5683d779d82b48087d3f7f6b521b1387]Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* shall be included among the persons whose consent is required by that paragraph.
 
 ### 34. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c1033322]
 
@@ -926,7 +926,7 @@ as are conferred on the appropriate drainage authority by the enactments relatin
 
 - “**agreed or determined**” means agreed between the Corporation and the appropriate drainage authority or, in default of such agreement, determined in the manner provided by regulations under this section;
 - “**the appropriate drainage authority**” means—
-- (a) in a case where the measures would fall to be carried out either in connection with a main river, or outside any internal drainage district—[^key-3dfc733db24cf454c8dcd1a172adab41]
+- (a) in a case where the measures would fall to be carried out either in connection with a main river, or outside any internal drainage district—[^c-3dfc733db24cf454c8dcd1a172adab41]
   - (i) in relation to measures to be carried out wholly in England, the Environment Agency;
   - (ii) in relation to measures to be carried out wholly in Wales, the Natural Resources Body for Wales;
   - (iii) in relation to measures to be carried out partly in England and partly in Wales, either of those bodies;
@@ -1061,7 +1061,7 @@ they shall also pay any costs or expenses to which subsection (2) below applies.
 
 #### 40. Disputes: general.[^c1033347][^c1033348][^c1033349]
 
-(1) Except as otherwise provided by or under this Act, any question arising under this Act shall, in default of agreement, be referred to and determined by the appropriate tribunal[^key-18a6546c30b6366100628aeb62305398].
+(1) Except as otherwise provided by or under this Act, any question arising under this Act shall, in default of agreement, be referred to and determined by the appropriate tribunal[^c-18a6546c30b6366100628aeb62305398].
 
 (2)[^c1033350] Where in any proceedings under this Act the question arises whether any damage to property is subsidence damage, and it is shown that the nature of the damage and the circumstances are such as to indicate that the damage may be subsidence damage, the onus shall be on the Corporation to show that the damage is not subsidence damage.
 
@@ -1182,7 +1182,7 @@ may confer such powers to enter, inspect and execute works on the premises as ma
 
 (3) The Secretary of State shall lay before Parliament a copy of every report received by him under this section.
 
-(4)[^key-7f1e342ccf5b9624f0c1f88a8463aded] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7f1e342ccf5b9624f0c1f88a8463aded] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### General
 
@@ -1203,7 +1203,7 @@ Section 63 of the Coal Industry Act 1994 (service of documents) shall apply in r
 
 #### 52. Interpretation etc.[^c1033429]
 
-(1)[^c1033430][^c1033431][^key-a29302035a69d76c7e385b8283e34d10] In this Act, unless the context otherwise requires—
+(1)[^c1033430][^c1033431][^c-a29302035a69d76c7e385b8283e34d10] In this Act, unless the context otherwise requires—
 
 - “**agriculture**”, “**agricultural**” and “**agricultural land**”—
 - (a) in relation to England and Wales, have the meanings given by section 109 of the [^c1033432]Agriculture Act 1947;
@@ -1213,7 +1213,7 @@ Section 63 of the Coal Industry Act 1994 (service of documents) shall apply in r
 - (a) in relation to England and Wales, has the meaning given by section 171(1) of the [^c1033434]Town and Country Planning Act 1990;
 - (b) in relation to Scotland, has the meaning given by section 196(1) of the [^c1033435]Town and Country Planning (Scotland) Act 1972;
 
-- “the appropriate tribunal” means—[^key-861c29ac7e72f369db9fa34edbf7111d]
+- “the appropriate tribunal” means—[^c-861c29ac7e72f369db9fa34edbf7111d]
   - (a) in relation to England and Wales, the Upper Tribunal;
   - (b) in relation to Scotland, the Lands Tribunal for Scotland;
 - “**claim**” means a claim in writing;
@@ -1229,7 +1229,7 @@ Section 63 of the Coal Industry Act 1994 (service of documents) shall apply in r
 - “**emergency works**” has the meaning given by section 12(1) above;
 - “**ground lease**” means a lease for building purposes at a rent (or, where the rent varies, at a maximum rent) which does not substantially exceed the rent which a tenant might reasonably have been expected, at the date when the lease was granted, to pay for the land comprised in the lease, excluding any buildings, for a term equal to the term created by the lease;
 - “**housing clearance powers**” means Part IX of the [^c1033437]Housing Act 1985 (slum clearance) or Part VI of the [^c1033438]Housing (Scotland) Act 1987 (closing and demolition orders);
-- [^key-ad362275162e847f7fc6fbe70f59788a]...
+- [^c-ad362275162e847f7fc6fbe70f59788a]...
 - “**notice**” means notice in writing and “**notify**” shall be construed accordingly;
 - “**notice of proposed remedial action**” has the meaning given by section 4(4) above;
 - “**owner**”—
@@ -1244,13 +1244,13 @@ Section 63 of the Coal Industry Act 1994 (service of documents) shall apply in r
 - “**schedule of remedial works**” has the meaning given by section 6(8) above;
 - “**statutory undertakers**” means—
 - (a) any persons authorised by any enactment to carry on any railway, light railway, tramway, road transport, water transport, canal, inland navigation, dock, harbour, pier or lighthouse undertaking or any undertaking for the supply of hydraulic power; and
-- (b) any of the following, namely, any licence holder within the meaning of the [^c1033439]Electricity Act 1989, any public gas supplier, any water or sewerage undertaker, the Environment Agency, the Natural Resources Body for Wales, any electronic[^key-a3a8a1c82d0f6566698319d7d26d70cd] communications code operator, any former PTO, any universal service provider in connection with the provision of a universal postal service[^c1033440], the Civil Aviation Authority , any person who holds a licence under Chapter I of Part I of the Transport Act 2000 (to the extent that the person is carrying out activities authorised by the licence)[^c1033441] and any relevant airport operator within the meaning of Part V of the [^c1033442]Airports Act 1986;
+- (b) any of the following, namely, any licence holder within the meaning of the [^c1033439]Electricity Act 1989, any public gas supplier, any water or sewerage undertaker, the Environment Agency, the Natural Resources Body for Wales, any electronic[^c-a3a8a1c82d0f6566698319d7d26d70cd] communications code operator, any former PTO, any universal service provider in connection with the provision of a universal postal service[^c1033440], the Civil Aviation Authority , any person who holds a licence under Chapter I of Part I of the Transport Act 2000 (to the extent that the person is carrying out activities authorised by the licence)[^c1033441] and any relevant airport operator within the meaning of Part V of the [^c1033442]Airports Act 1986;
 
 - “**stop notice**” has the meaning given by section 16(4) above;
 - “**structure**” includes any works providing passage or hard standing for persons, animals or vehicles (including railway or tramway vehicles and aircraft);
 - “**subsidence damage**” has the meaning given by section 1 above;
 
-“universal service provider” has the same meaning as in the[^c1033443] Part 3 of the Postal Services Act 2011[^key-58e4c0f7dba8ba61b466aefc4bfc8ed2]; and any reference to the provision of a universal postal service shall be construed in accordance with that Part[^key-43c6bb816c6c4244bcb93d560ac9bff2];
+“universal service provider” has the same meaning as in the[^c1033443] Part 3 of the Postal Services Act 2011[^c-58e4c0f7dba8ba61b466aefc4bfc8ed2]; and any reference to the provision of a universal postal service shall be construed in accordance with that Part[^c-43c6bb816c6c4244bcb93d560ac9bff2];
 
 - “**works**” includes sewers, drains, pipes, cables, wires and any other apparatus.
 
@@ -1326,8 +1326,8 @@ to which the property is subject at the time of the sale, but free from any othe
 
 (6) In the application of this paragraph to Scotland—
 
-- “**fee simple**” means, in the case of feudal property, the estate or interest of the proprietor of thedominium utile or, in the case of property other than feudal property, the estate or *(Extent: S.)* *(affected by repeal, see note)*[^key-4572a960221a4ecc5a974f9bc70d3b77]the *(Extent: S.)* interest of the owner;
-- "incumbrance” means any ground annual or other incumbrance or any liability to pay feuduty; and *(Extent: S)* *(affected by repeal, see note)*[^key-936effde7171fa540fb9dbb661685d00]
+- “**fee simple**” means, in the case of feudal property, the estate or interest of the proprietor of thedominium utile or, in the case of property other than feudal property, the estate or *(Extent: S.)* *(affected by repeal, see note)*[^c-4572a960221a4ecc5a974f9bc70d3b77]the *(Extent: S.)* interest of the owner;
+- "incumbrance” means any ground annual or other incumbrance or any liability to pay feuduty; and *(Extent: S)* *(affected by repeal, see note)*[^c-936effde7171fa540fb9dbb661685d00]
 - “**easement**” means servitude.
 
 ### Amount of depreciation
@@ -1381,7 +1381,7 @@ Section 15(5).
 (2) In this paragraph “**rentcharge**” means—
 
 - (a) in relation to property situated in England and Wales, any annual or other periodic sum charged on or issuing out of land, except rent reserved by a lease or tenancy and any sum payable by way of interest;
-- (b) in relation to property situated in Scotland, a feuduty or a ground annual. *(Extent: S)* *(affected by repeal, see note)*[^key-802db734aa709ef910cec1f7ee1d6aaf]
+- (b) in relation to property situated in Scotland, a feuduty or a ground annual. *(Extent: S)* *(affected by repeal, see note)*[^c-802db734aa709ef910cec1f7ee1d6aaf]
 
 ### Settlements etc.
 
@@ -1395,7 +1395,7 @@ that payment or that part of that payment shall be paid to the person competent 
 (2) Where in the case of property situated in Scotland the interest in the property of the person to whom the whole or part of a depreciation payment falls to be paid is subject to—
 
 - (a) a trust within the meaning of the [^c1033483]Trusts (Scotland) Act 1921; or
-- (b) an entail or *(Extent: S)* *(affected by repeal, see note)*[^key-b7972272fdcff68dab81cc53a4ccb96d] a life-rent,
+- (b) an entail or *(Extent: S)* *(affected by repeal, see note)*[^c-b7972272fdcff68dab81cc53a4ccb96d] a life-rent,
 
 that person shall hold and apply that payment or that part of that payment in like manner as if the interest had been acquired under compulsory powers and the payment or that part of it were the purchase money or compensation for that interest.
 
@@ -1506,11 +1506,11 @@ but, if those conditions are satisfied on the date of displacement, a payment (a
 - (b) a right to occupy the dwelling-house as a statutory tenant within the meaning of the [^c1033516]Rent Act 1977 or under a restricted contract within the meaning of that Act or a contract which would be such a contract if the contract or dwelling-house were not excluded by section 19(4) or (5)(b) of that Act;
 - (c) a right to occupy the dwelling-house as a statutory tenant within the meaning of the [^c1033517]Rent (Scotland) Act 1984 or under a contract to which Part VII of that Act (contracts) applies or would apply if the contract or dwelling-house were not excluded by section 63(3)(a) or by an order under section 64 of that Act;
 - (d) a right to occupy the dwelling-house under a licence to which Part IV of the [^c1033518]Housing Act 1985 (secure tenancies) or Chapter 1 of Part V of the Housing Act 1996 (introductory tenancies)[^c1033519] applies;
-- (e) a right to occupy the dwelling-house under a contract of employment ;[^key-109d73630225e7549e2bad4911c43ed2]
+- (e) a right to occupy the dwelling-house under a contract of employment ;[^c-109d73630225e7549e2bad4911c43ed2]
 
 *Extent: W*
 
-- (f)[^key-ea64ca4f154839810384263d23d369b6] in the case of a dwelling-house in Wales, a right to occupy the dwelling-house under a licence which is a secure contract or under an introductory standard contract.
+- (f)[^c-ea64ca4f154839810384263d23d369b6] in the case of a dwelling-house in Wales, a right to occupy the dwelling-house under a licence which is a secure contract or under an introductory standard contract.
 
 (5) Where an interest in a dwelling-house is vested in trustees (other than a sole tenant for life within the meaning of the [^c1033520]Settled Land Act 1925) and a person beneficially entitled (whether directly or derivatively) under the trust is entitled or permitted by reason of his interest to occupy the dwelling-house, he shall be treated for the purposes of this paragraph as occupying it by virtue of an interest in the dwelling-house.
 
@@ -1518,7 +1518,7 @@ but, if those conditions are satisfied on the date of displacement, a payment (a
 
 *Extent: W*
 
-(7)[^key-44e7f8ac63a2df04c208e6745ca2e5f4] In this paragraph the following terms have the same meaning as in the Renting Homes (Wales) Act 2016 (anaw 1)—
+(7)[^c-44e7f8ac63a2df04c208e6745ca2e5f4] In this paragraph the following terms have the same meaning as in the Renting Homes (Wales) Act 2016 (anaw 1)—
 
 - “**introductory standard contract**” (see section 16 of that Act);
 - “**secure contract**” (see section 8 of that Act).
@@ -1688,11 +1688,11 @@ he shall be entitled to receive a payment (a “**farm loss payment**”) from t
 
 (5) In the application of this paragraph to Scotland, references to a freehold interest in land are references to—
 
-- (a) an interest as infelt proprietor of *(Extent: S)* *(affected by repeal, see note)*[^key-3465fe2682cbdc430174f634d044e44f]a right as proprietor with completed title to *(Extent: S)* the land;
+- (a) an interest as infelt proprietor of *(Extent: S)* *(affected by repeal, see note)*[^c-3465fe2682cbdc430174f634d044e44f]a right as proprietor with completed title to *(Extent: S)* the land;
 - (b) a right to the land without a completed title; or
-- (c) in the case of land subject to a heritable security constituted by*ex facie* absolute disposition, an interest as the debtor in the security, except where the creditor is in possession of the land, *(Extent: S)* *(affected by repeal, see note)*[^key-d01facd23257f2e4bfd2628e2dec10c4]
+- (c) in the case of land subject to a heritable security constituted by*ex facie* absolute disposition, an interest as the debtor in the security, except where the creditor is in possession of the land, *(Extent: S)* *(affected by repeal, see note)*[^c-d01facd23257f2e4bfd2628e2dec10c4]
 
-but do not include references to an interest as a superior only. *(Extent: S)* *(affected by repeal, see note)*[^key-d01facd23257f2e4bfd2628e2dec10c4]
+but do not include references to an interest as a superior only. *(Extent: S)* *(affected by repeal, see note)*[^c-d01facd23257f2e4bfd2628e2dec10c4]
 
 ### Amount of farm loss payment
 
@@ -1859,9 +1859,9 @@ Section 53(2).
 
 [^c1033217]: Commencement: S. 6 wholly in force at 30. 11. 1991 see s. 54(2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art. 2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
-[^key-686e05a6805598294db8ece9bd0becb8]: Textual amendment: Words in [s. 6(4)](https://www.legislation.gov.uk/ukpga/1991/45/section/6/4) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 217](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/217) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-686e05a6805598294db8ece9bd0becb8]: Textual amendment: Words in [s. 6(4)](https://www.legislation.gov.uk/ukpga/1991/45/section/6/4) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 217](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/217) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-2223b42e0764b1911f62842499f4294f]: Textual amendment: Words in [s. 6(6)](https://www.legislation.gov.uk/ukpga/1991/45/section/6/6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 217](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/217) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-2223b42e0764b1911f62842499f4294f]: Textual amendment: Words in [s. 6(6)](https://www.legislation.gov.uk/ukpga/1991/45/section/6/6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 217](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/217) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c1033218]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/1991/45/section/7) wholly in force at 30. 11. 1991 see [s. 54(2)](https://www.legislation.gov.uk/ukpga/1991/45/section/54/2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art. 2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
@@ -1921,17 +1921,17 @@ Section 53(2).
 
 [^c1033256]: Textual amendment: Words in [s. 19(1)(c)](https://www.legislation.gov.uk/ukpga/1991/45/section/19/1/c) substituted (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 4](https://www.legislation.gov.uk/ukpga/1997/11/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 2 para. 50](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2/paragraph/50)
 
-[^key-067c9ab94adffd7dd5808d1da6bd94c2]: Textual amendment: [S. 19(1A)](https://www.legislation.gov.uk/ukpga/1991/45/section/19/1A) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 162](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/162) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
+[^c-067c9ab94adffd7dd5808d1da6bd94c2]: Textual amendment: [S. 19(1A)](https://www.legislation.gov.uk/ukpga/1991/45/section/19/1A) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 162](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/162) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
 
 [^c1033257]: Commencement: S. 20 wholly in force at 30. 11. 1991 see s. 54(2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art.2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
-[^key-014a86c077614dd6da6ffe45d18b1662]: Textual amendment: Words in s. 20 substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 29(1)(a)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/29/1/a); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-014a86c077614dd6da6ffe45d18b1662]: Textual amendment: Words in s. 20 substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 29(1)(a)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/29/1/a); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-42dcabf7909b6839bc8bf7716fd3671b]: Textual amendment: Words in s. 20(1)(b) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 29(1)(b)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/29/1/b); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-42dcabf7909b6839bc8bf7716fd3671b]: Textual amendment: Words in s. 20(1)(b) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 29(1)(b)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/29/1/b); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-9f239a787f5cbdbcdaacd498a24bcc80]: Textual amendment: Word in s. 20(2)(b) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 29(1)(c)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/29/1/c); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-9f239a787f5cbdbcdaacd498a24bcc80]: Textual amendment: Word in s. 20(2)(b) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 29(1)(c)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/29/1/c); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-32fab622c1c6b9c9b01391de76d86bf5]: Textual amendment: Words in s. 20(4) inserted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 29(1)(d)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/29/1/d); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-32fab622c1c6b9c9b01391de76d86bf5]: Textual amendment: Words in s. 20(4) inserted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 29(1)(d)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/29/1/d); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
 [^c1033263]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/1991/45/section/21) wholly in force at 30.11.1991 see [s. 54(2)](https://www.legislation.gov.uk/ukpga/1991/45/section/54/2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art. 2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
@@ -2009,7 +2009,7 @@ Section 53(2).
 
 [^c1033308]: Marginal citation: [1976 c. 13](https://www.legislation.gov.uk/ukpga/1976/13).
 
-[^key-a807020f8b01508218f55b5c0faba2fb]: Textual amendment: Words in s. 32(2)(c) substituted (S.) (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/5) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-a807020f8b01508218f55b5c0faba2fb]: Textual amendment: Words in s. 32(2)(c) substituted (S.) (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/5) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
 [^c1033309]: Marginal citation: [1945 c. 28](https://www.legislation.gov.uk/ukpga/1945/28).
 
@@ -2021,7 +2021,7 @@ Section 53(2).
 
 [^c1033314]: Modification: S. 33(2)-(6) modified (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 43](https://www.legislation.gov.uk/ukpga/1994/21/section/43), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/1994/21/schedule/6/paragraph/6) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
-[^key-5683d779d82b48087d3f7f6b521b1387]: Textual amendment: Words in s. 33(7) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 29(2)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/29/2); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-5683d779d82b48087d3f7f6b521b1387]: Textual amendment: Words in s. 33(7) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 29(2)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/29/2); [2006 No. 2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
 [^c1033322]: Textual amendment: S. 34 repealed (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [ss. 42(2)](https://www.legislation.gov.uk/ukpga/1994/21/section/42/2), [67(8)](https://www.legislation.gov.uk/ukpga/1994/21/section/67/8), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66), [Sch. 10 para. 13(1)](https://www.legislation.gov.uk/ukpga/1994/21/schedule/10/paragraph/13/1)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553), [art. 2](https://www.legislation.gov.uk/uksi/1994/2553/article/2)
 
@@ -2035,7 +2035,7 @@ Section 53(2).
 
 [^c1033338]: Marginal citation: [1929 c. xvii](https://www.legislation.gov.uk/ukla/1929/17).
 
-[^key-3dfc733db24cf454c8dcd1a172adab41]: Textual amendment: Words in s. 36(8) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 220](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/220) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3dfc733db24cf454c8dcd1a172adab41]: Textual amendment: Words in s. 36(8) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 220](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/220) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c1033339]: Textual amendment: Words in s. 36(8) substituted (E.W.) (01.12.1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1991/60/section/2/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 1 para. 59](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/59).
 
@@ -2067,7 +2067,7 @@ Section 53(2).
 
 [^c1033349]: Commencement: S. 40 wholly in force at 30. 11. 1991 see s. 54(2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art. 2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
-[^key-18a6546c30b6366100628aeb62305398]: Textual amendment: Words in [s. 40(1)](https://www.legislation.gov.uk/ukpga/1991/45/section/40/1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 218](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/218) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-18a6546c30b6366100628aeb62305398]: Textual amendment: Words in [s. 40(1)](https://www.legislation.gov.uk/ukpga/1991/45/section/40/1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 218](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/218) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c1033350]: Modification: S. 40(2)(3) applied (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 47(3)](https://www.legislation.gov.uk/ukpga/1994/21/section/47/3) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2552](https://www.legislation.gov.uk/uksi/1994/2552), [art. 2](https://www.legislation.gov.uk/uksi/1994/2552/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/2552/schedule/1)
 
@@ -2115,7 +2115,7 @@ Section 53(2).
 
 [^c1033382]: Commencement: S. 49 wholly in force at 30. 11. 1991 see s. 54(2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art. 2](https://www.legislation.gov.uk/uksi/1991/2508/article/2).
 
-[^key-7f1e342ccf5b9624f0c1f88a8463aded]: Textual amendment: [S. 49(4)](https://www.legislation.gov.uk/ukpga/1991/45/section/49/4) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-7f1e342ccf5b9624f0c1f88a8463aded]: Textual amendment: [S. 49(4)](https://www.legislation.gov.uk/ukpga/1991/45/section/49/4) repealed (27.3.2004) by [Coal industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
 [^c1033388]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/1991/45/section/50) wholly in force at 30. 11. 1991 see [s. 54(2)](https://www.legislation.gov.uk/ukpga/1991/45/section/54/2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), art.
 
@@ -2133,7 +2133,7 @@ Section 53(2).
 
 [^c1033431]: Modification: S. 52(1) applied (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 45(3)](https://www.legislation.gov.uk/ukpga/1994/21/section/45/3) (with [ss. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7), [66](https://www.legislation.gov.uk/ukpga/1994/21/section/66)); [S.I. 1994/2552](https://www.legislation.gov.uk/uksi/1994/2552), [art. 2](https://www.legislation.gov.uk/uksi/1994/2552/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/2552/schedule/1)
 
-[^key-a29302035a69d76c7e385b8283e34d10]: Textual amendment: Words in s. 52(1) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 109](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/109) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a29302035a69d76c7e385b8283e34d10]: Textual amendment: Words in s. 52(1) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 109](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/109) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c1033432]: Marginal citation: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48).
 
@@ -2143,7 +2143,7 @@ Section 53(2).
 
 [^c1033435]: Marginal citation: [1972 c. 52](https://www.legislation.gov.uk/ukpga/1972/52).
 
-[^key-861c29ac7e72f369db9fa34edbf7111d]: Textual amendment: Words in s. 52 inserted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 219](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/219) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-861c29ac7e72f369db9fa34edbf7111d]: Textual amendment: Words in s. 52 inserted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 219](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/219) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c1033436]: Marginal citation: [1938 c. 52](https://www.legislation.gov.uk/ukpga/1938/52).
 
@@ -2151,13 +2151,13 @@ Section 53(2).
 
 [^c1033438]: Marginal citation: [1987 c. 26](https://www.legislation.gov.uk/ukpga/1987/26).
 
-[^key-ad362275162e847f7fc6fbe70f59788a]: Textual amendment: Words in s. 52 omitted (1.6.2009) by virtue of [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 219](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/219) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-ad362275162e847f7fc6fbe70f59788a]: Textual amendment: Words in s. 52 omitted (1.6.2009) by virtue of [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 219](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/219) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^M_F_1be75d1a-5fc2-4c40-ca36-44a696dbe810]: Textual amendment: Words in s. 52(1) repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 54(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/54/2), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c1033439]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-a3a8a1c82d0f6566698319d7d26d70cd]: Textual amendment: Words in s. 52(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 221](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/221) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-a3a8a1c82d0f6566698319d7d26d70cd]: Textual amendment: Words in s. 52(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 221](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/221) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c1033440]: Textual amendment: S. 52(1): Words in para. (b) of the definition of “statutory undertakers” substituted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. 1 para. 87(2)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/87/2)
 
@@ -2167,9 +2167,9 @@ Section 53(2).
 
 [^c1033443]: Textual amendment: Definition in s. 52(1) inserted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. 1 para. 87(3)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/87/3)
 
-[^key-58e4c0f7dba8ba61b466aefc4bfc8ed2]: Textual amendment: Words in s. 52(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 135(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/135/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-58e4c0f7dba8ba61b466aefc4bfc8ed2]: Textual amendment: Words in s. 52(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 135(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/135/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-43c6bb816c6c4244bcb93d560ac9bff2]: Textual amendment: Words in s. 52(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 135(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/135/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-43c6bb816c6c4244bcb93d560ac9bff2]: Textual amendment: Words in s. 52(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 135(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/135/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c1033460]: Commencement: S. 53 wholly in force at 30. 11. 1991 see [s. 54(2)](https://www.legislation.gov.uk/ukpga/1991/45/section/54/2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art. 2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
@@ -2185,9 +2185,9 @@ Section 53(2).
 
 [^c1033466]: Commencement: Sch. 1 para. 2 wholly in force at 30. 11. 1991 see s. 54(2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art.2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
-[^key-4572a960221a4ecc5a974f9bc70d3b77]: Textual amendment: Word in [Sch. 1 para. 2(6)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/1/paragraph/2/6) substituted (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 54(3)(a)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/54/3/a) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-4572a960221a4ecc5a974f9bc70d3b77]: Textual amendment: Word in [Sch. 1 para. 2(6)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/1/paragraph/2/6) substituted (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 54(3)(a)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/54/3/a) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
-[^key-936effde7171fa540fb9dbb661685d00]: Textual amendment: Words in [Sch. 1 para. 2(6)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/1/paragraph/2/6) repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 54(3)(b)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/54/3/b), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-936effde7171fa540fb9dbb661685d00]: Textual amendment: Words in [Sch. 1 para. 2(6)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/1/paragraph/2/6) repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 54(3)(b)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/54/3/b), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c1033470]: Commencement: Sch. 1 para. 3 wholly in force at 30. 11. 1991 see [s. 54(2)](https://www.legislation.gov.uk/ukpga/1991/45/section/54/2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art.2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
@@ -2205,13 +2205,13 @@ Section 53(2).
 
 [^c1033479]: Commencement: Sch. 2 para. 3 wholly in force at 30. 11. 1991 see s. 54(2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art. 2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
-[^key-802db734aa709ef910cec1f7ee1d6aaf]: Textual amendment: [Sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/2/paragraph/3/2/b) repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 54(4)(a)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/54/4/a), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-802db734aa709ef910cec1f7ee1d6aaf]: Textual amendment: [Sch. 2 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/2/paragraph/3/2/b) repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 54(4)(a)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/54/4/a), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c1033482]: Commencement: Sch. 2 para. 4 wholly in force at 30. 11. 1991 see s. 54(2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art.2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
 [^c1033483]: Marginal citation: [1921 c. 58](https://www.legislation.gov.uk/ukpga/1921/58).
 
-[^key-b7972272fdcff68dab81cc53a4ccb96d]: Textual amendment: Words in [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/2/paragraph/4/2/b) repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 54(4)(b)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/54/4/b), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-b7972272fdcff68dab81cc53a4ccb96d]: Textual amendment: Words in [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/2/paragraph/4/2/b) repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 54(4)(b)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/54/4/b), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c1033487]: Commencement: Sch. 2 para. 5 wholly in force at 30. 11. 1991 see [s. 54(2)](https://www.legislation.gov.uk/ukpga/1991/45/section/54/2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art. 2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
@@ -2257,13 +2257,13 @@ Section 53(2).
 
 [^c1033519]: Textual amendment: Words in [Sch. 4 para. 1(4)(d)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/4/paragraph/1/4/d) inserted (12.2.1997) by [S.I. 1997/74](https://www.legislation.gov.uk/uksi/1997/74), [art. 2](https://www.legislation.gov.uk/uksi/1997/74/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/74/schedule)
 
-[^key-109d73630225e7549e2bad4911c43ed2]: Textual amendment: Semicolon in [Sch. 4 para. 1(4)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/4/paragraph/1/4/e) substituted (E.W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [19(2)(a)(i)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/19/2/a/i)
+[^c-109d73630225e7549e2bad4911c43ed2]: Textual amendment: Semicolon in [Sch. 4 para. 1(4)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/4/paragraph/1/4/e) substituted (E.W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [19(2)(a)(i)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/19/2/a/i)
 
-[^key-ea64ca4f154839810384263d23d369b6]: Textual amendment: [Sch. 4 para. 1(4)(f)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/4/paragraph/1/4/f) inserted (E.W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [19(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/19/2/a/ii)
+[^c-ea64ca4f154839810384263d23d369b6]: Textual amendment: [Sch. 4 para. 1(4)(f)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/4/paragraph/1/4/f) inserted (E.W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [19(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/19/2/a/ii)
 
 [^c1033520]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18).
 
-[^key-44e7f8ac63a2df04c208e6745ca2e5f4]: Textual amendment: [Sch. 4 para. 1(7)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/4/paragraph/1/7) inserted (E.W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [19(2)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/19/2/b)
+[^c-44e7f8ac63a2df04c208e6745ca2e5f4]: Textual amendment: [Sch. 4 para. 1(7)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/4/paragraph/1/7) inserted (E.W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [19(2)(b)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/19/2/b)
 
 [^c1033521]: Commencement: Sch. 4 para. 2 wholly in force at 30. 11. 1991 see [s. 54(2)](https://www.legislation.gov.uk/ukpga/1991/45/section/54/2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art. 2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
@@ -2297,9 +2297,9 @@ Section 53(2).
 
 [^c1033536]: Commencement: Sch. 6 para. 1 wholly in force at 30. 11. 1991 see s. 54(2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art. 2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
-[^key-3465fe2682cbdc430174f634d044e44f]: Textual amendment: Words in [Sch. 6 para. 1(5)(a)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/6/paragraph/1/5/a) substituted (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 54(5)(a)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/54/5/a) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-3465fe2682cbdc430174f634d044e44f]: Textual amendment: Words in [Sch. 6 para. 1(5)(a)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/6/paragraph/1/5/a) substituted (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 54(5)(a)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/54/5/a) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
-[^key-d01facd23257f2e4bfd2628e2dec10c4]: Textual amendment: Words in [Sch. 6 para. 1(5)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/6/paragraph/1/5) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 54(5)(b)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/54/5/b), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-d01facd23257f2e4bfd2628e2dec10c4]: Textual amendment: Words in [Sch. 6 para. 1(5)](https://www.legislation.gov.uk/ukpga/1991/45/schedule/6/paragraph/1/5) repealed (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 12 para. 54(5)(b)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/54/5/b), [13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c1033540]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1991/45/schedule/6/paragraph/2) wholly in force at 30. 11. 1991 see [s. 54(2)](https://www.legislation.gov.uk/ukpga/1991/45/section/54/2) and [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art.2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. The Electricity Capacity Regulations 2014[^key-0b21dbd18b403060c995fb672f9234b3]
+## 83. The Electricity Capacity Regulations 2014[^c-0b21dbd18b403060c995fb672f9234b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b21dbd18b403060c995fb672f9234b3]: Commencement: Reg. 83 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-0b21dbd18b403060c995fb672f9234b3]: Commencement: Reg. 83 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23650511]: Marginal citation: [S.I. 2014/2043](https://www.legislation.gov.uk/uksi/2014/2043).

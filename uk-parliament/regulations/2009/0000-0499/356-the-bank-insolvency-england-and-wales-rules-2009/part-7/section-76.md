@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Interest[^key-c56cb8cecfc6994849e9c06e68cc3e55]
+## 76. Interest[^c-c56cb8cecfc6994849e9c06e68cc3e55]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.93 of the 1986 Rules. In paragraph (1), leave out from “or, if”
 
 ## Annotations
 
-[^key-c56cb8cecfc6994849e9c06e68cc3e55]: Commencement: Rule 76 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-c56cb8cecfc6994849e9c06e68cc3e55]: Commencement: Rule 76 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00029]: Footnote: Rule 4.93 was amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919) and [2005/527](https://www.legislation.gov.uk/uksi/2005/527).

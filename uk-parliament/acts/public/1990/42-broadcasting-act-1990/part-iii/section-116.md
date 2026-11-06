@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Applications for additional services licences.[^key-5c9662bd913d357a74bd1f30c9d99ddc]
+## 116. Applications for additional services licences.[^c-5c9662bd913d357a74bd1f30c9d99ddc]
 
 *Extent: E+W+S+N.I.*
 
-(1) Where OFCOM[^key-c12b62e484782d070d132bc17638425e] propose to grant a licence to provide additional services they shall publish, in such manner as they consider appropriate, a notice—
+(1) Where OFCOM[^c-c12b62e484782d070d132bc17638425e] propose to grant a licence to provide additional services they shall publish, in such manner as they consider appropriate, a notice—
 
 - (a) stating that they propose to grant such a licence;
 - (b) specifying—
   - (i) the period for which the licence is to be granted,
   - (ii) the sound broadcasting service or services on whose frequency or frequencies the services are to be provided, and
-  - (iii) [^key-6452680d1825f63725de139e07248579]... the extent and nature of the spare capacity which is to be allocated by the licence;
+  - (iii) [^c-6452680d1825f63725de139e07248579]... the extent and nature of the spare capacity which is to be allocated by the licence;
 - (c) inviting applications for the licence and specifying the closing date for such applications; and
 - (d) specifying—
   - (i) the fee payable on any application made in pursuance of the notice, and
@@ -58,8 +58,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5c9662bd913d357a74bd1f30c9d99ddc]: Modification: Pt. 3: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/5) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5c9662bd913d357a74bd1f30c9d99ddc]: Modification: Pt. 3: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/5) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-c12b62e484782d070d132bc17638425e]: Textual amendment: Words in s. 116 substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 54(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/54/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-c12b62e484782d070d132bc17638425e]: Textual amendment: Words in s. 116 substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 54(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/54/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-6452680d1825f63725de139e07248579]: Textual amendment: Words in s. 116(1)(b)(iii) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 54(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/54/3), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-6452680d1825f63725de139e07248579]: Textual amendment: Words in s. 116(1)(b)(iii) repealed (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 54(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/54/3), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

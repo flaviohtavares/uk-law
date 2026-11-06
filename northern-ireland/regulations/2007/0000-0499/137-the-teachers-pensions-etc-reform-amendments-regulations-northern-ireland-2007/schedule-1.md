@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2(1)
 
-### 1. Interpretation[^key-1d49b497fa4a1a8d9d984febec71e8c2]
+### 1. Interpretation[^c-1d49b497fa4a1a8d9d984febec71e8c2]
 
 In regulation 2(1)—
 
@@ -34,7 +34,7 @@ In regulation 2(1)—
 - (b) in the definition of “dependant” in sub-paragraph (c) after “a nomination under regulation” insert “E22A or”,
 - (c) omit the definition of “retire”.
 
-### 2. Provision for lump sum death benefit[^key-c7cc45fe39861c2e7745c4a24ffb6dd2]
+### 2. Provision for lump sum death benefit[^c-c7cc45fe39861c2e7745c4a24ffb6dd2]
 
 For regulation 5(4) substitute—
 
@@ -42,11 +42,11 @@ For regulation 5(4) substitute—
 
 .
 
-### 3. Variation and cancellation of elections[^key-cab240dc81d4b508822f4d36f20284d0]
+### 3. Variation and cancellation of elections[^c-cab240dc81d4b508822f4d36f20284d0]
 
 In regulation 6(1)(a) omit “subject to regulation 8(3)”.
 
-### 4. Retirement and dependant’s pensions[^key-4e70c5d5dc0c2224110358cd9611f02e]
+### 4. Retirement and dependant’s pensions[^c-4e70c5d5dc0c2224110358cd9611f02e]
 
 In regulation 12—
 
@@ -71,14 +71,14 @@ In regulation 12—
   .
 - (e) in paragraph (9) for “retirement” in both places that the word occurs substitute “the relevant date”.
 
-### 5. Pension sharing on divorce[^key-9df802bd2e7d5707390d08323182dde6]
+### 5. Pension sharing on divorce[^c-9df802bd2e7d5707390d08323182dde6]
 
 In regulation 13A[^f00009]—
 
 - (a) in paragraph (4) for “the age of 60” substitute “the normal pension age”,
 - (b) in paragraph (7)(b) for “retirement” substitute “the relevant date”.
 
-### 6. Payment by the Department[^key-d73179afbc50417ce91c5a4e6e0eabb0]
+### 6. Payment by the Department[^c-d73179afbc50417ce91c5a4e6e0eabb0]
 
 In regulation 16[^f00010]—
 
@@ -95,21 +95,21 @@ In regulation 16[^f00010]—
 
 ## Annotations
 
-[^key-1d49b497fa4a1a8d9d984febec71e8c2]: Commencement: Sch. 1 para. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-1d49b497fa4a1a8d9d984febec71e8c2]: Commencement: Sch. 1 para. 1 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-c7cc45fe39861c2e7745c4a24ffb6dd2]: Commencement: Sch. 1 para. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-c7cc45fe39861c2e7745c4a24ffb6dd2]: Commencement: Sch. 1 para. 2 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-cab240dc81d4b508822f4d36f20284d0]: Commencement: Sch. 1 para. 3 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-cab240dc81d4b508822f4d36f20284d0]: Commencement: Sch. 1 para. 3 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
-[^key-4e70c5d5dc0c2224110358cd9611f02e]: Commencement: Sch. 1 para. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-4e70c5d5dc0c2224110358cd9611f02e]: Commencement: Sch. 1 para. 4 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
 [^f00008]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12)
 
-[^key-9df802bd2e7d5707390d08323182dde6]: Commencement: Sch. 1 para. 5 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-9df802bd2e7d5707390d08323182dde6]: Commencement: Sch. 1 para. 5 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
 [^f00009]: Footnote: Regulation 13A was inserted by regulation 3(1) of and Schedule 4 to [S.R. 2001 No. 149](https://www.legislation.gov.uk/nisr/2001/149)
 
-[^key-d73179afbc50417ce91c5a4e6e0eabb0]: Commencement: Sch. 1 para. 6 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
+[^c-d73179afbc50417ce91c5a4e6e0eabb0]: Commencement: Sch. 1 para. 6 in operation at 1.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/137/regulation/1)
 
 [^f00010]: Footnote: Regulation 16 (2A) was inserted by regulation 12(a) of [S.R. 2006 No. 163](https://www.legislation.gov.uk/nisr/2006/163)
 

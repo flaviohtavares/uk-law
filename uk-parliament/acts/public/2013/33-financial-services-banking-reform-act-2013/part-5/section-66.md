@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Concurrent competition powers: supplementary provision[^key-f98b5ccb4e3a1917964c999331573596]
+## 66. Concurrent competition powers: supplementary provision[^c-f98b5ccb4e3a1917964c999331573596]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f98b5ccb4e3a1917964c999331573596]: Commencement: S. 66 in force at 1.4.2014 by [S.I. 2014/823](https://www.legislation.gov.uk/uksi/2014/823), [art. 2(f)](https://www.legislation.gov.uk/uksi/2014/823/article/2/f)
+[^c-f98b5ccb4e3a1917964c999331573596]: Commencement: S. 66 in force at 1.4.2014 by [S.I. 2014/823](https://www.legislation.gov.uk/uksi/2014/823), [art. 2(f)](https://www.legislation.gov.uk/uksi/2014/823/article/2/f)

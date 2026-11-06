@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. First meetings in the building society liquidation[^key-bdf1585867f78d26a112a01912ce0489]
+## 24. First meetings in the building society liquidation[^c-bdf1585867f78d26a112a01912ce0489]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ and shall advertise the venue, date and time of the meeting in such manner as th
 
 ## Annotations
 
-[^key-bdf1585867f78d26a112a01912ce0489]: Commencement: Rule 24 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-bdf1585867f78d26a112a01912ce0489]: Commencement: Rule 24 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

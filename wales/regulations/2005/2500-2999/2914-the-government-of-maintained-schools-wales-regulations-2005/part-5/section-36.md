@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Other requirements relating to instruments of government[^key-cc654a11a54a88627704039265631121]
+## 36. Other requirements relating to instruments of government[^c-cc654a11a54a88627704039265631121]
 
 *Extent: E+W*
 
-(1) The local authority[^key-a944f274d91baf78f1ce6acb913f655b] must ensure that the persons set out in paragraph (2) are provided (free of charge) with—
+(1) The local authority[^c-a944f274d91baf78f1ce6acb913f655b] must ensure that the persons set out in paragraph (2) are provided (free of charge) with—
 
 - (a) a copy of the school’s instrument of government, and
 - (b) where any variation is made to the school’s instrument of government, a consolidated version of the instrument of government incorporating all variations made by the local authority (other than any variations which have ceased to have effect).
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc654a11a54a88627704039265631121]: Commencement: Reg. 36 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-cc654a11a54a88627704039265631121]: Commencement: Reg. 36 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-a944f274d91baf78f1ce6acb913f655b]: Textual amendment: Words in [regs. 34-37](https://www.legislation.gov.uk/wsi/2005/2914/regulation/34) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(14)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/14)
+[^c-a944f274d91baf78f1ce6acb913f655b]: Textual amendment: Words in [regs. 34-37](https://www.legislation.gov.uk/wsi/2005/2914/regulation/34) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(14)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/14)

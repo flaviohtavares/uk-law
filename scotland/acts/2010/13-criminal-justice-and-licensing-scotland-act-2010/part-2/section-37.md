@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Offensive weapons etc.[^key-d862238f890427f687e76ec418b4e851]
+## 37. Offensive weapons etc.[^c-d862238f890427f687e76ec418b4e851]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d862238f890427f687e76ec418b4e851]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2010/13/section/37) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-d862238f890427f687e76ec418b4e851]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2010/13/section/37) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Appeal rights: detained persons[^key-d73891e417576b42841fa9f409b67f70][^key-7aa85ae62293ce80ade2c10d20725233]
+## 72. Appeal rights: detained persons[^c-d73891e417576b42841fa9f409b67f70][^c-7aa85ae62293ce80ade2c10d20725233]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d73891e417576b42841fa9f409b67f70]: Commencement: S. 72 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(f)](https://www.legislation.gov.uk/wsi/2021/373/article/8/f)
+[^c-d73891e417576b42841fa9f409b67f70]: Commencement: S. 72 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(f)](https://www.legislation.gov.uk/wsi/2021/373/article/8/f)
 
-[^key-7aa85ae62293ce80ade2c10d20725233]: Modification: S. 72 modified (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2), [41](https://www.legislation.gov.uk/wsi/2021/401/regulation/41)
+[^c-7aa85ae62293ce80ade2c10d20725233]: Modification: S. 72 modified (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2), [41](https://www.legislation.gov.uk/wsi/2021/401/regulation/41)

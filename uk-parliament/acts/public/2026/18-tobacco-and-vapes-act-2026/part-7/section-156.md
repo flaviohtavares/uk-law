@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Vape-free places in Wales[^key-8feb4d526937de8b2c4c5356fc71d95c]
+## 156. Vape-free places in Wales[^c-8feb4d526937de8b2c4c5356fc71d95c]
 
 *Extent: E+W+S+N.I.*
 
@@ -254,4 +254,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8feb4d526937de8b2c4c5356fc71d95c]: Commencement: S. 156 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)
+[^c-8feb4d526937de8b2c4c5356fc71d95c]: Commencement: S. 156 not in force at Royal Assent, see [s. 176(3)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/c)

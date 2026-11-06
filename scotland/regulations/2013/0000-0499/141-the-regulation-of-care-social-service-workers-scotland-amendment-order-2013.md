@@ -32,7 +32,7 @@ summary: ''
 
 Social Care
 
-The Regulation of Care (Social Service Workers) (Scotland) Amendment Order 2013 (revoked)[^key-cf0450f0811127b4c73e690f3478456a]
+The Regulation of Care (Social Service Workers) (Scotland) Amendment Order 2013 (revoked)[^c-cf0450f0811127b4c73e690f3478456a]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st August 2013
 
-[^key-cf0450f0811127b4c73e690f3478456a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf0450f0811127b4c73e690f3478456a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cf0450f0811127b4c73e690f3478456a]
+## 1. Citation and commencement[^c-cf0450f0811127b4c73e690f3478456a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Regulation of Care (Social Service Workers) (Scotland) Order 2005[^key-cf0450f0811127b4c73e690f3478456a]
+## 2. Amendment to the Regulation of Care (Social Service Workers) (Scotland) Order 2005[^c-cf0450f0811127b4c73e690f3478456a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf0450f0811127b4c73e690f3478456a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf0450f0811127b4c73e690f3478456a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cf0450f0811127b4c73e690f3478456a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf0450f0811127b4c73e690f3478456a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf0450f0811127b4c73e690f3478456a]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2013/141) revoked (3.6.2024) by [The Regulation of Care (Social Service Workers) (Scotland) Order 2024 (S.S.I. 2024/56)](https://www.legislation.gov.uk/ssi/2024/56), [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/56/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2024/56/schedule)
+[^c-cf0450f0811127b4c73e690f3478456a]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2013/141) revoked (3.6.2024) by [The Regulation of Care (Social Service Workers) (Scotland) Order 2024 (S.S.I. 2024/56)](https://www.legislation.gov.uk/ssi/2024/56), [art. 1(1)](https://www.legislation.gov.uk/ssi/2024/56/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2024/56/schedule)

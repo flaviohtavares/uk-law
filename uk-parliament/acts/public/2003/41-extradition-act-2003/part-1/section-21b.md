@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21B. Request for temporary transfer etc[^key-8ff431f914455d27f2fb1f8ec7cf106d]
+## 21B. Request for temporary transfer etc[^c-8ff431f914455d27f2fb1f8ec7cf106d]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ the permitted period for the purposes of fixing that date (see section 8(4)) is 
 
 ## Annotations
 
-[^key-8ff431f914455d27f2fb1f8ec7cf106d]: Textual amendment: S. 21B inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 159](https://www.legislation.gov.uk/ukpga/2014/12/section/159), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(f)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/f)
+[^c-8ff431f914455d27f2fb1f8ec7cf106d]: Textual amendment: S. 21B inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 159](https://www.legislation.gov.uk/ukpga/2014/12/section/159), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(f)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/f)

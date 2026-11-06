@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41.5. Variation or withdrawal of notice of reference or application for permission[^key-d8644e0a9876961622ceb05eae131c4b]
+## 41.5. Variation or withdrawal of notice of reference or application for permission[^c-d8644e0a9876961622ceb05eae131c4b]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8644e0a9876961622ceb05eae131c4b]: Commencement: [Rule 41.5](https://www.legislation.gov.uk/uksi/2025/909/rule/41.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d8644e0a9876961622ceb05eae131c4b]: Commencement: [Rule 41.5](https://www.legislation.gov.uk/uksi/2025/909/rule/41.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

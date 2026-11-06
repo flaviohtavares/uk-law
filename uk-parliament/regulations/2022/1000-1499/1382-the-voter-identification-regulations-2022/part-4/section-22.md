@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Supply, disclosure and use of record for the purposes of relevant elections, petitions and referendums[^key-a1c710c53dad4936df47c70762eb3cac]
+## 22. Supply, disclosure and use of record for the purposes of relevant elections, petitions and referendums[^c-a1c710c53dad4936df47c70762eb3cac]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ other than for the purposes of a relevant election, petition or referendum (as t
 
 ## Annotations
 
-[^key-a1c710c53dad4936df47c70762eb3cac]: Commencement: Reg. 22 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-a1c710c53dad4936df47c70762eb3cac]: Commencement: Reg. 22 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

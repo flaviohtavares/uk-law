@@ -52,7 +52,7 @@ The Treasury, in exercise of the powers conferred by sections 3, 4, 12 and 13(2)
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-6fca5b32db51f77ad916f230cc884492]
+### 1. Citation, commencement and interpretation[^c-6fca5b32db51f77ad916f230cc884492]
 
 (1) This Order may be cited as the Northern Rock plc Transfer Order 2008.
 
@@ -75,7 +75,7 @@ The Treasury, in exercise of the powers conferred by sections 3, 4, 12 and 13(2)
 
 ## PART 2 — TRANSFER AND REGISTRATION OF SHARES AND EXTINGUISHMENT OF RIGHTS ETC
 
-### 2. Transfers[^key-bbd80378ea640f3d53957fccfc0cc051]
+### 2. Transfers[^c-bbd80378ea640f3d53957fccfc0cc051]
 
 (1) By virtue of this Order, the shares in Northern Rock are transferred to the Treasury Solicitor as nominee of the Treasury.
 
@@ -86,7 +86,7 @@ The Treasury, in exercise of the powers conferred by sections 3, 4, 12 and 13(2)
 
 (3) The transfer under paragraph (1) takes place at the effective time.
 
-### 3. Registration of shares and issue of certificates[^key-39f546943ba6cafc1206c9990af07e63]
+### 3. Registration of shares and issue of certificates[^c-39f546943ba6cafc1206c9990af07e63]
 
 (1) The Treasury Solicitor is entitled with effect from the effective time to be entered in the register of members of Northern Rock as holder of the shares transferred by virtue of this Order without the need for delivery of any instrument of transfer or other instrument or document and notwithstanding—
 
@@ -128,7 +128,7 @@ The Treasury, in exercise of the powers conferred by sections 3, 4, 12 and 13(2)
 
 (10) In this article “certificated”, “issuer register of members”, “Operator”, “Operator register of members”, “relevant system” and “system-member” have the meanings given in the USRs.
 
-### 4. Extinguishment of rights in relation to shares[^key-20bbbb7984fb1833d924abd0c63ca5e0]
+### 4. Extinguishment of rights in relation to shares[^c-20bbbb7984fb1833d924abd0c63ca5e0]
 
 (1) By virtue of this Order any right or other entitlement granted by—
 
@@ -141,7 +141,7 @@ to receive shares in Northern Rock (whether by subscription, conversion or other
 
 (2) This article shall not apply to any right or entitlement to which article 5 applies.
 
-### 5. Interest payments in relation to Tier 1 notes[^key-124afc896e1d70c834bf81ab39cbe09a]
+### 5. Interest payments in relation to Tier 1 notes[^c-124afc896e1d70c834bf81ab39cbe09a]
 
 (1) This article applies if, while Northern Rock is wholly owned by the Treasury, Northern Rock would, but for this article, be obliged under the terms of any Tier 1 notes or arrangements relating to Tier 1 notes to issue ordinary shares in Northern Rock to satisfy entitlements to interest payments.
 
@@ -171,7 +171,7 @@ to receive shares in Northern Rock (whether by subscription, conversion or other
 - “innovative tier one capital resources” has the meaning given in the Glossary to the Authority’s Handbook;
 - “Handbook” means the handbook containing provisions made by the Authority under Part 10 of FSMA 2000.
 
-### 6. Conversion of foundation shares into ordinary shares etc.[^key-d075efadee3b8d991eb76c4f47be6543]
+### 6. Conversion of foundation shares into ordinary shares etc.[^c-d075efadee3b8d991eb76c4f47be6543]
 
 (1) Immediately after the effective time, each foundation share issued by Northern Rock shall, by virtue of this Order, convert into and be redesignated as one ordinary share in Northern Rock notwithstanding any provision in the articles of association of Northern Rock and without the need for approval of any person.
 
@@ -179,7 +179,7 @@ to receive shares in Northern Rock (whether by subscription, conversion or other
 
 (3) The conversion and redesignation of the foundation shares by virtue of this Order shall be treated as having been carried out by Northern Rock under and in accordance with article 8.6 of its articles of association (save that article 8.22 shall not apply) and the Deed of Covenant made on 30th September 1997 between Northern Rock and the Northern Rock Foundation shall terminate immediately after such conversion and redesignation.
 
-### 7. Minimum membership for carrying on business[^key-96bf411ab17712a88d1b17ae215b40a7]
+### 7. Minimum membership for carrying on business[^c-96bf411ab17712a88d1b17ae215b40a7]
 
 (1) While Northern Rock is wholly owned by the Treasury, section 24 of the 1985 Act (minimum membership for carrying on business) shall not apply in relation to Northern Rock or any member of Northern Rock.
 
@@ -187,7 +187,7 @@ to receive shares in Northern Rock (whether by subscription, conversion or other
 
 ## PART 3 — MEETINGS, DIRECTORS AND PROCEEDINGS
 
-### 8. Resolutions and meetings[^key-88d9a46f5cb9106a96d7197efd2d71cc]
+### 8. Resolutions and meetings[^c-88d9a46f5cb9106a96d7197efd2d71cc]
 
 (1) Any meeting of members of Northern Rock held while Northern Rock is wholly owned by the Treasury shall, if the Treasury Solicitor is present in person or by proxy or authorises a corporate representative to attend, be deemed to be a duly constituted general meeting of the company notwithstanding that it may not have been properly called, or notice of it may not have been properly given, or any quorum required by Northern Rock’s articles of association may not be present.
 
@@ -200,7 +200,7 @@ to receive shares in Northern Rock (whether by subscription, conversion or other
 
 (3) A resolution of the company is effective notwithstanding that special notice (notice of intention to move it given to company at least 28 days before the meeting at which it is moved) of the resolution is required by any provision of the 1985 Act or 2006 Act but has not been given.
 
-### 9. Removal of directors[^key-92685ab339b607d2fef877cb1cfdf1ae]
+### 9. Removal of directors[^c-92685ab339b607d2fef877cb1cfdf1ae]
 
 (1) While Northern Rock is wholly owned by the Treasury, the Treasury may in accordance with this article—
 
@@ -231,7 +231,7 @@ in accordance with this article shall not have any right or claim against the Tr
 
 (8) In this article and in article 10, “service contract” has the meaning given by section 227 of the 2006 Act (directors’ service contracts).
 
-### 10. Appointment of directors[^key-7a915eb7873e7a5714be914505cf4d24]
+### 10. Appointment of directors[^c-7a915eb7873e7a5714be914505cf4d24]
 
 (1) While Northern Rock is wholly owned by the Treasury, the Treasury may appoint one or more directors of a relevant undertaking in accordance with this article and notwithstanding any restriction in the articles of association of the relevant undertaking.
 
@@ -245,7 +245,7 @@ in accordance with this article shall not have any right or claim against the Tr
 
 (6) This article is not to be taken as derogating from any power to appoint a director or determine the remuneration and other terms and conditions of a director’s service contract that may exist apart from this article.
 
-### 11. Proceedings against directors of Northern Rock[^key-e362af5c3ded46a8541ff8e84e688f84]
+### 11. Proceedings against directors of Northern Rock[^c-e362af5c3ded46a8541ff8e84e688f84]
 
 (1) No director of a relevant undertaking shall be liable for any act or omission of the director, acting in such capacity, which occurs while Northern Rock is wholly owned by the Treasury and accordingly no proceedings may be brought (or in Scotland, raised) against any such director in respect of such matters.
 
@@ -264,7 +264,7 @@ in accordance with this article shall not have any right or claim against the Tr
   - (b) a person who was a director immediately before the effective time and whose continuing appointment as director while Northern Rock is wholly owned by the Treasury, the Treasury approves in writing, whether or not he has ceased to be a director at the time when proceedings in respect of that liability commenced; and
   - (c) an alternate director of a person falling within sub-paragraph (a) or (b).
 
-### 12. Modification of rights in relevant instruments[^key-ef26bb0f36abd39e7968cf0896d63192]
+### 12. Modification of rights in relevant instruments[^c-ef26bb0f36abd39e7968cf0896d63192]
 
 (1) The consequences specified in paragraph (3) shall not arise in respect of any relevant instrument as a result of the transfer or any other thing done, or matter arising, by virtue of or in connection with this Order.
 
@@ -292,13 +292,13 @@ in accordance with this article shall not have any right or claim against the Tr
 
 ## PART 4 — DE-LISTING, APPROVAL ETC.
 
-### 13. De-listing[^key-53a98dea99dc06ce443d6e0552e6e823]
+### 13. De-listing[^c-53a98dea99dc06ce443d6e0552e6e823]
 
 (1) By virtue of this Order, the listing of any shares of Northern Rock is discontinued with effect from the effective time without the need for any notice to, or consent of, Northern Rock or any other person.
 
 (2) In paragraph (1), “listing” has the meaning given in section 74[^f00009] of FSMA 2000.
 
-### 14. Approved persons[^key-86a0f8630d31cccac6c8bedd59a0b4ee]
+### 14. Approved persons[^c-86a0f8630d31cccac6c8bedd59a0b4ee]
 
 (1) While Northern Rock is wholly owned by the Treasury the requirements imposed on Northern Rock and any subsidiary undertaking by section 59 of FSMA 2000 (approval for particular arrangements) in relation to directors (including non-executive directors) and the chief executive officer shall be deemed to be satisfied in relation to Northern Rock and any subsidiary undertaking, provided that at all material times the Authority is satisfied that at least two individuals who effectively direct the business of Northern Rock are of sufficiently good repute and have sufficient experience to perform controlled functions in that respect.
 
@@ -312,7 +312,7 @@ in accordance with this article shall not have any right or claim against the Tr
 
 ## PART 5 — AUTHORITY’S RULE-MAKING POWER
 
-### 15. Modification to Authority’s rule-making power[^key-a6e883687efdc55c830041ce8ff4d8a6]
+### 15. Modification to Authority’s rule-making power[^c-a6e883687efdc55c830041ce8ff4d8a6]
 
 (1) Subsections (1) and (1A)[^f00010] of section 138 of FSMA 2000 (general rule-making power) have effect as if modified by inserting after “protecting the interests of consumers”—
 
@@ -327,7 +327,7 @@ in accordance with this article shall not have any right or claim against the Tr
 
 (3) Section 148(4)[^f00012] of FSMA 2000 shall not prevent the Authority from modifying or waiving rules in relation to a relevant undertaking under section 148 of that Act provided that the Authority is satisfied that the modification or waiver is necessary for the purposes of, to facilitate or in consequence of the transfer.
 
-### 16. Modification to Authority’s duty to consult on rule changes[^key-4b3a4db4fd00755c755f60071a8b2508]
+### 16. Modification to Authority’s duty to consult on rule changes[^c-4b3a4db4fd00755c755f60071a8b2508]
 
 (1) Section 155(7) of FSMA 2000 (consultation) has effect as if modified by adding at the end—
 
@@ -341,7 +341,7 @@ in accordance with this article shall not have any right or claim against the Tr
 
 ## PART 6 — MISCELLANEOUS
 
-### 17. Shadow directorship[^key-4caba1988458e26571c5b06b94317593]
+### 17. Shadow directorship[^c-4caba1988458e26571c5b06b94317593]
 
 (1) While Northern Rock is wholly owned by the Treasury, for the purposes of the provisions listed in the Schedule to this Order, none of the persons listed in paragraph (3) shall be regarded as a shadow director or (unless otherwise appointed as a director) a person discharging managerial responsibilities of a relevant undertaking.
 
@@ -359,7 +359,7 @@ in accordance with this article shall not have any right or claim against the Tr
 
   any of the persons in paragraph (3).
 
-### 18. Northern Rock and freedom of information[^key-558b84872039e3b4dacbaafa0176fe71]
+### 18. Northern Rock and freedom of information[^c-558b84872039e3b4dacbaafa0176fe71]
 
 (1) This article applies while Northern Rock is wholly owned by the Treasury.
 
@@ -370,7 +370,7 @@ in accordance with this article shall not have any right or claim against the Tr
 
 of the Freedom of Information Act 2000 (public authorities)[^f00013].
 
-### 19. Notification requirement[^key-3b44103a58c734d069c3f5ff78fdd86c]
+### 19. Notification requirement[^c-3b44103a58c734d069c3f5ff78fdd86c]
 
 (1) The Treasury must notify the Authority of the making of this Order.
 
@@ -388,7 +388,7 @@ of the Freedom of Information Act 2000 (public authorities)[^f00013].
 
 (5) “Relevant EEA authority” means any regulatory authority in an EEA state that exercises functions in relation to any office or branch of the authorised deposit-taker in question in that state.
 
-### 20. Modification of provision on liability in relation to Operator’s functions[^key-86b1c3ef0cf4c4f1caefe806c4f529a9]
+### 20. Modification of provision on liability in relation to Operator’s functions[^c-86b1c3ef0cf4c4f1caefe806c4f529a9]
 
 (1) Section 291 of FSMA 2000 (liability in relation to recognised body’s regulatory functions) shall have effect as if the following modifications are made.
 
@@ -417,7 +417,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Article 17(1)
 
-**1.**[^key-1cc3f84abe4751e0e7c76bd42fe66579] The following provisions of the 1985 Act—
+**1.**[^c-1cc3f84abe4751e0e7c76bd42fe66579] The following provisions of the 1985 Act—
 
 - (a) section 288 (register of directors);
 - (b) section 305 (directors’ names on correspondence, etc);
@@ -429,7 +429,7 @@ Article 17(1)
 - (h) section 330 (restriction on loans);
 - (i) section 733 (offences by bodies corporate).
 
-**2.**[^key-41cead72860d0287e35b7dc5e3fa2dd4] The following provisions of the 2006 Act—
+**2.**[^c-41cead72860d0287e35b7dc5e3fa2dd4] The following provisions of the 2006 Act—
 
 - (a) section 84 (criminal consequences of failure to make required disclosure);
 - (b) section 162 (register of directors);
@@ -446,12 +446,12 @@ Article 17(1)
 - (m) sections 260 to 269 (derivative claims in England and Wales and Northern Ireland);
 - (n) sections 854 to 859 (annual return).
 
-**3.**[^key-ef004f1538da6a3907f3194fd7ce9292] The following provisions of the Insolvency Act 1986[^f00014]—
+**3.**[^c-ef004f1538da6a3907f3194fd7ce9292] The following provisions of the Insolvency Act 1986[^f00014]—
 
 - (a) section 214 (wrongful trading);
 - (b) section 249 (“connected” with a company).
 
-**4.**[^key-f3576b06771a96dd80afccf587b41d40] The following provisions of FSMA 2000[^f00015]—
+**4.**[^c-f3576b06771a96dd80afccf587b41d40] The following provisions of FSMA 2000[^f00015]—
 
 - (a) section 96A (disclosure of information requirements);
 - (b) section 96B (disclosure rules: persons responsible for compliance).
@@ -504,7 +504,7 @@ A Regulatory Impact Assessment of the effect of this instrument on the costs to 
 
 [^f00003]: Footnote: [2008 c. 2](https://www.legislation.gov.uk/ukpga/2008/2).
 
-[^key-6fca5b32db51f77ad916f230cc884492]: Commencement: Art. 1 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-6fca5b32db51f77ad916f230cc884492]: Commencement: Art. 1 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
 [^f00004]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
@@ -514,37 +514,37 @@ A Regulatory Impact Assessment of the effect of this instrument on the costs to 
 
 [^f00007]: Footnote: [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755); as amended by [S.I. 2003/1633](https://www.legislation.gov.uk/uksi/2003/1633), there are other amending instruments but none is relevant.
 
-[^key-bbd80378ea640f3d53957fccfc0cc051]: Commencement: Art. 2 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-bbd80378ea640f3d53957fccfc0cc051]: Commencement: Art. 2 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-39f546943ba6cafc1206c9990af07e63]: Commencement: Art. 3 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-39f546943ba6cafc1206c9990af07e63]: Commencement: Art. 3 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
 [^f00008]: Footnote: Subsections (4) to (4D) were substituted for subsection (4) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-20bbbb7984fb1833d924abd0c63ca5e0]: Commencement: Art. 4 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-20bbbb7984fb1833d924abd0c63ca5e0]: Commencement: Art. 4 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-124afc896e1d70c834bf81ab39cbe09a]: Commencement: Art. 5 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-124afc896e1d70c834bf81ab39cbe09a]: Commencement: Art. 5 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-d075efadee3b8d991eb76c4f47be6543]: Commencement: Art. 6 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-d075efadee3b8d991eb76c4f47be6543]: Commencement: Art. 6 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-96bf411ab17712a88d1b17ae215b40a7]: Commencement: Art. 7 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-96bf411ab17712a88d1b17ae215b40a7]: Commencement: Art. 7 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-88d9a46f5cb9106a96d7197efd2d71cc]: Commencement: Art. 8 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-88d9a46f5cb9106a96d7197efd2d71cc]: Commencement: Art. 8 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-92685ab339b607d2fef877cb1cfdf1ae]: Commencement: Art. 9 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-92685ab339b607d2fef877cb1cfdf1ae]: Commencement: Art. 9 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-7a915eb7873e7a5714be914505cf4d24]: Commencement: Art. 10 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-7a915eb7873e7a5714be914505cf4d24]: Commencement: Art. 10 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-e362af5c3ded46a8541ff8e84e688f84]: Commencement: Art. 11 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-e362af5c3ded46a8541ff8e84e688f84]: Commencement: Art. 11 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-ef26bb0f36abd39e7968cf0896d63192]: Commencement: Art. 12 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-ef26bb0f36abd39e7968cf0896d63192]: Commencement: Art. 12 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-53a98dea99dc06ce443d6e0552e6e823]: Commencement: Art. 13 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-53a98dea99dc06ce443d6e0552e6e823]: Commencement: Art. 13 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
 [^f00009]: Footnote: section 74 was amended by [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381) and [2005/1433](https://www.legislation.gov.uk/uksi/2005/1433).
 
-[^key-86a0f8630d31cccac6c8bedd59a0b4ee]: Commencement: Art. 14 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-86a0f8630d31cccac6c8bedd59a0b4ee]: Commencement: Art. 14 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-a6e883687efdc55c830041ce8ff4d8a6]: Commencement: Art. 15 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-a6e883687efdc55c830041ce8ff4d8a6]: Commencement: Art. 15 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
 [^f00010]: Footnote: subsections (1A) to (1C) were inserted by [S.I. 2006/2975](https://www.legislation.gov.uk/uksi/2006/2975).
 
@@ -552,26 +552,26 @@ A Regulatory Impact Assessment of the effect of this instrument on the costs to 
 
 [^f00012]: Footnote: subsection (4)(a) was amended by [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973).
 
-[^key-4b3a4db4fd00755c755f60071a8b2508]: Commencement: Art. 16 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-4b3a4db4fd00755c755f60071a8b2508]: Commencement: Art. 16 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-4caba1988458e26571c5b06b94317593]: Commencement: Art. 17 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-4caba1988458e26571c5b06b94317593]: Commencement: Art. 17 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-558b84872039e3b4dacbaafa0176fe71]: Commencement: Art. 18 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-558b84872039e3b4dacbaafa0176fe71]: Commencement: Art. 18 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
 [^f00013]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36).
 
-[^key-3b44103a58c734d069c3f5ff78fdd86c]: Commencement: Art. 19 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-3b44103a58c734d069c3f5ff78fdd86c]: Commencement: Art. 19 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-86b1c3ef0cf4c4f1caefe806c4f529a9]: Commencement: Art. 20 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-86b1c3ef0cf4c4f1caefe806c4f529a9]: Commencement: Art. 20 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-1cc3f84abe4751e0e7c76bd42fe66579]: Commencement: Sch. para. 1 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-1cc3f84abe4751e0e7c76bd42fe66579]: Commencement: Sch. para. 1 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-41cead72860d0287e35b7dc5e3fa2dd4]: Commencement: Sch. para. 2 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-41cead72860d0287e35b7dc5e3fa2dd4]: Commencement: Sch. para. 2 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
-[^key-ef004f1538da6a3907f3194fd7ce9292]: Commencement: Sch. para. 3 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-ef004f1538da6a3907f3194fd7ce9292]: Commencement: Sch. para. 3 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
 [^f00014]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-f3576b06771a96dd80afccf587b41d40]: Commencement: Sch. para. 4 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
+[^c-f3576b06771a96dd80afccf587b41d40]: Commencement: Sch. para. 4 in force at 22.2.2008, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/432/article/1/2)
 
 [^f00015]: Footnote: Sections 96A and 96B were inserted by [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381).

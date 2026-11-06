@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-36def9135c23d483f81f55e23434a460]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-36def9135c23d483f81f55e23434a460]
 
 *Extent: E+W+S*
 
 Article 2(1)
 
-[^key-36def9135c23d483f81f55e23434a460]
+[^c-36def9135c23d483f81f55e23434a460]
 
 In the County of Norfolk and the Borough of Great Yarmouth, a development which, in accordance with a direction made by the Secretary of State for Transport on 26th February 2018 under section 35 [^c24294801] (directions in relation to projects of national significance) of the 2008 Act, is development for which development consent is required, and associated development within the meaning of section 115(2) [^c24294811] (development for which development consent may be granted) of the 2008 Act, comprising—**Work No. 1** – shown on sheet 1 of the works plans and being improvements to the existing A47(T) Great Yarmouth Bypass trunk road at Harfrey's roundabout to facilitate the tie in of Work No. 2 to the existing highway network, including carriageway and footway realignment, modifications to traffic signs and road markings, and ecological mitigation works.**Work No. 2** – as shown on sheet 1 of the works plans and being the construction of new highway, replacing part of Queen Anne's Road, William Adams Way and Suffolk Road, comprising—
 
@@ -181,7 +181,7 @@ other works—
 
 ## Annotations
 
-[^key-36def9135c23d483f81f55e23434a460]: Commencement: Sch. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-36def9135c23d483f81f55e23434a460]: Commencement: Sch. 1 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294801]: Marginal citation: [Section 35](https://www.legislation.gov.uk/uksi/2020/1075/section/35) was inserted by section 26(2) of the [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27).
 

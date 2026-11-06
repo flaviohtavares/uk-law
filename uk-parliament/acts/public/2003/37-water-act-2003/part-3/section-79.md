@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Offences[^key-2b94be083d504635a8e2523e901c8560]
+## 79. Offences[^c-2b94be083d504635a8e2523e901c8560]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b94be083d504635a8e2523e901c8560]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2003/37/section/79) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(o)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/o) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-2b94be083d504635a8e2523e901c8560]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2003/37/section/79) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(o)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/o) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))

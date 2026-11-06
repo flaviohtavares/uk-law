@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 18 — Documents to be certified[^key-292b622eedd1bbe9d5f61430151c0968]
+## SCHEDULE 18 — Documents to be certified[^c-292b622eedd1bbe9d5f61430151c0968]
 
 *Extent: E+W*
 
 Article 37
 
-[^key-292b622eedd1bbe9d5f61430151c0968]
+[^c-292b622eedd1bbe9d5f61430151c0968]
 
 The following documents in Table 1 are the list referred to in article 37—
 
@@ -275,28 +275,28 @@ Table 1
 </tbody>
 </table>
 
-[^key-d9445bd35860562ebda8a74ca0ddc5c1][^key-241ac9172013f1938fef7429a651b20b][^key-7e7200f73034ef694ac7df74f0c1060b][^key-60dc39351d37d846dc49cc6cdef8bb67][^key-7e0ba9e453ab12c456d9d549fb9518be][^key-e18d718b09b6aac2b8839a3857a4cc4c][^key-8032cc22ec307934237df5a9a710fef0][^key-1d464dfe7f4550f27b179781c3bac776][^key-729e978a6752a714f3bff79278cfb2cd][^key-6d1f102371c75677928a272318c94be3][^key-6d1f102371c75677928a272318c94be3][^key-6d1f102371c75677928a272318c94be3][^key-6d1f102371c75677928a272318c94be3][^key-6d1f102371c75677928a272318c94be3]
+[^c-d9445bd35860562ebda8a74ca0ddc5c1][^c-241ac9172013f1938fef7429a651b20b][^c-7e7200f73034ef694ac7df74f0c1060b][^c-60dc39351d37d846dc49cc6cdef8bb67][^c-7e0ba9e453ab12c456d9d549fb9518be][^c-e18d718b09b6aac2b8839a3857a4cc4c][^c-8032cc22ec307934237df5a9a710fef0][^c-1d464dfe7f4550f27b179781c3bac776][^c-729e978a6752a714f3bff79278cfb2cd][^c-6d1f102371c75677928a272318c94be3][^c-6d1f102371c75677928a272318c94be3][^c-6d1f102371c75677928a272318c94be3][^c-6d1f102371c75677928a272318c94be3][^c-6d1f102371c75677928a272318c94be3]
 
 ## Annotations
 
-[^key-292b622eedd1bbe9d5f61430151c0968]: Commencement: Sch. 18 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-292b622eedd1bbe9d5f61430151c0968]: Commencement: Sch. 18 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-d9445bd35860562ebda8a74ca0ddc5c1]: Textual amendment: Words in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-d9445bd35860562ebda8a74ca0ddc5c1]: Textual amendment: Words in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
 
-[^key-241ac9172013f1938fef7429a651b20b]: Textual amendment: Words in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 substituted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [art. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/145/schedule)
+[^c-241ac9172013f1938fef7429a651b20b]: Textual amendment: Words in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 substituted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [art. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/145/schedule)
 
-[^key-7e7200f73034ef694ac7df74f0c1060b]: Textual amendment: Word in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 inserted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [arts. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [7(a)](https://www.legislation.gov.uk/uksi/2025/145/article/7/a)
+[^c-7e7200f73034ef694ac7df74f0c1060b]: Textual amendment: Word in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 inserted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [arts. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [7(a)](https://www.legislation.gov.uk/uksi/2025/145/article/7/a)
 
-[^key-60dc39351d37d846dc49cc6cdef8bb67]: Textual amendment: Word in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 inserted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [arts. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [7(b)](https://www.legislation.gov.uk/uksi/2025/145/article/7/b)
+[^c-60dc39351d37d846dc49cc6cdef8bb67]: Textual amendment: Word in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 inserted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [arts. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [7(b)](https://www.legislation.gov.uk/uksi/2025/145/article/7/b)
 
-[^key-7e0ba9e453ab12c456d9d549fb9518be]: Textual amendment: Words in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 inserted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [arts. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [7(c)](https://www.legislation.gov.uk/uksi/2025/145/article/7/c)
+[^c-7e0ba9e453ab12c456d9d549fb9518be]: Textual amendment: Words in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 inserted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [arts. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [7(c)](https://www.legislation.gov.uk/uksi/2025/145/article/7/c)
 
-[^key-e18d718b09b6aac2b8839a3857a4cc4c]: Textual amendment: Word in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 inserted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [arts. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [7(d)](https://www.legislation.gov.uk/uksi/2025/145/article/7/d)
+[^c-e18d718b09b6aac2b8839a3857a4cc4c]: Textual amendment: Word in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 inserted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [arts. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [7(d)](https://www.legislation.gov.uk/uksi/2025/145/article/7/d)
 
-[^key-8032cc22ec307934237df5a9a710fef0]: Textual amendment: Words in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 inserted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [arts. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [7(e)](https://www.legislation.gov.uk/uksi/2025/145/article/7/e)
+[^c-8032cc22ec307934237df5a9a710fef0]: Textual amendment: Words in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 inserted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [arts. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [7(e)](https://www.legislation.gov.uk/uksi/2025/145/article/7/e)
 
-[^key-1d464dfe7f4550f27b179781c3bac776]: Textual amendment: Word in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-1d464dfe7f4550f27b179781c3bac776]: Textual amendment: Word in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
 
-[^key-729e978a6752a714f3bff79278cfb2cd]: Textual amendment: Words in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 substituted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [art. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/145/schedule)
+[^c-729e978a6752a714f3bff79278cfb2cd]: Textual amendment: Words in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 substituted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [art. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/145/schedule)
 
-[^key-6d1f102371c75677928a272318c94be3]: Textual amendment: Words in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 omitted (7.2.2025) by virtue of [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [art. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/145/schedule)
+[^c-6d1f102371c75677928a272318c94be3]: Textual amendment: Words in [Sch. 18](https://www.legislation.gov.uk/uksi/2024/564/schedule/18) Table 1 omitted (7.2.2025) by virtue of [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [art. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/145/schedule)

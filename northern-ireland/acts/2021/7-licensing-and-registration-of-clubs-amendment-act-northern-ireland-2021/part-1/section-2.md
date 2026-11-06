@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Removal of restrictions on late opening for on-sales on Sunday[^key-b53ce4f6c60d2d36b66d2e9bd893be00][^key-bae557924680dda949b9057deeab132f]
+## 2. Removal of restrictions on late opening for on-sales on Sunday[^c-b53ce4f6c60d2d36b66d2e9bd893be00][^c-bae557924680dda949b9057deeab132f]
 
 *Extent: N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b53ce4f6c60d2d36b66d2e9bd893be00]: Commencement: S. 2 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-b53ce4f6c60d2d36b66d2e9bd893be00]: Commencement: S. 2 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-bae557924680dda949b9057deeab132f]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2021/7/section/2) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-bae557924680dda949b9057deeab132f]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2021/7/section/2) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

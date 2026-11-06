@@ -16,24 +16,24 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Amendments to the Electricity Order – Grant of electricity licences[^key-e88b49aae6a882f2312d59c496ad4abc]
+## 47. Amendments to the Electricity Order – Grant of electricity licences[^c-e88b49aae6a882f2312d59c496ad4abc]
 
 *Extent: N.I.*
 
 In Article 10(1) of the Electricity Order, for the words “Department after consultation with the Director, or the Director with the consent of, or in accordance with a general authority given by, the Department,” there shall be substituted the word “Authority”.
 
-**48.**[^key-c3edc8d1410d5a7c5768a243efd8872f] In Article 10(2A) of the Electricity Order, for the word “grantor” there shall be substituted the word “Authority”.
+**48.**[^c-c3edc8d1410d5a7c5768a243efd8872f] In Article 10(2A) of the Electricity Order, for the word “grantor” there shall be substituted the word “Authority”.
 
-**49.**[^key-1a3255f8992fc4bc531a36e17f2addf4] In Article 10(4) of the Electricity Order—
+**49.**[^c-1a3255f8992fc4bc531a36e17f2addf4] In Article 10(4) of the Electricity Order—
 
 - (a) in the first line for the words “the Department or the Director” there shall be substituted the words “the Authority”; and
 - (b) in paragraph (a) for the words “the Department or the Director, as the case may require,” there shall be substituted the words “the Authority”.
 
-**50.**[^key-5ba72ee5d88f87bc79db991818bafcf8] In Article 10(5) of the Electricity Order, for the words “the Department or the Director” there shall be substituted the words “the Authority”.
+**50.**[^c-5ba72ee5d88f87bc79db991818bafcf8] In Article 10(5) of the Electricity Order, for the words “the Department or the Director” there shall be substituted the words “the Authority”.
 
-**51.**[^key-33e4d47df27801c176f9617dfd3e2aab] Article 10(7) of the Electricity Order shall be omitted.
+**51.**[^c-33e4d47df27801c176f9617dfd3e2aab] Article 10(7) of the Electricity Order shall be omitted.
 
-**52.**[^key-83f68d0f6aa4d6bff410f2f76de831a3] After Article 11A of the Electricity Order there shall be inserted the following Article—
+**52.**[^c-83f68d0f6aa4d6bff410f2f76de831a3] After Article 11A of the Electricity Order there shall be inserted the following Article—
 
 > **11AA. Standard conditions of licences**
 >
@@ -53,7 +53,7 @@ In Article 10(1) of the Electricity Order, for the words “Department after con
 
 .
 
-**53.**[^key-9f8f92c630234cc880e05df3dbf19c26] Paragraph (1) of Article 14 of the Electricity Order shall be substituted with the following paragraph—
+**53.**[^c-9f8f92c630234cc880e05df3dbf19c26] Paragraph (1) of Article 14 of the Electricity Order shall be substituted with the following paragraph—
 
 > (1) Subject to the following provisions of this Article, the Authority may—
 >
@@ -63,7 +63,7 @@ In Article 10(1) of the Electricity Order, for the words “Department after con
 
 .
 
-**54.**[^key-5ccfa235e74039314eaf9fe3d74d79ce] After paragraph (4) of Article 14 of the Electricity Order there shall be inserted the following paragraphs—
+**54.**[^c-5ccfa235e74039314eaf9fe3d74d79ce] After paragraph (4) of Article 14 of the Electricity Order there shall be inserted the following paragraphs—
 
 > (5) The Authority shall not make any modifications of standard conditions under paragraph 1(c) unless—
 >
@@ -79,18 +79,18 @@ In Article 10(1) of the Electricity Order, for the words “Department after con
 
 ## Annotations
 
-[^key-e88b49aae6a882f2312d59c496ad4abc]: Commencement: Reg. 47 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-e88b49aae6a882f2312d59c496ad4abc]: Commencement: Reg. 47 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-c3edc8d1410d5a7c5768a243efd8872f]: Commencement: Reg. 48 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-c3edc8d1410d5a7c5768a243efd8872f]: Commencement: Reg. 48 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-1a3255f8992fc4bc531a36e17f2addf4]: Commencement: Reg. 49 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-1a3255f8992fc4bc531a36e17f2addf4]: Commencement: Reg. 49 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-5ba72ee5d88f87bc79db991818bafcf8]: Commencement: Reg. 50 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-5ba72ee5d88f87bc79db991818bafcf8]: Commencement: Reg. 50 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-33e4d47df27801c176f9617dfd3e2aab]: Commencement: Reg. 51 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-33e4d47df27801c176f9617dfd3e2aab]: Commencement: Reg. 51 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-83f68d0f6aa4d6bff410f2f76de831a3]: Commencement: Reg. 52 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-83f68d0f6aa4d6bff410f2f76de831a3]: Commencement: Reg. 52 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-9f8f92c630234cc880e05df3dbf19c26]: Commencement: Reg. 53 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-9f8f92c630234cc880e05df3dbf19c26]: Commencement: Reg. 53 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-5ccfa235e74039314eaf9fe3d74d79ce]: Commencement: Reg. 54 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-5ccfa235e74039314eaf9fe3d74d79ce]: Commencement: Reg. 54 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

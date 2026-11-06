@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Power to make provision about the sale of owner-occupied crofts[^key-a3d5cf8f320399965c13d36f503d6453]
+## 13. Power to make provision about the sale of owner-occupied crofts[^c-a3d5cf8f320399965c13d36f503d6453]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3d5cf8f320399965c13d36f503d6453]: Commencement: S. 13 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-a3d5cf8f320399965c13d36f503d6453]: Commencement: S. 13 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

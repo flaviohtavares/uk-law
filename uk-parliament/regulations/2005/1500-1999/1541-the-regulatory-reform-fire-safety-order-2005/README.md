@@ -58,7 +58,7 @@ Whereas—–
   - (i) the provisions of this Order, taken as a whole, strike a fair balance between the public interest and the interests of the persons affected by the burdens being created; and
   - (ii) the extent to which this Order removes or reduces one or more burdens, or has other beneficial effects for persons affected by the burdens imposed by the existing law, makes it desirable for this Order to be made;
 
-Now therefore the First Secretary of State, in exercise of the powers conferred by section 1 of the Regulatory Reform Act 2001, hereby makes the following Order:[^key-97910a7d575e416477442dff687ab547]
+Now therefore the First Secretary of State, in exercise of the powers conferred by section 1 of the Regulatory Reform Act 2001, hereby makes the following Order:[^c-97910a7d575e416477442dff687ab547]
 
 ## Contents
 
@@ -190,4 +190,4 @@ A regulatory impact assessment has been prepared in respect of this Order. A cop
 
 [^c12250031]: Marginal citation: Session 2003-04 HL 153.
 
-[^key-97910a7d575e416477442dff687ab547]: Modification: Order: power to amend conferred (29.6.2021) by [Fire Safety Act 2021 (c. 24)](https://www.legislation.gov.uk/ukpga/2021/24), [ss. 2](https://www.legislation.gov.uk/ukpga/2021/24/section/2), [4](https://www.legislation.gov.uk/ukpga/2021/24/section/4)
+[^c-97910a7d575e416477442dff687ab547]: Modification: Order: power to amend conferred (29.6.2021) by [Fire Safety Act 2021 (c. 24)](https://www.legislation.gov.uk/ukpga/2021/24), [ss. 2](https://www.legislation.gov.uk/ukpga/2021/24/section/2), [4](https://www.legislation.gov.uk/ukpga/2021/24/section/4)

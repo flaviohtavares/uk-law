@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Transitory modification relating to section 156 of the Act[^key-a1f385a4136317782ff8fc7d15fb25b2]
+## 14. Transitory modification relating to section 156 of the Act[^c-a1f385a4136317782ff8fc7d15fb25b2]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ Until the coming into force of section 1 of the Companies Act 2006[^f00011], sec
 
 ## Annotations
 
-[^key-a1f385a4136317782ff8fc7d15fb25b2]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2009/462/article/14) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
+[^c-a1f385a4136317782ff8fc7d15fb25b2]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2009/462/article/14) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
 
 [^f00011]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46). Section 1 is to come into force on 1st October 2009 - see [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860).
 

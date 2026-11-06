@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. CAT powers on review: Scotland[^key-905814d7710b27e82699b9a59d3c8a91][^key-939baa54558db2f2e394195f105de3ac]
+## 73. CAT powers on review: Scotland[^c-905814d7710b27e82699b9a59d3c8a91][^c-939baa54558db2f2e394195f105de3ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-905814d7710b27e82699b9a59d3c8a91]: Commencement: S. 73 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-905814d7710b27e82699b9a59d3c8a91]: Commencement: S. 73 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-939baa54558db2f2e394195f105de3ac]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2022/23/section/73) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-939baa54558db2f2e394195f105de3ac]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2022/23/section/73) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

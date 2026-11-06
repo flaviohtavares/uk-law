@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.224. Secretary of State's directions under ss.203, 205[^key-49e504cb7e8a3139fb9d13bd11c7a4fb]
+## 4.224. Secretary of State's directions under ss.203, 205[^c-49e504cb7e8a3139fb9d13bd11c7a4fb]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ he shall send two copies of the direction to the applicant for it.
 
 ## Annotations
 
-[^key-49e504cb7e8a3139fb9d13bd11c7a4fb]: Commencement: [Rule 4.224](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.224) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-49e504cb7e8a3139fb9d13bd11c7a4fb]: Commencement: [Rule 4.224](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.224) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 22E — Switches relating to the use of illuminable signs, warning lights and roof bars on buses carrying children[^key-a015aa800ae087d342df99ce00173fcb]
+## SCHEDULE 22E — Switches relating to the use of illuminable signs, warning lights and roof bars on buses carrying children[^c-a015aa800ae087d342df99ce00173fcb]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ A bus shall have a visible or audible indicator to inform the driver that the wa
 
 ## Annotations
 
-[^key-a015aa800ae087d342df99ce00173fcb]: Textual amendment: [Schs. 22-22E](https://www.legislation.gov.uk/nisr/2000/169/schedule/22) substituted for [Sch. 22](https://www.legislation.gov.uk/nisr/2000/169/schedule/22) (24.3.2011) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/49)](https://www.legislation.gov.uk/nisr/2011/49), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/49/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2011/49/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2011/49/schedule)
+[^c-a015aa800ae087d342df99ce00173fcb]: Textual amendment: [Schs. 22-22E](https://www.legislation.gov.uk/nisr/2000/169/schedule/22) substituted for [Sch. 22](https://www.legislation.gov.uk/nisr/2000/169/schedule/22) (24.3.2011) by [The Road Vehicles Lighting (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/49)](https://www.legislation.gov.uk/nisr/2011/49), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/49/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2011/49/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2011/49/schedule)

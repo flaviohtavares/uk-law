@@ -44,25 +44,25 @@ The Department of Health, Social Services and Public Safety[^f00001], in conjunc
 
 In accordance with Article 61(4) of that Order the Department has consulted with such organisations as appear to be representative of the dental profession.
 
-## 1. Citation, commencement and interpretation[^key-b679ad5b1212177dfc624a08525a7d4c]
+## 1. Citation, commencement and interpretation[^c-b679ad5b1212177dfc624a08525a7d4c]
 
 (1) These Regulations may be cited as the General Dental Services (Amendment) Regulations (Northern Ireland) 2013 and shall come into operation on 27th December 2013.
 
 (2) In these Regulations, “the principal Regulations” means the Health and Personal Social Services General Dental Services Regulations (Northern Ireland) 1993[^f00003].
 
-## 2. Amendment of Regulation 2 of the principal Regulations[^key-3697c5c110e75e210cec983ce0cdc26b]
+## 2. Amendment of Regulation 2 of the principal Regulations[^c-3697c5c110e75e210cec983ce0cdc26b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of paragraph 3 of Schedule 2 to the principal Regulations[^key-818fbdb5b73ddfa9f7d7d7a3f02e2d5b]
+## 3. Amendment of paragraph 3 of Schedule 2 to the principal Regulations[^c-818fbdb5b73ddfa9f7d7d7a3f02e2d5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of paragraph 23 of Schedule 2 to the principal Regulations[^key-9f86b5201f7a2fae8649485e3ff5cd3a]
+## 4. Amendment of paragraph 23 of Schedule 2 to the principal Regulations[^c-9f86b5201f7a2fae8649485e3ff5cd3a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of paragraph 24 of Schedule 2 to the principal Regulations[^key-df0a77884da5a0ed96e48c7458589c51]
+## 5. Amendment of paragraph 24 of Schedule 2 to the principal Regulations[^c-df0a77884da5a0ed96e48c7458589c51]
 
 (1) Paragraph 24 (Domiciliary visits) of Schedule 2 to the principal Regulations shall be amended as follows—
 
@@ -113,14 +113,14 @@ Regulation 5 amends the Terms of Service for all dentists set out in Schedule 2 
 
 [^f00002]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); relevant amending Instruments are Article 13 of [S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907); Articles 30, 34, 35 and Part I of Schedule 5 to, and Part I of Schedule 6 to, [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194); and [S.I. 1997/1177 (N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177)
 
-[^key-b679ad5b1212177dfc624a08525a7d4c]: Commencement: Reg. 1 in operation at 27.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/300/regulation/1/1)
+[^c-b679ad5b1212177dfc624a08525a7d4c]: Commencement: Reg. 1 in operation at 27.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/300/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1993 No. 326](https://www.legislation.gov.uk/nisr/1993/326); relevant amending Regulations are [S.R. 2001 No. 309](https://www.legislation.gov.uk/nisr/2001/309)
 
-[^key-3697c5c110e75e210cec983ce0cdc26b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2013/300/regulation/2) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2019/784/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3697c5c110e75e210cec983ce0cdc26b]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2013/300/regulation/2) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2019/784/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-818fbdb5b73ddfa9f7d7d7a3f02e2d5b]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2013/300/regulation/3) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2019/784/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-818fbdb5b73ddfa9f7d7d7a3f02e2d5b]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2013/300/regulation/3) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2019/784/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9f86b5201f7a2fae8649485e3ff5cd3a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2013/300/regulation/4) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2019/784/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f86b5201f7a2fae8649485e3ff5cd3a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2013/300/regulation/4) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2019/784/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df0a77884da5a0ed96e48c7458589c51]: Commencement: Reg. 5 in operation at 27.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/300/regulation/1/1)
+[^c-df0a77884da5a0ed96e48c7458589c51]: Commencement: Reg. 5 in operation at 27.12.2013, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2013/300/regulation/1/1)

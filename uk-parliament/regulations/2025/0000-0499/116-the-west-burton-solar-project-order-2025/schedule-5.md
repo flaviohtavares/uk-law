@@ -22,7 +22,7 @@ summary: ''
 
 Articles ‎9 and ‎10
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT[^key-e527b53166f9699e39bec2d338a4b0a9]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT[^c-e527b53166f9699e39bec2d338a4b0a9]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ Articles ‎9 and ‎10
 | District of West Lindsey | Private track from Poplar Farm to Stow Park Road (A1500), Marton | Permanent alteration of layout between points 7p and 7q and shaded purple and outlined in yellow on sheet 7 of the streets plan |
 | District of West Lindsey | Private track West of Lea Road (A156), Brampton | Permanent alteration of layout between points 7r and 7s and shaded purple and outlined in yellow on sheet 7 of the streets plan |
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^key-7d297d8d7a9b549a64522eec2ce53d6c]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^c-7d297d8d7a9b549a64522eec2ce53d6c]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
@@ -86,6 +86,6 @@ Articles ‎9 and ‎10
 
 ## Annotations
 
-[^key-e527b53166f9699e39bec2d338a4b0a9]: Commencement: Sch. 5 Pt. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-e527b53166f9699e39bec2d338a4b0a9]: Commencement: Sch. 5 Pt. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-7d297d8d7a9b549a64522eec2ce53d6c]: Commencement: Sch. 5 Pt. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-7d297d8d7a9b549a64522eec2ce53d6c]: Commencement: Sch. 5 Pt. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation, commencement and interpretation[^key-b8571bff05bdbb5afb8a879c7a927b95]
+## 1. Citation, commencement and interpretation[^c-b8571bff05bdbb5afb8a879c7a927b95]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b8571bff05bdbb5afb8a879c7a927b95]: Commencement: Reg. 1 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-b8571bff05bdbb5afb8a879c7a927b95]: Commencement: Reg. 1 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)

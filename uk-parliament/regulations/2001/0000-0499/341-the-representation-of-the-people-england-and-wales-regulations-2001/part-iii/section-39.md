@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Different letter for each parliamentary polling district[^key-ea99413df59fc93d398e7f85d5f7d37c]
+## 39. Different letter for each parliamentary polling district[^c-ea99413df59fc93d398e7f85d5f7d37c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ There shall be a different letter or letters in the register for each parliament
 
 ## Annotations
 
-[^key-ea99413df59fc93d398e7f85d5f7d37c]: Commencement: Reg. 39 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-ea99413df59fc93d398e7f85d5f7d37c]: Commencement: Reg. 39 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)

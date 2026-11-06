@@ -120,7 +120,7 @@ For the purpose of giving effect to any decision that the Republic of Cyprus sha
 
 **3.**[^c624973] In subsection (4) of section two of the Import Duties Act, 1958, after the word “Ceylon” there shall be inserted the words “the Republic of Cyprus”.
 
-**4.**[^key-5c8aaea4fec8040b2010b77f0cf9dab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5c8aaea4fec8040b2010b77f0cf9dab6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** Section four of the [^c624975]Visiting Forces (British Commonwealth) Act 1933 (which deals with attachment and mutual powers of command) shall apply in relation to forces raised in the Republic of Cyprus as it applies in relation to forces raised in Dominions within the meaning of the [^c624976]Statute of Westminster 1931.
 
@@ -166,7 +166,7 @@ For the purpose of giving effect to any decision that the Republic of Cyprus sha
 
 [^c624973]: Modification: The text of Sch. paras. 3, 4, 6 and 10 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-5c8aaea4fec8040b2010b77f0cf9dab6]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/52/schedule/paragraph/4) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5c8aaea4fec8040b2010b77f0cf9dab6]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/52/schedule/paragraph/4) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c624975]: Marginal citation: [1933 c. 6](https://www.legislation.gov.uk/ukpga/1933/6)(**7:3**).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 134. Rate of member contributions[^key-8d0eff15df2b9da3ede820d74771ef7f]
+## 134. Rate of member contributions[^c-8d0eff15df2b9da3ede820d74771ef7f]
 
 *Extent: N.I.*
 
@@ -26,10 +26,10 @@ summary: ''
 
 (3) For the purposes of paragraph (2),
 
-- (a)[^key-532e77ad3b84a408e0a920ca7fea1de7] assumed pay for any pay period is treated as having been paid when pensionable earnings for that period would have been paid had the circumstances in regulation 27(3) which apply to the member not applied; and
-- (b)[^key-a2c3cc22c520469d84d6a9536e419c65] payment of the money value of any benefit in kind which forms part of a member’s pensionable earnings is treated as having been made at a time or apportioned across a period of time as determined by the scheme manager.
+- (a)[^c-532e77ad3b84a408e0a920ca7fea1de7] assumed pay for any pay period is treated as having been paid when pensionable earnings for that period would have been paid had the circumstances in regulation 27(3) which apply to the member not applied; and
+- (b)[^c-a2c3cc22c520469d84d6a9536e419c65] payment of the money value of any benefit in kind which forms part of a member’s pensionable earnings is treated as having been made at a time or apportioned across a period of time as determined by the scheme manager.
 
-(4)[^key-d7c6377218319cb1f2a5106f20f956d2] In this regulation—
+(4)[^c-d7c6377218319cb1f2a5106f20f956d2] In this regulation—
 
 - (a) for the purpose of calculating the rate of member contributions, pensionable earnings are determined in relation to each pay period and are the sum of;
   - (i) the member’s basic amount of pensionable salary; and
@@ -62,7 +62,7 @@ where—
 
 (8) If the scheme year in which the payment of pensionable earnings is made includes 29<sup>th</sup> February, paragraph (6) has effect with the substitution for “365” of “366”.
 
-For scheme year that commenced on 1st April 2025, for the period of that scheme year from 1st July 2025 up to and including 31st August 2025[^key-41eba00dac11523c74c672cabc51d1d3]
+For scheme year that commenced on 1st April 2025, for the period of that scheme year from 1st July 2025 up to and including 31st August 2025[^c-41eba00dac11523c74c672cabc51d1d3]
 
 | Annualised rate of pensionable earnings | Member contributions rate effective from 1st July 2025 to 31st August 2025 |
 | --- | --- |
@@ -87,7 +87,7 @@ For scheme year that commenced on 1st April 2025, for the period of that scheme 
 </tbody>
 </table>
 
-[^key-86dda3daf04a5c09539f7192a94f87aa]...<sup></sup>
+[^c-86dda3daf04a5c09539f7192a94f87aa]...<sup></sup>
 
 <table>
 <thead>
@@ -103,27 +103,9 @@ For scheme year that commenced on 1st April 2025, for the period of that scheme 
 </tbody>
 </table>
 
-[^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa]
+[^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa]
 
-[^key-86dda3daf04a5c09539f7192a94f87aa]...
-
-<table>
-<thead>
-<tr><th colspan="2"></th><th colspan="2"></th></tr>
-</thead>
-<tbody>
-<tr><td></td><td colspan="2">. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td colspan="2">. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td colspan="2">. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td colspan="2">. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td colspan="2">. . .</td><td>. . .</td></tr>
-<tr><td>. . .</td><td colspan="2">. . .</td><td>. . .</td></tr>
-</tbody>
-</table>
-
-[^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa]
-
-[^key-86dda3daf04a5c09539f7192a94f87aa]...
+[^c-86dda3daf04a5c09539f7192a94f87aa]...
 
 <table>
 <thead>
@@ -139,9 +121,9 @@ For scheme year that commenced on 1st April 2025, for the period of that scheme 
 </tbody>
 </table>
 
-[^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa]
+[^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa]
 
-[^key-86dda3daf04a5c09539f7192a94f87aa]...
+[^c-86dda3daf04a5c09539f7192a94f87aa]...
 
 <table>
 <thead>
@@ -157,18 +139,36 @@ For scheme year that commenced on 1st April 2025, for the period of that scheme 
 </tbody>
 </table>
 
-[^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa][^key-86dda3daf04a5c09539f7192a94f87aa]
+[^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa]
+
+[^c-86dda3daf04a5c09539f7192a94f87aa]...
+
+<table>
+<thead>
+<tr><th colspan="2"></th><th colspan="2"></th></tr>
+</thead>
+<tbody>
+<tr><td></td><td colspan="2">. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td colspan="2">. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td colspan="2">. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td colspan="2">. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td colspan="2">. . .</td><td>. . .</td></tr>
+<tr><td>. . .</td><td colspan="2">. . .</td><td>. . .</td></tr>
+</tbody>
+</table>
+
+[^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa][^c-86dda3daf04a5c09539f7192a94f87aa]
 
 ## Annotations
 
-[^key-8d0eff15df2b9da3ede820d74771ef7f]: Commencement: [Reg. 134](https://www.legislation.gov.uk/nisr/2014/290/regulation/134) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-8d0eff15df2b9da3ede820d74771ef7f]: Commencement: [Reg. 134](https://www.legislation.gov.uk/nisr/2014/290/regulation/134) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-532e77ad3b84a408e0a920ca7fea1de7]: Textual amendment: [Reg. 134(3)(i)](https://www.legislation.gov.uk/nisr/2014/290/regulation/134/3/i) renumbered as reg. 134(3)(a) (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [41(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/41/a)
+[^c-532e77ad3b84a408e0a920ca7fea1de7]: Textual amendment: [Reg. 134(3)(i)](https://www.legislation.gov.uk/nisr/2014/290/regulation/134/3/i) renumbered as reg. 134(3)(a) (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [41(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/41/a)
 
-[^key-a2c3cc22c520469d84d6a9536e419c65]: Textual amendment: [Reg. 134(3)(ii)](https://www.legislation.gov.uk/nisr/2014/290/regulation/134/3/ii) renumbered as reg. 314(3)(b) (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [41(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/41/b)
+[^c-a2c3cc22c520469d84d6a9536e419c65]: Textual amendment: [Reg. 134(3)(ii)](https://www.legislation.gov.uk/nisr/2014/290/regulation/134/3/ii) renumbered as reg. 314(3)(b) (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [41(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/41/b)
 
-[^key-d7c6377218319cb1f2a5106f20f956d2]: Textual amendment: [Reg. 134(4)](https://www.legislation.gov.uk/nisr/2014/290/regulation/134/4) substituted (1.7.2025) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/109)](https://www.legislation.gov.uk/nisr/2025/109), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/109/regulation/1/2), [3(a)](https://www.legislation.gov.uk/nisr/2025/109/regulation/3/a)
+[^c-d7c6377218319cb1f2a5106f20f956d2]: Textual amendment: [Reg. 134(4)](https://www.legislation.gov.uk/nisr/2014/290/regulation/134/4) substituted (1.7.2025) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/109)](https://www.legislation.gov.uk/nisr/2025/109), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/109/regulation/1/2), [3(a)](https://www.legislation.gov.uk/nisr/2025/109/regulation/3/a)
 
-[^key-41eba00dac11523c74c672cabc51d1d3]: Textual amendment: Words in [reg. 134(8)](https://www.legislation.gov.uk/nisr/2014/290/regulation/134/8) Table substituted (1.7.2025) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/109)](https://www.legislation.gov.uk/nisr/2025/109), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/109/regulation/1/2), [3(b)](https://www.legislation.gov.uk/nisr/2025/109/regulation/3/b)
+[^c-41eba00dac11523c74c672cabc51d1d3]: Textual amendment: Words in [reg. 134(8)](https://www.legislation.gov.uk/nisr/2014/290/regulation/134/8) Table substituted (1.7.2025) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/109)](https://www.legislation.gov.uk/nisr/2025/109), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/109/regulation/1/2), [3(b)](https://www.legislation.gov.uk/nisr/2025/109/regulation/3/b)
 
-[^key-86dda3daf04a5c09539f7192a94f87aa]: Textual amendment: Tables in [reg. 134(8)](https://www.legislation.gov.uk/nisr/2014/290/regulation/134/8) omitted (1.4.2019) by virtue of [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/60)](https://www.legislation.gov.uk/nisr/2019/60), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/60/regulation/1/2), [3(b)](https://www.legislation.gov.uk/nisr/2019/60/regulation/3/b)
+[^c-86dda3daf04a5c09539f7192a94f87aa]: Textual amendment: Tables in [reg. 134(8)](https://www.legislation.gov.uk/nisr/2014/290/regulation/134/8) omitted (1.4.2019) by virtue of [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/60)](https://www.legislation.gov.uk/nisr/2019/60), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/60/regulation/1/2), [3(b)](https://www.legislation.gov.uk/nisr/2019/60/regulation/3/b)

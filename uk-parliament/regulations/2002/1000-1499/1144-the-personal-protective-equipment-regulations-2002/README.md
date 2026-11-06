@@ -33,7 +33,7 @@ CONSUMER PROTECTION
 
 HEALTH AND SAFETY
 
-The Personal Protective Equipment Regulations 2002 (revoked)[^key-e182ddf0dd244d6e78f212e0ae4e8314]
+The Personal Protective Equipment Regulations 2002 (revoked)[^c-e182ddf0dd244d6e78f212e0ae4e8314]
 
 Made
 
@@ -47,7 +47,7 @@ Coming into force
 
 15th May 2002
 
-[^key-e182ddf0dd244d6e78f212e0ae4e8314]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e182ddf0dd244d6e78f212e0ae4e8314]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -88,14 +88,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-e182ddf0dd244d6e78f212e0ae4e8314]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e182ddf0dd244d6e78f212e0ae4e8314]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-e182ddf0dd244d6e78f212e0ae4e8314]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e182ddf0dd244d6e78f212e0ae4e8314]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e182ddf0dd244d6e78f212e0ae4e8314]: Textual amendment: Regulations revoked (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/6) (with [reg. 2(1)-(5)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+[^c-e182ddf0dd244d6e78f212e0ae4e8314]: Textual amendment: Regulations revoked (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/6) (with [reg. 2(1)-(5)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))

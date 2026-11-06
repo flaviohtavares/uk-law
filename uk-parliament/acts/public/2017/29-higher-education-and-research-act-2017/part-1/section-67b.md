@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67B. Publication of decision to conduct or terminate investigation[^key-11f054ec1e801205d6f431dffef58e3d]
+## 67B. Publication of decision to conduct or terminate investigation[^c-11f054ec1e801205d6f431dffef58e3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,13 +29,13 @@ summary: ''
 
 the OfS must publish a notice stating that fact.
 
-(3) Section 67C does not apply *(affected by repeal, see note)*[^key-275b456b5e51f1780dac0d2cdd0dd5be] Neither section 67C nor paragraph 13 of Schedule 6A applies to the publication of the decision to conduct the investigation to the extent that it includes information other than—
+(3) Section 67C does not apply *(affected by repeal, see note)*[^c-275b456b5e51f1780dac0d2cdd0dd5be] Neither section 67C nor paragraph 13 of Schedule 6A applies to the publication of the decision to conduct the investigation to the extent that it includes information other than—
 
 - (a) a statement of the OfS’s decision to conduct the investigation,
 - (b) a summary of the matter being, or to be, investigated, and
 - (c) a reference to the identity of any higher education provider or other body or individual whose activities are being, or to be, investigated.
 
-(3A)[^key-8194a19dbe3264da42b1cdc62fc0846d] In the application of this section to publication of a decision under the scheme provided by virtue of Schedule 6A (free speech complaints scheme)—
+(3A)[^c-8194a19dbe3264da42b1cdc62fc0846d] In the application of this section to publication of a decision under the scheme provided by virtue of Schedule 6A (free speech complaints scheme)—
 
 - (a) references to an investigation (however expressed) are to a review of a free speech complaint under the scheme;
 - (b) for the purposes of subsection (2)(a), the OfS terminates an investigation without making a finding if it—
@@ -49,8 +49,8 @@ the OfS must publish a notice stating that fact.
 
 ## Annotations
 
-[^key-11f054ec1e801205d6f431dffef58e3d]: Textual amendment: Ss. 67A-67C and cross-headings inserted (28.6.2022) by Skills and Post-16 [Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 33](https://www.legislation.gov.uk/ukpga/2022/21/section/33), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
+[^c-11f054ec1e801205d6f431dffef58e3d]: Textual amendment: Ss. 67A-67C and cross-headings inserted (28.6.2022) by Skills and Post-16 [Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 33](https://www.legislation.gov.uk/ukpga/2022/21/section/33), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2)
 
-[^key-275b456b5e51f1780dac0d2cdd0dd5be]: Textual amendment: Words in [s. 67B(3)](https://www.legislation.gov.uk/ukpga/2017/29/section/67B/3) substituted (1.9.2026 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 5(2)](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/5/2); [S.I. 2026/654](https://www.legislation.gov.uk/uksi/2026/654), [reg. 2(4)(b)](https://www.legislation.gov.uk/uksi/2026/654/regulation/2/4/b)
+[^c-275b456b5e51f1780dac0d2cdd0dd5be]: Textual amendment: Words in [s. 67B(3)](https://www.legislation.gov.uk/ukpga/2017/29/section/67B/3) substituted (1.9.2026 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 5(2)](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/5/2); [S.I. 2026/654](https://www.legislation.gov.uk/uksi/2026/654), [reg. 2(4)(b)](https://www.legislation.gov.uk/uksi/2026/654/regulation/2/4/b)
 
-[^key-8194a19dbe3264da42b1cdc62fc0846d]: Textual amendment: [S. 67B(3A)](https://www.legislation.gov.uk/ukpga/2017/29/section/67B/3A) inserted (1.9.2026 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 5(3)](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/5/3); [S.I. 2026/654](https://www.legislation.gov.uk/uksi/2026/654), [reg. 2(4)(b)](https://www.legislation.gov.uk/uksi/2026/654/regulation/2/4/b)
+[^c-8194a19dbe3264da42b1cdc62fc0846d]: Textual amendment: [S. 67B(3A)](https://www.legislation.gov.uk/ukpga/2017/29/section/67B/3A) inserted (1.9.2026 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3), [Sch. para. 5(3)](https://www.legislation.gov.uk/ukpga/2023/16/schedule/paragraph/5/3); [S.I. 2026/654](https://www.legislation.gov.uk/uksi/2026/654), [reg. 2(4)(b)](https://www.legislation.gov.uk/uksi/2026/654/regulation/2/4/b)

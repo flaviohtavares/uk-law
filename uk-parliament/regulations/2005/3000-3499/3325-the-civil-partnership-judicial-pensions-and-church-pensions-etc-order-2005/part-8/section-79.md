@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**79.**[^key-9fd4ae668334b77f32d46694a2aca6ec] In section 20 (provisions as to pensions of Church Estates Commissioners), in subsection (2A)—
+**79.**[^c-9fd4ae668334b77f32d46694a2aca6ec] In section 20 (provisions as to pensions of Church Estates Commissioners), in subsection (2A)—
 
 - (a) after “widower” insert “or surviving civil partner”, and
 - (b) after “spouse” insert “or civil partner”.
 
 ## Annotations
 
-[^key-9fd4ae668334b77f32d46694a2aca6ec]: Commencement: Art. 79 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-9fd4ae668334b77f32d46694a2aca6ec]: Commencement: Art. 79 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

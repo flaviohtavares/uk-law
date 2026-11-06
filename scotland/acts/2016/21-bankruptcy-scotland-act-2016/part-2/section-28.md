@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Benefit from another estate[^key-5ed2c0fbbe470d560e526c40fb577338]
+## 28. Benefit from another estate[^c-5ed2c0fbbe470d560e526c40fb577338]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ed2c0fbbe470d560e526c40fb577338]: Commencement: S. 28 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-5ed2c0fbbe470d560e526c40fb577338]: Commencement: S. 28 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

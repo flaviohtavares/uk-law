@@ -24,7 +24,7 @@ Article 40(1)
 
 ### 1. Notification of dead wild susceptible animals in a wild animal infected zone
 
-Any person who kills a wild susceptible animal or finds such an animal dead in a wild animal infected zone shall notify an authorised veterinary inspector[^key-4956832d9b4d913726e37b4055700efe] of that fact.
+Any person who kills a wild susceptible animal or finds such an animal dead in a wild animal infected zone shall notify an authorised veterinary inspector[^c-4956832d9b4d913726e37b4055700efe] of that fact.
 
 ### 2. Record keeping in a wild animal infected area
 
@@ -56,10 +56,10 @@ No person shall bring the following on to premises keeping susceptible animals i
 
 ### 7. Movement of semen, ova and embryos out of a wild animal infected zone
 
-No person shall move any semen, embryo or ovum of a susceptible animal out of a wild animal infected zone for the purpose of trade with a[^key-53646e4fad0fd80e9be13900cea85e3d] member State, Norway, Iceland or Liechtenstein.
+No person shall move any semen, embryo or ovum of a susceptible animal out of a wild animal infected zone for the purpose of trade with a[^c-53646e4fad0fd80e9be13900cea85e3d] member State, Norway, Iceland or Liechtenstein.
 
 ## Annotations
 
-[^key-4956832d9b4d913726e37b4055700efe]: Textual amendment: Words in [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2006/44/schedule/7/paragraph/1) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [17(3)(c)](https://www.legislation.gov.uk/ssi/2013/173/article/17/3/c)
+[^c-4956832d9b4d913726e37b4055700efe]: Textual amendment: Words in [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2006/44/schedule/7/paragraph/1) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [17(3)(c)](https://www.legislation.gov.uk/ssi/2013/173/article/17/3/c)
 
-[^key-53646e4fad0fd80e9be13900cea85e3d]: Textual amendment: Word in [sch. 7 para. 7](https://www.legislation.gov.uk/ssi/2006/44/schedule/7/paragraph/7) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [14(7)](https://www.legislation.gov.uk/ssi/2019/71/regulation/14/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53646e4fad0fd80e9be13900cea85e3d]: Textual amendment: Word in [sch. 7 para. 7](https://www.legislation.gov.uk/ssi/2006/44/schedule/7/paragraph/7) substituted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [14(7)](https://www.legislation.gov.uk/ssi/2019/71/regulation/14/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

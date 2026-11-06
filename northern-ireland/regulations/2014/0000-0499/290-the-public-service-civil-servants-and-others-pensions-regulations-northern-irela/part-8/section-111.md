@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 111. Reduction in pensions in cases of wide age disparity[^key-62d004cc8d1edc53117f046ed9b1f51b]
+## 111. Reduction in pensions in cases of wide age disparity[^c-62d004cc8d1edc53117f046ed9b1f51b]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ where N is the number of whole years by which the dependant is younger than the 
 
 ## Annotations
 
-[^key-62d004cc8d1edc53117f046ed9b1f51b]: Commencement: [Reg. 111](https://www.legislation.gov.uk/nisr/2014/290/regulation/111) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-62d004cc8d1edc53117f046ed9b1f51b]: Commencement: [Reg. 111](https://www.legislation.gov.uk/nisr/2014/290/regulation/111) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to subsections (2) and (3), the power to make an order under section 30 for the purposes of the grant of authorisations under section 28 or 29[^key-27b8f4468bcfadc6ec6dd1cd14fc1e0f] for conduct in Northern Ireland shall be exercisable by the Office of the First Minister and deputy First Minister in Northern Ireland (concurrently with being exercisable by the Secretary of State).
+(1) Subject to subsections (2) and (3), the power to make an order under section 30 for the purposes of the grant of authorisations under section 28 or 29[^c-27b8f4468bcfadc6ec6dd1cd14fc1e0f] for conduct in Northern Ireland shall be exercisable by the Office of the First Minister and deputy First Minister in Northern Ireland (concurrently with being exercisable by the Secretary of State).
 
 (2) The power of the Office of the First Minister and deputy First Minister to make an order under section 30 by virtue of subsection (1) or (3) of that section shall not be exercisable in relation to any public authority other than—
 
@@ -56,7 +56,7 @@ shall be subject to affirmative resolution (within the meaning of section 41(4) 
 
 ## Annotations
 
-[^key-27b8f4468bcfadc6ec6dd1cd14fc1e0f]: Textual amendment: Words in s. 31(1) inserted (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by [Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4)](https://www.legislation.gov.uk/ukpga/2021/4), [s. 9(2)](https://www.legislation.gov.uk/ukpga/2021/4/section/9/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/2); [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)[(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)[(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-27b8f4468bcfadc6ec6dd1cd14fc1e0f]: Textual amendment: Words in s. 31(1) inserted (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by [Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4)](https://www.legislation.gov.uk/ukpga/2021/4), [s. 9(2)](https://www.legislation.gov.uk/ukpga/2021/4/section/9/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/2); [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)[(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)[(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
 [^c10567011]: Textual amendment: S. 31(2)(b) repealed (15.11.2001) by [S.I. 2001/3686](https://www.legislation.gov.uk/uksi/2001/3686), [art. 6(17)(a)](https://www.legislation.gov.uk/uksi/2001/3686/article/6/17/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2001/3686/article/8))
 

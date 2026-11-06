@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29A. Working with the Public Services Ombudsman for Wales[^key-e28d429f104aebceead7a24b227ddb09]
+## 29A. Working with the Public Services Ombudsman for Wales[^c-e28d429f104aebceead7a24b227ddb09]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e28d429f104aebceead7a24b227ddb09]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/anaw/2013/3/section/29A) inserted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/4); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-e28d429f104aebceead7a24b227ddb09]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/anaw/2013/3/section/29A) inserted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 4](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/4); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

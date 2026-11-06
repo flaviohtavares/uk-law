@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Meaning of threshold conditions etc[^key-171ff254da78bb9226c81e135c00d101]
+## 94. Meaning of threshold conditions etc[^c-171ff254da78bb9226c81e135c00d101]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-171ff254da78bb9226c81e135c00d101]: Commencement: S. 94 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)
+[^c-171ff254da78bb9226c81e135c00d101]: Commencement: S. 94 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)

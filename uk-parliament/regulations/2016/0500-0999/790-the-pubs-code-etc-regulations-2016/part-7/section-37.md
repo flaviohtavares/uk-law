@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Independent assessor: procedure[^key-beaf0e13bfbed5a73311f1fcafc23fe5]
+## 37. Independent assessor: procedure[^c-beaf0e13bfbed5a73311f1fcafc23fe5]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ either of them may refer the matter to the Adjudicator within the period of 14 d
 
 ## Annotations
 
-[^key-beaf0e13bfbed5a73311f1fcafc23fe5]: Commencement: Reg. 37 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-beaf0e13bfbed5a73311f1fcafc23fe5]: Commencement: Reg. 37 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

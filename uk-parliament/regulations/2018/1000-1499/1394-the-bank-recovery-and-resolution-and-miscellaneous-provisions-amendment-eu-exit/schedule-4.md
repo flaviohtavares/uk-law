@@ -54,7 +54,7 @@ Regulation 5
 - (b) in paragraph (5) for “Order 2016 comes” substitute “ (Amendment) (EU Exit) Regulations 2018 come ”; and
 - (c) after paragraph (5) insert—
 
-  > (6) In this Order any reference to an EU regulation or EU tertiary legislation within the meaning of the European Union (Withdrawal) Act 2018 is to be read as a reference to the instrument as it forms part of retained EU law[^key-65b664979afa5ed9a89381b52138c7c6].
+  > (6) In this Order any reference to an EU regulation or EU tertiary legislation within the meaning of the European Union (Withdrawal) Act 2018 is to be read as a reference to the instrument as it forms part of retained EU law[^c-65b664979afa5ed9a89381b52138c7c6].
 
   .
 
@@ -73,7 +73,7 @@ Regulation 5
 (2) In article 2 (interpretation)—
 
 - (a) in paragraph (1), in the definition of “the bank”, omit “, EU institution”; and
-- (b) in paragraph (2), in the definition of “the capital requirements regulation”, at the end insert “ as it forms part of retained EU law[^key-3023f33ab203e4d7bb6b0e0bdc1b9fef]”.
+- (b) in paragraph (2), in the definition of “the capital requirements regulation”, at the end insert “ as it forms part of retained EU law[^c-3023f33ab203e4d7bb6b0e0bdc1b9fef]”.
 
 ### 5. The Bank Recovery and Resolution Order 2014[^c23535041]
 
@@ -104,11 +104,11 @@ Regulation 5
 (2) In article 2 (interpretation)—
 
 - (a) in paragraph (1)—
-  - (i)[^key-f3b357381381610669e96d44df7627bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-f3b357381381610669e96d44df7627bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) in the definition of “transferable securities” for the words from “4.1(44)” to “instruments” substitute, “2.1(24) of Regulation (EU) No. 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012”;
 - (b) in paragraph (2) for “Order 2016 comes” substitute “ (Amendment) (EU Exit) Regulations 2018 come ”.
 
-(3) In article 5 (set-off and netting: meaning of “derivative” etc.), in paragraph (1), at the end insert “ as it forms part of retained EU law[^key-365b8903eb47de0b6c5dfcf60661d2ab]”.
+(3) In article 5 (set-off and netting: meaning of “derivative” etc.), in paragraph (1), at the end insert “ as it forms part of retained EU law[^c-365b8903eb47de0b6c5dfcf60661d2ab]”.
 
 (4) In article 8 (review), omit paragraph (2).
 
@@ -132,13 +132,13 @@ Regulation 5
 
 [^c23491111]: Marginal citation: OJ L 173, 12.6.2014, p.84.
 
-[^key-65b664979afa5ed9a89381b52138c7c6]: Textual amendment: Words in Sch. 4 para. 2(2)(c) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)(2)(k)(iv)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)
+[^c-65b664979afa5ed9a89381b52138c7c6]: Textual amendment: Words in Sch. 4 para. 2(2)(c) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)(2)(k)(iv)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)
 
 [^c23535031]: Commencement: Sch. 4 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23535011]: Commencement: Sch. 4 para. 4(2)(b) in force at 21.12.2018 and Sch. 4 para. 4 in force otherwise at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(3)(e)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/3/e)
 
-[^key-3023f33ab203e4d7bb6b0e0bdc1b9fef]: Textual amendment: Words in Sch. 4 para. 4(2)(b) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)(2)(k)(iv)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)
+[^c-3023f33ab203e4d7bb6b0e0bdc1b9fef]: Textual amendment: Words in Sch. 4 para. 4(2)(b) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)(2)(k)(iv)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)
 
 [^c23535041]: Commencement: Sch. 4 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
@@ -146,9 +146,9 @@ Regulation 5
 
 [^c23535021]: Commencement: Sch. 4 para. 7(3) in force at 21.12.2018 and Sch. 4 para. 7 in force otherwise at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(3)(e)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/3/e)
 
-[^key-f3b357381381610669e96d44df7627bc]: Textual amendment: Sch. 4 para. 7(2)(a)(i) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [78](https://www.legislation.gov.uk/uksi/2020/1350/regulation/78)
+[^c-f3b357381381610669e96d44df7627bc]: Textual amendment: Sch. 4 para. 7(2)(a)(i) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [78](https://www.legislation.gov.uk/uksi/2020/1350/regulation/78)
 
-[^key-365b8903eb47de0b6c5dfcf60661d2ab]: Textual amendment: Words in Sch. 4 para. 7(3) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)(2)(k)(iv)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)
+[^c-365b8903eb47de0b6c5dfcf60661d2ab]: Textual amendment: Words in Sch. 4 para. 7(3) substituted (31.12.2020 immediately before IP completiton day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)(2)(k)(iv)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)
 
 [^c23535061]: Commencement: Sch. 4 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 

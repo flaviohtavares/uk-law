@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 85. Designation by the FCA of the Regulator’s Rules[^key-f1c3f6f54924e4b6bd7c951d1199d04e][^key-cb6008058e085c2c4c25c6650e7b98c9]
+## 85. Designation by the FCA of the Regulator’s Rules[^c-f1c3f6f54924e4b6bd7c951d1199d04e][^c-cb6008058e085c2c4c25c6650e7b98c9]
 
 *Extent: E+W+S*
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f1c3f6f54924e4b6bd7c951d1199d04e]: Commencement: Art. 85 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-f1c3f6f54924e4b6bd7c951d1199d04e]: Commencement: Art. 85 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-cb6008058e085c2c4c25c6650e7b98c9]: Commencement: [Art. 85](https://www.legislation.gov.uk/uksi/2018/1253/article/85) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-cb6008058e085c2c4c25c6650e7b98c9]: Commencement: [Art. 85](https://www.legislation.gov.uk/uksi/2018/1253/article/85) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00121]: Footnote: [2018 c. 10](https://www.legislation.gov.uk/ukpga/2018/10).

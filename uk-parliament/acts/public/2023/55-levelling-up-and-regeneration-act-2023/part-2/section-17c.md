@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17C. Request to collaborate[^key-a7cb73fd755cd59105f488f8ff9f0dc0]
+## 17C. Request to collaborate[^c-a7cb73fd755cd59105f488f8ff9f0dc0]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7cb73fd755cd59105f488f8ff9f0dc0]: Textual amendment: [Ss. 17C-17E](https://www.legislation.gov.uk/ukpga/2023/55/section/17C) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/23/1), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-a7cb73fd755cd59105f488f8ff9f0dc0]: Textual amendment: [Ss. 17C-17E](https://www.legislation.gov.uk/ukpga/2023/55/section/17C) inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/23/1), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

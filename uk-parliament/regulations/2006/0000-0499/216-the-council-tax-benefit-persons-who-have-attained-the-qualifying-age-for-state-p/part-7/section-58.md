@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-05-26.
 
-## 58. Amendment and withdrawal of claim[^key-55c733d976320da4b7a554ee39881ef9]
+## 58. Amendment and withdrawal of claim[^c-55c733d976320da4b7a554ee39881ef9]
 
 (1) A person who has made a claim may amend it at any time before a decision has been made on it by a notice in writing delivered or sent to the designated office.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55c733d976320da4b7a554ee39881ef9]: Textual amendment: Reg. 58 substituted (1.10.2008) by [Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [5(7)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/5/7)
+[^c-55c733d976320da4b7a554ee39881ef9]: Textual amendment: Reg. 58 substituted (1.10.2008) by [Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [5(7)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/5/7)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Meaning of “shared van”[^key-e3ed7c7f56956e11a03127a1ded249b3]
+## 156. Meaning of “shared van”[^c-e3ed7c7f56956e11a03127a1ded249b3]
 
 *Extent: E+W+S+N.I.*
 
-(1) The cash equivalent of the benefit of a van for a tax year under section 155[^key-21a30578608ded88aeede21815c17bf8] is to be reduced if the van has been unavailable on any day during the year.
+(1) The cash equivalent of the benefit of a van for a tax year under section 155[^c-21a30578608ded88aeede21815c17bf8] is to be reduced if the van has been unavailable on any day during the year.
 
 (2) For the purposes of this section a van is unavailable on any day if the day—
 
@@ -42,6 +42,6 @@ CE is the amount of the cash equivalent before any reduction.
 
 ## Annotations
 
-[^key-e3ed7c7f56956e11a03127a1ded249b3]: Textual amendment: Ss. 155-164 substituted for ss. 155-166 (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/5)
+[^c-e3ed7c7f56956e11a03127a1ded249b3]: Textual amendment: Ss. 155-164 substituted for ss. 155-166 (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/14/paragraph/5)
 
-[^key-21a30578608ded88aeede21815c17bf8]: Textual amendment: Word in [s. 156(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/156/1) substituted (with effect in accordance with s. 10(8) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 10(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/10/3)
+[^c-21a30578608ded88aeede21815c17bf8]: Textual amendment: Word in [s. 156(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/156/1) substituted (with effect in accordance with s. 10(8) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 10(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/10/3)

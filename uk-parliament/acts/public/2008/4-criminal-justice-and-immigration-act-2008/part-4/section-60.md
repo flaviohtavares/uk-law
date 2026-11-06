@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Contents of an accused's defence statement[^key-954ca790b1660dcebbaed1277a9fb9c7]
+## 60. Contents of an accused's defence statement[^c-954ca790b1660dcebbaed1277a9fb9c7]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-954ca790b1660dcebbaed1277a9fb9c7]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2008/4/section/60) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2712/article/3))
+[^c-954ca790b1660dcebbaed1277a9fb9c7]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2008/4/section/60) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2712/article/3))

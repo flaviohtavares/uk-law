@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Appeals in connection with emergency action notices[^key-b0e35fa3999758b1ac16743c02aa1d5c]
+## 19. Appeals in connection with emergency action notices[^c-b0e35fa3999758b1ac16743c02aa1d5c]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0e35fa3999758b1ac16743c02aa1d5c]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2013/7/section/19) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-b0e35fa3999758b1ac16743c02aa1d5c]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2013/7/section/19) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

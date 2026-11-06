@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 280. Interpretation[^key-5cc71c9b7501ed6c415e5d5ca440927a]
+## 280. Interpretation[^c-5cc71c9b7501ed6c415e5d5ca440927a]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cc71c9b7501ed6c415e5d5ca440927a]: Commencement: S. 280 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-5cc71c9b7501ed6c415e5d5ca440927a]: Commencement: S. 280 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

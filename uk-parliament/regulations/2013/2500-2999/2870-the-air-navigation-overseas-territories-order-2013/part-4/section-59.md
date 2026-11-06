@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Instruction in flying[^key-c6e64fad80116652bc0403dc27559ec3]
+## 59. Instruction in flying[^c-c6e64fad80116652bc0403dc27559ec3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6e64fad80116652bc0403dc27559ec3]: Commencement: [Art. 59](https://www.legislation.gov.uk/uksi/2013/2870/article/59) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-c6e64fad80116652bc0403dc27559ec3]: Commencement: [Art. 59](https://www.legislation.gov.uk/uksi/2013/2870/article/59) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

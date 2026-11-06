@@ -23,8 +23,8 @@ summary: ''
 (1) Subject to rules made under subsection (7) below, all sums of money, securities and effects paid and deposited in, or under the custody of—
 
 - (a) the High Court;
-- (aa)[^key-f76e0c9ebefc2e36798a7b1ab8d0eb45] the family court;
-- (b) the county court[^key-f91e9d6300c93d3f12ca6800ce599e35] ; or
+- (aa)[^c-f76e0c9ebefc2e36798a7b1ab8d0eb45] the family court;
+- (b) the county court[^c-f91e9d6300c93d3f12ca6800ce599e35] ; or
 - (c) such other courts and tribunals as the Lord Chancellor may by rules made under that subsection prescribe,
 
 shall be vested in the Accountant General.
@@ -49,7 +49,7 @@ shall be vested in the Accountant General.
 - (d) prescribe cases in which interest is to be paid on funds in court;
 - (e) prescribe cases in which funds in court are to be invested;
 - (f) make provision for the transfer of funds in court from one court to another;
-- (fa)[^key-1d1d48e89cb4b73037b98dcec12eead8] provide for the payment of a sum of money in court into the Consolidated Fund if—
+- (fa)[^c-1d1d48e89cb4b73037b98dcec12eead8] provide for the payment of a sum of money in court into the Consolidated Fund if—
   - (i) the payment is in respect of funds in court which have been vested in the Accountant General under subsection (1) for at least 30 years, and
   - (ii) the conditions (if any) prescribed by the rules are met. and
 - (g) prescribe cases in which moneys payable under a judgment or order shall be paid into court.
@@ -62,9 +62,9 @@ shall be vested in the Accountant General.
 
 [^c2571471]: Extent: S. 38 : Pt. VI (ss. 38-48) applies to Scotland only to the extent specified in s. 48
 
-[^key-f76e0c9ebefc2e36798a7b1ab8d0eb45]: Textual amendment: [S. 38(1)(aa)](https://www.legislation.gov.uk/ukpga/1982/53/section/38/1/aa) inserted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) Order 2014 (S.I. 2014/605)](https://www.legislation.gov.uk/uksi/2014/605), [arts. 1](https://www.legislation.gov.uk/uksi/2014/605/article/1), [17](https://www.legislation.gov.uk/uksi/2014/605/article/17)
+[^c-f76e0c9ebefc2e36798a7b1ab8d0eb45]: Textual amendment: [S. 38(1)(aa)](https://www.legislation.gov.uk/ukpga/1982/53/section/38/1/aa) inserted (22.4.2014) by [The Crime and Courts Act 2013 (Family Court: Consequential Provision) Order 2014 (S.I. 2014/605)](https://www.legislation.gov.uk/uksi/2014/605), [arts. 1](https://www.legislation.gov.uk/uksi/2014/605/article/1), [17](https://www.legislation.gov.uk/uksi/2014/605/article/17)
 
-[^key-f91e9d6300c93d3f12ca6800ce599e35]: Textual amendment: Words in [s. 38](https://www.legislation.gov.uk/ukpga/1982/53/section/38) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-f91e9d6300c93d3f12ca6800ce599e35]: Textual amendment: Words in [s. 38](https://www.legislation.gov.uk/ukpga/1982/53/section/38) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c2571481]: Textual amendment: Words repealed by [Public Trustee and Administration of Funds Act 1986 (c. 57, SIF 57)](https://www.legislation.gov.uk/ukpga/1986/57), [s. 4](https://www.legislation.gov.uk/ukpga/1986/57/section/4)
 
@@ -72,4 +72,4 @@ shall be vested in the Accountant General.
 
 [^c2571501]: Subordinate legislation: S. 38(7) power exercised by [S.I.1991/1227](https://www.legislation.gov.uk/uksi/1991/1227)
 
-[^key-1d1d48e89cb4b73037b98dcec12eead8]: Textual amendment: [S. 38(8)(fa)](https://www.legislation.gov.uk/ukpga/1982/53/section/38/8/fa) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 350](https://www.legislation.gov.uk/ukpga/2023/30/section/350)
+[^c-1d1d48e89cb4b73037b98dcec12eead8]: Textual amendment: [S. 38(8)(fa)](https://www.legislation.gov.uk/ukpga/1982/53/section/38/8/fa) inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 350](https://www.legislation.gov.uk/ukpga/2023/30/section/350)

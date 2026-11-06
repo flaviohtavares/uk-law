@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Opt in notices and arrangements to achieve active membership[^key-b1073218be0d84bf58806f86c6b3f3b1]
+## 18. Opt in notices and arrangements to achieve active membership[^c-b1073218be0d84bf58806f86c6b3f3b1]
 
 *Extent: N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (4) Where the jobholder is a member of a personal pension scheme before the enrolment date, the employer may meet the obligation in section 7(3) (jobholder’s right to opt in) by—
 
-- (a) before the end of a period of 6 weeks[^key-f1260365b8cf80a21b3fba47df0110eb] beginning with the enrolment date, entering into arrangements with the provider of the scheme of which the jobholder is a member so that—
+- (a) before the end of a period of 6 weeks[^c-f1260365b8cf80a21b3fba47df0110eb] beginning with the enrolment date, entering into arrangements with the provider of the scheme of which the jobholder is a member so that—
   - (i) the scheme becomes an automatic enrolment scheme, and
   - (ii) the jobholder becomes an active member of that scheme, and
 - (b) satisfying the requirements contained in regulation 7, as if for all references in regulation 7 to “section 3(2)” there were substituted “section 7(3)” and for all references to “the automatic enrolment date” there were substituted “the enrolment date”.
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b1073218be0d84bf58806f86c6b3f3b1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2010/122/regulation/18) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-b1073218be0d84bf58806f86c6b3f3b1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2010/122/regulation/18) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
 
-[^key-f1260365b8cf80a21b3fba47df0110eb]: Textual amendment: Words in [reg. 18(4)(a)](https://www.legislation.gov.uk/nisr/2010/122/regulation/18/4/a) substituted (1.4.2014) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [4(4)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/4)
+[^c-f1260365b8cf80a21b3fba47df0110eb]: Textual amendment: Words in [reg. 18(4)(a)](https://www.legislation.gov.uk/nisr/2010/122/regulation/18/4/a) substituted (1.4.2014) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [4(4)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/4)

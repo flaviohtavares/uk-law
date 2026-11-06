@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Reports: accounts[^key-a592273dfec6a414e27ce920e1f59d40]
+## 67. Reports: accounts[^c-a592273dfec6a414e27ce920e1f59d40]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a592273dfec6a414e27ce920e1f59d40]: Commencement: [Reg. 67](https://www.legislation.gov.uk/nisr/2004/335/regulation/67) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-a592273dfec6a414e27ce920e1f59d40]: Commencement: [Reg. 67](https://www.legislation.gov.uk/nisr/2004/335/regulation/67) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

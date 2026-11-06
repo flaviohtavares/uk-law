@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288AA. Appeals to the Supreme Court: compatibility issues[^M_C_0c154ae6-3cb1-4e82-8dce-9f70ea015890][^M_C_7231867e-e984-43b0-e6f9-e2ec0f13ce6d][^M_C_d470d6a6-6c63-4889-c261-b9265f904038][^key-4993d3f4e77ee0daa7ba1ff9525f8581]
+## 288AA. Appeals to the Supreme Court: compatibility issues[^M_C_0c154ae6-3cb1-4e82-8dce-9f70ea015890][^M_C_7231867e-e984-43b0-e6f9-e2ec0f13ce6d][^M_C_d470d6a6-6c63-4889-c261-b9265f904038][^c-4993d3f4e77ee0daa7ba1ff9525f8581]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^M_C_d470d6a6-6c63-4889-c261-b9265f904038]: Modification: S. 288AA applied (22.4.2013) by [The Scotland Act 2012 (Transitional and Consequential Provisions) Order 2013 (S.I. 2013/7)](https://www.legislation.gov.uk/uksi/2013/7), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/7/article/1/1), [14](https://www.legislation.gov.uk/uksi/2013/7/article/14)
 
-[^key-4993d3f4e77ee0daa7ba1ff9525f8581]: Textual amendment: S. 288AA inserted (22.4.2013) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 36(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/36/6), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/6/article/2/c)
+[^c-4993d3f4e77ee0daa7ba1ff9525f8581]: Textual amendment: S. 288AA inserted (22.4.2013) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 36(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/36/6), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5); [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/6/article/2/c)

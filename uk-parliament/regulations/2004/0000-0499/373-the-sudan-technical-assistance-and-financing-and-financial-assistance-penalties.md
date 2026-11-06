@@ -31,7 +31,7 @@ summary: ''
 
 CUSTOMS AND EXCISE
 
-The Sudan (Technical Assistance and Financing and Financial Assistance) (Penalties and Licences) Regulations 2004 (revoked)[^key-832cc0a8f991bb735e727e7602a0c575]
+The Sudan (Technical Assistance and Financing and Financial Assistance) (Penalties and Licences) Regulations 2004 (revoked)[^c-832cc0a8f991bb735e727e7602a0c575]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 19th February 2004
 
-[^key-832cc0a8f991bb735e727e7602a0c575]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-832cc0a8f991bb735e727e7602a0c575]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-832cc0a8f991bb735e727e7602a0c575]
+## 1. Citation, commencement and interpretation[^c-832cc0a8f991bb735e727e7602a0c575]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Offences[^key-832cc0a8f991bb735e727e7602a0c575]
+## 2. Offences[^c-832cc0a8f991bb735e727e7602a0c575]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Licences[^key-832cc0a8f991bb735e727e7602a0c575]
+## 3. Licences[^c-832cc0a8f991bb735e727e7602a0c575]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Penalties[^key-832cc0a8f991bb735e727e7602a0c575]
+## 4. Penalties[^c-832cc0a8f991bb735e727e7602a0c575]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-832cc0a8f991bb735e727e7602a0c575]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-832cc0a8f991bb735e727e7602a0c575]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-832cc0a8f991bb735e727e7602a0c575]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-832cc0a8f991bb735e727e7602a0c575]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-832cc0a8f991bb735e727e7602a0c575]: Textual amendment: Regulations revoked (30.12.2011) by [The Export Control (Sudan and South Sudan Sanctions) and (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2925)](https://www.legislation.gov.uk/uksi/2011/2925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2925/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2011/2925/regulation/2/1)
+[^c-832cc0a8f991bb735e727e7602a0c575]: Textual amendment: Regulations revoked (30.12.2011) by [The Export Control (Sudan and South Sudan Sanctions) and (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2925)](https://www.legislation.gov.uk/uksi/2011/2925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2925/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2011/2925/regulation/2/1)

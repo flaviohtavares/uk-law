@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Minimum funding guarantee[^key-da5ac87bda8e0e90308930d976ef4707]
+## 29. Minimum funding guarantee[^c-da5ac87bda8e0e90308930d976ef4707]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da5ac87bda8e0e90308930d976ef4707]: Commencement: Reg. 29 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-da5ac87bda8e0e90308930d976ef4707]: Commencement: Reg. 29 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Recovery of costs and expenses[^key-f8f7afd6a17736de5f4606c36eacdaf3]
+## 19. Recovery of costs and expenses[^c-f8f7afd6a17736de5f4606c36eacdaf3]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ For section 9 of the 1996 Act (recovery of expenses incurred in fulfilment of co
 
 ## Annotations
 
-[^key-f8f7afd6a17736de5f4606c36eacdaf3]: Commencement: S. 19 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-f8f7afd6a17736de5f4606c36eacdaf3]: Commencement: S. 19 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

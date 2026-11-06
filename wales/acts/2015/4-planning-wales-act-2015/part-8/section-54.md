@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Applications to amend registers: power to make provision about fees[^c22543101][^key-6694f197090f2135c812b0e2c5351d58]
+## 54. Applications to amend registers: power to make provision about fees[^c22543101][^c-6694f197090f2135c812b0e2c5351d58]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c22543101]: Commencement: S. 54 in force for specified purposes at 6.9.2015, see s. 58(2)(b)(4)(b)
 
-[^key-6694f197090f2135c812b0e2c5351d58]: Commencement: S. 54 in force at 10.4.2017 in so far as not already in force by [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 2](https://www.legislation.gov.uk/wsi/2017/546/article/2)
+[^c-6694f197090f2135c812b0e2c5351d58]: Commencement: S. 54 in force at 10.4.2017 in so far as not already in force by [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 2](https://www.legislation.gov.uk/wsi/2017/546/article/2)

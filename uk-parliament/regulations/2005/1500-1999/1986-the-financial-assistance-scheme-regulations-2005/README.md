@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1
 
 [^c1313028]Whereas a draft of this instrument was laid before Parliament in accordance with section 316(2)(n) of the Pensions Act 2004 and approved by resolution of each House of Parliament;
 
-Now, therefore, the Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 286, 315(2) and 318(1), (4)(a) and (5) of that Act [^c1313029], and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-42220967500ef5725b786aff408bb9d9][^key-7de0374ad737e8170ed97cca5f36b901][^key-f0b11ac247547f9542f155080cf19259][^key-823036265200b24a1c429f9f1b641a97]
+Now, therefore, the Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 286, 315(2) and 318(1), (4)(a) and (5) of that Act [^c1313029], and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^c-42220967500ef5725b786aff408bb9d9][^c-7de0374ad737e8170ed97cca5f36b901][^c-f0b11ac247547f9542f155080cf19259][^c-823036265200b24a1c429f9f1b641a97]
 
 ## Contents
 
@@ -113,7 +113,7 @@ Now, therefore, the Secretary of State for Work and Pensions, in exercise of the
 - [Section 19 — Time and manner of payment: general provisions](part-6/section-19.md)
 - [Section 20 — Direct credit transfer](part-6/section-20.md)
 
-### PART 7 — Valuation of assets and liabilities[^key-8e94aafe757b2a0fe4fe984df8fc0416]
+### PART 7 — Valuation of assets and liabilities[^c-8e94aafe757b2a0fe4fe984df8fc0416]
 
 - [Section 21 — Application of this Part](part-7/section-21.md)
 - [Section 22 — Scheme manager to obtain a valuation of assets and liabilities](part-7/section-22.md)
@@ -122,14 +122,14 @@ Now, therefore, the Secretary of State for Work and Pensions, in exercise of the
 - [Section 25 — Approval of valuation](part-7/section-25.md)
 - [Section 26 — Binding valuation](part-7/section-26.md)
 
-### PART 8 — Scheme manager functions after a valuation[^key-8e94aafe757b2a0fe4fe984df8fc0416]
+### PART 8 — Scheme manager functions after a valuation[^c-8e94aafe757b2a0fe4fe984df8fc0416]
 
 - [Section 27 — Scheme manager calculations after a valuation](part-8/section-27.md)
 - [Section 28 — Determination of certain asset shares, notional pensions and survivor notional pensions](part-8/section-28.md)
 - [Section 29 — Transfer notice](part-8/section-29.md)
 - [Section 30 — Terms and conditions of contracts](part-8/section-30.md)
 
-### PART 9 — Miscellaneous payments and residual assets[^key-8e94aafe757b2a0fe4fe984df8fc0416]
+### PART 9 — Miscellaneous payments and residual assets[^c-8e94aafe757b2a0fe4fe984df8fc0416]
 
 - [Section 31 — Payments where amounts relating to money purchase benefits are transferred to the Secretary of State](part-9/section-31.md)
 - [Section 32 — Payments to estates where a person in receipt of a payment from a scheme dies prior to entitlement and prior to transfer of assets](part-9/section-32.md)
@@ -193,12 +193,12 @@ A regulatory impact assessment has not been published for this instrument as it 
 
 [^c1313029]: Marginal citation: Section 286 is modified in relation to multi-employer schemes by [S.I.2005/441](https://www.legislation.gov.uk/uksi/2005/441). Section 318(1) is cited because of the meaning ascribed to the words “modifications”, “prescribed” and “regulations”.
 
-[^key-42220967500ef5725b786aff408bb9d9]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2005/1986) applied (with modifications) (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
+[^c-42220967500ef5725b786aff408bb9d9]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2005/1986) applied (with modifications) (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
 
-[^key-7de0374ad737e8170ed97cca5f36b901]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2005/1986) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+[^c-7de0374ad737e8170ed97cca5f36b901]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2005/1986) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
 
-[^key-f0b11ac247547f9542f155080cf19259]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2005/1986) applied (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [72(3)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/3) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c 19 - see S.I. 2014/1683, art. 2
+[^c-f0b11ac247547f9542f155080cf19259]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2005/1986) applied (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [72(3)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/3) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c 19 - see S.I. 2014/1683, art. 2
 
-[^key-823036265200b24a1c429f9f1b641a97]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2005/1986) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)); (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-823036265200b24a1c429f9f1b641a97]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2005/1986) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)); (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
-[^key-8e94aafe757b2a0fe4fe984df8fc0416]: Textual amendment: [Pts. 7](https://www.legislation.gov.uk/uksi/2005/1986/part/7), [8](https://www.legislation.gov.uk/uksi/2005/1986/part/8), [9](https://www.legislation.gov.uk/uksi/2005/1986/part/9) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [14](https://www.legislation.gov.uk/uksi/2010/1149/regulation/14), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1149/schedule/1)
+[^c-8e94aafe757b2a0fe4fe984df8fc0416]: Textual amendment: [Pts. 7](https://www.legislation.gov.uk/uksi/2005/1986/part/7), [8](https://www.legislation.gov.uk/uksi/2005/1986/part/8), [9](https://www.legislation.gov.uk/uksi/2005/1986/part/9) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [14](https://www.legislation.gov.uk/uksi/2010/1149/regulation/14), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1149/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 14 — ORDERS TRANSFERRING MAIN RIVER FUNCTIONS TO THE APPROPRIATE AGENCY[^key-05f2c0dd52131afb2dc61ea1f9a10fad]
+## SCHEDULE 14 — ORDERS TRANSFERRING MAIN RIVER FUNCTIONS TO THE APPROPRIATE AGENCY[^c-05f2c0dd52131afb2dc61ea1f9a10fad]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Section 108.
 
 ### Procedure on application for order
 
-**1.** As soon as any scheme under section 108 of this Act has been submitted to one of the Ministers, the appropriate agency[^key-ddfc40466198d92d1cfa9d5e27a4106a] shall—
+**1.** As soon as any scheme under section 108 of this Act has been submitted to one of the Ministers, the appropriate agency[^c-ddfc40466198d92d1cfa9d5e27a4106a] shall—
 
 - (a) send copies of the scheme to every internal drainage board, local authority, navigation authority, harbour authority and conservancy authority affected by it; and
 - (b) publish, in one or more newspapers circulating in the area affected by the scheme, a notice stating—
@@ -45,7 +45,7 @@ to be published in the London Gazette and in such other manner as he thinks best
 (2) The persons referred to in sub-paragraph (1) above are—
 
 - (a) every county council , county borough council[^c18746481] or London borough council in whose area any part of the area proposed to be affected by the order is situated and, if any part of that area is situated in the City of London, the Common Council of the City of London;
-- (b) the appropriate agency[^key-5ad0820aff3a7af9641921bee66a1953] and every drainage body, navigation authority, harbour authority or conservancy authority that is known to the Minister in question to be exercising jurisdiction within the area proposed to be affected by the order.
+- (b) the appropriate agency[^c-5ad0820aff3a7af9641921bee66a1953] and every drainage body, navigation authority, harbour authority or conservancy authority that is known to the Minister in question to be exercising jurisdiction within the area proposed to be affected by the order.
 
 (3) In sub-paragraph (2) above “**drainage body**” has the same meaning as in section 108 of this Act.
 
@@ -81,7 +81,7 @@ he may, within six weeks of the date of the publication of the notice mentioned 
 
 may quash the order either generally or in so far as it affects the applicant.
 
-(3) Except by leave of the Court of Appeal, no appeal shall lie to the Supreme Court[^key-f1bbab7f54649560fa405931d822777a] from a decision of the Court of Appeal in proceedings under this paragraph.
+(3) Except by leave of the Court of Appeal, no appeal shall lie to the Supreme Court[^c-f1bbab7f54649560fa405931d822777a] from a decision of the Court of Appeal in proceedings under this paragraph.
 
 (4) Subject to the preceding provisions of this paragraph an order under section 108 of this Act shall not at any time be questioned in any legal proceedings whatsoever.
 
@@ -95,12 +95,12 @@ may quash the order either generally or in so far as it affects the applicant.
 
 ## Annotations
 
-[^key-05f2c0dd52131afb2dc61ea1f9a10fad]: Textual amendment: Words in Sch. 14 heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 311(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/311/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-05f2c0dd52131afb2dc61ea1f9a10fad]: Textual amendment: Words in Sch. 14 heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 311(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/311/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ddfc40466198d92d1cfa9d5e27a4106a]: Textual amendment: Words in Sch. 14 para. 1 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 311(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/311/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ddfc40466198d92d1cfa9d5e27a4106a]: Textual amendment: Words in Sch. 14 para. 1 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 311(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/311/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18746481]: Textual amendment: Words in Sch. 14 para. 2(2)(a) inserted (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/5), [Sch. 11 Pt. I para. 3(8)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/11/part/I/paragraph/3/8) (with [ss. 54(4)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/4/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 3](https://www.legislation.gov.uk/uksi/1996/396/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/396/schedule/1)
 
-[^key-5ad0820aff3a7af9641921bee66a1953]: Textual amendment: Words in Sch. 14 para. 2 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 311(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/311/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5ad0820aff3a7af9641921bee66a1953]: Textual amendment: Words in Sch. 14 para. 2 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 311(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/311/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-f1bbab7f54649560fa405931d822777a]: Textual amendment: Words in Sch. 14 para. 5(3) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 55](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/55); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-f1bbab7f54649560fa405931d822777a]: Textual amendment: Words in Sch. 14 para. 5(3) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 55](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/55); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Application for variation of quarantine and hospital detention orders[^key-62aea6e97e5bcd4abab4822878e98b44]
+## 50. Application for variation of quarantine and hospital detention orders[^c-62aea6e97e5bcd4abab4822878e98b44]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62aea6e97e5bcd4abab4822878e98b44]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2008/5/section/50) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-62aea6e97e5bcd4abab4822878e98b44]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2008/5/section/50) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

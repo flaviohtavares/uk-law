@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Levy: registration, returns and records.[^key-93fb1691267dd1fa93a11302358d293c][^c14210571]
+## 14. Levy: registration, returns and records.[^c-93fb1691267dd1fa93a11302358d293c][^c14210571]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-93fb1691267dd1fa93a11302358d293c]: Textual amendment: Ss. 1-25 repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
+[^c-93fb1691267dd1fa93a11302358d293c]: Textual amendment: Ss. 1-25 repealed (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/576/article/1/3), [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/2008/576/schedule/5/paragraph/7) (with [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/10))
 
 [^c14210571]: Modification: [S. 14](https://www.legislation.gov.uk/ukpga/1967/22/section/14) extended by [Pig Industry Levy Act 1983 (c. 4, SIF 4:4)](https://www.legislation.gov.uk/ukpga/1983/4), [s. 1(1)(4)](https://www.legislation.gov.uk/ukpga/1983/4/section/1/1/4)

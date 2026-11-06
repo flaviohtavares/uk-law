@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Amendment of the Proceeds of Crime Act 2002[^key-aade0da85a08ad0651aa19738c92e18f]
+## 107. Amendment of the Proceeds of Crime Act 2002[^c-aade0da85a08ad0651aa19738c92e18f]
 
 *Extent: E+W+S+N.I.*
 
@@ -90,7 +90,7 @@ summary: ''
 
 ## Annotations
 
-[^key-aade0da85a08ad0651aa19738c92e18f]: Commencement: Reg. 107 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-aade0da85a08ad0651aa19738c92e18f]: Commencement: Reg. 107 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23692011]: Marginal citation: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 

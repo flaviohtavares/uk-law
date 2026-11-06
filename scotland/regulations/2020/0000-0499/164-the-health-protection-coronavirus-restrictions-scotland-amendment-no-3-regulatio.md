@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (Restrictions) (Scotland) Amendment (No. 3) Regulations 2020 (revoked)[^key-21a29f853c2584f0ee32116417407273]
+The Health Protection (Coronavirus) (Restrictions) (Scotland) Amendment (No. 3) Regulations 2020 (revoked)[^c-21a29f853c2584f0ee32116417407273]
 
 Approved by the Scottish Parliament
 
@@ -48,28 +48,28 @@ Coming into force
 
 29th May 2020
 
-[^key-21a29f853c2584f0ee32116417407273]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21a29f853c2584f0ee32116417407273]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-21a29f853c2584f0ee32116417407273]
+## 1. Citation, commencement and application[^c-21a29f853c2584f0ee32116417407273]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020[^key-21a29f853c2584f0ee32116417407273]
+## 2. Amendment of the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020[^c-21a29f853c2584f0ee32116417407273]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving[^key-21a29f853c2584f0ee32116417407273]
+## 3. Saving[^c-21a29f853c2584f0ee32116417407273]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-21a29f853c2584f0ee32116417407273]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21a29f853c2584f0ee32116417407273]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-21a29f853c2584f0ee32116417407273]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21a29f853c2584f0ee32116417407273]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-21a29f853c2584f0ee32116417407273]: Textual amendment: Regulations revoked (14.9.2020) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Scotland) Regulations 2020 (S.S.I. 2020/279)](https://www.legislation.gov.uk/ssi/2020/279), [reg. 1](https://www.legislation.gov.uk/ssi/2020/279/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2020/279/schedule/2)
+[^c-21a29f853c2584f0ee32116417407273]: Textual amendment: Regulations revoked (14.9.2020) by [The Health Protection (Coronavirus) (Restrictions and Requirements) (Scotland) Regulations 2020 (S.S.I. 2020/279)](https://www.legislation.gov.uk/ssi/2020/279), [reg. 1](https://www.legislation.gov.uk/ssi/2020/279/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2020/279/schedule/2)

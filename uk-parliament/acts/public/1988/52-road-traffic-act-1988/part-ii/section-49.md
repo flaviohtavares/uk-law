@@ -48,7 +48,7 @@ or for any of those purposes.
 - “**examination for plating**” means an examination under regulations under this section for the purpose of determining plated particulars for a goods vehicle, and
 - “**goods vehicle test**” means an examination under regulations under this section for the purpose of ascertaining whether any prescribed construction and use requirements , or the requirement that the condition of the vehicle is not such that its use on a road would involve a danger of injury to any person,[^c13974451] are complied with in the case of a goods vehicle.
 
-(5) In its application to vehicles in which recording equipment is required by Article 3 of the EU[^key-0944ffaca4b4c83c55245a07dbb6481e] Tachographs Regulation to be installed and used, this section shall have effect as if any reference to prescribed construction and use requirements included a reference to prescribed requirements of so much of that Regulation as relates to the installation of recording equipment and the seals to be fixed to such equipment.
+(5) In its application to vehicles in which recording equipment is required by Article 3 of the EU[^c-0944ffaca4b4c83c55245a07dbb6481e] Tachographs Regulation to be installed and used, this section shall have effect as if any reference to prescribed construction and use requirements included a reference to prescribed requirements of so much of that Regulation as relates to the installation of recording equipment and the seals to be fixed to such equipment.
 
 ## Annotations
 
@@ -64,4 +64,4 @@ or for any of those purposes.
 
 [^c13974451]: Textual amendment: Words in s. 49(4) inserted (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 48](https://www.legislation.gov.uk/ukpga/1991/40/section/48), [Sch. 4 para. 54(4)](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4/paragraph/54/4); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2),Sch.
 
-[^key-0944ffaca4b4c83c55245a07dbb6481e]: Textual amendment: Words in [s. 49(5)](https://www.legislation.gov.uk/ukpga/1988/52/section/49/5) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/12/2)
+[^c-0944ffaca4b4c83c55245a07dbb6481e]: Textual amendment: Words in [s. 49(5)](https://www.legislation.gov.uk/ukpga/1988/52/section/49/5) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/12/2)

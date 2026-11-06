@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271U. Discharge and variation of order[^key-ad57f6d736639648bab48cdff7b984da][^key-f19ec92dcab2752e44bde5d5e8fcf2e4]
+## 271U. Discharge and variation of order[^c-ad57f6d736639648bab48cdff7b984da][^c-f19ec92dcab2752e44bde5d5e8fcf2e4]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ad57f6d736639648bab48cdff7b984da]: Textual amendment: Ss. 271N-271Z inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 90(1)](https://www.legislation.gov.uk/asp/2010/13/section/90/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-ad57f6d736639648bab48cdff7b984da]: Textual amendment: Ss. 271N-271Z inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 90(1)](https://www.legislation.gov.uk/asp/2010/13/section/90/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-f19ec92dcab2752e44bde5d5e8fcf2e4]: Modification: Ss. 271N-271Z applied (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 90(3)](https://www.legislation.gov.uk/asp/2010/13/section/90/3)[(4)](https://www.legislation.gov.uk/asp/2010/13/section/90/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-f19ec92dcab2752e44bde5d5e8fcf2e4]: Modification: Ss. 271N-271Z applied (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 90(3)](https://www.legislation.gov.uk/asp/2010/13/section/90/3)[(4)](https://www.legislation.gov.uk/asp/2010/13/section/90/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

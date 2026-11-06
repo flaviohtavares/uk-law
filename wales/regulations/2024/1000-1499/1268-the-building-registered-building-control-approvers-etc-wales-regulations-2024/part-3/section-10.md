@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Form, grounds and period for rejecting plans certificate[^key-82c7f7c7defa0af34b59d5f8253ea181]
+## 10. Form, grounds and period for rejecting plans certificate[^c-82c7f7c7defa0af34b59d5f8253ea181]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82c7f7c7defa0af34b59d5f8253ea181]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2024/1268/regulation/10) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-82c7f7c7defa0af34b59d5f8253ea181]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2024/1268/regulation/10) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

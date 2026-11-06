@@ -37,7 +37,7 @@ Made
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by section 8 of the Intellectual Property (Unjustified Threats) Act 2017[^f00001].
 
-## 1. Citation and interpretation[^key-64a26c925fcc9e9e335f8daba0f7c219]
+## 1. Citation and interpretation[^c-64a26c925fcc9e9e335f8daba0f7c219]
 
 (1) These Regulations may be cited as the Intellectual Property (Unjustified Threats) Act 2017 (Commencement and Transitional Provisions) Regulations 2017.
 
@@ -52,7 +52,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “the 2017 Act” means the Intellectual Property (Unjustified Threats) Act 2017;
 - “the appointed day” means the day appointed by regulation 2(1).
 
-## 2. Commencement of the 2017 Act[^key-ea01b1dc3a228f9f76ad3a38fd1bebce]
+## 2. Commencement of the 2017 Act[^c-ea01b1dc3a228f9f76ad3a38fd1bebce]
 
 (1) 1st October 2017 is the day appointed for the coming into force of the following provisions of the 2017 Act—
 
@@ -60,9 +60,9 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (b) sections 2 to 6;
 - (c) section 7(4).
 
-(2)[^key-cbc3a01098333051d6bceb2a24aeb278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cbc3a01098333051d6bceb2a24aeb278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provisions[^key-f693932f995bafb748b376faa8da9170]
+## 3. Transitional provisions[^c-f693932f995bafb748b376faa8da9170]
 
 (1) The following transitional provisions have effect notwithstanding the amendments to the 1949 Act, the 1977 Act, the 1988 Act, the 1994 Act, the 2005 Regulations and the 2006 Regulations made by the provisions brought into force by Regulation 2.
 
@@ -103,7 +103,7 @@ Regulation 3 contains a transitional provision relating to the changes made by t
 
 [^f00001]: Footnote: [2017 c. 14](https://www.legislation.gov.uk/ukpga/2017/14).
 
-[^key-64a26c925fcc9e9e335f8daba0f7c219]: Commencement: Reg. 1 in force at 14.7.2017
+[^c-64a26c925fcc9e9e335f8daba0f7c219]: Commencement: Reg. 1 in force at 14.7.2017
 
 [^f00002]: Footnote: [1949 c. 88](https://www.legislation.gov.uk/ukpga/1949/88). Section 26 is substituted and section 45 is amended by the provisions of the Intellectual Property (Unjustified Threats) Act 2017 which are brought into force by regulation 2 of these Regulations. Section 26 was previously amended by paragraph 15 of Schedule 3 to the Copyright, Designs and Patents Act [1988 (c.48)](https://www.legislation.gov.uk/ukpga/1988/48) and by [SI 2006/1029](https://www.legislation.gov.uk/uksi/2006/1029); section 45 was previously substituted by [SI 2006/1028](https://www.legislation.gov.uk/uksi/2006/1028).
 
@@ -117,8 +117,8 @@ Regulation 3 contains a transitional provision relating to the changes made by t
 
 [^f00007]: Footnote: [SI 2006/1027](https://www.legislation.gov.uk/uksi/2006/1027). Regulation 6 is amended by the provisions of the Intellectual Property (Unjustified Threats) Act 2017 which are brought into force by regulation 2 of these Regulations. Regulation 6 was previously amended by [SI 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [SI 2016/299](https://www.legislation.gov.uk/uksi/2016/299).
 
-[^key-ea01b1dc3a228f9f76ad3a38fd1bebce]: Commencement: Reg. 2 in force at 14.7.2017
+[^c-ea01b1dc3a228f9f76ad3a38fd1bebce]: Commencement: Reg. 2 in force at 14.7.2017
 
-[^key-cbc3a01098333051d6bceb2a24aeb278]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/2) revoked (12.4.2021) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/2)
+[^c-cbc3a01098333051d6bceb2a24aeb278]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/2) revoked (12.4.2021) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) (Repeal and Revocation) Regulations 2021 (S.I. 2021/355)](https://www.legislation.gov.uk/uksi/2021/355), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/355/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/355/schedule/paragraph/2)
 
-[^key-f693932f995bafb748b376faa8da9170]: Commencement: Reg. 3 in force at 14.7.2017
+[^c-f693932f995bafb748b376faa8da9170]: Commencement: Reg. 3 in force at 14.7.2017

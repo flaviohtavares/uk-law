@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 226. Award of costs against the administrator[^key-55e63cdd34400f940c279284b93246b2]
+## 226. Award of costs against the administrator[^c-55e63cdd34400f940c279284b93246b2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Without prejudice to any provision of the Regulations or these Rules by virtue o
 
 ## Annotations
 
-[^key-55e63cdd34400f940c279284b93246b2]: Commencement: [Rule 226](https://www.legislation.gov.uk/nisr/2026/11/rule/226) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-55e63cdd34400f940c279284b93246b2]: Commencement: [Rule 226](https://www.legislation.gov.uk/nisr/2026/11/rule/226) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

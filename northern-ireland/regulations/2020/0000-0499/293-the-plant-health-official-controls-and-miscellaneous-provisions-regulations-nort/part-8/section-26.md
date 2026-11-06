@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Notification requirements in relation to other plants and plant products[^key-769a9c478e0e12f65fa045cc33cb3697]
+## 26. Notification requirements in relation to other plants and plant products[^c-769a9c478e0e12f65fa045cc33cb3697]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-769a9c478e0e12f65fa045cc33cb3697]: Commencement: Reg. 26 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-769a9c478e0e12f65fa045cc33cb3697]: Commencement: Reg. 26 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

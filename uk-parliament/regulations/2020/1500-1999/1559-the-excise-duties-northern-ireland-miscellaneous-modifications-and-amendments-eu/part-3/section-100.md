@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Miscellaneous savings[^key-3290f277f39eb230afa6a9aca3992dd4]
+## 100. Miscellaneous savings[^c-3290f277f39eb230afa6a9aca3992dd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,19 +26,19 @@ summary: ''
 
 - (a) The Denatured Alcohol Regulations 2005[^f00018];
 - (b) The Excise Warehousing (Etc.) Regulations 1988[^f00019];
-- (c)[^key-bf6403326b246f994125498a87905cec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-bf6403326b246f994125498a87905cec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) The Excise Duty Point (External and Internal Community Transit Procedure) Regulations 1998[^f00021]
 - (e) The Excise Warehousing (Energy Products) Regulations 2004[^f00022].
 
 ## Annotations
 
-[^key-3290f277f39eb230afa6a9aca3992dd4]: Commencement: Reg. 100 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-3290f277f39eb230afa6a9aca3992dd4]: Commencement: Reg. 100 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2005/1524](https://www.legislation.gov.uk/uksi/2005/1524); as amended by [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). There are other amendments but none are relevant.
 
 [^f00019]: Footnote: [S.I. 1988/809](https://www.legislation.gov.uk/uksi/1988/809); as amended by [S.I. 2002/501](https://www.legislation.gov.uk/uksi/2002/501) and [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593). There are other amendments but none are relevant.
 
-[^key-bf6403326b246f994125498a87905cec]: Textual amendment: [Reg. 100(2)(c)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/100/2/c) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/1262/regulation/5)
+[^c-bf6403326b246f994125498a87905cec]: Textual amendment: [Reg. 100(2)(c)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/100/2/c) omitted (3.3.2025) by virtue of [The Excise Duties (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/1262)](https://www.legislation.gov.uk/uksi/2024/1262), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1262/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/1262/regulation/5)
 
 [^f00021]: Footnote: [S.I. 1998/202](https://www.legislation.gov.uk/uksi/1998/202); as amended by [S.I. 1998/3110](https://www.legislation.gov.uk/uksi/1998/3110) and [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593).
 

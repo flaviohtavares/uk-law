@@ -52,7 +52,7 @@ shall be disregarded for such purposes of this Part as may be so specified.
 
 (11)[^c17515741] Genetically modified organisms of any description are “marketed” by a person when products consisting of or including such organisms are placed on the market by being made available to other persons, whether or not for consideration.
 
-## 107. Meaning of “damage to the environment”, “control” and related expressions in Part VI.[^c17521981][^c13746991][^key-0afe5258107baf067667beb9053d5088]
+## 107. Meaning of “damage to the environment”, “control” and related expressions in Part VI.[^c17521981][^c13746991][^c-0afe5258107baf067667beb9053d5088]
 
 *Extent: S*
 
@@ -106,7 +106,7 @@ shall be disregarded for such purposes of this Part as may be so specified.
 
 [^c17521981]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-0afe5258107baf067667beb9053d5088]: Textual amendment: S. 106A inserted (13.11.2025 for specified purposes) by [Genetic Technology (Precision Breeding) Act 2023 (c. 6)](https://www.legislation.gov.uk/ukpga/2023/6), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2023/6/section/41/2), [48(4)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/4) (with [s. 46](https://www.legislation.gov.uk/ukpga/2023/6/section/46)); [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/5)
+[^c-0afe5258107baf067667beb9053d5088]: Textual amendment: S. 106A inserted (13.11.2025 for specified purposes) by [Genetic Technology (Precision Breeding) Act 2023 (c. 6)](https://www.legislation.gov.uk/ukpga/2023/6), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2023/6/section/41/2), [48(4)](https://www.legislation.gov.uk/ukpga/2023/6/section/48/4) (with [s. 46](https://www.legislation.gov.uk/ukpga/2023/6/section/46)); [S.I. 2025/575](https://www.legislation.gov.uk/uksi/2025/575), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2025/575/regulation/2/5)
 
 [^c17521881]: Textual amendment: [S. 107(2)](https://www.legislation.gov.uk/ukpga/1990/43/section/107/2) substituted (S.) (5.12.2002) by [Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002 (S.S.I. 2002/541)](https://www.legislation.gov.uk/ssi/2002/541), [reg. 4(2)](https://www.legislation.gov.uk/ssi/2002/541/regulation/4/2)
 

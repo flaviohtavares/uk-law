@@ -44,11 +44,11 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001] makes the following Regulations in exercise of the powers conferred by section 2(1) and (13) of the Period Products (Free Provision) Act (Northern Ireland) 2022[^f00002]. In accordance with section 2(8)(a) of that Act, the Department of Agriculture, Environment and Rural Affairs has consulted with the public service bodies specified by these Regulations and such other bodies or persons as it thinks appropriate.
 
-## 1. Citation and Commencement[^key-f8db248735e57528efe26fb4f390b4ec]
+## 1. Citation and Commencement[^c-f8db248735e57528efe26fb4f390b4ec]
 
 These Regulations may be cited as the Period Products (Department of Agriculture, Environment and Rural Affairs Specified Public Service Bodies) Regulations (Northern Ireland) 2024 and shall come into operation on 16th April 2024.
 
-## 2. Specified public service bodies[^key-a12756f30be275c31ff76b30c038f4b5]
+## 2. Specified public service bodies[^c-a12756f30be275c31ff76b30c038f4b5]
 
 The bodies listed in the Schedule to these Regulation are specified as public service bodies to which the duty in section 2(3) of the Period Products (Free Provision) Act (Northern Ireland) 2022 applies.
 
@@ -60,19 +60,19 @@ A senior officer of the
 
 Department of Agriculture, Environment and Rural Affairs
 
-## SCHEDULE — Specified Public Service Bodies[^key-d04cbf4fdeb82a59464f4f4a89ab0489]
+## SCHEDULE — Specified Public Service Bodies[^c-d04cbf4fdeb82a59464f4f4a89ab0489]
 
 Regulation 2
 
-[^key-d04cbf4fdeb82a59464f4f4a89ab0489]
+[^c-d04cbf4fdeb82a59464f4f4a89ab0489]
 
 The Agri-Food and Biosciences Institute, as established by the Agriculture (Northern Ireland) Order 2004[^f00003];
 
-[^key-d04cbf4fdeb82a59464f4f4a89ab0489]
+[^c-d04cbf4fdeb82a59464f4f4a89ab0489]
 
 The Livestock and Meat Commission for Northern Ireland, as established by the Livestock Marketing Commission Act (Northern Ireland) 1967[^f00004]; and
 
-[^key-d04cbf4fdeb82a59464f4f4a89ab0489]
+[^c-d04cbf4fdeb82a59464f4f4a89ab0489]
 
 The Northern Ireland Fishery Harbour Authority, as established by the Northern Ireland Fishery Harbour Authority Order (Northern Ireland) 1973[^f00005].
 
@@ -88,11 +88,11 @@ These Regulations specify the public service bodies within the functions of the 
 
 [^f00002]: Footnote: [2022 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2022/25)
 
-[^key-f8db248735e57528efe26fb4f390b4ec]: Commencement: Reg. 1 in operation at 16.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/95/regulation/1)
+[^c-f8db248735e57528efe26fb4f390b4ec]: Commencement: Reg. 1 in operation at 16.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/95/regulation/1)
 
-[^key-a12756f30be275c31ff76b30c038f4b5]: Commencement: Reg. 2 in operation at 16.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/95/regulation/1)
+[^c-a12756f30be275c31ff76b30c038f4b5]: Commencement: Reg. 2 in operation at 16.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/95/regulation/1)
 
-[^key-d04cbf4fdeb82a59464f4f4a89ab0489]: Commencement: Sch. in operation at 16.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/95/regulation/1)
+[^c-d04cbf4fdeb82a59464f4f4a89ab0489]: Commencement: Sch. in operation at 16.4.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/95/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2004/3327 (N.I. 23)](https://www.legislation.gov.uk/nisi/2004/3327) to which there are amendments not relevant to these Regulations
 

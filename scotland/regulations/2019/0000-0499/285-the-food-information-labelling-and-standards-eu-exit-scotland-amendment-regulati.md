@@ -48,13 +48,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
 
-## 1. Citation, commencement and extent[^key-a7143e05625e0b4613e7108b97d3257a]
+## 1. Citation, commencement and extent[^c-a7143e05625e0b4613e7108b97d3257a]
 
 (1) These Regulations may be cited as the Food Information, Labelling and Standards (EU Exit) (Scotland) (Amendment) Regulations 2019 and come into force on exit day.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Amendment of the Quick-frozen Foodstuffs Regulations 1990[^key-577ea816897f69b2d9c6ccb783a24a80]
+## 2. Amendment of the Quick-frozen Foodstuffs Regulations 1990[^c-577ea816897f69b2d9c6ccb783a24a80]
 
 (1) The Quick-frozen Foodstuffs Regulations 1990 [^c23843741] are amended as follows.
 
@@ -63,19 +63,19 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 > (1D) A person is to be considered not to have contravened or failed to comply with regulation 5(3)(b) in the following circumstances—
 >
 > - (a) a quick-frozen foodstuff subject to regulation 5(3)(b) is marked or labelled on its packaging, container or wrapping, or on a label attached to it, with the name or business name and address of the manufacturer or packer, or of a seller established within the European Union,
-> - (b) this would not have constituted a contravention of regulation 5(3)(b) immediately before IP completion day[^key-759b3688f0669e4462f98d535806e2a3], and
+> - (b) this would not have constituted a contravention of regulation 5(3)(b) immediately before IP completion day[^c-759b3688f0669e4462f98d535806e2a3], and
 > - (c) the quick-frozen foodstuff is placed on the market no later than 21 months after the day after IP completion day.
 
 .
 
-## 3. Amendment of the Food Hygiene (Scotland) Regulations 2006[^key-8be385cc7df1db807f3bce6efbbf799f]
+## 3. Amendment of the Food Hygiene (Scotland) Regulations 2006[^c-8be385cc7df1db807f3bce6efbbf799f]
 
 (1) The Food Hygiene (Scotland) Regulations 2006 [^c23843751] are amended as follows.
 
 (2) In regulation 17 (offences and penalties)—
 
 - (a) in paragraph (1), for “(8)” substitute “ (9) ”,
-- (b)[^key-842a0dce066bc90dacd936890e069c14] after paragraph (8), insert—
+- (b)[^c-842a0dce066bc90dacd936890e069c14] after paragraph (8), insert—
 
   > (9) Provided the requirements of subparagraph (a) or (b), as the case may be, are met, a person is to be considered not to have contravened or failed to comply with Article 5(1) of (EU) Regulation 853/2004, where—
   >
@@ -90,7 +90,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
   .
 
-## 4. Amendment of the Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013[^key-bc4e9769a452a339ec550a65bb0c9e0f]
+## 4. Amendment of the Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013[^c-bc4e9769a452a339ec550a65bb0c9e0f]
 
 (1) The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 [^c23843771] are amended as follows.
 
@@ -101,12 +101,12 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 > A person is to be considered not to have contravened regulation 11(2), as it applies to regulation 12(1)(d), in the following circumstances—
 >
 > - (a) an extraction solvent has the name or business name and address of the manufacturer or packer, or of a seller established in the territory of the European Union, appearing on the packaging, container or label,
-> - (b) this would have complied with regulation 11(2), as it applies to regulation 12(1)(d) immediately before IP completion day[^key-4628e4d9b523a9729021fde5b66ad0c0], and
+> - (b) this would have complied with regulation 11(2), as it applies to regulation 12(1)(d) immediately before IP completion day[^c-4628e4d9b523a9729021fde5b66ad0c0], and
 > - (c) the extraction solvent is placed on the market no later than 21 months after the day after IP completion day.
 
 .
 
-## 5. Amendment of the Honey (Scotland) Regulations 2015[^key-d452df2be81cf761917d737f60eefab2]
+## 5. Amendment of the Honey (Scotland) Regulations 2015[^c-d452df2be81cf761917d737f60eefab2]
 
 (1) The Honey (Scotland) Regulations 2015 [^c23843781] are amended as follows.
 
@@ -120,7 +120,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 > (1) No person may trade in honey unless the country or countries of origin where the honey has been harvested is indicated on the label except that if the honey originates in more than one country, the countries may be replaced with one of the following indications (or similar wording) as appropriate—
 >
-> “blends of honeys from more than one country”,[^key-c44b9c9eb5c92ec9a54bc6d3f501265f]
+> “blends of honeys from more than one country”,[^c-c44b9c9eb5c92ec9a54bc6d3f501265f]
 >
 > “blend of honeys from (*insert name of a specified continent or trading bloc*)”,
 >
@@ -142,7 +142,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 .
 
-## 6. Amendment of the Caseins and Caseinates (Scotland) (No. 2) Regulations 2016[^key-4e25ec22ddfabbf7d980816d93e4e54a]
+## 6. Amendment of the Caseins and Caseinates (Scotland) (No. 2) Regulations 2016[^c-4e25ec22ddfabbf7d980816d93e4e54a]
 
 (1) The Caseins and Caseinates (Scotland) (No. 2) Regulations 2016 [^c23843791] are amended as follows.
 
@@ -155,7 +155,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 > (1) A person is to be considered to have complied with regulation 5(1)(d) in the following circumstances—
 >
 > - (a) edible acid caseins, edible rennet caseins or edible caseinates are marked with the name, or business name, and address of the food business operator under whose name, or business name, the product is marketed or, if that food business operator is not established in the European Union, the importer into the European Union market,
-> - (b) this would have complied with regulation 5(1)(d) as it applied immediately before IP completion day[^key-1dcf43911843d24f454bc34e10360f5c], and
+> - (b) this would have complied with regulation 5(1)(d) as it applied immediately before IP completion day[^c-1dcf43911843d24f454bc34e10360f5c], and
 > - (c) the edible acid caseins, edible rennet caseins or edible caseinates are placed on the market no later than 21 months after the day after IP completion day.
 >
 > (2) A person is to be considered to have complied with regulation 5(1)(e) in the following circumstances—
@@ -188,34 +188,34 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23843731]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-a7143e05625e0b4613e7108b97d3257a]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a7143e05625e0b4613e7108b97d3257a]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-577ea816897f69b2d9c6ccb783a24a80]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-577ea816897f69b2d9c6ccb783a24a80]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23843741]: Marginal citation: [S.I. 1990/2615](https://www.legislation.gov.uk/uksi/1990/2615); relevantly amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and will be relevantly amended by [S.S.I. 2019/53](https://www.legislation.gov.uk/ssi/2019/53) on exit day.
 
-[^key-759b3688f0669e4462f98d535806e2a3]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2019/285/regulation/2/2) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(2)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/2)
+[^c-759b3688f0669e4462f98d535806e2a3]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2019/285/regulation/2/2) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(2)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/2)
 
-[^key-8be385cc7df1db807f3bce6efbbf799f]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-8be385cc7df1db807f3bce6efbbf799f]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23843751]: Marginal citation: [S.S.I. 2006/3](https://www.legislation.gov.uk/ssi/2006/3); relevantly amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-842a0dce066bc90dacd936890e069c14]: Textual amendment: Reg. 3(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(3)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/3)
+[^c-842a0dce066bc90dacd936890e069c14]: Textual amendment: Reg. 3(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(3)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/3)
 
-[^key-bc4e9769a452a339ec550a65bb0c9e0f]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-bc4e9769a452a339ec550a65bb0c9e0f]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23843771]: Marginal citation: [S.S.I. 2013/266](https://www.legislation.gov.uk/ssi/2013/266); relevantly amended by [S.S.I. 2019/53](https://www.legislation.gov.uk/ssi/2019/53).
 
-[^key-4628e4d9b523a9729021fde5b66ad0c0]: Textual amendment: Words in reg. 4(2) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(4)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/4)
+[^c-4628e4d9b523a9729021fde5b66ad0c0]: Textual amendment: Words in reg. 4(2) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(4)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/4)
 
-[^key-d452df2be81cf761917d737f60eefab2]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-d452df2be81cf761917d737f60eefab2]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23843781]: Marginal citation: [S.S.I. 2015/208](https://www.legislation.gov.uk/ssi/2015/208).
 
-[^key-c44b9c9eb5c92ec9a54bc6d3f501265f]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/ssi/2019/285/regulation/5/3) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(5)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/5)
+[^c-c44b9c9eb5c92ec9a54bc6d3f501265f]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/ssi/2019/285/regulation/5/3) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(5)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/5)
 
-[^key-4e25ec22ddfabbf7d980816d93e4e54a]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-4e25ec22ddfabbf7d980816d93e4e54a]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23843791]: Marginal citation: [S.S.I. 2016/422](https://www.legislation.gov.uk/ssi/2016/422).
 
-[^key-1dcf43911843d24f454bc34e10360f5c]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/ssi/2019/285/regulation/6/3) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(6)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/6)
+[^c-1dcf43911843d24f454bc34e10360f5c]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/ssi/2019/285/regulation/6/3) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [9(6)](https://www.legislation.gov.uk/ssi/2020/372/regulation/9/6)

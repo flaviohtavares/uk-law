@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Fluoridation of water supplies: transitional provision[^key-1d734eebdf477350fdf1eb6a6b7f35e8][^key-2c95dcbd9d78ceb59c564a6395a910bf]
+## 176. Fluoridation of water supplies: transitional provision[^c-1d734eebdf477350fdf1eb6a6b7f35e8][^c-2c95dcbd9d78ceb59c564a6395a910bf]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1d734eebdf477350fdf1eb6a6b7f35e8]: Commencement: S. 176 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-1d734eebdf477350fdf1eb6a6b7f35e8]: Commencement: S. 176 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-2c95dcbd9d78ceb59c564a6395a910bf]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2022/31/section/176) in force at 1.11.2022 for specified purposes by [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/3/b)
+[^c-2c95dcbd9d78ceb59c564a6395a910bf]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2022/31/section/176) in force at 1.11.2022 for specified purposes by [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/3/b)

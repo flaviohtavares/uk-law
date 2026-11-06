@@ -51,11 +51,11 @@ Under section 3(5) of the 1986 Act, the Secretary of State has laid a copy of th
 
 Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council, to make the following Order under section 4 of the 1986 Act:
 
-## 1. Citation and commencement[^key-9f2e908386eabebc1b33a7de70f9a86f]
+## 1. Citation and commencement[^c-9f2e908386eabebc1b33a7de70f9a86f]
 
 This Order may be cited as the Parliamentary Constituencies (Northern Ireland) Order 2008 and shall come into force on the fourteenth day after the day on which it is made [^f00002].
 
-## 2. Parliamentary Constituencies in Northern Ireland[^key-e9477baf782a47a69210d39f45958156]
+## 2. Parliamentary Constituencies in Northern Ireland[^c-e9477baf782a47a69210d39f45958156]
 
 (1) For all the constituencies in Northern Ireland there shall be substituted the constituencies which—
 
@@ -71,7 +71,7 @@ Judith Simpson
 
 Clerk of the Privy Council
 
-## SCHEDULE — NAMES, DESIGNATION AND COMPOSITION OF CONSTITUENCIES IN NORTHERN IRELAND[^key-4fc5577819e270707f2998b6583a61ec]
+## SCHEDULE — NAMES, DESIGNATION AND COMPOSITION OF CONSTITUENCIES IN NORTHERN IRELAND[^c-4fc5577819e270707f2998b6583a61ec]
 
 Article 2
 
@@ -108,10 +108,10 @@ Article 2 of, and the Schedule to, the Order give effect to those proposals. By 
 
 [^f00001]: Footnote: [1986 c.56](https://www.legislation.gov.uk/ukpga/1986/56); section 3 has been amended by section 16 of, and Part 1 of Schedule 3 to, the Political Parties, Elections and Referendums Act [2000 (c.41)](https://www.legislation.gov.uk/ukpga/2000/41). However, these amendments have yet to be commenced.
 
-[^key-9f2e908386eabebc1b33a7de70f9a86f]: Commencement: Art. 1 in force at 25.6.2008 in accordance with art. 1
+[^c-9f2e908386eabebc1b33a7de70f9a86f]: Commencement: Art. 1 in force at 25.6.2008 in accordance with art. 1
 
 [^f00002]: Footnote: The effect of section 4(6) of the Parliamentary Constituencies Act 1986 is that the coming into force of this Order shall not affect any parliamentary election until a proclamation is issued by Her Majesty summoning a new Parliament and shall not affect the constitution of the House of Commons until the dissolution of the Parliament now in being.
 
-[^key-e9477baf782a47a69210d39f45958156]: Commencement: Art. 2 in force at 25.6.2008 in accordance with art. 1
+[^c-e9477baf782a47a69210d39f45958156]: Commencement: Art. 2 in force at 25.6.2008 in accordance with art. 1
 
-[^key-4fc5577819e270707f2998b6583a61ec]: Commencement: Sch. in force at 25.6.2008 in accordance with art. 1
+[^c-4fc5577819e270707f2998b6583a61ec]: Commencement: Sch. in force at 25.6.2008 in accordance with art. 1

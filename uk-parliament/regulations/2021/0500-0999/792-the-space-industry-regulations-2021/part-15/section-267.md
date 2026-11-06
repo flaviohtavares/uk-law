@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 267. Completion certificate[^key-7696b77c122323cd771295743605ae06]
+## 267. Completion certificate[^c-7696b77c122323cd771295743605ae06]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7696b77c122323cd771295743605ae06]: Commencement: Reg. 267 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-7696b77c122323cd771295743605ae06]: Commencement: Reg. 267 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

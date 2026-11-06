@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Duty of the Welsh Ministers to respond to Auditor General's recommendations[^key-b763131da2b3078ea8297e8b4c11ab71]
+## 97. Duty of the Welsh Ministers to respond to Auditor General's recommendations[^c-b763131da2b3078ea8297e8b4c11ab71]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b763131da2b3078ea8297e8b4c11ab71]: Commencement: S. 97 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)
+[^c-b763131da2b3078ea8297e8b4c11ab71]: Commencement: S. 97 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

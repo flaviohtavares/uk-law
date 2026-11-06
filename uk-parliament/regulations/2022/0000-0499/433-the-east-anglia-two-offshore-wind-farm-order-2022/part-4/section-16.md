@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Discharge of water[^key-f72d346ae768ece50cf83408218f4a21]
+## 16. Discharge of water[^c-f72d346ae768ece50cf83408218f4a21]
 
 *Extent: E+W+S*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f72d346ae768ece50cf83408218f4a21]: Commencement: Art. 16 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-f72d346ae768ece50cf83408218f4a21]: Commencement: Art. 16 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
 
 [^M_M_aa3abb20-2cb1-49c3-e681-5a325e5ec9bf]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by section 35(8)(a) \[and 43(2)\] of the Competition and Service (Utilities) Act [1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43) and sections 36(2) and 99 of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37). There are other amendments to this section which are not relevant to this Order. \[Editorial note: Words in art. 16(2) footnote inserted (22.12.2022) by virtue of [The East Anglia TWO Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1399)](https://www.legislation.gov.uk/uksi/2022/1399), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1399/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1399/schedule)\]
 

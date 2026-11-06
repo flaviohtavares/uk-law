@@ -129,7 +129,7 @@ not being a society, association or company under the control (within the meanin
 
 ### 126. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c855241]
 
-### 127. Disclosure of information between revenue departments.[^key-a2ad958413f037ca19ac388882a51989]
+### 127. Disclosure of information between revenue departments.[^c-a2ad958413f037ca19ac388882a51989]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -143,7 +143,7 @@ not being a society, association or company under the control (within the meanin
 
 ### 129. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c855253]
 
-### 130. Compensation for loss of office etc. by clerks to General Commissioners.[^key-37ea826b9ef212feb7c5681954289e02]
+### 130. Compensation for loss of office etc. by clerks to General Commissioners.[^c-37ea826b9ef212feb7c5681954289e02]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -568,7 +568,7 @@ NOTES:
 
 [^c855241]: Textual amendment: [S. 126](https://www.legislation.gov.uk/ukpga/1972/41/section/126) repealed (27.7.1999 with effect as mentioned in Sch. 20 Pt. V(2) notes 1, 2 of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20 Pt. V(2)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/V/2)
 
-[^key-a2ad958413f037ca19ac388882a51989]: Textual amendment: [S. 127](https://www.legislation.gov.uk/ukpga/1972/41/section/127) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/16), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
+[^c-a2ad958413f037ca19ac388882a51989]: Textual amendment: [S. 127](https://www.legislation.gov.uk/ukpga/1972/41/section/127) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/16), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
 
 [^c855249]: Textual amendment: [S. 128(1)](https://www.legislation.gov.uk/ukpga/1972/41/section/128/1) repealed by [Finance Act 1978 (c. 42)](https://www.legislation.gov.uk/ukpga/1978/42), [s. 80(5)](https://www.legislation.gov.uk/ukpga/1978/42/section/80/5), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1978/42/schedule/13/part/I)
 
@@ -578,7 +578,7 @@ NOTES:
 
 [^c855253]: Textual amendment: [S. 129](https://www.legislation.gov.uk/ukpga/1972/41/section/129) repealed (1.9.1994) by [S.I. 1994/1813](https://www.legislation.gov.uk/uksi/1994/1813), [reg. 2(2)](https://www.legislation.gov.uk/uksi/1994/1813/regulation/2/2), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1994/1813/schedule/2/part/I)
 
-[^key-37ea826b9ef212feb7c5681954289e02]: Textual amendment: [S. 130](https://www.legislation.gov.uk/ukpga/1972/41/section/130) repealed (1.4.2009) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/1); [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 6(c)](https://www.legislation.gov.uk/uksi/2008/2696/article/6/c)
+[^c-37ea826b9ef212feb7c5681954289e02]: Textual amendment: [S. 130](https://www.legislation.gov.uk/ukpga/1972/41/section/130) repealed (1.4.2009) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/1); [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 6(c)](https://www.legislation.gov.uk/uksi/2008/2696/article/6/c)
 
 [^c855254]: Modification: The text of s. 131 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

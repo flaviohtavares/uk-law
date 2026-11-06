@@ -39,7 +39,7 @@ Where this section applies, the provisions of section 69 do not apply.
 
 (7) Where by reason of conduct falling within subsection (1) above a person—
 
-- (a) is assessed to a penalty under section 60 or a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007[^key-7907ef9b5ab5f44a76b33615e24b7393], or
+- (a) is assessed to a penalty under section 60 or a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007[^c-7907ef9b5ab5f44a76b33615e24b7393], or
 - (b) is convicted of an offence (whether under this Act or otherwise),
 
 that conduct shall not also give rise to a penalty under this section.
@@ -50,4 +50,4 @@ that conduct shall not also give rise to a penalty under this section.
 
 [^c15292591]: Marginal citation: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16).
 
-[^key-7907ef9b5ab5f44a76b33615e24b7393]: Textual amendment: Words in s. 69A(7)(a) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/15)
+[^c-7907ef9b5ab5f44a76b33615e24b7393]: Textual amendment: Words in s. 69A(7)(a) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/15)

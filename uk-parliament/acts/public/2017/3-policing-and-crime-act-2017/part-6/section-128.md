@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Controls on defectively deactivated weapons[^c22719671][^key-46338ca8e5d8e7fadda93cbee011a0d2]
+## 128. Controls on defectively deactivated weapons[^c22719671][^c-46338ca8e5d8e7fadda93cbee011a0d2]
 
 *Extent: E+W+S*
 
@@ -73,4 +73,4 @@ After section 8 of the Firearms (Amendment) Act 1988 insert—
 
 [^c22719671]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2017/3/section/128) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-46338ca8e5d8e7fadda93cbee011a0d2]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2017/3/section/128) in force at 2.5.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/d)
+[^c-46338ca8e5d8e7fadda93cbee011a0d2]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2017/3/section/128) in force at 2.5.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/d)

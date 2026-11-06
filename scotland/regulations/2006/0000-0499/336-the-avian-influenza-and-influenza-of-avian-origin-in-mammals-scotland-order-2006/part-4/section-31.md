@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Alternative measures where avian influenza is confirmed at a hatchery or ... on special category premises[^key-37499548d9ba83e3b137d2a7620973a1]
+## 31. Alternative measures where avian influenza is confirmed at a hatchery or ... on special category premises[^c-37499548d9ba83e3b137d2a7620973a1]
 
 *Extent: S*
 
-(1) If the Scottish Ministers are satisfied, following confirmation of highly pathogenic avian influenza in poultry or[^key-87110aaf49f30bd6e858aab890e64be9] other captive birds on special category premises, that applying less stringent measures than those set out in articles 26 to 29 would not endanger disease control, they may decide–
+(1) If the Scottish Ministers are satisfied, following confirmation of highly pathogenic avian influenza in poultry or[^c-87110aaf49f30bd6e858aab890e64be9] other captive birds on special category premises, that applying less stringent measures than those set out in articles 26 to 29 would not endanger disease control, they may decide–
 
 - (a) not to declare any controlled zone around the premises;
 - (b) to declare fewer zones than required under article 26;
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37499548d9ba83e3b137d2a7620973a1]: Textual amendment: Words in [art. 31](https://www.legislation.gov.uk/ssi/2006/336/article/31) heading omitted (19.12.2023) by virtue of [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(8)(a)](https://www.legislation.gov.uk/ssi/2023/361/article/2/8/a)
+[^c-37499548d9ba83e3b137d2a7620973a1]: Textual amendment: Words in [art. 31](https://www.legislation.gov.uk/ssi/2006/336/article/31) heading omitted (19.12.2023) by virtue of [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(8)(a)](https://www.legislation.gov.uk/ssi/2023/361/article/2/8/a)
 
-[^key-87110aaf49f30bd6e858aab890e64be9]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/ssi/2006/336/article/31/1) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(8)(b)](https://www.legislation.gov.uk/ssi/2023/361/article/2/8/b)
+[^c-87110aaf49f30bd6e858aab890e64be9]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/ssi/2006/336/article/31/1) inserted (19.12.2023) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Scotland) Amendment Order 2023 (S.S.I. 2023/361)](https://www.legislation.gov.uk/ssi/2023/361), [arts. 1](https://www.legislation.gov.uk/ssi/2023/361/article/1), [2(8)(b)](https://www.legislation.gov.uk/ssi/2023/361/article/2/8/b)

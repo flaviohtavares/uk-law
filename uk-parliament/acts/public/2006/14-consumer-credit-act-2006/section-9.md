@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Notice of sums in arrears under fixed-sum credit agreements etc.[^key-034327232ce7001d7041d42eec89123d][^key-8bfef64971a4330278c64463062e158f]
+## 9. Notice of sums in arrears under fixed-sum credit agreements etc.[^c-034327232ce7001d7041d42eec89123d][^c-8bfef64971a4330278c64463062e158f]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,6 +72,6 @@ After section 86A of the 1974 Act (inserted by section 8 of this Act) insert—
 
 ## Annotations
 
-[^key-034327232ce7001d7041d42eec89123d]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2006/14/section/9) in force at 16.6.2006 for specified purposes by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
+[^c-034327232ce7001d7041d42eec89123d]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2006/14/section/9) in force at 16.6.2006 for specified purposes by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
 
-[^key-8bfef64971a4330278c64463062e158f]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2006/14/section/9) in force at 1.10.2008 in so far as not already in force by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)
+[^c-8bfef64971a4330278c64463062e158f]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2006/14/section/9) in force at 1.10.2008 in so far as not already in force by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)

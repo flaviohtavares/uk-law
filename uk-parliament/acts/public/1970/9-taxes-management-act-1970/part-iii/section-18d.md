@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18D. Content of regulations under section 18B: supplementary provision[^key-fed7a2b195867d4cb21a0f5e30440cf2]
+## 18D. Content of regulations under section 18B: supplementary provision[^c-fed7a2b195867d4cb21a0f5e30440cf2]
 
 *Extent: E+W+S+N.I.*
 
-(1) Regulations under section 18B may include provision for notices under such regulations to be combined with notices under paragraph 1 of Schedule 23 to the Finance Act 2011 (data-gathering powers)[^key-b32b75ff68995fb4f5831cfb39afe740].
+(1) Regulations under section 18B may include provision for notices under such regulations to be combined with notices under paragraph 1 of Schedule 23 to the Finance Act 2011 (data-gathering powers)[^c-b32b75ff68995fb4f5831cfb39afe740].
 
 (2) Regulations under section 18B may include provision about the time at or within which, and the manner in which, any requirement imposed by such regulations is to be complied with.
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fed7a2b195867d4cb21a0f5e30440cf2]: Textual amendment: Ss. 18B-18E inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 103](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/103) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-fed7a2b195867d4cb21a0f5e30440cf2]: Textual amendment: Ss. 18B-18E inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 103](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/103) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-b32b75ff68995fb4f5831cfb39afe740]: Textual amendment: Words in s. 18D(1) substituted (retrospective to 1.4.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 224(6)](https://www.legislation.gov.uk/ukpga/2012/14/section/224/6)
+[^c-b32b75ff68995fb4f5831cfb39afe740]: Textual amendment: Words in s. 18D(1) substituted (retrospective to 1.4.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 224(6)](https://www.legislation.gov.uk/ukpga/2012/14/section/224/6)

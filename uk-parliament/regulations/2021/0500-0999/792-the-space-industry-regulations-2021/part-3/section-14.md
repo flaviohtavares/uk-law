@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Offence of failure to inform regulator of changes: individuals in prescribed roles[^key-94ac7fa2d24e029c8ce1edd142e53a08]
+## 14. Offence of failure to inform regulator of changes: individuals in prescribed roles[^c-94ac7fa2d24e029c8ce1edd142e53a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94ac7fa2d24e029c8ce1edd142e53a08]: Commencement: Reg. 14 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-94ac7fa2d24e029c8ce1edd142e53a08]: Commencement: Reg. 14 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -48,9 +48,9 @@ Coming into force
 
 The Secretary of State has carried out a public consultation in accordance with Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00001].
 
-The Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972[^f00002] and it appears to the Secretary of State that it is expedient for the European Union instruments referred to in these Regulations to be construed as references to those instruments as amended from time to time.[^key-15f03061d02497e4ce3c633e43c3624e]
+The Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972[^f00002] and it appears to the Secretary of State that it is expedient for the European Union instruments referred to in these Regulations to be construed as references to those instruments as amended from time to time.[^c-15f03061d02497e4ce3c633e43c3624e]
 
-The Secretary of State is a Minister designated[^f00003] for the purposes of section 2(2) of the European Communities Act 1972 in relation to the common agricultural policy of the European Union, and makes these Regulations under the powers conferred by that section and by paragraph 1A of Schedule 2 to that Act[^f00004].[^key-15f03061d02497e4ce3c633e43c3624e]
+The Secretary of State is a Minister designated[^f00003] for the purposes of section 2(2) of the European Communities Act 1972 in relation to the common agricultural policy of the European Union, and makes these Regulations under the powers conferred by that section and by paragraph 1A of Schedule 2 to that Act[^f00004].[^c-15f03061d02497e4ce3c633e43c3624e]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,9 +64,9 @@ The Secretary of State is a Minister designated[^f00003] for the purposes of sec
 
 (2) They come into force on 30th December 2011.
 
-(3) In regulation 19, an amendment of an enactment has the same extent as that enactment [^key-48de3d807e906356f9dbf7d939f0f9c9]...
+(3) In regulation 19, an amendment of an enactment has the same extent as that enactment [^c-48de3d807e906356f9dbf7d939f0f9c9]...
 
-(4)[^key-3eed57b58667a98210ba425a066945c8] All the other provisions extend to Great Britain.
+(4)[^c-3eed57b58667a98210ba425a066945c8] All the other provisions extend to Great Britain.
 
 ### 1. Title, commencement and extent[^M_E_e97f53c9-fe34-4352-ab40-e177c1e1b46d]
 
@@ -76,9 +76,9 @@ The Secretary of State is a Minister designated[^f00003] for the purposes of sec
 
 (2) They come into force on 30th December 2011.
 
-(3) In regulation 19, an amendment of an enactment has the same extent as that enactment [^key-48de3d807e906356f9dbf7d939f0f9c9]...
+(3) In regulation 19, an amendment of an enactment has the same extent as that enactment [^c-48de3d807e906356f9dbf7d939f0f9c9]...
 
-(4)[^key-7dc11b02891aff9d842ecd7fd953330b] All the other provisions extend to Northern Ireland.
+(4)[^c-7dc11b02891aff9d842ecd7fd953330b] All the other provisions extend to Northern Ireland.
 
 ### 2. Interpretation[^M_E_f7627d17-c9a2-4821-85b6-5c9f72fd8c8a]
 
@@ -86,19 +86,19 @@ The Secretary of State is a Minister designated[^f00003] for the purposes of sec
 
 (1) In these Regulations—
 
-- (a) references to any of the Regulations listed in the definition of “the[^key-882a852a08e6f2a6a1105b74992bffb8] assimilated[^key-d9739a2ade70f69578f7d08aaf585c90] Regulations” in paragraph (2) are references to those instruments as amended from time to time;
-- (b) terms used in the assimilated[^key-387c4417e7e2ef6bbbac9a085ed1537d] Regulations have the same meaning as in those Regulations.
+- (a) references to any of the Regulations listed in the definition of “the[^c-882a852a08e6f2a6a1105b74992bffb8] assimilated[^c-d9739a2ade70f69578f7d08aaf585c90] Regulations” in paragraph (2) are references to those instruments as amended from time to time;
+- (b) terms used in the assimilated[^c-387c4417e7e2ef6bbbac9a085ed1537d] Regulations have the same meaning as in those Regulations.
 
 (2) In these Regulations—
 
-- “the 1416/2006 prohibition” has the meaning given in regulation 6A(1);[^key-d2f34adb61cef0ec5cbb85be21d3eea5]
-- “the Agency” means—[^key-fdcafb139a442bc67aea6d4b00e56ed5]
-  - (a) in relation to England and Wales[^key-6937fea61aaf584a0d26f53a04d36485], the Food Standards Agency; or
+- “the 1416/2006 prohibition” has the meaning given in regulation 6A(1);[^c-d2f34adb61cef0ec5cbb85be21d3eea5]
+- “the Agency” means—[^c-fdcafb139a442bc67aea6d4b00e56ed5]
+  - (a) in relation to England and Wales[^c-6937fea61aaf584a0d26f53a04d36485], the Food Standards Agency; or
   - (b) in relation to Scotland, Food Standards Scotland,
 - “authorised officer” means a person appointed by an enforcement authority for the purposes of these Regulations,
-- **premises[^key-4daf7467aaf336bde3cba295e3157cb0]**” includes any land or vehicle;
-- “the[^key-56bdef62470688c530b9fccbcdc05480] assimilated[^key-99043d3c50a6c92f27dff209676fba09] Regulations” means—
-  - (a) [^key-c108b401546797ff7d146140f1e010bf]...
+- **premises[^c-4daf7467aaf336bde3cba295e3157cb0]**” includes any land or vehicle;
+- “the[^c-56bdef62470688c530b9fccbcdc05480] assimilated[^c-99043d3c50a6c92f27dff209676fba09] Regulations” means—
+  - (a) [^c-c108b401546797ff7d146140f1e010bf]...
   - (b) the provisions of Regulation (EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products (“Regulation (EU) 2013”),
   - (c) Regulation (EU) No 251/2014 of the European Parliament and of the Council on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products,
   - (d) Commission Delegated Regulation (EU) 2017/670 supplementing Regulation (EU) No 251/2014 of the European Parliament and of the Council as regards the authorised production processes for obtaining aromatised wine products[^f00008],
@@ -106,10 +106,10 @@ The Secretary of State is a Minister designated[^f00003] for the purposes of sec
   - (f) Commission Implementing Regulation (EU) 2018/274 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the scheme of authorisations for vine plantings, certification, the inward and outward register, compulsory declarations and notifications, and of Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards the relevant checks[^f00010] (“Commission Implementing Regulation (EU) 2018/274”),
   - (g) Commission Delegated Regulation (EU) 2019/33 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards applications for protection of designations of origin, geographical indications and traditional terms in the wine sector, the objection procedure, restrictions of use, amendments to product specifications, cancellation of protection, and labelling and presentation[^f00011],
   - (h) Commission Implementing Regulation (EU) 2019/34 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards applications for protection of designations of origin, geographical indications and traditional terms in the wine sector, the objection procedure, amendments to product specifications, the register of protected names, cancellation of protection and use of symbols, and of Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards an appropriate system of checks;
-  - (i) Commission Delegated Regulation (EU) 2019/934 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards wine-growing areas where the alcoholic strength may be increased, authorised oenological practices and restrictions applicable to the production and conservation of grapevine products, the minimum percentage of alcohol for by-products and their disposal, and publication of OIV files;[^key-372d3c8223c19374ee5db7cd13bacc36]
+  - (i) Commission Delegated Regulation (EU) 2019/934 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards wine-growing areas where the alcoholic strength may be increased, authorised oenological practices and restrictions applicable to the production and conservation of grapevine products, the minimum percentage of alcohol for by-products and their disposal, and publication of OIV files;[^c-372d3c8223c19374ee5db7cd13bacc36]
   - (j) Commission Implementing Regulation (EU) 2019/935 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards analysis methods for determining the physical, chemical and organoleptic characteristics of grapevine products and notifications of Member States decisions concerning increases in natural alcoholic strength;
-- [^key-7c6349b5e3fe80f678fad8e5270a08d6]... and
-- “wine sector product” means a product mentioned in Part II of Annex[^key-33d12b1603b7c4df25a2465144c20931] VII to Regulation (EU) 2013.
+- [^c-7c6349b5e3fe80f678fad8e5270a08d6]... and
+- “wine sector product” means a product mentioned in Part II of Annex[^c-33d12b1603b7c4df25a2465144c20931] VII to Regulation (EU) 2013.
 
 ### 2. Interpretation[^M_E_ddb9c1e9-1f83-428e-8671-eae2510eebfe]
 
@@ -123,7 +123,7 @@ The Secretary of State is a Minister designated[^f00003] for the purposes of sec
 (2) In these Regulations—
 
 - “the 1416/2006 prohibition” has the meaning given in regulation 6A(1);[^V_NI_2d4808b4-6edf-7e34-9b3b-7240984a7dc7]
-- “[^key-1dea048edbdd3ee55578b0f4f8c3a264]**the Agency**” means the Food Standards Agency;
+- “[^c-1dea048edbdd3ee55578b0f4f8c3a264]**the Agency**” means the Food Standards Agency;
 - “authorised officer” means a person appointed by an enforcement authority for the purposes of these Regulations,
 - “the European Regulations” means—[^V_NI_f76cdd09-8077-d437-3ee6-7413ec75545a]
   - (a) [^V_NI_1aef1328-b5bd-d54c-bbed-c98586b083c7]...
@@ -143,29 +143,29 @@ The Secretary of State is a Minister designated[^f00003] for the purposes of sec
 
 *Extent: E+W+S*
 
-(1)[^key-a9b3941370138eacbd150a3b7d403da4] The local authority enforces the assimilated[^key-944794195ae6023158899ad39d7c93f1] Regulations and the 1416/2006 prohibition in relation to retail sale.
+(1)[^c-a9b3941370138eacbd150a3b7d403da4] The local authority enforces the assimilated[^c-944794195ae6023158899ad39d7c93f1] Regulations and the 1416/2006 prohibition in relation to retail sale.
 
-(2) The Secretary of State, general customs officials and the [^key-315274d5055310bb9c734037bb6739c8]... Agency enforce them in relation to import and export.
+(2) The Secretary of State, general customs officials and the [^c-315274d5055310bb9c734037bb6739c8]... Agency enforce them in relation to import and export.
 
 (3) In relation to Scotland, the reference in paragraph (2) to “The Secretary of State” is to be read as a reference to “The Scottish Ministers”.
 
-(4)[^key-bdc8637008efc9b5abf294a244187c7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-bdc8637008efc9b5abf294a244187c7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Otherwise the [^key-c38f0677e436567d578ca2b86b8bea40]... Agency or the Secretary of State enforce these Regulations and the assimilated[^key-cc8a26ee532a04b6b965e44eda6e1397] Regulations.
+(5) Otherwise the [^c-c38f0677e436567d578ca2b86b8bea40]... Agency or the Secretary of State enforce these Regulations and the assimilated[^c-cc8a26ee532a04b6b965e44eda6e1397] Regulations.
 
 (6) In relation to Scotland, the reference in paragraph (5) to “the Secretary of State” is to be read as a reference to “the Scottish Ministers”.
 
 (7) Each of these is referred to as “an enforcement authority”.
 
-(8)[^key-129f32017b21f6d9f13909b47408f306] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-129f32017b21f6d9f13909b47408f306] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-(8A)[^key-b9688234d9298d72c2abf037f656ad64] The Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
+(8A)[^c-b9688234d9298d72c2abf037f656ad64] The Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under these Regulations.
 
 (9) Nothing in these Regulations authorises an enforcement authority to bring proceedings in Scotland for an offence.
 
-(10)[^key-09b6949727752d33f30b9d996a2b5bfa] In this regulation—
+(10)[^c-09b6949727752d33f30b9d996a2b5bfa] In this regulation—
 
 - (a) “**general customs official**” means a general customs official designated under section 3(1) of the Borders, Citizenship and Immigration Act 2009;
 - (b) “**local authority**” means an authority (other than the council of a non-metropolitan district) that is a food authority for the purposes of the Food Safety Act 1990.
@@ -174,25 +174,25 @@ The Secretary of State is a Minister designated[^f00003] for the purposes of sec
 
 *Extent: N.I.*
 
-(1)[^key-22666726c1f94f6f02d6664523de3140] The local authority enforces the European Regulations and the 1416/2006 prohibition in relation to retail sale.
+(1)[^c-22666726c1f94f6f02d6664523de3140] The local authority enforces the European Regulations and the 1416/2006 prohibition in relation to retail sale.
 
-(2) The Department of Agriculture, Environment and Rural Affairs[^key-c98f47227bb3da14544025f80cc7cf61], general customs officials and the [^V_NI_fabd4d6e-e598-528a-93cb-f375b19d3bf9]... Agency enforce them in relation to import and export.
+(2) The Department of Agriculture, Environment and Rural Affairs[^c-c98f47227bb3da14544025f80cc7cf61], general customs officials and the [^V_NI_fabd4d6e-e598-528a-93cb-f375b19d3bf9]... Agency enforce them in relation to import and export.
 
-(3)[^key-b2f81f42c4444e872cdf84b7ca5e9e4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b2f81f42c4444e872cdf84b7ca5e9e4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-51c3270bfd3f8fa15636f0d29d19c3c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-51c3270bfd3f8fa15636f0d29d19c3c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Otherwise the [^V_NI_fd3267d4-edc6-c1fa-99d9-13351abb2eb2]... Agency or the Secretary of State enforce these Regulations and the European Regulations.
 
-(6)[^key-64b7f7e2e57553f86d7d09d5841a95dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-64b7f7e2e57553f86d7d09d5841a95dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Each of these is referred to as “an enforcement authority”.
 
-(8)[^key-dd804146e5aa4064f8e476074e0742b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-dd804146e5aa4064f8e476074e0742b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-e96d2af49c992b36226f1ffd351f61cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-e96d2af49c992b36226f1ffd351f61cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-70b8c184c641f72e7143f340c731ba28] In this regulation—
+(10)[^c-70b8c184c641f72e7143f340c731ba28] In this regulation—
 
 - (a) “**general customs official**” means a general customs official designated under section 3(1) of the Borders, Citizenship and Immigration Act 2009;
 - (b) “**local authority**” means a district council within the meaning of the Interpretation Act (Northern Ireland) 1954.
@@ -201,27 +201,27 @@ The Secretary of State is a Minister designated[^f00003] for the purposes of sec
 
 *Extent: E+W+S*
 
-(1) In respect of Great Britain,[^key-63bb1fa94f5afc8a7f957e28d43dde98] the Secretary of State is the competent authority for [^key-def4548ebfb28fc4dbcf3c0f9ec9abdf]... the assimilated[^key-124ff5f39fc9a83a0cdae945fb257255] Regulations and the 1416/2006 prohibition[^key-cda183655e0847dc469dc59cb3c01fa1].
+(1) In respect of Great Britain,[^c-63bb1fa94f5afc8a7f957e28d43dde98] the Secretary of State is the competent authority for [^c-def4548ebfb28fc4dbcf3c0f9ec9abdf]... the assimilated[^c-124ff5f39fc9a83a0cdae945fb257255] Regulations and the 1416/2006 prohibition[^c-cda183655e0847dc469dc59cb3c01fa1].
 
 (2) But—
 
-- (a) the [^key-900b8eda9d1681670860ebbbb6d819ee]... Agency is the competent authority for the purposes of—
-  - (i) the reception of any information or declarations that must be submitted to the competent authority [^key-e814c3a368c8d663f8c19970abbe571a]... under the assimilated[^key-a984df5d96ea231ad9d27a6027f48d58] Regulations,
-  - (ii) Article 146(1) of Regulation ([^key-afcc9f6bc6a209ebaaf61055d3c7490b]EU) 2013, [^key-04a59ba341365ac41eba77acf2dfb331]...
-  - (iii)[^key-1697b8620145230af43d5172db54d788] Article 12 of Commission Implementing Regulation (EU) 2018/274; and
-  - (iv)[^key-a560611bd040051cad0887454ce0c213] Article 19 of Commission Regulation (EU) 2018/273.
-- (b)[^key-b014c403fa117f3f7ff2627cba80f82c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the [^c-900b8eda9d1681670860ebbbb6d819ee]... Agency is the competent authority for the purposes of—
+  - (i) the reception of any information or declarations that must be submitted to the competent authority [^c-e814c3a368c8d663f8c19970abbe571a]... under the assimilated[^c-a984df5d96ea231ad9d27a6027f48d58] Regulations,
+  - (ii) Article 146(1) of Regulation ([^c-afcc9f6bc6a209ebaaf61055d3c7490b]EU) 2013, [^c-04a59ba341365ac41eba77acf2dfb331]...
+  - (iii)[^c-1697b8620145230af43d5172db54d788] Article 12 of Commission Implementing Regulation (EU) 2018/274; and
+  - (iv)[^c-a560611bd040051cad0887454ce0c213] Article 19 of Commission Regulation (EU) 2018/273.
+- (b)[^c-b014c403fa117f3f7ff2627cba80f82c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In relation to Scotland——
 
 - (a) the reference in paragraph (1) to “The Secretary of State” is to be read, in relation to the competent authority, as a reference to “The Scottish Ministers”; and
-- (b)[^key-08c182221b7687819b7803db415372c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-08c182221b7687819b7803db415372c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 4. The competent authority[^M_E_76e26132-3a67-4f54-f054-cb9699999a49]
 
 *Extent: N.I.*
 
-(1) In respect of Northern Ireland,[^key-4f36c4c02f7a38ed5b4b724599bd7f1a] the Secretary of State is the competent authority for, and acts as if a[^key-317b908e25c198a0af78477f3064243f] Member State for, the European Regulations and the 1416/2006 prohibition[^V_NI_c1681866-5e52-3149-1698-b4a770defaf9].
+(1) In respect of Northern Ireland,[^c-4f36c4c02f7a38ed5b4b724599bd7f1a] the Secretary of State is the competent authority for, and acts as if a[^c-317b908e25c198a0af78477f3064243f] Member State for, the European Regulations and the 1416/2006 prohibition[^V_NI_c1681866-5e52-3149-1698-b4a770defaf9].
 
 (2) But—
 
@@ -232,25 +232,25 @@ The Secretary of State is a Minister designated[^f00003] for the purposes of sec
   - (iv)[^V_NI_c6665d44-f87a-3a30-7587-4477d72b582d] Article 19 of Commission Regulation (EU) 2018/273.
 - (b) the Commissioners for Her Majesty’s Revenue and Customs are the competent authority for the purposes of Article 19 of Commission Implementing Regulation ([^V_NI_4a1f4840-cdc3-745c-1405-477be823902a]EU) 2018/274.
 
-(3)[^key-f2709cc9229ed54481938c334c606be4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f2709cc9229ed54481938c334c606be4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Vineyard information, protected geographical indications and protected designations of origin[^key-7dff7e33fc34606870f42818a2c5b86f]
+## PART 2 — Vineyard information, protected geographical indications and protected designations of origin[^c-7dff7e33fc34606870f42818a2c5b86f]
 
-### 5. Information to be provided about the vineyard[^key-789880df57bf63fa2e5b794978eb0a0f]
+### 5. Information to be provided about the vineyard[^c-789880df57bf63fa2e5b794978eb0a0f]
 
 (1) A person who plants vines of more than 0.1 hectare, or who has increased an existing plantation of vines to one of more than 0.1 hectare, must notify the Agency of the location of the vineyard and the variety or varieties of grape vine planted.
 
 (2) The notification required by paragraph (1) must be given within 6 months of the date of the event which triggered that requirement.
 
-### 6 (Extent: N.I.) (affected by repeal, see note). Protected geographical indications and protected designations of origin (Extent: N.I.) (affected by repeal, see note)[^key-6cd645d6f4d11bfabb34b02db168e42a][^key-6cd645d6f4d11bfabb34b02db168e42a]
+### 6 (Extent: N.I.) (affected by repeal, see note). Protected geographical indications and protected designations of origin (Extent: N.I.) (affected by repeal, see note)[^c-6cd645d6f4d11bfabb34b02db168e42a][^c-6cd645d6f4d11bfabb34b02db168e42a]
 
-(1 (Extent: N.I.) (affected by repeal, see note))[^key-6cd645d6f4d11bfabb34b02db168e42a] Schedule 1 (protected geographical indications) has effect. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-6cd645d6f4d11bfabb34b02db168e42a]
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-6cd645d6f4d11bfabb34b02db168e42a] Schedule 1 (protected geographical indications) has effect. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-6cd645d6f4d11bfabb34b02db168e42a]
 
-(2 (Extent: N.I.) (affected by repeal, see note))[^key-6cd645d6f4d11bfabb34b02db168e42a] Schedule 2 (protected designations of origin) has effect. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-6cd645d6f4d11bfabb34b02db168e42a]
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-6cd645d6f4d11bfabb34b02db168e42a] Schedule 2 (protected designations of origin) has effect. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-6cd645d6f4d11bfabb34b02db168e42a]
 
 ## PART 3 — Enforcement
 
-### 6A. The 1416/2006 prohibition[^key-72408108a5a8a2645246d54c08bb0568]
+### 6A. The 1416/2006 prohibition[^c-72408108a5a8a2645246d54c08bb0568]
 
 (1) In these Regulations, “the 1416/2006 prohibition” means the prohibition contained in the first sentence of Article 1 of Regulation [(EC) No 1416/2006](https://www.legislation.gov.uk/european/regulation/2006/1416) (prohibiting the use of a US name of origin listed in the Annex to that Regulation for a wine unless it is used to designate a wine of the origin indicated by such name) as read with paragraph (2).
 
@@ -265,7 +265,7 @@ The Secretary of State is a Minister designated[^f00003] for the purposes of sec
 
 *Extent: E+W+S*
 
-(1) The Commissioners for Her Majesty’s Revenue and Customs may disclose any information in their possession to the Secretary of State or the [^key-32ed4ef2dff382cd198e73db91912298]... Agency for the purposes of the assimilated[^key-0fe0b7fd3bdc144a14af8a96c4778d60] Regulations or these Regulations.
+(1) The Commissioners for Her Majesty’s Revenue and Customs may disclose any information in their possession to the Secretary of State or the [^c-32ed4ef2dff382cd198e73db91912298]... Agency for the purposes of the assimilated[^c-0fe0b7fd3bdc144a14af8a96c4778d60] Regulations or these Regulations.
 
 (2) Paragraph (1) is without prejudice to any other power of the Commissioners to disclose information.
 
@@ -281,7 +281,7 @@ The Secretary of State is a Minister designated[^f00003] for the purposes of sec
 
 *Extent: E+W+S*
 
-(1) An authorised officer may, on producing a duly authenticated authorisation if required, at any reasonable time enter any premises (except those used wholly or mainly as a private dwellinghouse) for the purpose of executing or enforcing the assimilated[^key-9f4b50455a98ed751dce36939c38354a] Regulations , the 1416/2006 prohibition[^key-3b7248733d0fb43f9ddf74365cbb8cc9] or these Regulations.
+(1) An authorised officer may, on producing a duly authenticated authorisation if required, at any reasonable time enter any premises (except those used wholly or mainly as a private dwellinghouse) for the purpose of executing or enforcing the assimilated[^c-9f4b50455a98ed751dce36939c38354a] Regulations , the 1416/2006 prohibition[^c-3b7248733d0fb43f9ddf74365cbb8cc9] or these Regulations.
 
 (2) An authorised officer who has entered premises, whether under paragraph (1) or under the authority of a warrant under regulation 9, may—
 
@@ -294,7 +294,7 @@ The Secretary of State is a Minister designated[^f00003] for the purposes of sec
 
 (3) An authorised officer who has procured a sample of any wine sector product or of anything which may be used in the preparation of such a product may analyse or examine that sample or have that sample analysed or examined.
 
-(4)[^key-19ae2919292b413537ed1b88e99f431b] An authorised officer entering any premises by virtue of this regulation or regulation 9 may be accompanied by such other person as the officer considers necessary.
+(4)[^c-19ae2919292b413537ed1b88e99f431b] An authorised officer entering any premises by virtue of this regulation or regulation 9 may be accompanied by such other person as the officer considers necessary.
 
 ### 8. Powers of authorised officers[^M_E_d4bdd622-e263-4b54-b256-0944f5bd99ce]
 
@@ -313,18 +313,18 @@ The Secretary of State is a Minister designated[^f00003] for the purposes of sec
 
 (3) An authorised officer who has procured a sample of any wine sector product or of anything which may be used in the preparation of such a product may analyse or examine that sample or have that sample analysed or examined.
 
-(4)[^key-a684125223a9309b58fc6a20ccfb65de] An authorised officer entering any premises by virtue of this regulation or regulation 9 may be accompanied by such other person as the officer considers necessary.
+(4)[^c-a684125223a9309b58fc6a20ccfb65de] An authorised officer entering any premises by virtue of this regulation or regulation 9 may be accompanied by such other person as the officer considers necessary.
 
 ### 9. Warrant[^M_E_9d60b7f8-5c73-4a9a-e91d-f36e96f7cf67]
 
 *Extent: E+W+S*
 
-(1) If a justice of the peace, on sworn information in writing, or in Scotland by evidence on oath, [^key-7ed95d489bae5b384733328ffd0a57fe]... is satisfied—
+(1) If a justice of the peace, on sworn information in writing, or in Scotland by evidence on oath, [^c-7ed95d489bae5b384733328ffd0a57fe]... is satisfied—
 
-- (a) that there are reasonable grounds to enter any premises for the purposes of executing or enforcing the assimilated[^key-f058fa2190e9d120f5cff96a37764def] Regulations , the 1416/2006 prohibition[^key-f50f0d3cf137321d5a40768721231ef9] or these Regulations; and
+- (a) that there are reasonable grounds to enter any premises for the purposes of executing or enforcing the assimilated[^c-f058fa2190e9d120f5cff96a37764def] Regulations , the 1416/2006 prohibition[^c-f50f0d3cf137321d5a40768721231ef9] or these Regulations; and
 - (b) that any of the conditions in paragraph (2) are met,
 
-the justice may by signed warrant authorise an authorised officer[^key-5c937a38be867d91a4bf713739771d88] to enter the premises, if need be by reasonable force.
+the justice may by signed warrant authorise an authorised officer[^c-5c937a38be867d91a4bf713739771d88] to enter the premises, if need be by reasonable force.
 
 (2) The conditions are that—
 
@@ -337,18 +337,18 @@ the justice may by signed warrant authorise an authorised officer[^key-5c937a38b
 
 (4) An authorised officer entering any premises which are unoccupied or from which the occupier is temporarily absent must leave them as effectively secured against unauthorised entry as they were before entry.
 
-(5)[^key-5250c43ff2de4d923704b9cb27824720] In this regulation, in Scotland, a reference to a justice of the peace includes a sheriff.
+(5)[^c-5250c43ff2de4d923704b9cb27824720] In this regulation, in Scotland, a reference to a justice of the peace includes a sheriff.
 
 ### 9. Warrant[^M_E_b54d1dde-b79c-4715-c8ef-37b154ab9885]
 
 *Extent: N.I.*
 
-(1) If a lay magistrate[^key-daf02836f7031be613bbc4f654c465e2] on a sworn complaint in writing, is satisfied—
+(1) If a lay magistrate[^c-daf02836f7031be613bbc4f654c465e2] on a sworn complaint in writing, is satisfied—
 
 - (a) that there are reasonable grounds to enter any premises for the purposes of executing or enforcing the European Regulations , the 1416/2006 prohibition[^V_NI_8498ca22-679c-60c4-af72-ef51d8ae148d] or these Regulations; and
 - (b) that any of the conditions in paragraph (2) are met,
 
-the magistrate[^key-fd3eac0e19e3784c21d1d05daca73787] may by signed warrant authorise an authorised officer[^V_NI_6c806c75-5aea-219e-1212-a3d3b5cbe63c] to enter the premises, if need be by reasonable force.
+the magistrate[^c-fd3eac0e19e3784c21d1d05daca73787] may by signed warrant authorise an authorised officer[^V_NI_6c806c75-5aea-219e-1212-a3d3b5cbe63c] to enter the premises, if need be by reasonable force.
 
 (2) The conditions are that—
 
@@ -361,17 +361,17 @@ the magistrate[^key-fd3eac0e19e3784c21d1d05daca73787] may by signed warrant auth
 
 (4) An authorised officer entering any premises which are unoccupied or from which the occupier is temporarily absent must leave them as effectively secured against unauthorised entry as they were before entry.
 
-(5)[^key-79527e05c3eb152317e986af0c68f468] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-79527e05c3eb152317e986af0c68f468] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 10. Warning notices[^M_E_5fb8e4f7-c8b9-435a-c060-68b72f006a6e]
 
 *Extent: E+W+S*
 
-(1) An authorised officer who believes that a person has contravened any provision of the assimilated[^key-32ce6c8292de048682e1d930590becee] Regulations or the 1416/2006 prohibition[^key-db61c9c687c21b72c0e76e8ed79cd6bf] may serve a notice under this regulation on the person (a “warning notice”).
+(1) An authorised officer who believes that a person has contravened any provision of the assimilated[^c-32ce6c8292de048682e1d930590becee] Regulations or the 1416/2006 prohibition[^c-db61c9c687c21b72c0e76e8ed79cd6bf] may serve a notice under this regulation on the person (a “warning notice”).
 
 (2) A warning notice must—
 
-- (a) state the provision of the assimilated[^key-8616659513f5cb30659b14db878c1319] Regulations that the officer believes has been breached or, if relevant, state that the officer believes that the 1416/2006 prohibition has been contravened[^key-7ccf02bd384da03b87a0a216882896f3];
+- (a) state the provision of the assimilated[^c-8616659513f5cb30659b14db878c1319] Regulations that the officer believes has been breached or, if relevant, state that the officer believes that the 1416/2006 prohibition has been contravened[^c-7ccf02bd384da03b87a0a216882896f3];
 - (b) notify the person that any future breach of that provision by them may render the person liable to prosecution; and
 - (c) give details of the right of appeal against the notice.
 
@@ -395,9 +395,9 @@ the magistrate[^key-fd3eac0e19e3784c21d1d05daca73787] may by signed warrant auth
 
 (2) An authorised officer may serve an enforcement notice on a person if the officer is of the opinion that the person—
 
-- (a) has contravened regulation 5; [^key-79f8816e00e87b2dcc65a7f3f542b8c6]...
-- (b) has contravened, is contravening or is likely to contravene any provision of the assimilated[^key-6b8ccabe93f3e4ff6577ff99e0901cd1] Regulations ; or[^key-1e9f28f1221a5b331810b75bb6e7f7f7]
-- (c)[^key-f08d30e811db54aa4b2cb50ba8c56e09] has contravened the 1416/2006 prohibition.
+- (a) has contravened regulation 5; [^c-79f8816e00e87b2dcc65a7f3f542b8c6]...
+- (b) has contravened, is contravening or is likely to contravene any provision of the assimilated[^c-6b8ccabe93f3e4ff6577ff99e0901cd1] Regulations ; or[^c-1e9f28f1221a5b331810b75bb6e7f7f7]
+- (c)[^c-f08d30e811db54aa4b2cb50ba8c56e09] has contravened the 1416/2006 prohibition.
 
 (3) An enforcement notice must—
 
@@ -433,7 +433,7 @@ the magistrate[^key-fd3eac0e19e3784c21d1d05daca73787] may by signed warrant auth
 
 (1) A prohibition notice is a notice prohibiting the movement, marketing or export of a wine sector product.
 
-(2) An authorised officer may serve a prohibition notice on a person who appears to be in control of a wine sector product if the officer is of the opinion that there has been or may have been a contravention of any provision of the assimilated[^key-0dae9703f6569448155d05f4dc017012] Regulations or the 1416/2006 prohibition[^key-24b4280ae4d8108b6bc6596a3aad645c] in relation to the product.
+(2) An authorised officer may serve a prohibition notice on a person who appears to be in control of a wine sector product if the officer is of the opinion that there has been or may have been a contravention of any provision of the assimilated[^c-0dae9703f6569448155d05f4dc017012] Regulations or the 1416/2006 prohibition[^c-24b4280ae4d8108b6bc6596a3aad645c] in relation to the product.
 
 (3) A prohibition notice must give details of the right of appeal against the notice.
 
@@ -455,7 +455,7 @@ the magistrate[^key-fd3eac0e19e3784c21d1d05daca73787] may by signed warrant auth
 
 (1) A person who is aggrieved by a notice served under these Regulations may appeal against it.
 
-(2) The right of appeal is to a person nominated by the [^key-5f45f222bb568f3ae7befbfd72525030]... Agency.
+(2) The right of appeal is to a person nominated by the [^c-5f45f222bb568f3ae7befbfd72525030]... Agency.
 
 (3) An appeal must be brought within the period of 28 days beginning with the date on which the notice is served.
 
@@ -473,25 +473,25 @@ the magistrate[^key-fd3eac0e19e3784c21d1d05daca73787] may by signed warrant auth
 
 *Extent: E+W+S*
 
-(1) A person who breaches any of the following provisions of the assimilated[^key-584f1ed97328008204d7d8859638c496] Regulations is guilty of an offence—
+(1) A person who breaches any of the following provisions of the assimilated[^c-584f1ed97328008204d7d8859638c496] Regulations is guilty of an offence—
 
-- (a) Article 103(2) of Regulation ([^key-742c236aa4863309d984f5fa50e172d4]EU) 2013 (which provides protection for protected designations of origin and protected geographical indications and the wines using those protected names in conformity with the product specification);
-- (b) the first sub-paragraph of Article 113(1) of Regulation ([^key-1cff756a445c703b8ac0f5e37343f8df]EU) 2013 (which protects the use of traditional terms for products produced in accordance with Article 112);
-- (c) Article 80(1), third sub-paragraph, of Regulation ([^key-7bc6ba3b636b8cf5f7966947093ce811]EU) 2013 (which requires that wine sector products are produced and conserved in accordance with EU laws);
-- (d) Article 90(2) of Regulation ([^key-6fdfdd34e863438e59ec3152969f8c74]EU) 2013 (which concerns the production requirements for wine imported into the EU);
-- (e)[^key-f2e420371385b8f1b3ebabdd9f5ec9b5] Article 29 of Commission Regulation (EU) 2018/273 (which requires operations to be recorded in the register).
+- (a) Article 103(2) of Regulation ([^c-742c236aa4863309d984f5fa50e172d4]EU) 2013 (which provides protection for protected designations of origin and protected geographical indications and the wines using those protected names in conformity with the product specification);
+- (b) the first sub-paragraph of Article 113(1) of Regulation ([^c-1cff756a445c703b8ac0f5e37343f8df]EU) 2013 (which protects the use of traditional terms for products produced in accordance with Article 112);
+- (c) Article 80(1), third sub-paragraph, of Regulation ([^c-7bc6ba3b636b8cf5f7966947093ce811]EU) 2013 (which requires that wine sector products are produced and conserved in accordance with EU laws);
+- (d) Article 90(2) of Regulation ([^c-6fdfdd34e863438e59ec3152969f8c74]EU) 2013 (which concerns the production requirements for wine imported into the EU);
+- (e)[^c-f2e420371385b8f1b3ebabdd9f5ec9b5] Article 29 of Commission Regulation (EU) 2018/273 (which requires operations to be recorded in the register).
 
-(1A)[^key-4f4233176fabd51ffe4618d7af59f29e] Any person who contravenes the 1416/2006 prohibition is guilty of an offence.
+(1A)[^c-4f4233176fabd51ffe4618d7af59f29e] Any person who contravenes the 1416/2006 prohibition is guilty of an offence.
 
 (2) It is an offence for a person to—
 
 - (a) fail to comply with an enforcement notice or a prohibition notice;
-- (b) fail to comply with a provision of the assimilated[^key-072c65657e185be3c5b09a2bff27f0df] Regulations at any time after that person has received a warning notice in respect of that provision.
+- (b) fail to comply with a provision of the assimilated[^c-072c65657e185be3c5b09a2bff27f0df] Regulations at any time after that person has received a warning notice in respect of that provision.
 
 (3) It is an offence—
 
-- (a) intentionally to obstruct an authorised officer acting in the execution of these Regulations or of the assimilated[^key-e8574fa03d50b2d3be8c8a455b03337d] Regulations (including obstruction by the alteration or removal of a mark made under regulation 12(4));
-- (aa)[^key-71d4e569bf7d66baa62ddcc45404b281] intentionally to obstruct an authorised officer acting in the enforcement of the 1416/2006 prohibition;
+- (a) intentionally to obstruct an authorised officer acting in the execution of these Regulations or of the assimilated[^c-e8574fa03d50b2d3be8c8a455b03337d] Regulations (including obstruction by the alteration or removal of a mark made under regulation 12(4));
+- (aa)[^c-71d4e569bf7d66baa62ddcc45404b281] intentionally to obstruct an authorised officer acting in the enforcement of the 1416/2006 prohibition;
 - (b) without reasonable cause, to fail to give to any such officer any assistance or information which that officer may reasonably require;
 - (c) to furnish to any such officer any information knowing it to be false or misleading; or
 - (d) to fail to produce a document, record or passport to any such officer when required to do so.
@@ -559,9 +559,9 @@ A person guilty of an offence under these Regulations is liable—
 (2) For the purposes of such proceedings the following apply as if the partnership or unincorporated association were a body corporate—
 
 - (a) rules of court relating to the service of documents;
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-9b68a50b530477b1216d19c45d34937b] section 33 of the Criminal Justice Act 1925 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-9b68a50b530477b1216d19c45d34937b][^f00015] and Schedule 3 to the Magistrates’ Court Act 1980 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-9b68a50b530477b1216d19c45d34937b][^f00016]; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-9b68a50b530477b1216d19c45d34937b]
-- (c (Extent: N.I.) (affected by repeal, see note))[^key-9b68a50b530477b1216d19c45d34937b] section 70 and section 143 of the Criminal Procedure (Scotland) Act 1995 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-9b68a50b530477b1216d19c45d34937b][^f00017]; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-9b68a50b530477b1216d19c45d34937b]
-- (d (Extent: E+W+S) (affected by repeal, see note))[^key-29504538c9c105474fd8db0313f819d9] section 18 of the Criminal Justice Act (Northern Ireland) 1945 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-29504538c9c105474fd8db0313f819d9][^f00018] and Schedule 4 to the Magistrates’ Courts (Northern Ireland) Order 1981 *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-29504538c9c105474fd8db0313f819d9][^f00019]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-29504538c9c105474fd8db0313f819d9]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-9b68a50b530477b1216d19c45d34937b] section 33 of the Criminal Justice Act 1925 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-9b68a50b530477b1216d19c45d34937b][^f00015] and Schedule 3 to the Magistrates’ Court Act 1980 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-9b68a50b530477b1216d19c45d34937b][^f00016]; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-9b68a50b530477b1216d19c45d34937b]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-9b68a50b530477b1216d19c45d34937b] section 70 and section 143 of the Criminal Procedure (Scotland) Act 1995 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-9b68a50b530477b1216d19c45d34937b][^f00017]; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-9b68a50b530477b1216d19c45d34937b]
+- (d (Extent: E+W+S) (affected by repeal, see note))[^c-29504538c9c105474fd8db0313f819d9] section 18 of the Criminal Justice Act (Northern Ireland) 1945 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-29504538c9c105474fd8db0313f819d9][^f00018] and Schedule 4 to the Magistrates’ Courts (Northern Ireland) Order 1981 *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-29504538c9c105474fd8db0313f819d9][^f00019]. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-29504538c9c105474fd8db0313f819d9]
 
 (3) A fine imposed on a partnership or unincorporated association is to be paid out of the funds of the partnership or association.
 
@@ -587,7 +587,7 @@ that person, as well as the body corporate, is guilty of the offence.
 - (a) an officer of the association or a member of its governing body; or
 - (b) a person purporting to act in that capacity.
 
-### 17A. Transitional provision: the Trade and Cooperation Agreement[^key-4256463215bbab924e09d778fa7ab281]
+### 17A. Transitional provision: the Trade and Cooperation Agreement[^c-4256463215bbab924e09d778fa7ab281]
 
 *Extent: E+W+S*
 
@@ -647,7 +647,7 @@ that person, as well as the body corporate, is guilty of the offence.
   - (iii) for the entry in the third row (sparkling wine), substitute “as those wines are defined (respectively) in points 4, 5, 6, 7, 8 and 9 of Annex XIb to Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products”, and
   - (iv) for the entry in the fourth row (liqueur wine), substitute “liqueur wine as defined in point 3 of Annex XIb to Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products”.
 
-(3)[^key-2ea30af0dd13a801727971dde4a4c4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2ea30af0dd13a801727971dde4a4c4d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Food Labelling Regulations (Northern Ireland)1996[^f00025] are amended as follows—
 
@@ -681,7 +681,7 @@ that person, as well as the body corporate, is guilty of the offence.
 - (d) in regulation 43(1) and (2), for each occurrence of “wine as defined in Annex I to [Council Regulation (EEC) No 822/87](https://www.legislation.gov.uk/european/regulation/1987/0822)”, substitute “wine within the meaning given in point 1 of Annex XIb to Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products”; and
 - (e) in the second column (ingredients) of the table in Schedule 3, for the entry in the last row (wine), substitute “any type of wine defined in Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products”.
 
-### 20. Revocations[^key-f57015879c76895c090e7f1989e2f44f]
+### 20. Revocations[^c-f57015879c76895c090e7f1989e2f44f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -693,151 +693,151 @@ Department for Environment, Food and Rural Affairs
 
 *Extent: E+W+S+N.I.*
 
-## SCHEDULE 1 (Extent: N.I.) (affected by repeal, see note) — Protected geographical indications (Extent: N.I.) (affected by repeal, see note)[^key-d65b77624c30c0404827519262f88159][^key-d65b77624c30c0404827519262f88159]
+## SCHEDULE 1 (Extent: N.I.) (affected by repeal, see note) — Protected geographical indications (Extent: N.I.) (affected by repeal, see note)[^c-d65b77624c30c0404827519262f88159][^c-d65b77624c30c0404827519262f88159]
 
-Regulation 6(1) *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
+Regulation 6(1) *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
 
-### 1 (Extent: N.I.) (affected by repeal, see note). Introductory (Extent: N.I.) (affected by repeal, see note)[^key-d65b77624c30c0404827519262f88159][^key-d65b77624c30c0404827519262f88159]
+### 1 (Extent: N.I.) (affected by repeal, see note). Introductory (Extent: N.I.) (affected by repeal, see note)[^c-d65b77624c30c0404827519262f88159][^c-d65b77624c30c0404827519262f88159]
 
-This Schedule sets out the names, geographical areas and applicable requirements for the purposes of *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] Article 94(2)(h) of Regulation ([^key-439cf72a6ce6bc48c5441afe838909e0] *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]EU *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]) 2013 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] for the protected geographical indications “English Regional” and “Welsh Regional”. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
+This Schedule sets out the names, geographical areas and applicable requirements for the purposes of *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] Article 94(2)(h) of Regulation ([^c-439cf72a6ce6bc48c5441afe838909e0] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]EU *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]) 2013 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] for the protected geographical indications “English Regional” and “Welsh Regional”. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
 
-### 2 (Extent: N.I.) (affected by repeal, see note). Names and geographical areas (Extent: N.I.) (affected by repeal, see note)[^key-d65b77624c30c0404827519262f88159][^key-d65b77624c30c0404827519262f88159]
+### 2 (Extent: N.I.) (affected by repeal, see note). Names and geographical areas (Extent: N.I.) (affected by repeal, see note)[^c-d65b77624c30c0404827519262f88159][^c-d65b77624c30c0404827519262f88159]
 
-The geographical area in relation to the protected geographical indication— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
+The geographical area in relation to the protected geographical indication— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
 
-- (a (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] “English Regional” is England; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] “Welsh Regional” is Wales. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] “English Regional” is England; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] “Welsh Regional” is Wales. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
 
-### 3 (Extent: N.I.) (affected by repeal, see note). Applicable requirements for wine other than quality sparkling wine (Extent: N.I.) (affected by repeal, see note)[^key-d65b77624c30c0404827519262f88159][^key-d65b77624c30c0404827519262f88159]
+### 3 (Extent: N.I.) (affected by repeal, see note). Applicable requirements for wine other than quality sparkling wine (Extent: N.I.) (affected by repeal, see note)[^c-d65b77624c30c0404827519262f88159][^c-d65b77624c30c0404827519262f88159]
 
-(1 (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] The applicable requirements for wine other than quality sparkling wine are as follows. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] The applicable requirements for wine other than quality sparkling wine are as follows. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
 
-(2 (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] The wine must come from a batch of wine— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] The wine must come from a batch of wine— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
 
-- (a (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] for which the maximum yield for each hectare of land cultivated with vines for producing the wine was 100 hectolitres; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] that has been organoleptically tested to be free from taints; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
-- (c (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] that meets the standards set out in the following table. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] for which the maximum yield for each hectare of land cultivated with vines for producing the wine was 100 hectolitres; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] that has been organoleptically tested to be free from taints; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] that meets the standards set out in the following table. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
 
-  Standards for wine other than quality sparkling wine ( *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]PGIs *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]) *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
+  Standards for wine other than quality sparkling wine ( *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]PGIs *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]) *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
 
-  | Factor *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | Standard to be met *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
+  | Factor *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | Standard to be met *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
   | --- | --- |
-  | Actual alcoholic strength *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | A minimum of 8.5%. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Total acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | A minimum of 4 grams per litre expressed as tartaric acid. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Volatile acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | In the case of grape must in fermentation, a maximum of 18 milliequivalents per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]<br>In the case of white and rosé wines, 18 milliequivalents per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]<br>In the case of red wine, 20 milliequivalents per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Total sulphur dioxide *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | In the case of wine with more than 45 grams per litre of residual sugar, a maximum of 300 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]<br>In the case of red wine with less than 45 grams per litre but not less than 5 grams per litre of residual sugar, a maximum of 200 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]<br>In the case of white or rosé wine with less than 45 grams per litre but not less than 5 grams per litre of residual sugar, a maximum of 250 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]<br>In the case of red wine with less than 5 grams per litre of residual sugar, a maximum of 150 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]<br>In the case of white or rosé wine with less than 5 grams per litre of residual sugar, a maximum of 200 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Free sulphur dioxide *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | In the case of a dry wine, a maximum of 45 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]<br>In the case of any other wine, a maximum of 60 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Copper *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | A maximum of 0.5 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Iron *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | A maximum of 8 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Sterility *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | There must be no indication of yeasts or bacteria likely to cause spoilage. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Protein stability *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | The wine must remain unchanged in appearance after being held at 70ºC for 15 minutes and subsequently cooled to 20ºC. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
+  | Actual alcoholic strength *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | A minimum of 8.5%. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Total acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | A minimum of 4 grams per litre expressed as tartaric acid. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Volatile acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | In the case of grape must in fermentation, a maximum of 18 milliequivalents per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]<br>In the case of white and rosé wines, 18 milliequivalents per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]<br>In the case of red wine, 20 milliequivalents per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Total sulphur dioxide *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | In the case of wine with more than 45 grams per litre of residual sugar, a maximum of 300 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]<br>In the case of red wine with less than 45 grams per litre but not less than 5 grams per litre of residual sugar, a maximum of 200 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]<br>In the case of white or rosé wine with less than 45 grams per litre but not less than 5 grams per litre of residual sugar, a maximum of 250 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]<br>In the case of red wine with less than 5 grams per litre of residual sugar, a maximum of 150 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]<br>In the case of white or rosé wine with less than 5 grams per litre of residual sugar, a maximum of 200 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Free sulphur dioxide *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | In the case of a dry wine, a maximum of 45 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]<br>In the case of any other wine, a maximum of 60 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Copper *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | A maximum of 0.5 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Iron *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | A maximum of 8 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Sterility *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | There must be no indication of yeasts or bacteria likely to cause spoilage. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Protein stability *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | The wine must remain unchanged in appearance after being held at 70ºC for 15 minutes and subsequently cooled to 20ºC. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
 
-### 4 (Extent: N.I.) (affected by repeal, see note). Applicable requirements for quality sparkling wine (Extent: N.I.) (affected by repeal, see note)[^key-d65b77624c30c0404827519262f88159][^key-d65b77624c30c0404827519262f88159]
+### 4 (Extent: N.I.) (affected by repeal, see note). Applicable requirements for quality sparkling wine (Extent: N.I.) (affected by repeal, see note)[^c-d65b77624c30c0404827519262f88159][^c-d65b77624c30c0404827519262f88159]
 
-(1 (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] The applicable requirements for quality sparkling wine are as follows. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] The applicable requirements for quality sparkling wine are as follows. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
 
-(2 (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] The wine must come from a batch of wine— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] The wine must come from a batch of wine— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
 
-- (a (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] for which the maximum yield for each hectare of land cultivated with vines for producing the wine was 100 hectolitres; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] that— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
-  - (i (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] is produced from cuveés with a total alcoholic strength of 9% or more by volume; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
-  - (ii (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] has been obtained by secondary alcoholic fermentation of fresh grapes, grape must or wine in the bottle; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
-  - (iii (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] has had a minimum of nine months of uninterrupted secondary fermentation, within the same undertaking, on the yeast lees, which has subsequently been removed by disgorgement; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
-  - (iv (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] has been organoleptically tested to be free from taints; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
-- (c (Extent: N.I.) (affected by repeal, see note))[^key-d65b77624c30c0404827519262f88159] that meets the standards set out in the following table. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] for which the maximum yield for each hectare of land cultivated with vines for producing the wine was 100 hectolitres; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] that— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
+  - (i (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] is produced from cuveés with a total alcoholic strength of 9% or more by volume; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
+  - (ii (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] has been obtained by secondary alcoholic fermentation of fresh grapes, grape must or wine in the bottle; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
+  - (iii (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] has had a minimum of nine months of uninterrupted secondary fermentation, within the same undertaking, on the yeast lees, which has subsequently been removed by disgorgement; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
+  - (iv (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] has been organoleptically tested to be free from taints; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-d65b77624c30c0404827519262f88159] that meets the standards set out in the following table. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
 
-  Standards for quality sparkling wine ( *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]PGIs *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]) *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159]
+  Standards for quality sparkling wine ( *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]PGIs *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]) *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159]
 
-  | Factor *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | Standard to be met *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
+  | Factor *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | Standard to be met *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
   | --- | --- |
-  | Natural alcohol *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | A minimum of 6% before enrichment. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Actual alcoholic strength *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | A minimum of 10%. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Total acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | A minimum of 4 grams per litre expressed as tartaric acid. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Volatile acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | A maximum of 18 milliequivalents per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Total sulphur dioxide *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | A maximum of 185 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Copper *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | A maximum of 0.5 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Iron *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | A maximum of 8 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Chill stability *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | There must be no crystal deposits when the wine is held at 2°C for 36 hours. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
-  | Pressure *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] | The wine must be at a pressure of not less than 3.5 bars when measured at 20°C. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-d65b77624c30c0404827519262f88159] |
+  | Natural alcohol *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | A minimum of 6% before enrichment. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Actual alcoholic strength *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | A minimum of 10%. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Total acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | A minimum of 4 grams per litre expressed as tartaric acid. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Volatile acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | A maximum of 18 milliequivalents per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Total sulphur dioxide *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | A maximum of 185 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Copper *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | A maximum of 0.5 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Iron *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | A maximum of 8 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Chill stability *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | There must be no crystal deposits when the wine is held at 2°C for 36 hours. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
+  | Pressure *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] | The wine must be at a pressure of not less than 3.5 bars when measured at 20°C. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-d65b77624c30c0404827519262f88159] |
 
-## SCHEDULE 2 (Extent: N.I.) (affected by repeal, see note) — Protected designations of origin (Extent: N.I.) (affected by repeal, see note)[^key-ed5199abd35d3978d7af2694f6a19812][^key-ed5199abd35d3978d7af2694f6a19812]
+## SCHEDULE 2 (Extent: N.I.) (affected by repeal, see note) — Protected designations of origin (Extent: N.I.) (affected by repeal, see note)[^c-ed5199abd35d3978d7af2694f6a19812][^c-ed5199abd35d3978d7af2694f6a19812]
 
-Regulation 6(2) *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
+Regulation 6(2) *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
 
-### 1 (Extent: N.I.) (affected by repeal, see note). Introductory (Extent: N.I.) (affected by repeal, see note)[^key-ed5199abd35d3978d7af2694f6a19812][^key-ed5199abd35d3978d7af2694f6a19812]
+### 1 (Extent: N.I.) (affected by repeal, see note). Introductory (Extent: N.I.) (affected by repeal, see note)[^c-ed5199abd35d3978d7af2694f6a19812][^c-ed5199abd35d3978d7af2694f6a19812]
 
-This Schedule sets out the names, geographical areas and applicable requirements for the purposes of *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] Article 94(2)(h) of Regulation ([^key-1be8433cbf93a5bb1aef79bcaa3e87fc] *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]EU *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]) 2013 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] for the protected designations of origin, “English” and “Welsh”. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
+This Schedule sets out the names, geographical areas and applicable requirements for the purposes of *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] Article 94(2)(h) of Regulation ([^c-1be8433cbf93a5bb1aef79bcaa3e87fc] *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]EU *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]) 2013 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] for the protected designations of origin, “English” and “Welsh”. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
 
-### 2 (Extent: N.I.) (affected by repeal, see note). Names and geographical areas (Extent: N.I.) (affected by repeal, see note)[^key-ed5199abd35d3978d7af2694f6a19812][^key-ed5199abd35d3978d7af2694f6a19812]
+### 2 (Extent: N.I.) (affected by repeal, see note). Names and geographical areas (Extent: N.I.) (affected by repeal, see note)[^c-ed5199abd35d3978d7af2694f6a19812][^c-ed5199abd35d3978d7af2694f6a19812]
 
-The geographical area in relation to the protected designation of origin— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
+The geographical area in relation to the protected designation of origin— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
 
-- (a (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] “English” (which applies in respect of wine and quality sparkling wine) is England; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] “Welsh” (which applies in respect of wine and quality sparkling wine) is Wales. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] “English” (which applies in respect of wine and quality sparkling wine) is England; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] “Welsh” (which applies in respect of wine and quality sparkling wine) is Wales. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
 
-### 3 (Extent: N.I.) (affected by repeal, see note). Applicable requirements for wine other than quality sparkling wine (Extent: N.I.) (affected by repeal, see note)[^key-ed5199abd35d3978d7af2694f6a19812][^key-ed5199abd35d3978d7af2694f6a19812]
+### 3 (Extent: N.I.) (affected by repeal, see note). Applicable requirements for wine other than quality sparkling wine (Extent: N.I.) (affected by repeal, see note)[^c-ed5199abd35d3978d7af2694f6a19812][^c-ed5199abd35d3978d7af2694f6a19812]
 
-(1 (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] The applicable requirements for wine other than quality sparkling wine are as follows. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] The applicable requirements for wine other than quality sparkling wine are as follows. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
 
-(2 (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] The wine must come from a batch of wine— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] The wine must come from a batch of wine— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
 
-- (a (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] for which the maximum yield for each hectare of land cultivated with vines for producing the wine was 80 hectolitres; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] for which the vines were grown at or below 220 metres above sea level; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-- (c (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] that has been organoleptically tested to be free from taints; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-- (d (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] that meets the standards set out in the following table. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] for which the maximum yield for each hectare of land cultivated with vines for producing the wine was 80 hectolitres; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] for which the vines were grown at or below 220 metres above sea level; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] that has been organoleptically tested to be free from taints; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+- (d (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] that meets the standards set out in the following table. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
 
-  Standards for wine other than quality sparkling wine ( *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]PDOs *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]) *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
+  Standards for wine other than quality sparkling wine ( *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]PDOs *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]) *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
 
-  | Factor *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | Standard to be met *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
+  | Factor *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | Standard to be met *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
   | --- | --- |
-  | Natural alcohol *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | A minimum of 6% before enrichment. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Actual alcoholic strength *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | 8.5% in the case of wine having a natural alcoholic strength of less than 10%. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Total alcoholic strength *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | A minimum of 9%. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Total acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | A minimum of 4 grams per litre expressed as tartaric acid. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Volatile acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | In the case of grape must in fermentation, a maximum of 18 milliequivalents per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]<br>In the case of white and rosé wine, a maximum of 18 milliequivalents per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]<br>In the case of red wine, a maximum of 20 milliequivalents per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Total sulphur dioxide *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | In the case of wine with more than 45 grams per litre of residual sugar, a maximum of 300 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]<br>In the case of red wine with less than 45 grams per litre but not less than 5 grams per litre of residual sugar, a maximum of 200 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]<br>In the case of white or rosé wine with less than 45 grams per litre, but not less than 5 grams per litre of residual sugar, a maximum of 250 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]<br>In the case of red wine with less than 5 grams per litre of residual sugar, a maximum of 150 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]<br>In the case of white or rosé wine with less than 5 grams per litre of residual sugar, a maximum of 200 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Free sulphur dioxide *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | In the case of a dry wine, a maximum of 45milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]<br>In the case of any other wine, a maximum of 60 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Copper *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | A maximum of 0.5 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Iron *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | A maximum of 8 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Sterility *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | There must be no indication of yeasts or bacteria likely to cause spoilage. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Protein stability *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | The wine must remain unchanged in appearance after being held at 70°C for 15 minutes and subsequently cooled to 20°C. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
+  | Natural alcohol *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | A minimum of 6% before enrichment. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Actual alcoholic strength *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | 8.5% in the case of wine having a natural alcoholic strength of less than 10%. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Total alcoholic strength *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | A minimum of 9%. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Total acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | A minimum of 4 grams per litre expressed as tartaric acid. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Volatile acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | In the case of grape must in fermentation, a maximum of 18 milliequivalents per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]<br>In the case of white and rosé wine, a maximum of 18 milliequivalents per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]<br>In the case of red wine, a maximum of 20 milliequivalents per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Total sulphur dioxide *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | In the case of wine with more than 45 grams per litre of residual sugar, a maximum of 300 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]<br>In the case of red wine with less than 45 grams per litre but not less than 5 grams per litre of residual sugar, a maximum of 200 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]<br>In the case of white or rosé wine with less than 45 grams per litre, but not less than 5 grams per litre of residual sugar, a maximum of 250 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]<br>In the case of red wine with less than 5 grams per litre of residual sugar, a maximum of 150 milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]<br>In the case of white or rosé wine with less than 5 grams per litre of residual sugar, a maximum of 200 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Free sulphur dioxide *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | In the case of a dry wine, a maximum of 45milligrams per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]<br>In the case of any other wine, a maximum of 60 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Copper *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | A maximum of 0.5 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Iron *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | A maximum of 8 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Sterility *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | There must be no indication of yeasts or bacteria likely to cause spoilage. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Protein stability *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | The wine must remain unchanged in appearance after being held at 70°C for 15 minutes and subsequently cooled to 20°C. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
 
-### 4 (Extent: N.I.) (affected by repeal, see note). Applicable requirements for quality sparkling wine (Extent: N.I.) (affected by repeal, see note)[^key-ed5199abd35d3978d7af2694f6a19812][^key-ed5199abd35d3978d7af2694f6a19812]
+### 4 (Extent: N.I.) (affected by repeal, see note). Applicable requirements for quality sparkling wine (Extent: N.I.) (affected by repeal, see note)[^c-ed5199abd35d3978d7af2694f6a19812][^c-ed5199abd35d3978d7af2694f6a19812]
 
-(1 (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] The applicable requirements for quality sparkling wine are as follows. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
+(1 (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] The applicable requirements for quality sparkling wine are as follows. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
 
-(2 (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] The wine must come from a batch of wine— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
+(2 (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] The wine must come from a batch of wine— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
 
-- (a (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] for which the maximum yield for each hectare of land cultivated with vines for producing the wine was 80 hectolitres; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-- (b (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] that is produced in the protected designation of origin from vines of any of the following varieties— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-  - (i (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] Chardonnay; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-  - (ii (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] Pinot Noir; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-  - (iii (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] Pinot Noir Précoce; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-  - (iv (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] Pinot Meunier; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-  - (v (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] Pinot Blanc; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-  - (vi (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] Pinot Gris; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-- (c (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] that— *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-  - (i (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] is produced from cuveés with a total alcoholic strength of 9% or more by volume; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-  - (ii (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] has been obtained by first or second alcoholic fermentation of fresh grapes, grape must or wine; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-  - (iii (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] has been subject to secondary fermentation in the bottle; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-  - (iv (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] has had a minimum of nine months of uninterrupted secondary fermentation within the same undertaking on the yeast lees, which have subsequently been removed by disgorgement; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-  - (v (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] when the container is opened, releases carbon dioxide derived exclusively from fermentation; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-  - (vi (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] has been organoleptically tested to be free from taints and other faults; and *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
-- (d (Extent: N.I.) (affected by repeal, see note))[^key-ed5199abd35d3978d7af2694f6a19812] that meets the standards set out in the following table. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
+- (a (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] for which the maximum yield for each hectare of land cultivated with vines for producing the wine was 80 hectolitres; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+- (b (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] that is produced in the protected designation of origin from vines of any of the following varieties— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+  - (i (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] Chardonnay; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+  - (ii (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] Pinot Noir; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+  - (iii (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] Pinot Noir Précoce; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+  - (iv (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] Pinot Meunier; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+  - (v (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] Pinot Blanc; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+  - (vi (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] Pinot Gris; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+- (c (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] that— *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+  - (i (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] is produced from cuveés with a total alcoholic strength of 9% or more by volume; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+  - (ii (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] has been obtained by first or second alcoholic fermentation of fresh grapes, grape must or wine; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+  - (iii (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] has been subject to secondary fermentation in the bottle; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+  - (iv (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] has had a minimum of nine months of uninterrupted secondary fermentation within the same undertaking on the yeast lees, which have subsequently been removed by disgorgement; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+  - (v (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] when the container is opened, releases carbon dioxide derived exclusively from fermentation; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+  - (vi (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] has been organoleptically tested to be free from taints and other faults; and *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
+- (d (Extent: N.I.) (affected by repeal, see note))[^c-ed5199abd35d3978d7af2694f6a19812] that meets the standards set out in the following table. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
 
-  Standards for quality sparkling wine ( *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]PDOs *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]) *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812]
+  Standards for quality sparkling wine ( *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]PDOs *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]) *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812]
 
-  | Factor *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | Standard to be met *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
+  | Factor *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | Standard to be met *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
   | --- | --- |
-  | Natural alcohol *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | A minimum of 6% before enrichment of the must. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Actual alcoholic strength *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | A minimum of 10%. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Total acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | A minimum of 4 grams per litre expressed as tartaric acid. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Volatile acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | A maximum of 18 milliequivalents per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Total sulphur dioxide *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | A maximum of 185 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Copper *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | A maximum of 0.5 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Iron *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | A maximum of 8 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Chill stability *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | There must be no crystal deposits when the wine is held at 2°C for 36 hours. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
-  | Pressure *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] | The wine must be at a pressure of not less than 3.5 bars when measured at 20°C, but this requirement does not apply when it is in 25 centilitre bottles. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-ed5199abd35d3978d7af2694f6a19812] |
+  | Natural alcohol *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | A minimum of 6% before enrichment of the must. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Actual alcoholic strength *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | A minimum of 10%. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Total acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | A minimum of 4 grams per litre expressed as tartaric acid. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Volatile acidity *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | A maximum of 18 milliequivalents per litre; *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Total sulphur dioxide *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | A maximum of 185 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Copper *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | A maximum of 0.5 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Iron *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | A maximum of 8 milligrams per litre. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Chill stability *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | There must be no crystal deposits when the wine is held at 2°C for 36 hours. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
+  | Pressure *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] | The wine must be at a pressure of not less than 3.5 bars when measured at 20°C, but this requirement does not apply when it is in 25 centilitre bottles. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-ed5199abd35d3978d7af2694f6a19812] |
 
 *Extent: E+W+S+N.I.*
 
@@ -881,7 +881,7 @@ An impact assessment for this instrument has not been produced as no impact on t
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Under section 57(1) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to Scottish Ministers of functions in relation to implementing obligations under EU law in relation to devolved matters, the Secretary of State retains power to exercise such functions as regards Scotland. Under paragraph 5 of Schedule 3 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), despite the transfer to the Welsh Ministers of functions in relation to implementing obligations under EU law in relation to devolved matters, the Secretary of State retains power to exercise such functions as regards Wales. The Secretary of State’s power, as a Minister so designated, to make regulations which extend to Northern Ireland is confirmed by article 3(2) of [S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812).
 
-[^key-15f03061d02497e4ce3c633e43c3624e]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2011/2936) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-15f03061d02497e4ce3c633e43c3624e]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2011/2936) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
 [^f00003]: Footnote: [S.I. 1972/1811](https://www.legislation.gov.uk/uksi/1972/1811). The function of the Minister of Agriculture of making regulations under section 2(2) of the European Communities Act 1972 was transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
@@ -889,35 +889,35 @@ An impact assessment for this instrument has not been produced as no impact on t
 
 [^M_E_66f794bf-b1e5-4600-ce3a-8ff35f6ef0a6]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-48de3d807e906356f9dbf7d939f0f9c9]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/1/3) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [9(2)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/9/2)
+[^c-48de3d807e906356f9dbf7d939f0f9c9]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/1/3) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [9(2)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/9/2)
 
-[^key-3eed57b58667a98210ba425a066945c8]: Textual amendment: [Reg. 1(4)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/1/4) inserted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(3)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/3)
+[^c-3eed57b58667a98210ba425a066945c8]: Textual amendment: [Reg. 1(4)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/1/4) inserted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(3)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/3)
 
 [^M_E_e97f53c9-fe34-4352-ab40-e177c1e1b46d]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-7dc11b02891aff9d842ecd7fd953330b]: Textual amendment: [Reg. 1(4)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/1/4) inserted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(2)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/2)
+[^c-7dc11b02891aff9d842ecd7fd953330b]: Textual amendment: [Reg. 1(4)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/1/4) inserted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(2)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/2)
 
 [^M_E_f7627d17-c9a2-4821-85b6-5c9f72fd8c8a]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-882a852a08e6f2a6a1105b74992bffb8]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/1/a) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(4)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/4/a)
+[^c-882a852a08e6f2a6a1105b74992bffb8]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/1/a) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(4)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/4/a)
 
-[^key-d9739a2ade70f69578f7d08aaf585c90]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/1) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(a)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/a/i)
+[^c-d9739a2ade70f69578f7d08aaf585c90]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/1) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(a)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/a/i)
 
-[^key-387c4417e7e2ef6bbbac9a085ed1537d]: Textual amendment: Words in Regulations substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(2)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/2)
+[^c-387c4417e7e2ef6bbbac9a085ed1537d]: Textual amendment: Words in Regulations substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(2)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/2)
 
-[^key-d2f34adb61cef0ec5cbb85be21d3eea5]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/2) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/2)
+[^c-d2f34adb61cef0ec5cbb85be21d3eea5]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/2) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/2)
 
-[^key-fdcafb139a442bc67aea6d4b00e56ed5]: Textual amendment: Words in reg. 2(2) inserted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/3/2)
+[^c-fdcafb139a442bc67aea6d4b00e56ed5]: Textual amendment: Words in reg. 2(2) inserted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/3/2)
 
-[^key-6937fea61aaf584a0d26f53a04d36485]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/2) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/4/b/i)
+[^c-6937fea61aaf584a0d26f53a04d36485]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/2) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/4/b/i)
 
-[^key-4daf7467aaf336bde3cba295e3157cb0]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/2) inserted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/4/b/ii)
+[^c-4daf7467aaf336bde3cba295e3157cb0]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/2) inserted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/4/b/ii)
 
-[^key-56bdef62470688c530b9fccbcdc05480]: Textual amendment: Words in reg. 2(2) substituted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/524/regulation/3/3)
+[^c-56bdef62470688c530b9fccbcdc05480]: Textual amendment: Words in reg. 2(2) substituted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/524/regulation/3/3)
 
-[^key-99043d3c50a6c92f27dff209676fba09]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/2) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(a)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/a/ii)
+[^c-99043d3c50a6c92f27dff209676fba09]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/2) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(a)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/a/ii)
 
-[^key-c108b401546797ff7d146140f1e010bf]: Textual amendment: Words in reg. 2(2) omitted (16.7.2020) by virtue of [The Wine (Amendment) Regulations 2020 (S.I. 2020/639)](https://www.legislation.gov.uk/uksi/2020/639), [regs. 1](https://www.legislation.gov.uk/uksi/2020/639/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/639/regulation/2/a)
+[^c-c108b401546797ff7d146140f1e010bf]: Textual amendment: Words in reg. 2(2) omitted (16.7.2020) by virtue of [The Wine (Amendment) Regulations 2020 (S.I. 2020/639)](https://www.legislation.gov.uk/uksi/2020/639), [regs. 1](https://www.legislation.gov.uk/uksi/2020/639/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2020/639/regulation/2/a)
 
 [^f00008]: Footnote: OJ No L 170, 30.6.2008, p1, as last amended by Commission Regulation (EU) No 772/2010 (OJ No L 232, 2.9.2010, p1).
 
@@ -927,17 +927,17 @@ An impact assessment for this instrument has not been produced as no impact on t
 
 [^f00011]: Footnote: OJ No L 193, 24.7.2009, p. 60, as last amended by Commission Implementing Regulation (EU) No 670/2011 (OJ No L 183, 13.7.2011, p6).
 
-[^key-372d3c8223c19374ee5db7cd13bacc36]: Textual amendment: Words in reg. 2(2) inserted (16.7.2020) by [The Wine (Amendment) Regulations 2020 (S.I. 2020/639)](https://www.legislation.gov.uk/uksi/2020/639), [regs. 1](https://www.legislation.gov.uk/uksi/2020/639/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/639/regulation/2/b)
+[^c-372d3c8223c19374ee5db7cd13bacc36]: Textual amendment: Words in reg. 2(2) inserted (16.7.2020) by [The Wine (Amendment) Regulations 2020 (S.I. 2020/639)](https://www.legislation.gov.uk/uksi/2020/639), [regs. 1](https://www.legislation.gov.uk/uksi/2020/639/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/639/regulation/2/b)
 
-[^key-7c6349b5e3fe80f678fad8e5270a08d6]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/4/b/ii)
+[^c-7c6349b5e3fe80f678fad8e5270a08d6]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/4/b/ii)
 
-[^key-33d12b1603b7c4df25a2465144c20931]: Textual amendment: Words in reg. 2(2) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/2/b)
+[^c-33d12b1603b7c4df25a2465144c20931]: Textual amendment: Words in reg. 2(2) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/2/b)
 
 [^M_E_ddb9c1e9-1f83-428e-8671-eae2510eebfe]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^V_NI_2d4808b4-6edf-7e34-9b3b-7240984a7dc7]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/2) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/2)
 
-[^key-1dea048edbdd3ee55578b0f4f8c3a264]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/2) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(3)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/3)
+[^c-1dea048edbdd3ee55578b0f4f8c3a264]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/2/2) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(3)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/3)
 
 [^V_NI_f76cdd09-8077-d437-3ee6-7413ec75545a]: Textual amendment: Words in reg. 2(2) substituted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/524/regulation/3/3)
 
@@ -949,79 +949,79 @@ An impact assessment for this instrument has not been produced as no impact on t
 
 [^M_E_ac2fcc94-2c1c-4d22-d32c-37263fa5498b]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-a9b3941370138eacbd150a3b7d403da4]: Textual amendment: Reg. 3(1) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(5)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/5/a) (as amended by [S.I. 2020/1661](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/3))
+[^c-a9b3941370138eacbd150a3b7d403da4]: Textual amendment: Reg. 3(1) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(5)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/5/a) (as amended by [S.I. 2020/1661](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(3)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/3))
 
-[^key-944794195ae6023158899ad39d7c93f1]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/1) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/b)
+[^c-944794195ae6023158899ad39d7c93f1]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/1) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/b)
 
-[^key-315274d5055310bb9c734037bb6739c8]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/2) omitted (28.3.2019) by virtue of [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/4/2)
+[^c-315274d5055310bb9c734037bb6739c8]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/2) omitted (28.3.2019) by virtue of [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/4/2)
 
-[^key-bdc8637008efc9b5abf294a244187c7b]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/4) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(5)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/5/b)
+[^c-bdc8637008efc9b5abf294a244187c7b]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/4) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(5)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/5/b)
 
-[^key-c38f0677e436567d578ca2b86b8bea40]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/5) omitted (28.3.2019) by virtue of [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/4/2)
+[^c-c38f0677e436567d578ca2b86b8bea40]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/5) omitted (28.3.2019) by virtue of [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/4/2)
 
-[^key-cc8a26ee532a04b6b965e44eda6e1397]: Textual amendment: Word in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/5) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/b)
+[^c-cc8a26ee532a04b6b965e44eda6e1397]: Textual amendment: Word in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/5) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/b)
 
-[^key-129f32017b21f6d9f13909b47408f306]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/8) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(5)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/5/b)
+[^c-129f32017b21f6d9f13909b47408f306]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/8) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(5)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/5/b)
 
-[^key-b9688234d9298d72c2abf037f656ad64]: Textual amendment: Reg. 3(8A) inserted (E.W.) (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [46(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/46/a)
+[^c-b9688234d9298d72c2abf037f656ad64]: Textual amendment: Reg. 3(8A) inserted (E.W.) (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [46(a)](https://www.legislation.gov.uk/uksi/2012/2897/article/46/a)
 
-[^key-09b6949727752d33f30b9d996a2b5bfa]: Textual amendment: [Reg. 3(10)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/10) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(5)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/5/c)
+[^c-09b6949727752d33f30b9d996a2b5bfa]: Textual amendment: [Reg. 3(10)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/10) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(5)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/5/c)
 
 [^M_E_fe46bc4b-873c-4815-f1c6-fff530ec9a42]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-22666726c1f94f6f02d6664523de3140]: Textual amendment: Reg. 3(1) substituted (31.12.2020) (N.I.) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/a) (as amended by [S.I. 2020/1661](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(4)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/4))
+[^c-22666726c1f94f6f02d6664523de3140]: Textual amendment: Reg. 3(1) substituted (31.12.2020) (N.I.) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/a) (as amended by [S.I. 2020/1661](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [16(4)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/16/4))
 
-[^key-c98f47227bb3da14544025f80cc7cf61]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/2) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/b)
+[^c-c98f47227bb3da14544025f80cc7cf61]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/2) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/b)
 
 [^V_NI_fabd4d6e-e598-528a-93cb-f375b19d3bf9]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/2) omitted (28.3.2019) by virtue of [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/4/2)
 
-[^key-b2f81f42c4444e872cdf84b7ca5e9e4e]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/3) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/c)
+[^c-b2f81f42c4444e872cdf84b7ca5e9e4e]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/3) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/c)
 
-[^key-51c3270bfd3f8fa15636f0d29d19c3c4]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/4) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/c)
+[^c-51c3270bfd3f8fa15636f0d29d19c3c4]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/4) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/c)
 
 [^V_NI_fd3267d4-edc6-c1fa-99d9-13351abb2eb2]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/5) omitted (28.3.2019) by virtue of [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/4/2)
 
-[^key-64b7f7e2e57553f86d7d09d5841a95dc]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/6) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/c)
+[^c-64b7f7e2e57553f86d7d09d5841a95dc]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/6) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/c)
 
-[^key-dd804146e5aa4064f8e476074e0742b4]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/8) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/c)
+[^c-dd804146e5aa4064f8e476074e0742b4]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/8) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/c)
 
-[^key-e96d2af49c992b36226f1ffd351f61cb]: Textual amendment: [Reg. 3(9)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/9) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/c)
+[^c-e96d2af49c992b36226f1ffd351f61cb]: Textual amendment: [Reg. 3(9)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/9) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/c)
 
-[^key-70b8c184c641f72e7143f340c731ba28]: Textual amendment: [Reg. 3(10)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/10) inserted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(d)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/d)
+[^c-70b8c184c641f72e7143f340c731ba28]: Textual amendment: [Reg. 3(10)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/10) inserted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(4)(d)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/4/d)
 
 [^M_E_50843ca6-e59e-4957-ba20-a231d62c2dc6]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-63bb1fa94f5afc8a7f957e28d43dde98]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/1) inserted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/6/a/i)
+[^c-63bb1fa94f5afc8a7f957e28d43dde98]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/1) inserted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/6/a/i)
 
-[^key-def4548ebfb28fc4dbcf3c0f9ec9abdf]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/6/a/ii)
+[^c-def4548ebfb28fc4dbcf3c0f9ec9abdf]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/6/a/ii)
 
-[^key-124ff5f39fc9a83a0cdae945fb257255]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/1) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/c)
+[^c-124ff5f39fc9a83a0cdae945fb257255]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/1) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/c)
 
-[^key-cda183655e0847dc469dc59cb3c01fa1]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/1) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/4)
+[^c-cda183655e0847dc469dc59cb3c01fa1]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/1) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/4)
 
-[^key-900b8eda9d1681670860ebbbb6d819ee]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/2/a) omitted (28.3.2019) by virtue of [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/524/regulation/5/2/a)
+[^c-900b8eda9d1681670860ebbbb6d819ee]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/2/a) omitted (28.3.2019) by virtue of [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/524/regulation/5/2/a)
 
-[^key-e814c3a368c8d663f8c19970abbe571a]: Textual amendment: Words in [reg. 4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/2/a/i) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(6)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/6/b/i)
+[^c-e814c3a368c8d663f8c19970abbe571a]: Textual amendment: Words in [reg. 4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/2/a/i) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(6)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/6/b/i)
 
-[^key-a984df5d96ea231ad9d27a6027f48d58]: Textual amendment: Word in [reg. 4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/2/a/i) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/c)
+[^c-a984df5d96ea231ad9d27a6027f48d58]: Textual amendment: Word in [reg. 4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/2/a/i) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(c)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/c)
 
-[^key-afcc9f6bc6a209ebaaf61055d3c7490b]: Textual amendment: Words in reg. 4(2)(a)(ii) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/3)
+[^c-afcc9f6bc6a209ebaaf61055d3c7490b]: Textual amendment: Words in reg. 4(2)(a)(ii) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/3)
 
-[^key-04a59ba341365ac41eba77acf2dfb331]: Textual amendment: Word in [reg. 4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/2/a/ii) omitted (28.3.2019) by virtue of [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/524/regulation/5/2/b)
+[^c-04a59ba341365ac41eba77acf2dfb331]: Textual amendment: Word in [reg. 4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/2/a/ii) omitted (28.3.2019) by virtue of [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/524/regulation/5/2/b)
 
-[^key-1697b8620145230af43d5172db54d788]: Textual amendment: [Reg. 4(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/2/a/iii) substituted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2019/524/regulation/5/2/c)
+[^c-1697b8620145230af43d5172db54d788]: Textual amendment: [Reg. 4(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/2/a/iii) substituted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2019/524/regulation/5/2/c)
 
-[^key-a560611bd040051cad0887454ce0c213]: Textual amendment: [Reg. 4(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/2/a/iv) inserted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2019/524/regulation/5/2/d)
+[^c-a560611bd040051cad0887454ce0c213]: Textual amendment: [Reg. 4(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/2/a/iv) inserted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2019/524/regulation/5/2/d)
 
-[^key-b014c403fa117f3f7ff2627cba80f82c]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/2/b) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/6/b/ii)
+[^c-b014c403fa117f3f7ff2627cba80f82c]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/2/b) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/6/b/ii)
 
-[^key-08c182221b7687819b7803db415372c1]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/3/b) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(6)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/6/c)
+[^c-08c182221b7687819b7803db415372c1]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/3/b) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(6)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/6/c)
 
 [^M_E_76e26132-3a67-4f54-f054-cb9699999a49]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-4f36c4c02f7a38ed5b4b724599bd7f1a]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/1) inserted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/5/a/i)
+[^c-4f36c4c02f7a38ed5b4b724599bd7f1a]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/1) inserted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/5/a/i)
 
-[^key-317b908e25c198a0af78477f3064243f]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/1) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/5/a/ii)
+[^c-317b908e25c198a0af78477f3064243f]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/1) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/5/a/ii)
 
 [^V_NI_c1681866-5e52-3149-1698-b4a770defaf9]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/1) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/4)
 
@@ -1037,21 +1037,21 @@ An impact assessment for this instrument has not been produced as no impact on t
 
 [^V_NI_4a1f4840-cdc3-745c-1405-477be823902a]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/2/b) substituted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2019/524/regulation/5/3)
 
-[^key-f2709cc9229ed54481938c334c606be4]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/3) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(5)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/5/b)
+[^c-f2709cc9229ed54481938c334c606be4]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/4/3) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(5)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/5/b)
 
-[^key-7dff7e33fc34606870f42818a2c5b86f]: Textual amendment: Word in Pt. 2 heading substituted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/6/2)
+[^c-7dff7e33fc34606870f42818a2c5b86f]: Textual amendment: Word in Pt. 2 heading substituted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/6/2)
 
-[^key-789880df57bf63fa2e5b794978eb0a0f]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/2936/regulation/5) substituted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/524/regulation/6/3)
+[^c-789880df57bf63fa2e5b794978eb0a0f]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/2936/regulation/5) substituted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/524/regulation/6/3)
 
-[^key-6cd645d6f4d11bfabb34b02db168e42a]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/2936/regulation/6) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(6)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/6)
+[^c-6cd645d6f4d11bfabb34b02db168e42a]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/2936/regulation/6) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(6)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/6)
 
-[^key-72408108a5a8a2645246d54c08bb0568]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2011/2936/regulation/6A) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/5)
+[^c-72408108a5a8a2645246d54c08bb0568]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2011/2936/regulation/6A) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/5)
 
 [^M_E_611929ff-d88f-49cc-f98f-1d97ec965858]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-32ed4ef2dff382cd198e73db91912298]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/7/1) omitted (28.3.2019) by virtue of [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/7/2)
+[^c-32ed4ef2dff382cd198e73db91912298]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/7/1) omitted (28.3.2019) by virtue of [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/7/2)
 
-[^key-0fe0b7fd3bdc144a14af8a96c4778d60]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/7/1) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/d)
+[^c-0fe0b7fd3bdc144a14af8a96c4778d60]: Textual amendment: Word in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/7/1) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(d)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/d)
 
 [^M_E_b8406c0c-bebc-48af-bebe-c632c67c7da8]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
@@ -1059,51 +1059,51 @@ An impact assessment for this instrument has not been produced as no impact on t
 
 [^M_E_999e7319-7dbc-4c42-e394-73d82f85b46c]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-9f4b50455a98ed751dce36939c38354a]: Textual amendment: Word in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/8/1) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(e)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/e)
+[^c-9f4b50455a98ed751dce36939c38354a]: Textual amendment: Word in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/8/1) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(e)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/e)
 
-[^key-3b7248733d0fb43f9ddf74365cbb8cc9]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/8/1) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/6)
+[^c-3b7248733d0fb43f9ddf74365cbb8cc9]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/8/1) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/6)
 
-[^key-19ae2919292b413537ed1b88e99f431b]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/8/4) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/7)
+[^c-19ae2919292b413537ed1b88e99f431b]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/8/4) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/7)
 
 [^M_E_d4bdd622-e263-4b54-b256-0944f5bd99ce]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^V_NI_701a359f-9a3c-682c-0710-484a8c9f5730]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/8/1) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/6)
 
-[^key-a684125223a9309b58fc6a20ccfb65de]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/8/4) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/7)
+[^c-a684125223a9309b58fc6a20ccfb65de]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/8/4) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/7)
 
 [^M_E_9d60b7f8-5c73-4a9a-e91d-f36e96f7cf67]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-7ed95d489bae5b384733328ffd0a57fe]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(8)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/8/a)
+[^c-7ed95d489bae5b384733328ffd0a57fe]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(8)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/8/a)
 
-[^key-f058fa2190e9d120f5cff96a37764def]: Textual amendment: Word in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/1/a) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(f)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/f)
+[^c-f058fa2190e9d120f5cff96a37764def]: Textual amendment: Word in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/1/a) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(f)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/f)
 
-[^key-f50f0d3cf137321d5a40768721231ef9]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/1/a) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/7)
+[^c-f50f0d3cf137321d5a40768721231ef9]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/1/a) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/7)
 
-[^key-5c937a38be867d91a4bf713739771d88]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/1) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [46(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/46/b)
+[^c-5c937a38be867d91a4bf713739771d88]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/1) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [46(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/46/b)
 
-[^key-5250c43ff2de4d923704b9cb27824720]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/5) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(8)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/8/b)
+[^c-5250c43ff2de4d923704b9cb27824720]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/5) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(8)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/8/b)
 
 [^M_E_b54d1dde-b79c-4715-c8ef-37b154ab9885]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-daf02836f7031be613bbc4f654c465e2]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/1) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(8)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/8/a/i)
+[^c-daf02836f7031be613bbc4f654c465e2]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/1) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(8)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/8/a/i)
 
 [^V_NI_8498ca22-679c-60c4-af72-ef51d8ae148d]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/1/a) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/7)
 
-[^key-fd3eac0e19e3784c21d1d05daca73787]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/1) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/8/a/ii)
+[^c-fd3eac0e19e3784c21d1d05daca73787]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/1) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/8/a/ii)
 
 [^V_NI_6c806c75-5aea-219e-1212-a3d3b5cbe63c]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/1) substituted (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [46(b)](https://www.legislation.gov.uk/uksi/2012/2897/article/46/b)
 
-[^key-79527e05c3eb152317e986af0c68f468]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/5) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(8)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/8/b)
+[^c-79527e05c3eb152317e986af0c68f468]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/9/5) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(8)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/8/b)
 
 [^M_E_5fb8e4f7-c8b9-435a-c060-68b72f006a6e]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-32ce6c8292de048682e1d930590becee]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/10/1) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(g)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/g)
+[^c-32ce6c8292de048682e1d930590becee]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/10/1) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(g)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/g)
 
-[^key-db61c9c687c21b72c0e76e8ed79cd6bf]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/10/1) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/8/a)
+[^c-db61c9c687c21b72c0e76e8ed79cd6bf]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/10/1) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/8/a)
 
-[^key-8616659513f5cb30659b14db878c1319]: Textual amendment: Word in [reg. 10(2)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/10/2/a) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(g)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/g)
+[^c-8616659513f5cb30659b14db878c1319]: Textual amendment: Word in [reg. 10(2)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/10/2/a) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(g)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/g)
 
-[^key-7ccf02bd384da03b87a0a216882896f3]: Textual amendment: Words in [reg. 10(2)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/10/2/a) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/8/b)
+[^c-7ccf02bd384da03b87a0a216882896f3]: Textual amendment: Words in [reg. 10(2)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/10/2/a) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/8/b)
 
 [^M_E_f00705d3-34f6-42a2-8c08-d0883703513d]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
@@ -1113,13 +1113,13 @@ An impact assessment for this instrument has not been produced as no impact on t
 
 [^M_E_a9266860-7304-4cf4-d809-db5264ba8876]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-79f8816e00e87b2dcc65a7f3f542b8c6]: Textual amendment: Word in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/11/2/a) omitted (30.12.2020) by virtue of [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(9)(a)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/9/a)
+[^c-79f8816e00e87b2dcc65a7f3f542b8c6]: Textual amendment: Word in [reg. 11(2)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/11/2/a) omitted (30.12.2020) by virtue of [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(9)(a)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/9/a)
 
-[^key-6b8ccabe93f3e4ff6577ff99e0901cd1]: Textual amendment: Word in [reg. 11(2)(b)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/11/2/b) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(h)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/h)
+[^c-6b8ccabe93f3e4ff6577ff99e0901cd1]: Textual amendment: Word in [reg. 11(2)(b)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/11/2/b) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(h)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/h)
 
-[^key-1e9f28f1221a5b331810b75bb6e7f7f7]: Textual amendment: Word in [reg. 11(2)(b)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/11/2/b) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(9)(b)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/9/b)
+[^c-1e9f28f1221a5b331810b75bb6e7f7f7]: Textual amendment: Word in [reg. 11(2)(b)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/11/2/b) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(9)(b)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/9/b)
 
-[^key-f08d30e811db54aa4b2cb50ba8c56e09]: Textual amendment: [Reg. 11(2)(c)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/11/2/c) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(9)(c)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/9/c)
+[^c-f08d30e811db54aa4b2cb50ba8c56e09]: Textual amendment: [Reg. 11(2)(c)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/11/2/c) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(9)(c)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/9/c)
 
 [^M_E_ddfc4389-deca-4cdc-c407-7a125ee7bfd5]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
@@ -1131,37 +1131,37 @@ An impact assessment for this instrument has not been produced as no impact on t
 
 [^M_E_90841127-ab67-4503-d9cf-aa4360f22f81]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-0dae9703f6569448155d05f4dc017012]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/12/2) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/i)
+[^c-0dae9703f6569448155d05f4dc017012]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/12/2) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/i)
 
-[^key-24b4280ae4d8108b6bc6596a3aad645c]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/12/2) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/10)
+[^c-24b4280ae4d8108b6bc6596a3aad645c]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/12/2) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/10)
 
 [^M_E_4744da29-f84f-48e6-9360-4d2c498ffb34]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^V_NI_916798a1-c115-062a-c4f8-f2a6edb75971]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/12/2) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(10)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/10)
 
-[^key-5f45f222bb568f3ae7befbfd72525030]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/13/2) omitted (28.3.2019) by virtue of [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/8/2)
+[^c-5f45f222bb568f3ae7befbfd72525030]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/13/2) omitted (28.3.2019) by virtue of [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/8/2)
 
 [^M_E_0d311a26-ed7d-4a65-adcc-dde74ec42a71]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-584f1ed97328008204d7d8859638c496]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/14/1) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(j)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/j)
+[^c-584f1ed97328008204d7d8859638c496]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/14/1) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(j)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/j)
 
-[^key-742c236aa4863309d984f5fa50e172d4]: Textual amendment: Words in reg. 14(1)(a) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(4)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/4/a)
+[^c-742c236aa4863309d984f5fa50e172d4]: Textual amendment: Words in reg. 14(1)(a) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(4)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/4/a)
 
-[^key-1cff756a445c703b8ac0f5e37343f8df]: Textual amendment: Words in reg. 14(1)(b) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(4)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/4/b)
+[^c-1cff756a445c703b8ac0f5e37343f8df]: Textual amendment: Words in reg. 14(1)(b) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(4)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/4/b)
 
-[^key-7bc6ba3b636b8cf5f7966947093ce811]: Textual amendment: Words in reg. 14(1)(c) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(4)(c)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/4/c)
+[^c-7bc6ba3b636b8cf5f7966947093ce811]: Textual amendment: Words in reg. 14(1)(c) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(4)(c)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/4/c)
 
-[^key-6fdfdd34e863438e59ec3152969f8c74]: Textual amendment: Words in reg. 14(1)(d) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(4)(d)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/4/d)
+[^c-6fdfdd34e863438e59ec3152969f8c74]: Textual amendment: Words in reg. 14(1)(d) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(4)(d)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/4/d)
 
-[^key-f2e420371385b8f1b3ebabdd9f5ec9b5]: Textual amendment: [Reg. 14(1)(e)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/14/1/e) substituted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/9/2)
+[^c-f2e420371385b8f1b3ebabdd9f5ec9b5]: Textual amendment: [Reg. 14(1)(e)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/14/1/e) substituted (28.3.2019) by [The Wine (Amendment) Regulations 2019 (S.I. 2019/524)](https://www.legislation.gov.uk/uksi/2019/524), [regs. 1](https://www.legislation.gov.uk/uksi/2019/524/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2019/524/regulation/9/2)
 
-[^key-4f4233176fabd51ffe4618d7af59f29e]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/14/1A) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(11)(a)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/11/a)
+[^c-4f4233176fabd51ffe4618d7af59f29e]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/14/1A) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(11)(a)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/11/a)
 
-[^key-072c65657e185be3c5b09a2bff27f0df]: Textual amendment: Word in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/14/2/b) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(j)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/j)
+[^c-072c65657e185be3c5b09a2bff27f0df]: Textual amendment: Word in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/14/2/b) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(j)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/j)
 
-[^key-e8574fa03d50b2d3be8c8a455b03337d]: Textual amendment: Word in [reg. 14(3)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/14/3/a) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(j)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/j)
+[^c-e8574fa03d50b2d3be8c8a455b03337d]: Textual amendment: Word in [reg. 14(3)(a)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/14/3/a) substituted (E.W.S.) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 25(j)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/25/j)
 
-[^key-71d4e569bf7d66baa62ddcc45404b281]: Textual amendment: [Reg. 14(3)(aa)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/14/3/aa) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(11)(b)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/11/b)
+[^c-71d4e569bf7d66baa62ddcc45404b281]: Textual amendment: [Reg. 14(3)(aa)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/14/3/aa) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(11)(b)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/11/b)
 
 [^M_E_f1a35e6e-480e-4f35-a06d-303b87a64967]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
@@ -1179,7 +1179,7 @@ An impact assessment for this instrument has not been produced as no impact on t
 
 [^V_NI_51124436-c2c2-1007-eff1-cdc5c1469caf]: Textual amendment: [Reg. 14(3)(aa)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/14/3/aa) inserted (30.12.2020) by [The Spirit Drinks, Wine and European Union Withdrawal (Consequential Modifications) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1636)](https://www.legislation.gov.uk/uksi/2020/1636), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/1/2), [3(11)(b)](https://www.legislation.gov.uk/uksi/2020/1636/regulation/3/11/b)
 
-[^key-9b68a50b530477b1216d19c45d34937b]: Textual amendment: [Reg. 16(2)(b)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/16/2/b)[(c)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/16/2/c) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(9)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/9)
+[^c-9b68a50b530477b1216d19c45d34937b]: Textual amendment: [Reg. 16(2)(b)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/16/2/b)[(c)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/16/2/c) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(9)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/9)
 
 [^f00015]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Section 33 was amended by Schedule 6 to the Magistrates Courts Act [1952 (c.55)](https://www.legislation.gov.uk/ukpga/1952/55), section 56(1) of and Part II of Schedule 8 to the Courts Act [1971 (c.23)](https://www.legislation.gov.uk/ukpga/1971/23) and section 109 of and paragraph 71 of Schedule 8, and Schedule 10 to Courts Act [2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39).
 
@@ -1187,13 +1187,13 @@ An impact assessment for this instrument has not been produced as no impact on t
 
 [^f00017]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46). Section 70 was amended by article 3(1) of and paragraph 104(2) of Schedule 1 to [S.I 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), section 10(6) of the Criminal Procedure (Amendment) (Scotland) Act [2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5) and section 28 of the Criminal Proceedings etc. (Reform) (Scotland) Act [2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6). Section 143 was amended by regulation 5 of and paragraph 3 of Schedule 4 to [S.S.I 2001/128](https://www.legislation.gov.uk/ssi/2001/128) and by section 17 of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007.
 
-[^key-29504538c9c105474fd8db0313f819d9]: Textual amendment: [Reg. 16(2)(d)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/16/2/d) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(9)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/9)
+[^c-29504538c9c105474fd8db0313f819d9]: Textual amendment: [Reg. 16(2)(d)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/16/2/d) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [11(9)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/11/9)
 
 [^f00018]: Footnote: [1945 c.15 (NI)](https://www.legislation.gov.uk/apni/1945/15) Section 18 was amended by the [Magistrates’ Courts Act (NI) 1964 c.(NI)](https://www.legislation.gov.uk/apni/1964/21), the [Prosecution of Offences (NI) Order 1972 (SI No 538 (NI 1))](https://www.legislation.gov.uk/nisi/1972/538), the Insurance Companies Act [1974 (c.49)](https://www.legislation.gov.uk/ukpga/1974/49), the Banking Act [1979 (c.37)](https://www.legislation.gov.uk/ukpga/1979/37), the Insurance Companies Act [1980 (c.25)](https://www.legislation.gov.uk/ukpga/1980/25), and the Justice (NI) Act [2002 (c.26)](https://www.legislation.gov.uk/ukpga/2002/26).
 
 [^f00019]: Footnote: [S.I. 1981/1675 (N.I .26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-4256463215bbab924e09d778fa7ab281]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2011/2936/regulation/17A) inserted (E.W.S.) (1.1.2022) by [The Wine (Amendment) Regulations 2021 (S.I. 2021/1471)](https://www.legislation.gov.uk/uksi/2021/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/1471/regulation/3)
+[^c-4256463215bbab924e09d778fa7ab281]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2011/2936/regulation/17A) inserted (E.W.S.) (1.1.2022) by [The Wine (Amendment) Regulations 2021 (S.I. 2021/1471)](https://www.legislation.gov.uk/uksi/2021/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1471/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/1471/regulation/3)
 
 [^f00020]: Footnote: [S.I. 1988/2039](https://www.legislation.gov.uk/uksi/1988/2039), amended by [S.I. 2009/663](https://www.legislation.gov.uk/uksi/2009/663). There are other amendments but none is relevant.
 
@@ -1203,16 +1203,16 @@ An impact assessment for this instrument has not been produced as no impact on t
 
 [^f00023]: Footnote: [S.R.1989/164](https://www.legislation.gov.uk/nisr/1989/164), amended by [S.R. 2010/203](https://www.legislation.gov.uk/nisr/2010/203).
 
-[^key-2ea30af0dd13a801727971dde4a4c4d8]: Textual amendment: Reg. 19(3) revoked (13.12.2018) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/2) Entry 4
+[^c-2ea30af0dd13a801727971dde4a4c4d8]: Textual amendment: Reg. 19(3) revoked (13.12.2018) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/2) Entry 4
 
 [^f00025]: Footnote: [S.R. 1996/383](https://www.legislation.gov.uk/nisr/1996/383), to which there are amendments not relevant to these Regulations.
 
-[^key-f57015879c76895c090e7f1989e2f44f]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2011/2936/regulation/20) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [9(3)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/9/3)
+[^c-f57015879c76895c090e7f1989e2f44f]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2011/2936/regulation/20) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [9(3)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/9/3)
 
-[^key-d65b77624c30c0404827519262f88159]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2936/schedule/1) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(10)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/10)
+[^c-d65b77624c30c0404827519262f88159]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2936/schedule/1) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(10)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/10)
 
-[^key-439cf72a6ce6bc48c5441afe838909e0]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/2936/schedule/1/paragraph/1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(5)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/5)
+[^c-439cf72a6ce6bc48c5441afe838909e0]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/2936/schedule/1/paragraph/1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(5)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/5)
 
-[^key-ed5199abd35d3978d7af2694f6a19812]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2936/schedule/2) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(10)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/10)
+[^c-ed5199abd35d3978d7af2694f6a19812]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2936/schedule/2) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [14(10)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/14/10)
 
-[^key-1be8433cbf93a5bb1aef79bcaa3e87fc]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2011/2936/schedule/2/paragraph/1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(6)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/6)
+[^c-1be8433cbf93a5bb1aef79bcaa3e87fc]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2011/2936/schedule/2/paragraph/1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [13(6)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/13/6)

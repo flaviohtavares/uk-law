@@ -31,7 +31,7 @@ summary: ''
 
 Plant Health, Wales
 
-The Plant Health (Forestry) (Amendment) (Wales) Order 2015 (revoked)[^key-a704f4ebd74859fbca18406a0ee3bbc4]
+The Plant Health (Forestry) (Amendment) (Wales) Order 2015 (revoked)[^c-a704f4ebd74859fbca18406a0ee3bbc4]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 20 October 2015
 
-[^key-a704f4ebd74859fbca18406a0ee3bbc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a704f4ebd74859fbca18406a0ee3bbc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, coming into force and interpretation[^key-a704f4ebd74859fbca18406a0ee3bbc4]
+## 1. Title, coming into force and interpretation[^c-a704f4ebd74859fbca18406a0ee3bbc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application of certain provisions of the 2005 Order in relation to Wales[^key-a704f4ebd74859fbca18406a0ee3bbc4]
+## 2. Application of certain provisions of the 2005 Order in relation to Wales[^c-a704f4ebd74859fbca18406a0ee3bbc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of certain provisions of the 2005 Order as they applied in relation to Wales immediately before 12 October 2015[^key-a704f4ebd74859fbca18406a0ee3bbc4]
+## 3. Revocation of certain provisions of the 2005 Order as they applied in relation to Wales immediately before 12 October 2015[^c-a704f4ebd74859fbca18406a0ee3bbc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments of the 2005 Order[^key-a704f4ebd74859fbca18406a0ee3bbc4]
+## 4. Amendments of the 2005 Order[^c-a704f4ebd74859fbca18406a0ee3bbc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a704f4ebd74859fbca18406a0ee3bbc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a704f4ebd74859fbca18406a0ee3bbc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a704f4ebd74859fbca18406a0ee3bbc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a704f4ebd74859fbca18406a0ee3bbc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a704f4ebd74859fbca18406a0ee3bbc4]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2015/1723) revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6)
+[^c-a704f4ebd74859fbca18406a0ee3bbc4]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2015/1723) revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6)

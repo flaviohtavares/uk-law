@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Discontinuing an investigation[^key-2504eb0ee209e3410be6e838bd7622c5]
+## 72. Discontinuing an investigation[^c-2504eb0ee209e3410be6e838bd7622c5]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2504eb0ee209e3410be6e838bd7622c5]: Commencement: [S. 72](https://www.legislation.gov.uk/mwa/2011/1/section/72) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-2504eb0ee209e3410be6e838bd7622c5]: Commencement: [S. 72](https://www.legislation.gov.uk/mwa/2011/1/section/72) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

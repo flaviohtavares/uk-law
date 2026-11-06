@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.124. Advertisement of appointment[^key-ccc4c45f8bf3078b22641d3a74c7a0c2]
+## 6.124. Advertisement of appointment[^c-ccc4c45f8bf3078b22641d3a74c7a0c2]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The same applies also in the case of the notice or advertisement under section 2
 
 ## Annotations
 
-[^key-ccc4c45f8bf3078b22641d3a74c7a0c2]: Commencement: [Rule 6.124](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.124) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ccc4c45f8bf3078b22641d3a74c7a0c2]: Commencement: [Rule 6.124](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.124) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

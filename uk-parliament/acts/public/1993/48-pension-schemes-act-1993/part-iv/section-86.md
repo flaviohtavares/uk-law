@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Supplementary provisions.[^key-36c0be76be1b6fd5cec0810cc40b7b90][^key-23c3201cb5e893b4ccca5d9a87e95886]
+## 86. Supplementary provisions.[^c-36c0be76be1b6fd5cec0810cc40b7b90][^c-23c3201cb5e893b4ccca5d9a87e95886]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ the whole or part of a pension shall be disregarded.
 
 ## Annotations
 
-[^key-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
-[^key-23c3201cb5e893b4ccca5d9a87e95886]: Modification: Ss. 83-86 modified (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [14](https://www.legislation.gov.uk/uksi/2005/3381/regulation/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/3381/schedule/2/paragraph/3)
+[^c-23c3201cb5e893b4ccca5d9a87e95886]: Modification: Ss. 83-86 modified (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [14](https://www.legislation.gov.uk/uksi/2005/3381/regulation/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/3381/schedule/2/paragraph/3)

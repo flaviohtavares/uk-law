@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — Angling Licence[^key-f585e4e2f1d3bf0e1176e6fe6121881a]
+## SCHEDULE 5 — Angling Licence[^c-f585e4e2f1d3bf0e1176e6fe6121881a]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Byelaw 21
 
 ## Annotations
 
-[^key-f585e4e2f1d3bf0e1176e6fe6121881a]: Commencement: Sch. 5 in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)
+[^c-f585e4e2f1d3bf0e1176e6fe6121881a]: Commencement: Sch. 5 in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)

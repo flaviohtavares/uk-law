@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Information about the service[^key-749b1c815131694e1419a242d3a58b6c]
+## 16. Information about the service[^c-749b1c815131694e1419a242d3a58b6c]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-749b1c815131694e1419a242d3a58b6c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2019/163/regulation/16) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-749b1c815131694e1419a242d3a58b6c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2019/163/regulation/16) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

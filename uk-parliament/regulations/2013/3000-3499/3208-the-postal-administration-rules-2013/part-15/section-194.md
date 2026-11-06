@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 194. Notifications made to other persons at the same time[^key-35e36650a91d6e015caefd63adb9f88e]
+## 194. Notifications made to other persons at the same time[^c-35e36650a91d6e015caefd63adb9f88e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35e36650a91d6e015caefd63adb9f88e]: Commencement: [Rule 194](https://www.legislation.gov.uk/uksi/2013/3208/rule/194) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-35e36650a91d6e015caefd63adb9f88e]: Commencement: [Rule 194](https://www.legislation.gov.uk/uksi/2013/3208/rule/194) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

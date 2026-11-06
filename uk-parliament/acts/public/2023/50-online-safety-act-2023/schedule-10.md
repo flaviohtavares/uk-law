@@ -22,7 +22,7 @@ summary: ''
 
 Section 89
 
-### 1. Recovery of initial costs[^key-82d480fd5b6166f5dfe9511d2e7243c5][^key-727124a12eb0744c08b5bfa15813b53a]
+### 1. Recovery of initial costs[^c-82d480fd5b6166f5dfe9511d2e7243c5][^c-727124a12eb0744c08b5bfa15813b53a]
 
 (1) This Schedule concerns the recovery by OFCOM of an amount equal to the aggregate of the amounts of WTA receipts which, in accordance with section 401(1) of the Communications Act and OFCOM’s statement under that section, are retained by OFCOM for the purpose of meeting their initial costs.
 
@@ -35,7 +35,7 @@ Section 89
   - (b) the exercise of their online safety functions;
 - “**WTA receipts**” means the amounts described in section 401(1)(a) of the Communications Act which are paid to OFCOM (certain receipts under the Wireless Telegraphy Act 2006).
 
-### 2. Recovery of initial costs: first phase[^key-3855a70d6e9706d27679105d541fc9b8][^key-67f40ecc356ba9521e35739c5d625fec]
+### 2. Recovery of initial costs: first phase[^c-3855a70d6e9706d27679105d541fc9b8][^c-67f40ecc356ba9521e35739c5d625fec]
 
 (1) The first phase of OFCOM’s recovery of their initial costs is to take place over a period of several charging years to be specified in regulations under paragraph 7 (“specified charging years”).
 
@@ -47,7 +47,7 @@ Section 89
 
 (5) The amount of an additional fee payable by a provider is to be calculated in accordance with regulations under paragraph 7.
 
-### 3. Further recovery of initial costs[^key-013ed65f77d83d4d9ab33eddde8d1ffd][^key-7ea09221467f429662bfbfa0b85b5327]
+### 3. Further recovery of initial costs[^c-013ed65f77d83d4d9ab33eddde8d1ffd][^c-7ea09221467f429662bfbfa0b85b5327]
 
 (1) The second phase of OFCOM’s recovery of their initial costs begins after the end of the last of the specified charging years.
 
@@ -77,7 +77,7 @@ The amount so specified is referred to in sub-paragraphs (4) and (5) as “the o
 
 (10) The process set out in this paragraph comes to an end in accordance with paragraph 4.
 
-### 4. End of the recovery process[^key-c93a183ae8c874bf23c8ef1415a3189e][^key-d2eeeeb3c1bd87dadd26cea842819d5f]
+### 4. End of the recovery process[^c-c93a183ae8c874bf23c8ef1415a3189e][^c-d2eeeeb3c1bd87dadd26cea842819d5f]
 
 (1) The process set out in paragraph 3 comes to an end if a statement by OFCOM under that paragraph records that—
 
@@ -98,13 +98,13 @@ The amount so specified is referred to in sub-paragraphs (4) and (5) as “the o
 - (a) to bring proceedings for the recovery of the whole or part of an additional fee for which a provider became liable at any time before the determination was made, or
 - (b) to act in accordance with the procedure set out in section 141 in relation to such a liability.
 
-### 5. Providers for part of a year only[^key-3067cdefef53905a9d09ac3d7913a6db][^key-3e7ed81740637c0c876251ea70d8c868]
+### 5. Providers for part of a year only[^c-3067cdefef53905a9d09ac3d7913a6db][^c-3e7ed81740637c0c876251ea70d8c868]
 
 (1) For the purposes of this Schedule, the “provider” of a regulated service, in relation to a charging year, includes a person who is the provider of the service for part of the year.
 
 (2) Where a person is the provider of a regulated service for part of a charging year only, OFCOM may refund all or part of an additional fee paid to OFCOM under paragraph 2 or 3 by that provider in respect of that year.
 
-### 6. Calculation of the recoverable amount[^key-f0cb21d3522cc3fe6756a3f7bf89e719][^key-5aa9a9fcae101d53f63449ccf90068f1]
+### 6. Calculation of the recoverable amount[^c-f0cb21d3522cc3fe6756a3f7bf89e719][^c-5aa9a9fcae101d53f63449ccf90068f1]
 
 For the purposes of a statement by OFCOM under paragraph 3, the “recoverable amount” is given by the formula—
 
@@ -117,7 +117,7 @@ where—
 - R is the aggregate amount of the additional fees received by OFCOM that at the time of the statement in question have been, or are due to be, refunded (see paragraph 5(2)), and
 - D is the amount specified in a determination made by the Secretary of State under paragraph 3 (see paragraph 3(5)) at a time before the statement in question or, where more than one such determination has been made, the sum of the amounts specified in those determinations.
 
-### 7. Regulations about recovery of initial costs[^key-e606654449ae5fce76da53d05bc96de3][^key-87122da5a8f6963a7123302895d47652]
+### 7. Regulations about recovery of initial costs[^c-e606654449ae5fce76da53d05bc96de3][^c-87122da5a8f6963a7123302895d47652]
 
 (1) The Secretary of State must make regulations making such provision as the Secretary of State considers appropriate in connection with the recovery by OFCOM of their initial costs.
 
@@ -151,7 +151,7 @@ where—
 - (d) providers of internet services within section 80(2), and
 - (e) such other persons as the Secretary of State considers appropriate.
 
-### 8. Interpretation[^key-b7b55e182506dc4b34c1bb799eda2bf9][^key-cf799937be0c7351f2d301c0da0435dc]
+### 8. Interpretation[^c-b7b55e182506dc4b34c1bb799eda2bf9][^c-cf799937be0c7351f2d301c0da0435dc]
 
 In this Schedule—
 
@@ -164,34 +164,34 @@ In this Schedule—
 
 ## Annotations
 
-[^key-82d480fd5b6166f5dfe9511d2e7243c5]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-82d480fd5b6166f5dfe9511d2e7243c5]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-727124a12eb0744c08b5bfa15813b53a]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/1) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
+[^c-727124a12eb0744c08b5bfa15813b53a]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/1) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
 
-[^key-3855a70d6e9706d27679105d541fc9b8]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-3855a70d6e9706d27679105d541fc9b8]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-67f40ecc356ba9521e35739c5d625fec]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/2) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
+[^c-67f40ecc356ba9521e35739c5d625fec]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/2) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
 
-[^key-013ed65f77d83d4d9ab33eddde8d1ffd]: Commencement: Sch. 10 para. 3 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-013ed65f77d83d4d9ab33eddde8d1ffd]: Commencement: Sch. 10 para. 3 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-7ea09221467f429662bfbfa0b85b5327]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/3) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
+[^c-7ea09221467f429662bfbfa0b85b5327]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/3) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
 
-[^key-c93a183ae8c874bf23c8ef1415a3189e]: Commencement: Sch. 10 para. 4 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-c93a183ae8c874bf23c8ef1415a3189e]: Commencement: Sch. 10 para. 4 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-d2eeeeb3c1bd87dadd26cea842819d5f]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/4) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
+[^c-d2eeeeb3c1bd87dadd26cea842819d5f]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/4) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
 
-[^key-3067cdefef53905a9d09ac3d7913a6db]: Commencement: Sch. 10 para. 5 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-3067cdefef53905a9d09ac3d7913a6db]: Commencement: Sch. 10 para. 5 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-3e7ed81740637c0c876251ea70d8c868]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/5) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
+[^c-3e7ed81740637c0c876251ea70d8c868]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/5) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
 
-[^key-f0cb21d3522cc3fe6756a3f7bf89e719]: Commencement: Sch. 10 para. 6 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-f0cb21d3522cc3fe6756a3f7bf89e719]: Commencement: Sch. 10 para. 6 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-5aa9a9fcae101d53f63449ccf90068f1]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/6) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
+[^c-5aa9a9fcae101d53f63449ccf90068f1]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/6) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
 
-[^key-e606654449ae5fce76da53d05bc96de3]: Commencement: Sch. 10 para. 7 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-e606654449ae5fce76da53d05bc96de3]: Commencement: Sch. 10 para. 7 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-87122da5a8f6963a7123302895d47652]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/7) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
+[^c-87122da5a8f6963a7123302895d47652]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/7) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
 
-[^key-b7b55e182506dc4b34c1bb799eda2bf9]: Commencement: Sch. 10 para. 8 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-b7b55e182506dc4b34c1bb799eda2bf9]: Commencement: Sch. 10 para. 8 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-cf799937be0c7351f2d301c0da0435dc]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/8) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
+[^c-cf799937be0c7351f2d301c0da0435dc]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2023/50/schedule/10/paragraph/8) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)

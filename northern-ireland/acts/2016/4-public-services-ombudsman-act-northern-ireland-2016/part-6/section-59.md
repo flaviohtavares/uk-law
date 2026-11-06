@@ -33,7 +33,7 @@ In this Act—
 - “**health and social care body**” means any of the following bodies—
   - (a) health and social care trusts,
   - (b) special health and social care agencies,
-  - (c) [^key-4a529f798fd5b855ca73a47a9f6975b4]...
+  - (c) [^c-4a529f798fd5b855ca73a47a9f6975b4]...
   - (d) the Regional Agency for Public Health and Social Well-being,
   - (e) the Regional Business Services Organisation, and
   - (f) the Health and Social Care Regulation and Quality Improvement Authority,
@@ -51,4 +51,4 @@ In this Act—
 
 ## Annotations
 
-[^key-4a529f798fd5b855ca73a47a9f6975b4]: Textual amendment: Words in [s. 59](https://www.legislation.gov.uk/nia/2016/4/section/59) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 250(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/250/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-4a529f798fd5b855ca73a47a9f6975b4]: Textual amendment: Words in [s. 59](https://www.legislation.gov.uk/nia/2016/4/section/59) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 250(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/250/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

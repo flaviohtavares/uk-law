@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-9a76c4428841c8b8e86b61b38dff947f]
+## 2. Interpretation[^c-9a76c4428841c8b8e86b61b38dff947f]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ In these Regulations—
 - “**the Act**” means the Companies Act 2006;
 - “**the 2009 Regulations**” means the Companies (Disclosure of Address) Regulations 2009 [^c23150731];
 - “**the 2016 Regulations**” means the Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 [^c23150741];
-- “credit institution” has the same meaning as in regulation 10(1) of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017;[^key-fbcc2aeb16419e37f77e3886971dba17]
+- “credit institution” has the same meaning as in regulation 10(1) of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017;[^c-fbcc2aeb16419e37f77e3886971dba17]
 - “financial institution” has the same meaning as in regulation 10(2) of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017;
 - “**former name**” means a name by which an individual was formerly known for business purposes;
 - “**limited liability partnership**” means a limited liability partnership incorporated under the Limited Liability Partnerships Act 2000 [^c23150751];
@@ -48,13 +48,13 @@ In these Regulations—
 
 ## Annotations
 
-[^key-9a76c4428841c8b8e86b61b38dff947f]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/339/regulation/2) applied (with modifications) (E.W.S.) (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2016/340/regulation/4), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/2/paragraph/1) (as amended: (26.6.2017) by [S.I. 2017/693](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [29](https://www.legislation.gov.uk/uksi/2017/693/regulation/29) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/2)); and (27.1.2025) by [S.I. 2024/1377](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/11/2))
+[^c-9a76c4428841c8b8e86b61b38dff947f]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/339/regulation/2) applied (with modifications) (E.W.S.) (6.4.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2016/340/regulation/4), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/2/paragraph/1) (as amended: (26.6.2017) by [S.I. 2017/693](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [29](https://www.legislation.gov.uk/uksi/2017/693/regulation/29) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/2)); and (27.1.2025) by [S.I. 2024/1377](https://www.legislation.gov.uk/uksi/2024/1377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2024/1377/regulation/11/2))
 
 [^c23150731]: Marginal citation: [S.I. 2009/214](https://www.legislation.gov.uk/uksi/2009/214); relevant amending instruments are [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), 2009/2400, 2009/2437, 2010/2156, 2011/1043, 2011/2085, 2012/700, 2013/472, 2013/1682, 2014/469, 2014/549, 2014/631 and 2015/842.
 
 [^c23150741]: Marginal citation: [S.I. 2016/340](https://www.legislation.gov.uk/uksi/2016/340).
 
-[^key-fbcc2aeb16419e37f77e3886971dba17]: Textual amendment: Words in reg. 2 inserted (26.6.2017) by [The Information about People with Significant Control (Amendment) Regulations 2017 (S.I. 2017/693)](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [12](https://www.legislation.gov.uk/uksi/2017/693/regulation/12) (with [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/1))
+[^c-fbcc2aeb16419e37f77e3886971dba17]: Textual amendment: Words in reg. 2 inserted (26.6.2017) by [The Information about People with Significant Control (Amendment) Regulations 2017 (S.I. 2017/693)](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [12](https://www.legislation.gov.uk/uksi/2017/693/regulation/12) (with [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2017/693/schedule/part/1))
 
 [^c23150751]: Marginal citation: [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12).
 

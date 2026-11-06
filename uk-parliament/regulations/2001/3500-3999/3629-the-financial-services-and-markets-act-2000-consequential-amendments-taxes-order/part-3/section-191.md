@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Calculation of earnings for the purposes of earnings-related contributions in particular cases[^key-7dffc189037bc134353d79b18e59de84]
+## 191. Calculation of earnings for the purposes of earnings-related contributions in particular cases[^c-7dffc189037bc134353d79b18e59de84]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In paragraph 3 of Schedule 2 (calculation of earnings for the purposes of earnin
 
 ## Annotations
 
-[^key-7dffc189037bc134353d79b18e59de84]: Commencement: Art. 191 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-7dffc189037bc134353d79b18e59de84]: Commencement: Art. 191 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

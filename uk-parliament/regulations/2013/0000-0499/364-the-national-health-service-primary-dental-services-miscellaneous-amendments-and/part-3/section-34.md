@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Amendment of regulation 20[^key-92e34ef1d3e2d4e122de4e9d296eb331]
+## 34. Amendment of regulation 20[^c-92e34ef1d3e2d4e122de4e9d296eb331]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 20 (other contractual terms), at the beginning of paragraph (1), f
 
 ## Annotations
 
-[^key-92e34ef1d3e2d4e122de4e9d296eb331]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2013/364/regulation/34) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-92e34ef1d3e2d4e122de4e9d296eb331]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2013/364/regulation/34) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

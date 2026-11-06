@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 854. Carrying on by partner of notional business[^key-6925442781ca30e3432c32c14290002c]
+## 854. Carrying on by partner of notional business[^c-6925442781ca30e3432c32c14290002c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6925442781ca30e3432c32c14290002c]: Textual amendment: [Ss. 852-856](https://www.legislation.gov.uk/ukpga/2005/5/section/852) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 25](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/25), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-6925442781ca30e3432c32c14290002c]: Textual amendment: [Ss. 852-856](https://www.legislation.gov.uk/ukpga/2005/5/section/852) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 25](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/25), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

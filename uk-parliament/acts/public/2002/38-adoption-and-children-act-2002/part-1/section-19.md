@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Placing children with parental consent[^key-3e7d9686325570548d3b2059516af03c][^key-fa84e99387737ab3c7e964d0038d6b5d]
+## 19. Placing children with parental consent[^c-3e7d9686325570548d3b2059516af03c][^c-fa84e99387737ab3c7e964d0038d6b5d]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ and has not withdrawn the consent, the agency is authorised to place the child f
 
 ## Annotations
 
-[^key-3e7d9686325570548d3b2059516af03c]: Commencement: S. 19 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-3e7d9686325570548d3b2059516af03c]: Commencement: S. 19 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-fa84e99387737ab3c7e964d0038d6b5d]: Modification: S. 19 restricted by 1978 c. 28, s. 16(3D) (as inserted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/23) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.S.I. 2005/643](https://www.legislation.gov.uk/ssi/2005/643), [art. 2(c)](https://www.legislation.gov.uk/ssi/2005/643/article/2/c))
+[^c-fa84e99387737ab3c7e964d0038d6b5d]: Modification: S. 19 restricted by 1978 c. 28, s. 16(3D) (as inserted (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2002/38/schedule/3/paragraph/23) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.S.I. 2005/643](https://www.legislation.gov.uk/ssi/2005/643), [art. 2(c)](https://www.legislation.gov.uk/ssi/2005/643/article/2/c))

@@ -25,7 +25,7 @@ summary: ''
 (2) An order under subsection (1) may be made only if—
 
 - (a) the national system operator has requested the making of the order,
-- (b)[^key-3b01c0d3bb2067b4676b7ba80dcffbf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3b01c0d3bb2067b4676b7ba80dcffbf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the unsatisfactory performance condition is met (see subsection (3)),
 - (d) it appears to the Secretary of State necessary or desirable to make the order as a result of a change, occurring after the coming into force of this section, in the persons having control of the national system operator (see subsection (4)), or
 - (e) it otherwise appears to the Secretary of State necessary or desirable to make the order in connection with furthering the purposes of—
@@ -64,13 +64,13 @@ that the affairs of the national system operator are conducted in accordance wit
 (11) In this section—
 
 - “**EMR functions**” means functions conferred on the national system operator by or by virtue of Chapter 2 (contracts for difference), Chapter 3 (capacity market) or Chapter 4 (investment contracts);
-- [^key-70418a3300d92df0054a78b3c0f81f4b]...
-- “**national system operator**” means the person designated as the Independent System Operator and Planner under section 162 of the Energy Act 2023.[^key-34f9149eaad2119b36b3dde04a673bd2]
+- [^c-70418a3300d92df0054a78b3c0f81f4b]...
+- “**national system operator**” means the person designated as the Independent System Operator and Planner under section 162 of the Energy Act 2023.[^c-34f9149eaad2119b36b3dde04a673bd2]
 
 ## Annotations
 
-[^key-3b01c0d3bb2067b4676b7ba80dcffbf9]: Textual amendment: S. 46(2)(b) omitted (1.10.2024) by virtue of [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(7)(a)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/7/a); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-3b01c0d3bb2067b4676b7ba80dcffbf9]: Textual amendment: S. 46(2)(b) omitted (1.10.2024) by virtue of [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(7)(a)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/7/a); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
-[^key-70418a3300d92df0054a78b3c0f81f4b]: Textual amendment: Words in s. 46(11) omitted (1.10.2024) by virtue of [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(7)(b)(i)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/7/b/i); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-70418a3300d92df0054a78b3c0f81f4b]: Textual amendment: Words in s. 46(11) omitted (1.10.2024) by virtue of [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(7)(b)(i)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/7/b/i); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
-[^key-34f9149eaad2119b36b3dde04a673bd2]: Textual amendment: Words in s. 46(11) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/7/b/ii); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-34f9149eaad2119b36b3dde04a673bd2]: Textual amendment: Words in s. 46(11) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/7/b/ii); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)

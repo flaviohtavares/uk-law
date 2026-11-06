@@ -91,11 +91,11 @@ As from the beginning of April, nineteen hundred and sixty, the rate at which th
 
 ### 73. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c624934]
 
-### 74. Visiting forces and allied headquarters (stamp duty exemptions).[^key-7f2e0623798190da226425bcffa3fd1b]
+### 74. Visiting forces and allied headquarters (stamp duty exemptions).[^c-7f2e0623798190da226425bcffa3fd1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 74A. Visiting forces and international military headquarters (stamp duty land tax exemptions)[^key-e0a0239d22c669766dd6dbffd42246bd][^key-adbed33af25f7950749cf0ed2efbcd18]
+### 74A. Visiting forces and international military headquarters (stamp duty land tax exemptions)[^c-e0a0239d22c669766dd6dbffd42246bd][^c-adbed33af25f7950749cf0ed2efbcd18]
 
 (1) This section has effect with a view to conferring exemptions from stamp duty land tax corresponding to exemptions applicable in the case of Her Majesty’s forces in relation to any visiting force of a designated country.
 
@@ -105,17 +105,17 @@ As from the beginning of April, nineteen hundred and sixty, the rate at which th
 
 (3) Relief under this section must be claimed in a land transaction return or an amendment of such a return.
 
-(4) Subsection (2) of this section has effect in relation to any designated international military[^key-f115f9ae2599ab1dab54b28102d03a06] headquarters as if—
+(4) Subsection (2) of this section has effect in relation to any designated international military[^c-f115f9ae2599ab1dab54b28102d03a06] headquarters as if—
 
 - (a) the headquarters were a visiting force of a designated country;
 - (b) the members of that force consisted of such of the persons serving at or attached to the headquarters as are members of the armed forces of a designated country;
-- (c)[^key-a50f4df0f51799ef8279f845f2f3eab9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-a50f4df0f51799ef8279f845f2f3eab9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) For the purposes of this section—
 
-- (a)[^key-de5f65260e2bffe62225cdb2ae510143] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) “designated” means designated for the purpose in question by or under any Order in Council made for giving effect to an international agreement[^key-69b8321686ae68ca6f9f75c5e012fcd8];
-- (c) “visiting force” means any body, contingent or detachment of a[^key-e8573a93a068b5ae967e73ae037de9a3] country’s forces which is for the time being or is to be present in the United Kingdom on the invitation of Her Majesty’s Government in the United Kingdom;
+- (a)[^c-de5f65260e2bffe62225cdb2ae510143] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) “designated” means designated for the purpose in question by or under any Order in Council made for giving effect to an international agreement[^c-69b8321686ae68ca6f9f75c5e012fcd8];
+- (c) “visiting force” means any body, contingent or detachment of a[^c-e8573a93a068b5ae967e73ae037de9a3] country’s forces which is for the time being or is to be present in the United Kingdom on the invitation of Her Majesty’s Government in the United Kingdom;
 - (d) “land transaction” has the meaning given by section 43(1) of the Finance Act 2003;
 - (e) “land transaction return” has the meaning given by section 76(1) of that Act.
 
@@ -230,21 +230,21 @@ SCHEDULES
 
 [^c624934]: Textual amendment: S. 73 repealed (with saving) by [Finance Act 1975 (c. 7)](https://www.legislation.gov.uk/ukpga/1975/7), [ss. 50](https://www.legislation.gov.uk/ukpga/1975/7/section/50), [52(2)(3)](https://www.legislation.gov.uk/ukpga/1975/7/section/52/2/3), [59](https://www.legislation.gov.uk/ukpga/1975/7/section/59), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1975/7/schedule/13/part/I)
 
-[^key-7f2e0623798190da226425bcffa3fd1b]: Textual amendment: [S. 74](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/44/section/74) repealed (17.7.2012 with effect in accordance with Sch. 39 para. 10(1)) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 2](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/2) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-7f2e0623798190da226425bcffa3fd1b]: Textual amendment: [S. 74](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/44/section/74) repealed (17.7.2012 with effect in accordance with Sch. 39 para. 10(1)) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 2](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/2) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
 
-[^key-e0a0239d22c669766dd6dbffd42246bd]: Textual amendment: S. 74A inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/6)
+[^c-e0a0239d22c669766dd6dbffd42246bd]: Textual amendment: S. 74A inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/6)
 
-[^key-adbed33af25f7950749cf0ed2efbcd18]: Textual amendment: Words in s. 74A heading substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 37 para. 1(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/37/paragraph/1/4)
+[^c-adbed33af25f7950749cf0ed2efbcd18]: Textual amendment: Words in s. 74A heading substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 37 para. 1(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/37/paragraph/1/4)
 
-[^key-f115f9ae2599ab1dab54b28102d03a06]: Textual amendment: Words in s. 74A(4) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 37 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/37/paragraph/1/2/a)
+[^c-f115f9ae2599ab1dab54b28102d03a06]: Textual amendment: Words in s. 74A(4) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 37 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/37/paragraph/1/2/a)
 
-[^key-a50f4df0f51799ef8279f845f2f3eab9]: Textual amendment: S. 74A(4)(c) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 37 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/37/paragraph/1/2/b)
+[^c-a50f4df0f51799ef8279f845f2f3eab9]: Textual amendment: S. 74A(4)(c) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 37 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/37/paragraph/1/2/b)
 
-[^key-de5f65260e2bffe62225cdb2ae510143]: Textual amendment: S. 74A(5)(a) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 37 para. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/37/paragraph/1/3/a)
+[^c-de5f65260e2bffe62225cdb2ae510143]: Textual amendment: S. 74A(5)(a) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 37 para. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/37/paragraph/1/3/a)
 
-[^key-69b8321686ae68ca6f9f75c5e012fcd8]: Textual amendment: Words in s. 74A(5)(b) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 37 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/37/paragraph/1/3/b)
+[^c-69b8321686ae68ca6f9f75c5e012fcd8]: Textual amendment: Words in s. 74A(5)(b) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 37 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/37/paragraph/1/3/b)
 
-[^key-e8573a93a068b5ae967e73ae037de9a3]: Textual amendment: Word in s. 74A(5)(c) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 37 para. 1(3)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/37/paragraph/1/3/c)
+[^c-e8573a93a068b5ae967e73ae037de9a3]: Textual amendment: Word in s. 74A(5)(c) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 37 para. 1(3)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/37/paragraph/1/3/c)
 
 [^c624937]: Textual amendment: Ss. 75, 76 repealed by [Purchase Tax Act 1963 (c. 9)](https://www.legislation.gov.uk/ukpga/1963/9), [s. 41(1)](https://www.legislation.gov.uk/ukpga/1963/9/section/41/1), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1963/9/schedule/4/part/I)
 

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-564b2f814f50d8805a14374bddaa8b5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-564b2f814f50d8805a14374bddaa8b5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Secretary of State may by an order made before and taking effect on the abolition date make provision for the exercise on and after that date of the functions which by virtue of Schedule 5 to that Act are exercisable by the Greater London Council in the London excluded area and for that purpose may make such consequential amendments in that Act and the [^c3162591]Water Act 1973 as appear to him to be required.
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-564b2f814f50d8805a14374bddaa8b5f]: Textual amendment: [S. 11(1)](https://www.legislation.gov.uk/ukpga/1985/51/section/11/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-564b2f814f50d8805a14374bddaa8b5f]: Textual amendment: [S. 11(1)](https://www.legislation.gov.uk/ukpga/1985/51/section/11/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
 [^c3162591]: Marginal citation: [1973 c. 37](https://www.legislation.gov.uk/ukpga/1973/37).
 

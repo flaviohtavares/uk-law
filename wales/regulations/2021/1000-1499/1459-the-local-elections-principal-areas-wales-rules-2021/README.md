@@ -43,9 +43,9 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by section 36A(1), (2), (4), (5) and (9) of the Representation of the People Act 1983[^f00001] and section 26(2) of the Welsh Language Act 1993[^f00002], make the following Rules.
 
-In accordance with section 36A(7) of the Representation of the People Act 1983, the Welsh Ministers have consulted such persons as they considered appropriate.[^key-1b76786196132769ab4e97426363152e]
+In accordance with section 36A(7) of the Representation of the People Act 1983, the Welsh Ministers have consulted such persons as they considered appropriate.[^c-1b76786196132769ab4e97426363152e]
 
-In accordance with section 36A(10) of the Representation of the People Act 1983, a draft of this instrument has been laid before and approved by a resolution of Senedd Cymru[^f00003].[^key-1b76786196132769ab4e97426363152e]
+In accordance with section 36A(10) of the Representation of the People Act 1983, a draft of this instrument has been laid before and approved by a resolution of Senedd Cymru[^f00003].[^c-1b76786196132769ab4e97426363152e]
 
 ## Contents
 
@@ -207,6 +207,6 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [1993 c. 38](https://www.legislation.gov.uk/ukpga/1993/38). Functions of the Secretary of State, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), article 2 and Schedule 1. Those functions were subsequently transferred to the Welsh Ministers by virtue of paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). See also section 59A of, and Schedule 3A to, the Government of Wales Act 2006. The power to make an order under section 26(2) of the Welsh Language Act 1993 may be exercised to make rules by virtue of section 39 of the Legislation (Wales) Act [2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2021/1).
 
-[^key-1b76786196132769ab4e97426363152e]: Modification: Rules applied (with modifications) (10.3.2022) by [S.I. 2007/236](https://www.legislation.gov.uk/uksi/2007/236), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2007/236/schedule/4/part/3) (as substituted by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/uksi/2022/263), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/263/regulation/1/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2022/263/schedule/3/paragraph/4) (with [reg. 12(f)](https://www.legislation.gov.uk/uksi/2022/263/regulation/12/f)))
+[^c-1b76786196132769ab4e97426363152e]: Modification: Rules applied (with modifications) (10.3.2022) by [S.I. 2007/236](https://www.legislation.gov.uk/uksi/2007/236), [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2007/236/schedule/4/part/3) (as substituted by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/uksi/2022/263), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/263/regulation/1/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2022/263/schedule/3/paragraph/4) (with [reg. 12(f)](https://www.legislation.gov.uk/uksi/2022/263/regulation/12/f)))
 
 [^f00003]: Footnote: See also section 40 of the Legislation (Wales) Act 2019 for provision about the procedure that applies to this instrument.

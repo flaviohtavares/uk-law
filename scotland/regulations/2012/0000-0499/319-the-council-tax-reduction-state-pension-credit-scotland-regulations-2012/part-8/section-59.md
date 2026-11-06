@@ -34,13 +34,13 @@ summary: ''
 
 (7) If two or more changes of circumstances occurring in the same reduction week would, but for this paragraph, take effect for the purpose of calculating entitlement to council tax reduction in different reduction weeks in accordance with paragraphs (1) to (6) they take effect from the day to which the appropriate paragraph from (2) to (6) refers, or, where more than one day is concerned, from the earlier day.
 
-(8) Where the change of circumstances is that income, or an increase in the amount of income, other than a benefit or an increase in the amount of a benefit under the 1992 Act , Part 4 of the Welfare Reform Act 2012 or article 24A of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^key-8bbedaf4d3336cd8c956c34074c7ae35], is paid in respect of a past period and there was no entitlement to income of that amount during that period, it takes effect for the purpose of calculating entitlement to council tax reduction from the first day on which the income, had it been paid in that period at intervals appropriate to that income, would have been taken into account for the purposes of these Regulations.
+(8) Where the change of circumstances is that income, or an increase in the amount of income, other than a benefit or an increase in the amount of a benefit under the 1992 Act , Part 4 of the Welfare Reform Act 2012 or article 24A of the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^c-8bbedaf4d3336cd8c956c34074c7ae35], is paid in respect of a past period and there was no entitlement to income of that amount during that period, it takes effect for the purpose of calculating entitlement to council tax reduction from the first day on which the income, had it been paid in that period at intervals appropriate to that income, would have been taken into account for the purposes of these Regulations.
 
 (9) Without prejudice to paragraph (8), where the change of circumstances is the payment of income or arrears of income in respect of a past period, it takes effect for the purpose of calculating entitlement to council tax reduction from the first day on which the income, had it been timeously paid in that period at intervals appropriate to that income, would have been taken into account for the purposes of these Regulations.
 
 (10) Paragraph (11) applies if—
 
-- (a) the applicant or the applicant's partner has attained the qualifying age for state pension credit[^key-7b523cd13e0427f77e3b0aefdc3aa4c5]; and
+- (a) the applicant or the applicant's partner has attained the qualifying age for state pension credit[^c-7b523cd13e0427f77e3b0aefdc3aa4c5]; and
 - (b) either—
   - (i) a non-dependant took up residence in the applicant's dwelling; or
   - (ii) there has been a change of circumstances in respect of a non-dependant as a result of which the amount of the deduction to be made under regulation 48 (non-dependant deductions) increased.
@@ -64,6 +64,6 @@ summary: ''
 
 [^c21459861]: Marginal citation: Section 79 was amended by S.S.I. 2005/51.
 
-[^key-8bbedaf4d3336cd8c956c34074c7ae35]: Textual amendment: Words in reg. 59(8) inserted (11.6.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 3) Regulations 2013 (S.S.I. 2013/142)](https://www.legislation.gov.uk/ssi/2013/142), [regs. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1), [12(6)](https://www.legislation.gov.uk/ssi/2013/142/regulation/12/6)
+[^c-8bbedaf4d3336cd8c956c34074c7ae35]: Textual amendment: Words in reg. 59(8) inserted (11.6.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 3) Regulations 2013 (S.S.I. 2013/142)](https://www.legislation.gov.uk/ssi/2013/142), [regs. 1](https://www.legislation.gov.uk/ssi/2013/142/regulation/1), [12(6)](https://www.legislation.gov.uk/ssi/2013/142/regulation/12/6)
 
-[^key-7b523cd13e0427f77e3b0aefdc3aa4c5]: Textual amendment: Words in [reg. 59(10)(a)](https://www.legislation.gov.uk/ssi/2012/319/regulation/59/10/a) substituted (1.2.2021) by [The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2020 (S.S.I. 2020/413)](https://www.legislation.gov.uk/ssi/2020/413), [regs. 1](https://www.legislation.gov.uk/ssi/2020/413/regulation/1), [12](https://www.legislation.gov.uk/ssi/2020/413/regulation/12)
+[^c-7b523cd13e0427f77e3b0aefdc3aa4c5]: Textual amendment: Words in [reg. 59(10)(a)](https://www.legislation.gov.uk/ssi/2012/319/regulation/59/10/a) substituted (1.2.2021) by [The Council Tax Reduction (Scotland) Amendment (No. 4) Regulations 2020 (S.S.I. 2020/413)](https://www.legislation.gov.uk/ssi/2020/413), [regs. 1](https://www.legislation.gov.uk/ssi/2020/413/regulation/1), [12](https://www.legislation.gov.uk/ssi/2020/413/regulation/12)

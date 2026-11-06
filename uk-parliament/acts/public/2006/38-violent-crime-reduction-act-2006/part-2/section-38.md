@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Meaning of “realistic imitation firearm”[^key-e45571ca69c5091a33b31f009a14c42c]
+## 38. Meaning of “realistic imitation firearm”[^c-e45571ca69c5091a33b31f009a14c42c]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e45571ca69c5091a33b31f009a14c42c]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2006/38/section/38) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(g)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/g)
+[^c-e45571ca69c5091a33b31f009a14c42c]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2006/38/section/38) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(g)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/g)

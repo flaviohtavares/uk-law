@@ -53,11 +53,11 @@ The Secretary of State in exercise of the powers conferred by sections 1 and 5 o
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-3ec6b314c192af9c73086ee8d091d25b]
+### 1. Citation and commencement[^c-3ec6b314c192af9c73086ee8d091d25b]
 
 This Order may be cited as the Crossrail (Kensal Green) Order 2013 and comes into force on 20th February 2013.
 
-### 2. Interpretation[^key-39d4012f6832599a072bbf307c078313]
+### 2. Interpretation[^c-39d4012f6832599a072bbf307c078313]
 
 (1) In this Order—
 
@@ -93,7 +93,7 @@ This Order may be cited as the Crossrail (Kensal Green) Order 2013 and comes int
 
 ### WORKS AND LANDS PROVISIONS
 
-#### 3. Power to carry out works[^key-d759489cdb31506888b3d9732c85b1fc]
+#### 3. Power to carry out works[^c-d759489cdb31506888b3d9732c85b1fc]
 
 (1) The undertaker may carry out the scheduled works.
 
@@ -109,14 +109,14 @@ This Order may be cited as the Crossrail (Kensal Green) Order 2013 and comes int
 
 (5) The works specified in paragraphs (3) and (4) may only be carried out within the Order limits.
 
-#### 4. Access to works[^key-36faf8da952dfe800614f97451f71a3d]
+#### 4. Access to works[^c-36faf8da952dfe800614f97451f71a3d]
 
 The undertaker may, for the purposes of the authorised works—
 
 - (a) form and lay out means of access, or improve existing means of access, in the location specified in columns (1) and (2) of Schedule 2 (access to works); and
 - (b) form and lay out such other means of access or improve existing means of access, at such locations within the Order Limits as the undertaker reasonably requires for the purposes of the authorised works as may be approved by the highway authority but such approval must not be unreasonably withheld.
 
-#### 5. Discharge of water[^key-7c6736574b864012d5248298c4a18597]
+#### 5. Discharge of water[^c-7c6736574b864012d5248298c4a18597]
 
 (1) The undertaker may use any watercourse or any public sewer or drain for the drainage of water in connection with the carrying out of the authorised works and for that purpose may lay down, take up and alter pipes and may, on any land within the Order limits, make openings into, and connections with, the watercourse, public sewer or drain.
 
@@ -133,14 +133,14 @@ The undertaker may, for the purposes of the authorised works—
 
 (6) The undertaker must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain under the powers conferred by this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^key-24d068d0aeeb3cc20c4b9ae35bab5ffc].
+(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^c-24d068d0aeeb3cc20c4b9ae35bab5ffc].
 
 (8) In this article—
 
 - (a) “public sewer or drain” means a sewer or drain which belongs to the Environment Agency, an internal drainage board, a local authority or a sewerage undertaker; and
 - (b) other expressions, excluding watercourse, used both in this article and in the Water Resources Act 1991[^f00013] have the same meaning as in that Act.
 
-#### 6. Power to survey and investigate land[^key-200ffbe343e3b9ac005a7cc3a0d0c117]
+#### 6. Power to survey and investigate land[^c-200ffbe343e3b9ac005a7cc3a0d0c117]
 
 (1) The undertaker may for the purposes of this Order—
 
@@ -168,7 +168,7 @@ but such consent must not be unreasonably withheld.
 
 (6) Nothing in this article overrides the requirement to obtain scheduled monument consent under the Ancient Monuments and Archaeological Areas Act 1979[^f00014].
 
-#### 7. Temporary use of land for carrying out works[^key-1ed5977d3650f19b61b8533196915013]
+#### 7. Temporary use of land for carrying out works[^c-1ed5977d3650f19b61b8533196915013]
 
 (1) The undertaker may, in connection with the carrying out of the authorised works—
 
@@ -192,7 +192,7 @@ but such consent must not be unreasonably withheld.
 
 (9) The undertaker may not take temporary possession of plot number 5 on the works and land plan without first obtaining the consent of Network Rail.
 
-#### 8. Suspension of private rights of way[^key-2bb701bda660f01ccd1ef84cee375d27]
+#### 8. Suspension of private rights of way[^c-2bb701bda660f01ccd1ef84cee375d27]
 
 (1) All private rights of way over land of which the undertaker takes temporary possession under this Order are suspended and unenforceable for as long as the undertaker remains in lawful possession of the land.
 
@@ -200,7 +200,7 @@ but such consent must not be unreasonably withheld.
 
 (3) Nothing in this article affects the operation of provisions in the agreement and deed of grant referred to in article 14 (modification of provisions in agreement and deed of grant relating to Canal Way).
 
-#### 9. Temporary stopping up of Canal Way[^key-a4e0c8523deddedae76609ae2f86bede]
+#### 9. Temporary stopping up of Canal Way[^c-a4e0c8523deddedae76609ae2f86bede]
 
 (1) The undertaker, during and for the purposes of the execution of the authorised works, may temporarily stop up, alter or divert Canal Way and may for any reasonable time—
 
@@ -213,7 +213,7 @@ but such consent must not be unreasonably withheld.
 
 (4) Any person who suffers loss by the suspension of any private right of way under this article is entitled to compensation to be determined, in case of a dispute, under Part 1 of the 1961 Act.
 
-#### 10. Power to execute street works[^key-57c47b10ee17721ea3eef212ef0223dd]
+#### 10. Power to execute street works[^c-57c47b10ee17721ea3eef212ef0223dd]
 
 (1) The undertaker may, for the purposes of the authorised works, enter upon Canal Way to the extent necessary and may—
 
@@ -226,13 +226,13 @@ but such consent must not be unreasonably withheld.
 
 (3) This article is subject to Part 1 of Schedule 3 (provisions relating to statutory undertakers, etc.).
 
-#### 11. Application of Part 1 of the 1965 Act[^key-fc16d9887c7756b4d5dfd46595df6d8e]
+#### 11. Application of Part 1 of the 1965 Act[^c-fc16d9887c7756b4d5dfd46595df6d8e]
 
 (1) Except as provided for in paragraph (2), sections 1, 3 and 13 of the 1965 Act, in so far as not inconsistent with the provisions of this Order, apply to the temporary use of land under this Order to the same extent as they apply to a compulsory purchase to which the Acquisition of Land Act 1981[^f00015] applies and as if this Order were a compulsory purchase Order under that Act.
 
 (2) Section 13 of the 1965 Act does not apply to the land referred to in article 7(9).
 
-#### 12. Time limit for exercise of powers of temporary possession[^key-40dc0609f33e78ba55c7511cf37d9afb]
+#### 12. Time limit for exercise of powers of temporary possession[^c-40dc0609f33e78ba55c7511cf37d9afb]
 
 The powers conferred by article 7 (temporary use of land for carrying out of works) cease after the end of the period of 5 years beginning with the day on which this Order comes into force, but nothing in this paragraph prevents the undertaker remaining in possession of land after the end of that period, if the land was entered and possession of it was taken before the end of that period.
 
@@ -240,11 +240,11 @@ The powers conferred by article 7 (temporary use of land for carrying out of wor
 
 ### MISCELLANEOUS AND GENERAL
 
-#### 13. Planning permission[^key-c9bb0cf0bf2f3c130c443b97f8b4ad0f]
+#### 13. Planning permission[^c-c9bb0cf0bf2f3c130c443b97f8b4ad0f]
 
 Planning permission which is deemed by a direction under section 90(2A) of the 1990 Act to be granted in relation to the authorised works is to be treated as specific planning permission for the purposes of section 264(3)(a) of that Act (cases in which land is to be treated as operational land of the purposes of that Act).
 
-#### 14. Modification of provisions in agreement and deed of grant relating to Canal Way[^key-b13ac467c5bc0ffb2ed2bf37e6618d83]
+#### 14. Modification of provisions in agreement and deed of grant relating to Canal Way[^c-b13ac467c5bc0ffb2ed2bf37e6618d83]
 
 (1) The modifications specified in paragraph (2) have effect with respect to—
 
@@ -258,7 +258,7 @@ Planning permission which is deemed by a direction under section 90(2A) of the 1
 
 (3) In this article, “Alternative Access Route” has the meaning given to it in the agreement referred to in paragraph (1)(a).
 
-#### 15. Defence to proceedings in respect of statutory nuisance[^key-ea7433caf313467794d93a3adbaac9b0]
+#### 15. Defence to proceedings in respect of statutory nuisance[^c-ea7433caf313467794d93a3adbaac9b0]
 
 (1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990 [^f00016] (summary proceedings by person aggrieved by statutory nuisance) in relation to a nuisance falling within sub-paragraph (g) of section 79(1) of that Act (noise emitted from premises so as to be prejudicial to health or a nuisance) no order may be made, and no fine may be imposed, under section 82(2) of that Act if the defendant shows—
 
@@ -272,7 +272,7 @@ Planning permission which is deemed by a direction under section 90(2A) of the 1
 
 do not apply where the consent relates to the use of premises by the undertaker for the purposes of or in connection with the exercise of the powers conferred by this Order with respect to works.
 
-#### 16. Obstruction of construction of authorised works[^key-f664c0d1b5bbac257443fef5dbecc0bb]
+#### 16. Obstruction of construction of authorised works[^c-f664c0d1b5bbac257443fef5dbecc0bb]
 
 Any person who, without reasonable excuse—
 
@@ -281,15 +281,15 @@ Any person who, without reasonable excuse—
 
 is guilty of any offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-#### 17. Statutory undertakers, etc.[^key-5b7f822b452dd488c22d233fc09b93d5]
+#### 17. Statutory undertakers, etc.[^c-5b7f822b452dd488c22d233fc09b93d5]
 
 The provisions of Schedule 3 (provisions relating to statutory undertakers, etc.) have effect.
 
-#### 18. Certification of plan, etc.[^key-c8f19c65d551f2876dc985d5d90dc0a8]
+#### 18. Certification of plan, etc.[^c-c8f19c65d551f2876dc985d5d90dc0a8]
 
 The undertaker must, as soon as practicable after the making of this Order, submit copies of the book of reference and the works and land plan to the Secretary of State for certification that they are, respectively, true copies of the book of reference and the plan referred to in this Order; and a document so certified is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-#### 19. Service of notices[^key-f17b0b1dff9324e6892bbf43665d7b9d]
+#### 19. Service of notices[^c-f17b0b1dff9324e6892bbf43665d7b9d]
 
 (1) A notice or other document required or authorised to be served for the purposes of this Order may be served—
 
@@ -321,11 +321,11 @@ The undertaker must, as soon as practicable after the making of this Order, subm
 
 (9) This article does not exclude the employment of any method of service not expressly provided for by it.
 
-#### 20. No double recovery[^key-650146e2271c5167d4a7c675e608c5b3]
+#### 20. No double recovery[^c-650146e2271c5167d4a7c675e608c5b3]
 
 Compensation is not payable in respect of the same matter both under this Order and under any other enactment, any contract or any rule of law.
 
-#### 21. Arbitration[^key-d2fd14a0cc70b1ff04ea4c835fdbf942]
+#### 21. Arbitration[^c-d2fd14a0cc70b1ff04ea4c835fdbf942]
 
 Any difference under any provision of this Order, unless otherwise provided for, must be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on the application of either party (after giving notice in writing to the other) by the President of the Institution of Civil Engineers.
 
@@ -341,7 +341,7 @@ Department for Transport
 
 SCHEDULES
 
-## SCHEDULE 1 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-cc02d0111ad1a118323cd6344a66b820]
+## SCHEDULE 1 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-cc02d0111ad1a118323cd6344a66b820]
 
 Article 2, 3 and 7
 
@@ -355,7 +355,7 @@ Article 2, 3 and 7
 </tbody>
 </table>
 
-## SCHEDULE 2 — ACCESS TO WORKS[^key-17d5c93683b37d3da23b7eb20a2b9b84]
+## SCHEDULE 2 — ACCESS TO WORKS[^c-17d5c93683b37d3da23b7eb20a2b9b84]
 
 Article 4
 
@@ -375,17 +375,17 @@ Article 17
 
 ### PART 1 — RAILWAY AND NAVIGATION UNDERTAKINGS
 
-**1.**[^key-cf1472caa4038f36aea8ddd9e01d57de] Subject to the following provisions of this Part of this schedule, the powers under article 10 (power to execute street works) to break up or open a street are not to be exercisable where the street, not being a highway maintainable at public expense (within the meaning of the Highways Act 1980) is under the control or management of, or is maintainable by, railway or tramway undertakers or a navigation authority, except with the consent of the undertakers or authority or, as the case may be, of the person to whom the level crossing belongs.
+**1.**[^c-cf1472caa4038f36aea8ddd9e01d57de] Subject to the following provisions of this Part of this schedule, the powers under article 10 (power to execute street works) to break up or open a street are not to be exercisable where the street, not being a highway maintainable at public expense (within the meaning of the Highways Act 1980) is under the control or management of, or is maintainable by, railway or tramway undertakers or a navigation authority, except with the consent of the undertakers or authority or, as the case may be, of the person to whom the level crossing belongs.
 
-**2.**[^key-18356fbaeaa70d0f7992439a0d7c4e39] Paragraph 1 does not apply to the carrying out under this Order of emergency works, within the meaning of Part 3 of the 1991 Act.
+**2.**[^c-18356fbaeaa70d0f7992439a0d7c4e39] Paragraph 1 does not apply to the carrying out under this Order of emergency works, within the meaning of Part 3 of the 1991 Act.
 
-**3.**[^key-14fed5157a93a395243d074e7381a510] A consent given for the purpose of paragraph 1 may be made subject to such reasonable conditions as may be specified by the person giving it but must not be unreasonably withheld.
+**3.**[^c-14fed5157a93a395243d074e7381a510] A consent given for the purpose of paragraph 1 may be made subject to such reasonable conditions as may be specified by the person giving it but must not be unreasonably withheld.
 
-**4.**[^key-b1469c81ec3c14368afc415857fa289c] In this schedule “navigation authority” means any person who has a duty or power under any enactment to work, maintain, conserve, improve or control any canal or other inland navigation, navigable river, estuary, harbour or dock.
+**4.**[^c-b1469c81ec3c14368afc415857fa289c] In this schedule “navigation authority” means any person who has a duty or power under any enactment to work, maintain, conserve, improve or control any canal or other inland navigation, navigable river, estuary, harbour or dock.
 
 ### PART 2 — PROTECTION OF NATIONAL GRID
 
-**5.**[^key-55e031ef26d0cd9e45543c200adde330] In this Part of this Schedule—
+**5.**[^c-55e031ef26d0cd9e45543c200adde330] In this Part of this Schedule—
 
 - “apparatus” means any mains, pipes, pressure governors, ventilators, cathodic protection, cables or other apparatus belonging to or maintained by the National Grid Gas PLC for the purposes of the conveyance or storage of gas or in the case of National Grid Electricity Transmission, electric lines of electrical plant (as defined in the Electricity Act 1989)[^f00019] and includes any structure in which apparatus is or is to be lodged or for giving access to apparatus;
 - “the company” means—
@@ -398,15 +398,15 @@ Article 17
 - “in” in a context referring to apparatus or alternative apparatus in land includes a reference to apparatus or alternative apparatus under, over or upon land; and
 - “plans” includes sections, specifications and method statements.
 
-#### 6. Temporarily stopped up streets, etc.; maintenance of apparatus[^key-da735bdba8724c93e4187621ae56d31e]
+#### 6. Temporarily stopped up streets, etc.; maintenance of apparatus[^c-da735bdba8724c93e4187621ae56d31e]
 
 In the event that Canal Way is temporarily stopped up under Article 9 (temporary stopping up of streets), the company is at liberty at all times to execute and do all such works and things in, upon or under Canal Way as may be reasonably necessary or desirable to enable it to maintain or use any apparatus which at the time of the stopping up or diversion was in that highway.
 
-#### 7. The 1991 Act[^key-c985f10dcbede958626ea65a9528d3ea]
+#### 7. The 1991 Act[^c-c985f10dcbede958626ea65a9528d3ea]
 
 This Schedule does not apply to anything done or proposed to be done in relation to or affecting any apparatus in so far as the relations between the company and the undertaker are regulated by the provisions of Part 3 of the 1991 Act.
 
-#### 8. Protection of apparatus[^key-f98213b0dbdac5f3cfa6a9ab400381a9]
+#### 8. Protection of apparatus[^c-f98213b0dbdac5f3cfa6a9ab400381a9]
 
 (1) Not less than 56 days before commencing the execution of any works which will affect any apparatus, the undertaker must submit to the company plans of the works to be executed.
 
@@ -418,11 +418,11 @@ This Schedule does not apply to anything done or proposed to be done in relation
 
 (5) Nothing in this paragraph requires the relocation or removal of apparatus referred to.
 
-#### 9. Access[^key-21f99da881fe74aff6092b49c54931c6]
+#### 9. Access[^c-21f99da881fe74aff6092b49c54931c6]
 
 If in consequence of the exercise of the powers conferred by this Order the access to any apparatus is materially obstructed the undertaker must provide such alternative means of access to such apparatus as will enable the company to maintain or use the apparatus no less effectively than was possible before such obstruction.
 
-#### 10. Indemnity[^key-662a147f0dfe015f893d039cab067202]
+#### 10. Indemnity[^c-662a147f0dfe015f893d039cab067202]
 
 (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the authorised works any damage is caused to any apparatus, the undertaker must—
 
@@ -449,9 +449,9 @@ Copies of the deposited plans are available for inspection at 25 Canada Square, 
 
 [^f00002]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42). Relevant amending instruments are [S.I. 1995/1541](https://www.legislation.gov.uk/uksi/1995/1541), [S.I. 1998/2226](https://www.legislation.gov.uk/uksi/1998/2226), [S.I. 2000/3199](https://www.legislation.gov.uk/uksi/2000/3199) and [S.I. 2006/958](https://www.legislation.gov.uk/uksi/2006/958).
 
-[^key-3ec6b314c192af9c73086ee8d091d25b]: Commencement: Art. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-3ec6b314c192af9c73086ee8d091d25b]: Commencement: Art. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-39d4012f6832599a072bbf307c078313]: Commencement: Art. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-39d4012f6832599a072bbf307c078313]: Commencement: Art. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
 [^f00003]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -469,84 +469,84 @@ Copies of the deposited plans are available for inspection at 25 Canada Square, 
 
 [^f00010]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-d759489cdb31506888b3d9732c85b1fc]: Commencement: Art. 3 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-d759489cdb31506888b3d9732c85b1fc]: Commencement: Art. 3 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-36faf8da952dfe800614f97451f71a3d]: Commencement: Art. 4 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-36faf8da952dfe800614f97451f71a3d]: Commencement: Art. 4 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-7c6736574b864012d5248298c4a18597]: Commencement: Art. 5 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-7c6736574b864012d5248298c4a18597]: Commencement: Art. 5 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
 [^f00011]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-24d068d0aeeb3cc20c4b9ae35bab5ffc]: Textual amendment: Words in [art. 5(7)](https://www.legislation.gov.uk/uksi/2013/198/article/5/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 47](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/47) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-24d068d0aeeb3cc20c4b9ae35bab5ffc]: Textual amendment: Words in [art. 5(7)](https://www.legislation.gov.uk/uksi/2013/198/article/5/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 47](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/47) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00013]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-200ffbe343e3b9ac005a7cc3a0d0c117]: Commencement: Art. 6 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-200ffbe343e3b9ac005a7cc3a0d0c117]: Commencement: Art. 6 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
 [^f00014]: Footnote: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46).
 
-[^key-1ed5977d3650f19b61b8533196915013]: Commencement: Art. 7 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-1ed5977d3650f19b61b8533196915013]: Commencement: Art. 7 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-2bb701bda660f01ccd1ef84cee375d27]: Commencement: Art. 8 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-2bb701bda660f01ccd1ef84cee375d27]: Commencement: Art. 8 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-a4e0c8523deddedae76609ae2f86bede]: Commencement: Art. 9 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-a4e0c8523deddedae76609ae2f86bede]: Commencement: Art. 9 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-57c47b10ee17721ea3eef212ef0223dd]: Commencement: Art. 10 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-57c47b10ee17721ea3eef212ef0223dd]: Commencement: Art. 10 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-fc16d9887c7756b4d5dfd46595df6d8e]: Commencement: Art. 11 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-fc16d9887c7756b4d5dfd46595df6d8e]: Commencement: Art. 11 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
 [^f00015]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-40dc0609f33e78ba55c7511cf37d9afb]: Commencement: Art. 12 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-40dc0609f33e78ba55c7511cf37d9afb]: Commencement: Art. 12 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-c9bb0cf0bf2f3c130c443b97f8b4ad0f]: Commencement: Art. 13 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-c9bb0cf0bf2f3c130c443b97f8b4ad0f]: Commencement: Art. 13 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-b13ac467c5bc0ffb2ed2bf37e6618d83]: Commencement: Art. 14 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-b13ac467c5bc0ffb2ed2bf37e6618d83]: Commencement: Art. 14 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-ea7433caf313467794d93a3adbaac9b0]: Commencement: Art. 15 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-ea7433caf313467794d93a3adbaac9b0]: Commencement: Art. 15 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
 [^f00016]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
 [^f00017]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
-[^key-f664c0d1b5bbac257443fef5dbecc0bb]: Commencement: Art. 16 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-f664c0d1b5bbac257443fef5dbecc0bb]: Commencement: Art. 16 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-5b7f822b452dd488c22d233fc09b93d5]: Commencement: Art. 17 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-5b7f822b452dd488c22d233fc09b93d5]: Commencement: Art. 17 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-c8f19c65d551f2876dc985d5d90dc0a8]: Commencement: Art. 18 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-c8f19c65d551f2876dc985d5d90dc0a8]: Commencement: Art. 18 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-f17b0b1dff9324e6892bbf43665d7b9d]: Commencement: Art. 19 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-f17b0b1dff9324e6892bbf43665d7b9d]: Commencement: Art. 19 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
 [^f00018]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-650146e2271c5167d4a7c675e608c5b3]: Commencement: Art. 20 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-650146e2271c5167d4a7c675e608c5b3]: Commencement: Art. 20 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-d2fd14a0cc70b1ff04ea4c835fdbf942]: Commencement: Art. 21 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-d2fd14a0cc70b1ff04ea4c835fdbf942]: Commencement: Art. 21 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-cc02d0111ad1a118323cd6344a66b820]: Commencement: Sch. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-cc02d0111ad1a118323cd6344a66b820]: Commencement: Sch. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-17d5c93683b37d3da23b7eb20a2b9b84]: Commencement: Sch. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-17d5c93683b37d3da23b7eb20a2b9b84]: Commencement: Sch. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-cf1472caa4038f36aea8ddd9e01d57de]: Commencement: Sch. 3 para. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-cf1472caa4038f36aea8ddd9e01d57de]: Commencement: Sch. 3 para. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-18356fbaeaa70d0f7992439a0d7c4e39]: Commencement: Sch. 3 para. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-18356fbaeaa70d0f7992439a0d7c4e39]: Commencement: Sch. 3 para. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-14fed5157a93a395243d074e7381a510]: Commencement: Sch. 3 para. 3 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-14fed5157a93a395243d074e7381a510]: Commencement: Sch. 3 para. 3 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-b1469c81ec3c14368afc415857fa289c]: Commencement: Sch. 3 para. 4 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-b1469c81ec3c14368afc415857fa289c]: Commencement: Sch. 3 para. 4 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-55e031ef26d0cd9e45543c200adde330]: Commencement: Sch. 3 para. 5 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-55e031ef26d0cd9e45543c200adde330]: Commencement: Sch. 3 para. 5 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
 [^f00019]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
 [^f00020]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). A new section 7 was substituted by section 5 of the Gas Act [1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45), and was further amended by section 76 of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-da735bdba8724c93e4187621ae56d31e]: Commencement: Sch. 3 para. 6 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-da735bdba8724c93e4187621ae56d31e]: Commencement: Sch. 3 para. 6 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-c985f10dcbede958626ea65a9528d3ea]: Commencement: Sch. 3 para. 7 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-c985f10dcbede958626ea65a9528d3ea]: Commencement: Sch. 3 para. 7 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-f98213b0dbdac5f3cfa6a9ab400381a9]: Commencement: Sch. 3 para. 8 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-f98213b0dbdac5f3cfa6a9ab400381a9]: Commencement: Sch. 3 para. 8 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-21f99da881fe74aff6092b49c54931c6]: Commencement: Sch. 3 para. 9 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-21f99da881fe74aff6092b49c54931c6]: Commencement: Sch. 3 para. 9 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
 
-[^key-662a147f0dfe015f893d039cab067202]: Commencement: Sch. 3 para. 10 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)
+[^c-662a147f0dfe015f893d039cab067202]: Commencement: Sch. 3 para. 10 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/198/article/1)

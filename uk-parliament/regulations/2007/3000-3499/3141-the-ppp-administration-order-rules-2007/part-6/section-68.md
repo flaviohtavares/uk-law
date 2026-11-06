@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Affidavit in support of application[^key-51ad386e34a5e4625f8bd0cd2a510fd7]
+## 68. Affidavit in support of application[^c-51ad386e34a5e4625f8bd0cd2a510fd7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An application under rule 67(3) shall be supported by an affidavit of a register
 
 ## Annotations
 
-[^key-51ad386e34a5e4625f8bd0cd2a510fd7]: Commencement: [Rule 68](https://www.legislation.gov.uk/uksi/2007/3141/rule/68) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-51ad386e34a5e4625f8bd0cd2a510fd7]: Commencement: [Rule 68](https://www.legislation.gov.uk/uksi/2007/3141/rule/68) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

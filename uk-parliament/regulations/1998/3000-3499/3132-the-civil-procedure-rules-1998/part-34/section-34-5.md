@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.5. Time for serving a witness summons[^key-1c4deaed0efeaa953d06a52903e55d83]
+## 34.5. Time for serving a witness summons[^c-1c4deaed0efeaa953d06a52903e55d83]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ is binding until the conclusion of the hearing at which the attendance of the wi
 
 ## Annotations
 
-[^key-1c4deaed0efeaa953d06a52903e55d83]: Commencement: [Rule 34.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.5) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-1c4deaed0efeaa953d06a52903e55d83]: Commencement: [Rule 34.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.5) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

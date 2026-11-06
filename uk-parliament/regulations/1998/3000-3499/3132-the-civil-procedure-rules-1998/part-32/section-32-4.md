@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32.4. Requirement to serve witness statements for use at trial[^key-b5fb4b834d48983b4196ee480107d28f]
+## 32.4. Requirement to serve witness statements for use at trial[^c-b5fb4b834d48983b4196ee480107d28f]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5fb4b834d48983b4196ee480107d28f]: Commencement: [Rule 32.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-b5fb4b834d48983b4196ee480107d28f]: Commencement: [Rule 32.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/32.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

@@ -44,8 +44,8 @@ the weekly amount of that claimant's income shall be determined—
 
 (5) This paragraph applies to—
 
-- (a)[^key-15df12310262ca1e0f235344a6f694de] royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark;
-- (b)[^key-03e060ca3d6437d3979d60f7e7330a0c] any payment in respect of any—
+- (a)[^c-15df12310262ca1e0f235344a6f694de] royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark;
+- (b)[^c-03e060ca3d6437d3979d60f7e7330a0c] any payment in respect of any—
   - (i) book registered under the Public Lending Right Scheme 1982 [^c1541585]; or
   - (ii) work made under any international public lending right scheme that is analogous to the Public Lending Right Scheme 1982;
 - (c) any payment which is made on an occasional basis.
@@ -57,13 +57,13 @@ the weekly amount of that claimant's income shall be determined—
 (8) The sums specified in Schedule 2 shall be disregarded in calculating—
 
 - (a) the claimant's earnings; and
-- (b)[^key-958e61c721ae975ba43e76e65f9cc90a] any amount to which paragraph (5) applies where the claimant is the first owner of the copyright, design, patent or trademark, or an original contributor to the book or work referred to in paragraph (5)(b).
+- (b)[^c-958e61c721ae975ba43e76e65f9cc90a] any amount to which paragraph (5) applies where the claimant is the first owner of the copyright, design, patent or trademark, or an original contributor to the book or work referred to in paragraph (5)(b).
 
-(8A)[^key-3b795c4fd7551d74acd59f64dc76f436] For the purposes of paragraph (8)(b), and for that purpose only, the amounts specified in paragraph (5) shall be treated as though they were earnings.
+(8A)[^c-3b795c4fd7551d74acd59f64dc76f436] For the purposes of paragraph (8)(b), and for that purpose only, the amounts specified in paragraph (5) shall be treated as though they were earnings.
 
 (9) Income specified in Schedule 3 is to be disregarded in the calculation of a claimant's income.
 
-(10)[^key-4b0ab0952236181b26cfd56acb03ff66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-4b0ab0952236181b26cfd56acb03ff66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) Schedule 4 shall have effect so that—
 
@@ -72,24 +72,24 @@ the weekly amount of that claimant's income shall be determined—
 
 (12) In the case of any income taken into account for the purpose of calculating a person's income, there shall be disregarded any amount payable by way of tax.
 
-(13)[^key-4b0ab0952236181b26cfd56acb03ff66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-4b0ab0952236181b26cfd56acb03ff66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-4b0ab0952236181b26cfd56acb03ff66][^key-84aa456e03e0dcca9e55c095dc6aa641] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-4b0ab0952236181b26cfd56acb03ff66][^c-84aa456e03e0dcca9e55c095dc6aa641] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c1541584]: Marginal citation: [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19).
 
-[^key-15df12310262ca1e0f235344a6f694de]: Textual amendment: Reg. 23(5)(a) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 9(5)(a)](https://www.legislation.gov.uk/uksi/2009/583/regulation/9/5/a)
+[^c-15df12310262ca1e0f235344a6f694de]: Textual amendment: Reg. 23(5)(a) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 9(5)(a)](https://www.legislation.gov.uk/uksi/2009/583/regulation/9/5/a)
 
-[^key-03e060ca3d6437d3979d60f7e7330a0c]: Textual amendment: Reg. 23(5)(b) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 9(5)(b)](https://www.legislation.gov.uk/uksi/2009/583/regulation/9/5/b)
+[^c-03e060ca3d6437d3979d60f7e7330a0c]: Textual amendment: Reg. 23(5)(b) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 9(5)(b)](https://www.legislation.gov.uk/uksi/2009/583/regulation/9/5/b)
 
 [^c1541585]: Marginal citation: The Scheme is set out in the Appendix to [S.I. 1982/719](https://www.legislation.gov.uk/uksi/1982/719).
 
-[^key-958e61c721ae975ba43e76e65f9cc90a]: Textual amendment: Reg. 23(8)(b) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 9(5)(c)](https://www.legislation.gov.uk/uksi/2009/583/regulation/9/5/c)
+[^c-958e61c721ae975ba43e76e65f9cc90a]: Textual amendment: Reg. 23(8)(b) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 9(5)(c)](https://www.legislation.gov.uk/uksi/2009/583/regulation/9/5/c)
 
-[^key-3b795c4fd7551d74acd59f64dc76f436]: Textual amendment: Reg. 23(8A) inserted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 9(5)(d)](https://www.legislation.gov.uk/uksi/2009/583/regulation/9/5/d)
+[^c-3b795c4fd7551d74acd59f64dc76f436]: Textual amendment: Reg. 23(8A) inserted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 9(5)(d)](https://www.legislation.gov.uk/uksi/2009/583/regulation/9/5/d)
 
-[^key-4b0ab0952236181b26cfd56acb03ff66]: Textual amendment: Reg. 23(10)(13)(14) omitted (3.7.2007) by virtue of [Housing Benefit and Council Tax Benefit (War Pension Disregards) Regulations 2007 (S.I. 2007/1619)](https://www.legislation.gov.uk/uksi/2007/1619), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1619/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2007/1619/regulation/7/b)
+[^c-4b0ab0952236181b26cfd56acb03ff66]: Textual amendment: Reg. 23(10)(13)(14) omitted (3.7.2007) by virtue of [Housing Benefit and Council Tax Benefit (War Pension Disregards) Regulations 2007 (S.I. 2007/1619)](https://www.legislation.gov.uk/uksi/2007/1619), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1619/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2007/1619/regulation/7/b)
 
-[^key-84aa456e03e0dcca9e55c095dc6aa641]: Textual amendment: Reg. 23(14) added (20.11.2006) by [Housing Benefit and Council Tax Benefit (Amendment) Regulations 2006 (S.I. 2006/2813)](https://www.legislation.gov.uk/uksi/2006/2813), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2813/regulation/1), [5](https://www.legislation.gov.uk/uksi/2006/2813/regulation/5)
+[^c-84aa456e03e0dcca9e55c095dc6aa641]: Textual amendment: Reg. 23(14) added (20.11.2006) by [Housing Benefit and Council Tax Benefit (Amendment) Regulations 2006 (S.I. 2006/2813)](https://www.legislation.gov.uk/uksi/2006/2813), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2813/regulation/1), [5](https://www.legislation.gov.uk/uksi/2006/2813/regulation/5)

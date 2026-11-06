@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 190. Payment of benefits to or in respect of a dual capacity member[^key-15d7a92c2f762deaf23f9eb9bea918d9]
+## 190. Payment of benefits to or in respect of a dual capacity member[^c-15d7a92c2f762deaf23f9eb9bea918d9]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15d7a92c2f762deaf23f9eb9bea918d9]: Commencement: Reg. 190 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-15d7a92c2f762deaf23f9eb9bea918d9]: Commencement: Reg. 190 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

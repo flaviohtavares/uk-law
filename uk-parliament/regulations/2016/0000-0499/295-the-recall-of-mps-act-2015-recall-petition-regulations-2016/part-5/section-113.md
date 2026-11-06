@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Early termination of petition[^key-23994c008e1b2879cd4468f1e1109560]
+## 113. Early termination of petition[^c-23994c008e1b2879cd4468f1e1109560]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Where a petition is terminated by virtue of section 13 of the Act (early termina
 
 ## Annotations
 
-[^key-23994c008e1b2879cd4468f1e1109560]: Commencement: Reg. 113 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-23994c008e1b2879cd4468f1e1109560]: Commencement: Reg. 113 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

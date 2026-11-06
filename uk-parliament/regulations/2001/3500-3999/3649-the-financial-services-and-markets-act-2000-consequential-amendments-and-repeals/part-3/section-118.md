@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Discharge of protected rights on winding up: insurance policies[^key-0ddb8e1c8879022d212e309b13544175]
+## 118. Discharge of protected rights on winding up: insurance policies[^c-0ddb8e1c8879022d212e309b13544175]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ddb8e1c8879022d212e309b13544175]: Textual amendment: [Art. 118](https://www.legislation.gov.uk/uksi/2001/3649/article/118) revoked (6.4.2012 being "the abolition date" for the purposes of s. 15(1) of the amending Act) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/6), [Sch. 7 Pt. 6](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/part/3)); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1267/article/2/a)
+[^c-0ddb8e1c8879022d212e309b13544175]: Textual amendment: [Art. 118](https://www.legislation.gov.uk/uksi/2001/3649/article/118) revoked (6.4.2012 being "the abolition date" for the purposes of s. 15(1) of the amending Act) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [s. 27(6)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/6), [Sch. 7 Pt. 6](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/6) (with [Sch. 4 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/part/3)); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1267/article/2/a)

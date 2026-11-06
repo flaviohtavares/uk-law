@@ -22,7 +22,7 @@ summary: ''
 
 Section 1
 
-**1.**[^key-a7728ab199f893813420fdcca1d8ff59] For sections 66A to 66C of the Water Industry Act 1991, and the Chapter heading and italic heading preceding section 66A, there is substituted—
+**1.**[^c-a7728ab199f893813420fdcca1d8ff59] For sections 66A to 66C of the Water Industry Act 1991, and the Chapter heading and italic heading preceding section 66A, there is substituted—
 
 > Supply duties etc: water supply licensees
 >
@@ -255,7 +255,7 @@ Section 1
 >
 > (11) For the purposes of this section, a water undertaker is the primary water undertaker of a water supply licensee if the undertaker's supply system is to be used for the purpose of making the supply to the premises mentioned in subsection (1), (2), (3) or (4).
 
-**2.**[^key-5b1ff80c348c91720d5325b3c19e6fb7] After section 66C (substituted by paragraph 1) there is inserted—
+**2.**[^c-5b1ff80c348c91720d5325b3c19e6fb7] After section 66C (substituted by paragraph 1) there is inserted—
 
 > **66CA. Determinations by Authority**
 >
@@ -287,7 +287,7 @@ Section 1
 > - (b) the NRBW, in a case where the areas of both undertakers are wholly in Wales;
 > - (c) both the Environment Agency and the NRBW, in any other case.
 
-**3.**[^key-a88e30a3b757619bf714e0fcb1795b0e] For section 66D of the Water Industry Act 1991 (determinations and agreements) there is substituted—
+**3.**[^c-a88e30a3b757619bf714e0fcb1795b0e] For section 66D of the Water Industry Act 1991 (determinations and agreements) there is substituted—
 
 > **66D. Agreements as to duties under sections 66A to 66C**
 >
@@ -335,7 +335,7 @@ Section 1
 > - (b) an order deemed to be such an agreement under subsection (3), or
 > - (c) an agreement varied by order under subsection (4).
 
-**4.**[^key-9790f8909762ee667f88f3b78a25cabd][^key-4bc1373cff6faf890fd8062d618fa0a4][^key-9dd458b87ecb9468d71caf2894b70b35][^key-cfcb40706cd2f6044104db93b81d6905] After section 66D of the Water Industry Act 1991 (as substituted by paragraph 3) there is inserted—
+**4.**[^c-9790f8909762ee667f88f3b78a25cabd][^c-4bc1373cff6faf890fd8062d618fa0a4][^c-9dd458b87ecb9468d71caf2894b70b35][^c-cfcb40706cd2f6044104db93b81d6905] After section 66D of the Water Industry Act 1991 (as substituted by paragraph 3) there is inserted—
 
 > **66DA. Codes in respect of section 66D agreements**
 >
@@ -439,7 +439,7 @@ Section 1
 >
 > (5) Unless the Authority gives notice that a revision in a revised code is in the view of the Authority a revision falling within subsection (1)(a), the revision ceases to have effect at the end of the period of six months beginning with the day after that on which the revised code is issued.
 
-**5.**[^key-66bf2cf7f4cfd7ffd2a4ecf0f0ce1e8e][^key-d28f26f82f772ad56e64b9c7893eee8b][^key-5cc59657d0ed710dfa814c5ca66607ea] For section 66E of that Act there is substituted—
+**5.**[^c-66bf2cf7f4cfd7ffd2a4ecf0f0ce1e8e][^c-d28f26f82f772ad56e64b9c7893eee8b][^c-5cc59657d0ed710dfa814c5ca66607ea] For section 66E of that Act there is substituted—
 
 > **66E. Rules about charges**
 >
@@ -597,9 +597,9 @@ Section 1
 > - (b) the Welsh Ministers, in relation to section 66D agreements affecting only the supply systems of water undertakers whose areas are wholly or mainly in Wales;
 > - (c) the Secretary of State and the Welsh Ministers acting jointly, in relation to section 66D agreements not falling within paragraph (a) or (b).
 
-**6.**[^key-a53bda903f38c10fb586fa201e0390f0] Section 66F (section 66D: supplementary) is repealed.
+**6.**[^c-a53bda903f38c10fb586fa201e0390f0] Section 66F (section 66D: supplementary) is repealed.
 
-**7.**[^key-646f7369e1ca50320a8d8db9cc20aba0] (1) Section 66G (designation of strategic supply) is amended as follows.
+**7.**[^c-646f7369e1ca50320a8d8db9cc20aba0] (1) Section 66G (designation of strategic supply) is amended as follows.
 
 (2) In subsection (1), for “an agreement under section 66D above” there is substituted “ a section 66D agreement ”.
 
@@ -617,7 +617,7 @@ Section 1
 > - (a) a retail authorisation (whether that retail authorisation is an authorisation of the licensee requesting the introduction of water or another water supply licensee's authorisation), or
 > - (b) a restricted retail authorisation of the licensee requesting the introduction of water.
 
-**8.**[^key-3743c6008ee791912090f82f224849b1] (1) Section 66H (designation of collective strategic supply) is amended as follows.
+**8.**[^c-3743c6008ee791912090f82f224849b1] (1) Section 66H (designation of collective strategic supply) is amended as follows.
 
 (2) In subsection (1)(b), for “agreements under section 66D above” there is substituted “ section 66D agreements ”.
 
@@ -635,9 +635,9 @@ Section 1
 > - (a) a retail authorisation (whether that retail authorisation is an authorisation of the licensee requesting the introduction of water or another water supply licensee's authorisation), or
 > - (b) a restricted retail authorisation of the licensee requesting the introduction of water.
 
-**9.** (1)[^key-8f6044cbeecf44e84680b6777ed7cfe5][^key-212a7812990c6e3580f77b57996d910b] Section 66I (prohibition on unauthorised use of supply system) is amended as follows.
+**9.** (1)[^c-8f6044cbeecf44e84680b6777ed7cfe5][^c-212a7812990c6e3580f77b57996d910b] Section 66I (prohibition on unauthorised use of supply system) is amended as follows.
 
-(2)[^key-13a81d826723941041977085f05d31fe] In subsection (1), for “of a customer” there is substituted
+(2)[^c-13a81d826723941041977085f05d31fe] In subsection (1), for “of a customer” there is substituted
 
 > of—
 >
@@ -647,49 +647,49 @@ Section 1
 
 .
 
-(3)[^key-13a81d826723941041977085f05d31fe] In subsection (2)(b)—
+(3)[^c-13a81d826723941041977085f05d31fe] In subsection (2)(b)—
 
 - (a) for “licensed water supplier” there is substituted “ water supply licensee ”;
 - (b) for “its licence” there is substituted “ the licensee's licence ”.
 
-(4)[^key-8351b697591dfb363cd07a63b4ed1412] After subsection (8), there is inserted—
+(4)[^c-8351b697591dfb363cd07a63b4ed1412] After subsection (8), there is inserted—
 
 > (8A) For the purposes of this section, a person (A) is associated with another person (B) if they would be associated with each other for the purposes of Schedule 2A if A were a water supply licensee.
 
-(5)[^key-8351b697591dfb363cd07a63b4ed1412] In subsection (9), for “section 17B(5) above” there is substituted “ section 17B ”.
+(5)[^c-8351b697591dfb363cd07a63b4ed1412] In subsection (9), for “section 17B(5) above” there is substituted “ section 17B ”.
 
 ## Annotations
 
-[^key-a7728ab199f893813420fdcca1d8ff59]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/1) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/i) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2017/462/article/6), [12](https://www.legislation.gov.uk/uksi/2017/462/article/12))
+[^c-a7728ab199f893813420fdcca1d8ff59]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/1) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(i)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/i) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2017/462/article/6), [12](https://www.legislation.gov.uk/uksi/2017/462/article/12))
 
-[^key-5b1ff80c348c91720d5325b3c19e6fb7]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/2) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/ii)
+[^c-5b1ff80c348c91720d5325b3c19e6fb7]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/2) in force at 1.4.2017 for specified purposes by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(ii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/ii)
 
-[^key-a88e30a3b757619bf714e0fcb1795b0e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/3) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(iii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/iii) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2017/462/article/6))
+[^c-a88e30a3b757619bf714e0fcb1795b0e]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/3) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(iii)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/iii) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2017/462/article/6))
 
-[^key-9790f8909762ee667f88f3b78a25cabd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/4) in force at 1.9.2015 for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/773/article/3/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/773/article/5))
+[^c-9790f8909762ee667f88f3b78a25cabd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/4) in force at 1.9.2015 for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/773/article/3/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2015/773/article/5))
 
-[^key-4bc1373cff6faf890fd8062d618fa0a4]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/4) in force at 1.9.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 3(d)(i)](https://www.legislation.gov.uk/uksi/2015/1469/article/3/d/i) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/1)[(3)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/3)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5))
+[^c-4bc1373cff6faf890fd8062d618fa0a4]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/4) in force at 1.9.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 3(d)(i)](https://www.legislation.gov.uk/uksi/2015/1469/article/3/d/i) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/1)[(3)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/3)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5))
 
-[^key-9dd458b87ecb9468d71caf2894b70b35]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/4) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(j)(i)](https://www.legislation.gov.uk/uksi/2016/465/article/2/j/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-9dd458b87ecb9468d71caf2894b70b35]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/4) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(j)(i)](https://www.legislation.gov.uk/uksi/2016/465/article/2/j/i) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-cfcb40706cd2f6044104db93b81d6905]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/4) in force at 30.3.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/462/article/2/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2017/462/article/10))
+[^c-cfcb40706cd2f6044104db93b81d6905]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/4) in force at 30.3.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/462/article/2/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2017/462/article/10))
 
-[^key-66bf2cf7f4cfd7ffd2a4ecf0f0ce1e8e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/5) in force at 1.9.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2015/1469/article/3/d/ii) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/1)[(3)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/3)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5))
+[^c-66bf2cf7f4cfd7ffd2a4ecf0f0ce1e8e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/5) in force at 1.9.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2015/1469/article/3/d/ii) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/1)[(3)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/3)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5))
 
-[^key-d28f26f82f772ad56e64b9c7893eee8b]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/5) in force at 1.9.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 3(e)](https://www.legislation.gov.uk/uksi/2016/465/article/3/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-d28f26f82f772ad56e64b9c7893eee8b]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/5) in force at 1.9.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 3(e)](https://www.legislation.gov.uk/uksi/2016/465/article/3/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-5cc59657d0ed710dfa814c5ca66607ea]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/5) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(iv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/iv) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2017/462/article/6))
+[^c-5cc59657d0ed710dfa814c5ca66607ea]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/5) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(iv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/iv) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2017/462/article/6))
 
-[^key-a53bda903f38c10fb586fa201e0390f0]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/6) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/v) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2017/462/article/6))
+[^c-a53bda903f38c10fb586fa201e0390f0]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/6) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/v) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2017/462/article/6))
 
-[^key-646f7369e1ca50320a8d8db9cc20aba0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/7) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/v)
+[^c-646f7369e1ca50320a8d8db9cc20aba0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/7) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/v)
 
-[^key-3743c6008ee791912090f82f224849b1]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/8) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/v)
+[^c-3743c6008ee791912090f82f224849b1]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/8) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(v)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/v)
 
-[^key-8f6044cbeecf44e84680b6777ed7cfe5]: Commencement: [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(j)(iii)](https://www.legislation.gov.uk/uksi/2016/465/article/2/j/iii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-8f6044cbeecf44e84680b6777ed7cfe5]: Commencement: [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/1) in force at 1.4.2016 for specified purposes by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(j)(iii)](https://www.legislation.gov.uk/uksi/2016/465/article/2/j/iii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-212a7812990c6e3580f77b57996d910b]: Commencement: [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/1) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/vi)
+[^c-212a7812990c6e3580f77b57996d910b]: Commencement: [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/1) in force at 1.4.2017 in so far as not already in force by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/vi)
 
-[^key-13a81d826723941041977085f05d31fe]: Commencement: [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/3) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(j)(ii)](https://www.legislation.gov.uk/uksi/2016/465/article/2/j/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-13a81d826723941041977085f05d31fe]: Commencement: [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/3) in force at 1.4.2016 by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(j)(ii)](https://www.legislation.gov.uk/uksi/2016/465/article/2/j/ii) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-8351b697591dfb363cd07a63b4ed1412]: Commencement: [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/4) [(5)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/5) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/vi)
+[^c-8351b697591dfb363cd07a63b4ed1412]: Commencement: [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/4) [(5)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/2/paragraph/9/5) in force at 1.4.2017 by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(i)(vi)](https://www.legislation.gov.uk/uksi/2017/462/article/3/i/vi)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Duty to act as agent in respect of derelict land etc.[^key-7a053dae7ea939aa6cd42fe97a42807c]
+## 27. Duty to act as agent in respect of derelict land etc.[^c-7a053dae7ea939aa6cd42fe97a42807c]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ but excluding the powers to make orders under section 1(5) and (7) of that Act.
 
 ## Annotations
 
-[^key-7a053dae7ea939aa6cd42fe97a42807c]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2008/17/section/27) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/n) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-7a053dae7ea939aa6cd42fe97a42807c]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2008/17/section/27) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/n) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

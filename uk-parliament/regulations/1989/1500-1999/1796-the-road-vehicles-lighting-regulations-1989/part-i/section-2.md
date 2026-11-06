@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Statement under section 43(3) of the Road Traffic Act 1988[^key-6f2afee1d45561d0f5c4a113d9470823]
+## 2. Statement under section 43(3) of the Road Traffic Act 1988[^c-6f2afee1d45561d0f5c4a113d9470823]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f2afee1d45561d0f5c4a113d9470823]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1989/1796/regulation/2) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-6f2afee1d45561d0f5c4a113d9470823]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1989/1796/regulation/2) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
 [^f00004]: Footnote: [1971 c. 10](https://www.legislation.gov.uk/ukpga/1971/10).

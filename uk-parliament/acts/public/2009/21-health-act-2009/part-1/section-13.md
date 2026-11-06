@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Direct payments: minor and consequential amendments[^key-66fad2e8b2a39b6fee3b5f79989d8081]
+## 13. Direct payments: minor and consequential amendments[^c-66fad2e8b2a39b6fee3b5f79989d8081]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 1 (which makes minor and consequential amendments relating to direct pa
 
 ## Annotations
 
-[^key-66fad2e8b2a39b6fee3b5f79989d8081]: Commencement: S. 13 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/30/article/2/b)
+[^c-66fad2e8b2a39b6fee3b5f79989d8081]: Commencement: S. 13 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/30/article/2/b)

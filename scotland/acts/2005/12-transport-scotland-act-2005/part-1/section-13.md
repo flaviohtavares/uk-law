@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Transfer to Scottish Ministers of certain rail provisions[^key-4d1dcdd0c7816dcea217b03c440dc433]
+## 13. Transfer to Scottish Ministers of certain rail provisions[^c-4d1dcdd0c7816dcea217b03c440dc433]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d1dcdd0c7816dcea217b03c440dc433]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2005/12/section/13) in force at 14.9.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/454/schedule/1)
+[^c-4d1dcdd0c7816dcea217b03c440dc433]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2005/12/section/13) in force at 14.9.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/454/schedule/1)

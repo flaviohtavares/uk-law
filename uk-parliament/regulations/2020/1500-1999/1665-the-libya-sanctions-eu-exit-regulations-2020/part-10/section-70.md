@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Time limit for proceedings for summary offences[^key-ab8f0b808e985da0ef8d73c256c0486b]
+## 70. Time limit for proceedings for summary offences[^c-ab8f0b808e985da0ef8d73c256c0486b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab8f0b808e985da0ef8d73c256c0486b]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-ab8f0b808e985da0ef8d73c256c0486b]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

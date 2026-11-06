@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Boundaries Scotland: changing date of next review of local government wards and number of councillors[^key-039ac4e5e392357a0d3454f75702ff36][^key-20a46180e51364a1d93f94e57bb02607]
+## 62. Boundaries Scotland: changing date of next review of local government wards and number of councillors[^c-039ac4e5e392357a0d3454f75702ff36][^c-20a46180e51364a1d93f94e57bb02607]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-039ac4e5e392357a0d3454f75702ff36]: Commencement: S. 62 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-039ac4e5e392357a0d3454f75702ff36]: Commencement: S. 62 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-20a46180e51364a1d93f94e57bb02607]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2025/4/section/62) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-20a46180e51364a1d93f94e57bb02607]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2025/4/section/62) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

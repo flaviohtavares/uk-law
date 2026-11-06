@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Rules of good estate management[^key-a05cb1dce5fda93d4d95469e903aae3a]
+## 38. Rules of good estate management[^c-a05cb1dce5fda93d4d95469e903aae3a]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a05cb1dce5fda93d4d95469e903aae3a]: Commencement: S. 38 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-a05cb1dce5fda93d4d95469e903aae3a]: Commencement: S. 38 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

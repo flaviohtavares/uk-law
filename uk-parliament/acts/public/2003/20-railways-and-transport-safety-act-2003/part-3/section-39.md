@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. British Transport Police Federation[^key-4d5091f0d57284c1a3c622597964bef4]
+## 39. British Transport Police Federation[^c-4d5091f0d57284c1a3c622597964bef4]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d5091f0d57284c1a3c622597964bef4]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2003/20/section/39) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(v)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/v)
+[^c-4d5091f0d57284c1a3c622597964bef4]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2003/20/section/39) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(v)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/v)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Amendment of Schedule 1[^key-e5b769ead71c61662337491ffe2981f0]
+## 38. Amendment of Schedule 1[^c-e5b769ead71c61662337491ffe2981f0]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5b769ead71c61662337491ffe2981f0]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2013/364/regulation/38) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-e5b769ead71c61662337491ffe2981f0]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2013/364/regulation/38) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

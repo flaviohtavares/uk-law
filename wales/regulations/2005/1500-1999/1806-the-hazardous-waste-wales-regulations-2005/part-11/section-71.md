@@ -24,8 +24,8 @@ summary: ''
 
 (2) Except as provided in paragraph (3), nothing in these Regulations may be construed as requiring a person to answer any question or give any information if to do so would incriminate that person or that person's spouse.
 
-(3) A person must comply with a request from the NRBW[^key-61830ad7e27ff4c200d40e4bc61f1def] to give information pursuant to regulation 55(2), notwithstanding that to do so may incriminate that person or that person's spouse, but information given in response to such a request may not be given in evidence in any criminal proceedings against that person or that person's spouse.
+(3) A person must comply with a request from the NRBW[^c-61830ad7e27ff4c200d40e4bc61f1def] to give information pursuant to regulation 55(2), notwithstanding that to do so may incriminate that person or that person's spouse, but information given in response to such a request may not be given in evidence in any criminal proceedings against that person or that person's spouse.
 
 ## Annotations
 
-[^key-61830ad7e27ff4c200d40e4bc61f1def]: Textual amendment: Word in [reg. 71(3)](https://www.legislation.gov.uk/wsi/2005/1806/regulation/71/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 34](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/34) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-61830ad7e27ff4c200d40e4bc61f1def]: Textual amendment: Word in [reg. 71(3)](https://www.legislation.gov.uk/wsi/2005/1806/regulation/71/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 34](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/34) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

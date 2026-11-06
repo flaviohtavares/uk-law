@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 15. Review of approval of an active substance[^key-4bfc2eb1c00761eefb7e9b6d3dfa19dc]
+## Article 15. Review of approval of an active substance[^c-4bfc2eb1c00761eefb7e9b6d3dfa19dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bfc2eb1c00761eefb7e9b6d3dfa19dc]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/eur/2012/528/article/15) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 76](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/76); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4bfc2eb1c00761eefb7e9b6d3dfa19dc]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/eur/2012/528/article/15) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 76](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/76); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

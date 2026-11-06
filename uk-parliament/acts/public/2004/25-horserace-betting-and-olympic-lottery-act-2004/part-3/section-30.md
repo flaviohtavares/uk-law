@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Distribution[^key-b4a0db0825a2c93f7913361b2140511b]
+## 30. Distribution[^c-b4a0db0825a2c93f7913361b2140511b]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,13 +42,13 @@ summary: ''
 - (a) as to repayment (with or without interest);
 - (b) providing for payments to be made only with the consent of a specified person.
 
-(6) The Secretary of State[^key-f4d208ad68dfa3a030635fb8d664f62f]... may by regulations provide that a specified class of expenditure is to be treated as—
+(6) The Secretary of State[^c-f4d208ad68dfa3a030635fb8d664f62f]... may by regulations provide that a specified class of expenditure is to be treated as—
 
 - (a) satisfying the requirements of subsection (2), or
 - (b) not satisfying those requirements.
 
 ## Annotations
 
-[^key-b4a0db0825a2c93f7913361b2140511b]: Commencement: S. 30 in force at 8.7.2005 by [S.I. 2005/1831](https://www.legislation.gov.uk/uksi/2005/1831), [art. 2](https://www.legislation.gov.uk/uksi/2005/1831/article/2)
+[^c-b4a0db0825a2c93f7913361b2140511b]: Commencement: S. 30 in force at 8.7.2005 by [S.I. 2005/1831](https://www.legislation.gov.uk/uksi/2005/1831), [art. 2](https://www.legislation.gov.uk/uksi/2005/1831/article/2)
 
-[^key-f4d208ad68dfa3a030635fb8d664f62f]: Textual amendment: Words in [s. 30](https://www.legislation.gov.uk/ukpga/2004/25/section/30) omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 4(e)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/4/e)
+[^c-f4d208ad68dfa3a030635fb8d664f62f]: Textual amendment: Words in [s. 30](https://www.legislation.gov.uk/ukpga/2004/25/section/30) omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 4(e)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/4/e)

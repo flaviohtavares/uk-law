@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Application for authorisation: unconnected multiple employer schemes[^key-8a47b036afb1564d1acefb4ccbf63564]
+## 4. Application for authorisation: unconnected multiple employer schemes[^c-8a47b036afb1564d1acefb4ccbf63564]
 
 *Extent: N.I.*
 
@@ -52,6 +52,6 @@ In section 59 (application for authorisation)—
 
 ## Annotations
 
-[^key-8a47b036afb1564d1acefb4ccbf63564]: Commencement: Reg. 4 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-8a47b036afb1564d1acefb4ccbf63564]: Commencement: Reg. 4 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00004]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46)

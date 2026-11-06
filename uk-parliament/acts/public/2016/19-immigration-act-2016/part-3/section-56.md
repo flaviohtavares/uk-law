@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Detention etc. by immigration officers in Scotland[^key-691000adbb660e5938603cebd91eeea5]
+## 56. Detention etc. by immigration officers in Scotland[^c-691000adbb660e5938603cebd91eeea5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-691000adbb660e5938603cebd91eeea5]: Textual amendment: S. 56 repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [23(1)](https://www.legislation.gov.uk/uksi/2018/46/article/23/1) (with [art. 23(2)](https://www.legislation.gov.uk/uksi/2018/46/article/23/2))
+[^c-691000adbb660e5938603cebd91eeea5]: Textual amendment: S. 56 repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/d), [23(1)](https://www.legislation.gov.uk/uksi/2018/46/article/23/1) (with [art. 23(2)](https://www.legislation.gov.uk/uksi/2018/46/article/23/2))

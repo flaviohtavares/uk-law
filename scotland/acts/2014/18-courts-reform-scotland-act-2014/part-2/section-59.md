@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Clerk of the Sheriff Appeal Court[^key-ea83cf966ee8b4100b62240633037475]
+## 59. Clerk of the Sheriff Appeal Court[^c-ea83cf966ee8b4100b62240633037475]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ as the Scottish Courts and Tribunals Service may determine.
 
 ## Annotations
 
-[^key-ea83cf966ee8b4100b62240633037475]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2014/18/section/59) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-ea83cf966ee8b4100b62240633037475]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2014/18/section/59) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

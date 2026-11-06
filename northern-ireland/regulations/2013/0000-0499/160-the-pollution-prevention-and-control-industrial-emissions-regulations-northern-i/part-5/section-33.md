@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Public registers of information[^key-b4e5598f5f1c0a7dcec3a5d2f2a4be78]
+## 33. Public registers of information[^c-b4e5598f5f1c0a7dcec3a5d2f2a4be78]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4e5598f5f1c0a7dcec3a5d2f2a4be78]: Commencement: Reg. 33 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-b4e5598f5f1c0a7dcec3a5d2f2a4be78]: Commencement: Reg. 33 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

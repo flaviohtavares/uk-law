@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 580. Interpretation of the 1998 Order[^key-930cef1a06ff9066ed86a48c20d03c20]
+## 580. Interpretation of the 1998 Order[^c-930cef1a06ff9066ed86a48c20d03c20]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-930cef1a06ff9066ed86a48c20d03c20]: Commencement: Art. 580 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-930cef1a06ff9066ed86a48c20d03c20]: Commencement: Art. 580 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -35,35 +35,35 @@ implementing Regulation (EC) No 808/2004 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-f40efb207a78b65244b4503552aacdcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f40efb207a78b65244b4503552aacdcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-f40efb207a78b65244b4503552aacdcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f40efb207a78b65244b4503552aacdcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f40efb207a78b65244b4503552aacdcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f40efb207a78b65244b4503552aacdcd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f40efb207a78b65244b4503552aacdcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Module 1: Enterprises and the information society[^key-f40efb207a78b65244b4503552aacdcd]
+## ANNEX I — Module 1: Enterprises and the information society[^c-f40efb207a78b65244b4503552aacdcd]
 
-[^key-f40efb207a78b65244b4503552aacdcd]**A.**
+[^c-f40efb207a78b65244b4503552aacdcd]**A.**
 
 **Subjects and their characteristics**
 
-[^key-f40efb207a78b65244b4503552aacdcd](1)
+[^c-f40efb207a78b65244b4503552aacdcd](1)
 
 The subjects to be covered for the reference year 2019, drawn from the list in Annex I to Regulation (EC) No 808/2004, shall be as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd](2)
+[^c-f40efb207a78b65244b4503552aacdcd](2)
 
 The following enterprise characteristics shall be collected:
 
-[^key-f40efb207a78b65244b4503552aacdcd]**(a)**
+[^c-f40efb207a78b65244b4503552aacdcd]**(a)**
 
 **ICT systems and their usage in enterprises**
 
@@ -72,7 +72,7 @@ The following enterprise characteristics shall be collected:
 - ((ii)) for enterprises using computers:
   - (optional) persons employed or percentage of the total number of persons employed who use computers for business purposes.
 
-[^key-f40efb207a78b65244b4503552aacdcd]**(b)**
+[^c-f40efb207a78b65244b4503552aacdcd]**(b)**
 
 **Use of the internet and other electronic networks by enterprises**
 
@@ -108,7 +108,7 @@ The following enterprise characteristics shall be collected:
   - use of social media to recruit employees;
   - use of social media to exchange views, opinions or knowledge within the enterprise.
 
-[^key-f40efb207a78b65244b4503552aacdcd]**(c)**
+[^c-f40efb207a78b65244b4503552aacdcd]**(c)**
 
 **E-commerce**
 
@@ -131,7 +131,7 @@ The following enterprise characteristics shall be collected:
   - receipt of orders that were placed by customers via EDI-type messages, by origin: other Member States, in the previous calendar year;
   - receipt of orders that were placed by customers via EDI-type messages, by origin: rest of the world, in the previous calendar year.
 
-[^key-f40efb207a78b65244b4503552aacdcd]**(d)**
+[^c-f40efb207a78b65244b4503552aacdcd]**(d)**
 
 **E-business processes and organisational aspects**
 
@@ -140,7 +140,7 @@ The following enterprise characteristics shall be collected:
   - use of any software application for managing information on customers (Customer Relationship Management — CRM software) that makes it possible to collect, store and make available to other business functions information about the enterprise's customers;
   - use of any software application for managing information on customers (Customer Relationship Management — CRM software) that enables information about customers to be analysed for marketing purposes.
 
-[^key-f40efb207a78b65244b4503552aacdcd]**(e)**
+[^c-f40efb207a78b65244b4503552aacdcd]**(e)**
 
 **ICT competence in the enterprise unit and the need for ICT skills**
 
@@ -154,7 +154,7 @@ The following enterprise characteristics shall be collected:
 - ((ii)) for enterprises using computers and which have recruited or tried to recruit ICT specialists in the previous calendar year:
   - (optional) vacancies for ICT specialists that were difficult to fill.
 
-[^key-f40efb207a78b65244b4503552aacdcd]**(f)**
+[^c-f40efb207a78b65244b4503552aacdcd]**(f)**
 
 **Barriers to the use of ICT, the internet and other electronic networks, e-commerce and e-business processes**
 
@@ -165,7 +165,7 @@ The following enterprise characteristics shall be collected:
   - lack of knowledge of foreign languages to communicate with customers in other Member States;
   - restrictions imposed by the enterprise's business partners on sales to certain Member States.
 
-[^key-f40efb207a78b65244b4503552aacdcd]**(g)**
+[^c-f40efb207a78b65244b4503552aacdcd]**(g)**
 
 **ICT security**
 
@@ -198,73 +198,73 @@ The following enterprise characteristics shall be collected:
   - (optional) document(s) on measures, practices or procedures on ICT security in the enterprise addressing: training of persons employed in the safe usage of ICT;
   - most recent definition or review of enterprise's document(s) on measures, practices or procedures on ICT security (such as risk assessment, evaluation of ICT security incidents): within the last 12 months; more than 12 months and up to twenty-four months ago; more than twenty-four months ago.
 
-[^key-f40efb207a78b65244b4503552aacdcd](3)
+[^c-f40efb207a78b65244b4503552aacdcd](3)
 
 The following background information shall be collected from all enterprises, or obtained from alternative sources:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd]**B.**
+[^c-f40efb207a78b65244b4503552aacdcd]**B.**
 
 **Coverage**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd]**C.**
+[^c-f40efb207a78b65244b4503552aacdcd]**C.**
 
 **Reference periods**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd]**D.**
+[^c-f40efb207a78b65244b4503552aacdcd]**D.**
 
 **Breakdown of data**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd]**E.**
+[^c-f40efb207a78b65244b4503552aacdcd]**E.**
 
 **Periodicity**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd]**F.**
+[^c-f40efb207a78b65244b4503552aacdcd]**F.**
 
 **Deadlines for transmission of results**
 
-[^key-f40efb207a78b65244b4503552aacdcd](1)
+[^c-f40efb207a78b65244b4503552aacdcd](1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd](2)
+[^c-f40efb207a78b65244b4503552aacdcd](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd](3)
+[^c-f40efb207a78b65244b4503552aacdcd](3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd](4)
+[^c-f40efb207a78b65244b4503552aacdcd](4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Module 2: Individuals, households and the information society[^key-f40efb207a78b65244b4503552aacdcd]
+## ANNEX II — Module 2: Individuals, households and the information society[^c-f40efb207a78b65244b4503552aacdcd]
 
-[^key-f40efb207a78b65244b4503552aacdcd]**A.**
+[^c-f40efb207a78b65244b4503552aacdcd]**A.**
 
 **Subjects and their characteristics**
 
-[^key-f40efb207a78b65244b4503552aacdcd](1)
+[^c-f40efb207a78b65244b4503552aacdcd](1)
 
 The subjects to be covered for the reference year 2019, drawn from the list in Annex II to Regulation (EC) No 808/2004, shall be as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd](2)
+[^c-f40efb207a78b65244b4503552aacdcd](2)
 
 The following characteristics shall be collected:
 
-[^key-f40efb207a78b65244b4503552aacdcd]**(a)**
+[^c-f40efb207a78b65244b4503552aacdcd]**(a)**
 
 **Access to and use of ICT by individuals and/or in households**
 
@@ -276,7 +276,7 @@ The following characteristics shall be collected:
   - (optional) internet connection: dial-up access over normal telephone line or ISDN;
   - (optional) internet connection: mobile narrowband connection (via mobile phone network below 3G).
 
-[^key-f40efb207a78b65244b4503552aacdcd]**(b)**
+[^c-f40efb207a78b65244b4503552aacdcd]**(b)**
 
 **Use of the internet for different purposes by individuals and/or in households**
 
@@ -344,7 +344,7 @@ The following characteristics shall be collected:
   - computer software (including computer and video games and software upgrades) downloaded or accessed from websites or apps in the last 12 months, for private use;
   - (optional) films, music, e-books, e-magazines, e-newspapers or computer software not downloaded or accessed online in the last 12 months, for private use.
 
-[^key-f40efb207a78b65244b4503552aacdcd]**(c)**
+[^c-f40efb207a78b65244b4503552aacdcd]**(c)**
 
 **ICT security and trust**
 
@@ -374,7 +374,7 @@ The following characteristics shall be collected:
 - ((v)) for individuals who have not submitted completed forms online to public authorities' websites or apps for private purposes in the last 12 months although there was a need to submit official forms, reasons for not submitting:
   - concerns about protection and security of personal data in the last 12 months.
 
-[^key-f40efb207a78b65244b4503552aacdcd]**(d)**
+[^c-f40efb207a78b65244b4503552aacdcd]**(d)**
 
 **ICT competence and skills**
 
@@ -391,7 +391,7 @@ The following characteristics shall be collected:
 - ((ii)) for individuals who have used the internet and spreadsheet software in the last 12 months, skills in:
   - using advanced functions of spreadsheet software designed to organise and analyse data, such as sorting, filtering, using formulas, creating charts.
 
-[^key-f40efb207a78b65244b4503552aacdcd]**(e)**
+[^c-f40efb207a78b65244b4503552aacdcd]**(e)**
 
 **Barriers to the use of ICT and the internet**
 
@@ -424,7 +424,7 @@ The following characteristics shall be collected:
   - (optional) someone else bought or ordered goods or services on the respondent's behalf;
   - other barriers to internet commerce.
 
-[^key-f40efb207a78b65244b4503552aacdcd]**(f)**
+[^c-f40efb207a78b65244b4503552aacdcd]**(f)**
 
 **Use of ICT by individuals to exchange information and services with governments and public administrations (e-government)**
 
@@ -440,7 +440,7 @@ The following characteristics shall be collected:
   - another person submitted completed forms online on the respondent's behalf (such as a consultant, a tax adviser, a relative or family member);
   - other reason for not submitting completed forms online to public authorities.
 
-[^key-f40efb207a78b65244b4503552aacdcd]**(g)**
+[^c-f40efb207a78b65244b4503552aacdcd]**(g)**
 
 **Access to and use of technologies enabling connection to the internet or other networks from anywhere at any time (ubiquitous connectivity)**
 
@@ -451,70 +451,70 @@ The following characteristics shall be collected:
   - use of other mobile devices (such as media or games player, e-book reader, smart watch) to access the internet away from home or work in the last three months;
   - no use of mobile devices to access the internet away from home or work in the last three months.
 
-[^key-f40efb207a78b65244b4503552aacdcd]**B.**
+[^c-f40efb207a78b65244b4503552aacdcd]**B.**
 
 **Coverage**
 
-[^key-f40efb207a78b65244b4503552aacdcd](1)
+[^c-f40efb207a78b65244b4503552aacdcd](1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd](2)
+[^c-f40efb207a78b65244b4503552aacdcd](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd](3)
+[^c-f40efb207a78b65244b4503552aacdcd](3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd]**C.**
+[^c-f40efb207a78b65244b4503552aacdcd]**C.**
 
 **Reference period**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd]**D.**
+[^c-f40efb207a78b65244b4503552aacdcd]**D.**
 
 **Socioeconomic background characteristics**
 
-[^key-f40efb207a78b65244b4503552aacdcd](1)
+[^c-f40efb207a78b65244b4503552aacdcd](1)
 
 For the subjects and their characteristics, listed in heading A(2) of this Annex, which concern households, the following background characteristics are to be collected:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd](2)
+[^c-f40efb207a78b65244b4503552aacdcd](2)
 
 For the subjects and their characteristics, listed in heading A(2) of this Annex, which relate to individuals, the following background characteristics are to be collected:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd]**E.**
+[^c-f40efb207a78b65244b4503552aacdcd]**E.**
 
 **Periodicity**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd]**F.**
+[^c-f40efb207a78b65244b4503552aacdcd]**F.**
 
 **Deadlines for transmission of results**
 
-[^key-f40efb207a78b65244b4503552aacdcd](1)
+[^c-f40efb207a78b65244b4503552aacdcd](1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd](2)
+[^c-f40efb207a78b65244b4503552aacdcd](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd](3)
+[^c-f40efb207a78b65244b4503552aacdcd](3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f40efb207a78b65244b4503552aacdcd](4)
+[^c-f40efb207a78b65244b4503552aacdcd](4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f40efb207a78b65244b4503552aacdcd]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 97](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/97)
+[^c-f40efb207a78b65244b4503552aacdcd]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 97](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/97)

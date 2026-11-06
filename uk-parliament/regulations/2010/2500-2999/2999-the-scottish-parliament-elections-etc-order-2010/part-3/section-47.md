@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Return as to election expenses: constituency and individual regional candidates[^key-4643feb53c1a34ff81a482e4004326d1]
+## 47. Return as to election expenses: constituency and individual regional candidates[^c-4643feb53c1a34ff81a482e4004326d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4643feb53c1a34ff81a482e4004326d1]: Commencement: Art. 47 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-4643feb53c1a34ff81a482e4004326d1]: Commencement: Art. 47 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00042]: Footnote: Schedule 2A was inserted by the 2000 Political Parties Act, section 130 and Schedule 16. Paragraph 10 was amended by the 2006 Act, Schedule 1, paragraph 16.

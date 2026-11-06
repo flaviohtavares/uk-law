@@ -54,7 +54,7 @@ Coming into force
 
 [^c23342971][^c23342981]The Secretary of State and the Welsh Ministers make these Regulations in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972 and paragraph 1A of Schedule 2 to that Act , and by section 307(3) and (5) of the Criminal Justice Act 2003 .
 
-These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State and to the Welsh Ministers that it is expedient for any reference in these Regulations to an Annex to Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora [^c23342991] to be construed as a reference to that Annex as amended from time to time.[^key-fc718fc0c03dedbad5394fbe5471388a]
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Secretary of State and to the Welsh Ministers that it is expedient for any reference in these Regulations to an Annex to Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora [^c23342991] to be construed as a reference to that Annex as amended from time to time.[^c-fc718fc0c03dedbad5394fbe5471388a]
 
 ## Contents
 
@@ -207,7 +207,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - [Section 59 — False statements made for obtaining licence](part-5/section-59.md)
 - [Section 60 — Offence of breaching licence condition](part-5/section-60.md)
 
-### PART 6 — Assessment of plans and projects[^key-1aa53e36cf52483982ffbbed070f5d5c][^key-c5252158584b09044d05d12294b15f06]
+### PART 6 — Assessment of plans and projects[^c-1aa53e36cf52483982ffbbed070f5d5c][^c-c5252158584b09044d05d12294b15f06]
 
 #### CHAPTER 1 — General provisions
 
@@ -216,7 +216,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - [Section 61 — Interpretation of Part 6](part-6/section-61.md)
 - [Section 62 — Application of provisions of Chapter 1](part-6/section-62.md)
 
-##### General provisions for protection of European sites, European offshore marine sites and certain Ramsar sites[^key-3c5394ce296c798158eb34761e3d46d2]
+##### General provisions for protection of European sites, European offshore marine sites and certain Ramsar sites[^c-3c5394ce296c798158eb34761e3d46d2]
 
 - [Section 63 — Assessment of implications for European sites , European offshore marine sites and certain Ramsar sites](part-6/section-63.md)
 - [Section 64 — Considerations of overriding public interest](part-6/section-64.md)
@@ -511,10 +511,10 @@ An impact assessment has not been produced for this instrument as no impact on b
 
 [^c23342991]: Marginal citation: OJ No. L 206, 22.7.1992, p.7, as last amended by Council Directive 2013/17/EU (OJ No. L 158, 10.6.2013, p.193).
 
-[^key-fc718fc0c03dedbad5394fbe5471388a]: Modification: Regulations: power to amend conferred (24.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 112](https://www.legislation.gov.uk/ukpga/2021/30/section/112), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/p)
+[^c-fc718fc0c03dedbad5394fbe5471388a]: Modification: Regulations: power to amend conferred (24.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 112](https://www.legislation.gov.uk/ukpga/2021/30/section/112), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/p)
 
-[^key-1aa53e36cf52483982ffbbed070f5d5c]: Modification: [Pt. 6](https://www.legislation.gov.uk/uksi/2017/1012/part/6): power to amend conferred (24.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 113](https://www.legislation.gov.uk/ukpga/2021/30/section/113), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/p)
+[^c-1aa53e36cf52483982ffbbed070f5d5c]: Modification: [Pt. 6](https://www.legislation.gov.uk/uksi/2017/1012/part/6): power to amend conferred (24.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 113](https://www.legislation.gov.uk/ukpga/2021/30/section/113), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/p)
 
-[^key-c5252158584b09044d05d12294b15f06]: Modification: [Pt. 6](https://www.legislation.gov.uk/uksi/2017/1012/part/6): power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
+[^c-c5252158584b09044d05d12294b15f06]: Modification: [Pt. 6](https://www.legislation.gov.uk/uksi/2017/1012/part/6): power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
 
-[^key-3c5394ce296c798158eb34761e3d46d2]: Textual amendment: Words in [reg. 63 cross-heading](https://www.legislation.gov.uk/uksi/2017/1012/part/6/chapter/1/crossheading/general-provisions-for-protection-of-european-sites-and-european-offshore-marine-sites) substituted (21.5.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/5) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))
+[^c-3c5394ce296c798158eb34761e3d46d2]: Textual amendment: Words in [reg. 63 cross-heading](https://www.legislation.gov.uk/uksi/2017/1012/part/6/chapter/1/crossheading/general-provisions-for-protection-of-european-sites-and-european-offshore-marine-sites) substituted (21.5.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/5) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/549](https://www.legislation.gov.uk/uksi/2026/549), [reg. 3](https://www.legislation.gov.uk/uksi/2026/549/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/549/regulation/4))

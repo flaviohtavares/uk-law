@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70D. Power to decline to determine applications in cases of earlier non-implementation etc[^key-9bcf57031616263a16eb70b6b5912eec]
+## 70D. Power to decline to determine applications in cases of earlier non-implementation etc[^c-9bcf57031616263a16eb70b6b5912eec]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ the person is guilty of an offence.
 
 ## Annotations
 
-[^key-9bcf57031616263a16eb70b6b5912eec]: Textual amendment: [S. 70D](https://www.legislation.gov.uk/ukpga/1990/8/section/70D) inserted (26.12.2023 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 113(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/113/2), [255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-9bcf57031616263a16eb70b6b5912eec]: Textual amendment: [S. 70D](https://www.legislation.gov.uk/ukpga/1990/8/section/70D) inserted (26.12.2023 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 113(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/113/2), [255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

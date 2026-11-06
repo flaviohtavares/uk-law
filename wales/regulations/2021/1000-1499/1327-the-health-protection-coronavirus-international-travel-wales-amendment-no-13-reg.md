@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 13) Regulations 2021 (revoked)[^key-537457c143728796e6af427f11aa5a87]
+The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 13) Regulations 2021 (revoked)[^c-537457c143728796e6af427f11aa5a87]
 
 Made
 
@@ -45,19 +45,19 @@ Coming into force
 
 at 8.00 p.m. on 26 November 2021
 
-[^key-537457c143728796e6af427f11aa5a87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-537457c143728796e6af427f11aa5a87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and coming into force[^key-537457c143728796e6af427f11aa5a87]
+## 1. Title and coming into force[^c-537457c143728796e6af427f11aa5a87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to Schedule 3A to the Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020[^key-537457c143728796e6af427f11aa5a87]
+## 2. Amendments to Schedule 3A to the Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020[^c-537457c143728796e6af427f11aa5a87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-537457c143728796e6af427f11aa5a87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-537457c143728796e6af427f11aa5a87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -75,4 +75,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-537457c143728796e6af427f11aa5a87]: Textual amendment: Regulations revoked (26.11.2021 at 7.59 p.m.) by [The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 14) Regulations 2021 (S.I. 2021/1329)](https://www.legislation.gov.uk/uksi/2021/1329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1329/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1329/regulation/2)
+[^c-537457c143728796e6af427f11aa5a87]: Textual amendment: Regulations revoked (26.11.2021 at 7.59 p.m.) by [The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 14) Regulations 2021 (S.I. 2021/1329)](https://www.legislation.gov.uk/uksi/2021/1329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1329/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1329/regulation/2)

@@ -45,7 +45,7 @@ summary: ''
 - “the scheduled works” means the works specified in Schedule 1 to this Order or any part of them;
 - “street” includes part of a street;
 - “street authority”, in relation to a street, has the same meaning as in Part III of the 1991 Act;
-- [^key-fc7821dd7681b28c09c0b213cfebcd05]...
+- [^c-fc7821dd7681b28c09c0b213cfebcd05]...
 - “the tribunal” means the Lands Tribunal.
 
 (2) References in this Order to rights over land include references to rights to do, or to place and maintain, anything in or on land or in the air-space over its surface.
@@ -78,4 +78,4 @@ summary: ''
 
 [^c2628851]: Marginal citation: [1976 c. 80](https://www.legislation.gov.uk/ukpga/1976/80). See section 4, as amended by the Rent Act 1977, section 155 and Schedule 23, and the Housing Act 1980, section 76(3).
 
-[^key-fc7821dd7681b28c09c0b213cfebcd05]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2002/1066/article/2) revoked (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2155/schedule/2) Table 2
+[^c-fc7821dd7681b28c09c0b213cfebcd05]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2002/1066/article/2) revoked (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2155/schedule/2) Table 2

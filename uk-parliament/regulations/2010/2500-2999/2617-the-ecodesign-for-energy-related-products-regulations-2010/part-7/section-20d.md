@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20D. Qualifying Northern Ireland Goods[^key-401118f97af1bda8f8c840d14e360d2a]
+## 20D. Qualifying Northern Ireland Goods[^c-401118f97af1bda8f8c840d14e360d2a]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-401118f97af1bda8f8c840d14e360d2a]: Textual amendment: Regs. 20A-20D inserted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/11) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4), [6(3)(4)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-401118f97af1bda8f8c840d14e360d2a]: Textual amendment: Regs. 20A-20D inserted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/11) (as amended by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1528/regulation/4), [6(3)(4)(a)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/6/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

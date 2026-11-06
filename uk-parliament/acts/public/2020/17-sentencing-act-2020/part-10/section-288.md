@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288. Operational period and supervision period[^key-254ab25a6914a077017b162be6eaf2a5]
+## 288. Operational period and supervision period[^c-254ab25a6914a077017b162be6eaf2a5]
 
 *Extent: E+W*
 
@@ -25,9 +25,9 @@ summary: ''
 (2) The operational period must be a period, beginning with the day on which the order is made, of—
 
 - (a) at least 6 months, and
-- (b) not more than the maximum period[^key-7eb38905a12817d0cb23cd116b390afe].
+- (b) not more than the maximum period[^c-7eb38905a12817d0cb23cd116b390afe].
 
-(2A)[^key-04fa42428e0512a3d75f9344a7dbc337] The maximum period for the purposes of subsection (2)(b) is 3 years if—
+(2A)[^c-04fa42428e0512a3d75f9344a7dbc337] The maximum period for the purposes of subsection (2)(b) is 3 years if—
 
 - (a) the term of the suspended sentence is more than 2 years, or
 - (b) the suspended sentence is one of two or more sentences imposed on the same occasion which are to be served consecutively and the terms of those sentences are in aggregate more than 2 years.
@@ -48,14 +48,14 @@ summary: ''
 - (a) continues until the offender has worked under the order for the number of hours specified in the order under paragraph 2(1) of Schedule 9, but
 - (b) does not continue beyond the end of the operational period.
 
-(6)[^key-5a3cd9b2feeb1f4d09a1372534577f60] For provision about the termination of the supervision period, see paragraph 22A of Schedule 16.
+(6)[^c-5a3cd9b2feeb1f4d09a1372534577f60] For provision about the termination of the supervision period, see paragraph 22A of Schedule 16.
 
 ## Annotations
 
-[^key-254ab25a6914a077017b162be6eaf2a5]: Commencement: S. 288 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-254ab25a6914a077017b162be6eaf2a5]: Commencement: S. 288 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-7eb38905a12817d0cb23cd116b390afe]: Textual amendment: Words in [s. 288(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/section/288/2/b) substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/2/4/a), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-7eb38905a12817d0cb23cd116b390afe]: Textual amendment: Words in [s. 288(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/section/288/2/b) substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/2/4/a), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-04fa42428e0512a3d75f9344a7dbc337]: Textual amendment: [S. 288(2A)](https://www.legislation.gov.uk/ukpga/2020/17/section/288/2A)[(2B)](https://www.legislation.gov.uk/ukpga/2020/17/section/288/2B) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/2/4/b), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-04fa42428e0512a3d75f9344a7dbc337]: Textual amendment: [S. 288(2A)](https://www.legislation.gov.uk/ukpga/2020/17/section/288/2A)[(2B)](https://www.legislation.gov.uk/ukpga/2020/17/section/288/2B) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/2/4/b), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-5a3cd9b2feeb1f4d09a1372534577f60]: Textual amendment: [S. 288(6)](https://www.legislation.gov.uk/ukpga/2020/17/section/288/6) inserted (11.5.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/39/2), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 39(7)](https://www.legislation.gov.uk/ukpga/2026/2/section/39/7)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/e)
+[^c-5a3cd9b2feeb1f4d09a1372534577f60]: Textual amendment: [S. 288(6)](https://www.legislation.gov.uk/ukpga/2020/17/section/288/6) inserted (11.5.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/39/2), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 39(7)](https://www.legislation.gov.uk/ukpga/2026/2/section/39/7)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/e)

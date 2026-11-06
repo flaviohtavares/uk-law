@@ -190,11 +190,11 @@ In the Environmental Impact Assessment (Forestry) (Scotland) Regulations 1999 [^
 
 .
 
-### 9. The Water Supply (Water Quality) (Scotland) Regulations 2001[^key-53d4d67e45074eb3b0e652b8c76daf8d]
+### 9. The Water Supply (Water Quality) (Scotland) Regulations 2001[^c-53d4d67e45074eb3b0e652b8c76daf8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. The Education (Assisted Places) (Scotland) Regulations 2001[^key-e1a39d599c0912e61a55bed3d850f08c]
+### 10. The Education (Assisted Places) (Scotland) Regulations 2001[^c-e1a39d599c0912e61a55bed3d850f08c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -220,7 +220,7 @@ In the Kava-kava in Food (Scotland) Regulations 2002 [^c21800281], in regulation
 
   .
 
-### 13. The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Scotland) Regulations 2003[^key-96cb2886d9441d42eeb43596a660b2dd]
+### 13. The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Scotland) Regulations 2003[^c-96cb2886d9441d42eeb43596a660b2dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -283,7 +283,7 @@ In the Environmental Impact Assessment (Agriculture) (Scotland) Regulations 2006
 
 .
 
-### 21. The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011[^key-d1e0e8e1055339b4b00b69102354374b]
+### 21. The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011[^c-d1e0e8e1055339b4b00b69102354374b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -335,15 +335,15 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c21800241]: Marginal citation: [S.S.I. 1999/43](https://www.legislation.gov.uk/ssi/1999/43).
 
-[^key-53d4d67e45074eb3b0e652b8c76daf8d]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2013/177/schedule/1/paragraph/9) revoked (1.1.2015) by [The Public Water Supplies (Scotland) Regulations 2014 (S.S.I. 2014/364)](https://www.legislation.gov.uk/ssi/2014/364), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/1), [50(2)(d)](https://www.legislation.gov.uk/ssi/2014/364/regulation/50/2/d) (with [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/3)[(4)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/4))
+[^c-53d4d67e45074eb3b0e652b8c76daf8d]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ssi/2013/177/schedule/1/paragraph/9) revoked (1.1.2015) by [The Public Water Supplies (Scotland) Regulations 2014 (S.S.I. 2014/364)](https://www.legislation.gov.uk/ssi/2014/364), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/1), [50(2)(d)](https://www.legislation.gov.uk/ssi/2014/364/regulation/50/2/d) (with [reg. 1(3)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/3)[(4)](https://www.legislation.gov.uk/ssi/2014/364/regulation/1/4))
 
-[^key-e1a39d599c0912e61a55bed3d850f08c]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2013/177/schedule/1/paragraph/10) revoked (8.10.2015) by [The Education (Assisted Places) (Scotland) Revocation Regulations 2015 (S.S.I. 2015/318)](https://www.legislation.gov.uk/ssi/2015/318), [reg. 1](https://www.legislation.gov.uk/ssi/2015/318/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2015/318/schedule)
+[^c-e1a39d599c0912e61a55bed3d850f08c]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2013/177/schedule/1/paragraph/10) revoked (8.10.2015) by [The Education (Assisted Places) (Scotland) Revocation Regulations 2015 (S.S.I. 2015/318)](https://www.legislation.gov.uk/ssi/2015/318), [reg. 1](https://www.legislation.gov.uk/ssi/2015/318/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2015/318/schedule)
 
 [^c21800271]: Marginal citation: [S.S.I. 2001/223](https://www.legislation.gov.uk/ssi/2001/223).
 
 [^c21800281]: Marginal citation: [S.S.I. 2002/523](https://www.legislation.gov.uk/ssi/2002/523).
 
-[^key-96cb2886d9441d42eeb43596a660b2dd]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/13) revoked (1.1.2022) by [The Water Environment (Controlled Activities) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/412)](https://www.legislation.gov.uk/ssi/2021/412), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/412/regulation/1/2), [sch. para. 1](https://www.legislation.gov.uk/ssi/2021/412/schedule/paragraph/1)
+[^c-96cb2886d9441d42eeb43596a660b2dd]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/13) revoked (1.1.2022) by [The Water Environment (Controlled Activities) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/412)](https://www.legislation.gov.uk/ssi/2021/412), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/412/regulation/1/2), [sch. para. 1](https://www.legislation.gov.uk/ssi/2021/412/schedule/paragraph/1)
 
 [^c21800301]: Marginal citation: [S.S.I. 2004/6](https://www.legislation.gov.uk/ssi/2004/6).
 
@@ -359,4 +359,4 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c21800361]: Marginal citation: [S.S.I. 2006/582](https://www.legislation.gov.uk/ssi/2006/582).
 
-[^key-d1e0e8e1055339b4b00b69102354374b]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/ssi/2013/177/schedule/1/paragraph/21) revoked (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [60(9)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/9), [sch. 6](https://www.legislation.gov.uk/ssi/2017/102/schedule/6) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-d1e0e8e1055339b4b00b69102354374b]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/ssi/2013/177/schedule/1/paragraph/21) revoked (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [60(9)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/9), [sch. 6](https://www.legislation.gov.uk/ssi/2017/102/schedule/6) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Secretary of State's directions to certain health service bodies[^key-f2e6bc52a7594bdcffab33422bf33972]
+## 8. Secretary of State's directions to certain health service bodies[^c-f2e6bc52a7594bdcffab33422bf33972]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ summary: ''
 
 (2) The bodies are—
 
-- (a)[^key-086c64b4a68e6d4f6d045c3afd8e2591] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-9e445ba6f688db6310ce27598e99efb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-086c64b4a68e6d4f6d045c3afd8e2591] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9e445ba6f688db6310ce27598e99efb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) NHS trusts, and
 - (d) Special Health Authorities.
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f2e6bc52a7594bdcffab33422bf33972]: Textual amendment: Word in s. 8 heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/5/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-f2e6bc52a7594bdcffab33422bf33972]: Textual amendment: Word in s. 8 heading inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/5/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-086c64b4a68e6d4f6d045c3afd8e2591]: Textual amendment: [S. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2006/41/section/8/2/a) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/5/1/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-086c64b4a68e6d4f6d045c3afd8e2591]: Textual amendment: [S. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2006/41/section/8/2/a) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/5/1/a); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-9e445ba6f688db6310ce27598e99efb5]: Textual amendment: [S. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2006/41/section/8/2/b) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/5/1/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-9e445ba6f688db6310ce27598e99efb5]: Textual amendment: [S. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2006/41/section/8/2/b) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/5/1/b); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

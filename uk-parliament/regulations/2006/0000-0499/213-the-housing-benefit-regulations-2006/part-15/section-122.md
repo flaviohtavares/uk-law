@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 122. Modifications in respect of former pathfinder authorities[^key-0ac78a3d6f6360f9210dd29870a4b8e0]
+## 122. Modifications in respect of former pathfinder authorities[^c-0ac78a3d6f6360f9210dd29870a4b8e0]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ac78a3d6f6360f9210dd29870a4b8e0]: Textual amendment: Pt. 15 substituted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/4), [20(1)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/20/1)
+[^c-0ac78a3d6f6360f9210dd29870a4b8e0]: Textual amendment: Pt. 15 substituted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/4), [20(1)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/20/1)

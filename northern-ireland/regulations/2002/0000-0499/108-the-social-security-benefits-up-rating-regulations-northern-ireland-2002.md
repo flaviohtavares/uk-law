@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security Benefits Up-rating Regulations (Northern Ireland) 2002 (revoked)[^key-0fd08f98234d083a0ac4299539a8c233]
+The Social Security Benefits Up-rating Regulations (Northern Ireland) 2002 (revoked)[^c-0fd08f98234d083a0ac4299539a8c233]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 8th April 2002
 
-[^key-0fd08f98234d083a0ac4299539a8c233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fd08f98234d083a0ac4299539a8c233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-0fd08f98234d083a0ac4299539a8c233]
+## 1. Citation, commencement and interpretation[^c-0fd08f98234d083a0ac4299539a8c233]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exceptions relating to payment of additional benefit under awards made before the commencing date[^key-0fd08f98234d083a0ac4299539a8c233]
+## 2. Exceptions relating to payment of additional benefit under awards made before the commencing date[^c-0fd08f98234d083a0ac4299539a8c233]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Northern Ireland[^key-0fd08f98234d083a0ac4299539a8c233]
+## 3. Persons not ordinarily resident in Northern Ireland[^c-0fd08f98234d083a0ac4299539a8c233]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security Benefit (Dependency) Regulations[^key-0fd08f98234d083a0ac4299539a8c233]
+## 4. Amendment of the Social Security Benefit (Dependency) Regulations[^c-0fd08f98234d083a0ac4299539a8c233]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-0fd08f98234d083a0ac4299539a8c233]
+## 5. Revocations[^c-0fd08f98234d083a0ac4299539a8c233]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fd08f98234d083a0ac4299539a8c233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fd08f98234d083a0ac4299539a8c233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fd08f98234d083a0ac4299539a8c233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fd08f98234d083a0ac4299539a8c233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0fd08f98234d083a0ac4299539a8c233]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/108) revoked (7.4.2003) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2003 (S.R. 2003/156)](https://www.legislation.gov.uk/nisr/2003/156), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/156/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2003/156/regulation/5)
+[^c-0fd08f98234d083a0ac4299539a8c233]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/108) revoked (7.4.2003) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2003 (S.R. 2003/156)](https://www.legislation.gov.uk/nisr/2003/156), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/156/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2003/156/regulation/5)

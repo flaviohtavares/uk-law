@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.23. Remuneration of assessors[^key-c8b5338baf5031f9094cffebbb1c3f8f]
+## 2.23. Remuneration of assessors[^c-c8b5338baf5031f9094cffebbb1c3f8f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where an assessor is appointed by the sheriff to assist him in determining the s
 
 ## Annotations
 
-[^key-c8b5338baf5031f9094cffebbb1c3f8f]: Commencement: Rule 2.23 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-c8b5338baf5031f9094cffebbb1c3f8f]: Commencement: Rule 2.23 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

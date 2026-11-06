@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Appointment of another person to act[^key-d11d7cd2c9fa36daaf76949535c9a8b8]
+## 67. Appointment of another person to act[^c-d11d7cd2c9fa36daaf76949535c9a8b8]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d11d7cd2c9fa36daaf76949535c9a8b8]: Commencement: [Rule 67](https://www.legislation.gov.uk/uksi/2007/3141/rule/67) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-d11d7cd2c9fa36daaf76949535c9a8b8]: Commencement: [Rule 67](https://www.legislation.gov.uk/uksi/2007/3141/rule/67) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

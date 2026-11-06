@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## B2. Persons treated as employees of a scheduled body[^key-cb5bee75d62cad6f185614e529dce59c]
+## B2. Persons treated as employees of a scheduled body[^c-cb5bee75d62cad6f185614e529dce59c]
 
 *Extent: E+W+S*
 
@@ -60,7 +60,7 @@ he shall for the purposes of these regulations be deemed to be in employment wit
 
 ## Annotations
 
-[^key-cb5bee75d62cad6f185614e529dce59c]: Commencement: [Reg. B2](https://www.legislation.gov.uk/uksi/1986/24/regulation/B2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-cb5bee75d62cad6f185614e529dce59c]: Commencement: [Reg. B2](https://www.legislation.gov.uk/uksi/1986/24/regulation/B2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00013]: Footnote: [1953 c.37](https://www.legislation.gov.uk/ukpga/1953/37).
 

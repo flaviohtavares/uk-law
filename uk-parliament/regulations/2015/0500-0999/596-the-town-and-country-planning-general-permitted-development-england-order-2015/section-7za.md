@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7ZA. Prior approval applications: modified procedure in relation to call-in of applications[^key-4a246d66f4b8d40e1d9d7266f5957567]
+## 7ZA. Prior approval applications: modified procedure in relation to call-in of applications[^c-4a246d66f4b8d40e1d9d7266f5957567]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ shall not be counted for the purpose of calculating any time period for decision
 
 ## Annotations
 
-[^key-4a246d66f4b8d40e1d9d7266f5957567]: Textual amendment: [Art. 7ZA](https://www.legislation.gov.uk/uksi/2015/596/article/7ZA) inserted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [4](https://www.legislation.gov.uk/uksi/2018/343/article/4)
+[^c-4a246d66f4b8d40e1d9d7266f5957567]: Textual amendment: [Art. 7ZA](https://www.legislation.gov.uk/uksi/2015/596/article/7ZA) inserted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [4](https://www.legislation.gov.uk/uksi/2018/343/article/4)

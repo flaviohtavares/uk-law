@@ -30,9 +30,9 @@ summary: ''
 >
 > (3) Rebate shall not be allowed under this section in any case where it is allowed under section 14 below.
 
-(2)[^key-a1244a71c18ed4605156f03ecdf15b85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a1244a71c18ed4605156f03ecdf15b85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-729c8f4d6f31a05c7ca6cce79f1b1e5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-729c8f4d6f31a05c7ca6cce79f1b1e5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) This section shall be deemed to have come into force at 6 o’clock in the evening of 17th March 1987.
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^c11285981]: Marginal citation: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5).
 
-[^key-a1244a71c18ed4605156f03ecdf15b85]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukpga/1987/16/section/1/2) omitted (1.4.2008 retrospective) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(11)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/11/a)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12), [Sch. 5 paras. 25(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/a), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
+[^c-a1244a71c18ed4605156f03ecdf15b85]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukpga/1987/16/section/1/2) omitted (1.4.2008 retrospective) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(11)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/11/a)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12), [Sch. 5 paras. 25(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/25/a), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
 
-[^key-729c8f4d6f31a05c7ca6cce79f1b1e5a]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/1987/16/section/1/3) omitted (1.4.2008 retrospective) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(11)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/11/a)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)
+[^c-729c8f4d6f31a05c7ca6cce79f1b1e5a]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/1987/16/section/1/3) omitted (1.4.2008 retrospective) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 13(11)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/11/a)[(12)](https://www.legislation.gov.uk/ukpga/2008/9/section/13/12)

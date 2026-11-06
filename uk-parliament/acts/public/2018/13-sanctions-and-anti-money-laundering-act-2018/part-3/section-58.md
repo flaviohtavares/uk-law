@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Retained EU rights[^key-2000b3dd41bb0188586956370add8aef]
+## 58. Retained EU rights[^c-2000b3dd41bb0188586956370add8aef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2000b3dd41bb0188586956370add8aef]: Textual amendment: [S. 58](https://www.legislation.gov.uk/ukpga/2018/13/section/58) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 88(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/88/3)
+[^c-2000b3dd41bb0188586956370add8aef]: Textual amendment: [S. 58](https://www.legislation.gov.uk/ukpga/2018/13/section/58) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 88(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/88/3)

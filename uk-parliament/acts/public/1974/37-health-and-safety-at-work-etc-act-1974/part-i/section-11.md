@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Functions of the Executive.[^key-0fe72d9a6077d9cfd7b83aac041509d3][^c7806921][^c7806932][^c20459281][^c19946121]
+## 11. Functions of the Executive.[^c-0fe72d9a6077d9cfd7b83aac041509d3][^c7806921][^c7806932][^c20459281][^c19946121]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,12 +38,12 @@ summary: ''
 
 (4) In subsections (1) to (3)—
 
-- (a) references to the general purposes of this Part do not include references to any of the transferred purposes[^key-89ff463d69f88309f7d054bbcc15dc5b]; and
-- (b) the reference to the making of regulations under the relevant statutory provisions does not include a reference so far as the regulations are made —[^key-45ef5e291e2db298661f2fa8fb89f364]
+- (a) references to the general purposes of this Part do not include references to any of the transferred purposes[^c-89ff463d69f88309f7d054bbcc15dc5b]; and
+- (b) the reference to the making of regulations under the relevant statutory provisions does not include a reference so far as the regulations are made —[^c-45ef5e291e2db298661f2fa8fb89f364]
 - (i) for any of the transferred purposes, or
 - (ii) under section 43 and concern fees relating to nuclear site regulation.
 
-(4A)[^key-f0d18fac7811d36c4c6cdfd9a550dbe8] In subsection (4)—
+(4A)[^c-f0d18fac7811d36c4c6cdfd9a550dbe8] In subsection (4)—
 
 - (a) “ **the transferred purposes** ” means—
   - (i) the railway safety purposes;
@@ -55,24 +55,24 @@ summary: ''
   - (i) the Office for Nuclear Regulation, or
   - (ii) any inspector appointed by the Office for Nuclear Regulation.
 
-(4AA)[^key-915dd068f8f3f71484c46ee40207a469] Subsection (4)(b)(i) does not apply in relation to the making of regulations under section 3(2) for the railway safety purposes (and, accordingly, the Executive shall submit under subsection (3) such proposals as the Executive considers appropriate for the making of regulations under section 3(2) for those purposes).
+(4AA)[^c-915dd068f8f3f71484c46ee40207a469] Subsection (4)(b)(i) does not apply in relation to the making of regulations under section 3(2) for the railway safety purposes (and, accordingly, the Executive shall submit under subsection (3) such proposals as the Executive considers appropriate for the making of regulations under section 3(2) for those purposes).
 
 (4B) The Executive may submit to the Secretary of State any proposal submitted to it by the Office for Nuclear Regulation under section 81 of the Energy Act 2013 (proposals about orders and regulations).
 
 (5) It shall be the duty of the Executive—
 
-- (a) to submit to the Secretary of State from time to time particulars of what it proposes to do for the purpose of performing of its functions [^key-1b763c44d8152f2782d1238e425cbefd]...;
-- (b) to ensure that its activities [^key-95fc77711f1ef32fe006e5a401170c48]... are in accordance with proposals approved by the Secretary of State; and
+- (a) to submit to the Secretary of State from time to time particulars of what it proposes to do for the purpose of performing of its functions [^c-1b763c44d8152f2782d1238e425cbefd]...;
+- (b) to ensure that its activities [^c-95fc77711f1ef32fe006e5a401170c48]... are in accordance with proposals approved by the Secretary of State; and
 - (c) to give effect to any directions given to it by the Secretary of State.
 
 (6) The Executive shall provide a Minister of the Crown on request—
 
 - (a) with information about its activities in connection with any matter with which the Minister is concerned; and
-- (b) with advice on any matter with which he is concerned, where relevant expert advice is obtainable from any of the officers or servants of the Executive, but which is not relevant to the general purposes of this Part [^key-af58891e7cf315bf0cb936129afae98c]....
+- (b) with advice on any matter with which he is concerned, where relevant expert advice is obtainable from any of the officers or servants of the Executive, but which is not relevant to the general purposes of this Part [^c-af58891e7cf315bf0cb936129afae98c]....
 
 ## Annotations
 
-[^key-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
+[^c-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
 
 [^c7806921]: Modification: Ss. 1–25, 26, 27, 28, 30, 33, 34–59, 80, 81 and 82 applied by [S.I. 1989/840](https://www.legislation.gov.uk/uksi/1989/840), [arts. 2–10](https://www.legislation.gov.uk/uksi/1989/840/article/2)
 
@@ -82,16 +82,16 @@ summary: ''
 
 [^c19946121]: Textual amendment: Ss. 11-13 substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 5](https://www.legislation.gov.uk/uksi/2008/960/article/5) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 
-[^key-89ff463d69f88309f7d054bbcc15dc5b]: Textual amendment: Words in s. 11(4)(a) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/2/2/a); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-89ff463d69f88309f7d054bbcc15dc5b]: Textual amendment: Words in s. 11(4)(a) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/2/2/a); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-45ef5e291e2db298661f2fa8fb89f364]: Textual amendment: Words in s. 11(4)(b) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/2/2/b); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-45ef5e291e2db298661f2fa8fb89f364]: Textual amendment: Words in s. 11(4)(b) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/2/2/b); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-f0d18fac7811d36c4c6cdfd9a550dbe8]: Textual amendment: S. 11(4A)(4B) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 2(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/2/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-f0d18fac7811d36c4c6cdfd9a550dbe8]: Textual amendment: S. 11(4A)(4B) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 2(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/2/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-915dd068f8f3f71484c46ee40207a469]: Textual amendment: S. 11(4AA) inserted (26.3.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2015/20/section/1/4), [115(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/a) (with [s. 1(6)](https://www.legislation.gov.uk/ukpga/2015/20/section/1/6)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/a)
+[^c-915dd068f8f3f71484c46ee40207a469]: Textual amendment: S. 11(4AA) inserted (26.3.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2015/20/section/1/4), [115(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/a) (with [s. 1(6)](https://www.legislation.gov.uk/ukpga/2015/20/section/1/6)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/a)
 
-[^key-1b763c44d8152f2782d1238e425cbefd]: Textual amendment: Words in [s. 11(5)(a)](https://www.legislation.gov.uk/ukpga/1974/37/section/11/5/a) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/2/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-1b763c44d8152f2782d1238e425cbefd]: Textual amendment: Words in [s. 11(5)(a)](https://www.legislation.gov.uk/ukpga/1974/37/section/11/5/a) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/2/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
 
-[^key-95fc77711f1ef32fe006e5a401170c48]: Textual amendment: Words in [s. 11(5)(b)](https://www.legislation.gov.uk/ukpga/1974/37/section/11/5/b) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/2/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-95fc77711f1ef32fe006e5a401170c48]: Textual amendment: Words in [s. 11(5)(b)](https://www.legislation.gov.uk/ukpga/1974/37/section/11/5/b) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/2/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
 
-[^key-af58891e7cf315bf0cb936129afae98c]: Textual amendment: Words in [s. 11(6)(b)](https://www.legislation.gov.uk/ukpga/1974/37/section/11/6/b) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/2/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-af58891e7cf315bf0cb936129afae98c]: Textual amendment: Words in [s. 11(6)(b)](https://www.legislation.gov.uk/ukpga/1974/37/section/11/6/b) omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/2/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))

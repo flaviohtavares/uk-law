@@ -23,8 +23,8 @@ summary: ''
 (1) In this Act, unless the context otherwise requires—
 
 - “**contract of employment**” has the meaning given by section 230(2) of the Employment Rights Act 1996 (c. 18);
-- “local authority” has the same meaning as in the Education Act 1996 (see section 579(1) of that Act);[^key-f3eb2a856bcd9f25362600a484a68d01]
-- “**the local authority[^key-379c0a8ab791aad4cda0b42dbea5f020]**”, in relation to a school maintained (or proposed to be maintained) by a local authority, means that authority;
+- “local authority” has the same meaning as in the Education Act 1996 (see section 579(1) of that Act);[^c-f3eb2a856bcd9f25362600a484a68d01]
+- “**the local authority[^c-379c0a8ab791aad4cda0b42dbea5f020]**”, in relation to a school maintained (or proposed to be maintained) by a local authority, means that authority;
 - “**prescribed**” means prescribed by regulations;
 - “**regulations**” means regulations made under this Act by the Secretary of State (in relation to England) or by the National Assembly for Wales (in relation to Wales).
 
@@ -36,7 +36,7 @@ summary: ''
 - (b) Part 2 (financial assistance for education and childcare),
 - (c) Part 3 (maintained schools),
 - (d) Part 5 (school organisation), except section 72 and Schedule 9,
-- (e) Part 6[^key-cb363779afd1ab17a1df2db1f98bdac7] (the curriculum),
+- (e) Part 6[^c-cb363779afd1ab17a1df2db1f98bdac7] (the curriculum),
 - (f) in Part 8, sections 119 to 146,
 - (g) in Part 9, section 153,
 - (h) Part 10 (independent schools), and
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f3eb2a856bcd9f25362600a484a68d01]: Textual amendment: Words in s. 212(1) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(12)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/12)
+[^c-f3eb2a856bcd9f25362600a484a68d01]: Textual amendment: Words in s. 212(1) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(12)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/12)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
 
-[^key-cb363779afd1ab17a1df2db1f98bdac7]: Textual amendment: Words in s. 212(3)(e) substituted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 6(6)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/6/6)
+[^c-cb363779afd1ab17a1df2db1f98bdac7]: Textual amendment: Words in s. 212(3)(e) substituted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 6(6)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/6/6)

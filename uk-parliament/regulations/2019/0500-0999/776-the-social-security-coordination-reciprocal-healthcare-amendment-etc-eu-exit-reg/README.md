@@ -79,7 +79,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 - [Section 9 — The National Health Service (Personal Medical Services Agreements) Regulations 2015](part-3/section-9.md)
 - [Section 10 — The Social Security Coordination (Regulation (EC) No 883/2004, EEA Agreement and Swiss Agreement) (Amendment) (EU Exit) Regulations 2019](part-3/section-10.md)
 
-### PART 4 — Rights etc deriving from the Treaties[^key-521b9e01b54a537e0332c777686ee763]
+### PART 4 — Rights etc deriving from the Treaties[^c-521b9e01b54a537e0332c777686ee763]
 
 *Extent: E+W+S+N.I.*
 
@@ -146,4 +146,4 @@ An impact assessment has been prepared in relation to these Regulations and copi
 
 [^c23695371]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-521b9e01b54a537e0332c777686ee763]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2019/776/part/4) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/12)
+[^c-521b9e01b54a537e0332c777686ee763]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2019/776/part/4) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/12)

@@ -16,48 +16,48 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5BA — Enterprise investment scheme: application of taper relief[^key-84a47cd23e239fb4625f40087bc25a79]
+## SCHEDULE 5BA — Enterprise investment scheme: application of taper relief[^c-84a47cd23e239fb4625f40087bc25a79]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-### Application of Schedule[^key-84a47cd23e239fb4625f40087bc25a79]
+### Application of Schedule[^c-84a47cd23e239fb4625f40087bc25a79]
 
-**1.**[^key-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Taper relief on revived gains[^key-84a47cd23e239fb4625f40087bc25a79]
+### Taper relief on revived gains[^c-84a47cd23e239fb4625f40087bc25a79]
 
-**2.**[^key-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Qualifying holding period[^key-84a47cd23e239fb4625f40087bc25a79]
+### Qualifying holding period[^c-84a47cd23e239fb4625f40087bc25a79]
 
-**3.**[^key-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Periods that do not count[^key-84a47cd23e239fb4625f40087bc25a79]
+### Periods that do not count[^c-84a47cd23e239fb4625f40087bc25a79]
 
-**4.**[^key-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Gains on disposal of business or non-business assets[^key-84a47cd23e239fb4625f40087bc25a79]
+### Gains on disposal of business or non-business assets[^c-84a47cd23e239fb4625f40087bc25a79]
 
-**5.**[^key-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Savings[^key-84a47cd23e239fb4625f40087bc25a79]
+### Savings[^c-84a47cd23e239fb4625f40087bc25a79]
 
-**6.**[^key-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Relevant re-investment shares[^key-84a47cd23e239fb4625f40087bc25a79]
+### Relevant re-investment shares[^c-84a47cd23e239fb4625f40087bc25a79]
 
-**7.**[^key-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Derivation of gains[^key-84a47cd23e239fb4625f40087bc25a79]
+### Derivation of gains[^c-84a47cd23e239fb4625f40087bc25a79]
 
-**8.**[^key-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interpretation[^key-84a47cd23e239fb4625f40087bc25a79]
+### Interpretation[^c-84a47cd23e239fb4625f40087bc25a79]
 
-**9.**[^key-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-84a47cd23e239fb4625f40087bc25a79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-84a47cd23e239fb4625f40087bc25a79]: Textual amendment: Sch. 5BA omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 49](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/49)
+[^c-84a47cd23e239fb4625f40087bc25a79]: Textual amendment: Sch. 5BA omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 49](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/49)

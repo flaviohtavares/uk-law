@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Money[^key-dc94a4b087f13835c730284b663b77cb]
+## 39. Money[^c-dc94a4b087f13835c730284b663b77cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ There shall be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-dc94a4b087f13835c730284b663b77cb]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2004/25/section/39) in force at 8.4.2005 by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)
+[^c-dc94a4b087f13835c730284b663b77cb]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2004/25/section/39) in force at 8.4.2005 by [S.I. 2005/1134](https://www.legislation.gov.uk/uksi/2005/1134), [art. 2](https://www.legislation.gov.uk/uksi/2005/1134/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54.[^key-96be7b78558412736659e3d015155a9c]
+## 54.[^c-96be7b78558412736659e3d015155a9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit Schedule 2 (text of 1971 Protocol, as amended).
 
 ## Annotations
 
-[^key-96be7b78558412736659e3d015155a9c]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-96be7b78558412736659e3d015155a9c]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)

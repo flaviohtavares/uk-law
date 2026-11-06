@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Early termination of eligibility[^key-bc00c8f5c09d06cc545d1ce83ddafb3c]
+## 12. Early termination of eligibility[^c-bc00c8f5c09d06cc545d1ce83ddafb3c]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc00c8f5c09d06cc545d1ce83ddafb3c]: Commencement: Reg. 12 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)
+[^c-bc00c8f5c09d06cc545d1ce83ddafb3c]: Commencement: Reg. 12 in force at 27.5.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/895/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Prosecutions[^key-8913bc67997d92282895b31062bc8716]
+## SCHEDULE 6 — Prosecutions[^c-8913bc67997d92282895b31062bc8716]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ Regulation 13
 
 ## Annotations
 
-[^key-8913bc67997d92282895b31062bc8716]: Textual amendment: Sch. 6 inserted (29.1.2021 at 5.00 p.m.) by [The Health Protection (Coronavirus, Restrictions) (All Tiers and Self-Isolation) (England) (Amendment) Regulations 2021 (S.I. 2021/97)](https://www.legislation.gov.uk/uksi/2021/97), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/97/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2021/97/regulation/2/5)
+[^c-8913bc67997d92282895b31062bc8716]: Textual amendment: Sch. 6 inserted (29.1.2021 at 5.00 p.m.) by [The Health Protection (Coronavirus, Restrictions) (All Tiers and Self-Isolation) (England) (Amendment) Regulations 2021 (S.I. 2021/97)](https://www.legislation.gov.uk/uksi/2021/97), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/97/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2021/97/regulation/2/5)

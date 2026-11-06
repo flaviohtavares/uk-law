@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Amount of financial penalty[^key-2892322edb65fad1b93717e9add1b978]
+## 45. Amount of financial penalty[^c-2892322edb65fad1b93717e9add1b978]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2892322edb65fad1b93717e9add1b978]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2016/20/section/45) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-2892322edb65fad1b93717e9add1b978]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2016/20/section/45) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36ZA. Seizure of carcases etc.: further provision for Scotland[^key-fb02f159ca45017b5cf75c40fdbfadb3]
+## 36ZA. Seizure of carcases etc.: further provision for Scotland[^c-fb02f159ca45017b5cf75c40fdbfadb3]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ the carcase of, or anything obtained from or produced by, an animal, bird or amp
 
 ## Annotations
 
-[^key-fb02f159ca45017b5cf75c40fdbfadb3]: Textual amendment: [S. 36ZA](https://www.legislation.gov.uk/ukpga/1981/22/section/36ZA) - [S. 36ZB](https://www.legislation.gov.uk/ukpga/1981/22/section/36ZB) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 8](https://www.legislation.gov.uk/asp/2006/11/section/8), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-fb02f159ca45017b5cf75c40fdbfadb3]: Textual amendment: [S. 36ZA](https://www.legislation.gov.uk/ukpga/1981/22/section/36ZA) - [S. 36ZB](https://www.legislation.gov.uk/ukpga/1981/22/section/36ZB) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 8](https://www.legislation.gov.uk/asp/2006/11/section/8), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

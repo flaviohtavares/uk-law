@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. General and Special Commissioners.[^key-d693c9aedc0bb2951f7d2b999c5e8551]
+## 5. General and Special Commissioners.[^c-d693c9aedc0bb2951f7d2b999c5e8551]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d693c9aedc0bb2951f7d2b999c5e8551]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1970/9/section/5) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/6)
+[^c-d693c9aedc0bb2951f7d2b999c5e8551]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1970/9/section/5) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/6)

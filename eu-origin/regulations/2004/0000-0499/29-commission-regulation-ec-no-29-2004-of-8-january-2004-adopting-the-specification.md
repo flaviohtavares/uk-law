@@ -31,10 +31,10 @@ Commission Regulation (EC) No 29/2004
 
 of 8 January 2004 adopting the specifications of the 2005 ad hoc module on reconciliation between work and family life provided for by Council Regulation (EC) No 577/98 (revoked)
 
-[^key-61169a98e979f706cb9ddd2219349b21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61169a98e979f706cb9ddd2219349b21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-61169a98e979f706cb9ddd2219349b21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-61169a98e979f706cb9ddd2219349b21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61169a98e979f706cb9ddd2219349b21]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/46); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-61169a98e979f706cb9ddd2219349b21]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/46); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

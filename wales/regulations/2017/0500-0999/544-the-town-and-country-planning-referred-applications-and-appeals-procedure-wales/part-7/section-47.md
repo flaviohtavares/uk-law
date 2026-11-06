@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Procedure after proceedings[^key-59cc8fc1122148fa0fe121cb5fa558c9]
+## 47. Procedure after proceedings[^c-59cc8fc1122148fa0fe121cb5fa558c9]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59cc8fc1122148fa0fe121cb5fa558c9]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2017/544/regulation/47) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-59cc8fc1122148fa0fe121cb5fa558c9]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2017/544/regulation/47) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Rates
 
-The Rates (Social Sector Value) (Amendment) Regulations (Northern Ireland) 2012 (revoked)[^key-45a3d637ea8e1a6f8356b0d91f28f187]
+The Rates (Social Sector Value) (Amendment) Regulations (Northern Ireland) 2012 (revoked)[^c-45a3d637ea8e1a6f8356b0d91f28f187]
 
 Made
 
@@ -42,154 +42,154 @@ Coming into operation
 
 1st April 2012
 
-[^key-45a3d637ea8e1a6f8356b0d91f28f187]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45a3d637ea8e1a6f8356b0d91f28f187]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-45a3d637ea8e1a6f8356b0d91f28f187]
+## 1. Citation and commencement[^c-45a3d637ea8e1a6f8356b0d91f28f187]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Rates (Social Sector Value) Regulations (Northern Ireland) 2007[^key-45a3d637ea8e1a6f8356b0d91f28f187]
+## 2. Amendment of the Rates (Social Sector Value) Regulations (Northern Ireland) 2007[^c-45a3d637ea8e1a6f8356b0d91f28f187]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-45a3d637ea8e1a6f8356b0d91f28f187]
+## 3. Revocation[^c-45a3d637ea8e1a6f8356b0d91f28f187]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-45a3d637ea8e1a6f8356b0d91f28f187]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45a3d637ea8e1a6f8356b0d91f28f187]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Schedule substituted for Schedule 1 to the Rates (Social Sector Value) Regulations (Northern Ireland) 2007[^key-45a3d637ea8e1a6f8356b0d91f28f187]
+## SCHEDULE — Schedule substituted for Schedule 1 to the Rates (Social Sector Value) Regulations (Northern Ireland) 2007[^c-45a3d637ea8e1a6f8356b0d91f28f187]
 
 Regulation 2
 
-> **SCHEDULE 1 — Prescribed Registered Housing Associations[^key-45a3d637ea8e1a6f8356b0d91f28f187]**
+> **SCHEDULE 1 — Prescribed Registered Housing Associations[^c-45a3d637ea8e1a6f8356b0d91f28f187]**
 >
 > Regulation 4
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-45a3d637ea8e1a6f8356b0d91f28f187]
+> [^c-45a3d637ea8e1a6f8356b0d91f28f187]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-45a3d637ea8e1a6f8356b0d91f28f187]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-45a3d637ea8e1a6f8356b0d91f28f187]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-45a3d637ea8e1a6f8356b0d91f28f187]: Textual amendment: Regulations revoked (1.4.2015) by [The Rates (Social Sector Value) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/82)](https://www.legislation.gov.uk/nisr/2015/82), [regs. 1](https://www.legislation.gov.uk/nisr/2015/82/regulation/1), [3](https://www.legislation.gov.uk/nisr/2015/82/regulation/3)
+[^c-45a3d637ea8e1a6f8356b0d91f28f187]: Textual amendment: Regulations revoked (1.4.2015) by [The Rates (Social Sector Value) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/82)](https://www.legislation.gov.uk/nisr/2015/82), [regs. 1](https://www.legislation.gov.uk/nisr/2015/82/regulation/1), [3](https://www.legislation.gov.uk/nisr/2015/82/regulation/3)

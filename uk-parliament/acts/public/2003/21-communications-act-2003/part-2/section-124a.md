@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124A. Obligation to notify subscribers of copyright infringement reports[^key-a7b34e359845c441c15604900f4d0987]
+## 124A. Obligation to notify subscribers of copyright infringement reports[^c-a7b34e359845c441c15604900f4d0987]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7b34e359845c441c15604900f4d0987]: Textual amendment: S. 124A and cross-heading inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 3](https://www.legislation.gov.uk/ukpga/2010/24/section/3), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-a7b34e359845c441c15604900f4d0987]: Textual amendment: S. 124A and cross-heading inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 3](https://www.legislation.gov.uk/ukpga/2010/24/section/3), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

@@ -45,13 +45,13 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 
 In accordance with section 201(2) of the Representation of the People Act 1983[^f00003], a draft of this instrument has been laid before and approved by a resolution of Senedd Cymru.
 
-## 1. Title and commencement[^key-17aeca99d279dda3e15cff235d4963c3]
+## 1. Title and commencement[^c-17aeca99d279dda3e15cff235d4963c3]
 
 (1) The title of these Regulations is the Representation of the People (Amendment) (Wales) (Coronavirus) Regulations 2021.
 
 (2) These Regulations come into force the day after the day on which they are made.
 
-## 2. Amendment of the Representation of the People (England and Wales) Regulations 2001[^key-c20c87a2797afcf2914bf713fe20e052]
+## 2. Amendment of the Representation of the People (England and Wales) Regulations 2001[^c-c20c87a2797afcf2914bf713fe20e052]
 
 (1) The Representation of the People (England and Wales) Regulations 2001[^f00004] are amended as follows..
 
@@ -62,7 +62,7 @@ In accordance with section 201(2) of the Representation of the People Act 1983[^
 - (a) for “paragraph 4(2)” insert “paragraphs 4(2), 6(7) or 6(8)”; and
 - (b) remove “, or an application under paragraph 6(8) of that Schedule made by virtue of that application,”.
 
-(4)[^key-140b363da67129fe9e67938af87c978c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-140b363da67129fe9e67938af87c978c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Julie James
 
@@ -86,12 +86,12 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2); paragraph 1(2) of Schedule 4 to the Representation of the People Act 2000 provides that Schedule 4 shall have effect as if it were contained in Part 1 of the Representation of the People Act 1983.
 
-[^key-17aeca99d279dda3e15cff235d4963c3]: Commencement: Reg. 1 in force at 25.2.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/193/regulation/1/2)
+[^c-17aeca99d279dda3e15cff235d4963c3]: Commencement: Reg. 1 in force at 25.2.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/193/regulation/1/2)
 
-[^key-c20c87a2797afcf2914bf713fe20e052]: Commencement: Reg. 2 in force at 25.2.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/193/regulation/1/2)
+[^c-c20c87a2797afcf2914bf713fe20e052]: Commencement: Reg. 2 in force at 25.2.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/193/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341).
 
 [^f00005]: Footnote: Relevant amendments to regulation 56 were made by [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752), [S.I. 2006/2910](https://www.legislation.gov.uk/uksi/2006/2910), [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198) and [S.I. 2020/1399 (W. 310)](https://www.legislation.gov.uk/wsi/2020/1399).
 
-[^key-140b363da67129fe9e67938af87c978c]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/wsi/2021/193/regulation/2/4) omitted (10.3.2022) by virtue of [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/wsi/2022/263/regulation/10/4/b)
+[^c-140b363da67129fe9e67938af87c978c]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/wsi/2021/193/regulation/2/4) omitted (10.3.2022) by virtue of [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [10(4)(b)](https://www.legislation.gov.uk/wsi/2022/263/regulation/10/4/b)

@@ -128,7 +128,7 @@ In these Regulations—
 - (a) paragraph 7(1) of Schedule 6 to the LTT Act applies to the old lease; and
 - (b) the amount of taxable rent under the old lease for the purposes of paragraph 7(2) and (3)(b) of that Schedule is to mean the amount that was taken into account in determining the tax chargeable under the provisions of Schedule 5 to the FA 2003 in respect of the acquisition of the old lease.
 
-## 9A. Holdover tenancies[^key-40e06e90960ac139b5c15b4601bd78c9]
+## 9A. Holdover tenancies[^c-40e06e90960ac139b5c15b4601bd78c9]
 
 (1) This regulation applies where the old lease referred to in paragraph 8(1) of the Schedule has been granted prior to the commencement date.
 
@@ -234,4 +234,4 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22975711]: Marginal citation: [2005 c. 11](https://www.legislation.gov.uk/ukpga/2005/11).
 
-[^key-40e06e90960ac139b5c15b4601bd78c9]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/wsi/2018/126/regulation/9A) inserted (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) (Amendment) Regulations 2018 (S.I. 2018/401)](https://www.legislation.gov.uk/wsi/2018/401), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/401/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2018/401/regulation/2)
+[^c-40e06e90960ac139b5c15b4601bd78c9]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/wsi/2018/126/regulation/9A) inserted (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) (Amendment) Regulations 2018 (S.I. 2018/401)](https://www.legislation.gov.uk/wsi/2018/401), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/401/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2018/401/regulation/2)

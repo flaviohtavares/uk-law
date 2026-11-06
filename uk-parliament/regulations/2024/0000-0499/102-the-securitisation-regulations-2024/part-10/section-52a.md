@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52A. Occupational pension schemes: savings relating to pre-commencement securitisations[^key-fc5fc21397470dc0892a85abad610d89]
+## 52A. Occupational pension schemes: savings relating to pre-commencement securitisations[^c-fc5fc21397470dc0892a85abad610d89]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc5fc21397470dc0892a85abad610d89]: Textual amendment: [Reg. 52A](https://www.legislation.gov.uk/uksi/2024/102/regulation/52A) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [2(10)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/10)
+[^c-fc5fc21397470dc0892a85abad610d89]: Textual amendment: [Reg. 52A](https://www.legislation.gov.uk/uksi/2024/102/regulation/52A) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [2(10)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/10)
 
 [^f00008]: Footnote: EUR 2012/648.

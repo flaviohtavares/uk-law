@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Over-delivery payments[^key-104250b6fd80fa60001572da077e5d21]
+## 42. Over-delivery payments[^c-104250b6fd80fa60001572da077e5d21]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-104250b6fd80fa60001572da077e5d21]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/uksi/2014/2043/regulation/42) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/26) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/4))
+[^c-104250b6fd80fa60001572da077e5d21]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/uksi/2014/2043/regulation/42) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/26) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Amendment of the Housing (Wales) Act 2014[^key-0be8ced632b2c5df000ce78c344f753b][^M_I_c7291625-7ab9-409c-a5f5-e1543ed081d3]
+## 21. Amendment of the Housing (Wales) Act 2014[^c-0be8ced632b2c5df000ce78c344f753b][^M_I_c7291625-7ab9-409c-a5f5-e1543ed081d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0be8ced632b2c5df000ce78c344f753b]: Commencement: Reg. 21 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-0be8ced632b2c5df000ce78c344f753b]: Commencement: Reg. 21 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_c7291625-7ab9-409c-a5f5-e1543ed081d3]: Commencement: Reg. 21 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

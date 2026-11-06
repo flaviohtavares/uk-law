@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Completion notices[^key-9ad6031134ed4d4fc1fcbc1c0665322b]
+## 112. Completion notices[^c-9ad6031134ed4d4fc1fcbc1c0665322b]
 
 *Extent: E+W+S+N.I.*
 
@@ -115,4 +115,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ad6031134ed4d4fc1fcbc1c0665322b]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2023/55/section/112) in force at 26.12.2023 for specified purposes, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)
+[^c-9ad6031134ed4d4fc1fcbc1c0665322b]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2023/55/section/112) in force at 26.12.2023 for specified purposes, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)

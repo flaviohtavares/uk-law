@@ -44,11 +44,11 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 ## Part I — Preliminary
 
-### 1. Citation and commencement[^key-6a50c661f2a06cba2da5f126a270c242]
+### 1. Citation and commencement[^c-6a50c661f2a06cba2da5f126a270c242]
 
 This Order may be cited as the Motor Vehicles (Authorisation of Special Types) Order (Northern Ireland) 1997 and shall come into operation on 7th April 1997.
 
-### 2. Interpretation[^key-a2ff7e838e4311634823f2ec80feb5fb]
+### 2. Interpretation[^c-a2ff7e838e4311634823f2ec80feb5fb]
 
 (1) In this Order—
 
@@ -79,13 +79,13 @@ This Order may be cited as the Motor Vehicles (Authorisation of Special Types) O
 - “rearward projection”
 - “special appliance or apparatus”.
 
-### 3. Speed Limits[^key-b64d92652f97007ca14d78acf2a5590e]
+### 3. Speed Limits[^c-b64d92652f97007ca14d78acf2a5590e]
 
 Nothing in this Order relating to the speed of vehicles shall be taken to authorise any speed which is in excess of any other speed limit imposed by or under any enactment.
 
 ## Part II — Miscellaneous Vehicles
 
-### 4. Track laying vehicles (including those used for launching lifeboats)[^key-7563c0a5c227e87ad2f943a8cbfacb9a]
+### 4. Track laying vehicles (including those used for launching lifeboats)[^c-7563c0a5c227e87ad2f943a8cbfacb9a]
 
 The Department authorises the use on roads of track laying motor vehicles and track laying trailers notwithstanding that such vehicles do not comply in all respects with the requirements of the Construction and Use Regulations subject to the following restrictions and conditions—
 
@@ -97,11 +97,11 @@ The Department authorises the use on roads of track laying motor vehicles and tr
   - (iii) the vehicle shall not be used for the carriage of goods or burden for hire or reward; or
 - (b) the vehicle shall be used only for drawing or in connection with the launching of lifeboats which are the property of the Royal National Lifeboat Institution.
 
-### 5. Naval, military, air force and aviation vehicles[^key-76018eb0d32aed53ad58765ab43b5777]
+### 5. Naval, military, air force and aviation vehicles[^c-76018eb0d32aed53ad58765ab43b5777]
 
 The Department authorises the use on roads of the vehicles specified in an item in column 1 of Schedule 1 notwithstanding that such vehicles do not comply in all respects with the requirements of the Construction and Use Regulations specified in column 2 in that item subject to the vehicles being the property of, or for the time being under the control of, the person specified in that item in column 3.
 
-### 6. Grass cutting machines and hedge trimmers[^key-05d3fb49fec5bbe857baa24b91af0c3d]
+### 6. Grass cutting machines and hedge trimmers[^c-05d3fb49fec5bbe857baa24b91af0c3d]
 
 The Department authorises the use on roads of motor vehicles constructed or adapted for use as grass cutters or hedge trimmers (not, in either case, being vehicles controlled by a pedestrian) notwithstanding that such vehicles do not comply with regulations 7 or 79 of the Construction and Use Regulations subject to the following conditions—
 
@@ -109,7 +109,7 @@ The Department authorises the use on roads of motor vehicles constructed or adap
 - (b) the overall width of the vehicle together with any equipment mounted on it except when it is actually cutting grass or trimming hedges does not exceed 2.55 metres; and
 - (c) except when the vehicle is actually engaged in such operations, all cutting or trimming blades which form part of the machinery fitted to or mounted on the vehicle are effectively guarded so that no danger is caused or is likely to be caused to any person.
 
-**7.**[^key-00d9195dadf37077b21e0e74bf3aeb55] The Department authorises the use on roads of trailers constructed or adapted for use as grass cutters or hedge trimmers notwithstanding that such trailers do not comply in all respects with such of the requirements of the Construction and Use Regulations as apply to trailers, subject to the following conditions—
+**7.**[^c-00d9195dadf37077b21e0e74bf3aeb55] The Department authorises the use on roads of trailers constructed or adapted for use as grass cutters or hedge trimmers notwithstanding that such trailers do not comply in all respects with such of the requirements of the Construction and Use Regulations as apply to trailers, subject to the following conditions—
 
 - (a) the requirements of regulation 25 of the Construction and Use Regulations, so far as it applies to trailers, shall be complied with;
 - (b) the unladen weight of the trailer shall not exceed—
@@ -122,7 +122,7 @@ The Department authorises the use on roads of motor vehicles constructed or adap
   - (a) except when the trailer is actually engaged in such operations, all cutting or trimming blades which form part of the machinery fitted to the trailer shall be effectively guarded so that no danger is caused or is likely to be caused to any person; and
   - (b) the trailer shall not be driven at a speed exceeding 20 miles per hour.
 
-### 8. Pedestrian controlled road maintenance vehicles[^key-a8e5196822640a24514e50460eb7a9b4]
+### 8. Pedestrian controlled road maintenance vehicles[^c-a8e5196822640a24514e50460eb7a9b4]
 
 The Department authorises the use on roads of motor vehicles constructed or adapted for the gritting of roads, the laying of road markings, the clearing of frost, snow or ice from roads or any other work of maintaining roads, being vehicles controlled by a pedestrian and not constructed or adapted for use or used for the carriage of a driver or passenger, notwithstanding that such vehicles do not comply in all respects with the requirements of regulations 14, 16, 21 and 63 of the Construction and Use Regulations subject to the following restrictions and conditions—
 
@@ -130,11 +130,11 @@ The Department authorises the use on roads of motor vehicles constructed or adap
 - (b) the weight of the vehicle whether laden or unladen, shall not exceed 410 kilograms; and
 - (c) the vehicle shall be equipped with an efficient braking system capable of being set or with sufficient other means, not being a braking system, whereby it can be brought to a standstill and held stationary.
 
-### 9. Vehicles used for experiments or trials[^key-8c046e4afbeaa97306453b2da49d00d1]
+### 9. Vehicles used for experiments or trials[^c-8c046e4afbeaa97306453b2da49d00d1]
 
 The Department authorises the use on roads of vehicles in or in connection with the conduct of experiments or trials under Article 7 of the Roads (Northern Ireland) Order 1993[^f00006] notwithstanding that such vehicles do not comply in all respects with the requirements of the Construction and Use Regulations.
 
-### 10. Straddle carriers[^key-c9ceca3fbc8f55ed85a1df730c3b931d]
+### 10. Straddle carriers[^c-c9ceca3fbc8f55ed85a1df730c3b931d]
 
 The Department authorises the use on roads of straddle carriers notwithstanding that such vehicles do not comply in all respects with the requirements of regulations 7, 10, 14, 16 (except paragraph (1)), 20 and 68 of the Construction and Use Regulations, subject to the following restrictions and conditions—
 
@@ -146,7 +146,7 @@ The Department authorises the use on roads of straddle carriers notwithstanding 
 - (f) save in so far as the Chief Constable dispenses with any of the requirements contained in this paragraph, the user of the vehicle shall, not less than two clear days before such use, apply to the Chief Constable for consent to the use of the vehicle, and shall, when making the application, furnish to him particulars of the vehicle concerned, of its overall length, of the length of any forward projection or rearward projection of any load proposed to be carried, and of the roads on which it is proposed that the vehicle will be used; and
 - (g) all the relevant requirements of the Construction and Use Regulations other than those specified in this Article shall be complied with.
 
-### 11. Agricultural motor vehicles, agricultural trailers and agricultural trailed appliances[^key-3d2324383699229ec66ee3102bdb3a66]
+### 11. Agricultural motor vehicles, agricultural trailers and agricultural trailed appliances[^c-3d2324383699229ec66ee3102bdb3a66]
 
 (1) Subject to the provisions of paragraph (2), and notwithstanding that such vehicles do not comply with the requirements of regulation 7 of the Construction and Use Regulations, the Department authorises the use on roads of—
 
@@ -158,20 +158,20 @@ if the relevant conditions specified in Schedule 2 are complied with.
 
 (2) The authorisation specified in paragraph (1) applies only in so far as the width of a vehicle (including an agricultural implement which by virtue of Article 13 is treated as part of the vehicle) cannot, without undue expense or risk of damage, be reduced.
 
-### 12. Agricultural motor vehicle towing an off-set agricultural trailer or trailed appliance[^key-b2f12511cd9bbc9e879dbf480d5465c0]
+### 12. Agricultural motor vehicle towing an off-set agricultural trailer or trailed appliance[^c-b2f12511cd9bbc9e879dbf480d5465c0]
 
 (1) The Department authorises the use on roads, notwithstanding that such vehicles do not comply with the requirements of regulation 7 of the Construction and Use Regulations, of an agricultural motor vehicle towing an agricultural trailer or agricultural trailed appliance in such a manner that the longitudinal axis of the motor vehicle and the longitudinal axis of the trailer are parallel but lie in different vertical planes and the width specified in paragraph (2) exceeds 2.55 metres provided the relevant conditions specified in Schedule 2 are complied with.
 
 (2) The width referred to in paragraph (1) is the distance equivalent to the distance which, if both the agricultural motor vehicle and the agricultural trailer or agricultural trailed appliance (when being drawn by the agricultural motor vehicle) are treated as one vehicle, would fall to be measured as its overall width.
 
-### 13. Provisions supplementary to Articles 11 and 12[^key-27ed68025f6a26290e61530b441373c2]
+### 13. Provisions supplementary to Articles 11 and 12[^c-27ed68025f6a26290e61530b441373c2]
 
 For the purposes of Articles 11 and 12 and Schedule 2, an agricultural implement rigidly mounted on an agricultural motor vehicle, an agricultural trailer or an agricultural trailed appliance shall be treated as part of that vehicle, trailer or appliance whether or not—
 
 - (a) the implement is permanently attached thereto; and
 - (b) part of the weight of the implement is transmitted to the surface of the road otherwise than by the wheels or tracks of the motor vehicle, trailer or appliance.
 
-### 14. Agricultural motor vehicles, agricultural trailers and agricultural trailed appliances with implements projecting rearwards or forwards[^key-e5b17de15469e032087f98c6f7b3ac17]
+### 14. Agricultural motor vehicles, agricultural trailers and agricultural trailed appliances with implements projecting rearwards or forwards[^c-e5b17de15469e032087f98c6f7b3ac17]
 
 (1) The Department authorises the use on roads, notwithstanding that such vehicles do not comply with the requirements of regulations 7 and 79 of the Construction and Use Regulations of—
 
@@ -191,7 +191,7 @@ provided that the requirements mentioned in paragraph (2) are complied with.
 - (a) if any part of the implement projects rearwards of the rearmost part of the motor vehicle, trailer or appliance by more than a distance specified in an item in column 2 of Schedule 3 the conditions specified in that item in column 3 are complied with; and
 - (b) if any part of the implement projects forwards of the foremost part of the motor vehicle, trailer or appliance by more than a distance specified in an item in column 2 of Schedule 3 the conditions specified in that item in column 3 are complied with.
 
-### 15. Vehicles for moving excavated material[^key-21161f03634ae2dc04863d95bf356f06]
+### 15. Vehicles for moving excavated material[^c-21161f03634ae2dc04863d95bf356f06]
 
 The Department authorises the use on roads of plant or equipment (other than engineering plant) being a heavy motor car, trailer or articulated vehicle specially designed and constructed for use in private premises for the primary purpose of moving excavated material and fitted with a tipping body, moving platform or other similar device for discharging its load, and which cannot, owing to the requirements of that purpose, comply in all respects with the requirements of the Construction and Use Regulations, subject to the following restrictions and conditions—
 
@@ -230,7 +230,7 @@ The Department authorises the use on roads of plant or equipment (other than eng
   </tbody>
   </table>
 
-### 16. Motor vehicles and trailers constructed for use outside the United Kingdom or which are new or improved types constructed for tests or trials or are equipped with new or improved equipment or types of equipment[^key-a2bb252e5fb47363db714a781e3f8c4d]
+### 16. Motor vehicles and trailers constructed for use outside the United Kingdom or which are new or improved types constructed for tests or trials or are equipped with new or improved equipment or types of equipment[^c-a2bb252e5fb47363db714a781e3f8c4d]
 
 (1) This Article applies to wheeled motor vehicles and trailers not falling within any description of motor vehicle or trailer specified in Article 19, 20, 21 or 22 and references in this Article to motor vehicles and trailers shall be construed accordingly.
 
@@ -257,7 +257,7 @@ subject, in all cases, to the restrictions and conditions set out in paragraph (
 
   and for the purposes of this sub-paragraph references to a combination of vehicles shall be construed in the same manner as is provided in regulation 79(1)(*g*) of the Construction and Use Regulations.
 
-### 17. Vehicles fitted with moveable platforms[^key-39935ce8ab44c461d111a873166e8571]
+### 17. Vehicles fitted with moveable platforms[^c-39935ce8ab44c461d111a873166e8571]
 
 (1) The Department authorises the use on roads of a vehicle fitted with a moveable platform notwithstanding that the vehicle does not comply in all respects with the requirements of regulations 6, 7, 10, 18, 21 and 79 of the Construction and Use Regulations subject to the following restrictions and conditions—
 
@@ -276,7 +276,7 @@ subject, in all cases, to the restrictions and conditions set out in paragraph (
 
 ## Part III — Abnormal Indivisible Loads and Other Vehicles Carrying Wide Loads
 
-### 18. Categories of motor vehicle[^key-76230774b81aa132d2ee45fcaa2192a3]
+### 18. Categories of motor vehicle[^c-76230774b81aa132d2ee45fcaa2192a3]
 
 In this Part—
 
@@ -286,14 +286,14 @@ In this Part—
   - (iii) “Category 3” shall consist of any motor vehicle or combination of vehicles where the total weight of the vehicle or vehicles carrying the load is not more than 150,000 kilograms; and
 - (b) a vehicle shall comply with the conditions of an appropriate category and the category under the conditions of which a vehicle is being used shall be that indicated on the sign mentioned in Article 20(*r*).
 
-### 19. Vehicles for carrying or drawing abnormal indivisible loads[^key-2ecf8d0a455093116613a54170721429]
+### 19. Vehicles for carrying or drawing abnormal indivisible loads[^c-2ecf8d0a455093116613a54170721429]
 
 The Department authorises the use on roads of heavy motor cars and trailers specially designed and constructed for the carriage of abnormal indivisible loads and of locomotives and tractors specially designed and constructed to draw trailers specially so designed and constructed notwithstanding that such vehicles do not comply in all respects with the requirements of the Construction and Use Regulations, subject to the following restrictions and conditions and in all cases to the further restrictions and conditions specified in Article 20—
 
 - (a) in a case where Article 25, 26, 28 or 29 applies to the conditions contained in such of those Articles as are applicable to that case;
 - (b) in a case where the overall width of the vehicle or of the vehicle together with the width of any lateral projection or projections of its load exceeds 5 metres, to the conditions contained in Article 27.
 
-### 20. Vehicles for carrying or drawing abnormal indivisible loads — further restrictions and conditions[^key-261bbd1abae8c5a52cd914a12ac8e14e]
+### 20. Vehicles for carrying or drawing abnormal indivisible loads — further restrictions and conditions[^c-261bbd1abae8c5a52cd914a12ac8e14e]
 
 The further restrictions and conditions referred to in Article 19 are—
 
@@ -468,7 +468,7 @@ The further restrictions and conditions referred to in Article 19 are—
   - (ii) a vehicle or combination of vehicles unable to comply with that regulation because of the requirements of sub-paragraphs (*j*)(ii)(E) or (*j*)(iv)(E); and
 - (t) notwithstanding paragraph (*a*), a vehicle consisting of two or more modules may, when being used in connection with the carriage of but not at the time carrying an abnormal indivisible load, be disassembled into two or more parts and arranged such that one part carries the others.
 
-### 21. Engineering plant[^key-96aa0af245fb34a5952dc0cccead0273]
+### 21. Engineering plant[^c-96aa0af245fb34a5952dc0cccead0273]
 
 (1) The Department authorises the use on roads of engineering plant notwithstanding that such vehicles do not comply in all respects with the requirements of the Construction and Use Regulations, subject to the following restrictions and conditions set out in paragraph (2) and in all cases the further conditions specified in Article 22.
 
@@ -479,7 +479,7 @@ The further restrictions and conditions referred to in Article 19 are—
 - (c) in a case where a vehicle or combination of vehicles disregarding the date of its manufacture complies with the conditions specified in paragraphs (*j*), (*p*), (*q*) and (*t*) of Article 20, the conditions specified in Article 24(1) shall apply as if the use of the vehicle or combination of vehicles was authorised by Articles 19 and 20; and
 - (d) in a case where the overall width of the vehicle, or of the vehicle together with the width of any lateral projection or projections of its load, exceeds 5 metres, the conditions specified in Article 27.
 
-### 22. Engineering plant — further conditions[^key-6a826bf2ec11bec32e441735d96caee6]
+### 22. Engineering plant — further conditions[^c-6a826bf2ec11bec32e441735d96caee6]
 
 The further conditions referred to in Article 21 are—
 
@@ -529,11 +529,11 @@ The further conditions referred to in Article 21 are—
   - (iii) the total weight transmitted to the road surface by any wheels of a vehicle in line transversely not fitted with pneumatic tyres shall be such that the average weight per 25 millimetres width of tyre in contact with the road surface shall not exceed 765 kilograms; and
   - (iv) in the case of a track laying vehicle, in addition to the foregoing restrictions, the weight transmitted by each track thereof to any strip of road surface contained between any two parallel lines drawn on that surface at right angles to the longitudinal axis of the vehicle shall not exceed, if the parallel lines are not more than 610 millimetres apart, 11,430 kilograms, and, thereafter, additional weight shall be permitted, for any distance apart of the parallel lines in excess of 610 millimetres but not exceeding a total distance apart of 2.13 metres, at a rate of 7,500 kilograms per metre and, thereafter, additional weight shall be permitted, for any distance apart of the parallel lines in excess of 2.13 metres, at a rate of 2,500 kilograms per metre.
 
-### 23. Other vehicles carrying loads exceeding 4.3 metres in width[^key-3ecb57534ef32c886ab88bb0f8c5b2f7]
+### 23. Other vehicles carrying loads exceeding 4.3 metres in width[^c-3ecb57534ef32c886ab88bb0f8c5b2f7]
 
 The Department authorises the use on roads of motor vehicles and trailers carrying loads where the overall width of the vehicle on which the load is carried together with the width of any lateral projection or projections of the load exceeds 4.3 metres but does not exceed 6.1 metres, subject to the restrictions and conditions contained in Articles 24, 25, 27 and 28 and also to the condition that the vehicle complies in all respects with the requirements of the Construction and Use Regulations, other than regulation 79(2), (3) and (4).
 
-### 24. Speed limits for vehicles authorised by Articles 19 to 23[^key-9d4c0607a1bc3586dfe464c7bde536cf]
+### 24. Speed limits for vehicles authorised by Articles 19 to 23[^c-9d4c0607a1bc3586dfe464c7bde536cf]
 
 (1) A vehicle or combination of vehicles the use of which on roads is authorised by Article 19, if of Category 2 or Category 3 as defined in that Article, or by Article 23, as indicated by an item in column 2 of the Table, shall not travel at a speed exceeding that specified in column 3 for that item in relation to the type of road used:
 
@@ -554,7 +554,7 @@ The Department authorises the use on roads of motor vehicles and trailers carryi
 
 (2) A vehicle the use of which on roads is authorised by Article 21 shall not travel on any road other than a motorway at a speed exceeding 12 miles per hour.
 
-### 25. Attendants[^key-8bcbe06a497401f9db628dec9e7a67a9]
+### 25. Attendants[^c-8bcbe06a497401f9db628dec9e7a67a9]
 
 (1) This Article applies to a vehicle or combination of vehicles the use of which on roads is authorised by Article 23 and in a case where—
 
@@ -582,7 +582,7 @@ The Department authorises the use on roads of motor vehicles and trailers carryi
 - (b) in a case where a motor vehicle is drawing a trailer or trailers and another motor vehicle is used for the purpose of assisting in their propulsion on the road, the person or persons employed in driving that other motor vehicle shall not be treated as a person or persons employed in attending to the first-mentioned vehicle or any vehicle or vehicles drawn thereby; and
 - (c) in a case where three or more motor vehicles to which that paragraph applies are travelling together in convoy, it shall be sufficient compliance with the requirements of that paragraph if only the first and the last vehicles in the convoy are attended in the manner specified in that paragraph.
 
-### 26. Marking of projecting loads and fixed appliances or apparatus which project[^key-b6320ddeb45048b8b2ba4f0c890b9129]
+### 26. Marking of projecting loads and fixed appliances or apparatus which project[^c-b6320ddeb45048b8b2ba4f0c890b9129]
 
 (1) This Article applies in a case where a vehicle the use of which is authorised by Article 19 or 21—
 
@@ -614,7 +614,7 @@ if, in any such case compliance with any provision of this Article would hinder 
 
 (5) Notwithstanding that paragraph (2)(*a*) provides for the conditions specified in paragraph 3 of Schedule 10 to the Construction and Use Regulations to be complied with as respects a load which has a projection to which sub-paragraph (*a*)(i) of paragraph (1) applies, those conditions in relation to the exhibition of the end projection surface on that projection need not be complied with in the case of such a load which carries a rear marking in accordance with the Road Vehicles Lighting Regulations (Northern Ireland) 1995[^f00013].
 
-### 27. Approval of the Department as to the time, date and route of a journey by a vehicle or a vehicle and its load exceeding 5 metres in width[^key-3cf3630cf1568d6ccc69eb702d4f550a]
+### 27. Approval of the Department as to the time, date and route of a journey by a vehicle or a vehicle and its load exceeding 5 metres in width[^c-3cf3630cf1568d6ccc69eb702d4f550a]
 
 (1) This Article applies in the case of a vehicle the use of which on roads otherwise would be authorised by Article 15, 19, 21 or 23 where the overall width of the vehicle or, if it is used for carrying a load, where the overall width of the vehicle together with the width of any lateral projection of its load, exceeds 5 metres.
 
@@ -625,7 +625,7 @@ if, in any such case compliance with any provision of this Article would hinder 
 
 (3) Where the effect of any such direction as is mentioned in sub-paragraph (*a*) of paragraph (2) is to vary, in relation to time, a date or a route of the journey approved by the Department under that sub-paragraph, the time, the date or dates or the route of the said journey, the vehicle shall not be used in accordance with that direction unless the Department has given its further approval that the vehicle shall be so used.
 
-### 28. Notice to police[^key-2a210ff029c5315957c80756216abe8e]
+### 28. Notice to police[^c-2a210ff029c5315957c80756216abe8e]
 
 (1) This Article applies in a case where—
 
@@ -645,7 +645,7 @@ if, in any such case compliance with any provision of this Article would hinder 
 
 (3) Subject to any variation in the time, date or route of the journey which may be directed by the Chief Constable, and subject to any delay which may be occasioned by reason of a direction given by a police constable, in the interests of road safety or to avoid undue traffic congestion, to the driver of a vehicle to halt it in a place on or adjacent to the road on which the vehicle is travelling, the vehicle or vehicles shall be used only in circumstances which accord with the particulars given in compliance with paragraph (2) as to the time, date and route of the journey and only if any dimension of measurement relating to the vehicle or the vehicles (including one relating to a combination of vehicles) or to a special appliance or apparatus or to a load to be carried, being a dimension or measurement of which particulars have been given as aforesaid, is not exceeded.
 
-### 29. Notice and indemnity to Department or a bridge authority[^key-78554ec9a9dfebc0ba3baad9c6279ea7]
+### 29. Notice and indemnity to Department or a bridge authority[^c-78554ec9a9dfebc0ba3baad9c6279ea7]
 
 (1) This Article applies to—
 
@@ -676,14 +676,14 @@ and which, in either case, either—
 
 (6) The provisions of this Article shall not apply to the use on roads of any vehicle which is the property of, or for the time being under the control, of the Secretary of State for Defence.
 
-### 30. Restrictions on the passage over bridges of vehicles carrying abnormal indivisible loads[^key-c31448178e3338b6bc75264aeb648a62]
+### 30. Restrictions on the passage over bridges of vehicles carrying abnormal indivisible loads[^c-c31448178e3338b6bc75264aeb648a62]
 
 Where a motor vehicle the use of which on roads is authorised by Article 19 is so used or where a motor vehicle (whether or not its use is so authorised) is drawing a trailer or trailers the use of which is so authorised and an abnormal indivisible load is being carried by any such vehicle, the driver of the motor vehicle shall not cause or permit either that vehicle or, in the case of a combination of vehicles, any vehicle comprised in the combination—
 
 - (a) to enter on any bridge whilst there is on that bridge any other vehicle which is either carrying an abnormal indivisible load or is being used to draw a trailer carrying such a load the presence of which is known to or could reasonably be ascertained by him, or
 - (b) to remain stationary on any bridge except in circumstances beyond his control.
 
-### 31. Breakdown on bridges of vehicles of excessive weight or carrying excessive loads[^key-6f7c212eb99206b45590ae219fc71862]
+### 31. Breakdown on bridges of vehicles of excessive weight or carrying excessive loads[^c-6f7c212eb99206b45590ae219fc71862]
 
 (1) This Article applies where—
 
@@ -697,7 +697,7 @@ Where a motor vehicle the use of which on roads is authorised by Article 19 is s
 - (a) before any such load is applied to that surface, seek the advice of the bridge authority for that bridge or any other person responsible for the maintenance and repair of the bridge pursuant to an agreement with that authority about the use of spreader plates to reduce the possibility of any damage caused by the application of such a load; and
 - (b) arrange that no such load shall be applied without using such spreader plates as the bridge authority or such other person may have advised.
 
-### 32. Revocation[^key-df4a261b1187595284c435a1b1bc37ab]
+### 32. Revocation[^c-df4a261b1187595284c435a1b1bc37ab]
 
 The Orders specified in Schedule 6 are hereby revoked.
 
@@ -707,7 +707,7 @@ R. Wilson
 
 Assistant Secretary
 
-## SCHEDULE 1 — Service and Aviation Vehicles[^key-d050547eca35ce989b990ec68f64e47d]
+## SCHEDULE 1 — Service and Aviation Vehicles[^c-d050547eca35ce989b990ec68f64e47d]
 
 Article 5
 
@@ -726,7 +726,7 @@ Article 5
 
 Articles 11, 12 and 13
 
-**1.**[^key-b0a53b9440caac8b9b35bfd7578ccd97] If the overall width of the vehicle, or in the case of a combination of vehicles mentioned in Article 12(1), the overall width of the combination exceeds the width specified in an item in column 2 of the Table, the vehicle, or in the case of a combination of vehicles, the drawing vehicle, shall not be drawn at a speed exceeding that specified in column 3:
+**1.**[^c-b0a53b9440caac8b9b35bfd7578ccd97] If the overall width of the vehicle, or in the case of a combination of vehicles mentioned in Article 12(1), the overall width of the combination exceeds the width specified in an item in column 2 of the Table, the vehicle, or in the case of a combination of vehicles, the drawing vehicle, shall not be drawn at a speed exceeding that specified in column 3:
 
 **TABLE**
 
@@ -741,7 +741,7 @@ Articles 11, 12 and 13
 </tbody>
 </table>
 
-**2.**[^key-fc57ce0132275804875848ffbfd1b0b1] If—
+**2.**[^c-fc57ce0132275804875848ffbfd1b0b1] If—
 
 - (a) the overall width of—
   - (i) an agricultural motor vehicle,
@@ -755,7 +755,7 @@ Articles 11, 12 and 13
 
   so that the Chief Constable may dispense with the said requirements as to length of notice and information about the vehicle or combination.
 
-**3.**[^key-0f108ce34bfc6e9b10d5f2df4ce052e8] In a case where—
+**3.**[^c-0f108ce34bfc6e9b10d5f2df4ce052e8] In a case where—
 
 - (a) the width of an agricultural motor vehicle exceeds 3 metres, or
 - (b) an agricultural motor vehicle is towing an agricultural trailer or agricultural trailer appliance in the manner described in Article 12(1) and the width specified in Article 12(2) exceeds 3 metres, or
@@ -767,14 +767,14 @@ the vehicle or the combination of vehicles shall not draw any trailer or, as the
 - (ii) an agricultural trailed appliance, or
 - (iii) an unladen trailer specifically designed for use with the drawing vehicle when it is harvesting.
 
-**4.**[^key-82cd7a1987c0cc7526f0a335ca4c38df] If the overall width of an agricultural motor vehicle, an agricultural trailer on which an implement is mounted as mentioned in Article 13, or an agricultural trailed appliance, or the width specified in Article 12(2) of a combination of vehicles, exceeds 3.5 metres—
+**4.**[^c-82cd7a1987c0cc7526f0a335ca4c38df] If the overall width of an agricultural motor vehicle, an agricultural trailer on which an implement is mounted as mentioned in Article 13, or an agricultural trailed appliance, or the width specified in Article 12(2) of a combination of vehicles, exceeds 3.5 metres—
 
 - (a) at least one person, other than the driver of the vehicle or, in the case of a combination of vehicles the driver of the drawing vehicle, shall be employed to warn any other person (including the driver of the vehicle or the drawing vehicle) of any danger likely to be caused to that other person by the presence of the vehicle or the combination of vehicles on the road; and
 - (b) the extremities of the vehicle or implement (including any blade or spike) shall be clearly visible at a reasonable distance to any person on the road (other than the driver of the vehicle or, in the case of a combination of vehicles, the driver of the drawing vehicle) and during the hours of darkness or in seriously reduced visibility between sunrise and sunset this condition shall be satisfied by such means as may be required by the Road Vehicles Lighting Regulations (Northern Ireland) 1995[^f00014].
 
-**5.**[^key-61720e5a76d3e13016ffd4220a728a3c] The overall width of a vehicle, or the width specified in Article 12(2) of a combination of vehicles, shall not exceed 4.3 metres.
+**5.**[^c-61720e5a76d3e13016ffd4220a728a3c] The overall width of a vehicle, or the width specified in Article 12(2) of a combination of vehicles, shall not exceed 4.3 metres.
 
-## SCHEDULE 3 — Projecting Implements on Agricultural Vehicles[^key-52f2877158d95845ebe6c631ad94f32c]
+## SCHEDULE 3 — Projecting Implements on Agricultural Vehicles[^c-52f2877158d95845ebe6c631ad94f32c]
 
 Article 14
 
@@ -794,7 +794,7 @@ Article 14
 </tbody>
 </table>
 
-## SCHEDULE 4[^key-aa7a1cd9cb4ab46267da7991fe6c4ffb]
+## SCHEDULE 4[^c-aa7a1cd9cb4ab46267da7991fe6c4ffb]
 
 Article 20(*r*)
 
@@ -806,17 +806,17 @@ Article 20(*r*)
 
 Articles 15, 16, 28 and 29
 
-### Part I — Notification of Carriage of Abnormal Loads by Road[^key-ed8edaeb488dd2a74e177dca98145942]
+### Part I — Notification of Carriage of Abnormal Loads by Road[^c-ed8edaeb488dd2a74e177dca98145942]
 
 **The Motor Vehicles (Authorisation of Special Types) Order (Northern Ireland) 1997**
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/109/images/nisr_19970109_en_004)
 
-### Part II — Form of indemnity[^key-ecf9a95101f8b91828513fdfb773b577]
+### Part II — Form of indemnity[^c-ecf9a95101f8b91828513fdfb773b577]
 
 [image: see source](https://www.legislation.gov.uk/nisr/1997/109/images/nisr_19970109_en_005)
 
-## SCHEDULE 6 — Orders Revoked[^key-f4c19b1b2e6dabceebd2c550ec8cc465]
+## SCHEDULE 6 — Orders Revoked[^c-f4c19b1b2e6dabceebd2c550ec8cc465]
 
 Article 32
 
@@ -870,9 +870,9 @@ Copies of the EEC Directives referred to in this Order can be obtained from The 
 
 [^f00001]: Footnote: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994); *see* Article 2(2) for the definition of “Department”
 
-[^key-6a50c661f2a06cba2da5f126a270c242]: Commencement: Art. 1 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-6a50c661f2a06cba2da5f126a270c242]: Commencement: Art. 1 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-a2ff7e838e4311634823f2ec80feb5fb]: Commencement: Art. 2 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-a2ff7e838e4311634823f2ec80feb5fb]: Commencement: Art. 2 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
 [^f00002]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
 
@@ -882,43 +882,43 @@ Copies of the EEC Directives referred to in this Order can be obtained from The 
 
 [^f00005]: Footnote: [S.R. 1984 No. 160](https://www.legislation.gov.uk/nisr/1984/160)
 
-[^key-b64d92652f97007ca14d78acf2a5590e]: Commencement: Art. 3 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-b64d92652f97007ca14d78acf2a5590e]: Commencement: Art. 3 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-7563c0a5c227e87ad2f943a8cbfacb9a]: Commencement: Art. 4 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-7563c0a5c227e87ad2f943a8cbfacb9a]: Commencement: Art. 4 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-76018eb0d32aed53ad58765ab43b5777]: Commencement: Art. 5 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-76018eb0d32aed53ad58765ab43b5777]: Commencement: Art. 5 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-05d3fb49fec5bbe857baa24b91af0c3d]: Commencement: Art. 6 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-05d3fb49fec5bbe857baa24b91af0c3d]: Commencement: Art. 6 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-00d9195dadf37077b21e0e74bf3aeb55]: Commencement: Art. 7 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-00d9195dadf37077b21e0e74bf3aeb55]: Commencement: Art. 7 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-a8e5196822640a24514e50460eb7a9b4]: Commencement: Art. 8 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-a8e5196822640a24514e50460eb7a9b4]: Commencement: Art. 8 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-8c046e4afbeaa97306453b2da49d00d1]: Commencement: Art. 9 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-8c046e4afbeaa97306453b2da49d00d1]: Commencement: Art. 9 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
 [^f00006]: Footnote: [S.I. 1993/3160 (N.I. 15)](https://www.legislation.gov.uk/nisi/1993/3160)
 
-[^key-c9ceca3fbc8f55ed85a1df730c3b931d]: Commencement: Art. 10 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-c9ceca3fbc8f55ed85a1df730c3b931d]: Commencement: Art. 10 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-3d2324383699229ec66ee3102bdb3a66]: Commencement: Art. 11 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-3d2324383699229ec66ee3102bdb3a66]: Commencement: Art. 11 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-b2f12511cd9bbc9e879dbf480d5465c0]: Commencement: Art. 12 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-b2f12511cd9bbc9e879dbf480d5465c0]: Commencement: Art. 12 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-27ed68025f6a26290e61530b441373c2]: Commencement: Art. 13 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-27ed68025f6a26290e61530b441373c2]: Commencement: Art. 13 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-e5b17de15469e032087f98c6f7b3ac17]: Commencement: Art. 14 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-e5b17de15469e032087f98c6f7b3ac17]: Commencement: Art. 14 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-21161f03634ae2dc04863d95bf356f06]: Commencement: Art. 15 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-21161f03634ae2dc04863d95bf356f06]: Commencement: Art. 15 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-a2bb252e5fb47363db714a781e3f8c4d]: Commencement: Art. 16 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-a2bb252e5fb47363db714a781e3f8c4d]: Commencement: Art. 16 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-39935ce8ab44c461d111a873166e8571]: Commencement: Art. 17 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-39935ce8ab44c461d111a873166e8571]: Commencement: Art. 17 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-76230774b81aa132d2ee45fcaa2192a3]: Commencement: Art. 18 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-76230774b81aa132d2ee45fcaa2192a3]: Commencement: Art. 18 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-2ecf8d0a455093116613a54170721429]: Commencement: Art. 19 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-2ecf8d0a455093116613a54170721429]: Commencement: Art. 19 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-261bbd1abae8c5a52cd914a12ac8e14e]: Commencement: Art. 20 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-261bbd1abae8c5a52cd914a12ac8e14e]: Commencement: Art. 20 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
 [^f00007]: Footnote: O.J. No. L202, 6.9.71, p. 37
 
@@ -932,52 +932,52 @@ Copies of the EEC Directives referred to in this Order can be obtained from The 
 
 [^f00012]: Footnote: O.J. No. L92, 9.4.88, p. 47
 
-[^key-96aa0af245fb34a5952dc0cccead0273]: Commencement: Art. 21 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-96aa0af245fb34a5952dc0cccead0273]: Commencement: Art. 21 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-6a826bf2ec11bec32e441735d96caee6]: Commencement: Art. 22 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-6a826bf2ec11bec32e441735d96caee6]: Commencement: Art. 22 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-3ecb57534ef32c886ab88bb0f8c5b2f7]: Commencement: Art. 23 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-3ecb57534ef32c886ab88bb0f8c5b2f7]: Commencement: Art. 23 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-9d4c0607a1bc3586dfe464c7bde536cf]: Commencement: Art. 24 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-9d4c0607a1bc3586dfe464c7bde536cf]: Commencement: Art. 24 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-8bcbe06a497401f9db628dec9e7a67a9]: Commencement: Art. 25 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-8bcbe06a497401f9db628dec9e7a67a9]: Commencement: Art. 25 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-b6320ddeb45048b8b2ba4f0c890b9129]: Commencement: Art. 26 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-b6320ddeb45048b8b2ba4f0c890b9129]: Commencement: Art. 26 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
 [^f00013]: Footnote: [S.R. 1995 No. 449](https://www.legislation.gov.uk/nisr/1995/449)
 
-[^key-3cf3630cf1568d6ccc69eb702d4f550a]: Commencement: Art. 27 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-3cf3630cf1568d6ccc69eb702d4f550a]: Commencement: Art. 27 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-2a210ff029c5315957c80756216abe8e]: Commencement: Art. 28 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-2a210ff029c5315957c80756216abe8e]: Commencement: Art. 28 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-78554ec9a9dfebc0ba3baad9c6279ea7]: Commencement: Art. 29 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-78554ec9a9dfebc0ba3baad9c6279ea7]: Commencement: Art. 29 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-c31448178e3338b6bc75264aeb648a62]: Commencement: Art. 30 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-c31448178e3338b6bc75264aeb648a62]: Commencement: Art. 30 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-6f7c212eb99206b45590ae219fc71862]: Commencement: Art. 31 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-6f7c212eb99206b45590ae219fc71862]: Commencement: Art. 31 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-df4a261b1187595284c435a1b1bc37ab]: Commencement: Art. 32 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-df4a261b1187595284c435a1b1bc37ab]: Commencement: Art. 32 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-d050547eca35ce989b990ec68f64e47d]: Commencement: Sch. 1 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-d050547eca35ce989b990ec68f64e47d]: Commencement: Sch. 1 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-b0a53b9440caac8b9b35bfd7578ccd97]: Commencement: Sch. 2 para. 1 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-b0a53b9440caac8b9b35bfd7578ccd97]: Commencement: Sch. 2 para. 1 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-fc57ce0132275804875848ffbfd1b0b1]: Commencement: Sch. 2 para. 2 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-fc57ce0132275804875848ffbfd1b0b1]: Commencement: Sch. 2 para. 2 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-0f108ce34bfc6e9b10d5f2df4ce052e8]: Commencement: Sch. 2 para. 3 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-0f108ce34bfc6e9b10d5f2df4ce052e8]: Commencement: Sch. 2 para. 3 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-82cd7a1987c0cc7526f0a335ca4c38df]: Commencement: Sch. 2 para. 4 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-82cd7a1987c0cc7526f0a335ca4c38df]: Commencement: Sch. 2 para. 4 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
 [^f00014]: Footnote: [S.R. 1995 No. 449](https://www.legislation.gov.uk/nisr/1995/449)
 
-[^key-61720e5a76d3e13016ffd4220a728a3c]: Commencement: Sch. 2 para. 5 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-61720e5a76d3e13016ffd4220a728a3c]: Commencement: Sch. 2 para. 5 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-52f2877158d95845ebe6c631ad94f32c]: Commencement: Sch. 3 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-52f2877158d95845ebe6c631ad94f32c]: Commencement: Sch. 3 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-aa7a1cd9cb4ab46267da7991fe6c4ffb]: Commencement: Sch. 4 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-aa7a1cd9cb4ab46267da7991fe6c4ffb]: Commencement: Sch. 4 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-ed8edaeb488dd2a74e177dca98145942]: Commencement: Sch. 5 Pt. I in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-ed8edaeb488dd2a74e177dca98145942]: Commencement: Sch. 5 Pt. I in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-ecf9a95101f8b91828513fdfb773b577]: Commencement: Sch. 5 Pt. II in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-ecf9a95101f8b91828513fdfb773b577]: Commencement: Sch. 5 Pt. II in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
 
-[^key-f4c19b1b2e6dabceebd2c550ec8cc465]: Commencement: Sch. 6 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)
+[^c-f4c19b1b2e6dabceebd2c550ec8cc465]: Commencement: Sch. 6 in operation at 7.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/109/article/1)

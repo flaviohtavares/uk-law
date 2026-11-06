@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title, commencement and application[^key-862950d0dadd518939717617b230c501]
+## 1. Title, commencement and application[^c-862950d0dadd518939717617b230c501]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-862950d0dadd518939717617b230c501]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2010/824/regulation/1) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-862950d0dadd518939717617b230c501]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2010/824/regulation/1) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

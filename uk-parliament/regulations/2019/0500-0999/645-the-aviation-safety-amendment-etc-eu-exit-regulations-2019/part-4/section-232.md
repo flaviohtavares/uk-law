@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Amendment of Appendix 8 to Annex 1 to [Commission Regulation (EU) No 748/2012](https://www.legislation.gov.uk/eur/2012/0748)[^key-7584a9e31e4a05ff8b792d87f7ae278b]
+## 232. Amendment of Appendix 8 to Annex 1 to [Commission Regulation (EU) No 748/2012](https://www.legislation.gov.uk/eur/2012/0748)[^c-7584a9e31e4a05ff8b792d87f7ae278b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7584a9e31e4a05ff8b792d87f7ae278b]: Commencement: Reg. 232 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7584a9e31e4a05ff8b792d87f7ae278b]: Commencement: Reg. 232 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

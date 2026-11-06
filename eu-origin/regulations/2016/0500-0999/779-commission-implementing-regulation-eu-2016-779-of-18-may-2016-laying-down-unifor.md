@@ -35,78 +35,78 @@ laying down uniform rules as regards the procedures for determining whether a to
 
 (Text with EEA relevance) (revoked)
 
-[^key-c0701c6dd360a0299a0dca9b89a6ddfd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0701c6dd360a0299a0dca9b89a6ddfd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER I — GENERAL PROVISIONS[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
+## CHAPTER I — GENERAL PROVISIONS[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
 
-### Article 1. Subject matter[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Definition[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
+### Article 1. Subject matter[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — INITIATION OF THE PROCEDURE[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
-
-### Article 3. Initiation by a Member State or the Commission[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
+### Article 2. Definition[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Initial request to the manufacturer or importer[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
+## CHAPTER II — INITIATION OF THE PROCEDURE[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
+
+### Article 3. Initiation by a Member State or the Commission[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Initial coordination[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
+### Article 4. Initial request to the manufacturer or importer[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Assessment of the manufacturer or importer[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
+### Article 5. Initial coordination[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — INVESTIGATION[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
-
-### Article 7. Gathering of further information and consultation of the advisory panel[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
+### Article 6. Assessment of the manufacturer or importer[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Right for manufacturers and importers to submit observations[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
+## CHAPTER III — INVESTIGATION[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
+
+### Article 7. Gathering of further information and consultation of the advisory panel[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — DETERMINATION[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
-
-### Article 9. Coordination before a decision is taken by a Member State[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
+### Article 8. Right for manufacturers and importers to submit observations[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Decision by the Commission[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
+## CHAPTER IV — DETERMINATION[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
+
+### Article 9. Coordination before a decision is taken by a Member State[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Parallel procedures[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
+### Article 10. Decision by the Commission[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER V — INFORMATION[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
-
-### Article 12. Confidential information[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
+### Article 11. Parallel procedures[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Publication of decisions[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
+## CHAPTER V — INFORMATION[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
+
+### Article 12. Confidential information[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER VI — FINAL PROVISIONS[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
-
-### Article 14. Entry into force[^key-c0701c6dd360a0299a0dca9b89a6ddfd]
+### Article 13. Publication of decisions[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0701c6dd360a0299a0dca9b89a6ddfd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## CHAPTER VI — FINAL PROVISIONS[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
+
+### Article 14. Entry into force[^c-c0701c6dd360a0299a0dca9b89a6ddfd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c0701c6dd360a0299a0dca9b89a6ddfd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c0701c6dd360a0299a0dca9b89a6ddfd]: Textual amendment: Regulation revoked (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/41/regulation/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0701c6dd360a0299a0dca9b89a6ddfd]: Textual amendment: Regulation revoked (31.12.2020) by [The Tobacco Products and Nicotine Inhaling Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/41)](https://www.legislation.gov.uk/uksi/2019/41), [regs. 1](https://www.legislation.gov.uk/uksi/2019/41/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/41/regulation/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

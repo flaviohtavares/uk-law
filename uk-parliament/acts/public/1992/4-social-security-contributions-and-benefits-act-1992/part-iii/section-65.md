@@ -40,8 +40,8 @@ summary: ''
   - (i) both the day and the night attendance conditions, or
   - (ii) if the award is at the lower rate, one of those conditions.
 
-(7)[^key-487b571ebcafa609c6cf7957897f9edd] A person to whom either Regulation [(EC) No 1408/71](https://www.legislation.gov.uk/eur/1971/1408) or Regulation /[(EC) No 883/2004](https://www.legislation.gov.uk/eur/2004/0883) applies shall not be entitled to an attendance allowance for a period unless during that period the United Kingdom is competent for payment of sickness benefits in cash to the person for the purposes of Chapter 1 of Title III of the Regulation in question.
+(7)[^c-487b571ebcafa609c6cf7957897f9edd] A person to whom either Regulation [(EC) No 1408/71](https://www.legislation.gov.uk/eur/1971/1408) or Regulation /[(EC) No 883/2004](https://www.legislation.gov.uk/eur/2004/0883) applies shall not be entitled to an attendance allowance for a period unless during that period the United Kingdom is competent for payment of sickness benefits in cash to the person for the purposes of Chapter 1 of Title III of the Regulation in question.
 
 ## Annotations
 
-[^key-487b571ebcafa609c6cf7957897f9edd]: Textual amendment: S. 65(7) inserted (31.10.2011) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carers Allowance) (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2426)](https://www.legislation.gov.uk/uksi/2011/2426), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2011/2426/regulation/5/2)
+[^c-487b571ebcafa609c6cf7957897f9edd]: Textual amendment: S. 65(7) inserted (31.10.2011) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carers Allowance) (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2426)](https://www.legislation.gov.uk/uksi/2011/2426), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2011/2426/regulation/5/2)

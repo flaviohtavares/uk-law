@@ -41,8 +41,8 @@ summary: ''
 
 (4) Before exercising the power conferred by paragraph (1)(f) an inspector must consult such persons as appear to him appropriate for the purpose of ascertaining what dangers, if any, there may be in doing anything which he proposes to do under that power.
 
-(5)[^key-e18385a89632e40e60826d9bba97609e] This article applies to a person authorised by the Secretary of State under article 25(1)(e) in relation to premises in England as it applies to an inspector; and article 32(2)(d) to (f), with the necessary modifications, applies accordingly.
+(5)[^c-e18385a89632e40e60826d9bba97609e] This article applies to a person authorised by the Secretary of State under article 25(1)(e) in relation to premises in England as it applies to an inspector; and article 32(2)(d) to (f), with the necessary modifications, applies accordingly.
 
 ## Annotations
 
-[^key-e18385a89632e40e60826d9bba97609e]: Textual amendment: [Art. 27(5)](https://www.legislation.gov.uk/uksi/2005/1541/article/27/5) inserted (31.1.2017 for specified purposes, 17.7.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/12/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/c)
+[^c-e18385a89632e40e60826d9bba97609e]: Textual amendment: [Art. 27(5)](https://www.legislation.gov.uk/uksi/2005/1541/article/27/5) inserted (31.1.2017 for specified purposes, 17.7.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/12/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/c)

@@ -37,7 +37,7 @@ summary: ''
 
 whether he is registered by virtue of that provision or not; and such a person may only vote by post or by proxy (where he is entitled as an elector to vote by post or, as the case may be, by proxy at the election).
 
-(5AA)[^key-cf5395b2b59f7c0b39c3eae3039682dd] Nothing in subsections (1) to (5) applies to a person who has an anonymous entry in the register of parliamentary electors for the constituency*;* and such a person may only vote by post or by proxy (where entitled as an elector to vote by post or, as the case may be, by proxy at the election).
+(5AA)[^c-cf5395b2b59f7c0b39c3eae3039682dd] Nothing in subsections (1) to (5) applies to a person who has an anonymous entry in the register of parliamentary electors for the constituency*;* and such a person may only vote by post or by proxy (where entitled as an elector to vote by post or, as the case may be, by proxy at the election).
 
 (5B)[^c2006046] Subsection (2) above does not prevent a person, at the polling station allotted to him, marking a tendered ballot paper in pursuance of rule 40(1ZC) or (1ZE) of the parliamentary elections rules.
 
@@ -69,7 +69,7 @@ whether he is registered by virtue of that provision or not; and such a person m
 
 [^c1039783]: Textual amendment: S. 5(5A) inserted (16.2.2001) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2000/2/section/15/1), [Sch. 6 para. 13(4)](https://www.legislation.gov.uk/ukpga/2000/2/schedule/6/paragraph/13/4); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1) (subject to transitional provisions in [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2001/116/article/2/3))
 
-[^key-cf5395b2b59f7c0b39c3eae3039682dd]: Textual amendment: [S. 5(5AA)](https://www.legislation.gov.uk/ukpga/1985/50/section/5/5AA) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/5/2)
+[^c-cf5395b2b59f7c0b39c3eae3039682dd]: Textual amendment: [S. 5(5AA)](https://www.legislation.gov.uk/ukpga/1985/50/section/5/5AA) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/5/2)
 
 [^c2006046]: Textual amendment: S. 5(5B) inserted (1.7.2008) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 38(4)](https://www.legislation.gov.uk/ukpga/2006/22/section/38/4), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2008/1316/article/2/3), [5(a)](https://www.legislation.gov.uk/uksi/2008/1316/article/5/a)
 

@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety, in exercise of the powers conferred upon it by sections 23(5), 24(9)(*b*) and (10), 25(2), (4), (5) and (6), 28(1), 32(2) and (3), 33(2), (3) and (4), 35(4), 36(1) and (2), 37 and 57(1) and (3) of the Health and Personal Social Services Act (Northern Ireland) 2001[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-5592ddb8f450bdd181271eac475a30d3]
+## 1. Citation, commencement and interpretation[^c-5592ddb8f450bdd181271eac475a30d3]
 
 (1) These Regulations may be cited as the Road Traffic (Health Services Charges) Regulations (Northern Ireland) 2001 and shall come into operation on 2nd April 2001.
 
@@ -55,7 +55,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 (3) Any reference in these Regulations to a numbered section is to the section of the Act bearing that number.
 
-## 2. Application for a certificate of health services charges[^key-4453dc3e6e99f3dbb1c5f0f366f451d4]
+## 2. Application for a certificate of health services charges[^c-4453dc3e6e99f3dbb1c5f0f366f451d4]
 
 (1) An application for a certificate shall be made to the Department and shall include the following particulars––
 
@@ -69,7 +69,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 (3) The prescribed period for the purposes of section 24(9)(*b*) is a period of 28 days ending immediately before the day on which the compensation payment is made.
 
-## 3. Amount of health services charges — incidents before 2nd July 1997[^key-61cdffad84efc7850aa6aabd4c7fdb4e]
+## 3. Amount of health services charges — incidents before 2nd July 1997[^c-61cdffad84efc7850aa6aabd4c7fdb4e]
 
 (1) This Regulation applies to any compensation payment made in respect of an incident which occurred before 2nd July 1997.
 
@@ -79,7 +79,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 (4) The maximum amount which may be specified in a certificate to which paragraph (2) applies shall be £3,000.
 
-## 4. Amount of health services charges — incidents on or after 2nd July 1997[^key-3abaaac2306ba2a13f6106c7b65ebd76]
+## 4. Amount of health services charges — incidents on or after 2nd July 1997[^c-3abaaac2306ba2a13f6106c7b65ebd76]
 
 (1) This Regulation applies to any compensation payment made in respect of an incident which occurred on or after 2nd July 1997.
 
@@ -94,20 +94,20 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 (5) The maximum amount which may be specified in a certificate to which paragraph (2)(*b)* applies shall be £10,000.
 
-## 5. Provisions supplementary to regulations 3 and 4[^key-1aca964eacc50d96da0919a0dc74e6ef]
+## 5. Provisions supplementary to regulations 3 and 4[^c-1aca964eacc50d96da0919a0dc74e6ef]
 
 (1) A certificate issued under section 24(2) shall only take into account treatment received before the date the certificate is issued.
 
 (2) A certificate issued under section 24(11) shall only take into account treatment received before the settlement date.
 
-## 6. Particulars of amounts specified in certificate[^key-10590bd8154f4a014e324696a0a613ef]
+## 6. Particulars of amounts specified in certificate[^c-10590bd8154f4a014e324696a0a613ef]
 
 A person to whom a certificate is issued is entitled, on application to the Department, to the following particulars—
 
 - (a) in respect of treatment counted for the purposes of determining the amount in the certificate, the name of the responsible body of any hospital at which that treatment took place; and
 - (b) where regulation 3(2) or 4(2)(*b*) applies in respect of that treatment, the number of days of admission counted at that hospital.
 
-## 7. Review of certificates[^key-15af1795f633a0430a7fc51fd1f0c7a3]
+## 7. Review of certificates[^c-15af1795f633a0430a7fc51fd1f0c7a3]
 
 A certificate may be reviewed under section 28 where the Department is satisfied that—
 
@@ -116,7 +116,7 @@ A certificate may be reviewed under section 28 where the Department is satisfied
 - (c) incorrect or insufficient information was supplied to the Department by the person who applied for the certificate, or the responsible body of each hospital at which the traffic casualty received health services treatment in respect of his injury, and in consequence the amount specified in the certificate was less than, or in excess of, what it would have been had the information supplied been correct and sufficient; or
 - (d) a ground for appeal is satisfied under section 29.
 
-## 8. Information to be provided with respect to a traffic casualty[^key-cb3e8a79a100ddb89ccff7c1022ad28b]
+## 8. Information to be provided with respect to a traffic casualty[^c-cb3e8a79a100ddb89ccff7c1022ad28b]
 
 (1) A person specified in section 33(2)(*a*) shall send to the Department the information set out in paragraph (3) not later than 14 days after the claim is made.
 
@@ -147,7 +147,7 @@ A certificate may be reviewed under section 28 where the Department is satisfied
 
 and “person against whom the claim is made” shall be construed accordingly.
 
-## 9. Payments to hospitals[^key-e6f5c085e5e106f62f2baea7d534356d]
+## 9. Payments to hospitals[^c-e6f5c085e5e106f62f2baea7d534356d]
 
 (1) The Department—
 
@@ -168,7 +168,7 @@ and “person against whom the claim is made” shall be construed accordingly.
 
 (4) If the property rights and liabilities of the old body have been transferred to more than one body, the Department, may, for the purposes of paragraph (3) divide the payment among those bodies in such manner as it considers appropriate.
 
-## 10. Overpayments by compensators[^key-f642211a6ad85501d88a1e7be828b5ae]
+## 10. Overpayments by compensators[^c-f642211a6ad85501d88a1e7be828b5ae]
 
 Where a fresh certificate has been issued as a result of a review under section 29 or an appeal under section 29 and the conditions specified in paragraphs (*a*) and (*b*) of section 32(2) (overpayments) are satisfied—
 
@@ -177,7 +177,7 @@ Where a fresh certificate has been issued as a result of a review under section 
   - (i) may deduct the difference between the amount that has been paid under section 35(1) and the amount that ought to have been paid from any future payment due to the responsible body under that section; or
   - (ii) may require that body to pay the difference to it or the person who made the compensation payment.
 
-## 11. Underpayments by compensators[^key-381c12516d13530a56c7df86b912501d]
+## 11. Underpayments by compensators[^c-381c12516d13530a56c7df86b912501d]
 
 (1) Where a fresh certificate has been issued as a result of a review under section 28 or an appeal under section 29 and the conditions specified in paragraphs (*a*) and (*b*) of section 32(3) (underpayments) are satisfied—
 
@@ -186,7 +186,7 @@ Where a fresh certificate has been issued as a result of a review under section 
 
 (2) Where any such payment relates to treatment at more than one hospital, the Department, must, for the purposes of paragraph (1)(*b*), divide the difference among the responsible bodies of the hospitals concerned in such manner as it considers appropriate.
 
-## 12. Provisions supplementary to regulations 10 and 11 relating to person making compensation payments[^key-d0c2d41a48015580082bcf6386e87a15]
+## 12. Provisions supplementary to regulations 10 and 11 relating to person making compensation payments[^c-d0c2d41a48015580082bcf6386e87a15]
 
 Where the Department makes a payment under regulation 10(*a*) or a payment falls to be paid under regulation 11(1)(*a*), the Department shall send a statement to the person who made the compensation payment showing—
 
@@ -195,7 +195,7 @@ Where the Department makes a payment under regulation 10(*a*) or a payment falls
 - (c) the amount that ought to have been paid to it; and
 - (d) the amount of the difference, and whether a repayment by it or further payment to it is required.
 
-## 13. Provisions supplementary to regulations 10 and 11 relating to hospitals[^key-ed6cd510a790329eed7020c0d92309af]
+## 13. Provisions supplementary to regulations 10 and 11 relating to hospitals[^c-ed6cd510a790329eed7020c0d92309af]
 
 (1) Where the Department requires a payment under regulation 10(*b*)(ii), or makes a payment under 11(1)(*b*), it shall send the responsible body a statement showing—
 
@@ -211,7 +211,7 @@ Where the Department makes a payment under regulation 10(*a*) or a payment falls
 - (c) the amount that ought to have been paid; and
 - (d) the amount of the deduction.
 
-## 14. Multiple compensation payments[^key-6c4e05f04bbea3ee54e7ea74fb01bbdf]
+## 14. Multiple compensation payments[^c-6c4e05f04bbea3ee54e7ea74fb01bbdf]
 
 (1) This regulation applies where a person making a compensation payment is liable to pay appropriate health services charges to the Department under section 23(2) and—
 
@@ -227,7 +227,7 @@ Where the Department makes a payment under regulation 10(*a*) or a payment falls
 
 the Department shall review the certificate in respect of the later payment so as to specify the correct liability under section 23(2) in connection with the later payment.
 
-## 15. Structured settlements[^key-303cd1fc928494f9708095f29fad5891]
+## 15. Structured settlements[^c-303cd1fc928494f9708095f29fad5891]
 
 (1) This regulation applies where a person—
 
@@ -246,7 +246,7 @@ the Department shall review the certificate in respect of the later payment so a
 - (a) if the agreement referred to in paragraph (1)(*a*) is approved by the court, the day on which that approval is given; and
 - (b) in any other case, the day on which the agreement is entered into.
 
-## 16. Interim payments repaid under court order[^key-6e094db9092f0fa34b8d6d2dd08f1d42]
+## 16. Interim payments repaid under court order[^c-6e094db9092f0fa34b8d6d2dd08f1d42]
 
 (1) This regulation applies where—
 
@@ -266,7 +266,7 @@ the Department shall review the certificate in respect of the later payment so a
 - (a) the name and address of the traffic casualty to which the statement relates; and
 - (b) the amount of the deduction or demand.
 
-## 17. Payments into court[^key-7e547af8a369d6ad173807acd4d514f0]
+## 17. Payments into court[^c-7e547af8a369d6ad173807acd4d514f0]
 
 (1) Subject to paragraph 3, where a party to an action makes a payment into court which, had it been paid directly to another party to the action (“the relevant party”), would have constituted a compensation payment, the making of the payment shall be treated for the purposes of the Act as a compensation payment made—
 
@@ -283,7 +283,7 @@ the Department shall review the certificate in respect of the later payment so a
 - (a) the person making the compensation payment shall apply for a certificate (under section 24(8)) not later than 14 days after the day he is notified that the payment into court has been accepted;
 - (b) section 26(3) of the Act shall be modified so that the “settlement date” means the date on which the person making the payment into court is notified that it has been accepted.
 
-## 18. Exempted payments[^key-b13beebc286f8819506009af7652c05a]
+## 18. Exempted payments[^c-b13beebc286f8819506009af7652c05a]
 
 Any compensation payment made—
 
@@ -318,40 +318,40 @@ These Regulations make provision in connection with the scheme as follows—
 
 [^f00001]: Footnote: [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3)
 
-[^key-5592ddb8f450bdd181271eac475a30d3]: Commencement: Reg. 1 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-5592ddb8f450bdd181271eac475a30d3]: Commencement: Reg. 1 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-4453dc3e6e99f3dbb1c5f0f366f451d4]: Commencement: Reg. 2 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-4453dc3e6e99f3dbb1c5f0f366f451d4]: Commencement: Reg. 2 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-61cdffad84efc7850aa6aabd4c7fdb4e]: Commencement: Reg. 3 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-61cdffad84efc7850aa6aabd4c7fdb4e]: Commencement: Reg. 3 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-3abaaac2306ba2a13f6106c7b65ebd76]: Commencement: Reg. 4 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-3abaaac2306ba2a13f6106c7b65ebd76]: Commencement: Reg. 4 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-1aca964eacc50d96da0919a0dc74e6ef]: Commencement: Reg. 5 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-1aca964eacc50d96da0919a0dc74e6ef]: Commencement: Reg. 5 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-10590bd8154f4a014e324696a0a613ef]: Commencement: Reg. 6 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-10590bd8154f4a014e324696a0a613ef]: Commencement: Reg. 6 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-15af1795f633a0430a7fc51fd1f0c7a3]: Commencement: Reg. 7 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-15af1795f633a0430a7fc51fd1f0c7a3]: Commencement: Reg. 7 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-cb3e8a79a100ddb89ccff7c1022ad28b]: Commencement: Reg. 8 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-cb3e8a79a100ddb89ccff7c1022ad28b]: Commencement: Reg. 8 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-e6f5c085e5e106f62f2baea7d534356d]: Commencement: Reg. 9 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-e6f5c085e5e106f62f2baea7d534356d]: Commencement: Reg. 9 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
 [^f00002]: Footnote: *See* the Health and Personal Social Services (Residual Liabilities) (Northern Ireland) Order 1996 ([S.I. 1996/1636 (N.I. 13)](https://www.legislation.gov.uk/nisi/1996/1636))
 
-[^key-f642211a6ad85501d88a1e7be828b5ae]: Commencement: Reg. 10 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-f642211a6ad85501d88a1e7be828b5ae]: Commencement: Reg. 10 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-381c12516d13530a56c7df86b912501d]: Commencement: Reg. 11 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-381c12516d13530a56c7df86b912501d]: Commencement: Reg. 11 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-d0c2d41a48015580082bcf6386e87a15]: Commencement: Reg. 12 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-d0c2d41a48015580082bcf6386e87a15]: Commencement: Reg. 12 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-ed6cd510a790329eed7020c0d92309af]: Commencement: Reg. 13 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-ed6cd510a790329eed7020c0d92309af]: Commencement: Reg. 13 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-6c4e05f04bbea3ee54e7ea74fb01bbdf]: Commencement: Reg. 14 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-6c4e05f04bbea3ee54e7ea74fb01bbdf]: Commencement: Reg. 14 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-303cd1fc928494f9708095f29fad5891]: Commencement: Reg. 15 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-303cd1fc928494f9708095f29fad5891]: Commencement: Reg. 15 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-6e094db9092f0fa34b8d6d2dd08f1d42]: Commencement: Reg. 16 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-6e094db9092f0fa34b8d6d2dd08f1d42]: Commencement: Reg. 16 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-7e547af8a369d6ad173807acd4d514f0]: Commencement: Reg. 17 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-7e547af8a369d6ad173807acd4d514f0]: Commencement: Reg. 17 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
 
-[^key-b13beebc286f8819506009af7652c05a]: Commencement: Reg. 18 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)
+[^c-b13beebc286f8819506009af7652c05a]: Commencement: Reg. 18 in operation at 2.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/125/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Crown application[^key-b852bdaa00a1ab7656c4c185dcd64c25]
+## 59. Crown application[^c-b852bdaa00a1ab7656c4c185dcd64c25]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ In Part 5 of the Building Act 1984 before section 132 insert—
 
 ## Annotations
 
-[^key-b852bdaa00a1ab7656c4c185dcd64c25]: Commencement: S. 59 not in force at Royal Assent, see [s. 170(4)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c)
+[^c-b852bdaa00a1ab7656c4c185dcd64c25]: Commencement: S. 59 not in force at Royal Assent, see [s. 170(4)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c)

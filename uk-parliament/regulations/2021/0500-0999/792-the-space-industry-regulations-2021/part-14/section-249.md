@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 249. Power to issue prohibition notice[^key-46d80fb5e4ae5568d1926200d2354306]
+## 249. Power to issue prohibition notice[^c-46d80fb5e4ae5568d1926200d2354306]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46d80fb5e4ae5568d1926200d2354306]: Commencement: Reg. 249 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-46d80fb5e4ae5568d1926200d2354306]: Commencement: Reg. 249 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

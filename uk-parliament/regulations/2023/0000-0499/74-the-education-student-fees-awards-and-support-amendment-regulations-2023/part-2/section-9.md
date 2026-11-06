@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Amendments to the definitions of “overseas territories” and “specified British overseas territories”[^key-3db81da9f8058e9fddccbc09a1c76694]
+## 9. Amendments to the definitions of “overseas territories” and “specified British overseas territories”[^c-3db81da9f8058e9fddccbc09a1c76694]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In Part 1 of Schedule 1 (eligible students: interpretation)[^f00010], in paragra
 
 ## Annotations
 
-[^key-3db81da9f8058e9fddccbc09a1c76694]: Commencement: Reg. 9 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-3db81da9f8058e9fddccbc09a1c76694]: Commencement: Reg. 9 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00010]: Footnote: Definitions inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).

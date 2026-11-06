@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C8. Payments to avoid reduction of retiring allowance and death grant[^key-2804f50fbf8f35aacb21b06c46dc03a5]
+## C8. Payments to avoid reduction of retiring allowance and death grant[^c-2804f50fbf8f35aacb21b06c46dc03a5]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ amounts to less than one year.
 
 ## Annotations
 
-[^key-2804f50fbf8f35aacb21b06c46dc03a5]: Commencement: [Reg. C8](https://www.legislation.gov.uk/uksi/1986/24/regulation/C8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-2804f50fbf8f35aacb21b06c46dc03a5]: Commencement: [Reg. C8](https://www.legislation.gov.uk/uksi/1986/24/regulation/C8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

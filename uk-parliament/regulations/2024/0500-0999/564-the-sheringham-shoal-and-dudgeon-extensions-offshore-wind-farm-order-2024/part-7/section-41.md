@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Service of notices[^key-7840d76c7addff0121290ddb2cbd7aca]
+## 41. Service of notices[^c-7840d76c7addff0121290ddb2cbd7aca]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7840d76c7addff0121290ddb2cbd7aca]: Commencement: Art. 41 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-7840d76c7addff0121290ddb2cbd7aca]: Commencement: Art. 41 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
 [^f00042]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30). Section 7 was amended by paragraph 19 of Schedule 10 to the Road Traffic Regulation Act [1984 (c. 27)](https://www.legislation.gov.uk/ukpga/1984/27).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Functions of Passenger Transport Authorities and Executives (affected by repeal, see note) Authorities and Executives: supplementary.[^key-79f28d8c66007a124adf9eb57310d78d]
+## 133. Functions of Passenger Transport Authorities and Executives (affected by repeal, see note) Authorities and Executives: supplementary.[^c-79f28d8c66007a124adf9eb57310d78d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79f28d8c66007a124adf9eb57310d78d]: Textual amendment: Words in s. 133 heading substituted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/39); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-79f28d8c66007a124adf9eb57310d78d]: Textual amendment: Words in s. 133 heading substituted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/39); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

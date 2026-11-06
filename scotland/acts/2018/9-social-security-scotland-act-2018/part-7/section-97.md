@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Further procedure for regulations[^key-e74076e1d2c3da23a18cd9bfc5893166]
+## 97. Further procedure for regulations[^c-e74076e1d2c3da23a18cd9bfc5893166]
 
 *Extent: S*
 
 (1) This section applies (subject to subsection (11)) in relation to regulations under—
 
-- (a)[^key-3bf334624e872a1b971361a31c9ca655] section 11(2),
+- (a)[^c-3bf334624e872a1b971361a31c9ca655] section 11(2),
 - (b) section 13(3),
 - (c) any section in Chapter 2 of Part 2,
 - (d) section 41(4)(a),
@@ -46,9 +46,9 @@ summary: ''
 - (v) section 93A(1), and
 - (w) section 95, where the power to make regulations conferred by that section is exercised together with any of the powers to make regulations listed in paragraphs (a) to (v).
 
-(1A)[^key-976f0aefa32be566ad7feb5bacf0a2c6] This section applies (subject to subsection (11)) in relation to regulations made under section 13(1) of the Social Security Act 1988 and section 175(4) of the Social Security Contributions and Benefits Act 1992, where the powers to make regulations conferred by those sections are exercised together.
+(1A)[^c-976f0aefa32be566ad7feb5bacf0a2c6] This section applies (subject to subsection (11)) in relation to regulations made under section 13(1) of the Social Security Act 1988 and section 175(4) of the Social Security Contributions and Benefits Act 1992, where the powers to make regulations conferred by those sections are exercised together.
 
-(2) Before the Scottish Ministers finalise[^key-4622f96d3f99976a01cbbe93e0f13a4b] regulations to which this section applies, they must [^key-318cd4efc0859ee11e8c2c4f8efd2b2a]...—
+(2) Before the Scottish Ministers finalise[^c-4622f96d3f99976a01cbbe93e0f13a4b] regulations to which this section applies, they must [^c-318cd4efc0859ee11e8c2c4f8efd2b2a]...—
 
 - (a) inform the Scottish Commission on Social Security of their proposals,
 - (b) notify the Scottish Parliament that they have done so, and
@@ -76,10 +76,10 @@ summary: ''
   - (ii) the Scottish Parliament, and
 - (b) make the report publicly available by such means as the Commission considers appropriate.
 
-(9) When the Scottish Ministers finalise regulations to which this section applies, they[^key-4868d2bec87289d97d4de632c37f188e] must also lay before the Parliament either—
+(9) When the Scottish Ministers finalise regulations to which this section applies, they[^c-4868d2bec87289d97d4de632c37f188e] must also lay before the Parliament either—
 
 - (a) a response to the Commission's report on the proposals for the regulations, or
-- (b) a statement explaining why the Ministers consider it appropriate to finalise the regulations[^key-e1b132761e1189a2fabb0fe6e86a11a7] before the Commission has submitted its report on the proposals for the regulations.
+- (b) a statement explaining why the Ministers consider it appropriate to finalise the regulations[^c-e1b132761e1189a2fabb0fe6e86a11a7] before the Commission has submitted its report on the proposals for the regulations.
 
 (10) The response mentioned in subsection (9)(a) must, in particular, give details of—
 
@@ -89,7 +89,7 @@ summary: ''
 
 (11) This section does not apply in relation to regulations made only for the purpose of the consolidation of earlier regulations.
 
-(12)[^key-4fa8ed767acdc9a95170a5a6ec9517ca] The Scottish Ministers may by regulations modify subsections (1) and (1A) so as to add, remove or vary the description of a power to make regulations conferred by this Act or by any other enactment.
+(12)[^c-4fa8ed767acdc9a95170a5a6ec9517ca] The Scottish Ministers may by regulations modify subsections (1) and (1A) so as to add, remove or vary the description of a power to make regulations conferred by this Act or by any other enactment.
 
 (13) In this section, “**finalise**” means—
 
@@ -98,18 +98,18 @@ summary: ''
 
 ## Annotations
 
-[^key-e74076e1d2c3da23a18cd9bfc5893166]: Textual amendment: S. 97 heading substituted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(3)](https://www.legislation.gov.uk/asp/2025/2/section/20/3), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+[^c-e74076e1d2c3da23a18cd9bfc5893166]: Textual amendment: S. 97 heading substituted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(3)](https://www.legislation.gov.uk/asp/2025/2/section/20/3), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
 
-[^key-3bf334624e872a1b971361a31c9ca655]: Textual amendment: S. 97(1)(a)-(w) substituted for s. 97(1)(a)(b) (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(2)(a)](https://www.legislation.gov.uk/asp/2025/2/section/20/2/a), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+[^c-3bf334624e872a1b971361a31c9ca655]: Textual amendment: S. 97(1)(a)-(w) substituted for s. 97(1)(a)(b) (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(2)(a)](https://www.legislation.gov.uk/asp/2025/2/section/20/2/a), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
 
-[^key-976f0aefa32be566ad7feb5bacf0a2c6]: Textual amendment: S. 97(1A) inserted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(2)(b)](https://www.legislation.gov.uk/asp/2025/2/section/20/2/b), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+[^c-976f0aefa32be566ad7feb5bacf0a2c6]: Textual amendment: S. 97(1A) inserted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(2)(b)](https://www.legislation.gov.uk/asp/2025/2/section/20/2/b), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
 
-[^key-4622f96d3f99976a01cbbe93e0f13a4b]: Textual amendment: Words in s. 97(2) substituted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(2)(c)(i)](https://www.legislation.gov.uk/asp/2025/2/section/20/2/c/i), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+[^c-4622f96d3f99976a01cbbe93e0f13a4b]: Textual amendment: Words in s. 97(2) substituted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(2)(c)(i)](https://www.legislation.gov.uk/asp/2025/2/section/20/2/c/i), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
 
-[^key-318cd4efc0859ee11e8c2c4f8efd2b2a]: Textual amendment: Words in s. 97(2) repealed (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(2)(c)(ii)](https://www.legislation.gov.uk/asp/2025/2/section/20/2/c/ii), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+[^c-318cd4efc0859ee11e8c2c4f8efd2b2a]: Textual amendment: Words in s. 97(2) repealed (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(2)(c)(ii)](https://www.legislation.gov.uk/asp/2025/2/section/20/2/c/ii), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
 
-[^key-4868d2bec87289d97d4de632c37f188e]: Textual amendment: Words in s. 97(9) substituted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(2)(d)(i)](https://www.legislation.gov.uk/asp/2025/2/section/20/2/d/i), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+[^c-4868d2bec87289d97d4de632c37f188e]: Textual amendment: Words in s. 97(9) substituted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(2)(d)(i)](https://www.legislation.gov.uk/asp/2025/2/section/20/2/d/i), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
 
-[^key-e1b132761e1189a2fabb0fe6e86a11a7]: Textual amendment: Words in s. 97(9)(b) substituted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(2)(d)(ii)](https://www.legislation.gov.uk/asp/2025/2/section/20/2/d/ii), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+[^c-e1b132761e1189a2fabb0fe6e86a11a7]: Textual amendment: Words in s. 97(9)(b) substituted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(2)(d)(ii)](https://www.legislation.gov.uk/asp/2025/2/section/20/2/d/ii), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
 
-[^key-4fa8ed767acdc9a95170a5a6ec9517ca]: Textual amendment: S. 97(12)(13) inserted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(2)(e)](https://www.legislation.gov.uk/asp/2025/2/section/20/2/e), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+[^c-4fa8ed767acdc9a95170a5a6ec9517ca]: Textual amendment: S. 97(12)(13) inserted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 20(2)(e)](https://www.legislation.gov.uk/asp/2025/2/section/20/2/e), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)

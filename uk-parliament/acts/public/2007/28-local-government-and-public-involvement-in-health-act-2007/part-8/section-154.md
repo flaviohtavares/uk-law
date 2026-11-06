@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Studies at request of particular bodies[^key-8a5915d9eea3f7ce86aad27b5de2abfb]
+## 154. Studies at request of particular bodies[^c-8a5915d9eea3f7ce86aad27b5de2abfb]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In the Audit Commission Act 1998, omit—
 
 ## Annotations
 
-[^key-8a5915d9eea3f7ce86aad27b5de2abfb]: Commencement: S. 154 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/d)
+[^c-8a5915d9eea3f7ce86aad27b5de2abfb]: Commencement: S. 154 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/d)

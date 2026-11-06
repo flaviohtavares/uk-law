@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Misleading the FCA: criminal offence[^key-037bbf88b2e94af0d3a10f4e8b8695cc]
+## 25. Misleading the FCA: criminal offence[^c-037bbf88b2e94af0d3a10f4e8b8695cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Section 398 of the Financial Services and Markets Act 2000 (misleading the FCA o
 
 ## Annotations
 
-[^key-037bbf88b2e94af0d3a10f4e8b8695cc]: Commencement: Reg. 25 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-037bbf88b2e94af0d3a10f4e8b8695cc]: Commencement: Reg. 25 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
 
 [^f00005]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8). Section 398 is amended by paragraph 36 of Schedule 9 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), [S.I. 2015/1882](https://www.legislation.gov.uk/uksi/2015/1882), [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680), [S.I. 2017/701](https://www.legislation.gov.uk/uksi/2017/701), [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135), [S.I. 2018/698](https://www.legislation.gov.uk/uksi/2018/698), [S.I. 2019/362](https://www.legislation.gov.uk/uksi/2019/362), and [S.I. 2019/1043](https://www.legislation.gov.uk/uksi/2019/1043).

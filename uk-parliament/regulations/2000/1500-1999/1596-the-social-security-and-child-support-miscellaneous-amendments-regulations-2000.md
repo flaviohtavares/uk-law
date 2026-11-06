@@ -47,7 +47,7 @@ Now, therefore, the Secretary of State for Social Security, in exercise of the p
 
 (1) These Regulations may be cited as the Social Security and Child Support (Miscellaneous Amendments) Regulations 2000 and shall come into force on 19th June 2000.
 
-(2)[^key-46ff7aefd7df07b490e0c19c0fceb107] In these Regulations—
+(2)[^c-46ff7aefd7df07b490e0c19c0fceb107] In these Regulations—
 
 “the Claims and Payments Regulations" means the Social Security (Claims and Payments) Regulations 1987 [^c1602919];
 
@@ -63,7 +63,7 @@ Now, therefore, the Secretary of State for Social Security, in exercise of the p
 
 In regulation 7(4) for the words “review of the assessment" to the end of that regulation there shall be substituted the words “ a supersession of the assessment relating to the relevant period. ”.
 
-## 3. Amendment of the Claims and Payments Regulations[^key-eeaae8e633aed8fbf53c634303c61638]
+## 3. Amendment of the Claims and Payments Regulations[^c-eeaae8e633aed8fbf53c634303c61638]
 
 In regulation 6—
 
@@ -365,31 +365,31 @@ In regulation 33, after paragraph (9), there shall be added the following paragr
 
 ## 24.
 
-In regulation 36— *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]
+In regulation 36— *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-4b18513b563206ec71d198a994bb67fc] in paragraph (1) the words “, including an appeal tribunal determining a misconceived appeal as a preliminary issue in accordance with regulation 48," shall be omitted; *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-4b18513b563206ec71d198a994bb67fc] in paragraph (2) for the words “paragraphs (3) to (5)" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc] “ paragraphs (3) to (5), (8) and (9) ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]
-- (c (Extent: E+W) (affected by repeal, see note))[^key-4b18513b563206ec71d198a994bb67fc] in paragraph (2)(a)(i) for the words “all work test" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc] “ personal capability assessment ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]
-- (d (Extent: E+W) (affected by repeal, see note))[^key-4b18513b563206ec71d198a994bb67fc] in paragraph (2)(b)(i) after the words “the appeal" there shall be inserted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc] “ (not being an appeal where the only issue is whether there should be a declaration of an industrial accident under section 29(2)) ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]
-- (e (Extent: E+W) (affected by repeal, see note))[^key-4b18513b563206ec71d198a994bb67fc] in paragraph (5) for the words “or (3)" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc] “ , (3) or (9) ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]
-- (f (Extent: E+W) (affected by repeal, see note))[^key-4b18513b563206ec71d198a994bb67fc] in paragraph (6) for the words “a disability working allowance" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc] “ a disabled person’s tax credit ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc][^c1602930]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]
-- (g (Extent: E+W) (affected by repeal, see note))[^key-4b18513b563206ec71d198a994bb67fc] in paragraph (7) for the words “all work test" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc] “ personal capability assessment ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]
-- (h (Extent: E+W) (affected by repeal, see note))[^key-4b18513b563206ec71d198a994bb67fc] after paragraph (7) there shall be added the following paragraphs— *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-4b18513b563206ec71d198a994bb67fc] in paragraph (1) the words “, including an appeal tribunal determining a misconceived appeal as a preliminary issue in accordance with regulation 48," shall be omitted; *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-4b18513b563206ec71d198a994bb67fc] in paragraph (2) for the words “paragraphs (3) to (5)" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc] “ paragraphs (3) to (5), (8) and (9) ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]
+- (c (Extent: E+W) (affected by repeal, see note))[^c-4b18513b563206ec71d198a994bb67fc] in paragraph (2)(a)(i) for the words “all work test" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc] “ personal capability assessment ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]
+- (d (Extent: E+W) (affected by repeal, see note))[^c-4b18513b563206ec71d198a994bb67fc] in paragraph (2)(b)(i) after the words “the appeal" there shall be inserted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc] “ (not being an appeal where the only issue is whether there should be a declaration of an industrial accident under section 29(2)) ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]
+- (e (Extent: E+W) (affected by repeal, see note))[^c-4b18513b563206ec71d198a994bb67fc] in paragraph (5) for the words “or (3)" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc] “ , (3) or (9) ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]
+- (f (Extent: E+W) (affected by repeal, see note))[^c-4b18513b563206ec71d198a994bb67fc] in paragraph (6) for the words “a disability working allowance" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc] “ a disabled person’s tax credit ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc][^c1602930]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]
+- (g (Extent: E+W) (affected by repeal, see note))[^c-4b18513b563206ec71d198a994bb67fc] in paragraph (7) for the words “all work test" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc] “ personal capability assessment ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]
+- (h (Extent: E+W) (affected by repeal, see note))[^c-4b18513b563206ec71d198a994bb67fc] after paragraph (7) there shall be added the following paragraphs— *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]
 
-  > (8 (Extent: E+W) (affected by repeal, see note))[^key-4b18513b563206ec71d198a994bb67fc] A person shall not act as a medically qualified panel member of an appeal tribunal in any appeal if he has at any time advised or prepared a report upon any person whose medical condition is relevant to the issue in the appeal, or has at any time regularly attended such a person. *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]
+  > (8 (Extent: E+W) (affected by repeal, see note))[^c-4b18513b563206ec71d198a994bb67fc] A person shall not act as a medically qualified panel member of an appeal tribunal in any appeal if he has at any time advised or prepared a report upon any person whose medical condition is relevant to the issue in the appeal, or has at any time regularly attended such a person. *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]
   >
-  > (9 (Extent: E+W) (affected by repeal, see note))[^key-4b18513b563206ec71d198a994bb67fc] Subject to paragraph (5), an appeal tribunal determining a misconceived appeal as a preliminary issue in accordance with regulation 48 shall consist of a legally qualified panel member. *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]
+  > (9 (Extent: E+W) (affected by repeal, see note))[^c-4b18513b563206ec71d198a994bb67fc] Subject to paragraph (5), an appeal tribunal determining a misconceived appeal as a preliminary issue in accordance with regulation 48 shall consist of a legally qualified panel member. *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]
 
-  . *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b18513b563206ec71d198a994bb67fc]
+  . *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b18513b563206ec71d198a994bb67fc]
 
 ## 25.
 
-In regulation 42— *(Extent: E+W)* *(affected by repeal, see note)*[^key-ddea91d5ed841dea9f7c084dda08062b]
+In regulation 42— *(Extent: E+W)* *(affected by repeal, see note)*[^c-ddea91d5ed841dea9f7c084dda08062b]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-ddea91d5ed841dea9f7c084dda08062b] in paragraph (1)— *(Extent: E+W)* *(affected by repeal, see note)*[^key-ddea91d5ed841dea9f7c084dda08062b]
-  - (i (Extent: E+W) (affected by repeal, see note))[^key-ddea91d5ed841dea9f7c084dda08062b] the words “the consideration and determination of" and “before an appeal tribunal" shall be omitted; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-ddea91d5ed841dea9f7c084dda08062b]
-  - (ii (Extent: E+W) (affected by repeal, see note))[^key-ddea91d5ed841dea9f7c084dda08062b] for the words “the chairman, or in the case of an appeal tribunal which has only one member, in the opinion of that member," there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-ddea91d5ed841dea9f7c084dda08062b] “ a legally qualified panel member ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-ddea91d5ed841dea9f7c084dda08062b]; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-ddea91d5ed841dea9f7c084dda08062b]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-ddea91d5ed841dea9f7c084dda08062b] in paragraph (2) for the words “the chairman, or in the case of an appeal tribunal which has only one member, that member," there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-ddea91d5ed841dea9f7c084dda08062b] “ a legally qualified panel member ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-ddea91d5ed841dea9f7c084dda08062b]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-ddea91d5ed841dea9f7c084dda08062b]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-ddea91d5ed841dea9f7c084dda08062b] in paragraph (1)— *(Extent: E+W)* *(affected by repeal, see note)*[^c-ddea91d5ed841dea9f7c084dda08062b]
+  - (i (Extent: E+W) (affected by repeal, see note))[^c-ddea91d5ed841dea9f7c084dda08062b] the words “the consideration and determination of" and “before an appeal tribunal" shall be omitted; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-ddea91d5ed841dea9f7c084dda08062b]
+  - (ii (Extent: E+W) (affected by repeal, see note))[^c-ddea91d5ed841dea9f7c084dda08062b] for the words “the chairman, or in the case of an appeal tribunal which has only one member, in the opinion of that member," there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-ddea91d5ed841dea9f7c084dda08062b] “ a legally qualified panel member ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-ddea91d5ed841dea9f7c084dda08062b]; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-ddea91d5ed841dea9f7c084dda08062b]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-ddea91d5ed841dea9f7c084dda08062b] in paragraph (2) for the words “the chairman, or in the case of an appeal tribunal which has only one member, that member," there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-ddea91d5ed841dea9f7c084dda08062b] “ a legally qualified panel member ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-ddea91d5ed841dea9f7c084dda08062b]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-ddea91d5ed841dea9f7c084dda08062b]
 
 ## 26.
 
@@ -408,89 +408,89 @@ In regulation 53(4)—
 
 ## 29.
 
-In regulation 54— *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+In regulation 54— *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] in paragraph (1) the words “a copy of" shall be omitted, and after the words “are satisfied, but" there shall be inserted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a] “ , subject to paragraph (13), ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] after paragraph (12) there shall be added the following paragraph— *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] in paragraph (1) the words “a copy of" shall be omitted, and after the words “are satisfied, but" there shall be inserted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a] “ , subject to paragraph (13), ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] after paragraph (12) there shall be added the following paragraph— *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 
-  > (13 (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] In calculating the time specified for applying in writing for a statement of the reasons for the tribunal’s decision there shall be disregarded any day which falls before the day on which notice was given of— *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  > (13 (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] In calculating the time specified for applying in writing for a statement of the reasons for the tribunal’s decision there shall be disregarded any day which falls before the day on which notice was given of— *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
   >
-  > - (a (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] a correction of a decision or the record thereof pursuant to regulation 56; or *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
-  > - (b (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] a determination that a decision shall not be set aside following an application made under regulation 57. *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  > - (a (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] a correction of a decision or the record thereof pursuant to regulation 56; or *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
+  > - (b (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] a determination that a decision shall not be set aside following an application made under regulation 57. *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 
-  . *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  . *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 
 ## 30.
 
-In regulation 56(1) for the words “, or where the clerk refers the matter to a legally qualified panel member, that member," there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a] “ or a legally qualified panel member ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+In regulation 56(1) for the words “, or where the clerk refers the matter to a legally qualified panel member, that member," there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a] “ or a legally qualified panel member ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 
 ## 31.
 
-In regulation 57— *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+In regulation 57— *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] for paragraph (3) there shall be substituted the following paragraph— *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] for paragraph (3) there shall be substituted the following paragraph— *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 
-  > (3 (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] An application under this regulation shall— *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  > (3 (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] An application under this regulation shall— *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
   >
-  > - (a (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] be made within one month of the date on which— *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
-  >   - (i (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] a copy of the decision notice is sent or given to the parties to the proceedings in accordance with regulation 53(3); or *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
-  >   - (ii (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] the statement of the reasons for the decision is given or sent in accordance with regulation 53(4), *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  > - (a (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] be made within one month of the date on which— *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
+  >   - (i (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] a copy of the decision notice is sent or given to the parties to the proceedings in accordance with regulation 53(3); or *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
+  >   - (ii (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] the statement of the reasons for the decision is given or sent in accordance with regulation 53(4), *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
   >
-  >   whichever is the later; *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
-  > - (b (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] be in writing and signed by a party to the proceedings or, where the party has provided written authority to a representative to act on his behalf, that representative; *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
-  > - (c (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] contain particulars of the grounds on which it is made; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
-  > - (d (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] be sent to the clerk to the appeal tribunal. *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  >   whichever is the later; *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
+  > - (b (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] be in writing and signed by a party to the proceedings or, where the party has provided written authority to a representative to act on his behalf, that representative; *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
+  > - (c (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] contain particulars of the grounds on which it is made; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
+  > - (d (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] be sent to the clerk to the appeal tribunal. *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 
-  ; *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  ; *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 
-  and *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] after paragraph (5) there shall be added the following paragraphs— *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  and *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] after paragraph (5) there shall be added the following paragraphs— *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 
-  > (6 (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] The time within which an application under this regulation must be made may be extended by a period not exceeding one year where the conditions specified in paragraphs (7) to (11) are satisfied. *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  > (6 (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] The time within which an application under this regulation must be made may be extended by a period not exceeding one year where the conditions specified in paragraphs (7) to (11) are satisfied. *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
   >
-  > (7 (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] An application for an extension of time shall be made in accordance with paragraph (3)(b) to (d), shall include details of any relevant special circumstances for the purposes of paragraph (9) and shall be determined by a legally qualified panel member. *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  > (7 (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] An application for an extension of time shall be made in accordance with paragraph (3)(b) to (d), shall include details of any relevant special circumstances for the purposes of paragraph (9) and shall be determined by a legally qualified panel member. *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
   >
-  > (8 (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] An application for an extension of time shall not be granted unless the panel member is satisfied that— *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  > (8 (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] An application for an extension of time shall not be granted unless the panel member is satisfied that— *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
   >
-  > - (a (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] if the application is granted there are reasonable prospects that the application to set aside will be successful; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
-  > - (b (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] it is in the interests of justice for the application for an extension of time to be granted. *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  > - (a (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] if the application is granted there are reasonable prospects that the application to set aside will be successful; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
+  > - (b (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] it is in the interests of justice for the application for an extension of time to be granted. *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
   >
-  > (9 (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] For the purposes of paragraph (8) it is not in the interests of justice to grant an application for an extension of time unless the panel member is satisfied that— *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  > (9 (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] For the purposes of paragraph (8) it is not in the interests of justice to grant an application for an extension of time unless the panel member is satisfied that— *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
   >
-  > - (a (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] the special circumstances specified in paragraph (10) are relevant to that application; or *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
-  > - (b (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] some other special circumstances exist which are wholly exceptional and relevant to that application, *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  > - (a (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] the special circumstances specified in paragraph (10) are relevant to that application; or *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
+  > - (b (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] some other special circumstances exist which are wholly exceptional and relevant to that application, *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
   >
-  > and as a result of those special circumstances, it was not practicable for the application to set aside to be made within the time limit specified in paragraph (3)(a). *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  > and as a result of those special circumstances, it was not practicable for the application to set aside to be made within the time limit specified in paragraph (3)(a). *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
   >
-  > (10 (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] For the purposes of paragraph (9)(a) the special circumstances are that— *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  > (10 (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] For the purposes of paragraph (9)(a) the special circumstances are that— *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
   >
-  > - (a (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] the applicant or a spouse or dependant of the applicant has died or suffered serious illness; *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
-  > - (b (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] the applicant is not resident in the United Kingdom; or *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
-  > - (c (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] normal postal services were disrupted. *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  > - (a (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] the applicant or a spouse or dependant of the applicant has died or suffered serious illness; *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
+  > - (b (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] the applicant is not resident in the United Kingdom; or *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
+  > - (c (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] normal postal services were disrupted. *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
   >
-  > (11 (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] In determining whether it is in the interests of justice to grant an application for an extension of time, the panel member shall have regard to the principle that the greater the amount of time that has elapsed between the expiry of the time within which the application to set aside is to be made and the making of the application for an extension of time, the more compelling should be the special circumstances on which the application for an extension is based. *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  > (11 (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] In determining whether it is in the interests of justice to grant an application for an extension of time, the panel member shall have regard to the principle that the greater the amount of time that has elapsed between the expiry of the time within which the application to set aside is to be made and the making of the application for an extension of time, the more compelling should be the special circumstances on which the application for an extension is based. *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
   >
-  > (12 (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] An application under this regulation for an extension of time which has been refused may not be renewed. *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  > (12 (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] An application under this regulation for an extension of time which has been refused may not be renewed. *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 
-  . *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+  . *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 
 ## 32.
 
-After regulation 57 there shall be inserted the following regulations— *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+After regulation 57 there shall be inserted the following regulations— *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 
-> **57A (Extent: E+W) (affected by repeal, see note). Provisions common to regulations 56 and 57 (Extent: E+W) (affected by repeal, see note)[^key-be1464bfacf5925bc9fd308625386b0a][^key-be1464bfacf5925bc9fd308625386b0a]**
+> **57A (Extent: E+W) (affected by repeal, see note). Provisions common to regulations 56 and 57 (Extent: E+W) (affected by repeal, see note)[^c-be1464bfacf5925bc9fd308625386b0a][^c-be1464bfacf5925bc9fd308625386b0a]**
 >
-> (1 (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] In calculating any time specified for appealing to a Commissioner from a decision of an appeal tribunal there shall be disregarded any day falling before the day on which notice was given of a correction of a decision or the record thereof pursuant to regulation 56 or on which notice is given of a determination that a decision shall not be set aside following an application made under regulation 57, as the case may be. *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+> (1 (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] In calculating any time specified for appealing to a Commissioner from a decision of an appeal tribunal there shall be disregarded any day falling before the day on which notice was given of a correction of a decision or the record thereof pursuant to regulation 56 or on which notice is given of a determination that a decision shall not be set aside following an application made under regulation 57, as the case may be. *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 >
-> (2 (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] There shall be no appeal against a correction made under regulation 56 or a refusal to make such a correction or against a determination given under regulation 57. *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+> (2 (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] There shall be no appeal against a correction made under regulation 56 or a refusal to make such a correction or against a determination given under regulation 57. *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 >
-> (3 (Extent: E+W) (affected by repeal, see note))[^key-be1464bfacf5925bc9fd308625386b0a] Nothing in this Chapter shall be construed as derogating from any power to correct errors or set aside decisions which is exercisable apart from these Regulations. *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+> (3 (Extent: E+W) (affected by repeal, see note))[^c-be1464bfacf5925bc9fd308625386b0a] Nothing in this Chapter shall be construed as derogating from any power to correct errors or set aside decisions which is exercisable apart from these Regulations. *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 >
-> **57B (Extent: E+W) (affected by repeal, see note). Interpretation of Chapter V (Extent: E+W) (affected by repeal, see note)[^key-be1464bfacf5925bc9fd308625386b0a][^key-be1464bfacf5925bc9fd308625386b0a]**
+> **57B (Extent: E+W) (affected by repeal, see note). Interpretation of Chapter V (Extent: E+W) (affected by repeal, see note)[^c-be1464bfacf5925bc9fd308625386b0a][^c-be1464bfacf5925bc9fd308625386b0a]**
 >
-> In Chapter V, except in regulation 58, “Commissioner" includes Child Support Commissioner. *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+> In Chapter V, except in regulation 58, “Commissioner" includes Child Support Commissioner. *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 
-. *(Extent: E+W)* *(affected by repeal, see note)*[^key-be1464bfacf5925bc9fd308625386b0a]
+. *(Extent: E+W)* *(affected by repeal, see note)*[^c-be1464bfacf5925bc9fd308625386b0a]
 
 ## 33.
 
@@ -651,7 +651,7 @@ These Regulations do not impose a charge on business.
 
 [^c1602918]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-46ff7aefd7df07b490e0c19c0fceb107]: Modification: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1596/regulation/1/2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-46ff7aefd7df07b490e0c19c0fceb107]: Modification: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1596/regulation/1/2) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1602919]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968); relevant amending instruments are [S.I. 1993/1113](https://www.legislation.gov.uk/uksi/1993/1113), 1996/1460, 1997/793 and 2290, 1998/1174 and 1999/3178 (C. 81).
 
@@ -663,7 +663,7 @@ These Regulations do not impose a charge on business.
 
 [^c1602923]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991); relevant amending instruments are [S.I. 1999/1466](https://www.legislation.gov.uk/uksi/1999/1466), 1623 and 3178 (C. 81) and 2000/119 and 897.
 
-[^key-eeaae8e633aed8fbf53c634303c61638]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/1596/regulation/3) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-eeaae8e633aed8fbf53c634303c61638]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/1596/regulation/3) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1602924]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -677,13 +677,13 @@ These Regulations do not impose a charge on business.
 
 [^c1602929]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-4b18513b563206ec71d198a994bb67fc]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2000/1596/regulation/24) revoked (3.11.2008) (E+W) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(c)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/c), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
+[^c-4b18513b563206ec71d198a994bb67fc]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2000/1596/regulation/24) revoked (3.11.2008) (E+W) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(c)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/c), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
 
 [^c1602930]: Marginal citation: [The Tax Credits Act 1999 (c. 10)](https://www.legislation.gov.uk/ukpga/1999/10); section 1 and Schedule 1, paragraphs 1(b) and 2(h), substituted the words “disabled person's tax credit" for the words “disability working allowance" in section 129 of the [Social Security Contributions and Benefits Act 1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-ddea91d5ed841dea9f7c084dda08062b]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2000/1596/regulation/25) revoked (3.11.2008) (E+W) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(c)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/c), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
+[^c-ddea91d5ed841dea9f7c084dda08062b]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2000/1596/regulation/25) revoked (3.11.2008) (E+W) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(c)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/c), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
 
-[^key-be1464bfacf5925bc9fd308625386b0a]: Textual amendment: Regs. 29-32 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(c)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/c), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
+[^c-be1464bfacf5925bc9fd308625386b0a]: Textual amendment: Regs. 29-32 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(c)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/c), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
 
 [^c1602931]: Marginal citation: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50).
 

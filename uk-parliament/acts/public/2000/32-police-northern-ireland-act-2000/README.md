@@ -113,7 +113,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: N.I.*
 
-#### Core policing principles[^key-337c9a17aee8532ba80b3a96d032f6c1]
+#### Core policing principles[^c-337c9a17aee8532ba80b3a96d032f6c1]
 
 - [Section 31A — Core policing principles](part-vi/section-31a.md)
 
@@ -231,4 +231,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-337c9a17aee8532ba80b3a96d032f6c1]: Textual amendment: S. 31A and cross-heading inserted (8.4.2003) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2003/6/section/20/1)
+[^c-337c9a17aee8532ba80b3a96d032f6c1]: Textual amendment: S. 31A and cross-heading inserted (8.4.2003) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 20(1)](https://www.legislation.gov.uk/ukpga/2003/6/section/20/1)

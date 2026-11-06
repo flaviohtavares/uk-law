@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Exercise of maritime enforcement powers[^key-33d7eacd884a2f3a5f4b906bafa3b036][^key-8dd6fb4945951982b3ac883c068ef191]
+## 57. Exercise of maritime enforcement powers[^c-33d7eacd884a2f3a5f4b906bafa3b036][^c-8dd6fb4945951982b3ac883c068ef191]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 and a ship within sub-paragraph (a), (b) or (c) is referred to in this Part as “**a relevant ship**”.
 
-(2)[^key-415d3e90b912b8bf601e9deaab58a359] The maritime enforcement powers may be exercised for the purpose of enforcing any of the following—
+(2)[^c-415d3e90b912b8bf601e9deaab58a359] The maritime enforcement powers may be exercised for the purpose of enforcing any of the following—
 
 - (a) the prohibition in regulation 21 (export of goods to, or for use in, Belarus)
 - (b) the prohibition in regulation 22 (supply and delivery of goods from a third country to Belarus);
@@ -48,8 +48,8 @@ and a ship within sub-paragraph (a), (b) or (c) is referred to in this Part as �
 
 ## Annotations
 
-[^key-33d7eacd884a2f3a5f4b906bafa3b036]: Commencement: Reg. 57 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-33d7eacd884a2f3a5f4b906bafa3b036]: Commencement: Reg. 57 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-8dd6fb4945951982b3ac883c068ef191]: Commencement: Reg. 57 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8dd6fb4945951982b3ac883c068ef191]: Commencement: Reg. 57 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-415d3e90b912b8bf601e9deaab58a359]: Textual amendment: [Reg. 57(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/57/2) substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2022/748/regulation/41)
+[^c-415d3e90b912b8bf601e9deaab58a359]: Textual amendment: [Reg. 57(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/57/2) substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2022/748/regulation/41)

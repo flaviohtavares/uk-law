@@ -640,7 +640,7 @@ Section 54
 
 #### CAA 2001
 
-**7.**[^key-76308fc9178db9273d38a31ec6ae2607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-76308fc9178db9273d38a31ec6ae2607] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### FA 2007
 
@@ -929,4 +929,4 @@ Section 54
 
 ## Annotations
 
-[^key-76308fc9178db9273d38a31ec6ae2607]: Textual amendment: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/7) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)(c)(xii)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/xii)
+[^c-76308fc9178db9273d38a31ec6ae2607]: Textual amendment: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/7) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)(c)(xii)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/xii)

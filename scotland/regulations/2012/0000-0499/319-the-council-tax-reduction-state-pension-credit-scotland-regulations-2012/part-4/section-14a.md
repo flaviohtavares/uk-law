@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14A. Conditions of entitlement to council tax reduction – dwellings in bands E to H[^key-7202b6bc8d47b754df929b6706010a54]
+## 14A. Conditions of entitlement to council tax reduction – dwellings in bands E to H[^c-7202b6bc8d47b754df929b6706010a54]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7202b6bc8d47b754df929b6706010a54]: Textual amendment: Reg. 14A inserted (1.4.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/253)](https://www.legislation.gov.uk/ssi/2016/253), [regs. 1](https://www.legislation.gov.uk/ssi/2016/253/regulation/1), [11](https://www.legislation.gov.uk/ssi/2016/253/regulation/11)
+[^c-7202b6bc8d47b754df929b6706010a54]: Textual amendment: Reg. 14A inserted (1.4.2017) by [The Council Tax Reduction (Scotland) Amendment (No. 2) Regulations 2016 (S.S.I. 2016/253)](https://www.legislation.gov.uk/ssi/2016/253), [regs. 1](https://www.legislation.gov.uk/ssi/2016/253/regulation/1), [11](https://www.legislation.gov.uk/ssi/2016/253/regulation/11)

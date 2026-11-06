@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Duty to prepare food-growing strategy[^key-86cc459065296ed3e8550adabe9008c2]
+## 119. Duty to prepare food-growing strategy[^c-86cc459065296ed3e8550adabe9008c2]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86cc459065296ed3e8550adabe9008c2]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2015/6/section/119) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-86cc459065296ed3e8550adabe9008c2]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2015/6/section/119) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

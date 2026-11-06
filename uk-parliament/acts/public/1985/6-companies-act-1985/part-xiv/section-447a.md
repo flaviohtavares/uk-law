@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 447A. Information provided: evidence[^key-0fca536c92073148b382aff0fde9fd7c][^c19382181]
+## 447A. Information provided: evidence[^c-0fca536c92073148b382aff0fde9fd7c][^c19382181]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ unless evidence relating to it is adduced or a question relating to it is asked 
 
 ## Annotations
 
-[^key-0fca536c92073148b382aff0fde9fd7c]: Modification: S. 447A applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
+[^c-0fca536c92073148b382aff0fde9fd7c]: Modification: S. 447A applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
 
 [^c19382181]: Textual amendment: S. 447A inserted (6.4.2005) by [Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27), [ss. 25](https://www.legislation.gov.uk/ukpga/2004/27/section/25), [65](https://www.legislation.gov.uk/ukpga/2004/27/section/65), [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2004/27/schedule/2/paragraph/17); [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2) (subject to [arts. 3-13](https://www.legislation.gov.uk/uksi/2004/3322/article/3))
 

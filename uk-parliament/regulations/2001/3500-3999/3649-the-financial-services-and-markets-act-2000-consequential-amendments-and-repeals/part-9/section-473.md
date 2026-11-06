@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 473. Meaning of “securities”[^key-e6d1203cdc425833658889639e2afcf3]
+## 473. Meaning of “securities”[^c-e6d1203cdc425833658889639e2afcf3]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e6d1203cdc425833658889639e2afcf3]: Commencement: Art. 473 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e6d1203cdc425833658889639e2afcf3]: Commencement: Art. 473 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00314]: Footnote: Clause 8A was inserted by [S.I. 1994/2577](https://www.legislation.gov.uk/uksi/1994/2577), regulation 4 and Schedule.

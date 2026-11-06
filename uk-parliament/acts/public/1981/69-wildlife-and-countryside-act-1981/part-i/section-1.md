@@ -43,7 +43,7 @@ he shall be guilty of an offence.
 
 [^c19404531]...
 
-(3ZA)[^key-ec664af2ebabd2c5889f35a9da3c0aa1] A person shall not be guilty of an offence under subsection (2)(b) if the person shows that the egg, or the part of the egg, was in any person’s possession or control before 28th September 1982.
+(3ZA)[^c-ec664af2ebabd2c5889f35a9da3c0aa1] A person shall not be guilty of an offence under subsection (2)(b) if the person shows that the egg, or the part of the egg, was in any person’s possession or control before 28th September 1982.
 
 (3A)[^c19407611] In subsection (3) “**lawfully**” means without any contravention of—
 
@@ -109,7 +109,7 @@ he shall be guilty of an offence.
   - (a) Council Regulation 338/97/EC on the protection of species of wild fauna and flora by regulating trade, and
   - (b) Commission Regulation 1808/2001/ EC on the implementation of that Council Regulation,
 
-  as amended from time to time (or any EU[^key-4a248f967d98110d24782611ff797bb7] instrument replacing either of them).
+  as amended from time to time (or any EU[^c-4a248f967d98110d24782611ff797bb7] instrument replacing either of them).
 
 (4)[^c19388631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -126,7 +126,7 @@ he shall be guilty of an offence [^c19388641]....
 
 (5C) Subject to the provisions of this Part, any person who knowingly causes or permits to be done an act which is made unlawful by any of the foregoing provisions of this section shall be guilty of an offence.
 
-(6)[^key-db39c68c7b6c1125cec03c5fee098339] For the purposes of this section, the definition of “wild bird” in section 27(1) is to be read as not including any bird which is shown to have been bred in captivity unless—
+(6)[^c-db39c68c7b6c1125cec03c5fee098339] For the purposes of this section, the definition of “wild bird” in section 27(1) is to be read as not including any bird which is shown to have been bred in captivity unless—
 
 - (a) it has been lawfully released or allowed to escape from captivity as part of a re-population or re-introduction programme; or
 - (b) it is a mallard, grey or red-legged partridge, common pheasant or red grouse which is no longer in captivity and is not in a place where it was reared.
@@ -149,7 +149,7 @@ he shall be guilty of an offence [^c19388641]....
 
 [^c19404531]: Textual amendment: Words in [s. 1(3)](https://www.legislation.gov.uk/ukpga/1981/69/section/1/3) omitted (E.) (14.7.2004) by virtue of [The Wildlife and Countryside Act 1981 (England and Wales) (Amendment) Regulations 2004 (S.I. 2004/1487)](https://www.legislation.gov.uk/uksi/2004/1487), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2004/1487/regulation/3/c); and (W.) (2.8.2004) by virtue of [The Wildlife and Countryside Act 1981 (Amendment) (Wales) Regulations 2004 (S.I. 2004/1733)](https://www.legislation.gov.uk/uksi/2004/1733), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2004/1733/regulation/3/1), [Sch. para. 1(c)](https://www.legislation.gov.uk/uksi/2004/1733/schedule/paragraph/1/c)
 
-[^key-ec664af2ebabd2c5889f35a9da3c0aa1]: Textual amendment: S. 1(3ZA) inserted (E.W.) (6.4.2016) by [The Wildlife and Countryside Act 1981 (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/127)](https://www.legislation.gov.uk/uksi/2016/127), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/127/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2016/127/regulation/2/2)
+[^c-ec664af2ebabd2c5889f35a9da3c0aa1]: Textual amendment: S. 1(3ZA) inserted (E.W.) (6.4.2016) by [The Wildlife and Countryside Act 1981 (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/127)](https://www.legislation.gov.uk/uksi/2016/127), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/127/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2016/127/regulation/2/2)
 
 [^c19407611]: Textual amendment: [S. 1(3A)](https://www.legislation.gov.uk/ukpga/1981/69/section/1/3A) inserted (E.) (14.7.2004) by [The Wildlife and Countryside Act 1981 (England and Wales) (Amendment) Regulations 2004 (S.I. 2004/1487)](https://www.legislation.gov.uk/uksi/2004/1487), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2004/1487/regulation/3/d); and (W.) (2.8.2004) by [The Wildlife and Countryside Act 1981 (Amendment) (Wales) Regulations 2004 (S.I. 2004/1733)](https://www.legislation.gov.uk/uksi/2004/1733), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2004/1733/regulation/3/1), [Sch. para. 1(d)](https://www.legislation.gov.uk/uksi/2004/1733/schedule/paragraph/1/d)
 
@@ -193,8 +193,8 @@ he shall be guilty of an offence [^c19388641]....
 
 [^c19404071]: Textual amendment: S. 1(3A) inserted (S.) (1.10.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [ss. 50](https://www.legislation.gov.uk/asp/2004/6/section/50), [59](https://www.legislation.gov.uk/asp/2004/6/section/59), [Sch. 6 para. 2(4)](https://www.legislation.gov.uk/asp/2004/6/schedule/6/paragraph/2/4); [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2](https://www.legislation.gov.uk/ssi/2004/407/article/2)
 
-[^key-4a248f967d98110d24782611ff797bb7]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3),](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3) [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[, 6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-4a248f967d98110d24782611ff797bb7]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3),](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3) [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[, 6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c19404101]: Textual amendment: S. 1(5A)-(5C) inserted (S.) (1.10.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [ss. 50](https://www.legislation.gov.uk/asp/2004/6/section/50), [59](https://www.legislation.gov.uk/asp/2004/6/section/59), [Sch. 6 para. 2(6)](https://www.legislation.gov.uk/asp/2004/6/schedule/6/paragraph/2/6); [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2](https://www.legislation.gov.uk/ssi/2004/407/article/2)
 
-[^key-db39c68c7b6c1125cec03c5fee098339]: Textual amendment: S. 1(6) substituted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 3(3)](https://www.legislation.gov.uk/asp/2011/6/section/3/3), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/b)
+[^c-db39c68c7b6c1125cec03c5fee098339]: Textual amendment: S. 1(6) substituted (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 3(3)](https://www.legislation.gov.uk/asp/2011/6/section/3/3), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/b)

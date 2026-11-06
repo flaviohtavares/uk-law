@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Amount of the maintenance grant – current system students who are not 2008 cohort students[^key-11169161f4c871f69decdce8c3615261]
+## 57. Amount of the maintenance grant – current system students who are not 2008 cohort students[^c-11169161f4c871f69decdce8c3615261]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11169161f4c871f69decdce8c3615261]: Commencement: Reg. 57 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-11169161f4c871f69decdce8c3615261]: Commencement: Reg. 57 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

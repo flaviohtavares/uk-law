@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Other duties[^key-4a618ab1622217dcc8496d3c5172ec7b][^key-23b6c30c7d5c8a284fdaf2e3772cd6cb]
+## 13. Other duties[^c-4a618ab1622217dcc8496d3c5172ec7b][^c-23b6c30c7d5c8a284fdaf2e3772cd6cb]
 
 *Extent: E+W*
 
@@ -133,6 +133,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a618ab1622217dcc8496d3c5172ec7b]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-4a618ab1622217dcc8496d3c5172ec7b]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
 
-[^key-23b6c30c7d5c8a284fdaf2e3772cd6cb]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/26/section/13) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2026/421/regulation/9))
+[^c-23b6c30c7d5c8a284fdaf2e3772cd6cb]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/26/section/13) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2026/421/regulation/9))

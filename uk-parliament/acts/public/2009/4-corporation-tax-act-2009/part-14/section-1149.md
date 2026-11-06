@@ -22,9 +22,9 @@ summary: ''
 
 (1) A company is entitled to corporation tax relief for an accounting period if each of conditions A to D is met.
 
-(2) Condition A is that a major interest in[^key-9e668367f11a04696c7391408ab96ea4] land in the United Kingdom is, or has been, acquired by the company for the purposes of a UK property business or a trade carried on by it.
+(2) Condition A is that a major interest in[^c-9e668367f11a04696c7391408ab96ea4] land in the United Kingdom is, or has been, acquired by the company for the purposes of a UK property business or a trade carried on by it.
 
-(3)[^key-aff0a3fea2c75028f16e701615252827] Condition B is that—
+(3)[^c-aff0a3fea2c75028f16e701615252827] Condition B is that—
 
 - (a) in the case of land in a contaminated state, the land was in a contaminated state at the time of the acquisition, and
 - (b) in the case of land in a derelict state, the land was in a derelict state throughout the period beginning with the earlier of—
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e668367f11a04696c7391408ab96ea4]: Textual amendment: Words in s. 1149(2) inserted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 10(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/10/2)
+[^c-9e668367f11a04696c7391408ab96ea4]: Textual amendment: Words in s. 1149(2) inserted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 10(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/10/2)
 
-[^key-aff0a3fea2c75028f16e701615252827]: Textual amendment: S. 1149(3)-(3B) substituted for s. 1149(3) (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 10(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/10/3)
+[^c-aff0a3fea2c75028f16e701615252827]: Textual amendment: S. 1149(3)-(3B) substituted for s. 1149(3) (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 10(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/10/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Safety operations manual[^key-429a7e762ed609c782d7ba9af859e187]
+## 90. Safety operations manual[^c-429a7e762ed609c782d7ba9af859e187]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-429a7e762ed609c782d7ba9af859e187]: Commencement: Reg. 90 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-429a7e762ed609c782d7ba9af859e187]: Commencement: Reg. 90 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

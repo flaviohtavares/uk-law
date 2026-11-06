@@ -16,31 +16,31 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 102. Designated postgraduate courses (affected by repeal, see note)[^key-9f715510a1ec2654e726d9e0771bc96f][^key-38e66e2f9723c92ebe23389f944f7e12][^key-38e66e2f9723c92ebe23389f944f7e12]
+## 102. Designated postgraduate courses (affected by repeal, see note)[^c-9f715510a1ec2654e726d9e0771bc96f][^c-38e66e2f9723c92ebe23389f944f7e12][^c-38e66e2f9723c92ebe23389f944f7e12]
 
 *Extent: N.I.*
 
-(1) A postgraduate course is designated for the purposes of Article 3 of the Order and regulation 101 if— *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
+(1) A postgraduate course is designated for the purposes of Article 3 of the Order and regulation 101 if— *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
 
-- (a) it is a course for entry to which a first degree (or equivalent qualification) or higher is normally required; *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
-- (b) it is a course— *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
-  - (i) of at least one academic year’s duration; and *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
-  - (ii (affected by repeal, see note))[^key-38e66e2f9723c92ebe23389f944f7e12] in the case of a part-time course, the duration of which does not exceed twice the period normally required to complete a full-time course leading to the same qualification; *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
-- (c) it is wholly provided by a publicly-funded educational institution or institutions in the United Kingdom or provided by such an institution or institutions in conjunction with an institution or institutions outside the United Kingdom; and *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
-- (d) it is not a course for the initial training of teachers or a course taken as part of an employment-based teacher training scheme. *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
+- (a) it is a course for entry to which a first degree (or equivalent qualification) or higher is normally required; *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
+- (b) it is a course— *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
+  - (i) of at least one academic year’s duration; and *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
+  - (ii (affected by repeal, see note))[^c-38e66e2f9723c92ebe23389f944f7e12] in the case of a part-time course, the duration of which does not exceed twice the period normally required to complete a full-time course leading to the same qualification; *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
+- (c) it is wholly provided by a publicly-funded educational institution or institutions in the United Kingdom or provided by such an institution or institutions in conjunction with an institution or institutions outside the United Kingdom; and *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
+- (d) it is not a course for the initial training of teachers or a course taken as part of an employment-based teacher training scheme. *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
 
-(2) For the purposes of paragraph (1)— *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
+(2) For the purposes of paragraph (1)— *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
 
-- (a) a course is provided by an institution if it provides the teaching and supervision which comprise the course, whether or not it has entered an agreement with the student to provide the course; *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
-- (b) a university and any constituent college or institution in the nature of a college of a university is to be regarded as publicly funded if either the university or the constituent college or institution is publicly funded; and *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
-- (c) an institution is not to be regarded as publicly funded by reason only that it receives public funds from the governing body of a higher education institution in accordance with section 65(3A)of the Further and Higher Education Act 1992 *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12][^f00069].
+- (a) a course is provided by an institution if it provides the teaching and supervision which comprise the course, whether or not it has entered an agreement with the student to provide the course; *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
+- (b) a university and any constituent college or institution in the nature of a college of a university is to be regarded as publicly funded if either the university or the constituent college or institution is publicly funded; and *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
+- (c) an institution is not to be regarded as publicly funded by reason only that it receives public funds from the governing body of a higher education institution in accordance with section 65(3A)of the Further and Higher Education Act 1992 *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12][^f00069].
 
-(3) For the purposes of Article 3 of the Order and regulation 101, the Department may designate courses of higher education which are not designated under paragraph (1). *(affected by repeal, see note)*[^key-38e66e2f9723c92ebe23389f944f7e12]
+(3) For the purposes of Article 3 of the Order and regulation 101, the Department may designate courses of higher education which are not designated under paragraph (1). *(affected by repeal, see note)*[^c-38e66e2f9723c92ebe23389f944f7e12]
 
 ## Annotations
 
-[^key-9f715510a1ec2654e726d9e0771bc96f]: Commencement: [Reg. 102](https://www.legislation.gov.uk/nisr/2006/312/regulation/102) in operation at 1.9.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/312/regulation/1)
+[^c-9f715510a1ec2654e726d9e0771bc96f]: Commencement: [Reg. 102](https://www.legislation.gov.uk/nisr/2006/312/regulation/102) in operation at 1.9.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/312/regulation/1)
 
-[^key-38e66e2f9723c92ebe23389f944f7e12]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/312) revoked (1.5.2007) by [The Education (Student Support) Regulations (Northern Ireland) 2007 (S.R. 2007/195)](https://www.legislation.gov.uk/nisr/2007/195), [regs. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/1/a) (with [reg. 4(3)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/3))
+[^c-38e66e2f9723c92ebe23389f944f7e12]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/312) revoked (1.5.2007) by [The Education (Student Support) Regulations (Northern Ireland) 2007 (S.R. 2007/195)](https://www.legislation.gov.uk/nisr/2007/195), [regs. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/1/a) (with [reg. 4(3)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/3))
 
 [^f00069]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13); section 65(3A) was inserted by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), section 27.

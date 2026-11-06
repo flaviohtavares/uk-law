@@ -16,28 +16,28 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 160. Rate of member contributions[^key-eb80aa1948c2e98a74403c6cc1a821c8]
+## 160. Rate of member contributions[^c-eb80aa1948c2e98a74403c6cc1a821c8]
 
 *Extent: S*
 
-(1) An[^key-38e049ecbc9bafdd6f919484d05bd38d] active member of this scheme must pay contributions to this scheme (“member contributions”) on the member’s pensionable earnings for each pay period at a rate determined under this regulation (“member contributions rate”).
+(1) An[^c-38e049ecbc9bafdd6f919484d05bd38d] active member of this scheme must pay contributions to this scheme (“member contributions”) on the member’s pensionable earnings for each pay period at a rate determined under this regulation (“member contributions rate”).
 
-(2) The member contributions rate is 13.7%[^key-92705041096dce7f515667b77a762b55] [^key-1315eb10c11bbcf61e728dcba7860dc8]....
+(2) The member contributions rate is 13.7%[^c-92705041096dce7f515667b77a762b55] [^c-1315eb10c11bbcf61e728dcba7860dc8]....
 
-(3)[^key-de72db681ca44cbe37e0025dce998274] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-de72db681ca44cbe37e0025dce998274] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3f835c1f35994c8423e6d32f7846f9d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3f835c1f35994c8423e6d32f7846f9d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eb80aa1948c2e98a74403c6cc1a821c8]: Commencement: Reg. 160 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-eb80aa1948c2e98a74403c6cc1a821c8]: Commencement: Reg. 160 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-38e049ecbc9bafdd6f919484d05bd38d]: Textual amendment: Word in [reg. 160(1)](https://www.legislation.gov.uk/ssi/2015/142/regulation/160/1) substituted (with effect from 1.4.2015) by virtue of [The Police Pensions (Amendment) (Scotland) Regulations 2020 (S.S.I. 2020/33)](https://www.legislation.gov.uk/ssi/2020/33), [regs. 1(2)(c)](https://www.legislation.gov.uk/ssi/2020/33/regulation/1/2/c), [11(3)](https://www.legislation.gov.uk/ssi/2020/33/regulation/11/3)
+[^c-38e049ecbc9bafdd6f919484d05bd38d]: Textual amendment: Word in [reg. 160(1)](https://www.legislation.gov.uk/ssi/2015/142/regulation/160/1) substituted (with effect from 1.4.2015) by virtue of [The Police Pensions (Amendment) (Scotland) Regulations 2020 (S.S.I. 2020/33)](https://www.legislation.gov.uk/ssi/2020/33), [regs. 1(2)(c)](https://www.legislation.gov.uk/ssi/2020/33/regulation/1/2/c), [11(3)](https://www.legislation.gov.uk/ssi/2020/33/regulation/11/3)
 
-[^key-92705041096dce7f515667b77a762b55]: Textual amendment: Word in [reg. 160(2)](https://www.legislation.gov.uk/ssi/2015/142/regulation/160/2) substituted (with effect from 1.4.2025) by [The Police Pension Scheme (Scotland) Amendment Regulations 2025 (S.S.I. 2025/58)](https://www.legislation.gov.uk/ssi/2025/58), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/58/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/ssi/2025/58/regulation/4/a/i)
+[^c-92705041096dce7f515667b77a762b55]: Textual amendment: Word in [reg. 160(2)](https://www.legislation.gov.uk/ssi/2015/142/regulation/160/2) substituted (with effect from 1.4.2025) by [The Police Pension Scheme (Scotland) Amendment Regulations 2025 (S.S.I. 2025/58)](https://www.legislation.gov.uk/ssi/2025/58), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/58/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/ssi/2025/58/regulation/4/a/i)
 
-[^key-1315eb10c11bbcf61e728dcba7860dc8]: Textual amendment: Words in [reg. 160(2)](https://www.legislation.gov.uk/ssi/2015/142/regulation/160/2) omitted (with effect from 1.4.2025) by virtue of [The Police Pension Scheme (Scotland) Amendment Regulations 2025 (S.S.I. 2025/58)](https://www.legislation.gov.uk/ssi/2025/58), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/58/regulation/1/2), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2025/58/regulation/4/a/ii)
+[^c-1315eb10c11bbcf61e728dcba7860dc8]: Textual amendment: Words in [reg. 160(2)](https://www.legislation.gov.uk/ssi/2015/142/regulation/160/2) omitted (with effect from 1.4.2025) by virtue of [The Police Pension Scheme (Scotland) Amendment Regulations 2025 (S.S.I. 2025/58)](https://www.legislation.gov.uk/ssi/2025/58), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/58/regulation/1/2), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2025/58/regulation/4/a/ii)
 
-[^key-de72db681ca44cbe37e0025dce998274]: Textual amendment: [Reg. 160(3)](https://www.legislation.gov.uk/ssi/2015/142/regulation/160/3) omitted (with effect from 1.4.2025) by virtue of [The Police Pension Scheme (Scotland) Amendment Regulations 2025 (S.S.I. 2025/58)](https://www.legislation.gov.uk/ssi/2025/58), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/58/regulation/1/2), [4(b)](https://www.legislation.gov.uk/ssi/2025/58/regulation/4/b)
+[^c-de72db681ca44cbe37e0025dce998274]: Textual amendment: [Reg. 160(3)](https://www.legislation.gov.uk/ssi/2015/142/regulation/160/3) omitted (with effect from 1.4.2025) by virtue of [The Police Pension Scheme (Scotland) Amendment Regulations 2025 (S.S.I. 2025/58)](https://www.legislation.gov.uk/ssi/2025/58), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/58/regulation/1/2), [4(b)](https://www.legislation.gov.uk/ssi/2025/58/regulation/4/b)
 
-[^key-3f835c1f35994c8423e6d32f7846f9d6]: Textual amendment: [Reg. 160(4)](https://www.legislation.gov.uk/ssi/2015/142/regulation/160/4) omitted (with effect from 1.4.2025) by virtue of [The Police Pension Scheme (Scotland) Amendment Regulations 2025 (S.S.I. 2025/58)](https://www.legislation.gov.uk/ssi/2025/58), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/58/regulation/1/2), [4(b)](https://www.legislation.gov.uk/ssi/2025/58/regulation/4/b)
+[^c-3f835c1f35994c8423e6d32f7846f9d6]: Textual amendment: [Reg. 160(4)](https://www.legislation.gov.uk/ssi/2015/142/regulation/160/4) omitted (with effect from 1.4.2025) by virtue of [The Police Pension Scheme (Scotland) Amendment Regulations 2025 (S.S.I. 2025/58)](https://www.legislation.gov.uk/ssi/2025/58), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/58/regulation/1/2), [4(b)](https://www.legislation.gov.uk/ssi/2025/58/regulation/4/b)

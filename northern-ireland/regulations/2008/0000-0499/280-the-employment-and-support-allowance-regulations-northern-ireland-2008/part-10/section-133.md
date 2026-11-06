@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 133. Calculation of covenant income where a contribution is assessed[^key-41850ec36c152b4d32839f7772a303cd]
+## 133. Calculation of covenant income where a contribution is assessed[^c-41850ec36c152b4d32839f7772a303cd]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41850ec36c152b4d32839f7772a303cd]: Commencement: [Reg. 133](https://www.legislation.gov.uk/nisr/2008/280/regulation/133) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-41850ec36c152b4d32839f7772a303cd]: Commencement: [Reg. 133](https://www.legislation.gov.uk/nisr/2008/280/regulation/133) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2D. Further provision about orders under section 2A[^key-677b3de996fb50848c00516bea89bb95][^key-2e2eee78665ee15da0fb433bae85e57f][^c19468311]
+## 2D. Further provision about orders under section 2A[^c-677b3de996fb50848c00516bea89bb95][^c-2e2eee78665ee15da0fb433bae85e57f][^c19468311]
 
 *Extent: E+W*
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-677b3de996fb50848c00516bea89bb95]: Modification: S. 2D applied (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2017/430/article/5/2)
+[^c-677b3de996fb50848c00516bea89bb95]: Modification: S. 2D applied (8.5.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/430/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2017/430/article/5/2)
 
-[^key-2e2eee78665ee15da0fb433bae85e57f]: Modification: S. 2D applied (8.5.2018) by [The West of England Combined Authority Order 2017 (S.I. 2017/126)](https://www.legislation.gov.uk/uksi/2017/126), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2017/126/article/1/5), [12(2)](https://www.legislation.gov.uk/uksi/2017/126/article/12/2)
+[^c-2e2eee78665ee15da0fb433bae85e57f]: Modification: S. 2D applied (8.5.2018) by [The West of England Combined Authority Order 2017 (S.I. 2017/126)](https://www.legislation.gov.uk/uksi/2017/126), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2017/126/article/1/5), [12(2)](https://www.legislation.gov.uk/uksi/2017/126/article/12/2)
 
 [^c19468311]: Textual amendment: Ss. 2A-2D inserted (6.4.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/31/2), [59](https://www.legislation.gov.uk/ukpga/2007/24/section/59); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)

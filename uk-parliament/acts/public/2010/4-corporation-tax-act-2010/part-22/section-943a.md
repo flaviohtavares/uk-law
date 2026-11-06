@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 943A. Disapplication of section 39[^key-b1c7066c2f20e8ae88c297f157defd71]
+## 943A. Disapplication of section 39[^c-b1c7066c2f20e8ae88c297f157defd71]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If this Chapter applies to a transfer of a trade, section 39 (terminal losses: e
 
 ## Annotations
 
-[^key-b1c7066c2f20e8ae88c297f157defd71]: Textual amendment: S. 943A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 63](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/63)
+[^c-b1c7066c2f20e8ae88c297f157defd71]: Textual amendment: S. 943A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 63](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/63)

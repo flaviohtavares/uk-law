@@ -22,11 +22,11 @@ summary: ''
 
 Section 42
 
-**1.**[^key-d7c21965dc04f98d3b2595593271c366][^key-18cc43949725c46b4e2274380a95b461] Part 2 of the Immigration and Asylum Act 1999 (carriers’ liability) is amended as follows.
+**1.**[^c-d7c21965dc04f98d3b2595593271c366][^c-18cc43949725c46b4e2274380a95b461] Part 2 of the Immigration and Asylum Act 1999 (carriers’ liability) is amended as follows.
 
-**2.**[^key-dc9841a9573514ef56f7684eef45d1d8][^key-63feca67b2c6b404add9e9080d38a4d2] For the italic heading before section 32 substitute “Penalties for failure to secure goods vehicle and for carrying clandestine entrants”.
+**2.**[^c-dc9841a9573514ef56f7684eef45d1d8][^c-63feca67b2c6b404add9e9080d38a4d2] For the italic heading before section 32 substitute “Penalties for failure to secure goods vehicle and for carrying clandestine entrants”.
 
-**3.**[^key-ce6ddff46e1c8282f2f8432dd12b7b11][^key-fcab43b34a88dbf75f004ca5cb37b13b] Before section 32 (but after the italic heading before that section) insert—
+**3.**[^c-ce6ddff46e1c8282f2f8432dd12b7b11][^c-fcab43b34a88dbf75f004ca5cb37b13b] Before section 32 (but after the italic heading before that section) insert—
 
 > **31A. Penalty for failure to secure goods vehicle etc**
 >
@@ -85,7 +85,7 @@ Section 42
 >
 > (16) In this section “**immigration control**” means United Kingdom immigration control and includes any United Kingdom immigration control operated in a prescribed control zone outside the United Kingdom.
 
-**4.**[^key-5e20cb07bab242ac3ad04a0b17843148][^key-a3995055ff9c2d1f5f9956c662e99135] (1) Section 32 (penalty for carrying clandestine entrants) is amended as follows.
+**4.**[^c-5e20cb07bab242ac3ad04a0b17843148][^c-a3995055ff9c2d1f5f9956c662e99135] (1) Section 32 (penalty for carrying clandestine entrants) is amended as follows.
 
 (2) After subsection (2A) insert—
 
@@ -112,7 +112,7 @@ Section 42
 
 > (6B) A penalty may not be imposed on a person under subsection (2) if a penalty is imposed on that person under section 31A(1) in respect of the same circumstances.
 
-**5.**[^key-d68bac6f9bf7a7f678e9a5551de97bd5][^key-d00330ae098726228096736de328afb1] (1) Section 32A (level of penalty: code of practice) is amended as follows.
+**5.**[^c-d68bac6f9bf7a7f678e9a5551de97bd5][^c-d00330ae098726228096736de328afb1] (1) Section 32A (level of penalty: code of practice) is amended as follows.
 
 (2) Before subsection (1) insert—
 
@@ -133,11 +133,11 @@ Section 42
 
 (7) In subsection (6) for “the code” substitute “a code”.
 
-**6.**[^key-fab0d4b06d43b25073aa9fe48c68319d][^key-7aec8d4cea62b23bf514585c0d32d72c] Omit section 33 (prevention of clandestine entrants: code of practice).
+**6.**[^c-fab0d4b06d43b25073aa9fe48c68319d][^c-7aec8d4cea62b23bf514585c0d32d72c] Omit section 33 (prevention of clandestine entrants: code of practice).
 
-**7.**[^key-3c41f7d40549650217af9d5027c1a88a] (1)[^key-623e54b8e713dec180879f14bd4eb7c8] Section 34 (defences to claim that penalty is due under section 32) is amended as follows.
+**7.**[^c-3c41f7d40549650217af9d5027c1a88a] (1)[^c-623e54b8e713dec180879f14bd4eb7c8] Section 34 (defences to claim that penalty is due under section 32) is amended as follows.
 
-(2)[^key-623e54b8e713dec180879f14bd4eb7c8] Omit subsection (3).
+(2)[^c-623e54b8e713dec180879f14bd4eb7c8] Omit subsection (3).
 
 (3) In subsection (3A)—
 
@@ -161,15 +161,15 @@ Section 42
 >
 > (3D) Before making regulations under subsection (3B), the Secretary of State must consult such persons as the Secretary of State considers appropriate.
 
-(5)[^key-623e54b8e713dec180879f14bd4eb7c8] Omit subsection (4).
+(5)[^c-623e54b8e713dec180879f14bd4eb7c8] Omit subsection (4).
 
-**8.**[^key-0c197de45c5806e21ffc00b81616f0b0] (1)[^key-d7dfc79088efae4203f20d5bd18894ae] Section 35 (procedure for penalties and objections against penalties) is amended as follows.
+**8.**[^c-0c197de45c5806e21ffc00b81616f0b0] (1)[^c-d7dfc79088efae4203f20d5bd18894ae] Section 35 (procedure for penalties and objections against penalties) is amended as follows.
 
-(2)[^key-000ea31bd8c2e80cac64fb663cd2d32a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-000ea31bd8c2e80cac64fb663cd2d32a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d7dfc79088efae4203f20d5bd18894ae] In subsection (1) after “section” insert “31A or”.
+(3)[^c-d7dfc79088efae4203f20d5bd18894ae] In subsection (1) after “section” insert “31A or”.
 
-(4)[^key-d7dfc79088efae4203f20d5bd18894ae] In subsection (2)—
+(4)[^c-d7dfc79088efae4203f20d5bd18894ae] In subsection (2)—
 
 - (a) omit the “and” at the end of paragraph (c), and
 - (b) at the end of paragraph (d) insert
@@ -178,9 +178,9 @@ Section 42
   >
   > - (e) be issued before the end of such period as may be prescribed.
 
-(5)[^key-d7dfc79088efae4203f20d5bd18894ae] In subsection (10) after “section” insert “31A or”.
+(5)[^c-d7dfc79088efae4203f20d5bd18894ae] In subsection (10) after “section” insert “31A or”.
 
-(6)[^key-d7dfc79088efae4203f20d5bd18894ae] In subsection (12)—
+(6)[^c-d7dfc79088efae4203f20d5bd18894ae] In subsection (12)—
 
 - (a) omit the “or” at the end of paragraph (c), and
 - (b) after paragraph (c) insert—
@@ -189,7 +189,7 @@ Section 42
 
   .
 
-**9.**[^key-cd1adc87456a156339878195d959609e][^key-da8990537a4bdb76dfa22f5a868b2b31] (1) Section 35A (appeals) is amended as follows.
+**9.**[^c-cd1adc87456a156339878195d959609e][^c-da8990537a4bdb76dfa22f5a868b2b31] (1) Section 35A (appeals) is amended as follows.
 
 (2) In subsection (1) after “section” insert “31A or”.
 
@@ -198,7 +198,7 @@ Section 42
 - (a) at the end of paragraph (a) insert “and”, and
 - (b) omit paragraph (b) and the “and” at the end of that paragraph.
 
-**10.**[^key-0915e55e8cad72cfc0bf7bd89ba9b029][^key-cf42c5d2edaa5fe6d289a437ec1443e2] (1) Section 36 (power to detain vehicles etc in connection with penalties under section 32) is amended as follows.
+**10.**[^c-0915e55e8cad72cfc0bf7bd89ba9b029][^c-cf42c5d2edaa5fe6d289a437ec1443e2] (1) Section 36 (power to detain vehicles etc in connection with penalties under section 32) is amended as follows.
 
 (2) In the heading, after “section” insert “31A or”.
 
@@ -223,7 +223,7 @@ Section 42
 >
 > (7) The Secretary of State may by regulations provide that a document issued or served in a manner listed in subsection (6) in accordance with the regulations is to be taken to have been received at a time specified by or determined in accordance with the regulations.
 
-**11.**[^key-763475abbde9ba2b53dbad173cbabfd5][^key-d5ab41dae8fdbbaa288a17dad08e7e20] (1) Section 36A (detention in default of payment) is amended as follows.
+**11.**[^c-763475abbde9ba2b53dbad173cbabfd5][^c-d5ab41dae8fdbbaa288a17dad08e7e20] (1) Section 36A (detention in default of payment) is amended as follows.
 
 (2) In subsection (4)(b), for “was an employee of” substitute “drove the vehicle pursuant to a contract (whether or not a contract of employment) with”.
 
@@ -249,7 +249,7 @@ Section 42
 >
 > (11) The Secretary of State may by regulations provide that a document issued or served in a manner listed in subsection (10) in accordance with the regulations is to be taken to have been received at a time specified by or determined in accordance with the regulations.
 
-**12.**[^key-5b1170c89e9694561230bf89258c4a01][^key-7141fce73dd5f5ebf92151f37208171c] (1) Section 43 (interpretation of Part 2) is amended as follows.
+**12.**[^c-5b1170c89e9694561230bf89258c4a01][^c-7141fce73dd5f5ebf92151f37208171c] (1) Section 43 (interpretation of Part 2) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -274,52 +274,52 @@ Section 42
 
 ## Annotations
 
-[^key-d7c21965dc04f98d3b2595593271c366]: Commencement: Sch. 5 para. 1 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
+[^c-d7c21965dc04f98d3b2595593271c366]: Commencement: Sch. 5 para. 1 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
 
-[^key-18cc43949725c46b4e2274380a95b461]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/1) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(i)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/i)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-18cc43949725c46b4e2274380a95b461]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/1) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(i)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/i)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
 
-[^key-dc9841a9573514ef56f7684eef45d1d8]: Commencement: Sch. 5 para. 2 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
+[^c-dc9841a9573514ef56f7684eef45d1d8]: Commencement: Sch. 5 para. 2 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
 
-[^key-63feca67b2c6b404add9e9080d38a4d2]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/2) in force at 13.2.2023 in so far as not already in force by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-63feca67b2c6b404add9e9080d38a4d2]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/2) in force at 13.2.2023 in so far as not already in force by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
 
-[^key-ce6ddff46e1c8282f2f8432dd12b7b11]: Commencement: Sch. 5 para. 3 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
+[^c-ce6ddff46e1c8282f2f8432dd12b7b11]: Commencement: Sch. 5 para. 3 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
 
-[^key-fcab43b34a88dbf75f004ca5cb37b13b]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/3) in force at 13.2.2023 in so far as not already in force by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-fcab43b34a88dbf75f004ca5cb37b13b]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/3) in force at 13.2.2023 in so far as not already in force by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
 
-[^key-5e20cb07bab242ac3ad04a0b17843148]: Commencement: Sch. 5 para. 4 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
+[^c-5e20cb07bab242ac3ad04a0b17843148]: Commencement: Sch. 5 para. 4 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
 
-[^key-a3995055ff9c2d1f5f9956c662e99135]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/4) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(i)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/i)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-a3995055ff9c2d1f5f9956c662e99135]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/4) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(i)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/i)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
 
-[^key-d68bac6f9bf7a7f678e9a5551de97bd5]: Commencement: Sch. 5 para. 5 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
+[^c-d68bac6f9bf7a7f678e9a5551de97bd5]: Commencement: Sch. 5 para. 5 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
 
-[^key-d00330ae098726228096736de328afb1]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/5) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(i)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/i)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-d00330ae098726228096736de328afb1]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/5) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(i)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/i)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
 
-[^key-fab0d4b06d43b25073aa9fe48c68319d]: Commencement: Sch. 5 para. 6 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
+[^c-fab0d4b06d43b25073aa9fe48c68319d]: Commencement: Sch. 5 para. 6 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
 
-[^key-7aec8d4cea62b23bf514585c0d32d72c]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/6) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(i)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/i)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-7aec8d4cea62b23bf514585c0d32d72c]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/6) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(i)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/i)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
 
-[^key-3c41f7d40549650217af9d5027c1a88a]: Commencement: Sch. 5 para. 7 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
+[^c-3c41f7d40549650217af9d5027c1a88a]: Commencement: Sch. 5 para. 7 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
 
-[^key-623e54b8e713dec180879f14bd4eb7c8]: Commencement: [Sch. 5 para. 7(1)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/7/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/7/2)[(5)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/7/5) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/ii)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-623e54b8e713dec180879f14bd4eb7c8]: Commencement: [Sch. 5 para. 7(1)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/7/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/7/2)[(5)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/7/5) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/ii)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
 
-[^key-0c197de45c5806e21ffc00b81616f0b0]: Commencement: Sch. 5 para. 8 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
+[^c-0c197de45c5806e21ffc00b81616f0b0]: Commencement: Sch. 5 para. 8 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
 
-[^key-d7dfc79088efae4203f20d5bd18894ae]: Commencement: [Sch. 5 para. 8(1)(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/8/1/3) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(iii)(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/iii/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-d7dfc79088efae4203f20d5bd18894ae]: Commencement: [Sch. 5 para. 8(1)(3)-(6)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/8/1/3) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(iii)(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/iii/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
 
-[^key-000ea31bd8c2e80cac64fb663cd2d32a]: Textual amendment: [Sch. 5 para. 8(2)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/8/2) omitted (20.7.2023) by virtue of [Illegal Migration Act 2023 (c. 37)](https://www.legislation.gov.uk/ukpga/2023/37), [ss. 64(5)](https://www.legislation.gov.uk/ukpga/2023/37/section/64/5), [68(3)(c)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/c) (with [s. 55(9)](https://www.legislation.gov.uk/ukpga/2023/37/section/55/9))
+[^c-000ea31bd8c2e80cac64fb663cd2d32a]: Textual amendment: [Sch. 5 para. 8(2)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/8/2) omitted (20.7.2023) by virtue of [Illegal Migration Act 2023 (c. 37)](https://www.legislation.gov.uk/ukpga/2023/37), [ss. 64(5)](https://www.legislation.gov.uk/ukpga/2023/37/section/64/5), [68(3)(c)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/c) (with [s. 55(9)](https://www.legislation.gov.uk/ukpga/2023/37/section/55/9))
 
-[^key-cd1adc87456a156339878195d959609e]: Commencement: Sch. 5 para. 9 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
+[^c-cd1adc87456a156339878195d959609e]: Commencement: Sch. 5 para. 9 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
 
-[^key-da8990537a4bdb76dfa22f5a868b2b31]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/9) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(iv)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/iv)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-da8990537a4bdb76dfa22f5a868b2b31]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/9) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(iv)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/iv)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
 
-[^key-0915e55e8cad72cfc0bf7bd89ba9b029]: Commencement: Sch. 5 para. 10 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
+[^c-0915e55e8cad72cfc0bf7bd89ba9b029]: Commencement: Sch. 5 para. 10 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
 
-[^key-cf42c5d2edaa5fe6d289a437ec1443e2]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/10) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(iv)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/iv)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-cf42c5d2edaa5fe6d289a437ec1443e2]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/10) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(iv)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/iv)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
 
-[^key-763475abbde9ba2b53dbad173cbabfd5]: Commencement: Sch. 5 para. 11 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
+[^c-763475abbde9ba2b53dbad173cbabfd5]: Commencement: Sch. 5 para. 11 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
 
-[^key-d5ab41dae8fdbbaa288a17dad08e7e20]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/11) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(iv)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/iv)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-d5ab41dae8fdbbaa288a17dad08e7e20]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/11) in force at 13.2.2023 for specified purposes by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(c)(iv)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/c/iv)[(2)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
 
-[^key-5b1170c89e9694561230bf89258c4a01]: Commencement: Sch. 5 para. 12 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
+[^c-5b1170c89e9694561230bf89258c4a01]: Commencement: Sch. 5 para. 12 in force at Royal Assent for specified purposes, see [s. 87(1)(4)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4)(c)
 
-[^key-7141fce73dd5f5ebf92151f37208171c]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/12) in force at 13.2.2023 in so far as not already in force by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-7141fce73dd5f5ebf92151f37208171c]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/12) in force at 13.2.2023 in so far as not already in force by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))

@@ -28,7 +28,7 @@ summary: ''
 
 social security
 
-The Social Security (Contributions) (Amendment No. 8) Regulations 2007 (revoked)[^key-bfb9aee147c2948c8bdeec4127df9f42]
+The Social Security (Contributions) (Amendment No. 8) Regulations 2007 (revoked)[^c-bfb9aee147c2948c8bdeec4127df9f42]
 
 Made
 
@@ -42,48 +42,48 @@ Coming into force
 
 1st October 2007
 
-[^key-bfb9aee147c2948c8bdeec4127df9f42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfb9aee147c2948c8bdeec4127df9f42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bfb9aee147c2948c8bdeec4127df9f42]
+## 1. Citation and commencement[^c-bfb9aee147c2948c8bdeec4127df9f42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Contributions) Regulations 2001[^key-bfb9aee147c2948c8bdeec4127df9f42]
+## 2. Amendment of the Social Security (Contributions) Regulations 2001[^c-bfb9aee147c2948c8bdeec4127df9f42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-bfb9aee147c2948c8bdeec4127df9f42]
+## 3.[^c-bfb9aee147c2948c8bdeec4127df9f42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-bfb9aee147c2948c8bdeec4127df9f42]
+## 4.[^c-bfb9aee147c2948c8bdeec4127df9f42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-bfb9aee147c2948c8bdeec4127df9f42]
+## 5.[^c-bfb9aee147c2948c8bdeec4127df9f42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-bfb9aee147c2948c8bdeec4127df9f42]
+## 6.[^c-bfb9aee147c2948c8bdeec4127df9f42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-bfb9aee147c2948c8bdeec4127df9f42]
+## 7.[^c-bfb9aee147c2948c8bdeec4127df9f42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-bfb9aee147c2948c8bdeec4127df9f42]
+## 8.[^c-bfb9aee147c2948c8bdeec4127df9f42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bfb9aee147c2948c8bdeec4127df9f42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfb9aee147c2948c8bdeec4127df9f42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bfb9aee147c2948c8bdeec4127df9f42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfb9aee147c2948c8bdeec4127df9f42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bfb9aee147c2948c8bdeec4127df9f42]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2007/2520) revoked (6.4.2015) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2015/478/schedule)
+[^c-bfb9aee147c2948c8bdeec4127df9f42]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2007/2520) revoked (6.4.2015) by [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2015/478/schedule)

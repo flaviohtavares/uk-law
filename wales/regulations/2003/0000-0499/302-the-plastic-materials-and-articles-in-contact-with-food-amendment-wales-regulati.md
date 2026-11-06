@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Plastic Materials and Articles in Contact with Food (Amendment) (Wales) Regulations 2003 (revoked)[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+The Plastic Materials and Articles in Contact with Food (Amendment) (Wales) Regulations 2003 (revoked)[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 Made
 
@@ -41,105 +41,105 @@ Coming into force
 
 28th February 2003
 
-[^key-61ef82399e56f1fa8afa29b691cdf3cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61ef82399e56f1fa8afa29b691cdf3cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+## 1. Title, extent and commencement[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Plastic Materials and Articles in Contact with Food Regulations 1998[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+## 2. Amendments to the Plastic Materials and Articles in Contact with Food Regulations 1998[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+## 3.[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+## 4.[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+## 5.[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+## 6.[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment to the Food Safety (Sampling and Qualifications) Regulations 1990[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+## 7. Amendment to the Food Safety (Sampling and Qualifications) Regulations 1990[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61ef82399e56f1fa8afa29b691cdf3cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61ef82399e56f1fa8afa29b691cdf3cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+## SCHEDULE 1[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 Regulation 4(a)(i), (ii) and (iv) and (b)
 
-### PART I — LIST OF MONOMERS TO BE ADDED TO SECTION A OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+### PART I — LIST OF MONOMERS TO BE ADDED TO SECTION A OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — LIST OF MONOMERS FOR WHICH THE ENTRY CONTAINED IN THE FIRST COLUMN (ITEM) OF SECTION A OF PART 1 OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS IS TO BE AMENDED[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+### PART II — LIST OF MONOMERS FOR WHICH THE ENTRY CONTAINED IN THE FIRST COLUMN (ITEM) OF SECTION A OF PART 1 OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS IS TO BE AMENDED[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — LIST OF MONOMERS FOR WHICH THE ENTRY CONTAINED IN COLUMN 4 (RESTRICTIONS) OF SECTION A OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS IS TO BE AMENDED[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+### PART III — LIST OF MONOMERS FOR WHICH THE ENTRY CONTAINED IN COLUMN 4 (RESTRICTIONS) OF SECTION A OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS IS TO BE AMENDED[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — LIST OF MONOMERS FOR WHICH ALL THE ENTRIES CONTAINED IN SECTION B OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS ARE TO BE DELETED[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+### PART IV — LIST OF MONOMERS FOR WHICH ALL THE ENTRIES CONTAINED IN SECTION B OF PART I OF SCHEDULE 1 TO THE PRINCIPAL REGULATIONS ARE TO BE DELETED[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
-[^key-61ef82399e56f1fa8afa29b691cdf3cf]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+[^c-61ef82399e56f1fa8afa29b691cdf3cf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 Regulation 5(a)(I) and (iii) and (b)
 
-### PART I — LIST OF ADDITIVES TO BE ADDED TO PART 1 OF SCHEDULE 2 TO THE PRINCIPAL REGULATIONS[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+### PART I — LIST OF ADDITIVES TO BE ADDED TO PART 1 OF SCHEDULE 2 TO THE PRINCIPAL REGULATIONS[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — ADDITIVE FOR WHICH THE ENTRY CONTAINED IN COLUMN 4 (RESTRICTIONS AND SPECIFICATIONS) OF PART I OF SCHEDULE 2 TO THE PRINCIPAL REGULATIONS IS TO BE AMENDED[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+### PART II — ADDITIVE FOR WHICH THE ENTRY CONTAINED IN COLUMN 4 (RESTRICTIONS AND SPECIFICATIONS) OF PART I OF SCHEDULE 2 TO THE PRINCIPAL REGULATIONS IS TO BE AMENDED[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — LIST OF ADDITIVES TO BE ADDED TO PART II OF SCHEDULE 2 TO THE PRINCIPAL REGULATIONS[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+### PART III — LIST OF ADDITIVES TO BE ADDED TO PART II OF SCHEDULE 2 TO THE PRINCIPAL REGULATIONS[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — LIST OF ADDITIVES FOR WHICH THE ENTRY CONTAINED IN COLUMN 4 (RESTRICTIONS AND SPECIFICATIONS) OF PART II OF SCHEDULE 2 TO THE PRINCIPAL REGULATIONS IS TO BE AMENDED[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+### PART IV — LIST OF ADDITIVES FOR WHICH THE ENTRY CONTAINED IN COLUMN 4 (RESTRICTIONS AND SPECIFICATIONS) OF PART II OF SCHEDULE 2 TO THE PRINCIPAL REGULATIONS IS TO BE AMENDED[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — SUBSTANCE TO BE ADDED TO SCHEDULE 2B TO THE PRINCIPAL REGULATIONS[^key-61ef82399e56f1fa8afa29b691cdf3cf]
+## SCHEDULE 3 — SUBSTANCE TO BE ADDED TO SCHEDULE 2B TO THE PRINCIPAL REGULATIONS[^c-61ef82399e56f1fa8afa29b691cdf3cf]
 
 Regulation 6
 
@@ -147,8 +147,8 @@ Regulation 6
 
 **May not be in force at this date. Check the source.**
 
-[^key-61ef82399e56f1fa8afa29b691cdf3cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61ef82399e56f1fa8afa29b691cdf3cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61ef82399e56f1fa8afa29b691cdf3cf]: Textual amendment: Regulations revoked (19.11.2006) by [The Plastic Materials and Articles in Contact with Food (Wales) Regulations 2006 (S.I. 2006/2982)](https://www.legislation.gov.uk/uksi/2006/2982), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2982/regulation/1), [25(d)](https://www.legislation.gov.uk/uksi/2006/2982/regulation/25/d) (with [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/2982/regulation/18/1))
+[^c-61ef82399e56f1fa8afa29b691cdf3cf]: Textual amendment: Regulations revoked (19.11.2006) by [The Plastic Materials and Articles in Contact with Food (Wales) Regulations 2006 (S.I. 2006/2982)](https://www.legislation.gov.uk/uksi/2006/2982), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2982/regulation/1), [25(d)](https://www.legislation.gov.uk/uksi/2006/2982/regulation/25/d) (with [reg. 18(1)](https://www.legislation.gov.uk/uksi/2006/2982/regulation/18/1))

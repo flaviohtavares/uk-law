@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Meaning of “modify”[^key-942f72892d498bc57e91f4f05324b51d]
+## 111. Meaning of “modify”[^c-942f72892d498bc57e91f4f05324b51d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In this Chapter, any reference to modifying measures, or recorded matters, speci
 
 ## Annotations
 
-[^key-942f72892d498bc57e91f4f05324b51d]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2003/13/section/111) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-942f72892d498bc57e91f4f05324b51d]: Commencement: [S. 111](https://www.legislation.gov.uk/asp/2003/13/section/111) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

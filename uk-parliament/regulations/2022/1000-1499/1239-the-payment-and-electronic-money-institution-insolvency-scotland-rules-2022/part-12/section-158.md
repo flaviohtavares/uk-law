@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 158. Costs, expenses etc[^key-0d4e5538dd9441b77c2ff880cac8f206]
+## 158. Costs, expenses etc[^c-0d4e5538dd9441b77c2ff880cac8f206]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d4e5538dd9441b77c2ff880cac8f206]: Commencement: Rule 158 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-0d4e5538dd9441b77c2ff880cac8f206]: Commencement: Rule 158 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — FINANCIAL ACTIVITY, SIMPLIFIED DUE DILIGENCE AND POLITICALLY EXPOSED PERSONS[^key-ff870561612d1b963da10d538b4f7e9e]
+## SCHEDULE 2 — FINANCIAL ACTIVITY, SIMPLIFIED DUE DILIGENCE AND POLITICALLY EXPOSED PERSONS[^c-ff870561612d1b963da10d538b4f7e9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Regulations 4(1)(e) and (2), 13(6) and (8) and 14(5).
 
-### 1. Financial activity on an occasional or very limited basis[^key-ff870561612d1b963da10d538b4f7e9e]
+### 1. Financial activity on an occasional or very limited basis[^c-ff870561612d1b963da10d538b4f7e9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Simplified due diligence[^key-ff870561612d1b963da10d538b4f7e9e]
+### 2. Simplified due diligence[^c-ff870561612d1b963da10d538b4f7e9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ff870561612d1b963da10d538b4f7e9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ff870561612d1b963da10d538b4f7e9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Politically exposed persons[^key-ff870561612d1b963da10d538b4f7e9e]
+### 4. Politically exposed persons[^c-ff870561612d1b963da10d538b4f7e9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff870561612d1b963da10d538b4f7e9e]: Textual amendment: Regulations revoked (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), regs. 1(2), [110](https://www.legislation.gov.uk/uksi/2017/692/regulation/110) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-ff870561612d1b963da10d538b4f7e9e]: Textual amendment: Regulations revoked (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), regs. 1(2), [110](https://www.legislation.gov.uk/uksi/2017/692/regulation/110) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Procedure where no statutory meeting called[^key-5d74b3930162c8d38d4303acfb21df7b]
+## 45. Procedure where no statutory meeting called[^c-5d74b3930162c8d38d4303acfb21df7b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d74b3930162c8d38d4303acfb21df7b]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2016/21/section/45) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-5d74b3930162c8d38d4303acfb21df7b]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2016/21/section/45) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

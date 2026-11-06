@@ -40,7 +40,7 @@ Section 65
 - (b) for pension rule 5 substitute— “ *Pension rule 5* The total amount of drawdown pension paid in each drawdown pension year in respect of a money purchase arrangement must not exceed 100% of the basis amount for the drawdown pension year. ”;
 - (c) omit pension rules 6 and 7.
 
-(3)[^key-d1f6a694f74591919ef324cb707d42c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d1f6a694f74591919ef324cb707d42c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Meaning of “drawdown pension”
 
@@ -133,7 +133,7 @@ Section 65
 
 (11) In sub-paragraph (9)(b), for “unsecured pension year” substitute “ drawdown pension year ”.
 
-(12)[^key-c4f182deed57edc19787a7cbdca665e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-c4f182deed57edc19787a7cbdca665e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.** After paragraph 10 of that Schedule insert—
 
@@ -175,7 +175,7 @@ Section 65
 
 #### Flexible drawdown: minimum income requirement etc
 
-**10.**[^key-a90a3e071722e5b201534473c073d410] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a90a3e071722e5b201534473c073d410] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Dependants' drawdown pension
 
@@ -195,7 +195,7 @@ Section 65
 - (b) for pension death benefit rule 4 substitute— “ *Pension death benefit rule 4* The total amount of dependants' drawdown pension paid to a dependant in each drawdown pension year in respect of a money purchase arrangement must not exceed 100% of the basis amount for the drawdown pension year. But this limit does not apply in relation to an arrangement to which subsection (2A) applies. ”;
 - (c) omit pension death benefit rules 5 and 6.
 
-(3)[^key-b220934cf94daa0e9ea79e6a1387cba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b220934cf94daa0e9ea79e6a1387cba7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Meaning of “dependants' drawdown pension”
 
@@ -292,7 +292,7 @@ Section 65
 
 (11) In sub-paragraph (9)(b), for “unsecured pension year” substitute “ drawdown pension year ”.
 
-(12)[^key-96bdcd81653e44bef9c042305bbc6790] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-96bdcd81653e44bef9c042305bbc6790] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **19.** After paragraph 24 of that Schedule insert—
 
@@ -327,7 +327,7 @@ Section 65
 
 #### Flexible drawdown: minimum income requirement etc
 
-**20.**[^key-d2bb003a1c2d06997a4b4baf766f0731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-d2bb003a1c2d06997a4b4baf766f0731] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Foreign pensions: temporary non-residents
 
@@ -522,7 +522,7 @@ Section 65
 
 (2) In sub-paragraph (1)—
 
-- (a)[^key-d81131f3075108005d5a03f587b3bb00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d81131f3075108005d5a03f587b3bb00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) omit paragraph (e) (and the “and” before it).
 
 (3) After sub-paragraph (2) insert—
@@ -558,9 +558,9 @@ Section 65
 
 - (a) omit paragraph (a);
 - (b) omit paragraph (c) (but not the “and” after it);
-- (c)[^key-58bc95189d8c9103e044052f9a24d14d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-58bc95189d8c9103e044052f9a24d14d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-9bedebee4273bb706f349e554ca41272] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9bedebee4273bb706f349e554ca41272] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **34.** (1) Paragraph 14 (pension protection lump sum death benefit) is amended as follows.
 
@@ -587,9 +587,9 @@ Section 65
   > - (e) it is not a charity lump sum death benefit.
 
   ;
-- (c)[^key-4489b75916d91720e25b81f5a118b6c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-4489b75916d91720e25b81f5a118b6c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-959fa460b755a7b3ec84c7bd53b56fc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-959fa460b755a7b3ec84c7bd53b56fc9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **36.** (1) Paragraph 16 (annuity protection lump sum death benefit) is amended as follows.
 
@@ -663,7 +663,7 @@ Section 65
 
 #### Serious ill-health lump sum charge
 
-**40.**[^key-ad5ce7b9f3d83c4f27e279377e106d14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-ad5ce7b9f3d83c4f27e279377e106d14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Special lump sum death benefits charge
 
@@ -686,7 +686,7 @@ Section 65
 
 (4) In subsection (4), for “35%” substitute “ 55% ”.
 
-(5)[^key-563d82496855f0366f47ae8cc8c12906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-563d82496855f0366f47ae8cc8c12906] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Exemption from income tax of certain lump sums and lump sum death benefits
 
@@ -695,12 +695,12 @@ Section 65
 (2) In subsection (1)—
 
 - (a) in paragraph (b), after “serious ill-health lump sum” insert “ paid to a member who has not reached the age of 75 ”;
-- (b)[^key-3961b6e1f7346ea5465b7a18236b2f0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-c3137584d80833513ac847ca4354a879] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3961b6e1f7346ea5465b7a18236b2f0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-c3137584d80833513ac847ca4354a879] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-226e9ddfaae00c8f716d0210edca6d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-226e9ddfaae00c8f716d0210edca6d47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-9546b781a50a966047863322ab91fb2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9546b781a50a966047863322ab91fb2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In subsection (7)—
 
@@ -744,7 +744,7 @@ Section 65
 
 #### Annual allowance charge: persons meeting flexible drawdown conditions
 
-**45.**[^key-0290f98c46cd1101cb48b63d92edfbb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-0290f98c46cd1101cb48b63d92edfbb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Removal of certain charges to inheritance tax in respect of pension schemes
 
@@ -866,7 +866,7 @@ Section 65
 
 **62.** Part 4 of FA 2004 (pension schemes etc) is amended as follows.
 
-**63.**[^key-b10eec8a7883a051b9469f57a3b0efbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**63.**[^c-b10eec8a7883a051b9469f57a3b0efbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **64.** In section 165 (pension rules), in subsection (3)(a), for “unsecured pension” substitute “ drawdown pension ”.
 
@@ -944,7 +944,7 @@ Section 65
 
 .
 
-(4)[^key-798fa943c51e414be64390f4239ffa67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-798fa943c51e414be64390f4239ffa67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Omit the entry relating to “unsecured pension fund lump sum death benefit” and at the appropriate place insert—
 
@@ -994,14 +994,14 @@ Section 65
 
 **81.** (1) Schedule 34 (non-UK schemes: application of certain charges) is amended as follows.
 
-(2)[^key-1dcc44a8030476d0004844fc4a21fed0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1dcc44a8030476d0004844fc4a21fed0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c7cbca106f82fac06f25ae4f02d394a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c7cbca106f82fac06f25ae4f02d394a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In paragraph 5—
 
 - (a) for “Sections 205 and 206” substitute “ Sections 205 to 206 ”;
-- (b)[^key-f69c2762a04aa5b744e65f421e0f5508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f69c2762a04aa5b744e65f421e0f5508] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Omit paragraph 7ZA (unauthorised payment charge: alternatively secured pension etc).
 
@@ -1053,7 +1053,7 @@ Section 65
 
 #### Income Tax Act 2007
 
-**83.**[^key-a7c26bb089c86cdfc80781c5bb70fe08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**83.**[^c-a7c26bb089c86cdfc80781c5bb70fe08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Consequential repeals
 
@@ -1084,7 +1084,7 @@ Section 65
 
 **86.** Any person who, immediately before 6 April 2011, was entitled to unsecured pension or alternatively secured pension is to be treated, on and after that date, as entitled to drawdown pension.
 
-**87.** Paragraph 6 of Schedule 28 to FA 2004 (short-term annuity) has effect on and after 6 April 2011 as if a reference[^key-c868cf68438865e1d531054f1021b78b] to an annuity purchased by the application of sums or assets representing the whole or any part of the member's drawdown pension fund in respect of an arrangement included a reference to an annuity purchased before that date by the application of sums or assets representing the whole or any part of the member's unsecured pension fund in respect of the arrangement.
+**87.** Paragraph 6 of Schedule 28 to FA 2004 (short-term annuity) has effect on and after 6 April 2011 as if a reference[^c-c868cf68438865e1d531054f1021b78b] to an annuity purchased by the application of sums or assets representing the whole or any part of the member's drawdown pension fund in respect of an arrangement included a reference to an annuity purchased before that date by the application of sums or assets representing the whole or any part of the member's unsecured pension fund in respect of the arrangement.
 
 #### Member's unsecured or alternatively secured pension fund existing on 5 April 2011
 
@@ -1109,7 +1109,7 @@ Section 65
 
 (2) Where, immediately before 6 April 2011, the last reference period to begin before that date has not ended—
 
-- (a) pension rule 5 in section 165 of FA 2004 has effect in relation to every drawdown pension year beginning before 26 March 2013 and[^key-82c340791fbb7e91c09dd3323798db9d] ending on or before the relevant date as if for “100%” there were substituted “ 120% ”, and
+- (a) pension rule 5 in section 165 of FA 2004 has effect in relation to every drawdown pension year beginning before 26 March 2013 and[^c-82c340791fbb7e91c09dd3323798db9d] ending on or before the relevant date as if for “100%” there were substituted “ 120% ”, and
 - (b) paragraph 10 of Schedule 28 to FA 2004 has effect with the following modifications—
   - (i) the reference in sub-paragraph (1) to the first drawdown pension year is to be read as a reference to the first drawdown pension year beginning after the relevant date;
   - (ii) any reference in sub-paragraphs (1ZA) to (1C) to a reference period is to be read as including a reference to the current reference period.
@@ -1117,7 +1117,7 @@ Section 65
 (3) The “relevant date” is the earlier of the following—
 
 - (a) the day on which the current reference period ends, and
-- (b)[^key-44bb89316ce042ddb62e425a63afad50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-44bb89316ce042ddb62e425a63afad50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Subject to the operation of paragraph 10(1ZA) and (1B) of Schedule 28 to FA 2004, “the current reference period” is the period of 5 years beginning before 6 April 2011 and comprising—
 
@@ -1194,7 +1194,7 @@ the reference in paragraph 9(1)(a) of Schedule 28 to FA 2004 (drawdown pension y
 
 **94.** Any person who, immediately before 6 April 2011, was entitled to dependants' unsecured pension or dependants' alternatively secured pension is to be treated, on and after that date, as entitled to dependants' drawdown pension.
 
-**95.** Paragraph 20 of Schedule 28 to FA 2004 (short-term annuity) has effect on and after 6 April 2011 as if a reference[^key-e7add75ecc211dedea23183814b77d2a] to an annuity purchased by the application of sums or assets representing the whole or any part of the dependant's drawdown pension fund in respect of an arrangement included a reference to an annuity purchased before that date by the application of sums or assets representing the whole or any part of the dependant's unsecured pension fund in respect of the arrangement.
+**95.** Paragraph 20 of Schedule 28 to FA 2004 (short-term annuity) has effect on and after 6 April 2011 as if a reference[^c-e7add75ecc211dedea23183814b77d2a] to an annuity purchased by the application of sums or assets representing the whole or any part of the dependant's drawdown pension fund in respect of an arrangement included a reference to an annuity purchased before that date by the application of sums or assets representing the whole or any part of the dependant's unsecured pension fund in respect of the arrangement.
 
 #### Dependant's unsecured or alternatively secured pension fund existing on 5 April 2011
 
@@ -1219,7 +1219,7 @@ the reference in paragraph 9(1)(a) of Schedule 28 to FA 2004 (drawdown pension y
 
 (2) Where, immediately before 6 April 2011, the last reference period to begin before that date has not ended—
 
-- (a) pension death benefit rule 4 in section 167 of FA 2004 has effect in relation to every drawdown pension year beginning before 26 March 2013 and[^key-a742f46f8302df887a76b42cd2695c3f] ending on or before the relevant date as if for “100%” there were substituted “ 120% ”, and
+- (a) pension death benefit rule 4 in section 167 of FA 2004 has effect in relation to every drawdown pension year beginning before 26 March 2013 and[^c-a742f46f8302df887a76b42cd2695c3f] ending on or before the relevant date as if for “100%” there were substituted “ 120% ”, and
 - (b) paragraph 24 of Schedule 28 to FA 2004 has effect with the following modifications—
   - (i) the reference in sub-paragraph (1) to the first drawdown pension year is to be read as a reference to the first drawdown pension year beginning after the relevant date;
   - (ii) any reference in sub-paragraphs (1ZA) to (1C) to a reference period is to be read as including a reference to the current reference period.
@@ -1227,7 +1227,7 @@ the reference in paragraph 9(1)(a) of Schedule 28 to FA 2004 (drawdown pension y
 (3) The “relevant date” is the earlier of the following—
 
 - (a) the day on which the current reference period ends, and
-- (b)[^key-77c49f7787a49fb714df45bb5a3b734c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-77c49f7787a49fb714df45bb5a3b734c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Subject to the operation of paragraph 24(1ZA) and (1B) of Schedule 28 to FA 2004, “the current reference period” is the period of 5 years beginning before 6 April 2011 and comprising—
 
@@ -1331,62 +1331,62 @@ This is subject to sub-paragraphs (4)(b) and (5) of that paragraph.
 
 ## Annotations
 
-[^key-d1f6a694f74591919ef324cb707d42c1]: Textual amendment: Sch. 16 para. 1(3) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/4)
+[^c-d1f6a694f74591919ef324cb707d42c1]: Textual amendment: Sch. 16 para. 1(3) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/4)
 
-[^key-c4f182deed57edc19787a7cbdca665e5]: Textual amendment: Sch. 16 para. 8(12) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/4)
+[^c-c4f182deed57edc19787a7cbdca665e5]: Textual amendment: Sch. 16 para. 8(12) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/4)
 
-[^key-a90a3e071722e5b201534473c073d410]: Textual amendment: Sch. 16 para. 10 omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/4)
+[^c-a90a3e071722e5b201534473c073d410]: Textual amendment: Sch. 16 para. 10 omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/4)
 
-[^key-b220934cf94daa0e9ea79e6a1387cba7]: Textual amendment: Sch. 16 para. 11(3) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/4)
+[^c-b220934cf94daa0e9ea79e6a1387cba7]: Textual amendment: Sch. 16 para. 11(3) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/4)
 
-[^key-96bdcd81653e44bef9c042305bbc6790]: Textual amendment: Sch. 16 para. 18(12) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/4)
+[^c-96bdcd81653e44bef9c042305bbc6790]: Textual amendment: Sch. 16 para. 18(12) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/4)
 
-[^key-d2bb003a1c2d06997a4b4baf766f0731]: Textual amendment: Sch. 16 para. 20 omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/4)
+[^c-d2bb003a1c2d06997a4b4baf766f0731]: Textual amendment: Sch. 16 para. 20 omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/4)
 
-[^key-d81131f3075108005d5a03f587b3bb00]: Textual amendment: [Sch. 16 para. 28(2)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/28/2/a) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
+[^c-d81131f3075108005d5a03f587b3bb00]: Textual amendment: [Sch. 16 para. 28(2)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/28/2/a) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
 
-[^key-58bc95189d8c9103e044052f9a24d14d]: Textual amendment: Sch. 16 para. 33(3)(c) omitted (with effect in accordance with s. 21(10) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 21(9)(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/21/9/a)
+[^c-58bc95189d8c9103e044052f9a24d14d]: Textual amendment: Sch. 16 para. 33(3)(c) omitted (with effect in accordance with s. 21(10) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 21(9)(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/21/9/a)
 
-[^key-9bedebee4273bb706f349e554ca41272]: Textual amendment: Sch. 16 para. 33(4) omitted (with effect in accordance with s. 21(10) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 21(9)(b)](https://www.legislation.gov.uk/ukpga/2015/33/section/21/9/b)
+[^c-9bedebee4273bb706f349e554ca41272]: Textual amendment: Sch. 16 para. 33(4) omitted (with effect in accordance with s. 21(10) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 21(9)(b)](https://www.legislation.gov.uk/ukpga/2015/33/section/21/9/b)
 
-[^key-4489b75916d91720e25b81f5a118b6c8]: Textual amendment: Sch. 16 para. 35(2)(c) omitted (with application in accordance with Sch. 2 para. 20 of the amending Act) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 2 para. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/2/paragraph/19/4/a)
+[^c-4489b75916d91720e25b81f5a118b6c8]: Textual amendment: Sch. 16 para. 35(2)(c) omitted (with application in accordance with Sch. 2 para. 20 of the amending Act) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 2 para. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/2/paragraph/19/4/a)
 
-[^key-959fa460b755a7b3ec84c7bd53b56fc9]: Textual amendment: Sch. 16 para. 35(3) omitted (with application in accordance with Sch. 2 para. 20 of the amending Act) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 2 para. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/2/paragraph/19/4/a)
+[^c-959fa460b755a7b3ec84c7bd53b56fc9]: Textual amendment: Sch. 16 para. 35(3) omitted (with application in accordance with Sch. 2 para. 20 of the amending Act) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 2 para. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/2/paragraph/19/4/a)
 
-[^key-ad5ce7b9f3d83c4f27e279377e106d14]: Textual amendment: [Sch. 16 para. 40](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/40) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
+[^c-ad5ce7b9f3d83c4f27e279377e106d14]: Textual amendment: [Sch. 16 para. 40](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/40) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
 
-[^key-563d82496855f0366f47ae8cc8c12906]: Textual amendment: Sch. 16 para. 41(5) omitted (with application in accordance with Sch. 2 para. 20 of the amending Act) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 2 para. 17(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/2/paragraph/17/5)
+[^c-563d82496855f0366f47ae8cc8c12906]: Textual amendment: Sch. 16 para. 41(5) omitted (with application in accordance with Sch. 2 para. 20 of the amending Act) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 2 para. 17(5)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/2/paragraph/17/5)
 
-[^key-3961b6e1f7346ea5465b7a18236b2f0d]: Textual amendment: Sch. 16 para. 42(2)(b) omitted (with effect in accordance with s. 22(12) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 22(11)(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/22/11/a)
+[^c-3961b6e1f7346ea5465b7a18236b2f0d]: Textual amendment: Sch. 16 para. 42(2)(b) omitted (with effect in accordance with s. 22(12) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 22(11)(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/22/11/a)
 
-[^key-c3137584d80833513ac847ca4354a879]: Textual amendment: Sch. 16 para. 42(2)(c) omitted (with application in accordance with Sch. 2 para. 20 of the amending Act) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 2 para. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/2/paragraph/19/4/a)
+[^c-c3137584d80833513ac847ca4354a879]: Textual amendment: Sch. 16 para. 42(2)(c) omitted (with application in accordance with Sch. 2 para. 20 of the amending Act) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 2 para. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/2/paragraph/19/4/a)
 
-[^key-226e9ddfaae00c8f716d0210edca6d47]: Textual amendment: [Sch. 16 para. 42(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/42/3) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
+[^c-226e9ddfaae00c8f716d0210edca6d47]: Textual amendment: [Sch. 16 para. 42(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/42/3) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
 
-[^key-9546b781a50a966047863322ab91fb2c]: Textual amendment: Sch. 16 para. 42(4) omitted (with effect in accordance with s. 22(12) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 22(11)(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/22/11/a)
+[^c-9546b781a50a966047863322ab91fb2c]: Textual amendment: Sch. 16 para. 42(4) omitted (with effect in accordance with s. 22(12) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 22(11)(a)](https://www.legislation.gov.uk/ukpga/2015/33/section/22/11/a)
 
-[^key-0290f98c46cd1101cb48b63d92edfbb6]: Textual amendment: Sch. 16 para. 45 omitted (with effect in accordance with Sch. 1 para. 66(3) of the amending Act) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 66(2)(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/66/2/b)
+[^c-0290f98c46cd1101cb48b63d92edfbb6]: Textual amendment: Sch. 16 para. 45 omitted (with effect in accordance with Sch. 1 para. 66(3) of the amending Act) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 66(2)(b)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/66/2/b)
 
-[^key-b10eec8a7883a051b9469f57a3b0efbc]: Textual amendment: [Sch. 16 para. 63](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/63) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
+[^c-b10eec8a7883a051b9469f57a3b0efbc]: Textual amendment: [Sch. 16 para. 63](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/63) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
 
-[^key-798fa943c51e414be64390f4239ffa67]: Textual amendment: [Sch. 16 para. 77(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/77/4) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
+[^c-798fa943c51e414be64390f4239ffa67]: Textual amendment: [Sch. 16 para. 77(4)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/77/4) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
 
-[^key-1dcc44a8030476d0004844fc4a21fed0]: Textual amendment: [Sch. 16 para. 81(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/81/2) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
+[^c-1dcc44a8030476d0004844fc4a21fed0]: Textual amendment: [Sch. 16 para. 81(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/81/2) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
 
-[^key-c7cbca106f82fac06f25ae4f02d394a6]: Textual amendment: Sch. 16 para. 81(3) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/4)
+[^c-c7cbca106f82fac06f25ae4f02d394a6]: Textual amendment: Sch. 16 para. 81(3) omitted (6.4.2015) by virtue of [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 32(2)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/32/4)
 
-[^key-f69c2762a04aa5b744e65f421e0f5508]: Textual amendment: [Sch. 16 para. 81(4)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/81/4/b) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
+[^c-f69c2762a04aa5b744e65f421e0f5508]: Textual amendment: [Sch. 16 para. 81(4)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/81/4/b) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
 
-[^key-a7c26bb089c86cdfc80781c5bb70fe08]: Textual amendment: [Sch. 16 para. 83](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/83) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
+[^c-a7c26bb089c86cdfc80781c5bb70fe08]: Textual amendment: [Sch. 16 para. 83](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/83) omitted (with effect in accordance with Sch. 5 para. 4 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 5 para. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/5/paragraph/3/3/a)
 
-[^key-c868cf68438865e1d531054f1021b78b]: Textual amendment: Words in Sch. 16 para. 87 substituted (17.12.2014) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/52)
+[^c-c868cf68438865e1d531054f1021b78b]: Textual amendment: Words in Sch. 16 para. 87 substituted (17.12.2014) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/52)
 
-[^key-82c340791fbb7e91c09dd3323798db9d]: Textual amendment: Words in Sch. 16 para. 90(2)(a) inserted (26.3.2013 retrospective) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 50(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/3/a)[(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/5)
+[^c-82c340791fbb7e91c09dd3323798db9d]: Textual amendment: Words in Sch. 16 para. 90(2)(a) inserted (26.3.2013 retrospective) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 50(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/3/a)[(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/5)
 
-[^key-44bb89316ce042ddb62e425a63afad50]: Textual amendment: Sch. 16 para. 90(3)(b) omitted (with effect in accordance with s. 50(6) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 50(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/3/b)
+[^c-44bb89316ce042ddb62e425a63afad50]: Textual amendment: Sch. 16 para. 90(3)(b) omitted (with effect in accordance with s. 50(6) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 50(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/3/b)
 
-[^key-e7add75ecc211dedea23183814b77d2a]: Textual amendment: Words in Sch. 16 para. 95 substituted (17.12.2014) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/52)
+[^c-e7add75ecc211dedea23183814b77d2a]: Textual amendment: Words in Sch. 16 para. 95 substituted (17.12.2014) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2014/30/schedule/1/paragraph/52)
 
-[^key-a742f46f8302df887a76b42cd2695c3f]: Textual amendment: Words in Sch. 16 para. 98(2)(a) inserted (26.3.2013 retrospective) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 50(3)(c)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/3/c)[(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/5)
+[^c-a742f46f8302df887a76b42cd2695c3f]: Textual amendment: Words in Sch. 16 para. 98(2)(a) inserted (26.3.2013 retrospective) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 50(3)(c)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/3/c)[(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/5)
 
-[^key-77c49f7787a49fb714df45bb5a3b734c]: Textual amendment: Sch. 16 para. 98(3)(b) omitted (with effect in accordance with s. 50(6) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 50(3)(d)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/3/d)
+[^c-77c49f7787a49fb714df45bb5a3b734c]: Textual amendment: Sch. 16 para. 98(3)(b) omitted (with effect in accordance with s. 50(6) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 50(3)(d)](https://www.legislation.gov.uk/ukpga/2013/29/section/50/3/d)

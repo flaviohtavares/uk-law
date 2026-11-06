@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Common Agricultural Policy Support Schemes (Modulation) (Amendment) Regulations 2004 (revoked)[^key-bd764ddd78b3c5ccdc690c925d97d0e3]
+The Common Agricultural Policy Support Schemes (Modulation) (Amendment) Regulations 2004 (revoked)[^c-bd764ddd78b3c5ccdc690c925d97d0e3]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 16th October 2004
 
-[^key-bd764ddd78b3c5ccdc690c925d97d0e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd764ddd78b3c5ccdc690c925d97d0e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-bd764ddd78b3c5ccdc690c925d97d0e3]
+## 1. Title and commencement[^c-bd764ddd78b3c5ccdc690c925d97d0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Common Agricultural Policy Support Schemes (Modulation) Regulations 2000[^key-bd764ddd78b3c5ccdc690c925d97d0e3]
+## 2. Amendment of the Common Agricultural Policy Support Schemes (Modulation) Regulations 2000[^c-bd764ddd78b3c5ccdc690c925d97d0e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bd764ddd78b3c5ccdc690c925d97d0e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd764ddd78b3c5ccdc690c925d97d0e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bd764ddd78b3c5ccdc690c925d97d0e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd764ddd78b3c5ccdc690c925d97d0e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bd764ddd78b3c5ccdc690c925d97d0e3]: Textual amendment: Regulations revoked (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2005 (S.I. 2005/219)](https://www.legislation.gov.uk/uksi/2005/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/219/regulation/1), [15(1)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15))
+[^c-bd764ddd78b3c5ccdc690c925d97d0e3]: Textual amendment: Regulations revoked (1.3.2005) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2005 (S.I. 2005/219)](https://www.legislation.gov.uk/uksi/2005/219), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/219/regulation/1), [15(1)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2005/219/regulation/15))

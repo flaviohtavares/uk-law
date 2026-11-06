@@ -22,7 +22,7 @@ summary: ''
 
 Article 11
 
-### PART 1 — Streets to be temporarily stopped up (Scenario 1)[^key-44548a19c4edcf03a6ab58fe3b4b4c74]
+### PART 1 — Streets to be temporarily stopped up (Scenario 1)[^c-44548a19c4edcf03a6ab58fe3b4b4c74]
 
 | (1) Area | (2) Street to be stopped up | (3) Extent of stopping up |
 | --- | --- | --- |
@@ -99,7 +99,7 @@ Article 11
 | District of Breckland | Private track | Approximately 420 meters of Private track as is within Work No.10A, 10B and 10C as shown between point 41q and 41s on sheet 41 of the streets to be temporarily stopped up plan |
 | District of Breckland | A47 | Approximately 470 meters of A47 as is within Work No.12B as shown between point 42a and 42b on sheet 42 of the streets to be temporarily stopped up plan |
 
-### PART 2 — Streets to be temporarily stopped up (Scenario 2)[^key-b28a3e16dce19504805306f46bca1684]
+### PART 2 — Streets to be temporarily stopped up (Scenario 2)[^c-b28a3e16dce19504805306f46bca1684]
 
 | (1) Area | (2) Street to be stopped up | (3) Extent of stopping up |
 | --- | --- | --- |
@@ -227,7 +227,7 @@ Article 11
 | District of Breckland | Private track | Approximately 170 meters of Private track as is within Works No. 10B and 11 as shown between point 41q and 41r on sheet 41 of the streets to be temporarily stopped up plan |
 | District of Breckland | A47 | Approximately 470 meters of A47 as is within Work No.12B as shown between point 42a and 42b on sheet 42 of the streets to be temporarily stopped up plan |
 
-### PART 3 — Permanent stopping up of private means of access for which a substitute is to be provided – Scenario 1[^key-b30fcd6f9e097c7216d24dfd0069900c]
+### PART 3 — Permanent stopping up of private means of access for which a substitute is to be provided – Scenario 1[^c-b30fcd6f9e097c7216d24dfd0069900c]
 
 | *(1)*<br>*Area* | *(2)*<br>*Private means of access to be stopped* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New private means of access to be substituted or provided* |
 | --- | --- | --- | --- |
@@ -235,8 +235,8 @@ Article 11
 
 ## Annotations
 
-[^key-44548a19c4edcf03a6ab58fe3b4b4c74]: Commencement: Sch. 4 Pt. 1 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-44548a19c4edcf03a6ab58fe3b4b4c74]: Commencement: Sch. 4 Pt. 1 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
-[^key-b28a3e16dce19504805306f46bca1684]: Commencement: Sch. 4 Pt. 2 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-b28a3e16dce19504805306f46bca1684]: Commencement: Sch. 4 Pt. 2 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
-[^key-b30fcd6f9e097c7216d24dfd0069900c]: Commencement: Sch. 4 Pt. 3 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-b30fcd6f9e097c7216d24dfd0069900c]: Commencement: Sch. 4 Pt. 3 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 14
 
-### 1. Interpretation[^key-554134787df900f9356e81a22bce2729]
+### 1. Interpretation[^c-554134787df900f9356e81a22bce2729]
 
 In this Schedule—
 
@@ -30,7 +30,7 @@ In this Schedule—
 - “**discharging authority**” means any body responsible for giving any consent, agreement or approval required by a requirement included in Schedule 2 (requirements), or for giving any consent, agreement or approval further to any document referred to in any such requirement; and
 - “**requirement consultee**” means any body named in a requirement as a body to be consulted by the discharging authority in discharging that requirement.
 
-### 2. Applications made under requirements[^key-d98b2befcfc977b30d53713568f7403b]
+### 2. Applications made under requirements[^c-d98b2befcfc977b30d53713568f7403b]
 
 (1) Where an application has been made to the discharging authority for any agreement or approval required pursuant to a requirement included in this Order, the discharging authority must give notice to the undertaker of their decision on the application, including the reasons for that decision, within a period of eight weeks beginning with—
 
@@ -39,7 +39,7 @@ In this Schedule—
 
 (2) Where consent, agreement or approval is refused or granted subject to conditions the discharging authority must provide its reasons for that decision with the notice of the decision.
 
-### 3. Further information[^key-723abf3b802aa3b41204d77bec1fdc08]
+### 3. Further information[^c-723abf3b802aa3b41204d77bec1fdc08]
 
 (1) Where an application has been made under paragraph 2 the discharging authority has the right to request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -49,13 +49,13 @@ In this Schedule—
 
 (4) In the event that the discharging authority does not give such notification as specified in sub- paragraphs (2) or (3), it is deemed to have sufficient information to consider the application and is not thereafter entitled to request further information without the prior agreement of the undertaker.
 
-### 4. Provision of information by requirement consultees[^key-cdc9a3fb93a8f426e6941be501dda1b0]
+### 4. Provision of information by requirement consultees[^c-cdc9a3fb93a8f426e6941be501dda1b0]
 
 (1) Any requirement consultee who receives a consultation under paragraph 3(3) must respond to that request within 28 days from receipt unless sub-paragraph (2) of this paragraph applies.
 
 (2) Where any requirement consultee requests further information in accordance with the timescales set out in paragraph 3(3) then they must respond to the consultation within ten working days from the receipt of the further information requested.
 
-### 5. Appeal[^key-29429b4d48e27fc90508e9a8df7b380e]
+### 5. Appeal[^c-29429b4d48e27fc90508e9a8df7b380e]
 
 (1) The undertaker may appeal in the event that—
 
@@ -100,12 +100,12 @@ In this Schedule—
 
 ## Annotations
 
-[^key-554134787df900f9356e81a22bce2729]: Commencement: Sch. 4 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-554134787df900f9356e81a22bce2729]: Commencement: Sch. 4 para. 1 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-d98b2befcfc977b30d53713568f7403b]: Commencement: Sch. 4 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-d98b2befcfc977b30d53713568f7403b]: Commencement: Sch. 4 para. 2 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-723abf3b802aa3b41204d77bec1fdc08]: Commencement: Sch. 4 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-723abf3b802aa3b41204d77bec1fdc08]: Commencement: Sch. 4 para. 3 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-cdc9a3fb93a8f426e6941be501dda1b0]: Commencement: Sch. 4 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-cdc9a3fb93a8f426e6941be501dda1b0]: Commencement: Sch. 4 para. 4 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
 
-[^key-29429b4d48e27fc90508e9a8df7b380e]: Commencement: Sch. 4 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-29429b4d48e27fc90508e9a8df7b380e]: Commencement: Sch. 4 para. 5 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)

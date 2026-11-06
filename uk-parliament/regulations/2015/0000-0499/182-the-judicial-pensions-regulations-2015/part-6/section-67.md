@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Meaning of “incapacity for employment”[^key-d52c73b9d40b0e98f2d0666eef6a6470]
+## 67. Meaning of “incapacity for employment”[^c-d52c73b9d40b0e98f2d0666eef6a6470]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of this Chapter, a member’s permanent breakdown in health inv
 
 ## Annotations
 
-[^key-d52c73b9d40b0e98f2d0666eef6a6470]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2015/182/regulation/67) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-d52c73b9d40b0e98f2d0666eef6a6470]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2015/182/regulation/67) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

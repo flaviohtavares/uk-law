@@ -44,11 +44,11 @@ The Department of Agriculture, Environment and Rural Affairs, in exercise of the
 
 In accordance with Article 32(3) of that Order, the Department has published a notice indicating the effect of these Regulations and has taken into consideration the representations made to it in accordance with the notice.
 
-## 1. Citation and commencement[^key-4b2716eb7f6f3ab2150f9bf1c269ba9c]
+## 1. Citation and commencement[^c-4b2716eb7f6f3ab2150f9bf1c269ba9c]
 
 These Regulations may be cited as the Environmental Protection (Single-use Vapes) Regulations (Northern Ireland) 2024 and come into operation on 1st June 2025.
 
-## 2. Interpretation[^key-323a94e1600be5094d434c56d3ca0793]
+## 2. Interpretation[^c-323a94e1600be5094d434c56d3ca0793]
 
 In these Regulations—
 
@@ -62,7 +62,7 @@ In these Regulations—
 - “**vaping substance**” means a substance, other than tobacco, that is intended to be vaporised with a vape; and
 - “**vaporises**” includes aerosolises.
 
-## 3. Meaning of single-use vape[^key-a32380b2aa5a0d738c3da62131486a05]
+## 3. Meaning of single-use vape[^c-a32380b2aa5a0d738c3da62131486a05]
 
 (1) For the purposes of these Regulations, a single-use vape is a vape which is not designed or intended to be re-used and includes any vape which is—
 
@@ -82,9 +82,9 @@ In these Regulations—
 
 (4) For the purposes of this regulation, “**separately available**” means available for purchase by an individual user.
 
-## 4. Offences and penalties[^key-4108c693aaaf33b91ced36e4cdbde9df]
+## 4. Offences and penalties[^c-4108c693aaaf33b91ced36e4cdbde9df]
 
-(1)[^key-4bb0e002ee4b28698a0be262a3491b4c] A person who—
+(1)[^c-4bb0e002ee4b28698a0be262a3491b4c] A person who—
 
 - (a) supplies, offers to supply or has in their possession for supply, a single-use vape; or
 - (b) fails, without reasonable excuse, to comply with a direction under regulation 8(1),
@@ -96,21 +96,21 @@ is guilty of an offence.
 - (a) on summary conviction, to a fine limited to the statutory maximum; or
 - (b) on conviction on indictment, to a term of imprisonment not exceeding 2 years, or to a fine or both.
 
-## 5. Defence of due diligence[^key-9f68c28529b5fe471af4c6cf08878f0e]
+## 5. Defence of due diligence[^c-9f68c28529b5fe471af4c6cf08878f0e]
 
 (1) Where a person is charged with an offence under these Regulations, it is a defence for that person to show that the person took all reasonable precautions and exercised all due diligence to prevent the offence being committed.
 
 (2) Where the defence provided by paragraph (1) involves an allegation that the commission of the offence was due to the act or omission of another person, the person charged must not without leave of the court be entitled to rely on the defence unless, within the period of 7 days before the hearing the person charged has provided for the court a notice giving such information identifying or assisting in the identification of the other person as was then in the possession of the person charged.
 
-## 6. Enforcement[^key-be1f95a61e8655ad29a90c9b37a206d1]
+## 6. Enforcement[^c-be1f95a61e8655ad29a90c9b37a206d1]
 
-(1) The enforcing[^key-8ee47a0bb1e161d9f7b288bbb4fd3308] authority for the purpose of compliance with these Regulations is the Department.
+(1) The enforcing[^c-8ee47a0bb1e161d9f7b288bbb4fd3308] authority for the purpose of compliance with these Regulations is the Department.
 
 (2) An authorised person may exercise any of their functions to determine or ensure compliance with these Regulations.
 
-(3)[^key-bebf217e39ca08345a751ad4e97f264d] A district council is an authorised person for the purposes of these Regulations.
+(3)[^c-bebf217e39ca08345a751ad4e97f264d] A district council is an authorised person for the purposes of these Regulations.
 
-## 7. Offences by partnerships and other unincorporated associations[^key-bf0be82f513de87bb1ad65d6f74060f6]
+## 7. Offences by partnerships and other unincorporated associations[^c-bf0be82f513de87bb1ad65d6f74060f6]
 
 (1) Where any offence under these Regulations committed by a partnership is proved—
 
@@ -169,26 +169,26 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00001]: Footnote: [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778)
 
-[^key-4b2716eb7f6f3ab2150f9bf1c269ba9c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/212/regulation/1) in operation at 1.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/212/regulation/1)
+[^c-4b2716eb7f6f3ab2150f9bf1c269ba9c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/212/regulation/1) in operation at 1.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/212/regulation/1)
 
-[^key-323a94e1600be5094d434c56d3ca0793]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/212/regulation/2) in operation at 1.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/212/regulation/1)
+[^c-323a94e1600be5094d434c56d3ca0793]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/212/regulation/2) in operation at 1.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/212/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916) to which there are no relevant amendments
 
 [^f00003]: Footnote: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618) relevant amending Regulations are [S.I. 2008/2936](https://www.legislation.gov.uk/uksi/2008/2936)
 
-[^key-a32380b2aa5a0d738c3da62131486a05]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/212/regulation/3) in operation at 1.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/212/regulation/1)
+[^c-a32380b2aa5a0d738c3da62131486a05]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2024/212/regulation/3) in operation at 1.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/212/regulation/1)
 
-[^key-4108c693aaaf33b91ced36e4cdbde9df]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2024/212/regulation/4) in operation at 1.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/212/regulation/1)
+[^c-4108c693aaaf33b91ced36e4cdbde9df]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2024/212/regulation/4) in operation at 1.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/212/regulation/1)
 
-[^key-4bb0e002ee4b28698a0be262a3491b4c]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2024/212/regulation/4/1) substituted (29.7.2025) by [The Environmental Protection (Single-use Vapes) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/126)](https://www.legislation.gov.uk/nisr/2025/126), [regs. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2025/126/regulation/3/a)
+[^c-4bb0e002ee4b28698a0be262a3491b4c]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/nisr/2024/212/regulation/4/1) substituted (29.7.2025) by [The Environmental Protection (Single-use Vapes) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/126)](https://www.legislation.gov.uk/nisr/2025/126), [regs. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2025/126/regulation/3/a)
 
-[^key-9f68c28529b5fe471af4c6cf08878f0e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2024/212/regulation/5) in operation at 1.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/212/regulation/1)
+[^c-9f68c28529b5fe471af4c6cf08878f0e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2024/212/regulation/5) in operation at 1.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/212/regulation/1)
 
-[^key-be1f95a61e8655ad29a90c9b37a206d1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2024/212/regulation/6) in operation at 1.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/212/regulation/1)
+[^c-be1f95a61e8655ad29a90c9b37a206d1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2024/212/regulation/6) in operation at 1.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/212/regulation/1)
 
-[^key-8ee47a0bb1e161d9f7b288bbb4fd3308]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2024/212/regulation/6/1) substituted (29.7.2025) by [The Environmental Protection (Single-use Vapes) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/126)](https://www.legislation.gov.uk/nisr/2025/126), [regs. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2025/126/regulation/4/a)
+[^c-8ee47a0bb1e161d9f7b288bbb4fd3308]: Textual amendment: Word in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2024/212/regulation/6/1) substituted (29.7.2025) by [The Environmental Protection (Single-use Vapes) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/126)](https://www.legislation.gov.uk/nisr/2025/126), [regs. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2025/126/regulation/4/a)
 
-[^key-bebf217e39ca08345a751ad4e97f264d]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/nisr/2024/212/regulation/6/3) inserted (29.7.2025) by [The Environmental Protection (Single-use Vapes) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/126)](https://www.legislation.gov.uk/nisr/2025/126), [regs. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2025/126/regulation/4/b)
+[^c-bebf217e39ca08345a751ad4e97f264d]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/nisr/2024/212/regulation/6/3) inserted (29.7.2025) by [The Environmental Protection (Single-use Vapes) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/126)](https://www.legislation.gov.uk/nisr/2025/126), [regs. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2025/126/regulation/4/b)
 
-[^key-bf0be82f513de87bb1ad65d6f74060f6]: Textual amendment: [Regs. 7-9](https://www.legislation.gov.uk/nisr/2024/212/regulation/7) inserted (29.7.2025) by [The Environmental Protection (Single-use Vapes) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/126)](https://www.legislation.gov.uk/nisr/2025/126), [regs. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1), [5](https://www.legislation.gov.uk/nisr/2025/126/regulation/5)
+[^c-bf0be82f513de87bb1ad65d6f74060f6]: Textual amendment: [Regs. 7-9](https://www.legislation.gov.uk/nisr/2024/212/regulation/7) inserted (29.7.2025) by [The Environmental Protection (Single-use Vapes) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/126)](https://www.legislation.gov.uk/nisr/2025/126), [regs. 1](https://www.legislation.gov.uk/nisr/2025/126/regulation/1), [5](https://www.legislation.gov.uk/nisr/2025/126/regulation/5)

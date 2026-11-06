@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 324A. Power to authorise costs to be incurred in relation to proceedings[^key-2f150886f34de4222717c7bd9af4445a]
+## 324A. Power to authorise costs to be incurred in relation to proceedings[^c-2f150886f34de4222717c7bd9af4445a]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f150886f34de4222717c7bd9af4445a]: Textual amendment: [S. 324A](https://www.legislation.gov.uk/ukpga/2011/25/section/324A) inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 36](https://www.legislation.gov.uk/ukpga/2022/6/section/36), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/8)
+[^c-2f150886f34de4222717c7bd9af4445a]: Textual amendment: [S. 324A](https://www.legislation.gov.uk/ukpga/2011/25/section/324A) inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 36](https://www.legislation.gov.uk/ukpga/2022/6/section/36), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/8)

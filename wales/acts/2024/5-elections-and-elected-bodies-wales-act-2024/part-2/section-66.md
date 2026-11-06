@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Democracy and Boundary Commission Cymru: persons who may not be members etc.[^key-b66bb76d332a3f952d916b34c8ab57cc]
+## 66. Democracy and Boundary Commission Cymru: persons who may not be members etc.[^c-b66bb76d332a3f952d916b34c8ab57cc]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b66bb76d332a3f952d916b34c8ab57cc]: Commencement: S. 66 in force at 10.9.2024, see [s. 72(1)(c)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/c)
+[^c-b66bb76d332a3f952d916b34c8ab57cc]: Commencement: S. 66 in force at 10.9.2024, see [s. 72(1)(c)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/c)

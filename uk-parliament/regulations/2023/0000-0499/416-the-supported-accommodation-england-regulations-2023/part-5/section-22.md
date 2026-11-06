@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Behaviour management policy and records[^key-3cbc6f8030442822ad27e32b77854295]
+## 22. Behaviour management policy and records[^c-3cbc6f8030442822ad27e32b77854295]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3cbc6f8030442822ad27e32b77854295]: Commencement: Reg. 22 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-3cbc6f8030442822ad27e32b77854295]: Commencement: Reg. 22 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
 [^f00018]: Footnote: Section 121 of the Care Standards Act 2000 defines “medical” as including surgical, and “treatment” as including diagnosis.

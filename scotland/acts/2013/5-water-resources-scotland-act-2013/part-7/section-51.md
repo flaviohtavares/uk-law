@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Other expressions in Part[^key-67804235bcab049877944b1ef663cfa3]
+## 51. Other expressions in Part[^c-67804235bcab049877944b1ef663cfa3]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ In this Part—
 
 ## Annotations
 
-[^key-67804235bcab049877944b1ef663cfa3]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2013/5/section/51) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-67804235bcab049877944b1ef663cfa3]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2013/5/section/51) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

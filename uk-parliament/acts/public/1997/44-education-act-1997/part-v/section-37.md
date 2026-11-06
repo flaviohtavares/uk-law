@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Requirement for approval of certain publicly-funded and school courses leading to external qualifications.[^key-b342342ff13ca2a73d717374f2607f4f]
+## 37. Requirement for approval of certain publicly-funded and school courses leading to external qualifications.[^c-b342342ff13ca2a73d717374f2607f4f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b342342ff13ca2a73d717374f2607f4f]: Textual amendment: S. 37 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-b342342ff13ca2a73d717374f2607f4f]: Textual amendment: S. 37 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)

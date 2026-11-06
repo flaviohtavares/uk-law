@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Republic of Guinea (Asset-Freezing) Regulations 2012 (revoked)[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+The Republic of Guinea (Asset-Freezing) Regulations 2012 (revoked)[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 Made
 
@@ -46,114 +46,114 @@ Coming into force
 
 4th July 2012
 
-[^key-c554934195ec38d37a8cdb7c28ebd3cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c554934195ec38d37a8cdb7c28ebd3cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 1. Citation, commencement and application[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 2. Interpretation[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Freezing of funds and economic resources[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 3. Freezing of funds and economic resources[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Making funds available to a designated person[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 4. Making funds available to a designated person[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Making funds available for the benefit of a designated person[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 5. Making funds available for the benefit of a designated person[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Making economic resources available to a designated person[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 6. Making economic resources available to a designated person[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Making economic resources available for the benefit of a designated person[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 7. Making economic resources available for the benefit of a designated person[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Credits to a frozen account[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 8. Credits to a frozen account[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Licences[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 9. Licences[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Contravention and circumvention of prohibitions[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 10. Contravention and circumvention of prohibitions[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Information provisions[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 11. Information provisions[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Officers of a body corporate etc.[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 12. Officers of a body corporate etc.[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Penalties[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 13. Penalties[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Proceedings[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 14. Proceedings[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Consent to prosecution[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 15. Consent to prosecution[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Notices[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 16. Notices[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. The Crown[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## 17. The Crown[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c554934195ec38d37a8cdb7c28ebd3cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c554934195ec38d37a8cdb7c28ebd3cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Information Provisions[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+## SCHEDULE — Information Provisions[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 Regulation 11
 
-### 1. Reporting obligations of relevant institutions and others[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+### 1. Reporting obligations of relevant institutions and others[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Powers to request information[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+### 2. Powers to request information[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Production of documents[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+### 3. Production of documents[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Failure to comply with request for information[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+### 4. Failure to comply with request for information[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. General power to disclose information[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+### 5. General power to disclose information[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Application of provisions[^key-c554934195ec38d37a8cdb7c28ebd3cf]
+### 6. Application of provisions[^c-c554934195ec38d37a8cdb7c28ebd3cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c554934195ec38d37a8cdb7c28ebd3cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c554934195ec38d37a8cdb7c28ebd3cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c554934195ec38d37a8cdb7c28ebd3cf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1508) revoked (31.12.2020) by [The Guinea (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/1145)](https://www.legislation.gov.uk/uksi/2019/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1145/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2019/1145/regulation/38); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/3/2)
+[^c-c554934195ec38d37a8cdb7c28ebd3cf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1508) revoked (31.12.2020) by [The Guinea (Sanctions) (EU Exit) Regulations 2019 (S.I. 2019/1145)](https://www.legislation.gov.uk/uksi/2019/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1145/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2019/1145/regulation/38); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/3/2)

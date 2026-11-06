@@ -22,87 +22,87 @@ summary: ''
 
 Section 42
 
-### ...[^key-4ef18850728a24823adc57dce90e122a]
+### ...[^c-4ef18850728a24823adc57dce90e122a]
 
-[^key-4ef18850728a24823adc57dce90e122a]
-
-**May not be in force at this date. Check the source.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-4ef18850728a24823adc57dce90e122a]
+[^c-4ef18850728a24823adc57dce90e122a]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ef18850728a24823adc57dce90e122a]
+[^c-4ef18850728a24823adc57dce90e122a]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ef18850728a24823adc57dce90e122a]
+[^c-4ef18850728a24823adc57dce90e122a]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ef18850728a24823adc57dce90e122a]
+[^c-4ef18850728a24823adc57dce90e122a]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ef18850728a24823adc57dce90e122a]
+[^c-4ef18850728a24823adc57dce90e122a]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ef18850728a24823adc57dce90e122a]
+[^c-4ef18850728a24823adc57dce90e122a]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ef18850728a24823adc57dce90e122a]
+[^c-4ef18850728a24823adc57dce90e122a]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ef18850728a24823adc57dce90e122a]
+[^c-4ef18850728a24823adc57dce90e122a]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ef18850728a24823adc57dce90e122a]
+[^c-4ef18850728a24823adc57dce90e122a]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ef18850728a24823adc57dce90e122a]
+[^c-4ef18850728a24823adc57dce90e122a]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ef18850728a24823adc57dce90e122a]
+[^c-4ef18850728a24823adc57dce90e122a]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ef18850728a24823adc57dce90e122a]
+[^c-4ef18850728a24823adc57dce90e122a]
 
 **May not be in force at this date. Check the source.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ef18850728a24823adc57dce90e122a]
+[^c-4ef18850728a24823adc57dce90e122a]
+
+**May not be in force at this date. Check the source.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4ef18850728a24823adc57dce90e122a]
 
 **May not be in force at this date. Check the source.**
 
@@ -222,11 +222,11 @@ Section 42
 
 #### Confidentiality of information
 
-**24.**[^key-759189b7020c8861ec899fef9bd671d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-759189b7020c8861ec899fef9bd671d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Wrongful disclosure
 
-**25.**[^key-c4de9597cf36887aa8cdf0527c2f1921] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-c4de9597cf36887aa8cdf0527c2f1921] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 3 — Consequential amendments
 
@@ -328,24 +328,24 @@ Section 42
 
 .
 
-### ...[^key-5e810a246b4b9c31a7ded951c501b831]
+### ...[^c-5e810a246b4b9c31a7ded951c501b831]
 
-[^key-5e810a246b4b9c31a7ded951c501b831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e810a246b4b9c31a7ded951c501b831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5e810a246b4b9c31a7ded951c501b831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e810a246b4b9c31a7ded951c501b831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5e810a246b4b9c31a7ded951c501b831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e810a246b4b9c31a7ded951c501b831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5e810a246b4b9c31a7ded951c501b831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e810a246b4b9c31a7ded951c501b831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5e810a246b4b9c31a7ded951c501b831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e810a246b4b9c31a7ded951c501b831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ef18850728a24823adc57dce90e122a]: Textual amendment: Sch. 5 Pt. 1 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 694(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/694/a), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-4ef18850728a24823adc57dce90e122a]: Textual amendment: Sch. 5 Pt. 1 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 694(a)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/694/a), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-759189b7020c8861ec899fef9bd671d8]: Textual amendment: Sch. 5 para. 24 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 694(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/694/b), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-759189b7020c8861ec899fef9bd671d8]: Textual amendment: Sch. 5 para. 24 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 694(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/694/b), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-c4de9597cf36887aa8cdf0527c2f1921]: Textual amendment: Sch. 5 para. 25 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 694(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/694/b), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-c4de9597cf36887aa8cdf0527c2f1921]: Textual amendment: Sch. 5 para. 25 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 694(b)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/694/b), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-5e810a246b4b9c31a7ded951c501b831]: Textual amendment: Sch. 5 Pt. 4 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 694(c)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/694/c), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-5e810a246b4b9c31a7ded951c501b831]: Textual amendment: Sch. 5 Pt. 4 repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 694(c)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/694/c), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

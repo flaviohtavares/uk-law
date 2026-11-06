@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Voluntary de-registration and de-registration with consent[^key-8821e1004dcdc4c513dc0c79fa098822][^key-be42de3db1f2c4a7f850f39094cc6484][^key-1fd848bd4414e0ed16e423fb465d8195]
+## 43. Voluntary de-registration and de-registration with consent[^c-8821e1004dcdc4c513dc0c79fa098822][^c-be42de3db1f2c4a7f850f39094cc6484][^c-1fd848bd4414e0ed16e423fb465d8195]
 
 *Extent: E+W*
 
@@ -69,8 +69,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8821e1004dcdc4c513dc0c79fa098822]: Commencement: S. 43 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-8821e1004dcdc4c513dc0c79fa098822]: Commencement: S. 43 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-be42de3db1f2c4a7f850f39094cc6484]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2022/1/section/43) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(y)](https://www.legislation.gov.uk/wsi/2023/919/article/3/y)
+[^c-be42de3db1f2c4a7f850f39094cc6484]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2022/1/section/43) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(y)](https://www.legislation.gov.uk/wsi/2023/919/article/3/y)
 
-[^key-1fd848bd4414e0ed16e423fb465d8195]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2022/1/section/43) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(p)](https://www.legislation.gov.uk/wsi/2025/432/article/2/p)
+[^c-1fd848bd4414e0ed16e423fb465d8195]: Commencement: [S. 43](https://www.legislation.gov.uk/asc/2022/1/section/43) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(p)](https://www.legislation.gov.uk/wsi/2025/432/article/2/p)

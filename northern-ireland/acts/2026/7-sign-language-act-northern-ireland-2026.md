@@ -42,7 +42,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 #### Recognition and promotion
 
-##### 1. Official recognition of sign languages[^key-64c817a951cd8aaebdab21625162b07c][^key-53cfd224e920620371aed52d48f1dd37]
+##### 1. Official recognition of sign languages[^c-64c817a951cd8aaebdab21625162b07c][^c-53cfd224e920620371aed52d48f1dd37]
 
 (1) Each of these is recognised as a language of Northern Ireland (and as having equal status with the other)—
 
@@ -54,7 +54,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 - (a) any rule of law, or
 - (b) any other statutory provision (within the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954).
 
-##### 2. Promotion of interests by lead department[^key-abbcf723af94acceba0378696b022852][^key-7a0808524b4c75efd00196e9a17456fc]
+##### 2. Promotion of interests by lead department[^c-abbcf723af94acceba0378696b022852][^c-7a0808524b4c75efd00196e9a17456fc]
 
 (1) The Department for Communities must promote, to such extent (and in such manner) as the Department considers appropriate—
 
@@ -87,7 +87,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 #### Duty of prescribed organisations
 
-##### 3. Organisations to take reasonable steps[^key-7cbf8afe0ba5695e550ab8b3f7cbe7cf]
+##### 3. Organisations to take reasonable steps[^c-7cbf8afe0ba5695e550ab8b3f7cbe7cf]
 
 **Not yet in force.**
 
@@ -101,7 +101,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 - (a) something is as accessible to individuals in the deaf community for the purpose of this section if, as well as being as accessible to them in general terms (including as respects convenience), access to it is at no extra cost to them, and
 - (b) nothing in this section implies that prescribed organisations are prevented from taking into account matters of affordability to them, as well as taking into account wider factors influencing them (including as involving practicability), when determining how in their respective circumstances to comply with this section.
 
-##### 4. Organisations to be listed in regulations[^key-260d8f9d2ca70d8cd22b663912be8b6f][^key-494d2f418a3912bd94728f37a83e4d4e]
+##### 4. Organisations to be listed in regulations[^c-260d8f9d2ca70d8cd22b663912be8b6f][^c-494d2f418a3912bd94728f37a83e4d4e]
 
 (1) The Department for Communities must by regulations list which public bodies are prescribed organisations for the purposes of this Part.
 
@@ -120,7 +120,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 #### Formal guidance to be issued
 
-##### 5. Department to issue guidance[^key-3a55a40549307fc4da154cea90854534][^key-544ac95dfe90bcfc38a16c1f245a7a2c]
+##### 5. Department to issue guidance[^c-3a55a40549307fc4da154cea90854534][^c-544ac95dfe90bcfc38a16c1f245a7a2c]
 
 (1) The Department for Communities must issue guidance about—
 
@@ -145,7 +145,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 (4) All the prescribed organisations must have regard to guidance issued under this Chapter in connection with providing information and services.
 
-##### 6. Best practice to be in guidance[^key-0e15a7790bd7988c8036f84765211c43][^key-5c4cd02dd5f27e103f1cf171d87036e3]
+##### 6. Best practice to be in guidance[^c-0e15a7790bd7988c8036f84765211c43][^c-5c4cd02dd5f27e103f1cf171d87036e3]
 
 (1) Guidance under this Chapter is to—
 
@@ -169,7 +169,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 #### Power to make regulations
 
-##### 7. Department may make regulations[^key-43b9c6843eff812714178b3dc034ffaa][^key-3fe0620624e39258ced0d9e49fcbd326]
+##### 7. Department may make regulations[^c-43b9c6843eff812714178b3dc034ffaa][^c-3fe0620624e39258ced0d9e49fcbd326]
 
 (1) The Department for Communities may by regulations make provision for the purpose of or in connection with—
 
@@ -209,7 +209,7 @@ if, having regard to the scale of their resources or the nature of their functio
 
 (6) Regulations under this Chapter may modify any statutory provision (within the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954).
 
-##### 8. Procedure for making regulations[^key-0ab54e0ebee9fd25a49372a04e185b3d][^key-ec9f63fec83cc643c70798d6a03ae448]
+##### 8. Procedure for making regulations[^c-0ab54e0ebee9fd25a49372a04e185b3d][^c-ec9f63fec83cc643c70798d6a03ae448]
 
 (1) Before laying a draft of regulations under this Chapter, the Department for Communities must consult—
 
@@ -222,7 +222,7 @@ if, having regard to the scale of their resources or the nature of their functio
 
 #### Engagement and reporting
 
-##### 9. Department’s manner of engagement[^key-5efd2cd092c70de04fec8103f1c90fee][^key-ff2d71bf05aa2d80f3d337ff2a47a9c5]
+##### 9. Department’s manner of engagement[^c-5efd2cd092c70de04fec8103f1c90fee][^c-ff2d71bf05aa2d80f3d337ff2a47a9c5]
 
 (1) In this Chapter—
 
@@ -232,7 +232,7 @@ if, having regard to the scale of their resources or the nature of their functio
 
 (2) In fulfilling a requirement to consult persons or groups as imposed on the Department for Communities by this Chapter, the Department is in particular to seek to secure input relating specifically to each of (as well as input relating generally to both of) British Sign Language and Irish Sign Language.
 
-##### 10. Department to publish 3-yearly reports[^key-b5eab20a86962c233dd2a62929803081][^key-ace6edb657b1b9ae44a6598f14633e5a]
+##### 10. Department to publish 3-yearly reports[^c-b5eab20a86962c233dd2a62929803081][^c-ace6edb657b1b9ae44a6598f14633e5a]
 
 (1) The Department for Communities must prepare a report, covering the reporting period, evaluating the impact of this Part.
 
@@ -250,7 +250,7 @@ as soon as practicable after the end of the reporting period.
 
 ### Chapter 3 — Scheme for accreditation
 
-#### 11. Accreditation of teachers and interpreters[^key-c9601ce4562a6acfd8eff9284163e971][^key-52e69318f9a284a8c5336e8905eace84]
+#### 11. Accreditation of teachers and interpreters[^c-c9601ce4562a6acfd8eff9284163e971][^c-52e69318f9a284a8c5336e8905eace84]
 
 (1) The Department for Communities must by regulations make a scheme for the purpose of or in connection with the accreditation of persons as (either or both)—
 
@@ -272,7 +272,7 @@ as soon as practicable after the end of the reporting period.
 
 ### Chapter 4 — Key terminology
 
-#### 12. Members of the deaf community[^key-a2271f386f5fb1abb5e61d1987ddb0e7][^key-c4b93301d5fd1ed7973928de56eb5cb1]
+#### 12. Members of the deaf community[^c-a2271f386f5fb1abb5e61d1987ddb0e7][^c-c4b93301d5fd1ed7973928de56eb5cb1]
 
 (1) For the purposes of this Part, the deaf community comprises all people falling within one or more of the following paragraphs—
 
@@ -291,20 +291,20 @@ are for the purposes of this Part to be treated as if members of the deaf commun
 
 (4) That is, all individuals meeting this description are to be so treated where (for those purposes) they are not actually members of the deaf community.
 
-#### 13. Different forms of sign languages[^key-a59b043f807545f549873743fc324fa3][^key-221779a82c48816a50b1c57c2fd07d90]
+#### 13. Different forms of sign languages[^c-a59b043f807545f549873743fc324fa3][^c-221779a82c48816a50b1c57c2fd07d90]
 
 A reference in this Part to British Sign Language or Irish Sign Language is to either or both of—
 
 - (a) the visual form of the Language as commonly used and understood by deaf people, and
 - (b) the common tactile or non-visual forms of the Language as used and understood by some deafblind people.
 
-#### 14. Everyday reliance on sign languages[^key-10197c292768b26b698baf6a9604a15d][^key-ad356d5516000069213e6de2ce12d2dc]
+#### 14. Everyday reliance on sign languages[^c-10197c292768b26b698baf6a9604a15d][^c-ad356d5516000069213e6de2ce12d2dc]
 
 The references in this Part to relying for communication on British Sign Language or Irish Sign Language are to so relying (wholly or substantially) on the Language by necessity or for convenience in the course of everyday activities.
 
 ## Part 2 — Commencement and short title
 
-### 15. Commencement[^key-6b9f84deb742e687bf99618c2682f920][^key-f6004d7d73a33b45717380d5547abb22]
+### 15. Commencement[^c-6b9f84deb742e687bf99618c2682f920][^c-f6004d7d73a33b45717380d5547abb22]
 
 (1) As follows—
 
@@ -313,70 +313,70 @@ The references in this Part to relying for communication on British Sign Languag
 
 (2) An order under this section may contain such transitional or transitory provision as the Department for Communities considers appropriate.
 
-### 16. Short title[^key-ff08e9a7ef4b9df825a627b6f3969592][^key-88c1f9753dfa3309d8b5948df49f66cc]
+### 16. Short title[^c-ff08e9a7ef4b9df825a627b6f3969592][^c-88c1f9753dfa3309d8b5948df49f66cc]
 
 This Act may be cited as the Sign Language Act (Northern Ireland) 2026.
 
 ## Annotations
 
-[^key-64c817a951cd8aaebdab21625162b07c]: Commencement: S. 1 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
+[^c-64c817a951cd8aaebdab21625162b07c]: Commencement: S. 1 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
 
-[^key-53cfd224e920620371aed52d48f1dd37]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2026/7/section/1) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(a)](https://www.legislation.gov.uk/nisr/2026/162/article/2/a)
+[^c-53cfd224e920620371aed52d48f1dd37]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2026/7/section/1) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(a)](https://www.legislation.gov.uk/nisr/2026/162/article/2/a)
 
-[^key-abbcf723af94acceba0378696b022852]: Commencement: S. 2 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
+[^c-abbcf723af94acceba0378696b022852]: Commencement: S. 2 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
 
-[^key-7a0808524b4c75efd00196e9a17456fc]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2026/7/section/2) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/162/article/2/b)
+[^c-7a0808524b4c75efd00196e9a17456fc]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2026/7/section/2) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/162/article/2/b)
 
-[^key-7cbf8afe0ba5695e550ab8b3f7cbe7cf]: Commencement: S. 3 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
+[^c-7cbf8afe0ba5695e550ab8b3f7cbe7cf]: Commencement: S. 3 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
 
-[^key-260d8f9d2ca70d8cd22b663912be8b6f]: Commencement: S. 4 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
+[^c-260d8f9d2ca70d8cd22b663912be8b6f]: Commencement: S. 4 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
 
-[^key-494d2f418a3912bd94728f37a83e4d4e]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2026/7/section/4) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(c)](https://www.legislation.gov.uk/nisr/2026/162/article/2/c)
+[^c-494d2f418a3912bd94728f37a83e4d4e]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2026/7/section/4) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(c)](https://www.legislation.gov.uk/nisr/2026/162/article/2/c)
 
-[^key-3a55a40549307fc4da154cea90854534]: Commencement: S. 5 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
+[^c-3a55a40549307fc4da154cea90854534]: Commencement: S. 5 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
 
-[^key-544ac95dfe90bcfc38a16c1f245a7a2c]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2026/7/section/5) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(d)](https://www.legislation.gov.uk/nisr/2026/162/article/2/d)
+[^c-544ac95dfe90bcfc38a16c1f245a7a2c]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2026/7/section/5) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(d)](https://www.legislation.gov.uk/nisr/2026/162/article/2/d)
 
-[^key-0e15a7790bd7988c8036f84765211c43]: Commencement: S. 6 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
+[^c-0e15a7790bd7988c8036f84765211c43]: Commencement: S. 6 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
 
-[^key-5c4cd02dd5f27e103f1cf171d87036e3]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2026/7/section/6) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(e)](https://www.legislation.gov.uk/nisr/2026/162/article/2/e)
+[^c-5c4cd02dd5f27e103f1cf171d87036e3]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2026/7/section/6) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(e)](https://www.legislation.gov.uk/nisr/2026/162/article/2/e)
 
-[^key-43b9c6843eff812714178b3dc034ffaa]: Commencement: S. 7 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
+[^c-43b9c6843eff812714178b3dc034ffaa]: Commencement: S. 7 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
 
-[^key-3fe0620624e39258ced0d9e49fcbd326]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2026/7/section/7) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(f)](https://www.legislation.gov.uk/nisr/2026/162/article/2/f)
+[^c-3fe0620624e39258ced0d9e49fcbd326]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2026/7/section/7) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(f)](https://www.legislation.gov.uk/nisr/2026/162/article/2/f)
 
-[^key-0ab54e0ebee9fd25a49372a04e185b3d]: Commencement: S. 8 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
+[^c-0ab54e0ebee9fd25a49372a04e185b3d]: Commencement: S. 8 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
 
-[^key-ec9f63fec83cc643c70798d6a03ae448]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2026/7/section/8) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(g)](https://www.legislation.gov.uk/nisr/2026/162/article/2/g)
+[^c-ec9f63fec83cc643c70798d6a03ae448]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2026/7/section/8) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(g)](https://www.legislation.gov.uk/nisr/2026/162/article/2/g)
 
-[^key-5efd2cd092c70de04fec8103f1c90fee]: Commencement: S. 9 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
+[^c-5efd2cd092c70de04fec8103f1c90fee]: Commencement: S. 9 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
 
-[^key-ff2d71bf05aa2d80f3d337ff2a47a9c5]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2026/7/section/9) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(h)](https://www.legislation.gov.uk/nisr/2026/162/article/2/h)
+[^c-ff2d71bf05aa2d80f3d337ff2a47a9c5]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2026/7/section/9) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(h)](https://www.legislation.gov.uk/nisr/2026/162/article/2/h)
 
-[^key-b5eab20a86962c233dd2a62929803081]: Commencement: S. 10 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
+[^c-b5eab20a86962c233dd2a62929803081]: Commencement: S. 10 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
 
-[^key-ace6edb657b1b9ae44a6598f14633e5a]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2026/7/section/10) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(i)](https://www.legislation.gov.uk/nisr/2026/162/article/2/i)
+[^c-ace6edb657b1b9ae44a6598f14633e5a]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2026/7/section/10) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(i)](https://www.legislation.gov.uk/nisr/2026/162/article/2/i)
 
-[^key-c9601ce4562a6acfd8eff9284163e971]: Commencement: S. 11 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
+[^c-c9601ce4562a6acfd8eff9284163e971]: Commencement: S. 11 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
 
-[^key-52e69318f9a284a8c5336e8905eace84]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2026/7/section/11) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(j)](https://www.legislation.gov.uk/nisr/2026/162/article/2/j)
+[^c-52e69318f9a284a8c5336e8905eace84]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2026/7/section/11) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(j)](https://www.legislation.gov.uk/nisr/2026/162/article/2/j)
 
-[^key-a2271f386f5fb1abb5e61d1987ddb0e7]: Commencement: S. 12 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
+[^c-a2271f386f5fb1abb5e61d1987ddb0e7]: Commencement: S. 12 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
 
-[^key-c4b93301d5fd1ed7973928de56eb5cb1]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2026/7/section/12) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(k)](https://www.legislation.gov.uk/nisr/2026/162/article/2/k)
+[^c-c4b93301d5fd1ed7973928de56eb5cb1]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2026/7/section/12) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(k)](https://www.legislation.gov.uk/nisr/2026/162/article/2/k)
 
-[^key-a59b043f807545f549873743fc324fa3]: Commencement: S. 13 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
+[^c-a59b043f807545f549873743fc324fa3]: Commencement: S. 13 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
 
-[^key-221779a82c48816a50b1c57c2fd07d90]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2026/7/section/13) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(l)](https://www.legislation.gov.uk/nisr/2026/162/article/2/l)
+[^c-221779a82c48816a50b1c57c2fd07d90]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2026/7/section/13) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(l)](https://www.legislation.gov.uk/nisr/2026/162/article/2/l)
 
-[^key-10197c292768b26b698baf6a9604a15d]: Commencement: S. 14 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
+[^c-10197c292768b26b698baf6a9604a15d]: Commencement: S. 14 not in operation at Royal Assent, see [s. 15(1)(b)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/b)
 
-[^key-ad356d5516000069213e6de2ce12d2dc]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2026/7/section/14) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(m)](https://www.legislation.gov.uk/nisr/2026/162/article/2/m)
+[^c-ad356d5516000069213e6de2ce12d2dc]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2026/7/section/14) in operation at 23.9.2026 by [S.R. 2026/162](https://www.legislation.gov.uk/nisr/2026/162), [art. 2(m)](https://www.legislation.gov.uk/nisr/2026/162/article/2/m)
 
-[^key-6b9f84deb742e687bf99618c2682f920]: Commencement: S. 15 in operation at 10.7.2026, see [s. 15(1)(a)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/a)
+[^c-6b9f84deb742e687bf99618c2682f920]: Commencement: S. 15 in operation at 10.7.2026, see [s. 15(1)(a)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/a)
 
-[^key-f6004d7d73a33b45717380d5547abb22]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2026/7/section/15) in operation at 10.7.2026, see [s. 15(1)(a)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/a)
+[^c-f6004d7d73a33b45717380d5547abb22]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2026/7/section/15) in operation at 10.7.2026, see [s. 15(1)(a)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/a)
 
-[^key-ff08e9a7ef4b9df825a627b6f3969592]: Commencement: S. 16 in operation at 10.7.2026, see [s. 15(1)(a)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/a)
+[^c-ff08e9a7ef4b9df825a627b6f3969592]: Commencement: S. 16 in operation at 10.7.2026, see [s. 15(1)(a)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/a)
 
-[^key-88c1f9753dfa3309d8b5948df49f66cc]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2026/7/section/16) in operation at 10.7.2026, see [s. 15(1)(a)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/a)
+[^c-88c1f9753dfa3309d8b5948df49f66cc]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2026/7/section/16) in operation at 10.7.2026, see [s. 15(1)(a)](https://www.legislation.gov.uk/nia/2026/7/section/15/1/a)

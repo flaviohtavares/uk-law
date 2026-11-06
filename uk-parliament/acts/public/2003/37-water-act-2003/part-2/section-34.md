@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-1bf1811e4639d2abe7c41905bb500a5c] After section 1 of the Water Industry Act 1991 (c. 56) (in this Act referred to as the “**WIA**”) there is inserted—
+(1)[^c-1bf1811e4639d2abe7c41905bb500a5c] After section 1 of the Water Industry Act 1991 (c. 56) (in this Act referred to as the “**WIA**”) there is inserted—
 
 > **1A. Water Services Regulation Authority**
 >
@@ -32,14 +32,14 @@ summary: ''
 >
 > (4) In Welsh the Authority may be known as “Awdurdod Rheoleiddio Gwasanaethau Dŵr”.
 
-(2)[^key-539a70a79a49f3abe12bb4ba78f53439] Schedule 1 (which inserts the new Schedule 1A into the WIA) is to have effect.
+(2)[^c-539a70a79a49f3abe12bb4ba78f53439] Schedule 1 (which inserts the new Schedule 1A into the WIA) is to have effect.
 
-(3)[^key-1bf1811e4639d2abe7c41905bb500a5c] The office of Director General of Water Services is abolished.
+(3)[^c-1bf1811e4639d2abe7c41905bb500a5c] The office of Director General of Water Services is abolished.
 
-(4)[^key-1bf1811e4639d2abe7c41905bb500a5c] Section 1 of, and Schedule 1 to, the WIA (which make provision in relation to the Director General of Water Services) shall cease to have effect.
+(4)[^c-1bf1811e4639d2abe7c41905bb500a5c] Section 1 of, and Schedule 1 to, the WIA (which make provision in relation to the Director General of Water Services) shall cease to have effect.
 
 ## Annotations
 
-[^key-1bf1811e4639d2abe7c41905bb500a5c]: Commencement: [S. 34(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/34/1)[(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/34/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/37/section/34/4) in force at 1.4.2006 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(a)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/a) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-1bf1811e4639d2abe7c41905bb500a5c]: Commencement: [S. 34(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/34/1)[(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/34/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/37/section/34/4) in force at 1.4.2006 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(a)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/a) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-539a70a79a49f3abe12bb4ba78f53439]: Commencement: [S. 34(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/34/2) in force at 1.4.2006 for specified purposes by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(a)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/a) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-539a70a79a49f3abe12bb4ba78f53439]: Commencement: [S. 34(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/34/2) in force at 1.4.2006 for specified purposes by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(a)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/a) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))

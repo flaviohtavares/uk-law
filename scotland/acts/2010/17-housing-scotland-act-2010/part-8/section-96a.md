@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96A. Proposed restructuring of society[^key-340b3b007d5f45c76759e82d662f76a5]
+## 96A. Proposed restructuring of society[^c-340b3b007d5f45c76759e82d662f76a5]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-340b3b007d5f45c76759e82d662f76a5]: Textual amendment: S. 96A inserted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 6(3)](https://www.legislation.gov.uk/asp/2018/13/section/6/3), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-340b3b007d5f45c76759e82d662f76a5]: Textual amendment: S. 96A inserted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 6(3)](https://www.legislation.gov.uk/asp/2018/13/section/6/3), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)

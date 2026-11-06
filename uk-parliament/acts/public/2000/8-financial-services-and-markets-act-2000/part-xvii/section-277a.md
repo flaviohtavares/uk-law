@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 277A. Regular provision of information relating to compliance with requirements for recognition[^key-16a4a41e90595a8abafd1e6b1ec536db]
+## 277A. Regular provision of information relating to compliance with requirements for recognition[^c-16a4a41e90595a8abafd1e6b1ec536db]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16a4a41e90595a8abafd1e6b1ec536db]: Textual amendment: S. 277A inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/21)
+[^c-16a4a41e90595a8abafd1e6b1ec536db]: Textual amendment: S. 277A inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/21)

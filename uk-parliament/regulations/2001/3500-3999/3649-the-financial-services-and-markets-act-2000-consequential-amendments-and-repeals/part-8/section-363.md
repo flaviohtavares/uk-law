@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 363. Restriction on disclosure of information[^key-fd3f3c7c4b3f521179256ab246a06278]
+## 363. Restriction on disclosure of information[^c-fd3f3c7c4b3f521179256ab246a06278]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ For paragraph (c) of section 105(4) of the Utilities Act 2000 (restrictions on d
 
 ## Annotations
 
-[^key-fd3f3c7c4b3f521179256ab246a06278]: Commencement: Art. 363 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-fd3f3c7c4b3f521179256ab246a06278]: Commencement: Art. 363 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

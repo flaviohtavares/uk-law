@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26C. Listed building consent orders[^key-431ea34b552977fb856157fa9618c792][^key-62073637af46e93ffa58e93a68df792e]
+## 26C. Listed building consent orders[^c-431ea34b552977fb856157fa9618c792][^c-62073637af46e93ffa58e93a68df792e]
 
 *Extent: E+W*
 
-(1) The Secretary of State may by order (a “listed building consent order”) grant listed building consent under section 8(1) in respect of works of any description for the alteration or extension of listed buildings of any description [^key-b8c92c05d875e900ed080d17e42d1b4b]....
+(1) The Secretary of State may by order (a “listed building consent order”) grant listed building consent under section 8(1) in respect of works of any description for the alteration or extension of listed buildings of any description [^c-b8c92c05d875e900ed080d17e42d1b4b]....
 
 (2) The consent may be granted subject to conditions specified in the order.
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-431ea34b552977fb856157fa9618c792]: Modification: Ss. 7-29 applied (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
+[^c-431ea34b552977fb856157fa9618c792]: Modification: Ss. 7-29 applied (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
 
-[^key-62073637af46e93ffa58e93a68df792e]: Textual amendment: Ss. 26C-26G and cross-heading inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/60/3), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); S.I. 2014/416, art. 3(a)
+[^c-62073637af46e93ffa58e93a68df792e]: Textual amendment: Ss. 26C-26G and cross-heading inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/60/3), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); S.I. 2014/416, art. 3(a)
 
-[^key-b8c92c05d875e900ed080d17e42d1b4b]: Textual amendment: Words in [s. 26C(1)](https://www.legislation.gov.uk/ukpga/1990/9/section/26C/1) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 111](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/111) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-b8c92c05d875e900ed080d17e42d1b4b]: Textual amendment: Words in [s. 26C(1)](https://www.legislation.gov.uk/ukpga/1990/9/section/26C/1) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 111](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/111) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

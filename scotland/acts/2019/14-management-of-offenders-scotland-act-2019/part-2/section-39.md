@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Meaning of the 1974 Act[^key-b81e0bdedb65833349fe29d5e7598b39]
+## 39. Meaning of the 1974 Act[^c-b81e0bdedb65833349fe29d5e7598b39]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Part, “**the 1974 Act**” means the Rehabilitation of Offenders Act 1
 
 ## Annotations
 
-[^key-b81e0bdedb65833349fe29d5e7598b39]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2019/14/section/39) in force at 21.12.2019 by [S.S.I. 2019/413](https://www.legislation.gov.uk/ssi/2019/413), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/413/regulation/2/b)
+[^c-b81e0bdedb65833349fe29d5e7598b39]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2019/14/section/39) in force at 21.12.2019 by [S.S.I. 2019/413](https://www.legislation.gov.uk/ssi/2019/413), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/413/regulation/2/b)

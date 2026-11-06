@@ -37,13 +37,13 @@ Made
 
 The Treasury, in exercise of the powers conferred on them by section 49(5) of the Financial Services Act 2021[^f00001], make the following Regulations.
 
-## 1. Citation and interpretation[^key-5cfe984a28fe8da76164912abbea9e7d]
+## 1. Citation and interpretation[^c-5cfe984a28fe8da76164912abbea9e7d]
 
 (1) These Regulations may be cited as the Financial Services Act 2021 (Commencement No. 1) Regulations 2021.
 
 (2) In these Regulations, “the Act” means the Financial Services Act 2021.
 
-## 2. Provisions coming into force on 9th June 2021[^key-c3031deeb363b820249d67bb84a7bfd3]
+## 2. Provisions coming into force on 9th June 2021[^c-c3031deeb363b820249d67bb84a7bfd3]
 
 The following provisions of the Act come into force on 9th June 2021—
 
@@ -52,29 +52,29 @@ The following provisions of the Act come into force on 9th June 2021—
 - (c) section 5 (prudential regulation of credit institutions etc by PRA rules);
 - (d) Schedule 3 (prudential regulation of credit institutions etc).
 
-## 3. Provisions coming into force on 26th June 2021[^key-2975f0404ccb7004974f3d83da42e6e0]
+## 3. Provisions coming into force on 26th June 2021[^c-2975f0404ccb7004974f3d83da42e6e0]
 
 The following provisions of the Act come into force on 26th June 2021—
 
 - (a) section 7 (amendments of the Capital Requirements Regulation);
 - (b) in Schedule 4 (amendments of the Capital Requirements Regulation), paragraph 12.
 
-## 4. Provisions coming into force on 1st July 2021[^key-9342b78ed7e9fe1aaefa783c84bf068f]
+## 4. Provisions coming into force on 1st July 2021[^c-9342b78ed7e9fe1aaefa783c84bf068f]
 
 The following provisions of the Act come into force on 1st July 2021—
 
 - (a) section 2 (prudential regulation of certain investment firms by FCA rules);
 - (b) Schedule 2 (prudential regulation of FCA investment firms).
 
-## 5. Provisions coming into force on 1st January 2022[^key-9f9677c0dfd41c30d7401a108a2eff49]
+## 5. Provisions coming into force on 1st January 2022[^c-9f9677c0dfd41c30d7401a108a2eff49]
 
-(1)[^key-bd81b7f2ad954583c2f71bb6669a6971] The following provisions of the Act come into force on 1st January 2022—
+(1)[^c-bd81b7f2ad954583c2f71bb6669a6971] The following provisions of the Act come into force on 1st January 2022—
 
 - (a) section 1 (exclusion of certain investment firms from the Capital Requirements Regulation);
 - (b) Schedule 1 (exclusion of certain investment firms from the Capital Requirements Regulation: consequential amendments);
 - (c) Schedule 4 in so far as it is not already in force.
 
-(2)[^key-a2770792620061f8401e79f457ce4700] Where the effect of paragraph (1) is to remove the FCA’s power to make, modify, amend or revoke technical standards, the FCA shall retain the power to modify, amend or revoke any technical standards in force immediately before the 1st January 2022 which were—
+(2)[^c-a2770792620061f8401e79f457ce4700] Where the effect of paragraph (1) is to remove the FCA’s power to make, modify, amend or revoke technical standards, the FCA shall retain the power to modify, amend or revoke any technical standards in force immediately before the 1st January 2022 which were—
 
 - (a) adopted by the European Commission before IP completion day, or
 - (b) made by the FCA after IP completion day
@@ -109,16 +109,16 @@ An impact assessment has not been published for these Regulations as they have n
 
 [^f00001]: Footnote: [2021 c. 22](https://www.legislation.gov.uk/ukpga/2021/22).
 
-[^key-5cfe984a28fe8da76164912abbea9e7d]: Commencement: Reg. 1 in force at made date
+[^c-5cfe984a28fe8da76164912abbea9e7d]: Commencement: Reg. 1 in force at made date
 
-[^key-c3031deeb363b820249d67bb84a7bfd3]: Commencement: Reg. 2 in force at made date
+[^c-c3031deeb363b820249d67bb84a7bfd3]: Commencement: Reg. 2 in force at made date
 
-[^key-2975f0404ccb7004974f3d83da42e6e0]: Commencement: Reg. 3 in force at made date
+[^c-2975f0404ccb7004974f3d83da42e6e0]: Commencement: Reg. 3 in force at made date
 
-[^key-9342b78ed7e9fe1aaefa783c84bf068f]: Commencement: Reg. 4 in force at made date
+[^c-9342b78ed7e9fe1aaefa783c84bf068f]: Commencement: Reg. 4 in force at made date
 
-[^key-9f9677c0dfd41c30d7401a108a2eff49]: Commencement: Reg. 5 in force at made date
+[^c-9f9677c0dfd41c30d7401a108a2eff49]: Commencement: Reg. 5 in force at made date
 
-[^key-bd81b7f2ad954583c2f71bb6669a6971]: Textual amendment: Reg. 5 renumbered as reg. 5(1) (1.1.2022) by [The Financial Services Act 2021 (Commencement No. 1) (Amendment) (Savings Provision) Regulations 2021 (S.I. 2021/1163)](https://www.legislation.gov.uk/uksi/2021/1163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/2/2/a)
+[^c-bd81b7f2ad954583c2f71bb6669a6971]: Textual amendment: Reg. 5 renumbered as reg. 5(1) (1.1.2022) by [The Financial Services Act 2021 (Commencement No. 1) (Amendment) (Savings Provision) Regulations 2021 (S.I. 2021/1163)](https://www.legislation.gov.uk/uksi/2021/1163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/2/2/a)
 
-[^key-a2770792620061f8401e79f457ce4700]: Textual amendment: [Reg. 5(2)(3)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/2) inserted (1.1.2022) by [The Financial Services Act 2021 (Commencement No. 1) (Amendment) (Savings Provision) Regulations 2021 (S.I. 2021/1163)](https://www.legislation.gov.uk/uksi/2021/1163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/2/2/b)
+[^c-a2770792620061f8401e79f457ce4700]: Textual amendment: [Reg. 5(2)(3)](https://www.legislation.gov.uk/uksi/2021/671/regulation/5/2) inserted (1.1.2022) by [The Financial Services Act 2021 (Commencement No. 1) (Amendment) (Savings Provision) Regulations 2021 (S.I. 2021/1163)](https://www.legislation.gov.uk/uksi/2021/1163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1163/regulation/2/2/b)

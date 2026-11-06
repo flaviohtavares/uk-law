@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Power to establish operator licensing scheme[^key-230a790a0392b467c8b364897bf82572]
+## 12. Power to establish operator licensing scheme[^c-230a790a0392b467c8b364897bf82572]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-230a790a0392b467c8b364897bf82572]: Commencement: S. 12 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-230a790a0392b467c8b364897bf82572]: Commencement: S. 12 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Power to weight ratio[^key-2eda254a2961deeae48662cb377fcb32]
+## 45. Power to weight ratio[^c-2eda254a2961deeae48662cb377fcb32]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2eda254a2961deeae48662cb377fcb32]: Textual amendment: [Reg. 45](https://www.legislation.gov.uk/uksi/1986/1078/regulation/45) omitted (1.6.1995) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1995 (S.I. 1995/1201)](https://www.legislation.gov.uk/uksi/1995/1201), [regs. 1](https://www.legislation.gov.uk/uksi/1995/1201/regulation/1), [4](https://www.legislation.gov.uk/uksi/1995/1201/regulation/4)
+[^c-2eda254a2961deeae48662cb377fcb32]: Textual amendment: [Reg. 45](https://www.legislation.gov.uk/uksi/1986/1078/regulation/45) omitted (1.6.1995) by virtue of [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1995 (S.I. 1995/1201)](https://www.legislation.gov.uk/uksi/1995/1201), [regs. 1](https://www.legislation.gov.uk/uksi/1995/1201/regulation/1), [4](https://www.legislation.gov.uk/uksi/1995/1201/regulation/4)

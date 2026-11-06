@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 324. Transfer schemes[^key-276b01f0908bb5637da7f57d06ac8d7e]
+## 324. Transfer schemes[^c-276b01f0908bb5637da7f57d06ac8d7e]
 
 *Extent: E+W+S*
 
@@ -107,4 +107,4 @@ summary: ''
 
 ## Annotations
 
-[^key-276b01f0908bb5637da7f57d06ac8d7e]: Commencement: S. 324 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-276b01f0908bb5637da7f57d06ac8d7e]: Commencement: S. 324 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

@@ -31,7 +31,7 @@ Ancient Monuments and Archaeological Areas Act 1979
 
 An Act to consolidate and amend the law relating to ancient monuments; to make provision for the investigation, preservation and recording of matters of archaeological or historical interest and (in connection therewith) for the regulation of operations or activities affecting such matters; to provide for the recovery of grants under section 10 of the Town and Country Planning (Amendment) Act 1972 or under section 4 of the Historic Buildings and Ancient Monuments Act 1953 in certain circumstances; and to provide for grants by the Secretary of State to the Architectural Heritage Fund.
 
-\[4th April 1979\][^c250767][^c250768][^c250769][^c250770][^c250771][^c250772][^c250773][^c250774][^key-1d03845e7fcaacfccc83e0e7a716a64a][^key-f12dbd8a3cc2bfae62f843cf40e62b92][^key-4a8e1fe1520aea3d5f9afe9f7439f0fb][^key-e8700724b9aee3b9af8b8313168c0b56][^key-418579c3e5d5b66e9bf2af1e43f61717]
+\[4th April 1979\][^c250767][^c250768][^c250769][^c250770][^c250771][^c250772][^c250773][^c250774][^c-1d03845e7fcaacfccc83e0e7a716a64a][^c-f12dbd8a3cc2bfae62f843cf40e62b92][^c-4a8e1fe1520aea3d5f9afe9f7439f0fb][^c-e8700724b9aee3b9af8b8313168c0b56][^c-418579c3e5d5b66e9bf2af1e43f61717]
 
 ## Contents
 
@@ -71,14 +71,14 @@ An Act to consolidate and amend the law relating to ancient monuments; to make p
 - [Section 8 — Recovery of compensation under section 7 on subsequent grant of consent.](part-i/section-8.md)
 - [Section 9 — Compensation where works affecting a scheduled monument cease to be authorised.](part-i/section-9.md)
 
-#### ...[^key-92fcd48007be91995272475d95a8aa13]
+#### ...[^c-92fcd48007be91995272475d95a8aa13]
 
 *Extent: E+W*
 
 - [Section 9ZA — Heritage partnership agreement](part-i/section-9za.md)
 - [Section 9ZB — Heritage partnership agreement: supplemental](part-i/section-9zb.md)
 
-#### ...[^key-05728fe9d7f3c7e6a35b0d6b6949cbaa]
+#### ...[^c-05728fe9d7f3c7e6a35b0d6b6949cbaa]
 
 *Extent: E+W*
 
@@ -89,7 +89,7 @@ An Act to consolidate and amend the law relating to ancient monuments; to make p
 - [Section 9ZG — Failure to comply with scheduled monument enforcement notice](part-i/section-9zg.md)
 - [Section 9ZH — Effect of scheduled monument consent on notice](part-i/section-9zh.md)
 
-#### ...[^key-08dd63f4fecf51d5ac09f5fd521cb38b]
+#### ...[^c-08dd63f4fecf51d5ac09f5fd521cb38b]
 
 *Extent: E+W*
 
@@ -98,13 +98,13 @@ An Act to consolidate and amend the law relating to ancient monuments; to make p
 - [Section 9ZK — Temporary stop notice: offence](part-i/section-9zk.md)
 - [Section 9ZL — Temporary stop notice: compensation](part-i/section-9zl.md)
 
-#### ...[^key-181218906a4c33efc983c9914041b8c4]
+#### ...[^c-181218906a4c33efc983c9914041b8c4]
 
 *Extent: E+W*
 
 - [Section 9ZM — Injunctions](part-i/section-9zm.md)
 
-#### Scheduled monument enforcement notices[^key-c6b8474c40bc014f12b13fe95b0e62aa]
+#### Scheduled monument enforcement notices[^c-c6b8474c40bc014f12b13fe95b0e62aa]
 
 *Extent: S*
 
@@ -123,7 +123,7 @@ An Act to consolidate and amend the law relating to ancient monuments; to make p
 - [Section 9I — Compensation for loss due to stop notice](part-i/section-9i.md)
 - [Section 9J — Penalties for contravention of stop notice](part-i/section-9j.md)
 
-#### Temporary stop notices[^key-c6b8474c40bc014f12b13fe95b0e62aa]
+#### Temporary stop notices[^c-c6b8474c40bc014f12b13fe95b0e62aa]
 
 *Extent: S*
 
@@ -132,7 +132,7 @@ An Act to consolidate and amend the law relating to ancient monuments; to make p
 - [Section 9M — Temporary stop notices: offences](part-i/section-9m.md)
 - [Section 9N — Temporary stop notices: compensation](part-i/section-9n.md)
 
-#### Interdicts[^key-c6b8474c40bc014f12b13fe95b0e62aa]
+#### Interdicts[^c-c6b8474c40bc014f12b13fe95b0e62aa]
 
 *Extent: S*
 
@@ -180,7 +180,7 @@ An Act to consolidate and amend the law relating to ancient monuments; to make p
 - [Section 22 — Ancient Monuments Boards.](part-i/section-22.md)
 - [Section 23 — Annual reports of Ancient Monuments Boards.](part-i/section-23.md)
 
-#### Local inquiries[^key-92d6a12b0c10cfebf22c178369b3d1ee]
+#### Local inquiries[^c-92d6a12b0c10cfebf22c178369b3d1ee]
 
 *Extent: S*
 
@@ -199,7 +199,7 @@ An Act to consolidate and amend the law relating to ancient monuments; to make p
 - [Section 31 — Voluntary contributions towards expenditure under Part I.](part-i/section-31.md)
 - [Section 32 — Interpretation of Part I.](part-i/section-32.md)
 
-### Part 1A — Inventories of gardens and designed landscapes and of battlefields[^key-c5a82ccfb8c29955a55057f7233c2a11]
+### Part 1A — Inventories of gardens and designed landscapes and of battlefields[^c-c5a82ccfb8c29955a55057f7233c2a11]
 
 *Extent: S*
 
@@ -220,7 +220,7 @@ An Act to consolidate and amend the law relating to ancient monuments; to make p
 
 ### Part III — Miscellaneous and Supplemental
 
-#### ...[^key-3edfe6eb6048137e7110ef9af6ae0fc4]
+#### ...[^c-3edfe6eb6048137e7110ef9af6ae0fc4]
 
 *Extent: E+W*
 
@@ -304,32 +304,32 @@ SCHEDULES
 
 [^c250774]: Modification: Act (except Pt. II) extended (S.) (8.9.2000) by [2000 asp 10](https://www.legislation.gov.uk/asp/2000/10), [s. 36](https://www.legislation.gov.uk/asp/2000/10/section/36), [Sch. 5 para. 7](https://www.legislation.gov.uk/asp/2000/10/schedule/5/paragraph/7) (with [s. 32](https://www.legislation.gov.uk/asp/2000/10/section/32)); [S.I. 2000/312](https://www.legislation.gov.uk/uksi/2000/312), [art. 2](https://www.legislation.gov.uk/uksi/2000/312/article/2)
 
-[^key-1d03845e7fcaacfccc83e0e7a716a64a]: Modification: Act modified (30.5.2007) by [National Assembly for Wales Commission (Crown Status) (No.2) Order 2007 (S.I. 2007/1353)](https://www.legislation.gov.uk/uksi/2007/1353), [art. 3](https://www.legislation.gov.uk/uksi/2007/1353/article/3)
+[^c-1d03845e7fcaacfccc83e0e7a716a64a]: Modification: Act modified (30.5.2007) by [National Assembly for Wales Commission (Crown Status) (No.2) Order 2007 (S.I. 2007/1353)](https://www.legislation.gov.uk/uksi/2007/1353), [art. 3](https://www.legislation.gov.uk/uksi/2007/1353/article/3)
 
-[^key-f12dbd8a3cc2bfae62f843cf40e62b92]: Modification: Act restricted (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 9 para. 4(4)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/9/paragraph/4/4)
+[^c-f12dbd8a3cc2bfae62f843cf40e62b92]: Modification: Act restricted (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 9 para. 4(4)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/9/paragraph/4/4)
 
-[^key-4a8e1fe1520aea3d5f9afe9f7439f0fb]: Modification: Act transfer of functions (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1659/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-4a8e1fe1520aea3d5f9afe9f7439f0fb]: Modification: Act transfer of functions (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1659/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-e8700724b9aee3b9af8b8313168c0b56]: Modification: Act restricted (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 19 para. 1(4)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/19/paragraph/1/4)
+[^c-e8700724b9aee3b9af8b8313168c0b56]: Modification: Act restricted (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 19 para. 1(4)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/19/paragraph/1/4)
 
-[^key-418579c3e5d5b66e9bf2af1e43f61717]: Modification: Act modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 19 para. 1(4)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/19/paragraph/1/4)
+[^c-418579c3e5d5b66e9bf2af1e43f61717]: Modification: Act modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 19 para. 1(4)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/19/paragraph/1/4)
 
 [^c250775]: Modification: Pt. I (ss. 1-32) extended (E.W.) (19.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 70](https://www.legislation.gov.uk/ukpga/1995/25/section/70), [125(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/2), [Sch. 9 para.10(1)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/9/paragraph/10/1) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7))
 
-[^key-92fcd48007be91995272475d95a8aa13]: Textual amendment: [S. 9ZA cross-heading](https://www.legislation.gov.uk/ukpga/1979/46/part/I/crossheading/agreements-concerning-scheduled-monuments-etc-wales) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 28](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/28) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-92fcd48007be91995272475d95a8aa13]: Textual amendment: [S. 9ZA cross-heading](https://www.legislation.gov.uk/ukpga/1979/46/part/I/crossheading/agreements-concerning-scheduled-monuments-etc-wales) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 28](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/28) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-05728fe9d7f3c7e6a35b0d6b6949cbaa]: Textual amendment: [S. 9ZC cross-heading](https://www.legislation.gov.uk/ukpga/1979/46/part/I/crossheading/scheduled-monument-enforcement-notices) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 29](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/29) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-05728fe9d7f3c7e6a35b0d6b6949cbaa]: Textual amendment: [S. 9ZC cross-heading](https://www.legislation.gov.uk/ukpga/1979/46/part/I/crossheading/scheduled-monument-enforcement-notices) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 29](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/29) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-08dd63f4fecf51d5ac09f5fd521cb38b]: Textual amendment: [S. 9ZI cross-heading](https://www.legislation.gov.uk/ukpga/1979/46/part/I/crossheading/scheduled-monuments-temporary-stop-notices) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 30](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/30) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-08dd63f4fecf51d5ac09f5fd521cb38b]: Textual amendment: [S. 9ZI cross-heading](https://www.legislation.gov.uk/ukpga/1979/46/part/I/crossheading/scheduled-monuments-temporary-stop-notices) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 30](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/30) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-181218906a4c33efc983c9914041b8c4]: Textual amendment: [S. 9ZM and cross-heading](https://www.legislation.gov.uk/ukpga/1979/46/part/I/crossheading/scheduled-monuments-injunctions) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 31](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/31) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-181218906a4c33efc983c9914041b8c4]: Textual amendment: [S. 9ZM and cross-heading](https://www.legislation.gov.uk/ukpga/1979/46/part/I/crossheading/scheduled-monuments-injunctions) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 31](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/31) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-c6b8474c40bc014f12b13fe95b0e62aa]: Textual amendment: [Ss. 9A-9O](https://www.legislation.gov.uk/ukpga/1979/46/section/9A) and cross-heading inserted (S.) (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 6(1)](https://www.legislation.gov.uk/asp/2011/3/section/6/1), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule) (with savings in [S.S.I. 2015/239](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [8](https://www.legislation.gov.uk/ssi/2015/239/article/8))
+[^c-c6b8474c40bc014f12b13fe95b0e62aa]: Textual amendment: [Ss. 9A-9O](https://www.legislation.gov.uk/ukpga/1979/46/section/9A) and cross-heading inserted (S.) (30.6.2011 for specified purposes, 1.12.2011 in so far as not already in force) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 6(1)](https://www.legislation.gov.uk/asp/2011/3/section/6/1), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule) (with savings in [S.S.I. 2015/239](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [8](https://www.legislation.gov.uk/ssi/2015/239/article/8))
 
-[^key-92d6a12b0c10cfebf22c178369b3d1ee]: Textual amendment: [Ss. 23A](https://www.legislation.gov.uk/ukpga/1979/46/section/23A), [23B](https://www.legislation.gov.uk/ukpga/1979/46/section/23B) and cross-heading inserted (S.) (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [ss. 21(2)](https://www.legislation.gov.uk/asp/2014/19/section/21/2), [31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
+[^c-92d6a12b0c10cfebf22c178369b3d1ee]: Textual amendment: [Ss. 23A](https://www.legislation.gov.uk/ukpga/1979/46/section/23A), [23B](https://www.legislation.gov.uk/ukpga/1979/46/section/23B) and cross-heading inserted (S.) (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [ss. 21(2)](https://www.legislation.gov.uk/asp/2014/19/section/21/2), [31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule)
 
-[^key-c5a82ccfb8c29955a55057f7233c2a11]: Textual amendment: Pt. 1A inserted (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 11](https://www.legislation.gov.uk/asp/2011/3/section/11), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-c5a82ccfb8c29955a55057f7233c2a11]: Textual amendment: Pt. 1A inserted (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 11](https://www.legislation.gov.uk/asp/2011/3/section/11), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
 [^c251000]: Modification: Pt. II (ss. 33-41) extended (E.W.) (19.9.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [ss. 70](https://www.legislation.gov.uk/ukpga/1995/25/section/70), [125(2)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/2), [Sch. 9 para.10(1)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/9/paragraph/10/1) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7))
 
-[^key-3edfe6eb6048137e7110ef9af6ae0fc4]: Textual amendment: [S. 41A and cross-heading](https://www.legislation.gov.uk/ukpga/1979/46/part/III/crossheading/register-of-historic-parks-and-gardens-in-wales) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 38](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/38) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-3edfe6eb6048137e7110ef9af6ae0fc4]: Textual amendment: [S. 41A and cross-heading](https://www.legislation.gov.uk/ukpga/1979/46/part/III/crossheading/register-of-historic-parks-and-gardens-in-wales) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 38](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/38) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

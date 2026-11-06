@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Time limit for exercise of authority to temporarily use land for carrying out the authorised development[^key-9a1c304d3e1b035445268d571763759f]
+## 37. Time limit for exercise of authority to temporarily use land for carrying out the authorised development[^c-9a1c304d3e1b035445268d571763759f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a1c304d3e1b035445268d571763759f]: Commencement: Art. 37 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-9a1c304d3e1b035445268d571763759f]: Commencement: Art. 37 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

@@ -44,8 +44,8 @@ except to a person who is entitled under regulation 111 or 112 to purchase them.
 - (a) in data form, the fee shall be at the rate of £20 plus £1.50 for each 100 entries (or remaining part of 100 entries) in it; and
 - (b) in printed form, the fee shall be at the rate of £10 plus £5 for each 100 entries (or remaining part of 100 entries) in it.
 
-(7) In any copy of the full register which is sold in accordance with regulation 111 or 112, the letter “Z” shall be placed against the entry[^key-40d70e27742ba0351c7a607cbdf4fd4d] of any person whose entry is not included in the edited version of the register.
+(7) In any copy of the full register which is sold in accordance with regulation 111 or 112, the letter “Z” shall be placed against the entry[^c-40d70e27742ba0351c7a607cbdf4fd4d] of any person whose entry is not included in the edited version of the register.
 
 ## Annotations
 
-[^key-40d70e27742ba0351c7a607cbdf4fd4d]: Textual amendment: Word in [reg. 109(7)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/109/7) substituted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2014/1808/regulation/13)
+[^c-40d70e27742ba0351c7a607cbdf4fd4d]: Textual amendment: Word in [reg. 109(7)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/109/7) substituted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2014/1808/regulation/13)

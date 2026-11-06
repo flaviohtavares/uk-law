@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Expenses of voluntary arrangement[^key-402354d5fbf1170a860e2d854791d412]
+## 97. Expenses of voluntary arrangement[^c-402354d5fbf1170a860e2d854791d412]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a special administration order is made and a voluntary arrangement under P
 
 ## Annotations
 
-[^key-402354d5fbf1170a860e2d854791d412]: Commencement: Rule 97 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-402354d5fbf1170a860e2d854791d412]: Commencement: Rule 97 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

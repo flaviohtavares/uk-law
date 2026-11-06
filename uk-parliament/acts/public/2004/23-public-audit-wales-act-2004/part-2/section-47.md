@@ -33,9 +33,9 @@ summary: ''
 
 - (a) make arrangements for collecting and recording the information which secure that the information is available for publication and (so far as practicable) that everything published in pursuance of the direction is accurate and complete,
 - (b) publish the information in accordance with the direction and in a method permitted under section 48 before the end of the period of 9 months starting immediately after the end of the financial year, and
-- (c) in the case of a relevant body which is not a corporate joint committee,[^key-01a02a20bebd052c9e1f399ed32fac3e] keep a document containing any information published in pursuance of the direction available for inspection by local government electors for its area.
+- (c) in the case of a relevant body which is not a corporate joint committee,[^c-01a02a20bebd052c9e1f399ed32fac3e] keep a document containing any information published in pursuance of the direction available for inspection by local government electors for its area.
 
-(5) The Welsh Ministers[^key-8d10ddead012cdac53f2a7b16f1e718e] may by order vary the period specified in subsection (4)(b).
+(5) The Welsh Ministers[^c-8d10ddead012cdac53f2a7b16f1e718e] may by order vary the period specified in subsection (4)(b).
 
 (6) The period specified in an order under subsection (5) must not be longer than 9 months starting immediately after the end of the financial year in question.
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-01a02a20bebd052c9e1f399ed32fac3e]: Textual amendment: Words in [s. 47(4)(c)](https://www.legislation.gov.uk/ukpga/2004/23/section/47/4/c) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2022/797/regulation/3/3)
+[^c-01a02a20bebd052c9e1f399ed32fac3e]: Textual amendment: Words in [s. 47(4)(c)](https://www.legislation.gov.uk/ukpga/2004/23/section/47/4/c) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2022/797/regulation/3/3)
 
-[^key-8d10ddead012cdac53f2a7b16f1e718e]: Textual amendment: Words in [s. 47(5)](https://www.legislation.gov.uk/ukpga/2004/23/section/47/5) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 51](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/51) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-8d10ddead012cdac53f2a7b16f1e718e]: Textual amendment: Words in [s. 47(5)](https://www.legislation.gov.uk/ukpga/2004/23/section/47/5) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 51](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/51) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 227. Costs paid otherwise than out of the institution’s estate[^key-94b6937ae3e59e988bd6c045d7348fcb]
+## 227. Costs paid otherwise than out of the institution’s estate[^c-94b6937ae3e59e988bd6c045d7348fcb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the amount of costs is decided by detailed assessment under an order of th
 
 ## Annotations
 
-[^key-94b6937ae3e59e988bd6c045d7348fcb]: Commencement: Rule 227 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-94b6937ae3e59e988bd6c045d7348fcb]: Commencement: Rule 227 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

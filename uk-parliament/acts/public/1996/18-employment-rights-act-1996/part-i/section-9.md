@@ -23,7 +23,7 @@ summary: ''
 (1) A pay statement given in accordance with section 8 need not contain separate particulars of a fixed deduction if—
 
 - (a) it contains instead an aggregate amount of fixed deductions, including that deduction, and
-- (b) the employer has given to the worker[^key-3ad3b299fd4da89666729036dc86eb7d], at or before the time at which the pay statement is given, a standing statement of fixed deductions which satisfies subsection (2).
+- (b) the employer has given to the worker[^c-3ad3b299fd4da89666729036dc86eb7d], at or before the time at which the pay statement is given, a standing statement of fixed deductions which satisfies subsection (2).
 
 (2) A standing statement of fixed deductions satisfies this subsection if—
 
@@ -42,7 +42,7 @@ summary: ''
 
 by notice in writing, containing particulars of the amendment, given by the employer to the worker.
 
-(4) An employer who has given to a worker[^key-65aca195be068e08e93831b1e3cf689f] a standing statement of fixed deductions shall—
+(4) An employer who has given to a worker[^c-65aca195be068e08e93831b1e3cf689f] a standing statement of fixed deductions shall—
 
 - (a) within the period of twelve months beginning with the date on which the first standing statement was given, and
 - (b) at intervals of not more than twelve months afterwards,
@@ -56,6 +56,6 @@ re-issue it in a consolidated form incorporating any amendments notified in acco
 
 ## Annotations
 
-[^key-3ad3b299fd4da89666729036dc86eb7d]: Textual amendment: Words in s. 9 substituted (6.4.2019) by [The Employment Rights Act 1996 (Itemised Pay Statement) (Amendment) (No. 2) Order 2018 (S.I. 2018/529)](https://www.legislation.gov.uk/uksi/2018/529), [arts. 1](https://www.legislation.gov.uk/uksi/2018/529/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/529/article/2/3/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/529/article/3))
+[^c-3ad3b299fd4da89666729036dc86eb7d]: Textual amendment: Words in s. 9 substituted (6.4.2019) by [The Employment Rights Act 1996 (Itemised Pay Statement) (Amendment) (No. 2) Order 2018 (S.I. 2018/529)](https://www.legislation.gov.uk/uksi/2018/529), [arts. 1](https://www.legislation.gov.uk/uksi/2018/529/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2018/529/article/2/3/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/529/article/3))
 
-[^key-65aca195be068e08e93831b1e3cf689f]: Textual amendment: Words in s. 9(4) substituted (6.4.2019) by [The Employment Rights Act 1996 (Itemised Pay Statement) (Amendment) (No. 2) Order 2018 (S.I. 2018/529)](https://www.legislation.gov.uk/uksi/2018/529), [arts. 1](https://www.legislation.gov.uk/uksi/2018/529/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/529/article/2/3/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/529/article/3))
+[^c-65aca195be068e08e93831b1e3cf689f]: Textual amendment: Words in s. 9(4) substituted (6.4.2019) by [The Employment Rights Act 1996 (Itemised Pay Statement) (Amendment) (No. 2) Order 2018 (S.I. 2018/529)](https://www.legislation.gov.uk/uksi/2018/529), [arts. 1](https://www.legislation.gov.uk/uksi/2018/529/article/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2018/529/article/2/3/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/529/article/3))

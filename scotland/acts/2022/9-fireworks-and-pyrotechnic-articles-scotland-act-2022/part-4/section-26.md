@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Application of Part[^key-484a48eb84b9180306388e41710e7d54][^key-025c8db6b95b4dd741d6f488e2624f07]
+## 26. Application of Part[^c-484a48eb84b9180306388e41710e7d54][^c-025c8db6b95b4dd741d6f488e2624f07]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-484a48eb84b9180306388e41710e7d54]: Commencement: S. 26 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-484a48eb84b9180306388e41710e7d54]: Commencement: S. 26 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-025c8db6b95b4dd741d6f488e2624f07]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2022/9/section/26) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)
+[^c-025c8db6b95b4dd741d6f488e2624f07]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2022/9/section/26) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)

@@ -84,11 +84,11 @@ where BR is the official Bank rate determined by the Bank of England Monetary Po
 (15) In this section—
 
 - “**the Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs;
-- “**taxation matter**” means anything[^key-d3b2ebc39403b4eed2dc43640d6014d2]... the collection and management of which is the responsibility of the Commissioners (or was the responsibility of the Commissioners of Inland Revenue or Commissioners of Customs and Excise);
+- “**taxation matter**” means anything[^c-d3b2ebc39403b4eed2dc43640d6014d2]... the collection and management of which is the responsibility of the Commissioners (or was the responsibility of the Commissioners of Inland Revenue or Commissioners of Customs and Excise);
 - “**working day**” means any day other than a non-business day as defined in section 92 of the Bills of Exchange Act 1882.
 
 (16) This section extends to England and Wales only.
 
 ## Annotations
 
-[^key-d3b2ebc39403b4eed2dc43640d6014d2]: Textual amendment: Words in s. 52(15) omitted (15.9.2016 with effect in accordance with s. 172(2) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 172(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/172/1)
+[^c-d3b2ebc39403b4eed2dc43640d6014d2]: Textual amendment: Words in s. 52(15) omitted (15.9.2016 with effect in accordance with s. 172(2) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 172(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/172/1)

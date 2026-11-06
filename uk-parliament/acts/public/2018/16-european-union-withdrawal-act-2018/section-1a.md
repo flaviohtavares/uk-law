@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Saving for ECA for implementation period[^key-8ef4588bb5320892c0c10731ab23234a]
+## 1A. Saving for ECA for implementation period[^c-8ef4588bb5320892c0c10731ab23234a]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ef4588bb5320892c0c10731ab23234a]: Textual amendment: S. 1A and cross-heading inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/1/section/1), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/a)
+[^c-8ef4588bb5320892c0c10731ab23234a]: Textual amendment: S. 1A and cross-heading inserted (31.1.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/1/section/1), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/a)

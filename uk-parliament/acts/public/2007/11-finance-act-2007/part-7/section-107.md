@@ -33,7 +33,7 @@ summary: ''
 
 (5) And any payment made to satisfy a liability under the judgment which (in consequence of subsection (4)) is to be taken not to have been imposed is repayable (with interest from the date of the payment).
 
-(5A)[^key-cd5b04cc58ffe07c72dce9f72e07c5b6] Subsection (1) also does not have effect in relation to an action, or so much of an action as relates to a cause of action, if the consequences of a mistake of law to which the action, or cause of action, relates is the charging of tax contrary to EU law.
+(5A)[^c-cd5b04cc58ffe07c72dce9f72e07c5b6] Subsection (1) also does not have effect in relation to an action, or so much of an action as relates to a cause of action, if the consequences of a mistake of law to which the action, or cause of action, relates is the charging of tax contrary to EU law.
 
 (6) In this section—
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd5b04cc58ffe07c72dce9f72e07c5b6]: Textual amendment: [S. 107(5A)](https://www.legislation.gov.uk/ukpga/2007/11/section/107/5A) inserted (with effect in accordance with s. 299(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 299(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/299/1)
+[^c-cd5b04cc58ffe07c72dce9f72e07c5b6]: Textual amendment: [S. 107(5A)](https://www.legislation.gov.uk/ukpga/2007/11/section/107/5A) inserted (with effect in accordance with s. 299(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 299(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/299/1)

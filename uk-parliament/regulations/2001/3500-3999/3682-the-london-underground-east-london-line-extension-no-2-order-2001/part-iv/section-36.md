@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. For the protection of Railtrack[^key-bedafa79c7009df0d76d37734133b39d]
+## 36. For the protection of Railtrack[^c-bedafa79c7009df0d76d37734133b39d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ If the powers of the Company under this Order to construct the authorised works 
 
 ## Annotations
 
-[^key-bedafa79c7009df0d76d37734133b39d]: Commencement: Art. 36 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-bedafa79c7009df0d76d37734133b39d]: Commencement: Art. 36 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

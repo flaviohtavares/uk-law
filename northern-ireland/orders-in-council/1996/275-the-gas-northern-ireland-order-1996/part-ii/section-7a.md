@@ -27,7 +27,7 @@ summary: ''
 - (a) the distribution system is not used for the purpose of supplying gas to household customers, or is used to supply fewer than 50 household customers who—
   - (i) are employees of, or work for or otherwise render services to, the conveyance exemption holder or a person related to the conveyance exemption holder; and
   - (ii) take a supply of gas that is wholly or mainly from a gas production site embedded in the distribution system;
-- (b) the distribution system is wholly or mainly used for distributing gas within a geographically self contained industrial, commercial or shared services site and is not integrated with any pipe-line[^key-4cedc7e64a78cf7fe93232a2ff0656fb] system operated by the holder of a licence under Article 8(1)(a); and
+- (b) the distribution system is wholly or mainly used for distributing gas within a geographically self contained industrial, commercial or shared services site and is not integrated with any pipe-line[^c-4cedc7e64a78cf7fe93232a2ff0656fb] system operated by the holder of a licence under Article 8(1)(a); and
 - (c) the distribution system is wholly or mainly used either—
   - (i) by system users whose businesses, for technical or safety related reasons, have operational or production premises that are integrated with those of other system users of that distribution system; or
   - (ii) for the purpose of supplying gas to premises owned or occupied by the conveyance exemption holder or by a person related to the conveyance exemption holder.
@@ -49,4 +49,4 @@ summary: ''
 
 [^c21794631]: Textual amendment: [Arts. 7A-7D](https://www.legislation.gov.uk/nisi/1996/275/article/7A) inserted (12.4.2013) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [reg. 16](https://www.legislation.gov.uk/nisr/2013/92/regulation/16)
 
-[^key-4cedc7e64a78cf7fe93232a2ff0656fb]: Textual amendment: Word in [art. 7A(2)](https://www.legislation.gov.uk/nisi/1996/275/article/7A/2) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2020/279/regulation/5/a)
+[^c-4cedc7e64a78cf7fe93232a2ff0656fb]: Textual amendment: Word in [art. 7A(2)](https://www.legislation.gov.uk/nisi/1996/275/article/7A/2) substituted (16.12.2020) by [The Gas (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/279)](https://www.legislation.gov.uk/nisr/2020/279), [regs. 1](https://www.legislation.gov.uk/nisr/2020/279/regulation/1), [5(a)](https://www.legislation.gov.uk/nisr/2020/279/regulation/5/a)

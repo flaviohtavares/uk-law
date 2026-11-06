@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160A. Prizes: freeplay[^key-ffbd73742484a224a89107df4f1b9002]
+## 160A. Prizes: freeplay[^c-ffbd73742484a224a89107df4f1b9002]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffbd73742484a224a89107df4f1b9002]: Textual amendment: [S. 160A](https://www.legislation.gov.uk/ukpga/2014/26/section/160A) inserted (with effect in accordance with s. 46(9) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(5)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/5)
+[^c-ffbd73742484a224a89107df4f1b9002]: Textual amendment: [S. 160A](https://www.legislation.gov.uk/ukpga/2014/26/section/160A) inserted (with effect in accordance with s. 46(9) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(5)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/5)

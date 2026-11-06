@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Average weekly earnings of employed earners[^key-efeb19e066dd4638207bd2439d56b7c8]
+## 12. Average weekly earnings of employed earners[^c-efeb19e066dd4638207bd2439d56b7c8]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efeb19e066dd4638207bd2439d56b7c8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1988/1890/regulation/12) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-efeb19e066dd4638207bd2439d56b7c8]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1988/1890/regulation/12) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

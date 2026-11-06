@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Historical inability of unmarried fathers to transmit citizenship[^key-13b9f44e3c088ae508be6b933808652d][^key-e2a38593af1a6bc7633e5643e28f6a35]
+## 2. Historical inability of unmarried fathers to transmit citizenship[^c-13b9f44e3c088ae508be6b933808652d][^c-e2a38593af1a6bc7633e5643e28f6a35]
 
 *Extent: E+W+S+N.I.*
 
@@ -180,6 +180,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13b9f44e3c088ae508be6b933808652d]: Commencement: S. 2 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-13b9f44e3c088ae508be6b933808652d]: Commencement: S. 2 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-e2a38593af1a6bc7633e5643e28f6a35]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/36/section/2) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/2)
+[^c-e2a38593af1a6bc7633e5643e28f6a35]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/36/section/2) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/2)

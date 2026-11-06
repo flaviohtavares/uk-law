@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 260. Notice etc to joint administrators[^key-3848a3d3d38b7b0cb3ea851c94f35276]
+## 260. Notice etc to joint administrators[^c-3848a3d3d38b7b0cb3ea851c94f35276]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where there are joint office-holders in a special administration, delivery of a 
 
 ## Annotations
 
-[^key-3848a3d3d38b7b0cb3ea851c94f35276]: Commencement: [Rule 260](https://www.legislation.gov.uk/nisr/2026/11/rule/260) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-3848a3d3d38b7b0cb3ea851c94f35276]: Commencement: [Rule 260](https://www.legislation.gov.uk/nisr/2026/11/rule/260) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

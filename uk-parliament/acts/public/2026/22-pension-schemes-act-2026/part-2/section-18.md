@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Compliance and oversight[^key-eb6fb88561a68139d709c1fcdf8d9220]
+## 18. Compliance and oversight[^c-eb6fb88561a68139d709c1fcdf8d9220]
 
 *Extent: E+W+S*
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb6fb88561a68139d709c1fcdf8d9220]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-eb6fb88561a68139d709c1fcdf8d9220]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

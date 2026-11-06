@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 116. Furnishing to workers of information with respect to this Act and orders and regulations thereunder.[^key-00ba88b257305765435affc0f334f395]
+## 116. Furnishing to workers of information with respect to this Act and orders and regulations thereunder.[^c-00ba88b257305765435affc0f334f395]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00ba88b257305765435affc0f334f395]: Textual amendment: [Ss. 112-116](https://www.legislation.gov.uk/apni/1969/6/section/112) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-00ba88b257305765435affc0f334f395]: Textual amendment: [Ss. 112-116](https://www.legislation.gov.uk/apni/1969/6/section/112) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

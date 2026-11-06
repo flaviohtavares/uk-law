@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105Z14. Power of OFCOM to give inspection notices[^key-b7d57fddcf8e5db37ec2b62ef9c4c3b4]
+## 105Z14. Power of OFCOM to give inspection notices[^c-b7d57fddcf8e5db37ec2b62ef9c4c3b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7d57fddcf8e5db37ec2b62ef9c4c3b4]: Textual amendment: [Ss. 105Z14-105Z17](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z14) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/19/2), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-b7d57fddcf8e5db37ec2b62ef9c4c3b4]: Textual amendment: [Ss. 105Z14-105Z17](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z14) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/19/2), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)

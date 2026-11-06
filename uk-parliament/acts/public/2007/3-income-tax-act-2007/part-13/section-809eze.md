@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809EZE. Interpretation of Chapter[^key-be3329172140d2b2dd1606d8d16f11da]
+## 809EZE. Interpretation of Chapter[^c-be3329172140d2b2dd1606d8d16f11da]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,14 +25,14 @@ summary: ''
 - “**arrangements**” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable);
 - “**collective investment scheme**” has the meaning given by section 235 of FISMA 2000;
 - “**external investor**”, in relation to an investment scheme and any arrangements, means a participant in the scheme other than—
-  - (a) an individual who at any time performs or is to perform[^key-780324f409421848da49ad876d179289] investment management services directly or indirectly in respect of the scheme, or
+  - (a) an individual who at any time performs or is to perform[^c-780324f409421848da49ad876d179289] investment management services directly or indirectly in respect of the scheme, or
   - (b) a person through whom sums are to, or may, arise directly or indirectly to such an individual from the scheme under the arrangements;
 - “**investment management services**”, in relation to an investment scheme, includes—
-  - (za) the provision of investment advice,[^key-a8920e85dc2695f0641e68d08103413b]
+  - (za) the provision of investment advice,[^c-a8920e85dc2695f0641e68d08103413b]
   - (a) seeking funds for the purposes of the scheme from participants or potential participants,
   - (b) researching potential investments to be made for the purposes of the scheme,
-  - (c) acquiring, managing or disposing of property for the purposes of the scheme, [^key-b0d805a6b610c33dc879a9a5f822e4ed]...
-  - (d) acting for the purposes of the scheme with a view to assisting a body in which the scheme has made an investment to raise funds , and[^key-8a494ec24e15f514e1d9a9695a87c500]
+  - (c) acquiring, managing or disposing of property for the purposes of the scheme, [^c-b0d805a6b610c33dc879a9a5f822e4ed]...
+  - (d) acting for the purposes of the scheme with a view to assisting a body in which the scheme has made an investment to raise funds , and[^c-8a494ec24e15f514e1d9a9695a87c500]
   - (e) any activity incidental or ancillary to any activity mentioned in paragraphs (za) to (d);
 - “**investment trust**” means a company in relation to which conditions A to C in section 1158 of CTA 2010 are met (or treated as met); and for this purpose “**company**” has the meaning given by section 1121 of CTA 2010;
 - “**market value**” has the same meaning as in TCGA 1992 (see sections 272 and 273 of that Act);
@@ -43,10 +43,10 @@ summary: ''
 
 (2) In this Chapter a reference to an investment made by a person in an investment scheme is a reference to a contribution by the person (whether by way of capital, loan or otherwise) towards the property subject to the scheme (but does not include a sum committed but not yet invested).
 
-(3) For the purposes of subsection (2) a person who holds a direct or indirect interest in an investment scheme and who acquired the interest[^key-cab6229147471e830baab63c3075ae64] from a person other than the scheme is to be taken to have made a contribution towards the property subject to the scheme equal to—
+(3) For the purposes of subsection (2) a person who holds a direct or indirect interest in an investment scheme and who acquired the interest[^c-cab6229147471e830baab63c3075ae64] from a person other than the scheme is to be taken to have made a contribution towards the property subject to the scheme equal to—
 
-- (a) the consideration given by the person for the acquisition of the interest[^key-b3244d3958dd56576e6430b5db08c631], or
-- (b) if less, the market value of the interest[^key-4c93f7fc4cbc144488e9b0e08bc36f75] at the time of the acquisition.
+- (a) the consideration given by the person for the acquisition of the interest[^c-b3244d3958dd56576e6430b5db08c631], or
+- (b) if less, the market value of the interest[^c-4c93f7fc4cbc144488e9b0e08bc36f75] at the time of the acquisition.
 
 (4) In this Chapter, in relation to an investment scheme which is a company limited by shares—
 
@@ -59,18 +59,18 @@ summary: ''
 
 ## Annotations
 
-[^key-be3329172140d2b2dd1606d8d16f11da]: Textual amendment: Pt. 13 Ch. 5E inserted (with effect in accordance with s. 21(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/21/1)
+[^c-be3329172140d2b2dd1606d8d16f11da]: Textual amendment: Pt. 13 Ch. 5E inserted (with effect in accordance with s. 21(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 21(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/21/1)
 
-[^key-780324f409421848da49ad876d179289]: Textual amendment: Words in s. 809EZE(1) substituted (with effect in accordance with s. 36(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 36(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/36/4)
+[^c-780324f409421848da49ad876d179289]: Textual amendment: Words in s. 809EZE(1) substituted (with effect in accordance with s. 36(5) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 36(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/36/4)
 
-[^key-a8920e85dc2695f0641e68d08103413b]: Textual amendment: Words in s. 809EZE(1) inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(7)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/7/a/i)
+[^c-a8920e85dc2695f0641e68d08103413b]: Textual amendment: Words in s. 809EZE(1) inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(7)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/7/a/i)
 
-[^key-b0d805a6b610c33dc879a9a5f822e4ed]: Textual amendment: Word in s. 809EZE(1) omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(7)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/7/a/ii)
+[^c-b0d805a6b610c33dc879a9a5f822e4ed]: Textual amendment: Word in s. 809EZE(1) omitted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(7)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/7/a/ii)
 
-[^key-8a494ec24e15f514e1d9a9695a87c500]: Textual amendment: Words in s. 809EZE(1) inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(7)(a)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/7/a/iii)
+[^c-8a494ec24e15f514e1d9a9695a87c500]: Textual amendment: Words in s. 809EZE(1) inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(7)(a)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/7/a/iii)
 
-[^key-cab6229147471e830baab63c3075ae64]: Textual amendment: Words in s. 809EZE(3) substituted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(7)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/7/b)
+[^c-cab6229147471e830baab63c3075ae64]: Textual amendment: Words in s. 809EZE(3) substituted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(7)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/7/b)
 
-[^key-b3244d3958dd56576e6430b5db08c631]: Textual amendment: Word in s. 809EZE(3)(a) substituted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(7)(c)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/7/c)
+[^c-b3244d3958dd56576e6430b5db08c631]: Textual amendment: Word in s. 809EZE(3)(a) substituted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(7)(c)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/7/c)
 
-[^key-4c93f7fc4cbc144488e9b0e08bc36f75]: Textual amendment: Word in s. 809EZE(3)(b) substituted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(7)(c)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/7/c)
+[^c-4c93f7fc4cbc144488e9b0e08bc36f75]: Textual amendment: Word in s. 809EZE(3)(b) substituted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 3(7)(c)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/3/7/c)

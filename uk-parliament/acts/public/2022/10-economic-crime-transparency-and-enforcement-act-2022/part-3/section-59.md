@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Urgent designation of persons by description[^key-1e5504481466748df56e5d3511d3356b]
+## 59. Urgent designation of persons by description[^c-1e5504481466748df56e5d3511d3356b]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,4 +95,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e5504481466748df56e5d3511d3356b]: Commencement: S. 59 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-1e5504481466748df56e5d3511d3356b]: Commencement: S. 59 in force at Royal Assent, see [s. 69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

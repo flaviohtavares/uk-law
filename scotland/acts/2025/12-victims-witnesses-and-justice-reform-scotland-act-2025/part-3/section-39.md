@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Notification of individual other than supporter to receive information[^key-3c1554f500ff7a5ca93e5143c784cab2]
+## 39. Notification of individual other than supporter to receive information[^c-3c1554f500ff7a5ca93e5143c784cab2]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ Part 2 of schedule 3 modifies the Criminal Justice (Scotland) Act 2003 to make p
 
 ## Annotations
 
-[^key-3c1554f500ff7a5ca93e5143c784cab2]: Commencement: S. 39 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-3c1554f500ff7a5ca93e5143c784cab2]: Commencement: S. 39 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

@@ -30,7 +30,7 @@ summary: ''
 
 RADIOACTIVE SUBSTANCES
 
-The Radioactive Substances (Basic Safety Standards) (Scotland) Regulations 2000 (revoked)[^key-88e62138c2ab92726c7e39fa3b6074b7]
+The Radioactive Substances (Basic Safety Standards) (Scotland) Regulations 2000 (revoked)[^c-88e62138c2ab92726c7e39fa3b6074b7]
 
 Made
 
@@ -44,24 +44,24 @@ Coming into force
 
 13th May 2000
 
-[^key-88e62138c2ab92726c7e39fa3b6074b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88e62138c2ab92726c7e39fa3b6074b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-88e62138c2ab92726c7e39fa3b6074b7]
+## 1. Citation, commencement and extent[^c-88e62138c2ab92726c7e39fa3b6074b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Radioactive Substances Act 1993[^key-88e62138c2ab92726c7e39fa3b6074b7]
+## 2. Amendment of the Radioactive Substances Act 1993[^c-88e62138c2ab92726c7e39fa3b6074b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88e62138c2ab92726c7e39fa3b6074b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88e62138c2ab92726c7e39fa3b6074b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-88e62138c2ab92726c7e39fa3b6074b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88e62138c2ab92726c7e39fa3b6074b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-88e62138c2ab92726c7e39fa3b6074b7]: Textual amendment: Regulations revoked (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/2) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/4))
+[^c-88e62138c2ab92726c7e39fa3b6074b7]: Textual amendment: Regulations revoked (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/2) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/4))

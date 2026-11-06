@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Procedure for offences by unincorporated bodies[^key-9d3f3dddd54e36f89eaf808dc2366a6d]
+## 69. Procedure for offences by unincorporated bodies[^c-9d3f3dddd54e36f89eaf808dc2366a6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9d3f3dddd54e36f89eaf808dc2366a6d]: Commencement: Reg. 69 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-9d3f3dddd54e36f89eaf808dc2366a6d]: Commencement: Reg. 69 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
 
 [^c24411951]: Marginal citation: [1925 c.86](https://www.legislation.gov.uk/ukpga/1925/86). Section 33 was amended by the [Statute Law (Repeals) Act 2004 (c.14)](https://www.legislation.gov.uk/ukpga/2004/14), [section 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1) and Schedule 1, Part 17. Other amendments have been made to section 33 that are not relevant to these Regulations.
 

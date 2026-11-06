@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Fitness of premises[^key-33833c5b6050bcf2ca644db09f4b04df]
+## 25. Fitness of premises[^c-33833c5b6050bcf2ca644db09f4b04df]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33833c5b6050bcf2ca644db09f4b04df]: Commencement: Reg. 25 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-33833c5b6050bcf2ca644db09f4b04df]: Commencement: Reg. 25 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)

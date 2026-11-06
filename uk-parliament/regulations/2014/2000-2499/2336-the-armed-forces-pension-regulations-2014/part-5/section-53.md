@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Deferment of accrued earned pension attributable to a transfer payment[^key-b0900565dccfb378e7ff06a47ab5ad64]
+## 53. Deferment of accrued earned pension attributable to a transfer payment[^c-b0900565dccfb378e7ff06a47ab5ad64]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0900565dccfb378e7ff06a47ab5ad64]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2014/2336/regulation/53) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-b0900565dccfb378e7ff06a47ab5ad64]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2014/2336/regulation/53) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

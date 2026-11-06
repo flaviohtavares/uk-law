@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Fit and proper person: information sharing[^key-893843493636729299758d421729690e]
+## 73. Fit and proper person: information sharing[^c-893843493636729299758d421729690e]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ After section 32P of the 1960 Act (inserted by section 72), insert—
 
 ## Annotations
 
-[^key-893843493636729299758d421729690e]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2014/14/section/73) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-893843493636729299758d421729690e]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2014/14/section/73) in force at 1.5.2017 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

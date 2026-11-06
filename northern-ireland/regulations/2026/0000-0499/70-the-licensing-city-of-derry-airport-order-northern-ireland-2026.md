@@ -46,11 +46,11 @@ In accordance with Article 53(2)(a) of that Order, it appears to the Department 
 
 In accordance with Article 53(2)(b) of that Order, the Department is satisfied that arrangements have been made for affording reasonable facilities on licensed premises within the examination station approved for that airport under section 22 of the Customs and Excise Management Act 1979 [^f00004] for obtaining hot and cold beverages other than intoxicating liquor at all times when such liquor is obtainable for consumption in the premises.
 
-## 1. Citation and commencement[^key-5b53260eaeedd9e31af7839bb4c503ba]
+## 1. Citation and commencement[^c-5b53260eaeedd9e31af7839bb4c503ba]
 
 This Order may be cited as The Licensing (City of Derry Airport) Order (Northern Ireland) 2026 and shall come into operation on 2nd April 2026.
 
-## 2. Specification of airport[^key-50714bfa9d8522f93c12c1d89916f3f1]
+## 2. Specification of airport[^c-50714bfa9d8522f93c12c1d89916f3f1]
 
 City of Derry Airport is specified as an international airport.
 
@@ -80,6 +80,6 @@ Article 41 of the Licensing (Northern Ireland) Order 1996 prohibits the sale, pu
 
 [^f00004]: Footnote: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2)
 
-[^key-5b53260eaeedd9e31af7839bb4c503ba]: Commencement: Art. 1 in operation at 2.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/70/article/1)
+[^c-5b53260eaeedd9e31af7839bb4c503ba]: Commencement: Art. 1 in operation at 2.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/70/article/1)
 
-[^key-50714bfa9d8522f93c12c1d89916f3f1]: Commencement: Art. 2 in operation at 2.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/70/article/1)
+[^c-50714bfa9d8522f93c12c1d89916f3f1]: Commencement: Art. 2 in operation at 2.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/70/article/1)

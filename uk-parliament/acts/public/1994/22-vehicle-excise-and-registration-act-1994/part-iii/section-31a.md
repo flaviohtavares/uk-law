@@ -29,14 +29,14 @@ summary: ''
 - (a) it is an exempt vehicle in respect of which regulations under this Act require a nil licence to be in force and a nil licence is in force in respect of the vehicle, or
 - (b) it is an exempt vehicle that is not one in respect of which regulations under this Act require a nil licence to be in force.
 
-(4) Where a vehicle for which a vehicle licence is in force is transferred by the holder of the licence to another person, the licence is to be treated for the purposes of subsection (2) as no longer in force [^key-c35d9f690e01650571badfe4042de06c]... .
+(4) Where a vehicle for which a vehicle licence is in force is transferred by the holder of the licence to another person, the licence is to be treated for the purposes of subsection (2) as no longer in force [^c-c35d9f690e01650571badfe4042de06c]... .
 
-(5)[^key-48d7a900140bd715c9c90a6126e15344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-48d7a900140bd715c9c90a6126e15344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c19076081]: Modification: S. 31A excluded (27.11.2003) by The Finance Act 2002, Section 19 (Appointed Days etc.) Order 2003 ([S.I. 2003/3086](https://www.legislation.gov.uk/uksi/2003/3086)), {art. 3}
 
-[^key-c35d9f690e01650571badfe4042de06c]: Textual amendment: Words in s. 31A(4) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 10(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/10/a), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-c35d9f690e01650571badfe4042de06c]: Textual amendment: Words in s. 31A(4) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 10(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/10/a), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
 
-[^key-48d7a900140bd715c9c90a6126e15344]: Textual amendment: S. 31A(5) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 10(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/10/b), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-48d7a900140bd715c9c90a6126e15344]: Textual amendment: S. 31A(5) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 10(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/10/b), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)

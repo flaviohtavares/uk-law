@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Parenting orders: appeals[^key-b68e56bdcda7746f92d5fa58bb80815c][^key-671cdfdfd83072ee4e7b5f87a6f786cc]
+## 22. Parenting orders: appeals[^c-b68e56bdcda7746f92d5fa58bb80815c][^c-671cdfdfd83072ee4e7b5f87a6f786cc]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b68e56bdcda7746f92d5fa58bb80815c]: Commencement: S. 22 in force at 27.2.2004 for E. by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 4(d)](https://www.legislation.gov.uk/uksi/2003/3300/article/4/d)
+[^c-b68e56bdcda7746f92d5fa58bb80815c]: Commencement: S. 22 in force at 27.2.2004 for E. by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 4(d)](https://www.legislation.gov.uk/uksi/2003/3300/article/4/d)
 
-[^key-671cdfdfd83072ee4e7b5f87a6f786cc]: Commencement: S. 22 in force at 11.5.2006 for W. by [S.I. 2006/1278](https://www.legislation.gov.uk/uksi/2006/1278), [art. 2](https://www.legislation.gov.uk/uksi/2006/1278/article/2)
+[^c-671cdfdfd83072ee4e7b5f87a6f786cc]: Commencement: S. 22 in force at 11.5.2006 for W. by [S.I. 2006/1278](https://www.legislation.gov.uk/uksi/2006/1278), [art. 2](https://www.legislation.gov.uk/uksi/2006/1278/article/2)

@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-The Hill Livestock (Compensatory Allowances) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-671e3aca42c1e92c9a7ba7eb3d75a683]
+The Hill Livestock (Compensatory Allowances) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-671e3aca42c1e92c9a7ba7eb3d75a683]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 4th February 1997
 
-[^key-671e3aca42c1e92c9a7ba7eb3d75a683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-671e3aca42c1e92c9a7ba7eb3d75a683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-671e3aca42c1e92c9a7ba7eb3d75a683]
+## 1. Citation and commencement[^c-671e3aca42c1e92c9a7ba7eb3d75a683]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-671e3aca42c1e92c9a7ba7eb3d75a683]
+## 2. Interpretation[^c-671e3aca42c1e92c9a7ba7eb3d75a683]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment[^key-671e3aca42c1e92c9a7ba7eb3d75a683]
+## 3. Amendment[^c-671e3aca42c1e92c9a7ba7eb3d75a683]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-671e3aca42c1e92c9a7ba7eb3d75a683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-671e3aca42c1e92c9a7ba7eb3d75a683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-671e3aca42c1e92c9a7ba7eb3d75a683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-671e3aca42c1e92c9a7ba7eb3d75a683]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-671e3aca42c1e92c9a7ba7eb3d75a683]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/13) revoked (17.12.1999) by [The Hill Livestock (Compensatory Allowances) Regulations (Northern Ireland) 1999 (S.R. 1999/497)](https://www.legislation.gov.uk/nisr/1999/497), [regs. 1](https://www.legislation.gov.uk/nisr/1999/497/regulation/1), [18](https://www.legislation.gov.uk/nisr/1999/497/regulation/18) (with [reg. 18](https://www.legislation.gov.uk/nisr/1999/497/regulation/18))
+[^c-671e3aca42c1e92c9a7ba7eb3d75a683]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/13) revoked (17.12.1999) by [The Hill Livestock (Compensatory Allowances) Regulations (Northern Ireland) 1999 (S.R. 1999/497)](https://www.legislation.gov.uk/nisr/1999/497), [regs. 1](https://www.legislation.gov.uk/nisr/1999/497/regulation/1), [18](https://www.legislation.gov.uk/nisr/1999/497/regulation/18) (with [reg. 18](https://www.legislation.gov.uk/nisr/1999/497/regulation/18))

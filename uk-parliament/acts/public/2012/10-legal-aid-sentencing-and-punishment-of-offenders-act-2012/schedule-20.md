@@ -30,7 +30,7 @@ Section 125
 
 (3) In subsection (3), before “227” insert “ 226A or ”.
 
-**3.**[^key-4aee66808fc25c78524cd76a8262f198] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4aee66808fc25c78524cd76a8262f198] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** In section 240ZA (time remanded in custody to count as time served), in subsection (11), before “227” insert “ 226A, 226B, ”.
 
@@ -56,7 +56,7 @@ Section 125
 >
 > may not include conditions referred to in subsection (4)(b)(ii) unless the Board directs the Secretary of State to include them.
 
-**7.** In section 255A (further release after recall), in subsection (7)(a) (meaning of “extended sentence prisoner”), after “section” insert “ 226A, 226B, ”. *(affected by repeal, see note)*[^key-a6d298dd5eff59dda47a9780196bc8ad]
+**7.** In section 255A (further release after recall), in subsection (7)(a) (meaning of “extended sentence prisoner”), after “section” insert “ 226A, 226B, ”. *(affected by repeal, see note)*[^c-a6d298dd5eff59dda47a9780196bc8ad]
 
 **8.** In section 258 (early release of fine defaulters and contemnors), in subsection (3A), before “227” insert “ 226A, 226B, ”.
 
@@ -103,12 +103,12 @@ Section 125
 
 (3) In subsection (7), before “227” insert “ 226A, 226B, ”.
 
-**13.**[^key-25e34bc9ad929510068551a0b4ab4b9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-25e34bc9ad929510068551a0b4ab4b9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4aee66808fc25c78524cd76a8262f198]: Textual amendment: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/20/paragraph/3) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4aee66808fc25c78524cd76a8262f198]: Textual amendment: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2012/10/schedule/20/paragraph/3) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a6d298dd5eff59dda47a9780196bc8ad]: Textual amendment: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2012/10/schedule/20/paragraph/7) omitted (for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(13)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/13/a), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-a6d298dd5eff59dda47a9780196bc8ad]: Textual amendment: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2012/10/schedule/20/paragraph/7) omitted (for specified purposes and otherwise coming into force in accordance with reg. 4 of the commencing S.I.) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 33(13)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/13/a), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1) (with [s. 33(14)](https://www.legislation.gov.uk/ukpga/2026/2/section/33/14)); [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/iv), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
 
-[^key-25e34bc9ad929510068551a0b4ab4b9a]: Textual amendment: [Sch. 20 para. 13](https://www.legislation.gov.uk/ukpga/2012/10/schedule/20/paragraph/13) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-25e34bc9ad929510068551a0b4ab4b9a]: Textual amendment: [Sch. 20 para. 13](https://www.legislation.gov.uk/ukpga/2012/10/schedule/20/paragraph/13) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

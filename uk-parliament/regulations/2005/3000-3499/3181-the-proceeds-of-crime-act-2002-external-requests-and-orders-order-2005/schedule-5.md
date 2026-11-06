@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — PRESCRIBED ENACTMENTS – PROPERTY WHICH IS NOT RECOVERABLE PROPERTY[^key-9bacd73b50af483429ccdf2a17e73d35]
+## SCHEDULE 5 — PRESCRIBED ENACTMENTS – PROPERTY WHICH IS NOT RECOVERABLE PROPERTY[^c-9bacd73b50af483429ccdf2a17e73d35]
 
 *Extent: E+W+S+N.I.*
 
 Article 206
 
-[^key-9bacd73b50af483429ccdf2a17e73d35]
+[^c-9bacd73b50af483429ccdf2a17e73d35]
 
 - Section 31 of the Salmon Fisheries (Scotland) Act 1868[^f00137] (forfeiture of articles found in possession of any offender).
 - Section 8 of the Diseases of Fish Act 1937[^f00138] (penalties and legal proceedings).
@@ -45,16 +45,16 @@ Article 206
 - Paragraph 3 of the Schedule to the Noise Act 1996[^f00155] (forfeiture), in the circumstances where no order is made under paragraph 4 of that Schedule for the delivery of the equipment to a person appearing to be the owner of the equipment.
 - Section 6 of the Knives Act 1997[^f00156] (forfeiture of knives and publications), in the circumstances where no order is made under section 7 of that Act for the delivery of property to a person appearing to be the owner of the property.
 - Section 143 of the Powers of Criminal Courts (Sentencing) Act 2000[^f00157] (powers to deprive offender of property used etc for purposes of crime), in the circumstances where no order is made under the Police (Property) Act 1897[^f00158], as applied by section 144 of the Powers of Criminal Courts (Sentencing) Act 2000, for the delivery of the property to a person appearing to be the owner of the property.
-- Section 153 of the Sentencing Code (powers to deprive offender of property used etc for purposes of crime), in the circumstances where no order is made under the Police (Property) Act 1897, as applied by section 158 of the Sentencing Code, for the delivery of the property to a person appearing to be the owner of the property.[^key-a1657bdd6bc165ae111a07264bd46455]
+- Section 153 of the Sentencing Code (powers to deprive offender of property used etc for purposes of crime), in the circumstances where no order is made under the Police (Property) Act 1897, as applied by section 158 of the Sentencing Code, for the delivery of the property to a person appearing to be the owner of the property.[^c-a1657bdd6bc165ae111a07264bd46455]
 - Section 23 of the Terrorism Act 2000[^f00159] (forfeiture).
 - Section 6 of the Royal Parks (Trading) Act 2000[^f00160] (seizure, retention, disposal and forfeiture of property).
 - Paragraph 6 of Schedule 1 to the Anti-terrorism, Crime and Security Act 2001[^f00161] (forfeiture).
 - Regulations 15 (disposal of vehicles) and 17 (disposal of contents) of the Goods Vehicles (Enforcement Powers) Regulations 2001[^f00162], in the circumstances where the proceeds of sale have not been applied in meeting a claim to the proceeds of sale established under regulation 18(2) of those Regulations
-- Regulations made under Section 94 of the Armed Forces Act 2006 (property in possession of service police or CO).[^key-9e2fb791481c895aaf91df48192ef943]
+- Regulations made under Section 94 of the Armed Forces Act 2006 (property in possession of service police or CO).[^c-9e2fb791481c895aaf91df48192ef943]
 
 ## Annotations
 
-[^key-9bacd73b50af483429ccdf2a17e73d35]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2005/3181/schedule/5) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-9bacd73b50af483429ccdf2a17e73d35]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2005/3181/schedule/5) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00137]: Footnote: [1868 c. 123](https://www.legislation.gov.uk/ukpga/1868/123)(31 & 32 Vict); section 31 was amended by the Sheriff Courts (Scotland) Act [1971 (c. 58)](https://www.legislation.gov.uk/ukpga/1971/58).
 
@@ -100,7 +100,7 @@ Article 206
 
 [^f00158]: Footnote: [1897 c. 30](https://www.legislation.gov.uk/ukpga/1897/30) (60 & 61 Vict.).
 
-[^key-a1657bdd6bc165ae111a07264bd46455]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2005/3181/schedule/5) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 342](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/342) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a1657bdd6bc165ae111a07264bd46455]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2005/3181/schedule/5) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 342](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/342) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^f00159]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11).
 
@@ -110,4 +110,4 @@ Article 206
 
 [^f00162]: Footnote: [S.I. 2001/3981](https://www.legislation.gov.uk/uksi/2001/3981).
 
-[^key-9e2fb791481c895aaf91df48192ef943]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2005/3181/schedule/5) inserted (31.10.2009) by [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2054/article/1/2), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/28)
+[^c-9e2fb791481c895aaf91df48192ef943]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2005/3181/schedule/5) inserted (31.10.2009) by [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2054/article/1/2), [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/28)

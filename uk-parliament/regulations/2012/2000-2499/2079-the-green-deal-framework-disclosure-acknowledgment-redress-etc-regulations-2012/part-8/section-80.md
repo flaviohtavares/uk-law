@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80. Updating the register[^key-9c98a120e4537ac2a60e20f0f5ab3d14]
+## 80. Updating the register[^c-9c98a120e4537ac2a60e20f0f5ab3d14]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Where the Secretary of State imposes suspension or withdrawal on an authorised p
 
 ## Annotations
 
-[^key-9c98a120e4537ac2a60e20f0f5ab3d14]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/2012/2079/regulation/80) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-9c98a120e4537ac2a60e20f0f5ab3d14]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/2012/2079/regulation/80) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)

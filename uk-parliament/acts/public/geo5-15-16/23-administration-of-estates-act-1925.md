@@ -219,9 +219,9 @@ The personal representative of a deceased person shall be under a duty to—
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c645471]
 
-(3)[^key-d04e0f8723464aacb6f377cbe2e809d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d04e0f8723464aacb6f377cbe2e809d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-ad8226f69a9b1d226886850da92670b4] To recover rent due or accruing to the deceased, a personal representative may exercise any power under section 72(1) (commercial rent arrears recovery) or 81 (right to rent from sub-tenant) of the Tribunals, Courts and Enforcement Act 2007 that would have been exercisable by the deceased if he had still been living.
+(4)[^c-ad8226f69a9b1d226886850da92670b4] To recover rent due or accruing to the deceased, a personal representative may exercise any power under section 72(1) (commercial rent arrears recovery) or 81 (right to rent from sub-tenant) of the Tribunals, Courts and Enforcement Act 2007 that would have been exercisable by the deceased if he had still been living.
 
 (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c645471]
 
@@ -392,9 +392,9 @@ Provided that—
   - (a) when made for the benefit of a person absolutely and beneficially entitled in possession, the consent of that person;
   - (b) when made in respect of any settled legacy share or interest, the consent of either the trustee thereof, if any (not being also the personal representative), or the person who may for the time being be entitled to the income:
 
-  If the person whose consent is so required as aforesaid is an infant or lacks capacity (within the meaning of the Mental Capacity Act 2005) to give the consent, it[^key-6988b79e3296f24be80d8be173c5fff8] shall be given on his behalf by his parents or parent, testamentary or other guardian, . . . [^c645517] or a person appointed as deputy for him by the Court of Protection[^key-2192ebd57394750b18b7e3273f54d6aa], or if, in the case of an infant, there is no such parent or guardian, by the court on the application of his next friend;
+  If the person whose consent is so required as aforesaid is an infant or lacks capacity (within the meaning of the Mental Capacity Act 2005) to give the consent, it[^c-6988b79e3296f24be80d8be173c5fff8] shall be given on his behalf by his parents or parent, testamentary or other guardian, . . . [^c645517] or a person appointed as deputy for him by the Court of Protection[^c-2192ebd57394750b18b7e3273f54d6aa], or if, in the case of an infant, there is no such parent or guardian, by the court on the application of his next friend;
 - (iii) no consent (save of such trustee as aforesaid) shall be required on behalf of a person who may come into existence after the time of appropriation, or who cannot be found or ascertained at that time;
-- (iv) if no deputy is appointed for a person who lacks capacity to consent[^key-265536b3d1a8f6cb92c5ee2d07b92f81], then, if the appropriation is of an investment authorised by law or by the will, if any, of the deceased for the investment of money subject to the trust, no consent shall be required on behalf of the said person[^c645514];
+- (iv) if no deputy is appointed for a person who lacks capacity to consent[^c-265536b3d1a8f6cb92c5ee2d07b92f81], then, if the appropriation is of an investment authorised by law or by the will, if any, of the deceased for the investment of money subject to the trust, no consent shall be required on behalf of the said person[^c645514];
 - (v) if, independently of the personal representative, there is no trustee of a settled legacy share or interest, and no person of full age and capacity entitled to the income thereof, no consent shall be required to an appropriation in respect of such legacy share or interest, provided that the appropriation is of an investment authorised as aforesaid.
 
 (1A)[^c645521][^c645520] The county court has jurisdiction under proviso (ii) to subsection (1) of this section where the estate in respect of which the application is made does not exceed in amount or value the county court limit.
@@ -427,7 +427,7 @@ On such appointment the personal representatives, as such, shall be discharged f
 
 (1) A personal representative, before giving an assent or making a conveyance in favour of any person entitled, may permit that person to take possession of the land, and such possession shall not prejudicially affect the right of the personal representative to take or resume possession nor his power to convey the land as if he were in possession thereof, but subject to the interest of any lessee, tenant or occupier in possession or in actual occupation of the land.
 
-(2) Any person who as against the personal representative claims possession of real estate, or the appointment of a receiver thereof, or a conveyance thereof, or an assent to the vesting thereof, or to be registered as proprietor thereof under the Land Registration Act 2002[^key-831753d5c06ab61302e8d31d0355b9a9], may apply to the court for directions with reference thereto, and the court may make such vesting or other order as may be deemed proper, and the provisions of the [^c645526]Trustee Act, 1925, relating to vesting orders and to the appointment of a person to convey, shall apply.
+(2) Any person who as against the personal representative claims possession of real estate, or the appointment of a receiver thereof, or a conveyance thereof, or an assent to the vesting thereof, or to be registered as proprietor thereof under the Land Registration Act 2002[^c-831753d5c06ab61302e8d31d0355b9a9], may apply to the court for directions with reference thereto, and the court may make such vesting or other order as may be deemed proper, and the provisions of the [^c645526]Trustee Act, 1925, relating to vesting orders and to the appointment of a person to convey, shall apply.
 
 (3) This section applies whether the testator or intestate died before or after the commencement of this Act.
 
@@ -454,9 +454,9 @@ Subject to the foregoing provisions of this Act, a personal representative is no
 
 (1) The residuary estate of an intestate shall be distributed in the manner or be held on the trusts mentioned in this section, namely:—
 
-- (i)[^c645562] If the intestate leaves a spouse or civil partner[^key-55a4b2423724c9e3ba9640cda8d85877], then in accordance with the following table:
+- (i)[^c645562] If the intestate leaves a spouse or civil partner[^c-55a4b2423724c9e3ba9640cda8d85877], then in accordance with the following table:
 
-  TABLE[^key-73d8201ecc6ecb62c6b42bcc45cb2d0a]
+  TABLE[^c-73d8201ecc6ecb62c6b42bcc45cb2d0a]
 
   <table>
   <tfoot>
@@ -481,17 +481,17 @@ Subject to the foregoing provisions of this Act, a personal representative is no
 
     The Crown or the said Duchy or the said Duke may (without prejudice to the powers reserved by section nine of the [^c645579]Civil List Act, 1910, or any other powers), out of the whole or any part of the property devolving on them respectively, provide, in accordance with the existing practice, for dependants, whether kindred or not, of the intestate, and other persons for whom the intestate might reasonably have been expected to make provision.
 
-(1A)[^key-feaf401c3aa1abea21e6217563447871] The interest rate referred to in paragraph (B) of case (2) of the Table in subsection (1)(i) is the Bank of England rate that had effect at the end of the day on which the intestate died.
+(1A)[^c-feaf401c3aa1abea21e6217563447871] The interest rate referred to in paragraph (B) of case (2) of the Table in subsection (1)(i) is the Bank of England rate that had effect at the end of the day on which the intestate died.
 
 (2) A husband and wife shall for all purposes of distribution or division under the foregoing provisions of this section be treated as two persons.
 
 (2A)[^c645581] Where the intestate’s spouse or civil partner survived the intestate but died before the end of the period of 28 days beginning with the day on which the intestate died, this section shall have effect as respects the intestate as if the spouse or civil partner had not survived the intestate.
 
-(3)[^key-bcd227426eb2d991a85d9beb44970903] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-bcd227426eb2d991a85d9beb44970903] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c645582] The interest payable on the fixed net sum[^c645585] payable to a surviving spouse or civil partner shall be primarily payable out of income.
 
-(5)[^key-56e6a4999596b0106f8acac4e98b519c] In subsection (1A) “**Bank of England rate**” means—
+(5)[^c-56e6a4999596b0106f8acac4e98b519c] In subsection (1A) “**Bank of England rate**” means—
 
 - (a) the rate announced by the Monetary Policy Committee of the Bank of England as the official bank rate, or
 - (b) where an order under section 19 of the Bank of England Act 1998 (reserve powers) is in force, any equivalent rate determined by the Treasury under that section.
@@ -507,7 +507,7 @@ Subject to the foregoing provisions of this Act, a personal representative is no
 
 (9) A statutory instrument containing an order under subsection (7) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-### 46A. Disclaimer or forfeiture on intestacy[^key-56dd7b8185e641bc1b8d005182da9bdd]
+### 46A. Disclaimer or forfeiture on intestacy[^c-56dd7b8185e641bc1b8d005182da9bdd]
 
 (1) This section applies where a person—
 
@@ -524,8 +524,8 @@ Subject to the foregoing provisions of this Act, a personal representative is no
 
 (1) Where under this Part of this Act the residuary estate of an intestate, or any part thereof, is directed to be held on the statutory trusts for the issue of the intestate, the same shall be held upon the following trusts, namely:—
 
-- (i) In trust, in equal shares if more than one, for all or any the children or child of the intestate, living at the death of the intestate, who attain the age of eighteen years[^c645592] or marry under that age or form a civil partnership under that age[^key-6651aeacc2b32762ce38706696038441], and for all or any of the issue living at the death of the intestate who attain the age of eighteen years or marry, or form a civil partnership,[^key-c0c84546a531dac478ca312ce8b51977] under that age of any child of the intestate who predeceases the intestate, such issue to take through all degrees, according to their stocks, in equal shares if more than one, the share which their parent would have taken if living at the death of the intestate, and so that(subject to section 46A)[^key-84826cec620424b383addd89fbbbf4bf] no issue shall take whose parent is living at the death of the intestate and so capable of taking;
-- (ii) The statutory power of advancement, and the statutory provisions which relate to maintenance and accumulation of surplus income, shall apply, but when an infant marries, or forms a civil partnership,[^key-20b389f3ff948709a3b5b6a585f5c28a] such infant shall be entitled to give valid receipts for the income of the infant’s share or interest;
+- (i) In trust, in equal shares if more than one, for all or any the children or child of the intestate, living at the death of the intestate, who attain the age of eighteen years[^c645592] or marry under that age or form a civil partnership under that age[^c-6651aeacc2b32762ce38706696038441], and for all or any of the issue living at the death of the intestate who attain the age of eighteen years or marry, or form a civil partnership,[^c-c0c84546a531dac478ca312ce8b51977] under that age of any child of the intestate who predeceases the intestate, such issue to take through all degrees, according to their stocks, in equal shares if more than one, the share which their parent would have taken if living at the death of the intestate, and so that(subject to section 46A)[^c-84826cec620424b383addd89fbbbf4bf] no issue shall take whose parent is living at the death of the intestate and so capable of taking;
+- (ii) The statutory power of advancement, and the statutory provisions which relate to maintenance and accumulation of surplus income, shall apply, but when an infant marries, or forms a civil partnership,[^c-20b389f3ff948709a3b5b6a585f5c28a] such infant shall be entitled to give valid receipts for the income of the infant’s share or interest;
 - (iii)[^c645594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (iv) The personal representatives may permit any infant contingently interested to have the use and enjoyment of any personal chattels in such manner and subject to such conditions (if any) as the personal representatives may consider reasonable, and without being liable to account for any consequential loss.
 
@@ -539,9 +539,9 @@ Subject to the foregoing provisions of this Act, a personal representative is no
 
 (4)[^c645595] References in paragraph (i) of subsection (1) of the last foregoing section to the intestate leaving, or not leaving, a member of the class consisting of brothers or sisters of the whole blood of the intestate and issue of brothers or sisters of the whole blood of the intestate shall be construed as references to the intestate leaving, or not leaving, a member of that class who attains an absolutely vested interest.
 
-(4A)[^key-b0c034eefd6e395ee320d41cdd0025ff] Subsections (2) and (4) are subject to section 46A.
+(4A)[^c-b0c034eefd6e395ee320d41cdd0025ff] Subsections (2) and (4) are subject to section 46A.
 
-(4B)[^key-652703ad9e01283ecae99ac8ceee85e1] Subsections (4C) and (4D) apply if a beneficiary under the statutory trusts—
+(4B)[^c-652703ad9e01283ecae99ac8ceee85e1] Subsections (4C) and (4D) apply if a beneficiary under the statutory trusts—
 
 - (a) fails to attain an absolutely vested interest because the beneficiary dies without having reached 18 and without having married or formed a civil partnership, and
 - (b) dies leaving issue.
@@ -552,7 +552,7 @@ Subject to the foregoing provisions of this Act, a personal representative is no
 
 (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c645596]
 
-### 47A. Right of surviving spouse to have own life interest redeemed.[^key-71b0e85ec7ec7baaf5d7672d8c9d14f6]
+### 47A. Right of surviving spouse to have own life interest redeemed.[^c-71b0e85ec7ec7baaf5d7672d8c9d14f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -562,10 +562,10 @@ Subject to the foregoing provisions of this Act, a personal representative is no
 
 (2) The personal representatives may raise—
 
-- (a) the fixed net sum[^c645607] or any part thereof and the interest thereon payable to the surviving spouse or civil partner[^key-de016e2a705462bc6f7e12708b4cf8d9] of the intestate on the security of the whole or any part of the residuary estate of the intestate (other than the personal chattels), so far as that estate may be sufficient for the purpose or the said sum and interest may not have been satisfied by an appropriation under the statutory power available in that behalf; [^key-1113fdeed0d173a69c12f142f938fc95]...
-- (b)[^key-1113fdeed0d173a69c12f142f938fc95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the fixed net sum[^c645607] or any part thereof and the interest thereon payable to the surviving spouse or civil partner[^c-de016e2a705462bc6f7e12708b4cf8d9] of the intestate on the security of the whole or any part of the residuary estate of the intestate (other than the personal chattels), so far as that estate may be sufficient for the purpose or the said sum and interest may not have been satisfied by an appropriation under the statutory power available in that behalf; [^c-1113fdeed0d173a69c12f142f938fc95]...
+- (b)[^c-1113fdeed0d173a69c12f142f938fc95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-and [^key-82f6c3425ce84c2ce43fe0d436da2c61]... the amount, if any, properly required for the payment of the costs of the transaction.
+and [^c-82f6c3425ce84c2ce43fe0d436da2c61]... the amount, if any, properly required for the payment of the costs of the transaction.
 
 ### 49. Application to cases of partial intestacy.[^c645613]
 
@@ -579,7 +579,7 @@ and [^key-82f6c3425ce84c2ce43fe0d436da2c61]... the amount, if any, properly requ
 
 (3)[^c645614] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c1ab6f9830c41f2dc606c5837edfceaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c1ab6f9830c41f2dc606c5837edfceaa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 50. Construction of documents.
 
@@ -597,7 +597,7 @@ and [^key-82f6c3425ce84c2ce43fe0d436da2c61]... the amount, if any, properly requ
 
 For the purposes of this subsection, a person of unsound mind or defective who dies intestate as respects any beneficial interest in real estate shall not be deemed to have recovered his testamentary capacity unless his . . . [^c645628] receiver has been discharged.
 
-(3) Where an infant dies after the commencement of this Act without having been married or having formed a civil partnership,[^key-26e0757f1eb673ec54f35ba957ace7d9] and without issue[^c645629], and independently of this sub-section he would, at his death, have been equitably entitled under a trust or[^c645630] settlement (including a will) to a vested estate in fee simple or absolute interest in freehold land, or in any property [^c645631]. . . to devolve therewith or as freehold land, such infant shall be deemed to have had a life interest[^c645632], and the trust or settlement shall be construed accordingly.
+(3) Where an infant dies after the commencement of this Act without having been married or having formed a civil partnership,[^c-26e0757f1eb673ec54f35ba957ace7d9] and without issue[^c645629], and independently of this sub-section he would, at his death, have been equitably entitled under a trust or[^c645630] settlement (including a will) to a vested estate in fee simple or absolute interest in freehold land, or in any property [^c645631]. . . to devolve therewith or as freehold land, such infant shall be deemed to have had a life interest[^c645632], and the trust or settlement shall be construed accordingly.
 
 (4)[^c645634] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -627,7 +627,7 @@ Save as otherwise expressly provided, this Act does not apply in any case where 
 
 In this Act, unless the context otherwise requires, the following expressions have the meanings hereby assigned to them respectively, that is to say:—
 
-(1)[^key-7719d7ce3007db6e4616b3c0821160b4]
+(1)[^c-7719d7ce3007db6e4616b3c0821160b4]
 
 - (i) “**Administration**” means, with reference to the real and personal estate of a deceased person, letters of administration, whether general or limited, or with the will annexed or otherwise:
 - (ii) “**Administrator**” means a person to whom administration is granted:
@@ -638,9 +638,9 @@ In this Act, unless the context otherwise requires, the following expressions ha
 - (vi)[^c645670] “**Intestate**” includes a person who leaves a will but dies intestate as to some beneficial interest in his real or personal estate:
 - (via)[^c645671] “**Land**” has the same meaning as in the [^c645672] Law of Property Act 1925;
 - (vii) “**Legal estates**” mean the estates charges and interests in or over land (subsisting or created at law) which are by statute authorised to subsist or to be created at law; and “**equitable interests**” mean all other interests and charges in or over land [^c645673]. . .:
-- (viii)[^key-b8f61b4f49890a34d9db1f6c7069ea59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (viii)[^c-b8f61b4f49890a34d9db1f6c7069ea59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (ix) “**Pecuniary legacy**” includes an annuity, a general legacy, a demonstrative legacy so far as it is not discharged out of the designated property, and any other general direction by a testator for the payment of money, including all death duties free from which any devise, bequest, or payment is made to take effect:
-- (x)[^key-84668b68838636458c12e56317470fcb] “**Personal chattels**” means tangible movable property, other than any such property which—
+- (x)[^c-84668b68838636458c12e56317470fcb] “**Personal chattels**” means tangible movable property, other than any such property which—
   - consists of money or securities for money, or
   - was used at the death of the intestate solely or mainly for business purposes, or
   - was held at the death of the intestate solely as an investment:
@@ -651,7 +651,7 @@ In this Act, unless the context otherwise requires, the following expressions ha
 - (xv)[^c645679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (xvi)[^c645680] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (xvii) “**Property**” includes a thing in action and any interest in real or personal property:
-- (xviii) “**Purchaser**” means a lessee, mortgagee or other person who in good faith acquires an interest in property for valuable consideration, also an intending purchaser and “**valuable consideration**” includes marriage,and formation of a civil partnership,[^key-acb3ccd8143f6418e7c9207402bcda83] but does not include a nominal consideration in money:
+- (xviii) “**Purchaser**” means a lessee, mortgagee or other person who in good faith acquires an interest in property for valuable consideration, also an intending purchaser and “**valuable consideration**” includes marriage,and formation of a civil partnership,[^c-acb3ccd8143f6418e7c9207402bcda83] but does not include a nominal consideration in money:
 - (xix) “Real estate” save as provided in Part IV of this Act means real estate, including chattels real, which by virtue of Part I of this Act devolves on the personal representative of a deceased person:
 - (xx) “**Representation**” means the probate of a will and administration, and the expression “taking out representation” refers to the obtaining of the probate of a will or of the grant of administration:
 - (xxi) “**Rent**” includes a rent service or a rentcharge, or other rent, toll, duty, or annual or periodical payment in money or money’s worth, issuing out of or charged upon land, but does not include mortgage interest; and “**rentcharge**” includes a fee farm rent:
@@ -659,7 +659,7 @@ In this Act, unless the context otherwise requires, the following expressions ha
 - (xxiii) “**Securities**” include stocks, funds, or shares:
 - (xxiv) “Tenant for life,” “statutory owner,” [^c645682]. . . “settled land,” “settlement,” “trustees of the settlement,” “term of years absolute,” “**death duties,**” and “**legal mortgage,**” have the same meanings as in the [^c645683]Settled Land Act, 1925, and “**entailed interest**” and “**charge by way of legal mortgage**” have the same meanings as in the [^c645684]Law of Property Act, 1925:
 - (xxv) “**Treasury solicitor**” means the solicitor for the affairs of His Majesty’s Treasury, and includes the solicitor for the affairs of the Duchy of Lancaster:
-- (xxvi)[^c645685][^c645686][^M_C_923cd309-424f-43ab-f870-ed456969c537][^key-65960deaa8cc403122e0c49bbbcf827a][^key-5146807db70328850e15ab61a97144ab][^key-5146807db70328850e15ab61a97144ab] “**Trust corporation**” means the public trustee or a corporation either appointed by the court in any particular case to be a trustee or entitled by rules made under subsection (3) of section four of the [^c645687]Public Trustee Act, 1906, to act as custodian trustee:
+- (xxvi)[^c645685][^c645686][^M_C_923cd309-424f-43ab-f870-ed456969c537][^c-65960deaa8cc403122e0c49bbbcf827a][^c-5146807db70328850e15ab61a97144ab][^c-5146807db70328850e15ab61a97144ab] “**Trust corporation**” means the public trustee or a corporation either appointed by the court in any particular case to be a trustee or entitled by rules made under subsection (3) of section four of the [^c645687]Public Trustee Act, 1906, to act as custodian trustee:
 - (xxvii)[^c645688] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (xxviii) “**Will**” includes codicil.
 
@@ -712,11 +712,11 @@ SCHEDULES
 - (a) The order of application may be varied by the will of the deceased.
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c645691]
 
-## SCHEDULE 1A — Determination of the fixed net sum[^key-5f980e993bcde6a2af813a18304adb09]
+## SCHEDULE 1A — Determination of the fixed net sum[^c-5f980e993bcde6a2af813a18304adb09]
 
 **1.** This Schedule has effect for determining the fixed net sum referred to in paragraph (B) of case (2) of the Table in section 46(1)(i).
 
-**2.**[^key-870dcdf6eb4a5eb2cb3514d97e78787e] On the coming into force of this Schedule, the amount of the fixed net sum is the amount fixed by order under section 1(1)(a) of the Family Provision Act 1966 immediately before the coming into force of this Schedule. *(affected by repeal, see note)*[^key-870dcdf6eb4a5eb2cb3514d97e78787e]
+**2.**[^c-870dcdf6eb4a5eb2cb3514d97e78787e] On the coming into force of this Schedule, the amount of the fixed net sum is the amount fixed by order under section 1(1)(a) of the Family Provision Act 1966 immediately before the coming into force of this Schedule. *(affected by repeal, see note)*[^c-870dcdf6eb4a5eb2cb3514d97e78787e]
 
 **3.** (1) The Lord Chancellor may from time to time by order made by statutory instrument specify the amount of the fixed net sum.
 
@@ -845,9 +845,9 @@ SCHEDULES
 
 [^c645471]: Textual amendment: S. 26(1)(2)(5)(6) repealed by [Law Reform (Miscellaneous Provisions) Act 1934 (c. 41)](https://www.legislation.gov.uk/ukpga/1934/41), [s. 1(7)](https://www.legislation.gov.uk/ukpga/1934/41/section/1/7)
 
-[^key-d04e0f8723464aacb6f377cbe2e809d6]: Textual amendment: [S. 26(3)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/26/3) omitted (6.4.2014) by virtue of [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 28(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/28/2), [23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-d04e0f8723464aacb6f377cbe2e809d6]: Textual amendment: [S. 26(3)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/26/3) omitted (6.4.2014) by virtue of [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 28(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/28/2), [23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
-[^key-ad8226f69a9b1d226886850da92670b4]: Textual amendment: [S. 26(4)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/26/4) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 28(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/28/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-ad8226f69a9b1d226886850da92670b4]: Textual amendment: [S. 26(4)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/26/4) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 28(3)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/28/3) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c645475]: Textual amendment: Words repealed by [Limitation Act 1939 (c. 21)](https://www.legislation.gov.uk/ukpga/1939/21), [Sch.](https://www.legislation.gov.uk/ukpga/1939/21/schedule)
 
@@ -893,13 +893,13 @@ SCHEDULES
 
 [^c645513]: Modification: S. 41 excluded by [Intestates' Estates Act 1952 (c. 64)](https://www.legislation.gov.uk/ukpga/1952/64), [s. 5](https://www.legislation.gov.uk/ukpga/1952/64/section/5), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/1952/64/schedule/2/paragraph/6/2)
 
-[^key-6988b79e3296f24be80d8be173c5fff8]: Textual amendment: Words in s. 41(1) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 5(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/5/2/a/i) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-6988b79e3296f24be80d8be173c5fff8]: Textual amendment: Words in s. 41(1) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 5(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/5/2/a/i) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
 [^c645517]: Textual amendment: Word repealed by [Mental Health Act 1959 (c. 72)](https://www.legislation.gov.uk/ukpga/1959/72), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1959/72/schedule/7/part/I)
 
-[^key-2192ebd57394750b18b7e3273f54d6aa]: Textual amendment: Words in s. 41(1) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 5(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/5/2/a/ii) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-2192ebd57394750b18b7e3273f54d6aa]: Textual amendment: Words in s. 41(1) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 5(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/5/2/a/ii) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
-[^key-265536b3d1a8f6cb92c5ee2d07b92f81]: Textual amendment: Words in s. 41(1) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/5/2/b) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-265536b3d1a8f6cb92c5ee2d07b92f81]: Textual amendment: Words in s. 41(1) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/5/2/b) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
 [^c645514]: Textual amendment: Words substituted by [Mental Health Act 1959 (c. 72)](https://www.legislation.gov.uk/ukpga/1959/72), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1959/72/schedule/7/part/I)
 
@@ -913,7 +913,7 @@ SCHEDULES
 
 [^c645524]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18).
 
-[^key-831753d5c06ab61302e8d31d0355b9a9]: Textual amendment: Words in s. 43(2) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/3) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-831753d5c06ab61302e8d31d0355b9a9]: Textual amendment: Words in s. 43(2) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/3) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c645526]: Marginal citation: [1925 c. 19](https://www.legislation.gov.uk/ukpga/1925/19).
 
@@ -931,9 +931,9 @@ SCHEDULES
 
 [^c645562]: Textual amendment: S. 46(1)(i) substituted by [Intestates' Estates Act 1952 (c. 64)](https://www.legislation.gov.uk/ukpga/1952/64), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1952/64/section/1/2)
 
-[^key-55a4b2423724c9e3ba9640cda8d85877]: Textual amendment: Words in s. 46 substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/7); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-55a4b2423724c9e3ba9640cda8d85877]: Textual amendment: Words in s. 46 substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/7); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-73d8201ecc6ecb62c6b42bcc45cb2d0a]: Textual amendment: S. 46(1)(i) Table substituted (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/1/2), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-73d8201ecc6ecb62c6b42bcc45cb2d0a]: Textual amendment: S. 46(1)(i) Table substituted (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/1/2), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
 [^c645571]: Textual amendment: Words inserted by [Intestates' Estates Act 1952 (c. 64)](https://www.legislation.gov.uk/ukpga/1952/64), [s. 1(3)(a)](https://www.legislation.gov.uk/ukpga/1952/64/section/1/3/a)
 
@@ -947,43 +947,43 @@ SCHEDULES
 
 [^c645579]: Marginal citation: [1910 c. 28](https://www.legislation.gov.uk/ukpga/1910/28) .
 
-[^key-feaf401c3aa1abea21e6217563447871]: Textual amendment: S. 46(1A) substituted (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2014/16/section/1/3), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-feaf401c3aa1abea21e6217563447871]: Textual amendment: S. 46(1A) substituted (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2014/16/section/1/3), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
 [^c645581]: Textual amendment: S. 46(2A) inserted (8.11.1995 with effect as respects an intestate dying on or after 1.1.1996) by [1995 c. 41](https://www.legislation.gov.uk/ukpga/1995/41), [s. 1(1)(3)](https://www.legislation.gov.uk/ukpga/1995/41/section/1/1/3)
 
-[^key-bcd227426eb2d991a85d9beb44970903]: Textual amendment: S. 46(3) omitted (1.10.2014) by virtue of [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/1/2) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-bcd227426eb2d991a85d9beb44970903]: Textual amendment: S. 46(3) omitted (1.10.2014) by virtue of [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/1/2) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
 [^c645582]: Textual amendment: S. 46(3)(4) added by [Intestates' Estates Act 1952 (c. 64)](https://www.legislation.gov.uk/ukpga/1952/64), [s. 1(4)](https://www.legislation.gov.uk/ukpga/1952/64/section/1/4)
 
 [^c645585]: Textual amendment: Words substituted by [Family Provision Act 1966 (c. 35)](https://www.legislation.gov.uk/ukpga/1966/35), [s. 1(2)(b)](https://www.legislation.gov.uk/ukpga/1966/35/section/1/2/b)
 
-[^key-56e6a4999596b0106f8acac4e98b519c]: Textual amendment: S. 46(5)-(9) inserted (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/1/4), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-56e6a4999596b0106f8acac4e98b519c]: Textual amendment: S. 46(5)-(9) inserted (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/1/4), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-56dd7b8185e641bc1b8d005182da9bdd]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/46A) inserted (1.2.2012) by [Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011 (c. 7)](https://www.legislation.gov.uk/ukpga/2011/7), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2011/7/section/1/2), [4(2)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/2) (with [s. 4(4)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/4)); [S.I. 2011/2913](https://www.legislation.gov.uk/uksi/2011/2913), [art. 2](https://www.legislation.gov.uk/uksi/2011/2913/article/2)
+[^c-56dd7b8185e641bc1b8d005182da9bdd]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/46A) inserted (1.2.2012) by [Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011 (c. 7)](https://www.legislation.gov.uk/ukpga/2011/7), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2011/7/section/1/2), [4(2)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/2) (with [s. 4(4)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/4)); [S.I. 2011/2913](https://www.legislation.gov.uk/uksi/2011/2913), [art. 2](https://www.legislation.gov.uk/uksi/2011/2913/article/2)
 
 [^c645591]: Modification: S. 47 set out as amended by [Intestates' Estates Act 1952 (c. 64)](https://www.legislation.gov.uk/ukpga/1952/64) in Sch. 1 to that Act
 
 [^c645592]: Textual amendment: Words substituted by [Family Law Reform Act 1969 (c. 46)](https://www.legislation.gov.uk/ukpga/1969/46), [s. 3(2)](https://www.legislation.gov.uk/ukpga/1969/46/section/3/2)
 
-[^key-6651aeacc2b32762ce38706696038441]: Textual amendment: Words in s. 47(1)(i) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/8/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-6651aeacc2b32762ce38706696038441]: Textual amendment: Words in s. 47(1)(i) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/8/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-c0c84546a531dac478ca312ce8b51977]: Textual amendment: Words in s. 47(1)(i) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 8(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/8/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-c0c84546a531dac478ca312ce8b51977]: Textual amendment: Words in s. 47(1)(i) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 8(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/8/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-84826cec620424b383addd89fbbbf4bf]: Textual amendment: Words in [s. 47(1)(i)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/47/1/i) inserted (1.2.2012) by [Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011 (c. 7)](https://www.legislation.gov.uk/ukpga/2011/7), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2011/7/section/1/3), [4(2)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/2) (with [s. 4(4)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/4)); [S.I. 2011/2913](https://www.legislation.gov.uk/uksi/2011/2913), [art. 2](https://www.legislation.gov.uk/uksi/2011/2913/article/2)
+[^c-84826cec620424b383addd89fbbbf4bf]: Textual amendment: Words in [s. 47(1)(i)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/47/1/i) inserted (1.2.2012) by [Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011 (c. 7)](https://www.legislation.gov.uk/ukpga/2011/7), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2011/7/section/1/3), [4(2)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/2) (with [s. 4(4)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/4)); [S.I. 2011/2913](https://www.legislation.gov.uk/uksi/2011/2913), [art. 2](https://www.legislation.gov.uk/uksi/2011/2913/article/2)
 
-[^key-20b389f3ff948709a3b5b6a585f5c28a]: Textual amendment: Words in s. 47(1)(ii) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 8(4)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/8/4); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-20b389f3ff948709a3b5b6a585f5c28a]: Textual amendment: Words in s. 47(1)(ii) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 8(4)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/8/4); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c645594]: Textual amendment: S. 47(1)(iii) repealed (8.11.1995 with effect as mentioned in the note to the Schedule of the repealing Act) by [1995 c. 41](https://www.legislation.gov.uk/ukpga/1995/41), [ss. 1(2)(a)(3)](https://www.legislation.gov.uk/ukpga/1995/41/section/1/2/a/3), [5](https://www.legislation.gov.uk/ukpga/1995/41/section/5), [Sch.](https://www.legislation.gov.uk/ukpga/1995/41/schedule)
 
 [^c645595]: Textual amendment: S. 47(4) added by [Intestates' Estates Act 1952 (c. 64)](https://www.legislation.gov.uk/ukpga/1952/64), [s. 1(3)(c)](https://www.legislation.gov.uk/ukpga/1952/64/section/1/3/c)
 
-[^key-b0c034eefd6e395ee320d41cdd0025ff]: Textual amendment: [S. 47(4A)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/47/4A) inserted (1.2.2012) by [Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011 (c. 7)](https://www.legislation.gov.uk/ukpga/2011/7), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2011/7/section/1/4), [4(2)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/2) (with [s. 4(4)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/4)); [S.I. 2011/2913](https://www.legislation.gov.uk/uksi/2011/2913), [art. 2](https://www.legislation.gov.uk/uksi/2011/2913/article/2)
+[^c-b0c034eefd6e395ee320d41cdd0025ff]: Textual amendment: [S. 47(4A)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/47/4A) inserted (1.2.2012) by [Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011 (c. 7)](https://www.legislation.gov.uk/ukpga/2011/7), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2011/7/section/1/4), [4(2)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/2) (with [s. 4(4)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/4)); [S.I. 2011/2913](https://www.legislation.gov.uk/uksi/2011/2913), [art. 2](https://www.legislation.gov.uk/uksi/2011/2913/article/2)
 
-[^key-652703ad9e01283ecae99ac8ceee85e1]: Textual amendment: [S. 47(4B)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/47/4B)[(4C)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/47/4C)[(4D)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/47/4D) inserted (1.2.2012) by [Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011 (c. 7)](https://www.legislation.gov.uk/ukpga/2011/7), [ss. 3](https://www.legislation.gov.uk/ukpga/2011/7/section/3), [4(2)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/2) (with [s. 4(4)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/4)); [S.I. 2011/2913](https://www.legislation.gov.uk/uksi/2011/2913), [art. 2](https://www.legislation.gov.uk/uksi/2011/2913/article/2)
+[^c-652703ad9e01283ecae99ac8ceee85e1]: Textual amendment: [S. 47(4B)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/47/4B)[(4C)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/47/4C)[(4D)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/47/4D) inserted (1.2.2012) by [Estates of Deceased Persons (Forfeiture Rule and Law of Succession) Act 2011 (c. 7)](https://www.legislation.gov.uk/ukpga/2011/7), [ss. 3](https://www.legislation.gov.uk/ukpga/2011/7/section/3), [4(2)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/2) (with [s. 4(4)](https://www.legislation.gov.uk/ukpga/2011/7/section/4/4)); [S.I. 2011/2913](https://www.legislation.gov.uk/uksi/2011/2913), [art. 2](https://www.legislation.gov.uk/uksi/2011/2913/article/2)
 
 [^c645596]: Textual amendment: S. 47(5) repealed by [Family Provision Act 1966 (c. 35)](https://www.legislation.gov.uk/ukpga/1966/35), [s. 9](https://www.legislation.gov.uk/ukpga/1966/35/section/9), [Sch. 2](https://www.legislation.gov.uk/ukpga/1966/35/schedule/2)
 
-[^key-71b0e85ec7ec7baaf5d7672d8c9d14f6]: Textual amendment: S. 47A omitted (1.10.2014) by virtue of [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/1/3) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-71b0e85ec7ec7baaf5d7672d8c9d14f6]: Textual amendment: S. 47A omitted (1.10.2014) by virtue of [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/1/3) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
 [^c645605]: Modification: S. 48 set out as amended by [Intestates' Estates Act 1952 (c. 64)](https://www.legislation.gov.uk/ukpga/1952/64) in Sch. 1 to that Act
 
@@ -991,17 +991,17 @@ SCHEDULES
 
 [^c645607]: Textual amendment: Words substituted by [Family Provision Act 1966 (c. 35)](https://www.legislation.gov.uk/ukpga/1966/35), [s. 1(2)(b)](https://www.legislation.gov.uk/ukpga/1966/35/section/1/2/b)
 
-[^key-de016e2a705462bc6f7e12708b4cf8d9]: Textual amendment: Words in s. 48(2) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/10); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-de016e2a705462bc6f7e12708b4cf8d9]: Textual amendment: Words in s. 48(2) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/10); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-1113fdeed0d173a69c12f142f938fc95]: Textual amendment: [S. 48(2)(b)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/48/2/b) omitted (1.10.2014) by virtue of [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 4 para. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/1/4/a) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-1113fdeed0d173a69c12f142f938fc95]: Textual amendment: [S. 48(2)(b)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/48/2/b) omitted (1.10.2014) by virtue of [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 4 para. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/1/4/a) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-82f6c3425ce84c2ce43fe0d436da2c61]: Textual amendment: Words in [s. 48(2)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/48/2) omitted (1.10.2014) by virtue of [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 4 para. 1(4)(b)](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/1/4/b) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-82f6c3425ce84c2ce43fe0d436da2c61]: Textual amendment: Words in [s. 48(2)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/48/2) omitted (1.10.2014) by virtue of [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 4 para. 1(4)(b)](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/1/4/b) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
 [^c645613]: Modification: S. 49 set out as amended by [Intestates' Estates Act 1952 (c. 64)](https://www.legislation.gov.uk/ukpga/1952/64) in Sch. 1 to that Act
 
 [^c645614]: Textual amendment: S. 49(1)(aa)(a)(2)(3) repealed (8.11.1995 with effect as mentioned in the note to the Schedule of the repealing Act) by [1995 c. 41](https://www.legislation.gov.uk/ukpga/1995/41), [ss. 1(2)(b)(3)](https://www.legislation.gov.uk/ukpga/1995/41/section/1/2/b/3), [5](https://www.legislation.gov.uk/ukpga/1995/41/section/5), [Sch.](https://www.legislation.gov.uk/ukpga/1995/41/schedule)
 
-[^key-c1ab6f9830c41f2dc606c5837edfceaa]: Textual amendment: S. 49(4) omitted (1.10.2014) by virtue of [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 4 para. 1(5)](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/1/5) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-c1ab6f9830c41f2dc606c5837edfceaa]: Textual amendment: S. 49(4) omitted (1.10.2014) by virtue of [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 4 para. 1(5)](https://www.legislation.gov.uk/ukpga/2014/16/schedule/4/paragraph/1/5) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
 [^c645619]: Modification: S. 50(1) modified by [Intestates' Estates Act 1952 (c. 64)](https://www.legislation.gov.uk/ukpga/1952/64), [s. 6(2)](https://www.legislation.gov.uk/ukpga/1952/64/section/6/2) and [Family Law Reform Act 1969 (c. 46)](https://www.legislation.gov.uk/ukpga/1969/46), [s. 14(6)](https://www.legislation.gov.uk/ukpga/1969/46/section/14/6).
 
@@ -1017,7 +1017,7 @@ SCHEDULES
 
 [^c645628]: Textual amendment: Words repealed by [Mental Health Act 1959 (c. 72)](https://www.legislation.gov.uk/ukpga/1959/72), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1959/72/schedule/8/part/I)
 
-[^key-26e0757f1eb673ec54f35ba957ace7d9]: Textual amendment: Words in s. 51(3) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/11); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-26e0757f1eb673ec54f35ba957ace7d9]: Textual amendment: Words in s. 51(3) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/11); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c645629]: Textual amendment: Words in s. 51(3) inserted (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/1), [Sch. 3 para. 6(4)(a)](https://www.legislation.gov.uk/ukpga/1996/47/schedule/3/paragraph/6/4/a) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
 
@@ -1033,7 +1033,7 @@ SCHEDULES
 
 [^c645636]: Textual amendment: [S. 53(3)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/53/3) repealed in relation to deaths occurring after 13.4.1975 and, so far as regards certain duties in relation to any death, by [Finance Act 1975 (c. 7, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1975/7), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/1975/7/section/52/2), [59](https://www.legislation.gov.uk/ukpga/1975/7/section/59), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1975/7/schedule/13/part/I), note (with a saving in s. 52(3) in relation to repayment or allowance in respect of certain sums paid before 13.3.1975 on account)
 
-[^key-7719d7ce3007db6e4616b3c0821160b4]: Modification: [S. 55(1)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/55/1) modified (31.10.2022) by 2011 c. 25, s. 334A(2) (as inserted by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2022/6/section/32/1), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4) (with [s. 32(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/32/2)); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/7))
+[^c-7719d7ce3007db6e4616b3c0821160b4]: Modification: [S. 55(1)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/23/section/55/1) modified (31.10.2022) by 2011 c. 25, s. 334A(2) (as inserted by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2022/6/section/32/1), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4) (with [s. 32(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/32/2)); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/7))
 
 [^c645668]: Textual amendment: S. 55(1)(iiiA) inserted by [County Courts Act 1984 (c. 28, SIF 34)](https://www.legislation.gov.uk/ukpga/1984/28), [s. 148(1)](https://www.legislation.gov.uk/ukpga/1984/28/section/148/1), [Sch. 2 Pt. III para. 15](https://www.legislation.gov.uk/ukpga/1984/28/schedule/2/part/III/paragraph/15)
 
@@ -1047,9 +1047,9 @@ SCHEDULES
 
 [^c645673]: Textual amendment: Words in s. 55(1)(vii) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
 
-[^key-b8f61b4f49890a34d9db1f6c7069ea59]: Textual amendment: S. 55(1)(viii) repealed (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/5/3), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-b8f61b4f49890a34d9db1f6c7069ea59]: Textual amendment: S. 55(1)(viii) repealed (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 5(3)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/5/3), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
-[^key-84668b68838636458c12e56317470fcb]: Textual amendment: S. 55(1)(x) substituted (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2014/16/section/3/1), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2) (with [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/3/2), [12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-84668b68838636458c12e56317470fcb]: Textual amendment: S. 55(1)(x) substituted (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2014/16/section/3/1), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2) (with [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/3/2), [12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
 [^c645678]: Textual amendment: Words repealed by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(4)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/4), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/54/schedule/7)
 
@@ -1057,7 +1057,7 @@ SCHEDULES
 
 [^c645680]: Textual amendment: S. 55(1)(xvi)(xxii) repealed by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(4)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/4), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/54/schedule/7)
 
-[^key-acb3ccd8143f6418e7c9207402bcda83]: Textual amendment: Words in s. 55(1)(xviii) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/12); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-acb3ccd8143f6418e7c9207402bcda83]: Textual amendment: Words in s. 55(1)(xviii) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/12); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c645682]: Textual amendment: Word in s. 55(1)(xxiv) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
 
@@ -1073,9 +1073,9 @@ SCHEDULES
 
 [^M_C_923cd309-424f-43ab-f870-ed456969c537]: Modification: S. 55(1)(xxvi): definition of "trust corporation" extended (retrospectively) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/3) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-65960deaa8cc403122e0c49bbbcf827a]: Modification: S. 55(1)(xxvi) modified by 2010 c. 32, s. 12(1A)(1B) (as inserted (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 14 para. 20(2)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/20/2); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5)))
+[^c-65960deaa8cc403122e0c49bbbcf827a]: Modification: S. 55(1)(xxvi) modified by 2010 c. 32, s. 12(1A)(1B) (as inserted (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 14 para. 20(2)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/14/paragraph/20/2); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/84/article/5)))
 
-[^key-5146807db70328850e15ab61a97144ab]: Modification: S. 55(1)(xxvi) definition extended (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 1 para. 7(d)](https://www.legislation.gov.uk/ukcm/2021/2/schedule/1/paragraph/7/d) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-5146807db70328850e15ab61a97144ab]: Modification: S. 55(1)(xxvi) definition extended (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 1 para. 7(d)](https://www.legislation.gov.uk/ukcm/2021/2/schedule/1/paragraph/7/d) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
 
 [^c645687]: Marginal citation: [1906 c. 55](https://www.legislation.gov.uk/ukpga/1906/55).
 
@@ -1087,8 +1087,8 @@ SCHEDULES
 
 [^c645691]: Textual amendment: Sch. 1 Pt. II para. 8(*b*) repealed by [Finance (No. 2) Act 1983 (c. 49, SIF 65)](https://www.legislation.gov.uk/ukpga/1983/49), [s. 16(4)](https://www.legislation.gov.uk/ukpga/1983/49/section/16/4), [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1983/49/schedule/2/part/II)
 
-[^key-5f980e993bcde6a2af813a18304adb09]: Textual amendment: Sch. 1A inserted (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2014/16/section/2/1), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 1](https://www.legislation.gov.uk/ukpga/2014/16/schedule/1) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
+[^c-5f980e993bcde6a2af813a18304adb09]: Textual amendment: Sch. 1A inserted (1.10.2014) by [Inheritance and Trustees' Powers Act 2014 (c. 16)](https://www.legislation.gov.uk/ukpga/2014/16), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2014/16/section/2/1), [12(2)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/2), [Sch. 1](https://www.legislation.gov.uk/ukpga/2014/16/schedule/1) (with [s. 12(4)](https://www.legislation.gov.uk/ukpga/2014/16/section/12/4)); [S.I. 2014/2039](https://www.legislation.gov.uk/uksi/2014/2039), [art. 2](https://www.legislation.gov.uk/uksi/2014/2039/article/2)
 
-[^key-870dcdf6eb4a5eb2cb3514d97e78787e]: Textual amendment: Sch. 1A para. 2 superseded (6.2.2020) by [The Administration of Estates Act 1925 (Fixed Net Sum) Order 2020 (S.I. 2020/33)](https://www.legislation.gov.uk/uksi/2020/33), by virtue of [para. 3(3)](https://www.legislation.gov.uk/ukpga/1925/23/schedule/1A/paragraph/3/3) of this Schedule
+[^c-870dcdf6eb4a5eb2cb3514d97e78787e]: Textual amendment: Sch. 1A para. 2 superseded (6.2.2020) by [The Administration of Estates Act 1925 (Fixed Net Sum) Order 2020 (S.I. 2020/33)](https://www.legislation.gov.uk/uksi/2020/33), by virtue of [para. 3(3)](https://www.legislation.gov.uk/ukpga/1925/23/schedule/1A/paragraph/3/3) of this Schedule
 
 [^c645692]: Textual amendment: S. 58(2) and Sch. 2 repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6)

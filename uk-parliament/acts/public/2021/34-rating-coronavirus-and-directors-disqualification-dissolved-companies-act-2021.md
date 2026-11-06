@@ -36,7 +36,7 @@ An Act to make provision about matters attributable to coronavirus that may not 
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Determinations in respect of certain non-domestic rating lists[^key-eceb1f9ead01c6fb026bae83598360a6]
+## 1. Determinations in respect of certain non-domestic rating lists[^c-eceb1f9ead01c6fb026bae83598360a6]
 
 *Extent: E+W*
 
@@ -78,7 +78,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (9) The Valuation for Rating (Coronavirus) (England) Regulations 2021 ([S.I. 2021/398](https://www.legislation.gov.uk/uksi/2021/398)) (which are superseded by the provision made by this section) are revoked.
 
-## 2. Unfit directors of dissolved companies: Great Britain[^key-0898558caddedc7eb1c339637ec6df34][^key-52a67717ae20419a1f212e6bc2e435ae]
+## 2. Unfit directors of dissolved companies: Great Britain[^c-0898558caddedc7eb1c339637ec6df34][^c-52a67717ae20419a1f212e6bc2e435ae]
 
 (1) The Company Directors Disqualification Act 1986 is amended as follows.
 
@@ -166,7 +166,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (14) The amendments made by this section have effect in relation to conduct of directors of companies occurring, and in relation to companies dissolved, at any time before, as well as after, the passing of this Act.
 
-## 3. Unfit directors of dissolved companies: Northern Ireland[^key-574c0fd142c466370efd92eea55b1ca5][^key-8e13d6cdcef37715fb0255579d9dbac8]
+## 3. Unfit directors of dissolved companies: Northern Ireland[^c-574c0fd142c466370efd92eea55b1ca5][^c-8e13d6cdcef37715fb0255579d9dbac8]
 
 (1) The Company Directors Disqualification (Northern Ireland) Order 2002 ([S.I. 2002/3150 (N.I. 4)](https://www.legislation.gov.uk/nisi/2002/3150)) is amended as follows.
 
@@ -251,7 +251,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (13) The amendments made by this section have effect in relation to conduct of directors of companies occurring, and in relation to companies dissolved, at any time before, as well as after, the passing of this Act.
 
-## 4. Extent, commencement and short title[^key-0ba5bf66eea0c510a9b86309ac92ce58]
+## 4. Extent, commencement and short title[^c-0ba5bf66eea0c510a9b86309ac92ce58]
 
 (1) Section 1 extends to England and Wales.
 
@@ -272,14 +272,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Annotations
 
-[^key-eceb1f9ead01c6fb026bae83598360a6]: Commencement: S. 1 in force at 15.12.2021, see [s. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2021/34/section/4/4/a)
+[^c-eceb1f9ead01c6fb026bae83598360a6]: Commencement: S. 1 in force at 15.12.2021, see [s. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2021/34/section/4/4/a)
 
-[^key-0898558caddedc7eb1c339637ec6df34]: Commencement: S. 2 in force at 15.12.2021 for specified purposes, see [s. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2021/34/section/4/4/b)
+[^c-0898558caddedc7eb1c339637ec6df34]: Commencement: S. 2 in force at 15.12.2021 for specified purposes, see [s. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2021/34/section/4/4/b)
 
-[^key-52a67717ae20419a1f212e6bc2e435ae]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/34/section/2) in force at 15.2.2022 in so far as not already in force, see [s. 4(5)](https://www.legislation.gov.uk/ukpga/2021/34/section/4/5)
+[^c-52a67717ae20419a1f212e6bc2e435ae]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/34/section/2) in force at 15.2.2022 in so far as not already in force, see [s. 4(5)](https://www.legislation.gov.uk/ukpga/2021/34/section/4/5)
 
-[^key-574c0fd142c466370efd92eea55b1ca5]: Commencement: S. 3 in force at 15.12.2021 for specified purposes, see [s. 4(4)(c)](https://www.legislation.gov.uk/ukpga/2021/34/section/4/4/c)
+[^c-574c0fd142c466370efd92eea55b1ca5]: Commencement: S. 3 in force at 15.12.2021 for specified purposes, see [s. 4(4)(c)](https://www.legislation.gov.uk/ukpga/2021/34/section/4/4/c)
 
-[^key-8e13d6cdcef37715fb0255579d9dbac8]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/34/section/3) in force at 15.2.2022 in so far as not already in force, see [s. 4(5)](https://www.legislation.gov.uk/ukpga/2021/34/section/4/5)
+[^c-8e13d6cdcef37715fb0255579d9dbac8]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/34/section/3) in force at 15.2.2022 in so far as not already in force, see [s. 4(5)](https://www.legislation.gov.uk/ukpga/2021/34/section/4/5)
 
-[^key-0ba5bf66eea0c510a9b86309ac92ce58]: Commencement: S. 4 in force at 15.12.2021, see [s. 4(4)(d)](https://www.legislation.gov.uk/ukpga/2021/34/section/4/4/d)
+[^c-0ba5bf66eea0c510a9b86309ac92ce58]: Commencement: S. 4 in force at 15.12.2021, see [s. 4(4)(d)](https://www.legislation.gov.uk/ukpga/2021/34/section/4/4/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Appeal[^key-70b3dc8c929c9110de460997c7fffab5]
+## 71. Appeal[^c-70b3dc8c929c9110de460997c7fffab5]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ After section 50U of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-70b3dc8c929c9110de460997c7fffab5]: Commencement: [S. 71](https://www.legislation.gov.uk/mwa/2011/5/section/71) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)
+[^c-70b3dc8c929c9110de460997c7fffab5]: Commencement: [S. 71](https://www.legislation.gov.uk/mwa/2011/5/section/71) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(n)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/n)

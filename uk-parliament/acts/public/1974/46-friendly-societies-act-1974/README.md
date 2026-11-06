@@ -31,7 +31,7 @@ Friendly Societies Act 1974
 
 An Act to consolidate the Friendly Societies Acts 1896 to 1971 and certain other enactments relating to the societies to which those Acts apply with amendments to give effect to recommendations of the Law Commission and the Scottish Law Commission.
 
-\[31st July 1974\] [^c1072952][^c1072953][^c1072954][^c1072955][^c1072956][^c1072957][^c1072958][^c1072959][^c1072960][^c1072961][^key-2560b7c88e9f8fb393cd6c1bae6968f1]
+\[31st July 1974\] [^c1072952][^c1072953][^c1072954][^c1072955][^c1072956][^c1072957][^c1072958][^c1072959][^c1072960][^c1072961][^c-2560b7c88e9f8fb393cd6c1bae6968f1]
 
 ## Contents
 
@@ -274,6 +274,6 @@ SCHEDULES
 
     Act: power to amend conferred (N.I.) (7.2.1994) by [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49) s. 158(3); [S.R. 1994/17](https://www.legislation.gov.uk/nisr/1994/17) art. 2 (with Sch. 8 para. 7(2)
 
-[^key-2560b7c88e9f8fb393cd6c1bae6968f1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1974/46) power to amend conferred (24.1.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 50(2)(e)](https://www.legislation.gov.uk/ukpga/2012/21/section/50/2/e), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-2560b7c88e9f8fb393cd6c1bae6968f1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1974/46) power to amend conferred (24.1.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 50(2)(e)](https://www.legislation.gov.uk/ukpga/2012/21/section/50/2/e), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
 
 [^c1073426]: Textual amendment: [S. 87](https://www.legislation.gov.uk/ukpga/1974/46/section/87) and heading substituted (28.4.1993) by [Friendly Societies Act 1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40), [s. 95](https://www.legislation.gov.uk/ukpga/1992/40/section/95), [Sch. 16 para.34](https://www.legislation.gov.uk/ukpga/1992/40/schedule/16/paragraph/34) (with ss. 7(5) and 93(4)); [S.I. 1993/1186](https://www.legislation.gov.uk/uksi/1993/1186), [art. 2](https://www.legislation.gov.uk/uksi/1993/1186/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1993/1186/schedule/3).

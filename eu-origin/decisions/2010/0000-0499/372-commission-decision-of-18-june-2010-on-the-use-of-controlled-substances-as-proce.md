@@ -40,34 +40,34 @@ on the use of controlled substances as process agents under Article 8(4) of Regu
 
 (2010/372/EU) (revoked)
 
-[^key-b1bae90d5b0139e002bddd4a4ec0321f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b1bae90d5b0139e002bddd4a4ec0321f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Definitions[^key-b1bae90d5b0139e002bddd4a4ec0321f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Permitted process agent uses and threshold for emissions and quantities[^key-b1bae90d5b0139e002bddd4a4ec0321f]
+## Article 1. Definitions[^c-b1bae90d5b0139e002bddd4a4ec0321f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transfer of allocated quota[^key-b1bae90d5b0139e002bddd4a4ec0321f]
+## Article 2. Permitted process agent uses and threshold for emissions and quantities[^c-b1bae90d5b0139e002bddd4a4ec0321f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Notification of decommissioning[^key-b1bae90d5b0139e002bddd4a4ec0321f]
+## Article 3. Transfer of allocated quota[^c-b1bae90d5b0139e002bddd4a4ec0321f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Date of application[^key-b1bae90d5b0139e002bddd4a4ec0321f]
+## Article 4. Notification of decommissioning[^c-b1bae90d5b0139e002bddd4a4ec0321f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-b1bae90d5b0139e002bddd4a4ec0321f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 5. Date of application[^c-b1bae90d5b0139e002bddd4a4ec0321f]
 
-## ANNEX[^key-b1bae90d5b0139e002bddd4a4ec0321f]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 6.**[^c-b1bae90d5b0139e002bddd4a4ec0321f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-b1bae90d5b0139e002bddd4a4ec0321f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b1bae90d5b0139e002bddd4a4ec0321f]: Textual amendment: Decision revoked (31.12.2020) by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [31](https://www.legislation.gov.uk/uksi/2019/583/regulation/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b1bae90d5b0139e002bddd4a4ec0321f]: Textual amendment: Decision revoked (31.12.2020) by The Ozone-[Depleting Substances and Fluorinated Greenhouse Gases (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/583)](https://www.legislation.gov.uk/uksi/2019/583), [regs. 1](https://www.legislation.gov.uk/uksi/2019/583/regulation/1), [31](https://www.legislation.gov.uk/uksi/2019/583/regulation/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

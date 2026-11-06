@@ -14,10 +14,10 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 151. Amount of a jobseeker’s allowance payable where a person is in a residential care or nursing home[^key-6529c654a0f7d9b8760b02ac9864cf77]
+## 151. Amount of a jobseeker’s allowance payable where a person is in a residential care or nursing home[^c-6529c654a0f7d9b8760b02ac9864cf77]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6529c654a0f7d9b8760b02ac9864cf77]: Textual amendment: [Reg. 151](https://www.legislation.gov.uk/uksi/1996/207/regulation/151) omitted (8.4.2002) by virtue of [The Social Security Amendment (Residential Care and Nursing Homes) Regulations 2001 (S.I. 2001/3767)](https://www.legislation.gov.uk/uksi/2001/3767), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3767/regulation/1), [Sch. Pt. II para. 17](https://www.legislation.gov.uk/uksi/2001/3767/schedule/part/II/paragraph/17)
+[^c-6529c654a0f7d9b8760b02ac9864cf77]: Textual amendment: [Reg. 151](https://www.legislation.gov.uk/uksi/1996/207/regulation/151) omitted (8.4.2002) by virtue of [The Social Security Amendment (Residential Care and Nursing Homes) Regulations 2001 (S.I. 2001/3767)](https://www.legislation.gov.uk/uksi/2001/3767), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3767/regulation/1), [Sch. Pt. II para. 17](https://www.legislation.gov.uk/uksi/2001/3767/schedule/part/II/paragraph/17)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Notice of proposed distribution[^key-f9b8345b7910d629e9eebdc2138f901d]
+## 63. Notice of proposed distribution[^c-f9b8345b7910d629e9eebdc2138f901d]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f9b8345b7910d629e9eebdc2138f901d]: Commencement: Rule 63 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-f9b8345b7910d629e9eebdc2138f901d]: Commencement: Rule 63 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00015]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45); section 176A inserted by the Enterprise Act [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), section 252.

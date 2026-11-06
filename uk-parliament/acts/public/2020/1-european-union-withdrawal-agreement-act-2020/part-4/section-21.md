@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Main power in connection with Ireland/Northern Ireland Protocol[^key-4007f63c0f7abb7e61c590bd8c90a53c]
+## 21. Main power in connection with Ireland/Northern Ireland Protocol[^c-4007f63c0f7abb7e61c590bd8c90a53c]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ After section 8B of the European Union (Withdrawal) Act 2018 (power in connectio
 
 ## Annotations
 
-[^key-4007f63c0f7abb7e61c590bd8c90a53c]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2020/1/section/21) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/i)
+[^c-4007f63c0f7abb7e61c590bd8c90a53c]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2020/1/section/21) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/i)

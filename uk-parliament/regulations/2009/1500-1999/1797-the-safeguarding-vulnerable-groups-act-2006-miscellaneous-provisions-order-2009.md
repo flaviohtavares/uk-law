@@ -52,7 +52,7 @@ In accordance with section 56(3)(n) of that Act, the Secretary of State has cons
 
 In accordance with section 56(2)(a) of that Act, the Secretary of State has obtained the consent of the Welsh Ministers:
 
-## 1. Citation, commencement and interpretation[^key-a4ef12a0a23bdcfe453c9b3797d64e2a]
+## 1. Citation, commencement and interpretation[^c-a4ef12a0a23bdcfe453c9b3797d64e2a]
 
 (1) This Order may be cited as the Safeguarding Vulnerable Groups Act 2006 (Miscellaneous Provisions) Order 2009 and comes into force on 12th October 2009.
 
@@ -61,35 +61,35 @@ In accordance with section 56(2)(a) of that Act, the Secretary of State has obta
 - “the Act” means the Safeguarding Vulnerable Groups Act 2006;
 - “relative” has the same meaning as in section 105(1) of the Children Act 1989[^f00002].
 
-## 2. Vulnerable adults[^key-fd3bab11cacf42876f0bcddf90f26439]
+## 2. Vulnerable adults[^c-fd3bab11cacf42876f0bcddf90f26439]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exceptions - regulated activity relating to children[^key-96be8df6250dcefff87d76b03752f534]
+## 3. Exceptions - regulated activity relating to children[^c-96be8df6250dcefff87d76b03752f534]
 
-(1)[^key-4b7498ef40c12155d6f48a1fc0229df4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-4b7498ef40c12155d6f48a1fc0229df4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The fostering of a child (C) is not to be treated as a regulated activity where—
 
-- (a) a person (F) is barred from engaging in regulated activity relating to children[^key-57b3225b405bc1b726822d2d86c42c23],
-- (b) C is being looked after by a local authority within the meaning of section 22 of the Children Act 1989 or section 74 of the Social Services and Well-being (Wales) Act 2014,[^key-fee79bc05dc07b2f866d7f42c30a5d5e],
+- (a) a person (F) is barred from engaging in regulated activity relating to children[^c-57b3225b405bc1b726822d2d86c42c23],
+- (b) C is being looked after by a local authority within the meaning of section 22 of the Children Act 1989 or section 74 of the Social Services and Well-being (Wales) Act 2014,[^c-fee79bc05dc07b2f866d7f42c30a5d5e],
 - (c) the local authority that looks after C is satisfied that C’s welfare requires that C is fostered by F, and
 - (d) either—
   - (i) F or a member of F’s household is a relative of C, or
-  - (ii) C was being fostered by F immediately before F was barred from engaging in regulated activity relating to children[^key-185bd5bfcb4be2e6f9346c1d2626abbe].
+  - (ii) C was being fostered by F immediately before F was barred from engaging in regulated activity relating to children[^c-185bd5bfcb4be2e6f9346c1d2626abbe].
 
-## 4. Exception – regulated activity relating to vulnerable adults[^key-5a137966bade13067fa81a21a8d55dba]
+## 4. Exception – regulated activity relating to vulnerable adults[^c-5a137966bade13067fa81a21a8d55dba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Barred Lists[^key-2ba7607a63a36a14fdcdbd014477ab5b]
+## 5. Barred Lists[^c-2ba7607a63a36a14fdcdbd014477ab5b]
 
 For the purposes of—
 
 - (a) section 3(2)(b) of the Act, the list maintained under Article 6(1)(a) of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00003] is specified as a list corresponding with the children’s barred list;
 - (b) section 3(3)(b) of the Act, the list maintained under Article 6(1)(b) of that Order is specified as a list corresponding with the adults’ barred list.
 
-## 6. Welsh Ministers - functions under the Children Act 1989[^key-bd77e04e8a4be298ee70feeeb30ee752]
+## 6. Welsh Ministers - functions under the Children Act 1989[^c-bd77e04e8a4be298ee70feeeb30ee752]
 
 In section 45(7)[^f00004] of the Act, after paragraph (e) insert—
 
@@ -123,28 +123,28 @@ Article 6 adds the Welsh Ministers (in relation to the exercise of some of their
 
 [^f00001]: Footnote: [2006 c. 47](https://www.legislation.gov.uk/ukpga/2006/47).
 
-[^key-a4ef12a0a23bdcfe453c9b3797d64e2a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/1797/article/1) in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1797/article/1/1)
+[^c-a4ef12a0a23bdcfe453c9b3797d64e2a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/1797/article/1) in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1797/article/1/1)
 
 [^f00002]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). The definition of “relative” was amended by the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-fd3bab11cacf42876f0bcddf90f26439]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2009/1797/article/2) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/2157/article/3) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
+[^c-fd3bab11cacf42876f0bcddf90f26439]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2009/1797/article/2) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/2157/article/3) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
 
-[^key-96be8df6250dcefff87d76b03752f534]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/1797/article/3) in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1797/article/1/1)
+[^c-96be8df6250dcefff87d76b03752f534]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/1797/article/3) in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1797/article/1/1)
 
-[^key-4b7498ef40c12155d6f48a1fc0229df4]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2009/1797/article/3/1) omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2012/2157/article/4/a) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
+[^c-4b7498ef40c12155d6f48a1fc0229df4]: Textual amendment: [Art. 3(1)](https://www.legislation.gov.uk/uksi/2009/1797/article/3/1) omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2012/2157/article/4/a) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
 
-[^key-57b3225b405bc1b726822d2d86c42c23]: Textual amendment: Words in [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2009/1797/article/3/2/a) substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2012/2157/article/4/b) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
+[^c-57b3225b405bc1b726822d2d86c42c23]: Textual amendment: Words in [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2009/1797/article/3/2/a) substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2012/2157/article/4/b) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
 
-[^key-fee79bc05dc07b2f866d7f42c30a5d5e]: Textual amendment: Words in [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2009/1797/article/3/2/b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 112](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/112)
+[^c-fee79bc05dc07b2f866d7f42c30a5d5e]: Textual amendment: Words in [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2009/1797/article/3/2/b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 112](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/112)
 
-[^key-185bd5bfcb4be2e6f9346c1d2626abbe]: Textual amendment: Words in [art. 3(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2009/1797/article/3/2/d/ii) substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2012/2157/article/4/c) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
+[^c-185bd5bfcb4be2e6f9346c1d2626abbe]: Textual amendment: Words in [art. 3(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2009/1797/article/3/2/d/ii) substituted (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2012/2157/article/4/c) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
 
-[^key-5a137966bade13067fa81a21a8d55dba]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2009/1797/article/4) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/2157/article/3) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
+[^c-5a137966bade13067fa81a21a8d55dba]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/uksi/2009/1797/article/4) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)](https://www.legislation.gov.uk/uksi/2012/2157), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2157/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/2157/article/3) (with [arts. 6-9](https://www.legislation.gov.uk/uksi/2012/2157/article/6))
 
-[^key-2ba7607a63a36a14fdcdbd014477ab5b]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2009/1797/article/5) in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1797/article/1/1)
+[^c-2ba7607a63a36a14fdcdbd014477ab5b]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2009/1797/article/5) in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1797/article/1/1)
 
 [^f00003]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351)
 
-[^key-bd77e04e8a4be298ee70feeeb30ee752]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/1797/article/6) in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1797/article/1/1)
+[^c-bd77e04e8a4be298ee70feeeb30ee752]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/1797/article/6) in force at 12.10.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1797/article/1/1)
 
 [^f00004]: Footnote: Section 45(7) of the Act has been amended by the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) but the amendments were not in force on the making of this Order.

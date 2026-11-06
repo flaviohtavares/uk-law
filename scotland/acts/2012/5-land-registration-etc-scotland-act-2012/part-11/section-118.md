@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Transitional provisions[^key-9e90113c1370bc2a1aaa20da5b7bf024]
+## 118. Transitional provisions[^c-9e90113c1370bc2a1aaa20da5b7bf024]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 4, which contains transitional provisions, has effect.
 
 ## Annotations
 
-[^key-9e90113c1370bc2a1aaa20da5b7bf024]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2012/5/section/118) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-9e90113c1370bc2a1aaa20da5b7bf024]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2012/5/section/118) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

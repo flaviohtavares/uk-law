@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 129. Resolutions by post[^key-489340e9053e7f47859a8e052864ea0e]
+## 129. Resolutions by post[^c-489340e9053e7f47859a8e052864ea0e]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.167 of the 1986 Rules[^f00053].
 
 ## Annotations
 
-[^key-489340e9053e7f47859a8e052864ea0e]: Commencement: Rule 129 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-489340e9053e7f47859a8e052864ea0e]: Commencement: Rule 129 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00053]: Footnote: Paragraph (2) was amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

@@ -25,14 +25,14 @@ summary: ''
 - (a) any prescribed disease, or
 - (b) any prescribed personal injury (other than an injury caused by accident arising out of and in the course of his employment),
 
-which is a disease or injury due to the nature of that employment [^key-53b0e92bb1f484ac068e723a0285caea]....
+which is a disease or injury due to the nature of that employment [^c-53b0e92bb1f484ac068e723a0285caea]....
 
 (2) A disease or injury may be prescribed in relation to any employed earners if the Secretary of State is satisfied that—
 
 - (a) it ought to be treated, having regard to its causes and incidence and any other relevant considerations, as a risk of their occupations and not as a risk common to all persons; and
 - (b) it is such that, in the absence of special circumstances, the attribution of particular cases to the nature of the employment can be established or presumed with reasonable certainty.
 
-(3) Regulations prescribing any disease or injury for those purposes may provide that a person who developed the disease or injury on or at any time after a date specified in the regulations (being a date before the regulations came into force [^key-918a2c80700a79756b5ebc2020b92c73]...) shall be treated, subject to any prescribed modifications of this section or section 109 or 110 below, as if the regulations had been in force when he developed the disease or injury.
+(3) Regulations prescribing any disease or injury for those purposes may provide that a person who developed the disease or injury on or at any time after a date specified in the regulations (being a date before the regulations came into force [^c-918a2c80700a79756b5ebc2020b92c73]...) shall be treated, subject to any prescribed modifications of this section or section 109 or 110 below, as if the regulations had been in force when he developed the disease or injury.
 
 (4) Provision may be made by regulations for determining—
 
@@ -45,6 +45,6 @@ which is a disease or injury due to the nature of that employment [^key-53b0e92b
 
 ## Annotations
 
-[^key-53b0e92bb1f484ac068e723a0285caea]: Textual amendment: Words in s. 108(1) repealed (30.10.2012 for specified purposes, 5.12.2012 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 64(1)(c)](https://www.legislation.gov.uk/ukpga/2012/5/section/64/1/c), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/5/a)[(6)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/a)
+[^c-53b0e92bb1f484ac068e723a0285caea]: Textual amendment: Words in s. 108(1) repealed (30.10.2012 for specified purposes, 5.12.2012 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 64(1)(c)](https://www.legislation.gov.uk/ukpga/2012/5/section/64/1/c), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/5/a)[(6)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/a)
 
-[^key-918a2c80700a79756b5ebc2020b92c73]: Textual amendment: Words in s. 108(3) repealed (30.10.2012 for specified purposes, 5.12.2012 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 64(1)(d)](https://www.legislation.gov.uk/ukpga/2012/5/section/64/1/d), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/5/a)[(6)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/a)
+[^c-918a2c80700a79756b5ebc2020b92c73]: Textual amendment: Words in s. 108(3) repealed (30.10.2012 for specified purposes, 5.12.2012 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 64(1)(d)](https://www.legislation.gov.uk/ukpga/2012/5/section/64/1/d), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/5/a)[(6)(a)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Piloting of changes to the annual canvass[^key-ce8d5db67c5cfe571e86df06f26e1666][^key-3aeabfef44c8cbc90f7ea050f82428a9]
+## 9. Piloting of changes to the annual canvass[^c-ce8d5db67c5cfe571e86df06f26e1666][^c-3aeabfef44c8cbc90f7ea050f82428a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) An order which, by virtue of subsection (1), is to have effect in relation to a limited period is referred to in this section as a “**pilot scheme**”.
 
-(3) The Secretary of State[^key-e70bde63e1c99da5cdd5f1fef3f6e4b6] may make a pilot scheme applying in relation to an area only if the registration officer for that area has—
+(3) The Secretary of State[^c-e70bde63e1c99da5cdd5f1fef3f6e4b6] may make a pilot scheme applying in relation to an area only if the registration officer for that area has—
 
 - (a) proposed the making of a pilot scheme in relation to that area, and
 - (b) agreed to any modifications made by the Secretary of State to the proposal.
@@ -38,7 +38,7 @@ summary: ''
 (7) If a pilot scheme is made, the Electoral Commission must—
 
 - (a) prepare a report on the pilot scheme, and
-- (b) by no later than a date to be specified in the pilot scheme, give a copy of the report to the Secretary of State[^key-04e5cd8b992e2d123cbf42dea059e7ca] and to the registration officer for the area concerned (or the officer for each area concerned).
+- (b) by no later than a date to be specified in the pilot scheme, give a copy of the report to the Secretary of State[^c-04e5cd8b992e2d123cbf42dea059e7ca] and to the registration officer for the area concerned (or the officer for each area concerned).
 
 (8) The Electoral Commission's report must contain—
 
@@ -47,18 +47,18 @@ summary: ''
 - (c) an assessment of the extent to which the objective was met in the area or areas concerned during the specified period, and
 - (d) an assessment of the extent to which the scheme resulted in savings of time and costs, or the opposite.
 
-(9) The Secretary of State[^key-c58753fa902a618ac56d5e95f26ffa72] must publish the Electoral Commission's report.
+(9) The Secretary of State[^c-c58753fa902a618ac56d5e95f26ffa72] must publish the Electoral Commission's report.
 
 (10) A registration officer in Great Britain must comply with any request made by the Electoral Commission for information that it reasonably requires in connection with the preparation of a report under this section.
 
 ## Annotations
 
-[^key-ce8d5db67c5cfe571e86df06f26e1666]: Commencement: S. 9 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(h)](https://www.legislation.gov.uk/uksi/2014/414/article/5/h)
+[^c-ce8d5db67c5cfe571e86df06f26e1666]: Commencement: S. 9 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(h)](https://www.legislation.gov.uk/uksi/2014/414/article/5/h)
 
-[^key-3aeabfef44c8cbc90f7ea050f82428a9]: Commencement: S. 9 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/g)
+[^c-3aeabfef44c8cbc90f7ea050f82428a9]: Commencement: S. 9 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/g)
 
-[^key-e70bde63e1c99da5cdd5f1fef3f6e4b6]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/ukpga/2013/6/section/9/3) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 23(2)(c)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/23/2/c) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-e70bde63e1c99da5cdd5f1fef3f6e4b6]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/ukpga/2013/6/section/9/3) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 23(2)(c)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/23/2/c) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-04e5cd8b992e2d123cbf42dea059e7ca]: Textual amendment: Words in [s. 9(7)](https://www.legislation.gov.uk/ukpga/2013/6/section/9/7) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 23(2)(c)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/23/2/c) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-04e5cd8b992e2d123cbf42dea059e7ca]: Textual amendment: Words in [s. 9(7)](https://www.legislation.gov.uk/ukpga/2013/6/section/9/7) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 23(2)(c)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/23/2/c) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-c58753fa902a618ac56d5e95f26ffa72]: Textual amendment: Words in [s. 9(9)](https://www.legislation.gov.uk/ukpga/2013/6/section/9/9) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 23(2)(c)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/23/2/c) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-c58753fa902a618ac56d5e95f26ffa72]: Textual amendment: Words in [s. 9(9)](https://www.legislation.gov.uk/ukpga/2013/6/section/9/9) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 23(2)(c)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/23/2/c) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))

@@ -49,15 +49,15 @@ The Secretary of State has determined to make an Order giving effect to the prop
 
 Notice of the Secretary of State’s determination was published in the London Gazette on 7th July 2014.
 
-The Secretary of State, in exercise of the powers conferred by sections 1 and 5 of, and paragraphs 3 to 5, 7, 8, 11, and 16 of Schedule 1 to, the 1992 Act, makes the following Order—[^key-18bec0eb6f8afd27fb7756f23bc0bf0f]
+The Secretary of State, in exercise of the powers conferred by sections 1 and 5 of, and paragraphs 3 to 5, 7, 8, 11, and 16 of Schedule 1 to, the 1992 Act, makes the following Order—[^c-18bec0eb6f8afd27fb7756f23bc0bf0f]
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-32c54be252d1a1758f4ca61068c2a44c]
+### 1. Citation and commencement[^c-32c54be252d1a1758f4ca61068c2a44c]
 
 This Order may be cited as the Felixstowe Branch Line (Land Acquisition) Order 2014 and comes into force on 29th July 2014.
 
-### 2. Interpretation[^key-53478c4f726f1c5bb92cf2b0acb18eb7]
+### 2. Interpretation[^c-53478c4f726f1c5bb92cf2b0acb18eb7]
 
 (1) In this Order—
 
@@ -83,13 +83,13 @@ This Order may be cited as the Felixstowe Branch Line (Land Acquisition) Order 2
 
 ### Powers of acquisition
 
-#### 3. Power to acquire land[^key-729809b0412fc7ea44abbf3ae4289ff5]
+#### 3. Power to acquire land[^c-729809b0412fc7ea44abbf3ae4289ff5]
 
 (1) The undertaker may acquire compulsorily so much of the land shown on the land plans within the Order limits and described in the book of reference as may be required for the purposes of the authorised works and may use any land so acquired for those purposes or for any other purposes that are ancillary to its railway undertaking.
 
 (2) This article is subject to article 8 (temporary use of land for construction of works).
 
-#### 4. Application of Part 1 of the 1965 Act[^key-8091da5888e3c3d7c3f81e76c4c11390]
+#### 4. Application of Part 1 of the 1965 Act[^c-8091da5888e3c3d7c3f81e76c4c11390]
 
 (1) Part 1 of the 1965 Act, in so far as not modified by or inconsistent with the provisions of this Order, applies to the acquisition of land under this Order—
 
@@ -98,7 +98,7 @@ This Order may be cited as the Felixstowe Branch Line (Land Acquisition) Order 2
 
 (2) Part 1 of the 1965 Act, as applied by paragraph (1), has effect as if section 4 (which provides a time limit for compulsory purchase of land) and paragraph 3(3) of Schedule 3 (which makes provision as to the giving of bonds) were omitted.
 
-#### 5. Application of the Compulsory Purchase (Vesting Declarations) Act 1981[^key-ea08d15db3dcb9dae27832bb6d982490]
+#### 5. Application of the Compulsory Purchase (Vesting Declarations) Act 1981[^c-ea08d15db3dcb9dae27832bb6d982490]
 
 (1) The Compulsory Purchase (Vesting Declarations) Act 1981[^f00008] applies as if this Order were a compulsory purchase order.
 
@@ -133,7 +133,7 @@ This Order may be cited as the Felixstowe Branch Line (Land Acquisition) Order 2
 
 (8) References to the 1965 Act are to be construed as references to that Act as applied to the acquisition of land under article 3 (power to acquire land).
 
-#### 6. Power to acquire new rights[^key-7bba9b2cb3be82b8031330857938ca11]
+#### 6. Power to acquire new rights[^c-7bba9b2cb3be82b8031330857938ca11]
 
 (1) The undertaker may acquire compulsorily such easements or other rights over any land referred to in paragraph (1) of article 3 (power to acquire land) as may be required for any purpose for which that land may be acquired under that provision, by creating them as well as by acquiring easements or other rights already in existence.
 
@@ -141,7 +141,7 @@ This Order may be cited as the Felixstowe Branch Line (Land Acquisition) Order 2
 
 (3) Schedule 6 to the 2008 Order, as applied by article 15, has effect for the purpose of modifying the enactments relating to compensation and the provisions of the 1965 Act in their application in relation to the compulsory acquisition under this article of a right over land by the creation of a new right.
 
-#### 7. Rights under or over streets[^key-8fe22d13b75355ce85481064f9e60580]
+#### 7. Rights under or over streets[^c-8fe22d13b75355ce85481064f9e60580]
 
 (1) The undertaker may enter upon and appropriate so much of the subsoil of, or air-space over, any street within the Order limits as may be required for the purposes of the authorised works and may use the subsoil or air-space for those purposes or any other purpose ancillary to its railway undertaking.
 
@@ -158,7 +158,7 @@ This Order may be cited as the Felixstowe Branch Line (Land Acquisition) Order 2
 
 ### Temporary possession of land
 
-#### 8. Temporary use of land for construction of works[^key-b8b7b718bfe3500c3325351a4ffc6b14]
+#### 8. Temporary use of land for construction of works[^c-b8b7b718bfe3500c3325351a4ffc6b14]
 
 (1) The undertaker may, in connection with the carrying out of the authorised works—
 
@@ -185,7 +185,7 @@ This Order may be cited as the Felixstowe Branch Line (Land Acquisition) Order 2
 
 (10) Section 13 (refusal to give possession to acquiring authority) of the 1965 Act[^f00011] applies to the temporary use of land under this article to the same extent as it applies to the acquisition of land under this Order by virtue of article 4(1) (application of Part 1 of the 1965 Act).
 
-#### 9. Temporary use of land for maintenance of works[^key-4309af5c0e4bedc11aa295c4f444dd4f]
+#### 9. Temporary use of land for maintenance of works[^c-4309af5c0e4bedc11aa295c4f444dd4f]
 
 (1) Subject to paragraph (2), at any time during the maintenance period relating to any of the authorised works, the undertaker may—
 
@@ -217,7 +217,7 @@ This Order may be cited as the Felixstowe Branch Line (Land Acquisition) Order 2
 
 ### Compensation
 
-#### 10. Disregard of certain interests and improvements[^key-32e88265322718c8eb1315d3d351237c]
+#### 10. Disregard of certain interests and improvements[^c-32e88265322718c8eb1315d3d351237c]
 
 (1) In assessing the compensation payable to any person on the acquisition from that person of any land under this Order, the tribunal must not take into account—
 
@@ -228,7 +228,7 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 (2) In paragraph (1) “relevant land” means the land acquired from the person concerned or any other land with which that person is, or was at the time when the building was erected, the works executed or the improvement or alteration made, directly or indirectly concerned.
 
-#### 11. Set-off for enhancement in value of retained land[^key-9979b025e21a3db6dac8d8ed3d326be1]
+#### 11. Set-off for enhancement in value of retained land[^c-9979b025e21a3db6dac8d8ed3d326be1]
 
 (1) In assessing the compensation payable to any person in respect of the acquisition from that person under this Order of any land (including the subsoil) the tribunal must set off against the value of the land so acquired any increase in value of any contiguous or adjacent land belonging to that person in the same capacity which will accrue to that person by reason of the construction of the authorised works.
 
@@ -243,7 +243,7 @@ which will accrue to that person by reason of the construction of the authorised
 
 ### Supplementary
 
-#### 12. Acquisition of part of certain properties[^key-cde5ea06de90dade0f766ac6452aed8b]
+#### 12. Acquisition of part of certain properties[^c-cde5ea06de90dade0f766ac6452aed8b]
 
 (1) This article applies instead of section 8(1) (other provisions as to divided land) of the 1965 Act[^f00012] (as applied by article 4 (application of Part 1 of the 1965 Act)) in any case where—
 
@@ -288,7 +288,7 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 (10) Where the owner is required under this article to sell only part of a house, building or manufactory or of land consisting of a house with a park or garden, the undertaker must pay the owner compensation for any loss sustained by the owner due to the severance of that part in addition to the value of the interest acquired.
 
-#### 13. Extinction or suspension of private rights of way[^key-390dcd74d3f5b177019f6ad73360d486]
+#### 13. Extinction or suspension of private rights of way[^c-390dcd74d3f5b177019f6ad73360d486]
 
 (1) All private rights of way over land subject to compulsory acquisition under this Order are extinguished—
 
@@ -305,7 +305,7 @@ whichever is the sooner.
 
 (5) This article does not apply in relation to any right of way to which section 271 or 272 of the Town and Country Planning Act 1990[^f00014] (extinguishment of rights of statutory undertakers, etc.) or paragraph 2 of Schedule 9 (provisions relating to statutory undertakers, etc.) to the 2008 Order, as applied by article 15 (application of provisions of the 2008 Order), applies.
 
-#### 14. Time limit for exercise of powers of acquisition[^key-7f06d55eb3abb26ac86f24f9c490fdaa]
+#### 14. Time limit for exercise of powers of acquisition[^c-7f06d55eb3abb26ac86f24f9c490fdaa]
 
 (1) After the end of the period of 5 years beginning with the day on which this Order comes into force—
 
@@ -316,7 +316,7 @@ whichever is the sooner.
 
 ## PART 3 — MISCELLANEOUS AND GENERAL
 
-### 15. Application of provisions of the 2008 Order[^key-deec4f79d89077459ff1edb4f63edfde]
+### 15. Application of provisions of the 2008 Order[^c-deec4f79d89077459ff1edb4f63edfde]
 
 The following provisions of the 2008 Order have effect in relation to this Order as they have effect in relation to the 2008 Order—
 
@@ -330,7 +330,7 @@ The following provisions of the 2008 Order have effect in relation to this Order
 - Schedule 9 (provisions relating to statutory undertakers, etc.);
 - Schedule 10 (protective provisions).
 
-### 16. Certification of plans, etc.[^key-53283ec6361f87330603c62aafc22d9e]
+### 16. Certification of plans, etc.[^c-53283ec6361f87330603c62aafc22d9e]
 
 The undertaker must, as soon as practicable after the making of this Order, submit copies of the book of reference and the land plans to the Secretary of State for certification that they are, respectively, true copies of the book of reference and land plans referred to in this Order; and a document so certified is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
@@ -344,7 +344,7 @@ Department for Transport
 
 8th July 2014
 
-## SCHEDULE — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-c33ce6a70db248d513909e1fcea3a28a]
+## SCHEDULE — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-c33ce6a70db248d513909e1fcea3a28a]
 
 Article 8
 
@@ -406,11 +406,11 @@ A copy of the land plans and book of reference mentioned in this Order and certi
 
 [^f00002]: Footnote: [1992 c. 42](https://www.legislation.gov.uk/ukpga/1992/42); section 1 was amended by the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), Schedule 2, paragraphs 51 and 52; section 5 was amended by [S.I. 2012/1659](https://www.legislation.gov.uk/uksi/2012/1659).
 
-[^key-18bec0eb6f8afd27fb7756f23bc0bf0f]: Modification: Order modified (21.9.2017) by [The Network Rail (Felixstowe Branch Line Land Acquisition) (Agreements for Transfer) Order 2017 (S.I. 2017/865)](https://www.legislation.gov.uk/uksi/2017/865), [arts. 1](https://www.legislation.gov.uk/uksi/2017/865/article/1), [3](https://www.legislation.gov.uk/uksi/2017/865/article/3)
+[^c-18bec0eb6f8afd27fb7756f23bc0bf0f]: Modification: Order modified (21.9.2017) by [The Network Rail (Felixstowe Branch Line Land Acquisition) (Agreements for Transfer) Order 2017 (S.I. 2017/865)](https://www.legislation.gov.uk/uksi/2017/865), [arts. 1](https://www.legislation.gov.uk/uksi/2017/865/article/1), [3](https://www.legislation.gov.uk/uksi/2017/865/article/3)
 
-[^key-32c54be252d1a1758f4ca61068c2a44c]: Commencement: Art. 1 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-32c54be252d1a1758f4ca61068c2a44c]: Commencement: Art. 1 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
-[^key-53478c4f726f1c5bb92cf2b0acb18eb7]: Commencement: Art. 2 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-53478c4f726f1c5bb92cf2b0acb18eb7]: Commencement: Art. 2 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
 [^f00003]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -420,48 +420,48 @@ A copy of the land plans and book of reference mentioned in this Order and certi
 
 [^f00006]: Footnote: [1875 c. cxlv](https://www.legislation.gov.uk/ukla/1875/145).
 
-[^key-729809b0412fc7ea44abbf3ae4289ff5]: Commencement: Art. 3 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-729809b0412fc7ea44abbf3ae4289ff5]: Commencement: Art. 3 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
-[^key-8091da5888e3c3d7c3f81e76c4c11390]: Commencement: Art. 4 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-8091da5888e3c3d7c3f81e76c4c11390]: Commencement: Art. 4 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
 [^f00007]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-ea08d15db3dcb9dae27832bb6d982490]: Commencement: Art. 5 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-ea08d15db3dcb9dae27832bb6d982490]: Commencement: Art. 5 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
 [^f00008]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66).
 
-[^key-7bba9b2cb3be82b8031330857938ca11]: Commencement: Art. 6 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-7bba9b2cb3be82b8031330857938ca11]: Commencement: Art. 6 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
-[^key-8fe22d13b75355ce85481064f9e60580]: Commencement: Art. 7 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-8fe22d13b75355ce85481064f9e60580]: Commencement: Art. 7 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
 [^f00009]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22).
 
-[^key-b8b7b718bfe3500c3325351a4ffc6b14]: Commencement: Art. 8 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-b8b7b718bfe3500c3325351a4ffc6b14]: Commencement: Art. 8 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
 [^f00010]: Footnote: Section 10 was amended by section 4 of, and paragraph 13(2) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
 [^f00011]: Footnote: Section 13 was amended by sections 62(3) and 139 of, and paragraph 27 and 28 of Schedule 13, and part 3 of Schedule 23, to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-4309af5c0e4bedc11aa295c4f444dd4f]: Commencement: Art. 9 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-4309af5c0e4bedc11aa295c4f444dd4f]: Commencement: Art. 9 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
-[^key-32e88265322718c8eb1315d3d351237c]: Commencement: Art. 10 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-32e88265322718c8eb1315d3d351237c]: Commencement: Art. 10 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
-[^key-9979b025e21a3db6dac8d8ed3d326be1]: Commencement: Art. 11 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-9979b025e21a3db6dac8d8ed3d326be1]: Commencement: Art. 11 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
-[^key-cde5ea06de90dade0f766ac6452aed8b]: Commencement: Art. 12 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-cde5ea06de90dade0f766ac6452aed8b]: Commencement: Art. 12 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
 [^f00012]: Footnote: Section 8 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
-[^key-390dcd74d3f5b177019f6ad73360d486]: Commencement: Art. 13 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-390dcd74d3f5b177019f6ad73360d486]: Commencement: Art. 13 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
 [^f00013]: Footnote: Section 11 was amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of, and part 1 of Schedule 1 to, the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure 2006 ([2006 No 1](https://www.legislation.gov.uk/ukcm/2006/1)) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
 [^f00014]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 272 was amended by paragraph 103(1) and (2) of Schedule 17 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-7f06d55eb3abb26ac86f24f9c490fdaa]: Commencement: Art. 14 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-7f06d55eb3abb26ac86f24f9c490fdaa]: Commencement: Art. 14 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
-[^key-deec4f79d89077459ff1edb4f63edfde]: Commencement: Art. 15 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-deec4f79d89077459ff1edb4f63edfde]: Commencement: Art. 15 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
-[^key-53283ec6361f87330603c62aafc22d9e]: Commencement: Art. 16 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-53283ec6361f87330603c62aafc22d9e]: Commencement: Art. 16 in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
 
-[^key-c33ce6a70db248d513909e1fcea3a28a]: Commencement: Sch. in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)
+[^c-c33ce6a70db248d513909e1fcea3a28a]: Commencement: Sch. in force at 29.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1821/article/1)

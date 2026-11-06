@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Warrants authorising entry[^key-5406abac2ab543d7dd5aa5ea78cd0f7e]
+## 80. Warrants authorising entry[^c-5406abac2ab543d7dd5aa5ea78cd0f7e]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5406abac2ab543d7dd5aa5ea78cd0f7e]: Commencement: S. 80 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-5406abac2ab543d7dd5aa5ea78cd0f7e]: Commencement: S. 80 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

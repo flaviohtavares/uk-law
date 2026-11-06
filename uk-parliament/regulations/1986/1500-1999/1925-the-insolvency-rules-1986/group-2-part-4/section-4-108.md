@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.108. Creditors' meeting to receive liquidator's resignation[^key-5faa82c245cec9bde682d728320a25df]
+## 4.108. Creditors' meeting to receive liquidator's resignation[^c-5faa82c245cec9bde682d728320a25df]
 
 *Extent: E+W*
 
@@ -36,14 +36,14 @@ summary: ''
 
 (5) Where two or more persons are acting as liquidator jointly, any one of them may proceed under this Rule (without prejudice to the continuation in office of the other or others) on the ground that, in his opinion and that of the other or others, it is no longer expedient that there should continue to be the present number of joint liquidators.
 
-(6)[^key-50d1ef77fddb33faed84cad543a1905e] If there is no quorum present at the meeting summoned to receive the liquidator’s resignation, the meeting is deemed to have been held, a resolution is deemed to have been passed that the liquidator’s resignation be accepted and the creditors are deemed not to have resolved against the liquidator having his release.
+(6)[^c-50d1ef77fddb33faed84cad543a1905e] If there is no quorum present at the meeting summoned to receive the liquidator’s resignation, the meeting is deemed to have been held, a resolution is deemed to have been passed that the liquidator’s resignation be accepted and the creditors are deemed not to have resolved against the liquidator having his release.
 
 (7) Where paragraph (6) applies any reference in the Rules to a resolution that the liquidator’s resignation be accepted is replaced by a reference to the making of a written statement, signed by the person who, had there been a quorum present, would have been chairman of the meeting, that no quorum was present and that the liquidator may resign.
 
 ## Annotations
 
-[^key-5faa82c245cec9bde682d728320a25df]: Commencement: [Rule 4.108](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.108) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-5faa82c245cec9bde682d728320a25df]: Commencement: [Rule 4.108](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.108) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00062]: Marginal citation: \[FORM 4.22\]
 
-[^key-50d1ef77fddb33faed84cad543a1905e]: Textual amendment: [Rule 4.108(6)](https://www.legislation.gov.uk/uksi/1986/1925/article/4.108/6)[(7)](https://www.legislation.gov.uk/uksi/1986/1925/article/4.108/7) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 64](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/64)
+[^c-50d1ef77fddb33faed84cad543a1905e]: Textual amendment: [Rule 4.108(6)](https://www.legislation.gov.uk/uksi/1986/1925/article/4.108/6)[(7)](https://www.legislation.gov.uk/uksi/1986/1925/article/4.108/7) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 64](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/64)

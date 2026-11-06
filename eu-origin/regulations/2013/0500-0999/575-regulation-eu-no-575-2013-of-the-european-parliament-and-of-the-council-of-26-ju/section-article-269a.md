@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 269a. NPE securitisations[^key-fd26426d3c9d78a9d6286a7f85451b6d][^c000003][^c000001]
+## Article 269a. NPE securitisations[^c-fd26426d3c9d78a9d6286a7f85451b6d][^c000003][^c000001]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fd26426d3c9d78a9d6286a7f85451b6d]: Textual amendment: [Art. 269a](https://www.legislation.gov.uk/eur/2013/575/article/269a) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(32)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/32)
+[^c-fd26426d3c9d78a9d6286a7f85451b6d]: Textual amendment: [Art. 269a](https://www.legislation.gov.uk/eur/2013/575/article/269a) inserted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(32)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/32)
 
 [^c000003]: Textual amendment: Substituted by [Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms](https://www.legislation.gov.uk/eur/2017/2401).
 

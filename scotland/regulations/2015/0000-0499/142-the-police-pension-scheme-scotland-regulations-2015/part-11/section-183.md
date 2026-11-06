@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 183. Amount of club transfer earned pension[^key-07fd1410e79252ebed691a22de738437]
+## 183. Amount of club transfer earned pension[^c-07fd1410e79252ebed691a22de738437]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07fd1410e79252ebed691a22de738437]: Commencement: Reg. 183 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-07fd1410e79252ebed691a22de738437]: Commencement: Reg. 183 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

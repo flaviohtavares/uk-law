@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 187. Notifications relating to other events[^key-b3d19129b9fa422206a34cc0e0a321f4]
+## 187. Notifications relating to other events[^c-b3d19129b9fa422206a34cc0e0a321f4]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In addition to the information required by rule 183, a notification relating to 
 
 ## Annotations
 
-[^key-b3d19129b9fa422206a34cc0e0a321f4]: Commencement: Rule 187 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-b3d19129b9fa422206a34cc0e0a321f4]: Commencement: Rule 187 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

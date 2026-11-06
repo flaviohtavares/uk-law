@@ -48,7 +48,7 @@ The Secretary of State for Health makes the following Regulations in exercise of
 
 In accordance with section 195(3) of that Act the Secretary of State has consulted the Welsh Ministers.
 
-## 1. Citation, commencement, application and interpretation[^key-fef4789dd29a66a8eb2be7ae2ba13532]
+## 1. Citation, commencement, application and interpretation[^c-fef4789dd29a66a8eb2be7ae2ba13532]
 
 (1) These Regulations may be cited as the Personal Injuries (NHS Charges) Amendment Regulations 2009 and shall come into force on 1st April 2009.
 
@@ -60,17 +60,17 @@ In accordance with section 195(3) of that Act the Secretary of State has consult
 - “the principal Regulations” means the Personal Injuries (NHS Charges) (Amounts) Regulations 2007[^f00002];
 - “the 2006 Regulations” means the Personal Injuries (NHS Charges) (General) and Road Traffic (NHS Charges) (Amendment) Regulations 2006[^f00003].
 
-## 2. Amendment of the principal Regulations[^key-8ceb453f3776f20e093f9dd03eed48c0]
+## 2. Amendment of the principal Regulations[^c-8ceb453f3776f20e093f9dd03eed48c0]
 
 The principal Regulations are amended in accordance with Schedule 1.
 
-## 3. Amendment of the 2006 Regulations[^key-ffbf63240179cbf923e29e977d7dc6d7]
+## 3. Amendment of the 2006 Regulations[^c-ffbf63240179cbf923e29e977d7dc6d7]
 
 The 2006 Regulations are amended in accordance with Schedule 2.
 
-## 4. Saving[^key-55d6c358e7afb311ca779565ba03330b]
+## 4. Saving[^c-55d6c358e7afb311ca779565ba03330b]
 
-Notwithstanding regulation 2, the principal Regulations shall continue to have effect in respect of a certificate relating to an injury which occurred before 1st April 2009 as if the amendments made under paragraph 1(b) to (e)[^key-ebc2f789495a7ce435e8efe6e05dd6ab] of Schedule 1 had not been made.
+Notwithstanding regulation 2, the principal Regulations shall continue to have effect in respect of a certificate relating to an injury which occurred before 1st April 2009 as if the amendments made under paragraph 1(b) to (e)[^c-ebc2f789495a7ce435e8efe6e05dd6ab] of Schedule 1 had not been made.
 
 Signed by authority of the Secretary of State for Health.
 
@@ -86,7 +86,7 @@ Department of Health
 
 Regulation 2
 
-### 1. Amendment of regulation 2[^key-61b1198c721bd6aaaa900edff3740c8c]
+### 1. Amendment of regulation 2[^c-61b1198c721bd6aaaa900edff3740c8c]
 
 In regulation 2 of the principal Regulations (amount of NHS charges)—
 
@@ -96,7 +96,7 @@ In regulation 2 of the principal Regulations (amount of NHS charges)—
 - (d) in paragraph (1)(b)(ii) for “£672” substitute “£695”; and
 - (e) in paragraph (4) for “£40,179” substitute “£41,545”.
 
-### 2. Amendment of regulation 3[^key-19a472cace8768a42777e8ed16a47770]
+### 2. Amendment of regulation 3[^c-19a472cace8768a42777e8ed16a47770]
 
 After regulation 3 (amount of NHS Charges: further provision) of the principal Regulations insert—
 
@@ -117,7 +117,7 @@ After regulation 3 (amount of NHS Charges: further provision) of the principal R
 
 Regulation 3
 
-### 1. Amendment of regulation 1[^key-acc31971083aef782cce3f4a7ef8ca72]
+### 1. Amendment of regulation 1[^c-acc31971083aef782cce3f4a7ef8ca72]
 
 In regulation 1(3) of the 2006 Regulations (citation, commencement, application and interpretation) insert the following definitions in the appropriate alphabetical position—
 
@@ -126,11 +126,11 @@ In regulation 1(3) of the 2006 Regulations (citation, commencement, application 
 
 .
 
-### 2. Amendment of regulation 2[^key-ac3e0436287153521803227465465cd0]
+### 2. Amendment of regulation 2[^c-ac3e0436287153521803227465465cd0]
 
 In regulation 2(1)(f) of the 2006 Regulations (application for a certificate of NHS charges) after “made” insert “, whether that payment includes an amount in respect of an overseas visitors’ charge and, if so, documentary evidence of payment of that amount”.
 
-### 3. Amendment of regulation 5[^key-bf8c92e97550eb5be309bbc625cc2836]
+### 3. Amendment of regulation 5[^c-bf8c92e97550eb5be309bbc625cc2836]
 
 In regulation 5 of the 2006 Regulations (information to be provided in relation to an injured person) —
 
@@ -170,30 +170,30 @@ A full Impact Assessment has not been prepared for these Regulations as a neglig
 
 [^f00001]: Footnote: [2003 c.43](https://www.legislation.gov.uk/ukpga/2003/43) (“the 2003 Act”). By section 167(1) the powers are exercisable in relation to England and Wales by the Secretary of State. *See* section 168 for the definition of “prescribed”. Section 195 was amended by Schedule 4 to the National Health Service (Consequential Provisions) Act [2006 (c.43)](https://www.legislation.gov.uk/ukpga/2006/43) and by [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407).
 
-[^key-fef4789dd29a66a8eb2be7ae2ba13532]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/316/regulation/1) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+[^c-fef4789dd29a66a8eb2be7ae2ba13532]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/316/regulation/1) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2007/115](https://www.legislation.gov.uk/uksi/2007/115), amended by [S.I. 2008/252](https://www.legislation.gov.uk/uksi/2008/252).
 
 [^f00003]: Footnote: [S.I. 2006/3388](https://www.legislation.gov.uk/uksi/2006/3388).
 
-[^key-8ceb453f3776f20e093f9dd03eed48c0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/316/regulation/2) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+[^c-8ceb453f3776f20e093f9dd03eed48c0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/316/regulation/2) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
 
-[^key-ffbf63240179cbf923e29e977d7dc6d7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/316/regulation/3) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+[^c-ffbf63240179cbf923e29e977d7dc6d7]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/316/regulation/3) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
 
-[^key-55d6c358e7afb311ca779565ba03330b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/316/regulation/4) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+[^c-55d6c358e7afb311ca779565ba03330b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2009/316/regulation/4) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
 
-[^key-ebc2f789495a7ce435e8efe6e05dd6ab]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2009/316/regulation/4) substituted (4.5.2009) by [The Personal Injuries (NHS Charges) Amendment (No. 2) Regulations 2009 (S.I. 2009/834)](https://www.legislation.gov.uk/uksi/2009/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/834/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/834/regulation/2)
+[^c-ebc2f789495a7ce435e8efe6e05dd6ab]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2009/316/regulation/4) substituted (4.5.2009) by [The Personal Injuries (NHS Charges) Amendment (No. 2) Regulations 2009 (S.I. 2009/834)](https://www.legislation.gov.uk/uksi/2009/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/834/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/834/regulation/2)
 
-[^key-61b1198c721bd6aaaa900edff3740c8c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/316/schedule/1/paragraph/1) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+[^c-61b1198c721bd6aaaa900edff3740c8c]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/316/schedule/1/paragraph/1) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
 
-[^key-19a472cace8768a42777e8ed16a47770]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/316/schedule/1/paragraph/2) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+[^c-19a472cace8768a42777e8ed16a47770]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/316/schedule/1/paragraph/2) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1989/306](https://www.legislation.gov.uk/uksi/1989/306), amended by [S.I. 1991/438](https://www.legislation.gov.uk/uksi/1991/438), [2000/602](https://www.legislation.gov.uk/uksi/2000/602) and [2004/696](https://www.legislation.gov.uk/uksi/2004/696); there are other amending instruments but none is relevant.
 
 [^f00005]: Footnote: *See* section 150(7) of the 2003 Act for the definition of “NHS treatment”.
 
-[^key-acc31971083aef782cce3f4a7ef8ca72]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/316/schedule/2/paragraph/1) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+[^c-acc31971083aef782cce3f4a7ef8ca72]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/316/schedule/2/paragraph/1) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
 
-[^key-ac3e0436287153521803227465465cd0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/316/schedule/2/paragraph/2) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+[^c-ac3e0436287153521803227465465cd0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/316/schedule/2/paragraph/2) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
 
-[^key-bf8c92e97550eb5be309bbc625cc2836]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2009/316/schedule/2/paragraph/3) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)
+[^c-bf8c92e97550eb5be309bbc625cc2836]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2009/316/schedule/2/paragraph/3) in force at 1.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/316/regulation/1/1)

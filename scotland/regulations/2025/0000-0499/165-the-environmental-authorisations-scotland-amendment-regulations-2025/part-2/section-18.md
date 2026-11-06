@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Amendment of regulation 33 (determining and revising standard conditions)[^key-a54bdf77f2f47e5ccfa59e94de9edc40]
+## 18. Amendment of regulation 33 (determining and revising standard conditions)[^c-a54bdf77f2f47e5ccfa59e94de9edc40]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In regulation 33 (determining and revising standard conditions), at the end, ins
 
 ## Annotations
 
-[^key-a54bdf77f2f47e5ccfa59e94de9edc40]: Commencement: Reg. 18 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-a54bdf77f2f47e5ccfa59e94de9edc40]: Commencement: Reg. 18 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

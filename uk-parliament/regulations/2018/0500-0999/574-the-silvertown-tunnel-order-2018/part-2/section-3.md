@@ -44,7 +44,7 @@ summary: ''
 - (a) a building into which people do not normally go; or
 - (b) a building into which people go only intermittently for the purpose of inspecting or maintaining fixed plant or machinery.
 
-(3) The disapplication of the Metropolis Management (Thames River Prevention of Floods) Amendment Act 1879 by paragraph (1)(a) does not affect the Environment Agency's ability to use the powers vested in it under that Act against any person, other than TfL and any other person exercising a power under this Order, provided that the use of those powers vested in the Agency does not interfere with the construction of the authorised development and, within any maintenance period referred to in paragraph (1), any maintenance of any part of the authorised development[^key-8ff88561fbd7489c7ce1aeec3e596a0f].
+(3) The disapplication of the Metropolis Management (Thames River Prevention of Floods) Amendment Act 1879 by paragraph (1)(a) does not affect the Environment Agency's ability to use the powers vested in it under that Act against any person, other than TfL and any other person exercising a power under this Order, provided that the use of those powers vested in the Agency does not interfere with the construction of the authorised development and, within any maintenance period referred to in paragraph (1), any maintenance of any part of the authorised development[^c-8ff88561fbd7489c7ce1aeec3e596a0f].
 
 (4) Following the expiry of any maintenance period defined in article 30(14), the requirement under section 70 [^c22957261] (works not to be constructed, etc., without works licence) of the 1968 Act to obtain a works licence under section 66 (licensing of works) of that Act does not apply to anything done within any structure forming part of the authorised development in connection with its operation or maintenance or any other function of TfL.
 
@@ -78,6 +78,6 @@ summary: ''
 
 [^c22957251]: Marginal citation: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948), amended by [S.I. 2011/987](https://www.legislation.gov.uk/uksi/2011/987); there are other amending instruments but none is relevant.
 
-[^key-8ff88561fbd7489c7ce1aeec3e596a0f]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2018/574/article/3/3) inserted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/413/article/2/3)
+[^c-8ff88561fbd7489c7ce1aeec3e596a0f]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2018/574/article/3/3) inserted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/413/article/2/3)
 
 [^c22957261]: Marginal citation: As amended by section 46 of the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48).

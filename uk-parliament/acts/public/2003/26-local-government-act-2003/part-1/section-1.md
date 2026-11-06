@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Power to borrow[^key-546a037ff80f3bcd961327c1fe42d12c][^key-1a446bae555c3d732881395280e6fc38]
+## 1. Power to borrow[^c-546a037ff80f3bcd961327c1fe42d12c][^c-1a446bae555c3d732881395280e6fc38]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ A local authority may borrow money—
 
 ## Annotations
 
-[^key-546a037ff80f3bcd961327c1fe42d12c]: Commencement: S. 1 in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/3034/schedule/2/paragraph/3))
+[^c-546a037ff80f3bcd961327c1fe42d12c]: Commencement: S. 1 in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I) (with [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2003/3034/schedule/2/paragraph/3))
 
-[^key-1a446bae555c3d732881395280e6fc38]: Commencement: S. 1 in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-1a446bae555c3d732881395280e6fc38]: Commencement: S. 1 in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))

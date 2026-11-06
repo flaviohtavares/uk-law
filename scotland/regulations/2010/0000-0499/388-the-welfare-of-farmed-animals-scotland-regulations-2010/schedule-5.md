@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 5 — ADDITIONAL CONDITIONS THAT APPLY TO THE KEEPING OF CATTLE[^key-93a85e55388dace84786f55de13bafe1]
+## SCHEDULE 5 — ADDITIONAL CONDITIONS THAT APPLY TO THE KEEPING OF CATTLE[^c-93a85e55388dace84786f55de13bafe1]
 
 *Extent: S*
 
 Regulation 6(1)(d)
 
-### Accommodation[^key-93a85e55388dace84786f55de13bafe1]
+### Accommodation[^c-93a85e55388dace84786f55de13bafe1]
 
 Where any cows which are calving are kept in a building, they must be kept—
 
@@ -31,4 +31,4 @@ Where any cows which are calving are kept in a building, they must be kept—
 
 ## Annotations
 
-[^key-93a85e55388dace84786f55de13bafe1]: Commencement: Sch. 5 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)
+[^c-93a85e55388dace84786f55de13bafe1]: Commencement: Sch. 5 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)

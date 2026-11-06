@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Safeguards relating to retention and disclosure of material[^key-8664e814304679b579972f6549fcd763]
+## 53. Safeguards relating to retention and disclosure of material[^c-8664e814304679b579972f6549fcd763]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ the person to whom the warrant is addressed must inform the Investigatory Powers
 
 ## Annotations
 
-[^key-8664e814304679b579972f6549fcd763]: Commencement: S. 53 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/q)
+[^c-8664e814304679b579972f6549fcd763]: Commencement: S. 53 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/q)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Giving information of particulars of death remotely[^key-0a5e7d9f7d0a682b32f44547d30c40bd][^key-a25db04e64dddc58d6b04ada6ad0a08c][^key-21b71a90f38f6b64825314efcc202eb9]
+## 27. Giving information of particulars of death remotely[^c-0a5e7d9f7d0a682b32f44547d30c40bd][^c-a25db04e64dddc58d6b04ada6ad0a08c][^c-21b71a90f38f6b64825314efcc202eb9]
 
 *Extent: S*
 
-(1)[^key-0a5e7d9f7d0a682b32f44547d30c40bd] The Registration of Births, Deaths and Marriages (Scotland) Act 1965 is modified as follows.
+(1)[^c-0a5e7d9f7d0a682b32f44547d30c40bd] The Registration of Births, Deaths and Marriages (Scotland) Act 1965 is modified as follows.
 
-(2)[^key-a25db04e64dddc58d6b04ada6ad0a08c][^key-21b71a90f38f6b64825314efcc202eb9] In section 23 (duty to give information of particulars of death)—
+(2)[^c-a25db04e64dddc58d6b04ada6ad0a08c][^c-21b71a90f38f6b64825314efcc202eb9] In section 23 (duty to give information of particulars of death)—
 
 - (a) in subsection (1A)—
   - (i) in the opening words, the word “by” is repealed,
@@ -54,7 +54,7 @@ summary: ''
 
   .
 
-(3)[^key-0a5e7d9f7d0a682b32f44547d30c40bd] After section 23 insert—
+(3)[^c-0a5e7d9f7d0a682b32f44547d30c40bd] After section 23 insert—
 
 > **23A. Directions about giving information of particulars of death**
 >
@@ -70,7 +70,7 @@ summary: ''
 
 .
 
-(4)[^key-a25db04e64dddc58d6b04ada6ad0a08c][^key-21b71a90f38f6b64825314efcc202eb9] In section 25 (registrar’s power to require information concerning death to be given)—
+(4)[^c-a25db04e64dddc58d6b04ada6ad0a08c][^c-21b71a90f38f6b64825314efcc202eb9] In section 25 (registrar’s power to require information concerning death to be given)—
 
 - (a) in subsection (1)—
   - (i) after “requiring him” insert “before such date (being not less than 8 days nor more than 15 days after the date of service of the notice) as may be specified in the notice”,
@@ -100,12 +100,12 @@ summary: ''
 
   .
 
-(5)[^key-0a5e7d9f7d0a682b32f44547d30c40bd] In section 25B(2) (registration of deaths)—
+(5)[^c-0a5e7d9f7d0a682b32f44547d30c40bd] In section 25B(2) (registration of deaths)—
 
 - (a) for “he obtained the attested death registration form by virtue of” substitute “information was given in a manner permitted by a direction under”,
 - (b) after “23(1A)(b)” insert “or (c)”.
 
-(6)[^key-a25db04e64dddc58d6b04ada6ad0a08c][^key-21b71a90f38f6b64825314efcc202eb9] After section 28 insert—
+(6)[^c-a25db04e64dddc58d6b04ada6ad0a08c][^c-21b71a90f38f6b64825314efcc202eb9] After section 28 insert—
 
 > **28ZA. Meaning of death registration form**
 >
@@ -118,8 +118,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0a5e7d9f7d0a682b32f44547d30c40bd]: Commencement: [S. 27(1)](https://www.legislation.gov.uk/asp/2022/8/section/27/1)[(3)](https://www.legislation.gov.uk/asp/2022/8/section/27/3)[(5)](https://www.legislation.gov.uk/asp/2022/8/section/27/5) in force at 24.9.2022, see [s. 59(3)(b)](https://www.legislation.gov.uk/asp/2022/8/section/59/3/b)
+[^c-0a5e7d9f7d0a682b32f44547d30c40bd]: Commencement: [S. 27(1)](https://www.legislation.gov.uk/asp/2022/8/section/27/1)[(3)](https://www.legislation.gov.uk/asp/2022/8/section/27/3)[(5)](https://www.legislation.gov.uk/asp/2022/8/section/27/5) in force at 24.9.2022, see [s. 59(3)(b)](https://www.legislation.gov.uk/asp/2022/8/section/59/3/b)
 
-[^key-a25db04e64dddc58d6b04ada6ad0a08c]: Commencement: S. 27(2)(4)(6) in force at 1.9.2022 for specified purposes, see [s. 59(3)(a)](https://www.legislation.gov.uk/asp/2022/8/section/59/3/a)(i)
+[^c-a25db04e64dddc58d6b04ada6ad0a08c]: Commencement: S. 27(2)(4)(6) in force at 1.9.2022 for specified purposes, see [s. 59(3)(a)](https://www.legislation.gov.uk/asp/2022/8/section/59/3/a)(i)
 
-[^key-21b71a90f38f6b64825314efcc202eb9]: Commencement: [S. 27(2)](https://www.legislation.gov.uk/asp/2022/8/section/27/2)[(4)](https://www.legislation.gov.uk/asp/2022/8/section/27/4)[(6)](https://www.legislation.gov.uk/asp/2022/8/section/27/6) in force at 24.9.2022 in so far as not already in force, see [s. 59(3)(a)(ii)](https://www.legislation.gov.uk/asp/2022/8/section/59/3/a/ii)
+[^c-21b71a90f38f6b64825314efcc202eb9]: Commencement: [S. 27(2)](https://www.legislation.gov.uk/asp/2022/8/section/27/2)[(4)](https://www.legislation.gov.uk/asp/2022/8/section/27/4)[(6)](https://www.legislation.gov.uk/asp/2022/8/section/27/6) in force at 24.9.2022 in so far as not already in force, see [s. 59(3)(a)(ii)](https://www.legislation.gov.uk/asp/2022/8/section/59/3/a/ii)

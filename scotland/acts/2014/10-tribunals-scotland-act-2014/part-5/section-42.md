@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Chairing members[^key-e47cb6ff05bc1b19ef7ccb72c221a0e8]
+## 42. Chairing members[^c-e47cb6ff05bc1b19ef7ccb72c221a0e8]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e47cb6ff05bc1b19ef7ccb72c221a0e8]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2014/10/section/42) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-e47cb6ff05bc1b19ef7ccb72c221a0e8]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2014/10/section/42) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

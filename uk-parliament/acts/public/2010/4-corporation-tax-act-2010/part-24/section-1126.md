@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1126. “Franked investment income”[^key-055d5f79d688d7d96bb84fbbfed2bd01]
+## 1126. “Franked investment income”[^c-055d5f79d688d7d96bb84fbbfed2bd01]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-055d5f79d688d7d96bb84fbbfed2bd01]: Textual amendment: [S. 1126](https://www.legislation.gov.uk/ukpga/2010/4/section/1126) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 46](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/46)
+[^c-055d5f79d688d7d96bb84fbbfed2bd01]: Textual amendment: [S. 1126](https://www.legislation.gov.uk/ukpga/2010/4/section/1126) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 46](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/46)

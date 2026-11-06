@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52A. Functions of Department as to road safety[^c20472621][^key-38072c2ed43cbe231b266574babfb0f9]
+## 52A. Functions of Department as to road safety[^c20472621][^c-38072c2ed43cbe231b266574babfb0f9]
 
 *Extent: N.I.*
 
-(1) The Department[^key-579c21b40a951c78a4f609e52925ba5f] must prepare and carry out a programme of measures designed to improve road safety.
+(1) The Department[^c-579c21b40a951c78a4f609e52925ba5f] must prepare and carry out a programme of measures designed to improve road safety.
 
 (2) The Department may, with the approval of the Department of Finance and Personnel, make contributions towards the cost of measures for promoting road safety which are taken by any authority, body or person.
 
@@ -34,6 +34,6 @@ summary: ''
 
 [^c20472621]: Textual amendment: Art. 52A inserted (27.6.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3), [82(2)](https://www.legislation.gov.uk/nisi/2007/916/article/82/2); [S.R. 2007/302](https://www.legislation.gov.uk/nisr/2007/302), [art. 2](https://www.legislation.gov.uk/nisr/2007/302/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/302/schedule)
 
-[^key-38072c2ed43cbe231b266574babfb0f9]: Textual amendment: Words in [art. 52A heading](https://www.legislation.gov.uk/nisi/1995/2994/part/II/crossheading/promotion-of-road-safety) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 66(1)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/66/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-38072c2ed43cbe231b266574babfb0f9]: Textual amendment: Words in [art. 52A heading](https://www.legislation.gov.uk/nisi/1995/2994/part/II/crossheading/promotion-of-road-safety) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 66(1)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/66/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-579c21b40a951c78a4f609e52925ba5f]: Textual amendment: Words in art. 52A(1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 66(2)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/66/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-579c21b40a951c78a4f609e52925ba5f]: Textual amendment: Words in art. 52A(1) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 66(2)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/66/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

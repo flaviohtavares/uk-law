@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74A. Application of Part 3A of the 1991 Act[^key-1f85410c76c1ff30312755cedb4e3cfa]
+## 74A. Application of Part 3A of the 1991 Act[^c-1f85410c76c1ff30312755cedb4e3cfa]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f85410c76c1ff30312755cedb4e3cfa]: Textual amendment: S. 74A inserted (23.12.2016 for specified purposes, 28.2.2021 in so far as not already in force) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 111(4)](https://www.legislation.gov.uk/asp/2016/18/section/111/4), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2); [S.S.I. 2020/428](https://www.legislation.gov.uk/ssi/2020/428), [reg. 2](https://www.legislation.gov.uk/ssi/2020/428/regulation/2)
+[^c-1f85410c76c1ff30312755cedb4e3cfa]: Textual amendment: S. 74A inserted (23.12.2016 for specified purposes, 28.2.2021 in so far as not already in force) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 111(4)](https://www.legislation.gov.uk/asp/2016/18/section/111/4), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2); [S.S.I. 2020/428](https://www.legislation.gov.uk/ssi/2020/428), [reg. 2](https://www.legislation.gov.uk/ssi/2020/428/regulation/2)

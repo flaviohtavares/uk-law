@@ -28,20 +28,20 @@ In these Regulations—
 
 - (a) a “**large undertaking**” means an undertaking which either—
   - (i) employs at least 250 persons, or
-  - (ii) has an annual turnover in excess of amount A[^key-1fff8b16d1e02703912277d07df894b3] and an annual balance sheet total in excess[^key-e30754f25b4a46e22b2037112b72eb43] of amount B[^key-5275d044ad49800d1f1e93c99bd77467], and
+  - (ii) has an annual turnover in excess of amount A[^c-1fff8b16d1e02703912277d07df894b3] and an annual balance sheet total in excess[^c-e30754f25b4a46e22b2037112b72eb43] of amount B[^c-5275d044ad49800d1f1e93c99bd77467], and
 - (b) a “**small or medium undertaking**” means an undertaking which employs fewer than 250 persons and either—
   - (i) has an annual turnover not exceeding amount A, or
   - (ii) has an annual balance sheet total not exceeding amount B
 
 determined in accordance with this Schedule.
 
-### 1A.[^key-275c7f790e11ceca9a4bca328317e2a5]
+### 1A.[^c-275c7f790e11ceca9a4bca328317e2a5]
 
 In paragraph 1—
 
 - “**amount A**” means—
   - (a) where the qualification date is before IP completion day, 50 million euro;
-  - (b) where the qualification date is on or after IP completion day[^key-2638ecae9f2a748085c3b86d357a69eb], £44 million;
+  - (b) where the qualification date is on or after IP completion day[^c-2638ecae9f2a748085c3b86d357a69eb], £44 million;
 - “**amount B**” means—
   - (a) where the qualification date is before IP completion day, 43 million euro;
   - (b) where the qualification date is on or after IP completion day, £38 million.
@@ -52,7 +52,7 @@ The annual turnover, and the annual balance sheet total, of an undertaking must 
 
 **3.** Any conversion into euro of the annual turnover or the annual balance sheet total for the purposes of paragraph 1, must be calculated on the basis of the currency conversion rate applicable on the qualification date for the compliance period.
 
-**3A.**[^key-ad31b18aee1caa970bd7baaf56af8cfd] Paragraph 3 does not apply in respect of a qualification date on or after IP completion day.
+**3A.**[^c-ad31b18aee1caa970bd7baaf56af8cfd] Paragraph 3 does not apply in respect of a qualification date on or after IP completion day.
 
 **4.** In this Schedule “**turnover**” has the meaning given in section 474(1) of the Companies Act 2006 [^c22147291] with the modification that for “company” there is substituted “ undertaking ”.
 
@@ -86,16 +86,16 @@ Where, in any accounting period, an undertaking is a large undertaking (or a sma
 
 ## Annotations
 
-[^key-1fff8b16d1e02703912277d07df894b3]: Textual amendment: Words in Sch. 1 para. 1 substituted (31.12.2020) by [The Energy Savings Opportunity Scheme (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1342)](https://www.legislation.gov.uk/uksi/2018/1342), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/1/3), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/3/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fff8b16d1e02703912277d07df894b3]: Textual amendment: Words in Sch. 1 para. 1 substituted (31.12.2020) by [The Energy Savings Opportunity Scheme (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1342)](https://www.legislation.gov.uk/uksi/2018/1342), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/1/3), [3(3)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/3/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e30754f25b4a46e22b2037112b72eb43]: Textual amendment: Words in Sch. 1 para. 1(a)(ii) inserted (26.10.2015) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2015 (S.I. 2015/1731)](https://www.legislation.gov.uk/uksi/2015/1731), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1731/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1731/regulation/2/2)
+[^c-e30754f25b4a46e22b2037112b72eb43]: Textual amendment: Words in Sch. 1 para. 1(a)(ii) inserted (26.10.2015) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2015 (S.I. 2015/1731)](https://www.legislation.gov.uk/uksi/2015/1731), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1731/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1731/regulation/2/2)
 
-[^key-5275d044ad49800d1f1e93c99bd77467]: Textual amendment: Words in Sch. 1 para. 1 substituted (31.12.2020) by [The Energy Savings Opportunity Scheme (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1342)](https://www.legislation.gov.uk/uksi/2018/1342), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/1/3), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/3/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5275d044ad49800d1f1e93c99bd77467]: Textual amendment: Words in Sch. 1 para. 1 substituted (31.12.2020) by [The Energy Savings Opportunity Scheme (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1342)](https://www.legislation.gov.uk/uksi/2018/1342), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/1/3), [3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/3/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-275c7f790e11ceca9a4bca328317e2a5]: Textual amendment: Sch. 1 para. 1A inserted (31.12.2020) by [The Energy Savings Opportunity Scheme (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1342)](https://www.legislation.gov.uk/uksi/2018/1342), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/1/3), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/711](https://www.legislation.gov.uk/uksi/2020/711), [regs.1(2)](https://www.legislation.gov.uk/uksi/2020/711/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/711/regulation/4/2/a))
+[^c-275c7f790e11ceca9a4bca328317e2a5]: Textual amendment: Sch. 1 para. 1A inserted (31.12.2020) by [The Energy Savings Opportunity Scheme (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1342)](https://www.legislation.gov.uk/uksi/2018/1342), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/1/3), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/711](https://www.legislation.gov.uk/uksi/2020/711), [regs.1(2)](https://www.legislation.gov.uk/uksi/2020/711/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/711/regulation/4/2/a))
 
-[^key-2638ecae9f2a748085c3b86d357a69eb]: Annotation text not found in the source document.
+[^c-2638ecae9f2a748085c3b86d357a69eb]: Annotation text not found in the source document.
 
-[^key-ad31b18aee1caa970bd7baaf56af8cfd]: Textual amendment: Sch. 1 para. 3A inserted (31.12.2020) by [The Energy Savings Opportunity Scheme (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1342)](https://www.legislation.gov.uk/uksi/2018/1342), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/1/3), [3(3)(c)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/3/3/c) (as substituted by [S.I. 2020/711](https://www.legislation.gov.uk/uksi/2020/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/711/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/711/regulation/4/2/b))
+[^c-ad31b18aee1caa970bd7baaf56af8cfd]: Textual amendment: Sch. 1 para. 3A inserted (31.12.2020) by [The Energy Savings Opportunity Scheme (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1342)](https://www.legislation.gov.uk/uksi/2018/1342), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/1/3), [3(3)(c)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/3/3/c) (as substituted by [S.I. 2020/711](https://www.legislation.gov.uk/uksi/2020/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/711/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/711/regulation/4/2/b))
 
 [^c22147291]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), to which there are amendments not relevant to these Regulations.

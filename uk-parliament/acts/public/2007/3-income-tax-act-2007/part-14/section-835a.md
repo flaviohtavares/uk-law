@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 835A. Residence of companies[^key-4a24246236983a23694311d86d92ba10]
+## 835A. Residence of companies[^c-4a24246236983a23694311d86d92ba10]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Chapter 3 of Part 2 of CTA 2009 (rules for determining residence of companies) a
 
 ## Annotations
 
-[^key-4a24246236983a23694311d86d92ba10]: Textual amendment: S. 835A inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 706](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/706) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-4a24246236983a23694311d86d92ba10]: Textual amendment: S. 835A inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 706](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/706) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

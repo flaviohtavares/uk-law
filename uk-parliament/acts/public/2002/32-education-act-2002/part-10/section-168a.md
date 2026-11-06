@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 168A. Proceedings for offences[^key-ff88541235382bfc9efdc8564596a3d8]
+## 168A. Proceedings for offences[^c-ff88541235382bfc9efdc8564596a3d8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ No proceedings for an offence under this Chapter shall be instituted except by o
 
 ## Annotations
 
-[^key-ff88541235382bfc9efdc8564596a3d8]: Textual amendment: Ss. 168A-168C inserted (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 172(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/172/2), [188(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/2) (with [s. 172(4)](https://www.legislation.gov.uk/ukpga/2006/40/section/172/4))
+[^c-ff88541235382bfc9efdc8564596a3d8]: Textual amendment: Ss. 168A-168C inserted (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 172(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/172/2), [188(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/2) (with [s. 172(4)](https://www.legislation.gov.uk/ukpga/2006/40/section/172/4))

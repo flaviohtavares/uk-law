@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Variation, review and cancellation of agreements under section 167[^key-0ace87c2b8a2c2007d0bfaf64df94f61]
+## 169. Variation, review and cancellation of agreements under section 167[^c-0ace87c2b8a2c2007d0bfaf64df94f61]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ace87c2b8a2c2007d0bfaf64df94f61]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2009/23/section/169) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/e)
+[^c-0ace87c2b8a2c2007d0bfaf64df94f61]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2009/23/section/169) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/e)

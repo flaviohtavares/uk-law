@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — Forms[^key-fd703d4f6f0f71773a46cc7aaa2def30]
+## SCHEDULE 2 — Forms[^c-fd703d4f6f0f71773a46cc7aaa2def30]
 
 *Extent: E+W*
 
 Regulations 29, 41, 47 and 66
 
-[^key-fd703d4f6f0f71773a46cc7aaa2def30]
+[^c-fd703d4f6f0f71773a46cc7aaa2def30]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2006/2910/images/uksi_20062910_en_001)
 
@@ -30,4 +30,4 @@ Regulations 29, 41, 47 and 66
 
 ## Annotations
 
-[^key-fd703d4f6f0f71773a46cc7aaa2def30]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2910/schedule/2) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-fd703d4f6f0f71773a46cc7aaa2def30]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2910/schedule/2) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

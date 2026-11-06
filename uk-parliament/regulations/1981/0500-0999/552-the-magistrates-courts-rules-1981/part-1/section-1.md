@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, operation and revocations[^key-23805b3fc954d272e3412b4692c13c24]
+## 1. Citation, operation and revocations[^c-23805b3fc954d272e3412b4692c13c24]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23805b3fc954d272e3412b4692c13c24]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/1981/552/rule/1) in force at 6.7.1981, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1981/552/rule/1/1)
+[^c-23805b3fc954d272e3412b4692c13c24]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/1981/552/rule/1) in force at 6.7.1981, see [rule 1(1)](https://www.legislation.gov.uk/uksi/1981/552/rule/1/1)

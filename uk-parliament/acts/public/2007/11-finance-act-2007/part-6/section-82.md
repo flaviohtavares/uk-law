@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Criminal investigations: powers of Revenue and Customs[^key-5c5b2472f952653db5403a0fa65e7c01]
+## 82. Criminal investigations: powers of Revenue and Customs[^c-5c5b2472f952653db5403a0fa65e7c01]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c5b2472f952653db5403a0fa65e7c01]: Commencement: S. 82 in force at 8.11.2007 by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/a)
+[^c-5c5b2472f952653db5403a0fa65e7c01]: Commencement: S. 82 in force at 8.11.2007 by [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/a)

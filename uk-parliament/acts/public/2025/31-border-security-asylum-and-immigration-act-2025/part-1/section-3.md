@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Functions of the Commander[^key-6213ae4f6b4bf9fc176527a8494c70cd][^key-b32aecec0c6f51a00832a7ae037e4022]
+## 3. Functions of the Commander[^c-6213ae4f6b4bf9fc176527a8494c70cd][^c-b32aecec0c6f51a00832a7ae037e4022]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6213ae4f6b4bf9fc176527a8494c70cd]: Commencement: S. 3 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-6213ae4f6b4bf9fc176527a8494c70cd]: Commencement: S. 3 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-b32aecec0c6f51a00832a7ae037e4022]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/31/section/3) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)
+[^c-b32aecec0c6f51a00832a7ae037e4022]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/31/section/3) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)

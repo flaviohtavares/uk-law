@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59A. Reports on voter identification requirements in Great Britain[^key-42e3acd4e8df2a1e7583139a0635f635][^c14479931]
+## 59A. Reports on voter identification requirements in Great Britain[^c-42e3acd4e8df2a1e7583139a0635f635][^c14479931]
 
 *Extent: E+W+S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42e3acd4e8df2a1e7583139a0635f635]: Textual amendment: [S. 59A](https://www.legislation.gov.uk/ukpga/1983/2/section/59A) inserted (E.W.S.) (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/7); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/2))
+[^c-42e3acd4e8df2a1e7583139a0635f635]: Textual amendment: [S. 59A](https://www.legislation.gov.uk/ukpga/1983/2/section/59A) inserted (E.W.S.) (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/7); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/2))
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E19. Benefits of certain persons employed before April 1974[^key-d61ee8b6125964c2c76654ceee60635b]
+## E19. Benefits of certain persons employed before April 1974[^c-d61ee8b6125964c2c76654ceee60635b]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ In relation to a pensionable employee who is a person to whom regulation E19 of 
 
 ## Annotations
 
-[^key-d61ee8b6125964c2c76654ceee60635b]: Commencement: [Reg. E19](https://www.legislation.gov.uk/uksi/1986/24/regulation/E19) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-d61ee8b6125964c2c76654ceee60635b]: Commencement: [Reg. E19](https://www.legislation.gov.uk/uksi/1986/24/regulation/E19) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

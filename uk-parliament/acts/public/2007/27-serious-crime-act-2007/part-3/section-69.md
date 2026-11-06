@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Offence for certain further disclosures of information[^key-b4827337568404614280ac0c7a765494]
+## 69. Offence for certain further disclosures of information[^c-b4827337568404614280ac0c7a765494]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,11 +35,11 @@ summary: ''
 - (a) where B is acting (whether as an employee or otherwise) on behalf of the person to whom the information was disclosed by the public authority concerned and the disclosure by B is to another person acting (whether as an employee or otherwise) on behalf of that person;
 - (b) for the purposes of the detection, investigation or prosecution of an offence in the United Kingdom;
 - (c) with the consent of the public authority concerned; or
-- (d) in pursuance of an assimilated[^key-f6df59385f77a4e21a33958ccbb8a525][^key-0cf4f3c15efcdfec14c74767bb2de5de] obligation or a duty imposed by an enactment;
+- (d) in pursuance of an assimilated[^c-f6df59385f77a4e21a33958ccbb8a525][^c-0cf4f3c15efcdfec14c74767bb2de5de] obligation or a duty imposed by an enactment;
 
 but it does apply to a disclosure made by B which does not fall within paragraphs (a) to (d) above but which (but for the offence) would have been permitted by a power conferred by an enactment.
 
-(3)[^key-9154de6158fe3e3a1ac5314872ce1138] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9154de6158fe3e3a1ac5314872ce1138] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) It is a defence for a person charged with an offence under this section to prove that the person reasonably believed—
 
@@ -74,10 +74,10 @@ but it does apply to a disclosure made by B which does not fall within paragraph
 
 ## Annotations
 
-[^key-b4827337568404614280ac0c7a765494]: Commencement: S. 69 in force at 1.10.2008 by [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/c)
+[^c-b4827337568404614280ac0c7a765494]: Commencement: S. 69 in force at 1.10.2008 by [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/c)
 
-[^key-f6df59385f77a4e21a33958ccbb8a525]: Textual amendment: Words in s. 69(2)(d) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 66](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/66)
+[^c-f6df59385f77a4e21a33958ccbb8a525]: Textual amendment: Words in s. 69(2)(d) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 66](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/66)
 
-[^key-0cf4f3c15efcdfec14c74767bb2de5de]: Textual amendment: Words in s. 69(2)(d) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [122(4)](https://www.legislation.gov.uk/uksi/2019/742/regulation/122/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0cf4f3c15efcdfec14c74767bb2de5de]: Textual amendment: Words in s. 69(2)(d) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [122(4)](https://www.legislation.gov.uk/uksi/2019/742/regulation/122/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9154de6158fe3e3a1ac5314872ce1138]: Textual amendment: S. 69(3) repealed (8.11.2021) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 98(b)](https://www.legislation.gov.uk/asp/2010/13/section/98/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2021/355](https://www.legislation.gov.uk/ssi/2021/355), [art. 2](https://www.legislation.gov.uk/ssi/2021/355/article/2)
+[^c-9154de6158fe3e3a1ac5314872ce1138]: Textual amendment: S. 69(3) repealed (8.11.2021) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 98(b)](https://www.legislation.gov.uk/asp/2010/13/section/98/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2021/355](https://www.legislation.gov.uk/ssi/2021/355), [art. 2](https://www.legislation.gov.uk/ssi/2021/355/article/2)

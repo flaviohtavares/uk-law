@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67FA. Prescribed persons: duty to report on disclosure of information[^key-616291d35055e9e80802c1dbb3e429fe][^c22339971]
+## 67FA. Prescribed persons: duty to report on disclosure of information[^c-616291d35055e9e80802c1dbb3e429fe][^c22339971]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-616291d35055e9e80802c1dbb3e429fe]: Textual amendment: [Art. 67FA](https://www.legislation.gov.uk/nisi/1996/1919/article/67FA) inserted (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 15](https://www.legislation.gov.uk/nia/2016/15/section/15), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)
+[^c-616291d35055e9e80802c1dbb3e429fe]: Textual amendment: [Art. 67FA](https://www.legislation.gov.uk/nisi/1996/1919/article/67FA) inserted (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 15](https://www.legislation.gov.uk/nia/2016/15/section/15), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)
 
 [^c22339971]: Textual amendment: [1998 NI 17](https://www.legislation.gov.uk/nisi/1998)

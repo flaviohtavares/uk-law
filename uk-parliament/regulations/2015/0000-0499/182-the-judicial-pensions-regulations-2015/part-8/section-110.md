@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Guaranteed minimum pensions for surviving spouses and civil partners[^key-5eedcce4deeca4e6affdbc8245a47cae]
+## 110. Guaranteed minimum pensions for surviving spouses and civil partners[^c-5eedcce4deeca4e6affdbc8245a47cae]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,14 +36,14 @@ a pension the weekly rate of which is equal to the guaranteed minimum is payable
 (3) Paragraph (2) does not apply to a pension that is forfeited—
 
 - (a) as a result of a conviction for treason; or
-- (b) under regulation 151, in a case where the relevant offence within the meaning of regulation 151 is an offence under the Official Secrets Acts 1911 to 1989[^f00040] or an applicable offence under the National Security Act 2023[^key-40996e4b2b2cebc3214f02e5457133eb].
+- (b) under regulation 151, in a case where the relevant offence within the meaning of regulation 151 is an offence under the Official Secrets Acts 1911 to 1989[^f00040] or an applicable offence under the National Security Act 2023[^c-40996e4b2b2cebc3214f02e5457133eb].
 
 ## Annotations
 
-[^key-5eedcce4deeca4e6affdbc8245a47cae]: Commencement: [Reg. 110](https://www.legislation.gov.uk/uksi/2015/182/regulation/110) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-5eedcce4deeca4e6affdbc8245a47cae]: Commencement: [Reg. 110](https://www.legislation.gov.uk/uksi/2015/182/regulation/110) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
 [^f00039]: Footnote: Section 17 was amended by the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2) Schedule 1 paragraph 39, the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19) Schedule 5 paragraph 1, the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) section 284(2), the Pensions Act [2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22) section 14(2), the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30) Schedule 4 paragraphs 18 and 20 and [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050) and [2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
 [^f00040]: Footnote: [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6); see section 16(2) for the meaning of “Official Secrets Acts 1911 to 1989”.
 
-[^key-40996e4b2b2cebc3214f02e5457133eb]: Textual amendment: Words in [reg. 110(3)(b)](https://www.legislation.gov.uk/uksi/2015/182/regulation/110/3/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 45(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/45/3)
+[^c-40996e4b2b2cebc3214f02e5457133eb]: Textual amendment: Words in [reg. 110(3)(b)](https://www.legislation.gov.uk/uksi/2015/182/regulation/110/3/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 45(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/45/3)

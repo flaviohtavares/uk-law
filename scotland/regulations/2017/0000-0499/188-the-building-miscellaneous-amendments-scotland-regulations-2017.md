@@ -48,11 +48,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 1(2) of that Act[^f00002] they have consulted such persons as appeared to them to be representative of the interests concerned.
 
-## 1. Citation and commencement[^key-06b936502d91ad1776d53f910f675922]
+## 1. Citation and commencement[^c-06b936502d91ad1776d53f910f675922]
 
 These Regulations may be cited as the Building (Miscellaneous Amendments) (Scotland) Regulations 2017 and come into force on 1st July 2017.
 
-## 2. Amendment of the Building (Procedure) (Scotland) Regulations 2004[^key-9aa0e3574d2f85a81194f561fac5a512]
+## 2. Amendment of the Building (Procedure) (Scotland) Regulations 2004[^c-9aa0e3574d2f85a81194f561fac5a512]
 
 (1) The Building (Procedure) (Scotland) Regulations 2004[^f00003] are amended in accordance with paragraphs (2) to (5).
 
@@ -88,7 +88,7 @@ These Regulations may be cited as the Building (Miscellaneous Amendments) (Scotl
 > - “address” includes any number or address used for the purpose of such communication or storage;
 > - “document” includes any notice, consent, application, decision, direction, representation, statement, list, report, form, plan, certificate or other information or communication;
 > - “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00005];
-> - “legible in all material respects” means that the information contained in the document is available to the recipient to no lesser extent than it would be if sent[^key-a4f41abfac203ad4524a8f850c181cdb] by means of a document in printed form; and
+> - “legible in all material respects” means that the information contained in the document is available to the recipient to no lesser extent than it would be if sent[^c-a4f41abfac203ad4524a8f850c181cdb] by means of a document in printed form; and
 > - “sent” includes, submitted, notified or given and cognate expressions are to be construed accordingly.
 
 .
@@ -116,7 +116,7 @@ These Regulations may be cited as the Building (Miscellaneous Amendments) (Scotl
 - (a) section B (application for warrant to extend a building), in paragraph 3(2) omit “be coloured or shaded to the extent necessary to”; and
 - (b) section C (application for warrant to alter or convert a building or to provide services, fittings and equipment in or in connection with a building), in paragraph 4(2) omit “be coloured or shaded to the extent necessary to”.
 
-## 3. Amendment of the Building (Scotland) Regulations 2004[^key-42c29bcdb0684f2ff2d91a2c37138c0a]
+## 3. Amendment of the Building (Scotland) Regulations 2004[^c-42c29bcdb0684f2ff2d91a2c37138c0a]
 
 (1) The Building (Scotland) Regulations 2004[^f00006] are amended in accordance with paragraphs (2) and (3).
 
@@ -132,7 +132,7 @@ These Regulations may be cited as the Building (Miscellaneous Amendments) (Scotl
 
 > **AA.** On condition that this type in all respects and/or in the manner of their fitting meet the requirements of standards 1.1, 3.17, 3.18, 3.19, 3.20, 3.21, 3.22 and 4.4 of schedule 5.
 >
-> **23A.** A detached single-storey building used for shelter or sleeping in connection with recreation. **Except**- A dwelling. A building having an area exceeding 30 square metres. A building ancillary to another building. A building within 6 metres of a boundary or[^key-c1a23704d3d28fcbd066a461d3036a9e] of another building. Any wastewater disposal system serving a building of this type. A building containing a gallery or galleries unless the gallery, or where there is more than one gallery, the galleries together, occupy an area not more than—
+> **23A.** A detached single-storey building used for shelter or sleeping in connection with recreation. **Except**- A dwelling. A building having an area exceeding 30 square metres. A building ancillary to another building. A building within 6 metres of a boundary or[^c-c1a23704d3d28fcbd066a461d3036a9e] of another building. Any wastewater disposal system serving a building of this type. A building containing a gallery or galleries unless the gallery, or where there is more than one gallery, the galleries together, occupy an area not more than—
 >
 > - (a) 8 square metres; or
 > - (b) one-half of the area of the room or space in which the gallery is, or galleries are, situated,
@@ -145,7 +145,7 @@ These Regulations may be cited as the Building (Miscellaneous Amendments) (Scotl
 
 .
 
-## 4. Amendment of the Building (Fees) (Scotland) Regulations 2004[^key-1056b9fad9a76b48125f84c9e37d8828]
+## 4. Amendment of the Building (Fees) (Scotland) Regulations 2004[^c-1056b9fad9a76b48125f84c9e37d8828]
 
 (1) The Building (Fees) (Scotland) Regulations 2004[^f00009] are amended in accordance with paragraphs (2) to (9).
 
@@ -350,7 +350,7 @@ These Regulations may be cited as the Building (Miscellaneous Amendments) (Scotl
 > | **15.** Application for warrant for demolition only. | nil |
 > | **16.** Application or amendment to warrant for demolition only or conversion only. | nil |
 
-## 5. Amendment of the Building (Forms) (Scotland) Regulations 2005[^key-40c46346be85a47fb82a8f99327aa591]
+## 5. Amendment of the Building (Forms) (Scotland) Regulations 2005[^c-40c46346be85a47fb82a8f99327aa591]
 
 (1) The schedule of the Building (Forms) (Scotland) Regulations 2005[^f00011] is amended in accordance with paragraphs (2) to (8).
 
@@ -445,9 +445,9 @@ Regulation 5 updates the Forms Regulations.
 
 [^f00002]: Footnote: Section 1(2) was amended by section 6(2) of the Public Services Reform (Scotland) Act [2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-06b936502d91ad1776d53f910f675922]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/188/regulation/1) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/188/regulation/1)
+[^c-06b936502d91ad1776d53f910f675922]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/188/regulation/1) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/188/regulation/1)
 
-[^key-9aa0e3574d2f85a81194f561fac5a512]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/188/regulation/2) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/188/regulation/1)
+[^c-9aa0e3574d2f85a81194f561fac5a512]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/188/regulation/2) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/188/regulation/1)
 
 [^f00003]: Footnote: [S.S.I. 2004/428](https://www.legislation.gov.uk/ssi/2004/428). To which there are amendments not relevant to these Regulations.
 
@@ -455,9 +455,9 @@ Regulation 5 updates the Forms Regulations.
 
 [^f00005]: Footnote: The definition of “electronic communication” was amended by paragraph 158 of schedule 17 of the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-a4f41abfac203ad4524a8f850c181cdb]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/188/regulation/2/3) substituted (30.6.2017) by [The Building (Miscellaneous Amendments) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/214)](https://www.legislation.gov.uk/ssi/2017/214), [regs. 1](https://www.legislation.gov.uk/ssi/2017/214/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/214/regulation/2/2)
+[^c-a4f41abfac203ad4524a8f850c181cdb]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/188/regulation/2/3) substituted (30.6.2017) by [The Building (Miscellaneous Amendments) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/214)](https://www.legislation.gov.uk/ssi/2017/214), [regs. 1](https://www.legislation.gov.uk/ssi/2017/214/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/214/regulation/2/2)
 
-[^key-42c29bcdb0684f2ff2d91a2c37138c0a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/188/regulation/3) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/188/regulation/1)
+[^c-42c29bcdb0684f2ff2d91a2c37138c0a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/188/regulation/3) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/188/regulation/1)
 
 [^f00006]: Footnote: [S.S.I. 2004/406](https://www.legislation.gov.uk/ssi/2004/406).
 
@@ -465,14 +465,14 @@ Regulation 5 updates the Forms Regulations.
 
 [^f00008]: Footnote: Schedule 3 was substituted by [S.S.I. 2006/534](https://www.legislation.gov.uk/ssi/2006/534). There are other amendments not relevant to these Regulations.
 
-[^key-c1a23704d3d28fcbd066a461d3036a9e]: Textual amendment: Word in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2017/188/regulation/3/3) inserted (30.6.2017) by [The Building (Miscellaneous Amendments) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/214)](https://www.legislation.gov.uk/ssi/2017/214), [regs. 1](https://www.legislation.gov.uk/ssi/2017/214/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/214/regulation/2/3)
+[^c-c1a23704d3d28fcbd066a461d3036a9e]: Textual amendment: Word in [reg. 3(3)](https://www.legislation.gov.uk/ssi/2017/188/regulation/3/3) inserted (30.6.2017) by [The Building (Miscellaneous Amendments) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/214)](https://www.legislation.gov.uk/ssi/2017/214), [regs. 1](https://www.legislation.gov.uk/ssi/2017/214/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/214/regulation/2/3)
 
-[^key-1056b9fad9a76b48125f84c9e37d8828]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/188/regulation/4) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/188/regulation/1)
+[^c-1056b9fad9a76b48125f84c9e37d8828]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/188/regulation/4) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/188/regulation/1)
 
 [^f00009]: Footnote: [S.S.I. 2004/508](https://www.legislation.gov.uk/ssi/2004/508) as amended by [S.S.I. 2007/169](https://www.legislation.gov.uk/ssi/2007/169) and [S.S.I. 2008/397](https://www.legislation.gov.uk/ssi/2008/397).
 
 [^f00010]: Footnote: Regulation 5 was substituted by [S.S.I. 2008/397](https://www.legislation.gov.uk/ssi/2008/397).
 
-[^key-40c46346be85a47fb82a8f99327aa591]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/188/regulation/5) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/188/regulation/1)
+[^c-40c46346be85a47fb82a8f99327aa591]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/188/regulation/5) in force at 1.7.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/188/regulation/1)
 
 [^f00011]: Footnote: [S.S.I. 2005/172](https://www.legislation.gov.uk/ssi/2005/172) as amended by [S.S.I. 2006/163](https://www.legislation.gov.uk/ssi/2006/163), [S.S.I. 2007/168](https://www.legislation.gov.uk/ssi/2007/168), [S.S.I. 2011/120](https://www.legislation.gov.uk/ssi/2011/120) and [S.S.I. 2013/143](https://www.legislation.gov.uk/ssi/2013/143).

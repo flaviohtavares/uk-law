@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259ICA. Deemed dual inclusion income for the purposes of section 259IC[^key-9552ae62d2ed49590bbadec40cbc8774][^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259ICA. Deemed dual inclusion income for the purposes of section 259IC[^c-9552ae62d2ed49590bbadec40cbc8774][^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9552ae62d2ed49590bbadec40cbc8774]: Textual amendment: [S. 259ICA](https://www.legislation.gov.uk/ukpga/2010/8/section/259ICA) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/12/3)
+[^c-9552ae62d2ed49590bbadec40cbc8774]: Textual amendment: [S. 259ICA](https://www.legislation.gov.uk/ukpga/2010/8/section/259ICA) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/12/3)
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)

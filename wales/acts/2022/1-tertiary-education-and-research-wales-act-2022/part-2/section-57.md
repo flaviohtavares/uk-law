@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Duty of the Chief Inspector to inspect and report[^key-fc8747df8ebd436dbcca828777e291ba][^key-e0688405823b8f499903367b184af9b8][^key-c2566bf3141e4b00fd2a3cd6ec88fa11]
+## 57. Duty of the Chief Inspector to inspect and report[^c-fc8747df8ebd436dbcca828777e291ba][^c-e0688405823b8f499903367b184af9b8][^c-c2566bf3141e4b00fd2a3cd6ec88fa11]
 
 *Extent: E+W*
 
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-fc8747df8ebd436dbcca828777e291ba]: Commencement: S. 57 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-fc8747df8ebd436dbcca828777e291ba]: Commencement: S. 57 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-e0688405823b8f499903367b184af9b8]: Commencement: [S. 57](https://www.legislation.gov.uk/asc/2022/1/section/57) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(bb)](https://www.legislation.gov.uk/wsi/2023/919/article/3/bb)
+[^c-e0688405823b8f499903367b184af9b8]: Commencement: [S. 57](https://www.legislation.gov.uk/asc/2022/1/section/57) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(bb)](https://www.legislation.gov.uk/wsi/2023/919/article/3/bb)
 
-[^key-c2566bf3141e4b00fd2a3cd6ec88fa11]: Commencement: [S. 57](https://www.legislation.gov.uk/asc/2022/1/section/57) in force at 1.4.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 7(1)](https://www.legislation.gov.uk/wsi/2026/62/article/7/1) (with [arts. 7(2)](https://www.legislation.gov.uk/wsi/2026/62/article/7/2), [13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))
+[^c-c2566bf3141e4b00fd2a3cd6ec88fa11]: Commencement: [S. 57](https://www.legislation.gov.uk/asc/2022/1/section/57) in force at 1.4.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 7(1)](https://www.legislation.gov.uk/wsi/2026/62/article/7/1) (with [arts. 7(2)](https://www.legislation.gov.uk/wsi/2026/62/article/7/2), [13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))

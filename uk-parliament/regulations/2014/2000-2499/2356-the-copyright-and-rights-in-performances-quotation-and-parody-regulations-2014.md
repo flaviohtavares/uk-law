@@ -48,15 +48,15 @@ In accordance with paragraph 2(2) of Schedule 2 to that Act, a draft of this ins
 
 The Secretary of State, in exercise of the powers conferred by section 2(2) of that Act makes the following Regulations:
 
-## 1. Citation and commencement[^key-48e46e3484f8cff9c864972d1c977d59]
+## 1. Citation and commencement[^c-48e46e3484f8cff9c864972d1c977d59]
 
 These Regulations may be cited as the Copyright and Rights in Performances (Quotation and Parody) Regulations 2014 and come into force on 1st October 2014.
 
-## 2. Amendments to the Copyright, Designs and Patents Act 1988[^key-9622bd296ed24c38b5bd6bcf2f3964f6]
+## 2. Amendments to the Copyright, Designs and Patents Act 1988[^c-9622bd296ed24c38b5bd6bcf2f3964f6]
 
 The Copyright, Designs and Patents Act 1988[^f00003] is amended in accordance with these Regulations.
 
-## 3. Quotation: amendments to section 30[^key-0df8ded8de01e79d1a49e568e19f3214]
+## 3. Quotation: amendments to section 30[^c-0df8ded8de01e79d1a49e568e19f3214]
 
 (1) Section 30[^f00004] is amended as follows.
 
@@ -82,7 +82,7 @@ The Copyright, Designs and Patents Act 1988[^f00003] is amended in accordance wi
 
 > (4) To the extent that a term of a contract purports to prevent or restrict the doing of any act which, by virtue of subsection (1ZA), would not infringe copyright, that term is unenforceable.
 
-## 4. Quotation: amendments to Schedule 2[^key-f0d2cf837f85d9f1d7d38b23aa487950]
+## 4. Quotation: amendments to Schedule 2[^c-f0d2cf837f85d9f1d7d38b23aa487950]
 
 (1) Paragraph 2[^f00005] of Schedule 2 is amended as follows.
 
@@ -100,7 +100,7 @@ The Copyright, Designs and Patents Act 1988[^f00003] is amended in accordance wi
 
 > (1B) To the extent that a term of a contract purports to prevent or restrict the doing of any act which, by virtue of sub-paragraph (1ZA), would not infringe any right conferred by this Chapter, that term is unenforceable.
 
-## 5. Parody[^key-607545ae70216dffdcbab33760b18248]
+## 5. Parody[^c-607545ae70216dffdcbab33760b18248]
 
 (1) After section 30 insert—
 
@@ -148,18 +148,18 @@ Full impact assessments of the effect that this instrument will have on the cost
 
 [^f00002]: Footnote: [S.1. 1992/707](https://www.legislation.gov.uk/uksi/1992/707) and [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
 
-[^key-48e46e3484f8cff9c864972d1c977d59]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1) in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1)
+[^c-48e46e3484f8cff9c864972d1c977d59]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1) in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1)
 
-[^key-9622bd296ed24c38b5bd6bcf2f3964f6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2356/regulation/2) in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1)
+[^c-9622bd296ed24c38b5bd6bcf2f3964f6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2356/regulation/2) in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1)
 
 [^f00003]: Footnote: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-0df8ded8de01e79d1a49e568e19f3214]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2356/regulation/3) in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1)
+[^c-0df8ded8de01e79d1a49e568e19f3214]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2356/regulation/3) in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1)
 
 [^f00004]: Footnote: Section 30 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulations 3 and 10(1).
 
-[^key-f0d2cf837f85d9f1d7d38b23aa487950]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2356/regulation/4) in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1)
+[^c-f0d2cf837f85d9f1d7d38b23aa487950]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2356/regulation/4) in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1)
 
 [^f00005]: Footnote: Paragraph 2 of Schedule 2 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulations 3 and 10(2).
 
-[^key-607545ae70216dffdcbab33760b18248]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2356/regulation/5) in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1)
+[^c-607545ae70216dffdcbab33760b18248]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2356/regulation/5) in force at 1.10.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1)

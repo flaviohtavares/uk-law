@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**68.**[^key-01bdf5ae3ab24515ca0725f1596ea7aa] In Schedule 3 (consequential amendments), in paragraph 7(3), for “widow’s widower's” substitute “widow's, widower's, surviving civil partner's”.
+**68.**[^c-01bdf5ae3ab24515ca0725f1596ea7aa] In Schedule 3 (consequential amendments), in paragraph 7(3), for “widow’s widower's” substitute “widow's, widower's, surviving civil partner's”.
 
 ## Annotations
 
-[^key-01bdf5ae3ab24515ca0725f1596ea7aa]: Commencement: Art. 68 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-01bdf5ae3ab24515ca0725f1596ea7aa]: Commencement: Art. 68 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

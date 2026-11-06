@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Communication of a personal data breach[^key-9a5a534af2e44027b701cbb835af1113]
+## 108. Communication of a personal data breach[^c-9a5a534af2e44027b701cbb835af1113]
 
 *Extent: E+W+S+N.I.*
 
-(1) If a controller becomes aware of a serious personal data breach in relation to personal data for which the controller is responsible, the controller must notify the Commission[^key-a19df72b00c8a5cf16470bff54523597] of the breach without undue delay.
+(1) If a controller becomes aware of a serious personal data breach in relation to personal data for which the controller is responsible, the controller must notify the Commission[^c-a19df72b00c8a5cf16470bff54523597] of the breach without undue delay.
 
 (2) Where the notification to the Commission is not made within 72 hours, the notification must be accompanied by reasons for the delay.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a5a534af2e44027b701cbb835af1113]: Commencement: S. 108 in force at 16.9.2019 by [S.I. 2019/1188](https://www.legislation.gov.uk/uksi/2019/1188), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2019/1188/regulation/2/f)
+[^c-9a5a534af2e44027b701cbb835af1113]: Commencement: S. 108 in force at 16.9.2019 by [S.I. 2019/1188](https://www.legislation.gov.uk/uksi/2019/1188), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2019/1188/regulation/2/f)
 
-[^key-a19df72b00c8a5cf16470bff54523597]: Textual amendment: Word in s. 108(1)(2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-a19df72b00c8a5cf16470bff54523597]: Textual amendment: Word in s. 108(1)(2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

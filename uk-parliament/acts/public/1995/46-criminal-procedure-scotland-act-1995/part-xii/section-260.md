@@ -26,7 +26,7 @@ summary: ''
 
 - (a) the statement is contained in a document;
 - (b) the witness, in the course of giving evidence, indicates that the statement was made by him and that he adopts it as his evidence; and
-- (c)[^key-1221b91d0fdbb068e2d7ef6907d500a2] at the time the statement was made, the person who made it would have been a competent witness in the proceedings.
+- (c)[^c-1221b91d0fdbb068e2d7ef6907d500a2] at the time the statement was made, the person who made it would have been a competent witness in the proceedings.
 
 (3) For the purposes of this section, any reference to a prior statement is a reference to a prior statement which, but for the provisions of this section, would not be admissible as evidence of any matter stated in it.
 
@@ -43,6 +43,6 @@ and, for the purposes of this section, any such statement shall not be admissibl
 
 [^c14474671]: Modification: Ss. 259-261 excluded (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 3](https://www.legislation.gov.uk/ukpga/1995/40/section/3), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 3 Pt. II para. 14](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3/part/II/paragraph/14)
 
-[^key-1221b91d0fdbb068e2d7ef6907d500a2]: Modification: S. 260(2)(c) modified (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 84](https://www.legislation.gov.uk/asp/2010/13/section/84), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-1221b91d0fdbb068e2d7ef6907d500a2]: Modification: S. 260(2)(c) modified (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 84](https://www.legislation.gov.uk/asp/2010/13/section/84), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c18999151]: Textual amendment: S. 260(5) inserted (4.10.2004) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5), [ss. 23](https://www.legislation.gov.uk/asp/2004/5/section/23), [27(1)](https://www.legislation.gov.uk/asp/2004/5/section/27/1); [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2](https://www.legislation.gov.uk/ssi/2004/405/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (subject to savings in [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

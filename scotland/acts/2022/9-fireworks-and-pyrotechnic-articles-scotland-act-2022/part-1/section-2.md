@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Categories of fireworks[^key-2229c1c677088ff5a5f1417e91be1f90][^key-edc22540ccf63238d691d293705c2ee0]
+## 2. Categories of fireworks[^c-2229c1c677088ff5a5f1417e91be1f90][^c-edc22540ccf63238d691d293705c2ee0]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2229c1c677088ff5a5f1417e91be1f90]: Commencement: S. 2 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-2229c1c677088ff5a5f1417e91be1f90]: Commencement: S. 2 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-edc22540ccf63238d691d293705c2ee0]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2022/9/section/2) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)
+[^c-edc22540ccf63238d691d293705c2ee0]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2022/9/section/2) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)

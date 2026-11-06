@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Enforcement of financial penalties: registration[^key-d1a7ae0836a06308510bc5ab953fdca4]
+## 112. Enforcement of financial penalties: registration[^c-d1a7ae0836a06308510bc5ab953fdca4]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1a7ae0836a06308510bc5ab953fdca4]: Commencement: S. 112 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-d1a7ae0836a06308510bc5ab953fdca4]: Commencement: S. 112 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

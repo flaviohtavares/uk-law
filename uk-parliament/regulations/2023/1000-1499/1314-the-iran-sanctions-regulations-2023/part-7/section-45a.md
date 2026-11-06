@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45A. Prohibition on chartering or operating specified ships[^key-fb2fdde640dd87a3ffc4b8c094f4aad8]
+## 45A. Prohibition on chartering or operating specified ships[^c-fb2fdde640dd87a3ffc4b8c094f4aad8]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb2fdde640dd87a3ffc4b8c094f4aad8]: Textual amendment: [Reg. 45A](https://www.legislation.gov.uk/uksi/2023/1314/regulation/45A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2026/983/regulation/19)
+[^c-fb2fdde640dd87a3ffc4b8c094f4aad8]: Textual amendment: [Reg. 45A](https://www.legislation.gov.uk/uksi/2023/1314/regulation/45A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2026/983/regulation/19)

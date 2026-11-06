@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Justice of the peace[^key-040a38a345b3de35d10eb1623827f867]
+## 114. Justice of the peace[^c-040a38a345b3de35d10eb1623827f867]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where a justice of the peace is reported by an election court to be guilty of an
 
 ## Annotations
 
-[^key-040a38a345b3de35d10eb1623827f867]: Commencement: Art. 114 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-040a38a345b3de35d10eb1623827f867]: Commencement: Art. 114 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

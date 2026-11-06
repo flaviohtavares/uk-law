@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Harassment etc: police direction to stay away from person's home[^key-2d5bd882bf001fb41be6178713c1c07d]
+## 127. Harassment etc: police direction to stay away from person's home[^c-2d5bd882bf001fb41be6178713c1c07d]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d5bd882bf001fb41be6178713c1c07d]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2005/15/section/127) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(m)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/m)
+[^c-2d5bd882bf001fb41be6178713c1c07d]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2005/15/section/127) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(m)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/m)

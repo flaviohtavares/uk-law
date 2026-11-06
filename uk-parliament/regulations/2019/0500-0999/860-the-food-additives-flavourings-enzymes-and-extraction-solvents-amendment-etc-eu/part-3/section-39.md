@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39.[^key-bf8f8f70ba19b092198fc2caccf9fd48]
+## 39.[^c-bf8f8f70ba19b092198fc2caccf9fd48]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ In Article 2—
   >
   > “**Authority**” means—
   >
-  > - (a) as regards England and Wales[^key-3a1f79aad91d8a8722e947370aebf227], the Food Standards Agency;
+  > - (a) as regards England and Wales[^c-3a1f79aad91d8a8722e947370aebf227], the Food Standards Agency;
   > - (b) as regards Scotland, Food Standards Scotland;
   >
   > **4.**
@@ -48,13 +48,13 @@ In Article 2—
   > - (a) in relation to England, the Secretary of State;
   > - (b) in relation to Wales, the Welsh Ministers;
   > - (c) in relation to Scotland, the Scottish Ministers;
-  > - (d)[^key-bd4209f768295c11e8d0557b9326205c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (d)[^c-bd4209f768295c11e8d0557b9326205c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   >
   > **6.**
   >
   > “**Regulation 234/2011**” means Commission Implementing Regulation (EU) No. 234/2011 implementing Regulation [(EC) No. 1331/2008](https://www.legislation.gov.uk/eur/2008/1331) of the European Parliament and of the Council establishing a common authorisation procedure for food additives, food enzymes and food flavourings;
   >
-  > **7.[^key-2de89b45550ebef473655c9e5d6cd6a9]**
+  > **7.[^c-2de89b45550ebef473655c9e5d6cd6a9]**
   >
   > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -62,10 +62,10 @@ In Article 2—
 
 ## Annotations
 
-[^key-bf8f8f70ba19b092198fc2caccf9fd48]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-bf8f8f70ba19b092198fc2caccf9fd48]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3a1f79aad91d8a8722e947370aebf227]: Textual amendment: Words in reg. 39(c) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(10)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/10/a)
+[^c-3a1f79aad91d8a8722e947370aebf227]: Textual amendment: Words in reg. 39(c) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(10)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/10/a)
 
-[^key-bd4209f768295c11e8d0557b9326205c]: Textual amendment: Words in reg. 39(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(10)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/10/b)
+[^c-bd4209f768295c11e8d0557b9326205c]: Textual amendment: Words in reg. 39(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(10)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/10/b)
 
-[^key-2de89b45550ebef473655c9e5d6cd6a9]: Textual amendment: Words in reg. 39(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(10)(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/10/c)
+[^c-2de89b45550ebef473655c9e5d6cd6a9]: Textual amendment: Words in reg. 39(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(10)(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/10/c)

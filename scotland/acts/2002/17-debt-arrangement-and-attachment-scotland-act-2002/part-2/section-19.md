@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) An officer[^key-6e1ce0f95877799c4b88734d808c1f8b] may, after the report of attachment has been received by the sheriff—
+(1) An officer[^c-6e1ce0f95877799c4b88734d808c1f8b] may, after the report of attachment has been received by the sheriff—
 
 - (a) make arrangements for the auction of the attached articles; and
 - (b) on the date specified in the notice given under section 27(4) below, remove the attached articles from the place at which they are kept.
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e1ce0f95877799c4b88734d808c1f8b]: Textual amendment: Words in s. 19(1) substituted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(8)](https://www.legislation.gov.uk/asp/2007/3/section/212/8), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)
+[^c-6e1ce0f95877799c4b88734d808c1f8b]: Textual amendment: Words in s. 19(1) substituted (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(8)](https://www.legislation.gov.uk/asp/2007/3/section/212/8), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)

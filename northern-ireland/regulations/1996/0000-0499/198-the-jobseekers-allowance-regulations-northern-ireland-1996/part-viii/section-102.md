@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 102. Deduction of tax and contributions for self-employed earners[^key-957e210f626078691544c2f8ae711a31]
+## 102. Deduction of tax and contributions for self-employed earners[^c-957e210f626078691544c2f8ae711a31]
 
 *Extent: N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-957e210f626078691544c2f8ae711a31]: Commencement: Reg. 102 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-957e210f626078691544c2f8ae711a31]: Commencement: Reg. 102 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00096]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); sections 257 to 257F were substituted for section 257 by section 33 of the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39); section 259 was amended by sections 30 and 35 of the Finance Act 1988, section 20 of the Finance (No. 2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48) and section 77 of, and paragraph 6 of Schedule 8 to, the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9)

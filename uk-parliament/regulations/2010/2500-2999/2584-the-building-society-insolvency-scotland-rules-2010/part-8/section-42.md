@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Resignation of building society liquidator[^key-4e7d7a431bd88927fef8646ffc7014aa]
+## 42. Resignation of building society liquidator[^c-4e7d7a431bd88927fef8646ffc7014aa]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e7d7a431bd88927fef8646ffc7014aa]: Commencement: Rule 42 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-4e7d7a431bd88927fef8646ffc7014aa]: Commencement: Rule 42 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^M_F_e8621171-61d1-4c2d-ac9f-210d5e4947c3]: Textual amendment: Words in Rules substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(8)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/8)

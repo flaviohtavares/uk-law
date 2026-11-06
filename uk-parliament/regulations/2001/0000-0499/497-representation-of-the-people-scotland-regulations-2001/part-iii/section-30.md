@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Notice of hearing[^key-141058b2f8043c05d349bd74f95212af]
+## 30. Notice of hearing[^c-141058b2f8043c05d349bd74f95212af]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-141058b2f8043c05d349bd74f95212af]: Commencement: Reg. 30 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-141058b2f8043c05d349bd74f95212af]: Commencement: Reg. 30 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)

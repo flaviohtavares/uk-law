@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50B. Guidance from the College of Policing on pre-charge bail[^key-7dae2ea82bd9dad2b7d801dd02f44513]
+## 50B. Guidance from the College of Policing on pre-charge bail[^c-7dae2ea82bd9dad2b7d801dd02f44513]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dae2ea82bd9dad2b7d801dd02f44513]: Textual amendment: [S. 50B](https://www.legislation.gov.uk/ukpga/1984/60/section/50B) inserted (26.10.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/37) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/45/3)); [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/e)
+[^c-7dae2ea82bd9dad2b7d801dd02f44513]: Textual amendment: [S. 50B](https://www.legislation.gov.uk/ukpga/1984/60/section/50B) inserted (26.10.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/37) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/45/3)); [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/e)

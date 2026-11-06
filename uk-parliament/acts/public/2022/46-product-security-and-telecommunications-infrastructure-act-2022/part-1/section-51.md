@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Liability of authorised representatives[^key-3e0d15e1fa6b6f35a3a4cc87f8f5a5ca][^key-ecee890be89074c45c304c19294a67a9]
+## 51. Liability of authorised representatives[^c-3e0d15e1fa6b6f35a3a4cc87f8f5a5ca][^c-ecee890be89074c45c304c19294a67a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e0d15e1fa6b6f35a3a4cc87f8f5a5ca]: Commencement: S. 51 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-3e0d15e1fa6b6f35a3a4cc87f8f5a5ca]: Commencement: S. 51 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-ecee890be89074c45c304c19294a67a9]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/46/section/51) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-ecee890be89074c45c304c19294a67a9]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/46/section/51) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

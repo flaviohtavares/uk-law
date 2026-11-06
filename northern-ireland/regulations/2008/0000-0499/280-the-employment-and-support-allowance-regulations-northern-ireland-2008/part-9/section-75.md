@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Payments treated as not being payments to which section 3 of the Act applies[^key-363b224f7fc08438464553d927d7d355]
+## 75. Payments treated as not being payments to which section 3 of the Act applies[^c-363b224f7fc08438464553d927d7d355]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ The following payments are to be treated as not being payments to which section 
 
 ## Annotations
 
-[^key-363b224f7fc08438464553d927d7d355]: Commencement: [Reg. 75](https://www.legislation.gov.uk/nisr/2008/280/regulation/75) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-363b224f7fc08438464553d927d7d355]: Commencement: [Reg. 75](https://www.legislation.gov.uk/nisr/2008/280/regulation/75) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
 [^f00084]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1)

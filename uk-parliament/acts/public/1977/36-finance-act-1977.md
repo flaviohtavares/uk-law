@@ -105,7 +105,7 @@ then, in such circumstances as may be prescribed, duties of customs or levies sh
 
 (3) The amount of the duty of customs or levy which, in any particular prescribed circumstances, is charged on or in respect of any goods by virtue of this section shall be such as, in accordance with the Treaties, may either be prescribed or determined in a prescribed manner.
 
-(4) Duties of customs charged by virtue of this section shall be treated as EU[^key-f14364e05d9261093c3b72c076ee6d2d] customs duties charged under subsection (1) of section 5 of the [^c7261511]European Communities Act 1972 and levies charged by virtue of this section shall be treated as agricultural levies, as defined in subsection (8) of section 6 of that Act; and the provisions of, and of the enactments referred to in, the said section 6[^c7261521] shall apply accordingly.
+(4) Duties of customs charged by virtue of this section shall be treated as EU[^c-f14364e05d9261093c3b72c076ee6d2d] customs duties charged under subsection (1) of section 5 of the [^c7261511]European Communities Act 1972 and levies charged by virtue of this section shall be treated as agricultural levies, as defined in subsection (8) of section 6 of that Act; and the provisions of, and of the enactments referred to in, the said section 6[^c7261521] shall apply accordingly.
 
 (5) In this section “**prescribed**” means prescribed by regulations made by statutory instrument by the Commissioners which shall be subject to annulment in pursuance of a resolution of either House of Parliament[^c7261531].
 
@@ -179,7 +179,7 @@ then, in such circumstances as may be prescribed, duties of customs or levies sh
 
 ### 55. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c7261751]
 
-### 56. Annuities under Tithe Acts 1936 and 1951.[^key-f219f0946bc769eebc52629c4c8fc11b]
+### 56. Annuities under Tithe Acts 1936 and 1951.[^c-f219f0946bc769eebc52629c4c8fc11b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -321,7 +321,7 @@ The above repeals take effect on 1st January 1978.
 
 **2.** The repeal of the other provisions mentioned above does not affect their operation in relation to any allowance or benefit payable in respect of a period before 4th April 1977.
 
-### Part V — Annuities under Tithe Acts 1936 and 1951[^key-9038b51873a0c338a6a008558afb1779]
+### Part V — Annuities under Tithe Acts 1936 and 1951[^c-9038b51873a0c338a6a008558afb1779]
 
 **No longer in force.**
 
@@ -395,7 +395,7 @@ The above repeals take effect on 1st January 1978.
 
 [^c7261501]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1977/36/section/8), [9](https://www.legislation.gov.uk/ukpga/1977/36/section/9) repealed by [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2), [s. 177(3)](https://www.legislation.gov.uk/ukpga/1979/2/section/177/3), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1979/2/schedule/6/part/I)
 
-[^key-f14364e05d9261093c3b72c076ee6d2d]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-f14364e05d9261093c3b72c076ee6d2d]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c7261511]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
@@ -443,7 +443,7 @@ The above repeals take effect on 1st January 1978.
 
 [^c7261751]: Textual amendment: [S. 55](https://www.legislation.gov.uk/ukpga/1977/36/section/55) repealed by [Finance Act 1985 (c. 54)](https://www.legislation.gov.uk/ukpga/1985/54), [s. 98(6)](https://www.legislation.gov.uk/ukpga/1985/54/section/98/6), [Sch. 27 Pt. X](https://www.legislation.gov.uk/ukpga/1985/54/schedule/27/part/X), Note II
 
-[^key-f219f0946bc769eebc52629c4c8fc11b]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/1977/36/section/56) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
+[^c-f219f0946bc769eebc52629c4c8fc11b]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/1977/36/section/56) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
 
 [^c7261761]: Textual amendment: [S. 57](https://www.legislation.gov.uk/ukpga/1977/36/section/57) repealed by [Finance Act 1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43), [s. 128(6)](https://www.legislation.gov.uk/ukpga/1984/43/section/128/6), [Sch. 23 Pt. XI](https://www.legislation.gov.uk/ukpga/1984/43/schedule/23/part/XI)
 
@@ -469,4 +469,4 @@ The above repeals take effect on 1st January 1978.
 
 [^c7261871]: Modification: The text of ss. 3(4), 6(2)(3), 56, Schs. 1, 2, 4–6, 9 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-9038b51873a0c338a6a008558afb1779]: Textual amendment: [Sch. 9 Pt. V](https://www.legislation.gov.uk/ukpga/1977/36/schedule/9/part/V) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
+[^c-9038b51873a0c338a6a008558afb1779]: Textual amendment: [Sch. 9 Pt. V](https://www.legislation.gov.uk/ukpga/1977/36/schedule/9/part/V) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3

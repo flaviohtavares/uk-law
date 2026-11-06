@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Carbon dioxide pipelines: powers of compulsory acquisition[^key-810ff4da4159c1feb404da9ea3675e5c]
+## 108. Carbon dioxide pipelines: powers of compulsory acquisition[^c-810ff4da4159c1feb404da9ea3675e5c]
 
 *Extent: E+W+S*
 
@@ -87,4 +87,4 @@ summary: ''
 
 ## Annotations
 
-[^key-810ff4da4159c1feb404da9ea3675e5c]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2011/16/section/108) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/iii)
+[^c-810ff4da4159c1feb404da9ea3675e5c]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2011/16/section/108) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/iii)

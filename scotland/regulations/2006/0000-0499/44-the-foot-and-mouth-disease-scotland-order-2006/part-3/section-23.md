@@ -27,7 +27,7 @@ summary: ''
 (3) Paragraph (3) shall not apply where–
 
 - (a) in the opinion of the Scottish Ministers exceptional circumstances exist which would make slaughter on those premises an unsatisfactory method of disease control; or
-- (b) the premises are a slaughterhouse or border control post[^key-50a66fa7b1506151b3e30119d0aad03b],
+- (b) the premises are a slaughterhouse or border control post[^c-50a66fa7b1506151b3e30119d0aad03b],
 
 in which case the Scottish Ministers may direct that slaughter be carried out at another place which they consider satisfactory for the purpose of preventing the spread of disease.
 
@@ -37,4 +37,4 @@ in which case the Scottish Ministers may direct that slaughter be carried out at
 
 ## Annotations
 
-[^key-50a66fa7b1506151b3e30119d0aad03b]: Textual amendment: Words in [art. 23(3)(b)](https://www.legislation.gov.uk/ssi/2006/44/article/23/3/b) substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [17(3)](https://www.legislation.gov.uk/ssi/2019/412/regulation/17/3)
+[^c-50a66fa7b1506151b3e30119d0aad03b]: Textual amendment: Words in [art. 23(3)(b)](https://www.legislation.gov.uk/ssi/2006/44/article/23/3/b) substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [17(3)](https://www.legislation.gov.uk/ssi/2019/412/regulation/17/3)

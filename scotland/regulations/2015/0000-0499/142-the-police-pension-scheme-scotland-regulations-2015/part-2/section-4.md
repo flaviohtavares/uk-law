@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Establishment of scheme[^key-dd463ec1073916f63fdf4bdccb3aea99]
+## 4. Establishment of scheme[^c-dd463ec1073916f63fdf4bdccb3aea99]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd463ec1073916f63fdf4bdccb3aea99]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-dd463ec1073916f63fdf4bdccb3aea99]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

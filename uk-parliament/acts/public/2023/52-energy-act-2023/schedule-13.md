@@ -22,7 +22,7 @@ summary: ''
 
 Section 200(2)
 
-### 1. Introductory[^key-ea0e24897ec587a98cff73d8603c4d5d][^key-22b65f0f85e349b2f0cee0ae0c090e63]
+### 1. Introductory[^c-ea0e24897ec587a98cff73d8603c4d5d][^c-22b65f0f85e349b2f0cee0ae0c090e63]
 
 (1) In this Schedule—
 
@@ -47,7 +47,7 @@ Section 200(2)
 
 (3) In the event that a section of a qualifying pension scheme is constituted as a separate pension scheme the members of which consist of or include persons who are qualifying members of the qualifying pension scheme, any reference in this Schedule to the qualifying pension scheme includes a reference to that separate pension scheme.
 
-### 2. Participation in qualifying pension schemes and transfer of assets and rights[^key-774cf49e91b5ebbc2728693be6e20cc1][^key-26133e261a72c740c6fef6fa340d2f5d]
+### 2. Participation in qualifying pension schemes and transfer of assets and rights[^c-774cf49e91b5ebbc2728693be6e20cc1][^c-26133e261a72c740c6fef6fa340d2f5d]
 
 (1) The GEMA may by regulations make such pensions provision as it considers appropriate in preparation for the granting of a code manager licence to a person in respect of a designated document.
 
@@ -70,7 +70,7 @@ Section 200(2)
 
 (5) The approval of the Secretary of State is required for the making of regulations under sub-paragraph (1).
 
-### 3. Amendment of qualifying pension schemes[^key-1b1649f5e576d82c5ec9b9189c6ee65d][^key-e09aec6a2e3c6ce1bb93b832a8553ac4]
+### 3. Amendment of qualifying pension schemes[^c-1b1649f5e576d82c5ec9b9189c6ee65d][^c-e09aec6a2e3c6ce1bb93b832a8553ac4]
 
 (1) The GEMA may by regulations make such amendments of a qualifying pension scheme as it considers appropriate—
 
@@ -98,7 +98,7 @@ Section 200(2)
 - (b) references to a “new” section of a qualifying pension scheme are to one of the sections into which the scheme is divided by regulations under paragraph 2(1);
 - (c) “**pensionable service**” has the same meaning as in section 124(1) of the Pensions Act 1995.
 
-### 4. Protection against adverse treatment[^key-2b4abddb58e4201261bf4072a0464924][^key-00deb52af86d399e49d01906773b5f00]
+### 4. Protection against adverse treatment[^c-2b4abddb58e4201261bf4072a0464924][^c-00deb52af86d399e49d01906773b5f00]
 
 (1) When exercising the power to make regulations under paragraph 2 or 3, the GEMA must ensure that the following requirements are met in respect of each person who is or has been a qualifying member of a qualifying pension scheme—
 
@@ -122,7 +122,7 @@ Section 200(2)
 
 (6) The applicable consent requirements are the requirements that apply in relation to obtaining the consent of members of the scheme to its amendment (including any such requirements set out in the trust deed or rules of the scheme).
 
-### 5. Information[^key-71ea29e9caac9a3cbdb678ee1ec26417][^key-cb191189f4a4a7531692f3b40f2b1a08]
+### 5. Information[^c-71ea29e9caac9a3cbdb678ee1ec26417][^c-cb191189f4a4a7531692f3b40f2b1a08]
 
 (1) The GEMA may direct a person who holds relevant pensions information to provide it to the GEMA.
 
@@ -146,22 +146,22 @@ Section 200(2)
 
 ## Annotations
 
-[^key-ea0e24897ec587a98cff73d8603c4d5d]: Commencement: Sch. 13 para. 1 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-ea0e24897ec587a98cff73d8603c4d5d]: Commencement: Sch. 13 para. 1 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-22b65f0f85e349b2f0cee0ae0c090e63]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2023/52/schedule/13/paragraph/1) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-22b65f0f85e349b2f0cee0ae0c090e63]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2023/52/schedule/13/paragraph/1) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-774cf49e91b5ebbc2728693be6e20cc1]: Commencement: Sch. 13 para. 2 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-774cf49e91b5ebbc2728693be6e20cc1]: Commencement: Sch. 13 para. 2 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-26133e261a72c740c6fef6fa340d2f5d]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/13/paragraph/2) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-26133e261a72c740c6fef6fa340d2f5d]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/13/paragraph/2) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-1b1649f5e576d82c5ec9b9189c6ee65d]: Commencement: Sch. 13 para. 3 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-1b1649f5e576d82c5ec9b9189c6ee65d]: Commencement: Sch. 13 para. 3 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-e09aec6a2e3c6ce1bb93b832a8553ac4]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/13/paragraph/3) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-e09aec6a2e3c6ce1bb93b832a8553ac4]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/13/paragraph/3) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-2b4abddb58e4201261bf4072a0464924]: Commencement: Sch. 13 para. 4 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-2b4abddb58e4201261bf4072a0464924]: Commencement: Sch. 13 para. 4 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-00deb52af86d399e49d01906773b5f00]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2023/52/schedule/13/paragraph/4) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-00deb52af86d399e49d01906773b5f00]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2023/52/schedule/13/paragraph/4) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-71ea29e9caac9a3cbdb678ee1ec26417]: Commencement: Sch. 13 para. 5 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-71ea29e9caac9a3cbdb678ee1ec26417]: Commencement: Sch. 13 para. 5 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-cb191189f4a4a7531692f3b40f2b1a08]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2023/52/schedule/13/paragraph/5) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-cb191189f4a4a7531692f3b40f2b1a08]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2023/52/schedule/13/paragraph/5) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)

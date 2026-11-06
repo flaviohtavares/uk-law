@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Offenders subject to notification requirements[^key-27db07e3acdd4ec722b8867cef637a24]
+## 107. Offenders subject to notification requirements[^c-27db07e3acdd4ec722b8867cef637a24]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ which is in force under this Part.
 
 ## Annotations
 
-[^key-27db07e3acdd4ec722b8867cef637a24]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2008/4/section/107) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(j)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/j)
+[^c-27db07e3acdd4ec722b8867cef637a24]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2008/4/section/107) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(j)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/j)

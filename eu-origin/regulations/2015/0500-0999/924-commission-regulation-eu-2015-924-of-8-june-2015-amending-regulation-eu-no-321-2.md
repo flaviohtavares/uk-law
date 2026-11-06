@@ -35,18 +35,18 @@ amending Regulation (EU) No 321/2013 concerning the technical specification for 
 
 (Text with EEA relevance) (revoked)
 
-[^key-10d0eedc20ca9c864859bd6c2a9e8bc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10d0eedc20ca9c864859bd6c2a9e8bc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-10d0eedc20ca9c864859bd6c2a9e8bc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-10d0eedc20ca9c864859bd6c2a9e8bc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-10d0eedc20ca9c864859bd6c2a9e8bc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-10d0eedc20ca9c864859bd6c2a9e8bc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-10d0eedc20ca9c864859bd6c2a9e8bc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10d0eedc20ca9c864859bd6c2a9e8bc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-10d0eedc20ca9c864859bd6c2a9e8bc8]
+## ANNEX[^c-10d0eedc20ca9c864859bd6c2a9e8bc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-10d0eedc20ca9c864859bd6c2a9e8bc8]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
+[^c-10d0eedc20ca9c864859bd6c2a9e8bc8]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)

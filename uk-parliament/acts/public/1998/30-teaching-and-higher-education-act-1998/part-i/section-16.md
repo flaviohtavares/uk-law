@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Duty to have regard to needs of disabled persons.[^key-77ebd285b81b1009422adefe759c2d8a]
+## 16. Duty to have regard to needs of disabled persons.[^c-77ebd285b81b1009422adefe759c2d8a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77ebd285b81b1009422adefe759c2d8a]: Textual amendment: S. 16 repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-77ebd285b81b1009422adefe759c2d8a]: Textual amendment: S. 16 repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)

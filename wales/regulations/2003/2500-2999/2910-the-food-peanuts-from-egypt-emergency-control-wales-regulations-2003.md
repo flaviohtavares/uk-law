@@ -52,7 +52,7 @@ The National Assembly for Wales, being designated [^c5189281] for the purposes o
 (1) In these Regulations —
 
 - “**the Act**” (“***y Ddeddf***”) means the Food Safety Act 1990 [^c5189301] and, save where the context otherwise requires and subject to paragraph (2), any expression used both in these Regulations and in the Act has the meaning it bears in the Act;
-- “the Commission Decision” (“[^key-970f01233ae3083bb8ee8be8e7f16900]*Penderfyniad y Comisiwn*”) means Commission Decision [2000/49/EC](https://www.legislation.gov.uk/eud/2000/49) repealing Decision [1999/356/EC](https://www.legislation.gov.uk/eud/1999/356) and imposing special conditions on the import of peanuts and certain products derived from peanuts originating in or consigned from Egypt as amended by Commission Decision [2003/580/EC](https://www.legislation.gov.uk/eud/2003/580) and Commission Decision [2004/429/EC](https://www.legislation.gov.uk/eud/2004/429) amending Decisions [97/830/EC](https://www.legislation.gov.uk/eud/1997/830), [2000/49/EC](https://www.legislation.gov.uk/eud/2000/49), [2002/79/EC](https://www.legislation.gov.uk/eud/2002/79) and [2002/80/EC](https://www.legislation.gov.uk/eud/2002/80) as regards the points of entry through which the products concerned may only be imported into the Community;
+- “the Commission Decision” (“[^c-970f01233ae3083bb8ee8be8e7f16900]*Penderfyniad y Comisiwn*”) means Commission Decision [2000/49/EC](https://www.legislation.gov.uk/eud/2000/49) repealing Decision [1999/356/EC](https://www.legislation.gov.uk/eud/1999/356) and imposing special conditions on the import of peanuts and certain products derived from peanuts originating in or consigned from Egypt as amended by Commission Decision [2003/580/EC](https://www.legislation.gov.uk/eud/2003/580) and Commission Decision [2004/429/EC](https://www.legislation.gov.uk/eud/2004/429) amending Decisions [97/830/EC](https://www.legislation.gov.uk/eud/1997/830), [2000/49/EC](https://www.legislation.gov.uk/eud/2000/49), [2002/79/EC](https://www.legislation.gov.uk/eud/2002/79) and [2002/80/EC](https://www.legislation.gov.uk/eud/2002/80) as regards the points of entry through which the products concerned may only be imported into the Community;
 - “**controlled Egyptian peanuts**” (“***pysgnau o'r Aifft a reolir***”) means Egyptian peanuts which are intended for human consumption or to be used as an ingredient in foodstuffs;
 - “**Egyptian peanuts**” (“***pysgnau o'r Aifft***”) means —
   - (a) peanuts falling within CN code 1202 10 90 in shell or within CN code 1202 20 00 shelled, whether or not broken; and
@@ -154,12 +154,12 @@ shall be sufficient evidence of the facts stated in it unless, in a case falling
 - (a) the re-dispatch of the Egyptian peanuts outside the European Community within such reasonable period as shall be specified in the notice; or
 - (b) (where such re-dispatch would in the authorised officer’s opinion involve serious risks to human health) the destruction of the Egyptian peanuts within such reasonable period as shall be so specified.
 
-(2) [^key-7c070a4c4a7848336c1ac8b7c426ec38]... the notice served under paragraph (1) shall state —
+(2) [^c-7c070a4c4a7848336c1ac8b7c426ec38]... the notice served under paragraph (1) shall state —
 
 - (a) the right of appeal to a magistrates' court; and
 - (b) the period within which such an appeal may be brought.
 
-(3) Any person who is aggrieved by a decision of an authorised officer to serve a notice under paragraph (1) may appeal to a magistrates' court, which shall determine whether or not the notice should be upheld or set aside[^key-948009405d6edd6286b6818e418ac250].
+(3) Any person who is aggrieved by a decision of an authorised officer to serve a notice under paragraph (1) may appeal to a magistrates' court, which shall determine whether or not the notice should be upheld or set aside[^c-948009405d6edd6286b6818e418ac250].
 
 (4) The period within which such an appeal as is mentioned in paragraph (3) may be brought shall be 6 days from the date on which the notice was served exclusive of Saturdays, Sundays and Public Holidays and the making of the complaint shall be deemed for the purpose of this paragraph to be the bringing of the appeal.
 
@@ -217,7 +217,7 @@ No regulatory appraisal has been prepared in relation to these Regulations.
 
 [^c5189301]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
 
-[^key-970f01233ae3083bb8ee8be8e7f16900]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2003/2910/regulation/2/1) substituted (31.7.2004) by [The Food (Emergency Control) (Wales) (Miscellaneous Amendments) (No. 2) Regulations 2004 (S.I. 2004/1804)](https://www.legislation.gov.uk/wsi/2004/1804), [regs. 1](https://www.legislation.gov.uk/wsi/2004/1804/regulation/1), [6](https://www.legislation.gov.uk/wsi/2004/1804/regulation/6)
+[^c-970f01233ae3083bb8ee8be8e7f16900]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2003/2910/regulation/2/1) substituted (31.7.2004) by [The Food (Emergency Control) (Wales) (Miscellaneous Amendments) (No. 2) Regulations 2004 (S.I. 2004/1804)](https://www.legislation.gov.uk/wsi/2004/1804), [regs. 1](https://www.legislation.gov.uk/wsi/2004/1804/regulation/1), [6](https://www.legislation.gov.uk/wsi/2004/1804/regulation/6)
 
 [^c5189331]: Marginal citation: OJ No. L201, 17.7.98, p.93.
 
@@ -229,9 +229,9 @@ No regulatory appraisal has been prepared in relation to these Regulations.
 
 [^c5189371]: Marginal citation: OJ No. L372, 31.12.85, p.50.
 
-[^key-7c070a4c4a7848336c1ac8b7c426ec38]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/wsi/2003/2910/regulation/6/2) omitted (8.2.2004) by virtue of [The Food (Emergency Control) (Miscellaneous Amendments) (Wales) Regulations 2004 (S.I. 2004/245)](https://www.legislation.gov.uk/wsi/2004/245), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/245/regulation/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2004/245/regulation/4/2)
+[^c-7c070a4c4a7848336c1ac8b7c426ec38]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/wsi/2003/2910/regulation/6/2) omitted (8.2.2004) by virtue of [The Food (Emergency Control) (Miscellaneous Amendments) (Wales) Regulations 2004 (S.I. 2004/245)](https://www.legislation.gov.uk/wsi/2004/245), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/245/regulation/1/1), [4(2)](https://www.legislation.gov.uk/wsi/2004/245/regulation/4/2)
 
-[^key-948009405d6edd6286b6818e418ac250]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/wsi/2003/2910/regulation/6/3) substituted (8.2.2004) by [The Food (Emergency Control) (Miscellaneous Amendments) (Wales) Regulations 2004 (S.I. 2004/245)](https://www.legislation.gov.uk/wsi/2004/245), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/245/regulation/1/1), [4(3)](https://www.legislation.gov.uk/wsi/2004/245/regulation/4/3)
+[^c-948009405d6edd6286b6818e418ac250]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/wsi/2003/2910/regulation/6/3) substituted (8.2.2004) by [The Food (Emergency Control) (Miscellaneous Amendments) (Wales) Regulations 2004 (S.I. 2004/245)](https://www.legislation.gov.uk/wsi/2004/245), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/245/regulation/1/1), [4(3)](https://www.legislation.gov.uk/wsi/2004/245/regulation/4/3)
 
 [^c5189381]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 

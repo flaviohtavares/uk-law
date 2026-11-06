@@ -27,7 +27,7 @@ The expressions listed in the left-hand column below are respectively defined or
 | Accident | Section 161(3) |
 | Authorised insurer[^c13992901] | Section 145(5) |
 | Certificate of insurance | Sections 147(1) and 161(2) |
-| [^key-78b67addf8490a6ee9926fd5cfff5a04]. . . | [^key-78b67addf8490a6ee9926fd5cfff5a04]. . . |
+| [^c-78b67addf8490a6ee9926fd5cfff5a04]. . . | [^c-78b67addf8490a6ee9926fd5cfff5a04]. . . |
 | Hospital | Section 161(1) |
 | Policy of insurance | Section 161(1) |
 | Prescribed | Section 160(1) |
@@ -41,4 +41,4 @@ The expressions listed in the left-hand column below are respectively defined or
 
 [^c13992901]: Textual amendment: Entry in s. 162 substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [314](https://www.legislation.gov.uk/uksi/2001/3649/article/314)
 
-[^key-78b67addf8490a6ee9926fd5cfff5a04]: Textual amendment: Words in [s. 162](https://www.legislation.gov.uk/ukpga/1988/52/section/162) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/22) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-78b67addf8490a6ee9926fd5cfff5a04]: Textual amendment: Words in [s. 162](https://www.legislation.gov.uk/ukpga/1988/52/section/162) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/22) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))

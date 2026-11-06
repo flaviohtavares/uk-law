@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Service of notices[^key-8ad89c899bcd01fcbfd241264481b19a]
+## 60. Service of notices[^c-8ad89c899bcd01fcbfd241264481b19a]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ad89c899bcd01fcbfd241264481b19a]: Commencement: Art. 60 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-8ad89c899bcd01fcbfd241264481b19a]: Commencement: Art. 60 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
 [^f00101]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

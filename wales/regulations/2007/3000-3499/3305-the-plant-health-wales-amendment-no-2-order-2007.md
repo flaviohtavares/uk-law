@@ -47,15 +47,15 @@ The Welsh Ministers make the following Order in exercise of the powers conferred
 
 This Order makes provision for a purpose mentioned in section 2(2) of the European Communities Act 1972[^f00003] and it appears to the Welsh Ministers that it is expedient for the references in the following Order to certain Decisions to be construed as references to those instruments as amended from time to time:
 
-## 1. Title, commencement and application[^key-aeeac59926b61f833100d8cae77962b5]
+## 1. Title, commencement and application[^c-aeeac59926b61f833100d8cae77962b5]
 
 The title of this Order is the Plant Health (Wales) (Amendment) (No.2) Order 2007; it applies in relation to Wales and comes into force on 18 December 2007.
 
-## 2. Amendments to the Plant Health (Wales) Order 2006[^key-a39c1b5e34c5acb1c8418c187a60611e]
+## 2. Amendments to the Plant Health (Wales) Order 2006[^c-a39c1b5e34c5acb1c8418c187a60611e]
 
 The Plant Health (Wales) Order 2006[^f00004] is amended as follows.
 
-## 3. Prevention of the introduction into and spread within the European Community of Rhynchophorus ferrugineus (Olivier)[^key-b7f9dfbe249bdc2ecfbfbb40348130b8]
+## 3. Prevention of the introduction into and spread within the European Community of Rhynchophorus ferrugineus (Olivier)[^c-b7f9dfbe249bdc2ecfbfbb40348130b8]
 
 (1) In article 2(1), at the appropriate place insert—
 
@@ -91,7 +91,7 @@ The Plant Health (Wales) Order 2006[^f00004] is amended as follows.
 
 .
 
-## 4. Prevention of the introduction into and spread within the European Community of Gibberella circinata Nirenberg & O'Donnell[^key-b23f319b7b3f2cc2389b9d95836b10a1]
+## 4. Prevention of the introduction into and spread within the European Community of Gibberella circinata Nirenberg & O'Donnell[^c-b23f319b7b3f2cc2389b9d95836b10a1]
 
 (1) In article 2(1), at the appropriate place insert—
 
@@ -133,7 +133,7 @@ The Plant Health (Wales) Order 2006[^f00004] is amended as follows.
 
 .
 
-## 5. Prevention of the introduction and spread of Potato spindle tuber viroid[^key-7ded6b707efc81b9c5b087d296ce4c20]
+## 5. Prevention of the introduction and spread of Potato spindle tuber viroid[^c-7ded6b707efc81b9c5b087d296ce4c20]
 
 (1) In article 2(1), at the appropriate place insert—
 
@@ -170,7 +170,7 @@ The Plant Health (Wales) Order 2006[^f00004] is amended as follows.
 
   .
 
-## 6. Measures in respect of certain citrus fruits[^key-38c0e0494a771f16567e864565614def]
+## 6. Measures in respect of certain citrus fruits[^c-38c0e0494a771f16567e864565614def]
 
 (1) In article 2(1), at the appropriate place insert—
 
@@ -198,7 +198,7 @@ The Plant Health (Wales) Order 2006[^f00004] is amended as follows.
   ; and
 - (e) in the third column of item 18, for “17” substitute “17a”.
 
-## 7. Miscellaneous amendments[^key-58c4efe502392404aa80c3a094a35e5b]
+## 7. Miscellaneous amendments[^c-58c4efe502392404aa80c3a094a35e5b]
 
 In—
 
@@ -239,28 +239,28 @@ A full regulatory impact assessment has not been produced for this instrument.
 
 [^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Schedule 2, paragraph 1A, inserted by the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), section 28, provides for the inclusion in subordinate legislation of references to European Community instruments as references to those instruments as amended from time to time.
 
-[^key-aeeac59926b61f833100d8cae77962b5]: Commencement: Art. 1 in force at 18.12.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/3305/article/1)
+[^c-aeeac59926b61f833100d8cae77962b5]: Commencement: Art. 1 in force at 18.12.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/3305/article/1)
 
-[^key-a39c1b5e34c5acb1c8418c187a60611e]: Commencement: Art. 2 in force at 18.12.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/3305/article/1)
+[^c-a39c1b5e34c5acb1c8418c187a60611e]: Commencement: Art. 2 in force at 18.12.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/3305/article/1)
 
 [^f00004]: Footnote: S.I. [2006/1643 (W.158)](https://www.legislation.gov.uk/wsi/2006/1643), amended by S.I. [2007/2716 (W.229)](https://www.legislation.gov.uk/wsi/2007/2716)
 
-[^key-b7f9dfbe249bdc2ecfbfbb40348130b8]: Commencement: Art. 3 in force at 18.12.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/3305/article/1)
+[^c-b7f9dfbe249bdc2ecfbfbb40348130b8]: Commencement: Art. 3 in force at 18.12.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/3305/article/1)
 
 [^f00005]: Footnote: OJ No. L 139, 31.5.2007, p. 24.
 
-[^key-b23f319b7b3f2cc2389b9d95836b10a1]: Commencement: Art. 4 in force at 18.12.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/3305/article/1)
+[^c-b23f319b7b3f2cc2389b9d95836b10a1]: Commencement: Art. 4 in force at 18.12.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/3305/article/1)
 
 [^f00006]: Footnote: OJ No. L 161, 22.6.2007, p. 66.
 
-[^key-7ded6b707efc81b9c5b087d296ce4c20]: Commencement: Art. 5 in force at 18.12.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/3305/article/1)
+[^c-7ded6b707efc81b9c5b087d296ce4c20]: Commencement: Art. 5 in force at 18.12.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/3305/article/1)
 
 [^f00007]: Footnote: OJ No. L 155, 15.6.2007, p. 71.
 
-[^key-38c0e0494a771f16567e864565614def]: Commencement: Art. 6 in force at 18.12.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/3305/article/1)
+[^c-38c0e0494a771f16567e864565614def]: Commencement: Art. 6 in force at 18.12.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/3305/article/1)
 
 [^f00008]: Footnote: OJ No. L 151, 30.4.2004, p. 76, amended by Commission Decision [2007/347/EC](https://www.legislation.gov.uk/european/decision/2007/0347), OJ No. L 130, 22.5,.007, p. 46.
 
-[^key-58c4efe502392404aa80c3a094a35e5b]: Commencement: Art. 7 in force at 18.12.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/3305/article/1)
+[^c-58c4efe502392404aa80c3a094a35e5b]: Commencement: Art. 7 in force at 18.12.2007, see [art. 1](https://www.legislation.gov.uk/wsi/2007/3305/article/1)
 
 [^f00009]: Footnote: OJ No. L 169, 10.7.2000, p. 1, as last amended by Commission Directive [2007/41/EC](https://www.legislation.gov.uk/european/directive/2007/0041), OJ No. L 169, 29.6.2007, p. 51.

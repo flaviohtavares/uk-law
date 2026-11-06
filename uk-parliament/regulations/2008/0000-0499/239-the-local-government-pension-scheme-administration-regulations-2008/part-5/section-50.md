@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Commencement of pensions[^key-ced64501c6fa29a22ad751a30e742017]
+## 50. Commencement of pensions[^c-ced64501c6fa29a22ad751a30e742017]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ced64501c6fa29a22ad751a30e742017]: Commencement: Reg. 50 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-ced64501c6fa29a22ad751a30e742017]: Commencement: Reg. 50 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

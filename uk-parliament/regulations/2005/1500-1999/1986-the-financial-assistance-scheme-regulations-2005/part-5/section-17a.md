@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. Ill health payments[^key-9e895b403c3433a61b12d1e7b3bb080a]
+## 17A. Ill health payments[^c-9e895b403c3433a61b12d1e7b3bb080a]
 
 *Extent: E+W+S+N.I.*
 
-(1) Except where the qualifying member is entitled to an annual payment under regulation 17(2), (3) or (3C) or 17C[^key-08535502fe169ed6424a69d1d91e7a34], where the scheme manager is satisfied that a qualifying member is unable to work due to ill health and is likely to continue to be so unable to work until normal retirement age, that member shall be entitled to a payment (“an ill health payment”) [^key-4ee4711b57a5c27296730b64c3867ea0]... from—
+(1) Except where the qualifying member is entitled to an annual payment under regulation 17(2), (3) or (3C) or 17C[^c-08535502fe169ed6424a69d1d91e7a34], where the scheme manager is satisfied that a qualifying member is unable to work due to ill health and is likely to continue to be so unable to work until normal retirement age, that member shall be entitled to a payment (“an ill health payment”) [^c-4ee4711b57a5c27296730b64c3867ea0]... from—
 
 - (a) the day on which the Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2008 come into force;
 - (b) subject to paragraph (2), the day on which the scheme manager is first notified that that member is unable to work due to ill health and is likely to continue to be so unable to work until normal retirement age; or
@@ -38,23 +38,23 @@ the day which is the day for the purposes of paragraph (1)(b) is the day of the 
 
 (3) Where—
 
-- (a) a qualifying member of a qualifying pension scheme has died and leaves a survivor or a surviving dependant[^key-b584f1f646c2af54122eb3bd38569a1c]; and
+- (a) a qualifying member of a qualifying pension scheme has died and leaves a survivor or a surviving dependant[^c-b584f1f646c2af54122eb3bd38569a1c]; and
 - (b) that qualifying member was receiving an ill health payment or an interim ill health payment when he died,
 
-the survivor and any surviving dependants[^key-f19f369c1a895855b037b6f217b78bc3] of that qualifying member shall be entitled to an ill health payment from the day after the day on which that qualifying member died.
+the survivor and any surviving dependants[^c-f19f369c1a895855b037b6f217b78bc3] of that qualifying member shall be entitled to an ill health payment from the day after the day on which that qualifying member died.
 
-(4) An ill health payment shall be made in respect of a year starting on the day on which an instalment[^key-8fe7149f297fb9c4472ab159a0be4c1c] of the ill health payment or, as the case may be, an interim ill health payment, is first payable to a beneficiary by virtue of regulation 19 and in respect of subsequent years, on each anniversary of that day.
+(4) An ill health payment shall be made in respect of a year starting on the day on which an instalment[^c-8fe7149f297fb9c4472ab159a0be4c1c] of the ill health payment or, as the case may be, an interim ill health payment, is first payable to a beneficiary by virtue of regulation 19 and in respect of subsequent years, on each anniversary of that day.
 
-(5) In determining the amount of an ill health payment that is payable to, or in respect of, a beneficiary entitled to an ill health payment in accordance with Schedule 2A[^key-c9728dc64af7018b502cf64f9d07bdde] for any previous year or years (“arrears payable”)—
+(5) In determining the amount of an ill health payment that is payable to, or in respect of, a beneficiary entitled to an ill health payment in accordance with Schedule 2A[^c-c9728dc64af7018b502cf64f9d07bdde] for any previous year or years (“arrears payable”)—
 
-- (a) the total of all [^key-ac0cc572e7da3e89d565a225d37abee4]... instalments of an interim ill health payment that have been made to, or in respect of, the beneficiary for any previous year or years is to be deducted from the amount of arrears payable to that beneficiary; and
-- (b) if the total of all such [^key-ac0cc572e7da3e89d565a225d37abee4]... instalments is greater than that amount of arrears payable—
+- (a) the total of all [^c-ac0cc572e7da3e89d565a225d37abee4]... instalments of an interim ill health payment that have been made to, or in respect of, the beneficiary for any previous year or years is to be deducted from the amount of arrears payable to that beneficiary; and
+- (b) if the total of all such [^c-ac0cc572e7da3e89d565a225d37abee4]... instalments is greater than that amount of arrears payable—
   - (i) the amount to be paid in respect of arrears payable is nil, and
   - (ii) the difference between that total and the amount of arrears payable is recoverable from the member in accordance with regulation 7 of the FAS Information and Payments Regulations (recovery of overpayments).
 
-(6) Subject to paragraph (7), regulation 17C(7) and paragraph 10 of Schedule 2A[^key-1070d44f1b3d0010517d75e89ca4d14a], ill health payments which are payable to a qualifying member or survivor[^key-e161fb176e4ed0c431d6acacd77b6674] under this regulation shall continue for life.
+(6) Subject to paragraph (7), regulation 17C(7) and paragraph 10 of Schedule 2A[^c-1070d44f1b3d0010517d75e89ca4d14a], ill health payments which are payable to a qualifying member or survivor[^c-e161fb176e4ed0c431d6acacd77b6674] under this regulation shall continue for life.
 
-(6A)[^key-d873e0ca51060e3b1d4c10fc0d040485] Ill health payments which are payable to a surviving dependant under this regulation shall continue, subject to paragraph (7), until the surviving dependant—
+(6A)[^c-d873e0ca51060e3b1d4c10fc0d040485] Ill health payments which are payable to a surviving dependant under this regulation shall continue, subject to paragraph (7), until the surviving dependant—
 
 - (a) where neither sub-paragraph (b) nor (c) applies, attains the age of 18;
 - (b) where the surviving dependant is attending a qualifying course,—
@@ -69,14 +69,14 @@ the survivor and any surviving dependants[^key-f19f369c1a895855b037b6f217b78bc3]
 - (a) attends a qualifying course; or
 - (b) becomes incapable of engaging in full time paid employment due to having a disability within the meaning of the Disability Discrimination Act 1995,
 
-before attaining the age of 23, that surviving dependant shall be entitled to an ill health payment [^key-9454bc8a00b13be1e47eda22eb38ccad]... from the day on which the scheme manager is satisfied that the surviving dependant satisfies sub-paragraph (a) or (b) until a day determined in accordance with paragraph (6A).
+before attaining the age of 23, that surviving dependant shall be entitled to an ill health payment [^c-9454bc8a00b13be1e47eda22eb38ccad]... from the day on which the scheme manager is satisfied that the surviving dependant satisfies sub-paragraph (a) or (b) until a day determined in accordance with paragraph (6A).
 
-(7)[^key-5d7d7952dda8d2371710ca4b770f9134] Where a beneficiary dies or otherwise ceases to be entitled to an ill health payment—
+(7)[^c-5d7d7952dda8d2371710ca4b770f9134] Where a beneficiary dies or otherwise ceases to be entitled to an ill health payment—
 
 - (a) subject to sub-paragraph (b), any further instalments of an ill health payment that would have been payable to that beneficiary, in respect of that year, cease to be payable;
 - (b) any instalment of an ill health payment which is payable in respect of a period which includes the day on which the beneficiary has died or otherwise ceased to be entitled to an ill health payment shall be payable.
 
-(8)[^key-1e06c14782f4324f474eff4d0d6d2494] Subject to paragraph (16), and until such time, if any, as regulation 17F applies, where a beneficiary is entitled to an ill health payment in accordance with this regulation, that ill health payment shall be determined in accordance with—
+(8)[^c-1e06c14782f4324f474eff4d0d6d2494] Subject to paragraph (16), and until such time, if any, as regulation 17F applies, where a beneficiary is entitled to an ill health payment in accordance with this regulation, that ill health payment shall be determined in accordance with—
 
 - (a) Schedule 2A, where none of sub-paragraphs (b) to (i) nor paragraph (16) applies;
 - (b) Schedule 5, where—
@@ -180,7 +180,7 @@ before attaining the age of 23, that surviving dependant shall be entitled to an
     - (ii) ending on the earlier of—
       - (aa) the day on which the qualifying member became entitled to an ill health payment; and
       - (bb) the day on which the qualifying member began to receive a present payment from the scheme; and
-      - (cc) 30th March 2011, provided that the calculation date falls before 30th March 2011; and[^key-e4505f2be83a8d966613417a6d7add34]
+      - (cc) 30th March 2011, provided that the calculation date falls before 30th March 2011; and[^c-e4505f2be83a8d966613417a6d7add34]
   - (c) in any case where the calculation date falls on or before 30th March 2011 and the day on which the beneficiary became entitled to an ill health payment or began to receive a present payment from the scheme falls after 30th March 2011, the revaluation amount for the period beginning on 31st March 2011 and ending on the day on which the beneficiary became entitled to an ill health payment or began to receive a present payment from the scheme; and
 - “C” means—
   - (a) 1, where the qualifying member was—
@@ -188,10 +188,10 @@ before attaining the age of 23, that surviving dependant shall be entitled to an
     - (ii) receiving a present payment from the scheme on the calculation date; and
   - (b) the actuarial factor to be applied in respect of the beneficiary in accordance with Schedule 5, where the qualifying member was not receiving a present payment from the scheme on the calculation date and became entitled to an ill health payment after the calculation date.
 
-(11) The revaluation amount for the period, or, where paragraph (10)(c) applies, the periods,[^key-9afba07102b580f985de6bd7e1c0b609] referred to in the definition of “the revalued notional pension” in paragraph (10) is—
+(11) The revaluation amount for the period, or, where paragraph (10)(c) applies, the periods,[^c-9afba07102b580f985de6bd7e1c0b609] referred to in the definition of “the revalued notional pension” in paragraph (10) is—
 
 - (a) where—
-  - (i)[^key-2e1ea875baad6a27429b2c8877be7315] the period—
+  - (i)[^c-2e1ea875baad6a27429b2c8877be7315] the period—
     - (aa) referred to in paragraph (10)(b) where sub-paragraph (c) does not apply; or
     - (bb) covered by both periods referred to in paragraph (10)(b) and (c) where sub-paragraph (c) applies,
 
@@ -203,10 +203,10 @@ before attaining the age of 23, that surviving dependant shall be entitled to an
 
 (12) In paragraph (11), “the revaluation percentage” means the lesser of—
 
-- (a) the percentage increase in the general level of prices [^key-45c988c3cabe7e3aeee369c647634755]... during the revaluation period or periods[^key-317fd11711347af1069b165606bafc47] determined in accordance with paragraph (10); and
+- (a) the percentage increase in the general level of prices [^c-45c988c3cabe7e3aeee369c647634755]... during the revaluation period or periods[^c-317fd11711347af1069b165606bafc47] determined in accordance with paragraph (10); and
 - (b) the maximum revaluation rate.
 
-(13)[^key-438f52bd3fea09d1811f56a6276f35b3] Subject to paragraph (13A), the method for determining the percentage increase in the general level of prices during the revaluation periods determined in accordance with sub-paragraphs (b) and (c) of the definition of “the revalued notional pension” in paragraph (10) is—
+(13)[^c-438f52bd3fea09d1811f56a6276f35b3] Subject to paragraph (13A), the method for determining the percentage increase in the general level of prices during the revaluation periods determined in accordance with sub-paragraphs (b) and (c) of the definition of “the revalued notional pension” in paragraph (10) is—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2005/1986)
 
@@ -215,7 +215,7 @@ where—
 - (a) A is the general level of prices for the month which falls two months before the month in which the last day of the revaluation period falls; and
 - (b) B is the general level of prices for the month which falls two months before the month in which the first day of the revaluation period falls.
 
-(13A)[^key-2cd4c9280439779c821f55ca15c3865b] Where the entire period determined in accordance with sub-paragraph (b) of the definition of “the revalued notional pension” in paragraph (10) falls before 31st March 2011, the method for determining the percentage increase in the general level of prices during that period is—
+(13A)[^c-2cd4c9280439779c821f55ca15c3865b] Where the entire period determined in accordance with sub-paragraph (b) of the definition of “the revalued notional pension” in paragraph (10) falls before 31st March 2011, the method for determining the percentage increase in the general level of prices during that period is—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2005/1986)
 
@@ -226,8 +226,8 @@ where—
 
 (14) In paragraph (12)(b), “the maximum revaluation rate” is—
 
-- (a)[^key-987985b862976db6b6fec9444e3962a2] if the period covered by the period or periods mentioned in paragraph (12)(a) is a period of 12 months, 5%; or
-- (b) in any other case, the percentage that would be the percentage mentioned in paragraph (12)(a) had the general level of prices,whether determined in accordance with paragraph (13) or (13A),[^key-dd9bb690dc8184eb062d6a83ff7d41c1] increased at the rate of 5% compound per annum during that period.
+- (a)[^c-987985b862976db6b6fec9444e3962a2] if the period covered by the period or periods mentioned in paragraph (12)(a) is a period of 12 months, 5%; or
+- (b) in any other case, the percentage that would be the percentage mentioned in paragraph (12)(a) had the general level of prices,whether determined in accordance with paragraph (13) or (13A),[^c-dd9bb690dc8184eb062d6a83ff7d41c1] increased at the rate of 5% compound per annum during that period.
 
 (15) In paragraph (8), “relevant date” means—
 
@@ -246,48 +246,48 @@ where—
 
 ## Annotations
 
-[^key-9e895b403c3433a61b12d1e7b3bb080a]: Textual amendment: Reg. 17A - Reg. 17B inserted (17.7.2008) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/1903)](https://www.legislation.gov.uk/uksi/2008/1903), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1903/regulation/1), [10](https://www.legislation.gov.uk/uksi/2008/1903/regulation/10)
+[^c-9e895b403c3433a61b12d1e7b3bb080a]: Textual amendment: Reg. 17A - Reg. 17B inserted (17.7.2008) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/1903)](https://www.legislation.gov.uk/uksi/2008/1903), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1903/regulation/1), [10](https://www.legislation.gov.uk/uksi/2008/1903/regulation/10)
 
-[^key-08535502fe169ed6424a69d1d91e7a34]: Textual amendment: Words in reg. 17A(1) substituted (27.3.2009) by [The Financial Assistance Scheme and Incapacity Benefit (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/792)](https://www.legislation.gov.uk/uksi/2009/792), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/792/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2009/792/regulation/5/2)
+[^c-08535502fe169ed6424a69d1d91e7a34]: Textual amendment: Words in reg. 17A(1) substituted (27.3.2009) by [The Financial Assistance Scheme and Incapacity Benefit (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/792)](https://www.legislation.gov.uk/uksi/2009/792), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/792/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2009/792/regulation/5/2)
 
-[^key-4ee4711b57a5c27296730b64c3867ea0]: Textual amendment: Words in reg. 17A(1) omitted (2.4.2010) by virtue of [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/9/a)
+[^c-4ee4711b57a5c27296730b64c3867ea0]: Textual amendment: Words in reg. 17A(1) omitted (2.4.2010) by virtue of [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/9/a)
 
-[^key-b584f1f646c2af54122eb3bd38569a1c]: Textual amendment: Words in reg. 17A(3) inserted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [13(a)(i)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/13/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-b584f1f646c2af54122eb3bd38569a1c]: Textual amendment: Words in reg. 17A(3) inserted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [13(a)(i)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/13/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-f19f369c1a895855b037b6f217b78bc3]: Textual amendment: Words in reg. 17A(3) inserted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [13(a)(ii)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/13/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-f19f369c1a895855b037b6f217b78bc3]: Textual amendment: Words in reg. 17A(3) inserted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [13(a)(ii)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/13/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-8fe7149f297fb9c4472ab159a0be4c1c]: Textual amendment: Words in reg. 17A(4) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [17(3)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/17/3/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-8fe7149f297fb9c4472ab159a0be4c1c]: Textual amendment: Words in reg. 17A(4) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [17(3)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/17/3/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-c9728dc64af7018b502cf64f9d07bdde]: Textual amendment: Words in reg. 17A(5) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/9/b)
+[^c-c9728dc64af7018b502cf64f9d07bdde]: Textual amendment: Words in reg. 17A(5) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/9/b)
 
-[^key-ac0cc572e7da3e89d565a225d37abee4]: Textual amendment: Word in reg. 17A(5)(a)(b) omitted (10.7.2009) by virtue of [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [17(2)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/17/2/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-ac0cc572e7da3e89d565a225d37abee4]: Textual amendment: Word in reg. 17A(5)(a)(b) omitted (10.7.2009) by virtue of [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [17(2)(b)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/17/2/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-1070d44f1b3d0010517d75e89ca4d14a]: Textual amendment: Words in reg. 17A(6) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [13(b)(i)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/13/b/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-1070d44f1b3d0010517d75e89ca4d14a]: Textual amendment: Words in reg. 17A(6) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [13(b)(i)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/13/b/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-e161fb176e4ed0c431d6acacd77b6674]: Textual amendment: Words in reg. 17A(6) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [13(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/13/b/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-e161fb176e4ed0c431d6acacd77b6674]: Textual amendment: Words in reg. 17A(6) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [13(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/13/b/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-d873e0ca51060e3b1d4c10fc0d040485]: Textual amendment: Reg. 17A(6A)(6B) inserted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [13(c)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/13/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-d873e0ca51060e3b1d4c10fc0d040485]: Textual amendment: Reg. 17A(6A)(6B) inserted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [13(c)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/13/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-9454bc8a00b13be1e47eda22eb38ccad]: Textual amendment: Words in reg. 17A(6B) omitted (2.4.2010) by virtue of [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/9/c)
+[^c-9454bc8a00b13be1e47eda22eb38ccad]: Textual amendment: Words in reg. 17A(6B) omitted (2.4.2010) by virtue of [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/9/c)
 
-[^key-5d7d7952dda8d2371710ca4b770f9134]: Textual amendment: Reg. 17A(7) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [13(d)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/13/d) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
+[^c-5d7d7952dda8d2371710ca4b770f9134]: Textual amendment: Reg. 17A(7) substituted (10.7.2009) by [The Financial Assistance Scheme (Miscellaneous Provisions) Regulations 2009 (S.I. 2009/1851)](https://www.legislation.gov.uk/uksi/2009/1851), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1851/regulation/1), [13(d)](https://www.legislation.gov.uk/uksi/2009/1851/regulation/13/d) (with [reg. 37](https://www.legislation.gov.uk/uksi/2009/1851/regulation/37))
 
-[^key-1e06c14782f4324f474eff4d0d6d2494]: Textual amendment: Regs. 17A(8)-(16) substituted for reg. 17A(8) (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [9(d)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/9/d)
+[^c-1e06c14782f4324f474eff4d0d6d2494]: Textual amendment: Regs. 17A(8)-(16) substituted for reg. 17A(8) (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [9(d)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/9/d)
 
-[^key-e4505f2be83a8d966613417a6d7add34]: Textual amendment: Words in [reg. 17A(10)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/10) inserted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/a)
+[^c-e4505f2be83a8d966613417a6d7add34]: Textual amendment: Words in [reg. 17A(10)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/10) inserted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/a)
 
-[^key-9afba07102b580f985de6bd7e1c0b609]: Textual amendment: Words in [reg. 17A(11)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/11) inserted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/b/i)
+[^c-9afba07102b580f985de6bd7e1c0b609]: Textual amendment: Words in [reg. 17A(11)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/11) inserted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(b)(i)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/b/i)
 
-[^key-2e1ea875baad6a27429b2c8877be7315]: Textual amendment: Words in [reg. 17A(11)(a)(i)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/11/a/i) substituted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/b/ii)
+[^c-2e1ea875baad6a27429b2c8877be7315]: Textual amendment: Words in [reg. 17A(11)(a)(i)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/11/a/i) substituted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/b/ii)
 
-[^key-45c988c3cabe7e3aeee369c647634755]: Textual amendment: Words in [reg. 17A(12)(a)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/12/a) omitted (31.3.2011) by virtue of [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(c)(i)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/c/i)
+[^c-45c988c3cabe7e3aeee369c647634755]: Textual amendment: Words in [reg. 17A(12)(a)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/12/a) omitted (31.3.2011) by virtue of [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(c)(i)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/c/i)
 
-[^key-317fd11711347af1069b165606bafc47]: Textual amendment: Words in [reg. 17A(12)(a)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/12/a) inserted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(c)(ii)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/c/ii)
+[^c-317fd11711347af1069b165606bafc47]: Textual amendment: Words in [reg. 17A(12)(a)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/12/a) inserted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(c)(ii)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/c/ii)
 
-[^key-438f52bd3fea09d1811f56a6276f35b3]: Textual amendment: [Reg. 17A(13)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/13) substituted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(d)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/d)
+[^c-438f52bd3fea09d1811f56a6276f35b3]: Textual amendment: [Reg. 17A(13)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/13) substituted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(d)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/d)
 
-[^key-2cd4c9280439779c821f55ca15c3865b]: Textual amendment: [Reg. 17A(13A)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/13A) inserted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(e)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/e)
+[^c-2cd4c9280439779c821f55ca15c3865b]: Textual amendment: [Reg. 17A(13A)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/13A) inserted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(e)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/e)
 
-[^key-987985b862976db6b6fec9444e3962a2]: Textual amendment: [Reg. 17A(14)(a)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/14/a) substituted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(f)(i)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/f/i)
+[^c-987985b862976db6b6fec9444e3962a2]: Textual amendment: [Reg. 17A(14)(a)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/14/a) substituted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(f)(i)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/f/i)
 
-[^key-dd9bb690dc8184eb062d6a83ff7d41c1]: Textual amendment: Words in [reg. 17A(14)(b)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/14/b) substituted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(f)(ii)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/f/ii)
+[^c-dd9bb690dc8184eb062d6a83ff7d41c1]: Textual amendment: Words in [reg. 17A(14)(b)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/17A/14/b) substituted (31.3.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/1), [5(f)(ii)](https://www.legislation.gov.uk/uksi/2011/839/regulation/5/f/ii)

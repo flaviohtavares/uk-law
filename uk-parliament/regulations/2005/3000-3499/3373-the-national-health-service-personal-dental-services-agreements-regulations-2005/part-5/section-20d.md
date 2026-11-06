@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20D. Suspension of agreement terms or of enforcement of agreement terms while a disease is or in anticipation of a disease being imminently pandemic etc.[^key-be59b2bb613c446119ff50d3f4d0b504]
+## 20D. Suspension of agreement terms or of enforcement of agreement terms while a disease is or in anticipation of a disease being imminently pandemic etc.[^c-be59b2bb613c446119ff50d3f4d0b504]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
   - (i) pandemic, and
   - (ii) a serious risk or potentially a serious risk to human health,
 
-  NHS England[^key-d1caf22cc98adae401c0bdbf330d1379] with the agreement of the Secretary of State has made an announcement in respect of the prioritisation of services to be provided in, or in any part of, England as part of the health service;
+  NHS England[^c-d1caf22cc98adae401c0bdbf330d1379] with the agreement of the Secretary of State has made an announcement in respect of the prioritisation of services to be provided in, or in any part of, England as part of the health service;
 - (b) the prioritisation is in order to assist in the management of the serious risk or potentially serious risk to human health;
 - (c) as part of the announcement, NHS England with the agreement of the Secretary of State has issued advice to the effect that contractors are not to comply with a specified type of term of personal dental services agreements (including prototype agreements)—
   - (i) in the area to which the announcement relates,
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be59b2bb613c446119ff50d3f4d0b504]: Textual amendment: Reg. 20D inserted (27.3.2020) by [The National Health Service (Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/351)](https://www.legislation.gov.uk/uksi/2020/351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/351/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2020/351/regulation/3/3)
+[^c-be59b2bb613c446119ff50d3f4d0b504]: Textual amendment: Reg. 20D inserted (27.3.2020) by [The National Health Service (Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/351)](https://www.legislation.gov.uk/uksi/2020/351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/351/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2020/351/regulation/3/3)
 
-[^key-d1caf22cc98adae401c0bdbf330d1379]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d1caf22cc98adae401c0bdbf330d1379]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

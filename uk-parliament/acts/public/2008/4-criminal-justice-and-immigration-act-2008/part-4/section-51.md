@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Bail conditions: electronic monitoring[^key-f1cf684026a896277fd7cc15083c0b80]
+## 51. Bail conditions: electronic monitoring[^c-f1cf684026a896277fd7cc15083c0b80]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 11 makes provision in connection with the electronic monitoring of pers
 
 ## Annotations
 
-[^key-f1cf684026a896277fd7cc15083c0b80]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2008/4/section/51) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/7)
+[^c-f1cf684026a896277fd7cc15083c0b80]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2008/4/section/51) in force at 3.11.2008 by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/7)

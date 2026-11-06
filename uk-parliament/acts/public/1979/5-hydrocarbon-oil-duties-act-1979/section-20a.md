@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-ecd4bd2c89ca51cadbfaef0418960753] Subsections (2) and (3) apply if—
+(1)[^c-ecd4bd2c89ca51cadbfaef0418960753] Subsections (2) and (3) apply if—
 
 - (a) a relevant substance upon which duty under this Act has been charged is mixed in a pipe-line with another kind of relevant substance upon which such duty has been charged, and
 - (b) the mixing is approved mixing (see subsection (5)).
@@ -42,7 +42,7 @@ they may charge under this section a duty of excise on the mixture of an amount 
 
 (5) The Commissioners may make regulations—
 
-- (a) enabling them to grant to persons (whether individually or of a specified class) permission to mix relevant substances (or specified kinds of relevant substances) in a pipe-line[^key-42fe1d022c786a62554bf3e851af9ac0], and to withdraw permission for reasonable cause;
+- (a) enabling them to grant to persons (whether individually or of a specified class) permission to mix relevant substances (or specified kinds of relevant substances) in a pipe-line[^c-42fe1d022c786a62554bf3e851af9ac0], and to withdraw permission for reasonable cause;
 - (b) enabling permission to be granted subject to conditions and conditions to be varied for reasonable cause,
 
 and in this section “**approved mixing**” means mixing in accordance with permission under the regulations.
@@ -56,6 +56,6 @@ and in this section “**approved mixing**” means mixing in accordance with pe
 
 ## Annotations
 
-[^key-ecd4bd2c89ca51cadbfaef0418960753]: Textual amendment: Ss. 20A(1)-(4B) substituted for s. 20A(1)-(4) (retrospective to 1.4.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 15(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/15/2), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
+[^c-ecd4bd2c89ca51cadbfaef0418960753]: Textual amendment: Ss. 20A(1)-(4B) substituted for s. 20A(1)-(4) (retrospective to 1.4.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 15(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/15/2), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
 
-[^key-42fe1d022c786a62554bf3e851af9ac0]: Textual amendment: Words in s. 20A(5)(a) substituted (retrospective to 1.4.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 15(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/15/3), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
+[^c-42fe1d022c786a62554bf3e851af9ac0]: Textual amendment: Words in s. 20A(5)(a) substituted (retrospective to 1.4.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 15(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/15/3), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)

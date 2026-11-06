@@ -22,7 +22,7 @@ summary: ''
 
 (1) All such highways as immediately before the commencment of this Act were highways maintainable at the public expense for the purposes of the [^c13420231]Highways Act 1959 continue to be so maintainable (subject to this section and to any order of a magistrates’ court under section 47 below) for the purposes of this Act.
 
-(2)[^key-c32686424abf5c05d749d138e5a95e57] Without prejudice to any other enactment (whether contained in this Act or not) whereby a highway may become for the purposes of this Act a highway maintainable at the public expense, and subject to this section and section 232(7) below, and to any order of a magistrates’ court under section 47 below, the following highways (not falling within subsection (1) above) shall for the purposes of this Act be highways maintainable at the public expense—
+(2)[^c-c32686424abf5c05d749d138e5a95e57] Without prejudice to any other enactment (whether contained in this Act or not) whereby a highway may become for the purposes of this Act a highway maintainable at the public expense, and subject to this section and section 232(7) below, and to any order of a magistrates’ court under section 47 below, the following highways (not falling within subsection (1) above) shall for the purposes of this Act be highways maintainable at the public expense—
 
 - (a) a highway constructed by a highway authority, otherwise than on behalf of some other person who is not a highway authority;
 - (b) a highway constructed by a council within their own area under Part II of the Housing Act 1985[^c13420241], other than one in respect of which the local highway authority are satisfied that it has not been properly constructed, and a highway constructed by a council outside their own area under the said Part II, being, in the latter case, a highway the liability to maintain which is, by virtue of the said Part II, vested in the council who are the local highway authority for the area in which the highway is situated;
@@ -54,7 +54,7 @@ and a highway shall not by virtue of that subsection cease to be a highway maint
 
 [^c13420231]: Marginal citation: [1959 c. 25](https://www.legislation.gov.uk/ukpga/1959/25).
 
-[^key-c32686424abf5c05d749d138e5a95e57]: Modification: [S. 36(2)](https://www.legislation.gov.uk/ukpga/1980/66/section/36/2) modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2018/103/regulation/16)
+[^c-c32686424abf5c05d749d138e5a95e57]: Modification: [S. 36(2)](https://www.legislation.gov.uk/ukpga/1980/66/section/36/2) modified (1.4.2018) by [The Sub-national Transport Body (Transport for the North) Regulations 2018 (S.I. 2018/103)](https://www.legislation.gov.uk/uksi/2018/103), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/103/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2018/103/regulation/16)
 
 [^c13420241]: Textual amendment: Words substituted by [Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61)](https://www.legislation.gov.uk/ukpga/1985/71), [s. 4](https://www.legislation.gov.uk/ukpga/1985/71/section/4), [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2/paragraph/47)
 

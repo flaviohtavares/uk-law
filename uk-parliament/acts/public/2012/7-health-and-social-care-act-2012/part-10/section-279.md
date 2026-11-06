@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 279. The Appointments Commission[^key-feb7b913c1dc6644fa02bc19d46df00c]
+## 279. The Appointments Commission[^c-feb7b913c1dc6644fa02bc19d46df00c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-feb7b913c1dc6644fa02bc19d46df00c]: Commencement: [S. 279](https://www.legislation.gov.uk/ukpga/2012/7/section/279) in force at 31.10.2012 by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/3)
+[^c-feb7b913c1dc6644fa02bc19d46df00c]: Commencement: [S. 279](https://www.legislation.gov.uk/ukpga/2012/7/section/279) in force at 31.10.2012 by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Duty of returning officer to forward returns and declarations to the Electoral Commission[^key-4e9e88783616222006c5ed58750cfc07]
+## 62. Duty of returning officer to forward returns and declarations to the Electoral Commission[^c-4e9e88783616222006c5ed58750cfc07]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the returning officer receives any return or declaration under article 47,
 
 ## Annotations
 
-[^key-4e9e88783616222006c5ed58750cfc07]: Commencement: Art. 62 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4e9e88783616222006c5ed58750cfc07]: Commencement: Art. 62 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

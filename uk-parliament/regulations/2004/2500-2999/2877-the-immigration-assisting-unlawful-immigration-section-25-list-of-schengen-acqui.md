@@ -32,7 +32,7 @@ summary: ''
 
 IMMIGRATION
 
-The Immigration (Assisting Unlawful Immigration) (Section 25 List of Schengen Acquis States) Order 2004 (revoked)[^key-498abf379a203bc8f13a467c88669dcf]
+The Immigration (Assisting Unlawful Immigration) (Section 25 List of Schengen Acquis States) Order 2004 (revoked)[^c-498abf379a203bc8f13a467c88669dcf]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st December 2004
 
-[^key-498abf379a203bc8f13a467c88669dcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-498abf379a203bc8f13a467c88669dcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-498abf379a203bc8f13a467c88669dcf]
+## 1. Citation and commencement[^c-498abf379a203bc8f13a467c88669dcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Section 25 List of Schengen Acquis States[^key-498abf379a203bc8f13a467c88669dcf]
+## 2. Section 25 List of Schengen Acquis States[^c-498abf379a203bc8f13a467c88669dcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-498abf379a203bc8f13a467c88669dcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-498abf379a203bc8f13a467c88669dcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-498abf379a203bc8f13a467c88669dcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-498abf379a203bc8f13a467c88669dcf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-498abf379a203bc8f13a467c88669dcf]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2004/2877) revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2019/745/regulation/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-498abf379a203bc8f13a467c88669dcf]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2004/2877) revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [45](https://www.legislation.gov.uk/uksi/2019/745/regulation/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

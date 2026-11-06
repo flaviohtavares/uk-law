@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) If the chief constable of a police force which ceases to exist in consequence of an order under section 32 above or section 58 of the Local Government Act 1972[^key-7870d701313d9f4eb1256402188b2ec4] is not appointed chief constable or other member of the successor force as from the date of transfer, he shall on that date become a member of that force (or, if there is more than one successor force, of such of them as may be provided by or under the order) by virtue of this section.
+(1) If the chief constable of a police force which ceases to exist in consequence of an order under section 32 above or section 58 of the Local Government Act 1972[^c-7870d701313d9f4eb1256402188b2ec4] is not appointed chief constable or other member of the successor force as from the date of transfer, he shall on that date become a member of that force (or, if there is more than one successor force, of such of them as may be provided by or under the order) by virtue of this section.
 
 (2) While a person is a member of a police force by virtue only of this section he shall hold the rank of assistant chief constable but shall be treated for the purposes of his pay, pension and other conditions of service as if he had continued to be chief constable of the force which ceased to exist, subject however to section 10(1).
 
@@ -42,4 +42,4 @@ subsection (1) shall apply to the chief constable as if he were still the chief 
 
 ## Annotations
 
-[^key-7870d701313d9f4eb1256402188b2ec4]: Textual amendment: Words in s. 100(1) substituted (1.11.2007 for E.) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/1/paragraph/19/3); [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/b)
+[^c-7870d701313d9f4eb1256402188b2ec4]: Textual amendment: Words in s. 100(1) substituted (1.11.2007 for E.) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/1/paragraph/19/3); [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/b)

@@ -32,7 +32,7 @@ summary: ''
 
 Family Court, England And Wales
 
-The Family Court (Constitution of Committees: Family Panels) Rules 2014 (revoked)[^key-65c319f59cdff8e14bda70696ca01ef6]
+The Family Court (Constitution of Committees: Family Panels) Rules 2014 (revoked)[^c-65c319f59cdff8e14bda70696ca01ef6]
 
 Made
 
@@ -46,52 +46,52 @@ Coming into force
 
 22nd April 2014
 
-[^key-65c319f59cdff8e14bda70696ca01ef6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65c319f59cdff8e14bda70696ca01ef6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-65c319f59cdff8e14bda70696ca01ef6]
+## 1. Citation, commencement and interpretation[^c-65c319f59cdff8e14bda70696ca01ef6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Formation of family panels[^key-65c319f59cdff8e14bda70696ca01ef6]
+## 2. Formation of family panels[^c-65c319f59cdff8e14bda70696ca01ef6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Meetings of family panels[^key-65c319f59cdff8e14bda70696ca01ef6]
+## 3. Meetings of family panels[^c-65c319f59cdff8e14bda70696ca01ef6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Combined family panels[^key-65c319f59cdff8e14bda70696ca01ef6]
+## 4. Combined family panels[^c-65c319f59cdff8e14bda70696ca01ef6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Chairmen and deputy chairmen of family panels[^key-65c319f59cdff8e14bda70696ca01ef6]
+## 5. Chairmen and deputy chairmen of family panels[^c-65c319f59cdff8e14bda70696ca01ef6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Eligibility for re-election of chairman or deputy chairman[^key-65c319f59cdff8e14bda70696ca01ef6]
+## 6. Eligibility for re-election of chairman or deputy chairman[^c-65c319f59cdff8e14bda70696ca01ef6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Conduct of ballots[^key-65c319f59cdff8e14bda70696ca01ef6]
+## 7. Conduct of ballots[^c-65c319f59cdff8e14bda70696ca01ef6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Functions of family panels[^key-65c319f59cdff8e14bda70696ca01ef6]
+## 8. Functions of family panels[^c-65c319f59cdff8e14bda70696ca01ef6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Transitional provision[^key-65c319f59cdff8e14bda70696ca01ef6]
+## 9. Transitional provision[^c-65c319f59cdff8e14bda70696ca01ef6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-65c319f59cdff8e14bda70696ca01ef6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65c319f59cdff8e14bda70696ca01ef6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-65c319f59cdff8e14bda70696ca01ef6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65c319f59cdff8e14bda70696ca01ef6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-65c319f59cdff8e14bda70696ca01ef6]: Textual amendment: Rules revoked (31.7.2016) by [The Justices of the Peace Rules 2016 (S.I. 2016/709)](https://www.legislation.gov.uk/uksi/2016/709), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2016/709/rule/1/2/a), [2(1)(b)](https://www.legislation.gov.uk/uksi/2016/709/rule/2/1/b)
+[^c-65c319f59cdff8e14bda70696ca01ef6]: Textual amendment: Rules revoked (31.7.2016) by [The Justices of the Peace Rules 2016 (S.I. 2016/709)](https://www.legislation.gov.uk/uksi/2016/709), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2016/709/rule/1/2/a), [2(1)(b)](https://www.legislation.gov.uk/uksi/2016/709/rule/2/1/b)

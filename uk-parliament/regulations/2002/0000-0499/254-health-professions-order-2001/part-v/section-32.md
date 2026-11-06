@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Investigation of allegations: procedural rules[^key-4e7ebbd02a7ab951b0307a27002c47bc][^key-de15b5e48f7188eb9b485ec0326d7ccd][^key-7a736c80bf626bc3f5ae952945c0d30e][^key-6aa7cf1efa1e8447495630fca8d918f5]
+## 32. Investigation of allegations: procedural rules[^c-4e7ebbd02a7ab951b0307a27002c47bc][^c-de15b5e48f7188eb9b485ec0326d7ccd][^c-7a736c80bf626bc3f5ae952945c0d30e][^c-6aa7cf1efa1e8447495630fca8d918f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,18 +45,18 @@ summary: ''
 
 (3) Each stage in proceedings under Part V and article 37 shall be dealt with expeditiously and the Committee concerned may give directions as to the conduct of the case and for the consequences of failure to comply with such directions (which may include the making of an order or refusal of an application if the failure to comply was without reasonable excuse).
 
-(4) The Council may provide in the rules for the chair[^key-f9abeaa42a4262c397c0ec5d03155d0f] of the Committee to hold the meeting referred to in paragraph (2)(b) or to give the directions mentioned in paragraph (3) and, subject to the agreement of the parties to his acting on behalf of the Committee, to take such action as the Committee would be competent to take at such a meeting.
+(4) The Council may provide in the rules for the chair[^c-f9abeaa42a4262c397c0ec5d03155d0f] of the Committee to hold the meeting referred to in paragraph (2)(b) or to give the directions mentioned in paragraph (3) and, subject to the agreement of the parties to his acting on behalf of the Committee, to take such action as the Committee would be competent to take at such a meeting.
 
 (5) In this article “parties” means the Council and the person concerned.
 
 ## Annotations
 
-[^key-4e7ebbd02a7ab951b0307a27002c47bc]: Commencement: Art. 32 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-4e7ebbd02a7ab951b0307a27002c47bc]: Commencement: Art. 32 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-de15b5e48f7188eb9b485ec0326d7ccd]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2002/254/article/32) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
+[^c-de15b5e48f7188eb9b485ec0326d7ccd]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2002/254/article/32) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
 
-[^key-7a736c80bf626bc3f5ae952945c0d30e]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2002/254/article/32) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
+[^c-7a736c80bf626bc3f5ae952945c0d30e]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2002/254/article/32) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
 
-[^key-6aa7cf1efa1e8447495630fca8d918f5]: Modification: [Art. 32](https://www.legislation.gov.uk/uksi/2002/254/article/32) continued (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/23/2)[(3)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/23/3); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
+[^c-6aa7cf1efa1e8447495630fca8d918f5]: Modification: [Art. 32](https://www.legislation.gov.uk/uksi/2002/254/article/32) continued (2.12.2019) by [The Children and Social Work Act 2017 (Transitional and Savings Provisions) (Social Workers) Regulations 2019 (S.I. 2019/1140)](https://www.legislation.gov.uk/uksi/2019/1140), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1140/regulation/1), [23(2)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/23/2)[(3)](https://www.legislation.gov.uk/uksi/2019/1140/regulation/23/3); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/b)
 
-[^key-f9abeaa42a4262c397c0ec5d03155d0f]: Textual amendment: Word in [art. 32(4)](https://www.legislation.gov.uk/uksi/2002/254/article/32/4) substituted (13.5.2009 for specified purposes, 1.7.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/3)[(9)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/9), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2009/1182/schedule/2/paragraph/8); [S.I. 2009/1357](https://www.legislation.gov.uk/uksi/2009/1357), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2009/1357/article/2/1/a/i)
+[^c-f9abeaa42a4262c397c0ec5d03155d0f]: Textual amendment: Word in [art. 32(4)](https://www.legislation.gov.uk/uksi/2002/254/article/32/4) substituted (13.5.2009 for specified purposes, 1.7.2009 in so far as not already in force) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/3)[(9)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/9), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2009/1182/schedule/2/paragraph/8); [S.I. 2009/1357](https://www.legislation.gov.uk/uksi/2009/1357), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2009/1357/article/2/1/a/i)

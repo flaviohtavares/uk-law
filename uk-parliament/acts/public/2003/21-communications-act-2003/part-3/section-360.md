@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-25b41b6ee965f7c7f54e37d2a9aace2f] In section 201 of the 1990 Act (programme services), in subsection (1)—
+(1)[^c-25b41b6ee965f7c7f54e37d2a9aace2f] In section 201 of the 1990 Act (programme services), in subsection (1)—
 
 - (a) for paragraphs (a) to (bb) there shall be substituted—
 
   > - (aa) any service which is a programme service within the meaning of the Communications Act 2003;
 - (b) in paragraph (c), for “a telecommunication system” there shall be substituted “ an electronic communications network (within the meaning of the Communications Act 2003) ”.
 
-(2)[^key-25b41b6ee965f7c7f54e37d2a9aace2f] For subsection (2) of that section there shall be substituted—
+(2)[^c-25b41b6ee965f7c7f54e37d2a9aace2f] For subsection (2) of that section there shall be substituted—
 
 > (2A) Subsection (1)(c) does not apply to so much of a service consisting only of sound programmes as—
 >
@@ -41,14 +41,14 @@ summary: ''
 > - (b) satisfies the conditions in section 233(5) of that Act; or
 > - (c) is provided for the purpose only of being received by persons who have qualified as users of the service by reason of being persons who fall within paragraph (a) or (b) of section 233(7) of that Act.
 
-(3)[^key-e0c218362cc9a8c37cc0e8b8ed471e50][^key-94f58615560613d7b3dbadb1e68fbea3][^key-a2c03b0430d97a9430cc1284788048f0] Schedule 15 (which makes minor and consequential amendments of the 1990 Act and the 1996 Act for purposes connected with the other provisions of this Chapter) shall have effect.
+(3)[^c-e0c218362cc9a8c37cc0e8b8ed471e50][^c-94f58615560613d7b3dbadb1e68fbea3][^c-a2c03b0430d97a9430cc1284788048f0] Schedule 15 (which makes minor and consequential amendments of the 1990 Act and the 1996 Act for purposes connected with the other provisions of this Chapter) shall have effect.
 
 ## Annotations
 
-[^key-25b41b6ee965f7c7f54e37d2a9aace2f]: Commencement: S. 360(1)(2) in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-25b41b6ee965f7c7f54e37d2a9aace2f]: Commencement: S. 360(1)(2) in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e0c218362cc9a8c37cc0e8b8ed471e50]: Commencement: S. 360(3) in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1)
+[^c-e0c218362cc9a8c37cc0e8b8ed471e50]: Commencement: S. 360(3) in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1)
 
-[^key-94f58615560613d7b3dbadb1e68fbea3]: Commencement: S. 360(3) in force at 18.9.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
+[^c-94f58615560613d7b3dbadb1e68fbea3]: Commencement: S. 360(3) in force at 18.9.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
 
-[^key-a2c03b0430d97a9430cc1284788048f0]: Commencement: S. 360(3) in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a2c03b0430d97a9430cc1284788048f0]: Commencement: S. 360(3) in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

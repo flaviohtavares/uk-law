@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63AC. Interim duty: domestic and non-domestic supply[^key-dd423d2c304dfb35205f899cef684b17][^c19800321]
+## 63AC. Interim duty: domestic and non-domestic supply[^c-dd423d2c304dfb35205f899cef684b17][^c19800321]
 
 *Extent: E+W*
 
@@ -77,6 +77,6 @@ that instead another water supply licensee (“the new licensee”) is to contin
 
 ## Annotations
 
-[^key-dd423d2c304dfb35205f899cef684b17]: Textual amendment: Ss. 63AC-63AF substituted for s. 63AC (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 31](https://www.legislation.gov.uk/ukpga/2014/21/section/31), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(f)](https://www.legislation.gov.uk/uksi/2017/462/article/3/f)
+[^c-dd423d2c304dfb35205f899cef684b17]: Textual amendment: Ss. 63AC-63AF substituted for s. 63AC (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 31](https://www.legislation.gov.uk/ukpga/2014/21/section/31), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(f)](https://www.legislation.gov.uk/uksi/2017/462/article/3/f)
 
 [^c19800321]: Textual amendment: Ss. 63AA-63AC and preceding cross-heading inserted (1.12.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/17); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))

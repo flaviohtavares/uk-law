@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270. Offences by officers of a body corporate etc[^key-78675b795a982976694d0b951fddba9b]
+## 270. Offences by officers of a body corporate etc[^c-78675b795a982976694d0b951fddba9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 ## Annotations
 
-[^key-78675b795a982976694d0b951fddba9b]: Commencement: S. 270 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-78675b795a982976694d0b951fddba9b]: Commencement: S. 270 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

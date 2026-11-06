@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Scheme employment[^key-43eb70183aaffe8437e26d13a26d7505]
+## 15. Scheme employment[^c-43eb70183aaffe8437e26d13a26d7505]
 
 *Extent: E+W*
 
@@ -27,12 +27,12 @@ summary: ''
 - (a) resolving operational incidents; or
 - (b) leading and supporting others in the resolution of operational incidents.
 
-(3)[^key-2f69d5902a5c2021282174273bb08846] A person who is a member of the 1992 Scheme or the NFPS satisfies the requirement in this paragraph.
+(3)[^c-2f69d5902a5c2021282174273bb08846] A person who is a member of the 1992 Scheme or the NFPS satisfies the requirement in this paragraph.
 
 (4) The employer of a person in scheme employment is referred to in these Regulations as the “scheme employer”.
 
 ## Annotations
 
-[^key-43eb70183aaffe8437e26d13a26d7505]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-43eb70183aaffe8437e26d13a26d7505]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-2f69d5902a5c2021282174273bb08846]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/wsi/2015/622/regulation/15/3) substituted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/3)
+[^c-2f69d5902a5c2021282174273bb08846]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/wsi/2015/622/regulation/15/3) substituted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/3)

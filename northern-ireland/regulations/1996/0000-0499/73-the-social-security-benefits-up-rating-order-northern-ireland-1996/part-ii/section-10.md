@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Statutory maternity pay[^key-3a3d06a6e4f2aff1dcbb5d077c193031]
+## 10. Statutory maternity pay[^c-3a3d06a6e4f2aff1dcbb5d077c193031]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ In regulation 6 of the Statutory Maternity Pay (General) Regulations (Northern I
 
 ## Annotations
 
-[^key-3a3d06a6e4f2aff1dcbb5d077c193031]: Commencement: Art. 10 in operation at 7.4.1996, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/c)
+[^c-3a3d06a6e4f2aff1dcbb5d077c193031]: Commencement: Art. 10 in operation at 7.4.1996, see [art. 1(1)(c)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/c)
 
 [^f00018]: Footnote: [S.R. 1987 No. 30](https://www.legislation.gov.uk/nisr/1987/30); relevant amending regulations are [S.R. 1994 No. 191](https://www.legislation.gov.uk/nisr/1994/191)

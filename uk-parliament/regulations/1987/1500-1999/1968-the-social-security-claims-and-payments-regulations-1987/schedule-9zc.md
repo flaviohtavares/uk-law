@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9ZC — ELECTRONIC COMMUNICATION[^key-235d602b156aaed250b4de743051a564][^key-dd1da996e22d8d4db15a526fe4392480][^key-491f41895deb7f1c9803f653d9cb3fe1][^key-14cc5c6f7ca9489e254764396607e24e][^key-5be1ae29614beaee5eea7e3a0878a51a]
+## SCHEDULE 9ZC — ELECTRONIC COMMUNICATION[^c-235d602b156aaed250b4de743051a564][^c-dd1da996e22d8d4db15a526fe4392480][^c-491f41895deb7f1c9803f653d9cb3fe1][^c-14cc5c6f7ca9489e254764396607e24e][^c-5be1ae29614beaee5eea7e3a0878a51a]
 
 *Extent: E+W+S*
 
@@ -32,11 +32,11 @@ In this Schedule “official computer system” means a computer system maintain
 
 #### 2. Conditions for the use of electronic communication
 
-(1)[^key-561e9cbdf2a6e1a91a8af4c5e7aba35c] The Secretary of State may use an electronic communication in connection with claims for, and awards of—
+(1)[^c-561e9cbdf2a6e1a91a8af4c5e7aba35c] The Secretary of State may use an electronic communication in connection with claims for, and awards of—
 
 - (a) carer’s allowance;
 - (b) attendance allowance;
-- (ba)[^key-442315410399cef91a5ce9439357a197] bereavement support payment;
+- (ba)[^c-442315410399cef91a5ce9439357a197] bereavement support payment;
 - (c) disability living allowance;
 - (d) graduated retirement benefit;
 - (e) a jobseeker’s allowance;
@@ -45,18 +45,18 @@ In this Schedule “official computer system” means a computer system maintain
 - (h) shared additional pension;
 - (i) industrial injuries benefit;
 - (j) an employment and support allowance;
-- (k) a social fund funeral payment[^key-4f249004162ff7b9e10b068a9dca8246]
-- (l)[^key-48632a37b8b7babe9e3286baaffca725] state pension credit.
-- (m)[^key-ad3a99b27598649628fd41e03ea725e0] a social fund payment in respect of maternity expenses;
+- (k) a social fund funeral payment[^c-4f249004162ff7b9e10b068a9dca8246]
+- (l)[^c-48632a37b8b7babe9e3286baaffca725] state pension credit.
+- (m)[^c-ad3a99b27598649628fd41e03ea725e0] a social fund payment in respect of maternity expenses;
 - (n) maternity allowance.
 
 (1A) The Secretary of State may use an electronic communication in connection with awards of—
 
 - (a) incapacity benefit;
 - (b) income support;
-- (c)[^key-68a934ec516334db3f00a4d203c7cb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-68a934ec516334db3f00a4d203c7cb5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) A person other than the Secretary of State may use an electronic communication in connection with the matters referred to in sub-paragraphs (1) and (1A)[^key-e4c3845a4fa0a2a141d5c56ca8566181] if the conditions specified in sub-paragraphs (3) to (6) are satisfied.
+(2) A person other than the Secretary of State may use an electronic communication in connection with the matters referred to in sub-paragraphs (1) and (1A)[^c-e4c3845a4fa0a2a141d5c56ca8566181] if the conditions specified in sub-paragraphs (3) to (6) are satisfied.
 
 (3) The first condition is that the person is for the time being permitted to use an electronic communication by an authorisation given by means of a direction of the Secretary of State.
 
@@ -125,26 +125,26 @@ If it is necessary to prove, for the purpose of any legal proceedings, the conte
 
 ## Annotations
 
-[^key-235d602b156aaed250b4de743051a564]: Modification: [Sch. 9ZC](https://www.legislation.gov.uk/uksi/1987/1968/schedule/9ZC) applied by SI 2006/215 reg 74A(3) (as inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2011/2943/article/4/3))
+[^c-235d602b156aaed250b4de743051a564]: Modification: [Sch. 9ZC](https://www.legislation.gov.uk/uksi/1987/1968/schedule/9ZC) applied by SI 2006/215 reg 74A(3) (as inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2011/2943/article/4/3))
 
-[^key-dd1da996e22d8d4db15a526fe4392480]: Modification: [Sch. 9ZC](https://www.legislation.gov.uk/uksi/1987/1968/schedule/9ZC) applied by SI 2006/216 reg 59A(3) (as inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2011/2943/article/5/3))
+[^c-dd1da996e22d8d4db15a526fe4392480]: Modification: [Sch. 9ZC](https://www.legislation.gov.uk/uksi/1987/1968/schedule/9ZC) applied by SI 2006/216 reg 59A(3) (as inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2011/2943/article/5/3))
 
-[^key-491f41895deb7f1c9803f653d9cb3fe1]: Modification: [Sch. 9ZC](https://www.legislation.gov.uk/uksi/1987/1968/schedule/9ZC) applied by SI 2001/3252, reg. 4(1E) (as inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2943/article/3/2/b))
+[^c-491f41895deb7f1c9803f653d9cb3fe1]: Modification: [Sch. 9ZC](https://www.legislation.gov.uk/uksi/1987/1968/schedule/9ZC) applied by SI 2001/3252, reg. 4(1E) (as inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2011/2943/article/3/2/b))
 
-[^key-14cc5c6f7ca9489e254764396607e24e]: Modification: [Sch. 9ZC](https://www.legislation.gov.uk/uksi/1987/1968/schedule/9ZC) applied by SI 2006/213, reg. 88A(3) (as inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2011/2943/article/6/3))
+[^c-14cc5c6f7ca9489e254764396607e24e]: Modification: [Sch. 9ZC](https://www.legislation.gov.uk/uksi/1987/1968/schedule/9ZC) applied by SI 2006/213, reg. 88A(3) (as inserted (23.1.2012) by [The Social Security (Electronic Communications) (No. 2) Order 2011 (S.I. 2011/2943)](https://www.legislation.gov.uk/uksi/2011/2943), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2943/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2011/2943/article/6/3))
 
-[^key-5be1ae29614beaee5eea7e3a0878a51a]: Textual amendment: Sch. 9ZC inserted (1.12.2003) by [The Social Security (Electronic Communications) (Carers Allowance) Order 2003 (S.I. 2003/2800)](https://www.legislation.gov.uk/uksi/2003/2800), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/2800/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2003/2800/article/2/4), [Sch.](https://www.legislation.gov.uk/uksi/2003/2800/schedule)
+[^c-5be1ae29614beaee5eea7e3a0878a51a]: Textual amendment: Sch. 9ZC inserted (1.12.2003) by [The Social Security (Electronic Communications) (Carers Allowance) Order 2003 (S.I. 2003/2800)](https://www.legislation.gov.uk/uksi/2003/2800), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/2800/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2003/2800/article/2/4), [Sch.](https://www.legislation.gov.uk/uksi/2003/2800/schedule)
 
-[^key-561e9cbdf2a6e1a91a8af4c5e7aba35c]: Textual amendment: Sch. 9ZC para. 2(1)(1A) substituted for Sch. 9ZC para. 2(1) (15.6.2016) by [The Social Security (Claims and Payments) Amendment Regulations 2016 (S.I. 2016/544)](https://www.legislation.gov.uk/uksi/2016/544), [reg. 2(5)(a)](https://www.legislation.gov.uk/uksi/2016/544/regulation/2/5/a)
+[^c-561e9cbdf2a6e1a91a8af4c5e7aba35c]: Textual amendment: Sch. 9ZC para. 2(1)(1A) substituted for Sch. 9ZC para. 2(1) (15.6.2016) by [The Social Security (Claims and Payments) Amendment Regulations 2016 (S.I. 2016/544)](https://www.legislation.gov.uk/uksi/2016/544), [reg. 2(5)(a)](https://www.legislation.gov.uk/uksi/2016/544/regulation/2/5/a)
 
-[^key-442315410399cef91a5ce9439357a197]: Textual amendment: Sch. 9ZC para. 2(1)(ba) inserted (coming into force in accordance with art. 1-3 of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [10(14)](https://www.legislation.gov.uk/uksi/2017/422/article/10/14)
+[^c-442315410399cef91a5ce9439357a197]: Textual amendment: Sch. 9ZC para. 2(1)(ba) inserted (coming into force in accordance with art. 1-3 of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [10(14)](https://www.legislation.gov.uk/uksi/2017/422/article/10/14)
 
-[^key-4f249004162ff7b9e10b068a9dca8246]: Textual amendment: Sch. 9ZC para. 2(1)(k) inserted (2.4.2018) by [The Social Fund Funeral Expenses Amendment Regulations 2018 (S.I. 2018/61)](https://www.legislation.gov.uk/uksi/2018/61), [regs. 1](https://www.legislation.gov.uk/uksi/2018/61/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/61/regulation/2/5)
+[^c-4f249004162ff7b9e10b068a9dca8246]: Textual amendment: Sch. 9ZC para. 2(1)(k) inserted (2.4.2018) by [The Social Fund Funeral Expenses Amendment Regulations 2018 (S.I. 2018/61)](https://www.legislation.gov.uk/uksi/2018/61), [regs. 1](https://www.legislation.gov.uk/uksi/2018/61/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2018/61/regulation/2/5)
 
-[^key-48632a37b8b7babe9e3286baaffca725]: Textual amendment: Sch. 9ZC para. 2(1)(l) inserted (4.5.2020) by [The State Pension Credit (Coronavirus) (Electronic Claims) (Amendment) Regulations 2020 (S.I. 2020/456)](https://www.legislation.gov.uk/uksi/2020/456), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/456/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/456/regulation/2/3/a)
+[^c-48632a37b8b7babe9e3286baaffca725]: Textual amendment: Sch. 9ZC para. 2(1)(l) inserted (4.5.2020) by [The State Pension Credit (Coronavirus) (Electronic Claims) (Amendment) Regulations 2020 (S.I. 2020/456)](https://www.legislation.gov.uk/uksi/2020/456), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/456/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/456/regulation/2/3/a)
 
-[^key-ad3a99b27598649628fd41e03ea725e0]: Textual amendment: [Sch. 9ZC para. 2(1)(m)](https://www.legislation.gov.uk/uksi/1987/1968/schedule/9ZC/paragraph/2/1/m)[(n)](https://www.legislation.gov.uk/uksi/1987/1968/schedule/9ZC/paragraph/2/1/n) inserted (9.7.2020) by [The Social Fund and Social Security (Claims and Payments) (Amendment) Regulations 2020 (S.I. 2020/600)](https://www.legislation.gov.uk/uksi/2020/600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/600/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2020/600/regulation/4/5)
+[^c-ad3a99b27598649628fd41e03ea725e0]: Textual amendment: [Sch. 9ZC para. 2(1)(m)](https://www.legislation.gov.uk/uksi/1987/1968/schedule/9ZC/paragraph/2/1/m)[(n)](https://www.legislation.gov.uk/uksi/1987/1968/schedule/9ZC/paragraph/2/1/n) inserted (9.7.2020) by [The Social Fund and Social Security (Claims and Payments) (Amendment) Regulations 2020 (S.I. 2020/600)](https://www.legislation.gov.uk/uksi/2020/600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/600/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2020/600/regulation/4/5)
 
-[^key-68a934ec516334db3f00a4d203c7cb5a]: Textual amendment: Sch. 9ZC para. 2(1A)(c) omitted (4.5.2020) by virtue of [The State Pension Credit (Coronavirus) (Electronic Claims) (Amendment) Regulations 2020 (S.I. 2020/456)](https://www.legislation.gov.uk/uksi/2020/456), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/456/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/456/regulation/2/3/b)
+[^c-68a934ec516334db3f00a4d203c7cb5a]: Textual amendment: Sch. 9ZC para. 2(1A)(c) omitted (4.5.2020) by virtue of [The State Pension Credit (Coronavirus) (Electronic Claims) (Amendment) Regulations 2020 (S.I. 2020/456)](https://www.legislation.gov.uk/uksi/2020/456), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/456/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/456/regulation/2/3/b)
 
-[^key-e4c3845a4fa0a2a141d5c56ca8566181]: Textual amendment: Words in Sch. 9ZC para. 2(2) substituted (15.6.2016) by [The Social Security (Claims and Payments) Amendment Regulations 2016 (S.I. 2016/544)](https://www.legislation.gov.uk/uksi/2016/544), [reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/2016/544/regulation/2/5/b)
+[^c-e4c3845a4fa0a2a141d5c56ca8566181]: Textual amendment: Words in Sch. 9ZC para. 2(2) substituted (15.6.2016) by [The Social Security (Claims and Payments) Amendment Regulations 2016 (S.I. 2016/544)](https://www.legislation.gov.uk/uksi/2016/544), [reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/2016/544/regulation/2/5/b)

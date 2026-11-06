@@ -52,13 +52,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-b82edc7c7c0aded1b954a2e8902c8963]
+### 1. Citation and commencement[^c-b82edc7c7c0aded1b954a2e8902c8963]
 
 (1) These Regulations may be cited as the Bankruptcy (Applications and Decisions) (Scotland) Regulations 2016.
 
 (2) They come into force on 30th November 2016.
 
-### 2. Interpretation[^key-d9cc17062ed1a86fe624d35a32bc0c19]
+### 2. Interpretation[^c-d9cc17062ed1a86fe624d35a32bc0c19]
 
 (1) In these Regulations—
 
@@ -71,13 +71,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - (a) to a form is to be construed as a reference to the form so numbered in the schedule;
 - (b) to a time when an application is made is to be construed as a reference to the time when the application is received by AiB.
 
-### 3. Dispensing power[^key-afad0a5aa2ce76463db817f1d17c9be4]
+### 3. Dispensing power[^c-afad0a5aa2ce76463db817f1d17c9be4]
 
 AiB may relieve any person from the consequences of any failure to comply with a provision of these Regulations that is shown to be due to mistake, oversight or other reasonable cause.
 
 ## PART 2 — Applications: general
 
-### 4. Applications[^key-0cdd7facf8ec0a8b76cba9afa80fafc8]
+### 4. Applications[^c-0cdd7facf8ec0a8b76cba9afa80fafc8]
 
 (1) Any application to AiB for which a form is prescribed by these Regulations (including a review application) may be made—
 
@@ -90,7 +90,7 @@ AiB may relieve any person from the consequences of any failure to comply with a
 
 (2) Such an application must specify the name and address of the applicant, and (where relevant) the details of the applicant’s representative.
 
-### 5. Application form: first instance applications to the Accountant in Bankruptcy[^key-1e96747f4a568d075e984b9c3cc8e8e5]
+### 5. Application form: first instance applications to the Accountant in Bankruptcy[^c-1e96747f4a568d075e984b9c3cc8e8e5]
 
 (1) An application to AiB under the following provisions of the Act must be made in writing in Form 1 (application to the Accountant in Bankruptcy: general)—
 
@@ -109,7 +109,7 @@ AiB may relieve any person from the consequences of any failure to comply with a
 - (a) representations under section 66(10) of the Act (trustee replacement in more than one sequestration); and
 - (b) representations under section 212(5) of the Act (curing defect in procedure).
 
-### 6. Application procedure: first instance applications to the Accountant in Bankruptcy[^key-04cf4fc67d79cdbec1db857229ff1189]
+### 6. Application procedure: first instance applications to the Accountant in Bankruptcy[^c-04cf4fc67d79cdbec1db857229ff1189]
 
 (1) This regulation applies to any application under the Act for which a form is prescribed by these Regulations (except a review application).
 
@@ -148,7 +148,7 @@ AiB may relieve any person from the consequences of any failure to comply with a
 - (b) in the case of a partnership, the address of any place of business of the partnership where it appears to the applicant service will be effective;
 - (c) in any other case, the last known address of the person.
 
-### 7. Inquiries[^key-0f83adf43b4965b916f37a2258cf1287]
+### 7. Inquiries[^c-0f83adf43b4965b916f37a2258cf1287]
 
 (1) This regulation applies where in relation to any application required to be on a form under these Regulations (including a review application) or any representation under the Act AiB considers that—
 
@@ -173,7 +173,7 @@ within 21 days from the date of sending that notice or such shorter period as ma
 
 (5) Where AiB has set any time limit for the giving of written evidence under these Regulations, AiB must not consider any written evidence which is not given in accordance with those time limits unless satisfied that there is good reason to do so.
 
-### 8. Further evidence[^key-6cbfcae727a7e3987eedbc777dcc727d]
+### 8. Further evidence[^c-6cbfcae727a7e3987eedbc777dcc727d]
 
 (1) In respect of an application for which a form is required under these Regulations (other than a review application) AiB may require in writing any person making an application or representations—
 
@@ -195,7 +195,7 @@ within 21 days from the date of sending that notice or such shorter period as ma
 
 ## PART 3 — Specific applications
 
-### 9. Recall of sequestration by Accountant in Bankruptcy[^key-daa236e728a352c4b30827ab5936964b]
+### 9. Recall of sequestration by Accountant in Bankruptcy[^c-daa236e728a352c4b30827ab5936964b]
 
 (1) Where the statement of the debtor’s affairs is not submitted in accordance with section 32(3)(a) of the Act (recall where the only ground is that the debtor has paid or is able to pay debts in full), the application is not to be considered by AiB until it is submitted.
 
@@ -203,15 +203,15 @@ within 21 days from the date of sending that notice or such shorter period as ma
 
 (3) AiB must send to the persons listed in section 31(2) of the Act a copy of AiB’s decision under section 34(1) or 35(6) of the Act.
 
-(4)[^key-20825137cd76b0524856e1af9428edf5] AiB must send a statement of the debtor’s affairs with any notification under section 35(2)(b) of the Act (recall where the only ground is that the debtor has paid or is able to pay the debtor’s debts in full: AiB acting as trustee).
+(4)[^c-20825137cd76b0524856e1af9428edf5] AiB must send a statement of the debtor’s affairs with any notification under section 35(2)(b) of the Act (recall where the only ground is that the debtor has paid or is able to pay the debtor’s debts in full: AiB acting as trustee).
 
-(5)[^key-0f57b643f0b8b7dc4e67b868365cad3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0f57b643f0b8b7dc4e67b868365cad3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Where recall is under consideration (including on a review application), and sequestration is recalled by AiB, AiB must at that time consider whether to revoke under section 161(4) of the Act any bankruptcy restrictions order (or interim order) in effect in relation to the debtor.
 
 (7) Where an original recall decision is amended or revoked on review, AiB must send a certified copy of the revised decision to the Keeper of the Register of Inhibitions for recording in that register.
 
-### 10. Application for direction by trustee[^key-9b017cc1a4c07b51d50998939203e0ff]
+### 10. Application for direction by trustee[^c-9b017cc1a4c07b51d50998939203e0ff]
 
 (1) An application to AiB under section 52(2) of the Act (application for direction) must be made in writing in Form 2.
 
@@ -220,7 +220,7 @@ within 21 days from the date of sending that notice or such shorter period as ma
 - (a) give a direction; or
 - (b) refer the matter to the sheriff under section 52(3) of the Act.
 
-### 11. Appointment of replacement trustee[^key-2880ff51bddbc818c0c5f4fe5b64dd7b]
+### 11. Appointment of replacement trustee[^c-2880ff51bddbc818c0c5f4fe5b64dd7b]
 
 (1) A report to AiB under section 60(2)(a) of the Act of a statutory meeting appointing a replacement trustee must be made in writing in Form 4.
 
@@ -233,11 +233,11 @@ within 21 days from the date of sending that notice or such shorter period as ma
 
 (4) AiB must notify the original and replacement trustees, the objector and any other interested person of any declaration or order under section 61(3) of the Act (and in the case of such an order must do so without delay).
 
-### 12. Replacement trustee acting in more than one sequestration[^key-a6dcc13808c4e38e8e3233250bb2e825]
+### 12. Replacement trustee acting in more than one sequestration[^c-a6dcc13808c4e38e8e3233250bb2e825]
 
 A determination or appointment under section 66 of the Act (replacement of trustee acting in more than one sequestration) must be made by AiB within 14 days following the expiry of the period mentioned in section 66(10) of the Act.
 
-### 13. Removal of trustee and trustee not acting[^key-8642aaafbdce5750c3a9c9db55d02d88]
+### 13. Removal of trustee and trustee not acting[^c-8642aaafbdce5750c3a9c9db55d02d88]
 
 (1) An order under section 70(1)(b) of the Act (removal of trustee from office by AiB) must be made in writing in Form 5.
 
@@ -268,7 +268,7 @@ A determination or appointment under section 66 of the Act (replacement of trust
 
 (9) Where a review decision is made under sections 71 or 73 of the Act, AiB must notify any commissioners required to call a meeting under sections 71(6) or 73(1) of the Act.
 
-### 14. Contractual powers of trustee[^key-fa4134f7f395b4891fb3700708d2f6bf]
+### 14. Contractual powers of trustee[^c-fa4134f7f395b4891fb3700708d2f6bf]
 
 (1) Where an application is made under section 110(4)(b) of the Act (to extend the 28 days for a trustee to adopt or refuse to adopt a contract), AiB must within 14 days beginning with the day on which the application is made—
 
@@ -282,7 +282,7 @@ A determination or appointment under section 66 of the Act (replacement of trust
 
 (3) For the avoidance of doubt, the time limit in paragraph (1) does not apply to any review application.
 
-### 15. Bankruptcy restrictions orders: proposal to make an order[^key-4214c767895f4eabfcdd60385e87a014]
+### 15. Bankruptcy restrictions orders: proposal to make an order[^c-4214c767895f4eabfcdd60385e87a014]
 
 (1) AiB must allow 14 days beginning with the day on which notice is given under section 155(2) of the Act (proposal to make bankruptcy restrictions order) for representations by the debtor.
 
@@ -298,7 +298,7 @@ A determination or appointment under section 66 of the Act (replacement of trust
 
 (4) AiB must make or decide not to make the bankruptcy restrictions order within 21 days beginning with the date on which the notice was given.
 
-### 16. Bankruptcy restrictions orders: revocation or variation[^key-b9ef3799b6a52634eb2efa620d4a2ac5]
+### 16. Bankruptcy restrictions orders: revocation or variation[^c-b9ef3799b6a52634eb2efa620d4a2ac5]
 
 (1) Where an application is made to AiB under section 159(3) of the Act (to revoke or vary a bankruptcy restrictions order), AiB must notify all interested persons that those persons have the right to make representations to AiB in relation to the application within 21 days beginning with the day on which the application is made.
 
@@ -306,21 +306,21 @@ A determination or appointment under section 66 of the Act (replacement of trust
 
 (3) Where following recall of sequestration AiB refuses under section 161(4) of the Act to revoke a bankruptcy restrictions order, AiB must inform the debtor that the debtor has the right to apply to AiB for review of that decision within 14 days beginning with the day on which the award of sequestration was recalled.
 
-### 17. Conversion of protected trust deed into bankruptcy[^key-df62910ae7cb07429d64acd2af641321]
+### 17. Conversion of protected trust deed into bankruptcy[^c-df62910ae7cb07429d64acd2af641321]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Power to cure defects[^key-3d31afcd79c9577dc6cfd6845ff25982]
+### 18. Power to cure defects[^c-3d31afcd79c9577dc6cfd6845ff25982]
 
 Where AiB makes, or refuses to make, under section 212 of the Act (curing defects in procedure) a corrective order or to waive a time limit, AiB must notify all interested persons.
 
-### 19. Debts depending on contingency[^key-b11c5d9d5f788123f7ce6f324308a235]
+### 19. Debts depending on contingency[^c-b11c5d9d5f788123f7ce6f324308a235]
 
 Where AiB puts a value on a debt under paragraph 3(3) of schedule 2 of the Act (debts depending on a contingency), AiB must notify the creditor and all other interested persons.
 
 ## PART 4 — Reference to court and review by Accountant in Bankruptcy
 
-### 20. Reference to court: time limits[^key-26376f5de7ebc244715598a2b47bcb72]
+### 20. Reference to court: time limits[^c-26376f5de7ebc244715598a2b47bcb72]
 
 Where AiB has applied to refer or remit a matter to the court under the Act—
 
@@ -329,7 +329,7 @@ Where AiB has applied to refer or remit a matter to the court under the Act—
   - (ii) 7 days;
 - (b) if the court’s disposal has no such requirement, that time limit does not apply.
 
-### 21. Review applications[^key-9452102aac94a920b8ca3616900f5a36]
+### 21. Review applications[^c-9452102aac94a920b8ca3616900f5a36]
 
 (1) An application for a review by AiB under the following provisions of the Act must be made in writing in Form 3—
 
@@ -374,29 +374,29 @@ Where AiB has applied to refer or remit a matter to the court under the Act—
 
 (6) Paragraphs (3) to (5) do not apply to the extent that equivalent provision is made in the Act.
 
-### 22. Review proceedings: staff of the Accountant in Bankruptcy[^key-2e7cd69f0dc7fdefd2bdd4255089b33f]
+### 22. Review proceedings: staff of the Accountant in Bankruptcy[^c-2e7cd69f0dc7fdefd2bdd4255089b33f]
 
 (1) No member of the staff of AiB who was involved in a decision under review may be involved in the review decision.
 
 (2) If the Accountant in Bankruptcy herself or himself was involved in a decision under review, he or she must not be involved in any review decision (and is accordingly unable to exercise those functions in which case the Depute Accountant in Bankruptcy may act in accordance with section 199(2) of the Act).
 
-### 23. Review proceedings: persons assisting the Accountant in Bankruptcy[^key-0f06bc0e0c36fc61415848e7fd868bd1]
+### 23. Review proceedings: persons assisting the Accountant in Bankruptcy[^c-0f06bc0e0c36fc61415848e7fd868bd1]
 
 (1) In relation to a review application AiB may take account of the views of any independent person whom AiB appoints for that purpose.
 
 (2) AiB may disclose information held about review applications to persons appointed under paragraph (1) to be used only for the purpose specified in that paragraph.
 
-### 24. Review decision[^key-0ce5685d7b7065fca34e6171a19d9ebb]
+### 24. Review decision[^c-0ce5685d7b7065fca34e6171a19d9ebb]
 
 The decision of AiB and a statement of reasons on the review application will be made publicly available.
 
 ## PART 5 — Revocations and saving
 
-### 25. Revocations[^key-44a664fba1785ef0447714fb2021c39e]
+### 25. Revocations[^c-44a664fba1785ef0447714fb2021c39e]
 
 The Bankruptcy (Applications and Decisions) (Scotland) Regulations 2014[^f00003] and regulation 3 of the Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2015[^f00004] are revoked, subject to regulation 26.
 
-### 26. Sequestrations and trust deeds before 30th November 2016[^key-02ba38c2faa5e55f8660d920c5acd54c]
+### 26. Sequestrations and trust deeds before 30th November 2016[^c-02ba38c2faa5e55f8660d920c5acd54c]
 
 These Regulations have no effect in relation to—
 
@@ -413,11 +413,11 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE — Forms[^key-b923410892cf81f91af758d3d216559d]
+## SCHEDULE — Forms[^c-b923410892cf81f91af758d3d216559d]
 
 Regulations 2(2)(a), 5, 10(1),11(1), 13(1), 17(1) and (2) and 21(1)
 
-### List of forms to be used[^key-b923410892cf81f91af758d3d216559d]
+### List of forms to be used[^c-b923410892cf81f91af758d3d216559d]
 
 | Form | Purpose | Relevant provision of the Regulations |
 | --- | --- | --- |
@@ -429,29 +429,29 @@ Regulations 2(2)(a), 5, 10(1),11(1), 13(1), 17(1) and (2) and 21(1)
 | 6 | Conversion of protected trust deed into bankruptcy: section 190 application | Regulation 17(1) |
 | 7 | Conversion of protected trust deed into bankruptcy: section 192 award | Regulation 17(2) |
 
-### FORM 1 — Application to the Accountant in Bankruptcy: general[^key-b923410892cf81f91af758d3d216559d]
+### FORM 1 — Application to the Accountant in Bankruptcy: general[^c-b923410892cf81f91af758d3d216559d]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/295/images/ssi_20160295_en_001)[image: see source](https://www.legislation.gov.uk/ssi/2016/295/images/ssi_20160295_en_002)
 
-### FORM 2 — Application for direction under section 52(2)[^key-b923410892cf81f91af758d3d216559d]
+### FORM 2 — Application for direction under section 52(2)[^c-b923410892cf81f91af758d3d216559d]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/295/images/ssi_20160295_en_003)[image: see source](https://www.legislation.gov.uk/ssi/2016/295/images/ssi_20160295_en_004)
 
-### FORM 3 — Application for review by the Accountant in Bankruptcy: general[^key-b923410892cf81f91af758d3d216559d]
+### FORM 3 — Application for review by the Accountant in Bankruptcy: general[^c-b923410892cf81f91af758d3d216559d]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/295/images/ssi_20160295_en_005)[image: see source](https://www.legislation.gov.uk/ssi/2016/295/images/ssi_20160295_en_006)[image: see source](https://www.legislation.gov.uk/ssi/2016/295/images/ssi_20160295_en_007)
 
-### FORM 4 — Report of statutory meeting appointing replacement trustee: section 60(2)(a)[^key-b923410892cf81f91af758d3d216559d]
+### FORM 4 — Report of statutory meeting appointing replacement trustee: section 60(2)(a)[^c-b923410892cf81f91af758d3d216559d]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/295/images/ssi_20160295_en_008)
 
-### FORM 5 — Grant of removal of trustee: section 70(1)(b)[^key-b923410892cf81f91af758d3d216559d]
+### FORM 5 — Grant of removal of trustee: section 70(1)(b)[^c-b923410892cf81f91af758d3d216559d]
 
 [image: see source](https://www.legislation.gov.uk/ssi/2016/295/images/ssi_20160295_en_009)
 
-### FORM 6 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-7d3685594f9b483e519835b9af1f83dc]
+### FORM 6 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-7d3685594f9b483e519835b9af1f83dc]
 
-### FORM 7 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-19d8faf2e69994914d89f05feea8748e]
+### FORM 7 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-19d8faf2e69994914d89f05feea8748e]
 
 EXPLANATORY NOTE
 
@@ -491,70 +491,70 @@ A Business and Regulatory Impact Assessment has been prepared for these Regulati
 
 [^f00001]: Footnote: [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21).
 
-[^key-b82edc7c7c0aded1b954a2e8902c8963]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/295/regulation/1) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-b82edc7c7c0aded1b954a2e8902c8963]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/295/regulation/1) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-d9cc17062ed1a86fe624d35a32bc0c19]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/295/regulation/2) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-d9cc17062ed1a86fe624d35a32bc0c19]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/295/regulation/2) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-afad0a5aa2ce76463db817f1d17c9be4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/295/regulation/3) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-afad0a5aa2ce76463db817f1d17c9be4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/295/regulation/3) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-0cdd7facf8ec0a8b76cba9afa80fafc8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/295/regulation/4) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-0cdd7facf8ec0a8b76cba9afa80fafc8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/295/regulation/4) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
 [^f00002]: Footnote: [2000 c.26](https://www.legislation.gov.uk/ukpga/2000/26).
 
-[^key-1e96747f4a568d075e984b9c3cc8e8e5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/295/regulation/5) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-1e96747f4a568d075e984b9c3cc8e8e5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/295/regulation/5) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-04cf4fc67d79cdbec1db857229ff1189]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/295/regulation/6) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-04cf4fc67d79cdbec1db857229ff1189]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/295/regulation/6) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-0f83adf43b4965b916f37a2258cf1287]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/295/regulation/7) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-0f83adf43b4965b916f37a2258cf1287]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/295/regulation/7) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-6cbfcae727a7e3987eedbc777dcc727d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/295/regulation/8) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-6cbfcae727a7e3987eedbc777dcc727d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/295/regulation/8) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-daa236e728a352c4b30827ab5936964b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/295/regulation/9) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-daa236e728a352c4b30827ab5936964b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/295/regulation/9) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-20825137cd76b0524856e1af9428edf5]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/ssi/2016/295/regulation/9/4) substituted (25.6.2025) by [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2025/145/regulation/2/2/a)
+[^c-20825137cd76b0524856e1af9428edf5]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/ssi/2016/295/regulation/9/4) substituted (25.6.2025) by [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2025/145/regulation/2/2/a)
 
-[^key-0f57b643f0b8b7dc4e67b868365cad3f]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/ssi/2016/295/regulation/9/5) omitted (25.6.2025) by virtue of [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/145/regulation/2/2/b)
+[^c-0f57b643f0b8b7dc4e67b868365cad3f]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/ssi/2016/295/regulation/9/5) omitted (25.6.2025) by virtue of [The Bankruptcy and Diligence (Scotland) Act 2024 (Consequential Amendments and Forms) Regulations 2025 (S.S.I. 2025/145)](https://www.legislation.gov.uk/ssi/2025/145), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/145/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/145/regulation/2/2/b)
 
-[^key-9b017cc1a4c07b51d50998939203e0ff]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/295/regulation/10) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-9b017cc1a4c07b51d50998939203e0ff]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/295/regulation/10) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-2880ff51bddbc818c0c5f4fe5b64dd7b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/295/regulation/11) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-2880ff51bddbc818c0c5f4fe5b64dd7b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/295/regulation/11) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-a6dcc13808c4e38e8e3233250bb2e825]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/295/regulation/12) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-a6dcc13808c4e38e8e3233250bb2e825]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/295/regulation/12) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-8642aaafbdce5750c3a9c9db55d02d88]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/295/regulation/13) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-8642aaafbdce5750c3a9c9db55d02d88]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/295/regulation/13) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-fa4134f7f395b4891fb3700708d2f6bf]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2016/295/regulation/14) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-fa4134f7f395b4891fb3700708d2f6bf]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2016/295/regulation/14) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-4214c767895f4eabfcdd60385e87a014]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2016/295/regulation/15) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-4214c767895f4eabfcdd60385e87a014]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2016/295/regulation/15) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-b9ef3799b6a52634eb2efa620d4a2ac5]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/295/regulation/16) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-b9ef3799b6a52634eb2efa620d4a2ac5]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2016/295/regulation/16) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-df62910ae7cb07429d64acd2af641321]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/ssi/2016/295/regulation/17) omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [8(2)](https://www.legislation.gov.uk/ssi/2019/94/regulation/8/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df62910ae7cb07429d64acd2af641321]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/ssi/2016/295/regulation/17) omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [8(2)](https://www.legislation.gov.uk/ssi/2019/94/regulation/8/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3d31afcd79c9577dc6cfd6845ff25982]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/295/regulation/18) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-3d31afcd79c9577dc6cfd6845ff25982]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2016/295/regulation/18) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-b11c5d9d5f788123f7ce6f324308a235]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2016/295/regulation/19) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-b11c5d9d5f788123f7ce6f324308a235]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2016/295/regulation/19) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-26376f5de7ebc244715598a2b47bcb72]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2016/295/regulation/20) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-26376f5de7ebc244715598a2b47bcb72]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2016/295/regulation/20) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-9452102aac94a920b8ca3616900f5a36]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2016/295/regulation/21) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-9452102aac94a920b8ca3616900f5a36]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2016/295/regulation/21) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-2e7cd69f0dc7fdefd2bdd4255089b33f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2016/295/regulation/22) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-2e7cd69f0dc7fdefd2bdd4255089b33f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2016/295/regulation/22) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-0f06bc0e0c36fc61415848e7fd868bd1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2016/295/regulation/23) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-0f06bc0e0c36fc61415848e7fd868bd1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2016/295/regulation/23) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-0ce5685d7b7065fca34e6171a19d9ebb]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2016/295/regulation/24) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-0ce5685d7b7065fca34e6171a19d9ebb]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2016/295/regulation/24) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-44a664fba1785ef0447714fb2021c39e]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2016/295/regulation/25) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-44a664fba1785ef0447714fb2021c39e]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2016/295/regulation/25) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
 [^f00003]: Footnote: [S.S.I. 2014/226](https://www.legislation.gov.uk/ssi/2014/226) as amended [S.S.I. 2015/80](https://www.legislation.gov.uk/ssi/2015/80).
 
 [^f00004]: Footnote: [S.S.I. 2015/80](https://www.legislation.gov.uk/ssi/2015/80).
 
-[^key-02ba38c2faa5e55f8660d920c5acd54c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2016/295/regulation/26) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-02ba38c2faa5e55f8660d920c5acd54c]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2016/295/regulation/26) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-b923410892cf81f91af758d3d216559d]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2016/295/schedule) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
+[^c-b923410892cf81f91af758d3d216559d]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2016/295/schedule) in force at 30.11.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/295/regulation/1/2)
 
-[^key-7d3685594f9b483e519835b9af1f83dc]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2016/295/schedule) Form 6 omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [8(3)](https://www.legislation.gov.uk/ssi/2019/94/regulation/8/3) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d3685594f9b483e519835b9af1f83dc]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2016/295/schedule) Form 6 omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [8(3)](https://www.legislation.gov.uk/ssi/2019/94/regulation/8/3) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-19d8faf2e69994914d89f05feea8748e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2016/295/schedule) Form 7 omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [8(3)](https://www.legislation.gov.uk/ssi/2019/94/regulation/8/3) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-19d8faf2e69994914d89f05feea8748e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2016/295/schedule) Form 7 omitted (31.12.2020) by virtue of [The Insolvency (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/94)](https://www.legislation.gov.uk/ssi/2019/94), [regs. 1](https://www.legislation.gov.uk/ssi/2019/94/regulation/1), [8(3)](https://www.legislation.gov.uk/ssi/2019/94/regulation/8/3) (with [reg. 9](https://www.legislation.gov.uk/ssi/2019/94/regulation/9)) (as amended by [S.S.I. 2020/337](https://www.legislation.gov.uk/ssi/2020/337), [regs. 1](https://www.legislation.gov.uk/ssi/2020/337/regulation/1), [2](https://www.legislation.gov.uk/ssi/2020/337/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

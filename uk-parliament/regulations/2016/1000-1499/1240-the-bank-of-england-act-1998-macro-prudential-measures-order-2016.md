@@ -56,7 +56,7 @@ In this Order—
 - “**borrower**” means a person who receives credit, and includes a person acting jointly with others, and a person acting as a trustee who receives credit jointly with other trustees;
 - “**buy-to-let mortgage contract**” means a contract that, at the time it is entered into, satisfies the following conditions–
   - (a) the lender provides credit to the borrower;
-  - (b) the obligation of the borrower to repay is secured by a mortgage on land in the United Kingdom[^key-7a73b8af1234e71e063f038622275ccd];
+  - (b) the obligation of the borrower to repay is secured by a mortgage on land in the United Kingdom[^c-7a73b8af1234e71e063f038622275ccd];
   - (c) at least 40% of the land is used, or is intended to be used, as or in connection with a dwelling on the basis of a rental agreement; and
   - (d) the borrower, or any related person, are, for the duration of the buy-to-let mortgage contract, prevented from occupying any part of the land which is used, or is intended to be used, as a dwelling;
 - “**buy-to-let property**” means the land which is the security for a buy-to-let mortgage contract;
@@ -67,7 +67,7 @@ In this Order—
 - “**excluded buy-to-let mortgage contract**” means a buy-to-let mortgage contract under which a borrower obtains credit from a lender in relation to land, on which there are no dwellings at the time the buy-to-let mortgage contract is entered into, with the intention, or principal intention, of constructing new buildings on that land which will be used as dwellings;
 - “**FCA**” has the meaning given by section 1A of the Financial Services and Markets Act 2000 [^c23164511];
 - “**FSMA cost-benefit analysis**” means—
-  - (a) an analysis of the costs (including the costs to business activity and the impact on economic growth) and the benefits of any change in rules made pursuant to Part 9A or section 192XA[^key-f594bd4b38b25df90bfecbc191496243] of the Financial Services and Markets Act 2000 [^c23164521]; and
+  - (a) an analysis of the costs (including the costs to business activity and the impact on economic growth) and the benefits of any change in rules made pursuant to Part 9A or section 192XA[^c-f594bd4b38b25df90bfecbc191496243] of the Financial Services and Markets Act 2000 [^c23164521]; and
   - (b) where those costs and benefits can reasonably be estimated, an estimate of those costs and benefits;
 - “**interest coverage ratio**” means the ratio of the expected monthly rental income from a buy-to-let property to the monthly interest payments as estimated by the lender at the time of deciding to provide credit to the borrower;
 - “**lender**” means a person providing credit by way of business;
@@ -100,7 +100,7 @@ In this Order—
 - (b) the Financial Policy Committee revokes the first direction; and
 - (c) within a reasonable period of time after the revocation of the first direction, the Financial Policy Committee gives another direction to the PRA or the FCA under section 9H of the 1998 Act (“the subsequent direction”) which is in substance identical to the first direction except in relation to the values specified in the direction.
 
-(2) To the extent that the subsequent direction is implemented by way of rules pursuant to Part 9A or section 192XA[^key-8cafde79bc8729bfcc56b264eaf25374] of the Financial Services and Markets Act 2000 then—
+(2) To the extent that the subsequent direction is implemented by way of rules pursuant to Part 9A or section 192XA[^c-8cafde79bc8729bfcc56b264eaf25374] of the Financial Services and Markets Act 2000 then—
 
 - (a) sections 138I (Consultation by the FCA), 138K (Consultation: mutual societies), and 139A(3) (Power of the FCA to give guidance) of the Financial Services and Markets Act 2000 [^c23164541] do not apply to the FCA, but the FCA must undertake and publish, at the same time as the subsequent direction is implemented, a FSMA cost-benefit analysis relating to changes implemented pursuant to the subsequent direction; and
 - (b) sections 138J (Consultation by the PRA) and 138K (Consultation: mutual societies) of the Financial Services and Markets Act 2000 [^c23164551] do not apply to the PRA, but the PRA must undertake and publish, at the same time as the subsequent direction is implemented, a FSMA cost-benefit analysis relating to changes implemented pursuant to the subsequent direction.
@@ -186,17 +186,17 @@ A full assessment of the effect that this Order will have on the costs of busine
 
 [^c23164501]: Marginal citation: [1998 c.11](https://www.legislation.gov.uk/ukpga/1998/11); [sections 9A to 9Z](https://www.legislation.gov.uk/uksi/2016/1240/section/9A) were inserted by section 4 of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-7a73b8af1234e71e063f038622275ccd]: Textual amendment: Words in art. 2 substituted (31.12.2020) by virtue of [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2018/1297/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a73b8af1234e71e063f038622275ccd]: Textual amendment: Words in art. 2 substituted (31.12.2020) by virtue of [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2018/1297/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23164511]: Marginal citation: Inserted by section 6(1) of the Financial Services Act 2012.
 
-[^key-f594bd4b38b25df90bfecbc191496243]: Textual amendment: Words in art. 2 inserted (21.7.2021) by [The Bank of England Act 1998 (Macro-prudential Measures) (Amendment) Order 2021 (S.I. 2021/869)](https://www.legislation.gov.uk/uksi/2021/869), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/869/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/869/article/5/2)
+[^c-f594bd4b38b25df90bfecbc191496243]: Textual amendment: Words in art. 2 inserted (21.7.2021) by [The Bank of England Act 1998 (Macro-prudential Measures) (Amendment) Order 2021 (S.I. 2021/869)](https://www.legislation.gov.uk/uksi/2021/869), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/869/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/869/article/5/2)
 
 [^c23164521]: Marginal citation: Inserted by section 24 of the Financial Services Act 2012.
 
 [^c23164531]: Marginal citation: Inserted by section 6(1) of the Financial Services Act 2012.
 
-[^key-8cafde79bc8729bfcc56b264eaf25374]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2016/1240/article/4/2) inserted (21.7.2021) by [The Bank of England Act 1998 (Macro-prudential Measures) (Amendment) Order 2021 (S.I. 2021/869)](https://www.legislation.gov.uk/uksi/2021/869), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/869/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2021/869/article/5/3)
+[^c-8cafde79bc8729bfcc56b264eaf25374]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2016/1240/article/4/2) inserted (21.7.2021) by [The Bank of England Act 1998 (Macro-prudential Measures) (Amendment) Order 2021 (S.I. 2021/869)](https://www.legislation.gov.uk/uksi/2021/869), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/869/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2021/869/article/5/3)
 
 [^c23164541]: Marginal citation: [Sections 138I](https://www.legislation.gov.uk/uksi/2016/1240/section/138I), [138K](https://www.legislation.gov.uk/uksi/2016/1240/section/138K) and 139A were all inserted by section 24 (Rules and Guidance) of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
 

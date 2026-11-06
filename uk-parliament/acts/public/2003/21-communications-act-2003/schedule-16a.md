@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 16A — Penalties imposed by OFCOM under Parts 3A and 3B[^key-32ba3242f6af753c8d7a68e87c23033c]
+## Schedule 16A — Penalties imposed by OFCOM under Parts 3A and 3B[^c-32ba3242f6af753c8d7a68e87c23033c]
 
 *Extent: E+W+S+N.I.*
 
@@ -181,4 +181,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-32ba3242f6af753c8d7a68e87c23033c]: Textual amendment: [Sch. 16A](https://www.legislation.gov.uk/ukpga/2003/21/schedule/16A) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(g)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/g), [Sch. 10](https://www.legislation.gov.uk/ukpga/2024/15/schedule/10); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z4)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z4)
+[^c-32ba3242f6af753c8d7a68e87c23033c]: Textual amendment: [Sch. 16A](https://www.legislation.gov.uk/ukpga/2003/21/schedule/16A) inserted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(g)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/g), [Sch. 10](https://www.legislation.gov.uk/ukpga/2024/15/schedule/10); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(z4)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/z4)

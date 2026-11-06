@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Independent nurse prescribers and supplementary prescribers[^key-c60f7f64550478f071b11bb765190081]
+## 17. Independent nurse prescribers and supplementary prescribers[^c-c60f7f64550478f071b11bb765190081]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c60f7f64550478f071b11bb765190081]: Commencement: Art. 17 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-c60f7f64550478f071b11bb765190081]: Commencement: Art. 17 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00021]: Footnote: Paragraph 35A was inserted by [S.R. 2001 No. 167](https://www.legislation.gov.uk/nisr/2001/167) and paragraph 35B was inserted by [S.R. 2003 No. 447](https://www.legislation.gov.uk/nisr/2003/447)
 

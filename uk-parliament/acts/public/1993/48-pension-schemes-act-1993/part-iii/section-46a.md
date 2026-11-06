@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46A. Retirement in tax year after 5th April 2020[^key-9001022c4d804911c35d594f86fbbcd5]
+## 46A. Retirement in tax year after 5th April 2020[^c-9001022c4d804911c35d594f86fbbcd5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9001022c4d804911c35d594f86fbbcd5]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/1993/48/section/46A) repealed (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 95](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/95)
+[^c-9001022c4d804911c35d594f86fbbcd5]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/1993/48/section/46A) repealed (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 95](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/95)

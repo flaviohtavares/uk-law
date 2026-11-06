@@ -84,7 +84,7 @@ A non-hazardous pollutant is any pollutant other than a hazardous substance.
 
 ### 6. Exercise of relevant functions
 
-For the purpose of the duties in regulation 3 of the WFD Regulations[^key-b353b5b8a755fcd826afc4a014e26240], the regulator must, in exercising its relevant functions, take all necessary measures—
+For the purpose of the duties in regulation 3 of the WFD Regulations[^c-b353b5b8a755fcd826afc4a014e26240], the regulator must, in exercising its relevant functions, take all necessary measures—
 
 - (a) to prevent the input of any hazardous substance to groundwater, and
 - (b) to limit the input of non-hazardous pollutants to groundwater so as to ensure that such inputs do not cause pollution of groundwater.
@@ -100,7 +100,7 @@ For the purpose of the duties in regulation 3 of the WFD Regulations[^key-b353b5
 
 (3) If it grants the permit, it must include conditions requiring all necessary technical precautions to be observed to ensure the objectives of paragraph 6 are achieved.
 
-(4) A permit may not be granted in relation to Wales[^key-148930c82078e7da97651bceddfd3b86]—
+(4) A permit may not be granted in relation to Wales[^c-148930c82078e7da97651bceddfd3b86]—
 
 - (a) without examination of—
   - (i) the hydrogeological conditions of the area concerned,
@@ -108,7 +108,7 @@ For the purpose of the duties in regulation 3 of the WFD Regulations[^key-b353b5
   - (iii) the risk of pollution and alteration of the quality of the groundwater from the discharge, and
 - (b) without establishing whether the input of pollutants to groundwater is a satisfactory solution from the point of view of the environment.
 
-(4A)[^key-79c8bf84487890a45edf8b08b26a4a60] A permit may not be granted in relation to England—
+(4A)[^c-79c8bf84487890a45edf8b08b26a4a60] A permit may not be granted in relation to England—
 
 - (a) without an assessment of—
   - (i) the relevant hydrogeological conditions,
@@ -120,22 +120,22 @@ For the purpose of the duties in regulation 3 of the WFD Regulations[^key-b353b5
 
 ### 8. Groundwater activities for which a permit may be granted
 
-(1)[^key-e83541bd624228ca2243b43e1637dbb2] Despite paragraph 6, provided it does not compromise the achievement of any of the environmental objectives relating to groundwater in relation to a river basin district[^key-5b4c591aca269ec6c0e1ccedf9103865], the regulator may grant an environmental permit for—
+(1)[^c-e83541bd624228ca2243b43e1637dbb2] Despite paragraph 6, provided it does not compromise the achievement of any of the environmental objectives relating to groundwater in relation to a river basin district[^c-5b4c591aca269ec6c0e1ccedf9103865], the regulator may grant an environmental permit for—
 
 - (a) the injection of water containing substances resulting from the operations for exploration and extraction of hydrocarbons or mining activities, and injection of water for technical reasons, into geological formations from which hydrocarbons or other substances have been extracted or into geological formations which for natural reasons are permanently unsuitable for other purposes, provided that the injection does not contain substances other than those resulting from the above operations;
 - (b) the reinjection of pumped groundwater from mines and quarries or associated with the construction or maintenance of civil engineering works;
 - (c) the injection of natural gas or liquefied petroleum gas for storage purposes into geological formations which for natural reasons are permanently unsuitable for other purposes;
-- (d) the injection of carbon dioxide streams for storage purposes into geological formations which for natural reasons are permanently unsuitable for other purposes, provided that such injection is made in accordance with Chapter 3 of Part 1 of the Energy Act 2008 and other EU-derived domestic legislation which transposed Directive[^key-bd9ed966f456c5d56e82c9aa1c49ba9f] [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) on the geological storage of carbon dioxide in relation to England and Wales;
+- (d) the injection of carbon dioxide streams for storage purposes into geological formations which for natural reasons are permanently unsuitable for other purposes, provided that such injection is made in accordance with Chapter 3 of Part 1 of the Energy Act 2008 and other EU-derived domestic legislation which transposed Directive[^c-bd9ed966f456c5d56e82c9aa1c49ba9f] [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) on the geological storage of carbon dioxide in relation to England and Wales;
 - (e) the injection of natural gas or liquefied petroleum gas for storage purposes into other geological formations where there is an overriding need for security of gas supply, and where the injection is such as to prevent any present or future danger of deterioration in the quality of any receiving groundwater;
 - (f) construction, civil engineering and building works and similar activities on or in the ground which come into contact with groundwater;
 - (g) discharges of small quantities of substances for scientific purposes for characterisation, protection or remediation of bodies of water limited to the amount strictly necessary for the purposes concerned;
 - (h) interventions in surface waters for the purposes, amongst others, of mitigating the effects of floods and droughts, and for the management of waters and waterways;
 - (i) the artificial recharge or augmentation of a body of groundwater for the purposes of groundwater management;
 - (j) reinjection into the same aquifer of water used for geothermal purposes.
-- (k)[^key-7f5a34d4a1d46fede682cb35a17fa92e] in relation to England, any groundwater activity to remediate the effects of pollution in groundwater or in the land or waters surrounding groundwater;
+- (k)[^c-7f5a34d4a1d46fede682cb35a17fa92e] in relation to England, any groundwater activity to remediate the effects of pollution in groundwater or in the land or waters surrounding groundwater;
 - (l) in relation to England, the injection of any substance into groundwater to increase the flow of fluids or gas to a well or borehole in connection with the extraction or use of any source of energy.
 
-(2)[^key-aa0580029d0aaf24d46e4c2f3f0dfd09] In sub-paragraph (1)(k), the reference to remediating the effects of pollution is—
+(2)[^c-aa0580029d0aaf24d46e4c2f3f0dfd09] In sub-paragraph (1)(k), the reference to remediating the effects of pollution is—
 
 - (a) in the case of the groundwater in question, to doing any works, carrying out any operations or taking any steps to prevent or minimise, or remedy or mitigate the effects of pollution, or
 - (b) in the case of land or waters surrounding the groundwater in question, to restoring the land or waters to (or closer to) their former state.
@@ -200,13 +200,13 @@ A highway authority or other person entitled to keep open a highway drain by vir
 - (a) matter included in the discharge was received by the sending undertaker into a sewer or works vested in it, and
 - (b) it was bound (either conditionally or subject to conditions which were observed) to receive that matter into that sewer or works.
 
-(5) In relation to Wales, a sewerage undertaker[^key-b19dd306e67c4b8ef49b1b5aad2c0833] is not guilty of an offence under regulation 38(1) in relation to a groundwater activity that consists of a discharge of sewage effluent from a sewer or works vested in it if—
+(5) In relation to Wales, a sewerage undertaker[^c-b19dd306e67c4b8ef49b1b5aad2c0833] is not guilty of an offence under regulation 38(1) in relation to a groundwater activity that consists of a discharge of sewage effluent from a sewer or works vested in it if—
 
 - (a) the contravention is attributable to a discharge which another person caused or knowingly permitted to be made into the sewer or works,
 - (b) the undertaker either was not bound to receive the discharge into the sewer or works or was bound to receive it there subject to conditions which were not observed, and
 - (c) the undertaker could not reasonably have been expected to prevent the discharge into the sewer or works.
 
-(5A)[^key-77c0aa11055da32d8531ff25e54a1b7d] In relation to England, a sewerage undertaker is not guilty of an offence under regulation 38(1) or (2) in relation to a groundwater activity that consists of a discharge of sewage effluent from a sewer or works vested in it if—
+(5A)[^c-77c0aa11055da32d8531ff25e54a1b7d] In relation to England, a sewerage undertaker is not guilty of an offence under regulation 38(1) or (2) in relation to a groundwater activity that consists of a discharge of sewage effluent from a sewer or works vested in it if—
 
 - (a) the contravention is attributable to a discharge which another person caused or knowingly permitted to be made into the sewer or works,
 - (b) the undertaker either was not bound to receive the discharge into the sewer or works or was bound to receive it there subject to conditions which were not observed, and
@@ -216,26 +216,26 @@ A highway authority or other person entitled to keep open a highway drain by vir
 
 ## Annotations
 
-[^key-b353b5b8a755fcd826afc4a014e26240]: Textual amendment: Words in [Sch. 22 para. 6](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/6) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(24)(a)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/24/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b353b5b8a755fcd826afc4a014e26240]: Textual amendment: Words in [Sch. 22 para. 6](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/6) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(24)(a)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/24/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-148930c82078e7da97651bceddfd3b86]: Textual amendment: Words in [Sch. 22 para. 7(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/7/4) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [7(a)(i)](https://www.legislation.gov.uk/uksi/2023/651/regulation/7/a/i)
+[^c-148930c82078e7da97651bceddfd3b86]: Textual amendment: Words in [Sch. 22 para. 7(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/7/4) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [7(a)(i)](https://www.legislation.gov.uk/uksi/2023/651/regulation/7/a/i)
 
-[^key-79c8bf84487890a45edf8b08b26a4a60]: Textual amendment: [Sch. 22 para. 7(4A)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/7/4A) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2023/651/regulation/7/a/ii)
+[^c-79c8bf84487890a45edf8b08b26a4a60]: Textual amendment: [Sch. 22 para. 7(4A)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/7/4A) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2023/651/regulation/7/a/ii)
 
-[^key-e83541bd624228ca2243b43e1637dbb2]: Textual amendment: [Sch. 22 para. 8](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/8) renumbered as Sch. 22 para. 8(1) (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [7(b)(i)](https://www.legislation.gov.uk/uksi/2023/651/regulation/7/b/i)
+[^c-e83541bd624228ca2243b43e1637dbb2]: Textual amendment: [Sch. 22 para. 8](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/8) renumbered as Sch. 22 para. 8(1) (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [7(b)(i)](https://www.legislation.gov.uk/uksi/2023/651/regulation/7/b/i)
 
-[^key-5b4c591aca269ec6c0e1ccedf9103865]: Textual amendment: Words in [Sch. 22 para. 8](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/8) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(24)(b)(i)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/24/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5b4c591aca269ec6c0e1ccedf9103865]: Textual amendment: Words in [Sch. 22 para. 8](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/8) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(24)(b)(i)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/24/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bd9ed966f456c5d56e82c9aa1c49ba9f]: Textual amendment: Words in [Sch. 22 para. 8(d)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/8/d) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(24)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/24/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bd9ed966f456c5d56e82c9aa1c49ba9f]: Textual amendment: Words in [Sch. 22 para. 8(d)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/8/d) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(24)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/24/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7f5a34d4a1d46fede682cb35a17fa92e]: Textual amendment: [Sch. 22 para. 8(1)(k)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/8/1/k)[(l)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/8/1/l) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [7(b)(ii)](https://www.legislation.gov.uk/uksi/2023/651/regulation/7/b/ii)
+[^c-7f5a34d4a1d46fede682cb35a17fa92e]: Textual amendment: [Sch. 22 para. 8(1)(k)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/8/1/k)[(l)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/8/1/l) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [7(b)(ii)](https://www.legislation.gov.uk/uksi/2023/651/regulation/7/b/ii)
 
-[^key-aa0580029d0aaf24d46e4c2f3f0dfd09]: Textual amendment: [Sch. 22 para. 8(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/8/2) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [7(b)(iii)](https://www.legislation.gov.uk/uksi/2023/651/regulation/7/b/iii)
+[^c-aa0580029d0aaf24d46e4c2f3f0dfd09]: Textual amendment: [Sch. 22 para. 8(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/8/2) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [7(b)(iii)](https://www.legislation.gov.uk/uksi/2023/651/regulation/7/b/iii)
 
 [^c23193701]: Marginal citation: Section 100 was amended by paragraph 21 of Schedule 4 to the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), [paragraph 62](https://www.legislation.gov.uk/ukpga/1985/51/paragraph/62) of Schedule 25 to the [Water Act 1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15), [paragraph 36(1)](https://www.legislation.gov.uk/ukpga/1989/15/paragraph/36/1) of Schedule 1 to the [Water Consolidation (Consequential Provisions) Act 1991 (c. 60)](https://www.legislation.gov.uk/ukpga/1991/60) and paragraph 9 of Schedule 7 to the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19).
 
 [^c23193711]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56); section 110A was inserted by section 45 of the [Competition and Service (Utilities) Act 1992 (c. 43)](https://www.legislation.gov.uk/ukpga/1992/43) and substituted by section 9(1) of the [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21).
 
-[^key-b19dd306e67c4b8ef49b1b5aad2c0833]: Textual amendment: Words in [Sch. 22 para. 13(5)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/13/5) substituted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [7(c)(i)](https://www.legislation.gov.uk/uksi/2023/651/regulation/7/c/i)
+[^c-b19dd306e67c4b8ef49b1b5aad2c0833]: Textual amendment: Words in [Sch. 22 para. 13(5)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/13/5) substituted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [7(c)(i)](https://www.legislation.gov.uk/uksi/2023/651/regulation/7/c/i)
 
-[^key-77c0aa11055da32d8531ff25e54a1b7d]: Textual amendment: [Sch. 22 para. 13(5A)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/13/5A) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [7(c)(ii)](https://www.legislation.gov.uk/uksi/2023/651/regulation/7/c/ii)
+[^c-77c0aa11055da32d8531ff25e54a1b7d]: Textual amendment: [Sch. 22 para. 13(5A)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/22/paragraph/13/5A) inserted (2.10.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) Regulations 2023 (S.I. 2023/651)](https://www.legislation.gov.uk/uksi/2023/651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/651/regulation/1/2), [7(c)(ii)](https://www.legislation.gov.uk/uksi/2023/651/regulation/7/c/ii)

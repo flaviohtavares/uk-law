@@ -40,7 +40,7 @@ They ne any of theym from hensforth shall presume to attempte allege clayme or p
 
 ## II. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c919088]
 
-## III. No Cannons, &c. shall be enforced contrary to the King’s Prerogative.[^key-323c00fa963488e9b1ecb8156c451dc8][^c919089]
+## III. No Cannons, &c. shall be enforced contrary to the King’s Prerogative.[^c-323c00fa963488e9b1ecb8156c451dc8][^c919089]
 
 Provided alway that no canons constitucions or ordynance shalbe made or put in execucion within this Realme by auorytie of the convocacion of the clergie, which shalbe contraryaunt or repugnant to the Kynges prerogatyve Royall or the customes lawes or statutes of this Realme; any thyng conteyned in this acte to the contrarye herof notwithstondyng.
 
@@ -64,7 +64,7 @@ Provided alway that no canons constitucions or ordynance shalbe made or put in e
 
 [^c919088]: Textual amendment: [S. 2](https://www.legislation.gov.uk/aep/Hen8/25/19/section/2) repealed by [Statute Law (Repeals) Act 1969 (c. 52)](https://www.legislation.gov.uk/ukpga/1969/52)
 
-[^key-323c00fa963488e9b1ecb8156c451dc8]: Modification: S. 3 excluded (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/1/3), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)
+[^c-323c00fa963488e9b1ecb8156c451dc8]: Modification: S. 3 excluded (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/1/3), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/93/article/3/a)
 
 [^c919089]: Modification: S. 3 applied by [Synodical Government Measure 1969 (No. 2)](https://www.legislation.gov.uk/ukcm/1969/2), [s. 1(3)](https://www.legislation.gov.uk/ukcm/1969/2/section/1/3); saved by [Statute Law (Repeals) Act 1969 (c. 52)](https://www.legislation.gov.uk/ukpga/1969/52), [s. 4(2)](https://www.legislation.gov.uk/ukpga/1969/52/section/4/2); excluded by [Church of England (Worship and Doctrine) Measure 1974 (No. 3)](https://www.legislation.gov.uk/ukcm/1974/3), [s. 6(1)](https://www.legislation.gov.uk/ukcm/1974/3/section/6/1) and [Church of England (Miscellaneous Provisions) Measure 1976 (No. 3)](https://www.legislation.gov.uk/ukcm/1976/3), [s. 1(3)](https://www.legislation.gov.uk/ukcm/1976/3/section/1/3)
 

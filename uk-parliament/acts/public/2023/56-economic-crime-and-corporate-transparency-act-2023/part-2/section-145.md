@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Delivery of documents relating to limited partnerships[^key-6846fc4cc50cb1f35ad724b745d7a0a9]
+## 145. Delivery of documents relating to limited partnerships[^c-6846fc4cc50cb1f35ad724b745d7a0a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ After section 32 of the Limited Partnerships Act 1907 (inserted by section 134 o
 
 ## Annotations
 
-[^key-6846fc4cc50cb1f35ad724b745d7a0a9]: Commencement: S. 145 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-6846fc4cc50cb1f35ad724b745d7a0a9]: Commencement: S. 145 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

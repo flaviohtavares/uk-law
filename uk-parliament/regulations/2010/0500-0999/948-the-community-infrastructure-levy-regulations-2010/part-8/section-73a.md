@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73A. Infrastructure payments[^key-9d427969858196b175b18820a9957d63]
+## 73A. Infrastructure payments[^c-9d427969858196b175b18820a9957d63]
 
 *Extent: E+W*
 
@@ -77,7 +77,7 @@ summary: ''
 
 *Extent: W*
 
-- (d (Extent: E) (affected by repeal, see note))[^key-5575a6a0051a3b0cd0a519492f3dac33] “relevant infrastructure” has the same meaning as in regulation 123 (further limitations on the use of planning obligations); and *(Extent: E)* *(affected by repeal, see note)*[^key-5575a6a0051a3b0cd0a519492f3dac33]
+- (d (Extent: E) (affected by repeal, see note))[^c-5575a6a0051a3b0cd0a519492f3dac33] “relevant infrastructure” has the same meaning as in regulation 123 (further limitations on the use of planning obligations); and *(Extent: E)* *(affected by repeal, see note)*[^c-5575a6a0051a3b0cd0a519492f3dac33]
 
 *Extent: E*
 
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d427969858196b175b18820a9957d63]: Textual amendment: [Regs. 73A](https://www.legislation.gov.uk/uksi/2010/948/regulation/73A), [73B](https://www.legislation.gov.uk/uksi/2010/948/regulation/73B) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2014/385/regulation/9/6)
+[^c-9d427969858196b175b18820a9957d63]: Textual amendment: [Regs. 73A](https://www.legislation.gov.uk/uksi/2010/948/regulation/73A), [73B](https://www.legislation.gov.uk/uksi/2010/948/regulation/73B) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2014/385/regulation/9/6)
 
-[^key-5575a6a0051a3b0cd0a519492f3dac33]: Textual amendment: [Reg. 73A(12)(d)](https://www.legislation.gov.uk/uksi/2010/948/regulation/73A/12/d) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/9/5) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-5575a6a0051a3b0cd0a519492f3dac33]: Textual amendment: [Reg. 73A(12)(d)](https://www.legislation.gov.uk/uksi/2010/948/regulation/73A/12/d) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/9/5) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

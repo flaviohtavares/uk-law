@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Transfer of functions under section 190 to Independent System Operator and Planner[^key-bb45fcfa3cf287a36cec736025b6f4a3][^key-7ed159ab57020654ded87b196f630d03]
+## 191. Transfer of functions under section 190 to Independent System Operator and Planner[^c-bb45fcfa3cf287a36cec736025b6f4a3][^c-7ed159ab57020654ded87b196f630d03]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb45fcfa3cf287a36cec736025b6f4a3]: Commencement: S. 191 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-bb45fcfa3cf287a36cec736025b6f4a3]: Commencement: S. 191 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-7ed159ab57020654ded87b196f630d03]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2023/52/section/191) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(v)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/v)
+[^c-7ed159ab57020654ded87b196f630d03]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2023/52/section/191) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(v)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/v)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. False statements as to candidates[^key-9f3f4861862814b4a26ab86f4ca06c63]
+## 71. False statements as to candidates[^c-9f3f4861862814b4a26ab86f4ca06c63]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ makes or publishes any false statement of fact in relation to the personal chara
 
 ## Annotations
 
-[^key-9f3f4861862814b4a26ab86f4ca06c63]: Commencement: Art. 71 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-9f3f4861862814b4a26ab86f4ca06c63]: Commencement: Art. 71 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

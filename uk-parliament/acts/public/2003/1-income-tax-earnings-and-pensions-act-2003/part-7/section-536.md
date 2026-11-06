@@ -34,7 +34,7 @@ summary: ''
 
   of section 537 apply;
 - (d) a conversion of any of the shares to which the option relates into shares of a different class, except in a case within section 538(2); and
-- (e) the grant to the employee of a relevant CSOP option, if immediately after it is granted the employee holds unexercised employee options in respect of shares with a total value of more than £250,000[^key-ef7f983cf228b3b1fa932b48a2f319b2] .
+- (e) the grant to the employee of a relevant CSOP option, if immediately after it is granted the employee holds unexercised employee options in respect of shares with a total value of more than £250,000[^c-ef7f983cf228b3b1fa932b48a2f319b2] .
 
 (2) In subsection (1)(e)—
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef7f983cf228b3b1fa932b48a2f319b2]: Textual amendment: Word in [s. 536(1)(e)](https://www.legislation.gov.uk/ukpga/2003/1/section/536/1/e) substituted (16.6.2012) by [The Income Tax (Limits for Enterprise Management Incentives) Order 2012 (S.I. 2012/1360)](https://www.legislation.gov.uk/uksi/2012/1360), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1360/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2012/1360/article/2/2/c)
+[^c-ef7f983cf228b3b1fa932b48a2f319b2]: Textual amendment: Word in [s. 536(1)(e)](https://www.legislation.gov.uk/ukpga/2003/1/section/536/1/e) substituted (16.6.2012) by [The Income Tax (Limits for Enterprise Management Incentives) Order 2012 (S.I. 2012/1360)](https://www.legislation.gov.uk/uksi/2012/1360), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1360/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2012/1360/article/2/2/c)

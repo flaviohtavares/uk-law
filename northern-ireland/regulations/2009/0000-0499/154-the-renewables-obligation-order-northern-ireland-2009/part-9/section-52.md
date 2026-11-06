@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Modification of this Order in relation to microgenerators in certain circumstances[^key-9977af6b2268b4c5b4b02eab8c32f69a]
+## 52. Modification of this Order in relation to microgenerators in certain circumstances[^c-9977af6b2268b4c5b4b02eab8c32f69a]
 
 *Extent: N.I.*
 
@@ -34,7 +34,7 @@ give notice in writing to the Authority that entitlement to NIROCs in respect of
 - (a) where an operator or, as the case may be, agent has given notice as specified in paragraph (2)(a) for the remainder of the obligation period during which the notice was given and subsequent obligation periods; and
 - (b) where an operator or, as the case may be, agent has given notice as specified in paragraph 2(b), for the relevant obligation period and subsequent obligation periods.
 
-(4) Where this paragraph applies, the reference to “month” in each place where it occurs in Articles [^key-7b815f909eede99e90a82d81e60b538e]..., 21, 22, 23, 34, 35, 37, 45 and Schedule 3 is to be taken to be a reference to “obligation period”, subject to the following exceptions—
+(4) Where this paragraph applies, the reference to “month” in each place where it occurs in Articles [^c-7b815f909eede99e90a82d81e60b538e]..., 21, 22, 23, 34, 35, 37, 45 and Schedule 3 is to be taken to be a reference to “obligation period”, subject to the following exceptions—
 
 - (a) In Articles 22(2)(b), and 45(3) the reference to “the second month” is to remain unchanged;
 - (b) in paragraph 3(b)(i) of Schedule 3 the words “the month and year” is to be replaced by “the obligation period”.
@@ -50,6 +50,6 @@ by notice in writing to the Authority, withdraw the notice given under paragraph
 
 ## Annotations
 
-[^key-9977af6b2268b4c5b4b02eab8c32f69a]: Commencement: Art. 52 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-9977af6b2268b4c5b4b02eab8c32f69a]: Commencement: Art. 52 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
 
-[^key-7b815f909eede99e90a82d81e60b538e]: Textual amendment: Word in [art. 52(4)](https://www.legislation.gov.uk/nisr/2009/154/article/52/4) omitted (1.5.2013) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [29](https://www.legislation.gov.uk/nisr/2013/116/article/29) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-7b815f909eede99e90a82d81e60b538e]: Textual amendment: Word in [art. 52(4)](https://www.legislation.gov.uk/nisr/2009/154/article/52/4) omitted (1.5.2013) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [29](https://www.legislation.gov.uk/nisr/2013/116/article/29) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))

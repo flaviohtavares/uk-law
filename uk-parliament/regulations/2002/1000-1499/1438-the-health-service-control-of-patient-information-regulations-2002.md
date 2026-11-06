@@ -51,8 +51,8 @@ Now, therefore, the Secretary of State for Health, in exercise of the powers con
 
 - “the Act” means the Health and Social Care Act 2001,
 - “public authority” has the same meaning as in section 3(1) of the Freedom of Information Act 2000 [^c9598121];
-- [^key-877b2a24fe45db49152671e19368cb53]...
-- “research ethics committee” means—[^key-f60d2e8e5b1e75ca5f7a84c4b50f93d6]
+- [^c-877b2a24fe45db49152671e19368cb53]...
+- “research ethics committee” means—[^c-f60d2e8e5b1e75ca5f7a84c4b50f93d6]
   - (a) a research ethics committee recognised or established by or on behalf of the Health Research Authority under the Care Act 2014, or
   - (b) any other group of persons which assesses the ethics of research involving individuals and which is recognised for that purpose by or on behalf of the Welsh Ministers.
 
@@ -112,7 +112,7 @@ Now, therefore, the Secretary of State for Health, in exercise of the powers con
 
 (3) The processing of confidential patient information for the purposes specified in paragraph (1) may be undertaken by—
 
-- (a)[^key-b7ba2f5001313ba2de693c30d5dc1b19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b7ba2f5001313ba2de693c30d5dc1b19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) persons employed or engaged for the purposes of the health service;
 - (c) other persons employed or engaged by a Government Department or other public authority in communicable disease surveillance.
 
@@ -124,31 +124,31 @@ Now, therefore, the Secretary of State for Health, in exercise of the powers con
 
 Anything done by a person that is necessary for the purpose of processing confidential patient information in accordance with these Regulations shall be taken to be lawfully done despite any obligation of confidence owed by that person in respect of it.
 
-## 5. Approval for processing information[^key-fcbef87ec6af7ab4ca7936b10b2150ce]
+## 5. Approval for processing information[^c-fcbef87ec6af7ab4ca7936b10b2150ce]
 
-(1)[^key-d76ab586a561b915e9d7873b8a815e9e] Subject to regulation 7, confidential patient information may be processed for medical purposes in the circumstances set out in the Schedule to these Regulations provided that the processing has been approved—
+(1)[^c-d76ab586a561b915e9d7873b8a815e9e] Subject to regulation 7, confidential patient information may be processed for medical purposes in the circumstances set out in the Schedule to these Regulations provided that the processing has been approved—
 
-- (a) in the case of medical research, by the Health Research Authority[^key-86fce47421006a220bf1523e9ec51f45], and
+- (a) in the case of medical research, by the Health Research Authority[^c-86fce47421006a220bf1523e9ec51f45], and
 - (b) in any other case, by the Secretary of State.
 
-(2)[^key-19eadd1906661651fc290c5f7f95916f] The Health Research Authority may not give an approval under paragraph (1)(a) unless a research ethics committee has approved the medical research concerned.
+(2)[^c-19eadd1906661651fc290c5f7f95916f] The Health Research Authority may not give an approval under paragraph (1)(a) unless a research ethics committee has approved the medical research concerned.
 
-(3)[^key-fb96a53627e3dc5c4e9f18c9767549ba] The Health Research Authority shall put in place and operate a system for reviewing decisions it makes under paragraph (1)(a).
+(3)[^c-fb96a53627e3dc5c4e9f18c9767549ba] The Health Research Authority shall put in place and operate a system for reviewing decisions it makes under paragraph (1)(a).
 
 ## 6. Registration
 
-(1) Where an approval granted by the Health Research Authority or[^key-4a0d4255a8a8686ee6881a2590257c74] the Secretary of State under regulation 5 permits the transfer of confidential patient information between persons who may determine the purposes for which, and the manner in which, the information may be processed, it or[^key-4c7925af4e1d6608ec90ba0783ccc867] he shall record in a register the name and address of each of those persons together with the particulars specified in paragraph (2).
+(1) Where an approval granted by the Health Research Authority or[^c-4a0d4255a8a8686ee6881a2590257c74] the Secretary of State under regulation 5 permits the transfer of confidential patient information between persons who may determine the purposes for which, and the manner in which, the information may be processed, it or[^c-4c7925af4e1d6608ec90ba0783ccc867] he shall record in a register the name and address of each of those persons together with the particulars specified in paragraph (2).
 
 (2) The following particulars are specified for inclusion in each entry in the register—
 
 - (a) a description of the confidential patient information to which the approval relates;
 - (b) the medical purposes for which the information may be processed;
 - (c) the provisions in the Schedule to these Regulations under which the information may be processed; and
-- (d) such other particulars as the Health Research Authority or (as the case may be)[^key-c2c8b2d38a9b69ff9f4d585e9333dd18] the Secretary of State may consider appropriate to enter in the register.
+- (d) such other particulars as the Health Research Authority or (as the case may be)[^c-c2c8b2d38a9b69ff9f4d585e9333dd18] the Secretary of State may consider appropriate to enter in the register.
 
-(3) The Health Research Authority shall retain the particulars of each entry it records in the register, and the Secretary of State shall retain the particulars of each entry he records in the register,[^key-947c5eaafdf2ab72225a6af06e733435] for so long as confidential patient information may be processed under an approval and for not less than 12 months after the termination of an approval.
+(3) The Health Research Authority shall retain the particulars of each entry it records in the register, and the Secretary of State shall retain the particulars of each entry he records in the register,[^c-947c5eaafdf2ab72225a6af06e733435] for so long as confidential patient information may be processed under an approval and for not less than 12 months after the termination of an approval.
 
-(4)[^key-fd160ad1b3506519e3728bb37c53d069] The Health Research Authority shall, in such manner and to such extent as it considers appropriate, publish entries it records in the register; and the Secretary of State shall, in such manner and to such extent as he considers appropriate, publish entries he records in the register.
+(4)[^c-fd160ad1b3506519e3728bb37c53d069] The Health Research Authority shall, in such manner and to such extent as it considers appropriate, publish entries it records in the register; and the Secretary of State shall, in such manner and to such extent as he considers appropriate, publish entries he records in the register.
 
 ## 7. Restrictions and exclusions
 
@@ -240,30 +240,30 @@ A Regulatory Impact Assessment has not been prepared for these Regulations. In g
 
 [^c9598121]: Marginal citation: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36).
 
-[^key-877b2a24fe45db49152671e19368cb53]: Textual amendment: Words in reg. 1(2) revoked (15.7.2005) by [The Health and Social Care (Community Health and Standards) Act 2003 (Public Health Laboratory Service Board) (Consequential Provisions) Order 2005 (S.I. 2005/1622)](https://www.legislation.gov.uk/uksi/2005/1622), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1622/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/1622/schedule)
+[^c-877b2a24fe45db49152671e19368cb53]: Textual amendment: Words in reg. 1(2) revoked (15.7.2005) by [The Health and Social Care (Community Health and Standards) Act 2003 (Public Health Laboratory Service Board) (Consequential Provisions) Order 2005 (S.I. 2005/1622)](https://www.legislation.gov.uk/uksi/2005/1622), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1622/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/1622/schedule)
 
-[^key-f60d2e8e5b1e75ca5f7a84c4b50f93d6]: Textual amendment: Words in reg. 1(2) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127](https://www.legislation.gov.uk/ukpga/2014/23/section/127), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2014/23/schedule/8/paragraph/3) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(n)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/n)
+[^c-f60d2e8e5b1e75ca5f7a84c4b50f93d6]: Textual amendment: Words in reg. 1(2) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [s. 127](https://www.legislation.gov.uk/ukpga/2014/23/section/127), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2014/23/schedule/8/paragraph/3) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(n)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/n)
 
-[^key-b7ba2f5001313ba2de693c30d5dc1b19]: Textual amendment: [Reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2002/1438/regulation/3/3/a) revoked (15.7.2005) by [The Health and Social Care (Community Health and Standards) Act 2003 (Public Health Laboratory Service Board) (Consequential Provisions) Order 2005 (S.I. 2005/1622)](https://www.legislation.gov.uk/uksi/2005/1622), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1622/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/1622/schedule)
+[^c-b7ba2f5001313ba2de693c30d5dc1b19]: Textual amendment: [Reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2002/1438/regulation/3/3/a) revoked (15.7.2005) by [The Health and Social Care (Community Health and Standards) Act 2003 (Public Health Laboratory Service Board) (Consequential Provisions) Order 2005 (S.I. 2005/1622)](https://www.legislation.gov.uk/uksi/2005/1622), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/1622/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/1622/schedule)
 
-[^key-fcbef87ec6af7ab4ca7936b10b2150ce]: Textual amendment: Reg. 5 title substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(2)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/2), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
+[^c-fcbef87ec6af7ab4ca7936b10b2150ce]: Textual amendment: Reg. 5 title substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(2)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/2), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
 
-[^key-d76ab586a561b915e9d7873b8a815e9e]: Textual amendment: Reg. 5 renumbered as reg. 5(1) (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(2)(a)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/2/a), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
+[^c-d76ab586a561b915e9d7873b8a815e9e]: Textual amendment: Reg. 5 renumbered as reg. 5(1) (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(2)(a)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/2/a), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
 
-[^key-86fce47421006a220bf1523e9ec51f45]: Textual amendment: Words in reg. 5(1)(a) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(2)(b)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/2/b), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
+[^c-86fce47421006a220bf1523e9ec51f45]: Textual amendment: Words in reg. 5(1)(a) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(2)(b)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/2/b), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
 
-[^key-19eadd1906661651fc290c5f7f95916f]: Textual amendment: Reg. 5(2) inserted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/3), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
+[^c-19eadd1906661651fc290c5f7f95916f]: Textual amendment: Reg. 5(2) inserted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/3), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
 
-[^key-fb96a53627e3dc5c4e9f18c9767549ba]: Textual amendment: Reg. 5(3) inserted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(4)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/4), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
+[^c-fb96a53627e3dc5c4e9f18c9767549ba]: Textual amendment: Reg. 5(3) inserted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(4)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/4), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
 
-[^key-4a0d4255a8a8686ee6881a2590257c74]: Textual amendment: Words in reg. 6(1) inserted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(5)(a)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/5/a), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
+[^c-4a0d4255a8a8686ee6881a2590257c74]: Textual amendment: Words in reg. 6(1) inserted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(5)(a)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/5/a), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
 
-[^key-4c7925af4e1d6608ec90ba0783ccc867]: Textual amendment: Words in reg. 6(1) inserted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(5)(b)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/5/b), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
+[^c-4c7925af4e1d6608ec90ba0783ccc867]: Textual amendment: Words in reg. 6(1) inserted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(5)(b)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/5/b), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
 
-[^key-c2c8b2d38a9b69ff9f4d585e9333dd18]: Textual amendment: Words in reg. 6(2)(d) inserted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(6)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/6), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
+[^c-c2c8b2d38a9b69ff9f4d585e9333dd18]: Textual amendment: Words in reg. 6(2)(d) inserted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(6)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/6), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
 
-[^key-947c5eaafdf2ab72225a6af06e733435]: Textual amendment: Words in reg. 6(3) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(7)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/7), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
+[^c-947c5eaafdf2ab72225a6af06e733435]: Textual amendment: Words in reg. 6(3) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(7)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/7), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
 
-[^key-fd160ad1b3506519e3728bb37c53d069]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2002/1438/regulation/6/4) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(8)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/8), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
+[^c-fd160ad1b3506519e3728bb37c53d069]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2002/1438/regulation/6/4) substituted (1.1.2015) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 117(8)](https://www.legislation.gov.uk/ukpga/2014/23/section/117/8), [127](https://www.legislation.gov.uk/ukpga/2014/23/section/127) (with [s. 119(3)](https://www.legislation.gov.uk/ukpga/2014/23/section/119/3)); [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(i)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/i)
 
 [^c9598141]: Marginal citation: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.214A. Notice under section 279(2) that an investigation of the conduct and affairs of a bankrupt is unnecessary or concluded[^key-885cec51e98bc54fb39a081a27c1ee46]
+## 6.214A. Notice under section 279(2) that an investigation of the conduct and affairs of a bankrupt is unnecessary or concluded[^c-885cec51e98bc54fb39a081a27c1ee46]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The official receiver shall not file a notice under section 279(2) until the period allowed for creditors or a trustee to object under paragraph (2) has expired.
 
-(4)[^key-271a0f4b802415cf7797d5898c07d910] Where the official receiver receives no objection from either a creditor or a trustee he may file a notice under section 279(2) by sending to the court two copies of Form 6.82. The court shall endorse each copy with the date of filing and shall return one copy to the official receiver. The official receiver shall send a copy of the endorsed form to the bankrupt.
+(4)[^c-271a0f4b802415cf7797d5898c07d910] Where the official receiver receives no objection from either a creditor or a trustee he may file a notice under section 279(2) by sending to the court two copies of Form 6.82. The court shall endorse each copy with the date of filing and shall return one copy to the official receiver. The official receiver shall send a copy of the endorsed form to the bankrupt.
 
 (5) Where the official receiver receives an objection under this Rule and he rejects that objection, he shall not file the notice under section 279(2) until he has—
 
@@ -37,6 +37,6 @@ or an appeal under that Rule has been determined by the court.
 
 ## Annotations
 
-[^key-885cec51e98bc54fb39a081a27c1ee46]: Textual amendment: [Pt. 6 Ch. 21A](https://www.legislation.gov.uk/uksi/1986/1925/part/6/chapter/21A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/46) (with [rule 9(3)(c)](https://www.legislation.gov.uk/uksi/2003/1730/article/9/3/c))
+[^c-885cec51e98bc54fb39a081a27c1ee46]: Textual amendment: [Pt. 6 Ch. 21A](https://www.legislation.gov.uk/uksi/1986/1925/part/6/chapter/21A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/46) (with [rule 9(3)(c)](https://www.legislation.gov.uk/uksi/2003/1730/article/9/3/c))
 
-[^key-271a0f4b802415cf7797d5898c07d910]: Textual amendment: [Rule 6.214A(4)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.214A/4) substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [40](https://www.legislation.gov.uk/uksi/2004/584/article/40)
+[^c-271a0f4b802415cf7797d5898c07d910]: Textual amendment: [Rule 6.214A(4)](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.214A/4) substituted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [40](https://www.legislation.gov.uk/uksi/2004/584/article/40)

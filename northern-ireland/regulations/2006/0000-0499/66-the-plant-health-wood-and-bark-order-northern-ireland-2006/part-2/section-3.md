@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Application of Part 2[^key-770c96d0458b078c63e7fadb58affab3]
+## 3. Application of Part 2[^c-770c96d0458b078c63e7fadb58affab3]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-770c96d0458b078c63e7fadb58affab3]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2006/66/article/3) omitted (31.12.2020) by virtue of [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/820/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-770c96d0458b078c63e7fadb58affab3]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2006/66/article/3) omitted (31.12.2020) by virtue of [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/820/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

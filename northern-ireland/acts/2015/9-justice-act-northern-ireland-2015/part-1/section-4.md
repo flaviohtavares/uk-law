@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Lay magistrates[^key-02ed1da7aaf8774e98de1010ed98ad3e]
+## 4. Lay magistrates[^c-02ed1da7aaf8774e98de1010ed98ad3e]
 
 *Extent: N.I.*
 
@@ -31,14 +31,14 @@ summary: ''
 
 (4) A lay magistrate shall sit in courts in accordance with directions given by the Lord Chief Justice; and in giving such directions the Lord Chief Justice is to have regard to the desirability of a lay magistrate sitting in courts held in reasonable proximity to where the lay magistrate lives or works.
 
-(5)[^key-bda19f6939cfd5779febe2bfaada6037] A person may not be appointed to be a lay magistrate unless that person—
+(5)[^c-bda19f6939cfd5779febe2bfaada6037] A person may not be appointed to be a lay magistrate unless that person—
 
 - (a) has completed a course of training approved by the Lord Chief Justice after consultation with the Department, or
 - (b) has given an undertaking in writing to attend such a course of training.
 
 (6) It is a condition of the appointment of a person under subsection (5)(b) that the person will complete such a course of training within the period of one year beginning with the date of appointment or such longer period as the Lord Chief Justice may, after consulting the Department, allow.
 
-(7)[^key-d8655fc50ab152693905ca3274836c93] The Department may, after consultation with the Lord Chief Justice, by order make further provision about eligibility for appointment as a lay magistrate.
+(7)[^c-d8655fc50ab152693905ca3274836c93] The Department may, after consultation with the Lord Chief Justice, by order make further provision about eligibility for appointment as a lay magistrate.
 
 (8) The provision which may be made by an order under subsection (7) includes (in particular) provision that a person (“P”) may not be appointed to be a lay magistrate—
 
@@ -59,7 +59,7 @@ unless the Department, after consultation with the Lord Chief Justice, otherwise
 
 (10) An act by a person appointed to be a lay magistrate is not invalidated by reason only that that person is not a lay magistrate because that person was not eligible to be appointed.
 
-(11) A lay magistrate ceases to hold office on attaining the age of 75[^key-f79dd4f23c4f985f62f6dd34e8859e26] .
+(11) A lay magistrate ceases to hold office on attaining the age of 75[^c-f79dd4f23c4f985f62f6dd34e8859e26] .
 
 (12) An act by a person who has been a lay magistrate is not invalidated by reason only that that person has ceased to hold office under subsection (11).
 
@@ -69,10 +69,10 @@ unless the Department, after consultation with the Lord Chief Justice, otherwise
 
 ## Annotations
 
-[^key-02ed1da7aaf8774e98de1010ed98ad3e]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2015/9/section/4) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(d)](https://www.legislation.gov.uk/nisr/2016/387/article/2/d) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-02ed1da7aaf8774e98de1010ed98ad3e]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2015/9/section/4) in operation at 31.10.2016 by [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(d)](https://www.legislation.gov.uk/nisr/2016/387/article/2/d) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-bda19f6939cfd5779febe2bfaada6037]: Modification: [S. 4(5)](https://www.legislation.gov.uk/nia/2015/9/section/4/5) excluded (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 45(2)(a)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/45/2/a)
+[^c-bda19f6939cfd5779febe2bfaada6037]: Modification: [S. 4(5)](https://www.legislation.gov.uk/nia/2015/9/section/4/5) excluded (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 45(2)(a)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/45/2/a)
 
-[^key-d8655fc50ab152693905ca3274836c93]: Modification: [S. 4(7)](https://www.legislation.gov.uk/nia/2015/9/section/4/7) modified (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 45(2)(b)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/45/2/b)
+[^c-d8655fc50ab152693905ca3274836c93]: Modification: [S. 4(7)](https://www.legislation.gov.uk/nia/2015/9/section/4/7) modified (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 45(2)(b)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/45/2/b)
 
-[^key-f79dd4f23c4f985f62f6dd34e8859e26]: Textual amendment: Word in [s. 4(11)](https://www.legislation.gov.uk/nia/2015/9/section/4/11) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/41) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-f79dd4f23c4f985f62f6dd34e8859e26]: Textual amendment: Word in [s. 4(11)](https://www.legislation.gov.uk/nia/2015/9/section/4/11) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/41) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))

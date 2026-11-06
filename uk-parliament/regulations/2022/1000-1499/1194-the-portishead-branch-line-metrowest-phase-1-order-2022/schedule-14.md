@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 14 — Traffic Regulation[^key-cee228b505f67f8c768ab8f1c456e934]
+## SCHEDULE 14 — Traffic Regulation[^c-cee228b505f67f8c768ab8f1c456e934]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ In the district of North Somerset
 
 ## Annotations
 
-[^key-cee228b505f67f8c768ab8f1c456e934]: Commencement: Sch. 14 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-cee228b505f67f8c768ab8f1c456e934]: Commencement: Sch. 14 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

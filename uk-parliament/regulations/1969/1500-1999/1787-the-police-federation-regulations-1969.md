@@ -31,7 +31,7 @@ summary: ''
 
 POLICE
 
-The Police Federation Regulations 1969 (revoked)[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+The Police Federation Regulations 1969 (revoked)[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 Made
 
@@ -45,156 +45,156 @@ Coming into Operation
 
 1st January 1970
 
-[^key-b063cfd5c8c3fef71f8739c96574e5b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b063cfd5c8c3fef71f8739c96574e5b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — GENERAL[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+## PART I — GENERAL[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
-### 1. Citation, commencement and extent[^key-b063cfd5c8c3fef71f8739c96574e5b5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 1. Citation, commencement and extent[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Revocations and transitional provisions[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 2. Interpretation[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — ORGANISATION[^key-b063cfd5c8c3fef71f8739c96574e5b5]
-
-### 4. Membership of Police Federation and branches thereof[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 3. Revocations and transitional provisions[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Proceedings of branches[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+## PART II — ORGANISATION[^c-b063cfd5c8c3fef71f8739c96574e5b5]
+
+### 4. Membership of Police Federation and branches thereof[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Branch boards[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 5. Proceedings of branches[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Proceedings of branch boards[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 6. Branch boards[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Liaison committees[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 7. Proceedings of branch boards[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Central conferences[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 8. Liaison committees[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Proceedings of central conferences[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 9. Central conferences[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Conferences arrangements committee[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 10. Proceedings of central conferences[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Central committees[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 11. Conferences arrangements committee[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Proceedings of central committees[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 12. Central committees[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Women's regional conferences[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 13. Proceedings of central committees[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — FINANCIAL ARRANGEMENTS[^key-b063cfd5c8c3fef71f8739c96574e5b5]
-
-### 15. Emoluments etc. of secretary of Federation[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 14. Women's regional conferences[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Subscriptions etc[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+## PART III — FINANCIAL ARRANGEMENTS[^c-b063cfd5c8c3fef71f8739c96574e5b5]
+
+### 15. Emoluments etc. of secretary of Federation[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Expenses of joint central committee[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 16. Subscriptions etc[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Accounts[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 17. Expenses of joint central committee[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Use of Federation funds[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 18. Accounts[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Trustees of Federation property and funds[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### 19. Use of Federation funds[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b063cfd5c8c3fef71f8739c96574e5b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 20. Trustees of Federation property and funds[^c-b063cfd5c8c3fef71f8739c96574e5b5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b063cfd5c8c3fef71f8739c96574e5b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — REGULATIONS REVOKED[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+## SCHEDULE 1 — REGULATIONS REVOKED[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — PROCEEDINGS[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+## SCHEDULE 2 — PROCEEDINGS[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
-**1.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — ELECTIONS, ETC[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+## SCHEDULE 3 — ELECTIONS, ETC[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
-**1.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — DELEGATES TO CENTRAL CONFERENCES[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+## SCHEDULE 4 — DELEGATES TO CENTRAL CONFERENCES[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
-### PART I — MEN[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### PART I — MEN[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
-**1.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — WOMEN[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+### PART II — WOMEN[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
-**1.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b063cfd5c8c3fef71f8739c96574e5b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — REGIONS[^key-b063cfd5c8c3fef71f8739c96574e5b5]
+## SCHEDULE 5 — REGIONS[^c-b063cfd5c8c3fef71f8739c96574e5b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b063cfd5c8c3fef71f8739c96574e5b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b063cfd5c8c3fef71f8739c96574e5b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b063cfd5c8c3fef71f8739c96574e5b5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1969/1787) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))
+[^c-b063cfd5c8c3fef71f8739c96574e5b5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1969/1787) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

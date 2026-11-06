@@ -38,10 +38,10 @@ and in this Chapter such an interest is referred to as “**a qualifying interes
 
 (5) In this section “**the relevant date**”, in relation to an interest, means the date of service of a notice under section 101 in respect of it.
 
-(5A)[^key-b6043733259d99b1889d92dc2d895e4d] In the application of subsections (3)(a) and (4) in relation to land to which paragraph 17 or 18 of Schedule 14 applies, references to the Scottish Ministers are to be read as references to the Secretary of State.
+(5A)[^c-b6043733259d99b1889d92dc2d895e4d] In the application of subsections (3)(a) and (4) in relation to land to which paragraph 17 or 18 of Schedule 14 applies, references to the Scottish Ministers are to be read as references to the Secretary of State.
 
 (6) In this Chapter “**blight notice**” means a notice served under section 101.
 
 ## Annotations
 
-[^key-b6043733259d99b1889d92dc2d895e4d]: Textual amendment: S. 100(5A) inserted (6.4.2009 for specified purposes, 1.3.2010 in so far as not already in force) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 176(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/176/3), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a), S.I. 2010/101, art. 5 (with art. 6)
+[^c-b6043733259d99b1889d92dc2d895e4d]: Textual amendment: S. 100(5A) inserted (6.4.2009 for specified purposes, 1.3.2010 in so far as not already in force) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 176(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/176/3), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 4(a)](https://www.legislation.gov.uk/uksi/2009/400/article/4/a), S.I. 2010/101, art. 5 (with art. 6)

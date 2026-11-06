@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21A. Delayed payment of lump sum[^key-2498c6f2b3d362b7c6773e2e57e28f83]
+## 21A. Delayed payment of lump sum[^c-2498c6f2b3d362b7c6773e2e57e28f83]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
   - (i) Schedule 5 to the Contributions and Benefits Act (pension increase or lump sum where entitlement to retirement pension is deferred);
   - (ii) Schedule 5A to that Act (pension increase or lump sum where entitlement to shared additional pension is deferred); or
   - (iii) Schedule 1 to the Social Security (Graduated Retirement Benefit) Regulations 2005 (further provisions replacing section 36(4) of the National Insurance Act 1965: increases of graduated retirement benefit and lump sums);
-  - (iv)[^key-129747eb886590fe3560e46c8462b981] section 8 of the Pensions Act 2014 (choice of lump sum or survivor’s pension in certain cases); or
+  - (iv)[^c-129747eb886590fe3560e46c8462b981] section 8 of the Pensions Act 2014 (choice of lump sum or survivor’s pension in certain cases); or
   - (v) Regulations under section 10 of the Pensions Act 2014 (inheritance of graduated retirement benefit) which make provision corresponding or similar to section 8 of that Act;
 
   or
@@ -39,7 +39,7 @@ summary: ''
 - (a) paragraph A1 or 3C of Schedule 5 to the Contributions and Benefits Act;
 - (b) paragraph 1 of Schedule 5A to that Act;
 - (c) paragraph 12 or 17 of Schedule 1 to the Social Security (Graduated Retirement Benefit) Regulations 2005,
-- (d)[^key-caebfc78125f6a76a13ead011c12b614] section 8 of the Pensions Act 2014;
+- (d)[^c-caebfc78125f6a76a13ead011c12b614] section 8 of the Pensions Act 2014;
 - (e) Regulations under section 10 of the Pensions Act 2014 which make provision corresponding or similar to section 8 of that Act,
 
 or within a month of that day.
@@ -62,8 +62,8 @@ or within a month of that day.
 
 ## Annotations
 
-[^key-2498c6f2b3d362b7c6773e2e57e28f83]: Textual amendment: Reg. 21A inserted (6.4.2006) by [The Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2005/2677/regulation/8)
+[^c-2498c6f2b3d362b7c6773e2e57e28f83]: Textual amendment: Reg. 21A inserted (6.4.2006) by [The Social Security (Deferral of Retirement Pensions, Shared Additional Pension and Graduated Retirement Benefit) (Miscellaneous Provisions) Regulations 2005 (S.I. 2005/2677)](https://www.legislation.gov.uk/uksi/2005/2677), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2005/2677/regulation/8)
 
-[^key-129747eb886590fe3560e46c8462b981]: Textual amendment: [Reg. 21A(1)(a)(iv)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/21A/1/a/iv)[(v)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/21A/1/a/v) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [9(10)(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/9/10/a)
+[^c-129747eb886590fe3560e46c8462b981]: Textual amendment: [Reg. 21A(1)(a)(iv)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/21A/1/a/iv)[(v)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/21A/1/a/v) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [9(10)(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/9/10/a)
 
-[^key-caebfc78125f6a76a13ead011c12b614]: Textual amendment: [Reg. 21A(3)(d)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/21A/3/d)[(e)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/21A/3/e) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [9(10)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/9/10/b)
+[^c-caebfc78125f6a76a13ead011c12b614]: Textual amendment: [Reg. 21A(3)(d)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/21A/3/d)[(e)](https://www.legislation.gov.uk/uksi/1987/1968/regulation/21A/3/e) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [9(10)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/9/10/b)

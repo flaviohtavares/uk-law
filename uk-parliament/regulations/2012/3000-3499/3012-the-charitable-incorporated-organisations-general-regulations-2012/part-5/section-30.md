@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Time limit for claims arising from entry in register of members[^key-4acc3235bc903bd201e107ad1e75bd42]
+## 30. Time limit for claims arising from entry in register of members[^c-4acc3235bc903bd201e107ad1e75bd42]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ is not enforceable more than 10 years after the date on which the entry was made
 
 ## Annotations
 
-[^key-4acc3235bc903bd201e107ad1e75bd42]: Commencement: Reg. 30 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-4acc3235bc903bd201e107ad1e75bd42]: Commencement: Reg. 30 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

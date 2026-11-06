@@ -29,8 +29,8 @@ summary: ''
 
 (3) In the case of a prisoner with a need for remedial physical activity, appropriate facilities will be provided.
 
-(4)[^key-d0115dcfc28b0b6d01ec20424587ab0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d0115dcfc28b0b6d01ec20424587ab0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d0115dcfc28b0b6d01ec20424587ab0c]: Textual amendment: Rule 29(4) omitted (3.1.2006) by virtue of [The Prison (Amendment) (No. 2) Rules 2005 (S.I. 2005/3437)](https://www.legislation.gov.uk/uksi/2005/3437), [rule 1](https://www.legislation.gov.uk/uksi/2005/3437/rule/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2005/3437/schedule/1/paragraph/7)
+[^c-d0115dcfc28b0b6d01ec20424587ab0c]: Textual amendment: Rule 29(4) omitted (3.1.2006) by virtue of [The Prison (Amendment) (No. 2) Rules 2005 (S.I. 2005/3437)](https://www.legislation.gov.uk/uksi/2005/3437), [rule 1](https://www.legislation.gov.uk/uksi/2005/3437/rule/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2005/3437/schedule/1/paragraph/7)

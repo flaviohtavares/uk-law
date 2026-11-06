@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Power to override easements and other rights[^key-10809ca18e2a1d939e505b3335862d72]
+## 31. Power to override easements and other rights[^c-10809ca18e2a1d939e505b3335862d72]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ the liability is enforceable against the undertaker.
 
 ## Annotations
 
-[^key-10809ca18e2a1d939e505b3335862d72]: Commencement: Art. 31 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-10809ca18e2a1d939e505b3335862d72]: Commencement: Art. 31 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
 [^f00076]: Footnote: Section 10 was amended by section 4 of, and paragraph 13(2) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

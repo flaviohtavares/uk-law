@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Return and declaration of election expenses[^key-8699a763403bbea467ec8d099c0bda30]
+## 10. Return and declaration of election expenses[^c-8699a763403bbea467ec8d099c0bda30]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8699a763403bbea467ec8d099c0bda30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/400) revoked (1.7.2008) by [The Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741)](https://www.legislation.gov.uk/uksi/2008/1741), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1741/schedule/2)
+[^c-8699a763403bbea467ec8d099c0bda30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/400) revoked (1.7.2008) by [The Representation of the People (Northern Ireland) Regulations 2008 (S.I. 2008/1741)](https://www.legislation.gov.uk/uksi/2008/1741), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1741/schedule/2)

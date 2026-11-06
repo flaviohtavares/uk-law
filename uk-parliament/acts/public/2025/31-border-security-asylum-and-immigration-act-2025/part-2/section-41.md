@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Repeal of certain provisions of the Illegal Migration Act 2023[^key-40958f881eb33a43de07eb490b709dbb]
+## 41. Repeal of certain provisions of the Illegal Migration Act 2023[^c-40958f881eb33a43de07eb490b709dbb]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40958f881eb33a43de07eb490b709dbb]: Commencement: S. 41 in force at Royal Assent, see [s. 65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)
+[^c-40958f881eb33a43de07eb490b709dbb]: Commencement: S. 41 in force at Royal Assent, see [s. 65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Disposal of former new town assets[^key-df2dcb3e0202f4121d338bc78dc0b811]
+## 100. Disposal of former new town assets[^c-df2dcb3e0202f4121d338bc78dc0b811]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-df2dcb3e0202f4121d338bc78dc0b811]: Commencement: Reg. 100 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-df2dcb3e0202f4121d338bc78dc0b811]: Commencement: Reg. 100 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00092]: Footnote: [1981 c. 64](https://www.legislation.gov.uk/ukpga/1981/64).
 

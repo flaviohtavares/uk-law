@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Felling or lopping of trees[^key-2b1870f35a20a80241c4e40ea00e945a]
+## 40. Felling or lopping of trees[^c-2b1870f35a20a80241c4e40ea00e945a]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b1870f35a20a80241c4e40ea00e945a]: Commencement: Art. 40 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-2b1870f35a20a80241c4e40ea00e945a]: Commencement: Art. 40 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
 [^f00027]: Footnote: [S.I. 2012/605](https://www.legislation.gov.uk/uksi/2012/605).

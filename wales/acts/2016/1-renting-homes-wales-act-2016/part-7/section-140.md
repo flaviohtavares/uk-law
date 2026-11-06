@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Forced transfers[^key-abb9dae34215ab98a7aa05dd7f692f23]
+## 140. Forced transfers[^c-abb9dae34215ab98a7aa05dd7f692f23]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abb9dae34215ab98a7aa05dd7f692f23]: Commencement: [S. 140](https://www.legislation.gov.uk/anaw/2016/1/section/140) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-abb9dae34215ab98a7aa05dd7f692f23]: Commencement: [S. 140](https://www.legislation.gov.uk/anaw/2016/1/section/140) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-d637d28fa91bd475da75e17b22b7fcf0]
+## 1. Citation and commencement[^c-d637d28fa91bd475da75e17b22b7fcf0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the A47 Blofield to North Burlingham Development Cons
 
 ## Annotations
 
-[^key-d637d28fa91bd475da75e17b22b7fcf0]: Commencement: Art. 1 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-d637d28fa91bd475da75e17b22b7fcf0]: Commencement: Art. 1 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)

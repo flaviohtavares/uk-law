@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The England Rural Development Programme (Enforcement) (Amendment) Regulations 2001 (revoked)[^key-eea1d906f3dfbd906dd8bf533fb82f76]
+The England Rural Development Programme (Enforcement) (Amendment) Regulations 2001 (revoked)[^c-eea1d906f3dfbd906dd8bf533fb82f76]
 
 Made
 
@@ -45,54 +45,54 @@ Coming into force
 
 19th March 2001
 
-[^key-eea1d906f3dfbd906dd8bf533fb82f76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eea1d906f3dfbd906dd8bf533fb82f76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-eea1d906f3dfbd906dd8bf533fb82f76]
+## 1. Title and commencement[^c-eea1d906f3dfbd906dd8bf533fb82f76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-eea1d906f3dfbd906dd8bf533fb82f76]
+## 2. Interpretation[^c-eea1d906f3dfbd906dd8bf533fb82f76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-eea1d906f3dfbd906dd8bf533fb82f76]
+## 3. Amendment of the principal Regulations[^c-eea1d906f3dfbd906dd8bf533fb82f76]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eea1d906f3dfbd906dd8bf533fb82f76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eea1d906f3dfbd906dd8bf533fb82f76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-eea1d906f3dfbd906dd8bf533fb82f76]
+## SCHEDULE[^c-eea1d906f3dfbd906dd8bf533fb82f76]
 
 regulation 3(h)
 
-> **SCHEDULE — RELEVANT ENACTMENTS[^key-eea1d906f3dfbd906dd8bf533fb82f76]**
+> **SCHEDULE — RELEVANT ENACTMENTS[^c-eea1d906f3dfbd906dd8bf533fb82f76]**
 >
 > regulation 2(1)
 >
-> **PART I[^key-eea1d906f3dfbd906dd8bf533fb82f76]**
+> **PART I[^c-eea1d906f3dfbd906dd8bf533fb82f76]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART II[^key-eea1d906f3dfbd906dd8bf533fb82f76]**
+> **PART II[^c-eea1d906f3dfbd906dd8bf533fb82f76]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART III[^key-eea1d906f3dfbd906dd8bf533fb82f76]**
+> **PART III[^c-eea1d906f3dfbd906dd8bf533fb82f76]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART IV[^key-eea1d906f3dfbd906dd8bf533fb82f76]**
+> **PART IV[^c-eea1d906f3dfbd906dd8bf533fb82f76]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-eea1d906f3dfbd906dd8bf533fb82f76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eea1d906f3dfbd906dd8bf533fb82f76]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eea1d906f3dfbd906dd8bf533fb82f76]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), reg. 1(1), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35(2)-(10)](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35/2))
+[^c-eea1d906f3dfbd906dd8bf533fb82f76]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), reg. 1(1), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5) (with [reg. 35(2)-(10)](https://www.legislation.gov.uk/uksi/2014/3263/regulation/35/2))

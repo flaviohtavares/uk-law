@@ -32,7 +32,7 @@ summary: ''
 - (h) article 16(4);
 - (i) article 18(6) and (7);
 - (j) article 25;
-- (k)[^key-52c09cc3427be38fbf33522a48210604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-52c09cc3427be38fbf33522a48210604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (l) article 49; and
 - (m) Schedule 1.
 
@@ -44,6 +44,6 @@ summary: ''
 
 [^c12250421]: Marginal citation: [2001 c. 6](https://www.legislation.gov.uk/ukpga/2001/6).
 
-[^key-52c09cc3427be38fbf33522a48210604]: Textual amendment: Art. 52(1)(k) omitted (1.10.2023 except in relation to W., 1.7.2026 for W.) by virtue of [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c), [Sch. 5 para. 90(3)](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/90/3); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(n)(xxxvi)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/n/xxxvi) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/993/regulation/3)); [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(x)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/x)
+[^c-52c09cc3427be38fbf33522a48210604]: Textual amendment: Art. 52(1)(k) omitted (1.10.2023 except in relation to W., 1.7.2026 for W.) by virtue of [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c), [Sch. 5 para. 90(3)](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/90/3); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(n)(xxxvi)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/n/xxxvi) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/993/regulation/3)); [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(x)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/x)
 
 [^c12250431]: Marginal citation: See section 4(4) of the Regulatory Reform Act 2001.

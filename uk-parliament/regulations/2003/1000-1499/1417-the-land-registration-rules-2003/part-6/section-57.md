@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Duty to disclose unregistered interests that override registered dispositions[^key-294657fece4ee00fb4295b661862712d]
+## 57. Duty to disclose unregistered interests that override registered dispositions[^c-294657fece4ee00fb4295b661862712d]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ in Form DI.
 
 ## Annotations
 
-[^key-294657fece4ee00fb4295b661862712d]: Modification: Rule 57 excluded (4.8.2008) by [The Land Registration (Electronic Conveyancing) Rules 2008 (S.I. 2008/1750)](https://www.legislation.gov.uk/uksi/2008/1750), [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1), [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/1750/schedule/2/part/2/paragraph/2)
+[^c-294657fece4ee00fb4295b661862712d]: Modification: Rule 57 excluded (4.8.2008) by [The Land Registration (Electronic Conveyancing) Rules 2008 (S.I. 2008/1750)](https://www.legislation.gov.uk/uksi/2008/1750), [rule 1](https://www.legislation.gov.uk/uksi/2008/1750/rule/1), [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/1750/schedule/2/part/2/paragraph/2)

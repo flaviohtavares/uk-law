@@ -46,11 +46,11 @@ In accordance with section 96(2) of that Act, a draft of these Regulations has b
 
 In accordance with section 97(2) of that Act, the Scottish Ministers have informed the Scottish Commission on Social Security of their proposals, notified the Scottish Parliament that they have done so and made their proposals publicly available by such means as they consider appropriate.
 
-## 1. Citation and commencement[^key-b33b0f784c72c9d15bb989ca16546ad9]
+## 1. Citation and commencement[^c-b33b0f784c72c9d15bb989ca16546ad9]
 
 These Regulations may be cited as the Winter Heating Assistance (Low Income) (Scotland) Regulations 2023 and come into force on the day after the day on which they are made.
 
-## 2. Interpretation[^key-ea4eff04fcd3dd192a266bb12636bd2f]
+## 2. Interpretation[^c-ea4eff04fcd3dd192a266bb12636bd2f]
 
 In these Regulations—
 
@@ -66,7 +66,7 @@ In these Regulations—
 - “**qualifying week**” means the week running from the first Monday in November in any year, and
 - “**winter heating payment**” means winter heating assistance given in accordance with these Regulations.
 
-## 3. Overview[^key-3ae3d51ef4dd65bf0c9c59ce95cc9b51]
+## 3. Overview[^c-3ae3d51ef4dd65bf0c9c59ce95cc9b51]
 
 (1) Regulation 4 makes provision in respect of eligibility rules for determining entitlement to winter heating payment.
 
@@ -74,7 +74,7 @@ In these Regulations—
 
 (3) Regulations 9 and 10 make provision about the winter heating payment that is to be given to individuals who are eligible for assistance.
 
-## 4. Eligibility rules for winter heating payment[^key-465fe9dd2852b803defa59a669fbd666]
+## 4. Eligibility rules for winter heating payment[^c-465fe9dd2852b803defa59a669fbd666]
 
 (1) An individual is entitled to be paid winter heating payment if the individual satisfies, in respect of a qualifying week, the conditions specified in paragraphs (2) to (4).
 
@@ -95,7 +95,7 @@ In these Regulations—
 - (a) the individual’s family includes a member aged younger than 5 years old,
 - (b) where the individual has been awarded income support, the individual’s applicable amount includes one or more of the premiums specified in paragraphs 9 to 14 of Part 3 (premiums) of schedule 2 of the Income Support (General) Regulations 1987[^f00008],
 - (c) where the individual has been awarded income-based jobseeker’s allowance, the individual’s applicable amount includes one or more of the premiums specified in paragraphs 10 to 16 of Part 3 (premiums) of schedule 1 of the Jobseeker’s Allowance Regulations 1996[^f00009],
-- (d)[^key-bdfb3a331241993a3c6ea26acb1ef392] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-bdfb3a331241993a3c6ea26acb1ef392] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) where the individual has been awarded income-related employment and support allowance—
   - (i) the individual’s applicable amount includes one or more of the premiums specified in paragraphs 5 to 7 of Part 2 (premiums) of schedule 4 of the Employment and Support Allowance Regulations 2008[^f00011], or
   - (ii) the individual is a member of the work-related activity group or is a member of the support group,
@@ -125,11 +125,11 @@ In these Regulations—
 - (i) “treated as entitled to” a benefit, in respect of a person, has the meaning given in regulation 2(2)(aa) of the Loans for Mortgage Interest Regulations 2017[^f00020],
 - (j) “**universal credit**” means universal credit under Part 1 of the 2012 Act.
 
-## 5. Determination of entitlement to winter heating payment without application[^key-ac5a743734ab63ac2e18475a58955012]
+## 5. Determination of entitlement to winter heating payment without application[^c-ac5a743734ab63ac2e18475a58955012]
 
 The Scottish Ministers must, without receiving an application, make a determination of an individual’s entitlement to winter heating payment under section 30 of the 2018 Act where it appears to the Scottish Ministers from information available to them that the individual is likely to meet the eligibility rules in regulation 4.
 
-## 6. Determination following official error – underpayments[^key-f7406a99aa474690c265833e947cf983]
+## 6. Determination following official error – underpayments[^c-f7406a99aa474690c265833e947cf983]
 
 (1) The Scottish Ministers must make a determination of an individual’s entitlement to winter heating payment, without receiving an application, where—
 
@@ -138,7 +138,7 @@ The Scottish Ministers must, without receiving an application, make a determinat
 
 (2) In this regulation, “**official error**” means an error made by someone acting on behalf of the Scottish Ministers or on behalf of a Minister of the Crown that was not materially contributed to by anyone else.
 
-## 7. Determination following error – overpayments[^key-c006f6e9a85705669290433966fe52c5]
+## 7. Determination following error – overpayments[^c-c006f6e9a85705669290433966fe52c5]
 
 (1) The Scottish Ministers must make a determination of an individual’s entitlement to winter heating payment, without receiving an application, where—
 
@@ -154,7 +154,7 @@ The Scottish Ministers must, without receiving an application, make a determinat
     - (bb) an assumption which proves to be wrong, or
 - (b) a new determination not being made after an assumption on the basis of which an earlier determination was made has proved to be wrong.
 
-## 8. Periods for re-determination requests[^key-eaaa7cef25bf93cb603331c42da65eb6]
+## 8. Periods for re-determination requests[^c-eaaa7cef25bf93cb603331c42da65eb6]
 
 (1) The period for requesting a re-determination of entitlement to winter heating payment under section 41 (right to request a re-determination) of the 2018 Act is 31 days beginning with the day that the individual is informed, in accordance with section 40 (notice of determination) of that Act, of the right to make the request.
 
@@ -170,13 +170,13 @@ The Scottish Ministers must, without receiving an application, make a determinat
 - (b) a Sunday, or
 - (c) a bank holiday in Scotland under the Banking and Financial Dealings Act 1971[^f00021].
 
-## 9. Value and form of winter heating payment[^key-4938ebd400b74bacb257e5e3a0584376]
+## 9. Value and form of winter heating payment[^c-4938ebd400b74bacb257e5e3a0584376]
 
-(1) The value of winter heating payment is £62.00[^key-a6be441c38b20d086c4b8d193f1ff486].
+(1) The value of winter heating payment is £62.00[^c-a6be441c38b20d086c4b8d193f1ff486].
 
 (2) Winter heating payment is to be given in the form of money in a single payment made in respect of the winter following the qualifying week.
 
-## 10. Making payments[^key-a043a3af8c20dc6141cd670a65d3d299]
+## 10. Making payments[^c-a043a3af8c20dc6141cd670a65d3d299]
 
 (1) Where winter heating payment is payable in respect of an individual, the Scottish Ministers may, where they consider it appropriate, make the payment to another person to be used for the benefit of the individual.
 
@@ -202,9 +202,9 @@ These Regulations make provision about payments of winter heating payment to cer
 
 [^f00001]: Footnote: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9) (“**the 2018 Act**”). Schedule 4 of the 2018 Act makes provision about the exercise of powers under section 30. The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). The Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-b33b0f784c72c9d15bb989ca16546ad9]: Commencement: Reg. 1 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
+[^c-b33b0f784c72c9d15bb989ca16546ad9]: Commencement: Reg. 1 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
 
-[^key-ea4eff04fcd3dd192a266bb12636bd2f]: Commencement: Reg. 2 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
+[^c-ea4eff04fcd3dd192a266bb12636bd2f]: Commencement: Reg. 2 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
 
 [^f00002]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
@@ -218,15 +218,15 @@ These Regulations make provision about payments of winter heating payment to cer
 
 [^f00007]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-3ae3d51ef4dd65bf0c9c59ce95cc9b51]: Commencement: Reg. 3 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
+[^c-3ae3d51ef4dd65bf0c9c59ce95cc9b51]: Commencement: Reg. 3 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
 
-[^key-465fe9dd2852b803defa59a669fbd666]: Commencement: Reg. 4 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
+[^c-465fe9dd2852b803defa59a669fbd666]: Commencement: Reg. 4 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
 
 [^f00008]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663), [S.I. 1989/1678](https://www.legislation.gov.uk/uksi/1989/1678), [S.I. 1991/2742](https://www.legislation.gov.uk/uksi/1991/2742), [S.I. 1993/1150](https://www.legislation.gov.uk/uksi/1993/1150), [S.I. 1993/2119](https://www.legislation.gov.uk/uksi/1993/2119), [S.I. 1994/2139](https://www.legislation.gov.uk/uksi/1994/2139), [S.I. 1994/3061](https://www.legislation.gov.uk/uksi/1994/3061), [S.I. 1995/482](https://www.legislation.gov.uk/uksi/1995/482), [S.I. 1998/2231](https://www.legislation.gov.uk/uksi/1998/2231), [S.I. 2000/681](https://www.legislation.gov.uk/uksi/2000/681), [S.I. 2000/724](https://www.legislation.gov.uk/uksi/2000/724), [S.I. 2000/2629](https://www.legislation.gov.uk/uksi/2000/2629), [S.I. 2002/490](https://www.legislation.gov.uk/uksi/2002/490), [S.I. 2002/2497](https://www.legislation.gov.uk/uksi/2002/2497), [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019), [S.I. 2003/455](https://www.legislation.gov.uk/uksi/2003/455), [S.I. 2003/1589](https://www.legislation.gov.uk/uksi/2003/1589), [S.I. 2003/2379](https://www.legislation.gov.uk/uksi/2003/2379), [S.I. 2004/1141](https://www.legislation.gov.uk/uksi/2004/1141), [S.I. 2006/2378](https://www.legislation.gov.uk/uksi/2006/2378), [S.I. 2007/719](https://www.legislation.gov.uk/uksi/2007/719), [S.I. 2009/1488](https://www.legislation.gov.uk/uksi/2009/1488), [S.I. 2010/1160](https://www.legislation.gov.uk/uksi/2010/1160), [S.I. 2010/1907](https://www.legislation.gov.uk/uksi/2010/1907), [S.I. 2011/674](https://www.legislation.gov.uk/uksi/2011/674), [S.I. 2011/2425](https://www.legislation.gov.uk/uksi/2011/2425), [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), [S.I. 2013/591](https://www.legislation.gov.uk/uksi/2013/591), [S.I. 2014/591](https://www.legislation.gov.uk/uksi/2014/591), [S.I. 2014/2888](https://www.legislation.gov.uk/uksi/2014/2888), [S.I. 2015/1754](https://www.legislation.gov.uk/uksi/2015/1754), [S.I. 2015/1985](https://www.legislation.gov.uk/uksi/2015/1985), [S.I. 2021/786](https://www.legislation.gov.uk/uksi/2021/786), [S.I. 2022/177](https://www.legislation.gov.uk/uksi/2022/177), and [S.I. 2022/530](https://www.legislation.gov.uk/uksi/2022/530).
 
 [^f00009]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207); relevantly amended by [S.I. 1996/1516](https://www.legislation.gov.uk/uksi/1996/1516), [S.I. 1996/2538](https://www.legislation.gov.uk/uksi/1996/2538), [S.I. 1998/2231](https://www.legislation.gov.uk/uksi/1998/2231), [S.I. 2000/681](https://www.legislation.gov.uk/uksi/2000/681), [S.I. 2000/724](https://www.legislation.gov.uk/uksi/2000/724), [S.I. 2000/2629](https://www.legislation.gov.uk/uksi/2000/2629), [S.I. 2002/490](https://www.legislation.gov.uk/uksi/2002/490), [S.I. 2003/455](https://www.legislation.gov.uk/uksi/2003/455), [S.I. 2003/511](https://www.legislation.gov.uk/uksi/2003/511), [S.I. 2006/2378](https://www.legislation.gov.uk/uksi/2006/2378), [S.I. 2007/719](https://www.legislation.gov.uk/uksi/2007/719), [S.I. 2009/1488](https://www.legislation.gov.uk/uksi/2009/1488), [S.I. 2010/1160](https://www.legislation.gov.uk/uksi/2010/1160), [S.I. 2011/674](https://www.legislation.gov.uk/uksi/2011/674), [S.I. 2011/2425](https://www.legislation.gov.uk/uksi/2011/2425), [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), [S.I. 2013/591](https://www.legislation.gov.uk/uksi/2013/591), [S.I. 2014/2888](https://www.legislation.gov.uk/uksi/2014/2888), [S.I. 2015/1754](https://www.legislation.gov.uk/uksi/2015/1754), [S.I. 2018/1129](https://www.legislation.gov.uk/uksi/2018/1129), [S.I. 2021/786](https://www.legislation.gov.uk/uksi/2021/786), and [S.I. 2022/177](https://www.legislation.gov.uk/uksi/2022/177).
 
-[^key-bdfb3a331241993a3c6ea26acb1ef392]: Textual amendment: [Reg. 4(3)(d)](https://www.legislation.gov.uk/ssi/2023/16/regulation/4/3/d) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2025/195/regulation/8/2)
+[^c-bdfb3a331241993a3c6ea26acb1ef392]: Textual amendment: [Reg. 4(3)(d)](https://www.legislation.gov.uk/ssi/2023/16/regulation/4/3/d) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2025/195/regulation/8/2)
 
 [^f00011]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794); relevantly amended by [S.I. 2010/1160](https://www.legislation.gov.uk/uksi/2010/1160), [S.I. 2011/2425](https://www.legislation.gov.uk/uksi/2011/2425), [S.I. 2011/2428](https://www.legislation.gov.uk/uksi/2011/2428), [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), [S.I. 2013/591](https://www.legislation.gov.uk/uksi/2013/591), [S.I. 2015/1754](https://www.legislation.gov.uk/uksi/2015/1754), and [S.I. 2022/177](https://www.legislation.gov.uk/uksi/2022/177).
 
@@ -248,18 +248,18 @@ These Regulations make provision about payments of winter heating payment to cer
 
 [^f00020]: Footnote: [S.I. 2017/725](https://www.legislation.gov.uk/uksi/2017/725); relevantly amended by [S.I. 2018/307](https://www.legislation.gov.uk/uksi/2018/307).
 
-[^key-ac5a743734ab63ac2e18475a58955012]: Commencement: Reg. 5 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
+[^c-ac5a743734ab63ac2e18475a58955012]: Commencement: Reg. 5 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
 
-[^key-f7406a99aa474690c265833e947cf983]: Commencement: Reg. 6 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
+[^c-f7406a99aa474690c265833e947cf983]: Commencement: Reg. 6 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
 
-[^key-c006f6e9a85705669290433966fe52c5]: Commencement: Reg. 7 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
+[^c-c006f6e9a85705669290433966fe52c5]: Commencement: Reg. 7 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
 
-[^key-eaaa7cef25bf93cb603331c42da65eb6]: Commencement: Reg. 8 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
+[^c-eaaa7cef25bf93cb603331c42da65eb6]: Commencement: Reg. 8 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
 
 [^f00021]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-4938ebd400b74bacb257e5e3a0584376]: Commencement: Reg. 9 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
+[^c-4938ebd400b74bacb257e5e3a0584376]: Commencement: Reg. 9 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
 
-[^key-a6be441c38b20d086c4b8d193f1ff486]: Textual amendment: Sum in reg. 9(1) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [11](https://www.legislation.gov.uk/ssi/2026/170/regulation/11) (with [sch. para. 9](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/9))
+[^c-a6be441c38b20d086c4b8d193f1ff486]: Textual amendment: Sum in reg. 9(1) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [11](https://www.legislation.gov.uk/ssi/2026/170/regulation/11) (with [sch. para. 9](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/9))
 
-[^key-a043a3af8c20dc6141cd670a65d3d299]: Commencement: Reg. 10 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)
+[^c-a043a3af8c20dc6141cd670a65d3d299]: Commencement: Reg. 10 in force at 25.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/16/regulation/1)

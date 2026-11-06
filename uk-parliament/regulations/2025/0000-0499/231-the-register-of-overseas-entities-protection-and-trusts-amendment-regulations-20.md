@@ -48,7 +48,7 @@ The Secretary of State has consulted the Department of Finance in Northern Irela
 
 ## Part 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-1ba461d1ab1e72319aadcd1d211b84c3]
+### 1. Citation, commencement and extent[^c-1ba461d1ab1e72319aadcd1d211b84c3]
 
 (1) These Regulations may be cited as the Register of Overseas Entities (Protection and Trusts) (Amendment) Regulations 2025.
 
@@ -56,13 +56,13 @@ The Secretary of State has consulted the Department of Finance in Northern Irela
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-022f23517b2503aee4354f71a8855ed9]
+### 2. Interpretation[^c-022f23517b2503aee4354f71a8855ed9]
 
 In these Regulations, “**the ECTEA**” means the Economic Crime (Transparency and Enforcement) Act 2022.
 
 ## Part 2 — Protection
 
-### 3. Amendments to the Protection Regulations[^key-a324241b489d883a66a13ab2e9c55451]
+### 3. Amendments to the Protection Regulations[^c-a324241b489d883a66a13ab2e9c55451]
 
 (1) The Register of Overseas Entities (Delivery, Protection and Trust Services) Regulations 2022[^f00002] are amended as follows.
 
@@ -168,25 +168,25 @@ In these Regulations, “**the ECTEA**” means the Economic Crime (Transparency
 
 ## Part 3 — Trusts
 
-### 4. Access to trust information[^key-5c0c6c99921835daded380edb2285c5c]
+### 4. Access to trust information[^c-5c0c6c99921835daded380edb2285c5c]
 
-(1) The registrar may, on application, disclose relevant protected trusts information[^f00004] to any person, subject to paragraphs (2), (2A)[^key-b761c8bce46d98a18ef449ba497e0056] and (5).
+(1) The registrar may, on application, disclose relevant protected trusts information[^f00004] to any person, subject to paragraphs (2), (2A)[^c-b761c8bce46d98a18ef449ba497e0056] and (5).
 
-(2)[^key-95a4c1c1b4c1f9c8500e243fc9d2f88a] Where the application is for the disclosure of relevant protected trusts information which relates to—
+(2)[^c-95a4c1c1b4c1f9c8500e243fc9d2f88a] Where the application is for the disclosure of relevant protected trusts information which relates to—
 
 - (a) more than one overseas entity, or
 - (b) a person under eighteen years of age,
 
 the registrar may only disclose that information if the registrar is satisfied that the applicant has a legitimate interest in having such information disclosed to them.
 
-(2A)[^key-67de4dcfeafd9245aba8243f7aa22bcd] Where the application is for the disclosure of relevant protected trusts information only some of which relates to a person (“P”) under eighteen years of age, nothing in paragraph (2) prevents the disclosure of relevant protected trusts information which does not relate to P.
+(2A)[^c-67de4dcfeafd9245aba8243f7aa22bcd] Where the application is for the disclosure of relevant protected trusts information only some of which relates to a person (“P”) under eighteen years of age, nothing in paragraph (2) prevents the disclosure of relevant protected trusts information which does not relate to P.
 
 (3) The application must contain—
 
 - (a) the name, and any former name, of the applicant;
 - (b) contact details for the applicant including service address, email address and telephone number;
 - (c) if the applicant is making the application in the course of their employment, the applicant’s job title and the name and address of their employer;
-- (d)[^key-2999322137ab6cbf5f5db3e9f3df8c72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-2999322137ab6cbf5f5db3e9f3df8c72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the name and overseas entity ID, allocated in accordance with section 5 (registration and allocation of overseas entity ID) of the ECTEA, of the overseas entity whose registrable beneficial owner is acting as a trustee of any trust to which the relevant protected trusts information relates; and
 - (f) where paragraph (2) applies—
   - (i) evidence that the applicant is investigating money laundering, tax evasion, terrorist financing or breaching of sanctions imposed by regulations under the Sanctions and Anti-Money Laundering Act 2018[^f00006];
@@ -239,27 +239,27 @@ Part 3 allows for anyone to apply to the registrar for disclosure of trust infor
 
 [^f00001]: Footnote: [2022 c. 10](https://www.legislation.gov.uk/ukpga/2022/10). Sections 23 and 25 were substituted by sections 167 and 168 of the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56) respectively.
 
-[^key-1ba461d1ab1e72319aadcd1d211b84c3]: Commencement: Reg. 1 in force at 28.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2)
+[^c-1ba461d1ab1e72319aadcd1d211b84c3]: Commencement: Reg. 1 in force at 28.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2)
 
-[^key-022f23517b2503aee4354f71a8855ed9]: Commencement: Reg. 2 in force at 28.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2)
+[^c-022f23517b2503aee4354f71a8855ed9]: Commencement: Reg. 2 in force at 28.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2)
 
-[^key-a324241b489d883a66a13ab2e9c55451]: Commencement: Reg. 3 in force at 28.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2)
+[^c-a324241b489d883a66a13ab2e9c55451]: Commencement: Reg. 3 in force at 28.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2022/870](https://www.legislation.gov.uk/uksi/2022/870) which was amended by [S.I. 2023/534](https://www.legislation.gov.uk/uksi/2023/534).
 
 [^f00003]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-5c0c6c99921835daded380edb2285c5c]: Commencement: Reg. 4 in force at 31.8.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2)
+[^c-5c0c6c99921835daded380edb2285c5c]: Commencement: Reg. 4 in force at 31.8.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/231/regulation/1/2)
 
 [^f00004]: Footnote: For the meaning of “relevant protected trusts information”, see section 23(2) of the Economic Crime (Transparency and Enforcement) Act 2022, which was substituted by section 167 of the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-b761c8bce46d98a18ef449ba497e0056]: Textual amendment: Words in reg. 4(1) substituted (9.7.2026) by [The Register of Overseas Entities (Protection and Trusts) and Limited Liability Partnerships (Application of Company Law) (Amendment) Regulations 2026 (S.I. 2026/778)](https://www.legislation.gov.uk/uksi/2026/778), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/778/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/778/regulation/3/a)
+[^c-b761c8bce46d98a18ef449ba497e0056]: Textual amendment: Words in reg. 4(1) substituted (9.7.2026) by [The Register of Overseas Entities (Protection and Trusts) and Limited Liability Partnerships (Application of Company Law) (Amendment) Regulations 2026 (S.I. 2026/778)](https://www.legislation.gov.uk/uksi/2026/778), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/778/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/778/regulation/3/a)
 
-[^key-95a4c1c1b4c1f9c8500e243fc9d2f88a]: Textual amendment: Reg. 4(2) substituted (9.7.2026) by [The Register of Overseas Entities (Protection and Trusts) and Limited Liability Partnerships (Application of Company Law) (Amendment) Regulations 2026 (S.I. 2026/778)](https://www.legislation.gov.uk/uksi/2026/778), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/778/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/778/regulation/3/b)
+[^c-95a4c1c1b4c1f9c8500e243fc9d2f88a]: Textual amendment: Reg. 4(2) substituted (9.7.2026) by [The Register of Overseas Entities (Protection and Trusts) and Limited Liability Partnerships (Application of Company Law) (Amendment) Regulations 2026 (S.I. 2026/778)](https://www.legislation.gov.uk/uksi/2026/778), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/778/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/778/regulation/3/b)
 
-[^key-67de4dcfeafd9245aba8243f7aa22bcd]: Textual amendment: Reg. 4(2A) inserted (9.7.2026) by [The Register of Overseas Entities (Protection and Trusts) and Limited Liability Partnerships (Application of Company Law) (Amendment) Regulations 2026 (S.I. 2026/778)](https://www.legislation.gov.uk/uksi/2026/778), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/778/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2026/778/regulation/3/c)
+[^c-67de4dcfeafd9245aba8243f7aa22bcd]: Textual amendment: Reg. 4(2A) inserted (9.7.2026) by [The Register of Overseas Entities (Protection and Trusts) and Limited Liability Partnerships (Application of Company Law) (Amendment) Regulations 2026 (S.I. 2026/778)](https://www.legislation.gov.uk/uksi/2026/778), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/778/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2026/778/regulation/3/c)
 
-[^key-2999322137ab6cbf5f5db3e9f3df8c72]: Textual amendment: Reg. 4(3)(d) omitted (9.7.2026) by virtue of [The Register of Overseas Entities (Protection and Trusts) and Limited Liability Partnerships (Application of Company Law) (Amendment) Regulations 2026 (S.I. 2026/778)](https://www.legislation.gov.uk/uksi/2026/778), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/778/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2026/778/regulation/3/d)
+[^c-2999322137ab6cbf5f5db3e9f3df8c72]: Textual amendment: Reg. 4(3)(d) omitted (9.7.2026) by virtue of [The Register of Overseas Entities (Protection and Trusts) and Limited Liability Partnerships (Application of Company Law) (Amendment) Regulations 2026 (S.I. 2026/778)](https://www.legislation.gov.uk/uksi/2026/778), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/778/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2026/778/regulation/3/d)
 
 [^f00006]: Footnote: [2018 c. 13](https://www.legislation.gov.uk/ukpga/2018/13).
 

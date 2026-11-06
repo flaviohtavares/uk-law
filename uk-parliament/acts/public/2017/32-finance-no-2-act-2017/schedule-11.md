@@ -29,29 +29,29 @@ Section 34
 **1.** (1) A person (“P”) is treated as taking a relevant step for the purposes of Part 7A of ITEPA 2003 if—
 
 - (a) P has made a loan, or a quasi-loan, to a relevant person,
-- (b) the loan or quasi-loan was made on or after 9 December 2010[^key-7084e0016f6268aec6eafd69b50f9dce], and
+- (b) the loan or quasi-loan was made on or after 9 December 2010[^c-7084e0016f6268aec6eafd69b50f9dce], and
 - (c) an amount of the loan or quasi-loan is outstanding immediately before the end of 5 April 2019.
 
-(2) P is treated as taking the step immediately before the end of 5 April 2019.[^key-14a0ea16ed5c1912815ab7c60402adc0]
+(2) P is treated as taking the step immediately before the end of 5 April 2019.[^c-14a0ea16ed5c1912815ab7c60402adc0]
 
-(3) Where P is treated by this paragraph as taking a relevant step, references to “the relevant step” in sections 554A(1)(e)(i) and (ii) and 554AA(1)(h)(i) and (ii)[^key-453e61ec6251f8f76cd6f56ada526437] of ITEPA 2003 have effect as if they were references to the step of making the loan or, as the case may be, quasi-loan.
+(3) Where P is treated by this paragraph as taking a relevant step, references to “the relevant step” in sections 554A(1)(e)(i) and (ii) and 554AA(1)(h)(i) and (ii)[^c-453e61ec6251f8f76cd6f56ada526437] of ITEPA 2003 have effect as if they were references to the step of making the loan or, as the case may be, quasi-loan.
 
 (4) For the purposes of section 554Z3(1) of ITEPA 2003 (value of relevant step), the step is to be treated as involving a sum of money equal to the amount of the loan or quasi-loan that is outstanding at the time P is treated as taking the step.
 
 (5) Subsections (2) and (3) of section 554C of ITEPA 2003 (“relevant person”) apply for the purposes of this Schedule as they apply for the purposes of that section.
 
-(6) Sub-paragraphs (1) and (2) are[^key-4f7e1418d14e52e5dd15e0b5f3b5012f] subject to paragraphs 23 and 24 (accelerated payments) and paragraph 36A (double taxation: close companies)[^key-3659d423045db264c82d279ad9564661].
+(6) Sub-paragraphs (1) and (2) are[^c-4f7e1418d14e52e5dd15e0b5f3b5012f] subject to paragraphs 23 and 24 (accelerated payments) and paragraph 36A (double taxation: close companies)[^c-3659d423045db264c82d279ad9564661].
 
-(6A)[^key-5d16dabb14bb2a65e8270a8f32e0b922] Sub-paragraph (4) is subject to paragraph 1A(5).
+(6A)[^c-5d16dabb14bb2a65e8270a8f32e0b922] Sub-paragraph (4) is subject to paragraph 1A(5).
 
-(7) For the purposes of this paragraph and paragraph 1A[^key-9263d5f954e24e15056b6accd3bfbfef], whether an amount of a loan or quasi-loan is outstanding at a particular time—
+(7) For the purposes of this paragraph and paragraph 1A[^c-9263d5f954e24e15056b6accd3bfbfef], whether an amount of a loan or quasi-loan is outstanding at a particular time—
 
-- (a) is to be determined in accordance with paragraphs 3 to 18[^key-96c47ea62e0cc7b416d798a17bbb9389], and
+- (a) is to be determined in accordance with paragraphs 3 to 18[^c-96c47ea62e0cc7b416d798a17bbb9389], and
 - (b) does not depend on the loan or quasi-loan subsisting at that time.
 
 (8) References in this Schedule and in Part 7A of ITEPA 2003 to a relevant step within paragraph 1 of this Schedule are to be read as references to a relevant step which a person is treated by this paragraph as taking.
 
-**1A.**[^key-ead50c6d24bf83e218a26ba67b32f8f8] (1) This paragraph applies where—
+**1A.**[^c-ead50c6d24bf83e218a26ba67b32f8f8] (1) This paragraph applies where—
 
 - (a) a person (“P”) is treated as taking a relevant step within paragraph 1 (“the initial step”) by reason of making a loan or quasi-loan, and
 - (b) an election has been made by A for the purposes of this paragraph.
@@ -81,7 +81,7 @@ Section 34
 
 (12) In sub-paragraph (11) “specified” means specified in the regulations.
 
-**1B.**[^key-12d9e8b00a92b5218c67be9353005699] (1) This paragraph applies where—
+**1B.**[^c-12d9e8b00a92b5218c67be9353005699] (1) This paragraph applies where—
 
 - (a) a person is treated as taking a relevant step within paragraph 1 by reason of making a loan or quasi-loan,
 - (b) a reasonable case could have been made that for a qualifying tax year (“the relevant year”) A was chargeable to income tax on an amount that was referable to the loan or quasi-loan,
@@ -121,14 +121,14 @@ Section 34
 
   and a qualifying tax return is of the same type as another if both fall within the same paragraph of this definition.
 
-#### Meaning of “loan” and “quasi loan”[^key-a300c087f1ca2fc6deee10f8dc825a93]
+#### Meaning of “loan” and “quasi loan”[^c-a300c087f1ca2fc6deee10f8dc825a93]
 
 **2.** (1) In this Part of this Schedule “**loan**” includes—
 
 - (a) any form of credit;
 - (b) a payment that is purported to be made by way of a loan.
 
-(2) For the purposes of paragraphs 1 and 1A[^key-b622df12a028f79f23b93413a1d61019], P makes a “quasi-loan” to a relevant person if (and when) P acquires a right (the “acquired debt”)—
+(2) For the purposes of paragraphs 1 and 1A[^c-b622df12a028f79f23b93413a1d61019], P makes a “quasi-loan” to a relevant person if (and when) P acquires a right (the “acquired debt”)—
 
 - (a) which is a right to a payment or a transfer of assets, and
 - (b) in respect of which the condition in sub-paragraph (3) is met.
@@ -138,15 +138,15 @@ Section 34
 - (a) a payment made, by way of a loan or otherwise, to the relevant person, or
 - (b) a transfer of assets to the relevant person.
 
-(4) Where a quasi-loan or a loan made by P to a relevant person is replaced, directly or indirectly, by a loan or another loan (the “replacement loan”), references in paragraphs 1 and 1A[^key-f07bf07489317ac9d9be2eda3e6857f3] to the loan are references to the replacement loan.
+(4) Where a quasi-loan or a loan made by P to a relevant person is replaced, directly or indirectly, by a loan or another loan (the “replacement loan”), references in paragraphs 1 and 1A[^c-f07bf07489317ac9d9be2eda3e6857f3] to the loan are references to the replacement loan.
 
-(5) Where a loan or a quasi-loan made by P to a relevant person is replaced, directly or indirectly, by a quasi-loan or another quasi-loan (the “replacement quasi-loan”), references in paragraphs 1 and 1A[^key-4c7f25810c5e3dae602960a1c119d668] to the quasi-loan are references to the replacement quasi-loan.
+(5) Where a loan or a quasi-loan made by P to a relevant person is replaced, directly or indirectly, by a quasi-loan or another quasi-loan (the “replacement quasi-loan”), references in paragraphs 1 and 1A[^c-4c7f25810c5e3dae602960a1c119d668] to the quasi-loan are references to the replacement quasi-loan.
 
-(6)[^key-877452f0a9ff87279645291dd0c0d53d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-877452f0a9ff87279645291dd0c0d53d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Meaning of “outstanding”: loans
 
-**3.** (1) An amount of a loan is “**outstanding**” for the purposes of paragraphs 1 and 1A[^key-80f9cd3be6f65472179d7294fd33deea] if the relevant principal amount exceeds the repayment amount.
+**3.** (1) An amount of a loan is “**outstanding**” for the purposes of paragraphs 1 and 1A[^c-80f9cd3be6f65472179d7294fd33deea] if the relevant principal amount exceeds the repayment amount.
 
 (2) In sub-paragraph (1) “**relevant principal amount**”, in relation to a loan, means the total of—
 
@@ -163,31 +163,31 @@ Section 34
 - (a) there is any connection (direct or indirect) between the payment and a tax avoidance arrangement (other than the arrangement under which the loan was made), or
 - (b) the payment, or a sum or asset directly or indirectly representing the payment, is the subject of a relevant step (as defined in section 554A(2) of ITEPA 2003) that is taken—
   - (i) after the payment is made, but
-  - (ii) before the end of 5 April 2019[^key-3a13dc4385cd6d3ce70dac1463935b88].
+  - (ii) before the end of 5 April 2019[^c-3a13dc4385cd6d3ce70dac1463935b88].
 
-(2) But a payment is not to be disregarded under sub-paragraph (1)(b) if, by the end of 5 April 2019[^key-362a2310a63a075a3de3d36a027e7eaa], each relevant tax liability has been paid in full.
+(2) But a payment is not to be disregarded under sub-paragraph (1)(b) if, by the end of 5 April 2019[^c-362a2310a63a075a3de3d36a027e7eaa], each relevant tax liability has been paid in full.
 
 (3) For the purposes of this paragraph, each of the following is a “relevant tax liability”—
 
 - (a) any liability for income tax arising by virtue of the application of Chapter 2 by reason of the relevant step mentioned in sub-paragraph (1)(b), and
 - (b) where section 554Z6 of ITEPA 2003 (overlap with certain earnings) applies because that relevant step gives rise to relevant earnings for the purposes of that section, any liability for income tax in respect of those relevant earnings.
 
-(4)[^key-2bde720fca8a848cf302cf625bb8c96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2bde720fca8a848cf302cf625bb8c96c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Sub-paragraph (6) applies if a payment is disregarded under sub-paragraph (1)(b).
 
-(6) The value of a relevant step treated as taken by paragraph 1 or 1A[^key-d5e4ed1680f3e6a5763259bfaf38e06c] is not reduced under section 554Z5(3) of ITEPA 2003 (overlap with money or asset subject to earlier tax liability) by the amount of the sum, or the value of the asset, which is the subject of the relevant step mentioned in sub-paragraph (1)(b) unless the payment condition is met by reason of section 554Z5(4)(a) and (b)(ii) being met.
+(6) The value of a relevant step treated as taken by paragraph 1 or 1A[^c-d5e4ed1680f3e6a5763259bfaf38e06c] is not reduced under section 554Z5(3) of ITEPA 2003 (overlap with money or asset subject to earlier tax liability) by the amount of the sum, or the value of the asset, which is the subject of the relevant step mentioned in sub-paragraph (1)(b) unless the payment condition is met by reason of section 554Z5(4)(a) and (b)(ii) being met.
 
 **5.** (1) This paragraph applies where—
 
 - (a) a person (“P”) has made a loan to a relevant person,
-- (b) the loan was made on or after 9 December 2010[^key-78c5096776ababbd46437356c7c38ab0], and
+- (b) the loan was made on or after 9 December 2010[^c-78c5096776ababbd46437356c7c38ab0], and
 - (c) before the end of 5 April 2019, A or B acquires (whether or not for consideration) a right to payment of the whole or part of the loan.
 
 (2) The amount of the loan in respect of which A or B acquires a right to payment is to be treated—
 
 - (a) for the purposes of paragraph 1(1) as an amount, of the loan made by P to the relevant person, that is outstanding immediately before the end of 5 April 2019;
-- (b) for the purposes of paragraphs 1(4) and 1A(5)[^key-2d6be23047df941b5c7a5acda34d647d] and section 554Z3(1) of ITEPA 2003, as an amount of the loan that is outstanding at the time P is treated as taking the relevant step under paragraph 1(1).
+- (b) for the purposes of paragraphs 1(4) and 1A(5)[^c-2d6be23047df941b5c7a5acda34d647d] and section 554Z3(1) of ITEPA 2003, as an amount of the loan that is outstanding at the time P is treated as taking the relevant step under paragraph 1(1).
 
 (3) Where a quasi-loan or a loan made by P to a relevant person is replaced, directly or indirectly, by a loan or another loan (the “replacement loan”), references in sub-paragraphs (1) and (2) to the loan are references to the replacement loan.
 
@@ -201,7 +201,7 @@ Section 34
 
 (2) But this paragraph does not apply if paragraph 10 applies in relation to the loan.
 
-(3) The amount of the loan that is outstanding, at the time P is treated as taking the relevant step within paragraph 1[^key-f69914a815d1d60064ec592bfd1c4c31], is to be calculated in sterling as follows—
+(3) The amount of the loan that is outstanding, at the time P is treated as taking the relevant step within paragraph 1[^c-f69914a815d1d60064ec592bfd1c4c31], is to be calculated in sterling as follows—
 
 - *Step 1* Calculate, in the loan currency, the amount that is outstanding at that time.
 - *Step 2* Take the value in sterling, at that time, of that amount.
@@ -234,7 +234,7 @@ Section 34
 **10.** (1) Where this paragraph applies in relation to a loan—
 
 - (a) paragraphs 7 and 8 do not apply in relation to the loan, and
-- (b) sub-paragraphs (2) to (5) apply for the purposes of calculating the amount of the loan that is outstanding at the time P is treated as taking the relevant step within paragraph 1[^key-d7d28efe7974eef2af43a9b20119fabe].
+- (b) sub-paragraphs (2) to (5) apply for the purposes of calculating the amount of the loan that is outstanding at the time P is treated as taking the relevant step within paragraph 1[^c-d7d28efe7974eef2af43a9b20119fabe].
 
 (2) The relevant principal amount, in relation to the loan, is an amount equal to the total of—
 
@@ -255,7 +255,7 @@ Section 34
 
 #### Meaning of “outstanding”: quasi-loans
 
-**11.** (1) An amount of a quasi-loan is outstanding for the purposes of paragraphs 1 and 1A[^key-6862bb5ab1366a05772d717d824aa2f5] if the initial debt amount exceeds the repayment amount.
+**11.** (1) An amount of a quasi-loan is outstanding for the purposes of paragraphs 1 and 1A[^c-6862bb5ab1366a05772d717d824aa2f5] if the initial debt amount exceeds the repayment amount.
 
 (2) In sub-paragraph (1) “**initial debt amount**”, in relation to a quasi-loan, means the total of—
 
@@ -292,18 +292,18 @@ Section 34
 
 (4) Sub-paragraph (5) applies if a payment is disregarded under sub-paragraph (1)(b).
 
-(5) The value of a relevant step treated as taken by paragraph 1 or 1A[^key-02b33732f4c81c913cd47b28d0a1e5d8] is not reduced under section 554Z5(3) of ITEPA 2003 (overlap with money or asset subject to earlier tax liability) by the amount of the sum, or the value of the asset, which is the subject of the relevant step mentioned in sub-paragraph (1)(b) unless the payment condition is met by reason of section 554Z5(4)(a) and (b)(ii) being met.
+(5) The value of a relevant step treated as taken by paragraph 1 or 1A[^c-02b33732f4c81c913cd47b28d0a1e5d8] is not reduced under section 554Z5(3) of ITEPA 2003 (overlap with money or asset subject to earlier tax liability) by the amount of the sum, or the value of the asset, which is the subject of the relevant step mentioned in sub-paragraph (1)(b) unless the payment condition is met by reason of section 554Z5(4)(a) and (b)(ii) being met.
 
 **13.** (1) This paragraph applies where—
 
 - (a) a person (“P”) has made a quasi-loan to a relevant person,
-- (b) the quasi-loan was made on or after 9 December 2010[^key-931fe9aca50b58a8942df50cbee36c8e], and
+- (b) the quasi-loan was made on or after 9 December 2010[^c-931fe9aca50b58a8942df50cbee36c8e], and
 - (c) before the end of 5 April 2019, A or B acquires (whether or not for consideration) a right to the payment or transfer of assets mentioned in paragraph 2(2)(a).
 
 (2) The amount equal to the value of the right acquired by A or B is to be treated—
 
 - (a) for the purposes of paragraph 1(1) as an amount, of the quasi-loan made by P to the relevant person, that is outstanding immediately before the end of 5 April 2019;
-- (b) for the purposes of paragraphs 1(4) and 1A(5)[^key-b15ac3119e67b1fa793c3b9758520a11] and section 554Z3(1) of ITEPA 2003, as an amount of the quasi-loan that is outstanding at the time P is treated as taking the relevant step under paragraph 1(1).
+- (b) for the purposes of paragraphs 1(4) and 1A(5)[^c-b15ac3119e67b1fa793c3b9758520a11] and section 554Z3(1) of ITEPA 2003, as an amount of the quasi-loan that is outstanding at the time P is treated as taking the relevant step under paragraph 1(1).
 
 (3) For the purposes of sub-paragraph (2)—
 
@@ -324,7 +324,7 @@ Section 34
 
 (2) But this paragraph does not apply if paragraph 18 applies in relation to the quasi-loan.
 
-(3) The amount of the quasi-loan that is outstanding, at the time P is treated as taking the relevant step within paragraph 1[^key-28ade384cdf0c486fa483a0d1b474035], is to be calculated in sterling as follows—
+(3) The amount of the quasi-loan that is outstanding, at the time P is treated as taking the relevant step within paragraph 1[^c-28ade384cdf0c486fa483a0d1b474035], is to be calculated in sterling as follows—
 
 - *Step 1* Calculate, in the quasi-loan currency, the amount that is outstanding at that time.
 - *Step 2* Take the value in sterling, at that time, of that amount.
@@ -357,7 +357,7 @@ Section 34
 **18.** (1) Where this paragraph applies in relation to the quasi-loan—
 
 - (a) paragraphs 15 and 16 do not apply in relation to the quasi-loan, and
-- (b) sub-paragraphs (2) to (5) apply for the purposes of calculating the amount of the quasi-loan that is outstanding at the time P is treated as taking the relevant step within paragraph 1[^key-116f4504b5bc0e408351e3974845ee1b].
+- (b) sub-paragraphs (2) to (5) apply for the purposes of calculating the amount of the quasi-loan that is outstanding at the time P is treated as taking the relevant step within paragraph 1[^c-116f4504b5bc0e408351e3974845ee1b].
 
 (2) The initial debt amount, in relation to the quasi-loan, is an amount equal to the total of—
 
@@ -376,41 +376,41 @@ Section 34
 
 (5) The “sterling value” of a payment is its value in sterling on the date it is made.
 
-#### ...[^key-540de1a2d96a11264eccc18d832eaf66]
+#### ...[^c-540de1a2d96a11264eccc18d832eaf66]
 
-**19.**[^key-540de1a2d96a11264eccc18d832eaf66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-540de1a2d96a11264eccc18d832eaf66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Accelerated payments[^key-a2b744488b67ebf8bb895b481ba5fea0]
+### PART 2 — Accelerated payments[^c-a2b744488b67ebf8bb895b481ba5fea0]
 
-#### Application to HMRC[^key-0a8bdcfae6db387aa4cad87e31ff2fe6]
+#### Application to HMRC[^c-0a8bdcfae6db387aa4cad87e31ff2fe6]
 
-**20.**[^key-0a8bdcfae6db387aa4cad87e31ff2fe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-0a8bdcfae6db387aa4cad87e31ff2fe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Qualifying payments condition[^key-0a8bdcfae6db387aa4cad87e31ff2fe6]
+#### Qualifying payments condition[^c-0a8bdcfae6db387aa4cad87e31ff2fe6]
 
-**21.**[^key-0a8bdcfae6db387aa4cad87e31ff2fe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-0a8bdcfae6db387aa4cad87e31ff2fe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Commercial terms condition[^key-0a8bdcfae6db387aa4cad87e31ff2fe6]
+#### Commercial terms condition[^c-0a8bdcfae6db387aa4cad87e31ff2fe6]
 
 **No longer in force.**
 
-**22.**[^key-0a8bdcfae6db387aa4cad87e31ff2fe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-0a8bdcfae6db387aa4cad87e31ff2fe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-cf18b2d2c7fcc091edf8d9b1db4e9173]
+#### ...[^c-cf18b2d2c7fcc091edf8d9b1db4e9173]
 
 **23.** (1) Paragraph 24(1) applies where—
 
 - (a) a person (“P”) would (ignoring paragraph 24) be treated as taking a relevant step within paragraph 1 by reason of making a loan, or a quasi-loan, to a relevant person,
 - (b) an accelerated payment notice, or a partner payment notice, relating to a relevant charge (the “accelerated payment notice”) has been given under Chapter 3 of Part 4 of FA 2014,
 - (c) the relevant person makes a payment (the “accelerated payment”) in respect of the understated or disputed tax to which the notice relates,
-- (d) the accelerated payment is made on or before 5 April 2019[^key-09b8af65416b423590111dc12aa8e18b], and
-- (e) the amount of the loan or quasi-loan that, at the end of 5 April 2019[^key-9c7c38857532abce702237e5f2be0328], is outstanding for the purposes of paragraph 1 (see paragraphs 3 to 18) is equal to or less than the amount of the accelerated payment.
+- (d) the accelerated payment is made on or before 5 April 2019[^c-09b8af65416b423590111dc12aa8e18b], and
+- (e) the amount of the loan or quasi-loan that, at the end of 5 April 2019[^c-9c7c38857532abce702237e5f2be0328], is outstanding for the purposes of paragraph 1 (see paragraphs 3 to 18) is equal to or less than the amount of the accelerated payment.
 
 (2) In sub-paragraph (1)(b), “**relevant charge**” means a charge to tax arising by reason of a step taken pursuant to the relevant arrangement concerned.
 
 (3) The reference in sub-paragraph (2) to the relevant arrangement concerned is a reference to the relevant arrangement in pursuance of which, or in connection with which, the loan or quasi-loan mentioned in sub-paragraph (1)(a) is made.
 
-(4)[^key-ef78307eef2deeb1dd5586040321016e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ef78307eef2deeb1dd5586040321016e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In sub-paragraphs (1)(c) and (2)—
 
@@ -600,11 +600,11 @@ and for those purposes “**relevant contributions**” has the same meaning as 
 - (a) a relevant step within paragraph 1 were taken by reason of making a loan, or quasi-loan, of an amount equal to the amount of the loan, or quasi-loan, outstanding at the end of the relevant period, and
 - (b) the relevant step were taken on the day after the end of the relevant period.
 
-#### Exclusion for relevant step within paragraph 1A where initial step excluded[^key-0634a5980ac0bc1c239ea9fc55a63ffe]
+#### Exclusion for relevant step within paragraph 1A where initial step excluded[^c-0634a5980ac0bc1c239ea9fc55a63ffe]
 
 **35ZA.** Chapter 2 of Part 7A of ITEPA 2003 does not apply by reason of a relevant step within paragraph 1A if that Chapter does not apply by reason of the initial step (within the meaning given by sub-paragraph (1)(a) of paragraph 1A).
 
-### PART 3A — Duty to provide loan charge information to HMRC[^key-50c4f35d5459364adb2a080648148bce]
+### PART 3A — Duty to provide loan charge information to HMRC[^c-50c4f35d5459364adb2a080648148bce]
 
 #### 35A. Duty to provide loan charge information
 
@@ -615,9 +615,9 @@ and for those purposes “**relevant contributions**” has the same meaning as 
 - (a) a person (“P”) is treated as taking a relevant step within paragraph 1 immediately before the end of 5 April 2019, and
 - (b) Chapter 2 of Part 7A of ITEPA 2003 applies by reason of that relevant step.
 
-(3)[^key-22c3fd5c2a9b4a0b098ed01b73bccacb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-22c3fd5c2a9b4a0b098ed01b73bccacb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) The second[^key-b70a928d37260f60e2723ab66ad12cee] condition is that—
+(4) The second[^c-b70a928d37260f60e2723ab66ad12cee] condition is that—
 
 - (a) paragraph 24(1) applies by reference to a loan, or a quasi-loan, made by a person (“S”) to a relevant person (“R”),
 - (b) R makes an application under paragraph 24(1) for S to be treated as mentioned in paragraph 24(1) in relation to the relevant step concerned,
@@ -628,15 +628,15 @@ and for those purposes “**relevant contributions**” has the same meaning as 
   - (i) the end of 30 September 2019, or
   - (ii) if earlier, the time given by sub-paragraphs (i) and (ii) of paragraph 24(1)(b).
 
-(5) The third[^key-8735406c9d770b008da9538dcf2c2241] condition is that—
+(5) The third[^c-8735406c9d770b008da9538dcf2c2241] condition is that—
 
-- (a) neither the first nor the second condition[^key-60d6f4ef2cc8e5ca6fdbee356c9497b6] is met, and
-- (b) if the date specified in paragraph 1(1)(c) and (2)[^key-a5eac4bfdb265dfbc28db48831d79143] were 16 March 2016 [^key-7e44427b91a444293df2caa989875599]...—
+- (a) neither the first nor the second condition[^c-60d6f4ef2cc8e5ca6fdbee356c9497b6] is met, and
+- (b) if the date specified in paragraph 1(1)(c) and (2)[^c-a5eac4bfdb265dfbc28db48831d79143] were 16 March 2016 [^c-7e44427b91a444293df2caa989875599]...—
   - (i) a person (“T”) would be treated as taking a relevant step within paragraph 1 immediately before the end of 16 March 2016, and
   - (ii) Chapter 2 of Part 7A of ITEPA 2003 would apply by reason of that relevant step (using, for this purpose, the law that would be used to test whether that Chapter applies to a relevant step taken on 5 April 2019), and
 - (c) A is living immediately before the end of 5 April 2019.
 
-(6) Paragraph 35C does not apply in a case where one of the first to third[^key-7cb12703b1ffebee9908f5d8f5535053] conditions is met if—
+(6) Paragraph 35C does not apply in a case where one of the first to third[^c-7cb12703b1ffebee9908f5d8f5535053] conditions is met if—
 
 - (a) a person agrees, with an officer of Revenue and Customs, terms for the discharge of liability for income tax,
 - (b) the terms cover all liability (if any) under Chapter 2 of Part 7A of ITEPA 2003 by reason of any loan-charge relevant step or result in there being no such liability, and
@@ -645,7 +645,7 @@ and for those purposes “**relevant contributions**” has the same meaning as 
 (7) In sub-paragraph (6)(b) “loan-charge relevant step” means (as the case may be)—
 
 - (a) the relevant step that P is treated as taking,
-- (b)[^key-1086c945fce68a52083a82462ace0665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-1086c945fce68a52083a82462ace0665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) any relevant step within paragraph 1 that S is, or has yet to be, treated as taking by reference to the loan or quasi-loan mentioned in sub-paragraph (4), or
 - (d) any relevant step within paragraph 1 that T is, or has yet to be, treated as taking by reference to the loan or quasi-loan by reference to which T would be treated as taking the relevant step mentioned in sub-paragraph (5)(b)(i).
 
@@ -677,18 +677,18 @@ and for those purposes “**relevant contributions**” has the same meaning as 
 - (b) the address and telephone number, and e-mail address (if any), of each person providing the information,
 - (c) A’s national insurance number (if any),
 - (d) the unique taxpayer reference number (if any) allocated to A by HMRC,
-- (e) if the loan or quasi-loan that is or would be the subject of the relevant step mentioned in paragraph 35A(2)(a) or (4)(b) or (5)(b)(i)[^key-4a4e24363eeb465105b39ad676e9a197]... is made to someone other than A, the name of the person to whom it is made,
+- (e) if the loan or quasi-loan that is or would be the subject of the relevant step mentioned in paragraph 35A(2)(a) or (4)(b) or (5)(b)(i)[^c-4a4e24363eeb465105b39ad676e9a197]... is made to someone other than A, the name of the person to whom it is made,
 - (f) B’s name,
 - (g) the name of the relevant arrangement,
 - (h) the reference number (if any) allocated to the relevant arrangement by HMRC under section 311 of FA 2004 (disclosure of tax avoidance schemes: arrangements to be given reference number),
 - (i) any other reference number allocated by HMRC in connection with the relevant arrangement or the relevant step,
-- (j) if a person has agreed terms with an officer of Revenue and Customs for the partial discharge of the liability for income tax arising because of the application of Chapter 2 of Part 7A of ITEPA 2003 by reason of the relevant step that P[^key-99e3bbe499d9bd3292950740c6297d76]... or S is treated as taking, the date of that agreement and the amount of the liability to which it relates,
-- (k) if a loan is or would be the subject of the relevant step mentioned in paragraph 35A(2)(a) or (4)(b) or (5)(b)(i)[^key-39c8a06e7d6b553da504f878e2f0e40b]... the loan payment information (see sub-paragraph (2)), and
+- (j) if a person has agreed terms with an officer of Revenue and Customs for the partial discharge of the liability for income tax arising because of the application of Chapter 2 of Part 7A of ITEPA 2003 by reason of the relevant step that P[^c-99e3bbe499d9bd3292950740c6297d76]... or S is treated as taking, the date of that agreement and the amount of the liability to which it relates,
+- (k) if a loan is or would be the subject of the relevant step mentioned in paragraph 35A(2)(a) or (4)(b) or (5)(b)(i)[^c-39c8a06e7d6b553da504f878e2f0e40b]... the loan payment information (see sub-paragraph (2)), and
 - (l) if a quasi-loan is or would be the subject of the relevant step mentioned in paragraph 35A(2)(a) or (4)(b) or (5)(b)(i), the quasi-loan payment information (see sub-paragraph (3)).
 
 (2) The “loan payment information”, in relation to a loan, consists of statements of the following—
 
-- (a)[^key-d88dea297ba15c8fd8acdc36c7529321] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d88dea297ba15c8fd8acdc36c7529321] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the initial principal amount of the loan,
 - (c) the amount that has become principal under the loan, otherwise than by capitalisation of interest, in each relevant tax year,
 - (d) the amount of principal under the loan repaid in each relevant tax year, ignoring any repayments not in money made on or after 17 March 2016,
@@ -806,31 +806,31 @@ The Commissioners for Her Majesty’s Revenue and Customs may by regulations ame
 
 ### PART 4 — Supplementary provision
 
-#### Duty to provide loan charge information to B[^key-f6bdf68cfb64dbf837f1a2d7279d5af2]
+#### Duty to provide loan charge information to B[^c-f6bdf68cfb64dbf837f1a2d7279d5af2]
 
 **36.** (1) This paragraph applies where—
 
 - (a) a person (“P”) has made a loan, or a quasi-loan, to a relevant person,
-- (b) the loan or quasi-loan was made on or after 9 December 2010[^key-2021610a93c24decd257c87067f36091], and
+- (b) the loan or quasi-loan was made on or after 9 December 2010[^c-2021610a93c24decd257c87067f36091], and
 - (c) an amount of the loan or quasi-loan is outstanding at any time—
   - (i) on or after 17 March 2016, and
   - (ii) before the end of 5 April 2019.
 
-(2) Each of A and P must ensure that the loan charge information (see paragraph 35D)[^key-656fb6df4e3f22674dd449cb6a3e1bec] in relation to the loan or quasi-loan is provided to B before the end of 15 April 2019[^key-a769f5729534c92cd17a5ec38cd8c8de].
+(2) Each of A and P must ensure that the loan charge information (see paragraph 35D)[^c-656fb6df4e3f22674dd449cb6a3e1bec] in relation to the loan or quasi-loan is provided to B before the end of 15 April 2019[^c-a769f5729534c92cd17a5ec38cd8c8de].
 
-(3)[^key-6d4735d2c7fb5f41855beb4b179411de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6d4735d2c7fb5f41855beb4b179411de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-68849cdf6e3367b6b98af4b9fa3d58a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-68849cdf6e3367b6b98af4b9fa3d58a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-11d9030941d92ecc07600ecf06284f45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-11d9030941d92ecc07600ecf06284f45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-122dd917a538afcb13aea58c970dec9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-122dd917a538afcb13aea58c970dec9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) “**Loan**”, “**quasi-loan**” and “**outstanding**” have the same meaning for the purposes of this paragraph as they have for the purposes of paragraph 1.
 
 #### Double taxation
 
-**36A.**[^key-d167b089294bf0514a417bc009a706f7] (1) Sub-paragraphs (2) to (8) apply if—
+**36A.**[^c-d167b089294bf0514a417bc009a706f7] (1) Sub-paragraphs (2) to (8) apply if—
 
 - (a) a person (“P”) would, apart from this paragraph, be treated as taking a relevant step by paragraph 1 by reason of a loan made to a relevant person, and
 - (b) the loan gives rise to a charge to tax under section 455 of CTA 2010 by virtue of section 459 of that Act (loans treated as made to participators).
@@ -939,7 +939,7 @@ The Commissioners for Her Majesty’s Revenue and Customs may by regulations ame
 
 (2) Section 554Z(16) (determining whether a step is connected with a tax avoidance arrangement) applies for the purposes of this Schedule as it applies for the purposes of Part 7A of ITEPA 2003.
 
-**45.** See section 554A(1)(a) and 554AA(1)(a)[^key-81f0f3b003bb1c575319d491ed42e31b] of ITEPA 2003 for the meaning of “A” and “B”.
+**45.** See section 554A(1)(a) and 554AA(1)(a)[^c-81f0f3b003bb1c575319d491ed42e31b] of ITEPA 2003 for the meaning of “A” and “B”.
 
 ### PART 5 — Consequential amendments
 
@@ -969,128 +969,128 @@ The Commissioners for Her Majesty’s Revenue and Customs may by regulations ame
 
 ## Annotations
 
-[^key-7084e0016f6268aec6eafd69b50f9dce]: Textual amendment: Words in Sch. 11 para. 1(1)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2020/14/section/15/1)
+[^c-7084e0016f6268aec6eafd69b50f9dce]: Textual amendment: Words in Sch. 11 para. 1(1)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2020/14/section/15/1)
 
-[^key-14a0ea16ed5c1912815ab7c60402adc0]: Textual amendment: Words in Sch. 11 para. 1(2) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/2)
+[^c-14a0ea16ed5c1912815ab7c60402adc0]: Textual amendment: Words in Sch. 11 para. 1(2) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/2)
 
-[^key-453e61ec6251f8f76cd6f56ada526437]: Textual amendment: Words in Sch. 11 para. 1(3) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/8/2/a)
+[^c-453e61ec6251f8f76cd6f56ada526437]: Textual amendment: Words in Sch. 11 para. 1(3) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/8/2/a)
 
-[^key-4f7e1418d14e52e5dd15e0b5f3b5012f]: Textual amendment: Words in Sch. 11 para. 1(6) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 8(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/8/2/b/i)
+[^c-4f7e1418d14e52e5dd15e0b5f3b5012f]: Textual amendment: Words in Sch. 11 para. 1(6) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 8(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/8/2/b/i)
 
-[^key-3659d423045db264c82d279ad9564661]: Textual amendment: Words in Sch. 11 para. 1(6) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 8(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/8/2/b/ii)
+[^c-3659d423045db264c82d279ad9564661]: Textual amendment: Words in Sch. 11 para. 1(6) inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 8(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/8/2/b/ii)
 
-[^key-5d16dabb14bb2a65e8270a8f32e0b922]: Textual amendment: Sch. 11 para. 1(6A) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/section/16/2/a)
+[^c-5d16dabb14bb2a65e8270a8f32e0b922]: Textual amendment: Sch. 11 para. 1(6A) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/section/16/2/a)
 
-[^key-9263d5f954e24e15056b6accd3bfbfef]: Textual amendment: Words in Sch. 11 para. 1(7) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 16(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2020/14/section/16/2/b/i)
+[^c-9263d5f954e24e15056b6accd3bfbfef]: Textual amendment: Words in Sch. 11 para. 1(7) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 16(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2020/14/section/16/2/b/i)
 
-[^key-96c47ea62e0cc7b416d798a17bbb9389]: Textual amendment: Words in Sch. 11 para. 1(7)(a) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 16(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/14/section/16/2/b/ii)
+[^c-96c47ea62e0cc7b416d798a17bbb9389]: Textual amendment: Words in Sch. 11 para. 1(7)(a) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 16(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/14/section/16/2/b/ii)
 
-[^key-ead50c6d24bf83e218a26ba67b32f8f8]: Textual amendment: Sch. 11 para. 1A inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 16(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/16/3)
+[^c-ead50c6d24bf83e218a26ba67b32f8f8]: Textual amendment: Sch. 11 para. 1A inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 16(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/16/3)
 
-[^key-12d9e8b00a92b5218c67be9353005699]: Textual amendment: [Sch. 11 para. 1B](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/1B) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2020/14/section/17/1)
+[^c-12d9e8b00a92b5218c67be9353005699]: Textual amendment: [Sch. 11 para. 1B](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/1B) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2020/14/section/17/1)
 
-[^key-a300c087f1ca2fc6deee10f8dc825a93]: Textual amendment: Sch. 11 para. 2 cross-heading substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/3)
+[^c-a300c087f1ca2fc6deee10f8dc825a93]: Textual amendment: Sch. 11 para. 2 cross-heading substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/3)
 
-[^key-b622df12a028f79f23b93413a1d61019]: Textual amendment: Words in Sch. 11 para. 2(2) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 27(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/27/a)
+[^c-b622df12a028f79f23b93413a1d61019]: Textual amendment: Words in Sch. 11 para. 2(2) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 27(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/27/a)
 
-[^key-f07bf07489317ac9d9be2eda3e6857f3]: Textual amendment: Words in Sch. 11 para. 2(4) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 27(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/27/b)
+[^c-f07bf07489317ac9d9be2eda3e6857f3]: Textual amendment: Words in Sch. 11 para. 2(4) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 27(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/27/b)
 
-[^key-4c7f25810c5e3dae602960a1c119d668]: Textual amendment: Words in Sch. 11 para. 2(5) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 27(c)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/27/c)
+[^c-4c7f25810c5e3dae602960a1c119d668]: Textual amendment: Words in Sch. 11 para. 2(5) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 27(c)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/27/c)
 
-[^key-877452f0a9ff87279645291dd0c0d53d]: Textual amendment: Sch. 11 para. 2(6) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/4)
+[^c-877452f0a9ff87279645291dd0c0d53d]: Textual amendment: Sch. 11 para. 2(6) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/4)
 
-[^key-80f9cd3be6f65472179d7294fd33deea]: Textual amendment: Words in [Sch. 11 para. 3(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/3/1) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/28)
+[^c-80f9cd3be6f65472179d7294fd33deea]: Textual amendment: Words in [Sch. 11 para. 3(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/3/1) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/28)
 
-[^key-3a13dc4385cd6d3ce70dac1463935b88]: Textual amendment: Words in Sch. 11 para. 4(1)(b)(ii) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/5/2)
+[^c-3a13dc4385cd6d3ce70dac1463935b88]: Textual amendment: Words in Sch. 11 para. 4(1)(b)(ii) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/5/2)
 
-[^key-362a2310a63a075a3de3d36a027e7eaa]: Textual amendment: Words in Sch. 11 para. 4(2) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/5/3)
+[^c-362a2310a63a075a3de3d36a027e7eaa]: Textual amendment: Words in Sch. 11 para. 4(2) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/5/3)
 
-[^key-2bde720fca8a848cf302cf625bb8c96c]: Textual amendment: Sch. 11 para. 4(4) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/5/4)
+[^c-2bde720fca8a848cf302cf625bb8c96c]: Textual amendment: Sch. 11 para. 4(4) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/5/4)
 
-[^key-d5e4ed1680f3e6a5763259bfaf38e06c]: Textual amendment: Words in Sch. 11 para. 4(6) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/29)
+[^c-d5e4ed1680f3e6a5763259bfaf38e06c]: Textual amendment: Words in Sch. 11 para. 4(6) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/29)
 
-[^key-78c5096776ababbd46437356c7c38ab0]: Textual amendment: Words in Sch. 11 para. 5(1)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/6)
+[^c-78c5096776ababbd46437356c7c38ab0]: Textual amendment: Words in Sch. 11 para. 5(1)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/6)
 
-[^key-2d6be23047df941b5c7a5acda34d647d]: Textual amendment: Words in Sch. 11 para. 5(2)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/30)
+[^c-2d6be23047df941b5c7a5acda34d647d]: Textual amendment: Words in Sch. 11 para. 5(2)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/30)
 
-[^key-f69914a815d1d60064ec592bfd1c4c31]: Textual amendment: Words in Sch. 11 para. 7(3) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/31)
+[^c-f69914a815d1d60064ec592bfd1c4c31]: Textual amendment: Words in Sch. 11 para. 7(3) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/31)
 
-[^key-d7d28efe7974eef2af43a9b20119fabe]: Textual amendment: Words in Sch. 11 para. 10(1)(b) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/32)
+[^c-d7d28efe7974eef2af43a9b20119fabe]: Textual amendment: Words in Sch. 11 para. 10(1)(b) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/32)
 
-[^key-6862bb5ab1366a05772d717d824aa2f5]: Textual amendment: Words in [Sch. 11 para. 11(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/11/1) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/33)
+[^c-6862bb5ab1366a05772d717d824aa2f5]: Textual amendment: Words in [Sch. 11 para. 11(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/11/1) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/33)
 
-[^key-02b33732f4c81c913cd47b28d0a1e5d8]: Textual amendment: Words in [Sch. 11 para. 12(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/12/5) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/34)
+[^c-02b33732f4c81c913cd47b28d0a1e5d8]: Textual amendment: Words in [Sch. 11 para. 12(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/12/5) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/34)
 
-[^key-931fe9aca50b58a8942df50cbee36c8e]: Textual amendment: Words in Sch. 11 para. 13(1)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/7)
+[^c-931fe9aca50b58a8942df50cbee36c8e]: Textual amendment: Words in Sch. 11 para. 13(1)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/7)
 
-[^key-b15ac3119e67b1fa793c3b9758520a11]: Textual amendment: Words in Sch. 11 para. 13(2)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/35)
+[^c-b15ac3119e67b1fa793c3b9758520a11]: Textual amendment: Words in Sch. 11 para. 13(2)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/35)
 
-[^key-28ade384cdf0c486fa483a0d1b474035]: Textual amendment: Words in Sch. 11 para. 15(3) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/36)
+[^c-28ade384cdf0c486fa483a0d1b474035]: Textual amendment: Words in Sch. 11 para. 15(3) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/36)
 
-[^key-116f4504b5bc0e408351e3974845ee1b]: Textual amendment: Words in Sch. 11 para. 18(1)(b) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/37)
+[^c-116f4504b5bc0e408351e3974845ee1b]: Textual amendment: Words in Sch. 11 para. 18(1)(b) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/37)
 
-[^key-540de1a2d96a11264eccc18d832eaf66]: Textual amendment: Sch. 11 para. 19 and cross-heading omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/8)
+[^c-540de1a2d96a11264eccc18d832eaf66]: Textual amendment: Sch. 11 para. 19 and cross-heading omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/8)
 
-[^key-a2b744488b67ebf8bb895b481ba5fea0]: Textual amendment: Sch. 11 Pt. 2 heading substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/9)
+[^c-a2b744488b67ebf8bb895b481ba5fea0]: Textual amendment: Sch. 11 Pt. 2 heading substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/9)
 
-[^key-0a8bdcfae6db387aa4cad87e31ff2fe6]: Textual amendment: Sch. 11 paras. 20-22 and cross-headings omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/10)
+[^c-0a8bdcfae6db387aa4cad87e31ff2fe6]: Textual amendment: Sch. 11 paras. 20-22 and cross-headings omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/10)
 
-[^key-cf18b2d2c7fcc091edf8d9b1db4e9173]: Textual amendment: Sch. 11 para. 23 cross-heading omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/11)
+[^c-cf18b2d2c7fcc091edf8d9b1db4e9173]: Textual amendment: Sch. 11 para. 23 cross-heading omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/11)
 
-[^key-09b8af65416b423590111dc12aa8e18b]: Textual amendment: Words in Sch. 11 para. 23(1)(d) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/12/2/a)
+[^c-09b8af65416b423590111dc12aa8e18b]: Textual amendment: Words in Sch. 11 para. 23(1)(d) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/12/2/a)
 
-[^key-9c7c38857532abce702237e5f2be0328]: Textual amendment: Words in Sch. 11 para. 23(1)(e) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/12/2/b)
+[^c-9c7c38857532abce702237e5f2be0328]: Textual amendment: Words in Sch. 11 para. 23(1)(e) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/12/2/b)
 
-[^key-ef78307eef2deeb1dd5586040321016e]: Textual amendment: Sch. 11 para. 23(4) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/12/3)
+[^c-ef78307eef2deeb1dd5586040321016e]: Textual amendment: Sch. 11 para. 23(4) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 12(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/12/3)
 
-[^key-0634a5980ac0bc1c239ea9fc55a63ffe]: Textual amendment: Sch. 11 para. 35ZA and cross-heading inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/38)
+[^c-0634a5980ac0bc1c239ea9fc55a63ffe]: Textual amendment: Sch. 11 para. 35ZA and cross-heading inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/38)
 
-[^key-50c4f35d5459364adb2a080648148bce]: Textual amendment: Sch. 11 Pt. 3A inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/10)
+[^c-50c4f35d5459364adb2a080648148bce]: Textual amendment: Sch. 11 Pt. 3A inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/10)
 
-[^key-22c3fd5c2a9b4a0b098ed01b73bccacb]: Textual amendment: Sch. 11 para. 35A(3) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/2)
+[^c-22c3fd5c2a9b4a0b098ed01b73bccacb]: Textual amendment: Sch. 11 para. 35A(3) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/2)
 
-[^key-b70a928d37260f60e2723ab66ad12cee]: Textual amendment: Word in Sch. 11 para. 35A(4) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/3)
+[^c-b70a928d37260f60e2723ab66ad12cee]: Textual amendment: Word in Sch. 11 para. 35A(4) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/3)
 
-[^key-8735406c9d770b008da9538dcf2c2241]: Textual amendment: Word in Sch. 11 para. 35A(5) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(4)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/4/a)
+[^c-8735406c9d770b008da9538dcf2c2241]: Textual amendment: Word in Sch. 11 para. 35A(5) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(4)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/4/a)
 
-[^key-60d6f4ef2cc8e5ca6fdbee356c9497b6]: Textual amendment: Words in Sch. 11 para. 35A(5)(a) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(4)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/4/b)
+[^c-60d6f4ef2cc8e5ca6fdbee356c9497b6]: Textual amendment: Words in Sch. 11 para. 35A(5)(a) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(4)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/4/b)
 
-[^key-a5eac4bfdb265dfbc28db48831d79143]: Textual amendment: Words in Sch. 11 para. 35A(5)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(4)(c)(i)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/4/c/i)
+[^c-a5eac4bfdb265dfbc28db48831d79143]: Textual amendment: Words in Sch. 11 para. 35A(5)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(4)(c)(i)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/4/c/i)
 
-[^key-7e44427b91a444293df2caa989875599]: Textual amendment: Words in Sch. 11 para. 35A(5)(b) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(4)(c)(ii)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/4/c/ii)
+[^c-7e44427b91a444293df2caa989875599]: Textual amendment: Words in Sch. 11 para. 35A(5)(b) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(4)(c)(ii)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/4/c/ii)
 
-[^key-7cb12703b1ffebee9908f5d8f5535053]: Textual amendment: Word in Sch. 11 para. 35A(6) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(5)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/5)
+[^c-7cb12703b1ffebee9908f5d8f5535053]: Textual amendment: Word in Sch. 11 para. 35A(6) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(5)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/5)
 
-[^key-1086c945fce68a52083a82462ace0665]: Textual amendment: Sch. 11 para. 35A(7)(b) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(6)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/6)
+[^c-1086c945fce68a52083a82462ace0665]: Textual amendment: Sch. 11 para. 35A(7)(b) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 13(6)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/6)
 
 [^M_F_5f199395-353f-4828-91cc-818583bb5c37]: Textual amendment: Word in Sch. 11 para. 35B(1) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/6)
 
 [^M_F_91cdaf24-c884-4591-db8c-2164ecafa6ed]: Textual amendment: Words in Sch. 11 para. 35C(2)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/13/5)
 
-[^key-4a4e24363eeb465105b39ad676e9a197]: Textual amendment: Words in Sch. 11 para. 35D(1)(e) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/15/2/a)
+[^c-4a4e24363eeb465105b39ad676e9a197]: Textual amendment: Words in Sch. 11 para. 35D(1)(e) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/15/2/a)
 
-[^key-99e3bbe499d9bd3292950740c6297d76]: Textual amendment: Word in Sch. 11 para. 35D(1)(j) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/15/2/b)
+[^c-99e3bbe499d9bd3292950740c6297d76]: Textual amendment: Word in Sch. 11 para. 35D(1)(j) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/15/2/b)
 
-[^key-39c8a06e7d6b553da504f878e2f0e40b]: Textual amendment: Words in Sch. 11 para. 35D(1)(k) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 15(2)(c)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/15/2/c)
+[^c-39c8a06e7d6b553da504f878e2f0e40b]: Textual amendment: Words in Sch. 11 para. 35D(1)(k) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 15(2)(c)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/15/2/c)
 
-[^key-d88dea297ba15c8fd8acdc36c7529321]: Textual amendment: Sch. 11 para. 35D(2)(a) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 15(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/15/3)
+[^c-d88dea297ba15c8fd8acdc36c7529321]: Textual amendment: Sch. 11 para. 35D(2)(a) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 15(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/15/3)
 
-[^key-f6bdf68cfb64dbf837f1a2d7279d5af2]: Textual amendment: Word in [Sch. 11 para. 36 cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/part/4/crossheading/duty-to-provide-loan-balance-information-to-b) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/11/4)
+[^c-f6bdf68cfb64dbf837f1a2d7279d5af2]: Textual amendment: Word in [Sch. 11 para. 36 cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/part/4/crossheading/duty-to-provide-loan-balance-information-to-b) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/11/4)
 
-[^key-2021610a93c24decd257c87067f36091]: Textual amendment: Words in Sch. 11 para. 36(1)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/16/2)
+[^c-2021610a93c24decd257c87067f36091]: Textual amendment: Words in Sch. 11 para. 36(1)(b) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/16/2)
 
-[^key-656fb6df4e3f22674dd449cb6a3e1bec]: Textual amendment: Words in Sch. 11 para. 36(2) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/11/2)
+[^c-656fb6df4e3f22674dd449cb6a3e1bec]: Textual amendment: Words in Sch. 11 para. 36(2) substituted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/11/2)
 
-[^key-a769f5729534c92cd17a5ec38cd8c8de]: Textual amendment: Words in Sch. 11 para. 36(2) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/16/3)
+[^c-a769f5729534c92cd17a5ec38cd8c8de]: Textual amendment: Words in Sch. 11 para. 36(2) substituted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/16/3)
 
-[^key-6d4735d2c7fb5f41855beb4b179411de]: Textual amendment: Sch. 11 para. 36(3) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/11/3)
+[^c-6d4735d2c7fb5f41855beb4b179411de]: Textual amendment: Sch. 11 para. 36(3) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/11/3)
 
-[^key-68849cdf6e3367b6b98af4b9fa3d58a2]: Textual amendment: Sch. 11 para. 36(4) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 16(4)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/16/4)
+[^c-68849cdf6e3367b6b98af4b9fa3d58a2]: Textual amendment: Sch. 11 para. 36(4) omitted (22.7.2020) by virtue of [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 2 para. 16(4)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/2/paragraph/16/4)
 
-[^key-11d9030941d92ecc07600ecf06284f45]: Textual amendment: Sch. 11 para. 36(5) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/11/3)
+[^c-11d9030941d92ecc07600ecf06284f45]: Textual amendment: Sch. 11 para. 36(5) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/11/3)
 
-[^key-122dd917a538afcb13aea58c970dec9f]: Textual amendment: Sch. 11 para. 36(6) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/11/3)
+[^c-122dd917a538afcb13aea58c970dec9f]: Textual amendment: Sch. 11 para. 36(6) omitted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 11(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/11/3)
 
-[^key-d167b089294bf0514a417bc009a706f7]: Textual amendment: Sch. 11 para. 36A inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/4/2)
+[^c-d167b089294bf0514a417bc009a706f7]: Textual amendment: Sch. 11 para. 36A inserted (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/1/paragraph/4/2)
 
-[^key-81f0f3b003bb1c575319d491ed42e31b]: Textual amendment: Words in [Sch. 11 para. 45](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/45) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 19(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/19/3)
+[^c-81f0f3b003bb1c575319d491ed42e31b]: Textual amendment: Words in [Sch. 11 para. 45](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/45) inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 19(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/19/3)

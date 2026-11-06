@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Approval of warrants issued in urgent cases[^key-a6da4f1f16f74c793e7405e84ee93ead]
+## 109. Approval of warrants issued in urgent cases[^c-a6da4f1f16f74c793e7405e84ee93ead]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ and section 108(5) does not apply in relation to the refusal to approve the deci
 
 ## Annotations
 
-[^key-a6da4f1f16f74c793e7405e84ee93ead]: Commencement: S. 109 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(d)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/d)
+[^c-a6da4f1f16f74c793e7405e84ee93ead]: Commencement: S. 109 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(d)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Written and electronic communication[^key-82d59a66ac91f996262ebb7a9d312a41]
+## 26. Written and electronic communication[^c-82d59a66ac91f996262ebb7a9d312a41]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-82d59a66ac91f996262ebb7a9d312a41]: Commencement: Reg. 26 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-82d59a66ac91f996262ebb7a9d312a41]: Commencement: Reg. 26 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
 
 [^f00024]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27A. Interpretation (affected by repeal, see note)[^key-2dd38f22e3f0e7272da0337fa848725f][^key-2dd38f22e3f0e7272da0337fa848725f]
+## 27A. Interpretation (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dd38f22e3f0e7272da0337fa848725f]: Textual amendment: Regulations revoked (E.W.) (1.4.2010 except so far as relating to the revocation in relation to W. of reg. 36 and specified words in reg. 3(3), 12.12.2014 in so far as not already in force) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [regs. 1(2)(4)(b)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2/4/b), [133(3)](https://www.legislation.gov.uk/uksi/2010/490/regulation/133/3) (with [regs. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125), [134](https://www.legislation.gov.uk/uksi/2010/490/regulation/134))
+[^c-2dd38f22e3f0e7272da0337fa848725f]: Textual amendment: Regulations revoked (E.W.) (1.4.2010 except so far as relating to the revocation in relation to W. of reg. 36 and specified words in reg. 3(3), 12.12.2014 in so far as not already in force) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [regs. 1(2)(4)(b)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2/4/b), [133(3)](https://www.legislation.gov.uk/uksi/2010/490/regulation/133/3) (with [regs. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125), [134](https://www.legislation.gov.uk/uksi/2010/490/regulation/134))

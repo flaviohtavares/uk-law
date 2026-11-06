@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124G. Obligations to limit internet access: assessment and preparation[^key-9563c1f4928a04bb5a36883c9b7043b1]
+## 124G. Obligations to limit internet access: assessment and preparation[^c-9563c1f4928a04bb5a36883c9b7043b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9563c1f4928a04bb5a36883c9b7043b1]: Textual amendment: S. 124G inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 9](https://www.legislation.gov.uk/ukpga/2010/24/section/9), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-9563c1f4928a04bb5a36883c9b7043b1]: Textual amendment: S. 124G inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 9](https://www.legislation.gov.uk/ukpga/2010/24/section/9), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

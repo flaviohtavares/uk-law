@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50K. Applications relating to POC medicinal products[^key-04d0655e38de6740bc1d7a30cdcedb6a]
+## 50K. Applications relating to POC medicinal products[^c-04d0655e38de6740bc1d7a30cdcedb6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04d0655e38de6740bc1d7a30cdcedb6a]: Textual amendment: [Reg. 50K](https://www.legislation.gov.uk/uksi/2012/1916/regulation/50K) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/87/regulation/17)
+[^c-04d0655e38de6740bc1d7a30cdcedb6a]: Textual amendment: [Reg. 50K](https://www.legislation.gov.uk/uksi/2012/1916/regulation/50K) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/87/regulation/17)

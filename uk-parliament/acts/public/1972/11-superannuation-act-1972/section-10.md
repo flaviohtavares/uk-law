@@ -25,7 +25,7 @@ summary: ''
 - (a) persons, or classes of persons, engaged in health services other than services provided by a [^c8519541]... local authority; and
 - (b) other persons, or classes of persons, for whom it is appropriate, in the opinion of the Secretary of State, to provide pensions, allowances or gratuities under the regulations.
 
-(1A)[^key-725ebb6b04903650f9b9a6a3ea510fd9] Subsection (1) is subject to sections 18 and 19 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
+(1A)[^c-725ebb6b04903650f9b9a6a3ea510fd9] Subsection (1) is subject to sections 18 and 19 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
 
 (2) Without prejudice to the generality of subsection (1) above, regulations under this section—
 
@@ -69,7 +69,7 @@ and any provisions of the said Act of 1971, or of regulations made under section
 
 [^c8519541]: Textual amendment: Words repealed by (S.) [National Health Service (Scotland) Act 1972 (c. 58)](https://www.legislation.gov.uk/ukpga/1972/58), [Sch. 7 Pt. II](https://www.legislation.gov.uk/ukpga/1972/58/schedule/7/part/II) and (E.W.) [National Health Service Reorganisation Act 1973 (c. 32)](https://www.legislation.gov.uk/ukpga/1973/32), [s. 57](https://www.legislation.gov.uk/ukpga/1973/32/section/57), [Sch. 5](https://www.legislation.gov.uk/ukpga/1973/32/schedule/5)
 
-[^key-725ebb6b04903650f9b9a6a3ea510fd9]: Textual amendment: [S. 10(1A)](https://www.legislation.gov.uk/ukpga/1972/11/section/10/1A) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/10) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/d)
+[^c-725ebb6b04903650f9b9a6a3ea510fd9]: Textual amendment: [S. 10(1A)](https://www.legislation.gov.uk/ukpga/1972/11/section/10/1A) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/10) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/d)
 
 [^c8519551]: Textual amendment: S. 10(2A) inserted by [Pensions (Miscellaneous Provisions) Act 1990 (c. 7, SIF 101A:3)](https://www.legislation.gov.uk/ukpga/1990/7), [s. 8(5)](https://www.legislation.gov.uk/ukpga/1990/7/section/8/5)
 

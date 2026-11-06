@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Transfer of the Regional Board’s functions[^key-eb6e2f589c7af774d462f72b93af35d4][^key-1240d5c7694b3ae967961a37275d4ca5]
+## 2. Transfer of the Regional Board’s functions[^c-eb6e2f589c7af774d462f72b93af35d4][^c-1240d5c7694b3ae967961a37275d4ca5]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ Schedule 1 contains—
 
 ## Annotations
 
-[^key-eb6e2f589c7af774d462f72b93af35d4]: Commencement: S. 2 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
+[^c-eb6e2f589c7af774d462f72b93af35d4]: Commencement: S. 2 not in operation at Royal Assent, see [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b)
 
-[^key-1240d5c7694b3ae967961a37275d4ca5]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2022/3/section/2) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-1240d5c7694b3ae967961a37275d4ca5]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2022/3/section/2) in operation at 1.4.2022 by [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

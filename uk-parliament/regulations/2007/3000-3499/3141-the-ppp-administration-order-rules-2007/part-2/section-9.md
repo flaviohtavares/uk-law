@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Notice to enforcement officer, etc[^key-204e18abf9257fcc7bad58d32ff6a66f]
+## 9. Notice to enforcement officer, etc[^c-204e18abf9257fcc7bad58d32ff6a66f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-204e18abf9257fcc7bad58d32ff6a66f]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2007/3141/rule/9) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-204e18abf9257fcc7bad58d32ff6a66f]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2007/3141/rule/9) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70A. List C Articles[^key-0427c3e742190fa3c0f9772a96ff9b45]
+## 70A. List C Articles[^c-0427c3e742190fa3c0f9772a96ff9b45]
 
 *Extent: E+W*
 
@@ -32,12 +32,12 @@ A List C article is any article or substance in the following list—
 - (h) books;
 - (i) tools;
 - (j) information technology equipment;
-- (k)[^key-4addb34b78f48f9cb376cf1af658bbbb] electronic cigarettes;
+- (k)[^c-4addb34b78f48f9cb376cf1af658bbbb] electronic cigarettes;
 - (l) matches;
 - (m) lighters.
 
 ## Annotations
 
-[^key-0427c3e742190fa3c0f9772a96ff9b45]: Textual amendment: Rule 70A inserted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [7](https://www.legislation.gov.uk/uksi/2008/597/rule/7)
+[^c-0427c3e742190fa3c0f9772a96ff9b45]: Textual amendment: Rule 70A inserted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [7](https://www.legislation.gov.uk/uksi/2008/597/rule/7)
 
-[^key-4addb34b78f48f9cb376cf1af658bbbb]: Textual amendment: Rules 70A(k)-(m) inserted (22.5.2018) by [The Prison and Young Offender Institution (Amendment) Rules 2018 (S.I. 2018/549)](https://www.legislation.gov.uk/uksi/2018/549), [rules 1](https://www.legislation.gov.uk/uksi/2018/549/rule/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/549/rule/2/6)
+[^c-4addb34b78f48f9cb376cf1af658bbbb]: Textual amendment: Rules 70A(k)-(m) inserted (22.5.2018) by [The Prison and Young Offender Institution (Amendment) Rules 2018 (S.I. 2018/549)](https://www.legislation.gov.uk/uksi/2018/549), [rules 1](https://www.legislation.gov.uk/uksi/2018/549/rule/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/549/rule/2/6)

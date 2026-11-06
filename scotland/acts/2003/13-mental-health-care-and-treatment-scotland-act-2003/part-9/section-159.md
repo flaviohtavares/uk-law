@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 159. Responsible medical officer’s duties: variation of compulsion order[^key-6ce79f1051b8d7e22d7a24109a304db1]
+## 159. Responsible medical officer’s duties: variation of compulsion order[^c-6ce79f1051b8d7e22d7a24109a304db1]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ summary: ''
   - (i) the mental health officer; and
   - (ii) such other persons as the responsible medical officer considers appropriate.
 
-(4A)[^key-62a127988bfc00ec1082a9d2d4ffeea9] If, having regard to any views expressed by persons consulted under subsection (4)(c) above, it continues to appear to the responsible medical officer that the compulsion order should be varied by modifying the measures specified in it, the responsible medical officer shall, as soon as practicable, notify the mental health officer–
+(4A)[^c-62a127988bfc00ec1082a9d2d4ffeea9] If, having regard to any views expressed by persons consulted under subsection (4)(c) above, it continues to appear to the responsible medical officer that the compulsion order should be varied by modifying the measures specified in it, the responsible medical officer shall, as soon as practicable, notify the mental health officer–
 
 - (a) that the responsible medical officer is proposing to make an application to the Tribunal under section 161 of this Act for an order under section 167 of this Act varying the compulsion order; and
 - (b) the modification of the measures specified in that order that the responsible medical officer is proposing.
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ce79f1051b8d7e22d7a24109a304db1]: Commencement: S. 159 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-6ce79f1051b8d7e22d7a24109a304db1]: Commencement: S. 159 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-62a127988bfc00ec1082a9d2d4ffeea9]: Textual amendment: S. 159(4A)-(4E) inserted (2.12.2004) by [Mental Health (Care and Treatment) (Scotland) Act 2003 Modification Order 2004 (S.S.I. 2004/533)](https://www.legislation.gov.uk/ssi/2004/533), [arts. 1](https://www.legislation.gov.uk/ssi/2004/533/article/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2004/533/article/2/5/a)
+[^c-62a127988bfc00ec1082a9d2d4ffeea9]: Textual amendment: S. 159(4A)-(4E) inserted (2.12.2004) by [Mental Health (Care and Treatment) (Scotland) Act 2003 Modification Order 2004 (S.S.I. 2004/533)](https://www.legislation.gov.uk/ssi/2004/533), [arts. 1](https://www.legislation.gov.uk/ssi/2004/533/article/1), [2(5)(a)](https://www.legislation.gov.uk/ssi/2004/533/article/2/5/a)

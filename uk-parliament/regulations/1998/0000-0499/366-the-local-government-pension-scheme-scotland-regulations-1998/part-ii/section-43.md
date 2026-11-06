@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Meaning of “eligible child”[^key-1c5a342569821c6a4f5374cb9249bb63]
+## 43. Meaning of “eligible child”[^c-1c5a342569821c6a4f5374cb9249bb63]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c5a342569821c6a4f5374cb9249bb63]: Commencement: Reg. 43 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-1c5a342569821c6a4f5374cb9249bb63]: Commencement: Reg. 43 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

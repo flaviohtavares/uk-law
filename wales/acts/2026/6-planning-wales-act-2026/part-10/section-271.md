@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 271. Compulsory acquisition of land by the Welsh Ministers[^key-ae24a9263e041018eb803e42eab9cd6f]
+## 271. Compulsory acquisition of land by the Welsh Ministers[^c-ae24a9263e041018eb803e42eab9cd6f]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae24a9263e041018eb803e42eab9cd6f]: Commencement: S. 271 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ae24a9263e041018eb803e42eab9cd6f]: Commencement: S. 271 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

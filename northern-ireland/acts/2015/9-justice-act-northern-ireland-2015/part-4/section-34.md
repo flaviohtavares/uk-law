@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Supplementary statement[^key-974b9b5aa02db5fc108d5acfbb064a08]
+## 34. Supplementary statement[^c-974b9b5aa02db5fc108d5acfbb064a08]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-974b9b5aa02db5fc108d5acfbb064a08]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2015/9/section/34) in operation at 1.9.2015 by [S.R. 2015/320](https://www.legislation.gov.uk/nisr/2015/320), [art. 2(f)](https://www.legislation.gov.uk/nisr/2015/320/article/2/f)
+[^c-974b9b5aa02db5fc108d5acfbb064a08]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2015/9/section/34) in operation at 1.9.2015 by [S.R. 2015/320](https://www.legislation.gov.uk/nisr/2015/320), [art. 2(f)](https://www.legislation.gov.uk/nisr/2015/320/article/2/f)

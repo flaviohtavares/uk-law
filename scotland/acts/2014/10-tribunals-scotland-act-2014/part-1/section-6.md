@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Representation of interests[^key-88f22f289d6428642b055b71a714acdf]
+## 6. Representation of interests[^c-88f22f289d6428642b055b71a714acdf]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ The Lord President is responsible for—
 
 ## Annotations
 
-[^key-88f22f289d6428642b055b71a714acdf]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/10/section/6) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-88f22f289d6428642b055b71a714acdf]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/10/section/6) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

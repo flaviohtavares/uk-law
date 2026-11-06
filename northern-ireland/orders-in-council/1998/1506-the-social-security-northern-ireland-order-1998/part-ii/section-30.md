@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^c17082001] A decision [^key-723f9afaf9de77f0ea41f2734e0a5237]... that an accident was an industrial accident is to be taken as determining only that sub-paragraphs (a), (b) and (c) of paragraph (6) of that Article are satisfied in relation to the accident.
+(1)[^c17082001] A decision [^c-723f9afaf9de77f0ea41f2734e0a5237]... that an accident was an industrial accident is to be taken as determining only that sub-paragraphs (a), (b) and (c) of paragraph (6) of that Article are satisfied in relation to the accident.
 
 (2) Subject to paragraphs (3) and (4), no such decision is to be taken as importing a decision as to the origin of any injury or disability suffered by the claimant, whether or not there is an event identifiable as an accident apart from any injury that may have been received.
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c17082001]: Textual amendment: prosp. in pt. certain functions transf. by [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21)
 
-[^key-723f9afaf9de77f0ea41f2734e0a5237]: Textual amendment: Words in [art. 30(1)](https://www.legislation.gov.uk/nisi/1998/1506/article/30/1) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [74(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/74/2); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/d)
+[^c-723f9afaf9de77f0ea41f2734e0a5237]: Textual amendment: Words in [art. 30(1)](https://www.legislation.gov.uk/nisi/1998/1506/article/30/1) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [74(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/74/2); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2016/234/article/3/2/d)

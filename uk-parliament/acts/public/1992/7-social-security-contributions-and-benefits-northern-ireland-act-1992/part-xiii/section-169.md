@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Age.[^key-c60658f02502df9802f36e5f4bd59d11]
+## 169. Age.[^c-c60658f02502df9802f36e5f4bd59d11]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of this Act a person—
 
 ## Annotations
 
-[^key-c60658f02502df9802f36e5f4bd59d11]: Modification: S. 169 applied (2.12.2002 for certain purposes, 6.10.2003 in so far as not already in force) by [State Pension Credit Act (Northern Ireland) 2002 (c. 14 (N.I.))](https://www.legislation.gov.uk/nia/2002/14), [ss. 17(3)(b)](https://www.legislation.gov.uk/nia/2002/14/section/17/3/b), [21(2)](https://www.legislation.gov.uk/nia/2002/14/section/21/2); [S.R. 2002/366](https://www.legislation.gov.uk/nisr/2002/366), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2002/366/article/2/1/o); [S.R. 2003/373](https://www.legislation.gov.uk/nisr/2003/373), [art. 2](https://www.legislation.gov.uk/nisr/2003/373/article/2)
+[^c-c60658f02502df9802f36e5f4bd59d11]: Modification: S. 169 applied (2.12.2002 for certain purposes, 6.10.2003 in so far as not already in force) by [State Pension Credit Act (Northern Ireland) 2002 (c. 14 (N.I.))](https://www.legislation.gov.uk/nia/2002/14), [ss. 17(3)(b)](https://www.legislation.gov.uk/nia/2002/14/section/17/3/b), [21(2)](https://www.legislation.gov.uk/nia/2002/14/section/21/2); [S.R. 2002/366](https://www.legislation.gov.uk/nisr/2002/366), [art. 2(1)(o)](https://www.legislation.gov.uk/nisr/2002/366/article/2/1/o); [S.R. 2003/373](https://www.legislation.gov.uk/nisr/2003/373), [art. 2](https://www.legislation.gov.uk/nisr/2003/373/article/2)

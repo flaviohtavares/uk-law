@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Interpretation[^key-91a7d4c49d907d3052bd3cf8b223014e]
+## 19. Interpretation[^c-91a7d4c49d907d3052bd3cf8b223014e]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91a7d4c49d907d3052bd3cf8b223014e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2013/30/section/19) in force at 31.10.2013 by [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2789/article/3/c)
+[^c-91a7d4c49d907d3052bd3cf8b223014e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2013/30/section/19) in force at 31.10.2013 by [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2789/article/3/c)

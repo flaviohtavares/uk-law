@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. OFCOM’s guidance about risk assessments[^key-c0f33964e7a9c21e283e1c89627fadfb]
+## 99. OFCOM’s guidance about risk assessments[^c-c0f33964e7a9c21e283e1c89627fadfb]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) As soon as reasonably practicable after OFCOM have published the first risk profiles relating to the risk of harm to children, OFCOM must produce guidance to assist providers of Part 3 services in complying with their duties to carry out children’s risk assessments under section 11 or 28.
 
-(4) Before producing any guidance under this section (including revised or replacement guidance), OFCOM must consult the Information Commission[^key-0e18bdeaf0c717f5df097e6c4cfa88c6].
+(4) Before producing any guidance under this section (including revised or replacement guidance), OFCOM must consult the Information Commission[^c-0e18bdeaf0c717f5df097e6c4cfa88c6].
 
 (5) OFCOM must revise guidance under this section from time to time in response to further risk assessments under section 98 or to revisions of the risk profiles.
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c0f33964e7a9c21e283e1c89627fadfb]: Commencement: S. 99 in force at Royal Assent, see [s. 240(4)(q)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/q)
+[^c-c0f33964e7a9c21e283e1c89627fadfb]: Commencement: S. 99 in force at Royal Assent, see [s. 240(4)(q)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/q)
 
-[^key-0e18bdeaf0c717f5df097e6c4cfa88c6]: Textual amendment: Words in [s. 99(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/99/4) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(f)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/f); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-0e18bdeaf0c717f5df097e6c4cfa88c6]: Textual amendment: Words in [s. 99(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/99/4) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(f)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/f); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

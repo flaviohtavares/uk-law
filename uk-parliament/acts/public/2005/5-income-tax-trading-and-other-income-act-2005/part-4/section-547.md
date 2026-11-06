@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ...[^key-bf9ff67fc400eb360a0ba4c77db33e3c][^key-bf9ff67fc400eb360a0ba4c77db33e3c]
+## ...[^c-bf9ff67fc400eb360a0ba4c77db33e3c][^c-bf9ff67fc400eb360a0ba4c77db33e3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf9ff67fc400eb360a0ba4c77db33e3c]: Textual amendment: Pt. 4 Ch. 10 omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [36(8)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/36/8) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-bf9ff67fc400eb360a0ba4c77db33e3c]: Textual amendment: Pt. 4 Ch. 10 omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [36(8)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/36/8) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))

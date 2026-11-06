@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Designation[^key-1a0ad9b6910314bed33d19ace60bb118][^key-c670c0082ce1a1e1f782e233af7fe92a]
+## 8. Designation[^c-1a0ad9b6910314bed33d19ace60bb118][^c-c670c0082ce1a1e1f782e233af7fe92a]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ Section 115 of the Housing and Regeneration Act 2008 (profit-making and non-prof
 
 ## Annotations
 
-[^key-1a0ad9b6910314bed33d19ace60bb118]: Commencement: S. 8 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-1a0ad9b6910314bed33d19ace60bb118]: Commencement: S. 8 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-c670c0082ce1a1e1f782e233af7fe92a]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/36/section/8) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/c)
+[^c-c670c0082ce1a1e1f782e233af7fe92a]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/36/section/8) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/c)

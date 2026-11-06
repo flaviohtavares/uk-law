@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Allocation of individual schools budget[^key-1a699fdcdcd709b8012992cfa1c78127]
+## 8. Allocation of individual schools budget[^c-1a699fdcdcd709b8012992cfa1c78127]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a699fdcdcd709b8012992cfa1c78127]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2010/824/regulation/8) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-1a699fdcdcd709b8012992cfa1c78127]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2010/824/regulation/8) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

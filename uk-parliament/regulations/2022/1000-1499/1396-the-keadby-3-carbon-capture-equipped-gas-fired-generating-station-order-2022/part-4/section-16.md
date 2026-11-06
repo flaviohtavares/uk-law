@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Temporary interference with canal and public rights of navigation[^key-6e6aeabc1fa9e3d439096ccdc3a5ee86]
+## 16. Temporary interference with canal and public rights of navigation[^c-6e6aeabc1fa9e3d439096ccdc3a5ee86]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e6aeabc1fa9e3d439096ccdc3a5ee86]: Commencement: Art. 16 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-6e6aeabc1fa9e3d439096ccdc3a5ee86]: Commencement: Art. 16 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

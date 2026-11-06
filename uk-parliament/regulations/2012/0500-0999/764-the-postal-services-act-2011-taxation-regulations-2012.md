@@ -54,7 +54,7 @@ The Treasury make the following Regulations in exercise of the power conferred b
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and effect[^key-1d8e560c01e107baae7f2b5073054530]
+### 1. Citation, commencement and effect[^c-1d8e560c01e107baae7f2b5073054530]
 
 (1) These Regulations may be cited as the Postal Services Act 2011 (Taxation) Regulations 2012 and come into force immediately after the coming into force of both—
 
@@ -65,7 +65,7 @@ The Treasury make the following Regulations in exercise of the power conferred b
 
 (3) Regulations 4 and 5 have effect in relation to accounting periods beginning on or after the date on which the first order made under section 17(2) of the Act comes into force by virtue of the specified day order.
 
-### 2. Interpretation[^key-dc458207ab6b845ef956ec2ccdb0b564]
+### 2. Interpretation[^c-dc458207ab6b845ef956ec2ccdb0b564]
 
 (1) In these Regulations—
 
@@ -92,7 +92,7 @@ expressions which are defined, or are otherwise explained, in section 280 (abbre
 
 ## PART 2 — Corporation Tax
 
-### 3. De-recognition of the obligations and assets of the RMPP[^key-4f699241c21ca5705203fd729d351b63]
+### 3. De-recognition of the obligations and assets of the RMPP[^c-4f699241c21ca5705203fd729d351b63]
 
 (1) Paragraph (2) applies where—
 
@@ -110,7 +110,7 @@ expressions which are defined, or are otherwise explained, in section 280 (abbre
 - (a) “accounts” has the meaning given by section 17(1) of the Corporation Tax Act 2010[^f00006] (interpretation); and
 - (b) “generally accepted accounting practice” has the same meaning as in section 1127 of the Corporation Tax Act 2010 (generally accepted accounting practice and related expressions).
 
-### 4. Extinguishment of relevant losses of RMGL[^key-d38d5eec62461ffbe2c6fb7adca4875b]
+### 4. Extinguishment of relevant losses of RMGL[^c-d38d5eec62461ffbe2c6fb7adca4875b]
 
 (1) With effect from the first day of the first qualifying accounting period, the relevant losses of RMGL are to be treated for the purposes of corporation tax as extinguished.
 
@@ -130,7 +130,7 @@ but this paragraph is subject to paragraph (4).
 - (a) losses incurred by RMGL are the losses computed in accordance with section 47 of the Corporation Tax Act 2009 (losses calculated on the same basis as profits); and
 - (b) a loss is an unrelieved loss for an accounting period if no relief has been given in respect of the loss under section 37 (relief for trade losses against total profits) or Part 5 of the Corporation Tax Act 2010 (group relief).
 
-### 5. Extinguishment of trading losses of POL[^key-66ea1be276a33d631aa4c4db920391d2]
+### 5. Extinguishment of trading losses of POL[^c-66ea1be276a33d631aa4c4db920391d2]
 
 (1) With effect from the first day of the first qualifying accounting period, the relevant losses of POL are to be treated for the purposes of corporation tax as extinguished.
 
@@ -153,11 +153,11 @@ but this paragraph is subject to paragraph (4).
 - (a) losses incurred by POL are the losses computed in accordance with section 47 of the Corporation Tax Act 2009; and
 - (b) a loss is an unrelieved loss for an accounting period if no relief has been given in respect of the loss under section 37 or Part 5 of the Corporation Tax Act 2010.
 
-### 6. Exemption from corporation tax[^key-27039450f3b0eeb6c993a1ec5492a7af]
+### 6. Exemption from corporation tax[^c-27039450f3b0eeb6c993a1ec5492a7af]
 
-(1) BCL is exempt from corporation tax for any accounting period in which it is wholly owned by the Crown within the meaning of sections 14 and 15(1) of the Act[^key-d0690b77d9275175ee454a531530de79].
+(1) BCL is exempt from corporation tax for any accounting period in which it is wholly owned by the Crown within the meaning of sections 14 and 15(1) of the Act[^c-d0690b77d9275175ee454a531530de79].
 
-(1A)[^key-3feddd0c69a14a79d66fb47aef8692ca] Where BCL ceases to be wholly owned by the Crown otherwise than at the end of an accounting period—
+(1A)[^c-3feddd0c69a14a79d66fb47aef8692ca] Where BCL ceases to be wholly owned by the Crown otherwise than at the end of an accounting period—
 
 - (a) the accounting period during which it ceases to be wholly owned by the Crown is treated for the purposes of corporation tax as ending when it so ceases; and
 - (b) its profits and losses are to be computed accordingly for those purposes.
@@ -168,11 +168,11 @@ but this paragraph is subject to paragraph (4).
 
 ### CHAPTER 1 — Transfer of Accrued Rights from the RMPP to the new public scheme
 
-#### 7. New public scheme to be treated as a registered pension scheme[^key-eb7a145d1c3d00a69a3dede15eb6fff9]
+#### 7. New public scheme to be treated as a registered pension scheme[^c-eb7a145d1c3d00a69a3dede15eb6fff9]
 
 The new public scheme is to be treated as a registered pension scheme for the purposes of Part 4.
 
-#### 8. Transfer to be treated as a recognised transfer[^key-fb1053a285d1a247b8f3cac95695c675]
+#### 8. Transfer to be treated as a recognised transfer[^c-fb1053a285d1a247b8f3cac95695c675]
 
 (1) For the purposes of Part 4, the Transfer is to be treated as a recognised transfer of sums or assets held for the purposes of, or representing accrued rights under, the RMPP in connection with a member of that scheme within the meaning of section 169(1).
 
@@ -186,14 +186,14 @@ The new public scheme is to be treated as a registered pension scheme for the pu
 
 ### CHAPTER 2 — Continued application of “A day” transitional provisions after the Accrued Rights Transfer
 
-#### 9. “Enhanced protection” to continue after the Accrued Rights Transfer[^key-05d7c5d4d7ffe14f6167b3e3c7ce55b4]
+#### 9. “Enhanced protection” to continue after the Accrued Rights Transfer[^c-05d7c5d4d7ffe14f6167b3e3c7ce55b4]
 
 Where the Accrued Rights Transfer has taken place—
 
 - (a) the Transfer is to be treated as a permitted transfer within the meaning of paragraph 12(7) of Schedule 36 for the purposes of paragraphs 12, 13 and 15 (“enhanced protection”) of that Schedule[^f00008]; and
 - (b) that permitted transfer is to be treated as falling within paragraph 12(8)(c).
 
-#### 10. Rights to take benefit before normal minimum pension age to continue after the Accrued Rights Transfer[^key-72baf8d4ef08a68e3c05916e57af2282]
+#### 10. Rights to take benefit before normal minimum pension age to continue after the Accrued Rights Transfer[^c-72baf8d4ef08a68e3c05916e57af2282]
 
 (1) Paragraphs (2) and (3) apply where—
 
@@ -207,7 +207,7 @@ Where the Accrued Rights Transfer has taken place—
 - (a) the requirement in paragraph (a) is to be treated as met if the member becomes entitled to all the benefits payable to the member under arrangements under both the RMPP and the new public scheme (to which the member did not have an actual entitlement on or before 5th April 2006) on the same date; and
 - (b) in respect of the requirement in paragraph (b), direct or indirect references to a sponsoring employer in Condition 1, 2 or 3 in sub-paragraphs (7A), (7B), (7C) or (7E) (as the case may be) are to be read as references to a sponsoring employer of the RMPP.
 
-#### 11. Entitlement to lump sums exceeding 25% of uncrystallised rights to continue after the Accrued Rights Transfer[^key-57df192d09ac19e9c1f041c31188d12f]
+#### 11. Entitlement to lump sums exceeding 25% of uncrystallised rights to continue after the Accrued Rights Transfer[^c-57df192d09ac19e9c1f041c31188d12f]
 
 (1) Paragraph (2) applies where—
 
@@ -216,7 +216,7 @@ Where the Accrued Rights Transfer has taken place—
 
 (2) The Transfer is to be treated as a block transfer within the meaning of paragraph 22(6) of Schedule 36 for the purposes of paragraphs 31 to 34[^f00010] (entitlement to lump sums exceeding 25% of uncrystallised rights) of that Schedule.
 
-#### 12. Transitional protection for stand-alone lump sums to continue after the Accrued Rights Transfer[^key-9480d408671c1433b7710b3958cb174d]
+#### 12. Transitional protection for stand-alone lump sums to continue after the Accrued Rights Transfer[^c-9480d408671c1433b7710b3958cb174d]
 
 (1) Paragraph (2) applies where—
 
@@ -225,7 +225,7 @@ Where the Accrued Rights Transfer has taken place—
 
 (2) The Transfer is to be treated as a block transfer within the meaning of paragraph 22(6) of Schedule 36 for the purposes of article 25D(4)(c) of the Transitional Provisions Order.
 
-#### 13. Transitional protection for continued life cover (75+) to continue after the Accrued Rights Transfer[^key-9591ff2ca7fc04a725620779d152906d]
+#### 13. Transitional protection for continued life cover (75+) to continue after the Accrued Rights Transfer[^c-9591ff2ca7fc04a725620779d152906d]
 
 (1) Paragraph (2) applies where—
 
@@ -236,7 +236,7 @@ Where the Accrued Rights Transfer has taken place—
 
 (3) Condition D in article 6 of the Transitional Provisions Order is to be treated as satisfied in respect of the new public scheme where the rules of that scheme in relation to life cover lump sums are the same as the equivalent rules of the RMPP relating to those sums on 10th December 2003.
 
-#### 14. Transitional protection in relation to dependants’ scheme pension limit to continue after the Accrued Rights Transfer[^key-7fd45ae9635f556d756b0e2b295c6958]
+#### 14. Transitional protection in relation to dependants’ scheme pension limit to continue after the Accrued Rights Transfer[^c-7fd45ae9635f556d756b0e2b295c6958]
 
 (1) Paragraph (2) applies where—
 
@@ -245,7 +245,7 @@ Where the Accrued Rights Transfer has taken place—
 
 (2) The transitional protection afforded by article 24 (disapplication of dependants’ scheme pension limit) of the Transitional Provisions Order applies to a dependants’ scheme pension payable under the new public scheme in respect of that member.
 
-#### 15. Transitional provision in relation to serious ill-health lump sums and pension protection lump sum death benefits to continue after the Accrued Rights Transfer[^key-d8b87d8459274c5c3aab6c9893ac4330]
+#### 15. Transitional provision in relation to serious ill-health lump sums and pension protection lump sum death benefits to continue after the Accrued Rights Transfer[^c-d8b87d8459274c5c3aab6c9893ac4330]
 
 (1) Paragraphs (3) and (5) appl**y** where—
 
@@ -289,24 +289,24 @@ Where the Accrued Rights Transfer has taken place—
 
 .
 
-#### 16. Transitional protection in relation to payments to children aged 23 or over to continue after the Accrued Rights Transfer[^key-3125f70909efdd18b9d13bab136c08fb]
+#### 16. Transitional protection in relation to payments to children aged 23 or over to continue after the Accrued Rights Transfer[^c-3125f70909efdd18b9d13bab136c08fb]
 
 (1) Paragraph (2) applies where the Accrued Rights Transfer has resulted in the transfer from the RMPP to the new public scheme of Accrued Rights in respect of which article 34 (payments to children aged 23 or over) of the Transitional Provisions Order applied.
 
 (2) The Transfer is to be treated as a block transfer within the meaning of article 34B(4) for the purposes of article 34(6).
 
-**17.**[^key-855c7114fd4efa7930586a75495771cd] (1) Paragraph (2) applies where the Accrued Rights Transfer has resulted in the transfer from the RMPP to the new public scheme of Accrued Rights in respect of which article 34A (payments to financially dependent children aged 23 or over) of the Transitional Provisions Order applied.
+**17.**[^c-855c7114fd4efa7930586a75495771cd] (1) Paragraph (2) applies where the Accrued Rights Transfer has resulted in the transfer from the RMPP to the new public scheme of Accrued Rights in respect of which article 34A (payments to financially dependent children aged 23 or over) of the Transitional Provisions Order applied.
 
 (2) The Transfer is to be treated as a block transfer within the meaning of article 34B(4) for the purposes of article 34A(5).
 
-**18.**[^key-e4976cc28b5f9b831d606dbac2b61163] (1) Paragraph (2) applies where—
+**18.**[^c-e4976cc28b5f9b831d606dbac2b61163] (1) Paragraph (2) applies where—
 
 - (a) Condition D in article 34A(3) of the Transitional Provisions Order was met in relation to a pension death benefit payable in respect of a member of the RMPP so that article 34A was capable of applying to the payment of a pension death benefit; and
 - (b) the Accrued Rights Transfer has taken place.
 
 (2) The Transfer is to be treated as a block transfer within the meaning of article 34B(4) for the purpose of article 34A(5).
 
-#### 19. Transitional protection in relation to lump sum death benefits to continue after the Accrued Rights Transfer[^key-386ea0a38db0766a2678a524ca630dcc]
+#### 19. Transitional protection in relation to lump sum death benefits to continue after the Accrued Rights Transfer[^c-386ea0a38db0766a2678a524ca630dcc]
 
 (1) Paragraph (2) applies where—
 
@@ -319,7 +319,7 @@ Where the Accrued Rights Transfer has taken place—
 
 ### CHAPTER 3 — Miscellaneous provisions
 
-#### 20. Liability of scheme administrator of the new public scheme in respect of an individual’s annual allowance charge for the tax year in which the Accrued Rights Transfer takes place[^key-15ad8279e32c7f7460bb84a849500160]
+#### 20. Liability of scheme administrator of the new public scheme in respect of an individual’s annual allowance charge for the tax year in which the Accrued Rights Transfer takes place[^c-15ad8279e32c7f7460bb84a849500160]
 
 (1) Paragraph (2) applies where—
 
@@ -328,7 +328,7 @@ Where the Accrued Rights Transfer has taken place—
 
 (2) The Transfer is to be treated as a transfer of all the sums or assets held for the purposes of, or representing accrued rights under, the RMPP so as to become held for the purposes of, or to represent rights under, the new public scheme within the meaning of section 237B(9).
 
-#### 21. Transitional protection under paragraph 14 of Schedule 18 to the Finance Act 2011 (“fixed protection”) to continue after the Accrued Rights Transfer[^key-13887efe08b5e98f41b3695171c18377]
+#### 21. Transitional protection under paragraph 14 of Schedule 18 to the Finance Act 2011 (“fixed protection”) to continue after the Accrued Rights Transfer[^c-13887efe08b5e98f41b3695171c18377]
 
 (1) Paragraphs (2) and (3) apply where—
 
@@ -348,7 +348,7 @@ Where the Accrued Rights Transfer has taken place—
 - (a) the general index of retail prices (for all items) published by the Statistics Board; or
 - (b) if that index is not published for the relevant month, any substituted index or index figures published by the Statistics Board.
 
-#### 22. Calculation of pension input amount where there is an adjustment to benefit entitlement after the Accrued Rights Transfer[^key-3d939d63e7bae6a446d364d67e48b739]
+#### 22. Calculation of pension input amount where there is an adjustment to benefit entitlement after the Accrued Rights Transfer[^c-3d939d63e7bae6a446d364d67e48b739]
 
 (1) Paragraph (2) applies where—
 
@@ -357,7 +357,7 @@ Where the Accrued Rights Transfer has taken place—
 
 (2) The adjustment and corresponding adjustment referred to in subsection (1)(b) are to be disregarded when arriving at the pension input amount for the RMPP and the new public scheme under sections 234 to 236A (pension input amount: defined benefits arrangements)[^f00015].
 
-#### 23. Provision in relation to double taxation relief arrangements[^key-449e55bfbf88dbd0d40b6b38b0ff2a51]
+#### 23. Provision in relation to double taxation relief arrangements[^c-449e55bfbf88dbd0d40b6b38b0ff2a51]
 
 (1) Paragraph (2) applies where—
 
@@ -369,7 +369,7 @@ Where the Accrued Rights Transfer has taken place—
 
 (3) For the purposes of this regulation, a “double taxation relief arrangement” means an arrangement that has effect under section 2(1) of the Taxation (International and Other Provisions) Act 2010[^f00017].
 
-#### 24. Further protection in relation to changes to tax treatment of Accrued Rights as a result of the Transfer[^key-3d7c5d5db98e1e849a9b2c0c2c46689d]
+#### 24. Further protection in relation to changes to tax treatment of Accrued Rights as a result of the Transfer[^c-3d7c5d5db98e1e849a9b2c0c2c46689d]
 
 (1) Paragraph 2 applies where—
 
@@ -391,17 +391,17 @@ Where the Accrued Rights Transfer has taken place—
 
 ## PART 4 — Stamp Duty, Stamp Duty Land Tax and Stamp Duty Reserve Tax
 
-### 25. Stamp Duty[^key-fa9e76a2ecd9ee32ab424175b41bbb0d]
+### 25. Stamp Duty[^c-fa9e76a2ecd9ee32ab424175b41bbb0d]
 
 Stamp duty is not chargeable on an instrument making or executing the Assets Transfer.
 
-### 26. Stamp Duty Land Tax[^key-b6ee0bd6d1d9881c9983fc7d18b79b2d]
+### 26. Stamp Duty Land Tax[^c-b6ee0bd6d1d9881c9983fc7d18b79b2d]
 
 A land transaction entered into on, or in consequence of, or in connection with, the Assets Transfer is exempt from the charge to stamp duty land tax.
 
-**27.**[^key-f4ea01ca1a0d55cab8be3d932798fb79] A land transaction entered into on, or in consequence of, or in connection with, the Assets Transfer is not a notifiable transaction within the meaning of section 77 of the Finance Act 2003[^f00021].
+**27.**[^c-f4ea01ca1a0d55cab8be3d932798fb79] A land transaction entered into on, or in consequence of, or in connection with, the Assets Transfer is not a notifiable transaction within the meaning of section 77 of the Finance Act 2003[^f00021].
 
-### 28. Stamp Duty Reserve Tax[^key-9ea05e5559bda7ce8316d18021a6bcad]
+### 28. Stamp Duty Reserve Tax[^c-9ea05e5559bda7ce8316d18021a6bcad]
 
 Stamp duty reserve tax is not chargeable on an agreement to transfer chargeable securities made in relation to, in connection with, or by or under, the Assets Transfer.
 
@@ -485,9 +485,9 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [2011 c. 5](https://www.legislation.gov.uk/ukpga/2011/5). The taxes in respect of which provision is made in these Regulations are relevant taxes for the purposes of section 23(9) of the Postal Services Act 2011.
 
-[^key-1d8e560c01e107baae7f2b5073054530]: Commencement: Reg. 1 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-1d8e560c01e107baae7f2b5073054530]: Commencement: Reg. 1 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
-[^key-dc458207ab6b845ef956ec2ccdb0b564]: Commencement: Reg. 2 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-dc458207ab6b845ef956ec2ccdb0b564]: Commencement: Reg. 2 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
 [^f00002]: Footnote: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4).
 
@@ -497,77 +497,77 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00005]: Footnote: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
 
-[^key-4f699241c21ca5705203fd729d351b63]: Commencement: Reg. 3 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-4f699241c21ca5705203fd729d351b63]: Commencement: Reg. 3 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
 [^f00006]: Footnote: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4).
 
-[^key-d38d5eec62461ffbe2c6fb7adca4875b]: Commencement: Reg. 4 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-d38d5eec62461ffbe2c6fb7adca4875b]: Commencement: Reg. 4 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
-[^key-66ea1be276a33d631aa4c4db920391d2]: Commencement: Reg. 5 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-66ea1be276a33d631aa4c4db920391d2]: Commencement: Reg. 5 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
-[^key-27039450f3b0eeb6c993a1ec5492a7af]: Commencement: Reg. 6 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-27039450f3b0eeb6c993a1ec5492a7af]: Commencement: Reg. 6 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
-[^key-d0690b77d9275175ee454a531530de79]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/6/1) substituted (30.9.2016) by [The Postal Services Act 2011 (Taxation) (Amendment) Regulations 2016 (S.I. 2016/881)](https://www.legislation.gov.uk/uksi/2016/881), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/881/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/881/regulation/2/2)
+[^c-d0690b77d9275175ee454a531530de79]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/6/1) substituted (30.9.2016) by [The Postal Services Act 2011 (Taxation) (Amendment) Regulations 2016 (S.I. 2016/881)](https://www.legislation.gov.uk/uksi/2016/881), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/881/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/881/regulation/2/2)
 
-[^key-3feddd0c69a14a79d66fb47aef8692ca]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2012/764/regulation/6/1A) inserted (30.9.2016) by [The Postal Services Act 2011 (Taxation) (Amendment) Regulations 2016 (S.I. 2016/881)](https://www.legislation.gov.uk/uksi/2016/881), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/881/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/881/regulation/2/3)
+[^c-3feddd0c69a14a79d66fb47aef8692ca]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2012/764/regulation/6/1A) inserted (30.9.2016) by [The Postal Services Act 2011 (Taxation) (Amendment) Regulations 2016 (S.I. 2016/881)](https://www.legislation.gov.uk/uksi/2016/881), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/881/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/881/regulation/2/3)
 
-[^key-eb7a145d1c3d00a69a3dede15eb6fff9]: Commencement: Reg. 7 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-eb7a145d1c3d00a69a3dede15eb6fff9]: Commencement: Reg. 7 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
-[^key-fb1053a285d1a247b8f3cac95695c675]: Commencement: Reg. 8 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-fb1053a285d1a247b8f3cac95695c675]: Commencement: Reg. 8 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2006/499](https://www.legislation.gov.uk/uksi/2006/499); amended by [S.I. 2011/733](https://www.legislation.gov.uk/uksi/2011/733); there are other amending instruments but none is relevant.
 
-[^key-05d7c5d4d7ffe14f6167b3e3c7ce55b4]: Commencement: Reg. 9 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-05d7c5d4d7ffe14f6167b3e3c7ce55b4]: Commencement: Reg. 9 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
 [^f00008]: Footnote: Paragraph 12 was amended, so far as is relevant, by paragraphs 1 and 53 of Schedule 10 to the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), paragraphs 1, 16 and 17 of Schedule 20 and table 2 in Part 3 of Schedule 27 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11). Paragraph 13 was amended by paragraphs 1 and 53(1) and (7) of Schedule 10 to the Finance Act 2005. Paragraph 15 was amended by paragraphs 1, 37 and 40 of Schedule 23 to the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and paragraphs 1, 16 and 19 of Schedule 20 to the Finance Act 2007.
 
-[^key-72baf8d4ef08a68e3c05916e57af2282]: Commencement: Reg. 10 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-72baf8d4ef08a68e3c05916e57af2282]: Commencement: Reg. 10 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
 [^f00009]: Footnote: Paragraph 22 was amended by paragraphs 1, 54 and 55 of Schedule 10 to the Finance Act 2005, paragraphs 1 and 43 of Schedule 23 to the Finance Act 2006 and paragraphs 423 and 432(3) of Schedule 1 to the Corporation Tax Act 2010.
 
-[^key-57df192d09ac19e9c1f041c31188d12f]: Commencement: Reg. 11 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-57df192d09ac19e9c1f041c31188d12f]: Commencement: Reg. 11 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
 [^f00010]: Footnote: Paragraph 31(7) was amended by paragraphs 1 and 55 of Schedule 10 to the Finance Act 2005. Paragraph 34 was amended by paragraphs 1 and 57 of Schedule 10 to the Finance Act 2005, paragraphs 1 and 25 of Schedule 25 to the Finance Act 2006, paragraph 13 of Schedule 29 to the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9) and paragraphs 62 and 82 to Schedule 16 of the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11). Paragraph 34 was also amended by paragraphs 1, 8 and 11 of Schedule 18 to the Finance Act 2011 with effect for the tax year 2012-13 and subsequent tax years.
 
-[^key-9480d408671c1433b7710b3958cb174d]: Commencement: Reg. 12 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-9480d408671c1433b7710b3958cb174d]: Commencement: Reg. 12 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
-[^key-9591ff2ca7fc04a725620779d152906d]: Commencement: Reg. 13 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-9591ff2ca7fc04a725620779d152906d]: Commencement: Reg. 13 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
-[^key-7fd45ae9635f556d756b0e2b295c6958]: Commencement: Reg. 14 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-7fd45ae9635f556d756b0e2b295c6958]: Commencement: Reg. 14 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
-[^key-d8b87d8459274c5c3aab6c9893ac4330]: Commencement: Reg. 15 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-d8b87d8459274c5c3aab6c9893ac4330]: Commencement: Reg. 15 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
 [^f00011]: Footnote: Paragraph 4 was amended by paragraphs 23 and 28 of Schedule 16 to the Finance Act 2011.
 
 [^f00012]: Footnote: Paragraph 14 was amended by paragraphs 32 and 34 of Schedule 16 to the Finance Act 2011.
 
-[^key-3125f70909efdd18b9d13bab136c08fb]: Commencement: Reg. 16 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-3125f70909efdd18b9d13bab136c08fb]: Commencement: Reg. 16 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
-[^key-855c7114fd4efa7930586a75495771cd]: Commencement: Reg. 17 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-855c7114fd4efa7930586a75495771cd]: Commencement: Reg. 17 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
-[^key-e4976cc28b5f9b831d606dbac2b61163]: Commencement: Reg. 18 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-e4976cc28b5f9b831d606dbac2b61163]: Commencement: Reg. 18 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
-[^key-386ea0a38db0766a2678a524ca630dcc]: Commencement: Reg. 19 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-386ea0a38db0766a2678a524ca630dcc]: Commencement: Reg. 19 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
-[^key-15ad8279e32c7f7460bb84a849500160]: Commencement: Reg. 20 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-15ad8279e32c7f7460bb84a849500160]: Commencement: Reg. 20 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
 [^f00013]: Footnote: Section 237B was inserted by paragraphs 1 and 15 of Schedule 17 to the Finance Act 2011.
 
-[^key-13887efe08b5e98f41b3695171c18377]: Commencement: Reg. 21 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-13887efe08b5e98f41b3695171c18377]: Commencement: Reg. 21 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
 [^f00014]: Footnote: [2011 c.11](https://www.legislation.gov.uk/ukpga/2011/11).
 
-[^key-3d939d63e7bae6a446d364d67e48b739]: Commencement: Reg. 22 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-3d939d63e7bae6a446d364d67e48b739]: Commencement: Reg. 22 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
 [^f00015]: Footnote: Sections 234 to 236 were amended by paragraphs 1 and 10 to 12, and section 236A was inserted by paragraphs 1 and 13, of Schedule 17 to the Finance Act 2011.
 
-[^key-449e55bfbf88dbd0d40b6b38b0ff2a51]: Commencement: Reg. 23 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-449e55bfbf88dbd0d40b6b38b0ff2a51]: Commencement: Reg. 23 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
 [^f00016]: Footnote: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1). Chapter 5A was inserted into Part 9 by paragraphs 1 and 6 of Schedule 31 to the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
 
 [^f00017]: Footnote: [2010 c. 8](https://www.legislation.gov.uk/ukpga/2010/8).
 
-[^key-3d7c5d5db98e1e849a9b2c0c2c46689d]: Commencement: Reg. 24 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-3d7c5d5db98e1e849a9b2c0c2c46689d]: Commencement: Reg. 24 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
 [^f00018]: Footnote: Section 208 was amended by paragraphs 1 and 14 of Schedule 23 to the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25) and paragraphs 10 and 12 of Schedule 2 to the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10).
 
@@ -575,12 +575,12 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00020]: Footnote: Section 227 was amended by paragraph 45 of Schedule 16 and paragraphs 1 and 3 of Schedule 17 to the Finance Act 2011.
 
-[^key-fa9e76a2ecd9ee32ab424175b41bbb0d]: Commencement: Reg. 25 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-fa9e76a2ecd9ee32ab424175b41bbb0d]: Commencement: Reg. 25 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
-[^key-b6ee0bd6d1d9881c9983fc7d18b79b2d]: Commencement: Reg. 26 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-b6ee0bd6d1d9881c9983fc7d18b79b2d]: Commencement: Reg. 26 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
-[^key-f4ea01ca1a0d55cab8be3d932798fb79]: Commencement: Reg. 27 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-f4ea01ca1a0d55cab8be3d932798fb79]: Commencement: Reg. 27 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
 
 [^f00021]: Footnote: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14); section 77 was substituted by sections 94(1) and (2) of the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9).
 
-[^key-9ea05e5559bda7ce8316d18021a6bcad]: Commencement: Reg. 28 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)
+[^c-9ea05e5559bda7ce8316d18021a6bcad]: Commencement: Reg. 28 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/764/regulation/1/1)

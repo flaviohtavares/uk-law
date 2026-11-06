@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Power to restate and modify saved legislation[^key-1ee42e8ddc081d976704301c8ccf89d6][^key-ca227376a1fc9eb903af472a48bf66f0]
+## 4. Power to restate and modify saved legislation[^c-1ee42e8ddc081d976704301c8ccf89d6][^c-ca227376a1fc9eb903af472a48bf66f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) the purpose of making the law clearer or more accessible, or
 - (b) any of the purposes mentioned in section 3(2).
 
-(3) Legislation restated by virtue of subsection (1) is not assimilated[^key-a146808db7daec2eb53736b3cbe2fb58] law.
+(3) Legislation restated by virtue of subsection (1) is not assimilated[^c-a146808db7daec2eb53736b3cbe2fb58] law.
 
 (4) Where legislation is restated by virtue of subsection (1), the Treasury may by regulations make such further modifications of that legislation as they consider necessary or desirable for or in connection with a purpose referred to in subsection (2)(a) or (b).
 
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1ee42e8ddc081d976704301c8ccf89d6]: Commencement: S. 4 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-1ee42e8ddc081d976704301c8ccf89d6]: Commencement: S. 4 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-ca227376a1fc9eb903af472a48bf66f0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/29/section/4) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/b)
+[^c-ca227376a1fc9eb903af472a48bf66f0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/29/section/4) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/b)
 
-[^key-a146808db7daec2eb53736b3cbe2fb58]: Textual amendment: Word in [s. 4(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/4/3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/4)
+[^c-a146808db7daec2eb53736b3cbe2fb58]: Textual amendment: Word in [s. 4(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/4/3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(4)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/4)

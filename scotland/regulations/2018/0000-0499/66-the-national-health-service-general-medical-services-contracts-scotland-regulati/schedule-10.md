@@ -32,7 +32,7 @@ Regulation 35
 
 (3) In schedule 1—
 
-- (a) in paragraph 3(c)(i), for “paragraph 114 (gifts) of Schedule 5 (other contractual terms) to”[^key-e841cc53d75e91745381328129d9252f] substitute “paragraph 117 (gifts) of schedule 6 of”; and
+- (a) in paragraph 3(c)(i), for “paragraph 114 (gifts) of Schedule 5 (other contractual terms) to”[^c-e841cc53d75e91745381328129d9252f] substitute “paragraph 117 (gifts) of schedule 6 of”; and
 - (b) in paragraph 3(d)(i), for “paragraph 114 of Schedule 5 to” substitute “paragraph 117 (gifts) of schedule 6 of”.
 
 ### 3. The Primary Medical Services (Sale of Goodwill and Restrictions on Sub-contracting) (Scotland) Regulations 2004
@@ -47,7 +47,7 @@ Regulation 35
 
 ### 4. The General Medical Services and Section 17C Agreements (Transitional and other Ancillary Provisions) (Scotland) Order 2004
 
-(1) The General Medical Services and Section 17C Agreements (Transitional and other Ancillary Provisions) (Scotland) Order 2004[^f00158] is[^key-a0f68e2a4b208a23503b37b2a3110d19] amended as follows.
+(1) The General Medical Services and Section 17C Agreements (Transitional and other Ancillary Provisions) (Scotland) Order 2004[^f00158] is[^c-a0f68e2a4b208a23503b37b2a3110d19] amended as follows.
 
 (2) In article 1(2) (interpretation)—
 
@@ -65,7 +65,7 @@ Regulation 35
 
 (4) In article 4 (acceptance of applications for inclusion in lists of patients)[^f00159]—
 
-- (a) in paragraph (1)(a)[^key-29c8c09349746d6e6c61277d91514ae9], for “paragraph 15(5) of Schedule 5 to” substitute “paragraph 12(5) of schedule 6 of”; and
+- (a) in paragraph (1)(a)[^c-29c8c09349746d6e6c61277d91514ae9], for “paragraph 15(5) of Schedule 5 to” substitute “paragraph 12(5) of schedule 6 of”; and
 - (b) omit paragraph (2).
 
 (5) In article 5(a) (removal from the list of patients at the request of the patient)—
@@ -129,7 +129,7 @@ Regulation 35
 
 (24) In article 40 (requirement to provide dispensing services)—
 
-- (a) in paragraph (1), for “Schedule 5 to” substitute[^key-d40e15341169c20ec2b406ad9e7b6b6c] “schedule 6 of”; and
+- (a) in paragraph (1), for “Schedule 5 to” substitute[^c-d40e15341169c20ec2b406ad9e7b6b6c] “schedule 6 of”; and
 - (b) in paragraph (2), for “regulation 2(1) substitute “regulation 3(1)”.
 
 (25) In article 42 (complaints)—
@@ -172,7 +172,7 @@ Regulation 35
 
 (1) The National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^f00163] are amended as follows.
 
-(2) In regulation 2(1)[^key-86da5dcc70acb88c4d16345ec909ea75] (interpretation and application)—
+(2) In regulation 2(1)[^c-86da5dcc70acb88c4d16345ec909ea75] (interpretation and application)—
 
 - (a) in paragraph (b) of the definition of “appropriate non-proprietary name”, for “Schedule 5 to” substitute “schedule 6 of ”;
 - (b) in paragraph (a) of the definition of “dispensing doctor”[^f00164], for “paragraph 44 of Schedule 5 to the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004” substitute “paragraph 44 of schedule 6 of the GMS Contracts Regulations”;
@@ -194,7 +194,7 @@ Regulation 35
 
 (1) The Patient Rights (Complaints Procedure and Consequential Provisions) (Scotland) Regulations 2012[^f00166] are amended as follows.
 
-(2) In regulation 1(2) (citation, commencement and interpretation), for sub-paragraph (a)(i)[^key-46031666654e298998bcd2a3dea956c7] of the definition of “relevant complaints procedure”, substitute—
+(2) In regulation 1(2) (citation, commencement and interpretation), for sub-paragraph (a)(i)[^c-46031666654e298998bcd2a3dea956c7] of the definition of “relevant complaints procedure”, substitute—
 
 > - (i) part 6 of schedule 6 of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018;
 
@@ -261,21 +261,21 @@ Regulation 35
 
 [^f00156]: Footnote: [S.S.I. 2004/114](https://www.legislation.gov.uk/ssi/2004/114).
 
-[^key-e841cc53d75e91745381328129d9252f]: Textual amendment: Words in sch. 10 para. 2(3)(a) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [10(a)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/a)
+[^c-e841cc53d75e91745381328129d9252f]: Textual amendment: Words in sch. 10 para. 2(3)(a) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [10(a)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/a)
 
 [^f00157]: Footnote: [S.S.I. 2004/162](https://www.legislation.gov.uk/ssi/2004/162).
 
 [^f00158]: Footnote: [S.S.I. 2004/163](https://www.legislation.gov.uk/ssi/2004/163).
 
-[^key-a0f68e2a4b208a23503b37b2a3110d19]: Textual amendment: Word in sch. 10 para. 4(1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [10(b)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/b/i)
+[^c-a0f68e2a4b208a23503b37b2a3110d19]: Textual amendment: Word in sch. 10 para. 4(1) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [10(b)(i)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/b/i)
 
 [^f00159]: Footnote: Article 4(1) was amended by [S.S.I. 2004/223](https://www.legislation.gov.uk/ssi/2004/223).
 
-[^key-29c8c09349746d6e6c61277d91514ae9]: Textual amendment: Words in sch. 10 para. 4(4)(a) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [10(b)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/b/ii)
+[^c-29c8c09349746d6e6c61277d91514ae9]: Textual amendment: Words in sch. 10 para. 4(4)(a) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [10(b)(ii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/b/ii)
 
 [^f00160]: Footnote: Article 24(1) was amended by [S.S.I. 2004/223](https://www.legislation.gov.uk/ssi/2004/223).
 
-[^key-d40e15341169c20ec2b406ad9e7b6b6c]: Textual amendment: Word in sch. 10 para. 4(24)(a) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [10(b)(iii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/b/iii)
+[^c-d40e15341169c20ec2b406ad9e7b6b6c]: Textual amendment: Word in sch. 10 para. 4(24)(a) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [10(b)(iii)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/b/iii)
 
 [^f00161]: Footnote: [S.S.I. 2004/115](https://www.legislation.gov.uk/ssi/2004/115).
 
@@ -283,7 +283,7 @@ Regulation 35
 
 [^f00163]: Footnote: [S.S.I. 2009/183](https://www.legislation.gov.uk/ssi/2009/183).
 
-[^key-86da5dcc70acb88c4d16345ec909ea75]: Textual amendment: Words in [sch. 10 para. 5(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/5/2) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [10(c)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/c)
+[^c-86da5dcc70acb88c4d16345ec909ea75]: Textual amendment: Words in [sch. 10 para. 5(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/5/2) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [10(c)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/c)
 
 [^f00164]: Footnote: The definition of dispensing doctor was inserted by [S.S.I. 2011/32](https://www.legislation.gov.uk/ssi/2011/32).
 
@@ -291,7 +291,7 @@ Regulation 35
 
 [^f00166]: Footnote: [S.S.I. 2012/36](https://www.legislation.gov.uk/ssi/2012/36).
 
-[^key-46031666654e298998bcd2a3dea956c7]: Textual amendment: Words in [sch. 10 para. 7(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/7/2) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [10(d)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/d)
+[^c-46031666654e298998bcd2a3dea956c7]: Textual amendment: Words in [sch. 10 para. 7(2)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/7/2) substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [10(d)](https://www.legislation.gov.uk/ssi/2018/94/regulation/10/d)
 
 [^f00167]: Footnote: [S.S.I. 2013/174](https://www.legislation.gov.uk/ssi/2013/174).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Scheduled monument partnership agreements[^key-bd1e21f4a35a4ba2380578016af9d732][^key-27c14cc238e524f637b86a682e8e4551]
+## 25. Scheduled monument partnership agreements[^c-bd1e21f4a35a4ba2380578016af9d732][^c-27c14cc238e524f637b86a682e8e4551]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd1e21f4a35a4ba2380578016af9d732]: Commencement: S. 25 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-bd1e21f4a35a4ba2380578016af9d732]: Commencement: S. 25 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-27c14cc238e524f637b86a682e8e4551]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2023/3/section/25) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-27c14cc238e524f637b86a682e8e4551]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2023/3/section/25) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

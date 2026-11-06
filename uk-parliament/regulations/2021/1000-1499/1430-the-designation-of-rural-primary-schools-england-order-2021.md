@@ -31,7 +31,7 @@ summary: ''
 
 Education, England
 
-The Designation of Rural Primary Schools (England) Order 2021 (revoked)[^key-e7e605d0427e48ea19101af3af76c9fb]
+The Designation of Rural Primary Schools (England) Order 2021 (revoked)[^c-e7e605d0427e48ea19101af3af76c9fb]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into force
 
 15th December 2021
 
-[^key-e7e605d0427e48ea19101af3af76c9fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7e605d0427e48ea19101af3af76c9fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e7e605d0427e48ea19101af3af76c9fb]
+## 1. Citation and commencement[^c-e7e605d0427e48ea19101af3af76c9fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of rural primary schools[^key-e7e605d0427e48ea19101af3af76c9fb]
+## 2. Designation of rural primary schools[^c-e7e605d0427e48ea19101af3af76c9fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-e7e605d0427e48ea19101af3af76c9fb]
+## 3. Revocation[^c-e7e605d0427e48ea19101af3af76c9fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e7e605d0427e48ea19101af3af76c9fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7e605d0427e48ea19101af3af76c9fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e7e605d0427e48ea19101af3af76c9fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7e605d0427e48ea19101af3af76c9fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e7e605d0427e48ea19101af3af76c9fb]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/1430) revoked (16.12.2022) by [The Designation of Rural Primary Schools (England) Order 2022 (S.I. 2022/1343)](https://www.legislation.gov.uk/uksi/2022/1343), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1343/article/1), [3](https://www.legislation.gov.uk/uksi/2022/1343/article/3)
+[^c-e7e605d0427e48ea19101af3af76c9fb]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/1430) revoked (16.12.2022) by [The Designation of Rural Primary Schools (England) Order 2022 (S.I. 2022/1343)](https://www.legislation.gov.uk/uksi/2022/1343), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1343/article/1), [3](https://www.legislation.gov.uk/uksi/2022/1343/article/3)

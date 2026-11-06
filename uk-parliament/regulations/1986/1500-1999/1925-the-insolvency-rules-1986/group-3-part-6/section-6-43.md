@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.43. Notice to Chief Land Registrar[^key-e86085276ada10deddcefb808501df8f]
+## 6.43. Notice to Chief Land Registrar[^c-e86085276ada10deddcefb808501df8f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e86085276ada10deddcefb808501df8f]: Commencement: Rule 6.43 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-e86085276ada10deddcefb808501df8f]: Commencement: Rule 6.43 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00144]: Marginal citation: \[FORM 6.14\]

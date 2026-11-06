@@ -33,7 +33,7 @@ An Act to make provision about persons who claim asylum in the United Kingdom an
 
 \[1st July 1993\]
 
-[^c2680401]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-f6a6b6e59149a0c449133a76a55f50cd][^key-6109458b63ff0c14b4eb6afd5168cd96][^key-adfd2626bdf5f5e4c3322d9ff04bc446]
+[^c2680401]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-f6a6b6e59149a0c449133a76a55f50cd][^c-6109458b63ff0c14b4eb6afd5168cd96][^c-adfd2626bdf5f5e4c3322d9ff04bc446]
 
 ## Introductory
 
@@ -126,7 +126,7 @@ During the period beginning when a person makes a claim for asylum and ending wh
 
 ### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c2680871]
 
-### 9A. Bail pending appeal from Immigration Appeal Tribunal[^key-e6dd2cdce85357f027f57987d8bd8514]
+### 9A. Bail pending appeal from Immigration Appeal Tribunal[^c-e6dd2cdce85357f027f57987d8bd8514]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -164,7 +164,7 @@ During the period beginning when a person makes a claim for asylum and ending wh
 
 ### 15. Extent.
 
-(1)[^key-941ce9228726286dcbadec6f77df76cd] Her Majesty may by Order in Council direct that any of the provisions of this Act shall extend, with such modifications as appear to Her Majesty to be appropriate, to any of the Channel Islands or the Isle of Man.
+(1)[^c-941ce9228726286dcbadec6f77df76cd] Her Majesty may by Order in Council direct that any of the provisions of this Act shall extend, with such modifications as appear to Her Majesty to be appropriate, to any of the Channel Islands or the Isle of Man.
 
 (2) This Act extends to Northern Ireland.
 
@@ -291,19 +291,19 @@ before the expiry of the period of twelve months beginning with the date on whic
 
 ### New appeal rights to replace rights under the 1971 Act
 
-#### 1.[^key-7ce9ad023ce4bcd0b5392ed1149cb95e]
+#### 1.[^c-7ce9ad023ce4bcd0b5392ed1149cb95e]
 
 No appeal may be brought under Part II of the 1971 Act on any of the grounds mentioned in subsections (1) to (4) of section 8 of this Act.
 
 ### Scope of new rights of appeal
 
-#### 2.[^key-e1f74878d589ac095d45a236e2530d34]
+#### 2.[^c-e1f74878d589ac095d45a236e2530d34]
 
 A person may not bring an appeal on any of the grounds mentioned in subsections (1) to (4) of section 8 of this Act unless, before the time of the refusal, variation, decision or directions (as the case may be), he has made a claim for asylum.
 
 ### Other grounds of appeal
 
-#### 3.[^key-45fd417c472ec310ce194d43f64a8796]
+#### 3.[^c-45fd417c472ec310ce194d43f64a8796]
 
 Where an appeal is brought by a person on any of the grounds mentioned in subsections (1) to (4) of section 8 of this Act, the special adjudicator shall in the same proceedings deal with—
 
@@ -338,7 +338,7 @@ Where an appeal is brought by a person on any of the grounds mentioned in subsec
 
 ### Special appeal procedures for claims without foundation
 
-#### 5.[^key-9f9214a79b9bb04d46b414e8d25fc444][^c15398751]
+#### 5.[^c-9f9214a79b9bb04d46b414e8d25fc444][^c15398751]
 
 (1) This paragraph applies to an appeal by a person on any of the grounds mentioned in subsections (1) to (4) of section 8 of this Act if the Secretary of State has certified that, in his opinion, the person’s claim on the ground that it would be contrary to the United Kingdom’s obligations under the Convention for him to be removed from, or be required to leave, the United Kingdom is one to which—
 
@@ -386,25 +386,25 @@ section 20(1) of that Act shall not confer on the appellant any right to appeal 
 
 ### Exception for national security
 
-#### 6.[^key-06cd059a56ce1d19921de8f74f80ebd1]
+#### 6.[^c-06cd059a56ce1d19921de8f74f80ebd1]
 
 Subsection (5) of section 13, subsection (3) of section 14 and subsections (3) and (4) of section 15 of the 1971 Act shall have effect in relation to the rights of appeal conferred by section 8(1), (2) and (3)(a) and (b) of this Act respectively as they have effect in relation to the rights of appeal conferred by subsection (1) of those sections of that Act but as if references to a person’s exclusion, departure or deportation being conducive to the public good were references to its being in the interests of national security.
 
 ### Suspension of variation of limited leave pending appeal
 
-#### 7.[^key-a8a6c3b04cd92ae6074d6139564d23c1]
+#### 7.[^c-a8a6c3b04cd92ae6074d6139564d23c1]
 
 The limitation on the taking effect of a variation and on a requirement to leave the United Kingdom contained in subsection (1) of section 14 of the 1971 Act shall have effect as if appeals under section 8(2) of this Act were appeals under that subsection.
 
 ### Deportation order not to be made while appeal pending
 
-#### 8.[^key-bb603c1e719b3f55c246ebc19e151ade]
+#### 8.[^c-bb603c1e719b3f55c246ebc19e151ade]
 
 In section 15(2) of the 1971 Act references to an appeal against a decision to make a deportation order shall include references to an appeal against such a decision under section 8(3)(a) of this Act.
 
 ### Stay of removal directions pending appeal and bail
 
-#### 9.[^key-f0c070126af40362fd79168664cc35b2]
+#### 9.[^c-f0c070126af40362fd79168664cc35b2]
 
 Part II of Schedule 2, and paragraph 3 of Schedule 3, to the 1971 Act shall have effect as if the references to appeals under section 13(1), 15(1)(a) and 16 of that Act included (respectively) appeals under section 8(1), (3) and (4) of this Act and as if sub-paragraph (5) of paragraph 28 of Schedule 2 were omitted.
 
@@ -414,11 +414,11 @@ Part II of Schedule 2, and paragraph 3 of Schedule 3, to the 1971 Act shall have
 
     Act modified (1.9.2001) by [2001 c. 17](https://www.legislation.gov.uk/ukpga/2001/17), [s. 32(7)](https://www.legislation.gov.uk/ukpga/2001/17/section/32/7) (with [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2001/17/section/27/3), [39](https://www.legislation.gov.uk/ukpga/2001/17/section/39), [78](https://www.legislation.gov.uk/ukpga/2001/17/section/78)); [S.I. 2001/2161](https://www.legislation.gov.uk/uksi/2001/2161), [art. 2](https://www.legislation.gov.uk/uksi/2001/2161/article/2)
 
-[^key-f6a6b6e59149a0c449133a76a55f50cd]: Modification: Act extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1), [5](https://www.legislation.gov.uk/uksi/2021/1281/article/5), [Sch. 3](https://www.legislation.gov.uk/uksi/2021/1281/schedule/3), [Sch. 3A](https://www.legislation.gov.uk/uksi/2021/1281/schedule/3A) (with [art. 16](https://www.legislation.gov.uk/uksi/2021/1281/article/16))
+[^c-f6a6b6e59149a0c449133a76a55f50cd]: Modification: Act extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1), [5](https://www.legislation.gov.uk/uksi/2021/1281/article/5), [Sch. 3](https://www.legislation.gov.uk/uksi/2021/1281/schedule/3), [Sch. 3A](https://www.legislation.gov.uk/uksi/2021/1281/schedule/3A) (with [art. 16](https://www.legislation.gov.uk/uksi/2021/1281/article/16))
 
-[^key-6109458b63ff0c14b4eb6afd5168cd96]: Modification: Act: power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82](https://www.legislation.gov.uk/ukpga/2022/36/section/82), [87(1)(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4/i); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
+[^c-6109458b63ff0c14b4eb6afd5168cd96]: Modification: Act: power to amend conferred (28.4.2022 for specified purposes, 28.6.2022 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss. 82](https://www.legislation.gov.uk/ukpga/2022/36/section/82), [87(1)(4)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1/4/i); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/29)
 
-[^key-adfd2626bdf5f5e4c3322d9ff04bc446]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1993/23) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/a), [5](https://www.legislation.gov.uk/ukpga/2024/8/section/5), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
+[^c-adfd2626bdf5f5e4c3322d9ff04bc446]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1993/23) excluded (25.4.2024) by [Safety of Rwanda (Asylum and Immigration) Act 2024 (c. 8)](https://www.legislation.gov.uk/ukpga/2024/8), [ss. 2(5)(a)](https://www.legislation.gov.uk/ukpga/2024/8/section/2/5/a), [5](https://www.legislation.gov.uk/ukpga/2024/8/section/5), [10(1)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/1) (with [ss. 4](https://www.legislation.gov.uk/ukpga/2024/8/section/4), [10(2)](https://www.legislation.gov.uk/ukpga/2024/8/section/10/2))
 
 [^c2680411]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/1993/23/section/1) in force at 26.7.1993; [s. 1](https://www.legislation.gov.uk/ukpga/1993/23/section/1) not in force at Royal Assent so far as it relates to ss. 4-11, see [s. 14(1)(3)](https://www.legislation.gov.uk/ukpga/1993/23/section/14/1/3); [s.1](https://www.legislation.gov.uk/ukpga/1993/23/section/1) in force so far as relating to ss. 4-11 at 26.7.1993 by [S.I. 1993/1655](https://www.legislation.gov.uk/uksi/1993/1655), [art.2](https://www.legislation.gov.uk/uksi/1993/1655/article/2)
 
@@ -440,7 +440,7 @@ Part II of Schedule 2, and paragraph 3 of Schedule 3, to the 1971 Act shall have
 
 [^c2680871]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1993/23/section/9) repealed (2.10.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(1)(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1/3), [Sch. 14 paras. 99](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/99), [104](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/104), [Sch. 16](https://www.legislation.gov.uk/ukpga/1999/33/schedule/16); [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3))
 
-[^key-e6dd2cdce85357f027f57987d8bd8514]: Textual amendment: S. 9A repealed (4.4.2005) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2004/19/schedule/2/paragraph/9), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4); [S.I. 2005/565](https://www.legislation.gov.uk/uksi/2005/565), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/565/article/2/d) (with [arts. 3-9](https://www.legislation.gov.uk/uksi/2005/565/article/3))
+[^c-e6dd2cdce85357f027f57987d8bd8514]: Textual amendment: S. 9A repealed (4.4.2005) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2004/19/schedule/2/paragraph/9), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4); [S.I. 2005/565](https://www.legislation.gov.uk/uksi/2005/565), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/565/article/2/d) (with [arts. 3-9](https://www.legislation.gov.uk/uksi/2005/565/article/3))
 
 [^c2680941]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1993/23/section/10) repealed (2.10.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(1)(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1/3), [Sch. 14 paras. 99](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/99), [104](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/104), [Sch. 16](https://www.legislation.gov.uk/ukpga/1999/33/schedule/16); [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3))
 
@@ -452,7 +452,7 @@ Part II of Schedule 2, and paragraph 3 of Schedule 3, to the 1971 Act shall have
 
 [^c2681001]: Subordinate legislation: [S. 14(2)](https://www.legislation.gov.uk/ukpga/1993/23/section/14/2) power fully exercised (2.7.1993): 26.7.1993 appointed day by [S.I. 1993/1655](https://www.legislation.gov.uk/uksi/1993/1655)
 
-[^key-941ce9228726286dcbadec6f77df76cd]: Modification: [S. 15(1)](https://www.legislation.gov.uk/ukpga/1993/23/section/15/1) power extended (28.4.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss.](https://www.legislation.gov.uk/ukpga/2022/36/section), [86(6)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/6/b), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c) 86(5)
+[^c-941ce9228726286dcbadec6f77df76cd]: Modification: [S. 15(1)](https://www.legislation.gov.uk/ukpga/1993/23/section/15/1) power extended (28.4.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [ss.](https://www.legislation.gov.uk/ukpga/2022/36/section), [86(6)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/86/6/b), [87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c) 86(5)
 
 [^c15398531]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1993/23/schedule/1) repealed (3.4.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [ss. 120(6)](https://www.legislation.gov.uk/ukpga/1999/33/section/120/6), [121(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/121/3), [169(1)(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1/3), [Sch. 14 paras. 99](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/99), [101](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/101), [Sch. 16](https://www.legislation.gov.uk/ukpga/1999/33/schedule/16); [S.I. 2000/464](https://www.legislation.gov.uk/uksi/2000/464), [art. 2](https://www.legislation.gov.uk/uksi/2000/464/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/464/schedule)
 
@@ -512,22 +512,22 @@ Part II of Schedule 2, and paragraph 3 of Schedule 3, to the 1971 Act shall have
 
 [^c15398521]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2) repealed (2.10.2000) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(1)(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1/3), [Sch. 14 paras. 99](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/99), [104](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/104), [Sch. 16](https://www.legislation.gov.uk/ukpga/1999/33/schedule/16); [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [Sch. 2 para. 3(2)(4)](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2/paragraph/3/2/4))
 
-[^key-7ce9ad023ce4bcd0b5392ed1149cb95e]: Modification: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/1) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(a)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/a)
+[^c-7ce9ad023ce4bcd0b5392ed1149cb95e]: Modification: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/1) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(a)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/a)
 
-[^key-e1f74878d589ac095d45a236e2530d34]: Modification: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/2) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(b)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/b)
+[^c-e1f74878d589ac095d45a236e2530d34]: Modification: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/2) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(b)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/b)
 
-[^key-45fd417c472ec310ce194d43f64a8796]: Modification: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/3) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(c)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/c)
+[^c-45fd417c472ec310ce194d43f64a8796]: Modification: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/3) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(c)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/c)
 
 [^c2681581]: Textual amendment: Word in [Sch. 2 para. 4(2)(f)](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/4/2/f) substituted (1.9.1996) for Sch. 2 para 4(2)(ff) by [1996 c. 49](https://www.legislation.gov.uk/ukpga/1996/49), [s. 12(2)](https://www.legislation.gov.uk/ukpga/1996/49/section/12/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1996/49/schedule/3/paragraph/5); [S.I. 1996/2053](https://www.legislation.gov.uk/uksi/1996/2053), [art. 2](https://www.legislation.gov.uk/uksi/1996/2053/article/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1996/2053/schedule/part/II)
 
-[^key-9f9214a79b9bb04d46b414e8d25fc444]: Modification: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/5) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(d)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/d)
+[^c-9f9214a79b9bb04d46b414e8d25fc444]: Modification: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/5) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(d)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/d)
 
 [^c15398751]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/5) substituted (21.10.1996) by [1996 c. 49](https://www.legislation.gov.uk/ukpga/1996/49), [s. 1](https://www.legislation.gov.uk/ukpga/1996/49/section/1); [S.I. 1996/2127](https://www.legislation.gov.uk/uksi/1996/2127), [art. 2](https://www.legislation.gov.uk/uksi/1996/2127/article/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1996/2127/schedule/part/II)
 
-[^key-06cd059a56ce1d19921de8f74f80ebd1]: Modification: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/6) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(e)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/e)
+[^c-06cd059a56ce1d19921de8f74f80ebd1]: Modification: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/6) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(e)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/e)
 
-[^key-a8a6c3b04cd92ae6074d6139564d23c1]: Modification: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/7) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(f)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/f)
+[^c-a8a6c3b04cd92ae6074d6139564d23c1]: Modification: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/7) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(f)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/f)
 
-[^key-bb603c1e719b3f55c246ebc19e151ade]: Modification: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/8) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(g)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/g)
+[^c-bb603c1e719b3f55c246ebc19e151ade]: Modification: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/8) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(g)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/g)
 
-[^key-f0c070126af40362fd79168664cc35b2]: Modification: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/9) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(h)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/h)
+[^c-f0c070126af40362fd79168664cc35b2]: Modification: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1993/23/schedule/2/paragraph/9) continued (14.3.2003) by [The Nationality, Immigration and Asylum Act 2002 (Commencement No. 4) Order 2003 (S.I. 2003/754)](https://www.legislation.gov.uk/uksi/2003/754), [Sch. 2 para. 4(5)(h)](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/4/5/h)

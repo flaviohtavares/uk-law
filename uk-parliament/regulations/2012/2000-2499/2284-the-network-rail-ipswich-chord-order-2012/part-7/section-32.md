@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Certification of plans etc.[^key-5aeacf4fa06506eaf932803200e9e2b9]
+## 32. Certification of plans etc.[^c-5aeacf4fa06506eaf932803200e9e2b9]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ for certification that they are true copies of the plans, drawings and documents
 
 ## Annotations
 
-[^key-5aeacf4fa06506eaf932803200e9e2b9]: Commencement: Art. 32 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-5aeacf4fa06506eaf932803200e9e2b9]: Commencement: Art. 32 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)

@@ -59,7 +59,7 @@ Section 2(1).
 
 ### The Services
 
-**2.**[^key-6e4392b17d30ee901df5689086aec5c5][^c914944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6e4392b17d30ee901df5689086aec5c5][^c914944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Visiting forces
 
@@ -116,7 +116,7 @@ Section 2(2).
 
 [^c914943]: Textual amendment: [Sch. 1 para 1](https://www.legislation.gov.uk/ukpga/1980/16/schedule/1/paragraph/1) repealed by [International Organisations Act 1981 (c. 9)](https://www.legislation.gov.uk/ukpga/1981/9), [Sch.](https://www.legislation.gov.uk/ukpga/1981/9/schedule)
 
-[^key-6e4392b17d30ee901df5689086aec5c5]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1980/16/schedule/1/paragraph/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-6e4392b17d30ee901df5689086aec5c5]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1980/16/schedule/1/paragraph/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c914944]: Modification: The text of s. 2(2), Sch. 1 paras. 2, 5, 7, 8, 9, Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

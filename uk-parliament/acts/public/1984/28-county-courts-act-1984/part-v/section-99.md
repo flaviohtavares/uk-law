@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Endorsement of warrants of control etc.[^c4407721][^key-081cb48c248d424a3a81c48cd0d7fbe9]
+## 99. Endorsement of warrants of control etc.[^c4407721][^c-081cb48c248d424a3a81c48cd0d7fbe9]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^c4407721]: Modification: Ss. 96-99 applied (1.9.1993) by [S.I. 1993/2073](https://www.legislation.gov.uk/uksi/1993/2073), [art.4(1)](https://www.legislation.gov.uk/uksi/1993/2073/article/4/1).
 
-[^key-081cb48c248d424a3a81c48cd0d7fbe9]: Textual amendment: S. 99 substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 69](https://www.legislation.gov.uk/ukpga/2007/15/section/69), [148](https://www.legislation.gov.uk/ukpga/2007/15/section/148) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-081cb48c248d424a3a81c48cd0d7fbe9]: Textual amendment: S. 99 substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 69](https://www.legislation.gov.uk/ukpga/2007/15/section/69), [148](https://www.legislation.gov.uk/ukpga/2007/15/section/148) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

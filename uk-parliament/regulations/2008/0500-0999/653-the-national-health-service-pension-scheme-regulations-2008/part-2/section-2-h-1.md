@@ -22,7 +22,7 @@ summary: ''
 
 (1) This Chapter applies if —
 
-- (a) a person who is a pensioner member of this Section of[^key-133fa439246c5754bb71cad81cdaa50a] the Scheme is employed in NHS employment,
+- (a) a person who is a pensioner member of this Section of[^c-133fa439246c5754bb71cad81cdaa50a] the Scheme is employed in NHS employment,
 - (b) the person’s employment is not employment to which the person was transferred as a result of a transfer of an undertaking to the person’s employer,
 - (c) the person’s pension is a pension under—
   - (i) regulation 2.D.8 (early retirement on ill-health: active members),
@@ -35,7 +35,7 @@ summary: ''
 - (a) employment with an employer in respect of whom a direction has been made under section 7 of the Superannuation (Miscellaneous Provisions) Act 1967[^f00058],
 - (b) employment to which regulations made under section 10 of the Superannuation Act 1972[^f00059] and having effect in Scotland apply,
 - (c) employment to which regulations made under Article 12 of the Superannuation (Northern Ireland) Order 1972[^f00060] apply,
-- (d) employment commencing on or before 31st March 2012[^key-0624b44951e9c972f228a7e323d8f1ab] to which a scheme made under section 2 of the Superannuation Act 1984 (an Act of Tynwald)[^f00061] applies, and
+- (d) employment commencing on or before 31st March 2012[^c-0624b44951e9c972f228a7e323d8f1ab] to which a scheme made under section 2 of the Superannuation Act 1984 (an Act of Tynwald)[^f00061] applies, and
 - (e) employment with an employer with whom an agreement has been made under section 235 of the 2006 Act.
 
 (3) In this Chapter, subject to paragraph (4)—
@@ -47,7 +47,7 @@ summary: ''
 
 (4) This Chapter applies whether or not the person is an active member of this Section of the Scheme in the new employment.
 
-This is subject to[^key-4f4d3f72b222dee9edd392bf7906df25] paragraph (4A)[^key-4250fd12f302bda516602915d18fdd57].
+This is subject to[^c-4f4d3f72b222dee9edd392bf7906df25] paragraph (4A)[^c-4250fd12f302bda516602915d18fdd57].
 
 (4A)[^M_F_783da40e-9dc0-4f71-8d9f-61921ebd2aaa] This Chapter does not apply to a person who is a pensioner member of this Section of the Scheme if—
 
@@ -66,11 +66,11 @@ This is subject to[^key-4f4d3f72b222dee9edd392bf7906df25] paragraph (4A)[^key-42
 - (b) becomes eligible to do so on the day immediately following the first anniversary of the member entering NHS employment in accordance with paragraph (5)(b) of regulation 2.G.4 (“the day of eligibility”),
 - (c) exercises an option not to rejoin this Section of the Scheme that takes effect from the day of eligibility has which has not been cancelled.
 
-(5)[^key-58f068a1893bf767b06dbb380cb0499f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-58f068a1893bf767b06dbb380cb0499f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-133fa439246c5754bb71cad81cdaa50a]: Textual amendment: Words in [reg. 2.H.1](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-133fa439246c5754bb71cad81cdaa50a]: Textual amendment: Words in [reg. 2.H.1](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
 
 [^f00058]: Footnote: [1967 c. 28](https://www.legislation.gov.uk/ukpga/1967/28).
 
@@ -78,14 +78,14 @@ This is subject to[^key-4f4d3f72b222dee9edd392bf7906df25] paragraph (4A)[^key-42
 
 [^f00060]: Footnote: [S.I. 1972/1073](https://www.legislation.gov.uk/uksi/1972/1073).
 
-[^key-0624b44951e9c972f228a7e323d8f1ab]: Textual amendment: Words in [reg. 2.H.1(2)(d)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.1/2/d) inserted (1.4.2012) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2012 (S.I. 2012/610)](https://www.legislation.gov.uk/uksi/2012/610), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/610/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2012/610/regulation/15)
+[^c-0624b44951e9c972f228a7e323d8f1ab]: Textual amendment: Words in [reg. 2.H.1(2)(d)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.1/2/d) inserted (1.4.2012) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2012 (S.I. 2012/610)](https://www.legislation.gov.uk/uksi/2012/610), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/610/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2012/610/regulation/15)
 
 [^f00061]: Footnote: 1984 c. 8 (Tynwald).
 
-[^key-4f4d3f72b222dee9edd392bf7906df25]: Textual amendment: Words in [reg. 2.H.1(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.1/4) added (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [31(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/31/2) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
+[^c-4f4d3f72b222dee9edd392bf7906df25]: Textual amendment: Words in [reg. 2.H.1(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.1/4) added (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [31(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/31/2) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
 
-[^key-4250fd12f302bda516602915d18fdd57]: Textual amendment: Words in [reg. 2.H.1(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.1/4) substituted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [18](https://www.legislation.gov.uk/uksi/2017/275/regulation/18)
+[^c-4250fd12f302bda516602915d18fdd57]: Textual amendment: Words in [reg. 2.H.1(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.1/4) substituted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [18](https://www.legislation.gov.uk/uksi/2017/275/regulation/18)
 
 [^M_F_783da40e-9dc0-4f71-8d9f-61921ebd2aaa]: Textual amendment: Reg. 2.H.1(4A)-(4D) added (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [31(3)](https://www.legislation.gov.uk/uksi/2014/570/regulation/31/3) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
 
-[^key-58f068a1893bf767b06dbb380cb0499f]: Textual amendment: [Reg. 2.H.1(5)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.1/5) omitted (with effect from 1.4.2008) by virtue of [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/4), [41](https://www.legislation.gov.uk/uksi/2013/413/regulation/41)
+[^c-58f068a1893bf767b06dbb380cb0499f]: Textual amendment: [Reg. 2.H.1(5)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.1/5) omitted (with effect from 1.4.2008) by virtue of [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/4), [41](https://www.legislation.gov.uk/uksi/2013/413/regulation/41)

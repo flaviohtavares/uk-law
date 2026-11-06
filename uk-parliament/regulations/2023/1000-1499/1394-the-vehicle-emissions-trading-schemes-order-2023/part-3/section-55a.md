@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55A. VRTS credits: conversion of unused CRTS allowances by a VRTS participant which is also a CRTS participant[^key-ffa2768accbf32b5508f5332721a5757]
+## 55A. VRTS credits: conversion of unused CRTS allowances by a VRTS participant which is also a CRTS participant[^c-ffa2768accbf32b5508f5332721a5757]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffa2768accbf32b5508f5332721a5757]: Textual amendment: [Art. 55A](https://www.legislation.gov.uk/uksi/2023/1394/article/55A) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [24](https://www.legislation.gov.uk/uksi/2025/1101/article/24)
+[^c-ffa2768accbf32b5508f5332721a5757]: Textual amendment: [Art. 55A](https://www.legislation.gov.uk/uksi/2023/1394/article/55A) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [24](https://www.legislation.gov.uk/uksi/2025/1101/article/24)

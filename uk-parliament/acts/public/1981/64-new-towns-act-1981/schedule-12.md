@@ -24,7 +24,7 @@ Section 81.
 
 ### Licensing Act 1964 c. 26
 
-**1.**[^key-35e0bf6a8664be9451b1d66ed2a2b885] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-35e0bf6a8664be9451b1d66ed2a2b885] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### National Loans Act 1968 c. 13
 
@@ -107,7 +107,7 @@ for “section 43 of the New Towns Act 1965” substitute “ section 60 of the 
 
 ### National Health Service Act 1977 c. 49
 
-**26.**[^key-00345d181c82ffb6846af7612be718d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-00345d181c82ffb6846af7612be718d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Housing Act 1980 c. 51
 
@@ -133,7 +133,7 @@ for “New Towns Act 1965” substitute “ New Towns Act 1981 ”.
 **29.** In section 133 of the Local Government, Planning and Land Act 1980—
 
 - (a) in subsection (1)—
-  - (i)[^key-7da4b02f878eee296f60c1b7bc64ffd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-7da4b02f878eee296f60c1b7bc64ffd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) omit the words “ “**development corporation**” has (in the application of this Part to Scotland) the same meaning as in the 1968 Act ;” and “ “**the 1965 Act**” means the New Towns Act 1965 ;” ;
 - (b) in subsection (2) omit the words “the 1965 Act” ;
 - (c) omit subsection (3) ; and
@@ -152,7 +152,7 @@ for “New Towns Act 1965” substitute “ New Towns Act 1981 ”.
 
 [^c253459]: Modification: The text of Sch. 12 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-35e0bf6a8664be9451b1d66ed2a2b885]: Textual amendment: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/1981/64/schedule/12/paragraph/1) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-35e0bf6a8664be9451b1d66ed2a2b885]: Textual amendment: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/1981/64/schedule/12/paragraph/1) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c253460]: Textual amendment: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/1981/64/schedule/12/paragraph/6) repealed by [Civil Aviation Act 1982 (c. 16, SIF 9)](https://www.legislation.gov.uk/ukpga/1982/16), [Sch. 16](https://www.legislation.gov.uk/ukpga/1982/16/schedule/16)
 
@@ -176,8 +176,8 @@ for “New Towns Act 1965” substitute “ New Towns Act 1981 ”.
 
 [^c253475]: Textual amendment: [Sch. 12 paras. 25](https://www.legislation.gov.uk/ukpga/1981/64/schedule/12/paragraph/25), [27](https://www.legislation.gov.uk/ukpga/1981/64/schedule/12/paragraph/27)(*a*)(*b*)(*d*) repealed by [Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61)](https://www.legislation.gov.uk/ukpga/1985/71), [s. 3](https://www.legislation.gov.uk/ukpga/1985/71/section/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1985/71/schedule/1/part/I)
 
-[^key-00345d181c82ffb6846af7612be718d4]: Textual amendment: [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/1981/64/schedule/12/paragraph/26) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-00345d181c82ffb6846af7612be718d4]: Textual amendment: [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/1981/64/schedule/12/paragraph/26) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c253476]: Textual amendment: [Sch. 12 paras. 25](https://www.legislation.gov.uk/ukpga/1981/64/schedule/12/paragraph/25), [27](https://www.legislation.gov.uk/ukpga/1981/64/schedule/12/paragraph/27)(*a*)(*b*)(*d*) repealed by [Housing (Consequential Provisions) Act 1985 (c. 71, SIF 61)](https://www.legislation.gov.uk/ukpga/1985/71), [s. 3](https://www.legislation.gov.uk/ukpga/1985/71/section/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1985/71/schedule/1/part/I)
 
-[^key-7da4b02f878eee296f60c1b7bc64ffd6]: Textual amendment: [Sch. 12 para. 29(a)(i)](https://www.legislation.gov.uk/ukpga/1981/64/schedule/12/paragraph/29/a/i) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-7da4b02f878eee296f60c1b7bc64ffd6]: Textual amendment: [Sch. 12 para. 29(a)(i)](https://www.legislation.gov.uk/ukpga/1981/64/schedule/12/paragraph/29/a/i) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))

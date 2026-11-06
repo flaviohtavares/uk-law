@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Paragraph[^key-1953bcc69934c5afa4a8f9ff87cc8046] (2) applies where—
+(1) Paragraph[^c-1953bcc69934c5afa4a8f9ff87cc8046] (2) applies where—
 
 - (a) an offence under regulation 54 has been committed by—
   - (i) a body corporate;
@@ -32,7 +32,7 @@ summary: ''
 
 (2) The individual (as well as the body corporate, partnership or (as the case may be) association) commits the offence and is liable to be proceeded against and punished accordingly.
 
-(3) In paragraph[^key-f7fae74baf4f7ad5846cdc8709d0fbe8] (1), “**relevant individual**” means—
+(3) In paragraph[^c-f7fae74baf4f7ad5846cdc8709d0fbe8] (1), “**relevant individual**” means—
 
 - (a) in relation to a body corporate (other than a limited liability partnership)—
   - (i) a director, manager, secretary or similar officer of the body;
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1953bcc69934c5afa4a8f9ff87cc8046]: Textual amendment: Word in [reg. 55(1)](https://www.legislation.gov.uk/ssi/2017/102/regulation/55/1) substituted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/ssi/2017/168/regulation/3/6/a)
+[^c-1953bcc69934c5afa4a8f9ff87cc8046]: Textual amendment: Word in [reg. 55(1)](https://www.legislation.gov.uk/ssi/2017/102/regulation/55/1) substituted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/ssi/2017/168/regulation/3/6/a)
 
-[^key-f7fae74baf4f7ad5846cdc8709d0fbe8]: Textual amendment: Word in [reg. 55(3)](https://www.legislation.gov.uk/ssi/2017/102/regulation/55/3) substituted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/ssi/2017/168/regulation/3/6/b)
+[^c-f7fae74baf4f7ad5846cdc8709d0fbe8]: Textual amendment: Word in [reg. 55(3)](https://www.legislation.gov.uk/ssi/2017/102/regulation/55/3) substituted (30.6.2017) by [The Environmental Impact Assessment (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/168)](https://www.legislation.gov.uk/ssi/2017/168), [regs. 1](https://www.legislation.gov.uk/ssi/2017/168/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/ssi/2017/168/regulation/3/6/b)

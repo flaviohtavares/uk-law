@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Article 2 of Regulation [(EC) No 2150/2005](https://www.legislation.gov.uk/eur/2005/2150)[^key-80d14205228efca207aa55f188e00778]
+## 85. Article 2 of Regulation [(EC) No 2150/2005](https://www.legislation.gov.uk/eur/2005/2150)[^c-80d14205228efca207aa55f188e00778]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 2 (definitions), in paragraph 2, in point (a) for “the airspace und
 
 ## Annotations
 
-[^key-80d14205228efca207aa55f188e00778]: Commencement: Reg. 85 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-80d14205228efca207aa55f188e00778]: Commencement: Reg. 85 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

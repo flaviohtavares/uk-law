@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Minimum equipment requirements[^key-5e934226c764c394ad14f2465bcfe3b9]
+## 35. Minimum equipment requirements[^c-5e934226c764c394ad14f2465bcfe3b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e934226c764c394ad14f2465bcfe3b9]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2015/870/article/35) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-5e934226c764c394ad14f2465bcfe3b9]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2015/870/article/35) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

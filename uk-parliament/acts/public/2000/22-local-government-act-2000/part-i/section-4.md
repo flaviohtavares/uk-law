@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Strategies for promoting well-being.[^key-003bab9e82e04b8805fc02b0726bdd31]
+## 4. Strategies for promoting well-being.[^c-003bab9e82e04b8805fc02b0726bdd31]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-003bab9e82e04b8805fc02b0726bdd31]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/2000/22/section/4) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 100(1)](https://www.legislation.gov.uk/ukpga/2015/20/section/100/1), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)
+[^c-003bab9e82e04b8805fc02b0726bdd31]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/2000/22/section/4) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 100(1)](https://www.legislation.gov.uk/ukpga/2015/20/section/100/1), [115(3)(k)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/k)

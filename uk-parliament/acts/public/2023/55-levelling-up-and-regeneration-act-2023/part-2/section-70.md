@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Payment of allowances to committee members[^key-cae603cb1905ee7daade29b386fee446]
+## 70. Payment of allowances to committee members[^c-cae603cb1905ee7daade29b386fee446]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cae603cb1905ee7daade29b386fee446]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2023/55/section/70) in force at 26.12.2023, see [s. 255(2)(j)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/j)
+[^c-cae603cb1905ee7daade29b386fee446]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2023/55/section/70) in force at 26.12.2023, see [s. 255(2)(j)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/j)

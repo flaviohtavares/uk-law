@@ -150,7 +150,7 @@ An Act of the National Assembly for Wales to make provision for a national strat
 
 - [Section 50 — Interpretation of this Chapter](part-3/section-50.md)
 
-#### CHAPTER 3 — PROHIBITION ON SALE OF TOBACCO AND NICOTINE PRODUCTS[^key-9a3848623066800bbdd8cd2cb0c8ee4e]
+#### CHAPTER 3 — PROHIBITION ON SALE OF TOBACCO AND NICOTINE PRODUCTS[^c-9a3848623066800bbdd8cd2cb0c8ee4e]
 
 **Not yet in force.**
 
@@ -331,4 +331,4 @@ An Act of the National Assembly for Wales to make provision for a national strat
 
 ## Annotations
 
-[^key-9a3848623066800bbdd8cd2cb0c8ee4e]: Textual amendment: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/anaw/2017/2/part/3/chapter/3) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/26)
+[^c-9a3848623066800bbdd8cd2cb0c8ee4e]: Textual amendment: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/anaw/2017/2/part/3/chapter/3) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/26)

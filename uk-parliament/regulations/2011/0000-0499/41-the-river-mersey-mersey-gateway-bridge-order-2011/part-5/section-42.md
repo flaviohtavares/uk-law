@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Payment of tolls[^key-a2b767124a2f7a86ed09f65257e5b6d1]
+## 42. Payment of tolls[^c-a2b767124a2f7a86ed09f65257e5b6d1]
 
 *Extent: E+W+S*
 
@@ -54,7 +54,7 @@ summary: ''
 - (b) that vehicle shall be identified by its registration mark; and
 - (c) a person entering into a composition agreement with the undertaker shall specify to the undertaker or its agent the registration mark of the vehicle to which the composition agreement relates.
 
-(9) Where a composition agreement is entered into or purported to be entered into, and payment is to be made to the undertaker otherwise than in cash, and payment is not received by the undertaker or its agents (whether because a cheque is dishonoured or otherwise), the toll or tolls to which the composition agreement relates shall be treated as not paid and the composition agreement may be voided by the undertaker[^key-c21c77afaa0077deff906edd71ba8578].
+(9) Where a composition agreement is entered into or purported to be entered into, and payment is to be made to the undertaker otherwise than in cash, and payment is not received by the undertaker or its agents (whether because a cheque is dishonoured or otherwise), the toll or tolls to which the composition agreement relates shall be treated as not paid and the composition agreement may be voided by the undertaker[^c-c21c77afaa0077deff906edd71ba8578].
 
 (10) The undertaker may require a vehicle that is subject to a composition agreement to display a document in that vehicle or carry in or fix equipment to that vehicle.
 
@@ -71,6 +71,6 @@ users of the new crossing or prospective users of the new crossing shall not be 
 
 ## Annotations
 
-[^key-a2b767124a2f7a86ed09f65257e5b6d1]: Commencement: Art. 42 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-a2b767124a2f7a86ed09f65257e5b6d1]: Commencement: Art. 42 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
-[^key-c21c77afaa0077deff906edd71ba8578]: Textual amendment: Words in [art. 42(9)](https://www.legislation.gov.uk/uksi/2011/41/article/42/9) substituted (14.9.2016) by [The River Mersey (Mersey Gateway Bridge) (Amendment) Order 2016 (S.I. 2016/851)](https://www.legislation.gov.uk/uksi/2016/851), [arts. 1](https://www.legislation.gov.uk/uksi/2016/851/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2016/851/article/3/4)
+[^c-c21c77afaa0077deff906edd71ba8578]: Textual amendment: Words in [art. 42(9)](https://www.legislation.gov.uk/uksi/2011/41/article/42/9) substituted (14.9.2016) by [The River Mersey (Mersey Gateway Bridge) (Amendment) Order 2016 (S.I. 2016/851)](https://www.legislation.gov.uk/uksi/2016/851), [arts. 1](https://www.legislation.gov.uk/uksi/2016/851/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2016/851/article/3/4)

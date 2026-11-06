@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Spray suppression devices[^key-6042ec13b5d9cf4ad826d3d3bc8f298e]
+## 64. Spray suppression devices[^c-6042ec13b5d9cf4ad826d3d3bc8f298e]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ summary: ''
 - (h) a vehicle specially designed, and not merely adapted, for the carriage and mixing of liquid concrete; or
 - (i) a vehicle which is being driven or towed to a place where by previous arrangement a device is to be fitted so that it complies with the requirements specified in paragraph (3).
 
-(2A)[^key-a5a66a061f468bfaaed57ca58425bece] This regulation shall not apply to a vehicle fitted with a spray-suppression system in accordance with the requirements of Annex III of Community Directive 91/226(3) if the spray suppression devices with which the vehicle is equipped are legibly and permanently marked with a designated approval mark.
+(2A)[^c-a5a66a061f468bfaaed57ca58425bece] This regulation shall not apply to a vehicle fitted with a spray-suppression system in accordance with the requirements of Annex III of Community Directive 91/226(3) if the spray suppression devices with which the vehicle is equipped are legibly and permanently marked with a designated approval mark.
 
 (3) A vehicle to which this regulation applies and which is of a class specified in an item in column 2 of the Table shall not be used on a road on or after the date specified in column 3 in that item, unless it is fitted in relation to the wheels on each of its axles, with such containment devices as satisfy the technical requirements and other provisions about containment devices specified in the British Standard Specification, provided that in the case of a containment device fitted before 1st January 1985 the said requirements shall be deemed to be complied with if that containment device substantially conforms to those requirements.
 
@@ -61,10 +61,10 @@ TABLE
 
 (4) In this regulation—
 
-- “[^key-55a27c93669d59175b7e3cc37e6b994b]**the British Standard Specification**” means—
+- “[^c-55a27c93669d59175b7e3cc37e6b994b]**the British Standard Specification**” means—
   - (a) in relation to a containment device fitted before 1st May 1987, Part 1a of the amended Specification and Part 2 of the original Specification; and
   - (b) in relation to a containment device fitted on or after 1st May 1987, Part 1a and Part 2a of the amended Specification;
-- “designated approval mark” means the marking designated as an approval mark by regulation 5 of the Approval Marks Regulations and shown at item 30 in Schedule 4 to those Regulations;[^key-b2a14d5f9b0170e158b480637488f9b8]
+- “designated approval mark” means the marking designated as an approval mark by regulation 5 of the Approval Marks Regulations and shown at item 30 in Schedule 4 to those Regulations;[^c-b2a14d5f9b0170e158b480637488f9b8]
 - “**the original Specification**” means the British Standard Specification for Spray Reducing Devices for Heavy Goods Vehicles published under the reference BS AU 200: Part 1: 1984 and BS AU 200; Part 2: 1984;
 - “**the amended Specification**” means the original Specification as amended and published under the reference BS AU 200: Part 1a: 1986 and BS AU 200: Part 2a: 1986;
 - “**containment device**” means any device so described in the original Specification or the amended Specification;
@@ -74,10 +74,10 @@ TABLE
 
 ## Annotations
 
-[^key-6042ec13b5d9cf4ad826d3d3bc8f298e]: Commencement: Reg. 64 in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-6042ec13b5d9cf4ad826d3d3bc8f298e]: Commencement: Reg. 64 in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-a5a66a061f468bfaaed57ca58425bece]: Textual amendment: [Reg. 64(2A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/64/2A) inserted (1.4.1992) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1992 (S.I. 1992/646)](https://www.legislation.gov.uk/uksi/1992/646), [regs. 1](https://www.legislation.gov.uk/uksi/1992/646/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1992/646/regulation/2/2)
+[^c-a5a66a061f468bfaaed57ca58425bece]: Textual amendment: [Reg. 64(2A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/64/2A) inserted (1.4.1992) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1992 (S.I. 1992/646)](https://www.legislation.gov.uk/uksi/1992/646), [regs. 1](https://www.legislation.gov.uk/uksi/1992/646/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1992/646/regulation/2/2)
 
-[^key-55a27c93669d59175b7e3cc37e6b994b]: Textual amendment: Words in reg. 64(4) substituted (10.10.1986) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1986 (S.I. 1986/1597)](https://www.legislation.gov.uk/uksi/1986/1597), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1597/regulation/1), [4](https://www.legislation.gov.uk/uksi/1986/1597/regulation/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/1986/1597/regulation/3))
+[^c-55a27c93669d59175b7e3cc37e6b994b]: Textual amendment: Words in reg. 64(4) substituted (10.10.1986) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1986 (S.I. 1986/1597)](https://www.legislation.gov.uk/uksi/1986/1597), [regs. 1](https://www.legislation.gov.uk/uksi/1986/1597/regulation/1), [4](https://www.legislation.gov.uk/uksi/1986/1597/regulation/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/1986/1597/regulation/3))
 
-[^key-b2a14d5f9b0170e158b480637488f9b8]: Textual amendment: Words in [reg. 64(4)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/64/4) inserted (1.4.1992) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1992 (S.I. 1992/646)](https://www.legislation.gov.uk/uksi/1992/646), [regs. 1](https://www.legislation.gov.uk/uksi/1992/646/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1992/646/regulation/2/3)
+[^c-b2a14d5f9b0170e158b480637488f9b8]: Textual amendment: Words in [reg. 64(4)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/64/4) inserted (1.4.1992) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1992 (S.I. 1992/646)](https://www.legislation.gov.uk/uksi/1992/646), [regs. 1](https://www.legislation.gov.uk/uksi/1992/646/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1992/646/regulation/2/3)

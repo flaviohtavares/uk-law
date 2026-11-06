@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Supervisory return: contents[^key-cce39744a93ebfb5ffe0ff106a5727b2]
+## 22. Supervisory return: contents[^c-cce39744a93ebfb5ffe0ff106a5727b2]
 
 *Extent: E+W+S*
 
@@ -27,6 +27,6 @@ For the purposes of section 27(2) of the Act (requirement to submit supervisory 
 
 ## Annotations
 
-[^key-cce39744a93ebfb5ffe0ff106a5727b2]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2022/255/regulation/22) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-cce39744a93ebfb5ffe0ff106a5727b2]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2022/255/regulation/22) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
 [^f00020]: Footnote: Section 248(8) was amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).

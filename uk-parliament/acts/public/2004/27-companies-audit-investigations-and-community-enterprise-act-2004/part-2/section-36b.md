@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36B. Formation as community interest company: implementation of decision on eligibility[^key-9aecfb4220102d3c635c86bf6000d9e5]
+## 36B. Formation as community interest company: implementation of decision on eligibility[^c-9aecfb4220102d3c635c86bf6000d9e5]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9aecfb4220102d3c635c86bf6000d9e5]: Textual amendment: Ss. 36-36B substituted for s. 36 (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 226](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/226) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-9aecfb4220102d3c635c86bf6000d9e5]: Textual amendment: Ss. 36-36B substituted for s. 36 (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 226](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/226) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

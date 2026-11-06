@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Commission Delegated Regulation (EU) 2018/273[^key-74df264bdafbaa15eef1518c7ace6337]
+## 24. Commission Delegated Regulation (EU) 2018/273[^c-74df264bdafbaa15eef1518c7ace6337]
 
 *Extent: E+W+S+N.I.*
 
@@ -389,7 +389,7 @@ summary: ''
 
 ## Annotations
 
-[^key-74df264bdafbaa15eef1518c7ace6337]: Commencement: Reg. 24 in force at 31.12.2020, see reg. 1(7)
+[^c-74df264bdafbaa15eef1518c7ace6337]: Commencement: Reg. 24 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414461]: Marginal citation: EUR 2018/273; prospective amendments were included in [S.I. 2019/865](https://www.legislation.gov.uk/uksi/2019/865). They would have come into force on IP completion day. They are omitted by regulation 6 of this instrument and replaced, in relation to Great Britain, on IP completion day with the amendments in regulation 24 of, and Schedule 7 to, this instrument.
 

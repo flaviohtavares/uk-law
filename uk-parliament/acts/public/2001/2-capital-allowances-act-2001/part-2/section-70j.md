@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70J. “Funding lease”[^key-5703efb87a689d0aca5dc79e67f642d9]
+## 70J. “Funding lease”[^c-5703efb87a689d0aca5dc79e67f642d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,7 +52,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)
+[^c-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)
 
 [^M_F_24a6cadb-ac79-41a0-af7d-68b29235881c]: Textual amendment: S. 70J(1A) inserted (with effect in accordance with [s. 28(8)](https://www.legislation.gov.uk/ukpga/2010/13/section/28/8) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 28(3)](https://www.legislation.gov.uk/ukpga/2010/13/section/28/3)
 

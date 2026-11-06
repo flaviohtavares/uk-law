@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Implementation strategy: content[^key-bc2362f47248e22b929ded40700323fe]
+## 28. Implementation strategy: content[^c-bc2362f47248e22b929ded40700323fe]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc2362f47248e22b929ded40700323fe]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2022/255/regulation/28) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-bc2362f47248e22b929ded40700323fe]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2022/255/regulation/28) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 399. Revocation of the 1989 Regulations[^key-c8f59bbea13aa5df9fa2090a473876d9]
+## 399. Revocation of the 1989 Regulations[^c-c8f59bbea13aa5df9fa2090a473876d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Financial Services (Authorised Unit Trust Scheme) (Certificate of Compliance
 
 ## Annotations
 
-[^key-c8f59bbea13aa5df9fa2090a473876d9]: Commencement: Art. 399 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c8f59bbea13aa5df9fa2090a473876d9]: Commencement: Art. 399 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

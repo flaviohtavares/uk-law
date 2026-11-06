@@ -35,92 +35,92 @@ amending Delegated Regulation (EU) 2015/35 supplementing Directive 2009/138/EC o
 
 (Text with EEA relevance) (revoked)
 
-[^key-0b189101b9679d251ca36e5f33f17457]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b189101b9679d251ca36e5f33f17457]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments to Delegated Regulation (EU) 2015/35[^key-0b189101b9679d251ca36e5f33f17457]
+## Article 1. Amendments to Delegated Regulation (EU) 2015/35[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force and application[^key-0b189101b9679d251ca36e5f33f17457]
+## Article 2. Entry into force and application[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0b189101b9679d251ca36e5f33f17457]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b189101b9679d251ca36e5f33f17457]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX I[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX II[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX III[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX IV[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX V[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VI[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX VI[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VII[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX VII[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VIII[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX VIII[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IX[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX IX[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX X[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX X[^c-0b189101b9679d251ca36e5f33f17457]
 
-[^key-0b189101b9679d251ca36e5f33f17457]
+[^c-0b189101b9679d251ca36e5f33f17457]
 
 In Annex XVI, the table ‘DEFINITION OF EVENTS AND RISK FACTORS FOR THE MASS ACCIDENT RISK SUB-MODULE AND ACCIDENT CONCENTRATION RISK SUB-MODULE’ is replaced by the following:
 
-[^key-0b189101b9679d251ca36e5f33f17457]‘**DEFINITION OF EVENTS AND RISK FACTORS FOR THE MASS ACCIDENT RISK SUB-MODULE AND ACCIDENT CONCENTRATION RISK SUB-MODULE**
+[^c-0b189101b9679d251ca36e5f33f17457]‘**DEFINITION OF EVENTS AND RISK FACTORS FOR THE MASS ACCIDENT RISK SUB-MODULE AND ACCIDENT CONCENTRATION RISK SUB-MODULE**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XI[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX XI[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XII[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX XII[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XIII[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX XIII[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XIV[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX XIV[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XV[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX XV[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XVI[^key-0b189101b9679d251ca36e5f33f17457]
+## ANNEX XVI[^c-0b189101b9679d251ca36e5f33f17457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0b189101b9679d251ca36e5f33f17457]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/3)
+[^c-0b189101b9679d251ca36e5f33f17457]: Textual amendment: Regulation revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/d), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/3)

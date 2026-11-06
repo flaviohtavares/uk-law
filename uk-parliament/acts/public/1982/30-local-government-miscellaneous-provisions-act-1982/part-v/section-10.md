@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Firemen’s switches for luminous tube signs.[^key-a86ee910372b30ed391e8e2840ac804c]
+## 10. Firemen’s switches for luminous tube signs.[^c-a86ee910372b30ed391e8e2840ac804c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a86ee910372b30ed391e8e2840ac804c]: Textual amendment: S. 10 repealed (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 26(2)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/26/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2005/1541/schedule/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))
+[^c-a86ee910372b30ed391e8e2840ac804c]: Textual amendment: S. 10 repealed (1.10.2006) by [The Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](https://www.legislation.gov.uk/uksi/2005/1541), [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/1541/article/1/3), [Sch. 2 para. 26(2)](https://www.legislation.gov.uk/uksi/2005/1541/schedule/2/paragraph/26/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2005/1541/schedule/4) (with [art. 49](https://www.legislation.gov.uk/uksi/2005/1541/article/49)) (as amended by [The Regulatory Reform (Fire Safety) Subordinate Provisions Order 2006 (S.I. 2006/484)](https://www.legislation.gov.uk/uksi/2006/484), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/484/article/1/1), [2](https://www.legislation.gov.uk/uksi/2006/484/article/2))

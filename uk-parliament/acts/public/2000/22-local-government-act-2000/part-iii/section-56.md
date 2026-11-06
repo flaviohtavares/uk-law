@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Standards committees or sub-committees for community councils.[^key-8f33abf4380d779a4842bad9f7d9f5f8]
+## 56. Standards committees or sub-committees for community councils.[^c-8f33abf4380d779a4842bad9f7d9f5f8]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ and any reference in the following provision of this Part to the standards commi
 
 ## Annotations
 
-[^key-8f33abf4380d779a4842bad9f7d9f5f8]: Modification: Pt. III applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/3)
+[^c-8f33abf4380d779a4842bad9f7d9f5f8]: Modification: Pt. III applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/3)

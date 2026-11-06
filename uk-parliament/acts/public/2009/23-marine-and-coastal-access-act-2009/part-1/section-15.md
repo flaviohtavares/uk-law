@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Agreements between the MMO and eligible bodies[^key-795d22ae581e4c906844f548ff01f35d]
+## 15. Agreements between the MMO and eligible bodies[^c-795d22ae581e4c906844f548ff01f35d]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-795d22ae581e4c906844f548ff01f35d]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2009/23/section/15) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/2)
+[^c-795d22ae581e4c906844f548ff01f35d]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2009/23/section/15) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Publication of information at the end of each day during the principal stage[^key-d2fac8f83119bd96068831ceabd6b4ca]
+## 47. Publication of information at the end of each day during the principal stage[^c-d2fac8f83119bd96068831ceabd6b4ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ After the end of the latest principal stage round to take place on any given day
 
 ## Annotations
 
-[^key-d2fac8f83119bd96068831ceabd6b4ca]: Commencement: Reg. 47 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-d2fac8f83119bd96068831ceabd6b4ca]: Commencement: Reg. 47 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

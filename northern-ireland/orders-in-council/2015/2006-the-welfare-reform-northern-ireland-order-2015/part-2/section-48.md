@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Regulations[^key-00cf320a64f73066eac9303553587200]
+## 48. Regulations[^c-00cf320a64f73066eac9303553587200]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00cf320a64f73066eac9303553587200]: Commencement: [Art. 48](https://www.legislation.gov.uk/nisi/2015/2006/article/48) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iii)
+[^c-00cf320a64f73066eac9303553587200]: Commencement: [Art. 48](https://www.legislation.gov.uk/nisi/2015/2006/article/48) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iii)

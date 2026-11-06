@@ -176,7 +176,7 @@ summary: ''
 | 1979 c. 14. | The Capital Gains Tax Act 1979. | Section 150(5). |
 | 1979 c. 43. | The Crown Agents Act 1979. | In section 8(5) paragraph (i) and, in paragraph (ii), the words “in relation to any time on or after that date”. |
 | 1981 c. 35. | The Finance Act 1981. | In section 136, subsections (1) and (3).Schedule 18. |
-| 1981 c. 54. | The Senior Courts Act 1981[^key-79d0e96349db4a5ddf3a9fde71c6a7d7]. | In Schedule 5, the entry relating to the Exchange Control Act 1947. |
+| 1981 c. 54. | The Senior Courts Act 1981[^c-79d0e96349db4a5ddf3a9fde71c6a7d7]. | In Schedule 5, the entry relating to the Exchange Control Act 1947. |
 | 1982 c. 41. | The Stock Transfer Act 1982. | In section 6(3) the words from “and” onwards.In Schedule 2, paragraph 3. |
 | 1985 c. 65. | The Insolvency Act 1985. | In Schedule 8, paragraph 8. |
 | 1985 c. 66. | The Bankruptcy (Scotland) Act 1985. | In Schedule 7, paragraph 7. |
@@ -198,4 +198,4 @@ summary: ''
 
 [^c11288371]: Modification: Part of the text of Sch. 16 Pts. V, VII and X is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-79d0e96349db4a5ddf3a9fde71c6a7d7]: Textual amendment: Words in table substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-79d0e96349db4a5ddf3a9fde71c6a7d7]: Textual amendment: Words in table substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

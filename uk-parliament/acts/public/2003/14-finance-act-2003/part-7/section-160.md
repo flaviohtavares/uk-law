@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Taper relief: assets qualifying as business assets[^key-c4da8c6597a8819acb1c86e16faf5f43]
+## 160. Taper relief: assets qualifying as business assets[^c-c4da8c6597a8819acb1c86e16faf5f43]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4da8c6597a8819acb1c86e16faf5f43]: Textual amendment: [S. 160](https://www.legislation.gov.uk/ukpga/2003/14/section/160) omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(f)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/f/i)
+[^c-c4da8c6597a8819acb1c86e16faf5f43]: Textual amendment: [S. 160](https://www.legislation.gov.uk/ukpga/2003/14/section/160) omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(f)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/f/i)

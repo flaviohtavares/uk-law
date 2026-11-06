@@ -37,7 +37,7 @@ summary: ''
 (4) A copy of a report under this section must be sent before the end of that period to—
 
 - (a) the local authority with which the entity is connected, and
-- (b) the Auditor General for Wales[^key-d330ab767968c29b165d8bb5ee1d670f].
+- (b) the Auditor General for Wales[^c-d330ab767968c29b165d8bb5ee1d670f].
 
 (5) The person appointed under this Chapter may—
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d330ab767968c29b165d8bb5ee1d670f]: Textual amendment: Words in s. 45(4)(b) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 107](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/107); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/10)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-d330ab767968c29b165d8bb5ee1d670f]: Textual amendment: Words in s. 45(4)(b) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 107](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/107); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/10)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)

@@ -32,7 +32,7 @@ summary: ''
 
 (3) The debits brought into account in respect of the loan relationship for the period for the purposes of this Part must not be more than they would have been in that case.
 
-(3A)[^key-ec6e9393173fa2898430f6326320da7e] Subsections (2) and (3) do not affect the credits or debits to be brought into account for the purposes of this Part in respect of changes in the fair value of the asset that are attributable to changes in the corresponding market rate.
+(3A)[^c-ec6e9393173fa2898430f6326320da7e] Subsections (2) and (3) do not affect the credits or debits to be brought into account for the purposes of this Part in respect of changes in the fair value of the asset that are attributable to changes in the corresponding market rate.
 
 (3B) Subsection (3A) is subject to section 354 (exclusion of debits for impaired or released connected companies debts).
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec6e9393173fa2898430f6326320da7e]: Textual amendment: S. 352(3A)-(3C) inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/30)
+[^c-ec6e9393173fa2898430f6326320da7e]: Textual amendment: S. 352(3A)-(3C) inserted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/30)

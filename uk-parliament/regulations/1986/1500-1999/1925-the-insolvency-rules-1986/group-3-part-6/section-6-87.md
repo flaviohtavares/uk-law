@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.87. Expenses of summoning meetings[^key-66b8ec06d292f4100d511c9401c5ca6a]
+## 6.87. Expenses of summoning meetings[^c-66b8ec06d292f4100d511c9401c5ca6a]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66b8ec06d292f4100d511c9401c5ca6a]: Commencement: [Rule 6.87](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.87) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-66b8ec06d292f4100d511c9401c5ca6a]: Commencement: [Rule 6.87](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.87) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

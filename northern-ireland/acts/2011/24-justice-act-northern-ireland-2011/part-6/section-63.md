@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. General restriction on prosecution[^key-9584c206131f88aa57b11730e795483b]
+## 63. General restriction on prosecution[^c-9584c206131f88aa57b11730e795483b]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9584c206131f88aa57b11730e795483b]: Commencement: [S. 63](https://www.legislation.gov.uk/nia/2011/24/section/63) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)
+[^c-9584c206131f88aa57b11730e795483b]: Commencement: [S. 63](https://www.legislation.gov.uk/nia/2011/24/section/63) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)

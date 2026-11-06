@@ -65,10 +65,10 @@ summary: ''
 (14) For the purposes of this section—
 
 - “**relevant offence**” means
-  - (a) an offence under section 92 above (unauthorised use of trade mark, &c in relation to goods),[^key-c444bd687446ee2aa49a31f111dce667]
+  - (a) an offence under section 92 above (unauthorised use of trade mark, &c in relation to goods),[^c-c444bd687446ee2aa49a31f111dce667]
   - (b) an offence under the Trade Descriptions Act 1968,
   - (c) an offence under the Business Protection from Misleading Marketing Regulations 2008,
-  - (d) an offence under Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^key-8670a0b9701e4270f1b057c78f70ed91], or
+  - (d) an offence under Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^c-8670a0b9701e4270f1b057c78f70ed91], or
   - (e) any offence involving dishonesty or deception;
 - “**the court**” means—
   - (a) in relation to an order made on an application under subsection (2)(a), the sheriff, and
@@ -90,6 +90,6 @@ summary: ''
 
 [^c1130445]: Textual amendment: Words in s. 98(11) substituted (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [s. 5](https://www.legislation.gov.uk/ukpga/1995/40/section/5), [Sch. 4 para. 92(1)(3)(d)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4/paragraph/92/1/3/d)
 
-[^key-c444bd687446ee2aa49a31f111dce667]: Textual amendment: Words in s. 98(14) substituted (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/56) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-c444bd687446ee2aa49a31f111dce667]: Textual amendment: Words in s. 98(14) substituted (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/56) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
-[^key-8670a0b9701e4270f1b057c78f70ed91]: Textual amendment: Words in [s. 98(14)](https://www.legislation.gov.uk/ukpga/1994/26/section/98/14) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 21 para. 7(4)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/21/paragraph/7/4) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)(12)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1/12)
+[^c-8670a0b9701e4270f1b057c78f70ed91]: Textual amendment: Words in [s. 98(14)](https://www.legislation.gov.uk/ukpga/1994/26/section/98/14) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 21 para. 7(4)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/21/paragraph/7/4) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)(12)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1/12)

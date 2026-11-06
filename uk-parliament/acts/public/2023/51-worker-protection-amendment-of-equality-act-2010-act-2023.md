@@ -36,7 +36,7 @@ An Act to make provision in relation to the duties of employers and the protecti
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Employer duty to prevent sexual harassment of employees[^key-8d62568b88c315d183682843695fa43e]
+## 1. Employer duty to prevent sexual harassment of employees[^c-8d62568b88c315d183682843695fa43e]
 
 After section 40 of the Equality Act 2010 insert—
 
@@ -48,7 +48,7 @@ After section 40 of the Equality Act 2010 insert—
 >
 > (3) A contravention of subsection (1) (or a contravention of section 111 or 112 that relates to a contravention of subsection (1)) is enforceable as an unlawful act under Part 1 of the Equality Act 2006 (and, by virtue of section 120(8) and (9), is enforceable only by the Commission under that Part or by an employment tribunal in accordance with section 124A (compensation uplift in employee sexual harassment cases)).
 
-## 2. Enforcement of duty to prevent sexual harassment of employees[^key-f7b9f4eeec5015eebd3d7b81719017e2]
+## 2. Enforcement of duty to prevent sexual harassment of employees[^c-f7b9f4eeec5015eebd3d7b81719017e2]
 
 In section 120 of the Equality Act 2010 (jurisdiction of employment tribunal)—
 
@@ -57,7 +57,7 @@ In section 120 of the Equality Act 2010 (jurisdiction of employment tribunal)—
 
   > (9) Subsection (8) does not prevent an employment tribunal from considering a contravention of section 40A(1) in accordance with section 124A (compensation uplift in employee sexual harassment cases).
 
-## 3. Sexual harassment of employees: compensation uplift[^key-08e21e89c8cfa54aa77113b14464f57c]
+## 3. Sexual harassment of employees: compensation uplift[^c-08e21e89c8cfa54aa77113b14464f57c]
 
 After section 124 of the Equality Act 2010 insert—
 
@@ -77,7 +77,7 @@ After section 124 of the Equality Act 2010 insert—
 > - (a) must reflect the extent to which, in the tribunal’s opinion, the respondent has contravened section 40A(1), but
 > - (b) may be no more than 25% of the amount awarded under section 124(2)(b).
 
-## 4. Consequential amendments to the Equality Act 2006[^key-ad0616e23088a54997132d456b2f463e]
+## 4. Consequential amendments to the Equality Act 2006[^c-ad0616e23088a54997132d456b2f463e]
 
 (1) Part 1 of the Equality Act 2006 (the Commission for Equality and Human Rights) is amended as follows.
 
@@ -94,7 +94,7 @@ After section 124 of the Equality Act 2010 insert—
 
 .
 
-## 5. Extent, commencement and short title[^key-4c0a42dff310337ad5a0633fec894da8]
+## 5. Extent, commencement and short title[^c-4c0a42dff310337ad5a0633fec894da8]
 
 (1) This Act extends to England and Wales and Scotland.
 
@@ -106,12 +106,12 @@ After section 124 of the Equality Act 2010 insert—
 
 ## Annotations
 
-[^key-8d62568b88c315d183682843695fa43e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/51/section/1) in force at 26.10.2024, see [s. 5(3)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/3)
+[^c-8d62568b88c315d183682843695fa43e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/51/section/1) in force at 26.10.2024, see [s. 5(3)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/3)
 
-[^key-f7b9f4eeec5015eebd3d7b81719017e2]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/51/section/2) in force at 26.10.2024, see [s. 5(3)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/3)
+[^c-f7b9f4eeec5015eebd3d7b81719017e2]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/51/section/2) in force at 26.10.2024, see [s. 5(3)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/3)
 
-[^key-08e21e89c8cfa54aa77113b14464f57c]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/51/section/3) in force at 26.10.2024, see [s. 5(3)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/3)
+[^c-08e21e89c8cfa54aa77113b14464f57c]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/51/section/3) in force at 26.10.2024, see [s. 5(3)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/3)
 
-[^key-ad0616e23088a54997132d456b2f463e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/51/section/4) in force at 26.10.2024, see [s. 5(3)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/3)
+[^c-ad0616e23088a54997132d456b2f463e]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/51/section/4) in force at 26.10.2024, see [s. 5(3)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/3)
 
-[^key-4c0a42dff310337ad5a0633fec894da8]: Commencement: S. 5 in force at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/2)
+[^c-4c0a42dff310337ad5a0633fec894da8]: Commencement: S. 5 in force at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/ukpga/2023/51/section/5/2)

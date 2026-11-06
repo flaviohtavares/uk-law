@@ -97,7 +97,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 29 — Illegal money lending](part-2/section-29.md)
 
-#### Money laundering and terrorist financing[^key-d6cff98b17fc941b7f6090cce6a7578f]
+#### Money laundering and terrorist financing[^c-d6cff98b17fc941b7f6090cce6a7578f]
 
 **Not yet in force.**
 
@@ -146,4 +146,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-d6cff98b17fc941b7f6090cce6a7578f]: Textual amendment: Words in s. 30 cross-heading inserted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 11(a)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/11/a) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-d6cff98b17fc941b7f6090cce6a7578f]: Textual amendment: Words in s. 30 cross-heading inserted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 11(a)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/11/a) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))

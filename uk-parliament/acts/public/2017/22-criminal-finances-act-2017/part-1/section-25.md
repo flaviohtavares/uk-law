@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Obstruction offence in relation to immigration officers[^key-1b2e2895be21a4df31b03b04aecf2874][^key-b08e031f5d86b7e1f6d657c0d428fe82][^key-bbf61866e015840fba87e29a9e57500f][^c22725281]
+## 25. Obstruction offence in relation to immigration officers[^c-1b2e2895be21a4df31b03b04aecf2874][^c-b08e031f5d86b7e1f6d657c0d428fe82][^c-bbf61866e015840fba87e29a9e57500f][^c22725281]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,10 +50,10 @@ After section 453B of the Proceeds of Crime Act 2002 (inserted by section 23 abo
 
 ## Annotations
 
-[^key-1b2e2895be21a4df31b03b04aecf2874]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/22/section/25) in force at 31.1.2018 for specified purposes for E.W.S. by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/j)
+[^c-1b2e2895be21a4df31b03b04aecf2874]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/22/section/25) in force at 31.1.2018 for specified purposes for E.W.S. by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/j)
 
-[^key-b08e031f5d86b7e1f6d657c0d428fe82]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/22/section/25) in force at 28.6.2021 for specified purposes for E.W.S. by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/2/c)
+[^c-b08e031f5d86b7e1f6d657c0d428fe82]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/22/section/25) in force at 28.6.2021 for specified purposes for E.W.S. by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/2/c)
 
-[^key-bbf61866e015840fba87e29a9e57500f]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/22/section/25) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(m)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/m)
+[^c-bbf61866e015840fba87e29a9e57500f]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/22/section/25) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(m)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/m)
 
 [^c22725281]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/22/section/25) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

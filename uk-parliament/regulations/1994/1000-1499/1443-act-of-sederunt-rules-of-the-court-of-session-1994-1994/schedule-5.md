@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 5 — ACTS OF SEDERUNT REVOKED[^key-3ca4a0006bdd05ec5e0680cefd0777fa]
+## SCHEDULE 5 — ACTS OF SEDERUNT REVOKED[^c-3ca4a0006bdd05ec5e0680cefd0777fa]
 
 *Extent: S*
 
@@ -212,4 +212,4 @@ Paragraph 3(3)
 
 ## Annotations
 
-[^key-3ca4a0006bdd05ec5e0680cefd0777fa]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/1994/1443/schedule/5) in force at 5.9.1994, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1/1)
+[^c-3ca4a0006bdd05ec5e0680cefd0777fa]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/1994/1443/schedule/5) in force at 5.9.1994, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1/1)

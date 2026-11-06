@@ -43,7 +43,7 @@ and that person shall–
 
 - (a) the local authority and community council for the area of each proposed release;
 - (b) the owner of the site of each proposed release, if such person is not the applicant;
-- (c)[^key-19e058aceb0c534ac4497db3d5170b5a] any person, or a genetic modification safety committee, from whom advice must be obtained under regulation 8 of the Genetically Modified Organisms (Contained Use) Regulations 2014,
+- (c)[^c-19e058aceb0c534ac4497db3d5170b5a] any person, or a genetic modification safety committee, from whom advice must be obtained under regulation 8 of the Genetically Modified Organisms (Contained Use) Regulations 2014,
 - (d) any National Park Authority designated under section 6 of the National Parks (Scotland) Act 2000 [^c8714251] for the area of each proposed release;
 - (e) Scottish Natural Heritage established under section 1 of the Natural Heritage (Scotland) Act 1991 [^c8714261]; and
 - (f) such other body as the Scottish Ministers may notify the applicant that they consider appropriate,
@@ -56,7 +56,7 @@ and shall immediately send to the Scottish Ministers copies of the notices given
 
 [^c8714231]: Marginal citation: As defined in section 107(2), (3) and (6) of the Act as amended by regulation 4(2) to (4).
 
-[^key-19e058aceb0c534ac4497db3d5170b5a]: Textual amendment: [Reg. 12(4)(c)](https://www.legislation.gov.uk/ssi/2002/541/regulation/12/4/c) substituted (15.3.2019) by [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2019/86/regulation/5)
+[^c-19e058aceb0c534ac4497db3d5170b5a]: Textual amendment: [Reg. 12(4)(c)](https://www.legislation.gov.uk/ssi/2002/541/regulation/12/4/c) substituted (15.3.2019) by [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2019/86/regulation/5)
 
 [^c8714251]: Marginal citation: [2000 asp 10](https://www.legislation.gov.uk/asp/2000/10).
 

@@ -22,7 +22,7 @@ summary: ''
 
 Section 14
 
-**1.**[^key-469d736ca79ebe42ba3fa0fbc9de4473] The Town and Country Planning Act 1990 is amended as follows.
+**1.**[^c-469d736ca79ebe42ba3fa0fbc9de4473] The Town and Country Planning Act 1990 is amended as follows.
 
 **Not yet in force.**
 
@@ -30,15 +30,15 @@ Section 14
 
 > (3A) See also section 100ZA, which makes provision about restrictions on the power to impose conditions under subsection (1)(a) on a grant of planning permission in relation to land in England.
 
-**3.**[^key-94158c1554073ff1ef53384ffc9b8d8e] In section 72 (conditional grant of planning permission), after subsection (5) insert—
+**3.**[^c-94158c1554073ff1ef53384ffc9b8d8e] In section 72 (conditional grant of planning permission), after subsection (5) insert—
 
 > (6) See also section 100ZA, which makes provision about restrictions on the power to impose conditions by virtue of this section on a grant of planning permission in relation to land in England.
 
-**4.**[^key-bc535dafa20db51b001b935479560e38] In section 73 (determination of applications to develop land without compliance with conditions previously attached), after subsection (2) insert—
+**4.**[^c-bc535dafa20db51b001b935479560e38] In section 73 (determination of applications to develop land without compliance with conditions previously attached), after subsection (2) insert—
 
 > (2A) See also section 100ZA, which makes provision about restrictions on the power to impose conditions under subsection (2) on a grant of planning permission in relation to land in England.
 
-**5.**[^key-0bb2d6cec8bc89aae10102366050d5a7] In section 90(3) (effect of deemed planning permission) after “except” insert “ section 100ZA and ”.
+**5.**[^c-0bb2d6cec8bc89aae10102366050d5a7] In section 90(3) (effect of deemed planning permission) after “except” insert “ section 100ZA and ”.
 
 **Not yet in force.**
 
@@ -54,18 +54,18 @@ Section 14
 
 > (6) Section 100ZA(1) (which confers power to provide for restrictions in relation to conditions or limitations that may be imposed on a grant of planning permission for the development of land in England) applies in relation to conditions imposed under or by virtue of subsection (2) or (3) as it applies in relation to conditions imposed on a grant of planning permission to develop land which is granted on an application made under Part 3.
 
-**8.**[^key-fbf627f0b6ca5250c7402d5bd0406030] In section 177 (grant or modification of planning permission on appeals against enforcement notices), after subsection (4) insert—
+**8.**[^c-fbf627f0b6ca5250c7402d5bd0406030] In section 177 (grant or modification of planning permission on appeals against enforcement notices), after subsection (4) insert—
 
 > (4A) Section 100ZA (which makes provision about restrictions on the power to impose conditions or limitations on a grant of planning permission in relation to land in England) applies in relation to conditions substituted under subsection (4) as it applies in relation to conditions imposed on a grant of planning permission to develop land which is granted on an application made under Part 3.
 
 ## Annotations
 
-[^key-469d736ca79ebe42ba3fa0fbc9de4473]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2017/20/schedule/3/paragraph/1) in force at 1.10.2018 by [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/b)
+[^c-469d736ca79ebe42ba3fa0fbc9de4473]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2017/20/schedule/3/paragraph/1) in force at 1.10.2018 by [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/b)
 
-[^key-94158c1554073ff1ef53384ffc9b8d8e]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2017/20/schedule/3/paragraph/3) in force at 1.10.2018 by [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/b)
+[^c-94158c1554073ff1ef53384ffc9b8d8e]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2017/20/schedule/3/paragraph/3) in force at 1.10.2018 by [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/b)
 
-[^key-bc535dafa20db51b001b935479560e38]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2017/20/schedule/3/paragraph/4) in force at 1.10.2018 by [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/b)
+[^c-bc535dafa20db51b001b935479560e38]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2017/20/schedule/3/paragraph/4) in force at 1.10.2018 by [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/b)
 
-[^key-0bb2d6cec8bc89aae10102366050d5a7]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2017/20/schedule/3/paragraph/5) in force at 1.10.2018 by [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/b)
+[^c-0bb2d6cec8bc89aae10102366050d5a7]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2017/20/schedule/3/paragraph/5) in force at 1.10.2018 by [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/b)
 
-[^key-fbf627f0b6ca5250c7402d5bd0406030]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2017/20/schedule/3/paragraph/8) in force at 1.10.2018 by [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/b)
+[^c-fbf627f0b6ca5250c7402d5bd0406030]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2017/20/schedule/3/paragraph/8) in force at 1.10.2018 by [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/b)

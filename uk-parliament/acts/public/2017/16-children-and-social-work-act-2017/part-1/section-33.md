@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Power to secure proper performance[^key-d4202daa73e04c3c4b937e8bc76f5de9]
+## 33. Power to secure proper performance[^c-d4202daa73e04c3c4b937e8bc76f5de9]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4202daa73e04c3c4b937e8bc76f5de9]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2017/16/section/33) in force at 31.10.2017 by [S.I. 2017/918](https://www.legislation.gov.uk/uksi/2017/918), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/918/regulation/2/c)
+[^c-d4202daa73e04c3c4b937e8bc76f5de9]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2017/16/section/33) in force at 31.10.2017 by [S.I. 2017/918](https://www.legislation.gov.uk/uksi/2017/918), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/918/regulation/2/c)

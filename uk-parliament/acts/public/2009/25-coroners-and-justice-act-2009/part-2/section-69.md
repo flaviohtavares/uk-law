@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Indecent pseudo-photographs of children: marriage etc[^key-0af9e96f1e3c43fd04c875188b7cfbd7]
+## 69. Indecent pseudo-photographs of children: marriage etc[^c-0af9e96f1e3c43fd04c875188b7cfbd7]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0af9e96f1e3c43fd04c875188b7cfbd7]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2009/25/section/69) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/2)
+[^c-0af9e96f1e3c43fd04c875188b7cfbd7]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2009/25/section/69) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-3926fc8423e2005c0d98b2fbdaace903]
+## 1. Citation and commencement[^c-3926fc8423e2005c0d98b2fbdaace903]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the London Underground (East London Line Extension) (
 
 ## Annotations
 
-[^key-3926fc8423e2005c0d98b2fbdaace903]: Commencement: Art. 1 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-3926fc8423e2005c0d98b2fbdaace903]: Commencement: Art. 1 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

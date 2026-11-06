@@ -39,7 +39,7 @@ summary: ''
 - (i) the first regulations under section 62(2) (exercise of power to meet child's carer's needs for support);
 - (j) the first regulations under section 72 (Part 1 appeals);
 - (k) subsequent regulations under that section which include provision that amends or repeals a provision of an Act of Parliament, or provides for a provision of an Act of Parliament to apply with modifications;
-- (ka)[^key-54d94736dba3f3c5a0b5525f02624325] regulations under section 72A(6) (modification of enactments where local authority functions are exercised by the Secretary of State or a nominee);
+- (ka)[^c-54d94736dba3f3c5a0b5525f02624325] regulations under section 72A(6) (modification of enactments where local authority functions are exercised by the Secretary of State or a nominee);
 - (l) an order under section 79(9) (delegation of local authority functions);
 - (m) regulations under section 92 (offence of supplying etc false or misleading information);
 - (n) an order under section 123 (consequential provision) which includes provision that amends or repeals a provision of an Act of Parliament, or provides for a provision of an Act of Parliament to apply with modifications;
@@ -49,7 +49,7 @@ summary: ''
 
 (6) Subsection (3) does not apply to—
 
-- (a)[^key-720a2c1fd44e885af8fc682f1890626b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-720a2c1fd44e885af8fc682f1890626b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) an order under section 109 (transfer order to new HRA);
 - (c) an order under section 124 (transitional etc. provision);
 - (d) an order under section 127 (commencement).
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54d94736dba3f3c5a0b5525f02624325]: Textual amendment: [S. 125(4)(ka)](https://www.legislation.gov.uk/ukpga/2014/23/section/125/4/ka) inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 164(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/164/4), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/f)
+[^c-54d94736dba3f3c5a0b5525f02624325]: Textual amendment: [S. 125(4)(ka)](https://www.legislation.gov.uk/ukpga/2014/23/section/125/4/ka) inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 164(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/164/4), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/f)
 
-[^key-720a2c1fd44e885af8fc682f1890626b]: Textual amendment: [S. 125(6)(a)](https://www.legislation.gov.uk/ukpga/2014/23/section/125/6/a) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(14)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/14) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-720a2c1fd44e885af8fc682f1890626b]: Textual amendment: [S. 125(6)(a)](https://www.legislation.gov.uk/ukpga/2014/23/section/125/6/a) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 1 para. 13(14)](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/13/14) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))

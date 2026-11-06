@@ -72,9 +72,9 @@ summary: ''
 
   > (3A) Regulations may provide for circumstances in which subsection (2)(ba) above does not apply.
 
-(6)[^key-4ebd9d2a4cab1e87bf8fba780d52a794] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-4ebd9d2a4cab1e87bf8fba780d52a794] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-3acf9ed0a0cc8d6658ff2718f760b14e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-3acf9ed0a0cc8d6658ff2718f760b14e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In section 171ZL (statutory adoption pay: entitlement)—
 
@@ -117,6 +117,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ebd9d2a4cab1e87bf8fba780d52a794]: Textual amendment: S. 63(6) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 75](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/75); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(pp)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/pp) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-4ebd9d2a4cab1e87bf8fba780d52a794]: Textual amendment: S. 63(6) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 75](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/75); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(pp)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/pp) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
 
-[^key-3acf9ed0a0cc8d6658ff2718f760b14e]: Textual amendment: S. 63(7) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 75](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/75); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(pp)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/pp) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-3acf9ed0a0cc8d6658ff2718f760b14e]: Textual amendment: S. 63(7) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 75](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/75); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(pp)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/pp) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))

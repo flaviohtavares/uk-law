@@ -42,13 +42,13 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 50(5)(b) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-144d77f5e58cb466ed6751d850649c27]
+## 1. Citation and commencement[^c-144d77f5e58cb466ed6751d850649c27]
 
 This Order may be cited as the Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (Scotland) (No. 2) Order 2009 and shall come into force on the expiry of one week beginning with the day on which it is made.
 
-## 2. Designation of participating countries[^key-3fe7451abd3f2668e9b47c3b00b2aa39]
+## 2. Designation of participating countries[^c-3fe7451abd3f2668e9b47c3b00b2aa39]
 
-Norway is designated as a participating country[^key-8b6f1d1ea28539c70a6a0bd8bc2f0926] in relation to the following provisions of the Crime (International Co-operation) Act 2003–
+Norway is designated as a participating country[^c-8b6f1d1ea28539c70a6a0bd8bc2f0926] in relation to the following provisions of the Crime (International Co-operation) Act 2003–
 
 - (a) section 31 (hearing witnesses in the UK by telephone);
 - (b) section 37 (customer information);
@@ -84,11 +84,11 @@ Article 3 of the Order designates Switzerland as a participating country in rela
 
 [^f00001]: Footnote: [2003 c. 32](https://www.legislation.gov.uk/ukpga/2003/32).
 
-[^key-144d77f5e58cb466ed6751d850649c27]: Commencement: Art. 1 in force at 7.6.2009 in accordance with art. 1
+[^c-144d77f5e58cb466ed6751d850649c27]: Commencement: Art. 1 in force at 7.6.2009 in accordance with art. 1
 
-[^key-3fe7451abd3f2668e9b47c3b00b2aa39]: Commencement: Art. 2 in force at 7.6.2009 in accordance with art. 1
+[^c-3fe7451abd3f2668e9b47c3b00b2aa39]: Commencement: Art. 2 in force at 7.6.2009 in accordance with art. 1
 
-[^key-8b6f1d1ea28539c70a6a0bd8bc2f0926]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2009/206/article/2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [91(2)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/91/2/a) (with [regs. 97](https://www.legislation.gov.uk/uksi/2019/742/regulation/97), [98](https://www.legislation.gov.uk/uksi/2019/742/regulation/98)) (as amended by [2020 c. 29](https://www.legislation.gov.uk/ukpga/2020/29), [Sch. 3 para. 2(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/2/6) and [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [21](https://www.legislation.gov.uk/uksi/2020/1408/regulation/21), [22](https://www.legislation.gov.uk/uksi/2020/1408/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8b6f1d1ea28539c70a6a0bd8bc2f0926]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2009/206/article/2) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [91(2)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/91/2/a) (with [regs. 97](https://www.legislation.gov.uk/uksi/2019/742/regulation/97), [98](https://www.legislation.gov.uk/uksi/2019/742/regulation/98)) (as amended by [2020 c. 29](https://www.legislation.gov.uk/ukpga/2020/29), [Sch. 3 para. 2(6)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/2/6) and [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [21](https://www.legislation.gov.uk/uksi/2020/1408/regulation/21), [22](https://www.legislation.gov.uk/uksi/2020/1408/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00002]: Footnote: Section 48 was amended by paragraph 52 of Schedule 26 to the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4).
 

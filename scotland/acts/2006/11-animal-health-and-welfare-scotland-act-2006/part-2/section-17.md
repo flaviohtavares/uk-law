@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Protected animals[^key-31e258b27acc376299cf265b70acd320]
+## 17. Protected animals[^c-31e258b27acc376299cf265b70acd320]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31e258b27acc376299cf265b70acd320]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2006/11/section/17) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-31e258b27acc376299cf265b70acd320]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2006/11/section/17) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

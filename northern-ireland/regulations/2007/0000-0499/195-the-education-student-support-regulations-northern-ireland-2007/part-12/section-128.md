@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 128. Period of eligibility[^key-78edd4638f508638a39011fcab9293e7]
+## 128. Period of eligibility[^c-78edd4638f508638a39011fcab9293e7]
 
 *Extent: N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 - (b) determine that the student no longer qualifies for a grant or any particular amount of grant;
 - (c) treat any support paid to the student as an overpayment which may be recovered under regulation 134.
 
-(9)[^key-5cca66b277938ab90e801a0b2c72b84d] Where the period of eligibility terminates—
+(9)[^c-5cca66b277938ab90e801a0b2c72b84d] Where the period of eligibility terminates—
 
 - (a) before the end of the academic year in which the eligible postgraduate student completes the designated postgraduate course; and
 - (b) otherwise than under paragraph (5),
@@ -52,6 +52,6 @@ the Department may, at any time, renew or extend the period of eligibility for s
 
 ## Annotations
 
-[^key-78edd4638f508638a39011fcab9293e7]: Commencement: [Reg. 128](https://www.legislation.gov.uk/nisr/2007/195/regulation/128) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-78edd4638f508638a39011fcab9293e7]: Commencement: [Reg. 128](https://www.legislation.gov.uk/nisr/2007/195/regulation/128) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-5cca66b277938ab90e801a0b2c72b84d]: Textual amendment: [Reg. 128(9)](https://www.legislation.gov.uk/nisr/2007/195/regulation/128/9) substituted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [26](https://www.legislation.gov.uk/nisr/2007/293/regulation/26)
+[^c-5cca66b277938ab90e801a0b2c72b84d]: Textual amendment: [Reg. 128(9)](https://www.legislation.gov.uk/nisr/2007/195/regulation/128/9) substituted (10.7.2007) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/293)](https://www.legislation.gov.uk/nisr/2007/293), [regs. 1](https://www.legislation.gov.uk/nisr/2007/293/regulation/1), [26](https://www.legislation.gov.uk/nisr/2007/293/regulation/26)

@@ -45,15 +45,15 @@ In accordance with paragraph 2(2) of that Schedule they have consulted with such
 
 In accordance with paragraph 2(3) of that Schedule[^f00002], a draft of this Order has been laid before, and approved by resolution of, the Scottish Parliament.
 
-## 1. Citation and commencement[^key-5afc3f0c5829ab60f3b886ed83becf7e]
+## 1. Citation and commencement[^c-5afc3f0c5829ab60f3b886ed83becf7e]
 
 This Order may be cited as the Local Government Finance (Scotland) Order 2016 and comes into force on the day after the day on which it is made.
 
-## 2. Revenue support grant for 2016-2017[^key-9b0f8ef83e516f8dfadeb80f3c3bfd8d]
+## 2. Revenue support grant for 2016-2017[^c-9b0f8ef83e516f8dfadeb80f3c3bfd8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Distribution of non-domestic rate income for 2016-2017[^key-a666d63a6ba1eae4f553cde0bceb3176]
+## 3. Distribution of non-domestic rate income for 2016-2017[^c-a666d63a6ba1eae4f553cde0bceb3176]
 
 (1) The distributable amount of non‑domestic rate income arrived at under paragraph 9 of Schedule 12 to the Local Government Finance Act 1992 in respect of the financial year 2016-2017 is £2,768,500,000.
 
@@ -61,13 +61,13 @@ This Order may be cited as the Local Government Finance (Scotland) Order 2016 an
 
 (3) The amount of non‑domestic rate income distributed to each local authority specified in column 1 of Schedule 1 in respect of the financial year 2016-2017 is that part of the distributable amount for that year determined in relation to that local authority set out in column 3 of that Schedule opposite the name of that local authority.
 
-## 4. Revenue support grant for 2015-2016[^key-dae2bd8a090b76adfcab93e7958dddd9]
+## 4. Revenue support grant for 2015-2016[^c-dae2bd8a090b76adfcab93e7958dddd9]
 
 (1) The local authorities to which revenue support grant is payable in respect of the financial year 2015-2016 are specified in column 1 of Schedule 2.
 
 (2) The amount of the revenue support grant payable to each local authority specified in column 1 of Schedule 2 in respect of the financial year 2015-2016 is the amount redetermined in relation to that local authority set out in column 2 of that Schedule opposite the name of that local authority.
 
-## 5. Revocations[^key-69fbfe6d9ebbeb6519216d40e8a3a654]
+## 5. Revocations[^c-69fbfe6d9ebbeb6519216d40e8a3a654]
 
 Article 2 of, and column 2 of Schedule 1 to, the Local Government Finance (Scotland) Order 2015[^f00003] (which previously determined the amount of revenue support grant payable to each local authority in respect of the financial year 2015-2016) are revoked.
 
@@ -81,7 +81,7 @@ Edinburgh
 
 1st March 2016
 
-## SCHEDULE 1 — REVENUE SUPPORT GRANT AND DISTRIBUTION OF NON‑DOMESTIC RATE INCOME 2016-2017[^key-4b54257e6b3ade9717c632a11c6c3811]
+## SCHEDULE 1 — REVENUE SUPPORT GRANT AND DISTRIBUTION OF NON‑DOMESTIC RATE INCOME 2016-2017[^c-4b54257e6b3ade9717c632a11c6c3811]
 
 Articles 2 and 3
 
@@ -128,9 +128,9 @@ Articles 2 and 3
 </tbody>
 </table>
 
-[^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a][^key-7bebf13c624be06d3cdd580ebf110d0a]
+[^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a][^c-7bebf13c624be06d3cdd580ebf110d0a]
 
-## SCHEDULE 2 — REVENUE SUPPORT GRANT 2015-2016[^key-988c7234f8e2e2e56ad1296601e5bff7]
+## SCHEDULE 2 — REVENUE SUPPORT GRANT 2015-2016[^c-988c7234f8e2e2e56ad1296601e5bff7]
 
 Article 4
 
@@ -194,20 +194,20 @@ This Order—
 
 [^f00002]: Footnote: Paragraph 2(3) has been modified by paragraph 6 of schedule 3 to the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-5afc3f0c5829ab60f3b886ed83becf7e]: Commencement: Art. 1 in force at 2.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/135/article/1)
+[^c-5afc3f0c5829ab60f3b886ed83becf7e]: Commencement: Art. 1 in force at 2.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/135/article/1)
 
-[^key-9b0f8ef83e516f8dfadeb80f3c3bfd8d]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2016/135/article/2) revoked (17.3.2017) by [The Local Government Finance (Scotland) Order 2017 (S.S.I. 2017/87)](https://www.legislation.gov.uk/ssi/2017/87), [arts. 1](https://www.legislation.gov.uk/ssi/2017/87/article/1), [5](https://www.legislation.gov.uk/ssi/2017/87/article/5)
+[^c-9b0f8ef83e516f8dfadeb80f3c3bfd8d]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/ssi/2016/135/article/2) revoked (17.3.2017) by [The Local Government Finance (Scotland) Order 2017 (S.S.I. 2017/87)](https://www.legislation.gov.uk/ssi/2017/87), [arts. 1](https://www.legislation.gov.uk/ssi/2017/87/article/1), [5](https://www.legislation.gov.uk/ssi/2017/87/article/5)
 
-[^key-a666d63a6ba1eae4f553cde0bceb3176]: Commencement: Art. 3 in force at 2.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/135/article/1)
+[^c-a666d63a6ba1eae4f553cde0bceb3176]: Commencement: Art. 3 in force at 2.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/135/article/1)
 
-[^key-dae2bd8a090b76adfcab93e7958dddd9]: Commencement: Art. 4 in force at 2.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/135/article/1)
+[^c-dae2bd8a090b76adfcab93e7958dddd9]: Commencement: Art. 4 in force at 2.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/135/article/1)
 
-[^key-69fbfe6d9ebbeb6519216d40e8a3a654]: Commencement: Art. 5 in force at 2.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/135/article/1)
+[^c-69fbfe6d9ebbeb6519216d40e8a3a654]: Commencement: Art. 5 in force at 2.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/135/article/1)
 
 [^f00003]: Footnote: [S.S.I. 2015/56](https://www.legislation.gov.uk/ssi/2015/56). Schedule 1 was amended by [S.S.I. 2015/125](https://www.legislation.gov.uk/ssi/2015/125).
 
-[^key-4b54257e6b3ade9717c632a11c6c3811]: Commencement: Sch. 1 in force at 2.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/135/article/1)
+[^c-4b54257e6b3ade9717c632a11c6c3811]: Commencement: Sch. 1 in force at 2.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/135/article/1)
 
-[^key-7bebf13c624be06d3cdd580ebf110d0a]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/135/schedule/1) revoked (17.3.2017) by [The Local Government Finance (Scotland) Order 2017 (S.S.I. 2017/87)](https://www.legislation.gov.uk/ssi/2017/87), [arts. 1](https://www.legislation.gov.uk/ssi/2017/87/article/1), [5](https://www.legislation.gov.uk/ssi/2017/87/article/5)
+[^c-7bebf13c624be06d3cdd580ebf110d0a]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2016/135/schedule/1) revoked (17.3.2017) by [The Local Government Finance (Scotland) Order 2017 (S.S.I. 2017/87)](https://www.legislation.gov.uk/ssi/2017/87), [arts. 1](https://www.legislation.gov.uk/ssi/2017/87/article/1), [5](https://www.legislation.gov.uk/ssi/2017/87/article/5)
 
-[^key-988c7234f8e2e2e56ad1296601e5bff7]: Commencement: Sch. 2 in force at 2.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/135/article/1)
+[^c-988c7234f8e2e2e56ad1296601e5bff7]: Commencement: Sch. 2 in force at 2.3.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/135/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58A. Form and content of prescribed clauses leases[^key-27ee62cf9efabec423c127724aa65100]
+## 58A. Form and content of prescribed clauses leases[^c-27ee62cf9efabec423c127724aa65100]
 
 *Extent: E+W*
 
@@ -40,12 +40,12 @@ summary: ''
   - (d) is not a lease by virtue of a variation of a lease which is a deemed surrender and re-grant, and
 - “required wording” means the wording in clauses LR1 to LR14 of Schedule 1A completed in accordance with the instructions in that Schedule and as appropriate for the particular lease.
 
-(5)[^key-25f0776de4623b89dba5fa025112e982] If a prescribed clauses lease is an electronic document to which section 91 of the Act applies, the required wording will be such of the wording in clauses LR1 to LR14 of Schedule 1A, and in such order, as is required by the notice given under rule 54C.
+(5)[^c-25f0776de4623b89dba5fa025112e982] If a prescribed clauses lease is an electronic document to which section 91 of the Act applies, the required wording will be such of the wording in clauses LR1 to LR14 of Schedule 1A, and in such order, as is required by the notice given under rule 54C.
 
 (6) Where the required wording is provided under paragraph (5) it must be to like effect to that which would have been provided had the wording been given in paper form.
 
 ## Annotations
 
-[^key-27ee62cf9efabec423c127724aa65100]: Textual amendment: Rule 58A inserted (9.1.2006) by [The Land Registration (Amendment) (No 2) Rules 2005 (S.I. 2005/1982)](https://www.legislation.gov.uk/uksi/2005/1982), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/1982/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2005/1982/rule/5)
+[^c-27ee62cf9efabec423c127724aa65100]: Textual amendment: Rule 58A inserted (9.1.2006) by [The Land Registration (Amendment) (No 2) Rules 2005 (S.I. 2005/1982)](https://www.legislation.gov.uk/uksi/2005/1982), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/1982/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2005/1982/rule/5)
 
-[^key-25f0776de4623b89dba5fa025112e982]: Textual amendment: [Rule 58A(5)](https://www.legislation.gov.uk/uksi/2003/1417/rule/58A/5)[(6)](https://www.legislation.gov.uk/uksi/2003/1417/rule/58A/6) added (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/13)
+[^c-25f0776de4623b89dba5fa025112e982]: Textual amendment: [Rule 58A(5)](https://www.legislation.gov.uk/uksi/2003/1417/rule/58A/5)[(6)](https://www.legislation.gov.uk/uksi/2003/1417/rule/58A/6) added (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/13)

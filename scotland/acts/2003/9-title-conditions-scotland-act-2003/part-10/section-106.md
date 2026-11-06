@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Extinction of real burdens and servitudes etc. on compulsory acquisition of land[^c21071091][^key-dd4bbb9adc216c486b8606dc2e394e9e]
+## 106. Extinction of real burdens and servitudes etc. on compulsory acquisition of land[^c21071091][^c-dd4bbb9adc216c486b8606dc2e394e9e]
 
 *Extent: S*
 
@@ -39,7 +39,7 @@ provide otherwise, on registration of the conveyance, any real burden, or servit
 
 (4) Where a personal real burden is extinguished by virtue of subsection (1) above, such person as immediately before the extinction held the right to enforce the burden shall be entitled to receive compensation from the acquiring authority in question for any loss thereby occasioned that person.
 
-(4A)[^key-7a59378afe952a55ee73e3ba53c95ecb] This section applies to a compulsory purchase order in respect of which notice is given under paragraph 3 of schedule 1 of the Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 on or after the day on which section 109 of this Act comes into force.
+(4A)[^c-7a59378afe952a55ee73e3ba53c95ecb] This section applies to a compulsory purchase order in respect of which notice is given under paragraph 3 of schedule 1 of the Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 on or after the day on which section 109 of this Act comes into force.
 
 (5) In this section—
 
@@ -60,8 +60,8 @@ provide otherwise, on registration of the conveyance, any real burden, or servit
 
     S. 106 applied (1.6.2010) by [The Network Rail (Waverley Steps) Order 2010 (S.S.I. 2010/188)](https://www.legislation.gov.uk/ssi/2010/188), [art. 32](https://www.legislation.gov.uk/ssi/2010/188/article/32)
 
-[^key-dd4bbb9adc216c486b8606dc2e394e9e]: Modification: S. 106 applied (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [arts. 1](https://www.legislation.gov.uk/ssi/2017/100/article/1), [39](https://www.legislation.gov.uk/ssi/2017/100/article/39) (with [arts. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37), [39(9)](https://www.legislation.gov.uk/ssi/2017/100/article/39/9))
+[^c-dd4bbb9adc216c486b8606dc2e394e9e]: Modification: S. 106 applied (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [arts. 1](https://www.legislation.gov.uk/ssi/2017/100/article/1), [39](https://www.legislation.gov.uk/ssi/2017/100/article/39) (with [arts. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37), [39(9)](https://www.legislation.gov.uk/ssi/2017/100/article/39/9))
 
 [^c21063761]: Textual amendment: Words in s. 106(1) inserted (22.10.2003) by [The Title Conditions (Scotland) Act 2003 (Consequential Provisions) Order 2003 (S.S.I. 2003/503)](https://www.legislation.gov.uk/ssi/2003/503), [art. 2](https://www.legislation.gov.uk/ssi/2003/503/article/2), [Sch. 1 para. 12(a)](https://www.legislation.gov.uk/ssi/2003/503/schedule/1/paragraph/12/a)
 
-[^key-7a59378afe952a55ee73e3ba53c95ecb]: Textual amendment: S. 106(4A) substituted (1.4.2019) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential Amendments) Regulations 2019 (S.S.I. 2019/125)](https://www.legislation.gov.uk/ssi/2019/125), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/125/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2019/125/regulation/10)
+[^c-7a59378afe952a55ee73e3ba53c95ecb]: Textual amendment: S. 106(4A) substituted (1.4.2019) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential Amendments) Regulations 2019 (S.S.I. 2019/125)](https://www.legislation.gov.uk/ssi/2019/125), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/125/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2019/125/regulation/10)

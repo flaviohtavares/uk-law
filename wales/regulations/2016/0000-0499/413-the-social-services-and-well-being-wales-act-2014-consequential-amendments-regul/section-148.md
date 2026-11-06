@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**148.**[^key-e4f209b2e130a5c57de30438425f12ee] In section 235(1)[^f00164] (other definitions) in the definition of “local authority foster parent”, for “section 22C(12)” substitute “section 105(1)”.
+**148.**[^c-e4f209b2e130a5c57de30438425f12ee] In section 235(1)[^f00164] (other definitions) in the definition of “local authority foster parent”, for “section 22C(12)” substitute “section 105(1)”.
 
 ## Annotations
 
-[^key-e4f209b2e130a5c57de30438425f12ee]: Commencement: Reg. 148 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-e4f209b2e130a5c57de30438425f12ee]: Commencement: Reg. 148 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00164]: Footnote: The definition of “local authority foster parent” in section 235(1) was inserted by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 128(2)(e).

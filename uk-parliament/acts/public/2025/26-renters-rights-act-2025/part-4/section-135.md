@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 135. Investigatory powers under the [Housing Act 2004](https://www.legislation.gov.uk/ukpga/2004/34)[^key-c067dbbccec1936cef39e30ad674632d]
+## 135. Investigatory powers under the [Housing Act 2004](https://www.legislation.gov.uk/ukpga/2004/34)[^c-c067dbbccec1936cef39e30ad674632d]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c067dbbccec1936cef39e30ad674632d]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2025/26/section/135) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-c067dbbccec1936cef39e30ad674632d]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2025/26/section/135) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

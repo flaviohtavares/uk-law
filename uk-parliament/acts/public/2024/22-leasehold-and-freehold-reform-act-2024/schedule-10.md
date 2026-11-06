@@ -24,13 +24,13 @@ summary: ''
 
 Section 48
 
-### 1. Right to vary lease to replace rent with peppercorn rent[^key-5f9d0177bd2690b601e5c7c8db0213d4]
+### 1. Right to vary lease to replace rent with peppercorn rent[^c-5f9d0177bd2690b601e5c7c8db0213d4]
 
 (1) This Schedule has effect for the purpose of conferring on the tenant under a qualifying lease the right to have any obligation under the lease to pay rent varied so that the whole or part of the rent payable becomes and will remain a peppercorn rent.
 
 (2) That right has effect and is exercisable subject to, and in accordance with, the following provisions of this Schedule.
 
-### 2. Meaning of “qualifying lease” and exclusion of certain rent from the right to vary[^key-b4b5f195190a425cfeba3b5d04fec135]
+### 2. Meaning of “qualifying lease” and exclusion of certain rent from the right to vary[^c-b4b5f195190a425cfeba3b5d04fec135]
 
 (1) In this Schedule “**qualifying lease**” means—
 
@@ -74,7 +74,7 @@ Section 48
   - (i) “**tenant’s share**” means the tenant’s initial share in the premises demised by the lease, plus any additional share or shares in those demised premises which the tenant has acquired;
   - (ii) “**landlord’s share**” means the share in the premises demised by the lease which is not comprised in the tenant’s share.
 
-### 3. Claiming the right to a peppercorn rent[^key-e393e0ab19bdc5aad06923d6cf82cd9a]
+### 3. Claiming the right to a peppercorn rent[^c-e393e0ab19bdc5aad06923d6cf82cd9a]
 
 (1) A claim by a tenant to exercise the right to a peppercorn rent is made by the tenant giving notice of the claim (a “rent variation notice”) to—
 
@@ -122,7 +122,7 @@ as if it were an estate contract.
 
 and any reference in this Schedule to the landlord is to be construed accordingly.
 
-### 4. Suspension of rent variation notices[^key-7ef0f0b5b8b5e264fd9c27a173e5b529]
+### 4. Suspension of rent variation notices[^c-7ef0f0b5b8b5e264fd9c27a173e5b529]
 
 (1) This paragraph applies if conditions A and B are met.
 
@@ -159,7 +159,7 @@ and any reference in this Schedule to the landlord is to be construed accordingl
 - “**claim for collective enfranchisement**” means the claim to which the collective enfranchisement notice relates;
 - “**collective enfranchisement notice**” means a notice under section 13 of the LRHUDA 1993 (notice of claim to exercise right to collective enfranchisement).
 
-### 5. Counter-notice[^key-a89c96a367a72af866934a946cc07a85]
+### 5. Counter-notice[^c-a89c96a367a72af866934a946cc07a85]
 
 (1) This paragraph applies if the landlord is given a rent variation notice by the tenant.
 
@@ -190,7 +190,7 @@ and must also give the landlord’s response to the proposed premium, and any ot
 
 (8) The rent variation notice may not specify a period of less than two months or more than six months.
 
-### 6. Application to appropriate tribunal where claim or terms not agreed[^key-291463e07bac27d18ba4cdf07e429b63]
+### 6. Application to appropriate tribunal where claim or terms not agreed[^c-291463e07bac27d18ba4cdf07e429b63]
 
 (1) This paragraph applies if the landlord is given a rent variation notice by the tenant.
 
@@ -214,7 +214,7 @@ the landlord or tenant may apply to the appropriate tribunal to determine the ma
 
 (5) Any application under sub-paragraph (4) must be made before the end of the period of 6 months beginning with the day after the last day of the response period.
 
-### 7. Variation of the lease[^key-c106fce619667aae176b97e589738c4f]
+### 7. Variation of the lease[^c-c106fce619667aae176b97e589738c4f]
 
 (1) This paragraph applies if a rent variation notice becomes enforceable.
 
@@ -233,7 +233,7 @@ the landlord or tenant may apply to the appropriate tribunal to determine the ma
 
 (7) In this paragraph “**relevant property**” means the property demised by the qualifying lease to which the right to a peppercorn rent applies (see paragraph 2(6)).
 
-### 8. Reduction of rent under intermediate leases[^key-f1a960945568cbc7332e6ea70dd8f60a]
+### 8. Reduction of rent under intermediate leases[^c-f1a960945568cbc7332e6ea70dd8f60a]
 
 (1) This paragraph applies if, at the time when a rent variation notice is given, there are one or more qualifying intermediate leases.
 
@@ -294,7 +294,7 @@ where the loss suffered by an eligible landlord is the loss which that landlord 
   - (b) in relation to a qualifying intermediate lease, a reduction resulting from this paragraph;
 - “**relevant rent**” means rent that has been, or would properly be, apportioned to the whole or a part of the property to which the rent variation notice relates.
 
-### 9. Jurisdiction of the appropriate tribunal in relation to paragraph 8[^key-dabe075f798d5407cdaae0179e452a1d]
+### 9. Jurisdiction of the appropriate tribunal in relation to paragraph 8[^c-dabe075f798d5407cdaae0179e452a1d]
 
 (1) The appropriate tribunal may determine any matter arising under paragraph 8 (reduction of rent under intermediate leases on grant of a new lease), including what rent under an intermediate lease is apportioned to the qualifying property (see paragraph 2(6)).
 
@@ -310,7 +310,7 @@ where the loss suffered by an eligible landlord is the loss which that landlord 
 
 (3) The variation of a lease on behalf of a party in consequence of an order under sub-paragraph (2)(b) has the same force and effect (for all purposes) as if it had been executed by that party.
 
-### 10. Failure to vary lease[^key-54f382414a237346a96488ce8cf7bead]
+### 10. Failure to vary lease[^c-54f382414a237346a96488ce8cf7bead]
 
 (1) This paragraph applies if the qualifying lease is not varied in accordance with paragraph 7(2).
 
@@ -323,7 +323,7 @@ where the loss suffered by an eligible landlord is the loss which that landlord 
 
 (4) Any application for an order under sub-paragraph (2) must be made within the period of four months beginning with the day on which the rent variation notice becomes enforceable (within the meaning of paragraph 7).
 
-### 11. Missing landlord or third party[^key-15cbd2eac400bf723503341c0efa074b]
+### 11. Missing landlord or third party[^c-15cbd2eac400bf723503341c0efa074b]
 
 (1) On an application made by the tenant under a qualifying lease, the appropriate tribunal may make a determination that the landlord under, or another party to, a qualifying lease cannot be found or their identity cannot be ascertained.
 
@@ -346,7 +346,7 @@ where the loss suffered by an eligible landlord is the loss which that landlord 
 - (b) the rights and obligations of all parties shall be determined as if the tenant had, at the date of the application, duly given the rent variation notice, and
 - (c) the appropriate tribunal may give such directions as it thinks fit as to the steps to be taken for giving effect to the right to a peppercorn rent, including directions modifying or dispensing with any of the requirements of this Schedule or any regulations.
 
-### 12. Circumstances in which notice ceases to have effect etc[^key-5089d36a59ba4b5832f44b7ef5d9061d]
+### 12. Circumstances in which notice ceases to have effect etc[^c-5089d36a59ba4b5832f44b7ef5d9061d]
 
 (1) A rent variation notice ceases to have effect from the time when—
 
@@ -361,7 +361,7 @@ where the loss suffered by an eligible landlord is the loss which that landlord 
 
 (2) If a rent variation notice ceases to have effect, the landlord is under no obligation under this Schedule in respect of the notice as it previously had effect, except for any obligation arising under any provision of the LRHUDA 1993 that applies by virtue of paragraph 20.
 
-### 13. Tenant’s liability for costs[^key-939aa8a6e0a6282f351f45b65e905dd5]
+### 13. Tenant’s liability for costs[^c-939aa8a6e0a6282f351f45b65e905dd5]
 
 (1) A tenant is not liable for any costs incurred by any other person as a result of the tenant’s exercise of the right to a peppercorn rent, except as referred to in—
 
@@ -385,7 +385,7 @@ where the loss suffered by an eligible landlord is the loss which that landlord 
 - “**claim**” includes an invalid claim;
 - “**former tenant**” means a person who was a tenant making a claim to the right to a peppercorn rent, but is no longer a tenant.
 
-### 14. Liability for costs: failed claims[^key-f93218d9eaa2b37ddd17c1accc2b6674]
+### 14. Liability for costs: failed claims[^c-f93218d9eaa2b37ddd17c1accc2b6674]
 
 (1) A tenant is liable to the landlord for a prescribed amount in respect of non-litigation costs if the tenant’s claim ceases to have effect by virtue of paragraph 12(1), unless it ceases to have effect by virtue of—
 
@@ -402,7 +402,7 @@ where the loss suffered by an eligible landlord is the loss which that landlord 
 
 (3) A statutory instrument containing regulations under this paragraph is subject to the negative procedure.
 
-### 15. Liability for costs: successful claims[^key-4590107a8ed2e0468dc2685e0c518941]
+### 15. Liability for costs: successful claims[^c-4590107a8ed2e0468dc2685e0c518941]
 
 (1) A tenant is liable to the landlord for the amount referred to in sub-paragraph (2) if—
 
@@ -426,7 +426,7 @@ where the loss suffered by an eligible landlord is the loss which that landlord 
 
 (4) A statutory instrument containing regulations under this paragraph is subject to the negative procedure.
 
-### 16. Duty of landlord to give copies of the rent variation notice to superior landlords[^key-3a179da8d670784252f94c8b62770288]
+### 16. Duty of landlord to give copies of the rent variation notice to superior landlords[^c-3a179da8d670784252f94c8b62770288]
 
 (1) This paragraph applies if the landlord is given a rent variation notice by the tenant.
 
@@ -446,7 +446,7 @@ where the loss suffered by an eligible landlord is the loss which that landlord 
 
 (6) If the landlord fails to comply with a duty in this paragraph, the landlord is liable in damages for any loss suffered by any other person as a result of the failure.
 
-### 17. Duty of superior landlord to give copies of the rent variation notice to other superior landlords[^key-28ba55dbc452956badeb61cdae1d492f]
+### 17. Duty of superior landlord to give copies of the rent variation notice to other superior landlords[^c-28ba55dbc452956badeb61cdae1d492f]
 
 (1) This paragraph applies if a superior landlord is given a copy of a rent variation notice under paragraph 16 or this paragraph.
 
@@ -468,7 +468,7 @@ where the loss suffered by an eligible landlord is the loss which that landlord 
 
 (6) If the forwarding landlord fails to comply with a duty in this paragraph, the forwarding landlord is liable in damages for any loss suffered by any other person as a result of the failure.
 
-### 18. Actions of immediate landlord binding on other landlords[^key-8f7afa2772fee3a107f568fecbc3dc07]
+### 18. Actions of immediate landlord binding on other landlords[^c-8f7afa2772fee3a107f568fecbc3dc07]
 
 (1) This paragraph applies if there are one or more qualifying intermediate leases of property to which a rent variation notice relates.
 
@@ -486,7 +486,7 @@ where the loss suffered by an eligible landlord is the loss which that landlord 
 - “**other landlord**” means the landlord under a qualifying intermediate lease of property to which the rent variation notice relates;
 - “**qualifying intermediate lease**” has the meaning given in paragraph 8.
 
-### 19. Duty of immediate landlord to conduct commutation claim on behalf of affected other landlords[^key-6c47799216213e350d531d54ad47afea]
+### 19. Duty of immediate landlord to conduct commutation claim on behalf of affected other landlords[^c-6c47799216213e350d531d54ad47afea]
 
 (1) This paragraph applies if—
 
@@ -536,7 +536,7 @@ where the loss suffered by an eligible landlord is the loss which that landlord 
 - “**qualifying intermediate lease**” has the meaning given in paragraph 8;
 - “**required premium**” means the required premium payable under paragraph 7.
 
-### 20. Provisions of the LRHUDA 1993 that apply for the purposes of this Schedule[^key-d2ebcfb304ab28b92175c7ed2d7463e5]
+### 20. Provisions of the LRHUDA 1993 that apply for the purposes of this Schedule[^c-d2ebcfb304ab28b92175c7ed2d7463e5]
 
 (1) The provisions of the LRHUDA 1993 set out in the first column of the table below (the “applied provisions”) are to apply for the purposes of this Schedule (whether in its application to a house or flat).
 
@@ -572,7 +572,7 @@ where the loss suffered by an eligible landlord is the loss which that landlord 
 | The LRHUDA 1993 or a Part, or Chapter of a Part, of the LRHUDA 1993 | This Schedule |
 | Particular provision of the LRHUDA 1993 | The corresponding provision made in or under this Schedule |
 
-### 21. Regulations[^key-d907530fbc968fa2fe880743ded67e56]
+### 21. Regulations[^c-d907530fbc968fa2fe880743ded67e56]
 
 (1) The Secretary of State may by regulations make provision for giving effect to the rights of a tenant under this Schedule.
 
@@ -600,7 +600,7 @@ where the loss suffered by an eligible landlord is the loss which that landlord 
 - (b) a counter-notice;
 - (c) a notice of withdrawal.
 
-### 22. Interpretation[^key-7b3847118ef535c5255828e6178cb8d6]
+### 22. Interpretation[^c-7b3847118ef535c5255828e6178cb8d6]
 
 (1) In this Schedule—
 
@@ -638,46 +638,46 @@ where the loss suffered by an eligible landlord is the loss which that landlord 
 
 ## Annotations
 
-[^key-5f9d0177bd2690b601e5c7c8db0213d4]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-5f9d0177bd2690b601e5c7c8db0213d4]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-b4b5f195190a425cfeba3b5d04fec135]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-b4b5f195190a425cfeba3b5d04fec135]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-e393e0ab19bdc5aad06923d6cf82cd9a]: Commencement: Sch. 10 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-e393e0ab19bdc5aad06923d6cf82cd9a]: Commencement: Sch. 10 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-7ef0f0b5b8b5e264fd9c27a173e5b529]: Commencement: Sch. 10 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-7ef0f0b5b8b5e264fd9c27a173e5b529]: Commencement: Sch. 10 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-a89c96a367a72af866934a946cc07a85]: Commencement: Sch. 10 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-a89c96a367a72af866934a946cc07a85]: Commencement: Sch. 10 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-291463e07bac27d18ba4cdf07e429b63]: Commencement: Sch. 10 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-291463e07bac27d18ba4cdf07e429b63]: Commencement: Sch. 10 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-c106fce619667aae176b97e589738c4f]: Commencement: Sch. 10 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-c106fce619667aae176b97e589738c4f]: Commencement: Sch. 10 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-f1a960945568cbc7332e6ea70dd8f60a]: Commencement: Sch. 10 para. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-f1a960945568cbc7332e6ea70dd8f60a]: Commencement: Sch. 10 para. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-dabe075f798d5407cdaae0179e452a1d]: Commencement: Sch. 10 para. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-dabe075f798d5407cdaae0179e452a1d]: Commencement: Sch. 10 para. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-54f382414a237346a96488ce8cf7bead]: Commencement: Sch. 10 para. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-54f382414a237346a96488ce8cf7bead]: Commencement: Sch. 10 para. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-15cbd2eac400bf723503341c0efa074b]: Commencement: Sch. 10 para. 11 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-15cbd2eac400bf723503341c0efa074b]: Commencement: Sch. 10 para. 11 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-5089d36a59ba4b5832f44b7ef5d9061d]: Commencement: Sch. 10 para. 12 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-5089d36a59ba4b5832f44b7ef5d9061d]: Commencement: Sch. 10 para. 12 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-939aa8a6e0a6282f351f45b65e905dd5]: Commencement: Sch. 10 para. 13 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-939aa8a6e0a6282f351f45b65e905dd5]: Commencement: Sch. 10 para. 13 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-f93218d9eaa2b37ddd17c1accc2b6674]: Commencement: Sch. 10 para. 14 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-f93218d9eaa2b37ddd17c1accc2b6674]: Commencement: Sch. 10 para. 14 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-4590107a8ed2e0468dc2685e0c518941]: Commencement: Sch. 10 para. 15 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-4590107a8ed2e0468dc2685e0c518941]: Commencement: Sch. 10 para. 15 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-3a179da8d670784252f94c8b62770288]: Commencement: Sch. 10 para. 16 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-3a179da8d670784252f94c8b62770288]: Commencement: Sch. 10 para. 16 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-28ba55dbc452956badeb61cdae1d492f]: Commencement: Sch. 10 para. 17 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-28ba55dbc452956badeb61cdae1d492f]: Commencement: Sch. 10 para. 17 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-8f7afa2772fee3a107f568fecbc3dc07]: Commencement: Sch. 10 para. 18 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-8f7afa2772fee3a107f568fecbc3dc07]: Commencement: Sch. 10 para. 18 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-6c47799216213e350d531d54ad47afea]: Commencement: Sch. 10 para. 19 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-6c47799216213e350d531d54ad47afea]: Commencement: Sch. 10 para. 19 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-d2ebcfb304ab28b92175c7ed2d7463e5]: Commencement: Sch. 10 para. 20 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d2ebcfb304ab28b92175c7ed2d7463e5]: Commencement: Sch. 10 para. 20 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-d907530fbc968fa2fe880743ded67e56]: Commencement: Sch. 10 para. 21 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d907530fbc968fa2fe880743ded67e56]: Commencement: Sch. 10 para. 21 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-7b3847118ef535c5255828e6178cb8d6]: Commencement: Sch. 10 para. 22 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-7b3847118ef535c5255828e6178cb8d6]: Commencement: Sch. 10 para. 22 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

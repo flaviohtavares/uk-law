@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Grant of electricity interconnector licences to existing operators[^key-40b44e59616add657f96c327fb7b35c5]
+## 148. Grant of electricity interconnector licences to existing operators[^c-40b44e59616add657f96c327fb7b35c5]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40b44e59616add657f96c327fb7b35c5]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2004/20/section/148) in force at 1.12.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2575/schedule/2)
+[^c-40b44e59616add657f96c327fb7b35c5]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2004/20/section/148) in force at 1.12.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2575/schedule/2)

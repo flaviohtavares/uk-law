@@ -45,13 +45,13 @@ Coming into operation
 
 The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northern Ireland) Act 1998[^f00001] and section 44 of the Police (Northern Ireland) Act 2000[^f00002], after consulting the Northern Ireland Policing Board, the Chief Constable, the Equality Commission for Northern Ireland and the Police Association for Northern Ireland, hereby makes the following regulations:
 
-## 1. Citation, commencement and interpretation[^key-d7499c69f94db51aba409b7d1683d3d8]
+## 1. Citation, commencement and interpretation[^c-d7499c69f94db51aba409b7d1683d3d8]
 
 (1) These regulations may be cited as the Police (Appointments) Regulations (Northern Ireland) 2003.
 
 (2) These regulations shall come into operation on 5th September 2003.
 
-## 2. Appointment as police trainee or police reserve trainee[^key-c10446c71094a16a3825961bdbb59f89]
+## 2. Appointment as police trainee or police reserve trainee[^c-c10446c71094a16a3825961bdbb59f89]
 
 In regulation 2(2) of the Police (Recruitment) (Northern Ireland) Regulations 2001[^f00003] (qualified candidate for appointment as a police trainee or police reserve trainee) –
 
@@ -62,7 +62,7 @@ In regulation 2(2) of the Police (Recruitment) (Northern Ireland) Regulations 20
   and
 - (b) in sub-paragraph (f) (candidate must demonstrate skills and competencies by tests or assessments) in each of sub-paragraphs (i) and (ii) after “skills and competencies” there shall be inserted “(including competency in written and spoken English)”.
 
-## 3. Other appointments to the PSNI[^key-f05daeb2a1a082987a5967e3b2de0589]
+## 3. Other appointments to the PSNI[^c-f05daeb2a1a082987a5967e3b2de0589]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -90,9 +90,9 @@ These regulations impose a requirement as to the competency in written and spoke
 
 [^f00002]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32)
 
-[^key-d7499c69f94db51aba409b7d1683d3d8]: Commencement: Reg. 1 in operation at 5.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/372/regulation/1/2)
+[^c-d7499c69f94db51aba409b7d1683d3d8]: Commencement: Reg. 1 in operation at 5.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/372/regulation/1/2)
 
-[^key-c10446c71094a16a3825961bdbb59f89]: Commencement: Reg. 2 in operation at 5.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/372/regulation/1/2)
+[^c-c10446c71094a16a3825961bdbb59f89]: Commencement: Reg. 2 in operation at 5.9.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2003/372/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2001 No. 140](https://www.legislation.gov.uk/nisr/2001/140), as amended by [S.R. 2003 No. 385](https://www.legislation.gov.uk/nisr/2003/385)
 
@@ -102,4 +102,4 @@ These regulations impose a requirement as to the competency in written and spoke
 
 [^f00006]: Footnote: O.J. No. L1, 3.1.94, p. 571
 
-[^key-f05daeb2a1a082987a5967e3b2de0589]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/372/regulation/3) revoked (13.1.2006) by [Police Service of Northern Ireland Regulations 2005 (S.R. 2005/547)](https://www.legislation.gov.uk/nisr/2005/547), [art. 2(g)](https://www.legislation.gov.uk/nisr/2005/547/article/2/g), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)
+[^c-f05daeb2a1a082987a5967e3b2de0589]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/372/regulation/3) revoked (13.1.2006) by [Police Service of Northern Ireland Regulations 2005 (S.R. 2005/547)](https://www.legislation.gov.uk/nisr/2005/547), [art. 2(g)](https://www.legislation.gov.uk/nisr/2005/547/article/2/g), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/547/regulation/1/2)

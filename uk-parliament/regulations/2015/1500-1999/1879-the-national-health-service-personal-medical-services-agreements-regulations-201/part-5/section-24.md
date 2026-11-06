@@ -26,8 +26,8 @@ summary: ''
 
 - (a) regulation 25;
 - (b) Part 6; and
-- (c)[^key-3bdf82aeeb77f60e5acf5be70244cb94] paragraphs 43(8), 43A(9) and 52 of Schedule 2.
+- (c)[^c-3bdf82aeeb77f60e5acf5be70244cb94] paragraphs 43(8), 43A(9) and 52 of Schedule 2.
 
 ## Annotations
 
-[^key-3bdf82aeeb77f60e5acf5be70244cb94]: Textual amendment: [Reg. 24(2)(c)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/24/2/c) substituted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/1)
+[^c-3bdf82aeeb77f60e5acf5be70244cb94]: Textual amendment: [Reg. 24(2)(c)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/24/2/c) substituted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/1)

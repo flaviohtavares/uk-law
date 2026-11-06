@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Fixed Penalty Order 2000[^key-d29b10c3c3be6b38b4756b6c7ea2f1a6]
+## 25. Fixed Penalty Order 2000[^c-d29b10c3c3be6b38b4756b6c7ea2f1a6]
 
 *Extent: E+W+S*
 
@@ -86,6 +86,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d29b10c3c3be6b38b4756b6c7ea2f1a6]: Commencement: Reg. 25 in force at 26.3.2019, see reg. 1(2)
+[^c-d29b10c3c3be6b38b4756b6c7ea2f1a6]: Commencement: Reg. 25 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620841]: Marginal citation: [S.I. 2000/2792](https://www.legislation.gov.uk/uksi/2000/2792); Schedule 2 was inserted by [S.I. 2009/488](https://www.legislation.gov.uk/uksi/2009/488) and amended by [S.I. 2010/2720](https://www.legislation.gov.uk/uksi/2010/2720), 2013/1569, 2016/248. There are other amendments which are not relevant to these Regulations.

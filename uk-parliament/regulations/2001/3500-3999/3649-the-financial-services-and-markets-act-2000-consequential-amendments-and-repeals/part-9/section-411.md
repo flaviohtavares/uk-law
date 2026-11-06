@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 411. Revocation of the 1990 Regulations[^key-f8bc582d48bd3b8e7768259620527edf]
+## 411. Revocation of the 1990 Regulations[^c-f8bc582d48bd3b8e7768259620527edf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Insurance Companies (Amendment) Regulations 1990 are revoked.
 
 ## Annotations
 
-[^key-f8bc582d48bd3b8e7768259620527edf]: Commencement: Art. 411 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f8bc582d48bd3b8e7768259620527edf]: Commencement: Art. 411 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Preliminary certificates[^key-ec6e93d5e10383f95c56a86c0821084c]
+## 37. Preliminary certificates[^c-ec6e93d5e10383f95c56a86c0821084c]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec6e93d5e10383f95c56a86c0821084c]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2011/9/section/37) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-ec6e93d5e10383f95c56a86c0821084c]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2011/9/section/37) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

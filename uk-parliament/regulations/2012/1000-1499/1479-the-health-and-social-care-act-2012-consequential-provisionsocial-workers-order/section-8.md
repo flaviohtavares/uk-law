@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Amendment of the Health Professions Council (Health Committee) (Procedure) Rules Order of Council 2003[^key-66065a431183f21d53d83bb43b56ccd0]
+## 8. Amendment of the Health Professions Council (Health Committee) (Procedure) Rules Order of Council 2003[^c-66065a431183f21d53d83bb43b56ccd0]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66065a431183f21d53d83bb43b56ccd0]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/1479/article/8) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
+[^c-66065a431183f21d53d83bb43b56ccd0]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2012/1479/article/8) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
 
 [^f00009]: Footnote: [S.I. 2003/1576](https://www.legislation.gov.uk/uksi/2003/1576); relevant amending instruments are [S.I. 2005/1625](https://www.legislation.gov.uk/uksi/2005/1625) and [2009/1355](https://www.legislation.gov.uk/uksi/2009/1355).

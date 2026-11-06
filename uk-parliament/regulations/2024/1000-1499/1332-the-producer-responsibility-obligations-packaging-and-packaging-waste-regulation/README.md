@@ -95,7 +95,7 @@ A draft of these Regulations has been laid before, and approved by a resolution 
 - [Section 25 — Producer responsibility obligations](part-2/section-25.md)
 - [Section 26 — Recyclability assessments](part-2/section-26.md)
 
-#### CHAPTER 3 — Insolvency, etc., and mergers and acquisitions of producers[^key-d762d1bccc52a1ea7569b87aeb06d779]
+#### CHAPTER 3 — Insolvency, etc., and mergers and acquisitions of producers[^c-d762d1bccc52a1ea7569b87aeb06d779]
 
 *Extent: E+W+S+N.I.*
 
@@ -421,4 +421,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2021 c. 30](https://www.legislation.gov.uk/ukpga/2021/30).
 
-[^key-d762d1bccc52a1ea7569b87aeb06d779]: Textual amendment: [Pt. 2 Ch. 3](https://www.legislation.gov.uk/uksi/2024/1332/part/2/chapter/3) heading substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/5/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-d762d1bccc52a1ea7569b87aeb06d779]: Textual amendment: [Pt. 2 Ch. 3](https://www.legislation.gov.uk/uksi/2024/1332/part/2/chapter/3) heading substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/5/5) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

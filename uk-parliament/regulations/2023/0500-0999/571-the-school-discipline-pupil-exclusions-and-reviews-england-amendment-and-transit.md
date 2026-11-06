@@ -48,26 +48,26 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — General
 
-### 1. Citation, commencement, extent and application[^key-32efe1f09ac138b166157f0483c3de06]
+### 1. Citation, commencement, extent and application[^c-32efe1f09ac138b166157f0483c3de06]
 
 (1) These Regulations may be cited as the School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) Regulations 2023, and they come into force on 1st September 2023.
 
 (2) These Regulations extend to England and Wales.
 
-(3) These Regulations apply in relation to [^key-2f9c2e96cda1bb286ba641978857094d]... exclusions of pupils from maintained schools, pupil referral units and Academies in England.
+(3) These Regulations apply in relation to [^c-2f9c2e96cda1bb286ba641978857094d]... exclusions of pupils from maintained schools, pupil referral units and Academies in England.
 
-### 2. Interpretation[^key-605a4274059840aa548bdaa74c903b8d]
+### 2. Interpretation[^c-605a4274059840aa548bdaa74c903b8d]
 
 In these Regulations—
 
 - “**the 2012 Regulations**” means the School Discipline (Pupil Exclusions and Reviews) (England) Regulations 2012[^f00002];
 - “**Academy**” means an Academy school or alternative provision Academy.
 
-### 3. Amendment of the 2012 Regulations[^key-a744916663b470bda3914c42dd926e48]
+### 3. Amendment of the 2012 Regulations[^c-a744916663b470bda3914c42dd926e48]
 
 The 2012 Regulations are amended in accordance with regulations 4 to 14.
 
-### 4. Amendment of regulation 2 of the 2012 Regulations[^key-104b8df49666c9a27e9a5b6785dfc83e]
+### 4. Amendment of regulation 2 of the 2012 Regulations[^c-104b8df49666c9a27e9a5b6785dfc83e]
 
 In regulation 2 (interpretation), in paragraph (1)—
 
@@ -88,7 +88,7 @@ In regulation 2 (interpretation), in paragraph (1)—
 
 ### CHAPTER 1 — Amendments relating to remote access meetings
 
-#### 5. Amendment of regulation 5 of the 2012 Regulations[^key-4d845d228b4259d805ccf86092dc55f3]
+#### 5. Amendment of regulation 5 of the 2012 Regulations[^c-4d845d228b4259d805ccf86092dc55f3]
 
 (1) Regulation 5 (exclusion of pupils: head teacher’s duty to inform relevant person, governing body, local authority, social worker and virtual school head) is amended as follows.
 
@@ -100,7 +100,7 @@ In regulation 2 (interpretation), in paragraph (1)—
 
 (3) In paragraph (3)(b)(iii) and (iv), after “representations” insert “or a remote meeting request”.
 
-#### 6. Amendment of regulation 6 of the 2012 Regulations[^key-5e865d90370170cfc9f0794cdb12739b]
+#### 6. Amendment of regulation 6 of the 2012 Regulations[^c-5e865d90370170cfc9f0794cdb12739b]
 
 (1) Regulation 6 (functions of the governing body in relation to excluded pupils) is amended as follows.
 
@@ -171,7 +171,7 @@ In regulation 2 (interpretation), in paragraph (1)—
 
 ### CHAPTER 2 — Amendments relating to cancelling exclusions
 
-#### 7. Insertion of regulation 8A into the 2012 Regulations[^key-ce24d383f8e5a63b4780dbda76c6207b]
+#### 7. Insertion of regulation 8A into the 2012 Regulations[^c-ce24d383f8e5a63b4780dbda76c6207b]
 
 After regulation 8 insert—
 
@@ -202,7 +202,7 @@ After regulation 8 insert—
 
 ### CHAPTER 1 — Amendments relating to remote access meetings
 
-#### 8. Amendment of regulation 14 of the 2012 Regulations[^key-fc99f904f4e42a6e49fdb6b24ac89ce4]
+#### 8. Amendment of regulation 14 of the 2012 Regulations[^c-fc99f904f4e42a6e49fdb6b24ac89ce4]
 
 (1) Regulation 14 (exclusion of pupils: teacher in charge’s duty to inform relevant person, management committee, local authority, social worker and virtual school head) is amended as follows.
 
@@ -214,7 +214,7 @@ After regulation 8 insert—
 
 (3) In paragraph (3)(b)(iii) and (iv), after “representations” insert “or a remote meeting request”.
 
-#### 9. Amendment of regulation 15 of the 2012 Regulations[^key-d012cc863057ee5a151210ac2740353f]
+#### 9. Amendment of regulation 15 of the 2012 Regulations[^c-d012cc863057ee5a151210ac2740353f]
 
 (1) Regulation 15 (functions of the management committee in relation to excluded pupils) is amended as follows.
 
@@ -236,21 +236,21 @@ After regulation 8 insert—
 > - (a) a social worker or virtual school head; or
 > - (b) their nominated representative as referred to in paragraph (3C),
 >
-> attends a meeting referred to in paragraph (3)(c) which is taking place in person, they may do so using remote access provided the management committee is[^key-66521ff1e4e68045719e886fefe7816c] satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d) are met.
+> attends a meeting referred to in paragraph (3)(c) which is taking place in person, they may do so using remote access provided the management committee is[^c-66521ff1e4e68045719e886fefe7816c] satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d) are met.
 >
 > (3E) Paragraph (3F) applies if—
 >
 > - (a) for a reason related to extraordinary events or unforeseen circumstances, it is not reasonably practicable for the meeting referred to in paragraph (3)(c) to be held in person; and
 > - (b) the meeting is not already required to take place using remote access pursuant to paragraph (3B).
 >
-> (3F) Where this paragraph applies, the meeting referred to in paragraph (3)(c) may be held using remote access provided that the management committee is[^key-8699cf2a61be8822df556194f7de9aa4] satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d) are met.
+> (3F) Where this paragraph applies, the meeting referred to in paragraph (3)(c) may be held using remote access provided that the management committee is[^c-8699cf2a61be8822df556194f7de9aa4] satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d) are met.
 >
 > (3G) Subject to the exception made for persons referred to in paragraph (3D), a meeting referred to in paragraph (3)(c) must be held in person unless—
 >
 > - (a) a remote meeting request is made; or
 > - (b) for a reason related to extraordinary events or unforeseen circumstances, it is not reasonably practicable for the meeting to be held in person,
 >
->   and the management committee is[^key-b6184a50a3a7f1d60501411a08c88909] satisfied that the conditions in paragraph (3B)(a), (c) and (d) are met.
+>   and the management committee is[^c-b6184a50a3a7f1d60501411a08c88909] satisfied that the conditions in paragraph (3B)(a), (c) and (d) are met.
 
 .
 
@@ -285,7 +285,7 @@ After regulation 8 insert—
 
 ### CHAPTER 2 — Amendments relating to cancelling exclusions
 
-#### 10. Insertion of regulation 17A into the 2012 Regulations[^key-a20f4421ba3652c2fbea1099ddc0763d]
+#### 10. Insertion of regulation 17A into the 2012 Regulations[^c-a20f4421ba3652c2fbea1099ddc0763d]
 
 After regulation 17 insert—
 
@@ -316,7 +316,7 @@ After regulation 17 insert—
 
 ### CHAPTER 1 — Amendments relating to remote access meetings
 
-#### 11. Amendment of regulation 23 of the 2012 Regulations[^key-89b512e8b05fb6119a1d07dc2d2eb6cd]
+#### 11. Amendment of regulation 23 of the 2012 Regulations[^c-89b512e8b05fb6119a1d07dc2d2eb6cd]
 
 (1) Regulation 23 (exclusion of pupils: principal’s duty to inform relevant person, proprietor, local authority, social worker and virtual school head) is amended as follows.
 
@@ -328,7 +328,7 @@ After regulation 17 insert—
 
 (3) In paragraph (3)(b)(iii) and (iv), after “representations” insert “or a remote meeting request”.
 
-#### 12. Amendment of regulation 24 of the 2012 Regulations[^key-e59dd6d220bdc8520b4237856c4ded9e]
+#### 12. Amendment of regulation 24 of the 2012 Regulations[^c-e59dd6d220bdc8520b4237856c4ded9e]
 
 (1) Regulation 24 (functions of the proprietor in relation to excluded pupils) is amended as follows.
 
@@ -350,12 +350,12 @@ After regulation 17 insert—
 > - (a) a social worker or virtual school head; or
 > - (b) their nominated representative as referred to in paragraph (3C),
 >
-> attends a meeting referred to in paragraph (3)(c) which is taking place in person, they may do so using remote access provided the proprietor is[^key-d8ddb85ae33c017d5fc5661b282eb624] satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d) are met.
+> attends a meeting referred to in paragraph (3)(c) which is taking place in person, they may do so using remote access provided the proprietor is[^c-d8ddb85ae33c017d5fc5661b282eb624] satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d) are met.
 >
 > (3E) Paragraph (3F) applies if—
 >
 > - (a) for a reason related to extraordinary events or unforeseen circumstances, it is not reasonably practicable for the meeting referred to in paragraph (3)(c) to be held in person; and
-> - (b) the meeting is not already required to take place using remote access[^key-0869daa4ded5fe35325fd129df3d84e9] pursuant to paragraph (3B).
+> - (b) the meeting is not already required to take place using remote access[^c-0869daa4ded5fe35325fd129df3d84e9] pursuant to paragraph (3B).
 >
 > (3F) Where this paragraph applies, the meeting referred to in paragraph (3)(c) may be held using remote access, provided the proprietor is satisfied that the conditions referred to in paragraph (3B)(a), (c) and (d) are met.
 >
@@ -364,7 +364,7 @@ After regulation 17 insert—
 > - (a) a remote meeting request is made; or
 > - (b) for a reason related to extraordinary events or unforeseen circumstances, it is not reasonably practicable for the meeting to be held in person,
 >
->   and the proprietor is[^key-886be1bda9991159376107cded924ff8] satisfied that the conditions in paragraph (3B)(a), (c) and (d) are met.
+>   and the proprietor is[^c-886be1bda9991159376107cded924ff8] satisfied that the conditions in paragraph (3B)(a), (c) and (d) are met.
 
 .
 
@@ -399,7 +399,7 @@ After regulation 17 insert—
 
 ### CHAPTER 2 — Amendments relating to cancelling exclusions
 
-#### 13. Insertion of regulation 26A into the 2012 Regulations[^key-c1c6b4f15682e266355dfe4213683acd]
+#### 13. Insertion of regulation 26A into the 2012 Regulations[^c-c1c6b4f15682e266355dfe4213683acd]
 
 After regulation 26 insert—
 
@@ -428,7 +428,7 @@ After regulation 26 insert—
 
 ## PART 5 — Constitution and procedure of review panels
 
-### 14. Amendment of Schedule 1 to the 2012 Regulations[^key-b4a701f69edacbcd2b128ccc435b0ab2]
+### 14. Amendment of Schedule 1 to the 2012 Regulations[^c-b4a701f69edacbcd2b128ccc435b0ab2]
 
 (1) Schedule 1 (constitution and procedure of review panels) is amended as follows.
 
@@ -476,7 +476,7 @@ After regulation 26 insert—
   > - (a) a remote meeting request is made; or
   > - (b) for a reason related to extraordinary events or unforeseen circumstances, it is not reasonably practicable for the meeting to be held in person,
   >
-  >   and the arranging authority is[^key-9aab088a3321b313524e15bddc45e685] satisfied that the conditions in sub-paragraph (4)(a), (c) and (d) are met.
+  >   and the arranging authority is[^c-9aab088a3321b313524e15bddc45e685] satisfied that the conditions in sub-paragraph (4)(a), (c) and (d) are met.
 
   ;
 - (d) omit sub-paragraphs (5) to (8).
@@ -487,7 +487,7 @@ After regulation 26 insert—
 
 ## PART 6 — Transitional arrangements
 
-### 15. Interpretation of regulation 16[^key-01934349d7b9d69bd2094aae9accea55]
+### 15. Interpretation of regulation 16[^c-01934349d7b9d69bd2094aae9accea55]
 
 In regulation 16—
 
@@ -505,7 +505,7 @@ In regulation 16—
     to consider whether the pupil should be reinstated;
   - (b) a meeting of the review panel under paragraph 10(1) of Schedule 1 to the 2012 Regulations to review a decision (of a body referred to in the previous sub-paragraph) not to reinstate the pupil.
 
-### 16. Exclusion of pupils: remote meetings - transitional arrangements[^key-f5952e9cf131c2308cdcaf5df06c9b12]
+### 16. Exclusion of pupils: remote meetings - transitional arrangements[^c-f5952e9cf131c2308cdcaf5df06c9b12]
 
 (1) Subject to paragraphs (3) and (4), this regulation applies to an exclusion of a pupil under—
 
@@ -515,12 +515,12 @@ In regulation 16—
 
 which occurs before 1st September 2023, if scrutiny of the exclusion is or may be required and has not started before that date.
 
-(2) In a case involving scrutiny of an exclusion as referred to in paragraph (a) of the definition of “scrutiny” in regulation 15[^key-22835ed34263223832b339050f4c97fe], the head teacher (of a maintained school), the teacher in charge (of a pupil referral unit) or the principal (of an Academy) must, without delay on commencement of these Regulations, give the relevant person notice in writing of the following—
+(2) In a case involving scrutiny of an exclusion as referred to in paragraph (a) of the definition of “scrutiny” in regulation 15[^c-22835ed34263223832b339050f4c97fe], the head teacher (of a maintained school), the teacher in charge (of a pupil referral unit) or the principal (of an Academy) must, without delay on commencement of these Regulations, give the relevant person notice in writing of the following—
 
 - (a) that the relevant person may, within 3 school days of notification, request that the meeting be held using remote access;
 - (b) how and to whom the request should be made.
 
-(3) In a case involving scrutiny of an exclusion as referred to in paragraph (b) of the definition of “scrutiny” in regulation 15[^key-b54726b8c88ecf3e9e793081e7a11abe], the governing body (of a maintained school), the management committee (of a pupil referral unit), or the proprietor (of an Academy) must, without delay on commencement of these Regulations, give the relevant person notice in writing of the following—
+(3) In a case involving scrutiny of an exclusion as referred to in paragraph (b) of the definition of “scrutiny” in regulation 15[^c-b54726b8c88ecf3e9e793081e7a11abe], the governing body (of a maintained school), the management committee (of a pupil referral unit), or the proprietor (of an Academy) must, without delay on commencement of these Regulations, give the relevant person notice in writing of the following—
 
 - (a) that the relevant person may, within 3 school days after notification, request that the meeting be held using remote access;
 - (b) how and to whom the request should be made.
@@ -569,58 +569,58 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32) (“**the 2002 Act**”). Section 51A was inserted by section 4(1) and (2) of the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21). See section 212 of the 2002 Act for the definitions of “prescribed” and “regulations”.
 
-[^key-32efe1f09ac138b166157f0483c3de06]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/571/regulation/1) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-32efe1f09ac138b166157f0483c3de06]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/571/regulation/1) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
-[^key-2f9c2e96cda1bb286ba641978857094d]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3) omitted (31.8.2023) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+[^c-2f9c2e96cda1bb286ba641978857094d]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/3) omitted (31.8.2023) by virtue of [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/882/regulation/4) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
 
-[^key-605a4274059840aa548bdaa74c903b8d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/571/regulation/2) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-605a4274059840aa548bdaa74c903b8d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/571/regulation/2) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
 [^f00002]: Footnote: [2012/1033](https://www.legislation.gov.uk/uksi/2012/1033), as amended by [S.I. 2020/543](https://www.legislation.gov.uk/uksi/2020/543), [2020/908](https://www.legislation.gov.uk/uksi/2020/908), [2021/204](https://www.legislation.gov.uk/uksi/2021/204), [2021/953](https://www.legislation.gov.uk/uksi/2021/953) and [2022/788](https://www.legislation.gov.uk/uksi/2022/788).
 
-[^key-a744916663b470bda3914c42dd926e48]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/571/regulation/3) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-a744916663b470bda3914c42dd926e48]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/571/regulation/3) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
-[^key-104b8df49666c9a27e9a5b6785dfc83e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/571/regulation/4) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-104b8df49666c9a27e9a5b6785dfc83e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/571/regulation/4) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
-[^key-4d845d228b4259d805ccf86092dc55f3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/571/regulation/5) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-4d845d228b4259d805ccf86092dc55f3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/571/regulation/5) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
-[^key-5e865d90370170cfc9f0794cdb12739b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/571/regulation/6) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-5e865d90370170cfc9f0794cdb12739b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/571/regulation/6) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
-[^key-ce24d383f8e5a63b4780dbda76c6207b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/571/regulation/7) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-ce24d383f8e5a63b4780dbda76c6207b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/571/regulation/7) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
-[^key-fc99f904f4e42a6e49fdb6b24ac89ce4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/571/regulation/8) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-fc99f904f4e42a6e49fdb6b24ac89ce4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/571/regulation/8) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
-[^key-d012cc863057ee5a151210ac2740353f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/571/regulation/9) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-d012cc863057ee5a151210ac2740353f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/571/regulation/9) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
-[^key-66521ff1e4e68045719e886fefe7816c]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/4) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2023/882/regulation/5/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+[^c-66521ff1e4e68045719e886fefe7816c]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/4) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2023/882/regulation/5/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
 
-[^key-8699cf2a61be8822df556194f7de9aa4]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/4) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2023/882/regulation/5/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+[^c-8699cf2a61be8822df556194f7de9aa4]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/4) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2023/882/regulation/5/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
 
-[^key-b6184a50a3a7f1d60501411a08c88909]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/4) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2023/882/regulation/5/c) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+[^c-b6184a50a3a7f1d60501411a08c88909]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2023/571/regulation/9/4) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2023/882/regulation/5/c) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
 
-[^key-a20f4421ba3652c2fbea1099ddc0763d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/571/regulation/10) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-a20f4421ba3652c2fbea1099ddc0763d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/571/regulation/10) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
-[^key-89b512e8b05fb6119a1d07dc2d2eb6cd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2023/571/regulation/11) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-89b512e8b05fb6119a1d07dc2d2eb6cd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2023/571/regulation/11) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
-[^key-e59dd6d220bdc8520b4237856c4ded9e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/571/regulation/12) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-e59dd6d220bdc8520b4237856c4ded9e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/571/regulation/12) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
-[^key-d8ddb85ae33c017d5fc5661b282eb624]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/4) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2023/882/regulation/6/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+[^c-d8ddb85ae33c017d5fc5661b282eb624]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/4) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2023/882/regulation/6/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
 
-[^key-0869daa4ded5fe35325fd129df3d84e9]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/4) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2023/882/regulation/6/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+[^c-0869daa4ded5fe35325fd129df3d84e9]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/4) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2023/882/regulation/6/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
 
-[^key-886be1bda9991159376107cded924ff8]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/4) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2023/882/regulation/6/c) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+[^c-886be1bda9991159376107cded924ff8]: Textual amendment: Words in [reg. 12(4)](https://www.legislation.gov.uk/uksi/2023/571/regulation/12/4) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2023/882/regulation/6/c) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
 
-[^key-c1c6b4f15682e266355dfe4213683acd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/571/regulation/13) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-c1c6b4f15682e266355dfe4213683acd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/571/regulation/13) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
-[^key-b4a701f69edacbcd2b128ccc435b0ab2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/571/regulation/14) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-b4a701f69edacbcd2b128ccc435b0ab2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/571/regulation/14) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
-[^key-9aab088a3321b313524e15bddc45e685]: Textual amendment: Words in [reg. 14(4)(c)](https://www.legislation.gov.uk/uksi/2023/571/regulation/14/4/c) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2023/882/regulation/7) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+[^c-9aab088a3321b313524e15bddc45e685]: Textual amendment: Words in [reg. 14(4)(c)](https://www.legislation.gov.uk/uksi/2023/571/regulation/14/4/c) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2023/882/regulation/7) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
 
-[^key-01934349d7b9d69bd2094aae9accea55]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/571/regulation/15) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-01934349d7b9d69bd2094aae9accea55]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/571/regulation/15) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
-[^key-f5952e9cf131c2308cdcaf5df06c9b12]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
+[^c-f5952e9cf131c2308cdcaf5df06c9b12]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/571/regulation/16) in force at 1.9.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/571/regulation/1/1)
 
 [^f00003]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Section 51A was inserted by section 4(1) and (2) of the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21).
 
-[^key-22835ed34263223832b339050f4c97fe]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2023/571/regulation/16/2) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2023/882/regulation/8/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+[^c-22835ed34263223832b339050f4c97fe]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2023/571/regulation/16/2) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2023/882/regulation/8/a) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
 
-[^key-b54726b8c88ecf3e9e793081e7a11abe]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2023/571/regulation/16/2) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2023/882/regulation/8/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))
+[^c-b54726b8c88ecf3e9e793081e7a11abe]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2023/571/regulation/16/2) substituted (31.8.2023) by [The School Discipline (Pupil Exclusions and Reviews) (England) (Amendment and Transitional Provision) (No. 2) Regulations 2023 (S.I. 2023/882)](https://www.legislation.gov.uk/uksi/2023/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2023/882/regulation/8/b) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2023/882/regulation/1/4))

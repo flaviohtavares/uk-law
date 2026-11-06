@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Omission of regulation N5[^key-6b0641190d877c066696cc942eedc76c]
+## 43. Omission of regulation N5[^c-6b0641190d877c066696cc942eedc76c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Regulation N5 (waiver of transfer payment) shall be omitted.
 
 ## Annotations
 
-[^key-6b0641190d877c066696cc942eedc76c]: Commencement: Reg. 43 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-6b0641190d877c066696cc942eedc76c]: Commencement: Reg. 43 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

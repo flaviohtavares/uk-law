@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Crown employment and service as a member of the armed forces[^key-6b8480334182cf0447f6d5b6777e4186]
+## 21. Crown employment and service as a member of the armed forces[^c-6b8480334182cf0447f6d5b6777e4186]
 
 *Extent: E+W+S*
 
@@ -43,6 +43,6 @@ as they have effect in relation to other employment and other employees.
 
 ## Annotations
 
-[^key-6b8480334182cf0447f6d5b6777e4186]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2010/93/regulation/21) applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/6/1) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-6b8480334182cf0447f6d5b6777e4186]: Modification: [Reg. 21](https://www.legislation.gov.uk/uksi/2010/93/regulation/21) applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/6/1) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
 
 [^c20081061]: Marginal citation: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14).

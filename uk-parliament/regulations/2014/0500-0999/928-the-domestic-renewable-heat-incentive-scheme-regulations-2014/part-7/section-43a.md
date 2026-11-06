@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43A. Exemption from requirement for metering[^key-ffd4b1ed268137579655125ca2f422be]
+## 43A. Exemption from requirement for metering[^c-ffd4b1ed268137579655125ca2f422be]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffd4b1ed268137579655125ca2f422be]: Textual amendment: [Reg. 43A](https://www.legislation.gov.uk/uksi/2014/928/regulation/43A) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2022/159/regulation/16)
+[^c-ffd4b1ed268137579655125ca2f422be]: Textual amendment: [Reg. 43A](https://www.legislation.gov.uk/uksi/2014/928/regulation/43A) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [16](https://www.legislation.gov.uk/uksi/2022/159/regulation/16)

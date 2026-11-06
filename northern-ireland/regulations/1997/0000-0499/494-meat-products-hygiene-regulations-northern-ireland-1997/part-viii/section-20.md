@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Offences and penalties[^key-e1775caff8eb7f5e48f0c7b7d65d9b5b]
+## 20. Offences and penalties[^c-e1775caff8eb7f5e48f0c7b7d65d9b5b]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ whichever is the earlier.
 
 ## Annotations
 
-[^key-e1775caff8eb7f5e48f0c7b7d65d9b5b]: Commencement: Reg. 20 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-e1775caff8eb7f5e48f0c7b7d65d9b5b]: Commencement: Reg. 20 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

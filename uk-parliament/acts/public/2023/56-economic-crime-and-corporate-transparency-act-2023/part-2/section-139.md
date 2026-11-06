@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Disclosure of information about partners[^key-210d18ae057755ea38fc4db87338daaa]
+## 139. Disclosure of information about partners[^c-210d18ae057755ea38fc4db87338daaa]
 
 *Extent: E+W+S+N.I.*
 
@@ -130,4 +130,4 @@ summary: ''
 
 ## Annotations
 
-[^key-210d18ae057755ea38fc4db87338daaa]: Commencement: S. 139 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-210d18ae057755ea38fc4db87338daaa]: Commencement: S. 139 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

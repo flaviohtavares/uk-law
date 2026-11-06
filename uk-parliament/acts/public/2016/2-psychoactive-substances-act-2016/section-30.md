@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Appeals against making of prohibition orders and premises orders[^key-6af21066bc662dd6c49a3cb2f525e540]
+## 30. Appeals against making of prohibition orders and premises orders[^c-6af21066bc662dd6c49a3cb2f525e540]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6af21066bc662dd6c49a3cb2f525e540]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2016/2/section/30) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-6af21066bc662dd6c49a3cb2f525e540]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2016/2/section/30) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

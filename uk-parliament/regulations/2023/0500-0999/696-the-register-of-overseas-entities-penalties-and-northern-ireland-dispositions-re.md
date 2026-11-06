@@ -50,13 +50,13 @@ In accordance with sections 33(7), 39(7) and 67(4) of the Economic Crime (Transp
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-1c8d0f86424688192b5dc803b15753cf]
+### 1. Citation, commencement and extent[^c-1c8d0f86424688192b5dc803b15753cf]
 
 (1) These Regulations may be cited as the Register of Overseas Entities (Penalties and Northern Ireland Dispositions) Regulations 2023 and come into force on 23rd June 2023.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland, except for Part 5 which extends to Northern Ireland only.
 
-### 2. Interpretation[^key-9f8196aba8dbad3f0ce959d6a0c410ad]
+### 2. Interpretation[^c-9f8196aba8dbad3f0ce959d6a0c410ad]
 
 In these Regulations—
 
@@ -69,18 +69,18 @@ In these Regulations—
 
 ## PART 2 — Financial Penalties
 
-### 3. The registrar’s powers[^key-773290c168d9279d5331a7ccc041d07f]
+### 3. The registrar’s powers[^c-773290c168d9279d5331a7ccc041d07f]
 
 (1) Subject to paragraph (2), regulation 7 and following the process in regulations 4 and 5, the registrar[^f00002] may impose a financial penalty on a person if satisfied, beyond reasonable doubt, that the person has engaged in conduct amounting to an offence under Part 1 of the ECTEA.
 
-(2)[^key-fe918fab99e7f4b96e4e65296638e0dc] No financial penalty may be imposed on a person in respect of conduct amounting to an offence if—
+(2)[^c-fe918fab99e7f4b96e4e65296638e0dc] No financial penalty may be imposed on a person in respect of conduct amounting to an offence if—
 
 - (a) proceedings have been brought against the person for that offence in respect of that conduct and the proceedings are ongoing; or
 - (b) the person has been convicted of that offence in respect of that conduct.
 
 (3) No proceedings may be brought or continued against a person in respect of conduct amounting to an offence if the person has been given a financial penalty under these Regulations in respect of that conduct.
 
-### 4. Warning and penalty notices[^key-5e9b01db1006cac930ecdda28785f4b0]
+### 4. Warning and penalty notices[^c-5e9b01db1006cac930ecdda28785f4b0]
 
 (1) If the registrar suspects that a person has engaged in conduct amounting to an offence under Part 1 of the ECTEA, the registrar may issue a warning notice in writing to that person.
 
@@ -90,20 +90,20 @@ In these Regulations—
 - (b) the period within which the person may make written representations to the registrar about their conduct (which must be at least 28 days beginning on the day after the date of the warning notice) and how such representations may be delivered; and
 - (c) a warning that at the end of the period referred to in sub-paragraph (b) above, the registrar may impose a financial penalty.
 
-**5.**[^key-afaa6fdf82b775ca5bf13790a4f6b7a0] (1) After the end of the period stated in the warning notice, the registrar, if satisfied beyond reasonable doubt that the person has engaged in the conduct referred to in the warning notice and that that conduct amounts to an offence under Part 1 of the ECTEA, may issue a penalty notice in writing to the person who was issued the warning notice.
+**5.**[^c-afaa6fdf82b775ca5bf13790a4f6b7a0] (1) After the end of the period stated in the warning notice, the registrar, if satisfied beyond reasonable doubt that the person has engaged in the conduct referred to in the warning notice and that that conduct amounts to an offence under Part 1 of the ECTEA, may issue a penalty notice in writing to the person who was issued the warning notice.
 
-(2) The penalty notice referred to in paragraph (1) above must set out[^key-d77f62cf20044f029e21d0c91d34ff04]—
+(2) The penalty notice referred to in paragraph (1) above must set out[^c-d77f62cf20044f029e21d0c91d34ff04]—
 
 - (a) the grounds for issuing the financial penalty;
 - (b) whether the financial penalty is a fixed penalty, a daily rate penalty or a combination of both and how it is calculated;
 - (c) in the case of a fixed penalty, the amount of the penalty;
-- (d) in the case of a daily rate penalty, the amount of the daily rate, the day on which the amount first started[^key-d3b13fa2c009e67a7e297aea00888f41] to accumulate and the day on which, or the circumstances in which, it ceased to accumulate;
+- (d) in the case of a daily rate penalty, the amount of the daily rate, the day on which the amount first started[^c-d3b13fa2c009e67a7e297aea00888f41] to accumulate and the day on which, or the circumstances in which, it ceased to accumulate;
 - (e) how payment may be made;
-- (f) the period within which payment is to be made (which period must not end sooner than the end of the period of[^key-c6bba6dab20b64559f900c396e78b550] 28 days beginning on the date of the penalty notice is given);
+- (f) the period within which payment is to be made (which period must not end sooner than the end of the period of[^c-c6bba6dab20b64559f900c396e78b550] 28 days beginning on the date of the penalty notice is given);
 - (g) rights of appeal; and
 - (h) the consequences of non-payment.
 
-### 6. Review, variation and revocation of financial penalties[^key-70a67a74854458d51532d8421061fe8b]
+### 6. Review, variation and revocation of financial penalties[^c-70a67a74854458d51532d8421061fe8b]
 
 (1) Subject to regulations 7(1) and (2), the registrar may vary or revoke the penalty notice as the registrar considers appropriate.
 
@@ -111,7 +111,7 @@ In these Regulations—
 
 (3) If a financial penalty, or the period within which a financial penalty is to be paid, is varied under this regulation, the registrar must, as soon as practicable, issue a new penalty notice which, in addition to the information referred to in regulation 5(2), must state the variation and the reasons for the variation.
 
-### 7. Penalties[^key-b676417b92fd70fc7cffaa7b21f623bc]
+### 7. Penalties[^c-b676417b92fd70fc7cffaa7b21f623bc]
 
 (1) A financial penalty must not exceed the maximum fine that could be imposed by a court for the same offence under criminal proceedings in the jurisdiction in which the offence was committed.
 
@@ -121,16 +121,16 @@ In these Regulations—
 
 (4) For the purposes of a daily rate penalty—
 
-- (a)[^key-20759c1f6dbb9a7c28342300f6c0bb90] the first day from which the amount may start to accumulate is the day after the day the registrar determines to be the day on which the person first engaged in the conduct amounting to a relevant offence;
+- (a)[^c-20759c1f6dbb9a7c28342300f6c0bb90] the first day from which the amount may start to accumulate is the day after the day the registrar determines to be the day on which the person first engaged in the conduct amounting to a relevant offence;
 - (b) unless the registrar determines an earlier date, the daily rate ceases to accumulate at the beginning of the earliest of—
   - (i) the day on which the requirement to comply to which the offence relates is satisfied,
   - (ii) the day on which that requirement no longer applies.
 
-(5) Interest accrues on the amount of[^key-6e12176c0a957b1fb548c03594d861e2] a financial penalty which has not been paid within the period stated in the penalty notice at such rate as the registrar may direct or, if no such direction is given, the rate for the time being specified in section 17 of the Judgments Act 1838[^f00003].
+(5) Interest accrues on the amount of[^c-6e12176c0a957b1fb548c03594d861e2] a financial penalty which has not been paid within the period stated in the penalty notice at such rate as the registrar may direct or, if no such direction is given, the rate for the time being specified in section 17 of the Judgments Act 1838[^f00003].
 
 ## PART 3 — Penalty Appeals
 
-**8.**[^key-1fd5fa84fed17c1d4279083f9422f262] (1) Subject to paragraph (3), a person who has received a penalty notice under regulations 5 or 6(3) may appeal the financial penalty to the High Court or, in Scotland, the Court of Session on the grounds mentioned in paragraph (2).
+**8.**[^c-1fd5fa84fed17c1d4279083f9422f262] (1) Subject to paragraph (3), a person who has received a penalty notice under regulations 5 or 6(3) may appeal the financial penalty to the High Court or, in Scotland, the Court of Session on the grounds mentioned in paragraph (2).
 
 (2) The grounds referred to in paragraph (1) are that the decision to impose a financial penalty or the level or type of financial penalty—
 
@@ -140,27 +140,27 @@ In these Regulations—
 
 (3) No appeal may be brought unless the permission of the court has been obtained.
 
-(4) No application for such permission may be made after 28 days beginning on the day after the date of the penalty notice is given[^key-827d0a962e335bb394d9d5e3f491ff71] unless the court is satisfied that there was good reason for the failure of the applicant to seek permission before the end of that period.
+(4) No application for such permission may be made after 28 days beginning on the day after the date of the penalty notice is given[^c-827d0a962e335bb394d9d5e3f491ff71] unless the court is satisfied that there was good reason for the failure of the applicant to seek permission before the end of that period.
 
 (5) An applicant who seeks permission to appeal must serve written notice of the application on the registrar within 7 days beginning with the date on which the application for permission was issued.
 
 (6) The court determining an appeal may—
 
 - (a) dismiss the appeal;
-- (b) vary the amount of[^key-7560cd9988ef10978945f3a676deca69] the financial penalty;
+- (b) vary the amount of[^c-7560cd9988ef10978945f3a676deca69] the financial penalty;
 - (c) change the nature of the financial penalty between a fixed penalty, a daily rate penalty or a combination of a fixed penalty and a daily rate penalty; or
 - (d) quash the financial penalty.
 
 ## PART 4 — Penalty Enforcement
 
-### 9. Recovering penalties[^key-a4b07631a66e1f6df679dceb0452a58c]
+### 9. Recovering penalties[^c-a4b07631a66e1f6df679dceb0452a58c]
 
-(1) The registrar may recover any of the amount of[^key-b0004d1c23329f55100e9da0e778d10b] the financial penalty and any interest that has not been paid if—
+(1) The registrar may recover any of the amount of[^c-b0004d1c23329f55100e9da0e778d10b] the financial penalty and any interest that has not been paid if—
 
 - (a) no appeal relating to the financial penalty has been brought under regulation 8 during the period within which such an appeal may be brought; or
 - (b) an appeal has been determined or withdrawn.
 
-(2) In England and Wales, and in Northern Ireland, the amount of[^key-f0974be597ff14e9e97cbb3904ad4a78] the financial penalty is recoverable as if it were payable under an order of the High Court.
+(2) In England and Wales, and in Northern Ireland, the amount of[^c-f0974be597ff14e9e97cbb3904ad4a78] the financial penalty is recoverable as if it were payable under an order of the High Court.
 
 (3) In Scotland, the financial penalty may be enforced in the same manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
 
@@ -171,7 +171,7 @@ In these Regulations—
 
 ## PART 5 — Northern Ireland Dispositions
 
-### 10. Amendment of the Land Registration Act (Northern Ireland) 1970[^key-6df92767169110c2ad802b337c31cbad]
+### 10. Amendment of the Land Registration Act (Northern Ireland) 1970[^c-6df92767169110c2ad802b337c31cbad]
 
 (1) Schedule 8A to the Land Registration Act (Northern Ireland) 1970[^f00006] is amended as follows.
 
@@ -258,53 +258,53 @@ Regulation 10(5) amends paragraph 5(1) of Schedule 8A to make clear that the pos
 
 [^f00001]: Footnote: [2022 c. 10](https://www.legislation.gov.uk/ukpga/2022/10).
 
-[^key-1c8d0f86424688192b5dc803b15753cf]: Commencement: Reg. 1 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
+[^c-1c8d0f86424688192b5dc803b15753cf]: Commencement: Reg. 1 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
 
-[^key-9f8196aba8dbad3f0ce959d6a0c410ad]: Commencement: Reg. 2 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
+[^c-9f8196aba8dbad3f0ce959d6a0c410ad]: Commencement: Reg. 2 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
 
-[^key-773290c168d9279d5331a7ccc041d07f]: Commencement: Reg. 3 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
+[^c-773290c168d9279d5331a7ccc041d07f]: Commencement: Reg. 3 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
 
 [^f00002]: Footnote: For the meaning of “the registrar” see section 3(1) of the Economic Crime (Transparency and Enforcement) Act 2022
 
-[^key-fe918fab99e7f4b96e4e65296638e0dc]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2023/696/regulation/3/2) substituted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2024/445/regulation/11)
+[^c-fe918fab99e7f4b96e4e65296638e0dc]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2023/696/regulation/3/2) substituted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2024/445/regulation/11)
 
-[^key-5e9b01db1006cac930ecdda28785f4b0]: Commencement: Reg. 4 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
+[^c-5e9b01db1006cac930ecdda28785f4b0]: Commencement: Reg. 4 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
 
-[^key-afaa6fdf82b775ca5bf13790a4f6b7a0]: Commencement: Reg. 5 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
+[^c-afaa6fdf82b775ca5bf13790a4f6b7a0]: Commencement: Reg. 5 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
 
-[^key-d77f62cf20044f029e21d0c91d34ff04]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2023/696/regulation/5/2) substituted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2024/445/regulation/12)
+[^c-d77f62cf20044f029e21d0c91d34ff04]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2023/696/regulation/5/2) substituted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2024/445/regulation/12)
 
-[^key-d3b13fa2c009e67a7e297aea00888f41]: Textual amendment: Words in [reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2023/696/regulation/5/2/d) substituted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2024/445/regulation/13)
+[^c-d3b13fa2c009e67a7e297aea00888f41]: Textual amendment: Words in [reg. 5(2)(d)](https://www.legislation.gov.uk/uksi/2023/696/regulation/5/2/d) substituted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2024/445/regulation/13)
 
-[^key-c6bba6dab20b64559f900c396e78b550]: Textual amendment: Words in [reg. 5(2)(f)](https://www.legislation.gov.uk/uksi/2023/696/regulation/5/2/f) inserted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2024/445/regulation/14)
+[^c-c6bba6dab20b64559f900c396e78b550]: Textual amendment: Words in [reg. 5(2)(f)](https://www.legislation.gov.uk/uksi/2023/696/regulation/5/2/f) inserted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2024/445/regulation/14)
 
-[^key-70a67a74854458d51532d8421061fe8b]: Commencement: Reg. 6 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
+[^c-70a67a74854458d51532d8421061fe8b]: Commencement: Reg. 6 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
 
-[^key-b676417b92fd70fc7cffaa7b21f623bc]: Commencement: Reg. 7 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
+[^c-b676417b92fd70fc7cffaa7b21f623bc]: Commencement: Reg. 7 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
 
-[^key-20759c1f6dbb9a7c28342300f6c0bb90]: Textual amendment: [Reg. 7(4)(a)](https://www.legislation.gov.uk/uksi/2023/696/regulation/7/4/a) substituted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2024/445/regulation/15)
+[^c-20759c1f6dbb9a7c28342300f6c0bb90]: Textual amendment: [Reg. 7(4)(a)](https://www.legislation.gov.uk/uksi/2023/696/regulation/7/4/a) substituted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2024/445/regulation/15)
 
-[^key-6e12176c0a957b1fb548c03594d861e2]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2023/696/regulation/7/5) inserted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2024/445/regulation/16)
+[^c-6e12176c0a957b1fb548c03594d861e2]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2023/696/regulation/7/5) inserted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2024/445/regulation/16)
 
 [^f00003]: Footnote: [1838 c. 110](https://www.legislation.gov.uk/ukpga/1838/110). Section 17 was amended by [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564) and [S.I. 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940).
 
-[^key-1fd5fa84fed17c1d4279083f9422f262]: Commencement: Reg. 8 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
+[^c-1fd5fa84fed17c1d4279083f9422f262]: Commencement: Reg. 8 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
 
-[^key-827d0a962e335bb394d9d5e3f491ff71]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/uksi/2023/696/regulation/8/4) inserted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2024/445/regulation/17)
+[^c-827d0a962e335bb394d9d5e3f491ff71]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/uksi/2023/696/regulation/8/4) inserted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2024/445/regulation/17)
 
-[^key-7560cd9988ef10978945f3a676deca69]: Textual amendment: Word in [reg. 8(6)(b)](https://www.legislation.gov.uk/uksi/2023/696/regulation/8/6/b) inserted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2024/445/regulation/18)
+[^c-7560cd9988ef10978945f3a676deca69]: Textual amendment: Word in [reg. 8(6)(b)](https://www.legislation.gov.uk/uksi/2023/696/regulation/8/6/b) inserted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2024/445/regulation/18)
 
-[^key-a4b07631a66e1f6df679dceb0452a58c]: Commencement: Reg. 9 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
+[^c-a4b07631a66e1f6df679dceb0452a58c]: Commencement: Reg. 9 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
 
-[^key-b0004d1c23329f55100e9da0e778d10b]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/9/1) inserted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2024/445/regulation/19)
+[^c-b0004d1c23329f55100e9da0e778d10b]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/9/1) inserted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2024/445/regulation/19)
 
-[^key-f0974be597ff14e9e97cbb3904ad4a78]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2023/696/regulation/9/2) inserted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2024/445/regulation/20)
+[^c-f0974be597ff14e9e97cbb3904ad4a78]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2023/696/regulation/9/2) inserted (2.5.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Financial Penalty) Regulations 2024 (S.I. 2024/445)](https://www.legislation.gov.uk/uksi/2024/445), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/445/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2024/445/regulation/20)
 
 [^f00004]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39).
 
 [^f00005]: Footnote: [S.I. 1981/226 (N.I. 6)](https://www.legislation.gov.uk/nisi/1981/226).
 
-[^key-6df92767169110c2ad802b337c31cbad]: Commencement: Reg. 10 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
+[^c-6df92767169110c2ad802b337c31cbad]: Commencement: Reg. 10 in force at 23.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/696/regulation/1/1)
 
 [^f00006]: Footnote: [1970 c. 18](https://www.legislation.gov.uk/ukpga/1970/18).
 

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Medical decisions: appeals and reconsideration[^key-7f333b7bae1c7f0d66854ca9f1c83e11][^key-f3303120e94e5c93e2c6b9d11de37e46]
+## SCHEDULE 1 — Medical decisions: appeals and reconsideration[^c-7f333b7bae1c7f0d66854ca9f1c83e11][^c-f3303120e94e5c93e2c6b9d11de37e46]
 
 *Extent: E+W+S+N.I.*
 
 Regulations 77, 81, 106, 117, 209
 
-### 1. Interpretation[^key-7f333b7bae1c7f0d66854ca9f1c83e11][^key-f3303120e94e5c93e2c6b9d11de37e46]
+### 1. Interpretation[^c-7f333b7bae1c7f0d66854ca9f1c83e11][^c-f3303120e94e5c93e2c6b9d11de37e46]
 
 In this Schedule—
 
@@ -42,7 +42,7 @@ In this Schedule—
   - (a) a single duly qualified medical practitioner selected by the police pension authority; or
   - (b) a board of duly qualified medical practitioners selected by the police pension authority.
 
-### 2. Appeal against decision of a selected medical practitioner[^key-7f333b7bae1c7f0d66854ca9f1c83e11][^key-f3303120e94e5c93e2c6b9d11de37e46]
+### 2. Appeal against decision of a selected medical practitioner[^c-7f333b7bae1c7f0d66854ca9f1c83e11][^c-f3303120e94e5c93e2c6b9d11de37e46]
 
 (1) Within 28 days after a member of a police force receives a copy of a report by the selected medical practitioner containing a medical decision (or such longer period as the police pension authority may allow), the member may give notice of appeal to the police pension authority against the decision in accordance with paragraph 7 (procedure and costs on appeals to appeal board).
 
@@ -62,7 +62,7 @@ In this Schedule—
 
 (6) A copy of the report must be given to the scheme manager and to the member.
 
-### 3. Referral of final decision for reconsideration[^key-7f333b7bae1c7f0d66854ca9f1c83e11][^key-f3303120e94e5c93e2c6b9d11de37e46]
+### 3. Referral of final decision for reconsideration[^c-7f333b7bae1c7f0d66854ca9f1c83e11][^c-f3303120e94e5c93e2c6b9d11de37e46]
 
 (1) This paragraph applies if a medical authority has given a final decision in relation to a member of a police force (“the member”).
 
@@ -87,7 +87,7 @@ In this Schedule—
 
 (8) In this paragraph, “**medical decision**” does not include a decision contained in a fresh report issued under this paragraph.
 
-### 4. Referral of final decision by court or tribunal[^key-7f333b7bae1c7f0d66854ca9f1c83e11][^key-f3303120e94e5c93e2c6b9d11de37e46]
+### 4. Referral of final decision by court or tribunal[^c-7f333b7bae1c7f0d66854ca9f1c83e11][^c-f3303120e94e5c93e2c6b9d11de37e46]
 
 (1) If a court hearing an appeal under regulation 207 (appeals to Crown Court) or a tribunal hearing an appeal under regulation 208 (appeals to Secretary of State) considers that the evidence before the medical authority which gave a final decision was inaccurate or inadequate—
 
@@ -98,7 +98,7 @@ In this Schedule—
 
 (3) Subject to any further reconsideration under paragraph 3, the fresh report is final.
 
-### 5. Referral to appointed medical practitioner[^key-7f333b7bae1c7f0d66854ca9f1c83e11][^key-f3303120e94e5c93e2c6b9d11de37e46]
+### 5. Referral to appointed medical practitioner[^c-7f333b7bae1c7f0d66854ca9f1c83e11][^c-f3303120e94e5c93e2c6b9d11de37e46]
 
 (1) If a final decision is referred to a medical authority for reconsideration under paragraph 3 or 4 and the medical authority is unable or unwilling to act, the final decision may be referred to an appointed medical practitioner.
 
@@ -109,7 +109,7 @@ In this Schedule—
 - (a) agreed by the member of the police force and the police pension authority; or
 - (b) appointed by the court or tribunal.
 
-### 6. Appointment of appeal board[^key-7f333b7bae1c7f0d66854ca9f1c83e11][^key-f3303120e94e5c93e2c6b9d11de37e46]
+### 6. Appointment of appeal board[^c-7f333b7bae1c7f0d66854ca9f1c83e11][^c-f3303120e94e5c93e2c6b9d11de37e46]
 
 (1) An appeal board must consist of not less than 3 medical practitioners—
 
@@ -130,7 +130,7 @@ In this Schedule—
 - (a) be paid by the police pension authority; and
 - (b) be treated as part of the expenses of the police pension authority for the purposes of this paragraph.
 
-### 7. Procedure and costs on appeals to appeal board[^key-7f333b7bae1c7f0d66854ca9f1c83e11][^key-f3303120e94e5c93e2c6b9d11de37e46]
+### 7. Procedure and costs on appeals to appeal board[^c-7f333b7bae1c7f0d66854ca9f1c83e11][^c-f3303120e94e5c93e2c6b9d11de37e46]
 
 (1) The notice of appeal and the statement of grounds of appeal must be in writing.
 
@@ -140,7 +140,7 @@ In this Schedule—
 - (b) the statement of grounds of appeal; and
 - (c) any other documents the Secretary of State considers necessary.
 
-### 8. Hearing the appeal[^key-7f333b7bae1c7f0d66854ca9f1c83e11][^key-f3303120e94e5c93e2c6b9d11de37e46]
+### 8. Hearing the appeal[^c-7f333b7bae1c7f0d66854ca9f1c83e11][^c-f3303120e94e5c93e2c6b9d11de37e46]
 
 (1) The appeal board must—
 
@@ -168,7 +168,7 @@ In this Schedule—
 
 (10) A copy of the revised report must be given to the scheme manager and to the member.
 
-### 9. Written evidence or a written statement[^key-7f333b7bae1c7f0d66854ca9f1c83e11][^key-f3303120e94e5c93e2c6b9d11de37e46]
+### 9. Written evidence or a written statement[^c-7f333b7bae1c7f0d66854ca9f1c83e11][^c-f3303120e94e5c93e2c6b9d11de37e46]
 
 (1) A party to an appeal who intends to submit written evidence or a written statement at a hearing must, subject to sub-paragraph (2), submit it to the appeal board and the other party not less than 35 days before the date appointed for the hearing.
 
@@ -183,7 +183,7 @@ In this Schedule—
 
 (5) References in this paragraph to periods of days include weekends and public holidays.
 
-### 10. Costs payable if hearing is cancelled, adjourned or postponed[^key-7f333b7bae1c7f0d66854ca9f1c83e11][^key-f3303120e94e5c93e2c6b9d11de37e46]
+### 10. Costs payable if hearing is cancelled, adjourned or postponed[^c-7f333b7bae1c7f0d66854ca9f1c83e11][^c-f3303120e94e5c93e2c6b9d11de37e46]
 
 (1) Subject to the following provisions, the expenses of each party to the appeal must be borne by that party.
 
@@ -195,7 +195,7 @@ In this Schedule—
 
 (5) If sub-paragraph (4) applies, the appeal board may require the appellant to pay towards the cost of the cancellation, adjournment or postponement such sum not exceeding the total costs of the cancellation, adjournment or postponement as the appeal board decides, taking account of representations from either party.
 
-### 11. Costs payable on decision[^key-7f333b7bae1c7f0d66854ca9f1c83e11][^key-f3303120e94e5c93e2c6b9d11de37e46]
+### 11. Costs payable on decision[^c-7f333b7bae1c7f0d66854ca9f1c83e11][^c-f3303120e94e5c93e2c6b9d11de37e46]
 
 (1) Costs are payable in accordance with this paragraph on determination of the appeal.
 
@@ -215,6 +215,6 @@ In this Schedule—
 
 ## Annotations
 
-[^key-7f333b7bae1c7f0d66854ca9f1c83e11]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/445/schedule/1) applied (1.10.2023) by [The Police Pensions (Remediable Service) Regulations 2023 (S.I. 2023/831)](https://www.legislation.gov.uk/uksi/2023/831), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/831/regulation/1/b), [51(4)](https://www.legislation.gov.uk/uksi/2023/831/regulation/51/4)
+[^c-7f333b7bae1c7f0d66854ca9f1c83e11]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/445/schedule/1) applied (1.10.2023) by [The Police Pensions (Remediable Service) Regulations 2023 (S.I. 2023/831)](https://www.legislation.gov.uk/uksi/2023/831), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/831/regulation/1/b), [51(4)](https://www.legislation.gov.uk/uksi/2023/831/regulation/51/4)
 
-[^key-f3303120e94e5c93e2c6b9d11de37e46]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/445/schedule/1) applied (1.10.2023) by [The Police Pensions (Remediable Service) Regulations 2023 (S.I. 2023/831)](https://www.legislation.gov.uk/uksi/2023/831), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/831/regulation/1/b), [51(7)](https://www.legislation.gov.uk/uksi/2023/831/regulation/51/7)
+[^c-f3303120e94e5c93e2c6b9d11de37e46]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/445/schedule/1) applied (1.10.2023) by [The Police Pensions (Remediable Service) Regulations 2023 (S.I. 2023/831)](https://www.legislation.gov.uk/uksi/2023/831), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/831/regulation/1/b), [51(7)](https://www.legislation.gov.uk/uksi/2023/831/regulation/51/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. Appeal against decision on relevant funds claim[^key-352daac6b0e8a9d776babf2e337bdbb3]
+## 107. Appeal against decision on relevant funds claim[^c-352daac6b0e8a9d776babf2e337bdbb3]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-352daac6b0e8a9d776babf2e337bdbb3]: Commencement: Rule 107 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-352daac6b0e8a9d776babf2e337bdbb3]: Commencement: Rule 107 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

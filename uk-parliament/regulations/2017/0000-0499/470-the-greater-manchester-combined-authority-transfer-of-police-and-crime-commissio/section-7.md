@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Foreign property etc, perfection of vesting[^key-73ba7d6fafebf1aecbd67dc26bb0ed70]
+## 7. Foreign property etc, perfection of vesting[^c-73ba7d6fafebf1aecbd67dc26bb0ed70]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-73ba7d6fafebf1aecbd67dc26bb0ed70]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2017/470/article/7) in force at 25.3.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/470/article/1/3)
+[^c-73ba7d6fafebf1aecbd67dc26bb0ed70]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2017/470/article/7) in force at 25.3.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/470/article/1/3)
 
 [^f00014]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29).

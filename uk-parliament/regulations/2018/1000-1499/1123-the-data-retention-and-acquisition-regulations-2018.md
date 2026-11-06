@@ -78,7 +78,7 @@ In accordance with paragraph 4(5) of Schedule 7 to the Investigatory Powers Act 
 
 The code of practice entitled “Communications Data” laid before Parliament on 28th June 2018 has effect.
 
-## 3. Amendments of the Regulation of Investigatory Powers Act 2000[^key-3323d0bb85c4968798dc0b578dd568a7]
+## 3. Amendments of the Regulation of Investigatory Powers Act 2000[^c-3323d0bb85c4968798dc0b578dd568a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -570,23 +570,23 @@ Regulation 10
 
 **18.** (1) Section 78 (collaboration agreements) is amended as follows.
 
-(2)[^key-d70f61b1cd244515f86541886b83de12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d70f61b1cd244515f86541886b83de12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d70f61b1cd244515f86541886b83de12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d70f61b1cd244515f86541886b83de12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Omit subsections (3) and (4).
 
-(5)[^key-fb5538fa3a5f1fb4b3505f1c9901b401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-fb5538fa3a5f1fb4b3505f1c9901b401] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **19.** (1) Section 80 (police collaboration agreements) is amended as follows.
 
-(2)[^key-ee6ada886ccb05fc74dd4337c569936a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ee6ada886ccb05fc74dd4337c569936a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ee6ada886ccb05fc74dd4337c569936a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ee6ada886ccb05fc74dd4337c569936a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Omit subsections (3) and (4).
 
-(5)[^key-f52e98f137503856aae661ffe54198a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f52e98f137503856aae661ffe54198a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **20.** In section 84 (application of Part 3 to postal operators and postal services), in subsection (2)—
 
@@ -823,7 +823,7 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c23425861]: Marginal citation: [2016 c. 25](https://www.legislation.gov.uk/ukpga/2016/25).
 
-[^key-3323d0bb85c4968798dc0b578dd568a7]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1123/regulation/3) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-3323d0bb85c4968798dc0b578dd568a7]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1123/regulation/3) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
 [^c24279561]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/1123/regulation/4) in force at 1.11.2018 for specificed purposes and at 5.2.2019 otherwise, see [reg. 1(3)(b)(4)(a)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/b/4/a)
 
@@ -831,13 +831,13 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c24279581]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/1123/regulation/11) in force at 1.11.2018 for specified purposes and at 5.2.2018 otherwise, see [reg. 1(3)(e)(4)(c)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/e/4/c)
 
-[^key-d70f61b1cd244515f86541886b83de12]: Textual amendment: [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/18/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/18/3) revoked (17.5.2019) by [The Communications Data Acquisition Regulations 2019 (S.I. 2019/939)](https://www.legislation.gov.uk/uksi/2019/939), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/939/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/939/regulation/6)
+[^c-d70f61b1cd244515f86541886b83de12]: Textual amendment: [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/18/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/18/3) revoked (17.5.2019) by [The Communications Data Acquisition Regulations 2019 (S.I. 2019/939)](https://www.legislation.gov.uk/uksi/2019/939), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/939/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/939/regulation/6)
 
-[^key-fb5538fa3a5f1fb4b3505f1c9901b401]: Textual amendment: [Sch. 1 para. 18(5)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/18/5) revoked (17.5.2019) by [The Communications Data Acquisition Regulations 2019 (S.I. 2019/939)](https://www.legislation.gov.uk/uksi/2019/939), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/939/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/939/regulation/6)
+[^c-fb5538fa3a5f1fb4b3505f1c9901b401]: Textual amendment: [Sch. 1 para. 18(5)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/18/5) revoked (17.5.2019) by [The Communications Data Acquisition Regulations 2019 (S.I. 2019/939)](https://www.legislation.gov.uk/uksi/2019/939), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/939/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/939/regulation/6)
 
-[^key-ee6ada886ccb05fc74dd4337c569936a]: Textual amendment: [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/19/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/19/3) revoked (17.5.2019) by [The Communications Data Acquisition Regulations 2019 (S.I. 2019/939)](https://www.legislation.gov.uk/uksi/2019/939), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/939/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/939/regulation/6)
+[^c-ee6ada886ccb05fc74dd4337c569936a]: Textual amendment: [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/19/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/19/3) revoked (17.5.2019) by [The Communications Data Acquisition Regulations 2019 (S.I. 2019/939)](https://www.legislation.gov.uk/uksi/2019/939), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/939/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/939/regulation/6)
 
-[^key-f52e98f137503856aae661ffe54198a0]: Textual amendment: [Sch. 1 para. 19(5)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/19/5) revoked (17.5.2019) by [The Communications Data Acquisition Regulations 2019 (S.I. 2019/939)](https://www.legislation.gov.uk/uksi/2019/939), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/939/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/939/regulation/6)
+[^c-f52e98f137503856aae661ffe54198a0]: Textual amendment: [Sch. 1 para. 19(5)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/19/5) revoked (17.5.2019) by [The Communications Data Acquisition Regulations 2019 (S.I. 2019/939)](https://www.legislation.gov.uk/uksi/2019/939), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/939/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/939/regulation/6)
 
 [^c24279591]: Commencement: [Sch. 1 para. 27(b)(c)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/27/b/c) in force at 1.11.2018 and Sch. 1 para. 27 in force at 5.2.2019 othwerwise, see [reg. 1(3)(f)(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/f/4/d)
 

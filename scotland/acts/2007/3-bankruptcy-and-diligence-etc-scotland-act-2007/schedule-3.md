@@ -35,7 +35,7 @@ summary: ''
 - (g) in giving a statement under section 189(1) of this Act;
 - (h) in removing money from the place at which is was found;
 - (i) in opening shut and lockfast places for that purpose;
-- (j) by a solicitor in instructing an officer of court[^key-a2116780a6f00cd11a96a39739d9b557] to take any of the steps specified in this paragraph.
+- (j) by a solicitor in instructing an officer of court[^c-a2116780a6f00cd11a96a39739d9b557] to take any of the steps specified in this paragraph.
 
 **2.** Expenses chargeable against the debtor by virtue of paragraph 1(e) above must be calculated, whether or not the application is opposed by the debtor, as if it were unopposed.
 
@@ -61,6 +61,6 @@ the sheriff may award a sum of expenses, not exceeding such amount as may be pre
 
 ## Annotations
 
-[^key-a2116780a6f00cd11a96a39739d9b557]: Textual amendment: Words in [Sch. 3 para. 1(j)](https://www.legislation.gov.uk/asp/2007/3/schedule/3/paragraph/1/j) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 25(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/25/b); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
+[^c-a2116780a6f00cd11a96a39739d9b557]: Textual amendment: Words in [Sch. 3 para. 1(j)](https://www.legislation.gov.uk/asp/2007/3/schedule/3/paragraph/1/j) substituted (31.1.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 25(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/25/b); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/30/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2011/30/schedule/1)
 
 [^c2028951]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/asp/2007/3/schedule/3/paragraph/4) wholly in force at 23.11.2009; [Sch. 3 para. 4](https://www.legislation.gov.uk/asp/2007/3/schedule/3/paragraph/4) not in force at Royal Assent see [s. 227](https://www.legislation.gov.uk/asp/2007/3/section/227); [Sch. 3 para. 4](https://www.legislation.gov.uk/asp/2007/3/schedule/3/paragraph/4) in force for certain purposes at 1.4.2008 by [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(4)](https://www.legislation.gov.uk/ssi/2008/115/article/3/4), [Sch. 3](https://www.legislation.gov.uk/ssi/2008/115/schedule/3) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10)); [Sch. 3 para. 4](https://www.legislation.gov.uk/asp/2007/3/schedule/3/paragraph/4) in force at 23.11.2009 in so far as not already in force by [S.S.I. 2009/369](https://www.legislation.gov.uk/ssi/2009/369), [art. 3](https://www.legislation.gov.uk/ssi/2009/369/article/3) (with transitional modifications in [art. 4](https://www.legislation.gov.uk/ssi/2009/369/article/4))

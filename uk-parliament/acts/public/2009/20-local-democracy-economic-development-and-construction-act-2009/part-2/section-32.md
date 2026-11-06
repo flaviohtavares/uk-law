@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Joint overview and scrutiny committees[^key-ea891350651d1bcdb51b1b55ec4ec463]
+## 32. Joint overview and scrutiny committees[^c-ea891350651d1bcdb51b1b55ec4ec463]
 
 *Extent: E+W*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea891350651d1bcdb51b1b55ec4ec463]: Commencement: S. 32 in force at 12.1.2010, see s. 148(2)(a)(ii)
+[^c-ea891350651d1bcdb51b1b55ec4ec463]: Commencement: S. 32 in force at 12.1.2010, see s. 148(2)(a)(ii)

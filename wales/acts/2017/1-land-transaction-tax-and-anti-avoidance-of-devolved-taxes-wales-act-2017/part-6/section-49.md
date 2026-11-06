@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Further return where relief is withdrawn[^key-e38aa6fe496a457f5df60436d6062a6e]
+## 49. Further return where relief is withdrawn[^c-e38aa6fe496a457f5df60436d6062a6e]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (c) Schedule 16 (group relief);
 - (d) Schedule 17 (reconstruction or acquisition relief);
 - (e) Schedule 18 (charities relief);
-- (f)[^key-09613e1b0748eef4f788fb6e6aa7d976] Schedule 21A (relief for special tax sites).
+- (f)[^c-09613e1b0748eef4f788fb6e6aa7d976] Schedule 21A (relief for special tax sites).
 
 (2) A return made under this section must—
 
@@ -41,9 +41,9 @@ summary: ''
 - (c) in relation to the withdrawal of group relief under Schedule 16, the buyer ceasing to be a member of the same group as the seller within the meaning of that Schedule;
 - (d) in relation to the withdrawal of reconstruction relief or acquisition relief under Schedule 17, an event mentioned in paragraph 5(2) or 7(2) or (3) of that Schedule;
 - (e) in relation to the withdrawal of charities relief under Schedule 18, a disqualifying event as defined in paragraph 2(4), 5(2) or 8(2) of that Schedule;
-- (f)[^key-47cefa21533319b3ec1fc773f29855fc] in relation to the withdrawal of relief for special tax sites under Schedule 21A, the last day in the control period on which the qualifying land ceases to be used exclusively in a qualifying manner in circumstances where the exceptions in sub-paragraphs (3), (4) and (5) of paragraph 10 of that Schedule do not apply.
+- (f)[^c-47cefa21533319b3ec1fc773f29855fc] in relation to the withdrawal of relief for special tax sites under Schedule 21A, the last day in the control period on which the qualifying land ceases to be used exclusively in a qualifying manner in circumstances where the exceptions in sub-paragraphs (3), (4) and (5) of paragraph 10 of that Schedule do not apply.
 
-(3A)[^key-44e6282af5d530960dc553e134d003f5] In subsection (3)(f), “control period”, “qualifying land” and “qualifying manner” are to be interpreted in accordance with Schedule 21A.
+(3A)[^c-44e6282af5d530960dc553e134d003f5] In subsection (3)(f), “control period”, “qualifying land” and “qualifying manner” are to be interpreted in accordance with Schedule 21A.
 
 (4) Despite section 157(3) of TCMA (late payment interest), the late payment interest start date in relation to an amount—
 
@@ -58,10 +58,10 @@ is the day after the end of the period of 30 days beginning with the day after t
 
 ## Annotations
 
-[^key-e38aa6fe496a457f5df60436d6062a6e]: Commencement: [S. 49](https://www.legislation.gov.uk/anaw/2017/1/section/49) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e38aa6fe496a457f5df60436d6062a6e]: Commencement: [S. 49](https://www.legislation.gov.uk/anaw/2017/1/section/49) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-09613e1b0748eef4f788fb6e6aa7d976]: Textual amendment: [S. 49(1)(f)](https://www.legislation.gov.uk/anaw/2017/1/section/49/1/f) inserted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/3/a)
+[^c-09613e1b0748eef4f788fb6e6aa7d976]: Textual amendment: [S. 49(1)(f)](https://www.legislation.gov.uk/anaw/2017/1/section/49/1/f) inserted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/3/a)
 
-[^key-47cefa21533319b3ec1fc773f29855fc]: Textual amendment: [S. 49(3)(f)](https://www.legislation.gov.uk/anaw/2017/1/section/49/3/f) inserted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/3/b)
+[^c-47cefa21533319b3ec1fc773f29855fc]: Textual amendment: [S. 49(3)(f)](https://www.legislation.gov.uk/anaw/2017/1/section/49/3/f) inserted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/3/b)
 
-[^key-44e6282af5d530960dc553e134d003f5]: Textual amendment: [S. 49(3A)](https://www.legislation.gov.uk/anaw/2017/1/section/49/3A) inserted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/3/c)
+[^c-44e6282af5d530960dc553e134d003f5]: Textual amendment: [S. 49(3A)](https://www.legislation.gov.uk/anaw/2017/1/section/49/3A) inserted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/3/c)

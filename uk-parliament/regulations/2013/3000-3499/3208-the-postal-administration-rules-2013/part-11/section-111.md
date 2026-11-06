@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. Remuneration[^key-08c48217b22d87ac0c40fadb5a02a506]
+## 111. Remuneration[^c-08c48217b22d87ac0c40fadb5a02a506]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08c48217b22d87ac0c40fadb5a02a506]: Commencement: [Rule 111](https://www.legislation.gov.uk/uksi/2013/3208/rule/111) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-08c48217b22d87ac0c40fadb5a02a506]: Commencement: [Rule 111](https://www.legislation.gov.uk/uksi/2013/3208/rule/111) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

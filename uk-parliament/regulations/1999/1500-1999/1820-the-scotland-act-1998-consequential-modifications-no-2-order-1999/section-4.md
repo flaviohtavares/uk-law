@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Amendments and repeals[^key-d77be26c9271b62ca2c17e4c0435e811]
+## 4. Amendments and repeals[^c-d77be26c9271b62ca2c17e4c0435e811]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The modifications specified in Parts I, II and III of Schedule 2 to this Order a
 
 ## Annotations
 
-[^key-d77be26c9271b62ca2c17e4c0435e811]: Commencement: Art. 4 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)
+[^c-d77be26c9271b62ca2c17e4c0435e811]: Commencement: Art. 4 in force at 1.7.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2)

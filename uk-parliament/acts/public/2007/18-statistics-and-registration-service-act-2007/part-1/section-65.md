@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Orders and regulations[^key-164a783bce9c3b4904fe6c24413fbcbe]
+## 65. Orders and regulations[^c-164a783bce9c3b4904fe6c24413fbcbe]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,7 +68,7 @@ is subject to affirmative resolution, within the meaning of section 41(4) of the
 
 ## Annotations
 
-[^key-164a783bce9c3b4904fe6c24413fbcbe]: Commencement: S. 65 in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/h)
+[^c-164a783bce9c3b4904fe6c24413fbcbe]: Commencement: S. 65 in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/h)
 
 [^M_F_8ed9ae68-6dd9-45d9-a642-39f8a67866c2]: Textual amendment: Words in s. 65(4) omitted (31.7.2017 for E.W.S., 1.5.2018 in so far as not already in force) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 79(5)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/79/5/a), [118(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/4); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/u); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(kk)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/kk)
 

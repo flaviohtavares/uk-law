@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Disclosure of information[^key-325ffc982fbea1ba18f7afff0d9ae409]
+## 25. Disclosure of information[^c-325ffc982fbea1ba18f7afff0d9ae409]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-325ffc982fbea1ba18f7afff0d9ae409]: Textual amendment: S. 25 omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2020/29/section/20/3/a), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/s)
+[^c-325ffc982fbea1ba18f7afff0d9ae409]: Textual amendment: S. 25 omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2020/29/section/20/3/a), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/s)

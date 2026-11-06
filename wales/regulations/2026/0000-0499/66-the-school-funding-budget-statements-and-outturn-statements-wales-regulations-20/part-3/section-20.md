@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Differential funding[^key-98d43544b25e479f38567d65fe30e2ff]
+## 20. Differential funding[^c-98d43544b25e479f38567d65fe30e2ff]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A local authority must not use in its formula any factors or criteria which diff
 
 ## Annotations
 
-[^key-98d43544b25e479f38567d65fe30e2ff]: Commencement: Reg. 20 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-98d43544b25e479f38567d65fe30e2ff]: Commencement: Reg. 20 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

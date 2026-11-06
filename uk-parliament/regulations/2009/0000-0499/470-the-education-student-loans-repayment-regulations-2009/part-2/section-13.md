@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Penalties in relation to Parts 3 and 4[^key-4ec9d29c7eca4f45f0f784c59a4d6599]
+## 13. Penalties in relation to Parts 3 and 4[^c-4ec9d29c7eca4f45f0f784c59a4d6599]
 
 *Extent: E+W+S+N.I.*
 
 (1) Section 98 of the 1970 Act (special returns etc) applies for the purposes of repayments under Parts 3 or 4 as if any reference in that section to a provision in the Table is a reference to a provision in those Parts 3 or 4 with the exception of regulations 30, 33, 60 and 61.
 
-(2)[^key-0949d55f9794fd8635216921330c2d7d] Schedule 38 to the Finance Act 2012 (tax advisers: sanctionable conduct[^key-8b6fae7abc587184760a5f1611cc957f]) applies for the purpose of repayments under Part 3 or 4 as it applies for the purposes of income tax.
+(2)[^c-0949d55f9794fd8635216921330c2d7d] Schedule 38 to the Finance Act 2012 (tax advisers: sanctionable conduct[^c-8b6fae7abc587184760a5f1611cc957f]) applies for the purpose of repayments under Part 3 or 4 as it applies for the purposes of income tax.
 
 (3) For tax years—
 
@@ -41,10 +41,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4ec9d29c7eca4f45f0f784c59a4d6599]: Commencement: Reg. 13 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-4ec9d29c7eca4f45f0f784c59a4d6599]: Commencement: Reg. 13 in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
 
-[^key-0949d55f9794fd8635216921330c2d7d]: Textual amendment: Reg. 13(2) substituted (6.4.2013) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2013 (S.I. 2013/607)](https://www.legislation.gov.uk/uksi/2013/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/607/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/607/regulation/4)
+[^c-0949d55f9794fd8635216921330c2d7d]: Textual amendment: Reg. 13(2) substituted (6.4.2013) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2013 (S.I. 2013/607)](https://www.legislation.gov.uk/uksi/2013/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/607/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/607/regulation/4)
 
-[^key-8b6fae7abc587184760a5f1611cc957f]: Textual amendment: Words in reg. 13(2) substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2), [Sch. 22 para. 33](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/33)
+[^c-8b6fae7abc587184760a5f1611cc957f]: Textual amendment: Words in reg. 13(2) substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2), [Sch. 22 para. 33](https://www.legislation.gov.uk/ukpga/2026/11/schedule/22/paragraph/33)
 
 [^f00022]: Footnote: [2007 c.11](https://www.legislation.gov.uk/ukpga/2007/11). Schedule 24 was amended by the Finance Act [2008 (c.9)](https://www.legislation.gov.uk/ukpga/2008/9) Schedule 40.

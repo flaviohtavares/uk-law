@@ -26,14 +26,14 @@ Section 41(4) and (6)
 
 #### Subordinate legislation with commencement by reference to exit day
 
-**1.**[^c23966091] (1)[^key-591bc35223f20083346f83c4e9afdae1][^M_C_fa57ba4d-08b0-48d9-e72e-8a3f5e9c6f3d][^M_C_e1e7eb61-e711-41a1-fe69-b57761bab8e0][^M_C_c4a60227-d436-4766-c8cb-b33a3f6445c3][^M_C_aeb9bebd-0619-4281-91b3-a012ed67a3a2][^M_C_9684741c-5c45-4fda-818b-7fd163b33a36][^M_C_93847493-dc95-4e25-c65d-ed58c0c613d4][^M_C_d9c359a3-e037-4e70-e19c-f758c14ef773][^M_C_a2541d42-244f-4b91-e524-1ac5ca5f27ea] Any provision in subordinate legislation made before exit day under—
+**1.**[^c23966091] (1)[^c-591bc35223f20083346f83c4e9afdae1][^M_C_fa57ba4d-08b0-48d9-e72e-8a3f5e9c6f3d][^M_C_e1e7eb61-e711-41a1-fe69-b57761bab8e0][^M_C_c4a60227-d436-4766-c8cb-b33a3f6445c3][^M_C_aeb9bebd-0619-4281-91b3-a012ed67a3a2][^M_C_9684741c-5c45-4fda-818b-7fd163b33a36][^M_C_93847493-dc95-4e25-c65d-ed58c0c613d4][^M_C_d9c359a3-e037-4e70-e19c-f758c14ef773][^M_C_a2541d42-244f-4b91-e524-1ac5ca5f27ea] Any provision in subordinate legislation made before exit day under—
 
 - (a) any provision of the European Union (Withdrawal) Act 2018 (or any provision made under any such provision), or
 - (b) any other enactment,
 
 which provides, by reference to exit day (however expressed), for all or part of that or any other subordinate legislation to come into force immediately before exit day, on exit day or at any time after exit day is to be read instead as providing for the subordinate legislation or (as the case may be) the part to come into force immediately before IP completion day, on IP completion day or (as the case may be) at the time concerned after IP completion day.
 
-(2)[^key-591bc35223f20083346f83c4e9afdae1] Sub-paragraph (1) does not apply so far as it is expressly disapplied by the subordinate legislation that provides as mentioned in that sub-paragraph.
+(2)[^c-591bc35223f20083346f83c4e9afdae1] Sub-paragraph (1) does not apply so far as it is expressly disapplied by the subordinate legislation that provides as mentioned in that sub-paragraph.
 
 (3) An appropriate authority may by regulations—
 
@@ -65,7 +65,7 @@ which provides, by reference to exit day (however expressed), for all or part of
 
 #### Devolved preparatory legislation of a kind mentioned in paragraph 41(3) to (5) of Schedule 8 to EUWA 2018
 
-**3.**[^c23966101] (1)[^key-39c7a0a7c2d9ee55e7edb52a565381b9] Any provision of primary legislation which—
+**3.**[^c23966101] (1)[^c-39c7a0a7c2d9ee55e7edb52a565381b9] Any provision of primary legislation which—
 
 - (a) is made before exit day by virtue of any of sub-paragraphs (3) to (5) of paragraph 41 of Schedule 8 to the European Union (Withdrawal) Act 2018, and
 - (b) provides, by reference to exit day (however expressed), for itself or any other provision so made to come into force on exit day or at any time after exit day,
@@ -108,7 +108,7 @@ is to be read instead as providing for the provision to come into force on IP co
 
 **5.** The Interpretation Act (Northern Ireland) 1954 is amended as follows.
 
-**6.**[^key-797c386a0a86d02dbc69dfc1c1768e6e] In section 11 (references in enactments), in subsections (1C), (1D) and (1E), for “exit day” substitute “ IP completion day ”.
+**6.**[^c-797c386a0a86d02dbc69dfc1c1768e6e] In section 11 (references in enactments), in subsections (1C), (1D) and (1E), for “exit day” substitute “ IP completion day ”.
 
 **7.**[^c23966111] In section 44A (definitions relating to the United Kingdom's withdrawal from the EU)—
 
@@ -122,17 +122,17 @@ is to be read instead as providing for the provision to come into force on IP co
   > “IP completion day” (and related expressions) have the same meaning as in the European Union (Withdrawal Agreement) Act 2020 (see section 39(1) to (5) of that Act),
 
   , and
-- (c)[^key-35a2ee9948dde54194123ec10e713cd2] in the definition of “retained EU obligation” for “exit day” substitute “ IP completion day ”.
+- (c)[^c-35a2ee9948dde54194123ec10e713cd2] in the definition of “retained EU obligation” for “exit day” substitute “ IP completion day ”.
 
 #### Interpretation Act 1978
 
 **8.** The Interpretation Act 1978 is amended as follows.
 
-**9.**[^key-8bfdd6ea5abcc37f746e1f818c48cc99] In section 20(3) (references to other enactments) for “exit day” substitute “ IP completion day ”.
+**9.**[^c-8bfdd6ea5abcc37f746e1f818c48cc99] In section 20(3) (references to other enactments) for “exit day” substitute “ IP completion day ”.
 
-**10.**[^key-e865cfb10b58db473c735838935fb0df] In section 21(1) (meaning of “subordinate legislation”) for “exit day under any retained direct EU legislation[^key-8ecdd7fbcba4bec8a234f422fc0e8b00]” substitute “IP completion day under any retained direct EU legislation”.
+**10.**[^c-e865cfb10b58db473c735838935fb0df] In section 21(1) (meaning of “subordinate legislation”) for “exit day under any retained direct EU legislation[^c-8ecdd7fbcba4bec8a234f422fc0e8b00]” substitute “IP completion day under any retained direct EU legislation”.
 
-**11.**[^key-ce39b83d1e81ba47cb8ae37b59d047b6] In section 23ZA(4)(a)(ii) (retained direct EU legislation) for “exit day” substitute “ IP completion day ”.
+**11.**[^c-ce39b83d1e81ba47cb8ae37b59d047b6] In section 23ZA(4)(a)(ii) (retained direct EU legislation) for “exit day” substitute “ IP completion day ”.
 
 **12.**[^c23966121] In Schedule 1 (words and expressions defined), under the italic heading “Definitions relating to the EU and the United Kingdom's withdrawal”—
 
@@ -146,28 +146,28 @@ is to be read instead as providing for the provision to come into force on IP co
   > “IP completion day” (and related expressions) have the same meaning as in the European Union (Withdrawal Agreement) Act 2020 (see section 39(1) to (5) of that Act).
 
   ,
-- (c)[^key-85baf984f6ecaf24e219ce70d57a9291] in the definition of “retained EU obligation” for “exit day” substitute “ IP completion day ”, and
-- (d)[^key-9dafeb47f2888bac0f37f3db684456db] in the definition of “ “The Treaties” or “the EU Treaties””—
+- (c)[^c-85baf984f6ecaf24e219ce70d57a9291] in the definition of “retained EU obligation” for “exit day” substitute “ IP completion day ”, and
+- (d)[^c-9dafeb47f2888bac0f37f3db684456db] in the definition of “ “The Treaties” or “the EU Treaties””—
   - (i) for “or EU Treaties,” substitute “ or EU Treaties as at immediately before IP completion day and ”, and
   - (ii) for the words from “its repeal” to the end of the definition substitute “ IP completion day ”.
 
 #### European Economic Area Act 1993
 
-**13.**[^key-6ffc620e31eae1392e965a4b0aa71223] The European Economic Area Act 1993 is amended as follows.
+**13.**[^c-6ffc620e31eae1392e965a4b0aa71223] The European Economic Area Act 1993 is amended as follows.
 
-**14.**[^key-5da5a10de39d331aad61e4f26e9ab814] In section 2 (consistent application of law to the whole of the EEA), in subsections (3)(a) and (3A), for “exit day” substitute “ IP completion day ”.
+**14.**[^c-5da5a10de39d331aad61e4f26e9ab814] In section 2 (consistent application of law to the whole of the EEA), in subsections (3)(a) and (3A), for “exit day” substitute “ IP completion day ”.
 
-**15.**[^key-10bc7e9a1440419f23e2f4fe4dead1a0] In section 3 (general implementation of the EEA agreement), in subsections (3)(a) and (4A), for “exit day” substitute “ IP completion day ”.
+**15.**[^c-10bc7e9a1440419f23e2f4fe4dead1a0] In section 3 (general implementation of the EEA agreement), in subsections (3)(a) and (4A), for “exit day” substitute “ IP completion day ”.
 
-**16.**[^key-9ea6c6bffd8dbf59a55e33ca0f723d79] In section 6(1) (interpretation), in the definition of “the 1972 Act”, for “its repeal by section 1” substitute “ it ceases to have effect by virtue of section 1A(5) ”.
+**16.**[^c-9ea6c6bffd8dbf59a55e33ca0f723d79] In section 6(1) (interpretation), in the definition of “the 1972 Act”, for “its repeal by section 1” substitute “ it ceases to have effect by virtue of section 1A(5) ”.
 
 #### Scotland Act 1998
 
 **17.** The Scotland Act 1998 is amended as follows.
 
-**18.**[^key-5bfa46ca4ce7ad1a07eaa33a91c5cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-5bfa46ca4ce7ad1a07eaa33a91c5cc4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-f6ff01ace8b67b3bf10b5c83d9787687] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-f6ff01ace8b67b3bf10b5c83d9787687] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **20.** (1) Paragraph 1 of Schedule 4 (enactments etc. protected from modification) is amended as follows.
 
@@ -186,13 +186,13 @@ is to be read instead as providing for the provision to come into force on IP co
 > - (g) paragraphs 8A to 8G of Schedule 7, and
 > - (h) paragraphs 31 to 35 of Schedule 8.
 
-**21.**[^key-1904ba1ad32c3f1dacd749de1a4d7d72] In Part 2 of Schedule 5 (specific reservations), in section C8 (product standards, safety and liability) for “exit day” substitute “ IP completion day ”.
+**21.**[^c-1904ba1ad32c3f1dacd749de1a4d7d72] In Part 2 of Schedule 5 (specific reservations), in section C8 (product standards, safety and liability) for “exit day” substitute “ IP completion day ”.
 
 #### Northern Ireland Act 1998
 
 **22.** The Northern Ireland Act 1998 is amended as follows.
 
-**23.**[^key-283b5418177f211d62c538954a2b41bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-283b5418177f211d62c538954a2b41bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **24.** (1) Section 7 (entrenched enactments) is amended as follows.
 
@@ -217,19 +217,19 @@ is to be read instead as providing for the provision to come into force on IP co
 > - (g) paragraphs 1(11) and (12), 2(12) and (13) and 8A to 8G of Schedule 7, and
 > - (h) paragraph 21 of Schedule 8.
 
-**25.**[^key-91fa9d6797b11a9bdfb24ef2162b0cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-91fa9d6797b11a9bdfb24ef2162b0cc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-d142937cddc7b0af3e04adbc939227f1] In Schedule 3 (reserved matters), in paragraph 38, for “exit day” substitute “ IP completion day ”.
+**26.**[^c-d142937cddc7b0af3e04adbc939227f1] In Schedule 3 (reserved matters), in paragraph 38, for “exit day” substitute “ IP completion day ”.
 
 #### Government of Wales Act 2006
 
 **27.** The Government of Wales Act 2006 is amended as follows.
 
-**28.**[^key-5e32ee1dc9dbe4919058fdfef8547faa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-5e32ee1dc9dbe4919058fdfef8547faa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-4c4d6147d0864ad7001ed5557b50576a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-4c4d6147d0864ad7001ed5557b50576a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-af7771e9b9005508e30225dbc557357f] In Part 2 of Schedule 7A (specific reservations), in section C7 (product standards, safety and liability), in paragraph 77, for “exit day” substitute “ IP completion day ”.
+**30.**[^c-af7771e9b9005508e30225dbc557357f] In Part 2 of Schedule 7A (specific reservations), in section C7 (product standards, safety and liability), in paragraph 77, for “exit day” substitute “ IP completion day ”.
 
 **31.** (1) Paragraph 5 of Schedule 7B (protected enactments) is amended as follows.
 
@@ -251,11 +251,11 @@ is to be read instead as providing for the provision to come into force on IP co
 
 **32.** The Interpretation and Legislative Reform (Scotland) Act 2010 is amended as follows.
 
-**33.**[^key-e738a1cdd589bfe2a700dea645a27cf1] In section 1(1)(ba) (application of Part 1 of the Act) for “exit day” substitute “ IP completion day ”.
+**33.**[^c-e738a1cdd589bfe2a700dea645a27cf1] In section 1(1)(ba) (application of Part 1 of the Act) for “exit day” substitute “ IP completion day ”.
 
-**34.**[^key-1e723f8cff98942dc92dbeacdd2a8940] In section 14(3) (references to other legislative provisions) for “exit day”, in both places where it appears, substitute “ IP completion day ”.
+**34.**[^c-1e723f8cff98942dc92dbeacdd2a8940] In section 14(3) (references to other legislative provisions) for “exit day”, in both places where it appears, substitute “ IP completion day ”.
 
-**35.**[^key-f5d888e1e5120dd0219ddbbd2229bae5] In section 30(7) (other instruments laid before the Scottish Parliament) omit “(including that paragraph as applied by paragraph 19(7) of that Schedule)”.
+**35.**[^c-f5d888e1e5120dd0219ddbbd2229bae5] In section 30(7) (other instruments laid before the Scottish Parliament) omit “(including that paragraph as applied by paragraph 19(7) of that Schedule)”.
 
 **36.**[^c23966131] In section 55(2B)(d) (transitional Orders: revocation and savings)—
 
@@ -269,14 +269,14 @@ is to be read instead as providing for the provision to come into force on IP co
   > “IP completion day” (and related expressions) have the same meaning as in the European Union (Withdrawal Agreement) Act 2020 (see section 39(1) to (5) of that Act).
 
   ,
-- (c)[^key-041ffddc6e0442d3f193f5d9b61fc3ce] in the definition of “retained EU obligation” for “exit day” substitute “ IP completion day ”, and
-- (d)[^key-9ad2f804417309f4df5c8b071c461824] in the definition of “ “The Treaties” or “the EU Treaties””—
+- (c)[^c-041ffddc6e0442d3f193f5d9b61fc3ce] in the definition of “retained EU obligation” for “exit day” substitute “ IP completion day ”, and
+- (d)[^c-9ad2f804417309f4df5c8b071c461824] in the definition of “ “The Treaties” or “the EU Treaties””—
   - (i) for “or EU Treaties,” substitute “ or EU Treaties as at immediately before IP completion day and ”, and
   - (ii) for the words from “its repeal” to the end of the definition substitute “ IP completion day ”.
 
 **37.**[^c23966141] In Schedule 1 (definitions of words and expressions)—
 
-- (a)[^key-a7568f8bb11245ccbca505033d7a6357] in the definition of “subordinate legislation” for “exit day” substitute “ IP completion day ”,
+- (a)[^c-a7568f8bb11245ccbca505033d7a6357] in the definition of “subordinate legislation” for “exit day” substitute “ IP completion day ”,
 - (b) before the definition of “exit day” (and after the italic heading “Definitions relating to EU exit”) insert—
 
   > “**EU withdrawal agreement**” means the withdrawal agreement within the meaning of the European Union (Withdrawal Agreement) Act 2020 (see section 39(1) and (6) of that Act).
@@ -287,9 +287,9 @@ is to be read instead as providing for the provision to come into force on IP co
   > “IP completion day” (and related expressions) have the same meaning as in the European Union (Withdrawal Agreement) Act 2020 (see section 39(1) to (5) of that Act).
 
   ,
-- (d)[^key-ba66076bebaadf374441c40f0e6af4df] in the definition of “retained EU obligation” for “exit day” substitute “ IP completion day ”,
-- (e)[^key-a7568f8bb11245ccbca505033d7a6357] in the definition of “EU instrument” omit “(within the meaning of the European Union (Withdrawal) Act 2018 (see section 20(1) of that Act))”, and
-- (f)[^key-a7568f8bb11245ccbca505033d7a6357] in the definition of “ “The Treaties” or “the EU Treaties””—
+- (d)[^c-ba66076bebaadf374441c40f0e6af4df] in the definition of “retained EU obligation” for “exit day” substitute “ IP completion day ”,
+- (e)[^c-a7568f8bb11245ccbca505033d7a6357] in the definition of “EU instrument” omit “(within the meaning of the European Union (Withdrawal) Act 2018 (see section 20(1) of that Act))”, and
+- (f)[^c-a7568f8bb11245ccbca505033d7a6357] in the definition of “ “The Treaties” or “the EU Treaties””—
   - (i) for “or EU Treaties,” substitute “ or EU Treaties as at immediately before IP completion day and ”, and
   - (ii) for the words from “its repeal” to the end of the definition substitute “ IP completion day ”.
 
@@ -297,13 +297,13 @@ is to be read instead as providing for the provision to come into force on IP co
 
 **38.** The European Union (Withdrawal) Act 2018 is amended as follows.
 
-**39.**[^key-5a93320d9a7c0206d5617b258c52a22c] In the italic heading before section 2, for “existing EU law” substitute “ saved EU law at end of implementation period ”.
+**39.**[^c-5a93320d9a7c0206d5617b258c52a22c] In the italic heading before section 2, for “existing EU law” substitute “ saved EU law at end of implementation period ”.
 
-**40.** (1)[^key-693735a186f11e65f3e0074fc32ab583] Section 7 (status of retained EU law) is amended as follows.
+**40.** (1)[^c-693735a186f11e65f3e0074fc32ab583] Section 7 (status of retained EU law) is amended as follows.
 
-(2)[^key-693735a186f11e65f3e0074fc32ab583] In subsection (1)(b) for “section 2” substitute “ section 1A(2) or 1B(2) ”.
+(2)[^c-693735a186f11e65f3e0074fc32ab583] In subsection (1)(b) for “section 2” substitute “ section 1A(2) or 1B(2) ”.
 
-(3)[^key-306e5c39943092544dff4c7a37951e8c] After subsection (1) insert—
+(3)[^c-306e5c39943092544dff4c7a37951e8c] After subsection (1) insert—
 
 > (1A) Anything which—
 >
@@ -312,7 +312,7 @@ is to be read instead as providing for the provision to come into force on IP co
 >
 > continues to be domestic law as an enactment of the same kind.
 
-(4)[^key-306e5c39943092544dff4c7a37951e8c] In subsection (5)—
+(4)[^c-306e5c39943092544dff4c7a37951e8c] In subsection (5)—
 
 - (a) in paragraph (a) after “(3)” insert “ and (7) ”, and
 - (b) after paragraph (b) insert—
@@ -321,11 +321,11 @@ is to be read instead as providing for the provision to come into force on IP co
 
   .
 
-(5)[^key-693735a186f11e65f3e0074fc32ab583] In subsection (6) for “exit day”, wherever it appears, substitute “ IP completion day ”.
+(5)[^c-693735a186f11e65f3e0074fc32ab583] In subsection (6) for “exit day”, wherever it appears, substitute “ IP completion day ”.
 
 **41.**[^c23966161] (1) Section 10 (continuation of North-South co-operation and the prevention of new border arrangements) is amended as follows.
 
-(2)[^key-323f05ed542da5004a5f3912f65fbbbc] In the heading—
+(2)[^c-323f05ed542da5004a5f3912f65fbbbc] In the heading—
 
 - (a) for “Continuation of” substitute “ Protection for ”, and
 - (b) omit “the”.
@@ -333,11 +333,11 @@ is to be read instead as providing for the provision to come into force on IP co
 (3) In subsection (2)—
 
 - (a) omit “, 9”, and
-- (b)[^key-323f05ed542da5004a5f3912f65fbbbc] in paragraph (a) omit “(as defined by section 98 of the Northern Ireland Act 1998)”.
+- (b)[^c-323f05ed542da5004a5f3912f65fbbbc] in paragraph (a) omit “(as defined by section 98 of the Northern Ireland Act 1998)”.
 
 **42.** In section 11 (powers involving devolved authorities corresponding to sections 8 and 9), in the heading and the text of the section, for “and 9” substitute “ to 8C ”.
 
-**43.**[^key-c7e4d155b3b6858637b2baf685b38439] In the italic cross-heading before section 13, for “approval of outcome of EU negotiations” substitute “ oversight of withdrawal ”.
+**43.**[^c-c7e4d155b3b6858637b2baf685b38439] In the italic cross-heading before section 13, for “approval of outcome of EU negotiations” substitute “ oversight of withdrawal ”.
 
 **44.**[^c23966171] (1) Section 20 (interpretation) is amended as follows.
 
@@ -348,8 +348,8 @@ is to be read instead as providing for the provision to come into force on IP co
   > “**Commons sitting day**” means a day on which the House of Commons is sitting (and a day is only a day on which the House of Commons is sitting if the House begins to sit on that day);
 
   ,
-- (b)[^key-b2321efd58f5a36e0a59fa9b09c30abb] in the definition of “domestic law”, in paragraph (a), for “section 3” substitute “ sections 3, 7A and 7B ”,
-- (c)[^key-b2321efd58f5a36e0a59fa9b09c30abb] in the definition of “enactment”, in paragraph (h), for “2” substitute “ 1B ”,
+- (b)[^c-b2321efd58f5a36e0a59fa9b09c30abb] in the definition of “domestic law”, in paragraph (a), for “section 3” substitute “ sections 3, 7A and 7B ”,
+- (c)[^c-b2321efd58f5a36e0a59fa9b09c30abb] in the definition of “enactment”, in paragraph (h), for “2” substitute “ 1B ”,
 - (d) after the definition of “exit day” insert—
 
   > “**Joint Committee**” means the Joint Committee established by Article 164(1) of the withdrawal agreement;
@@ -362,9 +362,9 @@ is to be read instead as providing for the provision to come into force on IP co
   > “ratify”, whether in relation to the withdrawal agreement or otherwise, has the same meaning as it does for the purposes of Part 2 of the Constitutional Reform and Governance Act 2010 in relation to a treaty (see section 25 of that Act);
 
   ,
-- (f)[^key-b2321efd58f5a36e0a59fa9b09c30abb] in the definition of “retained direct EU legislation” for “exit day” substitute “ IP completion day ”,
-- (g)[^key-b2321efd58f5a36e0a59fa9b09c30abb] in the definition of “subordinate legislation” for “exit day” substitute “ IP completion day ”, and
-- (h)[^key-b2321efd58f5a36e0a59fa9b09c30abb] omit the definition of “withdrawal agreement”.
+- (f)[^c-b2321efd58f5a36e0a59fa9b09c30abb] in the definition of “retained direct EU legislation” for “exit day” substitute “ IP completion day ”,
+- (g)[^c-b2321efd58f5a36e0a59fa9b09c30abb] in the definition of “subordinate legislation” for “exit day” substitute “ IP completion day ”, and
+- (h)[^c-b2321efd58f5a36e0a59fa9b09c30abb] omit the definition of “withdrawal agreement”.
 
 (3) After subsection (5) insert—
 
@@ -373,9 +373,9 @@ is to be read instead as providing for the provision to come into force on IP co
 > - (a) references to anything to which section 1B(2) applies which continues to be domestic law on or after exit day (whether or not it would have done so irrespective of that provision), and
 > - (b) references to anything which continues to be domestic law on or after exit day by virtue of section 1B(2) (as that body of law is added to or otherwise modified by or under this Act or by other domestic law from time to time).
 
-(4)[^key-b2321efd58f5a36e0a59fa9b09c30abb] In subsection (6) for “exit day” substitute “ IP completion day ”.
+(4)[^c-b2321efd58f5a36e0a59fa9b09c30abb] In subsection (6) for “exit day” substitute “ IP completion day ”.
 
-**45.**[^key-9a191638b98875cbe65cd2d70aae7801] In the table in section 21(1) (index of defined expressions)—
+**45.**[^c-9a191638b98875cbe65cd2d70aae7801] In the table in section 21(1) (index of defined expressions)—
 
 - (a) before the entry for “Anything which continues to be domestic law by virtue of section 2” (and after the headings for the table) insert—
 
@@ -453,7 +453,7 @@ is to be read instead as providing for the provision to come into force on IP co
   , and
 - (k) in the entry for “Withdrawal agreement” for “Section 20(1)” substitute “ Section 1A(6) ”.
 
-**46.**[^key-d42e50938647a0a1b726b154b9ad0e29] (1) Section 23 (consequential and transitional provision) is amended as follows.
+**46.**[^c-d42e50938647a0a1b726b154b9ad0e29] (1) Section 23 (consequential and transitional provision) is amended as follows.
 
 (2) In subsection (3) for “the end of the Session in which this Act is passed” substitute “ IP completion day ”.
 
@@ -465,26 +465,26 @@ is to be read instead as providing for the provision to come into force on IP co
 
 (2) In paragraph 1(1) omit paragraph (b) and the word “or” before it.
 
-(3)[^key-6b020cfaadfc5184da2a415706bfbdcb] In paragraph 5(1) for “exit day” substitute “ IP completion day ”.
+(3)[^c-6b020cfaadfc5184da2a415706bfbdcb] In paragraph 5(1) for “exit day” substitute “ IP completion day ”.
 
 (4) In paragraph 6 for “section 8 or 9” substitute “ sections 8 to 8C ”.
 
-(5)[^key-6b020cfaadfc5184da2a415706bfbdcb] In paragraph 8(a) for “the repeal of that section by section 1” substitute “ IP completion day ”.
+(5)[^c-6b020cfaadfc5184da2a415706bfbdcb] In paragraph 8(a) for “the repeal of that section by section 1” substitute “ IP completion day ”.
 
 (6) In paragraph 11 for “section 8 or 9” substitute “ sections 8 to 8C ”.
 
-**48.** (1)[^key-c04d7a92881024f736054ceb6c8340d9] Schedule 5 (publication and rules of evidence) is amended as follows.
+**48.** (1)[^c-c04d7a92881024f736054ceb6c8340d9] Schedule 5 (publication and rules of evidence) is amended as follows.
 
-(2)[^key-c04d7a92881024f736054ceb6c8340d9] In paragraphs 1(1)(a) and (5)(a) and (b) and 2(1) for “exit day” substitute “ IP completion day ”.
+(2)[^c-c04d7a92881024f736054ceb6c8340d9] In paragraphs 1(1)(a) and (5)(a) and (b) and 2(1) for “exit day” substitute “ IP completion day ”.
 
-(3)[^key-4c95b39fe31b329f3782c15c570cda82] In paragraph 3—
+(3)[^c-4c95b39fe31b329f3782c15c570cda82] In paragraph 3—
 
 - (a) in sub-paragraph (1)—
   - (i) for “, for the purpose of interpreting retained EU law in legal proceedings,” substitute “ in legal proceedings ”, and
   - (ii) omit “for that purpose”, and
 - (b) in sub-paragraph (2) omit the definition of “interpreting retained EU law”.
 
-(4)[^key-c04d7a92881024f736054ceb6c8340d9] In paragraph 4—
+(4)[^c-c04d7a92881024f736054ceb6c8340d9] In paragraph 4—
 
 - (a) in sub-paragraph (4) for “the end of the Session in which this Act is passed” substitute “ IP completion day ”, and
 - (b) in sub-paragraph (5)—
@@ -497,7 +497,7 @@ is to be read instead as providing for the provision to come into force on IP co
     , and
   - (ii) in paragraph (d) for “or (c)” substitute “ , (c), (ca), (cb) or (cc) ”.
 
-**49.**[^key-397410072f8111b5f603253967c04747] (1) Schedule 6 (instruments which are exempt EU instruments) is amended as follows.
+**49.**[^c-397410072f8111b5f603253967c04747] (1) Schedule 6 (instruments which are exempt EU instruments) is amended as follows.
 
 (2) Omit paragraphs 1(1), 2 and 4.
 
@@ -515,7 +515,7 @@ is to be read instead as providing for the provision to come into force on IP co
 - (e) omit paragraph 7(9), and
 - (f) omit paragraph 8(7).
 
-**51.**[^c23966251][^key-2c28a7894c7281abe218352bb0c734ed][^key-5d0ea9f1263768b08ddae94c39b2f6bb] After Part 1 of Schedule 7 insert—
+**51.**[^c23966251][^c-2c28a7894c7281abe218352bb0c734ed][^c-5d0ea9f1263768b08ddae94c39b2f6bb] After Part 1 of Schedule 7 insert—
 
 > **PART 1A — Scrutiny of Specific Powers Relating to Withdrawal Agreement Etc.**
 >
@@ -797,7 +797,7 @@ is to be read instead as providing for the provision to come into force on IP co
 
 **52.**[^c23966191] (1) Part 2 of Schedule 7 (scrutiny of other powers under Act) is amended as follows.
 
-(2)[^key-f076931eaa7a31f7a62f0933562c419c] After paragraph 9 insert—
+(2)[^c-f076931eaa7a31f7a62f0933562c419c] After paragraph 9 insert—
 
 > **Power in relation to interpretation of retained EU law**
 >
@@ -844,7 +844,7 @@ is to be read instead as providing for the provision to come into force on IP co
 >
 > **23A.** Any power to make regulations under this Act which modify anything which continues to be domestic law by virtue of section 1B(2) is capable of being exercised before exit day so that the regulations come into force on or after exit day.
 
-(5)[^key-ec22589a1845fd643f9241324b255c26] In paragraph 24 for “exit day”, in both places where it appears, substitute “ IP completion day ”.
+(5)[^c-ec22589a1845fd643f9241324b255c26] In paragraph 24 for “exit day”, in both places where it appears, substitute “ IP completion day ”.
 
 (6) After paragraph 24 insert—
 
@@ -855,12 +855,12 @@ is to be read instead as providing for the provision to come into force on IP co
 (7) In paragraph 28—
 
 - (a) in sub-paragraph (1)(a) omit “, 9” and “or 12(2)”, and
-- (b)[^key-ec22589a1845fd643f9241324b255c26] in sub-paragraph (6)(c) for “exit day” substitute “ IP completion day ”.
+- (b)[^c-ec22589a1845fd643f9241324b255c26] in sub-paragraph (6)(c) for “exit day” substitute “ IP completion day ”.
 
 (8) In paragraph 29—
 
 - (a) in sub-paragraph (1)(a), omit “or 2”, and
-- (b)[^key-ec22589a1845fd643f9241324b255c26] in sub-paragraph (6)(c) for “exit day” substitute “ IP completion day ”.
+- (b)[^c-ec22589a1845fd643f9241324b255c26] in sub-paragraph (6)(c) for “exit day” substitute “ IP completion day ”.
 
 (9) In paragraph 30(1)(a) omit “or 9”.
 
@@ -872,11 +872,11 @@ is to be read instead as providing for the provision to come into force on IP co
 
 (13) In paragraph 35(1) omit “(whether or not as applied by paragraph 19(7))”.
 
-**54.** (1)[^key-6a14ef077238b1b3fd40b700b4613801] Part 1 of Schedule 8 (general consequential provision) is amended as follows.
+**54.** (1)[^c-6a14ef077238b1b3fd40b700b4613801] Part 1 of Schedule 8 (general consequential provision) is amended as follows.
 
-(2)[^key-624201bb2ebcac1e836e44adc2f574dc] In paragraph 1(1) for “exit day”, in both places where it appears, substitute “ IP completion day ”.
+(2)[^c-624201bb2ebcac1e836e44adc2f574dc] In paragraph 1(1) for “exit day”, in both places where it appears, substitute “ IP completion day ”.
 
-(3)[^key-624201bb2ebcac1e836e44adc2f574dc] In paragraph 2—
+(3)[^c-624201bb2ebcac1e836e44adc2f574dc] In paragraph 2—
 
 - (a) in sub-paragraph (1) for “exit day”, wherever it appears, substitute “ IP completion day ”,
 - (b) after sub-paragraph (2) insert—
@@ -886,7 +886,7 @@ is to be read instead as providing for the provision to come into force on IP co
   , and
 - (c) in sub-paragraph (3) for “and (2)” substitute “ to (2A) ”.
 
-(4)[^key-6a14ef077238b1b3fd40b700b4613801] For paragraph 7 substitute—
+(4)[^c-6a14ef077238b1b3fd40b700b4613801] For paragraph 7 substitute—
 
 > **7.** Any power to make, confirm or approve subordinate legislation which, immediately before exit day, is subject to an implied restriction that it is exercisable only compatibly with EU law is to be read—
 >
@@ -895,12 +895,12 @@ is to be read instead as providing for the provision to come into force on IP co
 >
 > so far as the restriction concerned is not applicable to and in the United Kingdom by virtue of the withdrawal agreement.
 
-(5)[^key-df621ed1329e95e93f1740f41d1dc0f6][^key-6a14ef077238b1b3fd40b700b4613801] In paragraph 8—
+(5)[^c-df621ed1329e95e93f1740f41d1dc0f6][^c-6a14ef077238b1b3fd40b700b4613801] In paragraph 8—
 
-- (a)[^key-69bbb2407ab796799b9dde710405ff2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-69bbb2407ab796799b9dde710405ff2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in sub-paragraph (3) for “exit day”, in both places where it appears, substitute “ IP completion day ”.
 
-(6)[^key-624201bb2ebcac1e836e44adc2f574dc] In paragraph 9—
+(6)[^c-624201bb2ebcac1e836e44adc2f574dc] In paragraph 9—
 
 - (a) in sub-paragraph (1)—
   - (i) for “exit day” substitute “ IP completion day ”, and
@@ -909,20 +909,20 @@ is to be read instead as providing for the provision to come into force on IP co
   - (i) for “pre-exit” substitute “ pre-IP completion day ”, and
   - (ii) for “exit day” substitute “ IP completion day ”.
 
-(7)[^key-df621ed1329e95e93f1740f41d1dc0f6][^key-6a14ef077238b1b3fd40b700b4613801] In paragraph 12—
+(7)[^c-df621ed1329e95e93f1740f41d1dc0f6][^c-6a14ef077238b1b3fd40b700b4613801] In paragraph 12—
 
-- (a)[^key-5adf25640d26321651e85ce4a3be9534] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5adf25640d26321651e85ce4a3be9534] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in sub-paragraph (3)—
   - (i) for “, and in the same Session as, this Act” substitute “ this Act and before IP completion day ”, and
   - (ii) for “exit day”, in both places where it appears, substitute “ IP completion day ”.
 
-(8)[^key-e45cec7fcbe73aaef498c193a3766ae1][^key-624201bb2ebcac1e836e44adc2f574dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-e45cec7fcbe73aaef498c193a3766ae1][^c-624201bb2ebcac1e836e44adc2f574dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-e45cec7fcbe73aaef498c193a3766ae1][^key-624201bb2ebcac1e836e44adc2f574dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-e45cec7fcbe73aaef498c193a3766ae1][^c-624201bb2ebcac1e836e44adc2f574dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-e45cec7fcbe73aaef498c193a3766ae1][^key-624201bb2ebcac1e836e44adc2f574dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-e45cec7fcbe73aaef498c193a3766ae1][^c-624201bb2ebcac1e836e44adc2f574dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-624201bb2ebcac1e836e44adc2f574dc] In paragraph 16—
+(11)[^c-624201bb2ebcac1e836e44adc2f574dc] In paragraph 16—
 
 - (a) in sub-paragraphs (1) and (6) for “exit day” substitute “ IP completion day ”, and
 - (b) after sub-paragraph (8) insert—
@@ -933,9 +933,9 @@ is to be read instead as providing for the provision to come into force on IP co
   > - (b) the EEA EFTA separation agreement, or
   > - (c) the Swiss citizens' rights agreement.
 
-**55.** (1)[^key-d32981f97d14e956cbf7898224d28eea] Part 3 of Schedule 8 (general transitional, transitory or saving provision) is amended as follows.
+**55.** (1)[^c-d32981f97d14e956cbf7898224d28eea] Part 3 of Schedule 8 (general transitional, transitory or saving provision) is amended as follows.
 
-(2)[^key-d32981f97d14e956cbf7898224d28eea] Before paragraph 37 (but after the italic heading before that paragraph) insert—
+(2)[^c-d32981f97d14e956cbf7898224d28eea] Before paragraph 37 (but after the italic heading before that paragraph) insert—
 
 > **36A.** (1) Anything done—
 >
@@ -959,7 +959,7 @@ is to be read instead as providing for the provision to come into force on IP co
 >
 > (4) References in this paragraph to anything done include references to anything omitted to be done.
 
-(3)[^key-f2262d25c184d3d3c2dfd8068b6f1a68] In paragraph 37—
+(3)[^c-f2262d25c184d3d3c2dfd8068b6f1a68] In paragraph 37—
 
 - (a) in sub-paragraphs (1) and (2) for “exit day”, wherever it appears, substitute “ IP completion day ”,
 - (b) in sub-paragraph (3)(a) for “section 1” substitute “ sections 1 to 1B ”,
@@ -969,15 +969,15 @@ is to be read instead as providing for the provision to come into force on IP co
 
 **56.**[^c23966271] (1) Part 4 of Schedule 8 (specific transitional, transitory and saving provision) is amended as follows.
 
-(2)[^key-30c2613012b1ecae7f4d7cf8567a9bb6] In the italic heading before paragraph 38 for “existing EU law” substitute “ saved EU law at end of implementation period ”.
+(2)[^c-30c2613012b1ecae7f4d7cf8567a9bb6] In the italic heading before paragraph 38 for “existing EU law” substitute “ saved EU law at end of implementation period ”.
 
-(3)[^key-30c2613012b1ecae7f4d7cf8567a9bb6] After that italic heading but before paragraph 38 insert—
+(3)[^c-30c2613012b1ecae7f4d7cf8567a9bb6] After that italic heading but before paragraph 38 insert—
 
 > **37A.** The repeal of section 1A(1) to (4) by section 1A(5) and the repeal of section 1B(1) to (5) by section 1B(6) do not prevent an enactment to which section 2 applies from continuing to be read, on and after IP completion day and by virtue of section 2, in accordance with section 1B(3) or (4).
 
-(4)[^key-30c2613012b1ecae7f4d7cf8567a9bb6] In paragraph 38 for “exit day”, in both places where it appears, substitute “ IP completion day ”.
+(4)[^c-30c2613012b1ecae7f4d7cf8567a9bb6] In paragraph 38 for “exit day”, in both places where it appears, substitute “ IP completion day ”.
 
-(5)[^key-30c2613012b1ecae7f4d7cf8567a9bb6] In paragraph 39—
+(5)[^c-30c2613012b1ecae7f4d7cf8567a9bb6] In paragraph 39—
 
 - (a) for “exit day”, wherever it appears, substitute “ IP completion day ”, and
 - (b) in sub-paragraph (1)—
@@ -986,15 +986,15 @@ is to be read instead as providing for the provision to come into force on IP co
 
 (6) In paragraph 40—
 
-- (a)[^key-d60f37816ae55b1951f0dfdcd575a799] after “section” insert “ 6(5A), ”
+- (a)[^c-d60f37816ae55b1951f0dfdcd575a799] after “section” insert “ 6(5A), ”
 - (b) after “8,” insert “ 8A ”,
 - (c) omit “9”, and
 - (d) after “23(1) or” insert “ Part 1 or 1A of ”.
 
 (7) In paragraph 41—
 
-- (a)[^key-92436386a4b9c3799e36ee71f3a0c05c][^key-57ab975eae5a758f70a33bc4b9867086] for “exit day”, wherever it appears, substitute “ IP completion day ”, and
-- (b)[^key-113f68240faf54616456568f8b5b2f95] in sub-paragraph (10) for “the making of regulations under Schedule 2 or 4” substitute
+- (a)[^c-92436386a4b9c3799e36ee71f3a0c05c][^c-57ab975eae5a758f70a33bc4b9867086] for “exit day”, wherever it appears, substitute “ IP completion day ”, and
+- (b)[^c-113f68240faf54616456568f8b5b2f95] in sub-paragraph (10) for “the making of regulations under Schedule 2 or 4” substitute
 
   > —
   >
@@ -1003,11 +1003,11 @@ is to be read instead as providing for the provision to come into force on IP co
   >   - (i) Part 1B or 1C of Schedule 2, or
   >   - (ii) Schedule 4.
 
-(8)[^key-30c2613012b1ecae7f4d7cf8567a9bb6] In paragraph 42 for “exit day” substitute “ IP completion day ”.
+(8)[^c-30c2613012b1ecae7f4d7cf8567a9bb6] In paragraph 42 for “exit day” substitute “ IP completion day ”.
 
 #### The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018
 
-**57.**[^key-5cf6be7e02fc1a9bb21b6f5b9a5c1adf] (1) The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310) are amended as follows.
+**57.**[^c-5cf6be7e02fc1a9bb21b6f5b9a5c1adf] (1) The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310) are amended as follows.
 
 (2) Omit regulation 3 (cessation of certain rights etc. which form part of domestic law by virtue of section 4 of the European Union (Withdrawal) Act 2018).
 
@@ -1015,19 +1015,19 @@ is to be read instead as providing for the provision to come into force on IP co
 
 #### Legislation (Wales) Act 2019 (anaw 4)
 
-**58.**[^key-30a188d659c8f317a4e97fbef8a1cf9d] The Legislation (Wales) Act 2019 is amended as follows.
+**58.**[^c-30a188d659c8f317a4e97fbef8a1cf9d] The Legislation (Wales) Act 2019 is amended as follows.
 
-**59.**[^key-d45609a357b2bcc8ea88ddedcacf227e] In section 24 (references to direct EU legislation retained in domestic law after EU exit), in subsection (1)(a)—
+**59.**[^c-d45609a357b2bcc8ea88ddedcacf227e] In section 24 (references to direct EU legislation retained in domestic law after EU exit), in subsection (1)(a)—
 
 - (a) in the Welsh language text, for “y diwrnod ymadael” substitute “diwrnod cwblhau'r cyfnod gweithredu”, and
 - (b) in the English language text, for “exit day” substitute “ implementation period completion day ”.
 
-**60.**[^key-235fea0f1aa74d1eac73382e5ef71128] In section 26 (references to EU instruments), in subsection (3)—
+**60.**[^c-235fea0f1aa74d1eac73382e5ef71128] In section 26 (references to EU instruments), in subsection (3)—
 
 - (a) in the Welsh language text, omit “ar gyfer darpariaeth am effaith cyfeiriadau penodol sy'n bodoli cyn y diwrnod ymadael ar y diwrnod ymadael neu ar ôl y diwrnod ymadael”, and
 - (b) in the English language text, omit “for provision about the effect on or after exit day of certain references which exist before exit day”.
 
-**61.**[^key-492fdecb8ac4f9ce8f21a4a15521d9cc] In the Table in Schedule 1 (definitions of words and expressions), in the Welsh language text—
+**61.**[^c-492fdecb8ac4f9ce8f21a4a15521d9cc] In the Table in Schedule 1 (definitions of words and expressions), in the Welsh language text—
 
 - (a) after the entry for “Cynulliad Cenedlaethol Cymru (*National Assembly for Wales*)” insert—
 
@@ -1051,7 +1051,7 @@ is to be read instead as providing for the provision to come into force on IP co
 - (e) in the entry for “offeryn UE (*EU instrument*)”, for “y diwrnod ymadael” substitute “diwrnod cwblhau'r cyfnod gweithredu”, and
 - (f) in the entry for “rhwymedigaeth UE a ddargedwir (*retained EU obligation*)”, for “y diwrnod ymadael” substitute “diwrnod cwblhau'r cyfnod gweithredu”.
 
-**62.**[^key-e261fc5a7bd3d3a52af2a7359c9ad83d] In the Table in Schedule 1 (definitions of words and expressions), in the English language text—
+**62.**[^c-e261fc5a7bd3d3a52af2a7359c9ad83d] In the Table in Schedule 1 (definitions of words and expressions), in the English language text—
 
 - (a) in the entry for “EEA agreement (*cytundeb yr AEE*)”, for “exit day” substitute “ implementation period completion day ”,
 - (b) in the entry for “EU instrument (*offeryn UE*)”, for “exit day” substitute “ implementation period completion day ”,
@@ -1079,7 +1079,7 @@ is to be read instead as providing for the provision to come into force on IP co
 
 #### Retention of existing grounds for deportation
 
-**63.**[^key-b3a971fa54be2ba3c3c885c698c0334b] (1) If section 10(2) (which inserts section 3(5A) of the Immigration Act 1971) comes into force before IP completion day, section 3(5A) of the Act of 1971 is to be read, until IP completion day, as if—
+**63.**[^c-b3a971fa54be2ba3c3c885c698c0334b] (1) If section 10(2) (which inserts section 3(5A) of the Immigration Act 1971) comes into force before IP completion day, section 3(5A) of the Act of 1971 is to be read, until IP completion day, as if—
 
 - (a) for “Article 20 of the EU withdrawal agreement” there were substituted “ Article 19(3) of the EU withdrawal agreement ”, and
 - (b) for “Article 19 of the EEA EFTA separation agreement” there were substituted “ Article 18(3) of the EEA EFTA separation agreement ”.
@@ -1090,7 +1090,7 @@ is to be read instead as providing for the provision to come into force on IP co
 
 #### Certain powers of devolved authorities in relation to EU law
 
-**64.**[^key-501d400cc604cf38157946e0f5f05844] Section 57(2) of the Scotland Act 1998, section 80(8) of the Government of Wales Act 2006 and section 24(1)(b) of the Northern Ireland Act 1998, so far as relating to EU law, do not apply to the making of regulations under section 12, 13 or 14.
+**64.**[^c-501d400cc604cf38157946e0f5f05844] Section 57(2) of the Scotland Act 1998, section 80(8) of the Government of Wales Act 2006 and section 24(1)(b) of the Northern Ireland Act 1998, so far as relating to EU law, do not apply to the making of regulations under section 12, 13 or 14.
 
 #### Savings in connection with section 36
 
@@ -1120,7 +1120,7 @@ is to be read instead as providing for the provision to come into force on IP co
 
 [^c23966091]: Commencement: Sch. 5 para. 1(3)-(6) in force at 23.1.2020, see s. 42(6)(e)(i)
 
-[^key-591bc35223f20083346f83c4e9afdae1]: Commencement: Sch. 5 para. 1(1)(2) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/75/regulation/3/b)
+[^c-591bc35223f20083346f83c4e9afdae1]: Commencement: Sch. 5 para. 1(1)(2) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/75/regulation/3/b)
 
 [^M_C_fa57ba4d-08b0-48d9-e72e-8a3f5e9c6f3d]: Modification: Sch. 5 para. 1(1) disapplied (30.1.2020) by [The Value Added Tax (Miscellaneous Amendments, Revocation and Transitional Provisions) (EU Exit) Regulations 2019 (Appointed Day No. 1) (EU Exit) Regulations 2020 (S.I. 2020/87)](https://www.legislation.gov.uk/uksi/2020/87), [reg. 3](https://www.legislation.gov.uk/uksi/2020/87/regulation/3)
 
@@ -1140,156 +1140,156 @@ is to be read instead as providing for the provision to come into force on IP co
 
 [^c23966101]: Commencement: [Sch. 5 para. 3(2)-(8)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/3/2) in force at 23.1.2020, see [s. 42(6)(e)(ii)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/ii)
 
-[^key-39c7a0a7c2d9ee55e7edb52a565381b9]: Commencement: [Sch. 5 para. 3(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/3/1) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(i)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/i)
+[^c-39c7a0a7c2d9ee55e7edb52a565381b9]: Commencement: [Sch. 5 para. 3(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/3/1) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(i)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/i)
 
-[^key-797c386a0a86d02dbc69dfc1c1768e6e]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/6) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-797c386a0a86d02dbc69dfc1c1768e6e]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/6) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
 [^c23966111]: Commencement: [Sch. 5 para. 7(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/7/a/b) in force at 23.1.2020, see [s. 42(6)(e)(iv)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/iv)
 
-[^key-35a2ee9948dde54194123ec10e713cd2]: Commencement: [Sch. 5 para. 7(c)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/7/c) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(ii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/ii)
+[^c-35a2ee9948dde54194123ec10e713cd2]: Commencement: [Sch. 5 para. 7(c)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/7/c) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(ii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/ii)
 
-[^key-8bfdd6ea5abcc37f746e1f818c48cc99]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/9) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-8bfdd6ea5abcc37f746e1f818c48cc99]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/9) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
-[^key-e865cfb10b58db473c735838935fb0df]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/10) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-e865cfb10b58db473c735838935fb0df]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/10) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
-[^key-8ecdd7fbcba4bec8a234f422fc0e8b00]: Textual amendment: Words in Sch. 5 para. 10 inserted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2020/463/regulation/9)
+[^c-8ecdd7fbcba4bec8a234f422fc0e8b00]: Textual amendment: Words in Sch. 5 para. 10 inserted (30.4.2020) by [The Direct Payments to Farmers (Legislative Continuity) Act 2020 (Consequential Amendments) Regulations 2020 (S.I. 2020/463)](https://www.legislation.gov.uk/uksi/2020/463), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/463/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2020/463/regulation/9)
 
-[^key-ce39b83d1e81ba47cb8ae37b59d047b6]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/11) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(iii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/iii)
+[^c-ce39b83d1e81ba47cb8ae37b59d047b6]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/11) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(iii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/iii)
 
 [^c23966121]: Commencement: [Sch. 5 para. 12(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/12/a/b) in force at 23.1.2020, see [s. 42(6)(e)(v)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/v)
 
-[^key-85baf984f6ecaf24e219ce70d57a9291]: Commencement: [Sch. 5 para. 12(c)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/12/c) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(iv)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/iv)
+[^c-85baf984f6ecaf24e219ce70d57a9291]: Commencement: [Sch. 5 para. 12(c)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/12/c) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(iv)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/iv)
 
-[^key-9dafeb47f2888bac0f37f3db684456db]: Commencement: [Sch. 5 para. 12(d)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/12/d) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-9dafeb47f2888bac0f37f3db684456db]: Commencement: [Sch. 5 para. 12(d)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/12/d) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
-[^key-6ffc620e31eae1392e965a4b0aa71223]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/13) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-6ffc620e31eae1392e965a4b0aa71223]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/13) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
-[^key-5da5a10de39d331aad61e4f26e9ab814]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/14) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-5da5a10de39d331aad61e4f26e9ab814]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/14) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
-[^key-10bc7e9a1440419f23e2f4fe4dead1a0]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/15) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-10bc7e9a1440419f23e2f4fe4dead1a0]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/15) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
-[^key-9ea6c6bffd8dbf59a55e33ca0f723d79]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/16) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-9ea6c6bffd8dbf59a55e33ca0f723d79]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/16) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
-[^key-5bfa46ca4ce7ad1a07eaa33a91c5cc4c]: Textual amendment: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/18) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
+[^c-5bfa46ca4ce7ad1a07eaa33a91c5cc4c]: Textual amendment: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/18) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
 
-[^key-f6ff01ace8b67b3bf10b5c83d9787687]: Textual amendment: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/19) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
+[^c-f6ff01ace8b67b3bf10b5c83d9787687]: Textual amendment: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/19) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
 
-[^key-1904ba1ad32c3f1dacd749de1a4d7d72]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/21) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
+[^c-1904ba1ad32c3f1dacd749de1a4d7d72]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/21) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
 
-[^key-283b5418177f211d62c538954a2b41bc]: Textual amendment: [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/23) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
+[^c-283b5418177f211d62c538954a2b41bc]: Textual amendment: [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/23) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
 
-[^key-91fa9d6797b11a9bdfb24ef2162b0cc7]: Textual amendment: [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/25) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
+[^c-91fa9d6797b11a9bdfb24ef2162b0cc7]: Textual amendment: [Sch. 5 para. 25](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/25) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
 
-[^key-d142937cddc7b0af3e04adbc939227f1]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/26) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
+[^c-d142937cddc7b0af3e04adbc939227f1]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/26) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
 
-[^key-5e32ee1dc9dbe4919058fdfef8547faa]: Textual amendment: [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/28) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
+[^c-5e32ee1dc9dbe4919058fdfef8547faa]: Textual amendment: [Sch. 5 para. 28](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/28) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
 
-[^key-4c4d6147d0864ad7001ed5557b50576a]: Textual amendment: [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/29) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
+[^c-4c4d6147d0864ad7001ed5557b50576a]: Textual amendment: [Sch. 5 para. 29](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/29) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
 
-[^key-af7771e9b9005508e30225dbc557357f]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/30) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
+[^c-af7771e9b9005508e30225dbc557357f]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/30) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10))
 
-[^key-e738a1cdd589bfe2a700dea645a27cf1]: Commencement: [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/33) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xi)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xi)
+[^c-e738a1cdd589bfe2a700dea645a27cf1]: Commencement: [Sch. 5 para. 33](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/33) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xi)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xi)
 
-[^key-1e723f8cff98942dc92dbeacdd2a8940]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/34) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-1e723f8cff98942dc92dbeacdd2a8940]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/34) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
-[^key-f5d888e1e5120dd0219ddbbd2229bae5]: Commencement: [Sch. 5 para. 35](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/35) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xii)
+[^c-f5d888e1e5120dd0219ddbbd2229bae5]: Commencement: [Sch. 5 para. 35](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/35) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xii)
 
 [^c23966131]: Commencement: [Sch. 5 para. 36(a)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/36/a/b) in force at 23.1.2020, see [s. 42(6)(e)(vii)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/vii)
 
-[^key-041ffddc6e0442d3f193f5d9b61fc3ce]: Commencement: [Sch. 5 para. 36(c)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/36/c) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xiii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xiii)
+[^c-041ffddc6e0442d3f193f5d9b61fc3ce]: Commencement: [Sch. 5 para. 36(c)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/36/c) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xiii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xiii)
 
-[^key-9ad2f804417309f4df5c8b071c461824]: Commencement: [Sch. 5 para. 36(d)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/36/d) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-9ad2f804417309f4df5c8b071c461824]: Commencement: [Sch. 5 para. 36(d)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/36/d) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
 [^c23966141]: Commencement: Sch. 5 para. 37(b)(c) in force at 23.1.2020, see s. 42(6)(e)(vii)
 
-[^key-a7568f8bb11245ccbca505033d7a6357]: Commencement: Sch. 5 para. 37(a)(e)(f) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j) (with [reg. 13](https://www.legislation.gov.uk/uksi/2020/1622/regulation/13))
+[^c-a7568f8bb11245ccbca505033d7a6357]: Commencement: Sch. 5 para. 37(a)(e)(f) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j) (with [reg. 13](https://www.legislation.gov.uk/uksi/2020/1622/regulation/13))
 
-[^key-ba66076bebaadf374441c40f0e6af4df]: Commencement: Sch. 5 para. 37(d) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xiv)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xiv)
+[^c-ba66076bebaadf374441c40f0e6af4df]: Commencement: Sch. 5 para. 37(d) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xiv)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xiv)
 
-[^key-5a93320d9a7c0206d5617b258c52a22c]: Commencement: [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/39) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-5a93320d9a7c0206d5617b258c52a22c]: Commencement: [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/39) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
-[^key-693735a186f11e65f3e0074fc32ab583]: Commencement: [Sch. 5 para. 40(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/40/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/40/2)[(5)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/40/5) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xv)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xv)
+[^c-693735a186f11e65f3e0074fc32ab583]: Commencement: [Sch. 5 para. 40(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/40/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/40/2)[(5)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/40/5) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xv)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xv)
 
-[^key-306e5c39943092544dff4c7a37951e8c]: Commencement: [Sch. 5 para. 40(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/40/3)[(4)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/40/4) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-306e5c39943092544dff4c7a37951e8c]: Commencement: [Sch. 5 para. 40(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/40/3)[(4)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/40/4) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
 [^c23966161]: Commencement: [Sch. 5 para. 41(1)(3)(a)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/41/1/3/a) in force at 23.1.2020, see [s. 42(6)(e)(viii)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/viii)
 
-[^key-323f05ed542da5004a5f3912f65fbbbc]: Commencement: [Sch. 5 para. 41(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/41/2), [(3)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/41/3/b) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-323f05ed542da5004a5f3912f65fbbbc]: Commencement: [Sch. 5 para. 41(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/41/2), [(3)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/41/3/b) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
-[^key-c7e4d155b3b6858637b2baf685b38439]: Commencement: [Sch. 5 para. 43](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/43) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xvi)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xvi)
+[^c-c7e4d155b3b6858637b2baf685b38439]: Commencement: [Sch. 5 para. 43](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/43) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xvi)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xvi)
 
 [^c23966171]: Commencement: [Sch. 5 para. 44(1)(2)(a)(d)(e)(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/44/1/2/a/d/e/3) in force at 23.1.2020, see [s. 42(6)(e)(viii)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/viii)
 
-[^key-b2321efd58f5a36e0a59fa9b09c30abb]: Commencement: [Sch. 5 para. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/44/2/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/44/2/c) [(f)-(h)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/44/2/f) [(4)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/44/4) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xvii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xvii)
+[^c-b2321efd58f5a36e0a59fa9b09c30abb]: Commencement: [Sch. 5 para. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/44/2/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/44/2/c) [(f)-(h)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/44/2/f) [(4)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/44/4) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xvii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xvii)
 
-[^key-9a191638b98875cbe65cd2d70aae7801]: Commencement: [Sch. 5 para. 45](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/45) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xviii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xviii)
+[^c-9a191638b98875cbe65cd2d70aae7801]: Commencement: [Sch. 5 para. 45](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/45) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xviii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xviii)
 
-[^key-d42e50938647a0a1b726b154b9ad0e29]: Commencement: [Sch. 5 para. 46](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/46) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xix)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xix)
+[^c-d42e50938647a0a1b726b154b9ad0e29]: Commencement: [Sch. 5 para. 46](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/46) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xix)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xix)
 
 [^c23966181]: Commencement: [Sch. 5 para. 47(1)(2)(4)(6)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/47/1/2/4/6) in force at 23.1.2020, see [s. 42(6)(e)(viii)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/viii)
 
-[^key-6b020cfaadfc5184da2a415706bfbdcb]: Commencement: [Sch. 5 para. 47(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/47/3)[(5)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/47/5) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xx)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xx)
+[^c-6b020cfaadfc5184da2a415706bfbdcb]: Commencement: [Sch. 5 para. 47(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/47/3)[(5)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/47/5) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xx)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xx)
 
-[^key-c04d7a92881024f736054ceb6c8340d9]: Commencement: [Sch. 5 para. 48(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/48/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/48/2)[(4)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/48/4) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxi)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxi)
+[^c-c04d7a92881024f736054ceb6c8340d9]: Commencement: [Sch. 5 para. 48(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/48/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/48/2)[(4)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/48/4) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxi)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxi)
 
-[^key-4c95b39fe31b329f3782c15c570cda82]: Commencement: [Sch. 5 para. 48(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/48/3) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-4c95b39fe31b329f3782c15c570cda82]: Commencement: [Sch. 5 para. 48(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/48/3) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
-[^key-397410072f8111b5f603253967c04747]: Commencement: [Sch. 5 para. 49](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/49) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxii)
+[^c-397410072f8111b5f603253967c04747]: Commencement: [Sch. 5 para. 49](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/49) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxii)
 
 [^c23966251]: Commencement: [Sch. 5 para. 51](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/51) in force for specified purposes at 23.1.2020, see [s. 42(6)(e)(ix)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/ix)
 
-[^key-2c28a7894c7281abe218352bb0c734ed]: Commencement: [Sch. 5 para. 51](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/51) in force at 31.1.2020 for specified purposes by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxiii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxiii)
+[^c-2c28a7894c7281abe218352bb0c734ed]: Commencement: [Sch. 5 para. 51](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/51) in force at 31.1.2020 for specified purposes by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxiii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxiii)
 
-[^key-5d0ea9f1263768b08ddae94c39b2f6bb]: Commencement: [Sch. 5 para. 51](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/51) in force at 19.5.2020 in so far as not already in force by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(p)(i)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/p/i)
+[^c-5d0ea9f1263768b08ddae94c39b2f6bb]: Commencement: [Sch. 5 para. 51](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/51) in force at 19.5.2020 in so far as not already in force by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(p)(i)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/p/i)
 
 [^c23966191]: Commencement: [Sch. 5 para. 52(1)(3)-(7)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/52/1/3) in force at 23.1.2020, see [s. 42(6)(e)(x)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/x)
 
-[^key-f076931eaa7a31f7a62f0933562c419c]: Commencement: [Sch. 5 para. 52(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/52/2) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(p)(ii)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/p/ii)
+[^c-f076931eaa7a31f7a62f0933562c419c]: Commencement: [Sch. 5 para. 52(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/52/2) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(p)(ii)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/p/ii)
 
 [^c23966211]: Commencement: [Sch. 5 para. 53(1)-(4)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/53/1)(6)(7)(a)(8)(a)(9)-(13) in force at 23.1.2020, see [s. 42(6)(e)(x)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/x)
 
-[^key-ec22589a1845fd643f9241324b255c26]: Commencement: [Sch. 5 para. 53(5)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/53/5) [(7)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/53/7/b) [(8)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/53/8/b) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxiv)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxiv)
+[^c-ec22589a1845fd643f9241324b255c26]: Commencement: [Sch. 5 para. 53(5)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/53/5) [(7)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/53/7/b) [(8)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/53/8/b) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxiv)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxiv)
 
-[^key-6a14ef077238b1b3fd40b700b4613801]: Commencement: [Sch. 5 para. 54(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/1)[(4)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/5)[(7)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/7) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxv)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxv)
+[^c-6a14ef077238b1b3fd40b700b4613801]: Commencement: [Sch. 5 para. 54(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/1)[(4)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/5)[(7)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/7) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxv)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxv)
 
-[^key-624201bb2ebcac1e836e44adc2f574dc]: Commencement: [Sch. 5 para. 54(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/3)[(6)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/6), [(8)-(11)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/8) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-624201bb2ebcac1e836e44adc2f574dc]: Commencement: [Sch. 5 para. 54(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/3)[(6)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/6), [(8)-(11)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/8) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
-[^key-df621ed1329e95e93f1740f41d1dc0f6]: Commencement: [Sch. 5 para. 54(5)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/5)[(7)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/7) in force at 30.1.2020 for specified purposes by [2020 c. 2](https://www.legislation.gov.uk/ukpga/2020/2), [reg. 2(11)(c)](https://www.legislation.gov.uk/ukpga/2020/2/regulation/2/11/c)
+[^c-df621ed1329e95e93f1740f41d1dc0f6]: Commencement: [Sch. 5 para. 54(5)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/5)[(7)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/7) in force at 30.1.2020 for specified purposes by [2020 c. 2](https://www.legislation.gov.uk/ukpga/2020/2), [reg. 2(11)(c)](https://www.legislation.gov.uk/ukpga/2020/2/regulation/2/11/c)
 
-[^key-69bbb2407ab796799b9dde710405ff2e]: Textual amendment: [Sch. 5 para. 54(5)(a)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/5/a) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
+[^c-69bbb2407ab796799b9dde710405ff2e]: Textual amendment: [Sch. 5 para. 54(5)(a)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/5/a) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
 
-[^key-5adf25640d26321651e85ce4a3be9534]: Textual amendment: [Sch. 5 para. 54(7)(a)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/7/a) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
+[^c-5adf25640d26321651e85ce4a3be9534]: Textual amendment: [Sch. 5 para. 54(7)(a)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/7/a) omitted (31.3.2022) by virtue of [The European Union (Withdrawal) Act 2018 (Repeal of EU Restrictions in Devolution Legislation, etc.) Regulations 2022 (S.I. 2022/357)](https://www.legislation.gov.uk/uksi/2022/357), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/357/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2022/357/regulation/7/3)
 
-[^key-e45cec7fcbe73aaef498c193a3766ae1]: Textual amendment: [Sch. 5 para. 54(8)-(10)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/8) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 10(2)(c)](https://www.legislation.gov.uk/ukpga/2023/28/section/10/2/c), [22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d) (with [s. 10(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/10/3))
+[^c-e45cec7fcbe73aaef498c193a3766ae1]: Textual amendment: [Sch. 5 para. 54(8)-(10)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/54/8) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 10(2)(c)](https://www.legislation.gov.uk/ukpga/2023/28/section/10/2/c), [22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d) (with [s. 10(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/10/3))
 
-[^key-d32981f97d14e956cbf7898224d28eea]: Commencement: [Sch. 5 para. 55(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/55/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/55/2) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxvi)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxvi)
+[^c-d32981f97d14e956cbf7898224d28eea]: Commencement: [Sch. 5 para. 55(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/55/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/55/2) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxvi)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxvi)
 
-[^key-f2262d25c184d3d3c2dfd8068b6f1a68]: Commencement: [Sch. 5 para. 55(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/55/3) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-f2262d25c184d3d3c2dfd8068b6f1a68]: Commencement: [Sch. 5 para. 55(3)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/55/3) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
 [^c23966271]: Commencement: [Sch. 5 para. 56(1)(6)(b)-(d)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/56/1/6/b) in force at 23.1.2020 and Sch. 5 para. 56(1)(7)(b) in force for specified purposes at 23.1.2020, see [s. 42(6)(e)(ix)(xi)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/6/e/ix/xi)
 
-[^key-30c2613012b1ecae7f4d7cf8567a9bb6]: Commencement: [Sch. 5 para. 56(2)-(5)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/56/2), [(8)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/56/8) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-30c2613012b1ecae7f4d7cf8567a9bb6]: Commencement: [Sch. 5 para. 56(2)-(5)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/56/2), [(8)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/56/8) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
-[^key-d60f37816ae55b1951f0dfdcd575a799]: Commencement: [Sch. 5 para. 56(6)(a)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/56/6/a) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/p/iii)
+[^c-d60f37816ae55b1951f0dfdcd575a799]: Commencement: [Sch. 5 para. 56(6)(a)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/56/6/a) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(p)(iii)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/p/iii)
 
-[^key-92436386a4b9c3799e36ee71f3a0c05c]: Commencement: [Sch. 5 para. 56(7)(a)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/56/7/a) in force at 31.1.2020 for specified purposes by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxvii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxvii)
+[^c-92436386a4b9c3799e36ee71f3a0c05c]: Commencement: [Sch. 5 para. 56(7)(a)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/56/7/a) in force at 31.1.2020 for specified purposes by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxvii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxvii)
 
-[^key-57ab975eae5a758f70a33bc4b9867086]: Commencement: [Sch. 5 para. 56(7)(a)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/56/7/a) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
+[^c-57ab975eae5a758f70a33bc4b9867086]: Commencement: [Sch. 5 para. 56(7)(a)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/56/7/a) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/j)
 
-[^key-113f68240faf54616456568f8b5b2f95]: Commencement: [Sch. 5 para. 56(7)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/56/7/b) in force at 19.5.2020 for specified purposes by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(p)(iv)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/p/iv)
+[^c-113f68240faf54616456568f8b5b2f95]: Commencement: [Sch. 5 para. 56(7)(b)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/56/7/b) in force at 19.5.2020 for specified purposes by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(p)(iv)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/p/iv)
 
-[^key-5cf6be7e02fc1a9bb21b6f5b9a5c1adf]: Commencement: [Sch. 5 para. 57](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/57) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/4/b)
+[^c-5cf6be7e02fc1a9bb21b6f5b9a5c1adf]: Commencement: [Sch. 5 para. 57](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/57) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/4/b)
 
-[^key-30a188d659c8f317a4e97fbef8a1cf9d]: Commencement: [Sch. 5 para. 58](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/58) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxviii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxviii)
+[^c-30a188d659c8f317a4e97fbef8a1cf9d]: Commencement: [Sch. 5 para. 58](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/58) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxviii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxviii)
 
-[^key-d45609a357b2bcc8ea88ddedcacf227e]: Commencement: [Sch. 5 para. 59](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/59) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxviii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxviii)
+[^c-d45609a357b2bcc8ea88ddedcacf227e]: Commencement: [Sch. 5 para. 59](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/59) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxviii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxviii)
 
-[^key-235fea0f1aa74d1eac73382e5ef71128]: Commencement: [Sch. 5 para. 60](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/60) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxviii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxviii)
+[^c-235fea0f1aa74d1eac73382e5ef71128]: Commencement: [Sch. 5 para. 60](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/60) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxviii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxviii)
 
-[^key-492fdecb8ac4f9ce8f21a4a15521d9cc]: Commencement: [Sch. 5 para. 61](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/61) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxviii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxviii)
+[^c-492fdecb8ac4f9ce8f21a4a15521d9cc]: Commencement: [Sch. 5 para. 61](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/61) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxviii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxviii)
 
-[^key-e261fc5a7bd3d3a52af2a7359c9ad83d]: Commencement: [Sch. 5 para. 62](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/62) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxviii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxviii)
+[^c-e261fc5a7bd3d3a52af2a7359c9ad83d]: Commencement: [Sch. 5 para. 62](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/62) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxviii)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxviii)
 
-[^key-b3a971fa54be2ba3c3c885c698c0334b]: Commencement: [Sch. 5 para. 63](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/63) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxix)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxix)
+[^c-b3a971fa54be2ba3c3c885c698c0334b]: Commencement: [Sch. 5 para. 63](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/63) in force at 31.1.2020 by [S.I. 2020/75](https://www.legislation.gov.uk/uksi/2020/75), [reg. 4(n)(xxix)](https://www.legislation.gov.uk/uksi/2020/75/regulation/4/n/xxix)
 
-[^key-501d400cc604cf38157946e0f5f05844]: Commencement: [Sch. 5 para. 64](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/64) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(p)(v)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/p/v)
+[^c-501d400cc604cf38157946e0f5f05844]: Commencement: [Sch. 5 para. 64](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/64) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(p)(v)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/p/v)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46O. Technical assistance relating to jet fuel and fuel additives[^key-7788dbe4e19a81e510e80c310a1dcf8e]
+## 46O. Technical assistance relating to jet fuel and fuel additives[^c-7788dbe4e19a81e510e80c310a1dcf8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7788dbe4e19a81e510e80c310a1dcf8e]: Textual amendment: [Pt. 5 Chs. 4D-4G](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4D) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/792/regulation/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-7788dbe4e19a81e510e80c310a1dcf8e]: Textual amendment: [Pt. 5 Chs. 4D-4G](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4D) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/792/regulation/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))

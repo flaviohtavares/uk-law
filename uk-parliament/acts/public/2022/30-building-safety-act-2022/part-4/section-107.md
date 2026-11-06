@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Enforcement of decisions of the First-tier and Upper Tribunal[^key-a682a007cfae574ff666791f28f3f856][^key-44536081853848e1d2e98afc64310a11]
+## 107. Enforcement of decisions of the First-tier and Upper Tribunal[^c-a682a007cfae574ff666791f28f3f856][^c-44536081853848e1d2e98afc64310a11]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a682a007cfae574ff666791f28f3f856]: Commencement: S. 107 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-a682a007cfae574ff666791f28f3f856]: Commencement: S. 107 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-44536081853848e1d2e98afc64310a11]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2022/30/section/107) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z6)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z6)
+[^c-44536081853848e1d2e98afc64310a11]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2022/30/section/107) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z6)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z6)

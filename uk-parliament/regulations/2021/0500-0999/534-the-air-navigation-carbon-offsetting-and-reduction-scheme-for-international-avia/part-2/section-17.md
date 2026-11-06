@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Change in aeroplane operator’s registered office within the United Kingdom[^key-bbfaf5f61abe3c17abaf39443d4a83ca]
+## 17. Change in aeroplane operator’s registered office within the United Kingdom[^c-bbfaf5f61abe3c17abaf39443d4a83ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ S is the Regulator of that aeroplane operator from the beginning of the next com
 
 ## Annotations
 
-[^key-bbfaf5f61abe3c17abaf39443d4a83ca]: Commencement: Art. 17 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-bbfaf5f61abe3c17abaf39443d4a83ca]: Commencement: Art. 17 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

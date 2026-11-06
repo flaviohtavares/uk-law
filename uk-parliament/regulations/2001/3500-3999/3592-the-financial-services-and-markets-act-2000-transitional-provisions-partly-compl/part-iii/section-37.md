@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Prohibition orders under section 36A of the Building Societies Act[^key-c8f987e77ed1c6b2509740eddfcf02b8]
+## 37. Prohibition orders under section 36A of the Building Societies Act[^c-c8f987e77ed1c6b2509740eddfcf02b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ the notice has effect after commencement as if it were a warning notice given un
 
 ## Annotations
 
-[^key-c8f987e77ed1c6b2509740eddfcf02b8]: Commencement: Art. 37 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-c8f987e77ed1c6b2509740eddfcf02b8]: Commencement: Art. 37 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00021]: Footnote: Section 36A was inserted by the Building Societies Act 1997, section 14.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Notification by the Commission of grounds for intervention[^key-9c8d9ce40509b456537f7809eef1b71c][^key-a56d5ebec2e2cd22291027bd97a3dc16]
+## 71. Notification by the Commission of grounds for intervention[^c-9c8d9ce40509b456537f7809eef1b71c][^c-a56d5ebec2e2cd22291027bd97a3dc16]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c8d9ce40509b456537f7809eef1b71c]: Commencement: S. 71 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-9c8d9ce40509b456537f7809eef1b71c]: Commencement: S. 71 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-a56d5ebec2e2cd22291027bd97a3dc16]: Commencement: [S. 71](https://www.legislation.gov.uk/asc/2022/1/section/71) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 3(a)](https://www.legislation.gov.uk/wsi/2026/62/article/3/a)
+[^c-a56d5ebec2e2cd22291027bd97a3dc16]: Commencement: [S. 71](https://www.legislation.gov.uk/asc/2022/1/section/71) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 3(a)](https://www.legislation.gov.uk/wsi/2026/62/article/3/a)

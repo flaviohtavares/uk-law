@@ -26,9 +26,9 @@ summary: ''
 
 #### Overview
 
-**1.**[^key-7cf5520d39d2197de63e142c225c7126] This Schedule makes provision about the application of this Act and TCMA in relation to partnerships.
+**1.**[^c-7cf5520d39d2197de63e142c225c7126] This Schedule makes provision about the application of this Act and TCMA in relation to partnerships.
 
-**2.**[^key-3e6a745c3a862335ea09aa1656a3088c] This Schedule is arranged as follows—
+**2.**[^c-3e6a745c3a862335ea09aa1656a3088c] This Schedule is arranged as follows—
 
 - (a) Part 2 makes general provision about the treatment of partnerships;
 - (b) Part 3 makes provision about ordinary transactions involving a partnership;
@@ -44,7 +44,7 @@ summary: ''
 
 #### Partnerships
 
-**3.**[^key-48ce6e3c33cd32642ee1c5bca15412ab] In this Act, a “**"partnership”**” means—
+**3.**[^c-48ce6e3c33cd32642ee1c5bca15412ab] In this Act, a “**"partnership”**” means—
 
 - (a) a partnership within the Partnership Act 1890 (c. 39);
 - (b) a limited partnership registered under the Limited Partnerships Act 1907 (c. 24);
@@ -53,7 +53,7 @@ summary: ''
 
 #### Chargeable interests treated as held by partners etc.
 
-**4.**[^key-f5ad16dede2efeb4debd3dd39169ccdb] (1) For the purposes of this Act—
+**4.**[^c-f5ad16dede2efeb4debd3dd39169ccdb] (1) For the purposes of this Act—
 
 - (a) a chargeable interest held by or on behalf of a partnership is treated as held by or on behalf of the partners, and
 - (b) a land transaction entered into for the purposes of a partnership is treated as entered into by or on behalf of the partners,
@@ -64,28 +64,28 @@ and not by or on behalf of the partnership as such.
 
 #### Acquisition of interest in partnership not chargeable except as specially provided
 
-**5.**[^key-352484e62d0bde42c021a65924ba9b27] The acquisition of an interest in a partnership is not a chargeable transaction despite the partnership property including land, except as provided by—
+**5.**[^c-352484e62d0bde42c021a65924ba9b27] The acquisition of an interest in a partnership is not a chargeable transaction despite the partnership property including land, except as provided by—
 
 - (a) paragraph 18 (transfer of interest pursuant to earlier arrangements);
 - (b) paragraph 34 (transfer of interest in property-investment partnership).
 
 #### Continuity of partnerships
 
-**6.**[^key-2b0392f0ee4004ae5e2026b5aa22ae39] For the purposes of this Act, a partnership is treated as the same partnership despite a change in membership if any person who was a member before the change remains a member after the change.
+**6.**[^c-2b0392f0ee4004ae5e2026b5aa22ae39] For the purposes of this Act, a partnership is treated as the same partnership despite a change in membership if any person who was a member before the change remains a member after the change.
 
 #### Partnership not to be regarded as a unit trust scheme etc.
 
-**7.**[^key-c2c038a01f5c6bd94d690e562b79671b] For the purposes of this Act, a partnership is not to be regarded as a unit trust scheme or an open-ended investment company.
+**7.**[^c-c2c038a01f5c6bd94d690e562b79671b] For the purposes of this Act, a partnership is not to be regarded as a unit trust scheme or an open-ended investment company.
 
 ### PART 3 — ORDINARY PARTNERSHIP TRANSACTIONS
 
 #### Introduction
 
-**8.**[^key-8b818c6bd8405197722d72077e0ca551] This Part of this Schedule applies to land transactions entered into as buyers by or on behalf of the members of a partnership, other than transactions within Parts 4 to 8 of this Schedule.
+**8.**[^c-8b818c6bd8405197722d72077e0ca551] This Part of this Schedule applies to land transactions entered into as buyers by or on behalf of the members of a partnership, other than transactions within Parts 4 to 8 of this Schedule.
 
 #### Responsibility of partners
 
-**9.**[^key-0c1646985a0c501e4c5e0c7b643ab7a9] (1) Anything required or authorised to be done under this Act or TCMA by or in relation to the buyer in the transaction must be done by or in relation to all the responsible partners.
+**9.**[^c-0c1646985a0c501e4c5e0c7b643ab7a9] (1) Anything required or authorised to be done under this Act or TCMA by or in relation to the buyer in the transaction must be done by or in relation to all the responsible partners.
 
 (2) The responsible partners in relation to a transaction are—
 
@@ -96,7 +96,7 @@ and not by or on behalf of the partnership as such.
 
 #### Representative partners
 
-**10.**[^key-4c839a668b09ca1b009f074005075646] (1) Anything required or authorised to be done under this Act or TCMA in connection with the transaction by or in relation to the responsible partners may instead be done by or in relation to any representative partner or partners.
+**10.**[^c-4c839a668b09ca1b009f074005075646] (1) Anything required or authorised to be done under this Act or TCMA in connection with the transaction by or in relation to the responsible partners may instead be done by or in relation to any representative partner or partners.
 
 (2) This includes making the declaration required by section 53 (declaration that return is complete and correct).
 
@@ -106,7 +106,7 @@ and not by or on behalf of the partnership as such.
 
 #### Joint and several liability of responsible partners
 
-**11.**[^key-2ac7d1622d03a68e35ee08acacc858a2] (1) Where the responsible partners are liable to pay—
+**11.**[^c-2ac7d1622d03a68e35ee08acacc858a2] (1) Where the responsible partners are liable to pay—
 
 - (a) tax or late payment interest on that tax,
 - (b) an amount under section 55 of TCMA (recovery of excessive repayment) or late payment interest on that amount, or
@@ -129,14 +129,14 @@ the liability is a joint and several liability of those partners.
 
 #### Introduction
 
-**12.**[^key-9c640a30e905833e55ae4b136c996884] In this Part of this Schedule—
+**12.**[^c-9c640a30e905833e55ae4b136c996884] In this Part of this Schedule—
 
 - (a) paragraphs 13 to 17 make provisions about the treatment of certain land transactions involving the transfer of a chargeable interest to a partnership, and
 - (b) paragraphs 18 and 19 provide for certain events following such transactions to be treated as land transactions.
 
 #### Transfer of chargeable interest to a partnership: general
 
-**13.**[^key-1cdb8b023a70d215fe9c49d2d3d3b55e] (1) This paragraph applies where—
+**13.**[^c-1cdb8b023a70d215fe9c49d2d3d3b55e] (1) This paragraph applies where—
 
 - (a) a partner transfers a chargeable interest to the partnership,
 - (b) a person transfers a chargeable interest to a partnership in return for an interest in the partnership, or
@@ -171,7 +171,7 @@ SLP is the sum of the lower proportions.
 
 #### Transfer of chargeable interest to a partnership: sum of the lower proportions
 
-**14.**[^key-36ea11db32c1965c844c793ff7ac6b2e] The sum of the lower proportions in relation to a transaction to which paragraph 13 applies is determined as follows—
+**14.**[^c-36ea11db32c1965c844c793ff7ac6b2e] The sum of the lower proportions in relation to a transaction to which paragraph 13 applies is determined as follows—
 
 - *Step 1* Identify the relevant owner or owners (see paragraph 15).
 - *Step 2* For each relevant owner, identify the corresponding partner or partners (see paragraph 16). If there is no relevant owner with a corresponding partner, the sum of the lower proportions is zero.
@@ -183,7 +183,7 @@ SLP is the sum of the lower proportions.
 
 #### Relevant owner
 
-**15.**[^key-047f06cb2b8a6610319ad2bd3bab8abb] (1) For the purposes of paragraph 14 (see Step 1), a person is a relevant owner if—
+**15.**[^c-047f06cb2b8a6610319ad2bd3bab8abb] (1) For the purposes of paragraph 14 (see Step 1), a person is a relevant owner if—
 
 - (a) immediately before the transaction, the person was entitled to a proportion of the chargeable interest, and
 - (b) immediately after the transaction, the person is a partner or is connected with a partner.
@@ -192,7 +192,7 @@ SLP is the sum of the lower proportions.
 
 #### Corresponding partner
 
-**16.**[^key-e9a9f7ee79093c11b13c1ae6375ca026] (1) For the purposes of paragraph 14 (see Step 2), a person is a corresponding partner in relation to a relevant owner if, immediately after the transaction—
+**16.**[^c-e9a9f7ee79093c11b13c1ae6375ca026] (1) For the purposes of paragraph 14 (see Step 2), a person is a corresponding partner in relation to a relevant owner if, immediately after the transaction—
 
 - (a) the person is a partner, and
 - (b) the person is the relevant owner or is an individual connected with the relevant owner.
@@ -204,14 +204,14 @@ SLP is the sum of the lower proportions.
 
 #### Proportion of chargeable interest attributable to corresponding partner
 
-**17.**[^key-419adb5683ed2242b6a19044e0dd9300] For the purposes of paragraph 14 (Step 4), the proportion of the chargeable interest attributable to a corresponding partner is—
+**17.**[^c-419adb5683ed2242b6a19044e0dd9300] For the purposes of paragraph 14 (Step 4), the proportion of the chargeable interest attributable to a corresponding partner is—
 
 - (a) if the partner is a corresponding partner in relation to only one relevant owner, the proportion (if any) of the chargeable interest apportioned to that partner (at Step 3) in respect of that owner;
 - (b) if the partner is a corresponding partner in relation to more than one relevant owner, the sum of the proportions (if any) of the chargeable interest apportioned to that partner (at Step 3) in respect of each of those owners.
 
 #### Transfer of partnership interest pursuant to tax avoidance arrangements
 
-**18.**[^key-69b4bc1457bdaab9e326906314ed96a3][^key-b4b0af55cf1bfbcacc6dae6c6da56d36] (1) This paragraph applies where—
+**18.**[^c-69b4bc1457bdaab9e326906314ed96a3][^c-b4b0af55cf1bfbcacc6dae6c6da56d36] (1) This paragraph applies where—
 
 - (a) there is a transfer of a chargeable interest to a partnership (““the land transfer””);
 - (b) the land transfer falls within paragraph 13(1);
@@ -247,7 +247,7 @@ SLP is the sum of the lower proportions.
 
 #### Withdrawal of money etc. from partnership after transfer of chargeable interest
 
-**19.**[^key-8bc28698e2fb88b991ba8979640e8622][^key-956244c30affaab55032619477ec84bb] (1) This paragraph applies where—
+**19.**[^c-8bc28698e2fb88b991ba8979640e8622][^c-956244c30affaab55032619477ec84bb] (1) This paragraph applies where—
 
 - (a) there is a transfer of a chargeable interest to a partnership (““the land transfer””);
 - (b) the land transfer falls within paragraph 13(1);
@@ -300,13 +300,13 @@ the amount of the charge under this paragraph is reduced (but not below zero) by
 
 #### Introduction
 
-**20.**[^key-e09c24ccd261fc64f042fff587735a08] This Part of this Schedule makes provision about the treatment of certain land transactions involving the transfer of a chargeable interest from a partnership.
+**20.**[^c-e09c24ccd261fc64f042fff587735a08] This Part of this Schedule makes provision about the treatment of certain land transactions involving the transfer of a chargeable interest from a partnership.
 
 #### Transfer of chargeable interest from a partnership: general
 
 *Extent: E+W+S+N.I.*
 
-**21.**[^key-ef13d445ab4f5f763cf822dd702cd0b9] (1) This paragraph applies where a chargeable interest is transferred—
+**21.**[^c-ef13d445ab4f5f763cf822dd702cd0b9] (1) This paragraph applies where a chargeable interest is transferred—
 
 - (a) from a partnership to a person who is or has been one of the partners, or
 - (b) from a partnership to a person connected with a person who is or has been one of the partners.
@@ -331,7 +331,7 @@ SLP is the sum of the lower proportions.
 
 #### Transfer of chargeable interest from a partnership: sum of the lower proportions
 
-**22.**[^key-71ab87235b8434c3c86141148c781eb0] The sum of the lower proportions in relation to a transaction to which paragraph 21 applies is determined as follows—
+**22.**[^c-71ab87235b8434c3c86141148c781eb0] The sum of the lower proportions in relation to a transaction to which paragraph 21 applies is determined as follows—
 
 - *Step 1* Identify the relevant owner or owners (see paragraph 23).
 - *Step 2* For each relevant owner, identify the corresponding partner or partners (see paragraph 24). If there is no relevant owner with a corresponding partner, the sum of the lower proportions is zero.
@@ -343,7 +343,7 @@ SLP is the sum of the lower proportions.
 
 #### Relevant owner
 
-**23.**[^key-d03b25fee2c0f320b37ef9305f46bdb6] (1) For the purposes of paragraph 22 (see Step 1), a person is a relevant owner if—
+**23.**[^c-d03b25fee2c0f320b37ef9305f46bdb6] (1) For the purposes of paragraph 22 (see Step 1), a person is a relevant owner if—
 
 - (a) immediately after the transaction, that person is entitled to a proportion of the chargeable interest, and
 - (b) immediately before the transaction, that person was a partner or connected with a partner.
@@ -352,7 +352,7 @@ SLP is the sum of the lower proportions.
 
 #### Corresponding partner
 
-**24.**[^key-f9101907f6a380a6198ed5f44b0a7293] (1) For the purposes of paragraph 22 (see Step 2), a person is a corresponding partner in relation to a relevant owner if, immediately before the transaction—
+**24.**[^c-f9101907f6a380a6198ed5f44b0a7293] (1) For the purposes of paragraph 22 (see Step 2), a person is a corresponding partner in relation to a relevant owner if, immediately before the transaction—
 
 - (a) the person was a partner, and
 - (b) the person was the relevant owner or was an individual connected with the relevant owner.
@@ -364,14 +364,14 @@ SLP is the sum of the lower proportions.
 
 #### Proportion of chargeable interest attributable to corresponding partner
 
-**25.**[^key-2c1db154ab28b269ccb5a0043bb3a167] For the purposes of paragraph 22 (see Step 4), the proportion of the chargeable interest attributable to a corresponding partner is—
+**25.**[^c-2c1db154ab28b269ccb5a0043bb3a167] For the purposes of paragraph 22 (see Step 4), the proportion of the chargeable interest attributable to a corresponding partner is—
 
 - (a) if the partner is a corresponding partner in relation to only one relevant owner, the proportion (if any) of the chargeable interest apportioned to that partner (at Step 3) in respect of that owner;
 - (b) if the partner is a corresponding partner in relation to more than one relevant owner, the sum of the proportions (if any) of the chargeable interest apportioned to that partner (at Step 3) in respect of each of those owners.
 
 #### Partnership share attributable to corresponding partner: effective date of transfer before 20 October 2003
 
-**26.**[^key-6685598a20060e5bf0d7dc1433f2f0f5] (1) This paragraph applies for the purposes of paragraph 22 (see Step 4) where the effective date of the transfer of the relevant chargeable interest to the partnership was before 20 October 2003.
+**26.**[^c-6685598a20060e5bf0d7dc1433f2f0f5] (1) This paragraph applies for the purposes of paragraph 22 (see Step 4) where the effective date of the transfer of the relevant chargeable interest to the partnership was before 20 October 2003.
 
 (2) Where this paragraph applies, the partnership share attributable to a corresponding partner is to be determined, as follows—
 
@@ -398,7 +398,7 @@ SLP is the sum of the lower proportions.
 
 #### Partnership share attributable to corresponding partner: effective date of transfer on or after 20 October 2003
 
-**27.**[^key-0644dd07a7d4992e250b8bcdf00a1329] (1) This paragraph applies for the purposes of paragraph 22 (see Step 4) where the effective date of the transfer of the relevant chargeable interest to the partnership was on or after 20 October 2003.
+**27.**[^c-0644dd07a7d4992e250b8bcdf00a1329] (1) This paragraph applies for the purposes of paragraph 22 (see Step 4) where the effective date of the transfer of the relevant chargeable interest to the partnership was on or after 20 October 2003.
 
 (2) Where this paragraph applies and neither of the conditions in sub-paragraph (3) is met, the partnership share attributable to the partner is zero.
 
@@ -432,14 +432,14 @@ SLP is the sum of the lower proportions.
 
 #### Introduction
 
-**28.**[^key-b9fba35c49c0d0e98dc7fbfe447a3a3d] This Part of this Schedule makes provision about—
+**28.**[^c-b9fba35c49c0d0e98dc7fbfe447a3a3d] This Part of this Schedule makes provision about—
 
 - (a) transactions involving a transfer from a partnership to a partnership, and
 - (b) transactions where the partnership consists entirely of bodies corporate.
 
 #### Transfer of chargeable interest from a partnership to a partnership
 
-**29.**[^key-4128907a1aa308fa45346f144ff72e27] (1) This paragraph applies where—
+**29.**[^c-4128907a1aa308fa45346f144ff72e27] (1) This paragraph applies where—
 
 - (a) there is a transfer of a chargeable interest from a partnership to a partnership, and
 - (b) the transfer is both—
@@ -460,7 +460,7 @@ SLP is the sum of the lower proportions.
 
 #### Transfer of chargeable interest from a partnership consisting wholly of bodies corporate
 
-**30.**[^key-a0dcb55c1d60e4156a8a05ce6446667b] (1) This paragraph applies where—
+**30.**[^c-a0dcb55c1d60e4156a8a05ce6446667b] (1) This paragraph applies where—
 
 - (a) there is a transaction to which paragraph 21 applies;
 - (b) immediately before the transaction all the partners are bodies corporate;
@@ -480,7 +480,7 @@ SLP is the sum of the lower proportions.
 
 #### Transfer of chargeable interest to or from a partnership: chargeable consideration including rent
 
-**31.**[^key-581d91576a19ba8dae1620053829fa35] (1) This paragraph applies in relation to a transaction to which paragraph 13 or 21 applies where the whole or part of the chargeable consideration for the transaction is rent.
+**31.**[^c-581d91576a19ba8dae1620053829fa35] (1) This paragraph applies in relation to a transaction to which paragraph 13 or 21 applies where the whole or part of the chargeable consideration for the transaction is rent.
 
 (2) Part 5 of Schedule 6 (leases: calculation of tax chargeable) has effect with the modifications set out in sub-paragraphs (3) to (6).
 
@@ -519,14 +519,14 @@ Figure 11 where SLP is the sum of the lower proportions.
 
 #### Introduction
 
-**32.**[^key-493fb0773a45a7a47b2df086a4b5c723] This Part of this Schedule makes provision—
+**32.**[^c-493fb0773a45a7a47b2df086a4b5c723] This Part of this Schedule makes provision—
 
 - (a) about certain transactions involving the transfer of an interest in a property-investment partnership, and
 - (b) for a property investment partnership to elect to disapply paragraph 13 in relation to certain land transactions.
 
 #### Meaning of property investment partnerships
 
-**33.**[^key-c3f24b13964bbe591797aa82f8220d6f] (1) In this Schedule, a ““property-investment partnership”” is a partnership whose sole or main activity is investing or dealing in chargeable interests (whether or not that activity involves the carrying out of construction operations on the land in question).
+**33.**[^c-c3f24b13964bbe591797aa82f8220d6f] (1) In this Schedule, a ““property-investment partnership”” is a partnership whose sole or main activity is investing or dealing in chargeable interests (whether or not that activity involves the carrying out of construction operations on the land in question).
 
 (2) In sub-paragraph (1), “**"construction operations”**” has the same meaning as in Chapter 3 of Part 3 of the Finance Act 2004 (c. 12)(see section 74 of that Act).
 
@@ -534,7 +534,7 @@ Figure 11 where SLP is the sum of the lower proportions.
 
 #### Transfer of interest in property-investment partnership
 
-**34.**[^key-e09d68ac19960adddbb88b2ea0f21aa1] (1) This paragraph applies where—
+**34.**[^c-e09d68ac19960adddbb88b2ea0f21aa1] (1) This paragraph applies where—
 
 - (a) there is a transfer of an interest in a property-investment partnership, and
 - (b) the relevant partnership property includes a chargeable interest.
@@ -584,7 +584,7 @@ Figure 11 where SLP is the sum of the lower proportions.
 
 #### Exclusion of market rent leases
 
-**35.**[^key-260dbc9e22b5fbe4b5fedf83a2faed9f] (1) A lease held as partnership property immediately after a transfer of an interest in the partnership is not relevant partnership property for the purposes of paragraph 34(6) or (7) if the following four conditions are met.
+**35.**[^c-260dbc9e22b5fbe4b5fedf83a2faed9f] (1) A lease held as partnership property immediately after a transfer of an interest in the partnership is not relevant partnership property for the purposes of paragraph 34(6) or (7) if the following four conditions are met.
 
 (2) Condition 1 is that—
 
@@ -608,7 +608,7 @@ Figure 11 where SLP is the sum of the lower proportions.
 
 #### Election by property-investment partnership to disapply paragraph 13
 
-**36.**[^key-276e021a3f8ad4a26cbb6c6dfcacc41e] (1) Paragraph 13 does not apply to a transfer of a chargeable interest to a property-investment partnership if the buyer in the transaction elects for that paragraph not to apply.
+**36.**[^c-276e021a3f8ad4a26cbb6c6dfcacc41e] (1) Paragraph 13 does not apply to a transfer of a chargeable interest to a property-investment partnership if the buyer in the transaction elects for that paragraph not to apply.
 
 (2) Where an election under this paragraph is made in respect of a transaction—
 
@@ -632,7 +632,7 @@ Figure 11 where SLP is the sum of the lower proportions.
 
 #### Partnership interests: application of provisions about exchange
 
-**37.**[^key-1f765ca32b838b2d676664ad9f921674] (1) Where section 16 (exchanges) applies to the acquisition of an interest in a property-investment partnership in consideration of entering into a land transaction with an existing partner, the interest in the partnership is to be treated as a major interest in land, for the purposes of paragraph 5 of Schedule 4 if the relevant partnership property includes a major interest in land.
+**37.**[^c-1f765ca32b838b2d676664ad9f921674] (1) Where section 16 (exchanges) applies to the acquisition of an interest in a property-investment partnership in consideration of entering into a land transaction with an existing partner, the interest in the partnership is to be treated as a major interest in land, for the purposes of paragraph 5 of Schedule 4 if the relevant partnership property includes a major interest in land.
 
 (2) In sub-paragraph (1), “**"relevant partnership property”**” has the meaning given by paragraphs 34(6) or (7) (as appropriate, and as read with paragraph 35).
 
@@ -642,7 +642,7 @@ Figure 11 where SLP is the sum of the lower proportions.
 
 #### Introduction
 
-**38.**[^key-eceb565180196a0774f09d34694a9ffb] In this Part of this Schedule—
+**38.**[^c-eceb565180196a0774f09d34694a9ffb] In this Part of this Schedule—
 
 - (a) paragraph 39 makes provision about the application of exemptions and reliefs to transactions to which this Schedule applies;
 - (b) paragraphs 40 and 41 make provision about the application of group relief to certain transactions mentioned in Part 4 of this Schedule;
@@ -652,13 +652,13 @@ Figure 11 where SLP is the sum of the lower proportions.
 
 #### Application of exemptions and reliefs
 
-**39.**[^key-8c183f51700e6d8b82b8e1dd0fa1c480] (1) Paragraph 1 of Schedule 3 (exemption of transactions for which there is no chargeable consideration) does not apply to transactions to which paragraph 13, 18, 21 or 34 applies.
+**39.**[^c-8c183f51700e6d8b82b8e1dd0fa1c480] (1) Paragraph 1 of Schedule 3 (exemption of transactions for which there is no chargeable consideration) does not apply to transactions to which paragraph 13, 18, 21 or 34 applies.
 
 (2) But (subject to paragraphs 40 and 42) this Schedule has effect subject to any other provision affording exemption or relief from tax.
 
 #### Application of group relief
 
-**40.**[^key-40f3200b47d71875fca56b9f9f6bf03d] (1) Schedule 16 (group relief) applies to—
+**40.**[^c-40f3200b47d71875fca56b9f9f6bf03d] (1) Schedule 16 (group relief) applies to—
 
 - (a) a transaction to which paragraph 13 applies, and
 - (b) a transaction that is a chargeable transaction by virtue of paragraph 18,
@@ -684,7 +684,7 @@ with the following modifications.
 
 #### Sum of the lower portions: connected company
 
-**41.**[^key-0659fcd72ca7e98dc6016eda05935406] (1) This paragraph applies where in calculating the sum of the lower proportions in relation to a transaction (in accordance with paragraph 14)—
+**41.**[^c-0659fcd72ca7e98dc6016eda05935406] (1) This paragraph applies where in calculating the sum of the lower proportions in relation to a transaction (in accordance with paragraph 14)—
 
 - (a) a company (““the connected company””) would have been a corresponding partner of a relevant owner (““the original owner””) but for the fact that, by virtue of paragraph 16(1)(b), Step 2 includes connected persons only if they are individuals, and
 - (b) the connected company and the original owner are members of the same group.
@@ -699,7 +699,7 @@ with the following modifications.
 
 #### Application of charities relief
 
-**42.**[^key-a241ce0b5459f9c4164e9d7b8c2f3659] (1) Schedule 18 (charities relief) applies to the transfer of an interest in a partnership that is a chargeable transaction by virtue of paragraph 18 or 34 with the following modifications.
+**42.**[^c-a241ce0b5459f9c4164e9d7b8c2f3659] (1) Schedule 18 (charities relief) applies to the transfer of an interest in a partnership that is a chargeable transaction by virtue of paragraph 18 or 34 with the following modifications.
 
 (2) Paragraph 1(b) has effect as if for ““a buyer in a land transaction”” there were substituted “ a transferee under a transfer of an interest in a partnership that is a chargeable transaction by virtue of paragraph 18 or 34 of Schedule 7, ”.
 
@@ -744,7 +744,7 @@ with the following modifications.
 
 #### Modifications of TCMA in relation to partnerships
 
-**43.**[^key-4b351d419e28ca555f13364833005d1e] (1) TCMA applies in relation to land transaction tax in respect of a land transaction entered into as buyers by or on behalf of the members of a partnership with the following modifications.
+**43.**[^c-4b351d419e28ca555f13364833005d1e] (1) TCMA applies in relation to land transaction tax in respect of a land transaction entered into as buyers by or on behalf of the members of a partnership with the following modifications.
 
 (2) Section 58 (conditions for making WRA assessments) has effect as if subsection (2)(c) were omitted.
 
@@ -786,7 +786,7 @@ with the following modifications.
 
 #### Notification of transfer of partnership interest
 
-**44.**[^key-c7d9b01897ecb780299cf8a660e077ea] (1) A transaction which is a chargeable transaction by virtue of paragraph 18 or 34 (transfer of partnership interest) is a notifiable transaction only if the chargeable consideration for the transaction exceeds the zero rate threshold.
+**44.**[^c-c7d9b01897ecb780299cf8a660e077ea] (1) A transaction which is a chargeable transaction by virtue of paragraph 18 or 34 (transfer of partnership interest) is a notifiable transaction only if the chargeable consideration for the transaction exceeds the zero rate threshold.
 
 (2) The chargeable consideration for a transaction exceeds the zero rate threshold if it includes—
 
@@ -797,13 +797,13 @@ with the following modifications.
 
 #### Partnership property and partnership share
 
-**45.**[^key-74e35552d3bcf091b6270c3b5439d728] (1) Any reference in this Schedule to partnership property is to an interest or right held by or on behalf of a partnership, or the members of a partnership, for the purposes of the partnership business.
+**45.**[^c-74e35552d3bcf091b6270c3b5439d728] (1) Any reference in this Schedule to partnership property is to an interest or right held by or on behalf of a partnership, or the members of a partnership, for the purposes of the partnership business.
 
 (2) Any reference in this Schedule to a person's partnership share at any time is to the proportion in which the person is entitled at that time to share in the income profits of the partnership.
 
 #### Transfer of a chargeable interest
 
-**46.**[^key-e30088cf64b285760ed0ce0dc2091e44] References in this Schedule to a transfer of a chargeable interest include—
+**46.**[^c-e30088cf64b285760ed0ce0dc2091e44] References in this Schedule to a transfer of a chargeable interest include—
 
 - (a) the creation of a chargeable interest,
 - (b) the variation of a chargeable interest, and
@@ -811,22 +811,22 @@ with the following modifications.
 
 #### Transfer of chargeable interest to a partnership
 
-**47.**[^key-568a570d368a461dfd814b1925790219] For the purposes of this Schedule, there is a transfer of a chargeable interest to a partnership in any case where a chargeable interest becomes partnership property.
+**47.**[^c-568a570d368a461dfd814b1925790219] For the purposes of this Schedule, there is a transfer of a chargeable interest to a partnership in any case where a chargeable interest becomes partnership property.
 
 #### Transfer of interest in a partnership
 
-**48.**[^key-8634998838520da88d29293ca23096fb] For the purposes of this Schedule, where a person acquires or increases a partnership share there is a transfer of an interest in the partnership (to that partner and from the other partners).
+**48.**[^c-8634998838520da88d29293ca23096fb] For the purposes of this Schedule, where a person acquires or increases a partnership share there is a transfer of an interest in the partnership (to that partner and from the other partners).
 
 #### Transfer of a chargeable interest from a partnership
 
-**49.**[^key-adb70cfc72636e42d632a348e750faf3] For the purposes of this Schedule, there is a transfer of a chargeable interest from a partnership in any case where—
+**49.**[^c-adb70cfc72636e42d632a348e750faf3] For the purposes of this Schedule, there is a transfer of a chargeable interest from a partnership in any case where—
 
 - (a) a chargeable interest that was partnership property ceases to be partnership property, or
 - (b) a chargeable interest is granted or created out of partnership property and the interest is not partnership property.
 
 #### Market value of leases
 
-**50.**[^key-d2e6fa8e152cd70e398a3f21c033947b] (1) This paragraph applies in relation to a lease for the purposes of this Schedule if—
+**50.**[^c-d2e6fa8e152cd70e398a3f21c033947b] (1) This paragraph applies in relation to a lease for the purposes of this Schedule if—
 
 - (a) the grant of the lease is or was a transaction to which paragraph 13 applies or applied (or a transaction to which paragraph 13 would have applied if that paragraph had been in force at the time of the grant), or
 - (b) the grant of the lease is a transaction to which paragraph 21 applies.
@@ -838,7 +838,7 @@ with the following modifications.
 
 #### Connected persons
 
-**51.**[^key-d920079dd7109fb96be7b182c4466365] (1) Section 1122 of the Corporation Tax Act 2010 (c. 4) (connected persons) has effect for the purposes of this Schedule.
+**51.**[^c-d920079dd7109fb96be7b182c4466365] (1) Section 1122 of the Corporation Tax Act 2010 (c. 4) (connected persons) has effect for the purposes of this Schedule.
 
 (2) As applied by sub-paragraph (1), that section has effect with the omission of subsection (7) (partners connected with each other).
 
@@ -846,114 +846,114 @@ with the following modifications.
 
 #### Arrangements
 
-**52.**[^key-e976d2baed12e15c3465793b1e18515a] In this Schedule, “**"arrangements”**” has the meaning given by section 31(3).
+**52.**[^c-e976d2baed12e15c3465793b1e18515a] In this Schedule, “**"arrangements”**” has the meaning given by section 31(3).
 
 ## Annotations
 
-[^key-7cf5520d39d2197de63e142c225c7126]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-7cf5520d39d2197de63e142c225c7126]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-3e6a745c3a862335ea09aa1656a3088c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-3e6a745c3a862335ea09aa1656a3088c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-48ce6e3c33cd32642ee1c5bca15412ab]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-48ce6e3c33cd32642ee1c5bca15412ab]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-f5ad16dede2efeb4debd3dd39169ccdb]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-f5ad16dede2efeb4debd3dd39169ccdb]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-352484e62d0bde42c021a65924ba9b27]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-352484e62d0bde42c021a65924ba9b27]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-2b0392f0ee4004ae5e2026b5aa22ae39]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-2b0392f0ee4004ae5e2026b5aa22ae39]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-c2c038a01f5c6bd94d690e562b79671b]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-c2c038a01f5c6bd94d690e562b79671b]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-8b818c6bd8405197722d72077e0ca551]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-8b818c6bd8405197722d72077e0ca551]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-0c1646985a0c501e4c5e0c7b643ab7a9]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-0c1646985a0c501e4c5e0c7b643ab7a9]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-4c839a668b09ca1b009f074005075646]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-4c839a668b09ca1b009f074005075646]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-2ac7d1622d03a68e35ee08acacc858a2]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/11) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-2ac7d1622d03a68e35ee08acacc858a2]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/11) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-9c640a30e905833e55ae4b136c996884]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-9c640a30e905833e55ae4b136c996884]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-1cdb8b023a70d215fe9c49d2d3d3b55e]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-1cdb8b023a70d215fe9c49d2d3d3b55e]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-36ea11db32c1965c844c793ff7ac6b2e]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/14) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-36ea11db32c1965c844c793ff7ac6b2e]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/14) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-047f06cb2b8a6610319ad2bd3bab8abb]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/15) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-047f06cb2b8a6610319ad2bd3bab8abb]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/15) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-e9a9f7ee79093c11b13c1ae6375ca026]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/16) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e9a9f7ee79093c11b13c1ae6375ca026]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/16) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-419adb5683ed2242b6a19044e0dd9300]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/17) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-419adb5683ed2242b6a19044e0dd9300]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/17) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-69b4bc1457bdaab9e326906314ed96a3]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/18) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-69b4bc1457bdaab9e326906314ed96a3]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/18) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-b4b0af55cf1bfbcacc6dae6c6da56d36]: Modification: [Sch. 7 para. 18](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/18) modified (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2018/126/regulation/7)
+[^c-b4b0af55cf1bfbcacc6dae6c6da56d36]: Modification: [Sch. 7 para. 18](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/18) modified (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2018/126/regulation/7)
 
-[^key-8bc28698e2fb88b991ba8979640e8622]: Commencement: [Sch. 7 para. 19](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/19) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-8bc28698e2fb88b991ba8979640e8622]: Commencement: [Sch. 7 para. 19](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/19) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-956244c30affaab55032619477ec84bb]: Modification: [Sch. 7 para. 19](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/19) modified (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2018/126/regulation/8)
+[^c-956244c30affaab55032619477ec84bb]: Modification: [Sch. 7 para. 19](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/19) modified (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2018/126/regulation/8)
 
-[^key-e09c24ccd261fc64f042fff587735a08]: Commencement: [Sch. 7 para. 20](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/20) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e09c24ccd261fc64f042fff587735a08]: Commencement: [Sch. 7 para. 20](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/20) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-ef13d445ab4f5f763cf822dd702cd0b9]: Commencement: [Sch. 7 para. 21](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/21) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-ef13d445ab4f5f763cf822dd702cd0b9]: Commencement: [Sch. 7 para. 21](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/21) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-71ab87235b8434c3c86141148c781eb0]: Commencement: [Sch. 7 para. 22](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/22) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-71ab87235b8434c3c86141148c781eb0]: Commencement: [Sch. 7 para. 22](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/22) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-d03b25fee2c0f320b37ef9305f46bdb6]: Commencement: [Sch. 7 para. 23](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/23) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-d03b25fee2c0f320b37ef9305f46bdb6]: Commencement: [Sch. 7 para. 23](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/23) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-f9101907f6a380a6198ed5f44b0a7293]: Commencement: [Sch. 7 para. 24](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/24) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-f9101907f6a380a6198ed5f44b0a7293]: Commencement: [Sch. 7 para. 24](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/24) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-2c1db154ab28b269ccb5a0043bb3a167]: Commencement: [Sch. 7 para. 25](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/25) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-2c1db154ab28b269ccb5a0043bb3a167]: Commencement: [Sch. 7 para. 25](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/25) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-6685598a20060e5bf0d7dc1433f2f0f5]: Commencement: [Sch. 7 para. 26](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/26) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-6685598a20060e5bf0d7dc1433f2f0f5]: Commencement: [Sch. 7 para. 26](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/26) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-0644dd07a7d4992e250b8bcdf00a1329]: Commencement: [Sch. 7 para. 27](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/27) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-0644dd07a7d4992e250b8bcdf00a1329]: Commencement: [Sch. 7 para. 27](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/27) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-b9fba35c49c0d0e98dc7fbfe447a3a3d]: Commencement: [Sch. 7 para. 28](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/28) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-b9fba35c49c0d0e98dc7fbfe447a3a3d]: Commencement: [Sch. 7 para. 28](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/28) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-4128907a1aa308fa45346f144ff72e27]: Commencement: [Sch. 7 para. 29](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/29) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-4128907a1aa308fa45346f144ff72e27]: Commencement: [Sch. 7 para. 29](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/29) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-a0dcb55c1d60e4156a8a05ce6446667b]: Commencement: [Sch. 7 para. 30](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/30) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-a0dcb55c1d60e4156a8a05ce6446667b]: Commencement: [Sch. 7 para. 30](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/30) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-581d91576a19ba8dae1620053829fa35]: Commencement: [Sch. 7 para. 31](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/31) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-581d91576a19ba8dae1620053829fa35]: Commencement: [Sch. 7 para. 31](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/31) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-493fb0773a45a7a47b2df086a4b5c723]: Commencement: [Sch. 7 para. 32](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/32) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-493fb0773a45a7a47b2df086a4b5c723]: Commencement: [Sch. 7 para. 32](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/32) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-c3f24b13964bbe591797aa82f8220d6f]: Commencement: [Sch. 7 para. 33](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/33) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-c3f24b13964bbe591797aa82f8220d6f]: Commencement: [Sch. 7 para. 33](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/33) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-e09d68ac19960adddbb88b2ea0f21aa1]: Commencement: [Sch. 7 para. 34](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/34) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e09d68ac19960adddbb88b2ea0f21aa1]: Commencement: [Sch. 7 para. 34](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/34) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-260dbc9e22b5fbe4b5fedf83a2faed9f]: Commencement: [Sch. 7 para. 35](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/35) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-260dbc9e22b5fbe4b5fedf83a2faed9f]: Commencement: [Sch. 7 para. 35](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/35) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-276e021a3f8ad4a26cbb6c6dfcacc41e]: Commencement: [Sch. 7 para. 36](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/36) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-276e021a3f8ad4a26cbb6c6dfcacc41e]: Commencement: [Sch. 7 para. 36](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/36) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-1f765ca32b838b2d676664ad9f921674]: Commencement: [Sch. 7 para. 37](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/37) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-1f765ca32b838b2d676664ad9f921674]: Commencement: [Sch. 7 para. 37](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/37) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-eceb565180196a0774f09d34694a9ffb]: Commencement: [Sch. 7 para. 38](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/38) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-eceb565180196a0774f09d34694a9ffb]: Commencement: [Sch. 7 para. 38](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/38) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-8c183f51700e6d8b82b8e1dd0fa1c480]: Commencement: [Sch. 7 para. 39](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/39) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-8c183f51700e6d8b82b8e1dd0fa1c480]: Commencement: [Sch. 7 para. 39](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/39) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-40f3200b47d71875fca56b9f9f6bf03d]: Commencement: [Sch. 7 para. 40](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/40) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-40f3200b47d71875fca56b9f9f6bf03d]: Commencement: [Sch. 7 para. 40](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/40) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-0659fcd72ca7e98dc6016eda05935406]: Commencement: [Sch. 7 para. 41](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/41) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-0659fcd72ca7e98dc6016eda05935406]: Commencement: [Sch. 7 para. 41](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/41) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-a241ce0b5459f9c4164e9d7b8c2f3659]: Commencement: [Sch. 7 para. 42](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/42) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-a241ce0b5459f9c4164e9d7b8c2f3659]: Commencement: [Sch. 7 para. 42](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/42) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-4b351d419e28ca555f13364833005d1e]: Commencement: [Sch. 7 para. 43](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/43) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-4b351d419e28ca555f13364833005d1e]: Commencement: [Sch. 7 para. 43](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/43) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-c7d9b01897ecb780299cf8a660e077ea]: Commencement: [Sch. 7 para. 44](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/44) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-c7d9b01897ecb780299cf8a660e077ea]: Commencement: [Sch. 7 para. 44](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/44) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-74e35552d3bcf091b6270c3b5439d728]: Commencement: [Sch. 7 para. 45](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/45) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-74e35552d3bcf091b6270c3b5439d728]: Commencement: [Sch. 7 para. 45](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/45) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-e30088cf64b285760ed0ce0dc2091e44]: Commencement: [Sch. 7 para. 46](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/46) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e30088cf64b285760ed0ce0dc2091e44]: Commencement: [Sch. 7 para. 46](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/46) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-568a570d368a461dfd814b1925790219]: Commencement: [Sch. 7 para. 47](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/47) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-568a570d368a461dfd814b1925790219]: Commencement: [Sch. 7 para. 47](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/47) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-8634998838520da88d29293ca23096fb]: Commencement: [Sch. 7 para. 48](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/48) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-8634998838520da88d29293ca23096fb]: Commencement: [Sch. 7 para. 48](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/48) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-adb70cfc72636e42d632a348e750faf3]: Commencement: [Sch. 7 para. 49](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/49) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-adb70cfc72636e42d632a348e750faf3]: Commencement: [Sch. 7 para. 49](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/49) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-d2e6fa8e152cd70e398a3f21c033947b]: Commencement: [Sch. 7 para. 50](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/50) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-d2e6fa8e152cd70e398a3f21c033947b]: Commencement: [Sch. 7 para. 50](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/50) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-d920079dd7109fb96be7b182c4466365]: Commencement: [Sch. 7 para. 51](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/51) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-d920079dd7109fb96be7b182c4466365]: Commencement: [Sch. 7 para. 51](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/51) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-e976d2baed12e15c3465793b1e18515a]: Commencement: [Sch. 7 para. 52](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/52) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e976d2baed12e15c3465793b1e18515a]: Commencement: [Sch. 7 para. 52](https://www.legislation.gov.uk/anaw/2017/1/schedule/7/paragraph/52) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

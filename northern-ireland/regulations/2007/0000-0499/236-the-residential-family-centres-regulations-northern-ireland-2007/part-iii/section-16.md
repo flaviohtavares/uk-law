@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Facilities and services[^key-f421b0cb6445151e6afe23793a8835c0]
+## 16. Facilities and services[^c-f421b0cb6445151e6afe23793a8835c0]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f421b0cb6445151e6afe23793a8835c0]: Commencement: Reg. 16 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-f421b0cb6445151e6afe23793a8835c0]: Commencement: Reg. 16 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)

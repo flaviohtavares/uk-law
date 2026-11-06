@@ -38,7 +38,7 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-5bd594f9d0fc3c14d0be8cee328f32bc]The Treasury are a government department designated [^c22479301]for the purposes of section 2(2) of the European Communities Act 1972 [^c22479311] in relation to financial services.
+[^c-5bd594f9d0fc3c14d0be8cee328f32bc]The Treasury are a government department designated [^c22479301]for the purposes of section 2(2) of the European Communities Act 1972 [^c22479311] in relation to financial services.
 
 [^c22479321]In the opinion of the Treasury, one of the effects of this Order is that an activity which is not a regulated activity, within the meaning of the Financial Services and Markets Act 2000 , will become a regulated activity.
 
@@ -46,7 +46,7 @@ Coming into force in accordance with article 1
 
 [^c22479341][^c22479351]A draft of this Order has been laid before and approved by a resolution of each House of Parliament in accordance with paragraphs 2 and 2A of Schedule 2 to the European Communities Act 1972 and section 429(3) of and paragraph 26(2) of Schedule 2 to the Financial Services and Markets Act 2000 .
 
-The Treasury make this Order in exercise of the powers conferred on them by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972 [^c22479361] and sections 21(9) and (15), 22(1) and (5), 38, 409 and 428(3) of the Financial Services and Markets Act 2000 [^c22479371].[^key-07492ee7e14e22828b3795535bdd129b]
+The Treasury make this Order in exercise of the powers conferred on them by section 2(2) of, and paragraph 1A of Schedule 2 to, the European Communities Act 1972 [^c22479361] and sections 21(9) and (15), 22(1) and (5), 38, 409 and 428(3) of the Financial Services and Markets Act 2000 [^c22479371].[^c-07492ee7e14e22828b3795535bdd129b]
 
 ## PART 1 — Introductory Provisions
 
@@ -87,11 +87,11 @@ The Treasury make this Order in exercise of the powers conferred on them by sect
 - “**consumer credit back book mortgage contract**” means a contract which—
   - (a)
     - (i) is entered into before 21st March 2016,
-    - (ii) immediately before 21st March 2016 is a regulated credit agreement within the meaning of article 60B(3) of the Regulated Activities Order, [^key-05a0b992d230ae260e7c13bbbabfddfa]...
-    - (iii) would not be an exempt agreement within the meaning of article 60B(3) of the Regulated Activities Order by virtue of article 60D of that Order (exempt agreements: exemption relating to the purchase of land for non-residential purposes) if it were entered into immediately before 21st March 2016, and[^key-b261ab13c081ef8c06645f7e3d7bc717]
-    - (iv) [^key-0a2244f00b350f7ab8aaa0a7c94a204c][^key-23a48c33f171bd5180162fd099946d8d]...would be a regulated mortgage contract if it were entered into on or after 21st March 2016; or
+    - (ii) immediately before 21st March 2016 is a regulated credit agreement within the meaning of article 60B(3) of the Regulated Activities Order, [^c-05a0b992d230ae260e7c13bbbabfddfa]...
+    - (iii) would not be an exempt agreement within the meaning of article 60B(3) of the Regulated Activities Order by virtue of article 60D of that Order (exempt agreements: exemption relating to the purchase of land for non-residential purposes) if it were entered into immediately before 21st March 2016, and[^c-b261ab13c081ef8c06645f7e3d7bc717]
+    - (iv) [^c-0a2244f00b350f7ab8aaa0a7c94a204c][^c-23a48c33f171bd5180162fd099946d8d]...would be a regulated mortgage contract if it were entered into on or after 21st March 2016; or
   - (b)
-    - (i) is entered into on or after 21st March 2016 in the circumstances described in article 28,[^key-200096ec3ce9d57b6fa5ce2956d1dcd5]
+    - (i) is entered into on or after 21st March 2016 in the circumstances described in article 28,[^c-200096ec3ce9d57b6fa5ce2956d1dcd5]
     - (ii) would be a regulated credit agreement within the meaning of article 60B(3) of the Regulated Activities Order if it had been entered into immediately before 21st March 2016, and
     - (iii) is a regulated mortgage contract immediately after it is entered into.
 - “**the mortgages directive**” means Directive 2014/17/EU of the European Parliament and of the Council of 4th February 2014 on credit agreements for consumers relating to residential immovable property and amending Directives [2008/48/EC](https://www.legislation.gov.uk/european/directive/2008/0048) and 2013/36/EU and Regulation (EU) No 1093/2010 [^c22479441];
@@ -99,10 +99,10 @@ The Treasury make this Order in exercise of the powers conferred on them by sect
 
 (2) Unless otherwise defined—
 
-- (a) subject to paragraph (3),[^key-add2ea8e03950ce91329b4316450c306] any expression used in this Order which is used in the mortgages directive has the same meaning as in that directive; and
+- (a) subject to paragraph (3),[^c-add2ea8e03950ce91329b4316450c306] any expression used in this Order which is used in the mortgages directive has the same meaning as in that directive; and
 - (b) any other expression used in this Order which is defined for the purposes of the Act has the meaning given by the Act.
 
-(3)[^key-b362bcfe817b9e1813bb2a6c93e41eea] In this Order the expressions set out in paragraph (4) have the same meaning as in the mortgages directive subject to the modification made in paragraph (5).
+(3)[^c-b362bcfe817b9e1813bb2a6c93e41eea] In this Order the expressions set out in paragraph (4) have the same meaning as in the mortgages directive subject to the modification made in paragraph (5).
 
 (4) The expressions are—
 
@@ -121,7 +121,7 @@ Schedule 1, which contains amendments to primary and secondary legislation, has 
 
 ## PART 3 — Consumer buy-to-let mortgages
 
-### 3A. Application of this Part[^key-f1cfc8163d8304c5302b0a5211c522e6]
+### 3A. Application of this Part[^c-f1cfc8163d8304c5302b0a5211c522e6]
 
 This Part does not apply in relation to any agreement entered into before 21st March 2016.
 
@@ -136,7 +136,7 @@ This Part does not apply in relation to any agreement entered into before 21st M
     - (i) meets the conditions in paragraphs (i) to (iii) of article 61(3)(a) of the Regulated Activities Order (regulated mortgage contracts); and
     - (ii) provides that the land subject to the mortgage cannot at any time be occupied as a dwelling by the borrower or by a related person, and is to be occupied as a dwelling on the basis of a rental agreement; or
   - (b) is a regulated credit agreement within the meaning of article 60B of the Regulated Activities Order which—
-    - (i) falls within section 423A(2)(b) of the Act[^key-58114ea4afc7af4dae41021593c1da65], and
+    - (i) falls within section 423A(2)(b) of the Act[^c-58114ea4afc7af4dae41021593c1da65], and
     - (ii) provides that the land, or existing or projected building, to which it relates cannot at any time be occupied as a dwelling by the borrower or by a related person, and is to be occupied as a dwelling on the basis of a rental agreement;
 - “**consumer**” means a person acting for purposes which are outside that person's trade, business or profession;
 - “**consumer buy-to-let mortgage business**” means one or more of the following activities—
@@ -152,12 +152,12 @@ This Part does not apply in relation to any agreement entered into before 21st M
 
   and for the purposes of paragraph (b) a person administers a consumer buy-to-let mortgage contract if the person carries on the regulated activity specified by article 61(2) of the Regulated Activities Order (regulated mortgage contracts) [^c22479461] in respect of the contract, or would carry on that regulated activity in respect of the contract but for the exclusion in article 72I of that Order (registered consumer buy-to-let mortgage firms) [^c22479471];
 - “**decision notice**” means a notice that complies with the requirements of section 388 of the Act (decision notices) [^c22479481];
-- “durable medium” means any instrument which enables a consumer to store information which is addressed personally to the consumer in a way accessible for future reference for a period of time adequate for the purposes for which the information is provided and which allows the unchanged reproduction of the information stored;[^key-2e1e8360e16490493b16d77542bb9f11]
+- “durable medium” means any instrument which enables a consumer to store information which is addressed personally to the consumer in a way accessible for future reference for a period of time adequate for the purposes for which the information is provided and which allows the unchanged reproduction of the information stored;[^c-2e1e8360e16490493b16d77542bb9f11]
 - “**foreign currency loan**” means a consumer buy-to-let mortgage contract where the credit is denominated in a currency other than that in which the borrower receives the income or holds the assets from which the credit is to be repaid;
 - “**register**” means the register kept by the FCA under article 8(1);
 - “**registered consumer buy-to-let mortgage firm**” means a person who is included in the register;
-- “**related person**” has the meaning set out in article 61A of the Regulated Activities Order (mortgage contracts which are not regulated mortgage contracts) [^c22479491]; [^key-2dea16835f4170778dee281a1ce38aa7]...
-- “staff” means—[^key-b294462d37b0a96bc7160f4d76b8a277]
+- “**related person**” has the meaning set out in article 61A of the Regulated Activities Order (mortgage contracts which are not regulated mortgage contracts) [^c22479491]; [^c-2dea16835f4170778dee281a1ce38aa7]...
+- “staff” means—[^c-b294462d37b0a96bc7160f4d76b8a277]
   - (a) any individual working for a creditor or credit intermediary who—
     - (i) is directly engaged in consumer buy-to-let mortgage business, or
     - (ii) has contacts with consumers in the course of consumer buy-to-let mortgage business,
@@ -165,7 +165,7 @@ This Part does not apply in relation to any agreement entered into before 21st M
   - (c) any individual directly managing or supervising any individual falling within paragraph (a) or (b);
 - “**warning notice**” means a notice that complies with the requirements of section 387 of the Act (warning notices) [^c22479501].
 
-(1A)[^key-e897d29770bdeb96662211eb1d96be9b] A “relevant person” is a person who, acting on behalf of and under the full and unconditional responsibility of only one credit intermediary, carries on one or more of the activities referred to in article 5(2) to (4).
+(1A)[^c-e897d29770bdeb96662211eb1d96be9b] A “relevant person” is a person who, acting on behalf of and under the full and unconditional responsibility of only one credit intermediary, carries on one or more of the activities referred to in article 5(2) to (4).
 
 (2) For the purposes of this Part, if an agreement includes a declaration which—
 
@@ -249,7 +249,7 @@ If a person has a Part 4A permission to carry on an activity of the kind specifi
   - (iii) the persons responsible for consumer buy-to-let mortgage business,
 
   are of good repute;
-- (f) if the person is not a creditor but is a credit intermediary or provides advisory services for the purposes of this Part, the person holds professional indemnity insurance covering its consumer buy-to-let mortgage business in the United Kingdom, or some other comparable guarantee against liability arising from professional negligence, of at least the minimum monetary amount of such insurance or guarantee specified for mortgage intermediaries in the FCA’s Prudential sourcebook for Mortgage and Home Finance Firms, and Insurance Intermediaries as amended from time to time[^key-b8e3a95176eb3e037014ceed4358af84];
+- (f) if the person is not a creditor but is a credit intermediary or provides advisory services for the purposes of this Part, the person holds professional indemnity insurance covering its consumer buy-to-let mortgage business in the United Kingdom, or some other comparable guarantee against liability arising from professional negligence, of at least the minimum monetary amount of such insurance or guarantee specified for mortgage intermediaries in the FCA’s Prudential sourcebook for Mortgage and Home Finance Firms, and Insurance Intermediaries as amended from time to time[^c-b8e3a95176eb3e037014ceed4358af84];
 - (g) the individuals responsible for the management or operation of the person's consumer buy-to-let mortgage business possess an appropriate level of knowledge and competence in relation to consumer buy-to-let mortgage contracts; and
 - (h) the person applies to the FCA in a manner that complies with the requirements of, and any requirements imposed under, article 9 for entry on the register.
 
@@ -486,7 +486,7 @@ The functions of the FCA under this Order are to be treated as functions conferr
 
 (1) Part 16 (the Ombudsman Scheme) of the 2000 Act applies in respect of a complaint relating to the act or omission of a registered consumer buy-to-let mortgage firm as if—
 
-- (a) in section 226(2)(b) of that Act (compulsory jurisdiction) [^c22479811], after “Payment Services Regulations 2017[^key-87380a2980a11ecba3b5f09ea972f86b],” there were inserted “ a registered consumer buy-to-let mortgage firm within the meaning of Part 3 of the Mortgage Credit Directive Order 2015, ”;
+- (a) in section 226(2)(b) of that Act (compulsory jurisdiction) [^c22479811], after “Payment Services Regulations 2017[^c-87380a2980a11ecba3b5f09ea972f86b],” there were inserted “ a registered consumer buy-to-let mortgage firm within the meaning of Part 3 of the Mortgage Credit Directive Order 2015, ”;
 - (b) in section 232A of that Act (scheme operator's duty to provide information to FCA) [^c22479821], after “FCA's operational objectives” there were inserted “ , or which might otherwise be of assistance to the FCA for the purposes of discharging any of the FCA's functions under Part 3 of the Mortgage Credit Directive Order 2015, ”;
 - (c) in section 234 of that Act (industry funding) [^c22479831], after “any electronic money issuer within the meaning of the Electronic Money Regulations 2011” there were inserted “ , any registered consumer buy-to-let mortgage firm within the meaning of Part 3 of the Mortgage Credit Directive Order 2015 ”;
 - (d) in paragraph 13(4) of Schedule 17 to that Act (FCA's procedural rules) [^c22479841], after “an electronic money issuer within the meaning of the Electronic Money Regulations 2011,” there were inserted “ a registered consumer buy-to-let mortgage firm within the meaning of the Mortgage Credit Directive Order 2015, ”.
@@ -495,11 +495,11 @@ The functions of the FCA under this Order are to be treated as functions conferr
 
 ### 27. Transitional provision: person with Part 4A permission to carry on an activity in relation to a regulated mortgage contract before 21st March 2016
 
-(1) Any person who immediately before 21st March 2016 had permission under Part 4A of the Act to carry on an activity of the kind specified by article 25A, 36A, 53A,[^key-04ea49941f162428df99d3a0135000de] 60B or 61 of the Regulated Activities Order is, from 21st March 2016, to be treated as having a Part 4A permission to carry on an activity of the kind specified by that article of the Regulated Activities Order as amended by this Order.
+(1) Any person who immediately before 21st March 2016 had permission under Part 4A of the Act to carry on an activity of the kind specified by article 25A, 36A, 53A,[^c-04ea49941f162428df99d3a0135000de] 60B or 61 of the Regulated Activities Order is, from 21st March 2016, to be treated as having a Part 4A permission to carry on an activity of the kind specified by that article of the Regulated Activities Order as amended by this Order.
 
 (2) Paragraph (1) does not affect the ability of the FCA or the PRA to vary or cancel a Part 4A permission under the Act.
 
-### 28. Transitional provision: agreements before 21st March 2016[^key-96c7c240ca229f16de18e2ae3f639867]
+### 28. Transitional provision: agreements before 21st March 2016[^c-96c7c240ca229f16de18e2ae3f639867]
 
 Where a credit agreement is entered into before 21st March 2016 and a further agreement relating to the same credit is to be entered into before the borrower is to be entitled to the credit, the following enactments do not apply to the agreements until immediately after the later agreement has been entered into—
 
@@ -509,7 +509,7 @@ Where a credit agreement is entered into before 21st March 2016 and a further ag
 
 ### 29. Transitional provision: consumer credit back book mortgage contracts
 
-(1) This article applies to a consumer credit back book mortgage contract other than one in relation to which the Consumer Credit Act 1974 applies as described in article 31(2)[^key-08970b0e7819fcf6f9cb8c8ef70a8ba1] .
+(1) This article applies to a consumer credit back book mortgage contract other than one in relation to which the Consumer Credit Act 1974 applies as described in article 31(2)[^c-08970b0e7819fcf6f9cb8c8ef70a8ba1] .
 
 (2) If the contract would be enforceable against the borrower only on an order of the court as a result of the application of any provision of the Consumer Credit Act 1974 [^c22479851] specified in paragraph (3), but for the amendments to legislation made by this Order, the contract is enforceable against the borrower only on an order of the court, and section 127 of the Consumer Credit Act 1974 (enforcement orders in cases of infringement) [^c22479861] applies in respect of the contract.
 
@@ -567,18 +567,18 @@ Where a credit agreement is entered into before 21st March 2016 and a further ag
 
 - (a) if made before 21st March 2016, the agreement would be a regulated consumer credit agreement;
 - (b) if made on or after 21st March 2016, the agreement would not be a regulated consumer credit agreement;
-- (c) neither the creditor nor any credit-broker has[^key-deba4e9573b1ef9e0ea8cbf06c69cc93] acted in compliance or in purported compliance with any provision of Part 5[^key-66251bb8221a45c11cae71d55ed5a5df] of the Consumer Credit Act 1974, or regulations made under that Part, in relation to the agreement or proposed agreement; and
-- (d) before 21st March 2016, the creditor or any credit-broker[^key-7482712a2ca27198d6f26e9d02b5aa09] acts in compliance or in purported compliance with rules made by the FCA that would apply in relation to the agreement or proposed agreement from 21st March 2016.
+- (c) neither the creditor nor any credit-broker has[^c-deba4e9573b1ef9e0ea8cbf06c69cc93] acted in compliance or in purported compliance with any provision of Part 5[^c-66251bb8221a45c11cae71d55ed5a5df] of the Consumer Credit Act 1974, or regulations made under that Part, in relation to the agreement or proposed agreement; and
+- (d) before 21st March 2016, the creditor or any credit-broker[^c-7482712a2ca27198d6f26e9d02b5aa09] acts in compliance or in purported compliance with rules made by the FCA that would apply in relation to the agreement or proposed agreement from 21st March 2016.
 
-(2) From the date on which the creditor or any credit-broker[^key-64319b810cb33232a91d33336a445f17] first acts in compliance or purported compliance with such rules, the Consumer Credit Act 1974 applies in relation to the agreement or proposed agreement as if the amendments to legislation made by paragraphs 2 and 4 of Schedule 1 (amendments to the Consumer Credit Act 1974 and the Regulated Activities Order) had come into force.
+(2) From the date on which the creditor or any credit-broker[^c-64319b810cb33232a91d33336a445f17] first acts in compliance or purported compliance with such rules, the Consumer Credit Act 1974 applies in relation to the agreement or proposed agreement as if the amendments to legislation made by paragraphs 2 and 4 of Schedule 1 (amendments to the Consumer Credit Act 1974 and the Regulated Activities Order) had come into force.
 
 (3) In this article—
 
-- “credit-broker” has the meaning given in section 189(1) of the Consumer Credit Act 1974;[^key-3963a93a144d50115649cb1d361003d0]
+- “credit-broker” has the meaning given in section 189(1) of the Consumer Credit Act 1974;[^c-3963a93a144d50115649cb1d361003d0]
 - “**creditor**” means a creditor within the meaning of section 8(1) of the Consumer Credit Act 1974 [^c22480031]; and
 - “**regulated consumer credit agreement**” means a regulated agreement within the meaning of section 8(3) of the Consumer Credit Act 1974.
 
-### 31A. Transitional provision: first charge mortgages entered into before 31st October 2004 which are regulated credit agreements immediately before 21st March 2016[^key-d60dc7424c4c593eb8a896dff342f821]
+### 31A. Transitional provision: first charge mortgages entered into before 31st October 2004 which are regulated credit agreements immediately before 21st March 2016[^c-d60dc7424c4c593eb8a896dff342f821]
 
 (1) This article applies to an agreement—
 
@@ -625,7 +625,7 @@ Where a credit agreement is entered into before 21st March 2016 and a further ag
 
 ## PART 5 — Review
 
-### 33. Review[^key-5bd594f9d0fc3c14d0be8cee328f32bc]
+### 33. Review[^c-5bd594f9d0fc3c14d0be8cee328f32bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -963,7 +963,7 @@ Article 3
 
 ### PART 2 — Amendments to secondary legislation
 
-#### 3. The Consumer Credit (Agreements) Regulations 1983[^key-3749e093303029228120c00f6327f550]
+#### 3. The Consumer Credit (Agreements) Regulations 1983[^c-3749e093303029228120c00f6327f550]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1739,7 +1739,7 @@ Any information provided to consumers in compliance with the requirements set ou
 
 - (a) open or maintain a payment or savings account where the only purpose of such an account is to accumulate capital to repay the credit, to service the credit, to pool resources to obtain the credit, or to provide additional security for the creditor in the event of default;
 - (b) purchase or keep an investment product or a private pension product, where such product which primarily offers the investor an income in retirement serves also to provide additional security for the creditor in the event of default or to accumulate capital to repay the credit, to service the credit or to pool resources to obtain the credit; or
-- (c) conclude a separate buy-to-let mortgage contract[^key-b79795a5bbb83f550e01fd68f13a0e05] in conjunction with a shared-equity buy-to-let mortgage contract to obtain the credit.
+- (c) conclude a separate buy-to-let mortgage contract[^c-b79795a5bbb83f550e01fd68f13a0e05] in conjunction with a shared-equity buy-to-let mortgage contract to obtain the credit.
 
 (3) Notwithstanding sub-paragraph (1), a creditor may offer or sell a consumer buy-to-let mortgage contract where the creditor can demonstrate to the FCA that the tied products or categories of product offered, on terms and conditions similar to each other, which are not made available separately, result in a clear benefit to a borrower taking due account of the availability and the prices of the relevant products offered on the market.
 
@@ -1753,7 +1753,7 @@ Any information provided to consumers in compliance with the requirements set ou
 
 - (a) the name and address of the creditor;
 - (b) the purposes for which the credit provided under the consumer buy-to-let mortgage contract may be used;
-- (c) the form of any security, including, where applicable, the possibility for it to be located outside the United Kingdom[^key-e06918eac65b3f7370aa152297c37cfd];
+- (c) the form of any security, including, where applicable, the possibility for it to be located outside the United Kingdom[^c-e06918eac65b3f7370aa152297c37cfd];
 - (d) the possible duration of the consumer buy-to-let mortgage contract;
 - (e) the types of available borrowing rate, indicating whether fixed or variable or both, with a short description of the characteristics of a fixed and variable rate, including related implications for the borrower;
 - (f) where foreign currency loans are available, an indication of the foreign currency or currencies, including an explanation of the implications for the borrower where the consumer buy-to-let mortgage contract is denominated in a foreign currency;
@@ -1771,7 +1771,7 @@ Any information provided to consumers in compliance with the requirements set ou
 (1) A creditor and, where applicable, a credit intermediary must provide a borrower with a lending illustration on paper or another durable medium—
 
 - (a) without undue delay after the borrower has given the necessary information on the borrower's needs, financial situation and preferences in accordance with paragraph 12; and
-- (b) in good time before the borrower is bound by any buy-to-let mortgage contract[^key-227e76d65bf16a80f9504efe300e9cb0] or offer.
+- (b) in good time before the borrower is bound by any buy-to-let mortgage contract[^c-227e76d65bf16a80f9504efe300e9cb0] or offer.
 
 (2) The lending illustration must include at least the following—
 
@@ -1789,7 +1789,7 @@ Any information provided to consumers in compliance with the requirements set ou
 - (l) the frequency and amount of each instalment and the number of instalments;
 - (m) the overall cost of the consumer buy-to-let mortgage contract;
 - (n) the annual percentage rate of charge;
-- (o) where the buy-to-let mortgage contract[^key-b922b9aa1626eda1c83b505841690584] allows for variations in the interest rate, either—
+- (o) where the buy-to-let mortgage contract[^c-b922b9aa1626eda1c83b505841690584] allows for variations in the interest rate, either—
   - (i) an illustration of how the annual percentage rate of charge might change in the event of an increase in the interest rate of 1%, and the resulting increase in the amount of each instalment; or
   - (ii) an additional annual percentage rate of charge which illustrates the possible risks for the borrower linked to a significant increase in the interest rate, including the possible increase in the amount of each instalment;
 - (p) details of any early repayment charges;
@@ -1841,11 +1841,11 @@ Any information provided to consumers in compliance with the requirements set ou
 
 (1) The annual percentage rate of charge must be calculated in accordance with the mathematical formula set out in paragraph 20.
 
-(2)[^key-aac8e40ef571fbb1790deffbb676de13] The costs of opening and maintaining a specific account, the costs of using a means of payment for both transactions and drawdowns on that account and other costs relating to payment transactions shall be included in the total cost of credit to the borrower whenever the opening or maintaining of an account is obligatory in order to obtain the credit or to obtain it on the terms and conditions marketed.
+(2)[^c-aac8e40ef571fbb1790deffbb676de13] The costs of opening and maintaining a specific account, the costs of using a means of payment for both transactions and drawdowns on that account and other costs relating to payment transactions shall be included in the total cost of credit to the borrower whenever the opening or maintaining of an account is obligatory in order to obtain the credit or to obtain it on the terms and conditions marketed.
 
-(3)[^key-aac8e40ef571fbb1790deffbb676de13] The calculation of the annual percentage rate of charge must be based on the assumption that the consumer buy-to-let mortgage contract is to remain valid for the period agreed and that the creditor and the borrower will fulfil their obligations under the terms and by the dates specified in that contract.
+(3)[^c-aac8e40ef571fbb1790deffbb676de13] The calculation of the annual percentage rate of charge must be based on the assumption that the consumer buy-to-let mortgage contract is to remain valid for the period agreed and that the creditor and the borrower will fulfil their obligations under the terms and by the dates specified in that contract.
 
-(4)[^key-aac8e40ef571fbb1790deffbb676de13] If the consumer buy-to-let mortgage contract allows variations in the borrowing rate and, where applicable, in the charges contained in the annual percentage rate of charge but unquantifiable at the time of calculation, the annual percentage rate of charge must be calculated on the assumption that the borrowing rate and other charges will remain fixed in relation to the level set at the conclusion of the contract.
+(4)[^c-aac8e40ef571fbb1790deffbb676de13] If the consumer buy-to-let mortgage contract allows variations in the borrowing rate and, where applicable, in the charges contained in the annual percentage rate of charge but unquantifiable at the time of calculation, the annual percentage rate of charge must be calculated on the assumption that the borrowing rate and other charges will remain fixed in relation to the level set at the conclusion of the contract.
 
 (5) Where applicable, the additional assumptions set out in paragraph 21 must be used in calculating the annual percentage rate of charge.
 
@@ -1853,7 +1853,7 @@ Any information provided to consumers in compliance with the requirements set ou
 
 - “**annual percentage rate of charge**” means the total cost of the credit to the borrower, expressed as an annual percentage of the total amount of credit, where applicable, including the costs referred to in sub-paragraph (2) and equates, on an annual basis, to the present value of all future or existing commitments (drawdowns, repayments and charges) agreed by the creditor and the borrower;
 - “**total amount of credit**” means the ceiling or total sums made available under the consumer buy-to-let mortgage contract;
-- “**total cost of credit to the borrower**” means all the costs which the borrower is required to pay in connection with the buy-to-let mortgage contract[^key-85f29853832d41b3a17ef3da9c8b4328] and which are known to the creditor, including the costs referred to in sub-paragraph (7) but excluding the costs referred to in sub-paragraph (8).
+- “**total cost of credit to the borrower**” means all the costs which the borrower is required to pay in connection with the buy-to-let mortgage contract[^c-85f29853832d41b3a17ef3da9c8b4328] and which are known to the creditor, including the costs referred to in sub-paragraph (7) but excluding the costs referred to in sub-paragraph (8).
 
 (7) The costs referred to in this sub-paragraph are—
 
@@ -1909,7 +1909,7 @@ A creditor must use reliable standards when carrying out a property valuation or
 (2) The information referred to in sub-paragraph (1) may include information obtained by the creditor from relevant internal or external sources, including one or more of the following—
 
 - (a) the borrower;
-- (b) any credit intermediary or relevant person[^key-f1904a9ecbc6c35aa3044e316001017e] which obtained information during the credit application process; and
+- (b) any credit intermediary or relevant person[^c-f1904a9ecbc6c35aa3044e316001017e] which obtained information during the credit application process; and
 - (c) a calculation developed by the creditor to demonstrate that the estimated rental income from the property will exceed the interest payments due by an amount sufficient to cover the estimated other costs associated with the property and its rental.
 
 (3) The information referred to in sub-paragraph (1) must be appropriately verified through reference to independently verifiable documentation when necessary.
@@ -1950,14 +1950,14 @@ A creditor must use reliable standards when carrying out a property valuation or
 
 (5) A creditor or credit intermediary must not use the term “independent advice” or “independent advisor” in the course of providing advisory services unless—
 
-- (a) the creditor or credit intermediary considers a sufficiently large number of buy-to-let mortgage contracts[^key-57a4920c5779f2c62058cbf5fa114a40] available on the market; and
+- (a) the creditor or credit intermediary considers a sufficiently large number of buy-to-let mortgage contracts[^c-57a4920c5779f2c62058cbf5fa114a40] available on the market; and
 - (b) if the number of creditors considered is less than a majority of the market, the creditor or credit intermediary is not remunerated for those advisory services by one or more creditors.
 
 #### Foreign currency loans and variable rate loans
 
 ##### 14. Foreign currency loans
 
-(1)[^key-2ddec925a4d63661c2416b4edc52abda] Where a borrower enters into a buy-to-let mortgage contract that is a foreign currency loan—
+(1)[^c-2ddec925a4d63661c2416b4edc52abda] Where a borrower enters into a buy-to-let mortgage contract that is a foreign currency loan—
 
 - (a) either the borrower must have a right to convert the contract into an alternative currency if conditions specified by the creditor are met, or the creditor must put in place other arrangements to limit the exchange risk to which the borrower is exposed under the contract; and
 - (b) if sub-paragraph (4) applies, the creditor must give the borrower, on a regular basis, foreign currency risk warnings.
@@ -1965,7 +1965,7 @@ A creditor must use reliable standards when carrying out a property valuation or
 (2) The creditor may specify the alternative currency referred to in sub-paragraph (1)(a), but it must be either—
 
 - (a) the currency in which the borrower primarily receives income or holds assets from which the credit is to be repaid, as indicated at the time the most recent creditworthiness assessment in relation to the contract was made; or
-- (b)[^key-563123d782313760f57131d7748f575c] pounds sterling.
+- (b)[^c-563123d782313760f57131d7748f575c] pounds sterling.
 
 (3) Where a borrower has a right to convert the contract into an alternative currency in accordance with sub-paragraph (1)(a), the exchange rate at which the conversion is carried out must be the market exchange rate applicable on the day of application for conversion, unless otherwise specified in the contract.
 
@@ -2085,7 +2085,7 @@ where—
 - [formula: see source](https://www.legislation.gov.uk/uksi/2015/910)
 - [formula: see source](https://www.legislation.gov.uk/uksi/2015/910)
 
-(2)[^key-8f9bcaa3633d7cefbb50050a4d20dea2] The following remarks apply to the equation set out in sub-paragraph (1)—
+(2)[^c-8f9bcaa3633d7cefbb50050a4d20dea2] The following remarks apply to the equation set out in sub-paragraph (1)—
 
 - (a) the amounts paid by both parties at different times shall not necessarily be equal and shall not necessarily be paid at equal intervals;
 - (b) the starting date must be that of the first drawdown;
@@ -2107,7 +2107,7 @@ where—
   where *s* is the present balance of flows;
 - (h) for the purposes of paragraph (g), if the aim is to maintain the equivalence of flows, the value of *s* will be zero.
 
-##### 21. Additional assumptions for the calculation of the annual percentage rate of charge[^key-f2c9c92ae4b51fc579985d0f7be0b0a2]
+##### 21. Additional assumptions for the calculation of the annual percentage rate of charge[^c-f2c9c92ae4b51fc579985d0f7be0b0a2]
 
 (1) The following additional assumptions apply for the purposes of calculating the annual percentage rate of charge.
 
@@ -2123,12 +2123,12 @@ where—
 
 (7) If the ceiling applicable to the credit has not yet been agreed, that ceiling is assumed to be—
 
-- (a) in the case of buy-to-let mortgage contracts[^key-98624508ac9f1678469442ebac478798], other than contingent liabilities or guarantees, the purpose of which is not to acquire or retain a right in immovable property or land, overdrafts, deferred debit cards or credit cards, EUR 1,500; and
+- (a) in the case of buy-to-let mortgage contracts[^c-98624508ac9f1678469442ebac478798], other than contingent liabilities or guarantees, the purpose of which is not to acquire or retain a right in immovable property or land, overdrafts, deferred debit cards or credit cards, EUR 1,500; and
 - (b) in all other cases, EUR 170,000.
 
 (8) In the case of buy-to-let mortgage contracts other than overdrafts, bridging loans, shared equity buy-to-let mortgage contracts, contingent liabilities or guarantees and open-ended buy-to-let mortgage contracts as referred to in the assumptions set out in sub-paragraphs (10), (11), (12), (16) and (17)—
 
-- (a) if the date or amount of a repayment of capital to be made by the borrower cannot be ascertained, it must be assumed that the repayment is made at the earliest date provided for in the buy-to-let mortgage contract[^key-8c283653b4368de59cfae8f054a4aec3] and is for the lowest amount for which the buy-to-let mortgage contract provides; and
+- (a) if the date or amount of a repayment of capital to be made by the borrower cannot be ascertained, it must be assumed that the repayment is made at the earliest date provided for in the buy-to-let mortgage contract[^c-8c283653b4368de59cfae8f054a4aec3] and is for the lowest amount for which the buy-to-let mortgage contract provides; and
 - (b) if the interval between the date of initial drawdown and the date of the first payment to be made by the borrower cannot be ascertained, it must be assumed to be the shortest interval.
 
 (9) Where the date or amount of a payment to be made by the borrower cannot be ascertained on the basis of the buy-to-let mortgage contract or the assumptions set out in sub-paragraphs (8), (10), (11), (12), (16) and (17) it must be assumed that the payment is made in accordance with the dates and conditions required by the creditor and, when these are unknown—
@@ -2165,9 +2165,9 @@ where—
 (17) In the case of a shared equity buy-to-let mortgage contract—
 
 - (a) the payments by borrowers must be deemed to occur at the latest date or dates permitted under the buy-to-let mortgage contract; and
-- (b) percentage increases in value of the immovable property which secures the shared equity buy-to-let mortgage contract, and the rate of any inflation index referred to in the contract[^key-54ab4ada05e2a3dfc22e6b06e1ca042e], shall be assumed to be a percentage equal to the higher of the current Bank of England[^key-d54f80068420d10ee81051518f24564a] target inflation rate or the level of inflation rate in the United Kingdom[^key-42b3ffec3ac6cdb864a5619cf733d65f] at the time of conclusion of the buy-to-let mortgage contract or 0% if those percentages are negative.
+- (b) percentage increases in value of the immovable property which secures the shared equity buy-to-let mortgage contract, and the rate of any inflation index referred to in the contract[^c-54ab4ada05e2a3dfc22e6b06e1ca042e], shall be assumed to be a percentage equal to the higher of the current Bank of England[^c-d54f80068420d10ee81051518f24564a] target inflation rate or the level of inflation rate in the United Kingdom[^c-42b3ffec3ac6cdb864a5619cf733d65f] at the time of conclusion of the buy-to-let mortgage contract or 0% if those percentages are negative.
 
-(18)[^key-52f1eadac32b081a73784d5e24ffb976] In this paragraph “total amount of credit” has the meaning given in paragraph 9(6).
+(18)[^c-52f1eadac32b081a73784d5e24ffb976] In this paragraph “total amount of credit” has the meaning given in paragraph 9(6).
 
 *(This note is not part of the Order)*
 
@@ -2187,7 +2187,7 @@ A full Impact Assessment of the effect that this Order will have on the costs of
 
 ## Annotations
 
-[^key-5bd594f9d0fc3c14d0be8cee328f32bc]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/910) revoked (14.12.2023 for the revocation of art. 33) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xiii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xiii)
+[^c-5bd594f9d0fc3c14d0be8cee328f32bc]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/910) revoked (14.12.2023 for the revocation of art. 33) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xiii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xiii)
 
 [^c22479301]: Marginal citation: [S.I. 2012/1759](https://www.legislation.gov.uk/uksi/2012/1759).
 
@@ -2205,7 +2205,7 @@ A full Impact Assessment of the effect that this Order will have on the costs of
 
 [^c22479371]: Marginal citation: [Section 14A](https://www.legislation.gov.uk/uksi/2015/910/section/14A) of the [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) (inserted by section 59 of the [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24)) provides that, where an Act provides a power to make subordinate legislation, that subordinate legislation may include a requirement to review the effectiveness of the legislation.
 
-[^key-07492ee7e14e22828b3795535bdd129b]: Modification: [Order](https://www.legislation.gov.uk/uksi/2015/910): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-07492ee7e14e22828b3795535bdd129b]: Modification: [Order](https://www.legislation.gov.uk/uksi/2015/910): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^c22479381]: Marginal citation: [Articles 36A](https://www.legislation.gov.uk/uksi/2015/910/article/36A) and 60B were inserted by [S.I. 2003/1881](https://www.legislation.gov.uk/uksi/2003/1881).
 
@@ -2219,27 +2219,27 @@ A full Impact Assessment of the effect that this Order will have on the costs of
 
 [^c22479431]: Marginal citation: [Paragraph 20(1)](https://www.legislation.gov.uk/uksi/2015/910/paragraph/20/1) was previously amended by paragraph 11 of Schedule 4 to the Financial Services Act 2012 and by [S.I. 2007/3253](https://www.legislation.gov.uk/uksi/2007/3253) and 2013/1773.
 
-[^key-05a0b992d230ae260e7c13bbbabfddfa]: Textual amendment: Word in art. 2(1) omitted (20.9.2015) by virtue of [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/2/a)
+[^c-05a0b992d230ae260e7c13bbbabfddfa]: Textual amendment: Word in art. 2(1) omitted (20.9.2015) by virtue of [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/2/a)
 
-[^key-b261ab13c081ef8c06645f7e3d7bc717]: Textual amendment: Words in art. 2(1) inserted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/2/b)
+[^c-b261ab13c081ef8c06645f7e3d7bc717]: Textual amendment: Words in art. 2(1) inserted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/2/b)
 
-[^key-0a2244f00b350f7ab8aaa0a7c94a204c]: Textual amendment: Art. 2(1): text amended (17.3.2016 for specified purposes, 21.3.2016 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/c), [8(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/392/article/8/2/a/i) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
+[^c-0a2244f00b350f7ab8aaa0a7c94a204c]: Textual amendment: Art. 2(1): text amended (17.3.2016 for specified purposes, 21.3.2016 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/c), [8(2)(a)(i)](https://www.legislation.gov.uk/uksi/2016/392/article/8/2/a/i) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
 
-[^key-23a48c33f171bd5180162fd099946d8d]: Textual amendment: Words in art. 2(1) omitted (17.3.2016 for specified purposes, 21.3.2016 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/c), [8(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/392/article/8/2/a/ii) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
+[^c-23a48c33f171bd5180162fd099946d8d]: Textual amendment: Words in art. 2(1) omitted (17.3.2016 for specified purposes, 21.3.2016 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/c), [8(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/392/article/8/2/a/ii) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
 
-[^key-200096ec3ce9d57b6fa5ce2956d1dcd5]: Textual amendment: Words in art. 2(1) substituted (17.3.2016 for specified purposes, 21.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/c), [8(2)(b)](https://www.legislation.gov.uk/uksi/2016/392/article/8/2/b) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
+[^c-200096ec3ce9d57b6fa5ce2956d1dcd5]: Textual amendment: Words in art. 2(1) substituted (17.3.2016 for specified purposes, 21.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/c), [8(2)(b)](https://www.legislation.gov.uk/uksi/2016/392/article/8/2/b) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
 
 [^c22479441]: Marginal citation: OJ L 60, 28.2.2014, p.34.
 
 [^c22479451]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 
-[^key-add2ea8e03950ce91329b4316450c306]: Textual amendment: Words in [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/910/article/2/2/a) inserted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2019/656/regulation/4/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-add2ea8e03950ce91329b4316450c306]: Textual amendment: Words in [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/910/article/2/2/a) inserted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2019/656/regulation/4/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b362bcfe817b9e1813bb2a6c93e41eea]: Textual amendment: [Art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2015/910/article/2/3) inserted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b362bcfe817b9e1813bb2a6c93e41eea]: Textual amendment: [Art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2015/910/article/2/3) inserted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f1cfc8163d8304c5302b0a5211c522e6]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2015/910/article/3A) inserted (17.3.2016 for specified purposes, 21.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/c), [8(3)](https://www.legislation.gov.uk/uksi/2016/392/article/8/3) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
+[^c-f1cfc8163d8304c5302b0a5211c522e6]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2015/910/article/3A) inserted (17.3.2016 for specified purposes, 21.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/c), [8(3)](https://www.legislation.gov.uk/uksi/2016/392/article/8/3) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
 
-[^key-58114ea4afc7af4dae41021593c1da65]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2015/910/article/4/1) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/656/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58114ea4afc7af4dae41021593c1da65]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2015/910/article/4/1) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2019/656/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22479461]: Marginal citation: Article 61(2) was amended by [S.I. 2001/3544](https://www.legislation.gov.uk/uksi/2001/3544).
 
@@ -2247,21 +2247,21 @@ A full Impact Assessment of the effect that this Order will have on the costs of
 
 [^c22479481]: Marginal citation: Section 388 was amended by paragraphs 1 and 27 of Schedule 9 to the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and by paragraph 13 of Schedule 3 to the [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33).
 
-[^key-2e1e8360e16490493b16d77542bb9f11]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2015/910/article/4/1) inserted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/656/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e1e8360e16490493b16d77542bb9f11]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2015/910/article/4/1) inserted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/656/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22479491]: Marginal citation: Article 61A is inserted by paragraph 4 of the Schedule to this Order.
 
-[^key-2dea16835f4170778dee281a1ce38aa7]: Textual amendment: Word in [art. 4(1)](https://www.legislation.gov.uk/uksi/2015/910/article/4/1) omitted (31.12.2020) by virtue of [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/uksi/2019/656/regulation/5/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2dea16835f4170778dee281a1ce38aa7]: Textual amendment: Word in [art. 4(1)](https://www.legislation.gov.uk/uksi/2015/910/article/4/1) omitted (31.12.2020) by virtue of [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/uksi/2019/656/regulation/5/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b294462d37b0a96bc7160f4d76b8a277]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2015/910/article/4/1) inserted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/uksi/2019/656/regulation/5/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b294462d37b0a96bc7160f4d76b8a277]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2015/910/article/4/1) inserted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [5(2)(c)](https://www.legislation.gov.uk/uksi/2019/656/regulation/5/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22479501]: Marginal citation: Section 387 was amended by paragraphs 1 and 26 of Schedule 9 to the Financial Services Act 2012 and paragraph 12 of Schedule 3 to the Financial Services (Banking Reform) Act 2013.
 
-[^key-e897d29770bdeb96662211eb1d96be9b]: Textual amendment: [Art. 4(1A)](https://www.legislation.gov.uk/uksi/2015/910/article/4/1A) inserted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2019/656/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e897d29770bdeb96662211eb1d96be9b]: Textual amendment: [Art. 4(1A)](https://www.legislation.gov.uk/uksi/2015/910/article/4/1A) inserted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2019/656/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22479511]: Marginal citation: [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881). Article 56 was amended by [S.I. 2014/366](https://www.legislation.gov.uk/uksi/2014/366) and 376.
 
-[^key-b8e3a95176eb3e037014ceed4358af84]: Textual amendment: Words in [art. 8(3)(f)](https://www.legislation.gov.uk/uksi/2015/910/article/8/3/f) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/656/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b8e3a95176eb3e037014ceed4358af84]: Textual amendment: Words in [art. 8(3)(f)](https://www.legislation.gov.uk/uksi/2015/910/article/8/3/f) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/656/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22479531]: Marginal citation: Section 39 was amended by section 10 of, and paragraph 5 of Schedule 18 to, the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and 2013/3115.
 
@@ -2321,7 +2321,7 @@ A full Impact Assessment of the effect that this Order will have on the costs of
 
 [^c22479811]: Marginal citation: Section 226 was amended by paragraph 1 of Schedule 11 to the Financial Services Act 2012 and by [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209) and 2011/99.
 
-[^key-87380a2980a11ecba3b5f09ea972f86b]: Textual amendment: Word in art. 26(1)(a) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 22](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/22) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-87380a2980a11ecba3b5f09ea972f86b]: Textual amendment: Word in art. 26(1)(a) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 22](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/22) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
 [^c22479821]: Marginal citation: Section 232A was inserted by paragraph 9 of Schedule 11 to the Financial Services Act 2012.
 
@@ -2329,11 +2329,11 @@ A full Impact Assessment of the effect that this Order will have on the costs of
 
 [^c22479841]: Marginal citation: Paragraph 13 was amended by paragraphs 13 and 24 of Schedule 11 to the Financial Services Act 2012 and by [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209) and 2011/99.
 
-[^key-04ea49941f162428df99d3a0135000de]: Textual amendment: Word in art. 27(1) inserted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/3)
+[^c-04ea49941f162428df99d3a0135000de]: Textual amendment: Word in art. 27(1) inserted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/3)
 
-[^key-96c7c240ca229f16de18e2ae3f639867]: Textual amendment: Art. 28 substituted (17.3.2016 for specified purposes, 21.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/c), [8(4)](https://www.legislation.gov.uk/uksi/2016/392/article/8/4) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
+[^c-96c7c240ca229f16de18e2ae3f639867]: Textual amendment: Art. 28 substituted (17.3.2016 for specified purposes, 21.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/c), [8(4)](https://www.legislation.gov.uk/uksi/2016/392/article/8/4) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
 
-[^key-08970b0e7819fcf6f9cb8c8ef70a8ba1]: Textual amendment: Words in [art. 29(1)](https://www.legislation.gov.uk/uksi/2015/910/article/29/1) inserted (17.3.2016 for specified purposes, 21.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/c), [8(5)](https://www.legislation.gov.uk/uksi/2016/392/article/8/5) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
+[^c-08970b0e7819fcf6f9cb8c8ef70a8ba1]: Textual amendment: Words in [art. 29(1)](https://www.legislation.gov.uk/uksi/2015/910/article/29/1) inserted (17.3.2016 for specified purposes, 21.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/c), [8(5)](https://www.legislation.gov.uk/uksi/2016/392/article/8/5) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
 
 [^c22479851]: Marginal citation: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
 
@@ -2371,19 +2371,19 @@ A full Impact Assessment of the effect that this Order will have on the costs of
 
 [^c22480021]: Marginal citation: Section 8(3) was substituted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
-[^key-deba4e9573b1ef9e0ea8cbf06c69cc93]: Textual amendment: Words in art. 31(1)(c) substituted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/4/a/i)
+[^c-deba4e9573b1ef9e0ea8cbf06c69cc93]: Textual amendment: Words in art. 31(1)(c) substituted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/4/a/i)
 
-[^key-66251bb8221a45c11cae71d55ed5a5df]: Textual amendment: Words in art. 31(1)(c) substituted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/4/a/ii)
+[^c-66251bb8221a45c11cae71d55ed5a5df]: Textual amendment: Words in art. 31(1)(c) substituted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/4/a/ii)
 
-[^key-7482712a2ca27198d6f26e9d02b5aa09]: Textual amendment: Words in art. 31(1)(d) inserted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/4/b)
+[^c-7482712a2ca27198d6f26e9d02b5aa09]: Textual amendment: Words in art. 31(1)(d) inserted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/4/b)
 
-[^key-64319b810cb33232a91d33336a445f17]: Textual amendment: Words in art. 31(2) inserted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/4/b)
+[^c-64319b810cb33232a91d33336a445f17]: Textual amendment: Words in art. 31(2) inserted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/4/b)
 
-[^key-3963a93a144d50115649cb1d361003d0]: Textual amendment: Words in art. 31(3) inserted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/4/c)
+[^c-3963a93a144d50115649cb1d361003d0]: Textual amendment: Words in art. 31(3) inserted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/4/c)
 
 [^c22480031]: Marginal citation: Section 8(1) was amended by section 2 of the Consumer Credit Act 2006.
 
-[^key-d60dc7424c4c593eb8a896dff342f821]: Textual amendment: [Art. 31A](https://www.legislation.gov.uk/uksi/2015/910/article/31A) inserted (17.3.2016 for specified purposes, 21.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/c), [8(6)](https://www.legislation.gov.uk/uksi/2016/392/article/8/6) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
+[^c-d60dc7424c4c593eb8a896dff342f821]: Textual amendment: [Art. 31A](https://www.legislation.gov.uk/uksi/2015/910/article/31A) inserted (17.3.2016 for specified purposes, 21.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(c)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/c), [8(6)](https://www.legislation.gov.uk/uksi/2016/392/article/8/6) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
 
 [^c22480041]: Marginal citation: Article 53A was inserted by [S.I. 2003/1475](https://www.legislation.gov.uk/uksi/2003/1475).
 
@@ -2453,7 +2453,7 @@ A full Impact Assessment of the effect that this Order will have on the costs of
 
 [^c22480371]: Marginal citation: OJ L 133, 22.5.2008, p. 66; [Article 2(2a)](https://www.legislation.gov.uk/uksi/2015/910/article/2/2a) was inserted by article 46 of Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014 on credit agreements for consumers relating to residential immovable property (OJ L 60, 28.2.2014, p.34).
 
-[^key-3749e093303029228120c00f6327f550]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/3) omitted (20.9.2015) by virtue of [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/5)
+[^c-3749e093303029228120c00f6327f550]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/3) omitted (20.9.2015) by virtue of [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/5)
 
 [^c22480391]: Marginal citation: [Article 3](https://www.legislation.gov.uk/uksi/2015/910/article/3) was amended by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and 2013/3115; there are other amendments to article 3 but none is relevant to this Order.
 
@@ -2559,38 +2559,38 @@ A full Impact Assessment of the effect that this Order will have on the costs of
 
 [^c22480901]: Marginal citation: [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881). Article 58 was amended by [S.I. 2014/208](https://www.legislation.gov.uk/uksi/2014/208), 366, 506 and 2632.
 
-[^key-b79795a5bbb83f550e01fd68f13a0e05]: Textual amendment: Words in [Sch. 2 para. 4(2)(c)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/4/2/c) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/1/a)[(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b79795a5bbb83f550e01fd68f13a0e05]: Textual amendment: Words in [Sch. 2 para. 4(2)(c)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/4/2/c) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/1/a)[(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e06918eac65b3f7370aa152297c37cfd]: Textual amendment: Words in [Sch. 2 para. 5(2)(c)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/5/2/c) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2019/656/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e06918eac65b3f7370aa152297c37cfd]: Textual amendment: Words in [Sch. 2 para. 5(2)(c)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/5/2/c) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2019/656/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-227e76d65bf16a80f9504efe300e9cb0]: Textual amendment: Words in [Sch. 2 para. 6(1)(b)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/6/1/b) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/1/a)[(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-227e76d65bf16a80f9504efe300e9cb0]: Textual amendment: Words in [Sch. 2 para. 6(1)(b)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/6/1/b) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/1/a)[(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b922b9aa1626eda1c83b505841690584]: Textual amendment: Words in [Sch. 2 para. 6(2)(o)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/6/2/o) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/1/a)[(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b922b9aa1626eda1c83b505841690584]: Textual amendment: Words in [Sch. 2 para. 6(2)(o)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/6/2/o) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/1/a)[(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aac8e40ef571fbb1790deffbb676de13]: Modification: [Sch. 2 para. 9(2)-(4)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/9/2): power to amend conferred (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2019/656/regulation/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aac8e40ef571fbb1790deffbb676de13]: Modification: [Sch. 2 para. 9(2)-(4)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/9/2): power to amend conferred (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2019/656/regulation/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-85f29853832d41b3a17ef3da9c8b4328]: Textual amendment: Words in [Sch. 2 para. 9(6)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/9/6) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/1/a)[(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-85f29853832d41b3a17ef3da9c8b4328]: Textual amendment: Words in [Sch. 2 para. 9(6)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/9/6) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/1/a)[(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f1904a9ecbc6c35aa3044e316001017e]: Textual amendment: Words in [Sch. 2 para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/12/2/b) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2019/656/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1904a9ecbc6c35aa3044e316001017e]: Textual amendment: Words in [Sch. 2 para. 12(2)(b)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/12/2/b) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2019/656/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-57a4920c5779f2c62058cbf5fa114a40]: Textual amendment: Words in [Sch. 2 para. 13(5)(a)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/13/5/a) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(1)(b)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/1/b)[(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57a4920c5779f2c62058cbf5fa114a40]: Textual amendment: Words in [Sch. 2 para. 13(5)(a)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/13/5/a) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(1)(b)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/1/b)[(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2ddec925a4d63661c2416b4edc52abda]: Textual amendment: [Sch. 2 para. 14(1)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/14/1) substituted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/6)
+[^c-2ddec925a4d63661c2416b4edc52abda]: Textual amendment: [Sch. 2 para. 14(1)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/14/1) substituted (20.9.2015) by [The Mortgage Credit Directive (Amendment) Order 2015 (S.I. 2015/1557)](https://www.legislation.gov.uk/uksi/2015/1557), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1557/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2015/1557/article/2/6)
 
-[^key-563123d782313760f57131d7748f575c]: Textual amendment: [Sch. 2 para. 14(2)(b)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/14/2/b) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/656/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-563123d782313760f57131d7748f575c]: Textual amendment: [Sch. 2 para. 14(2)(b)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/14/2/b) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/656/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8f9bcaa3633d7cefbb50050a4d20dea2]: Modification: [Sch. 2 para. 20(2)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/20/2): power to amend conferred (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2019/656/regulation/14); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f9bcaa3633d7cefbb50050a4d20dea2]: Modification: [Sch. 2 para. 20(2)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/20/2): power to amend conferred (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2019/656/regulation/14); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f2c9c92ae4b51fc579985d0f7be0b0a2]: Modification: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/21): power to amend conferred (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2019/656/regulation/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2c9c92ae4b51fc579985d0f7be0b0a2]: Modification: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/21): power to amend conferred (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2019/656/regulation/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-98624508ac9f1678469442ebac478798]: Textual amendment: Words in [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/21) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(1)(b)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/1/b)[(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-98624508ac9f1678469442ebac478798]: Textual amendment: Words in [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/21) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(1)(b)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/1/b)[(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8c283653b4368de59cfae8f054a4aec3]: Textual amendment: Words in [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/21) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/1/a)[(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8c283653b4368de59cfae8f054a4aec3]: Textual amendment: Words in [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/21) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/1/a)[(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-54ab4ada05e2a3dfc22e6b06e1ca042e]: Textual amendment: Words in [Sch. 2 para. 21(17)(b)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/21/17/b) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-54ab4ada05e2a3dfc22e6b06e1ca042e]: Textual amendment: Words in [Sch. 2 para. 21(17)(b)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/21/17/b) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2019/656/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d54f80068420d10ee81051518f24564a]: Textual amendment: Words in [Sch. 2 para. 21(17)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/21/17) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [12(a)(i)](https://www.legislation.gov.uk/uksi/2019/656/regulation/12/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d54f80068420d10ee81051518f24564a]: Textual amendment: Words in [Sch. 2 para. 21(17)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/21/17) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [12(a)(i)](https://www.legislation.gov.uk/uksi/2019/656/regulation/12/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-42b3ffec3ac6cdb864a5619cf733d65f]: Textual amendment: Words in [Sch. 2 para. 21(17)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/21/17) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2019/656/regulation/12/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-42b3ffec3ac6cdb864a5619cf733d65f]: Textual amendment: Words in [Sch. 2 para. 21(17)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/21/17) substituted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [12(a)(ii)](https://www.legislation.gov.uk/uksi/2019/656/regulation/12/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-52f1eadac32b081a73784d5e24ffb976]: Textual amendment: [Sch. 2 para. 21(18)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/21/18) inserted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2019/656/regulation/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52f1eadac32b081a73784d5e24ffb976]: Textual amendment: [Sch. 2 para. 21(18)](https://www.legislation.gov.uk/uksi/2015/910/schedule/2/paragraph/21/18) inserted (31.12.2020) by [The Mortgage Credit (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/656)](https://www.legislation.gov.uk/uksi/2019/656), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2019/656/regulation/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

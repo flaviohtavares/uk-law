@@ -35,16 +35,16 @@ amending Article 25 of Regulation (EC) No 1272/2008 of the European Parliament a
 
 (Text with EEA relevance) (revoked)
 
-[^key-eb5efe09257a3135872ff0f83fdac29b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb5efe09257a3135872ff0f83fdac29b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-eb5efe09257a3135872ff0f83fdac29b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-eb5efe09257a3135872ff0f83fdac29b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-eb5efe09257a3135872ff0f83fdac29b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-eb5efe09257a3135872ff0f83fdac29b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eb5efe09257a3135872ff0f83fdac29b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb5efe09257a3135872ff0f83fdac29b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eb5efe09257a3135872ff0f83fdac29b]: Textual amendment: Regulation revoked (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Classification, Labelling and Packaging of Substances and Mixtures (Amendment and Consequential Provision) Regulations 2023 (S.I. 2023/1344)](https://www.legislation.gov.uk/uksi/2023/1344), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1344/regulation/3/c)
+[^c-eb5efe09257a3135872ff0f83fdac29b]: Textual amendment: Regulation revoked (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Classification, Labelling and Packaging of Substances and Mixtures (Amendment and Consequential Provision) Regulations 2023 (S.I. 2023/1344)](https://www.legislation.gov.uk/uksi/2023/1344), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/1344/regulation/3/c)

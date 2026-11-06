@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.149. Enforcement of trustee's obligations to official receiver[^key-1085cf9e9a232a1b1706a30f45a95aea]
+## 6.149. Enforcement of trustee's obligations to official receiver[^c-1085cf9e9a232a1b1706a30f45a95aea]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1085cf9e9a232a1b1706a30f45a95aea]: Commencement: [Rule 6.149](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.149) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1085cf9e9a232a1b1706a30f45a95aea]: Commencement: [Rule 6.149](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.149) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

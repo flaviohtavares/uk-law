@@ -42,7 +42,7 @@ an assessment of an amount or further amount of tax due as a result of the condi
 
 within 60 days of coming to know of it.
 
-(5)[^key-73064d5b2ddf6f92094005df4275c077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-73064d5b2ddf6f92094005df4275c077] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) A notice under subsection (5) may specify a time (not less than 60 days) within which the required information must be provided.
 
@@ -50,4 +50,4 @@ within 60 days of coming to know of it.
 
 [^c19138171]: Textual amendment: Words in s. 75(4)(5) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 50](https://www.legislation.gov.uk/ukpga/2005/11/section/50), [53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 132(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/132/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/h)
 
-[^key-73064d5b2ddf6f92094005df4275c077]: Textual amendment: S. 75(5) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/42)
+[^c-73064d5b2ddf6f92094005df4275c077]: Textual amendment: S. 75(5) omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/42)

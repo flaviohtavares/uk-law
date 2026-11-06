@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Prescribed trade unions and associations[^key-7f2f2e20ca3d8b44a218693b4cb587a7]
+## 10. Prescribed trade unions and associations[^c-7f2f2e20ca3d8b44a218693b4cb587a7]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - The British Association of Removers;
 - The Freight Transport Association;
-- GMB[^key-6311d9648a83555009e8878dc237dbb3];
+- GMB[^c-6311d9648a83555009e8878dc237dbb3];
 - The National Union of Rail, Maritime and Transport Workers;
 - The Road Haulage Association;
 - The Transport and General Workers’ Union;
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7f2f2e20ca3d8b44a218693b4cb587a7]: Commencement: Reg. 10 in force at 1.1.1996, see reg. 1
+[^c-7f2f2e20ca3d8b44a218693b4cb587a7]: Commencement: Reg. 10 in force at 1.1.1996, see reg. 1
 
-[^key-6311d9648a83555009e8878dc237dbb3]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/1995/2869/regulation/10/2) substituted (5.10.2017) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2017 (S.I. 2017/874)](https://www.legislation.gov.uk/uksi/2017/874), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/874/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2017/874/regulation/4)
+[^c-6311d9648a83555009e8878dc237dbb3]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/1995/2869/regulation/10/2) substituted (5.10.2017) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2017 (S.I. 2017/874)](https://www.legislation.gov.uk/uksi/2017/874), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/874/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2017/874/regulation/4)

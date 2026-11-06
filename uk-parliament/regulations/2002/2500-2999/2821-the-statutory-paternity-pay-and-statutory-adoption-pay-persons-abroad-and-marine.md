@@ -45,24 +45,24 @@ Coming into force
 
 [^M_C_b306f6e4-8394-40c1-abf0-248a36134042][^M_C_5d739d7f-01ac-4c7a-c17e-116aceb39d71]The Secretary of State, in exercise of the powers conferred upon her by virtue of sections 171ZI, 171ZJ(1), 171ZR and 171ZS(1) of the Social Security Contributions and Benefits Act 1992[^f00001] and with the concurrence of the Treasury, by this instrument, which contains only provision made by virtue of sections 2 and 4 of the Employment Act 2002[^f00002] and is made before the end of the period of 6 months from the coming into force of those enactments, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-76cdc2850b347c0ee2c8c3ec9813e0e4]
+## 1. Citation, commencement and interpretation[^c-76cdc2850b347c0ee2c8c3ec9813e0e4]
 
 (1) These Regulations may be cited as the Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 and shall come into force on 8th December 2002.
 
 (2) In these Regulations—
 
 - “the Act” means the Social Security Contributions and Benefits Act 1992;
-- [^key-af595b2559ccaabddbe313d74414b01b]...
-- [^key-af595b2559ccaabddbe313d74414b01b]...
-- “[^key-43a87a9580a21f0a2198e7201600e0c8]**adopter**”, in relation to a child, means the person with whom a child is, or is expected to be, placed for adoption under the law of the United Kingdom;
+- [^c-af595b2559ccaabddbe313d74414b01b]...
+- [^c-af595b2559ccaabddbe313d74414b01b]...
+- “[^c-43a87a9580a21f0a2198e7201600e0c8]**adopter**”, in relation to a child, means the person with whom a child is, or is expected to be, placed for adoption under the law of the United Kingdom;
 - “the Contributions Regulations” means the Social Security Contributions Regulations 2001[^f00003];
 - “EEA” means European Economic Area;
 - “EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00004] as adjusted by Protocol signed at Brussels on 17th March 1993[^f00005];
 - “EEA State” means a State which is a contracting party to the EEA Agreement;
-- “foreign-going ship” means any ship or vessel which is not a home-trade ship;[^key-d0cb9579e8e8699afa935132df1a06bb]
+- “foreign-going ship” means any ship or vessel which is not a home-trade ship;[^c-d0cb9579e8e8699afa935132df1a06bb]
 - “the General Regulations” means the Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations 2002[^f00006];
 - [^M_F_4398dc35-8d0f-4188-816f-8dddc9cf6163]...
-- “home-trade ship” includes—[^key-3d72dd956d3cd55dbd98d901af64b3a2]
+- “home-trade ship” includes—[^c-3d72dd956d3cd55dbd98d901af64b3a2]
   - (a) every ship or vessel employed in trading or going within the following limits, that is to say, the United Kingdom (including for this purpose the Republic of Ireland), the Channel Islands, the Isle of Man, and the continent of Europe between the river Elbe and Brest inclusive;
   - (b) every fishing vessel not proceeding beyond the following limits—
     - on the South, Latitude 48°30’N,
@@ -73,15 +73,15 @@ Coming into force
   - (b) the contract is entered into in the United Kingdom with a view to its performance (in whole or in part) while the ship or vessel is on her voyage;
 
   but does not include a person in so far as their employment is as a serving member of the forces;
-- “[^key-49c3fef7b25b8ab3b848b7d5f4097cb3]... statutory paternity pay (adoption)” means statutory paternity pay payable in accordance with the provisions of Part 12ZA of the Act where the conditions specified in section 171ZB(2) of the Act are satisfied;
-- “[^key-11688a81e50f269b72598aa9d7411dad]... statutory paternity pay (birth)” means statutory paternity pay payable in accordance with the provisions of Part 12ZA of the Act where the conditions specified in section 171ZA(2) of the Act are satisfied;
-- “[^key-6bffc59911c9a354ee6a66216bfe0d01]**placed for adoption**” means—
+- “[^c-49c3fef7b25b8ab3b848b7d5f4097cb3]... statutory paternity pay (adoption)” means statutory paternity pay payable in accordance with the provisions of Part 12ZA of the Act where the conditions specified in section 171ZB(2) of the Act are satisfied;
+- “[^c-11688a81e50f269b72598aa9d7411dad]... statutory paternity pay (birth)” means statutory paternity pay payable in accordance with the provisions of Part 12ZA of the Act where the conditions specified in section 171ZA(2) of the Act are satisfied;
+- “[^c-6bffc59911c9a354ee6a66216bfe0d01]**placed for adoption**” means—
   - (a) placed for adoption under the Adoption and Children Act 2002 or the Adoption and Children (Scotland) Act 2007 ; or
   - (b) placed in accordance with section 22C of the Children Act 1989 with a local authority foster parent who is also a prospective adopter;
 - “serving member of the forces” means a person, other than one mentioned in Part 2 of the Schedule, who, being over the age of 16, is a member of any establishment or organisation specified in Part 1 of that Schedule (being a member who gives full pay service) but does not include any such person while absent on desertion;
 - “week” means a period of 7 days beginning with Sunday.
 
-(3)[^key-9d4fcd113ba5c8cd6629c4f145d23ffd] For the purposes of these Regulations—
+(3)[^c-9d4fcd113ba5c8cd6629c4f145d23ffd] For the purposes of these Regulations—
 
 - (a) a person is matched with a child for adoption when an adoption agency decides that that person would be a suitable adoptive parent for the child;
 - (b) in a case where paragraph (a) applies, a person is notified as having been matched with a child on the date that person receives notification of the agency's decision, under regulation 33(3)(a) of the Adoption Agencies Regulations 2005, regulation 28(3) of the Adoption Agencies (Wales) Regulations 2005 or regulation 8(5) of the Adoption Agencies (Scotland) Regulations 2009;
@@ -92,51 +92,51 @@ Coming into force
 
 (3B) The reference to “adoption agency” in paragraph (3) has the meaning given, in relation to England and Wales, by section 2 of the Adoption and Children Act 2002 and in relation to Scotland, by section 119(1) of the Adoption and Children (Scotland) Act 2007.
 
-(4)[^key-6e2869d5d277b2eee8eda1b6ec386a23] For the purposes of these Regulations, the expressions “ship” and “ship or vessel” include hovercraft, except in regulation 8(3).
+(4)[^c-6e2869d5d277b2eee8eda1b6ec386a23] For the purposes of these Regulations, the expressions “ship” and “ship or vessel” include hovercraft, except in regulation 8(3).
 
-## 2. Restriction on scope[^key-343fcd7c78aefe29dac890024b386d3c]
+## 2. Restriction on scope[^c-343fcd7c78aefe29dac890024b386d3c]
 
-A person who would not be treated under regulation 32 of the General Regulations as an employee for the purposes of Parts 12ZA ([^key-70104bbf52b9a0e84d5624404e87db0e][^key-405351962ab035f8b4139d61631511cf]... statutory paternity pay) and 12ZB (statutory adoption pay) of the Act if his employment were in Great Britain shall not be treated as an employee under these Regulations.
+A person who would not be treated under regulation 32 of the General Regulations as an employee for the purposes of Parts 12ZA ([^c-70104bbf52b9a0e84d5624404e87db0e][^c-405351962ab035f8b4139d61631511cf]... statutory paternity pay) and 12ZB (statutory adoption pay) of the Act if his employment were in Great Britain shall not be treated as an employee under these Regulations.
 
-## 3. Treatment of persons in ... EEA States as employees[^key-acf4fa78fdfd9c40ce2fe12c787ed522][^key-166c90acba4e230681f257c08b1acd5a]
+## 3. Treatment of persons in ... EEA States as employees[^c-acf4fa78fdfd9c40ce2fe12c787ed522][^c-166c90acba4e230681f257c08b1acd5a]
 
 A person who is—
 
-- (a) gainfully employed in an EEA State [^key-e7e06fa3c80af389213e72fe69a29f77]... in such circumstances that, if his employment were in Great Britain, he would be an employee for the purposes of Parts 12ZA and 12ZB of the Act, or a person treated as such an employee under regulation 32 of the General Regulations; and
-- (b) subject to the legislation of the United Kingdom under Council Regulation [(EEC) No. 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408)[^f00009] as amended from time to time or Regulation[^key-3649a29fc13344760129b59f301c75a4] [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004 as amended from time to time on the coordination of social security systems,
+- (a) gainfully employed in an EEA State [^c-e7e06fa3c80af389213e72fe69a29f77]... in such circumstances that, if his employment were in Great Britain, he would be an employee for the purposes of Parts 12ZA and 12ZB of the Act, or a person treated as such an employee under regulation 32 of the General Regulations; and
+- (b) subject to the legislation of the United Kingdom under Council Regulation [(EEC) No. 1408/71](https://www.legislation.gov.uk/european/regulation/1971/1408)[^f00009] as amended from time to time or Regulation[^c-3649a29fc13344760129b59f301c75a4] [(EC) No 883/2004](https://www.legislation.gov.uk/european/regulation/2004/0883) of the European Parliament and of the Council of 29 April 2004 as amended from time to time on the coordination of social security systems,
 
 notwithstanding that he is not employed in Great Britain, shall be treated as an employee for the purposes of Parts 12ZA and 12ZB of the Act.
 
-## 4. Treatment of certain persons absent from Great Britain as employees[^key-3d91f57593863b81569de094b0c1764d]
+## 4. Treatment of certain persons absent from Great Britain as employees[^c-3d91f57593863b81569de094b0c1764d]
 
 Subject to regulation 8(3), where a person, while absent from Great Britain for any purpose, is gainfully employed by an employer who is liable to pay secondary Class 1 contributions in respect of his employment under section 6 of the Act or regulation 146 of the Contributions Regulations, he shall be treated as an employee for the purposes of Parts 12ZA and 12ZB of the Act.
 
-## 5. Entitlement to statutory paternity pay where person has worked in an EEA State[^key-f6fd64fe92b1f678d9774aa1ba7793c0][^key-0cd685abad99a8f539fbd3e9135c623d]
+## 5. Entitlement to statutory paternity pay where person has worked in an EEA State[^c-f6fd64fe92b1f678d9774aa1ba7793c0][^c-0cd685abad99a8f539fbd3e9135c623d]
 
 (1) A person who is an employee or treated as an employee under regulation 3 and who—
 
 - (a) in the week immediately preceding the 14th week before the expected week of the child’s birth was in employed earner’s employment with an employer in Great Britain; and
-- (b) had in any week within the period of 26 weeks immediately preceding that week been employed by the same employer in an[^key-6e51cf1392b343c2031185e572153510] EEA State,
+- (b) had in any week within the period of 26 weeks immediately preceding that week been employed by the same employer in an[^c-6e51cf1392b343c2031185e572153510] EEA State,
 
-shall be treated for the purposes of section 171ZA of the Act (entitlement to statutory paternity pay (birth))[^key-c0debeb20bdc89e8cce56296694f5f15] [^key-de2601e04c338e675e30e0a796b61c7d]... as having been employed in employed earner’s employment in those weeks in which the person was so employed in the[^key-f2d7f40033b5ddadea9dcbe5eb302575] EEA State.
+shall be treated for the purposes of section 171ZA of the Act (entitlement to statutory paternity pay (birth))[^c-c0debeb20bdc89e8cce56296694f5f15] [^c-de2601e04c338e675e30e0a796b61c7d]... as having been employed in employed earner’s employment in those weeks in which the person was so employed in the[^c-f2d7f40033b5ddadea9dcbe5eb302575] EEA State.
 
 (2) A person who is an employee or treated as an employee under regulation 3 and who—
 
 - (a) in the week in which the adopter is notified of being matched with the child for purposes of adoption was in employed earner’s employment with an employer in Great Britain; and
-- (b) had in any week within the period of 26 weeks immediately preceding that week been employed by the same employer in an[^key-8be06e3421a4b53272f19f1ed14d5236] EEA State,
+- (b) had in any week within the period of 26 weeks immediately preceding that week been employed by the same employer in an[^c-8be06e3421a4b53272f19f1ed14d5236] EEA State,
 
-shall be treated for the purposes of section 171ZB of the Act (entitlement to statutory paternity pay (adoption))[^key-9114bc76c7861cc80a348d3cc5c85304] [^key-624f02381f05fdad8d7d88c8182e81ca]... as having been employed in employed earner’s employment in those weeks in which the person was so employed in the[^key-5e31aa4f39b6dc1d21243d15d75b57a3] EEA State.
+shall be treated for the purposes of section 171ZB of the Act (entitlement to statutory paternity pay (adoption))[^c-9114bc76c7861cc80a348d3cc5c85304] [^c-624f02381f05fdad8d7d88c8182e81ca]... as having been employed in employed earner’s employment in those weeks in which the person was so employed in the[^c-5e31aa4f39b6dc1d21243d15d75b57a3] EEA State.
 
-## 6. Entitlement to statutory adoption pay where person has worked in an EEA State[^key-28dae69e1699cc834f21f4a6a843753a]
+## 6. Entitlement to statutory adoption pay where person has worked in an EEA State[^c-28dae69e1699cc834f21f4a6a843753a]
 
 A person who is an employee or treated as an employee under regulation 3 and who—
 
 - (a) in the week in which he is notified that he has been matched with the child for the purposes of adoption was in employed earner’s employment with an employer in Great Britain; and
-- (b) had in any week within the period of 26 weeks immediately preceding that week been employed by the same employer in an[^key-5c8588512b716fac9774c3e02c77b9c7] EEA State,
+- (b) had in any week within the period of 26 weeks immediately preceding that week been employed by the same employer in an[^c-5c8588512b716fac9774c3e02c77b9c7] EEA State,
 
-shall be treated for the purposes of section 171ZL of the Act (entitlement to statutory adoption pay) as having been employed in employed earner’s employment in those weeks in which he was so employed in the[^key-8d7339a60595c7c6508f597ec3b07b60] EEA State.
+shall be treated for the purposes of section 171ZL of the Act (entitlement to statutory adoption pay) as having been employed in employed earner’s employment in those weeks in which he was so employed in the[^c-8d7339a60595c7c6508f597ec3b07b60] EEA State.
 
-## 7. Time for compliance with Parts 12ZA and 12ZB of the Act or regulations made under them[^key-4bcf2986b2263c0dde444fc7ade2d183]
+## 7. Time for compliance with Parts 12ZA and 12ZB of the Act or regulations made under them[^c-4bcf2986b2263c0dde444fc7ade2d183]
 
 Where—
 
@@ -146,9 +146,9 @@ Where—
 
 the person or the employer, as the case may be, shall be deemed to have complied with it if the act is performed as soon as reasonably practicable.
 
-## 8. Mariners[^key-4b5fb5f36a806ea343edc4040e32ca55]
+## 8. Mariners[^c-4b5fb5f36a806ea343edc4040e32ca55]
 
-(1)[^key-6a8a5b54ec564a22fa1b367b08934191] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-6a8a5b54ec564a22fa1b367b08934191] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A mariner engaged in employment on board a home-trade ship with an employer who has a place of business within the United Kingdom shall be treated as an employee for the purposes of Parts 12ZA and 12ZB of the Act, notwithstanding that he may not be employed in Great Britain.
 
@@ -159,7 +159,7 @@ the person or the employer, as the case may be, shall be deemed to have complied
 
 shall not be treated as an employee for the purposes of Parts 12ZA and 12ZB of the Act, notwithstanding that he may have been employed in Great Britain.
 
-## 9. Continental shelf[^key-5324335979a4d47db30f11f76c4eb5f1]
+## 9. Continental shelf[^c-5324335979a4d47db30f11f76c4eb5f1]
 
 (1) In this regulation—
 
@@ -186,7 +186,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 13th November 2002
 
-## SCHEDULE[^key-745fd85c7080757581b863b56a73fbd1]
+## SCHEDULE[^c-745fd85c7080757581b863b56a73fbd1]
 
 ### PART 1
 
@@ -248,11 +248,11 @@ Regulation 8 treats certain classes of mariners as employees for the purposes of
 
 [^f00002]: Footnote: [2002 c. 22](https://www.legislation.gov.uk/ukpga/2002/22).
 
-[^key-76cdc2850b347c0ee2c8c3ec9813e0e4]: Commencement: Reg. 1 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
+[^c-76cdc2850b347c0ee2c8c3ec9813e0e4]: Commencement: Reg. 1 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
 
-[^key-af595b2559ccaabddbe313d74414b01b]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(2)(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/2/a) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-af595b2559ccaabddbe313d74414b01b]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(2)(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/2/a) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-43a87a9580a21f0a2198e7201600e0c8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/2) substituted (1.12.2014) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations 2014 (S.I. 2014/3134)](https://www.legislation.gov.uk/uksi/2014/3134), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3134/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2014/3134/regulation/13/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2014/3134/regulation/3), [4](https://www.legislation.gov.uk/uksi/2014/3134/regulation/4))
+[^c-43a87a9580a21f0a2198e7201600e0c8]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/2) substituted (1.12.2014) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations 2014 (S.I. 2014/3134)](https://www.legislation.gov.uk/uksi/2014/3134), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3134/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2014/3134/regulation/13/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2014/3134/regulation/3), [4](https://www.legislation.gov.uk/uksi/2014/3134/regulation/4))
 
 [^f00003]: Footnote: S.I. [2001/1004](https://www.legislation.gov.uk/uksi/2001/1004).
 
@@ -260,76 +260,76 @@ Regulation 8 treats certain classes of mariners as employees for the purposes of
 
 [^f00005]: Footnote: Cm. 2183 and OJ No. L 1, 3.1.1994, p. 572.
 
-[^key-d0cb9579e8e8699afa935132df1a06bb]: Textual amendment: Words in reg. 1(2) inserted (6.4.2010) by [The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010 (S.I. 2010/151)](https://www.legislation.gov.uk/uksi/2010/151), [regs. 1](https://www.legislation.gov.uk/uksi/2010/151/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2010/151/regulation/3/4)
+[^c-d0cb9579e8e8699afa935132df1a06bb]: Textual amendment: Words in reg. 1(2) inserted (6.4.2010) by [The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010 (S.I. 2010/151)](https://www.legislation.gov.uk/uksi/2010/151), [regs. 1](https://www.legislation.gov.uk/uksi/2010/151/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2010/151/regulation/3/4)
 
 [^f00006]: Footnote: S.I. [2002/2822](https://www.legislation.gov.uk/uksi/2002/2822).
 
 [^M_F_4398dc35-8d0f-4188-816f-8dddc9cf6163]: Textual amendment: Words in reg. 1(2) omitted (6.4.2010) by virtue of [The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010 (S.I. 2010/151)](https://www.legislation.gov.uk/uksi/2010/151), [regs. 1](https://www.legislation.gov.uk/uksi/2010/151/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2010/151/regulation/3/5)
 
-[^key-3d72dd956d3cd55dbd98d901af64b3a2]: Textual amendment: Words in reg. 1(2) inserted (6.4.2010) by [The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010 (S.I. 2010/151)](https://www.legislation.gov.uk/uksi/2010/151), [regs. 1](https://www.legislation.gov.uk/uksi/2010/151/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2010/151/regulation/3/5)
+[^c-3d72dd956d3cd55dbd98d901af64b3a2]: Textual amendment: Words in reg. 1(2) inserted (6.4.2010) by [The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010 (S.I. 2010/151)](https://www.legislation.gov.uk/uksi/2010/151), [regs. 1](https://www.legislation.gov.uk/uksi/2010/151/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2010/151/regulation/3/5)
 
-[^key-49c3fef7b25b8ab3b848b7d5f4097cb3]: Textual amendment: Word in [reg. 1](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(2)(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/2/b) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-49c3fef7b25b8ab3b848b7d5f4097cb3]: Textual amendment: Word in [reg. 1](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(2)(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/2/b) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-11688a81e50f269b72598aa9d7411dad]: Textual amendment: Word in [reg. 1](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(2)(c)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/2/c) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-11688a81e50f269b72598aa9d7411dad]: Textual amendment: Word in [reg. 1](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(2)(c)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/2/c) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-6bffc59911c9a354ee6a66216bfe0d01]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/3) inserted (1.12.2014) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations 2014 (S.I. 2014/3134)](https://www.legislation.gov.uk/uksi/2014/3134), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3134/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2014/3134/regulation/13/3) (with [regs. 3](https://www.legislation.gov.uk/uksi/2014/3134/regulation/3), [4](https://www.legislation.gov.uk/uksi/2014/3134/regulation/4))
+[^c-6bffc59911c9a354ee6a66216bfe0d01]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/3) inserted (1.12.2014) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations 2014 (S.I. 2014/3134)](https://www.legislation.gov.uk/uksi/2014/3134), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3134/regulation/1), [13(3)](https://www.legislation.gov.uk/uksi/2014/3134/regulation/13/3) (with [regs. 3](https://www.legislation.gov.uk/uksi/2014/3134/regulation/3), [4](https://www.legislation.gov.uk/uksi/2014/3134/regulation/4))
 
-[^key-9d4fcd113ba5c8cd6629c4f145d23ffd]: Textual amendment: Reg. 1(3)-(3B) substituted for reg. 1(3) (1.12.2014) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations 2014 (S.I. 2014/3134)](https://www.legislation.gov.uk/uksi/2014/3134), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3134/regulation/1), [14](https://www.legislation.gov.uk/uksi/2014/3134/regulation/14) (with [regs. 3](https://www.legislation.gov.uk/uksi/2014/3134/regulation/3), [4](https://www.legislation.gov.uk/uksi/2014/3134/regulation/4))
+[^c-9d4fcd113ba5c8cd6629c4f145d23ffd]: Textual amendment: Reg. 1(3)-(3B) substituted for reg. 1(3) (1.12.2014) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations 2014 (S.I. 2014/3134)](https://www.legislation.gov.uk/uksi/2014/3134), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3134/regulation/1), [14](https://www.legislation.gov.uk/uksi/2014/3134/regulation/14) (with [regs. 3](https://www.legislation.gov.uk/uksi/2014/3134/regulation/3), [4](https://www.legislation.gov.uk/uksi/2014/3134/regulation/4))
 
-[^key-6e2869d5d277b2eee8eda1b6ec386a23]: Textual amendment: Reg. 1(4) inserted (6.4.2010) by [The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010 (S.I. 2010/151)](https://www.legislation.gov.uk/uksi/2010/151), [regs. 1](https://www.legislation.gov.uk/uksi/2010/151/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2010/151/regulation/3/7)
+[^c-6e2869d5d277b2eee8eda1b6ec386a23]: Textual amendment: Reg. 1(4) inserted (6.4.2010) by [The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010 (S.I. 2010/151)](https://www.legislation.gov.uk/uksi/2010/151), [regs. 1](https://www.legislation.gov.uk/uksi/2010/151/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2010/151/regulation/3/7)
 
-[^key-343fcd7c78aefe29dac890024b386d3c]: Commencement: Reg. 2 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
+[^c-343fcd7c78aefe29dac890024b386d3c]: Commencement: Reg. 2 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
 
-[^key-70104bbf52b9a0e84d5624404e87db0e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2821/regulation/2) substituted (6.4.2010) by [The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010 (S.I. 2010/151)](https://www.legislation.gov.uk/uksi/2010/151), [regs. 1](https://www.legislation.gov.uk/uksi/2010/151/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/151/regulation/4)
+[^c-70104bbf52b9a0e84d5624404e87db0e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2821/regulation/2) substituted (6.4.2010) by [The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010 (S.I. 2010/151)](https://www.legislation.gov.uk/uksi/2010/151), [regs. 1](https://www.legislation.gov.uk/uksi/2010/151/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/151/regulation/4)
 
-[^key-405351962ab035f8b4139d61631511cf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2821/regulation/2) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/3) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-405351962ab035f8b4139d61631511cf]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2821/regulation/2) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/3) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-acf4fa78fdfd9c40ce2fe12c787ed522]: Commencement: Reg. 3 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
+[^c-acf4fa78fdfd9c40ce2fe12c787ed522]: Commencement: Reg. 3 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
 
-[^key-166c90acba4e230681f257c08b1acd5a]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2002/2821/regulation/3) heading omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/11/a) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-166c90acba4e230681f257c08b1acd5a]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2002/2821/regulation/3) heading omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 11(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/11/a) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7e06fa3c80af389213e72fe69a29f77]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/3/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 11(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/11/b) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7e06fa3c80af389213e72fe69a29f77]: Textual amendment: Words in [reg. 3(a)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/3/a) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 11(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/11/b) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: *See* OJ No. L 28, 30.1.1997, p. 1.
 
-[^key-3649a29fc13344760129b59f301c75a4]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/3/b) inserted (5.3.2019) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/2), [Sch. 1 para. 11(c)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/11/c) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22))
+[^c-3649a29fc13344760129b59f301c75a4]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/3/b) inserted (5.3.2019) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/2), [Sch. 1 para. 11(c)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/11/c) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22))
 
-[^key-3d91f57593863b81569de094b0c1764d]: Commencement: Reg. 4 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
+[^c-3d91f57593863b81569de094b0c1764d]: Commencement: Reg. 4 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
 
-[^key-f6fd64fe92b1f678d9774aa1ba7793c0]: Textual amendment: Reg. 5 substituted (6.4.2010) by [The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010 (S.I. 2010/151)](https://www.legislation.gov.uk/uksi/2010/151), [regs. 1](https://www.legislation.gov.uk/uksi/2010/151/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/151/regulation/5)
+[^c-f6fd64fe92b1f678d9774aa1ba7793c0]: Textual amendment: Reg. 5 substituted (6.4.2010) by [The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010 (S.I. 2010/151)](https://www.legislation.gov.uk/uksi/2010/151), [regs. 1](https://www.legislation.gov.uk/uksi/2010/151/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/151/regulation/5)
 
-[^key-0cd685abad99a8f539fbd3e9135c623d]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5) heading substituted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(4)(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/4/a) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-0cd685abad99a8f539fbd3e9135c623d]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5) heading substituted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(4)(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/4/a) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-6e51cf1392b343c2031185e572153510]: Textual amendment: Word in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/1/b) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 12(a)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/12/a/i) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6e51cf1392b343c2031185e572153510]: Textual amendment: Word in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/1/b) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 12(a)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/12/a/i) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c0debeb20bdc89e8cce56296694f5f15]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/1) substituted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(4)(b)(i)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/4/b/i) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-c0debeb20bdc89e8cce56296694f5f15]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/1) substituted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(4)(b)(i)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/4/b/i) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-de2601e04c338e675e30e0a796b61c7d]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/4/b/ii) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-de2601e04c338e675e30e0a796b61c7d]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/1) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/4/b/ii) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-f2d7f40033b5ddadea9dcbe5eb302575]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 12(a)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/12/a/ii) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2d7f40033b5ddadea9dcbe5eb302575]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/1) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 12(a)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/12/a/ii) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8be06e3421a4b53272f19f1ed14d5236]: Textual amendment: Word in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/2/b) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 12(b)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/12/b/i) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8be06e3421a4b53272f19f1ed14d5236]: Textual amendment: Word in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/2/b) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 12(b)(i)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/12/b/i) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9114bc76c7861cc80a348d3cc5c85304]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/2) substituted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(4)(c)(i)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/4/c/i) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-9114bc76c7861cc80a348d3cc5c85304]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/2) substituted (5.4.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(4)(c)(i)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/4/c/i) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-624f02381f05fdad8d7d88c8182e81ca]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/2) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/4/c/ii) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-624f02381f05fdad8d7d88c8182e81ca]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/2) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [13(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2014/3255/article/13/4/c/ii) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
-[^key-5e31aa4f39b6dc1d21243d15d75b57a3]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/2) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 12(b)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/12/b/ii) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e31aa4f39b6dc1d21243d15d75b57a3]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/5/2) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 12(b)(ii)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/12/b/ii) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-28dae69e1699cc834f21f4a6a843753a]: Commencement: Reg. 6 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
+[^c-28dae69e1699cc834f21f4a6a843753a]: Commencement: Reg. 6 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
 
-[^key-5c8588512b716fac9774c3e02c77b9c7]: Textual amendment: Word in [reg. 6(b)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/6/b) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/13/a) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c8588512b716fac9774c3e02c77b9c7]: Textual amendment: Word in [reg. 6(b)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/6/b) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 13(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/13/a) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8d7339a60595c7c6508f597ec3b07b60]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2002/2821/regulation/6) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 13(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/13/b) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d7339a60595c7c6508f597ec3b07b60]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2002/2821/regulation/6) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 13(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/13/b) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4bcf2986b2263c0dde444fc7ade2d183]: Commencement: Reg. 7 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
+[^c-4bcf2986b2263c0dde444fc7ade2d183]: Commencement: Reg. 7 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
 
-[^key-4b5fb5f36a806ea343edc4040e32ca55]: Commencement: Reg. 8 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
+[^c-4b5fb5f36a806ea343edc4040e32ca55]: Commencement: Reg. 8 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
 
-[^key-6a8a5b54ec564a22fa1b367b08934191]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/8/1) omitted (6.4.2010) by virtue of [The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010 (S.I. 2010/151)](https://www.legislation.gov.uk/uksi/2010/151), [regs. 1](https://www.legislation.gov.uk/uksi/2010/151/regulation/1), [6](https://www.legislation.gov.uk/uksi/2010/151/regulation/6)
+[^c-6a8a5b54ec564a22fa1b367b08934191]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/8/1) omitted (6.4.2010) by virtue of [The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010 (S.I. 2010/151)](https://www.legislation.gov.uk/uksi/2010/151), [regs. 1](https://www.legislation.gov.uk/uksi/2010/151/regulation/1), [6](https://www.legislation.gov.uk/uksi/2010/151/regulation/6)
 
-[^key-5324335979a4d47db30f11f76c4eb5f1]: Commencement: Reg. 9 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
+[^c-5324335979a4d47db30f11f76c4eb5f1]: Commencement: Reg. 9 in force at 8.12.2002, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/2821/regulation/1/1)
 
 [^f00010]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).
 
-[^key-745fd85c7080757581b863b56a73fbd1]: Textual amendment: Sch. inserted (6.4.2010) by [The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010 (S.I. 2010/151)](https://www.legislation.gov.uk/uksi/2010/151), [reg. 1](https://www.legislation.gov.uk/uksi/2010/151/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/151/schedule)
+[^c-745fd85c7080757581b863b56a73fbd1]: Textual amendment: Sch. inserted (6.4.2010) by [The Statutory Paternity Pay and Statutory Adoption Pay (Persons Abroad and Mariners) Regulations 2002 (Amendment) Regulations 2010 (S.I. 2010/151)](https://www.legislation.gov.uk/uksi/2010/151), [reg. 1](https://www.legislation.gov.uk/uksi/2010/151/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/151/schedule)

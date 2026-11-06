@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Purchase by company of its own shares: definition of “off-market” and “market” purchase[^key-705131b3ce24964b1485fb86f35650df]
+## 6. Purchase by company of its own shares: definition of “off-market” and “market” purchase[^c-705131b3ce24964b1485fb86f35650df]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-705131b3ce24964b1485fb86f35650df]: Commencement: Art. 6 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-705131b3ce24964b1485fb86f35650df]: Commencement: Art. 6 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00013]: Footnote: Amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60), Schedule 16, paragraph 17.

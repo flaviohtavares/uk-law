@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 311A. Duty of HMRC to notify persons of reference number[^key-773a39e302fe125f1e0f419d8dea633f]
+## 311A. Duty of HMRC to notify persons of reference number[^c-773a39e302fe125f1e0f419d8dea633f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-773a39e302fe125f1e0f419d8dea633f]: Textual amendment: Ss. 311-311C substituted for s. 311 (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/5), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-773a39e302fe125f1e0f419d8dea633f]: Textual amendment: Ss. 311-311C substituted for s. 311 (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/5), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)

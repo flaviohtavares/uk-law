@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208. Application of section 205 to specified law enforcement employer[^key-47c8c6b44e0161ba97b174c0ccce3fbb][^key-68c33d68a07e9addea5f572a722689f0]
+## 208. Application of section 205 to specified law enforcement employer[^c-47c8c6b44e0161ba97b174c0ccce3fbb][^c-68c33d68a07e9addea5f572a722689f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47c8c6b44e0161ba97b174c0ccce3fbb]: Commencement: S. 208 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-47c8c6b44e0161ba97b174c0ccce3fbb]: Commencement: S. 208 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-68c33d68a07e9addea5f572a722689f0]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2026/20/section/208) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/f)
+[^c-68c33d68a07e9addea5f572a722689f0]: Commencement: [S. 208](https://www.legislation.gov.uk/ukpga/2026/20/section/208) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/f)

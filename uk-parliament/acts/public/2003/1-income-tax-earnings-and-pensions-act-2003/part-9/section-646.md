@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the provision of coal or smokeless fuel—
   - (i) to a former colliery worker, or
-  - (ii) to the widow or widower or surviving civil partner[^key-6454521253f966d6a68eb0d78122e792] of a former colliery worker, or
+  - (ii) to the widow or widower or surviving civil partner[^c-6454521253f966d6a68eb0d78122e792] of a former colliery worker, or
 - (b) any allowance paid to such a person in lieu of such provision,
 
 if the condition in subsection (2) is met.
@@ -40,4 +40,4 @@ if the condition in subsection (2) is met.
 
 ## Annotations
 
-[^key-6454521253f966d6a68eb0d78122e792]: Textual amendment: Words in s. 646(1)(a)(ii) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [162](https://www.legislation.gov.uk/uksi/2005/3229/regulation/162)
+[^c-6454521253f966d6a68eb0d78122e792]: Textual amendment: Words in s. 646(1)(a)(ii) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [162](https://www.legislation.gov.uk/uksi/2005/3229/regulation/162)

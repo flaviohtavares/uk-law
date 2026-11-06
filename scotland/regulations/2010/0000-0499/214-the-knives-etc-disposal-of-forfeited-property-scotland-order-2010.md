@@ -46,20 +46,20 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 27K(7) and (8)(a) of the Civic Government (Scotland) Act 1982[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and Commencement[^key-9f7466bd34670b683c472eea1d81d76f]
+## 1. Citation and Commencement[^c-9f7466bd34670b683c472eea1d81d76f]
 
 This Order may be cited as the Knives etc. (Disposal of Forfeited Property) (Scotland) Order 2010 and comes into force on 25th June 2010.
 
-## 2. Interpretation[^key-26493925c5c1435572605f2d7f380095]
+## 2. Interpretation[^c-26493925c5c1435572605f2d7f380095]
 
 In this Order—
 
 - “the Act” means the Civic Government (Scotland) Act 1982;
 - “museum or similar institution” means any institution to which the public are given access which has as its purpose, or one of its purposes, the preservation and display of material of historical, aesthetic or technical interest;
 - “property” means property in the possession of the police by virtue of section 27K(2) of the Act; and
-- [^key-e1a3381c31f13db772651b433dd5bf88]...
+- [^c-e1a3381c31f13db772651b433dd5bf88]...
 
-## 3. Property to which this Order applies[^key-f05ff04ca6ee1c0326df1ed61a1ade0c]
+## 3. Property to which this Order applies[^c-f05ff04ca6ee1c0326df1ed61a1ade0c]
 
 (1) Subject to paragraph (2), this Order applies to property in respect of which—
 
@@ -73,9 +73,9 @@ In this Order—
 
 this Order does not apply to the property unless and until that application or appeal has been refused.
 
-## 4. Disposal of Property[^key-432916b14b468bdd134402f1abaa217e]
+## 4. Disposal of Property[^c-432916b14b468bdd134402f1abaa217e]
 
-(1) Subject to paragraphs (4) to (6) below, rights in the property will vest in the Scottish Police Authority[^key-b993998230bc1d271598f836c659b8cf] where either the appeal or application (as the case may be) referred to in article 3 is refused or where [^key-05766c66b10919b41b47a540bbfbd1cc]... section 27K(6) of the Act applies (rights lost at the end of 6 months).
+(1) Subject to paragraphs (4) to (6) below, rights in the property will vest in the Scottish Police Authority[^c-b993998230bc1d271598f836c659b8cf] where either the appeal or application (as the case may be) referred to in article 3 is refused or where [^c-05766c66b10919b41b47a540bbfbd1cc]... section 27K(6) of the Act applies (rights lost at the end of 6 months).
 
 (2) Subject to paragraphs (3) and (4) below, property to which this Order applies must be destroyed by the police.
 
@@ -113,16 +113,16 @@ The Lord Advocate has a right to apply for the property to be vested in any pers
 
 [^f00001]: Footnote: [1982 c.45](https://www.legislation.gov.uk/ukpga/1982/45). Section 27K was inserted by section 58 of the [Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)](https://www.legislation.gov.uk/asp/2007/17).
 
-[^key-9f7466bd34670b683c472eea1d81d76f]: Commencement: Art. 1 in force at 25.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/214/article/1)
+[^c-9f7466bd34670b683c472eea1d81d76f]: Commencement: Art. 1 in force at 25.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/214/article/1)
 
-[^key-26493925c5c1435572605f2d7f380095]: Commencement: Art. 2 in force at 25.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/214/article/1)
+[^c-26493925c5c1435572605f2d7f380095]: Commencement: Art. 2 in force at 25.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/214/article/1)
 
-[^key-e1a3381c31f13db772651b433dd5bf88]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2010/214/article/2) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 35(2)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/35/2)
+[^c-e1a3381c31f13db772651b433dd5bf88]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2010/214/article/2) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 35(2)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/35/2)
 
-[^key-f05ff04ca6ee1c0326df1ed61a1ade0c]: Commencement: Art. 3 in force at 25.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/214/article/1)
+[^c-f05ff04ca6ee1c0326df1ed61a1ade0c]: Commencement: Art. 3 in force at 25.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/214/article/1)
 
-[^key-432916b14b468bdd134402f1abaa217e]: Commencement: Art. 4 in force at 25.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/214/article/1)
+[^c-432916b14b468bdd134402f1abaa217e]: Commencement: Art. 4 in force at 25.6.2010, see [art. 1](https://www.legislation.gov.uk/ssi/2010/214/article/1)
 
-[^key-b993998230bc1d271598f836c659b8cf]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/ssi/2010/214/article/4) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 35(3)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/35/3)
+[^c-b993998230bc1d271598f836c659b8cf]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/ssi/2010/214/article/4) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 35(3)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/35/3)
 
-[^key-05766c66b10919b41b47a540bbfbd1cc]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/ssi/2010/214/article/4/1) omitted (28.9.2010) by virtue of [The Knife Dealer’s Licence (Miscellaneous) (Scotland) Order 2010 (S.S.I. 2010/311)](https://www.legislation.gov.uk/ssi/2010/311), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2010/311/article/1/3), [3(2)](https://www.legislation.gov.uk/ssi/2010/311/article/3/2)
+[^c-05766c66b10919b41b47a540bbfbd1cc]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/ssi/2010/214/article/4/1) omitted (28.9.2010) by virtue of [The Knife Dealer’s Licence (Miscellaneous) (Scotland) Order 2010 (S.S.I. 2010/311)](https://www.legislation.gov.uk/ssi/2010/311), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2010/311/article/1/3), [3(2)](https://www.legislation.gov.uk/ssi/2010/311/article/3/2)

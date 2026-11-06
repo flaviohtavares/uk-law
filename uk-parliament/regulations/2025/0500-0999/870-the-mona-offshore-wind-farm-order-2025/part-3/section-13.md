@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Temporary closure of public rights of way[^key-327d915ef23e4dac21da8d2ae7ec9a96]
+## 13. Temporary closure of public rights of way[^c-327d915ef23e4dac21da8d2ae7ec9a96]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-327d915ef23e4dac21da8d2ae7ec9a96]: Commencement: Art. 13 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-327d915ef23e4dac21da8d2ae7ec9a96]: Commencement: Art. 13 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)

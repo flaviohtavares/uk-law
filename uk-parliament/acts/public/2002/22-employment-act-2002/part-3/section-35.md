@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Particulars of procedures relating to discipline or dismissal[^key-315e12464c63fd5413c116e82be7d7b5]
+## 35. Particulars of procedures relating to discipline or dismissal[^c-315e12464c63fd5413c116e82be7d7b5]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-315e12464c63fd5413c116e82be7d7b5]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2002/22/section/35) in force at 1.10.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2)
+[^c-315e12464c63fd5413c116e82be7d7b5]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2002/22/section/35) in force at 1.10.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2)

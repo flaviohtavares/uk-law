@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45K. Expenditure on plant and machinery for use in designated assisted areas[^key-922241598d653a814159eaaa6d66ae88][^key-661b09f8253ca07c6d062cb971343de3]
+## 45K. Expenditure on plant and machinery for use in designated assisted areas[^c-922241598d653a814159eaaa6d66ae88][^c-661b09f8253ca07c6d062cb971343de3]
 
 *Extent: E+W+S+N.I.*
 
 (1) Expenditure is first-year qualifying expenditure if—
 
 - (a) it is incurred by a company on the provision of plant or machinery for use primarily in an area which at the time the expenditure is incurred is a designated assisted area,
-- (b) it is incurred in the period [^key-639222c3eebb10049b16fec5ad05b536]... beginning with the date on which the area is (or is treated as) designated under subsection (2)(a)[^key-799f7c96c3c57c2bca59bc51f4926a91] and ending with whichever is the later of the day immediately before the eighth anniversary of that date or 31st March 2021[^key-0c000ea01a01dc072fee017dc181b675],
+- (b) it is incurred in the period [^c-639222c3eebb10049b16fec5ad05b536]... beginning with the date on which the area is (or is treated as) designated under subsection (2)(a)[^c-799f7c96c3c57c2bca59bc51f4926a91] and ending with whichever is the later of the day immediately before the eighth anniversary of that date or 31st March 2021[^c-0c000ea01a01dc072fee017dc181b675],
 - (c) Conditions A to E are met.
 
-(1A)[^key-fa61c1c948d0de93884835782d60473f] The Treasury may by order amend subsection (1)(b) so as to extend the period specified.
+(1A)[^c-fa61c1c948d0de93884835782d60473f] The Treasury may by order amend subsection (1)(b) so as to extend the period specified.
 
 (2) “**Designated assisted area**” means an area which—
 
@@ -52,7 +52,7 @@ summary: ''
 - (b) expanding a business carried on by the company, or
 - (c) starting up an activity which relates to a fundamental change in a product or production process of, or service provided by, a business carried on by the company.
 
-(8A)[^key-b0715429deadd2582cbd561e9ecef39c] Condition C is met by virtue of subsection (8)(c) only if the amount of the expenditure exceeds the amount by which the relevant plant or machinery is depreciated in the period of 3 years ending immediately before the beginning of the chargeable period in which the expenditure is incurred.
+(8A)[^c-b0715429deadd2582cbd561e9ecef39c] Condition C is met by virtue of subsection (8)(c) only if the amount of the expenditure exceeds the amount by which the relevant plant or machinery is depreciated in the period of 3 years ending immediately before the beginning of the chargeable period in which the expenditure is incurred.
 
 (8B) “**Relevant plant or machinery**” means the plant or machinery being used at the end of the period of 3 years mentioned in subsection (8A) for the purposes of the product, process or service mentioned in subsection (8)(c).
 
@@ -97,16 +97,16 @@ so much of the expenditure as is attributable to the additional function is not 
 
 ## Annotations
 
-[^key-922241598d653a814159eaaa6d66ae88]: Textual amendment: Ss. 45K-45N inserted (with effect in accordance with Sch. 11 para. 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/11/paragraph/3)
+[^c-922241598d653a814159eaaa6d66ae88]: Textual amendment: Ss. 45K-45N inserted (with effect in accordance with Sch. 11 para. 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/11/paragraph/3)
 
-[^key-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
+[^c-661b09f8253ca07c6d062cb971343de3]: Modification: Pt. 2 modified (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/9/1/a)
 
-[^key-639222c3eebb10049b16fec5ad05b536]: Textual amendment: Words in s. 45K(1)(b) omitted (1.4.2020) by virtue of [The Capital Allowances Act 2001 (Amendment of Section 45K) Order 2020 (S.I. 2020/260)](https://www.legislation.gov.uk/uksi/2020/260), [arts. 1](https://www.legislation.gov.uk/uksi/2020/260/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/260/article/2/2/a)
+[^c-639222c3eebb10049b16fec5ad05b536]: Textual amendment: Words in s. 45K(1)(b) omitted (1.4.2020) by virtue of [The Capital Allowances Act 2001 (Amendment of Section 45K) Order 2020 (S.I. 2020/260)](https://www.legislation.gov.uk/uksi/2020/260), [arts. 1](https://www.legislation.gov.uk/uksi/2020/260/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/260/article/2/2/a)
 
-[^key-799f7c96c3c57c2bca59bc51f4926a91]: Textual amendment: Words in s. 45K(1)(b) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 69](https://www.legislation.gov.uk/ukpga/2016/24/section/69)
+[^c-799f7c96c3c57c2bca59bc51f4926a91]: Textual amendment: Words in s. 45K(1)(b) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 69](https://www.legislation.gov.uk/ukpga/2016/24/section/69)
 
-[^key-0c000ea01a01dc072fee017dc181b675]: Textual amendment: Words in s. 45K(1)(b) inserted (1.4.2020) by [The Capital Allowances Act 2001 (Amendment of Section 45K) Order 2020 (S.I. 2020/260)](https://www.legislation.gov.uk/uksi/2020/260), [arts. 1](https://www.legislation.gov.uk/uksi/2020/260/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/260/article/2/2/b)
+[^c-0c000ea01a01dc072fee017dc181b675]: Textual amendment: Words in s. 45K(1)(b) inserted (1.4.2020) by [The Capital Allowances Act 2001 (Amendment of Section 45K) Order 2020 (S.I. 2020/260)](https://www.legislation.gov.uk/uksi/2020/260), [arts. 1](https://www.legislation.gov.uk/uksi/2020/260/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/260/article/2/2/b)
 
-[^key-fa61c1c948d0de93884835782d60473f]: Textual amendment: S. 45K(1A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 64(5)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/64/5/b)
+[^c-fa61c1c948d0de93884835782d60473f]: Textual amendment: S. 45K(1A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 64(5)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/64/5/b)
 
-[^key-b0715429deadd2582cbd561e9ecef39c]: Textual amendment: S. 45K(8A)(8B) inserted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/3)
+[^c-b0715429deadd2582cbd561e9ecef39c]: Textual amendment: S. 45K(8A)(8B) inserted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/3)

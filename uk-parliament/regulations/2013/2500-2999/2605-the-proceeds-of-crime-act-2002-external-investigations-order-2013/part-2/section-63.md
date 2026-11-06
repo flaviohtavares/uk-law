@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Account monitoring orders[^key-0e3842f6be14db8ffdfd22f807d980c9]
+## 63. Account monitoring orders[^c-0e3842f6be14db8ffdfd22f807d980c9]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In making an account monitoring order the sheriff shall act in exercise of the sheriff’s civil jurisdiction.
 
-(3)[^key-10d59836d239f1582300b1336e344ba3] The application for an account monitoring order must state that—
+(3)[^c-10d59836d239f1582300b1336e344ba3] The application for an account monitoring order must state that—
 
 - (a) a person specified in the application is subject to an external investigation; and
 - (b) the condition in article 37(2) is met in respect of the person.
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0e3842f6be14db8ffdfd22f807d980c9]: Commencement: [Art. 63](https://www.legislation.gov.uk/uksi/2013/2605/article/63) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-0e3842f6be14db8ffdfd22f807d980c9]: Commencement: [Art. 63](https://www.legislation.gov.uk/uksi/2013/2605/article/63) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
-[^key-10d59836d239f1582300b1336e344ba3]: Textual amendment: [Art. 63(3)](https://www.legislation.gov.uk/uksi/2013/2605/article/63/3) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [24](https://www.legislation.gov.uk/uksi/2015/1751/article/24)
+[^c-10d59836d239f1582300b1336e344ba3]: Textual amendment: [Art. 63(3)](https://www.legislation.gov.uk/uksi/2013/2605/article/63/3) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [24](https://www.legislation.gov.uk/uksi/2015/1751/article/24)

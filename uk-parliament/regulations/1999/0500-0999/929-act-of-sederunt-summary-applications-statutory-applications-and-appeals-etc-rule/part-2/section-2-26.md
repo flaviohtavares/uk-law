@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.26. Form of extract decree[^key-ac027f01de0a6f0e2aed13db7e1a8736]
+## 2.26. Form of extract decree[^c-ac027f01de0a6f0e2aed13db7e1a8736]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The extract of a decree shall be in Form 11.
 
 ## Annotations
 
-[^key-ac027f01de0a6f0e2aed13db7e1a8736]: Commencement: Rule 2.26 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-ac027f01de0a6f0e2aed13db7e1a8736]: Commencement: Rule 2.26 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

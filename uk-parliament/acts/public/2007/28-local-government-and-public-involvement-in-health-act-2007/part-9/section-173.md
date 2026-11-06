@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Matters subject to investigation[^key-b76a875e0a4236395c3ead3f7079df10]
+## 173. Matters subject to investigation[^c-b76a875e0a4236395c3ead3f7079df10]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b76a875e0a4236395c3ead3f7079df10]: Commencement: S. 173 in force at 1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-b76a875e0a4236395c3ead3f7079df10]: Commencement: S. 173 in force at 1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))

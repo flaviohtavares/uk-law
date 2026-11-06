@@ -38,11 +38,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Reports
 
-### 1. Full employment: reporting obligation[^key-c089d58468b01a9e0219d9942accff06]
+### 1. Full employment: reporting obligation[^c-c089d58468b01a9e0219d9942accff06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Apprenticeships reporting obligation[^key-679204b83adfa560008337068d24c16c]
+### 2. Apprenticeships reporting obligation[^c-679204b83adfa560008337068d24c16c]
 
 *Extent: E+W*
 
@@ -320,7 +320,7 @@ In the Child Poverty Act 2010, before section 1 insert—
 
 ## Welfare benefits
 
-### 8. Benefit cap[^c22563211][^key-b55c4b53b94d4267822d96c51b88460f]
+### 8. Benefit cap[^c22563211][^c-b55c4b53b94d4267822d96c51b88460f]
 
 *Extent: E+W+S*
 
@@ -404,7 +404,7 @@ In the Child Poverty Act 2010, before section 1 insert—
 
 *Extent: E+W+S*
 
-(1)[^key-cd0cf191932bea27e679695ea246f9f0] After section 96 of the Welfare Reform Act 2012 insert—
+(1)[^c-cd0cf191932bea27e679695ea246f9f0] After section 96 of the Welfare Reform Act 2012 insert—
 
 > **96A. Benefit cap: review**
 >
@@ -436,13 +436,13 @@ In the Child Poverty Act 2010, before section 1 insert—
 >
 > (9) If an early parliamentary general election is to take place in accordance with section 2 of the Fixed-term Parliaments Act 2011, the duty in subsection (1) is to be disregarded.
 
-(2)[^key-cd0cf191932bea27e679695ea246f9f0] Section 97 of the Welfare Reform Act 2012 (benefit cap: supplementary) is amended as follows.
+(2)[^c-cd0cf191932bea27e679695ea246f9f0] Section 97 of the Welfare Reform Act 2012 (benefit cap: supplementary) is amended as follows.
 
-(3)[^key-cd0cf191932bea27e679695ea246f9f0] In subsection (1), after “96” insert “ or 96A ”.
+(3)[^c-cd0cf191932bea27e679695ea246f9f0] In subsection (1), after “96” insert “ or 96A ”.
 
-(4)[^key-cd0cf191932bea27e679695ea246f9f0] In subsection (2), after “96” insert “ or 96A ”.
+(4)[^c-cd0cf191932bea27e679695ea246f9f0] In subsection (2), after “96” insert “ or 96A ”.
 
-(5)[^key-cd0cf191932bea27e679695ea246f9f0] After subsection (4) insert—
+(5)[^c-cd0cf191932bea27e679695ea246f9f0] After subsection (4) insert—
 
 > (4A) A statutory instrument containing regulations under section 96A may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
@@ -450,7 +450,7 @@ In the Child Poverty Act 2010, before section 1 insert—
 
 (7) In section 150 of the Social Security Administration Act 1992 (annual up-rating of benefits), subsection (7A) (review of the benefit cap) is omitted.
 
-### 10. Benefit cap: Social Security Advisory Committee[^key-389895136281fe8b05f2d2fb110346a4]
+### 10. Benefit cap: Social Security Advisory Committee[^c-389895136281fe8b05f2d2fb110346a4]
 
 *Extent: E+W+S*
 
@@ -536,63 +536,63 @@ In the Child Poverty Act 2010, before section 1 insert—
 
 *Extent: E+W+S*
 
-(1)[^key-2bc457123ac97ba792fcbbae7fe433bf] Section 10 of the Welfare Reform Act 2012 (responsibility for children and young persons) is amended as set out in subsections (2) to (4).
+(1)[^c-2bc457123ac97ba792fcbbae7fe433bf] Section 10 of the Welfare Reform Act 2012 (responsibility for children and young persons) is amended as set out in subsections (2) to (4).
 
-(2)[^key-5f3ccac43350dbde76a3e4ce2b586704][^key-2bc457123ac97ba792fcbbae7fe433bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5f3ccac43350dbde76a3e4ce2b586704][^c-2bc457123ac97ba792fcbbae7fe433bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-2bc457123ac97ba792fcbbae7fe433bf] In subsection (2)—
+(3)[^c-2bc457123ac97ba792fcbbae7fe433bf] In subsection (2)—
 
 - (a) for “if such a” substitute “ for each ”;
 - (b) after “person” insert “ for whom a claimant is responsible who ”.
 
-(4)[^key-2293b22b296481c7804af91de66b972f][^key-2bc457123ac97ba792fcbbae7fe433bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2293b22b296481c7804af91de66b972f][^c-2bc457123ac97ba792fcbbae7fe433bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-2bc457123ac97ba792fcbbae7fe433bf] In the Universal Credit Regulations 2013 (S.I. 2013/376)—
+(5)[^c-2bc457123ac97ba792fcbbae7fe433bf] In the Universal Credit Regulations 2013 (S.I. 2013/376)—
 
-- (a)[^key-02ce93ab31be55873c6d7cf603bb869d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-be685272eaf129b1cb7ed9a54a655870] in regulation 36 (table showing amount of elements), in the table—
+- (a)[^c-02ce93ab31be55873c6d7cf603bb869d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-be685272eaf129b1cb7ed9a54a655870] in regulation 36 (table showing amount of elements), in the table—
   - (i) omit the row under “Child element” showing the amount for first child or qualifying young person;
   - (ii) in the row under “Child element” showing the amount for second and each subsequent child or qualifying young person, for “second and each subsequent” substitute “ each ”.
 
-(6)[^key-84a36eec64495a2edca7f920cfa02545] The Secretary of State may by regulations make such transitional or transitory provision or savings as the Secretary of State considers necessary or expedient in connection with the coming into force of this section.
+(6)[^c-84a36eec64495a2edca7f920cfa02545] The Secretary of State may by regulations make such transitional or transitory provision or savings as the Secretary of State considers necessary or expedient in connection with the coming into force of this section.
 
-(7)[^key-84a36eec64495a2edca7f920cfa02545] Regulations under subsection (6) must be made by statutory instrument.
+(7)[^c-84a36eec64495a2edca7f920cfa02545] Regulations under subsection (6) must be made by statutory instrument.
 
-(8)[^key-84a36eec64495a2edca7f920cfa02545] A statutory instrument containing regulations under subsection (6) is subject to annulment in pursuance of a resolution of either House of Parliament.
+(8)[^c-84a36eec64495a2edca7f920cfa02545] A statutory instrument containing regulations under subsection (6) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
 ### 15. Employment and support allowance: work-related activity component
 
 *Extent: E+W+S*
 
-(1)[^key-aaa65fdc8890449bd6d79dc681bcc526] Part 1 of the Welfare Reform Act 2007 (employment and support allowance) is amended as follows.
+(1)[^c-aaa65fdc8890449bd6d79dc681bcc526] Part 1 of the Welfare Reform Act 2007 (employment and support allowance) is amended as follows.
 
-(2)[^key-aaa65fdc8890449bd6d79dc681bcc526] In section 2 (amount of contributory allowance)—
+(2)[^c-aaa65fdc8890449bd6d79dc681bcc526] In section 2 (amount of contributory allowance)—
 
 - (a) in subsection (1)(b), omit “or the work-related activity component”;
 - (b) omit subsection (3);
 - (c) in subsection (4), in each of paragraphs (a), (b) and (c), omit “or (3)”.
 
-(3)[^key-aaa65fdc8890449bd6d79dc681bcc526] In section 4 (amount of income-related allowance) (so far as it remains in force)—
+(3)[^c-aaa65fdc8890449bd6d79dc681bcc526] In section 4 (amount of income-related allowance) (so far as it remains in force)—
 
 - (a) in subsection (2)(b), omit “or the work-related activity component”;
 - (b) omit subsection (5);
 - (c) in subsection (6), in each of paragraphs (a), (b) and (c), omit “or (5)”.
 
-(4)[^key-b65a07ca44025fd5ebb3583ef61a7f30] The Secretary of State may by regulations make such transitional or transitory provision or savings as the Secretary of State considers necessary or expedient in connection with the coming into force of subsections (1) to (3).
+(4)[^c-b65a07ca44025fd5ebb3583ef61a7f30] The Secretary of State may by regulations make such transitional or transitory provision or savings as the Secretary of State considers necessary or expedient in connection with the coming into force of subsections (1) to (3).
 
-(5)[^key-b65a07ca44025fd5ebb3583ef61a7f30] Regulations under subsection (4) may in particular make provision about including a work-related activity component in an award of employment and support allowance that is converted under paragraph 7 of Schedule 4 to the Welfare Reform Act 2007 from an award of incapacity benefit, severe disablement allowance or income support after the coming into force of subsections (1) to (3).
+(5)[^c-b65a07ca44025fd5ebb3583ef61a7f30] Regulations under subsection (4) may in particular make provision about including a work-related activity component in an award of employment and support allowance that is converted under paragraph 7 of Schedule 4 to the Welfare Reform Act 2007 from an award of incapacity benefit, severe disablement allowance or income support after the coming into force of subsections (1) to (3).
 
-(6)[^key-b65a07ca44025fd5ebb3583ef61a7f30] Regulations under this section must be made by statutory instrument.
+(6)[^c-b65a07ca44025fd5ebb3583ef61a7f30] Regulations under this section must be made by statutory instrument.
 
-(7)[^key-b65a07ca44025fd5ebb3583ef61a7f30] A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
+(7)[^c-b65a07ca44025fd5ebb3583ef61a7f30] A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 16. Universal credit: limited capability for work element[^key-b00cf404bdf96fc45e9fdbe4e3d765ec]
+### 16. Universal credit: limited capability for work element[^c-b00cf404bdf96fc45e9fdbe4e3d765ec]
 
 *Extent: E+W+S*
 
 In section 12(2) of the Welfare Reform Act 2012 (universal credit: particular needs or circumstances), omit paragraph (a).
 
-### 17. Universal credit: work-related requirements[^key-bd57979564d730b28afa3b3bc07a3c26]
+### 17. Universal credit: work-related requirements[^c-bd57979564d730b28afa3b3bc07a3c26]
 
 *Extent: E+W+S*
 
@@ -615,7 +615,7 @@ In section 12(2) of the Welfare Reform Act 2012 (universal credit: particular ne
 
 *Extent: E+W+S*
 
-### 18. Loans for mortgage interest etc[^key-58f0aa135dd0dace1617cb52165de563]
+### 18. Loans for mortgage interest etc[^c-58f0aa135dd0dace1617cb52165de563]
 
 (1) The Secretary of State may by regulations provide for loans to be made in respect of a person's liability to make owner-occupier payments in respect of accommodation occupied by the person as the person's home.
 
@@ -648,7 +648,7 @@ In section 12(2) of the Welfare Reform Act 2012 (universal credit: particular ne
 
 (11) A statutory instrument containing regulations under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 19. Section 18: further provision[^key-ab378942620b7f90aac639a75dd803d5]
+### 19. Section 18: further provision[^c-ab378942620b7f90aac639a75dd803d5]
 
 (1) This section makes further provision about regulations under section 18.
 
@@ -701,11 +701,11 @@ In section 12(2) of the Welfare Reform Act 2012 (universal credit: particular ne
 (8) In this section—
 
 - “**deposit taker**” means—
-  - (a) a person who has permission under Part 4A of the Financial Services and Markets Act 2000 to accept deposits, [^key-0174aa79d15ae8ad7be3feb19381bd88]...
-  - (b) [^key-0174aa79d15ae8ad7be3feb19381bd88]...
+  - (a) a person who has permission under Part 4A of the Financial Services and Markets Act 2000 to accept deposits, [^c-0174aa79d15ae8ad7be3feb19381bd88]...
+  - (b) [^c-0174aa79d15ae8ad7be3feb19381bd88]...
 - “**insurer**” means—
-  - (a) a person who has permission under Part 4A of the Financial Services and Markets Act 2000 to effect and carry out contracts of insurance, [^key-2b4b37526c433674886c13ee609987da]...
-  - (b) [^key-2b4b37526c433674886c13ee609987da]...
+  - (a) a person who has permission under Part 4A of the Financial Services and Markets Act 2000 to effect and carry out contracts of insurance, [^c-2b4b37526c433674886c13ee609987da]...
+  - (b) [^c-2b4b37526c433674886c13ee609987da]...
 
 (9) The definitions of “deposit taker” and ‘insurer” in this section must be read with—
 
@@ -715,9 +715,9 @@ In section 12(2) of the Welfare Reform Act 2012 (universal credit: particular ne
 
 ### 20. Consequential amendments
 
-(1)[^key-8310064911044e1679a3e0043ca41c6d] Section 15A of the Social Security Administration Act 1992 (payment out of benefit of sums in respect of mortgage interest) is repealed.
+(1)[^c-8310064911044e1679a3e0043ca41c6d] Section 15A of the Social Security Administration Act 1992 (payment out of benefit of sums in respect of mortgage interest) is repealed.
 
-(2)[^key-5a527e0df66c8225018f00864a527e3f] In section 170 of the Social Security Administration Act 1992 (Social Security Advisory Committee), in subsection (5)—
+(2)[^c-5a527e0df66c8225018f00864a527e3f] In section 170 of the Social Security Administration Act 1992 (Social Security Advisory Committee), in subsection (5)—
 
 - (a) in the definition of “the relevant enactments”, after paragraph (an) insert—
 
@@ -730,7 +730,7 @@ In section 12(2) of the Welfare Reform Act 2012 (universal credit: particular ne
 
   .
 
-(3)[^key-5a527e0df66c8225018f00864a527e3f] In section 2 of the Social Security Act 1998 (use of computers), in subsection (2)—
+(3)[^c-5a527e0df66c8225018f00864a527e3f] In section 2 of the Social Security Act 1998 (use of computers), in subsection (2)—
 
 - (a) omit the “or” after paragraph (m);
 - (b) after paragraph (n) insert
@@ -739,7 +739,7 @@ In section 12(2) of the Welfare Reform Act 2012 (universal credit: particular ne
   >
   > - (o) sections 18 to 21 of the Welfare Reform and Work Act 2016.
 
-(4)[^key-5a527e0df66c8225018f00864a527e3f] In section 8 of the Social Security Act 1998 (decisions by Secretary of State)—
+(4)[^c-5a527e0df66c8225018f00864a527e3f] In section 8 of the Social Security Act 1998 (decisions by Secretary of State)—
 
 - (a) in subsection (3) (meaning of “relevant benefit”), after paragraph (bb) insert—
 
@@ -748,9 +748,9 @@ In section 12(2) of the Welfare Reform Act 2012 (universal credit: particular ne
   ;
 - (b) in subsection (4) (meaning of “relevant enactment”), for “or section 30 of that Act” substitute “, section 30 of that Act or sections 18 to 21 of the Welfare Reform and Work Act 2016”.
 
-(5)[^key-5a527e0df66c8225018f00864a527e3f] In section 11 of the Social Security Act 1998 (regulations with respect to decisions), in subsection (3), in the definition of “the current legislation”, for “and section 30 of that Act” substitute “, section 30 of that Act and sections 18 to 21 of the Welfare Reform and Work Act 2016”.
+(5)[^c-5a527e0df66c8225018f00864a527e3f] In section 11 of the Social Security Act 1998 (regulations with respect to decisions), in subsection (3), in the definition of “the current legislation”, for “and section 30 of that Act” substitute “, section 30 of that Act and sections 18 to 21 of the Welfare Reform and Work Act 2016”.
 
-(6)[^key-5a527e0df66c8225018f00864a527e3f] In section 28 of the Social Security Act 1998 (correction of errors and setting aside of decisions), in subsection (3)—
+(6)[^c-5a527e0df66c8225018f00864a527e3f] In section 28 of the Social Security Act 1998 (correction of errors and setting aside of decisions), in subsection (3)—
 
 - (a) omit the “or” after paragraph (i);
 - (b) after paragraph (j) insert
@@ -759,7 +759,7 @@ In section 12(2) of the Welfare Reform Act 2012 (universal credit: particular ne
   >
   > - (k) sections 18 to 21 of the Welfare Reform and Work Act 2016.
 
-(7)[^key-5a527e0df66c8225018f00864a527e3f] In section 39 of the Social Security Act 1998 (interpretation etc of Chapter 2 of Part 1), after subsection (1) insert—
+(7)[^c-5a527e0df66c8225018f00864a527e3f] In section 39 of the Social Security Act 1998 (interpretation etc of Chapter 2 of Part 1), after subsection (1) insert—
 
 > (1A) In this Chapter—
 >
@@ -769,11 +769,11 @@ In section 12(2) of the Welfare Reform Act 2012 (universal credit: particular ne
 > - (d) a reference to an award of a benefit to a person includes a reference to a decision that a person is eligible for a loan under section 18 of the Welfare Reform and Work Act 2016;
 > - (e) a reference to entitlement to a benefit includes a reference to eligibility for a loan under section 18 of the Welfare Reform and Work Act 2016.
 
-(8)[^key-8310064911044e1679a3e0043ca41c6d] In section 3A of the State Pension Credit Act 2002 (housing credit), in subsection (5)(a), omit the words from “(and,” to “payments)”.
+(8)[^c-8310064911044e1679a3e0043ca41c6d] In section 3A of the State Pension Credit Act 2002 (housing credit), in subsection (5)(a), omit the words from “(and,” to “payments)”.
 
-(9)[^key-8310064911044e1679a3e0043ca41c6d] In section 11 of the Welfare Reform Act 2012 (universal credit: amount in respect of housing costs), in subsection (3)(a), omit the words from “(and,” to “payments)”.
+(9)[^c-8310064911044e1679a3e0043ca41c6d] In section 11 of the Welfare Reform Act 2012 (universal credit: amount in respect of housing costs), in subsection (3)(a), omit the words from “(and,” to “payments)”.
 
-(10)[^key-5a527e0df66c8225018f00864a527e3f] In section 131 of the Welfare Reform Act 2012 (information-sharing in relation to welfare services etc), in subsection (12), in the definition of “relevant social security benefit” for the words from “has” to the end substitute
+(10)[^c-5a527e0df66c8225018f00864a527e3f] In section 131 of the Welfare Reform Act 2012 (information-sharing in relation to welfare services etc), in subsection (12), in the definition of “relevant social security benefit” for the words from “has” to the end substitute
 
 > means—
 >
@@ -782,7 +782,7 @@ In section 12(2) of the Welfare Reform Act 2012 (universal credit: particular ne
 
 .
 
-(11)[^key-8310064911044e1679a3e0043ca41c6d] The following provisions are repealed—
+(11)[^c-8310064911044e1679a3e0043ca41c6d] The following provisions are repealed—
 
 - (a) in the Social Security (Mortgage Interest Payments) Act 1992—
   - (i) section 1;
@@ -796,7 +796,7 @@ In section 12(2) of the Welfare Reform Act 2012 (universal credit: particular ne
   - (ii) in Schedule 4, paragraph 11;
 - (g) in the Financial Services Act 2012, paragraph 74(2) of Schedule 18.
 
-### 21. Transitional provision[^key-70cb33c9cf28d07cbebe38e5c2ee49d8]
+### 21. Transitional provision[^c-70cb33c9cf28d07cbebe38e5c2ee49d8]
 
 (1) Regulations made by the Secretary of State may make such transitional or transitory provision or savings as the Secretary of State considers necessary or expedient in connection with the coming into force of sections 18 to 20.
 
@@ -827,7 +827,7 @@ In section 12(2) of the Welfare Reform Act 2012 (universal credit: particular ne
 
 *Extent: E+W+S*
 
-### 22. Expenses of paying sums in respect of vehicle hire etc[^key-715ccfcedee09f3f4062a4dc608b481f]
+### 22. Expenses of paying sums in respect of vehicle hire etc[^c-715ccfcedee09f3f4062a4dc608b481f]
 
 In the Social Security Administration Act 1992, after section 15A insert—
 
@@ -857,7 +857,7 @@ In the Social Security Administration Act 1992, after section 15A insert—
 
 *Extent: E+W*
 
-### 23. Reduction in social housing rents[^c22563241][^c23595911][^c23596081][^key-6867c527e1de59cab210858b2d0e1574]
+### 23. Reduction in social housing rents[^c22563241][^c23595911][^c23596081][^c-6867c527e1de59cab210858b2d0e1574]
 
 (1) In relation to each relevant year, registered providers of social housing must secure that the amount of rent payable in respect of that relevant year by a tenant of their social housing in England is at least 1% less than the amount of rent that was payable by the tenant in respect of the preceding 12 months.
 
@@ -925,7 +925,7 @@ section 23 ceases to apply in relation to that social housing at the time of tha
 - “**mortgage**” includes a charge or other security;
 - “**mortgagee**” includes a person who is entitled to take steps to enforce a charge or other security.
 
-(5)[^key-8bf91744bf68553e272cdd2e06d7c7e7] The Secretary of State may by regulations provide for section 23 not to apply in cases prescribed by the regulations.
+(5)[^c-8bf91744bf68553e272cdd2e06d7c7e7] The Secretary of State may by regulations provide for section 23 not to apply in cases prescribed by the regulations.
 
 (6) Regulations under subsection (5) may in particular make provision about—
 
@@ -1090,7 +1090,7 @@ In Schedule 2—
   - (i) by or under section 24 or paragraph 5 of Schedule 2, or
   - (ii) by a direction under section 25 or paragraph 6 of Schedule 2 or under section 27(9).
 
-### 30. Enforcement[^key-c49966e5afa5e175f910517b39262571]
+### 30. Enforcement[^c-c49966e5afa5e175f910517b39262571]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1303,7 +1303,7 @@ Sections 11 and 12
 
 Section 26
 
-### PART 1 — PROVISION ABOUT LEVELS OF RENTS[^key-94d463de81346628df6e375b34a9bd14][^c23596091][^c23596101]
+### PART 1 — PROVISION ABOUT LEVELS OF RENTS[^c-94d463de81346628df6e375b34a9bd14][^c23596091][^c23596101]
 
 #### Tenancy of existing social housing
 
@@ -1578,59 +1578,59 @@ Part 1 ceases to apply in relation to that social housing at the time of that sa
 
 ## Annotations
 
-[^key-c089d58468b01a9e0219d9942accff06]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2016/7/section/1) repealed (3.5.2017) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [s. 1(2)](https://www.legislation.gov.uk/ukpga/2016/7/section/1/2)
+[^c-c089d58468b01a9e0219d9942accff06]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2016/7/section/1) repealed (3.5.2017) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [s. 1(2)](https://www.legislation.gov.uk/ukpga/2016/7/section/1/2)
 
-[^key-679204b83adfa560008337068d24c16c]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2016/7/section/2) repealed (31.3.2021) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/2/3)
+[^c-679204b83adfa560008337068d24c16c]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2016/7/section/2) repealed (31.3.2021) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [s. 2(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/2/3)
 
 [^c23596111]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/7/section/3) in force at 16.5.2016 by [S.I. 2016/394](https://www.legislation.gov.uk/uksi/2016/394), [reg. 5](https://www.legislation.gov.uk/uksi/2016/394/regulation/5)
 
 [^c22563211]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/7/section/8) in force for specified purposes at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3)
 
-[^key-b55c4b53b94d4267822d96c51b88460f]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/7/section/8) in force at 7.11.2016 in so far as not already in force by [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/3))
+[^c-b55c4b53b94d4267822d96c51b88460f]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/7/section/8) in force at 7.11.2016 in so far as not already in force by [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/3))
 
 [^c22563221]: Commencement: [S. 9(1)-(5)](https://www.legislation.gov.uk/ukpga/2016/7/section/9/1) in force for specified purposes at Royal Assent and s. 9(6)(7) in force at Royal Assent, see [s. 36(1)(a)(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/1/a/3)
 
-[^key-cd0cf191932bea27e679695ea246f9f0]: Commencement: [S. 9(1)-(5)](https://www.legislation.gov.uk/ukpga/2016/7/section/9/1) in force at 7.11.2016 in so far as not already in force by [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/3))
+[^c-cd0cf191932bea27e679695ea246f9f0]: Commencement: [S. 9(1)-(5)](https://www.legislation.gov.uk/ukpga/2016/7/section/9/1) in force at 7.11.2016 in so far as not already in force by [S.I. 2016/910](https://www.legislation.gov.uk/uksi/2016/910), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2016/910/regulation/2/3))
 
-[^key-389895136281fe8b05f2d2fb110346a4]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/7/section/10) in force at 9.6.2016 by [S.I. 2016/610](https://www.legislation.gov.uk/uksi/2016/610), [reg. 2](https://www.legislation.gov.uk/uksi/2016/610/regulation/2)
+[^c-389895136281fe8b05f2d2fb110346a4]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/7/section/10) in force at 9.6.2016 by [S.I. 2016/610](https://www.legislation.gov.uk/uksi/2016/610), [reg. 2](https://www.legislation.gov.uk/uksi/2016/610/regulation/2)
 
 [^c22563231]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2016/7/section/13) in force at Royal Assent for specified purposes and at 6.4.2017 otherwise, see [s. 36(4)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/4)
 
-[^key-2bc457123ac97ba792fcbbae7fe433bf]: Commencement: [S. 14(1)-(5)](https://www.legislation.gov.uk/ukpga/2016/7/section/14/1) in force at 6.4.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 4](https://www.legislation.gov.uk/uksi/2017/111/regulation/4)
+[^c-2bc457123ac97ba792fcbbae7fe433bf]: Commencement: [S. 14(1)-(5)](https://www.legislation.gov.uk/ukpga/2016/7/section/14/1) in force at 6.4.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 4](https://www.legislation.gov.uk/uksi/2017/111/regulation/4)
 
-[^key-5f3ccac43350dbde76a3e4ce2b586704]: Textual amendment: [S. 14(2)](https://www.legislation.gov.uk/ukpga/2016/7/section/14/2) omitted (6.4.2026 in relation to assessment periods commencing on or after that date) by virtue of [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/2/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/4))
+[^c-5f3ccac43350dbde76a3e4ce2b586704]: Textual amendment: [S. 14(2)](https://www.legislation.gov.uk/ukpga/2016/7/section/14/2) omitted (6.4.2026 in relation to assessment periods commencing on or after that date) by virtue of [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/2/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/4))
 
-[^key-2293b22b296481c7804af91de66b972f]: Textual amendment: [S. 14(4)](https://www.legislation.gov.uk/ukpga/2016/7/section/14/4) omitted (6.4.2026 in relation to assessment periods commencing on or after that date) by virtue of [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/2/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/4))
+[^c-2293b22b296481c7804af91de66b972f]: Textual amendment: [S. 14(4)](https://www.legislation.gov.uk/ukpga/2016/7/section/14/4) omitted (6.4.2026 in relation to assessment periods commencing on or after that date) by virtue of [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/2/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/4))
 
-[^key-02ce93ab31be55873c6d7cf603bb869d]: Textual amendment: [S. 14(5)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/14/5/a) omitted (6.4.2026 in relation to assessment periods commencing on or after that date) by virtue of [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/2/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/4))
+[^c-02ce93ab31be55873c6d7cf603bb869d]: Textual amendment: [S. 14(5)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/14/5/a) omitted (6.4.2026 in relation to assessment periods commencing on or after that date) by virtue of [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/2/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/4))
 
-[^key-be685272eaf129b1cb7ed9a54a655870]: Modification: [S. 14(5)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/14/5/b) excluded by S.I. 2014/1230, reg. 43 (as inserted (6.4.2017) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017 (S.I. 2017/376)](https://www.legislation.gov.uk/uksi/2017/376), [regs. 1](https://www.legislation.gov.uk/uksi/2017/376/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/376/regulation/3/3))
+[^c-be685272eaf129b1cb7ed9a54a655870]: Modification: [S. 14(5)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/14/5/b) excluded by S.I. 2014/1230, reg. 43 (as inserted (6.4.2017) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017 (S.I. 2017/376)](https://www.legislation.gov.uk/uksi/2017/376), [regs. 1](https://www.legislation.gov.uk/uksi/2017/376/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/376/regulation/3/3))
 
-[^key-84a36eec64495a2edca7f920cfa02545]: Commencement: [S. 14(6)-(8)](https://www.legislation.gov.uk/ukpga/2016/7/section/14/6) in force at 8.2.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/111/regulation/2/a)
+[^c-84a36eec64495a2edca7f920cfa02545]: Commencement: [S. 14(6)-(8)](https://www.legislation.gov.uk/ukpga/2016/7/section/14/6) in force at 8.2.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/111/regulation/2/a)
 
-[^key-aaa65fdc8890449bd6d79dc681bcc526]: Commencement: [S. 15(1)-(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/15/1) in force at 3.4.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/111/regulation/3/a)
+[^c-aaa65fdc8890449bd6d79dc681bcc526]: Commencement: [S. 15(1)-(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/15/1) in force at 3.4.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/111/regulation/3/a)
 
-[^key-b65a07ca44025fd5ebb3583ef61a7f30]: Commencement: [S. 15(4)-(7)](https://www.legislation.gov.uk/ukpga/2016/7/section/15/4) in force at 8.2.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/111/regulation/2/b)
+[^c-b65a07ca44025fd5ebb3583ef61a7f30]: Commencement: [S. 15(4)-(7)](https://www.legislation.gov.uk/ukpga/2016/7/section/15/4) in force at 8.2.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/111/regulation/2/b)
 
-[^key-b00cf404bdf96fc45e9fdbe4e3d765ec]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2016/7/section/16) in force at 3.4.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/111/regulation/3/b)
+[^c-b00cf404bdf96fc45e9fdbe4e3d765ec]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2016/7/section/16) in force at 3.4.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/111/regulation/3/b)
 
-[^key-bd57979564d730b28afa3b3bc07a3c26]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2016/7/section/17) in force at 3.4.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/111/regulation/3/c)
+[^c-bd57979564d730b28afa3b3bc07a3c26]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2016/7/section/17) in force at 3.4.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/111/regulation/3/c)
 
-[^key-58f0aa135dd0dace1617cb52165de563]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2016/7/section/18) in force at 3.4.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/111/regulation/3/d)
+[^c-58f0aa135dd0dace1617cb52165de563]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2016/7/section/18) in force at 3.4.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/111/regulation/3/d)
 
-[^key-ab378942620b7f90aac639a75dd803d5]: Commencement: S. 19 in force at 3.4.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/111/regulation/3/e)
+[^c-ab378942620b7f90aac639a75dd803d5]: Commencement: S. 19 in force at 3.4.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/111/regulation/3/e)
 
-[^key-0174aa79d15ae8ad7be3feb19381bd88]: Textual amendment: Words in [s. 19(8)](https://www.legislation.gov.uk/ukpga/2016/7/section/19/8) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 44(a)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/44/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0174aa79d15ae8ad7be3feb19381bd88]: Textual amendment: Words in [s. 19(8)](https://www.legislation.gov.uk/ukpga/2016/7/section/19/8) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 44(a)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/44/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2b4b37526c433674886c13ee609987da]: Textual amendment: Words in [s. 19(8)](https://www.legislation.gov.uk/ukpga/2016/7/section/19/8) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 44(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/44/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b4b37526c433674886c13ee609987da]: Textual amendment: Words in [s. 19(8)](https://www.legislation.gov.uk/ukpga/2016/7/section/19/8) omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 44(b)](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/44/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8310064911044e1679a3e0043ca41c6d]: Commencement: [S. 20(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/1)[(8)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/8)[(9)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/9)[(11)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/11) in force at 6.4.2018 by [S.I. 2018/438](https://www.legislation.gov.uk/uksi/2018/438), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/3))
+[^c-8310064911044e1679a3e0043ca41c6d]: Commencement: [S. 20(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/1)[(8)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/8)[(9)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/9)[(11)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/11) in force at 6.4.2018 by [S.I. 2018/438](https://www.legislation.gov.uk/uksi/2018/438), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/3))
 
-[^key-5a527e0df66c8225018f00864a527e3f]: Commencement: S. 20(2)-(7)(10) in force at 27.7.2017 by [S.I. 2017/802](https://www.legislation.gov.uk/uksi/2017/802), [reg. 2](https://www.legislation.gov.uk/uksi/2017/802/regulation/2)
+[^c-5a527e0df66c8225018f00864a527e3f]: Commencement: S. 20(2)-(7)(10) in force at 27.7.2017 by [S.I. 2017/802](https://www.legislation.gov.uk/uksi/2017/802), [reg. 2](https://www.legislation.gov.uk/uksi/2017/802/regulation/2)
 
-[^key-70cb33c9cf28d07cbebe38e5c2ee49d8]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/7/section/21) in force at 3.4.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/111/regulation/3/f)
+[^c-70cb33c9cf28d07cbebe38e5c2ee49d8]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/7/section/21) in force at 3.4.2017 by [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/111/regulation/3/f)
 
-[^key-715ccfcedee09f3f4062a4dc608b481f]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2016/7/section/22) in force at 30.5.2016 by [S.I. 2016/394](https://www.legislation.gov.uk/uksi/2016/394), [reg. 6](https://www.legislation.gov.uk/uksi/2016/394/regulation/6)
+[^c-715ccfcedee09f3f4062a4dc608b481f]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2016/7/section/22) in force at 30.5.2016 by [S.I. 2016/394](https://www.legislation.gov.uk/uksi/2016/394), [reg. 6](https://www.legislation.gov.uk/uksi/2016/394/regulation/6)
 
 [^c22563241]: Commencement: [S. 23(3)(4)](https://www.legislation.gov.uk/ukpga/2016/7/section/23/3/4) in force at Royal Assent and s. 23(1)(2)(5)-(9) in force for certain purposes at Royal Assent, see [s. 36(1)(c)(5)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/1/c/5)
 
@@ -1638,13 +1638,13 @@ Part 1 ceases to apply in relation to that social housing at the time of that sa
 
 [^c23596081]: Modification: [S. 23](https://www.legislation.gov.uk/ukpga/2016/7/section/23) excluded (1.4.2016) by [The Social Housing Rents (Exceptions and Miscellaneous Provisions) Regulations 2016 (S.I. 2016/390)](https://www.legislation.gov.uk/uksi/2016/390), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/390/regulation/1/1), [3(1)-(3)](https://www.legislation.gov.uk/uksi/2016/390/regulation/3/1) (with [reg. 3(6)](https://www.legislation.gov.uk/uksi/2016/390/regulation/3/6))
 
-[^key-6867c527e1de59cab210858b2d0e1574]: Modification: [S. 23](https://www.legislation.gov.uk/ukpga/2016/7/section/23) modified by S.I. 2016/390, reg. 9 (as substituted (1.4.2017) by [The Social Housing Rents (Exceptions and Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/91)](https://www.legislation.gov.uk/uksi/2017/91), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/91/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2017/91/regulation/5))
+[^c-6867c527e1de59cab210858b2d0e1574]: Modification: [S. 23](https://www.legislation.gov.uk/ukpga/2016/7/section/23) modified by S.I. 2016/390, reg. 9 (as substituted (1.4.2017) by [The Social Housing Rents (Exceptions and Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/91)](https://www.legislation.gov.uk/uksi/2017/91), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/91/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2017/91/regulation/5))
 
 [^c22563251]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2016/7/section/24) in force for specified purposes at Royal Assent, see [s. 36(3)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/3)
 
 [^c23595921]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2016/7/section/24) in force at 1.4.2016 in so far as not already in force by [S.I. 2016/394](https://www.legislation.gov.uk/uksi/2016/394), [reg. 4](https://www.legislation.gov.uk/uksi/2016/394/regulation/4)
 
-[^key-8bf91744bf68553e272cdd2e06d7c7e7]: Modification: [S. 24(5)](https://www.legislation.gov.uk/ukpga/2016/7/section/24/5) modified (1.10.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 88(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/88/1), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)
+[^c-8bf91744bf68553e272cdd2e06d7c7e7]: Modification: [S. 24(5)](https://www.legislation.gov.uk/ukpga/2016/7/section/24/5) modified (1.10.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 88(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/88/1), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)
 
 [^c22563261]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2016/7/section/26) in force for specified purposes at Royal Assent, see [s. 36(1)(e)(5)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/1/e/5)
 
@@ -1662,7 +1662,7 @@ Part 1 ceases to apply in relation to that social housing at the time of that sa
 
 [^c23595961]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2016/7/section/29) in force at 1.4.2016 in so far as not already in force by [S.I. 2016/394](https://www.legislation.gov.uk/uksi/2016/394), [reg. 4](https://www.legislation.gov.uk/uksi/2016/394/regulation/4)
 
-[^key-c49966e5afa5e175f910517b39262571]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/2016/7/section/30) omitted (20.9.2023) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 48](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/48); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(y)(xvii)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/y/xvii)
+[^c-c49966e5afa5e175f910517b39262571]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/2016/7/section/30) omitted (20.9.2023) by virtue of [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 48](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/48); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(y)(xvii)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/y/xvii)
 
 [^c22563651]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2016/7/section/31) in force for specified purposes at Royal Assent, see. 36(5)
 
@@ -1676,7 +1676,7 @@ Part 1 ceases to apply in relation to that social housing at the time of that sa
 
 [^c23596001]: Commencement: [S. 33(1)(2)(3)(a)(4)-(9)](https://www.legislation.gov.uk/ukpga/2016/7/section/33/1/2/3/a/4) in force at 1.4.2016 in so far as not already in force by [S.I. 2016/394](https://www.legislation.gov.uk/uksi/2016/394), [reg. 4](https://www.legislation.gov.uk/uksi/2016/394/regulation/4)
 
-[^key-94d463de81346628df6e375b34a9bd14]: Modification: Sch. 2 Pt. 1 modified by S.I. 2016/390, regs. 11A(1), 11B (as inserted (1.4.2017) by [The Social Housing Rents (Exceptions and Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/91)](https://www.legislation.gov.uk/uksi/2017/91), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/91/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2017/91/regulation/6))
+[^c-94d463de81346628df6e375b34a9bd14]: Modification: Sch. 2 Pt. 1 modified by S.I. 2016/390, regs. 11A(1), 11B (as inserted (1.4.2017) by [The Social Housing Rents (Exceptions and Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/91)](https://www.legislation.gov.uk/uksi/2017/91), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/91/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2017/91/regulation/6))
 
 [^c23596091]: Modification: Sch. 2 Pt. 1 excluded (1.4.2016) by [The Social Housing Rents (Exceptions and Miscellaneous Provisions) Regulations 2016 (S.I. 2016/390)](https://www.legislation.gov.uk/uksi/2016/390), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/390/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/390/regulation/4)
 

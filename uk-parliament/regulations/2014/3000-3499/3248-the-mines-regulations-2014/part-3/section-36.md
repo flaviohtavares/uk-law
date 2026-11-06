@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Shaft construction and modification[^key-e03db1775aba5d738cd49a7e48339816]
+## 36. Shaft construction and modification[^c-e03db1775aba5d738cd49a7e48339816]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The mine operator must ensure that, so far as is reasonably practicable, the con
 
 ## Annotations
 
-[^key-e03db1775aba5d738cd49a7e48339816]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2014/3248/regulation/36) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-e03db1775aba5d738cd49a7e48339816]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2014/3248/regulation/36) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

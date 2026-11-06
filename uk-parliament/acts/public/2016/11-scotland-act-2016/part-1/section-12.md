@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Scope to modify the Scotland Act 1998[^key-24ba77c17b8cb7eb329ea1bbbb76be4b]
+## 12. Scope to modify the Scotland Act 1998[^c-24ba77c17b8cb7eb329ea1bbbb76be4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24ba77c17b8cb7eb329ea1bbbb76be4b]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/11/section/12) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/j)
+[^c-24ba77c17b8cb7eb329ea1bbbb76be4b]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/11/section/12) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/j)

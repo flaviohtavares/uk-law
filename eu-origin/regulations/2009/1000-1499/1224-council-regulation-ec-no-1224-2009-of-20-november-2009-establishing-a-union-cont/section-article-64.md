@@ -29,19 +29,19 @@ summary: ''
 - (e) the FAO alpha-3 code of each species and the relevant geographical area in which the catches were taken;
 - (f) the quantities of each species in kilograms in product weight, broken down by type of product presentation or, where appropriate, the number of individuals;
 - (g) for all products subject to marketing standards, as appropriate, the individual size or weight, grade, presentation and freshness;
-- (h)[^c000001] where appropriate, the destination of products withdrawn from the market for storage [^key-d337a719177a82d57032cfe3da9ebd31]... ;
+- (h)[^c000001] where appropriate, the destination of products withdrawn from the market for storage [^c-d337a719177a82d57032cfe3da9ebd31]... ;
 - (ha) where appropriate, the quantities in kilograms expressed in net weight, or the number of individuals, below the applicable minimum conservation reference size, and the destination thereof;
 - (i) the place and the date of the sale;
 - (j) where possible, the reference number and date of invoice and, where appropriate, the sales contract;
 - (k) where applicable, reference to the take-over declaration referred to in Article 66 or the transport document referred to in Article 68;
 - (l) the price.
 
-2.[^key-7d2d457557d4450ecf9de455a42724f4] A fisheries administration may make regulations specifying detailed rules for the application of this Article.
+2.[^c-7d2d457557d4450ecf9de455a42724f4] A fisheries administration may make regulations specifying detailed rules for the application of this Article.
 
 ## Annotations
 
 [^c000001]: Textual amendment: Substituted by [Regulation (EU) 2015/812 of the European Parliament and of the Council of 20 May 2015 amending Council Regulations (EC) No 850/98, (EC) No 2187/2005, (EC) No 1967/2006, (EC) No 1098/2007, (EC) No 254/2002, (EC) No 2347/2002 and (EC) No 1224/2009, and Regulations (EU) No 1379/2013 and (EU) No 1380/2013 of the European Parliament and of the Council, as regards the landing obligation, and repealing Council Regulation (EC) No 1434/98](https://www.legislation.gov.uk/eur/2015/812).
 
-[^key-d337a719177a82d57032cfe3da9ebd31]: Textual amendment: Words in [Art. 64(1)(h)](https://www.legislation.gov.uk/eur/2009/1224/article/64/1/h) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(64)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/64); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d337a719177a82d57032cfe3da9ebd31]: Textual amendment: Words in [Art. 64(1)(h)](https://www.legislation.gov.uk/eur/2009/1224/article/64/1/h) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(64)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/64); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7d2d457557d4450ecf9de455a42724f4]: Textual amendment: [Art. 64(2)](https://www.legislation.gov.uk/eur/2009/1224/article/64/2) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [27(19)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d2d457557d4450ecf9de455a42724f4]: Textual amendment: [Art. 64(2)](https://www.legislation.gov.uk/eur/2009/1224/article/64/2) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [27(19)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

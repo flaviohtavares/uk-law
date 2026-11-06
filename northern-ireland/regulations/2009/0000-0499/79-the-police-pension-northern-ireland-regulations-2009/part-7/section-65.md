@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65. Reference to selected medical practitioner - eligibility for pension awards payable on the ground of permanent disablement[^key-c21d2489efc75840adc4e0ead8f3a155]
+## 65. Reference to selected medical practitioner - eligibility for pension awards payable on the ground of permanent disablement[^c-c21d2489efc75840adc4e0ead8f3a155]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c21d2489efc75840adc4e0ead8f3a155]: Commencement: Reg. 65 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-c21d2489efc75840adc4e0ead8f3a155]: Commencement: Reg. 65 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

@@ -37,7 +37,7 @@ summary: ''
 
 3. Where an institution may become exposed to potential losses from the underlying exposures by virtue of contract, the institution shall determine the maturity of the securitisation position by taking into account the maturity of the contract plus the longest maturity of such underlying exposures. For revolving exposures, the longest contractually possible remaining maturity of the exposure that might be added during the revolving period shall apply.
 
-4.[^key-25d04ee18704580c6ea905448a1b23c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-25d04ee18704580c6ea905448a1b23c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-25d04ee18704580c6ea905448a1b23c4]: Textual amendment: [Art. 257(4)](https://www.legislation.gov.uk/eur/2013/575/article/257/4) omitted (31.12.2020) by virtue of [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [49](https://www.legislation.gov.uk/uksi/2019/660/regulation/49) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-25d04ee18704580c6ea905448a1b23c4]: Textual amendment: [Art. 257(4)](https://www.legislation.gov.uk/eur/2013/575/article/257/4) omitted (31.12.2020) by virtue of [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [49](https://www.legislation.gov.uk/uksi/2019/660/regulation/49) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

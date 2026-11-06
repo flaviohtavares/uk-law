@@ -32,7 +32,7 @@ summary: ''
 
 Land Registration, England And Wales
 
-The Land Registration (Proper Office) Order 2009 (revoked)[^key-0b2e7cc656df183fb7d1cfa510b8fa62]
+The Land Registration (Proper Office) Order 2009 (revoked)[^c-0b2e7cc656df183fb7d1cfa510b8fa62]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 1 October 2009
 
-[^key-0b2e7cc656df183fb7d1cfa510b8fa62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b2e7cc656df183fb7d1cfa510b8fa62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0b2e7cc656df183fb7d1cfa510b8fa62]
+## 1. Citation and commencement[^c-0b2e7cc656df183fb7d1cfa510b8fa62]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Applications to which this Order applies[^key-0b2e7cc656df183fb7d1cfa510b8fa62]
+## 2. Applications to which this Order applies[^c-0b2e7cc656df183fb7d1cfa510b8fa62]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of the proper office[^key-0b2e7cc656df183fb7d1cfa510b8fa62]
+## 3. Designation of the proper office[^c-0b2e7cc656df183fb7d1cfa510b8fa62]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-0b2e7cc656df183fb7d1cfa510b8fa62]
+## 4. Revocation[^c-0b2e7cc656df183fb7d1cfa510b8fa62]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0b2e7cc656df183fb7d1cfa510b8fa62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b2e7cc656df183fb7d1cfa510b8fa62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-0b2e7cc656df183fb7d1cfa510b8fa62]
+## SCHEDULE 1[^c-0b2e7cc656df183fb7d1cfa510b8fa62]
 
 Article 3
 
@@ -78,8 +78,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-0b2e7cc656df183fb7d1cfa510b8fa62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b2e7cc656df183fb7d1cfa510b8fa62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0b2e7cc656df183fb7d1cfa510b8fa62]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1393) revoked (11.1.2010) by [The Land Registration (Proper Office) (No. 2) Order 2009 (S.I. 2009/2727)](https://www.legislation.gov.uk/uksi/2009/2727), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2727/article/1), [4](https://www.legislation.gov.uk/uksi/2009/2727/article/4)
+[^c-0b2e7cc656df183fb7d1cfa510b8fa62]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1393) revoked (11.1.2010) by [The Land Registration (Proper Office) (No. 2) Order 2009 (S.I. 2009/2727)](https://www.legislation.gov.uk/uksi/2009/2727), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2727/article/1), [4](https://www.legislation.gov.uk/uksi/2009/2727/article/4)

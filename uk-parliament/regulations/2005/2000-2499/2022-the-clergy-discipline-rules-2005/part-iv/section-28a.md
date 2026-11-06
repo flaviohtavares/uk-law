@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 28A. Application for production of documents by person not party to proceedings[^key-018c9fc5112e38be11533afd19e6b9ae]
+## 28A. Application for production of documents by person not party to proceedings[^c-018c9fc5112e38be11533afd19e6b9ae]
 
 *Extent: E*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-018c9fc5112e38be11533afd19e6b9ae]: Textual amendment: [Rule 28A](https://www.legislation.gov.uk/uksi/2005/2022/rule/28A) inserted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2021/557/rule/5/1)
+[^c-018c9fc5112e38be11533afd19e6b9ae]: Textual amendment: [Rule 28A](https://www.legislation.gov.uk/uksi/2005/2022/rule/28A) inserted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2021/557/rule/5/1)

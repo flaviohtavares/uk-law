@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-The Public Service Vehicles Accessibility (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-321a5795259792efd9532c27890e80db]
+The Public Service Vehicles Accessibility (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-321a5795259792efd9532c27890e80db]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 19th July 2006
 
-[^key-321a5795259792efd9532c27890e80db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-321a5795259792efd9532c27890e80db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-321a5795259792efd9532c27890e80db]
+## 1. Citation, commencement and interpretation[^c-321a5795259792efd9532c27890e80db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Public Service Vehicles Accessibility Regulations (Northern Ireland) 2003[^key-321a5795259792efd9532c27890e80db]
+## 2. Amendment of the Public Service Vehicles Accessibility Regulations (Northern Ireland) 2003[^c-321a5795259792efd9532c27890e80db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-321a5795259792efd9532c27890e80db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-321a5795259792efd9532c27890e80db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-321a5795259792efd9532c27890e80db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-321a5795259792efd9532c27890e80db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-321a5795259792efd9532c27890e80db]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/249) revoked (14.10.2011) by [The Public Service Vehicles Accessibility (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/304)](https://www.legislation.gov.uk/nisr/2011/304), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/304/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2011/304/regulation/4)
+[^c-321a5795259792efd9532c27890e80db]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/249) revoked (14.10.2011) by [The Public Service Vehicles Accessibility (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/304)](https://www.legislation.gov.uk/nisr/2011/304), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/304/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2011/304/regulation/4)

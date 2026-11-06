@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Interface with waste operation permits[^key-67cd06f714216044c63c84399ddf073b]
+## 68. Interface with waste operation permits[^c-67cd06f714216044c63c84399ddf073b]
 
 *Extent: E+W*
 
@@ -39,9 +39,9 @@ but if the undertaker decides not to submit an environmental scheme, it must giv
 
 - (a) regulation 20(2) (variation of an environmental permit) does not apply where the Environment Agency (or, in the case of an appeal, the appropriate authority) agrees that the conditions in paragraph 14(1)(a) and (b) (surrender applications) of Part 1 of Schedule 5 to the 2016 Regulations are satisfied by the environmental scheme;
 - (b) where a regulator initiated variation made pursuant to this article includes provision to reduce the extent of the site of a regulated facility, an application for a surrender of a permit in respect of land which, by virtue of that variation, is no longer the site of a regulated facility will not be required;
-- (c) paragraph 8 (public participation in relation to regulator-initiated variations)[^key-94d00c2fac011bc95d384a08442e0bd0] of Part 1 of Schedule 5 to the 2016 Regulations does not apply;
+- (c) paragraph 8 (public participation in relation to regulator-initiated variations)[^c-94d00c2fac011bc95d384a08442e0bd0] of Part 1 of Schedule 5 to the 2016 Regulations does not apply;
 - (d) paragraph 9 (consultation: conditions mentioned in regulation 15(1)) of Part 1 of Schedule 5 to 2016 Regulations does not apply so as to require notice to be served on the undertaker;
-- (e) both the undertaker and the permit holder have a right of appeal under regulation 31(1)(c)(i) (appeals to[^key-2ba3ab598e7213291fdca7f64b6e2dc1] an appropriate authority);
+- (e) both the undertaker and the permit holder have a right of appeal under regulation 31(1)(c)(i) (appeals to[^c-2ba3ab598e7213291fdca7f64b6e2dc1] an appropriate authority);
 - (f) if the Environment Agency fails to comply with paragraph (2), the undertaker may serve a notice under paragraph 2(1) (making an appeal) of Schedule 6 of the 2016 Regulations and the undertaker may then appeal under regulation 31(1)(a), as if the failure were a refusal of an application under the Regulations;
 - (g) the appropriate authority for the purposes of regulation 31 is the Secretary of State for Transport;
 - (h) the permit holder must be served with a copy of an appeal made by the undertaker within 14 days of it being lodged and will have the right to make representations and appear at the appeal as an interested party; and
@@ -75,11 +75,11 @@ but if the undertaker decides not to submit an environmental scheme, it must giv
 
 ## Annotations
 
-[^key-67cd06f714216044c63c84399ddf073b]: Commencement: Art. 68 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-67cd06f714216044c63c84399ddf073b]: Commencement: Art. 68 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-94d00c2fac011bc95d384a08442e0bd0]: Textual amendment: Words in [art. 68(4)(c)](https://www.legislation.gov.uk/uksi/2025/462/article/68/4/c) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-94d00c2fac011bc95d384a08442e0bd0]: Textual amendment: Words in [art. 68(4)(c)](https://www.legislation.gov.uk/uksi/2025/462/article/68/4/c) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
-[^key-2ba3ab598e7213291fdca7f64b6e2dc1]: Textual amendment: Words in [art. 68(4)(e)](https://www.legislation.gov.uk/uksi/2025/462/article/68/4/e) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-2ba3ab598e7213291fdca7f64b6e2dc1]: Textual amendment: Words in [art. 68(4)(e)](https://www.legislation.gov.uk/uksi/2025/462/article/68/4/e) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
 [^f00147]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), amended by paragraph 446(1) of Schedule 24 to the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), [S.I. 2018/110](https://www.legislation.gov.uk/uksi/2018/110), [S.I. 2018/428](https://www.legislation.gov.uk/uksi/2018/428), [S.I. 2018/575](https://www.legislation.gov.uk/uksi/2018/575), [S.I. 2018/721](https://www.legislation.gov.uk/uksi/2018/721), [S.I. 2018/1227](https://www.legislation.gov.uk/uksi/2018/1227), [S.I. 2019/39](https://www.legislation.gov.uk/uksi/2019/39), [S.I. 2019/620](https://www.legislation.gov.uk/uksi/2019/620), [S.I. 2019/1078](https://www.legislation.gov.uk/uksi/2019/1078), [S.I. 2020/904](https://www.legislation.gov.uk/uksi/2020/904), [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [S.I. 2021/77](https://www.legislation.gov.uk/uksi/2021/77), [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500), [S.I. 2023/149](https://www.legislation.gov.uk/uksi/2023/149), [S.I. 2023/651](https://www.legislation.gov.uk/uksi/2023/651), [S.I. 2023/816](https://www.legislation.gov.uk/uksi/2023/816), [S.I. 2023/1046](https://www.legislation.gov.uk/uksi/2023/1046), [S.I. 2023/1156](https://www.legislation.gov.uk/uksi/2023/1156) and [S.I. 2023/1289](https://www.legislation.gov.uk/uksi/2023/1289).
 

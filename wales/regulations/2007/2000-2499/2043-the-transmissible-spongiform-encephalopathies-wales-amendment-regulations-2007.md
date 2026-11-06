@@ -35,7 +35,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The Transmissible Spongiform Encephalopathies (Wales) (Amendment) Regulations 2007 (revoked)[^key-375aee22eb693a260736d1602825641e]
+The Transmissible Spongiform Encephalopathies (Wales) (Amendment) Regulations 2007 (revoked)[^c-375aee22eb693a260736d1602825641e]
 
 Made
 
@@ -49,23 +49,23 @@ Coming into force
 
 18 July 2007
 
-[^key-375aee22eb693a260736d1602825641e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-375aee22eb693a260736d1602825641e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and Commencement[^key-375aee22eb693a260736d1602825641e]
+## 1. Title and Commencement[^c-375aee22eb693a260736d1602825641e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Transmissible Spongiform Encephalopathies (Wales) Regulations 2006[^key-375aee22eb693a260736d1602825641e]
+## 2. Amendment of the Transmissible Spongiform Encephalopathies (Wales) Regulations 2006[^c-375aee22eb693a260736d1602825641e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-375aee22eb693a260736d1602825641e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-375aee22eb693a260736d1602825641e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## THE SCHEDULE — SCHEDULE SUBSTITUTED FOR SCHEDULE 6 TO THE TRANSMISSIBLE SPONGIFORM ENCEPHALOPATHIES (WALES) REGULATIONS 2006[^key-375aee22eb693a260736d1602825641e]
+## THE SCHEDULE — SCHEDULE SUBSTITUTED FOR SCHEDULE 6 TO THE TRANSMISSIBLE SPONGIFORM ENCEPHALOPATHIES (WALES) REGULATIONS 2006[^c-375aee22eb693a260736d1602825641e]
 
 Regulation 2(2)
 
@@ -73,8 +73,8 @@ Regulation 2(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-375aee22eb693a260736d1602825641e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-375aee22eb693a260736d1602825641e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-375aee22eb693a260736d1602825641e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2007/2043) revoked (31.7.2007) by [The Transmissible Spongiform Encephalopathies (Wales) (Amendment) (No.2) Regulations 2007 (S.I. 2007/2244)](https://www.legislation.gov.uk/wsi/2007/2244), [regs. 1](https://www.legislation.gov.uk/wsi/2007/2244/regulation/1), [3](https://www.legislation.gov.uk/wsi/2007/2244/regulation/3)
+[^c-375aee22eb693a260736d1602825641e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2007/2043) revoked (31.7.2007) by [The Transmissible Spongiform Encephalopathies (Wales) (Amendment) (No.2) Regulations 2007 (S.I. 2007/2244)](https://www.legislation.gov.uk/wsi/2007/2244), [regs. 1](https://www.legislation.gov.uk/wsi/2007/2244/regulation/1), [3](https://www.legislation.gov.uk/wsi/2007/2244/regulation/3)

@@ -30,21 +30,21 @@ Salmon Conservation (Scotland) Act 2001 (repealed)
 
 2001 asp 3
 
-[^key-75b2cae886e66d35985aba37ee4556a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75b2cae886e66d35985aba37ee4556a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Conservation of salmon and sea trout[^key-75b2cae886e66d35985aba37ee4556a9][^key-75b2cae886e66d35985aba37ee4556a9]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of section 19 of the 1986 Act[^key-75b2cae886e66d35985aba37ee4556a9][^key-75b2cae886e66d35985aba37ee4556a9]
+## 1. Conservation of salmon and sea trout[^c-75b2cae886e66d35985aba37ee4556a9][^c-75b2cae886e66d35985aba37ee4556a9]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Commencement and short title[^key-75b2cae886e66d35985aba37ee4556a9][^key-75b2cae886e66d35985aba37ee4556a9]
+## 2. Amendment of section 19 of the 1986 Act[^c-75b2cae886e66d35985aba37ee4556a9][^c-75b2cae886e66d35985aba37ee4556a9]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Commencement and short title[^c-75b2cae886e66d35985aba37ee4556a9][^c-75b2cae886e66d35985aba37ee4556a9]
 
 **No longer in force.**
 
@@ -52,4 +52,4 @@ Salmon Conservation (Scotland) Act 2001 (repealed)
 
 ## Annotations
 
-[^key-75b2cae886e66d35985aba37ee4556a9]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2001/3) repealed (1.4.2005) by [Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15)](https://www.legislation.gov.uk/asp/2003/15), [s. 71(2)](https://www.legislation.gov.uk/asp/2003/15/section/71/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2003/15/schedule/4/part/2) (with [s. 71(3)](https://www.legislation.gov.uk/asp/2003/15/section/71/3)[(4)](https://www.legislation.gov.uk/asp/2003/15/section/71/4)[(6)](https://www.legislation.gov.uk/asp/2003/15/section/71/6)); [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-75b2cae886e66d35985aba37ee4556a9]: Textual amendment: [Act](https://www.legislation.gov.uk/asp/2001/3) repealed (1.4.2005) by [Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15)](https://www.legislation.gov.uk/asp/2003/15), [s. 71(2)](https://www.legislation.gov.uk/asp/2003/15/section/71/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2003/15/schedule/4/part/2) (with [s. 71(3)](https://www.legislation.gov.uk/asp/2003/15/section/71/3)[(4)](https://www.legislation.gov.uk/asp/2003/15/section/71/4)[(6)](https://www.legislation.gov.uk/asp/2003/15/section/71/6)); [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

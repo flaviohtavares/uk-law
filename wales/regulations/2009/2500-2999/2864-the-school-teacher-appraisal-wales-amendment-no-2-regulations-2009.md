@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The School Teacher Appraisal (Wales) (Amendment No. 2) Regulations 2009 (revoked)[^key-ed74f3e84b3ea9807cb08b4a70e8e024]
+The School Teacher Appraisal (Wales) (Amendment No. 2) Regulations 2009 (revoked)[^c-ed74f3e84b3ea9807cb08b4a70e8e024]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 24 November 2009
 
-[^key-ed74f3e84b3ea9807cb08b4a70e8e024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed74f3e84b3ea9807cb08b4a70e8e024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, Commencement and Application[^key-ed74f3e84b3ea9807cb08b4a70e8e024]
+## 1. Title, Commencement and Application[^c-ed74f3e84b3ea9807cb08b4a70e8e024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-ed74f3e84b3ea9807cb08b4a70e8e024]
+## 2. Amendments[^c-ed74f3e84b3ea9807cb08b4a70e8e024]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed74f3e84b3ea9807cb08b4a70e8e024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed74f3e84b3ea9807cb08b4a70e8e024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ed74f3e84b3ea9807cb08b4a70e8e024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed74f3e84b3ea9807cb08b4a70e8e024]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ed74f3e84b3ea9807cb08b4a70e8e024]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/2864) revoked (1.1.2012) by [The School Teacher Appraisal (Wales) Regulations 2011 (S.I. 2011/2940)](https://www.legislation.gov.uk/wsi/2011/2940), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/2/2), [Sch.](https://www.legislation.gov.uk/wsi/2011/2940/schedule))
+[^c-ed74f3e84b3ea9807cb08b4a70e8e024]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2009/2864) revoked (1.1.2012) by [The School Teacher Appraisal (Wales) Regulations 2011 (S.I. 2011/2940)](https://www.legislation.gov.uk/wsi/2011/2940), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/wsi/2011/2940/regulation/2/2), [Sch.](https://www.legislation.gov.uk/wsi/2011/2940/schedule))

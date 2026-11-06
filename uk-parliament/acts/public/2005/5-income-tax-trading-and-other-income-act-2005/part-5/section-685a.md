@@ -28,9 +28,9 @@ summary: ''
 
 (2) This section applies only in respect of that proportion of the annual payment which corresponds to the proportion of the total income arising to the trustees of the settlement in respect of which a settlor is chargeable to tax under section 619(1).
 
-(3) If and in so far as this section applies, the recipient of the annual payment shall be treated for the purposes of this Chapter as having paid income tax at the applicable rate[^key-b8260c849ca1471a808125a65fca359d] in respect of the annual payment.
+(3) If and in so far as this section applies, the recipient of the annual payment shall be treated for the purposes of this Chapter as having paid income tax at the applicable rate[^c-b8260c849ca1471a808125a65fca359d] in respect of the annual payment.
 
-(3A)[^key-278b7d8342336024a517d935056852d2] For the purposes of subsection (3), the “applicable rate” means—
+(3A)[^c-278b7d8342336024a517d935056852d2] For the purposes of subsection (3), the “applicable rate” means—
 
 - (a) in the case of a Scottish taxpayer, the highest Scottish rate,
 - (b) in the case of a Welsh taxpayer, the Welsh additional rate, or
@@ -44,7 +44,7 @@ summary: ''
 
 (5) If the recipient of the annual payment is a settlor in relation to the settlement, if and in so far as this section applies the annual payment shall not be treated as his income for the purposes of the Income Tax Acts (and subsection (3) does not apply).
 
-(5A)[^key-5b91b1264225459fcd95627cf6032045] If the recipient of the annual payment is treated by subsection (3) as having paid income tax in respect of the annual payment, the amount of the payment is treated as the highest part of the recipient's total income for all income tax purposes except the purposes of sections 535 to 537 (gains from contracts for life insurance etc: top slicing relief).
+(5A)[^c-5b91b1264225459fcd95627cf6032045] If the recipient of the annual payment is treated by subsection (3) as having paid income tax in respect of the annual payment, the amount of the payment is treated as the highest part of the recipient's total income for all income tax purposes except the purposes of sections 535 to 537 (gains from contracts for life insurance etc: top slicing relief).
 
 (5B) See section 1012 of ITA 2007 (relationship between highest part rules) for the relationship between—
 
@@ -57,12 +57,12 @@ summary: ''
 
 [^c19753751]: Textual amendment: S. 685A inserted (19.7.2006 with effect as mentioned in [Sch. 13 para. 6(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/6/2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 89](https://www.legislation.gov.uk/ukpga/2006/25/section/89), [Sch. 13 para. 6(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/13/paragraph/6/1)
 
-[^key-b8260c849ca1471a808125a65fca359d]: Textual amendment: Words in s. 685A(3) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Devolved Income Tax Rates (Consequential Amendments) Order 2019 (S.I. 2019/201)](https://www.legislation.gov.uk/uksi/2019/201), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/201/article/1/1), [10(4)(a)](https://www.legislation.gov.uk/uksi/2019/201/article/10/4/a)
+[^c-b8260c849ca1471a808125a65fca359d]: Textual amendment: Words in s. 685A(3) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Devolved Income Tax Rates (Consequential Amendments) Order 2019 (S.I. 2019/201)](https://www.legislation.gov.uk/uksi/2019/201), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/201/article/1/1), [10(4)(a)](https://www.legislation.gov.uk/uksi/2019/201/article/10/4/a)
 
-[^key-278b7d8342336024a517d935056852d2]: Textual amendment: S. 685A(3A) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Devolved Income Tax Rates (Consequential Amendments) Order 2019 (S.I. 2019/201)](https://www.legislation.gov.uk/uksi/2019/201), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/201/article/1/1), [10(4)(b)](https://www.legislation.gov.uk/uksi/2019/201/article/10/4/b)
+[^c-278b7d8342336024a517d935056852d2]: Textual amendment: S. 685A(3A) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Devolved Income Tax Rates (Consequential Amendments) Order 2019 (S.I. 2019/201)](https://www.legislation.gov.uk/uksi/2019/201), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/201/article/1/1), [10(4)(b)](https://www.legislation.gov.uk/uksi/2019/201/article/10/4/b)
 
 [^c19753781]: Textual amendment: S. 685A(4)(c) and preceding word repealed (6.4.2007 with effect as stated in [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [ss. 1027](https://www.legislation.gov.uk/ukpga/2007/3/section/1027), [1031](https://www.legislation.gov.uk/ukpga/2007/3/section/1031), [1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034), [Sch. 1 para. 569(2)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/569/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with transitional provisions and savings in [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-5b91b1264225459fcd95627cf6032045]: Textual amendment: S. 685A(5A)(5B) inserted (with effect in accordance with s. 67(3) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/67/1)
+[^c-5b91b1264225459fcd95627cf6032045]: Textual amendment: S. 685A(5A)(5B) inserted (with effect in accordance with s. 67(3) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/67/1)
 
 [^c19754591]: Textual amendment: Words in s. 685A(6) substituted (6.4.2007 with effect as stated in [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [ss. 1027](https://www.legislation.gov.uk/ukpga/2007/3/section/1027), [1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034), [Sch. 1 para. 569(3)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/569/3) (with transitional provisions and savings in [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

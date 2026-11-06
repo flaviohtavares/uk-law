@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112.[^key-a20cd0de0b1483916ac52c1f5d7e665e]
+## 112.[^c-a20cd0de0b1483916ac52c1f5d7e665e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 168 (gifts of business assets: emigration of donee), in subsection (3
 
 ## Annotations
 
-[^key-a20cd0de0b1483916ac52c1f5d7e665e]: Commencement: Reg. 112 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-a20cd0de0b1483916ac52c1f5d7e665e]: Commencement: Reg. 112 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

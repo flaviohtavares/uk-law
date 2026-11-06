@@ -58,13 +58,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (1) In these Regulations–
 
-- “**the Directive**” means Directive [2003/99/EC](https://www.legislation.gov.uk/european/directive/2003/0099) of the European Parliament and of the Council on the monitoring of zoonoses and zoonotic agents, amending Council Decision [90/424/EEC](https://www.legislation.gov.uk/european/decision/1990/0424) and repealing Council Directive [92/117/EEC](https://www.legislation.gov.uk/european/decision/1992/0117) [^c18878251], as last amended by Council[^key-02ff27697557ef5c39d3b424f47a9c12] [Directive 2013/20/EU](https://www.legislation.gov.uk/european/directive/2013/0020);
+- “**the Directive**” means Directive [2003/99/EC](https://www.legislation.gov.uk/european/directive/2003/0099) of the European Parliament and of the Council on the monitoring of zoonoses and zoonotic agents, amending Council Decision [90/424/EEC](https://www.legislation.gov.uk/european/decision/1990/0424) and repealing Council Directive [92/117/EEC](https://www.legislation.gov.uk/european/decision/1992/0117) [^c18878251], as last amended by Council[^c-02ff27697557ef5c39d3b424f47a9c12] [Directive 2013/20/EU](https://www.legislation.gov.uk/european/directive/2013/0020);
 - “**inspector**” means a person appointed to be an inspector for the purposes of these Regulations by the Scottish Ministers or a local authority; and
 - “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c18878261].
 
 (2) Expressions used in these Regulations and the Directive have the same meaning in these Regulations as they have for the purposes of the Directive.
 
-## 3. Competent authority[^key-e4ff0bd749b958c3fe63e6baaae22d87]
+## 3. Competent authority[^c-e4ff0bd749b958c3fe63e6baaae22d87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -108,8 +108,8 @@ An inspector entering premises under regulation 4 may–
 - (d) make inquiries of any person;
 - (e) place on the premises any equipment (including any trap) for the purpose of capturing or monitoring any wild animal (including any arthropod vector) or for detecting any micro-organism; and
 - (f) be accompanied by–
-  - (i)[^key-5ec44d14cbaa3acde4a4ab78d85cff57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^key-6d5a5d41f48d3a1c233d350b1c2f3450]...
-  - (ii) any [^key-5a96cf05ee757ea0bcfcec835b2fd663]... person or any vehicle or equipment that the inspector considers necessary for the execution of these Regulations.
+  - (i)[^c-5ec44d14cbaa3acde4a4ab78d85cff57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c-6d5a5d41f48d3a1c233d350b1c2f3450]...
+  - (ii) any [^c-5a96cf05ee757ea0bcfcec835b2fd663]... person or any vehicle or equipment that the inspector considers necessary for the execution of these Regulations.
 
 ## 6. Examination of isolates
 
@@ -118,7 +118,7 @@ An inspector entering premises under regulation 4 may–
 - (a) take all reasonable steps to ensure that the isolate is preserved for a period of 2 weeks from the date of the examination; and
 - (b) keep the results of the examination for a period of 12 months from receipt and supply them to the Scottish Ministers upon demand.
 
-(2) Paragraph (1) does not apply to any sample taken for the purposes of the Control of Salmonella in Poultry (Breeding, Laying and Broiler Flocks) (Scotland) Order 2009[^key-517317d02e544065b2a1bb96502ac5e6].
+(2) Paragraph (1) does not apply to any sample taken for the purposes of the Control of Salmonella in Poultry (Breeding, Laying and Broiler Flocks) (Scotland) Order 2009[^c-517317d02e544065b2a1bb96502ac5e6].
 
 ## 7. Monitoring wild animals
 
@@ -220,16 +220,16 @@ A Regulatory Impact Assessment and Transposition Note has been prepared and plac
 
 [^c18878251]: Marginal citation: O.J. No. L 325, 12.12.2003, p.31.
 
-[^key-02ff27697557ef5c39d3b424f47a9c12]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/420/regulation/2/1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [32(2)](https://www.legislation.gov.uk/ssi/2018/391/regulation/32/2)
+[^c-02ff27697557ef5c39d3b424f47a9c12]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2007/420/regulation/2/1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [32(2)](https://www.legislation.gov.uk/ssi/2018/391/regulation/32/2)
 
 [^c18878261]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-e4ff0bd749b958c3fe63e6baaae22d87]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2007/420/regulation/3) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [23(2)](https://www.legislation.gov.uk/ssi/2019/71/regulation/23/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e4ff0bd749b958c3fe63e6baaae22d87]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2007/420/regulation/3) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [23(2)](https://www.legislation.gov.uk/ssi/2019/71/regulation/23/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5ec44d14cbaa3acde4a4ab78d85cff57]: Textual amendment: [Reg. 5(f)(i)](https://www.legislation.gov.uk/ssi/2007/420/regulation/5/f/i) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [23(3)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/23/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ec44d14cbaa3acde4a4ab78d85cff57]: Textual amendment: [Reg. 5(f)(i)](https://www.legislation.gov.uk/ssi/2007/420/regulation/5/f/i) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [23(3)(a)](https://www.legislation.gov.uk/ssi/2019/71/regulation/23/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6d5a5d41f48d3a1c233d350b1c2f3450]: Textual amendment: Word in [reg. 5(f)](https://www.legislation.gov.uk/ssi/2007/420/regulation/5/f) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [23(3)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/23/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d5a5d41f48d3a1c233d350b1c2f3450]: Textual amendment: Word in [reg. 5(f)](https://www.legislation.gov.uk/ssi/2007/420/regulation/5/f) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [23(3)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/23/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5a96cf05ee757ea0bcfcec835b2fd663]: Textual amendment: Word in [reg. 5(f)(ii)](https://www.legislation.gov.uk/ssi/2007/420/regulation/5/f/ii) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [23(3)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/23/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a96cf05ee757ea0bcfcec835b2fd663]: Textual amendment: Word in [reg. 5(f)(ii)](https://www.legislation.gov.uk/ssi/2007/420/regulation/5/f/ii) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [23(3)(c)](https://www.legislation.gov.uk/ssi/2019/71/regulation/23/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-517317d02e544065b2a1bb96502ac5e6]: Textual amendment: Words in reg. 6(2) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [32(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/32/3)
+[^c-517317d02e544065b2a1bb96502ac5e6]: Textual amendment: Words in reg. 6(2) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [32(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/32/3)

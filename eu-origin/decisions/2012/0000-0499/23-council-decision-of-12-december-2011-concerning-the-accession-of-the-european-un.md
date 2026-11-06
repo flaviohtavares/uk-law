@@ -36,26 +36,26 @@ concerning the accession of the European Union to the Protocol of 2002 to the At
 
 (2012/23/EU) (revoked)
 
-[^key-3e9cba7df9b12238e146bb347763b452]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e9cba7df9b12238e146bb347763b452]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-3e9cba7df9b12238e146bb347763b452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-3e9cba7df9b12238e146bb347763b452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-3e9cba7df9b12238e146bb347763b452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-3e9cba7df9b12238e146bb347763b452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-3e9cba7df9b12238e146bb347763b452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-3e9cba7df9b12238e146bb347763b452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-3e9cba7df9b12238e146bb347763b452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-3e9cba7df9b12238e146bb347763b452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — ARTICLES 10 AND 11 OF THE PROTOCOL OF 2002 TO THE ATHENS CONVENTION RELATING TO THE CARRIAGE OF PASSENGERS AND THEIR LUGGAGE BY SEA, 1974[^key-3e9cba7df9b12238e146bb347763b452]
+## ANNEX — ARTICLES 10 AND 11 OF THE PROTOCOL OF 2002 TO THE ATHENS CONVENTION RELATING TO THE CARRIAGE OF PASSENGERS AND THEIR LUGGAGE BY SEA, 1974[^c-3e9cba7df9b12238e146bb347763b452]
 
-**Article 10.**[^key-3e9cba7df9b12238e146bb347763b452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-3e9cba7df9b12238e146bb347763b452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-3e9cba7df9b12238e146bb347763b452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-3e9cba7df9b12238e146bb347763b452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e9cba7df9b12238e146bb347763b452]: Textual amendment: Decision revoked (31.12.2020) by [The Merchant Shipping (Passengers' Rights) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/649)](https://www.legislation.gov.uk/uksi/2019/649), [regs. 1](https://www.legislation.gov.uk/uksi/2019/649/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/649/regulation/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e9cba7df9b12238e146bb347763b452]: Textual amendment: Decision revoked (31.12.2020) by [The Merchant Shipping (Passengers' Rights) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/649)](https://www.legislation.gov.uk/uksi/2019/649), [regs. 1](https://www.legislation.gov.uk/uksi/2019/649/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/649/regulation/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

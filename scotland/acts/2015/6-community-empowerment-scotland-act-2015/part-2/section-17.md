@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Establishment of corporate bodies[^key-67b382bafa8ffcc647fa45effdde80b0]
+## 17. Establishment of corporate bodies[^c-67b382bafa8ffcc647fa45effdde80b0]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67b382bafa8ffcc647fa45effdde80b0]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2015/6/section/17) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)
+[^c-67b382bafa8ffcc647fa45effdde80b0]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2015/6/section/17) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)

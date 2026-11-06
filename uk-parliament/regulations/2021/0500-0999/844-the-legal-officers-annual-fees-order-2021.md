@@ -31,7 +31,7 @@ summary: ''
 
 Ecclesiastical Law, England
 
-The Legal Officers (Annual Fees) Order 2021 (revoked)[^key-69a3b9e9d42cb49898fe7d36130a580b]
+The Legal Officers (Annual Fees) Order 2021 (revoked)[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 Made
 
@@ -45,90 +45,90 @@ Coming into force
 
 1st January 2022
 
-[^key-69a3b9e9d42cb49898fe7d36130a580b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69a3b9e9d42cb49898fe7d36130a580b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-69a3b9e9d42cb49898fe7d36130a580b]
+## 1. Citation, commencement and interpretation[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Annual fees[^key-69a3b9e9d42cb49898fe7d36130a580b]
+## 2. Annual fees[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payment of fees[^key-69a3b9e9d42cb49898fe7d36130a580b]
+## 3. Payment of fees[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of 2019 Order[^key-69a3b9e9d42cb49898fe7d36130a580b]
+## 4. Revocation of 2019 Order[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Duties of the diocesan registrar[^key-69a3b9e9d42cb49898fe7d36130a580b]
+## 5. Duties of the diocesan registrar[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Supplementary annual fee[^key-69a3b9e9d42cb49898fe7d36130a580b]
+## 6. Supplementary annual fee[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Travel, subsistence and accommodation[^key-69a3b9e9d42cb49898fe7d36130a580b]
+## 7. Travel, subsistence and accommodation[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Value Added Tax[^key-69a3b9e9d42cb49898fe7d36130a580b]
+## 8. Value Added Tax[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-69a3b9e9d42cb49898fe7d36130a580b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69a3b9e9d42cb49898fe7d36130a580b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Fees payable under this Order[^key-69a3b9e9d42cb49898fe7d36130a580b]
+## SCHEDULE 1 — Fees payable under this Order[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 Article 2
 
-### TABLE 1 — Annual fees payable to diocesan registrars in respect of 2022[^key-69a3b9e9d42cb49898fe7d36130a580b]
+### TABLE 1 — Annual fees payable to diocesan registrars in respect of 2022[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### TABLE 2 — Annual fees payable to provincial registrars in respect of 2022[^key-69a3b9e9d42cb49898fe7d36130a580b]
+### TABLE 2 — Annual fees payable to provincial registrars in respect of 2022[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
-#### PART A — Fees payable[^key-69a3b9e9d42cb49898fe7d36130a580b]
+#### PART A — Fees payable[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### PART B — Duties and professional services not falling within the scope of the annual fee[^key-69a3b9e9d42cb49898fe7d36130a580b]
+#### PART B — Duties and professional services not falling within the scope of the annual fee[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
-**1.**[^key-69a3b9e9d42cb49898fe7d36130a580b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-69a3b9e9d42cb49898fe7d36130a580b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — The scope of the annual fee[^key-69a3b9e9d42cb49898fe7d36130a580b]
+## SCHEDULE 2 — The scope of the annual fee[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 Article 2
 
-### 1. Professional services to be provided by the diocesan registrar[^key-69a3b9e9d42cb49898fe7d36130a580b]
+### 1. Professional services to be provided by the diocesan registrar[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Restrictions on the provisions of paragraph 1[^key-69a3b9e9d42cb49898fe7d36130a580b]
+### 2. Restrictions on the provisions of paragraph 1[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Advice or assistance given to the diocesan bishop, suffragan bishops or archdeacons[^key-69a3b9e9d42cb49898fe7d36130a580b]
+### 3. Advice or assistance given to the diocesan bishop, suffragan bishops or archdeacons[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Work not falling within the scope of the annual fee[^key-69a3b9e9d42cb49898fe7d36130a580b]
+### 4. Work not falling within the scope of the annual fee[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Disbursements[^key-69a3b9e9d42cb49898fe7d36130a580b]
+### 5. Disbursements[^c-69a3b9e9d42cb49898fe7d36130a580b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-69a3b9e9d42cb49898fe7d36130a580b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69a3b9e9d42cb49898fe7d36130a580b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-69a3b9e9d42cb49898fe7d36130a580b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/844) revoked (1.1.2023) by [The Legal Officers (Annual Fees) Order 2022 (S.I. 2022/879)](https://www.legislation.gov.uk/uksi/2022/879), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/879/article/1/2), [4](https://www.legislation.gov.uk/uksi/2022/879/article/4)
+[^c-69a3b9e9d42cb49898fe7d36130a580b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/844) revoked (1.1.2023) by [The Legal Officers (Annual Fees) Order 2022 (S.I. 2022/879)](https://www.legislation.gov.uk/uksi/2022/879), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/879/article/1/2), [4](https://www.legislation.gov.uk/uksi/2022/879/article/4)

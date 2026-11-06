@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Definition of proxy[^key-67f0ab44465b4e382666a4ea91ba515f]
+## 140. Definition of proxy[^c-67f0ab44465b4e382666a4ea91ba515f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67f0ab44465b4e382666a4ea91ba515f]: Commencement: Rule 140 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-67f0ab44465b4e382666a4ea91ba515f]: Commencement: Rule 140 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

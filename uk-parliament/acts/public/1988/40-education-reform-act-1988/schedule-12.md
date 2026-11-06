@@ -232,9 +232,9 @@ Section 237.
 
 **44.** In section 177(2) of that Act (allowances to members of local authorities: supplementary), for “(ab)” there shall be substituted “(ac)”.
 
-**45.**[^key-2d3bdb0d97d640604d16c160271ec309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-2d3bdb0d97d640604d16c160271ec309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**46.**[^key-2d3bdb0d97d640604d16c160271ec309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-2d3bdb0d97d640604d16c160271ec309] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -252,7 +252,7 @@ Section 237.
 
 #### The Health Service Joint Consultative Committees (Access to Information) Act 1986 (c. 24)
 
-**52.**[^key-6a66f3257a5b5e6f903887764c98a717] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-6a66f3257a5b5e6f903887764c98a717] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)
 
@@ -262,7 +262,7 @@ Section 237.
 
 (3) In subsection (9) the following definition shall be substituted for the definition of “**the appropriate officer or authority**”—
 
-> - “the appropriate officer” of a local authority is such officer discharging functions of that authority in their capacity as a local authority[^key-dd8a5cd1b7a66756b606dd2897e7636c], or in Scotland an education authority, as may be appointed by the authority for the purposes of this section;
+> - “the appropriate officer” of a local authority is such officer discharging functions of that authority in their capacity as a local authority[^c-dd8a5cd1b7a66756b606dd2897e7636c], or in Scotland an education authority, as may be appointed by the authority for the purposes of this section;
 
 .
 
@@ -320,7 +320,7 @@ Section 237.
 
 #### The Factories Act 1961 (c. 34)
 
-**65.**[^key-cdf4523ad7ea6985d0cc3baa8a1a472a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**65.**[^c-cdf4523ad7ea6985d0cc3baa8a1a472a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Veterinary Surgeons Act 1966 (c. 36)
 
@@ -394,7 +394,7 @@ Section 237.
 - (a) in sub-paragraph (i) after “3” there shall be inserted “4A”; and
 - (b) in sub-paragraph (ii) the words “(a) or” shall be omitted.
 
-**75.**[^key-a288091d5da6086c034e503902c3da5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**75.**[^c-a288091d5da6086c034e503902c3da5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
@@ -448,7 +448,7 @@ Section 237.
 
 #### The Agricultural Training Board Act 1982 (c. 9)
 
-**86.**[^key-d7058128c757ca8879f355fa5752b9be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**86.**[^c-d7058128c757ca8879f355fa5752b9be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Industrial Training Act 1982 (c. 10)
 
@@ -469,7 +469,7 @@ Section 237.
 
 #### The Local Government (Miscellaneous Provisions) Act 1982 (c. 30)
 
-**90.**[^key-e0b7821b10acdad8b9a91a03441b8104] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**90.**[^c-e0b7821b10acdad8b9a91a03441b8104] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Education (Fees and Awards) Act 1983 (c. 40)
 
@@ -675,15 +675,15 @@ Section 237.
 
 [^c12686411]: Textual amendment: Sch. 12 para. 40 repealed by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 3](https://www.legislation.gov.uk/ukpga/1990/11/section/3), [Sch. 1 Part I](https://www.legislation.gov.uk/ukpga/1990/11/schedule/1)
 
-[^key-2d3bdb0d97d640604d16c160271ec309]: Textual amendment: Sch. 12 paras. 45, 46 repealed (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-2d3bdb0d97d640604d16c160271ec309]: Textual amendment: Sch. 12 paras. 45, 46 repealed (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
 [^c12686421]: Textual amendment: Sch. 12 paras. 47, 48 repealed by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(2)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/2), [Sch. 12 Part I](https://www.legislation.gov.uk/ukpga/1989/42/schedule/12)
 
 [^c12686431]: Textual amendment: Sch. 12 para. 49 repealed (1.1.1991 save as mentioned in [S.I. 1990/2437](https://www.legislation.gov.uk/uksi/1990/2437), [art. 3(3)](https://www.legislation.gov.uk/uksi/1990/2437/article/3/3)) by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 203(3)](https://www.legislation.gov.uk/ukpga/1990/42/section/203/3), [Sch. 21](https://www.legislation.gov.uk/ukpga/1990/42/schedule/21)
 
-[^key-6a66f3257a5b5e6f903887764c98a717]: Textual amendment: Sch. 12 para. 52 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-6a66f3257a5b5e6f903887764c98a717]: Textual amendment: Sch. 12 para. 52 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
-[^key-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)
+[^c-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)
 
 [^c12686441]: Textual amendment: Sch. 12 Pt. III para. 54 repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2), [583](https://www.legislation.gov.uk/ukpga/1996/56/section/583), [Sch. 38 Pt.I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39)).
 
@@ -707,7 +707,7 @@ Section 237.
 
 [^c12686541]: Textual amendment: Sch. 12 para. 64 repealed (1.8.1993) by [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10), [ss. 98(2)](https://www.legislation.gov.uk/ukpga/1993/10/section/98/2), [99(1)](https://www.legislation.gov.uk/ukpga/1993/10/section/99/1), [Sch.7](https://www.legislation.gov.uk/ukpga/1993/10/schedule/7)
 
-[^key-cdf4523ad7ea6985d0cc3baa8a1a472a]: Textual amendment: Sch. 12 para. 65 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-cdf4523ad7ea6985d0cc3baa8a1a472a]: Textual amendment: Sch. 12 para. 65 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
 [^c12686551]: Textual amendment: Sch. 12 para. 68 repealed (1. 4. 1993) by [Further and Higher Education Act 1992 (c. 13)](https://www.legislation.gov.uk/ukpga/1992/13), [s. 93](https://www.legislation.gov.uk/ukpga/1992/13/section/93), [Sch. 8 Pt. I para. 66](https://www.legislation.gov.uk/ukpga/1992/13/schedule/8/part/I/paragraph/66), [Sch.9](https://www.legislation.gov.uk/ukpga/1992/13/schedule/9); [S.I. 1992/831](https://www.legislation.gov.uk/uksi/1992/831), [art. 2](https://www.legislation.gov.uk/uksi/1992/831/article/2), [Sch.3](https://www.legislation.gov.uk/uksi/1992/831/schedule/3).
 
@@ -719,7 +719,7 @@ Section 237.
 
 [^c12686601]: Textual amendment: Sch. 12 para. 70 repealed by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 3](https://www.legislation.gov.uk/ukpga/1990/11/section/3), [Sch. 1 Part I](https://www.legislation.gov.uk/ukpga/1990/11/schedule/1)
 
-[^key-a288091d5da6086c034e503902c3da5a]: Textual amendment: Sch. 12 para. 75 repealed (1.10.2005) by [Employment Equality (Sex Discrimination) Regulations 2005 (S.I. 2005/2467)](https://www.legislation.gov.uk/uksi/2005/2467), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2467/regulation/1/1), [23(2)(b)](https://www.legislation.gov.uk/uksi/2005/2467/regulation/23/2/b)
+[^c-a288091d5da6086c034e503902c3da5a]: Textual amendment: Sch. 12 para. 75 repealed (1.10.2005) by [Employment Equality (Sex Discrimination) Regulations 2005 (S.I. 2005/2467)](https://www.legislation.gov.uk/uksi/2005/2467), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2467/regulation/1/1), [23(2)(b)](https://www.legislation.gov.uk/uksi/2005/2467/regulation/23/2/b)
 
 [^c12686611]: Textual amendment: Sch. 12 Pt. III para. 76 repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2), [583](https://www.legislation.gov.uk/ukpga/1996/56/section/583), [Sch. 38 Pt.I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39)).
 
@@ -739,11 +739,11 @@ Section 237.
 
 [^c12686691]: Textual amendment: Sch. 12 paras. 83-85 repealed (1.9.1994) by [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35), [s. 307(1)(3)](https://www.legislation.gov.uk/ukpga/1993/35/section/307/1/3), [Sch. 19 para. 145](https://www.legislation.gov.uk/ukpga/1993/35/schedule/19/paragraph/145), [Sch. 21P](https://www.legislation.gov.uk/ukpga/1993/35/schedule/21P)t. I; [S.I. 1994/2038](https://www.legislation.gov.uk/uksi/1994/2038), [art. 3(1)](https://www.legislation.gov.uk/uksi/1994/2038/article/3/1), [Sch. 2A](https://www.legislation.gov.uk/uksi/1994/2038/schedule/2A)ppendix.
 
-[^key-d7058128c757ca8879f355fa5752b9be]: Textual amendment: Sch. 12 para. 86 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
+[^c-d7058128c757ca8879f355fa5752b9be]: Textual amendment: Sch. 12 para. 86 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
 
 [^c12686701]: Textual amendment: Sch. 12 Pt. III para. 87(3) repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2), [583](https://www.legislation.gov.uk/ukpga/1996/56/section/583), [Sch. 38 Pt.I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39)).
 
-[^key-e0b7821b10acdad8b9a91a03441b8104]: Textual amendment: Sch. 12 para. 90 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-e0b7821b10acdad8b9a91a03441b8104]: Textual amendment: Sch. 12 para. 90 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
 
 [^c12686711]: Textual amendment: Sch. 12 Pt. III para. 99 repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2), [583](https://www.legislation.gov.uk/ukpga/1996/56/section/583), [Sch. 38 Pt.I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39)).
 

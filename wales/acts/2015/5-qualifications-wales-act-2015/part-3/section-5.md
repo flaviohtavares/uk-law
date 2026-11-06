@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Duty to set general recognition criteria[^key-a932e41f93d7b75e0e8b8ab5f071961d]
+## 5. Duty to set general recognition criteria[^c-a932e41f93d7b75e0e8b8ab5f071961d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a932e41f93d7b75e0e8b8ab5f071961d]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2015/5/section/5) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-a932e41f93d7b75e0e8b8ab5f071961d]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2015/5/section/5) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

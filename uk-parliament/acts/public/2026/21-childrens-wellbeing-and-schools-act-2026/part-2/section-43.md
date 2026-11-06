@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Expanding the scope of regulation[^key-f8ff00ecaa4fb6fcf0ce41cda5194050]
+## 43. Expanding the scope of regulation[^c-f8ff00ecaa4fb6fcf0ce41cda5194050]
 
 *Extent: E+W*
 
@@ -105,4 +105,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8ff00ecaa4fb6fcf0ce41cda5194050]: Commencement: S. 43 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-f8ff00ecaa4fb6fcf0ce41cda5194050]: Commencement: S. 43 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)

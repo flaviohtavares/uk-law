@@ -22,7 +22,7 @@ summary: ''
 
 Article 9
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT[^key-763da18f1cf72b9ef65de53418f4c29c]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT[^c-763da18f1cf72b9ef65de53418f4c29c]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of alteration, etc.* |
 | --- | --- | --- |
@@ -33,7 +33,7 @@ Article 9
 | North East Lincolnshire | A1173 | Works for the provision of a permanent means of access, altered layout and revised signage and markings within the area edged purple and marked AB on sheet 6 of the street works and accesses plan. |
 | North East Lincolnshire | Kings Road | Works for the provision of a permanent means of access, altered layout and revised signage and markings within each of the areas edged purple and marked respectively Z and AA on sheets 6 and 7 of the street works and accesses plan. |
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^key-106dcf1234ef4402da920293c3f1497a]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^c-106dcf1234ef4402da920293c3f1497a]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street subject to alteration of layout* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
@@ -47,6 +47,6 @@ Article 9
 
 ## Annotations
 
-[^key-763da18f1cf72b9ef65de53418f4c29c]: Commencement: Sch. 5 Pt. 1 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-763da18f1cf72b9ef65de53418f4c29c]: Commencement: Sch. 5 Pt. 1 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
-[^key-106dcf1234ef4402da920293c3f1497a]: Commencement: Sch. 5 Pt. 2 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-106dcf1234ef4402da920293c3f1497a]: Commencement: Sch. 5 Pt. 2 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

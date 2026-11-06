@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Application of Compulsory Purchase (Vesting Declarations) Act 1981[^key-35d8399ae4070332c68f238bb2940f7b]
+## 29. Application of Compulsory Purchase (Vesting Declarations) Act 1981[^c-35d8399ae4070332c68f238bb2940f7b]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-35d8399ae4070332c68f238bb2940f7b]: Commencement: Art. 29 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-35d8399ae4070332c68f238bb2940f7b]: Commencement: Art. 29 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
 
 [^f00024]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66). Sections 2 and 116 were amended by section 4 of, and paragraph 52 of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11). There are other amendments to the 1981 Act which are not relevant to this Order.

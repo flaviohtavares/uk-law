@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34E. Personal advisers[^key-83c9e11f73e8ccbe6b01f2b101609ed2][^c17269591]
+## 34E. Personal advisers[^c-83c9e11f73e8ccbe6b01f2b101609ed2][^c17269591]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83c9e11f73e8ccbe6b01f2b101609ed2]: Modification: [Art. 34E](https://www.legislation.gov.uk/nisi/1995/755/article/34E): power to apply conferred (10.12.2015) by [Children’s Services Co-operation Act (Northern Ireland) 2015 (c. 10)](https://www.legislation.gov.uk/nia/2015/10), [ss. 9(2)(b)](https://www.legislation.gov.uk/nia/2015/10/section/9/2/b), [10(1)](https://www.legislation.gov.uk/nia/2015/10/section/10/1)
+[^c-83c9e11f73e8ccbe6b01f2b101609ed2]: Modification: [Art. 34E](https://www.legislation.gov.uk/nisi/1995/755/article/34E): power to apply conferred (10.12.2015) by [Children’s Services Co-operation Act (Northern Ireland) 2015 (c. 10)](https://www.legislation.gov.uk/nia/2015/10), [ss. 9(2)(b)](https://www.legislation.gov.uk/nia/2015/10/section/9/2/b), [10(1)](https://www.legislation.gov.uk/nia/2015/10/section/10/1)
 
 [^c17269591]: Textual amendment: [2002 c. 11 (NI)](https://www.legislation.gov.uk/nia/2002/11)

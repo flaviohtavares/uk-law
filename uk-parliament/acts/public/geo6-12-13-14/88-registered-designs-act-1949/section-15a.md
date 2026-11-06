@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. The nature of registered designs[^key-d1980f94036a414d1c29a16fc87c2df9]
+## 15A. The nature of registered designs[^c-d1980f94036a414d1c29a16fc87c2df9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A registered design or an application for a registered design is personal proper
 
 ## Annotations
 
-[^key-d1980f94036a414d1c29a16fc87c2df9]: Textual amendment: Ss. 15A-15C and cross-heading inserted (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2006/1028/schedule/1/paragraph/2)
+[^c-d1980f94036a414d1c29a16fc87c2df9]: Textual amendment: Ss. 15A-15C and cross-heading inserted (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2006/1028/schedule/1/paragraph/2)

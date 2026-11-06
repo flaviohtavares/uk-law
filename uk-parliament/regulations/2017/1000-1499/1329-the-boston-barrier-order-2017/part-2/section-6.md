@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Power to dredge etc.[^key-d5be03201b3a57dda4a6e0ee0f7f8ea1]
+## 6. Power to dredge etc.[^c-d5be03201b3a57dda4a6e0ee0f7f8ea1]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5be03201b3a57dda4a6e0ee0f7f8ea1]: Commencement: Art. 6 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-d5be03201b3a57dda4a6e0ee0f7f8ea1]: Commencement: Art. 6 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
 [^f00032]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

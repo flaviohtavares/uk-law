@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Application of the 1981 Act[^key-d06e75b1320baef5bf5df633b67c136d]
+## 22. Application of the 1981 Act[^c-d06e75b1320baef5bf5df633b67c136d]
 
 *Extent: E+W+S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d06e75b1320baef5bf5df633b67c136d]: Commencement: Art. 22 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-d06e75b1320baef5bf5df633b67c136d]: Commencement: Art. 22 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
 [^f00043]: Footnote: Section 5A to the 1981 Act was inserted by section 182(2) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).

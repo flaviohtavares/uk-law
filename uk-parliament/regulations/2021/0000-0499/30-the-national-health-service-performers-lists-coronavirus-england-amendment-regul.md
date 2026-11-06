@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Performers Lists, Coronavirus) (England) Amendment Regulations 2021 (revoked)[^key-1dff8982ca0cccd4e65ca7bfc5ed71c7]
+The National Health Service (Performers Lists, Coronavirus) (England) Amendment Regulations 2021 (revoked)[^c-1dff8982ca0cccd4e65ca7bfc5ed71c7]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 14th January 2021
 
-[^key-1dff8982ca0cccd4e65ca7bfc5ed71c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1dff8982ca0cccd4e65ca7bfc5ed71c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-1dff8982ca0cccd4e65ca7bfc5ed71c7]
+## 1. Citation, commencement and application[^c-1dff8982ca0cccd4e65ca7bfc5ed71c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Health Service (Performers Lists) (England) Regulations 2013[^key-1dff8982ca0cccd4e65ca7bfc5ed71c7]
+## 2. Amendment of the National Health Service (Performers Lists) (England) Regulations 2013[^c-1dff8982ca0cccd4e65ca7bfc5ed71c7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1dff8982ca0cccd4e65ca7bfc5ed71c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1dff8982ca0cccd4e65ca7bfc5ed71c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1dff8982ca0cccd4e65ca7bfc5ed71c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1dff8982ca0cccd4e65ca7bfc5ed71c7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1dff8982ca0cccd4e65ca7bfc5ed71c7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/30) revoked (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/575/regulation/2/5/b)
+[^c-1dff8982ca0cccd4e65ca7bfc5ed71c7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/30) revoked (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/575/regulation/2/5/b)

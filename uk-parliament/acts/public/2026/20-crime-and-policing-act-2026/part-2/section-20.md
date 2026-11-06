@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Unlawful weapons content[^key-80e72574aef599f59511340767b680a7]
+## 20. Unlawful weapons content[^c-80e72574aef599f59511340767b680a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80e72574aef599f59511340767b680a7]: Commencement: S. 20 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-80e72574aef599f59511340767b680a7]: Commencement: S. 20 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

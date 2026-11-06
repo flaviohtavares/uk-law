@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 166. Use of websites by postal administrator[^key-7a54841b878f517fefe5cc0d9d83463d]
+## 166. Use of websites by postal administrator[^c-7a54841b878f517fefe5cc0d9d83463d]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a54841b878f517fefe5cc0d9d83463d]: Commencement: [Rule 166](https://www.legislation.gov.uk/uksi/2013/3208/rule/166) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-7a54841b878f517fefe5cc0d9d83463d]: Commencement: [Rule 166](https://www.legislation.gov.uk/uksi/2013/3208/rule/166) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

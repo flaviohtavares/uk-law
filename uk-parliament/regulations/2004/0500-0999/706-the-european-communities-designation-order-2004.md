@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) Order 2004 (revoked)[^key-7e1b60fb83949f287c0198103ae64e61]
+The European Communities (Designation) Order 2004 (revoked)[^c-7e1b60fb83949f287c0198103ae64e61]
 
 Made
 
@@ -51,50 +51,50 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-7e1b60fb83949f287c0198103ae64e61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e1b60fb83949f287c0198103ae64e61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-7e1b60fb83949f287c0198103ae64e61]
+## 1. Citation, commencement and interpretation[^c-7e1b60fb83949f287c0198103ae64e61]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of Ministers or government departments[^key-7e1b60fb83949f287c0198103ae64e61]
+## 2. Designation of Ministers or government departments[^c-7e1b60fb83949f287c0198103ae64e61]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of Northern Ireland departments[^key-7e1b60fb83949f287c0198103ae64e61]
+## 3. Designation of Northern Ireland departments[^c-7e1b60fb83949f287c0198103ae64e61]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Designation of the National Assembly for Wales[^key-7e1b60fb83949f287c0198103ae64e61]
+## 4. Designation of the National Assembly for Wales[^c-7e1b60fb83949f287c0198103ae64e61]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7e1b60fb83949f287c0198103ae64e61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e1b60fb83949f287c0198103ae64e61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DESIGNATION OF MINISTERS OR GOVERNMENT DEPARTMENTS[^key-7e1b60fb83949f287c0198103ae64e61]
+## SCHEDULE 1 — DESIGNATION OF MINISTERS OR GOVERNMENT DEPARTMENTS[^c-7e1b60fb83949f287c0198103ae64e61]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — MATTERS IN RELATION TO WHICH ANY NORTHERN IRELAND DEPARTMENT IS DESIGNATED[^key-7e1b60fb83949f287c0198103ae64e61]
+## SCHEDULE 2 — MATTERS IN RELATION TO WHICH ANY NORTHERN IRELAND DEPARTMENT IS DESIGNATED[^c-7e1b60fb83949f287c0198103ae64e61]
 
 Article 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — MATTERS IN RELATION TO WHICH THE NATIONAL ASSEMBLY FOR WALES IS DESIGNATED[^key-7e1b60fb83949f287c0198103ae64e61]
+## SCHEDULE 3 — MATTERS IN RELATION TO WHICH THE NATIONAL ASSEMBLY FOR WALES IS DESIGNATED[^c-7e1b60fb83949f287c0198103ae64e61]
 
 Article 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7e1b60fb83949f287c0198103ae64e61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e1b60fb83949f287c0198103ae64e61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7e1b60fb83949f287c0198103ae64e61]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2004/706) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7e1b60fb83949f287c0198103ae64e61]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2004/706) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

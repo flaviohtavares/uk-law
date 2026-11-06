@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Interpretation: general[^key-58ef48a85e606bb56bb2951fa61429f4]
+## 166. Interpretation: general[^c-58ef48a85e606bb56bb2951fa61429f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) in Scotland, the Court of Session, and
 - (c) in Northern Ireland, the High Court.
 
-(2)[^key-1868d9c6de3edb2438e8bd046ec19704] In this Part—
+(2)[^c-1868d9c6de3edb2438e8bd046ec19704] In this Part—
 
 - “**the FCA**” means the Financial Conduct Authority, and
 - “**the PRA**” means the Prudential Regulation Authority.
@@ -46,6 +46,6 @@ for the purposes of paragraph (a) “**agreement**” means an agreement the mak
 
 ## Annotations
 
-[^key-58ef48a85e606bb56bb2951fa61429f4]: Commencement: S. 166 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-58ef48a85e606bb56bb2951fa61429f4]: Commencement: S. 166 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
 
-[^key-1868d9c6de3edb2438e8bd046ec19704]: Textual amendment: S. 166(2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 51](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/51) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-1868d9c6de3edb2438e8bd046ec19704]: Textual amendment: S. 166(2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 51](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/51) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

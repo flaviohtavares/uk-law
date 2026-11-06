@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235. Defence to offences of false recording[^key-19e9fa092b436ac46498a43e9976409f]
+## 235. Defence to offences of false recording[^c-19e9fa092b436ac46498a43e9976409f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ It is a defence for a person charged with an offence—
 
 ## Annotations
 
-[^key-19e9fa092b436ac46498a43e9976409f]: Commencement: Reg. 235 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-19e9fa092b436ac46498a43e9976409f]: Commencement: Reg. 235 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

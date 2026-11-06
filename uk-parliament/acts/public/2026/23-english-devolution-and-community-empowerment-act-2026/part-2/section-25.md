@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Arrangements to carry out works on highways[^key-47298e1164aa1b048cc96807e19ca232]
+## 25. Arrangements to carry out works on highways[^c-47298e1164aa1b048cc96807e19ca232]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 8 makes provision about arrangements made by combined authorities and C
 
 ## Annotations
 
-[^key-47298e1164aa1b048cc96807e19ca232]: Commencement: S. 25 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-47298e1164aa1b048cc96807e19ca232]: Commencement: S. 25 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

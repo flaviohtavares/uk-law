@@ -39,10 +39,10 @@ summary: ''
 
 (8) No modification shall be made by an order under this section of Schedule 8 in its application in relation to references made under section 131 or 132 before the coming into force of the order (including references made under section 131 as applied by another enactment).
 
-(9) Before making an order under this section, the Secretary of State shall consult the CMA[^key-68dc32e5447518be43d5817a92311583].
+(9) Before making an order under this section, the Secretary of State shall consult the CMA[^c-68dc32e5447518be43d5817a92311583].
 
 (10) Expressions used in this section which are also used in Part 3 of this Act have the same meaning in this section as in that Part.
 
 ## Annotations
 
-[^key-68dc32e5447518be43d5817a92311583]: Textual amendment: Word in s. 206(9) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-68dc32e5447518be43d5817a92311583]: Textual amendment: Word in s. 206(9) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Immigration sanctions[^key-3161696a922d03a5aa29160a568c7d5f]
+## 4. Immigration sanctions[^c-3161696a922d03a5aa29160a568c7d5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3161696a922d03a5aa29160a568c7d5f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2018/13/section/4) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-3161696a922d03a5aa29160a568c7d5f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2018/13/section/4) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87BA. Sections 87 and 87A: disregard of capital payments made from carried interest gains[^key-a6df62cb13851934b9e7ac65d88567ca]
+## 87BA. Sections 87 and 87A: disregard of capital payments made from carried interest gains[^c-a6df62cb13851934b9e7ac65d88567ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ no account is to be taken of the amount of each capital payment that is the rele
 
 ## Annotations
 
-[^key-a6df62cb13851934b9e7ac65d88567ca]: Textual amendment: [S. 87BA](https://www.legislation.gov.uk/ukpga/1992/12/section/87BA) inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 2(7)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/2/7)
+[^c-a6df62cb13851934b9e7ac65d88567ca]: Textual amendment: [S. 87BA](https://www.legislation.gov.uk/ukpga/1992/12/section/87BA) inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 2(7)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/2/7)

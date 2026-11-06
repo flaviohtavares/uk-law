@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Pension credits: qualifying arrangements[^key-499363c1c0003ff325db0c50363dec95]
+## 160. Pension credits: qualifying arrangements[^c-499363c1c0003ff325db0c50363dec95]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-499363c1c0003ff325db0c50363dec95]: Commencement: Art. 160 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-499363c1c0003ff325db0c50363dec95]: Commencement: Art. 160 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

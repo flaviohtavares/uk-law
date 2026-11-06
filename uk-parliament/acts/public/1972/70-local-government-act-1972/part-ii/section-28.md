@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Establishment or dissolution of community councils.[^key-adb84c5a498534d254212941353502a5]
+## 28. Establishment or dissolution of community councils.[^c-adb84c5a498534d254212941353502a5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adb84c5a498534d254212941353502a5]: Textual amendment: Ss. 28-29B repealed (11.5.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 100](https://www.legislation.gov.uk/mwa/2011/4/section/100), [178(1)](https://www.legislation.gov.uk/mwa/2011/4/section/178/1), [Sch. 4 Pt. E](https://www.legislation.gov.uk/mwa/2011/4/schedule/4/part/E) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))
+[^c-adb84c5a498534d254212941353502a5]: Textual amendment: Ss. 28-29B repealed (11.5.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 100](https://www.legislation.gov.uk/mwa/2011/4/section/100), [178(1)](https://www.legislation.gov.uk/mwa/2011/4/section/178/1), [Sch. 4 Pt. E](https://www.legislation.gov.uk/mwa/2011/4/schedule/4/part/E) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))

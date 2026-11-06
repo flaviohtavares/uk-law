@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Registration of interest in adoption[^key-7f90cd67511442ae5b44192f37dfdffe]
+## 21. Registration of interest in adoption[^c-7f90cd67511442ae5b44192f37dfdffe]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Regulations 22 to 27 apply when a person has notified an adoption agency that th
 
 ## Annotations
 
-[^key-7f90cd67511442ae5b44192f37dfdffe]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/wsi/2005/1313/part/4) substituted (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2020/163/regulation/10) (with [reg. 18](https://www.legislation.gov.uk/wsi/2020/163/regulation/18))
+[^c-7f90cd67511442ae5b44192f37dfdffe]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/wsi/2005/1313/part/4) substituted (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2020/163/regulation/10) (with [reg. 18](https://www.legislation.gov.uk/wsi/2020/163/regulation/18))

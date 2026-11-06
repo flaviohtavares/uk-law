@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Work experience for persons over compulsory school age[^key-610c74bcf6d2569d2dce50b18a0d16cb]
+## 47. Work experience for persons over compulsory school age[^c-610c74bcf6d2569d2dce50b18a0d16cb]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ After section 560 of the Education Act 1996 insert—
 
 > **560A. Work experience for persons over compulsory school age: England**
 >
-> (1) A local authority[^key-539a148a152b679b0b2f5402f58a05e0] in England may secure the provision of work experience for persons in their area—
+> (1) A local authority[^c-539a148a152b679b0b2f5402f58a05e0] in England may secure the provision of work experience for persons in their area—
 >
 > - (a) who are over compulsory school age but under 19, or
 > - (b) who are aged 19 or over but under 25 and are subject to learning difficulty assessment.
@@ -36,6 +36,6 @@ After section 560 of the Education Act 1996 insert—
 
 ## Annotations
 
-[^key-610c74bcf6d2569d2dce50b18a0d16cb]: Commencement: S. 47 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-610c74bcf6d2569d2dce50b18a0d16cb]: Commencement: S. 47 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)

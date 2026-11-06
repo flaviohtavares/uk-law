@@ -75,7 +75,7 @@ the employing authority shall, before the end of the period of one month beginni
 
 (3) If in a case within sub-paragraph (1) the person concerned is not employed under the contract of employment in question to work solely at the school the employing authority shall require him to cease to work at the school.
 
-(4) In any case within sub-paragraph (3) no part of the costs incurred by the Authority[^key-ed55e84b71ab4865bb54e5f4d498b9b5] in respect of the emoluments of the person concerned under the contract of employment in question, so far as relates to any period falling after the expiration of his contractual notice period, shall be met from the school's budget share.
+(4) In any case within sub-paragraph (3) no part of the costs incurred by the Authority[^c-ed55e84b71ab4865bb54e5f4d498b9b5] in respect of the emoluments of the person concerned under the contract of employment in question, so far as relates to any period falling after the expiration of his contractual notice period, shall be met from the school's budget share.
 
 (5) In relation to any such person, the reference in sub-paragraph (4) to his contractual notice period is a reference to the period of notice that would have been given under the contract of employment in question for termination of that contract if such notice had been given on the date on which the notification under sub-paragraph (1) was given in relation to him.
 
@@ -96,7 +96,7 @@ the employing authority shall, before the end of the period of one month beginni
 
 **7.** (1) Subject to sub-paragraph (2), it shall be for the Board of Governors of any school to which this Schedule for the time being applies to determine—
 
-- (a) whether any payment should be made by the Authority[^key-fe76de278b093a602bab19ada97de2db] in respect of the dismissal, or for the purpose of securing the resignation, of any member of the staff of the school; and
+- (a) whether any payment should be made by the Authority[^c-fe76de278b093a602bab19ada97de2db] in respect of the dismissal, or for the purpose of securing the resignation, of any member of the staff of the school; and
 - (b) the amount of any such payment.
 
 (2) Sub-paragraph (1) does not apply in relation to any payment which is required or authorised to be made—
@@ -113,7 +113,7 @@ the employing authority shall, before the end of the period of one month beginni
 
 (5) The fact that the employing authority has a policy precluding dismissal of its employees by reason of redundancy is not to be regarded as a good reason for the purposes of sub-paragraph (4).
 
-(6)[^key-92701d6f3828228df2ed3fe6de5735ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-92701d6f3828228df2ed3fe6de5735ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### School meals staff
 
@@ -144,10 +144,10 @@ as it considers necessary or expedient in consequence of the operation of any of
 
 **10.** (1) In this Schedule “employing authority” means—
 
-- (a) in relation to teachers and other staff in a controlled school, the Authority [^key-506aef1823c739dc0777042261bf0e50]...;
+- (a) in relation to teachers and other staff in a controlled school, the Authority [^c-506aef1823c739dc0777042261bf0e50]...;
 - (b) in relation to teachers in a Catholic maintained school, the Council for Catholic Maintained Schools;
-- (c) in relation to other staff in a Catholic maintained school, the Authority [^key-a81d61c011013b5c553e67b141ed8e4a]...; and
-- (d) in relation to staff other than teachers in a maintained school other than a Catholic maintained school, the Authority [^key-25669c4ef7ec960aeb9ea087296f69f2]....
+- (c) in relation to other staff in a Catholic maintained school, the Authority [^c-a81d61c011013b5c553e67b141ed8e4a]...; and
+- (d) in relation to staff other than teachers in a maintained school other than a Catholic maintained school, the Authority [^c-25669c4ef7ec960aeb9ea087296f69f2]....
 
 (2) In paragraph 5(8) “the relevant officer” of the employing authority means—
 
@@ -156,14 +156,14 @@ as it considers necessary or expedient in consequence of the operation of any of
 
 ## Annotations
 
-[^key-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-fe76de278b093a602bab19ada97de2db]: Textual amendment: Word in Sch. 2 para. 7 substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 20(7)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/20/7) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-fe76de278b093a602bab19ada97de2db]: Textual amendment: Word in Sch. 2 para. 7 substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 20(7)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/20/7) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-92701d6f3828228df2ed3fe6de5735ec]: Textual amendment: Sch. 2 para. 7(6) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-92701d6f3828228df2ed3fe6de5735ec]: Textual amendment: Sch. 2 para. 7(6) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-506aef1823c739dc0777042261bf0e50]: Textual amendment: Words in Sch. 2 para. 10(1)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-506aef1823c739dc0777042261bf0e50]: Textual amendment: Words in Sch. 2 para. 10(1)(a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-a81d61c011013b5c553e67b141ed8e4a]: Textual amendment: Words in Sch. 2 para. 10(1)(c) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-a81d61c011013b5c553e67b141ed8e4a]: Textual amendment: Words in Sch. 2 para. 10(1)(c) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-25669c4ef7ec960aeb9ea087296f69f2]: Textual amendment: Words in Sch. 2 para. 10(1)(d) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-25669c4ef7ec960aeb9ea087296f69f2]: Textual amendment: Words in Sch. 2 para. 10(1)(d) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46A. Limited extension of abstraction licence validity[^key-980d289f8788495f122c96688e240279][^key-17472a1e43e63a03a1b7a5a41f9d1d25]
+## 46A. Limited extension of abstraction licence validity[^c-980d289f8788495f122c96688e240279][^c-17472a1e43e63a03a1b7a5a41f9d1d25]
 
 *Extent: E+W*
 
 (1) If the condition in subsection (2) below is met, a full licence or a transfer licence whose term exceeded twelve months but whose expiry date (“**the expiry date**”) has passed shall be treated for all the purposes of this Act as not expiring until the date mentioned in subsection (4) below.
 
-(2) The condition is that the appropriate agency[^key-fccae815c116ea47d868c50aabfc3aa2] receives, not later than the beginning of the period of three months ending on the expiry date (or such later date before the expiry date as the appropriate agency agrees), a valid application for a new licence—
+(2) The condition is that the appropriate agency[^c-fccae815c116ea47d868c50aabfc3aa2] receives, not later than the beginning of the period of three months ending on the expiry date (or such later date before the expiry date as the appropriate agency agrees), a valid application for a new licence—
 
 - (a) for abstraction from the same point as the abstraction licensed by the expiring licence;
 - (b) whose holder would be the same as the holder of the expiring licence; and
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-980d289f8788495f122c96688e240279]: Modification: S. 46A applied (with modifications) (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2006/641/regulation/17)
+[^c-980d289f8788495f122c96688e240279]: Modification: S. 46A applied (with modifications) (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2006/641/regulation/17)
 
-[^key-17472a1e43e63a03a1b7a5a41f9d1d25]: Textual amendment: S. 46A inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 20](https://www.legislation.gov.uk/ukpga/2003/37/section/20), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(g)](https://www.legislation.gov.uk/uksi/2004/641/article/3/g) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/2), [7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-17472a1e43e63a03a1b7a5a41f9d1d25]: Textual amendment: S. 46A inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 20](https://www.legislation.gov.uk/ukpga/2003/37/section/20), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(g)](https://www.legislation.gov.uk/uksi/2004/641/article/3/g) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/2), [7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-fccae815c116ea47d868c50aabfc3aa2]: Textual amendment: Words in [s. 46A(2)](https://www.legislation.gov.uk/ukpga/1991/57/section/46A/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(h)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/h) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-fccae815c116ea47d868c50aabfc3aa2]: Textual amendment: Words in [s. 46A(2)](https://www.legislation.gov.uk/ukpga/1991/57/section/46A/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(h)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/h) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

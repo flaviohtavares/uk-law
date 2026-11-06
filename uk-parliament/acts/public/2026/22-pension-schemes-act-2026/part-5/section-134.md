@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Short title[^key-0f81f903910e027654abd67ead35c33d]
+## 134. Short title[^c-0f81f903910e027654abd67ead35c33d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Pension Schemes Act 2026.
 
 ## Annotations
 
-[^key-0f81f903910e027654abd67ead35c33d]: Commencement: S. 134 in force at Royal Assent, see [s. 133(12)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/12/a)
+[^c-0f81f903910e027654abd67ead35c33d]: Commencement: S. 134 in force at Royal Assent, see [s. 133(12)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/12/a)

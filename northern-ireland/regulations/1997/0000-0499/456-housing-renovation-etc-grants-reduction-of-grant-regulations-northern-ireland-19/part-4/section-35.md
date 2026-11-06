@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Determination of capital in the United Kingdom[^key-94d0365fae5177d5e1b003b37dbdb505]
+## 35. Determination of capital in the United Kingdom[^c-94d0365fae5177d5e1b003b37dbdb505]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ Capital which a relevant person possesses in the United Kingdom shall be determi
 
 ## Annotations
 
-[^key-94d0365fae5177d5e1b003b37dbdb505]: Commencement: Reg. 35 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-94d0365fae5177d5e1b003b37dbdb505]: Commencement: Reg. 35 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

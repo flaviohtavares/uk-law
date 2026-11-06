@@ -32,7 +32,7 @@ summary: ''
 - (d) no person other than the relevant company has control of the subsidiary, and
 - (e) no arrangements are in existence by virtue of which any of the conditions in paragraphs (a) to (d) would cease to be met.
 
-(1A)[^key-8cb417b36b278b46143cbdb9ba360a32] For the purposes of this Part, a company (“company A”) which is a subsidiary of another company (“company B”) is a qualifying 90% subsidiary of a third company (“company C”) if—
+(1A)[^c-8cb417b36b278b46143cbdb9ba360a32] For the purposes of this Part, a company (“company A”) which is a subsidiary of another company (“company B”) is a qualifying 90% subsidiary of a third company (“company C”) if—
 
 - (a) company A is a qualifying 90% subsidiary of company B, and company B is a qualifying 100% subsidiary of company C, or
 - (b) company A is a qualifying 100% subsidiary of company B, and company B is a qualifying 90% subsidiary of company C.
@@ -55,19 +55,19 @@ summary: ''
 - (a) the persons who are equity holders of the subsidiary, and
 - (b) the percentage of the assets of the subsidiary to which an equity holder would be entitled,
 
-are to be determined in accordance with Chapter 6 of Part 5 of CTA 2010[^key-b905bb4b41dafb2bc02fb8d3cd3327df].
+are to be determined in accordance with Chapter 6 of Part 5 of CTA 2010[^c-b905bb4b41dafb2bc02fb8d3cd3327df].
 
 (4) In making that determination—
 
-- (a) references in section 166 of that Act to company A[^key-a8509461aa07c93cb74500bb8c4b88f3] are to be read as references to an equity holder, and
-- (b) references in that section[^key-99750f1166d92f48f03040b6b1d9a740] to a winding up are to be read as including references to any other circumstances in which assets of the subsidiary are available for distribution to its equity holders.
+- (a) references in section 166 of that Act to company A[^c-a8509461aa07c93cb74500bb8c4b88f3] are to be read as references to an equity holder, and
+- (b) references in that section[^c-99750f1166d92f48f03040b6b1d9a740] to a winding up are to be read as including references to any other circumstances in which assets of the subsidiary are available for distribution to its equity holders.
 
 ## Annotations
 
-[^key-8cb417b36b278b46143cbdb9ba360a32]: Textual amendment: S. 190(1A)-(1C) inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 16(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/16/2), [18](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/18)
+[^c-8cb417b36b278b46143cbdb9ba360a32]: Textual amendment: S. 190(1A)-(1C) inserted (retrospective to 6.4.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 paras. 16(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/16/2), [18](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/18)
 
-[^key-b905bb4b41dafb2bc02fb8d3cd3327df]: Textual amendment: Words in s. 190(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 500(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/500/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b905bb4b41dafb2bc02fb8d3cd3327df]: Textual amendment: Words in s. 190(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 500(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/500/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-a8509461aa07c93cb74500bb8c4b88f3]: Textual amendment: Words in s. 190(4)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 500(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/500/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-a8509461aa07c93cb74500bb8c4b88f3]: Textual amendment: Words in s. 190(4)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 500(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/500/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-99750f1166d92f48f03040b6b1d9a740]: Textual amendment: Word in s. 190(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 500(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/500/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-99750f1166d92f48f03040b6b1d9a740]: Textual amendment: Word in s. 190(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 500(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/500/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

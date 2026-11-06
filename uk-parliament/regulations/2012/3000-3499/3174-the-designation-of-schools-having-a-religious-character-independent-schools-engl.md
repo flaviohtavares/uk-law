@@ -39,21 +39,21 @@ The Secretary of State for Education makes the following Order in exercise of th
 
 In making this Order the Secretary of State has followed the procedure specified in the Religious Character of Schools (Designation Procedure) (Independent Schools) (England) Regulations 2003[^f00003].
 
-## 1. Citation[^key-2367869388ee81f40e35eaf318ef3a1c]
+## 1. Citation[^c-2367869388ee81f40e35eaf318ef3a1c]
 
 This Order may be cited as the Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 3) Order 2012.
 
-## 2. Interpretation[^key-7b63bae59d3ace497ce2c64300f703bf]
+## 2. Interpretation[^c-7b63bae59d3ace497ce2c64300f703bf]
 
 In this Order “the relevant religion or religious denomination” means the religion or religious denomination in accordance with whose tenets education is provided at the school or the school is conducted.
 
-## 3. Designation of schools[^key-ef6fc43f18b012a9e080ac6c47746cc9]
+## 3. Designation of schools[^c-ef6fc43f18b012a9e080ac6c47746cc9]
 
 (1) The schools listed in column (1) of Schedule 1 are designated as schools having a religious character.
 
 (2) The relevant religion or religious denomination in relation to a school listed in column (1) of Schedule 1 is specified in relation to that school in column (2).
 
-## 4. Revocations[^key-1bc1ff55b0be465ed4870aa58a1720fc]
+## 4. Revocations[^c-1bc1ff55b0be465ed4870aa58a1720fc]
 
 The instruments listed in column (1) of Schedule 2 with the references specified in column (2) are revoked to the extent specified in column (3).
 
@@ -65,7 +65,7 @@ Department for Education
 
 21st December 2012
 
-## SCHEDULE 1 — Schools having a religious character[^key-7021f7a4caf96053ac3762c148884501]
+## SCHEDULE 1 — Schools having a religious character[^c-7021f7a4caf96053ac3762c148884501]
 
 Article 3
 
@@ -152,9 +152,9 @@ Article 3
 </tbody>
 </table>
 
-[^key-403ca928b3bc30d6f612f092efd544bf][^key-403ca928b3bc30d6f612f092efd544bf][^key-ae090d7bb25ecdb7f7c5bef8734b9e54][^key-ae090d7bb25ecdb7f7c5bef8734b9e54][^key-a67e007b80c10435bbff27dfefcc788a][^key-a67e007b80c10435bbff27dfefcc788a][^key-5debf82b864e25fa13f2dd5783115419][^key-5debf82b864e25fa13f2dd5783115419][^key-5debf82b864e25fa13f2dd5783115419][^key-5debf82b864e25fa13f2dd5783115419][^key-840dd71a2964f6dd0d8336dfcde66ef0][^key-840dd71a2964f6dd0d8336dfcde66ef0][^key-ae090d7bb25ecdb7f7c5bef8734b9e54][^key-ae090d7bb25ecdb7f7c5bef8734b9e54][^key-5debf82b864e25fa13f2dd5783115419][^key-5debf82b864e25fa13f2dd5783115419][^key-5006cee37b6f6ad9508f462079ba6d9f][^key-5006cee37b6f6ad9508f462079ba6d9f]
+[^c-403ca928b3bc30d6f612f092efd544bf][^c-403ca928b3bc30d6f612f092efd544bf][^c-ae090d7bb25ecdb7f7c5bef8734b9e54][^c-ae090d7bb25ecdb7f7c5bef8734b9e54][^c-a67e007b80c10435bbff27dfefcc788a][^c-a67e007b80c10435bbff27dfefcc788a][^c-5debf82b864e25fa13f2dd5783115419][^c-5debf82b864e25fa13f2dd5783115419][^c-5debf82b864e25fa13f2dd5783115419][^c-5debf82b864e25fa13f2dd5783115419][^c-840dd71a2964f6dd0d8336dfcde66ef0][^c-840dd71a2964f6dd0d8336dfcde66ef0][^c-ae090d7bb25ecdb7f7c5bef8734b9e54][^c-ae090d7bb25ecdb7f7c5bef8734b9e54][^c-5debf82b864e25fa13f2dd5783115419][^c-5debf82b864e25fa13f2dd5783115419][^c-5006cee37b6f6ad9508f462079ba6d9f][^c-5006cee37b6f6ad9508f462079ba6d9f]
 
-## SCHEDULE 2 — Revocations[^key-959adb86e6a71e53d38bb7da2c61f51f]
+## SCHEDULE 2 — Revocations[^c-959adb86e6a71e53d38bb7da2c61f51f]
 
 Article 4
 
@@ -187,26 +187,26 @@ Designation by this Order is not of itself a means of acquiring a religious char
 
 [^f00003]: Footnote: [S.I. 2003/2314](https://www.legislation.gov.uk/uksi/2003/2314), as amended by [S.I. 2004/2262](https://www.legislation.gov.uk/uksi/2004/2262).
 
-[^key-2367869388ee81f40e35eaf318ef3a1c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/3174/article/1) in force at made date
+[^c-2367869388ee81f40e35eaf318ef3a1c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/3174/article/1) in force at made date
 
-[^key-7b63bae59d3ace497ce2c64300f703bf]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/3174/article/2) in force at made date
+[^c-7b63bae59d3ace497ce2c64300f703bf]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/3174/article/2) in force at made date
 
-[^key-ef6fc43f18b012a9e080ac6c47746cc9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/3174/article/3) in force at made date
+[^c-ef6fc43f18b012a9e080ac6c47746cc9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/3174/article/3) in force at made date
 
-[^key-1bc1ff55b0be465ed4870aa58a1720fc]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/3174/article/4) in force at made date
+[^c-1bc1ff55b0be465ed4870aa58a1720fc]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/3174/article/4) in force at made date
 
-[^key-7021f7a4caf96053ac3762c148884501]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3174/schedule/1) in force at made date
+[^c-7021f7a4caf96053ac3762c148884501]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3174/schedule/1) in force at made date
 
-[^key-403ca928b3bc30d6f612f092efd544bf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3174/schedule/1) revoked (29.8.2026) by The Designation of Schools Having a [Religious Character (Independent Schools) (England) (Amendment and Revocations) Order 2026 (S.I. 2026/942)](https://www.legislation.gov.uk/uksi/2026/942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/942/regulation/1/1), [3(f)(i)](https://www.legislation.gov.uk/uksi/2026/942/regulation/3/f/i)
+[^c-403ca928b3bc30d6f612f092efd544bf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3174/schedule/1) revoked (29.8.2026) by The Designation of Schools Having a [Religious Character (Independent Schools) (England) (Amendment and Revocations) Order 2026 (S.I. 2026/942)](https://www.legislation.gov.uk/uksi/2026/942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/942/regulation/1/1), [3(f)(i)](https://www.legislation.gov.uk/uksi/2026/942/regulation/3/f/i)
 
-[^key-ae090d7bb25ecdb7f7c5bef8734b9e54]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3174/schedule/1) revoked (14.4.2014) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2014 (S.I. 2014/1024)](https://www.legislation.gov.uk/uksi/2014/1024), [art. 4](https://www.legislation.gov.uk/uksi/2014/1024/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/1024/schedule/2)
+[^c-ae090d7bb25ecdb7f7c5bef8734b9e54]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3174/schedule/1) revoked (14.4.2014) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2014 (S.I. 2014/1024)](https://www.legislation.gov.uk/uksi/2014/1024), [art. 4](https://www.legislation.gov.uk/uksi/2014/1024/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/1024/schedule/2)
 
-[^key-a67e007b80c10435bbff27dfefcc788a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3174/schedule/1) revoked (22.12.2014) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 3) Order 2014 (S.I. 2014/3361)](https://www.legislation.gov.uk/uksi/2014/3361), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3361/schedule/2)
+[^c-a67e007b80c10435bbff27dfefcc788a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3174/schedule/1) revoked (22.12.2014) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) (No. 3) Order 2014 (S.I. 2014/3361)](https://www.legislation.gov.uk/uksi/2014/3361), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3361/schedule/2)
 
-[^key-5debf82b864e25fa13f2dd5783115419]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3174/schedule/1) revoked (1.9.2017) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2017 (S.I. 2017/866)](https://www.legislation.gov.uk/uksi/2017/866), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/866/schedule/2)
+[^c-5debf82b864e25fa13f2dd5783115419]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3174/schedule/1) revoked (1.9.2017) by [The Designation of Schools Having a Religious Character (Independent Schools) (England) Order 2017 (S.I. 2017/866)](https://www.legislation.gov.uk/uksi/2017/866), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/866/schedule/2)
 
-[^key-840dd71a2964f6dd0d8336dfcde66ef0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3174/schedule/1) revoked (29.8.2026) by The Designation of Schools Having a [Religious Character (Independent Schools) (England) (Amendment and Revocations) Order 2026 (S.I. 2026/942)](https://www.legislation.gov.uk/uksi/2026/942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/942/regulation/1/1), [3(f)(ii)](https://www.legislation.gov.uk/uksi/2026/942/regulation/3/f/ii)
+[^c-840dd71a2964f6dd0d8336dfcde66ef0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3174/schedule/1) revoked (29.8.2026) by The Designation of Schools Having a [Religious Character (Independent Schools) (England) (Amendment and Revocations) Order 2026 (S.I. 2026/942)](https://www.legislation.gov.uk/uksi/2026/942), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/942/regulation/1/1), [3(f)(ii)](https://www.legislation.gov.uk/uksi/2026/942/regulation/3/f/ii)
 
-[^key-5006cee37b6f6ad9508f462079ba6d9f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3174/schedule/1) revoked (24.12.2015) by The Designation of Schools Having a [Religious Character (Independent Schools) (England) (No. 2) Order 2015 (S.I. 2015/2075)](https://www.legislation.gov.uk/uksi/2015/2075), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2075/article/1), [4](https://www.legislation.gov.uk/uksi/2015/2075/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2015/2075/schedule)
+[^c-5006cee37b6f6ad9508f462079ba6d9f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3174/schedule/1) revoked (24.12.2015) by The Designation of Schools Having a [Religious Character (Independent Schools) (England) (No. 2) Order 2015 (S.I. 2015/2075)](https://www.legislation.gov.uk/uksi/2015/2075), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2075/article/1), [4](https://www.legislation.gov.uk/uksi/2015/2075/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2015/2075/schedule)
 
-[^key-959adb86e6a71e53d38bb7da2c61f51f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3174/schedule/2) in force at made date
+[^c-959adb86e6a71e53d38bb7da2c61f51f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/3174/schedule/2) in force at made date

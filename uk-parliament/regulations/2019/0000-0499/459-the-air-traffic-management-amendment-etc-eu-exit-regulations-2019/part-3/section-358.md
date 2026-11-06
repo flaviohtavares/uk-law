@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 358. Article 6 of Commission Implementing Regulation (EU) 2017/373[^key-eb9d50e750c1a5de0060d54c42719824]
+## 358. Article 6 of Commission Implementing Regulation (EU) 2017/373[^c-eb9d50e750c1a5de0060d54c42719824]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb9d50e750c1a5de0060d54c42719824]: Textual amendment: Reg. 358 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/694)](https://www.legislation.gov.uk/uksi/2020/694), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/694/regulation/1/3), [55(7)](https://www.legislation.gov.uk/uksi/2020/694/regulation/55/7)
+[^c-eb9d50e750c1a5de0060d54c42719824]: Textual amendment: Reg. 358 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/694)](https://www.legislation.gov.uk/uksi/2020/694), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/694/regulation/1/3), [55(7)](https://www.legislation.gov.uk/uksi/2020/694/regulation/55/7)

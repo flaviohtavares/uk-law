@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The Secretary of State may, after consultation with the Office of Rail and Road[^key-30930679c6edc402c5e227abea973f13], by order grant exemption from sections 17 and 18 above and section 22A below[^c14100111] in respect of such railway facilities as may be specified in the order, but subject to compliance with such conditions (if any) as may be so specified.
+(1) The Secretary of State may, after consultation with the Office of Rail and Road[^c-30930679c6edc402c5e227abea973f13], by order grant exemption from sections 17 and 18 above and section 22A below[^c14100111] in respect of such railway facilities as may be specified in the order, but subject to compliance with such conditions (if any) as may be so specified.
 
 (2) A facility exemption under subsection (1) above may be granted—
 
@@ -76,7 +76,7 @@ may give to any relevant person a direction declaring that the facility exemptio
 
 [^c14100091]: Textual amendment: Words in s. 20 sidenote substituted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 252](https://www.legislation.gov.uk/ukpga/2000/38/section/252), [Sch. 27 para. 23(4)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/27/paragraph/23/4); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-30930679c6edc402c5e227abea973f13]: Textual amendment: Words in s. 20 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(cc)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/cc)
+[^c-30930679c6edc402c5e227abea973f13]: Textual amendment: Words in s. 20 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(cc)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/cc)
 
 [^c14100111]: Textual amendment: Words in s. 20(1)(3)(13) inserted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 252](https://www.legislation.gov.uk/ukpga/2000/38/section/252), [Sch. 27 para. 23(2)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/27/paragraph/23/2); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 

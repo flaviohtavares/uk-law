@@ -32,30 +32,30 @@ Scottish Parliamentary Standards Commissioner Act 2002
 
 An Act of the Scottish Parliament to establish a Scottish Parliamentary Standards Commissioner to investigate complaints about the conduct of members of the Parliament and to report upon the outcome of such investigations to the Parliament; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 27th June 2002 and received Royal Assent on 30 July 2002[^key-b9c216e8d911656ac630cfd7965d2370]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 27th June 2002 and received Royal Assent on 30 July 2002[^c-b9c216e8d911656ac630cfd7965d2370]
 
 ## The Scottish Parliamentary Standards Commissioner
 
 *Extent: S*
 
-### 1. Appointment of the Scottish Parliamentary Standards Commissioner[^key-d0e3254410aa97e0b48952bf89b045f4]
+### 1. Appointment of the Scottish Parliamentary Standards Commissioner[^c-d0e3254410aa97e0b48952bf89b045f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Appointment of the acting Commissioner[^key-9bc9c5fcd0346047fb61d8939ae4bbf7]
+### 2. Appointment of the acting Commissioner[^c-9bc9c5fcd0346047fb61d8939ae4bbf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3. Functions of the Commissioner
 
-(1) Subject to the provisions of this Act, where a complaint has been made to the Commissioner for Ethical Standards in Public Life in Scotland[^key-2657c71adad43c2f29f21749da0db384][^key-19df7fbe11ca8ac6f441fc3264239281] (the “Commissioner”) about the conduct of a member of the Parliament, it shall be the function of the Commissioner to—
+(1) Subject to the provisions of this Act, where a complaint has been made to the Commissioner for Ethical Standards in Public Life in Scotland[^c-2657c71adad43c2f29f21749da0db384][^c-19df7fbe11ca8ac6f441fc3264239281] (the “Commissioner”) about the conduct of a member of the Parliament, it shall be the function of the Commissioner to—
 
 - (a) investigate whether the member has committed the conduct complained about and has, as a result of that conduct, breached a relevant provision; and
 - (b) report upon the outcome of that investigation to the Parliament.
 
 (2) However, subject to section 12, the Commissioner shall not investigate any complaint which falls within a class of complaint which is excluded from the jurisdiction of the Commissioner by any provision in the standing orders or in the Code of Conduct; and any such complaint is referred to in this Act as an “**excluded complaint**”.
 
-(3) A “**relevant provision**” is any provision in force , or treated as having been in force under subsection (4A),[^key-64502336d6dddaec0a9316aa4c7312b6] at the relevant time—
+(3) A “**relevant provision**” is any provision in force , or treated as having been in force under subsection (4A),[^c-64502336d6dddaec0a9316aa4c7312b6] at the relevant time—
 
 - (a) in the standing orders;
 - (b) in the Code of Conduct;
@@ -64,7 +64,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) The “**relevant time**” is the time when the conduct in question is alleged to have taken place, whether before or after this section comes into force.
 
-(4A)[^key-4937b40074e326d026bd8aacf0221e4a] For the purpose of subsection (3), paragraphs 5 and 6 of section 7 of the Code of Conduct of 7 January 2020 are, to the extent that they relate to sexual harassment by a member of the Parliament of that member's own staff, to be treated as having come into force on 24 February 2000 with the first edition of the Code of Conduct.
+(4A)[^c-4937b40074e326d026bd8aacf0221e4a] For the purpose of subsection (3), paragraphs 5 and 6 of section 7 of the Code of Conduct of 7 January 2020 are, to the extent that they relate to sexual harassment by a member of the Parliament of that member's own staff, to be treated as having come into force on 24 February 2000 with the first edition of the Code of Conduct.
 
 (5) The Commissioner may give advice to a member of the Parliament or to a member of the public about the procedures for making a complaint to the Commissioner and the procedures following upon the making of such a complaint.
 
@@ -128,10 +128,10 @@ and any reference in this Act to “**the stage of an investigation**” or to �
 (5) For the purposes of the second test, the specified requirements are that the complaint—
 
 - (a) is made in writing to the Commissioner;
-- (b) is made by an individual person [^key-35ab065e52b3dc4bf9c2e1a1fde1cff3]... and states that person’s name and address;
-- (c) names the member of the Parliament concerned; and[^key-4c26ea861f1872fab2f1c61bb9498b6e]
-- (d) sets out the facts relevant to the conduct complained about and is accompanied by any supporting evidence which the complainer wishes to submit;[^key-197f1f4f16dda682d9836d63e101e579]...
-- (e)[^key-197f1f4f16dda682d9836d63e101e579] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) is made by an individual person [^c-35ab065e52b3dc4bf9c2e1a1fde1cff3]... and states that person’s name and address;
+- (c) names the member of the Parliament concerned; and[^c-4c26ea861f1872fab2f1c61bb9498b6e]
+- (d) sets out the facts relevant to the conduct complained about and is accompanied by any supporting evidence which the complainer wishes to submit;[^c-197f1f4f16dda682d9836d63e101e579]...
+- (e)[^c-197f1f4f16dda682d9836d63e101e579] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) For the purposes of the third test, a complaint warrants further investigation if it appears after an initial investigation that the evidence is sufficient to suggest that the conduct complained about may have taken place.
 
@@ -210,7 +210,7 @@ but shall not express any view upon what sanction would be appropriate for any b
 
 ### 11. Withdrawal of a complaint
 
-(1) At any time after a complaint has been made to the Commissioner and before a report is made to the Parliament under section 9, the complaint may be withdrawn by the complainer by notice in writing to the Commissioner [^key-417778115fe8368b6fa40b3eb51fe079]....
+(1) At any time after a complaint has been made to the Commissioner and before a report is made to the Parliament under section 9, the complaint may be withdrawn by the complainer by notice in writing to the Commissioner [^c-417778115fe8368b6fa40b3eb51fe079]....
 
 (2) When a complaint has been withdrawn as mentioned in subsection (1) during Stage 1, the Commissioner shall—
 
@@ -273,7 +273,7 @@ but shall not express any view upon what sanction would be appropriate for any b
 
 (7) Any person who refuses to take an oath when required to do so under subsection (6)(b) is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a period not exceeding three months.
 
-(8)[^key-94825e51f47fa14c0080c259fe6b14ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-94825e51f47fa14c0080c259fe6b14ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) For the purposes of this section, a person shall be taken to comply with a requirement to produce a document if that person produces a copy of, or an extract of the relevant part of, the document.
 
@@ -319,20 +319,20 @@ that person, as well as the body corporate, is guilty of that offence and liable
 
 *Extent: S*
 
-(1) Except as permitted by subsection (2), the Commissioner or the staff of, or any other person appointed by, the Commissioner[^key-aa5199232f9927728ed5f42d576153b9] shall not disclose any information contained in the complaint or any information which is furnished to or obtained by them in the course of, or for the purposes of, an investigation into that complaint.
+(1) Except as permitted by subsection (2), the Commissioner or the staff of, or any other person appointed by, the Commissioner[^c-aa5199232f9927728ed5f42d576153b9] shall not disclose any information contained in the complaint or any information which is furnished to or obtained by them in the course of, or for the purposes of, an investigation into that complaint.
 
 (2) Such information may be disclosed for the purpose of—
 
-- (a) enabling or assisting the Commissioner [^key-c2338a93da988f36aca787ae81b0e4ca]... to discharge any functions imposed or conferred upon the Commissioner [^key-3d49b6be44fa4f5db7d79ef7641eaa1a]... by virtue of any provision in this Act or in any other enactment or in the standing orders, including, in particular, the making of any report to the Parliament; or
+- (a) enabling or assisting the Commissioner [^c-c2338a93da988f36aca787ae81b0e4ca]... to discharge any functions imposed or conferred upon the Commissioner [^c-3d49b6be44fa4f5db7d79ef7641eaa1a]... by virtue of any provision in this Act or in any other enactment or in the standing orders, including, in particular, the making of any report to the Parliament; or
 - (b) the investigation or prosecution of any offence or suspected offence.
 
-### 17. Protection from actions of defamation[^key-9ae5251cb99e760b56395e64d24ce670]
+### 17. Protection from actions of defamation[^c-9ae5251cb99e760b56395e64d24ce670]
 
 *Extent: S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Annual report[^key-73e913d3affe276262e7d5d587d24eab]
+### 18. Annual report[^c-73e913d3affe276262e7d5d587d24eab]
 
 *Extent: S*
 
@@ -358,11 +358,11 @@ that person, as well as the body corporate, is guilty of that offence and liable
 
 In this Act—
 
-- [^key-abee4ab9afcb4a78b0040d56afc90b0d]...
+- [^c-abee4ab9afcb4a78b0040d56afc90b0d]...
 - “**admissible complaint**” shall be construed in accordance with section 6(2) and related expressions shall be construed accordingly;
 - “**Code of Conduct**” means the Code of Conduct for members of the Parliament made under the standing orders;
-- “[^key-f2466fc3871ecc9c31b7a9a91a7b84bc]**Code of Conduct of 7 January 2020**” means the second version of the seventh edition of the Code of Conduct, incorporating the revisions approved by resolution of the Parliament on 10 December 2019, which was brought into force with effect from 7 January 2020;
-- “Commissioner” means the Commissioner for Ethical Standards in Public Life in Scotland;[^key-a3f5f601ea77564682599e57ec0257ad]
+- “[^c-f2466fc3871ecc9c31b7a9a91a7b84bc]**Code of Conduct of 7 January 2020**” means the second version of the seventh edition of the Code of Conduct, incorporating the revisions approved by resolution of the Parliament on 10 December 2019, which was brought into force with effect from 7 January 2020;
+- “Commissioner” means the Commissioner for Ethical Standards in Public Life in Scotland;[^c-a3f5f601ea77564682599e57ec0257ad]
 - “**conduct**” includes any act or failure to act and related expressions shall be construed accordingly;
 - “**excluded complaint**” shall be construed in accordance with section 3(2);
 - “**first test**”, “**second test**” and “**third test**” shall be construed in accordance with section 6(3);
@@ -393,78 +393,78 @@ In this Act—
 
 *Extent: S*
 
-## SCHEDULE — The Scottish Parliamentary Standards Commissioner[^key-896ae823f1ba057a89b4154a9068974d]
+## SCHEDULE — The Scottish Parliamentary Standards Commissioner[^c-896ae823f1ba057a89b4154a9068974d]
 
 **No longer in force.**
 
 *(introduced by section 1)*
 
-### 1. Appointment[^key-896ae823f1ba057a89b4154a9068974d]
+### 1. Appointment[^c-896ae823f1ba057a89b4154a9068974d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Appointment of staff[^key-896ae823f1ba057a89b4154a9068974d]
+### 2. Appointment of staff[^c-896ae823f1ba057a89b4154a9068974d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Appointment of persons to provide services[^key-896ae823f1ba057a89b4154a9068974d]
+### 3. Appointment of persons to provide services[^c-896ae823f1ba057a89b4154a9068974d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Validity of actings[^key-896ae823f1ba057a89b4154a9068974d]
+### 4. Validity of actings[^c-896ae823f1ba057a89b4154a9068974d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Financial provision[^key-896ae823f1ba057a89b4154a9068974d]
+### 5. Financial provision[^c-896ae823f1ba057a89b4154a9068974d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b9c216e8d911656ac630cfd7965d2370]: Modification: Act: transfer of functions (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 2(1)(b)](https://www.legislation.gov.uk/asp/2010/11/section/2/1/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-b9c216e8d911656ac630cfd7965d2370]: Modification: Act: transfer of functions (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 2(1)(b)](https://www.legislation.gov.uk/asp/2010/11/section/2/1/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-d0e3254410aa97e0b48952bf89b045f4]: Textual amendment: [S. 1](https://www.legislation.gov.uk/asp/2002/16/section/1) repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/11) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-d0e3254410aa97e0b48952bf89b045f4]: Textual amendment: [S. 1](https://www.legislation.gov.uk/asp/2002/16/section/1) repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/11) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-9bc9c5fcd0346047fb61d8939ae4bbf7]: Textual amendment: [S. 2](https://www.legislation.gov.uk/asp/2002/16/section/2) repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/11) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-9bc9c5fcd0346047fb61d8939ae4bbf7]: Textual amendment: [S. 2](https://www.legislation.gov.uk/asp/2002/16/section/2) repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/11) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-2657c71adad43c2f29f21749da0db384]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/asp/2002/16/section/3/1) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/12) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+[^c-2657c71adad43c2f29f21749da0db384]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/asp/2002/16/section/3/1) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/12) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
 
-[^key-19df7fbe11ca8ac6f441fc3264239281]: Textual amendment: Words in s. 3(1) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/12) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-19df7fbe11ca8ac6f441fc3264239281]: Textual amendment: Words in s. 3(1) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/12) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-64502336d6dddaec0a9316aa4c7312b6]: Textual amendment: Words in [s. 3(3)](https://www.legislation.gov.uk/asp/2002/16/section/3/3) inserted (21.10.2021) by [Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021 (asp 12)](https://www.legislation.gov.uk/asp/2021/12), [ss. 1(2)(a)](https://www.legislation.gov.uk/asp/2021/12/section/1/2/a), [4(2)](https://www.legislation.gov.uk/asp/2021/12/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/asp/2021/12/section/4/3))
+[^c-64502336d6dddaec0a9316aa4c7312b6]: Textual amendment: Words in [s. 3(3)](https://www.legislation.gov.uk/asp/2002/16/section/3/3) inserted (21.10.2021) by [Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021 (asp 12)](https://www.legislation.gov.uk/asp/2021/12), [ss. 1(2)(a)](https://www.legislation.gov.uk/asp/2021/12/section/1/2/a), [4(2)](https://www.legislation.gov.uk/asp/2021/12/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/asp/2021/12/section/4/3))
 
-[^key-4937b40074e326d026bd8aacf0221e4a]: Textual amendment: [S. 3(4A)](https://www.legislation.gov.uk/asp/2002/16/section/3/4A) inserted (21.10.2021) by [Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021 (asp 12)](https://www.legislation.gov.uk/asp/2021/12), [ss. 1(2)(b)](https://www.legislation.gov.uk/asp/2021/12/section/1/2/b), [4(2)](https://www.legislation.gov.uk/asp/2021/12/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/asp/2021/12/section/4/3))
+[^c-4937b40074e326d026bd8aacf0221e4a]: Textual amendment: [S. 3(4A)](https://www.legislation.gov.uk/asp/2002/16/section/3/4A) inserted (21.10.2021) by [Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021 (asp 12)](https://www.legislation.gov.uk/asp/2021/12), [ss. 1(2)(b)](https://www.legislation.gov.uk/asp/2021/12/section/1/2/b), [4(2)](https://www.legislation.gov.uk/asp/2021/12/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/asp/2021/12/section/4/3))
 
-[^key-35ab065e52b3dc4bf9c2e1a1fde1cff3]: Textual amendment: Words in [s. 6(5)(b)](https://www.legislation.gov.uk/asp/2002/16/section/6/5/b) repealed (21.10.2021) by [Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021 (asp 12)](https://www.legislation.gov.uk/asp/2021/12), [ss. 3(2)](https://www.legislation.gov.uk/asp/2021/12/section/3/2), [4(2)](https://www.legislation.gov.uk/asp/2021/12/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/asp/2021/12/section/4/3))
+[^c-35ab065e52b3dc4bf9c2e1a1fde1cff3]: Textual amendment: Words in [s. 6(5)(b)](https://www.legislation.gov.uk/asp/2002/16/section/6/5/b) repealed (21.10.2021) by [Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021 (asp 12)](https://www.legislation.gov.uk/asp/2021/12), [ss. 3(2)](https://www.legislation.gov.uk/asp/2021/12/section/3/2), [4(2)](https://www.legislation.gov.uk/asp/2021/12/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/asp/2021/12/section/4/3))
 
-[^key-4c26ea861f1872fab2f1c61bb9498b6e]: Textual amendment: Word in [s. 6(5)](https://www.legislation.gov.uk/asp/2002/16/section/6/5) inserted (21.10.2021) by [Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021 (asp 12)](https://www.legislation.gov.uk/asp/2021/12), [ss. 2(2)(a)](https://www.legislation.gov.uk/asp/2021/12/section/2/2/a), [4(2)](https://www.legislation.gov.uk/asp/2021/12/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/asp/2021/12/section/4/3))
+[^c-4c26ea861f1872fab2f1c61bb9498b6e]: Textual amendment: Word in [s. 6(5)](https://www.legislation.gov.uk/asp/2002/16/section/6/5) inserted (21.10.2021) by [Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021 (asp 12)](https://www.legislation.gov.uk/asp/2021/12), [ss. 2(2)(a)](https://www.legislation.gov.uk/asp/2021/12/section/2/2/a), [4(2)](https://www.legislation.gov.uk/asp/2021/12/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/asp/2021/12/section/4/3))
 
-[^key-197f1f4f16dda682d9836d63e101e579]: Textual amendment: [S. 6(5)(e)](https://www.legislation.gov.uk/asp/2002/16/section/6/5/e) and word repealed (21.10.2021) by [Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021 (asp 12)](https://www.legislation.gov.uk/asp/2021/12), [ss. 2(2)(b)](https://www.legislation.gov.uk/asp/2021/12/section/2/2/b), [4(2)](https://www.legislation.gov.uk/asp/2021/12/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/asp/2021/12/section/4/3))
+[^c-197f1f4f16dda682d9836d63e101e579]: Textual amendment: [S. 6(5)(e)](https://www.legislation.gov.uk/asp/2002/16/section/6/5/e) and word repealed (21.10.2021) by [Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021 (asp 12)](https://www.legislation.gov.uk/asp/2021/12), [ss. 2(2)(b)](https://www.legislation.gov.uk/asp/2021/12/section/2/2/b), [4(2)](https://www.legislation.gov.uk/asp/2021/12/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/asp/2021/12/section/4/3))
 
-[^key-417778115fe8368b6fa40b3eb51fe079]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/asp/2002/16/section/11/1) repealed (21.10.2021) by [Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021 (asp 12)](https://www.legislation.gov.uk/asp/2021/12), [ss. 3(3)](https://www.legislation.gov.uk/asp/2021/12/section/3/3), [4(2)](https://www.legislation.gov.uk/asp/2021/12/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/asp/2021/12/section/4/3))
+[^c-417778115fe8368b6fa40b3eb51fe079]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/asp/2002/16/section/11/1) repealed (21.10.2021) by [Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021 (asp 12)](https://www.legislation.gov.uk/asp/2021/12), [ss. 3(3)](https://www.legislation.gov.uk/asp/2021/12/section/3/3), [4(2)](https://www.legislation.gov.uk/asp/2021/12/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/asp/2021/12/section/4/3))
 
 [^c20114871]: Modification: S. 13 extended (E.W.N.I.) (1.10.2003) by [The Scottish Parliamentary Standards Commissioner Act 2002 (Power to Call for Witnesses and Documents) (England, Wales and Northern Ireland) Order 2003 (S.I. 2003/2278)](https://www.legislation.gov.uk/uksi/2003/2278), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/2278/article/2/a)
 
-[^key-94825e51f47fa14c0080c259fe6b14ec]: Textual amendment: [S. 13(8)](https://www.legislation.gov.uk/asp/2002/16/section/13/8) repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(6)](https://www.legislation.gov.uk/asp/2010/11/section/29/6), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-94825e51f47fa14c0080c259fe6b14ec]: Textual amendment: [S. 13(8)](https://www.legislation.gov.uk/asp/2002/16/section/13/8) repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(6)](https://www.legislation.gov.uk/asp/2010/11/section/29/6), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
 [^c20114891]: Modification: [S. 14](https://www.legislation.gov.uk/asp/2002/16/section/14) extended (E.W.N.I.) (1.10.2003) by [The Scottish Parliamentary Standards Commissioner Act 2002 (Power to Call for Witnesses and Documents) (England, Wales and Northern Ireland) Order 2003 (S.I. 2003/2278)](https://www.legislation.gov.uk/uksi/2003/2278), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/2278/article/2/b)
 
-[^key-aa5199232f9927728ed5f42d576153b9]: Textual amendment: Word in [s. 16(1)](https://www.legislation.gov.uk/asp/2002/16/section/16/1) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 13(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/13/a) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+[^c-aa5199232f9927728ed5f42d576153b9]: Textual amendment: Word in [s. 16(1)](https://www.legislation.gov.uk/asp/2002/16/section/16/1) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 13(a)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/13/a) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
 
-[^key-c2338a93da988f36aca787ae81b0e4ca]: Textual amendment: Words in [s. 16(2)(a)](https://www.legislation.gov.uk/asp/2002/16/section/16/2/a) omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 13(b)(i)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/13/b/i) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+[^c-c2338a93da988f36aca787ae81b0e4ca]: Textual amendment: Words in [s. 16(2)(a)](https://www.legislation.gov.uk/asp/2002/16/section/16/2/a) omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 13(b)(i)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/13/b/i) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
 
-[^key-3d49b6be44fa4f5db7d79ef7641eaa1a]: Textual amendment: Words in [s. 16(2)(a)](https://www.legislation.gov.uk/asp/2002/16/section/16/2/a) omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 13(b)(ii)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/13/b/ii) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+[^c-3d49b6be44fa4f5db7d79ef7641eaa1a]: Textual amendment: Words in [s. 16(2)(a)](https://www.legislation.gov.uk/asp/2002/16/section/16/2/a) omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 13(b)(ii)](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/13/b/ii) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
 
-[^key-9ae5251cb99e760b56395e64d24ce670]: Textual amendment: [S. 17](https://www.legislation.gov.uk/asp/2002/16/section/17) omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/14) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+[^c-9ae5251cb99e760b56395e64d24ce670]: Textual amendment: [S. 17](https://www.legislation.gov.uk/asp/2002/16/section/17) omitted (1.7.2013) by virtue of [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/14) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
 
-[^key-73e913d3affe276262e7d5d587d24eab]: Textual amendment: [S. 18](https://www.legislation.gov.uk/asp/2002/16/section/18) repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(6)](https://www.legislation.gov.uk/asp/2010/11/section/29/6), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-73e913d3affe276262e7d5d587d24eab]: Textual amendment: [S. 18](https://www.legislation.gov.uk/asp/2002/16/section/18) repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [ss. 29(6)](https://www.legislation.gov.uk/asp/2010/11/section/29/6), [31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
 [^c20114911]: Modification: S. 20 extended (E.W.N.I.) (1.10.2003) by [The Scottish Parliamentary Standards Commissioner Act 2002 (Power to Call for Witnesses and Documents) (England, Wales and Northern Ireland) Order 2003 (S.I. 2003/2278)](https://www.legislation.gov.uk/uksi/2003/2278), [art. 2(c)](https://www.legislation.gov.uk/uksi/2003/2278/article/2/c)
 
-[^key-abee4ab9afcb4a78b0040d56afc90b0d]: Textual amendment: Words in s. 20 repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/14/a) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-abee4ab9afcb4a78b0040d56afc90b0d]: Textual amendment: Words in s. 20 repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [Sch. 1 para. 14(a)](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/14/a) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-f2466fc3871ecc9c31b7a9a91a7b84bc]: Textual amendment: Words in [s. 20](https://www.legislation.gov.uk/asp/2002/16/section/20) inserted (21.10.2021) by [Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021 (asp 12)](https://www.legislation.gov.uk/asp/2021/12), [ss. 1(3)](https://www.legislation.gov.uk/asp/2021/12/section/1/3), [4(2)](https://www.legislation.gov.uk/asp/2021/12/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/asp/2021/12/section/4/3))
+[^c-f2466fc3871ecc9c31b7a9a91a7b84bc]: Textual amendment: Words in [s. 20](https://www.legislation.gov.uk/asp/2002/16/section/20) inserted (21.10.2021) by [Scottish Parliamentary Standards (Sexual Harassment and Complaints Process) Act 2021 (asp 12)](https://www.legislation.gov.uk/asp/2021/12), [ss. 1(3)](https://www.legislation.gov.uk/asp/2021/12/section/1/3), [4(2)](https://www.legislation.gov.uk/asp/2021/12/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/asp/2021/12/section/4/3))
 
-[^key-a3f5f601ea77564682599e57ec0257ad]: Textual amendment: Words in [s. 20](https://www.legislation.gov.uk/asp/2002/16/section/20) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/15) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
+[^c-a3f5f601ea77564682599e57ec0257ad]: Textual amendment: Words in [s. 20](https://www.legislation.gov.uk/asp/2002/16/section/20) substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/ssi/2013/197/schedule/2/paragraph/15) (with [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/4/paragraph/3))
 
-[^key-896ae823f1ba057a89b4154a9068974d]: Textual amendment: Sch. repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/11) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-896ae823f1ba057a89b4154a9068974d]: Textual amendment: Sch. repealed (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2010/11/schedule/1/paragraph/11) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [Sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))

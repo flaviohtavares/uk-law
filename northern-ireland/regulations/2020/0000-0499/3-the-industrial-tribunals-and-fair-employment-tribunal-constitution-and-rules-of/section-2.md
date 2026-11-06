@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Revocations and consequential amendments[^key-b816d3ef26199d60416a614a97f21812]
+## 2. Revocations and consequential amendments[^c-b816d3ef26199d60416a614a97f21812]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b816d3ef26199d60416a614a97f21812]: Commencement: Reg. 2 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-b816d3ef26199d60416a614a97f21812]: Commencement: Reg. 2 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Temporary suspension of licence.[^key-7d1284dfbec6b8c8d205eb12a1144749]
+## 22. Temporary suspension of licence.[^c-7d1284dfbec6b8c8d205eb12a1144749]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d1284dfbec6b8c8d205eb12a1144749]: Textual amendment: S. 22 repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/8), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
+[^c-7d1284dfbec6b8c8d205eb12a1144749]: Textual amendment: S. 22 repealed (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/8), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)

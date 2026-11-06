@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Historical inability of mothers to transmit citizenship[^key-c5bd1c5232eb5d41d93b48b6577d2e39][^key-1b5e812e016aca79eab192ff03fd0268]
+## 1. Historical inability of mothers to transmit citizenship[^c-c5bd1c5232eb5d41d93b48b6577d2e39][^c-1b5e812e016aca79eab192ff03fd0268]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c5bd1c5232eb5d41d93b48b6577d2e39]: Commencement: S. 1 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-c5bd1c5232eb5d41d93b48b6577d2e39]: Commencement: S. 1 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-1b5e812e016aca79eab192ff03fd0268]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/36/section/1) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/1)
+[^c-1b5e812e016aca79eab192ff03fd0268]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/36/section/1) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/1)

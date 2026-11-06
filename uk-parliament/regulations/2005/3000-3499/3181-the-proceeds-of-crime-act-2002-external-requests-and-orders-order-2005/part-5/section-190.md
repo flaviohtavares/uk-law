@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Article 189: supplementary[^key-59d0ac0060fe4ff7e0927d8c178c093e]
+## 190. Article 189: supplementary[^c-59d0ac0060fe4ff7e0927d8c178c093e]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ the enforcement authority’s right to recover the original property is satisfie
 
 ## Annotations
 
-[^key-59d0ac0060fe4ff7e0927d8c178c093e]: Commencement: [Art. 190](https://www.legislation.gov.uk/uksi/2005/3181/article/190) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-59d0ac0060fe4ff7e0927d8c178c093e]: Commencement: [Art. 190](https://www.legislation.gov.uk/uksi/2005/3181/article/190) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

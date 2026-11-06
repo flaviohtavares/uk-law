@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: N.I.*
 
-Every complaint, deposition, recognizance of other document taken by or made before a district judge (magistrates’ court) or lay magistrate sitting out of sessions shall as soon as practicable be forwarded or delivered to the clerk of petty sessions [^key-afe9f7745d4ab62af7942fd35e8f6a83]....
+Every complaint, deposition, recognizance of other document taken by or made before a district judge (magistrates’ court) or lay magistrate sitting out of sessions shall as soon as practicable be forwarded or delivered to the clerk of petty sessions [^c-afe9f7745d4ab62af7942fd35e8f6a83]....
 
 ## Annotations
 
-[^key-afe9f7745d4ab62af7942fd35e8f6a83]: Textual amendment: Words in [rule 21](https://www.legislation.gov.uk/nisr/1984/225/rule/21) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(6)](https://www.legislation.gov.uk/nisr/2016/304/article/3/6); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-afe9f7745d4ab62af7942fd35e8f6a83]: Textual amendment: Words in [rule 21](https://www.legislation.gov.uk/nisr/1984/225/rule/21) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(6)](https://www.legislation.gov.uk/nisr/2016/304/article/3/6); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

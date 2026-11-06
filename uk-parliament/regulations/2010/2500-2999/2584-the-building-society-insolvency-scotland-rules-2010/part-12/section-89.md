@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Limitation[^key-4d2d9ac9994acf664cf189956bd333dd]
+## 89. Limitation[^c-4d2d9ac9994acf664cf189956bd333dd]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.76 of the 1986 Rules.
 
 ## Annotations
 
-[^key-4d2d9ac9994acf664cf189956bd333dd]: Commencement: Rule 89 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-4d2d9ac9994acf664cf189956bd333dd]: Commencement: Rule 89 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

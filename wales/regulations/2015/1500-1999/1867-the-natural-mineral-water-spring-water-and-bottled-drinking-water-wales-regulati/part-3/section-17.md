@@ -27,11 +27,11 @@ summary: ''
 
 (2) No person may advertise a bottle of water as “spring water”, “dŵr ffynnon”, or its equivalent in any other language, in contravention of paragraph (1).
 
-(3)[^key-4701829d24dced676e4a607ac2d477a0] No person may advertise water intended to be labelled and sold as “spring water”, “dŵr ffynnon”, or its equivalent in any other language under—
+(3)[^c-4701829d24dced676e4a607ac2d477a0] No person may advertise water intended to be labelled and sold as “spring water”, “dŵr ffynnon”, or its equivalent in any other language under—
 
 - (a) a designation, proprietary name, trade mark, brand name, illustration or other sign, whether emblematic or not, the use of which is liable to cause confusion of the water with a natural mineral water, or
 - (b) the description “mineral water”, “dŵr mwynol”, or its equivalent in any other language.
 
 ## Annotations
 
-[^key-4701829d24dced676e4a607ac2d477a0]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/wsi/2015/1867/regulation/17/3) inserted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2017 (S.I. 2017/935)](https://www.legislation.gov.uk/wsi/2017/935), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/935/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2017/935/regulation/6)
+[^c-4701829d24dced676e4a607ac2d477a0]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/wsi/2015/1867/regulation/17/3) inserted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2017 (S.I. 2017/935)](https://www.legislation.gov.uk/wsi/2017/935), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/935/regulation/1/3), [6](https://www.legislation.gov.uk/wsi/2017/935/regulation/6)

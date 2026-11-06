@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1[^key-afba5a8bd9429d55757f35f837a7c8cb]
+## SCHEDULE 1[^c-afba5a8bd9429d55757f35f837a7c8cb]
 
 *Extent: N.I.*
 
 Regulation 5(2)
 
-[^key-afba5a8bd9429d55757f35f837a7c8cb]
+[^c-afba5a8bd9429d55757f35f837a7c8cb]
 
  
 
@@ -226,7 +226,7 @@ Regulation 5(2)
 
 ## Annotations
 
-[^key-afba5a8bd9429d55757f35f837a7c8cb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/321/schedule/1) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)
+[^c-afba5a8bd9429d55757f35f837a7c8cb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2007/321/schedule/1) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)
 
 [^f00014]: Footnote: S.I. [1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 

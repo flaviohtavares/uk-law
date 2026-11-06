@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Civil legal services under section 9 of LASPO: add-on services in relation to the national referral mechanism[^key-6cf58392eb7baa19025fb2adf81f7e0e]
+## 66. Civil legal services under section 9 of LASPO: add-on services in relation to the national referral mechanism[^c-6cf58392eb7baa19025fb2adf81f7e0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -129,4 +129,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cf58392eb7baa19025fb2adf81f7e0e]: Commencement: S. 66 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-6cf58392eb7baa19025fb2adf81f7e0e]: Commencement: S. 66 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

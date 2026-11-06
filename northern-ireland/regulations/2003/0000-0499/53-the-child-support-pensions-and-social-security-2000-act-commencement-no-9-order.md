@@ -39,7 +39,7 @@ Made
 
 The Department for Social Development, in exercise of the powers conferred on it by section 68(2)(a) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-8aa6f748e66a763c772786db0e89efe3]
+## 1. Citation and interpretation[^c-8aa6f748e66a763c772786db0e89efe3]
 
 (1) This Order may be cited as the Child Support, Pensions and Social Security (2000 Act) (Commencement No. 9) Order (Northern Ireland) 2003.
 
@@ -60,11 +60,11 @@ The Department for Social Development, in exercise of the powers conferred on it
 - “qualifying child” has the meaning given in the Child Support Order;
 - “relevant person” means, in relation to a maintenance assessment, the absent parent or person with care and, in relation to a maintenance calculation, the non-resident parent or person with care.
 
-## 2. Appointed day for the coming into operation of section 2(1) and (2) for the purpose of making regulations[^key-b549284ebe990cfbaab5ffe6070de390]
+## 2. Appointed day for the coming into operation of section 2(1) and (2) for the purpose of making regulations[^c-b549284ebe990cfbaab5ffe6070de390]
 
 7th February 2003 is the day appointed for the coming into operation of section 2(1) and (2) (applications under Article 7 of the Child Support Order), for the purpose only of authorising the making of regulations.
 
-## 3. Appointed day for the coming into operation of provisions specified in the Schedule to this Order[^key-1d9bfcd63c75a0bc63f21c14b9eedfde]
+## 3. Appointed day for the coming into operation of provisions specified in the Schedule to this Order[^c-1d9bfcd63c75a0bc63f21c14b9eedfde]
 
 (1) 3rd March 2003 is the day appointed for the coming into operation of the provisions of the Act specified in the Schedule to this Order, in so far as not already in operation, for the purpose of –
 
@@ -92,7 +92,7 @@ The Department for Social Development, in exercise of the powers conferred on it
   - (i) E is the absent parent in relation to the existing assessment and F is the non-resident parent in relation to a maintenance calculation, or
   - (ii) E is the person with care in relation to the existing assessment and F is the person with care in relation to the maintenance calculation.
 
-## 4. Appointed day for the coming into operation of sections 3 and 18[^key-20d788e26eca195b566d983f21b53821]
+## 4. Appointed day for the coming into operation of sections 3 and 18[^c-20d788e26eca195b566d983f21b53821]
 
 3rd March 2003 is the day appointed for the coming into operation of sections 3 (applications by persons claiming or receiving benefit) and 18 (reduced benefit decisions), in so far as not already in operation, for the purpose of the following cases –
 
@@ -109,11 +109,11 @@ The Department for Social Development, in exercise of the powers conferred on it
   - (iii) paragraph (2) of that Article did not apply and a reduced benefit direction was given under Article 43(5) of the Child Support Order before its substitution by the Act; or
   - (iv) the parent with care failed to comply with a requirement imposed on him under paragraph (1) of that Article and the Department was in the process of serving a notice or considering reasons given by the parent with care under Article 43(2) or (3) of the Child Support Order before its substitution by the Act.
 
-## 5. Appointed day for the coming into operation of section 19[^key-deb98b16faac042d409e984bad6ed5d1]
+## 5. Appointed day for the coming into operation of section 19[^c-deb98b16faac042d409e984bad6ed5d1]
 
 3rd March 2003 is the day appointed for the coming into operation of section 19 (voluntary payments), in so far as not already in operation, for the purposes of cases where an application for child support maintenance is made to the Department (whether or not in writing) and the effective date would be on or after 3rd March 2003.
 
-## 6. Appointed day for the coming into operation of section 22, and an associated repeal[^key-3c24443657798ee09a512f5aa6fbd9a1][^key-a603306c42cc58dbae874765f92237d1]
+## 6. Appointed day for the coming into operation of section 22, and an associated repeal[^c-3c24443657798ee09a512f5aa6fbd9a1][^c-a603306c42cc58dbae874765f92237d1]
 
 (1) The day appointed for the coming into operation of the provisions of the Act specified in paragraph (2) for the purposes of cases specified in paragraph (3) is–
 
@@ -156,14 +156,14 @@ The Department for Social Development, in exercise of the powers conferred on it
   - (b) in respect of the care of the child; and
   - (c) under an agreement (whether enforceable or not) between that person and the person by whom the maintenance is payable, or by virtue of an order of the court.
 
-## 7. Appointed day for the coming into operation of section 28, and paragraph 23 of Schedule 3[^key-fd5d8c72b0054105cb472214c29770be]
+## 7. Appointed day for the coming into operation of section 28, and paragraph 23 of Schedule 3[^c-fd5d8c72b0054105cb472214c29770be]
 
 3rd March 2003 is the day appointed for the coming into operation of –
 
 - (a) section 28 (transitional provisions, savings, etc.) in so far as not already in operation; and
 - (b) paragraph 23 of Schedule 3 (which substitutes paragraph (2) of Article 30 of the Child Support Order[^f00006]) and section 25 in so far as it relates to that paragraph.
 
-## 8. The effective date[^key-bfa901510a35b3bdf743115ce5af3a5d]
+## 8. The effective date[^c-bfa901510a35b3bdf743115ce5af3a5d]
 
 (1) For the purposes of this Order “the effective date” means, in relation to any case, the date which would be the effective date of a maintenance assessment under regulation 29 (effective dates of new maintenance assessments) or 32(7) (maintenance periods) of the Assessment Procedure Regulations[^f00007] or regulation 3(4), (6) or (7) of the Arrangements and Jurisdiction Regulations[^f00008] (relationship between maintenance assessments and certain court orders), whichever would apply to the case in question, or would have applied had the effective date not fallen to be determined under regulation 8C (effective date of an interim maintenance assessment) or 29A (effective dates of new maintenance assessments in particular cases) of the Assessment Procedure Regulations[^f00009]; and paragraphs (2) and (3) shall apply in relation to the application of those Regulations for this purpose.
 
@@ -182,7 +182,7 @@ Senior Officer of the
 
 Department for Social Development
 
-## SCHEDULE — PROVISIONS COMING INTO OPERATION ON 3rd MARCH 2003 FOR THE PURPOSES SET OUT IN ARTICLE 3[^key-fb6501076c2f728aa506e9f886fc96fe]
+## SCHEDULE — PROVISIONS COMING INTO OPERATION ON 3rd MARCH 2003 FOR THE PURPOSES SET OUT IN ARTICLE 3[^c-fb6501076c2f728aa506e9f886fc96fe]
 
 Article 3
 
@@ -313,7 +313,7 @@ The following provisions of the Child Support, Pensions and Social Security Act 
 
 [^f00001]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-8aa6f748e66a763c772786db0e89efe3]: Commencement: Art. 1 in operation at made date
+[^c-8aa6f748e66a763c772786db0e89efe3]: Commencement: Art. 1 in operation at made date
 
 [^f00002]: Footnote: [S.R. 1992 No. 466](https://www.legislation.gov.uk/nisr/1992/466); relevant amending regulations are [S.R. 1995 Nos. 19](https://www.legislation.gov.uk/nisr/1995/19), [162](https://www.legislation.gov.uk/nisr/1995/162) and [475](https://www.legislation.gov.uk/nisr/1995/475)
 
@@ -321,23 +321,23 @@ The following provisions of the Child Support, Pensions and Social Security Act 
 
 [^f00004]: Footnote: *See* regulation 4(2) of [S.R. 2001 No. 18](https://www.legislation.gov.uk/nisr/2001/18)
 
-[^key-b549284ebe990cfbaab5ffe6070de390]: Commencement: Art. 2 in operation at made date
+[^c-b549284ebe990cfbaab5ffe6070de390]: Commencement: Art. 2 in operation at made date
 
-[^key-1d9bfcd63c75a0bc63f21c14b9eedfde]: Commencement: Art. 3 in operation at made date
+[^c-1d9bfcd63c75a0bc63f21c14b9eedfde]: Commencement: Art. 3 in operation at made date
 
-[^key-20d788e26eca195b566d983f21b53821]: Commencement: Art. 4 in operation at made date
+[^c-20d788e26eca195b566d983f21b53821]: Commencement: Art. 4 in operation at made date
 
-[^key-deb98b16faac042d409e984bad6ed5d1]: Commencement: Art. 5 in operation at made date
+[^c-deb98b16faac042d409e984bad6ed5d1]: Commencement: Art. 5 in operation at made date
 
-[^key-3c24443657798ee09a512f5aa6fbd9a1]: Commencement: Art. 6 in operation at made date
+[^c-3c24443657798ee09a512f5aa6fbd9a1]: Commencement: Art. 6 in operation at made date
 
-[^key-a603306c42cc58dbae874765f92237d1]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisr/2003/53/article/6) substituted (24.2.2003) by [The Child Support, Pensions and Social Security (2000 Act) (Commencement No. 10) Order (Northern Ireland) 2003 (S.R. 2003/92)](https://www.legislation.gov.uk/nisr/2003/92), [art. 2](https://www.legislation.gov.uk/nisr/2003/92/article/2)
+[^c-a603306c42cc58dbae874765f92237d1]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisr/2003/53/article/6) substituted (24.2.2003) by [The Child Support, Pensions and Social Security (2000 Act) (Commencement No. 10) Order (Northern Ireland) 2003 (S.R. 2003/92)](https://www.legislation.gov.uk/nisr/2003/92), [art. 2](https://www.legislation.gov.uk/nisr/2003/92/article/2)
 
-[^key-fd5d8c72b0054105cb472214c29770be]: Commencement: Art. 7 in operation at made date
+[^c-fd5d8c72b0054105cb472214c29770be]: Commencement: Art. 7 in operation at made date
 
 [^f00006]: Footnote: Article 30(2) is not yet in operation
 
-[^key-bfa901510a35b3bdf743115ce5af3a5d]: Commencement: Art. 8 in operation at made date
+[^c-bfa901510a35b3bdf743115ce5af3a5d]: Commencement: Art. 8 in operation at made date
 
 [^f00007]: Footnote: Regulation 29 was amended by regulation 8(10) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162), regulation 3(18) of [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475) and regulation 2(13) of [S.R. 1999 No. 167](https://www.legislation.gov.uk/nisr/1999/167) and regulation 32(7) was added by regulation 3(22)(b) of [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475)
 
@@ -345,4 +345,4 @@ The following provisions of the Child Support, Pensions and Social Security Act 
 
 [^f00009]: Footnote: Regulation 8C was inserted by regulation 3(3) of [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475) and amended by regulation 2(6) of [S.R. 1999 No. 167](https://www.legislation.gov.uk/nisr/1999/167) and regulation 29A was inserted by regulation 3(19) of [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475) and amended by regulation 2(5) of [S.R. 1996 No. 590](https://www.legislation.gov.uk/nisr/1996/590), regulation 3(7) of [S.R. 1998 No. 8](https://www.legislation.gov.uk/nisr/1998/8) and regulation 2(14) of [S.R. 1999 No. 167](https://www.legislation.gov.uk/nisr/1999/167)
 
-[^key-fb6501076c2f728aa506e9f886fc96fe]: Commencement: Sch. in operation at made date
+[^c-fb6501076c2f728aa506e9f886fc96fe]: Commencement: Sch. in operation at made date

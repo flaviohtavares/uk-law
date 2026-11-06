@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 93. Control of private hospitals[^key-b8b2f79aba3bbda34081148cf2f48d64]
+## 93. Control of private hospitals[^c-b8b2f79aba3bbda34081148cf2f48d64]
 
 *Extent: N.I.*
 
@@ -36,6 +36,6 @@ and any person who fails to comply with any requirement of this paragraph shall 
 
 ## Annotations
 
-[^key-b8b2f79aba3bbda34081148cf2f48d64]: Commencement: [Art. 93](https://www.legislation.gov.uk/nisi/1986/595/article/93) in operation at 31.3.2013 in so far as not already in operation by [S.R. 2012/349](https://www.legislation.gov.uk/nisr/2012/349), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2012/349/article/2/2/d)
+[^c-b8b2f79aba3bbda34081148cf2f48d64]: Commencement: [Art. 93](https://www.legislation.gov.uk/nisi/1986/595/article/93) in operation at 31.3.2013 in so far as not already in operation by [S.R. 2012/349](https://www.legislation.gov.uk/nisr/2012/349), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2012/349/article/2/2/d)
 
 [^c21358091]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 8(1)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/8/1) (subject to [Sch. 6 para. 8(2)-(4)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/8/2)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Penalty for polluting water.[^c13462611][^key-9a355dc39605a7a0e4957f4b7ab7e836]
+## 75. Penalty for polluting water.[^c13462611][^c-9a355dc39605a7a0e4957f4b7ab7e836]
 
 *Extent: S*
 
@@ -38,7 +38,7 @@ summary: ''
 
 [^c13462611]: Modification: S. 75 amended (27.8.1993) by [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12), [s. 40(4)](https://www.legislation.gov.uk/ukpga/1993/12/section/40/4), [Sch. 3 Pt. II para. 17](https://www.legislation.gov.uk/ukpga/1993/12/schedule/3/part/II/paragraph/17) (with [ss. 42](https://www.legislation.gov.uk/ukpga/1993/12/section/42), [46](https://www.legislation.gov.uk/ukpga/1993/12/section/46))
 
-[^key-9a355dc39605a7a0e4957f4b7ab7e836]: Modification: [S. 75](https://www.legislation.gov.uk/ukpga/1980/45/section/75) restricted (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 8 para. 39(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/39/2/a/vi) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-9a355dc39605a7a0e4957f4b7ab7e836]: Modification: [S. 75](https://www.legislation.gov.uk/ukpga/1980/45/section/75) restricted (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 8 para. 39(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2018/219/schedule/8/paragraph/39/2/a/vi) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
 
 [^c13462621]: Textual amendment: Words substituted by [Roads (Scotland) Act 1984 (c. 54, SIF 108)](https://www.legislation.gov.uk/ukpga/1984/54), [s. 156(1)](https://www.legislation.gov.uk/ukpga/1984/54/section/156/1), [Sch. 9 para. 81(9)](https://www.legislation.gov.uk/ukpga/1984/54/schedule/9/paragraph/81/9)
 

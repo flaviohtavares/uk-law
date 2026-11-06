@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.155. Obligations of liquidator to committee[^key-a27ae5aae1f6afa4f6873e68b8c27d55]
+## 4.155. Obligations of liquidator to committee[^c-a27ae5aae1f6afa4f6873e68b8c27d55]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a27ae5aae1f6afa4f6873e68b8c27d55]: Commencement: [Rule 4.155](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.155) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a27ae5aae1f6afa4f6873e68b8c27d55]: Commencement: [Rule 4.155](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.155) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

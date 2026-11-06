@@ -16,7 +16,7 @@ summary: ''
 
 ## 33. Calculation of weekly income
 
-(1) Except where paragraphs (2), (2A), (3A)[^key-97944f1addf53ff2c22d095dbc0e7ef5] and (4) apply, for the purposes of calculating the weekly income of the claimant, where the period in respect of which a payment is made—
+(1) Except where paragraphs (2), (2A), (3A)[^c-97944f1addf53ff2c22d095dbc0e7ef5] and (4) apply, for the purposes of calculating the weekly income of the claimant, where the period in respect of which a payment is made—
 
 - (a) does not exceed a week, the whole of that payment shall be included in the claimant's weekly income;
 - (b) exceeds a week, the amount to be included in the claimant's weekly income shall be determined—
@@ -38,7 +38,7 @@ the weekly amount of that claimant's income shall be determined—
   - (bb) the last four payments if the last two payments are less than one month apart; or
   - (cc) calculating or estimating such other payments as may, in the particular circumstances of the case, enable the claimant's average weekly income to be determined more accurately.
 
-(2A)[^key-c09da8fa691e1b1ed6f977f1c1600882] Income calculated pursuant to paragraph (2) shall be taken into account—
+(2A)[^c-c09da8fa691e1b1ed6f977f1c1600882] Income calculated pursuant to paragraph (2) shall be taken into account—
 
 - (a) in the case of a claim, on the date the claim was made or treated as made, and the first day of each benefit week thereafter;
 - (b) in the case of a claim or award where the claimant commences employment, the first day of the benefit week following the date the claimant commences that employment, and the first day of each benefit week thereafter; or
@@ -48,7 +48,7 @@ regardless of whether those earnings were actually received in that benefit week
 
 (3) For the purposes of paragraph (2)(b) the last payments are the last payments before the date the claim was made or treated as made or, if there is a subsequent supersession under paragraph 4 of Schedule 7 to the Child Support, Pensions and Social Security Act 2000[^c1541088], the last payments before the date of the supersession.
 
-(3A)[^key-866e5e005ce9bcb7615c4cac5220a8ae] A claimant’s earnings from employment as an employed earner not calculated pursuant to paragraph (2) shall be taken into account—
+(3A)[^c-866e5e005ce9bcb7615c4cac5220a8ae] A claimant’s earnings from employment as an employed earner not calculated pursuant to paragraph (2) shall be taken into account—
 
 - (a) in the case of a claim, on the date that the claim was made or treated as made and the first day of each benefit week thereafter;
 - (b) in the case of a claim or award where the claimant commences employment, the first day of the benefit week following the date the claimant commences that employment, and the first day of each benefit week thereafter; or
@@ -60,8 +60,8 @@ regardless of whether those earnings were actually received in that benefit week
 
 (5) This paragraph applies to—
 
-- (a)[^key-ac4c1b7cbf0b74793f7a83f4da5e656c] royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark;
-- (b)[^key-03a5829f5ee7187fdbce69cfae29e51f] any payment in respect of any —
+- (a)[^c-ac4c1b7cbf0b74793f7a83f4da5e656c] royalties or other sums paid as a consideration for the use of, or the right to use, any copyright, design, patent or trade mark;
+- (b)[^c-03a5829f5ee7187fdbce69cfae29e51f] any payment in respect of any —
   - (i) book registered under the Public Lending Right Scheme 1982 [^c1541089]; or
   - (ii) work made under any international public lending right scheme that is analogous to the Public Lending Right Scheme 1982; or
 - (c) any payment which is made on an occasional basis.
@@ -73,13 +73,13 @@ regardless of whether those earnings were actually received in that benefit week
 (8) The sums specified in Schedule 4 shall be disregarded in calculating—
 
 - (a) the claimant's earnings; and
-- (b)[^key-fa9590350728846a143803bb4e752f8d] any amount to which paragraph (5) applies where the claimant is the first owner of the copyright, design, patent or trademark, or an original contributor to the book or work referred to in paragraph (5)(b).
+- (b)[^c-fa9590350728846a143803bb4e752f8d] any amount to which paragraph (5) applies where the claimant is the first owner of the copyright, design, patent or trademark, or an original contributor to the book or work referred to in paragraph (5)(b).
 
-(8A)[^key-14f10fc41f1e53e6534c8bb0357e5387] For the purpose of paragraph (8)(b), and for that purpose only, the amounts specified in paragraph (5) shall be treated as though they were earnings.
+(8A)[^c-14f10fc41f1e53e6534c8bb0357e5387] For the purpose of paragraph (8)(b), and for that purpose only, the amounts specified in paragraph (5) shall be treated as though they were earnings.
 
 (9) Income specified in Schedule 5 is to be disregarded in the calculation of a claimant's income.
 
-(10)[^key-f5fad0e967570cd58a4633ec6f132a69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-f5fad0e967570cd58a4633ec6f132a69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) Schedule 6 shall have effect so that—
 
@@ -88,28 +88,28 @@ regardless of whether those earnings were actually received in that benefit week
 
 (12) In the case of any income taken into account for the purpose of calculating a person's income, there shall be disregarded any amount payable by way of tax.
 
-(13)[^key-f5fad0e967570cd58a4633ec6f132a69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-f5fad0e967570cd58a4633ec6f132a69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-f5fad0e967570cd58a4633ec6f132a69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-f5fad0e967570cd58a4633ec6f132a69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-97944f1addf53ff2c22d095dbc0e7ef5]: Textual amendment: Words in reg. 33(1) inserted (9.2.2015) by [The Housing Benefit and Housing Benefit (Persons who have attained the qualifying age for state pension credit) (Income from earnings) (Amendment) Regulations 2015 (S.I. 2015/6)](https://www.legislation.gov.uk/uksi/2015/6), [regs. 1](https://www.legislation.gov.uk/uksi/2015/6/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/6/regulation/3/2)
+[^c-97944f1addf53ff2c22d095dbc0e7ef5]: Textual amendment: Words in reg. 33(1) inserted (9.2.2015) by [The Housing Benefit and Housing Benefit (Persons who have attained the qualifying age for state pension credit) (Income from earnings) (Amendment) Regulations 2015 (S.I. 2015/6)](https://www.legislation.gov.uk/uksi/2015/6), [regs. 1](https://www.legislation.gov.uk/uksi/2015/6/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/6/regulation/3/2)
 
-[^key-c09da8fa691e1b1ed6f977f1c1600882]: Textual amendment: Reg. 33(2A) inserted (9.2.2015) by [The Housing Benefit and Housing Benefit (Persons who have attained the qualifying age for state pension credit) (Income from earnings) (Amendment) Regulations 2015 (S.I. 2015/6)](https://www.legislation.gov.uk/uksi/2015/6), [regs. 1](https://www.legislation.gov.uk/uksi/2015/6/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/6/regulation/3/3)
+[^c-c09da8fa691e1b1ed6f977f1c1600882]: Textual amendment: Reg. 33(2A) inserted (9.2.2015) by [The Housing Benefit and Housing Benefit (Persons who have attained the qualifying age for state pension credit) (Income from earnings) (Amendment) Regulations 2015 (S.I. 2015/6)](https://www.legislation.gov.uk/uksi/2015/6), [regs. 1](https://www.legislation.gov.uk/uksi/2015/6/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/6/regulation/3/3)
 
 [^c1541088]: Marginal citation: [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19).
 
-[^key-866e5e005ce9bcb7615c4cac5220a8ae]: Textual amendment: Words in reg. 33(3A) inserted (9.2.2015) by [The Housing Benefit and Housing Benefit (Persons who have attained the qualifying age for state pension credit) (Income from earnings) (Amendment) Regulations 2015 (S.I. 2015/6)](https://www.legislation.gov.uk/uksi/2015/6), [regs. 1](https://www.legislation.gov.uk/uksi/2015/6/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2015/6/regulation/3/4)
+[^c-866e5e005ce9bcb7615c4cac5220a8ae]: Textual amendment: Words in reg. 33(3A) inserted (9.2.2015) by [The Housing Benefit and Housing Benefit (Persons who have attained the qualifying age for state pension credit) (Income from earnings) (Amendment) Regulations 2015 (S.I. 2015/6)](https://www.legislation.gov.uk/uksi/2015/6), [regs. 1](https://www.legislation.gov.uk/uksi/2015/6/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2015/6/regulation/3/4)
 
-[^key-ac4c1b7cbf0b74793f7a83f4da5e656c]: Textual amendment: Reg. 33(5)(a) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 7(5)(a)](https://www.legislation.gov.uk/uksi/2009/583/regulation/7/5/a)
+[^c-ac4c1b7cbf0b74793f7a83f4da5e656c]: Textual amendment: Reg. 33(5)(a) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 7(5)(a)](https://www.legislation.gov.uk/uksi/2009/583/regulation/7/5/a)
 
-[^key-03a5829f5ee7187fdbce69cfae29e51f]: Textual amendment: Reg. 33(5)(b) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 7(5)(b)](https://www.legislation.gov.uk/uksi/2009/583/regulation/7/5/b)
+[^c-03a5829f5ee7187fdbce69cfae29e51f]: Textual amendment: Reg. 33(5)(b) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 7(5)(b)](https://www.legislation.gov.uk/uksi/2009/583/regulation/7/5/b)
 
 [^c1541089]: Marginal citation: The Scheme is set out in the Appendix to [S.I. 1982/719](https://www.legislation.gov.uk/uksi/1982/719).
 
-[^key-fa9590350728846a143803bb4e752f8d]: Textual amendment: Reg. 33(8)(b) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 7(5)(c)](https://www.legislation.gov.uk/uksi/2009/583/regulation/7/5/c)
+[^c-fa9590350728846a143803bb4e752f8d]: Textual amendment: Reg. 33(8)(b) substituted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 7(5)(c)](https://www.legislation.gov.uk/uksi/2009/583/regulation/7/5/c)
 
-[^key-14f10fc41f1e53e6534c8bb0357e5387]: Textual amendment: Reg. 33(8A) inserted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 7(5)(d)](https://www.legislation.gov.uk/uksi/2009/583/regulation/7/5/d)
+[^c-14f10fc41f1e53e6534c8bb0357e5387]: Textual amendment: Reg. 33(8A) inserted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by [The Social Security (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/583)](https://www.legislation.gov.uk/uksi/2009/583), [reg. 7(5)(d)](https://www.legislation.gov.uk/uksi/2009/583/regulation/7/5/d)
 
-[^key-f5fad0e967570cd58a4633ec6f132a69]: Textual amendment: Reg. 33(10)(13)(14) omitted (3.7.2007) by virtue of [Housing Benefit and Council Tax Benefit (War Pension Disregards) Regulations 2007 (S.I. 2007/1619)](https://www.legislation.gov.uk/uksi/2007/1619), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1619/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2007/1619/regulation/6/b)
+[^c-f5fad0e967570cd58a4633ec6f132a69]: Textual amendment: Reg. 33(10)(13)(14) omitted (3.7.2007) by virtue of [Housing Benefit and Council Tax Benefit (War Pension Disregards) Regulations 2007 (S.I. 2007/1619)](https://www.legislation.gov.uk/uksi/2007/1619), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1619/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2007/1619/regulation/6/b)

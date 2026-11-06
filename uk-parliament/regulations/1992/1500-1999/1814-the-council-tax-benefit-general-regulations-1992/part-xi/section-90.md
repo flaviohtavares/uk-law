@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 90. Sums to be deducted in calculating recoverable excess benefit[^key-0b6ccd45bacd0f9469ae381dfe34efbd]
+## 90. Sums to be deducted in calculating recoverable excess benefit[^c-0b6ccd45bacd0f9469ae381dfe34efbd]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ In calculating the amount of recoverable excess benefit, the appropriate authori
 
 ## Annotations
 
-[^key-0b6ccd45bacd0f9469ae381dfe34efbd]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/1992/1814/regulation/90) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-0b6ccd45bacd0f9469ae381dfe34efbd]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/1992/1814/regulation/90) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

@@ -34,7 +34,7 @@ Animals, England
 
 Animal Health
 
-The Transmissible Spongiform Encephalopathies (England) Regulations 2008 (revoked)[^key-f255be8d4d38cd1c25610f24b9d544d0]
+The Transmissible Spongiform Encephalopathies (England) Regulations 2008 (revoked)[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 Made
 
@@ -48,11 +48,11 @@ Coming into force
 
 7th August 2008
 
-[^key-f255be8d4d38cd1c25610f24b9d544d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f255be8d4d38cd1c25610f24b9d544d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General provisions[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### PART 1 — General provisions[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,13 +63,13 @@ Coming into force
 - [Section 3 — Appointment of competent authority](part-1/section-3.md)
 - [Section 4 — Exception for research](part-1/section-4.md)
 
-### PART 2 — Introduction of Schedules[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### PART 2 — Introduction of Schedules[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 **No longer in force.**
 
 - [Section 5 — The Schedules](part-2/section-5.md)
 
-### PART 3 — Administration and enforcement[^key-f255be8d4d38cd1c25610f24b9d544d0]
+### PART 3 — Administration and enforcement[^c-f255be8d4d38cd1c25610f24b9d544d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -105,14 +105,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-f255be8d4d38cd1c25610f24b9d544d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f255be8d4d38cd1c25610f24b9d544d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-f255be8d4d38cd1c25610f24b9d544d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f255be8d4d38cd1c25610f24b9d544d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f255be8d4d38cd1c25610f24b9d544d0]: Textual amendment: Regulations revoked (6.4.2010) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2010 (S.I. 2010/801)](https://www.legislation.gov.uk/uksi/2010/801), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/801/regulation/1/c), [23(a)](https://www.legislation.gov.uk/uksi/2010/801/regulation/23/a)
+[^c-f255be8d4d38cd1c25610f24b9d544d0]: Textual amendment: Regulations revoked (6.4.2010) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2010 (S.I. 2010/801)](https://www.legislation.gov.uk/uksi/2010/801), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2010/801/regulation/1/c), [23(a)](https://www.legislation.gov.uk/uksi/2010/801/regulation/23/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47ZZA. Duty to seek views of alleged victims on conditions of pre-charge bail[^key-3d7b62b0dba4bf3570564d2ace318ea1]
+## 47ZZA. Duty to seek views of alleged victims on conditions of pre-charge bail[^c-3d7b62b0dba4bf3570564d2ace318ea1]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d7b62b0dba4bf3570564d2ace318ea1]: Textual amendment: [S. 47ZZA](https://www.legislation.gov.uk/ukpga/1984/60/section/47ZZA) inserted (28.10.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/22) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/45/3)); [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-3d7b62b0dba4bf3570564d2ace318ea1]: Textual amendment: [S. 47ZZA](https://www.legislation.gov.uk/ukpga/1984/60/section/47ZZA) inserted (28.10.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/22) (with [s. 45(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/45/3)); [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)

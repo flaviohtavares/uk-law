@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Powers of Tribunal on application under section 63: compulsory treatment order[^key-a9f93c38900db3ca902707dada4e9c3c][^key-7646cfdd18f1fd0eb0184cc81ae3ee33]
+## 64. Powers of Tribunal on application under section 63: compulsory treatment order[^c-a9f93c38900db3ca902707dada4e9c3c][^c-7646cfdd18f1fd0eb0184cc81ae3ee33]
 
 *Extent: S*
 
@@ -81,6 +81,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a9f93c38900db3ca902707dada4e9c3c]: Commencement: S. 64 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-a9f93c38900db3ca902707dada4e9c3c]: Commencement: S. 64 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-7646cfdd18f1fd0eb0184cc81ae3ee33]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2003/13/section/64) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-7646cfdd18f1fd0eb0184cc81ae3ee33]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2003/13/section/64) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

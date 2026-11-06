@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Automatic enrolment[^key-b995521b064aaa3db9892b77ea9370a3]
+## 11. Automatic enrolment[^c-b995521b064aaa3db9892b77ea9370a3]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b995521b064aaa3db9892b77ea9370a3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/19/regulation/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-b995521b064aaa3db9892b77ea9370a3]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/19/regulation/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
 [^f00037]: Footnote: See section 37 of the 2013 Act for the meaning of “pensionable service”.

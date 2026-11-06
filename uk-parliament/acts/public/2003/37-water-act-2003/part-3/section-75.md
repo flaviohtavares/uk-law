@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Extension of enforcement authority’s reserve powers[^key-845b8d5f4731a4497b559e439986b908][^key-a9f2d1533dfa883682b5575c8c079eb3]
+## 75. Extension of enforcement authority’s reserve powers[^c-845b8d5f4731a4497b559e439986b908][^c-a9f2d1533dfa883682b5575c8c079eb3]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-845b8d5f4731a4497b559e439986b908]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2003/37/section/75) in force at 1.4.2004 for E. by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(t)](https://www.legislation.gov.uk/uksi/2004/641/article/3/t) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-845b8d5f4731a4497b559e439986b908]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2003/37/section/75) in force at 1.4.2004 for E. by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(t)](https://www.legislation.gov.uk/uksi/2004/641/article/3/t) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-a9f2d1533dfa883682b5575c8c079eb3]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2003/37/section/75) in force at 1.4.2004 for W. by [S.I. 2004/910](https://www.legislation.gov.uk/wsi/2004/910), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2004/910/article/2/1/e)
+[^c-a9f2d1533dfa883682b5575c8c079eb3]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2003/37/section/75) in force at 1.4.2004 for W. by [S.I. 2004/910](https://www.legislation.gov.uk/wsi/2004/910), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2004/910/article/2/1/e)

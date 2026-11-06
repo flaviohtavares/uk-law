@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Regulations[^key-c3306f59fd77047cd1a59806309cad46][^key-5abec9461727d9f354de210ec4c5865f]
+## 49. Regulations[^c-c3306f59fd77047cd1a59806309cad46][^c-5abec9461727d9f354de210ec4c5865f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Regulations under section 8C of the Renting Homes (Fees, Discrimination etc.) (W
 
 ## Annotations
 
-[^key-c3306f59fd77047cd1a59806309cad46]: Commencement: S. 49 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-c3306f59fd77047cd1a59806309cad46]: Commencement: S. 49 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
 
-[^key-5abec9461727d9f354de210ec4c5865f]: Commencement: S. 49 in force at 1.6.2026 in so far as not already in force by [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(g)](https://www.legislation.gov.uk/wsi/2026/6/article/2/g)
+[^c-5abec9461727d9f354de210ec4c5865f]: Commencement: S. 49 in force at 1.6.2026 in so far as not already in force by [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(g)](https://www.legislation.gov.uk/wsi/2026/6/article/2/g)

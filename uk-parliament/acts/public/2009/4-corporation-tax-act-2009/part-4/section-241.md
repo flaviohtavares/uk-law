@@ -24,10 +24,10 @@ summary: ''
 
 (2) Subsection (1) applies despite any obligation as to secrecy or other restriction on the disclosure of information.
 
-(3)[^key-3cf76ceb5bd966d5dabd0b43d26e29df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3cf76ceb5bd966d5dabd0b43d26e29df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3cf76ceb5bd966d5dabd0b43d26e29df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3cf76ceb5bd966d5dabd0b43d26e29df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3cf76ceb5bd966d5dabd0b43d26e29df]: Textual amendment: S. 241(3)(4) omitted (1.4.2012) (with effect in accordance with Sch. 23 para. 65 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 63](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/63), [65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50), [65(1)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))
+[^c-3cf76ceb5bd966d5dabd0b43d26e29df]: Textual amendment: S. 241(3)(4) omitted (1.4.2012) (with effect in accordance with Sch. 23 para. 65 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 63](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/63), [65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50), [65(1)(b)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))

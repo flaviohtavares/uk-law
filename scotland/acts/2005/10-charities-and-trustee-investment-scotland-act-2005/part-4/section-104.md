@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Minor and consequential amendments and repeals[^key-daf764e0e9a4afc753926af5487a8adb]
+## 104. Minor and consequential amendments and repeals[^c-daf764e0e9a4afc753926af5487a8adb]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 4 sets out minor amendments and amendments and repeals consequential on
 
 ## Annotations
 
-[^key-daf764e0e9a4afc753926af5487a8adb]: Commencement: S. 104 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-daf764e0e9a4afc753926af5487a8adb]: Commencement: S. 104 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)

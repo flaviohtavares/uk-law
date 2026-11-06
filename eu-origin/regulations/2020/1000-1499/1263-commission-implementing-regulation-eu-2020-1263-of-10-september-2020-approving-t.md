@@ -35,34 +35,34 @@ approving the active substance sodium hydrogen carbonate as a low-risk substance
 
 (Text with EEA relevance) (revoked)
 
-[^key-f76ff83ff93e07d8fcebb7eed0d08be1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f76ff83ff93e07d8fcebb7eed0d08be1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Approval of active substance[^key-f76ff83ff93e07d8fcebb7eed0d08be1]
+## Article 1. Approval of active substance[^c-f76ff83ff93e07d8fcebb7eed0d08be1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^key-f76ff83ff93e07d8fcebb7eed0d08be1]
+## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^c-f76ff83ff93e07d8fcebb7eed0d08be1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-f76ff83ff93e07d8fcebb7eed0d08be1]
+## Article 3. Entry into force[^c-f76ff83ff93e07d8fcebb7eed0d08be1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f76ff83ff93e07d8fcebb7eed0d08be1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f76ff83ff93e07d8fcebb7eed0d08be1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-f76ff83ff93e07d8fcebb7eed0d08be1]
+## ANNEX I[^c-f76ff83ff93e07d8fcebb7eed0d08be1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-f76ff83ff93e07d8fcebb7eed0d08be1]
+## ANNEX II[^c-f76ff83ff93e07d8fcebb7eed0d08be1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f76ff83ff93e07d8fcebb7eed0d08be1]: Textual amendment: Regulation revoked (E.W.S.) (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)
+[^c-f76ff83ff93e07d8fcebb7eed0d08be1]: Textual amendment: Regulation revoked (E.W.S.) (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)

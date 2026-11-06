@@ -34,7 +34,7 @@ summary: ''
   - (vi) section 17, or
   - (vii) section 30.
 
-(3) Despite section 9(4), the Commission shall not, in the course of fulfilling a duty under section 8 [^key-192fdfe7ed38aeb9a05efe8dc4298e90]..., consider the question whether a person's human rights have been contravened if the Scottish Parliament has legislative competence to enable a person to consider that question.
+(3) Despite section 9(4), the Commission shall not, in the course of fulfilling a duty under section 8 [^c-192fdfe7ed38aeb9a05efe8dc4298e90]..., consider the question whether a person's human rights have been contravened if the Scottish Parliament has legislative competence to enable a person to consider that question.
 
 (4) Subsections (1) and (3) shall not prevent the Commission from taking action with the consent (whether general or specific) of a person if—
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-192fdfe7ed38aeb9a05efe8dc4298e90]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2006/3/section/7/3) omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 64(4)](https://www.legislation.gov.uk/ukpga/2013/24/section/64/4), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2)
+[^c-192fdfe7ed38aeb9a05efe8dc4298e90]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/ukpga/2006/3/section/7/3) omitted (25.6.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 64(4)](https://www.legislation.gov.uk/ukpga/2013/24/section/64/4), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2)

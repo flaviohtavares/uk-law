@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — INFORMATION[^key-ecb2428bd5a0c4491c18884fcdd98ade]
+## SCHEDULE 3 — INFORMATION[^c-ecb2428bd5a0c4491c18884fcdd98ade]
 
 *Extent: N.I.*
 
@@ -24,38 +24,38 @@ summary: ''
 
 Regulations 7(4), 14(3) and 15(g)
 
-### PART I — INFORMATION TO BE CONTAINED IN APPLICATION FOR PRODUCER REGISTRATION[^key-ecb2428bd5a0c4491c18884fcdd98ade]
+### PART I — INFORMATION TO BE CONTAINED IN APPLICATION FOR PRODUCER REGISTRATION[^c-ecb2428bd5a0c4491c18884fcdd98ade]
 
-**1.**[^key-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — INFORMATION TO BE INCLUDED IN AN APPLICATION FOR REGISTRATION OF A SCHEME[^key-ecb2428bd5a0c4491c18884fcdd98ade]
+### PART II — INFORMATION TO BE INCLUDED IN AN APPLICATION FOR REGISTRATION OF A SCHEME[^c-ecb2428bd5a0c4491c18884fcdd98ade]
 
-**5.**[^key-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — STATEMENT OF THE SCHEME’S POLICIES AND THE OPERATIONAL PLANS OF SCHEMES AND PRODUCERS[^key-ecb2428bd5a0c4491c18884fcdd98ade]
+### PART III — STATEMENT OF THE SCHEME’S POLICIES AND THE OPERATIONAL PLANS OF SCHEMES AND PRODUCERS[^c-ecb2428bd5a0c4491c18884fcdd98ade]
 
-**11.**[^key-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-ecb2428bd5a0c4491c18884fcdd98ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ecb2428bd5a0c4491c18884fcdd98ade]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/198) revoked (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (S.I. 2024/1332)](https://www.legislation.gov.uk/uksi/2024/1332), [Sch. 17 para. 2(b)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/17/paragraph/2/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/1332/schedule/15))
+[^c-ecb2428bd5a0c4491c18884fcdd98ade]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/198) revoked (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) Regulations 2024 (S.I. 2024/1332)](https://www.legislation.gov.uk/uksi/2024/1332), [Sch. 17 para. 2(b)](https://www.legislation.gov.uk/uksi/2024/1332/schedule/17/paragraph/2/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/1332/regulation/12), [Sch. 15](https://www.legislation.gov.uk/uksi/2024/1332/schedule/15))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — MINISTRY PLATE[^key-943ec3cff29d70a7d4dc3da6c3124271]
+## SCHEDULE 10 — MINISTRY PLATE[^c-943ec3cff29d70a7d4dc3da6c3124271]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-943ec3cff29d70a7d4dc3da6c3124271]: Commencement: [Sch. 10](https://www.legislation.gov.uk/uksi/1986/1078/schedule/10) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-943ec3cff29d70a7d4dc3da6c3124271]: Commencement: [Sch. 10](https://www.legislation.gov.uk/uksi/1986/1078/schedule/10) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

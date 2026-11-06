@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Exceptions: licensed activity[^key-2f96a6611f8c1a55c66313a986ee7d1d]
+## 109. Exceptions: licensed activity[^c-2f96a6611f8c1a55c66313a986ee7d1d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ It is not an offence under section 107—
 
 ## Annotations
 
-[^key-2f96a6611f8c1a55c66313a986ee7d1d]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2010/5/section/109) in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(a)](https://www.legislation.gov.uk/ssi/2010/230/article/4/a)
+[^c-2f96a6611f8c1a55c66313a986ee7d1d]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2010/5/section/109) in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(a)](https://www.legislation.gov.uk/ssi/2010/230/article/4/a)

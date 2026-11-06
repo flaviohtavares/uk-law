@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371.[^key-33a17a2241b26739bd2ecba35e2861a3]
+## 371.[^c-33a17a2241b26739bd2ecba35e2861a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In the Annex—
 
 ## Annotations
 
-[^key-33a17a2241b26739bd2ecba35e2861a3]: Commencement: Reg. 371 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-33a17a2241b26739bd2ecba35e2861a3]: Commencement: Reg. 371 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Billing disputes: electricity[^key-a15eaded3858488b5c21b2d9bb3942a0]
+## 7. Billing disputes: electricity[^c-a15eaded3858488b5c21b2d9bb3942a0]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a15eaded3858488b5c21b2d9bb3942a0]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2011/155/regulation/7) revoked (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [31(2)](https://www.legislation.gov.uk/nisr/2013/92/regulation/31/2)
+[^c-a15eaded3858488b5c21b2d9bb3942a0]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2011/155/regulation/7) revoked (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [31(2)](https://www.legislation.gov.uk/nisr/2013/92/regulation/31/2)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 3
 
-### PART 1 — ACCESS, RIGHTS OF WAY AND PUBLIC RIGHTS OF NAVIGATION PLAN[^key-1ace4d5efc0d1d9d65ec63cb5b62d422]
+### PART 1 — ACCESS, RIGHTS OF WAY AND PUBLIC RIGHTS OF NAVIGATION PLAN[^c-1ace4d5efc0d1d9d65ec63cb5b62d422]
 
 | Drawing Title | Drawing Number | Revision |
 | --- | --- | --- |
@@ -60,7 +60,7 @@ Article 3
 | Access, Rights of Way and Public Rights of Navigation Key Plan | DCO\_F/AC/KP/01 | A |
 | Access, Rights of Way and Public Rights of Navigation Plan | DCO\_F/AC/PS/01 | B |
 
-### PART 2 — DESIGN DRAWINGS[^key-75bd927b92b6c4c7210016aba7233074]
+### PART 2 — DESIGN DRAWINGS[^c-75bd927b92b6c4c7210016aba7233074]
 
 | Drawing Title | Drawing Number | Revision |
 | --- | --- | --- |
@@ -121,7 +121,7 @@ Article 3
 | Design Drawings: Indicative Earthworks Layout - Monk Fryston | DCO\_DE/PS/22\_01 | A |
 | Design Drawings: Indicative Earthworks Long Sections - Monk Fryston | DCO\_DE/PS/22\_02 | A |
 
-### PART 3 — EXTINGUISHMENT OF EASEMENTS, SERVITUDES AND OTHER PRIVATE RIGHTS PLANS[^key-710012e7cd0f262201bbb810cccb1b09]
+### PART 3 — EXTINGUISHMENT OF EASEMENTS, SERVITUDES AND OTHER PRIVATE RIGHTS PLANS[^c-710012e7cd0f262201bbb810cccb1b09]
 
 | Drawing Title | Drawing Number | Revision |
 | --- | --- | --- |
@@ -130,7 +130,7 @@ Article 3
 | Extinguishment of easements, servitudes and other private rights plan | DCO\_D/EX/PS/01 | A |
 | Extinguishment of easements, servitudes and other private rights plan | DCO\_D/EX/PS/02 | A |
 
-### PART 4 — LAND PLAN[^key-43efd73c0a66ff4ef1d3de31d98c57c4]
+### PART 4 — LAND PLAN[^c-43efd73c0a66ff4ef1d3de31d98c57c4]
 
 | Drawing Title | Drawing Number | Revision |
 | --- | --- | --- |
@@ -166,7 +166,7 @@ Article 3
 | Land Key Plan | DCO\_F/LP/KP/01 | A |
 | Land Plan | DCO\_F/LP/PS/01 | B |
 
-### PART 5 — OUTLINE LANDSCAPE MITIGATION STRATEGY[^key-71c385b7a2ddbfefe80f5cb1023f138a]
+### PART 5 — OUTLINE LANDSCAPE MITIGATION STRATEGY[^c-71c385b7a2ddbfefe80f5cb1023f138a]
 
 | Drawing Title | Drawing Number | Revision |
 | --- | --- | --- |
@@ -174,7 +174,7 @@ Article 3
 | 5.4.3 ES Chapter 3: Description of the Project Figure 3.11 Outline Landscape Mitigation Strategy (Tadcaster) | DCO/OLMP/3.11 | C |
 | 5.4.3 ES Chapter 3: Description of the Project Figure 3.12 Outline Landscape Mitigation Strategy (Monk Fryston) | DCO/OLMP/3.12 | C |
 
-### PART 6 — TRAFFIC REGULATION ORDER PLAN[^key-f3a0031835e4b7f8dabfc16a8eef05f2]
+### PART 6 — TRAFFIC REGULATION ORDER PLAN[^c-f3a0031835e4b7f8dabfc16a8eef05f2]
 
 | Drawing Title | Drawing Number | Revision |
 | --- | --- | --- |
@@ -210,7 +210,7 @@ Article 3
 | Traffic Regulations Order Key Plan | DCO\_F/TRO/KP/01 | A |
 | Traffic Regulations Order Plan | DCO\_F/TRO/PS/01 | A |
 
-### PART 7 — WORKS PLAN[^key-eb42aef25410ae06b9b55afbb15652f1]
+### PART 7 — WORKS PLAN[^c-eb42aef25410ae06b9b55afbb15652f1]
 
 | Drawing Title | Drawing Number | Revision |
 | --- | --- | --- |
@@ -246,7 +246,7 @@ Article 3
 | Works Key Plan | DCO\_F/WO/KP/01 | A |
 | Works Plan | DCO\_F/WO/PS/01 | B |
 
-### PART 8 — ENVIRONMENTAL STATEMENT DOCUMENTS[^key-319cc5718d8dd6f07e4704b15682a831]
+### PART 8 — ENVIRONMENTAL STATEMENT DOCUMENTS[^c-319cc5718d8dd6f07e4704b15682a831]
 
 | Document title | Document number | Version |
 | --- | --- | --- |
@@ -380,18 +380,18 @@ Article 3
 
 ## Annotations
 
-[^key-1ace4d5efc0d1d9d65ec63cb5b62d422]: Commencement: Sch. 2 Pt. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-1ace4d5efc0d1d9d65ec63cb5b62d422]: Commencement: Sch. 2 Pt. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-75bd927b92b6c4c7210016aba7233074]: Commencement: Sch. 2 Pt. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-75bd927b92b6c4c7210016aba7233074]: Commencement: Sch. 2 Pt. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-710012e7cd0f262201bbb810cccb1b09]: Commencement: Sch. 2 Pt. 3 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-710012e7cd0f262201bbb810cccb1b09]: Commencement: Sch. 2 Pt. 3 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-43efd73c0a66ff4ef1d3de31d98c57c4]: Commencement: Sch. 2 Pt. 4 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-43efd73c0a66ff4ef1d3de31d98c57c4]: Commencement: Sch. 2 Pt. 4 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-71c385b7a2ddbfefe80f5cb1023f138a]: Commencement: Sch. 2 Pt. 5 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-71c385b7a2ddbfefe80f5cb1023f138a]: Commencement: Sch. 2 Pt. 5 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-f3a0031835e4b7f8dabfc16a8eef05f2]: Commencement: Sch. 2 Pt. 6 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-f3a0031835e4b7f8dabfc16a8eef05f2]: Commencement: Sch. 2 Pt. 6 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-eb42aef25410ae06b9b55afbb15652f1]: Commencement: Sch. 2 Pt. 7 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-eb42aef25410ae06b9b55afbb15652f1]: Commencement: Sch. 2 Pt. 7 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-319cc5718d8dd6f07e4704b15682a831]: Commencement: Sch. 2 Pt. 8 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-319cc5718d8dd6f07e4704b15682a831]: Commencement: Sch. 2 Pt. 8 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

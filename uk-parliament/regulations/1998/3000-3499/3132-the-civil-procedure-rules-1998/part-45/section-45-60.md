@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.60. Disbursements – Section VII[^key-8ed78e3eff468fc080a342c5659897de]
+## 45.60. Disbursements – Section VII[^c-8ed78e3eff468fc080a342c5659897de]
 
 *Extent: E+W*
 
-Subject to rule 45.15A, in a claim[^key-06929ab6dd1ea08cfc1912d98ae91355] to which Section VII applies, the court may allow any disbursement which has been reasonably incurred, other than a disbursement covering work for which costs are already allowed in Section VII.
+Subject to rule 45.15A, in a claim[^c-06929ab6dd1ea08cfc1912d98ae91355] to which Section VII applies, the court may allow any disbursement which has been reasonably incurred, other than a disbursement covering work for which costs are already allowed in Section VII.
 
 ## Annotations
 
-[^key-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-06929ab6dd1ea08cfc1912d98ae91355]: Textual amendment: Words in [rule 45.60](https://www.legislation.gov.uk/uksi/1998/3132/rule/45.60) substituted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(9)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/9)
+[^c-06929ab6dd1ea08cfc1912d98ae91355]: Textual amendment: Words in [rule 45.60](https://www.legislation.gov.uk/uksi/1998/3132/rule/45.60) substituted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(9)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/9)

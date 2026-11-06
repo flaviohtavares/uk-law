@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Subsequent phased retirement applications[^key-7a2177704525f8f9e8fd7f7e81efc242]
+## 95. Subsequent phased retirement applications[^c-7a2177704525f8f9e8fd7f7e81efc242]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a2177704525f8f9e8fd7f7e81efc242]: Commencement: [Reg. 95](https://www.legislation.gov.uk/ssi/2014/292/regulation/95) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-7a2177704525f8f9e8fd7f7e81efc242]: Commencement: [Reg. 95](https://www.legislation.gov.uk/ssi/2014/292/regulation/95) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

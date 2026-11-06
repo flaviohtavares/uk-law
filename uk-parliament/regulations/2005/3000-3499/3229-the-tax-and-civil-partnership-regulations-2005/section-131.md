@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Finance Act 2000[^key-ad4c947a5e6f93fd3275d45bc1e84364]
+## 131. Finance Act 2000[^c-ad4c947a5e6f93fd3275d45bc1e84364]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Finance Act 2000 is amended as follows.
 
 ## Annotations
 
-[^key-ad4c947a5e6f93fd3275d45bc1e84364]: Commencement: Reg. 131 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-ad4c947a5e6f93fd3275d45bc1e84364]: Commencement: Reg. 131 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

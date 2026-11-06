@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6A. Exercise of functions of consumer advocacy bodies[^key-b5f8b9ff960a6d0c2f9f7c66c8f570eb]
+## 6A. Exercise of functions of consumer advocacy bodies[^c-b5f8b9ff960a6d0c2f9f7c66c8f570eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Subject to section 13 (investigation of complaints relating to the disconnection
 
 ## Annotations
 
-[^key-b5f8b9ff960a6d0c2f9f7c66c8f570eb]: Textual amendment: S. 6A inserted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631) , [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3) , [Sch. 1 para. 12(9)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/9) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28) , [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13) )
+[^c-b5f8b9ff960a6d0c2f9f7c66c8f570eb]: Textual amendment: S. 6A inserted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631) , [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3) , [Sch. 1 para. 12(9)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/9) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28) , [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13) )

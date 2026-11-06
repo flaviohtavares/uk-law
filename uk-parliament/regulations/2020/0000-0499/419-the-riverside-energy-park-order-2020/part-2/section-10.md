@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Guarantees in respect of payment of compensation[^key-970324f9dcfccd55f9687cd4fde80a00]
+## 10. Guarantees in respect of payment of compensation[^c-970324f9dcfccd55f9687cd4fde80a00]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-970324f9dcfccd55f9687cd4fde80a00]: Commencement: Art. 10 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-970324f9dcfccd55f9687cd4fde80a00]: Commencement: Art. 10 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)

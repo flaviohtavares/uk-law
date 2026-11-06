@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Prohibition on providing fireworks or pyrotechnic articles to children[^key-32c8f8b2f717ba447ec45628293166c9][^key-1d756d864aed52801a5286e6dd1a2ac3]
+## 21. Prohibition on providing fireworks or pyrotechnic articles to children[^c-32c8f8b2f717ba447ec45628293166c9][^c-1d756d864aed52801a5286e6dd1a2ac3]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32c8f8b2f717ba447ec45628293166c9]: Commencement: S. 21 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-32c8f8b2f717ba447ec45628293166c9]: Commencement: S. 21 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-1d756d864aed52801a5286e6dd1a2ac3]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2022/9/section/21) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)
+[^c-1d756d864aed52801a5286e6dd1a2ac3]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2022/9/section/21) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)

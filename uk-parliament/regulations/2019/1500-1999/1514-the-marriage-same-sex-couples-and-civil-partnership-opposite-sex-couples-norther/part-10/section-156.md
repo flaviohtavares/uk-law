@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Housing Renewal Grants (Reduction of Grant) Regulations (Northern Ireland) 2004[^key-c5d03321826d1bc2f047ac0f7d66e923]
+## 156. Housing Renewal Grants (Reduction of Grant) Regulations (Northern Ireland) 2004[^c-c5d03321826d1bc2f047ac0f7d66e923]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c5d03321826d1bc2f047ac0f7d66e923]: Commencement: Reg. 156 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-c5d03321826d1bc2f047ac0f7d66e923]: Commencement: Reg. 156 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00263]: Footnote: [S.R. (N.I.) 2004/8](https://www.legislation.gov.uk/nisr/2004/8).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Protected disclosures[^key-b90ae6c6c64e333d23c2d3bd826a8764][^key-3a09b8cc1004cfe6ea8ffc8b19113651]
+## 115. Protected disclosures[^c-b90ae6c6c64e333d23c2d3bd826a8764][^c-3a09b8cc1004cfe6ea8ffc8b19113651]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Public Interest Disclosure (Prescribed Persons) Order 2014 ([S.I. 2014/24
 
 ## Annotations
 
-[^key-b90ae6c6c64e333d23c2d3bd826a8764]: Commencement: S. 115 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-b90ae6c6c64e333d23c2d3bd826a8764]: Commencement: S. 115 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-3a09b8cc1004cfe6ea8ffc8b19113651]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2024/13/section/115) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-3a09b8cc1004cfe6ea8ffc8b19113651]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2024/13/section/115) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

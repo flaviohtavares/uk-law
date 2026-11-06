@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136A. Car with a CO<sub>2</sub> emissions figure: registration on or after IP completion day[^key-9ba42e121c94b5ce40115b687983260a]
+## 136A. Car with a CO<sub>2</sub> emissions figure: registration on or after IP completion day[^c-9ba42e121c94b5ce40115b687983260a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,10 +31,10 @@ summary: ''
 - (a) section 137A (bi-fuel cars registered after IP completion day), and
 - (b) section 138 (automatic car for a disabled employee).
 
-(5)[^key-3b3c19d735a4e104ef324877049a8515] Subsection (2) is also subject to section 138A (certain cars with a CO<sub>2</sub> emissions figure and an electric range figure).
+(5)[^c-3b3c19d735a4e104ef324877049a8515] Subsection (2) is also subject to section 138A (certain cars with a CO<sub>2</sub> emissions figure and an electric range figure).
 
 ## Annotations
 
-[^key-9ba42e121c94b5ce40115b687983260a]: Textual amendment: S. 136A inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 18 para. 4(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/18/paragraph/4/2)
+[^c-9ba42e121c94b5ce40115b687983260a]: Textual amendment: S. 136A inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 18 para. 4(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/18/paragraph/4/2)
 
-[^key-3b3c19d735a4e104ef324877049a8515]: Textual amendment: S. 136A(5) inserted (with effect in accordance with s. 19(4) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/19/2)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/19/4) (with [s. 19(5)-(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/19/5))
+[^c-3b3c19d735a4e104ef324877049a8515]: Textual amendment: S. 136A(5) inserted (with effect in accordance with s. 19(4) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 19(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/19/2)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/19/4) (with [s. 19(5)-(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/19/5))

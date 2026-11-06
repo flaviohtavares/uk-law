@@ -34,7 +34,7 @@ This Statutory Instrument is made in part to correct errors contained in [S.I.20
 
 National Health Service, England
 
-The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2023 (revoked)[^key-146faf2965776b09cd139ba581d86870]
+The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2023 (revoked)[^c-146faf2965776b09cd139ba581d86870]
 
 Made
 
@@ -48,118 +48,118 @@ Coming into force
 
 15th May 2023
 
-[^key-146faf2965776b09cd139ba581d86870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-146faf2965776b09cd139ba581d86870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-146faf2965776b09cd139ba581d86870]
+## 1. Citation, commencement, extent and application[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Health Service (General Medical Services Contracts) Regulations 2015[^key-146faf2965776b09cd139ba581d86870]
+## 2. Amendment of the National Health Service (General Medical Services Contracts) Regulations 2015[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the National Health Service (Personal Medical Services Agreements) Regulations 2015[^key-146faf2965776b09cd139ba581d86870]
+## 3. Amendment of the National Health Service (Personal Medical Services Agreements) Regulations 2015[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision[^key-146faf2965776b09cd139ba581d86870]
+## 4. Transitional provision[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-146faf2965776b09cd139ba581d86870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-146faf2965776b09cd139ba581d86870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Amendments to the GMS Contracts Regulations[^key-146faf2965776b09cd139ba581d86870]
+## SCHEDULE 1 — Amendments to the GMS Contracts Regulations[^c-146faf2965776b09cd139ba581d86870]
 
 Regulation 2
 
-### 1. Removal of references to medical cards[^key-146faf2965776b09cd139ba581d86870]
+### 1. Removal of references to medical cards[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-146faf2965776b09cd139ba581d86870] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-146faf2965776b09cd139ba581d86870] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-146faf2965776b09cd139ba581d86870] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-146faf2965776b09cd139ba581d86870] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Pay transparency[^key-146faf2965776b09cd139ba581d86870]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Patient online services: provision of online access to coded information in medical record and prospective medical records[^key-146faf2965776b09cd139ba581d86870]
+### 4. Pay transparency[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Patient online services: provision of online access to full digital medical record[^key-146faf2965776b09cd139ba581d86870]
+### 5. Patient online services: provision of online access to coded information in medical record and prospective medical records[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Patient online services: provision of an online consultation tool[^key-146faf2965776b09cd139ba581d86870]
+### 6. Patient online services: provision of online access to full digital medical record[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Patient access to online services[^key-146faf2965776b09cd139ba581d86870]
+### 7. Patient online services: provision of an online consultation tool[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. New telephone contract or arrangements[^key-146faf2965776b09cd139ba581d86870]
+### 8. Patient access to online services[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Contact with the practice[^key-146faf2965776b09cd139ba581d86870]
+### 9. New telephone contract or arrangements[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Amendments to the PMS Agreements Regulations[^key-146faf2965776b09cd139ba581d86870]
+### 10. Contact with the practice[^c-146faf2965776b09cd139ba581d86870]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Amendments to the PMS Agreements Regulations[^c-146faf2965776b09cd139ba581d86870]
 
 Regulation 3
 
-### 1. Removal of references to medical cards[^key-146faf2965776b09cd139ba581d86870]
+### 1. Removal of references to medical cards[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-146faf2965776b09cd139ba581d86870] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-146faf2965776b09cd139ba581d86870] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Pay transparency[^key-146faf2965776b09cd139ba581d86870]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Vaccines and immunisations: duty of co-operation[^key-146faf2965776b09cd139ba581d86870]
+### 3. Pay transparency[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Patient online services: provision of online access to coded information in medical record and prospective medical records[^key-146faf2965776b09cd139ba581d86870]
+### 4. Vaccines and immunisations: duty of co-operation[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Patient online services: provision of online access to full digital medical record[^key-146faf2965776b09cd139ba581d86870]
+### 5. Patient online services: provision of online access to coded information in medical record and prospective medical records[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Patient online services: provision of an online consultation tool[^key-146faf2965776b09cd139ba581d86870]
+### 6. Patient online services: provision of online access to full digital medical record[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Patient access to online services[^key-146faf2965776b09cd139ba581d86870]
+### 7. Patient online services: provision of an online consultation tool[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. New telephone contract or arrangements[^key-146faf2965776b09cd139ba581d86870]
+### 8. Patient access to online services[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Contact with the practice[^key-146faf2965776b09cd139ba581d86870]
+### 9. New telephone contract or arrangements[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Integrated care provider contracts[^key-146faf2965776b09cd139ba581d86870]
+### 10. Contact with the practice[^c-146faf2965776b09cd139ba581d86870]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-146faf2965776b09cd139ba581d86870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 11. Integrated care provider contracts[^c-146faf2965776b09cd139ba581d86870]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-146faf2965776b09cd139ba581d86870]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-146faf2965776b09cd139ba581d86870]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/436) revoked (15.5.2023 immediately before the start of the day) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2023/449/regulation/4)
+[^c-146faf2965776b09cd139ba581d86870]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/436) revoked (15.5.2023 immediately before the start of the day) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/449)](https://www.legislation.gov.uk/uksi/2023/449), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/449/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2023/449/regulation/4)

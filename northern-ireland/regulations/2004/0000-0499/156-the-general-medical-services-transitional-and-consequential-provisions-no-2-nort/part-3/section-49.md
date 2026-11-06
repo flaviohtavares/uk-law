@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Refund of fees[^key-161dc4a6840887274eca52a01ab8ddc6]
+## 49. Refund of fees[^c-161dc4a6840887274eca52a01ab8ddc6]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ the fee shall be regarded as if it had been paid to the general medical services
 
 ## Annotations
 
-[^key-161dc4a6840887274eca52a01ab8ddc6]: Commencement: Art. 49 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-161dc4a6840887274eca52a01ab8ddc6]: Commencement: Art. 49 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

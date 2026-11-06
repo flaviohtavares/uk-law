@@ -289,7 +289,7 @@ In rule 24 (responses and replies)—
   > (1) When a decision maker receives a copy of a notice of appeal from the Tribunal under rule 22(7), the decision maker must send or deliver a response to the Tribunal—
   >
   > - (a) in asylum support cases, so that it is received within 3 days after the date on which the Tribunal received the notice of appeal;
-  > - (b)[^key-f4ec2e123ceddfeb4e8a97634680317c] in—
+  > - (b)[^c-f4ec2e123ceddfeb4e8a97634680317c] in—
   >   - (i) criminal injuries compensation cases, or
   >   - (ii) appeals under the Child Support Act 1991,
   >
@@ -665,7 +665,7 @@ Rules 34, 40 and 41 make amendments specific to the TC relating to appeals from 
 
 [^c2167991]: Marginal citation: [1979 c. 17](https://www.legislation.gov.uk/ukpga/1979/17)
 
-[^key-f4ec2e123ceddfeb4e8a97634680317c]: Textual amendment: Words in [art. 27(a)](https://www.legislation.gov.uk/uksi/2013/477/article/27/a) substituted (1.9.2014) by [The Tribunal Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/2128)](https://www.legislation.gov.uk/uksi/2014/2128), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2014/2128/article/1/a), [37](https://www.legislation.gov.uk/uksi/2014/2128/article/37)
+[^c-f4ec2e123ceddfeb4e8a97634680317c]: Textual amendment: Words in [art. 27(a)](https://www.legislation.gov.uk/uksi/2013/477/article/27/a) substituted (1.9.2014) by [The Tribunal Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/2128)](https://www.legislation.gov.uk/uksi/2014/2128), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2014/2128/article/1/a), [37](https://www.legislation.gov.uk/uksi/2014/2128/article/37)
 
 [^c2167994]: Marginal citation: The amendments to paragraph (c)(i) and (ii) resulting from regulations 1(4) and 9 of the Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendment) Regulations 2012, [S.I. 2012/2785](https://www.legislation.gov.uk/uksi/2012/2785) are in force for certain cases but not others.
 

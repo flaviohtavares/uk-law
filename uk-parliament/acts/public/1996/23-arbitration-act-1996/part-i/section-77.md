@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Powers of court in relation to service of documents.[^c833529][^c2085731][^c2085734][^c2085782][^c2086260][^key-055f402b065bcc7e2a5eff52a4ff7a3c]
+## 77. Powers of court in relation to service of documents.[^c833529][^c2085731][^c2085734][^c2085782][^c2086260][^c-055f402b065bcc7e2a5eff52a4ff7a3c]
 
 *Extent: E+W+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c2086260]: Modification: S. 77 applied (with modifications) (N.I.) (21.5.2006) by [The Labour Relations Agency (Flexible Working) Arbitration Scheme Order (Northern Ireland) 2006 (S.R. 2006/206)](https://www.legislation.gov.uk/nisr/2006/206), [arts. 2](https://www.legislation.gov.uk/nisr/2006/206/article/2), [3](https://www.legislation.gov.uk/nisr/2006/206/article/3), [Sch. Para. 128](https://www.legislation.gov.uk/nisr/2006/206/schedule/paragraph/128)
 
-[^key-055f402b065bcc7e2a5eff52a4ff7a3c]: Modification: S. 77 applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 123](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/123)
+[^c-055f402b065bcc7e2a5eff52a4ff7a3c]: Modification: S. 77 applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 123](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/123)

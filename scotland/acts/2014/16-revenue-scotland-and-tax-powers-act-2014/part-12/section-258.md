@@ -27,7 +27,7 @@ summary: ''
 | *Crown land* | *Appropriate authority* |
 | --- | --- |
 | Land an interest in which belongs to Her Majesty in right of the Crown and which forms part of the Crown estate | The Crown Estate Commissioners |
-| Other land an interest in which belongs to Her Majesty in right of the Crown | The office-holder in the Scottish Administration or the Government department having the management of the land or the relevant person”, and[^key-f54f3d5d71808683a87f6b6dc980621a] |
+| Other land an interest in which belongs to Her Majesty in right of the Crown | The office-holder in the Scottish Administration or the Government department having the management of the land or the relevant person”, and[^c-f54f3d5d71808683a87f6b6dc980621a] |
 | Land an interest in which belongs to an office-holder in the Scottish Administration | The relevant office-holder in the Scottish Administration |
 | Land an interest in which belongs to a Government department | The relevant Government department |
 | Land an interest in which is held in trust for Her Majesty for the purposes of the Scottish Administration | The relevant office-holder in the Scottish Administration |
@@ -35,10 +35,10 @@ summary: ''
 
 (3) “**Government department**” means a department of the Government of the United Kingdom”.
 
-(4)[^key-8ee292b7a6b0e93e529ea564a71916bc] “Relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
+(4)[^c-8ee292b7a6b0e93e529ea564a71916bc] “Relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
 
 ## Annotations
 
-[^key-f54f3d5d71808683a87f6b6dc980621a]: Textual amendment: Words in [s. 258(2)](https://www.legislation.gov.uk/asp/2014/16/section/258/2) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 48(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/48/a)
+[^c-f54f3d5d71808683a87f6b6dc980621a]: Textual amendment: Words in [s. 258(2)](https://www.legislation.gov.uk/asp/2014/16/section/258/2) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 48(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/48/a)
 
-[^key-8ee292b7a6b0e93e529ea564a71916bc]: Textual amendment: [S. 258(4)](https://www.legislation.gov.uk/asp/2014/16/section/258/4) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 48(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/48/b)
+[^c-8ee292b7a6b0e93e529ea564a71916bc]: Textual amendment: [S. 258(4)](https://www.legislation.gov.uk/asp/2014/16/section/258/4) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 48(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/48/b)

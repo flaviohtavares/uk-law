@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Ministers' power to specify additional content[^key-7016b83b7c1b3ca9afdd58e779a05642]
+## 19. Ministers' power to specify additional content[^c-7016b83b7c1b3ca9afdd58e779a05642]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may by regulations prescribe further information that may
 
 ## Annotations
 
-[^key-7016b83b7c1b3ca9afdd58e779a05642]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2019/17/section/19) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-7016b83b7c1b3ca9afdd58e779a05642]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2019/17/section/19) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

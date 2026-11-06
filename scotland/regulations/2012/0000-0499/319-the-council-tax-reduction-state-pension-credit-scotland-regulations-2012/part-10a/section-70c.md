@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70C. Conduct of further reviews[^key-9d4eac78e7831cc04e4b603aed976a13]
+## 70C. Conduct of further reviews[^c-9d4eac78e7831cc04e4b603aed976a13]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d4eac78e7831cc04e4b603aed976a13]: Textual amendment: [Reg. 70C](https://www.legislation.gov.uk/ssi/2012/319/regulation/70C) revoked (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Council Tax Reduction Review Panel) Regulations 2023 (S.S.I. 2023/46)](https://www.legislation.gov.uk/ssi/2023/46), [reg. 1](https://www.legislation.gov.uk/ssi/2023/46/regulation/1), [sch. 2 para. 1(6)](https://www.legislation.gov.uk/ssi/2023/46/schedule/2/paragraph/1/6) (with [sch. 1](https://www.legislation.gov.uk/ssi/2023/46/schedule/1))
+[^c-9d4eac78e7831cc04e4b603aed976a13]: Textual amendment: [Reg. 70C](https://www.legislation.gov.uk/ssi/2012/319/regulation/70C) revoked (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Council Tax Reduction Review Panel) Regulations 2023 (S.S.I. 2023/46)](https://www.legislation.gov.uk/ssi/2023/46), [reg. 1](https://www.legislation.gov.uk/ssi/2023/46/regulation/1), [sch. 2 para. 1(6)](https://www.legislation.gov.uk/ssi/2023/46/schedule/2/paragraph/1/6) (with [sch. 1](https://www.legislation.gov.uk/ssi/2023/46/schedule/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Variation or revocation of authorisation: procedure[^key-9c718561a12a89fae6a02a411f54b233]
+## 48. Variation or revocation of authorisation: procedure[^c-9c718561a12a89fae6a02a411f54b233]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ the OfS must notify the governing body of the provider of its intention to do so
 
 ## Annotations
 
-[^key-9c718561a12a89fae6a02a411f54b233]: Commencement: S. 48 in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/e)
+[^c-9c718561a12a89fae6a02a411f54b233]: Commencement: S. 48 in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/e)

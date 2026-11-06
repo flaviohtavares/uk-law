@@ -25,10 +25,10 @@ summary: ''
 - (a) shall not be subject to sub-paragraphs (4) and (5) of paragraph 1 of that Schedule; but
 - (b) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(2)[^key-f501eced9ffa7e62836199876cdb5d03] Her Majesty may by Order in Council direct that those sections shall extend to any of the Channel Islands with such adaptations and modifications (if any) as may be specified in the Order.
+(2)[^c-f501eced9ffa7e62836199876cdb5d03] Her Majesty may by Order in Council direct that those sections shall extend to any of the Channel Islands with such adaptations and modifications (if any) as may be specified in the Order.
 
 ## Annotations
 
 [^c12677251]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).
 
-[^key-f501eced9ffa7e62836199876cdb5d03]: Modification: S. 217(2) modified (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [ss. 54(18)](https://www.legislation.gov.uk/ukpga/2017/29/section/54/18), [124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5) (with [s. 55](https://www.legislation.gov.uk/ukpga/2017/29/section/55)); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/f)
+[^c-f501eced9ffa7e62836199876cdb5d03]: Modification: S. 217(2) modified (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [ss. 54(18)](https://www.legislation.gov.uk/ukpga/2017/29/section/54/18), [124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5) (with [s. 55](https://www.legislation.gov.uk/ukpga/2017/29/section/55)); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/f)

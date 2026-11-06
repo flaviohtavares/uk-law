@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-73664c70509fa62dcb607ea5f5e5e4b7][^key-105bd4bd0e9ce22c805dc75862d99b63] The 2005 Act is amended as follows.
+(1)[^c-73664c70509fa62dcb607ea5f5e5e4b7][^c-105bd4bd0e9ce22c805dc75862d99b63] The 2005 Act is amended as follows.
 
-(2)[^key-73664c70509fa62dcb607ea5f5e5e4b7] In each of the following provisions, the word “knowingly” is repealed—
+(2)[^c-73664c70509fa62dcb607ea5f5e5e4b7] In each of the following provisions, the word “knowingly” is repealed—
 
 - (a) section 1(3)(b),
 - (b) section 103(1),
@@ -34,7 +34,7 @@ summary: ''
 - (h) section 127(4), and
 - (i) section 128(5).
 
-(3)[^key-f6f132df180159231d61bff96b441c14][^key-8a73dc327df19c4e332e3c661ce15618] After section 141 (offences by bodies corporate etc.) insert—
+(3)[^c-f6f132df180159231d61bff96b441c14][^c-8a73dc327df19c4e332e3c661ce15618] After section 141 (offences by bodies corporate etc.) insert—
 
 > **141A. Defence of due diligence for certain offences**
 >
@@ -95,10 +95,10 @@ summary: ''
 
 ## Annotations
 
-[^key-73664c70509fa62dcb607ea5f5e5e4b7]: Commencement: S. 195(2) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-73664c70509fa62dcb607ea5f5e5e4b7]: Commencement: S. 195(2) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
 
-[^key-105bd4bd0e9ce22c805dc75862d99b63]: Commencement: [S. 195(1)](https://www.legislation.gov.uk/asp/2010/13/section/195/1) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-105bd4bd0e9ce22c805dc75862d99b63]: Commencement: [S. 195(1)](https://www.legislation.gov.uk/asp/2010/13/section/195/1) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-f6f132df180159231d61bff96b441c14]: Commencement: S. 195(3) in force at 13.12.2010 for specified purposes by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-f6f132df180159231d61bff96b441c14]: Commencement: S. 195(3) in force at 13.12.2010 for specified purposes by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-8a73dc327df19c4e332e3c661ce15618]: Commencement: [S. 195(3)](https://www.legislation.gov.uk/asp/2010/13/section/195/3) in force at 1.11.2011 in so far as not already in force by [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule))
+[^c-8a73dc327df19c4e332e3c661ce15618]: Commencement: [S. 195(3)](https://www.legislation.gov.uk/asp/2010/13/section/195/3) in force at 1.11.2011 in so far as not already in force by [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule))

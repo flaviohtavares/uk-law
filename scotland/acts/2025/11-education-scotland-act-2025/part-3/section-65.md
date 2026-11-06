@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Ancillary provision[^key-84b21256e8cbd2f66868504360ebc1a9]
+## 65. Ancillary provision[^c-84b21256e8cbd2f66868504360ebc1a9]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84b21256e8cbd2f66868504360ebc1a9]: Commencement: S. 65 in force at 7.8.2025, see [s. 66(1)](https://www.legislation.gov.uk/asp/2025/11/section/66/1)
+[^c-84b21256e8cbd2f66868504360ebc1a9]: Commencement: S. 65 in force at 7.8.2025, see [s. 66(1)](https://www.legislation.gov.uk/asp/2025/11/section/66/1)

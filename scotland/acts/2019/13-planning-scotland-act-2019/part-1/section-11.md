@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Delivery programmes[^key-fe0e9f009273b9bdf78d0c4fc9c6d566][^key-3c27e19176639a7517cc018953b65014]
+## 11. Delivery programmes[^c-fe0e9f009273b9bdf78d0c4fc9c6d566][^c-3c27e19176639a7517cc018953b65014]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe0e9f009273b9bdf78d0c4fc9c6d566]: Commencement: S. 11 in force at 8.11.2019 for specified purposes by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
+[^c-fe0e9f009273b9bdf78d0c4fc9c6d566]: Commencement: S. 11 in force at 8.11.2019 for specified purposes by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
 
-[^key-3c27e19176639a7517cc018953b65014]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/13/section/11) in force at 19.5.2023 in so far as not already in force by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/c) (with [reg. 5](https://www.legislation.gov.uk/ssi/2023/100/regulation/5))
+[^c-3c27e19176639a7517cc018953b65014]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/13/section/11) in force at 19.5.2023 in so far as not already in force by [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/c) (with [reg. 5](https://www.legislation.gov.uk/ssi/2023/100/regulation/5))

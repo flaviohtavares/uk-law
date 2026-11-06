@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 130. Order to permit steps required by enforcement notice[^key-5fec12e68380944589930779c6eef3d7][^key-1c9b58f8ccec78f7d1526cff6af9155a]
+## 130. Order to permit steps required by enforcement notice[^c-5fec12e68380944589930779c6eef3d7][^c-1c9b58f8ccec78f7d1526cff6af9155a]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5fec12e68380944589930779c6eef3d7]: Commencement: S. 130 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-5fec12e68380944589930779c6eef3d7]: Commencement: S. 130 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-1c9b58f8ccec78f7d1526cff6af9155a]: Commencement: [S. 130](https://www.legislation.gov.uk/asc/2023/3/section/130) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-1c9b58f8ccec78f7d1526cff6af9155a]: Commencement: [S. 130](https://www.legislation.gov.uk/asc/2023/3/section/130) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

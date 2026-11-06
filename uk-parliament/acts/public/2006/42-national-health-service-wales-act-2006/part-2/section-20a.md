@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20A. Duty of NHS trusts to secure quality in health services[^key-3e78fed8fca148d1cc44ebed589e0ec0]
+## 20A. Duty of NHS trusts to secure quality in health services[^c-3e78fed8fca148d1cc44ebed589e0ec0]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e78fed8fca148d1cc44ebed589e0ec0]: Textual amendment: [S. 20A](https://www.legislation.gov.uk/ukpga/2006/42/section/20A) inserted (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [ss. 2(4)](https://www.legislation.gov.uk/asc/2020/1/section/2/4), [29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/b)
+[^c-3e78fed8fca148d1cc44ebed589e0ec0]: Textual amendment: [S. 20A](https://www.legislation.gov.uk/ukpga/2006/42/section/20A) inserted (1.4.2023) by [Health and Social Care (Quality and Engagement) (Wales) Act 2020 (asc 1)](https://www.legislation.gov.uk/asc/2020/1), [ss. 2(4)](https://www.legislation.gov.uk/asc/2020/1/section/2/4), [29(2)](https://www.legislation.gov.uk/asc/2020/1/section/29/2); [S.I. 2023/370](https://www.legislation.gov.uk/wsi/2023/370), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2023/370/article/3/1/b)

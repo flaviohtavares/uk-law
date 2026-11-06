@@ -81,61 +81,61 @@ HAS ADOPTED THIS DECISION:
 
 (1) ‘the harmful organism’ means *Phytophthora ramorum* Werres, De Cock & Man in 't Veld sp. nov.
 
-(2)[^key-5ac066be4bd69931f119f6e88c136bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5ac066be4bd69931f119f6e88c136bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-5ac066be4bd69931f119f6e88c136bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5ac066be4bd69931f119f6e88c136bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-5ac066be4bd69931f119f6e88c136bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5ac066be4bd69931f119f6e88c136bfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6a.**[^key-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6a.**[^c-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-c0329b68602e90cf8184656542dbb86d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## ANNEX I[^c000002]
 
-[^key-92f04137bf159c923dc3fe335da687df]1a.
+[^c-92f04137bf159c923dc3fe335da687df]1a.
 
 ...
 
-[^key-92f04137bf159c923dc3fe335da687df]1b.
+[^c-92f04137bf159c923dc3fe335da687df]1b.
 
 ...
 
-[^key-92f04137bf159c923dc3fe335da687df]2.
+[^c-92f04137bf159c923dc3fe335da687df]2.
 
 ...
 
-[^key-92f04137bf159c923dc3fe335da687df]3.
+[^c-92f04137bf159c923dc3fe335da687df]3.
 
 ...
 
 4.[^c000005]
 
-In cases where signs of the harmful organism have been found on any plants at places in Great Britain[^key-ed2021472ca7400ca2c3e9efcded3803] other than places of production, the competent authority[^key-ac4cb1ec2e5fdf1137fca5f9dc1d44a0] shall take appropriate measures to at least contain the harmful organism. This may include the determination of the area concerned in which the measures shall be implemented.
+In cases where signs of the harmful organism have been found on any plants at places in Great Britain[^c-ed2021472ca7400ca2c3e9efcded3803] other than places of production, the competent authority[^c-ac4cb1ec2e5fdf1137fca5f9dc1d44a0] shall take appropriate measures to at least contain the harmful organism. This may include the determination of the area concerned in which the measures shall be implemented.
 
-## ANNEX II[^key-4757bd352813f52756a8e517af35ed56]
+## ANNEX II[^c-4757bd352813f52756a8e517af35ed56]
 
 **No longer in force.**
 
-### PART I — Conditions referred to in the second subparagraph of Article 3(1)[^key-4757bd352813f52756a8e517af35ed56]
+### PART I — Conditions referred to in the second subparagraph of Article 3(1)[^c-4757bd352813f52756a8e517af35ed56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — Model of Certificate of Kiln Drying[^key-4757bd352813f52756a8e517af35ed56]
+### PART II — Model of Certificate of Kiln Drying[^c-4757bd352813f52756a8e517af35ed56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -145,18 +145,18 @@ In cases where signs of the harmful organism have been found on any plants at pl
 
 [^f00002]: Footnote: [OJ L 116, 3.5.2002, p. 16](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.116.01.0016.01.ENG).
 
-[^key-5ac066be4bd69931f119f6e88c136bfc]: Textual amendment: [Art. 1(2)-(4)](https://www.legislation.gov.uk/eudn/2002/757/article/1/2) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [43(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/43/2)
+[^c-5ac066be4bd69931f119f6e88c136bfc]: Textual amendment: [Art. 1(2)-(4)](https://www.legislation.gov.uk/eudn/2002/757/article/1/2) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [43(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/43/2)
 
-[^key-c0329b68602e90cf8184656542dbb86d]: Textual amendment: [Arts. 2-9](https://www.legislation.gov.uk/eudn/2002/757/article/2) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [43(3)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/43/3)
+[^c-c0329b68602e90cf8184656542dbb86d]: Textual amendment: [Arts. 2-9](https://www.legislation.gov.uk/eudn/2002/757/article/2) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [43(3)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/43/3)
 
 [^c000002]: Textual amendment: Substituted by [Commission Implementing Decision of 18 December 2013 amending Decision 2002/757/EC as regards the phytosanitary certificate requirement in respect of the harmful organism Phytophthora ramorum Werres, De Cock & Man in ’t Veld sp. nov. for bark-free sawn wood of Acer macrophyllum Pursh and Quercus spp. L. originating in the United States of America (notified under document C(2013) 9181) (2013/782/EU)](https://www.legislation.gov.uk/eudn/2013/782).
 
-[^key-92f04137bf159c923dc3fe335da687df]: Textual amendment: [Annex 1 paras. 1-3](https://www.legislation.gov.uk/eudn/2002/757/annex/I/paragraph/1) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [43(4)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/43/4/a)
+[^c-92f04137bf159c923dc3fe335da687df]: Textual amendment: [Annex 1 paras. 1-3](https://www.legislation.gov.uk/eudn/2002/757/annex/I/paragraph/1) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [43(4)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/43/4/a)
 
 [^c000005]: Textual amendment: Inserted by [Commission Decision of 29 April 2004 amending Decision 2002/757/EC on provisional emergency phytosanitary measures to prevent the introduction into and the spread within the Community of Phytophthora ramorum Werres, De Cock & Man in ’t Veld sp. nov. (notified under document number C(2004) 1585) (Text with EEA relevance) (2004/426/EC)](https://www.legislation.gov.uk/eudn/2004/426).
 
-[^key-ed2021472ca7400ca2c3e9efcded3803]: Textual amendment: Words in [Annex 1 para. 4](https://www.legislation.gov.uk/eudn/2002/757/annex/I/paragraph/4) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [43(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/43/4/b/i)
+[^c-ed2021472ca7400ca2c3e9efcded3803]: Textual amendment: Words in [Annex 1 para. 4](https://www.legislation.gov.uk/eudn/2002/757/annex/I/paragraph/4) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [43(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/43/4/b/i)
 
-[^key-ac4cb1ec2e5fdf1137fca5f9dc1d44a0]: Textual amendment: Words in [Annex 1 para. 4](https://www.legislation.gov.uk/eudn/2002/757/annex/I/paragraph/4) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [43(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/43/4/b/ii)
+[^c-ac4cb1ec2e5fdf1137fca5f9dc1d44a0]: Textual amendment: Words in [Annex 1 para. 4](https://www.legislation.gov.uk/eudn/2002/757/annex/I/paragraph/4) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [43(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/43/4/b/ii)
 
-[^key-4757bd352813f52756a8e517af35ed56]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eudn/2002/757/annex/II) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [43(5)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/43/5)
+[^c-4757bd352813f52756a8e517af35ed56]: Textual amendment: [Annex 2](https://www.legislation.gov.uk/eudn/2002/757/annex/II) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [43(5)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/43/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Unmanned aircraft: powers of police officers relating to ANO 2016 and the Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025[^key-ce6ff7672bb197b47d3ad7f544de8f0e]
+## SCHEDULE 9 — Unmanned aircraft: powers of police officers relating to ANO 2016 and the Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025[^c-ce6ff7672bb197b47d3ad7f544de8f0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ Section 14
 
 (2) The constable may require P to provide such evidence as the constable considers reasonable of P's compliance, as respects the unmanned aircraft and the flight, with a relevant competency requirement.
 
-(3) In this paragraph “**relevant competency requirement**” means a requirement imposed by, or referred to in —[^key-cda67678322bda0f5689f1d81a184b64]
+(3) In this paragraph “**relevant competency requirement**” means a requirement imposed by, or referred to in —[^c-cda67678322bda0f5689f1d81a184b64]
 
 - (a) article 265E(2)(b)(ii) of the ANO 2016 (tethered small unmanned aircraft of 250g or more: competency);
 - (b) any of the following provisions of the Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)—
@@ -67,11 +67,11 @@ Section 14
 - (a) the person or persons who are or were the UAS operator for the flight, or
 - (b) the person or persons who made the unmanned aircraft available for use by P.
 
-(3) In this paragraph “**relevant registration requirement**” means a requirement imposed by, or referred to in —[^key-e5e5370b94170b6d95ff5ad11bb7b8f1]
+(3) In this paragraph “**relevant registration requirement**” means a requirement imposed by, or referred to in —[^c-e5e5370b94170b6d95ff5ad11bb7b8f1]
 
 - (a) any of the following provisions of the ANO 2016—
-  - (i) article 265E(1)(a) (registration of tethered small unmanned aircraft [^key-e13abcb69376320602189803001c7e61]...);
-  - (ii) article 265E(1)(b) (display of registration number of tethered small unmanned aircraft [^key-c00a81fbd98df6d22d4b04cd8157dd6c]...);
+  - (i) article 265E(1)(a) (registration of tethered small unmanned aircraft [^c-e13abcb69376320602189803001c7e61]...);
+  - (ii) article 265E(1)(b) (display of registration number of tethered small unmanned aircraft [^c-c00a81fbd98df6d22d4b04cd8157dd6c]...);
 - (b) any of the following provisions of the Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025—
   - (i) regulation 2(5)(a) (open category: registration of UAS operator);
   - (ii) regulation 2(5)(b) (open category: display of UAS operator's registration number);
@@ -170,7 +170,7 @@ Section 14
 - (a) has reasonable grounds for believing that—
   - (i) a flight by an unmanned aircraft is taking place or has taken place, and
   - (ii) P is or was the remote pilot or the UAS operator of the unmanned aircraft for the flight, and
-- (b) has reasonable grounds for suspecting that a provision of the ANO 2016 or the Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025[^key-c8d8752793d6113c95f96bd64c75b380] is or was being contravened unless a relevant consent is or was applicable as respects the unmanned aircraft and the flight.
+- (b) has reasonable grounds for suspecting that a provision of the ANO 2016 or the Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025[^c-c8d8752793d6113c95f96bd64c75b380] is or was being contravened unless a relevant consent is or was applicable as respects the unmanned aircraft and the flight.
 
 (2) The constable may require P to provide, as respects the unmanned aircraft and the flight, such evidence as the constable considers reasonable of a relevant consent.
 
@@ -276,19 +276,19 @@ Section 14
 
 ## Annotations
 
-[^key-ce6ff7672bb197b47d3ad7f544de8f0e]: Textual amendment: Words in Sch. 9 heading inserted (1.1.2026) by [The Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)](https://www.legislation.gov.uk/uksi/2025/1284), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1284/regulation/1/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2025/1284/schedule/4/paragraph/2)
+[^c-ce6ff7672bb197b47d3ad7f544de8f0e]: Textual amendment: Words in Sch. 9 heading inserted (1.1.2026) by [The Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)](https://www.legislation.gov.uk/uksi/2025/1284), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1284/regulation/1/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2025/1284/schedule/4/paragraph/2)
 
 [^c24538121]: Commencement: Sch. 9 in force at 29.4.2021 for specified purposes and 29.6.2021 for all other purposes, see [s. 21(1)(a)(2)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/1/a/2)
 
-[^key-cda67678322bda0f5689f1d81a184b64]: Textual amendment: Words in Sch. 9 para. 1(3) substituted (1.1.2026) by [The Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)](https://www.legislation.gov.uk/uksi/2025/1284), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1284/regulation/1/2), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2025/1284/schedule/4/paragraph/3)
+[^c-cda67678322bda0f5689f1d81a184b64]: Textual amendment: Words in Sch. 9 para. 1(3) substituted (1.1.2026) by [The Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)](https://www.legislation.gov.uk/uksi/2025/1284), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1284/regulation/1/2), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2025/1284/schedule/4/paragraph/3)
 
 [^c24538131]: Commencement: Sch. 9 in force at 29.4.2021 for specified purposes and 29.6.2021 for all other purposes, see [s. 21(1)(a)(2)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/1/a/2)
 
-[^key-e5e5370b94170b6d95ff5ad11bb7b8f1]: Textual amendment: Words in Sch. 9 para. 2(3) substituted (1.1.2026) by [The Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)](https://www.legislation.gov.uk/uksi/2025/1284), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1284/regulation/1/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2025/1284/schedule/4/paragraph/4)
+[^c-e5e5370b94170b6d95ff5ad11bb7b8f1]: Textual amendment: Words in Sch. 9 para. 2(3) substituted (1.1.2026) by [The Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)](https://www.legislation.gov.uk/uksi/2025/1284), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1284/regulation/1/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2025/1284/schedule/4/paragraph/4)
 
-[^key-e13abcb69376320602189803001c7e61]: Textual amendment: Words in Sch. 9 para. 2(3)(a)(i) omitted (3.3.2026) by virtue of [The Air Navigation (Amendment) Order 2026 (S.I. 2026/99)](https://www.legislation.gov.uk/uksi/2026/99), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/99/article/1/2), [3](https://www.legislation.gov.uk/uksi/2026/99/article/3)
+[^c-e13abcb69376320602189803001c7e61]: Textual amendment: Words in Sch. 9 para. 2(3)(a)(i) omitted (3.3.2026) by virtue of [The Air Navigation (Amendment) Order 2026 (S.I. 2026/99)](https://www.legislation.gov.uk/uksi/2026/99), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/99/article/1/2), [3](https://www.legislation.gov.uk/uksi/2026/99/article/3)
 
-[^key-c00a81fbd98df6d22d4b04cd8157dd6c]: Textual amendment: Words in Sch. 9 para. 2(3)(a)(ii) omitted (3.3.2026) by virtue of [The Air Navigation (Amendment) Order 2026 (S.I. 2026/99)](https://www.legislation.gov.uk/uksi/2026/99), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/99/article/1/2), [3](https://www.legislation.gov.uk/uksi/2026/99/article/3)
+[^c-c00a81fbd98df6d22d4b04cd8157dd6c]: Textual amendment: Words in Sch. 9 para. 2(3)(a)(ii) omitted (3.3.2026) by virtue of [The Air Navigation (Amendment) Order 2026 (S.I. 2026/99)](https://www.legislation.gov.uk/uksi/2026/99), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/99/article/1/2), [3](https://www.legislation.gov.uk/uksi/2026/99/article/3)
 
 [^c24538141]: Commencement: Sch. 9 in force at 29.4.2021 for specified purposes and 29.6.2021 for all other purposes, see [s. 21(1)(a)(2)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/1/a/2)
 
@@ -298,7 +298,7 @@ Section 14
 
 [^c24538171]: Commencement: Sch. 9 in force at 29.4.2021 for specified purposes and 29.6.2021 for all other purposes, see [s. 21(1)(a)(2)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/1/a/2)
 
-[^key-c8d8752793d6113c95f96bd64c75b380]: Textual amendment: Words in Sch. 9 para. 6(1)(b) inserted (1.1.2026) by [The Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)](https://www.legislation.gov.uk/uksi/2025/1284), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1284/regulation/1/2), [Sch. 4 para. 5(a)](https://www.legislation.gov.uk/uksi/2025/1284/schedule/4/paragraph/5/a)
+[^c-c8d8752793d6113c95f96bd64c75b380]: Textual amendment: Words in Sch. 9 para. 6(1)(b) inserted (1.1.2026) by [The Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)](https://www.legislation.gov.uk/uksi/2025/1284), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1284/regulation/1/2), [Sch. 4 para. 5(a)](https://www.legislation.gov.uk/uksi/2025/1284/schedule/4/paragraph/5/a)
 
 [^M_F_c7bb14ec-bfde-4903-e344-988709a4c40f]: Textual amendment: Words in Sch. 9 para. 6(3) substituted (1.1.2026) by [The Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025 (S.I. 2025/1284)](https://www.legislation.gov.uk/uksi/2025/1284), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1284/regulation/1/2), [Sch. 4 para. 5(b)](https://www.legislation.gov.uk/uksi/2025/1284/schedule/4/paragraph/5/a)
 

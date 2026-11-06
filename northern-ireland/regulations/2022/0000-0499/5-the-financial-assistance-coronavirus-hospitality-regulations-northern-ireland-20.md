@@ -46,11 +46,11 @@ Accordingly, the Department of Finance, makes the following Regulations in exerc
 
 In accordance with section 1(4) of that Act, the Executive Office[^f00003] approves the making of these Regulations.
 
-## 1. Citation and commencement[^key-c8034b149152a100727bf771879af5ec]
+## 1. Citation and commencement[^c-c8034b149152a100727bf771879af5ec]
 
 These Regulations may be cited as the Financial Assistance (Coronavirus: Hospitality) Regulations (Northern Ireland) 2022 and come into operation on 17th January 2022.
 
-## 2. The Coronavirus Financial Assistance Scheme 2022[^key-7d8799c30237f0830b80175e891f0ba0]
+## 2. The Coronavirus Financial Assistance Scheme 2022[^c-7d8799c30237f0830b80175e891f0ba0]
 
 The Department of Finance makes the Scheme set out in the Schedule.
 
@@ -76,7 +76,7 @@ A senior officer of the Executive Office
 
 Regulation 2
 
-### 1. Citation and interpretation[^key-6165ee566b40cd0cf1df78ea47e18c5e]
+### 1. Citation and interpretation[^c-6165ee566b40cd0cf1df78ea47e18c5e]
 
 (1) This Scheme may be cited as the Coronavirus Financial Assistance (Hospitality) Scheme 2022.
 
@@ -90,9 +90,9 @@ Regulation 2
 - “**hospitality sector**” means, for the purposes of this Scheme,
   - (a) restaurants licensed under Article 5(1)(e) of the Licensing (Northern Ireland) Order 1996[^f00004],
   - (b) unlicensed restaurants, cafés, coffee shops, bistros and snack bars,
-  - (c) public houses licensed under Article 5(1)(a) of the Licensing (Northern Ireland) Order 1996, [^key-699bc63223bda9a6a471c3b53bdca2ef]...
-  - (d) social clubs and private members clubs (but not sporting clubhouses) , and[^key-fa42a06b926e199d37e30bcc33710eb0]
-  - (e) hotels, that is to say the premises of any establishment allocated a certificate under Article 13 of the Tourism (Northern Ireland) Order 1992[^key-8a5d8cb41408013144cf9d63c803128e]
+  - (c) public houses licensed under Article 5(1)(a) of the Licensing (Northern Ireland) Order 1996, [^c-699bc63223bda9a6a471c3b53bdca2ef]...
+  - (d) social clubs and private members clubs (but not sporting clubhouses) , and[^c-fa42a06b926e199d37e30bcc33710eb0]
+  - (e) hotels, that is to say the premises of any establishment allocated a certificate under Article 13 of the Tourism (Northern Ireland) Order 1992[^c-8a5d8cb41408013144cf9d63c803128e]
 - “**the Insolvency Order**” means the Insolvency (Northern Ireland) Order 1989[^f00005];
 - “**lower rate**” means a single payment of £10,000;
 - “**Minister of the Crown**” has the same meaning as in the Ministers of the Crown Act 1975[^f00006];
@@ -103,37 +103,37 @@ Regulation 2
   - (c) their occupation of the whole or a part of the restricted hereditament to conduct their relevant business is exclusive of the activity of any other occupier during their business hours; and
   - (d) their occupation is not transient;
 - “**the Rates Order**” means the Rates (Northern Ireland) Order 1977[^f00007];
-- “[^key-83aea0958a37664dc1b4ed0cae306a88]**relevant activity business**” means a business carried on as an inflatable park, a soft play business (that is to say a business wholly or mainly used for the purposes of the provision of soft play facilities) or a trampoline park, that operates a café facility as part of that business and that—
+- “[^c-83aea0958a37664dc1b4ed0cae306a88]**relevant activity business**” means a business carried on as an inflatable park, a soft play business (that is to say a business wholly or mainly used for the purposes of the provision of soft play facilities) or a trampoline park, that operates a café facility as part of that business and that—
   - (a) has previously received support under the schemes provided by the Financial Assistance (Coronavirus) Regulations (Northern Ireland) 2020[^f00005] or The Financial Assistance (Coronavirus) (No. 2) Regulations (Northern Ireland) 2020[^f00006]; or
   - (b) would have been eligible for support under the schemes referred to in sub-paragraph (a) had an application been made to those schemes on the basis of the circumstances pertaining to that business as at 20th December 2021;
 - “**relevant business**” means a business carried on in the hospitality sector that–
   - (a) has previously received support under the schemes provided by the Financial Assistance (Coronavirus) Regulations (Northern Ireland) 2020[^f00008] or The Financial Assistance (Coronavirus) (No. 2) Regulations (Northern Ireland) 2020[^f00009]; or
   - (b) would have been eligible for support under the schemes referred to in sub-paragraph (a) had an application been made to those schemes on the basis of the circumstances pertaining to that business as at 20th December 2021;
-- “[^key-b402a7266259a7d6ad3397f55c3275ca]**relevant sports club facility**” means a bar or restaurant which is—
+- “[^c-b402a7266259a7d6ad3397f55c3275ca]**relevant sports club facility**” means a bar or restaurant which is—
   - (a) wholly occupied by a sports club which has received less than £50,000 from the Sports Sustainability Fund as delivered by Sport Northern Ireland on behalf of the Department for Communities, and
   - (b) licensed under Article 5(1)(a) or (e) of the Licensing (Northern Ireland) Order 1996;
 - “**restricted hereditament**” means a hereditament within which an occupier carries on a relevant business;
 - “**standard rate**” means a single payment of £15,000;
 - “**statutory undertaker**” means persons authorised by any statutory provision to carry on any railway, road transport, water transport, inland navigation or dock undertaking, or a gas undertaker, an electricity undertaker, a water undertaker or a sewerage undertaker or the airport operator (within the meaning of the Airports (Northern Ireland) Order 1994[^f00010]) of any airport to which Article 25 of that Order applies.
 
-### 2. Eligibility[^key-ad00e25e23f1861b4a7489f4e2382a50]
+### 2. Eligibility[^c-ad00e25e23f1861b4a7489f4e2382a50]
 
 (1) No award shall be granted except on an application made to the Department; and any such application shall contain information, and be provided in the format and within the timeframe that the Department has requested.
 
 (2) Where a person has previously made an application for, and been awarded, Coronavirus Financial Assistance in relation to a particular restricted hereditament under the Financial Assistance (Coronavirus) Regulations (Northern Ireland) 2020 or the Financial Assistance (Coronavirus) (No. 2) Regulations (Northern Ireland) 2020, the Department may treat that application as an application made under this scheme, by that person for the same restricted hereditament.
 
-**3.**[^key-1d4a0f1fd10143e3f7fc6c116e2a21e5] A person is eligible upon application under paragraph 2 for Coronavirus Financial Assistance at the lower rate if they are-
+**3.**[^c-1d4a0f1fd10143e3f7fc6c116e2a21e5] A person is eligible upon application under paragraph 2 for Coronavirus Financial Assistance at the lower rate if they are-
 
 - (a) the occupier of a restricted hereditament whose net annual value does not exceed £15,000; [^M_F_479e4d45-e55a-4b9e-ffb8-c0ca1e146e23]...
 - (b) the occupier of a part of a restricted hereditament;
 - (c)[^M_F_e641568c-a670-4512-a396-855800ef1ad8] the occupier of a relevant sports club facility, or;
 - (d) the occupier of a relevant activity business.
 
-**4.**[^key-48a26c4c2522869b24f2ed1b92cefa49] A person is eligible upon application under paragraph 2 for Coronavirus Financial Assistance at the standard rate if they are the occupier of a restricted hereditament whose net annual value exceeds £15,000 but does not exceed £51,000.
+**4.**[^c-48a26c4c2522869b24f2ed1b92cefa49] A person is eligible upon application under paragraph 2 for Coronavirus Financial Assistance at the standard rate if they are the occupier of a restricted hereditament whose net annual value exceeds £15,000 but does not exceed £51,000.
 
-**5.**[^key-d284f1749a57c144d4ef803f6ddacd4e] A person is eligible upon application under paragraph 2 for Coronavirus Financial Assistance at the higher rate if they are the occupier of a restricted hereditament whose net annual value exceeds £51,000.
+**5.**[^c-d284f1749a57c144d4ef803f6ddacd4e] A person is eligible upon application under paragraph 2 for Coronavirus Financial Assistance at the higher rate if they are the occupier of a restricted hereditament whose net annual value exceeds £51,000.
 
-**6.**[^key-8964de4306231fafde27aa2c2f4c7d73] Paragraphs 3, 4 and 5 shall not apply where–
+**6.**[^c-8964de4306231fafde27aa2c2f4c7d73] Paragraphs 3, 4 and 5 shall not apply where–
 
 - (a) the occupier is a Northern Ireland department or a Minister of the Crown or any officer or body exercising functions on behalf of the Crown;
 - (b) the occupier is a body established by or under a statutory provision or by a statutory undertaker;
@@ -144,7 +144,7 @@ Regulation 2
   - (i) a company in administration within the meaning of paragraph 2 of Schedule B1 to the Insolvency Order or is subject to an administration order made under the former administration provisions within the meaning of Article 2 of the Insolvency (2005 Order) (Transitional Provisions and Savings) Order (Northern Ireland) 2006[^f00012]; or
   - (ii) a company which is subject to a winding-up order made under the Insolvency Order or which is being wound up voluntarily under that Order.
 
-### 7. Information[^key-214cd4be26d3bc23ce3d9383f934edce]
+### 7. Information[^c-214cd4be26d3bc23ce3d9383f934edce]
 
 (1) In addition to any application made under paragraph 2, the Department may use information obtained for the purposes of the Rates Order, or provided by a district council for the purposes of these Regulations, in determining whether a person is eligible for Coronavirus Financial Assistance.
 
@@ -152,13 +152,13 @@ Regulation 2
 
 (3) The Department may share information in relation to eligibility for Coronavirus Financial Assistance with another Northern Ireland department.
 
-### 8. Award of Coronavirus Financial Assistance[^key-e24faa91f88428a7a7bdb5127c1dbd25]
+### 8. Award of Coronavirus Financial Assistance[^c-e24faa91f88428a7a7bdb5127c1dbd25]
 
 (1) Where the Department is satisfied that the person making application under paragraph 2 is eligible for the purposes of paragraph 3, 4, or 5 it shall award Coronavirus Financial Assistance in accordance with this Scheme.
 
 (2) A person to whom sub-paragraph (1) applies may choose to forgo any award of Coronavirus Financial Assistance under this Scheme by providing written notification to the Department.
 
-### 9. Recovery[^key-7336df601f426360ba6a97d5e46acf32]
+### 9. Recovery[^c-7336df601f426360ba6a97d5e46acf32]
 
 (1) Any amount of award made in accordance with paragraph 8, and which is subsequently found to have been paid contrary to that paragraph, shall be recoverable by the Department from any person to whom such an award was made.
 
@@ -198,19 +198,19 @@ Paragraph 9 provides for recovery provisions in respect of the scheme.
 
 [^f00003]: Footnote: Formerly the Office of the First Minister and the deputy First Minister: see section 1(1) and (11) of, and Schedule 1 to, the Departments Act (Northern Ireland) 2016 ([2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5))
 
-[^key-c8034b149152a100727bf771879af5ec]: Commencement: Reg. 1 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
+[^c-c8034b149152a100727bf771879af5ec]: Commencement: Reg. 1 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
 
-[^key-7d8799c30237f0830b80175e891f0ba0]: Commencement: Reg. 2 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
+[^c-7d8799c30237f0830b80175e891f0ba0]: Commencement: Reg. 2 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
 
-[^key-6165ee566b40cd0cf1df78ea47e18c5e]: Commencement: Sch. para. 1 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
+[^c-6165ee566b40cd0cf1df78ea47e18c5e]: Commencement: Sch. para. 1 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1996/3158 (N.I. 22)](https://www.legislation.gov.uk/nisi/1996/3158)
 
-[^key-699bc63223bda9a6a471c3b53bdca2ef]: Textual amendment: Word in [Sch. para. 1(2)(c)](https://www.legislation.gov.uk/nisr/2022/5/schedule/paragraph/1/2/c) omitted (9.2.2022) by virtue of [The Financial Assistance (Coronavirus: Hospitality) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/29)](https://www.legislation.gov.uk/nisr/2022/29), [regs. 1](https://www.legislation.gov.uk/nisr/2022/29/regulation/1), [2(a)(i)](https://www.legislation.gov.uk/nisr/2022/29/regulation/2/a/i)
+[^c-699bc63223bda9a6a471c3b53bdca2ef]: Textual amendment: Word in [Sch. para. 1(2)(c)](https://www.legislation.gov.uk/nisr/2022/5/schedule/paragraph/1/2/c) omitted (9.2.2022) by virtue of [The Financial Assistance (Coronavirus: Hospitality) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/29)](https://www.legislation.gov.uk/nisr/2022/29), [regs. 1](https://www.legislation.gov.uk/nisr/2022/29/regulation/1), [2(a)(i)](https://www.legislation.gov.uk/nisr/2022/29/regulation/2/a/i)
 
-[^key-fa42a06b926e199d37e30bcc33710eb0]: Textual amendment: Word in [Sch. para. 1(2)(d)](https://www.legislation.gov.uk/nisr/2022/5/schedule/paragraph/1/2/d) substituted (9.2.2022) by [The Financial Assistance (Coronavirus: Hospitality) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/29)](https://www.legislation.gov.uk/nisr/2022/29), [regs. 1](https://www.legislation.gov.uk/nisr/2022/29/regulation/1), [2(a)(ii)](https://www.legislation.gov.uk/nisr/2022/29/regulation/2/a/ii)
+[^c-fa42a06b926e199d37e30bcc33710eb0]: Textual amendment: Word in [Sch. para. 1(2)(d)](https://www.legislation.gov.uk/nisr/2022/5/schedule/paragraph/1/2/d) substituted (9.2.2022) by [The Financial Assistance (Coronavirus: Hospitality) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/29)](https://www.legislation.gov.uk/nisr/2022/29), [regs. 1](https://www.legislation.gov.uk/nisr/2022/29/regulation/1), [2(a)(ii)](https://www.legislation.gov.uk/nisr/2022/29/regulation/2/a/ii)
 
-[^key-8a5d8cb41408013144cf9d63c803128e]: Textual amendment: [Sch. 1(2)(e)](https://www.legislation.gov.uk/nisr/2022/5/schedule/1/2/e) added (9.2.2022) by [The Financial Assistance (Coronavirus: Hospitality) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/29)](https://www.legislation.gov.uk/nisr/2022/29), [regs. 1](https://www.legislation.gov.uk/nisr/2022/29/regulation/1), [2(a)(iii)](https://www.legislation.gov.uk/nisr/2022/29/regulation/2/a/iii)
+[^c-8a5d8cb41408013144cf9d63c803128e]: Textual amendment: [Sch. 1(2)(e)](https://www.legislation.gov.uk/nisr/2022/5/schedule/1/2/e) added (9.2.2022) by [The Financial Assistance (Coronavirus: Hospitality) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/29)](https://www.legislation.gov.uk/nisr/2022/29), [regs. 1](https://www.legislation.gov.uk/nisr/2022/29/regulation/1), [2(a)(iii)](https://www.legislation.gov.uk/nisr/2022/29/regulation/2/a/iii)
 
 [^f00005]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
@@ -218,36 +218,36 @@ Paragraph 9 provides for recovery provisions in respect of the scheme.
 
 [^f00007]: Footnote: [S.I. 1977//2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157)
 
-[^key-83aea0958a37664dc1b4ed0cae306a88]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2022/5/schedule/paragraph/1/2) added (9.2.2022) by [The Financial Assistance (Coronavirus: Hospitality) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/29)](https://www.legislation.gov.uk/nisr/2022/29), [regs. 1](https://www.legislation.gov.uk/nisr/2022/29/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2022/29/regulation/2/b)
+[^c-83aea0958a37664dc1b4ed0cae306a88]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2022/5/schedule/paragraph/1/2) added (9.2.2022) by [The Financial Assistance (Coronavirus: Hospitality) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/29)](https://www.legislation.gov.uk/nisr/2022/29), [regs. 1](https://www.legislation.gov.uk/nisr/2022/29/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2022/29/regulation/2/b)
 
 [^f00008]: Footnote: [S.R. 2020 No. 221](https://www.legislation.gov.uk/nisr/2020/221)
 
 [^f00009]: Footnote: [S.R. 2020 No. 230](https://www.legislation.gov.uk/nisr/2020/230) as amended by [S.R. 2020 No. 262](https://www.legislation.gov.uk/nisr/2020/262), [S.R. 2020 No. 262](https://www.legislation.gov.uk/nisr/2020/262), [S.R. 2020 No. 354](https://www.legislation.gov.uk/nisr/2020/354), and [S.R. 2021 No. 94](https://www.legislation.gov.uk/nisr/2021/94)
 
-[^key-b402a7266259a7d6ad3397f55c3275ca]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2022/5/schedule/paragraph/1/2) added (9.2.2022) by [The Financial Assistance (Coronavirus: Hospitality) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/29)](https://www.legislation.gov.uk/nisr/2022/29), [regs. 1](https://www.legislation.gov.uk/nisr/2022/29/regulation/1), [2(c)](https://www.legislation.gov.uk/nisr/2022/29/regulation/2/c)
+[^c-b402a7266259a7d6ad3397f55c3275ca]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2022/5/schedule/paragraph/1/2) added (9.2.2022) by [The Financial Assistance (Coronavirus: Hospitality) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/29)](https://www.legislation.gov.uk/nisr/2022/29), [regs. 1](https://www.legislation.gov.uk/nisr/2022/29/regulation/1), [2(c)](https://www.legislation.gov.uk/nisr/2022/29/regulation/2/c)
 
 [^f00010]: Footnote: [S.I. 1994/426 (N.I.1)](https://www.legislation.gov.uk/nisi/1994/426)
 
-[^key-ad00e25e23f1861b4a7489f4e2382a50]: Commencement: Sch. para. 2 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
+[^c-ad00e25e23f1861b4a7489f4e2382a50]: Commencement: Sch. para. 2 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
 
-[^key-1d4a0f1fd10143e3f7fc6c116e2a21e5]: Commencement: Sch. para. 3 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
+[^c-1d4a0f1fd10143e3f7fc6c116e2a21e5]: Commencement: Sch. para. 3 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
 
 [^M_F_479e4d45-e55a-4b9e-ffb8-c0ca1e146e23]: Textual amendment: Word in [Sch. para. 3(a)](https://www.legislation.gov.uk/nisr/2022/5/schedule/paragraph/3/a) omitted (9.2.2022) by [The Financial Assistance (Coronavirus: Hospitality) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/29)](https://www.legislation.gov.uk/nisr/2022/29), [regs. 1](https://www.legislation.gov.uk/nisr/2022/29/regulation/1), [2(d)(i)](https://www.legislation.gov.uk/nisr/2022/29/regulation/2/d)
 
 [^M_F_e641568c-a670-4512-a396-855800ef1ad8]: Textual amendment: Sch. para 3(c)(d) added (9.2.2022) by [The Financial Assistance (Coronavirus: Hospitality) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/29)](https://www.legislation.gov.uk/nisr/2022/29), [regs. 1](https://www.legislation.gov.uk/nisr/2022/29/regulation/1), [2(d)(ii)](https://www.legislation.gov.uk/nisr/2022/29/regulation/2/d)
 
-[^key-48a26c4c2522869b24f2ed1b92cefa49]: Commencement: Sch. para. 4 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
+[^c-48a26c4c2522869b24f2ed1b92cefa49]: Commencement: Sch. para. 4 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
 
-[^key-d284f1749a57c144d4ef803f6ddacd4e]: Commencement: Sch. para. 5 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
+[^c-d284f1749a57c144d4ef803f6ddacd4e]: Commencement: Sch. para. 5 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
 
-[^key-8964de4306231fafde27aa2c2f4c7d73]: Commencement: Sch. para. 6 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
+[^c-8964de4306231fafde27aa2c2f4c7d73]: Commencement: Sch. para. 6 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
 
 [^f00011]: Footnote: [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725)
 
 [^f00012]: Footnote: [S.R. 2006 No. 22](https://www.legislation.gov.uk/nisr/2006/22)
 
-[^key-214cd4be26d3bc23ce3d9383f934edce]: Commencement: Sch. para. 7 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
+[^c-214cd4be26d3bc23ce3d9383f934edce]: Commencement: Sch. para. 7 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
 
-[^key-e24faa91f88428a7a7bdb5127c1dbd25]: Commencement: Sch. para. 8 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
+[^c-e24faa91f88428a7a7bdb5127c1dbd25]: Commencement: Sch. para. 8 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
 
-[^key-7336df601f426360ba6a97d5e46acf32]: Commencement: Sch. para. 9 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)
+[^c-7336df601f426360ba6a97d5e46acf32]: Commencement: Sch. para. 9 in operation at 17.1.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/5/regulation/1)

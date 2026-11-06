@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Relationship between duties under sections 25 to 27 and duties under Social Work (Scotland) Act 1968 and Children (Scotland) Act 1995[^key-b9ed9c95fb35a4716926918b67898756]
+## 29. Relationship between duties under sections 25 to 27 and duties under Social Work (Scotland) Act 1968 and Children (Scotland) Act 1995[^c-b9ed9c95fb35a4716926918b67898756]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9ed9c95fb35a4716926918b67898756]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2003/13/section/29) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-b9ed9c95fb35a4716926918b67898756]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2003/13/section/29) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

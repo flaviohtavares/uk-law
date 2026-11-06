@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Regulations under section 11: procedure[^c22567861][^key-ea78419ed49c29602a5b83b0182081af]
+## 12. Regulations under section 11: procedure[^c22567861][^c-ea78419ed49c29602a5b83b0182081af]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ made during the 60-day period with regard to the draft regulations.
 
 [^c22567861]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/12/section/12) in force at Royal Assent for specified purposes, see [s. 44(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1)
 
-[^key-ea78419ed49c29602a5b83b0182081af]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/12/section/12) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)
+[^c-ea78419ed49c29602a5b83b0182081af]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/12/section/12) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)

@@ -53,11 +53,11 @@ The Marine Management Organisation, being satisfied as mentioned in sections 14(
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-2592e9740b3d362cc9d5ab61ffb7d3eb]
+### 1. Citation and commencement[^c-2592e9740b3d362cc9d5ab61ffb7d3eb]
 
 This Order may be cited as the Folkestone Harbour Revision Order 2017 and shall come into force on 1st August 2017.
 
-### 2. Interpretation[^key-a91c038b9cdc62a2ec91952c4b2b81fc]
+### 2. Interpretation[^c-a91c038b9cdc62a2ec91952c4b2b81fc]
 
 (1) In this Order─
 
@@ -102,7 +102,7 @@ This Order may be cited as the Folkestone Harbour Revision Order 2017 and shall 
 
 (4) In paragraph (3) “WGS84” means the World Geodetic System, revised in 1984 and further revised in 2004.
 
-### 3. Incorporation of the Harbours, Docks and Piers Clauses Act 1847[^key-11b7353bb098ea3ed62d3f3fa5b13b5f]
+### 3. Incorporation of the Harbours, Docks and Piers Clauses Act 1847[^c-11b7353bb098ea3ed62d3f3fa5b13b5f]
 
 (1) The Act of 1847 (except sections 6 to 25, 28, 31, the proviso to section 32, 48 to 50, 67, 77, 81, 82, 86 to 90, 97 to 103 and so much of the proviso to section 83 as follows the words “the special Act”), so far as applicable to the purposes, and not inconsistent with, the provisions of this Order, is incorporated with, and forms part of this Order subject to the modifications stated in paragraphs (2) to (6).
 
@@ -125,7 +125,7 @@ This Order may be cited as the Folkestone Harbour Revision Order 2017 and shall 
 
 ## PART 2 — WORKS
 
-### 4. Power to construct works[^key-0463320f7fb2edae6985d1e67bf28d6e]
+### 4. Power to construct works[^c-0463320f7fb2edae6985d1e67bf28d6e]
 
 (1) Subject to the provisions of this Order, the Company or others acting on its behalf may, in the lines and situations and upon the lands delineated on the deposited plans and within the limits of deviation shown on those plans and according to the levels shown on the deposited sections, construct and maintain the works described as follows with all necessary works and conveniences connected with or incidental to them—
 
@@ -137,7 +137,7 @@ This Order may be cited as the Folkestone Harbour Revision Order 2017 and shall 
 
 (4) The Company may construct or permit the construction of buildings on the western quay of the Inner Harbour extending above part of the Inner Harbour and on South Quay eastwards of reference point 51°04.7272’N 01°11.2844’E extending above part of the Outer Harbour.
 
-### 5. Power to make subsidiary and accommodation works[^key-831ae3cec930c787b7187bc3d051f04e]
+### 5. Power to make subsidiary and accommodation works[^c-831ae3cec930c787b7187bc3d051f04e]
 
 (1) Subject to the provisions of this Order, the Company may from time to time construct, lay down, place, remove, replace, work or use and maintain whether temporarily or permanently—
 
@@ -146,13 +146,13 @@ This Order may be cited as the Folkestone Harbour Revision Order 2017 and shall 
 
 (2) In the course of erecting, constructing, laying down, placing, removing and replacing the works the Company may carry out construction activity, including the temporary placing or storage of plant, equipment and rock, within the limits of deviation and the revetment working area.
 
-### 6. Period for commencement of works[^key-a3ccc0e79670fcc9f88b77558cb96e0a]
+### 6. Period for commencement of works[^c-a3ccc0e79670fcc9f88b77558cb96e0a]
 
 (1) Subject to paragraph (2), if the works in article 4 are not substantially commenced within ten years from the coming into force of this Order or such extended time as the Secretary of State may on the application of the Company allow, then on the expiration of that period or such extended time (as the case may be) the powers granted by this Order to the Company for making and maintaining the works shall cease except as to so much thereof as is then substantially commenced.
 
 (2) Nothing in paragraph (1) shall apply to works carried out under paragraph (3) of article 4 or article 5.
 
-### 7. Works to be within district of Shepway, etc.[^key-f1fa4dd35ed9dc583f3d345fcdca37fe]
+### 7. Works to be within district of Shepway, etc.[^c-f1fa4dd35ed9dc583f3d345fcdca37fe]
 
 (1) So much of the works as are beyond mean low water shall be deemed to be within
 
@@ -166,11 +166,11 @@ This Order may be cited as the Folkestone Harbour Revision Order 2017 and shall 
 
 (4) In paragraph (2) “mean low water” means the level of mean low water neap tides.
 
-### 8. Power to deviate[^key-05989416fcb50ceda34695958b1d85fa]
+### 8. Power to deviate[^c-05989416fcb50ceda34695958b1d85fa]
 
 Subject to the provisions of this Order, in the construction of the works authorised by article 4(1), the Company may deviate laterally from the lines or situations thereof shown on the deposited plans to any extent not exceeding the limits of deviation, and may deviate vertically from the levels of the works as shown on the deposited sections to any extent not exceeding three metres upwards or to any extent downwards as may be found necessary or convenient.
 
-### 9. Power to dredge[^key-45aae030ca7a271863137e6406a9dc2a]
+### 9. Power to dredge[^c-45aae030ca7a271863137e6406a9dc2a]
 
 (1) The Company, for the purposes of constructing and maintaining the works and of affording access to the harbour or otherwise for the improvement of the harbour, may from time to time deepen, widen, dredge, scour, cleanse, alter and improve the bed of the sea and foreshore of the harbour and approaches to the harbour.
 
@@ -178,21 +178,21 @@ Subject to the provisions of this Order, in the construction of the works author
 
 (3) No such materials referred to in this article shall be laid down or deposited in any place below the level of high water otherwise than in such places and under such conditions and restrictions as may be approved of or prescribed by the Secretary of State.
 
-### 10. Fine for obstructing works[^key-66d3680a1e48273104564a1d92027868]
+### 10. Fine for obstructing works[^c-66d3680a1e48273104564a1d92027868]
 
 Any person who intentionally obstructs any person acting under the authority of the Company in setting out the lines of, or in constructing the works, or who interferes with, moves or removes any pole, stake, station point or bench mark established for the purpose of such setting out, shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale, and shall in addition be liable to repay to the Company as a debt any expenses incurred by them in making good any damage resulting from such obstructions, interference, moving or removal.
 
-### 11. Survey of tidal works[^key-f35c72d71cac506754f618ba62ffa74c]
+### 11. Survey of tidal works[^c-f35c72d71cac506754f618ba62ffa74c]
 
 The Secretary of State may at any time, if he deems it expedient, order a survey and examination of a tidal work or of the site upon which it is proposed to construct the work, and any expense incurred by him in such a survey and examination shall be recoverable from the Company as a debt.
 
-### 12. Provision against danger to navigation[^key-2d13200e35d58017d83f6883fc7b87e3]
+### 12. Provision against danger to navigation[^c-2d13200e35d58017d83f6883fc7b87e3]
 
 (1) In the case of injury to, or destruction or decay of, a tidal work or any part of it, the Company must as soon as reasonably practicable notify Trinity House and must lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as Trinity House may from time to time direct.
 
-(2) If the Company fails to notify Trinity House as required by this article, or to comply in any respect with a direction given under this article, it shall be guilty of an offence and liable on summary conviction to a fine [^key-ceba9075f30237d3a27db6c5c95ff6eb]... and on conviction on indictment to a fine.
+(2) If the Company fails to notify Trinity House as required by this article, or to comply in any respect with a direction given under this article, it shall be guilty of an offence and liable on summary conviction to a fine [^c-ceba9075f30237d3a27db6c5c95ff6eb]... and on conviction on indictment to a fine.
 
-### 13. Abatement of works abandoned or decayed[^key-af261ada96de00f07727a6941adc2082]
+### 13. Abatement of works abandoned or decayed[^c-af261ada96de00f07727a6941adc2082]
 
 (1) Where a tidal work is abandoned, or has fallen into decay, the Secretary of State may by notice in writing require the Company at its own expense either to repair and restore the work or any part of it, or to remove the work and restore the site to its former condition, to such an extent and within such limits as the Secretary of State thinks proper.
 
@@ -200,27 +200,27 @@ The Secretary of State may at any time, if he deems it expedient, order a survey
 
 (3) If, on the expiration of 30 days from the date when a notice under this article is served upon the Company, it has failed to comply with the requirements of the notice, the Secretary of State may execute the works specified in the notice and any expenditure incurred by him in so doing shall be recoverable from the Company as a debt.
 
-### 14. Permanent lights on tidal works[^key-adeaf0b25e08a49af28cd3d1eb083e8f]
+### 14. Permanent lights on tidal works[^c-adeaf0b25e08a49af28cd3d1eb083e8f]
 
 (1) The Company must at the outer extremity of every tidal work exhibit every night from sunset to sunrise such lights, if any, and take such other steps for the prevention of danger to navigation as Trinity House may from time to time direct.
 
-(2) If the Company fails without reasonable excuse to comply in any respect with a direction given under this article it shall be liable on summary conviction to a fine [^key-3e55607bd504db49ff958f86856fe1cc]... and on conviction on indictment to a fine.
+(2) If the Company fails without reasonable excuse to comply in any respect with a direction given under this article it shall be liable on summary conviction to a fine [^c-3e55607bd504db49ff958f86856fe1cc]... and on conviction on indictment to a fine.
 
-### 15. Lights on tidal works during construction[^key-af3e6680a917e0da623e74521595b8ec]
+### 15. Lights on tidal works during construction[^c-af3e6680a917e0da623e74521595b8ec]
 
 (1) The Company must, at or near a tidal work during the whole time of its construction, reconstruction, alteration, replacement or re-laying, exhibit every night from sunset to sunrise such lights, if any, and take such other steps for the prevention of danger to navigation as the Secretary of State may from time to time direct.
 
-(2) If the Company fails to comply in any respect with a requirement of a direction given under this article it shall be guilty of an offence and liable on summary conviction to a fine [^key-1a269cf771ba698373d797f2c0ae7523]... and on conviction on indictment to a fine.
+(2) If the Company fails to comply in any respect with a requirement of a direction given under this article it shall be guilty of an offence and liable on summary conviction to a fine [^c-1a269cf771ba698373d797f2c0ae7523]... and on conviction on indictment to a fine.
 
 ## PART 3 — TEMPORARY CLOSURE OF HARBOUR
 
-### 16. Temporary closure of area of works[^key-bed53d429ea4e40a8830f5abae4a3007]
+### 16. Temporary closure of area of works[^c-bed53d429ea4e40a8830f5abae4a3007]
 
 (1) For the purpose of carrying out the works the Company may irrespective of anything in any enactment temporarily close the area of works to vessels at such places within the harbour as the Company may think appropriate.
 
 (2) Irrespective of anything contained in this Order, the area of works must not be closed to vessels for a continuous period longer than two years.
 
-### 17. Notice of closure and removal of vessels from area of works[^key-353c863a0594f37611192c98cb31baeb]
+### 17. Notice of closure and removal of vessels from area of works[^c-353c863a0594f37611192c98cb31baeb]
 
 (1) Before exercising the power conferred on it by article 16 temporarily to close an area of works to vessels the Company must—
 
@@ -237,13 +237,13 @@ The Secretary of State may at any time, if he deems it expedient, order a survey
 
 (4) The powers conferred on the harbour master and the Company by this article are in addition to and without prejudice to the powers relating to the removal of vessels conferred upon them by sections 64 and 65 of the Act of 1847.
 
-### 18. Vessels entering the area of works after date of closure[^key-633a48d129ac64f388c007edc835c852]
+### 18. Vessels entering the area of works after date of closure[^c-633a48d129ac64f388c007edc835c852]
 
 If a vessel enters the area of works after the date specified under paragraph (2)(b) of article 17, during the period of temporary closure the harbour master may direct the master of the vessel immediately to remove the vessel from the area of works, and if the master of the vessel does not immediately comply with the directions the provisions of paragraph (3) and (4) of article 17 shall apply to and in respect of the vessel as if the vessel had been within the area of works before the date specified under paragraph (2)(b) of article 17.
 
 ## PART 4 — MANAGEMENT AND REGULATION OF HARBOUR
 
-### 19. General powers in respect of harbour[^key-6e6117d26d8e9507ecd7deeacad36931]
+### 19. General powers in respect of harbour[^c-6e6117d26d8e9507ecd7deeacad36931]
 
 (1) The Company may, subject to the provisions of this Order, take such steps as it considers necessary or desirable for the improvement, maintenance and management of the harbour and the facilities afforded therein or in connection therewith.
 
@@ -260,7 +260,7 @@ If a vessel enters the area of works after the date specified under paragraph (2
 
 (4) In paragraph (3) “the Folkestone Harbour Acts and Order 1807 to 2017” means the Act of 1807, the Act of 1818, the Act of 1844, the Act of 1885, the 1991 Order, the Act of 1992 and this Order.
 
-### 20. Limits of harbour[^key-8df7b97deb10cdbcb0c7c3abf8c876d9]
+### 20. Limits of harbour[^c-8df7b97deb10cdbcb0c7c3abf8c876d9]
 
 (1) The limits of the harbour within which the Company exercises jurisdiction as a harbour authority and the harbour master exercises his powers are—
 
@@ -282,7 +282,7 @@ If a vessel enters the area of works after the date specified under paragraph (2
   - (iv) the part of South Quay north of an imaginary straight line drawn along the upper level northern face of the quay between the railway viaduct and north-eastern corner of the quay for the time being leased to or occupied by the Company for the purposes of the harbour; and
 - “the harbour limits map” has the meaning given by article 2(1).
 
-### 21. As to use of harbour[^key-bced230e5c494712d83791843bff7f7d]
+### 21. As to use of harbour[^c-bced230e5c494712d83791843bff7f7d]
 
 (1) Notwithstanding anything in article 3 or in any other local enactment the Company may from time to time set apart and appropriate any part of the harbour for the exclusive, partial or preferential use and accommodation of any particular trade, activity, person, vessel or class of vessels, or goods, subject to the payment of such charges and subject to such terms, conditions and regulations as the Company thinks fit.
 
@@ -293,7 +293,7 @@ If a vessel enters the area of works after the date specified under paragraph (2
 
 (3) Nothing in this article shall authorise the prohibition of navigation within any part of the harbour, nor shall it authorise interference with any public right of way.
 
-### 22. Removal of vehicles or vessels[^key-55e22f20b31ef53ac378c7ac628a260e]
+### 22. Removal of vehicles or vessels[^c-55e22f20b31ef53ac378c7ac628a260e]
 
 (1) If a vehicle or vessel is left without the permission of the Company─
 
@@ -317,7 +317,7 @@ the Company may, at the risk of the owner, remove the vehicle or vessel or cause
 
 (7) A notice stating the general effect of paragraph (1) must be displayed in a prominent position at each place where a road accessible to vehicles enters any part of the harbour.
 
-### 23. Removal of obstructions other than vehicles or vessels[^key-2c0f9b8bf5142d3fad0804c45172059e]
+### 23. Removal of obstructions other than vehicles or vessels[^c-2c0f9b8bf5142d3fad0804c45172059e]
 
 (1) Without prejudice to its powers under this Order or any other enactment, the Company may remove anything (other than a vehicle or vessel) but including a wreck within the meaning of Part IX of the Merchant Shipping Act 1995[^f00015], in, or on land adjoining, the waters of the harbour or the approaches thereto—
 
@@ -346,7 +346,7 @@ the Company must, within 28 days of its coming into its custody, give written no
 
 (5) If the proceeds of the sale of anything removed under this article are insufficient to reimburse the Company for the said expenses, or there is no sale, the Company may recover as a debt the deficiency, or, where there is no sale, the whole of the expenses, from the person who was the owner at the time when the thing removed came into the custody of the Company or who was the owner at the time of its abandonment or loss.
 
-### 24. Byelaws[^key-c3559c4ef6717ea54ccc8bee0a00253e]
+### 24. Byelaws[^c-c3559c4ef6717ea54ccc8bee0a00253e]
 
 (1) The Company may from time to time make byelaws for the management and regulation of the harbour and, without prejudice to the generality of the foregoing, for all or any of the following purposes—
 
@@ -404,7 +404,7 @@ the Company must, within 28 days of its coming into its custody, give written no
 
 (7) In paragraph (1)(z) “windsurfing board” means a board with a sail or sails designed to be operated by a person or persons standing upright on it.
 
-### 25. Confirmation of byelaws[^key-a6f83f5edffc97f5b1ea22b833b83998]
+### 25. Confirmation of byelaws[^c-a6f83f5edffc97f5b1ea22b833b83998]
 
 (1) Byelaws made by the Company under this Order or section 83 of the Act of 1847 or under or by virtue of the Act of 1807 or the Act of 1844 shall not come into operation until they have been confirmed by the Secretary of State.
 
@@ -426,11 +426,11 @@ the Company must, within 28 days of its coming into its custody, give written no
 
 (10) A copy of the byelaws when confirmed must be printed and deposited by the Company at the office of the harbour master and must at all reasonable hours be open to public inspection without payment, and a copy of the byelaws must on application be furnished to any person on payment of such reasonable charge as the Company may determine.
 
-### 26. Application of byelaws of the Company[^key-0de1e01732d1d04228a0ea2ba912e54e]
+### 26. Application of byelaws of the Company[^c-0de1e01732d1d04228a0ea2ba912e54e]
 
 All byelaws, rules and regulations made in relation to the harbour for the time being in force shall apply to the works and within the harbour limits and may be enforced by the Company accordingly.
 
-### 27. Power to give general directions as to use of the harbour, etc.[^key-bbcc59ada38d2f3137f183bfa5b8914d]
+### 27. Power to give general directions as to use of the harbour, etc.[^c-bbcc59ada38d2f3137f183bfa5b8914d]
 
 (1) The Company may, in accordance with the requirements of article 28, give a direction for—
 
@@ -451,7 +451,7 @@ and every direction must specify the extent of its application in relation to th
 
 (3) The Company may, in accordance with the requirements of article 28, amend or revoke a direction given under paragraph (1).
 
-### 28. Procedure for giving, amending or revoking general directions[^key-4daeb1384020995441decd51e3518347]
+### 28. Procedure for giving, amending or revoking general directions[^c-4daeb1384020995441decd51e3518347]
 
 (1) Subject to paragraph (7), if the Company proposes to give, amend or revoke a general direction (“the proposal”), it must—
 
@@ -499,7 +499,7 @@ and every direction must specify the extent of its application in relation to th
   - (ii) in paragraph (1)(b), for “sub-paragraph (a)” substitute “paragraph (8)(a)”; and
   - (iii) a reference in those paragraphs to the Company proceeding with a proposal is to be read as a reference to the Company determining that the direction or amendment should remain in force or the revoked direction should not be restored.
 
-### 29. Publication of general directions[^key-0ad94dfdcbbdbbd45bdcaf8533c28c33]
+### 29. Publication of general directions[^c-0ad94dfdcbbdbbd45bdcaf8533c28c33]
 
 (1) Subject to paragraph (3), the Company must publish a notice of the giving, amendment or revocation of a general direction as soon as practicable on one occasion in a newspaper circulating in the locality of the harbour.
 
@@ -507,7 +507,7 @@ and every direction must specify the extent of its application in relation to th
 
 (3) In an emergency, the Company may give notice of the giving, amendment or revocation of a general direction in any manner which they consider to be appropriate.
 
-### 30. Special directions as to use of the harbour, etc.[^key-6a6f73ad102229d346b9de4a7235b7d3]
+### 30. Special directions as to use of the harbour, etc.[^c-6a6f73ad102229d346b9de4a7235b7d3]
 
 (1) In addition to the directions which the harbour master may give under section 52 of the Act of 1847, the harbour master may give a direction which applies to a vessel in the harbour limits for one or more of the following purposes—
 
@@ -545,13 +545,13 @@ within the harbour for one or more of the purposes in paragraph (1)(a).
 
 (6) The harbour master may amend or revoke a special direction.
 
-### 31. Failure to comply with directions[^key-d6db5722c02411c4293b1800ba2ded17]
+### 31. Failure to comply with directions[^c-d6db5722c02411c4293b1800ba2ded17]
 
 (1) A person who fails to comply with a general direction or a special direction shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
 (2) In any proceedings for an offence under paragraph (1) it shall be a defence for the person charged to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
-### 32. Enforcement of special directions[^key-0131ed8008572e371edfa5428bba3c1f]
+### 32. Enforcement of special directions[^c-0131ed8008572e371edfa5428bba3c1f]
 
 (1) Without prejudice to any other remedy available to the Company, if a special direction is not complied with within a reasonable time, the harbour master may, where practicable, put persons on board the vessel to carry out the direction or may otherwise cause the vessel to be handled in accordance with the direction.
 
@@ -559,11 +559,11 @@ within the harbour for one or more of the purposes in paragraph (1)(a).
 
 (3) Reasonable expenses incurred in the exercise of the powers conferred by this article shall be recoverable by the Company from the owner of the vessel as if they were a charge of the Company in respect of the vessel.
 
-### 33. Master’s responsibility in relation to directions[^key-31b7055c6e1f5e40e98c735a371a043e]
+### 33. Master’s responsibility in relation to directions[^c-31b7055c6e1f5e40e98c735a371a043e]
 
 The giving of a general direction or a special direction shall not diminish or in any other way affect the responsibility of the master of the vessel to which the direction applies in relation to that vessel, to persons on board the vessel, to the cargo or any other person or property.
 
-### 34. Obstruction of officers[^key-dbdef68dc3b4f35bcc65e762c431417f]
+### 34. Obstruction of officers[^c-dbdef68dc3b4f35bcc65e762c431417f]
 
 (1) A person who—
 
@@ -575,7 +575,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 (2) A person who in giving information to such an officer, makes a statement which he knows to be false shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 35. General rules for navigation[^key-104cc6b51c550dc96f03279fd7c0e803]
+### 35. General rules for navigation[^c-104cc6b51c550dc96f03279fd7c0e803]
 
 A master who navigates a vessel in the harbour—
 
@@ -584,13 +584,13 @@ A master who navigates a vessel in the harbour—
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 36. Vessels adrift[^key-b218fe0e2b8f9d008b80e58755897d1f]
+### 36. Vessels adrift[^c-b218fe0e2b8f9d008b80e58755897d1f]
 
 (1) The owner or master of a vessel adrift in the harbour shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
 (2) It shall be a defence for the owner or master of a vessel charged with an offence under paragraph (1) to prove that the vessel did not become adrift as the result of any neglect or default on his part.
 
-### 37. Power to deal with unserviceable vessels[^key-6b91c14943ecbf353d5dbc5ac2cf59cd]
+### 37. Power to deal with unserviceable vessels[^c-6b91c14943ecbf353d5dbc5ac2cf59cd]
 
 (1) In addition to the powers conferred on the harbour master by section 57 of the Act of 1847 and on the Company by the Merchant Shipping Act 1995 and by this Order the Company may remove, sell, destroy or otherwise dispose of a vessel laid by or neglected as unserviceable in, or on land adjoining the water of the harbour.
 
@@ -604,15 +604,15 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## PART 5 — CHARGES
 
-### 38. Charges for services and facilities[^key-b3b6b92ec31de7090b7bc9120ad3066e]
+### 38. Charges for services and facilities[^c-b3b6b92ec31de7090b7bc9120ad3066e]
 
 In addition to its power to demand ship, passenger and goods dues under section 26 of the Harbours Act 1964, the Company may demand, take and recover such reasonable charges for services and facilities requested by any party and provided by or on behalf of the Company at the harbour as it may from time to time determine.
 
-### 39. Charges for services not otherwise provided for[^key-9b767ed1d6e327cc10abfb2db092d0ba]
+### 39. Charges for services not otherwise provided for[^c-9b767ed1d6e327cc10abfb2db092d0ba]
 
 Subject to the provisions of this Order the Company may demand, take and recover such reasonable charges or other consideration as it may determine in respect of any services rendered by it in connection with the harbour.
 
-### 40. Payment of charges[^key-9f5183236c137b6297ccc5acbb5119b8]
+### 40. Payment of charges[^c-9f5183236c137b6297ccc5acbb5119b8]
 
 (1) The charges which the Company is authorised to demand, take and recover in respect of vessels and goods under article 38 or any other enactment shall be payable before the removal from the harbour of any vessel or goods in respect of which they are payable, and may be demanded, taken and recovered by such persons, at such places, at such times and under such terms and conditions as the Company may from time to time specify in its published list of charges.
 
@@ -625,49 +625,49 @@ Subject to the provisions of this Order the Company may demand, take and recover
 
 (4) Without prejudice to the generality of paragraph (1), the terms and conditions as to the payment of charges which the Company may specify may include the time when a charge falls due for payment and may require such information to be given to the Company by the owner or master of a vessel or person using a service or facility of the Company as the Company may require in connection with the assessment or collection of a charge.
 
-### 41. Deposit for charges[^key-8f6dc8ce82f6540caa222e01866978aa]
+### 41. Deposit for charges[^c-8f6dc8ce82f6540caa222e01866978aa]
 
 (1) The Company may, if it thinks fit, require a person who incurs, or is about to incur, a charge to deposit with it, or to guarantee, such sum of money as is, in the opinion of the Company, reasonable having regard to the amount or probable amount of the charge.
 
 (2) Where such a person fails to deposit or guarantee the sum of money required the Company may detain at the harbour the vessel or goods in respect of which the charge has been or will be incurred, until the requirement has been complied with or the charge has been paid.
 
-### 42. Refusal to pay charges for landing place[^key-d166541363b31525c043fdea138912ed]
+### 42. Refusal to pay charges for landing place[^c-d166541363b31525c043fdea138912ed]
 
 An officer of the Company may prevent a vessel from using a landing place provided by the Company if the master of the vessel refuses to pay the charges for such use.
 
-### 43. Recovery of charges[^key-1928aabf35f816553f226db756391b6b]
+### 43. Recovery of charges[^c-1928aabf35f816553f226db756391b6b]
 
 In addition to any other remedy given by this Order or by the Act of 1847 as incorporated with this Order the Company may recover any charges payable to it as a debt in any court of competent jurisdiction (including, in a case where the master of a vessel in respect of which a charge is payable to the Company refuses or neglects to pay the same or any part thereof, whether or not an official or agent of the Company has gone on board the vessel and demanded the charge pursuant to section 44 of the Act of 1847).
 
-### 44. Harbour master may prevent sailing of vessels[^key-066326903052bdcf12011751b0ec9900]
+### 44. Harbour master may prevent sailing of vessels[^c-066326903052bdcf12011751b0ec9900]
 
 The harbour master may prevent the removal or sailing from the harbour of a vessel until evidence has been produced to him of the payment of any charges payable in respect of the vessel or of passengers thereon or of the goods imported or exported therein.
 
 ## PART 6 — MISCELLANEOUS
 
-### 45. Power to grant tenancies and to dispose of land[^key-6c4589193b8a0e56b83f7a014fb98390]
+### 45. Power to grant tenancies and to dispose of land[^c-6c4589193b8a0e56b83f7a014fb98390]
 
 (1) The Company may grant licences, tenancies and leases for a term of land within the harbour so far as it considers desirable in the interests of efficient and economical management of the harbour.
 
 (2) The Company may also dispose of any interest in land within the harbour which it considers to be surplus to that required by it for the purposes of the undertaking.
 
-### 46. Development, etc. of land[^key-0d9f2c42950bc2ca055706e9396f93ec]
+### 46. Development, etc. of land[^c-0d9f2c42950bc2ca055706e9396f93ec]
 
 (1) The Company may form and promote, or join with any other person in forming and promoting, a company for using or developing for any purpose, or carrying on any trade or business on, any of the harbour land.
 
 (2) The Company may (alone or with others) develop land not required for the purposes of the undertaking with a view to disposing of the land or interests in it, and may acquire land by agreement for the purpose of developing it with such land.
 
-### 47. Saving for Trinity House[^key-3e89a2659e23b49728a680c30c915662]
+### 47. Saving for Trinity House[^c-3e89a2659e23b49728a680c30c915662]
 
 Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of Trinity House.
 
-### 48. Defence of due diligence[^key-ac3552d627604860690e07fef81ca09b]
+### 48. Defence of due diligence[^c-ac3552d627604860690e07fef81ca09b]
 
 (1) In proceedings for an offence under article 12, 14 or 15, it shall be a defence for the Company to prove that it took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
 (2) If in any case the defence provided under paragraph (1) involves the allegation that the commission of the offence was due to the act or default of another person, the Company shall not, without leave of the court, be entitled to rely on that defence unless, not less than 7 clear days before the hearing, it has served on the prosecutor a notice in writing giving such information identifying, or assisting in the identification of, that other person as was then in its possession.
 
-### 49. Crown rights[^key-591524a6cf7d3073b723972067c1273e]
+### 49. Crown rights[^c-591524a6cf7d3073b723972067c1273e]
 
 (1) Nothing in this Order shall—
 
@@ -692,9 +692,9 @@ An authorised employee of the Marine Management Organisation
 
 Article 20
 
-**1.**[^key-87cf52ebf3ea5537c58690f336c05609] From the end of the harbour arm at 51°04.5605’N 01°11.6962’E; thence following an imaginary straight line in a north north-easterly direction to the level of high water at the base of the cliffs south of Martello Tower, to the west of Copt Point, at 51°04.9753’N 01°11.8318’E; thence following the level of high water westward to East Pier at 51°04.8557’N 01°11.4119’E; thence crossing East Pier following an imaginary straight line in a west south-westerly direction to the level of high water at 51°04.8561’N 01°11.4043’E; thence following the level of high water in a westerly direction along the northern wall of the Outer Harbour to the slipway at 51°04.8167’N 01°11.2389’E; thence crossing the slipway along the level of high water to 51°04.8106’N 01°11.1932’E; thence following the level of high water along the wall of the Outer Harbour to the railway viaduct 51°04.7959’N 01°11.1934’E; thence following the railway viaduct south along the level of high water to 51°04.7886’N 01°11.1967’E and under the viaduct to the northern wall of the Inner Harbour at 51°04.7866’N 01°11.1850’E; thence following the level of high water in a westerly, then south south-easterly and then easterly direction along the wall of the Inner Harbour to the southern end of the railway viaduct at 51°04.7164’N 01°11.2209’E; thence following the railway viaduct north along the level of high water to 51°04.7187’N 01°11.2199’E and under the viaduct to the southern wall of the Outer Harbour at 51°04.7186’N 01°11.2288’E; thence following the level of high water eastward along the wall of the Outer Harbour to 51°04.7384’N 01°11.3983’E; thence following the level of high water southward along South Quay and the existing rock revetment to the harbour arm at 51°04.6746’N 01°11.3774’E; thence crossing the harbour arm following an imaginary straight line in a south-westerly direction to the southern side of the harbour arm at 51°04.6543’N 01°11.3585’E; thence following the harbour arm in a westerly direction to 51°04.6561’N 01°11.3419’E; thence following an imaginary line set back 14 metres landward from the designed crest of the maintained beach passing through the points 51°04.6423’N 01°11.3542’E, 51°04.6276’N 01°11.3047’E, 51°04.6175’N 01°11.2720’E, 51°04.6066’N 01°11.2162’E, 51°04.5978’N 01°11.1538’E, 51°04.5875’N 01°11.0223’E, 51°04.5817’N 01°10.8847’E, 51°04.5794’N 01°10.7530’E, 51°04.5752’N 01°10.7028’E, 51°04.5644’N 01°10.6551’E, 51°04.5481’N 01°10.6018’E to the Fishtail Rock Groyne at 51°04.5022’N 01°10.4541’E; thence following the level of high water to the end of the Fishtail Rock Groyne at 51°04.4702’N 01°10.5249’E; thence following an imaginary straight line in an east north-easterly direction to the end of the harbour arm at 51°04.5560’N 01°11.6892’E; thence following the level of high water around the head of the harbour arm to 51°04.5644’N 01°10.6551’E.
+**1.**[^c-87cf52ebf3ea5537c58690f336c05609] From the end of the harbour arm at 51°04.5605’N 01°11.6962’E; thence following an imaginary straight line in a north north-easterly direction to the level of high water at the base of the cliffs south of Martello Tower, to the west of Copt Point, at 51°04.9753’N 01°11.8318’E; thence following the level of high water westward to East Pier at 51°04.8557’N 01°11.4119’E; thence crossing East Pier following an imaginary straight line in a west south-westerly direction to the level of high water at 51°04.8561’N 01°11.4043’E; thence following the level of high water in a westerly direction along the northern wall of the Outer Harbour to the slipway at 51°04.8167’N 01°11.2389’E; thence crossing the slipway along the level of high water to 51°04.8106’N 01°11.1932’E; thence following the level of high water along the wall of the Outer Harbour to the railway viaduct 51°04.7959’N 01°11.1934’E; thence following the railway viaduct south along the level of high water to 51°04.7886’N 01°11.1967’E and under the viaduct to the northern wall of the Inner Harbour at 51°04.7866’N 01°11.1850’E; thence following the level of high water in a westerly, then south south-easterly and then easterly direction along the wall of the Inner Harbour to the southern end of the railway viaduct at 51°04.7164’N 01°11.2209’E; thence following the railway viaduct north along the level of high water to 51°04.7187’N 01°11.2199’E and under the viaduct to the southern wall of the Outer Harbour at 51°04.7186’N 01°11.2288’E; thence following the level of high water eastward along the wall of the Outer Harbour to 51°04.7384’N 01°11.3983’E; thence following the level of high water southward along South Quay and the existing rock revetment to the harbour arm at 51°04.6746’N 01°11.3774’E; thence crossing the harbour arm following an imaginary straight line in a south-westerly direction to the southern side of the harbour arm at 51°04.6543’N 01°11.3585’E; thence following the harbour arm in a westerly direction to 51°04.6561’N 01°11.3419’E; thence following an imaginary line set back 14 metres landward from the designed crest of the maintained beach passing through the points 51°04.6423’N 01°11.3542’E, 51°04.6276’N 01°11.3047’E, 51°04.6175’N 01°11.2720’E, 51°04.6066’N 01°11.2162’E, 51°04.5978’N 01°11.1538’E, 51°04.5875’N 01°11.0223’E, 51°04.5817’N 01°10.8847’E, 51°04.5794’N 01°10.7530’E, 51°04.5752’N 01°10.7028’E, 51°04.5644’N 01°10.6551’E, 51°04.5481’N 01°10.6018’E to the Fishtail Rock Groyne at 51°04.5022’N 01°10.4541’E; thence following the level of high water to the end of the Fishtail Rock Groyne at 51°04.4702’N 01°10.5249’E; thence following an imaginary straight line in an east north-easterly direction to the end of the harbour arm at 51°04.5560’N 01°11.6892’E; thence following the level of high water around the head of the harbour arm to 51°04.5644’N 01°10.6551’E.
 
-**2.**[^key-70c6b5f5e03d108a6ca457989a8019f3] From the completion of construction of the works authorised by article 4(1), the limits of the harbour between the north-eastern corner of South Quay and the harbour arm will follow the line of the wave wall forming part of those works.
+**2.**[^c-70c6b5f5e03d108a6ca457989a8019f3] From the completion of construction of the works authorised by article 4(1), the limits of the harbour between the north-eastern corner of South Quay and the harbour arm will follow the line of the wave wall forming part of those works.
 
 EXPLANATORY NOTE
 
@@ -720,9 +720,9 @@ A full regulatory impact assessment has not been provided for this instrument as
 
 [^f00005]: Footnote: The Marine Management Organisation was established by the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23), section 1.
 
-[^key-2592e9740b3d362cc9d5ab61ffb7d3eb]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-2592e9740b3d362cc9d5ab61ffb7d3eb]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-a91c038b9cdc62a2ec91952c4b2b81fc]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/601/article/2) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-a91c038b9cdc62a2ec91952c4b2b81fc]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/601/article/2) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
 [^f00006]: Footnote: [S.I. 1991/237](https://www.legislation.gov.uk/uksi/1991/237).
 
@@ -738,114 +738,114 @@ A full regulatory impact assessment has not been provided for this instrument as
 
 [^f00012]: Footnote: [1992 c.6](https://www.legislation.gov.uk/ukpga/1992/6).
 
-[^key-11b7353bb098ea3ed62d3f3fa5b13b5f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2017/601/article/3) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-11b7353bb098ea3ed62d3f3fa5b13b5f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2017/601/article/3) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-0463320f7fb2edae6985d1e67bf28d6e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/601/article/4) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-0463320f7fb2edae6985d1e67bf28d6e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/601/article/4) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-831ae3cec930c787b7187bc3d051f04e]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2017/601/article/5) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-831ae3cec930c787b7187bc3d051f04e]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2017/601/article/5) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-a3ccc0e79670fcc9f88b77558cb96e0a]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2017/601/article/6) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-a3ccc0e79670fcc9f88b77558cb96e0a]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2017/601/article/6) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-f1fa4dd35ed9dc583f3d345fcdca37fe]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2017/601/article/7) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-f1fa4dd35ed9dc583f3d345fcdca37fe]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2017/601/article/7) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
 [^f00013]: Footnote: [1841 c. 30](https://www.legislation.gov.uk/ukpga/1841/30).
 
-[^key-05989416fcb50ceda34695958b1d85fa]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2017/601/article/8) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-05989416fcb50ceda34695958b1d85fa]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2017/601/article/8) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-45aae030ca7a271863137e6406a9dc2a]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2017/601/article/9) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-45aae030ca7a271863137e6406a9dc2a]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2017/601/article/9) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-66d3680a1e48273104564a1d92027868]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2017/601/article/10) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-66d3680a1e48273104564a1d92027868]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2017/601/article/10) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-f35c72d71cac506754f618ba62ffa74c]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2017/601/article/11) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-f35c72d71cac506754f618ba62ffa74c]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2017/601/article/11) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-2d13200e35d58017d83f6883fc7b87e3]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2017/601/article/12) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-2d13200e35d58017d83f6883fc7b87e3]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2017/601/article/12) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-ceba9075f30237d3a27db6c5c95ff6eb]: Textual amendment: Words in art. 12(2) omitted (10.6.2025) by virtue of [The Folkestone Harbour Revision Order (Amendment) Order 2025 (S.I. 2025/596)](https://www.legislation.gov.uk/uksi/2025/596), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/596/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/596/article/2/2)
+[^c-ceba9075f30237d3a27db6c5c95ff6eb]: Textual amendment: Words in art. 12(2) omitted (10.6.2025) by virtue of [The Folkestone Harbour Revision Order (Amendment) Order 2025 (S.I. 2025/596)](https://www.legislation.gov.uk/uksi/2025/596), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/596/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/596/article/2/2)
 
-[^key-af261ada96de00f07727a6941adc2082]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2017/601/article/13) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-af261ada96de00f07727a6941adc2082]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2017/601/article/13) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-adeaf0b25e08a49af28cd3d1eb083e8f]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2017/601/article/14) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-adeaf0b25e08a49af28cd3d1eb083e8f]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2017/601/article/14) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-3e55607bd504db49ff958f86856fe1cc]: Textual amendment: Words in art. 14(2) omitted (10.6.2025) by virtue of [The Folkestone Harbour Revision Order (Amendment) Order 2025 (S.I. 2025/596)](https://www.legislation.gov.uk/uksi/2025/596), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/596/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/596/article/2/3)
+[^c-3e55607bd504db49ff958f86856fe1cc]: Textual amendment: Words in art. 14(2) omitted (10.6.2025) by virtue of [The Folkestone Harbour Revision Order (Amendment) Order 2025 (S.I. 2025/596)](https://www.legislation.gov.uk/uksi/2025/596), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/596/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/596/article/2/3)
 
-[^key-af3e6680a917e0da623e74521595b8ec]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2017/601/article/15) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-af3e6680a917e0da623e74521595b8ec]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2017/601/article/15) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-1a269cf771ba698373d797f2c0ae7523]: Textual amendment: Words in art. 15(2) omitted (10.6.2025) by virtue of [The Folkestone Harbour Revision Order (Amendment) Order 2025 (S.I. 2025/596)](https://www.legislation.gov.uk/uksi/2025/596), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/596/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/596/article/2/4)
+[^c-1a269cf771ba698373d797f2c0ae7523]: Textual amendment: Words in art. 15(2) omitted (10.6.2025) by virtue of [The Folkestone Harbour Revision Order (Amendment) Order 2025 (S.I. 2025/596)](https://www.legislation.gov.uk/uksi/2025/596), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/596/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/596/article/2/4)
 
-[^key-bed53d429ea4e40a8830f5abae4a3007]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2017/601/article/16) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-bed53d429ea4e40a8830f5abae4a3007]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2017/601/article/16) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-353c863a0594f37611192c98cb31baeb]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2017/601/article/17) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-353c863a0594f37611192c98cb31baeb]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2017/601/article/17) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-633a48d129ac64f388c007edc835c852]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2017/601/article/18) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-633a48d129ac64f388c007edc835c852]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2017/601/article/18) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-6e6117d26d8e9507ecd7deeacad36931]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2017/601/article/19) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-6e6117d26d8e9507ecd7deeacad36931]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2017/601/article/19) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-8df7b97deb10cdbcb0c7c3abf8c876d9]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2017/601/article/20) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-8df7b97deb10cdbcb0c7c3abf8c876d9]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2017/601/article/20) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-bced230e5c494712d83791843bff7f7d]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2017/601/article/21) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-bced230e5c494712d83791843bff7f7d]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2017/601/article/21) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-55e22f20b31ef53ac378c7ac628a260e]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2017/601/article/22) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-55e22f20b31ef53ac378c7ac628a260e]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2017/601/article/22) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
 [^f00014]: Footnote: [S.I. 2002/2742](https://www.legislation.gov.uk/uksi/2002/2742).
 
-[^key-2c0f9b8bf5142d3fad0804c45172059e]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2017/601/article/23) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-2c0f9b8bf5142d3fad0804c45172059e]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2017/601/article/23) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
 [^f00015]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-c3559c4ef6717ea54ccc8bee0a00253e]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2017/601/article/24) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-c3559c4ef6717ea54ccc8bee0a00253e]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2017/601/article/24) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
 [^f00016]: Footnote: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21).
 
-[^key-a6f83f5edffc97f5b1ea22b833b83998]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2017/601/article/25) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-a6f83f5edffc97f5b1ea22b833b83998]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2017/601/article/25) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-0de1e01732d1d04228a0ea2ba912e54e]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2017/601/article/26) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-0de1e01732d1d04228a0ea2ba912e54e]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2017/601/article/26) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-bbcc59ada38d2f3137f183bfa5b8914d]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2017/601/article/27) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-bbcc59ada38d2f3137f183bfa5b8914d]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2017/601/article/27) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-4daeb1384020995441decd51e3518347]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2017/601/article/28) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-4daeb1384020995441decd51e3518347]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2017/601/article/28) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-0ad94dfdcbbdbbd45bdcaf8533c28c33]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2017/601/article/29) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-0ad94dfdcbbdbbd45bdcaf8533c28c33]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2017/601/article/29) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-6a6f73ad102229d346b9de4a7235b7d3]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2017/601/article/30) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-6a6f73ad102229d346b9de4a7235b7d3]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2017/601/article/30) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-d6db5722c02411c4293b1800ba2ded17]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2017/601/article/31) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-d6db5722c02411c4293b1800ba2ded17]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2017/601/article/31) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-0131ed8008572e371edfa5428bba3c1f]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2017/601/article/32) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-0131ed8008572e371edfa5428bba3c1f]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2017/601/article/32) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-31b7055c6e1f5e40e98c735a371a043e]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2017/601/article/33) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-31b7055c6e1f5e40e98c735a371a043e]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2017/601/article/33) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-dbdef68dc3b4f35bcc65e762c431417f]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2017/601/article/34) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-dbdef68dc3b4f35bcc65e762c431417f]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2017/601/article/34) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-104cc6b51c550dc96f03279fd7c0e803]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2017/601/article/35) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-104cc6b51c550dc96f03279fd7c0e803]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2017/601/article/35) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-b218fe0e2b8f9d008b80e58755897d1f]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2017/601/article/36) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-b218fe0e2b8f9d008b80e58755897d1f]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2017/601/article/36) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-6b91c14943ecbf353d5dbc5ac2cf59cd]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2017/601/article/37) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-6b91c14943ecbf353d5dbc5ac2cf59cd]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2017/601/article/37) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-b3b6b92ec31de7090b7bc9120ad3066e]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2017/601/article/38) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-b3b6b92ec31de7090b7bc9120ad3066e]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2017/601/article/38) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-9b767ed1d6e327cc10abfb2db092d0ba]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2017/601/article/39) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-9b767ed1d6e327cc10abfb2db092d0ba]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2017/601/article/39) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-9f5183236c137b6297ccc5acbb5119b8]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2017/601/article/40) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-9f5183236c137b6297ccc5acbb5119b8]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2017/601/article/40) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-8f6dc8ce82f6540caa222e01866978aa]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2017/601/article/41) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-8f6dc8ce82f6540caa222e01866978aa]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2017/601/article/41) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-d166541363b31525c043fdea138912ed]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2017/601/article/42) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-d166541363b31525c043fdea138912ed]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2017/601/article/42) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-1928aabf35f816553f226db756391b6b]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2017/601/article/43) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-1928aabf35f816553f226db756391b6b]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2017/601/article/43) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-066326903052bdcf12011751b0ec9900]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2017/601/article/44) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-066326903052bdcf12011751b0ec9900]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2017/601/article/44) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-6c4589193b8a0e56b83f7a014fb98390]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2017/601/article/45) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-6c4589193b8a0e56b83f7a014fb98390]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2017/601/article/45) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-0d9f2c42950bc2ca055706e9396f93ec]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2017/601/article/46) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-0d9f2c42950bc2ca055706e9396f93ec]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2017/601/article/46) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-3e89a2659e23b49728a680c30c915662]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2017/601/article/47) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-3e89a2659e23b49728a680c30c915662]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2017/601/article/47) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-ac3552d627604860690e07fef81ca09b]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2017/601/article/48) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-ac3552d627604860690e07fef81ca09b]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2017/601/article/48) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-591524a6cf7d3073b723972067c1273e]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2017/601/article/49) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-591524a6cf7d3073b723972067c1273e]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2017/601/article/49) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-87cf52ebf3ea5537c58690f336c05609]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/601/schedule/paragraph/1) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-87cf52ebf3ea5537c58690f336c05609]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/601/schedule/paragraph/1) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
 
-[^key-70c6b5f5e03d108a6ca457989a8019f3]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2017/601/schedule/paragraph/2) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)
+[^c-70c6b5f5e03d108a6ca457989a8019f3]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2017/601/schedule/paragraph/2) in force at 1.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/601/article/1)

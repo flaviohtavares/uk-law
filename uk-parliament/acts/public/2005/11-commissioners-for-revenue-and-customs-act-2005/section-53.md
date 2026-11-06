@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Commencement[^key-5589f1bb035e37623103c4bd3f03b318]
+## 53. Commencement[^c-5589f1bb035e37623103c4bd3f03b318]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5589f1bb035e37623103c4bd3f03b318]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2005/11/section/53) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-5589f1bb035e37623103c4bd3f03b318]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2005/11/section/53) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)

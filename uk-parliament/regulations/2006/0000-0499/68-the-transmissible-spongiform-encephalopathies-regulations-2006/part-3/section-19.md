@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Notices[^key-70debe14d1aea91a72c9e91c142afd7a]
+## 19. Notices[^c-70debe14d1aea91a72c9e91c142afd7a]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70debe14d1aea91a72c9e91c142afd7a]: Commencement: Reg. 19 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-70debe14d1aea91a72c9e91c142afd7a]: Commencement: Reg. 19 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

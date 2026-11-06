@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154.[^key-9b0b86ad9d5ae9ccc1912477f15af18e]
+## 154.[^c-9b0b86ad9d5ae9ccc1912477f15af18e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 574 (“pension”: interpretation), in subsection (2)(b), after “w
 
 ## Annotations
 
-[^key-9b0b86ad9d5ae9ccc1912477f15af18e]: Commencement: Reg. 154 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-9b0b86ad9d5ae9ccc1912477f15af18e]: Commencement: Reg. 154 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

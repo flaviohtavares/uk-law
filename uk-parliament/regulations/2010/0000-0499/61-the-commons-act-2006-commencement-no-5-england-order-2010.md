@@ -37,18 +37,18 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by section 56(1) of the Commons Act 2006[^f00001], makes the following Order.
 
-## 1. Citation and application[^key-e3853ceec4681ae1dc3bb3eeae59ffb6]
+## 1. Citation and application[^c-e3853ceec4681ae1dc3bb3eeae59ffb6]
 
 This Order—
 
 - (a) may be cited as the Commons Act 2006 (Commencement No. 5) (England) Order 2010, and
 - (b) applies in relation to England.
 
-## 2. Commencement of provisions[^key-64cace70696e0624079955d9492f67a1]
+## 2. Commencement of provisions[^c-64cace70696e0624079955d9492f67a1]
 
 Sections 26 to 37 (management) of the Commons Act 2006 come into force on 20th January 2010.
 
-## 3. Extension of application of sections 26 to 37[^key-2c2b2b77e6bdc7dcd9add167c71a13e4]
+## 3. Extension of application of sections 26 to 37[^c-2c2b2b77e6bdc7dcd9add167c71a13e4]
 
 (1) This article applies to any area in England in relation to which—
 
@@ -130,8 +130,8 @@ The “pilot areas” means the registration areas in England, as at 1st October
 
 [^f00001]: Footnote: [2006 c. 26](https://www.legislation.gov.uk/ukpga/2006/26); section 61(1) defines the “appropriate national authority” as the Secretary of State, in relation to England.
 
-[^key-e3853ceec4681ae1dc3bb3eeae59ffb6]: Commencement: Art. 1 in force at made date
+[^c-e3853ceec4681ae1dc3bb3eeae59ffb6]: Commencement: Art. 1 in force at made date
 
-[^key-64cace70696e0624079955d9492f67a1]: Commencement: Art. 2 in force at made date
+[^c-64cace70696e0624079955d9492f67a1]: Commencement: Art. 2 in force at made date
 
-[^key-2c2b2b77e6bdc7dcd9add167c71a13e4]: Textual amendment: Art. 3 added (1.12.2010) by [The Commons Act 2006 (Commencement No. 1 and Savings (England and Wales) and Commencement No. 5 (England) (Amendment)) Order 2010 (S.I. 2010/2356)](https://www.legislation.gov.uk/uksi/2010/2356), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/2356/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2010/2356/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2356/article/4))
+[^c-2c2b2b77e6bdc7dcd9add167c71a13e4]: Textual amendment: Art. 3 added (1.12.2010) by [The Commons Act 2006 (Commencement No. 1 and Savings (England and Wales) and Commencement No. 5 (England) (Amendment)) Order 2010 (S.I. 2010/2356)](https://www.legislation.gov.uk/uksi/2010/2356), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/2356/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2010/2356/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2356/article/4))

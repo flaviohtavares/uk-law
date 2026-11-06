@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Island Council of Ascension[^key-ce772797ff3aa4bb4a3aedbe94caf367]
+## 11. Island Council of Ascension[^c-ce772797ff3aa4bb4a3aedbe94caf367]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any person who immediately before the appointed day is a member of the Island Co
 
 ## Annotations
 
-[^key-ce772797ff3aa4bb4a3aedbe94caf367]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2009/1751/article/11) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)
+[^c-ce772797ff3aa4bb4a3aedbe94caf367]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2009/1751/article/11) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)

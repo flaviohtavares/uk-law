@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Restrictions on giving notice under section 173 or 186 or under a landlord's break clause: breaches of statutory obligations[^key-02ef045021338e1696d03898cca4c445]
+## 6. Restrictions on giving notice under section 173 or 186 or under a landlord's break clause: breaches of statutory obligations[^c-02ef045021338e1696d03898cca4c445]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02ef045021338e1696d03898cca4c445]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2021/3/section/6) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-02ef045021338e1696d03898cca4c445]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2021/3/section/6) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

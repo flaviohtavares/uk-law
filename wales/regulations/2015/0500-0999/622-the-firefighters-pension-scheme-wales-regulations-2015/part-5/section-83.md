@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Effect of allocation[^key-8edd39984af3a52b1c9160fdf1a120d1]
+## 83. Effect of allocation[^c-8edd39984af3a52b1c9160fdf1a120d1]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ the scheme manager must pay to the pensioner (distinguishing it from any other p
 
 ## Annotations
 
-[^key-8edd39984af3a52b1c9160fdf1a120d1]: Commencement: Reg. 83 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-8edd39984af3a52b1c9160fdf1a120d1]: Commencement: Reg. 83 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

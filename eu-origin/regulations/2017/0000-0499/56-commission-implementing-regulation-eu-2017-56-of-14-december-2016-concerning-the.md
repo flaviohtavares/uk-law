@@ -35,26 +35,26 @@ concerning the authorisation of lactic acid, 4-oxovaleric acid, succinic acid, f
 
 (Text with EEA relevance) (revoked)
 
-[^key-56c3df958dcd9f2d6bb3c86bb1386f97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56c3df958dcd9f2d6bb3c86bb1386f97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-56c3df958dcd9f2d6bb3c86bb1386f97]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Transitional measures[^key-56c3df958dcd9f2d6bb3c86bb1386f97]
+## Article 1. Authorisation[^c-56c3df958dcd9f2d6bb3c86bb1386f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-56c3df958dcd9f2d6bb3c86bb1386f97]
+## Article 2. Transitional measures[^c-56c3df958dcd9f2d6bb3c86bb1386f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56c3df958dcd9f2d6bb3c86bb1386f97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 3. Entry into force[^c-56c3df958dcd9f2d6bb3c86bb1386f97]
 
-## ANNEX[^key-56c3df958dcd9f2d6bb3c86bb1386f97]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-56c3df958dcd9f2d6bb3c86bb1386f97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-56c3df958dcd9f2d6bb3c86bb1386f97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-56c3df958dcd9f2d6bb3c86bb1386f97]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 216](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/216) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-56c3df958dcd9f2d6bb3c86bb1386f97]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 216](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/216) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

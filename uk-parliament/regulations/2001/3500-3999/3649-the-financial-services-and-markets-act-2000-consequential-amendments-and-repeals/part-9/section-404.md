@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 404. Investment of sums collected[^key-2b4369829347844dc4281afad0ef304f]
+## 404. Investment of sums collected[^c-2b4369829347844dc4281afad0ef304f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2b4369829347844dc4281afad0ef304f]: Commencement: Art. 404 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-2b4369829347844dc4281afad0ef304f]: Commencement: Art. 404 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00292]: Footnote: Paragraph (3) of regulation 30 was amended by [S.I. 1996/1309](https://www.legislation.gov.uk/uksi/1996/1309), regulation 3.

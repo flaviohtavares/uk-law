@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Out of hours services[^key-9ed018054c48a69c5f25aa340afffd20]
+## 30. Out of hours services[^c-9ed018054c48a69c5f25aa340afffd20]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ed018054c48a69c5f25aa340afffd20]: Commencement: Reg. 30 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-9ed018054c48a69c5f25aa340afffd20]: Commencement: Reg. 30 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00054]: Footnote: S.I. [1995/416](https://www.legislation.gov.uk/uksi/1995/416).

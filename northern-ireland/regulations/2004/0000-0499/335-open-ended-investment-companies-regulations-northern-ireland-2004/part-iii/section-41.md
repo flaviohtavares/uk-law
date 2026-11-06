@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Exclusion of deemed notice[^key-85eacf0019f4aa9a4f2a440b847584a1]
+## 41. Exclusion of deemed notice[^c-85eacf0019f4aa9a4f2a440b847584a1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A person is not to be taken to have notice of any matter merely because of its b
 
 ## Annotations
 
-[^key-85eacf0019f4aa9a4f2a440b847584a1]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2004/335/regulation/41) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-85eacf0019f4aa9a4f2a440b847584a1]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2004/335/regulation/41) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

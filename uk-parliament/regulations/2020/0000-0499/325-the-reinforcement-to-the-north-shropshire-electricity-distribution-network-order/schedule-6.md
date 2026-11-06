@@ -24,7 +24,7 @@ Article 29
 
 ### PART 1 — FOR THE PROTECTION OF OPERATORS OF ELECTRONIC COMMUNICATIONS CODE NETWORKS
 
-**1.**[^key-1d6b3c0388e9d086a74aa8297f2583da] (1) For the protection of any operator, the following provisions have effect, unless otherwise agreed in writing between the undertaker and the operator.
+**1.**[^c-1d6b3c0388e9d086a74aa8297f2583da] (1) For the protection of any operator, the following provisions have effect, unless otherwise agreed in writing between the undertaker and the operator.
 
 (2) In this Part of this Schedule—
 
@@ -37,9 +37,9 @@ Article 29
 - “**electronic communications code operator**” means a person in whose case the electronic communications code is applied by a direction under section 106 of the 2003 Act; and
 - “**operator**” means the operator of an electronic communications code network.
 
-**2.**[^key-18b343a0454097c62f230f803cdcdd11] The exercise of the powers of article 29 (statutory undertakers) is subject to Part 10 of Schedule 3A [^c24030911]of the 2003 Act.
+**2.**[^c-18b343a0454097c62f230f803cdcdd11] The exercise of the powers of article 29 (statutory undertakers) is subject to Part 10 of Schedule 3A [^c24030911]of the 2003 Act.
 
-**3.**[^key-b260e41aaa1f27f966629d71deefefe5] (1) Subject to sub-paragraphs (2) to (4), if as the result of the authorised development or its construction any damage is caused to any electronic communications apparatus belonging to an operator (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works), or other property of an operator, the undertaker must bear and pay the cost reasonably incurred by the operator in making good such damage and make reasonable compensation to that operator for any other expenses, loss, or costs incurred by it, by reason, of any such damage, provided that the operator is not entitled to recover any indirect or consequential losses or losses of profits from the undertaker.
+**3.**[^c-b260e41aaa1f27f966629d71deefefe5] (1) Subject to sub-paragraphs (2) to (4), if as the result of the authorised development or its construction any damage is caused to any electronic communications apparatus belonging to an operator (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works), or other property of an operator, the undertaker must bear and pay the cost reasonably incurred by the operator in making good such damage and make reasonable compensation to that operator for any other expenses, loss, or costs incurred by it, by reason, of any such damage, provided that the operator is not entitled to recover any indirect or consequential losses or losses of profits from the undertaker.
 
 (2) Nothing in sub-paragraph (1) imposes any liability on the undertaker with respect to any damage to the extent that it is attributable to the act, neglect or default of an operator, its officers, servants, contractors or agents.
 
@@ -47,18 +47,18 @@ Article 29
 
 (4) Any difference arising between the undertaker and the operator under this Part of this Schedule must be referred to and settled by arbitration under article 38 (arbitration).
 
-**4.**[^key-f630f37d15296da428552cceca62d6bf] This Part of this Schedule does not apply to—
+**4.**[^c-f630f37d15296da428552cceca62d6bf] This Part of this Schedule does not apply to—
 
 - (a) any apparatus in respect of which the relations between the undertaker and an operator are regulated by the provisions of Part 3 of the 1991 Act; or
 - (b) any damage, or any interruption, caused by electro-magnetic interference (if any) arising from the construction or use of the authorised development.
 
-**5.**[^key-d127c4a72c9e7051b24fdfb5c14db677] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and an operator in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
+**5.**[^c-d127c4a72c9e7051b24fdfb5c14db677] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between the undertaker and an operator in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
 
 ### PART 2 — FOR THE PROTECTION OF ELECTRICITY, GAS, WATER AND SEWERAGE UNDERTAKERS
 
-**6.**[^key-f9373d5618bcc01118c8d3b71dcea1e2] For the protection of the statutory undertakers referred to in this Part of this Schedule the following provisions, unless otherwise agreed in writing between the undertaker and the statutory undertaker concerned, have effect.
+**6.**[^c-f9373d5618bcc01118c8d3b71dcea1e2] For the protection of the statutory undertakers referred to in this Part of this Schedule the following provisions, unless otherwise agreed in writing between the undertaker and the statutory undertaker concerned, have effect.
 
-**7.**[^key-392a17c1552b54d4d37ae1ea1068eb10] In this Part of this Schedule—
+**7.**[^c-392a17c1552b54d4d37ae1ea1068eb10] In this Part of this Schedule—
 
 - “**alternative apparatus**” means alternative apparatus adequate to enable the relevant statutory undertaker to fulfil its statutory functions in a manner not less efficient than previously;
 - “**apparatus**” means—
@@ -83,11 +83,11 @@ Article 29
 
   for the area of the authorised development.
 
-**8.**[^key-1eccf83f29bf7d987c5ceb9dd5520477] This Part of this Schedule does not apply to apparatus in respect of which the relations between the undertaker and the statutory undertaker are regulated by the provisions of Part 3 of the 1991 Act.
+**8.**[^c-1eccf83f29bf7d987c5ceb9dd5520477] This Part of this Schedule does not apply to apparatus in respect of which the relations between the undertaker and the statutory undertaker are regulated by the provisions of Part 3 of the 1991 Act.
 
-**9.**[^key-f5f38942a12bf40c3af55ba9c50af5ce] Regardless of any provision in this Order or anything shown on the land plans, the undertaker may not acquire any apparatus otherwise than by agreement with the relevant statutory undertaker.
+**9.**[^c-f5f38942a12bf40c3af55ba9c50af5ce] Regardless of any provision in this Order or anything shown on the land plans, the undertaker may not acquire any apparatus otherwise than by agreement with the relevant statutory undertaker.
 
-**10.**[^key-c92ea1e43e0ef075bcbd4dc705868826] (1) If, in the exercise of the powers conferred by this Order, the undertaker acquires any interest in any land in which any apparatus is placed, that apparatus must not be removed under this Part of this Schedule and any right of a statutory undertaker to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the relevant statutory undertaker.
+**10.**[^c-c92ea1e43e0ef075bcbd4dc705868826] (1) If, in the exercise of the powers conferred by this Order, the undertaker acquires any interest in any land in which any apparatus is placed, that apparatus must not be removed under this Part of this Schedule and any right of a statutory undertaker to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the relevant statutory undertaker.
 
 (2) If, for the purpose of executing any works in, on or under any land purchased, held, appropriated or used under this Order, the undertaker requires the removal of any apparatus placed in that land, it must give to the relevant statutory undertaker written notice of that requirement, together with a plan and section of the work proposed.
 
@@ -99,7 +99,7 @@ Article 29
 
 (6) Nothing in sub-paragraph (5) authorises the undertaker to execute the placing, installation, bedding, packing, removal, connection or disconnection of any apparatus, or execute any filling around the apparatus (where the apparatus is laid in a trench) within 300 millimetres of the apparatus.
 
-**11.**[^key-503aecfc2f40b5479da96d55dcc64c03] (1) Not less than 28 days before starting the execution of any works of the type referred to in paragraph 10(2) that are near to, or will or may affect, any apparatus the removal of which has not been required by the undertaker under paragraph 10(2), the undertaker must submit to the relevant statutory undertaker a plan, section and description of the works to be executed.
+**11.**[^c-503aecfc2f40b5479da96d55dcc64c03] (1) Not less than 28 days before starting the execution of any works of the type referred to in paragraph 10(2) that are near to, or will or may affect, any apparatus the removal of which has not been required by the undertaker under paragraph 10(2), the undertaker must submit to the relevant statutory undertaker a plan, section and description of the works to be executed.
 
 (2) Those works must be executed only in accordance with the plan, section and description submitted under sub-paragraph (1) and in accordance with such reasonable requirements as may be made in accordance with sub-paragraph (3) by the statutory undertaker for the alteration or otherwise for the protection of the apparatus, or for securing access to it, (declaring that these must be on land held or controlled by the relevant statutory undertaker or the undertaker and subject to them being authorised by the Order or being development permitted by an Act of Parliament or general development order made under the 1990 Act) and the statutory undertaker is entitled to watch and inspect the execution of those works.
 
@@ -111,7 +111,7 @@ Article 29
 
 (6) The undertaker is not required to comply with sub-paragraph (1) in a case of emergency but in that case it must give to the relevant statutory undertaker notice as soon as is reasonably practicable and a plan, section and description of those works as soon as reasonably practicable subsequently and must comply with sub-paragraph (2) in so far as is reasonably practicable in the circumstances.
 
-**12.**[^key-3c50eef387c79e171ee5a5a9da24dbf7] (1) Subject to the following provisions of this paragraph, the undertaker must repay to the relevant statutory undertaker the proper and reasonable expenses reasonably incurred by that statutory undertaker in, or in connection with, the inspection, removal, alteration or protection of any apparatus provided that the relevant statutory undertaker is not entitled to recover any indirect or consequential losses or losses of profits from the undertaker.
+**12.**[^c-3c50eef387c79e171ee5a5a9da24dbf7] (1) Subject to the following provisions of this paragraph, the undertaker must repay to the relevant statutory undertaker the proper and reasonable expenses reasonably incurred by that statutory undertaker in, or in connection with, the inspection, removal, alteration or protection of any apparatus provided that the relevant statutory undertaker is not entitled to recover any indirect or consequential losses or losses of profits from the undertaker.
 
 (2) The value of any apparatus removed under the provisions of this Part of the Schedule is to be deducted from any sum payable under sub-paragraph (1), that value being calculated after removal.
 
@@ -131,9 +131,9 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ### PART 3 — FOR THE PROTECTION OF NETWORK RAIL
 
-**13.**[^key-b74be59e9288fc6d5ab1d44226202e91] The following provisions of this Part have effect, unless otherwise agreed in writing between the undertaker and Network Rail.
+**13.**[^c-b74be59e9288fc6d5ab1d44226202e91] The following provisions of this Part have effect, unless otherwise agreed in writing between the undertaker and Network Rail.
 
-**14.**[^key-2d3b0bdd1d7aa022ba26fe87b45e7449] In this Part—
+**14.**[^c-2d3b0bdd1d7aa022ba26fe87b45e7449] In this Part—
 
 - “**construction**” includes execution, placing, alteration and reconstruction and “construct” and “constructed” have corresponding meanings;
 - “**the engineer**” means an engineer appointed by Network Rail for the purposes of this Order;
@@ -147,14 +147,14 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
   - (c) any easement or other property interest held or used by Network Rail for the purposes of such railway or works, apparatus or equipment; and
 - “**specified work**” means so much of any of the authorised development as is situated upon, across, under, over or within 15 metres of, or may in any way adversely affect, railway property.
 
-**15.**[^key-bc48ead995d1503acaba632a174cb123] (1) Where under this Part Network Rail is required to give its consent or approval in respect of any matter, that consent or approval is subject to the condition that Network Rail complies with any relevant railway operational procedures and any obligations under its network licence or under statute.
+**15.**[^c-bc48ead995d1503acaba632a174cb123] (1) Where under this Part Network Rail is required to give its consent or approval in respect of any matter, that consent or approval is subject to the condition that Network Rail complies with any relevant railway operational procedures and any obligations under its network licence or under statute.
 
 (2) In so far as any specified work or the acquisition or use of railway property is or may be subject to railway operational procedures, Network Rail must—
 
 - (a) co-operate with the undertaker with a view to avoiding undue delay and securing conformity as between any plans approved by the engineer and requirements emanating from those procedures; and
 - (b) use its reasonable endeavours to avoid any conflict arising between the application of those procedures and the proper implementation of the authorised development pursuant to this Order.
 
-**16.**[^key-e2a2a77071a128832d6b7a7d8e032d1d] (1) The undertaker must not exercise the powers conferred by article 16 (authority to survey and investigate the land), article 18 (compulsory acquisition of rights), article 19 (statutory authority to override easements and other rights), article 23 (acquisition of subsoil or airspace only), article 26 (temporary use of land for carrying out the authorised development), article 27 (temporary use of land for maintaining the authorised development) and article 31 (felling or lopping of trees and removal of hedgerows) or the powers conferred by section 11(3) of the 1965 Act in respect of any railway property unless the exercise of such powers is with the consent of Network Rail.
+**16.**[^c-e2a2a77071a128832d6b7a7d8e032d1d] (1) The undertaker must not exercise the powers conferred by article 16 (authority to survey and investigate the land), article 18 (compulsory acquisition of rights), article 19 (statutory authority to override easements and other rights), article 23 (acquisition of subsoil or airspace only), article 26 (temporary use of land for carrying out the authorised development), article 27 (temporary use of land for maintaining the authorised development) and article 31 (felling or lopping of trees and removal of hedgerows) or the powers conferred by section 11(3) of the 1965 Act in respect of any railway property unless the exercise of such powers is with the consent of Network Rail.
 
 (2) The undertaker must not in the exercise of the powers conferred by this Order prevent pedestrian or vehicular access to any railway property, unless preventing such access is with the consent of Network Rail.
 
@@ -162,7 +162,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (4) Where Network Rail is asked to give its consent pursuant to this paragraph, such consent must not be unreasonably withheld or delayed but may be given subject to reasonable conditions.
 
-**17.**[^key-97b2a0094355a2ed04948a088afd6676] (1) The undertaker must before commencing construction of any specified work supply to Network Rail proper and sufficient plans of that work for the reasonable approval of the engineer and the specified work must not be commenced except in accordance with such plans as have been approved in writing by the engineer or settled by arbitration under article 38 (arbitration).
+**17.**[^c-97b2a0094355a2ed04948a088afd6676] (1) The undertaker must before commencing construction of any specified work supply to Network Rail proper and sufficient plans of that work for the reasonable approval of the engineer and the specified work must not be commenced except in accordance with such plans as have been approved in writing by the engineer or settled by arbitration under article 38 (arbitration).
 
 (2) The approval of the engineer under sub-paragraph (1) must not be unreasonably withheld or delayed and if by the end of the period of 35 days beginning with the date on which such plans have been supplied to Network Rail the engineer has not intimated disapproval of those plans and the grounds of his or her disapproval the undertaker may serve upon the engineer written notice requiring the engineer to intimate approval or disapproval within a further period of 28 days beginning with the date upon which the engineer receives written notice from the undertaker. If by the expiry of the further 28 days the engineer has not intimated approval or disapproval, the engineer will be deemed to have approved the plans as submitted.
 
@@ -170,7 +170,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (4) When signifying approval of the plans, the engineer may specify any protective works (whether temporary or permanent) which in the reasonable opinion of the engineer must be carried out before the commencement of the construction of a specified work (declaring that such protective works must be on land held or controlled by Network Rail and subject to such works being authorised by the Order or being development permitted by an Act of Parliament or general development order made under the 1990 Act) to ensure the safety or stability of railway property or the continuation of safe and efficient operation of the railways of Network Rail or the services of operators using the same (including any relocation de-commissioning and removal of works, apparatus and equipment necessitated by a specified work and the comfort and safety of passengers who may be affected by the specified work), and such protective works as may be reasonably necessary for those purposes are to be constructed by Network Rail or by the undertaker, if Network Rail so desires, and such protective works must be carried out at the expense of the undertaker in either case without reasonable delay, and the undertaker must not commence the construction of the specified work until the engineer has notified the undertaker that the protective works have been completed to the engineer's reasonable satisfaction.
 
-**18.**[^key-c1ea812cdc8c90d0e2dd0c12b5745b2f] (1) Any specified work and any protective works to be constructed by virtue of paragraph 17(3) must, when commenced, be constructed—
+**18.**[^c-c1ea812cdc8c90d0e2dd0c12b5745b2f] (1) Any specified work and any protective works to be constructed by virtue of paragraph 17(3) must, when commenced, be constructed—
 
 - (a) without reasonable delay in accordance with the plans approved or deemed to have been approved or settled under paragraph 17;
 - (b) under the supervision (where appropriate and if given) and to the reasonable satisfaction of the engineer;
@@ -182,20 +182,20 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (3) Nothing in this Schedule imposes any liability on the undertaker with respect to any damage, costs, expenses or loss attributable to the negligence of Network Rail or its servants, contractors or agents or any liability on Network Rail with respect of any damage, costs, expenses or loss attributable to the negligence of the undertaker or its servants, contractors or agents.
 
-**19.**[^key-cd4b62121ae0590cd97856592437188f] The undertaker must—
+**19.**[^c-cd4b62121ae0590cd97856592437188f] The undertaker must—
 
 - (a) at all times afford reasonable facilities to the engineer for access to a specified work during its construction; and
 - (b) supply the engineer with all such information as the engineer may reasonably require with regard to a specified work or the method of constructing it.
 
-**20.**[^key-ff1fba0001c34374737823e1fe8545ff] Network Rail must at all times afford reasonable facilities to the undertaker and its agents for access to any works carried out by Network Rail under this Part during their construction and must supply the undertaker with such information as it may reasonably require with regard to such works or the method of constructing them.
+**20.**[^c-ff1fba0001c34374737823e1fe8545ff] Network Rail must at all times afford reasonable facilities to the undertaker and its agents for access to any works carried out by Network Rail under this Part during their construction and must supply the undertaker with such information as it may reasonably require with regard to such works or the method of constructing them.
 
-**21.**[^key-4d2299949f9048dd0aafa072c4900644] (1) If any permanent or temporary alterations or additions to railway property are reasonably necessary in consequence of the construction of a specified work, or during a period of 12 months after the completion of that work, in order to ensure the safety of railway property or the continued safe operation of the railway of Network Rail, such alterations and additions may be carried out by Network Rail; and if Network Rail gives to the undertaker 56 days' notice of its intention to carry out such alterations or additions (which must be specified in the notice), the undertaker must pay to Network Rail the reasonable cost of those alterations or additions including, in respect of any such alterations and additions as are to be permanent, a capitalised sum representing the increase of the costs which may be expected to be reasonably incurred by Network Rail in maintaining, working and, when necessary, renewing any such alterations or additions.
+**21.**[^c-4d2299949f9048dd0aafa072c4900644] (1) If any permanent or temporary alterations or additions to railway property are reasonably necessary in consequence of the construction of a specified work, or during a period of 12 months after the completion of that work, in order to ensure the safety of railway property or the continued safe operation of the railway of Network Rail, such alterations and additions may be carried out by Network Rail; and if Network Rail gives to the undertaker 56 days' notice of its intention to carry out such alterations or additions (which must be specified in the notice), the undertaker must pay to Network Rail the reasonable cost of those alterations or additions including, in respect of any such alterations and additions as are to be permanent, a capitalised sum representing the increase of the costs which may be expected to be reasonably incurred by Network Rail in maintaining, working and, when necessary, renewing any such alterations or additions.
 
 (2) The engineer must, in respect of the capitalised sums referred to in this paragraph and paragraph 22(a) provide such details of the formula by which those sums have been calculated as the undertaker may reasonably require.
 
 (3) If the cost of maintaining, working or renewing railway property is reduced in consequence of any such alterations or additions, a capitalised sum representing the saving must be set off against any sum payable by the undertaker to Network Rail under this paragraph.
 
-**22.**[^key-cc9e6559e479aa0dc6969cf589744c3f] The undertaker must repay to Network Rail all reasonable fees, costs, charges and expenses reasonably incurred by Network Rail—
+**22.**[^c-cc9e6559e479aa0dc6969cf589744c3f] The undertaker must repay to Network Rail all reasonable fees, costs, charges and expenses reasonably incurred by Network Rail—
 
 - (a) in constructing any part of a specified work on behalf of the undertaker as provided by any protective works under the provisions of paragraph 17(4) including, in respect of any permanent protective works, a capitalised sum representing the cost of maintaining and renewing those works;
 - (b) in respect of the approval by the engineer of plans submitted by the undertaker and the supervision by the engineer of the construction of a specified work;
@@ -203,7 +203,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 - (d) in respect of any special traffic working resulting from any speed restrictions which are in their opinion of the engineer, required to be imposed by reason or in consequence of the constructions or failure of a specified work which may be reasonably necessary for the same reason; and
 - (e) in respect of any additional temporary lighting of railway property in the vicinity of the specified works, being lighting made reasonably necessary by reason or in consequence of the construction or failure of a specified work.
 
-**23.**[^key-fbe327583dc6cbe0ce8d4f11afb4e698] (1) In this paragraph—
+**23.**[^c-fbe327583dc6cbe0ce8d4f11afb4e698] (1) In this paragraph—
 
 - “**EMI**” means, subject to sub-paragraph (2), electromagnetic interference with Network Rail apparatus generated by the operation of the authorised works where such interference is of a level which adversely affects the safe operation of Network Rail's apparatus; and
 - “**Network Rail's apparatus**” means any lines, circuits, wires, apparatus or equipment (whether or not modified or installed as part of the authorised works) which are owned or used by Network Rail for the purpose of transmitting or receiving electrical energy or of radio, telegraphic, telephonic, electric, electronic or other like means of signalling or other communications.
@@ -239,13 +239,13 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (11) In relation to any dispute arising under this paragraph the reference in article 38 (arbitration) to a single arbitrator to be agreed between the parties will be read as a reference to the Institution of Engineering and Technology.
 
-**24.**[^key-b60bf78286c85c7276bed5c51e29ab34] If at any time after the completion of a specified work, not being a work vested in Network Rail, Network Rail gives notice to the undertaker informing it that the state of maintenance of any part of the specified work appears to be such as adversely affects the operation of railway property, the undertaker must, on receipt of such notice, take such steps as may be reasonably necessary to put that specified work in such state of maintenance as not adversely to affect railway property.
+**24.**[^c-b60bf78286c85c7276bed5c51e29ab34] If at any time after the completion of a specified work, not being a work vested in Network Rail, Network Rail gives notice to the undertaker informing it that the state of maintenance of any part of the specified work appears to be such as adversely affects the operation of railway property, the undertaker must, on receipt of such notice, take such steps as may be reasonably necessary to put that specified work in such state of maintenance as not adversely to affect railway property.
 
-**25.**[^key-e4c3035c7d67dd10d5ee45d732a91f44] The undertaker must not provide any illumination or illuminated sign or signal on or in connection with a specified work in the vicinity of any railway belonging to Network Rail unless it has first consulted Network Rail, and it must comply with Network Rail's reasonable requirements for preventing confusion between such illumination or illuminated sign or signal and any railway signal or other light used for controlling, directing or securing the safety of traffic on the railway.
+**25.**[^c-e4c3035c7d67dd10d5ee45d732a91f44] The undertaker must not provide any illumination or illuminated sign or signal on or in connection with a specified work in the vicinity of any railway belonging to Network Rail unless it has first consulted Network Rail, and it must comply with Network Rail's reasonable requirements for preventing confusion between such illumination or illuminated sign or signal and any railway signal or other light used for controlling, directing or securing the safety of traffic on the railway.
 
-**26.**[^key-affe2443f9e2c0bdcaa0402564b0256b] Any additional expenses which Network Rail may reasonably incur in altering, reconstructing or maintaining railway property under any powers existing at the making of this Order by reason of the existence of a specified work must, provided that 56 days' previous notice of the commencement of such alteration, reconstruction or maintenance has been given to the undertaker, be repaid by the undertaker to Network Rail.
+**26.**[^c-affe2443f9e2c0bdcaa0402564b0256b] Any additional expenses which Network Rail may reasonably incur in altering, reconstructing or maintaining railway property under any powers existing at the making of this Order by reason of the existence of a specified work must, provided that 56 days' previous notice of the commencement of such alteration, reconstruction or maintenance has been given to the undertaker, be repaid by the undertaker to Network Rail.
 
-**27.**[^key-e69ab083c04e1e3d0537bb669630065b] (1) The undertaker must pay to Network Rail all reasonable costs, charges, damages and expenses not otherwise provided for in this Schedule which may be occasioned to or reasonably incurred by Network Rail—
+**27.**[^c-e69ab083c04e1e3d0537bb669630065b] (1) The undertaker must pay to Network Rail all reasonable costs, charges, damages and expenses not otherwise provided for in this Schedule which may be occasioned to or reasonably incurred by Network Rail—
 
 - (a) by reason of the construction or maintenance of a specified work or the failure thereof; or
 - (b) by reason of any act or omission of the undertaker or of any person in its employ or of its contractors or others whilst engaged upon a specified work;
@@ -272,29 +272,29 @@ and the undertaker must indemnify and keep indemnified Network Rail from and aga
 - “**the relevant costs**” means the costs, direct losses and expenses (including loss of revenue) reasonably incurred by each train operator as a consequence of any restriction of the use of Network Rail's railway network as a result of the construction, maintenance or failure of a specified work or any such act or omission as mentioned in sub-paragraph (1); and
 - “**train operator**” means any person who is authorised to act as the operator of a train by a licence under section 8 of the Railways Act 1993.
 
-**28.**[^key-af498cd85c8765f963511d885b4b00a5] Network Rail must, on receipt of a request from the undertaker, from time to time provide the undertaker free of charge with written estimates of the costs, charges, expenses and other liabilities for which the undertaker is or will become liable under this Schedule (including the amount of the relevant costs mentioned in paragraph 27) and with such information as may reasonably enable the undertaker to assess the reasonableness of any such estimate or claim made or to he made pursuant to this Schedule (including any claim relating to those relevant costs).
+**28.**[^c-af498cd85c8765f963511d885b4b00a5] Network Rail must, on receipt of a request from the undertaker, from time to time provide the undertaker free of charge with written estimates of the costs, charges, expenses and other liabilities for which the undertaker is or will become liable under this Schedule (including the amount of the relevant costs mentioned in paragraph 27) and with such information as may reasonably enable the undertaker to assess the reasonableness of any such estimate or claim made or to he made pursuant to this Schedule (including any claim relating to those relevant costs).
 
-**29.**[^key-145aa6c5baf37d741895314d7f6a30d3] In the assessment of any sums payable to Network Rail under this Part, no account must be taken of any increase in the sums claimed that is attributable to any action taken by or any agreement entered into by Network Rail if that action or agreement was not reasonably necessary or was taken or entered into with a view to obtaining the payment of those sums by the undertaker under this Part or increasing the sums so payable.
+**29.**[^c-145aa6c5baf37d741895314d7f6a30d3] In the assessment of any sums payable to Network Rail under this Part, no account must be taken of any increase in the sums claimed that is attributable to any action taken by or any agreement entered into by Network Rail if that action or agreement was not reasonably necessary or was taken or entered into with a view to obtaining the payment of those sums by the undertaker under this Part or increasing the sums so payable.
 
-**30.**[^key-9bdb6584962b7520a69b863dccf5f2f6] The undertaker and Network Rail may, subject in the case of Network Rail to compliance with the terms of its network licence, enter into, and carry into effect, agreements for the transfer or grant to the undertaker of—
+**30.**[^c-9bdb6584962b7520a69b863dccf5f2f6] The undertaker and Network Rail may, subject in the case of Network Rail to compliance with the terms of its network licence, enter into, and carry into effect, agreements for the transfer or grant to the undertaker of—
 
 - (a) any railway property shown on the works and land plans and described in the book of reference;
 - (b) any lands, works or other property held in connection with any such railway property; and
 - (c) any rights and obligations (whether or not statutory) of Network Rail relating to any railway property or any lands, works or other property referred to in this paragraph.
 
-**31.**[^key-91bfd4588ae01ddc4438a4acc53208cb] Nothing in this Order, or in any enactment incorporated with or applied by this Order, prejudices or affects the operation of Part 1 of the Railways Act 1993.
+**31.**[^c-91bfd4588ae01ddc4438a4acc53208cb] Nothing in this Order, or in any enactment incorporated with or applied by this Order, prejudices or affects the operation of Part 1 of the Railways Act 1993.
 
-**32.**[^key-de1a339068b01b408f2451fdccea6d4f] The undertaker must give written notice to Network Rail if any application is proposed to be made by the undertaker for the Secretary of State's consent under article 8 (consent to transfer benefit of the Order) of this Order, and any such notice must be given no later than 28 days before any such application is made and must describe or give (as appropriate)—
+**32.**[^c-de1a339068b01b408f2451fdccea6d4f] The undertaker must give written notice to Network Rail if any application is proposed to be made by the undertaker for the Secretary of State's consent under article 8 (consent to transfer benefit of the Order) of this Order, and any such notice must be given no later than 28 days before any such application is made and must describe or give (as appropriate)—
 
 - (a) the nature of the application to be made;
 - (b) the extent of the geographical area to which the application relates; and
 - (c) the name and address of the person acting for the Secretary of State to whom the application is to be made.
 
-**33.**[^key-df28992f2541b02506bc9729f177e08b] The undertaker must no later than 28 days from the date that the plans submitted to and certified by the Secretary of State in accordance with article 35 (certification of plans etc.) and Schedule 9 (documents to be certified) are certified by the Secretary of State, provide a set of those plans to Network Rail in a format specified by Network Rail.
+**33.**[^c-df28992f2541b02506bc9729f177e08b] The undertaker must no later than 28 days from the date that the plans submitted to and certified by the Secretary of State in accordance with article 35 (certification of plans etc.) and Schedule 9 (documents to be certified) are certified by the Secretary of State, provide a set of those plans to Network Rail in a format specified by Network Rail.
 
 ### PART 4 — FOR THE PROTECTION OF CANAL & RIVER TRUST
 
-#### 34. Interpretation[^key-046a5b0836e2e087a2a55b0bd631e066]
+#### 34. Interpretation[^c-046a5b0836e2e087a2a55b0bd631e066]
 
 (1) For the protection of the Trust the following provisions of this Part of this Schedule have effect, unless otherwise agreed in writing between the undertaker and the Trust.
 
@@ -324,7 +324,7 @@ and the undertaker must indemnify and keep indemnified Network Rail from and aga
 
 (3) Where the Code of Practice applies to any works or matter that are part of the authorised development or that form part of the protective works and there is an inconsistency between these protective provisions and the Code of Practice, the part of the Code of Practice that is inconsistent with these protective provisions will not apply and these protective provisions will apply.
 
-#### 35. Powers requiring the Trust's consent[^key-3f863c8a83f52eb2f08d4e4c3e59f8ba]
+#### 35. Powers requiring the Trust's consent[^c-3f863c8a83f52eb2f08d4e4c3e59f8ba]
 
 (1) The undertaker must not in the exercise of the powers conferred by this Order obstruct or interfere with pedestrian or vehicular access to the waterway or towpath unless such obstruction or interference with such access is with the consent of the Trust.
 
@@ -358,7 +358,7 @@ and the undertaker must indemnify and keep indemnified Network Rail from and aga
 
 (14) Except in the case of emergencies, the undertaker must provide the Trust with 28 days written notice before interfering with the waterway for the purposes of maintaining or inspecting the authorised development and must comply with any reasonable conditions which the Trust may impose in accordance with the Code of Practice.
 
-#### 36. Approval of plans, protective works etc.[^key-b8de351b6c41c495349f7ebf32dc6b7b]
+#### 36. Approval of plans, protective works etc.[^c-b8de351b6c41c495349f7ebf32dc6b7b]
 
 (1) Before commencing construction of any specified works including any temporary works, the undertaker must supply to the Trust proper and sufficient plans of that work, the form and application fee which is ordinarily required by the Trust's engineer in accordance with the Code of Practice and such further particulars available to it as the Trust may within 28 days of the submission of the plans reasonably require for the approval of the engineer and must not commence such construction of a specified work until plans of that work have been approved in writing by the engineer or settled by arbitration and for the avoidance of doubt the approval of the engineer may be subject to any reasonable conditions including a requirement that the specified work is undertaken at a reasonable time specified by the engineer.
 
@@ -373,18 +373,18 @@ and such protective works must be constructed by the undertaker or by the Trust 
 
 (4) In the event that the undertaker fails to complete the construction of, or part of, the specified works the Trust may, if it is reasonably required in order to avoid detriment, serve on the undertaker a notice in writing requesting that construction be completed. Any notice served under this sub-paragraph must state the works that are to be completed by the undertaker and lay out a reasonable timetable for the works' completion. If the undertaker fails to comply with this notice within 35 days, the Trust may construct any of the specified works, or part of such works, (together with any adjoining works) in order to complete the construction of, or part of, the specified works or make such works and the undertaker must reimburse within 28 days to the Trust all costs, fees, charges and expenses it has reasonably incurred in carrying out such works.
 
-#### 37. Design of works[^key-5552880ec794e5fd40d950f3b1ca77db]
+#### 37. Design of works[^c-5552880ec794e5fd40d950f3b1ca77db]
 
 Without prejudice to its obligations under the foregoing provisions of this Part of this Schedule the undertaker must consult, collaborate and respond constructively to any reasonable approach, suggestion, proposal or initiative made by the Trust on—
 
 - (a) the design and appearance of the specified works or protective works including the materials to be used for their construction; and
 - (b) the environmental effects of those works; and must have regard to such views as may be expressed by the Trust in response to such consultation pursuant in particular to the requirements imposed on the Trust by section 22 (general environmental and recreational duties) of the British Waterways Act 1995 [^c24030991] and to the interest of the Trust in preserving and enhancing the environment of its waterways.
 
-#### 38. Notice of works[^key-76c1219740e488047bdaf703c60956c7]
+#### 38. Notice of works[^c-76c1219740e488047bdaf703c60956c7]
 
 The undertaker must give to the engineer 28 days' notice of its intention to commence the construction of any of the specified or protective works, or, in the case of repair carried out in an emergency, such notice as may be reasonably practicable so that, in particular, the Trust may where appropriate arrange for the publication of notices bringing those works to the attention of users of the Trust's network.
 
-#### 39. Construction of specified works[^key-71135f3d602672d92f3ca914d8dea13a]
+#### 39. Construction of specified works[^c-71135f3d602672d92f3ca914d8dea13a]
 
 (1) Any specified or protective works must, when commenced, be constructed—
 
@@ -399,11 +399,11 @@ The undertaker must give to the engineer 28 days' notice of its intention to com
 
 (3) Following the completion of the construction of the specified works, the undertaker must restore the waterway to a condition no less satisfactory than its condition immediately prior to the commencement of those works unless otherwise agreed between the undertaker and the Trust.
 
-#### 40. Prevention of pollution[^key-0109c40b5b907aae800356f3cef17a01]
+#### 40. Prevention of pollution[^c-0109c40b5b907aae800356f3cef17a01]
 
 The undertaker must not in the course of constructing the authorised development or a protective work or otherwise in connection therewith do or permit anything which may result in the pollution of the waterway or the deposit of materials therein and must take such steps as the engineer may reasonably require to avoid or make good any breach of its obligations under this paragraph.
 
-#### 41. Access to work – provision of information[^key-bdec88c75f5fb37c2076e0c4a0a15081]
+#### 41. Access to work – provision of information[^c-bdec88c75f5fb37c2076e0c4a0a15081]
 
 (1) The undertaker on being given reasonable notice must—
 
@@ -415,17 +415,17 @@ The undertaker must not in the course of constructing the authorised development
 - (a) at all times afford reasonable facilities to the undertaker and its agents for access to any works carried out by the Trust under this Part of this Schedule during their construction; and
 - (b) supply the undertaker with such information as it may reasonably require with regard to such works or the method of constructing them and the undertaker must reimburse the Trust's reasonable costs in relation to the supply of such information.
 
-#### 42. Alterations to the waterway[^key-6a022060ebbe5e490077b973b3c5aaf2]
+#### 42. Alterations to the waterway[^c-6a022060ebbe5e490077b973b3c5aaf2]
 
 (1) If during the construction of a specified work or a protective work or during a period of 12 months after the completion of those works any alterations or additions, either permanent or temporary, to the waterway are reasonably necessary in consequence of the construction of the specified work or the protective work in order to avoid detriment, and provided that the Trust gives to the undertaker 56 days' notice of its intention to carry out such alterations or additions (which must be specified in the notice), the undertaker must pay to the Trust the reasonable costs of those alterations or additions including, in respect of any such alterations or additions as are to be permanent, a capitalised sum representing the increase of the costs which may be expected to be reasonably incurred by the Trust in maintaining, working and, when necessary, renewing any such alterations or additions.
 
 (2) If the cost of maintaining, working or renewing the waterway is reduced in consequence of any such alterations or additions a capitalised sum representing such saving is to be set off against any sum payable by the undertaker to the Trust under this paragraph.
 
-#### 43. Maintenance of works[^key-4696f44ec77dca0a9441627d3b3e9591]
+#### 43. Maintenance of works[^c-4696f44ec77dca0a9441627d3b3e9591]
 
 If at any time after the completion of a specified work or a protective work, not being a work vested in the Trust, the Trust gives notice to the undertaker informing it that it reasonably considers that the state of maintenance of the work appears to be such that the work is causing or likely to cause detriment, the undertaker must, on receipt of such notice, take such steps as may be reasonably necessary to put the work in such state of maintenance as not to cause such detriment
 
-#### 44. Repayment of the Trust's fees, etc.[^key-7254f2f847499f2c1dabd618fad9a71b]
+#### 44. Repayment of the Trust's fees, etc.[^c-7254f2f847499f2c1dabd618fad9a71b]
 
 (1) The undertaker must repay to the Trust in accordance with the Code of Practice all fees, costs, charges and expenses reasonably incurred by the Trust—
 
@@ -444,7 +444,7 @@ If at any time after the completion of a specified work or a protective work, no
 
 (4) The Trust must, when estimating and incurring any charge, cost or expense pursuant to sub-paragraph (1), do so with a view to being reasonably economic and acting as if the Trust were itself to fund the relevant fee, charge, cost or expense.
 
-#### 45. Making good of detriment; compensation and indemnity, etc.[^key-605321dc6f2f4545eb86872c6bc0665e]
+#### 45. Making good of detriment; compensation and indemnity, etc.[^c-605321dc6f2f4545eb86872c6bc0665e]
 
 (1) The undertaker must be responsible for and make good to the Trust all costs, charges, damages, expenses and losses not otherwise provided for in this Part of this Schedule which may be occasioned to and reasonably incurred by the Trust—
 
@@ -455,15 +455,15 @@ If at any time after the completion of a specified work or a protective work, no
 
 (3) The Trust must give the undertaker reasonable notice of any such claim or demand as aforesaid and no settlement or compromise of such a claim or demand is to be made without the prior consent of the undertaker.
 
-#### 46. Arbitration[^key-ed8215f47c2fe2544cea1a7f4f73ce03]
+#### 46. Arbitration[^c-ed8215f47c2fe2544cea1a7f4f73ce03]
 
 Any difference arising between the undertaker and the Trust under this Part of this Schedule (other than a difference as to the meaning or construction of this Part of this Schedule) must be referred to and settled by arbitration in accordance with article 38 (arbitration) of this Order.
 
-#### 47. Capitalised sums[^key-7ce5c750ec2e9b1bc94b1b211a4f9f97]
+#### 47. Capitalised sums[^c-7ce5c750ec2e9b1bc94b1b211a4f9f97]
 
 Any capitalised sum which is required to be paid under this Part of this Schedule must be calculated by multiplying the cost of the maintenance or renewal works to the waterway necessitated as a result of the operation of the authorised development by the number of times that the maintenance or renewal works will be required during the operation of the authorised development.
 
-#### 48. Vehicles, plant and machinery[^key-8cb606476fbb743004d60014a1735735]
+#### 48. Vehicles, plant and machinery[^c-8cb606476fbb743004d60014a1735735]
 
 The undertaker must not use any land or property of the Trust forming part of the waterway for the passage or siting of vehicles, plant or machinery employed in the construction of the specified works other than—
 
@@ -472,11 +472,11 @@ The undertaker must not use any land or property of the Trust forming part of th
   - (i) for the prevention of detriment; or
   - (ii) in order to avoid or reduce any inconvenience to the Trust, its officers and agents or the users of the waterway.
 
-#### 49. Fencing[^key-d354192fdad5b4a0bd6c802dc2dca81b]
+#### 49. Fencing[^c-d354192fdad5b4a0bd6c802dc2dca81b]
 
 Where so required by the engineer and where that requirement has been evidenced in writing the undertaker must to the reasonable satisfaction of the engineer and upon providing reasonable notice of not less than 28 days fence off a specified work or a protective work or take such other steps as the engineer may reasonably require to be taken for the purpose of separating a specified work or a protective work from the waterway, whether on a temporary or permanent basis or both.
 
-#### 50. Survey of waterway[^key-c822d43e01eafa311403c546f9f1199f]
+#### 50. Survey of waterway[^c-c822d43e01eafa311403c546f9f1199f]
 
 (1) Before the commencement of construction of any part of the specified works and again following practical completion of the specified works the undertaker will appoint a surveyor (“the surveyor”) at the undertaker's cost, to be approved by the Trust and the undertaker, who must undertake a survey including a dip-survey to measure the depth of the waterway (“the survey”) or so much of the waterway and of any land and existing works of the undertaker which may provide support for the waterway as will or may be affected by the specified works.
 
@@ -489,17 +489,17 @@ Where so required by the engineer and where that requirement has been evidenced 
 
 (4) Copies of the survey must be provided to both the Trust and the undertaker at no cost to the Trust.
 
-#### 51. Further engagement[^key-9ccf8c34e430f35d0ec610185129e7a5]
+#### 51. Further engagement[^c-9ccf8c34e430f35d0ec610185129e7a5]
 
 The undertaker will continue to engage with the Trust in relation to the acquisition of the necessary rights and interests from the Trust by private treaty.
 
 ### PART 5 — FOR THE PROTECTION OF NATIONAL GRID AS ELECTRICITY UNDERTAKER
 
-#### 52. Application[^key-6c919cb4f7af4c702d152bbd9538cfa4]
+#### 52. Application[^c-6c919cb4f7af4c702d152bbd9538cfa4]
 
 The following provisions have effect for the protection of National Grid unless otherwise agreed in writing between the undertaker and National Grid.
 
-#### 53. Interpretation[^key-f54f00ebc1664a5d804c7f0d7006a919]
+#### 53. Interpretation[^c-f54f00ebc1664a5d804c7f0d7006a919]
 
 In this Part of this Schedule—
 
@@ -523,11 +523,11 @@ In this Part of this Schedule—
   - (b) may in any way adversely affect any apparatus the removal of which has not been required by the undertaker under paragraph 56(2) or otherwise; or
   - (c) include any of the activities that are referred to in National Grid's polices for development near overhead lines EN43-8 and HSE's guidance note 6 “Avoidance of Danger from Overhead Lines”.
 
-#### 54. On Street Apparatus[^key-6f6f1597907c2bdcc6deba606da6e719]
+#### 54. On Street Apparatus[^c-6f6f1597907c2bdcc6deba606da6e719]
 
 Except for paragraphs 58, 59 and 60 of this Schedule which will apply in respect of the exercise of all or any powers under the Order affecting the rights and apparatus of National Grid, the other provisions of this Schedule do not apply to apparatus in respect of which the relations between the undertaker and National Grid are regulated by the provisions of Part 3 of the 1991 Act.
 
-#### 55. Acquisition of land[^key-524fb794bb8cffa0d456953ca449a21b]
+#### 55. Acquisition of land[^c-524fb794bb8cffa0d456953ca449a21b]
 
 (1) Regardless of any provision in this Order or anything shown on the land plans or contained in the book of reference to the Order, the undertaker may not appropriate or acquire or take temporary possession of any land interest or appropriate, acquire, extinguish, interfere with or override any easement, other interest or right or apparatus of National Grid without the consent of National Grid, which must not be unreasonably withheld or delayed.
 
@@ -537,7 +537,7 @@ Except for paragraphs 58, 59 and 60 of this Schedule which will apply in respect
 
 (4) No agreement or consent granted by National Grid under any other paragraph of Part 5 of this Schedule constitutes agreement under sub-paragraph (1).
 
-#### 56. Removal of apparatus[^key-f6bc199742b99920155b3118abd36a1c]
+#### 56. Removal of apparatus[^c-f6bc199742b99920155b3118abd36a1c]
 
 (1) If, in the exercise of the agreement reached in accordance with paragraph 55 or in any other authorised manner, the undertaker acquires any interest in any land in which any apparatus is placed, that apparatus must not be removed under this Part of this Schedule and any right of National Grid to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed, and is in operation to the reasonable satisfaction of National Grid in accordance with sub-paragraphs (2) to (5) inclusive.
 
@@ -554,13 +554,13 @@ Except for paragraphs 58, 59 and 60 of this Schedule which will apply in respect
 
 (6) Where there is any inconsistency or duplication between the provisions set out in this Part of this Schedule relating to the relocation or removal of apparatus/including but not limited to the payment of costs and expenses relating to such relocation or removal of apparatus) and the provisions of any existing easement, rights, agreements and licences granted, used, enjoyed or exercised by National Grid or other enactments relied upon by National Grid as of right or other use in relation to the apparatus, then the provisions in Part 5 of this Schedule will prevail.
 
-#### 57. Facilities and rights for alternative apparatus[^key-b04bfada81ab906abe3ba8f732c0204a]
+#### 57. Facilities and rights for alternative apparatus[^c-b04bfada81ab906abe3ba8f732c0204a]
 
 (1) Where, in accordance with the provisions of this Part of this Schedule, the undertaker affords to or secures for National Grid facilities and rights in land for the construction, use, maintenance and protection of alternative apparatus in substitution for apparatus to be removed, those facilities and rights must be granted upon such terms and conditions as may be agreed between the undertaker and National Grid and must be no less favourable on the whole to National Grid than the facilities and rights enjoyed by it in respect of the apparatus to be removed unless otherwise agreed by National Grid.
 
 (2) If the facilities and rights to be afforded by the undertaker and agreed with National Grid under sub-paragraph (1) above in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted, are less favourable on the whole to National Grid than the facilities and rights enjoyed by it in respect of the apparatus to be removed and the terms and conditions to which those facilities and rights are subject in the matter will be referred to arbitration in accordance with paragraph 64 of this Part of this Schedule and the arbitrator must make such provision for the payment of compensation by the undertaker to National Grid as appears to the arbitrator to be reasonable having regard to all the circumstances of the particular case.
 
-#### 58. Retained apparatus: Protection of National Grid as Electricity Undertaker[^key-7a61d948ba511e7de99ed0c03c7aa41c]
+#### 58. Retained apparatus: Protection of National Grid as Electricity Undertaker[^c-7a61d948ba511e7de99ed0c03c7aa41c]
 
 (1) Not less than 56 days before the commencement of any specified work that is near to or will or may affect any apparatus, the removal of which has not been required by the undertaker under paragraph 56(2), the undertaker must submit to National Grid a plan of the works to be executed and seek from National Grid details of the underground extent of their electricity tower foundations.
 
@@ -609,7 +609,7 @@ Except for paragraphs 58, 59 and 60 of this Schedule which will apply in respect
 
 (12) At all times when carrying out any works authorised under the Order, the undertaker must comply with National Grid's policies for development near overhead lines EN43-8 and HSE's guidance note 6 “Avoidance of Danger from Overhead Lines”.
 
-#### 59. Expenses[^key-0fe0dbd07e18c68095e32cf6aa56e6f3]
+#### 59. Expenses[^c-0fe0dbd07e18c68095e32cf6aa56e6f3]
 
 (1) Subject to the following provisions of this paragraph, the undertaker must pay to National Grid on demand all reasonable charges, costs and expenses reasonably anticipated or incurred by National Grid in consequence of the execution of any authorised development including without limitation in respect of:—
 
@@ -638,7 +638,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (5) An amount which apart from this sub-paragraph would be payable to National Grid in respect of works by virtue of sub-paragraph (1) will, if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on National Grid any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, be reduced by the amount which represents that benefit.
 
-#### 60. Indemnity[^key-da1ad614a93dacab01403133a33ad909]
+#### 60. Indemnity[^c-da1ad614a93dacab01403133a33ad909]
 
 (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works authorised by this Part of this Schedule or in consequence of the construction, use, maintenance or failure of any of the authorised development by or on behalf of the undertaker or in consequence of any act or default of the undertaker (or any person employed or authorised by him) in the course of carrying out such works, including without limitation works carried out by the undertaker under this Part of this Schedule or any subsidence resulting from any of these works, any damage is caused to any apparatus or alternative apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of the authorised development) or property of National Grid the undertaker is liable for the cost reasonably incurred by National Grid in making good such damage, or there is any interruption in any service provided, or in the supply of any goods by National Grid, or National Grid becomes liable to pay any amount to any third party, the undertaker will—
 
@@ -658,35 +658,35 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (6) In the event that the undertaker fails to comply with sub-paragraph (5), nothing in Part 5 of this Schedule will prevent National Grid from seeking injunctive relief (or any other equitable remedy) in any court of competent jurisdiction.
 
-#### 61. Enactments and agreements[^key-faf334f0c387de7c5cca6adc322d5240]
+#### 61. Enactments and agreements[^c-faf334f0c387de7c5cca6adc322d5240]
 
 Save to the extent provided for to the contrary elsewhere in this Part of this Schedule or by agreement in writing between National Grid and the undertaker, nothing in this Part of this Schedule will affect the provisions of any enactment or agreement regulating the relations between the undertaker and National Grid in respect of any apparatus laid or erected in land belonging to the undertaker on the date on which this Order is made.
 
-#### 62. Co-operation[^key-d3780f3e163011f85b690832144abd43]
+#### 62. Co-operation[^c-d3780f3e163011f85b690832144abd43]
 
 (1) Where in consequence of the proposed construction of any of the authorised development, the undertaker or National Grid requires the removal of apparatus under paragraph 56(2) or National Grid makes requirements for the protection or alteration of apparatus under paragraph 58, the undertaker must use its best endeavours to co-ordinate the execution of the works in the interests of safety and the efficient and economic execution of the authorised development and taking into account the need to ensure the safe and efficient operation of National Grid's undertaking and National Grid must use its best endeavours to co-operate with the undertaker for that purpose.
 
 (2) For the avoidance of doubt whenever National Grid's consent, agreement or approval to is required in relation to plans, documents or other information submitted by the undertaker or the taking of action by the undertaker, it must not be unreasonably withheld or delayed.
 
-#### 63. Access[^key-acbb753645a6490db550aa6a0fd867d4]
+#### 63. Access[^c-acbb753645a6490db550aa6a0fd867d4]
 
 If in consequence of the agreement reached in accordance with paragraph 55(1) or the powers granted under this Order the access to any apparatus is materially obstructed, the undertaker must provide such alternative means of access to such apparatus as will enable National Grid to maintain or use the apparatus no less effectively than was possible before such obstruction.
 
-#### 64. Arbitration[^key-4de447b5c04626c811f7b25dd691fa28]
+#### 64. Arbitration[^c-4de447b5c04626c811f7b25dd691fa28]
 
 Save for differences or disputes arising under paragraphs 56(2), 56(4), 57(1), 58 any difference or dispute arising between the undertaker and National Grid under this Part of this Schedule must, unless otherwise agreed in writing between the undertaker and National Grid, be determined by arbitration in accordance with article 38 (arbitration).
 
-#### 65. Notices[^key-a372ed52360f91e70ebe30b909b63ba2]
+#### 65. Notices[^c-a372ed52360f91e70ebe30b909b63ba2]
 
 The plans submitted to National Grid by the undertaker pursuant to paragraph 58(1) must be sent to National Grid Plant Protection at **plantprotection@nationalgrid.com** or such other address as National Grid may from time to time appoint instead for that purpose and notify to the undertaker in writing.
 
 ### PART 6 — FOR THE PROTECTION OF HIGHWAYS ENGLAND
 
-#### 66. Application[^key-091be635231c6664262d912fbf05d19d]
+#### 66. Application[^c-091be635231c6664262d912fbf05d19d]
 
 The provisions of this Part of this Schedule apply to the HE works and have effect unless otherwise agreed in writing between the undertaker and Highways England.
 
-#### 67. Interpretation[^key-addd4246f7b1c47c5a25650be0597abb]
+#### 67. Interpretation[^c-addd4246f7b1c47c5a25650be0597abb]
 
 (1) Where terms defined in article 2 are inconsistent with the terms defined in sub-paragraph (2) below, the latter prevail.
 
@@ -723,7 +723,7 @@ The provisions of this Part of this Schedule apply to the HE works and have effe
 - “**the programme of works**” means a document setting out the sequence and timetabling of the HE works; and
 - “**utilities**” means any pipes, wires, cables or other equipment belonging to any person or body having power or consent to undertake street works under the 1991 Act.
 
-#### 68. Prior approvals[^key-b1a000d2bf71e287a6bdc714cf9c6c85]
+#### 68. Prior approvals[^c-b1a000d2bf71e287a6bdc714cf9c6c85]
 
 (1) The HE works must not commence until—
 
@@ -744,7 +744,7 @@ The provisions of this Part of this Schedule apply to the HE works and have effe
 
 (5) Within 28 days of receipt of a written request by the undertaker and in any event prior to the commencement of the HE works, Highways England must inform the undertaker of the identity of the person who will act as the point of contact on behalf of Highways England for consideration of the information required under sub-paragraph (1).
 
-#### 69. Construction of the HE works[^key-c638ffb08fbdbad6d4c1d8d2d9798803]
+#### 69. Construction of the HE works[^c-c638ffb08fbdbad6d4c1d8d2d9798803]
 
 (1) The HE works must be constructed to the satisfaction of Highways England acting reasonably and in accordance (where relevant) with—
 
@@ -769,7 +769,7 @@ The provisions of this Part of this Schedule apply to the HE works and have effe
 
 (9) In constructing the HE works, the undertaker must at its own expense divert or protect all utilities and all agreed alterations and reinstatement of highway over existing utilities must be constructed to the reasonable satisfaction of Highways England.
 
-#### 70. Payments[^key-c5f78d1d02d3bd8256bd4126039fcb71]
+#### 70. Payments[^c-c5f78d1d02d3bd8256bd4126039fcb71]
 
 (1) The undertaker must fund the full cost of the HE works and any incidental and amended works approved under this Part of this Schedule and must also pay to Highways England in respect of the HE works a sum equal to the whole of any costs and expenses which Highways England reasonably incurs (including costs and expenses for using internal or external staff) in relation to—
 
@@ -785,7 +785,7 @@ sub-paragraph (1) (a) to (e) together comprising “the estimated costs”.
 
 (3) Highways England is not entitled to costs or expenses incurred under any part of sub-paragraph (1) if those costs or expenses are included as part of the estimated costs under any other part of sub-paragraph (1).
 
-#### 71. Indemnity[^key-cb84e14469a6eae6bbfb04e86a7ca060]
+#### 71. Indemnity[^c-cb84e14469a6eae6bbfb04e86a7ca060]
 
 (1) The undertaker must in relation to the construction of the HE works indemnify Highways England from and against all costs, expenses, damages, losses and liabilities arising from any claim, demand, action or proceedings resulting from damage caused by the construction of the HE works provided that—
 
@@ -799,29 +799,29 @@ sub-paragraph (1) (a) to (e) together comprising “the estimated costs”.
 
 (4) In no circumstances is the undertaker liable to Highways England under this Part of this Schedule for any indirect or consequential loss or loss of profits.
 
-#### 72. Arbitration[^key-8e1757a1ad25db180ff57d128d934764]
+#### 72. Arbitration[^c-8e1757a1ad25db180ff57d128d934764]
 
 Any difference or dispute arising between the undertaker and Highways England under this Part of this Schedule must, unless otherwise agreed in writing between the undertaker and Highways England, be determined by arbitration in accordance with article 38 (arbitration).
 
 ## Annotations
 
-[^key-1d6b3c0388e9d086a74aa8297f2583da]: Commencement: Sch. 6 para. 1 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-1d6b3c0388e9d086a74aa8297f2583da]: Commencement: Sch. 6 para. 1 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030901]: Marginal citation: [Section 106](https://www.legislation.gov.uk/uksi/2020/325/section/106) was substituted by the Digital Economy Act [2017 c.30](https://www.legislation.gov.uk/ukpga/2017/30), [section 4](https://www.legislation.gov.uk/ukpga/2017/30/section/4).
 
-[^key-18b343a0454097c62f230f803cdcdd11]: Commencement: Sch. 6 para. 2 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-18b343a0454097c62f230f803cdcdd11]: Commencement: Sch. 6 para. 2 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030911]: Marginal citation: [Part 10](https://www.legislation.gov.uk/uksi/2020/325/part/10) was substituted by Digital Economy Act 2017, section 4(2), Schedule 1.
 
-[^key-b260e41aaa1f27f966629d71deefefe5]: Commencement: Sch. 6 para. 3 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-b260e41aaa1f27f966629d71deefefe5]: Commencement: Sch. 6 para. 3 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-f630f37d15296da428552cceca62d6bf]: Commencement: Sch. 6 para. 4 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-f630f37d15296da428552cceca62d6bf]: Commencement: Sch. 6 para. 4 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-d127c4a72c9e7051b24fdfb5c14db677]: Commencement: Sch. 6 para. 5 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-d127c4a72c9e7051b24fdfb5c14db677]: Commencement: Sch. 6 para. 5 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-f9373d5618bcc01118c8d3b71dcea1e2]: Commencement: Sch. 6 para. 6 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-f9373d5618bcc01118c8d3b71dcea1e2]: Commencement: Sch. 6 para. 6 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-392a17c1552b54d4d37ae1ea1068eb10]: Commencement: Sch. 6 para. 7 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-392a17c1552b54d4d37ae1ea1068eb10]: Commencement: Sch. 6 para. 7 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030921]: Marginal citation: 1989 c 29.
 
@@ -833,142 +833,142 @@ Any difference or dispute arising between the undertaker and Highways England un
 
 [^c24030961]: Marginal citation: A new section 7 was substituted by section 5 of the Gas Act [1995 c.45](https://www.legislation.gov.uk/ukpga/1995/45) and was further amended by section 76 of the Utilities Act c. 27.
 
-[^key-1eccf83f29bf7d987c5ceb9dd5520477]: Commencement: Sch. 6 para. 8 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-1eccf83f29bf7d987c5ceb9dd5520477]: Commencement: Sch. 6 para. 8 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-f5f38942a12bf40c3af55ba9c50af5ce]: Commencement: Sch. 6 para. 9 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-f5f38942a12bf40c3af55ba9c50af5ce]: Commencement: Sch. 6 para. 9 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-c92ea1e43e0ef075bcbd4dc705868826]: Commencement: Sch. 6 para. 10 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-c92ea1e43e0ef075bcbd4dc705868826]: Commencement: Sch. 6 para. 10 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-503aecfc2f40b5479da96d55dcc64c03]: Commencement: Sch. 6 para. 11 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-503aecfc2f40b5479da96d55dcc64c03]: Commencement: Sch. 6 para. 11 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-3c50eef387c79e171ee5a5a9da24dbf7]: Commencement: Sch. 6 para. 12 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-3c50eef387c79e171ee5a5a9da24dbf7]: Commencement: Sch. 6 para. 12 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-b74be59e9288fc6d5ab1d44226202e91]: Commencement: Sch. 6 para. 13 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-b74be59e9288fc6d5ab1d44226202e91]: Commencement: Sch. 6 para. 13 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-2d3b0bdd1d7aa022ba26fe87b45e7449]: Commencement: Sch. 6 para. 14 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-2d3b0bdd1d7aa022ba26fe87b45e7449]: Commencement: Sch. 6 para. 14 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030971]: Marginal citation: [1993 c.43](https://www.legislation.gov.uk/ukpga/1993/43) amended by the Transport Act 2000, section 216, Schedule 17, Part I, paragraph 1, 4(1), (2)(a); Railways and Transport Safety Act 2003, s 16(5), Schedule 2, Pt 1, paras 1 and 5. Railways Act 2005, sections 1(1), 59(6), Schedule 1, Part 1, paragraph 3(1)(a), Schedule 13, Part 1 and SI 2015/1682.
 
 [^c24030981]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-bc48ead995d1503acaba632a174cb123]: Commencement: Sch. 6 para. 15 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-bc48ead995d1503acaba632a174cb123]: Commencement: Sch. 6 para. 15 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-e2a2a77071a128832d6b7a7d8e032d1d]: Commencement: Sch. 6 para. 16 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-e2a2a77071a128832d6b7a7d8e032d1d]: Commencement: Sch. 6 para. 16 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-97b2a0094355a2ed04948a088afd6676]: Commencement: Sch. 6 para. 17 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-97b2a0094355a2ed04948a088afd6676]: Commencement: Sch. 6 para. 17 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-c1ea812cdc8c90d0e2dd0c12b5745b2f]: Commencement: Sch. 6 para. 18 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-c1ea812cdc8c90d0e2dd0c12b5745b2f]: Commencement: Sch. 6 para. 18 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-cd4b62121ae0590cd97856592437188f]: Commencement: Sch. 6 para. 19 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-cd4b62121ae0590cd97856592437188f]: Commencement: Sch. 6 para. 19 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-ff1fba0001c34374737823e1fe8545ff]: Commencement: Sch. 6 para. 20 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-ff1fba0001c34374737823e1fe8545ff]: Commencement: Sch. 6 para. 20 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-4d2299949f9048dd0aafa072c4900644]: Commencement: Sch. 6 para. 21 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-4d2299949f9048dd0aafa072c4900644]: Commencement: Sch. 6 para. 21 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-cc9e6559e479aa0dc6969cf589744c3f]: Commencement: Sch. 6 para. 22 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-cc9e6559e479aa0dc6969cf589744c3f]: Commencement: Sch. 6 para. 22 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-fbe327583dc6cbe0ce8d4f11afb4e698]: Commencement: Sch. 6 para. 23 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-fbe327583dc6cbe0ce8d4f11afb4e698]: Commencement: Sch. 6 para. 23 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-b60bf78286c85c7276bed5c51e29ab34]: Commencement: Sch. 6 para. 24 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-b60bf78286c85c7276bed5c51e29ab34]: Commencement: Sch. 6 para. 24 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-e4c3035c7d67dd10d5ee45d732a91f44]: Commencement: Sch. 6 para. 25 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-e4c3035c7d67dd10d5ee45d732a91f44]: Commencement: Sch. 6 para. 25 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-affe2443f9e2c0bdcaa0402564b0256b]: Commencement: Sch. 6 para. 26 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-affe2443f9e2c0bdcaa0402564b0256b]: Commencement: Sch. 6 para. 26 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-e69ab083c04e1e3d0537bb669630065b]: Commencement: Sch. 6 para. 27 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-e69ab083c04e1e3d0537bb669630065b]: Commencement: Sch. 6 para. 27 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-af498cd85c8765f963511d885b4b00a5]: Commencement: Sch. 6 para. 28 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-af498cd85c8765f963511d885b4b00a5]: Commencement: Sch. 6 para. 28 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-145aa6c5baf37d741895314d7f6a30d3]: Commencement: Sch. 6 para. 29 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-145aa6c5baf37d741895314d7f6a30d3]: Commencement: Sch. 6 para. 29 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-9bdb6584962b7520a69b863dccf5f2f6]: Commencement: Sch. 6 para. 30 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-9bdb6584962b7520a69b863dccf5f2f6]: Commencement: Sch. 6 para. 30 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-91bfd4588ae01ddc4438a4acc53208cb]: Commencement: Sch. 6 para. 31 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-91bfd4588ae01ddc4438a4acc53208cb]: Commencement: Sch. 6 para. 31 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-de1a339068b01b408f2451fdccea6d4f]: Commencement: Sch. 6 para. 32 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-de1a339068b01b408f2451fdccea6d4f]: Commencement: Sch. 6 para. 32 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-df28992f2541b02506bc9729f177e08b]: Commencement: Sch. 6 para. 33 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-df28992f2541b02506bc9729f177e08b]: Commencement: Sch. 6 para. 33 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-046a5b0836e2e087a2a55b0bd631e066]: Commencement: Sch. 6 para. 34 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-046a5b0836e2e087a2a55b0bd631e066]: Commencement: Sch. 6 para. 34 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-3f863c8a83f52eb2f08d4e4c3e59f8ba]: Commencement: Sch. 6 para. 35 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-3f863c8a83f52eb2f08d4e4c3e59f8ba]: Commencement: Sch. 6 para. 35 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-b8de351b6c41c495349f7ebf32dc6b7b]: Commencement: Sch. 6 para. 36 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-b8de351b6c41c495349f7ebf32dc6b7b]: Commencement: Sch. 6 para. 36 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-5552880ec794e5fd40d950f3b1ca77db]: Commencement: Sch. 6 para. 37 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-5552880ec794e5fd40d950f3b1ca77db]: Commencement: Sch. 6 para. 37 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030991]: Marginal citation: [1995 c.i](https://www.legislation.gov.uk/ukla/1995/1).
 
-[^key-76c1219740e488047bdaf703c60956c7]: Commencement: Sch. 6 para. 38 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-76c1219740e488047bdaf703c60956c7]: Commencement: Sch. 6 para. 38 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-71135f3d602672d92f3ca914d8dea13a]: Commencement: Sch. 6 para. 39 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-71135f3d602672d92f3ca914d8dea13a]: Commencement: Sch. 6 para. 39 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24031001]: Marginal citation: [1968 c.73](https://www.legislation.gov.uk/ukpga/1968/73), amended by [S.I. 2012/1659](https://www.legislation.gov.uk/uksi/2012/1659).
 
-[^key-0109c40b5b907aae800356f3cef17a01]: Commencement: Sch. 6 para. 40 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-0109c40b5b907aae800356f3cef17a01]: Commencement: Sch. 6 para. 40 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-bdec88c75f5fb37c2076e0c4a0a15081]: Commencement: Sch. 6 para. 41 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-bdec88c75f5fb37c2076e0c4a0a15081]: Commencement: Sch. 6 para. 41 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-6a022060ebbe5e490077b973b3c5aaf2]: Commencement: Sch. 6 para. 42 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-6a022060ebbe5e490077b973b3c5aaf2]: Commencement: Sch. 6 para. 42 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-4696f44ec77dca0a9441627d3b3e9591]: Commencement: Sch. 6 para. 43 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-4696f44ec77dca0a9441627d3b3e9591]: Commencement: Sch. 6 para. 43 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-7254f2f847499f2c1dabd618fad9a71b]: Commencement: Sch. 6 para. 44 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-7254f2f847499f2c1dabd618fad9a71b]: Commencement: Sch. 6 para. 44 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-605321dc6f2f4545eb86872c6bc0665e]: Commencement: Sch. 6 para. 45 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-605321dc6f2f4545eb86872c6bc0665e]: Commencement: Sch. 6 para. 45 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-ed8215f47c2fe2544cea1a7f4f73ce03]: Commencement: Sch. 6 para. 46 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-ed8215f47c2fe2544cea1a7f4f73ce03]: Commencement: Sch. 6 para. 46 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-7ce5c750ec2e9b1bc94b1b211a4f9f97]: Commencement: Sch. 6 para. 47 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-7ce5c750ec2e9b1bc94b1b211a4f9f97]: Commencement: Sch. 6 para. 47 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-8cb606476fbb743004d60014a1735735]: Commencement: Sch. 6 para. 48 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-8cb606476fbb743004d60014a1735735]: Commencement: Sch. 6 para. 48 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-d354192fdad5b4a0bd6c802dc2dca81b]: Commencement: Sch. 6 para. 49 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-d354192fdad5b4a0bd6c802dc2dca81b]: Commencement: Sch. 6 para. 49 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-c822d43e01eafa311403c546f9f1199f]: Commencement: Sch. 6 para. 50 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-c822d43e01eafa311403c546f9f1199f]: Commencement: Sch. 6 para. 50 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-9ccf8c34e430f35d0ec610185129e7a5]: Commencement: Sch. 6 para. 51 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-9ccf8c34e430f35d0ec610185129e7a5]: Commencement: Sch. 6 para. 51 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-6c919cb4f7af4c702d152bbd9538cfa4]: Commencement: Sch. 6 para. 52 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-6c919cb4f7af4c702d152bbd9538cfa4]: Commencement: Sch. 6 para. 52 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-f54f00ebc1664a5d804c7f0d7006a919]: Commencement: Sch. 6 para. 53 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-f54f00ebc1664a5d804c7f0d7006a919]: Commencement: Sch. 6 para. 53 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-6f6f1597907c2bdcc6deba606da6e719]: Commencement: Sch. 6 para. 54 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-6f6f1597907c2bdcc6deba606da6e719]: Commencement: Sch. 6 para. 54 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-524fb794bb8cffa0d456953ca449a21b]: Commencement: Sch. 6 para. 55 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-524fb794bb8cffa0d456953ca449a21b]: Commencement: Sch. 6 para. 55 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-f6bc199742b99920155b3118abd36a1c]: Commencement: Sch. 6 para. 56 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-f6bc199742b99920155b3118abd36a1c]: Commencement: Sch. 6 para. 56 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-b04bfada81ab906abe3ba8f732c0204a]: Commencement: Sch. 6 para. 57 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-b04bfada81ab906abe3ba8f732c0204a]: Commencement: Sch. 6 para. 57 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-7a61d948ba511e7de99ed0c03c7aa41c]: Commencement: Sch. 6 para. 58 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-7a61d948ba511e7de99ed0c03c7aa41c]: Commencement: Sch. 6 para. 58 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-0fe0dbd07e18c68095e32cf6aa56e6f3]: Commencement: Sch. 6 para. 59 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-0fe0dbd07e18c68095e32cf6aa56e6f3]: Commencement: Sch. 6 para. 59 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-da1ad614a93dacab01403133a33ad909]: Commencement: Sch. 6 para. 60 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-da1ad614a93dacab01403133a33ad909]: Commencement: Sch. 6 para. 60 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-faf334f0c387de7c5cca6adc322d5240]: Commencement: Sch. 6 para. 61 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-faf334f0c387de7c5cca6adc322d5240]: Commencement: Sch. 6 para. 61 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-d3780f3e163011f85b690832144abd43]: Commencement: Sch. 6 para. 62 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-d3780f3e163011f85b690832144abd43]: Commencement: Sch. 6 para. 62 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-acbb753645a6490db550aa6a0fd867d4]: Commencement: Sch. 6 para. 63 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-acbb753645a6490db550aa6a0fd867d4]: Commencement: Sch. 6 para. 63 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-4de447b5c04626c811f7b25dd691fa28]: Commencement: Sch. 6 para. 64 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-4de447b5c04626c811f7b25dd691fa28]: Commencement: Sch. 6 para. 64 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-a372ed52360f91e70ebe30b909b63ba2]: Commencement: Sch. 6 para. 65 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-a372ed52360f91e70ebe30b909b63ba2]: Commencement: Sch. 6 para. 65 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-091be635231c6664262d912fbf05d19d]: Commencement: Sch. 6 para. 66 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-091be635231c6664262d912fbf05d19d]: Commencement: Sch. 6 para. 66 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-addd4246f7b1c47c5a25650be0597abb]: Commencement: Sch. 6 para. 67 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-addd4246f7b1c47c5a25650be0597abb]: Commencement: Sch. 6 para. 67 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-b1a000d2bf71e287a6bdc714cf9c6c85]: Commencement: Sch. 6 para. 68 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-b1a000d2bf71e287a6bdc714cf9c6c85]: Commencement: Sch. 6 para. 68 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-c638ffb08fbdbad6d4c1d8d2d9798803]: Commencement: Sch. 6 para. 69 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-c638ffb08fbdbad6d4c1d8d2d9798803]: Commencement: Sch. 6 para. 69 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24031011]: Marginal citation: [S.I. 2015/51](https://www.legislation.gov.uk/uksi/2015/51), amended by [S.I. 2015/1682](https://www.legislation.gov.uk/uksi/2015/1682) and 2017/1075.
 
-[^key-c5f78d1d02d3bd8256bd4126039fcb71]: Commencement: Sch. 6 para. 70 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-c5f78d1d02d3bd8256bd4126039fcb71]: Commencement: Sch. 6 para. 70 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-cb84e14469a6eae6bbfb04e86a7ca060]: Commencement: Sch. 6 para. 71 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-cb84e14469a6eae6bbfb04e86a7ca060]: Commencement: Sch. 6 para. 71 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-8e1757a1ad25db180ff57d128d934764]: Commencement: Sch. 6 para. 72 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-8e1757a1ad25db180ff57d128d934764]: Commencement: Sch. 6 para. 72 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)

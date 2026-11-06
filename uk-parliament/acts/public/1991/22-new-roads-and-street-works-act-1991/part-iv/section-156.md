@@ -24,8 +24,8 @@ summary: ''
 
 (2) The Secretary of State may make provision by regulations as to the manner of service of notices and other documents required or authorised to be served for the purposes of this Part.
 
-(3)[^key-2bfe950417062735e21e3481a6f275b8] References in this section to notices authorised to be given or served for the purposes of this Part include reference to notices under Schedule 8B to the Roads (Scotland) Act 1984 (c. 54) (fixed penalties for certain offences under that Act).
+(3)[^c-2bfe950417062735e21e3481a6f275b8] References in this section to notices authorised to be given or served for the purposes of this Part include reference to notices under Schedule 8B to the Roads (Scotland) Act 1984 (c. 54) (fixed penalties for certain offences under that Act).
 
 ## Annotations
 
-[^key-2bfe950417062735e21e3481a6f275b8]: Textual amendment: [S. 156(3)](https://www.legislation.gov.uk/ukpga/1991/22/section/156/3) inserted (1.10.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 37(4)](https://www.legislation.gov.uk/asp/2005/12/section/37/4), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
+[^c-2bfe950417062735e21e3481a6f275b8]: Textual amendment: [S. 156(3)](https://www.legislation.gov.uk/ukpga/1991/22/section/156/3) inserted (1.10.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 37(4)](https://www.legislation.gov.uk/asp/2005/12/section/37/4), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)

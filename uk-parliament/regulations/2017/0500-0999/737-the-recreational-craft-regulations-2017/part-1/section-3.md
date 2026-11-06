@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Scope[^key-76fd528fefec2095a81cd23ebc70f894]
+## 3. Scope[^c-76fd528fefec2095a81cd23ebc70f894]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76fd528fefec2095a81cd23ebc70f894]: Commencement: Reg. 3 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-76fd528fefec2095a81cd23ebc70f894]: Commencement: Reg. 3 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

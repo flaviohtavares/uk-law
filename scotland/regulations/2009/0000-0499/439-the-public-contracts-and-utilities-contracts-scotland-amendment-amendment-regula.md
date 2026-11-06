@@ -32,7 +32,7 @@ summary: ''
 
 Public Procurement
 
-The Public Contracts and Utilities Contracts (Scotland) Amendment (Amendment) Regulations 2009 (revoked)[^key-a46c4c86a4899cd422cbf1cf09b456e9]
+The Public Contracts and Utilities Contracts (Scotland) Amendment (Amendment) Regulations 2009 (revoked)[^c-a46c4c86a4899cd422cbf1cf09b456e9]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 19th December 2009
 
-[^key-a46c4c86a4899cd422cbf1cf09b456e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a46c4c86a4899cd422cbf1cf09b456e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a46c4c86a4899cd422cbf1cf09b456e9]
+## 1. Citation and commencement[^c-a46c4c86a4899cd422cbf1cf09b456e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Public Contracts and Utilities Contracts (Scotland) Amendment Regulations 2009[^key-a46c4c86a4899cd422cbf1cf09b456e9]
+## 2. Amendment of the Public Contracts and Utilities Contracts (Scotland) Amendment Regulations 2009[^c-a46c4c86a4899cd422cbf1cf09b456e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a46c4c86a4899cd422cbf1cf09b456e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a46c4c86a4899cd422cbf1cf09b456e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a46c4c86a4899cd422cbf1cf09b456e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a46c4c86a4899cd422cbf1cf09b456e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a46c4c86a4899cd422cbf1cf09b456e9]: Textual amendment: Regulations revoked (1.5.2012) by [The Public Contracts (Scotland) Regulations 2012 (S.S.I. 2012/88)](https://www.legislation.gov.uk/ssi/2012/88), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/88/regulation/1/1), [51](https://www.legislation.gov.uk/ssi/2012/88/regulation/51), [53](https://www.legislation.gov.uk/ssi/2012/88/regulation/53), [sch. 7 Pt. A](https://www.legislation.gov.uk/ssi/2012/88/schedule/7/part/A) (with [regs. 4](https://www.legislation.gov.uk/ssi/2012/88/regulation/4), [5](https://www.legislation.gov.uk/ssi/2012/88/regulation/5), [6](https://www.legislation.gov.uk/ssi/2012/88/regulation/6), [8](https://www.legislation.gov.uk/ssi/2012/88/regulation/8), [52](https://www.legislation.gov.uk/ssi/2012/88/regulation/52))
+[^c-a46c4c86a4899cd422cbf1cf09b456e9]: Textual amendment: Regulations revoked (1.5.2012) by [The Public Contracts (Scotland) Regulations 2012 (S.S.I. 2012/88)](https://www.legislation.gov.uk/ssi/2012/88), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/88/regulation/1/1), [51](https://www.legislation.gov.uk/ssi/2012/88/regulation/51), [53](https://www.legislation.gov.uk/ssi/2012/88/regulation/53), [sch. 7 Pt. A](https://www.legislation.gov.uk/ssi/2012/88/schedule/7/part/A) (with [regs. 4](https://www.legislation.gov.uk/ssi/2012/88/regulation/4), [5](https://www.legislation.gov.uk/ssi/2012/88/regulation/5), [6](https://www.legislation.gov.uk/ssi/2012/88/regulation/6), [8](https://www.legislation.gov.uk/ssi/2012/88/regulation/8), [52](https://www.legislation.gov.uk/ssi/2012/88/regulation/52))

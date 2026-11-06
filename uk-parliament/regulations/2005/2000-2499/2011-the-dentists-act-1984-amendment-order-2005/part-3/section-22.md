@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Repeal of section 31[^key-ea62b16e2812c4981e6f5955327f50e8]
+## 22. Repeal of section 31[^c-ea62b16e2812c4981e6f5955327f50e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Section 31 (special provisions where directions replace, or extend periods under
 
 ## Annotations
 
-[^key-ea62b16e2812c4981e6f5955327f50e8]: Commencement: Art. 22 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-ea62b16e2812c4981e6f5955327f50e8]: Commencement: Art. 22 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Amount of pension for a scheme year[^key-1f7a739a8f0b43e3fdb0deae14afeb33]
+## 39. Amount of pension for a scheme year[^c-1f7a739a8f0b43e3fdb0deae14afeb33]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f7a739a8f0b43e3fdb0deae14afeb33]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2015/182/regulation/39) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-1f7a739a8f0b43e3fdb0deae14afeb33]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2015/182/regulation/39) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

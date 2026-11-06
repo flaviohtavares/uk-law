@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Onshore petroleum: right to use deep-level land in Wales[^key-e5c2f46a3d6f5230d112f98986a925ac]
+## 25. Onshore petroleum: right to use deep-level land in Wales[^c-e5c2f46a3d6f5230d112f98986a925ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5c2f46a3d6f5230d112f98986a925ac]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/4/section/25) in force at 1.10.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/a)
+[^c-e5c2f46a3d6f5230d112f98986a925ac]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/4/section/25) in force at 1.10.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/a)

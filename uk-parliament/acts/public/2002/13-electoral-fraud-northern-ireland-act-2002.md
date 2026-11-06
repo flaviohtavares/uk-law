@@ -229,9 +229,9 @@ An Act to provide for the supply to the Chief Electoral Officer for Northern Ire
 
 ## 5. Disabled voters
 
-(1)[^key-0b9a66679068e183dbbc1121becf8070] In Schedule 1 to the 1983 Act (parliamentary elections rules), rule 39 (voting by persons with disabilities) is amended as follows.
+(1)[^c-0b9a66679068e183dbbc1121becf8070] In Schedule 1 to the 1983 Act (parliamentary elections rules), rule 39 (voting by persons with disabilities) is amended as follows.
 
-(2)[^key-0b9a66679068e183dbbc1121becf8070] In paragraph (2), for “If” there is substituted “ Subject to paragraph (2A) below, if ”.
+(2)[^c-0b9a66679068e183dbbc1121becf8070] In paragraph (2), for “If” there is substituted “ Subject to paragraph (2A) below, if ”.
 
 (3) After paragraph (2) there is inserted—
 
@@ -239,7 +239,7 @@ An Act to provide for the supply to the Chief Electoral Officer for Northern Ire
 
 .
 
-## 6. Regulations as to information about national insurance numbers[^key-e0e8a006105508912928ae675152724a]
+## 6. Regulations as to information about national insurance numbers[^c-e0e8a006105508912928ae675152724a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -295,7 +295,7 @@ An Act to provide for the supply to the Chief Electoral Officer for Northern Ire
 
 (5) This Act (except section 7)[^c19108251] extends to Northern Ireland only.
 
-(6)[^key-cd5dcb28bb75158cc1df81648c3b4ab1] See also paragraph 36 of Schedule 1 to the Elections Act 2022 (which relates to section 5 of this Act: disabled voters).
+(6)[^c-cd5dcb28bb75158cc1df81648c3b4ab1] See also paragraph 36 of Schedule 1 to the Elections Act 2022 (which relates to section 5 of this Act: disabled voters).
 
 ## Annotations
 
@@ -311,12 +311,12 @@ An Act to provide for the supply to the Chief Electoral Officer for Northern Ire
 
 [^c19108591]: Textual amendment: [S. 3(4)(b)](https://www.legislation.gov.uk/ukpga/2002/13/section/3/4/b) repealed (1.7.2008) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/74/2), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77), [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/22/schedule/2); [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/1316/article/2/3), [5(g)(iv)](https://www.legislation.gov.uk/uksi/2008/1316/article/5/g/iv)
 
-[^key-0b9a66679068e183dbbc1121becf8070]: Modification: [S. 5(1)](https://www.legislation.gov.uk/ukpga/2002/13/section/5/1)[(2)](https://www.legislation.gov.uk/ukpga/2002/13/section/5/2) extended (E.W.S.) (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/36); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-0b9a66679068e183dbbc1121becf8070]: Modification: [S. 5(1)](https://www.legislation.gov.uk/ukpga/2002/13/section/5/1)[(2)](https://www.legislation.gov.uk/ukpga/2002/13/section/5/2) extended (E.W.S.) (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 36](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/36); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
 
-[^key-e0e8a006105508912928ae675152724a]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2002/13/section/6) omitted (13.3.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 20(7)(a)](https://www.legislation.gov.uk/ukpga/2014/13/section/20/7/a), [28(1)(e)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/e)
+[^c-e0e8a006105508912928ae675152724a]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2002/13/section/6) omitted (13.3.2014) by virtue of [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 20(7)(a)](https://www.legislation.gov.uk/ukpga/2014/13/section/20/7/a), [28(1)(e)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/e)
 
 [^c552541]: Subordinate legislation: [S. 8(3)](https://www.legislation.gov.uk/ukpga/2002/13/section/8/3) power partly exercised: different dates appointed for specified provisions by [S.I. 2002/1648](https://www.legislation.gov.uk/uksi/2002/1648), [arts. 2-4](https://www.legislation.gov.uk/uksi/2002/1648/article/2) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2002/1648/article/4/2))
 
 [^c19108251]: Textual amendment: Words in [s. 8(5)](https://www.legislation.gov.uk/ukpga/2002/13/section/8/5) inserted (11.9.2006) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 15(9)](https://www.legislation.gov.uk/ukpga/2006/22/section/15/9), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), [art. 3](https://www.legislation.gov.uk/uksi/2006/1972/article/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2006/1972/schedule/1/paragraph/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1972/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1972/schedule/2))
 
-[^key-cd5dcb28bb75158cc1df81648c3b4ab1]: Textual amendment: [S. 8(6)](https://www.legislation.gov.uk/ukpga/2002/13/section/8/6) inserted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/37); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))
+[^c-cd5dcb28bb75158cc1df81648c3b4ab1]: Textual amendment: [S. 8(6)](https://www.legislation.gov.uk/ukpga/2002/13/section/8/6) inserted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/37); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xv)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xv) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/3/1))

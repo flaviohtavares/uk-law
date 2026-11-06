@@ -41,102 +41,102 @@ relating to a proceeding pursuant to Article 81 of the EC Treaty
 
 (2007/788/EC) (revoked)
 
-[^key-f080b86adc12593f5d589b4b3a7b8413]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f080b86adc12593f5d589b4b3a7b8413]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](1)
+[^c-f080b86adc12593f5d589b4b3a7b8413](1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](2)
+[^c-f080b86adc12593f5d589b4b3a7b8413](2)
 
 Technical information consists of data, processes and instructions which are necessary to check, repair and replace defective/broken/used parts of a motor vehicle or to fix failures in any of a vehicle’s systems. It includes seven main categories:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](3)
+[^c-f080b86adc12593f5d589b4b3a7b8413](3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](4)
+[^c-f080b86adc12593f5d589b4b3a7b8413](4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](5)
+[^c-f080b86adc12593f5d589b4b3a7b8413](5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](6)
+[^c-f080b86adc12593f5d589b4b3a7b8413](6)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](7)
+[^c-f080b86adc12593f5d589b4b3a7b8413](7)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](8)
+[^c-f080b86adc12593f5d589b4b3a7b8413](8)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](9)
+[^c-f080b86adc12593f5d589b4b3a7b8413](9)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](10)
+[^c-f080b86adc12593f5d589b4b3a7b8413](10)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](11)
+[^c-f080b86adc12593f5d589b4b3a7b8413](11)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](12)
+[^c-f080b86adc12593f5d589b4b3a7b8413](12)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](13)
+[^c-f080b86adc12593f5d589b4b3a7b8413](13)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](14)
+[^c-f080b86adc12593f5d589b4b3a7b8413](14)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](15)
+[^c-f080b86adc12593f5d589b4b3a7b8413](15)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](16)
+[^c-f080b86adc12593f5d589b4b3a7b8413](16)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](17)
+[^c-f080b86adc12593f5d589b4b3a7b8413](17)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](18)
+[^c-f080b86adc12593f5d589b4b3a7b8413](18)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](19)
+[^c-f080b86adc12593f5d589b4b3a7b8413](19)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](20)
+[^c-f080b86adc12593f5d589b4b3a7b8413](20)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](21)
+[^c-f080b86adc12593f5d589b4b3a7b8413](21)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](22)
+[^c-f080b86adc12593f5d589b4b3a7b8413](22)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f080b86adc12593f5d589b4b3a7b8413](23)
+[^c-f080b86adc12593f5d589b4b3a7b8413](23)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f080b86adc12593f5d589b4b3a7b8413]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f080b86adc12593f5d589b4b3a7b8413]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

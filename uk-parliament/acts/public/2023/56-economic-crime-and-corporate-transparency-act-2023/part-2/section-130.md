@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Dissolution by the court when a partner has a mental disorder[^key-6d4cf2115576ae5b307fc4b4ea07ac92]
+## 130. Dissolution by the court when a partner has a mental disorder[^c-6d4cf2115576ae5b307fc4b4ea07ac92]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d4cf2115576ae5b307fc4b4ea07ac92]: Commencement: S. 130 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-6d4cf2115576ae5b307fc4b4ea07ac92]: Commencement: S. 130 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

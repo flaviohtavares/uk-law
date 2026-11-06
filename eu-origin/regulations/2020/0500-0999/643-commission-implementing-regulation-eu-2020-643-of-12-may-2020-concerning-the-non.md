@@ -35,16 +35,16 @@ concerning the non-approval of *Saponaria officinalis* L. roots as a basic subst
 
 (Text with EEA relevance) (revoked)
 
-[^key-2ec94f4f95e4c4c577c77a6c03dad439]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ec94f4f95e4c4c577c77a6c03dad439]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-2ec94f4f95e4c4c577c77a6c03dad439] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2ec94f4f95e4c4c577c77a6c03dad439] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2ec94f4f95e4c4c577c77a6c03dad439] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2ec94f4f95e4c4c577c77a6c03dad439] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2ec94f4f95e4c4c577c77a6c03dad439]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ec94f4f95e4c4c577c77a6c03dad439]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2ec94f4f95e4c4c577c77a6c03dad439]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)
+[^c-2ec94f4f95e4c4c577c77a6c03dad439]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)

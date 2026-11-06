@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Enforcement in other parts of United Kingdom[^key-21f439f1c04bf41a0856cfc6fcbc9687][^c22725441]
+## 43. Enforcement in other parts of United Kingdom[^c-21f439f1c04bf41a0856cfc6fcbc9687][^c22725441]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ After section 120B of the Terrorism Act 2000 (inserted by section 42 above) inse
 
 ## Annotations
 
-[^key-21f439f1c04bf41a0856cfc6fcbc9687]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2017/22/section/43) in force at 31.10.2017 in so far as not already in force by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/h)
+[^c-21f439f1c04bf41a0856cfc6fcbc9687]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2017/22/section/43) in force at 31.10.2017 in so far as not already in force by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/h)
 
 [^c22725441]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2017/22/section/43) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

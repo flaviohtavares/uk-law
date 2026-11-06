@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 93. Section 92: supplementary[^key-43d957b21980e11604ba0e541d6b84e7]
+## 93. Section 92: supplementary[^c-43d957b21980e11604ba0e541d6b84e7]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ habitually reside in Northern Ireland.
 
 ## Annotations
 
-[^key-43d957b21980e11604ba0e541d6b84e7]: Commencement: S. 93 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-43d957b21980e11604ba0e541d6b84e7]: Commencement: S. 93 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

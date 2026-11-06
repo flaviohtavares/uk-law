@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Disclosure period: compulsion orders[^key-c2d385e82f928719e7db30b66e8cafd0]
+## 26. Disclosure period: compulsion orders[^c-c2d385e82f928719e7db30b66e8cafd0]
 
 *Extent: S*
 
@@ -115,4 +115,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2d385e82f928719e7db30b66e8cafd0]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2019/14/section/26) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-c2d385e82f928719e7db30b66e8cafd0]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2019/14/section/26) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

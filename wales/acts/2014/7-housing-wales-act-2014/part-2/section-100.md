@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Consequential amendments[^key-201e86dc3939d7a802e7eeb609346ee5]
+## 100. Consequential amendments[^c-201e86dc3939d7a802e7eeb609346ee5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Part 1 of Schedule 3 makes consequential amendments relating to this Part.
 
 ## Annotations
 
-[^key-201e86dc3939d7a802e7eeb609346ee5]: Commencement: [S. 100](https://www.legislation.gov.uk/anaw/2014/7/section/100) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 51](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/51)
+[^c-201e86dc3939d7a802e7eeb609346ee5]: Commencement: [S. 100](https://www.legislation.gov.uk/anaw/2014/7/section/100) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 51](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/51)

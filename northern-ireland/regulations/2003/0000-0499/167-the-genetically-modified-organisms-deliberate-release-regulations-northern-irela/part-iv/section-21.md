@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Decisions by the Department on applications for consent to release[^key-8d30565c338a86c9333d081190cc3066]
+## 21. Decisions by the Department on applications for consent to release[^c-8d30565c338a86c9333d081190cc3066]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d30565c338a86c9333d081190cc3066]: Commencement: Reg. 21 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-8d30565c338a86c9333d081190cc3066]: Commencement: Reg. 21 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

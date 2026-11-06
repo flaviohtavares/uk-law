@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Clearing obligation procedure[^key-94ee50705270bba577f56419ade7afa3]
+## 15. Clearing obligation procedure[^c-94ee50705270bba577f56419ade7afa3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 >
 > - (a) the Bank of England may make technical standards specifying the class or classes of OTC derivatives that should be subject to the clearing obligation referred to in Article 4;
 > - (b) the Bank of England may make technical standards for financial counterparties that are PRA-authorised persons and the FCA may make technical standards for all other cases, specifying the date or dates from which the clearing obligation takes effect, including any phase in and the categories of counterparties to which the obligation applies;
-> - (c)[^key-299e88f662efa5f43d1c9a6efa946eeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-299e88f662efa5f43d1c9a6efa946eeb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > In developing the technical standards under this paragraph, the Bank and the FCA shall not prejudice the transitional provision relating to C6 energy derivative contracts as laid down in Article 89a.
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94ee50705270bba577f56419ade7afa3]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-94ee50705270bba577f56419ade7afa3]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-299e88f662efa5f43d1c9a6efa946eeb]: Textual amendment: Words in reg. 15(3) omitted (30.10.2019) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1416)](https://www.legislation.gov.uk/uksi/2019/1416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2019/1416/regulation/15)
+[^c-299e88f662efa5f43d1c9a6efa946eeb]: Textual amendment: Words in reg. 15(3) omitted (30.10.2019) by virtue of [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1416)](https://www.legislation.gov.uk/uksi/2019/1416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1416/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2019/1416/regulation/15)

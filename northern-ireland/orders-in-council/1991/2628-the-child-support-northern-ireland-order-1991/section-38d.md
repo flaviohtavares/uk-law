@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38D. Power to accept part payment of arrears in full and final satisfaction[^key-b15bd8df638039b9937c721249ea5283]
+## 38D. Power to accept part payment of arrears in full and final satisfaction[^c-b15bd8df638039b9937c721249ea5283]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b15bd8df638039b9937c721249ea5283]: Textual amendment: [Art. 38D](https://www.legislation.gov.uk/nisi/1991/2628/article/38D) inserted (3.12.2012 for specified purposes, 10.12.2012 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 23](https://www.legislation.gov.uk/nia/2008/10/section/23), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)); [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/423/article/2/2/b); [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/440/article/2/2/a) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4))
+[^c-b15bd8df638039b9937c721249ea5283]: Textual amendment: [Art. 38D](https://www.legislation.gov.uk/nisi/1991/2628/article/38D) inserted (3.12.2012 for specified purposes, 10.12.2012 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 23](https://www.legislation.gov.uk/nia/2008/10/section/23), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)); [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/423/article/2/2/b); [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/440/article/2/2/a) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4))

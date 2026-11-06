@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63F. Counter-terrorism financial investigators[^key-c6ba0a77437e2c8eb84a15551b09c20e]
+## 63F. Counter-terrorism financial investigators[^c-c6ba0a77437e2c8eb84a15551b09c20e]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6ba0a77437e2c8eb84a15551b09c20e]: Textual amendment: S. 63F and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/41/2), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
+[^c-c6ba0a77437e2c8eb84a15551b09c20e]: Textual amendment: S. 63F and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 41(2)](https://www.legislation.gov.uk/ukpga/2017/22/section/41/2), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)

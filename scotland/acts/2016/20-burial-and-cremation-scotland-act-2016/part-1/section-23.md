@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Private burial register[^key-eedeae4fbafc822e58dc0dc39a23dda4]
+## 23. Private burial register[^c-eedeae4fbafc822e58dc0dc39a23dda4]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eedeae4fbafc822e58dc0dc39a23dda4]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/20/section/23) in force at 2.6.2023 for specified purposes by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)
+[^c-eedeae4fbafc822e58dc0dc39a23dda4]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2016/20/section/23) in force at 2.6.2023 for specified purposes by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)

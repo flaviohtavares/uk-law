@@ -48,7 +48,7 @@ summary: ''
 
 (5) Where a change of use will result in an exempted building being put to a use as described in Cases I to XI, the provisions of those regulations applicable to Case XII shall apply in precedence to those of Cases I to XI.
 
-Table to Regulation 8 (Application to material change of use)[^key-833846e4c02057679d723399b6e94650]
+Table to Regulation 8 (Application to material change of use)[^c-833846e4c02057679d723399b6e94650]
 
 <table>
 <thead>
@@ -84,4 +84,4 @@ Table to Regulation 8 (Application to material change of use)[^key-833846e4c0205
 
 ## Annotations
 
-[^key-833846e4c02057679d723399b6e94650]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2012/192/regulation/8) Table substituted (6.5.2025) by [The Building (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/191)](https://www.legislation.gov.uk/nisr/2024/191), [regs. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1), [5](https://www.legislation.gov.uk/nisr/2024/191/regulation/5) (with [reg. 3](https://www.legislation.gov.uk/nisr/2024/191/regulation/3))
+[^c-833846e4c02057679d723399b6e94650]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2012/192/regulation/8) Table substituted (6.5.2025) by [The Building (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/191)](https://www.legislation.gov.uk/nisr/2024/191), [regs. 1](https://www.legislation.gov.uk/nisr/2024/191/regulation/1), [5](https://www.legislation.gov.uk/nisr/2024/191/regulation/5) (with [reg. 3](https://www.legislation.gov.uk/nisr/2024/191/regulation/3))

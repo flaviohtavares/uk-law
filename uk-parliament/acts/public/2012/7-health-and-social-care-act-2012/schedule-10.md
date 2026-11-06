@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — References by Monitor to the CMA[^key-2206a4ed7c7aa2c9403368506b5be36d]
+## SCHEDULE 10 — References by Monitor to the CMA[^c-2206a4ed7c7aa2c9403368506b5be36d]
 
 *Extent: E+W*
 
@@ -24,46 +24,46 @@ summary: ''
 
 Sections 101 and 142
 
-### Variation of reference[^key-2206a4ed7c7aa2c9403368506b5be36d]
+### Variation of reference[^c-2206a4ed7c7aa2c9403368506b5be36d]
 
-**1.**[^key-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Monitor's opinion of public interest etc.[^key-2206a4ed7c7aa2c9403368506b5be36d]
+### Monitor's opinion of public interest etc.[^c-2206a4ed7c7aa2c9403368506b5be36d]
 
-**2.**[^key-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Publication etc. of reference[^key-2206a4ed7c7aa2c9403368506b5be36d]
+### Publication etc. of reference[^c-2206a4ed7c7aa2c9403368506b5be36d]
 
-**3.**[^key-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Information[^key-2206a4ed7c7aa2c9403368506b5be36d]
+### Information[^c-2206a4ed7c7aa2c9403368506b5be36d]
 
-**4.**[^key-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Time limits[^key-2206a4ed7c7aa2c9403368506b5be36d]
+### Time limits[^c-2206a4ed7c7aa2c9403368506b5be36d]
 
-**5.**[^key-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Reports on references[^key-2206a4ed7c7aa2c9403368506b5be36d]
+### Reports on references[^c-2206a4ed7c7aa2c9403368506b5be36d]
 
-**6.**[^key-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Changes following report[^key-2206a4ed7c7aa2c9403368506b5be36d]
+### Changes following report[^c-2206a4ed7c7aa2c9403368506b5be36d]
 
-**7.**[^key-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CMA's power to veto changes[^key-2206a4ed7c7aa2c9403368506b5be36d]
+### CMA's power to veto changes[^c-2206a4ed7c7aa2c9403368506b5be36d]
 
-**8.**[^key-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Disclosure etc.[^key-2206a4ed7c7aa2c9403368506b5be36d]
+### Disclosure etc.[^c-2206a4ed7c7aa2c9403368506b5be36d]
 
-**9.**[^key-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Powers of investigation[^key-2206a4ed7c7aa2c9403368506b5be36d]
+### Powers of investigation[^c-2206a4ed7c7aa2c9403368506b5be36d]
 
-**10.**[^key-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-2206a4ed7c7aa2c9403368506b5be36d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2206a4ed7c7aa2c9403368506b5be36d]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/ukpga/2012/7/schedule/10) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 85(9)](https://www.legislation.gov.uk/ukpga/2022/31/section/85/9), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-2206a4ed7c7aa2c9403368506b5be36d]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/ukpga/2012/7/schedule/10) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 85(9)](https://www.legislation.gov.uk/ukpga/2022/31/section/85/9), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Formal defects[^key-82f37c376fcea6b71181c641733a2ede]
+## 76. Formal defects[^c-82f37c376fcea6b71181c641733a2ede]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ No PPP administration proceedings shall be invalidated by any formal defect or b
 
 ## Annotations
 
-[^key-82f37c376fcea6b71181c641733a2ede]: Commencement: [Rule 76](https://www.legislation.gov.uk/uksi/2007/3141/rule/76) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-82f37c376fcea6b71181c641733a2ede]: Commencement: [Rule 76](https://www.legislation.gov.uk/uksi/2007/3141/rule/76) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

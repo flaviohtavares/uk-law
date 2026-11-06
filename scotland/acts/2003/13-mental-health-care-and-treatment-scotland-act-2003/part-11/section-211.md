@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 211. Notice under section 209(2): reference to Tribunal[^key-9a2f85328b86d339e2bd8ec36f4c8e9d]
+## 211. Notice under section 209(2): reference to Tribunal[^c-9a2f85328b86d339e2bd8ec36f4c8e9d]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a2f85328b86d339e2bd8ec36f4c8e9d]: Commencement: [S. 211](https://www.legislation.gov.uk/asp/2003/13/section/211) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-9a2f85328b86d339e2bd8ec36f4c8e9d]: Commencement: [S. 211](https://www.legislation.gov.uk/asp/2003/13/section/211) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

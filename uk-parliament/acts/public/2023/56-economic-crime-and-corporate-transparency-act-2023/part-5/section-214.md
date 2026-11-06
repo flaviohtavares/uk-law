@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Sanctions enforcement: monetary penalties[^key-b172c19d86807bdcbd4d1749d4eba23c][^key-7beaf50e56f29ab545f4cd93852c7172]
+## 214. Sanctions enforcement: monetary penalties[^c-b172c19d86807bdcbd4d1749d4eba23c][^c-7beaf50e56f29ab545f4cd93852c7172]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b172c19d86807bdcbd4d1749d4eba23c]: Commencement: S. 214 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-b172c19d86807bdcbd4d1749d4eba23c]: Commencement: S. 214 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-7beaf50e56f29ab545f4cd93852c7172]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2023/56/section/214) in force at 15.11.2023 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1206/regulation/2)
+[^c-7beaf50e56f29ab545f4cd93852c7172]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2023/56/section/214) in force at 15.11.2023 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1206/regulation/2)

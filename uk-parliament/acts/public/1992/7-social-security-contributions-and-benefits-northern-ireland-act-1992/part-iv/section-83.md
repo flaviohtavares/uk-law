@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Pension increase (wife).[^key-467e0167d375884e4751156eee03d3ed]
+## 83. Pension increase (wife).[^c-467e0167d375884e4751156eee03d3ed]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-467e0167d375884e4751156eee03d3ed]: Textual amendment: [S. 83](https://www.legislation.gov.uk/ukpga/1992/7/section/83) repealed (6.4.2010 with savings until 6.4.2020) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 4(1)(a)](https://www.legislation.gov.uk/nia/2008/1/section/4/1/a), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/2) (with [s. 4(5)-(8)](https://www.legislation.gov.uk/nia/2008/1/section/4/5))
+[^c-467e0167d375884e4751156eee03d3ed]: Textual amendment: [S. 83](https://www.legislation.gov.uk/ukpga/1992/7/section/83) repealed (6.4.2010 with savings until 6.4.2020) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 4(1)(a)](https://www.legislation.gov.uk/nia/2008/1/section/4/1/a), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/2) (with [s. 4(5)-(8)](https://www.legislation.gov.uk/nia/2008/1/section/4/5))

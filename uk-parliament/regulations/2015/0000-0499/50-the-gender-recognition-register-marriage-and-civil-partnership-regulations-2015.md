@@ -43,11 +43,11 @@ The Registrar General, in exercise of the powers conferred by paragraph 11A(1) a
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-309d7cb2376cfd5525be2e323c447a5c]
+### 1. Citation and commencement[^c-309d7cb2376cfd5525be2e323c447a5c]
 
 These Regulations may be cited as the Gender Recognition Register (Marriage and Civil Partnership) Regulations 2015 and come into force on 6th February 2015.
 
-### 2. Interpretation[^key-67a549094bce6edb9a75413d234a238f]
+### 2. Interpretation[^c-67a549094bce6edb9a75413d234a238f]
 
 In these Regulations—
 
@@ -59,7 +59,7 @@ In these Regulations—
   - (ii) an entry in a register so kept;
 
   containing a record of the parties’ civil partnership or, if there is more than one civil partnership, the most recent, but does not include any entry in the Gender Recognition Civil Partnership Register;
-- “civil partnership registrar” has the same meaning as in section 29 of the Civil Partnership Act 2004;[^key-7532414f41f93e13cef1592d48c9f65c]
+- “civil partnership registrar” has the same meaning as in section 29 of the Civil Partnership Act 2004;[^c-7532414f41f93e13cef1592d48c9f65c]
 - “conversion of a civil partnership” means the conversion of a civil partnership into a marriage under section 9 of the 2013 Act and regulations made under that section;
 - “marriage register entry” in relation to one or both parties to a qualifying marriage[^f00005], means, as applicable—
   - (i) an entry of which a certified, or other copy is kept by the Registrar General; or
@@ -76,7 +76,7 @@ In these Regulations—
 - “Gender Recognition Civil Partnership Register” means the register maintained under regulation 3(1)(b);
 - “GR registers” means the two registers maintained under regulation 3(1).
 
-### 3. The Gender Recognition Marriage and Civil Partnership Registers[^key-6531dccdb212c914a9c93d90d877d4ed]
+### 3. The Gender Recognition Marriage and Civil Partnership Registers[^c-6531dccdb212c914a9c93d90d877d4ed]
 
 (1) The Registrar General must maintain, in the General Register Office—
 
@@ -89,7 +89,7 @@ In these Regulations—
 
 ## PART 2 — The Gender Recognition Marriage Register
 
-### 4. Application for registration[^key-0b5ac1c9a2bdecfe312ad795fbf778db]
+### 4. Application for registration[^c-0b5ac1c9a2bdecfe312ad795fbf778db]
 
 (1) The parties to a qualifying marriage may apply to the Registrar General, on a form supplied by the Registrar General for that purpose, for the registration of their marriage in the Gender Recognition Marriage Register.
 
@@ -106,7 +106,7 @@ In these Regulations—
 
 (4) If, on receipt of a completed application under paragraph (1), the Registrar General requires further information to enable the registration of the qualifying marriage in the Gender Recognition Marriage Register, the Registrar General may request it from the parties.
 
-### 5. Entries in Gender Recognition Marriage Register and marking of existing marriage entries[^key-f7f84d74c7946c6b4c11d18e85b34056]
+### 5. Entries in Gender Recognition Marriage Register and marking of existing marriage entries[^c-f7f84d74c7946c6b4c11d18e85b34056]
 
 (1) On receipt of a duly completed application under regulation 4(1), and any additional information requested in accordance with regulation 4(4), the Registrar General must—
 
@@ -118,13 +118,13 @@ In these Regulations—
 
 (3) Information kept by the Registrar General for the purposes of paragraph (1)(c) is not to be open to public inspection or search.
 
-### 6. Particulars to be entered in Gender Recognition Marriage Register[^key-c27d3827707177ee36e60a23d5c11e22]
+### 6. Particulars to be entered in Gender Recognition Marriage Register[^c-c27d3827707177ee36e60a23d5c11e22]
 
 (1) Except as provided in paragraph (2) and regulations 7 to 11, the particulars to be registered in the parties’ entry in the Gender Recognition Marriage Register are the same particulars as were required by law to be registered in the parties’ marriage register entry.
 
 (2) Any entry in the Gender Recognition Marriage Register must reflect the name and gender referred to on the full gender recognition certificate, or certificates, granted to one or both parties.
 
-(3) There is no requirement for an entry in the Gender Recognition Marriage Register to be signed by any person, but (except as provided in regulations 7 to 11) the Registrar General must register the name of any person who signed the parties’ —[^key-dae40b88a70dde092af27908966940df]
+(3) There is no requirement for an entry in the Gender Recognition Marriage Register to be signed by any person, but (except as provided in regulations 7 to 11) the Registrar General must register the name of any person who signed the parties’ —[^c-dae40b88a70dde092af27908966940df]
 
 - (a) marriage register entry, in the case of a marriage solemnized before 4th May 2021,
 - (b) marriage schedule, in the case of a marriage solemnized on or after 4th May 2021, or
@@ -140,9 +140,9 @@ in the manner in which the names were recorded in the parties’ marriage regist
 - (b) references to a superintendent registrar mean the superintendent registrar in post on the applicable date for the registration district[^f00008] in which the register office or approved premises (as the case may be) is situated;
 - (c) “applicable date” means the date on which the qualifying marriage is registered in the Gender Recognition Marriage Register as having been solemnized.
 
-### 7. Qualifying marriages resulting from conversion of civil partnership[^key-ae8c9183f2cf9d5d4f62b3bc66aaf62c]
+### 7. Qualifying marriages resulting from conversion of civil partnership[^c-ae8c9183f2cf9d5d4f62b3bc66aaf62c]
 
-(1) Where the qualifying marriage to be registered in the Gender Recognition Marriage Register results from the conversion of a civil partnership, the marriage is to be registered by entering the particulars required for registration of a marriage on the applicable date under[^key-1ab9004abdf1fe8484a470c8a7b6bdf7] the Marriage Act 1949[^f00009], as if it had been solemnized in the presence of a superintendent registrar—
+(1) Where the qualifying marriage to be registered in the Gender Recognition Marriage Register results from the conversion of a civil partnership, the marriage is to be registered by entering the particulars required for registration of a marriage on the applicable date under[^c-1ab9004abdf1fe8484a470c8a7b6bdf7] the Marriage Act 1949[^f00009], as if it had been solemnized in the presence of a superintendent registrar—
 
 - (a) in a register office; or
 - (b) if the civil partnership was formed on approved premises that are not religious premises, on those approved premises;
@@ -156,7 +156,7 @@ on the date on which the civil partnership was formed.
 
 (3) This regulation is subject to regulation 8(1).
 
-### 8. Qualifying marriages of same sex couples[^key-04c2daf74f9c8ee12fbbc01380fcfb1a]
+### 8. Qualifying marriages of same sex couples[^c-04c2daf74f9c8ee12fbbc01380fcfb1a]
 
 (1) Unless the parties to the qualifying marriage specifically request the Registrar General to do so, the Registrar General must not register in the Gender Recognition Marriage Register any of the particulars required by regulations 6(1) or 7 if to do so would indicate that a marriage of a same sex couple was entered into before the date on which the marriage could have been entered into under the 2013 Act.
 
@@ -164,35 +164,35 @@ on the date on which the civil partnership was formed.
 
 (3) Where paragraph (2) applies—
 
-- (a) the condition[^f00010] of each of the parties is to be registered in the Gender Recognition Marriage Register as it was before they married (or, in the case of a marriage resulting from the conversion of a civil partnership, before they formed the civil partnership), using the forms of words prescribed under [^key-64a4ffbded5ea2306f048c36565f93c3]... the Marriage Act 1949 on the applicable date (but see regulation 6(2));
+- (a) the condition[^f00010] of each of the parties is to be registered in the Gender Recognition Marriage Register as it was before they married (or, in the case of a marriage resulting from the conversion of a civil partnership, before they formed the civil partnership), using the forms of words prescribed under [^c-64a4ffbded5ea2306f048c36565f93c3]... the Marriage Act 1949 on the applicable date (but see regulation 6(2));
 - (b) the witnesses to the marriage are to be recorded in the Gender Recognition Marriage Register as they were in the parties’ marriage register entry (or, in the case of a marriage resulting from the conversion of a civil partnership, in their civil partnership register entry); and
 - (c) subject to paragraph (4) and regulations 9 and 10, the place at which the qualifying marriage was entered into is to be registered in the Gender Recognition Marriage Register as it was in the parties’ marriage register entry (or, in the case of a marriage resulting from the conversion of a civil partnership, in their civil partnership register entry).
 
-(4) If the place required to be registered under paragraph (3)(c) is a place at which, on the date of registration in the Gender Recognition Marriage Register, the parties’ marriage could not be solemnized under the law of England and Wales, the marriage is to be registered as if it had been solemnized in the presence of a superintendent registrar in a register office by entering the particulars required for registration of a marriage on the applicable date under the Marriage Act 1949[^key-980a7a0343337f9e7fcd632b3f0ff016].
+(4) If the place required to be registered under paragraph (3)(c) is a place at which, on the date of registration in the Gender Recognition Marriage Register, the parties’ marriage could not be solemnized under the law of England and Wales, the marriage is to be registered as if it had been solemnized in the presence of a superintendent registrar in a register office by entering the particulars required for registration of a marriage on the applicable date under the Marriage Act 1949[^c-980a7a0343337f9e7fcd632b3f0ff016].
 
 (5) Nothing in this regulation affects the continuity of any qualifying marriage.
 
-### 9. Qualifying marriages solemnized according to religious rites[^key-88f7f6aa3571460df48b1c2ddb2971ad]
+### 9. Qualifying marriages solemnized according to religious rites[^c-88f7f6aa3571460df48b1c2ddb2971ad]
 
 (1) The Registrar General must not register in the Gender Recognition Marriage Register any particulars that would indicate that a qualifying marriage was solemnized according to religious rites or usages, or on religious premises.
 
-(2) Where paragraph (1) applies, the marriage is to be registered in the Gender Recognition Marriage Register as if it had been solemnized in the presence of a superintendent registrar in a register office by entering the particulars required for registration of a marriage on the applicable date under[^key-183a5449f88bcdf2c2eecda697ace3e7] the Marriage Act 1949.
+(2) Where paragraph (1) applies, the marriage is to be registered in the Gender Recognition Marriage Register as if it had been solemnized in the presence of a superintendent registrar in a register office by entering the particulars required for registration of a marriage on the applicable date under[^c-183a5449f88bcdf2c2eecda697ace3e7] the Marriage Act 1949.
 
-### 10. Qualifying marriages solemnized outside the United Kingdom[^key-2a5e25ed89f705444dbf03c4dac280da]
+### 10. Qualifying marriages solemnized outside the United Kingdom[^c-2a5e25ed89f705444dbf03c4dac280da]
 
 (1) Unless paragraph (2) applies, the Registrar General must not register in the Gender Recognition Marriage Register any particulars that would indicate that a qualifying marriage of a same sex couple, or between a man and a woman (as the case may be) was solemnized outside the United Kingdom according to the law of England and Wales.
 
 (2) Paragraph (1) does not apply if, on the applicable date, the authorities in the country or territory in which the marriage was solemnized had notified the Secretary of State in writing that there is no objection to marriages of same sex couples, or between a man and a woman (as the case may be) taking place in that country or territory, and had not revoked that consent.
 
-(3) Where paragraph (1) applies, the marriage is to be registered in the Gender Recognition Marriage Register as if it had been solemnized in the presence of a superintendent registrar in a register office by entering the particulars required for registration of a marriage on the applicable date under[^key-46f81bafaf19bed2ee9829ac1afe79ca] the Marriage Act 1949.
+(3) Where paragraph (1) applies, the marriage is to be registered in the Gender Recognition Marriage Register as if it had been solemnized in the presence of a superintendent registrar in a register office by entering the particulars required for registration of a marriage on the applicable date under[^c-46f81bafaf19bed2ee9829ac1afe79ca] the Marriage Act 1949.
 
-### 11. Power to amend particulars[^key-876695f6fd9a12892c15e89b950b85fa]
+### 11. Power to amend particulars[^c-876695f6fd9a12892c15e89b950b85fa]
 
 (1) The Registrar General may, after consulting the parties to a qualifying marriage, amend the particulars required to be registered under these Regulations as the Registrar General considers necessary to ensure that the particulars registered in the Gender Recognition Marriage Register do not disclose that one party has, or both parties have, obtained a gender recognition certificate.
 
 (2) Under paragraph (1), the Registrar General may, in particular, substitute for the name or names of one or both witnesses to the marriage (or, in the case of a marriage resulting from the conversion of a civil partnership, the witnesses to that civil partnership), the name or names of one or two other persons who were present at the marriage (or civil partnership, as the case may be).
 
-### 12. Indexing of entries in Gender Recognition Marriage Register[^key-eddcaaf7c1981040692fa21bdaf3e3fb]
+### 12. Indexing of entries in Gender Recognition Marriage Register[^c-eddcaaf7c1981040692fa21bdaf3e3fb]
 
 (1) The Registrar General must make arrangements for each entry made in the Gender Recognition Marriage Register to be included in the relevant index kept in the General Register Office.
 
@@ -202,13 +202,13 @@ on the date on which the civil partnership was formed.
 
 (4) “The relevant index” in relation to a person’s entry in the Gender Recognition Marriage Register, means the index of the certified copies of entries in registers, or of entries in registers, which includes the person’s marriage register entry.
 
-### 13. Access to certified copies of entries in Gender Recognition Marriage Register[^key-eb028073f9fb327ff9deaef5d2a38f1c]
+### 13. Access to certified copies of entries in Gender Recognition Marriage Register[^c-eb028073f9fb327ff9deaef5d2a38f1c]
 
 Anyone who may have a certified copy of the marriage register entry of a person issued with a full gender recognition certificate may have a certified copy of the entry made in relation to the person in the Gender Recognition Marriage Register.
 
 ## PART 3 — The Gender Recognition Civil Partnership Register
 
-### 14. Application for registration[^key-ede8f99fb02631bf6d4a894e6bbcbb5d]
+### 14. Application for registration[^c-ede8f99fb02631bf6d4a894e6bbcbb5d]
 
 (1) The parties to a qualifying civil partnership may apply to the Registrar General, on a form supplied by the Registrar General for that purpose, for the registration of their civil partnership in the Gender Recognition Civil Partnership Register.
 
@@ -221,7 +221,7 @@ Anyone who may have a certified copy of the marriage register entry of a person 
 
 (4) If, on receipt of a completed application under paragraph (1), the Registrar General requires further information to enable the registration of the qualifying civil partnership in the Gender Recognition Civil Partnership Register, the Registrar General may request it from the parties.
 
-### 15. Entries in Gender Recognition Civil Partnership Register and marking of existing civil partnership entries[^key-cc45efadad57e907469184d5aca19f33]
+### 15. Entries in Gender Recognition Civil Partnership Register and marking of existing civil partnership entries[^c-cc45efadad57e907469184d5aca19f33]
 
 (1) On receipt of a duly completed application under regulation 14(1), and any additional information requested in accordance with regulation 14(4),the Registrar General must—
 
@@ -229,27 +229,27 @@ Anyone who may have a certified copy of the marriage register entry of a person 
 - (b) secure that the parties’ civil partnership register entry is marked with the words “Re-registered by the Registrar General”;
 - (c) make traceable the connection between the entry in the Gender Recognition Civil Partnership Register and the parties’ civil partnership register entry.
 
-(2) No certified copy [^key-b8acd789403038f9d8163daa31095782]... of the parties’ civil partnership register entry is to include anything marked by virtue of paragraph (1)(b).
+(2) No certified copy [^c-b8acd789403038f9d8163daa31095782]... of the parties’ civil partnership register entry is to include anything marked by virtue of paragraph (1)(b).
 
 (3) Information kept by the Registrar General for the purposes of paragraph (1)(c) is not to be open to public inspection or search.
 
-### 16. Particulars to be contained in Gender Recognition Civil Partnership Register[^key-95661a881258c69b27b4c979c241aaa3]
+### 16. Particulars to be contained in Gender Recognition Civil Partnership Register[^c-95661a881258c69b27b4c979c241aaa3]
 
-(1) Except as provided in paragraph (2) and regulations 16A to 16D[^key-391b3b0f25fd89c699f21e2e8703cb5c], the particulars to be registered in an entry in the Gender Recognition Civil Partnership Register are the same particulars as were required by law to be registered in the parties’ civil partnership register entry.
+(1) Except as provided in paragraph (2) and regulations 16A to 16D[^c-391b3b0f25fd89c699f21e2e8703cb5c], the particulars to be registered in an entry in the Gender Recognition Civil Partnership Register are the same particulars as were required by law to be registered in the parties’ civil partnership register entry.
 
-(2) Any entry in the Gender Recognition Civil Partnership Register must reflect the parties’ names and gender referred to on the gender recognition certificate, or certificates, granted to one or[^key-aa1faffe06d9421cc93e85b01897c544] both parties.
+(2) Any entry in the Gender Recognition Civil Partnership Register must reflect the parties’ names and gender referred to on the gender recognition certificate, or certificates, granted to one or[^c-aa1faffe06d9421cc93e85b01897c544] both parties.
 
 (3) There is no requirement for an entry in the Gender Recognition Civil Partnership Register to be signed by any person, but the Registrar General must register the name of any person who signed the parties’ civil partnership register entry as if they had signed the entry in the Gender Recognition Civil Partnership Register.
 
-(4) Where a civil partnership is registered in the Gender Recognition Civil Partnership Register as having been[^key-577c5cf96e07f756c87b3270d1f96ece] formed in Wales, the particulars to be contained in the Gender Recognition Civil Partnership Register must be recorded in English, and must also be recorded in Welsh if the parties so elect, and provide the required particulars in both languages.
+(4) Where a civil partnership is registered in the Gender Recognition Civil Partnership Register as having been[^c-577c5cf96e07f756c87b3270d1f96ece] formed in Wales, the particulars to be contained in the Gender Recognition Civil Partnership Register must be recorded in English, and must also be recorded in Welsh if the parties so elect, and provide the required particulars in both languages.
 
-(5)[^key-5296bcd9ba59d7f4f51729d84300bd84] In regulations 16A to 16C—
+(5)[^c-5296bcd9ba59d7f4f51729d84300bd84] In regulations 16A to 16C—
 
 - (a) references to a register office mean the register office that is agreed between the Registrar General and the parties to the qualifying civil partnership;
 - (b) references to a civil partnership registrar are to a civil partnership registrar in post on the applicable date for the area in which the register office is situated;
 - (c) “applicable date” means the date on which the qualifying civil partnership is recorded in the Gender Recognition Civil Partnership Register as having been formed.
 
-### 16A. Qualifying civil partnerships of opposite sex couples[^key-c03971265750cb9f48eb38f83aed93e8]
+### 16A. Qualifying civil partnerships of opposite sex couples[^c-c03971265750cb9f48eb38f83aed93e8]
 
 (1) Unless the parties to the qualifying civil partnership specifically request the Registrar General to do so, the Registrar General must not register in the Gender Recognition Civil Partnership Register any of the particulars required by regulation 16(1) if to do so would indicate that a civil partnership was formed by two people of the opposite sex before the date on which the civil partnership could have been formed by virtue of the Civil Partnership (Opposite-sex Couples) Regulations 2019.
 
@@ -285,7 +285,7 @@ Anyone who may have a certified copy of the marriage register entry of a person 
 
 (2) Under paragraph (1), the Registrar General may, in particular, substitute for the name or names of one or both witnesses to the formation of the civil partnership the name or names of one or two other persons who were present at the formation of the civil partnership.
 
-### 17. Indexing of entries in Gender Recognition Civil Partnership Register[^key-5043662cf608351873b05119878cbe54]
+### 17. Indexing of entries in Gender Recognition Civil Partnership Register[^c-5043662cf608351873b05119878cbe54]
 
 (1) The Registrar General must make arrangements for each entry made in the Gender Recognition Civil Partnership Register to be included in the relevant index kept in the General Register Office.
 
@@ -295,23 +295,23 @@ Anyone who may have a certified copy of the marriage register entry of a person 
 
 (4) “The relevant index” in relation to a person’s entry in the Gender Recognition Civil Partnership Register, means the index of entries in registers, or of certified copies of entries in registers, or of civil partnership documents, which includes the person’s civil partnership register entry.
 
-### 18. Access to certified copies of entries in Gender Recognition Civil Partnership Register[^key-8e588d2efa1e7f90b7a8a784a9552a7c]
+### 18. Access to certified copies of entries in Gender Recognition Civil Partnership Register[^c-8e588d2efa1e7f90b7a8a784a9552a7c]
 
 (1) Anyone who may have a certified copy of the civil partnership register entry, or certified copy of the civil partnership document[^f00011], of a person issued with a full gender recognition certificate may have a certified copy of the entry made in relation to the person in the Gender Recognition Civil Partnership Register.
 
-(2)[^key-16dbeb0e7affce3f057ab36a9481ec3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-16dbeb0e7affce3f057ab36a9481ec3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — General
 
-### 19. Certified copies of entries[^key-bce991a4ef46a49030d8a118fcb84213]
+### 19. Certified copies of entries[^c-bce991a4ef46a49030d8a118fcb84213]
 
-(1) A certified copy [^key-39eb32051def9a46eea8aaa70abfe23c]... of an entry in the GR registers must not disclose the fact that the entry is contained in the GR registers.
+(1) A certified copy [^c-39eb32051def9a46eea8aaa70abfe23c]... of an entry in the GR registers must not disclose the fact that the entry is contained in the GR registers.
 
-(2) A certified copy [^key-df6cc1d02ae849ca0f147b1854fc9e35]... of any entry in the GR registers must be stamped or sealed with the seal of the General Register Office.
+(2) A certified copy [^c-df6cc1d02ae849ca0f147b1854fc9e35]... of any entry in the GR registers must be stamped or sealed with the seal of the General Register Office.
 
-(3) A certified copy or certified extract of an entry in the GR registers, stamped or sealed with the seal of the General Register Office[^key-30d5b4e610d9adda3968e592bf11fe58], is to be received as evidence of the marriage or civil partnership to which it relates without any further or other proof of the entry.
+(3) A certified copy or certified extract of an entry in the GR registers, stamped or sealed with the seal of the General Register Office[^c-30d5b4e610d9adda3968e592bf11fe58], is to be received as evidence of the marriage or civil partnership to which it relates without any further or other proof of the entry.
 
-### 20. Correction etc. of GR registers[^key-10f2f9099bcd1d344ace5d0e1fdb329f]
+### 20. Correction etc. of GR registers[^c-10f2f9099bcd1d344ace5d0e1fdb329f]
 
 (1) Any power or duty of the Registrar General or any other person to correct, alter, amend, mark or cancel the marking of a person’s marriage register entry or civil partnership register entry, as the case may be, is exercisable, or falls to be performed, by the Registrar General in relation to an entry in the GR registers which relates to that person.
 
@@ -322,7 +322,7 @@ Anyone who may have a certified copy of the marriage register entry of a person 
 - (a) cancel the entry relating to the person in the Gender Recognition Marriage Register, or the Gender Recognition Civil Partnership Register, as the case may be, and
 - (b) cancel any marking of an entry relating to the person made by virtue of regulation 5(1)(b) or 15(1)(b).
 
-### 21. Revocation of gender recognition certificate etc.[^key-f760b3b61fa793579d29d79fafcc0b5c]
+### 21. Revocation of gender recognition certificate etc.[^c-f760b3b61fa793579d29d79fafcc0b5c]
 
 (1) This regulation applies if, after an entry has been made in one of the GR registers in relation to a person, the High Court, the Court of Session or the family court makes an order under section 8(6) of the 2004 Act[^f00013] quashing the decision to grant the person’s application under section 1(1), 4A, 5(2), 5A(2) or 6(1) of the 2004 Act[^f00014].
 
@@ -365,9 +365,9 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2004 c. 7](https://www.legislation.gov.uk/ukpga/2004/7); paragraph 11A of Schedule 3 was inserted by paragraph 9(2) of Schedule 5 to the 2013 Act.
 
-[^key-309d7cb2376cfd5525be2e323c447a5c]: Commencement: Reg. 1 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-309d7cb2376cfd5525be2e323c447a5c]: Commencement: Reg. 1 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-67a549094bce6edb9a75413d234a238f]: Commencement: Reg. 2 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-67a549094bce6edb9a75413d234a238f]: Commencement: Reg. 2 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
 [^f00002]: Footnote: [2013 c. 30](https://www.legislation.gov.uk/ukpga/2013/30).
 
@@ -375,7 +375,7 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00004]: Footnote: “Qualifying civil partnership” is defined in paragraph 11A(3) of Schedule 3 to the 2004 Act, inserted by paragraph 9(2) of Schedule 5 to the 2013 Act, and means a civil partnership under the law of England and Wales in a case where a full gender recognition certificate has been issued to each of the civil partners.
 
-[^key-7532414f41f93e13cef1592d48c9f65c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/50/regulation/2) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [36(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/36/2) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
+[^c-7532414f41f93e13cef1592d48c9f65c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/50/regulation/2) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [36(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/36/2) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
 
 [^f00005]: Footnote: “Qualifying marriage” is defined in paragraph 11A(3) of Schedule 3 to the 2004 Act, inserted by paragraph 9(2) of Schedule 5 to the 2013 Act, and means a marriage under the law of England and Wales in a case where a full gender recognition certificate has been issued to one, or each, of the spouses.
 
@@ -383,85 +383,85 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00007]: Footnote: There are amendments to the section, not relevant here.
 
-[^key-6531dccdb212c914a9c93d90d877d4ed]: Commencement: Reg. 3 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-6531dccdb212c914a9c93d90d877d4ed]: Commencement: Reg. 3 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-0b5ac1c9a2bdecfe312ad795fbf778db]: Commencement: Reg. 4 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-0b5ac1c9a2bdecfe312ad795fbf778db]: Commencement: Reg. 4 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-f7f84d74c7946c6b4c11d18e85b34056]: Commencement: Reg. 5 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-f7f84d74c7946c6b4c11d18e85b34056]: Commencement: Reg. 5 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-c27d3827707177ee36e60a23d5c11e22]: Commencement: Reg. 6 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-c27d3827707177ee36e60a23d5c11e22]: Commencement: Reg. 6 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-dae40b88a70dde092af27908966940df]: Textual amendment: [Reg. 6(3)(a)-(c)](https://www.legislation.gov.uk/uksi/2015/50/regulation/6/3) and words substituted for words (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 68(2)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/68/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-dae40b88a70dde092af27908966940df]: Textual amendment: [Reg. 6(3)(a)-(c)](https://www.legislation.gov.uk/uksi/2015/50/regulation/6/3) and words substituted for words (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 68(2)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/68/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
 [^f00008]: Footnote: Registration district is defined in section 5 of the Registration Service Act [1953 (c. 37)](https://www.legislation.gov.uk/ukpga/1953/37).
 
-[^key-ae8c9183f2cf9d5d4f62b3bc66aaf62c]: Commencement: Reg. 7 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-ae8c9183f2cf9d5d4f62b3bc66aaf62c]: Commencement: Reg. 7 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-1ab9004abdf1fe8484a470c8a7b6bdf7]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2015/50/regulation/7/1) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 68(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/68/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-1ab9004abdf1fe8484a470c8a7b6bdf7]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2015/50/regulation/7/1) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 68(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/68/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
 [^f00009]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76). There are amendments to the section, not relevant here.
 
-[^key-04c2daf74f9c8ee12fbbc01380fcfb1a]: Commencement: Reg. 8 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-04c2daf74f9c8ee12fbbc01380fcfb1a]: Commencement: Reg. 8 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
 [^f00010]: Footnote: “Condition” means marital or civil partnership status prior to the marriage (or civil partnership), and is registered using forms of words prescribed under section 55(1) of the Marriage Act 1949.
 
-[^key-64a4ffbded5ea2306f048c36565f93c3]: Textual amendment: Words in [reg. 8(3)(a)](https://www.legislation.gov.uk/uksi/2015/50/regulation/8/3/a) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 68(4)(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/68/4/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-64a4ffbded5ea2306f048c36565f93c3]: Textual amendment: Words in [reg. 8(3)(a)](https://www.legislation.gov.uk/uksi/2015/50/regulation/8/3/a) omitted (4.5.2021) by virtue of [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 68(4)(a)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/68/4/a) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-980a7a0343337f9e7fcd632b3f0ff016]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/uksi/2015/50/regulation/8/4) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 68(4)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/68/4/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-980a7a0343337f9e7fcd632b3f0ff016]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/uksi/2015/50/regulation/8/4) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 68(4)(b)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/68/4/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-88f7f6aa3571460df48b1c2ddb2971ad]: Commencement: Reg. 9 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-88f7f6aa3571460df48b1c2ddb2971ad]: Commencement: Reg. 9 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-183a5449f88bcdf2c2eecda697ace3e7]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2015/50/regulation/9/2) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 68(5)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/68/5) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-183a5449f88bcdf2c2eecda697ace3e7]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2015/50/regulation/9/2) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 68(5)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/68/5) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-2a5e25ed89f705444dbf03c4dac280da]: Commencement: Reg. 10 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-2a5e25ed89f705444dbf03c4dac280da]: Commencement: Reg. 10 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-46f81bafaf19bed2ee9829ac1afe79ca]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2015/50/regulation/10/3) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 68(6)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/68/6) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-46f81bafaf19bed2ee9829ac1afe79ca]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2015/50/regulation/10/3) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 68(6)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/68/6) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-876695f6fd9a12892c15e89b950b85fa]: Commencement: Reg. 11 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-876695f6fd9a12892c15e89b950b85fa]: Commencement: Reg. 11 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-eddcaaf7c1981040692fa21bdaf3e3fb]: Commencement: Reg. 12 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-eddcaaf7c1981040692fa21bdaf3e3fb]: Commencement: Reg. 12 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-eb028073f9fb327ff9deaef5d2a38f1c]: Commencement: Reg. 13 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-eb028073f9fb327ff9deaef5d2a38f1c]: Commencement: Reg. 13 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-ede8f99fb02631bf6d4a894e6bbcbb5d]: Commencement: Reg. 14 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-ede8f99fb02631bf6d4a894e6bbcbb5d]: Commencement: Reg. 14 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-cc45efadad57e907469184d5aca19f33]: Commencement: Reg. 15 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-cc45efadad57e907469184d5aca19f33]: Commencement: Reg. 15 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-b8acd789403038f9d8163daa31095782]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2015/50/regulation/15/2) omitted (4.5.2021) by virtue of [The Civil Partnership (Registration and Records) (Amendment) Regulations 2021 (S.I. 2021/410)](https://www.legislation.gov.uk/uksi/2021/410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/410/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2021/410/regulation/15/2)
+[^c-b8acd789403038f9d8163daa31095782]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2015/50/regulation/15/2) omitted (4.5.2021) by virtue of [The Civil Partnership (Registration and Records) (Amendment) Regulations 2021 (S.I. 2021/410)](https://www.legislation.gov.uk/uksi/2021/410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/410/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2021/410/regulation/15/2)
 
-[^key-95661a881258c69b27b4c979c241aaa3]: Commencement: Reg. 16 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-95661a881258c69b27b4c979c241aaa3]: Commencement: Reg. 16 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-391b3b0f25fd89c699f21e2e8703cb5c]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2015/50/regulation/16/1) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [36(3)(a)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/36/3/a) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
+[^c-391b3b0f25fd89c699f21e2e8703cb5c]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2015/50/regulation/16/1) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [36(3)(a)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/36/3/a) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
 
-[^key-aa1faffe06d9421cc93e85b01897c544]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2015/50/regulation/16/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [36(3)(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/36/3/b) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
+[^c-aa1faffe06d9421cc93e85b01897c544]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2015/50/regulation/16/2) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [36(3)(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/36/3/b) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
 
-[^key-577c5cf96e07f756c87b3270d1f96ece]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/uksi/2015/50/regulation/16/4) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [36(3)(c)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/36/3/c) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
+[^c-577c5cf96e07f756c87b3270d1f96ece]: Textual amendment: Words in [reg. 16(4)](https://www.legislation.gov.uk/uksi/2015/50/regulation/16/4) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [36(3)(c)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/36/3/c) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
 
-[^key-5296bcd9ba59d7f4f51729d84300bd84]: Textual amendment: [Reg. 16(5)](https://www.legislation.gov.uk/uksi/2015/50/regulation/16/5) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [36(3)(d)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/36/3/d) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
+[^c-5296bcd9ba59d7f4f51729d84300bd84]: Textual amendment: [Reg. 16(5)](https://www.legislation.gov.uk/uksi/2015/50/regulation/16/5) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [36(3)(d)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/36/3/d) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
 
-[^key-c03971265750cb9f48eb38f83aed93e8]: Textual amendment: [Regs. 16A-16D](https://www.legislation.gov.uk/uksi/2015/50/regulation/16A) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [36(4)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/36/4) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
+[^c-c03971265750cb9f48eb38f83aed93e8]: Textual amendment: [Regs. 16A-16D](https://www.legislation.gov.uk/uksi/2015/50/regulation/16A) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [36(4)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/36/4) (with [reg. 35](https://www.legislation.gov.uk/uksi/2019/1458/regulation/35))
 
-[^key-5043662cf608351873b05119878cbe54]: Commencement: Reg. 17 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-5043662cf608351873b05119878cbe54]: Commencement: Reg. 17 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-8e588d2efa1e7f90b7a8a784a9552a7c]: Commencement: Reg. 18 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-8e588d2efa1e7f90b7a8a784a9552a7c]: Commencement: Reg. 18 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
 [^f00011]: Footnote: See article 14(3) of [S.I. 2005/2761](https://www.legislation.gov.uk/uksi/2005/2761).
 
-[^key-16dbeb0e7affce3f057ab36a9481ec3c]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/2015/50/regulation/18/2) omitted (4.5.2021) by virtue of [The Civil Partnership (Registration and Records) (Amendment) Regulations 2021 (S.I. 2021/410)](https://www.legislation.gov.uk/uksi/2021/410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/410/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2021/410/regulation/15/3) (with [reg. 15(5)](https://www.legislation.gov.uk/uksi/2021/410/regulation/15/5))
+[^c-16dbeb0e7affce3f057ab36a9481ec3c]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/2015/50/regulation/18/2) omitted (4.5.2021) by virtue of [The Civil Partnership (Registration and Records) (Amendment) Regulations 2021 (S.I. 2021/410)](https://www.legislation.gov.uk/uksi/2021/410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/410/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2021/410/regulation/15/3) (with [reg. 15(5)](https://www.legislation.gov.uk/uksi/2021/410/regulation/15/5))
 
-[^key-bce991a4ef46a49030d8a118fcb84213]: Commencement: Reg. 19 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-bce991a4ef46a49030d8a118fcb84213]: Commencement: Reg. 19 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
-[^key-39eb32051def9a46eea8aaa70abfe23c]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2015/50/regulation/19/1) omitted (4.5.2021) by virtue of [The Civil Partnership (Registration and Records) (Amendment) Regulations 2021 (S.I. 2021/410)](https://www.legislation.gov.uk/uksi/2021/410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/410/regulation/1/2), [15(4)(a)](https://www.legislation.gov.uk/uksi/2021/410/regulation/15/4/a)
+[^c-39eb32051def9a46eea8aaa70abfe23c]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2015/50/regulation/19/1) omitted (4.5.2021) by virtue of [The Civil Partnership (Registration and Records) (Amendment) Regulations 2021 (S.I. 2021/410)](https://www.legislation.gov.uk/uksi/2021/410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/410/regulation/1/2), [15(4)(a)](https://www.legislation.gov.uk/uksi/2021/410/regulation/15/4/a)
 
-[^key-df6cc1d02ae849ca0f147b1854fc9e35]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2015/50/regulation/19/2) omitted (4.5.2021) by virtue of [The Civil Partnership (Registration and Records) (Amendment) Regulations 2021 (S.I. 2021/410)](https://www.legislation.gov.uk/uksi/2021/410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/410/regulation/1/2), [15(4)(a)](https://www.legislation.gov.uk/uksi/2021/410/regulation/15/4/a)
+[^c-df6cc1d02ae849ca0f147b1854fc9e35]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2015/50/regulation/19/2) omitted (4.5.2021) by virtue of [The Civil Partnership (Registration and Records) (Amendment) Regulations 2021 (S.I. 2021/410)](https://www.legislation.gov.uk/uksi/2021/410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/410/regulation/1/2), [15(4)(a)](https://www.legislation.gov.uk/uksi/2021/410/regulation/15/4/a)
 
-[^key-30d5b4e610d9adda3968e592bf11fe58]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2015/50/regulation/19/3) substituted (4.5.2021) by [The Civil Partnership (Registration and Records) (Amendment) Regulations 2021 (S.I. 2021/410)](https://www.legislation.gov.uk/uksi/2021/410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/410/regulation/1/2), [15(4)(b)](https://www.legislation.gov.uk/uksi/2021/410/regulation/15/4/b)
+[^c-30d5b4e610d9adda3968e592bf11fe58]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2015/50/regulation/19/3) substituted (4.5.2021) by [The Civil Partnership (Registration and Records) (Amendment) Regulations 2021 (S.I. 2021/410)](https://www.legislation.gov.uk/uksi/2021/410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/410/regulation/1/2), [15(4)(b)](https://www.legislation.gov.uk/uksi/2021/410/regulation/15/4/b)
 
-[^key-10f2f9099bcd1d344ace5d0e1fdb329f]: Commencement: Reg. 20 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-10f2f9099bcd1d344ace5d0e1fdb329f]: Commencement: Reg. 20 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
 [^f00012]: Footnote: Section 6 was amended by paragraph 6 of Schedule 5 to the 2013 Act.
 
-[^key-f760b3b61fa793579d29d79fafcc0b5c]: Commencement: Reg. 21 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
+[^c-f760b3b61fa793579d29d79fafcc0b5c]: Commencement: Reg. 21 in force at 6.2.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/50/regulation/1)
 
 [^f00013]: Footnote: Section 8 was amended by section 250(5)(b) of the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33); paragraph 160 of Schedule 11(1) to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22); and paragraph 8 of Schedule 5 to the 2013 Act.
 

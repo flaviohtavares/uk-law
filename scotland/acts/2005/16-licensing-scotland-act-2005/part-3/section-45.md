@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Provisional premises licence[^key-d351bfbe3cd35f36f50b23e33dd6c901]
+## 45. Provisional premises licence[^c-d351bfbe3cd35f36f50b23e33dd6c901]
 
 *Extent: S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 is referred to in this Act as a “provisional premises licence”.
 
-(6) The provisional period, in relation to a provisional premises licence, is the period of 4[^key-40e2629e0afa56a036220dd6374808db] years beginning with the date of issue of the licence.
+(6) The provisional period, in relation to a provisional premises licence, is the period of 4[^c-40e2629e0afa56a036220dd6374808db] years beginning with the date of issue of the licence.
 
 (7) On the application of the holder of a provisional premises licence made before the expiry of the provisional period, the Licensing Board which issued the licence may, if satisfied as to the matter mentioned in subsection (8), extend the provisional period by such period as the Board considers appropriate.
 
@@ -59,6 +59,6 @@ is referred to in this Act as a “provisional premises licence”.
 
 ## Annotations
 
-[^key-d351bfbe3cd35f36f50b23e33dd6c901]: Commencement: S. 45 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-d351bfbe3cd35f36f50b23e33dd6c901]: Commencement: S. 45 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-40e2629e0afa56a036220dd6374808db]: Textual amendment: Figure in s. 45(6) substituted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 185](https://www.legislation.gov.uk/asp/2010/13/section/185), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2010/413/article/8))
+[^c-40e2629e0afa56a036220dd6374808db]: Textual amendment: Figure in s. 45(6) substituted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 185](https://www.legislation.gov.uk/asp/2010/13/section/185), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2010/413/article/8))

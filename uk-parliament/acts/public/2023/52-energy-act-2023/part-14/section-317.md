@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 317. Great British Nuclear[^key-8b270189deba08f7e66a98e329e8ecbd]
+## 317. Great British Nuclear[^c-8b270189deba08f7e66a98e329e8ecbd]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b270189deba08f7e66a98e329e8ecbd]: Commencement: S. 317 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-8b270189deba08f7e66a98e329e8ecbd]: Commencement: S. 317 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

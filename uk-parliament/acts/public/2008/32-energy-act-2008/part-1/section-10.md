@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. OGA's power of direction[^key-5ff5f6fdfa8afac51253aa3b6ea5b7c3][^key-143c79ecf3aa2d49c0274532e3d1e8b3]
+## 10. OGA's power of direction[^c-5ff5f6fdfa8afac51253aa3b6ea5b7c3][^c-143c79ecf3aa2d49c0274532e3d1e8b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ff5f6fdfa8afac51253aa3b6ea5b7c3]: Commencement: S. 10 in force at 13.11.2009 for specified purposes by [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
+[^c-5ff5f6fdfa8afac51253aa3b6ea5b7c3]: Commencement: S. 10 in force at 13.11.2009 for specified purposes by [S.I. 2009/2809](https://www.legislation.gov.uk/uksi/2009/2809), [art. 2](https://www.legislation.gov.uk/uksi/2009/2809/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/2809/article/4))
 
-[^key-143c79ecf3aa2d49c0274532e3d1e8b3]: Textual amendment: Word in s. 10 substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 47](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/47); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-143c79ecf3aa2d49c0274532e3d1e8b3]: Textual amendment: Word in s. 10 substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 47](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/47); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

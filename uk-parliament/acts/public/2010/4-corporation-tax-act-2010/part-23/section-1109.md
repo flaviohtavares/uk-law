@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1109. Tax credits for certain recipients of exempt qualifying distributions[^key-61e4b06832ce6ae6f9d6ca1c9cce001d]
+## 1109. Tax credits for certain recipients of exempt qualifying distributions[^c-61e4b06832ce6ae6f9d6ca1c9cce001d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61e4b06832ce6ae6f9d6ca1c9cce001d]: Textual amendment: [S. 1109](https://www.legislation.gov.uk/ukpga/2010/4/section/1109) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/1/2)
+[^c-61e4b06832ce6ae6f9d6ca1c9cce001d]: Textual amendment: [S. 1109](https://www.legislation.gov.uk/ukpga/2010/4/section/1109) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/1/2)

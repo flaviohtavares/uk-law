@@ -25,9 +25,9 @@ summary: ''
 - (a) aerodrome;
 - (b) airport, and its operator;
 - (c) great national emergency;
-- (ca)[^key-c8d883bd5e424b760679eae1e55f9549] range control services;
+- (ca)[^c-c8d883bd5e424b760679eae1e55f9549] range control services;
 - (d) relevant asset, and a person who owns or operates it;
-- (da)[^key-eb74c66a7233ff534ec0585b598e431b] spacecraft;
+- (da)[^c-eb74c66a7233ff534ec0585b598e431b] spacecraft;
 - (db) spaceflight activities;
 - (dc) spaceport;
 - (e) United Kingdom air transport undertaking.
@@ -42,10 +42,10 @@ summary: ''
 
 (6) A relevant asset is any—
 
-- (a) aerodrome or spaceport[^key-753aa9df86a59574a80d83f8aab37e77],
-- (b) property used in connection with the operation of an aerodrome or spaceport[^key-2584a057a33899ec52b821298ce5f998],
-- (c) aircraft or spacecraft[^key-f758ddbdf229e78d719c8f5e5e41fc18], or
-- (d) property used in connection with the provision of air traffic services or range control services[^key-c931025e934456fe632db6f705cb832f].
+- (a) aerodrome or spaceport[^c-753aa9df86a59574a80d83f8aab37e77],
+- (b) property used in connection with the operation of an aerodrome or spaceport[^c-2584a057a33899ec52b821298ce5f998],
+- (c) aircraft or spacecraft[^c-f758ddbdf229e78d719c8f5e5e41fc18], or
+- (d) property used in connection with the provision of air traffic services or range control services[^c-c931025e934456fe632db6f705cb832f].
 
 (7) An owner of a relevant asset is a person—
 
@@ -54,7 +54,7 @@ summary: ''
 
 (8) An operator of a relevant asset is a person who manages it.
 
-(9)[^key-d452678797d3812a7ea1d3a4f0f7f2d5] The following expressions have the same meaning as in the Space Industry Act 2018—
+(9)[^c-d452678797d3812a7ea1d3a4f0f7f2d5] The following expressions have the same meaning as in the Space Industry Act 2018—
 
 - range control services (see section 6 of that Act);
 - spacecraft (see section 2(6) of that Act);
@@ -65,18 +65,18 @@ summary: ''
 
 [^c14880511]: Commencement: S. 95 wholly in force at 1.2.2001, see s. 275(1)(2) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-c8d883bd5e424b760679eae1e55f9549]: Textual amendment: [S. 95(1)(ca)](https://www.legislation.gov.uk/ukpga/2000/38/section/95/1/ca) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 22(2)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/22/2); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-c8d883bd5e424b760679eae1e55f9549]: Textual amendment: [S. 95(1)(ca)](https://www.legislation.gov.uk/ukpga/2000/38/section/95/1/ca) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 22(2)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/22/2); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-eb74c66a7233ff534ec0585b598e431b]: Textual amendment: [S. 95(1)(da)-(dc)](https://www.legislation.gov.uk/ukpga/2000/38/section/95/1/da) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 22(3)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/22/3); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-eb74c66a7233ff534ec0585b598e431b]: Textual amendment: [S. 95(1)(da)-(dc)](https://www.legislation.gov.uk/ukpga/2000/38/section/95/1/da) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 22(3)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/22/3); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
 [^c14880521]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).
 
-[^key-753aa9df86a59574a80d83f8aab37e77]: Textual amendment: Words in [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2000/38/section/95/6/a) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 22(4)(a)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/22/4/a); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-753aa9df86a59574a80d83f8aab37e77]: Textual amendment: Words in [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2000/38/section/95/6/a) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 22(4)(a)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/22/4/a); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-2584a057a33899ec52b821298ce5f998]: Textual amendment: Words in [s. 95(6)(b)](https://www.legislation.gov.uk/ukpga/2000/38/section/95/6/b) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 22(4)(a)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/22/4/a); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-2584a057a33899ec52b821298ce5f998]: Textual amendment: Words in [s. 95(6)(b)](https://www.legislation.gov.uk/ukpga/2000/38/section/95/6/b) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 22(4)(a)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/22/4/a); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-f758ddbdf229e78d719c8f5e5e41fc18]: Textual amendment: Words in [s. 95(6)(c)](https://www.legislation.gov.uk/ukpga/2000/38/section/95/6/c) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 22(4)(b)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/22/4/b); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-f758ddbdf229e78d719c8f5e5e41fc18]: Textual amendment: Words in [s. 95(6)(c)](https://www.legislation.gov.uk/ukpga/2000/38/section/95/6/c) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 22(4)(b)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/22/4/b); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-c931025e934456fe632db6f705cb832f]: Textual amendment: Words in [s. 95(6)(d)](https://www.legislation.gov.uk/ukpga/2000/38/section/95/6/d) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 22(4)(c)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/22/4/c); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-c931025e934456fe632db6f705cb832f]: Textual amendment: Words in [s. 95(6)(d)](https://www.legislation.gov.uk/ukpga/2000/38/section/95/6/d) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 22(4)(c)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/22/4/c); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
 
-[^key-d452678797d3812a7ea1d3a4f0f7f2d5]: Textual amendment: [S. 95(9)](https://www.legislation.gov.uk/ukpga/2000/38/section/95/9) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 22(5)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/22/5); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-d452678797d3812a7ea1d3a4f0f7f2d5]: Textual amendment: [S. 95(9)](https://www.legislation.gov.uk/ukpga/2000/38/section/95/9) inserted (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1), [Sch. 12 para. 22(5)](https://www.legislation.gov.uk/ukpga/2018/5/schedule/12/paragraph/22/5); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 117](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/117) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

@@ -48,11 +48,11 @@ In accordance with section 373(3) of the Armed Forces Act 2006 a draft of this i
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-7bed45ccdd32eccdb16bf5a59851e343]
+### 1. Citation and commencement[^c-7bed45ccdd32eccdb16bf5a59851e343]
 
 This Order may be cited as the Armed Forces (Powers of Stop and Search, Search, Seizure and Retention) Order 2009 and shall come into force on the 31st October 2009.
 
-### 2. Interpretation[^key-f8aefee64268d16ebc55c790ffe0c90c]
+### 2. Interpretation[^c-f8aefee64268d16ebc55c790ffe0c90c]
 
 In this Order—
 
@@ -84,7 +84,7 @@ In this Order—
 
 ## PART 2 — Searches
 
-### 3. Stop and search by a service policeman[^key-d93f9d257afe82193bb576e72f488887]
+### 3. Stop and search by a service policeman[^c-d93f9d257afe82193bb576e72f488887]
 
 (1) A service policeman who detains a person or vehicle in exercise of the power conferred by section 75 of the Act need not conduct a search if it appears to him subsequently that a search is impracticable.
 
@@ -115,7 +115,7 @@ and the service policeman shall not commence the search until he has performed t
 
 (7) Section 75 shall not give a service policeman who is not in uniform a power to stop a vehicle.
 
-### 4. Record of search by service policeman[^key-4f14cdea87588a9bd5e13e42ec66f1ab]
+### 4. Record of search by service policeman[^c-4f14cdea87588a9bd5e13e42ec66f1ab]
 
 (1) Where a service policeman has carried out a search in the exercise of the power conferred by section 75 of the Act, he shall make a record of it in writing unless it is not practicable to do so.
 
@@ -154,7 +154,7 @@ the person who made the request shall be entitled to a copy.
 
 (9) The period mentioned in paragraphs (7) and (8) is the period of 12 months beginning with the date on which the search was made.
 
-### 5. Searches under section 76 of the Act[^key-d56bc781cd7610a626fb0dc17c9f8666]
+### 5. Searches under section 76 of the Act[^c-d56bc781cd7610a626fb0dc17c9f8666]
 
 (1) This article applies where under section 76(1) of the Act an officer gives a person (referred to below in this article as “the relevant person”) an order or an authorisation.
 
@@ -214,11 +214,11 @@ the person who made the request shall be entitled to a copy.
 
 (13) The period mentioned in paragraphs (11) and (12) is the period of 12 months beginning with the date on which the search was made.
 
-### 6. Access to excluded and special procedure material[^key-34f8120032d1ee3ab99a687fe0cde30e]
+### 6. Access to excluded and special procedure material[^c-34f8120032d1ee3ab99a687fe0cde30e]
 
 A service policeman may obtain access to excluded material or special procedure material on relevant residential premises for the purposes of an investigation of a relevant offence by making an application under Schedule 1 and in accordance with that Schedule.
 
-### 7. Application for warrants or orders by live links[^key-6cb936ff3b5fb9e124e5b88151bf539e]
+### 7. Application for warrants or orders by live links[^c-6cb936ff3b5fb9e124e5b88151bf539e]
 
 A service policeman may make—
 
@@ -227,7 +227,7 @@ A service policeman may make—
 
 using live television or telephone links or similar arrangements if it is not reasonably practicable for him to make the application in person.
 
-### 8. Search warrants – safeguards[^key-96cb57b4ad758f97cdd9e296a7904c83]
+### 8. Search warrants – safeguards[^c-96cb57b4ad758f97cdd9e296a7904c83]
 
 (1) This article, and articles 9 and 10, have effect in relation to the issue to service policemen under section 83 of the Act or under Schedule 1 of warrants to enter and search premises.
 
@@ -268,7 +268,7 @@ using live television or telephone links or similar arrangements if it is not re
 
 (11) The copies shall be clearly certified as copies by the judge advocate who issues the warrant.
 
-### 9. Execution of warrants[^key-e8662c36080b92126980eb813d64ae89]
+### 9. Execution of warrants[^c-e8662c36080b92126980eb813d64ae89]
 
 (1) A warrant to enter and search premises may be executed by any service policeman.
 
@@ -318,7 +318,7 @@ paragraph (7) shall have effect as if any reference to the occupier were a refer
 
 (14) If during the period for which a warrant is to be retained the occupier of premises to which it relates asks to inspect it, he shall be allowed to do so.
 
-### 10. Safeguards and execution of warrants – further provisions[^key-eac031a73f40732e1b3f08619303cb13]
+### 10. Safeguards and execution of warrants – further provisions[^c-eac031a73f40732e1b3f08619303cb13]
 
 (1) Where—
 
@@ -359,7 +359,7 @@ articles 8 and 9 shall have effect subject to the following provisions of this a
 - (f) the requirements of article 9(12) shall not be satisfied unless the document referred to in sub-paragraph (a)(i) is sent to the Judge Advocate General;
 - (g) article 9(13) and (14) shall also apply to the document sent in accordance with sub-paragraph (f).
 
-### 11. Oaths and affirmations[^key-63a5892e1be9303f897cb19fd231b7dd]
+### 11. Oaths and affirmations[^c-63a5892e1be9303f897cb19fd231b7dd]
 
 (1) Before a judge advocate asks any question which a service policeman would be required under article 8(6) to answer on oath, an oath shall be administered to the service policeman.
 
@@ -372,7 +372,7 @@ he shall be required to make a solemn affirmation instead of taking an oath.
 
 (3) An oath or affirmation required to be administered under this Order shall be administered in the form and manner set out in Schedule 2 by the judge advocate or by another person acting on his behalf.
 
-### 12. Search of premises where person arrested[^key-cd1440259ed734e83d7719ac787da496]
+### 12. Search of premises where person arrested[^c-cd1440259ed734e83d7719ac787da496]
 
 (1) This article shall apply in any case where a person is arrested under section 67 of the Act for a serious service offence.
 
@@ -396,7 +396,7 @@ for evidence relating to the offence for which he has been arrested.
 - (a) any dwelling in which the arrest took place or in which the person arrested was immediately before his arrest; and
 - (b) any parts of the premises which the occupier of any such dwelling uses in common with the occupiers of any other dwellings comprised in the premises.
 
-### 13. Entry and search after arrest[^key-a6d240988c9ef48e5e3391a43f6fe813]
+### 13. Entry and search after arrest[^c-a6d240988c9ef48e5e3391a43f6fe813]
 
 (1) This article applies to any premises occupied or controlled by a person who has been arrested under section 67 of the Act for a serious service offence and is being held in service custody without being charged**.**
 
@@ -427,7 +427,7 @@ shall make a written record of the grounds of the search and the nature of the e
 
 ## PART 3 — Seizure, copying and retention
 
-### 14. General power of seizure[^key-3d7b16c1a492366b44c757dc47fc3454]
+### 14. General power of seizure[^c-3d7b16c1a492366b44c757dc47fc3454]
 
 (1) The powers conferred by paragraphs (2), (3) and (4) are exercisable by a service policeman who, in connection with the investigation of a service offence, is lawfully on premises which are searchable by virtue of Part 3 of the Act.
 
@@ -452,7 +452,7 @@ shall make a written record of the grounds of the search and the nature of the e
 
 (6) Subject to articles 19(5) and 20(5), nothing in this Order is to be taken to authorise the seizure of an item which the service policeman has reasonable grounds for believing is subject to legal privilege.
 
-### 15. Extension of powers of seizure to computerised information[^key-6b373bed691834869508bf7678910dff]
+### 15. Extension of powers of seizure to computerised information[^c-6b373bed691834869508bf7678910dff]
 
 (1) Every power of seizure which is conferred by an enactment to which this article applies on a person who has entered premises in the exercise of a power conferred by or under Part 3 of the Act shall be construed as including a power to require any information stored in any electronic form and accessible from the premises to be produced in a form in which it can be taken away and in which it is visible and legible or from which it can readily be produced in a visible and legible form.
 
@@ -462,7 +462,7 @@ shall make a written record of the grounds of the search and the nature of the e
 - (b) article 13(4); and
 - (c) paragraph 13 of Schedule 1.
 
-### 16. Access and copying[^key-3a6390eddc83cf3a19d1f7772065ae0f]
+### 16. Access and copying[^c-3a6390eddc83cf3a19d1f7772065ae0f]
 
 (1) A person who seizes anything in the exercise of a power conferred by or under Part 3 of the Act (an “authorised person”) shall, if so requested by a person showing himself—
 
@@ -499,7 +499,7 @@ is made to the investigator by a person who had custody or control of the thing 
 
 (9) In paragraph (3) “the investigator” means the person in charge of the investigation.
 
-### 17. Retention[^key-1d3487cd602c33b0ece1da9b24bc3095]
+### 17. Retention[^c-1d3487cd602c33b0ece1da9b24bc3095]
 
 (1) Subject to paragraph (4), anything which has been seized by a person exercising a power of seizure conferred by or under Part 3 of the Act or taken away by a person following a requirement made by virtue of article 14 or 15 may be retained so long as is necessary in all the circumstances.
 
@@ -528,7 +528,7 @@ may be retained when the person from whom it was seized is no longer in service 
 
 ## PART 4 — Additional powers of seizure
 
-### 18. Interpretation[^key-aa4d6e5a2285b79c9b5fb42e3edaeb60]
+### 18. Interpretation[^c-aa4d6e5a2285b79c9b5fb42e3edaeb60]
 
 (1) In this Part—
 
@@ -558,7 +558,7 @@ may be retained when the person from whom it was seized is no longer in service 
 - (b) if the premises are a room, structure or area within section 96(1)(b) of the Act, any person subject to service law for whom the premises are used to provide sleeping accommodation; and
 - (c) if the premises are a locker within section 96(1)(c) of the Act, the person subject to service law for whose personal use the locker is provided.
 
-### 19. Additional powers of seizure from premises[^key-33cdff4b43b2a608112a4b0edf469990]
+### 19. Additional powers of seizure from premises[^c-33cdff4b43b2a608112a4b0edf469990]
 
 (1) This paragraph applies where—
 
@@ -597,7 +597,7 @@ that person’s powers of seizure shall include power under this article to seiz
 
 (6) This article applies to each of the powers of seizure conferred by or under Chapter 1 or 3 of Part 3 of the Act, except sections 87 and 88 of the Act.
 
-### 20. Additional powers of seizure from the person[^key-f362625168219f6a65cc7c1c37aaabad]
+### 20. Additional powers of seizure from the person[^c-f362625168219f6a65cc7c1c37aaabad]
 
 (1) This paragraph applies where—
 
@@ -634,7 +634,7 @@ that service policeman’s powers of seizure shall include power under this arti
 
 (5) Article 14(6) shall not apply to the power of seizure conferred by paragraph (3).
 
-### 21. Notice of exercise of power under article 19 or 20[^key-268efdc4d74c5cb79f8cb70a84af629a]
+### 21. Notice of exercise of power under article 19 or 20[^c-268efdc4d74c5cb79f8cb70a84af629a]
 
 (1) Where a person exercises a power of seizure conferred by article 19, it shall (subject to paragraphs (2) and (3)) be his duty, on doing so, to give to the occupier of the premises a written notice—
 
@@ -661,7 +661,7 @@ paragraph (1) shall have effect as if it required the notice under that paragrap
 - (d) specifying the name and address of the person to whom notice of an application under article 28(2) for the return of any of the seized property must be given; and
 - (e) specifying the name and address of the person to whom an application may be made to be allowed to attend the initial examination required by any arrangements made for the purposes of article 22(2).
 
-### 22. Examination and return of property seized under article 19 or 20[^key-7e73032f527073cb48b8e29175dfbeed]
+### 22. Examination and return of property seized under article 19 or 20[^c-7e73032f527073cb48b8e29175dfbeed]
 
 (1) This article applies where anything has been seized under a power conferred by article 19 or 20.
 
@@ -682,7 +682,7 @@ paragraph (1) shall have effect as if it required the notice under that paragrap
 
 (5) In this article, references to whether or not it is reasonably practicable to separate part of the seized property from the rest of it are references to whether or not it is reasonably practicable to do so without prejudicing the use of the rest of that property, or a part of it, for purposes for which (disregarding the part to be separated) the use of the whole or of a part of the rest of the property, if retained, would be lawful.
 
-### 23. Obligation to return items subject to legal privilege[^key-eeeda9c67ad924b4d28b002dad857d29]
+### 23. Obligation to return items subject to legal privilege[^c-eeeda9c67ad924b4d28b002dad857d29]
 
 (1) This paragraph applies where, at any time after a seizure of anything has been made in exercise of a power of seizure to which this article applies, it appears to the person for the time being having possession of the seized property in consequence of the seizure that the property—
 
@@ -705,7 +705,7 @@ paragraph (1) shall have effect as if it required the notice under that paragrap
 
 (5) This article applies to each of the powers of seizure conferred by Part 3 of the Act or by this Order.
 
-### 24. Obligation to return excluded and special procedure material[^key-445c398b78eb974d86ffda694e28a4bc]
+### 24. Obligation to return excluded and special procedure material[^c-445c398b78eb974d86ffda694e28a4bc]
 
 (1) This paragraph applies where, at any time after a seizure of anything has been made pursuant to a warrant granted under section 83 of the Act—
 
@@ -727,7 +727,7 @@ paragraph (1) shall have effect as if it required the notice under that paragrap
 - (a) the whole or a part of the rest of the property is property the retention of which is authorised by article 25; and
 - (b) in all the circumstances, it is not reasonably practicable for that material to be separated from the rest of that property (or, as the case may be, from that part of it) without prejudicing the use of the rest of that property, or that part of it, for purposes for which (disregarding that material) its use, if retained, would be lawful.
 
-### 25. Authorised retention of property[^key-17e947e3f0a869b47bfa15b39fb01a2d]
+### 25. Authorised retention of property[^c-17e947e3f0a869b47bfa15b39fb01a2d]
 
 (1) For the purpose of articles 22 to 24, the retention of property seized is authorised by this article if the property falls within paragraph (2) or (3).
 
@@ -743,7 +743,7 @@ paragraph (1) shall have effect as if it required the notice under that paragrap
 
 (4) Nothing in this article authorises the retention (except in pursuance of article 23(3)) of anything at any time when its return is required by article 23.
 
-### 26. Application of article 17 to property seized under this Part[^key-966243df5fb018bb03a6b9afab9bc1fe]
+### 26. Application of article 17 to property seized under this Part[^c-966243df5fb018bb03a6b9afab9bc1fe]
 
 (1) Article 17 shall apply in relation to any property seized in exercise of a power conferred by article 19 or 20 as if the property had been seized under the power of seizure by reference to which the power under article 19 or 20 was exercised in relation to that property.
 
@@ -751,7 +751,7 @@ paragraph (1) shall have effect as if it required the notice under that paragrap
 
 (3) Nothing in article 17 authorises the retention of anything after an obligation to return it has arisen under this Part.
 
-### 27. Person to whom seized property is to be returned[^key-fb229c459f67bae25ad464544235d912]
+### 27. Person to whom seized property is to be returned[^c-fb229c459f67bae25ad464544235d912]
 
 (1) Where—
 
@@ -778,7 +778,7 @@ his duty to return it shall, instead, be a duty to return it to that other perso
 
 are references to that person.
 
-### 28. Application to a judge advocate[^key-d9c928a6e20c62509d0f77e0001c1379]
+### 28. Application to a judge advocate[^c-d9c928a6e20c62509d0f77e0001c1379]
 
 (1) This article applies where anything has been seized in exercise, or purported exercise, of a relevant power of seizure.
 
@@ -839,7 +839,7 @@ if the judge advocate is satisfied that the retention of the property is justifi
 
 (12) For the purposes of paragraph (11)(b), the persons who have an interest in seized property shall, in the case of property which is or contains an item subject to legal privilege, be taken to include the person in whose favour that privilege is conferred.
 
-### 29. Cases where duty to secure arises[^key-baeb09f7e0ae641c7743758f7ee10470]
+### 29. Cases where duty to secure arises[^c-baeb09f7e0ae641c7743758f7ee10470]
 
 (1) Where property has been seized in exercise, or purported exercise, of any power of seizure conferred by article 19 or 20, a duty to secure arises under article 30 in relation to the seized property if—
 
@@ -867,7 +867,7 @@ if the judge advocate is satisfied that the retention of the property is justifi
 - (b) the person for the time being having possession, in consequence of the seizure, of the seized property; or
 - (c) the person named for the purposes of paragraph (1)(d) or (4)(d) of article 21 in any notice given under that article with respect to the seizure.
 
-### 30. The duty to secure[^key-71d88f081c56d58d4ef8292e9c1e1a3d]
+### 30. The duty to secure[^c-71d88f081c56d58d4ef8292e9c1e1a3d]
 
 (1) The duty to secure that arises under this article is a duty of the person for the time being having possession, in consequence of the seizure, of the seized property to secure that arrangements are in force that ensure that the seized property (without being returned) is not, at any time after the giving of the notice of the application under article 29(1), either—
 
@@ -880,7 +880,7 @@ except with the consent of the applicant or in accordance with the directions of
 
 (3) Nothing in any arrangements for the purposes of this article shall be taken to prevent the giving of a notice under section 49 of the Regulation of Investigatory Powers Act 2000[^f00002] (notices for the disclosure of material protected by encryption etc) in respect of any information contained in the seized material; but paragraph (1) shall apply to anything disclosed for the purpose of complying with such a notice as it applies to the seized material in which the information in question is contained.
 
-### 31. Use of inextricably linked property[^key-6a70b58c02d013568f38c057a6af7eed]
+### 31. Use of inextricably linked property[^c-6a70b58c02d013568f38c057a6af7eed]
 
 (1) This article applies to inextricably linked property, other than property which is for the time being required to be secured in pursuance of article 30, if it has been seized under any power of seizure conferred by or under Chapter 1 or 3 of Part 3 of the Act, except sections 87 and 88 of the Act.
 
@@ -910,7 +910,7 @@ except with the consent of the applicant or in accordance with the directions of
 - (a) it has been seized pursuant to a warrant under section 83 of the Act; and
 - (b) but for article 24(1)(c), the person for the time being having possession of the property would be under a duty to secure its return as mentioned in article 24(2).
 
-### 32. Copies[^key-4081c398603693764e2edc24ab39f183]
+### 32. Copies[^c-4081c398603693764e2edc24ab39f183]
 
 (1) Subject to paragraph (3)—
 
@@ -924,11 +924,11 @@ except with the consent of the applicant or in accordance with the directions of
 
 ## PART 5 — Relevant offences and reviews by judge advocates
 
-### 33. Relevant offences[^key-7ef5727f43c95b396cb106ed682605e9]
+### 33. Relevant offences[^c-7ef5727f43c95b396cb106ed682605e9]
 
 For the purposes of section 84(2) of the Act, the service offences listed in Schedule 3 shall be relevant offences.
 
-### 34. Review by a judge advocate of searches and seizures under section 87 or 88 of the Act[^key-d58abea0d6785fa6128bc2b96da86474]
+### 34. Review by a judge advocate of searches and seizures under section 87 or 88 of the Act[^c-d58abea0d6785fa6128bc2b96da86474]
 
 (1) This article applies to a review by a judge advocate under section 89 of the Act.
 
@@ -991,11 +991,11 @@ For the purposes of section 84(2) of the Act, the service offences listed in Sch
 
 ## PART 6 — Transitional and transitory provisions
 
-### 35. Transitional provisions[^key-cb0d4cfdf93f67304982102ec15757f2]
+### 35. Transitional provisions[^c-cb0d4cfdf93f67304982102ec15757f2]
 
 Schedule 4 shall have effect.
 
-### 36. Reference to the Court of Judicature of Northern Ireland[^key-4dc52557f9a45a0b221969b3dd1e25c2]
+### 36. Reference to the Court of Judicature of Northern Ireland[^c-4dc52557f9a45a0b221969b3dd1e25c2]
 
 Until paragraph 5 of Schedule 11 to the Constitutional Reform Act 2005[^f00004] comes into force, the reference in article 34(11) to the Court of Judicature of Northern Ireland is to be read as a reference to the Supreme Court of Northern Ireland.
 
@@ -1013,9 +1013,9 @@ Article 6
 
 ### Making of orders by judge advocates
 
-**1.**[^key-7dc75430c83b94b8665e94af93801bd2] If on an application made by a service policeman a judge advocate is satisfied that one or other of the sets of access conditions is fulfilled, he may make an order under paragraph 5.
+**1.**[^c-7dc75430c83b94b8665e94af93801bd2] If on an application made by a service policeman a judge advocate is satisfied that one or other of the sets of access conditions is fulfilled, he may make an order under paragraph 5.
 
-**2.**[^key-ba43fca36639c92e11af567a1addf1fb] The first set of access conditions is fulfilled if—
+**2.**[^c-ba43fca36639c92e11af567a1addf1fb] The first set of access conditions is fulfilled if—
 
 - (a) there are reasonable grounds for believing—
   - (i) that a relevant offence has been committed;
@@ -1031,7 +1031,7 @@ Article 6
 
   that the material should be produced or that access to it should be given.
 
-**3.**[^key-a43f80e70b813f047a81db2b08d4c220] The second set of access conditions is fulfilled if—
+**3.**[^c-a43f80e70b813f047a81db2b08d4c220] The second set of access conditions is fulfilled if—
 
 - (a) there are reasonable grounds for believing that there is material which consists of or includes excluded material or special procedure material on relevant residential premises specified in the application;
 - (b) but for section 9(2) of PACE a search of the premises for that material could have been authorised by the issue of a warrant to a constable under any of the enactments specified in paragraph 4 in a case in which—
@@ -1039,41 +1039,41 @@ Article 6
   - (ii) the offence in respect of which the warrant was sought was committed in England; and
 - (c) the issue of such a warrant would have been appropriate.
 
-**4.**[^key-134137e54179cca188a5124adae89deb] The enactments referred to in paragraph 3(b) are—
+**4.**[^c-134137e54179cca188a5124adae89deb] The enactments referred to in paragraph 3(b) are—
 
 - (a) section 9 of the Official Secrets Act 1911[^f00005];
 - (b) section 26 of the Theft Act 1968[^f00006]; and
 - (c) section 4 of the Biological Weapons Act 1974[^f00007].
 
-**5.**[^key-de2161207950ba0b11b2d7fcb53b957e] An order under this paragraph is an order that the person who appears to the judge advocate to be in possession of the material to which the application relates shall—
+**5.**[^c-de2161207950ba0b11b2d7fcb53b957e] An order under this paragraph is an order that the person who appears to the judge advocate to be in possession of the material to which the application relates shall—
 
 - (a) produce it to a service policeman for him to take away, or
 - (b) give a service policeman access to it,
 
 not later than the end of the period of seven days from the date of the order or the end of such longer period as the order may specify.
 
-**6.**[^key-75cc1573b267174ca17932a9fcfa0a97] Where the material consists of information stored in any electronic form—
+**6.**[^c-75cc1573b267174ca17932a9fcfa0a97] Where the material consists of information stored in any electronic form—
 
 - (a) an order under paragraph 5(a) shall have effect as an order to produce the material in a form in which it can be taken away and in which it is visible and legible or from which it can readily be produced in a visible and legible form; and
 - (b) an order under paragraph 5(b) shall have effect as an order to give a service policeman access to the material in a form in which it is visible and legible.
 
-**7.**[^key-d324c23531d2c6c12d37567074b6fb80] For the purposes of articles 16 and 17 material produced in pursuance of an order under paragraph 5(a) shall be treated as if it were material seized by a service policeman.
+**7.**[^c-d324c23531d2c6c12d37567074b6fb80] For the purposes of articles 16 and 17 material produced in pursuance of an order under paragraph 5(a) shall be treated as if it were material seized by a service policeman.
 
 ### Notices of applications for orders
 
-**8.**[^key-e2b9f736384fca8cc7d989bb0c48a999] An application for an order under paragraph 5 shall be made *inter partes.*
+**8.**[^c-e2b9f736384fca8cc7d989bb0c48a999] An application for an order under paragraph 5 shall be made *inter partes.*
 
-**9.**[^key-722cb57b239952de80ab3d4d78d6d0f3] (1) Notice of an application for such an order may be served on a person either by delivering it to him or by leaving it at his proper address or by sending it by post to him in a registered letter or by the recorded delivery service.
+**9.**[^c-722cb57b239952de80ab3d4d78d6d0f3] (1) Notice of an application for such an order may be served on a person either by delivering it to him or by leaving it at his proper address or by sending it by post to him in a registered letter or by the recorded delivery service.
 
 (2) For the purposes of sub-paragraph (1), the reference to a person’s proper address shall be to such address determined in accordance with paragraph 10.
 
-**10.**[^key-996686c540f9b0c0539068b88002322d] (1) Subject to sub-paragraph (2), the proper address of a person subject to service law is the address of the unit to which he belongs.
+**10.**[^c-996686c540f9b0c0539068b88002322d] (1) Subject to sub-paragraph (2), the proper address of a person subject to service law is the address of the unit to which he belongs.
 
 (2) Where a person subject to service law is attached to a unit, a reference to his proper address is to the address of the unit to which he is attached.
 
 (3) The proper address of a person who is not subject to service law is his usual or last known place of residence.
 
-**11.**[^key-b3b3ab945e3bd6dc46a6002d89ba3b41] Where notice of an application for an order under paragraph 5 has been served on a person, he shall not conceal, destroy, alter or dispose of the material to which the application relates except—
+**11.**[^c-b3b3ab945e3bd6dc46a6002d89ba3b41] Where notice of an application for an order under paragraph 5 has been served on a person, he shall not conceal, destroy, alter or dispose of the material to which the application relates except—
 
 - (a) with the leave of a judge advocate, or
 - (b) with the written permission of a service policeman,
@@ -1082,7 +1082,7 @@ until the application is dismissed or abandoned or he has complied with an order
 
 ### Issue of warrants by judge advocate
 
-**12.**[^key-a6debf2552e965949e69dba4417ab9ee] If on an application made by a service policeman a judge advocate—
+**12.**[^c-a6debf2552e965949e69dba4417ab9ee] If on an application made by a service policeman a judge advocate—
 
 - (a) is satisfied—
   - (i) that either set of access conditions is fulfilled, and
@@ -1093,9 +1093,9 @@ until the application is dismissed or abandoned or he has complied with an order
 
 he may issue a warrant authorising a service policeman to enter and search the premises.
 
-**13.**[^key-84d57c633492a8b70f45c8c6d99140d3] A service policeman may seize and retain anything for which a search has been authorised under paragraph 12.
+**13.**[^c-84d57c633492a8b70f45c8c6d99140d3] A service policeman may seize and retain anything for which a search has been authorised under paragraph 12.
 
-**14.**[^key-6ce7db13fccc666b3a0a2f081056f673] The further conditions mentioned in paragraph 12(a)(ii) are—
+**14.**[^c-6ce7db13fccc666b3a0a2f081056f673] The further conditions mentioned in paragraph 12(a)(ii) are—
 
 - (a) that it is not practicable to communicate with any person entitled to grant entry to the premises;
 - (b) that it is practicable to communicate with a person entitled to grant entry to the premises but it is not practicable to communicate with any person entitled to grant access to the material;
@@ -1108,23 +1108,23 @@ he may issue a warrant authorising a service policeman to enter and search the p
 
 Article 11
 
-**1.**[^key-ff2085b9216b94c7dd96489acf23108a] The service policeman taking the oath shall hold the New Testament, or if a Jew the Old Testament, in his uplifted hand and shall say, or repeat after the person administering it, the oath provided in paragraph 5 of this Schedule.
+**1.**[^c-ff2085b9216b94c7dd96489acf23108a] The service policeman taking the oath shall hold the New Testament, or if a Jew the Old Testament, in his uplifted hand and shall say, or repeat after the person administering it, the oath provided in paragraph 5 of this Schedule.
 
-**2.**[^key-df863b37c8b236986d82021328eb36d1] If the service policeman to whom an oath is administered desires to swear in the form and manner in which an oath is usually administered in Scotland, he may do so with uplifted hand and saying, or repeating after the person administering it, the Scottish oath provided in paragraph 6 of this Schedule.
+**2.**[^c-df863b37c8b236986d82021328eb36d1] If the service policeman to whom an oath is administered desires to swear in the form and manner in which an oath is usually administered in Scotland, he may do so with uplifted hand and saying, or repeating after the person administering it, the Scottish oath provided in paragraph 6 of this Schedule.
 
-**3.**[^key-dc8b280be7a1573bcab4aad729f9adab] If neither of the forms of oath provided in this Schedule is appropriate to the religious beliefs of the service policeman taking the oath, an oath may be administered in such form and manner as the service policeman taking the oath declares to be binding on his conscience in accordance with his religious beliefs.
+**3.**[^c-dc8b280be7a1573bcab4aad729f9adab] If neither of the forms of oath provided in this Schedule is appropriate to the religious beliefs of the service policeman taking the oath, an oath may be administered in such form and manner as the service policeman taking the oath declares to be binding on his conscience in accordance with his religious beliefs.
 
-**4.**[^key-ca3fc0da3cfd348d05d813002b2ab219] A service policeman making a solemn affirmation instead of taking an oath shall say, or repeat after the person administering it, the affirmation provided in paragraph 7 of this Schedule.
+**4.**[^c-ca3fc0da3cfd348d05d813002b2ab219] A service policeman making a solemn affirmation instead of taking an oath shall say, or repeat after the person administering it, the affirmation provided in paragraph 7 of this Schedule.
 
-**5.**[^key-2d438915af01c4b2ca7db46471da4f59] The oath shall be sworn in the following form:
+**5.**[^c-2d438915af01c4b2ca7db46471da4f59] The oath shall be sworn in the following form:
 
 > I swear by Almighty God that I shall truthfully answer any questions I am asked.
 
-**6.**[^key-6499c5303906de03861af3d918f6d36d] The form of Scottish oath shall be the same as the form of oath set out above except that for the words “I swear by Almighty God” there shall be substituted the words “I swear by Almighty God and as I shall answer to God at the Great Day of Judgment”.
+**6.**[^c-6499c5303906de03861af3d918f6d36d] The form of Scottish oath shall be the same as the form of oath set out above except that for the words “I swear by Almighty God” there shall be substituted the words “I swear by Almighty God and as I shall answer to God at the Great Day of Judgment”.
 
-**7.**[^key-7612525262e28594e3a534a6b6bd7693] The form of affirmation shall be the same as the form of oath set out in paragraph 5 except that for the words “I swear by Almighty God” there shall be substituted the words “I (*state name*) solemnly, sincerely and truly declare and affirm”.
+**7.**[^c-7612525262e28594e3a534a6b6bd7693] The form of affirmation shall be the same as the form of oath set out in paragraph 5 except that for the words “I swear by Almighty God” there shall be substituted the words “I (*state name*) solemnly, sincerely and truly declare and affirm”.
 
-## SCHEDULE 3 — LIST OF SERVICE OFFENCES THAT ARE RELEVANT OFFENCES[^key-10cf5bc91ae233101a4f2b5c3faf9204]
+## SCHEDULE 3 — LIST OF SERVICE OFFENCES THAT ARE RELEVANT OFFENCES[^c-10cf5bc91ae233101a4f2b5c3faf9204]
 
 Article 33
 
@@ -1146,7 +1146,7 @@ Article 33
 
 Article 35
 
-### 1. Interpretation[^key-cd80648b0d23fee25332fb033c376fe7]
+### 1. Interpretation[^c-cd80648b0d23fee25332fb033c376fe7]
 
 In this Schedule—
 
@@ -1178,7 +1178,7 @@ In this Schedule—
   - (f) an offence under section 68 of either of the 1955 Acts or section 40 of the 1957 Act of attempting to commit an offence within paragraph (c), (d) or (e);
   - (g) an offence under section 68A of either of the 1955 Acts or section 41 of the 1957 Act of aiding and abetting or inciting the commission of an offence within paragraph (c), (d) or (e).
 
-### 2. Stop and search by a service policeman[^key-09407c458df30ca1e574d7a09ab4b80e]
+### 2. Stop and search by a service policeman[^c-09407c458df30ca1e574d7a09ab4b80e]
 
 (1) Article 3 is modified as follows.
 
@@ -1189,7 +1189,7 @@ In this Schedule—
 - (a) he has completed a search of the vehicle or thing in exercise of the power conferred by section 2 of the 2001 Act; and
 - (b) he has not left a notice in accordance with article 3(5) of the 2003 Order.
 
-### 3. Record of search by service policeman[^key-629e8ee432dff22df9ac8346a5306d82]
+### 3. Record of search by service policeman[^c-629e8ee432dff22df9ac8346a5306d82]
 
 (1) Article 4 is modified as follows.
 
@@ -1200,7 +1200,7 @@ In this Schedule—
 
 (3) In article 4(7) and (8) references to a record of a search include a record made under article 4 of the 2003 Order.
 
-### 4. Searches under section 76 of the Act[^key-31064e56100cc2a3051315b99b1b1a52]
+### 4. Searches under section 76 of the Act[^c-31064e56100cc2a3051315b99b1b1a52]
 
 (1) Article 5 is modified as follows.
 
@@ -1224,7 +1224,7 @@ In this Schedule—
 
 (6) In this paragraph the “relevant person” means the person given an order by virtue of section 4(1)(a) of the 2001 Act or an authorisation by virtue of section 4(1)(b) of that Act.
 
-### 5. Search warrants – safeguards[^key-5c1fda9e71ad4b700a7e4dc29b2ce5f5]
+### 5. Search warrants – safeguards[^c-5c1fda9e71ad4b700a7e4dc29b2ce5f5]
 
 (1) Article 8 is modified as follows.
 
@@ -1242,7 +1242,7 @@ In this Schedule—
 - (a) the reference to the copies of a warrant includes copies of a pre-commencement warrant which have been made under article 8(7) of the 2003 Order but have not been certified as copies in accordance with article 8(8) of that Order; and
 - (b) the reference to the judge advocate who issues the warrant is to be read as a reference to the person who (as a judicial officer) issued the warrant.
 
-### 6. Execution of warrants[^key-13160badb6fa7d3dbfaf20d169939731]
+### 6. Execution of warrants[^c-13160badb6fa7d3dbfaf20d169939731]
 
 (1) Article 9 is modified in accordance with sub-paragraphs (2) to (4).
 
@@ -1257,7 +1257,7 @@ In this Schedule—
 - (a) be retained by him for at least 2 years from its return; or
 - (b) be sent by him to the Judge Advocate General and retained by him for at least 2 years from its return to the judicial officer.
 
-### 7. Safeguards and execution of warrants – further provisions[^key-dc75cc896088e9f0ec74e1b8b845356f]
+### 7. Safeguards and execution of warrants – further provisions[^c-dc75cc896088e9f0ec74e1b8b845356f]
 
 (1) This paragraph applies where a service policeman has made an application for a warrant to enter and search premises under section 5 of the 2001 Act or Schedule 1 to the 2003 Order by live television or telephone links or similar arrangements.
 
@@ -1270,7 +1270,7 @@ In this Schedule—
 - (a) the reference to the certified copies of the warrant made in accordance with article 8(10) and (11) includes certified copies made in accordance with article 8(7) and (8) of the 2003 Order; and
 - (b) the reference to the transmission of a copy of the warrant in accordance with article 10(2)(b) includes the transmission of a copy of the warrant in accordance with article 10(2)(b) of the 2003 Order.
 
-### 8. Search of premises after arrest[^key-4e6c657acb8d74e2a0fcd154bd227d20]
+### 8. Search of premises after arrest[^c-4e6c657acb8d74e2a0fcd154bd227d20]
 
 (1) In articles 12 and 13—
 
@@ -1293,11 +1293,11 @@ the reference in article 13(7) to a service policeman conducting a search withou
   - (i) a person who (as an authorising officer within the meaning of article 13 of the 2003 Order) was informed of a search under paragraph (6) of that article and has not made a record in accordance with paragraph (7) of that article; and
   - (ii) an authorising service policeman who is informed of a search under sub-paragraph (3).
 
-### 9. Seizure, copying and retention[^key-36e9e33602145ad81d1b3a8c41c28c64]
+### 9. Seizure, copying and retention[^c-36e9e33602145ad81d1b3a8c41c28c64]
 
 In articles 14, 16, 17 and 25 references to a service offence include an SDA offence.
 
-**10.**[^key-413f62772b5be27325123893a5b8f7ed] (1) Article 16 is modified as follows.
+**10.**[^c-413f62772b5be27325123893a5b8f7ed] (1) Article 16 is modified as follows.
 
 (2) Where a person has seized anything in the exercise of a power conferred by or under Part 2 of the 2001 Act, and has been requested (whether before or after commencement) to provide any person with a record of what he seized but has not provided that person with such a record, article 16(1) and (2) apply as if the thing had been seized in the exercise of a power conferred by or under Part 3 of the Act.
 
@@ -1312,7 +1312,7 @@ In articles 14, 16, 17 and 25 references to a service offence include an SDA off
 
 (6) Where a thing has been photographed or copied under article 16(4)(b) of the 2003 Order, article 16(7) applies in relation to the photograph or copy.
 
-**11.**[^key-0dedf0c1c148374c060e7ea41546a8bc] (1) Article 17 is modified as follows.
+**11.**[^c-0dedf0c1c148374c060e7ea41546a8bc] (1) Article 17 is modified as follows.
 
 (2) In paragraph (1)—
 
@@ -1331,7 +1331,7 @@ In articles 14, 16, 17 and 25 references to a service offence include an SDA off
 
 (5) In article 17(6) the reference to a person authorised under article 9(2) includes a person authorised under article 9(2) of the 2003 Order.
 
-### 12. Additional powers of seizure[^key-e3b15edb60591d19c9aaaa978c998e0f]
+### 12. Additional powers of seizure[^c-e3b15edb60591d19c9aaaa978c998e0f]
 
 (1) Article 19 is modified as follows.
 
@@ -1342,7 +1342,7 @@ In articles 14, 16, 17 and 25 references to a service offence include an SDA off
 
 (3) In article 19(6) the reference to the powers of seizure conferred by or under Chapter 1 or 3 of Part 3 of the Act shall include a reference to the powers of seizure conferred by or under Part 2 of the 2001 Act, except sections 2, 4 and 7 of that Act.
 
-### 13. Notice of exercise of power under article 19 or 20[^key-314e0ceea78a8c30bf339d77d364a8bc]
+### 13. Notice of exercise of power under article 19 or 20[^c-314e0ceea78a8c30bf339d77d364a8bc]
 
 (1) Article 21 is modified as follows.
 
@@ -1356,7 +1356,7 @@ In articles 14, 16, 17 and 25 references to a service offence include an SDA off
 - (a) has exercised a power of seizure conferred by article 4 of the 2006 Order; and
 - (b) has not complied with article 5(4) of that Order with respect to the seizure.
 
-### 14. Examination and return of property seized under article 19 or 20[^key-1ce1375b0b5bb74e92e54940e584a4af]
+### 14. Examination and return of property seized under article 19 or 20[^c-1ce1375b0b5bb74e92e54940e584a4af]
 
 (1) Article 22 is modified as follows.
 
@@ -1372,7 +1372,7 @@ In articles 14, 16, 17 and 25 references to a service offence include an SDA off
 
 has not been completed before commencement.
 
-### 15. Obligation to return items subject to legal privilege[^key-a8060d730b04a5e59fe9b677c6872688]
+### 15. Obligation to return items subject to legal privilege[^c-a8060d730b04a5e59fe9b677c6872688]
 
 (1) Article 23 is modified as follows.
 
@@ -1386,26 +1386,26 @@ has not been completed before commencement.
 - (a) the powers of seizure conferred by articles 3 and 4 of the 2006 Order; and
 - (b) the powers of seizure conferred by Part 2 of the 2001 Act and by the 2003 Order.
 
-### 16. Obligation to return excluded and special procedure material[^key-54fc5cce78698fd303b0db6709e9fa7a]
+### 16. Obligation to return excluded and special procedure material[^c-54fc5cce78698fd303b0db6709e9fa7a]
 
 In article 24(1) the reference to section 83 of the Act includes a reference to section 5 of the 2001 Act.
 
-### 17. Authorised retention of property[^key-effc97464491d47c63a2c7294e91616b]
+### 17. Authorised retention of property[^c-effc97464491d47c63a2c7294e91616b]
 
 In article 25 each of the references to a service offence includes a reference to an SDA offence.
 
-### 18. Application of article 17 to property seized under Part 3[^key-0f17539abdd9c7a3579581018afb5724]
+### 18. Application of article 17 to property seized under Part 3[^c-0f17539abdd9c7a3579581018afb5724]
 
 In article 26(1) the reference to article 19 or 20 includes a reference to article 3 or 4 of the 2006 Order.
 
-### 19. Person to whom seized property is to be returned[^key-b5384af7e306cb7b150ec331e4367cbb]
+### 19. Person to whom seized property is to be returned[^c-b5384af7e306cb7b150ec331e4367cbb]
 
 In article 27(1)(a) the reference to any power of seizure conferred by Part 3 of the Act or under this Order includes a reference to—
 
 - (a) any power of seizure conferred by article 3 or 4 of the 2006 Order; and
 - (b) any power of seizure conferred by Part 2 of the 2001 Act or by the 2003 Order.
 
-### 20. Application to a judge advocate[^key-57a23eb3b6944efa7baf2dfeb08aafec]
+### 20. Application to a judge advocate[^c-57a23eb3b6944efa7baf2dfeb08aafec]
 
 (1) Article 28 is modified as follows.
 
@@ -1433,7 +1433,7 @@ the application shall be treated as an application under article 28(5)(b) or (c)
 - (b) the powers of seizure conferred by Part 2 of the 2001 Act, except the power in section 7 of that Act;
 - (c) the powers of seizure conferred by the 2003 Order, except the power under its article 15 in so far as it relates to section 7 of the 2001 Act.
 
-### 21. Cases where duty to secure arises[^key-67e93c497b59e7687752fd371f3e0631]
+### 21. Cases where duty to secure arises[^c-67e93c497b59e7687752fd371f3e0631]
 
 (1) Article 29 is modified as follows.
 
@@ -1448,7 +1448,7 @@ the application shall be treated as an application under article 28(5)(b) or (c)
 
 (3) Where immediately before commencement a duty to secure has effect under article 14 of the 2006 Order in relation to seized property, a duty to secure arises under article 30 in relation to that property.
 
-### 22. The duty to secure[^key-ec8aa30bb3bc75813a69ce14a394979e]
+### 22. The duty to secure[^c-ec8aa30bb3bc75813a69ce14a394979e]
 
 (1) Article 30 is modified as follows.
 
@@ -1457,7 +1457,7 @@ the application shall be treated as an application under article 28(5)(b) or (c)
 - (a) the reference in article 30(1) to the giving of the notice of the application under article 29(1) shall be treated as a reference to commencement; and
 - (b) article 30(2) shall read “Paragraph (1) shall not have effect in relation to any time after the withdrawal of the notice of application under paragraph 13 of the 2006 Order with respect to which a duty to secure arose under article 14 of that Order.”
 
-### 23. Use of inextricably linked property[^key-1cdee2ff0f4b409f6f29e259b405bf1f]
+### 23. Use of inextricably linked property[^c-1cdee2ff0f4b409f6f29e259b405bf1f]
 
 (1) Article 31 is modified as follows.
 
@@ -1471,7 +1471,7 @@ the application shall be treated as an application under article 28(5)(b) or (c)
 
 (4) In article 31(8)(a) the reference to a warrant under section 83 of the Act includes a reference to a warrant under section 5 of the 2001 Act.
 
-### 24. Relevant offences[^key-d486c42a349aa8d63576855ae3e8dc6e]
+### 24. Relevant offences[^c-d486c42a349aa8d63576855ae3e8dc6e]
 
 For the purposes of section 84(2) of the Act, relevant offences shall include, in addition to the service offences listed in Schedule 3, an offence against any of—
 
@@ -1487,7 +1487,7 @@ For the purposes of section 84(2) of the Act, relevant offences shall include, i
 - (j) section 68 of either of the 1955 Acts or section 40 of the 1957 Act of attempting to commit an offence within any of sub-paragraphs (a) to (i);
 - (k) section 68A of either of the 1955 Acts or section 41 of the 1957 Act of aiding, abetting or inciting the commission of an offence within any of sub-paragraphs (a) to (i).
 
-### 25. Review by a judge advocate of searches and seizure[^key-99b5419f0c7dfc70695331706a701dd3]
+### 25. Review by a judge advocate of searches and seizure[^c-99b5419f0c7dfc70695331706a701dd3]
 
 (1) Article 34 is modified as follows.
 
@@ -1570,91 +1570,91 @@ Article 35 and Schedule 4 make transitional provisions.
 
 [^f00001]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-7bed45ccdd32eccdb16bf5a59851e343]: Commencement: Art. 1 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-7bed45ccdd32eccdb16bf5a59851e343]: Commencement: Art. 1 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-f8aefee64268d16ebc55c790ffe0c90c]: Commencement: Art. 2 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-f8aefee64268d16ebc55c790ffe0c90c]: Commencement: Art. 2 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-d93f9d257afe82193bb576e72f488887]: Commencement: Art. 3 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-d93f9d257afe82193bb576e72f488887]: Commencement: Art. 3 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-4f14cdea87588a9bd5e13e42ec66f1ab]: Commencement: Art. 4 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-4f14cdea87588a9bd5e13e42ec66f1ab]: Commencement: Art. 4 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-d56bc781cd7610a626fb0dc17c9f8666]: Commencement: Art. 5 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-d56bc781cd7610a626fb0dc17c9f8666]: Commencement: Art. 5 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-34f8120032d1ee3ab99a687fe0cde30e]: Commencement: Art. 6 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-34f8120032d1ee3ab99a687fe0cde30e]: Commencement: Art. 6 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-6cb936ff3b5fb9e124e5b88151bf539e]: Commencement: Art. 7 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-6cb936ff3b5fb9e124e5b88151bf539e]: Commencement: Art. 7 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-96cb57b4ad758f97cdd9e296a7904c83]: Commencement: Art. 8 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-96cb57b4ad758f97cdd9e296a7904c83]: Commencement: Art. 8 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-e8662c36080b92126980eb813d64ae89]: Commencement: Art. 9 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-e8662c36080b92126980eb813d64ae89]: Commencement: Art. 9 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-eac031a73f40732e1b3f08619303cb13]: Commencement: Art. 10 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-eac031a73f40732e1b3f08619303cb13]: Commencement: Art. 10 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-63a5892e1be9303f897cb19fd231b7dd]: Commencement: Art. 11 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-63a5892e1be9303f897cb19fd231b7dd]: Commencement: Art. 11 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-cd1440259ed734e83d7719ac787da496]: Commencement: Art. 12 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-cd1440259ed734e83d7719ac787da496]: Commencement: Art. 12 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-a6d240988c9ef48e5e3391a43f6fe813]: Commencement: Art. 13 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-a6d240988c9ef48e5e3391a43f6fe813]: Commencement: Art. 13 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-3d7b16c1a492366b44c757dc47fc3454]: Commencement: Art. 14 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-3d7b16c1a492366b44c757dc47fc3454]: Commencement: Art. 14 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-6b373bed691834869508bf7678910dff]: Commencement: Art. 15 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-6b373bed691834869508bf7678910dff]: Commencement: Art. 15 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-3a6390eddc83cf3a19d1f7772065ae0f]: Commencement: Art. 16 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-3a6390eddc83cf3a19d1f7772065ae0f]: Commencement: Art. 16 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-1d3487cd602c33b0ece1da9b24bc3095]: Commencement: Art. 17 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-1d3487cd602c33b0ece1da9b24bc3095]: Commencement: Art. 17 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-aa4d6e5a2285b79c9b5fb42e3edaeb60]: Commencement: Art. 18 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-aa4d6e5a2285b79c9b5fb42e3edaeb60]: Commencement: Art. 18 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-33cdff4b43b2a608112a4b0edf469990]: Commencement: Art. 19 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-33cdff4b43b2a608112a4b0edf469990]: Commencement: Art. 19 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-f362625168219f6a65cc7c1c37aaabad]: Commencement: Art. 20 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-f362625168219f6a65cc7c1c37aaabad]: Commencement: Art. 20 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-268efdc4d74c5cb79f8cb70a84af629a]: Commencement: Art. 21 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-268efdc4d74c5cb79f8cb70a84af629a]: Commencement: Art. 21 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-7e73032f527073cb48b8e29175dfbeed]: Commencement: Art. 22 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-7e73032f527073cb48b8e29175dfbeed]: Commencement: Art. 22 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-eeeda9c67ad924b4d28b002dad857d29]: Commencement: Art. 23 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-eeeda9c67ad924b4d28b002dad857d29]: Commencement: Art. 23 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-445c398b78eb974d86ffda694e28a4bc]: Commencement: Art. 24 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-445c398b78eb974d86ffda694e28a4bc]: Commencement: Art. 24 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-17e947e3f0a869b47bfa15b39fb01a2d]: Commencement: Art. 25 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-17e947e3f0a869b47bfa15b39fb01a2d]: Commencement: Art. 25 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-966243df5fb018bb03a6b9afab9bc1fe]: Commencement: Art. 26 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-966243df5fb018bb03a6b9afab9bc1fe]: Commencement: Art. 26 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-fb229c459f67bae25ad464544235d912]: Commencement: Art. 27 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-fb229c459f67bae25ad464544235d912]: Commencement: Art. 27 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-d9c928a6e20c62509d0f77e0001c1379]: Commencement: Art. 28 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-d9c928a6e20c62509d0f77e0001c1379]: Commencement: Art. 28 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-baeb09f7e0ae641c7743758f7ee10470]: Commencement: Art. 29 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-baeb09f7e0ae641c7743758f7ee10470]: Commencement: Art. 29 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-71d88f081c56d58d4ef8292e9c1e1a3d]: Commencement: Art. 30 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-71d88f081c56d58d4ef8292e9c1e1a3d]: Commencement: Art. 30 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
 [^f00002]: Footnote: [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23).
 
-[^key-6a70b58c02d013568f38c057a6af7eed]: Commencement: Art. 31 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-6a70b58c02d013568f38c057a6af7eed]: Commencement: Art. 31 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-4081c398603693764e2edc24ab39f183]: Commencement: Art. 32 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-4081c398603693764e2edc24ab39f183]: Commencement: Art. 32 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-7ef5727f43c95b396cb106ed682605e9]: Commencement: Art. 33 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-7ef5727f43c95b396cb106ed682605e9]: Commencement: Art. 33 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-d58abea0d6785fa6128bc2b96da86474]: Commencement: Art. 34 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-d58abea0d6785fa6128bc2b96da86474]: Commencement: Art. 34 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
 [^f00003]: Footnote: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41). Subsection (6) of section 71 of the Courts and Legal Services Act 1990 was substituted by the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), section 43, Schedule 6, paragraphs 4 and 9. Subsections (7) and (8) of section 71 of the 1990 Act were repealed by section 106, Schedule 15, Part 2, of the 1999 Act. Prospective amendments to section 71 of the 1990 Act are made to subsections (1) and (3) by the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), section 59(5), Schedule 11, Part 2, paragraph 4(1), (3). Prospective amendments are made to subsections (4) and (6) and a new subsection (6A) is inserted into section 71 of the 1990 Act by the Legal Services Act [2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), section 208(1), Schedule 21, paragraphs 83 and 94(a), (b) and (c).
 
-[^key-cb0d4cfdf93f67304982102ec15757f2]: Commencement: Art. 35 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-cb0d4cfdf93f67304982102ec15757f2]: Commencement: Art. 35 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-4dc52557f9a45a0b221969b3dd1e25c2]: Commencement: Art. 36 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-4dc52557f9a45a0b221969b3dd1e25c2]: Commencement: Art. 36 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
 [^f00004]: Footnote: [2005 c. 4](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-7dc75430c83b94b8665e94af93801bd2]: Commencement: Sch. 1 para. 1 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-7dc75430c83b94b8665e94af93801bd2]: Commencement: Sch. 1 para. 1 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-ba43fca36639c92e11af567a1addf1fb]: Commencement: Sch. 1 para. 2 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-ba43fca36639c92e11af567a1addf1fb]: Commencement: Sch. 1 para. 2 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-a43f80e70b813f047a81db2b08d4c220]: Commencement: Sch. 1 para. 3 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-a43f80e70b813f047a81db2b08d4c220]: Commencement: Sch. 1 para. 3 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-134137e54179cca188a5124adae89deb]: Commencement: Sch. 1 para. 4 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-134137e54179cca188a5124adae89deb]: Commencement: Sch. 1 para. 4 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
 [^f00005]: Footnote: [1911 c. 28](https://www.legislation.gov.uk/ukpga/1911/28).
 
@@ -1662,43 +1662,43 @@ Article 35 and Schedule 4 make transitional provisions.
 
 [^f00007]: Footnote: [1974 c. 6](https://www.legislation.gov.uk/ukpga/1974/6).
 
-[^key-de2161207950ba0b11b2d7fcb53b957e]: Commencement: Sch. 1 para. 5 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-de2161207950ba0b11b2d7fcb53b957e]: Commencement: Sch. 1 para. 5 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-75cc1573b267174ca17932a9fcfa0a97]: Commencement: Sch. 1 para. 6 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-75cc1573b267174ca17932a9fcfa0a97]: Commencement: Sch. 1 para. 6 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-d324c23531d2c6c12d37567074b6fb80]: Commencement: Sch. 1 para. 7 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-d324c23531d2c6c12d37567074b6fb80]: Commencement: Sch. 1 para. 7 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-e2b9f736384fca8cc7d989bb0c48a999]: Commencement: Sch. 1 para. 8 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-e2b9f736384fca8cc7d989bb0c48a999]: Commencement: Sch. 1 para. 8 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-722cb57b239952de80ab3d4d78d6d0f3]: Commencement: Sch. 1 para. 9 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-722cb57b239952de80ab3d4d78d6d0f3]: Commencement: Sch. 1 para. 9 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-996686c540f9b0c0539068b88002322d]: Commencement: Sch. 1 para. 10 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-996686c540f9b0c0539068b88002322d]: Commencement: Sch. 1 para. 10 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-b3b3ab945e3bd6dc46a6002d89ba3b41]: Commencement: Sch. 1 para. 11 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-b3b3ab945e3bd6dc46a6002d89ba3b41]: Commencement: Sch. 1 para. 11 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-a6debf2552e965949e69dba4417ab9ee]: Commencement: Sch. 1 para. 12 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-a6debf2552e965949e69dba4417ab9ee]: Commencement: Sch. 1 para. 12 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-84d57c633492a8b70f45c8c6d99140d3]: Commencement: Sch. 1 para. 13 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-84d57c633492a8b70f45c8c6d99140d3]: Commencement: Sch. 1 para. 13 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-6ce7db13fccc666b3a0a2f081056f673]: Commencement: Sch. 1 para. 14 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-6ce7db13fccc666b3a0a2f081056f673]: Commencement: Sch. 1 para. 14 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-ff2085b9216b94c7dd96489acf23108a]: Commencement: Sch. 2 para. 1 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-ff2085b9216b94c7dd96489acf23108a]: Commencement: Sch. 2 para. 1 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-df863b37c8b236986d82021328eb36d1]: Commencement: Sch. 2 para. 2 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-df863b37c8b236986d82021328eb36d1]: Commencement: Sch. 2 para. 2 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-dc8b280be7a1573bcab4aad729f9adab]: Commencement: Sch. 2 para. 3 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-dc8b280be7a1573bcab4aad729f9adab]: Commencement: Sch. 2 para. 3 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-ca3fc0da3cfd348d05d813002b2ab219]: Commencement: Sch. 2 para. 4 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-ca3fc0da3cfd348d05d813002b2ab219]: Commencement: Sch. 2 para. 4 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-2d438915af01c4b2ca7db46471da4f59]: Commencement: Sch. 2 para. 5 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-2d438915af01c4b2ca7db46471da4f59]: Commencement: Sch. 2 para. 5 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-6499c5303906de03861af3d918f6d36d]: Commencement: Sch. 2 para. 6 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-6499c5303906de03861af3d918f6d36d]: Commencement: Sch. 2 para. 6 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-7612525262e28594e3a534a6b6bd7693]: Commencement: Sch. 2 para. 7 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-7612525262e28594e3a534a6b6bd7693]: Commencement: Sch. 2 para. 7 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-10cf5bc91ae233101a4f2b5c3faf9204]: Commencement: Sch. 3 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-10cf5bc91ae233101a4f2b5c3faf9204]: Commencement: Sch. 3 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-cd80648b0d23fee25332fb033c376fe7]: Commencement: Sch. 4 para. 1 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-cd80648b0d23fee25332fb033c376fe7]: Commencement: Sch. 4 para. 1 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
 [^f00008]: Footnote: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18).
 
@@ -1716,50 +1716,50 @@ Article 35 and Schedule 4 make transitional provisions.
 
 [^f00015]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).
 
-[^key-09407c458df30ca1e574d7a09ab4b80e]: Commencement: Sch. 4 para. 2 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-09407c458df30ca1e574d7a09ab4b80e]: Commencement: Sch. 4 para. 2 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-629e8ee432dff22df9ac8346a5306d82]: Commencement: Sch. 4 para. 3 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-629e8ee432dff22df9ac8346a5306d82]: Commencement: Sch. 4 para. 3 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-31064e56100cc2a3051315b99b1b1a52]: Commencement: Sch. 4 para. 4 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-31064e56100cc2a3051315b99b1b1a52]: Commencement: Sch. 4 para. 4 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-5c1fda9e71ad4b700a7e4dc29b2ce5f5]: Commencement: Sch. 4 para. 5 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-5c1fda9e71ad4b700a7e4dc29b2ce5f5]: Commencement: Sch. 4 para. 5 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-13160badb6fa7d3dbfaf20d169939731]: Commencement: Sch. 4 para. 6 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-13160badb6fa7d3dbfaf20d169939731]: Commencement: Sch. 4 para. 6 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-dc75cc896088e9f0ec74e1b8b845356f]: Commencement: Sch. 4 para. 7 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-dc75cc896088e9f0ec74e1b8b845356f]: Commencement: Sch. 4 para. 7 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-4e6c657acb8d74e2a0fcd154bd227d20]: Commencement: Sch. 4 para. 8 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-4e6c657acb8d74e2a0fcd154bd227d20]: Commencement: Sch. 4 para. 8 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-36e9e33602145ad81d1b3a8c41c28c64]: Commencement: Sch. 4 para. 9 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-36e9e33602145ad81d1b3a8c41c28c64]: Commencement: Sch. 4 para. 9 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-413f62772b5be27325123893a5b8f7ed]: Commencement: Sch. 4 para. 10 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-413f62772b5be27325123893a5b8f7ed]: Commencement: Sch. 4 para. 10 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-0dedf0c1c148374c060e7ea41546a8bc]: Commencement: Sch. 4 para. 11 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-0dedf0c1c148374c060e7ea41546a8bc]: Commencement: Sch. 4 para. 11 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-e3b15edb60591d19c9aaaa978c998e0f]: Commencement: Sch. 4 para. 12 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-e3b15edb60591d19c9aaaa978c998e0f]: Commencement: Sch. 4 para. 12 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-314e0ceea78a8c30bf339d77d364a8bc]: Commencement: Sch. 4 para. 13 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-314e0ceea78a8c30bf339d77d364a8bc]: Commencement: Sch. 4 para. 13 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-1ce1375b0b5bb74e92e54940e584a4af]: Commencement: Sch. 4 para. 14 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-1ce1375b0b5bb74e92e54940e584a4af]: Commencement: Sch. 4 para. 14 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-a8060d730b04a5e59fe9b677c6872688]: Commencement: Sch. 4 para. 15 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-a8060d730b04a5e59fe9b677c6872688]: Commencement: Sch. 4 para. 15 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-54fc5cce78698fd303b0db6709e9fa7a]: Commencement: Sch. 4 para. 16 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-54fc5cce78698fd303b0db6709e9fa7a]: Commencement: Sch. 4 para. 16 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-effc97464491d47c63a2c7294e91616b]: Commencement: Sch. 4 para. 17 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-effc97464491d47c63a2c7294e91616b]: Commencement: Sch. 4 para. 17 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-0f17539abdd9c7a3579581018afb5724]: Commencement: Sch. 4 para. 18 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-0f17539abdd9c7a3579581018afb5724]: Commencement: Sch. 4 para. 18 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-b5384af7e306cb7b150ec331e4367cbb]: Commencement: Sch. 4 para. 19 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-b5384af7e306cb7b150ec331e4367cbb]: Commencement: Sch. 4 para. 19 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-57a23eb3b6944efa7baf2dfeb08aafec]: Commencement: Sch. 4 para. 20 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-57a23eb3b6944efa7baf2dfeb08aafec]: Commencement: Sch. 4 para. 20 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-67e93c497b59e7687752fd371f3e0631]: Commencement: Sch. 4 para. 21 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-67e93c497b59e7687752fd371f3e0631]: Commencement: Sch. 4 para. 21 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-ec8aa30bb3bc75813a69ce14a394979e]: Commencement: Sch. 4 para. 22 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-ec8aa30bb3bc75813a69ce14a394979e]: Commencement: Sch. 4 para. 22 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-1cdee2ff0f4b409f6f29e259b405bf1f]: Commencement: Sch. 4 para. 23 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-1cdee2ff0f4b409f6f29e259b405bf1f]: Commencement: Sch. 4 para. 23 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-d486c42a349aa8d63576855ae3e8dc6e]: Commencement: Sch. 4 para. 24 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-d486c42a349aa8d63576855ae3e8dc6e]: Commencement: Sch. 4 para. 24 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
 
-[^key-99b5419f0c7dfc70695331706a701dd3]: Commencement: Sch. 4 para. 25 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)
+[^c-99b5419f0c7dfc70695331706a701dd3]: Commencement: Sch. 4 para. 25 in force at 31.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2056/article/1)

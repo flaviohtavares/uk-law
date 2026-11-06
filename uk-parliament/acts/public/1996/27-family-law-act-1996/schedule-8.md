@@ -28,19 +28,19 @@ Section 66(1).
 
 **Not yet in force.**
 
-**1.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Judicial Proceedings (Regulation of Reports) Act 1926 (c. 61)
 
 **Not yet in force.**
 
-**2.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Maintenance Orders Act 1950 (c. 37)
 
 **Not yet in force.**
 
-**3.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Matrimonial Causes Act 1973 (c. 18)
 
@@ -50,76 +50,76 @@ Section 66(1).
 
 **Not yet in force.**
 
-**5.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**6.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**7.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**8.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**9.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **Not yet in force.**
 
-**10.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**11.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**11A.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11A.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**12.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**13.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**14.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**15.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.**[^c12123841] (1) Section 31 (variation etc. of orders) is amended as follows.
 
-(2)[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4AB)[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4AB)[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4A)[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In subsection (5)—
 
 - (a) insert, at the beginning, “Subject to subsections (7A) to (7F) below and without prejudice to any power exercisable by virtue of subsection (2)(d),(dd) or (e) above or otherwise than by virtue of this section,”; and
-- (b)[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In subsection (7)(a)—
 
-- (a)[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after “sufficient” insert “ (in the light of any proposed exercise by the court, where the marriage has been dissolved, of its powers under subsection (7B) below)”.
 
 (7) After subsection (7), insert—
@@ -148,83 +148,83 @@ Section 66(1).
 >
 > (7F) Sections 24A and 30 above apply where the court makes a property adjustment order under subsection (7B) above as they apply where it makes such an order under section 23A above.
 
-(8)[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**Not yet in force.**
-
-**16A.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**17.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16A.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**18.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**19.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**20.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**21.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**22.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**23.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**24.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**25.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**25A.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Not yet in force.**
+
+**25A.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Domicile and Matrimonial Proceedings Act 1973 (c. 45)
 
 **Not yet in force.**
 
-**26.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Inheritance (Provision for Family and Dependants) Act 1975 (c. 63)
 
 **Not yet in force.**
 
-**27.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Domestic Proceedings and Magistrates’ Courts Act 1978 (c. 22)
 
 **Not yet in force.**
 
-**28.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Housing Act 1980 (c. 51)
 
 **Not yet in force.**
 
-**29.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Senior Courts Act 1981(c. 54)
 
 **Not yet in force.**
 
-**30.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Civil Jurisdiction and Judgments Act 1982 (c. 27)
 
@@ -232,13 +232,13 @@ Section 66(1).
 
 **Not yet in force.**
 
-**31.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Matrimonial and Family Proceedings Act 1984 (c. 42)
 
 **Not yet in force.**
 
-**32.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Finance Act 1985 (c. 54)
 
@@ -246,25 +246,25 @@ Section 66(1).
 
 **Not yet in force.**
 
-**33.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Housing Act 1985 (c. 68)
 
 **Not yet in force.**
 
-**34.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Housing Associations Act 1985 (c. 69)
 
 **Not yet in force.**
 
-**35.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Agricultural Holdings Act 1986 (c. 5)
 
 **Not yet in force.**
 
-**36.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Family Law Act 1986 (c. 55)
 
@@ -272,49 +272,49 @@ Section 66(1).
 
 **Not yet in force.**
 
-**37.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Landlord and Tenant Act 1987 (c. 31)
 
 **Not yet in force.**
 
-**38.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Legal Aid Act 1988 (c. 34)
 
 **Not yet in force.**
 
-**39.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Housing Act 1988 (c. 50)
 
 **Not yet in force.**
 
-**40.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Children Act 1989 (c. 41)
 
 **Not yet in force.**
 
-**41.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Local Government and Housing Act 1989 (c. 42)
 
 **Not yet in force.**
 
-**42.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Pensions Act 1995 (c. 26)
 
 **Not yet in force.**
 
-**43.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Welfare Reform and Pensions Act 1999
 
 **Not yet in force.**
 
-**43A.**[^key-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43A.**[^c-c64b383248d0cdd68ed3e3674c45205a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Amendments connected with Part III[^c12124041]
 
@@ -389,7 +389,7 @@ Section 66(1).
 
 #### The Magistrates’ Courts Act 1980 (c. 43)
 
-**49.**[^key-f5152dd4a2afc618665a090d8b3197a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-f5152dd4a2afc618665a090d8b3197a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Contempt of Court Act 1981 (c. 49)
 
@@ -516,7 +516,7 @@ Section 66(1).
 
 ## Annotations
 
-[^key-c64b383248d0cdd68ed3e3674c45205a]: Textual amendment: Sch. 8 Pt. I repealed (except for paras. 4, 16(1)(5)(a)(6)(b)(7)) (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(2)(e)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/2/e), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
+[^c-c64b383248d0cdd68ed3e3674c45205a]: Textual amendment: Sch. 8 Pt. I repealed (except for paras. 4, 16(1)(5)(a)(6)(b)(7)) (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(2)(e)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/2/e), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
 
 [^c12123841]: Commencement: Sch. 8 para. 16 partly in force; Sch. 8 para. 16 not in force at Royal Assent see s. 67(3); Sch. 8 para. 16(5)(a)(6)(b)(7) in force at 1.11.1998 by [S.I. 1998/2572](https://www.legislation.gov.uk/uksi/1998/2572), [art. 3](https://www.legislation.gov.uk/uksi/1998/2572/article/3)
 
@@ -526,7 +526,7 @@ Section 66(1).
 
 [^c21005191]: Textual amendment: [Sch. 8 para. 48(3)](https://www.legislation.gov.uk/ukpga/1996/27/schedule/8/paragraph/48/3) repealed (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(4)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/4), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263), [Sch. 30](https://www.legislation.gov.uk/ukpga/2004/33/schedule/30); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(6)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/6)
 
-[^key-f5152dd4a2afc618665a090d8b3197a0]: Textual amendment: [Sch. 8 para. 49](https://www.legislation.gov.uk/ukpga/1996/27/schedule/8/paragraph/49) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-f5152dd4a2afc618665a090d8b3197a0]: Textual amendment: [Sch. 8 para. 49](https://www.legislation.gov.uk/ukpga/1996/27/schedule/8/paragraph/49) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 99](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/99) Table; [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c21020451]: Textual amendment: Words in [Sch. 8 para. 51](https://www.legislation.gov.uk/ukpga/1996/27/schedule/8/paragraph/51) cross-heading substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 

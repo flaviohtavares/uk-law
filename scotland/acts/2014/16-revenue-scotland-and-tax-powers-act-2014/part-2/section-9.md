@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Provision of information, advice or assistance to the Scottish Ministers[^key-91f21d29f7d9e340c3ed47201d88fc82]
+## 9. Provision of information, advice or assistance to the Scottish Ministers[^c-91f21d29f7d9e340c3ed47201d88fc82]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91f21d29f7d9e340c3ed47201d88fc82]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/16/section/9) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-91f21d29f7d9e340c3ed47201d88fc82]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/16/section/9) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

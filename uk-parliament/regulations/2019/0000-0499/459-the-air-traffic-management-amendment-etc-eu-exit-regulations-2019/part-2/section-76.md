@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Article 1 of Regulation [(EC) No 1070/2009](https://www.legislation.gov.uk/eur/2009/1070)[^key-c739a6ca23a7d6099df40cfbf01ffb64]
+## 76. Article 1 of Regulation [(EC) No 1070/2009](https://www.legislation.gov.uk/eur/2009/1070)[^c-c739a6ca23a7d6099df40cfbf01ffb64]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In Article 1 omit—
 
 ## Annotations
 
-[^key-c739a6ca23a7d6099df40cfbf01ffb64]: Commencement: Reg. 76 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-c739a6ca23a7d6099df40cfbf01ffb64]: Commencement: Reg. 76 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

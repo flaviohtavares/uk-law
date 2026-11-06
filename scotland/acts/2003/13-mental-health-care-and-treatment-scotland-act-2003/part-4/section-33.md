@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Duty to inquire[^key-ecddaa883328dd22e075e990b5e98f48]
+## 33. Duty to inquire[^c-ecddaa883328dd22e075e990b5e98f48]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ the authority shall cause inquiries to be made into the person’s case.
 
 ## Annotations
 
-[^key-ecddaa883328dd22e075e990b5e98f48]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2003/13/section/33) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-ecddaa883328dd22e075e990b5e98f48]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2003/13/section/33) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

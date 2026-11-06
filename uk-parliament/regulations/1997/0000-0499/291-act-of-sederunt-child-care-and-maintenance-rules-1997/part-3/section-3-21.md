@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.21. Representation[^key-31ce43511492d95501fa41d9b5263a2b]
+## 3.21. Representation[^c-31ce43511492d95501fa41d9b5263a2b]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31ce43511492d95501fa41d9b5263a2b]: Commencement: Rule 3.21 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-31ce43511492d95501fa41d9b5263a2b]: Commencement: Rule 3.21 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

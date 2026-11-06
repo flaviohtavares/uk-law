@@ -33,7 +33,7 @@ This Statutory Instrument has been made in consequence of defects in S.I. [2002/
 
 COUNTRYSIDE, ENGLAND
 
-The Access to the Countryside (Provisional and Conclusive Maps) (England) (Amendment) Regulations 2003 (revoked)[^key-80211e49af397cf87ceec1970d179091]
+The Access to the Countryside (Provisional and Conclusive Maps) (England) (Amendment) Regulations 2003 (revoked)[^c-80211e49af397cf87ceec1970d179091]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 3rd February 2003
 
-[^key-80211e49af397cf87ceec1970d179091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80211e49af397cf87ceec1970d179091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-80211e49af397cf87ceec1970d179091]
+## 1. Title, commencement and application[^c-80211e49af397cf87ceec1970d179091]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-80211e49af397cf87ceec1970d179091]
+## 2. Amendment[^c-80211e49af397cf87ceec1970d179091]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80211e49af397cf87ceec1970d179091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80211e49af397cf87ceec1970d179091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-80211e49af397cf87ceec1970d179091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80211e49af397cf87ceec1970d179091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-80211e49af397cf87ceec1970d179091]: Textual amendment: Regulations revoked (1.10.2013) by The Access to the [Countryside (Maps) (England) Regulations 2013 (S.I. 2013/1798)](https://www.legislation.gov.uk/uksi/2013/1798), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1798/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2013/1798/regulation/6/c)
+[^c-80211e49af397cf87ceec1970d179091]: Textual amendment: Regulations revoked (1.10.2013) by The Access to the [Countryside (Maps) (England) Regulations 2013 (S.I. 2013/1798)](https://www.legislation.gov.uk/uksi/2013/1798), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1798/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2013/1798/regulation/6/c)

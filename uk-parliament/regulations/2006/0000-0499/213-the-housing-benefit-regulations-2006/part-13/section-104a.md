@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 104A. Sums to be deducted in calculating recoverable overpayments where the claimant has changed dwelling[^key-3ce85f2efaac82d7d658ffcba27d03b3]
+## 104A. Sums to be deducted in calculating recoverable overpayments where the claimant has changed dwelling[^c-3ce85f2efaac82d7d658ffcba27d03b3]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ce85f2efaac82d7d658ffcba27d03b3]: Textual amendment: Reg. 104A inserted (1.4.2010 for specified purposes, 5.4.2010 in so far as not already in force) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2608)](https://www.legislation.gov.uk/uksi/2009/2608), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/2/3)
+[^c-3ce85f2efaac82d7d658ffcba27d03b3]: Textual amendment: Reg. 104A inserted (1.4.2010 for specified purposes, 5.4.2010 in so far as not already in force) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/2608)](https://www.legislation.gov.uk/uksi/2009/2608), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2009/2608/regulation/2/3)

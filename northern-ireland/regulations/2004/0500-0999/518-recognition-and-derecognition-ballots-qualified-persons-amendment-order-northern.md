@@ -31,7 +31,7 @@ summary: ''
 
 EMPLOYMENT
 
-Recognition and Derecognition Ballots (Qualified Persons) (Amendment) Order (Northern Ireland) 2004 (revoked)[^key-9d7fa56a2fc631b10e894b421a7cca65]
+Recognition and Derecognition Ballots (Qualified Persons) (Amendment) Order (Northern Ireland) 2004 (revoked)[^c-9d7fa56a2fc631b10e894b421a7cca65]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 16th January 2005
 
-[^key-9d7fa56a2fc631b10e894b421a7cca65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d7fa56a2fc631b10e894b421a7cca65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-9d7fa56a2fc631b10e894b421a7cca65]
+## 1. Citation, commencement and interpretation[^c-9d7fa56a2fc631b10e894b421a7cca65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the principal Order[^key-9d7fa56a2fc631b10e894b421a7cca65]
+## 2. Amendments to the principal Order[^c-9d7fa56a2fc631b10e894b421a7cca65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d7fa56a2fc631b10e894b421a7cca65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d7fa56a2fc631b10e894b421a7cca65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9d7fa56a2fc631b10e894b421a7cca65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d7fa56a2fc631b10e894b421a7cca65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9d7fa56a2fc631b10e894b421a7cca65]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/518) revoked (6.4.2010) by [The Recognition and Derecognition Ballots (Qualified Persons) (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/79)](https://www.legislation.gov.uk/nisr/2010/79), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2010/79/article/1/1), [3](https://www.legislation.gov.uk/nisr/2010/79/article/3)
+[^c-9d7fa56a2fc631b10e894b421a7cca65]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/518) revoked (6.4.2010) by [The Recognition and Derecognition Ballots (Qualified Persons) (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/79)](https://www.legislation.gov.uk/nisr/2010/79), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2010/79/article/1/1), [3](https://www.legislation.gov.uk/nisr/2010/79/article/3)

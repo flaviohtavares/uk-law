@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Mental Health (Northern Ireland) Order 1986[^key-913131d1919379c458d218e7037cf44e]
+## 140. Mental Health (Northern Ireland) Order 1986[^c-913131d1919379c458d218e7037cf44e]
 
 *Extent: N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-913131d1919379c458d218e7037cf44e]: Commencement: Reg. 140 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-913131d1919379c458d218e7037cf44e]: Commencement: Reg. 140 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00227]: Footnote: [1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595), as amended by paragraph 67 of Schedule 29 to the Civil Partnership Act 2004.

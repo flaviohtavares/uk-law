@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Regional rate and district rate[^key-35862cd0e7789500bd302409e75a9490][^key-e928ea161e06f10cef00306f8069cb64]
+## 6. Regional rate and district rate[^c-35862cd0e7789500bd302409e75a9490][^c-e928ea161e06f10cef00306f8069cb64]
 
 *Extent: N.I.*
 
@@ -44,8 +44,8 @@ and shall be levied in accordance with the provisions of this Order.
 
 ## Annotations
 
-[^key-35862cd0e7789500bd302409e75a9490]: Modification: Art. 6 modified (with effect in accordance with art. 4(1) of the amending Rule) by [The Local Government (Boundaries) (2008 Act) (Commencement, Transitional Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/238)](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(3)](https://www.legislation.gov.uk/nisr/2013/238/article/4/3)
+[^c-35862cd0e7789500bd302409e75a9490]: Modification: Art. 6 modified (with effect in accordance with art. 4(1) of the amending Rule) by [The Local Government (Boundaries) (2008 Act) (Commencement, Transitional Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/238)](https://www.legislation.gov.uk/nisr/2013/238), [art. 4(3)](https://www.legislation.gov.uk/nisr/2013/238/article/4/3)
 
-[^key-e928ea161e06f10cef00306f8069cb64]: Modification: [Art. 6](https://www.legislation.gov.uk/nisi/1977/2157/article/6) applied in part (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2022/48/section/11/4), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-e928ea161e06f10cef00306f8069cb64]: Modification: [Art. 6](https://www.legislation.gov.uk/nisi/1977/2157/article/6) applied in part (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 11(4)](https://www.legislation.gov.uk/ukpga/2022/48/section/11/4), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
 
 [^c19549131]: Textual amendment: Art. 6(3)(4)(5)(6) substituted (1.12.2006) for art. 6(3) by [Rates (Amendment) (Northern Ireland) Order 2006 (S.I. 2006/2954 (N.I. 18))](https://www.legislation.gov.uk/nisi/2006/2954), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/2954/article/1/3), [3](https://www.legislation.gov.uk/nisi/2006/2954/article/3); [S.R. 2006/464](https://www.legislation.gov.uk/nisr/2006/464), [art. 2(2)](https://www.legislation.gov.uk/nisr/2006/464/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2006/464/schedule/2) (with transitional provisions in [S.R. 2006/468](https://www.legislation.gov.uk/nisr/2006/468), [art. 3(1)](https://www.legislation.gov.uk/nisr/2006/468/article/3/1), [Sch.](https://www.legislation.gov.uk/nisr/2006/468/schedule))

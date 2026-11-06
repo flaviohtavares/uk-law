@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70. Maximum housing benefit[^key-efda05c448d9ff0de8c07b521a8e2d16]
+## 70. Maximum housing benefit[^c-efda05c448d9ff0de8c07b521a8e2d16]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The amount of a person’s appropriate maximum housing benefit in any week shall
 
 ## Annotations
 
-[^key-efda05c448d9ff0de8c07b521a8e2d16]: Textual amendment: Reg. 70 substituted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2007/2868/regulation/12) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
+[^c-efda05c448d9ff0de8c07b521a8e2d16]: Textual amendment: Reg. 70 substituted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2007/2868/regulation/12) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))

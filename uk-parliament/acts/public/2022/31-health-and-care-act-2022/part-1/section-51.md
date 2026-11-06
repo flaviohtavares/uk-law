@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Licensing of NHS trusts[^key-c1cd054a1e3a82802cc3ca5b2e98ae84][^key-ffc1b0402053d4131350b2dc8c9ede66]
+## 51. Licensing of NHS trusts[^c-c1cd054a1e3a82802cc3ca5b2e98ae84][^c-ffc1b0402053d4131350b2dc8c9ede66]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c1cd054a1e3a82802cc3ca5b2e98ae84]: Commencement: S. 51 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-c1cd054a1e3a82802cc3ca5b2e98ae84]: Commencement: S. 51 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-ffc1b0402053d4131350b2dc8c9ede66]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/31/section/51) in force at 1.4.2023 by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/c)
+[^c-ffc1b0402053d4131350b2dc8c9ede66]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/31/section/51) in force at 1.4.2023 by [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/c)

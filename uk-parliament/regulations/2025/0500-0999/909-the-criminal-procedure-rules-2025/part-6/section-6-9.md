@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.9. Sound recording and electronic communication[^key-b18b5b450387802dec252a13ef149491]
+## 6.9. Sound recording and electronic communication[^c-b18b5b450387802dec252a13ef149491]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b18b5b450387802dec252a13ef149491]: Commencement: [Rule 6.9](https://www.legislation.gov.uk/uksi/2025/909/rule/6.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b18b5b450387802dec252a13ef149491]: Commencement: [Rule 6.9](https://www.legislation.gov.uk/uksi/2025/909/rule/6.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

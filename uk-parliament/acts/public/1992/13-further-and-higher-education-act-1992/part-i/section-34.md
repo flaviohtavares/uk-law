@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Making additional property available for use.[^key-903456fc3286596e68bed36afb5720de]
+## 34. Making additional property available for use.[^c-903456fc3286596e68bed36afb5720de]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-903456fc3286596e68bed36afb5720de]: Textual amendment: S. 34 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 4(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/4/4)
+[^c-903456fc3286596e68bed36afb5720de]: Textual amendment: S. 34 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 4(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/4/4)

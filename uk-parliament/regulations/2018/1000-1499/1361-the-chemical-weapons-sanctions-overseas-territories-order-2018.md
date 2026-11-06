@@ -32,7 +32,7 @@ summary: ''
 
 Overseas Territories
 
-The Chemical Weapons (Sanctions) (Overseas Territories) Order 2018 (revoked)[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+The Chemical Weapons (Sanctions) (Overseas Territories) Order 2018 (revoked)[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 Made
 
@@ -52,128 +52,128 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-0a1eeb22242ab8d7182b1064a57c47c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a1eeb22242ab8d7182b1064a57c47c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+## 1. Citation, commencement and extent[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application of the Order[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+## 2. Application of the Order[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+## 3. Interpretation[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 1 — Freezing funds etc.[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+## PART 1 — Freezing funds etc.[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
-### 4. Dealing with funds and economic resources[^key-0a1eeb22242ab8d7182b1064a57c47c3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Credits to a frozen account[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+### 4. Dealing with funds and economic resources[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Information relating to funds etc.[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+### 5. Credits to a frozen account[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — General[^key-0a1eeb22242ab8d7182b1064a57c47c3]
-
-### 7. Licences granted by the Governor[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+### 6. Information relating to funds etc.[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Licences granted outside the Territory[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+## PART 2 — General[^c-0a1eeb22242ab8d7182b1064a57c47c3]
+
+### 7. Licences granted by the Governor[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Claims for indemnity or under contract[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+### 8. Licences granted outside the Territory[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Requirement to publish a list of designated persons[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+### 9. Claims for indemnity or under contract[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Evidence and information[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+### 10. Requirement to publish a list of designated persons[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Functions of the Governor[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+### 11. Evidence and information[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Circumvention and contravention of prohibitions[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+### 12. Functions of the Governor[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Penalties[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+### 13. Circumvention and contravention of prohibitions[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Proceedings[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+### 14. Penalties[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a1eeb22242ab8d7182b1064a57c47c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 15. Proceedings[^c-0a1eeb22242ab8d7182b1064a57c47c3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-0a1eeb22242ab8d7182b1064a57c47c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Territories to which this Order extends[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+## SCHEDULE 1 — Territories to which this Order extends[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 Article 1(3)
 
-[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Modifications to article 14 in relation to the Sovereign Base Areas of Akrotiri and Dhekelia in the Island of Cyprus, the Falkland Islands, South Georgia and the South Sandwich Islands and St Helena, Ascension and Tristan da Cunha[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+## SCHEDULE 2 — Modifications to article 14 in relation to the Sovereign Base Areas of Akrotiri and Dhekelia in the Island of Cyprus, the Falkland Islands, South Georgia and the South Sandwich Islands and St Helena, Ascension and Tristan da Cunha[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 Article 2(2)
 
-**1.**[^key-0a1eeb22242ab8d7182b1064a57c47c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0a1eeb22242ab8d7182b1064a57c47c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-0a1eeb22242ab8d7182b1064a57c47c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0a1eeb22242ab8d7182b1064a57c47c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0a1eeb22242ab8d7182b1064a57c47c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0a1eeb22242ab8d7182b1064a57c47c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Evidence and information[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+## SCHEDULE 3 — Evidence and information[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 Article 11
 
-### 1. Power to require information, documents or goods[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+### 1. Power to require information, documents or goods[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Search warrants[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+### 2. Search warrants[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Offences[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+### 3. Offences[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0a1eeb22242ab8d7182b1064a57c47c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0a1eeb22242ab8d7182b1064a57c47c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-0a1eeb22242ab8d7182b1064a57c47c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0a1eeb22242ab8d7182b1064a57c47c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Exercise of powers: general[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+### 6. Exercise of powers: general[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Interpretation[^key-0a1eeb22242ab8d7182b1064a57c47c3]
+### 7. Interpretation[^c-0a1eeb22242ab8d7182b1064a57c47c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0a1eeb22242ab8d7182b1064a57c47c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a1eeb22242ab8d7182b1064a57c47c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0a1eeb22242ab8d7182b1064a57c47c3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/1361) revoked (31.12.2020 immediately after S.I. 2020/590, S.I. 2020/591, S.I. 2020/950, S.I. 2020/951, S.I. 2020/1289 and S.I. 2020/1397 have come into force) by [The Sanctions (Overseas Territories) (Revocations) Order 2020 (S.I. 2020/1604)](https://www.legislation.gov.uk/uksi/2020/1604), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1604/schedule/1); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4), [5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5), [17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17), [18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18), [21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21), [22](https://www.legislation.gov.uk/uksi/2020/1514/regulation/22)
+[^c-0a1eeb22242ab8d7182b1064a57c47c3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/1361) revoked (31.12.2020 immediately after S.I. 2020/590, S.I. 2020/591, S.I. 2020/950, S.I. 2020/951, S.I. 2020/1289 and S.I. 2020/1397 have come into force) by [The Sanctions (Overseas Territories) (Revocations) Order 2020 (S.I. 2020/1604)](https://www.legislation.gov.uk/uksi/2020/1604), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1604/schedule/1); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4), [5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5), [17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17), [18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18), [21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21), [22](https://www.legislation.gov.uk/uksi/2020/1514/regulation/22)

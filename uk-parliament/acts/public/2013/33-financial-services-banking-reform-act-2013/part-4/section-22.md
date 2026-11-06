@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Determination of applications for approval[^key-afd2a7da9e42e011ae21b255b861b75a]
+## 22. Determination of applications for approval[^c-afd2a7da9e42e011ae21b255b861b75a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In section 61 of FSMA 2000 (determination of applications), in subsection (2)—
 
 ## Annotations
 
-[^key-afd2a7da9e42e011ae21b255b861b75a]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2013/33/section/22) in force at 7.3.2016 by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))
+[^c-afd2a7da9e42e011ae21b255b861b75a]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2013/33/section/22) in force at 7.3.2016 by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))

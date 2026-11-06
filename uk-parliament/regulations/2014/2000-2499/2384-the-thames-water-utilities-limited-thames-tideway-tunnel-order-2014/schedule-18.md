@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 18 — REMOVAL OF CONSENT REQUIREMENTS[^key-7c6884393d5481e47896549168fb8951]
+## SCHEDULE 18 — REMOVAL OF CONSENT REQUIREMENTS[^c-7c6884393d5481e47896549168fb8951]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Article 55
 
 ## Annotations
 
-[^key-7c6884393d5481e47896549168fb8951]: Commencement: Sch. 18 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-7c6884393d5481e47896549168fb8951]: Commencement: Sch. 18 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

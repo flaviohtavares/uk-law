@@ -40,9 +40,9 @@ Coming into operation
 
 1st May 2020
 
-The Department for Communities[^f00001] makes these Regulations in exercise of the powers conferred by section 78(1), (2) and (4) of the Coronavirus Act 2020[^f00002].[^key-17f45bf7140a4d69685a8895b36e8e97]
+The Department for Communities[^f00001] makes these Regulations in exercise of the powers conferred by section 78(1), (2) and (4) of the Coronavirus Act 2020[^f00002].[^c-17f45bf7140a4d69685a8895b36e8e97]
 
-## 1. Citation, commencement and interpretation[^key-44e23a4af2dfeccc244a3a87906ca3f2]
+## 1. Citation, commencement and interpretation[^c-44e23a4af2dfeccc244a3a87906ca3f2]
 
 (1) These Regulations may be cited as The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 and shall come into operation on 1st May 2020.
 
@@ -60,7 +60,7 @@ The Department for Communities[^f00001] makes these Regulations in exercise of t
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00004] applies to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Meetings of councils[^key-3ec11c37164f19db7c1974bec2c36489]
+## 2. Meetings of councils[^c-3ec11c37164f19db7c1974bec2c36489]
 
 (1) In respect of a reference in any enactment to a council meeting, that council may, as they may determine, subject to paragraph (2)—
 
@@ -71,7 +71,7 @@ without requirement for further notice.
 
 (2) The annual meeting of a council must be held by 30th September 2020.
 
-## 3. Remote Attendance[^key-bf784cbbe363685c6e8e43cd1abf4e86]
+## 3. Remote Attendance[^c-bf784cbbe363685c6e8e43cd1abf4e86]
 
 (1) A reference in any enactment to a council meeting is not limited to a meeting of persons all of whom, or any of whom, are present in the same place and any reference to a “place” where a meeting is held, or to be held, includes reference to more than one place including electronic, digital or virtual locations such as internet locations, web addresses or conference call telephone numbers.
 
@@ -93,49 +93,49 @@ without requirement for further notice.
 - (b) member and public access to documents; and
 - (c) remote access of the public to a council meeting.
 
-**4.**[^key-63d7fab0c7b7ef0fc9f6630d5c706223][^key-bf784cbbe363685c6e8e43cd1abf4e86] In section 28(7) (overview and scrutiny committees: supplementary provision) and paragraph 9 of Schedule 5 (meetings and proceedings) to the 2014 Act, a reference to a person attending before a meeting includes that person attending by remote access.
+**4.**[^c-63d7fab0c7b7ef0fc9f6630d5c706223][^c-bf784cbbe363685c6e8e43cd1abf4e86] In section 28(7) (overview and scrutiny committees: supplementary provision) and paragraph 9 of Schedule 5 (meetings and proceedings) to the 2014 Act, a reference to a person attending before a meeting includes that person attending by remote access.
 
-**5.**[^key-a8f8b28ece110a22b6b00ffd429d74e4][^key-bf784cbbe363685c6e8e43cd1abf4e86] Schedule 5 to the 2014 Act (meetings and proceedings) applies as follows—
+**5.**[^c-a8f8b28ece110a22b6b00ffd429d74e4][^c-bf784cbbe363685c6e8e43cd1abf4e86] Schedule 5 to the 2014 Act (meetings and proceedings) applies as follows—
 
 - (a) any reference to being “present” at a meeting includes being present through remote attendance;
 - (b) any reference to a “place” where a meeting is held, or is to be held, includes reference to more than one place including electronic, digital or virtual locations such as internet locations, web addresses or conference call telephone numbers; and
 - (c) in paragraph 5(1)(a) after “the offices of the council” insert “or on the council’s website”.
 
-## 6. Public access[^key-7f115eb77706633d91f234e4035717e2]
+## 6. Public access[^c-7f115eb77706633d91f234e4035717e2]
 
 In sections 34 and 35 (meetings and access to information etc.) and Part 8 (access to meetings and documents) of the 2014 Act, references to—
 
 - (a) a meeting being “open to the public” include access to the meeting through remote means including (but not limited to) video conferencing, live webcast, and live interactive streaming and where a meeting is accessible to the public through such remote means the meeting is open to the public whether or not members of the public are able to attend in person; and
 - (b) being “present” at a meeting includes access through remote means mentioned in (a).
 
-## 7. Access to information[^key-b7ab44276215e1485e4cdeeb13698d80]
+## 7. Access to information[^c-b7ab44276215e1485e4cdeeb13698d80]
 
 In section 42(6)(a) of the 2014 Act (admission to meetings of councils) after “the offices of the council” insert “or on the council’s website”.
 
-**8.**[^key-3e4ea4e4f0292c9da40da0b410df6e77][^key-b7ab44276215e1485e4cdeeb13698d80] In section 43(1) of the 2014 Act (access to agenda and connected reports) after “the offices of the council” insert “or on the council’s website”.
+**8.**[^c-3e4ea4e4f0292c9da40da0b410df6e77][^c-b7ab44276215e1485e4cdeeb13698d80] In section 43(1) of the 2014 Act (access to agenda and connected reports) after “the offices of the council” insert “or on the council’s website”.
 
-**9.**[^key-25e137a221bb3e1d734d4814b3e9fe57][^key-b7ab44276215e1485e4cdeeb13698d80] In section 49 of the 2014 Act (council to publish additional information)—
+**9.**[^c-25e137a221bb3e1d734d4814b3e9fe57][^c-b7ab44276215e1485e4cdeeb13698d80] In section 49 of the 2014 Act (council to publish additional information)—
 
 - (a) in subsection (3) after “the offices of the council” insert “or on the council’s website”; and
 - (b) in subsection (4) after “the offices of the council” insert “or on the council’s website”.
 
-## 10. Decision-making[^key-a365deea76062c99f16e08f6a74f6e57]
+## 10. Decision-making[^c-a365deea76062c99f16e08f6a74f6e57]
 
 In sections 39 (simple majority) and 40 (qualified majority) of the 2014 Act references to “members present and voting on the decision” includes a member being present through remote attendance.
 
-## 11. Amendment of The Local Government (Executive Arrangements) Regulations (Northern Ireland) 2015[^key-9a8ca1140ced105855f12b6d9adf4825]
+## 11. Amendment of The Local Government (Executive Arrangements) Regulations (Northern Ireland) 2015[^c-9a8ca1140ced105855f12b6d9adf4825]
 
 The Local Government (Executive Arrangements) Regulations (Northern Ireland) 2015[^f00005] shall be amended in accordance with regulations 12 to 14.
 
-**12.**[^key-45279860f9287eb51bf8263e37509627][^key-9a8ca1140ced105855f12b6d9adf4825] In regulation 2 (interpretation) after the definition of “nominating officer” insert—
+**12.**[^c-45279860f9287eb51bf8263e37509627][^c-9a8ca1140ced105855f12b6d9adf4825] In regulation 2 (interpretation) after the definition of “nominating officer” insert—
 
 > - “open to the public” includes access through remote means including (but not limited to) video conferencing, live webcast and live interactive streaming and where a meeting is accessible to the public through such remote means the meeting is open to the public whether or not members of the public are able to attend in person;
 
 .
 
-**13.**[^key-740353bd4fa797af7ddc9e106ab3a6b1][^key-9a8ca1140ced105855f12b6d9adf4825] In regulation 19 (admission of the public to meetings of council executives and their sub-committees), after “in public” insert “, open to the public”.
+**13.**[^c-740353bd4fa797af7ddc9e106ab3a6b1][^c-9a8ca1140ced105855f12b6d9adf4825] In regulation 19 (admission of the public to meetings of council executives and their sub-committees), after “in public” insert “, open to the public”.
 
-**14.**[^key-abea7f581cb86a80be825608a5533a83][^key-9a8ca1140ced105855f12b6d9adf4825] (1) The provisions to which this paragraph applies may be complied with by publishing that notice, agenda, report or document on the council’s website.
+**14.**[^c-abea7f581cb86a80be825608a5533a83][^c-9a8ca1140ced105855f12b6d9adf4825] (1) The provisions to which this paragraph applies may be complied with by publishing that notice, agenda, report or document on the council’s website.
 
 (2) The provisions to which paragraph (1) applies are—
 
@@ -186,38 +186,38 @@ Regulations 11 to 14 amend The Local Government (Executive Arrangements) Regulat
 
 [^f00002]: Footnote: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-17f45bf7140a4d69685a8895b36e8e97]: Modification: Regulations continued (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 1(2)](https://www.legislation.gov.uk/nia/2021/8/section/1/2), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
+[^c-17f45bf7140a4d69685a8895b36e8e97]: Modification: Regulations continued (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 1(2)](https://www.legislation.gov.uk/nia/2021/8/section/1/2), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
 
-[^key-44e23a4af2dfeccc244a3a87906ca3f2]: Commencement: Reg. 1 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
+[^c-44e23a4af2dfeccc244a3a87906ca3f2]: Commencement: Reg. 1 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
 
 [^f00003]: Footnote: [2014 c. 8 (N.I.)](https://www.legislation.gov.uk/nia/2014/8).
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-3ec11c37164f19db7c1974bec2c36489]: Commencement: Reg. 2 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
+[^c-3ec11c37164f19db7c1974bec2c36489]: Commencement: Reg. 2 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
 
-[^key-bf784cbbe363685c6e8e43cd1abf4e86]: Commencement: Reg. 3 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
+[^c-bf784cbbe363685c6e8e43cd1abf4e86]: Commencement: Reg. 3 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
 
-[^key-63d7fab0c7b7ef0fc9f6630d5c706223]: Commencement: Reg. 4 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
+[^c-63d7fab0c7b7ef0fc9f6630d5c706223]: Commencement: Reg. 4 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
 
-[^key-a8f8b28ece110a22b6b00ffd429d74e4]: Commencement: Reg. 5 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
+[^c-a8f8b28ece110a22b6b00ffd429d74e4]: Commencement: Reg. 5 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
 
-[^key-7f115eb77706633d91f234e4035717e2]: Commencement: Reg. 6 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
+[^c-7f115eb77706633d91f234e4035717e2]: Commencement: Reg. 6 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
 
-[^key-b7ab44276215e1485e4cdeeb13698d80]: Commencement: Reg. 7 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
+[^c-b7ab44276215e1485e4cdeeb13698d80]: Commencement: Reg. 7 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
 
-[^key-3e4ea4e4f0292c9da40da0b410df6e77]: Commencement: Reg. 8 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
+[^c-3e4ea4e4f0292c9da40da0b410df6e77]: Commencement: Reg. 8 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
 
-[^key-25e137a221bb3e1d734d4814b3e9fe57]: Commencement: Reg. 9 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
+[^c-25e137a221bb3e1d734d4814b3e9fe57]: Commencement: Reg. 9 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
 
-[^key-a365deea76062c99f16e08f6a74f6e57]: Commencement: Reg. 10 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
+[^c-a365deea76062c99f16e08f6a74f6e57]: Commencement: Reg. 10 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
 
-[^key-9a8ca1140ced105855f12b6d9adf4825]: Commencement: Reg. 11 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
+[^c-9a8ca1140ced105855f12b6d9adf4825]: Commencement: Reg. 11 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2015 No. 44](https://www.legislation.gov.uk/nisr/2015/44).
 
-[^key-45279860f9287eb51bf8263e37509627]: Commencement: Reg. 12 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
+[^c-45279860f9287eb51bf8263e37509627]: Commencement: Reg. 12 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
 
-[^key-740353bd4fa797af7ddc9e106ab3a6b1]: Commencement: Reg. 13 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
+[^c-740353bd4fa797af7ddc9e106ab3a6b1]: Commencement: Reg. 13 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
 
-[^key-abea7f581cb86a80be825608a5533a83]: Commencement: Reg. 14 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)
+[^c-abea7f581cb86a80be825608a5533a83]: Commencement: Reg. 14 in operation at 1.5.2020, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1)

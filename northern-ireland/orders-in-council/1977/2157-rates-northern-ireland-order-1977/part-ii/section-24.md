@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Recovery of rates from tenants and lodgers[^key-af8451e05ecbdf3e22080d8c2a36997b]
+## 24. Recovery of rates from tenants and lodgers[^c-af8451e05ecbdf3e22080d8c2a36997b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af8451e05ecbdf3e22080d8c2a36997b]: Textual amendment: S. 24 repealed (29.4.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), s. 13(1), Sch. and expressed to be repealed by s. 4 of said Act and [S.R. 2014/305](https://www.legislation.gov.uk/nisr/2014/305)
+[^c-af8451e05ecbdf3e22080d8c2a36997b]: Textual amendment: S. 24 repealed (29.4.2014) by [Financial Provisions Act (Northern Ireland) 2014 (c. 6)](https://www.legislation.gov.uk/nia/2014/6), s. 13(1), Sch. and expressed to be repealed by s. 4 of said Act and [S.R. 2014/305](https://www.legislation.gov.uk/nisr/2014/305)

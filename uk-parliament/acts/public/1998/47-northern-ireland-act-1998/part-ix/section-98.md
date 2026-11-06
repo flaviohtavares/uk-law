@@ -25,7 +25,7 @@ summary: ''
 - “**the appointed day**” has the meaning given by section 3(1);
 - “**the Assembly**” has the meaning given by section 4(5);
 - “**the Belfast Agreement**” means the agreement reached at multi-party talks on Northern Ireland set out in Command Paper 3883;
-- [^key-2597ecba50a0f3de3b84684519afb39e]...
+- [^c-2597ecba50a0f3de3b84684519afb39e]...
 - “**the Convention rights**” has the same meaning as in the [^c12399891]Human Rights Act 1998;
 - “**cross-community support**” has the meaning given by section 4(5);
 - “**designated Nationalist**” and “**designated Unionist**” have the meanings given by section 4(5);
@@ -34,12 +34,12 @@ summary: ''
 - “**excepted matter**” has the meaning given by section 4(1);
 - “**financial year**”, unless the context otherwise requires, means a year ending with 31st March;
 - “**functions**” includes powers and duties, and “**confer**”, in relation to functions, includes impose;
-- “**international obligations**” means any international obligations of the United Kingdom other than obligations to observe and implement [^key-d80e50d76350050f9eb35ab339b75158]... the Convention rights;
+- “**international obligations**” means any international obligations of the United Kingdom other than obligations to observe and implement [^c-d80e50d76350050f9eb35ab339b75158]... the Convention rights;
 - [^c20120561]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**Minister**”, unless the context otherwise requires, has the meaning given by section 7(3);
 - “**Minister of the Crown**” includes the Treasury;
 - “**modify**”, in relation to an enactment, includes amend or repeal;
-- “[^key-c7d5dc71030ee87ef8c1ef020722512c]**The New Decade, New Approach Deal** ” means the deal to restore devolved government in Northern Ireland published by that name in January 2020;
+- “[^c-c7d5dc71030ee87ef8c1ef020722512c]**The New Decade, New Approach Deal** ” means the deal to restore devolved government in Northern Ireland published by that name in January 2020;
 - “**Northern Ireland**” includes so much of the internal waters and territorial sea of the United Kingdom as are adjacent to Northern Ireland;
 - “**Northern Ireland legislation**” means—
   - (a) Acts of the Parliament of Ireland;
@@ -91,15 +91,15 @@ and may make different determinations or provisions for different purposes.
 
 ## Annotations
 
-[^key-2597ecba50a0f3de3b84684519afb39e]: Textual amendment: Words in s. 98(1) omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 59(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/59/a) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+[^c-2597ecba50a0f3de3b84684519afb39e]: Textual amendment: Words in s. 98(1) omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 59(a)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/59/a) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
 
 [^c12399891]: Marginal citation: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
-[^key-d80e50d76350050f9eb35ab339b75158]: Textual amendment: Words in s. 98(1) omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 59(b)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/59/b) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+[^c-d80e50d76350050f9eb35ab339b75158]: Textual amendment: Words in s. 98(1) omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 59(b)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/59/b) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
 
 [^c20120561]: Textual amendment: S. 98(1): entry for 'Judicial Committee' repealed (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [146](https://www.legislation.gov.uk/ukpga/2005/4/section/146), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 112(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/112/b), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(a)(d)(f)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/a/d/f)
 
-[^key-c7d5dc71030ee87ef8c1ef020722512c]: Textual amendment: Words in [s. 98(1)](https://www.legislation.gov.uk/ukpga/1998/47/section/98/1) inserted (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2022/2/section/2/4), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
+[^c-c7d5dc71030ee87ef8c1ef020722512c]: Textual amendment: Words in [s. 98(1)](https://www.legislation.gov.uk/ukpga/1998/47/section/98/1) inserted (8.2.2022) by [Northern Ireland (Ministers, Elections and Petitions of Concern) Act 2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2022/2/section/2/4), [9](https://www.legislation.gov.uk/ukpga/2022/2/section/9)
 
 [^c12399901]: Marginal citation: [1972 c.22](https://www.legislation.gov.uk/ukpga/1972/22).
 

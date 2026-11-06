@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236M. Controlling interest requirement[^key-c702d14bbd5d9f6064853fa9a2cb45f8][^key-e0c6c036b4045d60180030f9a1822a40][^key-c690b2c4ab4b897e8c9c2a7ede17e69f][^key-c8edb7e5bbb49a5a3bb71d183d501fa9][^key-3d38aaf5ddda74cc8cca5f13b0aa3ee0][^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809]
+## 236M. Controlling interest requirement[^c-c702d14bbd5d9f6064853fa9a2cb45f8][^c-e0c6c036b4045d60180030f9a1822a40][^c-c690b2c4ab4b897e8c9c2a7ede17e69f][^c-c8edb7e5bbb49a5a3bb71d183d501fa9][^c-3d38aaf5ddda74cc8cca5f13b0aa3ee0][^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,14 +33,14 @@ summary: ''
 
 ## Annotations
 
-[^key-c702d14bbd5d9f6064853fa9a2cb45f8]: Modification: S. 236M applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 75A(3) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 14(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/2))
+[^c-c702d14bbd5d9f6064853fa9a2cb45f8]: Modification: S. 236M applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 75A(3) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 14(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/2))
 
-[^key-e0c6c036b4045d60180030f9a1822a40]: Modification: S. 236M applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 86(3A)(b) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 15(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/4))
+[^c-e0c6c036b4045d60180030f9a1822a40]: Modification: S. 236M applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 86(3A)(b) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 15(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/4))
 
-[^key-c690b2c4ab4b897e8c9c2a7ede17e69f]: Modification: S. 236M applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 13A(2) (as inserted (with effect in accordance with Sch. 37 para. 10(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 10(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/10/1))
+[^c-c690b2c4ab4b897e8c9c2a7ede17e69f]: Modification: S. 236M applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 13A(2) (as inserted (with effect in accordance with Sch. 37 para. 10(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 10(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/10/1))
 
-[^key-c8edb7e5bbb49a5a3bb71d183d501fa9]: Modification: S. 236M applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 28A(2) (as inserted (with effect in accordance with Sch. 37 para. 11(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 11(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/11/1))
+[^c-c8edb7e5bbb49a5a3bb71d183d501fa9]: Modification: S. 236M applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 28A(2) (as inserted (with effect in accordance with Sch. 37 para. 11(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 11(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/11/1))
 
-[^key-3d38aaf5ddda74cc8cca5f13b0aa3ee0]: Modification: S. 236M applied by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 312E(2)(a) (as inserted (with effect in accordance with Sch. 37 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/5))
+[^c-3d38aaf5ddda74cc8cca5f13b0aa3ee0]: Modification: S. 236M applied by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 312E(2)(a) (as inserted (with effect in accordance with Sch. 37 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/5))
 
 [^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809]: Textual amendment: Ss. 236H-236U and cross-heading inserted (with effect in accordance with [Sch. 37 para. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/1) (with [Sch. 37 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/4))

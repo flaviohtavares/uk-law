@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1B — Certificate under section 11(4) or 20(5): specified information[^M_E_f47d9b88-bbea-42ac-c52c-1ad9aaab3aa5][^key-edd9151b70d3c81a203a8695c6a09652]
+## SCHEDULE 1B — Certificate under section 11(4) or 20(5): specified information[^M_E_f47d9b88-bbea-42ac-c52c-1ad9aaab3aa5][^c-edd9151b70d3c81a203a8695c6a09652]
 
 *Extent: S*
 
@@ -90,4 +90,4 @@ Section 28(7)
 
 [^M_E_f47d9b88-bbea-42ac-c52c-1ad9aaab3aa5]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales and Northern Ireland only
 
-[^key-edd9151b70d3c81a203a8695c6a09652]: Textual amendment: Sch. 1B inserted (S.) (16.5.2022) by [The Crime (International Co-operation) Act 2003 (Freezing Order) (EU Exit) (Scotland) Regulations 2022 (S.S.I. 2022/95)](https://www.legislation.gov.uk/ssi/2022/95), [regs. 1](https://www.legislation.gov.uk/ssi/2022/95/regulation/1), [4](https://www.legislation.gov.uk/ssi/2022/95/regulation/4)
+[^c-edd9151b70d3c81a203a8695c6a09652]: Textual amendment: Sch. 1B inserted (S.) (16.5.2022) by [The Crime (International Co-operation) Act 2003 (Freezing Order) (EU Exit) (Scotland) Regulations 2022 (S.S.I. 2022/95)](https://www.legislation.gov.uk/ssi/2022/95), [regs. 1](https://www.legislation.gov.uk/ssi/2022/95/regulation/1), [4](https://www.legislation.gov.uk/ssi/2022/95/regulation/4)

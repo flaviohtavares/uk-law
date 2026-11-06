@@ -44,11 +44,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by sections 33(3) and 74(6) of the Environmental Protection Act 1990[^f00001] (having in particular had regard in exercising his powers under section 33(3) to the matters specified in section 33(4) of that Act), and of all other powers enabling him in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-40700970ec499d1c5b12ea3c99c63838]
+## 1. Citation and commencement[^c-40700970ec499d1c5b12ea3c99c63838]
 
 These Regulations may be cited as the Waste Management Licensing (Amendment No. 2) Regulations 1995 and shall come into force on 29th July 1995.
 
-## 2. Amendment of the Waste Management Licensing Regulations 1994[^key-a12e85f0af8b1dc7cde114040335cb99]
+## 2. Amendment of the Waste Management Licensing Regulations 1994[^c-a12e85f0af8b1dc7cde114040335cb99]
 
 In paragraph 43(2) of Schedule 3 to the Waste Management Licensing Regulations 1994[^f00002] (activities exempt from waste management licensing), for the words “shall after 31st July 1995 cease to have effect” there shall be substituted the following—
 
@@ -60,7 +60,7 @@ In paragraph 43(2) of Schedule 3 to the Waste Management Licensing Regulations 1
 
 .
 
-## 3. Amendment of the Waste Management Licensing (Amendment etc.) Regulations 1995[^key-220c043db23ee4e2e423b23e3207b070]
+## 3. Amendment of the Waste Management Licensing (Amendment etc.) Regulations 1995[^c-220c043db23ee4e2e423b23e3207b070]
 
 In regulation 4 of the Waste Management Licensing (Amendment etc.) Regulations 1995[^f00003] (technical competence—transitional provisions) there shall be added at the end the following
 
@@ -91,12 +91,12 @@ Regulation 3 similarly extends the transitional period during which regulation 4
 
 [^f00001]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-40700970ec499d1c5b12ea3c99c63838]: Commencement: Reg. 1 in force at 29.7.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1950/regulation/1)
+[^c-40700970ec499d1c5b12ea3c99c63838]: Commencement: Reg. 1 in force at 29.7.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1950/regulation/1)
 
-[^key-a12e85f0af8b1dc7cde114040335cb99]: Commencement: Reg. 2 in force at 29.7.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1950/regulation/1)
+[^c-a12e85f0af8b1dc7cde114040335cb99]: Commencement: Reg. 2 in force at 29.7.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1950/regulation/1)
 
 [^f00002]: Footnote: S.I. [1994/1056](https://www.legislation.gov.uk/uksi/1994/1056); paragraph 43(2) was amended by S.I. [1995/288](https://www.legislation.gov.uk/uksi/1995/288), regulation 3(15).
 
-[^key-220c043db23ee4e2e423b23e3207b070]: Commencement: Reg. 3 in force at 29.7.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1950/regulation/1)
+[^c-220c043db23ee4e2e423b23e3207b070]: Commencement: Reg. 3 in force at 29.7.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1950/regulation/1)
 
 [^f00003]: Footnote: S.I. [1995/288](https://www.legislation.gov.uk/uksi/1995/288).

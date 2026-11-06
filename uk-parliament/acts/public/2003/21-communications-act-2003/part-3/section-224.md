@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Meaning of “initial expiry date”[^key-bcdf25f546a33740958cc14bc683e680]
+## 224. Meaning of “initial expiry date”[^c-bcdf25f546a33740958cc14bc683e680]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-604fd92f7c65a6de016726a9d7f7ec5c] Subject to any postponement under this section, for the purposes of this Part the initial expiry date for the following types of licence is 31 December 2014—
+(1)[^c-604fd92f7c65a6de016726a9d7f7ec5c] Subject to any postponement under this section, for the purposes of this Part the initial expiry date for the following types of licence is 31 December 2014—
 
 - (a) a licence to provide a Channel 3 service;
 - (b) a licence to provide Channel 5;
-- (c)[^key-d90bee5a7ba0874af7028c71e9ae0a46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-d90bee5a7ba0874af7028c71e9ae0a46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The Secretary of State may (on one or more occasions) by order postpone the initial expiry date for one or more of the types of licence mentioned in subsection (1)[^key-7162ee4ae5cd989a5aaeedb07f55fb08].
+(2) The Secretary of State may (on one or more occasions) by order postpone the initial expiry date for one or more of the types of licence mentioned in subsection (1)[^c-7162ee4ae5cd989a5aaeedb07f55fb08].
 
-(3)[^key-5bee4b3d7aa7adcc62d2b4980ed1b123] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5bee4b3d7aa7adcc62d2b4980ed1b123] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where the Secretary of State makes an order under this section at a time after he has fixed a date for digital switchover, the date to which the initial expiry date is postponed must be a date not less than eighteen months after the date for digital switchover.
 
@@ -51,12 +51,12 @@ summary: ''
 
 ## Annotations
 
-[^key-bcdf25f546a33740958cc14bc683e680]: Commencement: S. 224 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-bcdf25f546a33740958cc14bc683e680]: Commencement: S. 224 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-604fd92f7c65a6de016726a9d7f7ec5c]: Textual amendment: S. 224(1) substituted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/25/2), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-604fd92f7c65a6de016726a9d7f7ec5c]: Textual amendment: S. 224(1) substituted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/25/2), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
 
-[^key-d90bee5a7ba0874af7028c71e9ae0a46]: Textual amendment: [S. 224(1)(c)](https://www.legislation.gov.uk/ukpga/2003/21/section/224/1/c) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/28); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-d90bee5a7ba0874af7028c71e9ae0a46]: Textual amendment: [S. 224(1)(c)](https://www.legislation.gov.uk/ukpga/2003/21/section/224/1/c) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/28); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
 
-[^key-7162ee4ae5cd989a5aaeedb07f55fb08]: Textual amendment: Words in s. 224(2) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2010/24/section/25/3), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-7162ee4ae5cd989a5aaeedb07f55fb08]: Textual amendment: Words in s. 224(2) inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2010/24/section/25/3), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
 
-[^key-5bee4b3d7aa7adcc62d2b4980ed1b123]: Textual amendment: S. 224(3) repealed (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 25(4)](https://www.legislation.gov.uk/ukpga/2010/24/section/25/4), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/24/schedule/2)
+[^c-5bee4b3d7aa7adcc62d2b4980ed1b123]: Textual amendment: S. 224(3) repealed (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 25(4)](https://www.legislation.gov.uk/ukpga/2010/24/section/25/4), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/24/schedule/2)

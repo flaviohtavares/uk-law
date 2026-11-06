@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Classification of goods[^key-1a66a1b225a7339a600845ea671fb847]
+## 15. Classification of goods[^c-1a66a1b225a7339a600845ea671fb847]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a66a1b225a7339a600845ea671fb847]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/173) revoked (19.5.2010) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010 (S.R. 2010/160)](https://www.legislation.gov.uk/nisr/2010/160), [regs. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1), [31](https://www.legislation.gov.uk/nisr/2010/160/regulation/31), [Sch. 6](https://www.legislation.gov.uk/nisr/2010/160/schedule/6)
+[^c-1a66a1b225a7339a600845ea671fb847]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/173) revoked (19.5.2010) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2010 (S.R. 2010/160)](https://www.legislation.gov.uk/nisr/2010/160), [regs. 1](https://www.legislation.gov.uk/nisr/2010/160/regulation/1), [31](https://www.legislation.gov.uk/nisr/2010/160/regulation/31), [Sch. 6](https://www.legislation.gov.uk/nisr/2010/160/schedule/6)

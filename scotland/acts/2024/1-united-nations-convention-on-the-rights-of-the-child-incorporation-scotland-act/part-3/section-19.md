@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Listed authorities[^key-2cef907e267ebadbdcf1bb2bba8ce0a7]
+## 19. Listed authorities[^c-2cef907e267ebadbdcf1bb2bba8ce0a7]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cef907e267ebadbdcf1bb2bba8ce0a7]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2024/1/section/19) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-2cef907e267ebadbdcf1bb2bba8ce0a7]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2024/1/section/19) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

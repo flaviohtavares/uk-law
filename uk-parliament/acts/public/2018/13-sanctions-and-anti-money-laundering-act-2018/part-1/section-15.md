@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Exceptions and licences[^key-59b7d1daeddaab4c5bd2e9f533a2cdc8]
+## 15. Exceptions and licences[^c-59b7d1daeddaab4c5bd2e9f533a2cdc8]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 - (g) make provision enabling licences or directions to be varied, revoked or suspended;
 - (h) make provision as to notifications or publicity to be given in connection with licences or directions.
 
-(3A)[^key-0d794cccfd1a08f7b56e221ae4125b6a] Where regulations provide for designated persons to be persons subject to director disqualification sanctions for the purposes of section 11A of the Company Directors Disqualification Act 1986 and Article 15A of the Company Directors Disqualification (Northern Ireland) Order 2002, the regulations may—
+(3A)[^c-0d794cccfd1a08f7b56e221ae4125b6a] Where regulations provide for designated persons to be persons subject to director disqualification sanctions for the purposes of section 11A of the Company Directors Disqualification Act 1986 and Article 15A of the Company Directors Disqualification (Northern Ireland) Order 2002, the regulations may—
 
 - (a) create exceptions from subsection (1) of that section or paragraph (1) of that Article;
 - (b) confer power on an appropriate Minister to issue a licence to authorise a designated person to do anything that would otherwise be prohibited by subsection (1) of that section or paragraph (1) of that Article.
@@ -64,6 +64,6 @@ In this subsection “**act**” includes an omission.
 
 ## Annotations
 
-[^key-59b7d1daeddaab4c5bd2e9f533a2cdc8]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2018/13/section/15) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-59b7d1daeddaab4c5bd2e9f533a2cdc8]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2018/13/section/15) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
 
-[^key-0d794cccfd1a08f7b56e221ae4125b6a]: Textual amendment: [S. 15(3A)](https://www.legislation.gov.uk/ukpga/2018/13/section/15/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2018/13/section/15/3B) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 35(5)](https://www.legislation.gov.uk/ukpga/2023/56/section/35/5), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/y)
+[^c-0d794cccfd1a08f7b56e221ae4125b6a]: Textual amendment: [S. 15(3A)](https://www.legislation.gov.uk/ukpga/2018/13/section/15/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2018/13/section/15/3B) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 35(5)](https://www.legislation.gov.uk/ukpga/2023/56/section/35/5), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/y)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18E. Interpretation of sections 18B to 18D: “prescribed” etc[^key-fed7a2b195867d4cb21a0f5e30440cf2]
+## 18E. Interpretation of sections 18B to 18D: “prescribed” etc[^c-fed7a2b195867d4cb21a0f5e30440cf2]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fed7a2b195867d4cb21a0f5e30440cf2]: Textual amendment: Ss. 18B-18E inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 103](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/103) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-fed7a2b195867d4cb21a0f5e30440cf2]: Textual amendment: Ss. 18B-18E inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 103](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/103) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

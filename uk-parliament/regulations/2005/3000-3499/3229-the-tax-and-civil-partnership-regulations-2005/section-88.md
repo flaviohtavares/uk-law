@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88.[^key-3e8378a5ff463d1ab2380345305ca442]
+## 88.[^c-3e8378a5ff463d1ab2380345305ca442]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 634 (annuity to member), in subsection (5)(a), for “marriage of the
 
 ## Annotations
 
-[^key-3e8378a5ff463d1ab2380345305ca442]: Commencement: Reg. 88 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-3e8378a5ff463d1ab2380345305ca442]: Commencement: Reg. 88 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

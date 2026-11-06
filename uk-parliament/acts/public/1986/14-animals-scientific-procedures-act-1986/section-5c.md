@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5C. Determining an application: further provision[^key-f384459c14b6ded10dae88821049a40e]
+## 5C. Determining an application: further provision[^c-f384459c14b6ded10dae88821049a40e]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f384459c14b6ded10dae88821049a40e]: Textual amendment: Ss. 5-5G substituted for s. 5 (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [9(1)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/9/1) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-f384459c14b6ded10dae88821049a40e]: Textual amendment: Ss. 5-5G substituted for s. 5 (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [9(1)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/9/1) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

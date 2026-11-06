@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Power and duty to remit offenders aged under 18 to youth courts for sentence[^key-ab933b6950a1bb40621638ad35c215f3]
+## 25. Power and duty to remit offenders aged under 18 to youth courts for sentence[^c-ab933b6950a1bb40621638ad35c215f3]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 The “sending court” is the magistrates' court which sent the offender to the Crown Court for trial.
 
-(2A)[^key-cb1260740093ec66c23cfc2b297255af] If—
+(2A)[^c-cb1260740093ec66c23cfc2b297255af] If—
 
 - (a) the convicting court is a magistrates’ court, and
 - (b) that court commits the offender to the Crown Court for sentence,
@@ -78,6 +78,6 @@ is to be evidence of the order.
 
 ## Annotations
 
-[^key-ab933b6950a1bb40621638ad35c215f3]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2020/17/section/25) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ab933b6950a1bb40621638ad35c215f3]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2020/17/section/25) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-cb1260740093ec66c23cfc2b297255af]: Textual amendment: [S. 25(2A)](https://www.legislation.gov.uk/ukpga/2020/17/section/25/2A) inserted (28.4.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2022/35/section/11/2), [51(1)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1)
+[^c-cb1260740093ec66c23cfc2b297255af]: Textual amendment: [S. 25(2A)](https://www.legislation.gov.uk/ukpga/2020/17/section/25/2A) inserted (28.4.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2022/35/section/11/2), [51(1)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1)

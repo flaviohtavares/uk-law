@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Awards of compensation[^key-0da5025523f8a43605222d4c21e92057]
+## 7. Awards of compensation[^c-0da5025523f8a43605222d4c21e92057]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ An award of a basic amount shall be treated as a basic award of compensation for
 
 ## Annotations
 
-[^key-0da5025523f8a43605222d4c21e92057]: Commencement: Art. 7 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-0da5025523f8a43605222d4c21e92057]: Commencement: Art. 7 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
 
 [^f00006]: Footnote: Section 184(1)(d) was amended by the Employment Rights (Dispute Resolution) Act [1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), section 12(4).

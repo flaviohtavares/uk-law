@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Treatment of child care charges[^key-139c94591f7aad69f02c2a690b87b9ac]
+## 20. Treatment of child care charges[^c-139c94591f7aad69f02c2a690b87b9ac]
 
 *Extent: N.I.*
 
@@ -112,7 +112,7 @@ whichever shall occur first.
 
 ## Annotations
 
-[^key-139c94591f7aad69f02c2a690b87b9ac]: Commencement: Reg. 20 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-139c94591f7aad69f02c2a690b87b9ac]: Commencement: Reg. 20 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
 
 [^f00051]: Footnote: *See* the Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995 ([S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41)) and the Social Security (Incapacity for Work) (Miscellaneous Amendment) Regulations (Northern Ireland) 1995 ([S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149))
 

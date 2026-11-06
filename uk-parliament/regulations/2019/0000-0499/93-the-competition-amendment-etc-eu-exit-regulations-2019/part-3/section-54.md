@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54.[^key-962852caec22b0ff71927727774e26b2]
+## 54.[^c-962852caec22b0ff71927727774e26b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In section 129(1) [^c23883161]—
 
 ## Annotations
 
-[^key-962852caec22b0ff71927727774e26b2]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-962852caec22b0ff71927727774e26b2]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23883161]: Marginal citation: The definition of “the EC Merger Regulation” was inserted by [S.I. 2004/1079](https://www.legislation.gov.uk/uksi/2004/1079) and the definition of “EU law” was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); there are other amending instruments, but none is relevant to these Regulations.

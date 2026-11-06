@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Provision of false or misleading information to regulator[^key-8c9b18e3d821d00ad2e4f3c08675f29b][^key-34f09b213d5e917a062aa760532907c6]
+## 24. Provision of false or misleading information to regulator[^c-8c9b18e3d821d00ad2e4f3c08675f29b][^c-34f09b213d5e917a062aa760532907c6]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ and the person knows that, or is reckless as to whether, the information is fals
 
 ## Annotations
 
-[^key-8c9b18e3d821d00ad2e4f3c08675f29b]: Commencement: S. 24 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-8c9b18e3d821d00ad2e4f3c08675f29b]: Commencement: S. 24 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-34f09b213d5e917a062aa760532907c6]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/30/section/24) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(i)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/i)
+[^c-34f09b213d5e917a062aa760532907c6]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2022/30/section/24) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(i)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/i)

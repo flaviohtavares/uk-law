@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-For the avoidance of doubt it is hereby declared that provisions of this Act which derive from the [^c15586121]Insolvency Act 1985 and Part A1[^key-a1f57f249f8480e0d93f5d6db867fbeb] and sections 233A and 233B and Schedule 4ZZA[^key-1a541d315d5fa6c2d893cc9efea1d21d] bind the Crown so far as affecting or relating to the following matters, namely—
+For the avoidance of doubt it is hereby declared that provisions of this Act which derive from the [^c15586121]Insolvency Act 1985 and Part A1[^c-a1f57f249f8480e0d93f5d6db867fbeb] and sections 233A and 233B and Schedule 4ZZA[^c-1a541d315d5fa6c2d893cc9efea1d21d] bind the Crown so far as affecting or relating to the following matters, namely—
 
 - (a) remedies against, or against the property of, companies or individuals;
 - (b) priorities of debts;
@@ -38,6 +38,6 @@ For the avoidance of doubt it is hereby declared that provisions of this Act whi
 
 [^c15586121]: Marginal citation: [1985 c. 65](https://www.legislation.gov.uk/ukpga/1985/65).
 
-[^key-a1f57f249f8480e0d93f5d6db867fbeb]: Textual amendment: Words in s. 434 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/29) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-a1f57f249f8480e0d93f5d6db867fbeb]: Textual amendment: Words in s. 434 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/29) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-1a541d315d5fa6c2d893cc9efea1d21d]: Textual amendment: Words in s. 434 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/14/2), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [14(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/14/4))
+[^c-1a541d315d5fa6c2d893cc9efea1d21d]: Textual amendment: Words in s. 434 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/14/2), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [14(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/14/4))

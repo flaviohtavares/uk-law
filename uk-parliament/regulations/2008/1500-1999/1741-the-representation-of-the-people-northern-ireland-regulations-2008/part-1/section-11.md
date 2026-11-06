@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Interference with notices etc.[^key-88b91eb977335733b6881e63a4b1e7b9]
+## 11. Interference with notices etc.[^c-88b91eb977335733b6881e63a4b1e7b9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ If any person without lawful authority destroys, mutilates, defaces or removes a
 
 ## Annotations
 
-[^key-88b91eb977335733b6881e63a4b1e7b9]: Modification: [Reg. 11](https://www.legislation.gov.uk/uksi/2008/1741/regulation/11) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 67(e)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/67/e)
+[^c-88b91eb977335733b6881e63a4b1e7b9]: Modification: [Reg. 11](https://www.legislation.gov.uk/uksi/2008/1741/regulation/11) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 67(e)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/67/e)

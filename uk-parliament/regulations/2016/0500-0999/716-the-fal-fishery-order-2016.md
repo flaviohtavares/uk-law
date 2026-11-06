@@ -56,7 +56,7 @@ The Secretary of State has considered the objections and representations made in
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 1 and 4(2) of the 1967 Act and section 15(3) of the Sea Fisheries Act 1968[^f00004], and has had regard to the powers and duties of the Crown Estate Commissioners under the Crown Estate Act 1961[^f00005] in accordance with paragraph 6(2) of Schedule 1 to the 1967 Act.
 
-## 1. Title, commencement, extent and interpretation[^key-08ccfa10c428dd6b9e7dbf87fe117bbc]
+## 1. Title, commencement, extent and interpretation[^c-08ccfa10c428dd6b9e7dbf87fe117bbc]
 
 (1) This Order—
 
@@ -87,11 +87,11 @@ The Secretary of State makes the following Order in exercise of the powers confe
   - (l) whelks; and
   - (m) winkles.
 
-## 2. Right of regulating a fishery[^key-de377784d4a80d5e7eee65ef4fdf5781]
+## 2. Right of regulating a fishery[^c-de377784d4a80d5e7eee65ef4fdf5781]
 
 (1) The right of regulating a fishery for shellfish of any of the prescribed species in the fishery area is conferred on the Authority for a period of 30 years beginning on 1st July 2016.
 
-## 3. Publication and review of the Management Plan and Regulations[^key-75d31889c3fff450e1b3bf535e02120a]
+## 3. Publication and review of the Management Plan and Regulations[^c-75d31889c3fff450e1b3bf535e02120a]
 
 (1) The Authority must publish the Plan on its website.
 
@@ -116,7 +116,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
   - (c) any person likely to be affected by the Plan as updated, or by the regulations or changes to them; and
 - “the Plan” means the Fal Fishery Order Management Plan made by the Authority on 17th June 2016[^f00006].
 
-## 4. Power to make regulations and to carry out fisheries management and development activities[^key-1bd2f805018570a5aed8e66b6571e17a]
+## 4. Power to make regulations and to carry out fisheries management and development activities[^c-1bd2f805018570a5aed8e66b6571e17a]
 
 (1) The Authority may, with the consent of the Secretary of State—
 
@@ -153,14 +153,14 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (7) In this article, “marine conservation site” means—
 
-- (a) a European marine site (which has the meaning given by regulation 8(3) of the Conservation of Habitats and Species Regulations 2017[^key-79e05b01912dcd44b6f1561f7ffebc05]);
+- (a) a European marine site (which has the meaning given by regulation 8(3) of the Conservation of Habitats and Species Regulations 2017[^c-79e05b01912dcd44b6f1561f7ffebc05]);
 - (b) a Ramsar site (which has the meaning given by section 37A of the Wildlife and Countryside Act 1981[^f00008]);
 - (c) a site of special scientific interest (which has the same meaning as in Part 2 of that Act); or
 - (d) a marine conservation zone designated under section 116 of the Marine and Coastal Access Act 2009.
 
 (8) The production of a copy of regulations purporting to be certified by an officer of the Authority authorised by the Secretary of State is conclusive evidence that the regulations were made.
 
-## 5. Restrictions on fishing in the fishery area[^key-a85d9b076f8244e9b8585be795edb058]
+## 5. Restrictions on fishing in the fishery area[^c-a85d9b076f8244e9b8585be795edb058]
 
 (1) A person must not carry out any activity prohibited by regulations made under article 4.
 
@@ -179,7 +179,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - (a) powering a fishing boat by sails or oars; or
 - (b) using a winch or other device which can only be operated by hand.
 
-## 6. Application for and grant of licence[^key-bc787975219f51af30055a8d5e50e726]
+## 6. Application for and grant of licence[^c-bc787975219f51af30055a8d5e50e726]
 
 (1) An application for a licence must be made in writing to the Authority.
 
@@ -203,18 +203,18 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (5) The officer must produce to P written evidence of the officer’s authority under this Order if asked to do so by P.
 
-## 7. Gathering of oysters and mussels by hand[^key-e867465300b875987333d210650ff208]
+## 7. Gathering of oysters and mussels by hand[^c-e867465300b875987333d210650ff208]
 
 A licence authorising the dredging of oysters or mussels using a specified dredge from a fishing boat may authorise the licensee to appoint one person, who may be the licensee or one of the crew of the fishing boat, to gather oysters or mussels by hand while the dredge is not in use.
 
-## 8. Bagging and labelling of oysters and mussels[^key-8124438f94f9f3d9830aaebabad55aea]
+## 8. Bagging and labelling of oysters and mussels[^c-8124438f94f9f3d9830aaebabad55aea]
 
 A person landing oysters or mussels from a fishing boat or storing them on the shore of the fishery area must—
 
 - (a) land or store them in bags; and
 - (b) ensure that a label, produced by the Authority and indelibly marked with a number indicating the licence under which the oysters or mussels were caught, is either attached to or enclosed in each bag.
 
-## 9. Tolls[^key-8ba5a41c02c575f7e243079c2394d8d0]
+## 9. Tolls[^c-8ba5a41c02c575f7e243079c2394d8d0]
 
 (1) A person who applies to the Authority for a licence must pay a toll of £165—
 
@@ -225,7 +225,7 @@ A person landing oysters or mussels from a fishing boat or storing them on the s
 
 (3) In paragraph (2), “the Closed Areas byelaw” means the byelaw entitled “the Closed Areas (European Marine Sites) No.2” which was made by the Authority on 16th April 2015 and confirmed by the Secretary of State on 24th April 2015[^f00009], as amended by the Cornwall Inshore Fisheries and Conservation Authority Closed Areas (European Marine Sites) No.2 Byelaw (Amendment) Order 2016 made by the Secretary of State on 10th March 2016[^f00010].
 
-## 10. Restriction on removal of culch[^key-0eeab093b2e6f92f214cb7c853b92cb3]
+## 10. Restriction on removal of culch[^c-0eeab093b2e6f92f214cb7c853b92cb3]
 
 (1) A person must not remove culch or other material for the reception of spat from the fishery area or move it from one part of the fishery area to another, except with the prior permission of the Authority.
 
@@ -237,7 +237,7 @@ A person landing oysters or mussels from a fishing boat or storing them on the s
 
 (3) Paragraphs (1) and (2) do not apply to a removal or lifting effected by raising an anchor or other mooring device for the purpose of navigation.
 
-## 11. Notification and marking out of areas[^key-5e8905bf040b1f2b77d7f1fcfb4b6ee7]
+## 11. Notification and marking out of areas[^c-5e8905bf040b1f2b77d7f1fcfb4b6ee7]
 
 (1) The Authority must, in such manner as the Secretary of State directs, mark out or otherwise make known to those carrying out fishing activities the limits of the fishery area.
 
@@ -245,7 +245,7 @@ A person landing oysters or mussels from a fishing boat or storing them on the s
 
 (3) The Authority must take reasonable steps to ensure that the limits of the fishery area, and any part of the fishery area where it has authorised fisheries management and development activities, are made known to those carrying out fishing activities.
 
-## 12. Accounts of income and expenditure and other information[^key-f103053b801a3b750abe9370769b69d3]
+## 12. Accounts of income and expenditure and other information[^c-f103053b801a3b750abe9370769b69d3]
 
 (1) The Authority must by 31st August each year provide to the Secretary of State annual accounts of its income and expenditure arising under this Order and such other information relating to this Order and to the fishery area as the Secretary of State may reasonably require.
 
@@ -253,11 +253,11 @@ A person landing oysters or mussels from a fishing boat or storing them on the s
 
 (3) The Authority must give such person such information in its possession relating to the Order and to the fishery area as the person may reasonably require.
 
-## 13. Rights of landowners and lessees[^key-cc6cdb7a74e30a8b2320af1e82870ea2]
+## 13. Rights of landowners and lessees[^c-cc6cdb7a74e30a8b2320af1e82870ea2]
 
 Nothing in this Order or in any restriction imposed under it or regulation made under it prejudicially affects any right of a person who owns any part of the fishery area or of any person to whom such a person has granted a lease in respect of the fishery area.
 
-## 14. Statutory undertakers[^key-9bc359305fb0f99b9739dfb678d71035]
+## 14. Statutory undertakers[^c-9bc359305fb0f99b9739dfb678d71035]
 
 (1) Nothing in this Order or in any restriction imposed under it or regulation made under it prejudicially affects the lawful activities of a statutory undertaker exercising its statutory functions or authority.
 
@@ -271,17 +271,17 @@ Department for Environment, Food and Rural Affairs
 
 6th July 2016
 
-## SCHEDULE — The Fishery Area[^key-b37dbb77bdff6fe7dc28e73ed3793b91]
+## SCHEDULE — The Fishery Area[^c-b37dbb77bdff6fe7dc28e73ed3793b91]
 
 Article 1(2)
 
-[^key-b37dbb77bdff6fe7dc28e73ed3793b91]
+[^c-b37dbb77bdff6fe7dc28e73ed3793b91]
 
 The fishery area is an area of approximately 1168 hectares, marked for illustrative purposes and in green on the map below. It comprises parts of Truro and Falmouth Harbours and of the Truro, Fal and Tresillian rivers and its co-ordinates are set out below. It extends to the highest astronomical tide north of a loxodromic line drawn from I - 50° 10’.330N 005° 02’.740W to J - 50° 10’.372N 005° 01’.376W.
 
 ### Mylor Creek
 
-[^key-b37dbb77bdff6fe7dc28e73ed3793b91]
+[^c-b37dbb77bdff6fe7dc28e73ed3793b91]
 
 The fishery area does not include waters to the west of a loxodromic line drawn from –
 
@@ -289,7 +289,7 @@ A - 50° 10’.750N 005° 03’.830W to B - 50° 10’.700N 005° 03’.830W.
 
 ### Restronguet Creek
 
-[^key-b37dbb77bdff6fe7dc28e73ed3793b91]
+[^c-b37dbb77bdff6fe7dc28e73ed3793b91]
 
 The fishery area does not include waters to the north of a loxodromic line drawn from –
 
@@ -297,7 +297,7 @@ C - 50° 11’.769N 005° 03’.804W to D - 50° 11’.692N 005° 03’.558W.
 
 ### Truro River
 
-[^key-b37dbb77bdff6fe7dc28e73ed3793b91]
+[^c-b37dbb77bdff6fe7dc28e73ed3793b91]
 
 The fishery area does not include waters to the west of a loxodromic line drawn from –
 
@@ -305,7 +305,7 @@ E - 50° 14’.576N 005° 01’.682W to F - 50° 14’.507N 005° 01’.794W.
 
 ### Saint Just Creek
 
-[^key-b37dbb77bdff6fe7dc28e73ed3793b91]
+[^c-b37dbb77bdff6fe7dc28e73ed3793b91]
 
 The fishery area does not include waters to the east of a loxodromic line drawn from –
 
@@ -313,7 +313,7 @@ G - 50° 11’.023N 005° 01’.223W to H - 50° 10’.868N 005° 01’.226W.
 
 ### (Southern boundary line)
 
-[^key-b37dbb77bdff6fe7dc28e73ed3793b91]
+[^c-b37dbb77bdff6fe7dc28e73ed3793b91]
 
 The fishery area does not include waters to the south of a loxodromic line drawn from –
 
@@ -343,44 +343,44 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^f00005]: Footnote: [1961 c. 55](https://www.legislation.gov.uk/ukpga/1961/55).
 
-[^key-08ccfa10c428dd6b9e7dbf87fe117bbc]: Commencement: Art. 1 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
+[^c-08ccfa10c428dd6b9e7dbf87fe117bbc]: Commencement: Art. 1 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
 
-[^key-de377784d4a80d5e7eee65ef4fdf5781]: Commencement: Art. 2 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
+[^c-de377784d4a80d5e7eee65ef4fdf5781]: Commencement: Art. 2 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
 
-[^key-75d31889c3fff450e1b3bf535e02120a]: Commencement: Art. 3 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
+[^c-75d31889c3fff450e1b3bf535e02120a]: Commencement: Art. 3 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
 
 [^f00006]: Footnote: The Plan is available on the Authority’s website: http://www.cornwall-ifca.gov.uk.
 
-[^key-1bd2f805018570a5aed8e66b6571e17a]: Commencement: Art. 4 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
+[^c-1bd2f805018570a5aed8e66b6571e17a]: Commencement: Art. 4 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
 
-[^key-79e05b01912dcd44b6f1561f7ffebc05]: Textual amendment: Words in [art. 4(7)(a)](https://www.legislation.gov.uk/uksi/2016/716/article/4/7/a) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 68](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/68)
+[^c-79e05b01912dcd44b6f1561f7ffebc05]: Textual amendment: Words in [art. 4(7)(a)](https://www.legislation.gov.uk/uksi/2016/716/article/4/7/a) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 68](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/68)
 
 [^f00008]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 37A was inserted by section 77 of the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37). Section 37A was amended by paragraph 86 of Schedule 11 to the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), and by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 
-[^key-a85d9b076f8244e9b8585be795edb058]: Commencement: Art. 5 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
+[^c-a85d9b076f8244e9b8585be795edb058]: Commencement: Art. 5 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
 
-[^key-bc787975219f51af30055a8d5e50e726]: Commencement: Art. 6 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
+[^c-bc787975219f51af30055a8d5e50e726]: Commencement: Art. 6 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
 
-[^key-e867465300b875987333d210650ff208]: Commencement: Art. 7 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
+[^c-e867465300b875987333d210650ff208]: Commencement: Art. 7 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
 
-[^key-8124438f94f9f3d9830aaebabad55aea]: Commencement: Art. 8 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
+[^c-8124438f94f9f3d9830aaebabad55aea]: Commencement: Art. 8 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
 
-[^key-8ba5a41c02c575f7e243079c2394d8d0]: Commencement: Art. 9 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
+[^c-8ba5a41c02c575f7e243079c2394d8d0]: Commencement: Art. 9 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
 
 [^f00009]: Footnote: The Closed Area byelaw is available on the Authority’s website at https://secure.toolkitfiles.co.uk/clients/17099/sitedata/Byelaw\_review/CIFCA-byelaws-A5-bookletv4april16.pdf.
 
 [^f00010]: Footnote: The Cornwall Inshore Fisheries and Conservation Authority Closed Areas (European Marine Sites) No. 2 Byelaw (Amendment) Order 2016 was made under sections 159(1)(b) and 316(1)(b) of the Marine and Coastal Access Act [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23) and is available on the Authority’s website at https://secure.toolkitfiles.co.uk/clients/17099/sitedata/Byelaw\_review/EMS-ammending-order.pdf.
 
-[^key-0eeab093b2e6f92f214cb7c853b92cb3]: Commencement: Art. 10 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
+[^c-0eeab093b2e6f92f214cb7c853b92cb3]: Commencement: Art. 10 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
 
-[^key-5e8905bf040b1f2b77d7f1fcfb4b6ee7]: Commencement: Art. 11 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
+[^c-5e8905bf040b1f2b77d7f1fcfb4b6ee7]: Commencement: Art. 11 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
 
-[^key-f103053b801a3b750abe9370769b69d3]: Commencement: Art. 12 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
+[^c-f103053b801a3b750abe9370769b69d3]: Commencement: Art. 12 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
 
-[^key-cc6cdb7a74e30a8b2320af1e82870ea2]: Commencement: Art. 13 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
+[^c-cc6cdb7a74e30a8b2320af1e82870ea2]: Commencement: Art. 13 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
 
-[^key-9bc359305fb0f99b9739dfb678d71035]: Commencement: Art. 14 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
+[^c-9bc359305fb0f99b9739dfb678d71035]: Commencement: Art. 14 in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
 
 [^f00011]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596).
 
-[^key-b37dbb77bdff6fe7dc28e73ed3793b91]: Commencement: Sch. in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)
+[^c-b37dbb77bdff6fe7dc28e73ed3793b91]: Commencement: Sch. in force at 31.7.2016, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/716/article/1/1/b)

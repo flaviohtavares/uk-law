@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In circumstances where NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] has arrangements (whether they were made under these Regulations or were made under or continued by virtue of the 2012 Regulations) with a dispensing doctor (D) to provide pharmaceutical services to a person (P), if—
+(1) In circumstances where NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] has arrangements (whether they were made under these Regulations or were made under or continued by virtue of the 2012 Regulations) with a dispensing doctor (D) to provide pharmaceutical services to a person (P), if—
 
 - (a) pharmaceutical services have been provided to P because of the circumstances described in Condition 1 in regulation 48(2), but NHS England determines that Condition 1 no longer applies in relation to P;
 - (b) the area in which P is resident was but ceases to be a controlled locality, and the provision of pharmaceutical services to P arose out of P's residence in a controlled locality;
@@ -60,7 +60,7 @@ D must terminate the provision of pharmaceutical services to P, subject to any p
 (7) NHS England must notify any decision under this regulation to terminate arrangements to provide pharmaceutical services, subject to any postponement of the discontinuation, to—
 
 - (a) D;
-- (b) if there is any postponement of the discontinuation, the NHS pharmacist listed in relation to any pharmacy premises, the presence of which, or the choice of a patient to obtain services at or[^key-5427bca4561480ebccac42d89ba222b3] from which, led to the determination of NHS England;
+- (b) if there is any postponement of the discontinuation, the NHS pharmacist listed in relation to any pharmacy premises, the presence of which, or the choice of a patient to obtain services at or[^c-5427bca4561480ebccac42d89ba222b3] from which, led to the determination of NHS England;
 - (c) any Local Pharmaceutical Committee whose area includes the listed dispensing premises at or from which D has been providing pharmaceutical services to P; and
 - (d) any Local Medical Committee whose area includes the listed dispensing premises at or from which D has been providing pharmaceutical services to P.
 
@@ -71,6 +71,6 @@ D must terminate the provision of pharmaceutical services to P, subject to any p
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-5427bca4561480ebccac42d89ba222b3]: Textual amendment: Words in [reg. 50(7)(b)](https://www.legislation.gov.uk/uksi/2013/349/regulation/50/7/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2025/989/regulation/31)
+[^c-5427bca4561480ebccac42d89ba222b3]: Textual amendment: Words in [reg. 50(7)(b)](https://www.legislation.gov.uk/uksi/2013/349/regulation/50/7/b) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2025/989/regulation/31)

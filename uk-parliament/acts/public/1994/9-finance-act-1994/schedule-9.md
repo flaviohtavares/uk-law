@@ -24,7 +24,7 @@ Section 81.
 
 ### The Taxes Act 1988
 
-**1.**[^key-a545d61eacc9cd0188df4b6d424bd446] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a545d61eacc9cd0188df4b6d424bd446] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.**[^c14460271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -46,7 +46,7 @@ Section 81.
 
 **8.**[^c14460381] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-31ff04544645ad0f774e7a29d1e148cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-31ff04544645ad0f774e7a29d1e148cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** (1) In subsection (2) of section 370 of the Taxes Act 1988 (conditions for interest to be treated as relevant loan interest)—
 
@@ -63,7 +63,7 @@ Section 81.
 
 ## Annotations
 
-[^key-a545d61eacc9cd0188df4b6d424bd446]: Textual amendment: Sch. 9 para. 1 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-a545d61eacc9cd0188df4b6d424bd446]: Textual amendment: Sch. 9 para. 1 repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
 [^c14460271]: Textual amendment: Sch. 9 para. 2 repealed (31.7.1997 with effect as mentioned in Note 3 to Sch. 8 Pt. II(9) of the repealing Act) by [1997 c. 58](https://www.legislation.gov.uk/ukpga/1997/58), [s. 52](https://www.legislation.gov.uk/ukpga/1997/58/section/52), [Sch. 8 Pt. II(9)](https://www.legislation.gov.uk/ukpga/1997/58/schedule/8/part/II/9) (with [s. 3(3)](https://www.legislation.gov.uk/ukpga/1997/58/section/3/3))
 
@@ -79,6 +79,6 @@ Section 81.
 
 [^c14460381]: Textual amendment: Sch. 9 para. 8 repealed (the repeal coming into force in accordance with s. 42(3)-(5) of the repealing Act) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 162](https://www.legislation.gov.uk/ukpga/1995/4/section/162), [Sch. 29 Pt. VIII(2)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/29/part/VIII/2), Note (with Sch. 8 paras. 55(2), 57(1))
 
-[^key-31ff04544645ad0f774e7a29d1e148cb]: Textual amendment: Sch. 9 para. 9 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-31ff04544645ad0f774e7a29d1e148cb]: Textual amendment: Sch. 9 para. 9 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c14460391]: Textual amendment: Sch. 9 para. 10(2) repealed (27.7.1999 with effect as mentioned in Note 4 to Sch. 20 Pt. III(7) of the repealing Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20 Pt. III(7)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/III/7)

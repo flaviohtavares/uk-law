@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 233. Evidence provided by the administrator[^key-ecdfbd19d75058efc4d2ad1543fec199]
+## 233. Evidence provided by the administrator[^c-ecdfbd19d75058efc4d2ad1543fec199]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecdfbd19d75058efc4d2ad1543fec199]: Commencement: [Rule 233](https://www.legislation.gov.uk/uksi/2011/1301/rule/233) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-ecdfbd19d75058efc4d2ad1543fec199]: Commencement: [Rule 233](https://www.legislation.gov.uk/uksi/2011/1301/rule/233) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

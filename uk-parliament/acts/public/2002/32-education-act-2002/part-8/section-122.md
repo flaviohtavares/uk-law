@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Power to prescribe pay and conditions of school teachers other than Academy teachers[^key-148e3024bcd7dbccbc529a741edc7ed7][^key-4f98c7a407e5a6896347f62e0ea6d92e][^key-4f98c7a407e5a6896347f62e0ea6d92e][^key-ca88f69223d8fdda5e1dec2f285e0193]
+## 122. Power to prescribe pay and conditions of school teachers other than Academy teachers[^c-148e3024bcd7dbccbc529a741edc7ed7][^c-4f98c7a407e5a6896347f62e0ea6d92e][^c-4f98c7a407e5a6896347f62e0ea6d92e][^c-ca88f69223d8fdda5e1dec2f285e0193]
 
 *Extent: E+W*
 
-(1)[^key-94ee9be56eed6edef5d97ea3196b3b07] The Secretary of State may by order make provision for the determination of—
+(1)[^c-94ee9be56eed6edef5d97ea3196b3b07] The Secretary of State may by order make provision for the determination of—
 
 - (a) the remuneration of school teachers;
 - (b) other conditions of employment of school teachers which relate to their professional duties or working time.
@@ -35,7 +35,7 @@ summary: ''
 
 - (a) he is a qualified teacher,
 - (b) he provides primary or secondary education under a contract of employment or for services,
-- (c) the other party to the contract is a local authority[^key-379c0a8ab791aad4cda0b42dbea5f020] or the governing body of a foundation, voluntary aided or foundation special school, and
+- (c) the other party to the contract is a local authority[^c-379c0a8ab791aad4cda0b42dbea5f020] or the governing body of a foundation, voluntary aided or foundation special school, and
 - (d)[^c396193] the contract requires him to carry out work of a kind which is specified by regulations under section 133(1).
 
 (4) A person is also a school teacher for the purposes of this section if he serves as the head teacher of a school maintained by a local authority.
@@ -60,14 +60,14 @@ summary: ''
 
 ## Annotations
 
-[^key-148e3024bcd7dbccbc529a741edc7ed7]: Commencement: S. 122 in force at 1.8.2003 by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 2](https://www.legislation.gov.uk/uksi/2003/1667/article/2)
+[^c-148e3024bcd7dbccbc529a741edc7ed7]: Commencement: S. 122 in force at 1.8.2003 by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 2](https://www.legislation.gov.uk/uksi/2003/1667/article/2)
 
-[^key-4f98c7a407e5a6896347f62e0ea6d92e]: Modification: Ss. 122-124: functions transferred (30.9.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/644/article/1/2), [39(3)](https://www.legislation.gov.uk/uksi/2018/644/article/39/3)
+[^c-4f98c7a407e5a6896347f62e0ea6d92e]: Modification: Ss. 122-124: functions transferred (30.9.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/644/article/1/2), [39(3)](https://www.legislation.gov.uk/uksi/2018/644/article/39/3)
 
-[^key-ca88f69223d8fdda5e1dec2f285e0193]: Textual amendment: Words in s. 122 heading inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [s. 78(2)(i)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/i), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/4)
+[^c-ca88f69223d8fdda5e1dec2f285e0193]: Textual amendment: Words in s. 122 heading inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [s. 78(2)(i)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/i), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/4)
 
-[^key-94ee9be56eed6edef5d97ea3196b3b07]: Modification: S. 122(1) excluded (3.9.2018) by [The School Teachers Incentive Payments (England) Order 2018 (S.I. 2018/933)](https://www.legislation.gov.uk/uksi/2018/933), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/933/article/1/1), [2](https://www.legislation.gov.uk/uksi/2018/933/article/2)
+[^c-94ee9be56eed6edef5d97ea3196b3b07]: Modification: S. 122(1) excluded (3.9.2018) by [The School Teachers Incentive Payments (England) Order 2018 (S.I. 2018/933)](https://www.legislation.gov.uk/uksi/2018/933), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/933/article/1/1), [2](https://www.legislation.gov.uk/uksi/2018/933/article/2)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
 
 [^c396193]: Modification: S. 122(3)(d) excluded (W.) (temp. from 19.12.2002) by [The Education Act 2002 (Transitional Provisions) (Wales) Regulations 2002 (S.I. 2002/3184)](https://www.legislation.gov.uk/uksi/2002/3184), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2002/3184/regulation/6/2)

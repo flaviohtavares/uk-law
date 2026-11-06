@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Directions under section 194[^key-f568311785cec7325a85f0df7459c939][^key-b5ee1553f9d94fa0340a7670e4f298b1]
+## 195. Directions under section 194[^c-f568311785cec7325a85f0df7459c939][^c-b5ee1553f9d94fa0340a7670e4f298b1]
 
 *Extent: E+W+S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f568311785cec7325a85f0df7459c939]: Commencement: S. 195 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-f568311785cec7325a85f0df7459c939]: Commencement: S. 195 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-b5ee1553f9d94fa0340a7670e4f298b1]: Commencement: [S. 195](https://www.legislation.gov.uk/ukpga/2023/52/section/195) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/vi)
+[^c-b5ee1553f9d94fa0340a7670e4f298b1]: Commencement: [S. 195](https://www.legislation.gov.uk/ukpga/2023/52/section/195) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/vi)

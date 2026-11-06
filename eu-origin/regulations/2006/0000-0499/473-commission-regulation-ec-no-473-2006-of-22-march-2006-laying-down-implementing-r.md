@@ -35,50 +35,50 @@ laying down implementing rules for the Community list of air carriers which are 
 
 (Text with EEA relevance) (revoked)
 
-[^key-0efe76650259b9ffa719c47c4603f435]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0efe76650259b9ffa719c47c4603f435]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-0efe76650259b9ffa719c47c4603f435]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Requests by Member States to update the Community list[^key-0efe76650259b9ffa719c47c4603f435]
+## Article 1. Subject matter[^c-0efe76650259b9ffa719c47c4603f435]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Joint consultation with the authorities with responsibility for regulatory oversight of the air carrier concerned[^key-0efe76650259b9ffa719c47c4603f435]
+## Article 2. Requests by Member States to update the Community list[^c-0efe76650259b9ffa719c47c4603f435]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Exercise of carriers’ right of defence[^key-0efe76650259b9ffa719c47c4603f435]
+## Article 3. Joint consultation with the authorities with responsibility for regulatory oversight of the air carrier concerned[^c-0efe76650259b9ffa719c47c4603f435]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Enforcement[^key-0efe76650259b9ffa719c47c4603f435]
+## Article 4. Exercise of carriers’ right of defence[^c-0efe76650259b9ffa719c47c4603f435]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Exceptional measures adopted by a Member State[^key-0efe76650259b9ffa719c47c4603f435]
+## Article 5. Enforcement[^c-0efe76650259b9ffa719c47c4603f435]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-0efe76650259b9ffa719c47c4603f435]
+## Article 6. Exceptional measures adopted by a Member State[^c-0efe76650259b9ffa719c47c4603f435]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0efe76650259b9ffa719c47c4603f435]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX A — Information to be provided by a Member State making a request under Article 4(2) of the basic regulation[^key-0efe76650259b9ffa719c47c4603f435]
+## Article 7. Entry into force[^c-0efe76650259b9ffa719c47c4603f435]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX B — Communication by a Member State of exceptional measures taken under article 6(1) of the basic Regulation to impose an operating ban in its territory[^key-0efe76650259b9ffa719c47c4603f435]
+[^c-0efe76650259b9ffa719c47c4603f435]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX A — Information to be provided by a Member State making a request under Article 4(2) of the basic regulation[^c-0efe76650259b9ffa719c47c4603f435]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX C — Communication by a Member State of exceptional measures taken as permitted by article 6(2) of the basic Regulation to maintain or impose an operating ban in its territory when the Commission has decided not to include similar measures in the Community list[^key-0efe76650259b9ffa719c47c4603f435]
+## ANNEX B — Communication by a Member State of exceptional measures taken under article 6(1) of the basic Regulation to impose an operating ban in its territory[^c-0efe76650259b9ffa719c47c4603f435]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX C — Communication by a Member State of exceptional measures taken as permitted by article 6(2) of the basic Regulation to maintain or impose an operating ban in its territory when the Commission has decided not to include similar measures in the Community list[^c-0efe76650259b9ffa719c47c4603f435]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0efe76650259b9ffa719c47c4603f435]: Textual amendment: Regulation revoked (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/645/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0efe76650259b9ffa719c47c4603f435]: Textual amendment: Regulation revoked (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/645/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

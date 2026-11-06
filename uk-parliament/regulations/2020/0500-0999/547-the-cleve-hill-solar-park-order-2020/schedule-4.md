@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY STOPPED UP[^key-e601ecf9be607c373d0902fe4ea1bb3a]
+## SCHEDULE 4 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY STOPPED UP[^c-e601ecf9be607c373d0902fe4ea1bb3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ Article 11
 
 ## Annotations
 
-[^key-e601ecf9be607c373d0902fe4ea1bb3a]: Commencement: Sch. 4 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-e601ecf9be607c373d0902fe4ea1bb3a]: Commencement: Sch. 4 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

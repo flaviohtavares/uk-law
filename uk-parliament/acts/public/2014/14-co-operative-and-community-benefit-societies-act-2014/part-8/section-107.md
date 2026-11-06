@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Section 106: examinations and special meetings[^key-4dbd523820a4154aa42f4e5cc4699604]
+## 107. Section 106: examinations and special meetings[^c-4dbd523820a4154aa42f4e5cc4699604]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4dbd523820a4154aa42f4e5cc4699604]: Modification: S. 107 applied by 1979 c. 34, s. 18(3) (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 9(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/9/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-4dbd523820a4154aa42f4e5cc4699604]: Modification: S. 107 applied by 1979 c. 34, s. 18(3) (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 9(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/9/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))

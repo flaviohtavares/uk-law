@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69Z34. Certificates of deduction of tax[^key-77530ac948c3e456bee6b92bfae47cb6][^key-228ceee17a63954421c7bcbab46e5182]
+## 69Z34. Certificates of deduction of tax[^c-77530ac948c3e456bee6b92bfae47cb6][^c-228ceee17a63954421c7bcbab46e5182]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ This is subject to paragraph (5).
 
 ## Annotations
 
-[^key-77530ac948c3e456bee6b92bfae47cb6]: Textual amendment: [Reg. 69Z34](https://www.legislation.gov.uk/uksi/2006/964/regulation/69Z34) substituted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [23](https://www.legislation.gov.uk/uksi/2009/2036/regulation/23)
+[^c-77530ac948c3e456bee6b92bfae47cb6]: Textual amendment: [Reg. 69Z34](https://www.legislation.gov.uk/uksi/2006/964/regulation/69Z34) substituted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [23](https://www.legislation.gov.uk/uksi/2009/2036/regulation/23)
 
-[^key-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
+[^c-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)

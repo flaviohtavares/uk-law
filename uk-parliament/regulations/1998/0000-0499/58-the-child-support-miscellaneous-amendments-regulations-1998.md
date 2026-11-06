@@ -45,7 +45,7 @@ Whereas a draft of this instrument was laid before Parliament in accordance with
 
 Now, therefore, the Secretary of State for Social Security, in exercise of the powers conferred by sections 12(2), 14(1) and (3), 16(1), 21, 28A(3), 28G(4), 29, 32(1), 42, 43(1), 51, 52(4) and 54[^f00002] of, and paragraphs 1, 4, 5, 6, 8, 11 and 14 of Schedule 1, paragraphs 2, 6 and 10 of Schedule 4A, and paragraphs 2, 3, 4, 5 and 6 of Schedule 4B to, the Child Support Act 1991 and of all other powers enabling her in that behalf, after consultation with the Council on Tribunals in accordance with section 8 of the Tribunals and Inquiries Act 1992[^f00003], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-c67744d6a3c9c8caa6b0eab90f1fb809]
+## 1. Citation, commencement and interpretation[^c-c67744d6a3c9c8caa6b0eab90f1fb809]
 
 (1) These Regulations may be cited as the Child Support (Miscellaneous Amendments) Regulations 1998.
 
@@ -64,14 +64,14 @@ Now, therefore, the Secretary of State for Social Security, in exercise of the p
 - “Maintenance Assessments and Special Cases Regulations” means the Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^f00009];
 - “second commencement day” means 6th April 1998.
 
-## 2. Amendment of regulation 1 of the Appeal Regulations[^key-3f88c3573039882017cfe7436734670a]
+## 2. Amendment of regulation 1 of the Appeal Regulations[^c-3f88c3573039882017cfe7436734670a]
 
 In paragraph (2) of regulation 1 of the Appeal Regulations (citation, commencement and interpretation)—
 
 - (a) the definition of “Central Office” shall be omitted;
 - (b) at the end of sub-paragraph (dd) in the definition of “party to the proceedings”, there shall be added the words “or to a referral”.
 
-## 3. Amendment of regulation 3 of the Appeal Regulations[^key-6765024225d3747b882d57ee39658730]
+## 3. Amendment of regulation 3 of the Appeal Regulations[^c-6765024225d3747b882d57ee39658730]
 
 (1) Regulation 3 of the Appeal Regulations (making an appeal or application and time limits) shall be amended in accordance with the following provisions of this regulation.
 
@@ -82,15 +82,15 @@ In paragraph (2) of regulation 1 of the Appeal Regulations (citation, commenceme
 - (a) for the words “paragraph (9)” there shall be substituted the words “paragraphs (9) or (10)”;
 - (b) for the words “in the Central Office” there shall be substituted the words “by the clerk to the tribunal”.
 
-## 4. Amendment of regulation 5 of the Appeal Regulations[^key-981402f1cb87495146378eb8d8388ab2]
+## 4. Amendment of regulation 5 of the Appeal Regulations[^c-981402f1cb87495146378eb8d8388ab2]
 
 In paragraph (1) of regulation 5 of the Appeal Regulations (directions), after the words “and may” there shall be inserted the words “,subject to paragraph (3),”.
 
-## 5. Amendment of regulation 11 of the Appeal Regulations[^key-b8cd11c3615be6fe4859f674f2a02bdc]
+## 5. Amendment of regulation 11 of the Appeal Regulations[^c-b8cd11c3615be6fe4859f674f2a02bdc]
 
 In paragraph (1) of regulation 11 of the Appeal Regulations (hearings), the word “application” wherever it appears shall be omitted.
 
-## 6. Amendment of regulation 12 of the Collection and Enforcement Regulations[^key-f3553aa101aaa83039260818b70e39f8]
+## 6. Amendment of regulation 12 of the Collection and Enforcement Regulations[^c-f3553aa101aaa83039260818b70e39f8]
 
 After paragraph (3) of regulation 12 of the Collection and Enforcement Regulations (amount to be deducted by employer) there shall be inserted the following paragraph—
 
@@ -98,7 +98,7 @@ After paragraph (3) of regulation 12 of the Collection and Enforcement Regulatio
 
 .
 
-## 7. Amendment of regulation 8 of the Departure Direction Regulations[^key-ce5f808dcb3527420a2cbcd537523487]
+## 7. Amendment of regulation 8 of the Departure Direction Regulations[^c-ce5f808dcb3527420a2cbcd537523487]
 
 (1) Regulation 8 of the Departure Direction Regulations (procedure in relation to the determination of an application) shall be amended in accordance with the following provisions of this regulation.
 
@@ -110,7 +110,7 @@ After paragraph (3) of regulation 12 of the Collection and Enforcement Regulatio
 
 .
 
-## 8. Substitution of regulation 9 of the Departure Direction Regulations[^key-abaf201e7e084e14ef8ffe31335b481f]
+## 8. Substitution of regulation 9 of the Departure Direction Regulations[^c-abaf201e7e084e14ef8ffe31335b481f]
 
 For regulation 9 of the Departure Direction Regulations (departure directions and persons in receipt of income support or income-based jobseeker’s allowance) there shall be substituted the following regulation—
 
@@ -135,11 +135,11 @@ For regulation 9 of the Departure Direction Regulations (departure directions an
 
 .
 
-## 9. Amendment of regulation 11 of the Departure Direction Regulations[^key-fe32826328c56f7fc233b71d890eacd4]
+## 9. Amendment of regulation 11 of the Departure Direction Regulations[^c-fe32826328c56f7fc233b71d890eacd4]
 
 In regulation 11 of the Departure Direction Regulations (departure application and review under section 17 of the Act), for the words “of the Act is” there shall be substituted the words “of the Act would be”.
 
-## 10. Insertion of regulation 11A into the Departure Direction Regulations[^key-5b70fe5f26e3dfc0749fc2c8deb3f81b]
+## 10. Insertion of regulation 11A into the Departure Direction Regulations[^c-5b70fe5f26e3dfc0749fc2c8deb3f81b]
 
 After regulation 11 of the Departure Direction Regulations (departure application and review under section 17 of the Act) there shall be inserted the following regulation—
 
@@ -157,7 +157,7 @@ After regulation 11 of the Departure Direction Regulations (departure applicatio
 
 .
 
-## 11. Amendment of regulation 15 of the Departure Direction Regulations[^key-bc6bff856327d8e978120f27a5487d8a]
+## 11. Amendment of regulation 15 of the Departure Direction Regulations[^c-bc6bff856327d8e978120f27a5487d8a]
 
 (1) Regulation 15 of the Departure Direction Regulations (illness or disability) shall be amended in accordance with the following provisions of this regulation.
 
@@ -169,7 +169,7 @@ After regulation 11 of the Departure Direction Regulations (departure applicatio
 
 .
 
-## 12. Amendment of regulation 17 of the Departure Direction Regulations[^key-4058c12b555aee8c11ad7797680c5f74]
+## 12. Amendment of regulation 17 of the Departure Direction Regulations[^c-4058c12b555aee8c11ad7797680c5f74]
 
 (1) Regulation 17 of the Departure Direction Regulations (pre-1993 financial commitments) shall be amended in accordance with the following provisions of this regulation.
 
@@ -184,7 +184,7 @@ After regulation 11 of the Departure Direction Regulations (departure applicatio
 
 (3) Paragraph (2) shall be omitted.
 
-## 13. Amendment of regulation 18 of the Departure Direction Regulations[^key-8e57705c72f43e5da74503660bc21905]
+## 13. Amendment of regulation 18 of the Departure Direction Regulations[^c-8e57705c72f43e5da74503660bc21905]
 
 (1) Regulation 18 of the Departure Direction Regulations (costs incurred in supporting certain children) shall be amended in accordance with the following provisions of this regulation.
 
@@ -252,7 +252,7 @@ After regulation 11 of the Departure Direction Regulations (departure applicatio
 
 .
 
-## 14. Further amendment of regulation 18 of the Departure Direction Regulations[^key-b3fbea1b2a059cff137b1171837175c5]
+## 14. Further amendment of regulation 18 of the Departure Direction Regulations[^c-b3fbea1b2a059cff137b1171837175c5]
 
 For sub-paragraph (c) of paragraph (4) of regulation 18 of the Departure Direction Regulations, there shall be substituted the following sub-paragraph—
 
@@ -260,15 +260,15 @@ For sub-paragraph (c) of paragraph (4) of regulation 18 of the Departure Directi
 
 .
 
-## 15. Amendment of regulation 22 of the Departure Direction Regulations[^key-4682b858a9b64d5c95b47e7d75dd4421]
+## 15. Amendment of regulation 22 of the Departure Direction Regulations[^c-4682b858a9b64d5c95b47e7d75dd4421]
 
 In paragraph (1) of regulation 22 of the Departure Direction Regulations (value of a transfer of property and its equivalent weekly value for a case falling within paragraph 3 of Schedule 4B to the Act), after the words “in lieu of” there shall be inserted the words “periodical payments of”.
 
-## 16. Amendment of regulation 23 of the Departure Direction Regulations[^key-4c4bcd0b15bbe06937507877e3b2c9c1]
+## 16. Amendment of regulation 23 of the Departure Direction Regulations[^c-4c4bcd0b15bbe06937507877e3b2c9c1]
 
 Paragraph (3) of regulation 23 of the Departure Direction Regulations (assets capable of producing income or higher income) shall be omitted.
 
-## 17. Amendment of regulation 25 of the Departure Direction Regulations[^key-c4d45a843c4540c2de41c3dcb751b772]
+## 17. Amendment of regulation 25 of the Departure Direction Regulations[^c-c4d45a843c4540c2de41c3dcb751b772]
 
 (1) Regulation 25 of the Departure Direction Regulations (life-style inconsistent with declared income) shall be amended in accordance with the following provisions of this regulation.
 
@@ -285,7 +285,7 @@ Paragraph (3) of regulation 23 of the Departure Direction Regulations (assets ca
 
 (4) In paragraph (3), for “(2)(b)(ii)” there shall be substituted “(2)(b)”.
 
-## 18. Amendment of regulation 32 of the Departure Direction Regulations[^key-cb69974327a0eeb463fdad1fec9ad3c6]
+## 18. Amendment of regulation 32 of the Departure Direction Regulations[^c-cb69974327a0eeb463fdad1fec9ad3c6]
 
 (1) Regulation 32 of the Departure Direction Regulations (effective date of a departure direction) shall be amended in accordance with the following provisions of this regulation.
 
@@ -300,7 +300,7 @@ Paragraph (3) of regulation 23 of the Departure Direction Regulations (assets ca
 
 .
 
-## 19. Insertion of regulation 34A into the Departure Direction Regulations[^key-e168b2cbc19af689a05f4b2f60024374]
+## 19. Insertion of regulation 34A into the Departure Direction Regulations[^c-e168b2cbc19af689a05f4b2f60024374]
 
 After regulation 34 of the Departure Direction Regulations (cancellation of a departure direction on recognition of an error), there shall be inserted the following regulation—
 
@@ -316,7 +316,7 @@ After regulation 34 of the Departure Direction Regulations (cancellation of a de
 
 .
 
-## 20. Amendment of regulation 37 of the Departure Direction Regulations[^key-db5c219c5f8504bcf0beb4d9645bb197]
+## 20. Amendment of regulation 37 of the Departure Direction Regulations[^c-db5c219c5f8504bcf0beb4d9645bb197]
 
 (1) Regulation 37 of the Departure Direction Regulations (effect of a departure direction in respect of special expenses—exempt income), shall be amended in accordance with the following provisions of this regulation.
 
@@ -324,7 +324,7 @@ After regulation 34 of the Departure Direction Regulations (cancellation of a de
 
 (3) In paragraph (4), for the words “repayment of” there shall be substituted the words “the whole or part of the amount required to repay”.
 
-## 21. Amendment of regulation 39 of the Departure Direction Regulations[^key-38949581758a497ca578f48bb197a482]
+## 21. Amendment of regulation 39 of the Departure Direction Regulations[^c-38949581758a497ca578f48bb197a482]
 
 For sub-paragraph (b) of paragraph (1) of regulation 39 of the Departure Direction Regulations (effect of a departure direction in respect of a transfer of property), there shall be substituted the following sub-paragraph—
 
@@ -334,11 +334,11 @@ For sub-paragraph (b) of paragraph (1) of regulation 39 of the Departure Directi
 
 .
 
-## 22. Amendment of regulation 40 of the Departure Direction Regulations[^key-7db83e6f15ec411316a9a7b61ad3f3bd]
+## 22. Amendment of regulation 40 of the Departure Direction Regulations[^c-7db83e6f15ec411316a9a7b61ad3f3bd]
 
 In paragraphs (2) to (5) of regulation 40 of the Departure Direction Regulations (effect of a departure direction in respect of additional cases), after the words “shall be increased by” wherever they occur, there shall be inserted the words “the amount specified in that departure direction, being the whole or part of”.
 
-## 23. Amendment of regulation 41 of the Departure Direction Regulations[^key-f449227c9fe678b3bb555bb45fa7a5da]
+## 23. Amendment of regulation 41 of the Departure Direction Regulations[^c-f449227c9fe678b3bb555bb45fa7a5da]
 
 (1) Regulation 41 of the Departure Direction Regulations (child support maintenance payable where effect of a departure direction would be to decrease an absent parent’s assessable income) shall be amended in accordance with the following provisions of this regulation.
 
@@ -366,7 +366,7 @@ In paragraphs (2) to (5) of regulation 40 of the Departure Direction Regulations
 
 (6) In paragraph (8), for the words “paragraphs (1) to (7)” there shall be substituted the words “paragraphs (1) to (6)”.
 
-## 24. Amendment of regulation 42 of the Departure Direction Regulations[^key-4a7a24067d58bca2cb1c68838d1e30f5]
+## 24. Amendment of regulation 42 of the Departure Direction Regulations[^c-4a7a24067d58bca2cb1c68838d1e30f5]
 
 (1) Regulation 42 of the Departure Direction Regulations (application of regulation 41 where there is a transfer of property falling within paragraph 3 of Schedule 4B to the Act) shall be amended in accordance with the following provisions of this regulation.
 
@@ -389,7 +389,7 @@ In paragraphs (2) to (5) of regulation 40 of the Departure Direction Regulations
 
 (4) In paragraph (4), after the words “following that direction shall be” there shall be inserted the words “determined by the child support officer as being”.
 
-## 25. Insertion of regulation 42A into the Departure Direction Regulations[^key-931177dd45df2d778ad9328f7136bf2b]
+## 25. Insertion of regulation 42A into the Departure Direction Regulations[^c-931177dd45df2d778ad9328f7136bf2b]
 
 After regulation 42 of the Departure Direction Regulations there shall be inserted the following regulation—
 
@@ -422,7 +422,7 @@ After regulation 42 of the Departure Direction Regulations there shall be insert
 
 .
 
-## 26. Amendment of regulation 43 of the Departure Direction Regulations[^key-9d94228ad7fac70f702be0be450c6709]
+## 26. Amendment of regulation 43 of the Departure Direction Regulations[^c-9d94228ad7fac70f702be0be450c6709]
 
 In paragraph (2) of regulation 43 of the Departure Direction Regulations (maintenance assessment following a departure direction for certain cases falling within regulation 22 of the Maintenance Assessments and Special Cases Regulations)—
 
@@ -433,15 +433,15 @@ In paragraph (2) of regulation 43 of the Departure Direction Regulations (mainte
 
   .
 
-## 27. Amendment of regulation 44 of the Departure Direction Regulations[^key-bb68626323e7ba08afb7d5138d8d892b]
+## 27. Amendment of regulation 44 of the Departure Direction Regulations[^c-bb68626323e7ba08afb7d5138d8d892b]
 
 In paragraph (5) of regulation 44 of the Departure Direction Regulations (maintenance assessment following a departure direction where there is a phased maintenance assessment), for the words “paragraphs (1) to (3)” there shall be substituted the words “paragraphs (1) and (3)”.
 
-## 28. Amendment of regulation 46 of the Departure Direction Regulations[^key-27ef0c82090e18b88a07275521bb5cc0]
+## 28. Amendment of regulation 46 of the Departure Direction Regulations[^c-27ef0c82090e18b88a07275521bb5cc0]
 
 At the end of sub-paragraph (b) of regulation 46 of the Departure Direction Regulations (special case—departure direction having effect from the date earlier than effective date of current assessment), there shall be added the words “or, where regulation 11A (meaning of “current assessment” for the purposes of the Act) applies, in respect of the fresh maintenance assessment referred to in that regulation”.
 
-## 29. Insertion of regulation 46A into the Departure Direction Regulations[^key-5c51374007d606198944408548c7ec30]
+## 29. Insertion of regulation 46A into the Departure Direction Regulations[^c-5c51374007d606198944408548c7ec30]
 
 After regulation 46 of the Departure Direction Regulations there shall be inserted the following regulation—
 
@@ -455,11 +455,11 @@ After regulation 46 of the Departure Direction Regulations there shall be insert
 
 .
 
-## 30. Amendment of regulation 68 of the Departure Direction Regulations[^key-979b91dde18634b040f6bf729cd089a2]
+## 30. Amendment of regulation 68 of the Departure Direction Regulations[^c-979b91dde18634b040f6bf729cd089a2]
 
 Paragraph (2) of regulation 68 of the Departure Direction Regulations (amendment of the Maintenance Assessments and Special Cases Regulations) is hereby revoked.
 
-## 31. Amendment of the Schedule to the Departure Direction Regulations[^key-02772f59b7d57c2edf9f8bada32af5ed]
+## 31. Amendment of the Schedule to the Departure Direction Regulations[^c-02772f59b7d57c2edf9f8bada32af5ed]
 
 (1) The Schedule to the Departure Direction Regulations (equivalent weekly value of a transfer of property) shall be amended in accordance with the following provisions of this regulation.
 
@@ -518,14 +518,14 @@ Paragraph (2) of regulation 68 of the Departure Direction Regulations (amendment
 
 (4) Paragraph 5 shall be omitted.
 
-## 32. Amendment of regulation 3 of the Information, Evidence and Disclosure Regulations[^key-2ae6ad7d0efcde9abdb078b7636d778f]
+## 32. Amendment of regulation 3 of the Information, Evidence and Disclosure Regulations[^c-2ae6ad7d0efcde9abdb078b7636d778f]
 
 In paragraph (2) of regulation 3 of the Information, Evidence and Disclosure Regulations (purposes for which information or evidence may be required)—
 
 - (a) in sub-paragraph (d), for the word “or” there shall be substituted the word “and”;
 - (b) in sub-paragraph (p), for the words “assessable or disposable income” there shall be substituted the words “any application made under the Act or any question arising in connection with such an application”.
 
-## 33. Amendment of regulation 8 of the Information, Evidence and Disclosure Regulations[^key-f6b5e9ed89536ff655e9951443ceecbf]
+## 33. Amendment of regulation 8 of the Information, Evidence and Disclosure Regulations[^c-f6b5e9ed89536ff655e9951443ceecbf]
 
 (1) Regulation 8 of the Information, Evidence and Disclosure Regulations (disclosure of information to a court or tribunal) shall be amended in accordance with the following provisions of this regulation.
 
@@ -540,11 +540,11 @@ In paragraph (2) of regulation 3 of the Information, Evidence and Disclosure Reg
 
 .
 
-## 34. Amendment of regulation 9A of the Information, Evidence and Disclosure Regulations[^key-d54ad4d3d4a5290dc326b12ac5b6fa40]
+## 34. Amendment of regulation 9A of the Information, Evidence and Disclosure Regulations[^c-d54ad4d3d4a5290dc326b12ac5b6fa40]
 
 In sub-paragraph (c)(ii) of paragraph (2) of regulation 9A of the Information, Evidence and Disclosure Regulations (disclosure of information to other persons), for the words “with that application on behalf of that person” there shall be substituted the words “on behalf of that person with any matters arising in connection with the determination of that application”.
 
-## 35. Amendment of regulation 8A of the Maintenance Assessment Procedure Regulations[^key-b857e899102fa99803025d442f45cbc0]
+## 35. Amendment of regulation 8A of the Maintenance Assessment Procedure Regulations[^c-b857e899102fa99803025d442f45cbc0]
 
 For paragraph (4) of regulation 8A of the Maintenance Assessment Procedure Regulations (amount of an interim maintenance assessment) there shall be substituted the following paragraph—
 
@@ -552,7 +552,7 @@ For paragraph (4) of regulation 8A of the Maintenance Assessment Procedure Regul
 
 .
 
-## 36. Amendment of regulation 8D of the Maintenance Assessment Procedure Regulations[^key-5aa7a74fce1b5217ebb2e6ee7dc8984c]
+## 36. Amendment of regulation 8D of the Maintenance Assessment Procedure Regulations[^c-5aa7a74fce1b5217ebb2e6ee7dc8984c]
 
 After paragraph (1) of regulation 8D of the Maintenance Assessment Procedure Regulations (miscellaneous provisions in relation to interim maintenance assessments) there shall be inserted the following paragraph—
 
@@ -560,11 +560,11 @@ After paragraph (1) of regulation 8D of the Maintenance Assessment Procedure Reg
 
 .
 
-## 37. Amendment of regulation 9 of the Maintenance Assessment Procedure Regulations[^key-699d855a237809c87c9669880e4dd33e]
+## 37. Amendment of regulation 9 of the Maintenance Assessment Procedure Regulations[^c-699d855a237809c87c9669880e4dd33e]
 
 In paragraph (14) of regulation 9 of the Maintenance Assessment Procedure Regulations (cancellation of an interim maintenance assessment), for the words “on which the cancelled interim maintenance assessment ceased to have effect” there shall be substituted the words “set by the child support officer under paragraph (12) on which the cancellation referred to in that paragraph took effect”.
 
-## 38. Insertion of regulation 10A into the Maintenance Assessment Procedure Regulations[^key-910401d947242f2021b147b203512c61]
+## 38. Insertion of regulation 10A into the Maintenance Assessment Procedure Regulations[^c-910401d947242f2021b147b203512c61]
 
 After regulation 10 of the Maintenance Assessment Procedure Regulations (notification of a new or a fresh maintenance assessment), there shall be inserted the following regulation—
 
@@ -585,11 +585,11 @@ After regulation 10 of the Maintenance Assessment Procedure Regulations (notific
 
 .
 
-## 39. Amendment of regulation 17 of the Maintenance Assessment Procedure Regulations[^key-608d3e5fde5a2d16fe0dedea699f19e3][^key-ebc557595e4ce58e058d9d5fc67e6add]
+## 39. Amendment of regulation 17 of the Maintenance Assessment Procedure Regulations[^c-608d3e5fde5a2d16fe0dedea699f19e3][^c-ebc557595e4ce58e058d9d5fc67e6add]
 
-(1)[^key-608d3e5fde5a2d16fe0dedea699f19e3] Regulation 17 of the Maintenance Assessment Procedure Regulations (intervals between periodical reviews and notice of a periodical review) shall be amended in accordance with the following provisions of this regulation.
+(1)[^c-608d3e5fde5a2d16fe0dedea699f19e3] Regulation 17 of the Maintenance Assessment Procedure Regulations (intervals between periodical reviews and notice of a periodical review) shall be amended in accordance with the following provisions of this regulation.
 
-(2)[^key-608d3e5fde5a2d16fe0dedea699f19e3] In paragraph (2), for the words “the period between the effective date of the assessment that has been reviewed” to the end there shall be substituted the words
+(2)[^c-608d3e5fde5a2d16fe0dedea699f19e3] In paragraph (2), for the words “the period between the effective date of the assessment that has been reviewed” to the end there shall be substituted the words
 
 > - the period between the effective date of the fresh assessment following the latest review carried out under sub-paragraph (a) or (b) and whichever is the later of—
 >   - (aa) the effective date of the assessment falling within sub-paragraph (a) of paragraph (1); or
@@ -597,7 +597,7 @@ After regulation 10 of the Maintenance Assessment Procedure Regulations (notific
 
 .
 
-(3)[^key-ebc557595e4ce58e058d9d5fc67e6add] For paragraph (6), there shall be substituted the following paragraph—
+(3)[^c-ebc557595e4ce58e058d9d5fc67e6add] For paragraph (6), there shall be substituted the following paragraph—
 
 > (6) The provisions of paragraph (5) shall not apply in relation to—
 >
@@ -608,11 +608,11 @@ After regulation 10 of the Maintenance Assessment Procedure Regulations (notific
 
 .
 
-## 40. Amendment of regulation 30A of the Maintenance Assessment Procedure Regulations[^key-5d8f7a31e899defd551bfabe6f22cc4d]
+## 40. Amendment of regulation 30A of the Maintenance Assessment Procedure Regulations[^c-5d8f7a31e899defd551bfabe6f22cc4d]
 
 In paragraph (3) of regulation 30A of the Maintenance Assessment Procedure Regulations (effective dates of new maintenance assessments in particular cases), for the words “child support officer” there shall be substituted the words “Secretary of State”.
 
-## 41. Amendment of paragraph 6 of Schedule 2 to the Maintenance Assessment Procedure Regulations[^key-52154a917fcaec818a99e4f3d2456191]
+## 41. Amendment of paragraph 6 of Schedule 2 to the Maintenance Assessment Procedure Regulations[^c-52154a917fcaec818a99e4f3d2456191]
 
 (1) Paragraph 6 of Schedule 2 to the Maintenance Assessment Procedure Regulations (maintenance assessment in force: subsequent application for a maintenance assessment in respect of additional children) shall be amended in accordance with the following provisions of this regulation.
 
@@ -630,7 +630,7 @@ In paragraph (3) of regulation 30A of the Maintenance Assessment Procedure Regul
 - (a) after the words “and the person with care” there shall be inserted the words “or the absent parent”;
 - (b) for the words “children of the absent parent who are in her care”, wherever they occur, there shall be substituted the words “children of that absent parent who are in the care of that person with care”.
 
-## 42. Amendment of regulation 1 of the Maintenance Assessments and Special Cases Regulations[^key-4ed5566be79c65c18b163cef13aeec16]
+## 42. Amendment of regulation 1 of the Maintenance Assessments and Special Cases Regulations[^c-4ed5566be79c65c18b163cef13aeec16]
 
 (1) Regulation 1 of the Maintenance Assessments and Special Cases Regulations (citation, commencement and interpretation) shall be amended in accordance with the following provisions of this regulation.
 
@@ -652,11 +652,11 @@ In paragraph (3) of regulation 30A of the Maintenance Assessment Procedure Regul
 
 (3) At the end of sub-paragraph (a) of paragraph (2A) there shall be added the words “and the amount of income to which each tax rate applies shall be determined on the basis that the ratio of that amount to the full amount of the income to which each tax rate applies is the same as the ratio of the proportionate part of that personal relief to the full personal relief”.
 
-## 43. Amendment of regulation 2 of the Maintenance Assessments and Special Cases Regulations[^key-fb22006f3b7bdbcc25149fe3b9d37a89]
+## 43. Amendment of regulation 2 of the Maintenance Assessments and Special Cases Regulations[^c-fb22006f3b7bdbcc25149fe3b9d37a89]
 
 In paragraph (1) of regulation 2 of the Maintenance Assessments and Special Cases Regulations (calculation or estimation of amounts), for the words “falls to be taken into account for the purposes of these Regulations” there shall be substituted the words “is to be considered in connection with any calculation made under these Regulations”.
 
-## 44. Amendment of regulation 3 of the Maintenance Assessments and Special Cases Regulations[^key-dc5e75e96ee4d5a2ef89731b9e3cf26a]
+## 44. Amendment of regulation 3 of the Maintenance Assessments and Special Cases Regulations[^c-dc5e75e96ee4d5a2ef89731b9e3cf26a]
 
 For sub-paragraph (c) of paragraph (1) of regulation 3 of the Maintenance Assessments and Special Cases Regulations (calculation of AG) there shall be substituted the following sub-paragraph—
 
@@ -664,11 +664,11 @@ For sub-paragraph (c) of paragraph (1) of regulation 3 of the Maintenance Assess
 
 .
 
-## 45. Amendment of regulation 6 of the Maintenance Assessments and Special Cases Regulations[^key-f708224a6092f9123a83faab93e5d330]
+## 45. Amendment of regulation 6 of the Maintenance Assessments and Special Cases Regulations[^c-f708224a6092f9123a83faab93e5d330]
 
 In paragraph (2)(b) of regulation 6 of the Maintenance Assessments and Special Cases Regulations (the additional element), for “3(1)(c)(i)” there shall be substituted “3(1)(c)”.
 
-## 46. Amendment of Regulation 9 of the Maintenance Assessments and Special Cases Regulations[^key-4ba5c39764e81ab70a82da2d849c3b69]
+## 46. Amendment of Regulation 9 of the Maintenance Assessments and Special Cases Regulations[^c-4ba5c39764e81ab70a82da2d849c3b69]
 
 (1) Regulation 9 of the Maintenance Assessments and Special Cases Regulations (exempt income: calculation or estimation of E) shall be amended in accordance with the following provisions of this regulation.
 
@@ -680,7 +680,7 @@ In paragraph (2)(b) of regulation 6 of the Maintenance Assessments and Special C
 
 (3) In paragraph (1)(f), for the words “but he is not a lone parent as defined in regulation 2(1) of the Income Support Regulations” there shall be substituted the words “but he is not a parent to whom sub-paragraph (c) applies”.
 
-## 47. Further amendment of regulation 9 of the Maintenance Assessments and Special Cases Regulations[^key-7bcdd45bad46b561e75ba98e28ea6b80]
+## 47. Further amendment of regulation 9 of the Maintenance Assessments and Special Cases Regulations[^c-7bcdd45bad46b561e75ba98e28ea6b80]
 
 (1) Regulation 9 of the Maintenance Assessments and Special Cases Regulations shall be further amended in accordance with the following provisions of this regulation.
 
@@ -691,7 +691,7 @@ In paragraph (2)(b) of regulation 6 of the Maintenance Assessments and Special C
 
 (3) In paragraph (2)(c)(iv) after “paragraph 3” there shall be inserted “(1)”.
 
-## 48. Amendment of regulation 11 of the Maintenance Assessments and Special Cases Regulations[^key-ae20718865d2236d15e96136a892640e]
+## 48. Amendment of regulation 11 of the Maintenance Assessments and Special Cases Regulations[^c-ae20718865d2236d15e96136a892640e]
 
 In paragraph (1) of regulation 11 of the Maintenance Assessments and Special Cases Regulations (protected income)—
 
@@ -702,7 +702,7 @@ In paragraph (1) of regulation 11 of the Maintenance Assessments and Special Cas
   ;
 - (b) in sub-paragraph (f), for the words “but he is not a lone parent as defined in regulation 2(1) of the Income Support Regulations” there shall be substituted the words “but he is not a parent to whom sub-paragraph (c) applies”.
 
-## 49. Further amendment of regulation 11 of the Maintenance Assessments and Special Cases Regulations[^key-f004078e1d4f5662feb1e9cf278927e3]
+## 49. Further amendment of regulation 11 of the Maintenance Assessments and Special Cases Regulations[^c-f004078e1d4f5662feb1e9cf278927e3]
 
 (1) Regulation 11 of the Maintenance Assessments and Special Cases Regulations shall be further amended in accordance with the following provisions of this regulation.
 
@@ -713,7 +713,7 @@ In paragraph (1) of regulation 11 of the Maintenance Assessments and Special Cas
 
 (3) In paragraph (3), for the words “sub-paragraphs (c) or (f)” there shall be substituted the words “sub-paragraph (f)”.
 
-## 50. Amendment of regulation 15 of the Maintenance Assessments and Special Cases Regulations[^key-2e8d0add30bd7826dd2525059eee394e]
+## 50. Amendment of regulation 15 of the Maintenance Assessments and Special Cases Regulations[^c-2e8d0add30bd7826dd2525059eee394e]
 
 At the end of paragraph (3) of regulation 15 of the Maintenance Assessments and Special Cases Regulations (amount of housing costs) there shall be added—
 
@@ -721,18 +721,18 @@ At the end of paragraph (3) of regulation 15 of the Maintenance Assessments and 
 
 .
 
-## 51. Amendment of regulation 16 of the Maintenance Assessments and Special Cases Regulations[^key-85ac5c2384048b55fc649425233f2707]
+## 51. Amendment of regulation 16 of the Maintenance Assessments and Special Cases Regulations[^c-85ac5c2384048b55fc649425233f2707]
 
 In paragraph (1) of regulation 16 of the Maintenance Assessments and Special Cases Regulations (weekly amount of housing costs)—
 
 - (a) for the words “Where a parent pays housing costs” there shall be substituted the words “Where housing costs are payable by a parent”;
 - (b) in sub-paragraph (c), for the words “the amount which he pays” there shall be substituted the words “the amount payable”.
 
-## 52. Amendment of regulation 19 of the Maintenance Assessments and Special Cases Regulations[^key-5eddcb7d2a1c4b4ac1fc11acc60d4d93]
+## 52. Amendment of regulation 19 of the Maintenance Assessments and Special Cases Regulations[^c-5eddcb7d2a1c4b4ac1fc11acc60d4d93]
 
 Paragraph (2)(c) of regulation 19 of the Maintenance Assessments and Special Cases Regulations (both parents are absent) shall be omitted.
 
-## 53. Amendment of regulation 22 of the Maintenance Assessments and Special Cases Regulations[^key-617903a673c9dca602c6ab8d0152046d]
+## 53. Amendment of regulation 22 of the Maintenance Assessments and Special Cases Regulations[^c-617903a673c9dca602c6ab8d0152046d]
 
 After paragraph (2A) of regulation 22 of the Maintenance Assessments and Special Cases Regulations (multiple applications relating to an absent parent) there shall be inserted the following paragraphs—
 
@@ -748,19 +748,19 @@ After paragraph (2A) of regulation 22 of the Maintenance Assessments and Special
 
 .
 
-## 54. Amendment of regulation 26 of the Maintenance Assessments and Special Cases Regulations[^key-4097e6061a7b69f11f9967f3bc94678f]
+## 54. Amendment of regulation 26 of the Maintenance Assessments and Special Cases Regulations[^c-4097e6061a7b69f11f9967f3bc94678f]
 
 In head (ii) of sub-paragraph (b) of paragraph (1) of regulation 26 of the Maintenance Assessments and Special Cases Regulations (cases where child support maintenance is not to be payable), for “11(1)(c) or (f)” there shall be substituted “11(1)(f)”.
 
-## 55. Amendment of regulation 28 of the Maintenance Assessments and Special Cases Regulations[^key-16ba6679cfcc06f256eaf83caf2b2225]
+## 55. Amendment of regulation 28 of the Maintenance Assessments and Special Cases Regulations[^c-16ba6679cfcc06f256eaf83caf2b2225]
 
 In sub-paragraph (b) of paragraph (1) of regulation 28 of the Maintenance Assessments and Special Cases Regulations (amount payable where absent parent is in receipt of income support or other prescribed benefit), for “3(a) or (b)” there shall be substituted “3(1)(a) or (b)”.
 
-## 56. Amendment of Schedule 1 to the Maintenance Assessments and Special Cases Regulations[^key-bc3626e5db6a305882de9aa1e5670454][^key-b65d5f02633fe362f3389a6efdc1e22d]
+## 56. Amendment of Schedule 1 to the Maintenance Assessments and Special Cases Regulations[^c-bc3626e5db6a305882de9aa1e5670454][^c-b65d5f02633fe362f3389a6efdc1e22d]
 
-(1)[^key-bc3626e5db6a305882de9aa1e5670454] Schedule 1 to the Maintenance Assessments and Special Cases Regulations (calculation of N and M) shall be amended in accordance with the following provisions of this regulation.
+(1)[^c-bc3626e5db6a305882de9aa1e5670454] Schedule 1 to the Maintenance Assessments and Special Cases Regulations (calculation of N and M) shall be amended in accordance with the following provisions of this regulation.
 
-(2)[^key-bc3626e5db6a305882de9aa1e5670454] In paragraph 1(2)—
+(2)[^c-bc3626e5db6a305882de9aa1e5670454] In paragraph 1(2)—
 
 - (a) at the end of head (a) there shall be added—
 
@@ -773,7 +773,7 @@ In sub-paragraph (b) of paragraph (1) of regulation 28 of the Maintenance Assess
 
   .
 
-(3)[^key-bc3626e5db6a305882de9aa1e5670454] In paragraph 3(5)—
+(3)[^c-bc3626e5db6a305882de9aa1e5670454] In paragraph 3(5)—
 
 - (a) at the beginning of head (b) there shall be inserted the words “subject to head (bb),”;
 - (b) after head (b) there shall be inserted the following head—
@@ -782,7 +782,7 @@ In sub-paragraph (b) of paragraph (1) of regulation 28 of the Maintenance Assess
 
   .
 
-(4)[^key-bc3626e5db6a305882de9aa1e5670454] In paragraph 15, for the words “except payments or other amounts which are excluded from the definition of “earnings” by virtue of paragraph 1(2)” there shall be substituted the words
+(4)[^c-bc3626e5db6a305882de9aa1e5670454] In paragraph 15, for the words “except payments or other amounts which are excluded from the definition of “earnings” by virtue of paragraph 1(2)” there shall be substituted the words
 
 > - except payments or other amounts which—
 >   - (a) are excluded from the definition of “earnings” by virtue of paragraph 1(2);
@@ -791,15 +791,15 @@ In sub-paragraph (b) of paragraph (1) of regulation 28 of the Maintenance Assess
 
 .
 
-(5)[^key-b65d5f02633fe362f3389a6efdc1e22d] In paragraph 20(b), for “3(1)(c)(i)” there shall be substituted “3(1)(c)”.
+(5)[^c-b65d5f02633fe362f3389a6efdc1e22d] In paragraph 20(b), for “3(1)(c)(i)” there shall be substituted “3(1)(c)”.
 
-(6)[^key-bc3626e5db6a305882de9aa1e5670454] In paragraph 23(b), for the words “in respect of” there shall be substituted the word “to”.
+(6)[^c-bc3626e5db6a305882de9aa1e5670454] In paragraph 23(b), for the words “in respect of” there shall be substituted the word “to”.
 
-## 57. Amendment of Schedule 2 to the Maintenance Assessment and Special Cases Regulations[^key-de5885a4b119518146f1116e0be84ab8]
+## 57. Amendment of Schedule 2 to the Maintenance Assessment and Special Cases Regulations[^c-de5885a4b119518146f1116e0be84ab8]
 
 At the end of paragraphs 25 and 44 of Schedule 2 to the Maintenance Assessments and Special Cases Regulations (amounts to be disregarded when calculating or estimating N and M) there shall be added the words “of Schedule 1.”.
 
-## 58. Amendment of Schedule 3 to the Maintenance Assessments and Special Cases Regulations[^key-dff573f12b4d8e19cb1131e4f03e13dd]
+## 58. Amendment of Schedule 3 to the Maintenance Assessments and Special Cases Regulations[^c-dff573f12b4d8e19cb1131e4f03e13dd]
 
 (1) Schedule 3 to the Maintenance Assessments and Special Cases Regulations (eligible housing costs) shall be amended in accordance with the following provisions of this regulation.
 
@@ -833,7 +833,7 @@ At the end of paragraphs 25 and 44 of Schedule 2 to the Maintenance Assessments 
 - (c) in sub-paragraphs (4) and (5) for the words “premiums paid” wherever they occur there shall be substituted the words “premiums payable”;
 - (d) in sub-paragraph (6)(b) for the word “payments” there shall be substituted the words “amounts payable”.
 
-## 59. Transitional provisions[^key-8c4be82fd28f30b0a9032153e320e5a2][^key-d415ef3e3237060f0ff7f0ef4dd2d2ee]
+## 59. Transitional provisions[^c-8c4be82fd28f30b0a9032153e320e5a2][^c-d415ef3e3237060f0ff7f0ef4dd2d2ee]
 
 (1) A decision with respect to a maintenance assessment in force on the first commencement day shall not be superseded by a decision under section 17 of the Child Support Act 1991 (“the Act") solely to give effect to regulation 42(2)(d), regulation 50 or regulation 56(2).
 
@@ -904,7 +904,7 @@ These Regulations impose no costs on business.
 
 [^f00003]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-c67744d6a3c9c8caa6b0eab90f1fb809]: Commencement: Reg. 1 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-c67744d6a3c9c8caa6b0eab90f1fb809]: Commencement: Reg. 1 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
 [^f00004]: Footnote: S.I. [1992/2641](https://www.legislation.gov.uk/uksi/1992/2641); relevant amending instruments are S.I. [1995/1045](https://www.legislation.gov.uk/uksi/1995/1045), [1996/2450](https://www.legislation.gov.uk/uksi/1996/2450), [1996/2907](https://www.legislation.gov.uk/uksi/1996/2907), [1996/3196](https://www.legislation.gov.uk/uksi/1996/3196) and [1997/827](https://www.legislation.gov.uk/uksi/1997/827).
 
@@ -918,132 +918,132 @@ These Regulations impose no costs on business.
 
 [^f00009]: Footnote: [S.I.1992/1815](https://www.legislation.gov.uk/uksi/1992/1815); relevant amending instruments are S.I. [1993/913](https://www.legislation.gov.uk/uksi/1993/913), [1994/227](https://www.legislation.gov.uk/uksi/1994/227), [1995/1045](https://www.legislation.gov.uk/uksi/1995/1045), [1995/3261](https://www.legislation.gov.uk/uksi/1995/3261), [1995/3265](https://www.legislation.gov.uk/uksi/1995/3265), [1996/481](https://www.legislation.gov.uk/uksi/1996/481), [1996/1345](https://www.legislation.gov.uk/uksi/1996/1345), [1996/1803](https://www.legislation.gov.uk/uksi/1996/1803), [1996/1945](https://www.legislation.gov.uk/uksi/1996/1945), [1996/2907](https://www.legislation.gov.uk/uksi/1996/2907) and [1996/3196](https://www.legislation.gov.uk/uksi/1996/3196).
 
-[^key-3f88c3573039882017cfe7436734670a]: Commencement: Reg. 2 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-3f88c3573039882017cfe7436734670a]: Commencement: Reg. 2 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-6765024225d3747b882d57ee39658730]: Commencement: Reg. 3 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-6765024225d3747b882d57ee39658730]: Commencement: Reg. 3 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-981402f1cb87495146378eb8d8388ab2]: Commencement: Reg. 4 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-981402f1cb87495146378eb8d8388ab2]: Commencement: Reg. 4 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-b8cd11c3615be6fe4859f674f2a02bdc]: Commencement: Reg. 5 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-b8cd11c3615be6fe4859f674f2a02bdc]: Commencement: Reg. 5 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-f3553aa101aaa83039260818b70e39f8]: Commencement: Reg. 6 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-f3553aa101aaa83039260818b70e39f8]: Commencement: Reg. 6 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-ce5f808dcb3527420a2cbcd537523487]: Commencement: Reg. 7 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-ce5f808dcb3527420a2cbcd537523487]: Commencement: Reg. 7 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-abaf201e7e084e14ef8ffe31335b481f]: Commencement: Reg. 8 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-abaf201e7e084e14ef8ffe31335b481f]: Commencement: Reg. 8 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-fe32826328c56f7fc233b71d890eacd4]: Commencement: Reg. 9 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-fe32826328c56f7fc233b71d890eacd4]: Commencement: Reg. 9 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-5b70fe5f26e3dfc0749fc2c8deb3f81b]: Commencement: Reg. 10 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-5b70fe5f26e3dfc0749fc2c8deb3f81b]: Commencement: Reg. 10 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-bc6bff856327d8e978120f27a5487d8a]: Commencement: Reg. 11 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-bc6bff856327d8e978120f27a5487d8a]: Commencement: Reg. 11 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-4058c12b555aee8c11ad7797680c5f74]: Commencement: Reg. 12 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-4058c12b555aee8c11ad7797680c5f74]: Commencement: Reg. 12 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-8e57705c72f43e5da74503660bc21905]: Commencement: Reg. 13 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-8e57705c72f43e5da74503660bc21905]: Commencement: Reg. 13 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-b3fbea1b2a059cff137b1171837175c5]: Commencement: Reg. 14 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-b3fbea1b2a059cff137b1171837175c5]: Commencement: Reg. 14 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-4682b858a9b64d5c95b47e7d75dd4421]: Commencement: Reg. 15 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-4682b858a9b64d5c95b47e7d75dd4421]: Commencement: Reg. 15 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-4c4bcd0b15bbe06937507877e3b2c9c1]: Commencement: Reg. 16 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-4c4bcd0b15bbe06937507877e3b2c9c1]: Commencement: Reg. 16 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-c4d45a843c4540c2de41c3dcb751b772]: Commencement: Reg. 17 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-c4d45a843c4540c2de41c3dcb751b772]: Commencement: Reg. 17 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-cb69974327a0eeb463fdad1fec9ad3c6]: Commencement: Reg. 18 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-cb69974327a0eeb463fdad1fec9ad3c6]: Commencement: Reg. 18 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-e168b2cbc19af689a05f4b2f60024374]: Commencement: Reg. 19 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-e168b2cbc19af689a05f4b2f60024374]: Commencement: Reg. 19 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-db5c219c5f8504bcf0beb4d9645bb197]: Commencement: Reg. 20 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-db5c219c5f8504bcf0beb4d9645bb197]: Commencement: Reg. 20 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-38949581758a497ca578f48bb197a482]: Commencement: Reg. 21 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-38949581758a497ca578f48bb197a482]: Commencement: Reg. 21 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-7db83e6f15ec411316a9a7b61ad3f3bd]: Commencement: Reg. 22 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-7db83e6f15ec411316a9a7b61ad3f3bd]: Commencement: Reg. 22 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-f449227c9fe678b3bb555bb45fa7a5da]: Commencement: Reg. 23 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-f449227c9fe678b3bb555bb45fa7a5da]: Commencement: Reg. 23 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-4a7a24067d58bca2cb1c68838d1e30f5]: Commencement: Reg. 24 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-4a7a24067d58bca2cb1c68838d1e30f5]: Commencement: Reg. 24 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-931177dd45df2d778ad9328f7136bf2b]: Commencement: Reg. 25 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-931177dd45df2d778ad9328f7136bf2b]: Commencement: Reg. 25 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-9d94228ad7fac70f702be0be450c6709]: Commencement: Reg. 26 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-9d94228ad7fac70f702be0be450c6709]: Commencement: Reg. 26 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-bb68626323e7ba08afb7d5138d8d892b]: Commencement: Reg. 27 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-bb68626323e7ba08afb7d5138d8d892b]: Commencement: Reg. 27 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-27ef0c82090e18b88a07275521bb5cc0]: Commencement: Reg. 28 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-27ef0c82090e18b88a07275521bb5cc0]: Commencement: Reg. 28 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-5c51374007d606198944408548c7ec30]: Commencement: Reg. 29 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-5c51374007d606198944408548c7ec30]: Commencement: Reg. 29 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-979b91dde18634b040f6bf729cd089a2]: Commencement: Reg. 30 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-979b91dde18634b040f6bf729cd089a2]: Commencement: Reg. 30 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-02772f59b7d57c2edf9f8bada32af5ed]: Commencement: Reg. 31 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-02772f59b7d57c2edf9f8bada32af5ed]: Commencement: Reg. 31 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-2ae6ad7d0efcde9abdb078b7636d778f]: Commencement: Reg. 32 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-2ae6ad7d0efcde9abdb078b7636d778f]: Commencement: Reg. 32 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-f6b5e9ed89536ff655e9951443ceecbf]: Commencement: Reg. 33 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-f6b5e9ed89536ff655e9951443ceecbf]: Commencement: Reg. 33 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
 [^f00010]: Footnote: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
 
-[^key-d54ad4d3d4a5290dc326b12ac5b6fa40]: Commencement: Reg. 34 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-d54ad4d3d4a5290dc326b12ac5b6fa40]: Commencement: Reg. 34 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-b857e899102fa99803025d442f45cbc0]: Commencement: Reg. 35 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-b857e899102fa99803025d442f45cbc0]: Commencement: Reg. 35 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-5aa7a74fce1b5217ebb2e6ee7dc8984c]: Commencement: Reg. 36 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-5aa7a74fce1b5217ebb2e6ee7dc8984c]: Commencement: Reg. 36 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-699d855a237809c87c9669880e4dd33e]: Commencement: Reg. 37 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-699d855a237809c87c9669880e4dd33e]: Commencement: Reg. 37 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-910401d947242f2021b147b203512c61]: Commencement: Reg. 38 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-910401d947242f2021b147b203512c61]: Commencement: Reg. 38 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
 [^f00011]: Footnote: Paragraph (2B) is inserted by regulation 53.
 
-[^key-608d3e5fde5a2d16fe0dedea699f19e3]: Commencement: Reg. 39(1)(2) in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-608d3e5fde5a2d16fe0dedea699f19e3]: Commencement: Reg. 39(1)(2) in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-ebc557595e4ce58e058d9d5fc67e6add]: Commencement: Reg. 39(3) in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-ebc557595e4ce58e058d9d5fc67e6add]: Commencement: Reg. 39(3) in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-5d8f7a31e899defd551bfabe6f22cc4d]: Commencement: Reg. 40 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-5d8f7a31e899defd551bfabe6f22cc4d]: Commencement: Reg. 40 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-52154a917fcaec818a99e4f3d2456191]: Commencement: Reg. 41 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-52154a917fcaec818a99e4f3d2456191]: Commencement: Reg. 41 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-4ed5566be79c65c18b163cef13aeec16]: Commencement: Reg. 42 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-4ed5566be79c65c18b163cef13aeec16]: Commencement: Reg. 42 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
 [^f00012]: Footnote: S.I. [1996/2907](https://www.legislation.gov.uk/uksi/1996/2907).
 
 [^f00013]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-fb22006f3b7bdbcc25149fe3b9d37a89]: Commencement: Reg. 43 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-fb22006f3b7bdbcc25149fe3b9d37a89]: Commencement: Reg. 43 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-dc5e75e96ee4d5a2ef89731b9e3cf26a]: Commencement: Reg. 44 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-dc5e75e96ee4d5a2ef89731b9e3cf26a]: Commencement: Reg. 44 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-f708224a6092f9123a83faab93e5d330]: Commencement: Reg. 45 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-f708224a6092f9123a83faab93e5d330]: Commencement: Reg. 45 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-4ba5c39764e81ab70a82da2d849c3b69]: Commencement: Reg. 46 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-4ba5c39764e81ab70a82da2d849c3b69]: Commencement: Reg. 46 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-7bcdd45bad46b561e75ba98e28ea6b80]: Commencement: Reg. 47 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-7bcdd45bad46b561e75ba98e28ea6b80]: Commencement: Reg. 47 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-ae20718865d2236d15e96136a892640e]: Commencement: Reg. 48 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-ae20718865d2236d15e96136a892640e]: Commencement: Reg. 48 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-f004078e1d4f5662feb1e9cf278927e3]: Commencement: Reg. 49 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-f004078e1d4f5662feb1e9cf278927e3]: Commencement: Reg. 49 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-2e8d0add30bd7826dd2525059eee394e]: Commencement: Reg. 50 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-2e8d0add30bd7826dd2525059eee394e]: Commencement: Reg. 50 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-85ac5c2384048b55fc649425233f2707]: Commencement: Reg. 51 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-85ac5c2384048b55fc649425233f2707]: Commencement: Reg. 51 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-5eddcb7d2a1c4b4ac1fc11acc60d4d93]: Commencement: Reg. 52 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-5eddcb7d2a1c4b4ac1fc11acc60d4d93]: Commencement: Reg. 52 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-617903a673c9dca602c6ab8d0152046d]: Commencement: Reg. 53 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-617903a673c9dca602c6ab8d0152046d]: Commencement: Reg. 53 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-4097e6061a7b69f11f9967f3bc94678f]: Commencement: Reg. 54 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-4097e6061a7b69f11f9967f3bc94678f]: Commencement: Reg. 54 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-16ba6679cfcc06f256eaf83caf2b2225]: Commencement: Reg. 55 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-16ba6679cfcc06f256eaf83caf2b2225]: Commencement: Reg. 55 in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-bc3626e5db6a305882de9aa1e5670454]: Commencement: Reg. 56(1)-(4)(6) in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-bc3626e5db6a305882de9aa1e5670454]: Commencement: Reg. 56(1)-(4)(6) in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-b65d5f02633fe362f3389a6efdc1e22d]: Commencement: Reg. 56(5) in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-b65d5f02633fe362f3389a6efdc1e22d]: Commencement: Reg. 56(5) in force at 6.4.1998, see [reg. 1(3)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-de5885a4b119518146f1116e0be84ab8]: Commencement: Reg. 57 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-de5885a4b119518146f1116e0be84ab8]: Commencement: Reg. 57 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-dff573f12b4d8e19cb1131e4f03e13dd]: Commencement: Reg. 58 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-dff573f12b4d8e19cb1131e4f03e13dd]: Commencement: Reg. 58 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-8c4be82fd28f30b0a9032153e320e5a2]: Commencement: Reg. 59 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
+[^c-8c4be82fd28f30b0a9032153e320e5a2]: Commencement: Reg. 59 in force at 19.1.1998, see [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/1998/58/regulation/1)
 
-[^key-d415ef3e3237060f0ff7f0ef4dd2d2ee]: Textual amendment: [Reg. 59](https://www.legislation.gov.uk/uksi/1998/58/regulation/59) substituted (1.6.1999) by [The Social Security Act 1998 (Commencement No. 7 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1510)](https://www.legislation.gov.uk/uksi/1999/1510), [arts. 3(1)](https://www.legislation.gov.uk/uksi/1999/1510/article/3/1), [45](https://www.legislation.gov.uk/uksi/1999/1510/article/45)
+[^c-d415ef3e3237060f0ff7f0ef4dd2d2ee]: Textual amendment: [Reg. 59](https://www.legislation.gov.uk/uksi/1998/58/regulation/59) substituted (1.6.1999) by [The Social Security Act 1998 (Commencement No. 7 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1510)](https://www.legislation.gov.uk/uksi/1999/1510), [arts. 3(1)](https://www.legislation.gov.uk/uksi/1999/1510/article/3/1), [45](https://www.legislation.gov.uk/uksi/1999/1510/article/45)

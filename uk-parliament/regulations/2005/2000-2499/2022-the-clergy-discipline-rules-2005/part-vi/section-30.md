@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England.
 
-## 30. General[^key-e925f82794bb893b35eff6cdba38c4c1]
+## 30. General[^c-e925f82794bb893b35eff6cdba38c4c1]
 
 *Extent: E*
 
-(1) Where an allegation of misconduct[^key-f0a265efd70bed798fdb8bc55ecea950] is referred to a tribunal for adjudication, the Registrar of Tribunals—
+(1) Where an allegation of misconduct[^c-f0a265efd70bed798fdb8bc55ecea950] is referred to a tribunal for adjudication, the Registrar of Tribunals—
 
 - (a) may hold one or more preliminary hearings to identify the issues and give directions, and shall give notice to the parties of such hearings, and
 - (b) shall give directions for the just disposal of the proceedings in accordance with the overriding objective.
@@ -30,7 +30,7 @@ summary: ''
 (3) Directions may be given or varied at any stage—
 
 - (a) at a hearing,
-- (b) where paragraph[^key-90b266f712d96ec42b936c45f6a4f59f] (6) below applies, during a telephone hearing, or
+- (b) where paragraph[^c-90b266f712d96ec42b936c45f6a4f59f] (6) below applies, during a telephone hearing, or
 - (c) in writing.
 
 (4) At any hearing or telephone hearing the respondent may be legally represented, and the complainant’s case shall be conducted by the Designated Officer or someone duly authorised by the Designated Officer.
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e925f82794bb893b35eff6cdba38c4c1]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2005/2022/rule/30) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-e925f82794bb893b35eff6cdba38c4c1]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2005/2022/rule/30) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-f0a265efd70bed798fdb8bc55ecea950]: Textual amendment: Words in rule 30(1) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
+[^c-f0a265efd70bed798fdb8bc55ecea950]: Textual amendment: Words in rule 30(1) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
 
-[^key-90b266f712d96ec42b936c45f6a4f59f]: Textual amendment: Word in Rules substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2021/557/rule/14/a)
+[^c-90b266f712d96ec42b936c45f6a4f59f]: Textual amendment: Word in Rules substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2021/557/rule/14/a)

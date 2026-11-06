@@ -139,7 +139,7 @@ and the strategy (or combination of strategies) in force from time to time is re
 (1) In this Act—
 
 - “**the 1980 Act**” means the Education (Scotland) Act 1980 (c.44);
-- “**pupil with a disability**” means a person who has a disability for the purposes of the Equality Act 2010[^key-a619f2c46b259791c0a5f8685b1cb8a8] who—
+- “**pupil with a disability**” means a person who has a disability for the purposes of the Equality Act 2010[^c-a619f2c46b259791c0a5f8685b1cb8a8] who—
   - (a) is a pupil;
   - (b) may be admitted to a school as a pupil; or
   - (c) being a child who is under school age, may be provided with school education at a place other than a school; and
@@ -161,6 +161,6 @@ and the strategy (or combination of strategies) in force from time to time is re
 
 ## Annotations
 
-[^key-a619f2c46b259791c0a5f8685b1cb8a8]: Textual amendment: Words in s. 6 substituted (1.10.2010) by 2010 c. 15, Sch. 26 Pt. 2 para. 101 (as inserted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6)) (see S.I. 2010/2317, art. 2)
+[^c-a619f2c46b259791c0a5f8685b1cb8a8]: Textual amendment: Words in s. 6 substituted (1.10.2010) by 2010 c. 15, Sch. 26 Pt. 2 para. 101 (as inserted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6)) (see S.I. 2010/2317, art. 2)
 
 [^c887663]: Subordinate legislation: [S. 7(2)](https://www.legislation.gov.uk/asp/2002/12/section/7/2) power fully exercised: 15.8.2002 appointed by [S.S.I. 2002/367](https://www.legislation.gov.uk/ssi/2002/367), [art. 2](https://www.legislation.gov.uk/ssi/2002/367/article/2)

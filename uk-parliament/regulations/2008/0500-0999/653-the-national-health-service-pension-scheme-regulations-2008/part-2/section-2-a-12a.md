@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.A.12A. Restriction of reckonable pay where the Secretary of State considers the amount is inordinate[^key-3318081edbe9823d7f3c8a9bd49ceaac]
+## 2.A.12A. Restriction of reckonable pay where the Secretary of State considers the amount is inordinate[^c-3318081edbe9823d7f3c8a9bd49ceaac]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3318081edbe9823d7f3c8a9bd49ceaac]: Textual amendment: [Reg. 2.A.12A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.12A) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2014/570/regulation/21) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))
+[^c-3318081edbe9823d7f3c8a9bd49ceaac]: Textual amendment: [Reg. 2.A.12A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.12A) inserted (1.4.2014) by [The National Health Service Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/570)](https://www.legislation.gov.uk/uksi/2014/570), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/570/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2014/570/regulation/21) (with [reg. 49](https://www.legislation.gov.uk/uksi/2014/570/regulation/49))

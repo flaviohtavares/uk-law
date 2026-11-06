@@ -22,9 +22,9 @@ summary: ''
 
 Article 10
 
-**1.**[^key-f6be5a997ea0f5c866d37de2fa1ef535] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications in respect of compensation,[^key-3cb357d9175bead3aa08b2c4ce3661db] in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply in respect of compensation on the compulsory purchase of land and interests in land.
+**1.**[^c-f6be5a997ea0f5c866d37de2fa1ef535] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications in respect of compensation,[^c-3cb357d9175bead3aa08b2c4ce3661db] in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply in respect of compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-efe4d3b94fc7a28b4bc3cf54a6ef7920] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
+**2.**[^c-efe4d3b94fc7a28b4bc3cf54a6ef7920] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
 
 (2) For section 5A(5A)(relevant valuation date) of the 1961 Act substitute—
 
@@ -38,21 +38,21 @@ Article 10
 
 .
 
-**3.**[^key-616d30a8ddff383b676461d3d600edb6] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00070] has effect subject to the modifications set out in sub-paragraph (2).
+**3.**[^c-616d30a8ddff383b676461d3d600edb6] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00070] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1)[^f00071] (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 (measure of compensation in case of severance) of the 1965 Act as substituted by paragraph 5(3)—
 
 - (a) for “land is acquired or taken” substitute “a right over land is purchased”;
 - (b) for “acquired or taken from him” substitute “over which the right is exercisable”.
 
-### 4. Application of Part 1 of the 1965 Act[^key-06bdabf13d89eeaab00b70b2e495c24f]
+### 4. Application of Part 1 of the 1965 Act[^c-06bdabf13d89eeaab00b70b2e495c24f]
 
 Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 14 (modification of Part 1 of the 1965 Act)), applies to the compulsory acquisition of a right by the creation of a new right under article 10 (compulsory acquisition of rights)—
 
 - (a) with the modifications specified in paragraph 5; and
 - (b) with such other modifications as may be necessary.
 
-**5.**[^key-d2d61f9ee31ee496f90ccb7b36b5df70] (1) The modifications referred to in paragraph 4(a) are as follows.
+**5.**[^c-d2d61f9ee31ee496f90ccb7b36b5df70] (1) The modifications referred to in paragraph 4(a) are as follows.
 
 (2) References in the 1965 Act to land are, in the appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -146,23 +146,23 @@ are modified correspondingly.
 
 ## Annotations
 
-[^key-f6be5a997ea0f5c866d37de2fa1ef535]: Commencement: Sch. 5 para. 1 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-f6be5a997ea0f5c866d37de2fa1ef535]: Commencement: Sch. 5 para. 1 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-3cb357d9175bead3aa08b2c4ce3661db]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2024/1014/schedule/5) substituted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
+[^c-3cb357d9175bead3aa08b2c4ce3661db]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2024/1014/schedule/5) substituted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
 
-[^key-efe4d3b94fc7a28b4bc3cf54a6ef7920]: Commencement: Sch. 5 para. 2 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-efe4d3b94fc7a28b4bc3cf54a6ef7920]: Commencement: Sch. 5 para. 2 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
 [^f00069]: Footnote: Section 5A was inserted by section 103 of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5) and amended by section 199(2) of, and paragraph 9 of Schedule 18 to, the Housing and Planning Act 2016. There are other amendments to section 5A which are not relevant to this Order.
 
-[^key-616d30a8ddff383b676461d3d600edb6]: Commencement: Sch. 5 para. 3 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-616d30a8ddff383b676461d3d600edb6]: Commencement: Sch. 5 para. 3 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
 [^f00070]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
 [^f00071]: Footnote: There are amendments to section 44 which are not relevant to this Order.
 
-[^key-06bdabf13d89eeaab00b70b2e495c24f]: Commencement: Sch. 5 para. 4 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-06bdabf13d89eeaab00b70b2e495c24f]: Commencement: Sch. 5 para. 4 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-d2d61f9ee31ee496f90ccb7b36b5df70]: Commencement: Sch. 5 para. 5 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-d2d61f9ee31ee496f90ccb7b36b5df70]: Commencement: Sch. 5 para. 5 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
 [^f00072]: Footnote: Section 11 was amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of, and Part 1 of Schedule 1 to, the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), sections 186(2), 187(2) and 188 of, and paragraph 6 of Schedule 14 and paragraph 3 of Schedule 16 to, the Housing and Planning Act 2016 and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

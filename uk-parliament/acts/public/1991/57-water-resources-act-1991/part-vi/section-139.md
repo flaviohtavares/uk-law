@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to subsections (2) and (3) below, the appropriate agency[^key-21423ce0d47eaa650fb851bfceea3f8e] shall by resolution require every internal drainage board to make towards the expenses of the appropriate agency such contribution as the appropriate agency may consider to be fair.
+(1) Subject to subsections (2) and (3) below, the appropriate agency[^c-21423ce0d47eaa650fb851bfceea3f8e] shall by resolution require every internal drainage board to make towards the expenses of the appropriate agency such contribution as the appropriate agency may consider to be fair.
 
 (2) Subject to subsection (3) below, where an internal drainage district (“ the main internal drainage district") comprises two or more other internal districts (“minor internal drainage districts"), the appropriate agency shall not require the drainage board for that district to make any contribution towards the expenses of the appropriate agency except in respect of such part, if any, of that district as is not situated within any minor internal drainage district.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

@@ -24,7 +24,7 @@ summary: ''
 
 (2) Ballot regulations may provide for a ballot under this section to relate—
 
-- (a) to all grammar schools within the area of a prescribed local authority[^key-5177265949adaa73e26402711f36dc2e] or within such other area as may be prescribed,
+- (a) to all grammar schools within the area of a prescribed local authority[^c-5177265949adaa73e26402711f36dc2e] or within such other area as may be prescribed,
 - (b) to a prescribed group of grammar schools, or
 - (c) to any grammar school not falling within paragraph (a) or (b).
 
@@ -82,7 +82,7 @@ Payments under this subsection may be made on such terms as the Secretary of Sta
 
 [^c14010171]: Modification: S. 105 applied (3.12.1998) by [S.I. 1998/2876](https://www.legislation.gov.uk/uksi/1998/2876), [art. 11(1)](https://www.legislation.gov.uk/uksi/1998/2876/article/11/1).
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
 [^c14010181]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 

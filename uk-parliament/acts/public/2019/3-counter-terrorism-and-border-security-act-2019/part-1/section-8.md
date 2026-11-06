@@ -45,7 +45,7 @@ summary: ''
 
 (6) In the list of statutory offences—
 
-- (a)[^key-7c717714a6584505d9f8826ca0b98fb7] in the entry relating to the Offences against the Person Act 1861, after paragraph (a) insert— *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_16ce3193-310d-46a1-9d6e-edff14140ae2]
+- (a)[^c-7c717714a6584505d9f8826ca0b98fb7] in the entry relating to the Offences against the Person Act 1861, after paragraph (a) insert— *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_16ce3193-310d-46a1-9d6e-edff14140ae2]
 
   > (aa (Extent: E+W) (affected by repeal, see note))[^M_F_16ce3193-310d-46a1-9d6e-edff14140ae2] section 18 (wounding with intent), *(Extent: E+W)* *(affected by repeal, see note)*[^M_F_16ce3193-310d-46a1-9d6e-edff14140ae2]
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c717714a6584505d9f8826ca0b98fb7]: Modification: S. 8(6)(a) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-7c717714a6584505d9f8826ca0b98fb7]: Modification: S. 8(6)(a) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
 [^M_F_16ce3193-310d-46a1-9d6e-edff14140ae2]: Textual amendment: S. 8(6)(a) repealed (E.W.) (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 29](https://www.legislation.gov.uk/ukpga/2020/17/schedule/29) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. Directions relating to designated central systems[^key-94d9f5dcd2c487db60315d3b15a8dc5f][^key-c237f975fae12d252ff5cd8d84c07435]
+## 194. Directions relating to designated central systems[^c-94d9f5dcd2c487db60315d3b15a8dc5f][^c-c237f975fae12d252ff5cd8d84c07435]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94d9f5dcd2c487db60315d3b15a8dc5f]: Commencement: S. 194 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-94d9f5dcd2c487db60315d3b15a8dc5f]: Commencement: S. 194 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-c237f975fae12d252ff5cd8d84c07435]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2023/52/section/194) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/vi)
+[^c-c237f975fae12d252ff5cd8d84c07435]: Commencement: [S. 194](https://www.legislation.gov.uk/ukpga/2023/52/section/194) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/vi)

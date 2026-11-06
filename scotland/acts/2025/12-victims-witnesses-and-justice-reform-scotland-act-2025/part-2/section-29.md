@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Fatal accident inquiries: conduct of proceedings[^key-572ce6e8b0cd14e6050622ae17da3247][^key-95d030e35beab62d54c0d790962ee3d4]
+## 29. Fatal accident inquiries: conduct of proceedings[^c-572ce6e8b0cd14e6050622ae17da3247][^c-95d030e35beab62d54c0d790962ee3d4]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-572ce6e8b0cd14e6050622ae17da3247]: Commencement: S. 29 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-572ce6e8b0cd14e6050622ae17da3247]: Commencement: S. 29 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-95d030e35beab62d54c0d790962ee3d4]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2025/12/section/29) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-95d030e35beab62d54c0d790962ee3d4]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2025/12/section/29) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

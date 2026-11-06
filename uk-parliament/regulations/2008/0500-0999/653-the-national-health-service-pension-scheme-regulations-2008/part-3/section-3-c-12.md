@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.C.12. Effect of payment of additional contributions under this Chapter[^key-578d10c2e2bae4bfcbfab4ba981b0a17][^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.C.12. Effect of payment of additional contributions under this Chapter[^c-578d10c2e2bae4bfcbfab4ba981b0a17][^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) Subject to paragraph (9), the member’s pension is increased by the full amount of the increase to be made in accordance with the terms of the option, after the final adjustment in that amount in accordance with regulation 3.C.15 (revaluation of increases bought under options).
 
-(3) Paragraph (2) is without prejudice to any increase or reduction falling to be made in the total amount of the member’s pension under Chapter 3.D or Chapter 3.K[^key-345e46ee2cdf618d1d984c4251573ae0] as a result of the member becoming entitled to payment of the pension before or after reaching the age of 65 (see regulations 3.D.3 to 3.D.5 and 3.K.17[^key-400a693d6e069018cc47c2f78531c835]).
+(3) Paragraph (2) is without prejudice to any increase or reduction falling to be made in the total amount of the member’s pension under Chapter 3.D or Chapter 3.K[^c-345e46ee2cdf618d1d984c4251573ae0] as a result of the member becoming entitled to payment of the pension before or after reaching the age of 65 (see regulations 3.D.3 to 3.D.5 and 3.K.17[^c-400a693d6e069018cc47c2f78531c835]).
 
 (4) In the case of an option under regulation 3.C.6(1)(b), 3.C.8(1)(b) or 3.C.9(1)(b), any pension payable under Chapter 3.E (death benefits) in respect of the member is increased by the appropriate amount.
 
@@ -48,16 +48,16 @@ summary: ''
 
 (10) Any increase to the member’s pension shall be included only in a benefit payable to a surviving partner or a dependent child in respect of the member under these Regulations whilst it is being paid at the rate and for the duration of one of the periods referred to in paragraph (9).
 
-(11)[^key-9e59236f8bf831fe310eefda6d4283a3] In the case of a 2008 Section Optant, this regulation is subject to regulation 3.K.4.
+(11)[^c-9e59236f8bf831fe310eefda6d4283a3] In the case of a 2008 Section Optant, this regulation is subject to regulation 3.K.4.
 
 ## Annotations
 
-[^key-578d10c2e2bae4bfcbfab4ba981b0a17]: Modification: [Regs. 3.C.6-3.C.13](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.6) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/ii)
+[^c-578d10c2e2bae4bfcbfab4ba981b0a17]: Modification: [Regs. 3.C.6-3.C.13](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.6) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/ii)
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-345e46ee2cdf618d1d984c4251573ae0]: Textual amendment: Words in [reg. 3.C.12(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.12/3) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [64(2)(a)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/64/2/a)
+[^c-345e46ee2cdf618d1d984c4251573ae0]: Textual amendment: Words in [reg. 3.C.12(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.12/3) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [64(2)(a)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/64/2/a)
 
-[^key-400a693d6e069018cc47c2f78531c835]: Textual amendment: Words in [reg. 3.C.12(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.12/3) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [64(2)(b)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/64/2/b)
+[^c-400a693d6e069018cc47c2f78531c835]: Textual amendment: Words in [reg. 3.C.12(3)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.12/3) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [64(2)(b)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/64/2/b)
 
-[^key-9e59236f8bf831fe310eefda6d4283a3]: Textual amendment: [Reg. 3.C.12(11)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.12/11) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [64(3)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/64/3)
+[^c-9e59236f8bf831fe310eefda6d4283a3]: Textual amendment: [Reg. 3.C.12(11)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.12/11) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [64(3)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/64/3)

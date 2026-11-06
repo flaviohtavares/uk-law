@@ -45,11 +45,11 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred upon them by section 1 of the Playing Fields (Community Involvement in Disposal Decisions) (Wales) Measure 2010[^f00001], make the following Regulations.
 
-## 1. Title and commencement[^key-84f4490ee785153a1864d2d95e3d3a15]
+## 1. Title and commencement[^c-84f4490ee785153a1864d2d95e3d3a15]
 
 The title of these Regulations is the Playing Fields (Community Involvement in Disposal Decisions) (Wales) Regulations 2015, and they come into force on 1 October 2015.
 
-## 2. Interpretation[^key-d376877125697117f5867411302aea3c]
+## 2. Interpretation[^c-d376877125697117f5867411302aea3c]
 
 In these Regulations—
 
@@ -64,7 +64,7 @@ In these Regulations—
   - (c) 0.04 hectares or more and which is used for playing basketball, netball or tennis; and.
 - “proposed decision to dispose” (“*penderfyniad arfaethedig i waredu*”) means where a local authority is considering making a decision to enter into an agreement to dispose, or in the absence of such an agreement, is considering making a decision to dispose.
 
-## 3. Application[^key-7390b28801fed308e64e5cecd11dea01]
+## 3. Application[^c-7390b28801fed308e64e5cecd11dea01]
 
 A local authority must comply with the requirements contained in regulations 5 to 10—
 
@@ -72,7 +72,7 @@ A local authority must comply with the requirements contained in regulations 5 t
 - (b) where the playing field has been used as a sports or recreational facility by the public at any time in the previous 5 years; and
 - (c) where none of the exceptions in regulation 4(1) apply.
 
-## 4. Exceptions[^key-df6fc278269de0a411771f18006d6bc0]
+## 4. Exceptions[^c-df6fc278269de0a411771f18006d6bc0]
 
 (1) The requirements contained in regulations 5 to 10 do not apply where—
 
@@ -81,7 +81,7 @@ A local authority must comply with the requirements contained in regulations 5 t
   - (i) a local authority; or
   - (ii) a body whose aims or objectives include the promotion of sporting or recreational activities;
 - (c) a county or county borough council has consulted on the proposed decision to dispose of the playing field under section 48(2) of the 2013 Act;
-- (d) the Commission for Tertiary Education and Research[^key-101cf0986aa96da33987edabcff8a545] have consulted on the proposed decision to dispose of the playing field under section 63D(2)[^key-47f574db420b6ca451ef6b3e89b3ea35] of the 2013 Act; or
+- (d) the Commission for Tertiary Education and Research[^c-101cf0986aa96da33987edabcff8a545] have consulted on the proposed decision to dispose of the playing field under section 63D(2)[^c-47f574db420b6ca451ef6b3e89b3ea35] of the 2013 Act; or
 - (e) the proposed decision to dispose of a playing field or any part of a playing field is pending.
 
 (2) For the purposes of paragraph (1)(e), a proposed decision to dispose is pending where—
@@ -89,7 +89,7 @@ A local authority must comply with the requirements contained in regulations 5 t
 - (a) the local authority has published a notice of disposal in accordance with section 123(2A) of the Local Government Act 1972[^f00004] prior to these Regulations coming into force; and
 - (b) the local authority enters into an agreement to dispose, or completes the disposal, of the playing field referred to within that notice within 12 months following the first publication of that notice.
 
-## 5. Notice and consultation arrangements[^key-d0610660ce818271f36d6e8ab99aa807]
+## 5. Notice and consultation arrangements[^c-d0610660ce818271f36d6e8ab99aa807]
 
 (1) A local authority must before making a decision to dispose of a playing field, or any part of a playing field, publish a notice (“the notice”) on two consecutive weeks in at least one newspaper circulating in the local authority’s area.
 
@@ -122,7 +122,7 @@ A local authority must comply with the requirements contained in regulations 5 t
 
 (7) The local authority must provide (on payment if required by a local authority of a reasonable charge) a copy of the details of the proposed disposal to any person from whom the local authority receives a request during the consultation period.
 
-## 6. Impact assessment[^key-c084f4f47a4fbe652a0557b352734df3]
+## 6. Impact assessment[^c-c084f4f47a4fbe652a0557b352734df3]
 
 (1) Details of the proposed disposal, prepared by a local authority for the purposes of regulation 5(2)(b), (3), (4), (6)(d) and (7), must include information about the effect a local authority considers the proposed disposal of a playing field, or any part of a playing field, would have on any relevant strategies, plans or assessments.
 
@@ -134,13 +134,13 @@ A local authority must comply with the requirements contained in regulations 5 t
 - (d) the strategy prepared for the area under section 40 of the National Health Service (Wales) Act 2006[^f00010]; and
 - (e) such other strategies, plans or assessments as the local authority considers appropriate.
 
-## 7. Consideration of representations[^key-8060e4ad62f76aa90818f3b399884ff7]
+## 7. Consideration of representations[^c-8060e4ad62f76aa90818f3b399884ff7]
 
 (1) The local authority must consider all representations received in relation to the proposed decision to dispose during the consultation period.
 
 (2) The local authority may consider any representations received in relation to the proposed decision to dispose after the end of the consultation period.
 
-## 8. Decision[^key-54c2f901b8a93ea2726128c972d0c888]
+## 8. Decision[^c-54c2f901b8a93ea2726128c972d0c888]
 
 (1) If, having considered any representations which the local authority is required or empowered to consider under regulation 7, the local authority decides to proceed with the decision to dispose, the local authority must prepare a report of that decision (“the decision report”).
 
@@ -173,7 +173,7 @@ A local authority must comply with the requirements contained in regulations 5 t
 - (a) prepare a report of that decision which complies with the requirements in paragraph (2);
 - (b) send a copy of the report to any person from whom the local authority received a substantive representation which the local authority considered in accordance with regulation 7 as soon as reasonably practicable after the local authority has made the decision.
 
-## 9. Electronic communications[^key-0f1db3304f0dba378659adfa1f23095b]
+## 9. Electronic communications[^c-0f1db3304f0dba378659adfa1f23095b]
 
 (1) Where, in accordance with these Regulations—
 
@@ -193,7 +193,7 @@ the document, copy, notice or notification may be sent or made by way of electro
 - “electronic communication” (“*cyfathrebiad electronig*”) has the same meaning as in section 15(1) of the Electronic Communications Act 2000[^f00011]; and
 - “working day” (“*diwrnod gwaith*”) means a day which is not a Saturday, Sunday, Christmas Eve, Christmas Day, Good Friday, a bank holiday or a day appointed for public thanksgiving or mourning (and “bank holiday” (“*gŵyl banc*”) means a day to be observed as such under the Banking and Financial Dealings Act 1971[^f00012]).
 
-## 10. Guidance[^key-f388e10f421b9644b198009ab1981e31]
+## 10. Guidance[^c-f388e10f421b9644b198009ab1981e31]
 
 In exercising its functions under these Regulations, a local authority must have regard to any guidance given by the Welsh Ministers.
 
@@ -243,31 +243,31 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2010 nawm 6](https://www.legislation.gov.uk/mwa/2010/6).
 
-[^key-84f4490ee785153a1864d2d95e3d3a15]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
+[^c-84f4490ee785153a1864d2d95e3d3a15]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
 
-[^key-d376877125697117f5867411302aea3c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1403/regulation/2) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
+[^c-d376877125697117f5867411302aea3c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1403/regulation/2) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
 
 [^f00002]: Footnote: [2013 anaw 1](https://www.legislation.gov.uk/anaw/2013/1).
 
 [^f00003]: Footnote: “Local authority” has the same meaning as defined in section 1(3) of the Playing Fields (Community Involvement in Disposal Decisions) (Wales) Measure 2010. It means a county or county borough council, a community council (including a town council) and a National Park authority.
 
-[^key-7390b28801fed308e64e5cecd11dea01]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1403/regulation/3) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
+[^c-7390b28801fed308e64e5cecd11dea01]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1403/regulation/3) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
 
-[^key-df6fc278269de0a411771f18006d6bc0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1403/regulation/4) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
+[^c-df6fc278269de0a411771f18006d6bc0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1403/regulation/4) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
 
-[^key-101cf0986aa96da33987edabcff8a545]: Textual amendment: Words in [reg. 4(1)(d)](https://www.legislation.gov.uk/wsi/2015/1403/regulation/4/1/d) substituted (5.4.2025) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Regulations 2025 (S.I. 2025/435)](https://www.legislation.gov.uk/wsi/2025/435), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/435/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2025/435/regulation/3/a)
+[^c-101cf0986aa96da33987edabcff8a545]: Textual amendment: Words in [reg. 4(1)(d)](https://www.legislation.gov.uk/wsi/2015/1403/regulation/4/1/d) substituted (5.4.2025) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Regulations 2025 (S.I. 2025/435)](https://www.legislation.gov.uk/wsi/2025/435), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/435/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2025/435/regulation/3/a)
 
-[^key-47f574db420b6ca451ef6b3e89b3ea35]: Textual amendment: Words in [reg. 4(1)(d)](https://www.legislation.gov.uk/wsi/2015/1403/regulation/4/1/d) substituted (5.4.2025) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Regulations 2025 (S.I. 2025/435)](https://www.legislation.gov.uk/wsi/2025/435), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/435/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2025/435/regulation/3/b)
+[^c-47f574db420b6ca451ef6b3e89b3ea35]: Textual amendment: Words in [reg. 4(1)(d)](https://www.legislation.gov.uk/wsi/2015/1403/regulation/4/1/d) substituted (5.4.2025) by [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments) Regulations 2025 (S.I. 2025/435)](https://www.legislation.gov.uk/wsi/2025/435), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/435/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2025/435/regulation/3/b)
 
 [^f00004]: Footnote: [1972 c. 80](https://www.legislation.gov.uk/ukpga/1972/80).
 
-[^key-d0610660ce818271f36d6e8ab99aa807]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1403/regulation/5) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
+[^c-d0610660ce818271f36d6e8ab99aa807]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1403/regulation/5) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
 
 [^f00005]: Footnote: Established by Royal Charter dated 4 February 1972, operating under the name “*Sports Wales*”.
 
 [^f00006]: Footnote: Founded in 1925 and incorporated by Royal Charter in 1933, operating under the name “*Fields in Trust*”.
 
-[^key-c084f4f47a4fbe652a0557b352734df3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1403/regulation/6) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
+[^c-c084f4f47a4fbe652a0557b352734df3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1403/regulation/6) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
 
 [^f00007]: Footnote: [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5). Section 62 was amended by section 51(2) of and paragraphs 4, 5 and 6 of Schedule 2 to the Local Government (Wales) Measure [2009 (nawm 2)](https://www.legislation.gov.uk/mwa/2009/2).
 
@@ -277,14 +277,14 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00010]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
 
-[^key-8060e4ad62f76aa90818f3b399884ff7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1403/regulation/7) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
+[^c-8060e4ad62f76aa90818f3b399884ff7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1403/regulation/7) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
 
-[^key-54c2f901b8a93ea2726128c972d0c888]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1403/regulation/8) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
+[^c-54c2f901b8a93ea2726128c972d0c888]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1403/regulation/8) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
 
-[^key-0f1db3304f0dba378659adfa1f23095b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/1403/regulation/9) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
+[^c-0f1db3304f0dba378659adfa1f23095b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/1403/regulation/9) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
 
 [^f00011]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). In section 15(1) of the Electronic Communications Act 2000, “electronic communication” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa) – (a) by means of an electronic communications network; or (b) by other means but while in an electronic form. The definition was amended by section 406 of, and paragraph 158 of Schedule 17 to, the Electronic Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00012]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-f388e10f421b9644b198009ab1981e31]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2015/1403/regulation/10) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)
+[^c-f388e10f421b9644b198009ab1981e31]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2015/1403/regulation/10) in force at 1.10.2015, see [reg. 1](https://www.legislation.gov.uk/wsi/2015/1403/regulation/1)

@@ -33,22 +33,22 @@ of 10 August 2010
 
 amending Council Regulation (EC) No 2223/96 as regards adaptations following the revision of the statistical classification of economic activities NACE Revision 2 and the statistical classification of products by activity (CPA) in national accounts (revoked)
 
-[^key-2ee2940af33487e343ad0dc8d638f878]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ee2940af33487e343ad0dc8d638f878]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-2ee2940af33487e343ad0dc8d638f878] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2ee2940af33487e343ad0dc8d638f878] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2ee2940af33487e343ad0dc8d638f878] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2ee2940af33487e343ad0dc8d638f878] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2ee2940af33487e343ad0dc8d638f878]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ee2940af33487e343ad0dc8d638f878]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-2ee2940af33487e343ad0dc8d638f878]
+## ANNEX[^c-2ee2940af33487e343ad0dc8d638f878]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2ee2940af33487e343ad0dc8d638f878]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 61](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/61)
+[^c-2ee2940af33487e343ad0dc8d638f878]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 61](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/61)

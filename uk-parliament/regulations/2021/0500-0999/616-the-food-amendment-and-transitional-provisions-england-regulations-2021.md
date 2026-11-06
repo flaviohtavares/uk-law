@@ -50,13 +50,13 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 The Secretary of State has had regard to relevant advice given by the Food Standards Agency in accordance with section 48(4A)[^f00003] of the Food Safety Act 1990.
 
-## 1. Citation, commencement, extent and application[^key-a1eedbe1d2c9ee4967051a4384d52398]
+## 1. Citation, commencement, extent and application[^c-a1eedbe1d2c9ee4967051a4384d52398]
 
 (1) These Regulations may be cited as the Food (Amendment and Transitional Provisions) (England) Regulations 2021 and come into force on 17th June 2021.
 
 (2) These Regulations extend to England and Wales and apply in England only.
 
-## 2. Amendment of the Bread and Flour Regulations 1998[^key-a5e828cbf87d1343dc4eec6c062e628b]
+## 2. Amendment of the Bread and Flour Regulations 1998[^c-a5e828cbf87d1343dc4eec6c062e628b]
 
 (1) The Bread and Flour Regulations 1998[^f00004] are amended as follows.
 
@@ -100,7 +100,7 @@ The Secretary of State has had regard to relevant advice given by the Food Stand
 
 (5) Omit regulation 7(2).
 
-## 3. Amendment of the Jam and Similar Products (England) Regulations 2003[^key-b0b15a5dba8e38ff3d90b9f8fcfc0ca9]
+## 3. Amendment of the Jam and Similar Products (England) Regulations 2003[^c-b0b15a5dba8e38ff3d90b9f8fcfc0ca9]
 
 (1) The Jam and Similar Products (England) Regulations 2003[^f00005] are amended as follows.
 
@@ -108,15 +108,15 @@ The Secretary of State has had regard to relevant advice given by the Food Stand
 
 (3) Omit regulation 3(3).
 
-## 4. Amendment of the Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (England) Regulations 2008[^key-d4eb8e88136997b3d7e0a9e975f59c5d]
+## 4. Amendment of the Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (England) Regulations 2008[^c-d4eb8e88136997b3d7e0a9e975f59c5d]
 
 Omit regulation 3 of the Spreadable Fats (Marketing Standards) and the Milk and Milk Products (Protection of Designations) (England) Regulations 2008[^f00006].
 
-## 5. Amendment of the Products Containing Meat etc. (England) Regulations 2014[^key-38ef5c217b972fdf0d8931b1c272a52a]
+## 5. Amendment of the Products Containing Meat etc. (England) Regulations 2014[^c-38ef5c217b972fdf0d8931b1c272a52a]
 
 Omit regulation 3(3) of the Products Containing Meat etc. (England) Regulations 2014[^f00007].
 
-## 6. Transitional Provisions[^key-7fc9cbcea46557d2d5701fe2a628d06d]
+## 6. Transitional Provisions[^c-7fc9cbcea46557d2d5701fe2a628d06d]
 
 (1) A product which—
 
@@ -136,7 +136,7 @@ Omit regulation 3(3) of the Products Containing Meat etc. (England) Regulations 
 (4) A product which—
 
 - (a) is subject to the Products Containing Meat etc. (England) Regulations 2014, but
-- (b) was, or would have been, outside the scope of those Regulations by virtue of regulation 3(3) of those Regulations, as it stood immediately before the amendments made by regulation 5 of these Regulations came into force, is not subject to the Products Containing Meat etc. (England) Regulations 2014 until 1st October 2022[^key-8bd43a4001110adc14e3dd49c63fc2d7].
+- (b) was, or would have been, outside the scope of those Regulations by virtue of regulation 3(3) of those Regulations, as it stood immediately before the amendments made by regulation 5 of these Regulations came into force, is not subject to the Products Containing Meat etc. (England) Regulations 2014 until 1st October 2022[^c-8bd43a4001110adc14e3dd49c63fc2d7].
 
 Victoria Prentis
 
@@ -164,24 +164,24 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00003]: Footnote: Section 48(4A) was inserted by paragraph 21 of Schedule 5 to the 1999 Act.
 
-[^key-a1eedbe1d2c9ee4967051a4384d52398]: Commencement: Reg. 1 in force at 17.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1)
+[^c-a1eedbe1d2c9ee4967051a4384d52398]: Commencement: Reg. 1 in force at 17.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1)
 
-[^key-a5e828cbf87d1343dc4eec6c062e628b]: Commencement: Reg. 2 in force at 17.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1)
+[^c-a5e828cbf87d1343dc4eec6c062e628b]: Commencement: Reg. 2 in force at 17.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1998/141](https://www.legislation.gov.uk/uksi/1998/141); relevant amending instruments are [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).
 
-[^key-b0b15a5dba8e38ff3d90b9f8fcfc0ca9]: Commencement: Reg. 3 in force at 17.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1)
+[^c-b0b15a5dba8e38ff3d90b9f8fcfc0ca9]: Commencement: Reg. 3 in force at 17.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2003/3120](https://www.legislation.gov.uk/uksi/2003/3120); relevant amendments are [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).
 
-[^key-d4eb8e88136997b3d7e0a9e975f59c5d]: Commencement: Reg. 4 in force at 17.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1)
+[^c-d4eb8e88136997b3d7e0a9e975f59c5d]: Commencement: Reg. 4 in force at 17.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2008/1287](https://www.legislation.gov.uk/uksi/2008/1287), amended by [S.I. 2013/2854](https://www.legislation.gov.uk/uksi/2013/2854).
 
-[^key-38ef5c217b972fdf0d8931b1c272a52a]: Commencement: Reg. 5 in force at 17.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1)
+[^c-38ef5c217b972fdf0d8931b1c272a52a]: Commencement: Reg. 5 in force at 17.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2014/3001](https://www.legislation.gov.uk/uksi/2014/3001) to which there are amendments not relevant to these Regulations.
 
-[^key-7fc9cbcea46557d2d5701fe2a628d06d]: Commencement: Reg. 6 in force at 17.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1)
+[^c-7fc9cbcea46557d2d5701fe2a628d06d]: Commencement: Reg. 6 in force at 17.6.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/616/regulation/1/1)
 
-[^key-8bd43a4001110adc14e3dd49c63fc2d7]: Textual amendment: Words in [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2021/616/regulation/6/4/b) substituted (12.12.2021) by [The Products Containing Meat etc. (England) (Amendment) Regulations 2021 (S.I. 2021/1271)](https://www.legislation.gov.uk/uksi/2021/1271), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1271/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/1271/regulation/3)
+[^c-8bd43a4001110adc14e3dd49c63fc2d7]: Textual amendment: Words in [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2021/616/regulation/6/4/b) substituted (12.12.2021) by [The Products Containing Meat etc. (England) (Amendment) Regulations 2021 (S.I. 2021/1271)](https://www.legislation.gov.uk/uksi/2021/1271), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1271/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/1271/regulation/3)

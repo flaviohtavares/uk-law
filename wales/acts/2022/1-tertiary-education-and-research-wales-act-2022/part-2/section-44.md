@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Change of registration category without application[^key-cb8bde64fc745f3fa948fff62d9c8ce1][^key-a049f7a517e2724d03316dd25ced5a5e]
+## 44. Change of registration category without application[^c-cb8bde64fc745f3fa948fff62d9c8ce1][^c-a049f7a517e2724d03316dd25ced5a5e]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ Where a registered provider is removed from a category of the register under sec
 
 ## Annotations
 
-[^key-cb8bde64fc745f3fa948fff62d9c8ce1]: Commencement: S. 44 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-cb8bde64fc745f3fa948fff62d9c8ce1]: Commencement: S. 44 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-a049f7a517e2724d03316dd25ced5a5e]: Commencement: [S. 44](https://www.legislation.gov.uk/asc/2022/1/section/44) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(q)](https://www.legislation.gov.uk/wsi/2025/432/article/2/q)
+[^c-a049f7a517e2724d03316dd25ced5a5e]: Commencement: [S. 44](https://www.legislation.gov.uk/asc/2022/1/section/44) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(q)](https://www.legislation.gov.uk/wsi/2025/432/article/2/q)

@@ -23,7 +23,7 @@ summary: ''
 (1) The moratorium in consequence of the taking of any step as mentioned in section 41—
 
 - (a) begins when the step is taken, and
-- (b) ends at the end of the period of 28 days beginning with the day on which notice of its having been taken was given to the Welsh Ministers[^key-056e78dee416c01b82be7c499a9de4ee] under that section,
+- (b) ends at the end of the period of 28 days beginning with the day on which notice of its having been taken was given to the Welsh Ministers[^c-056e78dee416c01b82be7c499a9de4ee] under that section,
 
 subject to the following provisions.
 
@@ -54,6 +54,6 @@ Notice of any such renewal shall be given by the Welsh Ministers to the persons 
 
 ## Annotations
 
-[^key-056e78dee416c01b82be7c499a9de4ee]: Textual amendment: Words in Pt. I substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(7)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/7), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-056e78dee416c01b82be7c499a9de4ee]: Textual amendment: Words in Pt. I substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(7)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/7), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
 [^c13149641]: Textual amendment: Words in Pt. I substituted (1.11.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 140](https://www.legislation.gov.uk/ukpga/1998/38/section/140), [Sch. 16 para. 82(1)(2)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/82/1/2) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [141(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/141/1), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art.5](https://www.legislation.gov.uk/uksi/1998/2244/article/5).

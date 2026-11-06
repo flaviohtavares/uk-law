@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Newly registered patients[^key-b067e67a3def6281ad32d30804b97c10]
+## 43. Newly registered patients[^c-b067e67a3def6281ad32d30804b97c10]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ that patient shall be regarded as a patient of the general medical services cont
 
 ## Annotations
 
-[^key-b067e67a3def6281ad32d30804b97c10]: Commencement: Art. 43 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-b067e67a3def6281ad32d30804b97c10]: Commencement: Art. 43 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

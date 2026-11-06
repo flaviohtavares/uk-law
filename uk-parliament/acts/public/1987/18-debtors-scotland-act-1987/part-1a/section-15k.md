@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15K. Recall or restriction of diligence on dependence[^key-3c7fe2f6760d57634f7fc25d56472f88]
+## 15K. Recall or restriction of diligence on dependence[^c-3c7fe2f6760d57634f7fc25d56472f88]
 
 *Extent: S*
 
@@ -55,7 +55,7 @@ an opportunity to be heard.
   - (ii) if an arrestment or inhibition has been executed in pursuance of the warrant, recalling that arrestment or inhibition; and
 - (b) may make an order ancillary to any order mentioned in paragraph (a) above.
 
-(5A)[^key-be3250d027ac5cfaa0e15b864a991d92] Where subsection (5B) applies and the court is satisfied that the creditor has not provided the debtor with a debt advice and information package it—
+(5A)[^c-be3250d027ac5cfaa0e15b864a991d92] Where subsection (5B) applies and the court is satisfied that the creditor has not provided the debtor with a debt advice and information package it—
 
 - (a) must make an order—
   - (i) recalling the warrant, and
@@ -92,7 +92,7 @@ the court may make any order such as is mentioned in subsection (2) above.
   - (ii) the likelihood of the debtor removing, disposing of, burdening, concealing or otherwise dealing with all or some of the debtor's assets; and
 - (c) that it is reasonable in all the circumstances, including the effect granting warrant may have had on any person having an interest, for the warrant or, as the case may be, any arrestment or inhibition executed in pursuance of it to continue to have effect.
 
-(10) The onus shall be on the creditor to satisfy the court that no order under subsection (5), (5A),[^key-5915f23ce51a991fc9d71cdac04d2a7e] (6), (7) or (8) above should be made.
+(10) The onus shall be on the creditor to satisfy the court that no order under subsection (5), (5A),[^c-5915f23ce51a991fc9d71cdac04d2a7e] (6), (7) or (8) above should be made.
 
 (11) In granting an application under subsection (2) above, the court may impose such conditions (if any) as it thinks fit.
 
@@ -112,8 +112,8 @@ as the court thinks fit.
 
 ## Annotations
 
-[^key-3c7fe2f6760d57634f7fc25d56472f88]: Textual amendment: Pt. 1A inserted (1.4.2008 except for the insertion of s. 15H(4), 22.4.2009 in so far as not already in force) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 169](https://www.legislation.gov.uk/asp/2007/3/section/169), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(1)(b)(i)](https://www.legislation.gov.uk/ssi/2008/115/article/3/1/b/i) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10), [15](https://www.legislation.gov.uk/ssi/2008/115/article/15)) (as amended: (23.2.2009) by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), art. 7; (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(a); and (4.10.2014) by [S.S.I. 2014/173](https://www.legislation.gov.uk/ssi/2014/173), arts. 1(2), 3); [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2009/67/article/3/1/c) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2009/67/article/4)) (as amended (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(b))
+[^c-3c7fe2f6760d57634f7fc25d56472f88]: Textual amendment: Pt. 1A inserted (1.4.2008 except for the insertion of s. 15H(4), 22.4.2009 in so far as not already in force) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 169](https://www.legislation.gov.uk/asp/2007/3/section/169), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(1)(b)(i)](https://www.legislation.gov.uk/ssi/2008/115/article/3/1/b/i) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10), [15](https://www.legislation.gov.uk/ssi/2008/115/article/15)) (as amended: (23.2.2009) by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), art. 7; (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(a); and (4.10.2014) by [S.S.I. 2014/173](https://www.legislation.gov.uk/ssi/2014/173), arts. 1(2), 3); [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2009/67/article/3/1/c) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2009/67/article/4)) (as amended (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(b))
 
-[^key-be3250d027ac5cfaa0e15b864a991d92]: Textual amendment: S. 15K(5A)(5B) inserted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 17(3)(a)](https://www.legislation.gov.uk/asp/2024/9/section/17/3/a), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3), [5](https://www.legislation.gov.uk/ssi/2024/373/regulation/5))
+[^c-be3250d027ac5cfaa0e15b864a991d92]: Textual amendment: S. 15K(5A)(5B) inserted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 17(3)(a)](https://www.legislation.gov.uk/asp/2024/9/section/17/3/a), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3), [5](https://www.legislation.gov.uk/ssi/2024/373/regulation/5))
 
-[^key-5915f23ce51a991fc9d71cdac04d2a7e]: Textual amendment: Word in s. 15K(10) inserted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 17(3)(b)](https://www.legislation.gov.uk/asp/2024/9/section/17/3/b), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3), [5](https://www.legislation.gov.uk/ssi/2024/373/regulation/5))
+[^c-5915f23ce51a991fc9d71cdac04d2a7e]: Textual amendment: Word in s. 15K(10) inserted (20.1.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 17(3)(b)](https://www.legislation.gov.uk/asp/2024/9/section/17/3/b), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2024/373](https://www.legislation.gov.uk/ssi/2024/373), [reg. 2](https://www.legislation.gov.uk/ssi/2024/373/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/ssi/2024/373/regulation/3), [5](https://www.legislation.gov.uk/ssi/2024/373/regulation/5))

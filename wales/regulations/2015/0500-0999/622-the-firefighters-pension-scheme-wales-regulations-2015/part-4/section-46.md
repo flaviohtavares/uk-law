@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Closure and re-establishment of active member’s account[^key-295aea8f365477c5318600a241fa4615]
+## 46. Closure and re-establishment of active member’s account[^c-295aea8f365477c5318600a241fa4615]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-295aea8f365477c5318600a241fa4615]: Commencement: Reg. 46 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-295aea8f365477c5318600a241fa4615]: Commencement: Reg. 46 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

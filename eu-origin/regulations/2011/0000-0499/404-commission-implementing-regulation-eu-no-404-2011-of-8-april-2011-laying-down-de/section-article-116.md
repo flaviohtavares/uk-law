@@ -22,10 +22,10 @@ summary: ''
 
 1. When the inspection report is established manually on a paper format, it shall be legible, indelible and clearly recorded. No entry in the report shall be erased or altered. If a mistake is made in a manually established report, the incorrect entry shall be struck out neatly and shall be initialled by the official concerned.
 
-2. The official responsible for the inspection shall sign the report. The operator shall be invited to sign the report. [^key-0e24c5a7d11b252fa9ec456242677b3c]... His/her signature shall constitute an acknowledgement of the report and shall not be regarded as an acceptance of the contents therein.
+2. The official responsible for the inspection shall sign the report. The operator shall be invited to sign the report. [^c-0e24c5a7d11b252fa9ec456242677b3c]... His/her signature shall constitute an acknowledgement of the report and shall not be regarded as an acceptance of the contents therein.
 
 3. Officials may establish inspection reports referred to in Article 115 of this Regulation by electronic means.
 
 ## Annotations
 
-[^key-0e24c5a7d11b252fa9ec456242677b3c]: Textual amendment: Words in [Art. 116(2)](https://www.legislation.gov.uk/eur/2011/404/article/116/2) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(86)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/86); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0e24c5a7d11b252fa9ec456242677b3c]: Textual amendment: Words in [Art. 116(2)](https://www.legislation.gov.uk/eur/2011/404/article/116/2) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(86)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/86); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

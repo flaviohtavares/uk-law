@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109B. >Entry, search and seizure[^key-21100f45c716f159bdf1f681c6e29471]
+## 109B. >Entry, search and seizure[^c-21100f45c716f159bdf1f681c6e29471]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21100f45c716f159bdf1f681c6e29471]: Textual amendment: [Ss. 109A](https://www.legislation.gov.uk/ukpga/1999/33/section/109A), [109B](https://www.legislation.gov.uk/ukpga/1999/33/section/109B) inserted (31.1.2008) by [UK Borders Act 2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30), [ss. 18](https://www.legislation.gov.uk/ukpga/2007/30/section/18), [59(2)](https://www.legislation.gov.uk/ukpga/2007/30/section/59/2); [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(h)](https://www.legislation.gov.uk/uksi/2008/99/article/2/h)
+[^c-21100f45c716f159bdf1f681c6e29471]: Textual amendment: [Ss. 109A](https://www.legislation.gov.uk/ukpga/1999/33/section/109A), [109B](https://www.legislation.gov.uk/ukpga/1999/33/section/109B) inserted (31.1.2008) by [UK Borders Act 2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30), [ss. 18](https://www.legislation.gov.uk/ukpga/2007/30/section/18), [59(2)](https://www.legislation.gov.uk/ukpga/2007/30/section/59/2); [S.I. 2008/99](https://www.legislation.gov.uk/uksi/2008/99), [art. 2(h)](https://www.legislation.gov.uk/uksi/2008/99/article/2/h)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The county court[^key-79d05647cc6806837498d682baff443b] has jurisdiction—
+(1) The county court[^c-79d05647cc6806837498d682baff443b] has jurisdiction—
 
 - (a) to entertain any proceedings brought under this Part, and
 - (b) to determine any question arising under this Part or under a conveyance or grant executed in pursuance of the right to acquire on rent to mortgage terms[^c15067761];
@@ -39,7 +39,7 @@ but subject to sections 128 , 128B[^c19909751], 155C and 158[^c19084931][^c15067
 
 [^c15067751]: Modification: Ss. 176, 177, 180, 181 applied by [Housing and Planning Act 1986 (c. 63, SIF 61)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 24(1)](https://www.legislation.gov.uk/ukpga/1986/63/section/24/1), [Sch. 5 Pt. I para. 5(6)](https://www.legislation.gov.uk/ukpga/1986/63/schedule/5/part/I/paragraph/5/6)
 
-[^key-79d05647cc6806837498d682baff443b]: Textual amendment: Words in s. 181(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-79d05647cc6806837498d682baff443b]: Textual amendment: Words in s. 181(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c15067761]: Textual amendment: Words in s. 181(1) substituted (11.10.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 187(1)](https://www.legislation.gov.uk/ukpga/1993/28/section/187/1), [Sch. 21 para. 23](https://www.legislation.gov.uk/ukpga/1993/28/schedule/21/paragraph/23); [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [arts. 2](https://www.legislation.gov.uk/uksi/1993/2134/article/2), [4(b)](https://www.legislation.gov.uk/uksi/1993/2134/article/4/b) (with saving in [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/uksi/1993/2134/schedule/1/paragraph/4/1)).
 

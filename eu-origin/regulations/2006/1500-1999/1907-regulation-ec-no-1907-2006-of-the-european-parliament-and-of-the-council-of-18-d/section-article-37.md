@@ -28,7 +28,7 @@ Distributors shall pass on such information to the next actor or distributor up 
 
 3. For registered substances, the manufacturer, importer or downstream user shall comply with the obligations laid down in Article 14 either before he next supplies the substance on its own or in a mixture to the downstream user making the request referred to in paragraph 2 of this Article, provided that the request was made at least one month before the supply, or within one month after the request, whichever is the later.
 
-[^key-a5c41ba432a5e2ef801de77ef2e576e6]...
+[^c-a5c41ba432a5e2ef801de77ef2e576e6]...
 
 Where the manufacturer, importer or downstream user, having assessed the use in accordance with Article 14, is unable to include it as an identified use for reasons of protection of human health or the environment, he shall provide the Agency and the downstream user with the reason(s) for that decision in writing without delay and shall not supply downstream user(s) with the substance without including these reason(s) in the information referred to under Articles 31 or 32. The manufacturer or importer shall include this use in Section 3.7 of Annex VI in his update of the registration in accordance with Article 22(1)(d).
 
@@ -61,4 +61,4 @@ A downstream user need not prepare such a chemical safety report in any of the f
 
 [^c000002]: Textual amendment: Substituted by [Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2008/1272).
 
-[^key-a5c41ba432a5e2ef801de77ef2e576e6]: Textual amendment: Words in [Art. 37(3)](https://www.legislation.gov.uk/eur/2006/1907/article/37/3) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a5c41ba432a5e2ef801de77ef2e576e6]: Textual amendment: Words in [Art. 37(3)](https://www.legislation.gov.uk/eur/2006/1907/article/37/3) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

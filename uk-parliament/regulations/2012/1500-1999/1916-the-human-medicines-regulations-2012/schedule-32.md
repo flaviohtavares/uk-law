@@ -84,7 +84,7 @@ Regulation 347
 
 (9) Without prejudice to any requirement of Part 1 of Schedule 11 as to the service of notices, where in the exercise of any such power the licensing authority suspends, revokes or varies a product licence of right, it must serve a notice on the holder a notice giving particulars of the suspension, revocation or variation and of the reasons for its decision to suspend, vary or revoke the product licence of right.
 
-(10) Regulations 268 (offences relating to packaging and package leaflets in Great Britain: authorisation holders), 268A (offences relating to packaging and package leaflets in Northern Ireland: authorisation holders), 269 (offences relating to packaging and package leaflets in Great Britain: other persons), 269A (offences relating to packaging and package leaflets in Northern Ireland: other persons)[^key-edd389f021a3d959e9f3819a224ca0c5] and 271 (offences: penalties) shall have effect in relation to the provisions in sub-paragraph (7)(d) as if—
+(10) Regulations 268 (offences relating to packaging and package leaflets in Great Britain: authorisation holders), 268A (offences relating to packaging and package leaflets in Northern Ireland: authorisation holders), 269 (offences relating to packaging and package leaflets in Great Britain: other persons), 269A (offences relating to packaging and package leaflets in Northern Ireland: other persons)[^c-edd389f021a3d959e9f3819a224ca0c5] and 271 (offences: penalties) shall have effect in relation to the provisions in sub-paragraph (7)(d) as if—
 
 - (a) references to the holder of a marketing authorisation included reference to the holder of a product licence of right; and
 - (b) the provisions in sub-paragraph (7)(d) were requirements of Part 13.
@@ -145,7 +145,7 @@ Regulation 347
 
 [^c21329261]: Marginal citation: [S.I. 1978/41](https://www.legislation.gov.uk/uksi/1978/41), as amended by [S.I. 2004/1771](https://www.legislation.gov.uk/uksi/2004/1771).
 
-[^key-edd389f021a3d959e9f3819a224ca0c5]: Textual amendment: Words in Sch. 32 para. 3(10) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 224ZD](https://www.legislation.gov.uk/uksi/2019/775/regulation/224ZD) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 183](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/183))
+[^c-edd389f021a3d959e9f3819a224ca0c5]: Textual amendment: Words in Sch. 32 para. 3(10) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 224ZD](https://www.legislation.gov.uk/uksi/2019/775/regulation/224ZD) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 183](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/183))
 
 [^c21329271]: Marginal citation: [S.I. 2010/1882](https://www.legislation.gov.uk/uksi/2010/1882).
 

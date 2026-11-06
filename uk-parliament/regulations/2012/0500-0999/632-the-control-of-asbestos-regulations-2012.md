@@ -86,7 +86,7 @@ These Regulations may be cited as the Control of Asbestos Regulations 2012 and c
   - (a) police, fire, rescue and ambulance services;
   - (b) Her Majesty's Coastguard;
 - “**employment medical adviser**” means an employment medical adviser appointed under section 56 of the 1974 Act [^c21193521];
-- “enforcing authority” means the Executive, the Office for Nuclear Regulation, local authority or[^key-7233774c4748e311afff92e6e46df77c] Office of Rail Regulation *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-b09a28b6c7e3124ba6dfe804b55c9aa4] Office of Rail and Road *(Extent: E+W+S)* determined in accordance with—
+- “enforcing authority” means the Executive, the Office for Nuclear Regulation, local authority or[^c-7233774c4748e311afff92e6e46df77c] Office of Rail Regulation *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-b09a28b6c7e3124ba6dfe804b55c9aa4] Office of Rail and Road *(Extent: E+W+S)* determined in accordance with—
   - (a) section 18(1A) of the Health and Safety at Work etc. Act 1974;
   - (b) the provisions of the Health and Safety (Enforcing Authority) Regulations 1998; and
   - (c) the provisions of the Health and Safety (Enforcing Authority for Railways and Other Guided Transport Systems) Regulations 2006;
@@ -103,7 +103,7 @@ These Regulations may be cited as the Control of Asbestos Regulations 2012 and c
 - “**medical examination**” includes any laboratory tests and X-rays that a relevant doctor may require;
 - “**personal protective equipment**” means all equipment (including clothing) which is intended to be worn or held by a person at work and which protects that person against one or more risks to that person's health, and any addition or accessory designed to meet that objective;
 - “**relevant doctor**” means an appointed doctor or an employment medical adviser. In relation to work with asbestos which is not licensable work with asbestos and is not exempted by regulation 3(2) “relevant doctor” also includes an appropriate fully registered medical practitioner who holds a licence to practice;
-- “relevant nuclear premises” means premises which are, or are on—[^key-c739ec858c87ed057a754eceb0b8d903]
+- “relevant nuclear premises” means premises which are, or are on—[^c-c739ec858c87ed057a754eceb0b8d903]
   - (a) a GB nuclear site (within the meaning given in section 68 of the Energy Act 2013),
   - (b) authorised defence site (within the meaning given in regulation 2(1) of the Health and Safety (Enforcing Authority) Regulations 1998),
   - (c) a nuclear new build site (within the meaning given in regulation 2A of those Regulations);
@@ -149,7 +149,7 @@ These Regulations may be cited as the Control of Asbestos Regulations 2012 and c
 
 (4) Regulation 17 (cleanliness of premises and plant), to the extent that it requires an employer to ensure that premises are thoroughly cleaned, does not apply—
 
-- (a) in England and Wales, to a fire and rescue authority within the meaning of section 1 of the Fire and Rescue Services Act 2004 [^c21193591] or, in Scotland, to a relevant authority within the meaning of section 6 of the Fire (Scotland) Act 2005 *(Extent: S)* *(affected by repeal, see note)*[^key-8bb41c03c402f2dbbddaa79ccc88679a] the Scottish Fire and Rescue Service *(Extent: S)*, in respect of premises attended by its employees for the purpose of fighting a fire or in an emergency; or
+- (a) in England and Wales, to a fire and rescue authority within the meaning of section 1 of the Fire and Rescue Services Act 2004 [^c21193591] or, in Scotland, to a relevant authority within the meaning of section 6 of the Fire (Scotland) Act 2005 *(Extent: S)* *(affected by repeal, see note)*[^c-8bb41c03c402f2dbbddaa79ccc88679a] the Scottish Fire and Rescue Service *(Extent: S)*, in respect of premises attended by its employees for the purpose of fighting a fire or in an emergency; or
 - (b) to the employer of persons who attend a ship in dock premises for the purpose of fighting a fire or in an emergency, in respect of any ship so attended,
 
 and for the purposes of this paragraph “**ship**” includes all vessels and hovercraft which operate on water or land and water, and “**dock premises**” means a dock, wharf, quay, jetty or other place at which ships load or unload goods or embark or disembark passengers, together with neighbouring land or water which is used or occupied, or intended to be used or occupied, for those or incidental activities, and any part of a ship when used for those or incidental activities.
@@ -363,7 +363,7 @@ and the employer must so far as is reasonably practicable provide any employee c
 
 (4) Personal protective equipment provided by an employer in accordance with this regulation or with regulation 14(1) must be suitable for its purpose and—
 
-- (a) comply with any legal requirement[^key-9b24f2e92ddd363ce33d9dd094992314] which is applicable to that item of personal protective equipment; or
+- (a) comply with any legal requirement[^c-9b24f2e92ddd363ce33d9dd094992314] which is applicable to that item of personal protective equipment; or
 - (b) in the case of respiratory protective equipment, where no provision referred to in sub-paragraph (a) applies, be of a type approved or must conform to a standard approved, in either case, by the Executive.
 
 (5) The employer must—
@@ -374,7 +374,7 @@ and the employer must so far as is reasonably practicable provide any employee c
   - (ii) as soon as is reasonably practicable identify the reasons for the control limit being exceeded and take the appropriate measures to prevent it being exceeded again, and
   - (iii) check the effectiveness of the measures taken pursuant to sub-paragraph (ii) by carrying out immediate air monitoring.
 
-(6)[^key-3b3c9dc561c5700865431e5463ae58df] In paragraph (4)(a), “legal requirement” means any requirement of the Personal Protective Equipment Regulations 2002 or Regulation (EU) 2016/425 of the European Parliament and of the Council on personal protective equipment and repealing Council [Directive 89/686/EEC](https://www.legislation.gov.uk/european/directive/1989/0686) [^key-2f23d09d399a32de9ce689d3af943229]....
+(6)[^c-3b3c9dc561c5700865431e5463ae58df] In paragraph (4)(a), “legal requirement” means any requirement of the Personal Protective Equipment Regulations 2002 or Regulation (EU) 2016/425 of the European Parliament and of the Council on personal protective equipment and repealing Council [Directive 89/686/EEC](https://www.legislation.gov.uk/european/directive/1989/0686) [^c-2f23d09d399a32de9ce689d3af943229]....
 
 ### 12. Use of control measures etc
 
@@ -506,10 +506,10 @@ from the date of the last entry made in it.
 (5) In relation to the record required by paragraph (3), the employer must—
 
 - (a) on reasonable notice being given, allow an employee access to the personal monitoring record for that employee;
-- (b) provide the appropriate authority[^key-123e2f7b084e158ce2c93d842bb70753] with copies of such monitoring records as the appropriate authority may require; and
+- (b) provide the appropriate authority[^c-123e2f7b084e158ce2c93d842bb70753] with copies of such monitoring records as the appropriate authority may require; and
 - (c) if that employer ceases to trade, notify the Executive without delay in writing and make available to the Executive all monitoring records kept by that employer.
 
-(6)[^key-50d0d1c7f68372147ba40059c1803895] In this regulation “the appropriate authority” means—
+(6)[^c-50d0d1c7f68372147ba40059c1803895] In this regulation “the appropriate authority” means—
 
 - (a) in relation to any record which relates to employment wholly or mainly on relevant nuclear premises, the Office for Nuclear Regulation,
 - (b) otherwise, the Executive.
@@ -571,10 +571,10 @@ and the employer must keep that certificate, or a copy of that certificate for a
 (8) The employer must—
 
 - (a) on reasonable notice being given, allow an employee access to that employee's personal health record;
-- (b) provide the appropriate authority[^key-e7d2c94bb57b1033051c737a4c6da45e] with copies of such personal health records as the appropriate authority may require; and
+- (b) provide the appropriate authority[^c-e7d2c94bb57b1033051c737a4c6da45e] with copies of such personal health records as the appropriate authority may require; and
 - (c) if the employer ceases to trade notify the Executive without delay in writing and make available to the Executive all personal health records kept by that employer.
 
-(8A)[^key-902eeb08797c40475ae29bb634fcfa98] In paragraph (8) “the appropriate authority” has the same meaning as in regulation 19.
+(8A)[^c-902eeb08797c40475ae29bb634fcfa98] In paragraph (8) “the appropriate authority” has the same meaning as in regulation 19.
 
 (9) Where, as a result of medical surveillance, an employee is found to have an identifiable disease or adverse health effect which is considered by a relevant doctor to be the result of exposure to asbestos at work, the employer of that employee must—
 
@@ -709,9 +709,9 @@ and any requirement in such a licence concerning notification or any exception t
 
 (2) The amendments listed in Schedule 3 will have effect.
 
-(3) Any record or register required to be kept under the Regulations revoked either by paragraph (1), or by any of the Regulations revoked by regulation 36(1) of the Control of Asbestos Regulations 2006 or by regulation 27(1) of the Control of Asbestos at Work Regulations 2002 shall, notwithstanding that revocation, be kept in the same manner and for the same period as specified in those Regulations as if these Regulations had not been made, except that the appropriate authority[^key-fea7280d8ee84498c24ef2ec4a148e1f] may approve the keeping of records at a place or in a form other than at the place where, or in the form in which, records were required to be kept under the Regulations so revoked.
+(3) Any record or register required to be kept under the Regulations revoked either by paragraph (1), or by any of the Regulations revoked by regulation 36(1) of the Control of Asbestos Regulations 2006 or by regulation 27(1) of the Control of Asbestos at Work Regulations 2002 shall, notwithstanding that revocation, be kept in the same manner and for the same period as specified in those Regulations as if these Regulations had not been made, except that the appropriate authority[^c-fea7280d8ee84498c24ef2ec4a148e1f] may approve the keeping of records at a place or in a form other than at the place where, or in the form in which, records were required to be kept under the Regulations so revoked.
 
-(4)[^key-00eb7f9554146d17b78f0f612b92fb53] In this regulation “the appropriate authority” means—
+(4)[^c-00eb7f9554146d17b78f0f612b92fb53] In this regulation “the appropriate authority” means—
 
 - (a) in any case in which it is the enforcing authority for these Regulations, the Office for Nuclear Regulations;
 - (b) otherwise, the Executive.
@@ -769,7 +769,7 @@ Regulations 14(4), 24(2) and (3) and 27
 
 **1.** (1) Subject to sub-paragraphs (2) and (3), the label to be used on—
 
-- (a)[^key-35767d196a8c2f7db23f9f578598e090] raw asbestos, together with the labelling required under—
+- (a)[^c-35767d196a8c2f7db23f9f578598e090] raw asbestos, together with the labelling required under—
   - (i) Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time; and
   - (ii) the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009;
 - (b) asbestos waste, when required to be so labelled by regulation 24(3); and
@@ -885,15 +885,15 @@ Regulation 33(2)
 
 [^c21193521]: Marginal citation: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37); section 56(3) was amended by the Medical Act 1983 (Amendment Order) 2002, [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
-[^key-7233774c4748e311afff92e6e46df77c]: Textual amendment: Words in reg. 2 substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(2)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/2/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-7233774c4748e311afff92e6e46df77c]: Textual amendment: Words in reg. 2 substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(2)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/2/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-b09a28b6c7e3124ba6dfe804b55c9aa4]: Textual amendment: Words in reg. 2(1) substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(dd)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/dd)
+[^c-b09a28b6c7e3124ba6dfe804b55c9aa4]: Textual amendment: Words in reg. 2(1) substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(dd)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/dd)
 
 [^c21193551]: Marginal citation: The most recent version is reference number EN ISO/IEC 17020: 2004, accepted by CEN/CENELEC on 15th July 2004.
 
 [^c21193561]: Marginal citation: The most recent version is reference number EN ISO/IEC 17025:2005, accepted by CEN/CENELEC on 15th March 2005.
 
-[^key-c739ec858c87ed057a754eceb0b8d903]: Textual amendment: Words in reg. 2 inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(2)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/2/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-c739ec858c87ed057a754eceb0b8d903]: Textual amendment: Words in reg. 2 inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(2)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/2/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c21193571]: Marginal citation: ISBN 92 4 154496 1.
 
@@ -901,23 +901,23 @@ Regulation 33(2)
 
 [^c21193591]: Marginal citation: [2004 c.21](https://www.legislation.gov.uk/ukpga/2004/21); section 1(2)(d) was amended by the [Civil Contingencies Act 2004 (c.36)](https://www.legislation.gov.uk/ukpga/2004/36), [section 32(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/32/1) and Schedule 2, Part 1, paragraph 10(1) and (2).
 
-[^key-8bb41c03c402f2dbbddaa79ccc88679a]: Textual amendment: Words in reg. 3(4)(a) substituted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 27](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/27)
+[^c-8bb41c03c402f2dbbddaa79ccc88679a]: Textual amendment: Words in reg. 3(4)(a) substituted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 2 para. 27](https://www.legislation.gov.uk/ssi/2013/119/schedule/2/paragraph/27)
 
-[^key-9b24f2e92ddd363ce33d9dd094992314]: Textual amendment: Words in [reg. 11(4)(a)](https://www.legislation.gov.uk/uksi/2012/632/regulation/11/4/a) substituted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 12(a)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/12/a) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+[^c-9b24f2e92ddd363ce33d9dd094992314]: Textual amendment: Words in [reg. 11(4)(a)](https://www.legislation.gov.uk/uksi/2012/632/regulation/11/4/a) substituted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 12(a)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/12/a) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
 
-[^key-3b3c9dc561c5700865431e5463ae58df]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/uksi/2012/632/regulation/11/6) inserted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 12(b)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/12/b) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
+[^c-3b3c9dc561c5700865431e5463ae58df]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/uksi/2012/632/regulation/11/6) inserted (21.4.2018) by [The Personal Protective Equipment (Enforcement) Regulations 2018 (S.I. 2018/390)](https://www.legislation.gov.uk/uksi/2018/390), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/390/regulation/1/1), [Sch. 5 para. 12(b)](https://www.legislation.gov.uk/uksi/2018/390/schedule/5/paragraph/12/b) (with [reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2018/390/regulation/2/1))
 
-[^key-2f23d09d399a32de9ce689d3af943229]: Textual amendment: Words in [reg. 11(6)](https://www.legislation.gov.uk/uksi/2012/632/regulation/11/6) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 35 para. 2(10)](https://www.legislation.gov.uk/uksi/2019/696/schedule/35/paragraph/2/10) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f23d09d399a32de9ce689d3af943229]: Textual amendment: Words in [reg. 11(6)](https://www.legislation.gov.uk/uksi/2012/632/regulation/11/6) omitted (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 35 para. 2(10)](https://www.legislation.gov.uk/uksi/2019/696/schedule/35/paragraph/2/10) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21193621]: Marginal citation: [S.I. 1999/3242](https://www.legislation.gov.uk/uksi/1999/3242), as amended by [S.I. 2003/2457](https://www.legislation.gov.uk/uksi/2003/2457), 2005/1541, 2006/438, 2006/457 and 2006/484.
 
-[^key-123e2f7b084e158ce2c93d842bb70753]: Textual amendment: Words in [reg. 19(5)(b)](https://www.legislation.gov.uk/uksi/2012/632/regulation/19/5/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(3)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/3/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-123e2f7b084e158ce2c93d842bb70753]: Textual amendment: Words in [reg. 19(5)(b)](https://www.legislation.gov.uk/uksi/2012/632/regulation/19/5/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(3)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/3/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-50d0d1c7f68372147ba40059c1803895]: Textual amendment: [Reg. 19(6)](https://www.legislation.gov.uk/uksi/2012/632/regulation/19/6) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(3)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/3/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-50d0d1c7f68372147ba40059c1803895]: Textual amendment: [Reg. 19(6)](https://www.legislation.gov.uk/uksi/2012/632/regulation/19/6) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(3)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/3/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-e7d2c94bb57b1033051c737a4c6da45e]: Textual amendment: Words in [reg. 22(8)(b)](https://www.legislation.gov.uk/uksi/2012/632/regulation/22/8/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(4)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/4/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-e7d2c94bb57b1033051c737a4c6da45e]: Textual amendment: Words in [reg. 22(8)(b)](https://www.legislation.gov.uk/uksi/2012/632/regulation/22/8/b) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(4)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/4/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-902eeb08797c40475ae29bb634fcfa98]: Textual amendment: [Reg. 22(8A)](https://www.legislation.gov.uk/uksi/2012/632/regulation/22/8A) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(4)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/4/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-902eeb08797c40475ae29bb634fcfa98]: Textual amendment: [Reg. 22(8A)](https://www.legislation.gov.uk/uksi/2012/632/regulation/22/8A) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(4)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/4/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c21193631]: Marginal citation: [S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348), as amended by [S.I. 2011/1885](https://www.legislation.gov.uk/uksi/2011/1885).
 
@@ -933,10 +933,10 @@ Regulation 33(2)
 
 [^c21193691]: Marginal citation: [S.I. 2002/2675](https://www.legislation.gov.uk/uksi/2002/2675), revoked by [S.I. 2006/2739](https://www.legislation.gov.uk/uksi/2006/2739).
 
-[^key-fea7280d8ee84498c24ef2ec4a148e1f]: Textual amendment: Words in [reg. 33(3)](https://www.legislation.gov.uk/uksi/2012/632/regulation/33/3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(5)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/5/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-fea7280d8ee84498c24ef2ec4a148e1f]: Textual amendment: Words in [reg. 33(3)](https://www.legislation.gov.uk/uksi/2012/632/regulation/33/3) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(5)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/5/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-00eb7f9554146d17b78f0f612b92fb53]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/uksi/2012/632/regulation/33/4) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(5)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/5/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-00eb7f9554146d17b78f0f612b92fb53]: Textual amendment: [Reg. 33(4)](https://www.legislation.gov.uk/uksi/2012/632/regulation/33/4) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 145(5)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/145/5/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c21193701]: Marginal citation: [S.I.1999/3242](https://www.legislation.gov.uk/uksi/1999/3242), as amended by [S.I. 2003/2457](https://www.legislation.gov.uk/uksi/2003/2457), 2005/1541, 2006/438, 2006/457 and 2006/484.
 
-[^key-35767d196a8c2f7db23f9f578598e090]: Textual amendment: [Sch. 2 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2012/632/schedule/2/paragraph/1/1/a) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [21(2)](https://www.legislation.gov.uk/uksi/2015/21/regulation/21/2)
+[^c-35767d196a8c2f7db23f9f578598e090]: Textual amendment: [Sch. 2 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2012/632/schedule/2/paragraph/1/1/a) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [21(2)](https://www.legislation.gov.uk/uksi/2015/21/regulation/21/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## Schedule 2 — Procurement under cross-border arrangements[^key-d6ae34a478bfdfc545bb06cf5629ab76]
+## Schedule 2 — Procurement under cross-border arrangements[^c-d6ae34a478bfdfc545bb06cf5629ab76]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ section 3A
 
 ## Annotations
 
-[^key-d6ae34a478bfdfc545bb06cf5629ab76]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/asp/2014/12/schedule/2) inserted (20.12.2025) by [The Cross-Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392)](https://www.legislation.gov.uk/ssi/2025/392), [regs. 1](https://www.legislation.gov.uk/ssi/2025/392/regulation/1), [5(6)](https://www.legislation.gov.uk/ssi/2025/392/regulation/5/6)
+[^c-d6ae34a478bfdfc545bb06cf5629ab76]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/asp/2014/12/schedule/2) inserted (20.12.2025) by [The Cross-Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392)](https://www.legislation.gov.uk/ssi/2025/392), [regs. 1](https://www.legislation.gov.uk/ssi/2025/392/regulation/1), [5(6)](https://www.legislation.gov.uk/ssi/2025/392/regulation/5/6)

@@ -14,10 +14,10 @@ summary: ''
 
 > Text as at 2015-05-26.
 
-## 49. Date on which council tax benefit is to end where entitlement to severe disablement allowance or incapacity benefit ceases[^key-8960fb3dc043aea4998bff26f94cf6b7]
+## 49. Date on which council tax benefit is to end where entitlement to severe disablement allowance or incapacity benefit ceases[^c-8960fb3dc043aea4998bff26f94cf6b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8960fb3dc043aea4998bff26f94cf6b7]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/uksi/2006/216/regulation/49) omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [11(5)(a)](https://www.legislation.gov.uk/uksi/2008/959/regulation/11/5/a)
+[^c-8960fb3dc043aea4998bff26f94cf6b7]: Textual amendment: [Reg. 49](https://www.legislation.gov.uk/uksi/2006/216/regulation/49) omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [11(5)(a)](https://www.legislation.gov.uk/uksi/2008/959/regulation/11/5/a)

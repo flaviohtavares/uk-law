@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Restrictions on general partners[^key-7cbefd35ee1314b0e80b61144209064a]
+## 118. Restrictions on general partners[^c-7cbefd35ee1314b0e80b61144209064a]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7cbefd35ee1314b0e80b61144209064a]: Commencement: S. 118 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-7cbefd35ee1314b0e80b61144209064a]: Commencement: S. 118 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

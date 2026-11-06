@@ -24,7 +24,7 @@ Section 3
 
 ### Allowances
 
-**1.**[^key-234d1cd27f660af24143b33852a25cbf] (1) The occupant of the Mayor's Office for Policing and Crime is to be paid authorised allowances.
+**1.**[^c-234d1cd27f660af24143b33852a25cbf] (1) The occupant of the Mayor's Office for Policing and Crime is to be paid authorised allowances.
 
 (2) In this paragraph “**authorised allowances**” means allowances, in respect of expenses incurred by the occupant of the Mayor's Office for Policing and Crime in the exercise of the functions of that Office, which are of the kinds and amounts designated by the Secretary of State as payable in accordance with this paragraph.
 
@@ -34,13 +34,13 @@ Section 3
 
 ### Staff
 
-**2.**[^key-f0675d5f5cb681adeec5938ba0dab09b] (1) The Mayor's Office for Policing and Crime must appoint a person to be the head of that Office's staff (referred to in this Part as the chief executive of the Mayor's Office for Policing and Crime).
+**2.**[^c-f0675d5f5cb681adeec5938ba0dab09b] (1) The Mayor's Office for Policing and Crime must appoint a person to be the head of that Office's staff (referred to in this Part as the chief executive of the Mayor's Office for Policing and Crime).
 
 (2) The Mayor's Office for Policing and Crime may appoint such other staff (in addition to the chief executive, and the chief finance officer appointed under section 127(2) of the Greater London Authority Act 1999) as the Office thinks appropriate to enable the Office to exercise its functions.
 
 (3) A reference in any enactment to the officers of a functional body of the Greater London Authority is, in the case of the Mayor's Office for Policing and Crime, to be read as a reference to the staff of that Office.
 
-**3.**[^key-503c61861c263e49c3d3c83f5a56b948] (1) The Mayor's Office for Policing and Crime must appoint a person to act as chief executive, if and for as long as—
+**3.**[^c-503c61861c263e49c3d3c83f5a56b948] (1) The Mayor's Office for Policing and Crime must appoint a person to act as chief executive, if and for as long as—
 
 - (a) that post is vacant, or
 - (b) the holder of that post is, in the opinion of the Mayor's Office for Policing and Crime, unable to carry out the duties of that post.
@@ -49,7 +49,7 @@ Section 3
 
 ### The Deputy Mayor for Policing and Crime
 
-**4.**[^key-f304e457f15d2e61d81d36c80c2f4ca9] (1) This paragraph applies to the person appointed under section 19 to be the Deputy Mayor for Policing and Crime.
+**4.**[^c-f304e457f15d2e61d81d36c80c2f4ca9] (1) This paragraph applies to the person appointed under section 19 to be the Deputy Mayor for Policing and Crime.
 
 (2) None of the following may be appointed as the Deputy Mayor for Policing and Crime—
 
@@ -78,7 +78,7 @@ Section 3
 
 ### Notification of appointments
 
-**5.**[^key-e29e95b5a7dc59914f601f3548dd75d4] (1) This paragraph applies to every appointment of a member of staff of the Mayor's Office for Policing and Crime.
+**5.**[^c-e29e95b5a7dc59914f601f3548dd75d4] (1) This paragraph applies to every appointment of a member of staff of the Mayor's Office for Policing and Crime.
 
 (2) The Mayor's Office for Policing and Crime must notify the London Assembly of—
 
@@ -90,7 +90,7 @@ Section 3
 
 ### Remuneration etc of staff
 
-**6.**[^key-c0e404333a8d862719196394cca45993] (1) The Mayor's Office for Policing and Crime may pay remuneration, allowances and gratuities to the members of the staff of the Office.
+**6.**[^c-c0e404333a8d862719196394cca45993] (1) The Mayor's Office for Policing and Crime may pay remuneration, allowances and gratuities to the members of the staff of the Office.
 
 (2) The Mayor's Office for Policing and Crime may pay—
 
@@ -101,7 +101,7 @@ Section 3
 
 ### Incidental powers
 
-**7.**[^key-dcf8bc11a1580a17c46362377a542d2c] (1) The Mayor's Office for Policing and Crime may do anything which is calculated to facilitate, or is conducive or incidental to, the exercise of the functions of the Office.
+**7.**[^c-dcf8bc11a1580a17c46362377a542d2c] (1) The Mayor's Office for Policing and Crime may do anything which is calculated to facilitate, or is conducive or incidental to, the exercise of the functions of the Office.
 
 (2) That includes—
 
@@ -113,13 +113,13 @@ Section 3
 
 ### Protection from personal liability
 
-**8.**[^key-011038d0e9a087360d179ba293653bbb] (1) A person who is the occupant of the Mayor's Office for Policing and Crime has no personal liability for an act or omission done by the person in the exercise of the functions of the office unless it is shown to have been done otherwise than in good faith.
+**8.**[^c-011038d0e9a087360d179ba293653bbb] (1) A person who is the occupant of the Mayor's Office for Policing and Crime has no personal liability for an act or omission done by the person in the exercise of the functions of the office unless it is shown to have been done otherwise than in good faith.
 
 (2) A person who is a member of staff of the Mayor's Office for Policing and Crime has no personal liability for an act or omission done by the person in the carrying out of duties as a member of staff unless it is shown to have been done otherwise than in good faith.
 
 ### Financial year
 
-**9.**[^key-9cbf5eccbeb5e9c2a010e3e8854d5794] (1) The first financial year of the Mayor's Office for Policing and Crime is the period that—
+**9.**[^c-9cbf5eccbeb5e9c2a010e3e8854d5794] (1) The first financial year of the Mayor's Office for Policing and Crime is the period that—
 
 - (a) begins with the day on which section 3 comes into force, and
 - (b) ends with the relevant 31 March.
@@ -133,20 +133,20 @@ Section 3
 
 ## Annotations
 
-[^key-234d1cd27f660af24143b33852a25cbf]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/1) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-234d1cd27f660af24143b33852a25cbf]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/1) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-f0675d5f5cb681adeec5938ba0dab09b]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/2) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-f0675d5f5cb681adeec5938ba0dab09b]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/2) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-503c61861c263e49c3d3c83f5a56b948]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/3) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-503c61861c263e49c3d3c83f5a56b948]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/3) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-f304e457f15d2e61d81d36c80c2f4ca9]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/4) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-f304e457f15d2e61d81d36c80c2f4ca9]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/4) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-e29e95b5a7dc59914f601f3548dd75d4]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/5) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-e29e95b5a7dc59914f601f3548dd75d4]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/5) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-c0e404333a8d862719196394cca45993]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/6) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-c0e404333a8d862719196394cca45993]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/6) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-dcf8bc11a1580a17c46362377a542d2c]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/7) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-dcf8bc11a1580a17c46362377a542d2c]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/7) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-011038d0e9a087360d179ba293653bbb]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/8) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-011038d0e9a087360d179ba293653bbb]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/8) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-9cbf5eccbeb5e9c2a010e3e8854d5794]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/9) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-9cbf5eccbeb5e9c2a010e3e8854d5794]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2011/13/schedule/3/paragraph/9) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

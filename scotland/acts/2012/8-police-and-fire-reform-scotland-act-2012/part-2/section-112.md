@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Delegation[^key-e36b5d9611f4876455c3da698de1ade9]
+## 112. Delegation[^c-e36b5d9611f4876455c3da698de1ade9]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ In section 36 of the 2005 Act (power to make arrangements for delegating functio
 
 ## Annotations
 
-[^key-e36b5d9611f4876455c3da698de1ade9]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2012/8/section/112) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-e36b5d9611f4876455c3da698de1ade9]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2012/8/section/112) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

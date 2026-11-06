@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 77. Circumstances in which a person is to be treated as responsible or not responsible for another[^key-ca9404afa29c4a7180acf367d0ae7b92]
+## 77. Circumstances in which a person is to be treated as responsible or not responsible for another[^c-ca9404afa29c4a7180acf367d0ae7b92]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca9404afa29c4a7180acf367d0ae7b92]: Commencement: Reg. 77 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-ca9404afa29c4a7180acf367d0ae7b92]: Commencement: Reg. 77 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

@@ -39,7 +39,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(2A)[^key-bde29dff62f275c8da3167da515310bb] Subsection (2B) applies if the regulated agreement is a green deal plan (within the meaning of section 1 of the Energy Act 2011) *(affected by repeal, see note)*[^key-0bfb127c505b0d6b5dbbc0dd02268f29].
+(2A)[^c-bde29dff62f275c8da3167da515310bb] Subsection (2B) applies if the regulated agreement is a green deal plan (within the meaning of section 1 of the Energy Act 2011) *(affected by repeal, see note)*[^c-0bfb127c505b0d6b5dbbc0dd02268f29].
 
 (2B (Extent: E+W+S)) Any duty imposed on the creditor by this section may be discharged by another person acting on the creditor's behalf. *(Extent: E+W+S)*
 
@@ -68,7 +68,7 @@ summary: ''
 - (a) begins immediately after the end of the period mentioned in [^c19903521]. . . subsection (5); and
 - (b) ends at the end of the day on which the statement is given to the debtor or on which the conditions mentioned in subsection (4) are satisfied, whichever is earlier.
 
-(8) This section does not apply in relation to—[^key-89cca0a174e15311cab0058b6d74195e]
+(8) This section does not apply in relation to—[^c-89cca0a174e15311cab0058b6d74195e]
 
 - (a) a non-commercial agreement,
 - (b) a small agreement, or
@@ -84,9 +84,9 @@ summary: ''
 
 [^c19903271]: Textual amendment: S. 77A(1)-(1E) substituted for s. 77A(1) (31.10.2008) by [The Legislative Reform (Consumer Credit) Order 2008 (S.I. 2008/2826)](https://www.legislation.gov.uk/uksi/2008/2826), [art. 4(a)](https://www.legislation.gov.uk/uksi/2008/2826/article/4/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2008/2826/article/5))
 
-[^key-bde29dff62f275c8da3167da515310bb]: Textual amendment: S. 77A(2A)(2B) inserted (E.W.S.) (28.1.2013) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/27/3), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/125/article/3/b)
+[^c-bde29dff62f275c8da3167da515310bb]: Textual amendment: S. 77A(2A)(2B) inserted (E.W.S.) (28.1.2013) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2011/16/section/27/3), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/125/article/3/b)
 
-[^key-0bfb127c505b0d6b5dbbc0dd02268f29]: Textual amendment: Words in s. 77A(2A) omitted (E.W.S.) (28.2.2014) by virtue of [The Consumer Credit Act 1974 (Green Deal) (Amendment) Order 2014 (S.I. 2014/436)](https://www.legislation.gov.uk/uksi/2014/436), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2014/436/article/8/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/436/article/1/3))
+[^c-0bfb127c505b0d6b5dbbc0dd02268f29]: Textual amendment: Words in s. 77A(2A) omitted (E.W.S.) (28.2.2014) by virtue of [The Consumer Credit Act 1974 (Green Deal) (Amendment) Order 2014 (S.I. 2014/436)](https://www.legislation.gov.uk/uksi/2014/436), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2014/436/article/8/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/436/article/1/3))
 
 [^c19903361]: Textual amendment: Words in s. 77A(5) substituted (31.10.2008) by [The Legislative Reform (Consumer Credit) Order 2008 (S.I. 2008/2826)](https://www.legislation.gov.uk/uksi/2008/2826), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2008/2826/article/4/b/i) (with [art. 5](https://www.legislation.gov.uk/uksi/2008/2826/article/5))
 
@@ -94,6 +94,6 @@ summary: ''
 
 [^c19903521]: Textual amendment: Words in s. 77A(7) omitted (31.10.2008) by virtue of [The Legislative Reform (Consumer Credit) Order 2008 (S.I. 2008/2826)](https://www.legislation.gov.uk/uksi/2008/2826), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/2826/article/4/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2008/2826/article/5))
 
-[^key-89cca0a174e15311cab0058b6d74195e]: Textual amendment: Words in s. 77A(8) substituted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(10)](https://www.legislation.gov.uk/uksi/2025/859/article/2/10)
+[^c-89cca0a174e15311cab0058b6d74195e]: Textual amendment: Words in s. 77A(8) substituted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(10)](https://www.legislation.gov.uk/uksi/2025/859/article/2/10)
 
 [^c20969091]: Textual amendment: S. 77A(9) inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 23](https://www.legislation.gov.uk/uksi/2010/1010/regulation/23), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))

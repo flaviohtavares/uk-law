@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Banning orders: content[^key-26250ee91505b452cc0688454babfe6b]
+## 42. Banning orders: content[^c-26250ee91505b452cc0688454babfe6b]
 
 *Extent: N.I.*
 
@@ -59,4 +59,4 @@ the order is to have effect as if it required P to report at the police station 
 
 ## Annotations
 
-[^key-26250ee91505b452cc0688454babfe6b]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2011/24/section/42) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(d)](https://www.legislation.gov.uk/nisr/2011/370/article/3/d)
+[^c-26250ee91505b452cc0688454babfe6b]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2011/24/section/42) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(d)](https://www.legislation.gov.uk/nisr/2011/370/article/3/d)

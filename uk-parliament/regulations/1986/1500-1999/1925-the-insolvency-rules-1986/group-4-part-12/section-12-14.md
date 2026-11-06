@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.14. Notices sent simultaneously to the same person[^key-38a50eb88913a4bdaf1184d4e1184712]
+## 12.14. Notices sent simultaneously to the same person[^c-38a50eb88913a4bdaf1184d4e1184712]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where under the Act or the Rules a document of any description is to be sent to 
 
 ## Annotations
 
-[^key-38a50eb88913a4bdaf1184d4e1184712]: Commencement: [Rule 12.14](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.14) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-38a50eb88913a4bdaf1184d4e1184712]: Commencement: [Rule 12.14](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.14) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

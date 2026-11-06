@@ -30,14 +30,14 @@ summary: ''
 (3) Subsection (4) applies if—
 
 - (a) a person is convicted of an offence under subsection (1), and
-- (b) expenses are incurred by the Auditor General for Wales or the Wales Audit Office[^key-069ca848b41f55bccb1a865794a6020c] in connection with proceedings for the offence.
+- (b) expenses are incurred by the Auditor General for Wales or the Wales Audit Office[^c-069ca848b41f55bccb1a865794a6020c] in connection with proceedings for the offence.
 
-(4) The expenses may be recovered by the Wales Audit Office[^key-2859e9f55b2a69c22cd67b8dbb6ce8c8] from the convicted person or an appropriate person, to the extent that they are not recovered from any other source.
+(4) The expenses may be recovered by the Wales Audit Office[^c-2859e9f55b2a69c22cd67b8dbb6ce8c8] from the convicted person or an appropriate person, to the extent that they are not recovered from any other source.
 
 (5) An appropriate person is a person who controlled the document referred to in section 52(5) at the time the requirement was imposed.
 
 ## Annotations
 
-[^key-069ca848b41f55bccb1a865794a6020c]: Textual amendment: Words in s. 53(3)(b) inserted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 54(2)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/54/2) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-069ca848b41f55bccb1a865794a6020c]: Textual amendment: Words in s. 53(3)(b) inserted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 54(2)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/54/2) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
 
-[^key-2859e9f55b2a69c22cd67b8dbb6ce8c8]: Textual amendment: Words in s. 53(4) inserted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 54(3)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/54/3) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-2859e9f55b2a69c22cd67b8dbb6ce8c8]: Textual amendment: Words in s. 53(4) inserted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 54(3)](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/54/3) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

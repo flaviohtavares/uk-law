@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Assistance given in error: deductions from other assistance[^key-cb80ef4d99a3fee7bf2b91e9fced936d]
+## 14. Assistance given in error: deductions from other assistance[^c-cb80ef4d99a3fee7bf2b91e9fced936d]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb80ef4d99a3fee7bf2b91e9fced936d]: Commencement: S. 14 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-cb80ef4d99a3fee7bf2b91e9fced936d]: Commencement: S. 14 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)

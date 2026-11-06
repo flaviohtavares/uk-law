@@ -237,14 +237,14 @@ Section 15
 
 #### Social Security Contributions and Benefits Act 1992 (c. 4)
 
-**42.**[^c2164956] (1)[^key-c5f270bc1fa79325d16b4c41e7ab47a1] Section 4C of the SSCBA (power to make provision in consequence of provision made by or by virtue of section 4B(2) etc.) is amended as follows.
+**42.**[^c2164956] (1)[^c-c5f270bc1fa79325d16b4c41e7ab47a1] Section 4C of the SSCBA (power to make provision in consequence of provision made by or by virtue of section 4B(2) etc.) is amended as follows.
 
-(2)[^key-e6fba74c5021592fe3c77d852995c0d4] In subsection (2) (purposes for which regulations may be made) omit paragraph (d) (purposes relating to minimum payments).
+(2)[^c-e6fba74c5021592fe3c77d852995c0d4] In subsection (2) (purposes for which regulations may be made) omit paragraph (d) (purposes relating to minimum payments).
 
 (3) In subsection (5) (matters in respect of which regulations may have retrospective effect)—
 
 - (a) in paragraph (b) (amount of rebate under section 41(1D) or 42A(2C) of the Pension Schemes Act 1993 (c. 48)) omit “or 42A(2C)”;
-- (b)[^key-e6fba74c5021592fe3c77d852995c0d4] omit paragraphs (g) and (h) (liability to make, and amount of, minimum payments);
+- (b)[^c-e6fba74c5021592fe3c77d852995c0d4] omit paragraphs (g) and (h) (liability to make, and amount of, minimum payments);
 - (c) omit paragraphs (i) and (j) (liability to make, and amount of, payments under section 42A(3) of that Act or minimum contributions).
 
 **Not yet in force.**
@@ -271,15 +271,15 @@ Section 15
 
 #### Pension Schemes Act 1993 (c. 48)
 
-**46.**[^c2164952][^key-7a78a383aa29c0d286b40f986440f4e4] The Pension Schemes Act 1993 has effect subject to the following amendments.
+**46.**[^c2164952][^c-7a78a383aa29c0d286b40f986440f4e4] The Pension Schemes Act 1993 has effect subject to the following amendments.
 
-**47.**[^key-0a0c431ca23fafe45d4aff3785e015b6] In section 8 (meaning of, among other things, “minimum payment”) omit subsection (3) (regulations may make provision about manner in which minimum payments to be made etc.).
+**47.**[^c-0a0c431ca23fafe45d4aff3785e015b6] In section 8 (meaning of, among other things, “minimum payment”) omit subsection (3) (regulations may make provision about manner in which minimum payments to be made etc.).
 
 **Not yet in force.**
 
 **48.** In section 20 (transfer of accrued rights) in subsection (3) (regulations may provide for certain provisions to have effect subject to modifications) omit “and 43 to 45”.
 
-**49.**[^key-05675b4c45e1a8197aa14b65eef4e293] Omit section 31 (investment and resources of scheme).
+**49.**[^c-05675b4c45e1a8197aa14b65eef4e293] Omit section 31 (investment and resources of scheme).
 
 **Not yet in force.**
 
@@ -297,7 +297,7 @@ Section 15
 
 **53.** Omit section 45 (amount of minimum contributions).
 
-**54.**[^key-960937465809f1403ae26a37cc1c32fc] Omit section 45B (money purchase and personal pension schemes: verification of ages).
+**54.**[^c-960937465809f1403ae26a37cc1c32fc] Omit section 45B (money purchase and personal pension schemes: verification of ages).
 
 **Not yet in force.**
 
@@ -326,11 +326,11 @@ Section 15
 
 (3) In subsection (4) (regulations may prescribe the persons who are to be regarded as members or prospective members of an occupational scheme etc.) omit “, 43”.
 
-**59.**[^c2164953] (1)[^key-892b33061c87a647d142dccb681f7c27] Schedule 2 (certification regulations) is amended as follows.
+**59.**[^c2164953] (1)[^c-892b33061c87a647d142dccb681f7c27] Schedule 2 (certification regulations) is amended as follows.
 
 (2) In Part 1 (occupational pension schemes) in paragraph 4 (regulations may modify certain provisions of Part 3 in cases where person employed in two or more employments) in sub-paragraph (1), for “and 66 to 68” substitute “ , 67 and 68 ”.
 
-(3)[^key-0907194008eb77099f2f4dd8cce66b1b] In paragraph 5 (state scheme premiums) in sub-paragraph (1) (regulations may require provision of information to HMRC for purpose of certain provisions) for the words from “sections 37” to the end substitute “sections 37, [^c2165097]. . . , 50 to 63 and 159(1) to (3) and (6) [^c2165097]. . . .”
+(3)[^c-0907194008eb77099f2f4dd8cce66b1b] In paragraph 5 (state scheme premiums) in sub-paragraph (1) (regulations may require provision of information to HMRC for purpose of certain provisions) for the words from “sections 37” to the end substitute “sections 37, [^c2165097]. . . , 50 to 63 and 159(1) to (3) and (6) [^c2165097]. . . .”
 
 (4) In paragraph 6 (schemes covering different employers) in sub-paragraph (1) (regulations may modify certain provisions in cases where earner under different employers qualifies for benefits of same occupational pension scheme) for “and 66 to 68” substitute “ , 67 and 68 ”.
 
@@ -357,18 +357,18 @@ Section 15
 
 #### Issue and cancellation etc. of certificates for periods before the abolition date
 
-**61.** Nothing in the relevant amendments and repeals affects the continued operation of any regulations in force under section 7(1) and (7) of the PSA 1993 (issue of certificates) immediately before the abolition date in relation to the issue of a certificate having effect for a period before 6 April 2012[^key-9484672217524f05d863b0719e9707ec].
+**61.** Nothing in the relevant amendments and repeals affects the continued operation of any regulations in force under section 7(1) and (7) of the PSA 1993 (issue of certificates) immediately before the abolition date in relation to the issue of a certificate having effect for a period before 6 April 2012[^c-9484672217524f05d863b0719e9707ec].
 
-**62.** (1) Nothing in the relevant amendments and repeals affects the continued operation of section 34 of the PSA 1993 (cancellation, variation, surrender and refusal of certificates), or any regulations in force under it immediately before 6 April 2012[^key-d9f7959338a817ecee07d81e6437288b], for the purposes of a retrospective act.
+**62.** (1) Nothing in the relevant amendments and repeals affects the continued operation of section 34 of the PSA 1993 (cancellation, variation, surrender and refusal of certificates), or any regulations in force under it immediately before 6 April 2012[^c-d9f7959338a817ecee07d81e6437288b], for the purposes of a retrospective act.
 
 (2) In sub-paragraph (1) “**a retrospective act**” means the cancellation, variation, surrender or refusal of a certificate, or the issue of an amended certificate, where—
 
-- (a) the certificate was in force for a period beginning before 6 April 2012[^key-12a9f5fa1c4cc04234a732c060c83b05] (or, in the case of a refusal of a certificate, would have related to such a period if it had been issued), and
+- (a) the certificate was in force for a period beginning before 6 April 2012[^c-12a9f5fa1c4cc04234a732c060c83b05] (or, in the case of a refusal of a certificate, would have related to such a period if it had been issued), and
 - (b) the cancellation, variation, surrender, refusal or issue—
-  - (i) is made after 6 April 2012[^key-a0495236b78c1ed578f9dc3b9d00b169], but
+  - (i) is made after 6 April 2012[^c-a0495236b78c1ed578f9dc3b9d00b169], but
   - (ii) has effect from a date before that date.
 
-(3) An amended certificate issued by virtue of this paragraph must provide for it to cease to have effect as from 6 April 2012[^key-144e24899951761bd3d5c10080453b9f].
+(3) An amended certificate issued by virtue of this paragraph must provide for it to cease to have effect as from 6 April 2012[^c-144e24899951761bd3d5c10080453b9f].
 
 (4) In this paragraph and paragraph 61 “**a certificate**” means an appropriate scheme certificate or a contracting-out certificate in respect of a money purchase contracted-out scheme, and each of those terms has the meaning given by section 181(1) of the PSA 1993.
 
@@ -378,7 +378,7 @@ Section 15
 
 #### Determination of question whether scheme was appropriate scheme
 
-**65.** Nothing in the relevant amendments and repeals affects the continued operation of any regulations in force under section 7(6) of the PSA 1993 (issue of certificates) immediately before 6 April 2012[^key-bdd5e75190d4fb998d98b7d1d242556c].
+**65.** Nothing in the relevant amendments and repeals affects the continued operation of any regulations in force under section 7(6) of the PSA 1993 (issue of certificates) immediately before 6 April 2012[^c-bdd5e75190d4fb998d98b7d1d242556c].
 
 #### Preservation of earner's chosen scheme
 
@@ -387,13 +387,13 @@ Section 15
 - (a) prevents the giving of a preceding tax year notice, or
 - (b) otherwise affects the operation of section 44 of the PSA 1993 in relation to such a notice.
 
-(2) In sub-paragraph (1) a “**preceding tax year notice**” means a notice within section 44(1) of the PSA 1993 which is given on or after 6 April 2012[^key-e089b64cab52a2121a00198c25934d81] but in which the date specified in accordance with that provision falls before 6 April 2012.
+(2) In sub-paragraph (1) a “**preceding tax year notice**” means a notice within section 44(1) of the PSA 1993 which is given on or after 6 April 2012[^c-e089b64cab52a2121a00198c25934d81] but in which the date specified in accordance with that provision falls before 6 April 2012.
 
 #### Interpretation etc.
 
 **67.** (1) In this Part of this Schedule—
 
-- [^key-156f703d718991d75d23b4f43b5833e6]...
+- [^c-156f703d718991d75d23b4f43b5833e6]...
 - “**the PSA 1993**” means the Pension Schemes Act 1993 (c. 48);
 - “**the relevant amendments and repeals**” means—
   - (a) the amendments and repeals made by Part 1 of this Schedule, and
@@ -439,19 +439,19 @@ Section 15
 
 [^c2164956]: Commencement: [Sch. 4 para. 42](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/42) partly in force at 6.4.2015; [Sch. 4 para. 42](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/42) not in force at Royal Assent see [s. 30(2)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/2/b); [Sch. 4 para. 42(1)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/42/1) in force for specified purposes and Sch. 4 para. 42(2)(3)(b) fully in force at 6.4.2015 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(i)(ii)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/i/ii)
 
-[^key-c5f270bc1fa79325d16b4c41e7ab47a1]: Commencement: [Sch. 4 para. 42(1)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/42/1) in force at 6.4.2015 for specified purposes by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(i)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/i)
+[^c-c5f270bc1fa79325d16b4c41e7ab47a1]: Commencement: [Sch. 4 para. 42(1)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/42/1) in force at 6.4.2015 for specified purposes by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(i)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/i)
 
-[^key-e6fba74c5021592fe3c77d852995c0d4]: Commencement: [Sch. 4 para. 42(2)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/42/2)[(3)(b)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/42/3/b) in force at 6.4.2015 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/ii)
+[^c-e6fba74c5021592fe3c77d852995c0d4]: Commencement: [Sch. 4 para. 42(2)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/42/2)[(3)(b)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/42/3/b) in force at 6.4.2015 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/ii)
 
 [^c2164952]: Commencement: [Sch. 4 para. 46](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/46) partly in force at 6.4.2015; [Sch. 4 para. 46](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/46) not in force at Royal Assent see [s. 30(2)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/2/b); [Sch. 4 para. 46](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/46) in force for specified purposes at 6.4.2012 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1267/article/2/b) (as amended by [S.I. 2012/911](https://www.legislation.gov.uk/uksi/2012/911), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2012/911/article/2/a/i)); [Sch. 4 para. 46](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/46) in force for specified purposes at 6.4.2015 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/iii) (as amended by [S.I. 2012/911](https://www.legislation.gov.uk/uksi/2012/911), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/911/article/2/c))
 
-[^key-7a78a383aa29c0d286b40f986440f4e4]: Commencement: [Sch. 4 para. 46](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/46) in force at 6.4.2015 for specified purposes by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/iii) (as amended (20.3.2012) by S.I. 2012/911, art. 2(c))
+[^c-7a78a383aa29c0d286b40f986440f4e4]: Commencement: [Sch. 4 para. 46](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/46) in force at 6.4.2015 for specified purposes by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(iii)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/iii) (as amended (20.3.2012) by S.I. 2012/911, art. 2(c))
 
-[^key-0a0c431ca23fafe45d4aff3785e015b6]: Commencement: [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/47) in force at 6.4.2015 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(iv)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/iv)
+[^c-0a0c431ca23fafe45d4aff3785e015b6]: Commencement: [Sch. 4 para. 47](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/47) in force at 6.4.2015 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(iv)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/iv)
 
-[^key-05675b4c45e1a8197aa14b65eef4e293]: Commencement: [Sch. 4 para. 49](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/49) in force at 6.4.2015 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(iv)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/iv)
+[^c-05675b4c45e1a8197aa14b65eef4e293]: Commencement: [Sch. 4 para. 49](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/49) in force at 6.4.2015 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(iv)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/iv)
 
-[^key-960937465809f1403ae26a37cc1c32fc]: Commencement: [Sch. 4 para. 54](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/54) in force at 6.4.2015 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(iv)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/iv)
+[^c-960937465809f1403ae26a37cc1c32fc]: Commencement: [Sch. 4 para. 54](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/54) in force at 6.4.2015 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(iv)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/iv)
 
 [^c2165027]: Textual amendment: [Sch. 4 para. 55](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/55) omitted (the omission coming into force immediately before 6.4.2012 in accordance with art. 1(2)(a)) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [art. 8(2)(a)](https://www.legislation.gov.uk/uksi/2011/1730/article/8/2/a)
 
@@ -459,9 +459,9 @@ Section 15
 
 [^c2164953]: Commencement: [Sch. 4 para. 59](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/59) wholly in force at 6.4.2015; [Sch. 4 para. 59](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/59) not in force at Royal Assent see [s. 30(2)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/2/b); [Sch. 4 para. 59(1)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/59/1) in force for specified purposes and Sch. 4 para. 59(2)(4) in force at 6.4.2012 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1267/article/2/b) (as amended by [S.I. 2012/911](https://www.legislation.gov.uk/uksi/2012/911), [art. 2(a)(ii)(iii)](https://www.legislation.gov.uk/uksi/2012/911/article/2/a/ii/iii)); [s. 59(1)(4)](https://www.legislation.gov.uk/ukpga/2007/22/section/59/1/4) in force at 6.4.2015 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(v)(vi)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/v/vi)
 
-[^key-892b33061c87a647d142dccb681f7c27]: Commencement: [Sch. 4 para. 59(1)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/59/1) in force at 6.4.2015 for specified purposes by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(v)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/v)
+[^c-892b33061c87a647d142dccb681f7c27]: Commencement: [Sch. 4 para. 59(1)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/59/1) in force at 6.4.2015 for specified purposes by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(v)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/v)
 
-[^key-0907194008eb77099f2f4dd8cce66b1b]: Commencement: [Sch. 4 para. 59(3)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/59/3) in force at 6.4.2015 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(vi)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/vi)
+[^c-0907194008eb77099f2f4dd8cce66b1b]: Commencement: [Sch. 4 para. 59(3)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/59/3) in force at 6.4.2015 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(a)(vi)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/a/vi)
 
 [^c2165097]: Textual amendment: Words in [Sch. 4 para. 59(3)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/59/3) omitted (the omission coming into force immediately before 6.4.2012 in accordance with art. 1(2)(a)) by virtue of [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) Order 2011 (S.I. 2011/1730)](https://www.legislation.gov.uk/uksi/2011/1730), [art. 8(2)(c)](https://www.legislation.gov.uk/uksi/2011/1730/article/8/2/c)
 
@@ -469,18 +469,18 @@ Section 15
 
 [^c2165008]: Textual amendment: [Sch. 4 para. 60(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/60/4/b/c) substituted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 27](https://www.legislation.gov.uk/ukpga/2011/19/section/27), [38(3)(c)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/3/c)
 
-[^key-9484672217524f05d863b0719e9707ec]: Textual amendment: Words in [Sch. 4 para. 61](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/61) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/2)
+[^c-9484672217524f05d863b0719e9707ec]: Textual amendment: Words in [Sch. 4 para. 61](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/61) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/2)
 
-[^key-d9f7959338a817ecee07d81e6437288b]: Textual amendment: Words in [Sch. 4 para. 62(1)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/62/1) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/2)
+[^c-d9f7959338a817ecee07d81e6437288b]: Textual amendment: Words in [Sch. 4 para. 62(1)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/62/1) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/2)
 
-[^key-12a9f5fa1c4cc04234a732c060c83b05]: Textual amendment: Words in [Sch. 4 para. 62(2)(a)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/62/2/a) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/2)
+[^c-12a9f5fa1c4cc04234a732c060c83b05]: Textual amendment: Words in [Sch. 4 para. 62(2)(a)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/62/2/a) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/2)
 
-[^key-a0495236b78c1ed578f9dc3b9d00b169]: Textual amendment: Words in [Sch. 4 para. 62(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/62/2/b/i) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/2)
+[^c-a0495236b78c1ed578f9dc3b9d00b169]: Textual amendment: Words in [Sch. 4 para. 62(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/62/2/b/i) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/2)
 
-[^key-144e24899951761bd3d5c10080453b9f]: Textual amendment: Words in [Sch. 4 para. 62(3)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/62/3) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/2)
+[^c-144e24899951761bd3d5c10080453b9f]: Textual amendment: Words in [Sch. 4 para. 62(3)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/62/3) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/2)
 
-[^key-bdd5e75190d4fb998d98b7d1d242556c]: Textual amendment: Words in [Sch. 4 para. 65](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/65) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/2)
+[^c-bdd5e75190d4fb998d98b7d1d242556c]: Textual amendment: Words in [Sch. 4 para. 65](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/65) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/2)
 
-[^key-e089b64cab52a2121a00198c25934d81]: Textual amendment: Words in [Sch. 4 para. 66(2)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/66/2) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/2)
+[^c-e089b64cab52a2121a00198c25934d81]: Textual amendment: Words in [Sch. 4 para. 66(2)](https://www.legislation.gov.uk/ukpga/2007/22/schedule/4/paragraph/66/2) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(2)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/2)
 
-[^key-156f703d718991d75d23b4f43b5833e6]: Textual amendment: Words in Sch. 4 para. 67(1) omitted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(3)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/3)
+[^c-156f703d718991d75d23b4f43b5833e6]: Textual amendment: Words in Sch. 4 para. 67(1) omitted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by virtue of [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 80(3)](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/80/3)

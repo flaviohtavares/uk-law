@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 380. Amendment of Article 2 of [Commission Regulation (EU) No 2015/34](https://www.legislation.gov.uk/eur/1934/2015)0[^key-221ce02fd297e6c8ef77a0a841e51808]
+## 380. Amendment of Article 2 of [Commission Regulation (EU) No 2015/34](https://www.legislation.gov.uk/eur/1934/2015)0[^c-221ce02fd297e6c8ef77a0a841e51808]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-221ce02fd297e6c8ef77a0a841e51808]: Commencement: Reg. 380 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-221ce02fd297e6c8ef77a0a841e51808]: Commencement: Reg. 380 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

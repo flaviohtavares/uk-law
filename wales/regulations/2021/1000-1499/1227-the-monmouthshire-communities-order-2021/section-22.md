@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Caerwent, Magor with Undy — change in community boundaries and consequential changes to electoral arrangements[^key-0ffdbd367200b91bddda1104d77db0ed][^key-0d8cdf5590808b3d98530ce557a144be]
+## 22. Caerwent, Magor with Undy — change in community boundaries and consequential changes to electoral arrangements[^c-0ffdbd367200b91bddda1104d77db0ed][^c-0d8cdf5590808b3d98530ce557a144be]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ The parts of the community of Magor with Undy shown hatched on Map 18—
 
 ## Annotations
 
-[^key-0ffdbd367200b91bddda1104d77db0ed]: Commencement: Art. 22 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-0ffdbd367200b91bddda1104d77db0ed]: Commencement: Art. 22 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-0d8cdf5590808b3d98530ce557a144be]: Commencement: [Art. 22](https://www.legislation.gov.uk/wsi/2021/1227/article/22) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-0d8cdf5590808b3d98530ce557a144be]: Commencement: [Art. 22](https://www.legislation.gov.uk/wsi/2021/1227/article/22) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

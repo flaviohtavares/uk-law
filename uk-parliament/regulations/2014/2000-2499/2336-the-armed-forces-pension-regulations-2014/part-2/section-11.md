@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Terms of appointment to the scheme advisory board[^key-66b8975bd858ea9cd3835a14ab3579d0]
+## 11. Terms of appointment to the scheme advisory board[^c-66b8975bd858ea9cd3835a14ab3579d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A member of the scheme advisory board must hold and vacate office in accordance 
 
 ## Annotations
 
-[^key-66b8975bd858ea9cd3835a14ab3579d0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/2336/regulation/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-66b8975bd858ea9cd3835a14ab3579d0]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/2336/regulation/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.12. Supplementary provisions where applications for default judgment are made[^key-58025b33063689ed195a3510379debea]
+## 12.12. Supplementary provisions where applications for default judgment are made[^c-58025b33063689ed195a3510379debea]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 - (a) the particulars of claim have been served on the defendant (a certificate of service on the court file will be sufficient evidence);
 - (b) either the defendant has not filed an acknowledgment of service or has not filed a defence and that in either case the relevant period for doing so has expired;
 - (c) the defendant has not satisfied the claim; and
-- (d) the defendant has not admitted liability to pay all the money claimed and requested time to pay[^key-bbf02b47aa304e5076a16696591753b1].
+- (d) the defendant has not admitted liability to pay all the money claimed and requested time to pay[^c-bbf02b47aa304e5076a16696591753b1].
 
 (7) On an application where the defendant was served with the claim either—
 
@@ -60,7 +60,7 @@ and the defendant has not acknowledged service, the evidence must establish that
   - (ii) directs that a copy of the application notice be served on the State,
 
   the judgment or application notice (and the supporting evidence) may be served out of the jurisdiction without any further order;
-- (c) where paragraph (8)(b)[^key-c6b241b095d1df43a2297526b3766fee] permits a judgment or an application notice to be served out of the jurisdiction, the procedure for serving the judgment or the application notice is the same as for serving a claim form under Section III of Part 6 except where an alternative method of service has been agreed under section 12(6) of the State Immunity Act 1978.
+- (c) where paragraph (8)(b)[^c-c6b241b095d1df43a2297526b3766fee] permits a judgment or an application notice to be served out of the jurisdiction, the procedure for serving the judgment or the application notice is the same as for serving a claim form under Section III of Part 6 except where an alternative method of service has been agreed under section 12(6) of the State Immunity Act 1978.
 
 (Rule 23.1 defines ‘application notice’.)
 
@@ -90,8 +90,8 @@ and the defendant has not acknowledged service, the evidence must establish that
 
 ## Annotations
 
-[^key-58025b33063689ed195a3510379debea]: Textual amendment: Pt. 12 substituted (with application in accordance with rule 1(2) of the amending S.I.) by [The Civil Procedure (Amendment) Rules 2022 (S.I. 2022/101)](https://www.legislation.gov.uk/uksi/2022/101), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/101/schedule/2)
+[^c-58025b33063689ed195a3510379debea]: Textual amendment: Pt. 12 substituted (with application in accordance with rule 1(2) of the amending S.I.) by [The Civil Procedure (Amendment) Rules 2022 (S.I. 2022/101)](https://www.legislation.gov.uk/uksi/2022/101), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/101/schedule/2)
 
-[^key-bbf02b47aa304e5076a16696591753b1]: Textual amendment: Words in rule 12.12(6)(d) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/5/2)
+[^c-bbf02b47aa304e5076a16696591753b1]: Textual amendment: Words in rule 12.12(6)(d) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/5/2)
 
-[^key-c6b241b095d1df43a2297526b3766fee]: Textual amendment: Word in rule 12.12(8)(c) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2022/783/rule/10/4)
+[^c-c6b241b095d1df43a2297526b3766fee]: Textual amendment: Word in rule 12.12(8)(c) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2022/783/rule/10/4)

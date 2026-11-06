@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Temporary duty on Health and Social Care trust in Northern Ireland[^key-550a5bee45ca01de33f254fb4f3df676][^key-b5233cd91c08d092b8a21506059579ea][^key-4a62f516d0fe4d3070d9d19880c2ff17][^key-b5233cd91c08d092b8a21506059579ea][^key-4a62f516d0fe4d3070d9d19880c2ff17]
+## 51. Temporary duty on Health and Social Care trust in Northern Ireland[^c-550a5bee45ca01de33f254fb4f3df676][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 - (a) becomes unable to carry on or manage the establishment or agency because of business failure, and
 - (b) immediately before becoming unable to do so, was providing an adult with accommodation or other services in Northern Ireland, all or part of the cost of which was paid for by means of direct payments made—
   - (i) under this Part of this Act,
-  - (ii) under section 49A(1)(a) or (c) of or Schedule A1 to[^key-87fb98112b032c6f12213c2563c8b88b] the Social Services and Well-being (Wales) Act 2014, or
+  - (ii) under section 49A(1)(a) or (c) of or Schedule A1 to[^c-87fb98112b032c6f12213c2563c8b88b] the Social Services and Well-being (Wales) Act 2014, or
   - (iii) as a result of a choice made by the adult pursuant to section 5 of the Social Care (Self-directed Support) (Scotland) Act 2013.
 
 (3) The Health and Social Care trust in whose area the accommodation is situated or the services were provided must for so long as it considers necessary meet those of the adult's needs for care and support or the carer's needs for support which were being met by the registered person by the provision of the accommodation or other services.
@@ -52,10 +52,10 @@ summary: ''
 
 ## Annotations
 
-[^key-550a5bee45ca01de33f254fb4f3df676]: Commencement: S. 51 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(p)](https://www.legislation.gov.uk/uksi/2015/993/article/2/p) (with transitional provisions in S.I. 2015/995)
+[^c-550a5bee45ca01de33f254fb4f3df676]: Commencement: S. 51 in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(p)](https://www.legislation.gov.uk/uksi/2015/993/article/2/p) (with transitional provisions in S.I. 2015/995)
 
-[^key-b5233cd91c08d092b8a21506059579ea]: Modification: Pt. 1 modified (1.4.2015) by [The Care and Support (Isles of Scilly) Order 2015 (S.I. 2015/642)](https://www.legislation.gov.uk/uksi/2015/642), [arts. 1](https://www.legislation.gov.uk/uksi/2015/642/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/642/article/2/2/a); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/993/article/2/a)
+[^c-b5233cd91c08d092b8a21506059579ea]: Modification: Pt. 1 modified (1.4.2015) by [The Care and Support (Isles of Scilly) Order 2015 (S.I. 2015/642)](https://www.legislation.gov.uk/uksi/2015/642), [arts. 1](https://www.legislation.gov.uk/uksi/2015/642/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/642/article/2/2/a); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/993/article/2/a)
 
-[^key-4a62f516d0fe4d3070d9d19880c2ff17]: Modification: Pt. 1 applied in part (with modifications) (1.4.2015 coming into force in accordance with reg. 1(1)) by [The Care and Support (Children's Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/642/regulation/1/1), [2(1)(a)(2)](https://www.legislation.gov.uk/uksi/2015/642/regulation/2/1/a/2), [4-12](https://www.legislation.gov.uk/uksi/2015/642/regulation/4); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/993/article/2/q)
+[^c-4a62f516d0fe4d3070d9d19880c2ff17]: Modification: Pt. 1 applied in part (with modifications) (1.4.2015 coming into force in accordance with reg. 1(1)) by [The Care and Support (Children's Carers) Regulations 2015 (S.I. 2015/305)](https://www.legislation.gov.uk/uksi/2015/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/642/regulation/1/1), [2(1)(a)(2)](https://www.legislation.gov.uk/uksi/2015/642/regulation/2/1/a/2), [4-12](https://www.legislation.gov.uk/uksi/2015/642/regulation/4); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/993/article/2/q)
 
-[^key-87fb98112b032c6f12213c2563c8b88b]: Textual amendment: Words in [s. 51(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2014/23/section/51/2/b/ii) substituted (1.4.2026) by [The Health and Social Care (Wales) Act 2025 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/98)](https://www.legislation.gov.uk/wsi/2026/98), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/98/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2026/98/regulation/2/3)
+[^c-87fb98112b032c6f12213c2563c8b88b]: Textual amendment: Words in [s. 51(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2014/23/section/51/2/b/ii) substituted (1.4.2026) by [The Health and Social Care (Wales) Act 2025 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/98)](https://www.legislation.gov.uk/wsi/2026/98), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/98/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2026/98/regulation/2/3)

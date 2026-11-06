@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Arrangements for obtaining the views of the community on policing[^key-22c853b0e14d7ef1c53106bfeea0e5ef][^key-52d75393ea108e3babfe31b300c7f0cb]
+## 14. Arrangements for obtaining the views of the community on policing[^c-22c853b0e14d7ef1c53106bfeea0e5ef][^c-52d75393ea108e3babfe31b300c7f0cb]
 
 *Extent: E+W*
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-22c853b0e14d7ef1c53106bfeea0e5ef]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/13/section/14) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 8(2)](https://www.legislation.gov.uk/uksi/2011/3019/article/8/2))
+[^c-22c853b0e14d7ef1c53106bfeea0e5ef]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/13/section/14) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 8(2)](https://www.legislation.gov.uk/uksi/2011/3019/article/8/2))
 
-[^key-52d75393ea108e3babfe31b300c7f0cb]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/13/section/14) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-52d75393ea108e3babfe31b300c7f0cb]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/13/section/14) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)

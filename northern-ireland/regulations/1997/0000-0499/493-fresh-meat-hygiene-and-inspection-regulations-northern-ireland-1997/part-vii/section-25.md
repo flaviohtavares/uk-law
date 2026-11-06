@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Repeals and revocations[^key-a1cec160874a8cdfc4c58277c41703e9]
+## 25. Repeals and revocations[^c-a1cec160874a8cdfc4c58277c41703e9]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a1cec160874a8cdfc4c58277c41703e9]: Commencement: Reg. 25 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-a1cec160874a8cdfc4c58277c41703e9]: Commencement: Reg. 25 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
 [^f00022]: Footnote: [S.R. & O. (N.I.) 1963 No. 162](https://www.legislation.gov.uk/nisro/1963/162)
 

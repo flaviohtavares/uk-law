@@ -35,8 +35,8 @@ summary: ''
 
 (5) This Act also contains—
 
-- (za)[^key-35a1b5b4d91f8d3e64f47eaa125ce948] provision about a trading allowance and property allowance (see Part 6A),
-- (a) provision about rent-a-room relief and qualifying care[^key-134fd278ddeb90e240d7f64b8c8d446b] relief (see Part 7),
+- (za)[^c-35a1b5b4d91f8d3e64f47eaa125ce948] provision about a trading allowance and property allowance (see Part 6A),
+- (a) provision about rent-a-room relief and qualifying care[^c-134fd278ddeb90e240d7f64b8c8d446b] relief (see Part 7),
 - (b) special rules for foreign income (see Part 8),
 - (c) special rules for partnerships (see Part 9), and
 - (d) certain calculation rules and general provisions (see Part 10).
@@ -47,6 +47,6 @@ summary: ''
 
 [^c19737821]: Textual amendment: S. 1(2) repealed (6.4.2007 with effect as noted in [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [ss. 1027](https://www.legislation.gov.uk/ukpga/2007/3/section/1027), [1031](https://www.legislation.gov.uk/ukpga/2007/3/section/1031), [1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034), [Sch. 1 para. 493](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/493), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with transitional provisions and savings in [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-35a1b5b4d91f8d3e64f47eaa125ce948]: Textual amendment: [S. 1(5)(za)](https://www.legislation.gov.uk/ukpga/2005/5/section/1/5/za) inserted (16.11.2017) (with effect in accordance with Sch. 3 para. 13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2017/32/schedule/3/paragraph/3)
+[^c-35a1b5b4d91f8d3e64f47eaa125ce948]: Textual amendment: [S. 1(5)(za)](https://www.legislation.gov.uk/ukpga/2005/5/section/1/5/za) inserted (16.11.2017) (with effect in accordance with Sch. 3 para. 13 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2017/32/schedule/3/paragraph/3)
 
-[^key-134fd278ddeb90e240d7f64b8c8d446b]: Textual amendment: Words in s. 1(5) substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/31) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-134fd278ddeb90e240d7f64b8c8d446b]: Textual amendment: Words in s. 1(5) substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/31) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))

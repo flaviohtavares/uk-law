@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2E — Luxury goods[^key-311a25fd185ba4f0fc8bf8b8dbfb121d]
+## SCHEDULE 2E — Luxury goods[^c-311a25fd185ba4f0fc8bf8b8dbfb121d]
 
 *Extent: E+W+S+N.I.*
 
@@ -486,4 +486,4 @@ as applicable—
 
 ## Annotations
 
-[^key-311a25fd185ba4f0fc8bf8b8dbfb121d]: Textual amendment: [Sch. 2E](https://www.legislation.gov.uk/uksi/2019/600/schedule/2E) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/748/schedule)
+[^c-311a25fd185ba4f0fc8bf8b8dbfb121d]: Textual amendment: [Sch. 2E](https://www.legislation.gov.uk/uksi/2019/600/schedule/2E) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/748/schedule)

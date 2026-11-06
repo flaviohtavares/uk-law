@@ -130,7 +130,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 48 — Nature of certain proceedings under this Part](part-3/section-48.md)
 - [Section 49 — Special measures for witnesses](part-3/section-49.md)
 
-#### Notifying schools etc if child is suspected victim of domestic abuse[^key-3964c3d8d9ee0b1865bd0eda6dc8876d]
+#### Notifying schools etc if child is suspected victim of domestic abuse[^c-3964c3d8d9ee0b1865bd0eda6dc8876d]
 
 - [Section 49A — Arrangements to notify schools etc](part-3/section-49a.md)
 - [Section 49B — Power to extend section 49A to childcare providers](part-3/section-49b.md)
@@ -182,7 +182,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 68 — Controlling or coercive behaviour in an intimate or family relationship](part-6/section-68.md)
 
-#### ...[^key-33fbaaff3850bee10bd61a2f5376254a]
+#### ...[^c-33fbaaff3850bee10bd61a2f5376254a]
 
 *Extent: E+W*
 
@@ -278,6 +278,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-3964c3d8d9ee0b1865bd0eda6dc8876d]: Textual amendment: Ss. 49A, 49B and cross-heading inserted (7.11.2025 for the insertion of s. 49A, otherwise prosp.) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/20/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1168/regulation/2)
+[^c-3964c3d8d9ee0b1865bd0eda6dc8876d]: Textual amendment: Ss. 49A, 49B and cross-heading inserted (7.11.2025 for the insertion of s. 49A, otherwise prosp.) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/20/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1168/regulation/2)
 
-[^key-33fbaaff3850bee10bd61a2f5376254a]: Textual amendment: [S. 69 and cross-heading](https://www.legislation.gov.uk/ukpga/2021/17/part/6/crossheading/disclosure-of-private-sexual-photographs-and-films) omitted (31.1.2024) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 23(2)](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/23/2); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-33fbaaff3850bee10bd61a2f5376254a]: Textual amendment: [S. 69 and cross-heading](https://www.legislation.gov.uk/ukpga/2021/17/part/6/crossheading/disclosure-of-private-sexual-photographs-and-films) omitted (31.1.2024) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 23(2)](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/23/2); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

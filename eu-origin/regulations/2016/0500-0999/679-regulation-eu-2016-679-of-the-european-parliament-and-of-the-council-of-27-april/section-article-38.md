@@ -28,10 +28,10 @@ summary: ''
 
 4. Data subjects may contact the data protection officer with regard to all issues related to processing of their personal data and to the exercise of their rights under this Regulation.
 
-5. The data protection officer shall be bound by secrecy or confidentiality concerning the performance of his or her tasks, in accordance with domestic law[^key-99ddf3fcaca57b524b46f327a0f68874].
+5. The data protection officer shall be bound by secrecy or confidentiality concerning the performance of his or her tasks, in accordance with domestic law[^c-99ddf3fcaca57b524b46f327a0f68874].
 
 6. The data protection officer may fulfil other tasks and duties. The controller or processor shall ensure that any such tasks and duties do not result in a conflict of interests.
 
 ## Annotations
 
-[^key-99ddf3fcaca57b524b46f327a0f68874]: Textual amendment: Words in [Art. 38(5)](https://www.legislation.gov.uk/eur/2016/679/article/38/5) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/32) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99ddf3fcaca57b524b46f327a0f68874]: Textual amendment: Words in [Art. 38(5)](https://www.legislation.gov.uk/eur/2016/679/article/38/5) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/32) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

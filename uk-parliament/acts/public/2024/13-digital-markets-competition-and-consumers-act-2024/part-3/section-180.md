@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Power of CMA to investigate suspected infringements[^key-e4949bf6670a4e58029fca92e03d9a2e][^key-75a2a6c840565c8e142c066dcbb5c78e]
+## 180. Power of CMA to investigate suspected infringements[^c-e4949bf6670a4e58029fca92e03d9a2e][^c-75a2a6c840565c8e142c066dcbb5c78e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e4949bf6670a4e58029fca92e03d9a2e]: Commencement: S. 180 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-e4949bf6670a4e58029fca92e03d9a2e]: Commencement: S. 180 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-75a2a6c840565c8e142c066dcbb5c78e]: Commencement: [S. 180](https://www.legislation.gov.uk/ukpga/2024/13/section/180) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-75a2a6c840565c8e142c066dcbb5c78e]: Commencement: [S. 180](https://www.legislation.gov.uk/ukpga/2024/13/section/180) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

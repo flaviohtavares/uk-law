@@ -42,13 +42,13 @@ Coming into operation in accordance with Rule 1
 
 The Northern Ireland Court of Judicature Rules Committee[^f00001] makes the following Rules in exercise of the powers conferred by sections 55 and 55A of the Judicature (Northern Ireland) Act 1978[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-23b8d2e8baa77913ef64a0c258c34d75]
+## 1. Citation, commencement and interpretation[^c-23b8d2e8baa77913ef64a0c258c34d75]
 
 (1) These Rules shall be cited as the Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 and shall come into operation on the date on which the Convention on the Recognition and Enforcement of Foreign Judgments in Civil or Commercial Matters concluded on 2nd July 2019 at The Hague enters into force in respect of the United Kingdom[^f00003].
 
 (2) In these Rules, a reference to an Order or rule means the Order or rule so numbered in the Rules of the Court of Judicature (Northern Ireland) 1980[^f00004].
 
-## 2. Saving provision[^key-5de081c37599a283e5c6d8848ab0dd9b]
+## 2. Saving provision[^c-5de081c37599a283e5c6d8848ab0dd9b]
 
 (1) Where an application for registration of—
 
@@ -59,11 +59,11 @@ was made under section 4B of the Civil Jurisdiction and Judgments Act 1982[^f000
 
 (2) In paragraph (1), “**Contracting State**” means a State bound by the Convention on Choice of Court Agreements concluded on 30th June 2005 at The Hague.
 
-## 3. Amendments to the Rules of the Court of Judicature (Northern Ireland) 1980[^key-d1d453d522c96e27d1d4ef4e77eaca54]
+## 3. Amendments to the Rules of the Court of Judicature (Northern Ireland) 1980[^c-d1d453d522c96e27d1d4ef4e77eaca54]
 
 Order 71 of the Rules of the Court of Judicature (Northern Ireland) 1980 is amended in accordance with rule 4.
 
-**4.**[^key-e1e001c67282f3ff3e3689b7c6bafbba][^key-d1d453d522c96e27d1d4ef4e77eaca54] (1) In rule 22(1)—
+**4.**[^c-e1e001c67282f3ff3e3689b7c6bafbba][^c-d1d453d522c96e27d1d4ef4e77eaca54] (1) In rule 22(1)—
 
 - (a) for “at the Hague”, substitute “at The Hague”; and
 - (b) after the definition of the 2005 Hague Convention, insert ““**the 2019 Hague Convention**” means the Convention on the Recognition and Enforcement of Foreign Judgments in Civil or Commercial Matters concluded on 2nd July 2019 at The Hague.”.
@@ -186,16 +186,16 @@ These Rules amend the Rules of the Court of Judicature (Northern Ireland) 1980 (
 
 [^f00002]: Footnote: [1978 c.23](https://www.legislation.gov.uk/ukpga/1978/23); to which the most recent relevant amendments were made by paragraphs 29 and 30 of Schedule 5 to the Constitutional Reform Act 1998 (Devolution of Policing and Justice Functions) Order 2010 ([S.I. 2010 No. 976](https://www.legislation.gov.uk/uksi/2010/976)); and paragraph 2 of the Schedule to the Northern Ireland (Miscellaneous Provisions) Act [2014 (c.13)](https://www.legislation.gov.uk/ukpga/2014/13).
 
-[^key-23b8d2e8baa77913ef64a0c258c34d75]: Commencement: Rule 1 comes into force in accordance with rule 1(1)
+[^c-23b8d2e8baa77913ef64a0c258c34d75]: Commencement: Rule 1 comes into force in accordance with rule 1(1)
 
 [^f00003]: Footnote: This date will be determined under Article 28(2)(a) of that Convention and will be notified in the London, Edinburgh and Belfast Gazettes.
 
 [^f00004]: Footnote: [S.R. 1980 No. 346](https://www.legislation.gov.uk/nisr/1980/346); The Rules of the Supreme Court (Northern Ireland) 1980 were renamed in accordance with paragraph 3 of Schedule 11 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4). The most recent relevant amendments were made by [S.R. 2019 No. 237](https://www.legislation.gov.uk/nisr/2019/237).
 
-[^key-5de081c37599a283e5c6d8848ab0dd9b]: Commencement: Rule 2 comes into force in accordance with rule 1(1)
+[^c-5de081c37599a283e5c6d8848ab0dd9b]: Commencement: Rule 2 comes into force in accordance with rule 1(1)
 
 [^f00005]: Footnote: [1982 c.27](https://www.legislation.gov.uk/ukpga/1982/27). Section 4B was inserted by [S.I. 2015/1644](https://www.legislation.gov.uk/uksi/2015/1644) (regulations 2 and 4). Regulation 25 applies section 4B (with modifications) to judicial settlements as if they were judgments.
 
-[^key-d1d453d522c96e27d1d4ef4e77eaca54]: Commencement: Rule 3 comes into force in accordance with rule 1(1)
+[^c-d1d453d522c96e27d1d4ef4e77eaca54]: Commencement: Rule 3 comes into force in accordance with rule 1(1)
 
-[^key-e1e001c67282f3ff3e3689b7c6bafbba]: Commencement: Rule 4 comes into force in accordance with rule 1(1)
+[^c-e1e001c67282f3ff3e3689b7c6bafbba]: Commencement: Rule 4 comes into force in accordance with rule 1(1)

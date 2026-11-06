@@ -24,11 +24,11 @@ Section 112
 
 ### The Company Directors Disqualification (Northern Ireland) Order 2002
 
-**1.**[^key-d489e4d77778d4957e3f6a7bbc6ff93c] In this Schedule “**the 2002 Order**” means the Company Directors Disqualification (Northern Ireland) Order 2002 (S.I. 2002/3150 (N.I. 4)).
+**1.**[^c-d489e4d77778d4957e3f6a7bbc6ff93c] In this Schedule “**the 2002 Order**” means the Company Directors Disqualification (Northern Ireland) Order 2002 (S.I. 2002/3150 (N.I. 4)).
 
 ### Convictions abroad
 
-**2.**[^key-124c71aaf8086c8ee318efe1a9cb48be] (1) After Article 8 of the 2002 Order insert—
+**2.**[^c-124c71aaf8086c8ee318efe1a9cb48be] (1) After Article 8 of the 2002 Order insert—
 
 > **8A. Disqualification for certain convictions abroad**
 >
@@ -59,7 +59,7 @@ Section 112
 
 ### Determining unfitness and disqualification orders: matters to be taken into account
 
-**3.**[^key-2e740b5c52431dac1924056e0dfb4140] (1) The 2002 Order is amended as follows.
+**3.**[^c-2e740b5c52431dac1924056e0dfb4140] (1) The 2002 Order is amended as follows.
 
 (2) In Article 9 (duty of High Court to disqualify unfit directors of insolvent companies)—
 
@@ -146,7 +146,7 @@ Section 112
 
 ### Extension of period for applying for disqualification order for unfit directors
 
-**4.**[^key-afec82ed0f920797cbe59f040b8635e4] (1) In Article 10(2) of the 2002 Order (period within which application may be made for disqualification order against unfit director of insolvent company), for “2 years” substitute “ 3 years ”.
+**4.**[^c-afec82ed0f920797cbe59f040b8635e4] (1) In Article 10(2) of the 2002 Order (period within which application may be made for disqualification order against unfit director of insolvent company), for “2 years” substitute “ 3 years ”.
 
 (2) Sub-paragraph (1) applies only to an application relating to a company which has become insolvent after the commencement of that sub-paragraph.
 
@@ -154,7 +154,7 @@ Section 112
 
 ### Reports of office-holders on conduct of directors of insolvent companies
 
-**5.**[^key-607b04428a3381fa82d89f04f5ba4ce7] (1) The 2002 Order is amended as follows.
+**5.**[^c-607b04428a3381fa82d89f04f5ba4ce7] (1) The 2002 Order is amended as follows.
 
 (2) After Article 10 insert—
 
@@ -218,7 +218,7 @@ Section 112
 
 ### Directors: removal of restriction on application for disqualification order
 
-**6.**[^key-ca7db6c76374be02bbcb40b108c3d353] (1) The 2002 Order is amended as follows.
+**6.**[^c-ca7db6c76374be02bbcb40b108c3d353] (1) The 2002 Order is amended as follows.
 
 (2) In Article 11 (disqualification of director after investigation of company)—
 
@@ -230,7 +230,7 @@ Section 112
 
 ### Persons instructing unfit director
 
-**7.**[^key-80d284ea8bcdc0037a417e03c06a4d46] After Article 11 of the 2002 Order insert—
+**7.**[^c-80d284ea8bcdc0037a417e03c06a4d46] After Article 11 of the 2002 Order insert—
 
 > **Persons instructing unfit directors**
 >
@@ -339,7 +339,7 @@ Section 112
 
 ### Compensation orders and undertakings
 
-**8.**[^key-e9e639fbe6d86b2627d9c8790ce9efc6] After Article 19 of the 2002 Order insert—
+**8.**[^c-e9e639fbe6d86b2627d9c8790ce9efc6] After Article 19 of the 2002 Order insert—
 
 > **Compensation orders and undertakings**
 >
@@ -401,7 +401,7 @@ Section 112
 
 ### Amendments consequential on, or related to, amendments made by paragraphs 2 to 8
 
-**9.**[^key-948b889090a713d2b70d8a5b25c27c0b] (1) The 2002 Order is amended as follows.
+**9.**[^c-948b889090a713d2b70d8a5b25c27c0b] (1) The 2002 Order is amended as follows.
 
 (2) In Article 2(2) (interpretation), after the definition of “the official receiver” insert—
 
@@ -477,26 +477,26 @@ Section 112
   , and
 - (c) omit paragraph (3).
 
-**10.**[^key-498e1a483e243e4f474fc63731ed0d5f] Omit paragraph 65 of Schedule 2 to the Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10)).
+**10.**[^c-498e1a483e243e4f474fc63731ed0d5f] Omit paragraph 65 of Schedule 2 to the Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10)).
 
 ## Annotations
 
-[^key-d489e4d77778d4957e3f6a7bbc6ff93c]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/1) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h)
+[^c-d489e4d77778d4957e3f6a7bbc6ff93c]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/1) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h)
 
-[^key-124c71aaf8086c8ee318efe1a9cb48be]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/2) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/8))
+[^c-124c71aaf8086c8ee318efe1a9cb48be]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/2) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/8))
 
-[^key-2e740b5c52431dac1924056e0dfb4140]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/3) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h) (with [Sch. paras. 5-8](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/5))
+[^c-2e740b5c52431dac1924056e0dfb4140]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/3) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h) (with [Sch. paras. 5-8](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/5))
 
-[^key-afec82ed0f920797cbe59f040b8635e4]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/4) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h)
+[^c-afec82ed0f920797cbe59f040b8635e4]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/4) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h)
 
-[^key-607b04428a3381fa82d89f04f5ba4ce7]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/5) in force at 6.4.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/c) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/4))
+[^c-607b04428a3381fa82d89f04f5ba4ce7]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/5) in force at 6.4.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/c) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/4))
 
-[^key-ca7db6c76374be02bbcb40b108c3d353]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/6) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h)
+[^c-ca7db6c76374be02bbcb40b108c3d353]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/6) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h)
 
-[^key-80d284ea8bcdc0037a417e03c06a4d46]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/7) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h) (with [Sch. para. 9](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/9))
+[^c-80d284ea8bcdc0037a417e03c06a4d46]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/7) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h) (with [Sch. para. 9](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/9))
 
-[^key-e9e639fbe6d86b2627d9c8790ce9efc6]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/8) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/10))
+[^c-e9e639fbe6d86b2627d9c8790ce9efc6]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/8) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/10))
 
-[^key-948b889090a713d2b70d8a5b25c27c0b]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/9) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h)
+[^c-948b889090a713d2b70d8a5b25c27c0b]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/9) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h)
 
-[^key-498e1a483e243e4f474fc63731ed0d5f]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/10) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h)
+[^c-498e1a483e243e4f474fc63731ed0d5f]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2015/26/schedule/8/paragraph/10) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/h)

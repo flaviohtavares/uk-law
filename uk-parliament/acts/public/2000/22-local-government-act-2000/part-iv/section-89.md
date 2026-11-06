@@ -22,9 +22,9 @@ summary: ''
 
 (1) The [^c1427982]Local Government Act 1992 is amended as mentioned in subsections (2) and (3).
 
-(2)[^key-6ce4b213658bc250944ca15fdfe1e203] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6ce4b213658bc250944ca15fdfe1e203] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-6ce4b213658bc250944ca15fdfe1e203] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6ce4b213658bc250944ca15fdfe1e203] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 6(2)(a) of the [^c1427984]Local Government Act 1972 (electoral division of non-metropolitan county to return one councillor) after “Act” insert “ and subject to sections 14(8) and 17(7) of the Local Government Act 1992 ”.
 
@@ -32,6 +32,6 @@ summary: ''
 
 [^c1427982]: Marginal citation: [1992 c. 19](https://www.legislation.gov.uk/ukpga/1992/19).
 
-[^key-6ce4b213658bc250944ca15fdfe1e203]: Textual amendment: S. 89(2)(3) repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 146(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/146/3), [148(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/hh)
+[^c-6ce4b213658bc250944ca15fdfe1e203]: Textual amendment: S. 89(2)(3) repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 146(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/146/3), [148(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/hh)
 
 [^c1427984]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

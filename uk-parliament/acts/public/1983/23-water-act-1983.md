@@ -81,7 +81,7 @@ as he considers expedient.
 (5) In subsection (4) above “**authority**” means—
 
 - (a) a water authority,
-- (b)[^key-32db0cc70943f3de00a18096222953b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-32db0cc70943f3de00a18096222953b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a regional or islands council,
 - (d) a river purification board, or
 - (e) a water development board.
@@ -150,7 +150,7 @@ he shall comply with subsection (3) below in relation to every statutory water u
 - “**Council**” means the National Water Council.
 - “**principal Act**” means the [^c796778]Water Act 1973,
 - “**river purification board**” means a board established under section 135 of the [^c796779]Local Government (Scotland) Act 1973,
-- [^key-acdd629747f63bd237a4d90743e5015c]... and
+- [^c-acdd629747f63bd237a4d90743e5015c]... and
 - “**water development board**” has the meaning given by section 109(1) of the [^c796780]Water (Scotland) Act 1980.
 
 ### 11. Short title and commencement, etc.
@@ -444,7 +444,7 @@ Section 11(3).
 
 [^c796775]: Modification: Power of appointment conferred by s. 3(2) fully exercised: 1.10.1983 appointed by [S.I. 1983/1174](https://www.legislation.gov.uk/uksi/1983/1174)
 
-[^key-32db0cc70943f3de00a18096222953b0]: Textual amendment: [S. 3(5)(b)](https://www.legislation.gov.uk/ukpga/1983/23/section/3/5/b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/2/a)
+[^c-32db0cc70943f3de00a18096222953b0]: Textual amendment: [S. 3(5)(b)](https://www.legislation.gov.uk/ukpga/1983/23/section/3/5/b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/2/a)
 
 [^c796776]: Textual amendment: [Ss. 5–7](https://www.legislation.gov.uk/ukpga/1983/23/section/5) repealed by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [s. 190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [Sch. 27 Pt. I](https://www.legislation.gov.uk/ukpga/1989/15/schedule/27/part/I) (with [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)–(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [41(1)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/41/1), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58))
 
@@ -454,7 +454,7 @@ Section 11(3).
 
 [^c796779]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-acdd629747f63bd237a4d90743e5015c]: Textual amendment: Words in s. 10 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(2)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/2/b)
+[^c-acdd629747f63bd237a4d90743e5015c]: Textual amendment: Words in s. 10 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(2)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/2/b)
 
 [^c796780]: Marginal citation: [1980 c. 45](https://www.legislation.gov.uk/ukpga/1980/45).
 

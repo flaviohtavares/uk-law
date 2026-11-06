@@ -30,7 +30,7 @@ In this Part of this Schedule—
 
 - (a) “**EMR 2011**” means the Electronic Money Regulations 2011 [^c23524661],
 - (b) “**the 2000 Act**” means the Financial Services and Markets Act 2000 [^c23524671],
-- (ba)[^key-c3da9c20f2c24395c35f50cac86ac226] “the 2018 Regulations” means the Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018;
+- (ba)[^c-c3da9c20f2c24395c35f50cac86ac226] “the 2018 Regulations” means the Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018;
 - (c) “**the FCA**” means the Financial Conduct Authority, and
 - (d) “EEA authorised electronic money institution”, “home state competent authority”, “passport right”, “the electronic money directive”, “the money laundering directive” and “the payment services directive” each has the meaning given by EMR 2011 as those Regulations have effect before the amendments made by Schedule 2.
 
@@ -38,7 +38,7 @@ In this Part of this Schedule—
 
 (1) This paragraph applies to a person who—
 
-- (a) immediately before IP completion day[^key-771ee335ab7955588077b858bcbff32a] is entitled to provide electronic money issuance, redemption, distribution or payment services in the United Kingdom in the exercise of a passport right as an EEA authorised electronic money institution,
+- (a) immediately before IP completion day[^c-771ee335ab7955588077b858bcbff32a] is entitled to provide electronic money issuance, redemption, distribution or payment services in the United Kingdom in the exercise of a passport right as an EEA authorised electronic money institution,
 - (b) would (apart from this Part of this Schedule) cease from IP completion day to be entitled to provide those services in the United Kingdom, and
 - (c) has notified the FCA in accordance with paragraph 3 that the person wishes this paragraph to apply in the person's case.
 
@@ -56,7 +56,7 @@ In this Part of this Schedule—
 (1) A notification for the purposes of paragraph 2(1)(c) must—
 
 - (a) be made in such manner as the FCA may direct, and
-- (b)[^key-3f9dcd3dae3225c7771385ffdd5454c5] be made during the period beginning with 28 December 2018 and ending with the day preceding the day on which IP completion day falls.
+- (b)[^c-3f9dcd3dae3225c7771385ffdd5454c5] be made during the period beginning with 28 December 2018 and ending with the day preceding the day on which IP completion day falls.
 
 (2) The notification must—
 
@@ -72,7 +72,7 @@ In this Part of this Schedule—
 
 #### 4. Registration of agents
 
-(1) If a notification for the purposes of paragraph 2(1)(c) includes the information required by paragraph 3(2)(e) in relation to an agent, the FCA must, with effect from IP completion day[^key-43f8a91f7788e3470b773a6bb9cd4215] or as soon as practicable after that time, include the agent on the register maintained under regulation 4 of EMR 2011.
+(1) If a notification for the purposes of paragraph 2(1)(c) includes the information required by paragraph 3(2)(e) in relation to an agent, the FCA must, with effect from IP completion day[^c-43f8a91f7788e3470b773a6bb9cd4215] or as soon as practicable after that time, include the agent on the register maintained under regulation 4 of EMR 2011.
 
 (2) A person to whom paragraph 2 applies may apply to the FCA under regulation 34 of EMR 2011 before IP completion day for the registration at any time after IP completion day of an agent not falling within sub-paragraph (1).
 
@@ -85,7 +85,7 @@ In this Part of this Schedule—
 - (a) was imposed on the person—
   - (i) as a precautionary measure under regulation 30(8) of EMR 2011, or
   - (ii) under section 196 of the 2000 Act as applied by paragraph 4A of Schedule 3 to EMR 2011, and
-- (b) has effect immediately before IP completion day[^key-39064e3f5ec3fec572728e87f9a85cd4],
+- (b) has effect immediately before IP completion day[^c-39064e3f5ec3fec572728e87f9a85cd4],
 
 is to continue to have effect at and after that time as if it were imposed by the FCA under regulation 7 of EMR 2011.
 
@@ -112,7 +112,7 @@ is to continue to have effect at and after that time as if it were imposed by th
 - (a) regulation 10(1) (cancellation of authorisation);
 - (b) regulation 17 (duty to notify changes);
 - (c) regulation 19 (capital requirements);
-- (d) except where the person is subject to insolvency proceedings (as defined in regulation 24 of EMR 2011) in the United Kingdom,[^key-58b1c8580c3bcedbab161d91bea03079] in regulation 24 (insolvency events), paragraphs (1), (2), (4) and (5);
+- (d) except where the person is subject to insolvency proceedings (as defined in regulation 24 of EMR 2011) in the United Kingdom,[^c-58b1c8580c3bcedbab161d91bea03079] in regulation 24 (insolvency events), paragraphs (1), (2), (4) and (5);
 - (e) regulation 25 (accounting and statutory audit);
 - (f) in Schedule 3 (application and modification of legislation), paragraph 4 (control over electronic money institutions).
 
@@ -124,7 +124,7 @@ is to continue to have effect at and after that time as if it were imposed by th
 
 - (a) the person's authorisation by the person's home state competent authority is cancelled,
 - (b) the person has failed to comply with the terms of the person's authorisation by the person's home state competent authority,
-- (c) the person does not issue electronic money in the United Kingdom during the 12 months beginning with IP completion day[^key-f65e7800701df67e2ddb1a349fd05a67],
+- (c) the person does not issue electronic money in the United Kingdom during the 12 months beginning with IP completion day[^c-f65e7800701df67e2ddb1a349fd05a67],
 - (d) the person ceases to engage in business activity in the United Kingdom for more than 6 months,
 - (e) the person's notification for the purposes of paragraph 2(1)(c) contains false statements,
 - (f) the person lacks one or more of the following—
@@ -143,7 +143,7 @@ is to continue to have effect at and after that time as if it were imposed by th
 
 #### 9. Notice of intention
 
-(1) A person in relation to whom paragraph 2 applies must, before the end of the 12 months beginning with the day on which IP completion day[^key-e4ae8e1a4de367299ba812607e369d5c] falls, notify the FCA—
+(1) A person in relation to whom paragraph 2 applies must, before the end of the 12 months beginning with the day on which IP completion day[^c-e4ae8e1a4de367299ba812607e369d5c] falls, notify the FCA—
 
 - (a) whether the person or a member of the person's immediate group, as defined by section 421ZA of the 2000 Act, intends to apply under regulation 5 of EMR 2011, and
 - (b) whether the person intends to cease at or before the end of the transition period to provide in the United Kingdom the services to which the transitional authorisation relates.
@@ -152,7 +152,7 @@ is to continue to have effect at and after that time as if it were imposed by th
 
 #### 10. Transition period
 
-(1) The transition period in relation to a person is a period beginning with IP completion day[^key-16510046d1b24db108c50b7ec2bf851d] and ending with a day determined under this paragraph, or with any earlier day on which the cancellation under paragraph 8 of the person's transitional authorisation takes effect.
+(1) The transition period in relation to a person is a period beginning with IP completion day[^c-16510046d1b24db108c50b7ec2bf851d] and ending with a day determined under this paragraph, or with any earlier day on which the cancellation under paragraph 8 of the person's transitional authorisation takes effect.
 
 (2) In a case where a person has applied under regulation 5 of EMR 2011, on or after the date on which this regulation comes into force, to become an authorised electronic money institution and has not withdrawn the application—
 
@@ -182,15 +182,15 @@ The power of the FCA to give directions under this Part of this Schedule include
 - (a) to give different directions in relation to different notifications or categories of notification, and
 - (b) to vary or revoke a previous direction.
 
-### PART 1A — Continuation of authorisation for limited purposes: Electronic Money Regulations 2011[^key-d38e80cb33381c6678935f1af98c8472]
+### PART 1A — Continuation of authorisation for limited purposes: Electronic Money Regulations 2011[^c-d38e80cb33381c6678935f1af98c8472]
 
 #### 12A. Interpretation
 
-The interpretative provisions in paragraph 1 apply also for the purposes of this Part of this Schedule and “[^key-51b38b284bd50dbab4dec6c3f728bcc8]**PSR 2017**” means the Payment Services Regulations 2017.
+The interpretative provisions in paragraph 1 apply also for the purposes of this Part of this Schedule and “[^c-51b38b284bd50dbab4dec6c3f728bcc8]**PSR 2017**” means the Payment Services Regulations 2017.
 
 #### 12B. Continued authorisation for limited purposes
 
-(1) This paragraph applies to a person in relation to whom the IP completion day[^key-2aebbcdd7d0e56b15be8c8f0a9a9f16b] conditions or the transitional authorisation conditions are satisfied.
+(1) This paragraph applies to a person in relation to whom the IP completion day[^c-2aebbcdd7d0e56b15be8c8f0a9a9f16b] conditions or the transitional authorisation conditions are satisfied.
 
 (2) The “IP completion day conditions”, in relation to a person, are—
 
@@ -213,8 +213,8 @@ The interpretative provisions in paragraph 1 apply also for the purposes of this
 
 (4) During the extension period defined in paragraph 12G—
 
-- (a) a person to whom this paragraph applies is to be taken to be an authorised electronic money institution whose authorisation under regulation 9 of EMR 2011 relates to the permitted services specified in paragraph 12E, [^key-f380333c4e205460fffe00186bca5daf]...
-- (b) accordingly, references in EMR 2011 and the Payment Services Regulations 2017[^key-521f0ca6b2d9030f59bccffd33468991] to an authorised electronic money institution are to be read as including a person to whom this paragraph applies, and[^key-629a192c90ea13d7b1be2dcda1e31a23]
+- (a) a person to whom this paragraph applies is to be taken to be an authorised electronic money institution whose authorisation under regulation 9 of EMR 2011 relates to the permitted services specified in paragraph 12E, [^c-f380333c4e205460fffe00186bca5daf]...
+- (b) accordingly, references in EMR 2011 and the Payment Services Regulations 2017[^c-521f0ca6b2d9030f59bccffd33468991] to an authorised electronic money institution are to be read as including a person to whom this paragraph applies, and[^c-629a192c90ea13d7b1be2dcda1e31a23]
 - (c) a requirement imposed by a home state competent authority and which has effect immediately before IP completion day continues to have effect on and after that day as if it were imposed by the FCA under regulation 7 of EMR 2011 insofar as it could be imposed by the FCA under that regulation.
 
 (5) Sub-paragraph (4) is subject to paragraphs 12C(4), 12H and 12I.
@@ -246,8 +246,8 @@ If a notification under paragraph 12C includes information as to the use of an a
 
 (2) The permitted services are—
 
-- (a) where the IP completion day[^key-8a84932ee7dab00d8da2a8c3e650a470] conditions in paragraph 12B(2) are met, services of the kind mentioned in paragraph 12B(2)(a), but only to the extent that the issue of electronic money, or the provision of payment services, is necessary to enable the person to whom paragraph 12B applies to perform a pre-existing contract or to redeem outstanding electronic money[^key-164adc324b27168691cfeff2b5eded6c], or
-- (b) where the transitional authorisation conditions in paragraph 12B(3) are met, services of the kind mentioned in paragraph 12B(3)(b)(i) or (ii), but only to the extent that the issue of electronic money, or the provision of payment services, is necessary to enable the person to whom paragraph 12B applies to perform a pre-existing contract or to redeem outstanding electronic money[^key-30ced204ee79a4f519e9c89a6713ce9c].
+- (a) where the IP completion day[^c-8a84932ee7dab00d8da2a8c3e650a470] conditions in paragraph 12B(2) are met, services of the kind mentioned in paragraph 12B(2)(a), but only to the extent that the issue of electronic money, or the provision of payment services, is necessary to enable the person to whom paragraph 12B applies to perform a pre-existing contract or to redeem outstanding electronic money[^c-164adc324b27168691cfeff2b5eded6c], or
+- (b) where the transitional authorisation conditions in paragraph 12B(3) are met, services of the kind mentioned in paragraph 12B(3)(b)(i) or (ii), but only to the extent that the issue of electronic money, or the provision of payment services, is necessary to enable the person to whom paragraph 12B applies to perform a pre-existing contract or to redeem outstanding electronic money[^c-30ced204ee79a4f519e9c89a6713ce9c].
 
 (3) If a pre-existing contract is varied by agreement for the purpose of complying with regulatory requirements or reducing a risk to the person to whom paragraph 12D applies, but without extending the duration of the contract or materially altering its commercial effect, the contract as varied remains a pre-existing contract.
 
@@ -259,20 +259,20 @@ If a notification under paragraph 12C includes information as to the use of an a
 
 #### 12F. Notification that authorisation no longer required
 
-(1) A person to whom paragraph 12B applies and who has notified the FCA under paragraph 12C(1) must notify the FCA once it no longer has obligations under pre-existing contracts and has redeemed electronic money issued through a branch in the United Kingdom[^key-b524939ee5b1ea5b1a2e8ed04de97301].
+(1) A person to whom paragraph 12B applies and who has notified the FCA under paragraph 12C(1) must notify the FCA once it no longer has obligations under pre-existing contracts and has redeemed electronic money issued through a branch in the United Kingdom[^c-b524939ee5b1ea5b1a2e8ed04de97301].
 
-(2) On receiving a notification under sub-paragraph (1), the FCA must, if satisfied that the person giving the notification no longer has obligations under pre-existing contracts and has redeemed electronic money issued through a branch in the United Kingdom[^key-b9b1a8c2af40928e67094d73c9450873]—
+(2) On receiving a notification under sub-paragraph (1), the FCA must, if satisfied that the person giving the notification no longer has obligations under pre-existing contracts and has redeemed electronic money issued through a branch in the United Kingdom[^c-b9b1a8c2af40928e67094d73c9450873]—
 
 - (a) notify the person of the date on which the person will cease to be an authorised electronic money institution by virtue of this Part of this Schedule, and
 - (b) remove the person from the register from that date.
 
-(3)[^key-bfad40c9b1a130bcb3deb4c2668b8451] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-bfad40c9b1a130bcb3deb4c2668b8451] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 12G. Extension period
 
 (1) The extension period in relation to a person begins—
 
-- (a) where the IP completion day[^key-88393338725429112b4eee9219347052] conditions are met, with the day on which IP completion day falls, and
+- (a) where the IP completion day[^c-88393338725429112b4eee9219347052] conditions are met, with the day on which IP completion day falls, and
 - (b) where the transitional authorisation conditions are met, with the end of the transition period defined by paragraph 10.
 
 (2) The extension period in relation to a person ends with the earliest of the following—
@@ -280,19 +280,19 @@ If a notification under paragraph 12C includes information as to the use of an a
 - (a) the day before the date stated in accordance with regulation 9(5) of EMR 2011 as that on which the person’s authorisation as an electronic money institution (otherwise than by virtue of this Schedule) takes effect;
 - (b) the day on which the transfer to another person of the person’s business of providing electronic money issuance, redemption, distribution or payment services in the United Kingdom takes effect;
 - (c) in a case where the person has notified the FCA under paragraph 12C(1), the day determined by the FCA under paragraph 12F(2);
-- (d) in a case where the person has not notified the FCA under paragraph 12C(1), the time when all the person’s obligations under relevant contracts have been discharged and the person has redeemed electronic money issued through a branch or an agent in the United Kingdom[^key-1d98322344d682f3384f523290310b3e];
+- (d) in a case where the person has not notified the FCA under paragraph 12C(1), the time when all the person’s obligations under relevant contracts have been discharged and the person has redeemed electronic money issued through a branch or an agent in the United Kingdom[^c-1d98322344d682f3384f523290310b3e];
 - (e) the day on which any cancellation under paragraph 12J takes effect;
 - (f) the day the person ceases to be authorised by its home state competent authority;
 - (g) the end of the period of 5 years beginning with the day on which the extension period began.
 
-(3)[^key-42513e1fc9d198a0714605aa7f52db0c] “Relevant contract”, in relation to a person to whom paragraph 12B applies, means a contract—
+(3)[^c-42513e1fc9d198a0714605aa7f52db0c] “Relevant contract”, in relation to a person to whom paragraph 12B applies, means a contract—
 
 - (a) which—
   - (i) is a pre-existing contract; or
   - (ii) was entered into in accordance with a wind-down plan approved by the FCA under paragraph 12E(4); and
 - (b) under which the person is obliged to issue electronic money or payment services.
 
-#### 12H. Supervision and enforcement of persons to whom paragraph 12B applies[^key-9b3f50912c4e5fccb6cc411b110f7e2a]
+#### 12H. Supervision and enforcement of persons to whom paragraph 12B applies[^c-9b3f50912c4e5fccb6cc411b110f7e2a]
 
 (1) In relation to a person to whom paragraph 12B applies, the provisions of EMR 2011 (other than those disapplied by paragraph 7(1)) apply while the person is an authorised electronic money institution by virtue of paragraph 12B(4).
 
@@ -333,13 +333,13 @@ the FCA may publish a statement to that effect.
 
 - (a) the person’s authorisation by the person’s home state competent authority is cancelled,
 - (b) the person has failed to comply with the terms of the person’s authorisation by the person’s home state competent authority,
-- (c) the person does not issue electronic money in the United Kingdom during the 12 months beginning with IP completion day[^key-b3d67bad3d9bf5e9de26181734731edd],
+- (c) the person does not issue electronic money in the United Kingdom during the 12 months beginning with IP completion day[^c-b3d67bad3d9bf5e9de26181734731edd],
 - (d) the person ceases to engage in business activity in the United Kingdom for more than six months,
 - (e) the person’s notification under paragraph 12C contains false statements,
-- (f) the person has not taken adequate measures for the purposes of safeguarding electronic money holders’ funds in accordance with regulation 20 of EMR 2011 and the 2018 Regulations[^key-d6dfcffaba0b261cf34220dba6a7ab00],
+- (f) the person has not taken adequate measures for the purposes of safeguarding electronic money holders’ funds in accordance with regulation 20 of EMR 2011 and the 2018 Regulations[^c-d6dfcffaba0b261cf34220dba6a7ab00],
 - (g) the person would constitute a threat to the stability of, or trust in, a payment system by continuing the person’s electronic money or payment services business,
-- (h) the cancellation is desirable in order to protect the interests of electronic money holders or payment service users, [^key-9afde4ec8a3285d769821ab48daac548]...
-- (i) the person’s provision of payment services or issuance of electronic money[^key-8723d2ead1c71b43e471d27876bf0d30] is otherwise unlawful, including where such provision of services in unlawful because the person’s registration in a register maintained under regulation 54 or 55 of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 has been cancelled under regulation 60 of those Regulations,or[^key-6fd9ee3ea895e6d16df08b64291181f2]
+- (h) the cancellation is desirable in order to protect the interests of electronic money holders or payment service users, [^c-9afde4ec8a3285d769821ab48daac548]...
+- (i) the person’s provision of payment services or issuance of electronic money[^c-8723d2ead1c71b43e471d27876bf0d30] is otherwise unlawful, including where such provision of services in unlawful because the person’s registration in a register maintained under regulation 54 or 55 of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 has been cancelled under regulation 60 of those Regulations,or[^c-6fd9ee3ea895e6d16df08b64291181f2]
 - (j) the person has not submitted a notification in accordance with paragraph 12C.
 
 #### 12J. Variation and cancellation: procedure
@@ -364,7 +364,7 @@ the FCA may publish a statement to that effect.
 
 #### 12L. Exemption from prohibition
 
-(1)[^key-9f66f3db6eac339e74e9c1a97891bbcc] A person to whom this paragraph applies is, subject to sub-paragraph (6), exempt from the prohibitions in regulation 138(1) of the Payment Services Regulations 2017 and in regulation 63(1) of EMR 2011 for a period of five years beginning with the IP completion day[^key-ee69054ef3887816a97fa983cd956006], but only to the extent that it is necessary for the person to provide payment services or electronic money services in the United Kingdom to perform a pre-existing contract or to redeem outstanding electronic money.
+(1)[^c-9f66f3db6eac339e74e9c1a97891bbcc] A person to whom this paragraph applies is, subject to sub-paragraph (6), exempt from the prohibitions in regulation 138(1) of the Payment Services Regulations 2017 and in regulation 63(1) of EMR 2011 for a period of five years beginning with the IP completion day[^c-ee69054ef3887816a97fa983cd956006], but only to the extent that it is necessary for the person to provide payment services or electronic money services in the United Kingdom to perform a pre-existing contract or to redeem outstanding electronic money.
 
 (2) This paragraph applies to an EEA authorised electronic money institution exercising its passport rights in the United Kingdom immediately before IP completion day other than through a branch in the United Kingdom or a UK-based agent.
 
@@ -383,9 +383,9 @@ the FCA may publish a statement to that effect.
 
 (5) Paragraph 3 of Schedule 3 to EMR 2011 has effect in relation to the FCA’s exercise of its powers under this paragraph.
 
-(6)[^key-b133c816b02bbfbae52f9de8e67b61c2] A person to whom paragraph applies is exempt from the prohibition in regulation 138(1) of the Payment Services Regulations 2017 only to the extent that it was providing the payment service in the United Kingdom immediately before IP completion day in accordance with the exercise of an EEA passport right under Title 5 of Directive (EU) 2015/2366 as in force immediately before IP completion day.
+(6)[^c-b133c816b02bbfbae52f9de8e67b61c2] A person to whom paragraph applies is exempt from the prohibition in regulation 138(1) of the Payment Services Regulations 2017 only to the extent that it was providing the payment service in the United Kingdom immediately before IP completion day in accordance with the exercise of an EEA passport right under Title 5 of Directive (EU) 2015/2366 as in force immediately before IP completion day.
 
-(6)[^key-e0e8f71a3431bdee08d0b8c90a44d65f] Where a person (“A”) to whom this paragraph applies issues electronic money to a person (“B”) in pursuance of a pre-existing contract in reliance on the exemption in sub-paragraph (1), A must, as soon as it is reasonably practicable to do so, notify B—
+(6)[^c-e0e8f71a3431bdee08d0b8c90a44d65f] Where a person (“A”) to whom this paragraph applies issues electronic money to a person (“B”) in pursuance of a pre-existing contract in reliance on the exemption in sub-paragraph (1), A must, as soon as it is reasonably practicable to do so, notify B—
 
 - (a) that A is exempt from the prohibition in regulation 63(1) of EMR 2011 by virtue of sub-paragraph (1) and is not authorised by the FCA under EMR 2011;
 - (b) that, as a result of the United Kingdom's withdrawal from the European Union—
@@ -429,7 +429,7 @@ In this Part of this Schedule—
 
 (1) This paragraph applies to a person who—
 
-- (a) immediately before IP completion day[^key-5f63270eef5713f61392634afe207f84] is entitled to provide payment services in the United Kingdom in the exercise of a passport right,
+- (a) immediately before IP completion day[^c-5f63270eef5713f61392634afe207f84] is entitled to provide payment services in the United Kingdom in the exercise of a passport right,
 - (b) would (apart from this Part of this Schedule) cease from IP completion day to be entitled to provide those services in the United Kingdom, and
 - (c) has notified the FCA in accordance with paragraph 15 that the person wishes this paragraph to apply in the person's case.
 
@@ -449,7 +449,7 @@ In this Part of this Schedule—
 (1) A notification for the purposes of paragraph 14(1)(c) must—
 
 - (a) be made in such manner as the FCA may direct, and
-- (b)[^key-de66cfccbd9d7d4f3c9f0f953250712b] be made during the period beginning with 28 December 2018 and ending with the day preceding the day on which IP completion day falls.
+- (b)[^c-de66cfccbd9d7d4f3c9f0f953250712b] be made during the period beginning with 28 December 2018 and ending with the day preceding the day on which IP completion day falls.
 
 (2) The notification must—
 
@@ -465,7 +465,7 @@ In this Part of this Schedule—
 
 #### 16. Registration of agents
 
-(1) If a notification for the purposes of paragraph 14(1)(c) includes the information required by paragraph 15(2)(e) in relation to an agent, the FCA must, with effect from IP completion day[^key-53bb075388c1e3522d254b88716bdc9b] or as soon as practicable after that time, include the agent on the register maintained under regulation 4 of PSR 2017.
+(1) If a notification for the purposes of paragraph 14(1)(c) includes the information required by paragraph 15(2)(e) in relation to an agent, the FCA must, with effect from IP completion day[^c-53bb075388c1e3522d254b88716bdc9b] or as soon as practicable after that time, include the agent on the register maintained under regulation 4 of PSR 2017.
 
 (2) A person to whom paragraph 14 applies may apply to the FCA under regulation 34 of PSR 2017 before IP completion day for the registration at any time after IP completion day of an agent not falling within sub-paragraph (1).
 
@@ -478,7 +478,7 @@ In this Part of this Schedule—
 - (a) was imposed on the person—
   - (i) as a precautionary measure under regulation 30(9) of PSR 2017, or
   - (ii) under section 196 of the 2000 Act as applied by paragraph 6 of Schedule 6 to PSR 2017, and
-- (b) has effect immediately before IP completion day[^key-0dd646b6778e23ea6eb429e452af2070],
+- (b) has effect immediately before IP completion day[^c-0dd646b6778e23ea6eb429e452af2070],
 
 is to continue to have effect at and after that time as if it were imposed by the FCA under regulation 7 of PSR 2017.
 
@@ -504,11 +504,11 @@ is to continue to have effect at and after that time as if it were imposed by th
 - (a) regulation 10(1) (cancellation of authorisation);
 - (b) regulation 20 (duty to notify changes);
 - (c) regulation 22 and Schedule 3 (capital requirements);
-- (d) except where the person is subject to insolvency proceedings (as defined in regulation 23 of the PSR 2017) in the United Kingdom,[^key-097779c0503e5c861f220b6183112a3e] in regulation 23 (safeguarding requirements), paragraphs (14) to (16);
+- (d) except where the person is subject to insolvency proceedings (as defined in regulation 23 of the PSR 2017) in the United Kingdom,[^c-097779c0503e5c861f220b6183112a3e] in regulation 23 (safeguarding requirements), paragraphs (14) to (16);
 - (e) regulation 24 (accounting and statutory audit);
 - (f) in Schedule 6 (application and modification of legislation), paragraph 5 (control over payment institutions) and paragraph 6 (incoming firms: intervention by FCA).
 
-(2) Regulation 6 (conditions for authorisation) does not apply in relation to a person by virtue of the person's transitional authorisation, but applies in relation to any application for registration made by a person to whom paragraph 14(2)(a)(ii) applies[^key-e24d4102a77d5a5c297d26245aa24046] during the transition period defined in paragraph 22.
+(2) Regulation 6 (conditions for authorisation) does not apply in relation to a person by virtue of the person's transitional authorisation, but applies in relation to any application for registration made by a person to whom paragraph 14(2)(a)(ii) applies[^c-e24d4102a77d5a5c297d26245aa24046] during the transition period defined in paragraph 22.
 
 #### 20. Power of FCA to cancel transitional authorisation
 
@@ -516,7 +516,7 @@ is to continue to have effect at and after that time as if it were imposed by th
 
 - (a) the person's authorisation by the person's home state competent authority is cancelled,
 - (b) the person has failed to comply with the terms of the person's authorisation by the person's home state competent authority,
-- (c) the person does not provide payment services in the United Kingdom during the 12 months beginning with IP completion day[^key-635a8562d31e95f55e0d8b20d13a63cc],
+- (c) the person does not provide payment services in the United Kingdom during the 12 months beginning with IP completion day[^c-635a8562d31e95f55e0d8b20d13a63cc],
 - (d) the person ceases to engage in business activity in the United Kingdom for more than six months,
 - (e) the person's notification for the purposes of paragraph 14(1)(c) contains false statements,
 - (f) the person lacks one or more of the following—
@@ -527,7 +527,7 @@ is to continue to have effect at and after that time as if it were imposed by th
 - (h) the person does not have a business plan under which appropriate and proportionate systems, resources and procedures will be employed by the person to operate soundly,
 - (i) the person has not taken adequate measures for the purposes of safeguarding electronic money holders' funds in accordance with regulation 23 of PSR 2017,
 - (j) in the case of a person carrying on payment initiation services, the person does not hold professional indemnity insurance, or a comparable guarantee, of the kind mentioned in regulation 6(7)(e) of PSR 2017,
-- (ja)[^key-e39c214339185e0b4f83a88c03763faf] in the case of a person carrying on account information services, the person does not hold professional indemnity insurance, or a comparable guarantee, of the kind mentioned in regulation 6(7)(f) of PSR 2017,
+- (ja)[^c-e39c214339185e0b4f83a88c03763faf] in the case of a person carrying on account information services, the person does not hold professional indemnity insurance, or a comparable guarantee, of the kind mentioned in regulation 6(7)(f) of PSR 2017,
 - (k) the person would constitute a threat to the stability of, or trust in, a payment system by continuing the person's electronic money or payment services business,
 - (l) the cancellation is desirable in order to protect the interests of consumers, or
 - (m) the person's provision of payment services is otherwise unlawful, including where such provision of services in unlawful because the person's registration in a register maintained under regulation 54 or 55 of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 has been cancelled under regulation 60 of those Regulations.
@@ -536,7 +536,7 @@ is to continue to have effect at and after that time as if it were imposed by th
 
 #### 21. Notice of intention
 
-(1) A person in relation to whom paragraph 14 applies must, before the end of the 12 months beginning with the day on which IP completion day[^key-22740571a44b9f2eaa02e0fb9556200c] falls, notify the FCA—
+(1) A person in relation to whom paragraph 14 applies must, before the end of the 12 months beginning with the day on which IP completion day[^c-22740571a44b9f2eaa02e0fb9556200c] falls, notify the FCA—
 
 - (a) whether the person or a member of the person's immediate group, as defined by section 421ZA of the 2000 Act, intends to apply under regulation 5 or 17 of PSR 2017, and
 - (b) whether the person intends to cease at or before the end of the transition period to provide in the United Kingdom the services to which the transitional authorisation relates.
@@ -545,7 +545,7 @@ is to continue to have effect at and after that time as if it were imposed by th
 
 #### 22. Transition period
 
-(1) The transition period in relation to a person is a period beginning with IP completion day[^key-b0932689387fc706c526083128cd4a20] and ending with a day determined under this paragraph, or with any earlier day on which the cancellation under paragraph 20 of the person's transitional authorisation takes effect.
+(1) The transition period in relation to a person is a period beginning with IP completion day[^c-b0932689387fc706c526083128cd4a20] and ending with a day determined under this paragraph, or with any earlier day on which the cancellation under paragraph 20 of the person's transitional authorisation takes effect.
 
 (2) In a case where a person has applied under regulation 5 of PSR 2017, on or after the date on which this regulation comes into force, for authorisation as a payment institution and has not withdrawn the application—
 
@@ -580,7 +580,7 @@ The power of the FCA to give directions under this Part of this Schedule include
 - (a) to give different directions in relation to different notifications or categories of notification, and
 - (b) to vary or revoke a previous direction.
 
-### PART 3 — Continuation of authorisation for limited purposes: Payment Services Regulations 2017[^key-9029d7e7ebe47d85e8edd8844d9d2169]
+### PART 3 — Continuation of authorisation for limited purposes: Payment Services Regulations 2017[^c-9029d7e7ebe47d85e8edd8844d9d2169]
 
 #### 25. Interpretation
 
@@ -588,7 +588,7 @@ The interpretative provisions in paragraph 13 apply also for the purposes of thi
 
 #### 26. Continued authorisation for limited purposes
 
-(1) This paragraph applies to a person in relation to whom the IP completion day[^key-36226d573a2c8e0215ed498ee5a89919] conditions or the transitional authorisation conditions are satisfied.
+(1) This paragraph applies to a person in relation to whom the IP completion day[^c-36226d573a2c8e0215ed498ee5a89919] conditions or the transitional authorisation conditions are satisfied.
 
 (2) The “IP completion day conditions”, in relation to a person, are—
 
@@ -612,7 +612,7 @@ The interpretative provisions in paragraph 13 apply also for the purposes of thi
   - (i) in the case of a person who was an EEA authorised payment institution, to be an authorised payment institution whose authorisation under regulation 6 of PSR 2017 relates to the permitted services specified in paragraph 29, or
   - (ii) in the case of a person who was an EEA registered account information service provider, to be a registered account information service provider whose registration under regulation 18 of PSR 2017 relates to the permitted services specified in paragraph 29;
 - (b) accordingly, references in PSR 2017 to an authorised payment institution or a registered account information service provider are to be read as including a person who is taken by virtue of this paragraph to be an authorised payment institution or a registered account information service provider (as the case may be).
-- (c)[^key-a784bc7889bddac5066823c8e43f2a79] a requirement imposed by a home state competent authority and which has effect immediately before IP completion day continues to have effect on and after that day as if it were imposed by the FCA under regulation 7 of the PSR 2017 insofar as it could be imposed by the FCA under that regulation.
+- (c)[^c-a784bc7889bddac5066823c8e43f2a79] a requirement imposed by a home state competent authority and which has effect immediately before IP completion day continues to have effect on and after that day as if it were imposed by the FCA under regulation 7 of the PSR 2017 insofar as it could be imposed by the FCA under that regulation.
 
 (5) Sub-paragraph (4) is subject to paragraphs 27(4), 32 and 33.
 
@@ -643,7 +643,7 @@ If a notification under paragraph 27 includes information as to the use of an ag
 
 (2) The permitted services are—
 
-- (a) where the IP completion day[^key-c246d15676ca1123381dd3a446acb8aa] conditions in paragraph 26(2) are met, payment services of the kind mentioned in paragraph 26(2)(a), but only to the extent that the provision of the services is necessary to enable the person to whom paragraph 26 applies to perform a pre-existing contract, or
+- (a) where the IP completion day[^c-c246d15676ca1123381dd3a446acb8aa] conditions in paragraph 26(2) are met, payment services of the kind mentioned in paragraph 26(2)(a), but only to the extent that the provision of the services is necessary to enable the person to whom paragraph 26 applies to perform a pre-existing contract, or
 - (b) where the transitional authorisation conditions in paragraph 26(3) are met, payment services of the kind mentioned in paragraph 26(3)(b)(i) or (ii), but only to the extent that the provision of the services is necessary to enable the person to whom paragraph 12B applies to perform a pre-existing contract.
 
 (3) If a pre-existing contract is varied by agreement for the purpose of complying with regulatory requirements or reducing a risk to the person to whom paragraph 26 applies, but without extending the duration of the contract or materially altering its commercial effect, the contract as varied remains a pre-existing contract.
@@ -663,13 +663,13 @@ If a notification under paragraph 27 includes information as to the use of an ag
 - (a) notify the person of the date on which the person will cease to be an authorised payment institution, or a registered account information service provider, by virtue of this Part of this Schedule, and
 - (b) remove the person from the register from that date.
 
-(3)[^key-c949158c1d113bf37fe65470e0823a70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c949158c1d113bf37fe65470e0823a70] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 31. Extension period
 
 (1) The extension period in relation to a person begins—
 
-- (a) where the IP completion day[^key-9c0955b09f75cfe0a524efd3e73bfb3a] conditions are met, with the day on which IP completion day falls, and
+- (a) where the IP completion day[^c-9c0955b09f75cfe0a524efd3e73bfb3a] conditions are met, with the day on which IP completion day falls, and
 - (b) where the transitional authorisation conditions are met, with the end of the transition period defined by paragraph 22.
 
 (2) The extension period in relation to a person ends with the earliest of the following—
@@ -682,14 +682,14 @@ If a notification under paragraph 27 includes information as to the use of an ag
 - (f) the day the person ceases to be authorised by its home state competent authority;
 - (g) the end of the period of 5 years beginning with the day on which the extension period began.
 
-(3)[^key-28f1086eaddf701eae6d6b906b320057] “Relevant contract”, in relation to a person to whom paragraph 26 applies, means a contract—
+(3)[^c-28f1086eaddf701eae6d6b906b320057] “Relevant contract”, in relation to a person to whom paragraph 26 applies, means a contract—
 
 - (a) which—
   - (i) is a pre-existing contract; or
   - (ii) was entered into in accordance with a wind-down plan approved by the FCA under paragraph 29(4); and
 - (b) under which the person is obliged to issue electronic money or provide payment services.
 
-#### 32. Supervision and enforcement of persons to whom paragraph 26 applies[^key-dff9edebea4675726f247bbf004035ee]
+#### 32. Supervision and enforcement of persons to whom paragraph 26 applies[^c-dff9edebea4675726f247bbf004035ee]
 
 (1) In relation to a person to whom paragraph 26 applies, the provisions of the PSR 2017 (other than those disapplied by paragraph 19(1)) apply while the person is an authorised payment institution by virtue of paragraph 26(4)(a)(i) or a registered account information service provider by virtue of paragraph 26(4)(a)(ii).
 
@@ -730,10 +730,10 @@ the FCA may publish a statement to that effect.
 
 - (a) the person’s authorisation by the person’s home state competent authority is cancelled,
 - (b) the person has failed to comply with the terms of the person’s authorisation by the person’s home state competent authority,
-- (c) the person does not provide payment services in the United Kingdom during the 12 months beginning with IP completion day[^key-38071a731e98c49b0831a4d72252da73],
+- (c) the person does not provide payment services in the United Kingdom during the 12 months beginning with IP completion day[^c-38071a731e98c49b0831a4d72252da73],
 - (d) the person ceases to engage in business activity in the United Kingdom for more than six months,
 - (e) the person’s notification under paragraph 27 contains false statements,
-- (f) the person has not taken adequate measures for the purposes of safeguarding electronic money holders’ funds in accordance with regulation 23 of PSR 2017 and the Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018[^key-df31f97e46a00dbbeabb853e2080ecff],
+- (f) the person has not taken adequate measures for the purposes of safeguarding electronic money holders’ funds in accordance with regulation 23 of PSR 2017 and the Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018[^c-df31f97e46a00dbbeabb853e2080ecff],
 - (g) the person would constitute a threat to the stability of, or trust in, a payment system by continuing the person’s electronic money or payment services business,
 - (h) the cancellation is desirable in order to protect the interests of payment service users, or
 - (i) the person’s provision of payment services is otherwise unlawful, including where such provision of services in unlawful because the person’s registration in a register maintained under regulation 54 or 55 of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 has been cancelled under regulation 60 of those Regulations.
@@ -760,11 +760,11 @@ the FCA may publish a statement to that effect.
 
 #### 36. Exemption from prohibition
 
-(1) A person to whom this paragraph applies is exempt from the prohibition in regulation 138(1) of PSR 2017, for a period of five years beginning with IP completion day[^key-ed930fc8dfabf15e302159cc052c2449], but only to the extent that it is necessary for the person to provide payment services in the United Kingdom to perform a pre-existing contract.
+(1) A person to whom this paragraph applies is exempt from the prohibition in regulation 138(1) of PSR 2017, for a period of five years beginning with IP completion day[^c-ed930fc8dfabf15e302159cc052c2449], but only to the extent that it is necessary for the person to provide payment services in the United Kingdom to perform a pre-existing contract.
 
 (2) This paragraph applies to an EEA authorised payment institution or an EEA registered account information service provider exercising its passport rights in the United Kingdom immediately before IP completion day other than through a branch in the United Kingdom or a UK-based agent.
 
-(2A)[^key-a0eaff4a5151cd7928199f090a45891b] A person to whom this paragraph applies is exempt from the prohibition in regulation 138(1) of the PSR 2017 only to the extent that it was providing the payment service in the United Kingdom immediately before IP completion day in accordance with the exercise of an EEA passport right under article 3(1) of [Directive 2009/110/EC](https://www.legislation.gov.uk/eudr/2009/0110) as in force immediately before IP completion day.
+(2A)[^c-a0eaff4a5151cd7928199f090a45891b] A person to whom this paragraph applies is exempt from the prohibition in regulation 138(1) of the PSR 2017 only to the extent that it was providing the payment service in the United Kingdom immediately before IP completion day in accordance with the exercise of an EEA passport right under article 3(1) of [Directive 2009/110/EC](https://www.legislation.gov.uk/eudr/2009/0110) as in force immediately before IP completion day.
 
 (3) The FCA may cancel the exemption of a person to whom this paragraph applies, or direct that paragraph 26 is to apply to the person, if it considers that doing so is necessary—
 
@@ -781,7 +781,7 @@ the FCA may publish a statement to that effect.
 
 (5) Paragraph 4 of Schedule 5 to PSR 2017 has effect in relation to the exercise of the FCA’s powers under this paragraph.
 
-(6)[^key-c9069b32313303425f8c1f9b2d818b7b] Where a person (“A”) to whom this paragraph applies provides payment services to a person (“B”) in pursuance of a pre-existing contract in reliance on the exemption in sub-paragraph (1), A must, as soon as it is reasonably practicable to do so, notify B—
+(6)[^c-c9069b32313303425f8c1f9b2d818b7b] Where a person (“A”) to whom this paragraph applies provides payment services to a person (“B”) in pursuance of a pre-existing contract in reliance on the exemption in sub-paragraph (1), A must, as soon as it is reasonably practicable to do so, notify B—
 
 - (a) that A is exempt from the prohibition in regulation 138(1) of PSR 2017 by virtue of sub-paragraph (1) and is not authorised by the FCA under PSR 2017;
 - (b) that, as a result of the United Kingdom's withdrawal from the European Union—
@@ -824,118 +824,118 @@ A must provide B with details of the change, the complete information or a corre
 
 [^c23524671]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-c3da9c20f2c24395c35f50cac86ac226]: Textual amendment: Sch. 3 para. 1(ba) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/2)
+[^c-c3da9c20f2c24395c35f50cac86ac226]: Textual amendment: Sch. 3 para. 1(ba) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/2)
 
-[^key-771ee335ab7955588077b858bcbff32a]: Textual amendment: Words in Sch. 3 para. 2 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/a)
+[^c-771ee335ab7955588077b858bcbff32a]: Textual amendment: Words in Sch. 3 para. 2 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/a)
 
-[^key-3f9dcd3dae3225c7771385ffdd5454c5]: Textual amendment: Sch. 3 para. 3(1)(b) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/3)
+[^c-3f9dcd3dae3225c7771385ffdd5454c5]: Textual amendment: Sch. 3 para. 3(1)(b) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/3)
 
-[^key-43f8a91f7788e3470b773a6bb9cd4215]: Textual amendment: Words in Sch. 3 para. 4 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/b)
+[^c-43f8a91f7788e3470b773a6bb9cd4215]: Textual amendment: Words in Sch. 3 para. 4 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/b)
 
-[^key-39064e3f5ec3fec572728e87f9a85cd4]: Textual amendment: Words in Sch. 3 para. 5 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/c)
+[^c-39064e3f5ec3fec572728e87f9a85cd4]: Textual amendment: Words in Sch. 3 para. 5 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/c)
 
-[^key-58b1c8580c3bcedbab161d91bea03079]: Textual amendment: Words in Sch. 3 para. 7(1)(d) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/3)
+[^c-58b1c8580c3bcedbab161d91bea03079]: Textual amendment: Words in Sch. 3 para. 7(1)(d) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/3)
 
-[^key-f65e7800701df67e2ddb1a349fd05a67]: Textual amendment: Words in Sch. 3 para. 8 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/d)
+[^c-f65e7800701df67e2ddb1a349fd05a67]: Textual amendment: Words in Sch. 3 para. 8 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/d)
 
 [^c23524681]: Marginal citation: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692).
 
-[^key-e4ae8e1a4de367299ba812607e369d5c]: Textual amendment: Words in Sch. 3 para. 9 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(e)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/e)
+[^c-e4ae8e1a4de367299ba812607e369d5c]: Textual amendment: Words in Sch. 3 para. 9 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(e)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/e)
 
-[^key-16510046d1b24db108c50b7ec2bf851d]: Textual amendment: Words in Sch. 3 para. 10 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(f)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/f)
+[^c-16510046d1b24db108c50b7ec2bf851d]: Textual amendment: Words in Sch. 3 para. 10 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(f)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/f)
 
-[^key-d38e80cb33381c6678935f1af98c8472]: Textual amendment: Sch. 3 Pt. 1A inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/10/2)
+[^c-d38e80cb33381c6678935f1af98c8472]: Textual amendment: Sch. 3 Pt. 1A inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/10/2)
 
-[^key-51b38b284bd50dbab4dec6c3f728bcc8]: Textual amendment: Words in [Sch. 3 para. 12A](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/paragraph/12A) inserted (31.1.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1010)](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51b38b284bd50dbab4dec6c3f728bcc8]: Textual amendment: Words in [Sch. 3 para. 12A](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/paragraph/12A) inserted (31.1.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1010)](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2aebbcdd7d0e56b15be8c8f0a9a9f16b]: Textual amendment: Words in Sch. 3 para. 12B substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(g)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/g)
+[^c-2aebbcdd7d0e56b15be8c8f0a9a9f16b]: Textual amendment: Words in Sch. 3 para. 12B substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(g)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/g)
 
-[^key-f380333c4e205460fffe00186bca5daf]: Textual amendment: Word in Sch. 3 para. 12B(4)(a) omitted (6.9.2019) by virtue of [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(4)(a)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/4/a)
+[^c-f380333c4e205460fffe00186bca5daf]: Textual amendment: Word in Sch. 3 para. 12B(4)(a) omitted (6.9.2019) by virtue of [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(4)(a)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/4/a)
 
-[^key-521f0ca6b2d9030f59bccffd33468991]: Textual amendment: Words in Sch. 3 para. 12B(4)(b) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(4)(b)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/4/b)
+[^c-521f0ca6b2d9030f59bccffd33468991]: Textual amendment: Words in Sch. 3 para. 12B(4)(b) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(4)(b)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/4/b)
 
-[^key-629a192c90ea13d7b1be2dcda1e31a23]: Textual amendment: Sch. 3 para. 12B(4)(c) and preceding word inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(4)(c)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/4/c)
+[^c-629a192c90ea13d7b1be2dcda1e31a23]: Textual amendment: Sch. 3 para. 12B(4)(c) and preceding word inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(4)(c)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/4/c)
 
-[^key-8a84932ee7dab00d8da2a8c3e650a470]: Textual amendment: Words in Sch. 3 para. 12E substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/h)
+[^c-8a84932ee7dab00d8da2a8c3e650a470]: Textual amendment: Words in Sch. 3 para. 12E substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/h)
 
-[^key-164adc324b27168691cfeff2b5eded6c]: Textual amendment: Words in Sch. 3 para. 12E(2)(a) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(5)(a)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/5/a)
+[^c-164adc324b27168691cfeff2b5eded6c]: Textual amendment: Words in Sch. 3 para. 12E(2)(a) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(5)(a)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/5/a)
 
-[^key-30ced204ee79a4f519e9c89a6713ce9c]: Textual amendment: Words in Sch. 3 para. 12E(2)(b) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(5)(b)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/5/b)
+[^c-30ced204ee79a4f519e9c89a6713ce9c]: Textual amendment: Words in Sch. 3 para. 12E(2)(b) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(5)(b)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/5/b)
 
-[^key-b524939ee5b1ea5b1a2e8ed04de97301]: Textual amendment: Words in Sch. 3 para. 12F(1) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(6)(a)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/6/a)
+[^c-b524939ee5b1ea5b1a2e8ed04de97301]: Textual amendment: Words in Sch. 3 para. 12F(1) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(6)(a)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/6/a)
 
-[^key-b9b1a8c2af40928e67094d73c9450873]: Textual amendment: Words in Sch. 3 para. 12F(2) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(6)(b)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/6/b)
+[^c-b9b1a8c2af40928e67094d73c9450873]: Textual amendment: Words in Sch. 3 para. 12F(2) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(6)(b)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/6/b)
 
-[^key-bfad40c9b1a130bcb3deb4c2668b8451]: Textual amendment: Sch. 3 para. 12F(3) omitted (6.9.2019) by virtue of [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(6)(c)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/6/c)
+[^c-bfad40c9b1a130bcb3deb4c2668b8451]: Textual amendment: Sch. 3 para. 12F(3) omitted (6.9.2019) by virtue of [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(6)(c)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/6/c)
 
-[^key-88393338725429112b4eee9219347052]: Textual amendment: Words in Sch. 3 para. 12G substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(i)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/i)
+[^c-88393338725429112b4eee9219347052]: Textual amendment: Words in Sch. 3 para. 12G substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(i)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/i)
 
-[^key-1d98322344d682f3384f523290310b3e]: Textual amendment: Words in Sch. 3 para. 12G(2)(d) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(7)(a)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/7/a)
+[^c-1d98322344d682f3384f523290310b3e]: Textual amendment: Words in Sch. 3 para. 12G(2)(d) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(7)(a)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/7/a)
 
-[^key-42513e1fc9d198a0714605aa7f52db0c]: Textual amendment: Sch. 3 para. 12G(3) substituted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(7)(b)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/7/b)
+[^c-42513e1fc9d198a0714605aa7f52db0c]: Textual amendment: Sch. 3 para. 12G(3) substituted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(7)(b)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/7/b)
 
-[^key-9b3f50912c4e5fccb6cc411b110f7e2a]: Textual amendment: Sch. 3 paras. 12H, 12HA substituted for Sch. 3 para. 12H (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(8)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/8)
+[^c-9b3f50912c4e5fccb6cc411b110f7e2a]: Textual amendment: Sch. 3 paras. 12H, 12HA substituted for Sch. 3 para. 12H (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(8)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/8)
 
-[^key-b3d67bad3d9bf5e9de26181734731edd]: Textual amendment: Words in Sch. 3 para. 12I substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(j)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/j)
+[^c-b3d67bad3d9bf5e9de26181734731edd]: Textual amendment: Words in Sch. 3 para. 12I substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(j)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/j)
 
-[^key-d6dfcffaba0b261cf34220dba6a7ab00]: Textual amendment: Words in Sch. 3 para. 12I(2)(f) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(9)(a)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/9/a)
+[^c-d6dfcffaba0b261cf34220dba6a7ab00]: Textual amendment: Words in Sch. 3 para. 12I(2)(f) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(9)(a)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/9/a)
 
-[^key-9afde4ec8a3285d769821ab48daac548]: Textual amendment: Word in Sch. 3 para. 12I(2)(h) omitted (6.9.2019) by virtue of [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(9)(b)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/9/b)
+[^c-9afde4ec8a3285d769821ab48daac548]: Textual amendment: Word in Sch. 3 para. 12I(2)(h) omitted (6.9.2019) by virtue of [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(9)(b)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/9/b)
 
-[^key-8723d2ead1c71b43e471d27876bf0d30]: Textual amendment: Words in Sch. 3 para. 12I(2)(i) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(9)(c)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/9/c)
+[^c-8723d2ead1c71b43e471d27876bf0d30]: Textual amendment: Words in Sch. 3 para. 12I(2)(i) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(9)(c)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/9/c)
 
-[^key-6fd9ee3ea895e6d16df08b64291181f2]: Textual amendment: Sch. 3 para. 12I(2)(j) and preceding word inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(9)(d)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/9/d)
+[^c-6fd9ee3ea895e6d16df08b64291181f2]: Textual amendment: Sch. 3 para. 12I(2)(j) and preceding word inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(9)(d)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/9/d)
 
-[^key-9f66f3db6eac339e74e9c1a97891bbcc]: Textual amendment: Sch. 3 para. 12L(1) substituted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(10)(a)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/10/a)
+[^c-9f66f3db6eac339e74e9c1a97891bbcc]: Textual amendment: Sch. 3 para. 12L(1) substituted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(10)(a)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/10/a)
 
-[^key-ee69054ef3887816a97fa983cd956006]: Textual amendment: Words in Sch. 3 para. 12L substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(k)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/k)
+[^c-ee69054ef3887816a97fa983cd956006]: Textual amendment: Words in Sch. 3 para. 12L substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(k)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/k)
 
-[^key-b133c816b02bbfbae52f9de8e67b61c2]: Textual amendment: Sch. 3 para. 12L(6) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(10)(b)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/10/b)
+[^c-b133c816b02bbfbae52f9de8e67b61c2]: Textual amendment: Sch. 3 para. 12L(6) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(10)(b)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/10/b)
 
-[^key-e0e8f71a3431bdee08d0b8c90a44d65f]: Textual amendment: Sch. 3 para. 12L(6)-(8) inserted (31.1.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1010)](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/7/3) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 44(b)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/44/b/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e0e8f71a3431bdee08d0b8c90a44d65f]: Textual amendment: Sch. 3 para. 12L(6)-(8) inserted (31.1.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1010)](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/7/3) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 44(b)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/44/b/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5f63270eef5713f61392634afe207f84]: Textual amendment: Words in Sch. 3 para. 14 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(l)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/l)
+[^c-5f63270eef5713f61392634afe207f84]: Textual amendment: Words in Sch. 3 para. 14 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(l)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/l)
 
-[^key-de66cfccbd9d7d4f3c9f0f953250712b]: Textual amendment: Sch. 3 para. 15(1)(b) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/4)
+[^c-de66cfccbd9d7d4f3c9f0f953250712b]: Textual amendment: Sch. 3 para. 15(1)(b) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/4)
 
-[^key-53bb075388c1e3522d254b88716bdc9b]: Textual amendment: Words in Sch. 3 para. 16 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(m)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/m)
+[^c-53bb075388c1e3522d254b88716bdc9b]: Textual amendment: Words in Sch. 3 para. 16 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(m)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/m)
 
-[^key-0dd646b6778e23ea6eb429e452af2070]: Textual amendment: Words in Sch. 3 para. 17 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(n)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/n)
+[^c-0dd646b6778e23ea6eb429e452af2070]: Textual amendment: Words in Sch. 3 para. 17 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(n)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/n)
 
-[^key-097779c0503e5c861f220b6183112a3e]: Textual amendment: Words in Sch. 3 para. 19(1)(d) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(11)(a)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/11/a)
+[^c-097779c0503e5c861f220b6183112a3e]: Textual amendment: Words in Sch. 3 para. 19(1)(d) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(11)(a)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/11/a)
 
-[^key-e24d4102a77d5a5c297d26245aa24046]: Textual amendment: Words in Sch. 3 para. 19(2) substituted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(11)(b)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/11/b)
+[^c-e24d4102a77d5a5c297d26245aa24046]: Textual amendment: Words in Sch. 3 para. 19(2) substituted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(11)(b)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/11/b)
 
-[^key-635a8562d31e95f55e0d8b20d13a63cc]: Textual amendment: Words in Sch. 3 para. 20 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(o)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/o)
+[^c-635a8562d31e95f55e0d8b20d13a63cc]: Textual amendment: Words in Sch. 3 para. 20 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(o)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/o)
 
-[^key-e39c214339185e0b4f83a88c03763faf]: Textual amendment: [Sch. 3 para. 20(1)(ja)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/paragraph/20/1/ja) inserted (31.1.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1010)](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [7(4)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e39c214339185e0b4f83a88c03763faf]: Textual amendment: [Sch. 3 para. 20(1)(ja)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/paragraph/20/1/ja) inserted (31.1.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1010)](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [7(4)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-22740571a44b9f2eaa02e0fb9556200c]: Textual amendment: Words in Sch. 3 para. 21 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(p)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/p)
+[^c-22740571a44b9f2eaa02e0fb9556200c]: Textual amendment: Words in Sch. 3 para. 21 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(p)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/p)
 
-[^key-b0932689387fc706c526083128cd4a20]: Textual amendment: Words in Sch. 3 para. 22 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(q)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/q)
+[^c-b0932689387fc706c526083128cd4a20]: Textual amendment: Words in Sch. 3 para. 22 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(q)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/q)
 
-[^key-9029d7e7ebe47d85e8edd8844d9d2169]: Textual amendment: Sch. 3 Pts. 3, 4 inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2019/405/regulation/10/3)
+[^c-9029d7e7ebe47d85e8edd8844d9d2169]: Textual amendment: Sch. 3 Pts. 3, 4 inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2019/405/regulation/10/3)
 
-[^key-36226d573a2c8e0215ed498ee5a89919]: Textual amendment: Words in Sch. 3 para. 26 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(r)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/r)
+[^c-36226d573a2c8e0215ed498ee5a89919]: Textual amendment: Words in Sch. 3 para. 26 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(r)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/r)
 
-[^key-a784bc7889bddac5066823c8e43f2a79]: Textual amendment: Sch. 3 para. 26(4)(c) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(12)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/12)
+[^c-a784bc7889bddac5066823c8e43f2a79]: Textual amendment: Sch. 3 para. 26(4)(c) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(12)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/12)
 
-[^key-c246d15676ca1123381dd3a446acb8aa]: Textual amendment: Words in Sch. 3 para. 29 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(s)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/s)
+[^c-c246d15676ca1123381dd3a446acb8aa]: Textual amendment: Words in Sch. 3 para. 29 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(s)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/s)
 
-[^key-c949158c1d113bf37fe65470e0823a70]: Textual amendment: Sch. 3 para. 30(3) omitted (6.9.2019) by virtue of [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(13)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/13)
+[^c-c949158c1d113bf37fe65470e0823a70]: Textual amendment: Sch. 3 para. 30(3) omitted (6.9.2019) by virtue of [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(13)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/13)
 
-[^key-9c0955b09f75cfe0a524efd3e73bfb3a]: Textual amendment: Words in Sch. 3 para. 31 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(t)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/t)
+[^c-9c0955b09f75cfe0a524efd3e73bfb3a]: Textual amendment: Words in Sch. 3 para. 31 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(t)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/t)
 
-[^key-28f1086eaddf701eae6d6b906b320057]: Textual amendment: Sch. 3 para. 31(3) substituted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(14)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/14)
+[^c-28f1086eaddf701eae6d6b906b320057]: Textual amendment: Sch. 3 para. 31(3) substituted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(14)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/14)
 
-[^key-dff9edebea4675726f247bbf004035ee]: Textual amendment: Sch. 3 paras. 32, 32A substituted for Sch. 3 para. 32 (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(15)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/15)
+[^c-dff9edebea4675726f247bbf004035ee]: Textual amendment: Sch. 3 paras. 32, 32A substituted for Sch. 3 para. 32 (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(15)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/15)
 
-[^key-38071a731e98c49b0831a4d72252da73]: Textual amendment: Words in Sch. 3 para. 33 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(u)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/u)
+[^c-38071a731e98c49b0831a4d72252da73]: Textual amendment: Words in Sch. 3 para. 33 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(u)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/u)
 
-[^key-df31f97e46a00dbbeabb853e2080ecff]: Textual amendment: Words in Sch. 3 para. 33(2)(f) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(16)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/16)
+[^c-df31f97e46a00dbbeabb853e2080ecff]: Textual amendment: Words in Sch. 3 para. 33(2)(f) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(16)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/16)
 
-[^key-ed930fc8dfabf15e302159cc052c2449]: Textual amendment: Words in Sch. 3 para. 36 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(v)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/v)
+[^c-ed930fc8dfabf15e302159cc052c2449]: Textual amendment: Words in Sch. 3 para. 36 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8(2)(v)](https://www.legislation.gov.uk/uksi/2020/56/regulation/8/2/v)
 
-[^key-a0eaff4a5151cd7928199f090a45891b]: Textual amendment: Sch. 3 para. 36(2A) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(17)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/17)
+[^c-a0eaff4a5151cd7928199f090a45891b]: Textual amendment: Sch. 3 para. 36(2A) inserted (6.9.2019) by [The Financial Services (Electronic Money, Payment Services and Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1212)](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/2), [7(17)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/7/17)
 
-[^key-c9069b32313303425f8c1f9b2d818b7b]: Textual amendment: Sch. 3 para. 36(6)-(8) inserted (31.1.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1010)](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [7(5)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/7/5) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 44(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/44/b/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9069b32313303425f8c1f9b2d818b7b]: Textual amendment: Sch. 3 para. 36(6)-(8) inserted (31.1.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1010)](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [7(5)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/7/5) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 44(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/44/b/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

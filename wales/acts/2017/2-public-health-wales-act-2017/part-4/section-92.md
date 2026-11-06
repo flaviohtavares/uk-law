@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Appropriated property: compensation[^key-835c76c2d714c09927a557535f904b8b]
+## 92. Appropriated property: compensation[^c-835c76c2d714c09927a557535f904b8b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-835c76c2d714c09927a557535f904b8b]: Commencement: [S. 92](https://www.legislation.gov.uk/anaw/2017/2/section/92) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(gg)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/gg) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-835c76c2d714c09927a557535f904b8b]: Commencement: [S. 92](https://www.legislation.gov.uk/anaw/2017/2/section/92) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(gg)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/gg) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

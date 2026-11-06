@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Review of service compensation orders[^key-5cf3b4dc0df2d66f201ad13aedfa1b31][^key-ff5b5c98ad6067b4a9cd7896e43894e4]
+## 177. Review of service compensation orders[^c-5cf3b4dc0df2d66f201ad13aedfa1b31][^c-ff5b5c98ad6067b4a9cd7896e43894e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5cf3b4dc0df2d66f201ad13aedfa1b31]: Commencement: S. 177 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-5cf3b4dc0df2d66f201ad13aedfa1b31]: Commencement: S. 177 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-ff5b5c98ad6067b4a9cd7896e43894e4]: Commencement: S. 177 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-ff5b5c98ad6067b4a9cd7896e43894e4]: Commencement: S. 177 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

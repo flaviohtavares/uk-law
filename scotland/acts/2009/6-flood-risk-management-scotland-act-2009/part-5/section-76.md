@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Provision, alteration etc. of flood warning system[^key-0c70e07df6fdb494c44d5f05e8665edd]
+## 76. Provision, alteration etc. of flood warning system[^c-0c70e07df6fdb494c44d5f05e8665edd]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ would be material, it must consult in accordance with section 77(2) before carry
 
 ## Annotations
 
-[^key-0c70e07df6fdb494c44d5f05e8665edd]: Commencement: S. 76 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-0c70e07df6fdb494c44d5f05e8665edd]: Commencement: S. 76 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

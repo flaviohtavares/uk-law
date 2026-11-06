@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-8f3642a0e32f7b7cc2225f22500c9e1e][^key-54e48385ca9d748f07032b625dbc4fa3]
+## 2. Interpretation[^c-8f3642a0e32f7b7cc2225f22500c9e1e][^c-54e48385ca9d748f07032b625dbc4fa3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ In these Regulations—
 - “**CEMA**” means the Customs and Excise Management Act 1979 [^c23947471];
 - “**the Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs;
 - “**conduct**” includes acts and omissions;
-- “[^key-23d58410c1a671e9c825b5aaa40d7f09]**director disqualification licence**” means a licence under regulation 33A;
+- “[^c-23d58410c1a671e9c825b5aaa40d7f09]**director disqualification licence**” means a licence under regulation 33A;
 - “**document**” includes information recorded in any form and, in relation to information recorded otherwise than in legible form, references to its production include producing a copy of the information in legible form;
 - “**the Dual-Use Regulation**” means Council Regulation [(EC) No 428/2009](https://www.legislation.gov.uk/european/regulation/2009/0428) of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items;
 - “**the EU Zimbabwe Regulation**” means Council Regulation [(EC) No 314/2004](https://www.legislation.gov.uk/european/regulation/2004/0314) of 19 February 2004, concerning restrictive measures in respect of Zimbabwe [^c23947481], as it has effect in EU law;
@@ -39,12 +39,12 @@ In these Regulations—
 
 ## Annotations
 
-[^key-8f3642a0e32f7b7cc2225f22500c9e1e]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-8f3642a0e32f7b7cc2225f22500c9e1e]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-54e48385ca9d748f07032b625dbc4fa3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/604/regulation/2) in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/1/b)
+[^c-54e48385ca9d748f07032b625dbc4fa3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/604/regulation/2) in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/1/b)
 
 [^c23947471]: Marginal citation: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2). Amendments have been made to this Act and are cited, where relevant, in respect of the applicable regulations.
 
-[^key-23d58410c1a671e9c825b5aaa40d7f09]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/604/regulation/2) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/5/2)
+[^c-23d58410c1a671e9c825b5aaa40d7f09]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/604/regulation/2) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/5/2)
 
 [^c23947481]: Marginal citation: OJ L 055 24.2.2004, p1.

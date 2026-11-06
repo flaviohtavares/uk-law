@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Transitional provisions[^key-5e9c7bc57739f703df552fff065f1410]
+## 40. Transitional provisions[^c-5e9c7bc57739f703df552fff065f1410]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Schedule 12 shall have effect.
 
 ## Annotations
 
-[^key-5e9c7bc57739f703df552fff065f1410]: Commencement: Reg. 40 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-5e9c7bc57739f703df552fff065f1410]: Commencement: Reg. 40 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

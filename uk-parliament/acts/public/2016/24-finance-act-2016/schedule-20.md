@@ -26,7 +26,7 @@ Section 162
 
 #### Liability for penalty
 
-**1.**[^key-f0d014bac44c46c9df29ed0f8e212795] (1) A penalty is payable by a person (P) who has enabled another person (Q) to carry out offshore tax evasion or non-compliance, where conditions A and B are met.
+**1.**[^c-f0d014bac44c46c9df29ed0f8e212795] (1) A penalty is payable by a person (P) who has enabled another person (Q) to carry out offshore tax evasion or non-compliance, where conditions A and B are met.
 
 (2) For the purposes of this Schedule—
 
@@ -49,7 +49,7 @@ Section 162
 - (b) a penalty under paragraph 1 of Schedule 41 to FA 2008 (failure to notify etc) in relation to a failure to comply with section 7(1) of TMA 1970 involving offshore activity,
 - (c) a penalty under paragraph 6 of Schedule 55 to FA 2009 (failure to make return for 12 months) involving offshore activity,
 - (d) a penalty under paragraph 1 of Schedule 21 to FA 2015 (penalties in connection with relevant offshore asset moves).
-- (e)[^key-8249fe8b264d9ba0391744d7f740eed6] a penalty under paragraph 3 of Schedule 25 to FA 2021 (penalties for deliberately withholding information) involving offshore activity.
+- (e)[^c-8249fe8b264d9ba0391744d7f740eed6] a penalty under paragraph 3 of Schedule 25 to FA 2021 (penalties for deliberately withholding information) involving offshore activity.
 
 (5) Condition A is that P knew when P's actions were carried out that they enabled, or were likely to enable, Q to carry out offshore tax evasion or non-compliance.
 
@@ -87,7 +87,7 @@ but does not constitute offshore tax evasion or non-compliance.
 
 #### Meaning of “involving offshore activity” and related expressions
 
-**2.**[^key-fcc851dda810a5c2fa5c10e45be40eac] (1) This paragraph has effect for the purposes of this Schedule.
+**2.**[^c-fcc851dda810a5c2fa5c10e45be40eac] (1) This paragraph has effect for the purposes of this Schedule.
 
 (2) Conduct involves offshore activity if it involves—
 
@@ -124,7 +124,7 @@ and Q remains the beneficial owner of the asset, or any part of it, immediately 
 
 #### Amount of penalty
 
-**3.**[^key-a6d3ada5019f98e3c27001a257bf53ae] (1) The penalty payable under paragraph 1 is (except in a case mentioned in sub-paragraph (2)) the higher of—
+**3.**[^c-a6d3ada5019f98e3c27001a257bf53ae] (1) The penalty payable under paragraph 1 is (except in a case mentioned in sub-paragraph (2)) the higher of—
 
 - (a) 100% of the potential lost revenue, or
 - (b) £3,000.
@@ -137,15 +137,15 @@ and Q remains the beneficial owner of the asset, or any part of it, immediately 
 (3) In sub-paragraph (2)(a) “**the original tax non-compliance**” means the conduct that incurred the original penalty and “the potential lost revenue” (in respect of that non-compliance) is—
 
 - (a) the potential lost revenue under Schedule 24 to FA 2007,
-- (b) the potential lost revenue under Schedule 41 to FA 2008, or *(affected by repeal, see note)*[^key-e165cd5edb95f24ea4e338c3fbf2952c]
-- (c) the liability to tax which would have been shown on the return (within the meaning of Schedule 55 to FA 2009), or[^key-43cf05fbafb8b0e7fa4ea8002a9337ce]
+- (b) the potential lost revenue under Schedule 41 to FA 2008, or *(affected by repeal, see note)*[^c-e165cd5edb95f24ea4e338c3fbf2952c]
+- (c) the liability to tax which would have been shown on the return (within the meaning of Schedule 55 to FA 2009), or[^c-43cf05fbafb8b0e7fa4ea8002a9337ce]
 - (d) the liability to tax which would have been shown on the return (within the meaning of Schedule 25 to FA 2021),
 
-according to whether the original penalty was incurred under paragraph 1 of Schedule 24, paragraph 1 of Schedule 41 or paragraph 6 of Schedule 55 *(affected by repeal, see note)*[^key-a4b04467d52cd6820870ea8a599e6fc0] , paragraph 6 of Schedule 55 or paragraph 3 of Schedule 25.
+according to whether the original penalty was incurred under paragraph 1 of Schedule 24, paragraph 1 of Schedule 41 or paragraph 6 of Schedule 55 *(affected by repeal, see note)*[^c-a4b04467d52cd6820870ea8a599e6fc0] , paragraph 6 of Schedule 55 or paragraph 3 of Schedule 25.
 
 #### Potential lost revenue: enabling Q to commit relevant offence
 
-**4.**[^key-c82b43a5a6f42e86fa5d12a815e46b85] (1) The potential lost revenue in a case where P is liable to a penalty under paragraph 1 for enabling Q to commit a relevant offence is the same amount as the potential lost revenue applicable for the purposes of the corresponding relevant civil penalty (determined in accordance with the relevant sub-paragraph of paragraph 5).
+**4.**[^c-c82b43a5a6f42e86fa5d12a815e46b85] (1) The potential lost revenue in a case where P is liable to a penalty under paragraph 1 for enabling Q to commit a relevant offence is the same amount as the potential lost revenue applicable for the purposes of the corresponding relevant civil penalty (determined in accordance with the relevant sub-paragraph of paragraph 5).
 
 (2) Where Q's offending conduct is—
 
@@ -157,14 +157,14 @@ the corresponding relevant civil penalty is the penalty which Q is liable for as
 (3) Where Q's offending conduct is an offence under section 106B, 106C or 106D of TMA 1970, the corresponding relevant civil penalty is—
 
 - (a) for an offence under section 106B of TMA 1970, a penalty under paragraph 1 of Schedule 41 to FA 2008,
-- (b) for an offence under section 106C of TMA 1970, a penalty under paragraph 6 of Schedule 55 to FA 2009 or paragraph 3 of Schedule 25 to FA 2021[^key-118a4f022a89995d51b980cc4c39f13f], and
+- (b) for an offence under section 106C of TMA 1970, a penalty under paragraph 6 of Schedule 55 to FA 2009 or paragraph 3 of Schedule 25 to FA 2021[^c-118a4f022a89995d51b980cc4c39f13f], and
 - (c) for an offence under section 106D of TMA 1970, a penalty under paragraph 1 of Schedule 24 to FA 2007.
 
 (4) In determining any amount of potential lost revenue for the purposes of this paragraph, the fact Q has been prosecuted for the offending conduct is to be disregarded.
 
 #### Potential lost revenue: enabling Q to engage in conduct incurring relevant civil penalty
 
-**5.**[^key-533e3f85578557e397f4782a5c0d787b] (1) The potential lost revenue in a case where P is liable to a penalty under paragraph 1 for enabling Q to engage in conduct that makes Q liable (if the applicable conditions are met) to a relevant civil penalty is to be determined as follows.
+**5.**[^c-533e3f85578557e397f4782a5c0d787b] (1) The potential lost revenue in a case where P is liable to a penalty under paragraph 1 for enabling Q to engage in conduct that makes Q liable (if the applicable conditions are met) to a relevant civil penalty is to be determined as follows.
 
 (2) In the case of a penalty under paragraph 1 of Schedule 24 to FA 2007 involving an offshore matter or an offshore transfer, the potential lost revenue is the amount that under that Schedule is the potential lost revenue in respect of Q's conduct.
 
@@ -172,17 +172,17 @@ the corresponding relevant civil penalty is the penalty which Q is liable for as
 
 (4) In the case of a penalty under paragraph 6 of Schedule 55 to FA 2009 involving offshore activity, the potential lost revenue is the liability to tax which would have been shown in the return in question (within the meaning of that Schedule).
 
-(5)[^key-ed7608f8018ec37bf6574534af46e7f9] In the case of a penalty under paragraph 3 of Schedule 25 to FA 2021 involving offshore activity, the potential lost revenue is the liability to tax which would have been shown in the return in question (within the meaning of that Schedule).
+(5)[^c-ed7608f8018ec37bf6574534af46e7f9] In the case of a penalty under paragraph 3 of Schedule 25 to FA 2021 involving offshore activity, the potential lost revenue is the liability to tax which would have been shown in the return in question (within the meaning of that Schedule).
 
 #### Treatment of potential lost revenue attributable to both offshore tax evasion or non-compliance and other tax evasion or non-compliance
 
-**6.**[^key-cc2816897f22038f911d8c1986e7286e] (1) This paragraph applies where any amount of potential lost revenue in a case falling within paragraph 4 or 5 is attributable not only to Q's offshore tax evasion or non-compliance but also to any other tax evasion or non-compliance by Q.
+**6.**[^c-cc2816897f22038f911d8c1986e7286e] (1) This paragraph applies where any amount of potential lost revenue in a case falling within paragraph 4 or 5 is attributable not only to Q's offshore tax evasion or non-compliance but also to any other tax evasion or non-compliance by Q.
 
 (2) In that case the potential lost revenue in respect of Q's offshore tax evasion or non-compliance is to be taken for the purposes of assessing the penalty to which P is liable as being or (as the case may be) including such share as is just and reasonable of the amount mentioned in sub-paragraph (1).
 
 #### Reduction of penalty for disclosure etc by P
 
-**7.**[^key-193e5f7e398632de9a54cd5d2c4c10aa] (1) If P (who would otherwise be liable to a penalty under paragraph 1)—
+**7.**[^c-193e5f7e398632de9a54cd5d2c4c10aa] (1) If P (who would otherwise be liable to a penalty under paragraph 1)—
 
 - (a) makes a disclosure to HMRC of—
   - (i) a matter relating to an inaccuracy in a document, a supply of false information or a failure to disclose an under-assessment,
@@ -201,7 +201,7 @@ HMRC must reduce the penalty to one that reflects the quality of the disclosure 
   - (i) 30% of the potential lost revenue, or
   - (ii) £3,000.
 
-**8.**[^key-cb0149968758ee4ca485929e8f7f7ef9] (1) This paragraph applies for the purposes of paragraph 7.
+**8.**[^c-cb0149968758ee4ca485929e8f7f7ef9] (1) This paragraph applies for the purposes of paragraph 7.
 
 (2) P discloses a matter by—
 
@@ -222,7 +222,7 @@ HMRC must reduce the penalty to one that reflects the quality of the disclosure 
 
 (5) In relation to disclosure or assistance, “**quality**” includes timing, nature and extent.
 
-**9.**[^key-85f6ef80c26053ffa1d46a539f0d0572] (1) If they think it right because of special circumstances, HMRC may reduce a penalty under paragraph 1.
+**9.**[^c-85f6ef80c26053ffa1d46a539f0d0572] (1) If they think it right because of special circumstances, HMRC may reduce a penalty under paragraph 1.
 
 (2) In sub-paragraph 1 “**special circumstances**” does not include—
 
@@ -236,7 +236,7 @@ HMRC must reduce the penalty to one that reflects the quality of the disclosure 
 
 #### Procedure for assessing penalty, etc
 
-**10.**[^key-d2b4ddd0c5770d5d10e24c791774947d] (1) Where a person is found liable for a penalty under paragraph 1 HMRC must—
+**10.**[^c-d2b4ddd0c5770d5d10e24c791774947d] (1) Where a person is found liable for a penalty under paragraph 1 HMRC must—
 
 - (a) assess the penalty,
 - (b) notify the person, and
@@ -263,23 +263,23 @@ HMRC must reduce the penalty to one that reflects the quality of the disclosure 
 - (a) does not affect when the penalty must be paid, and
 - (b) may be made after the last day on which the assessment in question could have been made under paragraph 11.
 
-**11.**[^key-cfe8028a4a474fbae2880eb05883bb0d] An assessment of a person as liable to a penalty under paragraph 1 may not take place more than 2 years after the fulfilment of the conditions mentioned in paragraph 1(1) (in relation to that person) first came to the attention of an officer of Revenue and Customs.
+**11.**[^c-cfe8028a4a474fbae2880eb05883bb0d] An assessment of a person as liable to a penalty under paragraph 1 may not take place more than 2 years after the fulfilment of the conditions mentioned in paragraph 1(1) (in relation to that person) first came to the attention of an officer of Revenue and Customs.
 
 #### Appeals
 
-**12.**[^key-a3018dc98fcd52947e6b3a7ffc156de0] A person may appeal against—
+**12.**[^c-a3018dc98fcd52947e6b3a7ffc156de0] A person may appeal against—
 
 - (a) a decision of HMRC that a penalty under paragraph 1 is payable by that person, or
 - (b) a decision of HMRC as to the amount of a penalty under paragraph 1 payable by the person.
 
-**13.**[^key-0023fa4288898fb228aa68f95a0fce45] (1) An appeal under paragraph 12 is to be treated in the same way as an appeal against an assessment to the tax at stake (including by the application of any provision about bringing the appeal by notice to HMRC, about HMRC review of the decision or about determination of the appeal by the First-tier Tribunal or Upper Tribunal).
+**13.**[^c-0023fa4288898fb228aa68f95a0fce45] (1) An appeal under paragraph 12 is to be treated in the same way as an appeal against an assessment to the tax at stake (including by the application of any provision about bringing the appeal by notice to HMRC, about HMRC review of the decision or about determination of the appeal by the First-tier Tribunal or Upper Tribunal).
 
 (2) Sub-paragraph (1) does not apply—
 
 - (a) so as to require the person bringing the appeal to pay a penalty before an appeal against the assessment of the penalty is determined,
 - (b) in respect of any other matter expressly provided for by this Schedule.
 
-**14.**[^key-daeb7d5a0348f67fc057895f1e51901b] (1) On an appeal under paragraph 12(a) that is notified to the tribunal, the tribunal may affirm or cancel HMRC's decision.
+**14.**[^c-daeb7d5a0348f67fc057895f1e51901b] (1) On an appeal under paragraph 12(a) that is notified to the tribunal, the tribunal may affirm or cancel HMRC's decision.
 
 (2) On an appeal under paragraph 12(b) that is notified to the tribunal, the tribunal may—
 
@@ -297,14 +297,14 @@ HMRC must reduce the penalty to one that reflects the quality of the disclosure 
 
 #### Double jeopardy
 
-**15.**[^key-f187b5154654a202985a6df10505abfb] A person is not liable to a penalty under paragraph 1 in respect of conduct for which the person—
+**15.**[^c-f187b5154654a202985a6df10505abfb] A person is not liable to a penalty under paragraph 1 in respect of conduct for which the person—
 
 - (a) has been convicted of an offence, or
 - (b) has been assessed to a penalty under any provision other than paragraph 1.
 
 #### Application of provisions of TMA 1970
 
-**16.**[^key-30d8c2dd121bb81ebb2bf2f5e7e9958f] Subject to the provisions of this Part of this Schedule, the following provisions of TMA 1970 apply for the purposes of this Part of this Schedule as they apply for the purposes of the Taxes Acts—
+**16.**[^c-30d8c2dd121bb81ebb2bf2f5e7e9958f] Subject to the provisions of this Part of this Schedule, the following provisions of TMA 1970 apply for the purposes of this Part of this Schedule as they apply for the purposes of the Taxes Acts—
 
 - (a) section 108 (responsibility of company officers),
 - (b) section 114 (want of form), and
@@ -312,7 +312,7 @@ HMRC must reduce the penalty to one that reflects the quality of the disclosure 
 
 #### Interpretation of Part 1
 
-**17.**[^key-81e8326af932558db7c746c2339bd5f4] (1) This paragraph applies for the purposes of this Schedule.
+**17.**[^c-81e8326af932558db7c746c2339bd5f4] (1) This paragraph applies for the purposes of this Schedule.
 
 (2) References to an assessment to tax, in relation to inheritance tax, are to a determination.
 
@@ -320,13 +320,13 @@ HMRC must reduce the penalty to one that reflects the quality of the disclosure 
 
 #### General application of information and inspection powers to suspected enablers
 
-**18.**[^key-c204c280c4d202e298a5aaa48f1c8f73] (1) Schedule 36 to FA 2008 (information and inspection powers) applies for the purpose of checking a relevant person's position as regards liability for a penalty under paragraph 1 as it applies for checking a person's tax position, subject to the modifications in paragraphs 19 to 21.
+**18.**[^c-c204c280c4d202e298a5aaa48f1c8f73] (1) Schedule 36 to FA 2008 (information and inspection powers) applies for the purpose of checking a relevant person's position as regards liability for a penalty under paragraph 1 as it applies for checking a person's tax position, subject to the modifications in paragraphs 19 to 21.
 
 (2) In this Part of this Schedule “**relevant person**” means a person an officer of Revenue and Customs has reason to suspect has or may have enabled offshore tax evasion or non-compliance by another person so as to be liable to a penalty under paragraph 1.
 
 #### General modifications
 
-**19.**[^key-13cf3d35afb8f24dc8c608dcb5cad548] In its application for the purpose mentioned in paragraph 18(1) Schedule 36 to FA 2008 has effect as if—
+**19.**[^c-13cf3d35afb8f24dc8c608dcb5cad548] In its application for the purpose mentioned in paragraph 18(1) Schedule 36 to FA 2008 has effect as if—
 
 - (a) any provisions which can have no application for that purpose, or are specifically excluded by paragraph 20, were omitted,
 - (b) references to “the taxpayer” were references to the relevant person whose position as regards liability for a penalty under paragraph 1 is to be checked, and references to “a taxpayer” were references to a relevant person,
@@ -336,20 +336,20 @@ HMRC must reduce the penalty to one that reflects the quality of the disclosure 
 
 #### Specific modifications
 
-**20.**[^key-6c20d93184367128d63275753b332b8c] The following provisions are excluded from the application of Schedule 36 to FA 2008 for the purpose mentioned in paragraph 18(1)—
+**20.**[^c-6c20d93184367128d63275753b332b8c] The following provisions are excluded from the application of Schedule 36 to FA 2008 for the purpose mentioned in paragraph 18(1)—
 
 - (a) paragraph 24 (exception for auditors),
 - (b) paragraph 25 (exception for tax advisers),
 - (c) paragraphs 26 and 27 (provisions supplementary to paragraphs 24 and 25),
 - (d) paragraphs 50 and 51 (tax-related penalty).
 
-**21.**[^key-5a09556ed920530ff9fd657f15aa3d73] In the application of Schedule 36 to FA 2008 for the purpose mentioned in paragraph 18(1), paragraph 10A (power to inspect business premises of involved third parties) has effect as if the reference in sub-paragraph (1) to the position of any person or class of persons as regards a relevant tax were a reference to the position of a relevant person as regards liability for a penalty under paragraph 1.
+**21.**[^c-5a09556ed920530ff9fd657f15aa3d73] In the application of Schedule 36 to FA 2008 for the purpose mentioned in paragraph 18(1), paragraph 10A (power to inspect business premises of involved third parties) has effect as if the reference in sub-paragraph (1) to the position of any person or class of persons as regards a relevant tax were a reference to the position of a relevant person as regards liability for a penalty under paragraph 1.
 
 ### PART 3 — Publishing details of persons found liable to penalties
 
 #### Naming etc of persons assessed to penalty or penalties under paragraph 1
 
-**22.**[^key-dd49967566ac0f628c445c61ce81b2b6] (1) The Commissioners for Her Majesty's Revenue and Customs (“**the Commissioners**”) may publish information about a person if—
+**22.**[^c-dd49967566ac0f628c445c61ce81b2b6] (1) The Commissioners for Her Majesty's Revenue and Customs (“**the Commissioners**”) may publish information about a person if—
 
 - (a) in consequence of an investigation the person has been found to have incurred one or more penalties under paragraph 1 (and has been assessed or is the subject of a contract settlement), and
 - (b) the potential lost revenue in relation to the penalty (or the aggregate of the potential lost revenue in relation to each of the penalties) exceeds £25,000.
@@ -391,7 +391,7 @@ HMRC must reduce the penalty to one that reflects the quality of the disclosure 
 
 (10) In this paragraph “**contract settlement**”, in relation to a penalty, means a contract between the Commissioners and the person under which the Commissioners undertake not to assess the penalty or (if it has been assessed) not to take proceedings to recover it.
 
-**23.**[^key-24cbefdc498defe6855c6caf3ba38a7a] (1) The Treasury may by regulations amend paragraph 22(1) to vary the amount for the time being specified in paragraph (b).
+**23.**[^c-24cbefdc498defe6855c6caf3ba38a7a] (1) The Treasury may by regulations amend paragraph 22(1) to vary the amount for the time being specified in paragraph (b).
 
 (2) Regulations under this paragraph are to be made by statutory instrument.
 
@@ -399,60 +399,60 @@ HMRC must reduce the penalty to one that reflects the quality of the disclosure 
 
 ## Annotations
 
-[^key-f0d014bac44c46c9df29ed0f8e212795]: Commencement: [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/1) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-f0d014bac44c46c9df29ed0f8e212795]: Commencement: [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/1) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-8249fe8b264d9ba0391744d7f740eed6]: Textual amendment: [Sch. 20 para. 1(4)(e)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/1/4/e) inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 47(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47/2); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-8249fe8b264d9ba0391744d7f740eed6]: Textual amendment: [Sch. 20 para. 1(4)(e)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/1/4/e) inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 47(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47/2); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-fcc851dda810a5c2fa5c10e45be40eac]: Commencement: [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/2) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-fcc851dda810a5c2fa5c10e45be40eac]: Commencement: [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/2) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-a6d3ada5019f98e3c27001a257bf53ae]: Commencement: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/3) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-a6d3ada5019f98e3c27001a257bf53ae]: Commencement: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/3) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-e165cd5edb95f24ea4e338c3fbf2952c]: Textual amendment: Word in [Sch. 20 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/3/3/b) omitted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 47(3)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47/3/a); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-e165cd5edb95f24ea4e338c3fbf2952c]: Textual amendment: Word in [Sch. 20 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/3/3/b) omitted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 47(3)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47/3/a); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-43cf05fbafb8b0e7fa4ea8002a9337ce]: Textual amendment: [Sch. 20 para. 3(3)(d)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/3/3/d) and word inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 47(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47/3/b); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-43cf05fbafb8b0e7fa4ea8002a9337ce]: Textual amendment: [Sch. 20 para. 3(3)(d)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/3/3/d) and word inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 47(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47/3/b); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-a4b04467d52cd6820870ea8a599e6fc0]: Textual amendment: Words in [Sch. 20 para. 3(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/3/3) substituted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 47(3)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47/3/c); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-a4b04467d52cd6820870ea8a599e6fc0]: Textual amendment: Words in [Sch. 20 para. 3(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/3/3) substituted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 47(3)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47/3/c); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-c82b43a5a6f42e86fa5d12a815e46b85]: Commencement: [Sch. 20 para. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/4) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-c82b43a5a6f42e86fa5d12a815e46b85]: Commencement: [Sch. 20 para. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/4) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-118a4f022a89995d51b980cc4c39f13f]: Textual amendment: Words in [Sch. 20 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/4/3/b) inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 47(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47/4); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-118a4f022a89995d51b980cc4c39f13f]: Textual amendment: Words in [Sch. 20 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/4/3/b) inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 47(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47/4); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-533e3f85578557e397f4782a5c0d787b]: Commencement: [Sch. 20 para. 5](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/5) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-533e3f85578557e397f4782a5c0d787b]: Commencement: [Sch. 20 para. 5](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/5) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-ed7608f8018ec37bf6574534af46e7f9]: Textual amendment: [Sch. 20 para. 5(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/5/5) inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 47(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47/5); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-ed7608f8018ec37bf6574534af46e7f9]: Textual amendment: [Sch. 20 para. 5(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/5/5) inserted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 47(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47/5); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-cc2816897f22038f911d8c1986e7286e]: Commencement: [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/6) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-cc2816897f22038f911d8c1986e7286e]: Commencement: [Sch. 20 para. 6](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/6) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-193e5f7e398632de9a54cd5d2c4c10aa]: Commencement: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/7) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-193e5f7e398632de9a54cd5d2c4c10aa]: Commencement: [Sch. 20 para. 7](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/7) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-cb0149968758ee4ca485929e8f7f7ef9]: Commencement: [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/8) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-cb0149968758ee4ca485929e8f7f7ef9]: Commencement: [Sch. 20 para. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/8) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-85f6ef80c26053ffa1d46a539f0d0572]: Commencement: [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/9) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-85f6ef80c26053ffa1d46a539f0d0572]: Commencement: [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/9) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-d2b4ddd0c5770d5d10e24c791774947d]: Commencement: [Sch. 20 para. 10](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/10) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-d2b4ddd0c5770d5d10e24c791774947d]: Commencement: [Sch. 20 para. 10](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/10) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-cfe8028a4a474fbae2880eb05883bb0d]: Commencement: [Sch. 20 para. 11](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/11) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-cfe8028a4a474fbae2880eb05883bb0d]: Commencement: [Sch. 20 para. 11](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/11) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-a3018dc98fcd52947e6b3a7ffc156de0]: Commencement: [Sch. 20 para. 12](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/12) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-a3018dc98fcd52947e6b3a7ffc156de0]: Commencement: [Sch. 20 para. 12](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/12) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-0023fa4288898fb228aa68f95a0fce45]: Commencement: [Sch. 20 para. 13](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/13) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-0023fa4288898fb228aa68f95a0fce45]: Commencement: [Sch. 20 para. 13](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/13) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-daeb7d5a0348f67fc057895f1e51901b]: Commencement: [Sch. 20 para. 14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/14) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-daeb7d5a0348f67fc057895f1e51901b]: Commencement: [Sch. 20 para. 14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/14) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-f187b5154654a202985a6df10505abfb]: Commencement: [Sch. 20 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/15) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-f187b5154654a202985a6df10505abfb]: Commencement: [Sch. 20 para. 15](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/15) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-30d8c2dd121bb81ebb2bf2f5e7e9958f]: Commencement: Sch. 20 para. 16 in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-30d8c2dd121bb81ebb2bf2f5e7e9958f]: Commencement: Sch. 20 para. 16 in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-81e8326af932558db7c746c2339bd5f4]: Commencement: [Sch. 20 para. 17](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/17) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-81e8326af932558db7c746c2339bd5f4]: Commencement: [Sch. 20 para. 17](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/17) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-c204c280c4d202e298a5aaa48f1c8f73]: Commencement: [Sch. 20 para. 18](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/18) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-c204c280c4d202e298a5aaa48f1c8f73]: Commencement: [Sch. 20 para. 18](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/18) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-13cf3d35afb8f24dc8c608dcb5cad548]: Commencement: [Sch. 20 para. 19](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/19) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-13cf3d35afb8f24dc8c608dcb5cad548]: Commencement: [Sch. 20 para. 19](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/19) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-6c20d93184367128d63275753b332b8c]: Commencement: [Sch. 20 para. 20](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/20) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-6c20d93184367128d63275753b332b8c]: Commencement: [Sch. 20 para. 20](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/20) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-5a09556ed920530ff9fd657f15aa3d73]: Commencement: [Sch. 20 para. 21](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/21) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-5a09556ed920530ff9fd657f15aa3d73]: Commencement: [Sch. 20 para. 21](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/21) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-dd49967566ac0f628c445c61ce81b2b6]: Commencement: [Sch. 20 para. 22](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/22) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-dd49967566ac0f628c445c61ce81b2b6]: Commencement: [Sch. 20 para. 22](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/22) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
 
-[^key-24cbefdc498defe6855c6caf3ba38a7a]: Commencement: [Sch. 20 para. 23](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/23) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)
+[^c-24cbefdc498defe6855c6caf3ba38a7a]: Commencement: [Sch. 20 para. 23](https://www.legislation.gov.uk/ukpga/2016/24/schedule/20/paragraph/23) in force at 1.1.2017 by [S.I. 2016/1249](https://www.legislation.gov.uk/uksi/2016/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1249/regulation/2)

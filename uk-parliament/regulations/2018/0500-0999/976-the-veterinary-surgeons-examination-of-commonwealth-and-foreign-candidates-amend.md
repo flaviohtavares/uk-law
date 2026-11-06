@@ -31,7 +31,7 @@ summary: ''
 
 Veterinary Surgeons
 
-The Veterinary Surgeons (Examination of Commonwealth and Foreign Candidates) (Amendment) Regulations Order of Council 2018 (revoked)[^key-0dd1880daa8af6ccb304be47b132cda0]
+The Veterinary Surgeons (Examination of Commonwealth and Foreign Candidates) (Amendment) Regulations Order of Council 2018 (revoked)[^c-0dd1880daa8af6ccb304be47b132cda0]
 
 Made
 
@@ -45,34 +45,34 @@ At the Council Chamber, Whitehall, the 5th day of September 2018
 
 By the Lords of Her Majesty’s Most Honourable Privy Council
 
-[^key-0dd1880daa8af6ccb304be47b132cda0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0dd1880daa8af6ccb304be47b132cda0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0dd1880daa8af6ccb304be47b132cda0]
+## 1. Citation and commencement[^c-0dd1880daa8af6ccb304be47b132cda0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Approval[^key-0dd1880daa8af6ccb304be47b132cda0]
+## 2. Approval[^c-0dd1880daa8af6ccb304be47b132cda0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0dd1880daa8af6ccb304be47b132cda0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0dd1880daa8af6ccb304be47b132cda0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — The Veterinary Surgeons (Examination of Commonwealth and Foreign Candidates) (Amendment) Regulations 2018[^key-0dd1880daa8af6ccb304be47b132cda0]
+## SCHEDULE — The Veterinary Surgeons (Examination of Commonwealth and Foreign Candidates) (Amendment) Regulations 2018[^c-0dd1880daa8af6ccb304be47b132cda0]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0dd1880daa8af6ccb304be47b132cda0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0dd1880daa8af6ccb304be47b132cda0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0dd1880daa8af6ccb304be47b132cda0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0dd1880daa8af6ccb304be47b132cda0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0dd1880daa8af6ccb304be47b132cda0]: Textual amendment: Order revoked (1.1.2025) by [The Veterinary Surgeons (Examination of Commonwealth and Foreign Candidates) Regulations Order of Council 2024 (S.I. 2024/1326)](https://www.legislation.gov.uk/uksi/2024/1326), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1326/article/1/1), [3](https://www.legislation.gov.uk/uksi/2024/1326/article/3), [Sch. reg. 11](https://www.legislation.gov.uk/uksi/2024/1326/schedule/regulation/11)
+[^c-0dd1880daa8af6ccb304be47b132cda0]: Textual amendment: Order revoked (1.1.2025) by [The Veterinary Surgeons (Examination of Commonwealth and Foreign Candidates) Regulations Order of Council 2024 (S.I. 2024/1326)](https://www.legislation.gov.uk/uksi/2024/1326), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/1326/article/1/1), [3](https://www.legislation.gov.uk/uksi/2024/1326/article/3), [Sch. reg. 11](https://www.legislation.gov.uk/uksi/2024/1326/schedule/regulation/11)

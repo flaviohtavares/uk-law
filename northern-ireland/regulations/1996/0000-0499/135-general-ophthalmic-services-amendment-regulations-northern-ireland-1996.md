@@ -40,13 +40,13 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 62, 106 and 107(6) of, and paragraph 8E of Schedule 11 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00001] and Article 10 of the Health and Medicines (Northern Ireland) Order 1988[^f00002] and of all other powers enabling it in that behalf, and in conjunction with the Department of Finance and Personnel and after consultation with such organisations as appeared to the Department to be representative of medical practitioners practising as ophthalmic medical practitioners, and ophthalmic opticians, as required by Article 62(3) of the said Order, hereby makes the following regulations:
 
-## 1. Citation, commencement and interpretation[^key-09dfca00808ff9c859370c686eadb912]
+## 1. Citation, commencement and interpretation[^c-09dfca00808ff9c859370c686eadb912]
 
 (1) These regulations may be cited as the General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 1st April 1996.
 
 (2) In these regulations, the “principal regulations” means the General Ophthalmic Services Regulations (Northern Ireland) 1986[^f00003].
 
-## 2. Amendment of regulation 2 of the principal regulations[^key-d327c68fd07326f1f53def8241c52cd9]
+## 2. Amendment of regulation 2 of the principal regulations[^c-d327c68fd07326f1f53def8241c52cd9]
 
 Regulation 2(1) of the principal regulations (interpretation) shall be amended as follows—
 
@@ -61,11 +61,11 @@ Regulation 2(1) of the principal regulations (interpretation) shall be amended a
 
   .
 
-## 3. Amendment of regulation 8 of the principal regulations[^key-46f38e985f69613e17ef118a5dad3e35]
+## 3. Amendment of regulation 8 of the principal regulations[^c-46f38e985f69613e17ef118a5dad3e35]
 
 In regulation 8 (ophthalmic list), at the end of paragraph (1) there shall be inserted “and who are not disqualified for inclusion by virtue of the provisions of paragraphs 5, 7, 8A(3), 8B(1) or 8D(2) of Schedule 11 to the Order[^f00006]”.
 
-## 4. Amendment of regulation 9 of the principal regulations[^key-dbe57871d081457629b1abbdc8c7d780]
+## 4. Amendment of regulation 9 of the principal regulations[^c-dbe57871d081457629b1abbdc8c7d780]
 
 In regulation 9 (application for inclusion in ophthalmic list), in paragraph (1)—
 
@@ -78,7 +78,7 @@ In regulation 9 (application for inclusion in ophthalmic list), in paragraph (1)
 
   .
 
-## 5. Amendment of regulation 11 of the principal regulations[^key-c790c489343c9e23a4ba101e540683b2]
+## 5. Amendment of regulation 11 of the principal regulations[^c-c790c489343c9e23a4ba101e540683b2]
 
 In regulation 11 (removal from ophthalmic list), after paragraph (2) there shall be inserted the following new paragraph—
 
@@ -86,11 +86,11 @@ In regulation 11 (removal from ophthalmic list), after paragraph (2) there shall
 
 .
 
-## 6. Amendment of regulation 14 of the principal regulations[^key-27f24fbac8e6d9549961ad75b59787f0]
+## 6. Amendment of regulation 14 of the principal regulations[^c-27f24fbac8e6d9549961ad75b59787f0]
 
 In regulation 14 (payment for services), in paragraph (2)(*b*) for “regulation 4(2) of the Health and Personal Social Services (Services Committee) Regulations (Northern Ireland) 1973” substitute “regulation 5(1) of the Health and Personal Social Services (Disciplinary Procedures) Regulations (Northern Ireland) 1996”[^f00007].
 
-## 7. Payments to suspended contractors[^key-3f30197048af8fb4ca34d0467f3424c1]
+## 7. Payments to suspended contractors[^c-3f30197048af8fb4ca34d0467f3424c1]
 
 After regulation 14 of the principal regulations the following new regulation shall be inserted—
 
@@ -112,7 +112,7 @@ After regulation 14 of the principal regulations the following new regulation sh
 
 .
 
-## 8. Amendment of Schedule 1 to the principal regulations[^key-b73c31bce60e19b11bd707432936d4d1]
+## 8. Amendment of Schedule 1 to the principal regulations[^c-b73c31bce60e19b11bd707432936d4d1]
 
 (1) Schedule 1 (terms of service for ophthalmic medical practitioners and opticians) shall be amended as follows.
 
@@ -247,31 +247,31 @@ Paragraph 8E of Schedule 11 to the 1972 Order, one of the enabling provisions un
 
 [^f00002]: Footnote: [S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249)
 
-[^key-09dfca00808ff9c859370c686eadb912]: Commencement: Reg. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
+[^c-09dfca00808ff9c859370c686eadb912]: Commencement: Reg. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1986 No. 163](https://www.legislation.gov.uk/nisr/1986/163); relevant amending regulations are [S.R. 1988 No. 110](https://www.legislation.gov.uk/nisr/1988/110), and [S.R. 1990 No. 191](https://www.legislation.gov.uk/nisr/1990/191)
 
-[^key-d327c68fd07326f1f53def8241c52cd9]: Commencement: Reg. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
+[^c-d327c68fd07326f1f53def8241c52cd9]: Commencement: Reg. 2 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
 
 [^f00004]: Footnote: Paragraph 8A and 8B of Schedule 11 were inserted by Article 4 of [S.I. 1995/2704 (N.I. 14)](https://www.legislation.gov.uk/nisi/1995/2704)
 
 [^f00005]: Footnote: [1968 c. 34](https://www.legislation.gov.uk/apni/1968/34)
 
-[^key-46f38e985f69613e17ef118a5dad3e35]: Commencement: Reg. 3 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
+[^c-46f38e985f69613e17ef118a5dad3e35]: Commencement: Reg. 3 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
 
 [^f00006]: Footnote: Paragraph 8D of Schedule II was inserted by Article 4 of [S.I. 1995/2704 (N.I. 14)](https://www.legislation.gov.uk/nisi/1995/2704)
 
-[^key-dbe57871d081457629b1abbdc8c7d780]: Commencement: Reg. 4 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
+[^c-dbe57871d081457629b1abbdc8c7d780]: Commencement: Reg. 4 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
 
-[^key-c790c489343c9e23a4ba101e540683b2]: Commencement: Reg. 5 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
+[^c-c790c489343c9e23a4ba101e540683b2]: Commencement: Reg. 5 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
 
-[^key-27f24fbac8e6d9549961ad75b59787f0]: Commencement: Reg. 6 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
+[^c-27f24fbac8e6d9549961ad75b59787f0]: Commencement: Reg. 6 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1996 No. 137](https://www.legislation.gov.uk/nisr/1996/137)
 
-[^key-3f30197048af8fb4ca34d0467f3424c1]: Commencement: Reg. 7 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
+[^c-3f30197048af8fb4ca34d0467f3424c1]: Commencement: Reg. 7 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
 
-[^key-b73c31bce60e19b11bd707432936d4d1]: Commencement: Reg. 8 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
+[^c-b73c31bce60e19b11bd707432936d4d1]: Commencement: Reg. 8 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/135/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1989 No. 114](https://www.legislation.gov.uk/nisr/1989/114)
 

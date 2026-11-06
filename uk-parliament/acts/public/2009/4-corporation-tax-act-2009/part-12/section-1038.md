@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1038. Exclusion of other deductions[^key-22e53ee3d419bcad2e9b03d8799aa3a9]
+## 1038. Exclusion of other deductions[^c-22e53ee3d419bcad2e9b03d8799aa3a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ For this purpose, it does not matter if the amount of the relief is or would be 
 
 ## Annotations
 
-[^key-22e53ee3d419bcad2e9b03d8799aa3a9]: Textual amendment: S. 1038 substituted (with effect in accordance with s. 40(4)-(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/40/2)
+[^c-22e53ee3d419bcad2e9b03d8799aa3a9]: Textual amendment: S. 1038 substituted (with effect in accordance with s. 40(4)-(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/40/2)

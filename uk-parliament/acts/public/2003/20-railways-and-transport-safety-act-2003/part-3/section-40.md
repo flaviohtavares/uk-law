@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Regulations: approval in draft[^key-6c532c5e9692c7bf4b1c744990bdc065]
+## 40. Regulations: approval in draft[^c-6c532c5e9692c7bf4b1c744990bdc065]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c532c5e9692c7bf4b1c744990bdc065]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2003/20/section/40) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/w)
+[^c-6c532c5e9692c7bf4b1c744990bdc065]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2003/20/section/40) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/w)

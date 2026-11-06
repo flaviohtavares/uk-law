@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Delivery of prisoner to place abroad for purposes of transfer out of the United Kingdom[^key-49b752abaee02a2f0567e08174678e84]
+## 93. Delivery of prisoner to place abroad for purposes of transfer out of the United Kingdom[^c-49b752abaee02a2f0567e08174678e84]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In section 2(1) of the Repatriation of Prisoners Act 1984 (c. 47) (transfer out 
 
 ## Annotations
 
-[^key-49b752abaee02a2f0567e08174678e84]: Commencement: S. 93 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/37)
+[^c-49b752abaee02a2f0567e08174678e84]: Commencement: S. 93 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/37)

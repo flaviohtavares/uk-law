@@ -39,7 +39,7 @@ Coming into force in accordance with Article 1(2) and (3)
 
 Her Majesty, in exercise of the powers conferred upon Her by section 168 of the Serious Organised Crime and Police Act 2005[^f00001], section 66(4) of the Safeguarding Vulnerable Groups Act 2006[^f00002] and section 118 of the Protection of Freedoms Act 2012[^f00003], is pleased, by and with the advice of Her Privy Council, to make the following Order:
 
-## 1. Citation and commencement[^key-91f2cb1d543001f8cd39c5829c2cc2f3]
+## 1. Citation and commencement[^c-91f2cb1d543001f8cd39c5829c2cc2f3]
 
 (1) This Order may be cited as the Police Act 1997 (Criminal Records) (Isle of Man) (Amendment) Order 2012.
 
@@ -52,14 +52,14 @@ Her Majesty, in exercise of the powers conferred upon Her by section 168 of the 
   - (ii) one in a Part extended by paragraphs (2) to (5) of article 4 (subject to the modifications specified in Schedules 2 to 5 of this Order); and
 - (b) paragraph (4) of Schedule 1 has effect in the Island when the provisions of article 4(3) to (6) have effect in the Island.
 
-## 2. Interpretation[^key-1b7122dabd41ef3224ba16a53cb19668]
+## 2. Interpretation[^c-1b7122dabd41ef3224ba16a53cb19668]
 
 In this Part—
 
 - “the 2012 Act” means the Protection of Freedoms Act 2012; and
 - “the Island” means the Isle of Man and its adjacent territorial sea.
 
-## 3. Amendment of the Police Act 1997 (Criminal Records) (Isle of Man) Order 2010[^key-33d37307ccb551521a290a31f670faa4]
+## 3. Amendment of the Police Act 1997 (Criminal Records) (Isle of Man) Order 2010[^c-33d37307ccb551521a290a31f670faa4]
 
 (1) The Police Act 1997 (Criminal Records) (Isle of Man) Order 2010[^f00004] is amended as follows.
 
@@ -69,7 +69,7 @@ In this Part—
 
 (4) Articles 6, 7 and 8 and Schedule 3 are revoked.
 
-## 4. Extension of certain provisions of 2012 Act to the Island[^key-8e5e42508a5190740cce5109d0548c91]
+## 4. Extension of certain provisions of 2012 Act to the Island[^c-8e5e42508a5190740cce5109d0548c91]
 
 (1) The following sections of the 2012 Act extend to the Island subject to the modifications specified in Schedule 1—
 
@@ -86,14 +86,14 @@ In this Part—
 
 (3) Part 7 of Schedule 9 (Criminal records) to the 2012 Act extends to the Island subject to the modifications specified in Schedule 3.
 
-(4) Part 5 of Schedule 10 (Safeguarding of vulnerable groups) to the 2012 Act extends to the Island to the extent that it repeals the following provisions of the Police Act 1997—[^key-775e36d23b0d950f8ec44b90e80898e0]
+(4) Part 5 of Schedule 10 (Safeguarding of vulnerable groups) to the 2012 Act extends to the Island to the extent that it repeals the following provisions of the Police Act 1997—[^c-775e36d23b0d950f8ec44b90e80898e0]
 
 - (a) section 113BA(2)(b) to (d);
 - (b) section 113BB(2)(b) to (d).
 
 (5) Part 6 of Schedule 10 (Criminal records) to the 2012 Act extends to the Island subject to the modifications specified in Schedule 5.
 
-## 5. Subordinate legislation made under extended provisions[^key-b5d48aae1c449130b6eec322e5356775]
+## 5. Subordinate legislation made under extended provisions[^c-b5d48aae1c449130b6eec322e5356775]
 
 Any order or regulations made by the Secretary of State under the provisions extended to the Island by this Order shall not have effect in the Island unless, before making the order or regulations, the Secretary of State has consulted the Department of Home Affairs of the Island.
 
@@ -105,19 +105,19 @@ Clerk of the Privy Council
 
 Article 4(1)
 
-**1.**[^key-eae54a340bbcc32016f046e98e3f7399] In section 79 (restriction of information provided to certain persons)—
+**1.**[^c-eae54a340bbcc32016f046e98e3f7399] In section 79 (restriction of information provided to certain persons)—
 
 - (a) omit subsection (1);
 - (b) in subsection (3) for “120AB” substitute “120ZA”.
 
-**2.**[^key-4d3e56f86e6c6308c072f73bd8c0d1c9] In section 80 (minimum age for applicants for certificates or to be registered)—
+**2.**[^c-4d3e56f86e6c6308c072f73bd8c0d1c9] In section 80 (minimum age for applicants for certificates or to be registered)—
 
 - (a) in the heading omit “or to be registered”;
 - (b) omit subsection (2).
 
-**3.**[^key-fb718b2d50d901907a483f713b53d49a] In section 82 (enhanced criminal record certificates: additional safeguards), in subsection (3)(a), in the inserted definition of “relevant chief officer”, after “under subsection (4)” insert “and the Chief Constable of the Isle of Man Constabulary”.
+**3.**[^c-fb718b2d50d901907a483f713b53d49a] In section 82 (enhanced criminal record certificates: additional safeguards), in subsection (3)(a), in the inserted definition of “relevant chief officer”, after “under subsection (4)” insert “and the Chief Constable of the Isle of Man Constabulary”.
 
-**4.**[^key-052c98d5a2cbcc53d5432f2584393dd0] After section 84 insert the following section—
+**4.**[^c-052c98d5a2cbcc53d5432f2584393dd0] After section 84 insert the following section—
 
 > **84A.** Consequential amendments, repeals and revocations
 >
@@ -127,15 +127,15 @@ Article 4(1)
 
 .
 
-**5.**[^key-a58fbb623c21cf24aa42783243dd5d8b] In section 87 (formation and constitution of DBS) omit subsection (3).
+**5.**[^c-a58fbb623c21cf24aa42783243dd5d8b] In section 87 (formation and constitution of DBS) omit subsection (3).
 
-**6.**[^key-35a51a99be548ae975800b427621512c] In section 88 (transfer of functions to DBS and dissolution of ISA) for subsection (2) substitute—
+**6.**[^c-35a51a99be548ae975800b427621512c] In section 88 (transfer of functions to DBS and dissolution of ISA) for subsection (2) substitute—
 
 > (2) The Secretary of State may by order transfer to DBS any functions of the Secretary of Sate under, or in connection with, Part 5 of the Police Act 1997 (criminal records).
 
 .
 
-**7.**[^key-be17921245557ef91e8e26c49126022b] In section 89 (orders under section 88)—
+**7.**[^c-be17921245557ef91e8e26c49126022b] In section 89 (orders under section 88)—
 
 - (a) omit subsections (2) to (4);
 - (b) for subsection (5) substitute—
@@ -148,24 +148,24 @@ Article 4(1)
 
 Article 4(2)
 
-**1.**[^key-e250f93c78508179b1c4b9b104b84077] Omit paragraphs 36 and 37.
+**1.**[^c-e250f93c78508179b1c4b9b104b84077] Omit paragraphs 36 and 37.
 
-**2.**[^key-3f369295759f4f7b0ac2f5cb44cc8e89] Omit paragraphs 40 to 42.
+**2.**[^c-3f369295759f4f7b0ac2f5cb44cc8e89] Omit paragraphs 40 to 42.
 
-**3.**[^key-097e714d311f6059af75fa60a2903ded] Omit paragraphs 43 to 103.
+**3.**[^c-097e714d311f6059af75fa60a2903ded] Omit paragraphs 43 to 103.
 
 ## SCHEDULE 3 — Modifications to Part 7 of Schedule 9 to the 2012 Act
 
 Article 4(3)
 
-**1.**[^key-cb0052b303335c584a929ab97ec1d6cf] In paragraph 109[^f00005]—
+**1.**[^c-cb0052b303335c584a929ab97ec1d6cf] In paragraph 109[^f00005]—
 
 - (a) in sub-paragraph (2)(b) for “, 117A” substitute “or 117A”;
 - (b) in sub-paragraph (3), in the inserted subsection (3A)—
   - (i) for the first reference to “Secretary of State” substitute “Department of Home Affairs of the Isle of Man”;
   - (ii) after “fingerprints” insert “for transmission to the Secretary of State”.
 
-**2.**[^key-367df39d2f19347371258daf78cc2792] In paragraph 110—
+**2.**[^c-367df39d2f19347371258daf78cc2792] In paragraph 110—
 
 - (a) for sub-paragraph (2) substitute—
 
@@ -183,7 +183,7 @@ Article 4(3)
 
   .
 
-**3.**[^key-19a924a30ac1c2e425db79372dad08bd] For paragraph 112 substitute—
+**3.**[^c-19a924a30ac1c2e425db79372dad08bd] For paragraph 112 substitute—
 
 > **112.** (1) Section 120 (registered persons) is amended as follows.
 >
@@ -191,11 +191,11 @@ Article 4(3)
 
 .
 
-**4.**[^key-cd7c9c68890d41578c0c2e4a066d3673] Omit paragraphs 113 and 114.
+**4.**[^c-cd7c9c68890d41578c0c2e4a066d3673] Omit paragraphs 113 and 114.
 
-**5.**[^key-265e4e8b3e874473f426f5e159e125a6] Omit paragraphs 119 to 129.
+**5.**[^c-265e4e8b3e874473f426f5e159e125a6] Omit paragraphs 119 to 129.
 
-## SCHEDULE 4 — Modifications of Part 5 of Schedule 10 to the 2012 Act[^key-d81081711e2dbf0d4d8679ba82a85db8]
+## SCHEDULE 4 — Modifications of Part 5 of Schedule 10 to the 2012 Act[^c-d81081711e2dbf0d4d8679ba82a85db8]
 
 **No longer in force.**
 
@@ -203,11 +203,11 @@ Article 4(4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Modifications to Part 6 of Schedule 10 to the 2012 Act[^key-adabf6951f9c806c118475526a3fb9cb]
+## SCHEDULE 5 — Modifications to Part 6 of Schedule 10 to the 2012 Act[^c-adabf6951f9c806c118475526a3fb9cb]
 
 Article 4(5)
 
-[^key-adabf6951f9c806c118475526a3fb9cb]
+[^c-adabf6951f9c806c118475526a3fb9cb]
 
 For Part 6 substitute—
 
@@ -263,54 +263,54 @@ An informal Keeling Schedule setting out the provisions of the 2012 Act as they 
 
 [^f00003]: Footnote: [2012 c. 9](https://www.legislation.gov.uk/ukpga/2012/9).
 
-[^key-91f2cb1d543001f8cd39c5829c2cc2f3]: Commencement: Art. 1 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-91f2cb1d543001f8cd39c5829c2cc2f3]: Commencement: Art. 1 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-1b7122dabd41ef3224ba16a53cb19668]: Commencement: Art. 2 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-1b7122dabd41ef3224ba16a53cb19668]: Commencement: Art. 2 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-33d37307ccb551521a290a31f670faa4]: Commencement: Art. 3 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-33d37307ccb551521a290a31f670faa4]: Commencement: Art. 3 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
 [^f00004]: Footnote: [S.I. 2010/764](https://www.legislation.gov.uk/uksi/2010/764).
 
-[^key-8e5e42508a5190740cce5109d0548c91]: Commencement: Art. 4 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-8e5e42508a5190740cce5109d0548c91]: Commencement: Art. 4 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-775e36d23b0d950f8ec44b90e80898e0]: Textual amendment: [Art. 4(4)(a)(b)](https://www.legislation.gov.uk/uksi/2012/2598/article/4/4) and words substituted for words (10.7.2025) by [The Safeguarding Vulnerable Groups Act 2006 (Isle of Man) Order 2025 (S.I. 2025/824)](https://www.legislation.gov.uk/uksi/2025/824), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/824/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/824/article/3/2)
+[^c-775e36d23b0d950f8ec44b90e80898e0]: Textual amendment: [Art. 4(4)(a)(b)](https://www.legislation.gov.uk/uksi/2012/2598/article/4/4) and words substituted for words (10.7.2025) by [The Safeguarding Vulnerable Groups Act 2006 (Isle of Man) Order 2025 (S.I. 2025/824)](https://www.legislation.gov.uk/uksi/2025/824), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/824/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/824/article/3/2)
 
-[^key-b5d48aae1c449130b6eec322e5356775]: Commencement: Art. 5 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-b5d48aae1c449130b6eec322e5356775]: Commencement: Art. 5 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-eae54a340bbcc32016f046e98e3f7399]: Commencement: Sch. 1 para. 1 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-eae54a340bbcc32016f046e98e3f7399]: Commencement: Sch. 1 para. 1 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-4d3e56f86e6c6308c072f73bd8c0d1c9]: Commencement: Sch. 1 para. 2 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-4d3e56f86e6c6308c072f73bd8c0d1c9]: Commencement: Sch. 1 para. 2 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-fb718b2d50d901907a483f713b53d49a]: Commencement: Sch. 1 para. 3 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-fb718b2d50d901907a483f713b53d49a]: Commencement: Sch. 1 para. 3 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-052c98d5a2cbcc53d5432f2584393dd0]: Commencement: Sch. 1 para. 4 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-052c98d5a2cbcc53d5432f2584393dd0]: Commencement: Sch. 1 para. 4 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-a58fbb623c21cf24aa42783243dd5d8b]: Commencement: Sch. 1 para. 5 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-a58fbb623c21cf24aa42783243dd5d8b]: Commencement: Sch. 1 para. 5 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-35a51a99be548ae975800b427621512c]: Commencement: Sch. 1 para. 6 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-35a51a99be548ae975800b427621512c]: Commencement: Sch. 1 para. 6 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-be17921245557ef91e8e26c49126022b]: Commencement: Sch. 1 para. 7 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-be17921245557ef91e8e26c49126022b]: Commencement: Sch. 1 para. 7 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-e250f93c78508179b1c4b9b104b84077]: Commencement: Sch. 2 para. 1 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-e250f93c78508179b1c4b9b104b84077]: Commencement: Sch. 2 para. 1 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-3f369295759f4f7b0ac2f5cb44cc8e89]: Commencement: Sch. 2 para. 2 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-3f369295759f4f7b0ac2f5cb44cc8e89]: Commencement: Sch. 2 para. 2 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-097e714d311f6059af75fa60a2903ded]: Commencement: Sch. 2 para. 3 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-097e714d311f6059af75fa60a2903ded]: Commencement: Sch. 2 para. 3 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-cb0052b303335c584a929ab97ec1d6cf]: Commencement: Sch. 3 para. 1 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-cb0052b303335c584a929ab97ec1d6cf]: Commencement: Sch. 3 para. 1 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
 [^f00005]: Footnote: Paragraphs 109, 110 and 112 of Part 7 of Schedule 9 to the 2012 Act, respectively, amend sections 118, 119 and 120 of the Police Act [1997 (c.50)](https://www.legislation.gov.uk/ukpga/1997/50), which were extended, with modifications, by [S.I. 2010/764](https://www.legislation.gov.uk/uksi/2010/764) and which, by modification of the 2012 Act, are further modified by this Schedule. For the purposes of this Order, the relevant earlier modifications are in Schedule 1 to [S.I. 2010/764](https://www.legislation.gov.uk/uksi/2010/764).
 
-[^key-367df39d2f19347371258daf78cc2792]: Commencement: Sch. 3 para. 2 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-367df39d2f19347371258daf78cc2792]: Commencement: Sch. 3 para. 2 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-19a924a30ac1c2e425db79372dad08bd]: Commencement: Sch. 3 para. 3 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-19a924a30ac1c2e425db79372dad08bd]: Commencement: Sch. 3 para. 3 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-cd7c9c68890d41578c0c2e4a066d3673]: Commencement: Sch. 3 para. 4 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-cd7c9c68890d41578c0c2e4a066d3673]: Commencement: Sch. 3 para. 4 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-265e4e8b3e874473f426f5e159e125a6]: Commencement: Sch. 3 para. 5 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-265e4e8b3e874473f426f5e159e125a6]: Commencement: Sch. 3 para. 5 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
-[^key-d81081711e2dbf0d4d8679ba82a85db8]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2012/2598/schedule/4) omitted (10.7.2025) by virtue of [The Safeguarding Vulnerable Groups Act 2006 (Isle of Man) Order 2025 (S.I. 2025/824)](https://www.legislation.gov.uk/uksi/2025/824), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/824/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/824/article/3/3)
+[^c-d81081711e2dbf0d4d8679ba82a85db8]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2012/2598/schedule/4) omitted (10.7.2025) by virtue of [The Safeguarding Vulnerable Groups Act 2006 (Isle of Man) Order 2025 (S.I. 2025/824)](https://www.legislation.gov.uk/uksi/2025/824), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/824/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/824/article/3/3)
 
-[^key-adabf6951f9c806c118475526a3fb9cb]: Commencement: Sch. 5 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
+[^c-adabf6951f9c806c118475526a3fb9cb]: Commencement: Sch. 5 in force at 18.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2598/article/1/2)
 
 [^f00007]: Footnote: These provisions were previously extended, with modifications, by [S.I. 2010/764](https://www.legislation.gov.uk/uksi/2010/764).

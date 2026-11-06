@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148AC. Revaluation for transitional pensions under Pensions Act 2014[^key-f72ed8e2e17366bc3f956bd074908991]
+## 148AC. Revaluation for transitional pensions under Pensions Act 2014[^c-f72ed8e2e17366bc3f956bd074908991]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f72ed8e2e17366bc3f956bd074908991]: Textual amendment: [S. 148AC](https://www.legislation.gov.uk/ukpga/1992/5/section/148AC) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/17)
+[^c-f72ed8e2e17366bc3f956bd074908991]: Textual amendment: [S. 148AC](https://www.legislation.gov.uk/ukpga/1992/5/section/148AC) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2014/19/schedule/12/paragraph/17)

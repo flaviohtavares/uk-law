@@ -47,7 +47,7 @@ that the published matter was intended, or was likely, to identify the person co
 
 (5) Section 46 of the Children and Young Persons (Scotland) Act 1937 (c. 37) shall apply in relation to relevant proceedings only in respect of a person concerned in the proceedings as a witness.
 
-(6) A child in whose interests a parenting order has been made shall be regarded as a person who falls within subsection (1A)(a)[^key-51b8b3391312ff78fc048f6fddc6d268] of section 47 of the Criminal Procedure (Scotland) Act 1995 (c. 46) for the purposes of that section in its application to proceedings in respect of the commission of an offence under section 107(1) in respect of that order.
+(6) A child in whose interests a parenting order has been made shall be regarded as a person who falls within subsection (1A)(a)[^c-51b8b3391312ff78fc048f6fddc6d268] of section 47 of the Criminal Procedure (Scotland) Act 1995 (c. 46) for the purposes of that section in its application to proceedings in respect of the commission of an offence under section 107(1) in respect of that order.
 
 (7) In this section—
 
@@ -66,4 +66,4 @@ that the published matter was intended, or was likely, to identify the person co
 
 ## Annotations
 
-[^key-51b8b3391312ff78fc048f6fddc6d268]: Textual amendment: Word in s. 111(6) substituted (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 11(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/11/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(i)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
+[^c-51b8b3391312ff78fc048f6fddc6d268]: Textual amendment: Word in s. 111(6) substituted (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 11(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/11/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(i)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/i) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))

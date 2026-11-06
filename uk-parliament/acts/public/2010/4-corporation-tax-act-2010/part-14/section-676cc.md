@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 676CC. Cases where consortium condition 1 or 2 was previously met[^key-9d8a11e99f304bdcf6fd2809fa1eb96a]
+## 676CC. Cases where consortium condition 1 or 2 was previously met[^c-9d8a11e99f304bdcf6fd2809fa1eb96a]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ immediately before the change in ownership (“time T”).
 
 ## Annotations
 
-[^key-9d8a11e99f304bdcf6fd2809fa1eb96a]: Textual amendment: [Pt. 14 Ch. 2C](https://www.legislation.gov.uk/ukpga/2010/4/part/14/chapter/2C) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 77](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/77)
+[^c-9d8a11e99f304bdcf6fd2809fa1eb96a]: Textual amendment: [Pt. 14 Ch. 2C](https://www.legislation.gov.uk/ukpga/2010/4/part/14/chapter/2C) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 77](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/77)

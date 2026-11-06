@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — INFORMATION[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+## SCHEDULE 3 — INFORMATION[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 *Extent: N.I.*
 
@@ -24,38 +24,38 @@ summary: ''
 
 Regulations 7(4), 14(3) and 15(g)
 
-### PART I — INFORMATION TO BE CONTAINED IN APPLICATION FOR PRODUCER REGISTRATION[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### PART I — INFORMATION TO BE CONTAINED IN APPLICATION FOR PRODUCER REGISTRATION[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
-**1.**[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — INFORMATION TO BE INCLUDED IN AN APPLICATION FOR REGISTRATION OF A SCHEME[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### PART II — INFORMATION TO BE INCLUDED IN AN APPLICATION FOR REGISTRATION OF A SCHEME[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
-**5.**[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — STATEMENT OF THE SCHEME’S POLICIES AND THE OPERATIONAL PLANS OF SCHEMES AND PRODUCERS[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### PART III — STATEMENT OF THE SCHEME’S POLICIES AND THE OPERATIONAL PLANS OF SCHEMES AND PRODUCERS[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
-**11.**[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/356) revoked (5.4.2007) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007 (S.R. 2007/198)](https://www.legislation.gov.uk/nisr/2007/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/1/1), [41(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/1) (with [reg. 41(2)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/2)[(3)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/3))
+[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/356) revoked (5.4.2007) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007 (S.R. 2007/198)](https://www.legislation.gov.uk/nisr/2007/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/1/1), [41(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/1) (with [reg. 41(2)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/2)[(3)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/3))

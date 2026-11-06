@@ -48,14 +48,14 @@ it may, subject to subsection (5) below, make an assessment order authorising th
 
 (6) The measures are—
 
-- (a) in the case of a person who, when the assessment order is made, has not been admitted to the specified hospital, the removal, before the end of the day following the[^key-63ad23c49532efc258bcb670dceaa3cb] 7 days beginning with the day on which the order is made, of the person to the specified hospital by—
+- (a) in the case of a person who, when the assessment order is made, has not been admitted to the specified hospital, the removal, before the end of the day following the[^c-63ad23c49532efc258bcb670dceaa3cb] 7 days beginning with the day on which the order is made, of the person to the specified hospital by—
   - (i) a constable;
   - (ii) a person employed in, or contracted to provide services in or to, the specified hospital who is authorised by the managers of that hospital to remove persons to hospital for the purposes of this section; or
   - (iii) a specified person;
-- (b) the detention, for the relevant period given by subsection (6A) below[^key-015138577a9b0fa0eb95f769083935d2], of the person in the specified hospital; and
+- (b) the detention, for the relevant period given by subsection (6A) below[^c-015138577a9b0fa0eb95f769083935d2], of the person in the specified hospital; and
 - (c) during the relevant period given by subsection (6A) below, the giving to the person, in accordance with Part 16 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), of medical treatment.
 
-(6A)[^key-49a8079c5b0aecf9a36fb5360a82223b] For the purpose of subsection (6)(b) and (c) above, the relevant period is the period—
+(6A)[^c-49a8079c5b0aecf9a36fb5360a82223b] For the purpose of subsection (6)(b) and (c) above, the relevant period is the period—
 
 - (a) beginning with the day on which the order is made,
 - (b) expiring at the end of the 28 days following that day.
@@ -93,7 +93,7 @@ it may, subject to subsection (5) below, make an assessment order authorising th
   - (ii) a relevant disposal has not been made in the proceedings in respect of the offence,
 
   the prosecutor;
-- (d) in a case where the person, immediately before the order was made, was remanded[^key-4fe0db0a99f9f6951bf229854000c961] in custody, the Scottish Ministers; and
+- (d) in a case where the person, immediately before the order was made, was remanded[^c-4fe0db0a99f9f6951bf229854000c961] in custody, the Scottish Ministers; and
 - (e) the Mental Welfare Commission.
 
 (11) In this section—
@@ -107,10 +107,10 @@ it may, subject to subsection (5) below, make an assessment order authorising th
 
 [^c18911291]: Textual amendment: [Ss. 52A-52U](https://www.legislation.gov.uk/ukpga/1995/46/section/52A) inserted (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [ss. 130](https://www.legislation.gov.uk/asp/2003/13/section/130), [333(1)-(4)](https://www.legislation.gov.uk/asp/2003/13/section/333/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as amended (27.9.2005) by [S.S.I. 2005/465](https://www.legislation.gov.uk/ssi/2005/465), [art. 2](https://www.legislation.gov.uk/ssi/2005/465/article/2), [sch. 1 para. 32(13)(a)(i)(ii)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/13/a/i/ii), [sch. 2](https://www.legislation.gov.uk/ssi/2005/465/schedule/2))
 
-[^key-63ad23c49532efc258bcb670dceaa3cb]: Textual amendment: Words in s. 52D(6)(a) substituted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 40(2)(a)(i)](https://www.legislation.gov.uk/asp/2015/9/section/40/2/a/i), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-63ad23c49532efc258bcb670dceaa3cb]: Textual amendment: Words in s. 52D(6)(a) substituted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 40(2)(a)(i)](https://www.legislation.gov.uk/asp/2015/9/section/40/2/a/i), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-015138577a9b0fa0eb95f769083935d2]: Textual amendment: Words in s. 52D(6)(b)(c) substituted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 40(2)(a)(ii)](https://www.legislation.gov.uk/asp/2015/9/section/40/2/a/ii), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-015138577a9b0fa0eb95f769083935d2]: Textual amendment: Words in s. 52D(6)(b)(c) substituted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 40(2)(a)(ii)](https://www.legislation.gov.uk/asp/2015/9/section/40/2/a/ii), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-49a8079c5b0aecf9a36fb5360a82223b]: Textual amendment: S. 52D(6A) inserted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 40(2)(b)](https://www.legislation.gov.uk/asp/2015/9/section/40/2/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-49a8079c5b0aecf9a36fb5360a82223b]: Textual amendment: S. 52D(6A) inserted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 40(2)(b)](https://www.legislation.gov.uk/asp/2015/9/section/40/2/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-4fe0db0a99f9f6951bf229854000c961]: Textual amendment: Word in s. 52D(10)(d) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 38(2)(c)](https://www.legislation.gov.uk/asp/2015/9/section/38/2/c), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-4fe0db0a99f9f6951bf229854000c961]: Textual amendment: Word in s. 52D(10)(d) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 38(2)(c)](https://www.legislation.gov.uk/asp/2015/9/section/38/2/c), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

@@ -31,7 +31,7 @@ summary: ''
 
 Building And Buildings, Wales
 
-The Building (Building Control Profession) (Registration, Sanctions and Appeals) (Wales) Regulations 2023 (revoked)[^key-aabe287b92f5d25c14208ad68cf898ad]
+The Building (Building Control Profession) (Registration, Sanctions and Appeals) (Wales) Regulations 2023 (revoked)[^c-aabe287b92f5d25c14208ad68cf898ad]
 
 Made
 
@@ -45,40 +45,40 @@ Coming into force
 
 1 January 2024
 
-[^key-aabe287b92f5d25c14208ad68cf898ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aabe287b92f5d25c14208ad68cf898ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application, coming into force and interpretation[^key-aabe287b92f5d25c14208ad68cf898ad]
+## 1. Title, application, coming into force and interpretation[^c-aabe287b92f5d25c14208ad68cf898ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Register of building inspectors[^key-aabe287b92f5d25c14208ad68cf898ad]
+## 2. Register of building inspectors[^c-aabe287b92f5d25c14208ad68cf898ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Register of building control approvers[^key-aabe287b92f5d25c14208ad68cf898ad]
+## 3. Register of building control approvers[^c-aabe287b92f5d25c14208ad68cf898ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Contravention of professional conduct rules[^key-aabe287b92f5d25c14208ad68cf898ad]
+## 4. Contravention of professional conduct rules[^c-aabe287b92f5d25c14208ad68cf898ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Interim suspension for suspected serious contravention[^key-aabe287b92f5d25c14208ad68cf898ad]
+## 5. Interim suspension for suspected serious contravention[^c-aabe287b92f5d25c14208ad68cf898ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Appealing a decision made by the Welsh Ministers[^key-aabe287b92f5d25c14208ad68cf898ad]
+## 6. Appealing a decision made by the Welsh Ministers[^c-aabe287b92f5d25c14208ad68cf898ad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aabe287b92f5d25c14208ad68cf898ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aabe287b92f5d25c14208ad68cf898ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-aabe287b92f5d25c14208ad68cf898ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aabe287b92f5d25c14208ad68cf898ad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aabe287b92f5d25c14208ad68cf898ad]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2023/1304) revoked (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(2)(h)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/2/h)
+[^c-aabe287b92f5d25c14208ad68cf898ad]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2023/1304) revoked (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(2)(h)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/2/h)

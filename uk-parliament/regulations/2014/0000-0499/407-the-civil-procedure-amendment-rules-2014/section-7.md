@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**7.**[^key-9ca926a8016d3afdac2aa9edb105a787] In rule 8.1, after subparagraph (2) insert—
+**7.**[^c-9ca926a8016d3afdac2aa9edb105a787] In rule 8.1, after subparagraph (2) insert—
 
 > (2A) In the County Court, a claim under the Part 8 procedure may be made at any County Court hearing centre unless an enactment, rule or practice direction provides otherwise.
 >
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ca926a8016d3afdac2aa9edb105a787]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2014/407/rule/7) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
+[^c-9ca926a8016d3afdac2aa9edb105a787]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2014/407/rule/7) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)

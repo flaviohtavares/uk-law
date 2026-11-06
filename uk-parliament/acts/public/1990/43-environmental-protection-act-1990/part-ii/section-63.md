@@ -27,7 +27,7 @@ summary: ''
 
 and the regulations may make such modifications of other enactments as the Secretary of State considers appropriate. *(affected by repeal, see note)*[^c18999591]
 
-(2)[^M_F_7e75171d-4f0f-45e0-b3b5-7b5b1c4b8d28][^key-8dc865145bfa257d5675b67fe8822dce] A person who deposits, or knowingly causes or knowingly permits the deposit of, any waste—
+(2)[^M_F_7e75171d-4f0f-45e0-b3b5-7b5b1c4b8d28][^c-8dc865145bfa257d5675b67fe8822dce] A person who deposits, or knowingly causes or knowingly permits the deposit of, any waste—
 
 - (a) which is not controlled waste, but
 - (b) which, if it were controlled waste, would be special waste,
@@ -40,7 +40,7 @@ in a case where he would be guilty of an offence under section 33 above if the w
 
 *Extent: S*
 
-(5)[^key-81780a3d2b1c956054972d63b8f7083f] In this section, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
+(5)[^c-81780a3d2b1c956054972d63b8f7083f] In this section, “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
 
 ## Annotations
 
@@ -54,8 +54,8 @@ in a case where he would be guilty of an offence under section 33 above if the w
 
 [^M_F_7e75171d-4f0f-45e0-b3b5-7b5b1c4b8d28]: Textual amendment: S. 63(2)(3) omitted (E.W.) (16.7.2005) by virtue of [The Hazardous Waste (England and Wales) Regulations 2005 (S.I. 2005/894)](https://www.legislation.gov.uk/uksi/2005/894), [regs. 1](https://www.legislation.gov.uk/uksi/2005/894/regulation/1), [73](https://www.legislation.gov.uk/uksi/2005/894/regulation/73) (with [reg. 75](https://www.legislation.gov.uk/uksi/2005/894/regulation/75))
 
-[^key-8dc865145bfa257d5675b67fe8822dce]: Textual amendment: S. 63(2) substituted (1.4.2015 for S.) by [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), [s. 125(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/3), [Sch. 22 para. 81](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/81) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.S.I. 2015/73](https://www.legislation.gov.uk/ssi/2015/73), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/73/article/2/1)
+[^c-8dc865145bfa257d5675b67fe8822dce]: Textual amendment: S. 63(2) substituted (1.4.2015 for S.) by [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), [s. 125(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/125/3), [Sch. 22 para. 81](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/81) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.S.I. 2015/73](https://www.legislation.gov.uk/ssi/2015/73), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/73/article/2/1)
 
 [^c18971571]: Textual amendment: S. 63(2)(3) omitted (E.W.) (16.7.2005) by virtue of [The Hazardous Waste (England and Wales) Regulations 2005 (S.I. 2005/894)](https://www.legislation.gov.uk/uksi/2005/894), [regs. 1](https://www.legislation.gov.uk/uksi/2005/894/regulation/1), [73](https://www.legislation.gov.uk/uksi/2005/894/regulation/73) (with [reg. 75](https://www.legislation.gov.uk/uksi/2005/894/regulation/75))
 
-[^key-81780a3d2b1c956054972d63b8f7083f]: Textual amendment: S. 63(5) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 40(4)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/40/4); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-81780a3d2b1c956054972d63b8f7083f]: Textual amendment: S. 63(5) added (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [sch. 3 para. 40(4)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/40/4); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

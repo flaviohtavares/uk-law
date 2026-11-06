@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Pensionable earnings[^key-516b3888795936b94b3c7166135751b1]
+## 26. Pensionable earnings[^c-516b3888795936b94b3c7166135751b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
   - (a) an amount determined by the employer in accordance with the arrangement under which the benefit is provided; or
   - (b) otherwise, an amount determined by the scheme manager;
 - “permanent pensionable earnings”, in respect of any period, means—
-  - (a) basic pay in respect of that period (not including pay received in respect of a period of sick leave on reduced pay at a rate determined by the member’s employer to be appropriate because it is equivalent to the annual rate of an ill-health pension.)[^key-7180cf1bab783607cb8d17bd6ad467e4];
+  - (a) basic pay in respect of that period (not including pay received in respect of a period of sick leave on reduced pay at a rate determined by the member’s employer to be appropriate because it is equivalent to the annual rate of an ill-health pension.)[^c-7180cf1bab783607cb8d17bd6ad467e4];
   - (b) any allowance granted on a permanent basis that the scheme manager determines to be permanent pensionable earnings in respect of that period; and
   - (c) the money value of any benefit in kind that the scheme manager determines to be permanent pensionable earnings in respect of that period;
 - “fluctuating pensionable earnings”, in respect of any period, means any of the following that the scheme manager determines to be fluctuating pensionable earnings in respect of that period—
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-516b3888795936b94b3c7166135751b1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2014/1964/regulation/26) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-516b3888795936b94b3c7166135751b1]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2014/1964/regulation/26) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-7180cf1bab783607cb8d17bd6ad467e4]: Textual amendment: Words in [reg. 26(4)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/26/4) inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [9](https://www.legislation.gov.uk/uksi/2018/537/regulation/9)
+[^c-7180cf1bab783607cb8d17bd6ad467e4]: Textual amendment: Words in [reg. 26(4)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/26/4) inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [9](https://www.legislation.gov.uk/uksi/2018/537/regulation/9)

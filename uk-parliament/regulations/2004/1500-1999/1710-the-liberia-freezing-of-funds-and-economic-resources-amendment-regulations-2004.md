@@ -32,7 +32,7 @@ summary: ''
 
 CRIMINAL LAW
 
-The Liberia (Freezing of Funds and Economic Resources) (Amendment) Regulations 2004 (revoked)[^key-38eff726d5e9937a85dba15594a3b278]
+The Liberia (Freezing of Funds and Economic Resources) (Amendment) Regulations 2004 (revoked)[^c-38eff726d5e9937a85dba15594a3b278]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 7th July2004
 
-[^key-38eff726d5e9937a85dba15594a3b278]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38eff726d5e9937a85dba15594a3b278]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-38eff726d5e9937a85dba15594a3b278]
+## 1.[^c-38eff726d5e9937a85dba15594a3b278]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-38eff726d5e9937a85dba15594a3b278]
+## 2.[^c-38eff726d5e9937a85dba15594a3b278]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-38eff726d5e9937a85dba15594a3b278]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38eff726d5e9937a85dba15594a3b278]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-38eff726d5e9937a85dba15594a3b278]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38eff726d5e9937a85dba15594a3b278]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-38eff726d5e9937a85dba15594a3b278]: Textual amendment: Regulations revoked (2.10.2004) by [The Liberia (Freezing of Funds and Economic Resources) (Amendment No. 2) Regulations 2004 (S.I. 2004/2574)](https://www.legislation.gov.uk/uksi/2004/2574), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2574/regulation/1), [2](https://www.legislation.gov.uk/uksi/2004/2574/regulation/2)
+[^c-38eff726d5e9937a85dba15594a3b278]: Textual amendment: Regulations revoked (2.10.2004) by [The Liberia (Freezing of Funds and Economic Resources) (Amendment No. 2) Regulations 2004 (S.I. 2004/2574)](https://www.legislation.gov.uk/uksi/2004/2574), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2574/regulation/1), [2](https://www.legislation.gov.uk/uksi/2004/2574/regulation/2)

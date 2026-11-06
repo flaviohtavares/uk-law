@@ -43,11 +43,11 @@ Coming into operation
 
 The Department for Regional Development[^f00001] makes the following regulations in exercise of the powers conferred by Article 20(3) of the Roads (Northern Ireland) Order 1993[^f00002] and now vested in it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-4245cd474a50486bc40bac7073815c6f]
+## 1. Citation, commencement and interpretation[^c-4245cd474a50486bc40bac7073815c6f]
 
 (1) These regulations may be cited as The Motorways Traffic Regulations (Northern Ireland) 2008 and shall come into operation on 28th May 2008.
 
-(2)[^key-ba0e4d08a9b6602f1acfa3e5fe831b4d] In these regulations—
+(2)[^c-ba0e4d08a9b6602f1acfa3e5fe831b4d] In these regulations—
 
 - “approved driving instructor” and “**approved motorcycle instructor**” means a person whose name is entered in the register established by Article 48(8) of The Road Traffic (Northern Ireland) Order 2007;
 - “**bus**” means a motor vehicle constructed or adapted to carry more than 28 seated passengers (exclusive of the driver);
@@ -64,15 +64,15 @@ The Department for Regional Development[^f00001] makes the following regulations
 
 (3) A vehicle shall be treated for the purposes of these regulations as being on any part of a motorway if any part of the vehicle (whether it is at rest or not) is on any part of the motorway.
 
-## 2. Application[^key-8bda800423701df140755fb68d5f040c]
+## 2. Application[^c-8bda800423701df140755fb68d5f040c]
 
 These regulations shall apply to a motorway which may be used only by traffic of Classes I or II as set out in Schedule 1 to the Order and which has been declared by notice published in the Belfast Gazette in accordance with Article 20(2) of the Order as open for use by such traffic.
 
-## 3. Vehicles to be driven on the carriageway only[^key-1605852fc234673f49b8d3813e7eef81]
+## 3. Vehicles to be driven on the carriageway only[^c-1605852fc234673f49b8d3813e7eef81]
 
 Subject to regulations 6(2), 9, 13(1)(*a*), 13(2) and 14, a vehicle shall not be driven on any part of a motorway which is not a carriageway.
 
-## 4. Direction of driving[^key-884bd7d9dab0caad8cf6650fc326b9b1]
+## 4. Direction of driving[^c-884bd7d9dab0caad8cf6650fc326b9b1]
 
 (1) Where there is a traffic sign indicating that there is no entry to a carriageway at a particular place, a vehicle shall not be driven or moved on to that carriageway at that place.
 
@@ -89,11 +89,11 @@ Subject to regulations 6(2), 9, 13(1)(*a*), 13(2) and 14, a vehicle shall not be
 
 shall not be driven or moved so as to cause it to turn and proceed in or face the opposite direction.
 
-## 5. Restriction on stopping[^key-bbef9683a9f8609c5fcbbe1966cbc5f8]
+## 5. Restriction on stopping[^c-bbef9683a9f8609c5fcbbe1966cbc5f8]
 
 Subject to regulations 6(1) and (5) and 14, a vehicle shall not stop or remain at rest on a carriageway.
 
-## 6. Exemptions from restriction on stopping[^key-989ae492c8ec28344a536681eb052941]
+## 6. Exemptions from restriction on stopping[^c-989ae492c8ec28344a536681eb052941]
 
 (1) Subject to paragraphs (2), (3) and (4) it shall be lawful for a vehicle being driven on a carriageway to stop—
 
@@ -110,26 +110,26 @@ Subject to regulations 6(1) and (5) and 14, a vehicle shall not stop or remain a
 
 (5) The prohibition in regulation 5 shall not apply to a vehicle which is prevented from proceeding along the carriageway by the presence of any other vehicle, a person or object.
 
-## 7. Restriction on reversing[^key-03d8dd5840ad3abe322e05803f079325]
+## 7. Restriction on reversing[^c-03d8dd5840ad3abe322e05803f079325]
 
 Subject to regulation 14 a vehicle on a carriageway shall not be driven or moved backwards except insofar as it is necessary to back the vehicle to enable it to proceed forward along the carriageway or to be connected to any other vehicle.
 
-## 8. Restriction on the use of hard shoulder[^key-23c3f0eaf965c7a38c9a772d54acf63b]
+## 8. Restriction on the use of hard shoulder[^c-23c3f0eaf965c7a38c9a772d54acf63b]
 
 Subject to regulations 6(2), (3) and (4), 9 and 14 a vehicle shall not be driven or stop or remain at rest on any hard shoulder.
 
-## 9. Use of the hard shoulder as a bus lane[^key-6d66783070e881d466f614695392a4bc]
+## 9. Use of the hard shoulder as a bus lane[^c-6d66783070e881d466f614695392a4bc]
 
 Save as provided in regulations 6(2) and 14, a person shall not—
 
 - (a) during the hours 7.30 a.m. to 9.30 a.m. and 3.00 p.m. to 6.30 p.m. from Monday to Saturday inclusive, cause or permit any vehicle other than a bus to enter, proceed or wait in a bus lane specified in Schedule 1;
 - (b) during the hours 7.30 a.m. to 9.30 a.m. on a weekday, cause or permit any vehicle other than a bus to enter, proceed or wait in a bus lane specified in Schedule 2.
 
-## 10. Vehicles not to use the central reservation or verge[^key-38a44184f9b0a00d2995accdd560ebf1]
+## 10. Vehicles not to use the central reservation or verge[^c-38a44184f9b0a00d2995accdd560ebf1]
 
 Subject to regulation 14 a vehicle shall not be driven or moved or stop or remain at rest on a central reservation or verge.
 
-## 11. Vehicles driven by learner drivers[^key-8ea81f1e9d428efd905cd4cc6fbf1438]
+## 11. Vehicles driven by learner drivers[^c-8ea81f1e9d428efd905cd4cc6fbf1438]
 
 (1) Subject to paragraphs (2) and (3), a person shall not drive on a motorway a motor vehicle—
 
@@ -156,7 +156,7 @@ if that person is authorised to drive that vehicle only by virtue of being the h
   - (i) granted under Article 13(3) of the Road Traffic (Northern Ireland) Order 1981; or
   - (ii) which authorises its holder by virtue of Article 14(2) of that Order to drive all other classes of motor vehicle.
 
-## 12. Restrictions affecting animals carried in vehicles[^key-8bec64e94413c9b4b8f008e59d1111e0]
+## 12. Restrictions affecting animals carried in vehicles[^c-8bec64e94413c9b4b8f008e59d1111e0]
 
 A person in charge of an animal which is carried by a vehicle using a motorway shall, so far as is practicable, secure that—
 
@@ -165,7 +165,7 @@ A person in charge of an animal which is carried by a vehicle using a motorway s
   - (i) it shall not go or remain on any part of a motorway other than a verge or hard shoulder; and
   - (ii) it shall whilst it is not on or in the vehicle be held on a lead or otherwise kept under proper control.
 
-## 13. Use of motorway by excluded traffic[^key-b1647e80d9d164ccaa0d4d6e3cea880e]
+## 13. Use of motorway by excluded traffic[^c-b1647e80d9d164ccaa0d4d6e3cea880e]
 
 (1) Excluded traffic may use a motorway in accordance with the following provisions:—
 
@@ -181,14 +181,14 @@ A person in charge of an animal which is carried by a vehicle using a motorway s
 - (a) authorise excluded traffic of all or any kind to use a motorway as an alternative road for the period during which the use of the other road by such traffic continues to be impossible or unsuitable; and
 - (b) relax any prohibition or restriction imposed by these regulations insofar as he considers it necessary to do so in connection with the use of a motorway by excluded traffic in pursuance of any such authorisation.
 
-## 14. Exceptions and relaxations[^key-89efabac43eb607aa61aaf0d6e778a4d]
+## 14. Exceptions and relaxations[^c-89efabac43eb607aa61aaf0d6e778a4d]
 
 Nothing in regulation 3, 4, 5, 7, 8, 9 or 10 shall prohibit a person from using a motorway in contravention of those regulations where—
 
 - (a) he does so in accordance with any direction or permission given by a traffic sign;
 - (b) he does so in accordance with the permission of a constable and for the purpose of investigating any accident which has occurred on or near the motorway;
 - (c) it is necessary for him to do so to avoid or prevent an accident or to obtain or give help required as the result of an accident or emergency, and he does so in such manner as to cause as little danger or inconvenience as possible to other traffic on the motorway;
-- (d)[^key-78e89ab619d17abea073b8c71c32461e] he does so—
+- (d)[^c-78e89ab619d17abea073b8c71c32461e] he does so—
   - (i) in the exercise of his duty as a constable or as a member of a Northern Ireland Fire and Rescue Service or as a member of the Northern Ireland Ambulance Service; or
   - (ii) as authorised by the Chief Constable of the Police Service of Northern Ireland for the purposes of police driver training on the motorway.
 - (e) it is necessary for him to do so to carry out in an efficient manner—
@@ -197,7 +197,7 @@ Nothing in regulation 3, 4, 5, 7, 8, 9 or 10 shall prohibit a person from using 
   - (iii) the erection, laying, placing, maintenance, testing, alteration, repair or removal of any structure, works or apparatus in, on, under or over the motorway; or
 - (f) it is necessary for him to do so in connection with an inspection, survey, investigation or census which is carried out in accordance with a general or special authority granted by the Department.
 
-## 15. Revocation[^key-19da9b7b8e2d8681f80dd3d6a486a4ec]
+## 15. Revocation[^c-19da9b7b8e2d8681f80dd3d6a486a4ec]
 
 The Regulations specified in Schedule 3 are revoked.
 
@@ -213,12 +213,12 @@ A senior officer of the Department for Regional Development
 
 Regulation 9(a)
 
-**1.**[^key-5f0ccc3c4c7c3e090224926fe1d90b68] The area of the citybound hard shoulder of the Motorway M1, from a point 485 metres north-east of the north-eastern end of the north-western parapet wall of Stockman’s Lane Bridge, to the junction of that hard shoulder and Donegall Road, bounded on its north-western side by the north-western edge of the hard shoulder, and on its south-eastern side by the outer edge of a road marking in the form of—
+**1.**[^c-5f0ccc3c4c7c3e090224926fe1d90b68] The area of the citybound hard shoulder of the Motorway M1, from a point 485 metres north-east of the north-eastern end of the north-western parapet wall of Stockman’s Lane Bridge, to the junction of that hard shoulder and Donegall Road, bounded on its north-western side by the north-western edge of the hard shoulder, and on its south-eastern side by the outer edge of a road marking in the form of—
 
 - (a) a broken longitudinal white line; or
 - (b) two continuous longitudinal white lines encompassing white chevrons.
 
-**2.**[^key-eda50f5f24c7c8a3a6f562872fd6cea1] The area of the citybound hard shoulder of the Motorway M1, from a point 480 metres south of the southern parapet wall of the Ballyskeagh Road Bridge to a point 210 metres north of the northern parapet of the Black’s Road Bridge bounded on its western side by the western side of the hard shoulder and on its eastern side by the outer edge of a road marking in the form of —
+**2.**[^c-eda50f5f24c7c8a3a6f562872fd6cea1] The area of the citybound hard shoulder of the Motorway M1, from a point 480 metres south of the southern parapet wall of the Ballyskeagh Road Bridge to a point 210 metres north of the northern parapet of the Black’s Road Bridge bounded on its western side by the western side of the hard shoulder and on its eastern side by the outer edge of a road marking in the form of —
 
 - (a) a broken longitudinal white line; or
 - (b) two continuous longitudinal white lines encompassing white chevrons.
@@ -227,18 +227,18 @@ Regulation 9(a)
 
 Regulation 9(b)
 
-**1.**[^key-6f73263625d7d4e4df9631312cffd8d6] The area of the hard shoulder of the citybound on-slip road from Sandyknowes Roundabout, Newtownabbey, to the Motorway M2, from a point 75 metres south-east of that hard shoulder’s junction with the hard shoulder of Sandyknowes Roundabout, to its junction with the hard shoulder of the Motorway M2, bounded on its north-eastern side by the north-eastern edge of the hard shoulder, and on its south-western side by the outer edge of a road marking in the form of two continuous longitudinal white lines encompassing white chevrons.
+**1.**[^c-6f73263625d7d4e4df9631312cffd8d6] The area of the hard shoulder of the citybound on-slip road from Sandyknowes Roundabout, Newtownabbey, to the Motorway M2, from a point 75 metres south-east of that hard shoulder’s junction with the hard shoulder of Sandyknowes Roundabout, to its junction with the hard shoulder of the Motorway M2, bounded on its north-eastern side by the north-eastern edge of the hard shoulder, and on its south-western side by the outer edge of a road marking in the form of two continuous longitudinal white lines encompassing white chevrons.
 
-**2.**[^key-47f8e47160e13b272c0c61c1cf02e1c0] The area of the citybound hard shoulder of the Motorway M2, from its junction with the hard shoulder of the on-slip road referred to in item 1, to a point 271 metres west of the north-eastern end of the western parapet wall of Hightown Bridge, bounded on its northern side by the northern edge of the hard shoulder, and on its southern side by the outer edge of a road marking in the form of two continuous longitudinal white lines encompassing white chevrons.
+**2.**[^c-47f8e47160e13b272c0c61c1cf02e1c0] The area of the citybound hard shoulder of the Motorway M2, from its junction with the hard shoulder of the on-slip road referred to in item 1, to a point 271 metres west of the north-eastern end of the western parapet wall of Hightown Bridge, bounded on its northern side by the northern edge of the hard shoulder, and on its southern side by the outer edge of a road marking in the form of two continuous longitudinal white lines encompassing white chevrons.
 
-**3.**[^key-9da5f7d162ac255fc7d3b4bdc0efa4ff] The area of the citybound hard shoulder of the Motorway M2, from a point 271 metres west of the north-eastern end of the western parapet wall of Hightown Bridge, to a point 21 metres west of that part of Hightown Bridge, bounded on its northern side by the outer edge of a road marking in the form of a continuous longitudinal white line, and on its southern side by the outer edge of a road marking in the form of a broken longitudinal white line.
+**3.**[^c-9da5f7d162ac255fc7d3b4bdc0efa4ff] The area of the citybound hard shoulder of the Motorway M2, from a point 271 metres west of the north-eastern end of the western parapet wall of Hightown Bridge, to a point 21 metres west of that part of Hightown Bridge, bounded on its northern side by the outer edge of a road marking in the form of a continuous longitudinal white line, and on its southern side by the outer edge of a road marking in the form of a broken longitudinal white line.
 
-**4.**[^key-31062d50900a6eefc8a66e8a3d7b545a] The area of the citybound hard shoulder of the Motorway M2, from a point 380 metres north-west of the centre line of Ballycraigy Road South where it passes under the Motorway M2 at Ardkeen Bridge to its junction with the Sandyknowes Roundabout at the end of the south-bound off-slip bounded on its eastern side by the kerb at the edge of the hard shoulder and on its western side by the outer edge of a road marking in the form of —
+**4.**[^c-31062d50900a6eefc8a66e8a3d7b545a] The area of the citybound hard shoulder of the Motorway M2, from a point 380 metres north-west of the centre line of Ballycraigy Road South where it passes under the Motorway M2 at Ardkeen Bridge to its junction with the Sandyknowes Roundabout at the end of the south-bound off-slip bounded on its eastern side by the kerb at the edge of the hard shoulder and on its western side by the outer edge of a road marking in the form of —
 
 - (a) a broken longitudinal white line; or
 - (b) two continuous longitudinal white lines encompassing white chevrons.
 
-## SCHEDULE 3 — Regulations Revoked[^key-de51e923a6f21870862507306139824b]
+## SCHEDULE 3 — Regulations Revoked[^c-de51e923a6f21870862507306139824b]
 
 Regulation 15
 
@@ -267,50 +267,50 @@ Any person who acts in contravention of the Regulations shall be guilty of an of
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Article 6(d) and Schedule 4 Part IV
 
-[^key-4245cd474a50486bc40bac7073815c6f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/135/regulation/1) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-4245cd474a50486bc40bac7073815c6f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/135/regulation/1) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-ba0e4d08a9b6602f1acfa3e5fe831b4d]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/2) substituted (1.10.2026) by [The Motorways Traffic (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/143)](https://www.legislation.gov.uk/nisr/2026/143), [regs. 1](https://www.legislation.gov.uk/nisr/2026/143/regulation/1), [3](https://www.legislation.gov.uk/nisr/2026/143/regulation/3)
+[^c-ba0e4d08a9b6602f1acfa3e5fe831b4d]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/2) substituted (1.10.2026) by [The Motorways Traffic (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/143)](https://www.legislation.gov.uk/nisr/2026/143), [regs. 1](https://www.legislation.gov.uk/nisr/2026/143/regulation/1), [3](https://www.legislation.gov.uk/nisr/2026/143/regulation/3)
 
-[^key-8bda800423701df140755fb68d5f040c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/135/regulation/2) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-8bda800423701df140755fb68d5f040c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/135/regulation/2) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-1605852fc234673f49b8d3813e7eef81]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/135/regulation/3) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-1605852fc234673f49b8d3813e7eef81]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/135/regulation/3) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-884bd7d9dab0caad8cf6650fc326b9b1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/135/regulation/4) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-884bd7d9dab0caad8cf6650fc326b9b1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/135/regulation/4) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-bbef9683a9f8609c5fcbbe1966cbc5f8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/135/regulation/5) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-bbef9683a9f8609c5fcbbe1966cbc5f8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/135/regulation/5) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-989ae492c8ec28344a536681eb052941]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/135/regulation/6) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-989ae492c8ec28344a536681eb052941]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/135/regulation/6) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-03d8dd5840ad3abe322e05803f079325]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/135/regulation/7) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-03d8dd5840ad3abe322e05803f079325]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/135/regulation/7) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-23c3f0eaf965c7a38c9a772d54acf63b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/135/regulation/8) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-23c3f0eaf965c7a38c9a772d54acf63b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/135/regulation/8) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-6d66783070e881d466f614695392a4bc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/135/regulation/9) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-6d66783070e881d466f614695392a4bc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/135/regulation/9) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-38a44184f9b0a00d2995accdd560ebf1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/135/regulation/10) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-38a44184f9b0a00d2995accdd560ebf1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/135/regulation/10) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-8ea81f1e9d428efd905cd4cc6fbf1438]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/135/regulation/11) substituted (1.10.2026) by [The Motorways Traffic (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/143)](https://www.legislation.gov.uk/nisr/2026/143), [regs. 1](https://www.legislation.gov.uk/nisr/2026/143/regulation/1), [4](https://www.legislation.gov.uk/nisr/2026/143/regulation/4)
+[^c-8ea81f1e9d428efd905cd4cc6fbf1438]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/135/regulation/11) substituted (1.10.2026) by [The Motorways Traffic (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/143)](https://www.legislation.gov.uk/nisr/2026/143), [regs. 1](https://www.legislation.gov.uk/nisr/2026/143/regulation/1), [4](https://www.legislation.gov.uk/nisr/2026/143/regulation/4)
 
-[^key-8bec64e94413c9b4b8f008e59d1111e0]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/135/regulation/12) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-8bec64e94413c9b4b8f008e59d1111e0]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/135/regulation/12) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-b1647e80d9d164ccaa0d4d6e3cea880e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2008/135/regulation/13) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-b1647e80d9d164ccaa0d4d6e3cea880e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2008/135/regulation/13) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-89efabac43eb607aa61aaf0d6e778a4d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2008/135/regulation/14) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-89efabac43eb607aa61aaf0d6e778a4d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2008/135/regulation/14) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-78e89ab619d17abea073b8c71c32461e]: Textual amendment: [Reg. 14(d)](https://www.legislation.gov.uk/nisr/2008/135/regulation/14/d) substituted (1.10.2020) by [The Motorways Traffic (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/205)](https://www.legislation.gov.uk/nisr/2020/205), [regs. 1](https://www.legislation.gov.uk/nisr/2020/205/regulation/1), [2(d)](https://www.legislation.gov.uk/nisr/2020/205/regulation/2/d)
+[^c-78e89ab619d17abea073b8c71c32461e]: Textual amendment: [Reg. 14(d)](https://www.legislation.gov.uk/nisr/2008/135/regulation/14/d) substituted (1.10.2020) by [The Motorways Traffic (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/205)](https://www.legislation.gov.uk/nisr/2020/205), [regs. 1](https://www.legislation.gov.uk/nisr/2020/205/regulation/1), [2(d)](https://www.legislation.gov.uk/nisr/2020/205/regulation/2/d)
 
-[^key-19da9b7b8e2d8681f80dd3d6a486a4ec]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2008/135/regulation/15) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-19da9b7b8e2d8681f80dd3d6a486a4ec]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2008/135/regulation/15) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-5f0ccc3c4c7c3e090224926fe1d90b68]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2008/135/schedule/1/paragraph/1) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-5f0ccc3c4c7c3e090224926fe1d90b68]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2008/135/schedule/1/paragraph/1) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-eda50f5f24c7c8a3a6f562872fd6cea1]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2008/135/schedule/1/paragraph/2) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-eda50f5f24c7c8a3a6f562872fd6cea1]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2008/135/schedule/1/paragraph/2) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-6f73263625d7d4e4df9631312cffd8d6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2008/135/schedule/2/paragraph/1) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-6f73263625d7d4e4df9631312cffd8d6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2008/135/schedule/2/paragraph/1) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-47f8e47160e13b272c0c61c1cf02e1c0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2008/135/schedule/2/paragraph/2) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-47f8e47160e13b272c0c61c1cf02e1c0]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2008/135/schedule/2/paragraph/2) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-9da5f7d162ac255fc7d3b4bdc0efa4ff]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2008/135/schedule/2/paragraph/3) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-9da5f7d162ac255fc7d3b4bdc0efa4ff]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2008/135/schedule/2/paragraph/3) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-31062d50900a6eefc8a66e8a3d7b545a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2008/135/schedule/2/paragraph/4) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-31062d50900a6eefc8a66e8a3d7b545a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2008/135/schedule/2/paragraph/4) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
 
-[^key-de51e923a6f21870862507306139824b]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2008/135/schedule/3) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)
+[^c-de51e923a6f21870862507306139824b]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2008/135/schedule/3) in operation at 28.5.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/135/regulation/1/1)

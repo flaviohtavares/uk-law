@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Supply of information to Secretary of State[^key-385db9eb5309fe4b10f515e56193357a]
+## 55. Supply of information to Secretary of State[^c-385db9eb5309fe4b10f515e56193357a]
 
 *Extent: E+W+S+N.I.*
 
@@ -137,4 +137,4 @@ summary: ''
 
 ## Annotations
 
-[^key-385db9eb5309fe4b10f515e56193357a]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2016/19/section/55) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/h)
+[^c-385db9eb5309fe4b10f515e56193357a]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2016/19/section/55) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/h)

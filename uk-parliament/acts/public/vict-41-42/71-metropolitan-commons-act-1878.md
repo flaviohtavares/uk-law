@@ -41,7 +41,7 @@ This Act shall be cited as the Metropolitan Commons Act 1878, and shall be read 
 
 A London borough shall, in respect of any common the whole or part of which is situate within the borough,[^c569810] have the same power to purchase and hold, with a view to prevent the extinction of the rights of common, any saleable rights in common, or any tenement of a commoner having annexed thereto rights of common, as is conferred by the fifth paragraph of the eighth section of the [^c569811]Commons Act 1876 upon a district council[^c569812] in respect of a suburban common.
 
-## 3. Extension of certain provisions of 39 & 40 Vict. c. 56.[^key-ead7c1b73e456164b60da596732226c3]
+## 3. Extension of certain provisions of 39 & 40 Vict. c. 56.[^c-ead7c1b73e456164b60da596732226c3]
 
 Section 30 of the Commons Act 1876 shall, after the passing of this Act, apply to metropolitan commons within the meaning of the Metropolitan Commons Acts of 1866 and 1869.
 
@@ -59,4 +59,4 @@ Section 30 of the Commons Act 1876 shall, after the passing of this Act, apply t
 
 [^c569812]: Textual amendment: Words substituted by virtue of [Local Government Act 1894 (c. 73)](https://www.legislation.gov.uk/ukpga/1894/73), [s. 21(1)](https://www.legislation.gov.uk/ukpga/1894/73/section/21/1) and [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [s. 179(3)](https://www.legislation.gov.uk/ukpga/1972/70/section/179/3)
 
-[^key-ead7c1b73e456164b60da596732226c3]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/Vict/41-42/71/section/3) substituted (1.10.2006 for E., 6.9.2007 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2006/26/section/49/2), [56](https://www.legislation.gov.uk/ukpga/2006/26/section/56) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/c); [S.I. 2007/2386](https://www.legislation.gov.uk/wsi/2007/2386), [art. 3(i)](https://www.legislation.gov.uk/wsi/2007/2386/article/3/i)
+[^c-ead7c1b73e456164b60da596732226c3]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/Vict/41-42/71/section/3) substituted (1.10.2006 for E., 6.9.2007 for W.) by [Commons Act 2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2006/26/section/49/2), [56](https://www.legislation.gov.uk/ukpga/2006/26/section/56) (with [s. 60](https://www.legislation.gov.uk/ukpga/2006/26/section/60)); [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/c); [S.I. 2007/2386](https://www.legislation.gov.uk/wsi/2007/2386), [art. 3(i)](https://www.legislation.gov.uk/wsi/2007/2386/article/3/i)

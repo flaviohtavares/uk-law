@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Authority to survey and investigate the land[^key-301b539dfec41d0ff1b2daaefb001a2c]
+## 20. Authority to survey and investigate the land[^c-301b539dfec41d0ff1b2daaefb001a2c]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ but such consent must not be unreasonably withheld.
 
 ## Annotations
 
-[^key-301b539dfec41d0ff1b2daaefb001a2c]: Commencement: Art. 20 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-301b539dfec41d0ff1b2daaefb001a2c]: Commencement: Art. 20 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)

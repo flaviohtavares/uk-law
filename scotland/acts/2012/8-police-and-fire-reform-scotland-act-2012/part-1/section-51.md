@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Regulations: duties[^key-97fce5a5d8f2e120c60843073c752469]
+## 51. Regulations: duties[^c-97fce5a5d8f2e120c60843073c752469]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97fce5a5d8f2e120c60843073c752469]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2012/8/section/51) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-97fce5a5d8f2e120c60843073c752469]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2012/8/section/51) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

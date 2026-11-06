@@ -58,11 +58,11 @@ Clerk of the Privy Council
 
 The General Osteopathic Council, in exercise of their powers under section 4(4), 6(1)(b), (2), (3) and (4) of the Osteopaths Act 1993[^f00002], and of all other powers enabling them in that behalf, hereby make the following Rules:
 
-### 1. Citation and commencement[^key-70463abb456d72e29e79169c0a1c1736]
+### 1. Citation and commencement[^c-70463abb456d72e29e79169c0a1c1736]
 
 These Rules may be cited as the General Osteopathic Council (Registration) Rules 1998 and shall come into force on 9th May 1998.
 
-### 2. Interpretation[^key-b614f1590d99b094deb85d7fd96c6e66]
+### 2. Interpretation[^c-b614f1590d99b094deb85d7fd96c6e66]
 
 (1) In these Rules, unless the context otherwise requires, “the Act” means the Osteopaths Act 1993.
 
@@ -73,12 +73,12 @@ These Rules may be cited as the General Osteopathic Council (Registration) Rules
 
 (3) The address at which a registered osteopath has his principal practice is the address which he has informed the Registrar is the address to be shown as such in the register in relation to his name.
 
-### 3. The form of the register[^key-e2febc7d0a2e11ea6d0037945f1bdb2d]
+### 3. The form of the register[^c-e2febc7d0a2e11ea6d0037945f1bdb2d]
 
 (1) The register shall contain a separate list of persons falling within each of the following categories—
 
-- (a) persons resident in the United Kingdom [^key-03040e62633aa33a8e13973825546a94]..., the Channel Islands or the Isle of Man (“the Principal List”);
-- (b) persons resident outside the United Kingdom [^key-e6f856480da93b2c61e38d9b598c244c]... or the Channel Islands or the Isle of Man (“the Overseas List”)
+- (a) persons resident in the United Kingdom [^c-03040e62633aa33a8e13973825546a94]..., the Channel Islands or the Isle of Man (“the Principal List”);
+- (b) persons resident outside the United Kingdom [^c-e6f856480da93b2c61e38d9b598c244c]... or the Channel Islands or the Isle of Man (“the Overseas List”)
 
 and the names of persons entered in both the Principal List and the Overseas List shall be in alphabetical order.
 
@@ -90,9 +90,9 @@ and the names of persons entered in both the Principal List and the Overseas Lis
   - (i) at which he has his practice, or
   - (ii) if he practises at more than one place, at which he has his principal practice, or
   - (iii) if he is a non-practising osteopath, which he has informed the Registrar is the address to be shown in the register in relation to his name;
-- (b) the date on which he was fully registered[^key-d671f59ae1af0702fa9e112854af1f98] or conditionally registered[^key-051bbb4823910725967e59f020d106bb] as the case may be;
+- (b) the date on which he was fully registered[^c-d671f59ae1af0702fa9e112854af1f98] or conditionally registered[^c-051bbb4823910725967e59f020d106bb] as the case may be;
 - (c) his unique reference;
-- (d) the word “full”[^key-c071003271873087ff9c4bb7e60d952d] or “conditional”[^key-c485132f9dc100fef4a29ddcc0370a01] depending on the status of the osteopath;
+- (d) the word “full”[^c-c071003271873087ff9c4bb7e60d952d] or “conditional”[^c-c485132f9dc100fef4a29ddcc0370a01] depending on the status of the osteopath;
 - (e) where the entry was first made—
   - (i) during the transitional period, the qualification in osteopathy (if any) that he possessed on the date of entry, the institution from which he obtained the qualification and the date on which he obtained it and, where the qualification is a recognised qualification, an indication that it is such a qualification;
   - (ii) after the transitional period, his recognised qualification, the institution from which he obtained the qualification and the date on which he obtained it;
@@ -102,10 +102,10 @@ and the names of persons entered in both the Principal List and the Overseas Lis
 (4) In this rule—
 
 - (a) “transitional period” has the same meaning as in section 3(7) of the Act;
-- (b)[^key-5c784a3001746ddbb3a4b81d3ff8b6be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-634002c74428f96ae79fbe2dc8c900ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-5c784a3001746ddbb3a4b81d3ff8b6be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-634002c74428f96ae79fbe2dc8c900ff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. The keeping of the register[^key-90f7dda5c84311885199d25ef969e4e1]
+### 4. The keeping of the register[^c-90f7dda5c84311885199d25ef969e4e1]
 
 (1) The register shall be kept secure in a manner which guards against falsification and to this end the Registrar shall ensure that only he and such persons as have been authorised by him in writing for the purpose shall have access to the register.
 
@@ -121,7 +121,7 @@ and the names of persons entered in both the Principal List and the Overseas Lis
 
 (7) In this rule, “non-practising osteopath” means a person who pays a reduced entry fee in accordance with rule 10(1)(a) of the General Osteopathic Council (Application for Registration and Fees) Rules 1998[^f00005].
 
-### 5. Conversion from conditional to full registration[^key-8edc1270163d44057f083bbdf3ae7bba]
+### 5. Conversion from conditional to full registration[^c-8edc1270163d44057f083bbdf3ae7bba]
 
 (1) The registration of a conditionally registered osteopath shall be converted from conditional registration to full registration if he has applied to the Registrar in writing for such conversion and the circumstances specified in either paragraph (2) or paragraph (3) apply.
 
@@ -137,11 +137,11 @@ and the names of persons entered in both the Principal List and the Overseas Lis
 
 (5) In this rule, “application for registration” means an application made in accordance with rule 3 of the General Osteopathic Council (Transitional Period) (Application for Registration and Fees) Rules 1998.
 
-### 6. The giving of reasons[^key-dd6c173450c50b57b5f8c88e44f43058]
+### 6. The giving of reasons[^c-dd6c173450c50b57b5f8c88e44f43058]
 
 Where the Registrar removes an entry in the register (except where the removal is pursuant to an order under section 22(4)(d) of the Act) or refuses to renew an entry, he shall give the osteopath concerned reasons in writing for the removal or the refusal as the case may be.
 
-### 7. Issue and form of certificates[^key-d4996080391d8a88fc8331c5f7a838b2]
+### 7. Issue and form of certificates[^c-d4996080391d8a88fc8331c5f7a838b2]
 
 (1) Where the Registrar enters the name of an osteopath in the register, he shall issue to that osteopath a certificate of registration complying with the requirements of paragraph (2).
 
@@ -151,7 +151,7 @@ Where the Registrar removes an entry in the register (except where the removal i
   - (i) the name of the osteopath concerned,
   - (ii) his unique reference;
   - (iii) the date on which he was registered, and
-  - (iv) whether the osteopath concerned is registered as a fully registered osteopath [^key-27d4d6e105ec9411584cb5bbaffefb1a]... or a conditionally registered osteopath; and
+  - (iv) whether the osteopath concerned is registered as a fully registered osteopath [^c-27d4d6e105ec9411584cb5bbaffefb1a]... or a conditionally registered osteopath; and
 - (b) be signed by the Registrar.
 
 Given under the official seal of the General Osteopathic Council this 29th day of April nineteen hundred and ninety eight.
@@ -170,36 +170,36 @@ This Order, which is made under the Osteopaths Act 1993, approves rules made by 
 
 [^f00002]: Footnote: [1993 c. 21](https://www.legislation.gov.uk/ukpga/1993/21).
 
-[^key-70463abb456d72e29e79169c0a1c1736]: Commencement: Sch. rule 1 in force at 9.5.1998
+[^c-70463abb456d72e29e79169c0a1c1736]: Commencement: Sch. rule 1 in force at 9.5.1998
 
-[^key-b614f1590d99b094deb85d7fd96c6e66]: Commencement: Sch. rule 2 in force at 9.5.1998
+[^c-b614f1590d99b094deb85d7fd96c6e66]: Commencement: Sch. rule 2 in force at 9.5.1998
 
-[^key-e2febc7d0a2e11ea6d0037945f1bdb2d]: Commencement: Sch. rule 3 in force at 9.5.1998
+[^c-e2febc7d0a2e11ea6d0037945f1bdb2d]: Commencement: Sch. rule 3 in force at 9.5.1998
 
-[^key-03040e62633aa33a8e13973825546a94]: Textual amendment: Words in [Sch. rule 3(1)(a)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/1/a) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 12(a)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/12/a/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-03040e62633aa33a8e13973825546a94]: Textual amendment: Words in [Sch. rule 3(1)(a)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/1/a) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 12(a)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/12/a/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e6f856480da93b2c61e38d9b598c244c]: Textual amendment: Words in [Sch. rule 3(1)(b)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/1/b) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 12(a)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/12/a/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e6f856480da93b2c61e38d9b598c244c]: Textual amendment: Words in [Sch. rule 3(1)(b)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/1/b) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 12(a)(i)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/12/a/i) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d671f59ae1af0702fa9e112854af1f98]: Textual amendment: Words in [Sch. rule 3(3)(b)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/3/b) substituted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [215(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/215/a/ii/aa)
+[^c-d671f59ae1af0702fa9e112854af1f98]: Textual amendment: Words in [Sch. rule 3(3)(b)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/3/b) substituted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [215(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/215/a/ii/aa)
 
-[^key-051bbb4823910725967e59f020d106bb]: Textual amendment: Words in [Sch. rule 3(3)(b)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/3/b) substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 12(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/12/a/ii/aa) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-051bbb4823910725967e59f020d106bb]: Textual amendment: Words in [Sch. rule 3(3)(b)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/3/b) substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 12(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/12/a/ii/aa) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c071003271873087ff9c4bb7e60d952d]: Textual amendment: Words in [Sch. rule 3(3)(d)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/3/d) substituted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [215(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/215/a/ii/bb)
+[^c-c071003271873087ff9c4bb7e60d952d]: Textual amendment: Words in [Sch. rule 3(3)(d)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/3/d) substituted (3.12.2007) by [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [215(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/215/a/ii/bb)
 
-[^key-c485132f9dc100fef4a29ddcc0370a01]: Textual amendment: Words in [Sch. rule 3(3)(d)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/3/d) substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 12(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/12/a/ii/bb) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c485132f9dc100fef4a29ddcc0370a01]: Textual amendment: Words in [Sch. rule 3(3)(d)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/3/d) substituted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 12(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/12/a/ii/bb) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5c784a3001746ddbb3a4b81d3ff8b6be]: Textual amendment: [Sch. rule 3(4)(b)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/4/b) omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [215(a)(iii)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/215/a/iii)
+[^c-5c784a3001746ddbb3a4b81d3ff8b6be]: Textual amendment: [Sch. rule 3(4)(b)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/4/b) omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [215(a)(iii)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/215/a/iii)
 
-[^key-634002c74428f96ae79fbe2dc8c900ff]: Textual amendment: [Sch. rule 3(4)(c)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/4/c) omitted (18.8.2004) by virtue of [The European Qualifications (Health and Social Care Professions and Accession of New Member States) Regulations 2004 (S.I. 2004/1947)](https://www.legislation.gov.uk/uksi/2004/1947), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/1947/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2004/1947/regulation/14/2/b)
+[^c-634002c74428f96ae79fbe2dc8c900ff]: Textual amendment: [Sch. rule 3(4)(c)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/3/4/c) omitted (18.8.2004) by virtue of [The European Qualifications (Health and Social Care Professions and Accession of New Member States) Regulations 2004 (S.I. 2004/1947)](https://www.legislation.gov.uk/uksi/2004/1947), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/1947/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2004/1947/regulation/14/2/b)
 
-[^key-90f7dda5c84311885199d25ef969e4e1]: Commencement: Sch. rule 4 in force at 9.5.1998
+[^c-90f7dda5c84311885199d25ef969e4e1]: Commencement: Sch. rule 4 in force at 9.5.1998
 
 [^f00005]: Footnote: S.I. [1998/872](https://www.legislation.gov.uk/uksi/1998/872).
 
-[^key-8edc1270163d44057f083bbdf3ae7bba]: Commencement: Sch. rule 5 in force at 9.5.1998
+[^c-8edc1270163d44057f083bbdf3ae7bba]: Commencement: Sch. rule 5 in force at 9.5.1998
 
-[^key-dd6c173450c50b57b5f8c88e44f43058]: Commencement: Sch. rule 6 in force at 9.5.1998
+[^c-dd6c173450c50b57b5f8c88e44f43058]: Commencement: Sch. rule 6 in force at 9.5.1998
 
-[^key-d4996080391d8a88fc8331c5f7a838b2]: Commencement: Sch. rule 7 in force at 9.5.1998
+[^c-d4996080391d8a88fc8331c5f7a838b2]: Commencement: Sch. rule 7 in force at 9.5.1998
 
-[^key-27d4d6e105ec9411584cb5bbaffefb1a]: Textual amendment: Words in [Sch. rule 7(2)(a)(iv)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/7/2/a/iv) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 12(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/12/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-27d4d6e105ec9411584cb5bbaffefb1a]: Textual amendment: Words in [Sch. rule 7(2)(a)(iv)](https://www.legislation.gov.uk/uksi/1998/1328/schedule/rule/7/2/a/iv) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 6 para. 12(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/paragraph/12/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/6/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [14](https://www.legislation.gov.uk/uksi/2020/1394/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

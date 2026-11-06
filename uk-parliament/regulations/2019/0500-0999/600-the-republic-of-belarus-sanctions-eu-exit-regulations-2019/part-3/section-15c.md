@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15C. Insurance and reinsurance services[^key-259b078ee073881bbd9447845e718ca6]
+## 15C. Insurance and reinsurance services[^c-259b078ee073881bbd9447845e718ca6]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-259b078ee073881bbd9447845e718ca6]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2019/600/part/3/chapter/2) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2021/1146/regulation/8)
+[^c-259b078ee073881bbd9447845e718ca6]: Textual amendment: [Pt. 3 Ch. 2](https://www.legislation.gov.uk/uksi/2019/600/part/3/chapter/2) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2021/1146/regulation/8)

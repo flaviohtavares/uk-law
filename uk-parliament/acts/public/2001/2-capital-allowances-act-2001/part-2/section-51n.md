@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51N. Special provision for long chargeable periods: supplementary[^key-1a98ef4ab5c694ae4329e59fe1a3b443][^key-27e2104a719ff9fd66766c86b94809ef]
+## 51N. Special provision for long chargeable periods: supplementary[^c-1a98ef4ab5c694ae4329e59fe1a3b443][^c-27e2104a719ff9fd66766c86b94809ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a98ef4ab5c694ae4329e59fe1a3b443]: Textual amendment: Ss. 51A-51N and cross-heading inserted (with effect in accordance with Sch. 24 para. 23 to the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/3)
+[^c-1a98ef4ab5c694ae4329e59fe1a3b443]: Textual amendment: Ss. 51A-51N and cross-heading inserted (with effect in accordance with Sch. 24 para. 23 to the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/3)
 
-[^key-27e2104a719ff9fd66766c86b94809ef]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/2/part/2) modified (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 7](https://www.legislation.gov.uk/ukpga/2023/30/section/7)
+[^c-27e2104a719ff9fd66766c86b94809ef]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/2001/2/part/2) modified (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 7](https://www.legislation.gov.uk/ukpga/2023/30/section/7)

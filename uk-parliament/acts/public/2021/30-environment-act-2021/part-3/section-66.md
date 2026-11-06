@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Enforcement powers[^key-da7e9850c43b8ce62d7001a21e6701dc]
+## 66. Enforcement powers[^c-da7e9850c43b8ce62d7001a21e6701dc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 10 amends legislation about enforcement powers in relation to waste and
 
 ## Annotations
 
-[^key-da7e9850c43b8ce62d7001a21e6701dc]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2021/30/section/66) in force at 9.1.2022, see [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h)
+[^c-da7e9850c43b8ce62d7001a21e6701dc]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2021/30/section/66) in force at 9.1.2022, see [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h)

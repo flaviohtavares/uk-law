@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Special restrictions on referendum expenses by permitted participants.[^c10574931][^c20061181][^key-287fff13e97bb8aa48da1af3d592e6c5][^key-4fe35ae9beacee0033b580e6cf4b38cd]
+## 118. Special restrictions on referendum expenses by permitted participants.[^c10574931][^c20061181][^c-287fff13e97bb8aa48da1af3d592e6c5][^c-4fe35ae9beacee0033b580e6cf4b38cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 [^c20061181]: Modification: S. 118 applied (with modifications) (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [art. 7(2)](https://www.legislation.gov.uk/uksi/2004/1962/article/7/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2004/1962/schedule/3/part/2)
 
-[^key-287fff13e97bb8aa48da1af3d592e6c5]: Modification: S. 118 modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 1 para. 17(3)(b)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/1/paragraph/17/3/b)
+[^c-287fff13e97bb8aa48da1af3d592e6c5]: Modification: S. 118 modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 1 para. 17(3)(b)](https://www.legislation.gov.uk/ukpga/2011/1/schedule/1/paragraph/17/3/b)
 
-[^key-4fe35ae9beacee0033b580e6cf4b38cd]: Modification: S. 118 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/22); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-4fe35ae9beacee0033b580e6cf4b38cd]: Modification: S. 118 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/22); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

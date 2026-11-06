@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Duties of leaders of political groups in relation to standards of conduct[^key-71742f98be77858654dc5dc29a56695a]
+## 62. Duties of leaders of political groups in relation to standards of conduct[^c-71742f98be77858654dc5dc29a56695a]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71742f98be77858654dc5dc29a56695a]: Commencement: [S. 62](https://www.legislation.gov.uk/asc/2021/1/section/62) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(l)](https://www.legislation.gov.uk/wsi/2021/231/article/6/l)
+[^c-71742f98be77858654dc5dc29a56695a]: Commencement: [S. 62](https://www.legislation.gov.uk/asc/2021/1/section/62) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(l)](https://www.legislation.gov.uk/wsi/2021/231/article/6/l)

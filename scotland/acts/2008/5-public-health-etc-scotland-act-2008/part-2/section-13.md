@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Notifiable diseases: duties on registered medical practitioners[^key-8b392b5815a98265ffb3f8575fb69d33]
+## 13. Notifiable diseases: duties on registered medical practitioners[^c-8b392b5815a98265ffb3f8575fb69d33]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b392b5815a98265ffb3f8575fb69d33]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2008/5/section/13) in force at 1.1.2010 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)
+[^c-8b392b5815a98265ffb3f8575fb69d33]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2008/5/section/13) in force at 1.1.2010 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)

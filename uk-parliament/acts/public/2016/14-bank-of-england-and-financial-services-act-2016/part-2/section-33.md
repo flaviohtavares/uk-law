@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Advice about transferring or otherwise dealing with annuity payments[^key-7321890bf14b3521d8522d677b9d0569]
+## 33. Advice about transferring or otherwise dealing with annuity payments[^c-7321890bf14b3521d8522d677b9d0569]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7321890bf14b3521d8522d677b9d0569]: Commencement: S. 33 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/x)
+[^c-7321890bf14b3521d8522d677b9d0569]: Commencement: S. 33 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/x)

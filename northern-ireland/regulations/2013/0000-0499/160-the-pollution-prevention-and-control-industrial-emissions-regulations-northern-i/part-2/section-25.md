@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Fees and charges in relation to permits[^key-ca096be28003aedc9c71292ff3049d41]
+## 25. Fees and charges in relation to permits[^c-ca096be28003aedc9c71292ff3049d41]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca096be28003aedc9c71292ff3049d41]: Commencement: Reg. 25 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-ca096be28003aedc9c71292ff3049d41]: Commencement: Reg. 25 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — Temporary national measures[^key-31b6e071e194f2fdbbe8286eb3995014]
+## SCHEDULE 1 — Temporary national measures[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 *Extent: S*
 
@@ -24,82 +24,82 @@ summary: ''
 
 Regulation 18
 
-### PART 1 — Introduction[^key-31b6e071e194f2fdbbe8286eb3995014]
+### PART 1 — Introduction[^c-31b6e071e194f2fdbbe8286eb3995014]
 
-#### 1. Interpretation[^key-31b6e071e194f2fdbbe8286eb3995014]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 2 — Plants, plant products or other objects from third countries[^key-31b6e071e194f2fdbbe8286eb3995014]
-
-#### 2. Temporary measures in relation to Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr[^key-31b6e071e194f2fdbbe8286eb3995014]
+#### 1. Interpretation[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2A. Temporary measures in relation to Candidatus Phytoplasma ulmi[^key-31b6e071e194f2fdbbe8286eb3995014]
+### PART 2 — Plants, plant products or other objects from third countries[^c-31b6e071e194f2fdbbe8286eb3995014]
+
+#### 2. Temporary measures in relation to Ceratocystis platani (J.M. Walter) Engelbr. & T.C. Harr[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2B. Temporary measures in relation to Agrilus planipennis Fairmaire[^key-31b6e071e194f2fdbbe8286eb3995014]
+#### 2A. Temporary measures in relation to Candidatus Phytoplasma ulmi[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2C. Exception for controlled material in transit[^key-31b6e071e194f2fdbbe8286eb3995014]
+#### 2B. Temporary measures in relation to Agrilus planipennis Fairmaire[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Plants, plant products or other objects from another part of the Union territory[^key-31b6e071e194f2fdbbe8286eb3995014]
-
-#### 3. Temporary measures applying to the introduction of plants, plant products or other objects from another part of the Union territory[^key-31b6e071e194f2fdbbe8286eb3995014]
+#### 2C. Exception for controlled material in transit[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-31b6e071e194f2fdbbe8286eb3995014] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART 3 — Plants, plant products or other objects from another part of the Union territory[^c-31b6e071e194f2fdbbe8286eb3995014]
 
-### PART 4 — Official controls on consignments from third countries[^key-31b6e071e194f2fdbbe8286eb3995014]
-
-**5.**[^key-31b6e071e194f2fdbbe8286eb3995014] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 6. Application of this Part[^key-31b6e071e194f2fdbbe8286eb3995014]
+#### 3. Temporary measures applying to the introduction of plants, plant products or other objects from another part of the Union territory[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Notification and presentation of schedule 1 consignments[^key-31b6e071e194f2fdbbe8286eb3995014]
+**4.**[^c-31b6e071e194f2fdbbe8286eb3995014] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 4 — Official controls on consignments from third countries[^c-31b6e071e194f2fdbbe8286eb3995014]
+
+**5.**[^c-31b6e071e194f2fdbbe8286eb3995014] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Application of this Part[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Consignments not correctly presented for official controls[^key-31b6e071e194f2fdbbe8286eb3995014]
+#### 7. Notification and presentation of schedule 1 consignments[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Official controls to be performed on schedule 1 consignments[^key-31b6e071e194f2fdbbe8286eb3995014]
+#### 8. Consignments not correctly presented for official controls[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Completion of official controls[^key-31b6e071e194f2fdbbe8286eb3995014]
+#### 9. Official controls to be performed on schedule 1 consignments[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Removal of schedule 1 consignments from border control posts of arrival[^key-31b6e071e194f2fdbbe8286eb3995014]
+#### 10. Completion of official controls[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Measures to be taken on non-compliant schedule 1 consignments[^key-31b6e071e194f2fdbbe8286eb3995014]
+#### 11. Removal of schedule 1 consignments from border control posts of arrival[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Measures to be taken on schedule 1 consignments[^key-31b6e071e194f2fdbbe8286eb3995014]
+#### 12. Measures to be taken on non-compliant schedule 1 consignments[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Notification of decisions to refuse the entry of a schedule 1 consignment into Scotland[^key-31b6e071e194f2fdbbe8286eb3995014]
+#### 13. Measures to be taken on schedule 1 consignments[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Notices under this Part[^key-31b6e071e194f2fdbbe8286eb3995014]
+#### 14. Notification of decisions to refuse the entry of a schedule 1 consignment into Scotland[^c-31b6e071e194f2fdbbe8286eb3995014]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 15. Notices under this Part[^c-31b6e071e194f2fdbbe8286eb3995014]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-31b6e071e194f2fdbbe8286eb3995014]: Textual amendment: Sch. 1 omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [21](https://www.legislation.gov.uk/ssi/2020/466/regulation/21) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-31b6e071e194f2fdbbe8286eb3995014]: Textual amendment: Sch. 1 omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [21](https://www.legislation.gov.uk/ssi/2020/466/regulation/21) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Calculating the fee for supply of marked registers or lists[^key-af8f43b7c7d8493f103f1640ea313879][^key-fe41efd54a441488935196f73ce804b2][^key-6fa6be4b43d614c6af6357eba210d7eb]
+## 120. Calculating the fee for supply of marked registers or lists[^c-af8f43b7c7d8493f103f1640ea313879][^c-fe41efd54a441488935196f73ce804b2][^c-6fa6be4b43d614c6af6357eba210d7eb]
 
 *Extent: E+W*
 
@@ -31,8 +31,8 @@ summary: ''
 
 ## Annotations
 
-[^key-af8f43b7c7d8493f103f1640ea313879]: Modification: Regs. 116-120 applied (with modifications) (16.12.2010) by [The National Assembly for Wales Referendum (Assembly Act Provisions) (Referendum Question, Date of Referendum Etc.) Order 2010 (S.I. 2010/2837)](https://www.legislation.gov.uk/uksi/2010/2837), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2010/2837/schedule/5/paragraph/1) Table
+[^c-af8f43b7c7d8493f103f1640ea313879]: Modification: Regs. 116-120 applied (with modifications) (16.12.2010) by [The National Assembly for Wales Referendum (Assembly Act Provisions) (Referendum Question, Date of Referendum Etc.) Order 2010 (S.I. 2010/2837)](https://www.legislation.gov.uk/uksi/2010/2837), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2010/2837/schedule/5/paragraph/1) Table
 
-[^key-fe41efd54a441488935196f73ce804b2]: Modification: [Reg. 120](https://www.legislation.gov.uk/uksi/2001/341/regulation/120) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(i)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/i)
+[^c-fe41efd54a441488935196f73ce804b2]: Modification: [Reg. 120](https://www.legislation.gov.uk/uksi/2001/341/regulation/120) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(i)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/i)
 
-[^key-6fa6be4b43d614c6af6357eba210d7eb]: Textual amendment: [Reg. 120](https://www.legislation.gov.uk/uksi/2001/341/regulation/120) substituted (18.7.2008) by [The Representation of the People (Amendment) Regulations 2008 (S.I. 2008/1901)](https://www.legislation.gov.uk/uksi/2008/1901), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1901/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2008/1901/regulation/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2008/1901/regulation/2))
+[^c-6fa6be4b43d614c6af6357eba210d7eb]: Textual amendment: [Reg. 120](https://www.legislation.gov.uk/uksi/2001/341/regulation/120) substituted (18.7.2008) by [The Representation of the People (Amendment) Regulations 2008 (S.I. 2008/1901)](https://www.legislation.gov.uk/uksi/2008/1901), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/1901/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2008/1901/regulation/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2008/1901/regulation/2))

@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Liabilities to Third Parties Scheme) (Amendment) Regulations 2014 (revoked)[^key-88268ffcdd4865c1617301701c090384]
+The National Health Service (Liabilities to Third Parties Scheme) (Amendment) Regulations 2014 (revoked)[^c-88268ffcdd4865c1617301701c090384]
 
 Made
 
@@ -46,40 +46,40 @@ Coming into force
 
 1st May 2014
 
-[^key-88268ffcdd4865c1617301701c090384]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88268ffcdd4865c1617301701c090384]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-88268ffcdd4865c1617301701c090384]
+## 1. Citation, commencement, application and interpretation[^c-88268ffcdd4865c1617301701c090384]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 1 of the Principal Regulations[^key-88268ffcdd4865c1617301701c090384]
+## 2. Amendment of regulation 1 of the Principal Regulations[^c-88268ffcdd4865c1617301701c090384]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 4 of the Principal Regulations[^key-88268ffcdd4865c1617301701c090384]
+## 3. Amendment of regulation 4 of the Principal Regulations[^c-88268ffcdd4865c1617301701c090384]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 7 of the Principal Regulations[^key-88268ffcdd4865c1617301701c090384]
+## 4. Amendment of regulation 7 of the Principal Regulations[^c-88268ffcdd4865c1617301701c090384]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 8 of the Principal Regulations[^key-88268ffcdd4865c1617301701c090384]
+## 5. Amendment of regulation 8 of the Principal Regulations[^c-88268ffcdd4865c1617301701c090384]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 9 of the Principal Regulations[^key-88268ffcdd4865c1617301701c090384]
+## 6. Amendment of regulation 9 of the Principal Regulations[^c-88268ffcdd4865c1617301701c090384]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88268ffcdd4865c1617301701c090384]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88268ffcdd4865c1617301701c090384]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-88268ffcdd4865c1617301701c090384]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88268ffcdd4865c1617301701c090384]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-88268ffcdd4865c1617301701c090384]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/931) revoked (1.8.2018) by [The National Health Service (Liabilities to Third Parties Scheme) (England) Regulations 2018 (S.I. 2018/756)](https://www.legislation.gov.uk/uksi/2018/756), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/756/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/756/schedule) (with [reg. 20](https://www.legislation.gov.uk/uksi/2018/756/regulation/20))
+[^c-88268ffcdd4865c1617301701c090384]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/931) revoked (1.8.2018) by [The National Health Service (Liabilities to Third Parties Scheme) (England) Regulations 2018 (S.I. 2018/756)](https://www.legislation.gov.uk/uksi/2018/756), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/756/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/756/schedule) (with [reg. 20](https://www.legislation.gov.uk/uksi/2018/756/regulation/20))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Commission Decision [2006/146/EC](https://www.legislation.gov.uk/european/decision/2006/0146) on certain protection measures with regard to certain fruit bats, dogs and cats coming from Malaysia (Peninsula) and Australia[^key-76e57af8b7aa4aeea3185fb04aa10f89]
+## 45. Commission Decision [2006/146/EC](https://www.legislation.gov.uk/european/decision/2006/0146) on certain protection measures with regard to certain fruit bats, dogs and cats coming from Malaysia (Peninsula) and Australia[^c-76e57af8b7aa4aeea3185fb04aa10f89]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76e57af8b7aa4aeea3185fb04aa10f89]: Commencement: Reg. 45 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-76e57af8b7aa4aeea3185fb04aa10f89]: Commencement: Reg. 45 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Revocation, suspension and variation of permissions, etc. granted under article 135 or article 137[^key-80701c87c74fd956c0e458d62e6b9334]
+## 12. Revocation, suspension and variation of permissions, etc. granted under article 135 or article 137[^c-80701c87c74fd956c0e458d62e6b9334]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-80701c87c74fd956c0e458d62e6b9334]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2013/2870/article/12) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-80701c87c74fd956c0e458d62e6b9334]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2013/2870/article/12) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
 [^f00010]: Footnote: [1982 c.16](https://www.legislation.gov.uk/ukpga/1982/16).

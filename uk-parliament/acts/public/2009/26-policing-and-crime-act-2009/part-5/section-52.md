@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Power to retain seized property: England and Wales[^key-05769c14973eabe45c78ef3aad2d920e]
+## 52. Power to retain seized property: England and Wales[^c-05769c14973eabe45c78ef3aad2d920e]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05769c14973eabe45c78ef3aad2d920e]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2009/26/section/52) in force at 1.6.2015 by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-05769c14973eabe45c78ef3aad2d920e]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2009/26/section/52) in force at 1.6.2015 by [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)

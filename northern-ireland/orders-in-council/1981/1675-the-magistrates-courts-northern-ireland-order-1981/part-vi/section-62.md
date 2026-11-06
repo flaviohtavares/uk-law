@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Debt proceedings[^key-1061c21e265c5fbc229ad9d57b1650e7]
+## 62. Debt proceedings[^c-1061c21e265c5fbc229ad9d57b1650e7]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1061c21e265c5fbc229ad9d57b1650e7]: Modification: [Art. 62](https://www.legislation.gov.uk/nisi/1981/1675/article/62) applied (2.1.2013) by [The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012 (S.I. 2012/3032)](https://www.legislation.gov.uk/uksi/2012/3032), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3032/regulation/1), [Sch. 3 para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2012/3032/schedule/3/paragraph/5/3/b) (with [regs. 5](https://www.legislation.gov.uk/uksi/2012/3032/regulation/5), [8](https://www.legislation.gov.uk/uksi/2012/3032/regulation/8))
+[^c-1061c21e265c5fbc229ad9d57b1650e7]: Modification: [Art. 62](https://www.legislation.gov.uk/nisi/1981/1675/article/62) applied (2.1.2013) by [The Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment Regulations 2012 (S.I. 2012/3032)](https://www.legislation.gov.uk/uksi/2012/3032), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3032/regulation/1), [Sch. 3 para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2012/3032/schedule/3/paragraph/5/3/b) (with [regs. 5](https://www.legislation.gov.uk/uksi/2012/3032/regulation/5), [8](https://www.legislation.gov.uk/uksi/2012/3032/regulation/8))

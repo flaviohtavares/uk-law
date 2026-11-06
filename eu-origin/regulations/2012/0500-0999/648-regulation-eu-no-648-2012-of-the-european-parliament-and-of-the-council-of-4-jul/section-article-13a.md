@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 13a. Conditions for making technical standards[^key-9f014b8e3e399948ec6228a24d84e60f]
+## Article 13a. Conditions for making technical standards[^c-9f014b8e3e399948ec6228a24d84e60f]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ with a view to ensuring that the technical standards made under each of those pr
 
 ## Annotations
 
-[^key-9f014b8e3e399948ec6228a24d84e60f]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/eur/2012/648/article/13)a inserted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2019/335/regulation/24) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f014b8e3e399948ec6228a24d84e60f]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/eur/2012/648/article/13)a inserted (31.12.2020) by [The Over the Counter Derivatives, Central Counterparties and Trade Repositories (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/335)](https://www.legislation.gov.uk/uksi/2019/335), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/335/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2019/335/regulation/24) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

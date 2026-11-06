@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — THE SCOTTISH COURTS AND TRIBUNALS SERVICE[^key-7fc064e64ce2ab2fd4f9238afcd19644]
+## SCHEDULE 3 — THE SCOTTISH COURTS AND TRIBUNALS SERVICE[^c-7fc064e64ce2ab2fd4f9238afcd19644]
 
 *Extent: S*
 
 (introduced by section 60(2))
 
-### Status of SCTS[^key-96dd6eeaca12e04981eaa23b0b5c378e]
+### Status of SCTS[^c-96dd6eeaca12e04981eaa23b0b5c378e]
 
 **Not yet in force.**
 
-**1.**[^key-7a4740669fa76c6b82e0df28a60b6bb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7a4740669fa76c6b82e0df28a60b6bb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Membership
 
@@ -36,11 +36,11 @@ summary: ''
 
 - (a) the Lord President,
 - (b) the Lord Justice Clerk,
-- (c)[^key-5e490560f27c46da043de5234a113a95] the President of the Scottish Tribunals,
+- (c)[^c-5e490560f27c46da043de5234a113a95] the President of the Scottish Tribunals,
 - (d) one person holding the office of sheriff principal,
-- (e) two persons, each holding either the office of sheriff or of summary sheriff[^key-ca8a327d66305c1924d13f0140ca6422], [^key-0000c2ce939e50aaed3dbfce24f57701]...
-- (f) one person holding the office of justice of the peace , and[^key-356afd865e8c8300a291835aec91400a]
-- (g)[^key-3a3081d88851aa71dfe172b5825398c1] one person holding the position of Chamber President in the First-tier Tribunal for Scotland.
+- (e) two persons, each holding either the office of sheriff or of summary sheriff[^c-ca8a327d66305c1924d13f0140ca6422], [^c-0000c2ce939e50aaed3dbfce24f57701]...
+- (f) one person holding the office of justice of the peace , and[^c-356afd865e8c8300a291835aec91400a]
+- (g)[^c-3a3081d88851aa71dfe172b5825398c1] one person holding the position of Chamber President in the First-tier Tribunal for Scotland.
 
 (3) The non-judicial members comprise—
 
@@ -55,11 +55,11 @@ summary: ''
 
 (6) The Scottish Ministers must not make an order under sub-paragraph (5) if its effect would be that the total number of judicial members would no longer exceed the total number of non-judicial members.
 
-(7)[^key-318df2070b5195f9182803ae03ae4e61] In this schedule, references to the position of Chamber President in the First-tier Tribunal for Scotland are to be construed in accordance with the Tribunals (Scotland) Act 2014.
+(7)[^c-318df2070b5195f9182803ae03ae4e61] In this schedule, references to the position of Chamber President in the First-tier Tribunal for Scotland are to be construed in accordance with the Tribunals (Scotland) Act 2014.
 
 ### Procedure for appointment of members
 
-**3.**[^c2077129] (1) It is for the Lord President to appoint the members of the SCTS (other than the Lord Justice Clerk , the President of the Scottish Tribunals[^key-4f50c8a105832d4a0f50abad3d201588] and the Chief Executive).
+**3.**[^c2077129] (1) It is for the Lord President to appoint the members of the SCTS (other than the Lord Justice Clerk , the President of the Scottish Tribunals[^c-4f50c8a105832d4a0f50abad3d201588] and the Chief Executive).
 
 (2) The Lord President may appoint a person to be a member only if the person has been nominated, or otherwise selected for appointment, in accordance with such procedure as the Scottish Ministers may by regulations prescribe.
 
@@ -149,7 +149,7 @@ such sums as it may determine by way of reimbursement of expenses in respect of 
 (2) The SCTS may pay to—
 
 - (a) the judicial member who is a justice of the peace,
-- (aa)[^key-8d56c873fed98529e10137d44985a6ca][^key-46af8bbb3c515dfe376d976145eff603] the judicial member who holds the position of Chamber President in the First-tier Tribunal for Scotland (unless that member receives a salary in respect of that position),
+- (aa)[^c-8d56c873fed98529e10137d44985a6ca][^c-46af8bbb3c515dfe376d976145eff603] the judicial member who holds the position of Chamber President in the First-tier Tribunal for Scotland (unless that member receives a salary in respect of that position),
 - (b) the non-judicial members, and
 - (c) the members of any committee established by it,
 
@@ -163,7 +163,7 @@ such other remuneration, if any, as it may determine.
 
 ### Ancillary powers
 
-**15.**[^key-abaa2fbab9856e600d2b2942f00bddd6] (1) The SCTS may do anything which it considers necessary or expedient for the purposes of or in connection with its functions.
+**15.**[^c-abaa2fbab9856e600d2b2942f00bddd6] (1) The SCTS may do anything which it considers necessary or expedient for the purposes of or in connection with its functions.
 
 (2) In particular, the SCTS may—
 
@@ -173,7 +173,7 @@ such other remuneration, if any, as it may determine.
 
 ### Power to use local authority premises
 
-**16.**[^key-b67626ae99da50f52332d34359cb210f] (1) The SCTS may, where it considers it necessary for the purposes of carrying out its functions under section 61 or 62, require a local authority to—
+**16.**[^c-b67626ae99da50f52332d34359cb210f] (1) The SCTS may, where it considers it necessary for the purposes of carrying out its functions under section 61 or 62, require a local authority to—
 
 - (a) let (or sub-let) premises controlled by the local authority to the SCTS, or
 - (b) make such premises available for use for the purposes of the SCTS.
@@ -200,7 +200,7 @@ such other remuneration, if any, as it may determine.
 
 ### Delegation
 
-**17.**[^key-e95924005dd590f04e65c52cb9f96067] (1) Any function of the SCTS may be carried out on its behalf by—
+**17.**[^c-e95924005dd590f04e65c52cb9f96067] (1) Any function of the SCTS may be carried out on its behalf by—
 
 - (a) a member of the SCTS,
 - (b) a committee,
@@ -221,7 +221,7 @@ authorised (whether specifically or generally) by it for the purpose.
 
 ### Transfer of staff
 
-**19.**[^key-5ae47c773512b38ba585c4ed0bf90cc5] (1) Sub-paragraph (2) applies to persons who, on the coming into force of this paragraph—
+**19.**[^c-5ae47c773512b38ba585c4ed0bf90cc5] (1) Sub-paragraph (2) applies to persons who, on the coming into force of this paragraph—
 
 - (a) hold any of the offices mentioned in section 63(2), or
 - (b) are members of the staff of the Scottish Ministers employed in the Executive Agency of the Scottish Ministers known as the Scottish Court Service Agency (referred to in this paragraph as “**the Agency**”), other than excepted staff.
@@ -262,7 +262,7 @@ is conclusive of that fact for the purposes of this paragraph.
 
 - (a) property of the Scottish Ministers which is held or used by them for or in connection with—
   - (i) the purposes of the Scottish courts or the judiciary of those courts,
-  - (ia)[^key-2529bd9b9eaf2e29870212383a450ae5] the purposes of tribunals or the members of tribunals,
+  - (ia)[^c-2529bd9b9eaf2e29870212383a450ae5] the purposes of tribunals or the members of tribunals,
   - (ii) the purposes referred to in section 62(1), and
 - (b) liabilities of the Scottish Ministers incurred in connection with those purposes.
 
@@ -297,38 +297,38 @@ is conclusive of that fact for the purposes of this paragraph.
 
 ## Annotations
 
-[^key-7fc064e64ce2ab2fd4f9238afcd19644]: Textual amendment: Sch. 3 title substituted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(12)(c)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/12/c); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-7fc064e64ce2ab2fd4f9238afcd19644]: Textual amendment: Sch. 3 title substituted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(12)(c)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/12/c); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-96dd6eeaca12e04981eaa23b0b5c378e]: Textual amendment: Word in Act substituted (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/2); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-96dd6eeaca12e04981eaa23b0b5c378e]: Textual amendment: Word in Act substituted (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/2); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-7a4740669fa76c6b82e0df28a60b6bb6]: Textual amendment: Sch. 3 para. 1 repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(7)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/7); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-7a4740669fa76c6b82e0df28a60b6bb6]: Textual amendment: Sch. 3 para. 1 repealed (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(7)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/7); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-5e490560f27c46da043de5234a113a95]: Textual amendment: Sch. 3 para. 2(2)(c) substituted (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(8)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/8/a); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-5e490560f27c46da043de5234a113a95]: Textual amendment: Sch. 3 para. 2(2)(c) substituted (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(8)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/8/a); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-ca8a327d66305c1924d13f0140ca6422]: Textual amendment: Words in sch. 3 para. 2(2)(e) substituted (27.4.2020) by [The Scottish Courts and Tribunals Service (Judicial Members) Amendment Order 2020 (S.S.I. 2020/111)](https://www.legislation.gov.uk/ssi/2020/111), [arts. 1](https://www.legislation.gov.uk/ssi/2020/111/article/1), [2](https://www.legislation.gov.uk/ssi/2020/111/article/2)
+[^c-ca8a327d66305c1924d13f0140ca6422]: Textual amendment: Words in sch. 3 para. 2(2)(e) substituted (27.4.2020) by [The Scottish Courts and Tribunals Service (Judicial Members) Amendment Order 2020 (S.S.I. 2020/111)](https://www.legislation.gov.uk/ssi/2020/111), [arts. 1](https://www.legislation.gov.uk/ssi/2020/111/article/1), [2](https://www.legislation.gov.uk/ssi/2020/111/article/2)
 
-[^key-0000c2ce939e50aaed3dbfce24f57701]: Textual amendment: Word in Sch. 3 para. 2(2) repealed (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(8)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/8/b); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-0000c2ce939e50aaed3dbfce24f57701]: Textual amendment: Word in Sch. 3 para. 2(2) repealed (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(8)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/8/b); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-356afd865e8c8300a291835aec91400a]: Textual amendment: Sch. 3 para. 2(2)(g) inserted (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(8)(c)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/8/c); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-356afd865e8c8300a291835aec91400a]: Textual amendment: Sch. 3 para. 2(2)(g) inserted (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(8)(c)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/8/c); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-3a3081d88851aa71dfe172b5825398c1]: Modification: Sch. 3 para. 2(2)(g) applied (with modifications) (temp.) (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/3/3); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-3a3081d88851aa71dfe172b5825398c1]: Modification: Sch. 3 para. 2(2)(g) applied (with modifications) (temp.) (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/3/3); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-318df2070b5195f9182803ae03ae4e61]: Textual amendment: Sch. 3 para. 2(7) inserted (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(8)(d)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/8/d); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-318df2070b5195f9182803ae03ae4e61]: Textual amendment: Sch. 3 para. 2(7) inserted (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(8)(d)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/8/d); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
 [^c2077129]: Commencement: Sch. 3 para. 3 wholly in force at 1.6.2009; Sch. 3 para. 3 not in force at Royal Assent see s. 76; Sch. 3 para. 3(2)(3)(4) in force at 16.3.2009 by [S.S.I. 2009/83](https://www.legislation.gov.uk/ssi/2009/83), [art. 2](https://www.legislation.gov.uk/ssi/2009/83/article/2); Sch. 3 para. 3(1) in force at 1.6.2009 by [S.S.I. 2009/192](https://www.legislation.gov.uk/ssi/2009/192), [art. 2](https://www.legislation.gov.uk/ssi/2009/192/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/192/schedule)
 
-[^key-4f50c8a105832d4a0f50abad3d201588]: Textual amendment: Words in Sch. 3 para. 3(1) inserted (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(9)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/9); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-4f50c8a105832d4a0f50abad3d201588]: Textual amendment: Words in Sch. 3 para. 3(1) inserted (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(9)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/9); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-8d56c873fed98529e10137d44985a6ca]: Modification: Sch. 3 para. 13(2)(aa) modified (temp.) (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/3/3); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-8d56c873fed98529e10137d44985a6ca]: Modification: Sch. 3 para. 13(2)(aa) modified (temp.) (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/3/3); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-46af8bbb3c515dfe376d976145eff603]: Textual amendment: Sch. 3 para. 13(2)(aa) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(10)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/10); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-46af8bbb3c515dfe376d976145eff603]: Textual amendment: Sch. 3 para. 13(2)(aa) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(10)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/10); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-abaa2fbab9856e600d2b2942f00bddd6]: Commencement: Sch. 3 para. 15 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
+[^c-abaa2fbab9856e600d2b2942f00bddd6]: Commencement: Sch. 3 para. 15 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
 
-[^key-b67626ae99da50f52332d34359cb210f]: Commencement: Sch. 3 para. 16 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
+[^c-b67626ae99da50f52332d34359cb210f]: Commencement: Sch. 3 para. 16 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
 
-[^key-e95924005dd590f04e65c52cb9f96067]: Commencement: Sch. 3 para. 17 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
+[^c-e95924005dd590f04e65c52cb9f96067]: Commencement: Sch. 3 para. 17 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
 
-[^key-5ae47c773512b38ba585c4ed0bf90cc5]: Commencement: Sch. 3 para. 19 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
+[^c-5ae47c773512b38ba585c4ed0bf90cc5]: Commencement: Sch. 3 para. 19 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
 
-[^key-2529bd9b9eaf2e29870212383a450ae5]: Textual amendment: Sch. 3 para. 20(2)(a)(ia) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(11)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/11); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-2529bd9b9eaf2e29870212383a450ae5]: Textual amendment: Sch. 3 para. 20(2)(a)(ia) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(11)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/11); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

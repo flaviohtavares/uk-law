@@ -66,7 +66,7 @@ A draft of this instrument has been laid before and approved by a resolution of 
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement, extent and application[^key-bb4cb4077550920259b23521b52d8e97]
+### 1. Citation, commencement, extent and application[^c-bb4cb4077550920259b23521b52d8e97]
 
 (1) These Regulations may be cited as the Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 and come into force on exit day.
 
@@ -76,11 +76,11 @@ A draft of this instrument has been laid before and approved by a resolution of 
 
 ## PART 2 — Amendment of primary legislation
 
-### 2. Water Act 1989[^key-ee74fe2ef212be850759902b875ba18d]
+### 2. Water Act 1989[^c-ee74fe2ef212be850759902b875ba18d]
 
 In section 174(2)(k) of the Water Act 1989 [^c23668051], for “an EU obligation” substitute “ a retained EU obligation ”.
 
-### 3. Water Industry Act 1991[^key-a60407dedff4f8bdd4af44d45f7a7c4d]
+### 3. Water Industry Act 1991[^c-a60407dedff4f8bdd4af44d45f7a7c4d]
 
 (1) The Water Industry Act 1991 [^c23668061] is amended as follows.
 
@@ -104,7 +104,7 @@ In section 174(2)(k) of the Water Act 1989 [^c23668051], for “an EU obligation
 
 (6) In section 206(3)(k) [^c23668111], for “an EU obligation” substitute “ a retained EU obligation ”.
 
-### 4. Water Resources Act 1991[^key-dbc70f944c63c638f0124affbbc0cc4a]
+### 4. Water Resources Act 1991[^c-dbc70f944c63c638f0124affbbc0cc4a]
 
 (1) The Water Resources Act 1991 [^c23668121] is amended as follows.
 
@@ -165,13 +165,13 @@ In section 174(2)(k) of the Water Act 1989 [^c23668051], for “an EU obligation
 
 (7) In section 204(2)(k) [^c23668191], for “an EU obligation” substitute “ a retained EU obligation ”.
 
-### 5. Water Act 2014[^key-2d9139c103736e64ed6c14d09e2858ac]
+### 5. Water Act 2014[^c-2d9139c103736e64ed6c14d09e2858ac]
 
 In paragraph 5(b) of Schedule 8 to the Water Act 2014 [^c23668201], for the words from “obligations” to “treaties” substitute “ retained EU obligations ”.
 
 ## PART 3 — Amendment of secondary legislation
 
-### 6. The Sludge (Use in Agriculture) Regulations 1989[^key-1c3eb9fc1fd6ceef8914a98c60b5f42e]
+### 6. The Sludge (Use in Agriculture) Regulations 1989[^c-1c3eb9fc1fd6ceef8914a98c60b5f42e]
 
 *Extent: E+W+N.I.*
 
@@ -194,7 +194,7 @@ After regulation 11 of the Sludge (Use in Agriculture) Regulations 1989 [^c23668
 
 .
 
-### 7. The Urban Waste Water Treatment (England and Wales) Regulations 1994[^key-032deea8ac4457a7431ecdd26cc0f49a]
+### 7. The Urban Waste Water Treatment (England and Wales) Regulations 1994[^c-032deea8ac4457a7431ecdd26cc0f49a]
 
 (1) The Urban Waste Water Treatment (England and Wales) Regulations 1994 [^c23668221] are amended as follows.
 
@@ -245,7 +245,7 @@ After regulation 11 of the Sludge (Use in Agriculture) Regulations 1989 [^c23668
 
 (7) In Schedule 4, for “other Community Directives” substitute “ retained EU law ”.
 
-### 8. The Water Supply (Water Fittings) Regulations 1999[^key-fde5e1467fc9ecfedbf456a1d0be3240]
+### 8. The Water Supply (Water Fittings) Regulations 1999[^c-fde5e1467fc9ecfedbf456a1d0be3240]
 
 (1) The Water Supply (Water Fittings) Regulations 1999 [^c23668231] are amended as follows.
 
@@ -259,11 +259,11 @@ After regulation 11 of the Sludge (Use in Agriculture) Regulations 1989 [^c23668
   - (i) omit the words from “, a European” to “paragraph (2)(a)”;
   - (ii) omit “of an EEA State”.
 
-### 9. The Drinking Water (Undertakings) (England and Wales) Regulations 2000[^key-460ae38995aee5c4a43f7bc7a16caf4e]
+### 9. The Drinking Water (Undertakings) (England and Wales) Regulations 2000[^c-460ae38995aee5c4a43f7bc7a16caf4e]
 
 In regulation 2 of the Drinking Water (Undertakings) (England and Wales) Regulations 2000 [^c23668241], for “implements” substitute “ implemented ”.
 
-### 10. The Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003[^key-88c18f87ad13a47bf3d7f90f4cdb4fbe]
+### 10. The Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003[^c-88c18f87ad13a47bf3d7f90f4cdb4fbe]
 
 (1) The Water Environment (Water Framework Directive) (Northumbria River Basin District) Regulations 2003 [^c23668251] are amended as follows.
 
@@ -288,7 +288,7 @@ In regulation 2 of the Drinking Water (Undertakings) (England and Wales) Regulat
 
   .
 
-### 11. The Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004[^key-cba070b2d75fcf45f62d4b35610f8f68]
+### 11. The Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004[^c-cba070b2d75fcf45f62d4b35610f8f68]
 
 (1) The Water Environment (Water Framework Directive) (Solway Tweed River Basin District) Regulations 2004 [^c23668271] are amended as follows.
 
@@ -493,15 +493,15 @@ In regulation 2 of the Drinking Water (Undertakings) (England and Wales) Regulat
 
 .
 
-### 12. The Water Industry (Special Administration) Rules 2009[^key-9fa43a3a7634a774449e3d37c69af2de]
+### 12. The Water Industry (Special Administration) Rules 2009[^c-9fa43a3a7634a774449e3d37c69af2de]
 
 In rule 123 of the Water Industry (Special Administration) Rules 2009 [^c23668341], omit paragraph (2).
 
-### 13. The Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) Regulations 2010[^key-2f6575b65c6a30c012bcf9c2cba42956]
+### 13. The Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) Regulations 2010[^c-2f6575b65c6a30c012bcf9c2cba42956]
 
 In regulation 2(3) of the Water Resources (Control of Pollution) (Silage, Slurry and Agricultural Fuel Oil) (England) Regulations 2010 [^c23668351], omit the words from “and is recognised” to the end.
 
-### 14. The Incidental Flooding and Coastal Erosion (England) Order 2011[^key-a88f3a498639346287920f92d7b39aed]
+### 14. The Incidental Flooding and Coastal Erosion (England) Order 2011[^c-a88f3a498639346287920f92d7b39aed]
 
 In article 3 of the Incidental Flooding and Coastal Erosion (England) Order 2011 [^c23668361]—
 
@@ -520,7 +520,7 @@ In article 3 of the Incidental Flooding and Coastal Erosion (England) Order 2011
 
   .
 
-### 15. The Bathing Water Regulations 2013[^key-6153438fea85b9e3a6f10049325d9791]
+### 15. The Bathing Water Regulations 2013[^c-6153438fea85b9e3a6f10049325d9791]
 
 (1) The Bathing Water Regulations 2013 [^c23668381] are amended as follows.
 
@@ -581,7 +581,7 @@ In article 3 of the Incidental Flooding and Coastal Erosion (England) Order 2011
 
 (7) In regulation 17, for “the Bathing Water Directive” substitute “ these Regulations ”.
 
-### 16. The Nitrate Pollution Prevention Regulations 2015[^key-3a507d757b7a71638fef9969eb94241d]
+### 16. The Nitrate Pollution Prevention Regulations 2015[^c-3a507d757b7a71638fef9969eb94241d]
 
 (1) The Nitrate Pollution Prevention Regulations 2015 [^c23668411] are amended as follows.
 
@@ -649,11 +649,11 @@ In article 3 of the Incidental Flooding and Coastal Erosion (England) Order 2011
 
 .
 
-### 17. The Flood Reinsurance (Scheme Funding and Administration) Regulations 2015[^key-71fec453cab9704cf162b883a70c809c]
+### 17. The Flood Reinsurance (Scheme Funding and Administration) Regulations 2015[^c-71fec453cab9704cf162b883a70c809c]
 
 In regulation 11(1)(a)(i) of the Flood Reinsurance (Scheme Funding and Administration) Regulations 2015 [^c23668451], for “directly applicable” substitute “ retained direct ”.
 
-### 18. The Water Supply (Water Quality) Regulations 2016[^key-551cf5afe37add517f2e6088f9290e2f]
+### 18. The Water Supply (Water Quality) Regulations 2016[^c-551cf5afe37add517f2e6088f9290e2f]
 
 (1) The Water Supply (Water Quality) Regulations 2016 are amended as follows.
 
@@ -710,7 +710,7 @@ In regulation 11(1)(a)(i) of the Flood Reinsurance (Scheme Funding and Administr
 
 .
 
-### 19. The Private Water Supplies (England) Regulations 2016[^key-f5e5fd8e6b778aa2161f0c43ec673a95]
+### 19. The Private Water Supplies (England) Regulations 2016[^c-f5e5fd8e6b778aa2161f0c43ec673a95]
 
 (1) The Private Water Supplies (England) Regulations 2016 are amended as follows.
 
@@ -754,7 +754,7 @@ In regulation 11(1)(a)(i) of the Flood Reinsurance (Scheme Funding and Administr
 
 .
 
-### 20. The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017[^key-e6c1b10db55b2bed8fb924ca3cf7b342]
+### 20. The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017[^c-e6c1b10db55b2bed8fb924ca3cf7b342]
 
 (1) The Water Environment (Water Framework Directive) (England and Wales) Regulations 2017 are amended as follows.
 
@@ -972,18 +972,18 @@ In regulation 11(1)(a)(i) of the Flood Reinsurance (Scheme Funding and Administr
 
 .
 
-### 21. The Water Abstraction and Impounding (Exemptions) Regulations 2017[^key-69cabac1c97141c3c5821ba50032e135]
+### 21. The Water Abstraction and Impounding (Exemptions) Regulations 2017[^c-69cabac1c97141c3c5821ba50032e135]
 
 [^c23668471]In regulation 2 of the Water Abstraction and Impounding (Exemptions) Regulations 2017 , in the definition of “conservation site”—
 
-- (a)[^key-0de756a5b910f4e7e941bea2aba64f3a] for paragraph (a) substitute—
+- (a)[^c-0de756a5b910f4e7e941bea2aba64f3a] for paragraph (a) substitute—
 
   > - (a) a European site within the meaning of regulation 8(1)(e) of the 2017 Regulations;
 
   ;
-- (b) in paragraph (b) for[^key-0bb7c0364f2359079d66af963076621b] “ regulation 13 ” substitute “regulation 12” .
+- (b) in paragraph (b) for[^c-0bb7c0364f2359079d66af963076621b] “ regulation 13 ” substitute “regulation 12” .
 
-### 22. The Water Abstraction (Transitional Provisions) Regulations 2017[^key-082529367a680d2796f96ecd4ba7f4d0]
+### 22. The Water Abstraction (Transitional Provisions) Regulations 2017[^c-082529367a680d2796f96ecd4ba7f4d0]
 
 In regulation 9 of the Water Abstraction (Transitional Provisions) Regulations 2017 [^c23668481]—
 
@@ -1015,11 +1015,11 @@ In regulation 9 of the Water Abstraction (Transitional Provisions) Regulations 2
 
 ## PART 4 — Amendment and revocation of EU decisions
 
-### 23. Commission Implementing Decision 2011/321/EU[^key-a2fe81d437ebd0b468643215c66a2a13]
+### 23. Commission Implementing Decision 2011/321/EU[^c-a2fe81d437ebd0b468643215c66a2a13]
 
 In Commission Implementing Decision 2011/321/EU establishing, pursuant to Directive [2006/7/EC](https://www.legislation.gov.uk/eudr/2006/7) of the European Parliament and of the Council, a symbol for information to the public on bathing water classification and any bathing prohibition or advice against bathing, omit Article 2.
 
-### 24. Commission Decision (EU) 2017/1583[^key-068e7cd140bf034469eed5ad20c8b263]
+### 24. Commission Decision (EU) 2017/1583[^c-068e7cd140bf034469eed5ad20c8b263]
 
 (1) Commission Decision (EU) 2017/1583 specifying, pursuant to Directive [2006/7/EC](https://www.legislation.gov.uk/eudr/2006/7) of the European Parliament and of the Council, EN ISO 17994:2014 as the standard on the equivalence of microbiological methods is amended as follows.
 
@@ -1045,7 +1045,7 @@ In Commission Implementing Decision 2011/321/EU establishing, pursuant to Direct
 
 (3) Omit Articles 2 and 3.
 
-### 25. Commission Decision (EU) 2018/229[^key-3626578832e10a50f691c60b53fe10cd]
+### 25. Commission Decision (EU) 2018/229[^c-3626578832e10a50f691c60b53fe10cd]
 
 (1) Commission Decision (EU) 2018/229 establishing, pursuant to Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council, the values of the Member State monitoring system classifications as a result of the intercalibration exercise is amended as follows.
 
@@ -1074,7 +1074,7 @@ In Commission Implementing Decision 2011/321/EU establishing, pursuant to Direct
   ;
 - (e) omit Articles 2 and 3.
 
-### 26. Commission Implementing Decision 2018/840/EU[^key-5d2d79c3c4286587a49cab8202d87586]
+### 26. Commission Implementing Decision 2018/840/EU[^c-5d2d79c3c4286587a49cab8202d87586]
 
 In Commission Implementing Decision 2018/840/EU establishing a watch list of substances for Union-wide monitoring in the field of water policy pursuant to Directive [2008/105/EC](https://www.legislation.gov.uk/eudr/2008/105) of the European Parliament and of the Council—
 
@@ -1082,7 +1082,7 @@ In Commission Implementing Decision 2018/840/EU establishing a watch list of sub
 - (b) omit Articles 2 and 3;
 - (c) in the heading of the Annex, omit “Union-wide”.
 
-### 27. Revocations and removal of EEA references[^key-a6e01725bbfb6bc2b0a23efb8e24300b]
+### 27. Revocations and removal of EEA references[^c-a6e01725bbfb6bc2b0a23efb8e24300b]
 
 The following retained direct EU legislation is revoked and any reference to that legislation in Annex 20 to the EEA agreement is to be omitted—
 
@@ -1108,13 +1108,13 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23668041]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-bb4cb4077550920259b23521b52d8e97]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-bb4cb4077550920259b23521b52d8e97]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-ee74fe2ef212be850759902b875ba18d]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-ee74fe2ef212be850759902b875ba18d]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668051]: Marginal citation: [1989 c. 15](https://www.legislation.gov.uk/ukpga/1989/15); section 174(2)(k) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-a60407dedff4f8bdd4af44d45f7a7c4d]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a60407dedff4f8bdd4af44d45f7a7c4d]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668061]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
@@ -1128,7 +1128,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23668111]: Marginal citation: Section 206(3)(k) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-dbc70f944c63c638f0124affbbc0cc4a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-dbc70f944c63c638f0124affbbc0cc4a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668121]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
@@ -1146,33 +1146,33 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23668191]: Marginal citation: Section 204(2)(k) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-2d9139c103736e64ed6c14d09e2858ac]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-2d9139c103736e64ed6c14d09e2858ac]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668201]: Marginal citation: [2014 c. 21](https://www.legislation.gov.uk/ukpga/2014/21).
 
-[^key-1c3eb9fc1fd6ceef8914a98c60b5f42e]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1c3eb9fc1fd6ceef8914a98c60b5f42e]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668211]: Marginal citation: [S.I. 1989/1263](https://www.legislation.gov.uk/uksi/1989/1263) was amended by [S.I. 2010/1820](https://www.legislation.gov.uk/uksi/2010/1820); there are other amending instruments but none is relevant.
 
-[^key-032deea8ac4457a7431ecdd26cc0f49a]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-032deea8ac4457a7431ecdd26cc0f49a]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668221]: Marginal citation: [S.I. 1994/2841](https://www.legislation.gov.uk/uksi/1994/2841); relevant amending instruments are [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90), 2018/942.
 
-[^key-fde5e1467fc9ecfedbf456a1d0be3240]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-fde5e1467fc9ecfedbf456a1d0be3240]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668231]: Marginal citation: [S.I. 1999/1148](https://www.legislation.gov.uk/uksi/1999/1148); relevant amending instruments are [S.I. 2013/1387](https://www.legislation.gov.uk/uksi/2013/1387), 2018/942.
 
-[^key-460ae38995aee5c4a43f7bc7a16caf4e]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-460ae38995aee5c4a43f7bc7a16caf4e]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668241]: Marginal citation: [S.I. 2000/1297](https://www.legislation.gov.uk/uksi/2000/1297); relevant amending instruments are [S.I. 2010/996](https://www.legislation.gov.uk/uksi/2010/996), 2018/942.
 
-[^key-88c18f87ad13a47bf3d7f90f4cdb4fbe]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-88c18f87ad13a47bf3d7f90f4cdb4fbe]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668251]: Marginal citation: [S.I. 2003/3245](https://www.legislation.gov.uk/uksi/2003/3245), amended by [S.I. 2016/139](https://www.legislation.gov.uk/uksi/2016/139), 2017/407.
 
 [^c23668261]: Marginal citation: Regulation 20 of these Regulations inserts Schedule 5 into the principal Regulations.
 
-[^key-cba070b2d75fcf45f62d4b35610f8f68]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-cba070b2d75fcf45f62d4b35610f8f68]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668271]: Marginal citation: [S.I. 2004/99](https://www.legislation.gov.uk/uksi/2004/99); relevant amending instruments are [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), 2016/139, 2018/942.
 
@@ -1188,21 +1188,21 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23668331]: Marginal citation: OJ No L 20, 26.1.2010, p 7, as last amended by Council Directive 2013/17/EU (OJ No L 158, 10.6.2013, p 193).
 
-[^key-9fa43a3a7634a774449e3d37c69af2de]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-9fa43a3a7634a774449e3d37c69af2de]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668341]: Marginal citation: [S.I. 2009/2477](https://www.legislation.gov.uk/uksi/2009/2477), to which there are amendments not relevant to these Regulations.
 
-[^key-2f6575b65c6a30c012bcf9c2cba42956]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-2f6575b65c6a30c012bcf9c2cba42956]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668351]: Marginal citation: [S.I. 2010/639](https://www.legislation.gov.uk/uksi/2010/639), to which there are amendments not relevant to these Regulations.
 
-[^key-a88f3a498639346287920f92d7b39aed]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a88f3a498639346287920f92d7b39aed]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668361]: Marginal citation: [S.I. 2011/2855](https://www.legislation.gov.uk/uksi/2011/2855), relevant amending instruments are [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W.90), 2018/575.
 
 [^c23668371]: Marginal citation: [S.I. 2017/407](https://www.legislation.gov.uk/uksi/2017/407), amended by [S.I. 2018/942](https://www.legislation.gov.uk/uksi/2018/942).
 
-[^key-6153438fea85b9e3a6f10049325d9791]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-6153438fea85b9e3a6f10049325d9791]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668381]: Marginal citation: [S.I. 2013/1675](https://www.legislation.gov.uk/uksi/2013/1675), relevant amending instruments are [S.I. 2017/407](https://www.legislation.gov.uk/uksi/2017/407), 2018/575.
 
@@ -1210,7 +1210,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23668401]: Marginal citation: Regulation 20 of these Regulations inserts Schedule 5 into the Water Environment (Water Framework Directive) (England and Wales) Regulations 2017.
 
-[^key-3a507d757b7a71638fef9969eb94241d]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-3a507d757b7a71638fef9969eb94241d]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668411]: Marginal citation: [S.I. 2015/668](https://www.legislation.gov.uk/uksi/2015/668), relevant amending instruments are [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), 2016/1190, 2018/575.
 
@@ -1220,27 +1220,27 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23668441]: Marginal citation: OJ No L 375, 31.12.1991, p 1, as last amended by Regulation (EC) No 1137/2008 (OJ No L 311, 21.11.2008, p 1).
 
-[^key-71fec453cab9704cf162b883a70c809c]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-71fec453cab9704cf162b883a70c809c]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668451]: Marginal citation: [S.I. 2015/1902](https://www.legislation.gov.uk/uksi/2015/1902).
 
-[^key-551cf5afe37add517f2e6088f9290e2f]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-551cf5afe37add517f2e6088f9290e2f]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-f5e5fd8e6b778aa2161f0c43ec673a95]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-f5e5fd8e6b778aa2161f0c43ec673a95]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-e6c1b10db55b2bed8fb924ca3cf7b342]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-e6c1b10db55b2bed8fb924ca3cf7b342]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668461]: Marginal citation: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), to which there are amendments not relevant to these Regulations.
 
-[^key-69cabac1c97141c3c5821ba50032e135]: Commencement: Reg. 21 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-69cabac1c97141c3c5821ba50032e135]: Commencement: Reg. 21 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668471]: Marginal citation: [S.I. 2017/1044](https://www.legislation.gov.uk/uksi/2017/1044), amended by [S.I. 2018/942](https://www.legislation.gov.uk/uksi/2018/942).
 
-[^key-0de756a5b910f4e7e941bea2aba64f3a]: Textual amendment: Reg. 21(a) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2019/559/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0de756a5b910f4e7e941bea2aba64f3a]: Textual amendment: Reg. 21(a) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2019/559/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0bb7c0364f2359079d66af963076621b]: Textual amendment: Words in reg. 21(b) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2019/559/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0bb7c0364f2359079d66af963076621b]: Textual amendment: Words in reg. 21(b) substituted (31.12.2020 immediately before IP completion day) by [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2019/559/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-082529367a680d2796f96ecd4ba7f4d0]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-082529367a680d2796f96ecd4ba7f4d0]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668481]: Marginal citation: [S.I. 2017/1047](https://www.legislation.gov.uk/uksi/2017/1047), amended by [S.I. 2018/575](https://www.legislation.gov.uk/uksi/2018/575).
 
@@ -1248,12 +1248,12 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23668501]: Marginal citation: [S.I. 2017/407](https://www.legislation.gov.uk/uksi/2017/407), amended by [S.I. 2018/942](https://www.legislation.gov.uk/uksi/2018/942).
 
-[^key-a2fe81d437ebd0b468643215c66a2a13]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a2fe81d437ebd0b468643215c66a2a13]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-068e7cd140bf034469eed5ad20c8b263]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-068e7cd140bf034469eed5ad20c8b263]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-3626578832e10a50f691c60b53fe10cd]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-3626578832e10a50f691c60b53fe10cd]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-5d2d79c3c4286587a49cab8202d87586]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-5d2d79c3c4286587a49cab8202d87586]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-a6e01725bbfb6bc2b0a23efb8e24300b]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a6e01725bbfb6bc2b0a23efb8e24300b]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

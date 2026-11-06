@@ -76,7 +76,7 @@ Regulation 26(14)
 
 **27.** An offence under section 45 (failure to prevent facilitation of UK tax evasion offences) or 46 (failure to prevent facilitation of foreign tax evasion offences) of the Criminal Finances Act 2017 [^c23049401].
 
-**27A.**[^key-9dcbd9f7ba5efc7f03b00d903a8999d9] An offence under the Data Protection Act 2018, apart from an offence under section 173 of that Act.
+**27A.**[^c-9dcbd9f7ba5efc7f03b00d903a8999d9] An offence under the Data Protection Act 2018, apart from an offence under section 173 of that Act.
 
 **28.** An offence of cheating the public revenue.
 
@@ -160,6 +160,6 @@ Regulation 26(14)
 
 [^c23049401]: Marginal citation: [2017 c.22](https://www.legislation.gov.uk/ukpga/2017/22).
 
-[^key-9dcbd9f7ba5efc7f03b00d903a8999d9]: Textual amendment: Sch. 3 para. 27A inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 419](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/419) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-9dcbd9f7ba5efc7f03b00d903a8999d9]: Textual amendment: Sch. 3 para. 27A inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 419](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/419) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
 [^c23049411]: Marginal citation: Schedule 7A was inserted by section 48 of the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22).

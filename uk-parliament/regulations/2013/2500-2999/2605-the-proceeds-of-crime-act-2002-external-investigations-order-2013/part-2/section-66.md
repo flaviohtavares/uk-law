@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Further provisions[^key-98dc5bb01ebf313c44442d70943c4754]
+## 66. Further provisions[^c-98dc5bb01ebf313c44442d70943c4754]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ An account monitoring order has effect in spite of any restriction on the disclo
 
 ## Annotations
 
-[^key-98dc5bb01ebf313c44442d70943c4754]: Commencement: [Art. 66](https://www.legislation.gov.uk/uksi/2013/2605/article/66) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-98dc5bb01ebf313c44442d70943c4754]: Commencement: [Art. 66](https://www.legislation.gov.uk/uksi/2013/2605/article/66) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 396. Form of local authority documents[^key-77144193ab289a7aeb1743f68b2ef03e]
+## 396. Form of local authority documents[^c-77144193ab289a7aeb1743f68b2ef03e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Regulations may specify the form and content of any notice, order or other docum
 
 ## Annotations
 
-[^key-77144193ab289a7aeb1743f68b2ef03e]: Commencement: S. 396 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-77144193ab289a7aeb1743f68b2ef03e]: Commencement: S. 396 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

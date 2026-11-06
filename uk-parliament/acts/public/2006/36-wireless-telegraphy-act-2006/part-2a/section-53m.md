@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53M. Enforcement of notification under section 53K[^key-0652a6403bec100ac50398c3cd5f3b69]
+## 53M. Enforcement of notification under section 53K[^c-0652a6403bec100ac50398c3cd5f3b69]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0652a6403bec100ac50398c3cd5f3b69]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/ukpga/2006/36/part/2A) inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/8/1), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/c)
+[^c-0652a6403bec100ac50398c3cd5f3b69]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/ukpga/2006/36/part/2A) inserted (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/8/1), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/c)

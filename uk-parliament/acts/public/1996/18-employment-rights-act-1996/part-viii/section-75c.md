@@ -22,8 +22,8 @@ summary: ''
 
 (1) Regulations under section 75A or 75B may make provision about—
 
-- (a)[^key-eee36ad9c16b82d2c8c313b75c2e3669] redundancy during, or after, an ordinary or additional adoption leave period, or
-- (b) dismissal (other than by reason of redundancy) during , or after,[^key-f7c9b19ba9d094e6df19dc0bec5ab3ba] an ordinary or additional adoption leave period.
+- (a)[^c-eee36ad9c16b82d2c8c313b75c2e3669] redundancy during, or after, an ordinary or additional adoption leave period, or
+- (b) dismissal (other than by reason of redundancy) during , or after,[^c-f7c9b19ba9d094e6df19dc0bec5ab3ba] an ordinary or additional adoption leave period.
 
 (2) Regulations made by virtue of subsection (1) may include—
 
@@ -41,6 +41,6 @@ summary: ''
 
 [^c16328681]: Textual amendment: Pt. 8 (ss. 71-80) substituted for Pt. 8 (ss. 71-85) (15.12.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 7](https://www.legislation.gov.uk/ukpga/1999/26/section/7), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/part/1); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/2) (with transitional provisions in [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/10))
 
-[^key-eee36ad9c16b82d2c8c313b75c2e3669]: Textual amendment: S. 75C(1)(a)(b) substituted for s. 75C(1)(a)(b) and words (24.7.2023) by [Protection from Redundancy (Pregnancy and Family Leave) Act 2023 (c. 17)](https://www.legislation.gov.uk/ukpga/2023/17), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2023/17/section/2/3), [3(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/3/2)
+[^c-eee36ad9c16b82d2c8c313b75c2e3669]: Textual amendment: S. 75C(1)(a)(b) substituted for s. 75C(1)(a)(b) and words (24.7.2023) by [Protection from Redundancy (Pregnancy and Family Leave) Act 2023 (c. 17)](https://www.legislation.gov.uk/ukpga/2023/17), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2023/17/section/2/3), [3(2)](https://www.legislation.gov.uk/ukpga/2023/17/section/3/2)
 
-[^key-f7c9b19ba9d094e6df19dc0bec5ab3ba]: Textual amendment: Words in s. 75C(1)(b) inserted (6.1.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/27/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(12)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/12/b)
+[^c-f7c9b19ba9d094e6df19dc0bec5ab3ba]: Textual amendment: Words in s. 75C(1)(b) inserted (6.1.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 27(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/27/3), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(12)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/12/b)

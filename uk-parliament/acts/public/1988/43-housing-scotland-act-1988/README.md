@@ -63,7 +63,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 10 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-10.md)
 - [Section 11 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-11.md)
 
-### Part II — Rented Accommodation[^c10514961][^key-8eda2cd9115ce7fcee14c6d90acdf879][^key-168fa047d16cc740f2b11530425f594f][^key-ee6b065eddcf6ba51e5918eee2700df7]
+### Part II — Rented Accommodation[^c10514961][^c-8eda2cd9115ce7fcee14c6d90acdf879][^c-168fa047d16cc740f2b11530425f594f][^c-ee6b065eddcf6ba51e5918eee2700df7]
 
 *Extent: S*
 
@@ -154,7 +154,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 45 — Transfer of existing tenancies.](part-ii/section-45.md)
 - [Section 46 — Statutory tenants: succession.](part-ii/section-46.md)
 
-#### Phasing out of assured tenancies[^key-3244bb9cb0f109ad15064dd13cf98b65]
+#### Phasing out of assured tenancies[^c-3244bb9cb0f109ad15064dd13cf98b65]
 
 - [Section 46A — Change to private residential tenancy by agreement](part-ii/section-46a.md)
 
@@ -217,10 +217,10 @@ SCHEDULES
 
 [^c10514961]: Modification: Pt. II (ss. 12–55) excluded by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [ss. 103](https://www.legislation.gov.uk/ukpga/1987/26/section/103), [128](https://www.legislation.gov.uk/ukpga/1987/26/section/128), [145](https://www.legislation.gov.uk/ukpga/1987/26/section/145), [335](https://www.legislation.gov.uk/ukpga/1987/26/section/335)
 
-[^key-8eda2cd9115ce7fcee14c6d90acdf879]: Modification: Pt. II excluded (3.9.2007) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 38(4)(10)](https://www.legislation.gov.uk/asp/2006/1/section/38/10), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2007/270](https://www.legislation.gov.uk/ssi/2007/270), [art. 3](https://www.legislation.gov.uk/ssi/2007/270/article/3)
+[^c-8eda2cd9115ce7fcee14c6d90acdf879]: Modification: Pt. II excluded (3.9.2007) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 38(4)(10)](https://www.legislation.gov.uk/asp/2006/1/section/38/10), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2007/270](https://www.legislation.gov.uk/ssi/2007/270), [art. 3](https://www.legislation.gov.uk/ssi/2007/270/article/3)
 
-[^key-168fa047d16cc740f2b11530425f594f]: Modification: Pt. II excluded (31.8.2011) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 5 para. 3(10)](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/3/10) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-168fa047d16cc740f2b11530425f594f]: Modification: Pt. II excluded (31.8.2011) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 5 para. 3(10)](https://www.legislation.gov.uk/asp/2006/1/schedule/5/paragraph/3/10) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
 
-[^key-ee6b065eddcf6ba51e5918eee2700df7]: Modification: Pt. 2 excluded by 2002 c. 29, s. 269A(5) (as inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l))
+[^c-ee6b065eddcf6ba51e5918eee2700df7]: Modification: Pt. 2 excluded by 2002 c. 29, s. 269A(5) (as inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2017/22/section/29/5), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/l))
 
-[^key-3244bb9cb0f109ad15064dd13cf98b65]: Textual amendment: S. 46A and cross-heading inserted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 5 para. 3(3)](https://www.legislation.gov.uk/asp/2016/19/schedule/5/paragraph/3/3); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2017/346/regulation/6))
+[^c-3244bb9cb0f109ad15064dd13cf98b65]: Textual amendment: S. 46A and cross-heading inserted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 5 para. 3(3)](https://www.legislation.gov.uk/asp/2016/19/schedule/5/paragraph/3/3); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2017/346/regulation/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.15. Committal for sentence for offence related to an offence sent for trial[^key-612613f45aa7383cdebc3897285f4cf9]
+## 9.15. Committal for sentence for offence related to an offence sent for trial[^c-612613f45aa7383cdebc3897285f4cf9]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-612613f45aa7383cdebc3897285f4cf9]: Commencement: [Rule 9.15](https://www.legislation.gov.uk/uksi/2025/909/rule/9.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-612613f45aa7383cdebc3897285f4cf9]: Commencement: [Rule 9.15](https://www.legislation.gov.uk/uksi/2025/909/rule/9.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00288]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17).
 

@@ -34,7 +34,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Foot-and-Mouth Disease (Export Restrictions) (Scotland) Regulations 2007 (revoked)[^key-dc9dedd13d460499054737f82967c4c5]
+The Foot-and-Mouth Disease (Export Restrictions) (Scotland) Regulations 2007 (revoked)[^c-dc9dedd13d460499054737f82967c4c5]
 
 Made
 
@@ -46,112 +46,112 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with article 1
 
-[^key-dc9dedd13d460499054737f82967c4c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc9dedd13d460499054737f82967c4c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, cessation and extent[^key-dc9dedd13d460499054737f82967c4c5]
+## 1. Title, commencement, cessation and extent[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-dc9dedd13d460499054737f82967c4c5]
+## 2. Interpretation[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Export and movement of live animals[^key-dc9dedd13d460499054737f82967c4c5]
+## 3. Export and movement of live animals[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Export of fresh meat, minced meat, mechanically separated meat and meat preparations and sale of meat not eligible for export[^key-dc9dedd13d460499054737f82967c4c5]
+## 4. Export of fresh meat, minced meat, mechanically separated meat and meat preparations and sale of meat not eligible for export[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Export of meat products[^key-dc9dedd13d460499054737f82967c4c5]
+## 5. Export of meat products[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Export of milk[^key-dc9dedd13d460499054737f82967c4c5]
+## 6. Export of milk[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Export of dairy products[^key-dc9dedd13d460499054737f82967c4c5]
+## 7. Export of dairy products[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Export of semen, ova and embryos[^key-dc9dedd13d460499054737f82967c4c5]
+## 8. Export of semen, ova and embryos[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Export of hides and skins[^key-dc9dedd13d460499054737f82967c4c5]
+## 9. Export of hides and skins[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Export of animal products[^key-dc9dedd13d460499054737f82967c4c5]
+## 10. Export of animal products[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Exemptions[^key-dc9dedd13d460499054737f82967c4c5]
+## 11. Exemptions[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Endorsement of commercial documents[^key-dc9dedd13d460499054737f82967c4c5]
+## 12. Endorsement of commercial documents[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Offers to export[^key-dc9dedd13d460499054737f82967c4c5]
+## 13. Offers to export[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Cleansing and disinfection[^key-dc9dedd13d460499054737f82967c4c5]
+## 14. Cleansing and disinfection[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Powers of an inspector[^key-dc9dedd13d460499054737f82967c4c5]
+## 15. Powers of an inspector[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Illegal export of products[^key-dc9dedd13d460499054737f82967c4c5]
+## 16. Illegal export of products[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Obstruction[^key-dc9dedd13d460499054737f82967c4c5]
+## 17. Obstruction[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. False information[^key-dc9dedd13d460499054737f82967c4c5]
+## 18. False information[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Offences by bodies corporate[^key-dc9dedd13d460499054737f82967c4c5]
+## 19. Offences by bodies corporate[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Penalties[^key-dc9dedd13d460499054737f82967c4c5]
+## 20. Penalties[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Authorisations, certificates or approvals issued in another part of the British Islands[^key-dc9dedd13d460499054737f82967c4c5]
+## 21. Authorisations, certificates or approvals issued in another part of the British Islands[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Sharing of information[^key-dc9dedd13d460499054737f82967c4c5]
+## 22. Sharing of information[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Enforcement[^key-dc9dedd13d460499054737f82967c4c5]
+## 23. Enforcement[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Revocation[^key-dc9dedd13d460499054737f82967c4c5]
+## 24. Revocation[^c-dc9dedd13d460499054737f82967c4c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dc9dedd13d460499054737f82967c4c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc9dedd13d460499054737f82967c4c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dc9dedd13d460499054737f82967c4c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc9dedd13d460499054737f82967c4c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc9dedd13d460499054737f82967c4c5]: Textual amendment: Regulations revoked (13.9.2007 at 23:00 hours) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Regulations 2007 (S.S.I. 2007/428)](https://www.legislation.gov.uk/ssi/2007/428), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/428/regulation/1), [29](https://www.legislation.gov.uk/ssi/2007/428/regulation/29)
+[^c-dc9dedd13d460499054737f82967c4c5]: Textual amendment: Regulations revoked (13.9.2007 at 23:00 hours) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Regulations 2007 (S.S.I. 2007/428)](https://www.legislation.gov.uk/ssi/2007/428), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/428/regulation/1), [29](https://www.legislation.gov.uk/ssi/2007/428/regulation/29)

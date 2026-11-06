@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Power to direct authority to modify plan[^key-1b7e683ecffc1266d67ec7c635bafff5]
+## 25. Power to direct authority to modify plan[^c-1b7e683ecffc1266d67ec7c635bafff5]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b7e683ecffc1266d67ec7c635bafff5]: Commencement: S. 25 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-1b7e683ecffc1266d67ec7c635bafff5]: Commencement: S. 25 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

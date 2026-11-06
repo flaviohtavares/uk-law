@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Amendments relating to British Transport Police and Ministry of Defence Police[^key-26f17aff210a07b4d5a4822009128b92]
+## 167. Amendments relating to British Transport Police and Ministry of Defence Police[^c-26f17aff210a07b4d5a4822009128b92]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26f17aff210a07b4d5a4822009128b92]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2026/20/section/167) in force at 29.6.2026, see [s. 255(3)(e)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/e)
+[^c-26f17aff210a07b4d5a4822009128b92]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2026/20/section/167) in force at 29.6.2026, see [s. 255(3)(e)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/e)

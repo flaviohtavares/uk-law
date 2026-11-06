@@ -22,7 +22,7 @@ summary: ''
 
 (1) A person commits an offence if he discloses information obtained under these Regulations to a third party except—
 
-- (a) for any of the purposes mentioned in paragraph 1A(1)[^key-0a83c79cfdb877140c05fca51358a895] of Schedule 2 to the 1983 Act; or
+- (a) for any of the purposes mentioned in paragraph 1A(1)[^c-0a83c79cfdb877140c05fca51358a895] of Schedule 2 to the 1983 Act; or
 - (b) for the purposes of any criminal or civil proceedings.
 
 (2) A person guilty of an offence under this regulation shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a83c79cfdb877140c05fca51358a895]: Textual amendment: Words in [reg. 43(1)(a)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/43/1/a) substituted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 20(4)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/20/4/b), [28(1)(e)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/e) (with [s. 20(6)](https://www.legislation.gov.uk/ukpga/2014/13/section/20/6))
+[^c-0a83c79cfdb877140c05fca51358a895]: Textual amendment: Words in [reg. 43(1)(a)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/43/1/a) substituted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 20(4)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/20/4/b), [28(1)(e)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/e) (with [s. 20(6)](https://www.legislation.gov.uk/ukpga/2014/13/section/20/6))

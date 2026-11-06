@@ -55,7 +55,7 @@ summary: ''
 (7) In paragraphs (5) and (6), “**lawfully**” means—
 
 - (a) without contravention of Part 1 of the Wildlife and Countryside Act 1981 [^c23068141], the Wildlife (Northern Ireland) Order 1985 [^c23068151], the Offshore Marine Conservation (Natural Habitats, &c.) Regulations 2007 [^c23068161] or these Regulations; or
-- (b) in the case of a bird, egg or other thing killed, taken or sold in Gibraltar or a member State [^key-5edabd69e643a26af2ce8ed0fc54de21]..., without contravention (as the case may be) of the law of Gibraltar or the law of that State implementing the Wild Birds Directive.
+- (b) in the case of a bird, egg or other thing killed, taken or sold in Gibraltar or a member State [^c-5edabd69e643a26af2ce8ed0fc54de21]..., without contravention (as the case may be) of the law of Gibraltar or the law of that State implementing the Wild Birds Directive.
 
 ## Annotations
 
@@ -65,4 +65,4 @@ summary: ''
 
 [^c23068161]: Marginal citation: [S.I. 2007/1842](https://www.legislation.gov.uk/uksi/2007/1842), amended by [S.I. 2009/7](https://www.legislation.gov.uk/uksi/2009/7), 2010/491 and 2012/1928, and revoked by these Regulations.
 
-[^key-5edabd69e643a26af2ce8ed0fc54de21]: Textual amendment: Words in [reg. 41(7)(b)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/41/7/b) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [56](https://www.legislation.gov.uk/uksi/2019/579/regulation/56); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5edabd69e643a26af2ce8ed0fc54de21]: Textual amendment: Words in [reg. 41(7)(b)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/41/7/b) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [56](https://www.legislation.gov.uk/uksi/2019/579/regulation/56); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

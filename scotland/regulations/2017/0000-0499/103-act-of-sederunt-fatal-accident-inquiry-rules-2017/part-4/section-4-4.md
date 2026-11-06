@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.4. Gathering information[^key-7fbe3eb51532242801fa393551a6074f]
+## 4.4. Gathering information[^c-7fbe3eb51532242801fa393551a6074f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Once the sheriff has made the first order, a participant may gather information 
 
 ## Annotations
 
-[^key-7fbe3eb51532242801fa393551a6074f]: Commencement: [Rule 4.4](https://www.legislation.gov.uk/ssi/2017/103/rule/4.4) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-7fbe3eb51532242801fa393551a6074f]: Commencement: [Rule 4.4](https://www.legislation.gov.uk/ssi/2017/103/rule/4.4) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

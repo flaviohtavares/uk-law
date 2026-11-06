@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Orders and regulations under Employment Rights Act 1996: procedure[^key-cf256d1483628ddabb3db008103e7b33][^key-54aedf3f2259eabe4bba51a30be68a11]
+## 153. Orders and regulations under Employment Rights Act 1996: procedure[^c-cf256d1483628ddabb3db008103e7b33][^c-54aedf3f2259eabe4bba51a30be68a11]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In section 236 of the Employment Rights Act 1996 (orders and regulations), after
 
 ## Annotations
 
-[^key-cf256d1483628ddabb3db008103e7b33]: Commencement: S. 153 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-cf256d1483628ddabb3db008103e7b33]: Commencement: S. 153 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-54aedf3f2259eabe4bba51a30be68a11]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2025/36/section/153) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(35)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/35)
+[^c-54aedf3f2259eabe4bba51a30be68a11]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2025/36/section/153) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(35)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/35)

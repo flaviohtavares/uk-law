@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29A. Gifts for mixed purposes[^key-e661718e6cabfb1e3eb2f7142d466e19]
+## 29A. Gifts for mixed purposes[^c-e661718e6cabfb1e3eb2f7142d466e19]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ any gift dependent upon the prior gift shall have the like effect as it would ha
 
 ## Annotations
 
-[^key-e661718e6cabfb1e3eb2f7142d466e19]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/nia/2008/12/section/29A) inserted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 2](https://www.legislation.gov.uk/nia/2013/3/section/2), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)
+[^c-e661718e6cabfb1e3eb2f7142d466e19]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/nia/2008/12/section/29A) inserted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 2](https://www.legislation.gov.uk/nia/2013/3/section/2), [10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Recognition: interpretation[^key-afdd8f6ab8465406be9df1f1b2710747]
+## 12. Recognition: interpretation[^c-afdd8f6ab8465406be9df1f1b2710747]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afdd8f6ab8465406be9df1f1b2710747]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2015/5/section/12) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-afdd8f6ab8465406be9df1f1b2710747]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2015/5/section/12) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

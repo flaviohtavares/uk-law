@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100.[^key-0b3313def0c37a22509a66715f967d3a]
+## 100.[^c-0b3313def0c37a22509a66715f967d3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 839 (connected persons), in subsections (2) and (4), for “wife or h
 
 ## Annotations
 
-[^key-0b3313def0c37a22509a66715f967d3a]: Commencement: Reg. 100 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-0b3313def0c37a22509a66715f967d3a]: Commencement: Reg. 100 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Power to take fingerprints and samples: Scotland[^key-bfc25a221bdaa9702792fe482470d271]
+## 11. Power to take fingerprints and samples: Scotland[^c-bfc25a221bdaa9702792fe482470d271]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfc25a221bdaa9702792fe482470d271]: Textual amendment: Ss. 10-13 omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 5(3)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/5/3) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
+[^c-bfc25a221bdaa9702792fe482470d271]: Textual amendment: Ss. 10-13 omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 5(3)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/5/3) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))

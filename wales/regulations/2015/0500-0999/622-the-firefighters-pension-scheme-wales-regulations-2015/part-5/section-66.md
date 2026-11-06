@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Qualifying service[^key-e8e973f52c6612e7292636ebbbdeccd6]
+## 66. Qualifying service[^c-e8e973f52c6612e7292636ebbbdeccd6]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8e973f52c6612e7292636ebbbdeccd6]: Commencement: Reg. 66 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-e8e973f52c6612e7292636ebbbdeccd6]: Commencement: Reg. 66 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00053]: Footnote: Rule F1 of the 1992 Scheme as it has effect in Wales has been amended by [S.I. 2006/1672 (W. 160)](https://www.legislation.gov.uk/wsi/2006/1672), [2007/1074 (W. 112)](https://www.legislation.gov.uk/wsi/2007/1074) and [2014/3242 (W. 329)](https://www.legislation.gov.uk/wsi/2014/3242).

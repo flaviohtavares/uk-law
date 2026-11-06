@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) This regulation applies where a child has been placed [^key-90d5d1a6a2f91e6c15234758ea8fb249]...–
+(1) This regulation applies where a child has been placed [^c-90d5d1a6a2f91e6c15234758ea8fb249]...–
 
 - (a) with a kinship carer in accordance with regulation 11;
 - (b) with a foster carer in accordance with regulation 27;
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90d5d1a6a2f91e6c15234758ea8fb249]: Textual amendment: Words in [reg. 46(1)](https://www.legislation.gov.uk/ssi/2009/210/regulation/46/1) omitted (28.9.2009) by virtue of [The Looked After Children (Scotland) Amendment Regulations 2009 (S.S.I. 2009/290)](https://www.legislation.gov.uk/ssi/2009/290), [regs. 1](https://www.legislation.gov.uk/ssi/2009/290/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2009/290/regulation/2/3)
+[^c-90d5d1a6a2f91e6c15234758ea8fb249]: Textual amendment: Words in [reg. 46(1)](https://www.legislation.gov.uk/ssi/2009/210/regulation/46/1) omitted (28.9.2009) by virtue of [The Looked After Children (Scotland) Amendment Regulations 2009 (S.S.I. 2009/290)](https://www.legislation.gov.uk/ssi/2009/290), [regs. 1](https://www.legislation.gov.uk/ssi/2009/290/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2009/290/regulation/2/3)

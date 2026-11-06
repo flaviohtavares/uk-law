@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Common maintenance[^key-e0dd5588ab78e9df87d575d5e4d431ac][^key-07d1a895ae27670635d9097d2c32a481]
+## 37. Common maintenance[^c-e0dd5588ab78e9df87d575d5e4d431ac][^c-07d1a895ae27670635d9097d2c32a481]
 
 *Extent: S*
 
@@ -168,6 +168,6 @@ After Part II of the 1968 Act there is inserted—
 
 ## Annotations
 
-[^key-e0dd5588ab78e9df87d575d5e4d431ac]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2013/5/section/37) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-e0dd5588ab78e9df87d575d5e4d431ac]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2013/5/section/37) in force at 10.6.2013 for specified purposes by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-07d1a895ae27670635d9097d2c32a481]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2013/5/section/37) in force at 21.12.2013 in so far as not already in force by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/342/article/2/c)
+[^c-07d1a895ae27670635d9097d2c32a481]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2013/5/section/37) in force at 21.12.2013 in so far as not already in force by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/342/article/2/c)

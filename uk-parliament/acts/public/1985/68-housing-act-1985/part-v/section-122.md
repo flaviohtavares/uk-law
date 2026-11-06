@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A[^key-fa007f3cc41813ff1130e10877778364] secure tenant claims to exercise the right to buy by written notice to that effect served on the landlord.
+(1) A[^c-fa007f3cc41813ff1130e10877778364] secure tenant claims to exercise the right to buy by written notice to that effect served on the landlord.
 
 (2) In this Part “**the relevant time**”, in relation to an exercise of the right to buy, means the date on which that notice is served.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa007f3cc41813ff1130e10877778364]: Textual amendment: Word in [s. 122(1)](https://www.legislation.gov.uk/ukpga/1985/68/section/122/1) substituted (26.1.2019) by [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(f)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/f) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))
+[^c-fa007f3cc41813ff1130e10877778364]: Textual amendment: Word in [s. 122(1)](https://www.legislation.gov.uk/ukpga/1985/68/section/122/1) substituted (26.1.2019) by [The Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (Consequential Amendments and Savings Provisions) Regulations 2019 (S.I. 2019/110)](https://www.legislation.gov.uk/wsi/2019/110), [regs. 1](https://www.legislation.gov.uk/wsi/2019/110/regulation/1), [3(f)](https://www.legislation.gov.uk/wsi/2019/110/regulation/3/f) (with [reg. 5](https://www.legislation.gov.uk/wsi/2019/110/regulation/5))

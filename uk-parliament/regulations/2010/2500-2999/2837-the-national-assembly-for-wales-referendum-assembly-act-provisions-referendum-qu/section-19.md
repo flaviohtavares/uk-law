@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Translations etc. of certain documents[^key-2d6adcc0dc10e306792cae7dd4addbca]
+## 19. Translations etc. of certain documents[^c-2d6adcc0dc10e306792cae7dd4addbca]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d6adcc0dc10e306792cae7dd4addbca]: Commencement: Art. 19 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-2d6adcc0dc10e306792cae7dd4addbca]: Commencement: Art. 19 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

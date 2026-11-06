@@ -48,7 +48,7 @@ The Secretary of State, being the appropriate national authority in relation to 
 
 ## PART 1 — Preliminary
 
-### 1. Title, commencement and application[^key-7a2422db9d78461e1c6d45150b01f647]
+### 1. Title, commencement and application[^c-7a2422db9d78461e1c6d45150b01f647]
 
 (1) These Regulations—
 
@@ -62,7 +62,7 @@ The Secretary of State, being the appropriate national authority in relation to 
 - (a) section 19 of the 2006 Act, for the purpose given in section 19(2)(a) (correcting a mistake made by the registration authority in making or amending an entry in the register); or
 - (b) Schedule 2 to the 2006 Act (non-registration or mistaken registration under the 1965 Act), paragraph 6, 7, 8 or 9.
 
-### 2. Interpretation[^key-bd5677d0005cee1b2863bfb74f2ee6b1]
+### 2. Interpretation[^c-bd5677d0005cee1b2863bfb74f2ee6b1]
 
 (1) In these Regulations—
 
@@ -109,7 +109,7 @@ The Secretary of State, being the appropriate national authority in relation to 
 
 (2) References to the land to which an application or proposal relates are to be interpreted, in relation to an application or proposal to register or amend the registration of a right of common, as meaning the land over which that right is or is to be exercisable.
 
-### 3. Official stamp of registration authority[^key-71996870beca2704f6379c61fded3e8d]
+### 3. Official stamp of registration authority[^c-71996870beca2704f6379c61fded3e8d]
 
 (1) Every registration authority must have an official stamp for the purposes of the 2006 Act, an impression of which bears the following information—
 
@@ -123,7 +123,7 @@ COMMONS REGISTRATION AUTHORITY
 
 (2) A requirement for a registration authority to stamp any document is a requirement to cause an impression of the official stamp to be affixed to it, bearing the date mentioned in the requirement or (where no date is mentioned in the requirement) the date when the stamp is affixed.
 
-### 4. Appointment of persons to discharge functions of a registration authority[^key-8430a79c2cec7d50ca9591a447d47734]
+### 4. Appointment of persons to discharge functions of a registration authority[^c-8430a79c2cec7d50ca9591a447d47734]
 
 The Secretary of State may appoint—
 
@@ -134,7 +134,7 @@ The Secretary of State may appoint—
 
 ## PART 2 — The Registers
 
-### 5. Form of the registers[^key-38c88fa971e14c4b3fb1fa982f242fa2]
+### 5. Form of the registers[^c-38c88fa971e14c4b3fb1fa982f242fa2]
 
 (1) Every register of common land or of town or village greens is to consist of—
 
@@ -159,7 +159,7 @@ The Secretary of State may appoint—
 
 (7) Every register must be bound, but so that sheets can be added or removed without damage.
 
-### 6. Register units[^key-68d3c6348e37d8197904db249972a11c]
+### 6. Register units[^c-68d3c6348e37d8197904db249972a11c]
 
 (1) Subject to paragraph (2), each register unit is to consist of two sections, called the land section and the rights section.
 
@@ -191,7 +191,7 @@ The Secretary of State may appoint—
 - (a) may add fresh register sheets to a register unit; and
 - (b) must stamp every sheet forming part of a register unit and further mark each such sheet with the number of that unit.
 
-### 7. Method of registration[^key-64124bac53e210e9c9fed114bd3d41e1]
+### 7. Method of registration[^c-64124bac53e210e9c9fed114bd3d41e1]
 
 (1) Every new entry made in a register relating to—
 
@@ -246,7 +246,7 @@ the registration authority may, if it thinks fit, prepare two or more register u
 
 (7) The registration authority may at any time supplement an existing entry with information that it considers necessary or desirable for the accurate interpretation of that entry.
 
-### 8. Replacement of register sheets[^key-9f9168d4acde5acb1143a9b3585ccd30]
+### 8. Replacement of register sheets[^c-9f9168d4acde5acb1143a9b3585ccd30]
 
 (1) Where—
 
@@ -259,7 +259,7 @@ the registration authority must ensure that all the entries recorded on that she
 
 (3) The replacement register sheet then forms part of the register and the original register sheet must be marked in accordance with Standard Entry 2 but does not cease to be part of the register.
 
-### 9. Register maps[^key-553dc4a9a81884f04a42f4e4f4e5aa34]
+### 9. Register maps[^c-553dc4a9a81884f04a42f4e4f4e5aa34]
 
 (1) Subject to paragraph (4), every registration authority must, for each of its registers, keep up to date a register map showing all the land registered in that register, in accordance with this regulation.
 
@@ -294,7 +294,7 @@ the registration authority must ensure that all the entries recorded on that she
 - (a) if the land to which the amendment relates consists wholly or predominantly of moorland, on a scale of not less than 1:10,560 (six inches to one mile); and
 - (b) in all other cases, on a scale of not less than 1:2,500.
 
-### 10. Contents of register maps[^key-6fb0f54395e1de0e3231fd6d87fb2484]
+### 10. Contents of register maps[^c-6fb0f54395e1de0e3231fd6d87fb2484]
 
 (1) The following requirements apply when marking a register map—
 
@@ -316,7 +316,7 @@ the registration authority must ensure that all the entries recorded on that she
 
 (3) There must be kept annexed to every register map a table headed “Key to Colouring and Symbols” containing a description or representation of every colour or symbol used in the register map (except for any which are not of general application) with a statement of the meaning of each such colour or symbol.
 
-### 11. Register map overlays[^key-9021a4a8428dfea9843a3e74c4106cbf]
+### 11. Register map overlays[^c-9021a4a8428dfea9843a3e74c4106cbf]
 
 (1) This regulation applies where it appears to a registration authority that it would be impracticable or confusing to include on one surface all the details required to be shown on a register map or any sheet of a register map.
 
@@ -326,7 +326,7 @@ the registration authority must ensure that all the entries recorded on that she
 
 (4) Every overlay prepared under this regulation forms part of the register map.
 
-### 12. Fresh editions of register maps[^key-a14b7bdd6e2c1725fa198f91231bc2fe]
+### 12. Fresh editions of register maps[^c-a14b7bdd6e2c1725fa198f91231bc2fe]
 
 (1) A registration authority may prepare a fresh edition of a register map or of any sheet of a register map, showing only details of subsisting entries in the register.
 
@@ -334,7 +334,7 @@ the registration authority must ensure that all the entries recorded on that she
 
 (3) A map or sheet which is replaced by a fresh edition must be marked on its face in accordance with Standard Entry 2, but remains part of the register.
 
-### 13. Supplemental maps[^key-5f9788bb704730849a14a1c2b5cbceb3]
+### 13. Supplemental maps[^c-5f9788bb704730849a14a1c2b5cbceb3]
 
 (1) Where—
 
@@ -369,7 +369,7 @@ and the supplemental map then forms part of the register.
 - (a) by entering a description of the dwelling, including the Ordnance Survey grid reference of its location, in column 5 of the rights section of the register; or
 - (b) by means of a supplemental map.
 
-### 14. Continuing validity of existing register entries[^key-530f34ad3c1012fdca4bf830131569c7]
+### 14. Continuing validity of existing register entries[^c-530f34ad3c1012fdca4bf830131569c7]
 
 (1) Any entry made—
 
@@ -387,7 +387,7 @@ continues to have effect on and after that date, whether or not it complies with
 
 ## PART 3 — Applications and proposals to amend the Registers
 
-### 15. Scope of this Part[^key-49064caac3ea77799f7c92413f10b2f0]
+### 15. Scope of this Part[^c-49064caac3ea77799f7c92413f10b2f0]
 
 (1) Subject to paragraphs (2) and (3), this Part applies in relation to any application or proposal.
 
@@ -398,7 +398,7 @@ continues to have effect on and after that date, whether or not it complies with
 
 (3) This Part does not apply in relation to an application under regulation 46 (matters affecting the public).
 
-### 16. Making an application[^key-d0bb583bb7ee4bbe2e982033409a1c6f]
+### 16. Making an application[^c-d0bb583bb7ee4bbe2e982033409a1c6f]
 
 (1) An application must—
 
@@ -416,7 +416,7 @@ continues to have effect on and after that date, whether or not it complies with
 - (a) the registration authority issued the document, or was a party to the document; or
 - (b) the document has been deposited with the registration authority in accordance with any enactment.
 
-### 17. Application fees[^key-c2cafc3374afe06cc57acfdd908c469d]
+### 17. Application fees[^c-c2cafc3374afe06cc57acfdd908c469d]
 
 (1) An application must be accompanied by such reasonable fee (if any) specified for an application of that type by the registration authority to which it is submitted.
 
@@ -437,7 +437,7 @@ the fee specified for that application is payable in addition to the fee specifi
 
 (7) Neither a registration authority nor the Planning Inspectorate need take any steps to deal with an application until the applicant has paid to it the specified fee.
 
-### 18. Making a proposal[^key-2e2f7471af6b4cb3df0e5f610b82eb69]
+### 18. Making a proposal[^c-2e2f7471af6b4cb3df0e5f610b82eb69]
 
 (1) Before taking any other steps under this Part in relation to a proposal, a registration authority must prepare a statement in writing describing the proposal and explaining the justification for it.
 
@@ -445,7 +445,7 @@ the fee specified for that application is payable in addition to the fee specifi
 
 (3) An original registration authority may not proceed with a proposal for the purposes of paragraph 2 of Schedule 3 to the 2006 Act unless it has complied with paragraph (1), and with paragraphs (2) to (5) of regulation 22, on or before 30th September 2010, and a 2014 registration authority may not proceed with such a proposal unless it has similarly complied on or before 14th December 2017.
 
-### 19. Land descriptions[^key-18182d2e07ca5dd5c3d5bd5b68186228]
+### 19. Land descriptions[^c-18182d2e07ca5dd5c3d5bd5b68186228]
 
 (1) This regulation applies in relation to any requirement to describe land for the purposes of an application or proposal, except where another provision of these Regulations specifies the manner in which land is to be described in a particular case.
 
@@ -465,7 +465,7 @@ the fee specified for that application is payable in addition to the fee specifi
   - (iii) is the land to which a right of common is attached; and
 - (b) on a scale of not less than 1:2,500 in all other cases.
 
-### 20. Management of application[^key-5591e640818ad6e88e56f6c2f2f53e67]
+### 20. Management of application[^c-5591e640818ad6e88e56f6c2f2f53e67]
 
 (1) As soon as practicable after receiving an application and (if any) the specified fee, the registration authority must send an acknowledgement of receipt to the applicant, which must include—
 
@@ -478,7 +478,7 @@ the fee specified for that application is payable in addition to the fee specifi
 
 (4) If the applicant fails to comply with any direction given under this regulation or, where applicable, fails to comply within the time specified, the registration authority may treat the application as abandoned.
 
-### 21. Registration authority’s duty to publicise application[^key-23085cf2d5967c79e9e6bb7507264166]
+### 21. Registration authority’s duty to publicise application[^c-23085cf2d5967c79e9e6bb7507264166]
 
 (1) As soon as reasonably practicable after receiving an application complying with regulations 16 and 17, the registration authority must—
 
@@ -503,7 +503,7 @@ the fee specified for that application is payable in addition to the fee specifi
 
 (6) Where a notice posted under paragraph (5)(a) is, without any fault or intention of the registration authority, removed, obscured or defaced before the period of 42 days referred to in that paragraph has elapsed, the authority is to be treated as having complied with the requirements of that paragraph.
 
-### 22. Registration authority’s duty to publicise proposal[^key-5518d34f2782a0386cde691adf2a9cae]
+### 22. Registration authority’s duty to publicise proposal[^c-5518d34f2782a0386cde691adf2a9cae]
 
 (1) A registration authority which has prepared a statement of a proposal must, before taking any further steps in relation to the proposal, comply with paragraphs (2) to (5).
 
@@ -527,7 +527,7 @@ the fee specified for that application is payable in addition to the fee specifi
 
 (8) The registration authority may, in relation to any proposal, decide that paragraph (4)(d) is not to apply, if it considers that the persons registered as owners of rights of common in gross are so numerous that it would not be reasonably practicable for it to serve notice of the proposal on all of them.
 
-### 23. Contents of notice of application or proposal[^key-139df9421033cb35d9a5b0de6142a9a5]
+### 23. Contents of notice of application or proposal[^c-139df9421033cb35d9a5b0de6142a9a5]
 
 A notice of an application or proposal which is required to be published, posted or served under regulation 21 or 22 must contain the following details—
 
@@ -541,7 +541,7 @@ A notice of an application or proposal which is required to be published, posted
 - (h) the date on which the period for making representations expires, which must not be less than 42 days after the date of the publishing, posting or service of the notice; and
 - (i) the address of the registration authority at which documents relating to the application or proposal are available for inspection.
 
-### 24. Inspection of copies of documents[^key-b7deba4aefd1c36f67e716fff2772a3d]
+### 24. Inspection of copies of documents[^c-b7deba4aefd1c36f67e716fff2772a3d]
 
 (1) The registration authority must ensure that copies of the following documents are available for inspection at the address specified for that purpose in any notice of the application or proposal—
 
@@ -552,7 +552,7 @@ A notice of an application or proposal which is required to be published, posted
 
 (2) The times and dates at which the documents referred to in paragraph (1) are available for inspection must include all normal office hours during a period of not less than 42 days ending with the expiry of the period for making representations.
 
-### 25. Representations[^key-0e0f57d28218e572de4012ce58aaa0a2]
+### 25. Representations[^c-0e0f57d28218e572de4012ce58aaa0a2]
 
 (1) Any person may, by the date specified in a notice of an application or proposal, make written representations to the registration authority about the application or proposal.
 
@@ -574,7 +574,7 @@ A notice of an application or proposal which is required to be published, posted
 
 (6) Where the applicant makes a reply under paragraph (4), the registration authority must send a copy of it to every person who made a representation under paragraph (1).
 
-### 26. Responsibility for determining applications and proposals[^key-405516dc2c4e534787ff7fd2441f00ba]
+### 26. Responsibility for determining applications and proposals[^c-405516dc2c4e534787ff7fd2441f00ba]
 
 (1) Subject to paragraph (2)—
 
@@ -604,7 +604,7 @@ A notice of an application or proposal which is required to be published, posted
 
 (7) If the applicant fails to comply with any direction given under this regulation or, where applicable, fails to comply within the time specified, the Planning Inspectorate may treat the application as abandoned.
 
-### 27. Method of determining applications and proposals[^key-2396cfc7704db300fc8842209694990d]
+### 27. Method of determining applications and proposals[^c-2396cfc7704db300fc8842209694990d]
 
 (1) The determining authority must, in determining any application or proposal, take into account—
 
@@ -639,7 +639,7 @@ and may specify the time within which any such further representations must be m
 - (a) may not refuse an application without first offering the applicant an opportunity to make oral representations; and
 - (b) may not grant or refuse an application or proposal without first offering any person (other than the applicant) for whom the grant or refusal (as the case may be) would represent a determination of that person’s civil rights an opportunity to make oral representations.
 
-### 28. Notice of public inquiry or hearing[^key-4b3c52059a0f4c4e9392754d56acc89e]
+### 28. Notice of public inquiry or hearing[^c-4b3c52059a0f4c4e9392754d56acc89e]
 
 If a public inquiry or a hearing is to be held in relation to an application or proposal, the determining authority must ensure that a notice of the inquiry or hearing is—
 
@@ -651,7 +651,7 @@ If a public inquiry or a hearing is to be held in relation to an application or 
   - (iv) any other person whom the determining authority invited under regulation 27(4)(d) to make written representations; and
 - (c) as the determining authority considers necessary, publicised by such other means or served on such other persons as may be appropriate to bring the inquiry to the attention of persons likely to be affected by the application or proposal.
 
-### 29. Public inquiries: general provisions[^key-6bdb8bcb76d472b263189350803a370e]
+### 29. Public inquiries: general provisions[^c-6bdb8bcb76d472b263189350803a370e]
 
 (1) Where it has been decided that a public inquiry is to be held in relation to an application or proposal, the determining authority must appoint an inspector—
 
@@ -687,7 +687,7 @@ if the inspector considers it to be irrelevant or repetitious.
 - (a) adjourn an inquiry to another date;
 - (b) adjourn an inquiry to the site of any land affected by the application or proposal, and conduct part of the inquiry at that site in conjunction with a site inspection.
 
-### 30. Pre-inquiry meeting[^key-ad413bf861d5e00dec3088234bd0d926]
+### 30. Pre-inquiry meeting[^c-ad413bf861d5e00dec3088234bd0d926]
 
 (1) Where it has been decided to hold a public inquiry, the inspector may, if the inspector considers it desirable, hold a pre-inquiry meeting to determine the matters to be addressed and the procedure to be followed at the inquiry.
 
@@ -713,7 +713,7 @@ if the inspector considers it to be irrelevant or repetitious.
 - (a) the inspector; and
 - (b) such other persons as the inspector may specify.
 
-### 31. Procedure at inquiries[^key-3a42116f4cb360680b4bbf3d56118ded]
+### 31. Procedure at inquiries[^c-3a42116f4cb360680b4bbf3d56118ded]
 
 (1) At the start of an inquiry, the inspector must—
 
@@ -728,7 +728,7 @@ if the inspector considers it to be irrelevant or repetitious.
 - (a) the written statement is to be treated as the person’s evidence, or as part of the person’s evidence; and
 - (b) other parties at the inquiry may cross-examine the person on the written statement.
 
-### 32. Hearings[^key-ad6cb0fe705bf29d1f343cf696938dac]
+### 32. Hearings[^c-ad6cb0fe705bf29d1f343cf696938dac]
 
 (1) Where the Planning Inspectorate decides that a hearing is to be held in relation to an application or proposal for which it is the determining authority, it must appoint an inspector to hold the hearing.
 
@@ -743,7 +743,7 @@ if the inspector considers it to be irrelevant or repetitious.
 
 (5) Cross-examination is not permitted unless the inspector decides that it is necessary to ensure a sufficient examination of the issues.
 
-### 33. Site inspections[^key-a3bffeebe7e2ae1bef32866db36d68d1]
+### 33. Site inspections[^c-a3bffeebe7e2ae1bef32866db36d68d1]
 
 (1) Where an inspector is appointed to hold a public inquiry, the inspector must (unless any permission necessary to do so is refused) inspect the land affected by the application or proposal before determining the application or proposal or producing a report to the determining authority.
 
@@ -755,7 +755,7 @@ if the inspector considers it to be irrelevant or repetitious.
 
 (5) The inspection does not need to be postponed if the applicant or their representative is not present at the appointed time.
 
-### 34. Changes of procedure[^key-71b2af66144d70891f38438cf46162c0]
+### 34. Changes of procedure[^c-71b2af66144d70891f38438cf46162c0]
 
 (1) This regulation applies where notice has been given under regulation 28 that a public inquiry or (where the Planning Inspectorate is the determining authority) a hearing is to be held in relation to the application or proposal.
 
@@ -773,7 +773,7 @@ if the inspector considers it to be irrelevant or repetitious.
 - (a) the applicant, before deciding to change the procedure for determining an application; or
 - (b) the referring authority, before deciding to change the procedure for determining a proposal.
 
-### 35. Consultation requirement[^key-11573440df2e6d47cdaaad44c7af1e96]
+### 35. Consultation requirement[^c-11573440df2e6d47cdaaad44c7af1e96]
 
 The determining authority must consult Natural England before determining an application to register—
 
@@ -782,7 +782,7 @@ The determining authority must consult Natural England before determining an app
 
 of a right of common consisting of a right to graze any animal.
 
-### 36. Action to be taken following determination of application or proposal[^key-b25ea7c77ab755fa07f4bc1b2fb0fb30]
+### 36. Action to be taken following determination of application or proposal[^c-b25ea7c77ab755fa07f4bc1b2fb0fb30]
 
 (1) Where an application is granted or a decision is made to give effect to a proposal, in whole or in part, the registration authority must give effect to the determination in the appropriate register by addition, deletion, correction, or otherwise as may be appropriate.
 
@@ -799,7 +799,7 @@ of a right of common consisting of a right to graze any animal.
 
 (4) The registration authority must publish the decision in relation to any application or proposal, and the reasons for it, on its website.
 
-### 37. Award of costs in relation to certain applications[^key-d51dd13a22d381789f4e2bc9dbae5fc4]
+### 37. Award of costs in relation to certain applications[^c-d51dd13a22d381789f4e2bc9dbae5fc4]
 
 (1) This regulation applies in relation to an application under Schedule 2 to the 2006 Act where—
 
@@ -821,7 +821,7 @@ of a right of common consisting of a right to graze any animal.
 
 ## PART 4 — Miscellaneous
 
-### 38. The transitional period and transitional application period[^key-4009729ddc56912035c4b8c76d4f6544]
+### 38. The transitional period and transitional application period[^c-4009729ddc56912035c4b8c76d4f6544]
 
 (1) For a 2014 registration authority, the transitional period for the purposes of paragraphs 2 to 5 of Schedule 3 to the 2006 Act is the period from 15th December 2014 to 14th December 2018.
 
@@ -829,7 +829,7 @@ of a right of common consisting of a right to graze any animal.
 
 (3) The transitional application period is the period from 15th December 2014 to 14th December 2017.
 
-### 39. Notice of the transitional period[^key-79e5e5b6120e0d4386cae69d2d1afe71]
+### 39. Notice of the transitional period[^c-79e5e5b6120e0d4386cae69d2d1afe71]
 
 (1) Each 2014 registration authority must, as soon as reasonably practicable after 15th December 2014, publicise the transitional period in its area by—
 
@@ -854,7 +854,7 @@ of a right of common consisting of a right to graze any animal.
   - (ii) that a qualifying event may not be registered pursuant to an application made after the end of that period, if it would be unfair to do so by reason of any reliance placed on the registers since the end of that period; and
   - (iii) that if a qualifying event has not been registered by the end of the transitional period, rights of common may be extinguished, or rights previously surrendered or extinguished may be revived.
 
-### 40. Review of the registers[^key-b7e24d7f74d6b5509fdedba5cca6c53a]
+### 40. Review of the registers[^c-b7e24d7f74d6b5509fdedba5cca6c53a]
 
 Each 2014 registration authority must, during the period 15th December 2014 to 14th December 2017—
 
@@ -864,7 +864,7 @@ Each 2014 registration authority must, during the period 15th December 2014 to 1
   - (i) prepare a statement of the proposal in accordance with regulation 18(1); and
   - (ii) publicise the proposal in accordance with regulation 22.
 
-### 41. Determination of applications and proposals to amend the registers[^key-dbdd4beefb20d76af75d67bd243a5620]
+### 41. Determination of applications and proposals to amend the registers[^c-dbdd4beefb20d76af75d67bd243a5620]
 
 (1) By the end of the transitional period—
 
@@ -884,7 +884,7 @@ Each 2014 registration authority must, during the period 15th December 2014 to 1
 
 (5) Where this paragraph applies, the determining authority may not determine that a register entry should be amended if it considers that, by reason of reliance reasonably placed on the register by a person since the end of the transitional period, it would be unfair to do so.
 
-### 42. Further amendment of registers under Schedule 3 to the 2006 Act[^key-371bd9c18cf8188f865f36baeb13434f]
+### 42. Further amendment of registers under Schedule 3 to the 2006 Act[^c-371bd9c18cf8188f865f36baeb13434f]
 
 (1) A 2014 registration authority may, subject to regulation 41(5), amend its registers after the end of the transitional period in consequence of a qualifying event, pursuant to an application made before or after the end of that period.
 
@@ -901,7 +901,7 @@ Each 2014 registration authority must, during the period 15th December 2014 to 1
 
 (6) Where a right of common is registered in consequence of a qualifying event, paragraph 3 of Schedule 3 to the 2006 Act is to be treated as not having applied to that right of common.
 
-### 43. Declaration of entitlement to exercise a right of common[^key-488c50adda6c8f8e153d70315ebb78a5]
+### 43. Declaration of entitlement to exercise a right of common[^c-488c50adda6c8f8e153d70315ebb78a5]
 
 (1) The owner of—
 
@@ -933,7 +933,7 @@ may apply to amend the relevant entry in the rights section of the register unit
 
 (8) In this regulation, “individual register” means the register so named in rule 2 of the Land Registration Rules 2003[^f00009], the contents and arrangement of which are described in rules 3 and 4 of those Rules.
 
-### 44. Operation at law of relevant instruments effecting statutory dispositions[^key-60c388a1ecbe5538e18e0759a794dbd7]
+### 44. Operation at law of relevant instruments effecting statutory dispositions[^c-60c388a1ecbe5538e18e0759a794dbd7]
 
 (1) This regulation applies where a relevant instrument—
 
@@ -951,7 +951,7 @@ may apply to amend the relevant entry in the rights section of the register unit
 
 (4) In paragraph (2) “disposition” means a disposition to which paragraph 8 of Schedule 4 applies.
 
-### 45. Severance by transfer to Natural England[^key-94f3837a1dbe45c1dbbe000f4ef8061d]
+### 45. Severance by transfer to Natural England[^c-94f3837a1dbe45c1dbbe000f4ef8061d]
 
 (1) A notice under paragraph 1(2) of Schedule 1 to the 2006 Act of a proposal to sever a right of common from the land to which it is attached by transferring it on its own to Natural England must, in addition to the matters set out in paragraph 1(3) of Schedule 1 to the 2006 Act—
 
@@ -967,7 +967,7 @@ may apply to amend the relevant entry in the rights section of the register unit
 - (d) the register unit number of the land over which the right of common is exercisable; and
 - (e) where the right of common is exercisable over part only of that register unit, a description of that part of the register unit over which the right is exercisable.
 
-### 46. Matters affecting the public[^key-5242903b72fcf30500cc1ebe73b26b3b]
+### 46. Matters affecting the public[^c-5242903b72fcf30500cc1ebe73b26b3b]
 
 (1) Where registered land is affected by any of the matters referred to in paragraph (2), the registration authority—
 
@@ -995,7 +995,7 @@ may apply to amend the relevant entry in the rights section of the register unit
 
 (5) If a registration authority is satisfied on reasonable grounds that the matter to which it relates is no longer subsisting, the registration authority may cancel any note entered in a register.
 
-### 47. Registration under Land Registration Act 2002[^key-3b2a2973f2eb5e2fd666e65c16011fe4]
+### 47. Registration under Land Registration Act 2002[^c-3b2a2973f2eb5e2fd666e65c16011fe4]
 
 (1) Paragraphs (2) and (3) apply in relation to any registered land where—
 
@@ -1006,7 +1006,7 @@ may apply to amend the relevant entry in the rights section of the register unit
 
 (3) If the ownership of the land is registered in the ownership section of the register unit, the registration authority must (in addition to deleting the registration of the ownership as required by paragraph 8(2) of Schedule 3 to the 2006 Act) insert a note in the ownership section.
 
-### 48. Deregistration and exchange: action to be taken by registration authority on receipt of order[^key-a63c946b7e4d86278bc5e2678325381f]
+### 48. Deregistration and exchange: action to be taken by registration authority on receipt of order[^c-a63c946b7e4d86278bc5e2678325381f]
 
 (1) Paragraph (2) applies where the Secretary of State has granted an application under section 16 of the 2006 Act and made an order to a registration authority under section 17(1), or under section 17(1) and (2), of the 2006 Act.
 
@@ -1015,13 +1015,13 @@ may apply to amend the relevant entry in the rights section of the register unit
 - (a) the applicant under section 16 of the 2006 Act; and
 - (b) the Secretary of State.
 
-### 49. Vacant benefices[^key-8ae62a102daacc75f20b3cab0ebe6997]
+### 49. Vacant benefices[^c-8ae62a102daacc75f20b3cab0ebe6997]
 
 Where any land or rights of common belong to an ecclesiastical benefice of the Church of England and the benefice is vacant, anything done with respect to the land or rights of common which, if the benefice had an incumbent, might by virtue of the 2006 Act or these Regulations be done by or to the incumbent may be done by or to the Diocesan Board of Finance for the diocese in which the land is situated.
 
 ## PART 5 — Supplemental
 
-### 50. Electronic communications[^key-9a65272da31bdfc8c600975b91db1d78]
+### 50. Electronic communications[^c-9a65272da31bdfc8c600975b91db1d78]
 
 (1) Any requirement by or under these Regulations for a person to send a notice or document to another person may be met by means of an electronic communication if—
 
@@ -1034,14 +1034,14 @@ Where any land or rights of common belong to an ecclesiastical benefice of the C
 
 (4) Paragraphs (1) and (3) do not apply in relation to the submission of an application form to a registration authority.
 
-### 51. Service of documents[^key-44828922277a9178d5116e1b54096011]
+### 51. Service of documents[^c-44828922277a9178d5116e1b54096011]
 
 Any requirement in these Regulations to serve a document on another person is satisfied, if that person cannot be found, by—
 
 - (a) leaving the document at that person’s last known address; or
 - (b) sending the document by post to that address.
 
-### 52. Inspection and copying of documents[^key-9547821d89b1aa9046de962b33b1af91]
+### 52. Inspection and copying of documents[^c-9547821d89b1aa9046de962b33b1af91]
 
 (1) Any request to inspect or make copies of any document referred to in section 20(1)(b) or (c) of the 2006 Act must be treated by the registration authority as a request for information under the relevant legislation.
 
@@ -1049,7 +1049,7 @@ Any requirement in these Regulations to serve a document on another person is sa
 
 (3) In this regulation and in regulation 53, “relevant legislation” means the Environmental Information Regulations 2004[^f00015] or the Freedom of Information Act 2000[^f00016].
 
-### 53. Official copies[^key-c7961f0fe8e8b140510a11a4fa273a2b]
+### 53. Official copies[^c-c7961f0fe8e8b140510a11a4fa273a2b]
 
 (1) Any person may request a registration authority to provide an official copy of, or of any part of, any register or document referred to in section 21(1) of the 2006 Act.
 
@@ -1059,7 +1059,7 @@ Any requirement in these Regulations to serve a document on another person is sa
 
 (4) A registration authority may refuse a request to provide an official copy of, or of any part of, a document referred to in section 20(1)(b) or (c) of the 2006 Act where the relevant legislation does not require the information contained in the document to be communicated or made available.
 
-### 54. Revocations, transitional and savings provisions[^key-d39e94fb3fe10f165f0f180d4516ebf1]
+### 54. Revocations, transitional and savings provisions[^c-d39e94fb3fe10f165f0f180d4516ebf1]
 
 (1) The following enactments are revoked—
 
@@ -1098,11 +1098,11 @@ Department for Environment, Food and Rural Affairs
 
 12th November 2014
 
-## SCHEDULE 1 — Registration authorities[^key-aaf837927e9a1d049c0ed69929838818]
+## SCHEDULE 1 — Registration authorities[^c-aaf837927e9a1d049c0ed69929838818]
 
 Regulation 1(2)
 
-[^key-aaf837927e9a1d049c0ed69929838818]
+[^c-aaf837927e9a1d049c0ed69929838818]
 
 - Blackburn with Darwen Borough Council
 - Cornwall Council
@@ -1114,7 +1114,7 @@ Regulation 1(2)
 - Lancashire County Council
 - North Yorkshire County Council
 
-## SCHEDULE 2 — Forms[^key-821c909c074053a3fdd1442752c7471c]
+## SCHEDULE 2 — Forms[^c-821c909c074053a3fdd1442752c7471c]
 
 Regulation 2(1)
 
@@ -1124,125 +1124,125 @@ Regulation 2(1)
 
 ### PART 1 — Model Entries
 
-#### Model Entry 1 — For the general part of the register.[^key-8c3172e90216bfda84b85ed70ed6020b]
+#### Model Entry 1 — For the general part of the register.[^c-8c3172e90216bfda84b85ed70ed6020b]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_006)
 
-#### Model Entry 2 — For the general part of the register.[^key-b42b6b14284e31e26715c1fa20e4907d]
+#### Model Entry 2 — For the general part of the register.[^c-b42b6b14284e31e26715c1fa20e4907d]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_007)
 
-#### Model Entry 3 — For the rights section of the register.[^key-e726d6f9b11dfc3ea9ce6ff3ef2ec798]
+#### Model Entry 3 — For the rights section of the register.[^c-e726d6f9b11dfc3ea9ce6ff3ef2ec798]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_008)
 
-#### Model Entry 4 — For the rights section of the register.[^key-5d766f03237f57783cb67fd6b1448967]
+#### Model Entry 4 — For the rights section of the register.[^c-5d766f03237f57783cb67fd6b1448967]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_009)
 
-#### Model Entry 5 — For the rights section of the register.[^key-f4bcea2618876a507e9e86ebe14e1e1b]
+#### Model Entry 5 — For the rights section of the register.[^c-f4bcea2618876a507e9e86ebe14e1e1b]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_010)
 
-#### Model Entry 6 — For the rights section of the register.[^key-50ce668a075c644df652eca6467e5dd0]
+#### Model Entry 6 — For the rights section of the register.[^c-50ce668a075c644df652eca6467e5dd0]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_011)
 
-#### Model Entry 7 — For the rights section of the register.[^key-b67a34402dde574767ef133f6b3322a7]
+#### Model Entry 7 — For the rights section of the register.[^c-b67a34402dde574767ef133f6b3322a7]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_012)
 
-#### Model Entry 8 — For the rights section of the register.[^key-0736735b10ad86fad085bff3f29a6bb5]
+#### Model Entry 8 — For the rights section of the register.[^c-0736735b10ad86fad085bff3f29a6bb5]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_013)
 
-#### Model Entry 9 — For the rights section of the register.[^key-46815d945731b7f76c553f635a92a048]
+#### Model Entry 9 — For the rights section of the register.[^c-46815d945731b7f76c553f635a92a048]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_014)
 
-#### Model Entry 10 — For the rights section of the register.[^key-1a1ffb4fc958ae639e32c4491eb9a686]
+#### Model Entry 10 — For the rights section of the register.[^c-1a1ffb4fc958ae639e32c4491eb9a686]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_015)
 
-#### Model Entry 11 — For the rights section of the register.[^key-ae9cbcb66cbd5039fecc0aa21c2127b8]
+#### Model Entry 11 — For the rights section of the register.[^c-ae9cbcb66cbd5039fecc0aa21c2127b8]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_016)[image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_017)
 
-#### Model Entry 12 — For the rights section of the register.[^key-69662ae9679c7bfd3ee91bf079b291a1]
+#### Model Entry 12 — For the rights section of the register.[^c-69662ae9679c7bfd3ee91bf079b291a1]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_018)
 
-#### Model Entry 13 — For the rights section of the register.[^key-dfb7bc48da53668d2719179dca1bd389]
+#### Model Entry 13 — For the rights section of the register.[^c-dfb7bc48da53668d2719179dca1bd389]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_019)[image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_020)
 
-#### Model Entry 14 — For the rights section of the register.[^key-9e36c0ad994ea00c95c8333d0b156fa5]
+#### Model Entry 14 — For the rights section of the register.[^c-9e36c0ad994ea00c95c8333d0b156fa5]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_021)
 
-#### Model Entry 15 — For the land section of the register.[^key-a7d9793c5e7d90b137215ff200135ad1]
+#### Model Entry 15 — For the land section of the register.[^c-a7d9793c5e7d90b137215ff200135ad1]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_022)
 
-#### Model Entry 16 — For the land section of the register.[^key-b15748d40ae868940a570809a7f56b98]
+#### Model Entry 16 — For the land section of the register.[^c-b15748d40ae868940a570809a7f56b98]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_023)
 
-#### Model Entry 17 — For the land section of the register.[^key-9960f22eaea8bd36f80628826ce2e042]
+#### Model Entry 17 — For the land section of the register.[^c-9960f22eaea8bd36f80628826ce2e042]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_024)
 
-#### Model Entry 18 — For the land section of the register.[^key-9dd6fe0a3cf7429a9b7547b8f80f0dfd]
+#### Model Entry 18 — For the land section of the register.[^c-9dd6fe0a3cf7429a9b7547b8f80f0dfd]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_025)
 
-#### Model Entry 19 — For the land section of the register.[^key-d607e2ad6fc6f9252c409b96a35cb8c2]
+#### Model Entry 19 — For the land section of the register.[^c-d607e2ad6fc6f9252c409b96a35cb8c2]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_026)
 
-#### Model Entry 20 — For the land section of the register.[^key-7e46d220b6b70fd3e6c0da16572ac908]
+#### Model Entry 20 — For the land section of the register.[^c-7e46d220b6b70fd3e6c0da16572ac908]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_027)
 
-#### Model Entry 21 — For notes, land section of the register.[^key-68c6f192dd1a4f2688c34ffea43f4ae0]
+#### Model Entry 21 — For notes, land section of the register.[^c-68c6f192dd1a4f2688c34ffea43f4ae0]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_028)
 
-#### Model Entry 22 — For notes, land section of the register.[^key-84c9eacdebf2f673177a9892a699b128]
+#### Model Entry 22 — For notes, land section of the register.[^c-84c9eacdebf2f673177a9892a699b128]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_029)
 
-#### Model Entry 23 — For notes, ownership section of the register.[^key-0610c2965836dcd607e6ff411bea020d]
+#### Model Entry 23 — For notes, ownership section of the register.[^c-0610c2965836dcd607e6ff411bea020d]
 
 **Registration under Land Registration Act 2002**
 
 The freehold estate in the part of the land comprised in this register unit lying south of the line A-B-C on the register map has been registered under the Land Registration Act 2002, with title number SZ234567.
 
-#### Model Entry 24 — For ownership section of the register.[^key-367c542616d705982e15ac176eb42c67]
+#### Model Entry 24 — For ownership section of the register.[^c-367c542616d705982e15ac176eb42c67]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/3038/images/uksi_20143038_en_030)
 
 ### PART 2 — Standard Entries
 
-#### Standard Entry 1 — For register map[^key-8e41dbe2b0568cf429fbf0aac7b12d5b]
+#### Standard Entry 1 — For register map[^c-8e41dbe2b0568cf429fbf0aac7b12d5b]
 
 **Indorsement**
 
 - “Register Map of \[Common Land\] \[Town or Village Greens\]\* (Sheet No. …..). This is the …. edition of this \[map\] \[sheet\]\* ”
 
-#### Standard Entry 2 — For register or register map.[^key-9f1afe9627b8041f43ff4382caef94c1]
+#### Standard Entry 2 — For register or register map.[^c-9f1afe9627b8041f43ff4382caef94c1]
 
 **Indorsement**
 
 - “This \[map\] \[sheet\]\* was replaced by a fresh edition on … …… 20….”
 
-#### Standard Entry 3 — For column 5 of the rights section[^key-7991c57e1e049c4bf3984841bb519d2f]
+#### Standard Entry 3 — For column 5 of the rights section[^c-7991c57e1e049c4bf3984841bb519d2f]
 
 **Supplemental maps**
 
 - “The land at …………. as shown \[hatched blue\]\* within the boundary on the supplemental map bearing the number of this registration”
 
-#### Standard Entry 4 — For the supplemental map[^key-1965b418f4beb24f47b627fd0f3830f9]
+#### Standard Entry 4 — For the supplemental map[^c-1965b418f4beb24f47b627fd0f3830f9]
 
 **Supplemental maps**
 
@@ -1254,7 +1254,7 @@ The freehold estate in the part of the land comprised in this register unit lyin
 
 Regulation 16(2)
 
-### 1. Applications under section 6: creation of right of common[^key-a658e949bf821151b07cbfe48de15af8]
+### 1. Applications under section 6: creation of right of common[^c-a658e949bf821151b07cbfe48de15af8]
 
 (1) An application under section 6 of the 2006 Act may only be made by—
 
@@ -1279,7 +1279,7 @@ and the application must show in which capacity it is made.
 - (d) a description of the land to which the right of common is to be attached; and
 - (e) where the right of common to be created consists of a right to graze any animal, evidence that the land over which that right would be exercisable is able to sustain the exercise of that right (together with, if the land is already registered as common land, any other rights of common to graze animals already registered as exercisable over that land).
 
-### 2. Applications under section 7: variation of right of common[^key-c741e6f9fe8c812ff8579c0184ef5f26]
+### 2. Applications under section 7: variation of right of common[^c-c741e6f9fe8c812ff8579c0184ef5f26]
 
 (1) An application under section 7 of the 2006 Act may only be made by—
 
@@ -1310,7 +1310,7 @@ and the application must show in which capacity it is made.
 - (a) identify that part of the land to which it is attached; and
 - (b) be accompanied by an application made for the purposes of section 8 of the 2006 Act.
 
-### 3. Applications for the purposes of section 8: apportionment of right of common[^key-75d2bb9df52edbd7468403488dcd5465]
+### 3. Applications for the purposes of section 8: apportionment of right of common[^c-75d2bb9df52edbd7468403488dcd5465]
 
 (1) An application for the purposes of section 8 of the 2006 Act (in relation to the apportionment of a right of common which is attached to land) must accompany any application (“the primary application”) which—
 
@@ -1339,7 +1339,7 @@ and the application must show in which capacity it is made.
 - (d) a calculation as to what constitutes a rateable apportionment of the right of common between the land in respect of which a description and details of ownership are required by paragraph (c) and any remaining land to which the right of common is attached; and
 - (e) in the case of applications made by two or more owners of different parts of the land, a description of the portions attaching to the part of each such applicant.
 
-### 4. Applications under section 10: attachment of right of common to land[^key-768d93df014249e98e2567b41cdd60e1]
+### 4. Applications under section 10: attachment of right of common to land[^c-768d93df014249e98e2567b41cdd60e1]
 
 (1) Where an applicant under section 10 of the 2006 Act is not the person entitled to occupy the land to which the right of common is to be attached, the application must show that that person consents to the application.
 
@@ -1351,7 +1351,7 @@ and the application must show in which capacity it is made.
   - (i) the applicant is the owner of the right of common to be attached; and
   - (ii) where a person’s consent is given under sub-paragraph (1), that person is entitled to occupy the land to which the right of common is to be attached.
 
-### 5. Applications under section 11: re-allocation of a right of common[^key-d9fa590f718bfe0879f6258d34d0bd0f]
+### 5. Applications under section 11: re-allocation of a right of common[^c-d9fa590f718bfe0879f6258d34d0bd0f]
 
 (1) An application under section 11 of the 2006 Act must show that the following persons consent to it—
 
@@ -1380,7 +1380,7 @@ and the application must show in which capacity it is made.
 
 (5) For the purposes of this paragraph “single payment scheme” has the meaning it is given in the Common Agricultural Policy Single Payment and Support Schemes Regulations 2010[^f00021].
 
-### 6. Applications under section 12: transfer of right in gross[^key-e4a00506be6ee4514810fe764519ae15]
+### 6. Applications under section 12: transfer of right in gross[^c-e4a00506be6ee4514810fe764519ae15]
 
 (1) An application under section 12 of the 2006 Act may only be made by—
 
@@ -1394,7 +1394,7 @@ and the application must show in which capacity it is made.
 - (a) evidence of the applicant’s capacity to make the application by virtue of sub-paragraph (1)(a) or (b); and
 - (b) the numbers of the register unit and the rights section entry in the register of common land or town or village greens for the right of common to which the application relates.
 
-### 7. Applications under section 13: surrender or extinguishment of right of common[^key-00ab19f9c614073e36dc0fdb7882a420]
+### 7. Applications under section 13: surrender or extinguishment of right of common[^c-00ab19f9c614073e36dc0fdb7882a420]
 
 (1) An application under section 13 of the 2006 Act may only be made by—
 
@@ -1418,7 +1418,7 @@ and the application must show in which capacity it is made.
 - (a) identify that part of the land to which it is attached; and
 - (b) be accompanied by an application made for the purposes of section 8 of the 2006 Act.
 
-### 8. Applications pursuant to section 14: statutory dispositions[^key-bc4402a2ec624464ab27446cc451967c]
+### 8. Applications pursuant to section 14: statutory dispositions[^c-bc4402a2ec624464ab27446cc451967c]
 
 (1) This paragraph applies to applications referred to in sub-paragraph (2).
 
@@ -1456,7 +1456,7 @@ Statutory dispositions: persons who must apply for amendment of register
 | Inclosure Act 1846[^f00026], section 11 | The exchange of any registered right of common defined by numbers or stints, in or to be exercised over any land, for any such right exercised over any other land | The order made by the Secretary of State by which that exchange is effected | The applicants for the order |
 | Malvern Hills Act 1930[^f00027], section 8 | The sale, lease, exchange or absolute disposal free from any rights or restrictions of any part or parts of the Malvern Hills comprising registered common land | The deed or other instrument made by the Malvern Hills Conservators (with the consent of the Secretary of State) effecting that disposition | The Malvern Hills Conservators |
 | Malvern Hills Act 1930, section 9 | The sale or exchange of any part or parts of the Malvern Hills comprising registered common land, for the purpose of adjusting, defining or improving the boundaries of the Malvern Hills | The deed or other instrument made by the Malvern Hills Conservators (with the consent of the Secretary of State) effecting that disposition | The Malvern Hills Conservators |
-| [^key-96169ebec946905b0d9b60a3522487ad]. . . | [^key-96169ebec946905b0d9b60a3522487ad]. . . | [^key-96169ebec946905b0d9b60a3522487ad]. . . | [^key-96169ebec946905b0d9b60a3522487ad]. . . |
+| [^c-96169ebec946905b0d9b60a3522487ad]. . . | [^c-96169ebec946905b0d9b60a3522487ad]. . . | [^c-96169ebec946905b0d9b60a3522487ad]. . . | [^c-96169ebec946905b0d9b60a3522487ad]. . . |
 | Compulsory Purchase Act 1965[^f00029], section 21 and Schedule 4 (as applying in relation to, or by virtue of, another Act) | The compulsory purchase of registered common land or of a registered town or village green, resulting (after payment of compensation) in the extinguishment of all commonable or other rights in that land | The conveyance, executed deed poll or vesting declaration, together with the compulsory purchase order, effecting that disposition | The acquiring authority, as defined in section 1(3) of the Act |
 | Greater London Parks and Open Spaces Order 1967[^f00030], articles 7, 8 and 12 | Erecting, or permitting to erect any building or other structure on, or enclosing permanently, or permitting to be enclosed permanently, any part of land which is registered as common land or as a town or village green | The instrument by which the erection of the building or the permanent enclosure (or, in either case, the permission to do the same), (where applicable with the consent of the Secretary of State), was confirmed | The London borough council that is party to the disposition |
 | Greater London Parks and Open Spaces Order 1967, article 15 | The exchange of open space for adjacent land where that open space is registered as common land or town or village green | The deed or other instrument by which that agreement is made | The London borough council that is party to the agreement |
@@ -1466,9 +1466,9 @@ Statutory dispositions: persons who must apply for amendment of register
 | Acquisition of Land Act 1981[^f00034], section 19 and paragraph 6 of Schedule 3 | Either—<br>(a) the compulsory purchase of registered common land or of a registered town or village green (other than in a case certified by the Secretary of State under section 19(1)(aa) of the Act), or<br>(b) the compulsory acquisition of a right over land forming part of such registered common land or green (other than in a case certified by the Secretary of State under paragraph 6(1)(a) or (aa) of Schedule 3 to the Act) | The compulsory purchase order effecting that disposition, and any vesting declaration, and any deed made under the authority of that order, by which, as a consequence of the disposition, any right, trust or incident was discharged or any right acquired | The acquiring authority (as defined in section 7(1) of the Act) |
 | Town and Country Planning Act 1990[^f00035], section 229 (as read with section 19 of the Acquisition of Land Act 1981) | The appropriation of land forming part of registered common land or of a town or village green | The order authorising the appropriation made by the local authority and confirmed by the Secretary of State | The local authority authorised by the order |
 | Planning Act 2008[^f00036], section 131 or 132 | Either—<br>(a) the compulsory acquisition of registered common land or of a registered town or village green, or<br>(b) the compulsory acquisition of a right over land forming part of such registered common land or green | The order granting development consent | The applicants for the order |
-| Church Property Measure 2018, sections 28 and 30[^key-03fc360369682a29948ca291dd5fde53] | The disposition of registered common land, made with the consent of the Secretary of State under section 30 | The deed by which the disposition of the land is made to the Diocesan Board of Finance for the diocese in which the land is situated | The Diocesan Board of Finance for the diocese in which the land is situated. |
+| Church Property Measure 2018, sections 28 and 30[^c-03fc360369682a29948ca291dd5fde53] | The disposition of registered common land, made with the consent of the Secretary of State under section 30 | The deed by which the disposition of the land is made to the Diocesan Board of Finance for the diocese in which the land is situated | The Diocesan Board of Finance for the diocese in which the land is situated. |
 
-### 9. Applications under section 15(1): registration of town or village green[^key-cfbaf4e73f2d88ea4ed814f8bfecae0a]
+### 9. Applications under section 15(1): registration of town or village green[^c-cfbaf4e73f2d88ea4ed814f8bfecae0a]
 
 An application under section 15(1) of the 2006 Act must—
 
@@ -1479,7 +1479,7 @@ An application under section 15(1) of the 2006 Act must—
   - (ii) the local geographical area within which it is situated; or
   - (iii) a map showing that locality or neighbourhood.
 
-### 10. Applications under section 15(8): registration of land as town or village green by its owner[^key-2e894cec48b0eceb0c9654499a9e4690]
+### 10. Applications under section 15(8): registration of land as town or village green by its owner[^c-2e894cec48b0eceb0c9654499a9e4690]
 
 (1) An application under section 15(8) of the 2006 Act for the purpose of registering land owned by the applicant as a town or village green must—
 
@@ -1493,7 +1493,7 @@ An application under section 15(1) of the 2006 Act must—
 - (b) the local geographical area within which it is situated; or
 - (c) a map showing that locality or neighbourhood.
 
-### 11. Applications under section 19(4)(b): amendment of a register of common land or town or village greens[^key-0997fd47d8abfbc3f105c21442461c21]
+### 11. Applications under section 19(4)(b): amendment of a register of common land or town or village greens[^c-0997fd47d8abfbc3f105c21442461c21]
 
 An application made under section 19(4)(b) of the 2006 Act must include—
 
@@ -1502,7 +1502,7 @@ An application made under section 19(4)(b) of the 2006 Act must include—
 - (c) evidence of the mistake or other matter in the register in respect of which the application seeks correction; and
 - (d) a description of the amendment sought in the register of common land or town or village greens.
 
-### 12. Applications under paragraph 1(6)(b) of Schedule 1: severance of right of common by transfer to public body[^key-7d13816b7267b2c9ff3051b323bcfb90]
+### 12. Applications under paragraph 1(6)(b) of Schedule 1: severance of right of common by transfer to public body[^c-7d13816b7267b2c9ff3051b323bcfb90]
 
 (1) An application made under paragraph 1(6)(b) of Schedule 1 to the 2006 Act, for the purpose of registering a transferee as the owner of a right of common upon the severance of that right, may only be made by—
 
@@ -1525,7 +1525,7 @@ An application made under section 19(4)(b) of the 2006 Act must include—
 - (a) identify that part of the land to which it is attached; and
 - (b) be accompanied by an application made for the purposes of section 8 of the 2006 Act.
 
-### 13. Applications under paragraph 3(7)(b) of Schedule 1: severance of right of common by order[^key-712c335f77b28fc05e43adba59b959d1]
+### 13. Applications under paragraph 3(7)(b) of Schedule 1: severance of right of common by order[^c-712c335f77b28fc05e43adba59b959d1]
 
 (1) An application made under paragraph 3(7)(b) of Schedule 1 to the 2006 Act, for the purpose of registering a transferee as the owner of a right of common upon the authorisation by order made under paragraph 3(1) of that Schedule of the severance of that right, may only be made by a person to whom the right of common to be severed is to be transferred, further to provision made by an order under paragraph 3(1) of that Schedule.
 
@@ -1543,7 +1543,7 @@ An application made under section 19(4)(b) of the 2006 Act must include—
 - (a) identify that part of the land to which it is attached; and
 - (b) be accompanied by an application made for the purposes of section 8 of the 2006 Act.
 
-### 14. Applications under Schedule 2: non-registration or mistaken registration[^key-4b30ec8c6a32b51d28365fc470c6da41]
+### 14. Applications under Schedule 2: non-registration or mistaken registration[^c-4b30ec8c6a32b51d28365fc470c6da41]
 
 (1) An application made under Schedule 2 to the 2006 Act, for the purpose of remedying non-registration or mistaken registration under the 1965 Act, must be made on or before—
 
@@ -1568,7 +1568,7 @@ An application made under section 19(4)(b) of the 2006 Act must include—
 
 (6) An application made under paragraph 4, 5, 6, 7, 8 or 9 of Schedule 2 to the 2006 Act must include evidence of the application of the appropriate paragraph, as described in paragraph 4(2), 5(2), 6(2), 7(2), 8(2) or 9(2) of that Schedule, to the land to which the application relates.
 
-### 15. Applications for the purposes of Schedule 3: creation of right of common[^key-f9371cfecdcb8066549d7ed3cce5a193]
+### 15. Applications for the purposes of Schedule 3: creation of right of common[^c-f9371cfecdcb8066549d7ed3cce5a193]
 
 (1) An application to amend a register in consequence of the creation of a right of common, which is a qualifying event by virtue of paragraph 2(2)(a) of Schedule 3 to the 2006 Act, may only be made by—
 
@@ -1588,7 +1588,7 @@ An application made under section 19(4)(b) of the 2006 Act must include—
 - (a) where the right of common was created by an instrument in writing, by a copy of that instrument;
 - (b) in any other case, by evidence of the creation of the right.
 
-### 16. Applications for the purposes of Schedule 3: surrender or extinguishment of right of common[^key-2fc6c6bc1b01f3128a6d8eab42aad92f]
+### 16. Applications for the purposes of Schedule 3: surrender or extinguishment of right of common[^c-2fc6c6bc1b01f3128a6d8eab42aad92f]
 
 (1) An application to amend a register in consequence of a surrender or extinguishment of a right of common, which is a qualifying event by virtue of paragraph 2(2)(b) of Schedule 3 to the 2006 Act, may only be made—
 
@@ -1611,7 +1611,7 @@ An application made under section 19(4)(b) of the 2006 Act must include—
 - (a) where the right of common was surrendered or extinguished by an instrument in writing, by a copy of that instrument; and
 - (b) in any other case, by evidence of the extinguishment of the right.
 
-### 17. Applications for the purposes of Schedule 3: variation of right of common[^key-886740ba0420e6decea6ab5f037a11f4]
+### 17. Applications for the purposes of Schedule 3: variation of right of common[^c-886740ba0420e6decea6ab5f037a11f4]
 
 (1) An application to amend a register in consequence of a variation of a right of common, which is a qualifying event by virtue of paragraph 2(2)(b) of Schedule 3 to the 2006 Act, may only be made by—
 
@@ -1636,7 +1636,7 @@ An application made under section 19(4)(b) of the 2006 Act must include—
 - (a) if the variation was made by an instrument in writing, by a copy of that instrument;
 - (b) in any other case, by evidence of the variation.
 
-### 18. Applications for the purposes of Schedule 3: apportionment of right of common[^key-a9c0bdf4b8987168487c42e11a3dd15a]
+### 18. Applications for the purposes of Schedule 3: apportionment of right of common[^c-a9c0bdf4b8987168487c42e11a3dd15a]
 
 (1) An application to amend a register in consequence of an apportionment of a right of common which is attached to land, which is a qualifying event by virtue of paragraph 2(2)(b) of Schedule 3 to the 2006 Act, may only be made if—
 
@@ -1670,7 +1670,7 @@ An application made under section 19(4)(b) of the 2006 Act must include—
 
 (5) In sub-paragraph (1), “disposition” and “relevant instrument” have the meanings given in paragraph 21(3).
 
-### 19. Applications for the purposes of Schedule 3: severance of right of common[^key-29af8bdb6c1210ead0b9dbbdc9e7b1e1]
+### 19. Applications for the purposes of Schedule 3: severance of right of common[^c-29af8bdb6c1210ead0b9dbbdc9e7b1e1]
 
 (1) An application to amend a register in consequence of the severance of a right of common from land to which it was attached, which is a qualifying event by virtue of paragraph 2(2)(b) of Schedule 3 to the 2006 Act, may only be made by—
 
@@ -1695,7 +1695,7 @@ An application made under section 19(4)(b) of the 2006 Act must include—
   - (i) other documentary evidence, contemporaneous to the time at which the applicant claims that the right of common was severed, of a common intention by the transferor and transferee of the right of common that it was to be severed; or
   - (ii) evidence that the right of common has subsequently been treated as severed.
 
-### 20. Applications for the purposes of Schedule 3: transfer of right in gross[^key-7b1f0a1218ec6c4b9c5f74c917420ea5]
+### 20. Applications for the purposes of Schedule 3: transfer of right in gross[^c-7b1f0a1218ec6c4b9c5f74c917420ea5]
 
 (1) An application to amend a register in consequence of the transfer of a right of common in gross, which is a qualifying event by virtue of paragraph 2(2)(b) of Schedule 3 to the 2006 Act, may only be made by—
 
@@ -1713,7 +1713,7 @@ An application made under section 19(4)(b) of the 2006 Act must include—
 
 (3) The application must be accompanied by a copy of the instrument in writing by which the right of common was transferred to the person who is its owner at the date of the application.
 
-### 21. Applications for the purposes of Schedule 3: statutory dispositions[^key-63ef4baf0cae5e6e372d2db101320930]
+### 21. Applications for the purposes of Schedule 3: statutory dispositions[^c-63ef4baf0cae5e6e372d2db101320930]
 
 (1) An application may be made by any person to amend a register in consequence of—
 
@@ -1739,7 +1739,7 @@ An application made under section 19(4)(b) of the 2006 Act must include—
 
 (4) In sub-paragraph (3), a “predecessor enactment” means a repealed or revoked enactment which has been substantially re-enacted by an enactment listed in column 1 of the table in paragraph 8.
 
-## SCHEDULE 5 — Application of a type and purpose for which registration authorities may not specify a fee[^key-6315b46972076fcb8e9d1d25bfd4d072]
+## SCHEDULE 5 — Application of a type and purpose for which registration authorities may not specify a fee[^c-6315b46972076fcb8e9d1d25bfd4d072]
 
 Regulation 17(4)
 
@@ -1757,7 +1757,7 @@ Regulation 17(4)
 | Schedule 2, paragraph 5, to the 2006 Act | town or village green wrongly registered as common land |
 | Schedule 3, paragraph 2, to the 2006 Act: application made during the transitional application period | for any of the following purposes –<br>creation of a right of common;<br>surrender or extinguishment of a right of common;<br>variation of a right of common;<br>apportionment of a right of common (to facilitate any other purpose);<br>severance of a right of common;<br>transfer of a right in gross;<br>statutory disposition (including the exchange of land for land subject to a statutory disposition) |
 
-## SCHEDULE 6 — Fees payable to the Planning Inspectorate[^key-bfcc40a68fd23100e69a8ae939ae047b]
+## SCHEDULE 6 — Fees payable to the Planning Inspectorate[^c-bfcc40a68fd23100e69a8ae939ae047b]
 
 Regulation 17(6)
 
@@ -1802,13 +1802,13 @@ Regulation 17(6)
 
 Regulation 21(1)(c)
 
-**1.**[^key-7877daedb3b9c972a393ad5664bbaaaa] In all cases—
+**1.**[^c-7877daedb3b9c972a393ad5664bbaaaa] In all cases—
 
 - (a) any person who has made a declaration, duly recorded in the register, of entitlement to a right of common over any land comprising the whole or part of the register unit to which the application relates;
 - (b) any commons council established for, or other body representing the interests of persons with rights of common over, land which includes the land to which the application relates; and
 - (c) unless the registration authority decides otherwise pursuant to regulation 21(2), any person who is registered as the owner of a right of common in gross which is exercisable over all or part of the land to which the application relates.
 
-**2.**[^key-1ed93473ab696e95f6a51cfb742ddc06] Additionally, in the case of an application of a type specified in the first column of the following table, all the persons (other than where that person is the applicant) specified in the corresponding entry in the second column.
+**2.**[^c-1ed93473ab696e95f6a51cfb742ddc06] Additionally, in the case of an application of a type specified in the first column of the following table, all the persons (other than where that person is the applicant) specified in the corresponding entry in the second column.
 
 Additional persons on whom registration authority must serve notice of application
 
@@ -1831,12 +1831,12 @@ Additional persons on whom registration authority must serve notice of applicati
 
 Regulation 1(3)
 
-**1.**[^key-710a1237a9fba2789daf405ef7a2c0c5] To the extent, and subject to the modifications, described below, the following provisions of these Regulations apply to an application to a 1965 registration authority to amend its register of common land or its register of town or village greens under—
+**1.**[^c-710a1237a9fba2789daf405ef7a2c0c5] To the extent, and subject to the modifications, described below, the following provisions of these Regulations apply to an application to a 1965 registration authority to amend its register of common land or its register of town or village greens under—
 
 - (a) section 19 of the 2006 Act, for the purpose given in section 19(2)(a) (correcting a mistake made by the registration authority in making or amending an entry in the register); or
 - (b) Schedule 2 to the 2006 Act (non-registration or mistaken registration under the 1965 Act), paragraph 6, 7, 8 or 9.
 
-**2.**[^key-6cb01b3e397169cba03edfe9d922efa9] The provisions are—
+**2.**[^c-6cb01b3e397169cba03edfe9d922efa9] The provisions are—
 
 - (a) regulation 1;
 - (b) regulation 2 in respect of any definition given in that regulation to the extent that the defined term is required in the application of the provisions listed in this paragraph;
@@ -1866,7 +1866,7 @@ Regulation 1(3)
   - (i) under section 19, insofar as the application is for the purpose of section 19(2)(a); or
   - (ii) pursuant to paragraph 6, 7, 8 or 9 of Schedule 2 to the 2006 Act.
 
-**3.**[^key-548b4bff0a283e0c4caa8b8e3198011c] For the purpose of this Schedule, any application made to a 1965 registration authority, and any action subsequently taken by that authority, in relation to its register of common land or town or village greens before section 1 of the 2006 Act has come into force in relation to the area in which the land is situated shall apply in relation to that land and to any registration made in respect of it in such a register that is maintained for that area under the 1965 Act.
+**3.**[^c-548b4bff0a283e0c4caa8b8e3198011c] For the purpose of this Schedule, any application made to a 1965 registration authority, and any action subsequently taken by that authority, in relation to its register of common land or town or village greens before section 1 of the 2006 Act has come into force in relation to the area in which the land is situated shall apply in relation to that land and to any registration made in respect of it in such a register that is maintained for that area under the 1965 Act.
 
 EXPLANATORY NOTE
 
@@ -1895,9 +1895,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2006 c. 26](https://www.legislation.gov.uk/ukpga/2006/26): “appropriate national authority” and “regulations” are defined in section 61(1); section 24(2)(d) was repealed by section 17(a) of the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), and section 24(2A) and (2B) inserted by section 17(b) of the same Act; section 24(9) was amended by section 11 of the [Church of England (Miscellaneous Provisions) Measure 2010 (2010 No.1)](https://www.legislation.gov.uk/ukcm/2010/1); paragraph 1(1)(c) and (2) of Schedule 1 was amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 
-[^key-7a2422db9d78461e1c6d45150b01f647]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-7a2422db9d78461e1c6d45150b01f647]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-bd5677d0005cee1b2863bfb74f2ee6b1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/3038/regulation/2) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-bd5677d0005cee1b2863bfb74f2ee6b1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/3038/regulation/2) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
 [^f00002]: Footnote: [1965 c. 64](https://www.legislation.gov.uk/ukpga/1965/64).
 
@@ -1905,29 +1905,29 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00004]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-71996870beca2704f6379c61fded3e8d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/3038/regulation/3) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-71996870beca2704f6379c61fded3e8d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/3038/regulation/3) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-8430a79c2cec7d50ca9591a447d47734]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/3038/regulation/4) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-8430a79c2cec7d50ca9591a447d47734]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/3038/regulation/4) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-38c88fa971e14c4b3fb1fa982f242fa2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/3038/regulation/5) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-38c88fa971e14c4b3fb1fa982f242fa2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/3038/regulation/5) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-68d3c6348e37d8197904db249972a11c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/3038/regulation/6) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-68d3c6348e37d8197904db249972a11c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/3038/regulation/6) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-64124bac53e210e9c9fed114bd3d41e1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/3038/regulation/7) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-64124bac53e210e9c9fed114bd3d41e1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/3038/regulation/7) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-9f9168d4acde5acb1143a9b3585ccd30]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/3038/regulation/8) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-9f9168d4acde5acb1143a9b3585ccd30]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/3038/regulation/8) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-553dc4a9a81884f04a42f4e4f4e5aa34]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/3038/regulation/9) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-553dc4a9a81884f04a42f4e4f4e5aa34]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/3038/regulation/9) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-6fb0f54395e1de0e3231fd6d87fb2484]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/3038/regulation/10) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-6fb0f54395e1de0e3231fd6d87fb2484]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/3038/regulation/10) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-9021a4a8428dfea9843a3e74c4106cbf]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/3038/regulation/11) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-9021a4a8428dfea9843a3e74c4106cbf]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/3038/regulation/11) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-a14b7bdd6e2c1725fa198f91231bc2fe]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/3038/regulation/12) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-a14b7bdd6e2c1725fa198f91231bc2fe]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/3038/regulation/12) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-5f9788bb704730849a14a1c2b5cbceb3]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/3038/regulation/13) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-5f9788bb704730849a14a1c2b5cbceb3]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/3038/regulation/13) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-530f34ad3c1012fdca4bf830131569c7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/3038/regulation/14) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-530f34ad3c1012fdca4bf830131569c7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/3038/regulation/14) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
 [^f00005]: Footnote: Section 19 of the 1965 Act (regulations) was extended by the Common Land (Rectification of Registers) Act [1989 (c. 18)](https://www.legislation.gov.uk/ukpga/1989/18).
 
@@ -1937,71 +1937,71 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00008]: Footnote: [S.I. 2007/2585](https://www.legislation.gov.uk/uksi/2007/2585).
 
-[^key-49064caac3ea77799f7c92413f10b2f0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/3038/regulation/15) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-49064caac3ea77799f7c92413f10b2f0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/3038/regulation/15) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-d0bb583bb7ee4bbe2e982033409a1c6f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/3038/regulation/16) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-d0bb583bb7ee4bbe2e982033409a1c6f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/3038/regulation/16) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-c2cafc3374afe06cc57acfdd908c469d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/3038/regulation/17) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-c2cafc3374afe06cc57acfdd908c469d]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/3038/regulation/17) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-2e2f7471af6b4cb3df0e5f610b82eb69]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/3038/regulation/18) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-2e2f7471af6b4cb3df0e5f610b82eb69]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/3038/regulation/18) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-18182d2e07ca5dd5c3d5bd5b68186228]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/3038/regulation/19) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-18182d2e07ca5dd5c3d5bd5b68186228]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/3038/regulation/19) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-5591e640818ad6e88e56f6c2f2f53e67]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/3038/regulation/20) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-5591e640818ad6e88e56f6c2f2f53e67]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/3038/regulation/20) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-23085cf2d5967c79e9e6bb7507264166]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2014/3038/regulation/21) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-23085cf2d5967c79e9e6bb7507264166]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2014/3038/regulation/21) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-5518d34f2782a0386cde691adf2a9cae]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/3038/regulation/22) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-5518d34f2782a0386cde691adf2a9cae]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/3038/regulation/22) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-139df9421033cb35d9a5b0de6142a9a5]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2014/3038/regulation/23) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-139df9421033cb35d9a5b0de6142a9a5]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2014/3038/regulation/23) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-b7deba4aefd1c36f67e716fff2772a3d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2014/3038/regulation/24) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-b7deba4aefd1c36f67e716fff2772a3d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2014/3038/regulation/24) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-0e0f57d28218e572de4012ce58aaa0a2]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2014/3038/regulation/25) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-0e0f57d28218e572de4012ce58aaa0a2]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2014/3038/regulation/25) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-405516dc2c4e534787ff7fd2441f00ba]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2014/3038/regulation/26) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-405516dc2c4e534787ff7fd2441f00ba]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2014/3038/regulation/26) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-2396cfc7704db300fc8842209694990d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2014/3038/regulation/27) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-2396cfc7704db300fc8842209694990d]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2014/3038/regulation/27) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-4b3c52059a0f4c4e9392754d56acc89e]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2014/3038/regulation/28) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-4b3c52059a0f4c4e9392754d56acc89e]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2014/3038/regulation/28) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-6bdb8bcb76d472b263189350803a370e]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2014/3038/regulation/29) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-6bdb8bcb76d472b263189350803a370e]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2014/3038/regulation/29) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-ad413bf861d5e00dec3088234bd0d926]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2014/3038/regulation/30) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-ad413bf861d5e00dec3088234bd0d926]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2014/3038/regulation/30) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-3a42116f4cb360680b4bbf3d56118ded]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2014/3038/regulation/31) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-3a42116f4cb360680b4bbf3d56118ded]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2014/3038/regulation/31) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-ad6cb0fe705bf29d1f343cf696938dac]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2014/3038/regulation/32) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-ad6cb0fe705bf29d1f343cf696938dac]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2014/3038/regulation/32) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-a3bffeebe7e2ae1bef32866db36d68d1]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2014/3038/regulation/33) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-a3bffeebe7e2ae1bef32866db36d68d1]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2014/3038/regulation/33) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-71b2af66144d70891f38438cf46162c0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2014/3038/regulation/34) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-71b2af66144d70891f38438cf46162c0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2014/3038/regulation/34) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-11573440df2e6d47cdaaad44c7af1e96]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2014/3038/regulation/35) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-11573440df2e6d47cdaaad44c7af1e96]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2014/3038/regulation/35) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-b25ea7c77ab755fa07f4bc1b2fb0fb30]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2014/3038/regulation/36) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-b25ea7c77ab755fa07f4bc1b2fb0fb30]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2014/3038/regulation/36) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-d51dd13a22d381789f4e2bc9dbae5fc4]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2014/3038/regulation/37) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-d51dd13a22d381789f4e2bc9dbae5fc4]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2014/3038/regulation/37) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-4009729ddc56912035c4b8c76d4f6544]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2014/3038/regulation/38) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-4009729ddc56912035c4b8c76d4f6544]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2014/3038/regulation/38) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-79e5e5b6120e0d4386cae69d2d1afe71]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2014/3038/regulation/39) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-79e5e5b6120e0d4386cae69d2d1afe71]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2014/3038/regulation/39) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-b7e24d7f74d6b5509fdedba5cca6c53a]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2014/3038/regulation/40) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-b7e24d7f74d6b5509fdedba5cca6c53a]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2014/3038/regulation/40) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-dbdd4beefb20d76af75d67bd243a5620]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2014/3038/regulation/41) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-dbdd4beefb20d76af75d67bd243a5620]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2014/3038/regulation/41) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-371bd9c18cf8188f865f36baeb13434f]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2014/3038/regulation/42) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-371bd9c18cf8188f865f36baeb13434f]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2014/3038/regulation/42) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-488c50adda6c8f8e153d70315ebb78a5]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2014/3038/regulation/43) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-488c50adda6c8f8e153d70315ebb78a5]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2014/3038/regulation/43) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
 [^f00009]: Footnote: [S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417), to which there are amendments not relevant to these Regulations.
 
-[^key-60c388a1ecbe5538e18e0759a794dbd7]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2014/3038/regulation/44) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-60c388a1ecbe5538e18e0759a794dbd7]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2014/3038/regulation/44) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-94f3837a1dbe45c1dbbe000f4ef8061d]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2014/3038/regulation/45) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-94f3837a1dbe45c1dbbe000f4ef8061d]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2014/3038/regulation/45) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-5242903b72fcf30500cc1ebe73b26b3b]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2014/3038/regulation/46) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-5242903b72fcf30500cc1ebe73b26b3b]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2014/3038/regulation/46) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
 [^f00010]: Footnote: [1899 c. 30](https://www.legislation.gov.uk/ukpga/1899/30).
 
@@ -2013,25 +2013,25 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00014]: Footnote: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20). Section 193(1) was amended by section 189(4) of, and Schedule 30 to, the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), paragraph 10(5) of Schedule 8 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), paragraph 7 of Schedule 16 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), and paragraph 1 of Schedule 4 to the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37).
 
-[^key-3b2a2973f2eb5e2fd666e65c16011fe4]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2014/3038/regulation/47) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-3b2a2973f2eb5e2fd666e65c16011fe4]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2014/3038/regulation/47) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-a63c946b7e4d86278bc5e2678325381f]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2014/3038/regulation/48) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-a63c946b7e4d86278bc5e2678325381f]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2014/3038/regulation/48) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-8ae62a102daacc75f20b3cab0ebe6997]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2014/3038/regulation/49) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-8ae62a102daacc75f20b3cab0ebe6997]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2014/3038/regulation/49) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-9a65272da31bdfc8c600975b91db1d78]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2014/3038/regulation/50) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-9a65272da31bdfc8c600975b91db1d78]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2014/3038/regulation/50) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-44828922277a9178d5116e1b54096011]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2014/3038/regulation/51) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-44828922277a9178d5116e1b54096011]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2014/3038/regulation/51) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-9547821d89b1aa9046de962b33b1af91]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2014/3038/regulation/52) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-9547821d89b1aa9046de962b33b1af91]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2014/3038/regulation/52) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
 [^f00015]: Footnote: [S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391).
 
 [^f00016]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
 
-[^key-c7961f0fe8e8b140510a11a4fa273a2b]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2014/3038/regulation/53) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-c7961f0fe8e8b140510a11a4fa273a2b]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2014/3038/regulation/53) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-d39e94fb3fe10f165f0f180d4516ebf1]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2014/3038/regulation/54) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-d39e94fb3fe10f165f0f180d4516ebf1]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2014/3038/regulation/54) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
 [^f00017]: Footnote: [S.I. 2008/1961](https://www.legislation.gov.uk/uksi/2008/1961), amended by [S.I. 2009/2018](https://www.legislation.gov.uk/uksi/2009/2018).
 
@@ -2041,83 +2041,83 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00020]: Footnote: [S.I. 2007/2585](https://www.legislation.gov.uk/uksi/2007/2585).
 
-[^key-aaf837927e9a1d049c0ed69929838818]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3038/schedule/1) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-aaf837927e9a1d049c0ed69929838818]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2014/3038/schedule/1) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-821c909c074053a3fdd1442752c7471c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3038/schedule/2) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-821c909c074053a3fdd1442752c7471c]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3038/schedule/2) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-8c3172e90216bfda84b85ed70ed6020b]: Commencement: Sch. 3 Pt. 1 Model Entry 1 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-8c3172e90216bfda84b85ed70ed6020b]: Commencement: Sch. 3 Pt. 1 Model Entry 1 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-b42b6b14284e31e26715c1fa20e4907d]: Commencement: Sch. 3 Pt. 1 Model Entry 2 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-b42b6b14284e31e26715c1fa20e4907d]: Commencement: Sch. 3 Pt. 1 Model Entry 2 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-e726d6f9b11dfc3ea9ce6ff3ef2ec798]: Commencement: Sch. 3 Pt. 1 Model Entry 3 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-e726d6f9b11dfc3ea9ce6ff3ef2ec798]: Commencement: Sch. 3 Pt. 1 Model Entry 3 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-5d766f03237f57783cb67fd6b1448967]: Commencement: Sch. 3 Pt. 1 Model Entry 4 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-5d766f03237f57783cb67fd6b1448967]: Commencement: Sch. 3 Pt. 1 Model Entry 4 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-f4bcea2618876a507e9e86ebe14e1e1b]: Commencement: Sch. 3 Pt. 1 Model Entry 5 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-f4bcea2618876a507e9e86ebe14e1e1b]: Commencement: Sch. 3 Pt. 1 Model Entry 5 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-50ce668a075c644df652eca6467e5dd0]: Commencement: Sch. 3 Pt. 1 Model Entry 6 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-50ce668a075c644df652eca6467e5dd0]: Commencement: Sch. 3 Pt. 1 Model Entry 6 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-b67a34402dde574767ef133f6b3322a7]: Commencement: Sch. 3 Pt. 1 Model Entry 7 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-b67a34402dde574767ef133f6b3322a7]: Commencement: Sch. 3 Pt. 1 Model Entry 7 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-0736735b10ad86fad085bff3f29a6bb5]: Commencement: Sch. 3 Pt. 1 Model Entry 8 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-0736735b10ad86fad085bff3f29a6bb5]: Commencement: Sch. 3 Pt. 1 Model Entry 8 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-46815d945731b7f76c553f635a92a048]: Commencement: Sch. 3 Pt. 1 Model Entry 9 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-46815d945731b7f76c553f635a92a048]: Commencement: Sch. 3 Pt. 1 Model Entry 9 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-1a1ffb4fc958ae639e32c4491eb9a686]: Commencement: Sch. 3 Pt. 1 Model Entry 10 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-1a1ffb4fc958ae639e32c4491eb9a686]: Commencement: Sch. 3 Pt. 1 Model Entry 10 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-ae9cbcb66cbd5039fecc0aa21c2127b8]: Commencement: Sch. 3 Pt. 1 Model Entry 11 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-ae9cbcb66cbd5039fecc0aa21c2127b8]: Commencement: Sch. 3 Pt. 1 Model Entry 11 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-69662ae9679c7bfd3ee91bf079b291a1]: Commencement: Sch. 3 Pt. 1 Model Entry 12 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-69662ae9679c7bfd3ee91bf079b291a1]: Commencement: Sch. 3 Pt. 1 Model Entry 12 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-dfb7bc48da53668d2719179dca1bd389]: Commencement: Sch. 3 Pt. 1 Model Entry 13 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-dfb7bc48da53668d2719179dca1bd389]: Commencement: Sch. 3 Pt. 1 Model Entry 13 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-9e36c0ad994ea00c95c8333d0b156fa5]: Commencement: Sch. 3 Pt. 1 Model Entry 14 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-9e36c0ad994ea00c95c8333d0b156fa5]: Commencement: Sch. 3 Pt. 1 Model Entry 14 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-a7d9793c5e7d90b137215ff200135ad1]: Commencement: Sch. 3 Pt. 1 Model Entry 15 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-a7d9793c5e7d90b137215ff200135ad1]: Commencement: Sch. 3 Pt. 1 Model Entry 15 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-b15748d40ae868940a570809a7f56b98]: Commencement: Sch. 3 Pt. 1 Model Entry 16 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-b15748d40ae868940a570809a7f56b98]: Commencement: Sch. 3 Pt. 1 Model Entry 16 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-9960f22eaea8bd36f80628826ce2e042]: Commencement: Sch. 3 Pt. 1 Model Entry 17 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-9960f22eaea8bd36f80628826ce2e042]: Commencement: Sch. 3 Pt. 1 Model Entry 17 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-9dd6fe0a3cf7429a9b7547b8f80f0dfd]: Commencement: Sch. 3 Pt. 1 Model Entry 18 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-9dd6fe0a3cf7429a9b7547b8f80f0dfd]: Commencement: Sch. 3 Pt. 1 Model Entry 18 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-d607e2ad6fc6f9252c409b96a35cb8c2]: Commencement: Sch. 3 Pt. 1 Model Entry 19 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-d607e2ad6fc6f9252c409b96a35cb8c2]: Commencement: Sch. 3 Pt. 1 Model Entry 19 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-7e46d220b6b70fd3e6c0da16572ac908]: Commencement: Sch. 3 Pt. 1 Model Entry 20 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-7e46d220b6b70fd3e6c0da16572ac908]: Commencement: Sch. 3 Pt. 1 Model Entry 20 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-68c6f192dd1a4f2688c34ffea43f4ae0]: Commencement: Sch. 3 Pt. 1 Model Entry 21 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-68c6f192dd1a4f2688c34ffea43f4ae0]: Commencement: Sch. 3 Pt. 1 Model Entry 21 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-84c9eacdebf2f673177a9892a699b128]: Commencement: Sch. 3 Pt. 1 Model Entry 22 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-84c9eacdebf2f673177a9892a699b128]: Commencement: Sch. 3 Pt. 1 Model Entry 22 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-0610c2965836dcd607e6ff411bea020d]: Commencement: Sch. 3 Pt. 1 Model Entry 23 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-0610c2965836dcd607e6ff411bea020d]: Commencement: Sch. 3 Pt. 1 Model Entry 23 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-367c542616d705982e15ac176eb42c67]: Commencement: Sch. 3 Pt. 1 Model Entry 24 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-367c542616d705982e15ac176eb42c67]: Commencement: Sch. 3 Pt. 1 Model Entry 24 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-8e41dbe2b0568cf429fbf0aac7b12d5b]: Commencement: Sch. 3 Pt. 2 Standard Entry 1 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-8e41dbe2b0568cf429fbf0aac7b12d5b]: Commencement: Sch. 3 Pt. 2 Standard Entry 1 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-9f1afe9627b8041f43ff4382caef94c1]: Commencement: Sch. 3 Pt. 2 Standard Entry 2 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-9f1afe9627b8041f43ff4382caef94c1]: Commencement: Sch. 3 Pt. 2 Standard Entry 2 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-7991c57e1e049c4bf3984841bb519d2f]: Commencement: Sch. 3 Pt. 2 Standard Entry 3 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-7991c57e1e049c4bf3984841bb519d2f]: Commencement: Sch. 3 Pt. 2 Standard Entry 3 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-1965b418f4beb24f47b627fd0f3830f9]: Commencement: Sch. 3 Pt. 2 Standard Entry 4 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-1965b418f4beb24f47b627fd0f3830f9]: Commencement: Sch. 3 Pt. 2 Standard Entry 4 in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-a658e949bf821151b07cbfe48de15af8]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/1) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-a658e949bf821151b07cbfe48de15af8]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/1) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-c741e6f9fe8c812ff8579c0184ef5f26]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/2) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-c741e6f9fe8c812ff8579c0184ef5f26]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/2) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-75d2bb9df52edbd7468403488dcd5465]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/3) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-75d2bb9df52edbd7468403488dcd5465]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/3) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-768d93df014249e98e2567b41cdd60e1]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/4) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-768d93df014249e98e2567b41cdd60e1]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/4) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-d9fa590f718bfe0879f6258d34d0bd0f]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/5) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-d9fa590f718bfe0879f6258d34d0bd0f]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/5) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
 [^f00021]: Footnote: [S.I. 2010/540](https://www.legislation.gov.uk/uksi/2010/540), amended by [S.I. 2012/3027](https://www.legislation.gov.uk/uksi/2012/3027).
 
-[^key-e4a00506be6ee4514810fe764519ae15]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/6) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-e4a00506be6ee4514810fe764519ae15]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/6) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-00ab19f9c614073e36dc0fdb7882a420]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/7) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-00ab19f9c614073e36dc0fdb7882a420]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/7) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-bc4402a2ec624464ab27446cc451967c]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/8) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-bc4402a2ec624464ab27446cc451967c]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/8) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
 [^f00022]: Footnote: [1845 c. 118](https://www.legislation.gov.uk/ukpga/1845/118). Section 147 was amended by the Statute Law Revision Act [1891 (c. 67)](https://www.legislation.gov.uk/ukpga/1891/67), and was repealed by section 53 of, and Part 3 of Schedule 6 to, the Commons Act [2006 (c. 26)](https://www.legislation.gov.uk/ukpga/2006/26), subject to a saving provision in article 3(3) of the Commons Act 2006 (Commencement No. 3, Transitional Provisions and Savings) (England) Order 2007 ([S.I. 2007/2584 (C. 98)](https://www.legislation.gov.uk/uksi/2007/2584)), which requires any application for an order of exchange under section 147 made before 1st October 2007 to continue to be dealt with after that date as if section 147 remained in force.
 
@@ -2131,7 +2131,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00027]: Footnote: [1930 c. lxxii](https://www.legislation.gov.uk/ukla/1930/72).
 
-[^key-96169ebec946905b0d9b60a3522487ad]: Textual amendment: Words in [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/8) omitted (1.3.2019) by virtue of [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 40(2)](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/40/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-96169ebec946905b0d9b60a3522487ad]: Textual amendment: Words in [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/8) omitted (1.3.2019) by virtue of [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 40(2)](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/40/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
 [^f00029]: Footnote: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 
@@ -2149,44 +2149,44 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00036]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Section 131 was amended by section 24(2) of the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), and section 132 was amended by section 24(3) of that Act.
 
-[^key-03fc360369682a29948ca291dd5fde53]: Textual amendment: Words in [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/8) inserted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 40(3)](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/40/3); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-03fc360369682a29948ca291dd5fde53]: Textual amendment: Words in [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/8) inserted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 40(3)](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/40/3); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-cfbaf4e73f2d88ea4ed814f8bfecae0a]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/9) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-cfbaf4e73f2d88ea4ed814f8bfecae0a]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/9) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-2e894cec48b0eceb0c9654499a9e4690]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/10) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-2e894cec48b0eceb0c9654499a9e4690]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/10) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-0997fd47d8abfbc3f105c21442461c21]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/11) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-0997fd47d8abfbc3f105c21442461c21]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/11) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-7d13816b7267b2c9ff3051b323bcfb90]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/12) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-7d13816b7267b2c9ff3051b323bcfb90]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/12) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-712c335f77b28fc05e43adba59b959d1]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/13) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-712c335f77b28fc05e43adba59b959d1]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/13) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-4b30ec8c6a32b51d28365fc470c6da41]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/14) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-4b30ec8c6a32b51d28365fc470c6da41]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/14) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-f9371cfecdcb8066549d7ed3cce5a193]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/15) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-f9371cfecdcb8066549d7ed3cce5a193]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/15) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-2fc6c6bc1b01f3128a6d8eab42aad92f]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/16) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-2fc6c6bc1b01f3128a6d8eab42aad92f]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/16) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-886740ba0420e6decea6ab5f037a11f4]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/17) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-886740ba0420e6decea6ab5f037a11f4]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/17) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-a9c0bdf4b8987168487c42e11a3dd15a]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/18) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-a9c0bdf4b8987168487c42e11a3dd15a]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/18) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-29af8bdb6c1210ead0b9dbbdc9e7b1e1]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/19) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-29af8bdb6c1210ead0b9dbbdc9e7b1e1]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/19) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-7b1f0a1218ec6c4b9c5f74c917420ea5]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/20) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-7b1f0a1218ec6c4b9c5f74c917420ea5]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/20) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-63ef4baf0cae5e6e372d2db101320930]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/21) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-63ef4baf0cae5e6e372d2db101320930]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2014/3038/schedule/4/paragraph/21) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-6315b46972076fcb8e9d1d25bfd4d072]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3038/schedule/5) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-6315b46972076fcb8e9d1d25bfd4d072]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3038/schedule/5) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-bfcc40a68fd23100e69a8ae939ae047b]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2014/3038/schedule/6) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-bfcc40a68fd23100e69a8ae939ae047b]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2014/3038/schedule/6) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-7877daedb3b9c972a393ad5664bbaaaa]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2014/3038/schedule/7/paragraph/1) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-7877daedb3b9c972a393ad5664bbaaaa]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2014/3038/schedule/7/paragraph/1) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-1ed93473ab696e95f6a51cfb742ddc06]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2014/3038/schedule/7/paragraph/2) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-1ed93473ab696e95f6a51cfb742ddc06]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2014/3038/schedule/7/paragraph/2) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-710a1237a9fba2789daf405ef7a2c0c5]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2014/3038/schedule/8/paragraph/1) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-710a1237a9fba2789daf405ef7a2c0c5]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2014/3038/schedule/8/paragraph/1) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-6cb01b3e397169cba03edfe9d922efa9]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2014/3038/schedule/8/paragraph/2) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-6cb01b3e397169cba03edfe9d922efa9]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2014/3038/schedule/8/paragraph/2) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
 
-[^key-548b4bff0a283e0c4caa8b8e3198011c]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/2014/3038/schedule/8/paragraph/3) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)
+[^c-548b4bff0a283e0c4caa8b8e3198011c]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/2014/3038/schedule/8/paragraph/3) in force at 15.12.2014, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/3038/regulation/1/1/b)

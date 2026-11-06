@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82. Discontinuance of additional contributions[^key-35f175508f525a7f88738d3bdbc76c78]
+## 82. Discontinuance of additional contributions[^c-35f175508f525a7f88738d3bdbc76c78]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ he may pay his employing authority in his new employment an amount equal to the 
 
 ## Annotations
 
-[^key-35f175508f525a7f88738d3bdbc76c78]: Commencement: Reg. 82 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-35f175508f525a7f88738d3bdbc76c78]: Commencement: Reg. 82 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

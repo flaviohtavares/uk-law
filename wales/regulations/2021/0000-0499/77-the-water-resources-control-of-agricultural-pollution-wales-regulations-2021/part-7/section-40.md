@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Records of spreading nitrogen fertiliser[^key-8fb97e8a639e1b0e6274c1c46938cfcf]
+## 40. Records of spreading nitrogen fertiliser[^c-8fb97e8a639e1b0e6274c1c46938cfcf]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fb97e8a639e1b0e6274c1c46938cfcf]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2021/77/regulation/40) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-8fb97e8a639e1b0e6274c1c46938cfcf]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2021/77/regulation/40) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

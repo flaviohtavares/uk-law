@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55B. Administering authorities: knowledge and understanding requirement for relevant persons[^key-994f0c66f5558406cbe1d120fa6b53fe]
+## 55B. Administering authorities: knowledge and understanding requirement for relevant persons[^c-994f0c66f5558406cbe1d120fa6b53fe]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ to whom an administering authority has delegated its functions, or part of its f
 
 ## Annotations
 
-[^key-994f0c66f5558406cbe1d120fa6b53fe]: Textual amendment: [Regs. 55A](https://www.legislation.gov.uk/uksi/2013/2356/regulation/55A), [55B](https://www.legislation.gov.uk/uksi/2013/2356/regulation/55B) inserted (30.6.2026) by [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2026 (S.I. 2026/545)](https://www.legislation.gov.uk/uksi/2026/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/545/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/545/regulation/5)
+[^c-994f0c66f5558406cbe1d120fa6b53fe]: Textual amendment: [Regs. 55A](https://www.legislation.gov.uk/uksi/2013/2356/regulation/55A), [55B](https://www.legislation.gov.uk/uksi/2013/2356/regulation/55B) inserted (30.6.2026) by [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2026 (S.I. 2026/545)](https://www.legislation.gov.uk/uksi/2026/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/545/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2026/545/regulation/5)

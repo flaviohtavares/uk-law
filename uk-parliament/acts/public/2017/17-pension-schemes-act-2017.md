@@ -34,25 +34,25 @@ An Act to make provision about pension schemes.
 
 \[27th April 2017\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b34aedb0e4deb6cc8e057632b9b4c895]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b34aedb0e4deb6cc8e057632b9b4c895]
 
-## Part 1 — Master Trusts[^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-fa7ba3c99fc0daad5e02cb70c986ae75]
+## Part 1 — Master Trusts[^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-fa7ba3c99fc0daad5e02cb70c986ae75]
 
 ### Definition of a Master Trust scheme
 
-#### 1. Master Trust schemes: definition[^c22725601][^key-96ba39d692096ecf579b6908b87d9547][^key-92da74cdf3aa4af01b8263f888a29d81][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 1. Master Trust schemes: definition[^c22725601][^c-96ba39d692096ecf579b6908b87d9547][^c-92da74cdf3aa4af01b8263f888a29d81][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) In this Act, “**Master Trust scheme**” means an occupational pension scheme which—
 
 - (a) provides money purchase benefits (whether alone or in conjunction with other benefits),
 - (b) is used, or intended to be used, by two or more employers,
-- (c) is not used, or intended to be used, only by employers which are connected with each other, [^key-6d85973e08077cf0fec4fca7e046c239]...
-- (d) is not a relevant public service pension scheme , and[^key-cad57ab3aee94820a3654619d232a4b3]
-- (e)[^key-163313faea8f3cd8036b4fe2089788c5] is not a collective money purchase scheme.
+- (c) is not used, or intended to be used, only by employers which are connected with each other, [^c-6d85973e08077cf0fec4fca7e046c239]...
+- (d) is not a relevant public service pension scheme , and[^c-cad57ab3aee94820a3654619d232a4b3]
+- (e)[^c-163313faea8f3cd8036b4fe2089788c5] is not a collective money purchase scheme.
 
-(1A)[^key-73a9ae92d447669351de569fdbd1254e] Where a Master Trust scheme has a section which is a collective money purchase scheme by virtue of section 1(2)(b) of the Pension Schemes Act 2021, references in the following provisions of this Act to a Master Trust scheme do not include any such section, except as provided in section 39(4A) to (4C).
+(1A)[^c-73a9ae92d447669351de569fdbd1254e] Where a Master Trust scheme has a section which is a collective money purchase scheme by virtue of section 1(2)(b) of the Pension Schemes Act 2021, references in the following provisions of this Act to a Master Trust scheme do not include any such section, except as provided in section 39(4A) to (4C).
 
-(2)[^key-7f164a31b84ac181d313594056e84a27] Where a Master Trust scheme provides money purchase benefits in conjunction with other benefits, references in the following provisions of this Act to a Master Trust scheme are to a Master Trust scheme only to the extent that it provides money purchase benefits, except as provided in section 39(2) to (4).
+(2)[^c-7f164a31b84ac181d313594056e84a27] Where a Master Trust scheme provides money purchase benefits in conjunction with other benefits, references in the following provisions of this Act to a Master Trust scheme are to a Master Trust scheme only to the extent that it provides money purchase benefits, except as provided in section 39(2) to (4).
 
 (3) For the purposes of this section, an employer (“A”) is connected with another employer (“B”)—
 
@@ -68,7 +68,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (5) Regulations under this section are subject to affirmative resolution procedure.
 
-#### 2. Relevant public service pension schemes[^c22725611][^key-0ee0cab79a429b20ef62a53758235966][^key-d78db49681f5620ef2055793413c0d47][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 2. Relevant public service pension schemes[^c22725611][^c-0ee0cab79a429b20ef62a53758235966][^c-d78db49681f5620ef2055793413c0d47][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) For the purposes of section 1, a pension scheme is a relevant public service pension scheme if it falls within subsection (2) or (3).
 
@@ -84,7 +84,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Authorisation: applications etc
 
-#### 3. Prohibition on operating a scheme unless authorised[^key-d34e9f0897f1bb7edbf289eda9ab7cb3][^key-bed9e804d92fab32585ab678b73f5631][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 3. Prohibition on operating a scheme unless authorised[^c-d34e9f0897f1bb7edbf289eda9ab7cb3][^c-bed9e804d92fab32585ab678b73f5631][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) A person may not operate a Master Trust scheme unless the scheme is authorised.
 
@@ -101,7 +101,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 and references to a scheme that is “operating” or “in operation” are to be construed accordingly.
 
-#### 4. Application for authorisation[^key-61c4e71d5ebd50569ff4ddfa9ccfcd83][^key-c36ae4ffde30205bfeb9657c7250d01d][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 4. Application for authorisation[^c-61c4e71d5ebd50569ff4ddfa9ccfcd83][^c-c36ae4ffde30205bfeb9657c7250d01d][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) The trustees of a Master Trust scheme may apply to the Pensions Regulator for authorisation.
 
@@ -126,7 +126,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (6) Regulations under this section are subject to negative resolution procedure.
 
-#### 5. Decision on application[^key-2daf132cfa522cd3d0fc89810d0499d5][^key-7c25a883a4cf73ede9d082cd04f10b0a][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 5. Decision on application[^c-2daf132cfa522cd3d0fc89810d0499d5][^c-7c25a883a4cf73ede9d082cd04f10b0a][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) Where an application is made for authorisation of a Master Trust scheme under section 4, the Pensions Regulator must decide whether it is satisfied that the scheme meets the authorisation criteria.
 
@@ -137,9 +137,9 @@ and references to a scheme that is “operating” or “in operation” are to 
 - (a) that the persons involved in the scheme are fit and proper persons (see section 7),
 - (b) that the scheme is financially sustainable (see section 8),
 - (c) that each scheme funder meets the requirements set out in section 10,
-- (d) that the systems and processes used in running the scheme are sufficient to ensure that it is run effectively (see section 11), [^key-42b277fa4f67f7a3aa5689499ceadf81]...
+- (d) that the systems and processes used in running the scheme are sufficient to ensure that it is run effectively (see section 11), [^c-42b277fa4f67f7a3aa5689499ceadf81]...
 - (e) that the scheme has an adequate continuity strategy (see section 12).
-- (f)[^key-29cfee2ea393045d3eec7ebfc14c2d52] that it has sufficient investment capability (see section 12A), and
+- (f)[^c-29cfee2ea393045d3eec7ebfc14c2d52] that it has sufficient investment capability (see section 12A), and
 - (g) (in the case of an applicant that has its main administration in the United Kingdom) that the scheme meets Condition 1 of section 20(1A) (scale requirement) of the Pensions Act 2008.
 
 (4) If the Pensions Regulator is satisfied that the Master Trust scheme meets the authorisation criteria, it must—
@@ -158,7 +158,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 - (a) the reasons for the decision, and
 - (b) details of the right of referral to the First-tier Tribunal or Upper Tribunal (see section 6).
 
-#### 6. Referral to Tribunal of refusal to grant authorisation[^key-ac59e8c9b4ad2703a16201c9e12210ff][^key-f47db79923dfc1dcf922660c1a0265b1][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 6. Referral to Tribunal of refusal to grant authorisation[^c-ac59e8c9b4ad2703a16201c9e12210ff][^c-f47db79923dfc1dcf922660c1a0265b1][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) If the Pensions Regulator refuses to grant authorisation to a Master Trust scheme, the decision may be referred to the Tribunal by—
 
@@ -172,7 +172,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 ### Authorisation criteria
 
-#### 7. Fit and proper persons requirement[^key-4c85e66d0bb814f11dc2c03f92887f80][^key-4f7ea2f769c2843916b9ff2a4d11c350][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 7. Fit and proper persons requirement[^c-4c85e66d0bb814f11dc2c03f92887f80][^c-4f7ea2f769c2843916b9ff2a4d11c350][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that the persons involved in a Master Trust scheme are fit and proper persons (see section 5(3)(a)).
 
@@ -214,7 +214,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (8) Any subsequent regulations under subsection (4), and regulations under subsections (2) and (3), are subject to negative resolution procedure.
 
-#### 8. Financial sustainability requirement[^key-1e4445d8d3607d2cedf899cfe40771b5][^key-f03258f0f2c41915539323cba98606f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 8. Financial sustainability requirement[^c-1e4445d8d3607d2cedf899cfe40771b5][^c-f03258f0f2c41915539323cba98606f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that a Master Trust scheme is financially sustainable (see section 5(3)(b)).
 
@@ -243,7 +243,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (7) Any subsequent regulations under this section are subject to negative resolution procedure.
 
-#### 9. Financial sustainability requirement: business plan[^key-c410533e54f6b83ea8484d1536d87446][^key-c63a5bf1601c269e0fc36e5fdc14a474][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 9. Financial sustainability requirement: business plan[^c-c410533e54f6b83ea8484d1536d87446][^c-c63a5bf1601c269e0fc36e5fdc14a474][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) A scheme strategist of a Master Trust scheme must prepare a business plan for the scheme.
 
@@ -268,13 +268,13 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (8) Any subsequent regulations under this section are subject to negative resolution procedure.
 
-#### 10. Scheme funder requirements[^key-084a66f5b953b5798660121e18caf3f6][^key-c0804ef26ea442cb7aab0821931bdb49][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 10. Scheme funder requirements[^c-084a66f5b953b5798660121e18caf3f6][^c-c0804ef26ea442cb7aab0821931bdb49][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) This section makes provision about the requirements that a scheme funder must meet in order for the scheme to meet the authorisation criterion mentioned in section 5(3)(c).
 
 (2) The first requirement is that the scheme funder is a body corporate or a partnership that is a legal person under the law by which it is governed.
 
-(3)[^key-bae2442f0962ec3bc5d657a882bbee89] The second requirement is that the scheme funder only carries out activities that relate directly to Master Trust schemes in relation to which it is a scheme funder or prospective scheme funder.
+(3)[^c-bae2442f0962ec3bc5d657a882bbee89] The second requirement is that the scheme funder only carries out activities that relate directly to Master Trust schemes in relation to which it is a scheme funder or prospective scheme funder.
 
 (4) The Secretary of State may make regulations providing for exceptions from the second requirement.
 
@@ -294,7 +294,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (9) Any subsequent regulations under subsection (4), and regulations under subsection (6), are subject to negative resolution procedure.
 
-#### 11. Systems and processes requirements[^key-280f5aba75b7eea6ea7e2528ffe32689][^key-c7b9d4381a636a4e57fce647909a9436][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 11. Systems and processes requirements[^c-280f5aba75b7eea6ea7e2528ffe32689][^c-c7b9d4381a636a4e57fce647909a9436][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that the systems and processes used in running the scheme are sufficient to ensure that it is run effectively (see section 5(3)(d)).
 
@@ -322,7 +322,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (6) Any subsequent regulations under this section are subject to negative resolution procedure.
 
-#### 12. Continuity strategy requirement[^key-3656710fa67b3ff42f54492430e8e6b0][^key-e51ea6ccf59da41a2a11929c234c73cf][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 12. Continuity strategy requirement[^c-3656710fa67b3ff42f54492430e8e6b0][^c-e51ea6ccf59da41a2a11929c234c73cf][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that a Master Trust scheme has an adequate continuity strategy (see section 5(3)(e)).
 
@@ -353,7 +353,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (11) Any subsequent regulations under this section are subject to negative resolution procedure.
 
-#### 12A. Investment capability[^key-f8424e10e968d021c58d4f0e082a830a]
+#### 12A. Investment capability[^c-f8424e10e968d021c58d4f0e082a830a]
 
 (1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that a Master Trust scheme (that has its main administration in the United Kingdom) has sufficient investment capability (see section 5(3)(f)).
 
@@ -386,7 +386,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 ### Ongoing supervision of Master Trust schemes
 
-#### 13. List of authorised schemes[^key-d49b4cb1366f6ca57ea0e3ca37525c70][^key-eed9bbd4eb7b7dabff1a58e5f5705f70][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 13. List of authorised schemes[^c-d49b4cb1366f6ca57ea0e3ca37525c70][^c-eed9bbd4eb7b7dabff1a58e5f5705f70][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) The Pensions Regulator must maintain and publish a list of authorised Master Trust schemes.
 
@@ -395,7 +395,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 - (a) must identify each authorised Master Trust scheme by name, and
 - (b) may include any other information that the Pensions Regulator considers appropriate.
 
-#### 14. Requirement to submit annual accounts[^key-b1966a2721e84cdb677f46a2c4e44451][^key-a3794a5df8822e6e2561fbf31290fdbb][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 14. Requirement to submit annual accounts[^c-b1966a2721e84cdb677f46a2c4e44451][^c-a3794a5df8822e6e2561fbf31290fdbb][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) The trustees of an authorised Master Trust scheme must send the scheme's accounts to the Pensions Regulator.
 
@@ -412,7 +412,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (6) Regulations under this section are subject to negative resolution procedure.
 
-#### 15. Requirement to submit supervisory return[^key-be21fe54e22958798828662a11c48524][^key-50520f42b3e96b90168b36781382e3f7][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 15. Requirement to submit supervisory return[^c-be21fe54e22958798828662a11c48524][^c-50520f42b3e96b90168b36781382e3f7][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) The Pensions Regulator may by notice in writing require the trustees of an authorised Master Trust scheme to submit a supervisory return.
 
@@ -430,7 +430,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (6) Regulations under this section are subject to negative resolution procedure.
 
-#### 16. Duty to notify Regulator of significant events[^key-47cbae70c8f7aa0aed88eebfa96bce23][^key-6ecf17d0046626124466c53f717bb9b3][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 16. Duty to notify Regulator of significant events[^c-47cbae70c8f7aa0aed88eebfa96bce23][^c-6ecf17d0046626124466c53f717bb9b3][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) Where a person mentioned in subsection (2) becomes aware of the fact that a significant event has occurred in relation to an authorised Master Trust scheme, the person must give notice of that fact, in writing, to the Pensions Regulator as soon as reasonably practicable.
 
@@ -458,11 +458,11 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (8) Any subsequent regulations under subsection (3), and regulations under subsection (2), are subject to negative resolution procedure.
 
-#### 17. Fixed penalty notice for failure to comply with request for information etc[^c22725621][^key-ba1cb8d4439772abf9d2f2790de39dcf][^key-fdb4b15b06e7164de9279fb69118a069][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-9d13d40aeabae23a2c37fd4e6c104f11]
+#### 17. Fixed penalty notice for failure to comply with request for information etc[^c22725621][^c-ba1cb8d4439772abf9d2f2790de39dcf][^c-fdb4b15b06e7164de9279fb69118a069][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-9d13d40aeabae23a2c37fd4e6c104f11]
 
-(1) The Pensions Regulator may issue a fixed penalty notice to a person if it considers that the person has failed to comply with—[^key-df2f5c205d454282e03f79679625a108]
+(1) The Pensions Regulator may issue a fixed penalty notice to a person if it considers that the person has failed to comply with—[^c-df2f5c205d454282e03f79679625a108]
 
-- (a) a notice issued under section 72 of the Pensions Act 2004 (provision of information to Regulator on request), so far as relevant to the exercise of any of the Regulator's functions under or by virtue of this Part , or[^key-696e84c3034776861fc66d3554395776]
+- (a) a notice issued under section 72 of the Pensions Act 2004 (provision of information to Regulator on request), so far as relevant to the exercise of any of the Regulator's functions under or by virtue of this Part , or[^c-696e84c3034776861fc66d3554395776]
 - (b) a notice issued under section 72A of that Act (interviews), so far as relevant to the exercise of any of the Regulator's functions under or by virtue of this Part
 
 (2) A fixed penalty notice is a notice requiring the person to whom it is issued to pay a penalty within the period specified in the notice.
@@ -488,19 +488,19 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (6) Regulations under this section are subject to negative resolution procedure.
 
-#### 18. Escalating penalty notice for failure to comply with request for information etc[^c22725631][^key-3de4f79e7ba8136bf8e739bee5354564][^key-89163b96e5ff750ae149f3bce916d10f][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-9c3ed43a571d60b4f52c7c6c61b5e6f8]
+#### 18. Escalating penalty notice for failure to comply with request for information etc[^c22725631][^c-3de4f79e7ba8136bf8e739bee5354564][^c-89163b96e5ff750ae149f3bce916d10f][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-9c3ed43a571d60b4f52c7c6c61b5e6f8]
 
-(1) The Pensions Regulator may issue an escalating penalty notice to a person if it considers that the person has failed to comply with—[^key-f7e43cba4fdf2757acaf5e2000978b6a]
+(1) The Pensions Regulator may issue an escalating penalty notice to a person if it considers that the person has failed to comply with—[^c-f7e43cba4fdf2757acaf5e2000978b6a]
 
-- (a) a notice issued under section 72 of the Pensions Act 2004 (provision of information to Regulator on request), so far as relevant to the exercise of any of the Regulator's functions under or by virtue of this Part (a “section 72 notice”) , or[^key-1255d88b3e5f6ccbd848082c4a793a5d]
+- (a) a notice issued under section 72 of the Pensions Act 2004 (provision of information to Regulator on request), so far as relevant to the exercise of any of the Regulator's functions under or by virtue of this Part (a “section 72 notice”) , or[^c-1255d88b3e5f6ccbd848082c4a793a5d]
 - (b) a notice issued under section 72A of that Act (interviews), so far as relevant to the exercise of any of the Regulator's functions under or by virtue of this Part (a “section 72A notice”)
 
 (2) But the Regulator may not issue an escalating penalty notice to a person if—
 
-- (a) the person has exercised the right of referral to a tribunal under section 44 of the Pensions Act 2008 (as applied by section 17(5)) in respect of a fixed penalty notice issued under section 17 in relation to the section 72 notice or the section 72A notice[^key-4feeaff8ced5a57fa8e7f27a0bd0b32a], and
+- (a) the person has exercised the right of referral to a tribunal under section 44 of the Pensions Act 2008 (as applied by section 17(5)) in respect of a fixed penalty notice issued under section 17 in relation to the section 72 notice or the section 72A notice[^c-4feeaff8ced5a57fa8e7f27a0bd0b32a], and
 - (b) the reference has not been determined.
 
-(3) An escalating penalty notice is a notice requiring the person to whom it is issued to pay an escalating penalty if the person fails to comply with a section 72 notice or a section 72A notice[^key-bbdd60b72959bf434793148b0c6deada].
+(3) An escalating penalty notice is a notice requiring the person to whom it is issued to pay an escalating penalty if the person fails to comply with a section 72 notice or a section 72A notice[^c-bbdd60b72959bf434793148b0c6deada].
 
 (4) An escalating penalty is a penalty which is calculated by reference to a daily rate.
 
@@ -512,10 +512,10 @@ and references to a scheme that is “operating” or “in operation” are to 
 (6) An escalating penalty notice must—
 
 - (a) specify the failure to which the penalty relates;
-- (b) state that, if the person fails to comply with the section 72 notice or the section 72A notice[^key-084eb196334224c3739c9f9445718738] before a specified date, the person will be liable to pay an escalating penalty;
+- (b) state that, if the person fails to comply with the section 72 notice or the section 72A notice[^c-084eb196334224c3739c9f9445718738] before a specified date, the person will be liable to pay an escalating penalty;
 - (c) state the daily rate of the escalating penalty and the way in which the penalty is calculated;
 - (d) state the date from which the escalating penalty will be payable, which must not be earlier than the date specified in the fixed penalty notice under section 17(4)(b);
-- (e) state that the escalating penalty will continue to be payable at the daily rate until the date on which the person complies with the section 72 notice or the section 72A notice[^key-36d41dbbd27962469320e6c51fc28063] or such earlier date as the Regulator may determine;
+- (e) state that the escalating penalty will continue to be payable at the daily rate until the date on which the person complies with the section 72 notice or the section 72A notice[^c-36d41dbbd27962469320e6c51fc28063] or such earlier date as the Regulator may determine;
 - (f) notify the person to whom the notice is issued of the review process under section 43 of the Pensions Act 2008 and the right of referral to a tribunal under section 44 of that Act (as applied by subsection (7)).
 
 (7) The following sections of the Pensions Act 2008 apply to an escalating penalty notice under this section as they apply to an escalating penalty notice under section 41 of that Act—
@@ -526,7 +526,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (8) Regulations under this section are subject to negative resolution procedure.
 
-#### 19. Withdrawal of authorisation[^key-a4006f002ae1b29c3b4c9d752c2dbf55][^key-c1ba306c3484dc1d5632159999c6b360][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 19. Withdrawal of authorisation[^c-a4006f002ae1b29c3b4c9d752c2dbf55][^c-c1ba306c3484dc1d5632159999c6b360][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) If the Pensions Regulator stops being satisfied that an authorised Master Trust scheme meets the authorisation criteria, it may decide to withdraw the scheme's authorisation.
 
@@ -549,7 +549,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 ### Triggering events: continuity
 
-#### 20. Triggering event: duties of trustees[^c22725651][^key-7cc7ab786da9cc6cef6cd916b1409f3d][^key-68a2a6f782b326c4269be6353e4d42cd][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 20. Triggering event: duties of trustees[^c22725651][^c-7cc7ab786da9cc6cef6cd916b1409f3d][^c-68a2a6f782b326c4269be6353e4d42cd][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 If a triggering event occurs in relation to a Master Trust scheme, the trustees must—
 
@@ -557,7 +557,7 @@ If a triggering event occurs in relation to a Master Trust scheme, the trustees 
 - (b) comply with the requirements of section 23 (continuity options), and
 - (c) comply with the requirements of section 26 (implementation strategy).
 
-#### 21. Triggering events[^c22725661][^key-aff356793aace89435d94b154b0ae1d5][^key-6f59692deeca44682ef82b7bffb9273a][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 21. Triggering events[^c22725661][^c-aff356793aace89435d94b154b0ae1d5][^c-6f59692deeca44682ef82b7bffb9273a][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) A triggering event occurs in relation to a Master Trust scheme if—
 
@@ -603,7 +603,7 @@ If a triggering event occurs in relation to a Master Trust scheme, the trustees 
 - “**standard procedure**” has the meaning given by section 96 of that Act;
 - “**warning notice**” has the meaning given by section 96(2)(a) of that Act.
 
-#### 22. Notification requirements[^c22725671][^key-42b33eeb5f42ef7888c539c8f3dc55d9][^key-4666d3d0bd737cf6cc9fb28762071ce0][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 22. Notification requirements[^c22725671][^c-42b33eeb5f42ef7888c539c8f3dc55d9][^c-4666d3d0bd737cf6cc9fb28762071ce0][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) Subsection (2) applies if an event within an item of the table in section 21(6) that is listed in the first column of the table in subsection (3) occurs in relation to a Master Trust scheme.
 
@@ -654,7 +654,7 @@ the person must notify the Pensions Regulator.
 
 (11) Regulations under this section are subject to negative resolution procedure.
 
-#### 23. Continuity options[^key-898a1eb5d9fa3aa086cd9a3ae4412b8e][^key-7768b1d86179c77e7fe4ea1f056dca90][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 23. Continuity options[^c-898a1eb5d9fa3aa086cd9a3ae4412b8e][^c-7768b1d86179c77e7fe4ea1f056dca90][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) If a triggering event occurs in relation to a Master Trust scheme, the trustees must comply with the requirements of this section.
 
@@ -683,7 +683,7 @@ in accordance with regulations under section 24.
 
 (8) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with a requirement imposed by this section.
 
-#### 24. Continuity option 1: transfer out and winding up[^key-f41c195e608e9ac7ed47fb67c5527b9a][^key-5f9ec584387ad5f893d7ae91a5647132][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 24. Continuity option 1: transfer out and winding up[^c-f41c195e608e9ac7ed47fb67c5527b9a][^c-5f9ec584387ad5f893d7ae91a5647132][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) Where the trustees of a Master Trust scheme are required, or decide, to pursue continuity option 1 they must—
 
@@ -739,7 +739,7 @@ in accordance with regulations under section 24.
 
 (11) Other regulations under this section are subject to negative resolution procedure.
 
-#### 25. Continuity option 2: resolving triggering event[^c22725681][^key-f56ffece86cc335b2c476ec2923d66c4][^key-ed7d12f7a02e58a670ffdd3ef705af44][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 25. Continuity option 2: resolving triggering event[^c22725681][^c-f56ffece86cc335b2c476ec2923d66c4][^c-ed7d12f7a02e58a670ffdd3ef705af44][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) Where the trustees of a Master Trust scheme decide to pursue continuity option 2, they must attempt to resolve the triggering event.
 
@@ -757,7 +757,7 @@ in accordance with regulations under section 24.
 
 (8) Regulations under this section are subject to negative resolution procedure.
 
-#### 26. Approval of implementation strategy[^key-3a8c95313a671b773ea52d90b31f0f34][^key-0e78f181d2e4d922eb2db9b4f4bb9ed7][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 26. Approval of implementation strategy[^c-3a8c95313a671b773ea52d90b31f0f34][^c-0e78f181d2e4d922eb2db9b4f4bb9ed7][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) If a triggering event occurs in relation to a Master Trust scheme, the trustees must submit an implementation strategy to the Pensions Regulator for approval.
 
@@ -782,7 +782,7 @@ in accordance with regulations under section 24.
 
 (10) Regulations under this section are subject to negative resolution procedure.
 
-#### 27. Content of implementation strategy[^key-13e2d45e82b3bd0d3e23ac1623a139b7][^key-7734ed4aafb8e153736bc9be86ee9c32][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 27. Content of implementation strategy[^c-13e2d45e82b3bd0d3e23ac1623a139b7][^c-7734ed4aafb8e153736bc9be86ee9c32][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that an implementation strategy for a Master Trust scheme is adequate (see section 26(4)).
 
@@ -807,7 +807,7 @@ in accordance with regulations under section 24.
 
 (7) Regulations under this section are subject to negative resolution procedure.
 
-#### 28. Duty to pursue continuity option[^key-157c3933239f7f6cd48abed5fef345cd][^key-184728ef41e33b5d91116dac0549fd86][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 28. Duty to pursue continuity option[^c-157c3933239f7f6cd48abed5fef345cd][^c-184728ef41e33b5d91116dac0549fd86][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) When the Pensions Regulator has notified the trustees of a Master Trust scheme that the implementation strategy is approved, the trustees must—
 
@@ -836,7 +836,7 @@ to the extent that there is a conflict.
 
 (7) Regulations under this section are subject to negative resolution procedure.
 
-#### 29. Prohibition on winding up except in accordance with continuity option 1[^key-e8656f3711410f201048745b5485eb1b][^key-4779049b337419136341615ea353dfcb][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 29. Prohibition on winding up except in accordance with continuity option 1[^c-e8656f3711410f201048745b5485eb1b][^c-4779049b337419136341615ea353dfcb][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) A person may only wind up a Master Trust scheme in accordance with continuity option 1 (see section 24).
 
@@ -846,7 +846,7 @@ to the extent that there is a conflict.
 
 (4) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with subsection (1).
 
-#### 30. Periodic reporting requirement[^key-da0293de0f97ba90876b79ff096c6261][^key-2e6517938985f095554efa0139a2dfac][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 30. Periodic reporting requirement[^c-da0293de0f97ba90876b79ff096c6261][^c-2e6517938985f095554efa0139a2dfac][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) During a triggering event period for a Master Trust scheme, the trustees must submit periodic reports to the Pensions Regulator.
 
@@ -865,7 +865,7 @@ to the extent that there is a conflict.
 
 (6) Regulations under this section are subject to negative resolution procedure.
 
-#### 31. Pause orders[^key-6962e402c72a28ce50e868bd3dd0a8fc][^key-d6d36e0c7377624a0f07382f820a5a03][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 31. Pause orders[^c-6962e402c72a28ce50e868bd3dd0a8fc][^c-d6d36e0c7377624a0f07382f820a5a03][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) This section applies during a triggering event period for a Master Trust scheme.
 
@@ -908,7 +908,7 @@ to the extent that there is a conflict.
 - “**pension credit**” means a credit under section 29(1)(b) of the Welfare Reform and Pensions Act 1999 or under corresponding Northern Ireland legislation;
 - “**specified**” means specified in the pause order.
 
-#### 32. Prohibition on new employers during triggering event period[^key-2688ae393964c6930ff9199abca09de0][^key-e43d0451f67d9e04b1c4cab9c4b3456c][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 32. Prohibition on new employers during triggering event period[^c-2688ae393964c6930ff9199abca09de0][^c-e43d0451f67d9e04b1c4cab9c4b3456c][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) During a triggering event period for a Master Trust scheme, neither the trustees nor a scheme funder nor a scheme strategist may—
 
@@ -919,7 +919,7 @@ to the extent that there is a conflict.
 
 (3) Section 10 of the Pensions Act 1995 (civil penalties) applies to a person who fails to comply with subsection (1).
 
-#### 33. Prohibition on increasing charges etc during triggering event period[^c22725691][^key-b0dce105fa3114014061ae22379c9d6f][^key-8e5bd46e2236fcab80f62fe25c650f39][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 33. Prohibition on increasing charges etc during triggering event period[^c22725691][^c-b0dce105fa3114014061ae22379c9d6f][^c-8e5bd46e2236fcab80f62fe25c650f39][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) During a triggering event period for a Master Trust scheme, the trustees must not—
 
@@ -969,7 +969,7 @@ to the extent that there is a conflict.
 
 ### Decisions on withdrawal of authorisation: timing
 
-#### 34. When it becomes clear that authorisation not to be withdrawn[^key-b116f9710707294e05f62721764e88f8][^key-f9d054f0ff9757fc0a2d9f944c3f10a7][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 34. When it becomes clear that authorisation not to be withdrawn[^c-b116f9710707294e05f62721764e88f8][^c-f9d054f0ff9757fc0a2d9f944c3f10a7][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) Where a triggering event within item 1 or 2 of the table in section 21(6) occurs in relation to a Master Trust scheme, this section applies for determining the date on which it becomes clear that authorisation is not to be withdrawn (see section 21(5)(c)).
 
@@ -989,7 +989,7 @@ to the extent that there is a conflict.
 - (a) section 96(7) of the Pensions Act 2004, in a case where the standard procedure applies;
 - (b) section 99(13) of that Act, in a case where the special procedure applies.
 
-#### 35. When a decision to withdraw authorisation becomes final[^key-7ef48e4014c0223b8c3a053a7195543f][^key-c9aaa276d6d2fbbfac1c734cc7a31d5c][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 35. When a decision to withdraw authorisation becomes final[^c-7ef48e4014c0223b8c3a053a7195543f][^c-c9aaa276d6d2fbbfac1c734cc7a31d5c][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) Where a triggering event within item 1 or 2 of the table in section 21(6) occurs in relation to a Master Trust scheme, this section applies for the purposes of determining the date on which a decision to withdraw authorisation becomes final (see sections 23(2)(a) and 26(2)).
 
@@ -1011,7 +1011,7 @@ to the extent that there is a conflict.
 
 ### Supplementary
 
-#### 36. Fraud compensation[^key-ca913db1029d12ee8055f0366619a5c3][^key-14517800d6e2632b483fbb5a960f9a6b][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 36. Fraud compensation[^c-ca913db1029d12ee8055f0366619a5c3][^c-14517800d6e2632b483fbb5a960f9a6b][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) The Secretary of State may by regulations modify sections 182 to 187 of the Pensions Act 2004 (fraud compensation) as they apply in relation to—
 
@@ -1020,11 +1020,11 @@ to the extent that there is a conflict.
 
 (2) Regulations under this section are subject to negative resolution procedure.
 
-#### 37. Master trusts in operation on commencement: transitional provision[^c22725051][^key-776b3ffe6457b3cc9730cef046a9b32c][^key-d9ba2a3743063ed5c2e57e9a6b3b1674][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 37. Master trusts in operation on commencement: transitional provision[^c22725051][^c-776b3ffe6457b3cc9730cef046a9b32c][^c-d9ba2a3743063ed5c2e57e9a6b3b1674][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 Schedule 2 makes provision about the application of this Part in relation to Master Trust schemes that are in operation before the date on which section 3 comes into force.
 
-#### 38. Minor and consequential amendments[^c22725721][^key-ffa63bac73e17ef141d60206e95f5c07][^key-8983fda4cd1443d6c9ab03da98416072][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 38. Minor and consequential amendments[^c22725721][^c-ffa63bac73e17ef141d60206e95f5c07][^c-8983fda4cd1443d6c9ab03da98416072][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) Schedule 3 makes minor and consequential amendments relating to this Part.
 
@@ -1039,11 +1039,11 @@ Schedule 2 makes provision about the application of this Part in relation to Mas
 
 (5) Otherwise, regulations under this section are subject to negative resolution procedure.
 
-#### 39. Interpretation of Part 1[^c22726271][^key-d793cbc93721cb78edffe54ecb19e792][^key-ea8f36a005ddd3a6eaaa181421f1b5a7][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 39. Interpretation of Part 1[^c22726271][^c-d793cbc93721cb78edffe54ecb19e792][^c-ea8f36a005ddd3a6eaaa181421f1b5a7][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) In this Part—
 
-- the “accounts” of a Master Trust scheme means the accounts audited by the auditor of the scheme (and see subsections (2) and (4A[^key-51da660ec9b081bd24032319f5f7f6fc]);
+- the “accounts” of a Master Trust scheme means the accounts audited by the auditor of the scheme (and see subsections (2) and (4A[^c-51da660ec9b081bd24032319f5f7f6fc]);
 - the “accounts” of a scheme funder means—
   - (a) in a case where regulations under section 10(6) apply to the scheme funder, its accounts prepared in accordance with those regulations;
   - (b) in any other case, its accounts prepared in accordance with the requirements of the Companies Act 2006;
@@ -1051,7 +1051,7 @@ Schedule 2 makes provision about the application of this Part in relation to Mas
 - “**administration charge**” has the meaning given by paragraph 1 of Schedule 18 to the Pensions Act 2014;
 - “**authorisation**” means authorisation under section 5;
 - “**authorisation criteria**” has the meaning given in section 5(3);
-- “[^key-01cbf4f60e057850ddb6ab7ac94bbeb3]**collective money purchase scheme**” has the meaning given in section 1(2) of the Pension Schemes Act 2021;
+- “[^c-01cbf4f60e057850ddb6ab7ac94bbeb3]**collective money purchase scheme**” has the meaning given in section 1(2) of the Pension Schemes Act 2021;
 - “continuity option 1” and “continuity option 2” have the meanings given in section 23;
 - “**employer**” has the meaning given in section 1;
 - “**implementation strategy**” has the meaning given in section 27;
@@ -1083,7 +1083,7 @@ Schedule 2 makes provision about the application of this Part in relation to Mas
 
 as if references to winding up the scheme, or to the scheme being wound up, were to ceasing to operate the scheme, or the scheme ceasing to operate, to the extent that it provides money purchase benefits.
 
-(4A)[^key-647ecc11df5bcca148d8e1254252bc89] In relation to a Master Trust scheme, a section of which is a collective money purchase scheme, references in this Part to the scheme’s accounts are to be read as references to the accounts of the scheme as a whole.
+(4A)[^c-647ecc11df5bcca148d8e1254252bc89] In relation to a Master Trust scheme, a section of which is a collective money purchase scheme, references in this Part to the scheme’s accounts are to be read as references to the accounts of the scheme as a whole.
 
 (4B) The reference in section 10(3) to activities that relate directly to Master Trust schemes is, in its application to a Master Trust scheme a section of which is a collective money purchase scheme, to be read as a reference to activities that relate directly to the scheme as a whole.
 
@@ -1101,7 +1101,7 @@ as if references to winding up the scheme, or to the scheme being wound up, were
 
 (6) Regulations under this section are subject to affirmative resolution procedure.
 
-#### 40. Regulations modifying application of Part 1[^key-b3d24f3024715e69ffedd2c6972202bf][^key-533b5786fbc05a2b9b441e8dc7fc3ae8][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2][^key-3f1a3d64843f7362bd84c6afdfd1c4e5][^key-7367a14e60ef560c1dd41ab327f0227a][^key-5906e965c107dcc499f8b8a60787e2a1][^key-f1819720851a3deb8c68af20b65646f2]
+#### 40. Regulations modifying application of Part 1[^c-b3d24f3024715e69ffedd2c6972202bf][^c-533b5786fbc05a2b9b441e8dc7fc3ae8][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2][^c-3f1a3d64843f7362bd84c6afdfd1c4e5][^c-7367a14e60ef560c1dd41ab327f0227a][^c-5906e965c107dcc499f8b8a60787e2a1][^c-f1819720851a3deb8c68af20b65646f2]
 
 (1) The Secretary of State may make regulations—
 
@@ -1192,7 +1192,7 @@ Section 31
 
 ### Consequences of a pause order
 
-**1.**[^key-0f8883a622b1405a3337735ac7a44ce5][^key-ba9e9d43e4fac6ae9f38dd8ee7e942f1] (1) If a pause order is made in relation to a Master Trust scheme, any action taken in contravention of the order is void, except to the extent that the action is validated by an order under paragraph 3.
+**1.**[^c-0f8883a622b1405a3337735ac7a44ce5][^c-ba9e9d43e4fac6ae9f38dd8ee7e942f1] (1) If a pause order is made in relation to a Master Trust scheme, any action taken in contravention of the order is void, except to the extent that the action is validated by an order under paragraph 3.
 
 (2) A pause order in relation to a Master Trust scheme does not prevent the scheme being wound up in pursuance of an order under section 11 of the Pensions Act 1995 (power to wind up occupational pension schemes).
 
@@ -1237,7 +1237,7 @@ in their application to a Master Trust scheme in relation to which a pause order
 
 ### Period of effect etc of pause order
 
-**2.**[^key-0258caf8df95114422e73109d8c92467][^key-474a7ab95a61be9756bd0db62e61986c] (1) A pause order must specify the period for which it has effect, which must not exceed three months.
+**2.**[^c-0258caf8df95114422e73109d8c92467][^c-474a7ab95a61be9756bd0db62e61986c] (1) A pause order must specify the period for which it has effect, which must not exceed three months.
 
 (2) The Pensions Regulator may on one or more occasions by order extend the period for which the pause order has effect for a further three months.
 
@@ -1245,7 +1245,7 @@ in their application to a Master Trust scheme in relation to which a pause order
 
 ### Validation of action in contravention of pause order
 
-**3.**[^key-a403840573b36c1e652a1cb3a564d43a][^key-3d81a90479d2e3e859cec69450c6a62d] (1) If a pause order is made in relation to a Master Trust scheme, the Pensions Regulator may by order validate action taken in contravention of the order.
+**3.**[^c-a403840573b36c1e652a1cb3a564d43a][^c-3d81a90479d2e3e859cec69450c6a62d] (1) If a pause order is made in relation to a Master Trust scheme, the Pensions Regulator may by order validate action taken in contravention of the order.
 
 (2) Any of the following persons may apply to the Regulator for an order under this paragraph validating particular action—
 
@@ -1254,7 +1254,7 @@ in their application to a Master Trust scheme in relation to which a pause order
 
 ### Notification of trustees, scheme funders, scheme strategists, employers and members
 
-**4.**[^key-92266a8bd87260c16bc46f01991be0a3][^key-958c930063aeff8c927b51c9c34f23dd] (1) This paragraph applies where—
+**4.**[^c-92266a8bd87260c16bc46f01991be0a3][^c-958c930063aeff8c927b51c9c34f23dd] (1) This paragraph applies where—
 
 - (a) a pause order is made in relation to a Master Trust scheme, or
 - (b) an order is made under paragraph 3 validating action taken in contravention of a pause order made in relation to a scheme.
@@ -1275,7 +1275,7 @@ in their application to a Master Trust scheme in relation to which a pause order
 
 ### Supplementary provision
 
-**5.**[^key-7ae98a548d1f5f5c7617e9b8a5bb06d6][^key-f69be7f080c1760ee4b0a6c638bc54b4] (1) A pause order, or an order made under any of paragraphs 2, 3 or 4, may be made in relation to a Master Trust scheme—
+**5.**[^c-7ae98a548d1f5f5c7617e9b8a5bb06d6][^c-f69be7f080c1760ee4b0a6c638bc54b4] (1) A pause order, or an order made under any of paragraphs 2, 3 or 4, may be made in relation to a Master Trust scheme—
 
 - (a) in spite of any enactment or rule of law, or any rule of the scheme, which would otherwise operate to prevent the order being made, and
 - (b) without regard to any such enactment, rule of law or rule of the scheme as would otherwise require, or might otherwise be taken to require, the implementation of any procedure or the obtaining of any consent, with a view to making the order.
@@ -1428,7 +1428,7 @@ Section 37
 
 ### Modifications having effect from the commencement date
 
-**8.**[^key-8eb3af03237fe9f776c730e70fd0952d][^key-df8311ab420e74b2b5b7043605842ca0] Section 3 (prohibition on operating a Master Trust scheme unless authorised) has effect as if for the existing text there were substituted—
+**8.**[^c-8eb3af03237fe9f776c730e70fd0952d][^c-df8311ab420e74b2b5b7043605842ca0] Section 3 (prohibition on operating a Master Trust scheme unless authorised) has effect as if for the existing text there were substituted—
 
 > **3. Existing Master Trust schemes: need for authorisation**
 >
@@ -1481,7 +1481,7 @@ Section 37
 >
 > (4) But in its application to a pause order under this section, paragraph 2 of Schedule 1 is to be read as if sub-paragraph (3) were omitted.
 
-**9.**[^key-0051006e89bbdb666d84f9f7b4b4e97e][^key-f8d7054f47df8cc2edf038f1abff03e8] Section 5 (decision on application) has effect as if at the end there were inserted—
+**9.**[^c-0051006e89bbdb666d84f9f7b4b4e97e][^c-f8d7054f47df8cc2edf038f1abff03e8] Section 5 (decision on application) has effect as if at the end there were inserted—
 
 > (7) In the case of a notification under subsection (5) relating to an existing Master Trust scheme, the notification must also include an explanation that the decision is a triggering event for the purposes of sections 20 to 33A, and of the trustees' duties under those sections.
 >
@@ -1489,7 +1489,7 @@ Section 37
 >
 > (9) In subsection (8), “**the Determinations Panel**” means the committee established under section 9 of the Pensions Act 2004.
 
-**10.**[^key-caa75145e6734ac2a18f4116d73c3887][^key-9f12cec6612b8bbac16d23a04e1c1959] Section 21 (triggering events) has effect as if—
+**10.**[^c-caa75145e6734ac2a18f4116d73c3887][^c-9f12cec6612b8bbac16d23a04e1c1959] Section 21 (triggering events) has effect as if—
 
 - (a) in subsection (2)—
   - (i) after “2” there were inserted “ , 2A ”;
@@ -1507,23 +1507,23 @@ Section 37
   ;
 - (d) in that table, in the triggering event described in item 3, for “3(3)” there were substituted “ 3(4) ”.
 
-**11.**[^key-8519e2f76ad460531b92ef498dbad95d][^key-666dba6a7cf4980c5b5b1950bbf7cf94] Section 23 (continuity options) has effect as if—
+**11.**[^c-8519e2f76ad460531b92ef498dbad95d][^c-666dba6a7cf4980c5b5b1950bbf7cf94] Section 23 (continuity options) has effect as if—
 
 - (a) in subsection (2)(a)—
   - (i) after “2” there were inserted “ or 2A ”;
   - (ii) after “withdraw” there were inserted “ or refuse ”;
 - (b) in subsection (3)(a), after “2” there were inserted “ , 2A ”.
 
-**12.**[^key-7d1a1dd10891fd090a26a8dc70a1f459][^key-9211bcc7a337e8fd4532f98705cd3fad] Section 26 (approval of implementation strategy) has effect as if—
+**12.**[^c-7d1a1dd10891fd090a26a8dc70a1f459][^c-9211bcc7a337e8fd4532f98705cd3fad] Section 26 (approval of implementation strategy) has effect as if—
 
 - (a) in subsection (2)—
   - (i) after “2” there were inserted “ or 2A ”;
   - (ii) after “withdraw” there were inserted “ or refuse ”;
 - (b) in subsection (3), after “2” there were inserted “ , 2A ”.
 
-**13.**[^key-ca855887ed8df4892f3c11fdfe3a2360][^key-2c26bbc98378e7ce62f5db6d97bd7ac5] Section 28 (duty to pursue continuity option) has effect as if, in subsection (3)(a), after “2” there were inserted “ , 2A ”.
+**13.**[^c-ca855887ed8df4892f3c11fdfe3a2360][^c-2c26bbc98378e7ce62f5db6d97bd7ac5] Section 28 (duty to pursue continuity option) has effect as if, in subsection (3)(a), after “2” there were inserted “ , 2A ”.
 
-**14.**[^key-e6b47af1d2f3742943988ac6d813c025][^key-c784b88796077af55592753cf86ce3f2] Section 34 (when it becomes clear that authorisation is not to be withdrawn) has effect as if—
+**14.**[^c-e6b47af1d2f3742943988ac6d813c025][^c-c784b88796077af55592753cf86ce3f2] Section 34 (when it becomes clear that authorisation is not to be withdrawn) has effect as if—
 
 - (a) in subsection (1)—
   - (i) after “2” there were inserted “ or 2A ”;
@@ -1540,7 +1540,7 @@ Section 37
   ;
 - (f) in the section heading, at the end there were inserted “or refused”.
 
-**15.**[^key-b306d05a793e5423208691b32f5cccf5][^key-aa6b28ad960514aab1f9e8c420620eb8] Section 35 (when decision to withdraw authorisation becomes final) has effect as if—
+**15.**[^c-b306d05a793e5423208691b32f5cccf5][^c-aa6b28ad960514aab1f9e8c420620eb8] Section 35 (when decision to withdraw authorisation becomes final) has effect as if—
 
 - (a) in subsection (1)—
   - (i) after “2” there were inserted “ or 2A ”;
@@ -1615,7 +1615,7 @@ Section 38
 
 **5.** The Pensions Act 2004 is amended as follows.
 
-**6.**[^key-8c62907914f19cac6da75fba63fcfefd][^key-024944b6d22c0fa6acf4ada07db48846] In section 13 (improvement notices), in subsection (7) (meaning of “pensions legislation”)—
+**6.**[^c-8c62907914f19cac6da75fba63fcfefd][^c-024944b6d22c0fa6acf4ada07db48846] In section 13 (improvement notices), in subsection (7) (meaning of “pensions legislation”)—
 
 - (a) in the opening words, after “by virtue of” insert “ any of the following ”;
 - (b) omit the “or” at the end of paragraph (f);
@@ -1623,13 +1623,13 @@ Section 38
 
   > - (h) Part 1 of the Pension Schemes Act 2017.
 
-**7.**[^key-5921132bdc4321ed06fd5595172c8799][^key-08799d2390e60b2bae18e41b9e8310b6] In section 70 (duty to report breaches of the law), in subsection (1), at the end insert—
+**7.**[^c-5921132bdc4321ed06fd5595172c8799][^c-08799d2390e60b2bae18e41b9e8310b6] In section 70 (duty to report breaches of the law), in subsection (1), at the end insert—
 
 > - (f) a scheme strategist or scheme funder of a Master Trust scheme within the meaning of Part 1 of the Pension Schemes Act 2017 (see section 39 of that Act).
 
-**8.**[^c22725711][^key-cf896935e2574a3cbd948eae7513fe95][^key-209b77a577d40f23d5d422a46d3f9de1] In section 72 (provision of information), in subsection (1A), after “2008” insert “ or Part 1 of the Pension Schemes Act 2017 ”.
+**8.**[^c22725711][^c-cf896935e2574a3cbd948eae7513fe95][^c-209b77a577d40f23d5d422a46d3f9de1] In section 72 (provision of information), in subsection (1A), after “2008” insert “ or Part 1 of the Pension Schemes Act 2017 ”.
 
-**9.**[^key-8b22f122d94395229d4467f2e0fc1b7e] (1) Section 90 (codes of practice) is amended as follows.
+**9.**[^c-8b22f122d94395229d4467f2e0fc1b7e] (1) Section 90 (codes of practice) is amended as follows.
 
 (2) In subsection (2) (matters on which the Pensions Regulator must issue codes of practice), after paragraph (j) insert—
 
@@ -1647,13 +1647,13 @@ Section 38
   >
   > - (g) the Pension Schemes Act 2017.
 
-**10.**[^key-eb9bf26f4a2a2a6ab1e22ad82761c993][^key-1d05d7c6d78ad1a6a72cc443c2736622] In section 93(2) (“regulatory functions” of the Regulator subject to procedure), omit the “and” at the end of paragraph (p) and after that paragraph insert—
+**10.**[^c-eb9bf26f4a2a2a6ab1e22ad82761c993][^c-1d05d7c6d78ad1a6a72cc443c2736622] In section 93(2) (“regulatory functions” of the Regulator subject to procedure), omit the “and” at the end of paragraph (p) and after that paragraph insert—
 
 > - (pa) the power to give a direction under section 26(7) of the Pension Schemes Act 2017 (direction to submit implementation strategy), and
 
 .
 
-**11.**[^key-2a1e3a1b2514242da74bfcaa0ea0100f][^key-618a3354b85b6fe60e6b763a55de8a9a] In section 97(5) (special procedure: applicable cases), after paragraph (ta) insert—
+**11.**[^c-2a1e3a1b2514242da74bfcaa0ea0100f][^c-618a3354b85b6fe60e6b763a55de8a9a] In section 97(5) (special procedure: applicable cases), after paragraph (ta) insert—
 
 > - (tb) the power to withdraw authorisation of a Master Trust scheme under section 19 of the Pension Schemes Act 2017;
 > - (tc) the power to make a pause order under section 31 of that Act;
@@ -1674,7 +1674,7 @@ Section 38
 
   > - (xi) sections 21(7), 23(7), 26(9), 28(6), 29(2) and 33(5) of and paragraph 1(7) of Schedule 1 to the Pension Schemes Act 2017.
 
-**13.**[^key-a1a86f74c0aab73b5cac6775e4b3f84e][^key-0e0d809c21b3d70d700ed158f009d365] In Schedule 2 (functions exercisable by the Determinations Panel), after Part 4 insert—
+**13.**[^c-a1a86f74c0aab73b5cac6775e4b3f84e][^c-0e0d809c21b3d70d700ed158f009d365] In Schedule 2 (functions exercisable by the Determinations Panel), after Part 4 insert—
 
 > **Part 4A — Functions under the Pension Schemes Act 2017**
 >
@@ -1694,7 +1694,7 @@ Section 38
 
 ### Pensions Act 2008 (c. 30)
 
-**14.**[^key-624ac21c2f76eb880f7dd06087938833][^key-f666cc0b064978a08cc0c5d508fdde93] In section 31 of the Pensions Act 2008 (effect of freezing order or assessment period: qualifying schemes)—
+**14.**[^c-624ac21c2f76eb880f7dd06087938833][^c-f666cc0b064978a08cc0c5d508fdde93] In section 31 of the Pensions Act 2008 (effect of freezing order or assessment period: qualifying schemes)—
 
 - (a) in subsection (3), in the definition of “freezing event”, after paragraph (b) insert
 
@@ -1712,326 +1712,326 @@ Section 38
 
 ## Annotations
 
-[^key-b34aedb0e4deb6cc8e057632b9b4c895]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2017/17) excluded in part (18.3.2026) by 2004 c. 12, s. 274ZZA(2) (as inserted by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/5))
+[^c-b34aedb0e4deb6cc8e057632b9b4c895]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2017/17) excluded in part (18.3.2026) by 2004 c. 12, s. 274ZZA(2) (as inserted by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/5))
 
-[^key-3f1a3d64843f7362bd84c6afdfd1c4e5]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2017/17/part/1) excluded (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2018/1030/regulation/27)
+[^c-3f1a3d64843f7362bd84c6afdfd1c4e5]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2017/17/part/1) excluded (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2018/1030/regulation/27)
 
-[^key-7367a14e60ef560c1dd41ab327f0227a]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2017/17/part/1) excluded (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2018/1030/regulation/26)
+[^c-7367a14e60ef560c1dd41ab327f0227a]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2017/17/part/1) excluded (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2018/1030/regulation/26)
 
-[^key-5906e965c107dcc499f8b8a60787e2a1]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2017/17/part/1) modified (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [28(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/28/2)
+[^c-5906e965c107dcc499f8b8a60787e2a1]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2017/17/part/1) modified (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [28(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/28/2)
 
-[^key-f1819720851a3deb8c68af20b65646f2]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2017/17/part/1) modified (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/28/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/28/4/a)[(b)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/28/4/b)
+[^c-f1819720851a3deb8c68af20b65646f2]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2017/17/part/1) modified (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/28/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/28/4/a)[(b)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/28/4/b)
 
-[^key-fa7ba3c99fc0daad5e02cb70c986ae75]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2017/17/part/1): power to disapply conferred (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 47(3)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/47/3/b), [131(1)(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1/3/a); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-fa7ba3c99fc0daad5e02cb70c986ae75]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2017/17/part/1): power to disapply conferred (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 47(3)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/47/3/b), [131(1)(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1/3/a); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
 
 [^c22725601]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/17/section/1) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/i)
 
-[^key-96ba39d692096ecf579b6908b87d9547]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/17/section/1) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-96ba39d692096ecf579b6908b87d9547]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/17/section/1) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-92da74cdf3aa4af01b8263f888a29d81]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/17/section/1) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-92da74cdf3aa4af01b8263f888a29d81]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/17/section/1) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-6d85973e08077cf0fec4fca7e046c239]: Textual amendment: Word in [s. 1(1)(c)](https://www.legislation.gov.uk/ukpga/2017/17/section/1/1/c) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(2)(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/2/a)
+[^c-6d85973e08077cf0fec4fca7e046c239]: Textual amendment: Word in [s. 1(1)(c)](https://www.legislation.gov.uk/ukpga/2017/17/section/1/1/c) omitted (31.7.2026) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(2)(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/2/a)
 
-[^key-cad57ab3aee94820a3654619d232a4b3]: Textual amendment: Word in [s. 1(1)(d)](https://www.legislation.gov.uk/ukpga/2017/17/section/1/1/d) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(2)(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/2/b)
+[^c-cad57ab3aee94820a3654619d232a4b3]: Textual amendment: Word in [s. 1(1)(d)](https://www.legislation.gov.uk/ukpga/2017/17/section/1/1/d) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(2)(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/2/b)
 
-[^key-163313faea8f3cd8036b4fe2089788c5]: Textual amendment: [S. 1(1)(e)](https://www.legislation.gov.uk/ukpga/2017/17/section/1/1/e) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(2)(c)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/2/c)
+[^c-163313faea8f3cd8036b4fe2089788c5]: Textual amendment: [S. 1(1)(e)](https://www.legislation.gov.uk/ukpga/2017/17/section/1/1/e) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(2)(c)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/2/c)
 
-[^key-73a9ae92d447669351de569fdbd1254e]: Textual amendment: [S. 1(1A)](https://www.legislation.gov.uk/ukpga/2017/17/section/1/1A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(2)(d)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/2/d)
+[^c-73a9ae92d447669351de569fdbd1254e]: Textual amendment: [S. 1(1A)](https://www.legislation.gov.uk/ukpga/2017/17/section/1/1A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(2)(d)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/2/d)
 
-[^key-7f164a31b84ac181d313594056e84a27]: Modification: [S. 1(2)](https://www.legislation.gov.uk/ukpga/2017/17/section/1/2) excluded (18.3.2026) by 2004 c. 12, s. 274ZZA(3) (as inserted by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/5))
+[^c-7f164a31b84ac181d313594056e84a27]: Modification: [S. 1(2)](https://www.legislation.gov.uk/ukpga/2017/17/section/1/2) excluded (18.3.2026) by 2004 c. 12, s. 274ZZA(3) (as inserted by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/5))
 
 [^c22725611]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/17/section/2) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/i)
 
-[^key-0ee0cab79a429b20ef62a53758235966]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/17/section/2) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-0ee0cab79a429b20ef62a53758235966]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/17/section/2) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-d78db49681f5620ef2055793413c0d47]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/17/section/2) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-d78db49681f5620ef2055793413c0d47]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/17/section/2) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-d34e9f0897f1bb7edbf289eda9ab7cb3]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/17/section/3) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-d34e9f0897f1bb7edbf289eda9ab7cb3]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/17/section/3) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-bed9e804d92fab32585ab678b73f5631]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/17/section/3) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-bed9e804d92fab32585ab678b73f5631]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/17/section/3) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-61c4e71d5ebd50569ff4ddfa9ccfcd83]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/17/section/4) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-61c4e71d5ebd50569ff4ddfa9ccfcd83]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/17/section/4) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-c36ae4ffde30205bfeb9657c7250d01d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/17/section/4) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-c36ae4ffde30205bfeb9657c7250d01d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/17/section/4) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-2daf132cfa522cd3d0fc89810d0499d5]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/17/section/5) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-2daf132cfa522cd3d0fc89810d0499d5]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/17/section/5) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-7c25a883a4cf73ede9d082cd04f10b0a]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/17/section/5) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-7c25a883a4cf73ede9d082cd04f10b0a]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/17/section/5) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-42b277fa4f67f7a3aa5689499ceadf81]: Textual amendment: Word in [s. 5(3)](https://www.legislation.gov.uk/ukpga/2017/17/section/5/3) omitted (29.4.2026 for specified purposes) by virtue of [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 41(7)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/41/7/a), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c/ii)
+[^c-42b277fa4f67f7a3aa5689499ceadf81]: Textual amendment: Word in [s. 5(3)](https://www.legislation.gov.uk/ukpga/2017/17/section/5/3) omitted (29.4.2026 for specified purposes) by virtue of [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 41(7)(a)](https://www.legislation.gov.uk/ukpga/2026/22/section/41/7/a), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c/ii)
 
-[^key-29cfee2ea393045d3eec7ebfc14c2d52]: Textual amendment: [S. 5(3)(f)](https://www.legislation.gov.uk/ukpga/2017/17/section/5/3/f)[(g)](https://www.legislation.gov.uk/ukpga/2017/17/section/5/3/g) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 41(7)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/41/7/b), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c/ii)
+[^c-29cfee2ea393045d3eec7ebfc14c2d52]: Textual amendment: [S. 5(3)(f)](https://www.legislation.gov.uk/ukpga/2017/17/section/5/3/f)[(g)](https://www.legislation.gov.uk/ukpga/2017/17/section/5/3/g) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 41(7)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/41/7/b), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c/ii)
 
-[^key-ac59e8c9b4ad2703a16201c9e12210ff]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/17/section/6) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-ac59e8c9b4ad2703a16201c9e12210ff]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/17/section/6) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-f47db79923dfc1dcf922660c1a0265b1]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/17/section/6) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-f47db79923dfc1dcf922660c1a0265b1]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/17/section/6) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-4c85e66d0bb814f11dc2c03f92887f80]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/17/section/7) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-4c85e66d0bb814f11dc2c03f92887f80]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/17/section/7) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-4f7ea2f769c2843916b9ff2a4d11c350]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/17/section/7) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-4f7ea2f769c2843916b9ff2a4d11c350]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/17/section/7) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-1e4445d8d3607d2cedf899cfe40771b5]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/17/section/8) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-1e4445d8d3607d2cedf899cfe40771b5]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/17/section/8) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-f03258f0f2c41915539323cba98606f2]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/17/section/8) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-f03258f0f2c41915539323cba98606f2]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/17/section/8) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-c410533e54f6b83ea8484d1536d87446]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/17/section/9) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-c410533e54f6b83ea8484d1536d87446]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/17/section/9) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-c63a5bf1601c269e0fc36e5fdc14a474]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/17/section/9) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-c63a5bf1601c269e0fc36e5fdc14a474]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/17/section/9) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-084a66f5b953b5798660121e18caf3f6]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/17/section/10) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-084a66f5b953b5798660121e18caf3f6]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/17/section/10) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-c0804ef26ea442cb7aab0821931bdb49]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/17/section/10) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-c0804ef26ea442cb7aab0821931bdb49]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/17/section/10) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-bae2442f0962ec3bc5d657a882bbee89]: Modification: [S. 10(3)](https://www.legislation.gov.uk/ukpga/2017/17/section/10/3) restricted (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2018/1030/regulation/8)
+[^c-bae2442f0962ec3bc5d657a882bbee89]: Modification: [S. 10(3)](https://www.legislation.gov.uk/ukpga/2017/17/section/10/3) restricted (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2018/1030/regulation/8)
 
-[^key-280f5aba75b7eea6ea7e2528ffe32689]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/17/section/11) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-280f5aba75b7eea6ea7e2528ffe32689]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/17/section/11) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-c7b9d4381a636a4e57fce647909a9436]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/17/section/11) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-c7b9d4381a636a4e57fce647909a9436]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/17/section/11) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-3656710fa67b3ff42f54492430e8e6b0]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/17/section/12) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-3656710fa67b3ff42f54492430e8e6b0]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/17/section/12) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-e51ea6ccf59da41a2a11929c234c73cf]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/17/section/12) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-e51ea6ccf59da41a2a11929c234c73cf]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/17/section/12) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-f8424e10e968d021c58d4f0e082a830a]: Textual amendment: [Ss. 12A](https://www.legislation.gov.uk/ukpga/2017/17/section/12A), [12B](https://www.legislation.gov.uk/ukpga/2017/17/section/12B) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 41(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/41/8), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c/ii)
+[^c-f8424e10e968d021c58d4f0e082a830a]: Textual amendment: [Ss. 12A](https://www.legislation.gov.uk/ukpga/2017/17/section/12A), [12B](https://www.legislation.gov.uk/ukpga/2017/17/section/12B) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 41(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/41/8), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/c/ii)
 
-[^key-d49b4cb1366f6ca57ea0e3ca37525c70]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/17/section/13) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-d49b4cb1366f6ca57ea0e3ca37525c70]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/17/section/13) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-eed9bbd4eb7b7dabff1a58e5f5705f70]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/17/section/13) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-eed9bbd4eb7b7dabff1a58e5f5705f70]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/17/section/13) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-b1966a2721e84cdb677f46a2c4e44451]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/17/section/14) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-b1966a2721e84cdb677f46a2c4e44451]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/17/section/14) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-a3794a5df8822e6e2561fbf31290fdbb]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/17/section/14) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-a3794a5df8822e6e2561fbf31290fdbb]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/17/section/14) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-be21fe54e22958798828662a11c48524]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/17/section/15) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-be21fe54e22958798828662a11c48524]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/17/section/15) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-50520f42b3e96b90168b36781382e3f7]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/17/section/15) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-50520f42b3e96b90168b36781382e3f7]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/17/section/15) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-47cbae70c8f7aa0aed88eebfa96bce23]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/17/section/16) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-47cbae70c8f7aa0aed88eebfa96bce23]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/17/section/16) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-6ecf17d0046626124466c53f717bb9b3]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/17/section/16) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-6ecf17d0046626124466c53f717bb9b3]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2017/17/section/16) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
 [^c22725621]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/17/section/17) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/ii)
 
-[^key-ba1cb8d4439772abf9d2f2790de39dcf]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/17/section/17) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-ba1cb8d4439772abf9d2f2790de39dcf]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/17/section/17) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-fdb4b15b06e7164de9279fb69118a069]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/17/section/17) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-fdb4b15b06e7164de9279fb69118a069]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/17/section/17) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-9d13d40aeabae23a2c37fd4e6c104f11]: Textual amendment: Word in [s. 17](https://www.legislation.gov.uk/ukpga/2017/17/section/17) title inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 19(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/19/2); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+[^c-9d13d40aeabae23a2c37fd4e6c104f11]: Textual amendment: Word in [s. 17](https://www.legislation.gov.uk/ukpga/2017/17/section/17) title inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 19(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/19/2); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
 
-[^key-df2f5c205d454282e03f79679625a108]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/17/1) substituted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 19(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/19/3/a); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+[^c-df2f5c205d454282e03f79679625a108]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/17/1) substituted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 19(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/19/3/a); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
 
-[^key-696e84c3034776861fc66d3554395776]: Textual amendment: [S. 17(1)(b)](https://www.legislation.gov.uk/ukpga/2017/17/section/17/1/b) and word inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 19(3)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/19/3/b); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+[^c-696e84c3034776861fc66d3554395776]: Textual amendment: [S. 17(1)(b)](https://www.legislation.gov.uk/ukpga/2017/17/section/17/1/b) and word inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 19(3)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/19/3/b); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
 
 [^c22725631]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/17/section/18) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/ii)
 
-[^key-3de4f79e7ba8136bf8e739bee5354564]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/17/section/18) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-3de4f79e7ba8136bf8e739bee5354564]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/17/section/18) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-89163b96e5ff750ae149f3bce916d10f]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/17/section/18) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-89163b96e5ff750ae149f3bce916d10f]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/17/section/18) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-9c3ed43a571d60b4f52c7c6c61b5e6f8]: Textual amendment: Word in [s. 18](https://www.legislation.gov.uk/ukpga/2017/17/section/18) title inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/2); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+[^c-9c3ed43a571d60b4f52c7c6c61b5e6f8]: Textual amendment: Word in [s. 18](https://www.legislation.gov.uk/ukpga/2017/17/section/18) title inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/2); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
 
-[^key-f7e43cba4fdf2757acaf5e2000978b6a]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/1) substituted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/3/a); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+[^c-f7e43cba4fdf2757acaf5e2000978b6a]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/1) substituted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/3/a); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
 
-[^key-1255d88b3e5f6ccbd848082c4a793a5d]: Textual amendment: [S. 18(1)(b)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/1/b) and word inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(3)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/3/b); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+[^c-1255d88b3e5f6ccbd848082c4a793a5d]: Textual amendment: [S. 18(1)(b)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/1/b) and word inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(3)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/3/b); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
 
-[^key-4feeaff8ced5a57fa8e7f27a0bd0b32a]: Textual amendment: Words in [s. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/2/a) inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(4)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/4); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+[^c-4feeaff8ced5a57fa8e7f27a0bd0b32a]: Textual amendment: Words in [s. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/2/a) inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(4)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/4); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
 
-[^key-bbdd60b72959bf434793148b0c6deada]: Textual amendment: Words in [s. 18(3)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/3) inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(5)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/5); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+[^c-bbdd60b72959bf434793148b0c6deada]: Textual amendment: Words in [s. 18(3)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/3) inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(5)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/5); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
 
-[^key-084eb196334224c3739c9f9445718738]: Textual amendment: Words in [s. 18(6)(b)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/6/b) inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(6)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/6/a); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+[^c-084eb196334224c3739c9f9445718738]: Textual amendment: Words in [s. 18(6)(b)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/6/b) inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(6)(a)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/6/a); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
 
-[^key-36d41dbbd27962469320e6c51fc28063]: Textual amendment: Words in [s. 18(6)(e)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/6/e) inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(6)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/6/b); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
+[^c-36d41dbbd27962469320e6c51fc28063]: Textual amendment: Words in [s. 18(6)(e)](https://www.legislation.gov.uk/ukpga/2017/17/section/18/6/e) inserted (29.6.2022) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1), [Sch. 7 para. 20(6)(b)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/7/paragraph/20/6/b); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/721/regulation/2/d)
 
-[^key-a4006f002ae1b29c3b4c9d752c2dbf55]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/17/section/19) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-a4006f002ae1b29c3b4c9d752c2dbf55]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/17/section/19) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-c1ba306c3484dc1d5632159999c6b360]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/17/section/19) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-c1ba306c3484dc1d5632159999c6b360]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/17/section/19) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
 [^c22725651]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/17/section/20) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/iii)
 
-[^key-7cc7ab786da9cc6cef6cd916b1409f3d]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/17/section/20) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-7cc7ab786da9cc6cef6cd916b1409f3d]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/17/section/20) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-68a2a6f782b326c4269be6353e4d42cd]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/17/section/20) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-68a2a6f782b326c4269be6353e4d42cd]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/17/section/20) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
 [^c22725661]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/17/section/21) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/iii)
 
-[^key-aff356793aace89435d94b154b0ae1d5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/17/section/21) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-aff356793aace89435d94b154b0ae1d5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/17/section/21) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-6f59692deeca44682ef82b7bffb9273a]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/17/section/21) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-6f59692deeca44682ef82b7bffb9273a]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/17/section/21) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
 [^c22725671]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/17/section/22) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/iii)
 
-[^key-42b33eeb5f42ef7888c539c8f3dc55d9]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/17/section/22) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-42b33eeb5f42ef7888c539c8f3dc55d9]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/17/section/22) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-4666d3d0bd737cf6cc9fb28762071ce0]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/17/section/22) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-4666d3d0bd737cf6cc9fb28762071ce0]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/17/section/22) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-898a1eb5d9fa3aa086cd9a3ae4412b8e]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/17/section/23) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-898a1eb5d9fa3aa086cd9a3ae4412b8e]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/17/section/23) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-7768b1d86179c77e7fe4ea1f056dca90]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/17/section/23) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-7768b1d86179c77e7fe4ea1f056dca90]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/17/section/23) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-f41c195e608e9ac7ed47fb67c5527b9a]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/17/section/24) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-f41c195e608e9ac7ed47fb67c5527b9a]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/17/section/24) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-5f9ec584387ad5f893d7ae91a5647132]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/17/section/24) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-5f9ec584387ad5f893d7ae91a5647132]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2017/17/section/24) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
 [^c22725681]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/17/section/25) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/iii)
 
-[^key-f56ffece86cc335b2c476ec2923d66c4]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/17/section/25) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-f56ffece86cc335b2c476ec2923d66c4]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/17/section/25) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-ed7d12f7a02e58a670ffdd3ef705af44]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/17/section/25) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-ed7d12f7a02e58a670ffdd3ef705af44]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2017/17/section/25) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-3a8c95313a671b773ea52d90b31f0f34]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/17/section/26) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-3a8c95313a671b773ea52d90b31f0f34]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/17/section/26) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-0e78f181d2e4d922eb2db9b4f4bb9ed7]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/17/section/26) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-0e78f181d2e4d922eb2db9b4f4bb9ed7]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/17/section/26) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-13e2d45e82b3bd0d3e23ac1623a139b7]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/17/section/27) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-13e2d45e82b3bd0d3e23ac1623a139b7]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/17/section/27) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-7734ed4aafb8e153736bc9be86ee9c32]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/17/section/27) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-7734ed4aafb8e153736bc9be86ee9c32]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/17/section/27) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-157c3933239f7f6cd48abed5fef345cd]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/17/section/28) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-157c3933239f7f6cd48abed5fef345cd]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/17/section/28) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-184728ef41e33b5d91116dac0549fd86]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/17/section/28) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-184728ef41e33b5d91116dac0549fd86]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/17/section/28) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-e8656f3711410f201048745b5485eb1b]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/17/section/29) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-e8656f3711410f201048745b5485eb1b]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/17/section/29) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-4779049b337419136341615ea353dfcb]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/17/section/29) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-4779049b337419136341615ea353dfcb]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/17/section/29) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-da0293de0f97ba90876b79ff096c6261]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/17/section/30) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-da0293de0f97ba90876b79ff096c6261]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/17/section/30) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-2e6517938985f095554efa0139a2dfac]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/17/section/30) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-2e6517938985f095554efa0139a2dfac]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/17/section/30) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-6962e402c72a28ce50e868bd3dd0a8fc]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/17/section/31) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-6962e402c72a28ce50e868bd3dd0a8fc]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/17/section/31) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-d6d36e0c7377624a0f07382f820a5a03]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/17/section/31) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-d6d36e0c7377624a0f07382f820a5a03]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2017/17/section/31) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-2688ae393964c6930ff9199abca09de0]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/17/section/32) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-2688ae393964c6930ff9199abca09de0]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/17/section/32) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-e43d0451f67d9e04b1c4cab9c4b3456c]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/17/section/32) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-e43d0451f67d9e04b1c4cab9c4b3456c]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2017/17/section/32) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
 [^c22725691]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2017/17/section/33) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/iii)
 
-[^key-b0dce105fa3114014061ae22379c9d6f]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2017/17/section/33) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-b0dce105fa3114014061ae22379c9d6f]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2017/17/section/33) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-8e5bd46e2236fcab80f62fe25c650f39]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2017/17/section/33) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-8e5bd46e2236fcab80f62fe25c650f39]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2017/17/section/33) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-b116f9710707294e05f62721764e88f8]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/17/section/34) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-b116f9710707294e05f62721764e88f8]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/17/section/34) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-f9d054f0ff9757fc0a2d9f944c3f10a7]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/17/section/34) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-f9d054f0ff9757fc0a2d9f944c3f10a7]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2017/17/section/34) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-7ef48e4014c0223b8c3a053a7195543f]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/17/section/35) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-7ef48e4014c0223b8c3a053a7195543f]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/17/section/35) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-c9aaa276d6d2fbbfac1c734cc7a31d5c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/17/section/35) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-c9aaa276d6d2fbbfac1c734cc7a31d5c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2017/17/section/35) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-ca913db1029d12ee8055f0366619a5c3]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/17/section/36) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-ca913db1029d12ee8055f0366619a5c3]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/17/section/36) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-14517800d6e2632b483fbb5a960f9a6b]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/17/section/36) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-14517800d6e2632b483fbb5a960f9a6b]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/17/section/36) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
 [^c22725051]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/17/section/37) in force at Royal Assent for specified purposes, see [s. 44(1)(b)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/b)
 
-[^key-776b3ffe6457b3cc9730cef046a9b32c]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/17/section/37) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-776b3ffe6457b3cc9730cef046a9b32c]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/17/section/37) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-d9ba2a3743063ed5c2e57e9a6b3b1674]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/17/section/37) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-d9ba2a3743063ed5c2e57e9a6b3b1674]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2017/17/section/37) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
 [^c22725721]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/17/section/38) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(iv)(c)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/iv/c)
 
-[^key-ffa63bac73e17ef141d60206e95f5c07]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/17/section/38) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-ffa63bac73e17ef141d60206e95f5c07]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/17/section/38) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-8983fda4cd1443d6c9ab03da98416072]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/17/section/38) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-8983fda4cd1443d6c9ab03da98416072]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2017/17/section/38) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
 [^c22726271]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2017/17/section/39) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(v)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/v)
 
-[^key-d793cbc93721cb78edffe54ecb19e792]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2017/17/section/39) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-d793cbc93721cb78edffe54ecb19e792]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2017/17/section/39) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-ea8f36a005ddd3a6eaaa181421f1b5a7]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2017/17/section/39) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-ea8f36a005ddd3a6eaaa181421f1b5a7]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2017/17/section/39) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-51da660ec9b081bd24032319f5f7f6fc]: Textual amendment: Words in [s. 39(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/39/1) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/3/a/i)
+[^c-51da660ec9b081bd24032319f5f7f6fc]: Textual amendment: Words in [s. 39(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/39/1) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/3/a/i)
 
-[^key-01cbf4f60e057850ddb6ab7ac94bbeb3]: Textual amendment: Words in [s. 39(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/39/1) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/3/a/ii)
+[^c-01cbf4f60e057850ddb6ab7ac94bbeb3]: Textual amendment: Words in [s. 39(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/39/1) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/3/a/ii)
 
-[^key-647ecc11df5bcca148d8e1254252bc89]: Textual amendment: [S. 39(4A)-(4C)](https://www.legislation.gov.uk/ukpga/2017/17/section/39/4A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(3)(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/3/b)
+[^c-647ecc11df5bcca148d8e1254252bc89]: Textual amendment: [S. 39(4A)-(4C)](https://www.legislation.gov.uk/ukpga/2017/17/section/39/4A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [81(3)(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/81/3/b)
 
-[^key-b3d24f3024715e69ffedd2c6972202bf]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/17/section/40) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-b3d24f3024715e69ffedd2c6972202bf]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/17/section/40) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-533b5786fbc05a2b9b441e8dc7fc3ae8]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/17/section/40) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-533b5786fbc05a2b9b441e8dc7fc3ae8]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2017/17/section/40) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-0f8883a622b1405a3337735ac7a44ce5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/1) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-0f8883a622b1405a3337735ac7a44ce5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/1) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-ba9e9d43e4fac6ae9f38dd8ee7e942f1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/1) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-ba9e9d43e4fac6ae9f38dd8ee7e942f1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/1) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-0258caf8df95114422e73109d8c92467]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/2) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-0258caf8df95114422e73109d8c92467]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/2) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-474a7ab95a61be9756bd0db62e61986c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/2) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-474a7ab95a61be9756bd0db62e61986c]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/2) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-a403840573b36c1e652a1cb3a564d43a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/3) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-a403840573b36c1e652a1cb3a564d43a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/3) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-3d81a90479d2e3e859cec69450c6a62d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/3) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-3d81a90479d2e3e859cec69450c6a62d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/3) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-92266a8bd87260c16bc46f01991be0a3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/4) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-92266a8bd87260c16bc46f01991be0a3]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/4) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-958c930063aeff8c927b51c9c34f23dd]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/4) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-958c930063aeff8c927b51c9c34f23dd]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/4) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-7ae98a548d1f5f5c7617e9b8a5bb06d6]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/5) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-7ae98a548d1f5f5c7617e9b8a5bb06d6]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/5) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-f69be7f080c1760ee4b0a6c638bc54b4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/5) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-f69be7f080c1760ee4b0a6c638bc54b4]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/17/schedule/1/paragraph/5) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-8eb3af03237fe9f776c730e70fd0952d]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/8) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-8eb3af03237fe9f776c730e70fd0952d]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/8) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-df8311ab420e74b2b5b7043605842ca0]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/8) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-df8311ab420e74b2b5b7043605842ca0]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/8) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-0051006e89bbdb666d84f9f7b4b4e97e]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/9) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-0051006e89bbdb666d84f9f7b4b4e97e]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/9) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-f8d7054f47df8cc2edf038f1abff03e8]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/9) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-f8d7054f47df8cc2edf038f1abff03e8]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/9) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-caa75145e6734ac2a18f4116d73c3887]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/10) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-caa75145e6734ac2a18f4116d73c3887]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/10) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-9f12cec6612b8bbac16d23a04e1c1959]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/10) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-9f12cec6612b8bbac16d23a04e1c1959]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/10) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-8519e2f76ad460531b92ef498dbad95d]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/11) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-8519e2f76ad460531b92ef498dbad95d]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/11) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-666dba6a7cf4980c5b5b1950bbf7cf94]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/11) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-666dba6a7cf4980c5b5b1950bbf7cf94]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/11) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-7d1a1dd10891fd090a26a8dc70a1f459]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/12) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-7d1a1dd10891fd090a26a8dc70a1f459]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/12) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-9211bcc7a337e8fd4532f98705cd3fad]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/12) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-9211bcc7a337e8fd4532f98705cd3fad]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/12) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-ca855887ed8df4892f3c11fdfe3a2360]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/13) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-ca855887ed8df4892f3c11fdfe3a2360]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/13) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-2c26bbc98378e7ce62f5db6d97bd7ac5]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/13) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-2c26bbc98378e7ce62f5db6d97bd7ac5]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/13) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-e6b47af1d2f3742943988ac6d813c025]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/14) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-e6b47af1d2f3742943988ac6d813c025]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/14) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-c784b88796077af55592753cf86ce3f2]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/14) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-c784b88796077af55592753cf86ce3f2]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/14) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-b306d05a793e5423208691b32f5cccf5]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/15) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-b306d05a793e5423208691b32f5cccf5]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/15) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-aa6b28ad960514aab1f9e8c420620eb8]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/15) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-aa6b28ad960514aab1f9e8c420620eb8]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2017/17/schedule/2/paragraph/15) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-8c62907914f19cac6da75fba63fcfefd]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/6) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-8c62907914f19cac6da75fba63fcfefd]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/6) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-024944b6d22c0fa6acf4ada07db48846]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/6) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-024944b6d22c0fa6acf4ada07db48846]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/6) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-5921132bdc4321ed06fd5595172c8799]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/7) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-5921132bdc4321ed06fd5595172c8799]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/7) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-08799d2390e60b2bae18e41b9e8310b6]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/7) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-08799d2390e60b2bae18e41b9e8310b6]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/7) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
 [^c22725711]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/8) in force at Royal Assent for specified purposes, see [s. 44(1)(a)(iv)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/1/a/iv)
 
-[^key-cf896935e2574a3cbd948eae7513fe95]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/8) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-cf896935e2574a3cbd948eae7513fe95]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/8) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-209b77a577d40f23d5d422a46d3f9de1]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/8) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-209b77a577d40f23d5d422a46d3f9de1]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/8) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-8b22f122d94395229d4467f2e0fc1b7e]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/9) in force at 1.2.2018 by [S.I. 2018/62](https://www.legislation.gov.uk/uksi/2018/62), [reg. 2](https://www.legislation.gov.uk/uksi/2018/62/regulation/2)
+[^c-8b22f122d94395229d4467f2e0fc1b7e]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/9) in force at 1.2.2018 by [S.I. 2018/62](https://www.legislation.gov.uk/uksi/2018/62), [reg. 2](https://www.legislation.gov.uk/uksi/2018/62/regulation/2)
 
-[^key-eb9bf26f4a2a2a6ab1e22ad82761c993]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/10) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-eb9bf26f4a2a2a6ab1e22ad82761c993]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/10) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-1d05d7c6d78ad1a6a72cc443c2736622]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/10) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-1d05d7c6d78ad1a6a72cc443c2736622]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/10) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-2a1e3a1b2514242da74bfcaa0ea0100f]: Commencement: Sch. 3 para. 11 in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-2a1e3a1b2514242da74bfcaa0ea0100f]: Commencement: Sch. 3 para. 11 in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-618a3354b85b6fe60e6b763a55de8a9a]: Commencement: Sch. 3 para. 11 in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-618a3354b85b6fe60e6b763a55de8a9a]: Commencement: Sch. 3 para. 11 in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-a1a86f74c0aab73b5cac6775e4b3f84e]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/13) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-a1a86f74c0aab73b5cac6775e4b3f84e]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/13) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-0e0d809c21b3d70d700ed158f009d365]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/13) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-0e0d809c21b3d70d700ed158f009d365]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/13) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
 
-[^key-624ac21c2f76eb880f7dd06087938833]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/14) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-624ac21c2f76eb880f7dd06087938833]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/14) in force at 5.9.2018 for specified purposes by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
 
-[^key-f666cc0b064978a08cc0c5d508fdde93]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/14) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)
+[^c-f666cc0b064978a08cc0c5d508fdde93]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2017/17/schedule/3/paragraph/14) in force at 1.10.2018 in so far as not already in force by [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/b)

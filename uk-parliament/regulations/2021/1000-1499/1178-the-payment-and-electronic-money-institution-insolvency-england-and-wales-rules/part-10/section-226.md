@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 226. Costs of officers charged with execution of writs or other process[^key-dd3c5855403d744888b5e9ccc0201280]
+## 226. Costs of officers charged with execution of writs or other process[^c-dd3c5855403d744888b5e9ccc0201280]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dd3c5855403d744888b5e9ccc0201280]: Commencement: Rule 226 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-dd3c5855403d744888b5e9ccc0201280]: Commencement: Rule 226 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
 [^f00024]: Footnote: Section 184 was amended by Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).

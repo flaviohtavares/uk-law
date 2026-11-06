@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where—
 
-- (a) the relevant licensing authority makes a determination under section [^key-a8415dbcc876bc7ddbfb8f5784e95382]... 124(4),
+- (a) the relevant licensing authority makes a determination under section [^c-a8415dbcc876bc7ddbfb8f5784e95382]... 124(4),
 - (b) it receives a notice under section 123(1), 127, 131 or 132, or
 - (c) an appeal against a decision under this Part is disposed of,
 
@@ -40,4 +40,4 @@ in relation to a personal licence, the authority must make the appropriate amend
 
 ## Annotations
 
-[^key-a8415dbcc876bc7ddbfb8f5784e95382]: Textual amendment: Words in s. 134(1)(a) omitted (1.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 18 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/18/paragraph/11) (with [s. 69(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/3)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)
+[^c-a8415dbcc876bc7ddbfb8f5784e95382]: Textual amendment: Words in s. 134(1)(a) omitted (1.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 18 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/18/paragraph/11) (with [s. 69(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/3)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)

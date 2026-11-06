@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Payment of interim administrator or trustee (Scotland)[^key-b901a3c221d20e454e2749ce0345d58d]
+## 195. Payment of interim administrator or trustee (Scotland)[^c-b901a3c221d20e454e2749ce0345d58d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b901a3c221d20e454e2749ce0345d58d]: Commencement: [Art. 195](https://www.legislation.gov.uk/uksi/2005/3181/article/195) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-b901a3c221d20e454e2749ce0345d58d]: Commencement: [Art. 195](https://www.legislation.gov.uk/uksi/2005/3181/article/195) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

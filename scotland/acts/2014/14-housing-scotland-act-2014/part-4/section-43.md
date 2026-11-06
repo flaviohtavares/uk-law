@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. No payment for letting agency work where refusal or removal[^key-ce238c86b6423fc8854e2dc05af73f34]
+## 43. No payment for letting agency work where refusal or removal[^c-ce238c86b6423fc8854e2dc05af73f34]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce238c86b6423fc8854e2dc05af73f34]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2014/14/section/43) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-ce238c86b6423fc8854e2dc05af73f34]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2014/14/section/43) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

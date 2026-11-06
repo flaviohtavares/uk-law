@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Local Optical Committees[^key-64d9519ed561b75d2c88c94344fb8006][^key-dcd443eb8160f4cfe3cb30846299da9b]
+## 41. Local Optical Committees[^c-64d9519ed561b75d2c88c94344fb8006][^c-dcd443eb8160f4cfe3cb30846299da9b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64d9519ed561b75d2c88c94344fb8006]: Textual amendment: Ss. 37-42 repealed (1.3.2007 coming into force in accordance with s. 8(4)-(6)) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-64d9519ed561b75d2c88c94344fb8006]: Textual amendment: Ss. 37-42 repealed (1.3.2007 coming into force in accordance with s. 8(4)-(6)) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-dcd443eb8160f4cfe3cb30846299da9b]: Commencement: S. 41 in force at 1.8.2008 by [S.I. 2008/1972](https://www.legislation.gov.uk/uksi/2008/1972), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1972/article/2/a)
+[^c-dcd443eb8160f4cfe3cb30846299da9b]: Commencement: S. 41 in force at 1.8.2008 by [S.I. 2008/1972](https://www.legislation.gov.uk/uksi/2008/1972), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1972/article/2/a)

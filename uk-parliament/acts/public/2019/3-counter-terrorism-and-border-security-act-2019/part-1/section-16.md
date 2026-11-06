@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Evidence obtained under port and border control powers[^key-d089da8c2996e3a66ec169d308a980e9]
+## 16. Evidence obtained under port and border control powers[^c-d089da8c2996e3a66ec169d308a980e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ In Schedule 7 to the Terrorism Act 2000 (port and border controls), after paragr
 
 ## Annotations
 
-[^key-d089da8c2996e3a66ec169d308a980e9]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2019/3/section/16) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/a)
+[^c-d089da8c2996e3a66ec169d308a980e9]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2019/3/section/16) in force at 13.8.2020 by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/a)

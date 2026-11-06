@@ -22,11 +22,11 @@ summary: ''
 
 (1) This regulation applies in relation to a member who, at the date of the member's death is—
 
-- (a) an active member of this scheme, or a relevant[^key-0377897d6d58221af25f9b2b967a33ed] scheme, in relation to a continuous period of pensionable service of at least 12 months;
+- (a) an active member of this scheme, or a relevant[^c-0377897d6d58221af25f9b2b967a33ed] scheme, in relation to a continuous period of pensionable service of at least 12 months;
 - (b) a deferred member of this scheme; or
 - (c) a pensioner member of this scheme.
 
-(2) If the member is a transition member with continuity of service, the continuous period of pensionable service mentioned in paragraph (1)(a) includes the member's period of pensionable service under a relevant[^key-43b7ba5421b7a42e12ad75e2137377dd] scheme before the transition date for that member.
+(2) If the member is a transition member with continuity of service, the continuous period of pensionable service mentioned in paragraph (1)(a) includes the member's period of pensionable service under a relevant[^c-43b7ba5421b7a42e12ad75e2137377dd] scheme before the transition date for that member.
 
 (3) The surviving adult of the member is entitled to payment for life of a surviving adult's pension as follows—
 
@@ -41,12 +41,12 @@ summary: ''
 
 (5) Paragraph (4) is subject to regulation 110.
 
-(6)[^key-18dd4bc18785a554c4a5bc352edc6fd3] In this regulation a reference to “**pensionable service**” in relation to the Fee-Paid Judges Scheme is a reference to qualifying judicial service.
+(6)[^c-18dd4bc18785a554c4a5bc352edc6fd3] In this regulation a reference to “**pensionable service**” in relation to the Fee-Paid Judges Scheme is a reference to qualifying judicial service.
 
 ## Annotations
 
-[^key-0377897d6d58221af25f9b2b967a33ed]: Textual amendment: Words in [reg. 97(1)](https://www.legislation.gov.uk/nisr/2015/76/regulation/97/1) substituted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [7(a)](https://www.legislation.gov.uk/nisr/2023/63/regulation/7/a)
+[^c-0377897d6d58221af25f9b2b967a33ed]: Textual amendment: Words in [reg. 97(1)](https://www.legislation.gov.uk/nisr/2015/76/regulation/97/1) substituted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [7(a)](https://www.legislation.gov.uk/nisr/2023/63/regulation/7/a)
 
-[^key-43b7ba5421b7a42e12ad75e2137377dd]: Textual amendment: Words in [reg. 97(2)](https://www.legislation.gov.uk/nisr/2015/76/regulation/97/2) substituted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [7(a)](https://www.legislation.gov.uk/nisr/2023/63/regulation/7/a)
+[^c-43b7ba5421b7a42e12ad75e2137377dd]: Textual amendment: Words in [reg. 97(2)](https://www.legislation.gov.uk/nisr/2015/76/regulation/97/2) substituted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [7(a)](https://www.legislation.gov.uk/nisr/2023/63/regulation/7/a)
 
-[^key-18dd4bc18785a554c4a5bc352edc6fd3]: Textual amendment: [Reg. 97(6)](https://www.legislation.gov.uk/nisr/2015/76/regulation/97/6) inserted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [7(b)](https://www.legislation.gov.uk/nisr/2023/63/regulation/7/b)
+[^c-18dd4bc18785a554c4a5bc352edc6fd3]: Textual amendment: [Reg. 97(6)](https://www.legislation.gov.uk/nisr/2015/76/regulation/97/6) inserted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [7(b)](https://www.legislation.gov.uk/nisr/2023/63/regulation/7/b)

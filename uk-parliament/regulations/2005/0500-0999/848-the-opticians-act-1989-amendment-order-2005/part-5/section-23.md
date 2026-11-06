@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Consumer complaints[^key-7d4d0dd6bf6be40cc8a1c0238d7234fb]
+## 23. Consumer complaints[^c-7d4d0dd6bf6be40cc8a1c0238d7234fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ For section 32(1) (expenses and accounts of the Council) substitute—
 
 ## Annotations
 
-[^key-7d4d0dd6bf6be40cc8a1c0238d7234fb]: Commencement: Art. 23 comes into force in accordance with art. 1(3)-(6)
+[^c-7d4d0dd6bf6be40cc8a1c0238d7234fb]: Commencement: Art. 23 comes into force in accordance with art. 1(3)-(6)

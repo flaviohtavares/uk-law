@@ -69,7 +69,7 @@ summary: ''
 (10) The provisions mentioned in subsection (9)(e) above are—
 
 - (a) subsection (2)(a) and (b) above; and
-- (b) section 162(1) and (2)[^key-215a3d6da570098601e5f1878c7bf08b] [^c16396591]. . . below.
+- (b) section 162(1) and (2)[^c-215a3d6da570098601e5f1878c7bf08b] [^c16396591]. . . below.
 
 (11)[^c16396601] Any regulations under subsection (9) above which are made by virtue of paragraph (b) of that subsection must be made with the concurrence of the Commissioners of Inland Revenue.
 
@@ -87,7 +87,7 @@ summary: ''
 
 [^c19106031]: Textual amendment: S. 160(9)(ea) inserted (19.11.2002 for certain purposes and 24.11.2002 otherwise) by [Social Security Act (Northern Ireland) 2002 (c. 10 (N.I.))](https://www.legislation.gov.uk/nia/2002/10), [ss. 3(d)](https://www.legislation.gov.uk/nia/2002/10/section/3/d), [9](https://www.legislation.gov.uk/nia/2002/10/section/9); [S.R. 2002/351](https://www.legislation.gov.uk/nisr/2002/351), [art. 2(b)](https://www.legislation.gov.uk/nisr/2002/351/article/2/b), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2002/351/schedule/part/II); [S.R. 2002/358](https://www.legislation.gov.uk/nisr/2002/358), [art. 2(b)](https://www.legislation.gov.uk/nisr/2002/358/article/2/b), [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2002/358/schedule/part/I) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2002/358/article/3/1))
 
-[^key-215a3d6da570098601e5f1878c7bf08b]: Textual amendment: Words in [s. 160(10)(b)](https://www.legislation.gov.uk/ukpga/1992/7/section/160/10/b) substituted (6.4.2003) by [Social Security Act (Northern Ireland) 2002 (c. 10)](https://www.legislation.gov.uk/nia/2002/10), [s. 9(1)](https://www.legislation.gov.uk/nia/2002/10/section/9/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2002/10/schedule/1/paragraph/4); [S.R. 2002/358](https://www.legislation.gov.uk/nisr/2002/358), [art. 2(c)](https://www.legislation.gov.uk/nisr/2002/358/article/2/c), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2002/358/schedule/part/II)
+[^c-215a3d6da570098601e5f1878c7bf08b]: Textual amendment: Words in [s. 160(10)(b)](https://www.legislation.gov.uk/ukpga/1992/7/section/160/10/b) substituted (6.4.2003) by [Social Security Act (Northern Ireland) 2002 (c. 10)](https://www.legislation.gov.uk/nia/2002/10), [s. 9(1)](https://www.legislation.gov.uk/nia/2002/10/section/9/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2002/10/schedule/1/paragraph/4); [S.R. 2002/358](https://www.legislation.gov.uk/nisr/2002/358), [art. 2(c)](https://www.legislation.gov.uk/nisr/2002/358/article/2/c), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2002/358/schedule/part/II)
 
 [^c16396591]: Textual amendment: Words in s. 160(10)(b) omitted (with effect in any case where the expected week of confinement begins on or after 16.10.1994) by virtue of [S.R. 1994/176](https://www.legislation.gov.uk/nisr/1994/176), [regs. 1(3)](https://www.legislation.gov.uk/nisr/1994/176/regulation/1/3), [6(1)](https://www.legislation.gov.uk/nisr/1994/176/regulation/6/1)
 

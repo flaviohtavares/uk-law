@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62A. Electronic claims for benefit[^key-56e4caf7ba5a4ca159547507ae339a54]
+## 62A. Electronic claims for benefit[^c-56e4caf7ba5a4ca159547507ae339a54]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A claim for housing benefit may be made by means of an electronic communication 
 
 ## Annotations
 
-[^key-56e4caf7ba5a4ca159547507ae339a54]: Textual amendment: [Reg. 62A](https://www.legislation.gov.uk/nisr/2006/406/regulation/62A) inserted (20.12.2006) by [The Housing Benefit (Electronic Communications) Order (Northern Ireland) 2006 (S.R. 2006/463)](https://www.legislation.gov.uk/nisr/2006/463), [arts. 1](https://www.legislation.gov.uk/nisr/2006/463/article/1), [3(3)](https://www.legislation.gov.uk/nisr/2006/463/article/3/3)
+[^c-56e4caf7ba5a4ca159547507ae339a54]: Textual amendment: [Reg. 62A](https://www.legislation.gov.uk/nisr/2006/406/regulation/62A) inserted (20.12.2006) by [The Housing Benefit (Electronic Communications) Order (Northern Ireland) 2006 (S.R. 2006/463)](https://www.legislation.gov.uk/nisr/2006/463), [arts. 1](https://www.legislation.gov.uk/nisr/2006/463/article/1), [3(3)](https://www.legislation.gov.uk/nisr/2006/463/article/3/3)

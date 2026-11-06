@@ -37,17 +37,17 @@ Made
 
 The Department of Justice makes the following order in exercise of the power conferred by section 30(2) and (3) of the Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022[^f00001].
 
-## 1. Citation and Interpretation[^key-efc6b331a85a56b72b91e627e7719894]
+## 1. Citation and Interpretation[^c-efc6b331a85a56b72b91e627e7719894]
 
 This Order may be cited as the Justice (Sexual Offences and Trafficking Victims) (2022 Act) (Commencement No. 2) Order (Northern Ireland) 2023.
 
-**2.**[^key-80cd1a13f81ba520c6a8e6d7d86bd2e8] In this Order “**the Act**” means the Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022.
+**2.**[^c-80cd1a13f81ba520c6a8e6d7d86bd2e8] In this Order “**the Act**” means the Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022.
 
-## 3. Appointed Day[^key-90449946329425a316f119fa7998a105]
+## 3. Appointed Day[^c-90449946329425a316f119fa7998a105]
 
 Chapter 2 and Chapter 3 of Part 1 of the Act come into operation on 28<sup>th</sup> September 2023.
 
-## 4. Transitional Provisions[^key-3faaef5b664ac931f9fc691b2f98fb5c]
+## 4. Transitional Provisions[^c-3faaef5b664ac931f9fc691b2f98fb5c]
 
 Section 19 (Serious sexual offences: exclusion of public from court) of the Act does not apply-
 
@@ -57,7 +57,7 @@ Section 19 (Serious sexual offences: exclusion of public from court) of the Act 
   - (ii) to any hearing of an appeal where the appeal was made either with leave granted on an application made before 28<sup>th</sup> September 2023 or by virtue of a certificate granted by the judge of the court of trial before that date; and
   - (iii) to any hearing of a reference under section 36 of the Criminal Justice Act 1988 where the reference was made with leave granted on an application made before 28<sup>th</sup> September 2023.
 
-**5.**[^key-58c7d25c2239aed9f2226bbc54e57fd0] For the purposes of Article 4(b) and for the avoidance of doubt, where an application for leave to appeal is refused by a single judge and the application is renewed to the Court of Appeal, the date of the application for leave to appeal is the date of the original application and not the date of the renewed application.
+**5.**[^c-58c7d25c2239aed9f2226bbc54e57fd0] For the purposes of Article 4(b) and for the avoidance of doubt, where an application for leave to appeal is refused by a single judge and the application is renewed to the Court of Appeal, the date of the application for leave to appeal is the date of the original application and not the date of the renewed application.
 
 Sealed with the Official Seal of the Department of Justice on 21st September 2023
 
@@ -101,12 +101,12 @@ provides that a person exercising public functions to whom the guidance relates 
 
 [^f00001]: Footnote: [2022 c.19 (N.I.)](https://www.legislation.gov.uk/nia/2022/19)
 
-[^key-efc6b331a85a56b72b91e627e7719894]: Commencement: Art. 1 in operation at made date
+[^c-efc6b331a85a56b72b91e627e7719894]: Commencement: Art. 1 in operation at made date
 
-[^key-80cd1a13f81ba520c6a8e6d7d86bd2e8]: Commencement: Art. 2 in operation at made date
+[^c-80cd1a13f81ba520c6a8e6d7d86bd2e8]: Commencement: Art. 2 in operation at made date
 
-[^key-90449946329425a316f119fa7998a105]: Commencement: Art. 3 in operation at made date
+[^c-90449946329425a316f119fa7998a105]: Commencement: Art. 3 in operation at made date
 
-[^key-3faaef5b664ac931f9fc691b2f98fb5c]: Commencement: Art. 4 in operation at made date
+[^c-3faaef5b664ac931f9fc691b2f98fb5c]: Commencement: Art. 4 in operation at made date
 
-[^key-58c7d25c2239aed9f2226bbc54e57fd0]: Commencement: Art. 5 in operation at made date
+[^c-58c7d25c2239aed9f2226bbc54e57fd0]: Commencement: Art. 5 in operation at made date

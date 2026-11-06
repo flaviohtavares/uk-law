@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76. Deductions from loans for living costs[^key-f6fc66b2960bc70c7f3352b02dff2f77]
+## 76. Deductions from loans for living costs[^c-f6fc66b2960bc70c7f3352b02dff2f77]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6fc66b2960bc70c7f3352b02dff2f77]: Commencement: [Reg. 76](https://www.legislation.gov.uk/nisr/2007/195/regulation/76) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-f6fc66b2960bc70c7f3352b02dff2f77]: Commencement: [Reg. 76](https://www.legislation.gov.uk/nisr/2007/195/regulation/76) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

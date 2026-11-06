@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Amendment of section 19A[^key-c574934d9005814d23c43dde01a0ca96]
+## 7. Amendment of section 19A[^c-c574934d9005814d23c43dde01a0ca96]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c574934d9005814d23c43dde01a0ca96]: Commencement: Reg. 7 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-c574934d9005814d23c43dde01a0ca96]: Commencement: Reg. 7 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00008]: Footnote: Section 19A was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

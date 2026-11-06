@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Effect of deemed surrender and re-grant of qualifying estate[^key-e8d5d00e36d7f3e415e4277b22ba168e][^key-ff5bb2b4acfe63c40827eabc8383e9c7]
+## 134. Effect of deemed surrender and re-grant of qualifying estate[^c-e8d5d00e36d7f3e415e4277b22ba168e][^c-ff5bb2b4acfe63c40827eabc8383e9c7]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8d5d00e36d7f3e415e4277b22ba168e]: Commencement: S. 134 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-e8d5d00e36d7f3e415e4277b22ba168e]: Commencement: S. 134 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-ff5bb2b4acfe63c40827eabc8383e9c7]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2021/30/section/134) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-ff5bb2b4acfe63c40827eabc8383e9c7]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2021/30/section/134) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

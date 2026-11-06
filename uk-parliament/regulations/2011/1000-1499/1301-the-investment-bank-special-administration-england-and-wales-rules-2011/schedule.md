@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE — Punishment of offences[^key-0c74505c174e6fda234322e24268f1a4]
+## SCHEDULE — Punishment of offences[^c-0c74505c174e6fda234322e24268f1a4]
 
 *Extent: E+W*
 
 Rule 286
 
-[^key-0c74505c174e6fda234322e24268f1a4]
+[^c-0c74505c174e6fda234322e24268f1a4]
 
 Note: In the fourth and fifth columns of this Schedule, “**the statutory maximum**” means the prescribed sum under section 32 of the Magistrates’ Courts Act 1980[^f00027].
 
@@ -40,6 +40,6 @@ Note: In the fourth and fifth columns of this Schedule, “**the statutory maxim
 
 ## Annotations
 
-[^key-0c74505c174e6fda234322e24268f1a4]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2011/1301/schedule) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-0c74505c174e6fda234322e24268f1a4]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2011/1301/schedule) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
 [^f00027]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43): section 32 was amended by the Criminal Attempts Act [1981 (c. 47)](https://www.legislation.gov.uk/ukpga/1981/47) section 10, Schedule, Part 1, by the Criminal Justice Act [1988 (c.33)](https://www.legislation.gov.uk/ukpga/1988/33) section 170(2) Schedule 16, by the Criminal Justice Act [1991 (c.53)](https://www.legislation.gov.uk/ukpga/1991/53) section 17(2), by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) section 282 and by the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27) section 63(2), 92, Schedule 6, Part 2, paras 55(1), (2), Schedule 14.

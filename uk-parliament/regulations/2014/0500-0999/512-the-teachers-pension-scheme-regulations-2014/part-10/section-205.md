@@ -22,7 +22,7 @@ summary: ''
 
 (1) The scheme manager may not accept payment of a transfer value from the sending scheme if—
 
-- (a) P has reached normal pension age[^key-7ed4d602c7d99451009884cf79cec74e];
+- (a) P has reached normal pension age[^c-7ed4d602c7d99451009884cf79cec74e];
 - (b) retirement benefits have become payable to P under this scheme or under the sending scheme; or
 - (c) the sending scheme was a money purchase arrangement to which P's previous employer made no contribution.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ed4d602c7d99451009884cf79cec74e]: Textual amendment: Words in [reg. 205(1)(a)](https://www.legislation.gov.uk/uksi/2014/512/regulation/205/1/a) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [22](https://www.legislation.gov.uk/uksi/2014/2652/regulation/22)
+[^c-7ed4d602c7d99451009884cf79cec74e]: Textual amendment: Words in [reg. 205(1)(a)](https://www.legislation.gov.uk/uksi/2014/512/regulation/205/1/a) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [22](https://www.legislation.gov.uk/uksi/2014/2652/regulation/22)

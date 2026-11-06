@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Patients aged 75 years and over[^key-f7563cb2e42048a0679014dc2b176216]
+## 31. Patients aged 75 years and over[^c-f7563cb2e42048a0679014dc2b176216]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The term of a general medical services contract which gives effect to paragraph 
 
 ## Annotations
 
-[^key-f7563cb2e42048a0679014dc2b176216]: Commencement: Art. 31 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-f7563cb2e42048a0679014dc2b176216]: Commencement: Art. 31 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

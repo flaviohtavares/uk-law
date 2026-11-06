@@ -42,11 +42,11 @@ For the purposes of this Act a person is a Hong Kong overseas public servant at 
 - (a) he is, or is treated by the Secretary of State as being, a member of Her Majesty’s Overseas Civil Service or Her Majesty’s Overseas Judiciary, and
 - (b) he is on the pensionable establishment of the government of the colony of Hong Kong.
 
-## 2. Payments on entering service of Hong Kong SAR.[^key-dbb24c4e8584e2e4a63d1bae72cc4937]
+## 2. Payments on entering service of Hong Kong SAR.[^c-dbb24c4e8584e2e4a63d1bae72cc4937]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Early retirement before 1st July 1997.[^key-026b947c1b26b46fc595212f20020e0f]
+## 3. Early retirement before 1st July 1997.[^c-026b947c1b26b46fc595212f20020e0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -69,7 +69,7 @@ For the purposes of this Act a person is a Hong Kong overseas public servant at 
 
 (4) The references in subsections (2) and (3) to other overseas public service payments are to payments to public servants in connection with the ending of Her Majesty’s sovereignty or jurisdiction over any colony or other territory apart from Hong Kong.
 
-(5)[^key-6bdb36f70ff8079579a89e969804eb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-6bdb36f70ff8079579a89e969804eb54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Supplementary.
 
@@ -79,7 +79,7 @@ For the purposes of this Act a person is a Hong Kong overseas public servant at 
 - (b) may except specified cases from any of its provisions, and
 - (c) may contain provisions which are incidental or supplementary.
 
-(2)[^key-025b82744b928ae329ba082bf578b8b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-025b82744b928ae329ba082bf578b8b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In this Act “**specified**”, in relation to an Order in Council, means specified in the Order in Council.
 
@@ -97,10 +97,10 @@ This Act may be cited as the Hong Kong (Overseas Public Servants) Act 1996.
 
 [^c833458]: Commencement: Act wholly in force at Royal Assent.
 
-[^key-dbb24c4e8584e2e4a63d1bae72cc4937]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1996/2/section/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)
+[^c-dbb24c4e8584e2e4a63d1bae72cc4937]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1996/2/section/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)
 
-[^key-026b947c1b26b46fc595212f20020e0f]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1996/2/section/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)
+[^c-026b947c1b26b46fc595212f20020e0f]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1996/2/section/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)
 
-[^key-6bdb36f70ff8079579a89e969804eb54]: Textual amendment: [S. 5(5)](https://www.legislation.gov.uk/ukpga/1996/2/section/5/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)
+[^c-6bdb36f70ff8079579a89e969804eb54]: Textual amendment: [S. 5(5)](https://www.legislation.gov.uk/ukpga/1996/2/section/5/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)
 
-[^key-025b82744b928ae329ba082bf578b8b4]: Textual amendment: [S. 6(2)](https://www.legislation.gov.uk/ukpga/1996/2/section/6/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)
+[^c-025b82744b928ae329ba082bf578b8b4]: Textual amendment: [S. 6(2)](https://www.legislation.gov.uk/ukpga/1996/2/section/6/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)

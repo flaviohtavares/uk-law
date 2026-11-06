@@ -48,7 +48,7 @@ An Act to amend the law with regard to notice of marriages intended to be celebr
 - (ii) that the marriage is intended to be solemnised in Scotland; and
 - (iii) that the other party to the intended marriage is resident in Scotland, or has a parent who has his usual residence in Scotland, as the case may be.
 
-(3) A notice of marriage and declaration given and made in accordance with the foregoing provisions of this section[^c612958], if in other respects they comply with the requirements of the [^c612959]Marriage Act, 1949, shall be treated as a notice of marriage and declaration given and made in accordance with that Act, but sections 3, 29 to 31A and 33 of that Act are to apply as if—[^key-06bb570b7ed277ebdaeb2166360fd172]
+(3) A notice of marriage and declaration given and made in accordance with the foregoing provisions of this section[^c612958], if in other respects they comply with the requirements of the [^c612959]Marriage Act, 1949, shall be treated as a notice of marriage and declaration given and made in accordance with that Act, but sections 3, 29 to 31A and 33 of that Act are to apply as if—[^c-06bb570b7ed277ebdaeb2166360fd172]
 
 - (a) references in those sections to a marriage schedule, except the reference in subsection (1) of section 29 of that Act and the first reference in each of subsections (2) and (4) of that section, were references to an approved certificate,
 - (b) the first reference to a marriage schedule in section 29(2) of that Act were a reference to an approved certificate in respect of a person named in the caveat,
@@ -61,7 +61,7 @@ An Act to amend the law with regard to notice of marriages intended to be celebr
 - (i) the reference in section 33(2)(a) of that Act to notices of marriage were a reference to the notice given under this section, and
 - (j) in section 33 of that Act, subsections (3)(a) and (4) were omitted.
 
-(3A)[^key-c13a64efc3d712c85d7f0e63f9e4b02c] In subsection (3)(a) and (b) “approved certificate” means a certificate for marriage, for the purposes of section 3(4) of the Marriage (Scotland) Act 1977, in the prescribed form.
+(3A)[^c-c13a64efc3d712c85d7f0e63f9e4b02c] In subsection (3)(a) and (b) “approved certificate” means a certificate for marriage, for the purposes of section 3(4) of the Marriage (Scotland) Act 1977, in the prescribed form.
 
 (3B) In subsection (3A) “prescribed” means prescribed by regulations made under section 74 of the Marriage Act 1949; and the reference, in subsection (1)(b) of that section, to that Act is to be treated as including a reference to this Act.
 
@@ -90,9 +90,9 @@ This Act may be cited as the Marriage (Scotland) Act, 1956 . . . [^c612966]
 
 [^c612959]: Marginal citation: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76)**(49:1).**
 
-[^key-06bb570b7ed277ebdaeb2166360fd172]: Textual amendment: Words in [s. 1(3)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/70/section/1/3) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 53(2)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/53/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-06bb570b7ed277ebdaeb2166360fd172]: Textual amendment: Words in [s. 1(3)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/70/section/1/3) substituted (4.5.2021) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2), [Sch. 1 para. 53(2)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/53/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
-[^key-c13a64efc3d712c85d7f0e63f9e4b02c]: Textual amendment: S. 1(3A)(3B) inserted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(4)(g)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/4/g), [Sch. 1 para. 53(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/53/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
+[^c-c13a64efc3d712c85d7f0e63f9e4b02c]: Textual amendment: S. 1(3A)(3B) inserted (27.3.2021 for specified purposes, 4.5.2021 in so far as not already in force) by [The Registration of Marriages Regulations 2021 (S.I. 2021/411)](https://www.legislation.gov.uk/uksi/2021/411), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/2)[(4)(g)](https://www.legislation.gov.uk/uksi/2021/411/regulation/1/4/g), [Sch. 1 para. 53(3)](https://www.legislation.gov.uk/uksi/2021/411/schedule/1/paragraph/53/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2021/411/schedule/2))
 
 [^c612960]: Textual amendment: Ss. 1(4), 2, 3 repealed with saving by [Marriage (Scotland) Act 1977 (c. 15, SIF 49:2)](https://www.legislation.gov.uk/ukpga/1977/15), [s. 27(3)](https://www.legislation.gov.uk/ukpga/1977/15/section/27/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1977/15/schedule/3)
 

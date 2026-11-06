@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35A. Timetable for deciding request for direction under section 35[^key-b2801c919fdb239918c0fad6f6a5063f]
+## 35A. Timetable for deciding request for direction under section 35[^c-b2801c919fdb239918c0fad6f6a5063f]
 
 *Extent: E+W+S*
 
@@ -39,10 +39,10 @@ the Secretary of State must make a decision on the qualifying request before the
 (5) In this section—
 
 - “**the primary deadline**” means the end of the period of 28 days beginning with the day on which the Secretary of State receives the qualifying request;
-- “**qualifying request**” has the meaning given by section 35ZA(11)[^key-21a89923533858b2a4025f5a7b8f5fd7] .
+- “**qualifying request**” has the meaning given by section 35ZA(11)[^c-21a89923533858b2a4025f5a7b8f5fd7] .
 
 ## Annotations
 
-[^key-b2801c919fdb239918c0fad6f6a5063f]: Textual amendment: S. 35A inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 132(10)](https://www.legislation.gov.uk/ukpga/2011/20/section/132/10), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-b2801c919fdb239918c0fad6f6a5063f]: Textual amendment: S. 35A inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 132(10)](https://www.legislation.gov.uk/ukpga/2011/20/section/132/10), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
 
-[^key-21a89923533858b2a4025f5a7b8f5fd7]: Textual amendment: Word in s. 35A(5) substituted (25.4.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 26(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/26/3), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2)
+[^c-21a89923533858b2a4025f5a7b8f5fd7]: Textual amendment: Word in s. 35A(5) substituted (25.4.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 26(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/26/3), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2)

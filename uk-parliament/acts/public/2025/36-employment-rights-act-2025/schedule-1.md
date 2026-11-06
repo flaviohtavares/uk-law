@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 1 — Agency workers: guaranteed hours and rights relating to shifts[^key-c009b07d88cb091c7f21d24bf442c6f0]
+## Schedule 1 — Agency workers: guaranteed hours and rights relating to shifts[^c-c009b07d88cb091c7f21d24bf442c6f0]
 
 *Extent: E+W+S*
 
@@ -779,4 +779,4 @@ Before Schedule 1 to the Employment Rights Act 1996 insert—
 
 ## Annotations
 
-[^key-c009b07d88cb091c7f21d24bf442c6f0]: Commencement: Sch. 1 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-c009b07d88cb091c7f21d24bf442c6f0]: Commencement: Sch. 1 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)

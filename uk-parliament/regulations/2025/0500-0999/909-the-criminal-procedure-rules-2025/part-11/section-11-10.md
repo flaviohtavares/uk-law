@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.10. Duty of court officer, etc.[^key-fbb8687650b3ec64e8559955ee40a713]
+## 11.10. Duty of court officer, etc.[^c-fbb8687650b3ec64e8559955ee40a713]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbb8687650b3ec64e8559955ee40a713]: Commencement: [Rule 11.10](https://www.legislation.gov.uk/uksi/2025/909/rule/11.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-fbb8687650b3ec64e8559955ee40a713]: Commencement: [Rule 11.10](https://www.legislation.gov.uk/uksi/2025/909/rule/11.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

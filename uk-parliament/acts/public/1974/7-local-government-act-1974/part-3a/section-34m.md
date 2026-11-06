@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34M. Consultation with other Commissioners[^key-3be642587f35d5597f082e2a19a13cd9]
+## 34M. Consultation with other Commissioners[^c-3be642587f35d5597f082e2a19a13cd9]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the Parliamentary Commissioner, in accordance with the PCA 1967;
 - (b) the Health Service Commissioner, in accordance with the HSCA 1993;
 - (c) the Scottish Public Services Ombudsman in accordance with the SPSOA 2002; or
-- (d) the Public Services Ombudsman for Wales, in accordance with the PSOWA 2005 or the PSOWA 2019[^key-747e02cd7bff998fa1ae3aa76973ea75].
+- (d) the Public Services Ombudsman for Wales, in accordance with the PSOWA 2005 or the PSOWA 2019[^c-747e02cd7bff998fa1ae3aa76973ea75].
 
 (2) The Local Commissioner—
 
@@ -51,13 +51,13 @@ summary: ''
 - (a) section 11(2) of the PCA 1967;
 - (b) section 15 of the HSCA 1993;
 - (c) section 19 of the SPSOA 2002;
-- (d) section 34X[^key-7d05a5393cd93f88b737147b47d021a0] of the PSOWA 2005;
+- (d) section 34X[^c-7d05a5393cd93f88b737147b47d021a0] of the PSOWA 2005;
 - (e) section 34K(1) of this Act.
 
 ## Annotations
 
-[^key-3be642587f35d5597f082e2a19a13cd9]: Textual amendment: Pt. 3A inserted (1.10.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/2); [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-3be642587f35d5597f082e2a19a13cd9]: Textual amendment: Pt. 3A inserted (1.10.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/2); [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-747e02cd7bff998fa1ae3aa76973ea75]: Textual amendment: Words in [s. 34M(1)(d)](https://www.legislation.gov.uk/ukpga/1974/7/section/34M/1/d) inserted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/8); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-747e02cd7bff998fa1ae3aa76973ea75]: Textual amendment: Words in [s. 34M(1)(d)](https://www.legislation.gov.uk/ukpga/1974/7/section/34M/1/d) inserted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/8); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
 
-[^key-7d05a5393cd93f88b737147b47d021a0]: Textual amendment: Word in s. 34M(7)(d) substituted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 9](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/9); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-7d05a5393cd93f88b737147b47d021a0]: Textual amendment: Word in s. 34M(7)(d) substituted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 9](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/9); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)

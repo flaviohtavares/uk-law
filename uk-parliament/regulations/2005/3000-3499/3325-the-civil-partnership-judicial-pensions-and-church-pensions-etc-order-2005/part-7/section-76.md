@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**76.**[^key-da71fa9a510fa72109716fa4b0d89150] (1) Section 30 (interpretation) is amended as follows.
+**76.**[^c-da71fa9a510fa72109716fa4b0d89150] (1) Section 30 (interpretation) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da71fa9a510fa72109716fa4b0d89150]: Commencement: Art. 76 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-da71fa9a510fa72109716fa4b0d89150]: Commencement: Art. 76 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

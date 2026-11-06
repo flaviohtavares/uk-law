@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Memorandum of understanding: resolution planning and crisis management[^key-bd1f778b93af2d0811f41bfc8aa278b5][^key-e06b521b0965cc1707f48a296df7a1ed][^key-d549c38d4397c6ca07dd10779f436eb3]
+## 65. Memorandum of understanding: resolution planning and crisis management[^c-bd1f778b93af2d0811f41bfc8aa278b5][^c-e06b521b0965cc1707f48a296df7a1ed][^c-d549c38d4397c6ca07dd10779f436eb3]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Treasury (on the one hand) and the Bank of England and the PRA (on the other) must prepare and maintain a memorandum describing in general terms how they intend to comply with section 64 in relation to
 
-- (a)[^key-8b7dd996b2f7cfad6ca819d509d28b85] the sharing of information by the Bank about any proposals to include in a resolution plan or a group resolution plan an option for the exercise of a stabilisation power by the Bank in relation to an institution or group entity;
+- (a)[^c-8b7dd996b2f7cfad6ca819d509d28b85] the sharing of information by the Bank about any proposals to include in a resolution plan or a group resolution plan an option for the exercise of a stabilisation power by the Bank in relation to an institution or group entity;
 - (b) the circumstances mentioned in subsection (2) of that section.
 
-(2) For the purposes of subsection (1)(b),[^key-e10eb8f48250f340507b29fca73e3c04] The memorandum must, in particular, make provision about—
+(2) For the purposes of subsection (1)(b),[^c-e10eb8f48250f340507b29fca73e3c04] The memorandum must, in particular, make provision about—
 
 - (a) what the Treasury and the Bank regard as a material risk for the purposes of section 58(1);
 - (b) steps to be taken when the Bank has given a public funds notification;
@@ -57,12 +57,12 @@ summary: ''
 
 ## Annotations
 
-[^key-bd1f778b93af2d0811f41bfc8aa278b5]: Commencement: S. 65 in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-bd1f778b93af2d0811f41bfc8aa278b5]: Commencement: S. 65 in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-e06b521b0965cc1707f48a296df7a1ed]: Commencement: S. 65 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e06b521b0965cc1707f48a296df7a1ed]: Commencement: S. 65 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-d549c38d4397c6ca07dd10779f436eb3]: Textual amendment: Words in s. 65 heading inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 36(3)(c)](https://www.legislation.gov.uk/ukpga/2016/14/section/36/3/c), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/aa)
+[^c-d549c38d4397c6ca07dd10779f436eb3]: Textual amendment: Words in s. 65 heading inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 36(3)(c)](https://www.legislation.gov.uk/ukpga/2016/14/section/36/3/c), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/aa)
 
-[^key-8b7dd996b2f7cfad6ca819d509d28b85]: Textual amendment: Words in s. 65(1) inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 36(3)(a)](https://www.legislation.gov.uk/ukpga/2016/14/section/36/3/a), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/aa)
+[^c-8b7dd996b2f7cfad6ca819d509d28b85]: Textual amendment: Words in s. 65(1) inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 36(3)(a)](https://www.legislation.gov.uk/ukpga/2016/14/section/36/3/a), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/aa)
 
-[^key-e10eb8f48250f340507b29fca73e3c04]: Textual amendment: Words in s. 65(2) inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 36(3)(b)](https://www.legislation.gov.uk/ukpga/2016/14/section/36/3/b), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/aa)
+[^c-e10eb8f48250f340507b29fca73e3c04]: Textual amendment: Words in s. 65(2) inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 36(3)(b)](https://www.legislation.gov.uk/ukpga/2016/14/section/36/3/b), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/aa)

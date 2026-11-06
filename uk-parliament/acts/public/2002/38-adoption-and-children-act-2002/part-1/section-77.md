@@ -16,36 +16,36 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Adopted Children Register[^key-09dc6d0d5ccedf0c35e81bc53f8f71e3]
+## 77. Adopted Children Register[^c-09dc6d0d5ccedf0c35e81bc53f8f71e3]
 
 *Extent: E+W*
 
-(1)[^key-1e4fb8cc4489214550c3c8df56cb6cd5] The Registrar General must continue to maintain in the General Register Office a register, to be called the Adopted Children Register.
+(1)[^c-1e4fb8cc4489214550c3c8df56cb6cd5] The Registrar General must continue to maintain in the General Register Office a register, to be called the Adopted Children Register.
 
-(2)[^key-1e4fb8cc4489214550c3c8df56cb6cd5] The Adopted Children Register is not to be open to public inspection or search.
+(2)[^c-1e4fb8cc4489214550c3c8df56cb6cd5] The Adopted Children Register is not to be open to public inspection or search.
 
-(3)[^key-0c0eba5453591557645f0242330bdcbf][^key-66141c7808e78452d21127b456d904dd] No entries may be made in the Adopted Children Register other than entries—
+(3)[^c-0c0eba5453591557645f0242330bdcbf][^c-66141c7808e78452d21127b456d904dd] No entries may be made in the Adopted Children Register other than entries—
 
 - (a) directed to be made in it by adoption orders, or
 - (b) required to be made under Schedule 1.
 
-(4)[^key-1e4fb8cc4489214550c3c8df56cb6cd5] A certified copy of an entry in the Adopted Children Register, if purporting to be sealed or stamped with the seal of the General Register Office, is to be received as evidence of the adoption to which it relates without further or other proof.
+(4)[^c-1e4fb8cc4489214550c3c8df56cb6cd5] A certified copy of an entry in the Adopted Children Register, if purporting to be sealed or stamped with the seal of the General Register Office, is to be received as evidence of the adoption to which it relates without further or other proof.
 
-(5)[^key-1e4fb8cc4489214550c3c8df56cb6cd5] Where an entry in the Adopted Children Register contains a record—
+(5)[^c-1e4fb8cc4489214550c3c8df56cb6cd5] Where an entry in the Adopted Children Register contains a record—
 
 - (a) of the date of birth of the adopted person, or
 - (b) of the country, or the district and sub-district, of the birth of the adopted person,
 
 a certified copy of the entry is also to be received, without further or other proof, as evidence of that date, or country or district and sub-district, (as the case may be) in all respects as if the copy were a certified copy of an entry in the registers of live-births.
 
-(6)[^key-1e4fb8cc4489214550c3c8df56cb6cd5] Schedule 1 (registration of adoptions and the amendment of adoption orders) is to have effect.
+(6)[^c-1e4fb8cc4489214550c3c8df56cb6cd5] Schedule 1 (registration of adoptions and the amendment of adoption orders) is to have effect.
 
 ## Annotations
 
-[^key-09dc6d0d5ccedf0c35e81bc53f8f71e3]: Modification: S. 77 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
+[^c-09dc6d0d5ccedf0c35e81bc53f8f71e3]: Modification: S. 77 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2010/985/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/985/schedule/1)
 
-[^key-1e4fb8cc4489214550c3c8df56cb6cd5]: Commencement: S. 77(1)(2) (4)-(6) in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-1e4fb8cc4489214550c3c8df56cb6cd5]: Commencement: S. 77(1)(2) (4)-(6) in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-0c0eba5453591557645f0242330bdcbf]: Commencement: S. 77(3) in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(vi)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/vi)
+[^c-0c0eba5453591557645f0242330bdcbf]: Commencement: S. 77(3) in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(vi)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/vi)
 
-[^key-66141c7808e78452d21127b456d904dd]: Commencement: S. 77(3) in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-66141c7808e78452d21127b456d904dd]: Commencement: S. 77(3) in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/e) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

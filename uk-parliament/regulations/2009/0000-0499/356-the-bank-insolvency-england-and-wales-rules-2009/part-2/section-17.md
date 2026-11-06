@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Authentication of bank liquidator’s appointment[^key-cae82d604fbd324aae3c98acc67d9ff4]
+## 17. Authentication of bank liquidator’s appointment[^c-cae82d604fbd324aae3c98acc67d9ff4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A sealed copy of the court’s order may in any proceedings be adduced as proof 
 
 ## Annotations
 
-[^key-cae82d604fbd324aae3c98acc67d9ff4]: Commencement: Rule 17 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-cae82d604fbd324aae3c98acc67d9ff4]: Commencement: Rule 17 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

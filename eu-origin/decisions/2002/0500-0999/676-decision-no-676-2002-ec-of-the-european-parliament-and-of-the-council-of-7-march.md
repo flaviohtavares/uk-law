@@ -31,10 +31,10 @@ Decision No 676/2002/EC of the European Parliament and of the Council
 
 of 7 March 2002 on a regulatory framework for radio spectrum policy in the European Community (Radio Spectrum Decision) (revoked)
 
-[^key-9b6a84b0070b2d0bdd182ada51e5c882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b6a84b0070b2d0bdd182ada51e5c882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-9b6a84b0070b2d0bdd182ada51e5c882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-9b6a84b0070b2d0bdd182ada51e5c882] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9b6a84b0070b2d0bdd182ada51e5c882]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2018/1385/schedule/1/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b6a84b0070b2d0bdd182ada51e5c882]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2018/1385/schedule/1/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

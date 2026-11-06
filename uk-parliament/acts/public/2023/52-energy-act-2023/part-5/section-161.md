@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. The Independent System Operator and Planner (“the ISOP”)[^key-b05d73a1c2bcb8c26777640b51a4123b][^key-a8ab5f483b534e23a279b70f87480302]
+## 161. The Independent System Operator and Planner (“the ISOP”)[^c-b05d73a1c2bcb8c26777640b51a4123b][^c-a8ab5f483b534e23a279b70f87480302]
 
 *Extent: E+W+S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b05d73a1c2bcb8c26777640b51a4123b]: Commencement: S. 161 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-b05d73a1c2bcb8c26777640b51a4123b]: Commencement: S. 161 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-a8ab5f483b534e23a279b70f87480302]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2023/52/section/161) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/i)
+[^c-a8ab5f483b534e23a279b70f87480302]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2023/52/section/161) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/i)

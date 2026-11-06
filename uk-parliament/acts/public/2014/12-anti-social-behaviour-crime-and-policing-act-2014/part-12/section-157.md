@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Proportionality[^key-c6800ad65fb6ebb08b45a48b33705dad]
+## 157. Proportionality[^c-c6800ad65fb6ebb08b45a48b33705dad]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,12 +68,12 @@ summary: ''
 > - (a) the Lord Justice General of Scotland, and
 > - (b) the Lord Chief Justice of Northern Ireland.
 
-(4)[^key-01c40fa6e25bd4156af76ac8142f9ea2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-01c40fa6e25bd4156af76ac8142f9ea2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In a case where the Part 1 warrant (within the meaning of the Extradition Act 2003) has been issued before the time when the amendments made by this section come into force, those amendments apply to the extradition concerned only if, at that time, the judge has not yet decided all of the questions in section 11(1) of that Act.
 
 ## Annotations
 
-[^key-c6800ad65fb6ebb08b45a48b33705dad]: Commencement: S. 157 in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/d)
+[^c-c6800ad65fb6ebb08b45a48b33705dad]: Commencement: S. 157 in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/d)
 
-[^key-01c40fa6e25bd4156af76ac8142f9ea2]: Textual amendment: [S. 157(4)](https://www.legislation.gov.uk/ukpga/2014/12/section/157/4) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [54](https://www.legislation.gov.uk/uksi/2019/742/regulation/54); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01c40fa6e25bd4156af76ac8142f9ea2]: Textual amendment: [S. 157(4)](https://www.legislation.gov.uk/ukpga/2014/12/section/157/4) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [54](https://www.legislation.gov.uk/uksi/2019/742/regulation/54); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

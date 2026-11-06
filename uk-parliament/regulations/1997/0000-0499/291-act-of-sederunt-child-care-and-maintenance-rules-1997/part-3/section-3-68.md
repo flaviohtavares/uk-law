@@ -18,12 +18,12 @@ summary: ''
 
 *Extent: S*
 
-**3.68.**[^key-f3a34936d71d830ba99d7ba2732e222a] (1) The party lodging a child witness notice shall intimate a copy of the child witness notice to all other parties to the proceedings and to any safeguarder [^key-4756f8b6d41bd37e075e44d0211d4c8c]... and complete a certificate of intimation.
+**3.68.**[^c-f3a34936d71d830ba99d7ba2732e222a] (1) The party lodging a child witness notice shall intimate a copy of the child witness notice to all other parties to the proceedings and to any safeguarder [^c-4756f8b6d41bd37e075e44d0211d4c8c]... and complete a certificate of intimation.
 
 (2) A certificate of intimation referred to in this rule shall be in Form 76 and shall be lodged together with the child witness notice.
 
 ## Annotations
 
-[^key-f3a34936d71d830ba99d7ba2732e222a]: Textual amendment: Ch. 3 Pt. 11 inserted (1.4.2005) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2005 (S.S.I. 2005/190)](https://www.legislation.gov.uk/ssi/2005/190), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1)
+[^c-f3a34936d71d830ba99d7ba2732e222a]: Textual amendment: Ch. 3 Pt. 11 inserted (1.4.2005) by [Act of Sederunt (Child Care and Maintenance Rules) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2005 (S.S.I. 2005/190)](https://www.legislation.gov.uk/ssi/2005/190), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2005/190/rule/1/1)
 
-[^key-4756f8b6d41bd37e075e44d0211d4c8c]: Textual amendment: Words in rule 3.68(1) omitted (24.6.2013) by virtue of [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(63)(a)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/63/a) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-4756f8b6d41bd37e075e44d0211d4c8c]: Textual amendment: Words in rule 3.68(1) omitted (24.6.2013) by virtue of [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(63)(a)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/63/a) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

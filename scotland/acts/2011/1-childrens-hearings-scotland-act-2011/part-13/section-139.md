@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 139. Powers of children's hearing on deferral under section 138[^key-ce1ea58118f2d5dfd9511a1a49c80f90]
+## 139. Powers of children's hearing on deferral under section 138[^c-ce1ea58118f2d5dfd9511a1a49c80f90]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce1ea58118f2d5dfd9511a1a49c80f90]: Commencement: S. 139 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-ce1ea58118f2d5dfd9511a1a49c80f90]: Commencement: S. 139 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

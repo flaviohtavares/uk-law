@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**12.**[^key-c93456baf60316d945b7a5de7d9d1b0e] (1) Parts 1 to 3 and 5 to 7 of the New Schools Regulations apply to a temporary governing body constituted pursuant to this regulation.
+**12.**[^c-c93456baf60316d945b7a5de7d9d1b0e] (1) Parts 1 to 3 and 5 to 7 of the New Schools Regulations apply to a temporary governing body constituted pursuant to this regulation.
 
 (2) Where it is proposed that two or more new schools should federate together, with or without one or more other schools or other federations, the local authority may make arrangements providing for the constitution of a single temporary governing body for those new schools.
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c93456baf60316d945b7a5de7d9d1b0e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/1035/regulation/12) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-c93456baf60316d945b7a5de7d9d1b0e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/1035/regulation/12) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

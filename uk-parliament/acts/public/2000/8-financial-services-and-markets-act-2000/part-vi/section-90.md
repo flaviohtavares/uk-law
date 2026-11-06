@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Compensation for statements in listing particulars ...[^c1709269][^c2076426][^key-62e9915030387ba431ebb3f0c440e101]
+## 90. Compensation for statements in listing particulars ...[^c1709269][^c2076426][^c-62e9915030387ba431ebb3f0c440e101]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,11 +51,11 @@ summary: ''
 
 (10) “**Listing particulars**”, in subsection (1) and Schedule 10, includes supplementary listing particulars.
 
-(11)[^key-6f7b9c66ce7e328a4cb5dc6c1ee1eb1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-6f7b9c66ce7e328a4cb5dc6c1ee1eb1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11A)[^key-6f7b9c66ce7e328a4cb5dc6c1ee1eb1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11A)[^c-6f7b9c66ce7e328a4cb5dc6c1ee1eb1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-6f7b9c66ce7e328a4cb5dc6c1ee1eb1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-6f7b9c66ce7e328a4cb5dc6c1ee1eb1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -63,6 +63,6 @@ summary: ''
 
 [^c2076426]: Textual amendment: S. 90 words in heading substituted (8.11.2006) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1272](https://www.legislation.gov.uk/ukpga/2006/46/section/1272), [1300(1)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/1/a), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2006/46/schedule/15/paragraph/5)
 
-[^key-62e9915030387ba431ebb3f0c440e101]: Textual amendment: Words in [s. 90 heading](https://www.legislation.gov.uk/ukpga/2000/8/part/VI/crossheading/compensation) heading omitted (30.1.2024 for specified purposes, 19.1.2026 in so far as not already in force) by virtue of [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/3), [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/uksi/2024/105/schedule/3/paragraph/8/2) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2025/1078/regulation/12))
+[^c-62e9915030387ba431ebb3f0c440e101]: Textual amendment: Words in [s. 90 heading](https://www.legislation.gov.uk/ukpga/2000/8/part/VI/crossheading/compensation) heading omitted (30.1.2024 for specified purposes, 19.1.2026 in so far as not already in force) by virtue of [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/3), [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/uksi/2024/105/schedule/3/paragraph/8/2) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2025/1078/regulation/12))
 
-[^key-6f7b9c66ce7e328a4cb5dc6c1ee1eb1e]: Textual amendment: [S. 90(11)](https://www.legislation.gov.uk/ukpga/2000/8/section/90/11)[(11A)](https://www.legislation.gov.uk/ukpga/2000/8/section/90/11A)[(12)](https://www.legislation.gov.uk/ukpga/2000/8/section/90/12) omitted (30.1.2024 for specified purposes, 19.1.2026 in so far as not already in force) by virtue of [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/3), [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/uksi/2024/105/schedule/3/paragraph/8/3) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2025/1078/regulation/12))
+[^c-6f7b9c66ce7e328a4cb5dc6c1ee1eb1e]: Textual amendment: [S. 90(11)](https://www.legislation.gov.uk/ukpga/2000/8/section/90/11)[(11A)](https://www.legislation.gov.uk/ukpga/2000/8/section/90/11A)[(12)](https://www.legislation.gov.uk/ukpga/2000/8/section/90/12) omitted (30.1.2024 for specified purposes, 19.1.2026 in so far as not already in force) by virtue of [The Public Offers and Admissions to Trading Regulations 2024 (S.I. 2024/105)](https://www.legislation.gov.uk/uksi/2024/105), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/3), [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/uksi/2024/105/schedule/3/paragraph/8/3) (with [regs. 48-50](https://www.legislation.gov.uk/uksi/2024/105/regulation/48)); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b) (with [reg. 12](https://www.legislation.gov.uk/uksi/2025/1078/regulation/12))

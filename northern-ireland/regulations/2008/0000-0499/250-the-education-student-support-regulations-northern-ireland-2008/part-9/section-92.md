@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92. Application of contribution – old system students[^key-74695b671949535043691541d0a0b368]
+## 92. Application of contribution – old system students[^c-74695b671949535043691541d0a0b368]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74695b671949535043691541d0a0b368]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/250) revoked (with application in accordance with reg. 1(4) of the amending Rule) by [The Education (Student Support) Regulations (Northern Ireland) 2009 (S.R. 2009/37)](https://www.legislation.gov.uk/nisr/2009/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/37/regulation/1/3), [4(1)](https://www.legislation.gov.uk/nisr/2009/37/regulation/4/1) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2009/37/regulation/4/2)[(3)](https://www.legislation.gov.uk/nisr/2009/37/regulation/4/3))
+[^c-74695b671949535043691541d0a0b368]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/250) revoked (with application in accordance with reg. 1(4) of the amending Rule) by [The Education (Student Support) Regulations (Northern Ireland) 2009 (S.R. 2009/37)](https://www.legislation.gov.uk/nisr/2009/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2009/37/regulation/1/3), [4(1)](https://www.legislation.gov.uk/nisr/2009/37/regulation/4/1) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2009/37/regulation/4/2)[(3)](https://www.legislation.gov.uk/nisr/2009/37/regulation/4/3))

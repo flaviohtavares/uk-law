@@ -38,7 +38,7 @@ Coming into operation in accordance with regulation 1
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1), 132(4)(*b*) and 171(1) to (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 14(4)(*b*), 36(2) and 37(3) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as regulation 3 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00004], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-61416ddf1df908d6ec2f5d7befbd57fc][^key-61416ddf1df908d6ec2f5d7befbd57fc]
+## 1. Citation, commencement and interpretation[^c-61416ddf1df908d6ec2f5d7befbd57fc][^c-61416ddf1df908d6ec2f5d7befbd57fc]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 1998 and this regulation and regulation 3 shall come into operation on 1st June 1998.
 
@@ -54,7 +54,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (7) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-f8cad90b3c274d6331a76b9b78c04e3f]
+## 2. Amendment of the Income Support (General) Regulations[^c-f8cad90b3c274d6331a76b9b78c04e3f]
 
 In Schedule 9 to the Income Support (General) Regulations (Northern Ireland) 1987[^f00008] (sums to be disregarded in the calculation of income other than earnings)—
 
@@ -70,11 +70,11 @@ In Schedule 9 to the Income Support (General) Regulations (Northern Ireland) 198
 
   .
 
-## 3. Amendment of the Housing Benefit (General) Regulations[^key-1e44e43701003bb2abf333ddc87e2fd4]
+## 3. Amendment of the Housing Benefit (General) Regulations[^c-1e44e43701003bb2abf333ddc87e2fd4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Family Credit (General) Regulations and the Disability Working Allowance (General) Regulations[^key-0b3cae5ca4cb3549d22dac826f57bdaa]
+## 4. Amendment of the Family Credit (General) Regulations and the Disability Working Allowance (General) Regulations[^c-0b3cae5ca4cb3549d22dac826f57bdaa]
 
 In both Schedule 2 to the Family Credit (General) Regulations (Northern Ireland) 1987[^f00012] and Schedule 3 to the Disability Working Allowance (General) Regulations (Northern Ireland) 1992[^f00013] (sums to be disregarded in the calculation of income other than earnings) after paragraph 25A there shall be inserted the following paragraph—
 
@@ -92,7 +92,7 @@ In both Schedule 2 to the Family Credit (General) Regulations (Northern Ireland)
 
 .
 
-## 5. Amendment of the Jobseeker’s Allowance Regulations[^key-9740a98bb57d2a624bcf4469a7eb2a3f]
+## 5. Amendment of the Jobseeker’s Allowance Regulations[^c-9740a98bb57d2a624bcf4469a7eb2a3f]
 
 In Schedule 6 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (sums to be disregarded in the calculation of income other than earnings)—
 
@@ -144,7 +144,7 @@ In so far as these Regulations are required, for the purposes of regulation 3 to
 
 [^f00004]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-61416ddf1df908d6ec2f5d7befbd57fc]: Commencement: Reg. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/176/regulation/1/1)
+[^c-61416ddf1df908d6ec2f5d7befbd57fc]: Commencement: Reg. 1 in operation at 1.6.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/176/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); the definition of “benefit week” was amended by regulation 2(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
 
@@ -152,7 +152,7 @@ In so far as these Regulations are required, for the purposes of regulation 3 to
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-f8cad90b3c274d6331a76b9b78c04e3f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/176/regulation/2) in operation at 1.6.1998 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/176/regulation/1/2)
+[^c-f8cad90b3c274d6331a76b9b78c04e3f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/176/regulation/2) in operation at 1.6.1998 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/176/regulation/1/2)
 
 [^f00008]: Footnote: Paragraph 30 was substituted by regulation 4 of, and paragraph 1 of Schedule 3 to, [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301) and paragraph 30(1)(*d*)(i) was substituted by regulation 2(4) of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434)
 
@@ -160,12 +160,12 @@ In so far as these Regulations are required, for the purposes of regulation 3 to
 
 [^f00010]: Footnote: [1966 c. 42 (N.I.)](https://www.legislation.gov.uk/apni/1966/42); Part VI was substituted by paragraph 49 of Schedule 4 to the Consumer Credit Act 1974
 
-[^key-1e44e43701003bb2abf333ddc87e2fd4]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/176/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-1e44e43701003bb2abf333ddc87e2fd4]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/176/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-0b3cae5ca4cb3549d22dac826f57bdaa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/176/regulation/4) in operation at 2.6.1998 with effect in accordance with, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1998/176/regulation/1/4)
+[^c-0b3cae5ca4cb3549d22dac826f57bdaa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/176/regulation/4) in operation at 2.6.1998 with effect in accordance with, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1998/176/regulation/1/4)
 
 [^f00012]: Footnote: [S.R. 1987 No. 463](https://www.legislation.gov.uk/nisr/1987/463); paragraph 25A was inserted by regulation 4(5)(*e*) of [S.R. 1998 No. 2](https://www.legislation.gov.uk/nisr/1998/2)
 
 [^f00013]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78); paragraph 25A was inserted by regulation 7(5)(*e*) of [S.R. 1998 No. 2](https://www.legislation.gov.uk/nisr/1998/2)
 
-[^key-9740a98bb57d2a624bcf4469a7eb2a3f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/176/regulation/5) in operation at 1.6.1998 with effect in accordance with, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/1998/176/regulation/1/5)
+[^c-9740a98bb57d2a624bcf4469a7eb2a3f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/176/regulation/5) in operation at 1.6.1998 with effect in accordance with, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/1998/176/regulation/1/5)

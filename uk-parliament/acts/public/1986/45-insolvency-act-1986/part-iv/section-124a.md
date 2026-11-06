@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124A. Petition for winding up on grounds of public interest.[^key-c3325a03887628863a445b242699b96b][^key-35b4322eb9d3d58c0309dfe05ebc7ebf][^c15572611]
+## 124A. Petition for winding up on grounds of public interest.[^c-c3325a03887628863a445b242699b96b][^c-35b4322eb9d3d58c0309dfe05ebc7ebf][^c15572611]
 
 *Extent: E+W+S*
 
@@ -36,9 +36,9 @@ that it is expedient in the public interest that a company should be wound up, h
 
 ## Annotations
 
-[^key-c3325a03887628863a445b242699b96b]: Modification: S. 124A applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-c3325a03887628863a445b242699b96b]: Modification: S. 124A applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
 
-[^key-35b4322eb9d3d58c0309dfe05ebc7ebf]: Modification: S. 124A excluded (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2019/138/regulation/16) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))
+[^c-35b4322eb9d3d58c0309dfe05ebc7ebf]: Modification: S. 124A excluded (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2019/138/regulation/16) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))
 
 [^c15572611]: Textual amendment: S. 124A inserted by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/1989/40/section/60/3), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2)
 

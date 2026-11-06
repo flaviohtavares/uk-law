@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Contents
 
-### PART 1 — Rights of children[^key-7a551fadaf1297acff16059b578652c6]
+### PART 1 — Rights of children[^c-7a551fadaf1297acff16059b578652c6]
 
 *Extent: S*
 
@@ -65,7 +65,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 17 — Children's services planning: default powers of Scottish Ministers](part-3/section-17.md)
 - [Section 18 — Interpretation of Part 3](part-3/section-18.md)
 
-### PART 4 — Provision of named persons[^key-60fd33fc3e644a5ac25185cc9c4fbc5d]
+### PART 4 — Provision of named persons[^c-60fd33fc3e644a5ac25185cc9c4fbc5d]
 
 **No longer in force.**
 
@@ -84,7 +84,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 31 — Relevant authorities](part-4/section-31.md)
 - [Section 32 — Interpretation of Part 4](part-4/section-32.md)
 
-### PART 5 — Child's plan[^key-c041696f69c103937713640c224fadea]
+### PART 5 — Child's plan[^c-c041696f69c103937713640c224fadea]
 
 **No longer in force.**
 
@@ -182,7 +182,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 89 — Area support teams: administrative support by local authorities](part-16/section-89.md)
 - [Section 90 — Interpretation of Part 16](part-16/section-90.md)
 
-### Part 16A — Secure transportation[^key-79b36aaffc0ece1a587921837ee842c3]
+### Part 16A — Secure transportation[^c-79b36aaffc0ece1a587921837ee842c3]
 
 - [Section 90A — Secure transportation: duty of Scottish Ministers to prepare and publish standards](part-16a/section-90a.md)
 - [Section 90B — Secure transportation: duty of providers to meet standards](part-16a/section-90b.md)
@@ -231,10 +231,10 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-7a551fadaf1297acff16059b578652c6]: Textual amendment: Pt. 1 repealed (16.7.2024) by [United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 (asp 1)](https://www.legislation.gov.uk/asp/2024/1), [ss. 22(2)](https://www.legislation.gov.uk/asp/2024/1/section/22/2), [47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-7a551fadaf1297acff16059b578652c6]: Textual amendment: Pt. 1 repealed (16.7.2024) by [United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 (asp 1)](https://www.legislation.gov.uk/asp/2024/1), [ss. 22(2)](https://www.legislation.gov.uk/asp/2024/1/section/22/2), [47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
 
-[^key-60fd33fc3e644a5ac25185cc9c4fbc5d]: Textual amendment: Pt. 4 repealed (5.5.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 32(a)](https://www.legislation.gov.uk/asp/2024/5/section/32/a), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/1/c)
+[^c-60fd33fc3e644a5ac25185cc9c4fbc5d]: Textual amendment: Pt. 4 repealed (5.5.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 32(a)](https://www.legislation.gov.uk/asp/2024/5/section/32/a), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/1/c)
 
-[^key-c041696f69c103937713640c224fadea]: Textual amendment: Pt. 5 repealed (5.5.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 32(b)](https://www.legislation.gov.uk/asp/2024/5/section/32/b), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/1/c)
+[^c-c041696f69c103937713640c224fadea]: Textual amendment: Pt. 5 repealed (5.5.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 32(b)](https://www.legislation.gov.uk/asp/2024/5/section/32/b), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/1/c)
 
-[^key-79b36aaffc0ece1a587921837ee842c3]: Textual amendment: [Pt. 16A](https://www.legislation.gov.uk/asp/2014/8/part/16A) inserted (1.9.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 25(2)](https://www.legislation.gov.uk/asp/2024/5/section/25/2), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/a)
+[^c-79b36aaffc0ece1a587921837ee842c3]: Textual amendment: [Pt. 16A](https://www.legislation.gov.uk/asp/2014/8/part/16A) inserted (1.9.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 25(2)](https://www.legislation.gov.uk/asp/2024/5/section/25/2), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/2/a)

@@ -26,7 +26,7 @@ Section 360
 
 #### Licences under Part 1
 
-**1.**[^key-231ac6725482c4e72936b65f1a25844f] (1) Section 3 of the 1990 Act (licensing under Part 1) shall be amended as follows.
+**1.**[^c-231ac6725482c4e72936b65f1a25844f] (1) Section 3 of the 1990 Act (licensing under Part 1) shall be amended as follows.
 
 (2) For “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -41,7 +41,7 @@ Section 360
 
 #### General licence conditions
 
-**2.**[^key-4777c7997a7fad2fb8d21e5b3efa4253] (1) Section 4 of the 1990 Act (general licence conditions) shall be amended as follows.
+**2.**[^c-4777c7997a7fad2fb8d21e5b3efa4253] (1) Section 4 of the 1990 Act (general licence conditions) shall be amended as follows.
 
 (2) For “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -56,7 +56,7 @@ Section 360
 
 #### Restrictions on licence holding
 
-**3.**[^key-074de316196e4d9bf1727621d2d56419] (1) Section 5 of the 1990 Act (restrictions on licence holding) shall be amended as follows.
+**3.**[^c-074de316196e4d9bf1727621d2d56419] (1) Section 5 of the 1990 Act (restrictions on licence holding) shall be amended as follows.
 
 (2) For “The Commission” and “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -87,11 +87,11 @@ Section 360
 
 #### Repeal of previous regulatory regime
 
-**4.**[^key-00bdeb1a4d816b744e2429f7545e3dd4] Sections 6 to 12 of the 1990 Act (which contain the mechanism for regulation in relation to licences under Part 1 of that Act) shall cease to have effect.
+**4.**[^c-00bdeb1a4d816b744e2429f7545e3dd4] Sections 6 to 12 of the 1990 Act (which contain the mechanism for regulation in relation to licences under Part 1 of that Act) shall cease to have effect.
 
 #### Prohibition on providing television services without a licence
 
-**5.**[^key-571d8db53ad155cb615b37d9b1fa65c5] (1) Section 13 of the 1990 Act (prohibition on providing television services without a licence) shall be amended as follows.
+**5.**[^c-571d8db53ad155cb615b37d9b1fa65c5] (1) Section 13 of the 1990 Act (prohibition on providing television services without a licence) shall be amended as follows.
 
 (2) In subsection (1) (offence of providing such service without a licence), for “service falling within section 2(1)(a), (aa), (b), (c), (cc) or (d)” there shall be substituted “ relevant regulated television service ”.
 
@@ -103,11 +103,11 @@ Section 360
 
 #### Television broadcasting on Channel 3
 
-**6.**[^key-f76c52f156877f954378af2436a8883f] In section 14 of the 1990 Act (establishment of Channel 3), for “The Commission” and “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**6.**[^c-f76c52f156877f954378af2436a8883f] In section 14 of the 1990 Act (establishment of Channel 3), for “The Commission” and “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Applications for Channel 3 licences
 
-**7.**[^key-4abb961f3bd9d46519e43247dd9d28f1] (1) Section 15 of the 1990 Act (applications for Channel 3 licences) shall be amended as follows.
+**7.**[^c-4abb961f3bd9d46519e43247dd9d28f1] (1) Section 15 of the 1990 Act (applications for Channel 3 licences) shall be amended as follows.
 
 (2) For “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -145,7 +145,7 @@ Section 360
 
 #### Procedure on consideration of applications for Channel 3 licences
 
-**8.**[^key-2fac825e1b32427b1b96c66c65625b1a] (1) Section 16 of the 1990 Act (consideration of applications for Channel 3 licences) shall be amended as follows.
+**8.**[^c-2fac825e1b32427b1b96c66c65625b1a] (1) Section 16 of the 1990 Act (consideration of applications for Channel 3 licences) shall be amended as follows.
 
 (2) For “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -180,7 +180,7 @@ Section 360
 
 #### Television broadcasting on Channel 3
 
-**9.**[^key-d4aae4c57fe6ffa09f313e2840620c99] (1) Section 17 of the 1990 Act (award of licences to person submitting highest bid) shall be amended as follows.
+**9.**[^c-d4aae4c57fe6ffa09f313e2840620c99] (1) Section 17 of the 1990 Act (award of licences to person submitting highest bid) shall be amended as follows.
 
 (2) For “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -197,11 +197,11 @@ Section 360
 
 #### Financial conditions of licence and failures to begin a service
 
-**10.**[^key-7b055524904163d0ac7c100c7d30b80c] In sections 17A to 19 of the 1990 Act (financial conditions in Channel 3 licences and failures to begin a service), for “The Commission” and “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**10.**[^c-7b055524904163d0ac7c100c7d30b80c] In sections 17A to 19 of the 1990 Act (financial conditions in Channel 3 licences and failures to begin a service), for “The Commission” and “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Changes of control in period after award of licence
 
-**11.**[^key-9d9e0598330dffe0665dcc0a264a4472] (1) Section 21 of the 1990 Act (changes of control in period immediately after award of licence) shall be amended as follows.
+**11.**[^c-9d9e0598330dffe0665dcc0a264a4472] (1) Section 21 of the 1990 Act (changes of control in period immediately after award of licence) shall be amended as follows.
 
 (2) For “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -209,23 +209,23 @@ Section 360
 
 #### Temporary provision of Channel 3 service for an additional area
 
-**12.**[^key-600cf336297491c54f9b4b5243cb94de] In section 22 of the 1990 Act (temporary provision of regional Channel 3 Service for additional area), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**12.**[^c-600cf336297491c54f9b4b5243cb94de] In section 22 of the 1990 Act (temporary provision of regional Channel 3 Service for additional area), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Appointment of members of C4 Corporation
 
-**13.**[^key-3cd68d0acbc3c4b3a8678628c7d4566f] In section 23 of the 1990 Act (appointment of C4C members), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**13.**[^c-3cd68d0acbc3c4b3a8678628c7d4566f] In section 23 of the 1990 Act (appointment of C4C members), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Channel 4 licence
 
-**14.**[^key-a59c5c812c769ed71d95ef091f329259] In section 24(3) of the 1990 Act (Channel 4 licence), for “the Commission” there shall be substituted “ OFCOM ”.
+**14.**[^c-a59c5c812c769ed71d95ef091f329259] In section 24(3) of the 1990 Act (Channel 4 licence), for “the Commission” there shall be substituted “ OFCOM ”.
 
 #### Channel 5
 
-**15.**[^key-4a8696c9f3a068ede5276b1c1929f3c7] In section 28 of the 1990 Act (Channel 5), for “The Commission” and “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**15.**[^c-4a8696c9f3a068ede5276b1c1929f3c7] In section 28 of the 1990 Act (Channel 5), for “The Commission” and “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Application to Channel 5 of Channel 3 provisions
 
-**16.**[^key-f0f823b72e88a32fc186e5f8c1911100] (1) In section 29 of the 1990 Act (application to Channel 5 of Channel 3 provisions)—
+**16.**[^c-f0f823b72e88a32fc186e5f8c1911100] (1) In section 29 of the 1990 Act (application to Channel 5 of Channel 3 provisions)—
 
 - (a) subsection (2)(b) and the word “and” immediately preceding it, and
 - (b) subsection (3),
@@ -236,28 +236,28 @@ shall cease to have effect.
 
 #### Announcement of programme Schedules
 
-**17.**[^key-d2d05adc04c1dd5fea5981f4a1221b21] In section 37(1) of the 1990 Act (conditions requiring announcement of programme Schedules), for “the Commission” there shall be substituted “ OFCOM ”.
+**17.**[^c-d2d05adc04c1dd5fea5981f4a1221b21] In section 37(1) of the 1990 Act (conditions requiring announcement of programme Schedules), for “the Commission” there shall be substituted “ OFCOM ”.
 
 #### Enforcement of conditions of Channel 3, Channel 4 and Channel 5 licences
 
-**18.**[^key-ed6b70fbd9f02b5ced577d643a1e2dfc] (1) In sections 40 to 42 of the 1990 Act (enforcement of licences), for “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**18.**[^c-ed6b70fbd9f02b5ced577d643a1e2dfc] (1) In sections 40 to 42 of the 1990 Act (enforcement of licences), for “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 (2) In sections 41(1) and 42(1)(a) of that Act (which contain provisions relating to the enforcement of directions under Part 1 of that Act), after “this Part”, in each place, there shall be inserted “ , Part 5 of the Broadcasting Act 1996 or Part 3 of the Communications Act 2003 ”.
 
 #### Restricted services
 
-**19.**[^key-58a281ad4aba092c669d30f47df1c3da] In section 42B(1) of the 1990 Act (licensing of restricted services), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**19.**[^c-58a281ad4aba092c669d30f47df1c3da] In section 42B(1) of the 1990 Act (licensing of restricted services), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Additional television services
 
-**20.** (1)[^key-188c52ea2848a38ef049c75b8135084b] Section 48 of the 1990 Act (additional services) shall be further amended as follows.
+**20.** (1)[^c-188c52ea2848a38ef049c75b8135084b] Section 48 of the 1990 Act (additional services) shall be further amended as follows.
 
 (2) In subsection (1)—
 
-- (a)[^key-188c52ea2848a38ef049c75b8135084b] for “telecommunication” there shall be substituted “ electronic ”; and
-- (b)[^key-fa467816434282495057230d8a503e0f] for paragraphs (a) and (b) there shall be substituted “ on a relevant frequency ”.
+- (a)[^c-188c52ea2848a38ef049c75b8135084b] for “telecommunication” there shall be substituted “ electronic ”; and
+- (b)[^c-fa467816434282495057230d8a503e0f] for paragraphs (a) and (b) there shall be substituted “ on a relevant frequency ”.
 
-(3)[^key-fa467816434282495057230d8a503e0f] In subsection (2), for paragraphs (a) and (b) there shall be substituted
+(3)[^c-fa467816434282495057230d8a503e0f] In subsection (2), for paragraphs (a) and (b) there shall be substituted
 
 > any part of the signals which—
 >
@@ -266,11 +266,11 @@ shall cease to have effect.
 
 .
 
-(4)[^key-fa467816434282495057230d8a503e0f] After that subsection there shall be inserted—
+(4)[^c-fa467816434282495057230d8a503e0f] After that subsection there shall be inserted—
 
 > (2A) For the purposes of this Part, if they consider it appropriate to do so, OFCOM may, while an additional services licence is in force, from time to time modify the determination made under subsection (2)(b) for the purposes of that licence in any manner that does not reduce the amount of spare capacity made available for the licensed services; and when so modified any such licence shall have effect accordingly.
 
-(5)[^key-fa467816434282495057230d8a503e0f] In subsection (3)—
+(5)[^c-fa467816434282495057230d8a503e0f] In subsection (3)—
 
 - (a) for “The Commission” there shall be substituted “ OFCOM ”; and
 - (b) for “(2)(a)” there shall be substituted “ (2)(b) ”; and
@@ -281,12 +281,12 @@ shall cease to have effect.
   >   - (i) are ancillary to programmes included in the service and directly related to their contents; or
   >   - (ii) relate to the promotion or listing of such programmes.
 
-(6)[^key-fa467816434282495057230d8a503e0f] In subsection (4), for paragraphs (a) and (b) there shall be substituted—
+(6)[^c-fa467816434282495057230d8a503e0f] In subsection (4), for paragraphs (a) and (b) there shall be substituted—
 
 > - (a) to provide services for the satisfaction in his case of obligations mentioned in subsection (3)(a); and
 > - (b) to provide in relation to his television broadcasting service any such services as are mentioned in subsection (3)(aa).
 
-(7)[^key-fa467816434282495057230d8a503e0f] For subsection (6) there shall be substituted—
+(7)[^c-fa467816434282495057230d8a503e0f] For subsection (6) there shall be substituted—
 
 > (6) In this section—
 >
@@ -294,17 +294,17 @@ shall cease to have effect.
 >
 > “**relevant frequency**” means a frequency made available by OFCOM for the purposes of a television broadcasting service.
 
-(8)[^key-fa467816434282495057230d8a503e0f] This paragraph does not affect the validity of a licence granted or last renewed before the television transfer date, or the services licensed by any such licence.
+(8)[^c-fa467816434282495057230d8a503e0f] This paragraph does not affect the validity of a licence granted or last renewed before the television transfer date, or the services licensed by any such licence.
 
 #### Licensing of additional television services
 
-**21.**[^key-8b904635f5690ac3035a4572d5049d91] (1) Section 49 of the 1990 Act (licensing of additional television services) shall be amended as follows.
+**21.**[^c-8b904635f5690ac3035a4572d5049d91] (1) Section 49 of the 1990 Act (licensing of additional television services) shall be amended as follows.
 
 (2) For “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 (3) In subsection (1), for the words from “of the following” to “48(1)(b)” there shall be substituted “ relevant frequency ”.
 
-(4)[^key-4ef534bd77fc8555444290f0e86ecfa5] For subsections (2) and (3) there shall be substituted—
+(4)[^c-4ef534bd77fc8555444290f0e86ecfa5] For subsections (2) and (3) there shall be substituted—
 
 > (1A) An additional services licence is not required for an additional service that is comprised in the public teletext service (within the meaning of Part 3 of the Communications Act 2003).
 
@@ -312,7 +312,7 @@ shall cease to have effect.
 
 #### Applications for additional services licences
 
-**22.**[^key-531f5a49efc7278f1f2ab6dbd3456dd1] (1) Section 50 of the 1990 Act (applications for additional services licences) shall be amended as follows.
+**22.**[^c-531f5a49efc7278f1f2ab6dbd3456dd1] (1) Section 50 of the 1990 Act (applications for additional services licences) shall be amended as follows.
 
 (2) For “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -322,7 +322,7 @@ shall cease to have effect.
 
 #### Procedure on application etc. for additional television services licences
 
-**23.**[^key-f9153f8f3118cb05b25b449065538be5] (1) Section 51 of the 1990 Act (consideration of applications for licences for additional television services) shall be amended as follows.
+**23.**[^c-f9153f8f3118cb05b25b449065538be5] (1) Section 51 of the 1990 Act (consideration of applications for licences for additional television services) shall be amended as follows.
 
 (2) For “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -336,11 +336,11 @@ shall cease to have effect.
 
 #### Additional payments in respect of additional television services licences
 
-**24.**[^key-6925d848e68a4b71945de6a073028264] In section 52 of the 1990 Act (additional payments in respect of additional television services licences), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**24.**[^c-6925d848e68a4b71945de6a073028264] In section 52 of the 1990 Act (additional payments in respect of additional television services licences), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Duration of additional television services licences
 
-**25.**[^key-a115f2ff4184f0fbb96b86c2934783ed] (1) Section 53 of the 1990 Act (duration and renewal of additional television services licences) shall be amended as follows.
+**25.**[^c-a115f2ff4184f0fbb96b86c2934783ed] (1) Section 53 of the 1990 Act (duration and renewal of additional television services licences) shall be amended as follows.
 
 (2) In subsection (1), for the words before paragraph (a) there shall be substituted—
 
@@ -372,7 +372,7 @@ shall cease to have effect.
 
 #### Additional television services not to interfere with other transmissions
 
-**26.**[^key-76ac0df54b22a12b7e2712464892d0b1] (1) Section 54 of the 1990 Act (additional television services not to interfere with other transmissions) shall be amended as follows.
+**26.**[^c-76ac0df54b22a12b7e2712464892d0b1] (1) Section 54 of the 1990 Act (additional television services not to interfere with other transmissions) shall be amended as follows.
 
 (2) In subsection (1), for “the Commission” there shall be substituted “ OFCOM ”.
 
@@ -380,7 +380,7 @@ shall cease to have effect.
 
 #### Enforcement of additional television services licences
 
-**27.**[^key-f5b5a82bfa8afdf0bb4d970bea9cb518] (1) Section 55 of the 1990 Act (further provision in relation to additional television services licences) shall be amended as follows.
+**27.**[^c-f5b5a82bfa8afdf0bb4d970bea9cb518] (1) Section 55 of the 1990 Act (further provision in relation to additional television services licences) shall be amended as follows.
 
 (2) For “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -388,7 +388,7 @@ shall cease to have effect.
 
 #### The Welsh Authority
 
-**28.**[^key-74be6ef56e7eed783d9590a503ac1b9f] (1) Section 58 of the 1990 Act (sources of programmes for S4C) shall be amended as follows.
+**28.**[^c-74be6ef56e7eed783d9590a503ac1b9f] (1) Section 58 of the 1990 Act (sources of programmes for S4C) shall be amended as follows.
 
 (2) In subsection (1), for “comply with their duty under section 57(2)(b)” there shall be substituted “ fulfil so much of their public service remit in relation to S4C under paragraph 3 of Schedule 12 to the Communications Act 2003 as is contained in sub-paragraph (2)(a) and (b) of that paragraph ”.
 
@@ -400,7 +400,7 @@ shall cease to have effect.
 
 #### Distribution of licensed public service channels
 
-**29.**[^key-c467bbadcd3a97c4e108bd01a1ddf4a8] (1) Section 66 of the 1990 Act (requirements relating to transmission and distribution of services) shall be amended as follows.
+**29.**[^c-c467bbadcd3a97c4e108bd01a1ddf4a8] (1) Section 66 of the 1990 Act (requirements relating to transmission and distribution of services) shall be amended as follows.
 
 (2) For “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -414,11 +414,11 @@ shall cease to have effect.
 
 #### Enforcement of licences held by BBC companies
 
-**30.**[^key-0d19fa8e4011c11b5bfdc8a40581827d] In section 66A of the 1990 Act (enforcement of licences held by BBC companies), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**30.**[^c-0d19fa8e4011c11b5bfdc8a40581827d] In section 66A of the 1990 Act (enforcement of licences held by BBC companies), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Interpretation of Part 1
 
-**31.**[^key-fe807674f50ab896b7eb84c30bd60c3d] (1) Section 71 of the 1990 Act (interpretation) shall be amended as follows.
+**31.**[^c-fe807674f50ab896b7eb84c30bd60c3d] (1) Section 71 of the 1990 Act (interpretation) shall be amended as follows.
 
 (2) For the definitions of “S4C” and “on S4C” there shall be substituted—
 
@@ -434,7 +434,7 @@ shall cease to have effect.
 
 #### Licensing functions of OFCOM
 
-**32.**[^key-e999386ca4e8670f54e82a4b68979862] (1) Section 85 of the 1990 Act (licensing of independent radio services) shall be amended as follows.
+**32.**[^c-e999386ca4e8670f54e82a4b68979862] (1) Section 85 of the 1990 Act (licensing of independent radio services) shall be amended as follows.
 
 (2) In subsections (1) and (2), for “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -452,7 +452,7 @@ shall cease to have effect.
 
 #### Licences under Part 3 of the 1990 Act
 
-**33.**[^key-8bb524aaf5b8ff2431828f9719a4c3d7] (1) Section 86 of the 1990 Act (licences under Part 3) shall be amended as follows.
+**33.**[^c-8bb524aaf5b8ff2431828f9719a4c3d7] (1) Section 86 of the 1990 Act (licences under Part 3) shall be amended as follows.
 
 (2) For “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -465,7 +465,7 @@ shall cease to have effect.
 
 #### General licence conditions
 
-**34.**[^key-d0b12a4b689391ccfbc800cbb9efe1a0] (1) Section 87 of the 1990 Act (general licence conditions) shall be amended as follows.
+**34.**[^c-d0b12a4b689391ccfbc800cbb9efe1a0] (1) Section 87 of the 1990 Act (general licence conditions) shall be amended as follows.
 
 (2) For “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -477,7 +477,7 @@ shall cease to have effect.
 
 #### Restrictions on holding licences
 
-**35.**[^key-c6b83ddc651a2885ed0a048998d18f62] (1) Section 88 of the 1990 Act (restrictions on the holding of licences) shall be amended as follows.
+**35.**[^c-c6b83ddc651a2885ed0a048998d18f62] (1) Section 88 of the 1990 Act (restrictions on the holding of licences) shall be amended as follows.
 
 (2) For “The Authority” and “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -508,7 +508,7 @@ shall cease to have effect.
 
 #### Disqualification of persons convicted of transmission offences
 
-**36.**[^key-1c37a9f44314d4c52edf8ad44bfeab10] (1) Section 89 of the 1990 Act (offences giving rise to disqualification) shall be amended as follows.
+**36.**[^c-1c37a9f44314d4c52edf8ad44bfeab10] (1) Section 89 of the 1990 Act (offences giving rise to disqualification) shall be amended as follows.
 
 (2) In subsection (1), for paragraph (a) there shall be substituted—
 
@@ -529,7 +529,7 @@ shall cease to have effect.
 
 #### Offence of providing regulated radio services
 
-**37.**[^key-ccecc3b3a09962d8da729b6dab0b245a] (1) Section 97 of the 1990 Act (prohibition on providing services without a licence) shall be amended as follows.
+**37.**[^c-ccecc3b3a09962d8da729b6dab0b245a] (1) Section 97 of the 1990 Act (prohibition on providing services without a licence) shall be amended as follows.
 
 (2) In subsection (1), for the words from “independent” to “84(1)(d), (e) or (f)” there shall be substituted “ relevant regulated radio service ”.
 
@@ -541,7 +541,7 @@ shall cease to have effect.
 
 #### Applications for national licences
 
-**38.**[^key-1ba4990f7f483683ddbc20f2b4501b33] (1) Section 98 of the 1990 Act (applications for national licences) shall be amended as follows.
+**38.**[^c-1ba4990f7f483683ddbc20f2b4501b33] (1) Section 98 of the 1990 Act (applications for national licences) shall be amended as follows.
 
 (2) For “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -565,7 +565,7 @@ shall be omitted.
 
 #### Consideration of applications for a national licence
 
-**39.**[^key-9919fa8abbba284bb73cbf46a6f04b67] (1) Section 99 of the 1990 Act (consideration of applications for national licence) shall be amended as follows.
+**39.**[^c-9919fa8abbba284bb73cbf46a6f04b67] (1) Section 99 of the 1990 Act (consideration of applications for national licence) shall be amended as follows.
 
 (2) For “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -580,11 +580,11 @@ shall be omitted.
 
 #### Award of national licences
 
-**40.**[^key-0907c088149146ac651746ebf16ad937] In section 100 of the 1990 Act (award of national licences to person submitting highest cash bid), for “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
+**40.**[^c-0907c088149146ac651746ebf16ad937] In section 100 of the 1990 Act (award of national licences to person submitting highest cash bid), for “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Failure to begin providing licensed service
 
-**41.**[^key-a67619af6edebb0c5b6c6dd10f155ad7] (1) Section 101 of the 1990 Act (failure to begin providing licensed service) shall be amended as follows.
+**41.**[^c-a67619af6edebb0c5b6c6dd10f155ad7] (1) Section 101 of the 1990 Act (failure to begin providing licensed service) shall be amended as follows.
 
 (2) For “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -597,11 +597,11 @@ shall be omitted.
 
 #### Additional payments in respect of national licences
 
-**42.**[^key-9c0bff3ae45d39e0c6396e2032251056] In section 102 of the 1990 Act (additional payments in respect of national licences), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
+**42.**[^c-9c0bff3ae45d39e0c6396e2032251056] In section 102 of the 1990 Act (additional payments in respect of national licences), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Restrictions affecting change in control of holder of national licence
 
-**43.**[^key-77a471971ebed30792f4df6050a01862] (1) Section 103 of the 1990 Act (restrictions on change of control of national licence) shall be amended as follows.
+**43.**[^c-77a471971ebed30792f4df6050a01862] (1) Section 103 of the 1990 Act (restrictions on change of control of national licence) shall be amended as follows.
 
 (2) For “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -612,7 +612,7 @@ shall be omitted.
 
 #### Renewal of national licences
 
-**44.**[^key-2af6d2616665ef6b1c32032fa0ebb388] (1) Section 103A of the 1990 Act (renewal of national licences) shall be amended as follows.
+**44.**[^c-2af6d2616665ef6b1c32032fa0ebb388] (1) Section 103A of the 1990 Act (renewal of national licences) shall be amended as follows.
 
 (2) For “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -653,7 +653,7 @@ shall be omitted.
 
 #### Applications for local licences
 
-**45.**[^key-44947de7446668e0b40b57e980921c8b] (1) Section 104 of the 1990 Act (application for local licences) shall be amended as follows.
+**45.**[^c-44947de7446668e0b40b57e980921c8b] (1) Section 104 of the 1990 Act (application for local licences) shall be amended as follows.
 
 (2) For “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -661,7 +661,7 @@ shall be omitted.
 
 #### Renewal of local licences
 
-**46.**[^key-fcc103d18f993b759ebf3d1b7f009adc] (1) Section 104A of the 1990 Act (renewal of local licences) shall be amended as follows.
+**46.**[^c-fcc103d18f993b759ebf3d1b7f009adc] (1) Section 104A of the 1990 Act (renewal of local licences) shall be amended as follows.
 
 (2) For “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -687,7 +687,7 @@ shall be omitted.
 
 #### Special procedure for applications for local licences
 
-**47.**[^key-b7db7ff62c5bb53dea7374c36a1dfbdf] (1) Section 104B of the 1990 Act (special procedure for applications for local licences) shall be amended as follows.
+**47.**[^c-b7db7ff62c5bb53dea7374c36a1dfbdf] (1) Section 104B of the 1990 Act (special procedure for applications for local licences) shall be amended as follows.
 
 (2) For “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -697,7 +697,7 @@ shall be omitted.
 
 #### Special requirements relating to grant of local licences
 
-**48.**[^key-6a34a8a6bc28f6cad3b51e6e9c1a05fe] (1) Section 105 of the 1990 Act (special requirements relating to grant of local licences) shall be amended as follows.
+**48.**[^c-6a34a8a6bc28f6cad3b51e6e9c1a05fe] (1) Section 105 of the 1990 Act (special requirements relating to grant of local licences) shall be amended as follows.
 
 (2) For “the Authority” there shall be substituted “ OFCOM ”.
 
@@ -707,15 +707,15 @@ shall be omitted.
 
 #### Requirements as to character and coverage of services
 
-**49.**[^key-8051940492543a043e9075a7dc8e49c6] In subsections (1) to (4) and (6) of section 106 of the 1990 Act (requirements as to character and coverage of services), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
+**49.**[^c-8051940492543a043e9075a7dc8e49c6] In subsections (1) to (4) and (6) of section 106 of the 1990 Act (requirements as to character and coverage of services), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Enforcement of licences
 
-**50.**[^key-f498160e0f837f8b91fe0a8adc3ef470] In sections 109 to 111A of the 1990 Act (enforcement of licences), for “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
+**50.**[^c-f498160e0f837f8b91fe0a8adc3ef470] In sections 109 to 111A of the 1990 Act (enforcement of licences), for “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Power to suspend licences to provide radio licensable content services from a satellite
 
-**51.**[^key-6c93d72e47d9356079b583485f850914] (1) Section 111B of the 1990 Act (power to suspend licence to provide satellite service) shall be amended as follows.
+**51.**[^c-6c93d72e47d9356079b583485f850914] (1) Section 111B of the 1990 Act (power to suspend licence to provide satellite service) shall be amended as follows.
 
 (2) For “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -726,14 +726,14 @@ shall be omitted.
 
 #### Additional radio services
 
-**52.** (1)[^key-275f7ffb4aefdea6dd6e925cd5fde0cf] Section 114 of the 1990 Act (additional radio services) shall be amended as follows.
+**52.** (1)[^c-275f7ffb4aefdea6dd6e925cd5fde0cf] Section 114 of the 1990 Act (additional radio services) shall be amended as follows.
 
 (2) In subsection (1)—
 
-- (a)[^key-275f7ffb4aefdea6dd6e925cd5fde0cf] for “telecommunication” there shall be substituted “ electronic ”; and
-- (b)[^key-0435d302909ff669ebafcf6628a6a489] for paragraphs (a) and (b) there shall be substituted “ on a relevant frequency ”.
+- (a)[^c-275f7ffb4aefdea6dd6e925cd5fde0cf] for “telecommunication” there shall be substituted “ electronic ”; and
+- (b)[^c-0435d302909ff669ebafcf6628a6a489] for paragraphs (a) and (b) there shall be substituted “ on a relevant frequency ”.
 
-(3)[^key-0435d302909ff669ebafcf6628a6a489] In subsection (2), for paragraphs (a) and (b) there shall be substituted
+(3)[^c-0435d302909ff669ebafcf6628a6a489] In subsection (2), for paragraphs (a) and (b) there shall be substituted
 
 > any part of the signals which—
 >
@@ -742,37 +742,37 @@ shall be omitted.
 
 .
 
-(4)[^key-0435d302909ff669ebafcf6628a6a489] After that subsection there shall be inserted—
+(4)[^c-0435d302909ff669ebafcf6628a6a489] After that subsection there shall be inserted—
 
 > (2A) At any time while an additional services licence is in force, OFCOM may, if they consider it appropriate to do so, modify or further modify the determination made for the purposes of that licence under subsection (2)(b); and where there has been such a modification or further modification, the licence shall have effect accordingly.
 >
 > (2B) A modification or further modification under subsection (2A) must not reduce the amount of spare capacity made available for the licensed services.
 
-(5)[^key-0435d302909ff669ebafcf6628a6a489] In subsection (3), for the words from the beginning to “subsection (2)(a)” there shall be substituted “ OFCOM shall, when determining under subsection (2) ”.
+(5)[^c-0435d302909ff669ebafcf6628a6a489] In subsection (3), for the words from the beginning to “subsection (2)(a)” there shall be substituted “ OFCOM shall, when determining under subsection (2) ”.
 
-(6)[^key-0435d302909ff669ebafcf6628a6a489] For subsection (6) there shall be substituted—
+(6)[^c-0435d302909ff669ebafcf6628a6a489] For subsection (6) there shall be substituted—
 
 > (6) In this section “**electronic signal**” means a signal within the meaning of section 32 of the Communications Act 2003.
 >
 > (7) In this section and section 115 “**relevant frequency**” means a frequency made available by OFCOM for the purposes of a sound broadcasting service.
 
-(7)[^key-0435d302909ff669ebafcf6628a6a489] This paragraph does not affect the validity of a licence granted or last renewed before the radio transfer date, or the services licensed by any such licence.
+(7)[^c-0435d302909ff669ebafcf6628a6a489] This paragraph does not affect the validity of a licence granted or last renewed before the radio transfer date, or the services licensed by any such licence.
 
 #### Licensing of additional radio services
 
-**53.** (1)[^key-78e073437c49d277ca8765e2ccb48f3f] Section 115 of the 1990 Act (licensing of additional radio services) shall be amended as follows.
+**53.** (1)[^c-78e073437c49d277ca8765e2ccb48f3f] Section 115 of the 1990 Act (licensing of additional radio services) shall be amended as follows.
 
-(2)[^key-027235be8e6073953db1b1f2074e77bb] For “The Authority” and “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
+(2)[^c-027235be8e6073953db1b1f2074e77bb] For “The Authority” and “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
-(3)[^key-027235be8e6073953db1b1f2074e77bb] In subsection (1), for the words from “of the following” to “114(1)(b)” there shall be substituted “ relevant frequency ”.
+(3)[^c-027235be8e6073953db1b1f2074e77bb] In subsection (1), for the words from “of the following” to “114(1)(b)” there shall be substituted “ relevant frequency ”.
 
-(4)[^key-78e073437c49d277ca8765e2ccb48f3f] In subsection (4), at the end there shall be inserted “ and who would not be in contravention of the requirements imposed by or under Schedule 14 to the Communications Act 2003 if he held such a licence ”.
+(4)[^c-78e073437c49d277ca8765e2ccb48f3f] In subsection (4), at the end there shall be inserted “ and who would not be in contravention of the requirements imposed by or under Schedule 14 to the Communications Act 2003 if he held such a licence ”.
 
-(5)[^key-027235be8e6073953db1b1f2074e77bb] In subsection (8), for “local, restricted or satellite service” there shall be substituted “ local or restricted service or to provide a radio licensable content service ”.
+(5)[^c-027235be8e6073953db1b1f2074e77bb] In subsection (8), for “local, restricted or satellite service” there shall be substituted “ local or restricted service or to provide a radio licensable content service ”.
 
 #### Applications for additional radio services licences
 
-**54.**[^key-4fd80541751d182edae8060fd2300e43] (1) Section 116 of the 1990 Act (applications for additional radio services licences) shall be amended as follows.
+**54.**[^c-4fd80541751d182edae8060fd2300e43] (1) Section 116 of the 1990 Act (applications for additional radio services licences) shall be amended as follows.
 
 (2) For “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -780,7 +780,7 @@ shall be omitted.
 
 #### Procedure for awarding additional radio services licences
 
-**55.**[^key-8e30a7b0f7badd12c0b96e9f38e8bf63] (1) Section 117 of the 1990 Act (procedure for awarding additional radio services licences) shall be amended as follows.
+**55.**[^c-8e30a7b0f7badd12c0b96e9f38e8bf63] (1) Section 117 of the 1990 Act (procedure for awarding additional radio services licences) shall be amended as follows.
 
 (2) For “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -794,11 +794,11 @@ shall be omitted.
 
 #### Additional payments in respect of additional radio services licences
 
-**56.**[^key-ff84d5d3e3aca26fc3fa96bafa43fe57] In section 118 of the 1990 Act (additional payments in respect of additional radio services licences), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
+**56.**[^c-ff84d5d3e3aca26fc3fa96bafa43fe57] In section 118 of the 1990 Act (additional payments in respect of additional radio services licences), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Additional radio services not to interfere with other transmissions
 
-**57.**[^key-d9749aa2703efad3d810bb4dadb9c70a] (1) Section 119 of the 1990 Act (additional radio services not to interfere with other transmissions) shall be amended as follows.
+**57.**[^c-d9749aa2703efad3d810bb4dadb9c70a] (1) Section 119 of the 1990 Act (additional radio services not to interfere with other transmissions) shall be amended as follows.
 
 (2) In subsection (1), for “the Authority” there shall be substituted “ OFCOM ”.
 
@@ -806,11 +806,11 @@ shall be omitted.
 
 #### Enforcement of additional radio services licences
 
-**58.**[^key-8b7a52dc05718f4f1e9276a74507f494] In section 120 of the 1990 Act (enforcement of additional radio services licences), for “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
+**58.**[^c-8b7a52dc05718f4f1e9276a74507f494] In section 120 of the 1990 Act (enforcement of additional radio services licences), for “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Interpretation
 
-**59.**[^key-2222c09bd26618d54c504be354bd0622] In subsection (1) of section 126 of the 1990 Act (interpretation of Part 3)—
+**59.**[^c-2222c09bd26618d54c504be354bd0622] In subsection (1) of section 126 of the 1990 Act (interpretation of Part 3)—
 
 - (a) for the definition of “independent radio service” there shall be substituted—
 
@@ -832,7 +832,7 @@ shall be omitted.
 
 #### Duty to provide advance information about programmes
 
-**60.**[^key-cf32cb442805b3ee0626c69ab684d5d1] In column 1 of the Table in section 176(7) of the 1990 Act (persons who are the providers of services for the purposes of the obligations to give advance information about programmes)—
+**60.**[^c-cf32cb442805b3ee0626c69ab684d5d1] In column 1 of the Table in section 176(7) of the 1990 Act (persons who are the providers of services for the purposes of the obligations to give advance information about programmes)—
 
 - (a) for “regulation by the Independent Television Commission” there shall be substituted “ regulation by OFCOM ”;
 - (b) for “The television broadcasting service provided by the Welsh Authority and the service referred to in section 57(1A)(a)” there shall be substituted “ The public television services of the Welsh Authority (within the meaning of Part 2 of Schedule 12 to the Communications Act 2003) ”;
@@ -841,7 +841,7 @@ shall be omitted.
 
 #### Proscription of foreign satellite services
 
-**61.**[^key-0c711db7d16e93f575119985781a4d47] (1) Section 177 of the 1990 Act (proscription of foreign satellite stations) shall be amended as follows.
+**61.**[^c-0c711db7d16e93f575119985781a4d47] (1) Section 177 of the 1990 Act (proscription of foreign satellite stations) shall be amended as follows.
 
 (2) In subsection (2), for “the Independent Television Commission or the Radio Authority consider that the quality of any relevant” there shall be substituted “ OFCOM consider that the quality of any ”.
 
@@ -851,7 +851,7 @@ shall be omitted.
 
 #### Financing of Gaelic Broadcasting
 
-**62.**[^key-231aa9702f618e12067adb58798717fd] (1) Section 183 of the 1990 Act (financing of Gaelic Broadcasting) shall be amended as follows.
+**62.**[^c-231aa9702f618e12067adb58798717fd] (1) Section 183 of the 1990 Act (financing of Gaelic Broadcasting) shall be amended as follows.
 
 (2) For “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -864,7 +864,7 @@ shall be omitted.
 
 #### Gaelic Broadcasting in Scotland
 
-**63.**[^key-61370d44cdd6ccdef245c7d2c055c798] (1) Section 184 of the 1990 Act (broadcasting of programmes in Gaelic on Channel 3 in Scotland) shall be amended as follows.
+**63.**[^c-61370d44cdd6ccdef245c7d2c055c798] (1) Section 184 of the 1990 Act (broadcasting of programmes in Gaelic on Channel 3 in Scotland) shall be amended as follows.
 
 (2) In subsection (1), for the words “subsection (2)” there shall be substituted “ subsection (1)(a) ”.
 
@@ -878,7 +878,7 @@ shall be omitted.
 
 #### Maintenance of the national television archive
 
-**64.**[^key-e9b7cccc57472df6b73bafc2f289d5e7] (1) In section 185 of the 1990 Act (maintenance of the national television archive)—
+**64.**[^c-e9b7cccc57472df6b73bafc2f289d5e7] (1) In section 185 of the 1990 Act (maintenance of the national television archive)—
 
 - (a) for “The Commission” and “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 - (b) in subsection (5), the definition of “the Commission” shall be omitted.
@@ -887,7 +887,7 @@ shall be omitted.
 
 #### Modification of networking arrangements
 
-**65.**[^key-3888762e48d6847350bd72a86acdc7c7] (1) Section 193 of the 1990 Act (modification of networking arrangements in consequence of competition legislation) shall be amended as follows.
+**65.**[^c-3888762e48d6847350bd72a86acdc7c7] (1) Section 193 of the 1990 Act (modification of networking arrangements in consequence of competition legislation) shall be amended as follows.
 
 (2) In subsection (1), for the words from “the Office of Fair Trading” to “relevant authority')” there shall be substituted “ the relevant authority ”.
 
@@ -902,7 +902,7 @@ shall be omitted.
 
 #### Search warrants
 
-**66.**[^key-82d167e1bfae4d50cc60d558c1ceeb23] (1) Section 196 of the 1990 Act (grant of search warrant to person authorised by the Independent Television Commission or the Radio Authority) shall be amended as follows.
+**66.**[^c-82d167e1bfae4d50cc60d558c1ceeb23] (1) Section 196 of the 1990 Act (grant of search warrant to person authorised by the Independent Television Commission or the Radio Authority) shall be amended as follows.
 
 (2) In subsection (1), for “the relevant authority” there shall be substituted “ OFCOM ”.
 
@@ -910,11 +910,11 @@ shall be omitted.
 
 #### Notices
 
-**67.**[^key-8950e665800a267bf069cb14d3c1aa6b] In section 199(5) of the 1990 Act (publication of notices), for paragraphs (a) and (b) there shall be substituted “ by OFCOM under section 21, 41, 42, 55, 103, 109, 110, 111 or 120 ”.
+**67.**[^c-8950e665800a267bf069cb14d3c1aa6b] In section 199(5) of the 1990 Act (publication of notices), for paragraphs (a) and (b) there shall be substituted “ by OFCOM under section 21, 41, 42, 55, 103, 109, 110, 111 or 120 ”.
 
 #### Interpretation
 
-**68.**[^key-12e46d08d225b1445a708e883d0d6007] (1) Section 202 of the 1990 Act (general interpretation) shall be amended as follows.
+**68.**[^c-12e46d08d225b1445a708e883d0d6007] (1) Section 202 of the 1990 Act (general interpretation) shall be amended as follows.
 
 (2) In subsection (1), after the definition of “modifications” there shall be inserted—
 
@@ -928,7 +928,7 @@ shall be omitted.
 
 #### Disqualified persons
 
-**69.**[^key-9d242f3bd9b91461fb5110864e61c817] (1) Schedule 2 to the 1990 Act (restrictions on the holding of licences) shall be amended as follows.
+**69.**[^c-9d242f3bd9b91461fb5110864e61c817] (1) Schedule 2 to the 1990 Act (restrictions on the holding of licences) shall be amended as follows.
 
 (2) In paragraph 1(1) of Part 1, after the definition of “associate” there shall be inserted—
 
@@ -961,7 +961,7 @@ shall be omitted.
 
 #### C4C
 
-**70.**[^key-fa7f2829e9a8d146097d203262765cc5] (1) Schedule 3 to the 1990 Act (provision about constitution and management of C4C) shall be amended as follows.
+**70.**[^c-fa7f2829e9a8d146097d203262765cc5] (1) Schedule 3 to the 1990 Act (provision about constitution and management of C4C) shall be amended as follows.
 
 (2) For “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -973,7 +973,7 @@ shall be omitted.
 
 #### The Welsh Authority
 
-**71.**[^key-15981dc6f2db4933dbc57cdc0972e31f] (1) Schedule 6 to the 1990 Act (provision about constitution and management of the Welsh Authority) shall be amended as follows.
+**71.**[^c-15981dc6f2db4933dbc57cdc0972e31f] (1) Schedule 6 to the 1990 Act (provision about constitution and management of the Welsh Authority) shall be amended as follows.
 
 (2) In paragraph 2 (persons disqualified from membership of the Authority)—
 
@@ -984,7 +984,7 @@ shall be omitted.
 
 #### Computation of qualifying revenue
 
-**72.**[^key-3545e82e7a41d5272d908e3d50b6a6bb] (1) Schedule 7 to the 1990 Act (computation of “qualifying revenue”) shall be amended as follows.
+**72.**[^c-3545e82e7a41d5272d908e3d50b6a6bb] (1) Schedule 7 to the 1990 Act (computation of “qualifying revenue”) shall be amended as follows.
 
 (2) In Part 1, for “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -992,7 +992,7 @@ shall be omitted.
 
 #### The Gaelic Television Committee
 
-**73.**[^key-53693d3d9a3b8fe0ae4174d2c73cec41] (1) Schedule 19 to the 1990 Act (Gaelic Television Committee) shall be amended as follows.
+**73.**[^c-53693d3d9a3b8fe0ae4174d2c73cec41] (1) Schedule 19 to the 1990 Act (Gaelic Television Committee) shall be amended as follows.
 
 (2) For “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1006,7 +1006,7 @@ shall be omitted.
 
 #### Multiplex services and digital programme services
 
-**74.**[^key-f87b5830e93b41792e2fd0820cfccafd] (1) Section 1 of the 1996 Act (interpretation) shall be amended as follows.
+**74.**[^c-f87b5830e93b41792e2fd0820cfccafd] (1) Section 1 of the 1996 Act (interpretation) shall be amended as follows.
 
 (2) For subsection (1) there shall be substituted—
 
@@ -1024,7 +1024,7 @@ shall be omitted.
 
 #### Meaning of qualifying service
 
-**75.**[^key-9a72f0aea06361e0ee7f109c4fe12c2e] In section 2 of the 1996 Act (meaning of “qualifying service” etc.), for subsections (2) to (6) there shall be substituted—
+**75.**[^c-9a72f0aea06361e0ee7f109c4fe12c2e] In section 2 of the 1996 Act (meaning of “qualifying service” etc.), for subsections (2) to (6) there shall be substituted—
 
 > (2) In this Part “**qualifying service**” means any of the following, so far as they are provided with a view to their being broadcast in digital form—
 >
@@ -1037,7 +1037,7 @@ shall be omitted.
 
 #### Licences under Part 1
 
-**76.**[^key-1723683820c927d58076d53c4d3c1b2f] (1) Section 3 of the 1996 Act (licences under Part 1 of that Act) shall be amended as follows.
+**76.**[^c-1723683820c927d58076d53c4d3c1b2f] (1) Section 3 of the 1996 Act (licences under Part 1 of that Act) shall be amended as follows.
 
 (2) In subsection (1), for “the Independent Television Commission (in this Part referred to as the “**the Commission**”)” there shall be substituted “ OFCOM ”.
 
@@ -1052,7 +1052,7 @@ shall be omitted.
 
 #### Licence conditions
 
-**77.**[^key-eec8979b9ac4be5fb44e43fb0842501f] (1) Section 4 of the 1996 Act (general licence conditions) shall be amended as follows.
+**77.**[^c-eec8979b9ac4be5fb44e43fb0842501f] (1) Section 4 of the 1996 Act (general licence conditions) shall be amended as follows.
 
 (2) For “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1062,7 +1062,7 @@ shall be omitted.
 
 #### Restrictions on digital licence holding
 
-**78.**[^key-e7ccea92e9889a495b1a14a9b8afb3d3] (1) Section 5 of the 1996 Act (restrictions on holding licences) shall be amended as follows.
+**78.**[^c-e7ccea92e9889a495b1a14a9b8afb3d3] (1) Section 5 of the 1996 Act (restrictions on holding licences) shall be amended as follows.
 
 (2) For “The Commission” and “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1091,7 +1091,7 @@ shall be omitted.
 
 #### Multiplex licences
 
-**79.**[^key-346a2c87de1923116cba424673cf686b] (1) Section 7 of the 1996 Act (multiplex licences) shall be amended as follows.
+**79.**[^c-346a2c87de1923116cba424673cf686b] (1) Section 7 of the 1996 Act (multiplex licences) shall be amended as follows.
 
 (2) For “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1104,7 +1104,7 @@ shall be omitted.
 
 #### Award of multiplex licences
 
-**80.**[^key-fcb05ceb57f4b3f66f247e1ce42977c0] (1) Section 8 of the 1996 Act (award of multiplex licences) shall be amended as follows.
+**80.**[^c-fcb05ceb57f4b3f66f247e1ce42977c0] (1) Section 8 of the 1996 Act (award of multiplex licences) shall be amended as follows.
 
 (2) For “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1112,11 +1112,11 @@ shall be omitted.
 
 #### Power to require two or more multiplex licences to be granted to one person
 
-**81.**[^key-4eaab6ae9f61db331881c393d9250359] In section 9 of the 1996 Act (grant of two or more multiplex licences to one person), for “The Commission” and “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**81.**[^c-4eaab6ae9f61db331881c393d9250359] In section 9 of the 1996 Act (grant of two or more multiplex licences to one person), for “The Commission” and “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Award of multiplex licences subject to conditions
 
-**82.**[^key-730c9a7f00a41724cf8723f4056bc007] (1) Section 10 of the 1996 Act (award of multiplex licences subject to conditions) shall be amended as follows.
+**82.**[^c-730c9a7f00a41724cf8723f4056bc007] (1) Section 10 of the 1996 Act (award of multiplex licences subject to conditions) shall be amended as follows.
 
 (2) For “The Commission” and “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1124,19 +1124,19 @@ shall be omitted.
 
 #### Failure to provide licensed service and revocation
 
-**83.**[^key-966280e7441f44e45fa90b02a332f40b] In section 11 of the 1996 Act (failure to provide licensed service and revocation), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**83.**[^c-966280e7441f44e45fa90b02a332f40b] In section 11 of the 1996 Act (failure to provide licensed service and revocation), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Conditions attached to multiplex licences
 
-**84.**[^key-86ad343f5ad157e4f8d54056c9e53c0a] In section 12 of the 1996 Act (conditions attached to multiplex licences), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**84.**[^c-86ad343f5ad157e4f8d54056c9e53c0a] In section 12 of the 1996 Act (conditions attached to multiplex licences), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Additional payments in respect of multiplex licences
 
-**85.**[^key-021dfdc56872c8680f5cb71d829cfd4a] In section 13 of the 1996 Act (additional payments in respect of multiplex licences), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**85.**[^c-021dfdc56872c8680f5cb71d829cfd4a] In section 13 of the 1996 Act (additional payments in respect of multiplex licences), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Multiplex revenue
 
-**86.**[^key-115e33b9daf66988d374386ef9698808] (1) Section 14 of the 1996 Act (multiplex revenue) shall be amended as follows.
+**86.**[^c-115e33b9daf66988d374386ef9698808] (1) Section 14 of the 1996 Act (multiplex revenue) shall be amended as follows.
 
 (2) In subsection (1)—
 
@@ -1172,7 +1172,7 @@ shall be omitted.
 
 #### Attribution of multiplex revenue to multiplex providers
 
-**87.**[^key-b1131f42cd67b3eb54c856d52d5e09b4] (1) Section 15 of the 1996 Act (attribution of multiplex revenue to licence holder) shall be amended as follows.
+**87.**[^c-b1131f42cd67b3eb54c856d52d5e09b4] (1) Section 15 of the 1996 Act (attribution of multiplex revenue to licence holder) shall be amended as follows.
 
 (2) In subsection (1)—
 
@@ -1197,7 +1197,7 @@ shall be omitted.
 
 #### Duration of multiplex licences
 
-**88.**[^key-af602e8d9674c8389698af877d511e7d] (1) Section 16 of the 1996 Act (duration and renewal of multiplex licences) shall be amended as follows.
+**88.**[^c-af602e8d9674c8389698af877d511e7d] (1) Section 16 of the 1996 Act (duration and renewal of multiplex licences) shall be amended as follows.
 
 (2) For “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1212,11 +1212,11 @@ shall be omitted.
 
 #### Enforcement of multiplex licences
 
-**89.**[^key-0b474382b6024cde24d3844ea7bceeac] In section 17 of the 1996 Act (enforcement of multiplex licences), for “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**89.**[^c-0b474382b6024cde24d3844ea7bceeac] In section 17 of the 1996 Act (enforcement of multiplex licences), for “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Licensing of digital programme services
 
-**90.**[^key-ab9c7e8ba652da1aad139e81f4281c13] (1) Section 18 of the 1996 Act (licensing of digital programme services) shall be amended as follows.
+**90.**[^c-ab9c7e8ba652da1aad139e81f4281c13] (1) Section 18 of the 1996 Act (licensing of digital programme services) shall be amended as follows.
 
 (2) In subsections (1) to (4), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1224,7 +1224,7 @@ shall be omitted.
 
 #### Conditions of licences for digital programme services
 
-**91.**[^key-5e99efb7bca757ff41ecd2804e2af93b] (1) Section 19 of the 1996 Act (conditions of licences for digital programme services) shall be amended as follows.
+**91.**[^c-5e99efb7bca757ff41ecd2804e2af93b] (1) Section 19 of the 1996 Act (conditions of licences for digital programme services) shall be amended as follows.
 
 (2) In subsection (3)—
 
@@ -1237,7 +1237,7 @@ shall be omitted.
 
 #### Duration and enforcement of multiplex licenses
 
-**92.**[^key-8f6807b32a2cfcb24c2fb6c07f1c41ca] (1) Section 23 of the 1996 Act (enforcement of digital programme licences) shall be amended as follows.
+**92.**[^c-8f6807b32a2cfcb24c2fb6c07f1c41ca] (1) Section 23 of the 1996 Act (enforcement of digital programme licences) shall be amended as follows.
 
 (2) For “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1253,7 +1253,7 @@ shall be omitted.
 
 #### Digital additional services
 
-**93.**[^key-b309edfcddef07046e83cd891859e5e8] (1) Section 24 of the 1996 Act (digital additional services) shall be amended as follows.
+**93.**[^c-b309edfcddef07046e83cd891859e5e8] (1) Section 24 of the 1996 Act (digital additional services) shall be amended as follows.
 
 (2) In subsection (1), for paragraphs (a) and (b) there shall be substituted—
 
@@ -1300,7 +1300,7 @@ shall be omitted.
 
 #### Licensing of digital additional services
 
-**94.**[^key-ae2bc3476718b3d5c93e3c45291ab8a8] (1) Section 25 of the 1996 Act (licensing of digital additional services) shall be amended as follows.
+**94.**[^c-ae2bc3476718b3d5c93e3c45291ab8a8] (1) Section 25 of the 1996 Act (licensing of digital additional services) shall be amended as follows.
 
 (2) In subsections (1) to (4), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1312,7 +1312,7 @@ shall be omitted.
 
 #### Conditions of digital additional services licence
 
-**95.**[^key-f38b9ad7ba25b80d0ac9ff130f957da3] (1) Section 26 of the 1996 Act (conditions of licences for digital additional services) shall be amended as follows.
+**95.**[^c-f38b9ad7ba25b80d0ac9ff130f957da3] (1) Section 26 of the 1996 Act (conditions of licences for digital additional services) shall be amended as follows.
 
 (2) In subsection (2)—
 
@@ -1323,7 +1323,7 @@ shall be omitted.
 
 #### Enforcement of digital additional television services licences
 
-**96.**[^key-335f93698716299e2defb48e4f79941f] (1) Section 27 of the 1996 Act (enforcement of digital additional television services licences) shall be amended as follows.
+**96.**[^c-335f93698716299e2defb48e4f79941f] (1) Section 27 of the 1996 Act (enforcement of digital additional television services licences) shall be amended as follows.
 
 (2) For “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1337,7 +1337,7 @@ shall be omitted.
 
 #### Digital broadcasting of Gaelic programmes
 
-**97.**[^key-0aee8716f095a03b27a8a6e0b5c48e73] (1) Section 32 of the 1996 Act (digital broadcasting of Gaelic programmes) shall be amended as follows.
+**97.**[^c-0aee8716f095a03b27a8a6e0b5c48e73] (1) Section 32 of the 1996 Act (digital broadcasting of Gaelic programmes) shall be amended as follows.
 
 (2) In subsection (1), for “the Commission to include in any multiplex licence granted in respect of one frequency to which section 28 applies” there shall be substituted “ OFCOM to include in no more than one relevant multiplex licence ”.
 
@@ -1355,7 +1355,7 @@ shall be omitted.
 
 #### Review of digital television broadcasting
 
-**98.**[^key-9722cef9c64628178fe78d51dbfbd04b] (1) Section 33 of the 1996 Act (review of digital television broadcasting) shall be amended as follows.
+**98.**[^c-9722cef9c64628178fe78d51dbfbd04b] (1) Section 33 of the 1996 Act (review of digital television broadcasting) shall be amended as follows.
 
 (2) For “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1363,11 +1363,11 @@ shall be omitted.
 
 #### Enforcement of licences held by BBC companies
 
-**99.**[^key-e0e983d12f8a55e27782e88feb9fa44e] In section 35 of the 1996 Act (enforcement of licences held by BBC companies), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**99.**[^c-e0e983d12f8a55e27782e88feb9fa44e] In section 35 of the 1996 Act (enforcement of licences held by BBC companies), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Interpretation of Part 1
 
-**100.**[^key-8bed0b33e95df167442f48f3b273ab06] In section 39(1) (interpretation of Part 1)—
+**100.**[^c-8bed0b33e95df167442f48f3b273ab06] In section 39(1) (interpretation of Part 1)—
 
 - (a) after the definition of “digital programme service” there shall be inserted—
 
@@ -1392,7 +1392,7 @@ shall be omitted.
 
 #### Radio multiplex services
 
-**101.**[^key-20c47e631bfa526ba8194bb755ac482e] (1) Section 40 of the 1996 Act (radio multiplex services) shall be amended as follows.
+**101.**[^c-20c47e631bfa526ba8194bb755ac482e] (1) Section 40 of the 1996 Act (radio multiplex services) shall be amended as follows.
 
 (2) For subsections (1) to (3) there shall be substituted—
 
@@ -1412,7 +1412,7 @@ shall be omitted.
 
 #### Licences under Part 2 of the 1996 Act
 
-**102.**[^key-8eb49196d399c7a67c74065c9ab2b03b] (1) Section 42 of the 1996 Act (licences under Part 2) shall be amended as follows.
+**102.**[^c-8eb49196d399c7a67c74065c9ab2b03b] (1) Section 42 of the 1996 Act (licences under Part 2) shall be amended as follows.
 
 (2) In subsection (1), for “the Radio Authority (in this Part referred to as “**the Authority**”)” there shall be substituted “ OFCOM ”.
 
@@ -1442,7 +1442,7 @@ shall be omitted.
 
 #### General licence conditions
 
-**103.**[^key-b80b89adebc0399e5d90b29f7cea9a10] (1) Section 43 of the 1996 Act (general licence conditions) shall be amended as follows.
+**103.**[^c-b80b89adebc0399e5d90b29f7cea9a10] (1) Section 43 of the 1996 Act (general licence conditions) shall be amended as follows.
 
 (2) For “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1457,7 +1457,7 @@ shall be omitted.
 
 #### Restrictions on holding licences
 
-**104.**[^key-715e6da7030539587b47891bf52d031f] (1) Section 44 of the 1996 Act (restrictions on the holding of licences) shall be amended as follows.
+**104.**[^c-715e6da7030539587b47891bf52d031f] (1) Section 44 of the 1996 Act (restrictions on the holding of licences) shall be amended as follows.
 
 (2) For “The Authority” and “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1486,7 +1486,7 @@ shall be omitted.
 
 #### National radio multiplex licences
 
-**105.**[^key-f347cc5011d3d03f5c6a2b4eb39213d6] (1) Section 46 of the 1996 Act (national radio multiplex licences) shall be amended as follows.
+**105.**[^c-f347cc5011d3d03f5c6a2b4eb39213d6] (1) Section 46 of the 1996 Act (national radio multiplex licences) shall be amended as follows.
 
 (2) For “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1494,11 +1494,11 @@ shall be omitted.
 
 #### Award of national radio multiplex licences
 
-**106.**[^key-8086f0752ced293538bbc287644496b7] In section 47 of the 1996 Act (award of national radio multiplex licences), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
+**106.**[^c-8086f0752ced293538bbc287644496b7] In section 47 of the 1996 Act (award of national radio multiplex licences), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Reservation of capacity for independent national broadcasters
 
-**107.**[^key-080670e66738a05e0690deb3c4c0fd5d] (1) Section 48 of the 1996 Act (reservation of digital capacity for independent broadcasters) shall be amended as follows.
+**107.**[^c-080670e66738a05e0690deb3c4c0fd5d] (1) Section 48 of the 1996 Act (reservation of digital capacity for independent broadcasters) shall be amended as follows.
 
 (2) For subsections (1) to (3) there shall be substituted—
 
@@ -1525,7 +1525,7 @@ shall be omitted.
 
 #### Reservation of digital capacity for BBC
 
-**108.**[^key-2a0a83187ae11d4ef01b51e0fdeef0de] (1) Section 49 of the 1996 Act (reservation of digital capacity for BBC) shall be amended as follows.
+**108.**[^c-2a0a83187ae11d4ef01b51e0fdeef0de] (1) Section 49 of the 1996 Act (reservation of digital capacity for BBC) shall be amended as follows.
 
 (2) In subsections (1) to (3) and (6), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1553,7 +1553,7 @@ shall be omitted.
 
 #### Local radio multiplex licences
 
-**109.**[^key-e180bc3ac79970359585ded8810b24ac] (1) Section 50 of the 1996 Act (local radio multiplex licences) shall be amended as follows.
+**109.**[^c-e180bc3ac79970359585ded8810b24ac] (1) Section 50 of the 1996 Act (local radio multiplex licences) shall be amended as follows.
 
 (2) For “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1563,7 +1563,7 @@ shall be omitted.
 
 #### Award of local multiplex licences
 
-**110.**[^key-76ee73bdf4ca4d04adde0b625caa394e] (1) Section 51 of the 1996 Act (award of local multiplex licences) shall be amended as follows.
+**110.**[^c-76ee73bdf4ca4d04adde0b625caa394e] (1) Section 51 of the 1996 Act (award of local multiplex licences) shall be amended as follows.
 
 (2) For “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1575,23 +1575,23 @@ shall be omitted.
 
 #### Power to require two or more local radio multiplex licences to be granted to one person
 
-**111.**[^key-3e097bfe4966485953ff2361c61a8dea] In section 52 of the 1996 Act (power to require two or more local radio multiplex licences to be granted to one person), for “The Authority” and “the Authority” there shall be substituted “ OFCOM ”.
+**111.**[^c-3e097bfe4966485953ff2361c61a8dea] In section 52 of the 1996 Act (power to require two or more local radio multiplex licences to be granted to one person), for “The Authority” and “the Authority” there shall be substituted “ OFCOM ”.
 
 #### Failure to begin to provide licensed service
 
-**112.**[^key-67a9c35aa0f99a3ecfae8e52bc5234ae] In section 53 of the 1996 Act (failure to provide licensed service), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
+**112.**[^c-67a9c35aa0f99a3ecfae8e52bc5234ae] In section 53 of the 1996 Act (failure to provide licensed service), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Conditions which may be attached to radio multiplex licences
 
-**113.**[^key-2ee6177baa23ea4bd3676d9adc050e2d] In section 54 of the 1996 Act (conditions which may be attached to a radio multiplex licence), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
+**113.**[^c-2ee6177baa23ea4bd3676d9adc050e2d] In section 54 of the 1996 Act (conditions which may be attached to a radio multiplex licence), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Additional payments to be made in respect of national radio multiplex licences
 
-**114.**[^key-cd3948a7944312efeb205f5ed5cba10f] In section 55 of the 1996 Act (additional payments to be made in respect of national radio multiplex licences) for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
+**114.**[^c-cd3948a7944312efeb205f5ed5cba10f] In section 55 of the 1996 Act (additional payments to be made in respect of national radio multiplex licences) for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Multiplex revenue
 
-**115.**[^key-b552f490d87d9821ccba67a73ec728c7] (1) Section 56 of the 1996 Act (multiplex revenue) shall be amended as follows.
+**115.**[^c-b552f490d87d9821ccba67a73ec728c7] (1) Section 56 of the 1996 Act (multiplex revenue) shall be amended as follows.
 
 (2) In subsection (1)—
 
@@ -1618,7 +1618,7 @@ shall be omitted.
 
 #### Attribution of radio multiplex revenue
 
-**116.**[^key-9e561750a5a6f8cdfcbf052813eb6e93] (1) Section 57 of the 1996 Act (attribution of radio multiplex revenue) shall be amended as follows.
+**116.**[^c-9e561750a5a6f8cdfcbf052813eb6e93] (1) Section 57 of the 1996 Act (attribution of radio multiplex revenue) shall be amended as follows.
 
 (2) In subsection (1)—
 
@@ -1639,7 +1639,7 @@ shall be omitted.
 
 #### Duration and renewal of radio multiplex licences
 
-**117.**[^key-5ddeb783ee67e623a51f53fdb86f289f] (1) Section 58 of the 1996 Act (duration and renewal of radio multiplex licences) shall be amended as follows.
+**117.**[^c-5ddeb783ee67e623a51f53fdb86f289f] (1) Section 58 of the 1996 Act (duration and renewal of radio multiplex licences) shall be amended as follows.
 
 (2) For “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1656,11 +1656,11 @@ shall be omitted.
 
 #### Enforcement of radio multiplex licences
 
-**118.**[^key-587a0985f881efb4fb9abf30d3cc6d72] In section 59 of the 1996 Act (enforcement of radio multiplex licences), for “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
+**118.**[^c-587a0985f881efb4fb9abf30d3cc6d72] In section 59 of the 1996 Act (enforcement of radio multiplex licences), for “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Digital sound programme licensing
 
-**119.**[^key-a1e4092921fe3e3c0f48a41aef57a733] (1) Section 60 of the 1996 Act (digital sound programme licensing) shall be amended as follows.
+**119.**[^c-a1e4092921fe3e3c0f48a41aef57a733] (1) Section 60 of the 1996 Act (digital sound programme licensing) shall be amended as follows.
 
 (2) For “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1672,7 +1672,7 @@ shall be omitted.
 
 #### Conditions of digital sound programme licences
 
-**120.**[^key-39e50d23afc9ab4ed41699a4084e4ae4] (1) Section 61 of the 1996 Act (conditions of licences for digital sound programme services) shall be amended as follows.
+**120.**[^c-39e50d23afc9ab4ed41699a4084e4ae4] (1) Section 61 of the 1996 Act (conditions of licences for digital sound programme services) shall be amended as follows.
 
 (2) In subsection (2)—
 
@@ -1683,7 +1683,7 @@ shall be omitted.
 
 #### Enforcement of digital sound programme licences
 
-**121.**[^key-b7bba481cd94e14b956b533f1301a640] (1) Section 62 of the 1996 Act (enforcement of digital sound programme licences) shall be amended as follows.
+**121.**[^c-b7bba481cd94e14b956b533f1301a640] (1) Section 62 of the 1996 Act (enforcement of digital sound programme licences) shall be amended as follows.
 
 (2) For “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1712,11 +1712,11 @@ shall be omitted.
 
 #### Digital additional sound services
 
-**122.**[^key-24df412ffcd231ab0c2dacb7e670f896] In section 64 of the 1996 Act (licensing of digital additional sound services), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
+**122.**[^c-24df412ffcd231ab0c2dacb7e670f896] In section 64 of the 1996 Act (licensing of digital additional sound services), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Conditions of digital additional sound service
 
-**123.**[^key-953b3af6f259c2bd5d54cc2381f9a7e2] (1) Section 65 of the 1996 Act (conditions of licences for digital additional sound services) shall be amended as follows.
+**123.**[^c-953b3af6f259c2bd5d54cc2381f9a7e2] (1) Section 65 of the 1996 Act (conditions of licences for digital additional sound services) shall be amended as follows.
 
 (2) In subsection (2)—
 
@@ -1727,7 +1727,7 @@ shall be omitted.
 
 #### Enforcement of digital additional sound services licences
 
-**124.**[^key-5b416fcf49605cc514074b8fb8fee678] (1) Section 66 of the 1996 Act (enforcement of digital additional services licences) shall be amended as follows.
+**124.**[^c-5b416fcf49605cc514074b8fb8fee678] (1) Section 66 of the 1996 Act (enforcement of digital additional services licences) shall be amended as follows.
 
 (2) For “the Authority” and “The Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1757,11 +1757,11 @@ shall be omitted.
 
 #### Review of digital radio broadcasting
 
-**125.**[^key-5565222cc065b8757cecff147997fce8] In section 67 of the 1996 Act (review of digital radio broadcasting), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
+**125.**[^c-5565222cc065b8757cecff147997fce8] In section 67 of the 1996 Act (review of digital radio broadcasting), for “the Authority”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 #### Interpretation
 
-**126.**[^key-2e25a0c26c639ddd2abe999d4daab75b] In section 72(1) of the 1996 Act (interpretation), for the definition of “radio multiplex service” there shall be substituted—
+**126.**[^c-2e25a0c26c639ddd2abe999d4daab75b] In section 72(1) of the 1996 Act (interpretation), for the definition of “radio multiplex service” there shall be substituted—
 
 > “**radio multiplex service**” means a radio multiplex service within the meaning of Part 3 of the Communications Act 2003;
 >
@@ -1771,7 +1771,7 @@ shall be omitted.
 
 #### Listed events
 
-**127.**[^key-60c988a4c5ab04113214d444a52d51c0] (1) Section 98 of the 1996 Act (categories of service for the purposes of Part 4 of that Act) shall be amended as follows.
+**127.**[^c-60c988a4c5ab04113214d444a52d51c0] (1) Section 98 of the 1996 Act (categories of service for the purposes of Part 4 of that Act) shall be amended as follows.
 
 (2) In subsection (3), for the words from “television” onwards there shall be substituted “ licence for the purposes of section 363 of the Communications Act 2003 ”.
 
@@ -1779,34 +1779,34 @@ shall be omitted.
 
 (4) In subsection (6), for “transmission for general reception of television programmes by satellite” there shall be substituted “ broadcasting of television programmes from a satellite so as to be available for reception by members of the public (within the meaning of Part 3 of the Communications Act 2003) ”.
 
-**128.**[^key-88d88b9d0d8f62a189be33ef3c22a78d] In sections 101, 101B, 102 and 103 of the 1996 Act (restrictions on, and penalties for, televising listed and designated events), for “The Commission” and “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**128.**[^c-88d88b9d0d8f62a189be33ef3c22a78d] In sections 101, 101B, 102 and 103 of the 1996 Act (restrictions on, and penalties for, televising listed and designated events), for “The Commission” and “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
-**129.**[^key-9b4231d8e612ca30d1aac83702060676] (1) Section 104 of the 1996 Act (code of guidance) shall be amended as follows.
+**129.**[^c-9b4231d8e612ca30d1aac83702060676] (1) Section 104 of the 1996 Act (code of guidance) shall be amended as follows.
 
 (2) For “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
 (3) In subsection (4)(d), the words “by the Commission” and “by them” shall be omitted.
 
-**130.**[^key-7137a0936eefa6e82f1cb3e533a3a0e8] In section 104A of the 1996 Act (provision of information about listed and designated events), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
+**130.**[^c-7137a0936eefa6e82f1cb3e533a3a0e8] In section 104A of the 1996 Act (provision of information about listed and designated events), for “the Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
-**131.**[^key-cc95fe0bd9edfed6d84f0a47a8ffa3fd] In section 105(1) of the 1996 Act (interpretation of Part 4 etc.), the definition of “the Commission” shall be omitted.
+**131.**[^c-cc95fe0bd9edfed6d84f0a47a8ffa3fd] In section 105(1) of the 1996 Act (interpretation of Part 4 etc.), the definition of “the Commission” shall be omitted.
 
 #### Broadcasting standards
 
-**132.**[^key-d0a7f1e01b1f01c7e5cf006960ce48b2] (1) Part 5 of the 1996 Act (the Broadcasting Standards Commission) shall be amended as follows.
+**132.**[^c-d0a7f1e01b1f01c7e5cf006960ce48b2] (1) Part 5 of the 1996 Act (the Broadcasting Standards Commission) shall be amended as follows.
 
 (2) For “the BSC” and “The BSC”, wherever occurring in any of sections 107, 110, 111, 114, 115, 118 to 121 there shall be substituted “ OFCOM ”.
 
-**133.**[^key-0bbe42e0b636fb6c5b95d4d42b2424d0] In section 107(5)(b) of the 1996 Act (code relating to avoidance of unjust or unfair treatment etc.), for “the service referred to in section 57(1A)(a) of the 1990 Act” there shall be substituted “ any public service of the Welsh Authority (within the meaning of Part 2 of Schedule 12 to the Communications Act 2003) ”.
+**133.**[^c-0bbe42e0b636fb6c5b95d4d42b2424d0] In section 107(5)(b) of the 1996 Act (code relating to avoidance of unjust or unfair treatment etc.), for “the service referred to in section 57(1A)(a) of the 1990 Act” there shall be substituted “ any public service of the Welsh Authority (within the meaning of Part 2 of Schedule 12 to the Communications Act 2003) ”.
 
-**134.**[^key-cedbe09b69366a7b19d45cfd02e4f790] In section 115 of the 1996 Act (consideration of fairness complaints)
+**134.**[^c-cedbe09b69366a7b19d45cfd02e4f790] In section 115 of the 1996 Act (consideration of fairness complaints)
 
 - (a) in subsection (2)(d), for “to (c)” there shall be substituted “ or (b) ”; and
 - (b) in subsection (8), for “they shall send a statement of” there shall be substituted “ OFCOM shall send a copy of ”.
 
-**135.**[^key-85fc7a875ab2e90cbd2dfd5401f9a4f0] In section 117 of the 1996 Act (duty of broadcasting body to retain recordings of programmes), for “sections 115 and 116” there shall be substituted “ section 115 ”.
+**135.**[^c-85fc7a875ab2e90cbd2dfd5401f9a4f0] In section 117 of the 1996 Act (duty of broadcasting body to retain recordings of programmes), for “sections 115 and 116” there shall be substituted “ section 115 ”.
 
-**136.**[^key-56be1b7a92947a3c84237eaa32af1cbf] (1) For subsections (1) and (2) of section 119 of the 1996 Act there shall be substituted—
+**136.**[^c-56be1b7a92947a3c84237eaa32af1cbf] (1) For subsections (1) and (2) of section 119 of the 1996 Act there shall be substituted—
 
 > (1) Where OFCOM have considered and adjudicated upon a fairness complaint, they may direct the relevant person to publish the matters mentioned in subsection (3) in such manner, and within such period, as may be specified in the directions.
 
@@ -1826,7 +1826,7 @@ shall be omitted.
 > - (a) in a case where the relevant programme was broadcast by a broadcasting body, that body; and
 > - (b) in a case where the relevant programme was included in a licensed service, the licence holder providing that service.
 
-**137.**[^key-890c2853e11453e62fcac317a27af72f] In section 130(1) of the 1996 Act (interpretation of Part 5), for paragraphs (b) and (c) of the definition of “licensed service” there shall be substituted—
+**137.**[^c-890c2853e11453e62fcac317a27af72f] In section 130(1) of the 1996 Act (interpretation of Part 5), for paragraphs (b) and (c) of the definition of “licensed service” there shall be substituted—
 
 > - (aa) the public teletext service,
 > - (b) any relevant independent radio service (within the meaning of section 85 of the 1990 Act),
@@ -1836,7 +1836,7 @@ shall be omitted.
 
 #### Disqualification on grounds related to political objects
 
-**138.**[^key-7d0ea848187715d78ce0a2246f6adc17] (1) Section 143 of the 1996 Act (disqualification on grounds related to political objects) shall be amended as follows.
+**138.**[^c-7d0ea848187715d78ce0a2246f6adc17] (1) Section 143 of the 1996 Act (disqualification on grounds related to political objects) shall be amended as follows.
 
 (2) In each of subsections (1) and (2)—
 
@@ -1855,7 +1855,7 @@ shall be omitted.
 
 #### Offence of providing false information
 
-**139.**[^key-8eca40676bd386ae3036c60c23e0b555] (1) Section 144 of the 1996 Act (offence of providing false information) shall be amended as follows.
+**139.**[^c-8eca40676bd386ae3036c60c23e0b555] (1) Section 144 of the 1996 Act (offence of providing false information) shall be amended as follows.
 
 (2) In subsection (1), for “to the relevant authority a statement”, in each place, there shall be substituted “ a statement to OFCOM ”.
 
@@ -1865,7 +1865,7 @@ shall be omitted.
 
 #### Disqualification for supplying false information
 
-**140.**[^key-8b8135502059db05c0892526965bd7b4] (1) Section 145 of the 1996 Act (disqualification for offence of supplying false information) shall be amended as follows.
+**140.**[^c-8b8135502059db05c0892526965bd7b4] (1) Section 145 of the 1996 Act (disqualification for offence of supplying false information) shall be amended as follows.
 
 (2) In subsection (5), for “the relevant authority” there shall be substituted “ OFCOM ”.
 
@@ -1882,7 +1882,7 @@ shall be omitted.
 
 #### Interpretation
 
-**141.**[^key-205110727a58e8bcdc3fda3a11c98a91] In section 147(1) of the 1996 Act (general interpretation), after the definition of “the BBC” there shall be inserted—
+**141.**[^c-205110727a58e8bcdc3fda3a11c98a91] In section 147(1) of the 1996 Act (general interpretation), after the definition of “the BBC” there shall be inserted—
 
 > “**OFCOM**” means the Office of Communications;
 
@@ -1890,7 +1890,7 @@ shall be omitted.
 
 #### Computation of qualifying revenue
 
-**142.**[^key-7e1e7b59b3f2519bef075cbcc6853cbe] (1) Schedule 1 to the 1996 Act (computation of “multiplex revenue” etc.) shall be amended as follows.
+**142.**[^c-7e1e7b59b3f2519bef075cbcc6853cbe] (1) Schedule 1 to the 1996 Act (computation of “multiplex revenue” etc.) shall be amended as follows.
 
 (2) In Part 1, for “the Commission” and “The Commission”, wherever occurring, there shall be substituted “ OFCOM ”.
 
@@ -1898,294 +1898,294 @@ shall be omitted.
 
 ## Annotations
 
-[^key-231ac6725482c4e72936b65f1a25844f]: Commencement: Sch. 15 para. 1 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-231ac6725482c4e72936b65f1a25844f]: Commencement: Sch. 15 para. 1 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-4777c7997a7fad2fb8d21e5b3efa4253]: Commencement: Sch. 15 para. 2 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4777c7997a7fad2fb8d21e5b3efa4253]: Commencement: Sch. 15 para. 2 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-074de316196e4d9bf1727621d2d56419]: Commencement: Sch. 15 para. 3 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-074de316196e4d9bf1727621d2d56419]: Commencement: Sch. 15 para. 3 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-00bdeb1a4d816b744e2429f7545e3dd4]: Commencement: Sch. 15 para. 4 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-00bdeb1a4d816b744e2429f7545e3dd4]: Commencement: Sch. 15 para. 4 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-571d8db53ad155cb615b37d9b1fa65c5]: Commencement: Sch. 15 para. 5 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-571d8db53ad155cb615b37d9b1fa65c5]: Commencement: Sch. 15 para. 5 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-f76c52f156877f954378af2436a8883f]: Commencement: Sch. 15 para. 6 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-f76c52f156877f954378af2436a8883f]: Commencement: Sch. 15 para. 6 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-4abb961f3bd9d46519e43247dd9d28f1]: Commencement: Sch. 15 para. 7 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4abb961f3bd9d46519e43247dd9d28f1]: Commencement: Sch. 15 para. 7 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-2fac825e1b32427b1b96c66c65625b1a]: Commencement: Sch. 15 para. 8 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-2fac825e1b32427b1b96c66c65625b1a]: Commencement: Sch. 15 para. 8 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-d4aae4c57fe6ffa09f313e2840620c99]: Commencement: Sch. 15 para. 9 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-d4aae4c57fe6ffa09f313e2840620c99]: Commencement: Sch. 15 para. 9 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-7b055524904163d0ac7c100c7d30b80c]: Commencement: Sch. 15 para. 10 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-7b055524904163d0ac7c100c7d30b80c]: Commencement: Sch. 15 para. 10 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-9d9e0598330dffe0665dcc0a264a4472]: Commencement: Sch. 15 para. 11 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-9d9e0598330dffe0665dcc0a264a4472]: Commencement: Sch. 15 para. 11 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-600cf336297491c54f9b4b5243cb94de]: Commencement: Sch. 15 para. 12 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-600cf336297491c54f9b4b5243cb94de]: Commencement: Sch. 15 para. 12 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-3cd68d0acbc3c4b3a8678628c7d4566f]: Commencement: Sch. 15 para. 13 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-3cd68d0acbc3c4b3a8678628c7d4566f]: Commencement: Sch. 15 para. 13 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-a59c5c812c769ed71d95ef091f329259]: Commencement: Sch. 15 para. 14 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a59c5c812c769ed71d95ef091f329259]: Commencement: Sch. 15 para. 14 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-4a8696c9f3a068ede5276b1c1929f3c7]: Commencement: Sch. 15 para. 15 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4a8696c9f3a068ede5276b1c1929f3c7]: Commencement: Sch. 15 para. 15 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-f0f823b72e88a32fc186e5f8c1911100]: Commencement: Sch. 15 para. 16 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-f0f823b72e88a32fc186e5f8c1911100]: Commencement: Sch. 15 para. 16 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-d2d05adc04c1dd5fea5981f4a1221b21]: Commencement: Sch. 15 para. 17 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-d2d05adc04c1dd5fea5981f4a1221b21]: Commencement: Sch. 15 para. 17 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-ed6b70fbd9f02b5ced577d643a1e2dfc]: Commencement: Sch. 15 para. 18 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-ed6b70fbd9f02b5ced577d643a1e2dfc]: Commencement: Sch. 15 para. 18 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-58a281ad4aba092c669d30f47df1c3da]: Commencement: Sch. 15 para. 19 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-58a281ad4aba092c669d30f47df1c3da]: Commencement: Sch. 15 para. 19 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-188c52ea2848a38ef049c75b8135084b]: Commencement: Sch. 15 para. 20(1)(2)(a) in force at 25.7.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1)
+[^c-188c52ea2848a38ef049c75b8135084b]: Commencement: Sch. 15 para. 20(1)(2)(a) in force at 25.7.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1)
 
-[^key-fa467816434282495057230d8a503e0f]: Commencement: Sch. 15 para. 20(2)(b) (3)-(8) in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-fa467816434282495057230d8a503e0f]: Commencement: Sch. 15 para. 20(2)(b) (3)-(8) in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-8b904635f5690ac3035a4572d5049d91]: Commencement: Sch. 15 para. 21 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8b904635f5690ac3035a4572d5049d91]: Commencement: Sch. 15 para. 21 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-4ef534bd77fc8555444290f0e86ecfa5]: Modification: Sch. 15 para. 21(4) excluded (8.12.2003) by [The Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) Order 2003 (S.I. 2003/3142)](https://www.legislation.gov.uk/uksi/2003/3142), [art. 8(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/8/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4ef534bd77fc8555444290f0e86ecfa5]: Modification: Sch. 15 para. 21(4) excluded (8.12.2003) by [The Office of Communications Act 2002 (Commencement No. 3) and Communications Act 2003 (Commencement No. 2) Order 2003 (S.I. 2003/3142)](https://www.legislation.gov.uk/uksi/2003/3142), [art. 8(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/8/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-531f5a49efc7278f1f2ab6dbd3456dd1]: Commencement: Sch. 15 para. 22 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-531f5a49efc7278f1f2ab6dbd3456dd1]: Commencement: Sch. 15 para. 22 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-f9153f8f3118cb05b25b449065538be5]: Commencement: Sch. 15 para. 23 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-f9153f8f3118cb05b25b449065538be5]: Commencement: Sch. 15 para. 23 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-6925d848e68a4b71945de6a073028264]: Commencement: Sch. 15 para. 24 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-6925d848e68a4b71945de6a073028264]: Commencement: Sch. 15 para. 24 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-a115f2ff4184f0fbb96b86c2934783ed]: Commencement: Sch. 15 para. 25 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a115f2ff4184f0fbb96b86c2934783ed]: Commencement: Sch. 15 para. 25 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-76ac0df54b22a12b7e2712464892d0b1]: Commencement: Sch. 15 para. 26 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-76ac0df54b22a12b7e2712464892d0b1]: Commencement: Sch. 15 para. 26 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-f5b5a82bfa8afdf0bb4d970bea9cb518]: Commencement: Sch. 15 para. 27 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-f5b5a82bfa8afdf0bb4d970bea9cb518]: Commencement: Sch. 15 para. 27 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-74be6ef56e7eed783d9590a503ac1b9f]: Commencement: Sch. 15 para. 28 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-74be6ef56e7eed783d9590a503ac1b9f]: Commencement: Sch. 15 para. 28 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-c467bbadcd3a97c4e108bd01a1ddf4a8]: Commencement: Sch. 15 para. 29 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-c467bbadcd3a97c4e108bd01a1ddf4a8]: Commencement: Sch. 15 para. 29 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-0d19fa8e4011c11b5bfdc8a40581827d]: Commencement: Sch. 15 para. 30 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0d19fa8e4011c11b5bfdc8a40581827d]: Commencement: Sch. 15 para. 30 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-fe807674f50ab896b7eb84c30bd60c3d]: Commencement: Sch. 15 para. 31 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-fe807674f50ab896b7eb84c30bd60c3d]: Commencement: Sch. 15 para. 31 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e999386ca4e8670f54e82a4b68979862]: Commencement: Sch. 15 para. 32 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e999386ca4e8670f54e82a4b68979862]: Commencement: Sch. 15 para. 32 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-8bb524aaf5b8ff2431828f9719a4c3d7]: Commencement: Sch. 15 para. 33 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8bb524aaf5b8ff2431828f9719a4c3d7]: Commencement: Sch. 15 para. 33 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-d0b12a4b689391ccfbc800cbb9efe1a0]: Commencement: Sch. 15 para. 34 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-d0b12a4b689391ccfbc800cbb9efe1a0]: Commencement: Sch. 15 para. 34 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-c6b83ddc651a2885ed0a048998d18f62]: Commencement: Sch. 15 para. 35 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-c6b83ddc651a2885ed0a048998d18f62]: Commencement: Sch. 15 para. 35 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-1c37a9f44314d4c52edf8ad44bfeab10]: Commencement: Sch. 15 para. 36 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-1c37a9f44314d4c52edf8ad44bfeab10]: Commencement: Sch. 15 para. 36 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-ccecc3b3a09962d8da729b6dab0b245a]: Commencement: Sch. 15 para. 37 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-ccecc3b3a09962d8da729b6dab0b245a]: Commencement: Sch. 15 para. 37 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-1ba4990f7f483683ddbc20f2b4501b33]: Commencement: Sch. 15 para. 38 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-1ba4990f7f483683ddbc20f2b4501b33]: Commencement: Sch. 15 para. 38 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-9919fa8abbba284bb73cbf46a6f04b67]: Commencement: Sch. 15 para. 39 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-9919fa8abbba284bb73cbf46a6f04b67]: Commencement: Sch. 15 para. 39 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-0907c088149146ac651746ebf16ad937]: Commencement: Sch. 15 para. 40 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0907c088149146ac651746ebf16ad937]: Commencement: Sch. 15 para. 40 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-a67619af6edebb0c5b6c6dd10f155ad7]: Commencement: Sch. 15 para. 41 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a67619af6edebb0c5b6c6dd10f155ad7]: Commencement: Sch. 15 para. 41 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-9c0bff3ae45d39e0c6396e2032251056]: Commencement: Sch. 15 para. 42 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-9c0bff3ae45d39e0c6396e2032251056]: Commencement: Sch. 15 para. 42 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-77a471971ebed30792f4df6050a01862]: Commencement: Sch. 15 para. 43 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-77a471971ebed30792f4df6050a01862]: Commencement: Sch. 15 para. 43 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-2af6d2616665ef6b1c32032fa0ebb388]: Commencement: Sch. 15 para. 44 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-2af6d2616665ef6b1c32032fa0ebb388]: Commencement: Sch. 15 para. 44 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-44947de7446668e0b40b57e980921c8b]: Commencement: Sch. 15 para. 45 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-44947de7446668e0b40b57e980921c8b]: Commencement: Sch. 15 para. 45 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-fcc103d18f993b759ebf3d1b7f009adc]: Commencement: Sch. 15 para. 46 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-fcc103d18f993b759ebf3d1b7f009adc]: Commencement: Sch. 15 para. 46 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-b7db7ff62c5bb53dea7374c36a1dfbdf]: Commencement: Sch. 15 para. 47 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b7db7ff62c5bb53dea7374c36a1dfbdf]: Commencement: Sch. 15 para. 47 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-6a34a8a6bc28f6cad3b51e6e9c1a05fe]: Commencement: Sch. 15 para. 48 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-6a34a8a6bc28f6cad3b51e6e9c1a05fe]: Commencement: Sch. 15 para. 48 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-8051940492543a043e9075a7dc8e49c6]: Commencement: Sch. 15 para. 49 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8051940492543a043e9075a7dc8e49c6]: Commencement: Sch. 15 para. 49 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-f498160e0f837f8b91fe0a8adc3ef470]: Commencement: Sch. 15 para. 50 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-f498160e0f837f8b91fe0a8adc3ef470]: Commencement: Sch. 15 para. 50 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-6c93d72e47d9356079b583485f850914]: Commencement: Sch. 15 para. 51 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-6c93d72e47d9356079b583485f850914]: Commencement: Sch. 15 para. 51 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-275f7ffb4aefdea6dd6e925cd5fde0cf]: Commencement: Sch. 15 para. 52(1)(2)(a) in force at 25.7.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1)
+[^c-275f7ffb4aefdea6dd6e925cd5fde0cf]: Commencement: Sch. 15 para. 52(1)(2)(a) in force at 25.7.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1)
 
-[^key-0435d302909ff669ebafcf6628a6a489]: Commencement: Sch. 15 para. 52(2)(b) (3)-(7) in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0435d302909ff669ebafcf6628a6a489]: Commencement: Sch. 15 para. 52(2)(b) (3)-(7) in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-78e073437c49d277ca8765e2ccb48f3f]: Commencement: Sch. 15 para. 53(1) (4) in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
+[^c-78e073437c49d277ca8765e2ccb48f3f]: Commencement: Sch. 15 para. 53(1) (4) in force at 18.9.2003 by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1900/schedule/2)
 
-[^key-027235be8e6073953db1b1f2074e77bb]: Commencement: Sch. 15 para. 53(2) (3) (5) in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-027235be8e6073953db1b1f2074e77bb]: Commencement: Sch. 15 para. 53(2) (3) (5) in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-4fd80541751d182edae8060fd2300e43]: Commencement: Sch. 15 para. 54 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4fd80541751d182edae8060fd2300e43]: Commencement: Sch. 15 para. 54 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-8e30a7b0f7badd12c0b96e9f38e8bf63]: Commencement: Sch. 15 para. 55 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8e30a7b0f7badd12c0b96e9f38e8bf63]: Commencement: Sch. 15 para. 55 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-ff84d5d3e3aca26fc3fa96bafa43fe57]: Commencement: Sch. 15 para. 56 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-ff84d5d3e3aca26fc3fa96bafa43fe57]: Commencement: Sch. 15 para. 56 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-d9749aa2703efad3d810bb4dadb9c70a]: Commencement: Sch. 15 para. 57 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-d9749aa2703efad3d810bb4dadb9c70a]: Commencement: Sch. 15 para. 57 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-8b7a52dc05718f4f1e9276a74507f494]: Commencement: Sch. 15 para. 58 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8b7a52dc05718f4f1e9276a74507f494]: Commencement: Sch. 15 para. 58 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-2222c09bd26618d54c504be354bd0622]: Commencement: Sch. 15 para. 59 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-2222c09bd26618d54c504be354bd0622]: Commencement: Sch. 15 para. 59 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-cf32cb442805b3ee0626c69ab684d5d1]: Commencement: Sch. 15 para. 60 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-cf32cb442805b3ee0626c69ab684d5d1]: Commencement: Sch. 15 para. 60 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-0c711db7d16e93f575119985781a4d47]: Commencement: Sch. 15 para. 61 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0c711db7d16e93f575119985781a4d47]: Commencement: Sch. 15 para. 61 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-231aa9702f618e12067adb58798717fd]: Commencement: Sch. 15 para. 62 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-231aa9702f618e12067adb58798717fd]: Commencement: Sch. 15 para. 62 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-61370d44cdd6ccdef245c7d2c055c798]: Commencement: Sch. 15 para. 63 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-61370d44cdd6ccdef245c7d2c055c798]: Commencement: Sch. 15 para. 63 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e9b7cccc57472df6b73bafc2f289d5e7]: Commencement: Sch. 15 para. 64 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e9b7cccc57472df6b73bafc2f289d5e7]: Commencement: Sch. 15 para. 64 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-3888762e48d6847350bd72a86acdc7c7]: Commencement: Sch. 15 para. 65 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-3888762e48d6847350bd72a86acdc7c7]: Commencement: Sch. 15 para. 65 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-82d167e1bfae4d50cc60d558c1ceeb23]: Commencement: Sch. 15 para. 66 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-82d167e1bfae4d50cc60d558c1ceeb23]: Commencement: Sch. 15 para. 66 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-8950e665800a267bf069cb14d3c1aa6b]: Commencement: Sch. 15 para. 67 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8950e665800a267bf069cb14d3c1aa6b]: Commencement: Sch. 15 para. 67 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-12e46d08d225b1445a708e883d0d6007]: Commencement: Sch. 15 para. 68 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-12e46d08d225b1445a708e883d0d6007]: Commencement: Sch. 15 para. 68 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-9d242f3bd9b91461fb5110864e61c817]: Commencement: Sch. 15 para. 69 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-9d242f3bd9b91461fb5110864e61c817]: Commencement: Sch. 15 para. 69 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-fa7f2829e9a8d146097d203262765cc5]: Commencement: Sch. 15 para. 70 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-fa7f2829e9a8d146097d203262765cc5]: Commencement: Sch. 15 para. 70 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-15981dc6f2db4933dbc57cdc0972e31f]: Commencement: Sch. 15 para. 71 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-15981dc6f2db4933dbc57cdc0972e31f]: Commencement: Sch. 15 para. 71 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-3545e82e7a41d5272d908e3d50b6a6bb]: Commencement: Sch. 15 para. 72 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-3545e82e7a41d5272d908e3d50b6a6bb]: Commencement: Sch. 15 para. 72 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-53693d3d9a3b8fe0ae4174d2c73cec41]: Commencement: Sch. 15 para. 73 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-53693d3d9a3b8fe0ae4174d2c73cec41]: Commencement: Sch. 15 para. 73 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-f87b5830e93b41792e2fd0820cfccafd]: Commencement: Sch. 15 para. 74 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-f87b5830e93b41792e2fd0820cfccafd]: Commencement: Sch. 15 para. 74 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-9a72f0aea06361e0ee7f109c4fe12c2e]: Commencement: Sch. 15 para. 75 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-9a72f0aea06361e0ee7f109c4fe12c2e]: Commencement: Sch. 15 para. 75 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-1723683820c927d58076d53c4d3c1b2f]: Commencement: Sch. 15 para. 76 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-1723683820c927d58076d53c4d3c1b2f]: Commencement: Sch. 15 para. 76 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-eec8979b9ac4be5fb44e43fb0842501f]: Commencement: Sch. 15 para. 77 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-eec8979b9ac4be5fb44e43fb0842501f]: Commencement: Sch. 15 para. 77 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e7ccea92e9889a495b1a14a9b8afb3d3]: Commencement: Sch. 15 para. 78 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e7ccea92e9889a495b1a14a9b8afb3d3]: Commencement: Sch. 15 para. 78 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-346a2c87de1923116cba424673cf686b]: Commencement: Sch. 15 para. 79 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-346a2c87de1923116cba424673cf686b]: Commencement: Sch. 15 para. 79 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-fcb05ceb57f4b3f66f247e1ce42977c0]: Commencement: Sch. 15 para. 80 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-fcb05ceb57f4b3f66f247e1ce42977c0]: Commencement: Sch. 15 para. 80 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-4eaab6ae9f61db331881c393d9250359]: Commencement: Sch. 15 para. 81 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-4eaab6ae9f61db331881c393d9250359]: Commencement: Sch. 15 para. 81 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-730c9a7f00a41724cf8723f4056bc007]: Commencement: Sch. 15 para. 82 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-730c9a7f00a41724cf8723f4056bc007]: Commencement: Sch. 15 para. 82 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-966280e7441f44e45fa90b02a332f40b]: Commencement: Sch. 15 para. 83 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-966280e7441f44e45fa90b02a332f40b]: Commencement: Sch. 15 para. 83 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-86ad343f5ad157e4f8d54056c9e53c0a]: Commencement: Sch. 15 para. 84 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-86ad343f5ad157e4f8d54056c9e53c0a]: Commencement: Sch. 15 para. 84 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-021dfdc56872c8680f5cb71d829cfd4a]: Commencement: Sch. 15 para. 85 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-021dfdc56872c8680f5cb71d829cfd4a]: Commencement: Sch. 15 para. 85 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-115e33b9daf66988d374386ef9698808]: Commencement: Sch. 15 para. 86 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-115e33b9daf66988d374386ef9698808]: Commencement: Sch. 15 para. 86 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-b1131f42cd67b3eb54c856d52d5e09b4]: Commencement: Sch. 15 para. 87 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b1131f42cd67b3eb54c856d52d5e09b4]: Commencement: Sch. 15 para. 87 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-af602e8d9674c8389698af877d511e7d]: Commencement: Sch. 15 para. 88 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-af602e8d9674c8389698af877d511e7d]: Commencement: Sch. 15 para. 88 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-0b474382b6024cde24d3844ea7bceeac]: Commencement: Sch. 15 para. 89 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0b474382b6024cde24d3844ea7bceeac]: Commencement: Sch. 15 para. 89 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-ab9c7e8ba652da1aad139e81f4281c13]: Commencement: Sch. 15 para. 90 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-ab9c7e8ba652da1aad139e81f4281c13]: Commencement: Sch. 15 para. 90 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-5e99efb7bca757ff41ecd2804e2af93b]: Commencement: Sch. 15 para. 91 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5e99efb7bca757ff41ecd2804e2af93b]: Commencement: Sch. 15 para. 91 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-8f6807b32a2cfcb24c2fb6c07f1c41ca]: Commencement: Sch. 15 para. 92 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8f6807b32a2cfcb24c2fb6c07f1c41ca]: Commencement: Sch. 15 para. 92 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-b309edfcddef07046e83cd891859e5e8]: Commencement: Sch. 15 para. 93 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b309edfcddef07046e83cd891859e5e8]: Commencement: Sch. 15 para. 93 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-ae2bc3476718b3d5c93e3c45291ab8a8]: Commencement: Sch. 15 para. 94 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-ae2bc3476718b3d5c93e3c45291ab8a8]: Commencement: Sch. 15 para. 94 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-f38b9ad7ba25b80d0ac9ff130f957da3]: Commencement: Sch. 15 para. 95 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-f38b9ad7ba25b80d0ac9ff130f957da3]: Commencement: Sch. 15 para. 95 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-335f93698716299e2defb48e4f79941f]: Commencement: Sch. 15 para. 96 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-335f93698716299e2defb48e4f79941f]: Commencement: Sch. 15 para. 96 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-0aee8716f095a03b27a8a6e0b5c48e73]: Commencement: Sch. 15 para. 97 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0aee8716f095a03b27a8a6e0b5c48e73]: Commencement: Sch. 15 para. 97 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-9722cef9c64628178fe78d51dbfbd04b]: Commencement: Sch. 15 para. 98 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-9722cef9c64628178fe78d51dbfbd04b]: Commencement: Sch. 15 para. 98 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e0e983d12f8a55e27782e88feb9fa44e]: Commencement: Sch. 15 para. 99 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e0e983d12f8a55e27782e88feb9fa44e]: Commencement: Sch. 15 para. 99 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-8bed0b33e95df167442f48f3b273ab06]: Commencement: Sch. 15 para. 100 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8bed0b33e95df167442f48f3b273ab06]: Commencement: Sch. 15 para. 100 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-20c47e631bfa526ba8194bb755ac482e]: Commencement: Sch. 15 para. 101 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-20c47e631bfa526ba8194bb755ac482e]: Commencement: Sch. 15 para. 101 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-8eb49196d399c7a67c74065c9ab2b03b]: Commencement: Sch. 15 para. 102 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8eb49196d399c7a67c74065c9ab2b03b]: Commencement: Sch. 15 para. 102 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-b80b89adebc0399e5d90b29f7cea9a10]: Commencement: Sch. 15 para. 103 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b80b89adebc0399e5d90b29f7cea9a10]: Commencement: Sch. 15 para. 103 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-715e6da7030539587b47891bf52d031f]: Commencement: Sch. 15 para. 104 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-715e6da7030539587b47891bf52d031f]: Commencement: Sch. 15 para. 104 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-f347cc5011d3d03f5c6a2b4eb39213d6]: Commencement: Sch. 15 para. 105 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-f347cc5011d3d03f5c6a2b4eb39213d6]: Commencement: Sch. 15 para. 105 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-8086f0752ced293538bbc287644496b7]: Commencement: Sch. 15 para. 106 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8086f0752ced293538bbc287644496b7]: Commencement: Sch. 15 para. 106 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-080670e66738a05e0690deb3c4c0fd5d]: Commencement: Sch. 15 para. 107 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-080670e66738a05e0690deb3c4c0fd5d]: Commencement: Sch. 15 para. 107 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-2a0a83187ae11d4ef01b51e0fdeef0de]: Commencement: Sch. 15 para. 108 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-2a0a83187ae11d4ef01b51e0fdeef0de]: Commencement: Sch. 15 para. 108 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e180bc3ac79970359585ded8810b24ac]: Commencement: Sch. 15 para. 109 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e180bc3ac79970359585ded8810b24ac]: Commencement: Sch. 15 para. 109 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-76ee73bdf4ca4d04adde0b625caa394e]: Commencement: Sch. 15 para. 110 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-76ee73bdf4ca4d04adde0b625caa394e]: Commencement: Sch. 15 para. 110 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-3e097bfe4966485953ff2361c61a8dea]: Commencement: Sch. 15 para. 111 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-3e097bfe4966485953ff2361c61a8dea]: Commencement: Sch. 15 para. 111 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-67a9c35aa0f99a3ecfae8e52bc5234ae]: Commencement: Sch. 15 para. 112 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-67a9c35aa0f99a3ecfae8e52bc5234ae]: Commencement: Sch. 15 para. 112 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-2ee6177baa23ea4bd3676d9adc050e2d]: Commencement: Sch. 15 para. 113 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-2ee6177baa23ea4bd3676d9adc050e2d]: Commencement: Sch. 15 para. 113 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-cd3948a7944312efeb205f5ed5cba10f]: Commencement: Sch. 15 para. 114 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-cd3948a7944312efeb205f5ed5cba10f]: Commencement: Sch. 15 para. 114 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-b552f490d87d9821ccba67a73ec728c7]: Commencement: Sch. 15 para. 115 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b552f490d87d9821ccba67a73ec728c7]: Commencement: Sch. 15 para. 115 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-9e561750a5a6f8cdfcbf052813eb6e93]: Commencement: Sch. 15 para. 116 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-9e561750a5a6f8cdfcbf052813eb6e93]: Commencement: Sch. 15 para. 116 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-5ddeb783ee67e623a51f53fdb86f289f]: Commencement: Sch. 15 para. 117 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5ddeb783ee67e623a51f53fdb86f289f]: Commencement: Sch. 15 para. 117 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-587a0985f881efb4fb9abf30d3cc6d72]: Commencement: Sch. 15 para. 118 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-587a0985f881efb4fb9abf30d3cc6d72]: Commencement: Sch. 15 para. 118 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-a1e4092921fe3e3c0f48a41aef57a733]: Commencement: Sch. 15 para. 119 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-a1e4092921fe3e3c0f48a41aef57a733]: Commencement: Sch. 15 para. 119 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-39e50d23afc9ab4ed41699a4084e4ae4]: Commencement: Sch. 15 para. 120 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-39e50d23afc9ab4ed41699a4084e4ae4]: Commencement: Sch. 15 para. 120 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-b7bba481cd94e14b956b533f1301a640]: Commencement: Sch. 15 para. 121 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b7bba481cd94e14b956b533f1301a640]: Commencement: Sch. 15 para. 121 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-24df412ffcd231ab0c2dacb7e670f896]: Commencement: Sch. 15 para. 122 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-24df412ffcd231ab0c2dacb7e670f896]: Commencement: Sch. 15 para. 122 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-953b3af6f259c2bd5d54cc2381f9a7e2]: Commencement: Sch. 15 para. 123 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-953b3af6f259c2bd5d54cc2381f9a7e2]: Commencement: Sch. 15 para. 123 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-5b416fcf49605cc514074b8fb8fee678]: Commencement: Sch. 15 para. 124 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5b416fcf49605cc514074b8fb8fee678]: Commencement: Sch. 15 para. 124 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-5565222cc065b8757cecff147997fce8]: Commencement: Sch. 15 para. 125 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5565222cc065b8757cecff147997fce8]: Commencement: Sch. 15 para. 125 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-2e25a0c26c639ddd2abe999d4daab75b]: Commencement: Sch. 15 para. 126 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-2e25a0c26c639ddd2abe999d4daab75b]: Commencement: Sch. 15 para. 126 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-60c988a4c5ab04113214d444a52d51c0]: Commencement: Sch. 15 para. 127 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-60c988a4c5ab04113214d444a52d51c0]: Commencement: Sch. 15 para. 127 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-88d88b9d0d8f62a189be33ef3c22a78d]: Commencement: Sch. 15 para. 128 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-88d88b9d0d8f62a189be33ef3c22a78d]: Commencement: Sch. 15 para. 128 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-9b4231d8e612ca30d1aac83702060676]: Commencement: Sch. 15 para. 129 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-9b4231d8e612ca30d1aac83702060676]: Commencement: Sch. 15 para. 129 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-7137a0936eefa6e82f1cb3e533a3a0e8]: Commencement: Sch. 15 para. 130 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-7137a0936eefa6e82f1cb3e533a3a0e8]: Commencement: Sch. 15 para. 130 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-cc95fe0bd9edfed6d84f0a47a8ffa3fd]: Commencement: Sch. 15 para. 131 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-cc95fe0bd9edfed6d84f0a47a8ffa3fd]: Commencement: Sch. 15 para. 131 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-d0a7f1e01b1f01c7e5cf006960ce48b2]: Commencement: Sch. 15 para. 132 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-d0a7f1e01b1f01c7e5cf006960ce48b2]: Commencement: Sch. 15 para. 132 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-0bbe42e0b636fb6c5b95d4d42b2424d0]: Commencement: Sch. 15 para. 133 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-0bbe42e0b636fb6c5b95d4d42b2424d0]: Commencement: Sch. 15 para. 133 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-cedbe09b69366a7b19d45cfd02e4f790]: Commencement: Sch. 15 para. 134 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-cedbe09b69366a7b19d45cfd02e4f790]: Commencement: Sch. 15 para. 134 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-85fc7a875ab2e90cbd2dfd5401f9a4f0]: Commencement: Sch. 15 para. 135 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-85fc7a875ab2e90cbd2dfd5401f9a4f0]: Commencement: Sch. 15 para. 135 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-56be1b7a92947a3c84237eaa32af1cbf]: Commencement: Sch. 15 para. 136 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-56be1b7a92947a3c84237eaa32af1cbf]: Commencement: Sch. 15 para. 136 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-890c2853e11453e62fcac317a27af72f]: Commencement: Sch. 15 para. 137 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-890c2853e11453e62fcac317a27af72f]: Commencement: Sch. 15 para. 137 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-7d0ea848187715d78ce0a2246f6adc17]: Commencement: Sch. 15 para. 138 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-7d0ea848187715d78ce0a2246f6adc17]: Commencement: Sch. 15 para. 138 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-8eca40676bd386ae3036c60c23e0b555]: Commencement: Sch. 15 para. 139 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8eca40676bd386ae3036c60c23e0b555]: Commencement: Sch. 15 para. 139 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-8b8135502059db05c0892526965bd7b4]: Commencement: Sch. 15 para. 140 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8b8135502059db05c0892526965bd7b4]: Commencement: Sch. 15 para. 140 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-205110727a58e8bcdc3fda3a11c98a91]: Commencement: Sch. 15 para. 141 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-205110727a58e8bcdc3fda3a11c98a91]: Commencement: Sch. 15 para. 141 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-7e1e7b59b3f2519bef075cbcc6853cbe]: Commencement: Sch. 15 para. 142 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-7e1e7b59b3f2519bef075cbcc6853cbe]: Commencement: Sch. 15 para. 142 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

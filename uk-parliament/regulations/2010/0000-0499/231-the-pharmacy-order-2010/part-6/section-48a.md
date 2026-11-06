@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48A. Information for specified state professionals[^key-22546a00447baa892868d9f342325585]
+## 48A. Information for specified state professionals[^c-22546a00447baa892868d9f342325585]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22546a00447baa892868d9f342325585]: Textual amendment: [Art. 48A](https://www.legislation.gov.uk/uksi/2010/231/article/48A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 86](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/86)
+[^c-22546a00447baa892868d9f342325585]: Textual amendment: [Art. 48A](https://www.legislation.gov.uk/uksi/2010/231/article/48A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 86](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/86)

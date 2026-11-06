@@ -46,13 +46,13 @@ Regulations 8 to 10 are made with the consent of the Department of Finance and P
 
 The Social Security Advisory Committee has agreed that the proposals in respect of regulations 8 to 10 should not be referred to it[^f00009].
 
-## 1. Citation, commencement and interpretation[^key-42711a1b1b7105ec051f77594fd2cb43]
+## 1. Citation, commencement and interpretation[^c-42711a1b1b7105ec051f77594fd2cb43]
 
 (1) These Regulations may be cited as the Social Security (Equalisation of State Pension Age) Regulations (Northern Ireland) 2010 and shall come into operation on 6th April 2010.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-a85e19f54c9b7a8c32a3374590ddcd27]
+## 2. Amendment of the Income Support (General) Regulations[^c-a85e19f54c9b7a8c32a3374590ddcd27]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00011] are amended in accordance with paragraphs (2) and (3).
 
@@ -68,11 +68,11 @@ The Social Security Advisory Committee has agreed that the proposals in respect 
 
 (3) In Schedule 10 (capital to be disregarded), in paragraph 4(a)[^f00017] for “is aged 60 or over” substitute “has attained the qualifying age for state pension credit”.
 
-## 3. Amendment of the Social Security (Claims and Payments) Regulations[^key-691e539c76ec95a12a9382bf8a33e606]
+## 3. Amendment of the Social Security (Claims and Payments) Regulations[^c-691e539c76ec95a12a9382bf8a33e606]
 
 In regulation 35(2) of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00018] (payment to a partner as alternative payee) for “the other person has not yet attained the age of 60 in the qualifying week” substitute “in the qualifying week the other person has not yet attained the qualifying age”.
 
-## 4. Amendment of the Social Security (Incapacity Benefit) (Transitional) Regulations[^key-23a5b0ad763f0ec6d01649b60ccfc2d7]
+## 4. Amendment of the Social Security (Incapacity Benefit) (Transitional) Regulations[^c-23a5b0ad763f0ec6d01649b60ccfc2d7]
 
 In regulation 1(2) of the Social Security (Incapacity Benefit) (Transitional) Regulations (Northern Ireland) 1995[^f00019] (interpretation), for the definition of “pensionable age” substitute—
 
@@ -80,7 +80,7 @@ In regulation 1(2) of the Social Security (Incapacity Benefit) (Transitional) Re
 
 .
 
-## 5. Amendment of the Jobseeker’s Allowance Regulations[^key-09f037686c5955248561baabc2b599b6]
+## 5. Amendment of the Jobseeker’s Allowance Regulations[^c-09f037686c5955248561baabc2b599b6]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00021] are amended in accordance with paragraphs (2) to (9).
 
@@ -136,15 +136,15 @@ In regulation 1(2) of the Social Security (Incapacity Benefit) (Transitional) Re
 
 (9) In Schedule 7 (capital to be disregarded), in paragraph 4(a) for “is aged 60 or over” substitute “has attained the qualifying age for state pension credit”.
 
-## 6. Amendment of the Social Fund Winter Fuel Payment Regulations[^key-b6d7dd46685ee740943ccfe6eff1b944]
+## 6. Amendment of the Social Fund Winter Fuel Payment Regulations[^c-b6d7dd46685ee740943ccfe6eff1b944]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the State Pension Credit Regulations[^key-d8eaeb47e66629e277080a73a72094f7]
+## 7. Amendment of the State Pension Credit Regulations[^c-d8eaeb47e66629e277080a73a72094f7]
 
 In Schedule 5 to the State Pension Credit Regulations (Northern Ireland) 2003[^f00038] (income from capital), in paragraph 4(a) for “is either aged 60 or over or incapacitated” substitute “has attained the qualifying age or is incapacitated”.
 
-## 8. Amendment of the Housing Benefit Regulations[^key-00ed27aae8d744dfaf890e97f89d4e1f]
+## 8. Amendment of the Housing Benefit Regulations[^c-00ed27aae8d744dfaf890e97f89d4e1f]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00039] are amended in accordance with paragraphs (2) to (5).
 
@@ -159,7 +159,7 @@ In Schedule 5 to the State Pension Credit Regulations (Northern Ireland) 2003[^f
 
 (5) In Schedule 7 (capital to be disregarded), in paragraph 4(a) for “where that person is either aged 60 or over or incapacitated” substitute “where that person has attained the qualifying age for state pension credit or is incapacitated”.
 
-## 9. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-3c316116c6694adf8ee526f94375d709]
+## 9. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-3c316116c6694adf8ee526f94375d709]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00042] are amended in accordance with paragraphs (2) and (3).
 
@@ -167,7 +167,7 @@ In Schedule 5 to the State Pension Credit Regulations (Northern Ireland) 2003[^f
 
 (3) In Schedule 7 (capital to be disregarded), in paragraph 4(a) for “where that person is either aged 60 or over or incapacitated” substitute “where that person has attained the qualifying age for state pension credit or is incapacitated”.
 
-## 10. Amendment of the Housing Benefit (Consequential Provisions) Regulations[^key-e6c4f8f43cd81477952bfaf797109271]
+## 10. Amendment of the Housing Benefit (Consequential Provisions) Regulations[^c-e6c4f8f43cd81477952bfaf797109271]
 
 In Schedule 3 to the Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006[^f00043] (transitional and savings provisions), in paragraph 5(2), in regulation 14(3) (restrictions on unreasonable payments) as set out in that paragraph, for sub-paragraph (a) substitute—
 
@@ -175,7 +175,7 @@ In Schedule 3 to the Housing Benefit (Consequential Provisions) Regulations (Nor
 
 .
 
-## 11. Amendment of the Employment and Support Allowance Regulations[^key-1ceb65cfdbc2a26d466c98b0f6b918f2]
+## 11. Amendment of the Employment and Support Allowance Regulations[^c-1ceb65cfdbc2a26d466c98b0f6b918f2]
 
 (1) The Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00044] are amended in accordance with paragraphs (2) to (4).
 
@@ -275,11 +275,11 @@ In so far as these Regulations are required, for the purposes of regulations 8 t
 
 [^f00009]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-42711a1b1b7105ec051f77594fd2cb43]: Commencement: Reg. 1 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
+[^c-42711a1b1b7105ec051f77594fd2cb43]: Commencement: Reg. 1 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-a85e19f54c9b7a8c32a3374590ddcd27]: Commencement: Reg. 2 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
+[^c-a85e19f54c9b7a8c32a3374590ddcd27]: Commencement: Reg. 2 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139), [S.R. 1990 No. 346](https://www.legislation.gov.uk/nisr/1990/346), [S.R. 2000 No. 367](https://www.legislation.gov.uk/nisr/2000/367), [S.R. 2003 Nos. 191](https://www.legislation.gov.uk/nisr/2003/191), [195](https://www.legislation.gov.uk/nisr/2003/195) and [413](https://www.legislation.gov.uk/nisr/2003/413) and [S.R. 2007 No. 154](https://www.legislation.gov.uk/nisr/2007/154)
 
@@ -295,17 +295,17 @@ In so far as these Regulations are required, for the purposes of regulations 8 t
 
 [^f00017]: Footnote: Paragraph 4(a) was amended by regulation 9(a) of [S.R. 1990 No. 346](https://www.legislation.gov.uk/nisr/1990/346)
 
-[^key-691e539c76ec95a12a9382bf8a33e606]: Commencement: Reg. 3 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
+[^c-691e539c76ec95a12a9382bf8a33e606]: Commencement: Reg. 3 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
 
 [^f00018]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); paragraph (2) was added by regulation 2(3) of [S.R. 2002 No. 327](https://www.legislation.gov.uk/nisr/2002/327) and amended by paragraph 15(8) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536) and regulation 13(15) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-23a5b0ad763f0ec6d01649b60ccfc2d7]: Commencement: Reg. 4 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
+[^c-23a5b0ad763f0ec6d01649b60ccfc2d7]: Commencement: Reg. 4 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
 
 [^f00019]: Footnote: [S.R. 1995 No. 35](https://www.legislation.gov.uk/nisr/1995/35)
 
 [^f00020]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); paragraph 1 of Schedule 2 was amended by paragraph 28 of Schedule 2 to the [State Pension Credit Act (Northern Ireland) 2002 (c. 14 (N.I.))](https://www.legislation.gov.uk/nia/2002/14), paragraph 8 of Schedule 3 to the Welfare Reform Act (Northern Ireland) 2007 and paragraphs 3 and 4 of Schedule 3 to the [Pensions Act (Northern Ireland) 2008 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2008/1)
 
-[^key-09f037686c5955248561baabc2b599b6]: Commencement: Reg. 5 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
+[^c-09f037686c5955248561baabc2b599b6]: Commencement: Reg. 5 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
 
 [^f00021]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 No. 503](https://www.legislation.gov.uk/nisr/1996/503), [S.R. 2000 Nos. 350](https://www.legislation.gov.uk/nisr/2000/350) and [367](https://www.legislation.gov.uk/nisr/2000/367), [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195), [S.R. 2007 No. 154](https://www.legislation.gov.uk/nisr/2007/154), [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286) and [S.R. 2009 No. 338](https://www.legislation.gov.uk/nisr/2009/338)
 
@@ -335,13 +335,13 @@ In so far as these Regulations are required, for the purposes of regulations 8 t
 
 [^f00034]: Footnote: Sub-paragraph (5)(a)(i) was amended by regulation 19(27) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-b6d7dd46685ee740943ccfe6eff1b944]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/103/regulation/6) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (S.R. 2024/160)](https://www.legislation.gov.uk/nisr/2024/160), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2024/160/schedule/2)
+[^c-b6d7dd46685ee740943ccfe6eff1b944]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/103/regulation/6) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (S.R. 2024/160)](https://www.legislation.gov.uk/nisr/2024/160), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2024/160/schedule/2)
 
-[^key-d8eaeb47e66629e277080a73a72094f7]: Commencement: Reg. 7 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
+[^c-d8eaeb47e66629e277080a73a72094f7]: Commencement: Reg. 7 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
 
 [^f00038]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); paragraph 4(a) of Schedule 5 was amended by regulation 6(6) of [S.R. 2004 No. 394](https://www.legislation.gov.uk/nisr/2004/394)
 
-[^key-00ed27aae8d744dfaf890e97f89d4e1f]: Commencement: Reg. 8 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
+[^c-00ed27aae8d744dfaf890e97f89d4e1f]: Commencement: Reg. 8 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
 
 [^f00039]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending Regulations are [S.R. 2008 Nos. 179](https://www.legislation.gov.uk/nisr/2008/179) and [378](https://www.legislation.gov.uk/nisr/2008/378)
 
@@ -349,15 +349,15 @@ In so far as these Regulations are required, for the purposes of regulations 8 t
 
 [^f00041]: Footnote: Paragraph 3(3) was amended by regulation 3(9)(a)(i) of [S.R. 2008 No. 179](https://www.legislation.gov.uk/nisr/2008/179)
 
-[^key-3c316116c6694adf8ee526f94375d709]: Commencement: Reg. 9 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
+[^c-3c316116c6694adf8ee526f94375d709]: Commencement: Reg. 9 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
 
 [^f00042]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406) to which there are amendments not relevant to these Regulations
 
-[^key-e6c4f8f43cd81477952bfaf797109271]: Commencement: Reg. 10 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
+[^c-e6c4f8f43cd81477952bfaf797109271]: Commencement: Reg. 10 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
 
 [^f00043]: Footnote: [S.R. 2006 No. 407](https://www.legislation.gov.uk/nisr/2006/407) to which there are amendments not relevant to these Regulations
 
-[^key-1ceb65cfdbc2a26d466c98b0f6b918f2]: Commencement: Reg. 11 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
+[^c-1ceb65cfdbc2a26d466c98b0f6b918f2]: Commencement: Reg. 11 in operation at 6.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/103/regulation/1/1)
 
 [^f00044]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280); relevant amending Regulations are [S.R. 2009 No. 338](https://www.legislation.gov.uk/nisr/2009/338)
 

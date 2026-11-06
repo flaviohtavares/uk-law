@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Power to arrange for exercise of functions by others[^key-13570970f771f0f6f1b43907c9487216]
+## 95. Power to arrange for exercise of functions by others[^c-13570970f771f0f6f1b43907c9487216]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13570970f771f0f6f1b43907c9487216]: Commencement: S. 95 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-13570970f771f0f6f1b43907c9487216]: Commencement: S. 95 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

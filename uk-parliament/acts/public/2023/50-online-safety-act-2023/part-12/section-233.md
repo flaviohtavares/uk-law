@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 233. “Functionality”[^key-6ff43072558f9aa86e095a36aca6a8e6]
+## 233. “Functionality”[^c-6ff43072558f9aa86e095a36aca6a8e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ff43072558f9aa86e095a36aca6a8e6]: Commencement: S. 233 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
+[^c-6ff43072558f9aa86e095a36aca6a8e6]: Commencement: S. 233 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)

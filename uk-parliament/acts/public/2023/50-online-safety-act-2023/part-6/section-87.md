@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Secretary of State’s guidance about fees[^key-2c1ce7bfc7db5894f0c1f35dabaebd42][^key-674484a955fb36d963e79952c7086554]
+## 87. Secretary of State’s guidance about fees[^c-2c1ce7bfc7db5894f0c1f35dabaebd42][^c-674484a955fb36d963e79952c7086554]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2c1ce7bfc7db5894f0c1f35dabaebd42]: Commencement: S. 87 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-2c1ce7bfc7db5894f0c1f35dabaebd42]: Commencement: S. 87 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-674484a955fb36d963e79952c7086554]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2023/50/section/87) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
+[^c-674484a955fb36d963e79952c7086554]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2023/50/section/87) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)

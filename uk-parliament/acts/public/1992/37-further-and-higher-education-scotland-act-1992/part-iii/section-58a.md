@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58A. Stamp duty land tax[^key-01fb2fa57df9a7e879e43d87d01ebfd4]
+## 58A. Stamp duty land tax[^c-01fb2fa57df9a7e879e43d87d01ebfd4]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01fb2fa57df9a7e879e43d87d01ebfd4]: Textual amendment: [S. 58A](https://www.legislation.gov.uk/ukpga/1992/37/section/58A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/19)
+[^c-01fb2fa57df9a7e879e43d87d01ebfd4]: Textual amendment: [S. 58A](https://www.legislation.gov.uk/ukpga/1992/37/section/58A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/19)

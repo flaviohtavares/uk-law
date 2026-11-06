@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Quarters in respect of which the loan for living costs is payable[^key-5ea493cd55e5b4c46410fd7a72baf070]
+## 72. Quarters in respect of which the loan for living costs is payable[^c-5ea493cd55e5b4c46410fd7a72baf070]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ea493cd55e5b4c46410fd7a72baf070]: Commencement: Reg. 72 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-5ea493cd55e5b4c46410fd7a72baf070]: Commencement: Reg. 72 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

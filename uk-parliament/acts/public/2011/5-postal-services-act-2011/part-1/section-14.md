@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Ownership of companies[^key-22df25f10a157ff5c468d6b7e0809fee]
+## 14. Ownership of companies[^c-22df25f10a157ff5c468d6b7e0809fee]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22df25f10a157ff5c468d6b7e0809fee]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/5/section/14) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-22df25f10a157ff5c468d6b7e0809fee]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/5/section/14) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

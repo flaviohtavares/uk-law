@@ -24,7 +24,7 @@ summary: ''
 
 (2) If the Mayor of London considers it expedient—
 
-- (a) that any road or proposed road in Greater London, other than a trunk road or other road for which the Secretary of State or a strategic highways company[^key-5aa6431ee1cc304d61b8502bd91942aa] is the highway authority, should become a GLA side road, or
+- (a) that any road or proposed road in Greater London, other than a trunk road or other road for which the Secretary of State or a strategic highways company[^c-5aa6431ee1cc304d61b8502bd91942aa] is the highway authority, should become a GLA side road, or
 - (b) that any GLA side road should cease to be such a road and should become a road for which the traffic authority is a London borough council or the Common Council of the City of London,
 
 the Greater London Authority may by order direct that that road or proposed road shall become, or (as the case may be) that that GLA side road shall cease to be, a GLA side road as from such date as may be specified in that behalf in the order.
@@ -61,4 +61,4 @@ shall become the traffic authority for the road.
 
 [^c13564481]: Textual amendment: Ss. 124B, 124C inserted (1.10.2000) by [S.I. 2000/2237](https://www.legislation.gov.uk/uksi/2000/2237), [art. 2(4)](https://www.legislation.gov.uk/uksi/2000/2237/article/2/4), [Sch.](https://www.legislation.gov.uk/uksi/2000/2237/schedule)
 
-[^key-5aa6431ee1cc304d61b8502bd91942aa]: Textual amendment: Words in s. 124B(2)(a) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 98](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/98); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-5aa6431ee1cc304d61b8502bd91942aa]: Textual amendment: Words in s. 124B(2)(a) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 98](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/98); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

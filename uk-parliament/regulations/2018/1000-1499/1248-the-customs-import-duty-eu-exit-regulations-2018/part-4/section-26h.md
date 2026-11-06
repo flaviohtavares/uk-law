@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26H. Persons eligible to use UK Continental Shelf simplifications[^key-230a24056871e75af0835ced5c710124]
+## 26H. Persons eligible to use UK Continental Shelf simplifications[^c-230a24056871e75af0835ced5c710124]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-230a24056871e75af0835ced5c710124]: Textual amendment: [Regs. 26G](https://www.legislation.gov.uk/uksi/2018/1248/regulation/26G), [26H](https://www.legislation.gov.uk/uksi/2018/1248/regulation/26H) inserted (13.6.2023) by [The Customs (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/569)](https://www.legislation.gov.uk/uksi/2023/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/569/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/569/regulation/2/5)
+[^c-230a24056871e75af0835ced5c710124]: Textual amendment: [Regs. 26G](https://www.legislation.gov.uk/uksi/2018/1248/regulation/26G), [26H](https://www.legislation.gov.uk/uksi/2018/1248/regulation/26H) inserted (13.6.2023) by [The Customs (Miscellaneous Amendments) Regulations 2023 (S.I. 2023/569)](https://www.legislation.gov.uk/uksi/2023/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/569/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/569/regulation/2/5)

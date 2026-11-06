@@ -22,7 +22,7 @@ summary: ''
 
 Article 40
 
-### 1. Applications made under requirements[^key-733f957dff0777e9a344bbb4519d7734]
+### 1. Applications made under requirements[^c-733f957dff0777e9a344bbb4519d7734]
 
 (1) Where an application has been made to the relevant authority for any consent, agreement or approval required by a requirement (including agreement or approval in respect of part of a requirement) included in this Order the relevant authority must give notice to the undertaker of their decision on the application within a period of eight (8) weeks beginning with—
 
@@ -38,7 +38,7 @@ Article 40
 - (b) the relevant planning authorities do not determine such application within the period set out in sub-paragraph (1); and
 - (c) such application is accompanied by a report that considers it likely that the subject matter of such application will give rise to any materially new or materially different environmental effects in comparison with the authorised development as approved, then the application is to be taken to have been refused by the relevant planning authorities at the end of that period.
 
-### 2. Further information[^key-2681c31bd4fda0f22a3bda44d1068e65]
+### 2. Further information[^c-2681c31bd4fda0f22a3bda44d1068e65]
 
 (1) In relation to any part of the application to which this Schedule applies, the relevant authority has the right to request such further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -46,7 +46,7 @@ Article 40
 
 (3) Where further information is requested under this paragraph 2 in relation to part only of an application, that part is to be treated as separate from the remainder of the application for the purposes of calculating time periods in paragraph 1(1)(b), paragraph 1(3) and paragraph 2.
 
-### 3. Appeals[^key-1c2907a2c7a919618b6ce1e4113b9b27]
+### 3. Appeals[^c-1c2907a2c7a919618b6ce1e4113b9b27]
 
 (1) The undertaker may appeal in the event that—
 
@@ -89,14 +89,14 @@ and may deal with the application as if it had been made to him in the first ins
 
 (12) On application by the relevant authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to Planning Practice Guidance: Appeals (March 2014) or any circular or guidance which may from time to time replace it.
 
-**4.**[^key-83aef858471743f288b1fc6ff3248ca8] In this Schedule “**relevant authority**” means the relevant planning authorities, relevant highway authority, traffic authority, street authority, or the owner of a watercourse, sewer or drain as may be appropriate to the consent, agreement or approval sought.
+**4.**[^c-83aef858471743f288b1fc6ff3248ca8] In this Schedule “**relevant authority**” means the relevant planning authorities, relevant highway authority, traffic authority, street authority, or the owner of a watercourse, sewer or drain as may be appropriate to the consent, agreement or approval sought.
 
 ## Annotations
 
-[^key-733f957dff0777e9a344bbb4519d7734]: Commencement: Sch. 12 para. 1 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-733f957dff0777e9a344bbb4519d7734]: Commencement: Sch. 12 para. 1 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
 
-[^key-2681c31bd4fda0f22a3bda44d1068e65]: Commencement: Sch. 12 para. 2 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-2681c31bd4fda0f22a3bda44d1068e65]: Commencement: Sch. 12 para. 2 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
 
-[^key-1c2907a2c7a919618b6ce1e4113b9b27]: Commencement: Sch. 12 para. 3 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-1c2907a2c7a919618b6ce1e4113b9b27]: Commencement: Sch. 12 para. 3 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
 
-[^key-83aef858471743f288b1fc6ff3248ca8]: Commencement: Sch. 12 para. 4 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-83aef858471743f288b1fc6ff3248ca8]: Commencement: Sch. 12 para. 4 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)

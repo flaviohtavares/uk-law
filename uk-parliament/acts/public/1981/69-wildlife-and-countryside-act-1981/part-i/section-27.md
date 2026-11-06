@@ -30,8 +30,8 @@ summary: ''
   - (b) any person authorised in writing by the local authority for the area within which the action authorised is taken;
   - (c) as respects anything done in relation to wild birds, any person authorised in writing by—[^c20643951]
     - (i) the Welsh Ministers, in relation to things done for purposes relating to fishing or fisheries in the Welsh inshore region (within the meaning of the Marine and Coastal Access Act 2009);
-    - (ii) any of the following bodies, that is to say, any of the[^c4942071] GB conservation bodies[^c19487551], [^c4942081]. . . a district board for a fishery district within the meaning of the [^c4942091]Salmon Fisheries (Scotland) Act 1862 or an inshore fisheries and conservation authority[^key-f16ab98c62bccf9ff9f5eeb612c5787a] [^c20645181]...;
-  - (d) any person authorised in writing by—[^key-aa7a97530e1096eea72eee4e03936418]
+    - (ii) any of the following bodies, that is to say, any of the[^c4942071] GB conservation bodies[^c19487551], [^c4942081]. . . a district board for a fishery district within the meaning of the [^c4942091]Salmon Fisheries (Scotland) Act 1862 or an inshore fisheries and conservation authority[^c-f16ab98c62bccf9ff9f5eeb612c5787a] [^c20645181]...;
+  - (d) any person authorised in writing by—[^c-aa7a97530e1096eea72eee4e03936418]
     - (i) the Environment Agency, in relation to anything done in England;
     - (ii) the Natural Resources Body for Wales, in relation to anything done in Wales; or
     - (iii) a water undertaker or a sewerage undertaker,
@@ -47,7 +47,7 @@ summary: ''
   - (a) inland waters within the meaning of the Water Resources Act 1991; [^c4942141]
   - (b) any waters not falling within paragraph (a) above which are within the seaward limits of the territorial sea;
   - (c) controlled waters within the meaning of Part II of the Control of Pollution Act 1974 [^c4942151] other than ground waters as defined in section 30A(1)(d) of that Act.
-- “[^key-9f85714aa36d2f08df80e5e87d68b5cc]**inshore fisheries and conservation authority**” means the authority for an inshore fisheries and conservation district established under section 149 of the Marine and Coastal Access Act 2009;
+- “[^c-9f85714aa36d2f08df80e5e87d68b5cc]**inshore fisheries and conservation authority**” means the authority for an inshore fisheries and conservation district established under section 149 of the Marine and Coastal Access Act 2009;
 - “**livestock**” includes any animal which is kept—
   - (a) for the provision of food, wool, skins or fur;
   - (b) for the purpose of its use in the carrying on of any agricultural activity; or
@@ -65,8 +65,8 @@ summary: ''
 - “**vehicle**” includes aircraft, hovercraft and boat;
 - [^c5048671]......
 - “**wild animal**” means any animal (other than a bird) which is or (before it was killed or taken) was living wild;
-- “**wild bird**” means any bird of a species[^c19461051] which is ordinarily resident in or is a visitor to the United Kingdom or[^key-68d56c920fb158ec42f6baa46dc40e10] the European territory of any member State[^c19461071] in a wild state but does not include poultry or, except in sections 5 and 16, any game bird;
-- “[^c19499331]**the Wild Birds Directive**” means [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147)[^key-113d4c2b88d20f18d85147b0bdd7bbf5] of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds;
+- “**wild bird**” means any bird of a species[^c19461051] which is ordinarily resident in or is a visitor to the United Kingdom or[^c-68d56c920fb158ec42f6baa46dc40e10] the European territory of any member State[^c19461071] in a wild state but does not include poultry or, except in sections 5 and 16, any game bird;
+- “[^c19499331]**the Wild Birds Directive**” means [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147)[^c-113d4c2b88d20f18d85147b0bdd7bbf5] of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds;
 - “**wild plant**” means any plant which is or (before it was picked, uprooted or destroyed) was growing wild and is of a kind which ordinarily grows in Great Britain in a wild state.
 - “[^c4942211]**wildlife inspector**” has the meaning given by section 18A(1)[^c19487201].
 
@@ -77,7 +77,7 @@ summary: ''
 (3A)[^c19487611] In this Part “**the GB conservation bodies**” means—
 
 - (a) Natural England,
-- (b) the Natural Resources Body for Wales[^key-0fc5984522043ab347e380b333d2d847], and
+- (b) the Natural Resources Body for Wales[^c-0fc5984522043ab347e380b333d2d847], and
 - (c) Scottish Natural Heritage,
 
 and references to a conservation body are to be read accordingly.
@@ -106,7 +106,7 @@ and references to a conservation body are to be read accordingly.
 - “**domestic duck**” means any domestic form of duck;
 - “**domestic goose**” means any domestic form of goose;
 - “**firearm**” has the same meaning as in the [^c4942121]Firearms Act 1968;
-- [^key-814804f1288581cddddacd9d71daeb25]...
+- [^c-814804f1288581cddddacd9d71daeb25]...
 - “**inland waters**” means—
   - (a) inland waters within the meaning of the Water Resources Act 1991; [^c4942141]
   - (b) any waters not falling within paragraph (a) above which are within the seaward limits of the territorial sea;
@@ -123,12 +123,12 @@ and references to a conservation body are to be read accordingly.
 - “**pick**”, in relation to a plant, means gather or pluck any part of the plant without uprooting it;
 - “**poultry**” means the domestic forms of the following, that is to say[^c19461211] fowls, geese, ducks, guinea-fowls, pigeons and quails, and turkeys;
 - “**sale**” includes hire, barter and exchange and cognate expressions shall be construed accordingly;
-- “[^key-88d3362af8ab6b74fa6bb5d5cdeaada6]**section 16AA licence**” has the meaning given by section 16AA(1).
+- “[^c-88d3362af8ab6b74fa6bb5d5cdeaada6]**section 16AA licence**” has the meaning given by section 16AA(1).
 - “**uproot**”, in relation to a plant, means dig up or otherwise remove the plant from the land on which it is growing;
 - “**vehicle**” includes aircraft, hovercraft and boat;
 - [^c5048671]...
 - “**wild animal**” means any animal (other than a bird) which is or (before it was killed or taken) was living wild;
-- “**wild bird**” means any bird of a species[^c19461231] which is ordinarily resident in or is a visitor to the United Kingdom or[^key-7b5b1e9180e6ee43ef59e2cd9a477942] any member State or the European territory of any member State[^c19461251] in a wild state but does not include poultry [^key-43b34a43ad9d55104ab124844f82fac6]...;
+- “**wild bird**” means any bird of a species[^c19461231] which is ordinarily resident in or is a visitor to the United Kingdom or[^c-7b5b1e9180e6ee43ef59e2cd9a477942] any member State or the European territory of any member State[^c19461251] in a wild state but does not include poultry [^c-43b34a43ad9d55104ab124844f82fac6]...;
 - “**wild plant**” means any plant (including fungi)[^c19461521] which is or (before it was picked, uprooted or destroyed) was growing wild and is of a kind which ordinarily grows in Great Britain in a wild state.
 
 (2) A bird shall not be treated as bred in captivity for the purposes of this Part unless its parents were lawfully in captivity when the egg was laid.
@@ -171,11 +171,11 @@ and references to a conservation body are to be read accordingly.
 
 [^c4942091]: Marginal citation: [1862 c. 97](https://www.legislation.gov.uk/ukpga/1862/97).
 
-[^key-f16ab98c62bccf9ff9f5eeb612c5787a]: Textual amendment: Words in s. 27(1) inserted (1.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 14 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/14/paragraph/11/a); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(k)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/k)
+[^c-f16ab98c62bccf9ff9f5eeb612c5787a]: Textual amendment: Words in s. 27(1) inserted (1.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 14 para. 11(a)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/14/paragraph/11/a); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(k)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/k)
 
 [^c20645181]: Textual amendment: Words in s. 27(1) repealed (E.W.) (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
 
-[^key-aa7a97530e1096eea72eee4e03936418]: Textual amendment: Words in s. 27(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 171(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/171/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-aa7a97530e1096eea72eee4e03936418]: Textual amendment: Words in s. 27(1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 171(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/171/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c4942121]: Marginal citation: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27).
 
@@ -185,7 +185,7 @@ and references to a conservation body are to be read accordingly.
 
 [^c4942151]: Marginal citation: [1974 c.40](https://www.legislation.gov.uk/ukpga/1974/40).
 
-[^key-9f85714aa36d2f08df80e5e87d68b5cc]: Textual amendment: Definition "inshore fisheries and conservation authority" in s. 27(1) inserted (1.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 14 para. 11(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/14/paragraph/11/b); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(k)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/k)
+[^c-9f85714aa36d2f08df80e5e87d68b5cc]: Textual amendment: Definition "inshore fisheries and conservation authority" in s. 27(1) inserted (1.4.2011) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 14 para. 11(b)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/14/paragraph/11/b); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(k)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/k)
 
 [^c4942161]: Textual amendment: Words in s. 27(1) repealed (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)(8)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6/8), [Sch. 16 para. 65(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/65/2), [Sch. 18](https://www.legislation.gov.uk/ukpga/1994/19/schedule/18) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
@@ -201,13 +201,13 @@ and references to a conservation body are to be read accordingly.
 
 [^c19461051]: Textual amendment: S. 27(1): word in definition of "wild bird" substituted (E.W.) (14.7.2004) by The Wildlife and Countryside Act 1981(England and Wales) (Amendment) Regulations 2004 ([S.I. 2004/1487](https://www.legislation.gov.uk/uksi/2004/1487)), {reg. 4(a)} and also expressed to be substituted (W.) (2.8.2004) by [S.I. 2004/1733](https://www.legislation.gov.uk/uksi/2004/1733), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2004/1733/regulation/3/1), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2004/1733/schedule/paragraph/2/a)
 
-[^key-68d56c920fb158ec42f6baa46dc40e10]: Textual amendment: Words in s. 27 inserted (E.W.) (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/579/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-68d56c920fb158ec42f6baa46dc40e10]: Textual amendment: Words in s. 27 inserted (E.W.) (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/579/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19461071]: Textual amendment: S. 27(1): words in definition of "wild bird" substituted (E.W.) (14.7.2004) by The Wildlife and Countryside Act 1981(England and Wales) (Amendment) Regulations 2004 ([S.I. 2004/1487](https://www.legislation.gov.uk/uksi/2004/1487)), {reg. 4(b)} and also expressed to be substituted (W.) (2.8.2004) by [S.I. 2004/1733](https://www.legislation.gov.uk/uksi/2004/1733), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2004/1733/regulation/3/1), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2004/1733/schedule/paragraph/2/b)
 
 [^c19499331]: Textual amendment: S. 27: definition of "the Wild Birds Directive" inserted (E.W.) (21.8.2007) by [The Conservation (Natural Habitats, &c.) (Amendment) Regulations 2007 (S.I. 2007/1843)](https://www.legislation.gov.uk/uksi/2007/1843), [reg. 7(6)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/7/6)
 
-[^key-113d4c2b88d20f18d85147b0bdd7bbf5]: Textual amendment: Words in s. 27(1) substituted (E.W.) (6.4.2016) by [The Wildlife and Countryside Act 1981 (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/127)](https://www.legislation.gov.uk/uksi/2016/127), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/127/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2016/127/regulation/2/3)
+[^c-113d4c2b88d20f18d85147b0bdd7bbf5]: Textual amendment: Words in s. 27(1) substituted (E.W.) (6.4.2016) by [The Wildlife and Countryside Act 1981 (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/127)](https://www.legislation.gov.uk/uksi/2016/127), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/127/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2016/127/regulation/2/3)
 
 [^c4942211]: Textual amendment: S. 27(1): definition of "wildlife inspector" inserted (E.W.) (30.1.2001) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [ss. 81(1)](https://www.legislation.gov.uk/ukpga/2000/37/section/81/1), [103(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/103/2), [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2000/37/schedule/12/paragraph/12)
 
@@ -215,7 +215,7 @@ and references to a conservation body are to be read accordingly.
 
 [^c19487611]: Textual amendment: S. 27(3A) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(2)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/2), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 76(4)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/76/4); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-0fc5984522043ab347e380b333d2d847]: Textual amendment: Words in s. 27(3A) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 171(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/171/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0fc5984522043ab347e380b333d2d847]: Textual amendment: Words in s. 27(3A) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 171(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/171/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c19461511]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
@@ -223,19 +223,19 @@ and references to a conservation body are to be read accordingly.
 
 [^c4942101]: Marginal citation: [1966 c. 38](https://www.legislation.gov.uk/ukpga/1966/38).
 
-[^key-814804f1288581cddddacd9d71daeb25]: Textual amendment: Definition "game bird" in s. 27(1) repealed (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 2(a)](https://www.legislation.gov.uk/asp/2011/6/section/2/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/a)
+[^c-814804f1288581cddddacd9d71daeb25]: Textual amendment: Definition "game bird" in s. 27(1) repealed (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 2(a)](https://www.legislation.gov.uk/asp/2011/6/section/2/a), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/a)
 
 [^c19461211]: Textual amendment: S. 27(1): words in the definition of “poultry” substituted (S.) (1.10.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [ss. 50](https://www.legislation.gov.uk/asp/2004/6/section/50), [59](https://www.legislation.gov.uk/asp/2004/6/section/59), [Sch. 6 para. 23(2)(a)](https://www.legislation.gov.uk/asp/2004/6/schedule/6/paragraph/23/2/a); [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2](https://www.legislation.gov.uk/ssi/2004/407/article/2)
 
-[^key-88d3362af8ab6b74fa6bb5d5cdeaada6]: Textual amendment: Words in s. 27(1) inserted (S.) (22.7.2024) by [Wildlife Management and Muirburn (Scotland) Act 2024 (asp 4)](https://www.legislation.gov.uk/asp/2024/4), [ss. 9(4)](https://www.legislation.gov.uk/asp/2024/4/section/9/4), [35(2)](https://www.legislation.gov.uk/asp/2024/4/section/35/2) (with [s. 30](https://www.legislation.gov.uk/asp/2024/4/section/30)); [S.S.I. 2024/168](https://www.legislation.gov.uk/ssi/2024/168), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2024/168/schedule/part/2)
+[^c-88d3362af8ab6b74fa6bb5d5cdeaada6]: Textual amendment: Words in s. 27(1) inserted (S.) (22.7.2024) by [Wildlife Management and Muirburn (Scotland) Act 2024 (asp 4)](https://www.legislation.gov.uk/asp/2024/4), [ss. 9(4)](https://www.legislation.gov.uk/asp/2024/4/section/9/4), [35(2)](https://www.legislation.gov.uk/asp/2024/4/section/35/2) (with [s. 30](https://www.legislation.gov.uk/asp/2024/4/section/30)); [S.S.I. 2024/168](https://www.legislation.gov.uk/ssi/2024/168), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2024/168/schedule/part/2)
 
 [^c19461231]: Textual amendment: S. 27(1): word in the definition of “wild bird” substituted (S.) (1.10.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [ss. 50](https://www.legislation.gov.uk/asp/2004/6/section/50), [59](https://www.legislation.gov.uk/asp/2004/6/section/59), [Sch. 6 para. 23(2)(b)(i)](https://www.legislation.gov.uk/asp/2004/6/schedule/6/paragraph/23/2/b/i); [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2](https://www.legislation.gov.uk/ssi/2004/407/article/2)
 
-[^key-7b5b1e9180e6ee43ef59e2cd9a477942]: Textual amendment: Words in s. 27(1) inserted (S.) (31.12.2020) by [The Wildlife and Countryside Act 1981 (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/84)](https://www.legislation.gov.uk/ssi/2019/84), [regs. 1](https://www.legislation.gov.uk/ssi/2019/84/regulation/1), [2](https://www.legislation.gov.uk/ssi/2019/84/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b5b1e9180e6ee43ef59e2cd9a477942]: Textual amendment: Words in s. 27(1) inserted (S.) (31.12.2020) by [The Wildlife and Countryside Act 1981 (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/84)](https://www.legislation.gov.uk/ssi/2019/84), [regs. 1](https://www.legislation.gov.uk/ssi/2019/84/regulation/1), [2](https://www.legislation.gov.uk/ssi/2019/84/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19461251]: Textual amendment: S. 27(1): words in the definition of “wild bird” substituted (S.) (1.10.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [ss. 50](https://www.legislation.gov.uk/asp/2004/6/section/50), [59](https://www.legislation.gov.uk/asp/2004/6/section/59), [Sch. 6 para. 23(2)(b)(ii)](https://www.legislation.gov.uk/asp/2004/6/schedule/6/paragraph/23/2/b/ii); [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2](https://www.legislation.gov.uk/ssi/2004/407/article/2)
 
-[^key-43b34a43ad9d55104ab124844f82fac6]: Textual amendment: Words in s. 27(1) repealed (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 2(b)](https://www.legislation.gov.uk/asp/2011/6/section/2/b), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/a)
+[^c-43b34a43ad9d55104ab124844f82fac6]: Textual amendment: Words in s. 27(1) repealed (S.) (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 2(b)](https://www.legislation.gov.uk/asp/2011/6/section/2/b), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/a)
 
 [^c19461521]: Textual amendment: S. 27(1): words in definition of “wild plant” inserted (S.) (1.10.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [ss. 50](https://www.legislation.gov.uk/asp/2004/6/section/50), [59](https://www.legislation.gov.uk/asp/2004/6/section/59), [Sch. 6 para. 23(2)(c)](https://www.legislation.gov.uk/asp/2004/6/schedule/6/paragraph/23/2/c); [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2](https://www.legislation.gov.uk/ssi/2004/407/article/2)
 

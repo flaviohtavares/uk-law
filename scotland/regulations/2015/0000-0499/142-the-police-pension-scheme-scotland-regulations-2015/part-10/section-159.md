@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 159. Annualised rate of pensionable earnings[^key-57dac73663898d2da2aac944e846653e]
+## 159. Annualised rate of pensionable earnings[^c-57dac73663898d2da2aac944e846653e]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ where—
 
 ## Annotations
 
-[^key-57dac73663898d2da2aac944e846653e]: Commencement: Reg. 159 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-57dac73663898d2da2aac944e846653e]: Commencement: Reg. 159 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

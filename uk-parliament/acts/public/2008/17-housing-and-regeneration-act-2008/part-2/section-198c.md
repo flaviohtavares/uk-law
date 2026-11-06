@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198C. Directions about performance information[^key-394008dedc9ed544bed06010b2227d8d]
+## 198C. Directions about performance information[^c-394008dedc9ed544bed06010b2227d8d]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-394008dedc9ed544bed06010b2227d8d]: Textual amendment: [S. 198C](https://www.legislation.gov.uk/ukpga/2008/17/section/198C) and cross-heading inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/27/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/m)
+[^c-394008dedc9ed544bed06010b2227d8d]: Textual amendment: [S. 198C](https://www.legislation.gov.uk/ukpga/2008/17/section/198C) and cross-heading inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/27/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/m)

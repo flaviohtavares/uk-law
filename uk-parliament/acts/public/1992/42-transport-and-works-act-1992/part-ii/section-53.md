@@ -44,7 +44,7 @@ and shall serve notice of his decision on every owner served with a notice under
 
 (5) Any authorisation under subsection (4) above may be given subject to such conditions as the Secretary of State may specify, including conditions that compensation shall be payable by the operator.
 
-(6) Any dispute as to the amount of any compensation payable by virtue of subsection (5) above shall be referred to and determined by the Upper Tribunal[^key-8fa2495a5aa7cd7e2f9b9a2870f33c9a] or, in relation to land in Scotland, the Lands Tribunal for Scotland.
+(6) Any dispute as to the amount of any compensation payable by virtue of subsection (5) above shall be referred to and determined by the Upper Tribunal[^c-8fa2495a5aa7cd7e2f9b9a2870f33c9a] or, in relation to land in Scotland, the Lands Tribunal for Scotland.
 
 (7) The operator of a railway or tramway may enter any land and do anything necessary on it (without the consent of the owners of the land) for the purpose of—
 
@@ -60,4 +60,4 @@ and shall serve notice of his decision on every owner served with a notice under
 
 ## Annotations
 
-[^key-8fa2495a5aa7cd7e2f9b9a2870f33c9a]: Textual amendment: Words in [s. 53(6)](https://www.legislation.gov.uk/ukpga/1992/42/section/53/6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 243](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/243) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-8fa2495a5aa7cd7e2f9b9a2870f33c9a]: Textual amendment: Words in [s. 53(6)](https://www.legislation.gov.uk/ukpga/1992/42/section/53/6) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 243](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/243) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))

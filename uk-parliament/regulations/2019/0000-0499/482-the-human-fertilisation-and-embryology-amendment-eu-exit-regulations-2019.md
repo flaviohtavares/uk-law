@@ -46,17 +46,17 @@ A draft of these Regulations was laid before Parliament in accordance with parag
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-057386348e2d559208dfbf2c8d3c7fde]
+### 1. Citation and commencement[^c-057386348e2d559208dfbf2c8d3c7fde]
 
 These Regulations may be cited as the Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
 ## PART 2 — Amendment of primary legislation
 
-### 2. Amendment of the Human Fertilisation and Embryology Act 1990[^key-ed8d997bff394edc745b2382c84d08f3]
+### 2. Amendment of the Human Fertilisation and Embryology Act 1990[^c-ed8d997bff394edc745b2382c84d08f3]
 
 (1) The Human Fertilisation and Embryology Act 1990 [^c23624971] is amended as follows.
 
-(2)[^key-adb43a4cf9c13d0232377a5395af9dda] In section 1A (reference to Directives), for the definition of “the third Directive” substitute—
+(2)[^c-adb43a4cf9c13d0232377a5395af9dda] In section 1A (reference to Directives), for the definition of “the third Directive” substitute—
 
 > - “the third Directive” means—
 >   - (a) in the application of this Act in relation to Great Britain, Commission [Directive 2006/86/EC](https://www.legislation.gov.uk/eudr/2006/0086) of 24 October 2006 implementing [Directive 2004/23/EC](https://www.legislation.gov.uk/eudr/2004/0023) of the European Parliament and of the Council as regards traceability requirements, notification of serious adverse reactions and events and certain technical requirements for the coding, processing, preservation, storage and distribution of human tissues and cells (“the 2006 Directive”), as it had effect immediately before 29 April 2015 (which is the date on which the amendments made by Commission [Directive 2015/565/EU](https://www.legislation.gov.uk/eudr/2015/0565) came into force), and
@@ -67,13 +67,13 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Amendm
 (3) [^c23624991]In section 2 (other terms)—
 
 - (a) in subsection (1) —
-  - (i)[^key-fa7bec06354c34879767914450e004af] in the definition of “competent authority” omit “other than the United Kingdom or in relation to Gibraltar”;
+  - (i)[^c-fa7bec06354c34879767914450e004af] in the definition of “competent authority” omit “other than the United Kingdom or in relation to Gibraltar”;
   - (ii) at the appropriate place, insert—
 
-    > “**tissue establishment**” means a tissue bank or a unit of a hospital or another body which procures, tests, processes, preserves, stores or distributes human gametes or embryos[^key-56357e351ae2224ccaa029b00a6b1158],
+    > “**tissue establishment**” means a tissue bank or a unit of a hospital or another body which procures, tests, processes, preserves, stores or distributes human gametes or embryos[^c-56357e351ae2224ccaa029b00a6b1158],
 
     ;
-- (b)[^key-7a4f4a8bd33ed494f321a82d19b43829] for subsection (2B) substitute—
+- (b)[^c-7a4f4a8bd33ed494f321a82d19b43829] for subsection (2B) substitute—
 
   > (2B) Any reference in this Act to a requirement of a provision of the first, second, third or fourth Directive—
   >
@@ -84,11 +84,11 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Amendm
 
 (4) In section 2A [^c23625001] (third party agreements) after subsection (1) insert—
 
-> (1A) For the purposes of subsection (1), as it applies in relation to Great Britain,[^key-b956192b2b25c361488a13335d7dc088] Article 24 of the first Directive is to be read subject to the modifications set out in paragraph 11A(8) of Schedule 3A.
+> (1A) For the purposes of subsection (1), as it applies in relation to Great Britain,[^c-b956192b2b25c361488a13335d7dc088] Article 24 of the first Directive is to be read subject to the modifications set out in paragraph 11A(8) of Schedule 3A.
 
 .
 
-(5)[^key-f8093722a566a29f4d1c883c41f58790] In section 2B (meaning of “importing licensee”, “third country premises” etc)—
+(5)[^c-f8093722a566a29f4d1c883c41f58790] In section 2B (meaning of “importing licensee”, “third country premises” etc)—
 
 - (a) in subsection (2)(b) omit “into the United Kingdom”;
 - (b) for subsections (4), (5) and (6) substitute—
@@ -115,7 +115,7 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Amendm
 
   .
 
-(6)[^key-56c13d71d3440c8c0f6c7c767f72a0ad] In section 8ZB (duties of the Authority in relation to the application of the Single European Code)—
+(6)[^c-56c13d71d3440c8c0f6c7c767f72a0ad] In section 8ZB (duties of the Authority in relation to the application of the Single European Code)—
 
 - (a) for the heading substitute “Duties of the Authority in relation to the Single European Code: Northern Ireland”;
 - (b) in subsection (1), after “The Authority” insert “ in relation to Northern Ireland,”;
@@ -137,16 +137,16 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Amendm
 
   .
 
-(7)[^key-8f0865c0e65532dfa12f03e5532b30a6] In section 8A (duty of Authority to communicate with competent authorities of other EEA states)—
+(7)[^c-8f0865c0e65532dfa12f03e5532b30a6] In section 8A (duty of Authority to communicate with competent authorities of other EEA states)—
 
 - (a) for the heading substitute “Duty of Authority to communicate with competent authorities of EEA states: Northern Ireland”;
 - (b) for the words from “The Authority” to “Gibraltar” substitute “The Authority must, in relation to Northern Ireland, communicate to the competent authorities of EEA states”.
 
-(8)[^key-f1b6b14ccc92adc38d739cca0a31298c] In section 14A (conditions of licences: human application), in subsection (3), for the words from “the United Kingdom” to “Gibraltar” substitute “Northern Ireland from an EEA State”.
+(8)[^c-f1b6b14ccc92adc38d739cca0a31298c] In section 14A (conditions of licences: human application), in subsection (3), for the words from “the United Kingdom” to “Gibraltar” substitute “Northern Ireland from an EEA State”.
 
-(9)[^key-3a97edd7dd3cf8ff59aca12656d637f5] In section 15A (duties of the Authority in relation to serious adverse events and serious adverse reactions), in subsection (3), for the words from “If the Authority” to “Gibraltar” substitute “If the Authority, in relation to Northern Ireland, receives a request from a competent authority in an EEA state”.
+(9)[^c-3a97edd7dd3cf8ff59aca12656d637f5] In section 15A (duties of the Authority in relation to serious adverse events and serious adverse reactions), in subsection (3), for the words from “If the Authority” to “Gibraltar” substitute “If the Authority, in relation to Northern Ireland, receives a request from a competent authority in an EEA state”.
 
-(10)[^key-d5c13bef2da524803254d8df879a5f67] In section 15B (inspection of third country premises etc.)—
+(10)[^c-d5c13bef2da524803254d8df879a5f67] In section 15B (inspection of third country premises etc.)—
 
 - (a) for the heading substitute “Inspection of third country premises etc.: Northern Ireland”;
 - (b) in subsection (1)—
@@ -155,7 +155,7 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Amendm
   - (iii) in paragraph (c), omit “or in Gibraltar”;
 - (c) in subsection (4), after “imported” insert “into Northern Ireland”.
 
-(11)[^key-b4ffeaadec29a3894de83432fcb0c6cd] In section 15C (third country premises and third country suppliers: report of inspections etc.)—
+(11)[^c-b4ffeaadec29a3894de83432fcb0c6cd] In section 15C (third country premises and third country suppliers: report of inspections etc.)—
 
 - (a) for the heading substitute “Third country premises and third country suppliers: report of inspections etc: Northern Ireland”;
 - (b) in subsection (1), for the words from “This section” to “Gibraltar” substitute “This section applies in relation to Northern Ireland where the European Commission or a competent authority in an EEA state”.
@@ -163,13 +163,13 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Amendm
 (12) [^c23625081]In section 24 (directions as to particular matters)—
 
 - (a) in subsection (3A)—
-  - (i)[^key-b5349d80fe1ce0d70b6be0480ff5ac6c] for paragraph (c) (but not including the “or” that follows it) substitute—
+  - (i)[^c-b5349d80fe1ce0d70b6be0480ff5ac6c] for paragraph (c) (but not including the “or” that follows it) substitute—
 
     > - (c) in relation to Northern Ireland, between premises referred to in paragraphs (a) and (b) and tissue establishments accredited, designated, authorised or licensed under the laws, or other measures, of an EEA state which implement the first, second and third Directives,
 
     ;
   - (ii) in paragraph (d) for “country which is not an EEA state” substitute “ third country ”;
-- (aa)[^key-8d76c219759654c4286168d85585aeb5] for subsection (4) substitute—
+- (aa)[^c-8d76c219759654c4286168d85585aeb5] for subsection (4) substitute—
 
   > (4) Directions may authorise any person to whom a licence applies to—
   >
@@ -183,7 +183,7 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Amendm
   > (4ZA) Directions made by virtue of subsection (4) may provide for sections 12 to 14 of this Act to have effect with such modifications as may be specified in the directions.
 
   ;
-- (b)[^key-84b7bcc5fe401889d4b909a0aebe67c0] for subsection (4AD) substitute—
+- (b)[^c-84b7bcc5fe401889d4b909a0aebe67c0] for subsection (4AD) substitute—
 
   > (4AD) Where the Authority gives any directions under subsection (4) authorising any person to whom a licence applies to make any qualifying imports, it must—
   >
@@ -192,15 +192,15 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Amendm
 
   ;
 - (ba) in subsection (4AF), omit “into the United Kingdom”;
-- (c)[^key-887709ea6adcc9acc6bcc3061d58c142] after subsection (11) insert—
+- (c)[^c-887709ea6adcc9acc6bcc3061d58c142] after subsection (11) insert—
 
 > (11A) In relation to Great Britain, directions must specify the systems to be adopted for the identification of gametes and embryos intended for human application which the Authority considers appropriate to facilitate traceability.
 
 - (ca) in subsection (12), for “Directions must” substitute “In relation to Northern Ireland, directions must”;
-- (d)[^key-06ca53c111aa253b91404683369b7d7d] in subsection (12A), for “Directions must” substitute “In relation to Northern Ireland, directions must”;
+- (d)[^c-06ca53c111aa253b91404683369b7d7d] in subsection (12A), for “Directions must” substitute “In relation to Northern Ireland, directions must”;
 - (e) omit subsection (14).
 
-(13)[^key-a474bd99a977b1da1819a89737ff9553] In section 33A (disclosure of information), in subsection (2)(m), at the beginning insert “in relation to Northern Ireland,”.
+(13)[^c-a474bd99a977b1da1819a89737ff9553] In section 33A (disclosure of information), in subsection (2)(m), at the beginning insert “in relation to Northern Ireland,”.
 
 (14) Before section 43 (but after the heading “Miscellaneous and General”) insert—
 
@@ -224,7 +224,7 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Amendm
 >
 > (5) The provision that may be made in regulations under this section includes provision amending this Act and may modify, or further modify, the provisions of the second, third and fourth Directives as they apply by virtue of this Act.
 >
-> (6)[^key-ec0a79145b710a0f19ace71fff46dec9] The Secretary of State may only make regulations under this section in relation to Great Britain.
+> (6)[^c-ec0a79145b710a0f19ace71fff46dec9] The Secretary of State may only make regulations under this section in relation to Great Britain.
 
 .
 
@@ -247,10 +247,10 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Amendm
 
   > **A1.**
   >
-  > For the purposes of this Act, as it applies in relation to Great Britain,[^key-3bf8fa02a43277fd9891c65340103bed] the first, second and third Directives are to be read subject to the modifications set out in paragraphs 11A to 11C.
+  > For the purposes of this Act, as it applies in relation to Great Britain,[^c-3bf8fa02a43277fd9891c65340103bed] the first, second and third Directives are to be read subject to the modifications set out in paragraphs 11A to 11C.
 
   ;
-- (b)[^key-e6a29c11ceb64a3e27557d09c2ab5f32] in paragraph 3—
+- (b)[^c-e6a29c11ceb64a3e27557d09c2ab5f32] in paragraph 3—
   - (i) in the heading, at the end insert “: Great Britain”;
   - (ii) for “Licence” substitute “In relation to Great Britain, licence”;
   - (iii) in the words following sub-paragraph (b), for the words from “are necessary” to the end substitute “the Authority considers appropriate”;
@@ -276,7 +276,7 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Amendm
   >
   > - (a) in paragraph 1—
   >   - (i) the reference to Member States were a reference to the Authority;
-  >   - (ii) for “on their territory” there were substituted “in Great Britain[^key-7c2da04aaf000d5712c5af4a63c7b4f7]”;
+  >   - (ii) for “on their territory” there were substituted “in Great Britain[^c-7c2da04aaf000d5712c5af4a63c7b4f7]”;
   > - (b) paragraphs 2, 3 5 and 6 were omitted.
   >
   > (3) Article 14 is to be read as if—
@@ -369,14 +369,14 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Amendm
 
   > **A1.**
   >
-  > For the purposes of this Act, as it applies in relation to Great Britain,[^key-de97f4a2797a5698f827e432eaaa719f] the fourth Directive is to be read subject to the modifications set out in paragraph 3A.
+  > For the purposes of this Act, as it applies in relation to Great Britain,[^c-de97f4a2797a5698f827e432eaaa719f] the fourth Directive is to be read subject to the modifications set out in paragraph 3A.
   >
   > Directions
 
   ;
 - (b) for sub-paragraph 2(c), substitute—
 
-  > - (c)[^key-bd912b8ab69efd2b86207f231a581712] provide the Authority—
+  > - (c)[^c-bd912b8ab69efd2b86207f231a581712] provide the Authority—
   >   - (i) in relation to Great Britain, with any information or documents specified in the direction for the purposes of demonstrating traceability, and that the import is a one-off import within the meaning given by section 24(4AE),
   >   - (ii) in relation to Northern Ireland, with any information or documents specified in the direction for the purposes of securing compliance with the requirements of Articles 5(2) and 7(1) of the fourth Directive (requirements in relation to one-off imports).
 
@@ -389,7 +389,7 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Amendm
   >
   > (2) The Directive is to be read as if references to a third country were references to any country other than the United Kingdom.
   >
-  > (3) Article 2 is to be read as if for “the Union”, in each place where it occurs, there were substituted “Great Britain[^key-81b80b32c428e7bf7b19e7a90d9c49fd]”.
+  > (3) Article 2 is to be read as if for “the Union”, in each place where it occurs, there were substituted “Great Britain[^c-81b80b32c428e7bf7b19e7a90d9c49fd]”.
   >
   > (4) Article 5(1) is to be read as if—
   >
@@ -436,7 +436,7 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Amendm
 
   .
 
-(19)[^key-d22fcbf1c9fc6dd4fc71984fddb267c7] In Schedule 3B (inspection, entry, search and seizure)—
+(19)[^c-d22fcbf1c9fc6dd4fc71984fddb267c7] In Schedule 3B (inspection, entry, search and seizure)—
 
 - (a) in paragraph 1A—
   - (i) in sub-paragraph (1), in the words before paragraph (a), after “This paragraph applies” insert “in relation to Northern Ireland”;
@@ -452,7 +452,7 @@ These Regulations may be cited as the Human Fertilisation and Embryology (Amendm
 
 ## PART 3 — Amendment of subordinate legislation
 
-### 3. Amendment of the Human Fertilisation and Embryology (Quality and Safety) Regulations 2007[^key-01f473d5f0447f86360d6e80562562ed][^key-2f9757330641e44716892580172266db]
+### 3. Amendment of the Human Fertilisation and Embryology (Quality and Safety) Regulations 2007[^c-01f473d5f0447f86360d6e80562562ed][^c-2f9757330641e44716892580172266db]
 
 In regulation 2 of the Human Fertilisation and Embryology (Quality and Safety) Regulations 2007—
 
@@ -461,12 +461,12 @@ In regulation 2 of the Human Fertilisation and Embryology (Quality and Safety) R
 
 ## PART 4 — Transitional provision
 
-### 4. Transitional provision[^key-7079fb0d5bce07bf79feb930faa719e1]
+### 4. Transitional provision[^c-7079fb0d5bce07bf79feb930faa719e1]
 
-(1) For a period of six months beginning with IP completion day[^key-de91b9ab0d7c0b77f09fe737a43154b1], the requirements of the provisions listed in paragraph (2) do not apply to—
+(1) For a period of six months beginning with IP completion day[^c-de91b9ab0d7c0b77f09fe737a43154b1], the requirements of the provisions listed in paragraph (2) do not apply to—
 
-- (a) an import of gametes or embryos into Great Britain[^key-9395b49e9f5cc89891a8418eaf6e24a8] from an EEA state or Gibraltar; or
-- (b) an export of gametes or embryos from Great Britain[^key-0dd074480a9b9452d5b0bf442a88732c] into an EEA state or Gibraltar,
+- (a) an import of gametes or embryos into Great Britain[^c-9395b49e9f5cc89891a8418eaf6e24a8] from an EEA state or Gibraltar; or
+- (b) an export of gametes or embryos from Great Britain[^c-0dd074480a9b9452d5b0bf442a88732c] into an EEA state or Gibraltar,
 
 provided that the Authority is satisfied that the import or, as the case may be, export, meets requirements of traceability and standards of quality and safety equivalent to those laid down in the Act.
 
@@ -500,55 +500,55 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23624961]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-057386348e2d559208dfbf2c8d3c7fde]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-057386348e2d559208dfbf2c8d3c7fde]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ed8d997bff394edc745b2382c84d08f3]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ed8d997bff394edc745b2382c84d08f3]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23624971]: Marginal citation: [1990 c. 37](https://www.legislation.gov.uk/ukpga/1990/37). Relevant amendments have been made by sections 2, 22, 25, 28, 30 and 65 of, and Schedules 5 and 7 to, the [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22) and by [S.I. 2007/1522](https://www.legislation.gov.uk/uksi/2007/1522), 2014/2884 and 2018/334.
 
-[^key-adb43a4cf9c13d0232377a5395af9dda]: Textual amendment: Reg. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1307/regulation/3)
+[^c-adb43a4cf9c13d0232377a5395af9dda]: Textual amendment: Reg. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1307/regulation/3)
 
 [^c23624991]: Marginal citation: Section 2 was amended by sections 2 and 65 of, and paragraph 2 of Schedule 7 to, the Human Fertilisation and Embryology Act 2008 and by [S.I. 2007/1522](https://www.legislation.gov.uk/uksi/2007/1522) and 2018/334.
 
-[^key-fa7bec06354c34879767914450e004af]: Textual amendment: Reg. 2(3)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/4/a)
+[^c-fa7bec06354c34879767914450e004af]: Textual amendment: Reg. 2(3)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/4/a)
 
-[^key-56357e351ae2224ccaa029b00a6b1158]: Textual amendment: Words in reg. 2(3)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/4/b)
+[^c-56357e351ae2224ccaa029b00a6b1158]: Textual amendment: Words in reg. 2(3)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/4/b)
 
-[^key-7a4f4a8bd33ed494f321a82d19b43829]: Textual amendment: Reg. 2(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/4/c)
+[^c-7a4f4a8bd33ed494f321a82d19b43829]: Textual amendment: Reg. 2(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/4/c)
 
 [^c23625001]: Marginal citation: Section 2A was inserted by [S.I. 2007/1522](https://www.legislation.gov.uk/uksi/2007/1522).
 
-[^key-b956192b2b25c361488a13335d7dc088]: Textual amendment: Words in reg. 2(4) inserted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/1307/regulation/5)
+[^c-b956192b2b25c361488a13335d7dc088]: Textual amendment: Words in reg. 2(4) inserted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/1307/regulation/5)
 
-[^key-f8093722a566a29f4d1c883c41f58790]: Textual amendment: Reg. 2(5) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [6](https://www.legislation.gov.uk/uksi/2020/1307/regulation/6)
+[^c-f8093722a566a29f4d1c883c41f58790]: Textual amendment: Reg. 2(5) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [6](https://www.legislation.gov.uk/uksi/2020/1307/regulation/6)
 
-[^key-56c13d71d3440c8c0f6c7c767f72a0ad]: Textual amendment: Reg. 2(6) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [7](https://www.legislation.gov.uk/uksi/2020/1307/regulation/7)
+[^c-56c13d71d3440c8c0f6c7c767f72a0ad]: Textual amendment: Reg. 2(6) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [7](https://www.legislation.gov.uk/uksi/2020/1307/regulation/7)
 
-[^key-8f0865c0e65532dfa12f03e5532b30a6]: Textual amendment: Reg. 2(7) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/1307/regulation/8)
+[^c-8f0865c0e65532dfa12f03e5532b30a6]: Textual amendment: Reg. 2(7) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/1307/regulation/8)
 
-[^key-f1b6b14ccc92adc38d739cca0a31298c]: Textual amendment: Reg. 2(8) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1307/regulation/9)
+[^c-f1b6b14ccc92adc38d739cca0a31298c]: Textual amendment: Reg. 2(8) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1307/regulation/9)
 
-[^key-3a97edd7dd3cf8ff59aca12656d637f5]: Textual amendment: Reg. 2(9) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/1307/regulation/10)
+[^c-3a97edd7dd3cf8ff59aca12656d637f5]: Textual amendment: Reg. 2(9) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [10](https://www.legislation.gov.uk/uksi/2020/1307/regulation/10)
 
-[^key-d5c13bef2da524803254d8df879a5f67]: Textual amendment: Reg. 2(10) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/1307/regulation/11)
+[^c-d5c13bef2da524803254d8df879a5f67]: Textual amendment: Reg. 2(10) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [11](https://www.legislation.gov.uk/uksi/2020/1307/regulation/11)
 
-[^key-b4ffeaadec29a3894de83432fcb0c6cd]: Textual amendment: Reg. 2(11) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [12](https://www.legislation.gov.uk/uksi/2020/1307/regulation/12)
+[^c-b4ffeaadec29a3894de83432fcb0c6cd]: Textual amendment: Reg. 2(11) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [12](https://www.legislation.gov.uk/uksi/2020/1307/regulation/12)
 
 [^c23625081]: Marginal citation: Section 24 was amended by section 22 of the Human Fertilisation and Embryology Act 2008 and by [S.I. 2007/1522](https://www.legislation.gov.uk/uksi/2007/1522) and 2018/334.
 
-[^key-b5349d80fe1ce0d70b6be0480ff5ac6c]: Textual amendment: Reg. 2(12)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/13/a)
+[^c-b5349d80fe1ce0d70b6be0480ff5ac6c]: Textual amendment: Reg. 2(12)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/13/a)
 
-[^key-8d76c219759654c4286168d85585aeb5]: Textual amendment: Reg. 2(12)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/13/b)
+[^c-8d76c219759654c4286168d85585aeb5]: Textual amendment: Reg. 2(12)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/13/b)
 
-[^key-84b7bcc5fe401889d4b909a0aebe67c0]: Textual amendment: Reg. 2(12)(b)(ba) substituted for reg. 2(12)(b) (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [13(c)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/13/c)
+[^c-84b7bcc5fe401889d4b909a0aebe67c0]: Textual amendment: Reg. 2(12)(b)(ba) substituted for reg. 2(12)(b) (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [13(c)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/13/c)
 
-[^key-887709ea6adcc9acc6bcc3061d58c142]: Textual amendment: Reg. 2(12)(c)(ca) substituted for reg. 2(12)(c) (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [13(d)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/13/d)
+[^c-887709ea6adcc9acc6bcc3061d58c142]: Textual amendment: Reg. 2(12)(c)(ca) substituted for reg. 2(12)(c) (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [13(d)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/13/d)
 
-[^key-06ca53c111aa253b91404683369b7d7d]: Textual amendment: Reg. 2(12)(d)(e) substituted for reg. 2(12)(d) (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [13(e)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/13/e)
+[^c-06ca53c111aa253b91404683369b7d7d]: Textual amendment: Reg. 2(12)(d)(e) substituted for reg. 2(12)(d) (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [13(e)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/13/e)
 
-[^key-a474bd99a977b1da1819a89737ff9553]: Textual amendment: Reg. 2(13) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [14](https://www.legislation.gov.uk/uksi/2020/1307/regulation/14)
+[^c-a474bd99a977b1da1819a89737ff9553]: Textual amendment: Reg. 2(13) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [14](https://www.legislation.gov.uk/uksi/2020/1307/regulation/14)
 
-[^key-ec0a79145b710a0f19ace71fff46dec9]: Textual amendment: Words in reg. 2(14) inserted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [15](https://www.legislation.gov.uk/uksi/2020/1307/regulation/15)
+[^c-ec0a79145b710a0f19ace71fff46dec9]: Textual amendment: Words in reg. 2(14) inserted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [15](https://www.legislation.gov.uk/uksi/2020/1307/regulation/15)
 
 [^c23625101]: Marginal citation: Section 45 was amended by section 30 of the Human Fertilisation and Embryology Act 2008.
 
@@ -556,34 +556,34 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23625121]: Marginal citation: Schedule 3A was inserted by [S.I. 2007/1522](https://www.legislation.gov.uk/uksi/2007/1522) and amended by [S.I. 2018/334](https://www.legislation.gov.uk/uksi/2018/334).
 
-[^key-3bf8fa02a43277fd9891c65340103bed]: Textual amendment: Words in reg. 2(17)(a) inserted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(a)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/a)
+[^c-3bf8fa02a43277fd9891c65340103bed]: Textual amendment: Words in reg. 2(17)(a) inserted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(a)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/a)
 
-[^key-e6a29c11ceb64a3e27557d09c2ab5f32]: Textual amendment: Reg. 2(17)(b)(ba) substituted for reg. 2(17)(b) (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/b)
+[^c-e6a29c11ceb64a3e27557d09c2ab5f32]: Textual amendment: Reg. 2(17)(b)(ba) substituted for reg. 2(17)(b) (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/b)
 
-[^key-7c2da04aaf000d5712c5af4a63c7b4f7]: Textual amendment: Words in reg. 2(17)(c) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(c)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/c)
+[^c-7c2da04aaf000d5712c5af4a63c7b4f7]: Textual amendment: Words in reg. 2(17)(c) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(c)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/c)
 
 [^c23625131]: Marginal citation: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618).
 
 [^c23625141]: Marginal citation: Schedule 3AA was inserted by [S.I. 2018/334](https://www.legislation.gov.uk/uksi/2018/334).
 
-[^key-de97f4a2797a5698f827e432eaaa719f]: Textual amendment: Words in reg. 2(18)(a) inserted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [17(a)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/17/a)
+[^c-de97f4a2797a5698f827e432eaaa719f]: Textual amendment: Words in reg. 2(18)(a) inserted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [17(a)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/17/a)
 
-[^key-bd912b8ab69efd2b86207f231a581712]: Textual amendment: Words in reg. 2(18)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/17/b)
+[^c-bd912b8ab69efd2b86207f231a581712]: Textual amendment: Words in reg. 2(18)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/17/b)
 
-[^key-81b80b32c428e7bf7b19e7a90d9c49fd]: Textual amendment: Words in reg. 2(18)(c) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [17(c)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/17/c)
+[^c-81b80b32c428e7bf7b19e7a90d9c49fd]: Textual amendment: Words in reg. 2(18)(c) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [17(c)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/17/c)
 
 [^c23625151]: Marginal citation: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12); section 3(9) was amended by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419).
 
-[^key-d22fcbf1c9fc6dd4fc71984fddb267c7]: Textual amendment: Reg. 2(19) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [18](https://www.legislation.gov.uk/uksi/2020/1307/regulation/18)
+[^c-d22fcbf1c9fc6dd4fc71984fddb267c7]: Textual amendment: Reg. 2(19) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [18](https://www.legislation.gov.uk/uksi/2020/1307/regulation/18)
 
-[^key-01f473d5f0447f86360d6e80562562ed]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-01f473d5f0447f86360d6e80562562ed]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2f9757330641e44716892580172266db]: Textual amendment: Reg. 3 substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [19](https://www.legislation.gov.uk/uksi/2020/1307/regulation/19)
+[^c-2f9757330641e44716892580172266db]: Textual amendment: Reg. 3 substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [19](https://www.legislation.gov.uk/uksi/2020/1307/regulation/19)
 
-[^key-7079fb0d5bce07bf79feb930faa719e1]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7079fb0d5bce07bf79feb930faa719e1]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-de91b9ab0d7c0b77f09fe737a43154b1]: Textual amendment: Words in reg. 4(1) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/20/a)
+[^c-de91b9ab0d7c0b77f09fe737a43154b1]: Textual amendment: Words in reg. 4(1) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/20/a)
 
-[^key-9395b49e9f5cc89891a8418eaf6e24a8]: Textual amendment: Words in reg. 4(1)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/20/b)
+[^c-9395b49e9f5cc89891a8418eaf6e24a8]: Textual amendment: Words in reg. 4(1)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/20/b)
 
-[^key-0dd074480a9b9452d5b0bf442a88732c]: Textual amendment: Words in reg. 4(1)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/20/b)
+[^c-0dd074480a9b9452d5b0bf442a88732c]: Textual amendment: Words in reg. 4(1)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/20/b)

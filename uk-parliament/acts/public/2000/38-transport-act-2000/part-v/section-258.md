@@ -22,9 +22,9 @@ summary: ''
 
 (1) Section 131 of the [^c14883401]Road Traffic Act 1988 (appeals to Secretary of State by persons aggrieved by decision of registrar of approved driving instructors) is amended as follows.
 
-(2)[^key-2f5355901ce774637e3c5aaebe806fe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2f5355901ce774637e3c5aaebe806fe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-2f5355901ce774637e3c5aaebe806fe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2f5355901ce774637e3c5aaebe806fe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) After subsection (4) insert—
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c14883401]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-2f5355901ce774637e3c5aaebe806fe9]: Textual amendment: S. 258(2)(3) repealed (1.9.2009) by [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1885/schedule/3)
+[^c-2f5355901ce774637e3c5aaebe806fe9]: Textual amendment: S. 258(2)(3) repealed (1.9.2009) by [The Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 (S.I. 2009/1885)](https://www.legislation.gov.uk/uksi/2009/1885), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1885/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1885/schedule/3)

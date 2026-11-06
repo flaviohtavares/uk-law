@@ -42,7 +42,7 @@ Whereas a draft of this instrument was laid before Parliament in accordance with
 
 Now, therefore, the Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 214(1), (2)(a) to (j) and (l), 315(2)(a), (4) and (5) and 318(1) of the Pensions Act 2004[^f00002], and of all other powers enabling him in that behalf, by this instrument, which contains regulations made before the end of the period of six months beginning with the coming into force of the provisions of that Act by virtue of which they are made[^f00003], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-617f7e8cf70a7fdb729ae41be635ef21]
+## 1. Citation, commencement and interpretation[^c-617f7e8cf70a7fdb729ae41be635ef21]
 
 (1) These Regulations may be cited as the Pension Protection Fund (Investigation by PPF Ombudsman of Complaints of Maladministration) Regulations 2005.
 
@@ -57,7 +57,7 @@ Now, therefore, the Secretary of State for Work and Pensions, in exercise of the
 - “the referring party” means the person who makes the reference under regulation 2 (but see regulation 16 (representation));
 - “relevant complaint” has the meaning given by section 208(2) of the Act (meaning of “relevant complaint”).
 
-## 2. Reference of a referable matter[^key-89dc4853c4d01d380a92a8ef3ecfdf64]
+## 2. Reference of a referable matter[^c-89dc4853c4d01d380a92a8ef3ecfdf64]
 
 (1) This regulation applies where, following a decision by the Board on matters complained of in a relevant complaint, those matters complained of—
 
@@ -85,7 +85,7 @@ Now, therefore, the Secretary of State for Work and Pensions, in exercise of the
 
   the date he notifies to the applicant and any other person to whom regulations made under section 208(4)(d)(ii) of the Act require notice of the decision to be given as being the date by which he considers it reasonable that the decision should have been given.
 
-## 3. Time for making a reference[^key-4055e972e6b456f90af8383b0d3370f4]
+## 3. Time for making a reference[^c-4055e972e6b456f90af8383b0d3370f4]
 
 A reference under regulation 2 must be sent to the PPF Ombudsman––
 
@@ -96,7 +96,7 @@ A reference under regulation 2 must be sent to the PPF Ombudsman––
 
   whichever is the later.
 
-## 4. Form and content of a reference[^key-7a3ddc87d56d19a614ed226c42c42b77]
+## 4. Form and content of a reference[^c-7a3ddc87d56d19a614ed226c42c42b77]
 
 (1) A reference under regulation 2 must be made in writing and must include—
 
@@ -117,7 +117,7 @@ A reference under regulation 2 must be sent to the PPF Ombudsman––
 
 (5) In paragraph (4) “electronic communications network” has the same meaning as in section 32 of the Communications Act 2003[^f00004] (meaning of electronic communications network and services).
 
-## 5. Procedure on receipt of a reference[^key-5d270afe866fb2415a3a3ea7d17ef314]
+## 5. Procedure on receipt of a reference[^c-5d270afe866fb2415a3a3ea7d17ef314]
 
 (1) As soon as practicable after receiving a reference that is duly made in accordance with regulations 3 and 4, the PPF Ombudsman must––
 
@@ -152,7 +152,7 @@ A reference under regulation 2 must be sent to the PPF Ombudsman––
 - (b) the PPF Ombudsman is satisfied that the referring party can amend the reference so that it is duly made in accordance with regulation 4 within such period as the PPF Ombudsman requests; and
 - (c) the reference is so amended.
 
-## 6. Duty to investigate and determine a referable matter[^key-ad91d8e0f0fb231aa77dea0b549831e6]
+## 6. Duty to investigate and determine a referable matter[^c-ad91d8e0f0fb231aa77dea0b549831e6]
 
 (1) Where a reference of a referable matter is duly made in accordance with regulations 3 and 4, the PPF Ombudsman must—
 
@@ -174,7 +174,7 @@ A reference under regulation 2 must be sent to the PPF Ombudsman––
 
 the PPF Ombudsman may determine the matter forthwith without any further investigation.
 
-## 7. Conduct of investigation: general[^key-42cf5f41e03e3ffff4febe974bc03f0e]
+## 7. Conduct of investigation: general[^c-42cf5f41e03e3ffff4febe974bc03f0e]
 
 (1) For the purposes of investigating the referred matter, the PPF Ombudsman may consider any evidence before him.
 
@@ -203,7 +203,7 @@ the PPF Ombudsman may determine the matter forthwith without any further investi
 
 as he thinks fit.
 
-## 8. Written representations and right to request an oral hearing and be heard[^key-55c74569bc887df6282580a8cfbeee84]
+## 8. Written representations and right to request an oral hearing and be heard[^c-55c74569bc887df6282580a8cfbeee84]
 
 (1) The referring party, the Board and any person notified of the reference under regulation 5(1)(b) may—
 
@@ -230,7 +230,7 @@ as he thinks fit.
 - (a) must consider it; and
 - (b) if he considers that it is not appropriate to hold such a hearing, must give his reasons in writing to the person making the request.
 
-## 9. Supplementary statements and amendment and withdrawal of a reference[^key-325a2932eb8a671a5bdb88a57ecf5f2b]
+## 9. Supplementary statements and amendment and withdrawal of a reference[^c-325a2932eb8a671a5bdb88a57ecf5f2b]
 
 (1) The referring party may at any time during the investigation of a reference by the PPF Ombudsman, if the PPF Ombudsman consents, submit a supplementary statement in writing in respect of the reference.
 
@@ -253,7 +253,7 @@ as he thinks fit.
 - (b) give notice of it in such form and manner as he considers appropriate to any person notified of the reference under regulation 5(1)(b); and
 - (c) in the case of an amendment, make it available for inspection by any such person.
 
-## 10. Time and place of oral hearings[^key-de5b9a0804ab39d5edcdb7e4e327e6b1]
+## 10. Time and place of oral hearings[^c-de5b9a0804ab39d5edcdb7e4e327e6b1]
 
 (1) If the PPF Ombudsman decides that it is appropriate to hold an oral hearing in connection with the investigation of a referable matter that has been referred to him, he must fix the time and place of the hearing, having due regard to any representations made to him by the referring party and the Board about the time and place that would be convenient for them.
 
@@ -294,7 +294,7 @@ or at such later time as the referring party and the Board may agree.
 
 (7) In any case where the hearing is adjourned, no further notice need be given by the PPF Ombudsman under this regulation if the time and place at which the hearing will be reconvened are announced before the adjournment.
 
-## 11. Attendance at oral hearings[^key-c2da8cdba3b0341a87d6f39cf3b61f95]
+## 11. Attendance at oral hearings[^c-c2da8cdba3b0341a87d6f39cf3b61f95]
 
 (1) At an oral hearing—
 
@@ -329,7 +329,7 @@ may call witnesses to give evidence that is relevant to the matter being investi
 - (a) in England and Wales, a county court; or
 - (b) in Scotland, the sheriff.
 
-## 12. Oral hearings usually to be held in public[^key-aceb4a297c9516db57390cd193fa2c3d]
+## 12. Oral hearings usually to be held in public[^c-aceb4a297c9516db57390cd193fa2c3d]
 
 (1) An oral hearing must be held in public unless in the opinion of the PPF Ombudsman it is appropriate for the hearing, or any part of it, to be held in private.
 
@@ -337,7 +337,7 @@ may call witnesses to give evidence that is relevant to the matter being investi
 
 (3) A person whose conduct has disrupted or is likely to disrupt a hearing may be excluded by the PPF Ombudsman.
 
-## 13. Costs and expenses[^key-3a6cb442c436024d0a24a0ca4ecccf23]
+## 13. Costs and expenses[^c-3a6cb442c436024d0a24a0ca4ecccf23]
 
 (1) Where under regulation 7(2)(d), the PPF Ombudsman refers a question which arises out of a matter referred to him to a person who, in his opinion, is able to provide an expert opinion in relation to that question, the PPF Ombudsman may pay that person such amount as he considers reasonable in respect of costs or expenses reasonably incurred by that person in connection with that referral.
 
@@ -363,7 +363,7 @@ he may direct the person who acted, as the case may be, vexatiously or unreasona
 
 (5) Before giving a direction to a person under paragraph (3), the PPF Ombudsman must give the person an opportunity to make representations.
 
-## 14. Reaching and giving determinations and consequential directions[^key-04094ce293e9da205cc6fb5fade84753]
+## 14. Reaching and giving determinations and consequential directions[^c-04094ce293e9da205cc6fb5fade84753]
 
 (1) If the PPF Ombudsman determines that the decision of the Investigation Committee or, as the case may be, the Board about the referable matter referred to him was reached correctly, he must—
 
@@ -407,7 +407,7 @@ he may direct the person who acted, as the case may be, vexatiously or unreasona
 
 it must send a copy of the varied or replacement determination, direction or other decision to the PPF Ombudsman, the referring party and any person notified of the reference under regulation 5(1)(b).
 
-## 15. Combining references or references and reviews[^key-e510c31192a5ecf5a350b198c69769e6]
+## 15. Combining references or references and reviews[^c-e510c31192a5ecf5a350b198c69769e6]
 
 (1) Where––
 
@@ -447,7 +447,7 @@ for the purposes of these Regulations he may treat them as a single reference an
 - (b) the Board; or
 - (c) a person notified under regulation 5(1)(b) in respect of the reference or required to be so notified.
 
-## 16. Representation[^key-d2530f6ccf4fef70be724ab67abc32d6]
+## 16. Representation[^c-d2530f6ccf4fef70be724ab67abc32d6]
 
 (1) A person within regulation 2(2)(a) or (b) may appoint a person to act as his representative for the purposes of these Regulations by sending written notice of the appointment to the PPF Ombudsman.
 
@@ -461,7 +461,7 @@ the PPF Ombudsman may allow a person to represent, or to continue to represent, 
 
 (3) In any case where by virtue of this regulation a representative is acting on behalf of a person for the purposes of these Regulations, any reference to the person in these Regulations is to be read as a reference to the representative acting in his capacity as such, except where the context otherwise requires.
 
-## 17. Restriction on use of documents and information provided for investigations[^key-95683ca232aa4923a1f90623d1b8bb3e]
+## 17. Restriction on use of documents and information provided for investigations[^c-95683ca232aa4923a1f90623d1b8bb3e]
 
 It is a condition of the supply or making available for inspection of any document or other information under these Regulations that any person to whom it is supplied or made available for inspection may only use it—
 
@@ -473,7 +473,7 @@ It is a condition of the supply or making available for inspection of any docume
 
   for the purposes of the reference of the reviewable matter.
 
-## 18. Miscellaneous powers of the PPF Ombudsman[^key-4827230ebf697852bd781705065e77e6]
+## 18. Miscellaneous powers of the PPF Ombudsman[^c-4827230ebf697852bd781705065e77e6]
 
 (1) The PPF Ombudsman may—
 
@@ -487,13 +487,13 @@ It is a condition of the supply or making available for inspection of any docume
 - (a) send notice that he proposes to make it to the referring party or, as the case may be, the person who made the representation; and
 - (b) give him the opportunity to show cause why such an order should not be made.
 
-## 19. Irregularities[^key-130c415e00291c77ae8c014c2f705790]
+## 19. Irregularities[^c-130c415e00291c77ae8c014c2f705790]
 
 (1) Any irregularity resulting from failure to comply with any provisions of these Regulations concerning any proceedings does not of itself render the proceedings void.
 
 (2) Clerical mistakes in any determination made or direction given under these Regulations or any error in such a document arising from an accidental slip or omission may be corrected by the PPF Ombudsman by certificate under his hand.
 
-## 20. Substituted service[^key-eb35545fa1a1db4a63ae62bc717affb4]
+## 20. Substituted service[^c-eb35545fa1a1db4a63ae62bc717affb4]
 
 (1) This regulation applies if––
 
@@ -574,44 +574,44 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00003]: Footnote: *See* section 317(2)(c) of the Pensions Act 2004 which provides that the obligation under section 317(1) of that Act for the Secretary of State to consult such persons as he considers appropriate before making regulations by virtue of the provisions of the Act (other than Part 8) does not apply where regulations are made before the end of the period of six months beginning with the coming into force of the provisions of that Act by virtue of which they are made.
 
-[^key-617f7e8cf70a7fdb729ae41be635ef21]: Commencement: Reg. 1 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-617f7e8cf70a7fdb729ae41be635ef21]: Commencement: Reg. 1 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-89dc4853c4d01d380a92a8ef3ecfdf64]: Commencement: Reg. 2 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-89dc4853c4d01d380a92a8ef3ecfdf64]: Commencement: Reg. 2 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-4055e972e6b456f90af8383b0d3370f4]: Commencement: Reg. 3 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-4055e972e6b456f90af8383b0d3370f4]: Commencement: Reg. 3 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-7a3ddc87d56d19a614ed226c42c42b77]: Commencement: Reg. 4 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-7a3ddc87d56d19a614ed226c42c42b77]: Commencement: Reg. 4 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
 [^f00004]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-5d270afe866fb2415a3a3ea7d17ef314]: Commencement: Reg. 5 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-5d270afe866fb2415a3a3ea7d17ef314]: Commencement: Reg. 5 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-ad91d8e0f0fb231aa77dea0b549831e6]: Commencement: Reg. 6 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-ad91d8e0f0fb231aa77dea0b549831e6]: Commencement: Reg. 6 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-42cf5f41e03e3ffff4febe974bc03f0e]: Commencement: Reg. 7 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-42cf5f41e03e3ffff4febe974bc03f0e]: Commencement: Reg. 7 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-55c74569bc887df6282580a8cfbeee84]: Commencement: Reg. 8 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-55c74569bc887df6282580a8cfbeee84]: Commencement: Reg. 8 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-325a2932eb8a671a5bdb88a57ecf5f2b]: Commencement: Reg. 9 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-325a2932eb8a671a5bdb88a57ecf5f2b]: Commencement: Reg. 9 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-de5b9a0804ab39d5edcdb7e4e327e6b1]: Commencement: Reg. 10 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-de5b9a0804ab39d5edcdb7e4e327e6b1]: Commencement: Reg. 10 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-c2da8cdba3b0341a87d6f39cf3b61f95]: Commencement: Reg. 11 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-c2da8cdba3b0341a87d6f39cf3b61f95]: Commencement: Reg. 11 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-aceb4a297c9516db57390cd193fa2c3d]: Commencement: Reg. 12 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-aceb4a297c9516db57390cd193fa2c3d]: Commencement: Reg. 12 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-3a6cb442c436024d0a24a0ca4ecccf23]: Commencement: Reg. 13 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-3a6cb442c436024d0a24a0ca4ecccf23]: Commencement: Reg. 13 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-04094ce293e9da205cc6fb5fade84753]: Commencement: Reg. 14 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-04094ce293e9da205cc6fb5fade84753]: Commencement: Reg. 14 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-e510c31192a5ecf5a350b198c69769e6]: Commencement: Reg. 15 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-e510c31192a5ecf5a350b198c69769e6]: Commencement: Reg. 15 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-d2530f6ccf4fef70be724ab67abc32d6]: Commencement: Reg. 16 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-d2530f6ccf4fef70be724ab67abc32d6]: Commencement: Reg. 16 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-95683ca232aa4923a1f90623d1b8bb3e]: Commencement: Reg. 17 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-95683ca232aa4923a1f90623d1b8bb3e]: Commencement: Reg. 17 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-4827230ebf697852bd781705065e77e6]: Commencement: Reg. 18 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-4827230ebf697852bd781705065e77e6]: Commencement: Reg. 18 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-130c415e00291c77ae8c014c2f705790]: Commencement: Reg. 19 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-130c415e00291c77ae8c014c2f705790]: Commencement: Reg. 19 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
 
-[^key-eb35545fa1a1db4a63ae62bc717affb4]: Commencement: Reg. 20 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)
+[^c-eb35545fa1a1db4a63ae62bc717affb4]: Commencement: Reg. 20 in force at 21.7.2005, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2025/regulation/1/2)

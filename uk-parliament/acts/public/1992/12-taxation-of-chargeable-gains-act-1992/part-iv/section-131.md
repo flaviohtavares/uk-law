@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Indexation allowance.[^key-f803d2ac1a5677655c2902d0bdfc6765][^key-ffcc932369aa9c7db71aa422068348ed][^key-998e95bfbda90e55ce07a546b2811157][^key-9c853e74e336cd73cadade2d1faa47f1][^key-516cf30648b94f4e161c90c7b256dc4d]
+## 131. Indexation allowance.[^c-f803d2ac1a5677655c2902d0bdfc6765][^c-ffcc932369aa9c7db71aa422068348ed][^c-998e95bfbda90e55ce07a546b2811157][^c-9c853e74e336cd73cadade2d1faa47f1][^c-516cf30648b94f4e161c90c7b256dc4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,12 +29,12 @@ summary: ''
 
 ## Annotations
 
-[^key-f803d2ac1a5677655c2902d0bdfc6765]: Modification: Ss. 127-131 excluded (24.7.1996) by [Broadcasting Act 1996 (c. 55)](https://www.legislation.gov.uk/ukpga/1996/55), [s. 149(1)](https://www.legislation.gov.uk/ukpga/1996/55/section/149/1), [Sch. 7 para. 7(1)(a)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/7/1/a) (with [Sch. 7 para. 9(1)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/9/1))
+[^c-f803d2ac1a5677655c2902d0bdfc6765]: Modification: Ss. 127-131 excluded (24.7.1996) by [Broadcasting Act 1996 (c. 55)](https://www.legislation.gov.uk/ukpga/1996/55), [s. 149(1)](https://www.legislation.gov.uk/ukpga/1996/55/section/149/1), [Sch. 7 para. 7(1)(a)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/7/1/a) (with [Sch. 7 para. 9(1)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/7/paragraph/9/1))
 
-[^key-ffcc932369aa9c7db71aa422068348ed]: Modification: Ss. 127-131 restricted by [The Personal Equity Plan Regulations 1989 (S.I. 1989/469)](https://www.legislation.gov.uk/uksi/1989/469), reg. 27(3) (as substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [S.I. 1998/1869](https://www.legislation.gov.uk/uksi/1998/1869), regs. 1(1), 12)
+[^c-ffcc932369aa9c7db71aa422068348ed]: Modification: Ss. 127-131 restricted by [The Personal Equity Plan Regulations 1989 (S.I. 1989/469)](https://www.legislation.gov.uk/uksi/1989/469), reg. 27(3) (as substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [S.I. 1998/1869](https://www.legislation.gov.uk/uksi/1998/1869), regs. 1(1), 12)
 
-[^key-998e95bfbda90e55ce07a546b2811157]: Modification: Ss. 127-131 restricted (6.4.1999) by [The Individual Savings Account Regulations 1998 (S.I. 1998/1870)](https://www.legislation.gov.uk/uksi/1998/1870), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1870/regulation/1), [34(4)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/34/4)
+[^c-998e95bfbda90e55ce07a546b2811157]: Modification: Ss. 127-131 restricted (6.4.1999) by [The Individual Savings Account Regulations 1998 (S.I. 1998/1870)](https://www.legislation.gov.uk/uksi/1998/1870), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1870/regulation/1), [34(4)](https://www.legislation.gov.uk/uksi/1998/1870/regulation/34/4)
 
-[^key-9c853e74e336cd73cadade2d1faa47f1]: Modification: Ss. 127-131 applied by [The Authorised Investment Funds (Tax) Regulations 2006 (S.I. 2006/964)](https://www.legislation.gov.uk/uksi/2006/964), regs. 69Z24E(2), 69Z24F(3) (as inserted (1.8.2012) by [S.I. 2012/1783](https://www.legislation.gov.uk/uksi/2012/1783), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1783/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/1783/regulation/4))
+[^c-9c853e74e336cd73cadade2d1faa47f1]: Modification: Ss. 127-131 applied by [The Authorised Investment Funds (Tax) Regulations 2006 (S.I. 2006/964)](https://www.legislation.gov.uk/uksi/2006/964), regs. 69Z24E(2), 69Z24F(3) (as inserted (1.8.2012) by [S.I. 2012/1783](https://www.legislation.gov.uk/uksi/2012/1783), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1783/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/1783/regulation/4))
 
-[^key-516cf30648b94f4e161c90c7b256dc4d]: Modification: [Ss. 127-131](https://www.legislation.gov.uk/ukpga/1992/12/section/127) applied (with modifications) (with application in accordance with Sch. 3 para. 5(1)-(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 3 para. 5(7)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/5/7/a)
+[^c-516cf30648b94f4e161c90c7b256dc4d]: Modification: [Ss. 127-131](https://www.legislation.gov.uk/ukpga/1992/12/section/127) applied (with modifications) (with application in accordance with Sch. 3 para. 5(1)-(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 3 para. 5(7)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/5/7/a)

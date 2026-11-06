@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Strategy and policy statement[^key-633dee962302130dddc5e53c2995414e][^key-1ba5588a00ba2be05b495a4e4eb4baf0]
+## 16. Strategy and policy statement[^c-633dee962302130dddc5e53c2995414e][^c-1ba5588a00ba2be05b495a4e4eb4baf0]
 
 *Extent: E+W+S+N.I.*
 
@@ -203,6 +203,6 @@ After section 4 of PPERA insert—
 
 ## Annotations
 
-[^key-633dee962302130dddc5e53c2995414e]: Commencement: S. 16 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-633dee962302130dddc5e53c2995414e]: Commencement: S. 16 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-1ba5588a00ba2be05b495a4e4eb4baf0]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/37/section/16) in force at 19.8.2022 by [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2)
+[^c-1ba5588a00ba2be05b495a4e4eb4baf0]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/37/section/16) in force at 19.8.2022 by [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2)

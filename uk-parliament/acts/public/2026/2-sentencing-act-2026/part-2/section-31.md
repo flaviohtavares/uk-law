@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Further release after recall: relevant young offenders suitable for automatic release[^key-dfc424bdb0a63609ea0693b284c0e4bf][^key-abcd9bba6d1f2fd52448657ad052dd15]
+## 31. Further release after recall: relevant young offenders suitable for automatic release[^c-dfc424bdb0a63609ea0693b284c0e4bf][^c-abcd9bba6d1f2fd52448657ad052dd15]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dfc424bdb0a63609ea0693b284c0e4bf]: Commencement: S. 31 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-dfc424bdb0a63609ea0693b284c0e4bf]: Commencement: S. 31 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-abcd9bba6d1f2fd52448657ad052dd15]: Commencement: S. 31 in force at 31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 by [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/ii), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-abcd9bba6d1f2fd52448657ad052dd15]: Commencement: S. 31 in force at 31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 by [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/ii), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)

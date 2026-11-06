@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Warrants for entry[^key-bbbfd72458e8962113b40ffeeb80219a]
+## 37. Warrants for entry[^c-bbbfd72458e8962113b40ffeeb80219a]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbbfd72458e8962113b40ffeeb80219a]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2007/10/section/37) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-bbbfd72458e8962113b40ffeeb80219a]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2007/10/section/37) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

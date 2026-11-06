@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Jobholders excluded from automatic re-enrolment[^key-ee18e7e2cb052efc44e549bef37d2e16]
+## 14. Jobholders excluded from automatic re-enrolment[^c-ee18e7e2cb052efc44e549bef37d2e16]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee18e7e2cb052efc44e549bef37d2e16]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2010/122/regulation/14) revoked (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [14(a)](https://www.legislation.gov.uk/nisr/2015/310/regulation/14/a)
+[^c-ee18e7e2cb052efc44e549bef37d2e16]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/nisr/2010/122/regulation/14) revoked (6.8.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/310)](https://www.legislation.gov.uk/nisr/2015/310), [regs. 1](https://www.legislation.gov.uk/nisr/2015/310/regulation/1), [14(a)](https://www.legislation.gov.uk/nisr/2015/310/regulation/14/a)

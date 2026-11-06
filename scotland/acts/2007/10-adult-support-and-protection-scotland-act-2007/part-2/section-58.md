@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Accounts and funds[^key-e5fb5d6b6573248dd9537e05f51cb856]
+## 58. Accounts and funds[^c-e5fb5d6b6573248dd9537e05f51cb856]
 
 *Extent: S*
 
@@ -572,4 +572,4 @@ For Part 3 of the 2000 Act substitute—
 
 ## Annotations
 
-[^key-e5fb5d6b6573248dd9537e05f51cb856]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2007/10/section/58) in force at 1.4.2008 by [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1) (with [arts. 3](https://www.legislation.gov.uk/ssi/2008/49/article/3), [4](https://www.legislation.gov.uk/ssi/2008/49/article/4))
+[^c-e5fb5d6b6573248dd9537e05f51cb856]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2007/10/section/58) in force at 1.4.2008 by [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1) (with [arts. 3](https://www.legislation.gov.uk/ssi/2008/49/article/3), [4](https://www.legislation.gov.uk/ssi/2008/49/article/4))

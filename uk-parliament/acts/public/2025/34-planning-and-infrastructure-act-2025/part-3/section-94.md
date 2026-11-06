@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. General duties when exercising functions relating to EDPs[^key-5c69b8f38418936bc099d9e9ccf73914][^key-44babbea2317afdd8d4df11144b441ff]
+## 94. General duties when exercising functions relating to EDPs[^c-5c69b8f38418936bc099d9e9ccf73914][^c-44babbea2317afdd8d4df11144b441ff]
 
 *Extent: E+W*
 
@@ -75,6 +75,6 @@ so far as Natural England or the Secretary of State considers them to be relevan
 
 ## Annotations
 
-[^key-5c69b8f38418936bc099d9e9ccf73914]: Commencement: S. 94 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-5c69b8f38418936bc099d9e9ccf73914]: Commencement: S. 94 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-44babbea2317afdd8d4df11144b441ff]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2025/34/section/94) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(h)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/h)
+[^c-44babbea2317afdd8d4df11144b441ff]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2025/34/section/94) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(h)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/h)

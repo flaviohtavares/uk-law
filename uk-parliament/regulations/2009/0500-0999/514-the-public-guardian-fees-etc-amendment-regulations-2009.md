@@ -46,21 +46,21 @@ Coming into force
 
 The Lord Chancellor makes these Regulations in exercise of the powers conferred by sections 58(3) and (4) and 65(1) of the Mental Capacity Act 2005[^f00001].
 
-## 1. Citation and commencement[^key-46fa855b29c2a3b08612a4b7ba7f9188]
+## 1. Citation and commencement[^c-46fa855b29c2a3b08612a4b7ba7f9188]
 
 These Regulations may be cited as the Public Guardian (Fees, etc.) (Amendment) Regulations 2009 and come into force on 1st April 2009.
 
-## 2. Amendment of the Public Guardian (Fees, etc.) Regulations 2007[^key-e5fe275b508414387a24058391f91986]
+## 2. Amendment of the Public Guardian (Fees, etc.) Regulations 2007[^c-e5fe275b508414387a24058391f91986]
 
 The Public Guardian (Fees, etc.) Regulations 2007[^f00002] are amended as follows.
 
-**3.**[^key-ba80ddbdb3a772972c0a9162876cc854] In regulation 2 (interpretation), after the definition of “court”, insert—
+**3.**[^c-ba80ddbdb3a772972c0a9162876cc854] In regulation 2 (interpretation), after the definition of “court”, insert—
 
 > - “office copy” means a true copy of the original marked by the Public Guardian as being an office copy;
 
 .
 
-**4.**[^key-488d1e393bfbd3419439c5470abf2109] After regulation 4 (enduring power of attorney registration fee), insert—
+**4.**[^c-488d1e393bfbd3419439c5470abf2109] After regulation 4 (enduring power of attorney registration fee), insert—
 
 > **4A. Enduring power of attorney office copy fee**
 >
@@ -70,7 +70,7 @@ The Public Guardian (Fees, etc.) Regulations 2007[^f00002] are amended as follow
 
 .
 
-**5.**[^key-a121cf3ee9d5bb3f6a75d8c8d43407f8] After regulation 5 (lasting power of attorney registration fee), insert—
+**5.**[^c-a121cf3ee9d5bb3f6a75d8c8d43407f8] After regulation 5 (lasting power of attorney registration fee), insert—
 
 > **5A. Lasting power of attorney office copy fee**
 >
@@ -80,16 +80,16 @@ The Public Guardian (Fees, etc.) Regulations 2007[^f00002] are amended as follow
 
 .
 
-**6.**[^key-9a593f5eb3c0e56d05cfa896784fb577] In regulation 7(1) (appointment of deputy fee), omit from “; or” to the end.
+**6.**[^c-9a593f5eb3c0e56d05cfa896784fb577] In regulation 7(1) (appointment of deputy fee), omit from “; or” to the end.
 
-**7.**[^key-7fedc298f8bec69aa876febb3d38474d] In regulation 8 (appointment of deputy: supervision fees)—
+**7.**[^c-7fedc298f8bec69aa876febb3d38474d] In regulation 8 (appointment of deputy: supervision fees)—
 
 - (a) in sub-paragraph (1), omit from “; or” to the end;
 - (b) after sub-paragraph (3)(a) insert—
   - (aa) type IIA (intermediate); and
 - (c) in paragraph (4), after “type I (highest) insert “, type IIA (intermediate)”.
 
-**8.**[^key-3bf3c527d3f6804c37ee178ad9603ccd] In regulation 9 (exemptions)—
+**8.**[^c-3bf3c527d3f6804c37ee178ad9603ccd] In regulation 9 (exemptions)—
 
 - (a) in sub-paragraph (7)(e), omit “and” in the second place where it occurs; and
 - (b) at the end of sub-paragraph (7)(f), insert—
@@ -100,7 +100,7 @@ The Public Guardian (Fees, etc.) Regulations 2007[^f00002] are amended as follow
 
   .
 
-**9.**[^key-f8c3dc9e27adccbc249de0a8494c9136] In the Schedule (fees to be taken)—
+**9.**[^c-f8c3dc9e27adccbc249de0a8494c9136] In the Schedule (fees to be taken)—
 
 - (a) after the entry for enduring power of attorney registration, insert in column 1 “Enduring power of attorney office copy fee (regulation 4A)” and in column 2 “£25”;
 - (b) in the entry for lasting power of attorney registration, in column 2, substitute “£120” for “£150”;
@@ -134,26 +134,26 @@ These Regulations amend the Public Guardian (Fees, etc.) Regulations 2007 (“th
 
 [^f00001]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-46fa855b29c2a3b08612a4b7ba7f9188]: Commencement: Reg. 1 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
+[^c-46fa855b29c2a3b08612a4b7ba7f9188]: Commencement: Reg. 1 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
 
-[^key-e5fe275b508414387a24058391f91986]: Commencement: Reg. 2 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
+[^c-e5fe275b508414387a24058391f91986]: Commencement: Reg. 2 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2007/2051](https://www.legislation.gov.uk/uksi/2007/2051), amended by [S.I. 2007/ 2616](https://www.legislation.gov.uk/uksi/2007/2616).
 
-[^key-ba80ddbdb3a772972c0a9162876cc854]: Commencement: Reg. 3 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
+[^c-ba80ddbdb3a772972c0a9162876cc854]: Commencement: Reg. 3 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
 
-[^key-488d1e393bfbd3419439c5470abf2109]: Commencement: Reg. 4 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
+[^c-488d1e393bfbd3419439c5470abf2109]: Commencement: Reg. 4 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
 
-[^key-a121cf3ee9d5bb3f6a75d8c8d43407f8]: Commencement: Reg. 5 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
+[^c-a121cf3ee9d5bb3f6a75d8c8d43407f8]: Commencement: Reg. 5 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
 
 [^f00003]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-9a593f5eb3c0e56d05cfa896784fb577]: Commencement: Reg. 6 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
+[^c-9a593f5eb3c0e56d05cfa896784fb577]: Commencement: Reg. 6 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
 
-[^key-7fedc298f8bec69aa876febb3d38474d]: Commencement: Reg. 7 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
+[^c-7fedc298f8bec69aa876febb3d38474d]: Commencement: Reg. 7 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
 
-[^key-3bf3c527d3f6804c37ee178ad9603ccd]: Commencement: Reg. 8 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
+[^c-3bf3c527d3f6804c37ee178ad9603ccd]: Commencement: Reg. 8 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
 
 [^f00004]: Footnote: [2007 c. 5](https://www.legislation.gov.uk/ukpga/2007/5).
 
-[^key-f8c3dc9e27adccbc249de0a8494c9136]: Commencement: Reg. 9 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)
+[^c-f8c3dc9e27adccbc249de0a8494c9136]: Commencement: Reg. 9 in force at 1.4.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/514/regulation/1)

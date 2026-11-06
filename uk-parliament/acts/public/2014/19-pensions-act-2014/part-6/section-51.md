@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Pension Protection Fund: compensation cap to apply separately to certain benefits[^key-0b8093f24fe28f2ca268544b5e197e37]
+## 51. Pension Protection Fund: compensation cap to apply separately to certain benefits[^c-0b8093f24fe28f2ca268544b5e197e37]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b8093f24fe28f2ca268544b5e197e37]: Textual amendment: [S. 51](https://www.legislation.gov.uk/ukpga/2014/19/section/51) omitted (coming into force in accordance with reg. 1(b) of the amending S.I.) by virtue of [The Pensions Act 2004 (Amendment) (Pension Protection Fund Compensation) Regulations 2023 (S.I. 2023/1309)](https://www.legislation.gov.uk/uksi/2023/1309), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2023/1309/regulation/6/a)
+[^c-0b8093f24fe28f2ca268544b5e197e37]: Textual amendment: [S. 51](https://www.legislation.gov.uk/ukpga/2014/19/section/51) omitted (coming into force in accordance with reg. 1(b) of the amending S.I.) by virtue of [The Pensions Act 2004 (Amendment) (Pension Protection Fund Compensation) Regulations 2023 (S.I. 2023/1309)](https://www.legislation.gov.uk/uksi/2023/1309), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2023/1309/regulation/6/a)

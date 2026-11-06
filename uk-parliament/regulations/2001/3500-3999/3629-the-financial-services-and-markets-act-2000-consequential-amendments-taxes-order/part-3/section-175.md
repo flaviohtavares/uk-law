@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Account manager—qualifications and Board’s approval[^key-6932491342eae8bf5f5c5ee0fbe4ea6d]
+## 175. Account manager—qualifications and Board’s approval[^c-6932491342eae8bf5f5c5ee0fbe4ea6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ Amend regulation 14(2) (account manager—qualifications and Board’s approval)
 
 ## Annotations
 
-[^key-6932491342eae8bf5f5c5ee0fbe4ea6d]: Commencement: Art. 175 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-6932491342eae8bf5f5c5ee0fbe4ea6d]: Commencement: Art. 175 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00148]: Footnote: Regulation 14(2) was amended by regulation 8 of S.I. [1998/3174](https://www.legislation.gov.uk/uksi/1998/3174).

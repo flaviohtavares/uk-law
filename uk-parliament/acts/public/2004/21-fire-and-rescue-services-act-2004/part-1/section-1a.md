@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1A. Designation of mayoral combined authorities and mayoral CCAs[^key-dbe9d05491f1b1d04d32918d9018da6d]
+## 1A. Designation of mayoral combined authorities and mayoral CCAs[^c-dbe9d05491f1b1d04d32918d9018da6d]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbe9d05491f1b1d04d32918d9018da6d]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/2004/21/section/1A) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 48(4)](https://www.legislation.gov.uk/ukpga/2026/23/section/48/4), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-dbe9d05491f1b1d04d32918d9018da6d]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/ukpga/2004/21/section/1A) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 48(4)](https://www.legislation.gov.uk/ukpga/2026/23/section/48/4), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

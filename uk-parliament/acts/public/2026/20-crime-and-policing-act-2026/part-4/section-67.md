@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Power to amend definition of “relevant offence”[^key-d4f41b68e8d77d8654479726f2952f23]
+## 67. Power to amend definition of “relevant offence”[^c-d4f41b68e8d77d8654479726f2952f23]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4f41b68e8d77d8654479726f2952f23]: Commencement: S. 67 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-d4f41b68e8d77d8654479726f2952f23]: Commencement: S. 67 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

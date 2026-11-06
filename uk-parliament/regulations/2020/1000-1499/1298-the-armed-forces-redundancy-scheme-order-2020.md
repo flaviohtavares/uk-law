@@ -48,7 +48,7 @@ The Secretary of State, in exercise of the powers conferred by sections 1(1) and
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-c08ee95d60b4f3923f101f8eb9a969d8]
+### 1. Citation and commencement[^c-c08ee95d60b4f3923f101f8eb9a969d8]
 
 This Order—
 
@@ -57,7 +57,7 @@ This Order—
 
 ## PART 2 — Establishment of the Armed Forces Redundancy Scheme 2020
 
-### 2. Establishment of Armed Forces Redundancy Scheme 2020[^key-2f143db6199eae1715abacbbeced7ce0]
+### 2. Establishment of Armed Forces Redundancy Scheme 2020[^c-2f143db6199eae1715abacbbeced7ce0]
 
 (1) The Scheme set out in the Schedule is to be known as the Armed Forces Redundancy Scheme 2020.
 
@@ -65,11 +65,11 @@ This Order—
 
 ## PART 3 — Amendment of the Armed Forces Redundancy Scheme 2006
 
-### 3. Amendment of the Armed Forces Redundancy Scheme Order 2006[^key-5f8e91c00bb600073025af30effe5361]
+### 3. Amendment of the Armed Forces Redundancy Scheme Order 2006[^c-5f8e91c00bb600073025af30effe5361]
 
 The Armed Forces Redundancy Scheme Order 2006[^f00002] (“the AFRS 2006 Order”) is amended in accordance with articles 4 to 8.
 
-### 4. Amendment of article 3 of the AFRS 2006 Order[^key-668e28ab67f26331071f21e7aab24de9]
+### 4. Amendment of article 3 of the AFRS 2006 Order[^c-668e28ab67f26331071f21e7aab24de9]
 
 In article 3 (interpretation), insert at the appropriate place in alphabetical order—
 
@@ -89,7 +89,7 @@ In article 3 (interpretation), insert at the appropriate place in alphabetical o
 
 .
 
-### 5. Insertion of new article 3A in the AFRS 2006 Order[^key-6b044695d908fb96156c6ffbd2ab56d0]
+### 5. Insertion of new article 3A in the AFRS 2006 Order[^c-6b044695d908fb96156c6ffbd2ab56d0]
 
 After article 3 (interpretation) insert—
 
@@ -108,7 +108,7 @@ After article 3 (interpretation) insert—
 
 .
 
-### 6. Amendment of article 4 of the AFRS 2006 Order[^key-879247ec2e78139e3d09cf92ac21509d]
+### 6. Amendment of article 4 of the AFRS 2006 Order[^c-879247ec2e78139e3d09cf92ac21509d]
 
 In article 4 (eligibility for redundancy payments)—
 
@@ -133,7 +133,7 @@ In article 4 (eligibility for redundancy payments)—
   ;
 - (d) at the end of sub-paragraph 6(b), insert “or the AFPS 2015, or who has opted to cease to be an active member of either of these pension scheme.”.
 
-### 7. Amendment of article 6 of the AFRS 2006 Order[^key-d52ac7d754e9eed0c496120f9755e094]
+### 7. Amendment of article 6 of the AFRS 2006 Order[^c-d52ac7d754e9eed0c496120f9755e094]
 
 In article 6 (amount of payment under article 5: leavers with long service commitments), after paragraph (6), insert—
 
@@ -141,7 +141,7 @@ In article 6 (amount of payment under article 5: leavers with long service commi
 
 .
 
-### 8. Amendment of article 7 of the AFRS 2006 Order[^key-509aa7828871abfa1ff27aeedb005cd3]
+### 8. Amendment of article 7 of the AFRS 2006 Order[^c-509aa7828871abfa1ff27aeedb005cd3]
 
 In article 7 (amount of payment under article 5: leavers with short service commitments), after paragraph (3), insert—
 
@@ -151,11 +151,11 @@ In article 7 (amount of payment under article 5: leavers with short service comm
 
 ## PART 4 — Amendment of the Armed Forces Redundancy Scheme 2010
 
-### 9. Amendment of the Armed Forces (Redundancy, Resettlement and Gratuity Earnings Schemes (No. 2) Order 2010[^key-715377012c9abdbb96d1e567d0761072]
+### 9. Amendment of the Armed Forces (Redundancy, Resettlement and Gratuity Earnings Schemes (No. 2) Order 2010[^c-715377012c9abdbb96d1e567d0761072]
 
 The Armed Forces (Redundancy, Resettlement and Gratuity Earnings Schemes) (No. 2) Order 2010[^f00009] (“the AFRS 2010 Order”) is amended in accordance with articles 10 to 14.
 
-### 10. Amendment of article 2 of the AFRS 2010 Order[^key-a1ec8ffae174b0c0744559d81700af19]
+### 10. Amendment of article 2 of the AFRS 2010 Order[^c-a1ec8ffae174b0c0744559d81700af19]
 
 In article 2 (interpretation), in the appropriate place in alphabetical order, insert—
 
@@ -174,7 +174,7 @@ In article 2 (interpretation), in the appropriate place in alphabetical order, i
 
 .
 
-### 11. Insertion of new article 2A in the AFRS 2010 Order[^key-3e63aa0d9365da8577915d386e6a89c7]
+### 11. Insertion of new article 2A in the AFRS 2010 Order[^c-3e63aa0d9365da8577915d386e6a89c7]
 
 After article 2 (interpretation) insert—
 
@@ -193,7 +193,7 @@ After article 2 (interpretation) insert—
 
 .
 
-### 12. Amendment of article 3 of the AFRS 2010 Order[^key-c19b8689a549b5684e2f84d4c5278f35]
+### 12. Amendment of article 3 of the AFRS 2010 Order[^c-c19b8689a549b5684e2f84d4c5278f35]
 
 (1) Article 3 is re-numbered as paragraph (1) of article 3.
 
@@ -203,7 +203,7 @@ After article 2 (interpretation) insert—
 
 .
 
-### 13. Amendment of article 6 of the AFRS 2010 Order[^key-b4a83baf4b378ad9a77a27ffea4d50c3]
+### 13. Amendment of article 6 of the AFRS 2010 Order[^c-b4a83baf4b378ad9a77a27ffea4d50c3]
 
 In article 6[^f00011] (redundancy reckonable service), after paragraph (4), insert—
 
@@ -211,7 +211,7 @@ In article 6[^f00011] (redundancy reckonable service), after paragraph (4), inse
 
 .
 
-### 14. Amendment of article 9 of the AFRS 2010 Order[^key-6402e220ba04fb90678582274e5e94c9]
+### 14. Amendment of article 9 of the AFRS 2010 Order[^c-6402e220ba04fb90678582274e5e94c9]
 
 In article 9[^f00012] (eligibility for redundancy payments)—
 
@@ -245,7 +245,7 @@ Article 2
 
 ### PART 1 — Interpretation and method of calculating periods of service
 
-#### 1. General interpretation[^key-2aca2532820813d69d4649e004a7345e]
+#### 1. General interpretation[^c-2aca2532820813d69d4649e004a7345e]
 
 In this Schedule—
 
@@ -261,7 +261,7 @@ In this Schedule—
 - “AFRS 2006” means the Armed Forces Redundancy Scheme 2006, established by the Armed Forces Redundancy Scheme Order 2006[^f00020];
 - “AFRS 2010” means the Armed Forces Redundancy Scheme 2010, established by the Armed Forces (Redundancy, Resettlement and Gratuity Earnings Schemes) (No. 2) Order 2010[^f00021];
 - “AFRS 2020” means the Armed Forces Redundancy Scheme 2020;
-- “[^key-11d216387612bc3edf4f8d94e08716d4]**Chapter 1 legacy scheme**” means a legacy pension Scheme, within the meaning of Chapter 1 of PSPJOA 2022, for the armed forces and reserve forces under which service in the—
+- “[^c-11d216387612bc3edf4f8d94e08716d4]**Chapter 1 legacy scheme**” means a legacy pension Scheme, within the meaning of Chapter 1 of PSPJOA 2022, for the armed forces and reserve forces under which service in the—
   - (a) regular forces, or
   - (b) reserve forces under sections 24 or 25 of the Reserve Forces Act 1996,
 
@@ -294,7 +294,7 @@ In this Schedule—
   - (b) by a remedy member.
 - “service reduction percentage” has the meaning given in paragraph 2.
 
-#### 2. Meaning of “service reduction percentage”[^key-e49bee039cd3ec5093eaa582f4ac7d24]
+#### 2. Meaning of “service reduction percentage”[^c-e49bee039cd3ec5093eaa582f4ac7d24]
 
 (1) In this Schedule, the “service reduction percentage” in respect of a period of flexible service is given by the formula, expressed as a percentage—
 
@@ -307,7 +307,7 @@ where—
 
 (2) For the purposes of the Scheme, a period of flexible service ends and another begins when any change in the service reduction percentage occurs.
 
-#### 3. Meaning of “final relevant earnings”[^key-ed1c3c13a4ea89dc05175954f75261e1]
+#### 3. Meaning of “final relevant earnings”[^c-ed1c3c13a4ea89dc05175954f75261e1]
 
 (1) In this Schedule, “final relevant earnings” in relation to a person, means the greatest amount that is the person’s total relevant earnings for 365 consecutive days falling within the period of 3 years ending with the person’s last day of redundancy qualifying service.
 
@@ -322,7 +322,7 @@ where—
 - RE is the person’s relevant earnings for the period, and
 - N is the number of days in the period for which relevant earnings were received.
 
-#### 4. Meaning of “relevant earnings”[^key-5fd64ac152e7e0f176ef5edc32353d2f]
+#### 4. Meaning of “relevant earnings”[^c-5fd64ac152e7e0f176ef5edc32353d2f]
 
 (1) In this Schedule, “relevant earnings” in relation to a person in service as a member of the armed forces means—
 
@@ -337,11 +337,11 @@ where—
 
 (3) In the case of a person who has served on flexible terms during any period for which relevant earnings are to be calculated under sub-paragraph (1), that person’s relevant earnings are to be calculated as though they had not served on flexible terms for that period.
 
-#### 5. Meaning of “redundancy qualifying service”[^key-b6236c740c564ebd142ccf26497a3326]
+#### 5. Meaning of “redundancy qualifying service”[^c-b6236c740c564ebd142ccf26497a3326]
 
 (1) In this Schedule, and subject to sub-paragraph (2), “redundancy qualifying service” means pensionable service in the AFPS 2015, or service that would have been pensionable service in the AFPS 2015 had the person not opted to cease to be an active member of that scheme.
 
-(1A)[^key-fc86c094f11829d3032e4bfd291f6020] For the purposes of this Schedule, where a remedy member of a Chapter 1 legacy scheme makes a section 6 election under the rules of the relevant legacy pension Scheme, their remediable service in that Scheme—
+(1A)[^c-fc86c094f11829d3032e4bfd291f6020] For the purposes of this Schedule, where a remedy member of a Chapter 1 legacy scheme makes a section 6 election under the rules of the relevant legacy pension Scheme, their remediable service in that Scheme—
 
 - (a) is treated as though it had been pensionable service in the AFPS 2015, and
 - (b) is not treated as if it had been pensionable service in the relevant Chapter 1 legacy pension Scheme.
@@ -359,7 +359,7 @@ where—
 
 (4) For the purposes of paragraphs 9, 10 and 11, pensionable service in the AFPS 2015 is pensionable service as a member of the regular forces.
 
-#### 6. Periods of service: method of calculation[^key-6cd85e21fc5648c08b44467ffdde4cfe]
+#### 6. Periods of service: method of calculation[^c-6cd85e21fc5648c08b44467ffdde4cfe]
 
 (1) In this Schedule, periods of service are to be calculated in accordance with sub-paragraphs (2) to (5).
 
@@ -381,7 +381,7 @@ are converted into years by dividing the number of days in excess of the period 
 
 ### PART 2 — Eligibility, entitlement and amount of compensation
 
-#### 7. Eligibility for a payment[^key-4e32605f6c487d5be6b7eb065282e842]
+#### 7. Eligibility for a payment[^c-4e32605f6c487d5be6b7eb065282e842]
 
 (1) A person is eligible for a payment under paragraph 8(1) if they meet conditions A to E as provided for in sub-paragraphs (2) to (6).
 
@@ -413,7 +413,7 @@ are converted into years by dividing the number of days in excess of the period 
 - (c) regulation 19 of the Armed Forces Early Departure Payments Scheme Regulations 2014[^f00029], and
 - (d) regulation 9 of the Armed Forces Early Departure Payments Scheme Regulations 2014, where the scheme administrator has determined that a payment should be made under that regulation instead of under regulation 19.
 
-#### 8. Entitlement to a redundancy payment[^key-17dfabf8bb36b26f5676cbf773fec5ff]
+#### 8. Entitlement to a redundancy payment[^c-17dfabf8bb36b26f5676cbf773fec5ff]
 
 (1) An eligible person becomes entitled to a lump sum payment when they cease to be in service as referred to in paragraph 7(5)(a) or cease to be on a commitment as referred to in paragraph 7(5)(b).
 
@@ -425,7 +425,7 @@ are converted into years by dividing the number of days in excess of the period 
 - (b) the previous lump sum is liable to repayment under paragraph 14, and
 - (c) the previous lump sum has not been repaid before the time when the person would otherwise be entitled to the lump sum under this paragraph.
 
-#### 9. Amount of payment: regulars on long service commitments leaving before EDP 2015 point[^key-953946001ef0ad39d3eea84e02b6fa86]
+#### 9. Amount of payment: regulars on long service commitments leaving before EDP 2015 point[^c-953946001ef0ad39d3eea84e02b6fa86]
 
 (1) This paragraph applies to an eligible person who—
 
@@ -435,7 +435,7 @@ are converted into years by dividing the number of days in excess of the period 
 
 (2) The amount payable under paragraph 8(1) is 10.2% of the person’s final relevant earnings multiplied by the number of years of redundancy qualifying service served by the person (subject to a maximum of 20 years).
 
-#### 10. Amount of payment: regulars on long service commitments leaving after EDP 2015 point[^key-378a8393aca379cd4e1dc4bcd3498b51]
+#### 10. Amount of payment: regulars on long service commitments leaving after EDP 2015 point[^c-378a8393aca379cd4e1dc4bcd3498b51]
 
 (1) This paragraph applies to an eligible person who—
 
@@ -448,7 +448,7 @@ are converted into years by dividing the number of days in excess of the period 
 
 (4) If the person has 40 or more years of pensionable service as a member of AFPS 2015, the maximum amount payable under paragraph 8(1) is half of the person’s final relevant earnings.
 
-#### 11. Amount of payment: regulars on short service commitments[^key-aca15c58d063f17f961973a0a4fe2faf]
+#### 11. Amount of payment: regulars on short service commitments[^c-aca15c58d063f17f961973a0a4fe2faf]
 
 (1) This paragraph applies to an eligible person who—
 
@@ -466,7 +466,7 @@ are converted into years by dividing the number of days in excess of the period 
   - Q is the number of years of redundancy qualifying service served by the person, and
   - R is the number of remaining years that the person had left to serve in their commitment.
 
-#### 12. Amount of payment: reservists on FTRS commitments[^key-180c11ab6764faad039bfe0dcdec04ce]
+#### 12. Amount of payment: reservists on FTRS commitments[^c-180c11ab6764faad039bfe0dcdec04ce]
 
 (1) This paragraph applies to an eligible person who is serving in the reserve forces on an FTRS commitment.
 
@@ -480,7 +480,7 @@ are converted into years by dividing the number of days in excess of the period 
   - Q is the number of years of redundancy qualifying service served by the person in their current commitment, and
   - R is the number of remaining years that the person had left to serve in their current commitment.
 
-#### 13. Amount of payment: reservists on additional duties commitments[^key-ebf8b352dac566ddd91c94d7cd3be687]
+#### 13. Amount of payment: reservists on additional duties commitments[^c-ebf8b352dac566ddd91c94d7cd3be687]
 
 (1) This paragraph applies to an eligible person who is serving in the reserve forces on an additional duties commitment.
 
@@ -500,7 +500,7 @@ Step 2: Take the result of Step 1 and multiply by ND/365
 
 - where ND is the number of days in the person’s current additional duties commitment.
 
-#### 14. Effect of resuming armed forces service after receiving a redundancy payment[^key-1679490dac8c0161fbb1fe5dc2c9a73e]
+#### 14. Effect of resuming armed forces service after receiving a redundancy payment[^c-1679490dac8c0161fbb1fe5dc2c9a73e]
 
 (1) This paragraph applies where a person who has received a payment under paragraph 8(1) or under corresponding provisions in the AFRS 2006 or the AFRS 2010—
 
@@ -558,20 +558,20 @@ and in this paragraph that service is referred as “the new service”.
 
 ### PART 3 — Special provision for eligible persons with AFPS 1975 service
 
-#### 15. Overview and application of this Part[^key-366d4b20c25715410f8302ba8bbd425a]
+#### 15. Overview and application of this Part[^c-366d4b20c25715410f8302ba8bbd425a]
 
 This Part applies to and determines the amount of compensation for a person who is eligible under paragraph 7, but who also had a period of service before 1st April 2015 which entitled them to be an active member of AFPS 1975, and where there was either no gap between those periods of service, or any gap was 5 years or less[^f00032].
 
-#### 16. Interpretation of this Part[^key-46cfd1dc335b35e4565b28904a41cb3f]
+#### 16. Interpretation of this Part[^c-46cfd1dc335b35e4565b28904a41cb3f]
 
-(1)[^key-886e534b0010e963c9e970f10f18c4ff] In this Part—
+(1)[^c-886e534b0010e963c9e970f10f18c4ff] In this Part—
 
 - “AFRS 2010 redundancy reckonable service” in relation to a person means service that would have counted as redundancy reckonable service under the AFRS 2010 had the person been eligible for a payment under that scheme, and
 - “total service”, in relation to a person, means the sum of their redundancy qualifying service and their AFRS 2010 redundancy reckonable service.
 
-(2)[^key-cef8dffb8427b9383bfc3fbf8d01d58e] For the purposes of this Part, where a remedy member with remediable service under the AFPS 1975 makes a section 6 election under Schedule 4 (remediable service) to the AFPS 1975, their AFRS 2010 redundancy reckonable service does not include any period of remediable service which would otherwise have counted as such redundancy reckonable service.
+(2)[^c-cef8dffb8427b9383bfc3fbf8d01d58e] For the purposes of this Part, where a remedy member with remediable service under the AFPS 1975 makes a section 6 election under Schedule 4 (remediable service) to the AFPS 1975, their AFRS 2010 redundancy reckonable service does not include any period of remediable service which would otherwise have counted as such redundancy reckonable service.
 
-#### 17. Amount of payment: long service commitment – leaves before AFPS 1975 redundancy point[^key-73fc2d87226564b4100331917e6f5cbf]
+#### 17. Amount of payment: long service commitment – leaves before AFPS 1975 redundancy point[^c-73fc2d87226564b4100331917e6f5cbf]
 
 (1) This paragraph applies to an eligible person who—
 
@@ -610,7 +610,7 @@ Step 1: 10.2% x F x TS
   - Q is redundancy qualifying service, and
   - TS is total service.
 
-#### 18. Amount of payment: long service commitment – leaves between AFPS 75 redundancy point and EDP 2015 point[^key-64c10b51e8027cb0baa9e6b095f012c8]
+#### 18. Amount of payment: long service commitment – leaves between AFPS 75 redundancy point and EDP 2015 point[^c-64c10b51e8027cb0baa9e6b095f012c8]
 
 (1) This paragraph applies to an eligible person who—
 
@@ -648,7 +648,7 @@ Step 2: take the result of step 1 and multiply by [formula: see source](https://
   - Q is redundancy qualifying service, and
   - TS is total service (to be no more than 20).
 
-#### 19. Amount of payment: long service commitment – leaves after EDP 2015 point[^key-48aa1c63faa2b4e62506101dbf691cee]
+#### 19. Amount of payment: long service commitment – leaves after EDP 2015 point[^c-48aa1c63faa2b4e62506101dbf691cee]
 
 (1) This paragraph applies to an eligible person who—
 
@@ -695,7 +695,7 @@ Step 2: take the result of step 1 and multiply by [formula: see source](https://
   - Q is redundancy qualifying service, and
   - TS is total service.
 
-#### 20. Amount of payment: hybrid commitment – leaves before AFPS 1975 redundancy point[^key-085b6b7389ff9ef6e6258f31a92c7225]
+#### 20. Amount of payment: hybrid commitment – leaves before AFPS 1975 redundancy point[^c-085b6b7389ff9ef6e6258f31a92c7225]
 
 (1) This paragraph applies to an eligible person who—
 
@@ -738,7 +738,7 @@ Step 2: take the result of step 1 and multiply by [formula: see source](https://
   - Q is redundancy qualifying service, and
   - TS is total service.
 
-#### 21. Amount of payment: hybrid commitment – leaves between AFPS 1975 redundancy point and EDP 2015 point[^key-dc8ad2edf598f022b3965835c1b70321]
+#### 21. Amount of payment: hybrid commitment – leaves between AFPS 1975 redundancy point and EDP 2015 point[^c-dc8ad2edf598f022b3965835c1b70321]
 
 (1) This paragraph applies to an eligible person who—
 
@@ -783,7 +783,7 @@ Step 2: take the result of step 1 and multiply by [formula: see source](https://
   - Q is redundancy qualifying service, and
   - TS is total service.
 
-#### 22. Amount of payment: short service commitment[^key-1ce3426dbda5472eb321bcde9b4cf276]
+#### 22. Amount of payment: short service commitment[^c-1ce3426dbda5472eb321bcde9b4cf276]
 
 (1) This paragraph applies to an eligible person who—
 
@@ -832,20 +832,20 @@ Step 2: take the result of step 1 and multiply by [formula: see source](https://
 
 ### PART 4 — Special provision for eligible persons with AFPS 2005 service
 
-#### 23. Overview and application of this Part[^key-01dbbb2dabe3b9d6caf417b575581e29]
+#### 23. Overview and application of this Part[^c-01dbbb2dabe3b9d6caf417b575581e29]
 
 This Part applies to and determines the amount of compensation for a person who is eligible under paragraph 7, but who also had a period of service before 1st April 2015 which entitled them to be an active member of AFPS 2005, and where there was either no gap between those periods of service, or any gap was 5 years or less.
 
-#### 24. Interpretation of this Part[^key-dbcb842bd40369f7e1fbea1b091c05c2]
+#### 24. Interpretation of this Part[^c-dbcb842bd40369f7e1fbea1b091c05c2]
 
-(1)[^key-663cdff9ea3e4984e2f8b8df75aac2d7] In this Part—
+(1)[^c-663cdff9ea3e4984e2f8b8df75aac2d7] In this Part—
 
 - (a) “AFRS 2006 relevant service”, in relation to a person, means service that would have counted as relevant service under the AFRS 2006 had the person been eligible for a payment under that scheme.
 - (b) “total service”, in relation to a person, means the sum of their redundancy qualifying service and their AFRS 2006 relevant service.
 
-(2)[^key-730dab18bd42a1df06f9c0ba53bf597a] For the purposes of this Part, where a remedy member with remediable service under the AFPS 2005 makes a section 6 election under Schedule 3 (remediable service) to the AFPS 2005, their AFRS 2006 relevant service does not include any period of remediable service which would otherwise have counted as such relevant service.
+(2)[^c-730dab18bd42a1df06f9c0ba53bf597a] For the purposes of this Part, where a remedy member with remediable service under the AFPS 2005 makes a section 6 election under Schedule 3 (remediable service) to the AFPS 2005, their AFRS 2006 relevant service does not include any period of remediable service which would otherwise have counted as such relevant service.
 
-#### 25. Amount of payment: long service commitment – leaves before EDP 2005 point[^key-0967aca7c1c6fca8cc97445b4eea6d76]
+#### 25. Amount of payment: long service commitment – leaves before EDP 2005 point[^c-0967aca7c1c6fca8cc97445b4eea6d76]
 
 (1) This paragraph applies to an eligible person who—
 
@@ -886,7 +886,7 @@ Step 2: take the result of step 1, and multiply by [formula: see source](https:/
   - Q is redundancy qualifying service, and
   - TS is total service.
 
-#### 26. Amount of payment: long service commitment – leaves between EDP 2005 point and EDP 2015 point[^key-81176c5307c204620de2e7846f03b31b]
+#### 26. Amount of payment: long service commitment – leaves between EDP 2005 point and EDP 2015 point[^c-81176c5307c204620de2e7846f03b31b]
 
 (1) This paragraph applies to an eligible person who—
 
@@ -931,7 +931,7 @@ Step 2: take the result of step 1 and multiply by [formula: see source](https://
   - Q is redundancy qualifying service, and
   - TS is total service.
 
-#### 27. Amount of payment: long service commitment – leaves after EDP 2015 point[^key-8b246d47c615c02ea7da149b2fed3272]
+#### 27. Amount of payment: long service commitment – leaves after EDP 2015 point[^c-8b246d47c615c02ea7da149b2fed3272]
 
 (1) This paragraph applies to an eligible person who—
 
@@ -976,7 +976,7 @@ Step 2: take the result of step 1 and multiply by [formula: see source](https://
   - Q is redundancy qualifying service, and
   - TS is total service.
 
-#### 28. Amount of payment: hybrid commitment – leaves before EDP 2005 point[^key-5e9c353636493f72c437c620669a826b]
+#### 28. Amount of payment: hybrid commitment – leaves before EDP 2005 point[^c-5e9c353636493f72c437c620669a826b]
 
 (1) This paragraph applies to an eligible person who—
 
@@ -1021,7 +1021,7 @@ Step 2: take the result of step 1 and multiply by [formula: see source](https://
   - Q is redundancy qualifying service, and
   - TS is total service.
 
-#### 29. Amount of payment: hybrid commitment – leaves between EDP 2005 point and EDP 2015 point[^key-a11e96d01e9d05c7e243299d8dc82ab6]
+#### 29. Amount of payment: hybrid commitment – leaves between EDP 2005 point and EDP 2015 point[^c-a11e96d01e9d05c7e243299d8dc82ab6]
 
 (1) This paragraph applies to an eligible person who—
 
@@ -1068,7 +1068,7 @@ Step 2: take the result of step 1 and multiply by [formula: see source](https://
   - Q is redundancy qualifying service, and
   - TS is total service.
 
-#### 30. Amount of payment: short service commitment[^key-8be04959a8f76708b784a29e07a0d8b0]
+#### 30. Amount of payment: short service commitment[^c-8be04959a8f76708b784a29e07a0d8b0]
 
 (1) This paragraph applies to an eligible person who—
 
@@ -1141,15 +1141,15 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2004 c. 32](https://www.legislation.gov.uk/ukpga/2004/32).
 
-[^key-c08ee95d60b4f3923f101f8eb9a969d8]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-c08ee95d60b4f3923f101f8eb9a969d8]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2020/1298/article/1) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-2f143db6199eae1715abacbbeced7ce0]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2020/1298/article/2) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-2f143db6199eae1715abacbbeced7ce0]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2020/1298/article/2) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-5f8e91c00bb600073025af30effe5361]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2020/1298/article/3) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-5f8e91c00bb600073025af30effe5361]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2020/1298/article/3) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
 [^f00002]: Footnote: [S.I. 2006/55](https://www.legislation.gov.uk/uksi/2006/55) as amended by [S.I. 2007/2608](https://www.legislation.gov.uk/uksi/2007/2608) and [2011/208](https://www.legislation.gov.uk/uksi/2011/208); there are other amending instruments but none is relevant.
 
-[^key-668e28ab67f26331071f21e7aab24de9]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2020/1298/article/4) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-668e28ab67f26331071f21e7aab24de9]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2020/1298/article/4) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
 [^f00003]: Footnote: [S.I. 2014/2336](https://www.legislation.gov.uk/uksi/2014/2336).
 
@@ -1157,9 +1157,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00005]: Footnote: Section 329(2)(i) was substituted by the Armed Forces (Flexible Working) Act [2018 (c.2)](https://www.legislation.gov.uk/ukpga/2018/2), section 1(3)(b).
 
-[^key-6b044695d908fb96156c6ffbd2ab56d0]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2020/1298/article/5) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-6b044695d908fb96156c6ffbd2ab56d0]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2020/1298/article/5) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-879247ec2e78139e3d09cf92ac21509d]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2020/1298/article/6) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-879247ec2e78139e3d09cf92ac21509d]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2020/1298/article/6) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
 [^f00006]: Footnote: [S.I. 2005/438](https://www.legislation.gov.uk/uksi/2005/438): relevant amending instruments are [S.I. 2006/717](https://www.legislation.gov.uk/uksi/2006/717), [2007/2608](https://www.legislation.gov.uk/uksi/2007/2608) and [2009/544](https://www.legislation.gov.uk/uksi/2009/544).
 
@@ -1167,31 +1167,31 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00008]: Footnote: [S.I. 2005/437](https://www.legislation.gov.uk/uksi/2005/437): relevant amending instruments are [S.I. 2006/717](https://www.legislation.gov.uk/uksi/2006/717) and [2015/568](https://www.legislation.gov.uk/uksi/2015/568).
 
-[^key-d52ac7d754e9eed0c496120f9755e094]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2020/1298/article/7) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-d52ac7d754e9eed0c496120f9755e094]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2020/1298/article/7) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-509aa7828871abfa1ff27aeedb005cd3]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2020/1298/article/8) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-509aa7828871abfa1ff27aeedb005cd3]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2020/1298/article/8) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-715377012c9abdbb96d1e567d0761072]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2020/1298/article/9) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-715377012c9abdbb96d1e567d0761072]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2020/1298/article/9) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
 [^f00009]: Footnote: [S.I. 2010/832](https://www.legislation.gov.uk/uksi/2010/832).
 
-[^key-a1ec8ffae174b0c0744559d81700af19]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2020/1298/article/10) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-a1ec8ffae174b0c0744559d81700af19]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2020/1298/article/10) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
 [^f00010]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-3e63aa0d9365da8577915d386e6a89c7]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2020/1298/article/11) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-3e63aa0d9365da8577915d386e6a89c7]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2020/1298/article/11) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-c19b8689a549b5684e2f84d4c5278f35]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2020/1298/article/12) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-c19b8689a549b5684e2f84d4c5278f35]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2020/1298/article/12) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-b4a83baf4b378ad9a77a27ffea4d50c3]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2020/1298/article/13) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-b4a83baf4b378ad9a77a27ffea4d50c3]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2020/1298/article/13) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
 [^f00011]: Footnote: Relevant amending instruments are [2011/208](https://www.legislation.gov.uk/uksi/2011/208), [2011/3013](https://www.legislation.gov.uk/uksi/2011/3013) and [2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-6402e220ba04fb90678582274e5e94c9]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2020/1298/article/14) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-6402e220ba04fb90678582274e5e94c9]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2020/1298/article/14) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
 [^f00012]: Footnote: [S.I. 2010/832](https://www.legislation.gov.uk/uksi/2010/832), amended by [S.I. 2011/208](https://www.legislation.gov.uk/uksi/2011/208).
 
-[^key-2aca2532820813d69d4649e004a7345e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/1) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-2aca2532820813d69d4649e004a7345e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/1) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
 [^f00013]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
 
@@ -1211,7 +1211,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00021]: Footnote: [S.I. 2010/832](https://www.legislation.gov.uk/uksi/2010/832).
 
-[^key-11d216387612bc3edf4f8d94e08716d4]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/1) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [40(2)](https://www.legislation.gov.uk/uksi/2023/998/regulation/40/2)
+[^c-11d216387612bc3edf4f8d94e08716d4]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/1) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [40(2)](https://www.legislation.gov.uk/uksi/2023/998/regulation/40/2)
 
 [^f00022]: Footnote: [S.I. 2014/2328](https://www.legislation.gov.uk/uksi/2014/2328).
 
@@ -1221,84 +1221,84 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00025]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-e49bee039cd3ec5093eaa582f4ac7d24]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/2) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-e49bee039cd3ec5093eaa582f4ac7d24]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/2) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-ed1c3c13a4ea89dc05175954f75261e1]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/3) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-ed1c3c13a4ea89dc05175954f75261e1]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/3) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-5fd64ac152e7e0f176ef5edc32353d2f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/4) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-5fd64ac152e7e0f176ef5edc32353d2f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/4) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-b6236c740c564ebd142ccf26497a3326]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/5) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-b6236c740c564ebd142ccf26497a3326]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/5) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-fc86c094f11829d3032e4bfd291f6020]: Textual amendment: [Sch. para. 5(1A)](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/5/1A) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [40(3)](https://www.legislation.gov.uk/uksi/2023/998/regulation/40/3)
+[^c-fc86c094f11829d3032e4bfd291f6020]: Textual amendment: [Sch. para. 5(1A)](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/5/1A) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [40(3)](https://www.legislation.gov.uk/uksi/2023/998/regulation/40/3)
 
 [^f00026]: Footnote: [S.I. 2014/2336](https://www.legislation.gov.uk/uksi/2014/2336).
 
 [^f00027]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-6cd85e21fc5648c08b44467ffdde4cfe]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/6) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-6cd85e21fc5648c08b44467ffdde4cfe]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/6) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-4e32605f6c487d5be6b7eb065282e842]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/7) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-4e32605f6c487d5be6b7eb065282e842]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/7) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
 [^f00028]: Footnote: [S.I. 2014/2336](https://www.legislation.gov.uk/uksi/2014/2336).
 
 [^f00029]: Footnote: [S.I. 2014/2328](https://www.legislation.gov.uk/uksi/2014/2328).
 
-[^key-17dfabf8bb36b26f5676cbf773fec5ff]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/8) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-17dfabf8bb36b26f5676cbf773fec5ff]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/8) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-953946001ef0ad39d3eea84e02b6fa86]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/9) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-953946001ef0ad39d3eea84e02b6fa86]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/9) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-378a8393aca379cd4e1dc4bcd3498b51]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/10) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-378a8393aca379cd4e1dc4bcd3498b51]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/10) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-aca15c58d063f17f961973a0a4fe2faf]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/11) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-aca15c58d063f17f961973a0a4fe2faf]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/11) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-180c11ab6764faad039bfe0dcdec04ce]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/12) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-180c11ab6764faad039bfe0dcdec04ce]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/12) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-ebf8b352dac566ddd91c94d7cd3be687]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/13) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-ebf8b352dac566ddd91c94d7cd3be687]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/13) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-1679490dac8c0161fbb1fe5dc2c9a73e]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/14) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-1679490dac8c0161fbb1fe5dc2c9a73e]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/14) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
 [^f00030]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).
 
 [^f00031]: Footnote: [1980 c. 9](https://www.legislation.gov.uk/ukpga/1980/9).
 
-[^key-366d4b20c25715410f8302ba8bbd425a]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/15) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-366d4b20c25715410f8302ba8bbd425a]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/15) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
 [^f00032]: Footnote: If a person has a gap of more than 5 years between their service as a member of the AFPS 1975 and their service as a member of the AFPS 2015, their AFRS 2020 redundancy payment is based purely on their service on or after 1st April 2015, and their service as a member of AFPS 1975 is ignored.
 
-[^key-46cfd1dc335b35e4565b28904a41cb3f]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/16) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-46cfd1dc335b35e4565b28904a41cb3f]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/16) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-886e534b0010e963c9e970f10f18c4ff]: Textual amendment: Words in [Sch. para. 16](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/16) renumbered as Sch. para 16(1) (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [40(4)(a)](https://www.legislation.gov.uk/uksi/2023/998/regulation/40/4/a)
+[^c-886e534b0010e963c9e970f10f18c4ff]: Textual amendment: Words in [Sch. para. 16](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/16) renumbered as Sch. para 16(1) (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [40(4)(a)](https://www.legislation.gov.uk/uksi/2023/998/regulation/40/4/a)
 
-[^key-cef8dffb8427b9383bfc3fbf8d01d58e]: Textual amendment: [Sch. para. 16(2)](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/16/2) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [40(4)(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/40/4/b)
+[^c-cef8dffb8427b9383bfc3fbf8d01d58e]: Textual amendment: [Sch. para. 16(2)](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/16/2) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [40(4)(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/40/4/b)
 
-[^key-73fc2d87226564b4100331917e6f5cbf]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/17) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-73fc2d87226564b4100331917e6f5cbf]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/17) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-64c10b51e8027cb0baa9e6b095f012c8]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/18) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-64c10b51e8027cb0baa9e6b095f012c8]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/18) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-48aa1c63faa2b4e62506101dbf691cee]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/19) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-48aa1c63faa2b4e62506101dbf691cee]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/19) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-085b6b7389ff9ef6e6258f31a92c7225]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/20) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-085b6b7389ff9ef6e6258f31a92c7225]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/20) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-dc8ad2edf598f022b3965835c1b70321]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/21) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-dc8ad2edf598f022b3965835c1b70321]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/21) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-1ce3426dbda5472eb321bcde9b4cf276]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/22) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-1ce3426dbda5472eb321bcde9b4cf276]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/22) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-01dbbb2dabe3b9d6caf417b575581e29]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/23) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-01dbbb2dabe3b9d6caf417b575581e29]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/23) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-dbcb842bd40369f7e1fbea1b091c05c2]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/24) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-dbcb842bd40369f7e1fbea1b091c05c2]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/24) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-663cdff9ea3e4984e2f8b8df75aac2d7]: Textual amendment: Words in [Sch. para. 24](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/24) renumbered as Sch. para 24(1) (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [40(5)(a)](https://www.legislation.gov.uk/uksi/2023/998/regulation/40/5/a)
+[^c-663cdff9ea3e4984e2f8b8df75aac2d7]: Textual amendment: Words in [Sch. para. 24](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/24) renumbered as Sch. para 24(1) (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [40(5)(a)](https://www.legislation.gov.uk/uksi/2023/998/regulation/40/5/a)
 
-[^key-730dab18bd42a1df06f9c0ba53bf597a]: Textual amendment: [Sch. para. 24(2)](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/24/2) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [40(5)(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/40/5/b)
+[^c-730dab18bd42a1df06f9c0ba53bf597a]: Textual amendment: [Sch. para. 24(2)](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/24/2) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [40(5)(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/40/5/b)
 
-[^key-0967aca7c1c6fca8cc97445b4eea6d76]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/25) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-0967aca7c1c6fca8cc97445b4eea6d76]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/25) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-81176c5307c204620de2e7846f03b31b]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/26) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-81176c5307c204620de2e7846f03b31b]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/26) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-8b246d47c615c02ea7da149b2fed3272]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/27) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-8b246d47c615c02ea7da149b2fed3272]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/27) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-5e9c353636493f72c437c620669a826b]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/28) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-5e9c353636493f72c437c620669a826b]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/28) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-a11e96d01e9d05c7e243299d8dc82ab6]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/29) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-a11e96d01e9d05c7e243299d8dc82ab6]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/29) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
 
-[^key-8be04959a8f76708b784a29e07a0d8b0]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/30) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)
+[^c-8be04959a8f76708b784a29e07a0d8b0]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2020/1298/schedule/paragraph/30) in force at 1.1.2021, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2020/1298/article/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 276. Procedure on appeal[^key-0af8c2fb6ed3915624e227e163c99d53]
+## 276. Procedure on appeal[^c-0af8c2fb6ed3915624e227e163c99d53]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0af8c2fb6ed3915624e227e163c99d53]: Commencement: [Rule 276](https://www.legislation.gov.uk/uksi/2011/1301/rule/276) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-0af8c2fb6ed3915624e227e163c99d53]: Commencement: [Rule 276](https://www.legislation.gov.uk/uksi/2011/1301/rule/276) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

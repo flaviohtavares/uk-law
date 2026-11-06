@@ -32,7 +32,7 @@ summary: ''
 
 Overseas Territories
 
-The Libya (Restrictive Measures) (Overseas Territories) (Amendment) Order 2013 (revoked)[^key-db77b9bd30ec33c50a78a386c16235a3]
+The Libya (Restrictive Measures) (Overseas Territories) (Amendment) Order 2013 (revoked)[^c-db77b9bd30ec33c50a78a386c16235a3]
 
 Made
 
@@ -52,28 +52,28 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-db77b9bd30ec33c50a78a386c16235a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db77b9bd30ec33c50a78a386c16235a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-db77b9bd30ec33c50a78a386c16235a3]
+## 1. Citation, commencement, interpretation and extent[^c-db77b9bd30ec33c50a78a386c16235a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-db77b9bd30ec33c50a78a386c16235a3]
+## 2.[^c-db77b9bd30ec33c50a78a386c16235a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-db77b9bd30ec33c50a78a386c16235a3]
+## 3.[^c-db77b9bd30ec33c50a78a386c16235a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-db77b9bd30ec33c50a78a386c16235a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db77b9bd30ec33c50a78a386c16235a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-db77b9bd30ec33c50a78a386c16235a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db77b9bd30ec33c50a78a386c16235a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-db77b9bd30ec33c50a78a386c16235a3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/3160) revoked (15.1.2021) by [The Libya (Sanctions) (Overseas Territories) Order 2021 (S.I. 2021/37)](https://www.legislation.gov.uk/uksi/2021/37), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/37/regulation/1/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2021/37/regulation/5)
+[^c-db77b9bd30ec33c50a78a386c16235a3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/3160) revoked (15.1.2021) by [The Libya (Sanctions) (Overseas Territories) Order 2021 (S.I. 2021/37)](https://www.legislation.gov.uk/uksi/2021/37), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/37/regulation/1/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2021/37/regulation/5)

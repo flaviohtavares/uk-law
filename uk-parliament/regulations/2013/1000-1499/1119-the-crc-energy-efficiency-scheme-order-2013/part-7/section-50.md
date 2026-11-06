@@ -16,29 +16,29 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. The Registry (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+## 50. The Registry (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 *Extent: E+W+S+N.I.*
 
-(1) Until the end of 31st March 2022[^key-5d853baf5c659dcca127f0ef9f7158c3] *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6] the administrator must establish and operate an electronic system (“the Registry”) and Schedule 6 has effect. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(1) Until the end of 31st March 2022[^c-5d853baf5c659dcca127f0ef9f7158c3] *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6] the administrator must establish and operate an electronic system (“the Registry”) and Schedule 6 has effect. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-(2) Communications between— *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(2) Communications between— *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-- (a) the administrator; *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
-- (b) a participant; and *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
-- (c) a third party account holder, *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+- (a) the administrator; *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
+- (b) a participant; and *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
+- (c) a third party account holder, *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-must, so far as possible, take place using the Registry. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+must, so far as possible, take place using the Registry. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-(3) The administrator— *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(3) The administrator— *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-- (a) must take reasonable steps to ensure the Registry is available to those entitled to use it during each working day; and *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
-- (b) may make it available at such other times as the administrator believes reasonable. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+- (a) must take reasonable steps to ensure the Registry is available to those entitled to use it during each working day; and *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
+- (b) may make it available at such other times as the administrator believes reasonable. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-(4) The administrator may establish administrative arrangements in relation to the operation of the Registry. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(4) The administrator may establish administrative arrangements in relation to the operation of the Registry. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
 ## Annotations
 
-[^key-8168caadfdb8153f9ac40f265229b9e6]: Textual amendment: Order revoked (with savings) (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [arts. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [3](https://www.legislation.gov.uk/uksi/2018/841/article/3)
+[^c-8168caadfdb8153f9ac40f265229b9e6]: Textual amendment: Order revoked (with savings) (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [arts. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [3](https://www.legislation.gov.uk/uksi/2018/841/article/3)
 
-[^key-5d853baf5c659dcca127f0ef9f7158c3]: Textual amendment: Words in art. 50(1) inserted (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [art. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/841/schedule/1/paragraph/6)
+[^c-5d853baf5c659dcca127f0ef9f7158c3]: Textual amendment: Words in art. 50(1) inserted (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [art. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/841/schedule/1/paragraph/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137A. Additional cross-border powers of arrest etc: urgent cases[^key-5fd10d23d840e09b1ee8e6950b08f353]
+## 137A. Additional cross-border powers of arrest etc: urgent cases[^c-5fd10d23d840e09b1ee8e6950b08f353]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
   - (i) to allow the prompt and effective investigation of the offence, or
   - (ii) to prevent any prosecution for the offence from being hindered by the disappearance of the person.
 
-(5) The power conferred by subsection (1) or (2) may be exercised by a constable appointed under section 24 of the Railways and Transport Safety Act 2003 or under section 55 of the Energy Act 2004[^key-fb7be2bff1bd93cd02c15b3327b328ae] in England and Wales or (as the case may be) in Scotland.
+(5) The power conferred by subsection (1) or (2) may be exercised by a constable appointed under section 24 of the Railways and Transport Safety Act 2003 or under section 55 of the Energy Act 2004[^c-fb7be2bff1bd93cd02c15b3327b328ae] in England and Wales or (as the case may be) in Scotland.
 
 (6) The following provisions apply in relation to an arrest under this section by a constable of a person suspected of having committed a specified offence in England and Wales or in Northern Ireland—
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5fd10d23d840e09b1ee8e6950b08f353]: Textual amendment: Ss. 137A-137D inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)
+[^c-5fd10d23d840e09b1ee8e6950b08f353]: Textual amendment: Ss. 137A-137D inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)
 
-[^key-fb7be2bff1bd93cd02c15b3327b328ae]: Textual amendment: Words in [s. 137A(5)](https://www.legislation.gov.uk/ukpga/1994/33/section/137A/5) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 309(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/309/4), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)
+[^c-fb7be2bff1bd93cd02c15b3327b328ae]: Textual amendment: Words in [s. 137A(5)](https://www.legislation.gov.uk/ukpga/1994/33/section/137A/5) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 309(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/309/4), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)

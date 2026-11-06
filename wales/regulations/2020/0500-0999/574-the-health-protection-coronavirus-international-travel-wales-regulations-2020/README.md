@@ -33,7 +33,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020 (revoked)[^key-40d9bca4312be6d9394afad863cc8224]
+The Health Protection (Coronavirus, International Travel) (Wales) Regulations 2020 (revoked)[^c-40d9bca4312be6d9394afad863cc8224]
 
 Made
 
@@ -47,11 +47,11 @@ Coming into force
 
 at 12.01 a.m. on 8 June 2020
 
-[^key-40d9bca4312be6d9394afad863cc8224]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40d9bca4312be6d9394afad863cc8224]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-40d9bca4312be6d9394afad863cc8224]
+### PART 1 — General[^c-40d9bca4312be6d9394afad863cc8224]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ at 12.01 a.m. on 8 June 2020
 - [Section 2 — General interpretation](part-1/section-2.md)
 - [Section 2A — Exemptions for vaccinated travellers and others](part-1/section-2a.md)
 
-### PART 2 — Requirement to provide information[^key-40d9bca4312be6d9394afad863cc8224]
+### PART 2 — Requirement to provide information[^c-40d9bca4312be6d9394afad863cc8224]
 
 *Extent: E+W*
 
@@ -72,13 +72,13 @@ at 12.01 a.m. on 8 June 2020
 - [Section 5 — Requirement to notify changes to passenger information](part-2/section-5.md)
 - [Section 6 — Passenger information not in a person's possession or control](part-2/section-6.md)
 
-### PART 2A — Notification of a negative test result etc.[^key-40d9bca4312be6d9394afad863cc8224]
+### PART 2A — Notification of a negative test result etc.[^c-40d9bca4312be6d9394afad863cc8224]
 
 **No longer in force.**
 
 - [Section 6A — Requirement to possess notification of a negative test result](part-2a/section-6a.md)
 
-### PART 2B — Mandatory testing requirements[^key-40d9bca4312be6d9394afad863cc8224]
+### PART 2B — Mandatory testing requirements[^c-40d9bca4312be6d9394afad863cc8224]
 
 *Extent: E+W*
 
@@ -101,7 +101,7 @@ at 12.01 a.m. on 8 June 2020
 - [Section 6K — Workforce testing](part-2b/section-6k.md)
 - [Section 6L — Specified events testing](part-2b/section-6l.md)
 
-### PART 3 — Requirement to isolate etc.[^key-40d9bca4312be6d9394afad863cc8224]
+### PART 3 — Requirement to isolate etc.[^c-40d9bca4312be6d9394afad863cc8224]
 
 *Extent: E+W*
 
@@ -116,7 +116,7 @@ at 12.01 a.m. on 8 June 2020
 - [Section 12A — Special rules applicable to persons travelling from Denmark](part-3/section-12a.md)
 - [Section 12C — Special rules applicable to persons travelling from South Africa](part-3/section-12c.md)
 
-### PART 3A — Travel from Denmark[^key-40d9bca4312be6d9394afad863cc8224]
+### PART 3A — Travel from Denmark[^c-40d9bca4312be6d9394afad863cc8224]
 
 *Extent: E+W*
 
@@ -124,7 +124,7 @@ at 12.01 a.m. on 8 June 2020
 
 - [Section 12B — Prohibition on the arrival of aircraft and vessels travelling directly from Denmark](part-3a/section-12b.md)
 
-### PART 3B — Travel from South Africa[^key-40d9bca4312be6d9394afad863cc8224]
+### PART 3B — Travel from South Africa[^c-40d9bca4312be6d9394afad863cc8224]
 
 *Extent: E+W*
 
@@ -132,14 +132,14 @@ at 12.01 a.m. on 8 June 2020
 
 - [Section 12D — Prohibition on the arrival of aircraft and vessels travelling directly from Denmark](part-3b/section-12d.md)
 
-### PART 3C — Travel from a country or territory listed in Schedule 3A[^key-40d9bca4312be6d9394afad863cc8224]
+### PART 3C — Travel from a country or territory listed in Schedule 3A[^c-40d9bca4312be6d9394afad863cc8224]
 
 **No longer in force.**
 
 - [Section 12E — Additional measures applicable to persons travelling from a country or territory listed in Schedule 3A](part-3c/section-12e.md)
 - [Section 12F — Prohibition on the arrival of aircraft and vessels travelling directly from a country or territory listed in Schedule 3A](part-3c/section-12f.md)
 
-### PART 4 — Enforcement and offences[^key-40d9bca4312be6d9394afad863cc8224]
+### PART 4 — Enforcement and offences[^c-40d9bca4312be6d9394afad863cc8224]
 
 *Extent: E+W*
 
@@ -150,7 +150,7 @@ at 12.01 a.m. on 8 June 2020
 - [Section 15 — Prosecutions](part-4/section-15.md)
 - [Section 16 — Fixed penalty notices](part-4/section-16.md)
 
-### PART 5 — Information sharing[^key-40d9bca4312be6d9394afad863cc8224]
+### PART 5 — Information sharing[^c-40d9bca4312be6d9394afad863cc8224]
 
 *Extent: E+W*
 
@@ -159,7 +159,7 @@ at 12.01 a.m. on 8 June 2020
 - [Section 17 — Use and disclosure of information](part-5/section-17.md)
 - [Section 18 — Self-incrimination](part-5/section-18.md)
 
-### PART 6 — Review and expiry[^key-40d9bca4312be6d9394afad863cc8224]
+### PART 6 — Review and expiry[^c-40d9bca4312be6d9394afad863cc8224]
 
 *Extent: E+W*
 
@@ -184,14 +184,14 @@ at 12.01 a.m. on 8 June 2020
 
 **No longer in force.**
 
-[^key-40d9bca4312be6d9394afad863cc8224]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40d9bca4312be6d9394afad863cc8224]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-40d9bca4312be6d9394afad863cc8224]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40d9bca4312be6d9394afad863cc8224]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-40d9bca4312be6d9394afad863cc8224]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/574) revoked (11.2.2022 at. 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel) (Wales) Regulations 2022 (S.I. 2022/126)](https://www.legislation.gov.uk/wsi/2022/126), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/126/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/126/regulation/1/3) (with [reg. 4](https://www.legislation.gov.uk/wsi/2022/126/regulation/4))
+[^c-40d9bca4312be6d9394afad863cc8224]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/574) revoked (11.2.2022 at. 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel) (Wales) Regulations 2022 (S.I. 2022/126)](https://www.legislation.gov.uk/wsi/2022/126), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/126/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2022/126/regulation/1/3) (with [reg. 4](https://www.legislation.gov.uk/wsi/2022/126/regulation/4))

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — British overseas territories[^key-1d91fe22568c21d75dd830da5f06da43]
+## SCHEDULE 1 — British overseas territories[^c-1d91fe22568c21d75dd830da5f06da43]
 
 *Extent: E+W+S+N.I.*
 
 Article 1(2)
 
-[^key-1d91fe22568c21d75dd830da5f06da43]
+[^c-1d91fe22568c21d75dd830da5f06da43]
 
 - Anguilla
 - British Antarctic Territory
@@ -39,4 +39,4 @@ Article 1(2)
 
 ## Annotations
 
-[^key-1d91fe22568c21d75dd830da5f06da43]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1271/schedule/1) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-1d91fe22568c21d75dd830da5f06da43]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1271/schedule/1) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)

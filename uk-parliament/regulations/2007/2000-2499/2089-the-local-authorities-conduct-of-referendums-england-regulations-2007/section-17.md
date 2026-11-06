@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Determination of referendum petitions and subsequent procedures[^key-4f18b09d7b84cd484f1bdc4bf0a1a6df]
+## 17. Determination of referendum petitions and subsequent procedures[^c-4f18b09d7b84cd484f1bdc4bf0a1a6df]
 
 *Extent: E+W*
 
@@ -87,4 +87,4 @@ and, where the court allows the petition, it must declare the referendum avoided
 
 ## Annotations
 
-[^key-4f18b09d7b84cd484f1bdc4bf0a1a6df]: Commencement: Reg. 17 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-4f18b09d7b84cd484f1bdc4bf0a1a6df]: Commencement: Reg. 17 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Meaning of “secure accommodation authorisation”[^key-264bc4cecccd2fca8bdcfde45a3aa7a3]
+## 85. Meaning of “secure accommodation authorisation”[^c-264bc4cecccd2fca8bdcfde45a3aa7a3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Act, “**secure accommodation authorisation**”, in relation to a chil
 
 ## Annotations
 
-[^key-264bc4cecccd2fca8bdcfde45a3aa7a3]: Commencement: S. 85 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-264bc4cecccd2fca8bdcfde45a3aa7a3]: Commencement: S. 85 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

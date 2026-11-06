@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Power to enter premises: entry to dwellinghouses[^key-ac82c3313a6c9941372dd6a02f0ff977]
+## 103. Power to enter premises: entry to dwellinghouses[^c-ac82c3313a6c9941372dd6a02f0ff977]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac82c3313a6c9941372dd6a02f0ff977]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2008/5/section/103) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)
+[^c-ac82c3313a6c9941372dd6a02f0ff977]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2008/5/section/103) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)

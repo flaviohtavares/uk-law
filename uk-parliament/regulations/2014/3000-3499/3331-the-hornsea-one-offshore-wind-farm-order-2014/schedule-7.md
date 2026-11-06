@@ -22,7 +22,7 @@ summary: ''
 
 Article 23
 
-### PART 1[^key-2a64b343d2d803c06685d7edaf6fa389]
+### PART 1[^c-2a64b343d2d803c06685d7edaf6fa389]
 
 <table>
 <thead>
@@ -45,7 +45,7 @@ Article 23
 </tbody>
 </table>
 
-### PART 2[^key-4f8cb888198d0c8c8331755247c66f17]
+### PART 2[^c-4f8cb888198d0c8c8331755247c66f17]
 
 <table>
 <thead>
@@ -61,6 +61,6 @@ Article 23
 
 ## Annotations
 
-[^key-2a64b343d2d803c06685d7edaf6fa389]: Commencement: Sch. 7 Pt. 1 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-2a64b343d2d803c06685d7edaf6fa389]: Commencement: Sch. 7 Pt. 1 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-4f8cb888198d0c8c8331755247c66f17]: Commencement: Sch. 7 Pt. 2 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-4f8cb888198d0c8c8331755247c66f17]: Commencement: Sch. 7 Pt. 2 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)

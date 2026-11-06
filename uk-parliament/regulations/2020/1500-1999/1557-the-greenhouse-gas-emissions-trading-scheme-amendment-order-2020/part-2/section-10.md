@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Article 18 amended (allowances)[^key-9d60e4c2827796b10ddf20f7c0f62509]
+## 10. Article 18 amended (allowances)[^c-9d60e4c2827796b10ddf20f7c0f62509]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d60e4c2827796b10ddf20f7c0f62509]: Commencement: Art. 10 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-9d60e4c2827796b10ddf20f7c0f62509]: Commencement: Art. 10 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

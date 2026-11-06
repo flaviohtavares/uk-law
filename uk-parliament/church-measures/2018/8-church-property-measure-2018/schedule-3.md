@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## SCHEDULE 3 — Repeals and revocations[^key-fcafdcb27b889e37ac197233435df1b2]
+## SCHEDULE 3 — Repeals and revocations[^c-fcafdcb27b889e37ac197233435df1b2]
 
 *Extent: E*
 
@@ -83,4 +83,4 @@ Section 52
 
 ## Annotations
 
-[^key-fcafdcb27b889e37ac197233435df1b2]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-fcafdcb27b889e37ac197233435df1b2]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

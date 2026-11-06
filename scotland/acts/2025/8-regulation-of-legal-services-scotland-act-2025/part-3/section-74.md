@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Restriction on disclosure of information: Commission[^key-089883806703de2a415a21272123bdf6]
+## 74. Restriction on disclosure of information: Commission[^c-089883806703de2a415a21272123bdf6]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-089883806703de2a415a21272123bdf6]: Commencement: S. 74 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-089883806703de2a415a21272123bdf6]: Commencement: S. 74 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

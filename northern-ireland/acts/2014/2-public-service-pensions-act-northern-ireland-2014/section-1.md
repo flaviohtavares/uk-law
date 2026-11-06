@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Schemes for persons in public service[^key-852a1cbbc57da944dde7a1a1ea6d48b4]
+## 1. Schemes for persons in public service[^c-852a1cbbc57da944dde7a1a1ea6d48b4]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-852a1cbbc57da944dde7a1a1ea6d48b4]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2014/2/section/1) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/a)
+[^c-852a1cbbc57da944dde7a1a1ea6d48b4]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2014/2/section/1) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/a)

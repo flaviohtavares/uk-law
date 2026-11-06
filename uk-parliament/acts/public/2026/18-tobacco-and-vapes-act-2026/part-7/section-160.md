@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. No-smoking signs in Northern Ireland[^key-f74eefe25ffbc6c64b8b270c0ebc64b2]
+## 160. No-smoking signs in Northern Ireland[^c-f74eefe25ffbc6c64b8b270c0ebc64b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f74eefe25ffbc6c64b8b270c0ebc64b2]: Commencement: S. 160 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)
+[^c-f74eefe25ffbc6c64b8b270c0ebc64b2]: Commencement: S. 160 not in force at Royal Assent, see [s. 176(3)(d)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/3/d)

@@ -48,11 +48,11 @@ The Commissioners for His Majesty’s Revenue and Customs make these Regulations
 
 The Commissioners for His Majesty’s Revenue and Customs consider that making regulation 4 would facilitate the administration, collection and enforcement of a duty of customs.
 
-## 1. Citation and commencement[^key-17adefd4d5bb2eea94aa730b416f2f6d]
+## 1. Citation and commencement[^c-17adefd4d5bb2eea94aa730b416f2f6d]
 
 These Regulations may be cited as the Customs (Miscellaneous Amendments) Regulations 2024 and come into force on 30th September 2024.
 
-## 2. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^key-ed406557069ffa1c2d00badf4cf4c602]
+## 2. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^c-ed406557069ffa1c2d00badf4cf4c602]
 
 (1) The Customs (Import Duty) (EU Exit) Regulations 2018[^f00003] are amended as follows.
 
@@ -95,7 +95,7 @@ These Regulations may be cited as the Customs (Miscellaneous Amendments) Regulat
 - (a) in paragraph (1A)(c), omit paragraph (i);
 - (b) omit paragraph (1B).
 
-## 3. Amendment of the Customs Transit Procedures (EU Exit) Regulations 2018[^key-38d94804526b502821a42be7bc25e97b]
+## 3. Amendment of the Customs Transit Procedures (EU Exit) Regulations 2018[^c-38d94804526b502821a42be7bc25e97b]
 
 (1) The Customs Transit Procedures (EU Exit) Regulations 2018[^f00004] are amended as follows.
 
@@ -107,11 +107,11 @@ These Regulations may be cited as the Customs (Miscellaneous Amendments) Regulat
 
   ;
 - (b) in paragraph 18(2) (formalities in Great Britain), in paragraph (c) after “sub-paragraphs” insert “(aa) and”;
-- (c)[^key-58e5e1d0a7498f5528be7c1c1a2ed84d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-58e5e1d0a7498f5528be7c1c1a2ed84d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-58e5e1d0a7498f5528be7c1c1a2ed84d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-58e5e1d0a7498f5528be7c1c1a2ed84d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-58e5e1d0a7498f5528be7c1c1a2ed84d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-58e5e1d0a7498f5528be7c1c1a2ed84d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018[^key-c6cb9509b07df352fefb0ce159839c95]
+## 4. Amendment of the Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018[^c-c6cb9509b07df352fefb0ce159839c95]
 
 (1) The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018[^f00006] are amended as follows.
 
@@ -130,7 +130,7 @@ These Regulations may be cited as the Customs (Miscellaneous Amendments) Regulat
 
   .
 
-## 5. Amendment of the Customs (Bulk Customs Declaration and Miscellaneous Amendments) (EU Exit) Regulations 2020[^key-e50efef94f5c62a910c64768ca6dcad6]
+## 5. Amendment of the Customs (Bulk Customs Declaration and Miscellaneous Amendments) (EU Exit) Regulations 2020[^c-e50efef94f5c62a910c64768ca6dcad6]
 
 (1) The Customs (Bulk Customs Declaration and Miscellaneous Amendments) (EU Exit) Regulations 2020[^f00007] are amended as follows.
 
@@ -179,22 +179,22 @@ An Impact Assessment has not been prepared for this instrument because it does n
 
 [^f00002]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-17adefd4d5bb2eea94aa730b416f2f6d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/194/regulation/1) in force at 30.9.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/194/regulation/1)
+[^c-17adefd4d5bb2eea94aa730b416f2f6d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/194/regulation/1) in force at 30.9.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/194/regulation/1)
 
-[^key-ed406557069ffa1c2d00badf4cf4c602]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/194/regulation/2) in force at 30.9.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/194/regulation/1)
+[^c-ed406557069ffa1c2d00badf4cf4c602]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2024/194/regulation/2) in force at 30.9.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/194/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248) (“**the Import Duty Regulations**”). Relevant amending instruments are [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326), [2019/1215](https://www.legislation.gov.uk/uksi/2019/1215), [2019/1346](https://www.legislation.gov.uk/uksi/2019/1346), [2020/967](https://www.legislation.gov.uk/uksi/2020/967), [2020/1088](https://www.legislation.gov.uk/uksi/2020/1088), [2023/569](https://www.legislation.gov.uk/uksi/2023/569).
 
-[^key-38d94804526b502821a42be7bc25e97b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/194/regulation/3) in force at 30.9.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/194/regulation/1)
+[^c-38d94804526b502821a42be7bc25e97b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2024/194/regulation/3) in force at 30.9.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/194/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2018/1258](https://www.legislation.gov.uk/uksi/2018/1258), amended by [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215) and [2020/1605](https://www.legislation.gov.uk/uksi/2020/1605); there are other amending instruments but none are relevant.
 
-[^key-58e5e1d0a7498f5528be7c1c1a2ed84d]: Textual amendment: [Reg. 3(2)(c)-(e)](https://www.legislation.gov.uk/uksi/2024/194/regulation/3/2/c) omitted (16.7.2025) by virtue of [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2025/745/regulation/13) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/2))
+[^c-58e5e1d0a7498f5528be7c1c1a2ed84d]: Textual amendment: [Reg. 3(2)(c)-(e)](https://www.legislation.gov.uk/uksi/2024/194/regulation/3/2/c) omitted (16.7.2025) by virtue of [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2025/745/regulation/13) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/2))
 
-[^key-c6cb9509b07df352fefb0ce159839c95]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/194/regulation/4) in force at 30.9.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/194/regulation/1)
+[^c-c6cb9509b07df352fefb0ce159839c95]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/194/regulation/4) in force at 30.9.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/194/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2018/1247](https://www.legislation.gov.uk/uksi/2018/1247), amended by [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326); there are other amending instruments but none are relevant.
 
-[^key-e50efef94f5c62a910c64768ca6dcad6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/194/regulation/5) in force at 30.9.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/194/regulation/1)
+[^c-e50efef94f5c62a910c64768ca6dcad6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/194/regulation/5) in force at 30.9.2024, see [reg. 1](https://www.legislation.gov.uk/uksi/2024/194/regulation/1)
 
 [^f00007]: Footnote: [S.I. 2020/967](https://www.legislation.gov.uk/uksi/2020/967); to which there are amendments not relevant to these Regulations.

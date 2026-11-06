@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Failure to reach an agreement[^key-e3b68ee2e8de8e903b70aee70646b536][^key-3b5a7b74bb7ba4abe56d4ace05a6b5ce]
+## 45. Failure to reach an agreement[^c-e3b68ee2e8de8e903b70aee70646b536][^c-3b5a7b74bb7ba4abe56d4ace05a6b5ce]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e3b68ee2e8de8e903b70aee70646b536]: Commencement: S. 45 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-e3b68ee2e8de8e903b70aee70646b536]: Commencement: S. 45 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-3b5a7b74bb7ba4abe56d4ace05a6b5ce]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2025/36/section/45) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(15)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/15)
+[^c-3b5a7b74bb7ba4abe56d4ace05a6b5ce]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2025/36/section/45) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(15)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/15)

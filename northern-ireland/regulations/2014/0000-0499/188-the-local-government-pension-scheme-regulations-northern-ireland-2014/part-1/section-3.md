@@ -25,12 +25,12 @@ summary: ''
 - (a) employed by an employing authority; or
 - (b) employed by an admission body within the meaning of paragraph 116 of Part 1 (admission bodies) of Schedule 2 (admission agreements with admission bodies) and is designated in the admission agreement, or belongs to a class of employees that is designated in the admission agreement by the admission body as being eligible for membership of the Scheme.
 
-(2)[^key-ba0def346bb65aa1d7dbbd1214393c9e] Subject to paragraph (3), a person eligible to be an active member of the Scheme in an employment becomes an active member on the day that person's employment begins or (if later) the day the person becomes eligible for membership.
+(2)[^c-ba0def346bb65aa1d7dbbd1214393c9e] Subject to paragraph (3), a person eligible to be an active member of the Scheme in an employment becomes an active member on the day that person's employment begins or (if later) the day the person becomes eligible for membership.
 
 (3) A person who would, apart from this paragraph, be an active member of the Scheme by virtue of paragraph (2) who is employed under a contract of employment of less than three months does not become an active member on the day specified in paragraph (2) but becomes an active member—
 
 - (a) on the member's automatic enrolment date;
-- (b)[^key-8c282b764fa058a94dae07cfab3e7b8c] where regulation 7(2) (ending active membership) applies, on the person’s automatic re-enrolment date or if the person applies to become a member on the first day of the first payment period following the application; or
+- (b)[^c-8c282b764fa058a94dae07cfab3e7b8c] where regulation 7(2) (ending active membership) applies, on the person’s automatic re-enrolment date or if the person applies to become a member on the first day of the first payment period following the application; or
 - (c) on the first day of the payment period following an extension to the contract of employment which means that the contract of employment is to be for three months or more;
 
 whichever is the earlier.
@@ -48,7 +48,7 @@ whichever is the earlier.
 - (d) a transfer value payment has been received in respect of rights accrued in a scheme or arrangement that does not permit a refund of contributions to the member;
 - (e) the member has paid National Insurance contributions whilst an active member of the Scheme and ceases active membership after the end of the tax year preceding that in which the member attains pensionable age;
 - (f) the member already holds a deferred benefit or is in receipt of a pension (other than a survivor's pension or pension credit member's pension) under these Regulations;
-- (g)[^key-492ba59071a910e82aab553df10e6f65] a transfer value payment has been made to a qualifying recognised overseas pension scheme;
+- (g)[^c-492ba59071a910e82aab553df10e6f65] a transfer value payment has been made to a qualifying recognised overseas pension scheme;
 - (h) the member ceases active membership at age 75; or
 - (i) the member dies in service.
 
@@ -61,8 +61,8 @@ whichever is the earlier.
 
 ## Annotations
 
-[^key-ba0def346bb65aa1d7dbbd1214393c9e]: Modification: Reg. 3(2) restricted (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2014/189/regulation/5/3)
+[^c-ba0def346bb65aa1d7dbbd1214393c9e]: Modification: Reg. 3(2) restricted (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2014/189/regulation/5/3)
 
-[^key-8c282b764fa058a94dae07cfab3e7b8c]: Textual amendment: Reg. 3(3)(b) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2016/128/regulation/3)
+[^c-8c282b764fa058a94dae07cfab3e7b8c]: Textual amendment: Reg. 3(3)(b) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/128)](https://www.legislation.gov.uk/nisr/2016/128), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2016/128/regulation/3)
 
-[^key-492ba59071a910e82aab553df10e6f65]: Textual amendment: Reg. 3(5)(g)-(i) substituted for reg. 3(5)(g)(h) (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2015/162/regulation/3)
+[^c-492ba59071a910e82aab553df10e6f65]: Textual amendment: Reg. 3(5)(g)-(i) substituted for reg. 3(5)(g)(h) (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2015/162/regulation/3)

@@ -33,33 +33,33 @@ of 2 July 2019
 
 on the uniform conditions for the harmonised application of territorial typologies pursuant to Regulation (EC) No 1059/2003 of the European Parliament and of the Council (revoked)
 
-[^key-28ead93bd337ff5eca03035371f113b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28ead93bd337ff5eca03035371f113b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-28ead93bd337ff5eca03035371f113b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-28ead93bd337ff5eca03035371f113b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-28ead93bd337ff5eca03035371f113b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-28ead93bd337ff5eca03035371f113b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28ead93bd337ff5eca03035371f113b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-28ead93bd337ff5eca03035371f113b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-28ead93bd337ff5eca03035371f113b3]
+## ANNEX[^c-28ead93bd337ff5eca03035371f113b3]
 
-[^key-28ead93bd337ff5eca03035371f113b3]1.
+[^c-28ead93bd337ff5eca03035371f113b3]1.
 
 The uniform conditions for the harmonised application of the grid-based typology shall be the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28ead93bd337ff5eca03035371f113b3]2.
+[^c-28ead93bd337ff5eca03035371f113b3]2.
 
 The uniform conditions for the harmonised application of the typologies at LAU level shall be the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-28ead93bd337ff5eca03035371f113b3]3.
+[^c-28ead93bd337ff5eca03035371f113b3]3.
 
 The uniform conditions for the harmonised application of the typologies at NUTS level 3 shall be the following:
 
@@ -67,4 +67,4 @@ The uniform conditions for the harmonised application of the typologies at NUTS 
 
 ## Annotations
 
-[^key-28ead93bd337ff5eca03035371f113b3]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 109](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/109)
+[^c-28ead93bd337ff5eca03035371f113b3]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 109](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/109)

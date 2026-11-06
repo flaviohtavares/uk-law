@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. War crimes: abolition of transfer procedure.[^key-53a2ce09cbbafd37597d36c1aa707071][^c11039761]
+## 46. War crimes: abolition of transfer procedure.[^c-53a2ce09cbbafd37597d36c1aa707071][^c11039761]
 
 *Extent: E+W+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-53a2ce09cbbafd37597d36c1aa707071]: Textual amendment: S. 46 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+[^c-53a2ce09cbbafd37597d36c1aa707071]: Textual amendment: S. 46 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
 
 [^c11039761]: Extent: In its application to Northern Ireland, this section has effect subject to the modifications set out in Schedule 4; see s. 79

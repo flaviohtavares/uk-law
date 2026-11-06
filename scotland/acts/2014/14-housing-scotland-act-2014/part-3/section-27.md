@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Appeals in relation to third party applications[^key-de2ec250a943fc37f5c25cd69bbfc383]
+## 27. Appeals in relation to third party applications[^c-de2ec250a943fc37f5c25cd69bbfc383]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de2ec250a943fc37f5c25cd69bbfc383]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2014/14/section/27) in force at 1.12.2015 by [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule)
+[^c-de2ec250a943fc37f5c25cd69bbfc383]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2014/14/section/27) in force at 1.12.2015 by [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule)

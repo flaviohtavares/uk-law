@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Without prejudice to any existing power of the High Court, it may for the purposes of an appeal under section 106(1), 107A, 107B[^key-73ddda71008fa4289d35db0992c03410] or 108 of this Act—
+(1) Without prejudice to any existing power of the High Court, it may for the purposes of an appeal under section 106(1), 107A, 107B[^c-73ddda71008fa4289d35db0992c03410] or 108 of this Act—
 
 - (a) order the production of any document or other thing connected with the proceedings;
 - (b) hear any [^c14470081]. . .evidence relevant to any alleged miscarriage of justice or order such evidence to be heard by a judge of the High Court or by such other person as it may appoint for that purpose;
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-73ddda71008fa4289d35db0992c03410]: Textual amendment: Words in s. 104(1) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 75](https://www.legislation.gov.uk/asp/2010/13/section/75), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-73ddda71008fa4289d35db0992c03410]: Textual amendment: Words in s. 104(1) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 75](https://www.legislation.gov.uk/asp/2010/13/section/75), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c14470081]: Textual amendment: Word in s. 104(1)(b) repealed (1.8.1997) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48) , [s. 62(1)(2)](https://www.legislation.gov.uk/ukpga/1997/48/section/62/1/2) , [Sch. 1 para. 21(14)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/21/14) , [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/48/schedule/3) ; [S.I. 1997/1712](https://www.legislation.gov.uk/uksi/1997/1712) , [art. 3](https://www.legislation.gov.uk/uksi/1997/1712/article/3) , [Sch.](https://www.legislation.gov.uk/uksi/1997/1712/schedule) (subject to [arts. 4](https://www.legislation.gov.uk/uksi/1997/1712/article/4) , [5](https://www.legislation.gov.uk/uksi/1997/1712/article/5) )

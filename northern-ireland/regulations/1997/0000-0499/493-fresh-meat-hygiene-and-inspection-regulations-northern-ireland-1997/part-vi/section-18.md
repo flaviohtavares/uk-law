@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Records of inspections[^key-f5f4e4cfddaa27be02abb7930b364a3b]
+## 18. Records of inspections[^c-f5f4e4cfddaa27be02abb7930b364a3b]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f5f4e4cfddaa27be02abb7930b364a3b]: Commencement: Reg. 18 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-f5f4e4cfddaa27be02abb7930b364a3b]: Commencement: Reg. 18 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
 [^f00018]: Footnote: O.J. No. L.268, 24.4.91, p. 69

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13ZB. Change in reckonable rent[^key-2fdd98c383293136721c20e622da6b59]
+## 13ZB. Change in reckonable rent[^c-2fdd98c383293136721c20e622da6b59]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ the maximum rent shall be reduced to an amount equal to the reduced reckonable r
 
 ## Annotations
 
-[^key-2fdd98c383293136721c20e622da6b59]: Textual amendment: Regs. 13-13ZB substituted for reg. 13 (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2007/2868/regulation/6) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6)(as amended by S.I. 2008/1082, reg. 2))
+[^c-2fdd98c383293136721c20e622da6b59]: Textual amendment: Regs. 13-13ZB substituted for reg. 13 (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2007/2868/regulation/6) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6)(as amended by S.I. 2008/1082, reg. 2))

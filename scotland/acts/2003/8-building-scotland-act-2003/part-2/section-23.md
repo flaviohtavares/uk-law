@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Discharge and variation of continuing requirements imposed by verifiers[^key-7ed22ceebbaf1a0f94177f08c2beea41]
+## 23. Discharge and variation of continuing requirements imposed by verifiers[^c-7ed22ceebbaf1a0f94177f08c2beea41]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ed22ceebbaf1a0f94177f08c2beea41]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2003/8/section/23) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-7ed22ceebbaf1a0f94177f08c2beea41]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2003/8/section/23) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

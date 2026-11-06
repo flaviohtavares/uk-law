@@ -33,12 +33,12 @@ summary: ''
 (3) For rules about the calculation of losses for the purposes of this Part, see—
 
 - (a) section 26 of ITTOIA 2005 (losses of a trade, profession or vocation calculated on same basis as profits),
-- (b) sections 272 and 272ZA[^key-f7632a409b390f3c3550ae651ffcbcaf] of ITTOIA 2005 (which apply[^key-0fde255d5050cb26f44b43b61b24bc0e] section 26 of that Act, so that losses of a UK property business or overseas property business are calculated on the same basis as profits),
+- (b) sections 272 and 272ZA[^c-f7632a409b390f3c3550ae651ffcbcaf] of ITTOIA 2005 (which apply[^c-0fde255d5050cb26f44b43b61b24bc0e] section 26 of that Act, so that losses of a UK property business or overseas property business are calculated on the same basis as profits),
 - (c) section 11 of ITEPA 2003 (calculation of “net taxable earnings”), and
 - (d) section 872 of ITTOIA 2005 (losses from miscellaneous transactions calculated on same basis as miscellaneous income).
 
 ## Annotations
 
-[^key-f7632a409b390f3c3550ae651ffcbcaf]: Textual amendment: Words in [s. 59(3)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/59/3/b) substituted (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 61(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/61/a)
+[^c-f7632a409b390f3c3550ae651ffcbcaf]: Textual amendment: Words in [s. 59(3)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/59/3/b) substituted (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 61(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/61/a)
 
-[^key-0fde255d5050cb26f44b43b61b24bc0e]: Textual amendment: Word in [s. 59(3)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/59/3/b) substituted (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 61(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/61/b)
+[^c-0fde255d5050cb26f44b43b61b24bc0e]: Textual amendment: Word in [s. 59(3)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/59/3/b) substituted (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 61(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/61/b)

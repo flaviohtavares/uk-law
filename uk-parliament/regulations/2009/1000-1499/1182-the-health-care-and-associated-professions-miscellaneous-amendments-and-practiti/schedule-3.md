@@ -22,20 +22,20 @@ summary: ''
 
 Article 3(3)
 
-### 1. Amendment of article 2[^key-2942f974d5023ca6e70bb8cc72729599]
+### 1. Amendment of article 2[^c-2942f974d5023ca6e70bb8cc72729599]
 
 In article 2 (extent)—
 
 - (a) in paragraph (1), for “paragraphs (2) and” substitute “paragraph”; and
 - (b) omit paragraph (2).
 
-### 2. Amendment of article 3[^key-d6e2011c709f568dda38887059a2364d]
+### 2. Amendment of article 3[^c-d6e2011c709f568dda38887059a2364d]
 
 In article 3[^f00053] (interpretation), after paragraph (2) insert the following paragraph—
 
 > (3) For the purposes of articles 19A and 19B, “emergency” means an emergency of the type described in section 19(1)(a) of the Civil Contingencies Act 2004[^f00054] (meaning of “emergency”), read with subsection (2)(a) and (b) of that section.
 
-### 3. Amendment of article 4[^key-caa0e3f7940e778ab8b05dcedd04d3fb]
+### 3. Amendment of article 4[^c-caa0e3f7940e778ab8b05dcedd04d3fb]
 
 In article 4 (the Society’s general duties)—
 
@@ -51,7 +51,7 @@ In article 4 (the Society’s general duties)—
   ; and
 - (c) in paragraph (3)(b), after “England” insert “, Scotland”.
 
-### 4. Amendment of article 6[^key-998fc96ee8148f136536f77914949513]
+### 4. Amendment of article 6[^c-998fc96ee8148f136536f77914949513]
 
 In article 6 (the Council’s duties in respect of publications)—
 
@@ -72,11 +72,11 @@ In article 6 (the Council’s duties in respect of publications)—
   ; and
 - (c) in paragraph (4), after “House of Parliament” insert “and the Scottish Parliament”.
 
-### 5. Amendment of article 7[^key-56798d9db2b459a76907aaac0ddbe07b]
+### 5. Amendment of article 7[^c-56798d9db2b459a76907aaac0ddbe07b]
 
 In article 7 (the statutory committees), in paragraph (5)(d), after “established under the Charter” insert “or a group established for the purposes of paragraph (2)(b) in accordance with rules under this article”.
 
-### 6. New articles 19A and 19B[^key-8675206f230c0bb6dbbe567d41b7d05a]
+### 6. New articles 19A and 19B[^c-8675206f230c0bb6dbbe567d41b7d05a]
 
 After article 19, insert the following articles—
 
@@ -132,26 +132,26 @@ After article 19, insert the following articles—
 >
 > (4) A registrant whose entry in Part 1 of the Register of Pharmacists is annotated by virtue of paragraph (1)(b) as one of a specified group may have that annotation removed without the Registrar removing the equivalent annotations of the other members of the group or by virtue of a decision to remove the annotations made by virtue of paragraph (1)(b) of all the members of the group.
 
-### 7. Amendment of article 22[^key-f25c957a3d9369fe10f0244fe3d56675]
+### 7. Amendment of article 22[^c-f25c957a3d9369fe10f0244fe3d56675]
 
 In article 22 (entitlement to registration in the Register of Pharmacy Technicians), in paragraph (2), for “England, Wales” substitute “Great Britain”.
 
-### 8. Amendment of article 23[^key-69319a312b63709e7df95c45030d8115]
+### 8. Amendment of article 23[^c-69319a312b63709e7df95c45030d8115]
 
 In article 23 (preregistration requirements for pharmacy technicians in respect of qualifications and additional education, training or experience), in paragraph (1)—
 
 - (a) in sub-paragraph (a), for “England or Wales” substitute “Great Britain”; and
 - (b) in sub-paragraph (c), for “England or Wales” (in both places) substitute “Great Britain”.
 
-### 9. Amendment of article 24[^key-f5f58b395672edefacdd95d0d7777868]
+### 9. Amendment of article 24[^c-f5f58b395672edefacdd95d0d7777868]
 
 In article 24 (general functions of the Society in respect of pharmacy technicians’ and prospective pharmacy technicians’ education, training and the acquisition of experience), in paragraph (b), for “England and Wales,” substitute “Great Britain,”.
 
-### 10. Amendment of article 25[^key-18af4deb3ce8f39183cac1d880de484a]
+### 10. Amendment of article 25[^c-18af4deb3ce8f39183cac1d880de484a]
 
 In article 25 (specific obligations of the Society in respect of pharmacy technicians’ and prospective pharmacy technicians’ education, training and the acquisition of experience), in paragraph (a), for “England and Wales” substitute “Great Britain”.
 
-### 11. Amendment of article 30[^key-4226e4bf1564a3e3afa2588c4cd73c3d]
+### 11. Amendment of article 30[^c-4226e4bf1564a3e3afa2588c4cd73c3d]
 
 In article 30 (the Society’s registers)—
 
@@ -167,30 +167,30 @@ In article 30 (the Society’s registers)—
 
   > (6) Notwithstanding any other provision of this Order, the Registrar is not under an obligation to make an entry in the Register of Pharmacists in respect of any person registered by virtue of article 19A(1)(b) until the Registrar has been able to ascertain the person’s name.
 
-### 12. Amendment of article 32[^key-6255efb7a9d6cc9614b56f666f16cc0d]
+### 12. Amendment of article 32[^c-6255efb7a9d6cc9614b56f666f16cc0d]
 
 In article 32 (certificates of registration), in paragraph (1) after “registrant”, where it first appears, insert “(other than one registered under article 19A)”.
 
-### 13. Amendment of article 34[^key-d8090ebfc11fdfda4cf64306233f62f3]
+### 13. Amendment of article 34[^c-d8090ebfc11fdfda4cf64306233f62f3]
 
 In article 34 (corrections of the register), in paragraph (2), for “pharmacist or a pharmacy technician” substitute “person whom the Registrar General believes to be a registrant”.
 
-### 14. Amendment of article 40[^key-86bf9c1411307fcb2a02c76da9eeeb1f]
+### 14. Amendment of article 40[^c-86bf9c1411307fcb2a02c76da9eeeb1f]
 
 In article 40[^f00055] (fees in connection with registration), in paragraph (1A), after “the Society’s registers” insert “, registration under article 19A or annotations under article 19B”.
 
-### 15. Amendment of article 42[^key-1eb5f84f399b5564cffafbb6eb1efd1c]
+### 15. Amendment of article 42[^c-1eb5f84f399b5564cffafbb6eb1efd1c]
 
 In article 42 (appealable registration decisions), in paragraph (1)(o), for “England and Wales” substitute “Great Britain”.
 
-### 16. Amendment of article 44[^key-084c9291c22fef7fd7b305bd290272cb]
+### 16. Amendment of article 44[^c-084c9291c22fef7fd7b305bd290272cb]
 
 In article 44 (appeals from the Registration Appeals Committee), in paragraph (2)—
 
 - (a) in sub-paragraph (a), for “England or Wales” substitute “Great Britain”; and
 - (b) in sub-paragraph (b), omit “and” at the end of paragraph (i) and omit paragraph (ii).
 
-### 17. Amendment of article 46[^key-a4414309bb9e074a04e0704a3974994b][^key-9528046df61e41532527efe3ab3822d7]
+### 17. Amendment of article 46[^c-a4414309bb9e074a04e0704a3974994b][^c-9528046df61e41532527efe3ab3822d7]
 
 In article 46 (disclosure of information: general)—
 
@@ -206,14 +206,14 @@ In article 46 (disclosure of information: general)—
   ; and
 - (b) in paragraph (5)(b), omit paragraph (i) and the “and” at the end of that paragraph.
 
-### 18. Amendment of article 48[^key-677c781d9083527725edf36383c4f3fe]
+### 18. Amendment of article 48[^c-677c781d9083527725edf36383c4f3fe]
 
 In article 48 (impairment of fitness to practise), in paragraph (1), omit “or” at the end of sub-paragraph (j) and after sub-paragraph (k) insert—
 
 > - (l) the Independent Barring Board including the person in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006 or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007); or
 > - (m) the Scottish Ministers including the person in the children’s list or the adults’ list (within the meaning of the Protection of Vulnerable Groups (Scotland) Act 2007).
 
-### 19. Amendment of article 49[^key-3b93a3d6d02e98ce9157fe1c58dcd629][^key-b9e30a321d9afe7f126abd67ea248ad4]
+### 19. Amendment of article 49[^c-3b93a3d6d02e98ce9157fe1c58dcd629][^c-b9e30a321d9afe7f126abd67ea248ad4]
 
 In article 49 (initial action in respect of allegations)—
 
@@ -227,7 +227,7 @@ In article 49 (initial action in respect of allegations)—
   - (ii) insert “and” at the end of sub-paragraph (b), omit “and” at the end of sub-paragraph (c) and omit sub-paragraph (d); and
 - (c) in paragraph (5)(b), omit “a registered pharmacist”.
 
-### 20. Amendment of article 53[^key-02f643c3ca509aef593364e2997c0e6d]
+### 20. Amendment of article 53[^c-02f643c3ca509aef593364e2997c0e6d]
 
 In article 53 (professional performance assessments), in paragraph (7), for sub-paragraphs (a) and (b) substitute the following sub-paragraphs—
 
@@ -236,26 +236,26 @@ In article 53 (professional performance assessments), in paragraph (7), for sub-
 
 .
 
-### 21. Amendment of article 54[^key-6e3ed335e3a6d3ba90da65f64e7799c4]
+### 21. Amendment of article 54[^c-6e3ed335e3a6d3ba90da65f64e7799c4]
 
 In article 54 (interim orders), in paragraph (12)(a), for “registered pharmacist” substitute “registrant”.
 
-### 22. Amendment of article 56[^key-90338d17c394e5dcd8090bb668074355]
+### 22. Amendment of article 56[^c-90338d17c394e5dcd8090bb668074355]
 
 In article 56 (appeals against appealable fitness to practise decisions), in paragraph (3)(b), omit “as regards an application relating to registration in the Register of Pharmacists,”.
 
-### 23. Amendment of article 58[^key-93d1a643309d852c72695d793ea592bb]
+### 23. Amendment of article 58[^c-93d1a643309d852c72695d793ea592bb]
 
 In article 58 (interim measures pending a direction taking effect), in paragraph (5)(a), for “registered pharmacist” substitute “registrant”.
 
-### 24. Amendment of article 66[^key-4081a8c20339c9d2932c201f09d08a3a]
+### 24. Amendment of article 66[^c-4081a8c20339c9d2932c201f09d08a3a]
 
 In article 66 (rules), in paragraph (3)—
 
 - (a) for “Part 6 of this Order” substitute “article 59”; and
 - (b) in sub-paragraph (c), omit “unless the rules relate exclusively to proceedings with regard to pharmacy technicians,”.
 
-### 25. Amendment of article 69[^key-731eedf923e5aec32502f5d7ff46cbdb]
+### 25. Amendment of article 69[^c-731eedf923e5aec32502f5d7ff46cbdb]
 
 In article 69 (Privy Council procedures etc.)—
 
@@ -285,7 +285,7 @@ In article 69 (Privy Council procedures etc.)—
 
   > (4) For the purposes of section 1 of the Statutory Instruments Act 1946 (definition of “Statutory Instrument”), any power to which paragraph (1A) or (1B) applies is to be taken to be conferred by an Act of Parliament.
 
-### 26. Amendment of Schedule 2[^key-1ed031542fb05bd65d6e02f4ec63ef5f][^key-0a4fd3ceb9205c250d303637d01a9881]
+### 26. Amendment of Schedule 2[^c-1ed031542fb05bd65d6e02f4ec63ef5f][^c-0a4fd3ceb9205c250d303637d01a9881]
 
 In Schedule 2 (transitional provisions)—
 
@@ -294,66 +294,66 @@ In Schedule 2 (transitional provisions)—
 
 ## Annotations
 
-[^key-2942f974d5023ca6e70bb8cc72729599]: Commencement: Sch. 3 para. 1 comes into force in accordance with art. 1(3)(5)
+[^c-2942f974d5023ca6e70bb8cc72729599]: Commencement: Sch. 3 para. 1 comes into force in accordance with art. 1(3)(5)
 
-[^key-d6e2011c709f568dda38887059a2364d]: Commencement: Sch. 3 para. 2 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-d6e2011c709f568dda38887059a2364d]: Commencement: Sch. 3 para. 2 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
 [^f00053]: Footnote: Amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
 [^f00054]: Footnote: [2004 c.36](https://www.legislation.gov.uk/ukpga/2004/36).
 
-[^key-caa0e3f7940e778ab8b05dcedd04d3fb]: Commencement: Sch. 3 para. 3(b)(c) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-caa0e3f7940e778ab8b05dcedd04d3fb]: Commencement: Sch. 3 para. 3(b)(c) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-998fc96ee8148f136536f77914949513]: Commencement: Sch. 3 para. 4 comes into force in accordance with art. 1(3)(5)
+[^c-998fc96ee8148f136536f77914949513]: Commencement: Sch. 3 para. 4 comes into force in accordance with art. 1(3)(5)
 
-[^key-56798d9db2b459a76907aaac0ddbe07b]: Commencement: Sch. 3 para. 5 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-56798d9db2b459a76907aaac0ddbe07b]: Commencement: Sch. 3 para. 5 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-8675206f230c0bb6dbbe567d41b7d05a]: Commencement: Sch. 3 para. 6 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-8675206f230c0bb6dbbe567d41b7d05a]: Commencement: Sch. 3 para. 6 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-f25c957a3d9369fe10f0244fe3d56675]: Commencement: Sch. 3 para. 7 comes into force in accordance with art. 1(3)(5)
+[^c-f25c957a3d9369fe10f0244fe3d56675]: Commencement: Sch. 3 para. 7 comes into force in accordance with art. 1(3)(5)
 
-[^key-69319a312b63709e7df95c45030d8115]: Commencement: Sch. 3 para. 8 comes into force in accordance with art. 1(3)(5)
+[^c-69319a312b63709e7df95c45030d8115]: Commencement: Sch. 3 para. 8 comes into force in accordance with art. 1(3)(5)
 
-[^key-f5f58b395672edefacdd95d0d7777868]: Commencement: Sch. 3 para. 9 comes into force in accordance with art. 1(3)(5)
+[^c-f5f58b395672edefacdd95d0d7777868]: Commencement: Sch. 3 para. 9 comes into force in accordance with art. 1(3)(5)
 
-[^key-18af4deb3ce8f39183cac1d880de484a]: Commencement: Sch. 3 para. 10 comes into force in accordance with art. 1(3)(5)
+[^c-18af4deb3ce8f39183cac1d880de484a]: Commencement: Sch. 3 para. 10 comes into force in accordance with art. 1(3)(5)
 
-[^key-4226e4bf1564a3e3afa2588c4cd73c3d]: Commencement: Sch. 3 para. 11 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-4226e4bf1564a3e3afa2588c4cd73c3d]: Commencement: Sch. 3 para. 11 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-6255efb7a9d6cc9614b56f666f16cc0d]: Commencement: Sch. 3 para. 12 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-6255efb7a9d6cc9614b56f666f16cc0d]: Commencement: Sch. 3 para. 12 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-d8090ebfc11fdfda4cf64306233f62f3]: Commencement: Sch. 3 para. 13 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-d8090ebfc11fdfda4cf64306233f62f3]: Commencement: Sch. 3 para. 13 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-86bf9c1411307fcb2a02c76da9eeeb1f]: Commencement: Sch. 3 para. 14 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-86bf9c1411307fcb2a02c76da9eeeb1f]: Commencement: Sch. 3 para. 14 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
 [^f00055]: Footnote: A relevant amendment has been made by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
-[^key-1eb5f84f399b5564cffafbb6eb1efd1c]: Commencement: Sch. 3 para. 15 comes into force in accordance with art. 1(3)(5)
+[^c-1eb5f84f399b5564cffafbb6eb1efd1c]: Commencement: Sch. 3 para. 15 comes into force in accordance with art. 1(3)(5)
 
-[^key-084c9291c22fef7fd7b305bd290272cb]: Commencement: Sch. 3 para. 16 comes into force in accordance with art. 1(3)(5)
+[^c-084c9291c22fef7fd7b305bd290272cb]: Commencement: Sch. 3 para. 16 comes into force in accordance with art. 1(3)(5)
 
-[^key-a4414309bb9e074a04e0704a3974994b]: Commencement: Sch. 3 para. 17(a) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-a4414309bb9e074a04e0704a3974994b]: Commencement: Sch. 3 para. 17(a) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-9528046df61e41532527efe3ab3822d7]: Commencement: Sch. 3 para. 17(b) comes into force in accordance with art. 1(3)(5)(9)
+[^c-9528046df61e41532527efe3ab3822d7]: Commencement: Sch. 3 para. 17(b) comes into force in accordance with art. 1(3)(5)(9)
 
-[^key-677c781d9083527725edf36383c4f3fe]: Commencement: Sch. 3 para. 18 comes into force in accordance with art. 1(3)(6)
+[^c-677c781d9083527725edf36383c4f3fe]: Commencement: Sch. 3 para. 18 comes into force in accordance with art. 1(3)(6)
 
-[^key-3b93a3d6d02e98ce9157fe1c58dcd629]: Commencement: Sch. 3 para. 19(a) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-3b93a3d6d02e98ce9157fe1c58dcd629]: Commencement: Sch. 3 para. 19(a) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-b9e30a321d9afe7f126abd67ea248ad4]: Commencement: Sch. 3 para. 19(b)(c) comes into force in accordance with art. 1(3)(5)(9)
+[^c-b9e30a321d9afe7f126abd67ea248ad4]: Commencement: Sch. 3 para. 19(b)(c) comes into force in accordance with art. 1(3)(5)(9)
 
-[^key-02f643c3ca509aef593364e2997c0e6d]: Commencement: Sch. 3 para. 20 comes into force in accordance with art. 1(3)(5)
+[^c-02f643c3ca509aef593364e2997c0e6d]: Commencement: Sch. 3 para. 20 comes into force in accordance with art. 1(3)(5)
 
-[^key-6e3ed335e3a6d3ba90da65f64e7799c4]: Commencement: Sch. 3 para. 21 comes into force in accordance with art. 1(3)(5)
+[^c-6e3ed335e3a6d3ba90da65f64e7799c4]: Commencement: Sch. 3 para. 21 comes into force in accordance with art. 1(3)(5)
 
-[^key-90338d17c394e5dcd8090bb668074355]: Commencement: Sch. 3 para. 22 comes into force in accordance with art. 1(3)(5)
+[^c-90338d17c394e5dcd8090bb668074355]: Commencement: Sch. 3 para. 22 comes into force in accordance with art. 1(3)(5)
 
-[^key-93d1a643309d852c72695d793ea592bb]: Commencement: Sch. 3 para. 23 comes into force in accordance with art. 1(3)(5)
+[^c-93d1a643309d852c72695d793ea592bb]: Commencement: Sch. 3 para. 23 comes into force in accordance with art. 1(3)(5)
 
-[^key-4081a8c20339c9d2932c201f09d08a3a]: Commencement: Sch. 3 para. 24 comes into force in accordance with art. 1(3)(5)(9)
+[^c-4081a8c20339c9d2932c201f09d08a3a]: Commencement: Sch. 3 para. 24 comes into force in accordance with art. 1(3)(5)(9)
 
-[^key-731eedf923e5aec32502f5d7ff46cbdb]: Commencement: Sch. 3 para. 25 comes into force in accordance with art. 1(3)(5)
+[^c-731eedf923e5aec32502f5d7ff46cbdb]: Commencement: Sch. 3 para. 25 comes into force in accordance with art. 1(3)(5)
 
-[^key-1ed031542fb05bd65d6e02f4ec63ef5f]: Commencement: Sch. 3 para. 26(a) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-1ed031542fb05bd65d6e02f4ec63ef5f]: Commencement: Sch. 3 para. 26(a) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-0a4fd3ceb9205c250d303637d01a9881]: Commencement: Sch. 3 para. 26(b) comes into force in accordance with art. 1(3)(5)(9)
+[^c-0a4fd3ceb9205c250d303637d01a9881]: Commencement: Sch. 3 para. 26(b) comes into force in accordance with art. 1(3)(5)(9)

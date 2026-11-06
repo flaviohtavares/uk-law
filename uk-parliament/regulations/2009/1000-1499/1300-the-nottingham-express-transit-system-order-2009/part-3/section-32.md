@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Power to acquire new rights[^key-f7debfb5f8514dc442d2d2ed1314db5f]
+## 32. Power to acquire new rights[^c-f7debfb5f8514dc442d2d2ed1314db5f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7debfb5f8514dc442d2d2ed1314db5f]: Commencement: Art. 32 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-f7debfb5f8514dc442d2d2ed1314db5f]: Commencement: Art. 32 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

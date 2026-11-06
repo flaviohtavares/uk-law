@@ -44,9 +44,9 @@ Regulations 4(1)(a) and (d)(i),(2)(a) and (c), (8) and (9) and16(1)(a)(iii)
 
 **5.** The relevant authority shall, on recognising a natural mineral water in accordance with paragraph 4, publish an announcement of such recognition and the grounds on which it has been granted in the London Gazette.
 
-### PART 2 — Natural mineral waters extracted from the ground in a Third Country[^key-2e8bc84a62d6247f42a7ca7466ee6361]
+### PART 2 — Natural mineral waters extracted from the ground in a Third Country[^c-2e8bc84a62d6247f42a7ca7466ee6361]
 
-**1.** A person seeking to have a water which is extracted from the ground in a third country[^key-f9d25a1b9210b752b3dfdcdaa350c9c8] recognised as a natural mineral water for the purposes of Article 1 shall make application in writing to the Secretary of State[^M_F_d8d511ff-8093-4fe4-a3c9-4956d99372f3], giving the particulars set out in paragraph 2.
+**1.** A person seeking to have a water which is extracted from the ground in a third country[^c-f9d25a1b9210b752b3dfdcdaa350c9c8] recognised as a natural mineral water for the purposes of Article 1 shall make application in writing to the Secretary of State[^M_F_d8d511ff-8093-4fe4-a3c9-4956d99372f3], giving the particulars set out in paragraph 2.
 
 **2.** The particulars are—
 
@@ -71,7 +71,7 @@ Regulations 4(1)(a) and (d)(i),(2)(a) and (c), (8) and (9) and16(1)(a)(iii)
 
 **5.** Recognition of such water shall lapse after a period of five years unless the responsible authority of the country in which the water is extracted has renewed the certification required by paragraph 4.
 
-**6.** The Secretary of State[^key-210fe90301aae72e9b9386336b424d49] shall, on recognising water in accordance with this Part of this Schedule, publish an announcement of such recognition in the London Gazette, the Edinburgh Gazette and the Belfast Gazette.
+**6.** The Secretary of State[^c-210fe90301aae72e9b9386336b424d49] shall, on recognising water in accordance with this Part of this Schedule, publish an announcement of such recognition in the London Gazette, the Edinburgh Gazette and the Belfast Gazette.
 
 ### PART 3 — Requirements and criteria for recognition as a natural mineral water
 
@@ -116,12 +116,12 @@ Regulations 4(1)(a) and (d)(i),(2)(a) and (c), (8) and (9) and16(1)(a)(iii)
 
 ## Annotations
 
-[^key-2e8bc84a62d6247f42a7ca7466ee6361]: Textual amendment: Words in [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2007/2785/schedule/3/part/2) heading substituted (31.12.2020) by [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/150/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e8bc84a62d6247f42a7ca7466ee6361]: Textual amendment: Words in [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2007/2785/schedule/3/part/2) heading substituted (31.12.2020) by [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/150/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f9d25a1b9210b752b3dfdcdaa350c9c8]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2007/2785/schedule/3/part/2/paragraph/1) substituted (31.12.2020) by [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2019/150/regulation/3/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9d25a1b9210b752b3dfdcdaa350c9c8]: Textual amendment: Words in [Sch. 3 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2007/2785/schedule/3/part/2/paragraph/1) substituted (31.12.2020) by [The Food (Amendment) (England) (EU Exit) Regulations 2019 (S.I. 2019/150)](https://www.legislation.gov.uk/uksi/2019/150), [regs. 1](https://www.legislation.gov.uk/uksi/2019/150/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2019/150/regulation/3/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_d8d511ff-8093-4fe4-a3c9-4956d99372f3]: Textual amendment: Words in Sch. 3 Pt. 2 para. 1 substituted (6.4.2011) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2011 (S.I. 2011/451)](https://www.legislation.gov.uk/uksi/2011/451), [regs. 1](https://www.legislation.gov.uk/uksi/2011/451/regulation/1), [5(f)](https://www.legislation.gov.uk/uksi/2011/451/regulation/2/6) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/451/regulation/3), [4](https://www.legislation.gov.uk/uksi/2011/451/regulation/4))
 
 [^M_F_ae56e76e-8e49-4c57-a83e-e3970e637a35]: Textual amendment: Words in Sch. 3 Pt. 2 para. 4 substituted (6.4.2011) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2011 (S.I. 2011/451)](https://www.legislation.gov.uk/uksi/2011/451), [regs. 1](https://www.legislation.gov.uk/uksi/2011/451/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2011/451/regulation/2/6) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/451/regulation/3), [4](https://www.legislation.gov.uk/uksi/2011/451/regulation/4))
 
-[^key-210fe90301aae72e9b9386336b424d49]: Textual amendment: Words in Sch. 3 para. 6 substituted (6.4.2011) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2011 (S.I. 2011/451)](https://www.legislation.gov.uk/uksi/2011/451), [regs. 1](https://www.legislation.gov.uk/uksi/2011/451/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2011/451/regulation/2/6) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/451/regulation/3), [4](https://www.legislation.gov.uk/uksi/2011/451/regulation/4))
+[^c-210fe90301aae72e9b9386336b424d49]: Textual amendment: Words in Sch. 3 para. 6 substituted (6.4.2011) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2011 (S.I. 2011/451)](https://www.legislation.gov.uk/uksi/2011/451), [regs. 1](https://www.legislation.gov.uk/uksi/2011/451/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2011/451/regulation/2/6) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/451/regulation/3), [4](https://www.legislation.gov.uk/uksi/2011/451/regulation/4))

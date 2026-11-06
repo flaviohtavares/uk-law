@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117A. Employer Cost Cap[^key-3e96214f1c4f477a774b3d02db4a0062]
+## 117A. Employer Cost Cap[^c-3e96214f1c4f477a774b3d02db4a0062]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e96214f1c4f477a774b3d02db4a0062]: Textual amendment: [Reg. 117A](https://www.legislation.gov.uk/uksi/2022/319/regulation/117A) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2024/1358/regulation/7)
+[^c-3e96214f1c4f477a774b3d02db4a0062]: Textual amendment: [Reg. 117A](https://www.legislation.gov.uk/uksi/2022/319/regulation/117A) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2024/1358/regulation/7)

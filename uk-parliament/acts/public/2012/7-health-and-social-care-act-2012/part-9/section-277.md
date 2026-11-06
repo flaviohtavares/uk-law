@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 277. Consequential provision[^key-fb8abd9d4deda91f05f10143791ec972]
+## 277. Consequential provision[^c-fb8abd9d4deda91f05f10143791ec972]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 19 (which contains consequential provision) has effect.
 
 ## Annotations
 
-[^key-fb8abd9d4deda91f05f10143791ec972]: Commencement: [S. 277](https://www.legislation.gov.uk/ukpga/2012/7/section/277) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-fb8abd9d4deda91f05f10143791ec972]: Commencement: [S. 277](https://www.legislation.gov.uk/ukpga/2012/7/section/277) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

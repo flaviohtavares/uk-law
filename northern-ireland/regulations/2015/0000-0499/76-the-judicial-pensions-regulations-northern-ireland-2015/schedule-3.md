@@ -28,7 +28,7 @@ Regulation 167
 
 This Part applies where—
 
-- (a) an election is made under section 7 (elections as to employments covered by contracting-out certificates) of the 1993 Act [^c22374711] in relation to persons who become members of this scheme on or after 1st April 2015 and before 6th April 2016 (whether or not any of those persons are members of a relevant[^key-72c3240107062068f36d76005ce3fa6b] scheme); and
+- (a) an election is made under section 7 (elections as to employments covered by contracting-out certificates) of the 1993 Act [^c22374711] in relation to persons who become members of this scheme on or after 1st April 2015 and before 6th April 2016 (whether or not any of those persons are members of a relevant[^c-72c3240107062068f36d76005ce3fa6b] scheme); and
 - (b) this scheme satisfies the requirements of section 5 (requirements for certification of schemes) of the 1993 Act [^c22374721].
 
 #### 2. Contracting-out
@@ -42,7 +42,7 @@ This Part applies where—
 - (a) paragraph (1) is to be read as though, for sub-paragraphs (a) to (f), there were substituted—
 
   > - (a) the name by which this scheme is to be known;
-  > - (b) the name by which the existing schemes listed in paragraphs 2 to 15 of Schedule 5 to the Act and the scheme created by the Judicial Pensions (Fee-Paid Judges) Regulations 2017[^key-6d4278c364266b5e6cc5ed35ba2eecc2] are known; and
+  > - (b) the name by which the existing schemes listed in paragraphs 2 to 15 of Schedule 5 to the Act and the scheme created by the Judicial Pensions (Fee-Paid Judges) Regulations 2017[^c-6d4278c364266b5e6cc5ed35ba2eecc2] are known; and
   > - (c) any other information necessary to enable the Commissioners for Her Majesty's Revenue and Customs to identify those existing schemes.
 
   ; and
@@ -52,13 +52,13 @@ This Part applies where—
 
 #### 3. Application of this Part
 
-(1)[^key-8ec8f8cc0015da34258bd215c61d0bbd] This Part applies where a person (P)—
+(1)[^c-8ec8f8cc0015da34258bd215c61d0bbd] This Part applies where a person (P)—
 
-- (a) is a member of an existing scheme [^key-f7eaa87ed3e0215d5b92fe26bfc7af75]... listed in paragraph 2 of Schedule 5 to the Act, whether by virtue of pensionable service for that scheme or deemed transfer scheme service under paragraph 2 of Schedule 7 to the Act (final salary link);
+- (a) is a member of an existing scheme [^c-f7eaa87ed3e0215d5b92fe26bfc7af75]... listed in paragraph 2 of Schedule 5 to the Act, whether by virtue of pensionable service for that scheme or deemed transfer scheme service under paragraph 2 of Schedule 7 to the Act (final salary link);
 - (b) is a member of this scheme by virtue of pensionable service for this scheme; and
 - (c) is a person to whom paragraph 1 or 2 of Schedule 7 to the Act applies by virtue of that person's pensionable service for this scheme, and whose final salary falls for the purposes of the old scheme to be determined by reference to that paragraph.
 
-(2)[^key-1b9b2bcca84a81a5390a9bcc5fb89f2a] This Part also applies where a person (P)—
+(2)[^c-1b9b2bcca84a81a5390a9bcc5fb89f2a] This Part also applies where a person (P)—
 
 - (a) is a member of the Fee-Paid Judges Scheme by virtue of pensionable service for that scheme;
 - (b) is a member of this scheme by virtue of pensionable service for this scheme;
@@ -215,19 +215,19 @@ a reference to termination of P's pensionable service is to be taken as a refere
 
 [^c22374711]: Marginal citation: [Section 7](https://www.legislation.gov.uk/nisr/2015/76/section/7) was amended by the [Social Security Contributions (Transfer of Functions etc.) (Northern Ireland) Order 1999 (S.I. 1999/671)](https://www.legislation.gov.uk/uksi/1999/671) Article 1 and Schedule 1.
 
-[^key-72c3240107062068f36d76005ce3fa6b]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/1) substituted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [17(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/17/2)
+[^c-72c3240107062068f36d76005ce3fa6b]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/1) substituted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [17(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/17/2)
 
 [^c22374721]: Marginal citation: [Section 5](https://www.legislation.gov.uk/nisr/2015/76/section/5) was amended by the [Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22))](https://www.legislation.gov.uk/nisi/1995/3213) Articles 133, 147, 168 and Schedules 3 and 5, the Social Security Contributions (Transfer of Functions etc.) (Northern Ireland) (Order)1999 ([S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)) Articles 1, 3 and Schedule 1, the [Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255) Article 260, the Pensions Act (Northern Ireland) 2008 (c. 1 (N.I. )) section 12, Schedule 6...
 
 [^c22374731]: Marginal citation: S.R. [1996 No. 493](https://www.legislation.gov.uk/ukcm/1996/493). Part 2 was amended by the [Social Security Contributions (Transfer of Functions etc.) (Northern Ireland) Order 1999 (S.I. 1999/671)](https://www.legislation.gov.uk/uksi/1999/671) section 1(2), Schedule 2, and by S.R. [1997 No. 95](https://www.legislation.gov.uk/ukcm/1997/95), [1997 No. 160](https://www.legislation.gov.uk/ukcm/1997/160), [2002 No. 109](https://www.legislation.gov.uk/ukcm/2002/109), [2005 No. 568](https://www.legislation.gov.uk/ukcm/2005/568), [2009 No. 133](https://www.legislation.gov.uk/ukcm/2009/133), [2012 No. 120](https://www.legislation.gov.uk/ukcm/2012/120), and [2014 No. 79](https://www.legislation.gov.uk/ukcm/2014/79). By virtue of section 50(1) of the [Commissioners for Revenue and Customs Act 2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11), references to the Commissioners of Inland Revenue are to be taken as references to the Commissioners for Her Majesty's Revenue and Customs.
 
-[^key-6d4278c364266b5e6cc5ed35ba2eecc2]: Textual amendment: Words in [Sch. 3 para. 2(3)(a)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/2/3/a) inserted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [17(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/17/3)
+[^c-6d4278c364266b5e6cc5ed35ba2eecc2]: Textual amendment: Words in [Sch. 3 para. 2(3)(a)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/2/3/a) inserted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [17(3)](https://www.legislation.gov.uk/nisr/2023/63/regulation/17/3)
 
-[^key-8ec8f8cc0015da34258bd215c61d0bbd]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/3) renumbered as Sch. 3 para. 3(1) (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [17(4)(a)](https://www.legislation.gov.uk/nisr/2023/63/regulation/17/4/a)
+[^c-8ec8f8cc0015da34258bd215c61d0bbd]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/3) renumbered as Sch. 3 para. 3(1) (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [17(4)(a)](https://www.legislation.gov.uk/nisr/2023/63/regulation/17/4/a)
 
-[^key-f7eaa87ed3e0215d5b92fe26bfc7af75]: Textual amendment: Words in [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/3/1) omitted (2.5.2023) by virtue of [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [17(4)(b)](https://www.legislation.gov.uk/nisr/2023/63/regulation/17/4/b)
+[^c-f7eaa87ed3e0215d5b92fe26bfc7af75]: Textual amendment: Words in [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/3/1) omitted (2.5.2023) by virtue of [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [17(4)(b)](https://www.legislation.gov.uk/nisr/2023/63/regulation/17/4/b)
 
-[^key-1b9b2bcca84a81a5390a9bcc5fb89f2a]: Textual amendment: [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/3/2)[(3)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/3/3) inserted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [17(4)(c)](https://www.legislation.gov.uk/nisr/2023/63/regulation/17/4/c)
+[^c-1b9b2bcca84a81a5390a9bcc5fb89f2a]: Textual amendment: [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/3/2)[(3)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/3/3) inserted (2.5.2023) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/63)](https://www.legislation.gov.uk/nisr/2023/63), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/63/regulation/1/2), [17(4)(c)](https://www.legislation.gov.uk/nisr/2023/63/regulation/17/4/c)
 
 [^c22374741]: Marginal citation: [Section 11A](https://www.legislation.gov.uk/nisr/2015/76/section/11A) was inserted by Article 29 of the [Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147).
 

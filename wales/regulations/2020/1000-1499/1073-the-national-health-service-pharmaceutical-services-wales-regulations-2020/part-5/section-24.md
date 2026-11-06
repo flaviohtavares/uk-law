@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Application to extend the relevant period[^key-1d084bc4019aeb270e822e350ce1140e]
+## 24. Application to extend the relevant period[^c-1d084bc4019aeb270e822e350ce1140e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d084bc4019aeb270e822e350ce1140e]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2020/1073/regulation/24) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-1d084bc4019aeb270e822e350ce1140e]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2020/1073/regulation/24) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Extended notice period for taking possession following notice to treat[^key-49fa2badb2a8f16579ef9fa013263562]
+## 186. Extended notice period for taking possession following notice to treat[^c-49fa2badb2a8f16579ef9fa013263562]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49fa2badb2a8f16579ef9fa013263562]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2016/22/section/186) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-49fa2badb2a8f16579ef9fa013263562]: Commencement: [S. 186](https://www.legislation.gov.uk/ukpga/2016/22/section/186) in force at 3.2.2017 by [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))

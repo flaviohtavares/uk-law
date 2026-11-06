@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Meetings and terms of reference[^key-45582b65b994605ecb48bd4be122dd33]
+## 34. Meetings and terms of reference[^c-45582b65b994605ecb48bd4be122dd33]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 3 makes further provision about public services boards (including provi
 
 ## Annotations
 
-[^key-45582b65b994605ecb48bd4be122dd33]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2015/2/section/34) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-45582b65b994605ecb48bd4be122dd33]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2015/2/section/34) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

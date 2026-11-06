@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 95. Calculation of earnings of self-employed earners[^key-57afe3bcdbf2a479dcd63f7fd8d42139]
+## 95. Calculation of earnings of self-employed earners[^c-57afe3bcdbf2a479dcd63f7fd8d42139]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57afe3bcdbf2a479dcd63f7fd8d42139]: Commencement: Reg. 95 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-57afe3bcdbf2a479dcd63f7fd8d42139]: Commencement: Reg. 95 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

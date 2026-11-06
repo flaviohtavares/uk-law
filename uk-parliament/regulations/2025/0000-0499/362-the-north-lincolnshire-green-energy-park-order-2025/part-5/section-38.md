@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Authority to survey and investigate the land[^key-aee236f23bf7473975ca08a4df21b14d]
+## 38. Authority to survey and investigate the land[^c-aee236f23bf7473975ca08a4df21b14d]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aee236f23bf7473975ca08a4df21b14d]: Commencement: Art. 38 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-aee236f23bf7473975ca08a4df21b14d]: Commencement: Art. 38 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

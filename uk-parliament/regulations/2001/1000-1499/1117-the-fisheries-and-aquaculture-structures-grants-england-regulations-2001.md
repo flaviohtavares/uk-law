@@ -302,7 +302,7 @@ he may revoke the approval in whole or in part and may reduce or withhold any fi
 - (a) in furnishing any information in purported compliance with a requirement imposed by or under regulation 4(1) or (2) or 13(5)(a) knowingly or recklessly makes a statement which is false or misleading in a material particular; or
 - (b) in purported compliance with a requirement imposed under regulation 4(2) or 13(5)(a) or (c) knowingly or recklessly produces a document which is false or misleading in a material particular,
 
-he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale[^key-5d746f107a465ce6bd909f84feba13d9].
+he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale[^c-5d746f107a465ce6bd909f84feba13d9].
 
 (2) If any person—
 
@@ -381,4 +381,4 @@ Copies of Commission Decisions Nos. C(2000) 2046 and C(2000) 2047 approving the 
 
 [^f00012]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29).
 
-[^key-5d746f107a465ce6bd909f84feba13d9]: Textual amendment: Words in reg. 17(1) substituted (20.6.2008) by [The Fisheries and Aquaculture Structures (Grants) (England) (Amendment) Regulations 2008 (S.I. 2008/1322)](https://www.legislation.gov.uk/uksi/2008/1322), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1322/regulation/1), [2](https://www.legislation.gov.uk/uksi/2008/1322/regulation/2)
+[^c-5d746f107a465ce6bd909f84feba13d9]: Textual amendment: Words in reg. 17(1) substituted (20.6.2008) by [The Fisheries and Aquaculture Structures (Grants) (England) (Amendment) Regulations 2008 (S.I. 2008/1322)](https://www.legislation.gov.uk/uksi/2008/1322), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1322/regulation/1), [2](https://www.legislation.gov.uk/uksi/2008/1322/regulation/2)

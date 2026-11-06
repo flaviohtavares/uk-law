@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 130.[^key-43000c75706df7e6d359c20bc3f1c1c9]
+## 130.[^c-43000c75706df7e6d359c20bc3f1c1c9]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43000c75706df7e6d359c20bc3f1c1c9]: Textual amendment: [Pt. 10 Ch. 9](https://www.legislation.gov.uk/uksi/2008/794/part/10/chapter/9) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [20(4)(c)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/20/4/c)
+[^c-43000c75706df7e6d359c20bc3f1c1c9]: Textual amendment: [Pt. 10 Ch. 9](https://www.legislation.gov.uk/uksi/2008/794/part/10/chapter/9) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [20(4)(c)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/20/4/c)

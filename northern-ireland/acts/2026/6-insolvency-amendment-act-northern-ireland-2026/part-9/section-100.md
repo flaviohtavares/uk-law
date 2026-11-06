@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 100. Sections 94 to 99: supplemental[^key-c8c1985285f5a442c59fc51c50297c6b][^key-763d5d7dfd6e96998e611eaafe701634]
+## 100. Sections 94 to 99: supplemental[^c-c8c1985285f5a442c59fc51c50297c6b][^c-763d5d7dfd6e96998e611eaafe701634]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c8c1985285f5a442c59fc51c50297c6b]: Commencement: S. 100 in operation at 25.6.2026, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-c8c1985285f5a442c59fc51c50297c6b]: Commencement: S. 100 in operation at 25.6.2026, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-763d5d7dfd6e96998e611eaafe701634]: Commencement: [S. 100](https://www.legislation.gov.uk/nia/2026/6/section/100) in operation at 25.6.2026, see [s. 120(2)](https://www.legislation.gov.uk/nia/2026/6/section/120/2)
+[^c-763d5d7dfd6e96998e611eaafe701634]: Commencement: [S. 100](https://www.legislation.gov.uk/nia/2026/6/section/100) in operation at 25.6.2026, see [s. 120(2)](https://www.legislation.gov.uk/nia/2026/6/section/120/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46A. Strategic plans[^key-83aa7158fae572e2a3938c3af60c48b6]
+## 46A. Strategic plans[^c-83aa7158fae572e2a3938c3af60c48b6]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83aa7158fae572e2a3938c3af60c48b6]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/asp/2002/13/section/46A) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/7) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-83aa7158fae572e2a3938c3af60c48b6]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/asp/2002/13/section/46A) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 4 para. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/4/paragraph/7) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))

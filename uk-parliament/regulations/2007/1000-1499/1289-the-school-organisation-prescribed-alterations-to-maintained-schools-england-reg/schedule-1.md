@@ -24,7 +24,7 @@ Regulation 3
 
 ### PART 1 — Information to be included in or provided in relation to foundation proposals
 
-**1.**[^key-84dc9346112a8f9bca3738687113632f] All proposals must include the following information—
+**1.**[^c-84dc9346112a8f9bca3738687113632f] All proposals must include the following information—
 
 - (a) **School Details**
 
@@ -51,7 +51,7 @@ Regulation 3
 
   A statement of which one of, or combinations of, the alterations prescribed in regulation 3 comprise the proposals.
 
-**2.**[^key-cf2dd6c0acf7605e2e462ae5c3a09209] Where the prescribed alteration is a change of category to foundation, the proposals must contain the following information—
+**2.**[^c-cf2dd6c0acf7605e2e462ae5c3a09209] Where the prescribed alteration is a change of category to foundation, the proposals must contain the following information—
 
 - (a) the rationale for the proposals;
 - (b) a statement that the school will—
@@ -60,7 +60,7 @@ Regulation 3
   - (iii) be a foundation school not falling within either of sub-paragraphs (i) or (ii); and
 - (c) where it is a change of category to foundation from a voluntary aided school or voluntary controlled school, a statement that in accordance with section 20, the consent of the trustees and the persons by whom the foundation governors are appointed has been obtained.
 
-**3.**[^key-f26ca0e95160ca9997dcda939089f087] Where the prescribed alteration is the acquisition of a foundation established otherwise than under SSFA 1998, the proposals must contain the following information—
+**3.**[^c-f26ca0e95160ca9997dcda939089f087] Where the prescribed alteration is the acquisition of a foundation established otherwise than under SSFA 1998, the proposals must contain the following information—
 
 - (a) the name or proposed name of the foundation;
 - (b) the rationale for acquiring the foundation and the ethos that it will bring to the school;
@@ -74,7 +74,7 @@ Regulation 3
 - (j) a statement and supporting evidence as to how the foundation will contribute to the advancement of education at the school and in particular how it will help to raise standards; and
 - (k) a statement of how the foundation will contribute to the promotion of community cohesion and the impact the foundation will have on the diversity of school provision in the area.
 
-**4.**[^key-ab4cd8b9b3fbad6770e27fed0032bace] (1) Subject to sub-paragraph (2) where the prescribed alteration is a relevant change at a school for which a foundation already acts, the proposals must include the following information—
+**4.**[^c-ab4cd8b9b3fbad6770e27fed0032bace] (1) Subject to sub-paragraph (2) where the prescribed alteration is a relevant change at a school for which a foundation already acts, the proposals must include the following information—
 
 - (a) the name of the foundation;
 - (b) the rationale for the change and how it will contribute to the advancement of education at the school and in particular how it will help to raise standards;
@@ -94,7 +94,7 @@ a statement that in accordance with section 20 the consent of the trustees and t
 
 ### PART 2 — Publication, determination and implementation of foundation proposals
 
-#### 5. Consultation on proposals[^key-82c42949e295c56e1b184e33f9fcbc5d]
+#### 5. Consultation on proposals[^c-82c42949e295c56e1b184e33f9fcbc5d]
 
 (1) The governing body must, before they publish any proposals, consult the following persons—
 
@@ -122,7 +122,7 @@ a statement that in accordance with section 20 the consent of the trustees and t
 - (a) the relevant Primary Care Trust for the area in which the school is situated; and
 - (b) any NHS trust or NHS foundation trust responsible for a hospital or other provision in the area in which the school is situated.
 
-#### 6. Manner of publication of proposals[^key-50052e6585dcb5b74c60b989ba1b42f4]
+#### 6. Manner of publication of proposals[^c-50052e6585dcb5b74c60b989ba1b42f4]
 
 (1) The governing body must publish—
 
@@ -145,7 +145,7 @@ a statement that in accordance with section 20 the consent of the trustees and t
 - (b) the Secretary of State within 1 week of the date of publication; and
 - (c) anyone who requests a copy of the proposals within 1 week of the date of the request.
 
-**7.**[^key-2475814a827d301a6f43474b8848946a] Where the proposals relate to a special school, the governing body must also send a complete set of the proposals to—
+**7.**[^c-2475814a827d301a6f43474b8848946a] Where the proposals relate to a special school, the governing body must also send a complete set of the proposals to—
 
 - (a) the relevant Primary Care Trust for the area in which the school is situated;
 - (b) any NHS trust or NHS foundation trust responsible for a hospital or other provision in the area in which the school is situated;
@@ -153,17 +153,17 @@ a statement that in accordance with section 20 the consent of the trustees and t
 - (d) any local education authority which might be affected by the proposals; and
 - (e) parents of children who attend the special school.
 
-#### 8. Objections and comments[^key-27953f0fda8fcd949ff55d96b2fcfa9d]
+#### 8. Objections and comments[^c-27953f0fda8fcd949ff55d96b2fcfa9d]
 
 (1) Except where sub-paragraph (2) applies, any person may send objections or comments in relation to any proposals to the governing body within 4 weeks from the date of the publication of the proposals.
 
 (2) Where proposals have been referred to the adjudicator in accordance with paragraph 10 the governing body must forward any objections or comments they have received under sub-paragraph 1 to the adjudicator within 1 week from the end of the representation period.
 
-#### 9. Governing body as decision maker[^key-d60d7dc2cc4844403194e9d2968100ca]
+#### 9. Governing body as decision maker[^c-d60d7dc2cc4844403194e9d2968100ca]
 
 For the purpose of section 21(2)(f), the governing body of the school to which the proposals relate is prescribed as the person who (subject to paragraph 10) must consider and determine the proposals.
 
-#### 10. Referrals to adjudicator for consideration and determination[^key-df1709663852e1652f25b2ecee6b7385]
+#### 10. Referrals to adjudicator for consideration and determination[^c-df1709663852e1652f25b2ecee6b7385]
 
 (1) The local education authority may[^f00020], subject to paragraphs 11 and 12, require the governing body to refer proposals falling within sub-paragraph (2) to the adjudicator.
 
@@ -172,18 +172,18 @@ For the purpose of section 21(2)(f), the governing body of the school to which t
 - (a) a foundation or foundation special school having a foundation established otherwise than under SSFA 1998;
 - (b) a foundation or foundation special school whose instrument of government provides for the majority of governors to be foundation governors.
 
-**11.**[^key-67f8c600aabe6276899c3c9d4ea7f636] Where the local education authority exercise their right to require a referral to the adjudicator under paragraph 10 they must do so in writing within 4 weeks of the date of the publication of the proposals.
+**11.**[^c-67f8c600aabe6276899c3c9d4ea7f636] Where the local education authority exercise their right to require a referral to the adjudicator under paragraph 10 they must do so in writing within 4 weeks of the date of the publication of the proposals.
 
-**12.**[^key-feb82afe84b3342ddd919a42959dc9e6] The local education authority may only require that the proposals specified in paragraph 10 be referred to the adjudicator if they consider that—
+**12.**[^c-feb82afe84b3342ddd919a42959dc9e6] The local education authority may only require that the proposals specified in paragraph 10 be referred to the adjudicator if they consider that—
 
 - (a) the governing body have failed adequately to fulfil the requirements for consultation set out in these Regulations;
 - (b) the governing body have failed adequately to have regard to any guidance given by the Secretary of State relating to consultation;
 - (c) the governing body have failed to have regard to the responses to the consultation; or
 - (d) the local education authority consider that the proposals will have a negative impact on standards at the school.
 
-**13.**[^key-413239e02b8e0ae12648cad068c24995] Where the governing body is required (under paragraph 10) to refer proposals to the adjudicator, they must also send to the adjudicator within 1 week of the end of the representation period, a copy of the proposals and any objections or comments received.
+**13.**[^c-413239e02b8e0ae12648cad068c24995] Where the governing body is required (under paragraph 10) to refer proposals to the adjudicator, they must also send to the adjudicator within 1 week of the end of the representation period, a copy of the proposals and any objections or comments received.
 
-#### 14. Withdrawal of proposals[^key-e5ee058aaa618929b45ababb9e1cd559]
+#### 14. Withdrawal of proposals[^c-e5ee058aaa618929b45ababb9e1cd559]
 
 Proposals may be withdrawn by the governing body which published the proposals provided that—
 
@@ -193,7 +193,7 @@ Proposals may be withdrawn by the governing body which published the proposals p
   - (ii) in cases where the proposals have been referred to the adjudicator, the adjudicator and the Secretary of State; and
 - (c) written notice is placed at the entrance to the school, or if there is more than one entrance, all of them.
 
-#### 15. Consideration and determination by governing body or adjudicator[^key-2bb1464f40e2e9c582d910dd92a29b1d]
+#### 15. Consideration and determination by governing body or adjudicator[^c-2bb1464f40e2e9c582d910dd92a29b1d]
 
 (1) Where any proposals are to be determined by a governing body they may—
 
@@ -205,7 +205,7 @@ Proposals may be withdrawn by the governing body which published the proposals p
 
 (3) Any determination under sub-paragraph (1) must be made within the period of 6 months from the date of publication of the proposals.
 
-**16.**[^key-79382c1b89aff29bc0bc2b44ac1d314a] (1) Where proposals have been referred to the adjudicator for determination pursuant to paragraph 10, the adjudicator may—
+**16.**[^c-79382c1b89aff29bc0bc2b44ac1d314a] (1) Where proposals have been referred to the adjudicator for determination pursuant to paragraph 10, the adjudicator may—
 
 - (a) reject the proposals;
 - (b) approve the proposals without modifications; or
@@ -213,7 +213,7 @@ Proposals may be withdrawn by the governing body which published the proposals p
 
 (2) Where proposals are approved by the adjudicator (whether with or without modifications), the approval may be conditional on the occurrence of an event prescribed in paragraph 19.
 
-#### 17. Referral to the adjudicator post determination[^key-a48dbea2c637a1bfdb2f72b9725359f1]
+#### 17. Referral to the adjudicator post determination[^c-a48dbea2c637a1bfdb2f72b9725359f1]
 
 (1) Sub-paragraph (2) applies to proposals which relate to—
 
@@ -229,7 +229,7 @@ Proposals may be withdrawn by the governing body which published the proposals p
 
 (3) A request under sub-paragraph (1) must be made within 4 weeks of the initial determination by the governing body.
 
-#### 18. Provision for notification of decisions[^key-879e5503b2dc2eeae6fef9d26ee8db09]
+#### 18. Provision for notification of decisions[^c-879e5503b2dc2eeae6fef9d26ee8db09]
 
 (1) The governing body must notify the local education authority and the Secretary of State of their decision together with their reasons.
 
@@ -237,18 +237,18 @@ Proposals may be withdrawn by the governing body which published the proposals p
 
 (3) Where any determination relates to proposals to which paragraph 17(1) applies the adjudicator must also notify the prescribed persons in paragraph 17(2) of his decision together with his reasons.
 
-#### 19. Conditional approval[^key-93b3b82da831fa75584e49892ff5af4b]
+#### 19. Conditional approval[^c-93b3b82da831fa75584e49892ff5af4b]
 
 The following events are prescribed as specified events which (if the approval is expressed to take effect only if they occur) must occur by the date specified in the approval—
 
 - (a) the making of any scheme relating to any charity connected with the school; and
 - (b) the establishment of a foundation within the meaning of section 23A of SSFA 1998[^f00021].
 
-#### 20. Duty to implement proposals[^key-b8a9a978f7d0ca6507a6c71c65be57dc]
+#### 20. Duty to implement proposals[^c-b8a9a978f7d0ca6507a6c71c65be57dc]
 
 Subject to the following provisions of this Schedule, foundation proposals must be implemented by the governing body in the form in which they were approved.
 
-#### 21. Revocation of proposals (after approval)[^key-05a578ead03004d3032ce8220602b439]
+#### 21. Revocation of proposals (after approval)[^c-05a578ead03004d3032ce8220602b439]
 
 (1) If the governing body are satisfied that—
 
@@ -298,13 +298,13 @@ the governing body may determine at any time before implementation that paragrap
 
 (13) Where a request is made under sub-paragraph (11) the governing body must submit the proposals and any objections or comments relating to the revocation proposals to the adjudicator within 1 week of receiving the request.
 
-#### 22. Modification post determination[^key-3bea92f4a2759c23f2c3e5389ace0aa3]
+#### 22. Modification post determination[^c-3bea92f4a2759c23f2c3e5389ace0aa3]
 
 (1) The governing body may make modifications to the proposals at any time after determination, but before implementation, and where there has been a conditional approval, specify a later date by which the event in question must occur.
 
 (2) Before modifying proposals for a change of category to a foundation school, the governing body must consult the local education authority.
 
-#### 23. Proposals not falling to be implemented[^key-26644634a81c6dd7a7e98c3a0866736f]
+#### 23. Proposals not falling to be implemented[^c-26644634a81c6dd7a7e98c3a0866736f]
 
 (1) Where by virtue of paragraph 21, paragraph 20 (duty to implement) ceases to apply to any proposals, those proposals are to be treated for the purposes of this Schedule as if under paragraph 15 or 16 it has been determined that the proposals should be rejected.
 
@@ -315,14 +315,14 @@ the governing body may determine at any time before implementation that paragrap
 
 paragraph 20 ceases to apply to the proposals, and these proposals must be considered afresh by the governing body or adjudicator (as the case may be) and paragraph 15 or 16 apply accordingly.
 
-#### 24. Unimplemented statutory proposals[^key-80bc17cbe936602f31f4f377b6730b48]
+#### 24. Unimplemented statutory proposals[^c-80bc17cbe936602f31f4f377b6730b48]
 
 Where a school changes category in accordance with this Schedule and there are other proposals for prescribed alterations falling to be implemented in respect of that school which have not been implemented—
 
 - (a) in the case of a school which has changed category from a community or community special school, the proposals must to the extent they have not been implemented, be implemented by the local education authority;
 - (b) in the case of a school which has changed category from a voluntary aided school, the proposals must to the extent that they have not been implemented, be implemented by the local education authority.
 
-#### 25. Revision or replacement of the school’s instrument of government[^key-dedcd598a352f80308be76b0a8c29787]
+#### 25. Revision or replacement of the school’s instrument of government[^c-dedcd598a352f80308be76b0a8c29787]
 
 (1) The governing body and the local education authority must secure that by the end of the implementation period a new instrument of government is made for the school in accordance with the Constitution Regulations.
 
@@ -332,13 +332,13 @@ Where a school changes category in accordance with this Schedule and there are o
 
 (4) For all other purposes, the new instrument of government is to take effect from the implementation date.
 
-#### 26. Reconstitution or replacement of the governing body[^key-16a8cc39a9061875981d0c1ad5c6d378]
+#### 26. Reconstitution or replacement of the governing body[^c-16a8cc39a9061875981d0c1ad5c6d378]
 
 (1) The governing body and the local education authority must secure that as soon as reasonably practicable after the commencement of the implementation period (and in any event within a period of 3 months beginning on the implementation date) the governing body are reconstituted in accordance with the new instrument of government, and the Constitution Regulations.
 
 (2) The current governing body must exercise their functions under the Act and these Regulations in a manner calculated to enable the authority to fulfil their duties under sub-paragraph (1).
 
-#### 27. Current governors continuing in office[^key-f91a48d838908e7df81111aa0b6b55b8]
+#### 27. Current governors continuing in office[^c-f91a48d838908e7df81111aa0b6b55b8]
 
 (1) Sub-paragraph (2) applies to any member of a current governing body in respect of which a new instrument of government has been made under these Regulations.
 
@@ -348,7 +348,7 @@ Where a school changes category in accordance with this Schedule and there are o
 
 (4) The proceedings of the governing body are not invalidated by the school having more governors of a particular category than are provided for by the new instrument of government, pending removal of the surplus governors pursuant to paragraph 28.
 
-#### 28. Surplus governors[^key-c21b27531cea08106930573e441239ec]
+#### 28. Surplus governors[^c-c21b27531cea08106930573e441239ec]
 
 (1) Where—
 
@@ -365,7 +365,7 @@ such number of that category as is required to eliminate the excess must cease t
 
 (5) Any procedure set out in the new instrument of government for the removal of excess foundation governors does not apply to the reconstitution of the governing body under these Regulations.
 
-#### 29. Transfer of staff for foundation change of category[^key-8a7978fe6579682b5c6481a4d47223cb]
+#### 29. Transfer of staff for foundation change of category[^c-8a7978fe6579682b5c6481a4d47223cb]
 
 Where a voluntary controlled or community school changes category to a foundation school, or from a community special school to a foundation special school—
 
@@ -373,84 +373,84 @@ Where a voluntary controlled or community school changes category to a foundatio
 - (b) all the authority’s rights, powers, duties and liabilities under or in connection with the contract of employment transfer by virtue of this paragraph to the governing body on the implementation date; and
 - (c) anything done before that date by, or in relation to, the authority in respect of that contract or the employee, is deemed from that date to have been done by or in relation to the governing body.
 
-**30.**[^key-00cff41a2495d6b94c1fb2fba37ae684] (1) Subject to sub-paragraph (2), paragraph 29 applies to any person who immediately before the implementation date is employed by the authority to work solely at the school who is the subject of the proposals.
+**30.**[^c-00cff41a2495d6b94c1fb2fba37ae684] (1) Subject to sub-paragraph (2), paragraph 29 applies to any person who immediately before the implementation date is employed by the authority to work solely at the school who is the subject of the proposals.
 
 (2) Paragraph 29 does not apply to any person whose contract of employment terminates on the day immediately preceding the implementation date or to any person employed by the authority to work at the school solely in connection with the provision of meals.
 
-**31.**[^key-f7e605d9f4da1d8c55f98eee75db6b0d] Any person who before the implementation date has been appointed by the authority to work at the school as from the implementation date or a date thereafter is to be treated for the purpose of paragraph 29 as if he had been employed by the authority immediately before the implementation date to do such work at the school as he would have been required to do on or after that date under his contract of employment with the authority.
+**31.**[^c-f7e605d9f4da1d8c55f98eee75db6b0d] Any person who before the implementation date has been appointed by the authority to work at the school as from the implementation date or a date thereafter is to be treated for the purpose of paragraph 29 as if he had been employed by the authority immediately before the implementation date to do such work at the school as he would have been required to do on or after that date under his contract of employment with the authority.
 
-**32.**[^key-62461135dcf65f755bbae1a5df91f6a7] Paragraphs 29 to 31 are without prejudice to any right of an employee to terminate his contract if a substantial change is made to his detriment in his working conditions, but no such right must arise by reason only of the change in employer effected by these Regulations.
+**32.**[^c-62461135dcf65f755bbae1a5df91f6a7] Paragraphs 29 to 31 are without prejudice to any right of an employee to terminate his contract if a substantial change is made to his detriment in his working conditions, but no such right must arise by reason only of the change in employer effected by these Regulations.
 
 ## Annotations
 
-[^key-84dc9346112a8f9bca3738687113632f]: Commencement: Sch. 1 para. 1 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-84dc9346112a8f9bca3738687113632f]: Commencement: Sch. 1 para. 1 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-cf2dd6c0acf7605e2e462ae5c3a09209]: Commencement: Sch. 1 para. 2 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-cf2dd6c0acf7605e2e462ae5c3a09209]: Commencement: Sch. 1 para. 2 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-f26ca0e95160ca9997dcda939089f087]: Commencement: Sch. 1 para. 3 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-f26ca0e95160ca9997dcda939089f087]: Commencement: Sch. 1 para. 3 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
 [^f00018]: Footnote: Section 23A was inserted by section 34 of the Act.
 
-[^key-ab4cd8b9b3fbad6770e27fed0032bace]: Commencement: Sch. 1 para. 4 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-ab4cd8b9b3fbad6770e27fed0032bace]: Commencement: Sch. 1 para. 4 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-82c42949e295c56e1b184e33f9fcbc5d]: Commencement: Sch. 1 para. 5 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-82c42949e295c56e1b184e33f9fcbc5d]: Commencement: Sch. 1 para. 5 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
 [^f00019]: Footnote: Early Years Development and Child Care Partnerships are required to be established by section 119 of SSFA which is prospectively amended so as not to apply in England by paragraph 32 of Schedule 2 to the Childcare Act [2006 (c.21)](https://www.legislation.gov.uk/ukpga/2006/21).
 
-[^key-50052e6585dcb5b74c60b989ba1b42f4]: Commencement: Sch. 1 para. 6 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-50052e6585dcb5b74c60b989ba1b42f4]: Commencement: Sch. 1 para. 6 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-2475814a827d301a6f43474b8848946a]: Commencement: Sch. 1 para. 7 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-2475814a827d301a6f43474b8848946a]: Commencement: Sch. 1 para. 7 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-27953f0fda8fcd949ff55d96b2fcfa9d]: Commencement: Sch. 1 para. 8 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-27953f0fda8fcd949ff55d96b2fcfa9d]: Commencement: Sch. 1 para. 8 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-d60d7dc2cc4844403194e9d2968100ca]: Commencement: Sch. 1 para. 9 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-d60d7dc2cc4844403194e9d2968100ca]: Commencement: Sch. 1 para. 9 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-df1709663852e1652f25b2ecee6b7385]: Commencement: Sch. 1 para. 10 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-df1709663852e1652f25b2ecee6b7385]: Commencement: Sch. 1 para. 10 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
 [^f00020]: Footnote: As required by section 23(1) of the Act.
 
-[^key-67f8c600aabe6276899c3c9d4ea7f636]: Commencement: Sch. 1 para. 11 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-67f8c600aabe6276899c3c9d4ea7f636]: Commencement: Sch. 1 para. 11 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-feb82afe84b3342ddd919a42959dc9e6]: Commencement: Sch. 1 para. 12 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-feb82afe84b3342ddd919a42959dc9e6]: Commencement: Sch. 1 para. 12 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-413239e02b8e0ae12648cad068c24995]: Commencement: Sch. 1 para. 13 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-413239e02b8e0ae12648cad068c24995]: Commencement: Sch. 1 para. 13 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-e5ee058aaa618929b45ababb9e1cd559]: Commencement: Sch. 1 para. 14 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-e5ee058aaa618929b45ababb9e1cd559]: Commencement: Sch. 1 para. 14 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-2bb1464f40e2e9c582d910dd92a29b1d]: Commencement: Sch. 1 para. 15 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-2bb1464f40e2e9c582d910dd92a29b1d]: Commencement: Sch. 1 para. 15 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-79382c1b89aff29bc0bc2b44ac1d314a]: Commencement: Sch. 1 para. 16 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-79382c1b89aff29bc0bc2b44ac1d314a]: Commencement: Sch. 1 para. 16 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-a48dbea2c637a1bfdb2f72b9725359f1]: Commencement: Sch. 1 para. 17 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-a48dbea2c637a1bfdb2f72b9725359f1]: Commencement: Sch. 1 para. 17 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-879e5503b2dc2eeae6fef9d26ee8db09]: Commencement: Sch. 1 para. 18 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-879e5503b2dc2eeae6fef9d26ee8db09]: Commencement: Sch. 1 para. 18 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-93b3b82da831fa75584e49892ff5af4b]: Commencement: Sch. 1 para. 19 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-93b3b82da831fa75584e49892ff5af4b]: Commencement: Sch. 1 para. 19 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
 [^f00021]: Footnote: Section 23A was inserted by section 33(1) of the Act.
 
-[^key-b8a9a978f7d0ca6507a6c71c65be57dc]: Commencement: Sch. 1 para. 20 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-b8a9a978f7d0ca6507a6c71c65be57dc]: Commencement: Sch. 1 para. 20 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-05a578ead03004d3032ce8220602b439]: Commencement: Sch. 1 para. 21 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-05a578ead03004d3032ce8220602b439]: Commencement: Sch. 1 para. 21 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-3bea92f4a2759c23f2c3e5389ace0aa3]: Commencement: Sch. 1 para. 22 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-3bea92f4a2759c23f2c3e5389ace0aa3]: Commencement: Sch. 1 para. 22 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-26644634a81c6dd7a7e98c3a0866736f]: Commencement: Sch. 1 para. 23 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-26644634a81c6dd7a7e98c3a0866736f]: Commencement: Sch. 1 para. 23 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-80bc17cbe936602f31f4f377b6730b48]: Commencement: Sch. 1 para. 24 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-80bc17cbe936602f31f4f377b6730b48]: Commencement: Sch. 1 para. 24 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-dedcd598a352f80308be76b0a8c29787]: Commencement: Sch. 1 para. 25 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-dedcd598a352f80308be76b0a8c29787]: Commencement: Sch. 1 para. 25 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-16a8cc39a9061875981d0c1ad5c6d378]: Commencement: Sch. 1 para. 26 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-16a8cc39a9061875981d0c1ad5c6d378]: Commencement: Sch. 1 para. 26 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-f91a48d838908e7df81111aa0b6b55b8]: Commencement: Sch. 1 para. 27 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-f91a48d838908e7df81111aa0b6b55b8]: Commencement: Sch. 1 para. 27 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-c21b27531cea08106930573e441239ec]: Commencement: Sch. 1 para. 28 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-c21b27531cea08106930573e441239ec]: Commencement: Sch. 1 para. 28 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-8a7978fe6579682b5c6481a4d47223cb]: Commencement: Sch. 1 para. 29 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-8a7978fe6579682b5c6481a4d47223cb]: Commencement: Sch. 1 para. 29 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-00cff41a2495d6b94c1fb2fba37ae684]: Commencement: Sch. 1 para. 30 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-00cff41a2495d6b94c1fb2fba37ae684]: Commencement: Sch. 1 para. 30 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-f7e605d9f4da1d8c55f98eee75db6b0d]: Commencement: Sch. 1 para. 31 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-f7e605d9f4da1d8c55f98eee75db6b0d]: Commencement: Sch. 1 para. 31 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
-[^key-62461135dcf65f755bbae1a5df91f6a7]: Commencement: Sch. 1 para. 32 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-62461135dcf65f755bbae1a5df91f6a7]: Commencement: Sch. 1 para. 32 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)

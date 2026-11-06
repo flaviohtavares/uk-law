@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Procedure where information missing and code not known: employers[^key-8007f958eaa206bb10ea664d9879662f]
+## 12. Procedure where information missing and code not known: employers[^c-8007f958eaa206bb10ea664d9879662f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ After regulation 45 (other Forms P45) insert—
 
 ## Annotations
 
-[^key-8007f958eaa206bb10ea664d9879662f]: Commencement: Reg. 12 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-8007f958eaa206bb10ea664d9879662f]: Commencement: Reg. 12 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

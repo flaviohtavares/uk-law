@@ -22,11 +22,11 @@ summary: ''
 
 Section 14A
 
-### A1.[^key-abd10784011614923a0e50d09a73d1d6]
+### A1.[^c-abd10784011614923a0e50d09a73d1d6]
 
 For the purposes of this Act, as it applies in relation to Great Britain, the first, second and third Directives are to be read subject to the modifications set out in paragraphs 11A to 11C.
 
-### Modification of the definition of partner donation in the second Directive[^key-a69413fd528ed6715036da7e3139d766]
+### Modification of the definition of partner donation in the second Directive[^c-a69413fd528ed6715036da7e3139d766]
 
 **B1.** For the purpose of this Schedule, Article 1 of the second Directive is to be read as if for paragraph (b) there were substituted—
 
@@ -38,7 +38,7 @@ For the purposes of this Act, as it applies in relation to Great Britain, the fi
 
 .
 
-### Traceability system[^key-56dab41aef68a1b77916b76100cb6590]
+### Traceability system[^c-56dab41aef68a1b77916b76100cb6590]
 
 **1.** Licence conditions shall require that all persons to whom a licence applies adopt such systems as the Authority considers appropriate to secure compliance with the requirements of Article 8 of the first Directive (traceability) and Article 9 of the third Directive (traceability).
 
@@ -46,14 +46,14 @@ For the purposes of this Act, as it applies in relation to Great Britain, the fi
 
 ### Serious adverse events and serious adverse reactions : Great Britain[^M_F_51dfb687-39cc-4708-e900-94605dc7edd8]
 
-**3.** In relation to Great Britain, licence[^key-878752c95650675cac90e597f3f39d5e] conditions shall require such—
+**3.** In relation to Great Britain, licence[^c-878752c95650675cac90e597f3f39d5e] conditions shall require such—
 
 - (a) systems to report, investigate, register and transmit information about serious adverse events and serious adverse reactions, and
 - (b) accurate, rapid and verifiable procedures for recalling from distribution any product which may be related to a serious adverse event or serious adverse reaction,
 
-to be in place as the Authority considers appropriate[^key-7fa7a0ddb6560913f3be217bf21909a8].
+to be in place as the Authority considers appropriate[^c-7fa7a0ddb6560913f3be217bf21909a8].
 
-### Serious adverse events and serious adverse reactions: Northern Ireland[^key-817f1a29eed3f04f3fdb6a417eaa51dd]
+### Serious adverse events and serious adverse reactions: Northern Ireland[^c-817f1a29eed3f04f3fdb6a417eaa51dd]
 
 **3A.** In relation to Northern Ireland, licence conditions shall require such—
 
@@ -72,11 +72,11 @@ to be in place as are necessary to secure compliance with the requirements of Ar
 
 ### Selection criteria and laboratory tests required for donors of reproductive cells
 
-**6.** In relation to partner-donated sperm which is not , or partner-donated eggs which are not,[^key-7ed17b6659ce2a7f3e1edf6953977305] intended to be used without processing or storage, licence conditions shall require compliance with the selection criteria for donors and the requirements for laboratory tests laid down in section 2 (partner donation (not direct use)) of Annex III (selection criteria and laboratory tests required for donors of reproductive cells) to the second Directive.
+**6.** In relation to partner-donated sperm which is not , or partner-donated eggs which are not,[^c-7ed17b6659ce2a7f3e1edf6953977305] intended to be used without processing or storage, licence conditions shall require compliance with the selection criteria for donors and the requirements for laboratory tests laid down in section 2 (partner donation (not direct use)) of Annex III (selection criteria and laboratory tests required for donors of reproductive cells) to the second Directive.
 
-**7.** Subject to paragraph 7A, in[^key-a6cef4fe159e0477a23c30f3cf86cdf3] relation to donations of gametes or embryos other than partner-donated sperm , partner-donated eggs[^key-33e983d1be311c5932d72c3ad9b8a270] or partner-created embryos, licence conditions shall require compliance with the selection criteria for donors and the requirements for laboratory tests laid down in section 3 (donations other than by partners) of Annex III to the second Directive.
+**7.** Subject to paragraph 7A, in[^c-a6cef4fe159e0477a23c30f3cf86cdf3] relation to donations of gametes or embryos other than partner-donated sperm , partner-donated eggs[^c-33e983d1be311c5932d72c3ad9b8a270] or partner-created embryos, licence conditions shall require compliance with the selection criteria for donors and the requirements for laboratory tests laid down in section 3 (donations other than by partners) of Annex III to the second Directive.
 
-**7A.**[^key-31f4b8ccb72a6365b57ea04d06d2bf52] (1) In relation to a donation within paragraph 7 which meets the conditions in this paragraph, licence conditions must not include the requirement in section 3.2 of Annex III to the second Directive, that donors must be negative for HIV.
+**7A.**[^c-31f4b8ccb72a6365b57ea04d06d2bf52] (1) In relation to a donation within paragraph 7 which meets the conditions in this paragraph, licence conditions must not include the requirement in section 3.2 of Annex III to the second Directive, that donors must be negative for HIV.
 
 (2) The first condition is the donor has a plasma HIV RNA load of no more than 200 copies per millilitre on—
 
@@ -114,7 +114,7 @@ licence conditions shall require compliance with the requirements of Article 15(
 | --- | --- |
 | **1. Donation and procurement procedures** |  |
 | Consent and donor identification (record of consent, method of identification, donor interview) | Annex IV, point 1.1 |
-| Donor evaluation: other than partner-donated sperm , partner-donated eggs[^key-5c1d661b427c39bb4d09183c38668d8f] and partner-created embryos and autologous donors (assessment of donor's medical and behavioural information) | Annex IV, point 1.2 |
+| Donor evaluation: other than partner-donated sperm , partner-donated eggs[^c-5c1d661b427c39bb4d09183c38668d8f] and partner-created embryos and autologous donors (assessment of donor's medical and behavioural information) | Annex IV, point 1.2 |
 | Procurement procedures for gametes and embryos (requirements relating to procurement procedures and instruments) | Annex IV, point 1.3 |
 | Donor documentation (record of donor and the procurement) | Annex IV, point 1.4 |
 | Packaging (requirements as to packaging and shipping containers) | Annex IV, point 1.5 |
@@ -154,7 +154,7 @@ licence conditions shall require compliance with the requirements of Article 15(
   | Final labelling of gametes and embryo containers for distribution (information to be shown on container label or in accompanying documentation) | Annex II, Part E |
   | External labelling of the shipping container (information to be shown on label on shipping container) | Annex II, Part F |
 
-### Modifications to the first, second and third Directives[^key-87af9c376553ea815cf1161001ea23ad]
+### Modifications to the first, second and third Directives[^c-87af9c376553ea815cf1161001ea23ad]
 
 **11A.** (1) The modifications to the first Directive are as follows.
 
@@ -245,7 +245,7 @@ licence conditions shall require compliance with the requirements of Article 15(
 
 ### Interpretation of this Schedule
 
-**12.**[^key-d4b357c8adfe0a4f96cabc51ac562082] In this Schedule—
+**12.**[^c-d4b357c8adfe0a4f96cabc51ac562082] In this Schedule—
 
 - “**HIV**” means human immunodeficiency virus, type 1 and type 2;
 - “**partner-created embryos**” means embryos created using the gametes of a man and a woman who declare that they have an intimate physical relationship;
@@ -256,32 +256,32 @@ licence conditions shall require compliance with the requirements of Article 15(
 
 [^c1970707]: Textual amendment: Sch. 3A inserted (25.5.2007 for certain purposes, otherwise 5.7.2007) by [The Human Fertilisation and Embryology (Quality and Safety) Regulations 2007 (S.I. 2007/1522)](https://www.legislation.gov.uk/uksi/2007/1522), [regs 1](https://www.legislation.gov.uk/uksi/2007/1522/regulation/1), [30](https://www.legislation.gov.uk/uksi/2007/1522/regulation/30)
 
-[^key-abd10784011614923a0e50d09a73d1d6]: Textual amendment: Sch. 3A para. A1 inserted (31.12.2020) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/482)](https://www.legislation.gov.uk/uksi/2019/482), [regs. 1](https://www.legislation.gov.uk/uksi/2019/482/regulation/1), [2(17)(a)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/17/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/482/regulation/4)) (as amended by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(a)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-abd10784011614923a0e50d09a73d1d6]: Textual amendment: Sch. 3A para. A1 inserted (31.12.2020) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/482)](https://www.legislation.gov.uk/uksi/2019/482), [regs. 1](https://www.legislation.gov.uk/uksi/2019/482/regulation/1), [2(17)(a)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/17/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/482/regulation/4)) (as amended by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(a)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a69413fd528ed6715036da7e3139d766]: Textual amendment: Sch. 3A para. B1 and cross-heading inserted (28.11.2024) by [The Human Fertilisation and Embryology (Amendment) Regulations 2024 (S.I. 2024/1091)](https://www.legislation.gov.uk/uksi/2024/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/2/2)
+[^c-a69413fd528ed6715036da7e3139d766]: Textual amendment: Sch. 3A para. B1 and cross-heading inserted (28.11.2024) by [The Human Fertilisation and Embryology (Amendment) Regulations 2024 (S.I. 2024/1091)](https://www.legislation.gov.uk/uksi/2024/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/2/2)
 
-[^key-56dab41aef68a1b77916b76100cb6590]: Textual amendment: Sch. 3A para. 1 substituted (6.3.2018 for specified purposes, 1.4.2018 in so far as not already in force) by [The Human Fertilisation and Embryology (Amendment) Regulations 2018 (S.I. 2018/334)](https://www.legislation.gov.uk/uksi/2018/334), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/334/regulation/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2018/334/regulation/4/5) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2018/334/regulation/6/2)[(3)](https://www.legislation.gov.uk/uksi/2018/334/regulation/6/3))
+[^c-56dab41aef68a1b77916b76100cb6590]: Textual amendment: Sch. 3A para. 1 substituted (6.3.2018 for specified purposes, 1.4.2018 in so far as not already in force) by [The Human Fertilisation and Embryology (Amendment) Regulations 2018 (S.I. 2018/334)](https://www.legislation.gov.uk/uksi/2018/334), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/334/regulation/1/3), [4(5)](https://www.legislation.gov.uk/uksi/2018/334/regulation/4/5) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2018/334/regulation/6/2)[(3)](https://www.legislation.gov.uk/uksi/2018/334/regulation/6/3))
 
 [^M_F_81437620-7f80-49ef-f40f-e58f75df2dad]: Textual amendment: Sch. 3A para. 2 omitted (6.3.2018 for specified purposes, 1.4.2018 in so far as not already in force) by virtue of [The Human Fertilisation and Embryology (Amendment) Regulations 2018 (S.I. 2018/334)](https://www.legislation.gov.uk/uksi/2018/334), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/334/regulation/1/3), [4(6)](https://www.legislation.gov.uk/uksi/2018/334/regulation/4/6) (with [reg. 6(2)](https://www.legislation.gov.uk/uksi/2018/334/regulation/6/2)[(3)](https://www.legislation.gov.uk/uksi/2018/334/regulation/6/3))
 
 [^M_F_51dfb687-39cc-4708-e900-94605dc7edd8]: Textual amendment: Words in Sch. 3A para. 3 heading inserted (31.12.2020) by [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [reg. 2(17)(b)(i)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/17/b/i) (as substituted by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/b))
 
-[^key-878752c95650675cac90e597f3f39d5e]: Textual amendment: Words in Sch. 3A para. 3 substituted (31.12.2020) by [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [reg. 2(17)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/17/b/ii) (as substituted by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/b))
+[^c-878752c95650675cac90e597f3f39d5e]: Textual amendment: Words in Sch. 3A para. 3 substituted (31.12.2020) by [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [reg. 2(17)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/17/b/ii) (as substituted by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/b))
 
-[^key-7fa7a0ddb6560913f3be217bf21909a8]: Textual amendment: Words in Sch. 3A para. 3 substituted (31.12.2020) by [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [reg. 2(17)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/17/b/iii) (as substituted by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/b))
+[^c-7fa7a0ddb6560913f3be217bf21909a8]: Textual amendment: Words in Sch. 3A para. 3 substituted (31.12.2020) by [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [reg. 2(17)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/17/b/iii) (as substituted by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/b))
 
-[^key-817f1a29eed3f04f3fdb6a417eaa51dd]: Textual amendment: Sch. 3A para. 3A and cross-heading inserted (31.12.2020) by [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [reg. 2(17)(ba)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/17/ba) (as substituted by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/b))
+[^c-817f1a29eed3f04f3fdb6a417eaa51dd]: Textual amendment: Sch. 3A para. 3A and cross-heading inserted (31.12.2020) by [S.I. 2019/482](https://www.legislation.gov.uk/uksi/2019/482), [reg. 2(17)(ba)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/17/ba) (as substituted by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/b))
 
-[^key-7ed17b6659ce2a7f3e1edf6953977305]: Textual amendment: Words in Sch. 3A para. 6 inserted (28.11.2024) by [The Human Fertilisation and Embryology (Amendment) Regulations 2024 (S.I. 2024/1091)](https://www.legislation.gov.uk/uksi/2024/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/2/3)
+[^c-7ed17b6659ce2a7f3e1edf6953977305]: Textual amendment: Words in Sch. 3A para. 6 inserted (28.11.2024) by [The Human Fertilisation and Embryology (Amendment) Regulations 2024 (S.I. 2024/1091)](https://www.legislation.gov.uk/uksi/2024/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/2/3)
 
-[^key-a6cef4fe159e0477a23c30f3cf86cdf3]: Textual amendment: Words in Sch. 3A para. 7 substituted (28.11.2024) by [The Human Fertilisation and Embryology (Amendment) Regulations 2024 (S.I. 2024/1091)](https://www.legislation.gov.uk/uksi/2024/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/2/4/a)
+[^c-a6cef4fe159e0477a23c30f3cf86cdf3]: Textual amendment: Words in Sch. 3A para. 7 substituted (28.11.2024) by [The Human Fertilisation and Embryology (Amendment) Regulations 2024 (S.I. 2024/1091)](https://www.legislation.gov.uk/uksi/2024/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/2/4/a)
 
-[^key-33e983d1be311c5932d72c3ad9b8a270]: Textual amendment: Words in Sch. 3A para. 7 inserted (28.11.2024) by [The Human Fertilisation and Embryology (Amendment) Regulations 2024 (S.I. 2024/1091)](https://www.legislation.gov.uk/uksi/2024/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/2/4/b)
+[^c-33e983d1be311c5932d72c3ad9b8a270]: Textual amendment: Words in Sch. 3A para. 7 inserted (28.11.2024) by [The Human Fertilisation and Embryology (Amendment) Regulations 2024 (S.I. 2024/1091)](https://www.legislation.gov.uk/uksi/2024/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/2/4/b)
 
-[^key-31f4b8ccb72a6365b57ea04d06d2bf52]: Textual amendment: Sch. 3A para. 7A inserted (28.11.2024) by [The Human Fertilisation and Embryology (Amendment) Regulations 2024 (S.I. 2024/1091)](https://www.legislation.gov.uk/uksi/2024/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/2/5)
+[^c-31f4b8ccb72a6365b57ea04d06d2bf52]: Textual amendment: Sch. 3A para. 7A inserted (28.11.2024) by [The Human Fertilisation and Embryology (Amendment) Regulations 2024 (S.I. 2024/1091)](https://www.legislation.gov.uk/uksi/2024/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/2/5)
 
-[^key-5c1d661b427c39bb4d09183c38668d8f]: Textual amendment: Words in Sch. 3A para. 9 table inserted (28.11.2024) by [The Human Fertilisation and Embryology (Amendment) Regulations 2024 (S.I. 2024/1091)](https://www.legislation.gov.uk/uksi/2024/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/2/6)
+[^c-5c1d661b427c39bb4d09183c38668d8f]: Textual amendment: Words in Sch. 3A para. 9 table inserted (28.11.2024) by [The Human Fertilisation and Embryology (Amendment) Regulations 2024 (S.I. 2024/1091)](https://www.legislation.gov.uk/uksi/2024/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/2/6)
 
-[^key-87af9c376553ea815cf1161001ea23ad]: Textual amendment: Sch. 3A paras. 11A-11C and cross-heading inserted (31.12.2020) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/482)](https://www.legislation.gov.uk/uksi/2019/482), [regs. 1](https://www.legislation.gov.uk/uksi/2019/482/regulation/1), [2(17)(c)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/17/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/482/regulation/4)) (as amended by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(c)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-87af9c376553ea815cf1161001ea23ad]: Textual amendment: Sch. 3A paras. 11A-11C and cross-heading inserted (31.12.2020) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/482)](https://www.legislation.gov.uk/uksi/2019/482), [regs. 1](https://www.legislation.gov.uk/uksi/2019/482/regulation/1), [2(17)(c)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/17/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/482/regulation/4)) (as amended by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [16(c)](https://www.legislation.gov.uk/uksi/2020/1307/regulation/16/c)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d4b357c8adfe0a4f96cabc51ac562082]: Textual amendment: Sch. 3A para. 12 substituted (28.11.2024) by [The Human Fertilisation and Embryology (Amendment) Regulations 2024 (S.I. 2024/1091)](https://www.legislation.gov.uk/uksi/2024/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/2/7)
+[^c-d4b357c8adfe0a4f96cabc51ac562082]: Textual amendment: Sch. 3A para. 12 substituted (28.11.2024) by [The Human Fertilisation and Embryology (Amendment) Regulations 2024 (S.I. 2024/1091)](https://www.legislation.gov.uk/uksi/2024/1091), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/1091/regulation/2/7)

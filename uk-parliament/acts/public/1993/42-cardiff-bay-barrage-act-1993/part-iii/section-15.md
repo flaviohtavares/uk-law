@@ -43,7 +43,7 @@ summary: ''
 (6) Subsection (5) above shall not prejudice—
 
 - (a) the exercise by the Cardiff City Council of the power conferred by section 94 of the [^c861223]Public Health Acts Amendment Act 1907 (charges for pleasure boat licences), or
-- (b) the power of the Natural Resources Body for Wales under[^key-1677dcc6fa8e632b5adb9d011443f418] Part IV of the [^c861224]Salmon and Freshwater Fisheries Act 1975 (charges for fishing licences).
+- (b) the power of the Natural Resources Body for Wales under[^c-1677dcc6fa8e632b5adb9d011443f418] Part IV of the [^c861224]Salmon and Freshwater Fisheries Act 1975 (charges for fishing licences).
 
 ## Annotations
 
@@ -51,6 +51,6 @@ summary: ''
 
 [^c861223]: Marginal citation: [1907 c. 53](https://www.legislation.gov.uk/ukpga/1907/53).
 
-[^key-1677dcc6fa8e632b5adb9d011443f418]: Textual amendment: Words in [s. 15(6)(b)](https://www.legislation.gov.uk/ukpga/1993/42/section/15/6/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 353](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/353) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1677dcc6fa8e632b5adb9d011443f418]: Textual amendment: Words in [s. 15(6)(b)](https://www.legislation.gov.uk/ukpga/1993/42/section/15/6/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 353](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/353) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c861224]: Marginal citation: [1975 c. 51](https://www.legislation.gov.uk/ukpga/1975/51).

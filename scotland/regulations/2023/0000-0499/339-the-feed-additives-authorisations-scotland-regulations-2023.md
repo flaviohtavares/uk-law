@@ -44,17 +44,17 @@ Coming into force
 
 22nd December 2023
 
-[^key-b48642b3c0fd803a790ae73a93d606a9]The Scottish Ministers make the following Regulations in exercise of the powers conferred by Articles 9(1) and 18A(3) of Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council on additives for use in animal nutrition[^f00001], and all other powers enabling them to do so.
+[^c-b48642b3c0fd803a790ae73a93d606a9]The Scottish Ministers make the following Regulations in exercise of the powers conferred by Articles 9(1) and 18A(3) of Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council on additives for use in animal nutrition[^f00001], and all other powers enabling them to do so.
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00002].
 
-## 1. Citation, commencement and extent[^key-9e176708e2f45c41b9fdda95a705065c]
+## 1. Citation, commencement and extent[^c-9e176708e2f45c41b9fdda95a705065c]
 
 (1) These Regulations may be cited as the Feed Additives (Authorisations) (Scotland) Regulations 2023 and come into force on 22 December 2023.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-c65ad4286e5660e87ff0847d67e12a25]
+## 2. Interpretation[^c-c65ad4286e5660e87ff0847d67e12a25]
 
 (1) In these Regulations—
 
@@ -70,11 +70,11 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - (a) expressions used to refer to species or categories of animals that are also used in Annex 4 (categories and definitions of target animals and indication of the minimum duration of efficacy studies) of Regulation 429/2008 have the same meaning as in that Annex,
 - (b) any reference to a minor species is to be read in accordance with the definition of “minor species” in Article 1 (definitions) of Regulation 429/2008.
 
-## 3. Authorisations[^key-b48642b3c0fd803a790ae73a93d606a9]
+## 3. Authorisations[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision: Endo-1,4-beta-xylanase (EC 3.2.1.8) (identification number 4a8)[^key-335eca2a95878066dfcc0fe21bbdc82e]
+## 4. Transitional provision: Endo-1,4-beta-xylanase (EC 3.2.1.8) (identification number 4a8)[^c-335eca2a95878066dfcc0fe21bbdc82e]
 
 (1) The relevant feed additive, and premixtures containing it, which are produced and labelled before the end of 21 June 2024 in compliance with the conditions of the prior authorisation and the labelling requirements applicable before 22 December 2023, may continue to be placed on the market and used until stocks are exhausted.
 
@@ -85,19 +85,19 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - “**relevant feed additive**” means the feed additive endo-1,4-beta-xylanase (EC 3.2.1.8), with the identification number 4a8, authorised under the prior authorisation,
 - “**prior authorisation**” means the authorisation contained in [Commission Regulation (EC) No 902/2009](https://www.legislation.gov.uk/european/regulation/2009/0902) concerning the authorisation of an enzyme preparation of endo-1,4-beta-xylanase produced by *Trichoderma reesei* (CBS 114044) as a feed additive for weaned piglets, chickens for fattening, chickens reared for laying, turkeys for fattening and turkeys reared for breeding (holder of authorisation Roal Oy)[^f00006].
 
-## 5. Amendment of Commission Implementing [Regulation (EU) No601/2013](https://www.legislation.gov.uk/european/regulation/2013/0601)[^key-b48642b3c0fd803a790ae73a93d606a9]
+## 5. Amendment of Commission Implementing [Regulation (EU) No601/2013](https://www.legislation.gov.uk/european/regulation/2013/0601)[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Commission Implementing [Regulation (EU) 2019/221](https://www.legislation.gov.uk/european/regulation/2019/0221)[^key-b48642b3c0fd803a790ae73a93d606a9]
+## 6. Amendment of Commission Implementing [Regulation (EU) 2019/221](https://www.legislation.gov.uk/european/regulation/2019/0221)[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocations[^key-752aa72e453617f209fca0d4b081501a]
+## 7. Revocations[^c-752aa72e453617f209fca0d4b081501a]
 
 (1) The instrument listed in paragraph 1 of schedule 14 is revoked subject to regulation 4.
 
-(2)[^key-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 JENNI MINTO
 
@@ -109,133 +109,133 @@ Edinburgh
 
 8th November 2023
 
-## SCHEDULE 1 — Renewal of authorisation of a preparation of endo-1,4-beta-xylanase (EC 3.2.1.8) produced from Trichoderma reesei (CBS 143953) (formerly Trichoderma reesei (ATCC PTA 5588)) (identification number 4a11) as a feed additive for chickens for fattening, laying hens, turkeys for fattening, ducks, minor poultry species, weaned piglets, and piglets for fattening, and its authorisation as a feed additive extending existing uses to cover all poultry species, piglets (suckling and weaned), pigs for fattening, and minor porcine species[^key-b48642b3c0fd803a790ae73a93d606a9]
+## SCHEDULE 1 — Renewal of authorisation of a preparation of endo-1,4-beta-xylanase (EC 3.2.1.8) produced from Trichoderma reesei (CBS 143953) (formerly Trichoderma reesei (ATCC PTA 5588)) (identification number 4a11) as a feed additive for chickens for fattening, laying hens, turkeys for fattening, ducks, minor poultry species, weaned piglets, and piglets for fattening, and its authorisation as a feed additive extending existing uses to cover all poultry species, piglets (suckling and weaned), pigs for fattening, and minor porcine species[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 **No longer in force.**
 
 Regulation 3(1)
 
-### 1.[^key-b48642b3c0fd803a790ae73a93d606a9]
+### 1.[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Authorisation of a preparation of Lacticaseibacillus rhamnosus (formerly Lactobacillus rhamnosus) (IMI 507023) (identification number 1k21701) as a feed additive for all animal species[^key-b48642b3c0fd803a790ae73a93d606a9]
+## SCHEDULE 2 — Authorisation of a preparation of Lacticaseibacillus rhamnosus (formerly Lactobacillus rhamnosus) (IMI 507023) (identification number 1k21701) as a feed additive for all animal species[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 **No longer in force.**
 
 Regulation 3(1)
 
-### 1.[^key-b48642b3c0fd803a790ae73a93d606a9]
+### 1.[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Authorisation of a preparation of Pediococcus pentosaceus (IMI 507024) (identification number 1k21016) as a feed additive for all animal species[^key-b48642b3c0fd803a790ae73a93d606a9]
+## SCHEDULE 3 — Authorisation of a preparation of Pediococcus pentosaceus (IMI 507024) (identification number 1k21016) as a feed additive for all animal species[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 **No longer in force.**
 
 Regulation 3(1)
 
-### 1.[^key-b48642b3c0fd803a790ae73a93d606a9]
+### 1.[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Authorisation of a preparation of Pediococcus pentosaceus (IMI 507025) (identification number 1k21017) as a feed additive for all animal species[^key-b48642b3c0fd803a790ae73a93d606a9]
+## SCHEDULE 4 — Authorisation of a preparation of Pediococcus pentosaceus (IMI 507025) (identification number 1k21017) as a feed additive for all animal species[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 **No longer in force.**
 
 Regulation 3(1)
 
-### 1.[^key-b48642b3c0fd803a790ae73a93d606a9]
+### 1.[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (IMI 507026) (identification number 1k21601) as a feed additive for all animal species[^key-b48642b3c0fd803a790ae73a93d606a9]
+## SCHEDULE 5 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (IMI 507026) (identification number 1k21601) as a feed additive for all animal species[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 **No longer in force.**
 
 Regulation 3(1)
 
-### 1.[^key-b48642b3c0fd803a790ae73a93d606a9]
+### 1.[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (IMI 507027) (identification number 1k21602) as a feed additive for all animal species[^key-b48642b3c0fd803a790ae73a93d606a9]
+## SCHEDULE 6 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (IMI 507027) (identification number 1k21602) as a feed additive for all animal species[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 **No longer in force.**
 
 Regulation 3(1)
 
-### 1.[^key-b48642b3c0fd803a790ae73a93d606a9]
+### 1.[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 7 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (IMI 507028) (identification number 1k21603) as a feed additive for all animal species[^key-b48642b3c0fd803a790ae73a93d606a9]
+## SCHEDULE 7 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (IMI 507028) (identification number 1k21603) as a feed additive for all animal species[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 **No longer in force.**
 
 Regulation 3(1)
 
-### 1.[^key-b48642b3c0fd803a790ae73a93d606a9]
+### 1.[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 8 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (DSM 26571) (identification number 1k1604) as a feed additive for all animal species[^key-b48642b3c0fd803a790ae73a93d606a9]
+## SCHEDULE 8 — Authorisation of a preparation of Lactiplantibacillus plantarum (formerly Lactobacillus plantarum) (DSM 26571) (identification number 1k1604) as a feed additive for all animal species[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 **No longer in force.**
 
 Regulation 3(1)
 
-### 1.[^key-b48642b3c0fd803a790ae73a93d606a9]
+### 1.[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 9 — Renewal of authorisation of a preparation of endo-1,4-beta-xylanase (EC 3.2.1.8) produced from Trichoderma reesei (CBS 114044) (identification number 4a8i) as a feed additive for piglets (weaned), chickens for fattening, chickens reared for laying, turkeys for fattening and turkeys reared for breeding[^key-b48642b3c0fd803a790ae73a93d606a9]
+## SCHEDULE 9 — Renewal of authorisation of a preparation of endo-1,4-beta-xylanase (EC 3.2.1.8) produced from Trichoderma reesei (CBS 114044) (identification number 4a8i) as a feed additive for piglets (weaned), chickens for fattening, chickens reared for laying, turkeys for fattening and turkeys reared for breeding[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 **No longer in force.**
 
 Regulation 3(1)
 
-### 1.[^key-b48642b3c0fd803a790ae73a93d606a9]
+### 1.[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 10 — Renewal of authorisation of a preparation of 6-phytase (EC 3.1.3.26) produced from Trichoderma reesei (CBS 122001) (identification number 4a12) as a feed additive for poultry for fattening, poultry for breeding, poultry for laying and pigs[^key-b48642b3c0fd803a790ae73a93d606a9]
+## SCHEDULE 10 — Renewal of authorisation of a preparation of 6-phytase (EC 3.1.3.26) produced from Trichoderma reesei (CBS 122001) (identification number 4a12) as a feed additive for poultry for fattening, poultry for breeding, poultry for laying and pigs[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 **No longer in force.**
 
 Regulation 3(1)
 
-### 1.[^key-b48642b3c0fd803a790ae73a93d606a9]
+### 1.[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 11 — Authorisation of L-lysine base (liquid) produced from Corynebacterium glutamicum (KCCM 80216 or KCTC 12307BP) (identification number 3c326) as a feed additive for all animal species[^key-b48642b3c0fd803a790ae73a93d606a9]
+## SCHEDULE 11 — Authorisation of L-lysine base (liquid) produced from Corynebacterium glutamicum (KCCM 80216 or KCTC 12307BP) (identification number 3c326) as a feed additive for all animal species[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 **No longer in force.**
 
 Regulation 3(1)
 
-### 1.[^key-b48642b3c0fd803a790ae73a93d606a9]
+### 1.[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 12 — Authorisation of L-lysine monohydrochloride (technically pure) produced from Corynebacterium glutamicum (KCCM 80216 or KCTC 12307BP) (identification number 3c327) as a feed additive for all animal species[^key-b48642b3c0fd803a790ae73a93d606a9]
+## SCHEDULE 12 — Authorisation of L-lysine monohydrochloride (technically pure) produced from Corynebacterium glutamicum (KCCM 80216 or KCTC 12307BP) (identification number 3c327) as a feed additive for all animal species[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 **No longer in force.**
 
 Regulation 3(1)
 
-### 1.[^key-b48642b3c0fd803a790ae73a93d606a9]
+### 1.[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 13 — Authorisation of a preparation of 3-nitrooxypropanol (identification number 4c1) as a feed additive for ruminants for milk production and for reproduction[^key-b48642b3c0fd803a790ae73a93d606a9]
+## SCHEDULE 13 — Authorisation of a preparation of 3-nitrooxypropanol (identification number 4c1) as a feed additive for ruminants for milk production and for reproduction[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 **No longer in force.**
 
 Regulation 3(1)
 
-### 1.[^key-b48642b3c0fd803a790ae73a93d606a9]
+### 1.[^c-b48642b3c0fd803a790ae73a93d606a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -243,25 +243,25 @@ Regulation 3(1)
 
 Regulation 7
 
-**1.**[^key-569ce9b7ac2da4c5cc899f81d12518c1] [Commission Regulation (EC) No 902/2009](https://www.legislation.gov.uk/european/regulation/2009/0902) concerning the authorisation of an enzyme preparation of endo-1,4-beta-xylanase produced by *Trichoderma reesei* (CBS 114044) as a feed additive for weaned piglets, chickens for fattening, chickens reared for laying, turkeys for fattening and turkeys reared for breeding (holder of authorisation Roal Oy)[^f00068].
+**1.**[^c-569ce9b7ac2da4c5cc899f81d12518c1] [Commission Regulation (EC) No 902/2009](https://www.legislation.gov.uk/european/regulation/2009/0902) concerning the authorisation of an enzyme preparation of endo-1,4-beta-xylanase produced by *Trichoderma reesei* (CBS 114044) as a feed additive for weaned piglets, chickens for fattening, chickens reared for laying, turkeys for fattening and turkeys reared for breeding (holder of authorisation Roal Oy)[^f00068].
 
-**2.**[^key-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b48642b3c0fd803a790ae73a93d606a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -319,15 +319,15 @@ A business and regulatory impact assessment has not been produced for this instr
 
 ## Annotations
 
-[^key-b48642b3c0fd803a790ae73a93d606a9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2023/339) revoked (except for reg. 4 and regs. 1, 2, 7(1), Sch. 14 para. 1 so far as they relate to reg. 4) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/361/schedule/1) (g) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-b48642b3c0fd803a790ae73a93d606a9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2023/339) revoked (except for reg. 4 and regs. 1, 2, 7(1), Sch. 14 para. 1 so far as they relate to reg. 4) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/361/schedule/1) (g) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
 [^f00001]: Footnote: EUR 2003/1831; relevant amending instruments are [S.I. 2019/654](https://www.legislation.gov.uk/uksi/2019/654), [S.I. 2022/377](https://www.legislation.gov.uk/uksi/2022/377) and [1351](https://www.legislation.gov.uk/uksi/2022/1351). [S.I. 2019/654](https://www.legislation.gov.uk/uksi/2019/654) was amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504). See Article 2 for the definitions of “prescribe” and “appropriate authority”. Article 9(1) applies in relation to renewals in accordance with Article 14.
 
 [^f00002]: Footnote: EUR 2002/178, amended by [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641). [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641) was amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504).
 
-[^key-9e176708e2f45c41b9fdda95a705065c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/339/regulation/1) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/339/regulation/1/1)
+[^c-9e176708e2f45c41b9fdda95a705065c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/339/regulation/1) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/339/regulation/1/1)
 
-[^key-c65ad4286e5660e87ff0847d67e12a25]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/339/regulation/2) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/339/regulation/1/1)
+[^c-c65ad4286e5660e87ff0847d67e12a25]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/339/regulation/2) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/339/regulation/1/1)
 
 [^f00003]: Footnote: EUR 2008/429; relevant amending instruments are [S.I. 2019/654](https://www.legislation.gov.uk/uksi/2019/654) and [S.I. 2022/1351](https://www.legislation.gov.uk/uksi/2022/1351). [S.I. 2019/654](https://www.legislation.gov.uk/uksi/2019/654) was amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504).
 
@@ -335,12 +335,12 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^f00005]: Footnote: EUR 2009/767, amended by [S.I. 2019/654](https://www.legislation.gov.uk/uksi/2019/654) and [S.I. 2022/1351](https://www.legislation.gov.uk/uksi/2022/1351).
 
-[^key-335eca2a95878066dfcc0fe21bbdc82e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/339/regulation/4) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/339/regulation/1/1)
+[^c-335eca2a95878066dfcc0fe21bbdc82e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2023/339/regulation/4) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/339/regulation/1/1)
 
 [^f00006]: Footnote: EUR 2009/902, to which there are amendments not relevant to this instrument.
 
-[^key-752aa72e453617f209fca0d4b081501a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2023/339/regulation/7) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/339/regulation/1/1)
+[^c-752aa72e453617f209fca0d4b081501a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2023/339/regulation/7) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/339/regulation/1/1)
 
-[^key-569ce9b7ac2da4c5cc899f81d12518c1]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ssi/2023/339/schedule/14/paragraph/1) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/339/regulation/1/1)
+[^c-569ce9b7ac2da4c5cc899f81d12518c1]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ssi/2023/339/schedule/14/paragraph/1) in force at 22.12.2023, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/339/regulation/1/1)
 
 [^f00068]: Footnote: EUR 2009/902.

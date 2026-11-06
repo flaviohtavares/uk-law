@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Operator removal notices[^key-6e833a507b9ab6f9691a083e2bb5dc09]
+## 48. Operator removal notices[^c-6e833a507b9ab6f9691a083e2bb5dc09]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e833a507b9ab6f9691a083e2bb5dc09]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2016/20/section/48) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-6e833a507b9ab6f9691a083e2bb5dc09]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2016/20/section/48) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

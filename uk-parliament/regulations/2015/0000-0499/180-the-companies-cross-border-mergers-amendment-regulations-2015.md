@@ -32,7 +32,7 @@ summary: ''
 
 Companies
 
-The Companies (Cross-Border Mergers) (Amendment) Regulations 2015 (revoked)[^key-188edf0cb2fd0769d14def5a8c393b96]
+The Companies (Cross-Border Mergers) (Amendment) Regulations 2015 (revoked)[^c-188edf0cb2fd0769d14def5a8c393b96]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 6th April 2015
 
-[^key-188edf0cb2fd0769d14def5a8c393b96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-188edf0cb2fd0769d14def5a8c393b96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-188edf0cb2fd0769d14def5a8c393b96]
+## 1.[^c-188edf0cb2fd0769d14def5a8c393b96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-188edf0cb2fd0769d14def5a8c393b96]
+## 2.[^c-188edf0cb2fd0769d14def5a8c393b96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-188edf0cb2fd0769d14def5a8c393b96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-188edf0cb2fd0769d14def5a8c393b96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-188edf0cb2fd0769d14def5a8c393b96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-188edf0cb2fd0769d14def5a8c393b96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-188edf0cb2fd0769d14def5a8c393b96]: Textual amendment: Regulations revoked (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [regs. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [5(d)](https://www.legislation.gov.uk/uksi/2019/348/regulation/5/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-188edf0cb2fd0769d14def5a8c393b96]: Textual amendment: Regulations revoked (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [regs. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [5(d)](https://www.legislation.gov.uk/uksi/2019/348/regulation/5/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

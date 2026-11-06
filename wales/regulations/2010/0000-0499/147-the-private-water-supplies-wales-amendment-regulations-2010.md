@@ -27,7 +27,7 @@ summary: ''
 
 WATER, WALES
 
-The Private Water Supplies (Wales) (Amendment) Regulations 2010 (revoked)[^key-786310785ad488958bd5d680f129437b]
+The Private Water Supplies (Wales) (Amendment) Regulations 2010 (revoked)[^c-786310785ad488958bd5d680f129437b]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 19 February 2010
 
-[^key-786310785ad488958bd5d680f129437b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-786310785ad488958bd5d680f129437b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-786310785ad488958bd5d680f129437b]
+## 1. Title, commencement and application[^c-786310785ad488958bd5d680f129437b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Private Water Supplies (Wales) Regulations 2010[^key-786310785ad488958bd5d680f129437b]
+## 2. Amendment of the Private Water Supplies (Wales) Regulations 2010[^c-786310785ad488958bd5d680f129437b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-786310785ad488958bd5d680f129437b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-786310785ad488958bd5d680f129437b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-786310785ad488958bd5d680f129437b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-786310785ad488958bd5d680f129437b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-786310785ad488958bd5d680f129437b]: Textual amendment: Regulations revoked (20.11.2017) by [The Private Water Supplies (Wales) Regulations 2017 (S.I. 2017/1041)](https://www.legislation.gov.uk/wsi/2017/1041), [reg. 24(1)(b)](https://www.legislation.gov.uk/wsi/2017/1041/regulation/24/1/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2017/1041/regulation/3))
+[^c-786310785ad488958bd5d680f129437b]: Textual amendment: Regulations revoked (20.11.2017) by [The Private Water Supplies (Wales) Regulations 2017 (S.I. 2017/1041)](https://www.legislation.gov.uk/wsi/2017/1041), [reg. 24(1)(b)](https://www.legislation.gov.uk/wsi/2017/1041/regulation/24/1/b) (with [reg. 3](https://www.legislation.gov.uk/wsi/2017/1041/regulation/3))

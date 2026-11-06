@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Offences in connection with notices under Schedule 12[^key-19d41a88300142f8a823a3d0d7912d3e][^key-08784a95f1bd6e1bc1559cb2094c81d9]
+## 111. Offences in connection with notices under Schedule 12[^c-19d41a88300142f8a823a3d0d7912d3e][^c-08784a95f1bd6e1bc1559cb2094c81d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-19d41a88300142f8a823a3d0d7912d3e]: Commencement: S. 111 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-19d41a88300142f8a823a3d0d7912d3e]: Commencement: S. 111 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-08784a95f1bd6e1bc1559cb2094c81d9]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2023/50/section/111) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z11)
+[^c-08784a95f1bd6e1bc1559cb2094c81d9]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2023/50/section/111) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z11)

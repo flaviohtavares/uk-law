@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Provision of free school lunches[^key-af1a4dca4cc09d53281060daa662c417]
+## 106. Provision of free school lunches[^c-af1a4dca4cc09d53281060daa662c417]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af1a4dca4cc09d53281060daa662c417]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2014/6/section/106) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(d)](https://www.legislation.gov.uk/uksi/2014/889/article/7/d)
+[^c-af1a4dca4cc09d53281060daa662c417]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2014/6/section/106) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(d)](https://www.legislation.gov.uk/uksi/2014/889/article/7/d)

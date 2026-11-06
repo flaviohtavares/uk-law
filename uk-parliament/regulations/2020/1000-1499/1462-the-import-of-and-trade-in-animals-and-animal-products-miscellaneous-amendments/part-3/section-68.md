@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Commission Implementing Regulation (EU) 2018/659 on the conditions for the entry into the Union of live equidae and of semen, ova and embryos of equidae[^key-8c9e48628a8f397b68619818a1c08a78]
+## 68. Commission Implementing Regulation (EU) 2018/659 on the conditions for the entry into the Union of live equidae and of semen, ova and embryos of equidae[^c-8c9e48628a8f397b68619818a1c08a78]
 
 *Extent: E+W+S+N.I.*
 
@@ -297,4 +297,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c9e48628a8f397b68619818a1c08a78]: Commencement: Reg. 68 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-8c9e48628a8f397b68619818a1c08a78]: Commencement: Reg. 68 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 69(3)
 
-**1.**[^key-f91e4fd1cf9c901b560e5f228b45489e] A Review Board appointed by an authority listed in column (1) of the Table below shall consist of not less than three of the persons specified in relation to that authority in column (2) of that Table.
+**1.**[^c-f91e4fd1cf9c901b560e5f228b45489e] A Review Board appointed by an authority listed in column (1) of the Table below shall consist of not less than three of the persons specified in relation to that authority in column (2) of that Table.
 
 **Table**
 
@@ -42,12 +42,12 @@ Regulation 69(3)
 
 [^f00108]
 
-**2.**[^key-9051dc9874b1f9481d6adc02a5d4c7d1] The members of a Review Board shall appoint one of their number to be the Chairman.
+**2.**[^c-9051dc9874b1f9481d6adc02a5d4c7d1] The members of a Review Board shall appoint one of their number to be the Chairman.
 
 ## Annotations
 
-[^key-f91e4fd1cf9c901b560e5f228b45489e]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/1989/1321/schedule/6/paragraph/1) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-f91e4fd1cf9c901b560e5f228b45489e]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/1989/1321/schedule/6/paragraph/1) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
 [^f00108]: Footnote: [1968 c. 16](https://www.legislation.gov.uk/ukpga/1968/16).
 
-[^key-9051dc9874b1f9481d6adc02a5d4c7d1]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/1989/1321/schedule/6/paragraph/2) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-9051dc9874b1f9481d6adc02a5d4c7d1]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/1989/1321/schedule/6/paragraph/2) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)

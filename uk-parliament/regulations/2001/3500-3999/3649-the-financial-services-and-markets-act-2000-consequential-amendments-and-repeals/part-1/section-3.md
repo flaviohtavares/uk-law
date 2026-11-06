@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. The principal repeals and revocations[^key-910794fee141fdef28b459ad1ed670e2]
+## 3. The principal repeals and revocations[^c-910794fee141fdef28b459ad1ed670e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-910794fee141fdef28b459ad1ed670e2]: Commencement: Art. 3 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-910794fee141fdef28b459ad1ed670e2]: Commencement: Art. 3 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00002]: Footnote: [1975 c. 75](https://www.legislation.gov.uk/ukpga/1975/75).
 

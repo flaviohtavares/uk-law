@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Enabling the making, and use, of films and other recordings of proceedings[^key-8fed95d15b2c45af3f83e7af189ef745]
+## 32. Enabling the making, and use, of films and other recordings of proceedings[^c-8fed95d15b2c45af3f83e7af189ef745]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fed95d15b2c45af3f83e7af189ef745]: Commencement: S. 32 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(f)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/f)
+[^c-8fed95d15b2c45af3f83e7af189ef745]: Commencement: S. 32 in force at 15.7.2013 by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 2(f)](https://www.legislation.gov.uk/uksi/2013/1725/article/2/f)

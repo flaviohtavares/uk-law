@@ -46,13 +46,13 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 In accordance with section 115 of, and paragraphs 1, 2 and 3 of Schedule 7, to that Act, a draft of this instrument has been laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-21c259d2bacbde527279b0072f2dee6f]
+## 1. Citation and commencement[^c-21c259d2bacbde527279b0072f2dee6f]
 
 (1) This Order may be cited as the Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013.
 
 (2) This Order comes into force on the same day as section 7 (holding of children’s hearing) of the 2011 Act comes into force.
 
-## 2. Interpretation[^key-c5140a7e4b027e21c448c25062d40e11]
+## 2. Interpretation[^c-c5140a7e4b027e21c448c25062d40e11]
 
 (1) Subject to paragraph (3), in this Order unless the context otherwise requires—
 
@@ -109,7 +109,7 @@ In accordance with section 115 of, and paragraphs 1, 2 and 3 of Schedule 7, to t
 
 (3) For the purpose of article 4, the definition of “place of safety” in paragraph (1) does not apply.
 
-## 3. Extent[^key-3db38287d06b8ec80c2b3369bbc755d3]
+## 3. Extent[^c-3db38287d06b8ec80c2b3369bbc755d3]
 
 (1) Except as provided in paragraphs (2) to (6) below, this Order extends to England and Wales, Scotland and Northern Ireland.
 
@@ -123,7 +123,7 @@ In accordance with section 115 of, and paragraphs 1, 2 and 3 of Schedule 7, to t
 
 (6) Article 20 extends to England and Wales only.
 
-## 4. Transitional provisions and savings[^key-849f5d1f6f10e496e418306fd33bcf95]
+## 4. Transitional provisions and savings[^c-849f5d1f6f10e496e418306fd33bcf95]
 
 (1) Section 70(4) of the 1995 Act (disposal of referral by children’s hearing: supervision requirements, including residence in secure accommodation) continues to have effect where a supervision requirement has been or is made under section 70 of that Act before or after section 7 of the 2011 Act comes into force.
 
@@ -140,7 +140,7 @@ In accordance with section 115 of, and paragraphs 1, 2 and 3 of Schedule 7, to t
 
 (6) The definitions of “local government area”, “place of safety”, “compulsory measures of supervision”, “relevant local authority” and “supervision requirement” in section 93(1) of the 1995 Act (interpretation of Part 2) continue to have effect for the purposes of paragraphs (1) to (5).
 
-## 5. Enforcement of orders[^key-e47c89782c2f7be09c2970982ec855e8]
+## 5. Enforcement of orders[^c-e47c89782c2f7be09c2970982ec855e8]
 
 (1) Paragraph (2) applies where a relevant order authorising the keeping of a child in a particular place (an “authorised place”) is in force in relation to a child and that child is in England, Wales or Northern Ireland.
 
@@ -163,7 +163,7 @@ In accordance with section 115 of, and paragraphs 1, 2 and 3 of Schedule 7, to t
 - (e) an interim compulsory supervision order; or
 - (f) a medical examination order.
 
-## 6. Warrants to secure attendance[^key-37ae2a7ed96251d1e89c6480909c42c8]
+## 6. Warrants to secure attendance[^c-37ae2a7ed96251d1e89c6480909c42c8]
 
 (1) Paragraph (2) applies where a warrant to secure attendance is in force in relation to a child, and that child is in England, Wales or Northern Ireland.
 
@@ -179,7 +179,7 @@ In accordance with section 115 of, and paragraphs 1, 2 and 3 of Schedule 7, to t
 
 (4) In this article, “relevant proceedings”, in relation to a warrant to secure attendance, means the children’s hearing or, as the case may be, proceedings before the sheriff in respect of which it is granted.
 
-## 7. Compulsory supervision orders and interim compulsory supervision orders[^key-1c67786768ba2ffa31a73dd455802bc6]
+## 7. Compulsory supervision orders and interim compulsory supervision orders[^c-1c67786768ba2ffa31a73dd455802bc6]
 
 *Extent: E+W+S*
 
@@ -187,7 +187,7 @@ In accordance with section 115 of, and paragraphs 1, 2 and 3 of Schedule 7, to t
 
 (2) Where a compulsory supervision order or interim compulsory supervision order contains a direction of the type mentioned in section 83(2)(b) of the 2011 Act and the place at which the child is required to reside in accordance with the order is a place in England or Wales, the order is authority for the person in charge of that place to restrict the child’s liberty to the extent that the person considers appropriate having regard to the measures included in the order.
 
-(3)[^key-26090e5a54a87a04f8b1c696664d88d8] Where—
+(3)[^c-26090e5a54a87a04f8b1c696664d88d8] Where—
 
 - (a) a compulsory supervision order or interim compulsory supervision order contains a requirement of the type mentioned in section 83(2)(a) of the 2011 Act and a secure accommodation authorisation (as defined in section 85 of that Act),
 - (b) the place at which the child is required to reside in accordance with the order is a place in England or Wales, and
@@ -195,7 +195,7 @@ In accordance with section 115 of, and paragraphs 1, 2 and 3 of Schedule 7, to t
 
 the order is authority for the child to be placed and kept in secure accommodation within that place.
 
-## 8. Child absconding from place[^key-e327eb0d34bf878ad9ac4374b4a9f4bb]
+## 8. Child absconding from place[^c-e327eb0d34bf878ad9ac4374b4a9f4bb]
 
 (1) This article applies where—
 
@@ -247,7 +247,7 @@ the order is authority for the child to be placed and kept in secure accommodati
   - (ii) the next hearing before the sheriff relating to the child that is to take place by virtue of the 2011 Act; or
 - (h) in the cases mentioned in paragraph (1)(a)(viii) and (x), the next children’s hearing that has been arranged in relation to the child.
 
-## 9. Child absconding from person[^key-0d4a1f511131e9780b166c2bd4c02678]
+## 9. Child absconding from person[^c-0d4a1f511131e9780b166c2bd4c02678]
 
 (1) This article applies where—
 
@@ -299,7 +299,7 @@ the order is authority for the child to be placed and kept in secure accommodati
   - (ii) the next hearing before the sheriff relating to the child that is to take place by virtue of the 2011 Act; or
 - (h) in the cases mentioned in paragraph (1)(a)(viii) and (x), the next children’s hearing that has been arranged in relation to the child.
 
-## 10. Offences relating to absconding[^key-d2baf4a31a1a7e7b24e535012f629479]
+## 10. Offences relating to absconding[^c-d2baf4a31a1a7e7b24e535012f629479]
 
 *Extent: E+W+N.I.*
 
@@ -328,7 +328,7 @@ the order is authority for the child to be placed and kept in secure accommodati
 - (b) section 51(5) and (6) of the 1989 Act; and
 - (c) Article 70(5) and (6) of the 1995 Order.
 
-## 11. Offence of intentional obstruction[^key-167ae89bbd09146f587c1322ca9b7e28]
+## 11. Offence of intentional obstruction[^c-167ae89bbd09146f587c1322ca9b7e28]
 
 *Extent: E+W+N.I.*
 
@@ -341,7 +341,7 @@ the order is authority for the child to be placed and kept in secure accommodati
 
 (2) A person guilty of an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-## 12. Publishing restrictions[^key-d6cfcee9d4b8be0f9df810da503e85ba]
+## 12. Publishing restrictions[^c-d6cfcee9d4b8be0f9df810da503e85ba]
 
 *Extent: E+W+N.I.*
 
@@ -371,7 +371,7 @@ the order is authority for the child to be placed and kept in secure accommodati
   - (a) to publish matter in a programme service, as defined by section 201 of the Broadcasting Act 1990[^f00021]; and
   - (b) to cause matter to be published.
 
-## 13. Transfer of child from Scotland to England or Wales: effect of compulsory supervision order[^key-8dd2fdb15f50104955a891f9dfecb542]
+## 13. Transfer of child from Scotland to England or Wales: effect of compulsory supervision order[^c-8dd2fdb15f50104955a891f9dfecb542]
 
 *Extent: E+W+S*
 
@@ -397,7 +397,7 @@ the order is authority for the child to be placed and kept in secure accommodati
 
 (7) The reference in paragraph (5)(b) to the ground mentioned in section 67(2)(o) of the 2011 Act being accepted or established includes a reference to the ground being accepted or established by virtue of section 70(2)(a) (requirement under Antisocial Behaviour etc. (Scotland) Act 2004) or 71(3)(a) (case remitted under section 49 of the Criminal Procedure (Scotland) Act 1995) of the 2011 Act.
 
-## 14. Transfer of child from Scotland to Northern Ireland: effect of compulsory supervision order[^key-b310b621e5eeabbbc6f535e5fb55358c]
+## 14. Transfer of child from Scotland to Northern Ireland: effect of compulsory supervision order[^c-b310b621e5eeabbbc6f535e5fb55358c]
 
 *Extent: S+N.I.*
 
@@ -423,13 +423,13 @@ the order is authority for the child to be placed and kept in secure accommodati
 
 (7) The reference in paragraph (5)(b) to the ground mentioned in section 67(2)(o) of the 2011 Act being accepted or established includes a reference to the ground being established by virtue of section 70(2)(a) (requirement under Antisocial Behaviour etc. (Scotland) Act 2004) or 71(3)(a) (case remitted under section 49 of the Criminal Procedure (Scotland) Act 1995) of the 2011 Act.
 
-## 15. Transfer of child from England, Wales or Northern Ireland to Scotland: effect of orders made in England, Wales and Northern Ireland[^key-b0713ba7893eb210185b7ebb5d5c4253]
+## 15. Transfer of child from England, Wales or Northern Ireland to Scotland: effect of orders made in England, Wales and Northern Ireland[^c-b0713ba7893eb210185b7ebb5d5c4253]
 
 (1) Where regulation 3(2) or 4(2) (effect of orders made in England and Wales) of the Children’s Hearings (Scotland) Act 2011 (Transfer of Children to Scotland – Effect of Orders made in England, Wales and Northern Ireland) Regulations 2013[^f00023] applies, the care order, supervision order or education supervision order ceases to have effect for the purposes of the law of England and Wales.
 
 (2) Where regulation 5(2) or 6(2) (effect of orders made in Northern Ireland) of the Children’s Hearings (Scotland) Act 2011 (Transfer of Children to Scotland – Effect of Orders made in England, Wales and Northern Ireland) Regulations 2013 applies, the care order, supervision order or education supervision order ceases to have effect for the purposes of the law of Northern Ireland.
 
-## 16. Child placed in secure accommodation: decision of the head of unit[^key-adf2f94881b8103a2061627612377e8c]
+## 16. Child placed in secure accommodation: decision of the head of unit[^c-adf2f94881b8103a2061627612377e8c]
 
 *Extent: E+W+S*
 
@@ -459,23 +459,23 @@ the order is authority for the child to be placed and kept in secure accommodati
 - (b) “secure accommodation authorisation” has the meaning given by section 85 of the 2011 Act; and
 - (c) references to the chief social work officer are to the chief social work officer who may implement a secure accommodation authorisation under section 151 of the 2011 Act.
 
-## 17. Modifications: general[^key-09ffaae405e8656cee37b43611b73199]
+## 17. Modifications: general[^c-09ffaae405e8656cee37b43611b73199]
 
 (1) The modifications in Parts 1 and 2 of Schedule 1 have effect.
 
 (2) The enactments specified in Part 3 of Schedule 1 are repealed or, as the case may be, revoked to the extent specified.
 
-## 18. Modifications extending to England and Wales and Northern Ireland[^key-848171b63e30f2f7cd9c16e54d940a91]
+## 18. Modifications extending to England and Wales and Northern Ireland[^c-848171b63e30f2f7cd9c16e54d940a91]
 
 (1) The modifications in Part 1 of Schedule 2 have effect.
 
 (2) The enactments specified in Part 2 of Schedule 2 are repealed or, as the case may be, revoked to the extent specified.
 
-## 19. Modifications extending to Scotland and England and Wales[^key-926e797a8af69749153b78d09671508c]
+## 19. Modifications extending to Scotland and England and Wales[^c-926e797a8af69749153b78d09671508c]
 
 The modifications in Schedule 3 have effect.
 
-## 20. Repeal extending to England and Wales[^key-351f4ba6e09398e5616987b2a4130714]
+## 20. Repeal extending to England and Wales[^c-351f4ba6e09398e5616987b2a4130714]
 
 *Extent: E+W*
 
@@ -499,7 +499,7 @@ Article 17
 
 ### PART 1 — Modification of Acts
 
-#### 1. Child Abduction and Custody Act 1985[^key-c66da6680eab61df2e2417f4359bbce3]
+#### 1. Child Abduction and Custody Act 1985[^c-c66da6680eab61df2e2417f4359bbce3]
 
 (1) The Child Abduction and Custody Act 1985[^f00024] is amended as follows.
 
@@ -522,7 +522,7 @@ Article 17
 
   .
 
-#### 2. Children Act 1989[^key-3058e352682a45a9c1312dc36448fee6]
+#### 2. Children Act 1989[^c-3058e352682a45a9c1312dc36448fee6]
 
 (1) The Children Act 1989[^f00025] is amended as follows.
 
@@ -544,11 +544,11 @@ Article 17
 
 .
 
-#### 3. Armed Forces Act 1991[^key-0f52124085bdc8b368fbc894a68641ed]
+#### 3. Armed Forces Act 1991[^c-0f52124085bdc8b368fbc894a68641ed]
 
 In section 21(4)(b) of the Armed Forces Act 1991[^f00026] (duration of protection orders), for “the Children (Scotland) Act 1995” substitute “the Children’s Hearings (Scotland) Act 2011”.
 
-#### 4. Social Security Contributions and Benefits Act 1992[^key-0ec70bd1325ede4f88547a703a6bfd0e]
+#### 4. Social Security Contributions and Benefits Act 1992[^c-0ec70bd1325ede4f88547a703a6bfd0e]
 
 (1) The Social Security Contributions and Benefits Act 1992[^f00027] is amended as follows.
 
@@ -565,23 +565,23 @@ In section 21(4)(b) of the Armed Forces Act 1991[^f00026] (duration of protectio
 
 .
 
-#### 5. Children (Scotland) Act 1995[^key-e72d132524c80597d0b0697f345c3d2b]
+#### 5. Children (Scotland) Act 1995[^c-e72d132524c80597d0b0697f345c3d2b]
 
 In section 93(1) (interpretation of Part 2) of the 1995 Act[^f00030], in the definition of “residential establishment”, at the end of paragraph (a), insert “or the Children’s Hearings (Scotland) Act 2011;”.
 
-#### 6. National Minimum Wage Act 1998[^key-614ae8284d90b525b862585b33702586]
+#### 6. National Minimum Wage Act 1998[^c-614ae8284d90b525b862585b33702586]
 
 In section 44(4) of the National Minimum Wage Act 1998[^f00031] (voluntary workers) in the definition of “statutory body”, after “legislation)” insert “and includes the Children’s Panel”.
 
-#### 7. Private Security Industry Act 2001[^key-2aff67cfae82eca7b21bcdf206181b8b]
+#### 7. Private Security Industry Act 2001[^c-2aff67cfae82eca7b21bcdf206181b8b]
 
 In paragraph 4A(1)(b) of Schedule 2 (activities liable to control under the Act) to the Private Security Industry Act 2001[^f00032], for the words from “under” to the end substitute “to the sheriff by virtue of section 93(2)(a) or 94(2)(a) of the Children’s Hearings (Scotland) Act 2011.”.
 
-#### 8. Tax Credits Act 2002[^key-8904416bd17da8d8e9d70cc79652fdd7]
+#### 8. Tax Credits Act 2002[^c-8904416bd17da8d8e9d70cc79652fdd7]
 
 In paragraph 10A(2)(b) of Schedule 5 (use and disclosure of information) to the Tax Credits Act 2002[^f00033], after “1995” insert “, or Part 5, 6, 13 or 14 of the Children’s Hearings (Scotland) Act 2011,”.
 
-#### 9. Adoption and Children Act 2002[^key-192195d11520a6c404338915d7240edb]
+#### 9. Adoption and Children Act 2002[^c-192195d11520a6c404338915d7240edb]
 
 In section 46(2) (adoption orders) of the Adoption and Children Act 2002[^f00034], after paragraph (c) insert—
 
@@ -589,7 +589,7 @@ In section 46(2) (adoption orders) of the Adoption and Children Act 2002[^f00034
 
 .
 
-#### 10. Income Tax (Trading and Other Income) Act 2005[^key-f00f926a39ffe62d67505924ffc68478]
+#### 10. Income Tax (Trading and Other Income) Act 2005[^c-f00f926a39ffe62d67505924ffc68478]
 
 In section 806 of the Income Tax (Trading and Other Income) Act 2005[^f00035] (meaning of providing foster care)—
 
@@ -618,7 +618,7 @@ In section 806 of the Income Tax (Trading and Other Income) Act 2005[^f00035] (m
 
   .
 
-#### 11. Corporate Manslaughter and Corporate Homicide Act 2007[^key-d5a08c170daee869911c4cd10e0e5be5]
+#### 11. Corporate Manslaughter and Corporate Homicide Act 2007[^c-d5a08c170daee869911c4cd10e0e5be5]
 
 In section 7(2) (child-protection and probation functions) of the Corporate Manslaughter and Corporate Homicide Act 2007[^f00036], after paragraph (b) insert—
 
@@ -628,7 +628,7 @@ In section 7(2) (child-protection and probation functions) of the Corporate Mans
 
 ### PART 2 — Modification of Statutory Instruments
 
-#### 12. Income Support (General) Regulations 1987[^key-1bcab9e07bf97a8ad7de1b9f9eb8ea8e]
+#### 12. Income Support (General) Regulations 1987[^c-1bcab9e07bf97a8ad7de1b9f9eb8ea8e]
 
 (1) The Income Support (General) Regulations 1987[^f00037] are amended as follows.
 
@@ -644,11 +644,11 @@ In section 7(2) (child-protection and probation functions) of the Corporate Mans
 
 .
 
-#### 13. The Children (Northern Ireland) Order 1995[^key-d8305d4168c73b9d6f7ecf6532e341b9]
+#### 13. The Children (Northern Ireland) Order 1995[^c-d8305d4168c73b9d6f7ecf6532e341b9]
 
 In Article 70(7)(c) (refuges for children at risk) of the 1995 Order[^f00040], for the words “section 83 of the Children (Scotland) Act 1995” substitute “section 171(2) of the Children’s Hearings (Scotland) Act 2011”.
 
-#### 14. The Children (Reciprocal Enforcement of Prescribed Orders etc. (England, Wales and Northern Ireland)) (Scotland) Regulations 1996[^key-1bf3bb0790cda0f491dc24761348e0ca]
+#### 14. The Children (Reciprocal Enforcement of Prescribed Orders etc. (England, Wales and Northern Ireland)) (Scotland) Regulations 1996[^c-1bf3bb0790cda0f491dc24761348e0ca]
 
 (1) The Children (Reciprocal Enforcement of Prescribed Orders etc. (England, Wales and Northern Ireland)) (Scotland) Regulations 1996[^f00041] are amended as follows.
 
@@ -698,18 +698,18 @@ In Article 70(7)(c) (refuges for children at risk) of the 1995 Order[^f00040], f
 
 (7) In Schedule 5 omit all but paragraph 6 in columns 1 and 2 (C. court orders and the Children (Northern Ireland) Order 1995).
 
-#### 15. Redundancy Payments (Continuity of Employment in Local Government etc.) (Modification) Order 1999[^key-bb7e11b8f0c6ff9eb6cb0927bab5ce16]
+#### 15. Redundancy Payments (Continuity of Employment in Local Government etc.) (Modification) Order 1999[^c-bb7e11b8f0c6ff9eb6cb0927bab5ce16]
 
 In paragraph 20 of section 10 of Schedule 1 to the Redundancy Payments (Continuity of Employment in Local Government etc.) (Modification) Order 1999[^f00044], after “section 128 of the 1994 Act” insert “and continued by section 15 (the Scottish Children’s Reporter Administration) of the Children’s Hearings (Scotland) Act 2011[^f00045]”.
 
-#### 16. Data Protection (Subject Access Modification) (Education) Order 2000[^key-99a50119e5e0dace6cbbde83442b9125]
+#### 16. Data Protection (Subject Access Modification) (Education) Order 2000[^c-99a50119e5e0dace6cbbde83442b9125]
 
 In article 2 (interpretation) of the Data Protection (Subject Access Modification) (Education) Order 2000[^f00046], in the definition of “Principal Reporter”—
 
 - (a) for “section 127 of the Local Government etc. (Scotland) Act 1994” substitute “the Children’s Hearings (Scotland) Act 2011”; and
 - (b) for “section 131(1) of that Act” substitute “paragraph 10(1) of schedule 3 to that Act”.
 
-#### 17. Data Protection (Subject Access Modification) (Social Work) Order 2000[^key-af8a340aacfae261e5f7205e801d05b3]
+#### 17. Data Protection (Subject Access Modification) (Social Work) Order 2000[^c-af8a340aacfae261e5f7205e801d05b3]
 
 (1) The Data Protection (Subject Access Modification) (Social Work) Order 2000[^f00047] is amended as follows.
 
@@ -720,7 +720,7 @@ In article 2 (interpretation) of the Data Protection (Subject Access Modificatio
 
 (3) In the Schedule (personal data to which this order applies), in paragraph 1(p), for “section 41 of the Children (Scotland) Act 1995” substitute “section 30(2) or 31(3) of the Children’s Hearings (Scotland) Act 2011” [^f00049].
 
-#### 18. Disqualification from Caring for Children (England) Regulations 2002[^key-3226253a5e2eed123956f6e388dc8d06]
+#### 18. Disqualification from Caring for Children (England) Regulations 2002[^c-3226253a5e2eed123956f6e388dc8d06]
 
 (1) The Disqualification from Caring for Children (England) Regulations 2002[^f00050] are amended as follows.
 
@@ -739,7 +739,7 @@ In article 2 (interpretation) of the Data Protection (Subject Access Modificatio
 
   .
 
-#### 19. The Child Tax Credit Regulations 2002[^key-fbc36cc5192beb5c3fc83e6468a9c48b]
+#### 19. The Child Tax Credit Regulations 2002[^c-fbc36cc5192beb5c3fc83e6468a9c48b]
 
 (1) The Child Tax Credit Regulations 2002[^f00051] are amended as follows.
 
@@ -747,14 +747,14 @@ In article 2 (interpretation) of the Data Protection (Subject Access Modificatio
 
 (3) In regulation 3(1), Rule 4.1, Case A (circumstances in which a person is or is not responsible for a child or qualifying young person), after “Part II of the Children (Scotland) Act 1995” insert “by virtue of a requirement in a child assessment order within the meaning of section 35 of the Children’s Hearings (Scotland) Act 2011, a child protection order within the meaning of section 37 of that Act, a compulsory supervision order within the meaning of section 83 of that Act or an interim compulsory supervision order within the meaning of section 86 of that Act,”.
 
-#### 20. The Children (Leaving Care) Social Security Benefits (Scotland) Regulations 2004[^key-73adb75ee45ca6278b0d2ddbbd04b5fb]
+#### 20. The Children (Leaving Care) Social Security Benefits (Scotland) Regulations 2004[^c-73adb75ee45ca6278b0d2ddbbd04b5fb]
 
 In regulation 2(4)(b) (entitlement to benefits (Scotland): meaning of “accommodated”) of the Children (Leaving Care) Social Security Benefits (Scotland) Regulations 2004[^f00052]—
 
 - (a) for “in compliance with a direction made in a supervision requirement under section 70(3) of that Act,” substitute “by giving effect to a compulsory supervision order and a requirement within that order of the type mentioned in section 83(2)(a) of the Children’s Hearings (Scotland) Act 2011,”;
 - (b) for “that Act or in compliance with a direction made in a supervision requirement under that Act,” substitute “the Children (Scotland) Act 1995 or by giving effect to a requirement within a compulsory supervision order under the Children’s Hearings (Scotland) Act 2011,”.
 
-#### 21. The Child Trust Funds Regulations 2004[^key-cd3ed9d1324da4d08fb809e68ff6852e]
+#### 21. The Child Trust Funds Regulations 2004[^c-cd3ed9d1324da4d08fb809e68ff6852e]
 
 In regulation 33A(2) (the Official Solicitor or Accountant of Court to be the person who has the authority to manage an account) of the Child Trust Funds Regulations 2004[^f00053], in Condition 3—
 
@@ -769,7 +769,7 @@ In regulation 33A(2) (the Official Solicitor or Accountant of Court to be the pe
 
   .
 
-#### 22. Disqualification from Caring for Children (Wales) Regulations 2004/Rheoliadau Datgymhwyso rhag Gofalu am Blant (Cymru) 2004[^key-3a3e85c99183b93e76a95c075043ecb5]
+#### 22. Disqualification from Caring for Children (Wales) Regulations 2004/Rheoliadau Datgymhwyso rhag Gofalu am Blant (Cymru) 2004[^c-3a3e85c99183b93e76a95c075043ecb5]
 
 (1) In the Schedule (specified offences, relevant persons and relevant lists) to the English language text of the Disqualification from Caring for Children (Wales) Regulations 2004[^f00054]—
 
@@ -801,7 +801,7 @@ In regulation 33A(2) (the Official Solicitor or Accountant of Court to be the pe
 
   .
 
-#### 23. The Housing Benefit Regulations 2006[^key-b8f81c898dd4abbe484582053e8236d7]
+#### 23. The Housing Benefit Regulations 2006[^c-b8f81c898dd4abbe484582053e8236d7]
 
 (1) The Housing Benefit Regulations 2006[^f00055] are amended as follows.
 
@@ -824,7 +824,7 @@ In regulation 33A(2) (the Official Solicitor or Accountant of Court to be the pe
   - (i) omit the final “and”; and
   - (ii) at the end insert “and the Children’s Hearings (Scotland) Act 2011.”.
 
-#### 24. The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-7c1daa0cb7a79da996c0d6fea5113a0e]
+#### 24. The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-7c1daa0cb7a79da996c0d6fea5113a0e]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^f00059] are amended as follows.
 
@@ -843,11 +843,11 @@ In regulation 33A(2) (the Official Solicitor or Accountant of Court to be the pe
   - (i) omit the final “and”; and
   - (ii) at the end insert “and the Children’s Hearings (Scotland) Act 2011.”.
 
-#### 25. The Child Benefit (General) Regulations 2006[^key-03e878a104a664dbda4fff6ea7fb2c22]
+#### 25. The Child Benefit (General) Regulations 2006[^c-03e878a104a664dbda4fff6ea7fb2c22]
 
 In regulation 18(a) (child or qualifying young person in care) of the Child Benefit (General) Regulations 2006[^f00062], after “the 1995 Act” insert “, by virtue of a requirement in a child assessment order within the meaning of section 35 of the Children’s Hearings (Scotland) Act 2011, a child protection order within the meaning of section 37 of that Act, a compulsory supervision order within the meaning of section 83 of that Act or an interim compulsory supervision order within the meaning of section 86 of that Act,”.
 
-#### 26. Childcare (Disqualification) Regulations 2009[^key-a3835f79d84e15213d18ce9c9fd9d867]
+#### 26. Childcare (Disqualification) Regulations 2009[^c-a3835f79d84e15213d18ce9c9fd9d867]
 
 (1) The Childcare (Disqualification) Regulations 2009[^f00063] are amended as follows.
 
@@ -869,7 +869,7 @@ In regulation 18(a) (child or qualifying young person in care) of the Child Bene
 
   .
 
-#### 27. Child Minding and Day Care (Disqualification) (Wales) Regulations 2010/Rheoliadau Gwarchod Plant a Gofal Dydd (Anghymhwyso) (Cymru) 2010[^key-584ea8c0792e1cbbe99e5ecf301b33bd]
+#### 27. Child Minding and Day Care (Disqualification) (Wales) Regulations 2010/Rheoliadau Gwarchod Plant a Gofal Dydd (Anghymhwyso) (Cymru) 2010[^c-584ea8c0792e1cbbe99e5ecf301b33bd]
 
 (1) The English language text of the Child Minding and Day Care (Disqualification) (Wales) Regulations 2010[^f00064] is amended as follows.
 
@@ -911,7 +911,7 @@ In regulation 18(a) (child or qualifying young person in care) of the Child Bene
 
   .
 
-#### 28. Family Procedure Rules 2010[^key-145a74fd9470d71656beb40172b76c3d]
+#### 28. Family Procedure Rules 2010[^c-145a74fd9470d71656beb40172b76c3d]
 
 In rule 12.52(1)(a) of the Family Procedure Rules 2010[^f00065] (stay of proceedings upon notification of wrongful removal etc.), for paragraph (vi) substitute—
 
@@ -919,7 +919,7 @@ In rule 12.52(1)(a) of the Family Procedure Rules 2010[^f00065] (stay of proceed
 
 .
 
-### PART 3 — Repeals and Revocations[^key-2c9b5bd08c7b704b7048777802af25e9]
+### PART 3 — Repeals and Revocations[^c-2c9b5bd08c7b704b7048777802af25e9]
 
 | Enactment | Extent of repeal or revocation |
 | --- | --- |
@@ -933,13 +933,13 @@ In rule 12.52(1)(a) of the Family Procedure Rules 2010[^f00065] (stay of proceed
 
 Article 18
 
-### PART 1 — Modification of Acts[^key-c071bb3dd5b53d03e92d4819757a196a]
+### PART 1 — Modification of Acts[^c-c071bb3dd5b53d03e92d4819757a196a]
 
 #### Children (Scotland) Act 1995
 
 In section 93(1) (interpretation) of the 1995 Act, in the definition of “children’s hearing”, for “section 39(3), but does not include a business meeting arranged under section 64, of this Act” substitute “section 5 of the Children’s Hearings (Scotland) Act 2011”.
 
-### PART 2 — Repeals and Revocations[^key-2cd87143d97e2886e6ecd3a5255f97dc]
+### PART 2 — Repeals and Revocations[^c-2cd87143d97e2886e6ecd3a5255f97dc]
 
 | *Enactment* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -956,7 +956,7 @@ Article 19
 
 ### Modification of Acts
 
-#### 1. Social Work (Scotland) Act 1968[^key-d60d4050e817a49e6a88a04c3c5e68b9]
+#### 1. Social Work (Scotland) Act 1968[^c-d60d4050e817a49e6a88a04c3c5e68b9]
 
 (1) The Social Work (Scotland) Act 1968[^f00066] is amended as follows.
 
@@ -990,7 +990,7 @@ Article 19
 
   .
 
-#### 2. Criminal Procedure (Scotland) Act 1995[^key-c7b019fb0d416a191e7b663f033d707a]
+#### 2. Criminal Procedure (Scotland) Act 1995[^c-c7b019fb0d416a191e7b663f033d707a]
 
 Section 44 of the Criminal Procedure (Scotland) Act 1995[^f00068] (detention of children) is amended as follows—
 
@@ -1040,9 +1040,9 @@ Articles 17-20 and the Schedules make provision for consequential amendments to 
 
 [^f00001]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-21c259d2bacbde527279b0072f2dee6f]: Commencement: Art. 1 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-21c259d2bacbde527279b0072f2dee6f]: Commencement: Art. 1 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-c5140a7e4b027e21c448c25062d40e11]: Commencement: Art. 2 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-c5140a7e4b027e21c448c25062d40e11]: Commencement: Art. 2 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00002]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594).
 
@@ -1076,69 +1076,69 @@ Articles 17-20 and the Schedules make provision for consequential amendments to 
 
 [^f00017]: Footnote: [2003 c.43](https://www.legislation.gov.uk/ukpga/2003/43).
 
-[^key-3db38287d06b8ec80c2b3369bbc755d3]: Commencement: Art. 3 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-3db38287d06b8ec80c2b3369bbc755d3]: Commencement: Art. 3 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-849f5d1f6f10e496e418306fd33bcf95]: Commencement: Art. 4 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-849f5d1f6f10e496e418306fd33bcf95]: Commencement: Art. 4 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00018]: Footnote: [S.I. 1996/3260](https://www.legislation.gov.uk/uksi/1996/3260).
 
-[^key-e47c89782c2f7be09c2970982ec855e8]: Commencement: Art. 5 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-e47c89782c2f7be09c2970982ec855e8]: Commencement: Art. 5 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-37ae2a7ed96251d1e89c6480909c42c8]: Commencement: Art. 6 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-37ae2a7ed96251d1e89c6480909c42c8]: Commencement: Art. 6 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-1c67786768ba2ffa31a73dd455802bc6]: Commencement: Art. 7 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-1c67786768ba2ffa31a73dd455802bc6]: Commencement: Art. 7 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-26090e5a54a87a04f8b1c696664d88d8]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/uksi/2013/1465/article/7/3) inserted (27.4.2017) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/1/a), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/12) (with [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/14))
+[^c-26090e5a54a87a04f8b1c696664d88d8]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/uksi/2013/1465/article/7/3) inserted (27.4.2017) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/1/a), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/12) (with [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/14))
 
-[^key-e327eb0d34bf878ad9ac4374b4a9f4bb]: Commencement: Art. 8 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-e327eb0d34bf878ad9ac4374b4a9f4bb]: Commencement: Art. 8 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00019]: Footnote: Section 14 of the 2011 Act provides that there continues to be an officer known as the Principal Reporter.
 
-[^key-0d4a1f511131e9780b166c2bd4c02678]: Commencement: Art. 9 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-0d4a1f511131e9780b166c2bd4c02678]: Commencement: Art. 9 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-d2baf4a31a1a7e7b24e535012f629479]: Commencement: Art. 10 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-d2baf4a31a1a7e7b24e535012f629479]: Commencement: Art. 10 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-167ae89bbd09146f587c1322ca9b7e28]: Commencement: Art. 11 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-167ae89bbd09146f587c1322ca9b7e28]: Commencement: Art. 11 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-d6cfcee9d4b8be0f9df810da503e85ba]: Commencement: Art. 12 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-d6cfcee9d4b8be0f9df810da503e85ba]: Commencement: Art. 12 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00020]: Footnote: [2007 asp 4](https://www.legislation.gov.uk/asp/2007/4).
 
 [^f00021]: Footnote: [1990 c.42](https://www.legislation.gov.uk/ukpga/1990/42).
 
-[^key-8dd2fdb15f50104955a891f9dfecb542]: Commencement: Art. 13 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-8dd2fdb15f50104955a891f9dfecb542]: Commencement: Art. 13 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-b310b621e5eeabbbc6f535e5fb55358c]: Commencement: Art. 14 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-b310b621e5eeabbbc6f535e5fb55358c]: Commencement: Art. 14 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00022]: Footnote: Article 46 was substituted by article 156 of [S.I. 1989/2406 (N.I. 20)](https://www.legislation.gov.uk/nisi/1989/2406).
 
-[^key-b0713ba7893eb210185b7ebb5d5c4253]: Commencement: Art. 15 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-b0713ba7893eb210185b7ebb5d5c4253]: Commencement: Art. 15 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00023]: Footnote: [S.S.I. 2013/99](https://www.legislation.gov.uk/ssi/2013/99).
 
-[^key-adf2f94881b8103a2061627612377e8c]: Commencement: Art. 16 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-adf2f94881b8103a2061627612377e8c]: Commencement: Art. 16 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-09ffaae405e8656cee37b43611b73199]: Commencement: Art. 17 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-09ffaae405e8656cee37b43611b73199]: Commencement: Art. 17 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-848171b63e30f2f7cd9c16e54d940a91]: Commencement: Art. 18 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-848171b63e30f2f7cd9c16e54d940a91]: Commencement: Art. 18 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-926e797a8af69749153b78d09671508c]: Commencement: Art. 19 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-926e797a8af69749153b78d09671508c]: Commencement: Art. 19 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-351f4ba6e09398e5616987b2a4130714]: Commencement: Art. 20 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-351f4ba6e09398e5616987b2a4130714]: Commencement: Art. 20 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-c66da6680eab61df2e2417f4359bbce3]: Commencement: Sch. 1 para. 1 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-c66da6680eab61df2e2417f4359bbce3]: Commencement: Sch. 1 para. 1 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00024]: Footnote: [1985 c.60](https://www.legislation.gov.uk/ukpga/1985/60).
 
-[^key-3058e352682a45a9c1312dc36448fee6]: Commencement: Sch. 1 para. 2 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-3058e352682a45a9c1312dc36448fee6]: Commencement: Sch. 1 para. 2 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00025]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-0f52124085bdc8b368fbc894a68641ed]: Commencement: Sch. 1 para. 3 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-0f52124085bdc8b368fbc894a68641ed]: Commencement: Sch. 1 para. 3 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00026]: Footnote: [1991 c.62](https://www.legislation.gov.uk/ukpga/1991/62).
 
-[^key-0ec70bd1325ede4f88547a703a6bfd0e]: Commencement: Sch. 1 para. 4 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-0ec70bd1325ede4f88547a703a6bfd0e]: Commencement: Sch. 1 para. 4 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00027]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -1146,35 +1146,35 @@ Articles 17-20 and the Schedules make provision for consequential amendments to 
 
 [^f00029]: Footnote: Paragraph 1 was amended by the Child Benefit Act [2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6), Schedule 1(1), paragraph 17(2).
 
-[^key-e72d132524c80597d0b0697f345c3d2b]: Commencement: Sch. 1 para. 5 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-e72d132524c80597d0b0697f345c3d2b]: Commencement: Sch. 1 para. 5 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00030]: Footnote: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36). Section 39 is prospectively amended by the Children’s Hearings (Scotland) Act 2011, asp 1, schedule 5, paragraph 2(6).
 
-[^key-614ae8284d90b525b862585b33702586]: Commencement: Sch. 1 para. 6 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-614ae8284d90b525b862585b33702586]: Commencement: Sch. 1 para. 6 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00031]: Footnote: [1998 c.39](https://www.legislation.gov.uk/ukpga/1998/39).
 
-[^key-2aff67cfae82eca7b21bcdf206181b8b]: Commencement: Sch. 1 para. 7 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-2aff67cfae82eca7b21bcdf206181b8b]: Commencement: Sch. 1 para. 7 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00032]: Footnote: [2001 c.12](https://www.legislation.gov.uk/ukpga/2001/12). Paragraph 4A was inserted by the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), Schedule 15, paragraph 14(c).
 
-[^key-8904416bd17da8d8e9d70cc79652fdd7]: Commencement: Sch. 1 para. 8 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-8904416bd17da8d8e9d70cc79652fdd7]: Commencement: Sch. 1 para. 8 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00033]: Footnote: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21). Paragraph 10A was inserted by the Children Act [2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), section 63(1).
 
-[^key-192195d11520a6c404338915d7240edb]: Commencement: Sch. 1 para. 9 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-192195d11520a6c404338915d7240edb]: Commencement: Sch. 1 para. 9 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00034]: Footnote: [2002 c.38](https://www.legislation.gov.uk/ukpga/2002/38).
 
-[^key-f00f926a39ffe62d67505924ffc68478]: Commencement: Sch. 1 para. 10 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-f00f926a39ffe62d67505924ffc68478]: Commencement: Sch. 1 para. 10 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00035]: Footnote: [2005 c.5](https://www.legislation.gov.uk/ukpga/2005/5).
 
-[^key-d5a08c170daee869911c4cd10e0e5be5]: Commencement: Sch. 1 para. 11 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-d5a08c170daee869911c4cd10e0e5be5]: Commencement: Sch. 1 para. 11 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00036]: Footnote: [2007 c.19](https://www.legislation.gov.uk/ukpga/2007/19).
 
-[^key-1bcab9e07bf97a8ad7de1b9f9eb8ea8e]: Commencement: Sch. 1 para. 12 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-1bcab9e07bf97a8ad7de1b9f9eb8ea8e]: Commencement: Sch. 1 para. 12 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00037]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
@@ -1182,11 +1182,11 @@ Articles 17-20 and the Schedules make provision for consequential amendments to 
 
 [^f00039]: Footnote: Schedule 1B was inserted by [S.I. 1992/206](https://www.legislation.gov.uk/uksi/1992/206) and paragraph 2 was amended by [S.I. 2009/2655](https://www.legislation.gov.uk/uksi/2009/2655).
 
-[^key-d8305d4168c73b9d6f7ecf6532e341b9]: Commencement: Sch. 1 para. 13 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-d8305d4168c73b9d6f7ecf6532e341b9]: Commencement: Sch. 1 para. 13 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00040]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755). Amended by the Children (Scotland) Act 1995, Schedule 4, paragraph 58.
 
-[^key-1bf3bb0790cda0f491dc24761348e0ca]: Commencement: Sch. 1 para. 14 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-1bf3bb0790cda0f491dc24761348e0ca]: Commencement: Sch. 1 para. 14 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00041]: Footnote: [S.I. 1996/3267](https://www.legislation.gov.uk/uksi/1996/3267) as amended by [S.S.I. 2009/420](https://www.legislation.gov.uk/ssi/2009/420) and [S.I. 2011/1740](https://www.legislation.gov.uk/uksi/2011/1740).
 
@@ -1194,17 +1194,17 @@ Articles 17-20 and the Schedules make provision for consequential amendments to 
 
 [^f00043]: Footnote: [2009 c.1 (N.I.)](https://www.legislation.gov.uk/nia/2009/1).
 
-[^key-bb7e11b8f0c6ff9eb6cb0927bab5ce16]: Commencement: Sch. 1 para. 15 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-bb7e11b8f0c6ff9eb6cb0927bab5ce16]: Commencement: Sch. 1 para. 15 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00044]: Footnote: [S.I. 1999/2277](https://www.legislation.gov.uk/uksi/1999/2277), to which there have been amendments not relevant to this Order.
 
 [^f00045]: Footnote: Section 15 provides that there continues to be a body corporate known as the Scottish Children’s Reporter Administration.
 
-[^key-99a50119e5e0dace6cbbde83442b9125]: Commencement: Sch. 1 para. 16 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-99a50119e5e0dace6cbbde83442b9125]: Commencement: Sch. 1 para. 16 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00046]: Footnote: [S.I. 2000/414](https://www.legislation.gov.uk/uksi/2000/414), to which there have been amendments not relevant to this Order.
 
-[^key-af8a340aacfae261e5f7205e801d05b3]: Commencement: Sch. 1 para. 17 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-af8a340aacfae261e5f7205e801d05b3]: Commencement: Sch. 1 para. 17 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00047]: Footnote: [S.I. 2000/415](https://www.legislation.gov.uk/uksi/2000/415).
 
@@ -1212,27 +1212,27 @@ Articles 17-20 and the Schedules make provision for consequential amendments to 
 
 [^f00049]: Footnote: Paragraph 1(p) was amended by [S.I. 2002/3220](https://www.legislation.gov.uk/uksi/2002/3220) and [2005/467](https://www.legislation.gov.uk/uksi/2005/467).
 
-[^key-3226253a5e2eed123956f6e388dc8d06]: Commencement: Sch. 1 para. 18 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-3226253a5e2eed123956f6e388dc8d06]: Commencement: Sch. 1 para. 18 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00050]: Footnote: [S.I. 2002/635](https://www.legislation.gov.uk/uksi/2002/635), to which there have been amendments not relevant to this Order.
 
-[^key-fbc36cc5192beb5c3fc83e6468a9c48b]: Commencement: Sch. 1 para. 19 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-fbc36cc5192beb5c3fc83e6468a9c48b]: Commencement: Sch. 1 para. 19 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00051]: Footnote: [S.I. 2002/2007](https://www.legislation.gov.uk/uksi/2002/2007).
 
-[^key-73adb75ee45ca6278b0d2ddbbd04b5fb]: Commencement: Sch. 1 para. 20 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-73adb75ee45ca6278b0d2ddbbd04b5fb]: Commencement: Sch. 1 para. 20 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00052]: Footnote: [S.I. 2004/747](https://www.legislation.gov.uk/uksi/2004/747), to which there have been amendments not relevant to this Order.
 
-[^key-cd3ed9d1324da4d08fb809e68ff6852e]: Commencement: Sch. 1 para. 21 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-cd3ed9d1324da4d08fb809e68ff6852e]: Commencement: Sch. 1 para. 21 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00053]: Footnote: [S.I. 2004/1450](https://www.legislation.gov.uk/uksi/2004/1450). Regulation 33A was inserted [S.I. 2004/3382](https://www.legislation.gov.uk/uksi/2004/3382). There have been amendments to paragraph (2) of regulation 33A which are not relevant to this Order.
 
-[^key-3a3e85c99183b93e76a95c075043ecb5]: Commencement: Sch. 1 para. 22 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-3a3e85c99183b93e76a95c075043ecb5]: Commencement: Sch. 1 para. 22 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00054]: Footnote: [S.I. 2004/2695 (W. 235)](https://www.legislation.gov.uk/wsi/2004/2695), to which there have been amendments not relevant to this Order.
 
-[^key-b8f81c898dd4abbe484582053e8236d7]: Commencement: Sch. 1 para. 23 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-b8f81c898dd4abbe484582053e8236d7]: Commencement: Sch. 1 para. 23 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00055]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213).
 
@@ -1242,7 +1242,7 @@ Articles 17-20 and the Schedules make provision for consequential amendments to 
 
 [^f00058]: Footnote: Regulation 21(3)(a) was amended by the Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2010 ([S.I. 2010/2449](https://www.legislation.gov.uk/uksi/2010/2449)), regulation 2(3); and regulation 21(6) was amended by the Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order ([S.I. 2011/1740](https://www.legislation.gov.uk/uksi/2011/1740)), schedule 1(2), paragraph 39(3)(b).
 
-[^key-7c1daa0cb7a79da996c0d6fea5113a0e]: Commencement: Sch. 1 para. 24 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-7c1daa0cb7a79da996c0d6fea5113a0e]: Commencement: Sch. 1 para. 24 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00059]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214).
 
@@ -1250,34 +1250,34 @@ Articles 17-20 and the Schedules make provision for consequential amendments to 
 
 [^f00061]: Footnote: Regulation 21(3)(a) was amended by [S.I. 2010/2449](https://www.legislation.gov.uk/uksi/2010/2449) and regulation 21(6) was amended by [S.I. 2011/1740](https://www.legislation.gov.uk/uksi/2011/1740).
 
-[^key-03e878a104a664dbda4fff6ea7fb2c22]: Commencement: Sch. 1 para. 25 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-03e878a104a664dbda4fff6ea7fb2c22]: Commencement: Sch. 1 para. 25 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00062]: Footnote: [S.I. 2006/223](https://www.legislation.gov.uk/uksi/2006/223).
 
-[^key-a3835f79d84e15213d18ce9c9fd9d867]: Commencement: Sch. 1 para. 26 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-a3835f79d84e15213d18ce9c9fd9d867]: Commencement: Sch. 1 para. 26 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00063]: Footnote: [S.I. 2009/1547](https://www.legislation.gov.uk/uksi/2009/1547).
 
-[^key-584ea8c0792e1cbbe99e5ecf301b33bd]: Commencement: Sch. 1 para. 27 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-584ea8c0792e1cbbe99e5ecf301b33bd]: Commencement: Sch. 1 para. 27 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00064]: Footnote: [S.I. 2010/1703 (W. 163)](https://www.legislation.gov.uk/wsi/2010/1703), to which there have been amendments not relevant to this Order.
 
-[^key-145a74fd9470d71656beb40172b76c3d]: Commencement: Sch. 1 para. 28 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-145a74fd9470d71656beb40172b76c3d]: Commencement: Sch. 1 para. 28 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00065]: Footnote: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955).
 
-[^key-2c9b5bd08c7b704b7048777802af25e9]: Commencement: Sch. 1 Pt. 3 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-2c9b5bd08c7b704b7048777802af25e9]: Commencement: Sch. 1 Pt. 3 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-c071bb3dd5b53d03e92d4819757a196a]: Commencement: Sch. 2 Pt. 1 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-c071bb3dd5b53d03e92d4819757a196a]: Commencement: Sch. 2 Pt. 1 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-2cd87143d97e2886e6ecd3a5255f97dc]: Commencement: Sch. 2 Pt. 2 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-2cd87143d97e2886e6ecd3a5255f97dc]: Commencement: Sch. 2 Pt. 2 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
-[^key-d60d4050e817a49e6a88a04c3c5e68b9]: Commencement: Sch. 3 para. 1 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-d60d4050e817a49e6a88a04c3c5e68b9]: Commencement: Sch. 3 para. 1 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00066]: Footnote: [1968 c.49](https://www.legislation.gov.uk/ukpga/1968/49).
 
 [^f00067]: Footnote: Section 86 was amended by the Children Act [1989 (c.41)](https://www.legislation.gov.uk/ukpga/1989/41), Schedule 13, paragraph 23; the National Health Service and Community Care Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 15; the Mental Health (Care and Treatment) (Scotland) Act [2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), schedule 4, paragraph 1; the National Health Service (Consequential Provisions) Act [2006, c.43](https://www.legislation.gov.uk/ukpga/2006/43), Schedule 1, paragraph 42; the Adult Support and Protection (Scotland) Act [2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), section 65(1); the Criminal Justice and Immigration Act [2008 (c.4)](https://www.legislation.gov.uk/ukpga/2008/4), Schedule 4, paragraph 12; and by the Criminal Justice and Licensing (Scotland) Act [2010 asp 13](https://www.legislation.gov.uk/asp/2010/13), schedule 2, paragraph 31.
 
-[^key-c7b019fb0d416a191e7b663f033d707a]: Commencement: Sch. 3 para. 2 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
+[^c-c7b019fb0d416a191e7b663f033d707a]: Commencement: Sch. 3 para. 2 in force at 24.6.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2)
 
 [^f00068]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Meaning of “organic manure with high readily available nitrogen”[^key-27d12839428ce0e68ed059a9b626f619]
+## 17. Meaning of “organic manure with high readily available nitrogen”[^c-27d12839428ce0e68ed059a9b626f619]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Part, “organic manure with high readily available nitrogen” means or
 
 ## Annotations
 
-[^key-27d12839428ce0e68ed059a9b626f619]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2021/77/regulation/17) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-27d12839428ce0e68ed059a9b626f619]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2021/77/regulation/17) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

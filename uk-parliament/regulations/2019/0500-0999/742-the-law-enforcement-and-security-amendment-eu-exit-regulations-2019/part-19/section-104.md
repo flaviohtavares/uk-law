@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Amendment of the Passenger Name Record Data and Miscellaneous Amendments Regulations 2018[^key-115608bb3b869e887910efe28abbf92f]
+## 104. Amendment of the Passenger Name Record Data and Miscellaneous Amendments Regulations 2018[^c-115608bb3b869e887910efe28abbf92f]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,6 +112,6 @@ summary: ''
 
 ## Annotations
 
-[^key-115608bb3b869e887910efe28abbf92f]: Commencement: Reg. 104 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-115608bb3b869e887910efe28abbf92f]: Commencement: Reg. 104 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23692001]: Marginal citation: [S.I. 2018/598](https://www.legislation.gov.uk/uksi/2018/598).

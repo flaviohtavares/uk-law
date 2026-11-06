@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Notification of Charity Commission of exercise of enforcement powers[^key-9a498438789fa37d78c759502d558631][^key-7a29d3bc163cb577af671437f0e259a0]
+## 34. Notification of Charity Commission of exercise of enforcement powers[^c-9a498438789fa37d78c759502d558631][^c-7a29d3bc163cb577af671437f0e259a0]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9a498438789fa37d78c759502d558631]: Commencement: S. 34 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-9a498438789fa37d78c759502d558631]: Commencement: S. 34 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-7a29d3bc163cb577af671437f0e259a0]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/36/section/34) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/o)
+[^c-7a29d3bc163cb577af671437f0e259a0]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2023/36/section/34) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/o)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Suspended punishments[^key-110fa026e995ef72ab909fd9a518f0df]
+## 63. Suspended punishments[^c-110fa026e995ef72ab909fd9a518f0df]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-110fa026e995ef72ab909fd9a518f0df]: Textual amendment: [Rule 63](https://www.legislation.gov.uk/uksi/2000/3371/article/63) substituted (31.5.2024) by [The Prison and Young Offender Institution (Adjudication) (Amendment) Rules 2024 (S.I. 2024/212)](https://www.legislation.gov.uk/uksi/2024/212), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/212/rule/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2024/212/rule/3/8)
+[^c-110fa026e995ef72ab909fd9a518f0df]: Textual amendment: [Rule 63](https://www.legislation.gov.uk/uksi/2000/3371/article/63) substituted (31.5.2024) by [The Prison and Young Offender Institution (Adjudication) (Amendment) Rules 2024 (S.I. 2024/212)](https://www.legislation.gov.uk/uksi/2024/212), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/212/rule/1/1), [3(8)](https://www.legislation.gov.uk/uksi/2024/212/rule/3/8)

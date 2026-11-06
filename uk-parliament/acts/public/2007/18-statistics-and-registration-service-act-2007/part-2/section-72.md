@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Additional registrars of marriages[^key-e9d802b927d057ee11018da15dcc7098]
+## 72. Additional registrars of marriages[^c-e9d802b927d057ee11018da15dcc7098]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In the Registration Service Act 1953 (c. 37) omit section 7 (additional registra
 
 ## Annotations
 
-[^key-e9d802b927d057ee11018da15dcc7098]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2007/18/section/72) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)
+[^c-e9d802b927d057ee11018da15dcc7098]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2007/18/section/72) in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(i)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/i)

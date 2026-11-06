@@ -71,7 +71,7 @@ where the “**relevant table**” means whichever of Tables 2 to 9 in this Sche
   - (ii) the third test is met; and
   - (iii) the fourth test is met.
 
-  Table 1[^key-eb40facc31648007bd859ad37daff285]
+  Table 1[^c-eb40facc31648007bd859ad37daff285]
 
   Total expenditure
 
@@ -85,7 +85,7 @@ where the “**relevant table**” means whichever of Tables 2 to 9 in this Sche
   | 31st October 2020 | 997.53 |
   | Any date after 30th January 2021 | 1,009.26 |
 
-  Table 2[^key-60c2012b5f7f9208dbfee8c708cea6af]
+  Table 2[^c-60c2012b5f7f9208dbfee8c708cea6af]
 
   Forecast for expenditure: plants which generate heat from solid biomass
 
@@ -99,7 +99,7 @@ where the “**relevant table**” means whichever of Tables 2 to 9 in this Sche
   | 31st October 2020 | 451.00 | 6.00 |
   | Any date after 30th January 2021 | 457.00 | 6.00 |
 
-  Table 3[^key-d28021f53bd3dedbb0536b3a00143c86]
+  Table 3[^c-d28021f53bd3dedbb0536b3a00143c86]
 
   Forecast for expenditure: CHP systems
 
@@ -113,7 +113,7 @@ where the “**relevant table**” means whichever of Tables 2 to 9 in this Sche
   | 31st October 2020 | 86.10 | 1.72 |
   | Any date after 30th January 2021 | 87.82 | 1.72 |
 
-  Table 4[^key-6e211c57cc8e9fe39d5b0902431692a7]
+  Table 4[^c-6e211c57cc8e9fe39d5b0902431692a7]
 
   Forecast for expenditure: ground source heat pumps and shared ground loop systems with an installation capacity of 100kWth or above
 
@@ -127,7 +127,7 @@ where the “**relevant table**” means whichever of Tables 2 to 9 in this Sche
   | 31st October 2020 | 41.00 | 3.00 |
   | Any date after 30th January 2021 | 44.00 | 3.00 |
 
-  Table 5[^key-83c6df766dbb31ee5f990dd6bb9ff8e8]
+  Table 5[^c-83c6df766dbb31ee5f990dd6bb9ff8e8]
 
   Forecast for expenditure: ground source heat pumps and shared ground loop systems with an installation capacity of below 100kWth and air source heat pumps
 
@@ -141,7 +141,7 @@ where the “**relevant table**” means whichever of Tables 2 to 9 in this Sche
   | 31st October 2020 | 12.65 | 0.71 |
   | Any date after 30th January 2021 | 13.37 | 0.72 |
 
-  Table 6[^key-6e94356722940011155261cb9dbdedb3]
+  Table 6[^c-6e94356722940011155261cb9dbdedb3]
 
   Forecast for expenditure: plants which use solar collectors
 
@@ -155,7 +155,7 @@ where the “**relevant table**” means whichever of Tables 2 to 9 in this Sche
   | 31st October 2020 | 3.50 | 0.50 |
   | Any date after 30th January 2021 | 4.00 | 0.50 |
 
-  Table 7[^key-6e9293056cdb2722ba89e05a5342b8f2]
+  Table 7[^c-6e9293056cdb2722ba89e05a5342b8f2]
 
   Forecast for expenditure: plants which generate heat from biogas with a capacity below 600kWth
 
@@ -169,7 +169,7 @@ where the “**relevant table**” means whichever of Tables 2 to 9 in this Sche
   | 31st October 2020 | 61.50 | 0.90 |
   | Any date after 30th January 2021 | 62.40 | 0.90 |
 
-  Table 8[^key-905b03cf738d57052d479109c61912b4]
+  Table 8[^c-905b03cf738d57052d479109c61912b4]
 
   Forecast for expenditure: producers of biomethane for injection and plants which generate heat from biogas with a capacity of 600kWth and above;
 
@@ -183,7 +183,7 @@ where the “**relevant table**” means whichever of Tables 2 to 9 in this Sche
   | 31st October 2020 | 399.84 | 2.00 |
   | Any date after 30th January 2021 | 401.84 | 2.00 |
 
-  Table 9[^key-883843733aba1ae2bb1d465222d0f974]
+  Table 9[^c-883843733aba1ae2bb1d465222d0f974]
 
   Forecast for expenditure: deep geothermal plants
 
@@ -199,20 +199,20 @@ where the “**relevant table**” means whichever of Tables 2 to 9 in this Sche
 
 ## Annotations
 
-[^key-eb40facc31648007bd859ad37daff285]: Textual amendment: Sch. 7 Table 1 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/2)
+[^c-eb40facc31648007bd859ad37daff285]: Textual amendment: Sch. 7 Table 1 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/2)
 
-[^key-60c2012b5f7f9208dbfee8c708cea6af]: Textual amendment: Sch. 7 Table 2 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/3)
+[^c-60c2012b5f7f9208dbfee8c708cea6af]: Textual amendment: Sch. 7 Table 2 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/3)
 
-[^key-d28021f53bd3dedbb0536b3a00143c86]: Textual amendment: Sch. 7 Table 3 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/4)
+[^c-d28021f53bd3dedbb0536b3a00143c86]: Textual amendment: Sch. 7 Table 3 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/4)
 
-[^key-6e211c57cc8e9fe39d5b0902431692a7]: Textual amendment: Sch. 7 Table 4 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/5)
+[^c-6e211c57cc8e9fe39d5b0902431692a7]: Textual amendment: Sch. 7 Table 4 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/5)
 
-[^key-83c6df766dbb31ee5f990dd6bb9ff8e8]: Textual amendment: Sch. 7 Table 5 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/6)
+[^c-83c6df766dbb31ee5f990dd6bb9ff8e8]: Textual amendment: Sch. 7 Table 5 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/6)
 
-[^key-6e94356722940011155261cb9dbdedb3]: Textual amendment: Sch. 7 Table 6 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(7)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/7)
+[^c-6e94356722940011155261cb9dbdedb3]: Textual amendment: Sch. 7 Table 6 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(7)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/7)
 
-[^key-6e9293056cdb2722ba89e05a5342b8f2]: Textual amendment: Sch. 7 Table 7 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(8)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/8)
+[^c-6e9293056cdb2722ba89e05a5342b8f2]: Textual amendment: Sch. 7 Table 7 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(8)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/8)
 
-[^key-905b03cf738d57052d479109c61912b4]: Textual amendment: Sch. 7 Table 8 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(9)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/9)
+[^c-905b03cf738d57052d479109c61912b4]: Textual amendment: Sch. 7 Table 8 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(9)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/9)
 
-[^key-883843733aba1ae2bb1d465222d0f974]: Textual amendment: Sch. 7 Table 9 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(10)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/10)
+[^c-883843733aba1ae2bb1d465222d0f974]: Textual amendment: Sch. 7 Table 9 substituted (17.7.2019) by [The Renewable Heat Incentive Scheme and Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2019 (S.I. 2019/1052)](https://www.legislation.gov.uk/uksi/2019/1052), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1052/regulation/1), [6(10)](https://www.legislation.gov.uk/uksi/2019/1052/regulation/6/10)

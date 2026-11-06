@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118D. Judge informed after extradition order that person is serving sentence in United Kingdom[^key-c7add4f1eaefd5bbc59c9b94ce4cb2d6]
+## 118D. Judge informed after extradition order that person is serving sentence in United Kingdom[^c-c7add4f1eaefd5bbc59c9b94ce4cb2d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7add4f1eaefd5bbc59c9b94ce4cb2d6]: Textual amendment: Ss. 118C, 118D inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 161(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/161/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/g)
+[^c-c7add4f1eaefd5bbc59c9b94ce4cb2d6]: Textual amendment: Ss. 118C, 118D inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 161(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/161/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/g)

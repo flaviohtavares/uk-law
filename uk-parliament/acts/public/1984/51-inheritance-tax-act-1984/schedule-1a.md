@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Gifts to charities etc: tax charged at lower rate[^key-c672c9771953b413533b148200ac1108]
+## SCHEDULE 1A — Gifts to charities etc: tax charged at lower rate[^c-c672c9771953b413533b148200ac1108]
 
 *Extent: E+W+S+N.I.*
 
@@ -153,4 +153,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c672c9771953b413533b148200ac1108]: Textual amendment: Sch. 1A inserted (with effect in accordance with Sch. 33 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 33 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/33/paragraph/1)
+[^c-c672c9771953b413533b148200ac1108]: Textual amendment: Sch. 1A inserted (with effect in accordance with Sch. 33 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 33 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/33/paragraph/1)

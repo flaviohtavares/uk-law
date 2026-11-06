@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 134. Local government reorganisation[^key-ed48c90e8ac3020bbfa0350dbe452900]
+## 134. Local government reorganisation[^c-ed48c90e8ac3020bbfa0350dbe452900]
 
 *Extent: E+W+S*
 
@@ -47,6 +47,6 @@ the new employing body shall exercise the power in a way which is not less benef
 
 ## Annotations
 
-[^key-ed48c90e8ac3020bbfa0350dbe452900]: Commencement: Reg. 134 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-ed48c90e8ac3020bbfa0350dbe452900]: Commencement: Reg. 134 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00060]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).

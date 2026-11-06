@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Finance: powers to request information[^key-2f1dfd6da1573d7bb97fdd3923a4b64d][^key-6db35e713114fb5d679ffb68cddbc262]
+## 41. Finance: powers to request information[^c-2f1dfd6da1573d7bb97fdd3923a4b64d][^c-6db35e713114fb5d679ffb68cddbc262]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f1dfd6da1573d7bb97fdd3923a4b64d]: Commencement: Reg. 41 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-2f1dfd6da1573d7bb97fdd3923a4b64d]: Commencement: Reg. 41 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-6db35e713114fb5d679ffb68cddbc262]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2019/438/regulation/41) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6db35e713114fb5d679ffb68cddbc262]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2019/438/regulation/41) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

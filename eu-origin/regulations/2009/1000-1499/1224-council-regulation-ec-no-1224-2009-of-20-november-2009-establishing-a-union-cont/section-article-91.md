@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-A fisheries administration must[^key-9ffb3486e9a99164bd15c3e46ee9fc15] take immediate measures to prevent masters of fishing vessels or other natural persons and legal persons caught in the act of committing a serious infringement, as defined in Article 42 of Regulation (EC) No 1005/2008, from continuing to do so.
+A fisheries administration must[^c-9ffb3486e9a99164bd15c3e46ee9fc15] take immediate measures to prevent masters of fishing vessels or other natural persons and legal persons caught in the act of committing a serious infringement, as defined in Article 42 of Regulation (EC) No 1005/2008, from continuing to do so.
 
 ## Annotations
 
-[^key-9ffb3486e9a99164bd15c3e46ee9fc15]: Textual amendment: Words in [Art. 91](https://www.legislation.gov.uk/eur/2009/1224/article/91) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(83)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/83); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ffb3486e9a99164bd15c3e46ee9fc15]: Textual amendment: Words in [Art. 91](https://www.legislation.gov.uk/eur/2009/1224/article/91) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(83)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/83); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

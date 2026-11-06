@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. Surviving adults[^key-25f1adc62c14a69c02a18c88b549d637]
+## 124. Surviving adults[^c-25f1adc62c14a69c02a18c88b549d637]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ In these Regulations—
 
 ## Annotations
 
-[^key-25f1adc62c14a69c02a18c88b549d637]: Commencement: Reg. 124 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-25f1adc62c14a69c02a18c88b549d637]: Commencement: Reg. 124 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00059]: Footnote: See section 1 of the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) for the meaning of “civil partnership”.

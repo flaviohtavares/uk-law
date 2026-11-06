@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. LTA 1985: Crown application[^key-8344b76d5a3feef3fb150afbaba20d48]
+## 69. LTA 1985: Crown application[^c-8344b76d5a3feef3fb150afbaba20d48]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8344b76d5a3feef3fb150afbaba20d48]: Commencement: S. 69 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-8344b76d5a3feef3fb150afbaba20d48]: Commencement: S. 69 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

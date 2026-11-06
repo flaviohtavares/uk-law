@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Appointed members: special considerations[^key-c4b5ea8358719ac3596b92116dc3b315]
+## 52. Appointed members: special considerations[^c-c4b5ea8358719ac3596b92116dc3b315]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4b5ea8358719ac3596b92116dc3b315]: Commencement: S. 52 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-c4b5ea8358719ac3596b92116dc3b315]: Commencement: S. 52 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

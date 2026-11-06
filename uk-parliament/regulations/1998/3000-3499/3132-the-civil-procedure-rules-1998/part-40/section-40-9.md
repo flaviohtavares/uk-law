@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.9. Who may apply to set aside or vary a judgment or order[^key-f0ed9b53b77b1f7a7c71e0be7120d87c]
+## 40.9. Who may apply to set aside or vary a judgment or order[^c-f0ed9b53b77b1f7a7c71e0be7120d87c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A person who is not a party but who is directly affected by a judgment or order 
 
 ## Annotations
 
-[^key-f0ed9b53b77b1f7a7c71e0be7120d87c]: Commencement: [Rule 40.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-f0ed9b53b77b1f7a7c71e0be7120d87c]: Commencement: [Rule 40.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

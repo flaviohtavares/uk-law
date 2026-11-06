@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121.[^key-c45eac44d73440426ada59111cf4a4cc]
+## 121.[^c-c45eac44d73440426ada59111cf4a4cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 286 (connected persons: interpretation), in subsections (2) and (4), 
 
 ## Annotations
 
-[^key-c45eac44d73440426ada59111cf4a4cc]: Commencement: Reg. 121 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-c45eac44d73440426ada59111cf4a4cc]: Commencement: Reg. 121 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

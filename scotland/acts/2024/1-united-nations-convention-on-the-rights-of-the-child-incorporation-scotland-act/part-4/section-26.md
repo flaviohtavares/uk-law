@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Incompatibility declarators[^key-4eeabbd1b457736955642764dcbbcf57]
+## 26. Incompatibility declarators[^c-4eeabbd1b457736955642764dcbbcf57]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4eeabbd1b457736955642764dcbbcf57]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2024/1/section/26) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-4eeabbd1b457736955642764dcbbcf57]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2024/1/section/26) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

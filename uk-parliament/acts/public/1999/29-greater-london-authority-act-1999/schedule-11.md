@@ -143,7 +143,7 @@ with a view to the disposal of any right or interest in the land or (as the case
 
 **17.** Subject to paragraph 20 below, where Transport for London has an interest in land which is used otherwise than for the purposes of discharging any of its functions, it may acquire by agreement additional interests in that land in order better to exploit the interest which it already has in that land.
 
-**18.** (1) Subject to paragraph 20 below, Transport for London may acquire land for the purposes of discharging any of its functions (including the rehousing or relocating[^key-df41e3c5e2558197535018132a1becb9] of the occupiers of dwellings or other properties[^key-af003b8e93dc163c2c5b1f19fdf6b2dc] acquired or to be acquired by Transport for London or a subsidiary of Transport for London[^key-5696e290407fa020b8906e1d77e67c94] ).
+**18.** (1) Subject to paragraph 20 below, Transport for London may acquire land for the purposes of discharging any of its functions (including the rehousing or relocating[^c-df41e3c5e2558197535018132a1becb9] of the occupiers of dwellings or other properties[^c-af003b8e93dc163c2c5b1f19fdf6b2dc] acquired or to be acquired by Transport for London or a subsidiary of Transport for London[^c-5696e290407fa020b8906e1d77e67c94] ).
 
 (2) The power of Transport for London to acquire land under sub-paragraph (1) above includes a power to purchase land which Transport for London has no immediate plans to use or develop.
 
@@ -165,7 +165,7 @@ with a view to the disposal of any right or interest in the land or (as the case
 
 (7) Sub-paragraph (6) above does not apply to an easement or other right over land which forms part of a common, open space or fuel or field garden allotment within the meaning of section 19 of the [^c12810011]Acquisition of Land Act 1981.
 
-**20.** Except as provided by section 403A, 403B or *(Extent: E+W)*[^key-5354b9e64d949268172327cc4595213b] paragraph 15(3), 17 or 18(3) or (4) above, Transport for London does not have power to acquire land (or any interest in land) for purposes which are not related to any of the activities, other than the development of land, of Transport for London or any subsidiary of Transport for London.
+**20.** Except as provided by section 403A, 403B or *(Extent: E+W)*[^c-5354b9e64d949268172327cc4595213b] paragraph 15(3), 17 or 18(3) or (4) above, Transport for London does not have power to acquire land (or any interest in land) for purposes which are not related to any of the activities, other than the development of land, of Transport for London or any subsidiary of Transport for London.
 
 **21.** Where any activities for which provision is made by an agreement under section 156(2) or (3) of this Act or under a transport subsidiary’s agreement cease to be carried on by the other party (whether by reason of the expiry or termination of the agreement or otherwise), Transport for London may—
 
@@ -204,14 +204,14 @@ including providing, or assisting others in providing, facilities for training, 
 
 ### Byelaws for railways
 
-**26.**[^key-199cc5313afb5f9324e7863cc288fc4e] (1)[^key-e57d56b69bac5c1093bb56a832edec58] Transport for London may make byelaws regulating—
+**26.**[^c-199cc5313afb5f9324e7863cc288fc4e] (1)[^c-e57d56b69bac5c1093bb56a832edec58] Transport for London may make byelaws regulating—
 
 - (a) the use and working of its railways;
 - (b) travel on its railways;
 - (c) the maintenance of order on its railways and railway premises, including stations and the approaches to stations;
 - (d) the conduct of all persons while on those premises, including officers and employees of Transport for London.
 
-(2)[^key-e57d56b69bac5c1093bb56a832edec58] Byelaws made by Transport for London by virtue of sub-paragraph (1) above may include in particular byelaws—
+(2)[^c-e57d56b69bac5c1093bb56a832edec58] Byelaws made by Transport for London by virtue of sub-paragraph (1) above may include in particular byelaws—
 
 - (a) with respect to tickets issued for entry on its railway premises or travel on its railways and the evasion of payment of fares and other charges;
 - (b) with respect to interference with or obstruction of the working of the railways;
@@ -220,16 +220,16 @@ including providing, or assisting others in providing, facilities for training, 
 - (e) with respect to the receipt and delivery of goods;
 - (f) for regulating the passage of bicycles and other vehicles on footways and other premises controlled by Transport for London and intended for the use of pedestrians.
 
-(3)[^key-e57d56b69bac5c1093bb56a832edec58] Any byelaws made by virtue of sub-paragraph (1) above may provide that any person contravening them shall be liable on summary conviction to a fine for each offence not exceeding level 3 on the standard scale or not exceeding a lesser amount.
+(3)[^c-e57d56b69bac5c1093bb56a832edec58] Any byelaws made by virtue of sub-paragraph (1) above may provide that any person contravening them shall be liable on summary conviction to a fine for each offence not exceeding level 3 on the standard scale or not exceeding a lesser amount.
 
-(4)[^key-d5e983979c10140b5d00734955251333] Where the contravention of a byelaw made by virtue of sub-paragraph (1) above causes—
+(4)[^c-d5e983979c10140b5d00734955251333] Where the contravention of a byelaw made by virtue of sub-paragraph (1) above causes—
 
 - (a) danger or annoyance to the public, or
 - (b) hindrance to Transport for London in the lawful use of its railway,
 
 Transport for London may summarily interfere to obviate or remove the danger, annoyance or hindrance.
 
-(5)[^key-d5e983979c10140b5d00734955251333] Anything done by Transport for London under sub-paragraph (4) above is without prejudice to the taking of summary proceedings under sub-paragraph (3) above.
+(5)[^c-d5e983979c10140b5d00734955251333] Anything done by Transport for London under sub-paragraph (4) above is without prejudice to the taking of summary proceedings under sub-paragraph (3) above.
 
 (6) Subsections (5) to (12) of section 67 of the [^c12810021]Transport Act 1962 (byelaws for railways etc.) shall apply in relation to byelaws made by Transport for London by virtue of sub-paragraph (1) above as they apply to byelaws made under that section but taking references in those subsections to the Board as references to Transport for London.
 
@@ -310,23 +310,23 @@ all of which made provision with respect to transport charges and facilities and
 
 [^c12809991]: Marginal citation: [1969 c. 35](https://www.legislation.gov.uk/ukpga/1969/35).
 
-[^key-df41e3c5e2558197535018132a1becb9]: Textual amendment: Words in Sch. 11 para. 18(1) inserted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [50(a)](https://www.legislation.gov.uk/ukla/2008/1/section/50/a)
+[^c-df41e3c5e2558197535018132a1becb9]: Textual amendment: Words in Sch. 11 para. 18(1) inserted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [50(a)](https://www.legislation.gov.uk/ukla/2008/1/section/50/a)
 
-[^key-af003b8e93dc163c2c5b1f19fdf6b2dc]: Textual amendment: Words in Sch. 11 para. 18(1) inserted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [50(b)](https://www.legislation.gov.uk/ukla/2008/1/section/50/b)
+[^c-af003b8e93dc163c2c5b1f19fdf6b2dc]: Textual amendment: Words in Sch. 11 para. 18(1) inserted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [50(b)](https://www.legislation.gov.uk/ukla/2008/1/section/50/b)
 
-[^key-5696e290407fa020b8906e1d77e67c94]: Textual amendment: Words in Sch. 11 para. 18(1) inserted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [50(c)](https://www.legislation.gov.uk/ukla/2008/1/section/50/c)
+[^c-5696e290407fa020b8906e1d77e67c94]: Textual amendment: Words in Sch. 11 para. 18(1) inserted (22.7.2008) by [Transport for London Act 2008 (c. i)](https://www.legislation.gov.uk/ukla/2008/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2008/1/section/1/1), [50(c)](https://www.legislation.gov.uk/ukla/2008/1/section/50/c)
 
 [^c12810001]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
 [^c12810011]: Marginal citation: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-5354b9e64d949268172327cc4595213b]: Textual amendment: Words in [Sch. 11 para. 20](https://www.legislation.gov.uk/ukpga/1999/29/schedule/11/paragraph/20) inserted (E.W.) (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 36(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/36/3), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/f)
+[^c-5354b9e64d949268172327cc4595213b]: Textual amendment: Words in [Sch. 11 para. 20](https://www.legislation.gov.uk/ukpga/1999/29/schedule/11/paragraph/20) inserted (E.W.) (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 36(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/36/3), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/f)
 
-[^key-199cc5313afb5f9324e7863cc288fc4e]: Modification: Sch. 11 para. 26 extended (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [3](https://www.legislation.gov.uk/uksi/2003/1615/article/3)
+[^c-199cc5313afb5f9324e7863cc288fc4e]: Modification: Sch. 11 para. 26 extended (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [3](https://www.legislation.gov.uk/uksi/2003/1615/article/3)
 
-[^key-e57d56b69bac5c1093bb56a832edec58]: Modification: Sch. 11 para. 26(1)-(3) modified (13.3.2012) by [The London Cable Car Order 2012 (S.I. 2012/472)](https://www.legislation.gov.uk/uksi/2012/472), [arts. 1](https://www.legislation.gov.uk/uksi/2012/472/article/1), [6(1)](https://www.legislation.gov.uk/uksi/2012/472/article/6/1)
+[^c-e57d56b69bac5c1093bb56a832edec58]: Modification: Sch. 11 para. 26(1)-(3) modified (13.3.2012) by [The London Cable Car Order 2012 (S.I. 2012/472)](https://www.legislation.gov.uk/uksi/2012/472), [arts. 1](https://www.legislation.gov.uk/uksi/2012/472/article/1), [6(1)](https://www.legislation.gov.uk/uksi/2012/472/article/6/1)
 
-[^key-d5e983979c10140b5d00734955251333]: Modification: Sch. 11 para. 26(4)(5) applied (with modifications) (13.3.2012) by [The London Cable Car Order 2012 (S.I. 2012/472)](https://www.legislation.gov.uk/uksi/2012/472), [arts. 1](https://www.legislation.gov.uk/uksi/2012/472/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2012/472/article/6/2)
+[^c-d5e983979c10140b5d00734955251333]: Modification: Sch. 11 para. 26(4)(5) applied (with modifications) (13.3.2012) by [The London Cable Car Order 2012 (S.I. 2012/472)](https://www.legislation.gov.uk/uksi/2012/472), [arts. 1](https://www.legislation.gov.uk/uksi/2012/472/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2012/472/article/6/2)
 
 [^c12810021]: Marginal citation: [1962 c. 46](https://www.legislation.gov.uk/ukpga/1962/46).
 

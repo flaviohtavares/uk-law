@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.51. Intimation of registration of, or refusal to register, a Convention Maintenance Decision[^key-23e3ad055c4271ab275c45748fc5093e]
+## 5.51. Intimation of registration of, or refusal to register, a Convention Maintenance Decision[^c-23e3ad055c4271ab275c45748fc5093e]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23e3ad055c4271ab275c45748fc5093e]: Textual amendment: Ch. 5 Pt. 9 inserted (1.8.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/201)](https://www.legislation.gov.uk/ssi/2014/201), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/201/paragraph/1/2), [4(5)](https://www.legislation.gov.uk/ssi/2014/201/paragraph/4/5)
+[^c-23e3ad055c4271ab275c45748fc5093e]: Textual amendment: Ch. 5 Pt. 9 inserted (1.8.2014) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment) (Miscellaneous) 2014 (S.S.I. 2014/201)](https://www.legislation.gov.uk/ssi/2014/201), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/201/paragraph/1/2), [4(5)](https://www.legislation.gov.uk/ssi/2014/201/paragraph/4/5)

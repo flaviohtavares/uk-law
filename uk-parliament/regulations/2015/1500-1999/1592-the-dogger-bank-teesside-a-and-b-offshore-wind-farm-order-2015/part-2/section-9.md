@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Guarantees in respect of payment[^key-3bff28aa25c7522a91a1da24fb0707ac]
+## 9. Guarantees in respect of payment[^c-3bff28aa25c7522a91a1da24fb0707ac]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bff28aa25c7522a91a1da24fb0707ac]: Commencement: Art. 9 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
+[^c-3bff28aa25c7522a91a1da24fb0707ac]: Commencement: Art. 9 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)

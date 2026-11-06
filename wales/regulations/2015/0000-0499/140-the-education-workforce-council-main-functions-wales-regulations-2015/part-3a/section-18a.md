@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18A. School learning support workers[^key-bcbc0ace9cd001ff0b92d8911f56b508]
+## 18A. School learning support workers[^c-bcbc0ace9cd001ff0b92d8911f56b508]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcbc0ace9cd001ff0b92d8911f56b508]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/wsi/2015/140/regulation/18A) substituted (22.5.2023) by [The Education Workforce Council (Additional Categories of Registration) (Wales) Order 2023 (S.I. 2023/551)](https://www.legislation.gov.uk/wsi/2023/551), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/551/article/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2023/551/article/10/4)
+[^c-bcbc0ace9cd001ff0b92d8911f56b508]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/wsi/2015/140/regulation/18A) substituted (22.5.2023) by [The Education Workforce Council (Additional Categories of Registration) (Wales) Order 2023 (S.I. 2023/551)](https://www.legislation.gov.uk/wsi/2023/551), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/551/article/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2023/551/article/10/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Authentication of administrator’s appointment[^key-35dd5bed49cc87e7d74e4c2ccd8069f5]
+## 28. Authentication of administrator’s appointment[^c-35dd5bed49cc87e7d74e4c2ccd8069f5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A sealed copy of the court’s order may in any proceedings be adduced as proof 
 
 ## Annotations
 
-[^key-35dd5bed49cc87e7d74e4c2ccd8069f5]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2011/1301/rule/28) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-35dd5bed49cc87e7d74e4c2ccd8069f5]: Commencement: [Rule 28](https://www.legislation.gov.uk/uksi/2011/1301/rule/28) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

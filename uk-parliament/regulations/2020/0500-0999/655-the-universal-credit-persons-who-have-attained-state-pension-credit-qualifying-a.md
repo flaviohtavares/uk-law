@@ -50,13 +50,13 @@ In accordance with section 173(1)(b) of the Social Security Administration Act 1
 
 In accordance with section 176(1) of the Social Security Administration Act 1992 [^c24172211], in so far as these Regulations relate to housing benefit, the Secretary of State has consulted with organisations appearing to her to be representative of the authorities concerned in respect of the proposals for these Regulations.
 
-## 1. Citation and commencement[^key-f91cf347fae6533151bf35ecb678fe1c][^key-fd22946c4b488e7c641b8b9e3de9f369]
+## 1. Citation and commencement[^c-f91cf347fae6533151bf35ecb678fe1c][^c-fd22946c4b488e7c641b8b9e3de9f369]
 
 (1) These Regulations may be cited as the Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations 2020.
 
 (2) These Regulations come into force on 25th November 2020.
 
-## 2. Amendment of the State Pension Credit Regulations 2002[^key-1428040c4a960d385ab39894eb4bff7b][^key-3cef6ddaf393f37d19faff44093c8edb]
+## 2. Amendment of the State Pension Credit Regulations 2002[^c-1428040c4a960d385ab39894eb4bff7b][^c-3cef6ddaf393f37d19faff44093c8edb]
 
 (1) The State Pension Credit Regulations 2002 [^c24172221] are amended as follows.
 
@@ -102,7 +102,7 @@ In accordance with section 176(1) of the Social Security Administration Act 1992
 
 .
 
-## 3. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^key-3b2aa4f142e004c6ec24ee3dc6e03949][^key-bcbc4dfa58d44b2b2ebf83a5829484c1]
+## 3. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006[^c-3b2aa4f142e004c6ec24ee3dc6e03949][^c-bcbc4dfa58d44b2b2ebf83a5829484c1]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006 [^c24172251] are amended as follows.
 
@@ -112,13 +112,13 @@ In accordance with section 176(1) of the Social Security Administration Act 1992
 
 .
 
-## 4. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013[^key-ca2cdc5932b22329f4b5f2775d9d2fe7][^key-e692148c58e736d33033a9fd66e1b722]
+## 4. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013[^c-ca2cdc5932b22329f4b5f2775d9d2fe7][^c-e692148c58e736d33033a9fd66e1b722]
 
 (1) The Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Claims and Payments) Regulations 2013 [^c24172271] are amended as follows.
 
 (2) In regulation 47 (payment of universal credit), omit paragraph (7).
 
-## 5. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations 2013[^key-6e362b57321e529b015545222e8e472f][^key-d58dfe31c2bd672a4c73f384ae815649]
+## 5. Amendment of the Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations 2013[^c-6e362b57321e529b015545222e8e472f][^c-d58dfe31c2bd672a4c73f384ae815649]
 
 (1) The Universal Credit, Personal Independence Payment, Jobseeker's Allowance and Employment and Support Allowance (Decisions and Appeals) Regulations 2013 [^c24172281] are amended as follows.
 
@@ -130,7 +130,7 @@ In accordance with section 176(1) of the Social Security Administration Act 1992
 
 .
 
-## 6. Amendment of the Universal Credit (Transitional Provisions) Regulations 2014[^key-2df961f781e97d613aff2a7bb47c4539][^key-ac05d7da7659e0929ea64bb4675891b8]
+## 6. Amendment of the Universal Credit (Transitional Provisions) Regulations 2014[^c-2df961f781e97d613aff2a7bb47c4539][^c-ac05d7da7659e0929ea64bb4675891b8]
 
 (1) The Universal Credit (Transitional Provisions) Regulations 2014 [^c24172291] are amended as follows.
 
@@ -189,7 +189,7 @@ In accordance with section 176(1) of the Social Security Administration Act 1992
 
 (6) In regulation 10, in sub-paragraph (c) of paragraph (3) for “the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006” substitute “ the 2006 (SPC) Regulations ”.
 
-## 7. Amendment of the Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions and Commencement No. 21 and 23 and Transitional and Transitory Provisions (Amendment)) Order 2019[^key-df7f34c4e51713ed288dc5a8ef39f3cf][^key-5eacba7987b3cae849bd492fe1cafc61]
+## 7. Amendment of the Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions and Commencement No. 21 and 23 and Transitional and Transitory Provisions (Amendment)) Order 2019[^c-df7f34c4e51713ed288dc5a8ef39f3cf][^c-5eacba7987b3cae849bd492fe1cafc61]
 
 (1) The Welfare Reform Act 2012 (Commencement No. 31 and Savings and Transitional Provisions and Commencement No. 21 and 23 and Transitional and Transitory Provisions (Amendment)) Order 2019 [^c24172331] is amended as follows.
 
@@ -211,7 +211,7 @@ In accordance with section 176(1) of the Social Security Administration Act 1992
 - (a) in the heading, after “application” insert “ to housing benefit ”;
 - (b) for paragraphs (1) to (3) substitute—
 
-  > (1) Paragraph (3) applies where a person (“P”), who has attained the qualifying age, would otherwise not be entitled to either housing benefit[^key-f315a6c7ee5718047f5b46fbfb59e8d9] or universal credit, because—
+  > (1) Paragraph (3) applies where a person (“P”), who has attained the qualifying age, would otherwise not be entitled to either housing benefit[^c-f315a6c7ee5718047f5b46fbfb59e8d9] or universal credit, because—
   >
   > - (a) but for that paragraph, P would be a member of the same household as a partner who has not attained the qualifying age and therefore a member of a mixed-age couple, who—
   >   - (i) is prevented from claiming housing benefit under article 6 of the No. 21 Order or article 7 of the No. 23 Order; or
@@ -282,13 +282,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24172211]: Marginal citation: [Section 176(1)](https://www.legislation.gov.uk/uksi/2020/655/section/176/1) was amended by paragraph 23 of Schedule 9 to the [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14). There are other amendments to section 176(1) none of which are relevant to these Regulations.
 
-[^key-f91cf347fae6533151bf35ecb678fe1c]: Commencement: Reg. 1 in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
+[^c-f91cf347fae6533151bf35ecb678fe1c]: Commencement: Reg. 1 in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
 
-[^key-fd22946c4b488e7c641b8b9e3de9f369]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/655/regulation/1) in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
+[^c-fd22946c4b488e7c641b8b9e3de9f369]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/655/regulation/1) in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
 
-[^key-1428040c4a960d385ab39894eb4bff7b]: Commencement: Reg. 2 in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
+[^c-1428040c4a960d385ab39894eb4bff7b]: Commencement: Reg. 2 in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
 
-[^key-3cef6ddaf393f37d19faff44093c8edb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/655/regulation/2) in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
+[^c-3cef6ddaf393f37d19faff44093c8edb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/655/regulation/2) in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
 
 [^c24172221]: Marginal citation: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792).
 
@@ -296,29 +296,29 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24172241]: Marginal citation: Paragraph (1) was amended by [S.I. 2002/3019](https://www.legislation.gov.uk/uksi/2002/3019), 2012/757, 2013/388, 458 and 591, 2014/3255, 2017/422, 2018/872 and 1138, 2019/1060 and 2020/354.
 
-[^key-3b2aa4f142e004c6ec24ee3dc6e03949]: Commencement: Reg. 3 in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
+[^c-3b2aa4f142e004c6ec24ee3dc6e03949]: Commencement: Reg. 3 in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
 
-[^key-bcbc4dfa58d44b2b2ebf83a5829484c1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/655/regulation/3) in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
+[^c-bcbc4dfa58d44b2b2ebf83a5829484c1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/655/regulation/3) in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
 
 [^c24172251]: Marginal citation: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214).
 
 [^c24172261]: Marginal citation: Paragraph (1)(j) was amended by [S.I. 2012/757](https://www.legislation.gov.uk/uksi/2012/757), 2013/388, 458 and 591, 2014/3255, 2017/422, 2018/872 and 1138, 2019/1060 and 2020/354.
 
-[^key-ca2cdc5932b22329f4b5f2775d9d2fe7]: Commencement: Reg. 4 in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
+[^c-ca2cdc5932b22329f4b5f2775d9d2fe7]: Commencement: Reg. 4 in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
 
-[^key-e692148c58e736d33033a9fd66e1b722]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/655/regulation/4) in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
+[^c-e692148c58e736d33033a9fd66e1b722]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/655/regulation/4) in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
 
 [^c24172271]: Marginal citation: [S.I. 2013/380](https://www.legislation.gov.uk/uksi/2013/380).
 
-[^key-6e362b57321e529b015545222e8e472f]: Commencement: Reg. 5 in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
+[^c-6e362b57321e529b015545222e8e472f]: Commencement: Reg. 5 in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
 
-[^key-d58dfe31c2bd672a4c73f384ae815649]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/655/regulation/5) in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
+[^c-d58dfe31c2bd672a4c73f384ae815649]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/655/regulation/5) in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
 
 [^c24172281]: Marginal citation: [S.I. 2013/381](https://www.legislation.gov.uk/uksi/2013/381).
 
-[^key-2df961f781e97d613aff2a7bb47c4539]: Commencement: Reg. 6 in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
+[^c-2df961f781e97d613aff2a7bb47c4539]: Commencement: Reg. 6 in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
 
-[^key-ac05d7da7659e0929ea64bb4675891b8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/655/regulation/6) in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
+[^c-ac05d7da7659e0929ea64bb4675891b8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/655/regulation/6) in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
 
 [^c24172291]: Marginal citation: [S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230).
 
@@ -328,10 +328,10 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24172321]: Marginal citation: [Regulation 7](https://www.legislation.gov.uk/uksi/2020/655/regulation/7) was amended by [S.I. 2014/1626](https://www.legislation.gov.uk/uksi/2014/1626) and 2887, and 2018/65.
 
-[^key-df7f34c4e51713ed288dc5a8ef39f3cf]: Commencement: Reg. 7 in force at 25.11.2020, see reg. 1(2)
+[^c-df7f34c4e51713ed288dc5a8ef39f3cf]: Commencement: Reg. 7 in force at 25.11.2020, see reg. 1(2)
 
-[^key-5eacba7987b3cae849bd492fe1cafc61]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/655/regulation/7) in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
+[^c-5eacba7987b3cae849bd492fe1cafc61]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/655/regulation/7) in force at 25.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/655/regulation/1/2)
 
 [^c24172331]: Marginal citation: [S.I. 2019/37](https://www.legislation.gov.uk/uksi/2019/37) (C. 1). Articles 2 and 7 were amended by [S.I. 2019/935](https://www.legislation.gov.uk/uksi/2019/935) (C. 25).
 
-[^key-f315a6c7ee5718047f5b46fbfb59e8d9]: Textual amendment: Words in [reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/2020/655/regulation/7/3/b) substituted (24.11.2020) by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations 2020 (S.I. 2020/1201)](https://www.legislation.gov.uk/uksi/2020/1201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1201/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1201/regulation/3)
+[^c-f315a6c7ee5718047f5b46fbfb59e8d9]: Textual amendment: Words in [reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/2020/655/regulation/7/3/b) substituted (24.11.2020) by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations 2020 (S.I. 2020/1201)](https://www.legislation.gov.uk/uksi/2020/1201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1201/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1201/regulation/3)

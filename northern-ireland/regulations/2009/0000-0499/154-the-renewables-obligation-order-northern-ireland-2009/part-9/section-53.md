@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Revocation, transitional and savings[^key-473efa59486b53dc9e0d8bb53249bc78]
+## 53. Revocation, transitional and savings[^c-473efa59486b53dc9e0d8bb53249bc78]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) The 2007 Order shall continue to apply in relation to—
 
-- (a) the issue and revocation of NIROCs under it in respect of electricity generated before 1st April 2009, and anything which falls to be done or determined (whether by the Authority or some other person) in relation to such issue or[^key-4f28a7ca9301e59872469dd4c4cc49b6] revocation;
+- (a) the issue and revocation of NIROCs under it in respect of electricity generated before 1st April 2009, and anything which falls to be done or determined (whether by the Authority or some other person) in relation to such issue or[^c-4f28a7ca9301e59872469dd4c4cc49b6] revocation;
 - (b) any obligations or requirements imposed by it on an electricity supplier, an operator of a generating station or some other person in respect of the obligation period ending on 31st March 2009, and anything which falls to be done or determined (whether by the supplier, the generator or some other person) in relation to any such obligations and requirements;
 - (c) any obligations and functions of the Authority in respect of that obligation period, and anything which falls to be done or determined (whether by the Authority or some other person) in relation to it.
 
@@ -49,10 +49,10 @@ may be produced to the Authority by a designated supplier in discharge of up to 
 
 ## Annotations
 
-[^key-473efa59486b53dc9e0d8bb53249bc78]: Commencement: Art. 53 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-473efa59486b53dc9e0d8bb53249bc78]: Commencement: Art. 53 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
 
 [^f00021]: Footnote: [S.R. 2007 No. 104](https://www.legislation.gov.uk/nisr/2007/104)
 
 [^f00022]: Footnote: [S.R. 2007 No. 440](https://www.legislation.gov.uk/nisr/2007/440)
 
-[^key-4f28a7ca9301e59872469dd4c4cc49b6]: Textual amendment: Word in [art. 53(3)(a)](https://www.legislation.gov.uk/nisr/2009/154/article/53/3/a) substituted (1.4.2010) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/134)](https://www.legislation.gov.uk/nisr/2010/134), [arts. 1](https://www.legislation.gov.uk/nisr/2010/134/article/1), [15](https://www.legislation.gov.uk/nisr/2010/134/article/15)
+[^c-4f28a7ca9301e59872469dd4c4cc49b6]: Textual amendment: Word in [art. 53(3)(a)](https://www.legislation.gov.uk/nisr/2009/154/article/53/3/a) substituted (1.4.2010) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2010 (S.R. 2010/134)](https://www.legislation.gov.uk/nisr/2010/134), [arts. 1](https://www.legislation.gov.uk/nisr/2010/134/article/1), [15](https://www.legislation.gov.uk/nisr/2010/134/article/15)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.201. Trustee's recourse to disponee of property[^key-caf0d77a9e07dd95e0e8b1dfc734397f]
+## 6.201. Trustee's recourse to disponee of property[^c-caf0d77a9e07dd95e0e8b1dfc734397f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-caf0d77a9e07dd95e0e8b1dfc734397f]: Commencement: [Rule 6.201](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.201) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-caf0d77a9e07dd95e0e8b1dfc734397f]: Commencement: [Rule 6.201](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.201) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

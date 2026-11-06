@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Information to be displayed on containers, tanks and vehicles[^key-7976bd2a1e370255b38b2199658b97f7]
+## 17. Information to be displayed on containers, tanks and vehicles[^c-7976bd2a1e370255b38b2199658b97f7]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7976bd2a1e370255b38b2199658b97f7]: Commencement: Reg. 17 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-7976bd2a1e370255b38b2199658b97f7]: Commencement: Reg. 17 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

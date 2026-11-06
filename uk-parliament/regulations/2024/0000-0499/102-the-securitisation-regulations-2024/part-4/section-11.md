@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Removal of STS securitisation from FCA list: procedure[^key-ed36bdac02dc7adb89b98a0d589ecca6]
+## 11. Removal of STS securitisation from FCA list: procedure[^c-ed36bdac02dc7adb89b98a0d589ecca6]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed36bdac02dc7adb89b98a0d589ecca6]: Commencement: Reg. 11 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-ed36bdac02dc7adb89b98a0d589ecca6]: Commencement: Reg. 11 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

@@ -41,7 +41,7 @@ An Act to amend the law with respect to the terms to be implied in certain contr
 
 #### 1. The contracts concerned.
 
-(1) In this Act in its application to England and Wales and Northern Ireland[^c93055]a “**relevant contract for the transfer of goods[^key-f3e10a64654a3fe6e3b0a403b78cf49f]**” means a contract under which one person transfers or agrees to transfer to another the property in goods, other than an excepted contract, and other than a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies.[^key-9100271d2730af151117c45d92efb01c]
+(1) In this Act in its application to England and Wales and Northern Ireland[^c93055]a “**relevant contract for the transfer of goods[^c-f3e10a64654a3fe6e3b0a403b78cf49f]**” means a contract under which one person transfers or agrees to transfer to another the property in goods, other than an excepted contract, and other than a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies.[^c-9100271d2730af151117c45d92efb01c]
 
 (2) For the purposes of this section an excepted contract means any of the following:—
 
@@ -90,11 +90,11 @@ An Act to amend the law with respect to the terms to be implied in certain contr
 
 (2A) For the purposes of this section and section 5 below, goods are of satisfactory quality if they meet the standard that a reasonable person would regard as satisfactory, taking account of any description of the goods, the price (if relevant) and all the other relevant circumstances.
 
-(2B)[^key-54f7405bb74403255b7e5974d538899c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2B)[^c-54f7405bb74403255b7e5974d538899c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2C)[^key-54f7405bb74403255b7e5974d538899c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2C)[^c-54f7405bb74403255b7e5974d538899c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2D)[^key-54f7405bb74403255b7e5974d538899c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2D)[^c-54f7405bb74403255b7e5974d538899c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The condition implied by subsection (2) above does not extend to any matter making the quality of goods unsatisfactory—
 
@@ -140,7 +140,7 @@ any particular purpose for which the goods are being acquired.
 - (a) the transferee would, apart from this subsection, have the right to treat the contract as repudiated by reason of a breach on the part of the transferor of a term implied by section 3, 4 or 5(2)(a) or (c) above, but
 - (b) the breach is so slight that it would be unreasonable for him to do so,
 
-[^key-fba5d20e71971a3aad3de19dddd7eb65]... the breach is not to be treated as a breach of condition but may be treated as a breach of warranty.
+[^c-fba5d20e71971a3aad3de19dddd7eb65]... the breach is not to be treated as a breach of condition but may be treated as a breach of warranty.
 
 (2) This section applies unless a contrary intention appears in, or is to be implied from, the contract.
 
@@ -150,7 +150,7 @@ any particular purpose for which the goods are being acquired.
 
 #### 6. The contracts concerned.
 
-(1) In this Act in its application to England and Wales and Northern Ireland[^c93062] a “**relevant contract for the hire of goods[^key-74cfa13089db5c8b1ec10fdc1680819b]**” means a contract under which one person bails or agrees to bail goods to another by way of hire, other than a hire-purchase agreement[^c1991126], and other than a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies.[^key-b7339c9c27955e0af345f12346fa2089]
+(1) In this Act in its application to England and Wales and Northern Ireland[^c93062] a “**relevant contract for the hire of goods[^c-74cfa13089db5c8b1ec10fdc1680819b]**” means a contract under which one person bails or agrees to bail goods to another by way of hire, other than a hire-purchase agreement[^c1991126], and other than a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies.[^c-b7339c9c27955e0af345f12346fa2089]
 
 (2) [^c1991191]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -182,11 +182,11 @@ any particular purpose for which the goods are being acquired.
 
 (2A) For the purposes of this section and section 10 below, goods are of satisfactory quality if they meet the standard that a reasonable person would regard as satisfactory, taking account of any description of the goods, the consideration for the bailment (if relevant) and all the other relevant circumstances.
 
-(2B)[^key-244fe3ca2f00512a8600418731b46c04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2B)[^c-244fe3ca2f00512a8600418731b46c04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2C)[^key-244fe3ca2f00512a8600418731b46c04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2C)[^c-244fe3ca2f00512a8600418731b46c04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2D)[^key-244fe3ca2f00512a8600418731b46c04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2D)[^c-244fe3ca2f00512a8600418731b46c04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The condition implied by subsection (2) above does not extend to any matter making the quality of goods unsatisfactory—
 
@@ -232,7 +232,7 @@ any particular purpose for which the goods are being bailed.
 - (a) the bailee would, apart from this subsection, have the right to treat the contract as repudiated by reason of a breach on the part of the bailor of a term implied by section 8, 9 or 10(2)(a) or (c) above, but
 - (b) the breach is so slight that it would be unreasonable for him to do so,
 
-[^key-18b762d3945722cc2a8dcaf4fb5380dd]... the breach is not to be treated as a breach of condition but may be treated as a breach of warranty.
+[^c-18b762d3945722cc2a8dcaf4fb5380dd]... the breach is not to be treated as a breach of condition but may be treated as a breach of warranty.
 
 (2) This section applies unless a contrary intention appears in, or is to be implied from, the contract.
 
@@ -256,7 +256,7 @@ any particular purpose for which the goods are being bailed.
 
 #### 11A. The contracts concerned.[^c93071]
 
-(1) In this Act in its application to Scotland a “ **relevant contract for the transfer of goods** ” means a contract under which one person transfers or agrees to transfer to another the property in goods, other than an excepted contract, and other than a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies.[^key-8deab12a5f9e1cdbf6474612229c3b75]
+(1) In this Act in its application to Scotland a “ **relevant contract for the transfer of goods** ” means a contract under which one person transfers or agrees to transfer to another the property in goods, other than an excepted contract, and other than a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies.[^c-8deab12a5f9e1cdbf6474612229c3b75]
 
 (2) For the purposes of this section an excepted contract means any of the following—
 
@@ -309,11 +309,11 @@ any particular purpose for which the goods are being bailed.
 
 (3) For the purposes of this section and section 11E below, goods are of satisfactory quality if they meet the standard that a reasonable person would regard as satisfactory, taking account of any description of the goods, the price (if relevant) and all the other relevant circumstances.
 
-(3A)[^key-b10849c9559b4d34cca3370f94c4b62a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-b10849c9559b4d34cca3370f94c4b62a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3B)[^key-b10849c9559b4d34cca3370f94c4b62a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3B)[^c-b10849c9559b4d34cca3370f94c4b62a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3C)[^key-b10849c9559b4d34cca3370f94c4b62a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3C)[^c-b10849c9559b4d34cca3370f94c4b62a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The term implied by subsection (2) above does not extend to any matter making the quality of goods unsatisfactory—
 
@@ -336,7 +336,7 @@ any particular purpose for which the goods are being acquired.
 
 (9) The preceding provisions of this section apply to a transfer by a person who in the course of a business is acting as agent for another as they apply to a transfer by a principal in the course of a business, except where that other is not transferring in the course of a business and either the transferee knows that fact or reasonable steps are taken to bring it to the transferee’s notice before the contract concerned is made.
 
-(10)[^key-9baf581804122d60e8b410fa5fb4221e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-9baf581804122d60e8b410fa5fb4221e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 11E. Implied terms where transfer is by sample.[^c93075]
 
@@ -357,15 +357,15 @@ any particular purpose for which the goods are being acquired.
 - (a) to claim damages; and
 - (b) if the breach is material, to reject any goods delivered under the contract and treat it as repudiated.
 
-(2)[^key-cac6537ec8d6d7e8cd0b3c804bf916b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cac6537ec8d6d7e8cd0b3c804bf916b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-cac6537ec8d6d7e8cd0b3c804bf916b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cac6537ec8d6d7e8cd0b3c804bf916b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Contracts for the hire of goods[^c93077]
 
 #### 11G. The contracts concerned.[^c93078]
 
-(1) In this Act in its application to Scotland a “relevant contract for the hire of goods” means a contract under which one person (“the supplier”) hires or agrees to hire goods to another, other than a hire-purchase agreement[^c1991084] , and other than a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies.[^key-b664a02d615eda33ae1da31009ba0acb]
+(1) In this Act in its application to Scotland a “relevant contract for the hire of goods” means a contract under which one person (“the supplier”) hires or agrees to hire goods to another, other than a hire-purchase agreement[^c1991084] , and other than a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies.[^c-b664a02d615eda33ae1da31009ba0acb]
 
 (2) [^c1991086] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -400,11 +400,11 @@ any particular purpose for which the goods are being acquired.
 
 (3) For the purposes of this section and section 11K below, goods are of satisfactory quality if they meet the standard that a reasonable person would regard as satisfactory, taking account of any description of the goods, the consideration for the hire (if relevant) and all the other relevant circumstances.
 
-(3A)[^key-8c3e9cdd4a583ad22a4246d1440ee132] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-8c3e9cdd4a583ad22a4246d1440ee132] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3B)[^key-8c3e9cdd4a583ad22a4246d1440ee132] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3B)[^c-8c3e9cdd4a583ad22a4246d1440ee132] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3C)[^key-8c3e9cdd4a583ad22a4246d1440ee132] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3C)[^c-8c3e9cdd4a583ad22a4246d1440ee132] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The term implied by subsection (2) above does not extend to any matter making the quality of goods unsatisfactory—
 
@@ -427,7 +427,7 @@ any particular purpose for which the goods are being hired.
 
 (9) The preceding provisions of this section apply to a hire by a person who in the course of a business is acting as agent for another as they apply to a hire by a principal in the course of a business, except where that other is not hiring in the course of a business and either the person to whom the goods are hired knows that fact or reasonable steps are taken to bring it to that person’s notice before the contract concerned is made.
 
-(10)[^key-5d759c5dcf9bc1ce5deed1a878c7629e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-5d759c5dcf9bc1ce5deed1a878c7629e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 11K. Implied terms where hire is by sample.[^c93082]
 
@@ -451,39 +451,39 @@ any particular purpose for which the goods are being hired.
 
 (3) Nothing in the preceding provisions of this Part of this Act prejudices the operation of any other enactment or any rule of law whereby any term (other than one relating to quality or fitness) is to be implied in a relevant contract for the transfer of goods or a relevant contract for the hire of goods.
 
-## PART 1B — ADDITIONAL RIGHTS OF TRANSFEREE IN CONSUMER CASES[^key-4f3f666f6edb5ad4bdd31375b2c4a238]
+## PART 1B — ADDITIONAL RIGHTS OF TRANSFEREE IN CONSUMER CASES[^c-4f3f666f6edb5ad4bdd31375b2c4a238]
 
-### 11M. Introductory[^key-4f3f666f6edb5ad4bdd31375b2c4a238]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 11N. Repair or replacement of the goods[^key-4f3f666f6edb5ad4bdd31375b2c4a238]
+### 11M. Introductory[^c-4f3f666f6edb5ad4bdd31375b2c4a238]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11P. Reduction of purchase price or rescission of contract[^key-4f3f666f6edb5ad4bdd31375b2c4a238]
+### 11N. Repair or replacement of the goods[^c-4f3f666f6edb5ad4bdd31375b2c4a238]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11Q. Relation to other remedies etc.[^key-4f3f666f6edb5ad4bdd31375b2c4a238]
+### 11P. Reduction of purchase price or rescission of contract[^c-4f3f666f6edb5ad4bdd31375b2c4a238]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11R. Powers of the court[^key-4f3f666f6edb5ad4bdd31375b2c4a238]
+### 11Q. Relation to other remedies etc.[^c-4f3f666f6edb5ad4bdd31375b2c4a238]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11S. Conformity with the contract[^key-4f3f666f6edb5ad4bdd31375b2c4a238]
+### 11R. Powers of the court[^c-4f3f666f6edb5ad4bdd31375b2c4a238]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 11S. Conformity with the contract[^c-4f3f666f6edb5ad4bdd31375b2c4a238]
 
 **No longer in force.**
 
@@ -495,7 +495,7 @@ any particular purpose for which the goods are being hired.
 
 ### 12. The contracts concerned.
 
-(1) In this Act a “**relevant contract for the supply of a service[^key-0657af4c83eebb725990859161fd38f9]**” means, subject to subsection (2) below, a contract under which a person (“the supplier”) agrees to carry out a service, other than a contract to which Chapter 4 of Part 1 of the Consumer Rights Act 2015 applies.[^key-39cf65ccb9009573ca5e9fc71ad661ea]
+(1) In this Act a “**relevant contract for the supply of a service[^c-0657af4c83eebb725990859161fd38f9]**” means, subject to subsection (2) below, a contract under which a person (“the supplier”) agrees to carry out a service, other than a contract to which Chapter 4 of Part 1 of the Consumer Rights Act 2015 applies.[^c-39cf65ccb9009573ca5e9fc71ad661ea]
 
 (2) For the purposes of this Act, a contract of service or apprenticeship is not a relevant contract for the supply of a service.
 
@@ -566,11 +566,11 @@ In a relevant contract for the supply of a service where the supplier is acting 
 - “**enactment**” means any legislation (including subordinate legislation) of the United Kingdom or Northern Ireland;
 - “**goods**” includes all personal chattels, other than things in action and money, and as regards Scotland all corporeal moveables; and in particular “[^c93096]**goods**” includes emblements, industrial growing crops, and things attached to or forming part of the land which are agreed to be severed before the transfer bailment or hire concerned or under the contract concerned [^c93098]. . .;
 - “**hire-purchase agreement**” has the same meaning as in the 1974 Act;
-- [^key-1b5552cbf6b92864ec03adddbbb47d3e]...
+- [^c-1b5552cbf6b92864ec03adddbbb47d3e]...
 - [^c392570]“**property**”, in relation to goods, means the general property in them and not merely a special property;
 - [^c93099]. . .
 - [^c1991230]. . .
-- [^key-1b5552cbf6b92864ec03adddbbb47d3e]...
+- [^c-1b5552cbf6b92864ec03adddbbb47d3e]...
 - [^c392572]. . .
 - “**transferee**”, in relation to a relevant contract for the transfer of goods, means (depending on the context) a person to whom the property in the goods is transferred under the contract, or a person to whom the property is to be so transferred, or a person to whom the rights under the contract of either of those persons have passed;
 - “**transferor**”, in relation to a relevant contract for the transfer of goods, means (depending on the context) a person who transfers the property in the goods under the contract, or a person who agrees to do so, or a person to whom the duties under the contract of either of those persons have passed.
@@ -585,7 +585,7 @@ In a relevant contract for the supply of a service where the supplier is acting 
 - (d) safety, and
 - (e) durability.
 
-(4)[^key-a7ed898f8ebe2704eb7a2e71c5c7948d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a7ed898f8ebe2704eb7a2e71c5c7948d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 19. Interpretation: references to Acts.
 
@@ -646,15 +646,15 @@ Section 20.
 
 [^c93055]: Textual amendment: Words in s. 1(1)(3) inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/35/section/7), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2/paragraph/6/2) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
-[^key-f3e10a64654a3fe6e3b0a403b78cf49f]: Textual amendment: Words in Act substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 38(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/38/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-f3e10a64654a3fe6e3b0a403b78cf49f]: Textual amendment: Words in Act substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 38(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/38/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-9100271d2730af151117c45d92efb01c]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1982/29/section/1/1) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/39); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-9100271d2730af151117c45d92efb01c]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1982/29/section/1/1) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 39](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/39); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c1991099]: Textual amendment: S. 1(2)(c) omitted (E.W.) (6.4.2005) by virtue of [The Regulatory Reform (Trading Stamps) Order 2005 (S.I. 2005/871)](https://www.legislation.gov.uk/uksi/2005/871) {art. 5(a)}; and repealed (N.I.) (15.11.2005) by [The Law Reform (Miscellaneous Provisions) (Northern Ireland) Order 2005 (S.I. 2005/1452 (N.I. 7))](https://www.legislation.gov.uk/nisi/2005/1452), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/1452/article/1/2), [21(2)(a)](https://www.legislation.gov.uk/nisi/2005/1452/article/21/2/a), [24](https://www.legislation.gov.uk/nisi/2005/1452/article/24), [Sch. 2](https://www.legislation.gov.uk/nisi/2005/1452/schedule/2); [S.R. 2005/494](https://www.legislation.gov.uk/nisr/2005/494), [art. 2(1)(b)(d)](https://www.legislation.gov.uk/nisr/2005/494/article/2/1/b/d)
 
 [^c93057]: Textual amendment: S. 4(2)(2A)(3) substituted (3.1.1995) for s. 4(2)(3) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/35/section/7), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2/paragraph/6/3) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
-[^key-54f7405bb74403255b7e5974d538899c]: Textual amendment: S. 4(2B)-(2D) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 40](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/40); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-54f7405bb74403255b7e5974d538899c]: Textual amendment: S. 4(2B)-(2D) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 40](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/40); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c93058]: Textual amendment: S. 4(9) repealed (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/35/section/7), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2/paragraph/6/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1994/35/schedule/3) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
@@ -664,15 +664,15 @@ Section 20.
 
 [^c693759]: Textual amendment: S. 5A inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/35/section/7), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 2 para. 6(5)](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2/paragraph/6/5) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
-[^key-fba5d20e71971a3aad3de19dddd7eb65]: Textual amendment: Words in [s. 5A(1)](https://www.legislation.gov.uk/ukpga/1982/29/section/5A/1) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/41); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-fba5d20e71971a3aad3de19dddd7eb65]: Textual amendment: Words in [s. 5A(1)](https://www.legislation.gov.uk/ukpga/1982/29/section/5A/1) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/41); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c93062]: Textual amendment: Words in s. 6(1)(3) inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/35/section/7), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 2 para. 6(6)](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2/paragraph/6/6) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
-[^key-74cfa13089db5c8b1ec10fdc1680819b]: Textual amendment: Words in Act substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 38(b)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/38/b); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-74cfa13089db5c8b1ec10fdc1680819b]: Textual amendment: Words in Act substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 38(b)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/38/b); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c1991126]: Textual amendment: Words in s. 6(1) substituted (E.W.) (6.4.2005) by [The Regulatory Reform (Trading Stamps) Order 2005 (S.I. 2005/871)](https://www.legislation.gov.uk/uksi/2005/871) {art. 5(b)(i)}; (N.I.) (15.11.2005) by [The Law Reform (Miscellaneous Provisions) (Northern Ireland) Order 2005 (S.I. 2005/1452 (N.I. 7))](https://www.legislation.gov.uk/nisi/2005/1452), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/1452/article/1/2), [21(2)(b)(i)](https://www.legislation.gov.uk/nisi/2005/1452/article/21/2/b/i); [S.R. 2005/494](https://www.legislation.gov.uk/nisr/2005/494), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2005/494/article/2/1/b)
 
-[^key-b7339c9c27955e0af345f12346fa2089]: Textual amendment: Words in s. 6(1) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/42); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-b7339c9c27955e0af345f12346fa2089]: Textual amendment: Words in s. 6(1) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/42); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c1991191]: Textual amendment: S. 6(2) omitted (E.W.) (6.4.2005) by virtue of [The Regulatory Reform (Trading Stamps) Order 2005 (S.I. 2005/871)](https://www.legislation.gov.uk/uksi/2005/871) {art. 5(b)(ii)}; and repealed (N.I.) (15.11.2005) by [The Law Reform (Miscellaneous Provisions) (Northern Ireland) Order 2005 (S.I. 2005/1452 (N.I. 7))](https://www.legislation.gov.uk/nisi/2005/1452), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/1452/article/1/2), [21(2)(b)(ii)](https://www.legislation.gov.uk/nisi/2005/1452/article/21/2/b/ii), [24](https://www.legislation.gov.uk/nisi/2005/1452/article/24), [Sch. 2](https://www.legislation.gov.uk/nisi/2005/1452/schedule/2); [S.R. 2005/494](https://www.legislation.gov.uk/nisr/2005/494), [art. 2(1)(b)(d)](https://www.legislation.gov.uk/nisr/2005/494/article/2/1/b/d)
 
@@ -680,7 +680,7 @@ Section 20.
 
 [^c93064]: Textual amendment: S. 9(2)(2A)(3) substituted (3.1.1995) for s. 9(2)(3) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/35/section/7), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 2 para. 6(7)](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2/paragraph/6/7) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
-[^key-244fe3ca2f00512a8600418731b46c04]: Textual amendment: S. 9(2B)-(2D) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/43); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-244fe3ca2f00512a8600418731b46c04]: Textual amendment: S. 9(2B)-(2D) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/43); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c93065]: Textual amendment: S. 9(9) repealed (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/35/section/7), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 2 para. 6(7)](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2/paragraph/6/7), [Sch. 3](https://www.legislation.gov.uk/ukpga/1994/35/schedule/3) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
@@ -690,7 +690,7 @@ Section 20.
 
 [^c693783]: Textual amendment: S. 10A inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/35/section/7), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2/paragraph/6) (9) (with s. 8(3))
 
-[^key-18b762d3945722cc2a8dcaf4fb5380dd]: Textual amendment: Words in [s. 10A(1)](https://www.legislation.gov.uk/ukpga/1982/29/section/10A/1) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/44); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-18b762d3945722cc2a8dcaf4fb5380dd]: Textual amendment: Words in [s. 10A(1)](https://www.legislation.gov.uk/ukpga/1982/29/section/10A/1) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 44](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/44); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c93069]: Textual amendment: Pt. IA (ss. 11A-11L) with Pt. heading and cross headings inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 6](https://www.legislation.gov.uk/ukpga/1994/35/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 1 para.1](https://www.legislation.gov.uk/ukpga/1994/35/schedule/1/paragraph/1) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
@@ -698,7 +698,7 @@ Section 20.
 
 [^c93071]: Textual amendment: Pt. IA (ss. 11A-11L) with Pt. heading and cross headings inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 6](https://www.legislation.gov.uk/ukpga/1994/35/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 1 para.1](https://www.legislation.gov.uk/ukpga/1994/35/schedule/1/paragraph/1) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
-[^key-8deab12a5f9e1cdbf6474612229c3b75]: Textual amendment: Words in [s. 11A(1)](https://www.legislation.gov.uk/ukpga/1982/29/section/11A/1) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 45](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/45); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-8deab12a5f9e1cdbf6474612229c3b75]: Textual amendment: Words in [s. 11A(1)](https://www.legislation.gov.uk/ukpga/1982/29/section/11A/1) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 45](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/45); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c1991073]: Textual amendment: S. 11A(2)(c) omitted (6.4.2005) by virtue of [The Regulatory Reform (Trading Stamps) Order 2005 (S.I. 2005/871)](https://www.legislation.gov.uk/uksi/2005/871), [art. 5(c)](https://www.legislation.gov.uk/uksi/2005/871/article/5/c)
 
@@ -708,15 +708,15 @@ Section 20.
 
 [^c93074]: Textual amendment: Pt. IA (ss. 11A-11L) with Pt. heading and cross headings inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 6](https://www.legislation.gov.uk/ukpga/1994/35/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1994/35/schedule/1/paragraph/1) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
-[^key-b10849c9559b4d34cca3370f94c4b62a]: Textual amendment: S. 11D(3A)-(3C) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 46](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/46); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-b10849c9559b4d34cca3370f94c4b62a]: Textual amendment: S. 11D(3A)-(3C) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 46](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/46); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-9baf581804122d60e8b410fa5fb4221e]: Textual amendment: S. 11D(10) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 46](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/46); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-9baf581804122d60e8b410fa5fb4221e]: Textual amendment: S. 11D(10) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 46](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/46); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c93075]: Textual amendment: Pt. IA (ss. 11A-11L) with Pt. heading and cross headings inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 6](https://www.legislation.gov.uk/ukpga/1994/35/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 1 para.1](https://www.legislation.gov.uk/ukpga/1994/35/schedule/1/paragraph/1) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
 [^c93076]: Textual amendment: Pt. IA (ss. 11A-11L) with Pt. heading and cross headings inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 6](https://www.legislation.gov.uk/ukpga/1994/35/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 1 para.1](https://www.legislation.gov.uk/ukpga/1994/35/schedule/1/paragraph/1) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
-[^key-cac6537ec8d6d7e8cd0b3c804bf916b2]: Textual amendment: [S. 11F(2)](https://www.legislation.gov.uk/ukpga/1982/29/section/11F/2)[(3)](https://www.legislation.gov.uk/ukpga/1982/29/section/11F/3) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 47](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/47); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-cac6537ec8d6d7e8cd0b3c804bf916b2]: Textual amendment: [S. 11F(2)](https://www.legislation.gov.uk/ukpga/1982/29/section/11F/2)[(3)](https://www.legislation.gov.uk/ukpga/1982/29/section/11F/3) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 47](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/47); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1)); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c93077]: Textual amendment: Pt. IA (ss. 11A-11L) with Pt. heading and cross headings inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 6](https://www.legislation.gov.uk/ukpga/1994/35/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 1 para.1](https://www.legislation.gov.uk/ukpga/1994/35/schedule/1/paragraph/1) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
@@ -724,7 +724,7 @@ Section 20.
 
 [^c1991084]: Textual amendment: Words in s. 11G(1) substituted (6.4.2005) by [The Regulatory Reform (Trading Stamps) Order 2005 (S.I. 2005/871)](https://www.legislation.gov.uk/uksi/2005/871), [art. 5(d)(i)](https://www.legislation.gov.uk/uksi/2005/871/article/5/d/i)
 
-[^key-b664a02d615eda33ae1da31009ba0acb]: Textual amendment: Words in s. 11G(1) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 48](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/48); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-b664a02d615eda33ae1da31009ba0acb]: Textual amendment: Words in s. 11G(1) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 48](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/48); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c1991086]: Textual amendment: S. 11G(2) omitted (6.4.2005) by virtue of [The Regulatory Reform (Trading Stamps) Order 2005 (S.I. 2005/871)](https://www.legislation.gov.uk/uksi/2005/871), [art. 5(d)(ii)](https://www.legislation.gov.uk/uksi/2005/871/article/5/d/ii)
 
@@ -736,9 +736,9 @@ Section 20.
 
 [^c93081]: Textual amendment: Pt. IA (ss. 11A-11L) with Pt. heading and cross headings inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 6](https://www.legislation.gov.uk/ukpga/1994/35/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1994/35/schedule/1/paragraph/1) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
-[^key-8c3e9cdd4a583ad22a4246d1440ee132]: Textual amendment: Ss. 11J(3A)-(3C) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/49); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-8c3e9cdd4a583ad22a4246d1440ee132]: Textual amendment: Ss. 11J(3A)-(3C) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/49); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-5d759c5dcf9bc1ce5deed1a878c7629e]: Textual amendment: S. 11J(10) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/49); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-5d759c5dcf9bc1ce5deed1a878c7629e]: Textual amendment: S. 11J(10) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/49); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c93082]: Textual amendment: Pt. IA (ss. 11A-11L) with Pt. heading and cross headings inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 6](https://www.legislation.gov.uk/ukpga/1994/35/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1994/35/schedule/1/paragraph/1) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
@@ -746,11 +746,11 @@ Section 20.
 
 [^c93084]: Textual amendment: Pt. IA (ss. 11A-11L) with Pt. heading and cross headings inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 6](https://www.legislation.gov.uk/ukpga/1994/35/section/6), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 1 para.1](https://www.legislation.gov.uk/ukpga/1994/35/schedule/1/paragraph/1) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
-[^key-4f3f666f6edb5ad4bdd31375b2c4a238]: Textual amendment: [Pt. 1B](https://www.legislation.gov.uk/ukpga/1982/29/part/1B) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 50](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/50); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-4f3f666f6edb5ad4bdd31375b2c4a238]: Textual amendment: [Pt. 1B](https://www.legislation.gov.uk/ukpga/1982/29/part/1B) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 50](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/50); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-0657af4c83eebb725990859161fd38f9]: Textual amendment: Words in Act substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 38(c)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/38/c); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-0657af4c83eebb725990859161fd38f9]: Textual amendment: Words in Act substituted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 38(c)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/38/c); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-39cf65ccb9009573ca5e9fc71ad661ea]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/1982/29/section/12/1) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 51](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/51); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-39cf65ccb9009573ca5e9fc71ad661ea]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/1982/29/section/12/1) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 51](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/51); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c93085]: Modification: S. 13 excluded by [S.I. 1983/902](https://www.legislation.gov.uk/uksi/1983/902), [art. 2](https://www.legislation.gov.uk/uksi/1983/902/article/2) and [S.I. 1985/1](https://www.legislation.gov.uk/uksi/1985/1), [art. 2](https://www.legislation.gov.uk/uksi/1985/1/article/2)
 
@@ -764,7 +764,7 @@ Section 20.
 
 [^c93098]: Textual amendment: Words in s. 18(1) in the definition of "goods" repealed (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 6](https://www.legislation.gov.uk/ukpga/1994/35/section/6), [7](https://www.legislation.gov.uk/ukpga/1994/35/section/7), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 1 para. 2(b)(iii)](https://www.legislation.gov.uk/ukpga/1994/35/schedule/1/paragraph/2/b/iii), [Sch.3](https://www.legislation.gov.uk/ukpga/1994/35/schedule/3) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
-[^key-1b5552cbf6b92864ec03adddbbb47d3e]: Textual amendment: Definitions of “producer” and “repair” in s. 18(1) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 52(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/52/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-1b5552cbf6b92864ec03adddbbb47d3e]: Textual amendment: Definitions of “producer” and “repair” in s. 18(1) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 52(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/52/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c392570]: Textual amendment: Definition of "producer" in s. 18(1) inserted by (31.3.2003) by The Sale and Supply of Goods to [Consumers Regulations 2002 (S.I. 2002/3045)](https://www.legislation.gov.uk/uksi/2002/3045), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2002/3045/regulation/12/2)
 
@@ -778,7 +778,7 @@ Section 20.
 
 [^c93103]: Textual amendment: S. 18(3)(4) inserted (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/35/section/7), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 2 para. 6(10)](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2/paragraph/6/10) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3))
 
-[^key-a7ed898f8ebe2704eb7a2e71c5c7948d]: Textual amendment: S. 18(4) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 52(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/52/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-a7ed898f8ebe2704eb7a2e71c5c7948d]: Textual amendment: S. 18(4) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 52(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/52/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c93104]: Marginal citation: [1973 c. 13](https://www.legislation.gov.uk/ukpga/1973/13).
 

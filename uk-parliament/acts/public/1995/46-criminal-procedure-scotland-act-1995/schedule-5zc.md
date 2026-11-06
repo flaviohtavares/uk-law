@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5ZC — Terrorism offences[^key-f60f997cb1b44dff0db324f7fd073194]
+## SCHEDULE 5ZC — Terrorism offences[^c-f60f997cb1b44dff0db324f7fd073194]
 
 *Extent: S*
 
@@ -203,4 +203,4 @@ Section 210A
 
 ## Annotations
 
-[^key-f60f997cb1b44dff0db324f7fd073194]: Textual amendment: [Sch. 5ZC](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZC) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(k)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/k), [Sch. 5](https://www.legislation.gov.uk/ukpga/2021/11/schedule/5)
+[^c-f60f997cb1b44dff0db324f7fd073194]: Textual amendment: [Sch. 5ZC](https://www.legislation.gov.uk/ukpga/1995/46/schedule/5ZC) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(k)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/k), [Sch. 5](https://www.legislation.gov.uk/ukpga/2021/11/schedule/5)

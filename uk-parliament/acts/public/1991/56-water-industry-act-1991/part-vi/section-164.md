@@ -25,7 +25,7 @@ summary: ''
 - (a) for the purpose of draining that land; or
 - (b) for more effectually collecting, conveying or preserving the purity of any water which the undertaker is for the time being authorised to take.
 
-(2) Before entering into an agreement under this section with respect to the carrying out of works the carrying out of which would result in the discharge of any water into a watercourse otherwise than through public sewers, a water undertaker shall consult —[^key-c4d81cb4a35347efc0c41c5136271f6f]
+(2) Before entering into an agreement under this section with respect to the carrying out of works the carrying out of which would result in the discharge of any water into a watercourse otherwise than through public sewers, a water undertaker shall consult —[^c-c4d81cb4a35347efc0c41c5136271f6f]
 
 - (a) the Environment Agency, if the proposed works will affect any watercourse in England,
 - (b) the NRBW, if the proposed works will affect any watercourse in Wales, and
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c4d81cb4a35347efc0c41c5136271f6f]: Textual amendment: Words in [s. 164(2)](https://www.legislation.gov.uk/ukpga/1991/56/section/164/2) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(t)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/t), [Sch. 7 para. 107](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/107)
+[^c-c4d81cb4a35347efc0c41c5136271f6f]: Textual amendment: Words in [s. 164(2)](https://www.legislation.gov.uk/ukpga/1991/56/section/164/2) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(t)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/t), [Sch. 7 para. 107](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/107)
 
 [^c13221461]: Marginal citation: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68.[^key-bb27f53cb0493f7ef6d9e2ada31529c3]
+## 68.[^c-bb27f53cb0493f7ef6d9e2ada31529c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ Regulation 37 (TRA's recommendation to the Secretary of State) has effect as ifâ
   > - (c) where relevant, the period for which the definitive safeguarding remedy should be applicable, which must begin on the day after the date of publication of the public notice under section 13 of the Act giving effect to the decision;
   > - (d) any other information which the Secretary of State considers relevant.
   >
-  > (2) Where the Secretary of State makes a preliminary decision other than a preliminary decision referred to in paragraph (1), [^key-5856175aed79c254db7cd9f290db66aa]... the Secretary of State mustâ€”
+  > (2) Where the Secretary of State makes a preliminary decision other than a preliminary decision referred to in paragraph (1), [^c-5856175aed79c254db7cd9f290db66aa]... the Secretary of State mustâ€”
   >
   > - (a) terminate the review;
   > - (b) publish a notice containing the information referred to in paragraph 12 of the Schedule; and
@@ -44,6 +44,6 @@ Regulation 37 (TRA's recommendation to the Secretary of State) has effect as ifâ
 
 ## Annotations
 
-[^key-bb27f53cb0493f7ef6d9e2ada31529c3]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2019/449/regulation/68) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-bb27f53cb0493f7ef6d9e2ada31529c3]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2019/449/regulation/68) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
 
-[^key-5856175aed79c254db7cd9f290db66aa]: Textual amendment: Words in reg. 68(b) omitted (23.7.2019) by virtue of [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/4/2)
+[^c-5856175aed79c254db7cd9f290db66aa]: Textual amendment: Words in reg. 68(b) omitted (23.7.2019) by virtue of [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/4/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28.[^key-0e3fbc09e69916dd36b83665029bc8e6]
+## 28.[^c-0e3fbc09e69916dd36b83665029bc8e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In point 5.1 for paragraph 2 substitute—
 
 ## Annotations
 
-[^key-0e3fbc09e69916dd36b83665029bc8e6]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-0e3fbc09e69916dd36b83665029bc8e6]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Continuity obligations: onward property transfers[^key-1e8b70cecfe3dccf3a8659e2ce08150f]
+## 65. Continuity obligations: onward property transfers[^c-1e8b70cecfe3dccf3a8659e2ce08150f]
 
 *Extent: E+W+S+N.I.*
 
 (1) In this section—
 
 - (a) “**onward transfer**” means a transfer of property, rights or liabilities (whether or not under a power in this Part) from—
-  - (i) a person who is a transferee under a property transfer instrument under section 12(2) or 12ZA(3)[^key-3a7c79621b15b9f12c58af22b9d288b9] (an “original transferee”), or
-  - (ii) a bank, securities issued by which were earlier transferred by a share transfer instrument under section 12(2) or[^key-d2a89282333a8ce1adc10910cfae87ac] a share transfer order under section 13(2), and
+  - (i) a person who is a transferee under a property transfer instrument under section 12(2) or 12ZA(3)[^c-3a7c79621b15b9f12c58af22b9d288b9] (an “original transferee”), or
+  - (ii) a bank, securities issued by which were earlier transferred by a share transfer instrument under section 12(2) or[^c-d2a89282333a8ce1adc10910cfae87ac] a share transfer order under section 13(2), and
 - (b) the person to whom the onward transfer is made is referred to as an “**onward transferee**”.
 
 (2) The continuity authority may—
@@ -64,8 +64,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1e8b70cecfe3dccf3a8659e2ce08150f]: Commencement: S. 65 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-1e8b70cecfe3dccf3a8659e2ce08150f]: Commencement: S. 65 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
 
-[^key-3a7c79621b15b9f12c58af22b9d288b9]: Textual amendment: Words in s. 65(1)(a)(i) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [73(a)](https://www.legislation.gov.uk/uksi/2014/3329/article/73/a)
+[^c-3a7c79621b15b9f12c58af22b9d288b9]: Textual amendment: Words in s. 65(1)(a)(i) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [73(a)](https://www.legislation.gov.uk/uksi/2014/3329/article/73/a)
 
-[^key-d2a89282333a8ce1adc10910cfae87ac]: Textual amendment: Words in s. 65(1)(a)(ii) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [73(b)](https://www.legislation.gov.uk/uksi/2014/3329/article/73/b)
+[^c-d2a89282333a8ce1adc10910cfae87ac]: Textual amendment: Words in s. 65(1)(a)(ii) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [73(b)](https://www.legislation.gov.uk/uksi/2014/3329/article/73/b)

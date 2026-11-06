@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 267. Charge for copy documents[^key-68d0bb57f599cc463483b1759d8be721]
+## 267. Charge for copy documents[^c-68d0bb57f599cc463483b1759d8be721]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 12.15A of the 1986 Rules[^f00099].
 
 ## Annotations
 
-[^key-68d0bb57f599cc463483b1759d8be721]: Commencement: Rule 267 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-68d0bb57f599cc463483b1759d8be721]: Commencement: Rule 267 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00099]: Footnote: Rule 12.15A was inserted by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

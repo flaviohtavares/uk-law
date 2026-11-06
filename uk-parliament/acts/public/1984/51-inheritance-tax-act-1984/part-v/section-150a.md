@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150A. Certain pension interests treated as part of estate[^key-d5d25b3ebad22e66ef0236cd622d0238]
+## 150A. Certain pension interests treated as part of estate[^c-d5d25b3ebad22e66ef0236cd622d0238]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,4 +85,4 @@ but for the purposes of this section those definitions are to be read with any n
 
 ## Annotations
 
-[^key-d5d25b3ebad22e66ef0236cd622d0238]: Textual amendment: [S. 150A](https://www.legislation.gov.uk/ukpga/1984/51/section/150A) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 66](https://www.legislation.gov.uk/ukpga/2026/11/section/66), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-d5d25b3ebad22e66ef0236cd622d0238]: Textual amendment: [S. 150A](https://www.legislation.gov.uk/ukpga/1984/51/section/150A) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 66](https://www.legislation.gov.uk/ukpga/2026/11/section/66), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

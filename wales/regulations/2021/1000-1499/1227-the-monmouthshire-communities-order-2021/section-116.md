@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Gwehelog Fawr — dissolution of community and consequential change to community council[^key-1d5cfab9633301b9617e362e02a599f1][^key-af123585a9210a6838976fb7fc4bae4b]
+## 116. Gwehelog Fawr — dissolution of community and consequential change to community council[^c-1d5cfab9633301b9617e362e02a599f1][^c-af123585a9210a6838976fb7fc4bae4b]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1d5cfab9633301b9617e362e02a599f1]: Commencement: Art. 116 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-1d5cfab9633301b9617e362e02a599f1]: Commencement: Art. 116 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-af123585a9210a6838976fb7fc4bae4b]: Commencement: [Art. 116](https://www.legislation.gov.uk/wsi/2021/1227/article/116) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-af123585a9210a6838976fb7fc4bae4b]: Commencement: [Art. 116](https://www.legislation.gov.uk/wsi/2021/1227/article/116) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Breach of official duty[^key-224049c9c7df92efe5cbe0c92cb5ab7b]
+## 19. Breach of official duty[^c-224049c9c7df92efe5cbe0c92cb5ab7b]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ the officer is not guilty of an offence under paragraph (1).
 
 ## Annotations
 
-[^key-224049c9c7df92efe5cbe0c92cb5ab7b]: Modification: Art. 19 excluded (E.W.) (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [15(1)](https://www.legislation.gov.uk/uksi/2020/395/regulation/15/1)[(4)-(6)](https://www.legislation.gov.uk/uksi/2020/395/regulation/15/4)
+[^c-224049c9c7df92efe5cbe0c92cb5ab7b]: Modification: Art. 19 excluded (E.W.) (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [15(1)](https://www.legislation.gov.uk/uksi/2020/395/regulation/15/1)[(4)-(6)](https://www.legislation.gov.uk/uksi/2020/395/regulation/15/4)
 
 [^c21343581]: Marginal citation: [S.I. 2012/1918](https://www.legislation.gov.uk/uksi/2012/1918).

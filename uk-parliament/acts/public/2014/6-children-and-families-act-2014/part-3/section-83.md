@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Interpretation of Part 3[^key-45186e94f9e95a3974a753d60c4f06b8]
+## 83. Interpretation of Part 3[^c-45186e94f9e95a3974a753d60c4f06b8]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
   - (b) a community or foundation special school not established in a hospital;
 - “**post-16 institution**” means an institution which—
   - (a) provides education or training for those over compulsory school age, but
-  - (b) is not a school or other institution which is within the higher education sector and which is solely or principally concerned with the provision of[^key-a15e1a236f04dcc140e6314dc5980248] higher education;
+  - (b) is not a school or other institution which is within the higher education sector and which is solely or principally concerned with the provision of[^c-a15e1a236f04dcc140e6314dc5980248] higher education;
 - “**proprietor**”, in relation to an institution that is not a school, means the person or body of persons responsible for the management of the institution;
 - “**relevant early years education**” has the meaning given by section 123 of SSFA 1998;
 - “**relevant youth accommodation**” has the meaning given by section 70(5);
@@ -74,14 +74,14 @@ and “educational” and “educate” (and other related terms) are to be read
 
 is to such a school within the meaning of SSFA 1998.
 
-(6) A reference in this Part to a child or young person who is “in the area” of a local authority in England does not include a child or young person who is wholly or mainly resident in the area of a local authority in Wales or who would be wholly or mainly resident in the area of a local authority in Wales were it not for provision secured for the child or young person under Part 2 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018[^key-b65e4297cc38359750f93cc6d2da9700].
+(6) A reference in this Part to a child or young person who is “in the area” of a local authority in England does not include a child or young person who is wholly or mainly resident in the area of a local authority in Wales or who would be wholly or mainly resident in the area of a local authority in Wales were it not for provision secured for the child or young person under Part 2 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018[^c-b65e4297cc38359750f93cc6d2da9700].
 
 (7) EA 1996 and the preceding provisions of this Part (except so far as they amend other Acts) are to be read as if those provisions were contained in EA 1996.
 
 ## Annotations
 
-[^key-45186e94f9e95a3974a753d60c4f06b8]: Commencement: S. 83 in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505) and (1.9.2015) by [S.I. 2015/1619](https://www.legislation.gov.uk/uksi/2015/1619))
+[^c-45186e94f9e95a3974a753d60c4f06b8]: Commencement: S. 83 in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505) and (1.9.2015) by [S.I. 2015/1619](https://www.legislation.gov.uk/uksi/2015/1619))
 
-[^key-a15e1a236f04dcc140e6314dc5980248]: Textual amendment: Words in s. 83(2) substituted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/1027/regulation/13)
+[^c-a15e1a236f04dcc140e6314dc5980248]: Textual amendment: Words in s. 83(2) substituted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/1027/regulation/13)
 
-[^key-b65e4297cc38359750f93cc6d2da9700]: Textual amendment: Words in s. 83(6) inserted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 23(5)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/23/5); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxviii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxviii)
+[^c-b65e4297cc38359750f93cc6d2da9700]: Textual amendment: Words in s. 83(6) inserted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 23(5)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/23/5); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxviii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxviii)

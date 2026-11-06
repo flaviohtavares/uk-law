@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Whole life prisoners prohibited from forming a marriage[^key-a09abfd426e8fff0754f000646a864f5]
+## 75. Whole life prisoners prohibited from forming a marriage[^c-a09abfd426e8fff0754f000646a864f5]
 
 *Extent: E+W*
 
-(1)[^key-1e0975f1f6f2f93954b6bde922d7c200] After section 2 of the Marriage Act 1949 insert—
+(1)[^c-1e0975f1f6f2f93954b6bde922d7c200] After section 2 of the Marriage Act 1949 insert—
 
 > **2A. Marriages of whole life prisoners**
 >
@@ -47,7 +47,7 @@ summary: ''
 > - (c) before 18 December 2003 the person was notified in writing by the Secretary of State (otherwise than in a notice expressed to be provisional) that the Secretary of State does not intend that the person should ever be released on licence, and
 > - (d) an order has not been made in relation to the sentence under paragraph 3(1)(a) of Schedule 22 to the Criminal Justice Act 2003 (mandatory life sentences: transitional cases).
 
-(2)[^key-1e0975f1f6f2f93954b6bde922d7c200] In section 27ZA of the Marriage Act 1949 (circumstances in which a notice of marriage is not to be recorded in the marriage register), in paragraph (a), at the appropriate place insert—
+(2)[^c-1e0975f1f6f2f93954b6bde922d7c200] In section 27ZA of the Marriage Act 1949 (circumstances in which a notice of marriage is not to be recorded in the marriage register), in paragraph (a), at the appropriate place insert—
 
 > - section 27A(3A);
 
@@ -55,7 +55,7 @@ summary: ''
 
 (3) In section 27A of the Marriage Act 1949 (additional information required in certain cases)—
 
-- (a)[^key-4a1a85e5dcc32ac7440d7c95b322f4c3] in subsection (3) (case where marriage intended to be solemnized at detained person’s residence)—
+- (a)[^c-4a1a85e5dcc32ac7440d7c95b322f4c3] in subsection (3) (case where marriage intended to be solemnized at detained person’s residence)—
   - (i) omit the “and” at the end of paragraph (a);
   - (ii) at the end of paragraph (b) insert
 
@@ -64,19 +64,19 @@ summary: ''
     > - (c) stating whether the person is serving a life sentence and, if so, whether the person is subject to a whole life order.
 
     ;
-- (b)[^key-1e0975f1f6f2f93954b6bde922d7c200] after subsection (3) insert—
+- (b)[^c-1e0975f1f6f2f93954b6bde922d7c200] after subsection (3) insert—
 
   > (3A) Where the relevant person is a detained person who is serving a life sentence and is subject to a whole life order, each notice of marriage required by section 27 of this Act must also be accompanied by a statement made by the Secretary of State not more than twenty-one days before the date on which notice of the marriage is given under section 27 stating that the relevant person has the permission required by section 2A(2).
 
   ;
-- (c)[^key-1e0975f1f6f2f93954b6bde922d7c200] in subsection (6), for “or (as the case may be) (3)” substitute “, (3) or (3A)”;
-- (d)[^key-1e0975f1f6f2f93954b6bde922d7c200] in subsection (7), before the definition of “medical statement” insert—
+- (c)[^c-1e0975f1f6f2f93954b6bde922d7c200] in subsection (6), for “or (as the case may be) (3)” substitute “, (3) or (3A)”;
+- (d)[^c-1e0975f1f6f2f93954b6bde922d7c200] in subsection (7), before the definition of “medical statement” insert—
 
   > - “**life sentence**” and “whole life order” have the meanings given by section 2A(5) of this Act and section 2A(6) (persons treated as being subject to a whole life order) applies for the purposes of this section; and
 
   .
 
-(4)[^key-1e0975f1f6f2f93954b6bde922d7c200] In section 11(a) of the Matrimonial Causes Act 1973 (grounds on which a marriage is void), omit the “or” at the end of sub-paragraph (ii) and insert—
+(4)[^c-1e0975f1f6f2f93954b6bde922d7c200] In section 11(a) of the Matrimonial Causes Act 1973 (grounds on which a marriage is void), omit the “or” at the end of sub-paragraph (ii) and insert—
 
 > - (iia) the marriage is solemnized in contravention of section 2A of the Marriage Act 1949; or
 
@@ -84,8 +84,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a09abfd426e8fff0754f000646a864f5]: Commencement: S. 75 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-a09abfd426e8fff0754f000646a864f5]: Commencement: S. 75 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-1e0975f1f6f2f93954b6bde922d7c200]: Commencement: [S. 75(1)(2)(3)(b)-(d)](https://www.legislation.gov.uk/ukpga/2024/21/section/75/1/2/3/b)(4) in force at 2.8.2024 by [S.I. 2024/846](https://www.legislation.gov.uk/uksi/2024/846), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/846/regulation/2/a)
+[^c-1e0975f1f6f2f93954b6bde922d7c200]: Commencement: [S. 75(1)(2)(3)(b)-(d)](https://www.legislation.gov.uk/ukpga/2024/21/section/75/1/2/3/b)(4) in force at 2.8.2024 by [S.I. 2024/846](https://www.legislation.gov.uk/uksi/2024/846), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/846/regulation/2/a)
 
-[^key-4a1a85e5dcc32ac7440d7c95b322f4c3]: Commencement: [S. 75(3)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/75/3/a) in force at 27.5.2025 by [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2025/441/regulation/4/a)
+[^c-4a1a85e5dcc32ac7440d7c95b322f4c3]: Commencement: [S. 75(3)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/75/3/a) in force at 27.5.2025 by [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2025/441/regulation/4/a)

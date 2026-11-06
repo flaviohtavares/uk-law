@@ -24,23 +24,23 @@ summary: ''
 
 Regulation 11
 
-**1.**[^key-331ec65cafe46f4c30c8bb5eb330cf8f] In this Schedule “material” means “material intended for use as a feeding stuff”, and any reference to a numbered Part is a reference to the Part bearing that number in the Table to this Schedule.
+**1.**[^c-331ec65cafe46f4c30c8bb5eb330cf8f] In this Schedule “material” means “material intended for use as a feeding stuff”, and any reference to a numbered Part is a reference to the Part bearing that number in the Table to this Schedule.
 
-**2.**[^key-4bd6647b21a11fb03de15ebfd476045e] No material shall contain any added antioxidant named or described in columns 2 and 3 of Part I unless, taking into account any such antioxidant which is naturally present, the maximum content (if any) specified in relation thereto in column 4 of that Part is not exceeded.
+**2.**[^c-4bd6647b21a11fb03de15ebfd476045e] No material shall contain any added antioxidant named or described in columns 2 and 3 of Part I unless, taking into account any such antioxidant which is naturally present, the maximum content (if any) specified in relation thereto in column 4 of that Part is not exceeded.
 
-**3.**[^key-d5e1d4faea8909d30d907afc122a56ad] No material shall contain any added colourant named or described in columns 2 and 3 of Part II unless—
+**3.**[^c-d5e1d4faea8909d30d907afc122a56ad] No material shall contain any added colourant named or described in columns 2 and 3 of Part II unless—
 
 - (a) the material is intended for a species or category of animal listed opposite the colourant in question in column 4 of that Part;
 - (b) taking into account any such colourant as is naturally present, the maximum content (if any) specified in relation thereto in column 5 of that Part is not exceeded; and
 - (c) the material complies with the conditions (if any) specified in relation thereto in column 6 of that Part.
 
-**4.**[^key-df7eeed6043f5f3acc92d1a8a82da4f9] No material shall contain any added emulsifier, stabiliser, thickener or gelling agent named or described in column 2 of Chapter B of Part III unless—
+**4.**[^c-df7eeed6043f5f3acc92d1a8a82da4f9] No material shall contain any added emulsifier, stabiliser, thickener or gelling agent named or described in column 2 of Chapter B of Part III unless—
 
 - (a) that material is intended for a species or category of animal listed opposite the substance in question in column 3 of that Chapter;
 - (b) taking into account any such substance which is naturally present, the maximum content (if any) specified in relation thereto in column 4 of that Chapter is not exceeded; and
 - (c) the material complies with any conditions specified in relation thereto in column 5 of that Chapter.
 
-**5.**[^key-1783ac30633890d8591f161ad8b93c2b] (1) Any material may contain any added vitamin (not being vitamin A, D<sub>2</sub> or D<sub>3</sub>) or any pro-vitamin or chemically well defined substance having a similar effect.
+**5.**[^c-1783ac30633890d8591f161ad8b93c2b] (1) Any material may contain any added vitamin (not being vitamin A, D<sub>2</sub> or D<sub>3</sub>) or any pro-vitamin or chemically well defined substance having a similar effect.
 
 (2) No material may contain any added vitamin A, D<sub>2</sub> or D<sub>3</sub> unless—
 
@@ -48,32 +48,32 @@ Regulation 11
 - (b) taking into account any such vitamin as is naturally present, the maximum content (if any) specified in relation thereto in column 4 of that Part is not exceeded; and
 - (c) the material complies with the conditions (if any) specified in relation thereto in column 5 of that Part.
 
-**6.**[^key-ccaf4ae0fa64bc87c2d401f872585a2b] (1) No material shall contain any added trace element identified in column 2 of Part V and coming from a source specified in relation to it in columns 3 and 4 of Part V in proportions which, taking into account of any such trace element which is naturally present, exceed the maximum content specified in relation thereto in column 6 of that Part.
+**6.**[^c-ccaf4ae0fa64bc87c2d401f872585a2b] (1) No material shall contain any added trace element identified in column 2 of Part V and coming from a source specified in relation to it in columns 3 and 4 of Part V in proportions which, taking into account of any such trace element which is naturally present, exceed the maximum content specified in relation thereto in column 6 of that Part.
 
 (2) No material shall contain any added trace element so identified, from a source so specified, unless the material is for a species or category of animal listed opposite the source in question in column 5 of that Part.
 
 (3) No material shall contain any added trace element so identified and from a source so specified which does not comply with the conditions (if any) specified in respect of that source in column 7 of that Part.
 
-**7.**[^key-aecf1a09dac45e4a9d3cde7f3e231221] No material shall contain—
+**7.**[^c-aecf1a09dac45e4a9d3cde7f3e231221] No material shall contain—
 
 - (a) any added aromatic or appetising substance named or described in column 2 of Part VI (or, as the case may be, columns 2 and 3 of that Part) which, taking account of any such substance which is naturally present, exceeds the maximum content (if any) specified in relation thereto in column 6 of that Part; or
 - (b) any added aromatic or appetising substance so named or described unless the material is for a species or category of animal listed opposite the substance in question in column 4 of that Part and the animal concerned is of an age no greater than that (if any) specified in column 5 of that Part.
 
-**8.**[^key-a8446044efbfd2e6c7fc287df6febe07] (1) No material shall contain any added preservative named or described in columns 2 and 3 of Chapter A of Part VII, unless the material complies with the conditions (if any) specified in relation thereto in column 4 of that Chapter.
+**8.**[^c-a8446044efbfd2e6c7fc287df6febe07] (1) No material shall contain any added preservative named or described in columns 2 and 3 of Chapter A of Part VII, unless the material complies with the conditions (if any) specified in relation thereto in column 4 of that Chapter.
 
 (2) No material shall contain any added preservative specified in columns 2 and 3 of Chapter B of Part VII which, taking into account any such preservative which is naturally present, exceeds, the maximum content specified in relation thereto in column 5.
 
 (3) No material shall contain any added preservative specified in columns 2 and 3 of Chapter B of Part VII unless the material is for a species or category of animal listed opposite the preservative in question in column 4 of that Chapter, and is used in accordance with the specifications, if any, laid down in respect of it in columns 5 to 7 thereof.
 
-**9.**[^key-5e70d65a124df5359a047fbdc5c80142] No material shall contain any acidity regulator, except that material intended for use as a pet food for dogs or cats may contain any of the acidity regulators named in Part VIII.
+**9.**[^c-5e70d65a124df5359a047fbdc5c80142] No material shall contain any acidity regulator, except that material intended for use as a pet food for dogs or cats may contain any of the acidity regulators named in Part VIII.
 
-**10.**[^key-8077aaa5562715be1cff350cc08506f1] Unless otherwise stated, any maximum or minimum specified for the content in any feeding stuff of any additive, in the relevant Part of Parts I to VIII[^f00044], or in the relevant European Community Regulation specified in Part IX[^f00044], is so specified by reference to a complete feeding stuff with a moisture content of 12%.
+**10.**[^c-8077aaa5562715be1cff350cc08506f1] Unless otherwise stated, any maximum or minimum specified for the content in any feeding stuff of any additive, in the relevant Part of Parts I to VIII[^f00044], or in the relevant European Community Regulation specified in Part IX[^f00044], is so specified by reference to a complete feeding stuff with a moisture content of 12%.
 
-**11.**[^key-8bcf08f3afd6eec41e130ae24d417c1e] The second paragraph of Article 9q1 of the Additives Directive shall have effect in relation to any additive covered by a European Community Regulation specified in Part IX.
+**11.**[^c-8bcf08f3afd6eec41e130ae24d417c1e] The second paragraph of Article 9q1 of the Additives Directive shall have effect in relation to any additive covered by a European Community Regulation specified in Part IX.
 
 ### Table — Additives controlled by the additives directive
 
-### Part I — Permitted Antioxidants<sup>(1)</sup>[^key-4eb0dc43ddac6053a047e4cf8ea6fe15]
+### Part I — Permitted Antioxidants<sup>(1)</sup>[^c-4eb0dc43ddac6053a047e4cf8ea6fe15]
 
 <table>
 <thead>
@@ -99,7 +99,7 @@ Regulation 11
 </tbody>
 </table>
 
-### Part II — Permitted Colourants[^key-fa00087860d577fffdd10d08ed16b75f]
+### Part II — Permitted Colourants[^c-fa00087860d577fffdd10d08ed16b75f]
 
 <table>
 <thead>
@@ -224,7 +224,7 @@ Regulation 11
 </tbody>
 </table>
 
-### Part IV — Vitamins A, D<sub>2</sub> AND D<sub>3</sub>[^key-9bb64f443c2aab83da5f055a00d7278f]
+### Part IV — Vitamins A, D<sub>2</sub> AND D<sub>3</sub>[^c-9bb64f443c2aab83da5f055a00d7278f]
 
 <table>
 <thead>
@@ -263,7 +263,7 @@ Regulation 11
 </tbody>
 </table>
 
-### Part V — Trace Elements<sup>(1)</sup>[^key-81c3d92176fcd73148930d517c5ca71e]
+### Part V — Trace Elements<sup>(1)</sup>[^c-81c3d92176fcd73148930d517c5ca71e]
 
 <table>
 <thead>
@@ -317,7 +317,7 @@ Regulation 11
 </tbody>
 </table>
 
-### Part VI — Aromatic and appetising substances[^key-d0688752b902ba282bb03e81aa989109]
+### Part VI — Aromatic and appetising substances[^c-d0688752b902ba282bb03e81aa989109]
 
 <table>
 <thead>
@@ -408,7 +408,7 @@ Regulation 11
 </tbody>
 </table>
 
-### Part VIII — Permitted acidity regulators for pet foods for dogs and cats[^key-7504820de9f9ed4481bf04a6247d0040]
+### Part VIII — Permitted acidity regulators for pet foods for dogs and cats[^c-7504820de9f9ed4481bf04a6247d0040]
 
 <table>
 <thead>
@@ -451,7 +451,7 @@ Regulation 11
 </tbody>
 </table>
 
-### Part IX — European Community Regulations by which additives are controlled[^key-5eb15411bd3e033f3dbf667d86a396e1][^f00046]
+### Part IX — European Community Regulations by which additives are controlled[^c-5eb15411bd3e033f3dbf667d86a396e1][^f00046]
 
 - Commission Regulation [(EC) No. 2316/98](https://www.legislation.gov.uk/european/regulation/1998/2316) concerning authorisation of new additives and amending the conditions for authorisation of a number of additives already authorised in feeding stuffs[^f00047]
 - Commission Regulation [(EC) No. 2785/98](https://www.legislation.gov.uk/european/regulation/1998/2785) concerning the modification of the period of authorisation of additives referred to in Article 9(e)(3) of Council Directive [70/524/EEC](https://www.legislation.gov.uk/european/directive/1970/0524)[^f00048]
@@ -461,45 +461,45 @@ Regulation 11
 
 ## Annotations
 
-[^key-331ec65cafe46f4c30c8bb5eb330cf8f]: Commencement: Sch. 3 para. 1 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-331ec65cafe46f4c30c8bb5eb330cf8f]: Commencement: Sch. 3 para. 1 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-4bd6647b21a11fb03de15ebfd476045e]: Commencement: Sch. 3 para. 2 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-4bd6647b21a11fb03de15ebfd476045e]: Commencement: Sch. 3 para. 2 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-d5e1d4faea8909d30d907afc122a56ad]: Commencement: Sch. 3 para. 3 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-d5e1d4faea8909d30d907afc122a56ad]: Commencement: Sch. 3 para. 3 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-df7eeed6043f5f3acc92d1a8a82da4f9]: Commencement: Sch. 3 para. 4 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-df7eeed6043f5f3acc92d1a8a82da4f9]: Commencement: Sch. 3 para. 4 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-1783ac30633890d8591f161ad8b93c2b]: Commencement: Sch. 3 para. 5 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-1783ac30633890d8591f161ad8b93c2b]: Commencement: Sch. 3 para. 5 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-ccaf4ae0fa64bc87c2d401f872585a2b]: Commencement: Sch. 3 para. 6 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-ccaf4ae0fa64bc87c2d401f872585a2b]: Commencement: Sch. 3 para. 6 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-aecf1a09dac45e4a9d3cde7f3e231221]: Commencement: Sch. 3 para. 7 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-aecf1a09dac45e4a9d3cde7f3e231221]: Commencement: Sch. 3 para. 7 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-a8446044efbfd2e6c7fc287df6febe07]: Commencement: Sch. 3 para. 8 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-a8446044efbfd2e6c7fc287df6febe07]: Commencement: Sch. 3 para. 8 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-5e70d65a124df5359a047fbdc5c80142]: Commencement: Sch. 3 para. 9 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-5e70d65a124df5359a047fbdc5c80142]: Commencement: Sch. 3 para. 9 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-8077aaa5562715be1cff350cc08506f1]: Commencement: Sch. 3 para. 10 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-8077aaa5562715be1cff350cc08506f1]: Commencement: Sch. 3 para. 10 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00044]: Footnote: Parts I to VIII relate only to additives covered by European Community Directives. Part IX relates only to additives covered by European Community Regulations
 
-[^key-8bcf08f3afd6eec41e130ae24d417c1e]: Commencement: Sch. 3 para. 11 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-8bcf08f3afd6eec41e130ae24d417c1e]: Commencement: Sch. 3 para. 11 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-4eb0dc43ddac6053a047e4cf8ea6fe15]: Commencement: Sch. 3 Pt. I in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-4eb0dc43ddac6053a047e4cf8ea6fe15]: Commencement: Sch. 3 Pt. I in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-fa00087860d577fffdd10d08ed16b75f]: Commencement: Sch. 3 Pt. II in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-fa00087860d577fffdd10d08ed16b75f]: Commencement: Sch. 3 Pt. II in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00045]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762)
 
-[^key-9bb64f443c2aab83da5f055a00d7278f]: Commencement: Sch. 3 Pt. IV in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-9bb64f443c2aab83da5f055a00d7278f]: Commencement: Sch. 3 Pt. IV in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-81c3d92176fcd73148930d517c5ca71e]: Commencement: Sch. 3 Pt. V in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-81c3d92176fcd73148930d517c5ca71e]: Commencement: Sch. 3 Pt. V in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-d0688752b902ba282bb03e81aa989109]: Commencement: Sch. 3 Pt. VI in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-d0688752b902ba282bb03e81aa989109]: Commencement: Sch. 3 Pt. VI in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-7504820de9f9ed4481bf04a6247d0040]: Commencement: Sch. 3 Pt. VIII in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-7504820de9f9ed4481bf04a6247d0040]: Commencement: Sch. 3 Pt. VIII in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-5eb15411bd3e033f3dbf667d86a396e1]: Commencement: Sch. 3 Pt. IX in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-5eb15411bd3e033f3dbf667d86a396e1]: Commencement: Sch. 3 Pt. IX in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00046]: Footnote: Certain of the listed Regulations relate to categories of additive which also include additives controlled by the Additives Directive, and which are thus listed in the relevant Part of Parts I to VIII of the Table to this Schedule. (eg. the preservative formic acid is covered by Regulation 1594/1999 (above), whereas certain other preservatives are covered by Part VII of the Table.)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Connections between the register and birth records[^key-b5ecd6014e13c0d9f4dba423ca6215e2]
+## 78. Connections between the register and birth records[^c-b5ecd6014e13c0d9f4dba423ca6215e2]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ the Registrar General must inform the applicant whether or not it appears from i
 
 ## Annotations
 
-[^key-b5ecd6014e13c0d9f4dba423ca6215e2]: Commencement: S. 78 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-b5ecd6014e13c0d9f4dba423ca6215e2]: Commencement: S. 78 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257PE. Power to amend Chapter[^key-aaf10c7dc329529b2ca19087f01e69e7]
+## 257PE. Power to amend Chapter[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Treasury may by order amend this Chapter.
 
-(2)[^key-0f5564b210c7c38fd5205163117c4aa0] An order under this section may include consequential, incidental or transitional provision or savings, including consequential amendments, repeals or revocations of provision made by or under an enactment (including this Act) whenever passed or made.
+(2)[^c-0f5564b210c7c38fd5205163117c4aa0] An order under this section may include consequential, incidental or transitional provision or savings, including consequential amendments, repeals or revocations of provision made by or under an enactment (including this Act) whenever passed or made.
 
 (3) An order under this section may make different provision for different cases or purposes.
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
+[^c-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
 
-[^key-0f5564b210c7c38fd5205163117c4aa0]: Modification: S. 257PE(2) modified by 1992 c. 12, Sch. 8B para. 8(2) (as inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/12/paragraph/3))
+[^c-0f5564b210c7c38fd5205163117c4aa0]: Modification: S. 257PE(2) modified by 1992 c. 12, Sch. 8B para. 8(2) (as inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/12/paragraph/3))

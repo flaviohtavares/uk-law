@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.32. Notice requiring statement of affairs[^key-bf9316a2abdbc04ab7def54166f1b0ca]
+## 4.32. Notice requiring statement of affairs[^c-bf9316a2abdbc04ab7def54166f1b0ca]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf9316a2abdbc04ab7def54166f1b0ca]: Commencement: [Rule 4.32](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.32) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-bf9316a2abdbc04ab7def54166f1b0ca]: Commencement: [Rule 4.32](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.32) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00044]: Marginal citation: \[FORM 4.16\]

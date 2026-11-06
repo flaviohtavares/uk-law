@@ -46,24 +46,24 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 10(10)(b) of the Immigration and Asylum Act 1999[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-1c76067c1d3902df6cd1a7cbbf176801]
+## 1. Citation, commencement and interpretation[^c-1c76067c1d3902df6cd1a7cbbf176801]
 
 These Regulations may be cited as the Immigration (Removal of Family Members) Regulations 2014 and come into force on 14th November 2014.
 
-**2.**[^key-37fe81abe3f0038fef66bed8e9bd2f9f] In these Regulations—
+**2.**[^c-37fe81abe3f0038fef66bed8e9bd2f9f] In these Regulations—
 
 - “the Act” means the Immigration and Asylum Act 1999;
 - “family member” means a person who meets the conditions set out in section 10(3), (4) and (5) of the Act;
-- “P” means a person who is liable to be or has been removed from the United Kingdom under section 10[^key-b530db571a09e60863224941ed6c7553] of the Act.
+- “P” means a person who is liable to be or has been removed from the United Kingdom under section 10[^c-b530db571a09e60863224941ed6c7553] of the Act.
 
-## 3. Giving of notice to a family member[^key-63d4bc1f913aab5a17578a5b990fede2]
+## 3. Giving of notice to a family member[^c-63d4bc1f913aab5a17578a5b990fede2]
 
 A notice given to a family member in accordance with section 10(2) of the Act may be given—
 
 - (a) at any time prior to P’s removal, or
 - (b) during the period of eight weeks beginning with the date on which P is removed.
 
-## 4. Service of notice[^key-e37ef02c2fe016b2642ac92c6412591c]
+## 4. Service of notice[^c-e37ef02c2fe016b2642ac92c6412591c]
 
 (1) A notice given to a family member in accordance with section 10(2) of the Act may be—
 
@@ -115,14 +115,14 @@ These Regulations make provision under section 10(10)(b) of the Immigration and 
 
 [^f00001]: Footnote: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33), as amended by section 1 of the Immigration Act [2014 (c.22)](https://www.legislation.gov.uk/ukpga/2014/22).
 
-[^key-1c76067c1d3902df6cd1a7cbbf176801]: Commencement: Reg. 1 in force at 14.11.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2816/regulation/1)
+[^c-1c76067c1d3902df6cd1a7cbbf176801]: Commencement: Reg. 1 in force at 14.11.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2816/regulation/1)
 
-[^key-37fe81abe3f0038fef66bed8e9bd2f9f]: Commencement: Reg. 2 in force at 14.11.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2816/regulation/1)
+[^c-37fe81abe3f0038fef66bed8e9bd2f9f]: Commencement: Reg. 2 in force at 14.11.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2816/regulation/1)
 
-[^key-b530db571a09e60863224941ed6c7553]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2816/regulation/2) substituted (20.11.2023) by [The Nationality and Borders Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/1129)](https://www.legislation.gov.uk/uksi/2023/1129), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1129/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/1129/regulation/2/2)
+[^c-b530db571a09e60863224941ed6c7553]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2816/regulation/2) substituted (20.11.2023) by [The Nationality and Borders Act 2022 (Consequential Amendments) Regulations 2023 (S.I. 2023/1129)](https://www.legislation.gov.uk/uksi/2023/1129), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1129/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/1129/regulation/2/2)
 
-[^key-63d4bc1f913aab5a17578a5b990fede2]: Commencement: Reg. 3 in force at 14.11.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2816/regulation/1)
+[^c-63d4bc1f913aab5a17578a5b990fede2]: Commencement: Reg. 3 in force at 14.11.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2816/regulation/1)
 
-[^key-e37ef02c2fe016b2642ac92c6412591c]: Commencement: Reg. 4 in force at 14.11.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2816/regulation/1)
+[^c-e37ef02c2fe016b2642ac92c6412591c]: Commencement: Reg. 4 in force at 14.11.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/2816/regulation/1)
 
 [^f00002]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Provision of information[^key-3ecaeaa90bd39d9e2e3ba6440bed9c36]
+## 25. Provision of information[^c-3ecaeaa90bd39d9e2e3ba6440bed9c36]
 
 *Extent: N.I.*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ecaeaa90bd39d9e2e3ba6440bed9c36]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2015/9/section/25) in force at 1.6.2015 by [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/a)
+[^c-3ecaeaa90bd39d9e2e3ba6440bed9c36]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2015/9/section/25) in force at 1.6.2015 by [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(1)(a)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/1/a)

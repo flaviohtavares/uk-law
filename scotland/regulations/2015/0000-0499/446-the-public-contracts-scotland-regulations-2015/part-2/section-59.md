@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Selection criteria[^key-40b03aa9be1ce4b3ec67a1433432ae8a]
+## 59. Selection criteria[^c-40b03aa9be1ce4b3ec67a1433432ae8a]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (4) All requirements must be related and proportionate to the subject-matter of the contract.
 
-(5)[^key-fb5614719f320649a70d3c5ffa58c08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-fb5614719f320649a70d3c5ffa58c08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In procurement procedures for services, in so far as economic operators have to possess a particular authorisation or to be a member of a particular organisation in order to be able to perform in their country of origin the service concerned, a contracting authority may require them to prove that they hold such authorisation or membership.
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-40b03aa9be1ce4b3ec67a1433432ae8a]: Modification: [Regs. 58-62](https://www.legislation.gov.uk/ssi/2015/446/regulation/58) modified (18.4.2016) by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [regs. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [78(5)](https://www.legislation.gov.uk/ssi/2016/49/regulation/78/5)
+[^c-40b03aa9be1ce4b3ec67a1433432ae8a]: Modification: [Regs. 58-62](https://www.legislation.gov.uk/ssi/2015/446/regulation/58) modified (18.4.2016) by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [regs. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [78(5)](https://www.legislation.gov.uk/ssi/2016/49/regulation/78/5)
 
-[^key-fb5614719f320649a70d3c5ffa58c08a]: Textual amendment: [Reg. 59(5)](https://www.legislation.gov.uk/ssi/2015/446/regulation/59/5) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(41)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/41) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-fb5614719f320649a70d3c5ffa58c08a]: Textual amendment: [Reg. 59(5)](https://www.legislation.gov.uk/ssi/2015/446/regulation/59/5) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(41)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/41) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

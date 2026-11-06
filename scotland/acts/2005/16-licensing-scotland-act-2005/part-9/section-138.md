@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 138. Police powers of entry[^key-a058660529c077fac7875a29893e2a20]
+## 138. Police powers of entry[^c-a058660529c077fac7875a29893e2a20]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ at any time enter and inspect any premises (other than licensed premises) on whi
 
 ## Annotations
 
-[^key-a058660529c077fac7875a29893e2a20]: Commencement: S. 138 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-a058660529c077fac7875a29893e2a20]: Commencement: S. 138 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

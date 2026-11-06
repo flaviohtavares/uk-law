@@ -87,7 +87,7 @@ then the owner who made the claim under paragraph (23) must be treated as the ow
 - (a) it appears to the custodian that more than one person is the owner of the motor vehicle; and
 - (b) neither paragraph (13) nor paragraph (14) applies,
 
-then those persons must be treated as jointly and severally liable[^key-f6a2c1963d982adce9f636d6a58e3748] for the prescribed charges.
+then those persons must be treated as jointly and severally liable[^c-f6a2c1963d982adce9f636d6a58e3748] for the prescribed charges.
 
 (16) Penalty charges in respect of the removal, storage and disposal of vehicles imposed by a statement of charges published under article 54(5) (power to charge for use of the tunnels) apply to the removal, storage and disposal of motor vehicles under this article.
 
@@ -126,7 +126,7 @@ then those persons must be treated as jointly and severally liable[^key-f6a2c196
 
 [^c22957591]: Marginal citation: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
 
-[^key-f6a2c1963d982adce9f636d6a58e3748]: Textual amendment: Word in [art. 44(15)](https://www.legislation.gov.uk/uksi/2018/574/article/44/15) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2019/413/article/2/7)
+[^c-f6a2c1963d982adce9f636d6a58e3748]: Textual amendment: Word in [art. 44(15)](https://www.legislation.gov.uk/uksi/2018/574/article/44/15) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2019/413/article/2/7)
 
 [^c22957601]: Marginal citation: [S.I. 2001/2313](https://www.legislation.gov.uk/uksi/2001/2313), as amended by [S.I. 2003/108](https://www.legislation.gov.uk/uksi/2003/108), [S.I](https://www.legislation.gov.uk/uksi/2003/108/section/I). 2008/1956 and [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683).
 

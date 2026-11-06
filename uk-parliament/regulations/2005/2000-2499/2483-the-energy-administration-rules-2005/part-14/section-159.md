@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 159. Documents issuing from Secretary of State[^key-50375fc97baf2727d971a4c306a7ead7]
+## 159. Documents issuing from Secretary of State[^c-50375fc97baf2727d971a4c306a7ead7]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ is conclusive evidence of the matters dealt with in the certificate.
 
 ## Annotations
 
-[^key-50375fc97baf2727d971a4c306a7ead7]: Commencement: Rule 159 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-50375fc97baf2727d971a4c306a7ead7]: Commencement: Rule 159 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

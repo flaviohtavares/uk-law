@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70A. Electronic invoicing[^key-01e89c3c1c6fbf8c1298b398053bef0b]
+## 70A. Electronic invoicing[^c-01e89c3c1c6fbf8c1298b398053bef0b]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01e89c3c1c6fbf8c1298b398053bef0b]: Textual amendment: [Reg. 70A](https://www.legislation.gov.uk/ssi/2015/446/regulation/70A) inserted (18.4.2019 for specified purposes, 18.4.2020 in so far as not already in force) by [The Electronic Invoicing (Public Contracts etc.) Amendment (Scotland) Regulations 2019 (S.S.I. 2019/7)](https://www.legislation.gov.uk/ssi/2019/7), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/7/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2019/7/regulation/2/2)
+[^c-01e89c3c1c6fbf8c1298b398053bef0b]: Textual amendment: [Reg. 70A](https://www.legislation.gov.uk/ssi/2015/446/regulation/70A) inserted (18.4.2019 for specified purposes, 18.4.2020 in so far as not already in force) by [The Electronic Invoicing (Public Contracts etc.) Amendment (Scotland) Regulations 2019 (S.S.I. 2019/7)](https://www.legislation.gov.uk/ssi/2019/7), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/7/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2019/7/regulation/2/2)

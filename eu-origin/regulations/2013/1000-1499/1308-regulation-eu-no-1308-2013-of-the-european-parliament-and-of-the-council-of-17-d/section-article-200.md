@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-With regard to products of the beef and veal sector, the granting and the payment of the refund for exports of live animals shall be subject to compliance with the animal welfare requirements established in assimilated[^key-a2540da1e7b67839cfbc448116fcd1fb] law, and in particular with those for the protection of animals during transport.
+With regard to products of the beef and veal sector, the granting and the payment of the refund for exports of live animals shall be subject to compliance with the animal welfare requirements established in assimilated[^c-a2540da1e7b67839cfbc448116fcd1fb] law, and in particular with those for the protection of animals during transport.
 
 ## Annotations
 
-[^key-a2540da1e7b67839cfbc448116fcd1fb]: Textual amendment: Word in [Art. 200](https://www.legislation.gov.uk/eur/2013/1308/article/200) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 106(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/106/2/b)
+[^c-a2540da1e7b67839cfbc448116fcd1fb]: Textual amendment: Word in [Art. 200](https://www.legislation.gov.uk/eur/2013/1308/article/200) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 106(2)(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/106/2/b)

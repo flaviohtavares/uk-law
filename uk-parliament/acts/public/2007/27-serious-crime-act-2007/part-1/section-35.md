@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Proceedings in the High Court[^key-cd620e9badbc3d1dd0b2994e9164bebd]
+## 35. Proceedings in the High Court[^c-cd620e9badbc3d1dd0b2994e9164bebd]
 
 *Extent: E+W+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd620e9badbc3d1dd0b2994e9164bebd]: Commencement: S. 35 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/f)
+[^c-cd620e9badbc3d1dd0b2994e9164bebd]: Commencement: S. 35 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/f)

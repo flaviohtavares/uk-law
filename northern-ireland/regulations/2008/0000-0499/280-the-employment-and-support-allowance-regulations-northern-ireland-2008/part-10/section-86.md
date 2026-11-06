@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 86. Child support[^key-5947929a6a5f1f3d10f46943440604ee]
+## 86. Child support[^c-5947929a6a5f1f3d10f46943440604ee]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5947929a6a5f1f3d10f46943440604ee]: Textual amendment: [Reg. 86](https://www.legislation.gov.uk/nisr/2008/280/regulation/86) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/413)](https://www.legislation.gov.uk/nisr/2008/413), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1), [3(10)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/10)
+[^c-5947929a6a5f1f3d10f46943440604ee]: Textual amendment: [Reg. 86](https://www.legislation.gov.uk/nisr/2008/280/regulation/86) omitted (27.10.2008) by virtue of [The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/413)](https://www.legislation.gov.uk/nisr/2008/413), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1), [3(10)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/10)

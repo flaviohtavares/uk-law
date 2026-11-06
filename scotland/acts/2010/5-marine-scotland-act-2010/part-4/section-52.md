@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Orders under section 51: supplementary provisions[^key-40dc647c2e04b57f8d61f353696e1621]
+## 52. Orders under section 51: supplementary provisions[^c-40dc647c2e04b57f8d61f353696e1621]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ as the Scottish Ministers may determine.
 
 ## Annotations
 
-[^key-40dc647c2e04b57f8d61f353696e1621]: Commencement: S. 52 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-40dc647c2e04b57f8d61f353696e1621]: Commencement: S. 52 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

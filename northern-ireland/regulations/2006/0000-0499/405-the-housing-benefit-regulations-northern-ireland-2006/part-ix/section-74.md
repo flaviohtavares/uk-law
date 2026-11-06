@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Date on which entitlement is to commence[^key-0252d1d40371c4dfd617d4636283ef70]
+## 74. Date on which entitlement is to commence[^c-0252d1d40371c4dfd617d4636283ef70]
 
 *Extent: N.I.*
 
@@ -28,9 +28,9 @@ summary: ''
 
 - (a) he is otherwise entitled to housing benefit;
 - (b) paragraph (2) does not apply to him; and
-- (c)[^key-5c932038f99c095308e0c2f75f973f53] he becomes liable in that benefit week to make payments, which fall due on a daily basis, in respect of the accommodation specified in paragraph (4) which he occupies as his home.
+- (c)[^c-5c932038f99c095308e0c2f75f973f53] he becomes liable in that benefit week to make payments, which fall due on a daily basis, in respect of the accommodation specified in paragraph (4) which he occupies as his home.
 
-(4)[^key-83a34c138291b3f70d9811caf7e57dc0] The accommodation referred to in paragraph (3)(c) is—
+(4)[^c-83a34c138291b3f70d9811caf7e57dc0] The accommodation referred to in paragraph (3)(c) is—
 
 - (a) a hostel;
 - (b) board and lodging accommodation where the payments are to the Executive under Article 12(2) of the Housing (Northern Ireland) Order 1988;
@@ -46,8 +46,8 @@ but it does not include accommodation in a care home, an Abbeyfield Home, an ind
 
 ## Annotations
 
-[^key-0252d1d40371c4dfd617d4636283ef70]: Commencement: [Reg. 74](https://www.legislation.gov.uk/nisr/2006/405/regulation/74) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-0252d1d40371c4dfd617d4636283ef70]: Commencement: [Reg. 74](https://www.legislation.gov.uk/nisr/2006/405/regulation/74) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-5c932038f99c095308e0c2f75f973f53]: Textual amendment: [Reg. 74(3)(c)](https://www.legislation.gov.uk/nisr/2006/405/regulation/74/3/c) substituted (1.4.2007) by [The Housing Benefit (Daily Liability Entitlement) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/121)](https://www.legislation.gov.uk/nisr/2007/121), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/121/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2007/121/regulation/2/2/a)
+[^c-5c932038f99c095308e0c2f75f973f53]: Textual amendment: [Reg. 74(3)(c)](https://www.legislation.gov.uk/nisr/2006/405/regulation/74/3/c) substituted (1.4.2007) by [The Housing Benefit (Daily Liability Entitlement) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/121)](https://www.legislation.gov.uk/nisr/2007/121), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/121/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2007/121/regulation/2/2/a)
 
-[^key-83a34c138291b3f70d9811caf7e57dc0]: Textual amendment: [Reg. 74(4)](https://www.legislation.gov.uk/nisr/2006/405/regulation/74/4)[(5)](https://www.legislation.gov.uk/nisr/2006/405/regulation/74/5) added (1.4.2007) by [The Housing Benefit (Daily Liability Entitlement) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/121)](https://www.legislation.gov.uk/nisr/2007/121), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/121/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2007/121/regulation/2/2/b)
+[^c-83a34c138291b3f70d9811caf7e57dc0]: Textual amendment: [Reg. 74(4)](https://www.legislation.gov.uk/nisr/2006/405/regulation/74/4)[(5)](https://www.legislation.gov.uk/nisr/2006/405/regulation/74/5) added (1.4.2007) by [The Housing Benefit (Daily Liability Entitlement) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/121)](https://www.legislation.gov.uk/nisr/2007/121), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/121/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2007/121/regulation/2/2/b)

@@ -36,7 +36,7 @@ summary: ''
 - (d) section 36, and
 - (e) Part 5 of Schedule 1.
 
-(4) An order under section 15(6)[^key-74892078569517dd45344c654f417911]—
+(4) An order under section 15(6)[^c-74892078569517dd45344c654f417911]—
 
 - (a) may, in particular, make consequential amendment of an enactment (including this Act and including an enactment in or under an Act of the Scottish Parliament), and
 - (b) may not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74892078569517dd45344c654f417911]: Textual amendment: Words in [s. 39(4)](https://www.legislation.gov.uk/ukpga/2006/3/section/39/4) substituted (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 64(10)](https://www.legislation.gov.uk/ukpga/2013/24/section/64/10), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2)
+[^c-74892078569517dd45344c654f417911]: Textual amendment: Words in [s. 39(4)](https://www.legislation.gov.uk/ukpga/2006/3/section/39/4) substituted (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 64(10)](https://www.legislation.gov.uk/ukpga/2013/24/section/64/10), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 6 — Feedingstuffs[^key-3865c6ec030283241fbfa344ae65cb8c]
+## SCHEDULE 6 — Feedingstuffs[^c-3865c6ec030283241fbfa344ae65cb8c]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ the Scottish Ministers may pay compensation in accordance with sub-paragraph (4)
 
 ## Annotations
 
-[^key-3865c6ec030283241fbfa344ae65cb8c]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ssi/2010/177/schedule/6) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [reg. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2019/118/schedule)
+[^c-3865c6ec030283241fbfa344ae65cb8c]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ssi/2010/177/schedule/6) substituted (23.5.2019) by [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [reg. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2019/118/schedule)

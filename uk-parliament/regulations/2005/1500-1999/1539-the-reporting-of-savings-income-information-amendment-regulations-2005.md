@@ -36,7 +36,7 @@ CORPORATION TAX
 
 INCOME TAX
 
-The Reporting of Savings Income Information (Amendment) Regulations 2005 (revoked)[^key-fa7d2a793d27c5c103a55e6901e98c00]
+The Reporting of Savings Income Information (Amendment) Regulations 2005 (revoked)[^c-fa7d2a793d27c5c103a55e6901e98c00]
 
 Made
 
@@ -48,54 +48,54 @@ Laid before the House of Commons
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-fa7d2a793d27c5c103a55e6901e98c00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa7d2a793d27c5c103a55e6901e98c00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fa7d2a793d27c5c103a55e6901e98c00]
+## 1. Citation and commencement[^c-fa7d2a793d27c5c103a55e6901e98c00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Reporting of Savings Income Information Regulations 2003[^key-fa7d2a793d27c5c103a55e6901e98c00]
+## 2. Amendments to the Reporting of Savings Income Information Regulations 2003[^c-fa7d2a793d27c5c103a55e6901e98c00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-fa7d2a793d27c5c103a55e6901e98c00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa7d2a793d27c5c103a55e6901e98c00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa7d2a793d27c5c103a55e6901e98c00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fa7d2a793d27c5c103a55e6901e98c00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa7d2a793d27c5c103a55e6901e98c00]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fa7d2a793d27c5c103a55e6901e98c00]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1539) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-fa7d2a793d27c5c103a55e6901e98c00]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/1539) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)

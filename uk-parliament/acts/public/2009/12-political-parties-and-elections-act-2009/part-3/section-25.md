@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Disposal of election documents in Scotland[^key-7aa06b98a58bfae58cc60f932753b013]
+## 25. Disposal of election documents in Scotland[^c-7aa06b98a58bfae58cc60f932753b013]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ In the 1983 Act—
 
 ## Annotations
 
-[^key-7aa06b98a58bfae58cc60f932753b013]: Commencement: S. 25 in force at 26.3.2010 by [S.I. 2010/969](https://www.legislation.gov.uk/uksi/2010/969), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/969/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/969/article/3))
+[^c-7aa06b98a58bfae58cc60f932753b013]: Commencement: S. 25 in force at 26.3.2010 by [S.I. 2010/969](https://www.legislation.gov.uk/uksi/2010/969), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/969/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/969/article/3))

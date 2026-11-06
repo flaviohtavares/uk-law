@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-f155113e349b4232d2db38e8fe665436]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-f155113e349b4232d2db38e8fe665436]
 
 *Extent: E+W*
 
@@ -126,6 +126,6 @@ other works and development—
 
 ## Annotations
 
-[^key-f155113e349b4232d2db38e8fe665436]: Commencement: Sch. 1 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-f155113e349b4232d2db38e8fe665436]: Commencement: Sch. 1 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
 [^c24091511]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Saving provisions relating to procedures for making or approving legislation[^key-5f02e0c577dff0f1ffd43fb87735d0b5]
+## 6. Saving provisions relating to procedures for making or approving legislation[^c-5f02e0c577dff0f1ffd43fb87735d0b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ altering the procedure for making or approving rules, regulations or orders do n
 
 ## Annotations
 
-[^key-5f02e0c577dff0f1ffd43fb87735d0b5]: Commencement: Art. 6 in force at 14.5.2009, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/a)
+[^c-5f02e0c577dff0f1ffd43fb87735d0b5]: Commencement: Art. 6 in force at 14.5.2009, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/a)
 
 [^f00010]: Footnote: Section 51 has been amended by the National Health Service Reform and Health Care Professions Act [2002 (c.17)](https://www.legislation.gov.uk/ukpga/2002/17), Schedule 9, Part 2, and by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6A — Statements of Benefits: Collective Money Purchase Benefits[^key-b33d2e375cc1972075d44c30456385a5]
+## SCHEDULE 6A — Statements of Benefits: Collective Money Purchase Benefits[^c-b33d2e375cc1972075d44c30456385a5]
 
 *Extent: E+W+S*
 
@@ -32,15 +32,15 @@ Regulation 17A(2)
 
 **4.** An explanation of how the member may obtain further details about the information given under this Schedule.
 
-**5.**[^key-d85af1eef5dfe9be34748e8737618891] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d85af1eef5dfe9be34748e8737618891] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-38c088a223a4e5cceed25f5c1280588b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-38c088a223a4e5cceed25f5c1280588b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** Details of any deduction from the member’s benefits.
 
 **8.**  Where applicable, a statement that, if the member exercises rights or options to access benefits under the scheme before the member’s retirement date, the amount of the member’s benefits is likely to be lower.
 
-**9.**[^key-c9f0739f74ddf23623fc795bfc6dac39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c9f0739f74ddf23623fc795bfc6dac39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** A statement that illustrations of the amount of pension that may be payable to the member on the member’s retirement date—
 
@@ -77,7 +77,7 @@ Regulation 17A(2)
 **17.** Either—
 
 - (a) a summary of the methods and assumptions used to calculate—
-  - (i)[^key-2aa33c56ad7ff0aeacc56363a645d590] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-2aa33c56ad7ff0aeacc56363a645d590] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) the member’s future benefit illustrations, or
 - (b) a statement that such a summary is—
   - (i) provided in a specified annex, or
@@ -106,7 +106,7 @@ Regulation 17A(2)
 
 ### PART 4 — Information for active members
 
-**22.**[^key-e3b334a6247fdb6b071778183e8ebb02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-e3b334a6247fdb6b071778183e8ebb02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **23.** The amount, at the illustration date, of any benefits payable on the death of the member.
 
@@ -133,14 +133,14 @@ Regulation 17A(2)
 
 ## Annotations
 
-[^key-b33d2e375cc1972075d44c30456385a5]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/uksi/2013/2734/schedule/6A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(16)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/16)
+[^c-b33d2e375cc1972075d44c30456385a5]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/uksi/2013/2734/schedule/6A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [13(16)](https://www.legislation.gov.uk/uksi/2022/337/regulation/13/16)
 
-[^key-d85af1eef5dfe9be34748e8737618891]: Textual amendment: [Sch. 6A para. 5](https://www.legislation.gov.uk/uksi/2013/2734/schedule/6A/paragraph/5) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1113)](https://www.legislation.gov.uk/uksi/2025/1113), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/1/3), [4(7)(a)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/4/7/a)
+[^c-d85af1eef5dfe9be34748e8737618891]: Textual amendment: [Sch. 6A para. 5](https://www.legislation.gov.uk/uksi/2013/2734/schedule/6A/paragraph/5) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1113)](https://www.legislation.gov.uk/uksi/2025/1113), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/1/3), [4(7)(a)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/4/7/a)
 
-[^key-38c088a223a4e5cceed25f5c1280588b]: Textual amendment: [Sch. 6A para. 6](https://www.legislation.gov.uk/uksi/2013/2734/schedule/6A/paragraph/6) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1113)](https://www.legislation.gov.uk/uksi/2025/1113), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/1/3), [4(7)(a)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/4/7/a)
+[^c-38c088a223a4e5cceed25f5c1280588b]: Textual amendment: [Sch. 6A para. 6](https://www.legislation.gov.uk/uksi/2013/2734/schedule/6A/paragraph/6) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1113)](https://www.legislation.gov.uk/uksi/2025/1113), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/1/3), [4(7)(a)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/4/7/a)
 
-[^key-c9f0739f74ddf23623fc795bfc6dac39]: Textual amendment: [Sch. 6A para. 9](https://www.legislation.gov.uk/uksi/2013/2734/schedule/6A/paragraph/9) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1113)](https://www.legislation.gov.uk/uksi/2025/1113), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/1/3), [4(7)(a)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/4/7/a)
+[^c-c9f0739f74ddf23623fc795bfc6dac39]: Textual amendment: [Sch. 6A para. 9](https://www.legislation.gov.uk/uksi/2013/2734/schedule/6A/paragraph/9) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1113)](https://www.legislation.gov.uk/uksi/2025/1113), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/1/3), [4(7)(a)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/4/7/a)
 
-[^key-2aa33c56ad7ff0aeacc56363a645d590]: Textual amendment: [Sch. 6A para. 17(a)(i)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/6A/paragraph/17/a/i) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1113)](https://www.legislation.gov.uk/uksi/2025/1113), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/1/3), [4(7)(b)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/4/7/b)
+[^c-2aa33c56ad7ff0aeacc56363a645d590]: Textual amendment: [Sch. 6A para. 17(a)(i)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/6A/paragraph/17/a/i) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1113)](https://www.legislation.gov.uk/uksi/2025/1113), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/1/3), [4(7)(b)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/4/7/b)
 
-[^key-e3b334a6247fdb6b071778183e8ebb02]: Textual amendment: [Sch. 6A para. 22](https://www.legislation.gov.uk/uksi/2013/2734/schedule/6A/paragraph/22) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1113)](https://www.legislation.gov.uk/uksi/2025/1113), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/1/3), [4(7)(a)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/4/7/a)
+[^c-e3b334a6247fdb6b071778183e8ebb02]: Textual amendment: [Sch. 6A para. 22](https://www.legislation.gov.uk/uksi/2013/2734/schedule/6A/paragraph/22) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1113)](https://www.legislation.gov.uk/uksi/2025/1113), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/1/3), [4(7)(a)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/4/7/a)

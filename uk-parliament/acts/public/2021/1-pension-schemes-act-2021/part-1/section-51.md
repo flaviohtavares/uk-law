@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Regulations[^c24459291][^key-1c0a0b4364ee71524f12621479b141da]
+## 51. Regulations[^c24459291][^c-1c0a0b4364ee71524f12621479b141da]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c24459291]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2021/1/section/51) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-1c0a0b4364ee71524f12621479b141da]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2021/1/section/51) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-1c0a0b4364ee71524f12621479b141da]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2021/1/section/51) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

@@ -46,13 +46,13 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 
 Regulation 5 is made with the consent of the Department of Finance[^f00008].
 
-## 1. Citation, commencement and interpretation[^key-8153aa01bb8d4802619435d5b3325ea1]
+## 1. Citation, commencement and interpretation[^c-8153aa01bb8d4802619435d5b3325ea1]
 
 (1) These Regulations may be cited as the Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations (Northern Ireland) 2024 and come into operation on 8th June 2024.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Closure of tax credits - migration of pension age claimants to universal credit[^key-af177ceda3ce27a36d8574fac1d5f903]
+## 2. Closure of tax credits - migration of pension age claimants to universal credit[^c-af177ceda3ce27a36d8574fac1d5f903]
 
 (1) The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^f00010] are amended in accordance with paragraphs (2) to (5).
 
@@ -129,7 +129,7 @@ Regulation 5 is made with the consent of the Department of Finance[^f00008].
 
 .
 
-## 3. Closure of tax credits – transitional protection in state pension credit[^key-d00b5c99703a4dc6260c0efb4edba36b]
+## 3. Closure of tax credits – transitional protection in state pension credit[^c-d00b5c99703a4dc6260c0efb4edba36b]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00016] are amended in accordance with paragraphs (2) to (5).
 
@@ -276,7 +276,7 @@ Regulation 5 is made with the consent of the Department of Finance[^f00008].
 
 .
 
-## 4. Supplementary provision relating to persons moving to state pension credit: time for claiming and part-week payments[^key-ce77cf08b16e613fa9419b8049111300]
+## 4. Supplementary provision relating to persons moving to state pension credit: time for claiming and part-week payments[^c-ce77cf08b16e613fa9419b8049111300]
 
 (1) Where a person who is not entitled to an award of state pension credit is issued with a tax credit closure notice then, notwithstanding anything in regulation 19(2) (time for claiming benefit) of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00026], the prescribed times for making a claim for state pension credit are as follows—
 
@@ -297,7 +297,7 @@ Regulation 5 is made with the consent of the Department of Finance[^f00008].
   - (b) where state pension credit is paid in arrears, the period of 7 days ending on the day on which, in the claimant’s case, that benefit would (if not for paragraph (2)) be payable; and
 - “**tax credit closure notice**” means a notice issued under Article 3A (tax credit closure notice) of the Welfare Reform Act 2012 (Commencement No. 32 and Savings and Transitional Provisions) Order 2019.
 
-## 5. Abolition of the two child limit for pension age housing benefit[^key-97c6b4112684127ff979aa631c5f8f5c]
+## 5. Abolition of the two child limit for pension age housing benefit[^c-97c6b4112684127ff979aa631c5f8f5c]
 
 In regulation 20 of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00028] (applicable amounts)—
 
@@ -306,7 +306,7 @@ In regulation 20 of the Housing Benefit (Persons who have attained the qualifyin
   - (ii) omit “and”;
 - (b) omit paragraphs (3) to (6)[^f00030].
 
-## 6. Amendments regarding the deferral of State Pension[^key-44e1fcbf8fd5e5e135fbe51463024474]
+## 6. Amendments regarding the deferral of State Pension[^c-44e1fcbf8fd5e5e135fbe51463024474]
 
 (1) In regulation 4(1) of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00031] (days to be treated as days of increment) at the end of sub-paragraph (b)(v)[^f00032] for “and” substitute—
 
@@ -390,11 +390,11 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00008]: Footnote: See section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8))](https://www.legislation.gov.uk/nisi/1993/1579); see also Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(4) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-8153aa01bb8d4802619435d5b3325ea1]: Commencement: Reg. 1 in operation at 8.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/119/regulation/1/1)
+[^c-8153aa01bb8d4802619435d5b3325ea1]: Commencement: Reg. 1 in operation at 8.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/119/regulation/1/1)
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-af177ceda3ce27a36d8574fac1d5f903]: Commencement: Reg. 2 in operation at 8.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/119/regulation/1/1)
+[^c-af177ceda3ce27a36d8574fac1d5f903]: Commencement: Reg. 2 in operation at 8.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/119/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 2016 No. 226](https://www.legislation.gov.uk/nisr/2016/226); relevant amending Regulations are by [S.R. 2019 No. 152](https://www.legislation.gov.uk/nisr/2019/152), [S.R. 2022 No. 194](https://www.legislation.gov.uk/nisr/2022/194) and [S.R. 2023 No. 3](https://www.legislation.gov.uk/nisr/2023/3)
 
@@ -408,7 +408,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00015]: Footnote: Regulation 61 was inserted by regulation 2(8) of [S.R. 2019 No. 152](https://www.legislation.gov.uk/nisr/2019/152) and amended by regulation 11 of [S.R. 2022 No. 194](https://www.legislation.gov.uk/nisr/2022/194)
 
-[^key-d00b5c99703a4dc6260c0efb4edba36b]: Commencement: Reg. 3 in operation at 8.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/119/regulation/1/1)
+[^c-d00b5c99703a4dc6260c0efb4edba36b]: Commencement: Reg. 3 in operation at 8.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/119/regulation/1/1)
 
 [^f00016]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); relevant amending Regulations are [S.R. 2006 No. 359](https://www.legislation.gov.uk/nisr/2006/359), [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396), [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69) and [S.R. 2018 No. 135](https://www.legislation.gov.uk/nisr/2018/135)
 
@@ -430,13 +430,13 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00025]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506); The definition of “court” was amended by paragraph 67 of Schedule 9 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4)
 
-[^key-ce77cf08b16e613fa9419b8049111300]: Commencement: Reg. 4 in operation at 8.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/119/regulation/1/1)
+[^c-ce77cf08b16e613fa9419b8049111300]: Commencement: Reg. 4 in operation at 8.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/119/regulation/1/1)
 
 [^f00026]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 19 was substituted by reg. 3(7) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
 
 [^f00027]: Footnote: Regulation 16A was inserted by regulation 7(2) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and amended by regulation 13(12) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286), regulation 3(4) of [S.R. 2010 No. 81](https://www.legislation.gov.uk/nisr/2010/81) and regulation 27(3) of [S.R. 2016 No. 236](https://www.legislation.gov.uk/nisr/2016/236)
 
-[^key-97c6b4112684127ff979aa631c5f8f5c]: Commencement: Reg. 5 in operation at 8.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/119/regulation/1/1)
+[^c-97c6b4112684127ff979aa631c5f8f5c]: Commencement: Reg. 5 in operation at 8.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/119/regulation/1/1)
 
 [^f00028]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); relevant amending Regulation is [S.R. 2017 No. 79](https://www.legislation.gov.uk/nisr/2017/79)
 
@@ -444,7 +444,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00030]: Footnote: Paragraphs (3) to (6) were inserted by regulation 7(2)(b) of [S.R. 2017 No. 79](https://www.legislation.gov.uk/nisr/2017/79)
 
-[^key-44e1fcbf8fd5e5e135fbe51463024474]: Commencement: Reg. 6 in operation at 8.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/119/regulation/1/1)
+[^c-44e1fcbf8fd5e5e135fbe51463024474]: Commencement: Reg. 6 in operation at 8.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/119/regulation/1/1)
 
 [^f00031]: Footnote: [S.R. 1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243); relevant amending Instrument is [S.I. 2023/1218](https://www.legislation.gov.uk/uksi/2023/1218)
 

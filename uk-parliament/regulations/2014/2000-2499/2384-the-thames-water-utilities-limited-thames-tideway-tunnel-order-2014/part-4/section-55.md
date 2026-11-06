@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Removal of consent requirements[^key-703827d9c6134718b7e886e8a761deb1]
+## 55. Removal of consent requirements[^c-703827d9c6134718b7e886e8a761deb1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 18 *(removal of consent requirements)* to this Order, which makes provi
 
 ## Annotations
 
-[^key-703827d9c6134718b7e886e8a761deb1]: Commencement: Art. 55 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-703827d9c6134718b7e886e8a761deb1]: Commencement: Art. 55 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

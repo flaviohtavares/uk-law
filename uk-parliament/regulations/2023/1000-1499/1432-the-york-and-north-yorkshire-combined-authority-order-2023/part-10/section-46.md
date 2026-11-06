@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Police, Fire and Crime Panel: oversight functions in relation to fire and rescue functions[^key-31b52553d074e45b400b99ae759fcd40]
+## 46. Police, Fire and Crime Panel: oversight functions in relation to fire and rescue functions[^c-31b52553d074e45b400b99ae759fcd40]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31b52553d074e45b400b99ae759fcd40]: Commencement: Art. 46 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-31b52553d074e45b400b99ae759fcd40]: Commencement: Art. 46 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

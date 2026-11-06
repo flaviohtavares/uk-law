@@ -22,9 +22,9 @@ summary: ''
 
 Section 89
 
-**1.**[^key-2e527982fefbf2a8d371100efc24d490] The Police Act 1996 is amended as follows.
+**1.**[^c-2e527982fefbf2a8d371100efc24d490] The Police Act 1996 is amended as follows.
 
-**2.**[^key-aafe2a5958f4b888f92d4d0a131d7188] (1) Section 23 (police force collaboration agreements) is amended in accordance with this paragraph.
+**2.**[^c-aafe2a5958f4b888f92d4d0a131d7188] (1) Section 23 (police force collaboration agreements) is amended in accordance with this paragraph.
 
 (2) In the title, for “**Police force collaboration agreements**” substitute “ **Collaboration agreements involving police forces** ”.
 
@@ -44,7 +44,7 @@ Section 89
 
 (8) Omit subsections (6), (7) and (8).
 
-**3.**[^key-90aee6fd92afa7f36c64283c3d293127] (1) Section 23A (police authority collaboration agreements) is amended in accordance with this paragraph.
+**3.**[^c-90aee6fd92afa7f36c64283c3d293127] (1) Section 23A (police authority collaboration agreements) is amended in accordance with this paragraph.
 
 (2) For the title substitute “ **Collaboration agreements involving policing bodies** ”.
 
@@ -79,7 +79,7 @@ Section 89
 
 (9) Omit subsection (7).
 
-**4.**[^key-f22ae9a0e097f41f65ec4f7329e3e272] (1) Section 23B (collaboration agreements: payments) is amended in accordance with this paragraph.
+**4.**[^c-f22ae9a0e097f41f65ec4f7329e3e272] (1) Section 23B (collaboration agreements: payments) is amended in accordance with this paragraph.
 
 (2) In subsection (1), for “relevant police authorities” substitute “ parties to the agreement ”.
 
@@ -92,7 +92,7 @@ Section 89
 
 (5) Omit subsections (4) and (5).
 
-**5.**[^key-d162a95194e9ad2e9dfe106fcd1bad89] (1) Section 23C (collaboration agreements: consultation and supplemental) is amended in accordance with this paragraph.
+**5.**[^c-d162a95194e9ad2e9dfe106fcd1bad89] (1) Section 23C (collaboration agreements: consultation and supplemental) is amended in accordance with this paragraph.
 
 (2) Omit subsection (1).
 
@@ -102,7 +102,7 @@ Section 89
 
 .
 
-**6.**[^key-68d60a73896d0bc32df4e7776d5ab222] (1) Section 23D (collaboration agreements: accountability) is amended as follows.
+**6.**[^c-68d60a73896d0bc32df4e7776d5ab222] (1) Section 23D (collaboration agreements: accountability) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -118,13 +118,13 @@ Section 89
 
 (5) In subsection (4), for “police authority” substitute “ policing body ”.
 
-**7.**[^key-50b5a3ff9f44d3550df55dbd806d8eaf] In section 23E (collaboration agreements: publication), in subsection (2), for the words before “must” substitute “ In a case where information is notified to a chief officer of police under section 23D(2), that information ”.
+**7.**[^c-50b5a3ff9f44d3550df55dbd806d8eaf] In section 23E (collaboration agreements: publication), in subsection (2), for the words before “must” substitute “ In a case where information is notified to a chief officer of police under section 23D(2), that information ”.
 
-**8.**[^key-2ca762f65e47afc9464187934ec0e98d] In section 23F (collaboration agreements: guidance), for “police authorities” (in each place) substitute “ policing bodies ”.
+**8.**[^c-2ca762f65e47afc9464187934ec0e98d] In section 23F (collaboration agreements: guidance), for “police authorities” (in each place) substitute “ policing bodies ”.
 
-**9.**[^key-131baeede666bcf7c565609534848574] In section 23G (collaboration agreements: directions), in subsections (1) and (2), for “police authorities” substitute “ policing bodies ”.
+**9.**[^c-131baeede666bcf7c565609534848574] In section 23G (collaboration agreements: directions), in subsections (1) and (2), for “police authorities” substitute “ policing bodies ”.
 
-**10.**[^key-5129695d50bc10413df33441ca4f1736] After section 23H insert—
+**10.**[^c-5129695d50bc10413df33441ca4f1736] After section 23H insert—
 
 > **23HA. Decisions about efficiency or effectiveness**
 >
@@ -136,7 +136,7 @@ Section 89
 
 .
 
-**11.**[^key-e0dba9f3d205043d792e55b14976fa0c] (1) Section 23I (collaboration agreements: definitions) is amended in accordance with this paragraph.
+**11.**[^c-e0dba9f3d205043d792e55b14976fa0c] (1) Section 23I (collaboration agreements: definitions) is amended in accordance with this paragraph.
 
 (2) In subsection (1), for “23” substitute “ 22A ”.
 
@@ -178,24 +178,24 @@ Section 89
 
 ## Annotations
 
-[^key-2e527982fefbf2a8d371100efc24d490]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/1) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-2e527982fefbf2a8d371100efc24d490]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/1) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-aafe2a5958f4b888f92d4d0a131d7188]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/2) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-aafe2a5958f4b888f92d4d0a131d7188]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/2) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-90aee6fd92afa7f36c64283c3d293127]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/3) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-90aee6fd92afa7f36c64283c3d293127]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/3) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-f22ae9a0e097f41f65ec4f7329e3e272]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/4) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-f22ae9a0e097f41f65ec4f7329e3e272]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/4) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-d162a95194e9ad2e9dfe106fcd1bad89]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/5) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-d162a95194e9ad2e9dfe106fcd1bad89]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/5) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-68d60a73896d0bc32df4e7776d5ab222]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/6) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-68d60a73896d0bc32df4e7776d5ab222]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/6) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-50b5a3ff9f44d3550df55dbd806d8eaf]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/7) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-50b5a3ff9f44d3550df55dbd806d8eaf]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/7) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-2ca762f65e47afc9464187934ec0e98d]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/8) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-2ca762f65e47afc9464187934ec0e98d]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/8) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-131baeede666bcf7c565609534848574]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/9) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-131baeede666bcf7c565609534848574]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/9) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-5129695d50bc10413df33441ca4f1736]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/10) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-5129695d50bc10413df33441ca4f1736]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/10) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-e0dba9f3d205043d792e55b14976fa0c]: Commencement: [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/11) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-e0dba9f3d205043d792e55b14976fa0c]: Commencement: [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/11) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

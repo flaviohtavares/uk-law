@@ -31,7 +31,7 @@ summary: ''
 
 Seeds
 
-The Seed Potatoes (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^key-42aa2bd28eac7abdd8dda458aebda8bb]
+The Seed Potatoes (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^c-42aa2bd28eac7abdd8dda458aebda8bb]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 20th January 2010
 
-[^key-42aa2bd28eac7abdd8dda458aebda8bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42aa2bd28eac7abdd8dda458aebda8bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-42aa2bd28eac7abdd8dda458aebda8bb]
+## 1. Title and commencement[^c-42aa2bd28eac7abdd8dda458aebda8bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Seed Potatoes Regulations (Northern Ireland) 2001[^key-42aa2bd28eac7abdd8dda458aebda8bb]
+## 2. Amendment of the Seed Potatoes Regulations (Northern Ireland) 2001[^c-42aa2bd28eac7abdd8dda458aebda8bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-42aa2bd28eac7abdd8dda458aebda8bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-42aa2bd28eac7abdd8dda458aebda8bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-42aa2bd28eac7abdd8dda458aebda8bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-42aa2bd28eac7abdd8dda458aebda8bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-42aa2bd28eac7abdd8dda458aebda8bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-42aa2bd28eac7abdd8dda458aebda8bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-42aa2bd28eac7abdd8dda458aebda8bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42aa2bd28eac7abdd8dda458aebda8bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-42aa2bd28eac7abdd8dda458aebda8bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42aa2bd28eac7abdd8dda458aebda8bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-42aa2bd28eac7abdd8dda458aebda8bb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/7) revoked (1.11.2010) by [The Seed Potatoes Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/350)](https://www.legislation.gov.uk/nisr/2010/350), [reg. 1](https://www.legislation.gov.uk/nisr/2010/350/regulation/1), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/nisr/2010/350/schedule/11/part/1)
+[^c-42aa2bd28eac7abdd8dda458aebda8bb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/7) revoked (1.11.2010) by [The Seed Potatoes Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/350)](https://www.legislation.gov.uk/nisr/2010/350), [reg. 1](https://www.legislation.gov.uk/nisr/2010/350/regulation/1), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/nisr/2010/350/schedule/11/part/1)

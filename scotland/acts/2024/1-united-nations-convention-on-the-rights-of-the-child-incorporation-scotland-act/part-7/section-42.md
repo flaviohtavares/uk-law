@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Interpretation[^key-dc4ffab32108a93dec6f122ffe8a2f9d][^key-dc4ffab32108a93dec6f122ffe8a2f9d]
+## 42. Interpretation[^c-dc4ffab32108a93dec6f122ffe8a2f9d][^c-dc4ffab32108a93dec6f122ffe8a2f9d]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc4ffab32108a93dec6f122ffe8a2f9d]: Commencement: S. 42 in force at 17.1.2024, see [s. 47(1)](https://www.legislation.gov.uk/asp/2024/1/section/47/1)
+[^c-dc4ffab32108a93dec6f122ffe8a2f9d]: Commencement: S. 42 in force at 17.1.2024, see [s. 47(1)](https://www.legislation.gov.uk/asp/2024/1/section/47/1)

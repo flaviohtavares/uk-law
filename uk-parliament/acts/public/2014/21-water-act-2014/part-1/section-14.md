@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-bc324dc28911e9bd991df333ad90e9f1] In section 32 of the Water Industry Act 1991 (duty to refer merger of water or sewerage undertaking), for “Subject to section 33 below,” there is substituted “ Subject to sections 33 and 33A below, ”.
+(1)[^c-bc324dc28911e9bd991df333ad90e9f1] In section 32 of the Water Industry Act 1991 (duty to refer merger of water or sewerage undertaking), for “Subject to section 33 below,” there is substituted “ Subject to sections 33 and 33A below, ”.
 
-(2)[^key-312ec5ece2a7ad912c634aa533d4b04c][^key-8c235a758dd0076945a2be1f6ea6dd8a] After section 33 (exclusion of small mergers) there is inserted—
+(2)[^c-312ec5ece2a7ad912c634aa533d4b04c][^c-8c235a758dd0076945a2be1f6ea6dd8a] After section 33 (exclusion of small mergers) there is inserted—
 
 > **33A. Exceptions to duty to make reference**
 >
@@ -78,7 +78,7 @@ summary: ''
 >
 > (4) The Authority must from time to time publish the statement as it has effect for the time being.
 
-(3)[^key-bc324dc28911e9bd991df333ad90e9f1] After section 33C (inserted by subsection (2)) there is inserted—
+(3)[^c-bc324dc28911e9bd991df333ad90e9f1] After section 33C (inserted by subsection (2)) there is inserted—
 
 > **33D. Undertakings in lieu of a merger reference**
 >
@@ -116,8 +116,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bc324dc28911e9bd991df333ad90e9f1]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/14/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/14/3) in force at 18.12.2015 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/d)
+[^c-bc324dc28911e9bd991df333ad90e9f1]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/14/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/14/3) in force at 18.12.2015 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/d)
 
-[^key-312ec5ece2a7ad912c634aa533d4b04c]: Commencement: [S. 14(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/14/2) in force at 6.4.2015 for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/a)
+[^c-312ec5ece2a7ad912c634aa533d4b04c]: Commencement: [S. 14(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/14/2) in force at 6.4.2015 for specified purposes by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/a)
 
-[^key-8c235a758dd0076945a2be1f6ea6dd8a]: Commencement: [S. 14(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/14/2) in force at 18.12.2015 in so far as not already in force by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/d)
+[^c-8c235a758dd0076945a2be1f6ea6dd8a]: Commencement: [S. 14(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/14/2) in force at 18.12.2015 in so far as not already in force by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Appointed day for provisions relating to public health protection[^key-9af32e45ccd684c266546fbc493af16c]
+## 3. Appointed day for provisions relating to public health protection[^c-9af32e45ccd684c266546fbc493af16c]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9af32e45ccd684c266546fbc493af16c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/462/article/3) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
+[^c-9af32e45ccd684c266546fbc493af16c]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/462/article/3) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
 
 [^f00006]: Footnote: [1984 c.22](https://www.legislation.gov.uk/ukpga/1984/22).

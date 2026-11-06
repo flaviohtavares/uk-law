@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 129. Annual rate of surviving adult’s pensions payable on death of pensioner member[^key-1deead5ab66312a7894508ce299f28e4]
+## 129. Annual rate of surviving adult’s pensions payable on death of pensioner member[^c-1deead5ab66312a7894508ce299f28e4]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1deead5ab66312a7894508ce299f28e4]: Commencement: Reg. 129 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-1deead5ab66312a7894508ce299f28e4]: Commencement: Reg. 129 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

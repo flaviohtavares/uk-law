@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Qualifying policies[^key-76db07e27e045dcbb7a8ce27e42865fc]
+## 47. Qualifying policies[^c-76db07e27e045dcbb7a8ce27e42865fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-76db07e27e045dcbb7a8ce27e42865fc]: Commencement: Art. 47 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-76db07e27e045dcbb7a8ce27e42865fc]: Commencement: Art. 47 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00053]: Footnote: Schedule 15 was relevantly amended by paragraph 19(6) of Schedule 9 to the Finance (No. 2) Act 1992.

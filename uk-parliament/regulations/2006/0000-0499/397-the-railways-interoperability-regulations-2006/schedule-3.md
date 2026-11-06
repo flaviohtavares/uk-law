@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — (This Schedule reproduces the provisions of Annex II to the High-Speed Directive)[^key-adbae295fdffc67d2bec56f123f909be]
+## SCHEDULE 3 — (This Schedule reproduces the provisions of Annex II to the High-Speed Directive)[^c-adbae295fdffc67d2bec56f123f909be]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Regulation 2(2)
 
-### SUBSYSTEMS OF THE TRANS-EUROPEAN HIGH-SPEED RAIL SYSTEM[^key-adbae295fdffc67d2bec56f123f909be]
+### SUBSYSTEMS OF THE TRANS-EUROPEAN HIGH-SPEED RAIL SYSTEM[^c-adbae295fdffc67d2bec56f123f909be]
 
-#### SUBSYSTEMS[^key-adbae295fdffc67d2bec56f123f909be]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 1. LIST OF SUBSYSTEMS[^key-adbae295fdffc67d2bec56f123f909be]
+#### SUBSYSTEMS[^c-adbae295fdffc67d2bec56f123f909be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. AREAS TO BE COVERED[^key-adbae295fdffc67d2bec56f123f909be]
+#### 1. LIST OF SUBSYSTEMS[^c-adbae295fdffc67d2bec56f123f909be]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 2. AREAS TO BE COVERED[^c-adbae295fdffc67d2bec56f123f909be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-adbae295fdffc67d2bec56f123f909be]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/397) revoked (16.1.2012) by [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [47(1)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3), [47(2)-(6)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/2))
+[^c-adbae295fdffc67d2bec56f123f909be]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2006/397) revoked (16.1.2012) by [The Railways (Interoperability) Regulations 2011 (S.I. 2011/3066)](https://www.legislation.gov.uk/uksi/2011/3066), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/1/2), [47(1)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3), [47(2)-(6)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/47/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. Adjudication of claims: general[^key-cf1d3db3fcf90e5353d5a8df104416b3]
+## 126. Adjudication of claims: general[^c-cf1d3db3fcf90e5353d5a8df104416b3]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf1d3db3fcf90e5353d5a8df104416b3]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2016/21/section/126) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-cf1d3db3fcf90e5353d5a8df104416b3]: Commencement: [S. 126](https://www.legislation.gov.uk/asp/2016/21/section/126) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

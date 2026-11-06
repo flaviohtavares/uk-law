@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Power to amend public service remit for television in the United Kingdom[^key-1793ae76f8153c0f39350a2bca40a4e0][^key-cb8f332afc6979ba162c8074aef79482]
+## 7. Power to amend public service remit for television in the United Kingdom[^c-1793ae76f8153c0f39350a2bca40a4e0][^c-cb8f332afc6979ba162c8074aef79482]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In section 271 of the Communications Act 2003 (power to amend the public service
 
 ## Annotations
 
-[^key-1793ae76f8153c0f39350a2bca40a4e0]: Commencement: S. 7 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-1793ae76f8153c0f39350a2bca40a4e0]: Commencement: S. 7 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-cb8f332afc6979ba162c8074aef79482]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2024/15/section/7) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/g)
+[^c-cb8f332afc6979ba162c8074aef79482]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2024/15/section/7) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/g)

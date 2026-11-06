@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Qualifying schemes[^key-761e78ea6cfa4d4a1b44b534353952a5]
+## 4. Qualifying schemes[^c-761e78ea6cfa4d4a1b44b534353952a5]
 
 *Extent: E+W+S*
 
-(1)[^key-f041f70b5228a74249bddea1d90a5349] The combinations of qualifying benefits described for the purposes of section 3(8) of the Act (qualifying schemes) are—
+(1)[^c-f041f70b5228a74249bddea1d90a5349] The combinations of qualifying benefits described for the purposes of section 3(8) of the Act (qualifying schemes) are—
 
 - (a) qualifying benefits in respect of which the rates or amounts by reference to which the qualifying benefits are provided each year under the scheme are different;
 - (b) qualifying benefits in respect of which the rates or amounts of contributions paid by the employer are different;
@@ -31,8 +31,8 @@ summary: ''
 
 ## Annotations
 
-[^key-761e78ea6cfa4d4a1b44b534353952a5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/255/regulation/4) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-761e78ea6cfa4d4a1b44b534353952a5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/255/regulation/4) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-f041f70b5228a74249bddea1d90a5349]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2022/255/regulation/4/1) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [62](https://www.legislation.gov.uk/uksi/2025/1313/regulation/62)
+[^c-f041f70b5228a74249bddea1d90a5349]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2022/255/regulation/4/1) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [62](https://www.legislation.gov.uk/uksi/2025/1313/regulation/62)
 
 [^f00014]: Footnote: [2015 c. 8](https://www.legislation.gov.uk/ukpga/2015/8).

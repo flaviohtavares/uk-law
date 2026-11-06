@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38ZA. Finance: reporting obligations for required payments[^key-737f4d716316ab35b3bea8731619a88b]
+## 38ZA. Finance: reporting obligations for required payments[^c-737f4d716316ab35b3bea8731619a88b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-737f4d716316ab35b3bea8731619a88b]: Textual amendment: Reg. 38ZA inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [11(8)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/11/8)
+[^c-737f4d716316ab35b3bea8731619a88b]: Textual amendment: Reg. 38ZA inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [11(8)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/11/8)

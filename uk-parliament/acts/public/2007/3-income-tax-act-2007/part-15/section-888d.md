@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 888D. Interest distribution of certain authorised unit trusts[^key-8619a83e923db655019034eae75f91f3]
+## 888D. Interest distribution of certain authorised unit trusts[^c-8619a83e923db655019034eae75f91f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The duty to deduct a sum representing income tax under section 874 does not appl
 
 ## Annotations
 
-[^key-8619a83e923db655019034eae75f91f3]: Textual amendment: [Ss. 888B-888D](https://www.legislation.gov.uk/ukpga/2007/3/section/888B) inserted (with effect in accordance with Sch. 5 para. 5(1) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/10/schedule/5/paragraph/1)
+[^c-8619a83e923db655019034eae75f91f3]: Textual amendment: [Ss. 888B-888D](https://www.legislation.gov.uk/ukpga/2007/3/section/888B) inserted (with effect in accordance with Sch. 5 para. 5(1) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/10/schedule/5/paragraph/1)

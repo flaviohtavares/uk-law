@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 167. Fees for payment[^key-89be8a4700f581feade909ddc3873617]
+## 167. Fees for payment[^c-89be8a4700f581feade909ddc3873617]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89be8a4700f581feade909ddc3873617]: Commencement: S. 167 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-89be8a4700f581feade909ddc3873617]: Commencement: S. 167 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

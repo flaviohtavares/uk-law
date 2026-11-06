@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Agent’s reports[^key-cd26b3ccb1eccfe0c6def560a4012361]
+## 46. Agent’s reports[^c-cd26b3ccb1eccfe0c6def560a4012361]
 
 *Extent: E+W*
 
@@ -32,10 +32,10 @@ summary: ''
 (2) The Council must make all information provided to it under this regulation available to—
 
 - (a) an Investigating Committee; and
-- (b) a Fitness to Practise[^key-a14784f8595f70c24685506dea86ea92] Committee where it considers that information is relevant to the case referred to it by the employer pursuant to paragraph (1).
+- (b) a Fitness to Practise[^c-a14784f8595f70c24685506dea86ea92] Committee where it considers that information is relevant to the case referred to it by the employer pursuant to paragraph (1).
 
 ## Annotations
 
-[^key-cd26b3ccb1eccfe0c6def560a4012361]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2015/140/regulation/46) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-cd26b3ccb1eccfe0c6def560a4012361]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2015/140/regulation/46) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
-[^key-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)
+[^c-a14784f8595f70c24685506dea86ea92]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/wsi/2015/140) substituted (1.3.2024) by [The Education Workforce Council (Main Functions) (Wales) (Amendment) Regulations 2024 (S.I. 2024/74)](https://www.legislation.gov.uk/wsi/2024/74), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2024/74/regulation/2/2)

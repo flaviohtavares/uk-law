@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-### 1. National funding strategy[^key-6d15b88539acb5ed7614bfc8a8dade82]
+### 1. National funding strategy[^c-6d15b88539acb5ed7614bfc8a8dade82]
 
 (1) The Scottish Ministers must prepare a national funding strategy for tertiary education, skills and apprenticeships.
 
@@ -85,7 +85,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### General duties of the Council and the Scottish Ministers
 
-#### 2. General duty of the Council to secure high-quality learning[^key-b433408da794954f1f3cb54530b12817][^key-f6f4cdcdc6841a1773f2562ffef8e8b1]
+#### 2. General duty of the Council to secure high-quality learning[^c-b433408da794954f1f3cb54530b12817][^c-f6f4cdcdc6841a1773f2562ffef8e8b1]
 
 (1) The Further and Higher Education (Scotland) Act 2005 is modified as follows.
 
@@ -100,7 +100,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 3. General duty of the Scottish Ministers to support delivery[^key-a76a459df4a827474c966049a61f537b][^key-ad56b14b1256ae29633dea8d87effdba]
+#### 3. General duty of the Scottish Ministers to support delivery[^c-a76a459df4a827474c966049a61f537b][^c-ad56b14b1256ae29633dea8d87effdba]
 
 (1) The 2005 Act is modified as follows.
 
@@ -128,7 +128,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-#### 4. Review of credit-based funding model[^key-5564b13827603dcbe63777f03db79f32]
+#### 4. Review of credit-based funding model[^c-5564b13827603dcbe63777f03db79f32]
 
 (1) The Scottish Ministers must, within 12 months of this section coming into force, undertake a review of the credit-based funding model used by the Council for making payments to—
 
@@ -153,7 +153,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-#### 5. Duty to place conditions on funding: transparency[^key-48d9fcd6e675e19582ec220de5470db7]
+#### 5. Duty to place conditions on funding: transparency[^c-48d9fcd6e675e19582ec220de5470db7]
 
 (1) The 2005 Act is modified as follows.
 
@@ -172,7 +172,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 6. Duty to place conditions on funding: conflict of interest[^key-f94f2196a5d0cd233eef8671d14d92d2]
+#### 6. Duty to place conditions on funding: conflict of interest[^c-f94f2196a5d0cd233eef8671d14d92d2]
 
 (1) The 2005 Act is modified as follows.
 
@@ -201,7 +201,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 7. Duty to place conditions on funding: whistleblowing[^key-6c77abe7b5e91059fb441b0f8314ce5c]
+#### 7. Duty to place conditions on funding: whistleblowing[^c-6c77abe7b5e91059fb441b0f8314ce5c]
 
 (1) The 2005 Act is modified as follows.
 
@@ -240,7 +240,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 8. Duty to place conditions on funding: engagement with trade unions, students and external partners[^key-fd6f6217432a70c8e41013448ed3d2f5]
+#### 8. Duty to place conditions on funding: engagement with trade unions, students and external partners[^c-fd6f6217432a70c8e41013448ed3d2f5]
 
 (1) The 2005 Act is modified as follows.
 
@@ -268,7 +268,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 9. Duty to place conditions on funding: prevention of gender-based violence[^key-e2279c58150d0a2408af668e3994eb7e]
+#### 9. Duty to place conditions on funding: prevention of gender-based violence[^c-e2279c58150d0a2408af668e3994eb7e]
 
 (1) The 2005 Act is modified as follows.
 
@@ -300,7 +300,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Funding for national training programmes
 
-#### 10. Funding for national training programmes[^key-a3d8677177a4bf0f08342190f79e1b95][^key-8cc027c79c945fa470e91d2983c5e3ae]
+#### 10. Funding for national training programmes[^c-a3d8677177a4bf0f08342190f79e1b95][^c-8cc027c79c945fa470e91d2983c5e3ae]
 
 (1) The 2005 Act is modified as follows.
 
@@ -347,7 +347,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Scottish apprenticeships
 
-#### 11. Scottish apprenticeships[^key-8ac473766f0855ba488cf6524ade17a8][^key-86806b503501b8792516b4349c65fe6d]
+#### 11. Scottish apprenticeships[^c-8ac473766f0855ba488cf6524ade17a8][^c-86806b503501b8792516b4349c65fe6d]
 
 (1) The 2005 Act is modified as follows.
 
@@ -449,7 +449,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Funding for Scottish apprenticeships and work-based learning
 
-#### 12. Funding for Scottish apprenticeships and work-based learning[^key-0967b69e46b0aed283983c6e30a932f2][^key-5f1937c25b38917663ceef20e99a7a7d]
+#### 12. Funding for Scottish apprenticeships and work-based learning[^c-0967b69e46b0aed283983c6e30a932f2][^c-5f1937c25b38917663ceef20e99a7a7d]
 
 (1) The 2005 Act is modified as follows.
 
@@ -507,13 +507,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-#### 13. Statement on financial implications[^key-fc04ec39fb126823a9842af526b8b47d]
+#### 13. Statement on financial implications[^c-fc04ec39fb126823a9842af526b8b47d]
 
 Within the period of 1 year beginning with the day on which this section comes into force, the Scottish Ministers must lay before the Scottish Parliament a statement on the financial implications of the Council assuming the functions conferred on it by sections 10 to 12 of this Act.
 
 ### Information sharing
 
-#### 14. Information sharing[^key-e3ce345ceb0d5be6ff77c59305524e68][^key-40be7fb74a403ec426f98981f0d194ee]
+#### 14. Information sharing[^c-e3ce345ceb0d5be6ff77c59305524e68][^c-40be7fb74a403ec426f98981f0d194ee]
 
 (1) The 2005 Act is modified as follows.
 
@@ -531,7 +531,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 .
 
-#### 15. Requirement to promote proactive publication[^key-819395b8bf9f3f39bad32536c487b552]
+#### 15. Requirement to promote proactive publication[^c-819395b8bf9f3f39bad32536c487b552]
 
 **Not yet in force.**
 
@@ -551,7 +551,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 ### Notifications to the Council by post-16 education bodies
 
-#### 16. Notifications to the Council by post-16 education bodies[^key-43bf4218f153bde6916fabfb9f1652d0][^key-7e229d48126dd783657a9a5490d4cfd5]
+#### 16. Notifications to the Council by post-16 education bodies[^c-43bf4218f153bde6916fabfb9f1652d0][^c-7e229d48126dd783657a9a5490d4cfd5]
 
 (1) The 2005 Act is modified as follows.
 
@@ -574,7 +574,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 ### Recommendations to fundable bodies
 
-#### 17. Recommendations to fundable bodies[^key-47bf29f5d24ac4a3157c806234e2e3c6][^key-717eefa98deba00937c9322011b25a73]
+#### 17. Recommendations to fundable bodies[^c-47bf29f5d24ac4a3157c806234e2e3c6][^c-717eefa98deba00937c9322011b25a73]
 
 (1) The 2005 Act is modified as follows.
 
@@ -594,7 +594,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 ### Monitoring of financial sustainability of post-16 education bodies
 
-#### 18. Financial sustainability of post-16 education bodies[^key-5b48c89df40debede1eb843f7c3841e9][^key-f51d8272bbbc10edc7d60f79fb1f5f5f]
+#### 18. Financial sustainability of post-16 education bodies[^c-5b48c89df40debede1eb843f7c3841e9][^c-f51d8272bbbc10edc7d60f79fb1f5f5f]
 
 (1) The 2005 Act is modified as follows.
 
@@ -626,7 +626,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 **Not yet in force.**
 
-#### 19. Guidance to fundable bodies[^key-4ed92585e84d328a6c649ee5183cfd33]
+#### 19. Guidance to fundable bodies[^c-4ed92585e84d328a6c649ee5183cfd33]
 
 (1) The 2005 Act is modified as follows.
 
@@ -662,7 +662,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 ### Reporting by the Council
 
-#### 20. Reporting by the Council[^key-b0eae47f0e6c546442a9c7290efd6d8b][^key-60a96e2766d20977d051c3fc08038dd4]
+#### 20. Reporting by the Council[^c-b0eae47f0e6c546442a9c7290efd6d8b][^c-60a96e2766d20977d051c3fc08038dd4]
 
 (1) The 2005 Act is modified as follows.
 
@@ -698,7 +698,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 ### Exercise of functions by the Council
 
-#### 21. Duty to have regard to particular matters in exercise of functions[^key-c51274d18684f80f399e351cb4216895][^key-43da04d32f22a368af84b5a1b943407a]
+#### 21. Duty to have regard to particular matters in exercise of functions[^c-c51274d18684f80f399e351cb4216895][^c-43da04d32f22a368af84b5a1b943407a]
 
 (1) The 2005 Act is modified as follows.
 
@@ -738,7 +738,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
   .
 
-#### 22. Consideration of skills needs and socio-economic issues[^key-3957f99f7af404b2cc3bbc5051db9d6a][^key-96f59badfa0eb27119398712d187d065]
+#### 22. Consideration of skills needs and socio-economic issues[^c-3957f99f7af404b2cc3bbc5051db9d6a][^c-96f59badfa0eb27119398712d187d065]
 
 (1) The 2005 Act is modified as follows.
 
@@ -747,7 +747,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 - (a) in subsection (5)(b), for “or fundable higher education” substitute “, fundable higher education, programmes of training for employment, Scottish apprenticeships or work-based learning”,
 - (b) in subsection (6)(b), for “or fundable higher education” substitute “, fundable higher education, programmes of training for employment, Scottish apprenticeships or work-based learning”.
 
-#### 23. Consultation and collaboration with employers of apprentices and training providers[^key-cd3f48087bdfed2f6f53935fa17e834b][^key-f44d5131b9c57085bc13f0741b9cfc42]
+#### 23. Consultation and collaboration with employers of apprentices and training providers[^c-cd3f48087bdfed2f6f53935fa17e834b][^c-f44d5131b9c57085bc13f0741b9cfc42]
 
 (1) The 2005 Act is modified as follows.
 
@@ -769,7 +769,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 **Not yet in force.**
 
-#### 24. Widening access to fundable further and higher education: sharing of information[^key-4e14170bf7a701e32ae837da9a65e21e]
+#### 24. Widening access to fundable further and higher education: sharing of information[^c-4e14170bf7a701e32ae837da9a65e21e]
 
 (1) The 2005 Act is modified as follows.
 
@@ -815,7 +815,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 **Not yet in force.**
 
-#### 25. Amendment of lists of fundable bodies in schedule 2 of 2005 Act[^key-6cf33d23c16b22925c0b481396e33191]
+#### 25. Amendment of lists of fundable bodies in schedule 2 of 2005 Act[^c-6cf33d23c16b22925c0b481396e33191]
 
 (1) The 2005 Act is modified as follows.
 
@@ -873,7 +873,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 ### Membership of the Council
 
-#### 26. Appointment of members of the Council[^key-f3c739c0110d03046c6a2b16d2c333b4][^key-08fd7845b6b34ea6ecda100764e0c8f9]
+#### 26. Appointment of members of the Council[^c-f3c739c0110d03046c6a2b16d2c333b4][^c-08fd7845b6b34ea6ecda100764e0c8f9]
 
 (1) The 2005 Act is modified as follows.
 
@@ -887,7 +887,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
   .
 
-#### 27. Membership of the Council: interests of employers[^key-26321442c10ddff89420c8c509aa67c7]
+#### 27. Membership of the Council: interests of employers[^c-26321442c10ddff89420c8c509aa67c7]
 
 **Not yet in force.**
 
@@ -895,13 +895,13 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 (2) In schedule 1, in paragraph 2(1)(c), after “Ministers” insert “, which must include at least two members who appear to the Scottish Ministers to represent the interests of employers”.
 
-#### 28. Membership of the Council: number of members[^key-cbdb1690d229dcd85321e99ef5a3237b][^key-e0212b530bd8f58fc309fe02e3e64b14]
+#### 28. Membership of the Council: number of members[^c-cbdb1690d229dcd85321e99ef5a3237b][^c-e0212b530bd8f58fc309fe02e3e64b14]
 
 (1) The 2005 Act is modified as follows.
 
 (2) In schedule 1, in paragraph 2(1)(c), for “14” substitute “16”.
 
-#### 29. Skills and experience of members of the Council[^key-cf82e01841032e528d5249424197fa4d]
+#### 29. Skills and experience of members of the Council[^c-cf82e01841032e528d5249424197fa4d]
 
 **Not yet in force.**
 
@@ -930,7 +930,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 ### Co-opted members of the Council
 
-#### 30. Co-opted members of the Council[^key-a4c3899011f7ac14dc9a729ec8fd8c19][^key-5a35995c0e955b1215b369ec397b05c9]
+#### 30. Co-opted members of the Council[^c-a4c3899011f7ac14dc9a729ec8fd8c19][^c-5a35995c0e955b1215b369ec397b05c9]
 
 (1) The 2005 Act is modified as follows.
 
@@ -959,7 +959,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 ### Apprenticeship committee
 
-#### 31. Apprenticeship committee[^key-40ed3be84c0a64fbe96d160052379780][^key-64cd2ab1ca3d720915ca246391b839a6]
+#### 31. Apprenticeship committee[^c-40ed3be84c0a64fbe96d160052379780][^c-64cd2ab1ca3d720915ca246391b839a6]
 
 (1) The 2005 Act is modified as follows.
 
@@ -1002,7 +1002,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 **Not yet in force.**
 
-### 32. Designation of private providers of higher and further education[^key-270f5695689cfc1a9c56f57064d9ff9d]
+### 32. Designation of private providers of higher and further education[^c-270f5695689cfc1a9c56f57064d9ff9d]
 
 (1) The Education (Scotland) Act 1980 is modified as follows.
 
@@ -1045,7 +1045,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 .
 
-### 33. Directions relating to student support[^key-ffc8399e4c17d4c393e676459364673e]
+### 33. Directions relating to student support[^c-ffc8399e4c17d4c393e676459364673e]
 
 (1) The Education (Scotland) Act 1980 is modified as follows.
 
@@ -1062,7 +1062,7 @@ Within the period of 1 year beginning with the day on which this section comes i
   ,
 - (b) in subsection (4), for “(3)” substitute “(3)(a)”.
 
-### 34. Transfer or delegation of functions relating to student support[^key-bc8931a3de2463eaad869bec7c7168db]
+### 34. Transfer or delegation of functions relating to student support[^c-bc8931a3de2463eaad869bec7c7168db]
 
 (1) The Education (Scotland) Act 1980 is modified as follows.
 
@@ -1087,7 +1087,7 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 **Not yet in force.**
 
-### 35. Review of operation of Act[^key-72b8e78949f2eb0a32f7684ce146427b]
+### 35. Review of operation of Act[^c-72b8e78949f2eb0a32f7684ce146427b]
 
 (1) As soon as reasonably practicable after the end of each of the two review periods, the Scottish Ministers must—
 
@@ -1120,14 +1120,14 @@ Within the period of 1 year beginning with the day on which this section comes i
 
 ## Part 6 — Final provisions
 
-### 36. Interpretation[^key-4d5558a0d013da40ba99bef24b5a773c]
+### 36. Interpretation[^c-4d5558a0d013da40ba99bef24b5a773c]
 
 In this Act—
 
 - “**the 2005 Act**” means the Further and Higher Education (Scotland) Act 2005,
 - “**the Council**” means the Scottish Further and Higher Education Funding Council established under section 1 of the 2005 Act.
 
-### 37. Ancillary provision[^key-012242ff4ddff13cc315ef3ce3ca3a5f]
+### 37. Ancillary provision[^c-012242ff4ddff13cc315ef3ce3ca3a5f]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
 
@@ -1141,13 +1141,13 @@ In this Act—
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act, but
 - (b) otherwise are subject to the negative procedure.
 
-### 38. Regulation-making powers[^key-2beb63ace6723826196d4bd212221737]
+### 38. Regulation-making powers[^c-2beb63ace6723826196d4bd212221737]
 
 (1) The 2005 Act is modified as follows.
 
 (2) In section 34 (orders and regulations), in subsection (4)(a), after “7(2)(i)” insert “, 12E(2), 14B(1) or 25B(1)”.
 
-### 39. Commencement[^key-25a08424e1edfafee9069a0b5469c4cf]
+### 39. Commencement[^c-25a08424e1edfafee9069a0b5469c4cf]
 
 (1) This Part comes into force on the day after Royal Assent.
 
@@ -1158,122 +1158,122 @@ In this Act—
 - (a) include transitional, transitory or saving provision,
 - (b) make different provision for different purposes.
 
-### 40. Short title[^key-90f956b3e670680276698dfb60ec482e]
+### 40. Short title[^c-90f956b3e670680276698dfb60ec482e]
 
 The short title of this Act is the Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026.
 
 ## Annotations
 
-[^key-6d15b88539acb5ed7614bfc8a8dade82]: Commencement: S. 1 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-6d15b88539acb5ed7614bfc8a8dade82]: Commencement: S. 1 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-b433408da794954f1f3cb54530b12817]: Commencement: S. 2 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-b433408da794954f1f3cb54530b12817]: Commencement: S. 2 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-f6f4cdcdc6841a1773f2562ffef8e8b1]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2026/5/section/2) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-f6f4cdcdc6841a1773f2562ffef8e8b1]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2026/5/section/2) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-a76a459df4a827474c966049a61f537b]: Commencement: S. 3 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-a76a459df4a827474c966049a61f537b]: Commencement: S. 3 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-ad56b14b1256ae29633dea8d87effdba]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2026/5/section/3) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-ad56b14b1256ae29633dea8d87effdba]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2026/5/section/3) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-5564b13827603dcbe63777f03db79f32]: Commencement: S. 4 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-5564b13827603dcbe63777f03db79f32]: Commencement: S. 4 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-48d9fcd6e675e19582ec220de5470db7]: Commencement: S. 5 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-48d9fcd6e675e19582ec220de5470db7]: Commencement: S. 5 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-f94f2196a5d0cd233eef8671d14d92d2]: Commencement: S. 6 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-f94f2196a5d0cd233eef8671d14d92d2]: Commencement: S. 6 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-6c77abe7b5e91059fb441b0f8314ce5c]: Commencement: S. 7 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-6c77abe7b5e91059fb441b0f8314ce5c]: Commencement: S. 7 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-fd6f6217432a70c8e41013448ed3d2f5]: Commencement: S. 8 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-fd6f6217432a70c8e41013448ed3d2f5]: Commencement: S. 8 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-e2279c58150d0a2408af668e3994eb7e]: Commencement: S. 9 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-e2279c58150d0a2408af668e3994eb7e]: Commencement: S. 9 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-a3d8677177a4bf0f08342190f79e1b95]: Commencement: S. 10 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-a3d8677177a4bf0f08342190f79e1b95]: Commencement: S. 10 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-8cc027c79c945fa470e91d2983c5e3ae]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2026/5/section/10) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-8cc027c79c945fa470e91d2983c5e3ae]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2026/5/section/10) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-8ac473766f0855ba488cf6524ade17a8]: Commencement: S. 11 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-8ac473766f0855ba488cf6524ade17a8]: Commencement: S. 11 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-86806b503501b8792516b4349c65fe6d]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2026/5/section/11) in force at 1.10.2026 for specified purposes by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-86806b503501b8792516b4349c65fe6d]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2026/5/section/11) in force at 1.10.2026 for specified purposes by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-0967b69e46b0aed283983c6e30a932f2]: Commencement: S. 12 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-0967b69e46b0aed283983c6e30a932f2]: Commencement: S. 12 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-5f1937c25b38917663ceef20e99a7a7d]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2026/5/section/12) in force at 1.10.2026 for specified purposes by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-5f1937c25b38917663ceef20e99a7a7d]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2026/5/section/12) in force at 1.10.2026 for specified purposes by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-fc04ec39fb126823a9842af526b8b47d]: Commencement: S. 13 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-fc04ec39fb126823a9842af526b8b47d]: Commencement: S. 13 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-e3ce345ceb0d5be6ff77c59305524e68]: Commencement: S. 14 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-e3ce345ceb0d5be6ff77c59305524e68]: Commencement: S. 14 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-40be7fb74a403ec426f98981f0d194ee]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2026/5/section/14) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-40be7fb74a403ec426f98981f0d194ee]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2026/5/section/14) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-819395b8bf9f3f39bad32536c487b552]: Commencement: S. 15 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-819395b8bf9f3f39bad32536c487b552]: Commencement: S. 15 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-43bf4218f153bde6916fabfb9f1652d0]: Commencement: S. 16 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-43bf4218f153bde6916fabfb9f1652d0]: Commencement: S. 16 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-7e229d48126dd783657a9a5490d4cfd5]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2026/5/section/16) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-7e229d48126dd783657a9a5490d4cfd5]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2026/5/section/16) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-47bf29f5d24ac4a3157c806234e2e3c6]: Commencement: S. 17 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-47bf29f5d24ac4a3157c806234e2e3c6]: Commencement: S. 17 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-717eefa98deba00937c9322011b25a73]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2026/5/section/17) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-717eefa98deba00937c9322011b25a73]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2026/5/section/17) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-5b48c89df40debede1eb843f7c3841e9]: Commencement: S. 18 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-5b48c89df40debede1eb843f7c3841e9]: Commencement: S. 18 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-f51d8272bbbc10edc7d60f79fb1f5f5f]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2026/5/section/18) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-f51d8272bbbc10edc7d60f79fb1f5f5f]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2026/5/section/18) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-4ed92585e84d328a6c649ee5183cfd33]: Commencement: S. 19 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-4ed92585e84d328a6c649ee5183cfd33]: Commencement: S. 19 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-b0eae47f0e6c546442a9c7290efd6d8b]: Commencement: S. 20 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-b0eae47f0e6c546442a9c7290efd6d8b]: Commencement: S. 20 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-60a96e2766d20977d051c3fc08038dd4]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2026/5/section/20) in force at 1.10.2026 for specified purposes by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-60a96e2766d20977d051c3fc08038dd4]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2026/5/section/20) in force at 1.10.2026 for specified purposes by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-c51274d18684f80f399e351cb4216895]: Commencement: S. 21 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-c51274d18684f80f399e351cb4216895]: Commencement: S. 21 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-43da04d32f22a368af84b5a1b943407a]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2026/5/section/21) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-43da04d32f22a368af84b5a1b943407a]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2026/5/section/21) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-3957f99f7af404b2cc3bbc5051db9d6a]: Commencement: S. 22 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-3957f99f7af404b2cc3bbc5051db9d6a]: Commencement: S. 22 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-96f59badfa0eb27119398712d187d065]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2026/5/section/22) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-96f59badfa0eb27119398712d187d065]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2026/5/section/22) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-cd3f48087bdfed2f6f53935fa17e834b]: Commencement: S. 23 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-cd3f48087bdfed2f6f53935fa17e834b]: Commencement: S. 23 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-f44d5131b9c57085bc13f0741b9cfc42]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2026/5/section/23) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-f44d5131b9c57085bc13f0741b9cfc42]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2026/5/section/23) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-4e14170bf7a701e32ae837da9a65e21e]: Commencement: S. 24 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-4e14170bf7a701e32ae837da9a65e21e]: Commencement: S. 24 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-6cf33d23c16b22925c0b481396e33191]: Commencement: S. 25 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-6cf33d23c16b22925c0b481396e33191]: Commencement: S. 25 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-f3c739c0110d03046c6a2b16d2c333b4]: Commencement: S. 26 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-f3c739c0110d03046c6a2b16d2c333b4]: Commencement: S. 26 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-08fd7845b6b34ea6ecda100764e0c8f9]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2026/5/section/26) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-08fd7845b6b34ea6ecda100764e0c8f9]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2026/5/section/26) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-26321442c10ddff89420c8c509aa67c7]: Commencement: S. 27 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-26321442c10ddff89420c8c509aa67c7]: Commencement: S. 27 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-cbdb1690d229dcd85321e99ef5a3237b]: Commencement: S. 28 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-cbdb1690d229dcd85321e99ef5a3237b]: Commencement: S. 28 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-e0212b530bd8f58fc309fe02e3e64b14]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2026/5/section/28) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-e0212b530bd8f58fc309fe02e3e64b14]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2026/5/section/28) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-cf82e01841032e528d5249424197fa4d]: Commencement: S. 29 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-cf82e01841032e528d5249424197fa4d]: Commencement: S. 29 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-a4c3899011f7ac14dc9a729ec8fd8c19]: Commencement: S. 30 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-a4c3899011f7ac14dc9a729ec8fd8c19]: Commencement: S. 30 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-5a35995c0e955b1215b369ec397b05c9]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2026/5/section/30) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-5a35995c0e955b1215b369ec397b05c9]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2026/5/section/30) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-40ed3be84c0a64fbe96d160052379780]: Commencement: S. 31 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-40ed3be84c0a64fbe96d160052379780]: Commencement: S. 31 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-64cd2ab1ca3d720915ca246391b839a6]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2026/5/section/31) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-64cd2ab1ca3d720915ca246391b839a6]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2026/5/section/31) in force at 1.10.2026 by [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-270f5695689cfc1a9c56f57064d9ff9d]: Commencement: S. 32 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-270f5695689cfc1a9c56f57064d9ff9d]: Commencement: S. 32 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-ffc8399e4c17d4c393e676459364673e]: Commencement: S. 33 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-ffc8399e4c17d4c393e676459364673e]: Commencement: S. 33 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-bc8931a3de2463eaad869bec7c7168db]: Commencement: S. 34 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-bc8931a3de2463eaad869bec7c7168db]: Commencement: S. 34 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-72b8e78949f2eb0a32f7684ce146427b]: Commencement: S. 35 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
+[^c-72b8e78949f2eb0a32f7684ce146427b]: Commencement: S. 35 not in force at Royal Assent, see [s. 39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2)
 
-[^key-4d5558a0d013da40ba99bef24b5a773c]: Commencement: S. 36 in force at 12.3.2026, see [s. 39(1)](https://www.legislation.gov.uk/asp/2026/5/section/39/1)
+[^c-4d5558a0d013da40ba99bef24b5a773c]: Commencement: S. 36 in force at 12.3.2026, see [s. 39(1)](https://www.legislation.gov.uk/asp/2026/5/section/39/1)
 
-[^key-012242ff4ddff13cc315ef3ce3ca3a5f]: Commencement: S. 37 in force at 12.3.2026, see [s. 39(1)](https://www.legislation.gov.uk/asp/2026/5/section/39/1)
+[^c-012242ff4ddff13cc315ef3ce3ca3a5f]: Commencement: S. 37 in force at 12.3.2026, see [s. 39(1)](https://www.legislation.gov.uk/asp/2026/5/section/39/1)
 
-[^key-2beb63ace6723826196d4bd212221737]: Commencement: S. 38 in force at 12.3.2026, see [s. 39(1)](https://www.legislation.gov.uk/asp/2026/5/section/39/1)
+[^c-2beb63ace6723826196d4bd212221737]: Commencement: S. 38 in force at 12.3.2026, see [s. 39(1)](https://www.legislation.gov.uk/asp/2026/5/section/39/1)
 
-[^key-25a08424e1edfafee9069a0b5469c4cf]: Commencement: S. 39 in force at 12.3.2026, see [s. 39(1)](https://www.legislation.gov.uk/asp/2026/5/section/39/1)
+[^c-25a08424e1edfafee9069a0b5469c4cf]: Commencement: S. 39 in force at 12.3.2026, see [s. 39(1)](https://www.legislation.gov.uk/asp/2026/5/section/39/1)
 
-[^key-90f956b3e670680276698dfb60ec482e]: Commencement: S. 40 in force at 12.3.2026, see [s. 39(1)](https://www.legislation.gov.uk/asp/2026/5/section/39/1)
+[^c-90f956b3e670680276698dfb60ec482e]: Commencement: S. 40 in force at 12.3.2026, see [s. 39(1)](https://www.legislation.gov.uk/asp/2026/5/section/39/1)

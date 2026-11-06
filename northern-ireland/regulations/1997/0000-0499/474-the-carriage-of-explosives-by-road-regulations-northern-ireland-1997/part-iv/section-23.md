@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Smoking and open flames[^key-2b77da5a87f39d87ce625eb8858444ac]
+## 23. Smoking and open flames[^c-2b77da5a87f39d87ce625eb8858444ac]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b77da5a87f39d87ce625eb8858444ac]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/1997/474/regulation/23) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-2b77da5a87f39d87ce625eb8858444ac]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/1997/474/regulation/23) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Annual report and accounts[^key-fd52a48c3f8cc0d968e6584808166cce]
+## 13. Annual report and accounts[^c-fd52a48c3f8cc0d968e6584808166cce]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The Minister of Enterprise, Trade and Investment shall lay before the Assembly a
 
 ## Annotations
 
-[^key-fd52a48c3f8cc0d968e6584808166cce]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/1999/859/article/13) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-fd52a48c3f8cc0d968e6584808166cce]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/1999/859/article/13) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

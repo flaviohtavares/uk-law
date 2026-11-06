@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1218ZCLA. No claim if company in administration or liquidation[^key-a7059100ed63c6dc0e9e27ad0a9b68ca][^key-c435f0e4f1b39f56dfbe9f77bf1f7fc7]
+## 1218ZCLA. No claim if company in administration or liquidation[^c-a7059100ed63c6dc0e9e27ad0a9b68ca][^c-c435f0e4f1b39f56dfbe9f77bf1f7fc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a7059100ed63c6dc0e9e27ad0a9b68ca]: Textual amendment: [S. 1218ZCLA](https://www.legislation.gov.uk/ukpga/2009/4/section/1218ZCLA) and cross-heading inserted (with effect in accordance with Sch. 5 para. 9(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 5 para. 9(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/5/paragraph/9/1)
+[^c-a7059100ed63c6dc0e9e27ad0a9b68ca]: Textual amendment: [S. 1218ZCLA](https://www.legislation.gov.uk/ukpga/2009/4/section/1218ZCLA) and cross-heading inserted (with effect in accordance with Sch. 5 para. 9(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 5 para. 9(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/5/paragraph/9/1)
 
-[^key-c435f0e4f1b39f56dfbe9f77bf1f7fc7]: Textual amendment: Pt. 15E inserted (for specified purposes and with effect in accordance with Sch. 6 paras. 20, 21(1)(a) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/1) (with [Sch. 6 para. 21(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/21/3))
+[^c-c435f0e4f1b39f56dfbe9f77bf1f7fc7]: Textual amendment: Pt. 15E inserted (for specified purposes and with effect in accordance with Sch. 6 paras. 20, 21(1)(a) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/1) (with [Sch. 6 para. 21(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/21/3))

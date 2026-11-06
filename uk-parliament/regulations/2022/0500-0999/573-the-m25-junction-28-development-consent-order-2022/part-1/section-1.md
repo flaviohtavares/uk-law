@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-43511913c5e883d2d21b61c2292dccfd]
+## 1. Citation and commencement[^c-43511913c5e883d2d21b61c2292dccfd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the M25 Junction 28 Development Consent Order 2022 an
 
 ## Annotations
 
-[^key-43511913c5e883d2d21b61c2292dccfd]: Commencement: Art. 1 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-43511913c5e883d2d21b61c2292dccfd]: Commencement: Art. 1 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)

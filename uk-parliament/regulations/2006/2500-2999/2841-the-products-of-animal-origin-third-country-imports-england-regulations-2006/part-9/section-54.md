@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 54. Payment of charges[^key-4d00bd3fd3656fab0a4187e278e82db4]
+## 54. Payment of charges[^c-4d00bd3fd3656fab0a4187e278e82db4]
 
 *Extent: E+W+S+NI*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d00bd3fd3656fab0a4187e278e82db4]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1197/regulation/1), [44(e)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/e)
+[^c-4d00bd3fd3656fab0a4187e278e82db4]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1197/regulation/1), [44(e)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/e)

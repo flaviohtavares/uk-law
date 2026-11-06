@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12ABZA. Partnership returns: overseas partners in investment partnerships etc[^key-f8f1899561e9525ae198950135d52aac]
+## 12ABZA. Partnership returns: overseas partners in investment partnerships etc[^c-f8f1899561e9525ae198950135d52aac]
 
 *Extent: E+W+S+N.I.*
 
-[^key-ba7ef8e5103359a508757112823db135][^key-245985e79becf8d645b2f0608b6bd803]
+[^c-ba7ef8e5103359a508757112823db135][^c-245985e79becf8d645b2f0608b6bd803]
 
 (1) There is no requirement for a partnership return to include a declaration of the tax reference of a person (see section 12AA(6)(a)) if—
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f8f1899561e9525ae198950135d52aac]: Textual amendment: S. 12ABZA inserted (with effect in accordance with Sch. 6 para. 8(5) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/6/paragraph/8/3)
+[^c-f8f1899561e9525ae198950135d52aac]: Textual amendment: S. 12ABZA inserted (with effect in accordance with Sch. 6 para. 8(5) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/6/paragraph/8/3)
 
-[^key-ba7ef8e5103359a508757112823db135]: Modification: Pt. 2 applied (with modifications) (6.4.2024 immediately after the coming into force of [2023 c. 57](https://www.legislation.gov.uk/ukpga/2023/57), [Sch. para. 4(1)(2)](https://www.legislation.gov.uk/ukpga/2023/57/schedule/paragraph/4/1/2)) by [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7), [s. 11A](https://www.legislation.gov.uk/ukpga/1992/7/section/11A) (as inserted by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2024/377/regulation/10) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4)))
+[^c-ba7ef8e5103359a508757112823db135]: Modification: Pt. 2 applied (with modifications) (6.4.2024 immediately after the coming into force of [2023 c. 57](https://www.legislation.gov.uk/ukpga/2023/57), [Sch. para. 4(1)(2)](https://www.legislation.gov.uk/ukpga/2023/57/schedule/paragraph/4/1/2)) by [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7), [s. 11A](https://www.legislation.gov.uk/ukpga/1992/7/section/11A) (as inserted by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2024/377/regulation/10) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4)))
 
-[^key-245985e79becf8d645b2f0608b6bd803]: Modification: Pt. 2 applied (with modifications) (6.4.2024 immediately after the coming into force of [2023 c. 57](https://www.legislation.gov.uk/ukpga/2023/57), [Sch. para. 4(1)(2)](https://www.legislation.gov.uk/ukpga/2023/57/schedule/paragraph/4/1/2)) by [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4), [s. 11A](https://www.legislation.gov.uk/ukpga/1992/4/section/11A) (as inserted by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2024/377/regulation/9) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4)))
+[^c-245985e79becf8d645b2f0608b6bd803]: Modification: Pt. 2 applied (with modifications) (6.4.2024 immediately after the coming into force of [2023 c. 57](https://www.legislation.gov.uk/ukpga/2023/57), [Sch. para. 4(1)(2)](https://www.legislation.gov.uk/ukpga/2023/57/schedule/paragraph/4/1/2)) by [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4), [s. 11A](https://www.legislation.gov.uk/ukpga/1992/4/section/11A) (as inserted by [The Social Security (Class 2 National Insurance Contributions) (Consequential Amendments and Savings) Regulations 2024 (S.I. 2024/377)](https://www.legislation.gov.uk/uksi/2024/377), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2024/377/regulation/9) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2024/377/regulation/1/4)))

@@ -24,15 +24,15 @@ Section 54
 
 ### Introductory provision
 
-**1.**[^key-76fd4c253ae8e8eef6f755f92d58f2cd][^key-1f1709f825b16383636fec8cb403866e][^key-347efdcc55b05525074c67df0e2ce102][^key-f3492b55dc2c35ee253b736c38877e39] The 1993 Act is amended as follows.
+**1.**[^c-76fd4c253ae8e8eef6f755f92d58f2cd][^c-1f1709f825b16383636fec8cb403866e][^c-347efdcc55b05525074c67df0e2ce102][^c-f3492b55dc2c35ee253b736c38877e39] The 1993 Act is amended as follows.
 
 ### Licence conditions
 
-**2.**[^key-95e9fbf4f54f19e3432d864049428329] In section 9(3)(f) (conditions requiring the provision of information), after “this Part” insert “ or Part 4 of the Railways Act 2005 ”.
+**2.**[^c-95e9fbf4f54f19e3432d864049428329] In section 9(3)(f) (conditions requiring the provision of information), after “this Part” insert “ or Part 4 of the Railways Act 2005 ”.
 
 ### Access agreements
 
-**3.**[^key-1b5b6d6f3d7d330f98099b1a1f83aa9c] In—
+**3.**[^c-1b5b6d6f3d7d330f98099b1a1f83aa9c] In—
 
 - (a) section 17(4) (access agreements: directions requiring facility owners to enter into contracts for the use of their railway facilities), and
 - (b) section 19(7) (access agreements: contracts for the use of installations comprised in a network),
@@ -41,18 +41,18 @@ after “this Part” insert “ or Part 4 of the Railways Act 2005 (network mod
 
 ### Duties of provider of last resort
 
-**4.**[^key-5a7c36e339423839fe89ceeb8464b5d5] In paragraph (b) of section 30(3) (duty of Authority in absence of franchise)—
+**4.**[^c-5a7c36e339423839fe89ceeb8464b5d5] In paragraph (b) of section 30(3) (duty of Authority in absence of franchise)—
 
 - (a) for “giving notice under subsection (5) of section 38 below” substitute “ making a proposal to which section 24 of the Railways Act 2005 (proposals to discontinue franchised or secured services) applies ”; and
 - (b) for the words from “subsections (5) and (6)” to the end of the paragraph substitute “ subsections (7) and (8) of that section) terminate on the proposal date specified for the purposes of subsection (5)(a)(ii) of that section; or ”.
 
 ### Exclusion for liability for breach of statutory duty
 
-**5.**[^key-77a7558ca68e28f28225560fcc7d5c1d] In section 50(1) (exclusion of liability for breach of statutory duty), for “Authority,” substitute “ Secretary of State and of the Scottish Ministers, so far as ”.
+**5.**[^c-77a7558ca68e28f28225560fcc7d5c1d] In section 50(1) (exclusion of liability for breach of statutory duty), for “Authority,” substitute “ Secretary of State and of the Scottish Ministers, so far as ”.
 
 ### Purposes for which franchising functions may be exercised
 
-**6.**[^key-00d7db0c2f53f24a2453b5c0d82c67be][^key-3b71066e824d9d09bbbc1c52ec6f8b7b] (1) In section 54 (purposes for which franchising functions may be exercised), in subsection (1)—
+**6.**[^c-00d7db0c2f53f24a2453b5c0d82c67be][^c-3b71066e824d9d09bbbc1c52ec6f8b7b] (1) In section 54 (purposes for which franchising functions may be exercised), in subsection (1)—
 
 - (a) for “Authority or a Passenger Transport Authority or Passenger Transport Executive” substitute “ Secretary of State or the Scottish Ministers ”; and
 - (b) in paragraph (a), after “any of” insert “ his or ”.
@@ -76,17 +76,17 @@ and omit the definition of “**franchising functions**” in relation to a Pass
 
 ### Orders for securing compliance
 
-**7.** (1)[^key-1d494d2e10277f7a94beec71d84c5ef9] In subsection (9) of section 55 (interpretation of provision relating to orders for securing compliance), for “section 50 above” substitute “ section 44 of the Railways Act 2005 (exclusion of liability for breach of statutory duty) ”.
+**7.** (1)[^c-1d494d2e10277f7a94beec71d84c5ef9] In subsection (9) of section 55 (interpretation of provision relating to orders for securing compliance), for “section 50 above” substitute “ section 44 of the Railways Act 2005 (exclusion of liability for breach of statutory duty) ”.
 
-(2)[^key-c3e830628122685fd2c4dea1bda13823] In subsection (10) of that section, in the definition of “final order”, after “provisional order” insert “ or an order under subsection (7B) ”.
+(2)[^c-c3e830628122685fd2c4dea1bda13823] In subsection (10) of that section, in the definition of “final order”, after “provisional order” insert “ or an order under subsection (7B) ”.
 
-(3)[^key-1d494d2e10277f7a94beec71d84c5ef9] In that subsection, in the definition of “relevant condition or requirement”, for paragraphs (c) and (d) substitute—
+(3)[^c-1d494d2e10277f7a94beec71d84c5ef9] In that subsection, in the definition of “relevant condition or requirement”, for paragraphs (c) and (d) substitute—
 
 > - (c) in the case of a person under closure restrictions, any duty mentioned in subsection (11) to which he is subject;
 
 .
 
-(4)[^key-1d494d2e10277f7a94beec71d84c5ef9] For the definition of “relevant operator” in that subsection substitute—
+(4)[^c-1d494d2e10277f7a94beec71d84c5ef9] For the definition of “relevant operator” in that subsection substitute—
 
 > “**relevant operator**” means—
 >
@@ -95,7 +95,7 @@ and omit the definition of “**franchising functions**” in relation to a Pass
 > - (c) a franchise operator who is a party to the franchise agreement;
 > - (d) a person under closure restrictions.
 
-(5)[^key-1d494d2e10277f7a94beec71d84c5ef9] In subsection (11) of that section, for paragraphs (a) and (b) substitute
+(5)[^c-1d494d2e10277f7a94beec71d84c5ef9] In subsection (11) of that section, for paragraphs (a) and (b) substitute
 
 > who is under—
 >
@@ -103,7 +103,7 @@ and omit the definition of “**franchising functions**” in relation to a Pass
 > - (b) a duty to comply with any requirement imposed under section 33(2)(i) of that Act (closure requirements imposed on operators); or
 > - (c) a duty to comply with conditions to which he has agreed under section 34(5) of that Act (conditions of minor modification determination).
 
-(6)[^key-1d494d2e10277f7a94beec71d84c5ef9] After that subsection insert—
+(6)[^c-1d494d2e10277f7a94beec71d84c5ef9] After that subsection insert—
 
 > (11A) In the definition of “**the appropriate authority**” in subsection (10) above the reference to a relevant condition or requirement in the case of a person under Scottish closure restrictions is a reference to a relevant condition or requirement which—
 >
@@ -119,11 +119,11 @@ and omit the definition of “**franchising functions**” in relation to a Pass
 > - (b) a case in which it is the Scottish Ministers who make a determination under section 34 of that Act (minor modifications) in relation to the closure; or
 > - (c) a case in which the closure is a closure notice of which is given under section 37 of that Act (experimental passenger services) and the proposal relates to a Scotland-only service.
 
-**8.**[^key-43b01ad4d18f290365baf55cfa7af093] In section 57F(1) (validity and effect of penalties), for “penalty order” substitute “ penalty notice ”.
+**8.**[^c-43b01ad4d18f290365baf55cfa7af093] In section 57F(1) (validity and effect of penalties), for “penalty order” substitute “ penalty notice ”.
 
 ### Financial assistance from the Secretary of State to companies in railway administration
 
-**9.**[^key-e81fddea35109275547d7bb7ea1529b5] (1) In section 63 (financial assistance for companies in railway administration), for subsection (1)(b) substitute—
+**9.**[^c-e81fddea35109275547d7bb7ea1529b5] (1) In section 63 (financial assistance for companies in railway administration), for subsection (1)(b) substitute—
 
 > - (b) agree to indemnify a relevant person in respect of—
 >   - (i) liabilities incurred by that person in connection with the carrying out by the railway administrator of his functions under the order; and
@@ -170,7 +170,7 @@ and omit the definition of “**franchising functions**” in relation to a Pass
 
 ### Register kept by ORR
 
-**10.**[^key-1b69290aed185d900a26da4b6a61888d] (1) In section 72(2) (matters to be entered in register)—
+**10.**[^c-1b69290aed185d900a26da4b6a61888d] (1) In section 72(2) (matters to be entered in register)—
 
 - (a) in paragraph (d) (notices with respect to experimental passenger services), for “section 48 above” substitute “ Part 4 of the Railways Act 2005 ”;
 - (b) for sub-paragraphs (i) to (iii) of that paragraph substitute—
@@ -189,7 +189,7 @@ and omit the definition of “**franchising functions**” in relation to a Pass
 
 ### Register kept by Secretary of State
 
-**11.**[^key-ef937b9f04450902b8a089818f7c9073] (1) In section 73(2) (matters to be entered in the register)—
+**11.**[^c-ef937b9f04450902b8a089818f7c9073] (1) In section 73(2) (matters to be entered in the register)—
 
 - (a) for paragraph (da) (closure notices etc.) substitute—
 
@@ -202,11 +202,11 @@ and omit the definition of “**franchising functions**” in relation to a Pass
 
 ### Purposes for which the Secretary of State may require information from licence holders
 
-**12.**[^key-24c7d34c5dd093fd7c12e966a16548e5] In section 80(1) (duty of licence holders to provide information to the Secretary of State or the Scottish Ministers on request), for “or the Transport Act 2000” substitute “ , the Transport Act 2000 or the Railways Act 2005 or any other function or activity of his, theirs or its in relation to railway services ”.
+**12.**[^c-24c7d34c5dd093fd7c12e966a16548e5] In section 80(1) (duty of licence holders to provide information to the Secretary of State or the Scottish Ministers on request), for “or the Transport Act 2000” substitute “ , the Transport Act 2000 or the Railways Act 2005 or any other function or activity of his, theirs or its in relation to railway services ”.
 
 ### General interpretation
 
-**13.**[^key-a5cd81d7dba19d8f025572f57dff35ef] In section 83(1) (interpretation of Part 1)—
+**13.**[^c-a5cd81d7dba19d8f025572f57dff35ef] In section 83(1) (interpretation of Part 1)—
 
 - (a) after the definition of “appropriate authority” insert—
 
@@ -228,35 +228,35 @@ and omit the definition of “**franchising functions**” in relation to a Pass
 
 ### Competent authority status for the purposes of grants and loans under EU regulations
 
-**14.** (1)[^key-d5c9e945a8420d9792568b35e8f188f5] In subsection (1) of section 136 (competent authorities in relation to railways financial status regulations), for “shall continue to” substitute “ and the Scottish Ministers shall each ”.
+**14.** (1)[^c-d5c9e945a8420d9792568b35e8f188f5] In subsection (1) of section 136 (competent authorities in relation to railways financial status regulations), for “shall continue to” substitute “ and the Scottish Ministers shall each ”.
 
-(2)[^key-d5c9e945a8420d9792568b35e8f188f5] In subsection (2) of that section (competent authority in respect of freight services for the purposes of the public service obligation regulations), for “shall be” substitute “ , the Scottish Ministers and, to the extent specified in subsection (2A) below, the National Assembly for Wales shall each be ”.
+(2)[^c-d5c9e945a8420d9792568b35e8f188f5] In subsection (2) of that section (competent authority in respect of freight services for the purposes of the public service obligation regulations), for “shall be” substitute “ , the Scottish Ministers and, to the extent specified in subsection (2A) below, the National Assembly for Wales shall each be ”.
 
-(3)[^key-d5c9e945a8420d9792568b35e8f188f5] After that subsection insert—
+(3)[^c-d5c9e945a8420d9792568b35e8f188f5] After that subsection insert—
 
 > (2A) For the purposes of subsection (2) above the National Assembly for Wales shall only be the competent authority in relation to services for the carriage of goods by railway which are operated within Wales.
 
-(4)[^key-d5c9e945a8420d9792568b35e8f188f5] In subsection (3) of that section (competent authority in respect of passenger services for the purposes of the public service obligation regulations), after paragraph (a) insert—
+(4)[^c-d5c9e945a8420d9792568b35e8f188f5] In subsection (3) of that section (competent authority in respect of passenger services for the purposes of the public service obligation regulations), after paragraph (a) insert—
 
 > - (aa) the Scottish Ministers,
 > - (ab) to the extent specified in subsection (3A) below, the National Assembly for Wales,
 
 .
 
-(5)[^key-d5c9e945a8420d9792568b35e8f188f5] After that subsection insert—
+(5)[^c-d5c9e945a8420d9792568b35e8f188f5] After that subsection insert—
 
 > (3A) For the purposes of subsection (3) above the National Assembly for Wales shall only be the competent authority in relation to services for the carriage of passengers by railway which—
 >
 > - (a) are Welsh services (within the meaning of the Railways Act 2005); or
 > - (b) are provided under a franchise agreement to which the Assembly is a party.
 
-(6)[^key-135e76f8ee75ce11d3a4cac3ac5608b1] In subsection (4) of that subsection (extent to which a PTE are a competent authority), for paragraphs (a) and (b) substitute “ which the Executive provide, or secure are provided, in exercise of their powers under section 10(1) of the Transport Act 1968 or section 13 of the Railways Act 2005 ”.
+(6)[^c-135e76f8ee75ce11d3a4cac3ac5608b1] In subsection (4) of that subsection (extent to which a PTE are a competent authority), for paragraphs (a) and (b) substitute “ which the Executive provide, or secure are provided, in exercise of their powers under section 10(1) of the Transport Act 1968 or section 13 of the Railways Act 2005 ”.
 
-(7)[^key-135e76f8ee75ce11d3a4cac3ac5608b1] Sub-paragraph (6) shall not affect the extent to which the competent authorities for the purposes of the public service obligations regulations include a Passenger Transport Executive in relation to railway passenger services provided under a franchise agreement to which the Executive continues to be a party by virtue of section 14(2) of this Act.
+(7)[^c-135e76f8ee75ce11d3a4cac3ac5608b1] Sub-paragraph (6) shall not affect the extent to which the competent authorities for the purposes of the public service obligations regulations include a Passenger Transport Executive in relation to railway passenger services provided under a franchise agreement to which the Executive continues to be a party by virtue of section 14(2) of this Act.
 
 ### Powers to make statutory instruments
 
-**15.**[^key-bcee8f5ec0afd208a834a3af2afa6d86][^key-9c50d2612210b13f22c9f2daeb7cd467] In section 143 (powers to make statutory instruments)—
+**15.**[^c-bcee8f5ec0afd208a834a3af2afa6d86][^c-9c50d2612210b13f22c9f2daeb7cd467] In section 143 (powers to make statutory instruments)—
 
 - (a) in subsection (1), for “under this Act to make orders” substitute “ or the Scottish Ministers under this Act to make orders (except the power to make provisional or final orders under section 55) ”;
 - (b) in subsection (3), for “to make an order” substitute “ or the Scottish Ministers to make an order (other than a provisional or final order under section 55) ”; and
@@ -264,7 +264,7 @@ and omit the definition of “**franchising functions**” in relation to a Pass
 
 ### Restrictions on disclosure of information
 
-**16.** (1)[^key-64922e1ff762feb2c959968ed647c155] In subsection (2) of section 145 (purposes for which information obtained under the 1993 Act may be disclosed)—
+**16.** (1)[^c-64922e1ff762feb2c959968ed647c155] In subsection (2) of section 145 (purposes for which information obtained under the 1993 Act may be disclosed)—
 
 - (a) in paragraph (a)—
   - (i) after “the Secretary of State,” insert “ the Scottish Ministers, ”; and
@@ -275,54 +275,54 @@ and omit the definition of “**franchising functions**” in relation to a Pass
 
   .
 
-(2)[^key-55059a120d3b9b2e70f8c0ca7d6c3370] In subsection (5) of that section, for “the Rail Passengers' Council or a Rail Passengers' Committee” substitute “ or the Rail Passengers' Council ”.
+(2)[^c-55059a120d3b9b2e70f8c0ca7d6c3370] In subsection (5) of that section, for “the Rail Passengers' Council or a Rail Passengers' Committee” substitute “ or the Rail Passengers' Council ”.
 
 ## Annotations
 
-[^key-76fd4c253ae8e8eef6f755f92d58f2cd]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/1) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-76fd4c253ae8e8eef6f755f92d58f2cd]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/1) in force at 8.6.2005 for specified purposes by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-1f1709f825b16383636fec8cb403866e]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/1) in force at 24.7.2005 for specified purposes by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-1f1709f825b16383636fec8cb403866e]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/1) in force at 24.7.2005 for specified purposes by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-347efdcc55b05525074c67df0e2ce102]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/1) in force at 16.10.2005 for specified purposes by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
+[^c-347efdcc55b05525074c67df0e2ce102]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/1) in force at 16.10.2005 for specified purposes by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
 
-[^key-f3492b55dc2c35ee253b736c38877e39]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/1) in force at 1.12.2006 for specified purposes by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-f3492b55dc2c35ee253b736c38877e39]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/1) in force at 1.12.2006 for specified purposes by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-95e9fbf4f54f19e3432d864049428329]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/2) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-95e9fbf4f54f19e3432d864049428329]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/2) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-1b5b6d6f3d7d330f98099b1a1f83aa9c]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/3) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-1b5b6d6f3d7d330f98099b1a1f83aa9c]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/3) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-5a7c36e339423839fe89ceeb8464b5d5]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/4) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-5a7c36e339423839fe89ceeb8464b5d5]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/4) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-77a7558ca68e28f28225560fcc7d5c1d]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/5) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-77a7558ca68e28f28225560fcc7d5c1d]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/5) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-00d7db0c2f53f24a2453b5c0d82c67be]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/6) in force at 24.7.2005 for specified purposes by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-00d7db0c2f53f24a2453b5c0d82c67be]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/6) in force at 24.7.2005 for specified purposes by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-3b71066e824d9d09bbbc1c52ec6f8b7b]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/6) in force at 16.10.2005 for specified purposes by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
+[^c-3b71066e824d9d09bbbc1c52ec6f8b7b]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/6) in force at 16.10.2005 for specified purposes by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
 
-[^key-1d494d2e10277f7a94beec71d84c5ef9]: Commencement: Sch. 11 para. 7(1)(3)-(6) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-1d494d2e10277f7a94beec71d84c5ef9]: Commencement: Sch. 11 para. 7(1)(3)-(6) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-c3e830628122685fd2c4dea1bda13823]: Commencement: Sch. 11 para. 7(2) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-c3e830628122685fd2c4dea1bda13823]: Commencement: Sch. 11 para. 7(2) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-43b01ad4d18f290365baf55cfa7af093]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/8) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-43b01ad4d18f290365baf55cfa7af093]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/8) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-e81fddea35109275547d7bb7ea1529b5]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/9) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-e81fddea35109275547d7bb7ea1529b5]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/9) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-1b69290aed185d900a26da4b6a61888d]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/10) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-1b69290aed185d900a26da4b6a61888d]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/10) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-ef937b9f04450902b8a089818f7c9073]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-ef937b9f04450902b8a089818f7c9073]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-24c7d34c5dd093fd7c12e966a16548e5]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/12) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-24c7d34c5dd093fd7c12e966a16548e5]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/12) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-a5cd81d7dba19d8f025572f57dff35ef]: Commencement: [Sch. 11 para. 13](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/13) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-a5cd81d7dba19d8f025572f57dff35ef]: Commencement: [Sch. 11 para. 13](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/13) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
 
-[^key-d5c9e945a8420d9792568b35e8f188f5]: Commencement: [Sch. 11 para. 14(1)-(5)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/14/1) in force at 8.6.2005 by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-d5c9e945a8420d9792568b35e8f188f5]: Commencement: [Sch. 11 para. 14(1)-(5)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/14/1) in force at 8.6.2005 by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-135e76f8ee75ce11d3a4cac3ac5608b1]: Commencement: [Sch. 11 para. 14(6)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/14/6)[(7)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/14/7) in force at 24.7.2005 for E.W. by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-135e76f8ee75ce11d3a4cac3ac5608b1]: Commencement: [Sch. 11 para. 14(6)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/14/6)[(7)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/14/7) in force at 24.7.2005 for E.W. by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-bcee8f5ec0afd208a834a3af2afa6d86]: Commencement: [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/15) in force at 24.7.2005 for specified purposes by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-bcee8f5ec0afd208a834a3af2afa6d86]: Commencement: [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/15) in force at 24.7.2005 for specified purposes by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-9c50d2612210b13f22c9f2daeb7cd467]: Commencement: [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/15) in force at 16.10.2005 in so far as not already in force by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
+[^c-9c50d2612210b13f22c9f2daeb7cd467]: Commencement: [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/15) in force at 16.10.2005 in so far as not already in force by [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
 
-[^key-64922e1ff762feb2c959968ed647c155]: Commencement: [Sch. 11 para. 16(1)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/16/1) in force at 8.6.2005 by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-64922e1ff762feb2c959968ed647c155]: Commencement: [Sch. 11 para. 16(1)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/16/1) in force at 8.6.2005 by [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
-[^key-55059a120d3b9b2e70f8c0ca7d6c3370]: Commencement: [Sch. 11 para. 16(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/16/2) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-55059a120d3b9b2e70f8c0ca7d6c3370]: Commencement: [Sch. 11 para. 16(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/16/2) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)

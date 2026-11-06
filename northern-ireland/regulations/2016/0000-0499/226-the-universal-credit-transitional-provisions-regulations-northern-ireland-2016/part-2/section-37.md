@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Loss of benefit penalties: reduction of universal credit[^key-055519e96d278b9d75a83bef0e9b62db]
+## 37. Loss of benefit penalties: reduction of universal credit[^c-055519e96d278b9d75a83bef0e9b62db]
 
 *Extent: N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-055519e96d278b9d75a83bef0e9b62db]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2016/226/regulation/37) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-055519e96d278b9d75a83bef0e9b62db]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2016/226/regulation/37) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
 
 [^f00055]: Footnote: Regulation 3ZA was inserted by regulation 8 of [S.R. 2016 No. 225](https://www.legislation.gov.uk/nisr/2016/225).
 

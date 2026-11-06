@@ -45,26 +45,26 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-33d215def69ea603f1612ad23a251273]
+### 1. Citation and commencement[^c-33d215def69ea603f1612ad23a251273]
 
 These Regulations may be cited as The Fire Safety Regulations (Northern Ireland) 2010 and shall come into operation on 15<sup>th</sup> November 2010.
 
-### 2. Interpretation[^key-3574c76c0a5417c8011b628766e7a762]
+### 2. Interpretation[^c-3574c76c0a5417c8011b628766e7a762]
 
 (1) In these Regulations—
 
 - “the 2006 Order” means the Fire and Rescue Services (Northern Ireland) Order 2006;
-- [^key-1cd6275397951f20a6cafb0a39815486]...<sup></sup>[^f00002]<sup></sup>
+- [^c-1cd6275397951f20a6cafb0a39815486]...<sup></sup>[^f00002]<sup></sup>
 - “child” means a person who has not attained the age of 16;
-- “the[^key-da55e19e86788eef701fdbc3d0361c95] CLP Regulation” means Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
-- [^key-b7058396c274f83034309de493191ad2]...[^f00003]
+- “the[^c-da55e19e86788eef701fdbc3d0361c95] CLP Regulation” means Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
+- [^c-b7058396c274f83034309de493191ad2]...[^f00003]
 - “competent” in relation to a person means that the person has sufficient training and experience or knowledge and other qualities to enable that person—
   - (a) in relation to regulation 12(3)(b), properly to implement the measure referred to in that regulation;
   - (b) in relation to regulation 14(1)(b), properly to implement the evacuation procedures referred to in that regulation; and
   - (c) in relation to regulation 17(1), properly to assist in undertaking the fire safety measures;
 - “dangerous substance” means—
-  - (a) a substance or mixture which meets the criteria for classification as hazardous within any physical hazard class laid down in the[^key-4093b76e722f848ef553b7bf738aff59] CLP Regulation, other than “corrosive to metals” or “gases under pressure”, whether or not the substance or mixture is classified under that Regulation
-  - (b) a substance or mixture[^key-d1cedd00b6ae78b4c26d15cb38c30b0a] which because of its physico-chemical or chemical properties and the way it is used or is present in relevant premises creates a risk; and
+  - (a) a substance or mixture which meets the criteria for classification as hazardous within any physical hazard class laid down in the[^c-4093b76e722f848ef553b7bf738aff59] CLP Regulation, other than “corrosive to metals” or “gases under pressure”, whether or not the substance or mixture is classified under that Regulation
+  - (b) a substance or mixture[^c-d1cedd00b6ae78b4c26d15cb38c30b0a] which because of its physico-chemical or chemical properties and the way it is used or is present in relevant premises creates a risk; and
   - (c) any dust, whether in the form of solid particles or fibrous materials or otherwise, which can form an explosive mixture with air or an explosive atmosphere;
 - “employment business” means a business (whether for profit or not and whether or not carried on in conjunction with any other business) which supplies persons (other than seafarers) who are employed in it to work for and under the control of other persons in any capacity;
 - “explosive atmosphere” means a mixture, under atmospheric conditions, of air and one or more dangerous substances in the form of gases, vapours, mists or dusts in which, after ignition has occurred, combustion spreads to the entire unburned mixture;
@@ -74,7 +74,7 @@ These Regulations may be cited as The Fire Safety Regulations (Northern Ireland)
 - “relevant person” has the meaning given in Article 52 of the Fire and Rescue Services (NI) Order 2006[^f00004];
 - “relevant premises” has the meaning given in Article 50 of the Fire and Rescue Services (NI) Order 2006;
 - “risk” means the risk to the safety of relevant persons from fire;
-- “safety data sheet” means a safety data sheet within the meaning of Regulation[^key-f912668d966a5dc6cd08f02cbae494e6] [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907) of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and repealing [Council Regulation (EEC) No 793/93](https://www.legislation.gov.uk/european/regulation/1993/0793) and [Commission Regulation (EC) No 1488/94](https://www.legislation.gov.uk/european/regulation/1994/1488) as well as Council Directive [76/769/EEC](https://www.legislation.gov.uk/european/directive/1976/0769) and Commission Directives [91/155/EEC](https://www.legislation.gov.uk/european/directive/1991/0155), [93/67/EEC](https://www.legislation.gov.uk/european/directive/1993/0067), [93/105/EC](https://www.legislation.gov.uk/european/directive/1993/0105) and [2000/21/EC](https://www.legislation.gov.uk/european/directive/2000/0021) ;
+- “safety data sheet” means a safety data sheet within the meaning of Regulation[^c-f912668d966a5dc6cd08f02cbae494e6] [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907) of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and repealing [Council Regulation (EEC) No 793/93](https://www.legislation.gov.uk/european/regulation/1993/0793) and [Commission Regulation (EC) No 1488/94](https://www.legislation.gov.uk/european/regulation/1994/1488) as well as Council Directive [76/769/EEC](https://www.legislation.gov.uk/european/directive/1976/0769) and Commission Directives [91/155/EEC](https://www.legislation.gov.uk/european/directive/1991/0155), [93/67/EEC](https://www.legislation.gov.uk/european/directive/1993/0067), [93/105/EC](https://www.legislation.gov.uk/european/directive/1993/0105) and [2000/21/EC](https://www.legislation.gov.uk/european/directive/2000/0021) ;
 - “special, technical or organisational measures” means those measures required to be taken or observed in any workplace in connection with the carrying on of any work process, where those measures—
   - (a) are designed to prevent or reduce the likelihood of fire arising from such a work process or reduce its intensity; and
   - (b) are required to be taken or observed to ensure compliance with any requirement of the relevant statutory provisions within the meaning given by Article 2(2) of the Health and Safety at Work (Northern Ireland) Order 1978[^f00005] and those measures include—
@@ -98,7 +98,7 @@ These Regulations may be cited as The Fire Safety Regulations (Northern Ireland)
 
 ## PART 2 — ASSESSMENTS
 
-### 3. Duty to review[^key-84e6bc3f89123043b4996efe5a6c3372]
+### 3. Duty to review[^c-84e6bc3f89123043b4996efe5a6c3372]
 
 (1) A review of an assessment under Article 25 or 26 shall be carried out regularly so as to keep it up to date.
 
@@ -112,11 +112,11 @@ These Regulations may be cited as The Fire Safety Regulations (Northern Ireland)
 
   undergo significant changes.
 
-### 4. Duty in respect of young persons[^key-6d3d7b0bfd6d88ec8f30384bc0304a08]
+### 4. Duty in respect of young persons[^c-6d3d7b0bfd6d88ec8f30384bc0304a08]
 
 An employer shall not employ a young person unless he has, in relation to risks to young persons, carried out or reviewed an assessment in accordance with his duties under Article 25 or 26 and these Regulations.
 
-### 5. Assessment and review duty in respect of young persons[^key-a6ea902e12f55361bd703bc12ade6c61]
+### 5. Assessment and review duty in respect of young persons[^c-a6ea902e12f55361bd703bc12ade6c61]
 
 In carrying out or reviewing an assessment under Article 25 an employer, before employing a young person, shall take particular account of the following in respect of harm caused by fire:–
 
@@ -128,7 +128,7 @@ In carrying out or reviewing an assessment under Article 25 an employer, before 
 - (f) the extent of the fire safety training provided or to be provided to young persons; and
 - (g) risk from agents, processes and work listed in the Annex to Council Directive [94/33/EC](https://www.legislation.gov.uk/european/directive/1994/0033)[^f00006] on the protection of young people at work.
 
-### 6. Assessment and review duty in respect of dangerous substances[^key-2a8c031565c81dc0e32b3e104fbd669e]
+### 6. Assessment and review duty in respect of dangerous substances[^c-2a8c031565c81dc0e32b3e104fbd669e]
 
 Where a dangerous substance is or is liable to be present in the relevant premises, the matters which shall be taken into account when a person carries out an assessment or a review under Article 25 or 26 are—
 
@@ -147,11 +147,11 @@ Where a dangerous substance is or is liable to be present in the relevant premis
 - (i) any places which are, or can be connected via openings to, places in which explosive atmospheres may occur; and
 - (j) such additional safety information as the person with duties under Article 25 or 26 may need in order to complete the assessment or review.
 
-### 7. New work activities where dangerous substances are present[^key-3b04dfd4ef4464fc9025d15c0f4a5a54]
+### 7. New work activities where dangerous substances are present[^c-3b04dfd4ef4464fc9025d15c0f4a5a54]
 
 No new work activity involving a dangerous substance may commence unless the person with duties under Article 25 or 26 has fulfilled their fire safety duties in respect of the dangerous substances.
 
-### 8. Duty to record information[^key-6444a04e25161867bdbfdff798743b64]
+### 8. Duty to record information[^c-6444a04e25161867bdbfdff798743b64]
 
 As soon as practicable after an assessment has been carried out or reviewed, the person with duties under Article 25 or 26 shall record the information specified in regulation 9 where—
 
@@ -159,7 +159,7 @@ As soon as practicable after an assessment has been carried out or reviewed, the
 - (b) a licence or registration under a statutory provision is required in relation to the relevant premises; or
 - (c) an alterations notice requiring this by virtue of Article 38(6)(a) is in force in relation to the relevant premises.
 
-### 9. Specified information[^key-54cab586f8b0f96993e5248acd848fb6]
+### 9. Specified information[^c-54cab586f8b0f96993e5248acd848fb6]
 
 The specified information is—
 
@@ -168,7 +168,7 @@ The specified information is—
 
 ## PART 3 — FIRE SAFETY
 
-### 10. Fire safety arrangements[^key-54ae19ae0cdefe583d477d2c6e0f80bb]
+### 10. Fire safety arrangements[^c-54ae19ae0cdefe583d477d2c6e0f80bb]
 
 (1) In carrying out duties to which a person is subject by virtue of Article 25(2)(b), (3)(b), 26(2)(b) or (5)(b), a person shall make and give effect to such arrangements as are appropriate, having regard to the size of his undertaking and the nature of its activities, for the effective planning, organisation, control, monitoring and review of the fire safety measures within the meaning of Article 51.
 
@@ -178,7 +178,7 @@ The specified information is—
 - (b) a licence or registration under a statutory provision is required in relation to the relevant premises; or
 - (c) an alterations notice requiring this by virtue of Article 38(6)(b) is in force in relation to the relevant premises.
 
-### 11. Elimination or reduction of risks from dangerous substances[^key-ec8e2249a2d1c1e43d1ee76f094ae508]
+### 11. Elimination or reduction of risks from dangerous substances[^c-ec8e2249a2d1c1e43d1ee76f094ae508]
 
 (1) Where a dangerous substance is present in relevant premises, a person having duties under Article 25 or 26 shall ensure that risk to relevant persons related to the presence of the substance is either eliminated or reduced so far as is reasonably practicable.
 
@@ -196,7 +196,7 @@ The specified information is—
 - (a) arrange for the safe handling, storage and transport of dangerous substances and waste containing dangerous substances; and
 - (b) ensure that any conditions necessary pursuant to these Regulations and the 2006 Order for ensuring the elimination or reduction of risk are maintained.
 
-### 12. Means for fighting fire and means for giving warning in the event of fire[^key-35a7e119da88b96c8f720d17aba5cdf1]
+### 12. Means for fighting fire and means for giving warning in the event of fire[^c-35a7e119da88b96c8f720d17aba5cdf1]
 
 (1) Where necessary (whether due to the features of the relevant premises, the activity carried on there, any hazard present or any other relevant circumstances) in order to ensure the safety of relevant persons in respect of harm caused by fire, a person with duties under Article 25 or 26 shall ensure that—
 
@@ -211,7 +211,7 @@ The specified information is—
 - (b) nominate competent persons to implement those measures and ensure that the number of such persons, their training and the equipment available to them are adequate, taking into account the size of, and the specific hazards involved in, the relevant premises concerned; and
 - (c) arrange any necessary contacts with external emergency services, particularly as regards fire fighting and rescue work.
 
-### 13. Means of escape[^key-354707311f9cbcdf4c9262fce38cb4dc]
+### 13. Means of escape[^c-354707311f9cbcdf4c9262fce38cb4dc]
 
 (1) Where necessary in order to ensure the safety of relevant persons in respect of harm caused by fire, the person with duties under Article 25 or 26 shall ensure that routes to emergency exits from relevant premises and the exits themselves are kept free from obstruction at all times.
 
@@ -226,7 +226,7 @@ The specified information is—
 - (g) emergency routes and exits shall be indicated by signs; and
 - (h) emergency routes and exits requiring illumination shall be provided with emergency lighting of adequate intensity in the case of failure of their normal lighting.
 
-### 14. Procedures for serious and imminent danger from fire and for danger areas[^key-385766659dd0de50c5bc9d1ed0cd2a7b]
+### 14. Procedures for serious and imminent danger from fire and for danger areas[^c-385766659dd0de50c5bc9d1ed0cd2a7b]
 
 (1) A person with duties under Article 25 or 26 shall—
 
@@ -240,7 +240,7 @@ The specified information is—
 - (b) enable the relevant persons concerned (if necessary by taking appropriate steps in the absence of guidance or instruction and in the light of their knowledge and the technical means at their disposal) to stop work and immediately proceed to a safe area beyond the relevant premises in the event of their being exposed to serious, imminent and unavoidable danger from fire; and
 - (c) save in exceptional cases for reasons duly substantiated (which cases and reasons shall be specified in those procedures), require the relevant persons concerned to be prevented from resuming work in any situation where there is still a serious and imminent danger from fire.
 
-### 15. Additional emergency measures in respect of dangerous substances[^key-7c2bb48cd4cba80f798b6b461dc2d2d0]
+### 15. Additional emergency measures in respect of dangerous substances[^c-7c2bb48cd4cba80f798b6b461dc2d2d0]
 
 (1) Subject to paragraph (4), in order to ensure the safety in respect of harm caused by fire of relevant persons arising from an accident, incident or emergency related to the presence of a dangerous substance in the relevant premises, the person with duties under Article 25 or 26 shall ensure that—
 
@@ -273,7 +273,7 @@ The specified information is—
 - (a) the results of the assessment show that, because of the quantity of each dangerous substance in the premises, there is only a slight risk to relevant persons; and
 - (b) the measures taken by the person with duties under Article 25 or 26 to comply with his duty under regulation 11 are sufficient to control that risk.
 
-### 16. Maintenance[^key-d20516a7c0d2506e5fa3a69baf86b63e]
+### 16. Maintenance[^c-d20516a7c0d2506e5fa3a69baf86b63e]
 
 (1) Where necessary in order to ensure the safety of relevant persons in respect of harm caused by fire the person with duties under Article 25 or 26 shall ensure that the relevant premises and any facilities, equipment and devices provided in respect of the relevant premises under these Regulations or, subject to paragraph (5), under any other statutory provision, including any statutory provision repealed or revoked by, under, or by virtue of the 2006 Order, are subject to a suitable system of maintenance and are maintained in an efficient state, in efficient working order and in good repair.
 
@@ -285,7 +285,7 @@ The specified information is—
 
 (5) Paragraph (1) only applies to facilities, equipment and devices provided under other statutory provisions where they are provided in connection with fire safety measures.
 
-### 17. Safety assistance[^key-dadb64dcf11d358c68db1330afd0f5dc]
+### 17. Safety assistance[^c-dadb64dcf11d358c68db1330afd0f5dc]
 
 (1) The person with duties under Article 25 or 26 shall, subject to paragraphs (5) and (6), nominate one or more competent persons to assist him in undertaking the measures necessary to comply with fire safety duties.
 
@@ -313,7 +313,7 @@ The specified information is—
 
 (7) Where there is a competent person in the employment of a person with duties under Article 25 or 26, that competent person shall be nominated for the purposes of paragraph (1) in preference to a competent person not in his employment.
 
-### 18. Provision of information to employees[^key-340ea8eab7bf14b25071a905a1bcea37]
+### 18. Provision of information to employees[^c-340ea8eab7bf14b25071a905a1bcea37]
 
 (1) An employer shall provide his employees with comprehensible and relevant information on—
 
@@ -344,7 +344,7 @@ and for the purposes of this paragraph, “parent of the child” includes a per
 - (a) adapted to take account of significant changes in the activity carried out or methods used by the employer; and
 - (b) provided in a manner appropriate to the risk identified by the assessment carried out or reviewed under Article 25 and these Regulations.
 
-### 19. Provision of information to employers and the self-employed from outside undertakings[^key-8d27db5cf6520bd2e2badea8a146f509]
+### 19. Provision of information to employers and the self-employed from outside undertakings[^c-8d27db5cf6520bd2e2badea8a146f509]
 
 (1) A person with duties under Article 25 or 26 shall ensure that the employer of any employees from an outside undertaking who are working in the relevant premises is provided with comprehensible and relevant information on—
 
@@ -358,7 +358,7 @@ and for the purposes of this paragraph, “parent of the child” includes a per
 - (a) ensure that the employer or any employees from an outside undertaking who are working in the relevant premises is provided with sufficient information to enable the employer to identify any person nominated by the person with duties under Article 25 or 26 in accordance with regulation 14(1)(b) to implement evacuation procedures as far as those employees are concerned; and
 - (b) take all reasonable steps to ensure that any person from an outside undertaking who is working in the relevant premises receives sufficient information to enable that person to identify any person nominated by the person with duties under Article 25 or 26 in accordance with regulation 14(1)(b) to implement evacuation procedures as far as they are concerned.
 
-### 20. Training[^key-7b271d17a3c9b5fb0dbaaf7f69799ba7]
+### 20. Training[^c-7b271d17a3c9b5fb0dbaaf7f69799ba7]
 
 (1) An employer with duties under Article 25 shall ensure that his employees are provided with adequate fire safety training—
 
@@ -379,7 +379,7 @@ and for the purposes of this paragraph, “parent of the child” includes a per
 
 (3) An employer shall, in entrusting tasks to employees, take into account their capabilities as regards health and safety, so far as they relate to fire.
 
-### 21. Co-operation and co-ordination[^key-d7de38cbb5cbffb9c86c9f568bb4481e]
+### 21. Co-operation and co-ordination[^c-d7de38cbb5cbffb9c86c9f568bb4481e]
 
 (1) Where two or more persons with duties under Article 25 or 26 share, or have duties in respect of, relevant premises (whether on a temporary or a permanent basis) each such person shall—
 
@@ -389,7 +389,7 @@ and for the purposes of this paragraph, “parent of the child” includes a per
 
 (2) Where two or more persons with duties under Article 25 or 26 share relevant premises (whether on a temporary or a permanent basis) where an explosive atmosphere may occur, the person with such duties who has overall responsibility for the relevant premises shall co-ordinate the implementation of all the measures required by fire safety duties to be taken to protect relevant persons from any risk from the explosive atmosphere.
 
-### 22. Duties of Employees[^key-a9357c6ff17ff269faf625c2eb46f552]
+### 22. Duties of Employees[^c-a9357c6ff17ff269faf625c2eb46f552]
 
 Each employee shall, while at work, inform his employer or any other employee with specific responsibility for fire safety—
 
@@ -400,7 +400,7 @@ in so far as that situation or matter either affects the safety in respect of ha
 
 ## PART 4 — MISCELLANEOUS
 
-### 23. Maintenance of measures provided in relevant premises for protection of fire fighters[^key-f3050b43c3a0475c75382458b3cb8ae8]
+### 23. Maintenance of measures provided in relevant premises for protection of fire fighters[^c-f3050b43c3a0475c75382458b3cb8ae8]
 
 (1) Where necessary in order to secure the safety of fire fighters, (whether employees of the Board or otherwise) in the event of a fire in relevant premises, the person with duties under Article 25 or 26 shall ensure that the relevant premises and any facilities, equipment and devices provided in respect of the relevant premises for the use by or protection of fire fighters under these Regulations, the 2006 Order or under any other statutory provision, including any statutory provision repealed or revoked by, under or by virtue of the 2006 Order, are subject to a suitable system of maintenance and are maintained in an efficient state, in efficient working order and in good repair.
 
@@ -410,7 +410,7 @@ in so far as that situation or matter either affects the safety in respect of ha
 
 (4) Where the occupier of the other premises is not also the owner of those premises, the reference to the occupier in paragraph (2) is taken to be a reference to both the occupier and the owner.
 
-### 24. Maintenance of measures provided in the common areas of private dwellings for protection of fire fighters[^key-5930b41b70e3591d916390f5352de03a]
+### 24. Maintenance of measures provided in the common areas of private dwellings for protection of fire fighters[^c-5930b41b70e3591d916390f5352de03a]
 
 (1) Regulation 23 shall apply to the common areas of private dwellings as if they were relevant premises, with the modifications specified in paragraphs (2) and (3).
 
@@ -426,7 +426,7 @@ in so far as that situation or matter either affects the safety in respect of ha
 - (b) the reference to fire safety duties in Articles 32(1), and (3), 33(1), 34(2)(c), (4)(a), (6) and (7), 37(1), (2)(a) and (6) and 39(1)(a) shall be taken to include the application in paragraph (1) of the safeguarding provision to the common areas of private dwellings; and
 - (c) for the purposes of Article 41(3)(a), this regulation is deemed to be one to which a person is subject by virtue of regulations made under Article 30.
 
-### 25. Nominated person’s act or omission not to afford employer defence[^key-933a20397921b7e13c96f37fb0930db6]
+### 25. Nominated person’s act or omission not to afford employer defence[^c-933a20397921b7e13c96f37fb0930db6]
 
 (1) Persons of a description specified in paragraph (2), on whom duties have been imposed by virtue of Article 30(1), are specified for the purposes of Article 44(b).
 
@@ -436,7 +436,7 @@ in so far as that situation or matter either affects the safety in respect of ha
 - (b) regulation 14(1)(b); and
 - (c) regulation 17(1).
 
-### 26. Disapplication of certain provisions[^key-bd5de52e091e9dff1db7aa946084dd8f]
+### 26. Disapplication of certain provisions[^c-bd5de52e091e9dff1db7aa946084dd8f]
 
 (1) Regulations 4, 5 and 18(2) do not apply in relation to occasional work or short-term work involving work regulated as not being harmful, damaging, or dangerous to young persons in a family undertaking.
 
@@ -465,7 +465,7 @@ Department of Health, Social Services and Public Safety
 
 Regulation 11 (4)
 
-**1.**[^key-d09d4a99f7cab498c03f9f2efdf4bebf] In applying measures to control risks the person with duties under Article 25 or 26 shall, in order of priority—
+**1.**[^c-d09d4a99f7cab498c03f9f2efdf4bebf] In applying measures to control risks the person with duties under Article 25 or 26 shall, in order of priority—
 
 - (a) reduce the quantity of dangerous substances to a minimum;
 - (b) avoid or minimise the release of a dangerous substance;
@@ -477,7 +477,7 @@ Regulation 11 (4)
   - (ii) such other adverse conditions as could result in harmful physical effects from a dangerous substance; and
 - (g) segregate incompatible dangerous substances.
 
-**2.**[^key-08b60115dffed0e03ce7283a06c14e15] The person with duties under Article 25 or 26 shall ensure that mitigation measures applied in accordance with regulation 11(3)(b) include—
+**2.**[^c-08b60115dffed0e03ce7283a06c14e15] The person with duties under Article 25 or 26 shall ensure that mitigation measures applied in accordance with regulation 11(3)(b) include—
 
 - (a) reducing to a minimum the number of persons exposed;
 - (b) measures to avoid the propagation of fires or explosions;
@@ -486,7 +486,7 @@ Regulation 11 (4)
 - (e) providing plant which is constructed so as to withstand the pressure likely to be produced by an explosion; and
 - (f) providing suitable personal protective equipment.
 
-**3.**[^key-4a1a2267a619e56af596a228b5df77bc] The person with duties under Article 25 or 26 shall—
+**3.**[^c-4a1a2267a619e56af596a228b5df77bc] The person with duties under Article 25 or 26 shall—
 
 - (a) ensure that the relevant premises are designed, constructed, and maintained so as to reduce risk;
 - (b) ensure that suitable special, technical and organisational measures are designed, constructed, assembled, installed, provided and used so as to reduce risk
@@ -529,81 +529,81 @@ Part 4 provides for miscellaneous matters, including the maintenance of measures
 
 [^f00001]: Footnote: [S.I. 2006/1254 (N.I.9)](https://www.legislation.gov.uk/nisi/2006/1254) See Article 2(2) for definition of “Department” and “prescribed”
 
-[^key-33d215def69ea603f1612ad23a251273]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-33d215def69ea603f1612ad23a251273]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-3574c76c0a5417c8011b628766e7a762]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/325/regulation/2) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-3574c76c0a5417c8011b628766e7a762]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/325/regulation/2) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-1cd6275397951f20a6cafb0a39815486]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/325/regulation/2/1) omitted (1.7.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [13(2)(a)](https://www.legislation.gov.uk/nisr/2015/265/regulation/13/2/a)
+[^c-1cd6275397951f20a6cafb0a39815486]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/325/regulation/2/1) omitted (1.7.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [13(2)(a)](https://www.legislation.gov.uk/nisr/2015/265/regulation/13/2/a)
 
 [^f00002]: Footnote: ISBN 0-7176-2369-6
 
-[^key-da55e19e86788eef701fdbc3d0361c95]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/325/regulation/2/1) inserted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [13(2)(c)](https://www.legislation.gov.uk/nisr/2015/265/regulation/13/2/c)
+[^c-da55e19e86788eef701fdbc3d0361c95]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/325/regulation/2/1) inserted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [13(2)(c)](https://www.legislation.gov.uk/nisr/2015/265/regulation/13/2/c)
 
-[^key-b7058396c274f83034309de493191ad2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/325/regulation/2/1) omitted (1.7.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [13(2)(b)](https://www.legislation.gov.uk/nisr/2015/265/regulation/13/2/b)
+[^c-b7058396c274f83034309de493191ad2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/325/regulation/2/1) omitted (1.7.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [13(2)(b)](https://www.legislation.gov.uk/nisr/2015/265/regulation/13/2/b)
 
 [^f00003]: Footnote: [S.R. 2002 No. 301](https://www.legislation.gov.uk/nisr/2002/301) as amended by [S.R. 2005 No. 463](https://www.legislation.gov.uk/nisr/2005/463) regulation 2(3)
 
-[^key-4093b76e722f848ef553b7bf738aff59]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/325/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [13(2)(d)(i)](https://www.legislation.gov.uk/nisr/2015/265/regulation/13/2/d/i)
+[^c-4093b76e722f848ef553b7bf738aff59]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/325/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [13(2)(d)(i)](https://www.legislation.gov.uk/nisr/2015/265/regulation/13/2/d/i)
 
-[^key-d1cedd00b6ae78b4c26d15cb38c30b0a]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/325/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [13(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2015/265/regulation/13/2/d/ii)
+[^c-d1cedd00b6ae78b4c26d15cb38c30b0a]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/325/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [13(2)(d)(ii)](https://www.legislation.gov.uk/nisr/2015/265/regulation/13/2/d/ii)
 
 [^f00004]: Footnote: [S.I. 2006/1254 (N.I. 9)](https://www.legislation.gov.uk/nisi/2006/1254)
 
-[^key-f912668d966a5dc6cd08f02cbae494e6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/325/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [13(2)(e)](https://www.legislation.gov.uk/nisr/2015/265/regulation/13/2/e)
+[^c-f912668d966a5dc6cd08f02cbae494e6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/325/regulation/2/1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [13(2)(e)](https://www.legislation.gov.uk/nisr/2015/265/regulation/13/2/e)
 
 [^f00005]: Footnote: [S.I. 1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
 
-[^key-84e6bc3f89123043b4996efe5a6c3372]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/325/regulation/3) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-84e6bc3f89123043b4996efe5a6c3372]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/325/regulation/3) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-6d3d7b0bfd6d88ec8f30384bc0304a08]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/325/regulation/4) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-6d3d7b0bfd6d88ec8f30384bc0304a08]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/325/regulation/4) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-a6ea902e12f55361bd703bc12ade6c61]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/325/regulation/5) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-a6ea902e12f55361bd703bc12ade6c61]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2010/325/regulation/5) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
 [^f00006]: Footnote: O.J. No L 216, 20.8.94, p. 12.
 
-[^key-2a8c031565c81dc0e32b3e104fbd669e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/325/regulation/6) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-2a8c031565c81dc0e32b3e104fbd669e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/325/regulation/6) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-3b04dfd4ef4464fc9025d15c0f4a5a54]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/325/regulation/7) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-3b04dfd4ef4464fc9025d15c0f4a5a54]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2010/325/regulation/7) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-6444a04e25161867bdbfdff798743b64]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2010/325/regulation/8) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-6444a04e25161867bdbfdff798743b64]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2010/325/regulation/8) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-54cab586f8b0f96993e5248acd848fb6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2010/325/regulation/9) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-54cab586f8b0f96993e5248acd848fb6]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2010/325/regulation/9) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-54ae19ae0cdefe583d477d2c6e0f80bb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/325/regulation/10) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-54ae19ae0cdefe583d477d2c6e0f80bb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2010/325/regulation/10) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-ec8e2249a2d1c1e43d1ee76f094ae508]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2010/325/regulation/11) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-ec8e2249a2d1c1e43d1ee76f094ae508]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2010/325/regulation/11) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-35a7e119da88b96c8f720d17aba5cdf1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2010/325/regulation/12) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-35a7e119da88b96c8f720d17aba5cdf1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2010/325/regulation/12) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-354707311f9cbcdf4c9262fce38cb4dc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2010/325/regulation/13) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-354707311f9cbcdf4c9262fce38cb4dc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2010/325/regulation/13) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-385766659dd0de50c5bc9d1ed0cd2a7b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2010/325/regulation/14) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-385766659dd0de50c5bc9d1ed0cd2a7b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2010/325/regulation/14) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-7c2bb48cd4cba80f798b6b461dc2d2d0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2010/325/regulation/15) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-7c2bb48cd4cba80f798b6b461dc2d2d0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2010/325/regulation/15) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-d20516a7c0d2506e5fa3a69baf86b63e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2010/325/regulation/16) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-d20516a7c0d2506e5fa3a69baf86b63e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2010/325/regulation/16) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-dadb64dcf11d358c68db1330afd0f5dc]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2010/325/regulation/17) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-dadb64dcf11d358c68db1330afd0f5dc]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2010/325/regulation/17) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-340ea8eab7bf14b25071a905a1bcea37]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2010/325/regulation/18) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-340ea8eab7bf14b25071a905a1bcea37]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2010/325/regulation/18) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-8d27db5cf6520bd2e2badea8a146f509]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2010/325/regulation/19) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-8d27db5cf6520bd2e2badea8a146f509]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2010/325/regulation/19) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-7b271d17a3c9b5fb0dbaaf7f69799ba7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2010/325/regulation/20) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-7b271d17a3c9b5fb0dbaaf7f69799ba7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2010/325/regulation/20) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-d7de38cbb5cbffb9c86c9f568bb4481e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2010/325/regulation/21) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-d7de38cbb5cbffb9c86c9f568bb4481e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2010/325/regulation/21) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-a9357c6ff17ff269faf625c2eb46f552]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2010/325/regulation/22) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-a9357c6ff17ff269faf625c2eb46f552]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2010/325/regulation/22) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-f3050b43c3a0475c75382458b3cb8ae8]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2010/325/regulation/23) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-f3050b43c3a0475c75382458b3cb8ae8]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2010/325/regulation/23) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-5930b41b70e3591d916390f5352de03a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2010/325/regulation/24) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-5930b41b70e3591d916390f5352de03a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2010/325/regulation/24) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-933a20397921b7e13c96f37fb0930db6]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2010/325/regulation/25) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-933a20397921b7e13c96f37fb0930db6]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2010/325/regulation/25) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-bd5de52e091e9dff1db7aa946084dd8f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2010/325/regulation/26) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-bd5de52e091e9dff1db7aa946084dd8f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2010/325/regulation/26) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
 [^f00008]: Footnote: O.J. No L 23, 28.1.00, p.57.
 
@@ -615,8 +615,8 @@ Part 4 provides for miscellaneous matters, including the maintenance of measures
 
 [^f00012]: Footnote: [S.I. 1998/1504 (N.I. 9)](https://www.legislation.gov.uk/nisi/1998/1504)
 
-[^key-d09d4a99f7cab498c03f9f2efdf4bebf]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2010/325/schedule/paragraph/1) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-d09d4a99f7cab498c03f9f2efdf4bebf]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2010/325/schedule/paragraph/1) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-08b60115dffed0e03ce7283a06c14e15]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2010/325/schedule/paragraph/2) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-08b60115dffed0e03ce7283a06c14e15]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2010/325/schedule/paragraph/2) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
 
-[^key-4a1a2267a619e56af596a228b5df77bc]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2010/325/schedule/paragraph/3) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)
+[^c-4a1a2267a619e56af596a228b5df77bc]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2010/325/schedule/paragraph/3) in operation at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/325/regulation/1)

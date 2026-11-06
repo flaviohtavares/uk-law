@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97ZC. Recording equipment system elements: security vulnerabilities[^key-65ac7c299b60264567fc5009100a60ce]
+## 97ZC. Recording equipment system elements: security vulnerabilities[^c-65ac7c299b60264567fc5009100a60ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65ac7c299b60264567fc5009100a60ce]: Textual amendment: [Ss. 97ZA-97ZC](https://www.legislation.gov.uk/ukpga/1968/73/section/97ZA) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2019/453/regulation/5)
+[^c-65ac7c299b60264567fc5009100a60ce]: Textual amendment: [Ss. 97ZA-97ZC](https://www.legislation.gov.uk/ukpga/1968/73/section/97ZA) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2019/453/regulation/5)

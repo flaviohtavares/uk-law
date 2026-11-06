@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 129. Application for HMO licence[^key-5e5835535d53c0c392bb0ac9ce133fef]
+## 129. Application for HMO licence[^c-5e5835535d53c0c392bb0ac9ce133fef]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e5835535d53c0c392bb0ac9ce133fef]: Commencement: S. 129 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-5e5835535d53c0c392bb0ac9ce133fef]: Commencement: S. 129 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

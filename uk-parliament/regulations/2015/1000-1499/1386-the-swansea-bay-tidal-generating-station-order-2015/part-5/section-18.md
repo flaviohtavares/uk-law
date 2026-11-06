@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Abatement of tidal works abandoned or destroyed[^key-0e0af3bd8502e6d43d775e02cddf00cd]
+## 18. Abatement of tidal works abandoned or destroyed[^c-0e0af3bd8502e6d43d775e02cddf00cd]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e0af3bd8502e6d43d775e02cddf00cd]: Commencement: Art. 18 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-0e0af3bd8502e6d43d775e02cddf00cd]: Commencement: Art. 18 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

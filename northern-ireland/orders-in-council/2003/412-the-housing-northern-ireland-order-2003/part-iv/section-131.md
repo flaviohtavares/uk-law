@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 131. House sales by registered housing associations[^key-5669b3faf6c070df93cdf3675ca949de]
+## 131. House sales by registered housing associations[^c-5669b3faf6c070df93cdf3675ca949de]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5669b3faf6c070df93cdf3675ca949de]: Textual amendment: [Art. 131](https://www.legislation.gov.uk/nisi/2003/412/article/131) omitted (29.8.2022) by virtue of [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [s. 10(1)](https://www.legislation.gov.uk/nia/2020/5/section/10/1), [Sch. para. 1(b)](https://www.legislation.gov.uk/nia/2020/5/schedule/paragraph/1/b) (with [s. 7(2)](https://www.legislation.gov.uk/nia/2020/5/section/7/2))
+[^c-5669b3faf6c070df93cdf3675ca949de]: Textual amendment: [Art. 131](https://www.legislation.gov.uk/nisi/2003/412/article/131) omitted (29.8.2022) by virtue of [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [s. 10(1)](https://www.legislation.gov.uk/nia/2020/5/section/10/1), [Sch. para. 1(b)](https://www.legislation.gov.uk/nia/2020/5/schedule/paragraph/1/b) (with [s. 7(2)](https://www.legislation.gov.uk/nia/2020/5/section/7/2))

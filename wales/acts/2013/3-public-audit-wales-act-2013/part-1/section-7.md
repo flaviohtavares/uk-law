@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Remuneration[^key-3af6a5462ef6f0f83658e0f932cb0b13]
+## 7. Remuneration[^c-3af6a5462ef6f0f83658e0f932cb0b13]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3af6a5462ef6f0f83658e0f932cb0b13]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2013/3/section/7) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-3af6a5462ef6f0f83658e0f932cb0b13]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2013/3/section/7) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

@@ -54,14 +54,14 @@ This Order may be cited as the Edible Crabs (Undersized) Order (Northern Ireland
 
 - “**the Act**” means the Fisheries Act (Northern Ireland) 1966;
 - “**edible crab**” means crab of the species *Cancer pagurus*;
-- “[^key-5bd1265767eb47a350f44d192a2456cc]**foreign fishing boat**” has the same meaning as in the Fisheries Act 2020 (see section 52 of that Act);
+- “[^c-5bd1265767eb47a350f44d192a2456cc]**foreign fishing boat**” has the same meaning as in the Fisheries Act 2020 (see section 52 of that Act);
 - “**size**” means the maximum width of the carapace measured perpendicular to the antero-posterior midline of the carapace and shall be measured as shown in the Schedule to this Order.
 
 ## 3. Prescribed minimum size for edible crabs
 
-For the purposes of section 127(1) of the Act (which prohibits the bringing to land, landing, sale or offer or exposure for sale, or possession for the purpose of sale, of any sea fish of any description being a sea fish of a smaller size as may be prescribed in relation to sea fish of that description) there is hereby prescribed as the minimum size in relation to edible crabs a size of 150[^key-92a02a2e67eaf482974867f13f6e09c9] millimetres.
+For the purposes of section 127(1) of the Act (which prohibits the bringing to land, landing, sale or offer or exposure for sale, or possession for the purpose of sale, of any sea fish of any description being a sea fish of a smaller size as may be prescribed in relation to sea fish of that description) there is hereby prescribed as the minimum size in relation to edible crabs a size of 150[^c-92a02a2e67eaf482974867f13f6e09c9] millimetres.
 
-## 4. Exemptions[^key-25717de353803d1503d5287ed99acff5]
+## 4. Exemptions[^c-25717de353803d1503d5287ed99acff5]
 
 (1) The prohibition imposed by section 127(1) of the Act, as read with Article 3 and the Schedule, does not apply to any person operating under the authority of, and in accordance with a permit granted under, section 14 of the Act.
 
@@ -107,10 +107,10 @@ Article 5 revokes the Undersized Edible Crabs Order 2000 which provides for a mi
 
 [^c24253561]: Marginal citation: [1954 c.53](https://www.legislation.gov.uk/ukpga/1954/53)
 
-[^key-5bd1265767eb47a350f44d192a2456cc]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisr/2020/153/article/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 36(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/36/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-5bd1265767eb47a350f44d192a2456cc]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisr/2020/153/article/2) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 36(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/36/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-92a02a2e67eaf482974867f13f6e09c9]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/nisr/2020/153/article/3) substituted (8.1.2022) by [The Edible Crabs (Undersized) (Amendment) Order (Northern Ireland) 2021 (S.R. 2021/335)](https://www.legislation.gov.uk/nisr/2021/335), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2021/335/article/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2021/335/article/2/2)
+[^c-92a02a2e67eaf482974867f13f6e09c9]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/nisr/2020/153/article/3) substituted (8.1.2022) by [The Edible Crabs (Undersized) (Amendment) Order (Northern Ireland) 2021 (S.R. 2021/335)](https://www.legislation.gov.uk/nisr/2021/335), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2021/335/article/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2021/335/article/2/2)
 
-[^key-25717de353803d1503d5287ed99acff5]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisr/2020/153/article/4) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 36(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/36/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-25717de353803d1503d5287ed99acff5]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/nisr/2020/153/article/4) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 36(3)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/36/3) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c24253591]: Marginal citation: [S.I. 2000/2029](https://www.legislation.gov.uk/uksi/2000/2029)

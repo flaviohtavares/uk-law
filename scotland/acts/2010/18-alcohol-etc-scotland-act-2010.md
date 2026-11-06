@@ -38,13 +38,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Pricing of alcohol
 
-#### 1. Section: duration of amendments[^key-d755cfb21cbee31517d8742b340e1e73]
+#### 1. Section: duration of amendments[^c-d755cfb21cbee31517d8742b340e1e73]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Minimum price of packages containing more than one alcoholic product[^key-f5eda01dcce56694ce7039baccaca653]
+#### 2. Minimum price of packages containing more than one alcoholic product[^c-f5eda01dcce56694ce7039baccaca653]
 
 (1) The 2005 Act is amended as follows.
 
@@ -78,7 +78,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 3. Off-sales: variation of pricing of alcoholic drinks[^key-5014bf8c9f2eed7aa80ead0d66e69597]
+#### 3. Off-sales: variation of pricing of alcoholic drinks[^c-5014bf8c9f2eed7aa80ead0d66e69597]
 
 (1) The 2005 Act is amended as follows.
 
@@ -110,7 +110,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Drinks promotions
 
-#### 4. Off-sales: restriction on supply of alcoholic drinks free of charge or at reduced price[^key-57cabbc2808cef4aafc9209005c073b2]
+#### 4. Off-sales: restriction on supply of alcoholic drinks free of charge or at reduced price[^c-57cabbc2808cef4aafc9209005c073b2]
 
 (1) The 2005 Act is amended as follows.
 
@@ -118,7 +118,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) In paragraph 7(3) of schedule 4 (occasional licences: restriction on certain irresponsible drinks promotions to apply to on-sales only), for “(b) to (d)” substitute “ (c) to (e) ”.
 
-#### 5. Off-sales: location of drinks promotions[^key-10927580f370ad2fbf2ca62e615b2f9e]
+#### 5. Off-sales: location of drinks promotions[^c-10927580f370ad2fbf2ca62e615b2f9e]
 
 (1) Schedule 3 to the 2005 Act (premises licences) is amended as follows.
 
@@ -173,7 +173,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Age verification policy
 
-#### 6. Requirement for age verification policy[^key-91b779d510dc1d3827594c1949a37745]
+#### 6. Requirement for age verification policy[^c-91b779d510dc1d3827594c1949a37745]
 
 (1) The 2005 Act is amended as follows.
 
@@ -203,7 +203,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Modification of mandatory conditions
 
-#### 7. Premises licences: modification of mandatory conditions[^key-2b1bcf13f931f3f777d2c37d0f175868]
+#### 7. Premises licences: modification of mandatory conditions[^c-2b1bcf13f931f3f777d2c37d0f175868]
 
 (1) Section 27 of the 2005 Act (conditions of premises licence) is amended as follows.
 
@@ -211,7 +211,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) In subsection (2)(b), after “condition” insert “ for the time being ”.
 
-#### 8. Occasional licences: modification of mandatory conditions[^key-1be1faf537e5b4639f2fbb093c0aeb7d]
+#### 8. Occasional licences: modification of mandatory conditions[^c-1be1faf537e5b4639f2fbb093c0aeb7d]
 
 (1) The 2005 Act is amended as follows.
 
@@ -227,7 +227,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Sale of alcohol to under 21s
 
-#### 9. Presumption against prohibition on off-sales to under 21s[^key-d3e58f0190097422008d6d9accfed9fe]
+#### 9. Presumption against prohibition on off-sales to under 21s[^c-d3e58f0190097422008d6d9accfed9fe]
 
 In section 6 of the 2005 Act (statements of licensing policy), after subsection (3) insert—
 
@@ -242,7 +242,7 @@ In section 6 of the 2005 Act (statements of licensing policy), after subsection 
 
 ### Variation of licence conditions
 
-#### 10. Premises licences: variation of conditions[^key-b4cec128a35220eee4ac0b2d82dd8a04]
+#### 10. Premises licences: variation of conditions[^c-b4cec128a35220eee4ac0b2d82dd8a04]
 
 (1) After section 27 of the 2005 Act, insert—
 
@@ -299,7 +299,7 @@ In section 6 of the 2005 Act (statements of licensing policy), after subsection 
 
 ### Consultation etc. of health boards
 
-#### 11. Consultation etc. of health boards[^key-409201f16d7fc5aff14073dfc47b2bff]
+#### 11. Consultation etc. of health boards[^c-409201f16d7fc5aff14073dfc47b2bff]
 
 (1) The 2005 Act is amended as follows.
 
@@ -364,7 +364,7 @@ In section 6 of the 2005 Act (statements of licensing policy), after subsection 
 
 ### Chief constables' reports
 
-#### 12. Chief constables' reports to Licensing Boards and Local Licensing Forums[^key-4a8e0b0369f888bd1fe3656d039939fa]
+#### 12. Chief constables' reports to Licensing Boards and Local Licensing Forums[^c-4a8e0b0369f888bd1fe3656d039939fa]
 
 After section 12 of the 2005 Act, insert—
 
@@ -389,7 +389,7 @@ After section 12 of the 2005 Act, insert—
 
 ### Occasional licences
 
-#### 13. Occasional licences: limits on numbers and duration of licences[^key-db4cc999f0292dde54fdb9285c73800e]
+#### 13. Occasional licences: limits on numbers and duration of licences[^c-db4cc999f0292dde54fdb9285c73800e]
 
 (1) The 2005 Act is amended as follows.
 
@@ -425,7 +425,7 @@ After section 12 of the 2005 Act, insert—
 
 ## PART 2 — LICENCE HOLDERS: SOCIAL RESPONSIBILITY LEVY
 
-### 14. Licence holders: social responsibility levy[^key-e807c58d594cd52dcfa2d3e4e836c4d7]
+### 14. Licence holders: social responsibility levy[^c-e807c58d594cd52dcfa2d3e4e836c4d7]
 
 (1) The Scottish Ministers may by regulations made by statutory instrument make provision for the imposition on relevant licence-holders of charges for the purpose mentioned in subsection (3).
 
@@ -439,7 +439,7 @@ After section 12 of the 2005 Act, insert—
 (3) The purpose referred to in subsection (1) is to meet or contribute to expenditure incurred or to be incurred by any local authority—
 
 - (a) in furtherance of the licensing objectives, and
-- (b) which the authority, after consulting the relevant health board and the[^key-a4bcf95ccb003239bdc2bee229377f29] chief constable, considers necessary or desirable with a view to remedying or mitigating any adverse impact on those objectives attributable (directly or indirectly) to the operation of the businesses of relevant licence-holders in the authority's area.
+- (b) which the authority, after consulting the relevant health board and the[^c-a4bcf95ccb003239bdc2bee229377f29] chief constable, considers necessary or desirable with a view to remedying or mitigating any adverse impact on those objectives attributable (directly or indirectly) to the operation of the businesses of relevant licence-holders in the authority's area.
 
 (4) Regulations under subsection (1) may, in particular—
 
@@ -458,7 +458,7 @@ After section 12 of the 2005 Act, insert—
 
 (5) In this section and section 15—
 
-- “[^key-70bc95e7785a76af2e2bb0806cd54767]**chief constable**” means the chief constable of the Police Service of Scotland,
+- “[^c-70bc95e7785a76af2e2bb0806cd54767]**chief constable**” means the chief constable of the Police Service of Scotland,
 - “**business**”, in relation to a relevant licence-holder, means the business comprising the activity in respect of which the licence-holder's licence was granted,
 - “**Health Board**” means a board constituted by an order under section 2(1)(a) of the National Health Service (Scotland) Act 1978 (c.29),
 - “**relevant health board**”, in relation to a local authority, means—
@@ -472,7 +472,7 @@ After section 12 of the 2005 Act, insert—
   - (d) protecting and improving public health, and
   - (e) protecting children from harm.
 
-### 15. Regulations under section 14(1): further provision[^key-13c48fd5c703dbf6f26b2c03e8bce5bb]
+### 15. Regulations under section 14(1): further provision[^c-13c48fd5c703dbf6f26b2c03e8bce5bb]
 
 (1) Regulations under section 14(1) may—
 
@@ -489,10 +489,10 @@ After section 12 of the 2005 Act, insert—
 - (a) Health Boards,
 - (b) such body or bodies as appear to them to be representative of the interests of—
   - (i) Licensing Boards,
-  - (ii)[^key-21679e70c82f0fc880ebdd933a69a9f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-21679e70c82f0fc880ebdd933a69a9f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) local authorities, and
   - (iv) relevant licence-holders (as defined in section 14(2)),
-- (ba)[^key-7ccdfefd444b8c4210e98bc47ddfa6de] the chief constable,
+- (ba)[^c-7ccdfefd444b8c4210e98bc47ddfa6de] the chief constable,
 - (c) such voluntary organisations—
   - (i) having an interest in health policy,
   - (ii) having an interest in alcohol policy,
@@ -517,7 +517,7 @@ After section 12 of the 2005 Act, insert—
 
 ## PART 3 — GENERAL PROVISIONS
 
-### 16. Crown application[^key-ae07920b4e19886ca8445dff587fc8c3]
+### 16. Crown application[^c-ae07920b4e19886ca8445dff587fc8c3]
 
 (1) The modifications of the 2005 Act made by Part 1 bind the Crown to the extent that Act binds the Crown.
 
@@ -540,42 +540,42 @@ In this Act, “**the 2005 Act**” means the Licensing (Scotland) Act 2005 (asp
 
 ## Annotations
 
-[^key-d755cfb21cbee31517d8742b340e1e73]: Textual amendment: [S. 1](https://www.legislation.gov.uk/asp/2010/18/section/1) repealed (1.5.2018) by [Alcohol (Minimum Pricing) (Scotland) Act 2012 (asp 4)](https://www.legislation.gov.uk/asp/2012/4), [ss. 4](https://www.legislation.gov.uk/asp/2012/4/section/4), [5(2)](https://www.legislation.gov.uk/asp/2012/4/section/5/2); [S.S.I. 2018/88](https://www.legislation.gov.uk/ssi/2018/88), [art. 2](https://www.legislation.gov.uk/ssi/2018/88/article/2)
+[^c-d755cfb21cbee31517d8742b340e1e73]: Textual amendment: [S. 1](https://www.legislation.gov.uk/asp/2010/18/section/1) repealed (1.5.2018) by [Alcohol (Minimum Pricing) (Scotland) Act 2012 (asp 4)](https://www.legislation.gov.uk/asp/2012/4), [ss. 4](https://www.legislation.gov.uk/asp/2012/4/section/4), [5(2)](https://www.legislation.gov.uk/asp/2012/4/section/5/2); [S.S.I. 2018/88](https://www.legislation.gov.uk/ssi/2018/88), [art. 2](https://www.legislation.gov.uk/ssi/2018/88/article/2)
 
-[^key-f5eda01dcce56694ce7039baccaca653]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2010/18/section/2) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-f5eda01dcce56694ce7039baccaca653]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2010/18/section/2) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-5014bf8c9f2eed7aa80ead0d66e69597]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2010/18/section/3) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-5014bf8c9f2eed7aa80ead0d66e69597]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2010/18/section/3) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-57cabbc2808cef4aafc9209005c073b2]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2010/18/section/4) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-57cabbc2808cef4aafc9209005c073b2]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2010/18/section/4) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-10927580f370ad2fbf2ca62e615b2f9e]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2010/18/section/5) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-10927580f370ad2fbf2ca62e615b2f9e]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2010/18/section/5) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-91b779d510dc1d3827594c1949a37745]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2010/18/section/6) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-91b779d510dc1d3827594c1949a37745]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2010/18/section/6) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-2b1bcf13f931f3f777d2c37d0f175868]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2010/18/section/7) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-2b1bcf13f931f3f777d2c37d0f175868]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2010/18/section/7) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-1be1faf537e5b4639f2fbb093c0aeb7d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2010/18/section/8) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-1be1faf537e5b4639f2fbb093c0aeb7d]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2010/18/section/8) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-d3e58f0190097422008d6d9accfed9fe]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2010/18/section/9) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule))
+[^c-d3e58f0190097422008d6d9accfed9fe]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2010/18/section/9) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule))
 
-[^key-b4cec128a35220eee4ac0b2d82dd8a04]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2010/18/section/10) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-b4cec128a35220eee4ac0b2d82dd8a04]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2010/18/section/10) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-409201f16d7fc5aff14073dfc47b2bff]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2010/18/section/11) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule))
+[^c-409201f16d7fc5aff14073dfc47b2bff]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2010/18/section/11) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule))
 
-[^key-4a8e0b0369f888bd1fe3656d039939fa]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2010/18/section/12) in force at 1.4.2012 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-4a8e0b0369f888bd1fe3656d039939fa]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2010/18/section/12) in force at 1.4.2012 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-db4cc999f0292dde54fdb9285c73800e]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2010/18/section/13) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-db4cc999f0292dde54fdb9285c73800e]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2010/18/section/13) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-e807c58d594cd52dcfa2d3e4e836c4d7]: Commencement: S. 14 in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-e807c58d594cd52dcfa2d3e4e836c4d7]: Commencement: S. 14 in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-a4bcf95ccb003239bdc2bee229377f29]: Textual amendment: Word in [s. 14(3)(b)](https://www.legislation.gov.uk/asp/2010/18/section/14/3/b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 43(2)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/43/2/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-a4bcf95ccb003239bdc2bee229377f29]: Textual amendment: Word in [s. 14(3)(b)](https://www.legislation.gov.uk/asp/2010/18/section/14/3/b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 43(2)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/43/2/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-70bc95e7785a76af2e2bb0806cd54767]: Textual amendment: Words in [s. 14(5)](https://www.legislation.gov.uk/asp/2010/18/section/14/5) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 43(2)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/43/2/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-70bc95e7785a76af2e2bb0806cd54767]: Textual amendment: Words in [s. 14(5)](https://www.legislation.gov.uk/asp/2010/18/section/14/5) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 43(2)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/43/2/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-13c48fd5c703dbf6f26b2c03e8bce5bb]: Commencement: S. 15 in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-13c48fd5c703dbf6f26b2c03e8bce5bb]: Commencement: S. 15 in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-21679e70c82f0fc880ebdd933a69a9f3]: Textual amendment: [S. 15(3)(b)(ii)](https://www.legislation.gov.uk/asp/2010/18/section/15/3/b/ii) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-21679e70c82f0fc880ebdd933a69a9f3]: Textual amendment: [S. 15(3)(b)(ii)](https://www.legislation.gov.uk/asp/2010/18/section/15/3/b/ii) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-7ccdfefd444b8c4210e98bc47ddfa6de]: Textual amendment: [S. 15(3)(ba)](https://www.legislation.gov.uk/asp/2010/18/section/15/3/ba) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 43(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/43/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-7ccdfefd444b8c4210e98bc47ddfa6de]: Textual amendment: [S. 15(3)(ba)](https://www.legislation.gov.uk/asp/2010/18/section/15/3/ba) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 43(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/43/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-ae07920b4e19886ca8445dff587fc8c3]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2010/18/section/16) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-ae07920b4e19886ca8445dff587fc8c3]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2010/18/section/16) in force at 1.10.2011 by [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)

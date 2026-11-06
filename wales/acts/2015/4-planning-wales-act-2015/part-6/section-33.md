@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Decision notices[^c22542891][^key-338b234f6d6567c2dda3ce6c0c16fd78][^key-50d6290bf4eed85699091d504a360895]
+## 33. Decision notices[^c22542891][^c-338b234f6d6567c2dda3ce6c0c16fd78][^c-50d6290bf4eed85699091d504a360895]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 [^c22542891]: Commencement: [S. 33](https://www.legislation.gov.uk/anaw/2015/4/section/33) partly in force; [s. 33](https://www.legislation.gov.uk/anaw/2015/4/section/33) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-338b234f6d6567c2dda3ce6c0c16fd78]: Commencement: [S. 33](https://www.legislation.gov.uk/anaw/2015/4/section/33) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(b)](https://www.legislation.gov.uk/wsi/2016/52/article/3/b) (with [art. 12](https://www.legislation.gov.uk/wsi/2016/52/article/12))
+[^c-338b234f6d6567c2dda3ce6c0c16fd78]: Commencement: [S. 33](https://www.legislation.gov.uk/anaw/2015/4/section/33) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(b)](https://www.legislation.gov.uk/wsi/2016/52/article/3/b) (with [art. 12](https://www.legislation.gov.uk/wsi/2016/52/article/12))
 
-[^key-50d6290bf4eed85699091d504a360895]: Commencement: [S. 33](https://www.legislation.gov.uk/anaw/2015/4/section/33) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b)
+[^c-50d6290bf4eed85699091d504a360895]: Commencement: [S. 33](https://www.legislation.gov.uk/anaw/2015/4/section/33) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b)

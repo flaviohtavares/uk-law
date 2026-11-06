@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Power to grant injunctions against anti-social behaviour.[^key-e1b5a63cac8ced7a1411b60dab4b8256]
+## 152. Power to grant injunctions against anti-social behaviour.[^c-e1b5a63cac8ced7a1411b60dab4b8256]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1b5a63cac8ced7a1411b60dab4b8256]: Textual amendment: S. 152 repealed (30.6.2004 for E., 30.9.2004 for W.) by [Anti-social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2003/38/section/13/2), [93](https://www.legislation.gov.uk/ukpga/2003/38/section/93), [Sch. 3](https://www.legislation.gov.uk/ukpga/2003/38/schedule/3); [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(a)(c)(ii)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/c/ii)[(ii)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/ii) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1502/schedule/paragraph/1)); [S.I. 2004/2557](https://www.legislation.gov.uk/uksi/2004/2557), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2004/2557/article/2/a/i) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/2557/schedule/paragraph/1))
+[^c-e1b5a63cac8ced7a1411b60dab4b8256]: Textual amendment: S. 152 repealed (30.6.2004 for E., 30.9.2004 for W.) by [Anti-social Behaviour Act 2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2003/38/section/13/2), [93](https://www.legislation.gov.uk/ukpga/2003/38/section/93), [Sch. 3](https://www.legislation.gov.uk/ukpga/2003/38/schedule/3); [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(a)(c)(ii)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/c/ii)[(ii)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/ii) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/1502/schedule/paragraph/1)); [S.I. 2004/2557](https://www.legislation.gov.uk/uksi/2004/2557), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2004/2557/article/2/a/i) (with [Sch. para. 1](https://www.legislation.gov.uk/uksi/2004/2557/schedule/paragraph/1))

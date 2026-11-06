@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. False statements in nomination papers etc.[^key-4b4c010e55a0e84492b21fc95ceed3fc]
+## 30. False statements in nomination papers etc.[^c-4b4c010e55a0e84492b21fc95ceed3fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ which S knows to be false in any particular.
 
 ## Annotations
 
-[^key-4b4c010e55a0e84492b21fc95ceed3fc]: Commencement: Art. 30 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-4b4c010e55a0e84492b21fc95ceed3fc]: Commencement: Art. 30 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

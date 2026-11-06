@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-2cca7c5917d1d7be9908422f65899fc4] The Chief Constable and the Board shall supply the Ombudsman with such information and documents as the Ombudsman may require for the purposes of, or in connection with, the exercise of any of his functions.
+(1)[^c-2cca7c5917d1d7be9908422f65899fc4] The Chief Constable and the Board shall supply the Ombudsman with such information and documents as the Ombudsman may require for the purposes of, or in connection with, the exercise of any of his functions.
 
-(2)[^key-1b8abfcaa32ed465eeae720bb148a19d] Subsection (3) applies if—
+(2)[^c-1b8abfcaa32ed465eeae720bb148a19d] Subsection (3) applies if—
 
 - (a) the Chief Constable or the Board supplies information to the Ombudsman under subsection (1) for the purposes of or in connection with an investigation under section 60A of the 1998 Act; and
 - (b) the person supplying the information is of the opinion that it is information which ought not to be disclosed on the ground mentioned in section 76A(1)(a).
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2cca7c5917d1d7be9908422f65899fc4]: Textual amendment: Word in s. 66(1) inserted (8.4.2003) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 13(4)](https://www.legislation.gov.uk/ukpga/2003/6/section/13/4)
+[^c-2cca7c5917d1d7be9908422f65899fc4]: Textual amendment: Word in s. 66(1) inserted (8.4.2003) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 13(4)](https://www.legislation.gov.uk/ukpga/2003/6/section/13/4)
 
-[^key-1b8abfcaa32ed465eeae720bb148a19d]: Textual amendment: S. 66(2)-(5) substituted for s. 66(2)-(4) (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 77(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/77/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-1b8abfcaa32ed465eeae720bb148a19d]: Textual amendment: S. 66(2)-(5) substituted for s. 66(2)-(4) (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 77(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/77/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

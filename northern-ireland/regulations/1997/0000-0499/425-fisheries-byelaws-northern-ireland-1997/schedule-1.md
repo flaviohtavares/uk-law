@@ -24,7 +24,7 @@ summary: ''
 
 Byelaws 4, 5 and 7
 
-### Part I — Licences to Fish with Rod and Line and Hand Line[^key-70820a59322223a89081c3f6e34f1631]
+### Part I — Licences to Fish with Rod and Line and Hand Line[^c-70820a59322223a89081c3f6e34f1631]
 
 <table>
 <thead>
@@ -43,7 +43,7 @@ Byelaws 4, 5 and 7
 </tbody>
 </table>
 
-### Part II — Licences for Fishing Engines other than Rod and Line or Hand Line[^key-81b23112d1cdbde985b9cd75f72133c0]
+### Part II — Licences for Fishing Engines other than Rod and Line or Hand Line[^c-81b23112d1cdbde985b9cd75f72133c0]
 
 <table>
 <thead>
@@ -67,7 +67,7 @@ Byelaws 4, 5 and 7
 </tbody>
 </table>
 
-### Part III[^key-cdd4db22e7c329235a39f0462f630808]
+### Part III[^c-cdd4db22e7c329235a39f0462f630808]
 
 |  |  |
 | --- | --- |
@@ -75,8 +75,8 @@ Byelaws 4, 5 and 7
 
 ## Annotations
 
-[^key-70820a59322223a89081c3f6e34f1631]: Commencement: Sch. 1 Pt. I in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)
+[^c-70820a59322223a89081c3f6e34f1631]: Commencement: Sch. 1 Pt. I in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)
 
-[^key-81b23112d1cdbde985b9cd75f72133c0]: Commencement: Sch. 1 Pt. II in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)
+[^c-81b23112d1cdbde985b9cd75f72133c0]: Commencement: Sch. 1 Pt. II in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)
 
-[^key-cdd4db22e7c329235a39f0462f630808]: Commencement: Sch. 1 Pt. III in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)
+[^c-cdd4db22e7c329235a39f0462f630808]: Commencement: Sch. 1 Pt. III in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)

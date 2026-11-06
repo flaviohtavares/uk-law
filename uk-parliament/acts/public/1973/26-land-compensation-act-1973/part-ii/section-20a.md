@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20A. Power to make payments in respect of caravans and other structures affected by noise of public works.[^key-086de9c508abe0585161df03c9e05870][^c776186]
+## 20A. Power to make payments in respect of caravans and other structures affected by noise of public works.[^c-086de9c508abe0585161df03c9e05870][^c776186]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-086de9c508abe0585161df03c9e05870]: Modification: [S. 20A](https://www.legislation.gov.uk/ukpga/1973/26/section/20A) applied (26.9.2012) by [The Network Rail (Ipswich Chord) Order 2012 (S.I. 2012/2284)](https://www.legislation.gov.uk/uksi/2012/2284), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1), [31(1)](https://www.legislation.gov.uk/uksi/2012/2284/article/31/1) (with [art. 26(2)](https://www.legislation.gov.uk/uksi/2012/2284/article/26/2))
+[^c-086de9c508abe0585161df03c9e05870]: Modification: [S. 20A](https://www.legislation.gov.uk/ukpga/1973/26/section/20A) applied (26.9.2012) by [The Network Rail (Ipswich Chord) Order 2012 (S.I. 2012/2284)](https://www.legislation.gov.uk/uksi/2012/2284), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1), [31(1)](https://www.legislation.gov.uk/uksi/2012/2284/article/31/1) (with [art. 26(2)](https://www.legislation.gov.uk/uksi/2012/2284/article/26/2))
 
 [^c776186]: Textual amendment: [S. 20A](https://www.legislation.gov.uk/ukpga/1973/26/section/20A) inserted (25.09.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 28:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 70](https://www.legislation.gov.uk/ukpga/1991/34/section/70), [Sch. 15 para. 5(1)(2)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/15/paragraph/5/1/2) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3).

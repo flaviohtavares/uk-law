@@ -63,7 +63,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** The best available techniques (BAT) conclusions for the production of large volume organic chemicals, as set out in the Annex, are adopted.
 
-## Article 2. Application and Interpretation[^key-971c21fc507cc4cd6ba440eea26a59dd]
+## Article 2. Application and Interpretation[^c-971c21fc507cc4cd6ba440eea26a59dd]
 
 1. The BAT conclusions referred to in Article 1 apply in the United Kingdom.
 
@@ -1988,7 +1988,7 @@ All of the techniques listed below can also be used to purify water streams in o
 
 [^f00002]: Footnote: Commission Decision of 16 May 2011 establishing a forum for the exchange of information pursuant to Article 13 of the Directive 2010/75/EU on industrial emissions ([OJ C 146, 17.5.2011, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2011.146.01.0003.01.ENG)).
 
-[^key-971c21fc507cc4cd6ba440eea26a59dd]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/21/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-971c21fc507cc4cd6ba440eea26a59dd]: Textual amendment: Art. 2 substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/21/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: For any parameter where, due to sampling or analytical limitations, 30-minute sampling is inappropriate, a suitable sampling period is employed.
 

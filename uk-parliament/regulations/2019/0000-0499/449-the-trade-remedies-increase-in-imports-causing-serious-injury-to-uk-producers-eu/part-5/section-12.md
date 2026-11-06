@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. General provisions[^key-f2490eda7d1e390c1feca3d94a5c8044]
+## 12. General provisions[^c-f2490eda7d1e390c1feca3d94a5c8044]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2490eda7d1e390c1feca3d94a5c8044]: Commencement: Reg. 12 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-f2490eda7d1e390c1feca3d94a5c8044]: Commencement: Reg. 12 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128C. Disclosure under international obligations etc[^key-c14c000d2ddf92e7363392509f4edce4]
+## 128C. Disclosure under international obligations etc[^c-c14c000d2ddf92e7363392509f4edce4]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ from disclosing information required to be disclosed under a relevant instrument
 
 ## Annotations
 
-[^key-c14c000d2ddf92e7363392509f4edce4]: Textual amendment: Ss. 128A-128C and cross-heading inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 83](https://www.legislation.gov.uk/ukpga/2019/1/section/83)
+[^c-c14c000d2ddf92e7363392509f4edce4]: Textual amendment: Ss. 128A-128C and cross-heading inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 83](https://www.legislation.gov.uk/ukpga/2019/1/section/83)

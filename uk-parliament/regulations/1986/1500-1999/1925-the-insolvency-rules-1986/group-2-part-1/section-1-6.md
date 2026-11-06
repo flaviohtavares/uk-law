@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.6. Additional disclosure for assistance of nominee[^key-df9a5c290c436afe1c9316d3f2f3652d]
+## 1.6. Additional disclosure for assistance of nominee[^c-df9a5c290c436afe1c9316d3f2f3652d]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df9a5c290c436afe1c9316d3f2f3652d]: Commencement: [Rule 1.6](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.6) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-df9a5c290c436afe1c9316d3f2f3652d]: Commencement: [Rule 1.6](https://www.legislation.gov.uk/uksi/1986/1925/rule/1.6) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

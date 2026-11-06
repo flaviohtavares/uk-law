@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 479. Interpretation of the Appendix to the 1994 Regulations[^key-b21b705c2238e71844128f423facca23]
+## 479. Interpretation of the Appendix to the 1994 Regulations[^c-b21b705c2238e71844128f423facca23]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b21b705c2238e71844128f423facca23]: Commencement: Art. 479 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b21b705c2238e71844128f423facca23]: Commencement: Art. 479 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

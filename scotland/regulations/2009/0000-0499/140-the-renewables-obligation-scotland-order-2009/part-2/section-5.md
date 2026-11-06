@@ -18,12 +18,12 @@ summary: ''
 
 (1) The renewables obligation is imposed on each electricity supplier supplying electricity to customers in Scotland (a “designated electricity supplier”).
 
-(2) The renewables obligation is that, subject to articles 43 and 44, each designated electricity supplier must, by the specified day, produce to the Authority, in respect of each megawatt hour of relevant electricity that it supplies[^key-ffb8b122891e5ecf4841d3ae3e78fb70] during an obligation period–
+(2) The renewables obligation is that, subject to articles 43 and 44, each designated electricity supplier must, by the specified day, produce to the Authority, in respect of each megawatt hour of relevant electricity that it supplies[^c-ffb8b122891e5ecf4841d3ae3e78fb70] during an obligation period–
 
-- (a) subject to sub-paragraph (b), the number of renewables obligation certificates determined in accordance with article 12, 12A[^key-2d74285a0ee953382f3f533b3bd6ee66] , 12B or 12C[^key-a55110c7bdc4d6bc23519f9d9d3f7b31], as the case may be;
+- (a) subject to sub-paragraph (b), the number of renewables obligation certificates determined in accordance with article 12, 12A[^c-2d74285a0ee953382f3f533b3bd6ee66] , 12B or 12C[^c-a55110c7bdc4d6bc23519f9d9d3f7b31], as the case may be;
 - (b) where the obligation period commences on 1st April 2009, 0.097 renewables obligation certificates for each megawatt hour so supplied.
 
-(3) To enable the number referred to in paragraph (2)(a) to be determined, the Scottish Ministers must first determine for the obligation period in question, calculations A and B[^key-844bf195bbfcd58fe56d8090afd1d3f5] and the total number of renewables obligation certificates required to be produced by designated electricity suppliers in accordance with articles 6 to 11.
+(3) To enable the number referred to in paragraph (2)(a) to be determined, the Scottish Ministers must first determine for the obligation period in question, calculations A and B[^c-844bf195bbfcd58fe56d8090afd1d3f5] and the total number of renewables obligation certificates required to be produced by designated electricity suppliers in accordance with articles 6 to 11.
 
 (4) Where the number of renewables obligation certificates that a designated electricity supplier is required to produce by virtue of paragraph (2) is not a whole number, it is to be rounded to the nearest whole number (one half being rounded upwards).
 
@@ -37,10 +37,10 @@ summary: ''
 
 ## Annotations
 
-[^key-ffb8b122891e5ecf4841d3ae3e78fb70]: Textual amendment: Words in art. 5(2) substituted (8.12.2017) by [The Renewables Obligation (Scotland) Amendment Order 2017 (S.S.I. 2017/432)](https://www.legislation.gov.uk/ssi/2017/432), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/432/article/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2017/432/article/4/a)
+[^c-ffb8b122891e5ecf4841d3ae3e78fb70]: Textual amendment: Words in art. 5(2) substituted (8.12.2017) by [The Renewables Obligation (Scotland) Amendment Order 2017 (S.S.I. 2017/432)](https://www.legislation.gov.uk/ssi/2017/432), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/432/article/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2017/432/article/4/a)
 
-[^key-2d74285a0ee953382f3f533b3bd6ee66]: Textual amendment: Words in art. 5(2)(a) substituted (8.12.2017) by [The Renewables Obligation (Scotland) Amendment Order 2017 (S.S.I. 2017/432)](https://www.legislation.gov.uk/ssi/2017/432), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/432/article/1/1), [4(b)](https://www.legislation.gov.uk/ssi/2017/432/article/4/b)
+[^c-2d74285a0ee953382f3f533b3bd6ee66]: Textual amendment: Words in art. 5(2)(a) substituted (8.12.2017) by [The Renewables Obligation (Scotland) Amendment Order 2017 (S.S.I. 2017/432)](https://www.legislation.gov.uk/ssi/2017/432), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/432/article/1/1), [4(b)](https://www.legislation.gov.uk/ssi/2017/432/article/4/b)
 
-[^key-a55110c7bdc4d6bc23519f9d9d3f7b31]: Textual amendment: Words in [art. 5(2)(a)](https://www.legislation.gov.uk/ssi/2009/140/article/5/2/a) substituted (22.3.2024) by [The Renewables Obligation (Scotland) Amendment Order 2024 (S.S.I. 2024/98)](https://www.legislation.gov.uk/ssi/2024/98), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/98/article/1/1), [4](https://www.legislation.gov.uk/ssi/2024/98/article/4)
+[^c-a55110c7bdc4d6bc23519f9d9d3f7b31]: Textual amendment: Words in [art. 5(2)(a)](https://www.legislation.gov.uk/ssi/2009/140/article/5/2/a) substituted (22.3.2024) by [The Renewables Obligation (Scotland) Amendment Order 2024 (S.S.I. 2024/98)](https://www.legislation.gov.uk/ssi/2024/98), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/98/article/1/1), [4](https://www.legislation.gov.uk/ssi/2024/98/article/4)
 
-[^key-844bf195bbfcd58fe56d8090afd1d3f5]: Textual amendment: Words in art. 5(3) substituted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [3](https://www.legislation.gov.uk/ssi/2010/147/article/3) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))
+[^c-844bf195bbfcd58fe56d8090afd1d3f5]: Textual amendment: Words in art. 5(3) substituted (1.4.2010) by [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [3](https://www.legislation.gov.uk/ssi/2010/147/article/3) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))

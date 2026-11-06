@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Cost at any time of certain leases[^key-e336d07897903c5f98fcddca88cd45d7]
+## 39. Cost at any time of certain leases[^c-e336d07897903c5f98fcddca88cd45d7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Where a local authority become the lessees under a lease of which the initial co
 
 ## Annotations
 
-[^key-e336d07897903c5f98fcddca88cd45d7]: Commencement: Reg. 39 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-e336d07897903c5f98fcddca88cd45d7]: Commencement: Reg. 39 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

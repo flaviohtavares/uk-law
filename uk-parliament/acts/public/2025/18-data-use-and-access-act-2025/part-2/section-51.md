@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Power of Secretary of State to require information[^key-31f797fc49479fc257494809ab4942ad][^key-43839d07039c07c5c50528ee8183286d]
+## 51. Power of Secretary of State to require information[^c-31f797fc49479fc257494809ab4942ad][^c-43839d07039c07c5c50528ee8183286d]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ to provide the Secretary of State with information that the Secretary of State r
 
 ## Annotations
 
-[^key-31f797fc49479fc257494809ab4942ad]: Commencement: S. 51 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-31f797fc49479fc257494809ab4942ad]: Commencement: S. 51 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-43839d07039c07c5c50528ee8183286d]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2025/18/section/51) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-43839d07039c07c5c50528ee8183286d]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2025/18/section/51) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)

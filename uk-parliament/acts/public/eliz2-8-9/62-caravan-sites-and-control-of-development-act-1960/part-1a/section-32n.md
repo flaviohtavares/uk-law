@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32N. Power to make provision in relation to procedure and appeals[^key-25512befb5c4f51b197d426602d37cbf]
+## 32N. Power to make provision in relation to procedure and appeals[^c-25512befb5c4f51b197d426602d37cbf]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25512befb5c4f51b197d426602d37cbf]: Textual amendment: S. 32N inserted (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 70](https://www.legislation.gov.uk/asp/2014/14/section/70), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-25512befb5c4f51b197d426602d37cbf]: Textual amendment: S. 32N inserted (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 70](https://www.legislation.gov.uk/asp/2014/14/section/70), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

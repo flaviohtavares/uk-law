@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Restrictions on off-sales drinks promotions in supermarkets etc.[^key-f45c0ad49aeb25d3a1c16e35b159a339][^key-8a99993fe652b4eb26a816abdc67a54b]
+## 19. Restrictions on off-sales drinks promotions in supermarkets etc.[^c-f45c0ad49aeb25d3a1c16e35b159a339][^c-8a99993fe652b4eb26a816abdc67a54b]
 
 *Extent: N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f45c0ad49aeb25d3a1c16e35b159a339]: Commencement: S. 19 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-f45c0ad49aeb25d3a1c16e35b159a339]: Commencement: S. 19 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-8a99993fe652b4eb26a816abdc67a54b]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2021/7/section/19) in operation at 1.10.2022 by [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-8a99993fe652b4eb26a816abdc67a54b]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2021/7/section/19) in operation at 1.10.2022 by [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)

@@ -69,9 +69,9 @@ enter upon any premises where goods intended for sale by auction are on display 
 
 (2) Where a contract is avoided by virtue of the foregoing subsection, then, if the purchaser has obtained possession of the goods and restitution thereof is not made, the persons who were parties to the agreement that one or some of them should abstain from bidding for the goods the subject of the contract shall be jointly and severally liable to make good to the seller the loss (if any) he sustained by reason of the operation of the agreement.
 
-(3) [^key-38c9390f5adf4b04dacb81b768391323]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3) [^c-38c9390f5adf4b04dacb81b768391323]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) [^key-0713f52a60406834237ed74ac0b14878]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4) [^c-0713f52a60406834237ed74ac0b14878]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In this section, “**dealer**” has the meaning assigned to it by section 1(2) of the Auctions (Bidding Agreements) Act 1927.
 
@@ -83,7 +83,7 @@ Section 3 of the Auctions (Bidding Agreements) Act 1927 (copy of Act to be exhib
 
 (1) This Act may be cited as the Auctions (Bidding Agreements) Act 1969.
 
-(2) [^key-c96239a6e20da9f8f26613cb860fa547]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2) [^c-c96239a6e20da9f8f26613cb860fa547]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This Act shall not extend to Northern Ireland.
 
@@ -101,8 +101,8 @@ Section 3 of the Auctions (Bidding Agreements) Act 1927 (copy of Act to be exhib
 
 [^c691802]: Marginal citation: [1954 c. 48](https://www.legislation.gov.uk/ukpga/1954/48).
 
-[^key-38c9390f5adf4b04dacb81b768391323]: Textual amendment: [S. 3(3)](https://www.legislation.gov.uk/ukpga/1969/56/section/3/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 11(2)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
+[^c-38c9390f5adf4b04dacb81b768391323]: Textual amendment: [S. 3(3)](https://www.legislation.gov.uk/ukpga/1969/56/section/3/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 11(2)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
 
-[^key-0713f52a60406834237ed74ac0b14878]: Textual amendment: [S. 3(4)](https://www.legislation.gov.uk/ukpga/1969/56/section/3/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 11(2)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
+[^c-0713f52a60406834237ed74ac0b14878]: Textual amendment: [S. 3(4)](https://www.legislation.gov.uk/ukpga/1969/56/section/3/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 11(2)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
 
-[^key-c96239a6e20da9f8f26613cb860fa547]: Textual amendment: [S. 5(2)](https://www.legislation.gov.uk/ukpga/1969/56/section/5/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 11(2)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
+[^c-c96239a6e20da9f8f26613cb860fa547]: Textual amendment: [S. 5(2)](https://www.legislation.gov.uk/ukpga/1969/56/section/5/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 11(2)](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)

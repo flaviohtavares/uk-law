@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Amendment of the Value Added Tax (Acquisitions) Relief Order 2002[^key-08b9b3504d340ddca9737d2b2221b5b5]
+## 93. Amendment of the Value Added Tax (Acquisitions) Relief Order 2002[^c-08b9b3504d340ddca9737d2b2221b5b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Value Added Tax (Acquisitions) Relief Order 2002 [^c24395651] is amended as 
 
 ## Annotations
 
-[^key-08b9b3504d340ddca9737d2b2221b5b5]: Commencement: Reg. 93 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-08b9b3504d340ddca9737d2b2221b5b5]: Commencement: Reg. 93 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395651]: Marginal citation: [S.I. 2002/1935](https://www.legislation.gov.uk/uksi/2002/1935); revoked by [S.I. 2019/59](https://www.legislation.gov.uk/uksi/2019/59). The provision revoking [S.I. 2002/1935](https://www.legislation.gov.uk/uksi/2002/1935) has not been commenced and is now omitted by this instrument.

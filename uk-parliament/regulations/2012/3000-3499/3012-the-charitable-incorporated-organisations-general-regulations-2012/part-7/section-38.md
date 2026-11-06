@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Charity trustee minutes as evidence[^key-f75e6aa364291704a7dc3c340aca3210]
+## 38. Charity trustee minutes as evidence[^c-f75e6aa364291704a7dc3c340aca3210]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f75e6aa364291704a7dc3c340aca3210]: Commencement: Reg. 38 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-f75e6aa364291704a7dc3c340aca3210]: Commencement: Reg. 38 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

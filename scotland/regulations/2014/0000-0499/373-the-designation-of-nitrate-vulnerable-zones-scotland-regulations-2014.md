@@ -32,7 +32,7 @@ summary: ''
 
 Water
 
-The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2014 (revoked)[^key-298c50a9f807c0f497a4f55d8bcbaa1a]
+The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2014 (revoked)[^c-298c50a9f807c0f497a4f55d8bcbaa1a]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 2nd February 2015
 
-[^key-298c50a9f807c0f497a4f55d8bcbaa1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-298c50a9f807c0f497a4f55d8bcbaa1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-298c50a9f807c0f497a4f55d8bcbaa1a]
+## 1. Citation, commencement, extent and interpretation[^c-298c50a9f807c0f497a4f55d8bcbaa1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Nitrate Vulnerable Zones[^key-298c50a9f807c0f497a4f55d8bcbaa1a]
+## 2. Nitrate Vulnerable Zones[^c-298c50a9f807c0f497a4f55d8bcbaa1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Publication of maps[^key-298c50a9f807c0f497a4f55d8bcbaa1a]
+## 3. Publication of maps[^c-298c50a9f807c0f497a4f55d8bcbaa1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consequential amendments[^key-298c50a9f807c0f497a4f55d8bcbaa1a]
+## 4. Consequential amendments[^c-298c50a9f807c0f497a4f55d8bcbaa1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation and minor amendments[^key-298c50a9f807c0f497a4f55d8bcbaa1a]
+## 5. Revocation and minor amendments[^c-298c50a9f807c0f497a4f55d8bcbaa1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-298c50a9f807c0f497a4f55d8bcbaa1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-298c50a9f807c0f497a4f55d8bcbaa1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-298c50a9f807c0f497a4f55d8bcbaa1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-298c50a9f807c0f497a4f55d8bcbaa1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-298c50a9f807c0f497a4f55d8bcbaa1a]: Textual amendment: Regulations revoked (1.1.2016) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2015 (S.S.I. 2015/376)](https://www.legislation.gov.uk/ssi/2015/376), [reg. 6](https://www.legislation.gov.uk/ssi/2015/376/regulation/6)
+[^c-298c50a9f807c0f497a4f55d8bcbaa1a]: Textual amendment: Regulations revoked (1.1.2016) by [The Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2015 (S.S.I. 2015/376)](https://www.legislation.gov.uk/ssi/2015/376), [reg. 6](https://www.legislation.gov.uk/ssi/2015/376/regulation/6)

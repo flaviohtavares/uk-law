@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-0230e2de2d67ef1a0c021b0a8270a7fd]
+## 2. Interpretation[^c-0230e2de2d67ef1a0c021b0a8270a7fd]
 
 *Extent: E+W+S*
 
@@ -91,7 +91,7 @@ summary: ''
 - “**working day**” means any day other than a Saturday, Sunday or English bank or public holiday; and
 - “**works plans**” means works plans A, works plans B and works plans C submitted under regulation 5(2)(j) of the 2009 Regulations referred to in Schedule 15 and certified as such by the Secretary of State for the purposes of this Order under article 46 (certification of plans, etc.).
 
-(2) All distances, directions, measurements and lengths referred to in this Order are approximate, except the parameters referred to in article 5 (limits of deviation)[^key-2384c866a142e9b743a1745c084e2636] and Schedule 1, Part 2[^key-b371b1d99913f01df954908ffbef4a7b].
+(2) All distances, directions, measurements and lengths referred to in this Order are approximate, except the parameters referred to in article 5 (limits of deviation)[^c-2384c866a142e9b743a1745c084e2636] and Schedule 1, Part 2[^c-b371b1d99913f01df954908ffbef4a7b].
 
 (3) All areas described in square metres in the book of reference are approximate.
 
@@ -103,7 +103,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0230e2de2d67ef1a0c021b0a8270a7fd]: Commencement: Art. 2 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-0230e2de2d67ef1a0c021b0a8270a7fd]: Commencement: Art. 2 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
 [^f00005]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -131,6 +131,6 @@ summary: ''
 
 [^f00017]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40). Paragraph 9B was inserted into Schedule 2 by paragraph 9 of Schedule 3 of the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42). There are other amendments to the 1964 Act that are not relevant to this Order.
 
-[^key-2384c866a142e9b743a1745c084e2636]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/362/article/2/2) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-2384c866a142e9b743a1745c084e2636]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/362/article/2/2) inserted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
 
-[^key-b371b1d99913f01df954908ffbef4a7b]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/362/article/2/2) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-b371b1d99913f01df954908ffbef4a7b]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2025/362/article/2/2) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)

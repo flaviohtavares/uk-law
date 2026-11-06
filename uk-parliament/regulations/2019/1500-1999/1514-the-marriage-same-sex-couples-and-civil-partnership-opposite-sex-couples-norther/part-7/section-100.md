@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Social Security (Work-focused Interviews for Partners) Regulations (Northern Ireland) 2003[^key-dc93ebbaa9eff3845315aacda9fedd20]
+## 100. Social Security (Work-focused Interviews for Partners) Regulations (Northern Ireland) 2003[^c-dc93ebbaa9eff3845315aacda9fedd20]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 1(2) of the Social Security (Work-focused Interviews for Partners)
 
 ## Annotations
 
-[^key-dc93ebbaa9eff3845315aacda9fedd20]: Commencement: Reg. 100 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-dc93ebbaa9eff3845315aacda9fedd20]: Commencement: Reg. 100 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00163]: Footnote: [S.R. (N.I.) 2003/405](https://www.legislation.gov.uk/nisr/2003/405). In regulation 1(2), the definition of “couple” was inserted by paragraph 31 of Schedule 3 to [S.R. (N.I.) 2005/536](https://www.legislation.gov.uk/nisr/2005/536).

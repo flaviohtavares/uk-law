@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Management of inshore fisheries[^key-0dc0ecd33ca93e11402b564dcee9f909]
+## 153. Management of inshore fisheries[^c-0dc0ecd33ca93e11402b564dcee9f909]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ In this subsection “**eels**”, “**freshwater fish**”, “**salmon**”, 
 
 ## Annotations
 
-[^key-0dc0ecd33ca93e11402b564dcee9f909]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2009/23/section/153) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/a)
+[^c-0dc0ecd33ca93e11402b564dcee9f909]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2009/23/section/153) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/a)

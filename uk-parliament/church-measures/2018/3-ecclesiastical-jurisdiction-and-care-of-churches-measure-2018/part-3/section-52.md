@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 52. Role of archdeacon in convening meeting in a case of default[^key-24918765e123e7c953a56613fd27cccd]
+## 52. Role of archdeacon in convening meeting in a case of default[^c-24918765e123e7c953a56613fd27cccd]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24918765e123e7c953a56613fd27cccd]: Commencement: [S. 52](https://www.legislation.gov.uk/ukcm/2018/3/section/52) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-24918765e123e7c953a56613fd27cccd]: Commencement: [S. 52](https://www.legislation.gov.uk/ukcm/2018/3/section/52) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

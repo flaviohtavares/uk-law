@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Control of liabilities affecting successor authorities.[^key-bf8c055638c492ac538ae7e3741078dd]
+## 92. Control of liabilities affecting successor authorities.[^c-bf8c055638c492ac538ae7e3741078dd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf8c055638c492ac538ae7e3741078dd]: Textual amendment: [Ss. 91-93](https://www.legislation.gov.uk/ukpga/1985/51/section/91) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-bf8c055638c492ac538ae7e3741078dd]: Textual amendment: [Ss. 91-93](https://www.legislation.gov.uk/ukpga/1985/51/section/91) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

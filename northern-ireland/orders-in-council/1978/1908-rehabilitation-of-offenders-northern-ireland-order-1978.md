@@ -27,7 +27,7 @@ summary: ''
 
 1978 No. 1908 (N.I. 27)
 
-Rehabilitation of Offenders (Northern Ireland) Order 1978[^key-ba05b486a3a596d337054845c06ff6d7][^key-0b4499dec1849d452b1992982a309f68]
+Rehabilitation of Offenders (Northern Ireland) Order 1978[^c-ba05b486a3a596d337054845c06ff6d7][^c-0b4499dec1849d452b1992982a309f68]
 
 \[20th December 1978\] [^c20369181][^c20369661][^c22000581]
 
@@ -61,7 +61,7 @@ This Order may be cited as the Rehabilitation of Offenders (Northern Ireland) Or
 
 and[^c16858581]. . . a conviction in respect of which an order is made placing the person convicted on probation or discharging him absolutely or conditionally shall be treated as a conviction for the purposes of this Order and the person in question may become a rehabilitated person in respect of that conviction and the conviction a spent conviction for those purposes accordingly.
 
-(3A)[^key-f32a602f5b5d3ae9404201b645fe060a] This Order does not apply to any disregarded conviction or caution within the meaning of Chapter 5 of Part 5 of the Protection of Freedoms Act 2012.
+(3A)[^c-f32a602f5b5d3ae9404201b645fe060a] This Order does not apply to any disregarded conviction or caution within the meaning of Chapter 5 of Part 5 of the Protection of Freedoms Act 2012.
 
 (3B) Accordingly, references in this Order to a conviction or caution do not include references to any such disregarded conviction or caution.
 
@@ -142,7 +142,7 @@ to determine any question affecting the rights, privileges, obligations or liabi
 - (g) any of the following passed as a result of any of sections 219 to 222 of that Act—
   - (i) a sentence of imprisonment for public protection under section 225 of the Criminal Justice Act 2003;
   - (ii) a sentence of detention for public protection under section 226 of that Act;
-  - (iii) an extended sentence under section 226A, 226B,[^key-2bacbf19ebec17390c578de111b8f6aa] 227 or 228 of that Act or section 254, 266 or 279 of the Sentencing Code[^key-024ba376a94d9fbdef8be819b5e44eb3];
+  - (iii) an extended sentence under section 226A, 226B,[^c-2bacbf19ebec17390c578de111b8f6aa] 227 or 228 of that Act or section 254, 266 or 279 of the Sentencing Code[^c-024ba376a94d9fbdef8be819b5e44eb3];
 
 and any other sentence is a sentence subject to rehabilitation under this Order.
 
@@ -223,7 +223,7 @@ the rehabilitation period applicable to the sentence shall be a period beginning
 (9) For the purposes of this Article—
 
 - (a)[^c19403341] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) “sentence of imprisonment” includes an order for detention in a young offenders centre , a sentence of detention under Article[^key-4f007434874bce3f04e17e7382a4750c] 13A(6) or[^key-a655e9af23c0ec4bd8eeb80f42fe4222] 15A(5) of the Criminal Justice (Northern Ireland) Order 2008 and a sentence of penal servitude, and “term of imprisonment” shall be construed accordingly;
+- (b) “sentence of imprisonment” includes an order for detention in a young offenders centre , a sentence of detention under Article[^c-4f007434874bce3f04e17e7382a4750c] 13A(6) or[^c-a655e9af23c0ec4bd8eeb80f42fe4222] 15A(5) of the Criminal Justice (Northern Ireland) Order 2008 and a sentence of penal servitude, and “term of imprisonment” shall be construed accordingly;
 - (c) consecutive terms of imprisonment or of detention under Article 45 of the Criminal Justice (Children) (Northern Ireland) Order 1998 or section 209 of the Armed Forces Act 2006[^c19404501] and terms which are wholly or partly concurrent (being terms of imprisonment or detention imposed in respect of offences of which a person was convicted in the same proceedings) shall be treated as a single term;
 - (d) no account shall be taken of any subsequent variation, made by a court in dealing with a person in respect of a suspended sentence of imprisonment, of the term originally imposed; and
 - (e) a sentence imposed by a court outside Northern Ireland shall be treated as a sentence of that one of the descriptions mentioned in this Article which most nearly corresponds to the sentence imposed.
@@ -309,11 +309,11 @@ if the rehabilitation period applicable in accordance with this Article to eithe
 
 (2) Nothing in Article 5(1) shall affect an action to which this Article applies where the publication complained of took place before the conviction in question became spent, and the following provisions of this Article shall not apply in any such case.
 
-(3) Subject to paragraphs (5) and (6), nothing in Article 5(1) shall prevent the defendant in an action to which this Article applies from relying on any defence under section 1 or 2 of the Defamation Act (Northern Ireland) 2022 which is available to him or any defence[^key-f7f79642b57a663f39846a3d7ddc68c7] or of absolute or qualified privilege which is available to him, or restrict the matters he may establish in support of any such defence.
+(3) Subject to paragraphs (5) and (6), nothing in Article 5(1) shall prevent the defendant in an action to which this Article applies from relying on any defence under section 1 or 2 of the Defamation Act (Northern Ireland) 2022 which is available to him or any defence[^c-f7f79642b57a663f39846a3d7ddc68c7] or of absolute or qualified privilege which is available to him, or restrict the matters he may establish in support of any such defence.
 
 (4) Without prejudice to the generality of paragraph (3), where in any such action malice is alleged against a defendant who is relying on a defence of qualified privilege, nothing in Article 5(1) shall restrict the matters he may establish in rebuttal of the allegation.
 
-(5) A defendant in any such action shall not by virtue of paragraph (3) be entitled to rely upon a defence under section 1 of the Defamation Act (Northern Ireland) 2022[^key-8b117567b6038793ef27f088d60c7455] if the publication is proved to have been made with malice.
+(5) A defendant in any such action shall not by virtue of paragraph (3) be entitled to rely upon a defence under section 1 of the Defamation Act (Northern Ireland) 2022[^c-8b117567b6038793ef27f088d60c7455] if the publication is proved to have been made with malice.
 
 (6) Subject to paragraph (7) a defendant in any such action shall not, by virtue of paragraph (3), be entitled to rely on any matter or adduce or require any evidence for the purpose of establishing (whether under section 14 of the Defamation Act 1996[^c16859031] or otherwise) the defence that the matter published constituted a fair and accurate report of judicial proceedings if it is proved that the publication contained a reference to evidence which was ruled to be inadmissible in the proceedings by virtue of Article 5(1).
 
@@ -440,9 +440,9 @@ Orders made under this Order by the Secretary of State (except an order made und
 
 ## Annotations
 
-[^key-ba05b486a3a596d337054845c06ff6d7]: Modification: [Order](https://www.legislation.gov.uk/nisi/1978/1908) excluded (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 12 para. 10(2)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/10/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-ba05b486a3a596d337054845c06ff6d7]: Modification: [Order](https://www.legislation.gov.uk/nisi/1978/1908) excluded (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 12 para. 10(2)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/12/paragraph/10/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
-[^key-0b4499dec1849d452b1992982a309f68]: Modification: [Order](https://www.legislation.gov.uk/nisi/1978/1908) excluded (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 6 para. 21(2)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/6/paragraph/21/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-0b4499dec1849d452b1992982a309f68]: Modification: [Order](https://www.legislation.gov.uk/nisi/1978/1908) excluded (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 6 para. 21(2)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/6/paragraph/21/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
 [^c20369181]: Modification: Order modified by [Road Traffic Offenders (Northern Ireland) Order 1996 (S.I. 1996/1320 (N.I. 10))](https://www.legislation.gov.uk/nisi/1996/1320), [art. 64A](https://www.legislation.gov.uk/nisi/1996/1320/article/64A) (as inserted (14.12.2010) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)(5)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3/5), [39(6)](https://www.legislation.gov.uk/nisi/2007/916/article/39/6), [Sch. 4 para. 16](https://www.legislation.gov.uk/nisi/2007/916/schedule/4/paragraph/16)); [S.R. 2010/370](https://www.legislation.gov.uk/nisr/2010/370), [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/370/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2010/370/schedule/part/II)
 
@@ -466,7 +466,7 @@ Orders made under this Order by the Secretary of State (except an order made und
 
 [^c16858581]: Textual amendment: [1996 NI 24](https://www.legislation.gov.uk/nisi/1996)
 
-[^key-f32a602f5b5d3ae9404201b645fe060a]: Textual amendment: Art. 2(3A)(3B) inserted (31.1.2017 for specified purposes, 28.6.2018) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 168(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/168/2), [183(4)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/4), [(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); S.R. 2018/128, art. 2(a)
+[^c-f32a602f5b5d3ae9404201b645fe060a]: Textual amendment: Art. 2(3A)(3B) inserted (31.1.2017 for specified purposes, 28.6.2018) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 168(2)](https://www.legislation.gov.uk/ukpga/2017/3/section/168/2), [183(4)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/4), [(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); S.R. 2018/128, art. 2(a)
 
 [^c16858591]: Textual amendment: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29)
 
@@ -494,9 +494,9 @@ Orders made under this Order by the Secretary of State (except an order made und
 
 [^c19404241]: Textual amendment: Art. 6(1)(e)-(g) inserted (28.3.2009 for certain purposes, otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 86(2)(c)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/86/2/c) (with savings by [Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/17)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-2bacbf19ebec17390c578de111b8f6aa]: Textual amendment: Words in art. 6(1)(g)(iii) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 22 para. 12](https://www.legislation.gov.uk/ukpga/2012/10/schedule/22/paragraph/12); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(t)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/t)
+[^c-2bacbf19ebec17390c578de111b8f6aa]: Textual amendment: Words in art. 6(1)(g)(iii) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 22 para. 12](https://www.legislation.gov.uk/ukpga/2012/10/schedule/22/paragraph/12); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(t)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/t)
 
-[^key-024ba376a94d9fbdef8be819b5e44eb3]: Textual amendment: Words in [art. 6(1)(g)(iii)](https://www.legislation.gov.uk/nisi/1978/1908/article/6/1/g/iii) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 313](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/313) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-024ba376a94d9fbdef8be819b5e44eb3]: Textual amendment: Words in [art. 6(1)(g)(iii)](https://www.legislation.gov.uk/nisi/1978/1908/article/6/1/g/iii) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 313](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/313) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c16858661]: Textual amendment: [2002 c.26](https://www.legislation.gov.uk/ukpga/2002/26)
 
@@ -516,9 +516,9 @@ Orders made under this Order by the Secretary of State (except an order made und
 
 [^c19403341]: Textual amendment: Art. 6(9)(a) repealed (28.3.2009 for certain purposes, otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378](https://www.legislation.gov.uk/ukpga/2006/52/section/378), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 86(5)(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/86/5/a), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17) (with savings by [Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/17)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-4f007434874bce3f04e17e7382a4750c]: Textual amendment: Words in [art. 6(9)(b)](https://www.legislation.gov.uk/nisi/1978/1908/article/6/9/b) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 68](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/68)
+[^c-4f007434874bce3f04e17e7382a4750c]: Textual amendment: Words in [art. 6(9)(b)](https://www.legislation.gov.uk/nisi/1978/1908/article/6/9/b) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 68](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/68)
 
-[^key-a655e9af23c0ec4bd8eeb80f42fe4222]: Textual amendment: Words in [art. 6(9)(b)](https://www.legislation.gov.uk/nisi/1978/1908/article/6/9/b) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 62](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/62)
+[^c-a655e9af23c0ec4bd8eeb80f42fe4222]: Textual amendment: Words in [art. 6(9)(b)](https://www.legislation.gov.uk/nisi/1978/1908/article/6/9/b) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 62](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/62)
 
 [^c19404501]: Textual amendment: Words in art. 6(9)(c) inserted (28.3.2009 for certain purposes, otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/1), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 86(5)(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/86/5/b) (with savings by [Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/17)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
@@ -546,9 +546,9 @@ Orders made under this Order by the Secretary of State (except an order made und
 
 [^c21346541]: Textual amendment: [Art. 8(2)(g)](https://www.legislation.gov.uk/nisi/1978/1908/article/8/2/g) and preceding word added (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 158(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/158/2), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2010/816/schedule)
 
-[^key-f7f79642b57a663f39846a3d7ddc68c7]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/nisi/1978/1908/article/9/3) substituted (7.6.2022) by [Defamation Act (Northern Ireland) 2022 (c. 30)](https://www.legislation.gov.uk/nia/2022/30), [ss. 13(2)](https://www.legislation.gov.uk/nia/2022/30/section/13/2), [14](https://www.legislation.gov.uk/nia/2022/30/section/14) (with [reg. 13(1)](https://www.legislation.gov.uk/nia/2022/30/regulation/13/1))
+[^c-f7f79642b57a663f39846a3d7ddc68c7]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/nisi/1978/1908/article/9/3) substituted (7.6.2022) by [Defamation Act (Northern Ireland) 2022 (c. 30)](https://www.legislation.gov.uk/nia/2022/30), [ss. 13(2)](https://www.legislation.gov.uk/nia/2022/30/section/13/2), [14](https://www.legislation.gov.uk/nia/2022/30/section/14) (with [reg. 13(1)](https://www.legislation.gov.uk/nia/2022/30/regulation/13/1))
 
-[^key-8b117567b6038793ef27f088d60c7455]: Textual amendment: Words in [art. 9(5)](https://www.legislation.gov.uk/nisi/1978/1908/article/9/5) substituted (7.6.2022) by [Defamation Act (Northern Ireland) 2022 (c. 30)](https://www.legislation.gov.uk/nia/2022/30), [ss. 13(3)](https://www.legislation.gov.uk/nia/2022/30/section/13/3), [14](https://www.legislation.gov.uk/nia/2022/30/section/14) (with [reg. 13(1)](https://www.legislation.gov.uk/nia/2022/30/regulation/13/1))
+[^c-8b117567b6038793ef27f088d60c7455]: Textual amendment: Words in [art. 9(5)](https://www.legislation.gov.uk/nisi/1978/1908/article/9/5) substituted (7.6.2022) by [Defamation Act (Northern Ireland) 2022 (c. 30)](https://www.legislation.gov.uk/nia/2022/30), [ss. 13(3)](https://www.legislation.gov.uk/nia/2022/30/section/13/3), [14](https://www.legislation.gov.uk/nia/2022/30/section/14) (with [reg. 13(1)](https://www.legislation.gov.uk/nia/2022/30/regulation/13/1))
 
 [^c16859031]: Textual amendment: [1996 c. 31](https://www.legislation.gov.uk/ukpga/1996/31)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Qualifying pensions dashboard service[^c24494151][^key-c1bbb5667f92c0940aaef198260e4d37]
+## 118. Qualifying pensions dashboard service[^c24494151][^c-c1bbb5667f92c0940aaef198260e4d37]
 
 *Extent: E+W+S*
 
@@ -151,4 +151,4 @@ summary: ''
 
 [^c24494151]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2021/1/section/118) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-c1bbb5667f92c0940aaef198260e4d37]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2021/1/section/118) in force at 14.10.2022 in so far as not already in force by [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/a)
+[^c-c1bbb5667f92c0940aaef198260e4d37]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2021/1/section/118) in force at 14.10.2022 in so far as not already in force by [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/a)

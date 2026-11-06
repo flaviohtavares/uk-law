@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Advertisement of removal[^key-c60e284f7dd5bfe8479324219c2f985f]
+## 94. Advertisement of removal[^c-c60e284f7dd5bfe8479324219c2f985f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.118 of the 1986 Rules.
 
 ## Annotations
 
-[^key-c60e284f7dd5bfe8479324219c2f985f]: Commencement: Rule 94 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-c60e284f7dd5bfe8479324219c2f985f]: Commencement: Rule 94 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

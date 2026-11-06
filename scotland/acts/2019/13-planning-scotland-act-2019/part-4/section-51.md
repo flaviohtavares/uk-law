@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. National Scenic Areas[^key-f2ddcf79a185a45826a561a3879c1d92]
+## 51. National Scenic Areas[^c-f2ddcf79a185a45826a561a3879c1d92]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2ddcf79a185a45826a561a3879c1d92]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2019/13/section/51) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
+[^c-f2ddcf79a185a45826a561a3879c1d92]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2019/13/section/51) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)

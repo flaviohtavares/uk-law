@@ -118,13 +118,13 @@ In regulation 4, omit the definition of “the Services Directive”.
 - (a) in sub-paragraph (a), after “enactment” insert “ other than retained direct EU legislation ”[^c23473551] ;
 - (b) for sub-paragraph (a)(ii) substitute—
 
-  > - (ii) immediately before IP completion day[^key-abced373c912bb61537969657b7bd1a8], the provision implemented an EU obligation, and
+  > - (ii) immediately before IP completion day[^c-abced373c912bb61537969657b7bd1a8], the provision implemented an EU obligation, and
 
   ;
 - (c) in sub-paragraph (b), for “a directly applicable EU instrument” substitute “ retained direct EU legislation ”;
 - (d) for sub-paragraph (b)(ii) substitute—
 
-  > - (ii) immediately before IP completion day[^key-a5df3bbd2aea50264196b541ad0be000], the provision was contained in an EU instrument that came into force before these Regulations were made.
+  > - (ii) immediately before IP completion day[^c-a5df3bbd2aea50264196b541ad0be000], the provision was contained in an EU instrument that came into force before these Regulations were made.
 
   .
 
@@ -136,7 +136,7 @@ In regulation 4, omit the definition of “the Services Directive”.
 - (b) in sub-paragraph (b), for “a directly applicable EU instrument” substitute “ retained direct EU legislation ”;
 - (c) for sub-paragraph (b)(ii) substitute—
 
-  > - (ii) immediately before IP completion day[^key-cc9330c72dc0b93ae23fa336cee62a17], the provision was contained in an EU instrument that came into force before these Regulations were made.
+  > - (ii) immediately before IP completion day[^c-cc9330c72dc0b93ae23fa336cee62a17], the provision was contained in an EU instrument that came into force before these Regulations were made.
 
   .
 
@@ -165,7 +165,7 @@ In regulation 13—
 
 (2) In regulation 14(3)—
 
-- (a) in sub-paragraph (a), for “implementing an EU obligation” substitute “ other than retained direct EU legislation which, immediately before IP completion day[^key-8c8a5ccb36bd25a830a0086e8118f620], implemented an EU obligation ”;
+- (a) in sub-paragraph (a), for “implementing an EU obligation” substitute “ other than retained direct EU legislation which, immediately before IP completion day[^c-8c8a5ccb36bd25a830a0086e8118f620], implemented an EU obligation ”;
 - (b) for sub-paragraph (b) substitute—
 
   > - (b) a provision of retained direct EU legislation which, immediately before IP completion day, was contained in an EU instrument that came into force before these Regulations were made.
@@ -192,7 +192,7 @@ In regulation 17(4), for “EU law” substitute “ retained EU law ”.
 
 (1) In regulation 22(2)(d)—
 
-- (a) in paragraph (i), after “covered by” insert “ retained EU law which, immediately before IP completion day[^key-26c00bbe786e5b7ccf238a8daf805139], implemented an obligation under ”;
+- (a) in paragraph (i), after “covered by” insert “ retained EU law which, immediately before IP completion day[^c-26c00bbe786e5b7ccf238a8daf805139], implemented an obligation under ”;
 - (b) in paragraph (ii), for “EU instruments” substitute “ retained EU law ”.
 
 (2) Omit regulation 22(3)(a).
@@ -345,11 +345,11 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23473551]: Marginal citation: “Retained direct EU legislation” is defined in Schedule 1 to the Interpretation Act [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-abced373c912bb61537969657b7bd1a8]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/6/2/b) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/a)
+[^c-abced373c912bb61537969657b7bd1a8]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/6/2/b) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/a)
 
-[^key-a5df3bbd2aea50264196b541ad0be000]: Textual amendment: Words in [reg. 6(2)(d)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/6/2/d) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/a)
+[^c-a5df3bbd2aea50264196b541ad0be000]: Textual amendment: Words in [reg. 6(2)(d)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/6/2/d) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/a)
 
-[^key-cc9330c72dc0b93ae23fa336cee62a17]: Textual amendment: Words in [reg. 6(4)(c)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/6/4/c) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/a)
+[^c-cc9330c72dc0b93ae23fa336cee62a17]: Textual amendment: Words in [reg. 6(4)(c)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/6/4/c) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/a)
 
 [^c23488421]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/1329/regulation/7) in force on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1) and [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
@@ -361,7 +361,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23488451]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/1329/regulation/10) in force on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1) and [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8c8a5ccb36bd25a830a0086e8118f620]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/10/2) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/b)
+[^c-8c8a5ccb36bd25a830a0086e8118f620]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/10/2) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/b)
 
 [^c23488461]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/1329/regulation/11) in force on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1) and [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
@@ -371,7 +371,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23488491]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/1329/regulation/14) in force on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1) and [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-26c00bbe786e5b7ccf238a8daf805139]: Textual amendment: Words in [reg. 14(1)(a)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/14/1/a) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/c)
+[^c-26c00bbe786e5b7ccf238a8daf805139]: Textual amendment: Words in [reg. 14(1)(a)](https://www.legislation.gov.uk/uksi/2018/1329/regulation/14/1/a) substituted (31.12.2020 immediately before IP completion day) by [The Professional Qualifications and Services (Amendments and Miscellaneous Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1038)](https://www.legislation.gov.uk/uksi/2020/1038), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/uksi/2020/1038/regulation/3/2/c)
 
 [^c23488501]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/1329/regulation/15) in force on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/1329/regulation/1) and [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 

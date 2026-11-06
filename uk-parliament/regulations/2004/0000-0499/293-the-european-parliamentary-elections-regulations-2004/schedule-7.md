@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — DECLARATION AS TO ELECTION EXPENSES[^key-7249282533702cb9d7ab516f38219825]
+## SCHEDULE 7 — DECLARATION AS TO ELECTION EXPENSES[^c-7249282533702cb9d7ab516f38219825]
 
 *Extent: E+W+S*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Regulation 51
 
-### FORM OF DECLARATION[^key-7249282533702cb9d7ab516f38219825]
+### FORM OF DECLARATION[^c-7249282533702cb9d7ab516f38219825]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2004/293/images/uksi_20040293_en_sld_018)
 
 ## Annotations
 
-[^key-7249282533702cb9d7ab516f38219825]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/293) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-7249282533702cb9d7ab516f38219825]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2004/293) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

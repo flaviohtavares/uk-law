@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 467. Meaning of “charitable company”[^key-8bd9709d177fc0a378f64866ba1560b9]
+## 467. Meaning of “charitable company”[^c-8bd9709d177fc0a378f64866ba1560b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bd9709d177fc0a378f64866ba1560b9]: Textual amendment: S. 467 omitted (with effect in accordance with art. 21 of the commencing S.I.) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 27(4)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/27/4), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 21](https://www.legislation.gov.uk/uksi/2012/736/article/21)
+[^c-8bd9709d177fc0a378f64866ba1560b9]: Textual amendment: S. 467 omitted (with effect in accordance with art. 21 of the commencing S.I.) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 27(4)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/27/4), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 21](https://www.legislation.gov.uk/uksi/2012/736/article/21)

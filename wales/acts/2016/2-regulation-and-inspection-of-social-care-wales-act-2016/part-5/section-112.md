@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Codes of practice[^key-dcb92a8e1c9865a01dca588f27e64c7d]
+## 112. Codes of practice[^c-dcb92a8e1c9865a01dca588f27e64c7d]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcb92a8e1c9865a01dca588f27e64c7d]: Commencement: [S. 112](https://www.legislation.gov.uk/anaw/2016/2/section/112) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(d)](https://www.legislation.gov.uk/wsi/2017/309/article/2/d) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-dcb92a8e1c9865a01dca588f27e64c7d]: Commencement: [S. 112](https://www.legislation.gov.uk/anaw/2016/2/section/112) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(d)](https://www.legislation.gov.uk/wsi/2017/309/article/2/d) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

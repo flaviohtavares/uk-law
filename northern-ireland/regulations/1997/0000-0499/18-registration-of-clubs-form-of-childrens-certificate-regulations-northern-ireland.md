@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 33(10) of the Registration of Clubs (Northern Ireland) Order 1996[^f00001] and of all other powers enabling it in that behalf, hereby makes the following regulations:
 
-## 1. Citation, and commencement[^key-30cba7e154f02a8ec0163b4e312798ba]
+## 1. Citation, and commencement[^c-30cba7e154f02a8ec0163b4e312798ba]
 
 These Regulations may be cited as the Registration of Clubs (Form of Children’s Certificate) Regulations (Northern Ireland) 1997 and shall come into operation on 20th February 1997.
 
-## 2. Form of Children’s Certificate[^key-1048ab15c18484f2745b60307b618dfb]
+## 2. Form of Children’s Certificate[^c-1048ab15c18484f2745b60307b618dfb]
 
 A children’s certificate shall be in the form set out in the Schedule.
 
@@ -56,7 +56,7 @@ Under Secretary
 
 21st January 1997.
 
-## SCHEDULE[^key-1d13ce31fd38d505fc8ffa60cf28d15f]
+## SCHEDULE[^c-1d13ce31fd38d505fc8ffa60cf28d15f]
 
 Regulation 2
 
@@ -74,8 +74,8 @@ These regulations prescribe the form of children’s certificate which is grante
 
 [^f00001]: Footnote: S.I. [1996/3159 (N.I. 23)](https://www.legislation.gov.uk/nisi/1996/3159)
 
-[^key-30cba7e154f02a8ec0163b4e312798ba]: Commencement: Reg. 1 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/18/regulation/1)
+[^c-30cba7e154f02a8ec0163b4e312798ba]: Commencement: Reg. 1 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/18/regulation/1)
 
-[^key-1048ab15c18484f2745b60307b618dfb]: Commencement: Reg. 2 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/18/regulation/1)
+[^c-1048ab15c18484f2745b60307b618dfb]: Commencement: Reg. 2 in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/18/regulation/1)
 
-[^key-1d13ce31fd38d505fc8ffa60cf28d15f]: Commencement: Sch. in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/18/regulation/1)
+[^c-1d13ce31fd38d505fc8ffa60cf28d15f]: Commencement: Sch. in operation at 20.2.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/18/regulation/1)

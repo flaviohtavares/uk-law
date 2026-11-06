@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Utilities contracts[^key-e2c7c8ff53db345c466156dacc2902a8][^key-212497d62552a2df091c6395c7eecf12][^key-1e60dcc0c40b842cd79d2da98979bdbc]
+## 6. Utilities contracts[^c-e2c7c8ff53db345c466156dacc2902a8][^c-212497d62552a2df091c6395c7eecf12][^c-1e60dcc0c40b842cd79d2da98979bdbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e2c7c8ff53db345c466156dacc2902a8]: Commencement: S. 6 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-e2c7c8ff53db345c466156dacc2902a8]: Commencement: S. 6 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-212497d62552a2df091c6395c7eecf12]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/54/section/6) in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/b)
+[^c-212497d62552a2df091c6395c7eecf12]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/54/section/6) in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/b)
 
-[^key-1e60dcc0c40b842cd79d2da98979bdbc]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/2023/54/section/6) applied in part (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))
+[^c-1e60dcc0c40b842cd79d2da98979bdbc]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/2023/54/section/6) applied in part (24.2.2025) by [S.I. 2013/1582](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/6/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2013/1582/schedule/2/part/1) (as amended by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2025/163/regulation/17) (with [reg. 33](https://www.legislation.gov.uk/uksi/2025/163/regulation/33)))

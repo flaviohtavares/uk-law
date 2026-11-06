@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22A. Power of CIECSS to serve notice where person is failing to comply with regulations[^key-b6387893ce6a78d5146d98db687995ec][^c21152741]
+## 22A. Power of CIECSS to serve notice where person is failing to comply with regulations[^c-b6387893ce6a78d5146d98db687995ec][^c21152741]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b6387893ce6a78d5146d98db687995ec]: Modification: S. 22A applied (with modifications) (1.7.2013) by [The Residential Holiday Schemes for Disabled Children (England) Regulations 2013 (S.I. 2013/1394)](https://www.legislation.gov.uk/uksi/2013/1394), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1), [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2013/1394/schedule/7/paragraph/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/2))
+[^c-b6387893ce6a78d5146d98db687995ec]: Modification: S. 22A applied (with modifications) (1.7.2013) by [The Residential Holiday Schemes for Disabled Children (England) Regulations 2013 (S.I. 2013/1394)](https://www.legislation.gov.uk/uksi/2013/1394), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1), [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2013/1394/schedule/7/paragraph/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/2))
 
 [^c21152741]: Textual amendment: S. 22A inserted (1.4.2010 for E. and otherwise prosp.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/26/2), [44](https://www.legislation.gov.uk/ukpga/2008/23/section/44); [S.I. 2009/3354](https://www.legislation.gov.uk/uksi/2009/3354), [art. 3(2)](https://www.legislation.gov.uk/uksi/2009/3354/article/3/2)

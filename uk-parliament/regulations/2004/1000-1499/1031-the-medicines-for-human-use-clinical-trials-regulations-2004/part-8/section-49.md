@@ -22,29 +22,29 @@ summary: ''
 
 (1) Any person who contravenes any of the following provisions—
 
-- (a)[^key-9b6cda78ddbd7041db257fac8105a731] regulation 3A;
-- (aa)[^key-19c7799ae9c232aec2708029855c8749] regulation 12(1) and (2);
+- (a)[^c-9b6cda78ddbd7041db257fac8105a731] regulation 3A;
+- (aa)[^c-19c7799ae9c232aec2708029855c8749] regulation 12(1) and (2);
 - (b) regulation 13(1);
-- (ba)[^key-af1a0fb248981ca6e491afec5e2abd28] regulation 22(2) to (5);
+- (ba)[^c-af1a0fb248981ca6e491afec5e2abd28] regulation 22(2) to (5);
 - (bb) regulation 25(1) and (2)(a);
 - (bc) regulation 26(7)(a);
 - (c) regulation 27;
 - (d) regulation 28(1) to (3);
 - (e) regulation 29;
-- (ee)[^key-8fc3353b857188f9db1589901a36158e] regulation 29A;
+- (ee)[^c-8fc3353b857188f9db1589901a36158e] regulation 29A;
 - (f) regulation 30(2);
-- (ff)[^key-c89042888b9be3915a86b41ddbbb251d] regulation 31A(1) to (3) and (5) to (10);
-- (fg)[^key-6753ed1d270533481628cefa2cc33c22] regulation A32;
+- (ff)[^c-c89042888b9be3915a86b41ddbbb251d] regulation 31A(1) to (3) and (5) to (10);
+- (fg)[^c-6753ed1d270533481628cefa2cc33c22] regulation A32;
 - (g) regulation 32(1), (3), and (5) to (9)
 - (h) regulation 33(1) to (5)
 - (i) regulation 34
 - (j) regulation 35(1);
 - (k) regulation 36(1);
-- (ka)[^key-97bc942cd203524082c5a9e564088b6f] regulation 36A;
+- (ka)[^c-97bc942cd203524082c5a9e564088b6f] regulation 36A;
 - (kb) regulation 36B;
-- (l) regulation 42; [^key-099b8449475875365186ecad1e2226cd]...
-- (m) regulation 43(1) and (6); and[^key-f27a41c0f41d790b45d737862693565a]
-- (n)[^key-1b0c4731bd08bec1c10e6cac324adb07] regulation 45A,
+- (l) regulation 42; [^c-099b8449475875365186ecad1e2226cd]...
+- (m) regulation 43(1) and (6); and[^c-f27a41c0f41d790b45d737862693565a]
+- (n)[^c-1b0c4731bd08bec1c10e6cac324adb07] regulation 45A,
 
 shall be guilty of an offence.
 
@@ -54,23 +54,23 @@ shall be guilty of an offence.
 
 (4) Where an investigational medicinal product is manufactured, assembled or imported in contravention of regulation 36(1), any person who sells or supplies the product for the purposes of a clinical trial knowing or having reasonable cause to suspect that it was so manufactured, assembled or imported shall be guilty of offence.
 
-(5) Where an investigational medicinal product is imported in contravention of regulation 36(1), any person who, otherwise than for the purpose of performing or exercising a duty or power imposed or conferred by or under these Regulations, the 2012 Regulations[^key-bd1fc335f84fd0429dd9f5a17728a91d] or any other enactment, is in possession of the product knowing or having reasonable cause to suspect that it was so imported shall be guilty of offence.
+(5) Where an investigational medicinal product is imported in contravention of regulation 36(1), any person who, otherwise than for the purpose of performing or exercising a duty or power imposed or conferred by or under these Regulations, the 2012 Regulations[^c-bd1fc335f84fd0429dd9f5a17728a91d] or any other enactment, is in possession of the product knowing or having reasonable cause to suspect that it was so imported shall be guilty of offence.
 
 (6) Any sponsor who sells or supplies, or procures the sale or supply, of an investigational medicinal product—
 
-- (a) to a participant[^key-20e014d944674127e8c59462c586c8bf] for the purposes of a clinical trial; or
+- (a) to a participant[^c-20e014d944674127e8c59462c586c8bf] for the purposes of a clinical trial; or
 - (b) to a person for the purpose of administering the product to such a participant,
 
 the labelling of which does not comply with regulation 46, shall be guilty of an offence.
 
 (7) Any person who sells or supplies an investigational medicinal product—
 
-- (a) to a participant[^key-eb65cc063e45d8fb63008276201981e5] for the purposes of a clinical trial; or
+- (a) to a participant[^c-eb65cc063e45d8fb63008276201981e5] for the purposes of a clinical trial; or
 - (b) to a person for the purpose of administering the product to such a participant,
 
 the labelling of which does not comply with regulation 46, knowing, or having reasonable cause to believe, that the labelling does not so comply, shall be guilty of an offence.
 
-(8)[^key-928d340ee25b7c5300b028eb392a4304] Any sponsor who sells or supplies, or procures the sale or supply of, a non- investigational medicinal product—
+(8)[^c-928d340ee25b7c5300b028eb392a4304] Any sponsor who sells or supplies, or procures the sale or supply of, a non- investigational medicinal product—
 
 - (a) to a participant for the purposes of a clinical trial; or
 - (b) to a person for the purpose of administering the product to such a participant,
@@ -86,30 +86,30 @@ the labelling of which does not comply with regulation 46A, knowing, or having r
 
 ## Annotations
 
-[^key-9b6cda78ddbd7041db257fac8105a731]: Textual amendment: Reg. 49(1)(a) inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [26(b)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/26/b)
+[^c-9b6cda78ddbd7041db257fac8105a731]: Textual amendment: Reg. 49(1)(a) inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [26(b)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/26/b)
 
-[^key-19c7799ae9c232aec2708029855c8749]: Textual amendment: Reg. 49(1)(a) renumbered as reg. 49(1)(aa) (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [26(a)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/26/a)
+[^c-19c7799ae9c232aec2708029855c8749]: Textual amendment: Reg. 49(1)(a) renumbered as reg. 49(1)(aa) (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [26(a)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/26/a)
 
-[^key-af1a0fb248981ca6e491afec5e2abd28]: Textual amendment: Reg. 49(1)(ba)-(bc) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(2)(a)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/2/a)
+[^c-af1a0fb248981ca6e491afec5e2abd28]: Textual amendment: Reg. 49(1)(ba)-(bc) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(2)(a)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/2/a)
 
-[^key-8fc3353b857188f9db1589901a36158e]: Textual amendment: Reg. 49(1)(ee) inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [26(c)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/26/c)
+[^c-8fc3353b857188f9db1589901a36158e]: Textual amendment: Reg. 49(1)(ee) inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [26(c)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/26/c)
 
-[^key-c89042888b9be3915a86b41ddbbb251d]: Textual amendment: Reg. 49(1)(ff) inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [26(d)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/26/d)
+[^c-c89042888b9be3915a86b41ddbbb251d]: Textual amendment: Reg. 49(1)(ff) inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [26(d)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/26/d)
 
-[^key-6753ed1d270533481628cefa2cc33c22]: Textual amendment: Reg. 49(1)(fg) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(2)(b)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/2/b)
+[^c-6753ed1d270533481628cefa2cc33c22]: Textual amendment: Reg. 49(1)(fg) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(2)(b)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/2/b)
 
-[^key-97bc942cd203524082c5a9e564088b6f]: Textual amendment: Reg. 49(1)(ka)(kb) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [50](https://www.legislation.gov.uk/uksi/2025/87/regulation/50)
+[^c-97bc942cd203524082c5a9e564088b6f]: Textual amendment: Reg. 49(1)(ka)(kb) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [50](https://www.legislation.gov.uk/uksi/2025/87/regulation/50)
 
-[^key-099b8449475875365186ecad1e2226cd]: Textual amendment: Word in reg. 49(1)(l) omitted (28.4.2026) by virtue of [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(2)(c)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/2/c)
+[^c-099b8449475875365186ecad1e2226cd]: Textual amendment: Word in reg. 49(1)(l) omitted (28.4.2026) by virtue of [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(2)(c)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/2/c)
 
-[^key-f27a41c0f41d790b45d737862693565a]: Textual amendment: Words in reg. 49(1)(m) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(2)(d)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/2/d)
+[^c-f27a41c0f41d790b45d737862693565a]: Textual amendment: Words in reg. 49(1)(m) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(2)(d)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/2/d)
 
-[^key-1b0c4731bd08bec1c10e6cac324adb07]: Textual amendment: Reg. 49(1)(n) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(2)(e)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/2/e)
+[^c-1b0c4731bd08bec1c10e6cac324adb07]: Textual amendment: Reg. 49(1)(n) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(2)(e)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/2/e)
 
-[^key-bd1fc335f84fd0429dd9f5a17728a91d]: Textual amendment: Words in reg. 49(5) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 59](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/59) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-bd1fc335f84fd0429dd9f5a17728a91d]: Textual amendment: Words in reg. 49(5) substituted (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 para. 59](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/59) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
-[^key-20e014d944674127e8c59462c586c8bf]: Textual amendment: Word in reg. 49(6) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(3)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/3)
+[^c-20e014d944674127e8c59462c586c8bf]: Textual amendment: Word in reg. 49(6) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(3)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/3)
 
-[^key-eb65cc063e45d8fb63008276201981e5]: Textual amendment: Word in reg. 49(7) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(3)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/3)
+[^c-eb65cc063e45d8fb63008276201981e5]: Textual amendment: Word in reg. 49(7) substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(3)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/3)
 
-[^key-928d340ee25b7c5300b028eb392a4304]: Textual amendment: Reg. 49(8)(9) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(4)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/4)
+[^c-928d340ee25b7c5300b028eb392a4304]: Textual amendment: Reg. 49(8)(9) inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [34(4)](https://www.legislation.gov.uk/uksi/2025/538/regulation/34/4)

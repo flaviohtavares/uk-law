@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Maritime enforcement officers[^key-7e41efa68cb3acc3238222b5fd296595]
+## 89. Maritime enforcement officers[^c-7e41efa68cb3acc3238222b5fd296595]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7e41efa68cb3acc3238222b5fd296595]: Commencement: Reg. 89 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-7e41efa68cb3acc3238222b5fd296595]: Commencement: Reg. 89 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
 [^f00043]: Footnote: [1987 c. 4](https://www.legislation.gov.uk/ukpga/1987/4). Section 1 was amended by the Police Act [1996 (c. 16)](https://www.legislation.gov.uk/ukpga/1996/16), Schedule 7, paragraph 41; the Police (Northern Ireland) Act [1998 (c. 32)](https://www.legislation.gov.uk/ukpga/1998/32), Schedule 4, paragraph 16; the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32), section 78(2); the Police Reform Act [2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), section 79(3); and [S.I. 2013/602](https://www.legislation.gov.uk/uksi/2013/602).
 

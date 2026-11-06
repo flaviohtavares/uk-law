@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — NHS England’sADDITIONAL SERVICES[^key-d1caf22cc98adae401c0bdbf330d1379]
+## SCHEDULE 1 — NHS England’sADDITIONAL SERVICES[^c-d1caf22cc98adae401c0bdbf330d1379]
 
 *Extent: E+W*
 
@@ -162,11 +162,11 @@ using either Clinical Outcome Monitoring Program software [^c12419171] or by app
 - (a) determines that the number of orthodontic courses of treatment provided by the contractor which have not been completed is excessive; and
 - (b) does not consider that the reasons given by the contractor for the failure to complete the orthodontic courses of treatment are satisfactory,
 
-it shall be entitled to exercise its powers under paragraph 71 of Schedule 3 on the grounds that the contractor is not, pursuant to paragraph 5(3) of this Schedule[^key-427144ff65682f3be8d433c0f68fa768], using its best endeavours to ensure orthodontic courses of treatment are completed.
+it shall be entitled to exercise its powers under paragraph 71 of Schedule 3 on the grounds that the contractor is not, pursuant to paragraph 5(3) of this Schedule[^c-427144ff65682f3be8d433c0f68fa768], using its best endeavours to ensure orthodontic courses of treatment are completed.
 
 ## Annotations
 
-[^key-d1caf22cc98adae401c0bdbf330d1379]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d1caf22cc98adae401c0bdbf330d1379]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c12419141]: Marginal citation: The Standing Dental Advisory Committee is a statutory body established under section 6 of the Act. A copy of the Report can be obtained at www.dh.gov.uk/PublicationsAndStatistics/Publications/PublicationsPolicyAndGuidance/PublicationsPolicyAndGuidanceArticle.
 
@@ -180,4 +180,4 @@ it shall be entitled to exercise its powers under paragraph 71 of Schedule 3 on 
 
 [^c12419191]: Marginal citation: A description of this methodology can be found in the European Journal or Orthodontics 14, p180-187, 1992, Richmond S, Shaw WC, Roberts CT and Andrews M: “Methods to determine the outcome of orthodontic treatment in terms of improvement and standards”.
 
-[^key-427144ff65682f3be8d433c0f68fa768]: Textual amendment: Words in Sch. 1 para. 8 inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [38(4)(b)](https://www.legislation.gov.uk/uksi/2013/364/regulation/38/4/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))
+[^c-427144ff65682f3be8d433c0f68fa768]: Textual amendment: Words in Sch. 1 para. 8 inserted (1.4.2013) by [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [38(4)(b)](https://www.legislation.gov.uk/uksi/2013/364/regulation/38/4/b) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2013/364/schedule/2))

@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 81(1) and 82(8)(a) and (9) of the Community Empowerment (Scotland) Act 2015[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-6222d8df468b1e1f75c06ee032f64c8d]
+## 1. Citation and commencement[^c-6222d8df468b1e1f75c06ee032f64c8d]
 
 These Regulations may be cited as the Asset Transfer Request (Procedure) (Scotland) Regulations 2016 and come into force on 23rd January 2017.
 
-## 2. Interpretation[^key-d0d5761eccb1efa7d3697b42aa647f24]
+## 2. Interpretation[^c-d0d5761eccb1efa7d3697b42aa647f24]
 
 In these Regulations—
 
@@ -64,7 +64,7 @@ In these Regulations—
   - (b) 25th and 26th December; and
   - (c) 1st and 2nd January.
 
-## 3. Form and content of an asset transfer requests[^key-37c16b7574f28790ec9d6f3ea3f5b3e0]
+## 3. Form and content of an asset transfer requests[^c-37c16b7574f28790ec9d6f3ea3f5b3e0]
 
 (1) An asset transfer request must be made in writing and must—
 
@@ -81,7 +81,7 @@ In these Regulations—
 - (d) if the request is made by a body which is not a community-controlled body, explain the basis on which the body is a community transfer body; and
 - (e) be accompanied by a copy of the constitution of the community transfer body.
 
-## 4. Acknowledgment of requests[^key-0496495f74982dbc5d51b8e621891080]
+## 4. Acknowledgment of requests[^c-0496495f74982dbc5d51b8e621891080]
 
 (1) Paragraph (2) applies where a relevant authority has received an asset transfer request which complies with regulation 3(1) but does not contain, or is not accompanied by, all the information or documentation which the community transfer body is required to submit in order to comply with section 79(4)(a) to (g) of the Act and regulation 3(2).
 
@@ -103,11 +103,11 @@ In these Regulations—
   - (ii) whether another asset transfer request has already been made to the relevant authority in respect of the land (or part of the land) to which the asset transfer request relates; and
   - (iii) whether or not the relevant authority considers, as at the date on which the acknowledgment is sent, that the relevant authority is prohibited by section 84(2) of the Act from selling, leasing or otherwise disposing of the land to which the asset transfer request relates other than to the community transfer body.
 
-## 5. Validation date[^key-77f654c96bd4f21b6b82756b3d4f70a1]
+## 5. Validation date[^c-77f654c96bd4f21b6b82756b3d4f70a1]
 
 An asset transfer request is taken to have been made on the date on which the last of the items or information required to be contained in or accompany the asset transfer request in accordance with section 79(4)(a) to (g) of the Act and regulation 3(2) is received by the relevant authority.
 
-## 6. Notification of asset transfer request[^key-921ff57c2f3d9fda1e235880d4fd3cb6]
+## 6. Notification of asset transfer request[^c-921ff57c2f3d9fda1e235880d4fd3cb6]
 
 (1) As soon as practicable after the validation date the relevant authority must in accordance with this regulation give notice of the making of the asset transfer request to any person (other than the relevant authority or the community transfer body) who is—
 
@@ -125,7 +125,7 @@ An asset transfer request is taken to have been made on the date on which the la
 - (e) state how the asset transfer request and any other documents submitted in connection with it may be inspected; and
 - (f) state that representations may be made to the relevant authority and include information as to how any representations may be made and by which date they must be made (being a date not earlier than 20 working days after the date on which the notice is given).
 
-## 7. Publication of asset transfer request[^key-6d3f9069fcbb9ff11240865f8fe444f2]
+## 7. Publication of asset transfer request[^c-6d3f9069fcbb9ff11240865f8fe444f2]
 
 (1) As soon as practicable after the validation date the relevant authority must publish a notice in accordance with this regulation.
 
@@ -145,14 +145,14 @@ An asset transfer request is taken to have been made on the date on which the la
 - (e) state how the asset transfer request and any other documents submitted in connection with it may be inspected; and
 - (f) state that representations may be made to the relevant authority and include information as to how any representations may be made and by which date they must be made (being a date not earlier than 20 working days after the date on which the notice is first published).
 
-## 8. Opportunity for the community transfer body to comment on representations[^key-e16946c1232f1504cf41668e52300e2a]
+## 8. Opportunity for the community transfer body to comment on representations[^c-e16946c1232f1504cf41668e52300e2a]
 
 The relevant authority must—
 
 - (a) send a copy of any representations received in response to a notice given under regulation 6 or published under regulation 7 to the community transfer body; and
 - (b) inform the community transfer body how and by what date (being a date not less than 20 working days after the date on which such copy is sent under this regulation) it may make comments to the relevant authority on such representations.
 
-## 9. Publication of request documents[^key-7124781fdf51981745a700c5818e190b]
+## 9. Publication of request documents[^c-7124781fdf51981745a700c5818e190b]
 
 The relevant authority must, in relation to an asset transfer request, make copies of—
 
@@ -162,11 +162,11 @@ The relevant authority must, in relation to an asset transfer request, make copi
 
 available for inspection on a website or by other electronic means until such time as the asset transfer request is determined.
 
-## 10. Time periods for decision[^key-2e656b8899d00f4db96f86acc3e74566]
+## 10. Time periods for decision[^c-2e656b8899d00f4db96f86acc3e74566]
 
 The period prescribed for the purposes of section 82(8)(a) of the Act is the period of 6 months beginning with the validation date.
 
-## 11. Decision notice[^key-de31f478f9eeca634779653f2e040dbc]
+## 11. Decision notice[^c-de31f478f9eeca634779653f2e040dbc]
 
 (1) The decision notice must (in addition to any information required by sections 82(7) and 83(2) of the Act—
 
@@ -184,13 +184,13 @@ The period prescribed for the purposes of section 82(8)(a) of the Act is the per
 
 (3) The relevant authority may give the decision notice to the community transfer body by sending it to the contact address.
 
-## 12. Electronic communication[^key-19c65d545de3b751075cd5a17c8d8c7e]
+## 12. Electronic communication[^c-19c65d545de3b751075cd5a17c8d8c7e]
 
 (1) Where the criteria in paragraph (2) are met, any document required or authorised to be sent by these Regulations may be sent by electronic communication and any requirement in these Regulations that any document is to be in writing is fulfilled.
 
 (2) The criteria are—
 
-- (a) the recipient consents, or is deemed to have agreed under paragraph (3) or (5A)[^key-f7d82976c3adb0b8ba8a44f26a6f333b], to receive it electronically; and
+- (a) the recipient consents, or is deemed to have agreed under paragraph (3) or (5A)[^c-f7d82976c3adb0b8ba8a44f26a6f333b], to receive it electronically; and
 - (b) that document transmitted by electronic communication is—
   - (i) capable of being accessed by the recipient;
   - (ii) legible in all material respects; and
@@ -208,7 +208,7 @@ The period prescribed for the purposes of section 82(8)(a) of the Act is the per
 - (a) the date specified by the person in the notice; or
 - (b) the expiry of the period of 5 working days beginning with the date on which the notice is given.
 
-(5A)[^key-bc297d75e4886d10808f2ac5ceb3a389] Where the contact address includes an address (or addresses) for the purposes of electronic communication (“electronic communication contact address”) the community transfer body is taken to have agreed—
+(5A)[^c-bc297d75e4886d10808f2ac5ceb3a389] Where the contact address includes an address (or addresses) for the purposes of electronic communication (“electronic communication contact address”) the community transfer body is taken to have agreed—
 
 - (a) to the use of electronic communication for all purposes relating to the asset transfer request which are capable of being carried out electronically; and
 - (b) that the address for the purposes of such communication is the electronic communication contact address.
@@ -223,11 +223,11 @@ The period prescribed for the purposes of section 82(8)(a) of the Act is the per
 - “address” includes any number or address used for the purpose of such communication or storage;
 - “document” includes any notice, consent, decision, representation, statement, list, report, form, plan, certificate or other information or communication;
 - “electronic communication” has the meaning given in section 15(1) of the Electronic Communications Act 2000[^f00002] (general interpretation);
-- “electronic communication contact address” has the meaning given in paragraph (5A);[^key-53e5ab492e8b987be08b46bc2b43b4f2]
+- “electronic communication contact address” has the meaning given in paragraph (5A);[^c-53e5ab492e8b987be08b46bc2b43b4f2]
 - “legible in all material respects” means that the information contained in the document is available to the recipient to no lesser extent than it would be if sent or given by means of a document in printed form; and
 - “sent” includes submitted or given and cognate expressions are to be construed accordingly.
 
-## 13. Contact address[^key-e4760a9710b13f98df92faa2e7550c5b][^key-4ee2ae0b695ca7588c3f3bf8b92d0c32]
+## 13. Contact address[^c-e4760a9710b13f98df92faa2e7550c5b][^c-4ee2ae0b695ca7588c3f3bf8b92d0c32]
 
 (1) In relation to an asset transfer request to which these Regulations apply, the “contact address” is the address (or addresses), including any address (or addresses) for the purposes of electronic communication within the meaning of regulation 12, to which the community transfer body wishes any document relating to the asset transfer request to be sent.
 
@@ -261,38 +261,38 @@ Regulation 12 makes provision for the use of electronic communication and regula
 
 [^f00001]: Footnote: [2015 asp 6](https://www.legislation.gov.uk/asp/2015/6).
 
-[^key-6222d8df468b1e1f75c06ee032f64c8d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
+[^c-6222d8df468b1e1f75c06ee032f64c8d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
 
-[^key-d0d5761eccb1efa7d3697b42aa647f24]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/357/regulation/2) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
+[^c-d0d5761eccb1efa7d3697b42aa647f24]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/357/regulation/2) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
 
-[^key-37c16b7574f28790ec9d6f3ea3f5b3e0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/357/regulation/3) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
+[^c-37c16b7574f28790ec9d6f3ea3f5b3e0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/357/regulation/3) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
 
-[^key-0496495f74982dbc5d51b8e621891080]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/357/regulation/4) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
+[^c-0496495f74982dbc5d51b8e621891080]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2016/357/regulation/4) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
 
-[^key-77f654c96bd4f21b6b82756b3d4f70a1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/357/regulation/5) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
+[^c-77f654c96bd4f21b6b82756b3d4f70a1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2016/357/regulation/5) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
 
-[^key-921ff57c2f3d9fda1e235880d4fd3cb6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/357/regulation/6) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
+[^c-921ff57c2f3d9fda1e235880d4fd3cb6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2016/357/regulation/6) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
 
-[^key-6d3f9069fcbb9ff11240865f8fe444f2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/357/regulation/7) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
+[^c-6d3f9069fcbb9ff11240865f8fe444f2]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2016/357/regulation/7) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
 
-[^key-e16946c1232f1504cf41668e52300e2a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/357/regulation/8) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
+[^c-e16946c1232f1504cf41668e52300e2a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2016/357/regulation/8) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
 
-[^key-7124781fdf51981745a700c5818e190b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/357/regulation/9) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
+[^c-7124781fdf51981745a700c5818e190b]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2016/357/regulation/9) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
 
-[^key-2e656b8899d00f4db96f86acc3e74566]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/357/regulation/10) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
+[^c-2e656b8899d00f4db96f86acc3e74566]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2016/357/regulation/10) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
 
-[^key-de31f478f9eeca634779653f2e040dbc]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/357/regulation/11) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
+[^c-de31f478f9eeca634779653f2e040dbc]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2016/357/regulation/11) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
 
-[^key-19c65d545de3b751075cd5a17c8d8c7e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/357/regulation/12) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
+[^c-19c65d545de3b751075cd5a17c8d8c7e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/357/regulation/12) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
 
-[^key-f7d82976c3adb0b8ba8a44f26a6f333b]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/ssi/2016/357/regulation/12/2/a) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2016/411/regulation/2/2/a)
+[^c-f7d82976c3adb0b8ba8a44f26a6f333b]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/ssi/2016/357/regulation/12/2/a) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2016/411/regulation/2/2/a)
 
-[^key-bc297d75e4886d10808f2ac5ceb3a389]: Textual amendment: [Reg. 12(5A)(5B)](https://www.legislation.gov.uk/ssi/2016/357/regulation/12/5A) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2016/411/regulation/2/2/b)
+[^c-bc297d75e4886d10808f2ac5ceb3a389]: Textual amendment: [Reg. 12(5A)(5B)](https://www.legislation.gov.uk/ssi/2016/357/regulation/12/5A) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2016/411/regulation/2/2/b)
 
 [^f00002]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7) Section 15(1) was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), schedule 17, paragraph 158.
 
-[^key-53e5ab492e8b987be08b46bc2b43b4f2]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/ssi/2016/357/regulation/12/6) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2016/411/regulation/2/2/c)
+[^c-53e5ab492e8b987be08b46bc2b43b4f2]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/ssi/2016/357/regulation/12/6) inserted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2016/411/regulation/2/2/c)
 
-[^key-e4760a9710b13f98df92faa2e7550c5b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/357/regulation/13) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
+[^c-e4760a9710b13f98df92faa2e7550c5b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/357/regulation/13) in force at 23.1.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/357/regulation/1)
 
-[^key-4ee2ae0b695ca7588c3f3bf8b92d0c32]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/357/regulation/13) substituted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2016/411/regulation/2/3)
+[^c-4ee2ae0b695ca7588c3f3bf8b92d0c32]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/ssi/2016/357/regulation/13) substituted (22.1.2017) by [The Community Empowerment (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/411)](https://www.legislation.gov.uk/ssi/2016/411), [regs. 1](https://www.legislation.gov.uk/ssi/2016/411/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2016/411/regulation/2/3)

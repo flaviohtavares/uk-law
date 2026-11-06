@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Vehicles (Driving Licences) (Amendment No. 2) (Test Fees) Regulations (Northern Ireland) 2001 (revoked)[^key-a5970ef0b8908c6dac61b30cdd327029]
+Motor Vehicles (Driving Licences) (Amendment No. 2) (Test Fees) Regulations (Northern Ireland) 2001 (revoked)[^c-a5970ef0b8908c6dac61b30cdd327029]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 8th October 2001
 
-[^key-a5970ef0b8908c6dac61b30cdd327029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5970ef0b8908c6dac61b30cdd327029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a5970ef0b8908c6dac61b30cdd327029]
+## 1. Citation and commencement[^c-a5970ef0b8908c6dac61b30cdd327029]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^key-a5970ef0b8908c6dac61b30cdd327029]
+## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^c-a5970ef0b8908c6dac61b30cdd327029]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a5970ef0b8908c6dac61b30cdd327029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5970ef0b8908c6dac61b30cdd327029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a5970ef0b8908c6dac61b30cdd327029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5970ef0b8908c6dac61b30cdd327029]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a5970ef0b8908c6dac61b30cdd327029]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/310) revoked (1.4.2002) by [Motor Vehicles (Driving Licences) (Amendment) (Test Fees) Regulations (Northern Ireland) 2002 (S.R. 2002/51)](https://www.legislation.gov.uk/nisr/2002/51), [regs. 1](https://www.legislation.gov.uk/nisr/2002/51/regulation/1), [3](https://www.legislation.gov.uk/nisr/2002/51/regulation/3)
+[^c-a5970ef0b8908c6dac61b30cdd327029]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/310) revoked (1.4.2002) by [Motor Vehicles (Driving Licences) (Amendment) (Test Fees) Regulations (Northern Ireland) 2002 (S.R. 2002/51)](https://www.legislation.gov.uk/nisr/2002/51), [regs. 1](https://www.legislation.gov.uk/nisr/2002/51/regulation/1), [3](https://www.legislation.gov.uk/nisr/2002/51/regulation/3)

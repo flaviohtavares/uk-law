@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Opportunity to make representations about proposed negative determinations[^key-42d4eb67d1d34bd881728a4ac1fa75d8][^key-3bdf891ed6290acbe365958c4b599f08]
+## 31. Opportunity to make representations about proposed negative determinations[^c-42d4eb67d1d34bd881728a4ac1fa75d8][^c-3bdf891ed6290acbe365958c4b599f08]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42d4eb67d1d34bd881728a4ac1fa75d8]: Commencement: S. 31 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-42d4eb67d1d34bd881728a4ac1fa75d8]: Commencement: S. 31 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-3bdf891ed6290acbe365958c4b599f08]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2025/21/section/31) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(v)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/v)
+[^c-3bdf891ed6290acbe365958c4b599f08]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2025/21/section/31) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(v)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/v)

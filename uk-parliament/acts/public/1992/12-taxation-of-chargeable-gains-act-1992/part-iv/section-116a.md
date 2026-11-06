@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116A. Holding beginning or ceasing to fall within section 490 of CTA 2009[^key-1eef8e7f1c7d6a8de2e10b41fa094b67]
+## 116A. Holding beginning or ceasing to fall within section 490 of CTA 2009[^c-1eef8e7f1c7d6a8de2e10b41fa094b67]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1eef8e7f1c7d6a8de2e10b41fa094b67]: Textual amendment: Ss. 116A, 116B inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 367](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/367) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-1eef8e7f1c7d6a8de2e10b41fa094b67]: Textual amendment: Ss. 116A, 116B inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 367](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/367) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

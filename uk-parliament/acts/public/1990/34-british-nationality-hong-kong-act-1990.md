@@ -45,7 +45,7 @@ An Act to provide for the acquisition of British citizenship by selected Hong Ko
 
 (4) Schedule 2 to this Act shall have effect for enabling the spouse and minor children of a person registered under subsection (1) above to acquire British citizenship by registration; and no spouse or minor child to whom Schedule 2 to this Act applies shall be registered under subsection (1) above.
 
-(5)[^c930109][^key-92a08f29d6fbd061c3fcfb5b8abd661b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c930109][^c-92a08f29d6fbd061c3fcfb5b8abd661b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Consequential nationality provisions.
 
@@ -56,10 +56,10 @@ An Act to provide for the acquisition of British citizenship by selected Hong Ko
 (3) The following provisions of the principal Act shall have effect as if this Act were included in that Act—
 
 - section 37 (Commonwealth citizenship)
-- [^key-3ddcf79e416c529898b21ea770392090]...
+- [^c-3ddcf79e416c529898b21ea770392090]...
 - section 41 (regulations) other than subsection (2)
-- section 42 (registration and naturalisation: citizenship ceremony, oath and pledge)[^key-e133f5cf19ab600e170ddac6c32a33da]
-- section 42A (registration and naturalisation: fee)[^key-13c0c54ceca5db273f041aab99e6e351]
+- section 42 (registration and naturalisation: citizenship ceremony, oath and pledge)[^c-e133f5cf19ab600e170ddac6c32a33da]
+- section 42A (registration and naturalisation: fee)[^c-13c0c54ceca5db273f041aab99e6e351]
 - section 42B (registration and naturalisation: timing)
 - section 44(1) (discretions to be exercised without regard to race, colour or religion)
 - section 45 (evidence)
@@ -171,15 +171,15 @@ if the spouse or child is recommended to the Secretary of State for that purpose
 
 [^c930109]: Textual amendment: S. 1(5) ceases to have effect (7.11.2002) by virtue of [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2002/41/section/7/2), [161](https://www.legislation.gov.uk/ukpga/2002/41/section/161), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159))
 
-[^key-92a08f29d6fbd061c3fcfb5b8abd661b]: Textual amendment: S. 1(5) repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2002/41/section/7/2), [162(2)(b)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/2/b), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1)
+[^c-92a08f29d6fbd061c3fcfb5b8abd661b]: Textual amendment: S. 1(5) repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2002/41/section/7/2), [162(2)(b)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/2/b), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1)
 
 [^c930110]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61) .
 
-[^key-3ddcf79e416c529898b21ea770392090]: Textual amendment: Words in s. 2(3) omitted (4.4.2003) by virtue of [Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016)](https://www.legislation.gov.uk/uksi/2003/1016) , [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1016/article/2/2) , [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2003/1016/schedule/paragraph/4/a)
+[^c-3ddcf79e416c529898b21ea770392090]: Textual amendment: Words in s. 2(3) omitted (4.4.2003) by virtue of [Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016)](https://www.legislation.gov.uk/uksi/2003/1016) , [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/1016/article/2/2) , [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2003/1016/schedule/paragraph/4/a)
 
-[^key-e133f5cf19ab600e170ddac6c32a33da]: Textual amendment: Words in s. 2(3) substituted (1.1.2004) by [Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016)](https://www.legislation.gov.uk/uksi/2003/1016) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1016/article/2/1) , [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2003/1016/schedule/paragraph/4/b)
+[^c-e133f5cf19ab600e170ddac6c32a33da]: Textual amendment: Words in s. 2(3) substituted (1.1.2004) by [Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016)](https://www.legislation.gov.uk/uksi/2003/1016) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1016/article/2/1) , [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2003/1016/schedule/paragraph/4/b)
 
-[^key-13c0c54ceca5db273f041aab99e6e351]: Textual amendment: Words in s. 2(3) inserted (1.1.2004) by [Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016)](https://www.legislation.gov.uk/uksi/2003/1016) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1016/article/2/1) , [Sch. para. 4(c)](https://www.legislation.gov.uk/uksi/2003/1016/schedule/paragraph/4/c)
+[^c-13c0c54ceca5db273f041aab99e6e351]: Textual amendment: Words in s. 2(3) inserted (1.1.2004) by [Nationality, Immigration and Asylum Act 2002 (Consequential and Incidental Provisions) Order 2003 (S.I. 2003/1016)](https://www.legislation.gov.uk/uksi/2003/1016) , [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1016/article/2/1) , [Sch. para. 4(c)](https://www.legislation.gov.uk/uksi/2003/1016/schedule/paragraph/4/c)
 
 [^c930111]: Modification: Power of appointment conferred by section 6(4) partly exercised: [S.I. 1990/2210](https://www.legislation.gov.uk/uksi/1990/2210)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Removal of requirement to be a carer[^key-e1334de68cf8231fc6ab1882acf0f53a]
+## 131. Removal of requirement to be a carer[^c-e1334de68cf8231fc6ab1882acf0f53a]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1334de68cf8231fc6ab1882acf0f53a]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2014/6/section/131) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(k)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/k) (with [art. 10](https://www.legislation.gov.uk/uksi/2014/1640/article/10))
+[^c-e1334de68cf8231fc6ab1882acf0f53a]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2014/6/section/131) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(k)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/k) (with [art. 10](https://www.legislation.gov.uk/uksi/2014/1640/article/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46Q. Supervision of article 46O receiver and variations[^key-2355b71b3721684dc0d044569e2c3763]
+## 46Q. Supervision of article 46O receiver and variations[^c-2355b71b3721684dc0d044569e2c3763]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2355b71b3721684dc0d044569e2c3763]: Textual amendment: Arts. 46I-46R inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [14](https://www.legislation.gov.uk/uksi/2018/1078/article/14)
+[^c-2355b71b3721684dc0d044569e2c3763]: Textual amendment: Arts. 46I-46R inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [14](https://www.legislation.gov.uk/uksi/2018/1078/article/14)

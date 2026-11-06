@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Offences[^key-4c4778a0fa84ffdad1f8d892c8d3170a]
+## 40. Offences[^c-4c4778a0fa84ffdad1f8d892c8d3170a]
 
 *Extent: N.I.*
 
 (1) A contravention of the provisions of regulations 4 to 37 shall be an offence.
 
-(2) The RQIA[^key-4ca5e5950155e725f54604a422e453f9] shall not bring proceedings against a person in respect of any contravention of those regulations unless –
+(2) The RQIA[^c-4ca5e5950155e725f54604a422e453f9] shall not bring proceedings against a person in respect of any contravention of those regulations unless –
 
 - (a) subject to paragraph (4), he is a registered person;
 - (b) notice has been given to him in accordance with paragraph (3);
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c4778a0fa84ffdad1f8d892c8d3170a]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2005/176/regulation/40) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-4c4778a0fa84ffdad1f8d892c8d3170a]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2005/176/regulation/40) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
 
-[^key-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

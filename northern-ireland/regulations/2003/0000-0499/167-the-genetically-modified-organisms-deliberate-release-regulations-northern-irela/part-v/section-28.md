@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. General provisions of consents to market genetically modified organisms[^key-7ac77fa0d1d8309eea4f364c47a1415b]
+## 28. General provisions of consents to market genetically modified organisms[^c-7ac77fa0d1d8309eea4f364c47a1415b]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ A consent to market genetically modified organisms granted by the Department und
 
 ## Annotations
 
-[^key-7ac77fa0d1d8309eea4f364c47a1415b]: Commencement: Reg. 28 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-7ac77fa0d1d8309eea4f364c47a1415b]: Commencement: Reg. 28 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

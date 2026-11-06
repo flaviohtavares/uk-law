@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58A. Short-term hiring in and long-term hiring out[^key-579ddac6bbb5fa19b5f46f6bce01c5be]
+## 58A. Short-term hiring in and long-term hiring out[^c-579ddac6bbb5fa19b5f46f6bce01c5be]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ according to the respective lengths of those periods.
 
 ## Annotations
 
-[^key-579ddac6bbb5fa19b5f46f6bce01c5be]: Textual amendment: Ss. 58A, 58B inserted (with effect in accordance with Sch. 11 paras. 65-67 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/50)
+[^c-579ddac6bbb5fa19b5f46f6bce01c5be]: Textual amendment: Ss. 58A, 58B inserted (with effect in accordance with Sch. 11 paras. 65-67 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/50)

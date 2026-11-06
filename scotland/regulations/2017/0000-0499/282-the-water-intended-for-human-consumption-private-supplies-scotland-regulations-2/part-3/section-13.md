@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Duties in relation to use of disused system[^key-1c2cfc9097ed8a0d1ed429253036a74f]
+## 13. Duties in relation to use of disused system[^c-1c2cfc9097ed8a0d1ed429253036a74f]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
   - (i) the risk assessment does not identify any risk that the intended use of the disused part could constitute a potential danger to human health; and
   - (ii) the disused part may be used for the intended use.
 
-(2) If the risk assessment does not take account of the intended use of the disused part, a person who wishes to use the disused part (“the person”) may request that the enforcing authority review and update the risk assessment [^key-06ae0144ec5c7bcb78843cfe6f1607c1]... to take account of the intended use of the disused part.
+(2) If the risk assessment does not take account of the intended use of the disused part, a person who wishes to use the disused part (“the person”) may request that the enforcing authority review and update the risk assessment [^c-06ae0144ec5c7bcb78843cfe6f1607c1]... to take account of the intended use of the disused part.
 
 (3) On receipt of a request under paragraph (2) and the payment of any fee charged under these Regulations, the enforcing authority must within a further period of 8 weeks beginning with the day the request was received or the day the payment was made (whichever is the later)—
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1c2cfc9097ed8a0d1ed429253036a74f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2017/282/regulation/13) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-1c2cfc9097ed8a0d1ed429253036a74f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2017/282/regulation/13) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-06ae0144ec5c7bcb78843cfe6f1607c1]: Textual amendment: Words in reg. 13(2) omitted (26.10.2017) by virtue of [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/3)
+[^c-06ae0144ec5c7bcb78843cfe6f1607c1]: Textual amendment: Words in reg. 13(2) omitted (26.10.2017) by virtue of [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2017/321/regulation/4/3)

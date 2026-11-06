@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Requirement for a licence[^key-15a67c02759d5edfe6d5a332cfaa4ded]
+## 12. Requirement for a licence[^c-15a67c02759d5edfe6d5a332cfaa4ded]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to regulations 14 and 23(2), no person may carry out an operation specif
 
 ## Annotations
 
-[^key-15a67c02759d5edfe6d5a332cfaa4ded]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2014/951/regulation/12) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-15a67c02759d5edfe6d5a332cfaa4ded]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2014/951/regulation/12) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

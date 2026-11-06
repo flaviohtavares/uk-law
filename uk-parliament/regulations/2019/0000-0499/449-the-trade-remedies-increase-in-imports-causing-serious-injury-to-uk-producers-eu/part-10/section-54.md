@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Further modifications to Part 1[^key-a5444897cbdba0592c20d6058ebb1f50]
+## 54. Further modifications to Part 1[^c-a5444897cbdba0592c20d6058ebb1f50]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 2 (interpretation) has effect as if—
 
 ## Annotations
 
-[^key-a5444897cbdba0592c20d6058ebb1f50]: Commencement: Reg. 54 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see reg. 1(2)
+[^c-a5444897cbdba0592c20d6058ebb1f50]: Commencement: Reg. 54 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see reg. 1(2)

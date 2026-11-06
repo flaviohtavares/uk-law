@@ -45,26 +45,26 @@ Coming into force
 
 The Secretary of State for the Environment, Transport and the Regions, in exercise of the powers conferred by section 18 of the Road Traffic Act 1988[^f00001], and of all other powers enabling him in that behalf, and after consultation with representative organisations in accordance with section 195(2) of that Act, hereby makes the following Regulations:–
 
-## 1. Citation and commencement[^key-6338eaca6f912ea5808b630366ab6d32]
+## 1. Citation and commencement[^c-6338eaca6f912ea5808b630366ab6d32]
 
 These Regulations may be cited as the Motor Cycles (Eye Protectors) Regulations 1999 and shall come into force on 1st April 1999.
 
-## 2. Interpretation[^key-440646954ece7d0e1c2d324c90f6b8ad]
+## 2. Interpretation[^c-440646954ece7d0e1c2d324c90f6b8ad]
 
 In these Regulations–
 
-- (aa)[^key-03093256a5075b70500658d29b8fb0bd] “ECE Regulation 22” means Regulation No. 22 set out in Addendum 21 to the UNECE Agreement;
+- (aa)[^c-03093256a5075b70500658d29b8fb0bd] “ECE Regulation 22” means Regulation No. 22 set out in Addendum 21 to the UNECE Agreement;
 - (aaa) “ECE Regulation 22.05” means ECE Regulation 22 as amended by the 05 series of amendments and all previous amendments in force on 30th June 2000;
 - (aaaa) “the UNECE Agreement” means the Agreement of the United Nations Economic Commission for Europe concluded at Geneva on 20th March 1958 as amended concerning the adoption of uniform technical prescriptions for wheeled vehicles, equipment and parts which can be fitted to and/or used on wheeled vehicles and the conditions for the reciprocal recognition of approvals granted on the basis of these prescriptions, to which the United Kingdom is a party by virtue of an instrument of accession dated 14th January 1963 deposited with the Secretary General of the United Nations on 15th January 1963;
 - (a) “EEA State” means a State which is a contracting party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00002];
 - (b) “eye protector” means an appliance designed or adapted for use with any headgear or by being attached to or placed upon the head by a person driving or riding on a motor bicycle and intended for the protection of the eyes;
 - (c) “motor bicycle” means a two-wheeled motor cycle, whether or not having a side-car attached, and for the purposes of this definition, where the distance measured between the centre of the area of contact with the road surface of any two wheels of a motor cycle is less than 460 millimetres, those wheels shall be counted as one wheel.
 
-## 3. Revocation[^key-f2ea94991dd2c973202b6314da94f33e]
+## 3. Revocation[^c-f2ea94991dd2c973202b6314da94f33e]
 
 The Regulations specified in the Schedule to these Regulations are hereby revoked.
 
-## 4. Prescribed types of authorised eye protector[^key-b68cb22bfa416f9bfa8045896ead29e2]
+## 4. Prescribed types of authorised eye protector[^c-b68cb22bfa416f9bfa8045896ead29e2]
 
 (1) Subject to paragraph (3), the types of eye protector hereby prescribed as authorised for use by persons driving or riding (otherwise than in a side-car) on a motor bicycle are–
 
@@ -74,7 +74,7 @@ The Regulations specified in the Schedule to these Regulations are hereby revoke
   - (iii) to any other standard accepted by an EEA State, which offers in use levels of safety, suitability and fitness for purpose equivalent to those offered by the standards referred to in paragraph (i) or (ii) above, and are marked with a mark to indicate that standard,
 
   and in each case are marked with an approved certification mark of an approved body (whether or not they are required to be so marked by the standard in point);
-- (aa)[^key-ba6c770e8c9df8ccfd8702da2d4c0754] those which conform with ECE Regulation 22.05 including the approval, marking and conformity of production requirements of that Regulation;
+- (aa)[^c-ba6c770e8c9df8ccfd8702da2d4c0754] those which conform with ECE Regulation 22.05 including the approval, marking and conformity of production requirements of that Regulation;
 - (b) those which comply with the requirements of Council Directive [89/686/EEC](https://www.legislation.gov.uk/european/directive/1989/0686)[^f00003] of the 21st December 1989 on the approximation of the laws of the Member States relating to personal protective equipment as amended by Council Directives [93/68/EEC](https://www.legislation.gov.uk/european/directive/1993/0068)[^f00004] of 22nd July 1993, [93/95/EEC](https://www.legislation.gov.uk/european/directive/1993/0095)[^f00005] of 29th October 1993 and [96/58/EEC](https://www.legislation.gov.uk/european/directive/1996/0058)[^f00006] of 3rd September 1996; or
 - (c) those which were first used before 1st April 1989 and fulfil all of the following requirements–
   - (i) they are fitted with lenses that are designed to correct a defect in sight,
@@ -109,7 +109,7 @@ Department of the Environment, Transport and the Regions
 
 3rd March 1999
 
-## SCHEDULE — REVOCATIONS[^key-7a6a9ffc1a23445adbe826e690f1338d]
+## SCHEDULE — REVOCATIONS[^c-7a6a9ffc1a23445adbe826e690f1338d]
 
 Regulation 3
 
@@ -156,19 +156,19 @@ Copies of the Council Directives and Regulations referred to in these Regulation
 
 [^f00001]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-6338eaca6f912ea5808b630366ab6d32]: Commencement: Reg. 1 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/535/regulation/1)
+[^c-6338eaca6f912ea5808b630366ab6d32]: Commencement: Reg. 1 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/535/regulation/1)
 
-[^key-440646954ece7d0e1c2d324c90f6b8ad]: Commencement: Reg. 2 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/535/regulation/1)
+[^c-440646954ece7d0e1c2d324c90f6b8ad]: Commencement: Reg. 2 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/535/regulation/1)
 
-[^key-03093256a5075b70500658d29b8fb0bd]: Textual amendment: Reg. 2(aa)-(aaaa) inserted (30.6.2000) by [The Motor Cycles (Eye Protectors) (Amendment) Regulations 2000 (S.I. 2000/1489)](https://www.legislation.gov.uk/uksi/2000/1489), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1489/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2000/1489/regulation/2)
+[^c-03093256a5075b70500658d29b8fb0bd]: Textual amendment: Reg. 2(aa)-(aaaa) inserted (30.6.2000) by [The Motor Cycles (Eye Protectors) (Amendment) Regulations 2000 (S.I. 2000/1489)](https://www.legislation.gov.uk/uksi/2000/1489), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1489/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2000/1489/regulation/2)
 
 [^f00002]: Footnote: Cm 2073 and 2183.
 
-[^key-f2ea94991dd2c973202b6314da94f33e]: Commencement: Reg. 3 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/535/regulation/1)
+[^c-f2ea94991dd2c973202b6314da94f33e]: Commencement: Reg. 3 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/535/regulation/1)
 
-[^key-b68cb22bfa416f9bfa8045896ead29e2]: Commencement: Reg. 4 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/535/regulation/1)
+[^c-b68cb22bfa416f9bfa8045896ead29e2]: Commencement: Reg. 4 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/535/regulation/1)
 
-[^key-ba6c770e8c9df8ccfd8702da2d4c0754]: Textual amendment: Reg. 4(1)(aa) inserted (30.6.2000) by [The Motor Cycles (Eye Protectors) (Amendment) Regulations 2000 (S.I. 2000/1489)](https://www.legislation.gov.uk/uksi/2000/1489), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1489/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2000/1489/regulation/3/2)
+[^c-ba6c770e8c9df8ccfd8702da2d4c0754]: Textual amendment: Reg. 4(1)(aa) inserted (30.6.2000) by [The Motor Cycles (Eye Protectors) (Amendment) Regulations 2000 (S.I. 2000/1489)](https://www.legislation.gov.uk/uksi/2000/1489), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1489/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2000/1489/regulation/3/2)
 
 [^f00003]: Footnote: O.J. No. L399, 30.12.89, p. 18.
 
@@ -178,4 +178,4 @@ Copies of the Council Directives and Regulations referred to in these Regulation
 
 [^f00006]: Footnote: O.J. No. L236, 18.9.96, p. 44.
 
-[^key-7a6a9ffc1a23445adbe826e690f1338d]: Commencement: Sch. in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/535/regulation/1)
+[^c-7a6a9ffc1a23445adbe826e690f1338d]: Commencement: Sch. in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/535/regulation/1)

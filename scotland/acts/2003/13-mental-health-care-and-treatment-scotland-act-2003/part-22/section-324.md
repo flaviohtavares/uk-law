@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 324. Appeals: general provisions[^key-790467fa881f31512d23e7879e562565][^key-f700384e23843b2831a139910fe0f12a]
+## 324. Appeals: general provisions[^c-790467fa881f31512d23e7879e562565][^c-f700384e23843b2831a139910fe0f12a]
 
 *Extent: S*
 
@@ -56,6 +56,6 @@ may be made only on one or more of the grounds mentioned in subsection (2) below
 
 ## Annotations
 
-[^key-790467fa881f31512d23e7879e562565]: Commencement: S. 324 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-790467fa881f31512d23e7879e562565]: Commencement: S. 324 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-f700384e23843b2831a139910fe0f12a]: Commencement: [S. 324](https://www.legislation.gov.uk/asp/2003/13/section/324) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-f700384e23843b2831a139910fe0f12a]: Commencement: [S. 324](https://www.legislation.gov.uk/asp/2003/13/section/324) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

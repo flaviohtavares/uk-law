@@ -258,21 +258,21 @@ The Employment Tribunals Act 1996 [^c15464471] is amended as follows.
 
 The 1996 Act is amended as follows.
 
-**22.**[^key-88e3005bc7df12966d9123dee35dcf29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-88e3005bc7df12966d9123dee35dcf29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-88e3005bc7df12966d9123dee35dcf29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-88e3005bc7df12966d9123dee35dcf29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-88e3005bc7df12966d9123dee35dcf29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-88e3005bc7df12966d9123dee35dcf29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **25.** Omit section 109[^c15464511] (upper age limit on unfair dismissal right).
 
-**26.**[^key-8dfdaea88fa3fd27c21929e21cc7ffe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-8dfdaea88fa3fd27c21929e21cc7ffe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **27.** (1) Section 119 (basic award) is amended as follows.
 
 (2) Omit subsections (4) and (5).
 
-**28.**[^key-592fa4ceb122b4db708ced17f704206d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-592fa4ceb122b4db708ced17f704206d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **29.** In section 126(1) [^c15464541] (acts which are both unfair dismissal and discrimination), for paragraph (b) substitute—
 
@@ -563,13 +563,13 @@ The Equality Act 2006 [^c15464561] is amended as follows.
 
 [^c15464491]: Marginal citation: [Section 21(1)(q)](https://www.legislation.gov.uk/uksi/2006/1031/section/21/1/q) was amended by [S.I.2004/3426](https://www.legislation.gov.uk/uksi/2004/3426), [regulation 37(c)](https://www.legislation.gov.uk/uksi/2004/3426/regulation/37/c). Section 21(r) was inserted by [S.I. 2006/349](https://www.legislation.gov.uk/uksi/2006/349), [Schedule 1](https://www.legislation.gov.uk/uksi/2006/349/schedule/1), [paragraph 10](https://www.legislation.gov.uk/uksi/2006/349/paragraph/10).
 
-[^key-88e3005bc7df12966d9123dee35dcf29]: Textual amendment: [Sch. 8 paras. 22-24](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/22) omitted (6.4.2011) by virtue of [The Employment Equality (Repeal of Retirement Age Provisions) Regulations 2011 (S.I. 2011/1069)](https://www.legislation.gov.uk/uksi/2011/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1069/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/1069/regulation/4/2) (with [regs. 5](https://www.legislation.gov.uk/uksi/2011/1069/regulation/5), [8](https://www.legislation.gov.uk/uksi/2011/1069/regulation/8), [9](https://www.legislation.gov.uk/uksi/2011/1069/regulation/9))
+[^c-88e3005bc7df12966d9123dee35dcf29]: Textual amendment: [Sch. 8 paras. 22-24](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/22) omitted (6.4.2011) by virtue of [The Employment Equality (Repeal of Retirement Age Provisions) Regulations 2011 (S.I. 2011/1069)](https://www.legislation.gov.uk/uksi/2011/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1069/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/1069/regulation/4/2) (with [regs. 5](https://www.legislation.gov.uk/uksi/2011/1069/regulation/5), [8](https://www.legislation.gov.uk/uksi/2011/1069/regulation/8), [9](https://www.legislation.gov.uk/uksi/2011/1069/regulation/9))
 
 [^c15464511]: Marginal citation: [Section 109](https://www.legislation.gov.uk/uksi/2006/1031/section/109) has been amended but the amendments are not relevant for the purposes of these Regulations.
 
-[^key-8dfdaea88fa3fd27c21929e21cc7ffe8]: Textual amendment: [Sch. 8 para. 26](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/26) omitted (6.4.2011) by virtue of [The Employment Equality (Repeal of Retirement Age Provisions) Regulations 2011 (S.I. 2011/1069)](https://www.legislation.gov.uk/uksi/2011/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1069/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/1069/regulation/4/2) (with [regs. 5](https://www.legislation.gov.uk/uksi/2011/1069/regulation/5), [8](https://www.legislation.gov.uk/uksi/2011/1069/regulation/8), [9](https://www.legislation.gov.uk/uksi/2011/1069/regulation/9))
+[^c-8dfdaea88fa3fd27c21929e21cc7ffe8]: Textual amendment: [Sch. 8 para. 26](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/26) omitted (6.4.2011) by virtue of [The Employment Equality (Repeal of Retirement Age Provisions) Regulations 2011 (S.I. 2011/1069)](https://www.legislation.gov.uk/uksi/2011/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1069/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/1069/regulation/4/2) (with [regs. 5](https://www.legislation.gov.uk/uksi/2011/1069/regulation/5), [8](https://www.legislation.gov.uk/uksi/2011/1069/regulation/8), [9](https://www.legislation.gov.uk/uksi/2011/1069/regulation/9))
 
-[^key-592fa4ceb122b4db708ced17f704206d]: Textual amendment: [Sch. 8 para. 28](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/28) omitted (6.4.2011) by virtue of [The Employment Equality (Repeal of Retirement Age Provisions) Regulations 2011 (S.I. 2011/1069)](https://www.legislation.gov.uk/uksi/2011/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1069/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/1069/regulation/4/2) (with [regs. 5](https://www.legislation.gov.uk/uksi/2011/1069/regulation/5), [8](https://www.legislation.gov.uk/uksi/2011/1069/regulation/8), [9](https://www.legislation.gov.uk/uksi/2011/1069/regulation/9))
+[^c-592fa4ceb122b4db708ced17f704206d]: Textual amendment: [Sch. 8 para. 28](https://www.legislation.gov.uk/uksi/2006/1031/schedule/8/paragraph/28) omitted (6.4.2011) by virtue of [The Employment Equality (Repeal of Retirement Age Provisions) Regulations 2011 (S.I. 2011/1069)](https://www.legislation.gov.uk/uksi/2011/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1069/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/1069/regulation/4/2) (with [regs. 5](https://www.legislation.gov.uk/uksi/2011/1069/regulation/5), [8](https://www.legislation.gov.uk/uksi/2011/1069/regulation/8), [9](https://www.legislation.gov.uk/uksi/2011/1069/regulation/9))
 
 [^c15464541]: Marginal citation: [Section 126(1)(b)](https://www.legislation.gov.uk/uksi/2006/1031/section/126/1/b) was substituted by the [Employment Rights (Dispute Resolution) Act 1998 (c. 8)](https://www.legislation.gov.uk/ukpga/1998/8), [section 14(3)](https://www.legislation.gov.uk/ukpga/1998/8/section/14/3), and has been amended since, but the amendments are not relevant for the purposes of these Regulations.
 

@@ -31,7 +31,7 @@ summary: ''
 
 ATOMIC ENERGY AND RADIOACTIVE SUBSTANCES
 
-The Radioactive Material (Road Transport) Regulations 2002 (revoked)[^key-06b42716e5727214cc5bc4a5333ab2cd]
+The Radioactive Material (Road Transport) Regulations 2002 (revoked)[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 Made
 
@@ -45,11 +45,11 @@ Coming into force
 
 7th June 2002
 
-[^key-06b42716e5727214cc5bc4a5333ab2cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06b42716e5727214cc5bc4a5333ab2cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — CITATION, COMMENCEMENT AND APPLICATION[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### PART I — CITATION, COMMENCEMENT AND APPLICATION[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 **No longer in force.**
 
@@ -62,7 +62,7 @@ Coming into force
 - [Section 7 — Relationship of Regulations to other safety controls](part-i/section-7.md)
 - [Section 8 — Revocation of 1996 Regulations](part-i/section-8.md)
 
-### PART II — SAVINGS AND TRANSITORY PROVISIONS FOR CERTAIN MATTERS UNDER EARLIER INTERNATIONAL REGULATIONS[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### PART II — SAVINGS AND TRANSITORY PROVISIONS FOR CERTAIN MATTERS UNDER EARLIER INTERNATIONAL REGULATIONS[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 **No longer in force.**
 
@@ -72,7 +72,7 @@ Coming into force
 - [Section 12 — Packages approved under IAEA 1985](part-ii/section-12.md)
 - [Section 13 — Special form radioactive material approved under IAEA 1973 or IAEA 1985](part-ii/section-13.md)
 
-### PART III — GENERAL PROVISIONS RELATING TO THE REGULATION OF TRANSPORT[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### PART III — GENERAL PROVISIONS RELATING TO THE REGULATION OF TRANSPORT[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 **No longer in force.**
 
@@ -87,7 +87,7 @@ Coming into force
 - [Section 22 — Transport of consignments containing packages not designed in a contracting party country](part-iii/section-22.md)
 - [Section 23 — Categories of packages](part-iii/section-23.md)
 
-### PART IV — GENERAL PROVISIONS RELATING TO RADIATION PROTECTION, SAFETY PROGRAMMES AND INFORMATION TO THE PUBLIC[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### PART IV — GENERAL PROVISIONS RELATING TO RADIATION PROTECTION, SAFETY PROGRAMMES AND INFORMATION TO THE PUBLIC[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 **No longer in force.**
 
@@ -96,7 +96,7 @@ Coming into force
 - [Section 26 — Information to the public about health protection measures](part-iv/section-26.md)
 - [Section 27 — Emergency response](part-iv/section-27.md)
 
-### PART V — ACTIVITY LIMITS AND MATERIAL RESTRICTIONS[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### PART V — ACTIVITY LIMITS AND MATERIAL RESTRICTIONS[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 **No longer in force.**
 
@@ -104,7 +104,7 @@ Coming into force
 - [Section 29 — Calculation of basic radionuclide values](part-v/section-29.md)
 - [Section 30 — Content limits for packages](part-v/section-30.md)
 
-### PART VI — REQUIREMENTS AND CONTROLS FOR TRANSPORT[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### PART VI — REQUIREMENTS AND CONTROLS FOR TRANSPORT[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 **No longer in force.**
 
@@ -125,7 +125,7 @@ Coming into force
 - [Section 45 — Determination of criticality safety index (CSI)](part-vi/section-45.md)
 - [Section 46 — Limits on TI, CSI and radiation levels for packages and overpacks](part-vi/section-46.md)
 
-### PART VII — FURTHER RESPONSIBILITIES OF CONSIGNORS AND CARRIERS[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### PART VII — FURTHER RESPONSIBILITIES OF CONSIGNORS AND CARRIERS[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 **No longer in force.**
 
@@ -133,19 +133,19 @@ Coming into force
 - [Section 48 — Responsibilities of consignors](part-vii/section-48.md)
 - [Section 49 — Responsibilities of carriers](part-vii/section-49.md)
 
-### PART VIII — REQUIREMENTS FOR RADIOACTIVE MATERIALS AND FOR PACKAGINGS AND PACKAGES[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### PART VIII — REQUIREMENTS FOR RADIOACTIVE MATERIALS AND FOR PACKAGINGS AND PACKAGES[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 **No longer in force.**
 
 - [Section 50 — Requirements for radioactive materials etc](part-viii/section-50.md)
 
-### PART IX — TEST PROCEDURES[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### PART IX — TEST PROCEDURES[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 **No longer in force.**
 
 - [Section 51 — Test procedures](part-ix/section-51.md)
 
-### PART X — APPROVAL REQUIREMENTS FOR DESIGNS AND SHIPMENTS[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### PART X — APPROVAL REQUIREMENTS FOR DESIGNS AND SHIPMENTS[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 **No longer in force.**
 
@@ -160,7 +160,7 @@ Coming into force
 - [Section 60 — Approval of shipments](part-x/section-60.md)
 - [Section 61 — Approval of shipments under special arrangement](part-x/section-61.md)
 
-### PART XI — APPROVAL CERTIFICATES[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### PART XI — APPROVAL CERTIFICATES[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 **No longer in force.**
 
@@ -169,7 +169,7 @@ Coming into force
 - [Section 64 — Content of approval certificates](part-xi/section-64.md)
 - [Section 65 — Validation of approval certificates](part-xi/section-65.md)
 
-### PART XII — RADIOLOGICAL EMERGENCIES AND INTERVENTION ARRANGEMENTS[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### PART XII — RADIOLOGICAL EMERGENCIES AND INTERVENTION ARRANGEMENTS[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 **No longer in force.**
 
@@ -180,7 +180,7 @@ Coming into force
 - [Section 70 — Packages involved in a radiological emergency](part-xii/section-70.md)
 - [Section 71 — Powers of inspectors and the Secretary of State in relation to emergency arrangements](part-xii/section-71.md)
 
-### PART XIII — MISCELLANEOUS[^key-06b42716e5727214cc5bc4a5333ab2cd]
+### PART XIII — MISCELLANEOUS[^c-06b42716e5727214cc5bc4a5333ab2cd]
 
 **No longer in force.**
 
@@ -208,16 +208,16 @@ Coming into force
 
 **No longer in force.**
 
-[^key-06b42716e5727214cc5bc4a5333ab2cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06b42716e5727214cc5bc4a5333ab2cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-06b42716e5727214cc5bc4a5333ab2cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-06b42716e5727214cc5bc4a5333ab2cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06b42716e5727214cc5bc4a5333ab2cd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2002/1093) revoked (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (revoked) 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2007/1573/schedule/9)
+[^c-06b42716e5727214cc5bc4a5333ab2cd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2002/1093) revoked (1.7.2007) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (revoked) 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2007/1573/schedule/9)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

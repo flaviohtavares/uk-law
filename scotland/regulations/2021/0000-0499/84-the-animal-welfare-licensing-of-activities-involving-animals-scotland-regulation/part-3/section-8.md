@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Period of licence[^key-7ca59684277feae6e48dd6d9891df5b4]
+## 8. Period of licence[^c-7ca59684277feae6e48dd6d9891df5b4]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ca59684277feae6e48dd6d9891df5b4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/84/regulation/8) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-7ca59684277feae6e48dd6d9891df5b4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/84/regulation/8) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

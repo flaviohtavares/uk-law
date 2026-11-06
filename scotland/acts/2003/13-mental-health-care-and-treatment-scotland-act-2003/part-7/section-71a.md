@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71A. Compulsory treatment in hospital unit[^key-703b744f6b4848522ac498cc23545b8d]
+## 71A. Compulsory treatment in hospital unit[^c-703b744f6b4848522ac498cc23545b8d]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-703b744f6b4848522ac498cc23545b8d]: Textual amendment: [S. 71A](https://www.legislation.gov.uk/asp/2003/13/section/71A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 11(4)](https://www.legislation.gov.uk/asp/2015/9/section/11/4), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-703b744f6b4848522ac498cc23545b8d]: Textual amendment: [S. 71A](https://www.legislation.gov.uk/asp/2003/13/section/71A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 11(4)](https://www.legislation.gov.uk/asp/2015/9/section/11/4), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

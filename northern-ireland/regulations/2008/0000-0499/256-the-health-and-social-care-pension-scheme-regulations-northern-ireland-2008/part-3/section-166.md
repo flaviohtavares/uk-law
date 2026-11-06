@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 166. Effect of member being absent or leaving and rejoining this Section of the Scheme during the contribution option period[^key-5fefe515c55e5ca6de2b390ba7375471][^M_F_f535a577-b005-40bd-809c-db1a00119abd]
+## 166. Effect of member being absent or leaving and rejoining this Section of the Scheme during the contribution option period[^c-5fefe515c55e5ca6de2b390ba7375471][^M_F_f535a577-b005-40bd-809c-db1a00119abd]
 
 *Extent: N.I.*
 
@@ -26,8 +26,8 @@ summary: ''
 - (b) maternity leave,
 - (c) adoption leave,
 - (d) paternity leave,
-- (e) parental leave or shared parental leave[^key-7a3afb9e27b5c7d2d615cf0050c9d554], [^key-52818625238b4e0d0c3334ecae02c8f4]...
-- (ea)[^key-42f3c883ae404a460f989f28fba0f9c1] parental bereavement leave, or
+- (e) parental leave or shared parental leave[^c-7a3afb9e27b5c7d2d615cf0050c9d554], [^c-52818625238b4e0d0c3334ecae02c8f4]...
+- (ea)[^c-42f3c883ae404a460f989f28fba0f9c1] parental bereavement leave, or
 - (f) a leave of absence of the kind mentioned in regulation 140(3).
 
 (2) If paragraph (1) applies—
@@ -47,12 +47,12 @@ summary: ''
 
 ## Annotations
 
-[^key-5fefe515c55e5ca6de2b390ba7375471]: Modification: [Regs. 165-172](https://www.legislation.gov.uk/nisr/2008/256/regulation/165) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/ii)
+[^c-5fefe515c55e5ca6de2b390ba7375471]: Modification: [Regs. 165-172](https://www.legislation.gov.uk/nisr/2008/256/regulation/165) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/ii)
 
 [^M_F_f535a577-b005-40bd-809c-db1a00119abd]: Textual amendment: Words in [reg. 166](https://www.legislation.gov.uk/nisr/2008/256/regulation/44/9) heading inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
 
-[^key-7a3afb9e27b5c7d2d615cf0050c9d554]: Textual amendment: Words in [reg. 166(1)(e)](https://www.legislation.gov.uk/nisr/2008/256/regulation/166/1/e) inserted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [15](https://www.legislation.gov.uk/nisr/2023/33/regulation/15)
+[^c-7a3afb9e27b5c7d2d615cf0050c9d554]: Textual amendment: Words in [reg. 166(1)(e)](https://www.legislation.gov.uk/nisr/2008/256/regulation/166/1/e) inserted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [15](https://www.legislation.gov.uk/nisr/2023/33/regulation/15)
 
-[^key-52818625238b4e0d0c3334ecae02c8f4]: Textual amendment: Word in [reg. 166(1)(e)](https://www.legislation.gov.uk/nisr/2008/256/regulation/166/1/e) omitted (29.9.2023) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [15(11)(a)](https://www.legislation.gov.uk/nisr/2023/157/regulation/15/11/a), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)
+[^c-52818625238b4e0d0c3334ecae02c8f4]: Textual amendment: Word in [reg. 166(1)(e)](https://www.legislation.gov.uk/nisr/2008/256/regulation/166/1/e) omitted (29.9.2023) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [15(11)(a)](https://www.legislation.gov.uk/nisr/2023/157/regulation/15/11/a), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)
 
-[^key-42f3c883ae404a460f989f28fba0f9c1]: Textual amendment: [Reg. 166(1)(ea)](https://www.legislation.gov.uk/nisr/2008/256/regulation/166/1/ea) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [15(11)(b)](https://www.legislation.gov.uk/nisr/2023/157/regulation/15/11/b), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)
+[^c-42f3c883ae404a460f989f28fba0f9c1]: Textual amendment: [Reg. 166(1)(ea)](https://www.legislation.gov.uk/nisr/2008/256/regulation/166/1/ea) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [15(11)(b)](https://www.legislation.gov.uk/nisr/2023/157/regulation/15/11/b), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34)

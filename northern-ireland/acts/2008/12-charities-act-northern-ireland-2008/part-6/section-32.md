@@ -24,7 +24,7 @@ summary: ''
 
 (2) A scheme settled by the Commission under this section may be given effect by order of the Department ....
 
-(3) In the case of a scheme which goes beyond the powers exercisable apart from this section in altering a statutory provision contained in or having effect under any public general Act of Parliament of the United Kingdom or Northern Ireland legislation, no order shall be made unless a draft of the order has been laid before and approved by a[^key-06172919088d2ed8466e2898a659473b] resolution of the Assembly.
+(3) In the case of a scheme which goes beyond the powers exercisable apart from this section in altering a statutory provision contained in or having effect under any public general Act of Parliament of the United Kingdom or Northern Ireland legislation, no order shall be made unless a draft of the order has been laid before and approved by a[^c-06172919088d2ed8466e2898a659473b] resolution of the Assembly.
 
 (4) Subject to subsection (5), any provision of a scheme brought into effect under this section may be modified or superseded by the Court or the Commission as if it were a scheme brought into effect by order of the Commission under section 31.
 
@@ -46,4 +46,4 @@ then the Commission may by order authorise the charity trustees at their discret
 
 ## Annotations
 
-[^key-06172919088d2ed8466e2898a659473b]: Textual amendment: Words in [s. 32(3)](https://www.legislation.gov.uk/nia/2008/12/section/32/3) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/9/3)
+[^c-06172919088d2ed8466e2898a659473b]: Textual amendment: Words in [s. 32(3)](https://www.legislation.gov.uk/nia/2008/12/section/32/3) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/9/3)

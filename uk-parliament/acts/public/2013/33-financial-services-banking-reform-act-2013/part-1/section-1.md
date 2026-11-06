@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Objectives of Prudential Regulation Authority[^key-74479234b3f7ac26eb1dec2f6b3f275a]
+## 1. Objectives of Prudential Regulation Authority[^c-74479234b3f7ac26eb1dec2f6b3f275a]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74479234b3f7ac26eb1dec2f6b3f275a]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/33/section/1) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/a)
+[^c-74479234b3f7ac26eb1dec2f6b3f275a]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/33/section/1) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(a)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/a)

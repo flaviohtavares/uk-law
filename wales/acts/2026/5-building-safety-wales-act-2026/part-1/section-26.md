@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Removal of building from register by building safety authority[^key-4fa63e6994901778cdffc9065d1f58c7]
+## 26. Removal of building from register by building safety authority[^c-4fa63e6994901778cdffc9065d1f58c7]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fa63e6994901778cdffc9065d1f58c7]: Commencement: S. 26 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-4fa63e6994901778cdffc9065d1f58c7]: Commencement: S. 26 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

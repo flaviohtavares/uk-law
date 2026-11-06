@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Right of tenant to withhold rent[^key-7eac5f60cd13e3e0f7d37eb339efd384]
+## 12. Right of tenant to withhold rent[^c-7eac5f60cd13e3e0f7d37eb339efd384]
 
 *Extent: S*
 
 (1) Subsection (2) applies to an order—
 
 - (a) made under subsection (1)(b) of section 84; and
-- (b) which is in relation to a failure of the landlord in a short limited duration tenancy , a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy[^key-fd19f0de1b5822e8325e2f0cc703146b] to fulfil any obligation the landlord has towards the tenant in respect of fixed equipment.
+- (b) which is in relation to a failure of the landlord in a short limited duration tenancy , a limited duration tenancy, a modern limited duration tenancy or a repairing tenancy[^c-fd19f0de1b5822e8325e2f0cc703146b] to fulfil any obligation the landlord has towards the tenant in respect of fixed equipment.
 
 (2) Where the landlord has failed—
 
@@ -56,6 +56,6 @@ may terminate the order made under subsection (3) if it considers that it would 
 
 ## Annotations
 
-[^key-7eac5f60cd13e3e0f7d37eb339efd384]: Commencement: S. 12 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-7eac5f60cd13e3e0f7d37eb339efd384]: Commencement: S. 12 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-fd19f0de1b5822e8325e2f0cc703146b]: Textual amendment: Words in s. 12(1)(b) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(5)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/5) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2017/299/regulation/12))
+[^c-fd19f0de1b5822e8325e2f0cc703146b]: Textual amendment: Words in s. 12(1)(b) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(5)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/5) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 12](https://www.legislation.gov.uk/ssi/2017/299/regulation/12))

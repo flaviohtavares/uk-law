@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — APPROPRIATE VERIFICATION[^key-7da16ee1dcbe6a75a3753ecef6d48e97]
+## SCHEDULE 3 — APPROPRIATE VERIFICATION[^c-7da16ee1dcbe6a75a3753ecef6d48e97]
 
 *Extent: N.I.*
 
@@ -24,42 +24,42 @@ summary: ''
 
 Article 15
 
-### PART I — DEFAULT POSITION[^key-7da16ee1dcbe6a75a3753ecef6d48e97]
+### PART I — DEFAULT POSITION[^c-7da16ee1dcbe6a75a3753ecef6d48e97]
 
-**1.**[^key-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — PRESCRIBED VERIFICATION[^key-7da16ee1dcbe6a75a3753ecef6d48e97]
+### PART II — PRESCRIBED VERIFICATION[^c-7da16ee1dcbe6a75a3753ecef6d48e97]
 
-**5.**[^key-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — PRESCRIBED VERIFICATION[^key-7da16ee1dcbe6a75a3753ecef6d48e97]
+### PART III — PRESCRIBED VERIFICATION[^c-7da16ee1dcbe6a75a3753ecef6d48e97]
 
-**8.**[^key-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — DEFINITIONS AND POWER TO AMEND[^key-7da16ee1dcbe6a75a3753ecef6d48e97]
+### PART IV — DEFINITIONS AND POWER TO AMEND[^c-7da16ee1dcbe6a75a3753ecef6d48e97]
 
-**11.**[^key-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-7da16ee1dcbe6a75a3753ecef6d48e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7da16ee1dcbe6a75a3753ecef6d48e97]: Textual amendment: Sch. 3 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 84](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/84), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(v) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb)
+[^c-7da16ee1dcbe6a75a3753ecef6d48e97]: Textual amendment: Sch. 3 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 84](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/84), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(v) (bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb)

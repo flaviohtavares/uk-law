@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-226841d2164657d2b5aa3c636f303e65]
+## 1. Citation and commencement[^c-226841d2164657d2b5aa3c636f303e65]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Progress Power (Gas Fired Power Station) Order 20
 
 ## Annotations
 
-[^key-226841d2164657d2b5aa3c636f303e65]: Commencement: Art. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-226841d2164657d2b5aa3c636f303e65]: Commencement: Art. 1 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)

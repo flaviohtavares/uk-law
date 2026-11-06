@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Insertion of new Schedule into the NRPS Regulations 2011[^key-e4bb46e3e5e080260c884e2483a98bae]
+## 29. Insertion of new Schedule into the NRPS Regulations 2011[^c-e4bb46e3e5e080260c884e2483a98bae]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The NRPS Regulations 2011 are amended by the insertion after Schedule 2 to the n
 
 ## Annotations
 
-[^key-e4bb46e3e5e080260c884e2483a98bae]: Commencement: Reg. 29 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-e4bb46e3e5e080260c884e2483a98bae]: Commencement: Reg. 29 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

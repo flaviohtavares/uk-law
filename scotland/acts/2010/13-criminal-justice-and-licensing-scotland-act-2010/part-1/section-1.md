@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-93fbba7f70cbb77b4e979454c0da6b3b] There is established a body corporate to be known as the “Scottish Sentencing Council” (referred to in this Part as the “**Council**”).
+(1)[^c-93fbba7f70cbb77b4e979454c0da6b3b] There is established a body corporate to be known as the “Scottish Sentencing Council” (referred to in this Part as the “**Council**”).
 
-(2)[^key-b87609ecbd885578b7713a59126075d6][^key-2a4ea782d70709ed28cc7f7115171029] Schedule 1 makes further provision about the Council.
+(2)[^c-b87609ecbd885578b7713a59126075d6][^c-2a4ea782d70709ed28cc7f7115171029] Schedule 1 makes further provision about the Council.
 
 ## Annotations
 
-[^key-93fbba7f70cbb77b4e979454c0da6b3b]: Commencement: S. 1(1) in force at 7.5.2015 by [S.S.I. 2015/177](https://www.legislation.gov.uk/ssi/2015/177), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/177/article/2/a)
+[^c-93fbba7f70cbb77b4e979454c0da6b3b]: Commencement: S. 1(1) in force at 7.5.2015 by [S.S.I. 2015/177](https://www.legislation.gov.uk/ssi/2015/177), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/177/article/2/a)
 
-[^key-b87609ecbd885578b7713a59126075d6]: Commencement: S. 1(2) in force at 7.5.2015 for specified purposes by [S.S.I. 2015/177](https://www.legislation.gov.uk/ssi/2015/177), [art. 2(b)](https://www.legislation.gov.uk/ssi/2015/177/article/2/b)
+[^c-b87609ecbd885578b7713a59126075d6]: Commencement: S. 1(2) in force at 7.5.2015 for specified purposes by [S.S.I. 2015/177](https://www.legislation.gov.uk/ssi/2015/177), [art. 2(b)](https://www.legislation.gov.uk/ssi/2015/177/article/2/b)
 
-[^key-2a4ea782d70709ed28cc7f7115171029]: Commencement: S. 1(2) in force at 19.10.2015 in so far as not already in force by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)
+[^c-2a4ea782d70709ed28cc7f7115171029]: Commencement: S. 1(2) in force at 19.10.2015 in so far as not already in force by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)

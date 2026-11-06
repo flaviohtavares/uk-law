@@ -20,11 +20,11 @@ summary: ''
 
 **Not yet in force.**
 
-**77.**[^key-8fc35fa9414d65af7239765a31f23696] A person shall not fish for, take or kill salmon with a fishing engine other than rod and line or hand line in the sea and tidal waters—
+**77.**[^c-8fc35fa9414d65af7239765a31f23696] A person shall not fish for, take or kill salmon with a fishing engine other than rod and line or hand line in the sea and tidal waters—
 
 - (a) from 16th September in any year to 17th March in the next following year, both dates inclusive; or
 - (b) during the period commencing at 8 o'clock am on each Saturday and ending at 8 o'clock am on the next following Monday.
 
 ## Annotations
 
-[^key-8fc35fa9414d65af7239765a31f23696]: Commencement: S. 77 in operation at 1.11.1997, see byelaw 1
+[^c-8fc35fa9414d65af7239765a31f23696]: Commencement: S. 77 in operation at 1.11.1997, see byelaw 1

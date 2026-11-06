@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Notice to bidders before the assignment stage round[^key-29c4f85703eb0223acf221d0f47a8daa]
+## 77. Notice to bidders before the assignment stage round[^c-29c4f85703eb0223acf221d0f47a8daa]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Before the start of the assignment stage round, OFCOM shall notify each bidder t
 
 ## Annotations
 
-[^key-29c4f85703eb0223acf221d0f47a8daa]: Commencement: Reg. 77 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-29c4f85703eb0223acf221d0f47a8daa]: Commencement: Reg. 77 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

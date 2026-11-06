@@ -22,11 +22,11 @@ summary: ''
 
 (1) An election under section 39—
 
-- (a) must be made not more than 4 years after the end of[^key-370ff5ca17dfce704cfd92a98e197f8d] the tax year to which it relates, and
+- (a) must be made not more than 4 years after the end of[^c-370ff5ca17dfce704cfd92a98e197f8d] the tax year to which it relates, and
 - (b) cannot be withdrawn.
 
 (2) If an individual makes an election for a tax year under section 39 the individual is treated as also giving notice under section 51(4) that section 51(1) (tax reductions for married couples and civil partners: transfer of unused relief) is to apply for the tax year.
 
 ## Annotations
 
-[^key-370ff5ca17dfce704cfd92a98e197f8d]: Textual amendment: Words in s. 40(1)(a) substituted (1.4.2010) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 55](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/55); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
+[^c-370ff5ca17dfce704cfd92a98e197f8d]: Textual amendment: Words in s. 40(1)(a) substituted (1.4.2010) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 55](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/55); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))

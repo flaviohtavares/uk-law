@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Enforcement warning notices[^key-b5adeb88debfecc6b4ad7b19319708a8][^key-4c2df94c9ae067c60e6f5b6b2dcee9c5]
+## 117. Enforcement warning notices[^c-b5adeb88debfecc6b4ad7b19319708a8][^c-4c2df94c9ae067c60e6f5b6b2dcee9c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5adeb88debfecc6b4ad7b19319708a8]: Commencement: S. 117 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-b5adeb88debfecc6b4ad7b19319708a8]: Commencement: S. 117 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-4c2df94c9ae067c60e6f5b6b2dcee9c5]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2023/55/section/117) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/d)
+[^c-4c2df94c9ae067c60e6f5b6b2dcee9c5]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2023/55/section/117) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/d)

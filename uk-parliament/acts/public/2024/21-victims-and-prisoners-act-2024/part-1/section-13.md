@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Duty to collaborate in exercise of victim support functions[^key-d070e58ee79f3727464ec5790cd5a5a9]
+## 13. Duty to collaborate in exercise of victim support functions[^c-d070e58ee79f3727464ec5790cd5a5a9]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ but does not include terrorism within the meaning of the Terrorism Act 2000 (see
 
 ## Annotations
 
-[^key-d070e58ee79f3727464ec5790cd5a5a9]: Commencement: S. 13 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-d070e58ee79f3727464ec5790cd5a5a9]: Commencement: S. 13 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

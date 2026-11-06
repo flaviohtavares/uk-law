@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Amendments relating to new payment rates for student support[^key-f3d4fdf037e34e4d024cb68ffd1fd574]
+## 53. Amendments relating to new payment rates for student support[^c-f3d4fdf037e34e4d024cb68ffd1fd574]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Schedule contains amendments relating to payment rates for student support.
 
 ## Annotations
 
-[^key-f3d4fdf037e34e4d024cb68ffd1fd574]: Commencement: Reg. 53 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-f3d4fdf037e34e4d024cb68ffd1fd574]: Commencement: Reg. 53 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

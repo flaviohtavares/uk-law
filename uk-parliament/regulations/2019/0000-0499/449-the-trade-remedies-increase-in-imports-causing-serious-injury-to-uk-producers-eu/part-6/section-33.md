@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Purpose of Part 6[^key-e445aa4a1506b0e73a7509aa0d142992]
+## 33. Purpose of Part 6[^c-e445aa4a1506b0e73a7509aa0d142992]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Reviews by the TRA of the continuing application, including variation, revocatio
 
 ## Annotations
 
-[^key-e445aa4a1506b0e73a7509aa0d142992]: Commencement: Reg. 33 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-e445aa4a1506b0e73a7509aa0d142992]: Commencement: Reg. 33 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

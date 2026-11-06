@@ -24,7 +24,7 @@ Section 99
 
 ### 1. Holding of office by Chief Land Registrar
 
-(1) The registrar may at any time resign his office by written notice to the Secretary of State[^key-95c82e880f623a3d26812b4a2d0fd9c1].
+(1) The registrar may at any time resign his office by written notice to the Secretary of State[^c-95c82e880f623a3d26812b4a2d0fd9c1].
 
 (2) The Secretary of State may remove the registrar from office if he is unable or unfit to discharge the functions of office.
 
@@ -32,7 +32,7 @@ Section 99
 
 ### 2. Remuneration etc. of Chief Land Registrar
 
-(1) The Secretary of State[^key-d3d35f9c164e578ec07c356216dc663d] shall pay the registrar such remuneration, and such travelling and other allowances, as the Secretary of State may determine.
+(1) The Secretary of State[^c-d3d35f9c164e578ec07c356216dc663d] shall pay the registrar such remuneration, and such travelling and other allowances, as the Secretary of State may determine.
 
 (2) The Secretary of State shall—
 
@@ -49,7 +49,7 @@ Section 99
 
 ### 4. Indemnity for members
 
-No member of the land registry is to be liable in damages for anything done or omitted in the discharge or purported discharge of any function relating to land registration or local land charges[^key-1baabfcc15db08f88f3e9c4d69544c78] , unless it is shown that the act or omission was in bad faith.
+No member of the land registry is to be liable in damages for anything done or omitted in the discharge or purported discharge of any function relating to land registration or local land charges[^c-1baabfcc15db08f88f3e9c4d69544c78] , unless it is shown that the act or omission was in bad faith.
 
 ### 5. Seal
 
@@ -75,8 +75,8 @@ and a corresponding amendment is made in Part 3 of Schedule 1 to the Northern Ir
 
 ## Annotations
 
-[^key-95c82e880f623a3d26812b4a2d0fd9c1]: Textual amendment: Words in [Sch. 7 para. 1(1)(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/7/paragraph/1/1) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)
+[^c-95c82e880f623a3d26812b4a2d0fd9c1]: Textual amendment: Words in [Sch. 7 para. 1(1)(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/7/paragraph/1/1) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)
 
-[^key-d3d35f9c164e578ec07c356216dc663d]: Textual amendment: Words in [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2002/9/schedule/7/paragraph/2) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)
+[^c-d3d35f9c164e578ec07c356216dc663d]: Textual amendment: Words in [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2002/9/schedule/7/paragraph/2) substituted (9.11.2011) by [The Transfer of Functions (Her Majesty's Land Registry, the Meteorological Office and Ordnance Survey) Order 2011 (S.I. 2011/2436)](https://www.legislation.gov.uk/uksi/2011/2436), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2436/article/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/2436/schedule/2/paragraph/4/2)
 
-[^key-1baabfcc15db08f88f3e9c4d69544c78]: Textual amendment: Words in [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2002/9/schedule/7/paragraph/4) inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/20)
+[^c-1baabfcc15db08f88f3e9c4d69544c78]: Textual amendment: Words in [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2002/9/schedule/7/paragraph/4) inserted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/20)

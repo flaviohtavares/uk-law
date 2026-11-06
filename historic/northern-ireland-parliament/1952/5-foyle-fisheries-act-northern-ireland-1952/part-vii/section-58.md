@@ -34,8 +34,8 @@ summary: ''
 (1A)[^c20331051] An officer of the Commission exercising any power under this Act may be accompanied and assisted by—
 
 - (a) an officer of the Department; or
-- (b)[^key-b0117da42c206e8a9f3821e7be6c05a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-b0117da42c206e8a9f3821e7be6c05a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b0117da42c206e8a9f3821e7be6c05a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b0117da42c206e8a9f3821e7be6c05a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (1B) Without prejudice to subsection (1)(a), an authorised person other than a private river watcher may for the purpose of preventing or detecting the commission of any offence against any provision of this Act at any time enter on and traverse any land either on foot or, where there is a suitable roadway, lane or path, in a motor vehicle.
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^c20331051]: Textual amendment: S. 58(1A)-(1D) inserted (1.6.2008) by [Foyle and Carlingford Fisheries (Northern Ireland) Order 2007 (S.I. 2007/915 (N.I. 9))](https://www.legislation.gov.uk/nisi/2007/915), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/915/article/1/3), [22](https://www.legislation.gov.uk/nisi/2007/915/article/22) (with [art. 32](https://www.legislation.gov.uk/nisi/2007/915/article/32)); [S.R. 2008/232](https://www.legislation.gov.uk/nisr/2008/232), [art. 2](https://www.legislation.gov.uk/nisr/2008/232/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/232/schedule)
 
-[^key-b0117da42c206e8a9f3821e7be6c05a5]: Textual amendment: [S. 58(1A)(b)(c)](https://www.legislation.gov.uk/apni/1952/5/section/58/1A/b/c) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 17](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/17) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-b0117da42c206e8a9f3821e7be6c05a5]: Textual amendment: [S. 58(1A)(b)(c)](https://www.legislation.gov.uk/apni/1952/5/section/58/1A/b/c) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(3)](https://www.legislation.gov.uk/nisr/2016/76/article/1/3), [Sch. 6 para. 17](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/17) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 8, 11, 12 and 13
 
-### 1. Interpretation[^key-695dd73e403c818381e87c4183f74047]
+### 1. Interpretation[^c-695dd73e403c818381e87c4183f74047]
 
 (1) The provisions set out in the first column of Tables 1 to 6 have effect subject to—
 
@@ -205,7 +205,7 @@ Regulations 8, 11, 12 and 13
 
 ## Annotations
 
-[^key-695dd73e403c818381e87c4183f74047]: Commencement: Sch. 4 para. 1 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-695dd73e403c818381e87c4183f74047]: Commencement: Sch. 4 para. 1 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
 
 [^f00037]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — New Annex to Commission Implementing Regulation (EU) 2019/1702[^key-26f017cd96f80ac878e7a958bb84f829]
+## SCHEDULE 1 — New Annex to Commission Implementing Regulation (EU) 2019/1702[^c-26f017cd96f80ac878e7a958bb84f829]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ Regulation 48(4)
 
 ## Annotations
 
-[^key-26f017cd96f80ac878e7a958bb84f829]: Commencement: Sch. 1 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b)
+[^c-26f017cd96f80ac878e7a958bb84f829]: Commencement: Sch. 1 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b)

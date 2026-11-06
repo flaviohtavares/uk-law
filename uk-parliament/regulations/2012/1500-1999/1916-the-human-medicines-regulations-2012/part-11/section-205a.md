@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205A. Further obligations in respect of pharmacovigilance activities[^key-bac233fc9456b036b29976f6ca718d1d]
+## 205A. Further obligations in respect of pharmacovigilance activities[^c-bac233fc9456b036b29976f6ca718d1d]
 
 *Extent: E+W+S+N.I.*
 
-(1) Schedule 12A applies in relation to medicinal products for sale or supply under a UKMA(GB) , UKMA(UK)(Category 1)[^key-99aaf5f457e29266ef43c054ee96c7cb] or THR(GB) and makes further provision as to the obligations of a holder and the licensing authority in respect of the performance of pharmacovigilance activities under this Part.
+(1) Schedule 12A applies in relation to medicinal products for sale or supply under a UKMA(GB) , UKMA(UK)(Category 1)[^c-99aaf5f457e29266ef43c054ee96c7cb] or THR(GB) and makes further provision as to the obligations of a holder and the licensing authority in respect of the performance of pharmacovigilance activities under this Part.
 
-(2) The Secretary of State may by regulations [^key-eb34d48323f2420ff8727edfb7fb346f]... amend Schedule 12A.
+(2) The Secretary of State may by regulations [^c-eb34d48323f2420ff8727edfb7fb346f]... amend Schedule 12A.
 
 (3) Regulations under paragraph (2) may make provision regarding the performance of pharmacovigilance activities under this Part as to—
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bac233fc9456b036b29976f6ca718d1d]: Textual amendment: Reg. 205A and cross-heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [167](https://www.legislation.gov.uk/uksi/2019/775/regulation/167) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 134](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/134)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bac233fc9456b036b29976f6ca718d1d]: Textual amendment: Reg. 205A and cross-heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [167](https://www.legislation.gov.uk/uksi/2019/775/regulation/167) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 134](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/134)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-99aaf5f457e29266ef43c054ee96c7cb]: Textual amendment: Words in [reg. 205A(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/205A/1) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [96(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/96/a)
+[^c-99aaf5f457e29266ef43c054ee96c7cb]: Textual amendment: Words in [reg. 205A(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/205A/1) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [96(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/96/a)
 
-[^key-eb34d48323f2420ff8727edfb7fb346f]: Textual amendment: Words in [reg. 205A(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/205A/2) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [96(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/96/b)
+[^c-eb34d48323f2420ff8727edfb7fb346f]: Textual amendment: Words in [reg. 205A(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/205A/2) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [96(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/96/b)

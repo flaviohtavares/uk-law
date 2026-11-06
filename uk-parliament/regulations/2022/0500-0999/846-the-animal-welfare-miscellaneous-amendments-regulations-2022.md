@@ -48,11 +48,11 @@ Under paragraph 1(3) of Schedule 7 to that Act, a draft of these Regulations was
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-b8a3016f72e4568dfb8eb13cb358631e]
+### 1. Citation and commencement[^c-b8a3016f72e4568dfb8eb13cb358631e]
 
 These Regulations may be cited as the Animal Welfare (Miscellaneous Amendments) Regulations 2022 and come into force on the day after the day on which they are made.
 
-### 2. Extent and application[^key-1bb6c8da0c5da604619ef23eb3ecf41c]
+### 2. Extent and application[^c-1bb6c8da0c5da604619ef23eb3ecf41c]
 
 These Regulations—
 
@@ -61,14 +61,14 @@ These Regulations—
 
 ## PART 2 — Amendment and modification of retained EU law
 
-### 3. Amendment of Regulation (EU) 2017/625[^key-c58d22b0cb8f3fb574aa04dd8c33c9fe]
+### 3. Amendment of Regulation (EU) 2017/625[^c-c58d22b0cb8f3fb574aa04dd8c33c9fe]
 
 In Article 154 of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products[^f00002], in paragraph 2—
 
 - (a) omit “, 24”[^f00003]; and
 - (b) omit “paragraph 3 of this Article”.
 
-### 4. Amendment of Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001)[^key-d8b8756f9b47274bdd50b5ee46884b01]
+### 4. Amendment of Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001)[^c-d8b8756f9b47274bdd50b5ee46884b01]
 
 (1) Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) on the protection of animals during transport and related operations[^f00004] (referred to in these Regulations as “Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001)”) is amended as follows.
 
@@ -89,7 +89,7 @@ In Article 154 of Regulation (EU) 2017/625 of the European Parliament and of the
 
 (8) In the heading to Chapter 5 (immediately before Article 30), omit “Committee”.
 
-### 5. Modification of certain provisions of Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) that have been deleted but which continue to apply[^key-2a23b68473fb0cbc41afe419dd354e4d]
+### 5. Modification of certain provisions of Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) that have been deleted but which continue to apply[^c-2a23b68473fb0cbc41afe419dd354e4d]
 
 (1) Articles 14, 15, 16, 23 and 26 of Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001)[^f00006], insofar as they continue to apply by virtue of Article 154 of Regulation (EU) 2017/625, are to be read in accordance with the following modifications.
 
@@ -102,7 +102,7 @@ In Article 154 of Regulation (EU) 2017/625 of the European Parliament and of the
 
 - (a) in paragraph 2—
   - (i) for “Member States and with” there were substituted “Great Britain and”;
-  - (ii) for “veterinary Community” there were substituted “assimilated[^key-631cf3764b3bf24071ead6123e4c778d] veterinary”;
+  - (ii) for “veterinary Community” there were substituted “assimilated[^c-631cf3764b3bf24071ead6123e4c778d] veterinary”;
 - (b) in paragraph 3, for the words from “Regulation [(EC) No 854/2004](https://www.legislation.gov.uk/european/regulation/2004/0854)” to the end there were substituted “Regulation (EU) 2017/625”.
 
 (4) Article 16 is to be read as if, in the first indent, for “Regulation [(EEC) No 3821/85](https://www.legislation.gov.uk/european/regulation/1985/3821)” there were substituted “[Regulation (EU) No 165/2014](https://www.legislation.gov.uk/european/regulation/2014/0165)”[^f00007].
@@ -152,26 +152,26 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Paragraph 21 of Schedule 7 was amended by paragraph 53 of Part 2 of Schedule 5 to the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
 
-[^key-b8a3016f72e4568dfb8eb13cb358631e]: Commencement: Reg. 1 in force at 20.7.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/846/regulation/1)
+[^c-b8a3016f72e4568dfb8eb13cb358631e]: Commencement: Reg. 1 in force at 20.7.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/846/regulation/1)
 
-[^key-1bb6c8da0c5da604619ef23eb3ecf41c]: Commencement: Reg. 2 in force at 20.7.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/846/regulation/1)
+[^c-1bb6c8da0c5da604619ef23eb3ecf41c]: Commencement: Reg. 2 in force at 20.7.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/846/regulation/1)
 
-[^key-c58d22b0cb8f3fb574aa04dd8c33c9fe]: Commencement: Reg. 3 in force at 20.7.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/846/regulation/1)
+[^c-c58d22b0cb8f3fb574aa04dd8c33c9fe]: Commencement: Reg. 3 in force at 20.7.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/846/regulation/1)
 
 [^f00002]: Footnote: EUR 2017/625, amended by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481).
 
 [^f00003]: Footnote: The reference to Article 24 of EUR 2005/1 is removed to reflect the fact that that Article, insofar as it continued to apply by virtue of paragraph 2 of Article 154 of EUR 2017/625, was subsequently revoked in full by regulation 3(30) of [S.I. 2019/802](https://www.legislation.gov.uk/uksi/2019/802) (as amended by regulation 42(2)(c) of [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481)).
 
-[^key-d8b8756f9b47274bdd50b5ee46884b01]: Commencement: Reg. 4 in force at 20.7.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/846/regulation/1)
+[^c-d8b8756f9b47274bdd50b5ee46884b01]: Commencement: Reg. 4 in force at 20.7.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/846/regulation/1)
 
 [^f00004]: Footnote: EUR 2005/1, amended by EUR 2017/625 and by [S.I. 2019/588](https://www.legislation.gov.uk/uksi/2019/588) (as amended by [S.I. 2019/1312](https://www.legislation.gov.uk/uksi/2019/1312) and [2020/1590](https://www.legislation.gov.uk/uksi/2020/1590)) and 2019/802 (as amended by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481) and 1590).
 
 [^f00005]: Footnote: Reg 3(30) of [S.I. 2019/802](https://www.legislation.gov.uk/uksi/2019/802), which, as made, omitted Article 25, was amended by regulation 42(2)(c) of [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481) so as to retain Article 25.
 
-[^key-2a23b68473fb0cbc41afe419dd354e4d]: Commencement: Reg. 5 in force at 20.7.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/846/regulation/1)
+[^c-2a23b68473fb0cbc41afe419dd354e4d]: Commencement: Reg. 5 in force at 20.7.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/846/regulation/1)
 
 [^f00006]: Footnote: Articles 21 and 24 of EUR 2005/1 were also deleted by paragraph 1(2) of Article 154 of EUR 2017/625, but they continued to apply by virtue of paragraph 2 of Article 154 of EUR 2017/625. Article 21 continues to apply with the amendments made by regulation 3(27) of [S.I. 2019/802](https://www.legislation.gov.uk/uksi/2019/802) (as amended by regulation 2(27) of [S.I. 2020/1590](https://www.legislation.gov.uk/uksi/2020/1590)). Article 24 no longer has effect: please see footnote (b).
 
-[^key-631cf3764b3bf24071ead6123e4c778d]: Textual amendment: Word in [reg. 5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/846/regulation/5/3/a/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 53](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/53)
+[^c-631cf3764b3bf24071ead6123e4c778d]: Textual amendment: Word in [reg. 5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/846/regulation/5/3/a/ii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 53](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/53)
 
 [^f00007]: Footnote: EUR 2014/165, amended by [S.I. 2019/453](https://www.legislation.gov.uk/uksi/2019/453) and [2021/135](https://www.legislation.gov.uk/uksi/2021/135).

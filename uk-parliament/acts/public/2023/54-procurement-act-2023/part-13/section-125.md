@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Power to make consequential, etc, provision[^key-fe2a3933ef9e11606d651da2e93337bf]
+## 125. Power to make consequential, etc, provision[^c-fe2a3933ef9e11606d651da2e93337bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe2a3933ef9e11606d651da2e93337bf]: Commencement: S. 125 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)
+[^c-fe2a3933ef9e11606d651da2e93337bf]: Commencement: S. 125 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)

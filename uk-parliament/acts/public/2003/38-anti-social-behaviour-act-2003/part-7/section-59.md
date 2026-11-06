@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. Aggravated trespass[^key-4cbf48f937a0c166c7c1039edfcf0e27]
+## 59. Aggravated trespass[^c-4cbf48f937a0c166c7c1039edfcf0e27]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cbf48f937a0c166c7c1039edfcf0e27]: Commencement: S. 59 in force at 20.1.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/e/iii)
+[^c-4cbf48f937a0c166c7c1039edfcf0e27]: Commencement: S. 59 in force at 20.1.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(e)(iii)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/e/iii)

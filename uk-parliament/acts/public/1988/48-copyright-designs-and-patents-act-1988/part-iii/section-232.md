@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In England and Wales the county court and in[^key-c169deeec5a77dae965069c449db919c] Northern Ireland a county court may entertain proceedings under—
+(1) In England and Wales the county court and in[^c-c169deeec5a77dae965069c449db919c] Northern Ireland a county court may entertain proceedings under—
 
 - section 230 (order for delivery up of infringing article, &c.),
 - section 231 (order as to disposal of infringing article, &c.), or
@@ -34,6 +34,6 @@ save that, in Northern Ireland, a county court may entertain such proceedings on
 
 ## Annotations
 
-[^key-c169deeec5a77dae965069c449db919c]: Textual amendment: Words in s. 232(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 72](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/72); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-c169deeec5a77dae965069c449db919c]: Textual amendment: Words in s. 232(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 72](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/72); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c13761071]: Textual amendment: Words in s. 232(1) inserted by [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), [art. 2(8)](https://www.legislation.gov.uk/uksi/1991/724/article/2/8), [Schedule Part I](https://www.legislation.gov.uk/uksi/1991/724/schedule)

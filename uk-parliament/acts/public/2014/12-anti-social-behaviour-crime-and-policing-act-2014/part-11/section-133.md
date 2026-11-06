@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-d6e8537e31e11bec0066b462baf33f32] After section 52 of the Police Act 1996 there is inserted—
+(1)[^c-d6e8537e31e11bec0066b462baf33f32] After section 52 of the Police Act 1996 there is inserted—
 
 > **52A. Regulations about hours, leave or pay: consultation etc**
 >
@@ -62,9 +62,9 @@ summary: ''
 >
 > (8) A statutory instrument containing an order under subsection (7) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(2)[^key-d6e8537e31e11bec0066b462baf33f32] In section 63 of that Act (Police Advisory Board for England and Wales, etc), in subsection (3)(a), for “regulations with respect to any of the matters mentioned in section 61(1)” there is substituted “ regulations of a kind referred to in section 52A(1) ”.
+(2)[^c-d6e8537e31e11bec0066b462baf33f32] In section 63 of that Act (Police Advisory Board for England and Wales, etc), in subsection (3)(a), for “regulations with respect to any of the matters mentioned in section 61(1)” there is substituted “ regulations of a kind referred to in section 52A(1) ”.
 
-(3)[^key-22ab870658177d109b8e0e23f14bb8f6][^key-ffcabaaabe17a1413eeb772663626692] In section 1 of the Police Pensions Act 1976 (police pensions regulations)—
+(3)[^c-22ab870658177d109b8e0e23f14bb8f6][^c-ffcabaaabe17a1413eeb772663626692] In section 1 of the Police Pensions Act 1976 (police pensions regulations)—
 
 - (a) in subsection (1), for “the Police Negotiating Board for the United Kingdom” there is substituted “ the appropriate advisory or negotiating body ”;
 - (b) after that subsection there is inserted—
@@ -76,11 +76,11 @@ summary: ''
   >
   > (1ZB) When carrying out consultation under subsection (1) above as regards England and Wales, the Secretary of State shall also invite the views of the Northern Ireland Policing Board and the Police Association for Northern Ireland.
 
-(4)[^key-d6e8537e31e11bec0066b462baf33f32] In section 52 of the Police Act 1996 (regulations for police cadets), at the end there is inserted—
+(4)[^c-d6e8537e31e11bec0066b462baf33f32] In section 52 of the Police Act 1996 (regulations for police cadets), at the end there is inserted—
 
 > (3) Before making regulations under this section relating to pensions the Secretary of State shall consult with the Police Advisory Board for England and Wales and shall also invite the views of the Northern Ireland Policing Board and the Police Association for Northern Ireland.
 
-(5)[^key-2d823f292cdee0fb9709e6c828a23d12][^key-ffcabaaabe17a1413eeb772663626692] In Schedule 3 to the Police and Justice Act 2006 (power to merge police pension schemes), in paragraph 3, for sub-paragraph (3) there is substituted—
+(5)[^c-2d823f292cdee0fb9709e6c828a23d12][^c-ffcabaaabe17a1413eeb772663626692] In Schedule 3 to the Police and Justice Act 2006 (power to merge police pension schemes), in paragraph 3, for sub-paragraph (3) there is substituted—
 
 > (3) The Secretary of State shall—
 >
@@ -90,10 +90,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d6e8537e31e11bec0066b462baf33f32]: Commencement: S. 133(1)(2)(4) in force at 1.9.2014 by [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/c)
+[^c-d6e8537e31e11bec0066b462baf33f32]: Commencement: S. 133(1)(2)(4) in force at 1.9.2014 by [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/c)
 
-[^key-22ab870658177d109b8e0e23f14bb8f6]: Commencement: S. 133(3) in force at 1.9.2014 for E.W. by [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2125/article/3/a)
+[^c-22ab870658177d109b8e0e23f14bb8f6]: Commencement: S. 133(3) in force at 1.9.2014 for E.W. by [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2125/article/3/a)
 
-[^key-ffcabaaabe17a1413eeb772663626692]: Commencement: [S. 133(3)](https://www.legislation.gov.uk/ukpga/2014/12/section/133/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/12/section/133/5) in force at 17.8.2023 for S. by [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(b)](https://www.legislation.gov.uk/uksi/2023/829/article/2/b)
+[^c-ffcabaaabe17a1413eeb772663626692]: Commencement: [S. 133(3)](https://www.legislation.gov.uk/ukpga/2014/12/section/133/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/12/section/133/5) in force at 17.8.2023 for S. by [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(b)](https://www.legislation.gov.uk/uksi/2023/829/article/2/b)
 
-[^key-2d823f292cdee0fb9709e6c828a23d12]: Commencement: S. 133(5) in force at 1.9.2014 for E.W.N.I. by [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2125/article/4/b)
+[^c-2d823f292cdee0fb9709e6c828a23d12]: Commencement: S. 133(5) in force at 1.9.2014 for E.W.N.I. by [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2125/article/4/b)

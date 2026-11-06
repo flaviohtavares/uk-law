@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Self-employed earnings[^key-e25c22215bc5830087c366217e97481f]
+## 51. Self-employed earnings[^c-e25c22215bc5830087c366217e97481f]
 
 *Extent: S*
 
@@ -67,7 +67,7 @@ If the amount resulting from this step is nil or a negative amount, the amount o
 
 (4) For the purposes of paragraph (2), where the purchase of an asset has been deducted as an expense in any assessment period and, in a subsequent assessment period, the asset is sold or ceases to be used for the purposes of a trade, profession or vocation carried on by the applicant, the proceeds of sale (or, as the case may be, the amount that would be received for the asset if it were sold at its current market value) are to be treated as a receipt in that subsequent assessment period
 
-(5) If neither the applicant nor the applicant’s partner, nor the partners jointly, have an award of universal credit, the applicant’s self-employed earnings are to be calculated in accordance with paragraphs (6) to (11)[^key-3079ca8d7b1dae18e1c782ab723e9062].
+(5) If neither the applicant nor the applicant’s partner, nor the partners jointly, have an award of universal credit, the applicant’s self-employed earnings are to be calculated in accordance with paragraphs (6) to (11)[^c-3079ca8d7b1dae18e1c782ab723e9062].
 
 (6) For the purpose of paragraph (5) step 1 is to ascertain the gross income of the employment as a self-employed earner, but excluding—
 
@@ -101,9 +101,9 @@ If the amount resulting from this step is nil or a negative amount, the amount o
 
 ## Annotations
 
-[^key-e25c22215bc5830087c366217e97481f]: Commencement: [Reg. 51](https://www.legislation.gov.uk/ssi/2021/249/regulation/51) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-e25c22215bc5830087c366217e97481f]: Commencement: [Reg. 51](https://www.legislation.gov.uk/ssi/2021/249/regulation/51) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
-[^key-3079ca8d7b1dae18e1c782ab723e9062]: Textual amendment: Words in [reg. 51(5)](https://www.legislation.gov.uk/ssi/2021/249/regulation/51/5) substituted (1.4.2023) by [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/38)](https://www.legislation.gov.uk/ssi/2023/38), [regs. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1), [13](https://www.legislation.gov.uk/ssi/2023/38/regulation/13)
+[^c-3079ca8d7b1dae18e1c782ab723e9062]: Textual amendment: Words in [reg. 51(5)](https://www.legislation.gov.uk/ssi/2021/249/regulation/51/5) substituted (1.4.2023) by [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/38)](https://www.legislation.gov.uk/ssi/2023/38), [regs. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1), [13](https://www.legislation.gov.uk/ssi/2023/38/regulation/13)
 
 [^f00159]: Footnote: The Scheme is set out in the appendix to [S.I. 1982/719](https://www.legislation.gov.uk/uksi/1982/719). There are amendments to that appendix that are not relevant to these Regulations.
 

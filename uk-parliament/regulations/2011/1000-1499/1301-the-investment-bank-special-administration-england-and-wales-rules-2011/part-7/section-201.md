@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 201. Creditors’ and clients’ request for further information[^key-d37844beaa7eed89d6274a4d14f6a0f0]
+## 201. Creditors’ and clients’ request for further information[^c-d37844beaa7eed89d6274a4d14f6a0f0]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ and the court may make such order as it thinks just.
 
 ## Annotations
 
-[^key-d37844beaa7eed89d6274a4d14f6a0f0]: Commencement: [Rule 201](https://www.legislation.gov.uk/uksi/2011/1301/rule/201) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-d37844beaa7eed89d6274a4d14f6a0f0]: Commencement: [Rule 201](https://www.legislation.gov.uk/uksi/2011/1301/rule/201) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

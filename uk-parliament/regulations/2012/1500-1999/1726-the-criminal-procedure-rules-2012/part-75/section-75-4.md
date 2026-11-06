@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75.4. Postponement of case pending request[^key-9c7d4d825d798aa6533df7c5c648b656]
+## 75.4. Postponement of case pending request[^c-9c7d4d825d798aa6533df7c5c648b656]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c7d4d825d798aa6533df7c5c648b656]: Textual amendment: Rules revoked (7.10.2013) by [The Criminal Procedure Rules 2013 (S.I. 2013/1554)](https://www.legislation.gov.uk/uksi/2013/1554), [Preamble](https://www.legislation.gov.uk/uksi/2013/1554/introduction) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2013/1554/article/2.1))
+[^c-9c7d4d825d798aa6533df7c5c648b656]: Textual amendment: Rules revoked (7.10.2013) by [The Criminal Procedure Rules 2013 (S.I. 2013/1554)](https://www.legislation.gov.uk/uksi/2013/1554), [Preamble](https://www.legislation.gov.uk/uksi/2013/1554/introduction) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2013/1554/article/2.1))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

@@ -42,7 +42,7 @@ Coming into force in accordance with regulation 1
 
 [^c23594651]The Treasury, in exercise of the powers conferred by section 8(1) of, and paragraph 1 of Schedule 4 and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act 2018 make the following Regulations.
 
-In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^key-deb63057da5f38e882e2d3c1ff6f02cb][^key-68edd749085f7b2a7becaaef1ddcf7cf]
+In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.[^c-deb63057da5f38e882e2d3c1ff6f02cb][^c-68edd749085f7b2a7becaaef1ddcf7cf]
 
 ## Contents
 
@@ -133,21 +133,21 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 - [Section 62 — Commission Delegated Regulation (EU) No. 1003/2013](part-3/section-62.md)
 - [Section 63 — Commission Delegated Regulation (EU) No. 667/2014](part-3/section-63.md)
 
-### PART 4 — SPECIFIC PROVISION FOR TRADE REPOSITORIES[^key-e14e223ae42233d4a3601a3b32d86fd7]
+### PART 4 — SPECIFIC PROVISION FOR TRADE REPOSITORIES[^c-e14e223ae42233d4a3601a3b32d86fd7]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — PRELIMINARY[^key-e14e223ae42233d4a3601a3b32d86fd7]
+#### CHAPTER 1 — PRELIMINARY[^c-e14e223ae42233d4a3601a3b32d86fd7]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 64 — Interpretation of Part 4](part-4/section-64.md)
 
-#### CHAPTER 1A — SUPERVISION OF TRADE REPOSITORIES[^key-cc0d4dcd11b1f412892eff6a1adc3cf2]
+#### CHAPTER 1A — SUPERVISION OF TRADE REPOSITORIES[^c-cc0d4dcd11b1f412892eff6a1adc3cf2]
 
 - [Section 64A — Supervision of trade repositories](part-4/section-64a.md)
 
-#### CHAPTER 2 — ENFORCEMENT PROVISIONS RELATING TO TRADE REPOSITORIES[^key-e14e223ae42233d4a3601a3b32d86fd7]
+#### CHAPTER 2 — ENFORCEMENT PROVISIONS RELATING TO TRADE REPOSITORIES[^c-e14e223ae42233d4a3601a3b32d86fd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -160,7 +160,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 - [Section 71 — Powers to issue guidance](part-4/section-71.md)
 - [Section 72 — Injunctions](part-4/section-72.md)
 
-#### CHAPTER 3 — APPLICATION OF THE FSMA FOR THE PURPOSES OF THIS PART, THE EMIR REGULATION AND THE TRATP REGULATIONS[^key-e14e223ae42233d4a3601a3b32d86fd7]
+#### CHAPTER 3 — APPLICATION OF THE FSMA FOR THE PURPOSES OF THIS PART, THE EMIR REGULATION AND THE TRATP REGULATIONS[^c-e14e223ae42233d4a3601a3b32d86fd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -210,10 +210,10 @@ An impact assessment of the effect that this instrument, and other instruments m
 
 [^c23594651]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-deb63057da5f38e882e2d3c1ff6f02cb]: Modification: Regulations modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)(4)(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1/4/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-deb63057da5f38e882e2d3c1ff6f02cb]: Modification: Regulations modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)(4)(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1/4/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-68edd749085f7b2a7becaaef1ddcf7cf]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/335): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-68edd749085f7b2a7becaaef1ddcf7cf]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/335): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-e14e223ae42233d4a3601a3b32d86fd7]: Modification: Pt. 4 applied (with modifications) (31.12.2020) by Regulation (EU) No. 2017/2402, Art. 15(2)(3) (as substituted by [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2019/660/regulation/15) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-e14e223ae42233d4a3601a3b32d86fd7]: Modification: Pt. 4 applied (with modifications) (31.12.2020) by Regulation (EU) No. 2017/2402, Art. 15(2)(3) (as substituted by [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2019/660/regulation/15) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-cc0d4dcd11b1f412892eff6a1adc3cf2]: Textual amendment: Pt. 4 Ch. 1A inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [52(6)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52/6)
+[^c-cc0d4dcd11b1f412892eff6a1adc3cf2]: Textual amendment: Pt. 4 Ch. 1A inserted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [52(6)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52/6)

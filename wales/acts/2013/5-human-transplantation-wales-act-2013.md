@@ -42,7 +42,7 @@ An Act of the National Assembly for Wales to make provision concerning the conse
 
 ## Introduction
 
-### 1. Overview[^key-4903ac1c032cf7bb9033f1fb17c205de]
+### 1. Overview[^c-4903ac1c032cf7bb9033f1fb17c205de]
 
 The main provisions of this Act—
 
@@ -56,7 +56,7 @@ The main provisions of this Act—
 
 ## Promotion of transplantation
 
-### 2. Duty of the Welsh Ministers to promote transplantation[^key-69365872cfd7eb9b5bacccc405f4c0cd]
+### 2. Duty of the Welsh Ministers to promote transplantation[^c-69365872cfd7eb9b5bacccc405f4c0cd]
 
 (1) The Welsh Ministers must—
 
@@ -71,7 +71,7 @@ The main provisions of this Act—
 
 ## Lawful transplantation activities
 
-### 3. Authorisation of transplantation activities[^key-d47989050c403282a50bf2f1e36bdbe7]
+### 3. Authorisation of transplantation activities[^c-d47989050c403282a50bf2f1e36bdbe7]
 
 (1) Transplantation activities are lawful if done in Wales—
 
@@ -92,7 +92,7 @@ The main provisions of this Act—
 
 ## Consent
 
-### 4. Consent: adults[^key-6b342fae5d6a80bc2447dfbd75154b4d]
+### 4. Consent: adults[^c-6b342fae5d6a80bc2447dfbd75154b4d]
 
 (1) This section makes provision about consent for the purposes of section 3 in relation to a transplantation activity involving the body, or relevant material from the body, of a person who is not—
 
@@ -124,7 +124,7 @@ TABLE 1
 
 (6) This section does not apply to consent for a transplantation activity that involves removal of excluded relevant material (for provision in relation to which see section 7).
 
-### 5. Consent: excepted adults[^key-64a20c4385e0ec5fcccdc04efde337fb]
+### 5. Consent: excepted adults[^c-64a20c4385e0ec5fcccdc04efde337fb]
 
 (1) This section makes provision about consent for the purposes of section 3 in relation to a transplantation activity involving the body, or relevant material from the body, of an excepted adult.
 
@@ -152,7 +152,7 @@ TABLE 2
 
 (6) This section does not apply to consent for a transplantation activity that involves removal of excluded relevant material (for provision in relation to which see section 7).
 
-### 6. Consent: children[^key-39e747f893fbd19f072fd9de78fa6834]
+### 6. Consent: children[^c-39e747f893fbd19f072fd9de78fa6834]
 
 (1) This section makes provision about consent for the purposes of section 3 in relation to a transplantation activity involving the body, or relevant material from the body, of a person who is a child or has died a child.
 
@@ -177,7 +177,7 @@ TABLE 3
 
 (6) This section does not apply to consent for a transplantation activity that involves removal of excluded relevant material (for provision in relation to which see section 7).
 
-### 7. Consent: transplantation activities involving excluded material[^key-0147ab88040d6677d22d8aeb759ea5e0][^key-80d4a1140b1f19a33094f11caba1d9d9]
+### 7. Consent: transplantation activities involving excluded material[^c-0147ab88040d6677d22d8aeb759ea5e0][^c-80d4a1140b1f19a33094f11caba1d9d9]
 
 (1) This section makes provision about consent for a transplantation activity that involves the removal of excluded relevant material.
 
@@ -216,7 +216,7 @@ TABLE 5
 
 (8) In this section a reference to the appointment of a person or persons to deal with the issue of consent is a reference to an appointment under section 8.
 
-### 8. Appointed representatives[^key-e72018b5fc4af2638cd964ae1035bf46][^key-02c4cc50fba8f665fdde4c3009c11218]
+### 8. Appointed representatives[^c-e72018b5fc4af2638cd964ae1035bf46][^c-02c4cc50fba8f665fdde4c3009c11218]
 
 (1) A person may appoint one or more persons to represent the person after death in relation to express consent for the purposes of section 3.
 
@@ -249,7 +249,7 @@ TABLE 5
 
 (12) For the purpose of sections 4(3), 5(4), 6(3) and 7 if it is not reasonably practicable to communicate with a person appointed under this section within the time available if consent is to be acted upon, the person is to be treated as being not able to give consent to an activity under the appointment.
 
-### 9. Activities involving material from adults who lack capacity to consent[^key-49eaa308aba6c582da42de33931baffe][^key-4918e405a3839e668c9c73117ea93501]
+### 9. Activities involving material from adults who lack capacity to consent[^c-49eaa308aba6c582da42de33931baffe][^c-4918e405a3839e668c9c73117ea93501]
 
 (1) This section applies where—
 
@@ -262,7 +262,7 @@ TABLE 5
 
 ## Offences
 
-### 10. Prohibition of activities without consent[^key-21c6bea14bd6afea420494a65718f67f]
+### 10. Prohibition of activities without consent[^c-21c6bea14bd6afea420494a65718f67f]
 
 (1) A person commits an offence if the person does, without consent, a transplantation activity in Wales.
 
@@ -291,7 +291,7 @@ TABLE 5
 
 (5) In this section “**consent**” means the consent required by virtue of section 3.
 
-### 11. Offences by bodies corporate[^key-bff73bfc1b447339cae2d397dd473561]
+### 11. Offences by bodies corporate[^c-bff73bfc1b447339cae2d397dd473561]
 
 (1) Where an offence under section 10 is committed by a body corporate and is proven to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
 
@@ -305,13 +305,13 @@ he or she (as well as the body corporate) is guilty of the offence and liable to
 - (a) to any similar officer of the body;
 - (b) where the body is a body corporate whose affairs are managed by its members, to any officer or member of the body.
 
-### 12. Prosecutions[^key-c45b675187b8bc293b72d0db9821480f]
+### 12. Prosecutions[^c-c45b675187b8bc293b72d0db9821480f]
 
 No proceedings for an offence under section 10 may be instituted except by or with the consent of the Director of Public Prosecutions.
 
 ## General
 
-### 13. Preservation for transplantation[^key-4529efa2ecda7dcac7dedc550a51679a]
+### 13. Preservation for transplantation[^c-4529efa2ecda7dcac7dedc550a51679a]
 
 (1) Where part of a body of a deceased person lying in a hospital, nursing home or other institution in Wales is or may be suitable for use for transplantation, it is lawful for the person having the control or management of the institution—
 
@@ -334,9 +334,9 @@ No proceedings for an offence under section 10 may be instituted except by or wi
 
 ### 14. Coroners
 
-(1)[^key-d1571c73d1d5e1fe5626803382f1cdf2] Nothing in this Act applies to anything done for the purposes of functions of a coroner or under the authority of a coroner.
+(1)[^c-d1571c73d1d5e1fe5626803382f1cdf2] Nothing in this Act applies to anything done for the purposes of functions of a coroner or under the authority of a coroner.
 
-(2)[^key-d1571c73d1d5e1fe5626803382f1cdf2] Subsection (3) applies where a person (“P”) knows, or has reason to believe, that—
+(2)[^c-d1571c73d1d5e1fe5626803382f1cdf2] Subsection (3) applies where a person (“P”) knows, or has reason to believe, that—
 
 - (a) the body of a deceased person, or
 - (b) relevant material which has come from the body of a deceased person,
@@ -345,22 +345,22 @@ is, or may be, required for purposes of functions of a coroner.
 
 (3) The consent of the coroner is required before P may act on authority under—
 
-- (a)[^key-d1571c73d1d5e1fe5626803382f1cdf2] section 3 (authorisation of transplantation activities), or
+- (a)[^c-d1571c73d1d5e1fe5626803382f1cdf2] section 3 (authorisation of transplantation activities), or
 - (b) section 13 (preservation for transplantation),
 
 in relation to the body or material.
 
 ### 15. Codes of practice
 
-(1)[^key-b997c2b8a4d38cc078bf39f7e482f890] The Human Tissue Act 2004 is amended as follows.
+(1)[^c-b997c2b8a4d38cc078bf39f7e482f890] The Human Tissue Act 2004 is amended as follows.
 
-(2)[^key-b997c2b8a4d38cc078bf39f7e482f890] In section 26 (preparation of codes of practice)—
+(2)[^c-b997c2b8a4d38cc078bf39f7e482f890] In section 26 (preparation of codes of practice)—
 
 - (a) in subsection (2)(d) after “Act” insert “ and the Human Transplantation (Wales) Act 2013 ”;
 - (b) at the end of subsection (3) add “ (including consent for the purposes of the Human Transplantation (Wales) Act 2013). ”;
 - (c) in subsection (5)(b) for “National Assembly for Wales” substitute “ Welsh Ministers ”.
 
-(3)[^key-b997c2b8a4d38cc078bf39f7e482f890] In section 27 (provision with respect to consent)—
+(3)[^c-b997c2b8a4d38cc078bf39f7e482f890] In section 27 (provision with respect to consent)—
 
 - (a) in subsection (1) for “section 2(7)(b)(ii) or 3(6)(c)“ substitute “ a provision listed in subsection (1A) ”;
 - (b) after subsection (1) insert—
@@ -388,7 +388,7 @@ in relation to the body or material.
 
 (4) In section 29 (approval of codes)—
 
-- (a)[^key-b997c2b8a4d38cc078bf39f7e482f890] after subsection (1) insert—
+- (a)[^c-b997c2b8a4d38cc078bf39f7e482f890] after subsection (1) insert—
 
   > (1A) Where a code of practice to which subsection (1) applies deals with a matter relating to the carrying on in Wales of a transplantation activity (within the meaning of the Human Transplantation (Wales) Act 2013) the Authority may not issue the code unless—
   >
@@ -396,20 +396,20 @@ in relation to the body or material.
   > - (b) the National Assembly has approved the draft by resolution.
 
   ;
-- (b)[^key-b997c2b8a4d38cc078bf39f7e482f890] in subsection (2)(a) for “National Assembly for Wales” substitute “ Welsh Ministers ”;
-- (c)[^key-b997c2b8a4d38cc078bf39f7e482f890] in subsection (3)(a) for “National Assembly for Wales” substitute “ Welsh Ministers ”;
-- (d)[^key-b997c2b8a4d38cc078bf39f7e482f890] after subsection (4) insert—
+- (b)[^c-b997c2b8a4d38cc078bf39f7e482f890] in subsection (2)(a) for “National Assembly for Wales” substitute “ Welsh Ministers ”;
+- (c)[^c-b997c2b8a4d38cc078bf39f7e482f890] in subsection (3)(a) for “National Assembly for Wales” substitute “ Welsh Ministers ”;
+- (d)[^c-b997c2b8a4d38cc078bf39f7e482f890] after subsection (4) insert—
 
   > (4A) If the Welsh Ministers do not approve a draft sent to them under subsection (1A), they shall give reasons to the Authority.
 - (e) after subsection (6) insert—
 
   > (7) In calculating the period mentioned in subsection (1A) no account is to be taken of any time during which the National Assembly is dissolved or in recess for more than 4 days.
 
-(5)[^key-b997c2b8a4d38cc078bf39f7e482f890] In section 52 (orders and regulations) after subsection (4) insert—
+(5)[^c-b997c2b8a4d38cc078bf39f7e482f890] In section 52 (orders and regulations) after subsection (4) insert—
 
 > (4A) No order under section 27(10) may be made by the Welsh Ministers unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
 
-### 16. Consequential and incidental amendments to the Human Tissue Act 2004[^key-40e024874b132d35d99275c27cf9b734]
+### 16. Consequential and incidental amendments to the Human Tissue Act 2004[^c-40e024874b132d35d99275c27cf9b734]
 
 (1) The Human Tissue Act 2004 is amended as follows.
 
@@ -481,11 +481,11 @@ in relation to the body or material.
 - (a) in paragraph 3(1)(a) after “2” insert “ or under the Human Transplantation (Wales) Act 2013 ”;
 - (b) in paragraph 5(2) after “2” insert “ or under the Human Transplantation (Wales) Act 2013 ”.
 
-### 17. Consequential amendment to the Wills Act 1837[^key-5303dc3c4ef224a2bbd292a5473e24c6]
+### 17. Consequential amendment to the Wills Act 1837[^c-5303dc3c4ef224a2bbd292a5473e24c6]
 
 In section 1 of the Wills Act 1837 (meaning of certain words in this Act), after “section 4 of the Human Tissue Act 2004” insert “ or section 8 of the Human Transplantation (Wales) Act 2013 ”.
 
-### 18. Relevant material[^key-ad7f201c48984d33790ea4e77509b36b]
+### 18. Relevant material[^c-ad7f201c48984d33790ea4e77509b36b]
 
 (1) In this Act “**relevant material**” means material, other than gametes, which consists of or includes human cells.
 
@@ -496,7 +496,7 @@ In section 1 of the Wills Act 1837 (meaning of certain words in this Act), after
 
 (3) In this section “**embryo**” and “**gametes**” have the same meaning as they have by virtue of section 1(1), (4) and (6) of the Human Fertilisation and Embryology Act 1990 in the other provisions of that Act (apart from section 4A).
 
-### 19. Interpretation[^key-eecf9b6af49612a422522f442c331ba1]
+### 19. Interpretation[^c-eecf9b6af49612a422522f442c331ba1]
 
 (1) In this Act—
 
@@ -533,7 +533,7 @@ In section 1 of the Wills Act 1837 (meaning of certain words in this Act), after
 
 (8) For the purposes of this Act, material is not to be regarded as from a human body if it is created outside the human body.
 
-### 20. Orders and regulations[^key-8e8ef31b9dc94ef823457f3347b385af]
+### 20. Orders and regulations[^c-8e8ef31b9dc94ef823457f3347b385af]
 
 (1) A power to make an order or regulations under this Act includes power to make such incidental, consequential, transitional or supplemental provision as the Welsh Ministers consider appropriate.
 
@@ -545,7 +545,7 @@ In section 1 of the Wills Act 1837 (meaning of certain words in this Act), after
 
 (5) Subsections (3) and (4) do not apply to orders under section 21 (commencement).
 
-### 21. Commencement[^key-09ebcce3ee41be05f1f68ccaeb0f3ac3]
+### 21. Commencement[^c-09ebcce3ee41be05f1f68ccaeb0f3ac3]
 
 (1) This Act comes into force in accordance with provision made by the Welsh Ministers by order.
 
@@ -564,58 +564,58 @@ which are to come into force on the day this Act receives Royal Assent.
 
 (5) An order made under subsection (1) may appoint different days for different purposes.
 
-### 22. Short Title[^key-db692659bb007bf633e1bafec89d4ecb]
+### 22. Short Title[^c-db692659bb007bf633e1bafec89d4ecb]
 
 The short title of this Act is the Human Transplantation (Wales) Act 2013.
 
 ## Annotations
 
-[^key-4903ac1c032cf7bb9033f1fb17c205de]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2013/5/section/1) in force at 10.9.2013, see [s. 21(4)(a)](https://www.legislation.gov.uk/anaw/2013/5/section/21/4/a)
+[^c-4903ac1c032cf7bb9033f1fb17c205de]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2013/5/section/1) in force at 10.9.2013, see [s. 21(4)(a)](https://www.legislation.gov.uk/anaw/2013/5/section/21/4/a)
 
-[^key-69365872cfd7eb9b5bacccc405f4c0cd]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2013/5/section/2) in force at 10.9.2013, see [s. 21(4)(b)](https://www.legislation.gov.uk/anaw/2013/5/section/21/4/b)
+[^c-69365872cfd7eb9b5bacccc405f4c0cd]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2013/5/section/2) in force at 10.9.2013, see [s. 21(4)(b)](https://www.legislation.gov.uk/anaw/2013/5/section/21/4/b)
 
-[^key-d47989050c403282a50bf2f1e36bdbe7]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2013/5/section/3) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/a)
+[^c-d47989050c403282a50bf2f1e36bdbe7]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2013/5/section/3) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/a)
 
-[^key-6b342fae5d6a80bc2447dfbd75154b4d]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2013/5/section/4) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/a)
+[^c-6b342fae5d6a80bc2447dfbd75154b4d]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2013/5/section/4) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/a)
 
-[^key-64a20c4385e0ec5fcccdc04efde337fb]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2013/5/section/5) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/a)
+[^c-64a20c4385e0ec5fcccdc04efde337fb]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2013/5/section/5) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/a)
 
-[^key-39e747f893fbd19f072fd9de78fa6834]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2013/5/section/6) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/a)
+[^c-39e747f893fbd19f072fd9de78fa6834]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2013/5/section/6) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/a)
 
-[^key-0147ab88040d6677d22d8aeb759ea5e0]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2013/5/section/7) in force at 12.9.2015 for specified purposes by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1679/article/2/a)
+[^c-0147ab88040d6677d22d8aeb759ea5e0]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2013/5/section/7) in force at 12.9.2015 for specified purposes by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1679/article/2/a)
 
-[^key-80d4a1140b1f19a33094f11caba1d9d9]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2013/5/section/7) in force at 1.12.2015 in so far as not already in force by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/b)
+[^c-80d4a1140b1f19a33094f11caba1d9d9]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2013/5/section/7) in force at 1.12.2015 in so far as not already in force by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/b)
 
-[^key-e72018b5fc4af2638cd964ae1035bf46]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2013/5/section/8) in force at 12.9.2015 for specified purposes by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1679/article/2/a)
+[^c-e72018b5fc4af2638cd964ae1035bf46]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2013/5/section/8) in force at 12.9.2015 for specified purposes by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1679/article/2/a)
 
-[^key-02c4cc50fba8f665fdde4c3009c11218]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2013/5/section/8) in force at 1.12.2015 in so far as not already in force by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/b)
+[^c-02c4cc50fba8f665fdde4c3009c11218]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2013/5/section/8) in force at 1.12.2015 in so far as not already in force by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/b)
 
-[^key-49eaa308aba6c582da42de33931baffe]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2013/5/section/9) in force at 12.9.2015 for specified purposes by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1679/article/2/a)
+[^c-49eaa308aba6c582da42de33931baffe]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2013/5/section/9) in force at 12.9.2015 for specified purposes by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1679/article/2/a)
 
-[^key-4918e405a3839e668c9c73117ea93501]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2013/5/section/9) in force at 1.12.2015 in so far as not already in force by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/b)
+[^c-4918e405a3839e668c9c73117ea93501]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2013/5/section/9) in force at 1.12.2015 in so far as not already in force by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/b)
 
-[^key-21c6bea14bd6afea420494a65718f67f]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2013/5/section/10) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/c)
+[^c-21c6bea14bd6afea420494a65718f67f]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2013/5/section/10) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/c)
 
-[^key-bff73bfc1b447339cae2d397dd473561]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2013/5/section/11) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/c)
+[^c-bff73bfc1b447339cae2d397dd473561]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2013/5/section/11) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/c)
 
-[^key-c45b675187b8bc293b72d0db9821480f]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2013/5/section/12) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/c)
+[^c-c45b675187b8bc293b72d0db9821480f]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2013/5/section/12) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/c)
 
-[^key-4529efa2ecda7dcac7dedc550a51679a]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2013/5/section/13) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/c)
+[^c-4529efa2ecda7dcac7dedc550a51679a]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2013/5/section/13) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/c)
 
-[^key-d1571c73d1d5e1fe5626803382f1cdf2]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/anaw/2013/5/section/14/1)[(2)](https://www.legislation.gov.uk/anaw/2013/5/section/14/2)[(3)(a)](https://www.legislation.gov.uk/anaw/2013/5/section/14/3/a) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(d)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/d)
+[^c-d1571c73d1d5e1fe5626803382f1cdf2]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/anaw/2013/5/section/14/1)[(2)](https://www.legislation.gov.uk/anaw/2013/5/section/14/2)[(3)(a)](https://www.legislation.gov.uk/anaw/2013/5/section/14/3/a) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(d)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/d)
 
-[^key-b997c2b8a4d38cc078bf39f7e482f890]: Commencement: S. 15(1)-(3)(4)(a)-(d)(5) in force at 12.9.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1679/article/2/b)
+[^c-b997c2b8a4d38cc078bf39f7e482f890]: Commencement: S. 15(1)-(3)(4)(a)-(d)(5) in force at 12.9.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1679/article/2/b)
 
-[^key-40e024874b132d35d99275c27cf9b734]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2013/5/section/16) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)
+[^c-40e024874b132d35d99275c27cf9b734]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2013/5/section/16) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)
 
-[^key-5303dc3c4ef224a2bbd292a5473e24c6]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2013/5/section/17) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)
+[^c-5303dc3c4ef224a2bbd292a5473e24c6]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2013/5/section/17) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)
 
-[^key-ad7f201c48984d33790ea4e77509b36b]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2013/5/section/18) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)
+[^c-ad7f201c48984d33790ea4e77509b36b]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2013/5/section/18) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)
 
-[^key-eecf9b6af49612a422522f442c331ba1]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2013/5/section/19) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)
+[^c-eecf9b6af49612a422522f442c331ba1]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2013/5/section/19) in force at 1.12.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)
 
-[^key-8e8ef31b9dc94ef823457f3347b385af]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2013/5/section/20) in force at 12.9.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/1679/article/2/c)
+[^c-8e8ef31b9dc94ef823457f3347b385af]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2013/5/section/20) in force at 12.9.2015 by [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/1679/article/2/c)
 
-[^key-09ebcce3ee41be05f1f68ccaeb0f3ac3]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2013/5/section/21) in force at 10.9.2013, see [s. 21(4)(c)](https://www.legislation.gov.uk/anaw/2013/5/section/21/4/c)
+[^c-09ebcce3ee41be05f1f68ccaeb0f3ac3]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2013/5/section/21) in force at 10.9.2013, see [s. 21(4)(c)](https://www.legislation.gov.uk/anaw/2013/5/section/21/4/c)
 
-[^key-db692659bb007bf633e1bafec89d4ecb]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2013/5/section/22) in force at 10.9.2013, see [s. 21(4)(d)](https://www.legislation.gov.uk/anaw/2013/5/section/21/4/d)
+[^c-db692659bb007bf633e1bafec89d4ecb]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2013/5/section/22) in force at 10.9.2013, see [s. 21(4)(d)](https://www.legislation.gov.uk/anaw/2013/5/section/21/4/d)

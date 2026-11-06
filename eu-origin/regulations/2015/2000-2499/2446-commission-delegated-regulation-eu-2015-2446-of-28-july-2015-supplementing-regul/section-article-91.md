@@ -26,7 +26,7 @@ summary: ''
 - (b) the amount of import or export duty concerned has been notified to the debtor referred to in point (a) in accordance with Article 102 of the Code;
 - (c) the person referred to in Article 79(3)(a) of the Code is not considered a debtor in accordance with Article 79(3)(b) or (c) of the Code and no deception or obvious negligence may be attributed to that person;
 
-2.[^key-fded7d953ef19572317e734576679fd0] The suspension shall be conditional on the person for whose benefit it is granted issuing a guarantee for the amount of the import or export duty at stake, except in either of the following situations:
+2.[^c-fded7d953ef19572317e734576679fd0] The suspension shall be conditional on the person for whose benefit it is granted issuing a guarantee for the amount of the import or export duty at stake, except in either of the following situations:
 
 - (a) a guarantee covering the whole amount of import or export duty at stake already exists and the guarantor has not been released from his obligations;
 - (b) it is established, on the basis of a documented assessment, that the requirement of a guarantee would be likely to cause the debtor serious economic or social difficulties.
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fded7d953ef19572317e734576679fd0]: Modification: [Art. 91(2)](https://www.legislation.gov.uk/eur/2015/2446/article/91/2) modified (1.8.2021) by [The Value Added Tax Regulations 1995 (S.I. 1995/2518)](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AI](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AI) (as inserted by [S.I. 2021/715](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))
+[^c-fded7d953ef19572317e734576679fd0]: Modification: [Art. 91(2)](https://www.legislation.gov.uk/eur/2015/2446/article/91/2) modified (1.8.2021) by [The Value Added Tax Regulations 1995 (S.I. 1995/2518)](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AI](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AI) (as inserted by [S.I. 2021/715](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))

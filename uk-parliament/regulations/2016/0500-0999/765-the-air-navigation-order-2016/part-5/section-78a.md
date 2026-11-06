@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78A. Carriage of equipment[^key-b722a206c0f468da2932e9911e06b0ff]
+## 78A. Carriage of equipment[^c-b722a206c0f468da2932e9911e06b0ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b722a206c0f468da2932e9911e06b0ff]: Textual amendment: [Art. 78A](https://www.legislation.gov.uk/uksi/2016/765/article/78A) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [21(2)](https://www.legislation.gov.uk/uksi/2017/1112/article/21/2)
+[^c-b722a206c0f468da2932e9911e06b0ff]: Textual amendment: [Art. 78A](https://www.legislation.gov.uk/uksi/2016/765/article/78A) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [21(2)](https://www.legislation.gov.uk/uksi/2017/1112/article/21/2)

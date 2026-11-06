@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. General provisions as to Orders in Council, etc.[^c9591621][^key-b2ed51c17bfdec3ea988a145b4d1c417][^key-2c95b7d7cab54d494c6c8aa66ffd75a1]
+## 32. General provisions as to Orders in Council, etc.[^c9591621][^c-b2ed51c17bfdec3ea988a145b4d1c417][^c-2c95b7d7cab54d494c6c8aa66ffd75a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,9 +36,9 @@ summary: ''
 
     S. 32 extended (with modfications) to Jersey (1.8.1993) by [S.I. 1993/1797](https://www.legislation.gov.uk/uksi/1993/1797) art. 3(1), Sch. 1 Pt. I (as amended (17.10.2012) by [S.I. 2012/2593](https://www.legislation.gov.uk/uksi/2012/2593), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2593/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2593/article/2/2))
 
-[^key-b2ed51c17bfdec3ea988a145b4d1c417]: Modification: S. 32: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (17.10.2012 coming into force in accordance with art. 1) by [The Immigration and Asylum (Jersey) Order 2012 (S.I. 2012/2593)](https://www.legislation.gov.uk/uksi/2012/2593), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2593/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2593/article/2/2)
+[^c-b2ed51c17bfdec3ea988a145b4d1c417]: Modification: S. 32: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (17.10.2012 coming into force in accordance with art. 1) by [The Immigration and Asylum (Jersey) Order 2012 (S.I. 2012/2593)](https://www.legislation.gov.uk/uksi/2012/2593), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2593/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2593/article/2/2)
 
-[^key-2c95b7d7cab54d494c6c8aa66ffd75a1]: Modification: S. 32: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (11.10.2017 coming into force in accordance with art. 1) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
+[^c-2c95b7d7cab54d494c6c8aa66ffd75a1]: Modification: S. 32: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (11.10.2017 coming into force in accordance with art. 1) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
 
 [^c9591631]: Textual amendment: Words in s. 32(2) substituted (6.12.1999) by [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33), [s. 169(1)](https://www.legislation.gov.uk/ukpga/1999/33/section/169/1), [Sch. 14 paras. 43](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/43), [45(2)(a)(6)](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/45/2/a/6); [S.I. 1999/3190](https://www.legislation.gov.uk/uksi/1999/3190), [art. 2](https://www.legislation.gov.uk/uksi/1999/3190/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/3190/schedule) (which amending provision is extended (with modifications) to Jersey (5.6.2003) by [S.I. 2003/1252](https://www.legislation.gov.uk/uksi/2003/1252), [art. 2](https://www.legislation.gov.uk/uksi/2003/1252/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1252/schedule))
 

@@ -35,30 +35,30 @@ adopting the list of Member States, or parts of the territory of Member States, 
 
 (Text with EEA relevance) (revoked)
 
-[^key-2a9d1049f3b9f8be0b2e32993b71f03a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a9d1049f3b9f8be0b2e32993b71f03a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-2a9d1049f3b9f8be0b2e32993b71f03a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2a9d1049f3b9f8be0b2e32993b71f03a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2a9d1049f3b9f8be0b2e32993b71f03a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2a9d1049f3b9f8be0b2e32993b71f03a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2a9d1049f3b9f8be0b2e32993b71f03a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2a9d1049f3b9f8be0b2e32993b71f03a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a9d1049f3b9f8be0b2e32993b71f03a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a9d1049f3b9f8be0b2e32993b71f03a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-2a9d1049f3b9f8be0b2e32993b71f03a]
+## ANNEX[^c-2a9d1049f3b9f8be0b2e32993b71f03a]
 
-### PART 1 — List of Member States complying for the whole of their territory with the rules for categorisation laid down in Article 2(2) of Delegated Regulation (EU) 2018/772[^key-2a9d1049f3b9f8be0b2e32993b71f03a]
+### PART 1 — List of Member States complying for the whole of their territory with the rules for categorisation laid down in Article 2(2) of Delegated Regulation (EU) 2018/772[^c-2a9d1049f3b9f8be0b2e32993b71f03a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — List of Member States or parts of the territory of Member States complying with the rules for categorisation laid down in Article 2(3) of Delegated Regulation (EU) 2018/772[^key-2a9d1049f3b9f8be0b2e32993b71f03a]
+### PART 2 — List of Member States or parts of the territory of Member States complying with the rules for categorisation laid down in Article 2(3) of Delegated Regulation (EU) 2018/772[^c-2a9d1049f3b9f8be0b2e32993b71f03a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a9d1049f3b9f8be0b2e32993b71f03a]: Textual amendment: Regulation revoked (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [18](https://www.legislation.gov.uk/uksi/2020/1388/regulation/18)
+[^c-2a9d1049f3b9f8be0b2e32993b71f03a]: Textual amendment: Regulation revoked (E.W.S.) (31.12.2020) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [18](https://www.legislation.gov.uk/uksi/2020/1388/regulation/18)

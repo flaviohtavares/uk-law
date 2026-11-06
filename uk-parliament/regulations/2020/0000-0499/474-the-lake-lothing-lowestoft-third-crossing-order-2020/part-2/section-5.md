@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Limits of deviation[^key-3192f2bf03664db9185ca9f16f5ff60b]
+## 5. Limits of deviation[^c-3192f2bf03664db9185ca9f16f5ff60b]
 
 *Extent: E+W*
 
@@ -80,4 +80,4 @@ unless the undertaker has demonstrated to the MMO and the MMO has agreed in writ
 
 ## Annotations
 
-[^key-3192f2bf03664db9185ca9f16f5ff60b]: Commencement: Art. 5 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-3192f2bf03664db9185ca9f16f5ff60b]: Commencement: Art. 5 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

@@ -44,13 +44,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 113(2)(aa) and (c) of that Act, a draft of these Regulations has been laid before Parliament and approved by resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-463983a31e6ab67d560683b9b67bc02b]
+## 1. Citation and commencement[^c-463983a31e6ab67d560683b9b67bc02b]
 
 (1) These Regulations may be cited as the Nuclear Safeguards (Fissionable Material and Relevant International Agreements) (EU Exit) Regulations 2019.
 
 (2) These Regulations come into force on exit day.
 
-## 2. Fissionable material[^key-c6b278180e9ac642f7a8963a7e0364b4]
+## 2. Fissionable material[^c-c6b278180e9ac642f7a8963a7e0364b4]
 
 (1) The Secretary of State specifies the material, which is set out in paragraph (2), as “**fissionable material**” for the purposes of the definition of “qualifying nuclear material” set out in section 76A(6) of the Energy Act 2013 [^c23563191].
 
@@ -61,7 +61,7 @@ In accordance with section 113(2)(aa) and (c) of that Act, a draft of these Regu
 - (c) uranium containing the isotopes 235 or 233 or both, in an amount such that the abundance ratio of the sum of these isotopes to the isotope 238 is greater than the ratio of the isotope 235 to the isotope 238 occurring in nature; and
 - (d) any material containing one or more of the materials described in sub-paragraphs (a) to (c).
 
-## 3. Relevant international agreements[^key-6968748eb15b70ac7faf184e062397b7]
+## 3. Relevant international agreements[^c-6968748eb15b70ac7faf184e062397b7]
 
 The Secretary of State specifies each of the following agreements as a “**relevant international agreement**” for the purposes of section 112(1A) of the Energy Act 2013 [^c23563201]—
 
@@ -69,15 +69,15 @@ The Secretary of State specifies each of the following agreements as a “**rele
 - (b) the Additional Protocol, signed on 7th June 2018, between the United Kingdom and the International Atomic Energy Agency which is additional to the Agreement described in paragraph (a);
 - (c) the Agreement, signed on 4th May 2018, between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the United States of America for Cooperation in Peaceful Uses of Nuclear Energy;
 - (d) the Agreement, signed on 2nd November 2018, between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Canada for Cooperation in Peaceful Uses of Nuclear Energy;
-- (e) the Agreement, signed on 21st August 2018, between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Australia for Cooperation in Peaceful Uses of Nuclear Energy; [^key-d26ddba2ac9db434a066150f41ee8b7e]...
-- (ea)[^key-2d89a2005e8438b08259acdf7ad34aa6] the Protocol, signed on 16th December 2020, between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Japan which amends the Agreement described in paragraph (f);
+- (e) the Agreement, signed on 21st August 2018, between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Australia for Cooperation in Peaceful Uses of Nuclear Energy; [^c-d26ddba2ac9db434a066150f41ee8b7e]...
+- (ea)[^c-2d89a2005e8438b08259acdf7ad34aa6] the Protocol, signed on 16th December 2020, between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Japan which amends the Agreement described in paragraph (f);
 - (f) the Agreement, signed on 25th February 1998, between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Japan for Cooperation in Peaceful Uses of Nuclear Energy;
-- (g)[^key-12393521708321988fd29ee716355e82] the EU withdrawal agreement;
-- (h)[^key-c0771a0dcd3bc1fa2954651c70474254] the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the European Atomic Energy Community for cooperation on the safe and peaceful uses of nuclear energy;
+- (g)[^c-12393521708321988fd29ee716355e82] the EU withdrawal agreement;
+- (h)[^c-c0771a0dcd3bc1fa2954651c70474254] the Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the European Atomic Energy Community for cooperation on the safe and peaceful uses of nuclear energy;
 
-and any reference in paragraphs (a) to (h)[^key-9546aa29ba671f986d799526034ea894] to an agreement is to it as it has effect for the time being.
+and any reference in paragraphs (a) to (h)[^c-9546aa29ba671f986d799526034ea894] to an agreement is to it as it has effect for the time being.
 
-## 4. Review[^key-a36602a75c2a3d486ceedeb3a4d6c9a2]
+## 4. Review[^c-a36602a75c2a3d486ceedeb3a4d6c9a2]
 
 (1) The Secretary of State must from time to time—
 
@@ -121,24 +121,24 @@ A full impact assessment of the effect that this instrument, together with the N
 
 [^c23563181]: Marginal citation: [2013 c. 32](https://www.legislation.gov.uk/ukpga/2013/32). Part 3 of the Energy Act, which deals with nuclear regulation, was amended by the [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15) which inserted sections 76A, 76B, and 112(1A) to (1E).
 
-[^key-463983a31e6ab67d560683b9b67bc02b]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-463983a31e6ab67d560683b9b67bc02b]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-c6b278180e9ac642f7a8963a7e0364b4]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-c6b278180e9ac642f7a8963a7e0364b4]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23563191]: Marginal citation: Section 76A(6) was inserted into the Energy Act by the [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15).
 
-[^key-6968748eb15b70ac7faf184e062397b7]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-6968748eb15b70ac7faf184e062397b7]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23563201]: Marginal citation: Section 112(1A) was inserted into the Energy Act by the Nuclear Safeguards Act 2018.
 
-[^key-d26ddba2ac9db434a066150f41ee8b7e]: Textual amendment: Word in reg. 3(e) omitted (31.12.2020) by virtue of [The European Union (Withdrawal Agreement) (Relevant International Agreements) (EU Exit) Regulations 2020 (S.I. 2020/992)](https://www.legislation.gov.uk/uksi/2020/992), [regs. 1](https://www.legislation.gov.uk/uksi/2020/992/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/992/regulation/3/2/a)
+[^c-d26ddba2ac9db434a066150f41ee8b7e]: Textual amendment: Word in reg. 3(e) omitted (31.12.2020) by virtue of [The European Union (Withdrawal Agreement) (Relevant International Agreements) (EU Exit) Regulations 2020 (S.I. 2020/992)](https://www.legislation.gov.uk/uksi/2020/992), [regs. 1](https://www.legislation.gov.uk/uksi/2020/992/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/992/regulation/3/2/a)
 
-[^key-2d89a2005e8438b08259acdf7ad34aa6]: Textual amendment: [Reg. 3(ea)](https://www.legislation.gov.uk/uksi/2019/195/regulation/3/ea) inserted (22.4.2021) by [The Nuclear Safeguards (Fissionable Material and Relevant International Agreements) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/492)](https://www.legislation.gov.uk/uksi/2021/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/492/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/492/regulation/2)
+[^c-2d89a2005e8438b08259acdf7ad34aa6]: Textual amendment: [Reg. 3(ea)](https://www.legislation.gov.uk/uksi/2019/195/regulation/3/ea) inserted (22.4.2021) by [The Nuclear Safeguards (Fissionable Material and Relevant International Agreements) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/492)](https://www.legislation.gov.uk/uksi/2021/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/492/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/492/regulation/2)
 
-[^key-12393521708321988fd29ee716355e82]: Textual amendment: Reg. 3(g) inserted (31.12.2020) by [The European Union (Withdrawal Agreement) (Relevant International Agreements) (EU Exit) Regulations 2020 (S.I. 2020/992)](https://www.legislation.gov.uk/uksi/2020/992), [regs. 1](https://www.legislation.gov.uk/uksi/2020/992/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/992/regulation/3/2/b)
+[^c-12393521708321988fd29ee716355e82]: Textual amendment: Reg. 3(g) inserted (31.12.2020) by [The European Union (Withdrawal Agreement) (Relevant International Agreements) (EU Exit) Regulations 2020 (S.I. 2020/992)](https://www.legislation.gov.uk/uksi/2020/992), [regs. 1](https://www.legislation.gov.uk/uksi/2020/992/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/992/regulation/3/2/b)
 
-[^key-c0771a0dcd3bc1fa2954651c70474254]: Textual amendment: Reg. 3(h) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 28(1)(a)](https://www.legislation.gov.uk/ukpga/2020/29/section/28/1/a), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/y)
+[^c-c0771a0dcd3bc1fa2954651c70474254]: Textual amendment: Reg. 3(h) inserted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 28(1)(a)](https://www.legislation.gov.uk/ukpga/2020/29/section/28/1/a), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/y)
 
-[^key-9546aa29ba671f986d799526034ea894]: Textual amendment: Word in reg. 3 substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 28(1)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/28/1/b), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/y)
+[^c-9546aa29ba671f986d799526034ea894]: Textual amendment: Word in reg. 3 substituted (31.12.2020) by [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [ss. 28(1)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/28/1/b), [40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7); [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/y)
 
-[^key-a36602a75c2a3d486ceedeb3a4d6c9a2]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-a36602a75c2a3d486ceedeb3a4d6c9a2]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

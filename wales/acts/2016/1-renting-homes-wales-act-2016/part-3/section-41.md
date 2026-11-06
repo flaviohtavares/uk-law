@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Form of notices etc.[^key-4437ac6b8b1401b4c48793b06049e63c]
+## 41. Form of notices etc.[^c-4437ac6b8b1401b4c48793b06049e63c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4437ac6b8b1401b4c48793b06049e63c]: Commencement: [S. 41](https://www.legislation.gov.uk/anaw/2016/1/section/41) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-4437ac6b8b1401b4c48793b06049e63c]: Commencement: [S. 41](https://www.legislation.gov.uk/anaw/2016/1/section/41) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

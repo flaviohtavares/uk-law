@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 111. Review of operation of Act[^key-6e5dfa75062148a35c8e4033eb805c8a][^key-28c4fa7f4723647292ab32e5201a677a]
+## 111. Review of operation of Act[^c-6e5dfa75062148a35c8e4033eb805c8a][^c-28c4fa7f4723647292ab32e5201a677a]
 
 *Extent: S*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e5dfa75062148a35c8e4033eb805c8a]: Commencement: S. 111 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-6e5dfa75062148a35c8e4033eb805c8a]: Commencement: S. 111 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-28c4fa7f4723647292ab32e5201a677a]: Commencement: S. 111 in force at 19.3.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-28c4fa7f4723647292ab32e5201a677a]: Commencement: S. 111 in force at 19.3.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

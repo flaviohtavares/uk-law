@@ -35,7 +35,7 @@ WATER INDUSTRY, ENGLAND AND WALES
 
 FEES AND CHARGES, ENGLAND AND WALES
 
-The Public Bodies (Water Supply and Water Quality) (Inspection Fees) Order 2012 (revoked)[^key-3bbb10f01292ddb4bbb8bcc09f795ba1]
+The Public Bodies (Water Supply and Water Quality) (Inspection Fees) Order 2012 (revoked)[^c-3bbb10f01292ddb4bbb8bcc09f795ba1]
 
 Made
 
@@ -43,31 +43,31 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-3bbb10f01292ddb4bbb8bcc09f795ba1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bbb10f01292ddb4bbb8bcc09f795ba1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-3bbb10f01292ddb4bbb8bcc09f795ba1]
+## 1. Title, commencement and extent[^c-3bbb10f01292ddb4bbb8bcc09f795ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3bbb10f01292ddb4bbb8bcc09f795ba1]
+## 2. Interpretation[^c-3bbb10f01292ddb4bbb8bcc09f795ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The chargeable period[^key-3bbb10f01292ddb4bbb8bcc09f795ba1]
+## 3. The chargeable period[^c-3bbb10f01292ddb4bbb8bcc09f795ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Fees[^key-3bbb10f01292ddb4bbb8bcc09f795ba1]
+## 4. Fees[^c-3bbb10f01292ddb4bbb8bcc09f795ba1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3bbb10f01292ddb4bbb8bcc09f795ba1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bbb10f01292ddb4bbb8bcc09f795ba1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — FEES FOR THE PERFORMANCE OF FUNCTIONS UNDER SECTION 86 WATER INDUSTRY ACT 1991[^key-3bbb10f01292ddb4bbb8bcc09f795ba1]
+## SCHEDULE — FEES FOR THE PERFORMANCE OF FUNCTIONS UNDER SECTION 86 WATER INDUSTRY ACT 1991[^c-3bbb10f01292ddb4bbb8bcc09f795ba1]
 
 Article 4
 
@@ -75,8 +75,8 @@ Article 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-3bbb10f01292ddb4bbb8bcc09f795ba1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bbb10f01292ddb4bbb8bcc09f795ba1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3bbb10f01292ddb4bbb8bcc09f795ba1]: Textual amendment: Order revoked (8.9.2016) by [The Water Quality and Supply (Fees) (Undertakers Wholly or Mainly in Wales) Order 2016 (S.I. 2016/843)](https://www.legislation.gov.uk/uksi/2016/843), [arts. 1](https://www.legislation.gov.uk/uksi/2016/843/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2016/843/article/4/1) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2016/843/article/4/2))
+[^c-3bbb10f01292ddb4bbb8bcc09f795ba1]: Textual amendment: Order revoked (8.9.2016) by [The Water Quality and Supply (Fees) (Undertakers Wholly or Mainly in Wales) Order 2016 (S.I. 2016/843)](https://www.legislation.gov.uk/uksi/2016/843), [arts. 1](https://www.legislation.gov.uk/uksi/2016/843/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2016/843/article/4/1) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2016/843/article/4/2))

@@ -148,7 +148,7 @@ Since this Regulation is primarily established for the efficient execution of Co
 
 HAS ADOPTED THIS REGULATION:
 
-## Article 1. Subject-matter[^key-65af10336df6ca103ec90f56283ba2e7]
+## Article 1. Subject-matter[^c-65af10336df6ca103ec90f56283ba2e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -156,24 +156,24 @@ HAS ADOPTED THIS REGULATION:
 
 For the purpose of this Regulation, the following definitions shall apply:
 
-- ((a)) “Continuing ERIC Regulation” means Council Regulation[^key-073747c174bbde11f25e6495a3ad349b] [(EC) No. 723/2009](https://www.legislation.gov.uk/european/regulation/2009/0723) as it applies in the European Union;
+- ((a)) “Continuing ERIC Regulation” means Council Regulation[^c-073747c174bbde11f25e6495a3ad349b] [(EC) No. 723/2009](https://www.legislation.gov.uk/european/regulation/2009/0723) as it applies in the European Union;
 - ((b)) “ERIC” means a European Research Infrastructure Consortium set up under the Continuing ERIC Regulation.
 
-## Article 3. Task and other activities[^key-3303ae1839b05e56ce3dbd23f7de5126]
+## Article 3. Task and other activities[^c-3303ae1839b05e56ce3dbd23f7de5126]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Requirements relating to infrastructure[^key-3303ae1839b05e56ce3dbd23f7de5126]
+## Article 4. Requirements relating to infrastructure[^c-3303ae1839b05e56ce3dbd23f7de5126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Application for the setting-up of an ERIC[^key-3303ae1839b05e56ce3dbd23f7de5126]
+## Article 5. Application for the setting-up of an ERIC[^c-3303ae1839b05e56ce3dbd23f7de5126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Decision on the application[^key-3303ae1839b05e56ce3dbd23f7de5126]
+## Article 6. Decision on the application[^c-3303ae1839b05e56ce3dbd23f7de5126]
 
 **No longer in force.**
 
@@ -181,35 +181,35 @@ For the purpose of this Regulation, the following definitions shall apply:
 
 ## Article 7. Status of an ERIC
 
-1. An ERIC shall have legal personality as from the date on which the decision setting up the ERIC under the Continuing ERIC Regulation[^key-d719e8541a3279d247a1e1d78a30e94a] takes effect.
+1. An ERIC shall have legal personality as from the date on which the decision setting up the ERIC under the Continuing ERIC Regulation[^c-d719e8541a3279d247a1e1d78a30e94a] takes effect.
 
-2. An ERIC shall have in the United Kingdom[^key-9cdb6495af2ef4e8c87de3977a418724] the most extensive legal capacity accorded to legal entities under the law of England and Wales, Scotland and Northern Ireland[^key-c9ab52b18589a9d3159c5661f521f7df]. It may, in particular, acquire, own and dispose of movable, immovable and intellectual property, conclude contracts and be a party to legal proceedings.
+2. An ERIC shall have in the United Kingdom[^c-9cdb6495af2ef4e8c87de3977a418724] the most extensive legal capacity accorded to legal entities under the law of England and Wales, Scotland and Northern Ireland[^c-c9ab52b18589a9d3159c5661f521f7df]. It may, in particular, acquire, own and dispose of movable, immovable and intellectual property, conclude contracts and be a party to legal proceedings.
 
-3. An ERIC is an international organisation for the purposes of regulation 9 of the Public Contracts Regulations 2015 and regulation 10 of the Public Contracts (Scotland) Regulations 2015[^key-40c0898754d65c57438997e2a805c97f].
+3. An ERIC is an international organisation for the purposes of regulation 9 of the Public Contracts Regulations 2015 and regulation 10 of the Public Contracts (Scotland) Regulations 2015[^c-40c0898754d65c57438997e2a805c97f].
 
-## Article 8. Seat and name[^key-7a91954738f67dc36b747a9def3f452e]
+## Article 8. Seat and name[^c-7a91954738f67dc36b747a9def3f452e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Requirements for membership[^key-7a91954738f67dc36b747a9def3f452e]
+## Article 9. Requirements for membership[^c-7a91954738f67dc36b747a9def3f452e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Statutes[^key-7a91954738f67dc36b747a9def3f452e]
+## Article 10. Statutes[^c-7a91954738f67dc36b747a9def3f452e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Amendments of the Statutes[^key-7a91954738f67dc36b747a9def3f452e]
+## Article 11. Amendments of the Statutes[^c-7a91954738f67dc36b747a9def3f452e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Organisation of the ERIC[^key-7a91954738f67dc36b747a9def3f452e]
+## Article 12. Organisation of the ERIC[^c-7a91954738f67dc36b747a9def3f452e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Budgetary principles, accounts and audit[^key-7a91954738f67dc36b747a9def3f452e]
+## Article 13. Budgetary principles, accounts and audit[^c-7a91954738f67dc36b747a9def3f452e]
 
 **No longer in force.**
 
@@ -221,7 +221,7 @@ For the purpose of this Regulation, the following definitions shall apply:
 
 2. The financial liability of the members for the debts of the ERIC shall be limited to their respective contributions provided to the ERIC. The members may specify in the Statutes that they will assume a fixed liability above their respective contributions or unlimited liability.
 
-3.[^key-1cca1519f5d0d7aa3485ba8ea2276eb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-1cca1519f5d0d7aa3485ba8ea2276eb1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 4. The Community shall not be liable for any debt of the ERIC.
 
@@ -229,33 +229,33 @@ For the purpose of this Regulation, the following definitions shall apply:
 
 1. The setting-up and internal functioning of an ERIC shall be governed:
 
-- (a) by Community law, in particular the Continuing ERIC Regulation and the decisions under that Regulation setting up the ERIC and approving an amendment to the Statutes of the ERIC[^key-2e5b96571f0fe14abc74b98d786c1e2d];
+- (a) by Community law, in particular the Continuing ERIC Regulation and the decisions under that Regulation setting up the ERIC and approving an amendment to the Statutes of the ERIC[^c-2e5b96571f0fe14abc74b98d786c1e2d];
 - (b) by the law of the State where the ERIC has its statutory seat in the case of matters not, or only partly, regulated by acts referred to in point (a);
 - (c) by the Statutes and their implementing rules.
 
 2. The Court of Justice of the European Communities shall have jurisdiction over litigation among the members in relation to the ERIC, between the members and the ERIC and over any litigation to which the Community is a party.
 
-3.[^key-0aca71ca2bf6c35bafd0731933f5c3aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-0aca71ca2bf6c35bafd0731933f5c3aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Winding-up and insolvency[^key-af2f38d3ea7c3646946d774fbeee45c1]
+## Article 16. Winding-up and insolvency[^c-af2f38d3ea7c3646946d774fbeee45c1]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Reporting and control[^key-af2f38d3ea7c3646946d774fbeee45c1]
+## Article 17. Reporting and control[^c-af2f38d3ea7c3646946d774fbeee45c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Appropriate provisions[^key-af2f38d3ea7c3646946d774fbeee45c1]
+## Article 18. Appropriate provisions[^c-af2f38d3ea7c3646946d774fbeee45c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 19. Report and Review[^key-af2f38d3ea7c3646946d774fbeee45c1]
+## Article 19. Report and Review[^c-af2f38d3ea7c3646946d774fbeee45c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 20. Committee procedure[^key-af2f38d3ea7c3646946d774fbeee45c1]
+## Article 20. Committee procedure[^c-af2f38d3ea7c3646946d774fbeee45c1]
 
 **No longer in force.**
 
@@ -265,7 +265,7 @@ For the purpose of this Regulation, the following definitions shall apply:
 
 This Regulation shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.
 
-[^key-9133b9df3ecc7ef3e79d26f0de3dd6e7]...
+[^c-9133b9df3ecc7ef3e79d26f0de3dd6e7]...
 
 ## Annotations
 
@@ -289,28 +289,28 @@ This Regulation shall enter into force on the 20th day following its publication
 
 [^f00010]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG).
 
-[^key-65af10336df6ca103ec90f56283ba2e7]: Textual amendment: Art. 1 omitted (31.12.2020) by virtue of [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-65af10336df6ca103ec90f56283ba2e7]: Textual amendment: Art. 1 omitted (31.12.2020) by virtue of [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-073747c174bbde11f25e6495a3ad349b]: Textual amendment: [Art. 2(a)(b)](https://www.legislation.gov.uk/eur/2009/723/article/2/a/b) substituted for Art. 2(a)-(c) (31.12.2020) by [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-073747c174bbde11f25e6495a3ad349b]: Textual amendment: [Art. 2(a)(b)](https://www.legislation.gov.uk/eur/2009/723/article/2/a/b) substituted for Art. 2(a)-(c) (31.12.2020) by [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3303ae1839b05e56ce3dbd23f7de5126]: Textual amendment: Arts. 3-6 omitted (31.12.2020) by virtue of [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3303ae1839b05e56ce3dbd23f7de5126]: Textual amendment: Arts. 3-6 omitted (31.12.2020) by virtue of [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d719e8541a3279d247a1e1d78a30e94a]: Textual amendment: Words in Art. 7(1) inserted (31.12.2020) by [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d719e8541a3279d247a1e1d78a30e94a]: Textual amendment: Words in Art. 7(1) inserted (31.12.2020) by [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9cdb6495af2ef4e8c87de3977a418724]: Textual amendment: Words in Art. 7(2) substituted (31.12.2020) by [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9cdb6495af2ef4e8c87de3977a418724]: Textual amendment: Words in Art. 7(2) substituted (31.12.2020) by [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c9ab52b18589a9d3159c5661f521f7df]: Textual amendment: Words in Art. 7(2) substituted (31.12.2020) by [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9ab52b18589a9d3159c5661f521f7df]: Textual amendment: Words in Art. 7(2) substituted (31.12.2020) by [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/5/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-40c0898754d65c57438997e2a805c97f]: Textual amendment: Words in Art. 7(3) substituted (31.12.2020) by [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-40c0898754d65c57438997e2a805c97f]: Textual amendment: Words in Art. 7(3) substituted (31.12.2020) by [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7a91954738f67dc36b747a9def3f452e]: Textual amendment: Arts. 8-13 omitted (31.12.2020) by virtue of [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a91954738f67dc36b747a9def3f452e]: Textual amendment: Arts. 8-13 omitted (31.12.2020) by virtue of [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1cca1519f5d0d7aa3485ba8ea2276eb1]: Textual amendment: Art. 14(3) omitted (31.12.2020) by virtue of [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1cca1519f5d0d7aa3485ba8ea2276eb1]: Textual amendment: Art. 14(3) omitted (31.12.2020) by virtue of [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e5b96571f0fe14abc74b98d786c1e2d]: Textual amendment: Words in Art. 15(1)(a) substituted (31.12.2020) by [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e5b96571f0fe14abc74b98d786c1e2d]: Textual amendment: Words in Art. 15(1)(a) substituted (31.12.2020) by [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0aca71ca2bf6c35bafd0731933f5c3aa]: Textual amendment: Art. 15(3) omitted (31.12.2020) by virtue of [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0aca71ca2bf6c35bafd0731933f5c3aa]: Textual amendment: Art. 15(3) omitted (31.12.2020) by virtue of [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-af2f38d3ea7c3646946d774fbeee45c1]: Textual amendment: Arts. 16-20 omitted (31.12.2020) by virtue of [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af2f38d3ea7c3646946d774fbeee45c1]: Textual amendment: Arts. 16-20 omitted (31.12.2020) by virtue of [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(9)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9133b9df3ecc7ef3e79d26f0de3dd6e7]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9133b9df3ecc7ef3e79d26f0de3dd6e7]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The European Research Infrastructure Consortium (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/77)](https://www.legislation.gov.uk/uksi/2019/77), [regs. 1](https://www.legislation.gov.uk/uksi/2019/77/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2019/77/regulation/2/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -67,11 +67,11 @@ Accordingly, the Secretary of State makes the following Order:
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-bab0843dcbc2ae025b9a81f71e4443ec]
+### 1. Citation and commencement[^c-bab0843dcbc2ae025b9a81f71e4443ec]
 
 This Order may be cited as the Barnsley, Doncaster, Rotherham and Sheffield Combined Authority Order 2014 and shall come into force on the day after the day on which it is made.
 
-### 2. Interpretation[^key-3033e5ff8fd3b422208704e5ae195986]
+### 2. Interpretation[^c-3033e5ff8fd3b422208704e5ae195986]
 
 In this Order—
 
@@ -90,7 +90,7 @@ In this Order—
 
 ## PART 2 — Establishment of a combined authority for Barnsley, Doncaster, Rotherham and Sheffield
 
-### 3. Establishment[^key-33f3b9fe043304c5b4b992887a903203]
+### 3. Establishment[^c-33f3b9fe043304c5b4b992887a903203]
 
 (1) There is established a combined authority for the combined area.
 
@@ -98,17 +98,17 @@ In this Order—
 
 (3) The functions of the Combined Authority are those functions conferred or imposed upon it by this Order or by any other enactment (whenever passed or made), or as may be delegated to it by or under this Order or any other enactment (whenever passed or made).
 
-### 4. Constitution[^key-12f4b33d24066e8f79c2465387383133]
+### 4. Constitution[^c-12f4b33d24066e8f79c2465387383133]
 
 Schedule 1 (which makes provision about the constitution of the Combined Authority) has effect.
 
-### 5. Funding[^key-b69fe116276dbd944d202463426ee345]
+### 5. Funding[^c-b69fe116276dbd944d202463426ee345]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Transport
 
-### 6. Abolition and transfer of functions[^key-d3eed5bdf314f9bb0e072ff287a433d5]
+### 6. Abolition and transfer of functions[^c-d3eed5bdf314f9bb0e072ff287a433d5]
 
 (1) The South Yorkshire integrated transport area is dissolved and the ITA is abolished.
 
@@ -119,7 +119,7 @@ Schedule 1 (which makes provision about the constitution of the Combined Authori
 
 are transferred to the Combined Authority.
 
-### 7. Adaptation of enactments[^key-81e2e185a2915ee6c9c34b7d5931864e]
+### 7. Adaptation of enactments[^c-81e2e185a2915ee6c9c34b7d5931864e]
 
 (1) This article has effect in consequence of article 6.
 
@@ -137,7 +137,7 @@ is to be treated as including a reference to the combined area.
 
 is to be treated as including a reference to the Combined Authority.
 
-### 8. Passenger Transport Executive[^key-945b50498db1f74efd2462b098a6e034]
+### 8. Passenger Transport Executive[^c-945b50498db1f74efd2462b098a6e034]
 
 (1) In this article “the Executive” means the South Yorkshire Passenger Transport Executive established pursuant to the South Yorkshire Passenger Transport Area (Establishment of Executive) Order 1973[^f00003].
 
@@ -145,7 +145,7 @@ is to be treated as including a reference to the Combined Authority.
 
 (3) In the application of section 101 of the Local Government Act 1972[^f00004] (arrangements for the discharge of functions) to the Combined Authority the Executive is to be treated as if it were an officer of the Combined Authority.
 
-### 9. Continuity[^key-51eb9c5e191990ded4d3b9c056985eb8]
+### 9. Continuity[^c-51eb9c5e191990ded4d3b9c056985eb8]
 
 (1) Nothing in article 6 or 7 affects the validity of anything done by or in relation to the ITA before the commencement date.
 
@@ -172,7 +172,7 @@ has effect as if made or done by or in relation to the Combined Authority.
 
 ## PART 4 — Additional functions
 
-### 10. Economic development and regeneration functions[^key-43b85d5674cc3d5efed64e9b7ef68623]
+### 10. Economic development and regeneration functions[^c-43b85d5674cc3d5efed64e9b7ef68623]
 
 (1) The functions of the constituent councils set out in Schedule 2 to this Order are exercisable by the Combined Authority in relation to its area.
 
@@ -180,7 +180,7 @@ has effect as if made or done by or in relation to the Combined Authority.
 
 (3) Any requirement in any enactment for a constituent council to exercise such a function may be fulfilled by the exercise of that function by the Combined Authority.
 
-### 11. Incidental provisions[^key-8d9ffe6eaab04ec019d5a097f5fae79b]
+### 11. Incidental provisions[^c-8d9ffe6eaab04ec019d5a097f5fae79b]
 
 **No longer in force.**
 
@@ -188,11 +188,11 @@ has effect as if made or done by or in relation to the Combined Authority.
 
 **12.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-8d9ffe6eaab04ec019d5a097f5fae79b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-8d9ffe6eaab04ec019d5a097f5fae79b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-8d9ffe6eaab04ec019d5a097f5fae79b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-8d9ffe6eaab04ec019d5a097f5fae79b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-8d9ffe6eaab04ec019d5a097f5fae79b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-8d9ffe6eaab04ec019d5a097f5fae79b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed on behalf of the Secretary of State for Communities and Local Government
 
@@ -208,7 +208,7 @@ Department for Communities and Local Government
 
 Article 4
 
-### 1. Membership[^key-b0c163affcf820a3e24d2f7ce1e5a6d7]
+### 1. Membership[^c-b0c163affcf820a3e24d2f7ce1e5a6d7]
 
 (1) Each constituent council shall appoint one of its elected members as a member of the Combined Authority.
 
@@ -238,31 +238,31 @@ Article 4
 
 (14) For the purposes of this paragraph, an elected mayor of a constituent council or non-constituent council is to be treated as a member of the constituent council or non-constituent council.
 
-### 2. Chairman and vice-chairman[^key-60f2fd9c1015a020998acc698f900c50]
+### 2. Chairman and vice-chairman[^c-60f2fd9c1015a020998acc698f900c50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Proceedings[^key-f227863b7d522b14efeeb66e38a1837d]
+### 3. Proceedings[^c-f227863b7d522b14efeeb66e38a1837d]
 
-(1)[^key-bbe4192d44f920bfc5dba81d14a8ca28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-bbe4192d44f920bfc5dba81d14a8ca28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) No business shall be transacted at a meeting of the Combined Authority unless at least three members or substitute members appointed by the constituent councils are present at the meeting.
 
-(3)[^key-b0858b74552d9ffbfda68158e6ee9a73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b0858b74552d9ffbfda68158e6ee9a73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-aed460e372a594939ab05fd010b1bf18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-aed460e372a594939ab05fd010b1bf18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Members appointed by the non-constituent councils shall be non-voting members of the Combined Authority.
 
-(6)[^key-35fd699f961e5ec867eb2b873776956f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-35fd699f961e5ec867eb2b873776956f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-73889f0896a800161636f7c811d99a7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-73889f0896a800161636f7c811d99a7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Committees[^key-de37bba17914f71c4ca22125a1f7dbbc]
+### 4. Committees[^c-de37bba17914f71c4ca22125a1f7dbbc]
 
 (1) The Combined Authority shall appoint one or more committees as an overview and scrutiny committee, or as the case may be committees, of the Combined Authority.
 
-(2) The Combined Authority shall appoint at least one member of each of the constituent councils [^key-f44baf6579407495d200eba8199fdf4e]... to each overview and scrutiny committee appointed by the Combined Authority.
+(2) The Combined Authority shall appoint at least one member of each of the constituent councils [^c-f44baf6579407495d200eba8199fdf4e]... to each overview and scrutiny committee appointed by the Combined Authority.
 
 (3) An overview and scrutiny committee appointed by the Combined Authority may not include any member of the Combined Authority.
 
@@ -270,7 +270,7 @@ Article 4
 
 (5) If a vote is tied on any matter it shall be deemed not to have been carried.
 
-(6) Members appointed from the non-constituent council to [^key-15aa82485564b7515dea12eced96d155]... any other committee or sub-committee of the Combined Authority, shall be non-voting members of that committee or sub-committee but may be given voting rights by resolution of the Combined Authority.
+(6) Members appointed from the non-constituent council to [^c-15aa82485564b7515dea12eced96d155]... any other committee or sub-committee of the Combined Authority, shall be non-voting members of that committee or sub-committee but may be given voting rights by resolution of the Combined Authority.
 
 (7) Any overview and scrutiny committee appointed by the Combined Authority shall have the power to—
 
@@ -295,7 +295,7 @@ Article 4
 
 (12) Sub-paragraphs (9)(a) and (11) are subject to section 9FG of the Local Government Act 2000 and to any provision made under section 9GA(8)[^f00011] and the Combined Authority shall be treated as a local authority for those purposes.
 
-### 5. Records[^key-019bc48da761de81d3b8f4a02cdeb9f7]
+### 5. Records[^c-019bc48da761de81d3b8f4a02cdeb9f7]
 
 (1) The Combined Authority must make arrangements for the names of members and substitute members present at any meeting to be recorded.
 
@@ -309,18 +309,18 @@ Article 4
 
 (6) For the purposes of sub-paragraph (3) the next suitable meeting is the next following meeting or, where standing orders made by the Combined Authority provide for another meeting of the authority, committee or sub-committee, to be regarded as suitable, either the next following meeting or that other meeting.
 
-### 6. Standing orders[^key-8916a7884ddfab341c0d1af07f2535b3]
+### 6. Standing orders[^c-8916a7884ddfab341c0d1af07f2535b3]
 
 The Combined Authority may make standing orders for the regulation of its proceedings and business and may vary or revoke any such orders.
 
-### 7. Remuneration[^key-e6afb3a8ff7dee1ce424d5732302dae8]
+### 7. Remuneration[^c-e6afb3a8ff7dee1ce424d5732302dae8]
 
 Subject to paragraphs 7A to 7D no remuneration is to be payable by the Combined Authority to its members or to members of a constituent council who are appointed to an overview and scrutiny committee or sub-committee, or to the audit committee of the Combined Authority, other than—
 
 - (a) allowances for travel and subsistence paid in accordance with a scheme drawn up by the Combined Authority;
 - (b) allowances payable in accordance with a scheme made under section 113E of the 2009 Act.
 
-### 7A.[^key-e0b37793eb35bbebcc3e57677455a02a][^key-b953228e4faa1d6a3dcb302cb940b404]
+### 7A.[^c-e0b37793eb35bbebcc3e57677455a02a][^c-b953228e4faa1d6a3dcb302cb940b404]
 
 Paragraphs 7B and 7C apply in relation to allowances payable other than those specified in paragraph 7(a) and (b).
 
@@ -328,9 +328,9 @@ Paragraphs 7B and 7C apply in relation to allowances payable other than those sp
 
 (1) The Combined Authority may establish an independent remuneration panel who may make recommendations to the Combined Authority and to the constituent councils regarding the allowances payable to—
 
-- (a) the Mayor; [^key-1bc08a0d3f04294fcfa0d92fbb60f5ee]...
+- (a) the Mayor; [^c-1bc08a0d3f04294fcfa0d92fbb60f5ee]...
 - (b) the Deputy Mayor.
-- (c)[^key-f199354a6a7813c9d9d3f42120837f2a] a member of a constituent council who is appointed to an overview and scrutiny committee or a sub-committee of that committee; and
+- (c)[^c-f199354a6a7813c9d9d3f42120837f2a] a member of a constituent council who is appointed to an overview and scrutiny committee or a sub-committee of that committee; and
 - (d) a member of the Combined Authority or of a constituent council who is appointed to the audit committee
 
 (2) An independent remuneration panel must consist of at least three members none of whom—
@@ -342,12 +342,12 @@ Paragraphs 7B and 7C apply in relation to allowances payable other than those sp
 
 ### 7C.
 
-The Combined Authority may only pay an allowance in accordance with paragraph 7B(1)[^key-7147b9220633289abbaed22ef9b50582] if—
+The Combined Authority may only pay an allowance in accordance with paragraph 7B(1)[^c-7147b9220633289abbaed22ef9b50582] if—
 
-- (a) the Combined Authority has considered a report published by the independent remuneration panel established under paragraph 7B[^key-82d15814bd6f0a0e9ee970653afdc89f] which contains recommendations for such an allowance; and
+- (a) the Combined Authority has considered a report published by the independent remuneration panel established under paragraph 7B[^c-82d15814bd6f0a0e9ee970653afdc89f] which contains recommendations for such an allowance; and
 - (b) the allowance paid by the Combined Authority does not exceed the amount specified in the recommendation made by the independent remuneration panel.
 
-### 7D.[^key-09ff40bb8c191cf9e832e118e27022ab]
+### 7D.[^c-09ff40bb8c191cf9e832e118e27022ab]
 
 (1) This paragraph applies in relation to pensions.
 
@@ -357,7 +357,7 @@ The Combined Authority may only pay an allowance in accordance with paragraph 7B
 - (b) that allowance is to be treated as an amount in respect of which such a pension is payable under that scheme; and
 - (c) the Combined Authority must make such payments as may be required in respect of pension payable to a person in relation to that allowance.
 
-### 7E.[^key-d46140b0ff4963171bea14b96bb28acd]
+### 7E.[^c-d46140b0ff4963171bea14b96bb28acd]
 
 In paragraph 7D, a “relevant allowance” means—
 
@@ -368,13 +368,13 @@ In paragraph 7D, a “relevant allowance” means—
 
 Article 10(1)
 
-**1.**[^key-00087a94aa413785df21e104fd6c7ab1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-00087a94aa413785df21e104fd6c7ab1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-00087a94aa413785df21e104fd6c7ab1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-00087a94aa413785df21e104fd6c7ab1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-00087a94aa413785df21e104fd6c7ab1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-00087a94aa413785df21e104fd6c7ab1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3d479b8d9e269a3611d04b001b41f9ea] The duties under sections [^key-3c41df0492765e0178a0a82327ca8a91]... 17A and 18A(1)(b)[^key-59bc2bdb13bb7394752a5ad0d1ad50b7] of the Education Act 1996 and the power under sections 514A and 560A of that Act (duties and powers related to the provision of education and training for persons over compulsory school age).
+**4.**[^c-3d479b8d9e269a3611d04b001b41f9ea] The duties under sections [^c-3c41df0492765e0178a0a82327ca8a91]... 17A and 18A(1)(b)[^c-59bc2bdb13bb7394752a5ad0d1ad50b7] of the Education Act 1996 and the power under sections 514A and 560A of that Act (duties and powers related to the provision of education and training for persons over compulsory school age).
 
 EXPLANATORY NOTE
 
@@ -404,86 +404,86 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00002]: Footnote: [2009 c.20](https://www.legislation.gov.uk/ukpga/2009/20).
 
-[^key-bab0843dcbc2ae025b9a81f71e4443ec]: Commencement: Art. 1 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
+[^c-bab0843dcbc2ae025b9a81f71e4443ec]: Commencement: Art. 1 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
 
-[^key-3033e5ff8fd3b422208704e5ae195986]: Commencement: Art. 2 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
+[^c-3033e5ff8fd3b422208704e5ae195986]: Commencement: Art. 2 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
 
-[^key-33f3b9fe043304c5b4b992887a903203]: Commencement: Art. 3 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
+[^c-33f3b9fe043304c5b4b992887a903203]: Commencement: Art. 3 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
 
-[^key-12f4b33d24066e8f79c2465387383133]: Commencement: Art. 4 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
+[^c-12f4b33d24066e8f79c2465387383133]: Commencement: Art. 4 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
 
-[^key-b69fe116276dbd944d202463426ee345]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2014/863/article/5) omitted (28.7.2020) by virtue of [The Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Functions and Amendment) Order 2020 (S.I. 2020/806)](https://www.legislation.gov.uk/uksi/2020/806), [arts. 1](https://www.legislation.gov.uk/uksi/2020/806/article/1), [18](https://www.legislation.gov.uk/uksi/2020/806/article/18)
+[^c-b69fe116276dbd944d202463426ee345]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2014/863/article/5) omitted (28.7.2020) by virtue of [The Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Functions and Amendment) Order 2020 (S.I. 2020/806)](https://www.legislation.gov.uk/uksi/2020/806), [arts. 1](https://www.legislation.gov.uk/uksi/2020/806/article/1), [18](https://www.legislation.gov.uk/uksi/2020/806/article/18)
 
-[^key-d3eed5bdf314f9bb0e072ff287a433d5]: Commencement: Art. 6 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
+[^c-d3eed5bdf314f9bb0e072ff287a433d5]: Commencement: Art. 6 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
 
-[^key-81e2e185a2915ee6c9c34b7d5931864e]: Commencement: Art. 7 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
+[^c-81e2e185a2915ee6c9c34b7d5931864e]: Commencement: Art. 7 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
 
-[^key-945b50498db1f74efd2462b098a6e034]: Commencement: Art. 8 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
+[^c-945b50498db1f74efd2462b098a6e034]: Commencement: Art. 8 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
 
 [^f00003]: Footnote: [S.I. 1973/1728](https://www.legislation.gov.uk/uksi/1973/1728).
 
 [^f00004]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-51eb9c5e191990ded4d3b9c056985eb8]: Commencement: Art. 9 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
+[^c-51eb9c5e191990ded4d3b9c056985eb8]: Commencement: Art. 9 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
 
 [^f00005]: Footnote: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41); section 74 was amended by the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 13, paragraph 72; the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), Schedule 6, paragraph 21; the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 24; the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29) section 105; the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), Schedule 8, paragraph 305(a); the Fire and Rescue Services Act [2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), Schedule 1, paragraph 68; the Local Government and Involvement in Public Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), Schedule 1, paragraph 16; the Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), Schedule 6, paragraphs 74 and 75 and Schedule 7, Part 4; the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), Schedule 16, paragraph 182(a); the Localism Act 2011 (c. .20), Schedule 7, paragraphs 1, 2; and by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825).
 
 [^f00006]: Footnote: [S.I. 1992/2789](https://www.legislation.gov.uk/uksi/1992/2789), amended by [S.I. 2012/213](https://www.legislation.gov.uk/uksi/2012/213).
 
-[^key-43b85d5674cc3d5efed64e9b7ef68623]: Commencement: Art. 10 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
+[^c-43b85d5674cc3d5efed64e9b7ef68623]: Commencement: Art. 10 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
 
-[^key-8d9ffe6eaab04ec019d5a097f5fae79b]: Textual amendment: Arts. 11-13 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/2)
+[^c-8d9ffe6eaab04ec019d5a097f5fae79b]: Textual amendment: Arts. 11-13 omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/2)
 
-[^key-b0c163affcf820a3e24d2f7ce1e5a6d7]: Commencement: Sch. 1 para. 1 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
+[^c-b0c163affcf820a3e24d2f7ce1e5a6d7]: Commencement: Sch. 1 para. 1 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
 
-[^key-60f2fd9c1015a020998acc698f900c50]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/2) omitted (28.7.2020) by virtue of [The Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Functions and Amendment) Order 2020 (S.I. 2020/806)](https://www.legislation.gov.uk/uksi/2020/806), [arts. 1](https://www.legislation.gov.uk/uksi/2020/806/article/1), [19(2)](https://www.legislation.gov.uk/uksi/2020/806/article/19/2)
+[^c-60f2fd9c1015a020998acc698f900c50]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/2) omitted (28.7.2020) by virtue of [The Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Functions and Amendment) Order 2020 (S.I. 2020/806)](https://www.legislation.gov.uk/uksi/2020/806), [arts. 1](https://www.legislation.gov.uk/uksi/2020/806/article/1), [19(2)](https://www.legislation.gov.uk/uksi/2020/806/article/19/2)
 
-[^key-f227863b7d522b14efeeb66e38a1837d]: Commencement: Sch. 1 para. 3 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
+[^c-f227863b7d522b14efeeb66e38a1837d]: Commencement: Sch. 1 para. 3 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
 
-[^key-bbe4192d44f920bfc5dba81d14a8ca28]: Textual amendment: [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/3/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/3)
+[^c-bbe4192d44f920bfc5dba81d14a8ca28]: Textual amendment: [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/3/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/3)
 
-[^key-b0858b74552d9ffbfda68158e6ee9a73]: Textual amendment: [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/3/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/3)
+[^c-b0858b74552d9ffbfda68158e6ee9a73]: Textual amendment: [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/3/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/3)
 
-[^key-aed460e372a594939ab05fd010b1bf18]: Textual amendment: [Sch. 1 para. 3(4)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/3/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/3)
+[^c-aed460e372a594939ab05fd010b1bf18]: Textual amendment: [Sch. 1 para. 3(4)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/3/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/3)
 
-[^key-35fd699f961e5ec867eb2b873776956f]: Textual amendment: [Sch. 1 para. 3(6)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/3/6) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/3)
+[^c-35fd699f961e5ec867eb2b873776956f]: Textual amendment: [Sch. 1 para. 3(6)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/3/6) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/3)
 
-[^key-73889f0896a800161636f7c811d99a7b]: Textual amendment: [Sch. 1 para. 3(7)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/3/7) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/3)
+[^c-73889f0896a800161636f7c811d99a7b]: Textual amendment: [Sch. 1 para. 3(7)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/3/7) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/3)
 
-[^key-de37bba17914f71c4ca22125a1f7dbbc]: Commencement: Sch. 1 para. 4 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
+[^c-de37bba17914f71c4ca22125a1f7dbbc]: Commencement: Sch. 1 para. 4 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
 
-[^key-f44baf6579407495d200eba8199fdf4e]: Textual amendment: Words in [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/4/2) omitted (28.7.2020) by virtue of [The Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Functions and Amendment) Order 2020 (S.I. 2020/806)](https://www.legislation.gov.uk/uksi/2020/806), [arts. 1](https://www.legislation.gov.uk/uksi/2020/806/article/1), [19(4)(a)](https://www.legislation.gov.uk/uksi/2020/806/article/19/4/a)
+[^c-f44baf6579407495d200eba8199fdf4e]: Textual amendment: Words in [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/4/2) omitted (28.7.2020) by virtue of [The Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Functions and Amendment) Order 2020 (S.I. 2020/806)](https://www.legislation.gov.uk/uksi/2020/806), [arts. 1](https://www.legislation.gov.uk/uksi/2020/806/article/1), [19(4)(a)](https://www.legislation.gov.uk/uksi/2020/806/article/19/4/a)
 
-[^key-15aa82485564b7515dea12eced96d155]: Textual amendment: Words in [Sch. 1 para. 4(6)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/4/6) omitted (28.7.2020) by virtue of [The Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Functions and Amendment) Order 2020 (S.I. 2020/806)](https://www.legislation.gov.uk/uksi/2020/806), [arts. 1](https://www.legislation.gov.uk/uksi/2020/806/article/1), [19(4)(b)](https://www.legislation.gov.uk/uksi/2020/806/article/19/4/b)
+[^c-15aa82485564b7515dea12eced96d155]: Textual amendment: Words in [Sch. 1 para. 4(6)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/4/6) omitted (28.7.2020) by virtue of [The Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Functions and Amendment) Order 2020 (S.I. 2020/806)](https://www.legislation.gov.uk/uksi/2020/806), [arts. 1](https://www.legislation.gov.uk/uksi/2020/806/article/1), [19(4)(b)](https://www.legislation.gov.uk/uksi/2020/806/article/19/4/b)
 
 [^f00011]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22). Sections 9FG and 9GA were inserted by the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), section 21 and Schedule 2.
 
-[^key-019bc48da761de81d3b8f4a02cdeb9f7]: Commencement: Sch. 1 para. 5 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
+[^c-019bc48da761de81d3b8f4a02cdeb9f7]: Commencement: Sch. 1 para. 5 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
 
-[^key-8916a7884ddfab341c0d1af07f2535b3]: Commencement: Sch. 1 para. 6 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
+[^c-8916a7884ddfab341c0d1af07f2535b3]: Commencement: Sch. 1 para. 6 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
 
-[^key-e6afb3a8ff7dee1ce424d5732302dae8]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2026/719/article/4/2/a)
+[^c-e6afb3a8ff7dee1ce424d5732302dae8]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2026/719/article/4/2/a)
 
-[^key-e0b37793eb35bbebcc3e57677455a02a]: Textual amendment: [Sch. 1 para. 7A](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7A) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/719/article/4/2/b)
+[^c-e0b37793eb35bbebcc3e57677455a02a]: Textual amendment: [Sch. 1 para. 7A](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7A) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/719/article/4/2/b)
 
-[^key-b953228e4faa1d6a3dcb302cb940b404]: Textual amendment: [Sch. 1 paras. 7A-7C](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7A) inserted (28.7.2020) by [The Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Functions and Amendment) Order 2020 (S.I. 2020/806)](https://www.legislation.gov.uk/uksi/2020/806), [arts. 1](https://www.legislation.gov.uk/uksi/2020/806/article/1), [19(6)](https://www.legislation.gov.uk/uksi/2020/806/article/19/6)
+[^c-b953228e4faa1d6a3dcb302cb940b404]: Textual amendment: [Sch. 1 paras. 7A-7C](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7A) inserted (28.7.2020) by [The Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Functions and Amendment) Order 2020 (S.I. 2020/806)](https://www.legislation.gov.uk/uksi/2020/806), [arts. 1](https://www.legislation.gov.uk/uksi/2020/806/article/1), [19(6)](https://www.legislation.gov.uk/uksi/2020/806/article/19/6)
 
-[^key-1bc08a0d3f04294fcfa0d92fbb60f5ee]: Textual amendment: Word in [Sch. 1 para. 7B(1)(a)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7B/1/a) omitted (27.3.2024) by virtue of [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [20(b)(i)](https://www.legislation.gov.uk/uksi/2024/430/regulation/20/b/i)
+[^c-1bc08a0d3f04294fcfa0d92fbb60f5ee]: Textual amendment: Word in [Sch. 1 para. 7B(1)(a)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7B/1/a) omitted (27.3.2024) by virtue of [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [20(b)(i)](https://www.legislation.gov.uk/uksi/2024/430/regulation/20/b/i)
 
-[^key-f199354a6a7813c9d9d3f42120837f2a]: Textual amendment: [Sch. 1 para. 7B(1)(c)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7B/1/c)[(d)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7B/1/d) inserted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [20(b)(ii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/20/b/ii)
+[^c-f199354a6a7813c9d9d3f42120837f2a]: Textual amendment: [Sch. 1 para. 7B(1)(c)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7B/1/c)[(d)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7B/1/d) inserted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [20(b)(ii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/20/b/ii)
 
-[^key-7147b9220633289abbaed22ef9b50582]: Textual amendment: Words in [Sch. 1 para. 7C](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7C) substituted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [20(c)(i)](https://www.legislation.gov.uk/uksi/2024/430/regulation/20/c/i)
+[^c-7147b9220633289abbaed22ef9b50582]: Textual amendment: Words in [Sch. 1 para. 7C](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7C) substituted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [20(c)(i)](https://www.legislation.gov.uk/uksi/2024/430/regulation/20/c/i)
 
-[^key-82d15814bd6f0a0e9ee970653afdc89f]: Textual amendment: Word in [Sch. 1 para. 7C(a)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7C/a) substituted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [20(c)(ii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/20/c/ii)
+[^c-82d15814bd6f0a0e9ee970653afdc89f]: Textual amendment: Word in [Sch. 1 para. 7C(a)](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7C/a) substituted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [20(c)(ii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/20/c/ii)
 
-[^key-09ff40bb8c191cf9e832e118e27022ab]: Textual amendment: [Sch. 1 para. 7D](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7D) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2026/719/article/4/2/c)
+[^c-09ff40bb8c191cf9e832e118e27022ab]: Textual amendment: [Sch. 1 para. 7D](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7D) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2026/719/article/4/2/c)
 
-[^key-d46140b0ff4963171bea14b96bb28acd]: Textual amendment: [Sch. 1 para. 7E](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7E) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [4(2)(d)](https://www.legislation.gov.uk/uksi/2026/719/article/4/2/d)
+[^c-d46140b0ff4963171bea14b96bb28acd]: Textual amendment: [Sch. 1 para. 7E](https://www.legislation.gov.uk/uksi/2014/863/schedule/1/paragraph/7E) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [4(2)(d)](https://www.legislation.gov.uk/uksi/2026/719/article/4/2/d)
 
-[^key-00087a94aa413785df21e104fd6c7ab1]: Textual amendment: [Sch. 2 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/863/schedule/2/paragraph/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(4)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/4/a)
+[^c-00087a94aa413785df21e104fd6c7ab1]: Textual amendment: [Sch. 2 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/863/schedule/2/paragraph/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(4)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/4/a)
 
-[^key-3d479b8d9e269a3611d04b001b41f9ea]: Commencement: Sch. 2 para. 4 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
+[^c-3d479b8d9e269a3611d04b001b41f9ea]: Commencement: Sch. 2 para. 4 in force at 1.4.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/863/article/1)
 
-[^key-3c41df0492765e0178a0a82327ca8a91]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/863/schedule/2/paragraph/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(4)(b)(i)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/4/b/i)
+[^c-3c41df0492765e0178a0a82327ca8a91]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/863/schedule/2/paragraph/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(4)(b)(i)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/4/b/i)
 
-[^key-59bc2bdb13bb7394752a5ad0d1ad50b7]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/863/schedule/2/paragraph/4) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/4/b/ii)
+[^c-59bc2bdb13bb7394752a5ad0d1ad50b7]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2014/863/schedule/2/paragraph/4) substituted (4.6.2026) by [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [20(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/519/regulation/20/4/b/ii)

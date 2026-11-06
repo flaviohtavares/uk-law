@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Action where person excluded[^key-630081b8f43ec59c976dab355b162ce6]
+## 63. Action where person excluded[^c-630081b8f43ec59c976dab355b162ce6]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-630081b8f43ec59c976dab355b162ce6]: Commencement: Rule 63 not in operation at made date, see [rule 2(2)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/2)
+[^c-630081b8f43ec59c976dab355b162ce6]: Commencement: Rule 63 not in operation at made date, see [rule 2(2)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/2)

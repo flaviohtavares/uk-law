@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Appeals[^key-a518c3f542571b4a42af4daf36565e1f][^key-c4007c72139688b5e8aaa2e8059b3127][^key-7bd637bf65bb55e3d0eb68c543aa67e4][^key-3678924dddf2683cbf26e3da93bb3aea]
+## 56. Appeals[^c-a518c3f542571b4a42af4daf36565e1f][^c-c4007c72139688b5e8aaa2e8059b3127][^c-7bd637bf65bb55e3d0eb68c543aa67e4][^c-3678924dddf2683cbf26e3da93bb3aea]
 
 *Extent: E+W*
 
@@ -28,10 +28,10 @@ Schedule 6 makes provision about appeals under the Building Act 1984, including 
 
 ## Annotations
 
-[^key-a518c3f542571b4a42af4daf36565e1f]: Commencement: S. 56 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(ix)(c)
+[^c-a518c3f542571b4a42af4daf36565e1f]: Commencement: S. 56 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(ix)(c)
 
-[^key-c4007c72139688b5e8aaa2e8059b3127]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2022/30/section/56) in force at 6.4.2023 for specified purposes except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(x)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/x)
+[^c-c4007c72139688b5e8aaa2e8059b3127]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2022/30/section/56) in force at 6.4.2023 for specified purposes except in relation to W. by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(x)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/x)
 
-[^key-7bd637bf65bb55e3d0eb68c543aa67e4]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2022/30/section/56) in force at 5.9.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(xiv)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/xiv)
+[^c-7bd637bf65bb55e3d0eb68c543aa67e4]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2022/30/section/56) in force at 5.9.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(xiv)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/xiv)
 
-[^key-3678924dddf2683cbf26e3da93bb3aea]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2022/30/section/56) in force at 1.10.2023 in so far as not already in force except in relation to W. by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/o)
+[^c-3678924dddf2683cbf26e3da93bb3aea]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2022/30/section/56) in force at 1.10.2023 in so far as not already in force except in relation to W. by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/o)

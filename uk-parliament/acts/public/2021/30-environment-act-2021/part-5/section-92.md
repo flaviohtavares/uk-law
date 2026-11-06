@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Solway Tweed river basin district: power to transfer functions[^key-b0d4fb0fbe0c11b1eca18be6aced717e]
+## 92. Solway Tweed river basin district: power to transfer functions[^c-b0d4fb0fbe0c11b1eca18be6aced717e]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ to be exercised (to any extent) in another of those ways.
 
 ## Annotations
 
-[^key-b0d4fb0fbe0c11b1eca18be6aced717e]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2021/30/section/92) in force at 9.1.2022, see [s. 147(2)(m)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/m)
+[^c-b0d4fb0fbe0c11b1eca18be6aced717e]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2021/30/section/92) in force at 9.1.2022, see [s. 147(2)(m)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/m)

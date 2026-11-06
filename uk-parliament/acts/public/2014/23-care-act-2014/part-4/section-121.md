@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Integration of care and support with health services etc: integration fund[^key-18afd557c5ef6e07f1a37765c8f0bde9]
+## 121. Integration of care and support with health services etc: integration fund[^c-18afd557c5ef6e07f1a37765c8f0bde9]
 
 *Extent: E+W*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18afd557c5ef6e07f1a37765c8f0bde9]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2014/23/section/121) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 6](https://www.legislation.gov.uk/uksi/2014/2473/article/6)
+[^c-18afd557c5ef6e07f1a37765c8f0bde9]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2014/23/section/121) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 6](https://www.legislation.gov.uk/uksi/2014/2473/article/6)

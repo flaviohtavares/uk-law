@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Assessment notices: restrictions[^key-e61c7bcd6ea2ed4e56a76b4a860e3400]
+## 147. Assessment notices: restrictions[^c-e61c7bcd6ea2ed4e56a76b4a860e3400]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,17 +40,17 @@ summary: ''
   - (i) a copy or other record of the communication, and
   - (ii) anything enclosed with or referred to in the communication if made as described in subsection (2)(b) or in subsection (3)(b) and (c).
 
-(5) The Commission[^key-ad8a82f8e0ed16c06a62e0d8860ee690] may not give a controller or processor an assessment notice with respect to the processing of personal data for the special purposes.
+(5) The Commission[^c-ad8a82f8e0ed16c06a62e0d8860ee690] may not give a controller or processor an assessment notice with respect to the processing of personal data for the special purposes.
 
 (6) The Commission may not give an assessment notice to—
 
-- (a) a body specified in section 23(3) of the Freedom of Information Act 2000 (bodies dealing with security matters), [^key-c9c90b260f03b04a3210ddf5cf427c98]...
-- (b)[^key-c9c90b260f03b04a3210ddf5cf427c98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a body specified in section 23(3) of the Freedom of Information Act 2000 (bodies dealing with security matters), [^c-c9c90b260f03b04a3210ddf5cf427c98]...
+- (b)[^c-c9c90b260f03b04a3210ddf5cf427c98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e61c7bcd6ea2ed4e56a76b4a860e3400]: Commencement: S. 147 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)
+[^c-e61c7bcd6ea2ed4e56a76b4a860e3400]: Commencement: S. 147 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)
 
-[^key-ad8a82f8e0ed16c06a62e0d8860ee690]: Textual amendment: Word in s. 147(5)(6) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-ad8a82f8e0ed16c06a62e0d8860ee690]: Textual amendment: Word in s. 147(5)(6) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-c9c90b260f03b04a3210ddf5cf427c98]: Textual amendment: S. 147(6)(b) and word omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 99](https://www.legislation.gov.uk/ukpga/2025/18/section/99), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/r)
+[^c-c9c90b260f03b04a3210ddf5cf427c98]: Textual amendment: S. 147(6)(b) and word omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 99](https://www.legislation.gov.uk/ukpga/2025/18/section/99), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/r)

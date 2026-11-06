@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Removal or variation of entries made under section 30[^key-f6f583f3ff92b76eb31aace721879d95]
+## 36. Removal or variation of entries made under section 30[^c-f6f583f3ff92b76eb31aace721879d95]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6f583f3ff92b76eb31aace721879d95]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2016/22/section/36) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-f6f583f3ff92b76eb31aace721879d95]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2016/22/section/36) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

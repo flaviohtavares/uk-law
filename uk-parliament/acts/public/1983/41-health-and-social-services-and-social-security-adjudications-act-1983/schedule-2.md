@@ -123,9 +123,9 @@ In subsection (1) of section 9 of the Mental Health Act 1959 (functions of child
 **15.** In section 25 of that Act (transfers of children in care between England or Wales and Northern Ireland)—
 
 - (a)[^c12739671] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-801553609195f655df6e1e7845029fbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-801553609195f655df6e1e7845029fbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-b398cd5bf20905605d8875c43c79237c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-b398cd5bf20905605d8875c43c79237c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
@@ -200,23 +200,23 @@ there shall be substituted the words “care and possession”.
 
 *Extent: E+W+S*
 
-**29.**[^key-2b4d1286840f61770b6e41311870f73e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-2b4d1286840f61770b6e41311870f73e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-2b4d1286840f61770b6e41311870f73e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-2b4d1286840f61770b6e41311870f73e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-2b4d1286840f61770b6e41311870f73e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-2b4d1286840f61770b6e41311870f73e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-2b4d1286840f61770b6e41311870f73e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-2b4d1286840f61770b6e41311870f73e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-2b4d1286840f61770b6e41311870f73e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-2b4d1286840f61770b6e41311870f73e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **34.**[^c12739871] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-0d1106bcdc75fa6cc51a2f4b0653543b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-0d1106bcdc75fa6cc51a2f4b0653543b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-260cced07d44118d1688bb29ac88952a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-260cced07d44118d1688bb29ac88952a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -226,21 +226,21 @@ there shall be substituted the words “care and possession”.
 
 *Extent: E+W+S*
 
-**38.**[^key-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**39.**[^key-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**40.**[^key-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41.**[^key-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**42.**[^key-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**43.**[^key-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**45.**[^key-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-49605676d4d9175e7065e031d862c7d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Child Care Act 1980 (c. 5.)[^c12739941]
 
@@ -328,9 +328,9 @@ there shall be substituted the words “care and possession”.
 
 [^c12739671]: Textual amendment: Sch. 2 para. 15(a) repealed (4.11.1996) by [S.I. 1995/756](https://www.legislation.gov.uk/uksi/1995/756), [art. 15](https://www.legislation.gov.uk/uksi/1995/756/article/15), [Sch.](https://www.legislation.gov.uk/uksi/1995/756/schedule); [S.R. 1999/297](https://www.legislation.gov.uk/nisr/1999/297), [art. 3](https://www.legislation.gov.uk/nisr/1999/297/article/3)
 
-[^key-801553609195f655df6e1e7845029fbb]: Textual amendment: [Sch. 2 para. 15(b)](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/15/b) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(x)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/x)
+[^c-801553609195f655df6e1e7845029fbb]: Textual amendment: [Sch. 2 para. 15(b)](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/15/b) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(x)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/x)
 
-[^key-b398cd5bf20905605d8875c43c79237c]: Textual amendment: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/16) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(x)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/x)
+[^c-b398cd5bf20905605d8875c43c79237c]: Textual amendment: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/16) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(x)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/x)
 
 [^c12739681]: Marginal citation: [1980 c. 5](https://www.legislation.gov.uk/ukpga/1980/5).
 
@@ -352,17 +352,17 @@ there shall be substituted the words “care and possession”.
 
 [^c12739831]: Textual amendment: [Sch. 2 paras. 21-24](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/21), [27](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/27), [28](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/28) repealed (E.W.) (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(7)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/7), [Sch.15](https://www.legislation.gov.uk/ukpga/1989/41/schedule/15) (with [s. 108(6)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/6), [Sch. 14 paras. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1), [27(4)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/27/4)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-2b4d1286840f61770b6e41311870f73e]: Textual amendment: [Sch. 2 paras. 29-33](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/29) repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
+[^c-2b4d1286840f61770b6e41311870f73e]: Textual amendment: [Sch. 2 paras. 29-33](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/29) repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
 
 [^c12739871]: Textual amendment: Sch. 2 paras. 34, 37, 46–49, Sch. 4 Pt. II paras. 38–43, Sch. 9 paras. 16 and 17 repealed (E.W.)(14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(7)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/7), [Sch.15](https://www.legislation.gov.uk/ukpga/1989/41/schedule/15) (with [s. 108(6)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/6), [Sch. 14 paras. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1), [27(4)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/27/4)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-0d1106bcdc75fa6cc51a2f4b0653543b]: Textual amendment: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/35) repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
+[^c-0d1106bcdc75fa6cc51a2f4b0653543b]: Textual amendment: [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/35) repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
 
-[^key-260cced07d44118d1688bb29ac88952a]: Textual amendment: [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/36) repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
+[^c-260cced07d44118d1688bb29ac88952a]: Textual amendment: [Sch. 2 para. 36](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/36) repealed (30.12.2005) by [Adoption and Children Act 2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/148/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2002/38/schedule/5) (with [Sch. 4 paras. 2](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/2), [6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2897/article/2/b)
 
 [^c12739901]: Textual amendment: Sch. 2 paras. 34, 37, 46–49, 51-59, Sch. 4 Pt. II paras. 38–43, Sch. 9 paras. 16 and 17 repealed (E.W.)(14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(7)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/7), [Sch.15](https://www.legislation.gov.uk/ukpga/1989/41/schedule/15) (with [s. 108(6)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/6), [Sch. 14 paras. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1), [27(4)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/27/4)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 
-[^key-49605676d4d9175e7065e031d862c7d7]: Textual amendment: Sch. 2 paras. 38-45 repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2); and repealed (E.W.S.) (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
+[^c-49605676d4d9175e7065e031d862c7d7]: Textual amendment: Sch. 2 paras. 38-45 repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2); and repealed (E.W.S.) (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
 
 [^c12739941]: Textual amendment: [Sch. 2 paras. 34](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/34), [37](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/37), [46–49](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/46), [51-59](https://www.legislation.gov.uk/ukpga/1983/41/schedule/2/paragraph/51), [Sch. 4 Pt. II paras. 38–43](https://www.legislation.gov.uk/ukpga/1983/41/schedule/4/part/II/paragraph/38), [Sch. 9 paras. 16](https://www.legislation.gov.uk/ukpga/1983/41/schedule/9/paragraph/16) and 17 repealed (E.W.) (14.10.1991) by [Children Act 1989 (c. 41, SIF 20)](https://www.legislation.gov.uk/ukpga/1989/41), [s. 108(7)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/7), [Sch.15](https://www.legislation.gov.uk/ukpga/1989/41/schedule/15) (with [s. 108(6)](https://www.legislation.gov.uk/ukpga/1989/41/section/108/6), [Sch. 14 paras. 1(1)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/1/1), [27(4)](https://www.legislation.gov.uk/ukpga/1989/41/schedule/14/paragraph/27/4)); [S.I. 1991/828](https://www.legislation.gov.uk/uksi/1991/828), [art. 3(2)](https://www.legislation.gov.uk/uksi/1991/828/article/3/2)
 

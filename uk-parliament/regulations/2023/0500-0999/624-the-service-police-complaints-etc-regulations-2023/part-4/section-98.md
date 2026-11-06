@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Information sharing etc.[^key-3447a7adc17772e12904e0ef46e76370]
+## 98. Information sharing etc.[^c-3447a7adc17772e12904e0ef46e76370]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3447a7adc17772e12904e0ef46e76370]: Commencement: Reg. 98 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-3447a7adc17772e12904e0ef46e76370]: Commencement: Reg. 98 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

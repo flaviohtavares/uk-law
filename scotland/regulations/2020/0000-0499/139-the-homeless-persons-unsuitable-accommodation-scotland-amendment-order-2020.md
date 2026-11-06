@@ -32,7 +32,7 @@ summary: ''
 
 Housing
 
-The Homeless Persons (Unsuitable Accommodation) (Scotland) Amendment Order 2020 (revoked)[^key-0c0defb94d40a253950ad1a4f4b7252d]
+The Homeless Persons (Unsuitable Accommodation) (Scotland) Amendment Order 2020 (revoked)[^c-0c0defb94d40a253950ad1a4f4b7252d]
 
 Made
 
@@ -44,28 +44,28 @@ at 3.00 p.m. on 5th May 2020
 
 Coming into force in accordance with article 1
 
-[^key-0c0defb94d40a253950ad1a4f4b7252d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c0defb94d40a253950ad1a4f4b7252d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and expiry[^key-0c0defb94d40a253950ad1a4f4b7252d]
+## 1. Citation, commencement and expiry[^c-0c0defb94d40a253950ad1a4f4b7252d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Homeless Persons (Unsuitable Accommodation) (Scotland) Order 2014[^key-0c0defb94d40a253950ad1a4f4b7252d]
+## 2. Amendment of the Homeless Persons (Unsuitable Accommodation) (Scotland) Order 2014[^c-0c0defb94d40a253950ad1a4f4b7252d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Modification of the Homeless Persons (Unsuitable Accommodation) (Scotland) Order 2014[^key-0c0defb94d40a253950ad1a4f4b7252d]
+## 3. Modification of the Homeless Persons (Unsuitable Accommodation) (Scotland) Order 2014[^c-0c0defb94d40a253950ad1a4f4b7252d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c0defb94d40a253950ad1a4f4b7252d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c0defb94d40a253950ad1a4f4b7252d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0c0defb94d40a253950ad1a4f4b7252d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c0defb94d40a253950ad1a4f4b7252d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c0defb94d40a253950ad1a4f4b7252d]: Textual amendment: Order revoked (31.1.2021) by [The Homeless Persons (Unsuitable Accommodation) (Scotland) (Modification and Revocation) (Coronavirus) Order 2021 (S.S.I. 2021/10)](https://www.legislation.gov.uk/ssi/2021/10), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/10/article/1/1), [3(1)](https://www.legislation.gov.uk/ssi/2021/10/article/3/1)
+[^c-0c0defb94d40a253950ad1a4f4b7252d]: Textual amendment: Order revoked (31.1.2021) by [The Homeless Persons (Unsuitable Accommodation) (Scotland) (Modification and Revocation) (Coronavirus) Order 2021 (S.S.I. 2021/10)](https://www.legislation.gov.uk/ssi/2021/10), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/10/article/1/1), [3(1)](https://www.legislation.gov.uk/ssi/2021/10/article/3/1)

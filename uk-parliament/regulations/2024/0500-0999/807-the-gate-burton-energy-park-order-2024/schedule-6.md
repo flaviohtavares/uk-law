@@ -22,7 +22,7 @@ summary: ''
 
 Article ‎11
 
-### PART 1 — STREETS TO BE TEMPORARILY CLOSED[^key-badf4e7cb1bc51045d4b2de9a559b221]
+### PART 1 — STREETS TO BE TEMPORARILY CLOSED[^c-badf4e7cb1bc51045d4b2de9a559b221]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Measures* |
 | --- | --- | --- |
@@ -39,7 +39,7 @@ Article ‎11
 | District of Bassetlaw | Shortleys Road | Temporarily closed to all traffic save for traffic under the direction of the undertaker for the width of the street for the length shown in light blue on sheet 17 of the streets, rights of way and access plans. |
 | District of Bassetlaw | Torksey Ferry Road | Temporarily closed to all traffic save for traffic under the direction of the undertaker for the width of the street for the length shown in light blue on sheets 17 and 18 of the streets, rights of way and access plans. |
 
-### PART 2 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED AND DIVERTED[^key-c6adb0d0bab356963d0c9cefdf0ebc8f]
+### PART 2 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED AND DIVERTED[^c-c6adb0d0bab356963d0c9cefdf0ebc8f]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measure* |
 | --- | --- | --- |
@@ -53,14 +53,14 @@ Article ‎11
 | District of Bassetlaw | NT “Rampton ” FP20 | Public right of way to be temporarily closed and diverted between the points PRoW-17/12 and PRoW-17/13 as shown on sheet 17 of the streets, access and rights of way plans to facilitate construction of the authorised development. |
 | District of Bassetlaw | NT “Rampton ” BOAT12 | Public right of way to be temporarily closed and diverted between the points PRoW-17/14 and PRoW-17/15 as shown on sheet 17 of the streets, access and rights of way plans to facilitate construction of the authorised development. |
 
-### PART 3 — PERMANENT USE OF MOTOR VEHICLES ON PUBLIC RIGHT OF WAY[^key-23ed7410714f56b1b350a89890ee4dae]
+### PART 3 — PERMANENT USE OF MOTOR VEHICLES ON PUBLIC RIGHT OF WAY[^c-23ed7410714f56b1b350a89890ee4dae]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measures* |
 | --- | --- | --- |
 | District of West Lindsey | LL “Knai ” 44/1 | Permanent use of motor vehicles under the direction of the undertaker between points PRoW-2/01 and PRoW-2/02 as shown on sheet 2 of the streets, access and rights of way plans to facilitate construction and operation of the authorised development. |
 | District of Bassetlaw | NT “Rampton ” BOAT13 | Permanent use of motor vehicles under the direction of the undertaker between points PRoW-17/07 and PRoW-18/02 as shown on sheets 17 and 18 of the streets, access and rights of way plans to facilitate construction and operation of the authorised development. |
 
-### PART 4 — TEMPORARY MANAGEMENT OF PUBLIC RIGHTS OF WAY[^key-0d0249d9204d6d60fecd9cfd03c66f43]
+### PART 4 — TEMPORARY MANAGEMENT OF PUBLIC RIGHTS OF WAY[^c-0d0249d9204d6d60fecd9cfd03c66f43]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measure (Public Right of Way to be managed during construction to maintain Public Right of Way continuity and access through the site)* |
 | --- | --- | --- |
@@ -74,7 +74,7 @@ Article ‎11
 | District of Bassetlaw | NT “Rampton ” BOAT12 | Public Right of Way between points PRoW-17/14 and PRoW-17/15 as shown on sheet 17 of the streets, access and rights of way plans to be managed during construction of the authorised development. |
 | District of Bassetlaw | NT “Rampton ” BOAT13 | Public Right of Way between points PRoW-17/07 and PRoW-18/01 as shown on sheets 17 and 18 of the streets, access and rights of way plans to be managed during construction of the authorised development. |
 
-### PART 5 — TEMPORARY USE OF MOTOR VEHICLES ON PUBLIC RIGHTS OF WAY[^key-004d25cb77ee98d52dafeaa64bf1736b]
+### PART 5 — TEMPORARY USE OF MOTOR VEHICLES ON PUBLIC RIGHTS OF WAY[^c-004d25cb77ee98d52dafeaa64bf1736b]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measure (Public Right of Way to be managed during construction to maintain Public Right of Way continuity and access through the site)* |
 | --- | --- | --- |
@@ -87,12 +87,12 @@ Article ‎11
 
 ## Annotations
 
-[^key-badf4e7cb1bc51045d4b2de9a559b221]: Commencement: Sch. 6 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-badf4e7cb1bc51045d4b2de9a559b221]: Commencement: Sch. 6 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-c6adb0d0bab356963d0c9cefdf0ebc8f]: Commencement: Sch. 6 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-c6adb0d0bab356963d0c9cefdf0ebc8f]: Commencement: Sch. 6 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-23ed7410714f56b1b350a89890ee4dae]: Commencement: Sch. 6 Pt. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-23ed7410714f56b1b350a89890ee4dae]: Commencement: Sch. 6 Pt. 3 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-0d0249d9204d6d60fecd9cfd03c66f43]: Commencement: Sch. 6 Pt. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-0d0249d9204d6d60fecd9cfd03c66f43]: Commencement: Sch. 6 Pt. 4 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-004d25cb77ee98d52dafeaa64bf1736b]: Commencement: Sch. 6 Pt. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-004d25cb77ee98d52dafeaa64bf1736b]: Commencement: Sch. 6 Pt. 5 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)

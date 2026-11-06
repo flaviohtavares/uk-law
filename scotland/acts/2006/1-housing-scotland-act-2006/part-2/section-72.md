@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Guidance about availability and amount of assistance[^key-b9f398c4b99af5b7302a5d648eae3912]
+## 72. Guidance about availability and amount of assistance[^c-b9f398c4b99af5b7302a5d648eae3912]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9f398c4b99af5b7302a5d648eae3912]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2006/1/section/72) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-b9f398c4b99af5b7302a5d648eae3912]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2006/1/section/72) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

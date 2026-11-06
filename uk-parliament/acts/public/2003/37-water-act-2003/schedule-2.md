@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — The Consumer Council for Water[^key-e2a19fae2b0ed3a17753e5ac31ec2d5b]
+## SCHEDULE 2 — The Consumer Council for Water[^c-e2a19fae2b0ed3a17753e5ac31ec2d5b]
 
 *Extent: E+W*
 
@@ -242,4 +242,4 @@ After Schedule 3 to the WIA there is inserted—
 
 ## Annotations
 
-[^key-e2a19fae2b0ed3a17753e5ac31ec2d5b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2003/37/schedule/2) in force at 1.10.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/a/ii) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-e2a19fae2b0ed3a17753e5ac31ec2d5b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2003/37/schedule/2) in force at 1.10.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/a/ii) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))

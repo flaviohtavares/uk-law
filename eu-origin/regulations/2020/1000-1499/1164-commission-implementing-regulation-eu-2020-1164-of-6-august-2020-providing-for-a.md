@@ -33,18 +33,18 @@ of 6 August 2020
 
 providing for a temporary derogation from certain provisions of Implementing Regulation (EU) 2019/2072 in respect of measures to prevent the introduction into and the spread within the Union of the pest *Agrilus planipennis* Fairmaire from Canada and the United States (revoked)
 
-[^key-e2818dc21b3b19eb12981f935576add3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2818dc21b3b19eb12981f935576add3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e2818dc21b3b19eb12981f935576add3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e2818dc21b3b19eb12981f935576add3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e2818dc21b3b19eb12981f935576add3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e2818dc21b3b19eb12981f935576add3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e2818dc21b3b19eb12981f935576add3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2818dc21b3b19eb12981f935576add3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Specified wood as referred to in Article 1[^key-e2818dc21b3b19eb12981f935576add3]
+## ANNEX — Specified wood as referred to in Article 1[^c-e2818dc21b3b19eb12981f935576add3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e2818dc21b3b19eb12981f935576add3]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 38](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/38) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-e2818dc21b3b19eb12981f935576add3]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 38](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/38) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

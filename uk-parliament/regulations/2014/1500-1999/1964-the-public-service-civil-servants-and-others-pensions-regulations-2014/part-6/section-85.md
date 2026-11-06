@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Option to commute whole of member’s accrued pensions (serious ill-health)[^key-ee58dfc9d5a02a219aceba6214c13adc]
+## 85. Option to commute whole of member’s accrued pensions (serious ill-health)[^c-ee58dfc9d5a02a219aceba6214c13adc]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ where—
 
 ## Annotations
 
-[^key-ee58dfc9d5a02a219aceba6214c13adc]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/2014/1964/regulation/85) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-ee58dfc9d5a02a219aceba6214c13adc]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/2014/1964/regulation/85) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

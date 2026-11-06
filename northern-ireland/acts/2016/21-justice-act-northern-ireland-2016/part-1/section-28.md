@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-8d9f48fc9a2c5fb4c011d2f38966e2aa] Schedule 2, which contains minor amendments and amendments consequential on the provisions of this Chapter, has effect.
+(1)[^c-8d9f48fc9a2c5fb4c011d2f38966e2aa] Schedule 2, which contains minor amendments and amendments consequential on the provisions of this Chapter, has effect.
 
 (2) The Department of Justice may by order make such consequential, supplementary or incidental provision as it considers appropriate in consequence of, or for giving full effect to, this Chapter.
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c22563541]: Commencement: S. 28 (2)(3) in operation at 13.5.2016 see s. 61(1)
 
-[^key-8d9f48fc9a2c5fb4c011d2f38966e2aa]: Commencement: S. 28(1) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-8d9f48fc9a2c5fb4c011d2f38966e2aa]: Commencement: S. 28(1) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

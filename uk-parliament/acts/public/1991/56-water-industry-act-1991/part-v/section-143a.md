@@ -32,7 +32,7 @@ summary: ''
 (3) Regulations under this section imposing requirements for the purpose mentioned in subsection (2)(d) may—
 
 - (a) prescribe the classes of persons for whom special provision is to be made in relation to any premises by reference to matters such as age, ill-health or disability, the age, ill-health or disability of any of their dependants or of any other persons who have their homes in the premises, or their financial circumstances;
-- (b) make provision as to the method by which a person may establish his entitlement to assistance under the regulations or, in the case of regulations made by the Secretary of State (rather than the Welsh Ministers), by which that entitlement is otherwise to be established[^key-c8925d5a4dcba7a854f5b93b0e1d0033]; and
+- (b) make provision as to the method by which a person may establish his entitlement to assistance under the regulations or, in the case of regulations made by the Secretary of State (rather than the Welsh Ministers), by which that entitlement is otherwise to be established[^c-c8925d5a4dcba7a854f5b93b0e1d0033]; and
 - (c) make provision as to responsibility for costs incurred for the purpose of establishing that entitlement.
 
 (4) The power to make regulations under this section may not be exercised for the purpose of limiting the total revenues of relevant undertakers from charges fixed by or in accordance with charges schemes.
@@ -43,4 +43,4 @@ summary: ''
 
 [^c13220531]: Textual amendment: S. 143A inserted (30.6.1999 for certain purposes and 23.12.1999 otherwise) by ss. 5, 17(2); [S.I. 1999/3440](https://www.legislation.gov.uk/uksi/1999/3440), [art. 2](https://www.legislation.gov.uk/uksi/1999/3440/article/2)
 
-[^key-c8925d5a4dcba7a854f5b93b0e1d0033]: Textual amendment: Words in s. 143A(3)(b) inserted (24.4.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2025/5/section/13/2), [17(5)(b)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/b)
+[^c-c8925d5a4dcba7a854f5b93b0e1d0033]: Textual amendment: Words in s. 143A(3)(b) inserted (24.4.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2025/5/section/13/2), [17(5)(b)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/5/b)

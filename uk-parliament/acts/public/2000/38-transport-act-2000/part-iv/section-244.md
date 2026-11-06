@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244. Authority’s duty to continue Board’s practice of indexation.[^c14883181][^key-2b3db9e24ec68b215f5ccba5cb0985af]
+## 244. Authority’s duty to continue Board’s practice of indexation.[^c14883181][^c-2b3db9e24ec68b215f5ccba5cb0985af]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ subsection (1) does not require the Authority to make in similar circumstances p
 
 [^c14883181]: Commencement: S. 244 wholly in force at 1.2.2001, see s. 275(1)(2) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-2b3db9e24ec68b215f5ccba5cb0985af]: Modification: S. 244: power to modify conferred (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1(8)](https://www.legislation.gov.uk/ukpga/2005/14/section/1/8), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
+[^c-2b3db9e24ec68b215f5ccba5cb0985af]: Modification: S. 244: power to modify conferred (8.6.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 1(8)](https://www.legislation.gov.uk/ukpga/2005/14/section/1/8), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2); [S.I. 2005/1444](https://www.legislation.gov.uk/uksi/2005/1444), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1444/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1444/schedule/1)
 
 [^c14883191]: Marginal citation: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
 

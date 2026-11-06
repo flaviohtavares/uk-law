@@ -34,7 +34,7 @@ An Act to make provision in connection with works for or in connection with the 
 
 \[8th October 2019\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-acf2796e0bd554236a3d8a70f44a04b2]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-acf2796e0bd554236a3d8a70f44a04b2]
 
 ## The works
 
@@ -60,11 +60,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### 2. The Parliamentary Works Sponsor Body
 
-(1) A body corporate called the Parliamentary Works Sponsor Body (referred to in this Act as “ *(affected by repeal, see note)*[^key-87d119b9a8de05ec10695e6baad4b684]**the Sponsor Body *(affected by repeal, see note)*[^key-87d119b9a8de05ec10695e6baad4b684]**”) is established for the purpose of having overall responsibility for the Parliamentary building works. *(affected by repeal, see note)*[^key-87d119b9a8de05ec10695e6baad4b684]
+(1) A body corporate called the Parliamentary Works Sponsor Body (referred to in this Act as “ *(affected by repeal, see note)*[^c-87d119b9a8de05ec10695e6baad4b684]**the Sponsor Body *(affected by repeal, see note)*[^c-87d119b9a8de05ec10695e6baad4b684]**”) is established for the purpose of having overall responsibility for the Parliamentary building works. *(affected by repeal, see note)*[^c-87d119b9a8de05ec10695e6baad4b684]
 
-(1A)[^key-66772eea2b67ece631e14394b5b3b648] Regulations 3 and 4 of the Parliamentary Works Sponsor Body (Abolition) Regulations 2022 abolish the Sponsor Body (established by subsection (1) of this section, which was repealed by those Regulations) and transfer its functions to the Corporate Officers; and regulation 9(7) of those Regulations provides for references to the Sponsor Body in this Act to be treated as references to the Corporate Officers.
+(1A)[^c-66772eea2b67ece631e14394b5b3b648] Regulations 3 and 4 of the Parliamentary Works Sponsor Body (Abolition) Regulations 2022 abolish the Sponsor Body (established by subsection (1) of this section, which was repealed by those Regulations) and transfer its functions to the Corporate Officers; and regulation 9(7) of those Regulations provides for references to the Sponsor Body in this Act to be treated as references to the Corporate Officers.
 
-(2)[^key-ff5fb0292e191daf9fb5368e3a8a42da] The Sponsor Body's duties are—
+(2)[^c-ff5fb0292e191daf9fb5368e3a8a42da] The Sponsor Body's duties are—
 
 - (a) to determine the strategic objectives of the Parliamentary building works;
 - (b) to make strategic decisions relating to the carrying out of the Parliamentary building works;
@@ -78,15 +78,15 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (h) to deal with matters relating to completion of the Parliamentary building works, including the making of arrangements for the handing over of the buildings to which those works relate;
 - (i) to promote public understanding of the purposes of the Restoration and Renewal Programme.
 
-(3)[^key-ff5fb0292e191daf9fb5368e3a8a42da] In performing the duties under subsection (2)(a) and (b) in relation to Palace restoration works, the Sponsor Body must consult members of each House of Parliament in accordance with the strategy under section 5.
+(3)[^c-ff5fb0292e191daf9fb5368e3a8a42da] In performing the duties under subsection (2)(a) and (b) in relation to Palace restoration works, the Sponsor Body must consult members of each House of Parliament in accordance with the strategy under section 5.
 
-(4)[^key-ff5fb0292e191daf9fb5368e3a8a42da] In performing the duties under subsection (2)(a) and (b), the Sponsor Body must make arrangements for seeking the views of—
+(4)[^c-ff5fb0292e191daf9fb5368e3a8a42da] In performing the duties under subsection (2)(a) and (b), the Sponsor Body must make arrangements for seeking the views of—
 
 - (a) people employed in or for the purposes of either House of Parliament,
 - (b) people working for members of either House of Parliament (whether or not for payment), and
 - (c) members of the public.
 
-(5)[^key-ff5fb0292e191daf9fb5368e3a8a42da] In exercising its functions, the Sponsor Body must have regard to—
+(5)[^c-ff5fb0292e191daf9fb5368e3a8a42da] In exercising its functions, the Sponsor Body must have regard to—
 
 - (a) the need to ensure that the Parliamentary building works represent good value for money;
 - (b) the need to ensure that the Parliamentary building works are carried out with a view to ensuring the safety and security of people who work in Parliament and members of the public;
@@ -103,9 +103,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (i) the special architectural, archaeological and historical significance of the Palace of Westminster;
 - (j) the need to ensure that opportunities to secure economic or other benefits of the Parliamentary building works are available in all areas of the United Kingdom.
 
-(6) Schedule 1 contains further provision about the Sponsor Body. *(affected by repeal, see note)*[^key-a4130d5b07f156116f905e3ba4cdd693]
+(6) Schedule 1 contains further provision about the Sponsor Body. *(affected by repeal, see note)*[^c-a4130d5b07f156116f905e3ba4cdd693]
 
-### 2A. Annual report[^key-29d16712fc545a01dd6b9e28eb4b44a8]
+### 2A. Annual report[^c-29d16712fc545a01dd6b9e28eb4b44a8]
 
 (1) At least once in every calendar year, the Corporate Officers must prepare and lay before Parliament a report about the carrying out of the Parliamentary building works and the progress that has been made towards completion of those works.
 
@@ -181,15 +181,15 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### 6. Relationship between the Sponsor Body and Parliament
 
-(1)[^key-75a5bf740b2330d7428293cc30d29676] The Sponsor Body, the Corporate Officer of the House of Commons and the Corporate Officer of the House of Lords must enter into an agreement (a “Parliamentary relationship agreement”) containing provision relating to the relationship between the Sponsor Body and Parliament. *(affected by repeal, see note)*[^key-75a5bf740b2330d7428293cc30d29676]
+(1)[^c-75a5bf740b2330d7428293cc30d29676] The Sponsor Body, the Corporate Officer of the House of Commons and the Corporate Officer of the House of Lords must enter into an agreement (a “Parliamentary relationship agreement”) containing provision relating to the relationship between the Sponsor Body and Parliament. *(affected by repeal, see note)*[^c-75a5bf740b2330d7428293cc30d29676]
 
-(2) A Parliamentary relationship agreement may contain provision about— *(affected by repeal, see note)*[^key-75a5bf740b2330d7428293cc30d29676]
+(2) A Parliamentary relationship agreement may contain provision about— *(affected by repeal, see note)*[^c-75a5bf740b2330d7428293cc30d29676]
 
-- (a) the buildings to which the Parliamentary building works relate (including responsibility for those buildings and arrangements for handing them over after completion of those works); *(affected by repeal, see note)*[^key-75a5bf740b2330d7428293cc30d29676]
-- (b) consultation and co-operation between the Sponsor Body and the Corporate Officers; *(affected by repeal, see note)*[^key-75a5bf740b2330d7428293cc30d29676]
-- (c) such other matters as the Sponsor Body and the Corporate Officers consider appropriate. *(affected by repeal, see note)*[^key-75a5bf740b2330d7428293cc30d29676]
+- (a) the buildings to which the Parliamentary building works relate (including responsibility for those buildings and arrangements for handing them over after completion of those works); *(affected by repeal, see note)*[^c-75a5bf740b2330d7428293cc30d29676]
+- (b) consultation and co-operation between the Sponsor Body and the Corporate Officers; *(affected by repeal, see note)*[^c-75a5bf740b2330d7428293cc30d29676]
+- (c) such other matters as the Sponsor Body and the Corporate Officers consider appropriate. *(affected by repeal, see note)*[^c-75a5bf740b2330d7428293cc30d29676]
 
-(3) A Parliamentary relationship agreement may be varied by agreement between the Sponsor Body and the Corporate Officers. *(affected by repeal, see note)*[^key-75a5bf740b2330d7428293cc30d29676]
+(3) A Parliamentary relationship agreement may be varied by agreement between the Sponsor Body and the Corporate Officers. *(affected by repeal, see note)*[^c-75a5bf740b2330d7428293cc30d29676]
 
 ## Parliamentary approval
 
@@ -237,7 +237,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (2) Schedule 3 contains further provision about the Estimates Commission.
 
-### 9. Funding[^key-7ec3eb7c175fb7e59cdecacb82ba1b59]
+### 9. Funding[^c-7ec3eb7c175fb7e59cdecacb82ba1b59]
 
 (1) The Corporate Officers may pay grants, or give any other form of financial assistance, to the Delivery Authority for the purpose of enabling the Delivery Authority to exercise its functions.
 
@@ -255,26 +255,26 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (1) The Leader of the House of Commons may by regulations made by statutory instrument abolish—
 
-- (a)[^key-3bbb73ef0bf162836fa3b807f40c7b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3bbb73ef0bf162836fa3b807f40c7b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the Estimates Commission.
 
-(2)[^key-c8255bddf990d7b7b596b1042dc8fbcd] The Leader of the House of Commons may by regulations made by statutory instrument provide for the transfer from the Corporate Officers to such person as the Leader considers appropriate of—
+(2)[^c-c8255bddf990d7b7b596b1042dc8fbcd] The Leader of the House of Commons may by regulations made by statutory instrument provide for the transfer from the Corporate Officers to such person as the Leader considers appropriate of—
 
 - (a) functions under or in connection with this Act;
 - (b) property, rights or liabilities relating to or connected with functions under this Act.
 
-(3) But regulations under subsection (2)[^key-aa90da15af00ae60eb4b5593f4efb201] may not provide for the transfer of anything to a person who has not consented to the transfer.
+(3) But regulations under subsection (2)[^c-aa90da15af00ae60eb4b5593f4efb201] may not provide for the transfer of anything to a person who has not consented to the transfer.
 
-(4) The things that may be transferred by virtue of subsection (2)[^key-e15d7d5a67c45a5ffe167527b8ddccc1] include—
+(4) The things that may be transferred by virtue of subsection (2)[^c-e15d7d5a67c45a5ffe167527b8ddccc1] include—
 
 - (a) property, rights and liabilities that could not otherwise be transferred;
 - (b) property acquired, and rights and liabilities arising, after the making of the regulations.
 
-(5) Regulations under subsection (2)[^key-853018c658370b43ba709ffc28fa5ce9] may—
+(5) Regulations under subsection (2)[^c-853018c658370b43ba709ffc28fa5ce9] may—
 
 - (a) create rights, or impose liabilities, in relation to property or rights transferred;
-- (b) make provision about the continuing effect of things done by the Corporate Officers[^key-dfaff1f40330b171349c9fae78a417c3] in respect of anything transferred;
-- (c) make provision about the continuation of things (including legal proceedings) in the process of being done by, on behalf of or in relation to the Corporate Officers[^key-d0f393cd8a3ad51a7114e4a4453dfbec] in respect of anything transferred;
+- (b) make provision about the continuing effect of things done by the Corporate Officers[^c-dfaff1f40330b171349c9fae78a417c3] in respect of anything transferred;
+- (c) make provision about the continuation of things (including legal proceedings) in the process of being done by, on behalf of or in relation to the Corporate Officers[^c-d0f393cd8a3ad51a7114e4a4453dfbec] in respect of anything transferred;
 - (d) if the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246) do not apply in relation to the transfer, make provision that is the same or similar;
 - (e) make other consequential, supplementary, incidental or transitional provision (including consequential provision amending or repealing any provision of this Act).
 
@@ -282,12 +282,12 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (7) References in this section to rights and liabilities include rights and liabilities relating to a contract of employment.
 
-(8) Before making regulations under subsection (1) or (2)[^key-404972da382baeff838a755d21139021], the Leader of the House of Commons—
+(8) Before making regulations under subsection (1) or (2)[^c-404972da382baeff838a755d21139021], the Leader of the House of Commons—
 
 - (a) must consult the Corporate Officer of the House of Commons, the Corporate Officer of the House of Lords and the House Commissions;
 - (b) must obtain the consent of the Leader of the House of Lords.
 
-(9) A statutory instrument containing regulations under subsection (1) or (2)[^key-1e7a64c8bb96b335a3d0407ca4a28528] may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+(9) A statutory instrument containing regulations under subsection (1) or (2)[^c-1e7a64c8bb96b335a3d0407ca4a28528] may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
 ### 11. Dissolution of the Delivery Authority
 
@@ -295,8 +295,8 @@ The Sponsor Body may dissolve the Delivery Authority, but only—
 
 - (a) after completion of the Parliamentary building works, and
 - (b) with the consent of—
-  - (i) the Corporate Officer of the House of Commons, *(affected by repeal, see note)*[^key-b6492222e6580c23cabae2deb44da095]
-  - (ii) the Corporate Officer of the House of Lords, and *(affected by repeal, see note)*[^key-b6492222e6580c23cabae2deb44da095]
+  - (i) the Corporate Officer of the House of Commons, *(affected by repeal, see note)*[^c-b6492222e6580c23cabae2deb44da095]
+  - (ii) the Corporate Officer of the House of Lords, and *(affected by repeal, see note)*[^c-b6492222e6580c23cabae2deb44da095]
   - (iii) the House Commissions.
 
 ## General
@@ -305,7 +305,7 @@ The Sponsor Body may dissolve the Delivery Authority, but only—
 
 (1) In this Act—
 
-- “[^key-b28417804c4bf513acd2ea3345489d0f]**the Corporate Officers**” means the Corporate Officer of the House of Commons and the Corporate Officer of the House of Lords, acting jointly;
+- “[^c-b28417804c4bf513acd2ea3345489d0f]**the Corporate Officers**” means the Corporate Officer of the House of Commons and the Corporate Officer of the House of Lords, acting jointly;
 - “**the Delivery Authority**” has the meaning given by section 3(3);
 - “**the Estimates Commission**” means the Parliamentary Works Estimates Commission;
 - “**financial year**”, in relation to the Sponsor Body or the Estimates Commission, means—
@@ -321,7 +321,7 @@ The Sponsor Body may dissolve the Delivery Authority, but only—
 - “**Minister of the Crown**” has the same meaning as in the Ministers of the Crown Act 1975;
 - “**Palace restoration works**” has the meaning given by section 1(2);
 - “**the Parliamentary building works**” has the meaning given by section 1(1);
-- “**the Sponsor Body**” means the Parliamentary Works Sponsor Body (but by virtue of regulation 9(7) of the Parliamentary Works Sponsor Body (Abolition) Regulations 2022 references to the Sponsor Body in this Act are after the commencement of those Regulations to be treated as references to the Corporate Officers)[^key-8d712786d959195cb164340c50441eae].
+- “**the Sponsor Body**” means the Parliamentary Works Sponsor Body (but by virtue of regulation 9(7) of the Parliamentary Works Sponsor Body (Abolition) Regulations 2022 references to the Sponsor Body in this Act are after the commencement of those Regulations to be treated as references to the Corporate Officers)[^c-8d712786d959195cb164340c50441eae].
 
 (2) References in this Act to the doing of anything by the House Commissions are to the doing of the thing by them jointly.
 
@@ -354,398 +354,398 @@ This Act may be cited as the Parliamentary Buildings (Restoration and Renewal) A
 
 SCHEDULES
 
-## SCHEDULE 1 (affected by repeal, see note) — The Parliamentary Works Sponsor Body (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56][^key-58368c8eb16e0c9994334239bf6e7d56]
+## SCHEDULE 1 (affected by repeal, see note) — The Parliamentary Works Sponsor Body (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56][^c-58368c8eb16e0c9994334239bf6e7d56]
 
-Section 2 *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+Section 2 *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-### PART 1 (affected by repeal, see note) — Members of the Sponsor Body (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56][^key-58368c8eb16e0c9994334239bf6e7d56]
+### PART 1 (affected by repeal, see note) — Members of the Sponsor Body (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56][^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Membership (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Membership (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**1.** (1) The Sponsor Body is to consist of the following members— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**1.** (1) The Sponsor Body is to consist of the following members— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) a chair appointed in accordance with paragraph 2, *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) at least 2 but not more than 4 persons appointed in accordance with paragraph 3, and *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (c) at least 4 but not more than 8 persons appointed from amongst both the members of the House of Commons and the members of the House of Lords (and see also paragraph 4). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) a chair appointed in accordance with paragraph 2, *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) at least 2 but not more than 4 persons appointed in accordance with paragraph 3, and *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (c) at least 4 but not more than 8 persons appointed from amongst both the members of the House of Commons and the members of the House of Lords (and see also paragraph 4). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) In this Schedule— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) In this Schedule— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) references to the “ *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]**external members *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]**” are to the chair and the members referred to in sub-paragraph (1)(b); *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) references to the “ *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]**Parliamentary members *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]**” are to the members referred to in sub-paragraph (1)(c). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) references to the “ *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]**external members *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]**” are to the chair and the members referred to in sub-paragraph (1)(b); *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) references to the “ *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]**Parliamentary members *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]**” are to the members referred to in sub-paragraph (1)(c). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) The number of Parliamentary members must be greater than the number of external members. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) The number of Parliamentary members must be greater than the number of external members. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(4) See also paragraph 8, which makes provision about the appointment of the first external members. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(4) See also paragraph 8, which makes provision about the appointment of the first external members. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### External members: appointment (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### External members: appointment (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**2.** (1) The chair is to be appointed by the House Commissions. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**2.** (1) The chair is to be appointed by the House Commissions. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) A person may be appointed as the chair only if the person has been selected for appointment by the House Commissions on merit on the basis of fair and open competition. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) A person may be appointed as the chair only if the person has been selected for appointment by the House Commissions on merit on the basis of fair and open competition. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) A person may not be appointed as the chair if the person is— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) A person may not be appointed as the chair if the person is— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) a member of either House of Parliament, *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) a Minister of the Crown, *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (c) a member of either of the House Commissions, or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (d) a director of the Delivery Authority (other than a director within paragraph 1(1)(c) of Schedule 2). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) a member of either House of Parliament, *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) a Minister of the Crown, *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (c) a member of either of the House Commissions, or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (d) a director of the Delivery Authority (other than a director within paragraph 1(1)(c) of Schedule 2). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(4) The appointment of the chair does not have effect unless it is confirmed by a resolution of each House of Parliament. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(4) The appointment of the chair does not have effect unless it is confirmed by a resolution of each House of Parliament. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**3.** (1) The external members (other than the chair) are to be appointed by the Sponsor Body. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**3.** (1) The external members (other than the chair) are to be appointed by the Sponsor Body. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) A person may be appointed under this paragraph only if the person has been selected for appointment by the Sponsor Body on merit on the basis of fair and open competition. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) A person may be appointed under this paragraph only if the person has been selected for appointment by the Sponsor Body on merit on the basis of fair and open competition. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) A person may not be appointed under this paragraph if the person is— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) A person may not be appointed under this paragraph if the person is— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) a member of either House of Parliament, *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) a Minister of the Crown, *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (c) a member of either of the House Commissions, or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (d) a director of the Delivery Authority (other than a director within paragraph 1(1)(c) of Schedule 2). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) a member of either House of Parliament, *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) a Minister of the Crown, *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (c) a member of either of the House Commissions, or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (d) a director of the Delivery Authority (other than a director within paragraph 1(1)(c) of Schedule 2). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(4) The functions conferred by this paragraph on the Sponsor Body are to be discharged by the House Commissions— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(4) The functions conferred by this paragraph on the Sponsor Body are to be discharged by the House Commissions— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) before the Sponsor Body is first constituted in accordance with paragraph 1(1), or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) at any time when the number of external members is less than 2. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) before the Sponsor Body is first constituted in accordance with paragraph 1(1), or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) at any time when the number of external members is less than 2. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(5) The appointment of an external member under this paragraph does not have effect unless it is confirmed by a resolution of each House of Parliament. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(5) The appointment of an external member under this paragraph does not have effect unless it is confirmed by a resolution of each House of Parliament. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Parliamentary members: appointment (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Parliamentary members: appointment (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**4.** (1) A person may not be appointed as a Parliamentary member if the person is— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**4.** (1) A person may not be appointed as a Parliamentary member if the person is— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) a member of either of the House Commissions, *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) a Minister of the Crown, *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (c) a director of the Delivery Authority (other than a director within paragraph 1(1)(c) of Schedule 2), or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (d) a member of the Estimates Commission. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) a member of either of the House Commissions, *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) a Minister of the Crown, *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (c) a director of the Delivery Authority (other than a director within paragraph 1(1)(c) of Schedule 2), or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (d) a member of the Estimates Commission. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) The appointment of a Parliamentary member does not have effect unless it is confirmed by a resolution of the House of Parliament from which the person is drawn. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) The appointment of a Parliamentary member does not have effect unless it is confirmed by a resolution of the House of Parliament from which the person is drawn. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Terms of appointment: general (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Terms of appointment: general (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**5.** (1) An external member of the Sponsor Body holds and vacates office in accordance with the terms and conditions of the member's appointment (subject to this Schedule). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**5.** (1) An external member of the Sponsor Body holds and vacates office in accordance with the terms and conditions of the member's appointment (subject to this Schedule). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) A Parliamentary member of the Sponsor Body holds and vacates office in accordance with terms and conditions set by the Sponsor Body (subject to this Schedule). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) A Parliamentary member of the Sponsor Body holds and vacates office in accordance with terms and conditions set by the Sponsor Body (subject to this Schedule). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**6.** (1) A member must be appointed for a fixed term of not more than 3 years. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**6.** (1) A member must be appointed for a fixed term of not more than 3 years. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) Those responsible for setting fixed terms for members must have regard to the desirability of securing that appointments do not all expire at the same time. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) Those responsible for setting fixed terms for members must have regard to the desirability of securing that appointments do not all expire at the same time. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) The reference in sub-paragraph (2) to those responsible for setting fixed terms is a reference to the House Commissions (in the case of the chair) and the Sponsor Body (in the case of other members). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) The reference in sub-paragraph (2) to those responsible for setting fixed terms is a reference to the House Commissions (in the case of the chair) and the Sponsor Body (in the case of other members). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**7.** The previous appointment of a person as a member does not affect the person's eligibility for re-appointment. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**7.** The previous appointment of a person as a member does not affect the person's eligibility for re-appointment. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Appointment of initial external members (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Appointment of initial external members (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**8.** (1) The person who, immediately before the commencement day, was the chair of the shadow Sponsor Body is to be treated as having been appointed on that day as the chair of the Sponsor Body in accordance with paragraph 2. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**8.** (1) The person who, immediately before the commencement day, was the chair of the shadow Sponsor Body is to be treated as having been appointed on that day as the chair of the Sponsor Body in accordance with paragraph 2. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) Appointment by virtue of sub-paragraph (1) is to be treated as being for a term of 3 years. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) Appointment by virtue of sub-paragraph (1) is to be treated as being for a term of 3 years. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) A person who, immediately before the commencement day— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) A person who, immediately before the commencement day— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) was a member of the shadow Sponsor Body (other than the chair), and *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) was not a member of either House of Parliament, *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) was a member of the shadow Sponsor Body (other than the chair), and *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) was not a member of either House of Parliament, *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-is to be treated as having been appointed on that day as a member of the Sponsor Body in accordance with paragraph 3 (external members). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+is to be treated as having been appointed on that day as a member of the Sponsor Body in accordance with paragraph 3 (external members). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(4) Appointment by virtue of sub-paragraph (3) is to be treated as being for a term ending with the last day of the period of 3 years beginning with the day on which the shadow Sponsor Body was established. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(4) Appointment by virtue of sub-paragraph (3) is to be treated as being for a term ending with the last day of the period of 3 years beginning with the day on which the shadow Sponsor Body was established. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(5) An appointment by virtue of sub-paragraph (1) or (3) ceases to have effect at the end of the period of 1 month beginning with the commencement day unless, before the end of that period, the appointment is confirmed by a resolution of each House of Parliament. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(5) An appointment by virtue of sub-paragraph (1) or (3) ceases to have effect at the end of the period of 1 month beginning with the commencement day unless, before the end of that period, the appointment is confirmed by a resolution of each House of Parliament. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(6) Paragraphs 2, 3 and 6 do not apply in relation to a member who is appointed by virtue of sub-paragraph (1) or (3). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(6) Paragraphs 2, 3 and 6 do not apply in relation to a member who is appointed by virtue of sub-paragraph (1) or (3). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(7) In this paragraph— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(7) In this paragraph— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- “**the commencement day *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]**” means the day on which section 2(1) comes into force; *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- “**the shadow Sponsor Body *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]**” means the body, established in July 2018 in connection with the restoration of the Palace of Westminster, which is known as the shadow Sponsor Body. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- “**the commencement day *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]**” means the day on which section 2(1) comes into force; *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- “**the shadow Sponsor Body *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]**” means the body, established in July 2018 in connection with the restoration of the Palace of Westminster, which is known as the shadow Sponsor Body. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Remuneration for external members (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Remuneration for external members (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**9.** The Sponsor Body may pay to an external member such remuneration and allowances as the Sponsor Body may determine. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**9.** The Sponsor Body may pay to an external member such remuneration and allowances as the Sponsor Body may determine. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Code of conduct (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Code of conduct (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**10.** (1) The Sponsor Body must issue, and may from time to time revise, a code of conduct for its members. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**10.** (1) The Sponsor Body must issue, and may from time to time revise, a code of conduct for its members. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) The code must in particular— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) The code must in particular— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) incorporate the Nolan principles or such other similar principles as may be adopted by the Sponsor Body from time to time, and *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) include provision about the disclosure of interests by the members of the Sponsor Body. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) incorporate the Nolan principles or such other similar principles as may be adopted by the Sponsor Body from time to time, and *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) include provision about the disclosure of interests by the members of the Sponsor Body. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) “**The Nolan principles *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]**” means the 7 general principles of public life set out in the First Report of the Committee on Standards in Public Life (Cm 2850). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) “**The Nolan principles *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]**” means the 7 general principles of public life set out in the First Report of the Committee on Standards in Public Life (Cm 2850). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Resignation, suspension and removal (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Resignation, suspension and removal (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**11.** (1) In this paragraph “ *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]**the appropriate authority *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]**” means— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**11.** (1) In this paragraph “ *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]**the appropriate authority *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]**” means— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) in relation to the chair, the House Commissions, and *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) in relation to any other member, the chair. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) in relation to the chair, the House Commissions, and *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) in relation to any other member, the chair. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) A member of the Sponsor Body may resign by giving notice in writing to the appropriate authority. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) A member of the Sponsor Body may resign by giving notice in writing to the appropriate authority. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) The appropriate authority may without notice suspend a member of the Sponsor Body from office if it appears to the appropriate authority that the member— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) The appropriate authority may without notice suspend a member of the Sponsor Body from office if it appears to the appropriate authority that the member— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) has failed without reasonable excuse to carry out the member's functions, or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) is unable or unfit to carry out the member's functions. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) has failed without reasonable excuse to carry out the member's functions, or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) is unable or unfit to carry out the member's functions. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(4) The period of suspension must not exceed 3 months. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(4) The period of suspension must not exceed 3 months. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(5) The appropriate authority must review the suspension before the expiry of the period of suspension. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(5) The appropriate authority must review the suspension before the expiry of the period of suspension. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(6) Following a review, the appropriate authority may— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(6) Following a review, the appropriate authority may— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) revoke the suspension, or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) decide that the member should be removed from office. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) revoke the suspension, or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) decide that the member should be removed from office. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(7) A decision under sub-paragraph (6)(b) does not have effect unless it is confirmed— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(7) A decision under sub-paragraph (6)(b) does not have effect unless it is confirmed— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) in the case of an external member, by a resolution of each House of Parliament, or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) in the case of a Parliamentary member, by a resolution of the House of Parliament from which the member is drawn. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) in the case of an external member, by a resolution of each House of Parliament, or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) in the case of a Parliamentary member, by a resolution of the House of Parliament from which the member is drawn. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**12.** (1) A Parliamentary member ceases to be a member of the Sponsor Body if— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**12.** (1) A Parliamentary member ceases to be a member of the Sponsor Body if— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) the member ceases to be a member of the relevant House (but see sub-paragraph (4)), *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) the relevant House orders the suspension of the member from the service of that House for a specified period of the requisite length, *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (c) the member becomes— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-  - (i) a member of either of the House Commissions, or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-  - (ii (affected by repeal, see note))[^key-58368c8eb16e0c9994334239bf6e7d56] a Minister of the Crown, *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (d) the member becomes a director of the Delivery Authority (other than a director within paragraph 1(1)(c) of Schedule 2), or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (e) in the case of a Lords member, the member is granted leave of absence in accordance with Standing Orders of the House of Lords. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) the member ceases to be a member of the relevant House (but see sub-paragraph (4)), *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) the relevant House orders the suspension of the member from the service of that House for a specified period of the requisite length, *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (c) the member becomes— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+  - (i) a member of either of the House Commissions, or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+  - (ii (affected by repeal, see note))[^c-58368c8eb16e0c9994334239bf6e7d56] a Minister of the Crown, *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (d) the member becomes a director of the Delivery Authority (other than a director within paragraph 1(1)(c) of Schedule 2), or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (e) in the case of a Lords member, the member is granted leave of absence in accordance with Standing Orders of the House of Lords. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) For the purposes of sub-paragraph (1)(b) a specified period is “of the requisite length” if— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) For the purposes of sub-paragraph (1)(b) a specified period is “of the requisite length” if— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) where the period is expressed as a number of sitting days, it is a period of at least 10 sitting days, or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) in any other case, the period (however expressed) is a period of at least 14 days. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) where the period is expressed as a number of sitting days, it is a period of at least 10 sitting days, or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) in any other case, the period (however expressed) is a period of at least 14 days. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) For the purposes of sub-paragraph (1)(b) it does not matter— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) For the purposes of sub-paragraph (1)(b) it does not matter— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) when the period of suspension starts, and *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) where that period is expressed as a number of sitting days, what provision (if any) is made by the relevant House regarding what does, or does not, count as a sitting day for the purpose of calculating that period. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) when the period of suspension starts, and *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) where that period is expressed as a number of sitting days, what provision (if any) is made by the relevant House regarding what does, or does not, count as a sitting day for the purpose of calculating that period. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(4) Where a Commons member ceases to be a member of the House of Commons on the dissolution of Parliament prior to a Parliamentary general election— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(4) Where a Commons member ceases to be a member of the House of Commons on the dissolution of Parliament prior to a Parliamentary general election— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) sub-paragraph (1)(a) does not apply, and *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) unless the person is re-elected to the House of Commons at the election (and subject to the earlier expiry of the person's term of appointment), the person ceases to be a member of the Sponsor Body— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-  - (i) on the appointment of a new Parliamentary member in the person's place, or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-  - (ii (affected by repeal, see note))[^key-58368c8eb16e0c9994334239bf6e7d56] if no new Parliamentary member is appointed, at the end of the period of 6 months beginning with the date on which the person ceases to be a member of the House of Commons. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) sub-paragraph (1)(a) does not apply, and *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) unless the person is re-elected to the House of Commons at the election (and subject to the earlier expiry of the person's term of appointment), the person ceases to be a member of the Sponsor Body— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+  - (i) on the appointment of a new Parliamentary member in the person's place, or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+  - (ii (affected by repeal, see note))[^c-58368c8eb16e0c9994334239bf6e7d56] if no new Parliamentary member is appointed, at the end of the period of 6 months beginning with the date on which the person ceases to be a member of the House of Commons. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(5) For the purposes of this Schedule (other than this paragraph), a person is to be treated as a member of the House of Commons for any period during which— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(5) For the purposes of this Schedule (other than this paragraph), a person is to be treated as a member of the House of Commons for any period during which— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) the person continues to be a member of the Sponsor Body as a result of sub-paragraph (4)(a), and *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) is not a member of the House of Commons. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) the person continues to be a member of the Sponsor Body as a result of sub-paragraph (4)(a), and *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) is not a member of the House of Commons. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(6) In this paragraph— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(6) In this paragraph— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- “Commons member” and “Lords member” mean a person who is a Parliamentary member by virtue of being a member of the House of Commons or the House of Lords (as the case may be); *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- “**the relevant House *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]**”, in relation to a Parliamentary member, means the House of Parliament from which the member is drawn. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- “Commons member” and “Lords member” mean a person who is a Parliamentary member by virtue of being a member of the House of Commons or the House of Lords (as the case may be); *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- “**the relevant House *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]**”, in relation to a Parliamentary member, means the House of Parliament from which the member is drawn. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**13.** An external member ceases to be a member of the Sponsor Body on becoming— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**13.** An external member ceases to be a member of the Sponsor Body on becoming— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) a member of either House of Parliament, *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) a Minister of the Crown, *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (c) a member of either of the House Commissions, or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (d) a director of the Delivery Authority (other than a director within paragraph 1(1)(c) of Schedule 2). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) a member of either House of Parliament, *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) a Minister of the Crown, *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (c) a member of either of the House Commissions, or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (d) a director of the Delivery Authority (other than a director within paragraph 1(1)(c) of Schedule 2). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Interim chair (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Interim chair (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**14.** (1) The House Commissions may appoint one of the external members of the Sponsor Body to be its interim chair if— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**14.** (1) The House Commissions may appoint one of the external members of the Sponsor Body to be its interim chair if— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) the office of chair is vacant, or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) the chair is suspended from office under paragraph 11(3). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) the office of chair is vacant, or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) the chair is suspended from office under paragraph 11(3). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) Appointment as interim chair is for a term ending on the earliest of— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) Appointment as interim chair is for a term ending on the earliest of— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) the appointment of a new chair, *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) the revocation or expiry of the existing chair's suspension, and *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (c) the end of the interim chair's term as an external member. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) the appointment of a new chair, *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) the revocation or expiry of the existing chair's suspension, and *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (c) the end of the interim chair's term as an external member. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) The previous appointment of a person as interim chair does not affect the person's eligibility for re-appointment as interim chair. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) The previous appointment of a person as interim chair does not affect the person's eligibility for re-appointment as interim chair. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-### PART 2 (affected by repeal, see note) — Powers, procedure, reporting etc (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56][^key-58368c8eb16e0c9994334239bf6e7d56]
+### PART 2 (affected by repeal, see note) — Powers, procedure, reporting etc (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56][^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Status (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Status (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**15.** (1) The Sponsor Body is not to be regarded— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**15.** (1) The Sponsor Body is not to be regarded— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) as a servant or agent of the Crown, or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) as enjoying any status, immunity or privilege of the Crown. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) as a servant or agent of the Crown, or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) as enjoying any status, immunity or privilege of the Crown. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) The members and staff of the Sponsor Body are not to be regarded as Crown servants. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) The members and staff of the Sponsor Body are not to be regarded as Crown servants. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Powers (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Powers (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**16.** The Sponsor Body may do anything that is calculated to facilitate the carrying out of its functions or is incidental or conducive to the carrying out of those functions. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**16.** The Sponsor Body may do anything that is calculated to facilitate the carrying out of its functions or is incidental or conducive to the carrying out of those functions. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Staff (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Staff (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**17.** (1) The Sponsor Body must appoint a person to be its chief executive officer. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**17.** (1) The Sponsor Body must appoint a person to be its chief executive officer. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) The chief executive officer is a member of the Sponsor Body's staff and is to be appointed on terms and conditions determined by the Sponsor Body. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) The chief executive officer is a member of the Sponsor Body's staff and is to be appointed on terms and conditions determined by the Sponsor Body. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) The Sponsor Body may appoint other staff on terms and conditions determined by the Sponsor Body. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) The Sponsor Body may appoint other staff on terms and conditions determined by the Sponsor Body. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(4) In determining terms and conditions of appointment under sub-paragraph (2) or (3) (including as to remuneration and allowances), the Sponsor Body must have regard to the desirability of keeping the terms and conditions broadly in line with those applying to staff in the House Departments (within the meaning of the House of Commons (Administration) Act 1978). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(4) In determining terms and conditions of appointment under sub-paragraph (2) or (3) (including as to remuneration and allowances), the Sponsor Body must have regard to the desirability of keeping the terms and conditions broadly in line with those applying to staff in the House Departments (within the meaning of the House of Commons (Administration) Act 1978). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**18.** (1) In the Superannuation Act 1972, in Schedule 1 (kinds of employment to which a scheme under section 1 of that Act can apply), in the list of other bodies, at the appropriate place insert— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56] “ The Parliamentary Works Sponsor Body. ” *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**18.** (1) In the Superannuation Act 1972, in Schedule 1 (kinds of employment to which a scheme under section 1 of that Act can apply), in the list of other bodies, at the appropriate place insert— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56] “ The Parliamentary Works Sponsor Body. ” *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) The Sponsor Body must pay to the Minister for the Civil Service, at such times as the Minister may direct, such sums as the Minister may determine in respect of any increase attributable to this paragraph in the sums payable out of money provided by Parliament under the Superannuation Act 1972. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) The Sponsor Body must pay to the Minister for the Civil Service, at such times as the Minister may direct, such sums as the Minister may determine in respect of any increase attributable to this paragraph in the sums payable out of money provided by Parliament under the Superannuation Act 1972. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Transfer of property etc to the Sponsor Body (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Transfer of property etc to the Sponsor Body (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**19.** (1) The Leader of the House of Commons may make one or more schemes providing for the transfer to the Sponsor Body of qualifying property, rights and liabilities of— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**19.** (1) The Leader of the House of Commons may make one or more schemes providing for the transfer to the Sponsor Body of qualifying property, rights and liabilities of— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) the House of Commons Commission, or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) the Corporate Officer of the House of Commons. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) the House of Commons Commission, or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) the Corporate Officer of the House of Commons. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) The Leader of the House of Lords may make one or more schemes providing for the transfer to the Sponsor Body of qualifying property, rights and liabilities of the Corporate Officer of the House of Lords. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) The Leader of the House of Lords may make one or more schemes providing for the transfer to the Sponsor Body of qualifying property, rights and liabilities of the Corporate Officer of the House of Lords. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) The Leader of the House of Commons and the Leader of the House of Lords may jointly make one or more schemes providing for the transfer to the Sponsor Body of qualifying property, rights and liabilities held or incurred jointly by the Corporate Officer of the House of Commons and the Corporate Officer of the House of Lords. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) The Leader of the House of Commons and the Leader of the House of Lords may jointly make one or more schemes providing for the transfer to the Sponsor Body of qualifying property, rights and liabilities held or incurred jointly by the Corporate Officer of the House of Commons and the Corporate Officer of the House of Lords. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(4) “**Qualifying property, rights and liabilities *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]**” means property, rights and liabilities that the Sponsor Body considers it necessary to be transferred to it in connection with the Parliamentary building works. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(4) “**Qualifying property, rights and liabilities *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]**” means property, rights and liabilities that the Sponsor Body considers it necessary to be transferred to it in connection with the Parliamentary building works. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(5) The things that may be transferred under a transfer scheme include— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(5) The things that may be transferred under a transfer scheme include— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) property, rights or liabilities that could not otherwise be transferred; *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) property acquired, or rights and liabilities arising, after the making of the scheme. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) property, rights or liabilities that could not otherwise be transferred; *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) property acquired, or rights and liabilities arising, after the making of the scheme. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(6) If the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246) do not apply in relation to a transfer, a transfer scheme must make equivalent provision. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(6) If the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246) do not apply in relation to a transfer, a transfer scheme must make equivalent provision. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(7) A transfer scheme may— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(7) A transfer scheme may— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) create rights, or impose liabilities, in relation to property or rights transferred; *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) make provision about the continuing effect of things done by the transferor in respect of anything transferred; *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (c) make provision about the continuation of things (including legal proceedings) in the process of being done by, on behalf of or in relation to the transferor in respect of anything transferred; *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (d) make other consequential, supplementary, incidental or transitional provision. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) create rights, or impose liabilities, in relation to property or rights transferred; *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) make provision about the continuing effect of things done by the transferor in respect of anything transferred; *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (c) make provision about the continuation of things (including legal proceedings) in the process of being done by, on behalf of or in relation to the transferor in respect of anything transferred; *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (d) make other consequential, supplementary, incidental or transitional provision. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(8) A transfer scheme may provide— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(8) A transfer scheme may provide— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) for modifications to the scheme by agreement between the person making the scheme and the person (or persons) affected by the modifications; *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) for modifications to have effect from the date when the original scheme came into effect. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) for modifications to the scheme by agreement between the person making the scheme and the person (or persons) affected by the modifications; *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) for modifications to have effect from the date when the original scheme came into effect. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(9) Before making a transfer scheme, the person making the scheme must consult— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(9) Before making a transfer scheme, the person making the scheme must consult— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) in the case of a scheme under sub-paragraph (1), the Corporate Officer of the House of Commons; *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) in the case of a scheme under sub-paragraph (2), the Corporate Officer of the House of Lords; *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (c) in the case of a scheme under sub-paragraph (3), both those Corporate Officers. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) in the case of a scheme under sub-paragraph (1), the Corporate Officer of the House of Commons; *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) in the case of a scheme under sub-paragraph (2), the Corporate Officer of the House of Lords; *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (c) in the case of a scheme under sub-paragraph (3), both those Corporate Officers. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(10) In this paragraph— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(10) In this paragraph— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) “**transferor *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]**”, in relation to a transfer scheme, means the person or persons for the transfer of whose qualifying property, rights or liabilities the scheme provides; *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) references to rights and liabilities include rights and liabilities relating to a contract of employment. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) “**transferor *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]**”, in relation to a transfer scheme, means the person or persons for the transfer of whose qualifying property, rights or liabilities the scheme provides; *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) references to rights and liabilities include rights and liabilities relating to a contract of employment. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Committees (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Committees (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**20.** (1) The Sponsor Body may establish committees. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**20.** (1) The Sponsor Body may establish committees. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) A committee established under sub-paragraph (1) may establish one or more sub-committees. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) A committee established under sub-paragraph (1) may establish one or more sub-committees. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) A committee or sub-committee may consist of or include persons who are neither members, nor members of staff, of the Sponsor Body. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) A committee or sub-committee may consist of or include persons who are neither members, nor members of staff, of the Sponsor Body. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Delegation (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Delegation (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**21.** The Sponsor Body may delegate functions to a committee, sub-committee, member or member of staff. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**21.** The Sponsor Body may delegate functions to a committee, sub-committee, member or member of staff. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Delegation and contracting out of pension functions (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Delegation and contracting out of pension functions (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**22.** (1) Section 1(2) of the Superannuation Act 1972 (delegation of functions relating to civil service superannuation schemes by Minister for the Civil Service to another officer of the Crown etc) has effect as if the reference to an officer of the Crown other than a Minister included a reference to the Sponsor Body's chief executive officer. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**22.** (1) Section 1(2) of the Superannuation Act 1972 (delegation of functions relating to civil service superannuation schemes by Minister for the Civil Service to another officer of the Crown etc) has effect as if the reference to an officer of the Crown other than a Minister included a reference to the Sponsor Body's chief executive officer. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) A pension function conferred on the chief executive officer by virtue of sub-paragraph (1) may be carried out by— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) A pension function conferred on the chief executive officer by virtue of sub-paragraph (1) may be carried out by— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) a person authorised by the chief executive officer, or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) an employee of a person so authorised. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) a person authorised by the chief executive officer, or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) an employee of a person so authorised. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) “**Pension function *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]**” means a function of administering schemes made under section 1 of the Superannuation Act 1972, and from time to time in force. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) “**Pension function *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]**” means a function of administering schemes made under section 1 of the Superannuation Act 1972, and from time to time in force. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(4) The chief executive officer may under sub-paragraph (2) authorise a person to exercise pension functions— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(4) The chief executive officer may under sub-paragraph (2) authorise a person to exercise pension functions— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) to their full extent or to a specified extent; *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) in all cases or in specified cases; *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (c) unconditionally or subject to specified conditions. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) to their full extent or to a specified extent; *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) in all cases or in specified cases; *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (c) unconditionally or subject to specified conditions. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(5) An authorisation under sub-paragraph (2)— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(5) An authorisation under sub-paragraph (2)— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) is to be treated for all purposes as given by virtue of an order under section 69 of the Deregulation and Contracting Out Act 1994 (contracting out of functions of Ministers and office-holders), and *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) may be revoked at any time by the Sponsor Body or the chief executive officer. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) is to be treated for all purposes as given by virtue of an order under section 69 of the Deregulation and Contracting Out Act 1994 (contracting out of functions of Ministers and office-holders), and *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) may be revoked at any time by the Sponsor Body or the chief executive officer. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Procedure (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Procedure (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**23.** (1) The Sponsor Body may (subject to this Schedule) determine its own procedure and the procedures of its committees and sub-committees. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**23.** (1) The Sponsor Body may (subject to this Schedule) determine its own procedure and the procedures of its committees and sub-committees. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) No proceedings of the Sponsor Body, or of its committees or sub-committees, are invalidated by a vacancy or a defective appointment. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) No proceedings of the Sponsor Body, or of its committees or sub-committees, are invalidated by a vacancy or a defective appointment. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**24.** (1) The quorum for a meeting of the Sponsor Body is 5 members, who must include at least 2 external members and at least 2 Parliamentary members. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**24.** (1) The quorum for a meeting of the Sponsor Body is 5 members, who must include at least 2 external members and at least 2 Parliamentary members. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) The Clerk of the Parliaments and the Clerk of the House of Commons, or their representatives, may attend and participate in meetings of the Sponsor Body. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) The Clerk of the Parliaments and the Clerk of the House of Commons, or their representatives, may attend and participate in meetings of the Sponsor Body. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) The Sponsor Body may nominate an external member to chair a particular meeting of the Sponsor Body if— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) The Sponsor Body may nominate an external member to chair a particular meeting of the Sponsor Body if— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) the office of chair is vacant, or the chair is suspended from office under paragraph 11(3), and no interim chair has been appointed under paragraph 14, or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) the chair is unable, unfit or unwilling to perform the chair's functions (whether because of illness or otherwise). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) the office of chair is vacant, or the chair is suspended from office under paragraph 11(3), and no interim chair has been appointed under paragraph 14, or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) the chair is unable, unfit or unwilling to perform the chair's functions (whether because of illness or otherwise). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Accounts and audit (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Accounts and audit (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**25.** (1) The Sponsor Body must keep proper accounts and proper records in relation to them. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**25.** (1) The Sponsor Body must keep proper accounts and proper records in relation to them. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) The Sponsor Body must prepare a statement of accounts for each financial year in accordance with directions given to it by the Treasury. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) The Sponsor Body must prepare a statement of accounts for each financial year in accordance with directions given to it by the Treasury. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) The directions that the Treasury may give under sub-paragraph (2) include, for example, directions as to— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) The directions that the Treasury may give under sub-paragraph (2) include, for example, directions as to— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) the content and form of the statement of accounts, *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) the methods and principles to be applied in preparing it, and *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (c) the additional information (if any) that is to be provided for the information of Parliament. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) the content and form of the statement of accounts, *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) the methods and principles to be applied in preparing it, and *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (c) the additional information (if any) that is to be provided for the information of Parliament. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(4) The chief executive officer is to be the Sponsor Body's accounting officer (but see paragraph 26). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(4) The chief executive officer is to be the Sponsor Body's accounting officer (but see paragraph 26). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(5) The accounting officer is to have, in relation to the Sponsor Body's accounts and finance, the responsibilities that are from time to time specified by the Sponsor Body. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(5) The accounting officer is to have, in relation to the Sponsor Body's accounts and finance, the responsibilities that are from time to time specified by the Sponsor Body. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(6) The reference in sub-paragraph (5) to responsibilities includes— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(6) The reference in sub-paragraph (5) to responsibilities includes— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) responsibilities in relation to the signing of accounts; *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) responsibilities for the propriety and regularity of the Sponsor Body's finances; *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (c) responsibilities for the economy, efficiency and effectiveness with which the Sponsor Body's resources are used; *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (d) responsibilities in relation to the appointment of the Delivery Authority's accounting officer. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) responsibilities in relation to the signing of accounts; *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) responsibilities for the propriety and regularity of the Sponsor Body's finances; *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (c) responsibilities for the economy, efficiency and effectiveness with which the Sponsor Body's resources are used; *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (d) responsibilities in relation to the appointment of the Delivery Authority's accounting officer. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(7) The Sponsor Body must send a copy of the statement of accounts for a financial year to the Comptroller and Auditor General as soon as practicable after the end of that year. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(7) The Sponsor Body must send a copy of the statement of accounts for a financial year to the Comptroller and Auditor General as soon as practicable after the end of that year. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(8) The Comptroller and Auditor General must— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(8) The Comptroller and Auditor General must— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) examine, certify and report on the statement of accounts, and *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) send a copy of the certified statement and of the report to the Sponsor Body as soon as practicable. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) examine, certify and report on the statement of accounts, and *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) send a copy of the certified statement and of the report to the Sponsor Body as soon as practicable. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(9) The Sponsor Body must, in respect of each financial year, lay before Parliament a copy of the certified statement and report sent under sub-paragraph (8)(b). *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(9) The Sponsor Body must, in respect of each financial year, lay before Parliament a copy of the certified statement and report sent under sub-paragraph (8)(b). *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**26.** (1) If the chief executive officer is unable to discharge the chief executive officer's responsibilities as accounting officer, the Sponsor Body must nominate a member of its staff to be the accounting officer for as long as the chief executive officer is so unable. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**26.** (1) If the chief executive officer is unable to discharge the chief executive officer's responsibilities as accounting officer, the Sponsor Body must nominate a member of its staff to be the accounting officer for as long as the chief executive officer is so unable. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) If the office of chief executive officer is vacant, the Sponsor Body must nominate a member of its staff to be the accounting officer for as long as the office of chief executive officer remains vacant. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) If the office of chief executive officer is vacant, the Sponsor Body must nominate a member of its staff to be the accounting officer for as long as the office of chief executive officer remains vacant. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Report (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Report (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**27.** (1) At least once in every calendar year, the Sponsor Body must prepare and lay before Parliament a report about the carrying out of the Parliamentary building works and the progress that has been made towards completion of those works. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**27.** (1) At least once in every calendar year, the Sponsor Body must prepare and lay before Parliament a report about the carrying out of the Parliamentary building works and the progress that has been made towards completion of those works. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) A report under this paragraph must in particular include information about persons to whom contracts in respect of the carrying out of the Parliamentary building works have been awarded, in particular— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) A report under this paragraph must in particular include information about persons to whom contracts in respect of the carrying out of the Parliamentary building works have been awarded, in particular— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) their size, and *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) the areas in which they operate. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) their size, and *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) the areas in which they operate. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) The Sponsor Body must publish each report prepared under this paragraph in whatever way the Sponsor Body considers appropriate. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) The Sponsor Body must publish each report prepared under this paragraph in whatever way the Sponsor Body considers appropriate. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Documentary evidence (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Documentary evidence (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**28.** (1) The application of the seal of the Sponsor Body must be authenticated by the signature of— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**28.** (1) The application of the seal of the Sponsor Body must be authenticated by the signature of— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) a member of the Sponsor Body, or *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) another person authorised for that purpose by the Sponsor Body. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) a member of the Sponsor Body, or *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) another person authorised for that purpose by the Sponsor Body. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(2) A document purporting to be duly executed under the Sponsor Body's seal or signed on its behalf— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(2) A document purporting to be duly executed under the Sponsor Body's seal or signed on its behalf— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-- (a) is to be received in evidence, and *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
-- (b) is to be taken to be executed or signed in that way, unless the contrary is shown. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+- (a) is to be received in evidence, and *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
+- (b) is to be taken to be executed or signed in that way, unless the contrary is shown. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-(3) Sub-paragraphs (1) and (2) do not extend to Scotland. *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+(3) Sub-paragraphs (1) and (2) do not extend to Scotland. *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-#### Freedom of information (affected by repeal, see note)[^key-58368c8eb16e0c9994334239bf6e7d56]
+#### Freedom of information (affected by repeal, see note)[^c-58368c8eb16e0c9994334239bf6e7d56]
 
-**29.** In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies and offices which are public authorities) at the appropriate place insert— *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56] “ The Parliamentary Works Sponsor Body. ” *(affected by repeal, see note)*[^key-58368c8eb16e0c9994334239bf6e7d56]
+**29.** In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies and offices which are public authorities) at the appropriate place insert— *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56] “ The Parliamentary Works Sponsor Body. ” *(affected by repeal, see note)*[^c-58368c8eb16e0c9994334239bf6e7d56]
 
 ## SCHEDULE 2 — The Delivery Authority
 
@@ -767,11 +767,11 @@ Section 3
 - (a) a member of either House of Parliament,
 - (b) a Minister of the Crown,
 - (c) a member of either of the House Commissions,
-- (d)[^key-7653e96e747359816a4cc9886727f25a] the Corporate Officer of the House of Commons or the Corporate Officer of the House of Lords,
+- (d)[^c-7653e96e747359816a4cc9886727f25a] the Corporate Officer of the House of Commons or the Corporate Officer of the House of Lords,
 - (da) employed (under a contract of employment) by the House of Commons Commission, by the Corporate Officer of the House of Lords or by the Corporate Officers as a member of staff of a joint department of the two Houses,
 - (e) a member of the Estimates Commission.
 
-(4) But sub-paragraph (3)(a) and (da)[^key-6a1fc0230e5d28471cd807785e3678ef] does not apply in relation to the appointment of a person within sub-paragraph (1)(c).
+(4) But sub-paragraph (3)(a) and (da)[^c-6a1fc0230e5d28471cd807785e3678ef] does not apply in relation to the appointment of a person within sub-paragraph (1)(c).
 
 (5) The number of non-executive directors appointed by the Delivery Authority must be greater than the number of executive directors.
 
@@ -810,10 +810,10 @@ Section 3
 - (a) a member of either House of Parliament,
 - (b) a Minister of the Crown,
 - (c) a member of either of the House Commissions,
-- (d)[^key-a02c3b922839ff00b787058299b49465] the Corporate Officer of the House of Commons or the Corporate Officer of the House of Lords, or
+- (d)[^c-a02c3b922839ff00b787058299b49465] the Corporate Officer of the House of Commons or the Corporate Officer of the House of Lords, or
 - (e) employed (under a contract of employment) by the House of Commons Commission, by the Corporate Officer of the House of Lords or by the Corporate Officers as a member of staff of a joint department of the two Houses.
 
-(2) But sub-paragraph (1)(a) and (e)[^key-46d1e013acc855d07567eae407c802f5] does not apply in the case of a director within paragraph 1(1)(c).
+(2) But sub-paragraph (1)(a) and (e)[^c-46d1e013acc855d07567eae407c802f5] does not apply in the case of a director within paragraph 1(1)(c).
 
 ### Validity of acts
 
@@ -855,9 +855,9 @@ Section 3
 
 (2) The Delivery Authority must prepare a statement of accounts for each financial year.
 
-(3) The Corporate Officers[^key-01b16d2d3e778f5f0cebec77a4bdb76a] must, after consulting the Delivery Authority, appoint one of the Delivery Authority's executive directors to be the Delivery Authority's accounting officer.
+(3) The Corporate Officers[^c-01b16d2d3e778f5f0cebec77a4bdb76a] must, after consulting the Delivery Authority, appoint one of the Delivery Authority's executive directors to be the Delivery Authority's accounting officer.
 
-(4) The Delivery Authority's accounting officer is to have, in relation to the Delivery Authority's accounts and finance, the responsibilities that are from time to time specified by the Corporate Officers[^key-6a9ea7b11c5be90808ad1cec760734b5].
+(4) The Delivery Authority's accounting officer is to have, in relation to the Delivery Authority's accounts and finance, the responsibilities that are from time to time specified by the Corporate Officers[^c-6a9ea7b11c5be90808ad1cec760734b5].
 
 (5) The reference in sub-paragraph (4) to responsibilities includes—
 
@@ -880,7 +880,7 @@ Section 3
 
 (2) If there is no accounting officer, the Delivery Authority must nominate one of its executive directors to be the accounting officer until an accounting officer is appointed.
 
-(3) A nomination under this paragraph requires the consent of the Corporate Officers[^key-7e30804d7a5690408e69c0397eabd0b0].
+(3) A nomination under this paragraph requires the consent of the Corporate Officers[^c-7e30804d7a5690408e69c0397eabd0b0].
 
 ### Freedom of information
 
@@ -900,7 +900,7 @@ Section 8
 (2) A person may not be appointed as a member of the Estimates Commission if the person is—
 
 - (a) a Minister of the Crown,
-- (b) a Parliamentary member of the Sponsor Body, or *(affected by repeal, see note)*[^key-f7760f70a90018a120dfba7bfbe6d57d]
+- (b) a Parliamentary member of the Sponsor Body, or *(affected by repeal, see note)*[^c-f7760f70a90018a120dfba7bfbe6d57d]
 - (c) a director of the Delivery Authority.
 
 (3) The appointment of a member of the Estimates Commission does not have effect unless it is confirmed by a resolution of the House of Parliament from which the person is drawn.
@@ -1151,60 +1151,60 @@ Section 9
 
 ## Annotations
 
-[^key-acf2796e0bd554236a3d8a70f44a04b2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2019/27) modified (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(7)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/7) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-acf2796e0bd554236a3d8a70f44a04b2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2019/27) modified (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(7)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/7) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-87d119b9a8de05ec10695e6baad4b684]: Textual amendment: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2019/27/section/2/1) ceases to have effect (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/2/a) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-87d119b9a8de05ec10695e6baad4b684]: Textual amendment: [S. 2(1)](https://www.legislation.gov.uk/ukpga/2019/27/section/2/1) ceases to have effect (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/2/a) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-66772eea2b67ece631e14394b5b3b648]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukpga/2019/27/section/2/1A) inserted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/3) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-66772eea2b67ece631e14394b5b3b648]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukpga/2019/27/section/2/1A) inserted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/3) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-ff5fb0292e191daf9fb5368e3a8a42da]: Modification: [S. 2(2)-(5)](https://www.legislation.gov.uk/ukpga/2019/27/section/2/2) applied (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/4/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-ff5fb0292e191daf9fb5368e3a8a42da]: Modification: [S. 2(2)-(5)](https://www.legislation.gov.uk/ukpga/2019/27/section/2/2) applied (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/4/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-a4130d5b07f156116f905e3ba4cdd693]: Textual amendment: [S. 2(6)](https://www.legislation.gov.uk/ukpga/2019/27/section/2/6) ceases to have effect (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/2/a) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-a4130d5b07f156116f905e3ba4cdd693]: Textual amendment: [S. 2(6)](https://www.legislation.gov.uk/ukpga/2019/27/section/2/6) ceases to have effect (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/2/a) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-29d16712fc545a01dd6b9e28eb4b44a8]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/2019/27/section/2A) inserted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [7](https://www.legislation.gov.uk/uksi/2022/1360/regulation/7) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-29d16712fc545a01dd6b9e28eb4b44a8]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/2019/27/section/2A) inserted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [7](https://www.legislation.gov.uk/uksi/2022/1360/regulation/7) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-75a5bf740b2330d7428293cc30d29676]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2019/27/section/6) ceases to have effect (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-75a5bf740b2330d7428293cc30d29676]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2019/27/section/6) ceases to have effect (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/2/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-7ec3eb7c175fb7e59cdecacb82ba1b59]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/2019/27/section/9) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [8](https://www.legislation.gov.uk/uksi/2022/1360/regulation/8) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-7ec3eb7c175fb7e59cdecacb82ba1b59]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/2019/27/section/9) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [8](https://www.legislation.gov.uk/uksi/2022/1360/regulation/8) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-3bbb73ef0bf162836fa3b807f40c7b14]: Textual amendment: [S. 10(1)(a)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/1/a) omitted (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/a) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-3bbb73ef0bf162836fa3b807f40c7b14]: Textual amendment: [S. 10(1)(a)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/1/a) omitted (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/a) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-c8255bddf990d7b7b596b1042dc8fbcd]: Textual amendment: [S. 10(2)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/2) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-c8255bddf990d7b7b596b1042dc8fbcd]: Textual amendment: [S. 10(2)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/2) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-aa90da15af00ae60eb4b5593f4efb201]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/3) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/c) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-aa90da15af00ae60eb4b5593f4efb201]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/3) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/c) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-e15d7d5a67c45a5ffe167527b8ddccc1]: Textual amendment: Words in [s. 10(4)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/4) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/c) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-e15d7d5a67c45a5ffe167527b8ddccc1]: Textual amendment: Words in [s. 10(4)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/4) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/c) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-853018c658370b43ba709ffc28fa5ce9]: Textual amendment: Words in [s. 10(5)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/5) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/c) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-853018c658370b43ba709ffc28fa5ce9]: Textual amendment: Words in [s. 10(5)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/5) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/c) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-dfaff1f40330b171349c9fae78a417c3]: Textual amendment: Words in [s. 10(5)(b)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/5/b) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(d)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/d) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-dfaff1f40330b171349c9fae78a417c3]: Textual amendment: Words in [s. 10(5)(b)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/5/b) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(d)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/d) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-d0f393cd8a3ad51a7114e4a4453dfbec]: Textual amendment: Words in [s. 10(5)(c)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/5/c) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(d)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/d) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-d0f393cd8a3ad51a7114e4a4453dfbec]: Textual amendment: Words in [s. 10(5)(c)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/5/c) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(d)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/d) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-404972da382baeff838a755d21139021]: Textual amendment: Words in [s. 10(8)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/8) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(e)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/e) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-404972da382baeff838a755d21139021]: Textual amendment: Words in [s. 10(8)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/8) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(e)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/e) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-1e7a64c8bb96b335a3d0407ca4a28528]: Textual amendment: Words in [s. 10(9)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/9) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(e)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/e) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-1e7a64c8bb96b335a3d0407ca4a28528]: Textual amendment: Words in [s. 10(9)](https://www.legislation.gov.uk/ukpga/2019/27/section/10/9) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(4)(e)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/4/e) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-b6492222e6580c23cabae2deb44da095]: Textual amendment: [S. 11(b)(i)](https://www.legislation.gov.uk/ukpga/2019/27/section/11/b/i)[(ii)](https://www.legislation.gov.uk/ukpga/2019/27/section/11/b/ii) cease to have effect (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/2/c) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-b6492222e6580c23cabae2deb44da095]: Textual amendment: [S. 11(b)(i)](https://www.legislation.gov.uk/ukpga/2019/27/section/11/b/i)[(ii)](https://www.legislation.gov.uk/ukpga/2019/27/section/11/b/ii) cease to have effect (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/2/c) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-b28417804c4bf513acd2ea3345489d0f]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/2019/27/section/12/1) inserted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/5/a) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-b28417804c4bf513acd2ea3345489d0f]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/2019/27/section/12/1) inserted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/5/a) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-8d712786d959195cb164340c50441eae]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/2019/27/section/12/1) added (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(5)(b)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/5/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-8d712786d959195cb164340c50441eae]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/2019/27/section/12/1) added (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(5)(b)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/5/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-58368c8eb16e0c9994334239bf6e7d56]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/2019/27/schedule/1) ceases to have effect (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/2/a) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-58368c8eb16e0c9994334239bf6e7d56]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/2019/27/schedule/1) ceases to have effect (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/2/a) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-7653e96e747359816a4cc9886727f25a]: Textual amendment: [Sch. 2 para. 1(3)(d)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/1/3/d)[(da)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/1/3/da) substituted for [Sch. 2](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2) [para. 1(3)(d)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/1/3/d) (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(6)(a)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/6/a) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-7653e96e747359816a4cc9886727f25a]: Textual amendment: [Sch. 2 para. 1(3)(d)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/1/3/d)[(da)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/1/3/da) substituted for [Sch. 2](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2) [para. 1(3)(d)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/1/3/d) (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(6)(a)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/6/a) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-6a1fc0230e5d28471cd807785e3678ef]: Textual amendment: Words in [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/1/4) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(6)(b)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/6/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-6a1fc0230e5d28471cd807785e3678ef]: Textual amendment: Words in [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/1/4) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(6)(b)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/6/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-a02c3b922839ff00b787058299b49465]: Textual amendment: [Sch. 2 para. 4(1)(d)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/4/1/d)[(e)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/4/1/e) substituted for [Sch. 2](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2) [para. 4(1)(d)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/4/1/d) and word (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(6)(b)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/6/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-a02c3b922839ff00b787058299b49465]: Textual amendment: [Sch. 2 para. 4(1)(d)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/4/1/d)[(e)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/4/1/e) substituted for [Sch. 2](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2) [para. 4(1)(d)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/4/1/d) and word (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(6)(b)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/6/b) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-46d1e013acc855d07567eae407c802f5]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/4/2) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(6)(d)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/6/d) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-46d1e013acc855d07567eae407c802f5]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/4/2) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(6)(d)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/6/d) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-01b16d2d3e778f5f0cebec77a4bdb76a]: Textual amendment: Words in [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/9/3) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(6)(e)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/6/e) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-01b16d2d3e778f5f0cebec77a4bdb76a]: Textual amendment: Words in [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/9/3) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(6)(e)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/6/e) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-6a9ea7b11c5be90808ad1cec760734b5]: Textual amendment: Words in [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/9/4) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(6)(f)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/6/f) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-6a9ea7b11c5be90808ad1cec760734b5]: Textual amendment: Words in [Sch. 2 para. 9(4)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/9/4) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(6)(f)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/6/f) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-7e30804d7a5690408e69c0397eabd0b0]: Textual amendment: Words in [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/10/3) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(6)(g)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/6/g) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-7e30804d7a5690408e69c0397eabd0b0]: Textual amendment: Words in [Sch. 2 para. 10(3)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/10/3) substituted (1.1.2023) by [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(6)(g)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/6/g) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
 
-[^key-f7760f70a90018a120dfba7bfbe6d57d]: Textual amendment: [Sch. 3 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/3/paragraph/1/2/b) ceases to have effect (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(2)(d)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/2/d) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))
+[^c-f7760f70a90018a120dfba7bfbe6d57d]: Textual amendment: [Sch. 3 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/3/paragraph/1/2/b) ceases to have effect (1.1.2023) by virtue of [The Parliamentary Works Sponsor Body (Abolition) Regulations 2022 (S.I. 2022/1360)](https://www.legislation.gov.uk/uksi/2022/1360), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1), [9(2)(d)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/9/2/d) (with [reg. 11](https://www.legislation.gov.uk/uksi/2022/1360/regulation/11))

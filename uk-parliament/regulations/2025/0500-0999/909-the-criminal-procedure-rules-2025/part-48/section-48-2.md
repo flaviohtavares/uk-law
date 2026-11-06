@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.2. Exercise of court’s power to deal with contempt of court[^key-a5e6740a6f236e3ca2778204699b1e60]
+## 48.2. Exercise of court’s power to deal with contempt of court[^c-a5e6740a6f236e3ca2778204699b1e60]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5e6740a6f236e3ca2778204699b1e60]: Commencement: [Rule 48.2](https://www.legislation.gov.uk/uksi/2025/909/rule/48.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a5e6740a6f236e3ca2778204699b1e60]: Commencement: [Rule 48.2](https://www.legislation.gov.uk/uksi/2025/909/rule/48.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

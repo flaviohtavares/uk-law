@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Power to make further provision regarding statutory nuisances[^key-387b1e4d8f7df22b62b8a8a3465a631d]
+## 112. Power to make further provision regarding statutory nuisances[^c-387b1e4d8f7df22b62b8a8a3465a631d]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-387b1e4d8f7df22b62b8a8a3465a631d]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2008/5/section/112) in force at 26.1.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
+[^c-387b1e4d8f7df22b62b8a8a3465a631d]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2008/5/section/112) in force at 26.1.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)

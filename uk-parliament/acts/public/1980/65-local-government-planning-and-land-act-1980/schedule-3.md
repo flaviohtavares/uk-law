@@ -49,7 +49,7 @@ Section 1(3)
 
 **5.** In section 61(3), omit paragraph (b) of the proviso (directions as to application of enactments).
 
-**6.**[^key-3b6738a1bdbafd7a97ca3c349b4c341d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3b6738a1bdbafd7a97ca3c349b4c341d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** For section 69 substitute—
 
@@ -101,4 +101,4 @@ Section 1(3)
 
 [^c13882571]: Modification: The text of Schs. 2, 3, Sch. 4 paras. 1(1)(2)–(4), 10, Sch. 5, Sch. 6 paras. 1, 4–6, 10–16, 21, Sch. 7 Pt. I paras. 2(2)(5)(6), 3(2)(4), 6, 7, 8, Sch. 7 Pt. II paras. 14(1), 15, Sch. 23 Pt. II para. 2, Pt. III paras. 3–7, Pt. V paras. 12–20, Pt. VI para. 21, Sch. 25 Pt. II para. 7, Pt. III para. 8, Pt. IV para. 9, Sch. 26 para. 18, Sch. 33 paras. 1–5, 7, 13, 14 Sch. 34, Sch. 32 Pt. III para. 19 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-3b6738a1bdbafd7a97ca3c349b4c341d]: Textual amendment: Sch. 3 para. 6 repealed (1.4.2001 (E.); 1.5.2001 (W.); 28.5.2005 (S.)) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [s. 102](https://www.legislation.gov.uk/ukpga/2000/37/section/102), [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I); [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2(k)](https://www.legislation.gov.uk/uksi/2001/114/article/2/k), (with art. 3); [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2(m)](https://www.legislation.gov.uk/uksi/2001/1410/article/2/m) (with [art. 3](https://www.legislation.gov.uk/uksi/2001/1410/article/3)); [S.I. 2005/423](https://www.legislation.gov.uk/uksi/2005/423), [art. 2(i)](https://www.legislation.gov.uk/uksi/2005/423/article/2/i)
+[^c-3b6738a1bdbafd7a97ca3c349b4c341d]: Textual amendment: Sch. 3 para. 6 repealed (1.4.2001 (E.); 1.5.2001 (W.); 28.5.2005 (S.)) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [s. 102](https://www.legislation.gov.uk/ukpga/2000/37/section/102), [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/37/schedule/16/part/I); [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2(k)](https://www.legislation.gov.uk/uksi/2001/114/article/2/k), (with art. 3); [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2(m)](https://www.legislation.gov.uk/uksi/2001/1410/article/2/m) (with [art. 3](https://www.legislation.gov.uk/uksi/2001/1410/article/3)); [S.I. 2005/423](https://www.legislation.gov.uk/uksi/2005/423), [art. 2(i)](https://www.legislation.gov.uk/uksi/2005/423/article/2/i)

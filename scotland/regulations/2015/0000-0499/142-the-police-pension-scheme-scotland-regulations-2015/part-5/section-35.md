@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Descriptions of accrued pension[^key-98dd74f9a4922832f479a9af98a871c9]
+## 35. Descriptions of accrued pension[^c-98dd74f9a4922832f479a9af98a871c9]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ For the purpose of these Regulations, the descriptions of accrued pension are—
 
 ## Annotations
 
-[^key-98dd74f9a4922832f479a9af98a871c9]: Commencement: Reg. 35 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-98dd74f9a4922832f479a9af98a871c9]: Commencement: Reg. 35 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

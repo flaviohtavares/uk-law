@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Traffic signs[^key-94f1fdb8d72d9b165a6cb4e0e8ad2629]
+## 22. Traffic signs[^c-94f1fdb8d72d9b165a6cb4e0e8ad2629]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ the traffic authority for the road on which a sign has been placed must maintain
 
 ## Annotations
 
-[^key-94f1fdb8d72d9b165a6cb4e0e8ad2629]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2019/17/section/22) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-94f1fdb8d72d9b165a6cb4e0e8ad2629]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2019/17/section/22) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

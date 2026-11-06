@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38B. Performance requirements for coronavirus test devices[^key-10bf6fc9f6e76a5638f93d1bba14c747]
+## 38B. Performance requirements for coronavirus test devices[^c-10bf6fc9f6e76a5638f93d1bba14c747]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10bf6fc9f6e76a5638f93d1bba14c747]: Textual amendment: [Regs. 38A-38C](https://www.legislation.gov.uk/uksi/2002/618/regulation/38A) inserted (28.7.2021) by [The Medical Devices (Coronavirus Test Device Approvals) (Amendment) Regulations 2021 (S.I. 2021/910)](https://www.legislation.gov.uk/uksi/2021/910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/910/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2021/910/regulation/6)
+[^c-10bf6fc9f6e76a5638f93d1bba14c747]: Textual amendment: [Regs. 38A-38C](https://www.legislation.gov.uk/uksi/2002/618/regulation/38A) inserted (28.7.2021) by [The Medical Devices (Coronavirus Test Device Approvals) (Amendment) Regulations 2021 (S.I. 2021/910)](https://www.legislation.gov.uk/uksi/2021/910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/910/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2021/910/regulation/6)

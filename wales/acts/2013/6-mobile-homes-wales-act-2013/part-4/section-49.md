@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Particulars of agreements[^key-2ef468507ce6b21f807b57363f13cd8e]
+## 49. Particulars of agreements[^c-2ef468507ce6b21f807b57363f13cd8e]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 (4) If any express term other than a site rule—
 
-- (a) is contained in an agreement to which this Part[^key-19463d68aee7257df290f6df5117931b] applies, but
+- (a) is contained in an agreement to which this Part[^c-19463d68aee7257df290f6df5117931b] applies, but
 - (b) was not set out in a written statement given to the proposed occupier in accordance with subsections (1) to (3),
 
 the term is unenforceable by the owner or any person within section 53(1); but this is subject to any order made by the appropriate judicial body under section 50(3).
@@ -55,6 +55,6 @@ the term is unenforceable by the owner or any person within section 53(1); but t
 
 ## Annotations
 
-[^key-2ef468507ce6b21f807b57363f13cd8e]: Commencement: S. 49 in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-2ef468507ce6b21f807b57363f13cd8e]: Commencement: S. 49 in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-19463d68aee7257df290f6df5117931b]: Textual amendment: Word in [s. 49(4)](https://www.legislation.gov.uk/anaw/2013/6/section/49/4) substituted (1.12.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 30(5)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/30/5); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-19463d68aee7257df290f6df5117931b]: Textual amendment: Word in [s. 49(4)](https://www.legislation.gov.uk/anaw/2013/6/section/49/4) substituted (1.12.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 30(5)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/30/5); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

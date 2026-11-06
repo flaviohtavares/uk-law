@@ -44,9 +44,9 @@ are to be treated as performed outside the United Kingdom for the purposes of se
 (5) For the purposes of subsections (3) and (4)—
 
 - (a) employment “**as a seafarer**” means an employment consisting of the performance of duties on a ship or of such duties and others incidental to them;
-- (b)[^key-81101366de173598fb08337574dd4c98] “**ship**” does not include an offshore installation;
+- (b)[^c-81101366de173598fb08337574dd4c98] “**ship**” does not include an offshore installation;
 - (c) the areas designated under section 1(7) of the Continental Shelf Act 1964 (c. 29) are treated as part of the United Kingdom.
 
 ## Annotations
 
-[^key-81101366de173598fb08337574dd4c98]: Textual amendment: S. 40(5)(b) substituted (with effect in accordance with Sch. 27 para. 16 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 27 para. 12](https://www.legislation.gov.uk/ukpga/2004/12/schedule/27/paragraph/12)
+[^c-81101366de173598fb08337574dd4c98]: Textual amendment: S. 40(5)(b) substituted (with effect in accordance with Sch. 27 para. 16 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 27 para. 12](https://www.legislation.gov.uk/ukpga/2004/12/schedule/27/paragraph/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Undue influence[^key-0e46772c242420d969d45be546068e52]
+## 79. Undue influence[^c-0e46772c242420d969d45be546068e52]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e46772c242420d969d45be546068e52]: Commencement: Art. 79 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-0e46772c242420d969d45be546068e52]: Commencement: Art. 79 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

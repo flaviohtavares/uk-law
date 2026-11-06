@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Amendment to regulation 64[^key-215c4376231d5ded910513b6b0964ce3]
+## 52. Amendment to regulation 64[^c-215c4376231d5ded910513b6b0964ce3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 64(4)(d) (duties of licensing authority in connection with determi
 
 ## Annotations
 
-[^key-215c4376231d5ded910513b6b0964ce3]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2024/832/regulation/52) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-215c4376231d5ded910513b6b0964ce3]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2024/832/regulation/52) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00063]: Footnote: Paragraph (4)(d) was substituted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

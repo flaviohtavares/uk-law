@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Levy on licence holders[^key-49ce31ef33c3879353221c74e388101f]
+## 13. Levy on licence holders[^c-49ce31ef33c3879353221c74e388101f]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49ce31ef33c3879353221c74e388101f]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2016/20/section/13) in force at 12.7.2016 by [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/602/regulation/3/e) (as substituted by S.I. 2016/710, reg. 2)
+[^c-49ce31ef33c3879353221c74e388101f]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2016/20/section/13) in force at 12.7.2016 by [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/602/regulation/3/e) (as substituted by S.I. 2016/710, reg. 2)

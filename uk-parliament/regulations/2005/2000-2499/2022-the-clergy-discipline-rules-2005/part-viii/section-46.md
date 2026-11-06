@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 46. Tribunal may require personal attendance of witness[^key-eb56b0542efa3d4fa64f5f585fba468a]
+## 46. Tribunal may require personal attendance of witness[^c-eb56b0542efa3d4fa64f5f585fba468a]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ The tribunal may at any stage of the proceedings require the personal attendance
 
 ## Annotations
 
-[^key-eb56b0542efa3d4fa64f5f585fba468a]: Commencement: [Rule 46](https://www.legislation.gov.uk/uksi/2005/2022/rule/46) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-eb56b0542efa3d4fa64f5f585fba468a]: Commencement: [Rule 46](https://www.legislation.gov.uk/uksi/2005/2022/rule/46) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

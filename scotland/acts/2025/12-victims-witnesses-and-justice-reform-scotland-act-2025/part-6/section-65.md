@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Verdict of guilty or not guilty and majority required for guilty verdict[^key-44b6ede3ddcc0f14b21d2c6908a89d9e][^key-bd407b53f8bca93819d37a4a0950a73e]
+## 65. Verdict of guilty or not guilty and majority required for guilty verdict[^c-44b6ede3ddcc0f14b21d2c6908a89d9e][^c-bd407b53f8bca93819d37a4a0950a73e]
 
 *Extent: S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-44b6ede3ddcc0f14b21d2c6908a89d9e]: Commencement: S. 65 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-44b6ede3ddcc0f14b21d2c6908a89d9e]: Commencement: S. 65 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-bd407b53f8bca93819d37a4a0950a73e]: Commencement: S. 65 in force at 1.1.2026 by [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/393/regulation/3))
+[^c-bd407b53f8bca93819d37a4a0950a73e]: Commencement: S. 65 in force at 1.1.2026 by [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/393/regulation/3))

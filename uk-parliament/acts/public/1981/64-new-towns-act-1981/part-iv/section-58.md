@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Advances and grants to development corporations ....[^key-747e29b9d2ab0247446edc576244483d]
+## 58. Advances and grants to development corporations ....[^c-747e29b9d2ab0247446edc576244483d]
 
 *Extent: E+W*
 
@@ -33,18 +33,18 @@ the Secretary of State may (subject to section 60 below) make to the corporation
 
 (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c253228]
 
-(5)[^key-a7331e103ac2d4608e55f3dac45cc482] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a7331e103ac2d4608e55f3dac45cc482] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-9dacaab084c696c2531a5d07e0888eaf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-9dacaab084c696c2531a5d07e0888eaf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-747e29b9d2ab0247446edc576244483d]: Textual amendment: Words in s. 58 heading repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 10(2)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/10/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-747e29b9d2ab0247446edc576244483d]: Textual amendment: Words in s. 58 heading repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 10(2)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/10/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
 
 [^c253227]: Textual amendment: Words substituted by [New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4)](https://www.legislation.gov.uk/ukpga/1985/5), [s. 14(1)](https://www.legislation.gov.uk/ukpga/1985/5/section/14/1), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/1985/5/schedule/3/paragraph/8)
 
 [^c253228]: Textual amendment: S. 58(2)(4) repealed by [New Towns and Urban Development Corporations Act 1985 (c. 5, SIF 123:3, 4)](https://www.legislation.gov.uk/ukpga/1985/5), [s. 14(2)](https://www.legislation.gov.uk/ukpga/1985/5/section/14/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1985/5/schedule/4)
 
-[^key-a7331e103ac2d4608e55f3dac45cc482]: Textual amendment: S. 58(5) repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 10(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/10/3), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-a7331e103ac2d4608e55f3dac45cc482]: Textual amendment: S. 58(5) repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 10(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/10/3), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
 
-[^key-9dacaab084c696c2531a5d07e0888eaf]: Textual amendment: S. 58(6) repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 10(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/10/3), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-9dacaab084c696c2531a5d07e0888eaf]: Textual amendment: S. 58(6) repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 10(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/10/3), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(1)](https://www.legislation.gov.uk/uksi/2009/803/article/3/1), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)

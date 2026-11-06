@@ -38,7 +38,7 @@ summary: ''
 
 the debtor shall at that time become liable to pay to that person the amount payable under the arrangement.
 
-(3)[^key-6266ca2c6546b33b7fa07dd204cf3d33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6266ca2c6546b33b7fa07dd204cf3d33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Any interim order in force in relation to the debtor immediately preceding the expiration of the period of 28 days from the day on which the report with respect to the creditors' meeting was made to the High Court under Article 233 ceases to have effect at the end of that period.
 
@@ -50,4 +50,4 @@ the debtor shall at that time become liable to pay to that person the amount pay
 
 [^c17600621]: Textual amendment: [2002 NI 6](https://www.legislation.gov.uk/2002/ni6)
 
-[^key-6266ca2c6546b33b7fa07dd204cf3d33]: Textual amendment: [Art. 234(3)](https://www.legislation.gov.uk/nisi/1989/2405/article/234/3) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-6266ca2c6546b33b7fa07dd204cf3d33]: Textual amendment: [Art. 234(3)](https://www.legislation.gov.uk/nisi/1989/2405/article/234/3) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

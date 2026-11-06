@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Power to impose conditions on grant of listed building consent.[^key-0481d14bae1c8a1056cb3179ae30282c]
+## 15. Power to impose conditions on grant of listed building consent.[^c-0481d14bae1c8a1056cb3179ae30282c]
 
 *Extent: S*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) In granting a listed building consent a planning authority may attach to the consent a condition that no demolition of the listed building shall take place until either or both of the following requirements have been met—
 
-- (a) a planning obligation under section 75 of the principal Act[^key-c3f3e8dd14545926d0bcd27f249ddb02] for the regulation of the development of the site of the listed building in accordance with a current planning permission has been entered into and the relevant instrument by which that obligation is entered into has been recorded in the Register of Sasines or, as the case may be, registered in the Land Register of Scotland under that section[^key-3af0dac205c23ba5bd7bbd475ae5e340] ;
+- (a) a planning obligation under section 75 of the principal Act[^c-c3f3e8dd14545926d0bcd27f249ddb02] for the regulation of the development of the site of the listed building in accordance with a current planning permission has been entered into and the relevant instrument by which that obligation is entered into has been recorded in the Register of Sasines or, as the case may be, registered in the Land Register of Scotland under that section[^c-3af0dac205c23ba5bd7bbd475ae5e340] ;
 - (b) the planning authority are satisfied that contracts have been placed either—
   - (i) for the redevelopment of the site, or
   - (ii) for its conversion to an acceptable open space,
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0481d14bae1c8a1056cb3179ae30282c]: Modification: Ss. 6-25 applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
+[^c-0481d14bae1c8a1056cb3179ae30282c]: Modification: Ss. 6-25 applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
 
-[^key-c3f3e8dd14545926d0bcd27f249ddb02]: Textual amendment: Words in s. 15(3)(a) substituted (3.8.2009) by [The Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2009/256/article/1/3), [3(2)(a)](https://www.legislation.gov.uk/ssi/2009/256/article/3/2/a)
+[^c-c3f3e8dd14545926d0bcd27f249ddb02]: Textual amendment: Words in s. 15(3)(a) substituted (3.8.2009) by [The Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2009/256/article/1/3), [3(2)(a)](https://www.legislation.gov.uk/ssi/2009/256/article/3/2/a)
 
-[^key-3af0dac205c23ba5bd7bbd475ae5e340]: Textual amendment: Words in s. 15(3)(a) substituted (3.8.2009) by [The Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2009/256/article/1/3), [3(2)(b)](https://www.legislation.gov.uk/ssi/2009/256/article/3/2/b)
+[^c-3af0dac205c23ba5bd7bbd475ae5e340]: Textual amendment: Words in s. 15(3)(a) substituted (3.8.2009) by [The Planning etc. (Scotland) Act 2006 (Consequential Amendments) Order 2009 (S.S.I. 2009/256)](https://www.legislation.gov.uk/ssi/2009/256), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2009/256/article/1/3), [3(2)(b)](https://www.legislation.gov.uk/ssi/2009/256/article/3/2/b)

@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## PART 1 — DEFINED EXPRESSIONS IN THIS ACT
 
-### 1. Defined expressions in this Act[^key-75ed44b2153e12ad4428be0f12353643]
+### 1. Defined expressions in this Act[^c-75ed44b2153e12ad4428be0f12353643]
 
 In this Act—
 
@@ -49,7 +49,7 @@ In this Act—
 
 ### Shared parental leave
 
-#### 2. Shared parental leave[^key-57c8aa66e16e0077a7345014664f9606]
+#### 2. Shared parental leave[^c-57c8aa66e16e0077a7345014664f9606]
 
 (1) The Employment Rights Order is amended as follows.
 
@@ -413,7 +413,7 @@ In this Act—
 
 (3) In Article 251 (orders and regulations), in paragraph (1A) (regulations to which confirmatory procedure applies), after “107B,” insert “ 107E, 107F(16), 107G, 107I(16), 107J(1) or (2), ”.
 
-#### 3. Exclusion or curtailment of other statutory rights to leave[^key-7eacd5439b76248a96a5ab3806684925]
+#### 3. Exclusion or curtailment of other statutory rights to leave[^c-7eacd5439b76248a96a5ab3806684925]
 
 (1) The Employment Rights Order is amended as follows.
 
@@ -488,13 +488,13 @@ In this Act—
 
 .
 
-#### 4. Abolition of additional paternity leave[^key-7e254cd27a1ac0684e26a3047e02fe79]
+#### 4. Abolition of additional paternity leave[^c-7e254cd27a1ac0684e26a3047e02fe79]
 
 In Part 9 of the Employment Rights Order, omit Articles 112AA and 112BB (entitlement to additional paternity leave: birth and adoption).
 
 ### Statutory shared parental pay
 
-#### 5. Statutory shared parental pay[^key-c52e57d1ceaaf1239697f96bcb6632d5]
+#### 5. Statutory shared parental pay[^c-c52e57d1ceaaf1239697f96bcb6632d5]
 
 (1) The Contributions and Benefits Act is amended as follows.
 
@@ -926,7 +926,7 @@ In Part 9 of the Employment Rights Order, omit Articles 112AA and 112BB (entitle
 
 (3) In section 172 (Assembly etc. control of regulations and orders), in subsection (2) (regulations and orders to which confirmatory procedure applies), in paragraph (a), after “167ZN(1)” insert “ or any of sections 167ZU to 167ZZ2 ”.
 
-#### 6. Exclusion or curtailment of other statutory rights to pay[^key-75e2325228a888ae37b9837863f083b7]
+#### 6. Exclusion or curtailment of other statutory rights to pay[^c-75e2325228a888ae37b9837863f083b7]
 
 (1) The Contributions and Benefits Act is amended as follows.
 
@@ -1005,13 +1005,13 @@ In Part 9 of the Employment Rights Order, omit Articles 112AA and 112BB (entitle
 
 .
 
-#### 7. Abolition of additional paternity pay[^key-3bdddb8bb117c04ecefa8e7d7efc35f4]
+#### 7. Abolition of additional paternity pay[^c-3bdddb8bb117c04ecefa8e7d7efc35f4]
 
 In Part 12ZA of the Contributions and Benefits Act, omit sections 167ZEA to 167ZEE (additional statutory paternity pay: birth and adoption).
 
 ### Other statutory rights
 
-#### 8. Other statutory rights to leave of prospective adopters with whom looked after children are placed[^key-962d5b523b588f26c16d24df96b92807]
+#### 8. Other statutory rights to leave of prospective adopters with whom looked after children are placed[^c-962d5b523b588f26c16d24df96b92807]
 
 (1) The Employment Rights Order is amended as follows.
 
@@ -1076,7 +1076,7 @@ In Part 12ZA of the Contributions and Benefits Act, omit sections 167ZEA to 167Z
 
 .
 
-#### 9. Other statutory rights to pay of prospective adopters with whom looked after children are placed[^key-447a283fcab276a284fd69b3a5fcb862]
+#### 9. Other statutory rights to pay of prospective adopters with whom looked after children are placed[^c-447a283fcab276a284fd69b3a5fcb862]
 
 (1) The Contributions and Benefits Act is amended as follows.
 
@@ -1153,7 +1153,7 @@ In Part 12ZA of the Contributions and Benefits Act, omit sections 167ZEA to 167Z
 
 .
 
-#### 10. Other statutory rights to leave of applicants for parental orders[^key-d10e6914dad85cb9124a640b5b4a9cc3]
+#### 10. Other statutory rights to leave of applicants for parental orders[^c-d10e6914dad85cb9124a640b5b4a9cc3]
 
 (1) The Employment Rights Order is amended as follows.
 
@@ -1190,7 +1190,7 @@ In Part 12ZA of the Contributions and Benefits Act, omit sections 167ZEA to 167Z
 
 .
 
-#### 11. Other statutory rights to pay of applicants for parental orders[^key-09029e4a00dc289e40b81e474831b521]
+#### 11. Other statutory rights to pay of applicants for parental orders[^c-09029e4a00dc289e40b81e474831b521]
 
 (1) The Contributions and Benefits Act is amended as follows.
 
@@ -1221,9 +1221,9 @@ In Part 12ZA of the Contributions and Benefits Act, omit sections 167ZEA to 167Z
 
 #### 12. Statutory paternity pay: notice requirement and period of payment
 
-(1)[^key-b73de7fcfba928bbbfd0a3e6dd786b28] The Contributions and Benefits Act is amended as follows.
+(1)[^c-b73de7fcfba928bbbfd0a3e6dd786b28] The Contributions and Benefits Act is amended as follows.
 
-(2)[^key-b73de7fcfba928bbbfd0a3e6dd786b28] In section 167ZC (further provision as to entitlement to statutory paternity pay)—
+(2)[^c-b73de7fcfba928bbbfd0a3e6dd786b28] In section 167ZC (further provision as to entitlement to statutory paternity pay)—
 
 - (a) in subsection (1) (requirement to give notice), for the words from “only if” to the end substitute “ only if he gives the person who will be liable to pay it notice of the week or weeks in respect of which he expects there to be liability to pay him statutory paternity pay. ”,
 - (b) after that subsection insert—
@@ -1257,7 +1257,7 @@ In Part 12ZA of the Contributions and Benefits Act, omit sections 167ZEA to 167Z
 
 (4) In section 172 (Assembly control of regulations and orders), in subsection (2) (regulations to which confirmatory procedure applies), in paragraph (a), after “section 167ZE(1)” insert “ or (2)(b) ”.
 
-#### 13. Rate of statutory adoption pay[^key-f86b8b39e1a7a3943ff4356e9ca7dfbe]
+#### 13. Rate of statutory adoption pay[^c-f86b8b39e1a7a3943ff4356e9ca7dfbe]
 
 (1) The Contributions and Benefits Act is amended as follows.
 
@@ -1282,24 +1282,24 @@ In Part 12ZA of the Contributions and Benefits Act, omit sections 167ZEA to 167Z
 
 #### 14. Further amendments
 
-(1)[^key-373a52e83b5c385ee38437ebd3c7bb5a][^key-551458a38d506493fdf241df3c9d16a9] Schedule 1 (which contains further amendments relating to statutory rights to leave and pay) has effect.
+(1)[^c-373a52e83b5c385ee38437ebd3c7bb5a][^c-551458a38d506493fdf241df3c9d16a9] Schedule 1 (which contains further amendments relating to statutory rights to leave and pay) has effect.
 
-(2)[^key-8b858645d921ac963a3dd2416ecbcd0b] A reference to ordinary statutory paternity pay in an instrument or document made before the coming into operation of sub-paragraphs (8) and (9) of paragraph 2 of Schedule 1 is to be read, in relation to any time after the coming into operation of those paragraphs, as a reference to statutory paternity pay.
+(2)[^c-8b858645d921ac963a3dd2416ecbcd0b] A reference to ordinary statutory paternity pay in an instrument or document made before the coming into operation of sub-paragraphs (8) and (9) of paragraph 2 of Schedule 1 is to be read, in relation to any time after the coming into operation of those paragraphs, as a reference to statutory paternity pay.
 
-(3)[^key-8b858645d921ac963a3dd2416ecbcd0b] A reference to statutory paternity pay in a statutory provision (including a statutory provision amended by this Act) or in an instrument or document is to be read, in relation to any time that falls—
+(3)[^c-8b858645d921ac963a3dd2416ecbcd0b] A reference to statutory paternity pay in a statutory provision (including a statutory provision amended by this Act) or in an instrument or document is to be read, in relation to any time that falls—
 
 - (a) after the coming into operation of paragraphs 11 and 12 of Schedule 1 to the Work and Families (Northern Ireland) Order 2006, but
 - (b) before the coming into operation of sub-paragraphs (8) and (9) of paragraph 2 of Schedule 1,
 
 as a reference to ordinary statutory paternity pay.
 
-(4)[^key-8b858645d921ac963a3dd2416ecbcd0b] Subsection (3) does not apply to the extent that a reference to statutory paternity pay is a reference to additional statutory paternity pay.
+(4)[^c-8b858645d921ac963a3dd2416ecbcd0b] Subsection (3) does not apply to the extent that a reference to statutory paternity pay is a reference to additional statutory paternity pay.
 
-(5)[^key-8b858645d921ac963a3dd2416ecbcd0b] In this section, “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
+(5)[^c-8b858645d921ac963a3dd2416ecbcd0b] In this section, “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
 ## PART 3 — TIME OFF WORK: ANTE-NATAL CARE, ADOPTION APPOINTMENTS
 
-### 15. Time off work to accompany to ante-natal appointments[^key-11a8beb09a7542d7c1c2eb70fff95944]
+### 15. Time off work to accompany to ante-natal appointments[^c-11a8beb09a7542d7c1c2eb70fff95944]
 
 (1) The Employment Rights Order is amended as follows.
 
@@ -1506,7 +1506,7 @@ as a reference to ordinary statutory paternity pay.
 
 .
 
-### 16. Time off work for ante-natal care: increased amount of award[^key-ae4f974d2f17a856199780b830686b50]
+### 16. Time off work for ante-natal care: increased amount of award[^c-ae4f974d2f17a856199780b830686b50]
 
 (1) The Employment Rights Order is amended as follows.
 
@@ -1516,9 +1516,9 @@ as a reference to ordinary statutory paternity pay.
 
 ### 17. Time off work to attend adoption appointments
 
-(1)[^key-4ab68e194bf2d1af53df3fbd3f85709f] The Employment Rights Order is amended as follows.
+(1)[^c-4ab68e194bf2d1af53df3fbd3f85709f] The Employment Rights Order is amended as follows.
 
-(2)[^key-4ab68e194bf2d1af53df3fbd3f85709f] After Article 85ZI (as inserted by section 15(2)) insert—
+(2)[^c-4ab68e194bf2d1af53df3fbd3f85709f] After Article 85ZI (as inserted by section 15(2)) insert—
 
 > **Adoption appointments**
 >
@@ -1840,25 +1840,25 @@ as a reference to ordinary statutory paternity pay.
 
 .
 
-(3)[^key-4ab68e194bf2d1af53df3fbd3f85709f] In Article 21 (the calculation date in finding a week's pay), after paragraph (3A) (as inserted by section 15(3)) insert—
+(3)[^c-4ab68e194bf2d1af53df3fbd3f85709f] In Article 21 (the calculation date in finding a week's pay), after paragraph (3A) (as inserted by section 15(3)) insert—
 
 > (3B) Where the calculation is for the purposes of Article 85ZK or 85ZM, the calculation date is the day of the appointment.
 
 .
 
-(4)[^key-2184f429a52f5f94881307262eb310f0] In Article 70C (right not to be subject to detriment: leave for family and domestic reasons), in paragraph (2) (prescribed reasons), after sub-paragraph (aa) (as inserted by section 15(4)) insert—
+(4)[^c-2184f429a52f5f94881307262eb310f0] In Article 70C (right not to be subject to detriment: leave for family and domestic reasons), in paragraph (2) (prescribed reasons), after sub-paragraph (aa) (as inserted by section 15(4)) insert—
 
 > - (ab) time off under Article 85ZJ or 85ZL,
 
 .
 
-(5)[^key-2184f429a52f5f94881307262eb310f0] In Article 112B (entitlement to ordinary paternity leave: adoption), in paragraph (5) (provision that may be made in regulations under paragraph (1)), after sub-paragraph (b) insert—
+(5)[^c-2184f429a52f5f94881307262eb310f0] In Article 112B (entitlement to ordinary paternity leave: adoption), in paragraph (5) (provision that may be made in regulations under paragraph (1)), after sub-paragraph (b) insert—
 
 > - (ba) make provision excluding the right to be absent on leave under this Article in the case of an employee who has exercised a right to take time off under Article 85ZJ;
 
 .
 
-(6)[^key-2184f429a52f5f94881307262eb310f0] In Article 131 (being regarded as unfairly dismissed: leave for family reasons), in paragraph (3) (prescribed reasons), after sub-paragraph (aa) (as inserted by section 15(5)) insert—
+(6)[^c-2184f429a52f5f94881307262eb310f0] In Article 131 (being regarded as unfairly dismissed: leave for family reasons), in paragraph (3) (prescribed reasons), after sub-paragraph (aa) (as inserted by section 15(5)) insert—
 
 > - (ab) time off under Article 85ZJ or 85ZL,
 
@@ -1866,9 +1866,9 @@ as a reference to ordinary statutory paternity pay.
 
 ### 18. Right not to be subjected to detriment: agency workers
 
-(1)[^key-422564921e5cb30cbb5f745fff4a45ed] The Employment Rights Order is amended as follows.
+(1)[^c-422564921e5cb30cbb5f745fff4a45ed] The Employment Rights Order is amended as follows.
 
-(2)[^key-e379f936ae51ddb0633bff195a5fb8ba][^key-700189cfe5960276a8b565553dfc42c4] In Article 70C (right not to be subjected to detriment for taking leave for family and domestic reasons), after paragraph (3) add—
+(2)[^c-e379f936ae51ddb0633bff195a5fb8ba][^c-700189cfe5960276a8b565553dfc42c4] In Article 70C (right not to be subjected to detriment for taking leave for family and domestic reasons), after paragraph (3) add—
 
 > (4) An agency worker has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by the temporary work agency or the hirer done on the ground that—
 >
@@ -1891,7 +1891,7 @@ as a reference to ordinary statutory paternity pay.
 
 ”
 
-(3)[^key-71ea835d38edde4da18e0b2fe2d84b63] In Article 71 (complaints to industrial tribunals)—
+(3)[^c-71ea835d38edde4da18e0b2fe2d84b63] In Article 71 (complaints to industrial tribunals)—
 
 - (a) in paragraph (1) for “70C” substitute “ 70C(1) ”,
 - (b) after paragraph (1A) insert—
@@ -1917,7 +1917,7 @@ as a reference to ordinary statutory paternity pay.
 
   .
 
-(4)[^key-71ea835d38edde4da18e0b2fe2d84b63] In Article 72 (remedies in the case of complaints to an industrial tribunal)—
+(4)[^c-71ea835d38edde4da18e0b2fe2d84b63] In Article 72 (remedies in the case of complaints to an industrial tribunal)—
 
 - (a) in paragraph (1) for “Article 71” substitute “ Article 71(1), (1ZA), (1A) or (1B) ”,
 - (b) after that paragraph insert—
@@ -1931,7 +1931,7 @@ as a reference to ordinary statutory paternity pay.
 
 ## PART 4 — OTHER EMPLOYMENT RIGHTS: MISCELLANEOUS
 
-### 19. Flexible working: removal of requirement to be a carer[^key-5d4dfe36afc441a8270adb51dae0b9db]
+### 19. Flexible working: removal of requirement to be a carer[^c-5d4dfe36afc441a8270adb51dae0b9db]
 
 (1) Article 112F of the Employment Rights Order is amended as follows.
 
@@ -1948,7 +1948,7 @@ as a reference to ordinary statutory paternity pay.
 
 (4) Omit paragraph (9) (definitions for paragraphs (1)(b) and (2)(d)).
 
-### 20. Procedure for regulations as to prescribed amount of annual leave[^key-1ff7e2560f06ea41bf612784f5a90f7f]
+### 20. Procedure for regulations as to prescribed amount of annual leave[^c-1ff7e2560f06ea41bf612784f5a90f7f]
 
 In Article 15 of the Work and Families (Northern Ireland) Order 2006, (power by regulations to make provision conferring right, except in prescribed cases, to prescribed amount of annual leave in each leave year), in paragraph (6), for the words from “shall—” to the end substitute “ shall not be made unless a draft has been laid before, and approved by a resolution of, the Assembly ”.
 
@@ -1974,7 +1974,7 @@ In Article 15 of the Work and Families (Northern Ireland) Order 2006, (power by 
 - (a) “**the Department**” means the Department for Employment and Learning,
 - (b) “**statutory provision**” has the meaning given by section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
-### 22. Repeals[^key-9b02f34df4e67cd796f9af0a1ff4cb45][^key-8a5bc7d4556b409a4a35d02ce2a268d2]
+### 22. Repeals[^c-9b02f34df4e67cd796f9af0a1ff4cb45][^c-8a5bc7d4556b409a4a35d02ce2a268d2]
 
 The provisions set out in the first column of Schedule2 are repealed to the extent specified in the second column of the Schedule.
 
@@ -1998,17 +1998,17 @@ Section14(1).
 
 ### Social Security (Northern Ireland) Order 1989 (NI 13)
 
-**1.** (1)[^key-5420731130332d52fbf40c78b0c7b35e] Schedule 5 to the Social Security (Northern Ireland) Order 1989 is amended as follows.
+**1.** (1)[^c-5420731130332d52fbf40c78b0c7b35e] Schedule 5 to the Social Security (Northern Ireland) Order 1989 is amended as follows.
 
 (2) In paragraph 5A (schemes that contain unfair paternity leave provisions)—
 
-- (a)[^key-40654f6001577dbb74cfc1e1345dbe43] in sub-paragraph (3) (how scheme affected), in the words following paragraph (b), for “, ordinary statutory paternity pay or additional statutory paternity pay” substitute “ or statutory paternity pay ”,
+- (a)[^c-40654f6001577dbb74cfc1e1345dbe43] in sub-paragraph (3) (how scheme affected), in the words following paragraph (b), for “, ordinary statutory paternity pay or additional statutory paternity pay” substitute “ or statutory paternity pay ”,
 - (b) in sub-paragraph (4) (definitions)—
-  - (i)[^key-ca3c52f8e44b87070087d6c6e33786c2][^key-2258dbe0aaf091508bc060117df0b0a5] in paragraph (a) of the definition of “period of paid paternity leave”, for “(7) or (8)” substitute “ (7), (7A) or (7B) ”,
-  - (ii)[^key-40654f6001577dbb74cfc1e1345dbe43][^key-7280b41b2c6c5e10179fb3d752c06716] in paragraph (b) of that definition, for “, ordinary statutory paternity pay or additional statutory paternity pay” substitute “ or statutory paternity pay ”,
-- (c)[^key-561b00c0948ddd05c67f482f73136c92] in sub-paragraph (5)(b), for “the Social Security Contributions and Benefits (Northern Ireland) Act 1992” substitute “ the Contributions and Benefits Act ”,
-- (d)[^key-561b00c0948ddd05c67f482f73136c92] in sub-paragraph (7) (type of paid paternity leave: where adoption does not involve placement for adoption under the law of any part of the United Kingdom), for “section 167ZK” substitute “ section 167ZK(1) ”,
-- (e)[^key-e30c1875ad439ed817daab91daea1314][^key-2258dbe0aaf091508bc060117df0b0a5] after sub-paragraph (7) insert—
+  - (i)[^c-ca3c52f8e44b87070087d6c6e33786c2][^c-2258dbe0aaf091508bc060117df0b0a5] in paragraph (a) of the definition of “period of paid paternity leave”, for “(7) or (8)” substitute “ (7), (7A) or (7B) ”,
+  - (ii)[^c-40654f6001577dbb74cfc1e1345dbe43][^c-7280b41b2c6c5e10179fb3d752c06716] in paragraph (b) of that definition, for “, ordinary statutory paternity pay or additional statutory paternity pay” substitute “ or statutory paternity pay ”,
+- (c)[^c-561b00c0948ddd05c67f482f73136c92] in sub-paragraph (5)(b), for “the Social Security Contributions and Benefits (Northern Ireland) Act 1992” substitute “ the Contributions and Benefits Act ”,
+- (d)[^c-561b00c0948ddd05c67f482f73136c92] in sub-paragraph (7) (type of paid paternity leave: where adoption does not involve placement for adoption under the law of any part of the United Kingdom), for “section 167ZK” substitute “ section 167ZK(1) ”,
+- (e)[^c-e30c1875ad439ed817daab91daea1314][^c-2258dbe0aaf091508bc060117df0b0a5] after sub-paragraph (7) insert—
 
   > (7A) This sub-paragraph applies if—
   >
@@ -2023,12 +2023,12 @@ Section14(1).
   > (7C) In this paragraph and paragraphs 5B and 5C, “**theContributions and Benefits Act**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
 
   ,
-- (f)[^key-40654f6001577dbb74cfc1e1345dbe43] omit sub-paragraph (8) (absence from work in circumstances where certain conditions for payment of additional statutory paternity pay are satisfied).
+- (f)[^c-40654f6001577dbb74cfc1e1345dbe43] omit sub-paragraph (8) (absence from work in circumstances where certain conditions for payment of additional statutory paternity pay are satisfied).
 
 (3) In paragraph 5B (schemes that contain unfair adoption leave provisions)—
 
-- (a)[^key-561b00c0948ddd05c67f482f73136c92] in sub-paragraph (4) (definitions), in paragraph (a) of the definition of “period of paid adoption leave”, for “or (6)” substitute “ , (6), (7) or (8) ”,
-- (b)[^key-9857d67398482a3feb0fe50d60742330][^key-8f847dda67e6b8bebee6f6e98ee125c7] after sub-paragraph (6) add—
+- (a)[^c-561b00c0948ddd05c67f482f73136c92] in sub-paragraph (4) (definitions), in paragraph (a) of the definition of “period of paid adoption leave”, for “or (6)” substitute “ , (6), (7) or (8) ”,
+- (b)[^c-9857d67398482a3feb0fe50d60742330][^c-8f847dda67e6b8bebee6f6e98ee125c7] after sub-paragraph (6) add—
 
   > (7) This sub-paragraph applies if—
   >
@@ -2042,7 +2042,7 @@ Section14(1).
 
   .
 
-(4)[^key-e8f292e7191a17c48847890c61151e66] After that paragraph insert—
+(4)[^c-e8f292e7191a17c48847890c61151e66] After that paragraph insert—
 
 > **Unfair shared parental leave provisions**
 >
@@ -2129,11 +2129,11 @@ Section14(1).
 
 ### Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
 
-**2.** (1)[^key-f96d899f9c248e2ff59dd9cca8b91dfa] The Contributions and Benefits Act is amended as follows.
+**2.** (1)[^c-f96d899f9c248e2ff59dd9cca8b91dfa] The Contributions and Benefits Act is amended as follows.
 
-(2)[^key-a82d81066c7036f0a31c1eb5a50ed1a9][^key-76aab2b09643f5c53d44e6c32b82cdb9] In section 1 (outline of contributory system), in subsection (5) (money appropriated, as determined by Department of Finance and Personnel, to be applied in relation to statutory pay), for “ordinary statutory paternity pay, additional statutory paternity pay and statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay and statutory shared parental pay ”.
+(2)[^c-a82d81066c7036f0a31c1eb5a50ed1a9][^c-76aab2b09643f5c53d44e6c32b82cdb9] In section 1 (outline of contributory system), in subsection (5) (money appropriated, as determined by Department of Finance and Personnel, to be applied in relation to statutory pay), for “ordinary statutory paternity pay, additional statutory paternity pay and statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay and statutory shared parental pay ”.
 
-(3)[^key-a82d81066c7036f0a31c1eb5a50ed1a9][^key-76aab2b09643f5c53d44e6c32b82cdb9] In section 4 (payments treated as remuneration and earnings), in subsection (1)(a), for sub-paragraphs (iii) to (v) substitute—
+(3)[^c-a82d81066c7036f0a31c1eb5a50ed1a9][^c-76aab2b09643f5c53d44e6c32b82cdb9] In section 4 (payments treated as remuneration and earnings), in subsection (1)(a), for sub-paragraphs (iii) to (v) substitute—
 
 > - (iii) statutory paternity pay; or
 > - (iv) statutory adoption pay; or
@@ -2141,37 +2141,37 @@ Section14(1).
 
 .
 
-(4)[^key-a82d81066c7036f0a31c1eb5a50ed1a9][^key-76aab2b09643f5c53d44e6c32b82cdb9] In section 4C (power to make provision in consequence of provision made by virtue of section 4B(2) etc.), in subsection (11), in paragraph (a) of the definition of “statutory payment”, for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”.
+(4)[^c-a82d81066c7036f0a31c1eb5a50ed1a9][^c-76aab2b09643f5c53d44e6c32b82cdb9] In section 4C (power to make provision in consequence of provision made by virtue of section 4B(2) etc.), in subsection (11), in paragraph (a) of the definition of “statutory payment”, for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”.
 
-(5)[^key-f96d899f9c248e2ff59dd9cca8b91dfa] In section 166 (statutory maternity pay: special classes of person), in subsection (3) (meaning of “continental shelf operations”), for “subsection (6)” substitute “ subsection (8) ”.
+(5)[^c-f96d899f9c248e2ff59dd9cca8b91dfa] In section 166 (statutory maternity pay: special classes of person), in subsection (3) (meaning of “continental shelf operations”), for “subsection (6)” substitute “ subsection (8) ”.
 
-(6)[^key-d964ceafbeeba2f5bcda14d36103dfdf] For the title of Part 12ZA (Ordinary and Additional Statutory Paternity Pay), substitute “ Statutory Paternity Pay ”.
+(6)[^c-d964ceafbeeba2f5bcda14d36103dfdf] For the title of Part 12ZA (Ordinary and Additional Statutory Paternity Pay), substitute “ Statutory Paternity Pay ”.
 
-(7)[^key-d964ceafbeeba2f5bcda14d36103dfdf] Omit the italic cross-heading (“Ordinary statutory paternity pay”) preceding section 167ZA.
+(7)[^c-d964ceafbeeba2f5bcda14d36103dfdf] Omit the italic cross-heading (“Ordinary statutory paternity pay”) preceding section 167ZA.
 
-(8)[^key-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZA (entitlement to ordinary statutory paternity pay: birth)—
+(8)[^c-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZA (entitlement to ordinary statutory paternity pay: birth)—
 
 - (a) in subsection (1), for “ “ordinary statutory paternity pay”” substitute “ “statutory paternity pay” ”,
 - (b) in subsection (4), for “ordinary statutory paternity pay” substitute “ statutory paternity pay ”.
 
-(9)[^key-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZB (entitlement to ordinary statutory paternity pay: adoption)—
+(9)[^c-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZB (entitlement to ordinary statutory paternity pay: adoption)—
 
 - (a) in subsection (1), for “ “ordinary statutory paternity pay”” substitute “ “statutory paternity pay” ”,
 - (b) in each of subsections (4) and (6), for “ordinary statutory paternity pay” substitute “ statutory paternity pay ”.
 
-(10)[^key-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZC (entitlement to ordinary statutory paternity pay: general)—
+(10)[^c-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZC (entitlement to ordinary statutory paternity pay: general)—
 
 - (a) in subsection (1) (as amended by section 12(2)(a)), for “ordinary statutory paternity pay” substitute “ statutory paternity pay ”,
 - (b) in subsection (2), for “ordinary statutory paternity pay” substitute “ statutory paternity pay ”.
 
-(11)[^key-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZD (liability to pay ordinary statutory paternity pay)—
+(11)[^c-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZD (liability to pay ordinary statutory paternity pay)—
 
 - (a) in subsection (1), for “ordinary statutory paternity pay” substitute “ statutory paternity pay ”,
 - (b) in subsection (2)—
   - (i) for “ordinary statutory paternity pay”, where it first occurs, substitute “ statutory paternity pay ”,
   - (ii) for “liability for ordinary statutory paternity pay or additional statutory paternity pay (or both)” substitute “ liability for statutory paternity pay ”.
 
-(12)[^key-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZE (rate and period of ordinary statutory paternity pay)—
+(12)[^c-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZE (rate and period of ordinary statutory paternity pay)—
 
 - (a) in each of subsections (1), (2) and (4), for “Ordinary statutory paternity pay” substitute “ Statutory paternity pay ”,
 - (b) in subsection (5), for “ordinary statutory paternity pay” substitute “ statutory paternity pay ”,
@@ -2180,20 +2180,20 @@ Section14(1).
 - (e) in subsection (10A), for “ordinary statutory paternity pay”, in both places it occurs, substitute “ statutory paternity pay ”,
 - (f) in subsection (11), in the definition of “statutory pay week”, for “ordinary statutory paternity pay”, in both places it occurs, substitute “ statutory paternity pay ”.
 
-(13)[^key-d964ceafbeeba2f5bcda14d36103dfdf] Omit the italic cross-heading (“Additional statutory paternity pay”) preceding section 167ZEA.
+(13)[^c-d964ceafbeeba2f5bcda14d36103dfdf] Omit the italic cross-heading (“Additional statutory paternity pay”) preceding section 167ZEA.
 
-(14)[^key-d964ceafbeeba2f5bcda14d36103dfdf] Omit the italic cross-heading (“Ordinary and additional statutory paternity pay: supplementary provisions”) preceding section 167ZF.
+(14)[^c-d964ceafbeeba2f5bcda14d36103dfdf] Omit the italic cross-heading (“Ordinary and additional statutory paternity pay: supplementary provisions”) preceding section 167ZF.
 
-(15)[^key-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZF (restrictions on contracting out of Part 12ZA), in subsection (2) (agreements which are not void for contracting out), for “ordinary statutory paternity pay or additional statutory paternity pay” substitute “ statutory paternity pay ”.
+(15)[^c-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZF (restrictions on contracting out of Part 12ZA), in subsection (2) (agreements which are not void for contracting out), for “ordinary statutory paternity pay or additional statutory paternity pay” substitute “ statutory paternity pay ”.
 
-(16)[^key-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZG (relationship with contractual remuneration), omit subsection (4) (definition of “statutory paternity pay” as including ordinary statutory paternity pay or additional statutory paternity pay).
+(16)[^c-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZG (relationship with contractual remuneration), omit subsection (4) (definition of “statutory paternity pay” as including ordinary statutory paternity pay or additional statutory paternity pay).
 
-(17)[^key-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZJ (provision supplementary to Part 12ZA)—
+(17)[^c-d964ceafbeeba2f5bcda14d36103dfdf] In section 167ZJ (provision supplementary to Part 12ZA)—
 
 - (a) in subsection (5) (meaning of “week”), for “sections 167ZE and 167ZEE” substitute “ section 167ZE ”,
 - (b) in subsection (10)(f) (regulations relating to health and social care contracts treated as a single contract: provision for identifying employer under single contract), for “ordinary statutory paternity pay or additional statutory paternity pay” substitute “ statutory paternity pay ”.
 
-(18)[^key-d964ceafbeeba2f5bcda14d36103dfdf] In section 170 (interpretation of Act)—
+(18)[^c-d964ceafbeeba2f5bcda14d36103dfdf] In section 170 (interpretation of Act)—
 
 - (a) in the definition of “the Department”, for “and 12ZB” substitute “ , 12ZB and 12ZC ”,
 - (b) at the appropriate place insert—
@@ -2202,7 +2202,7 @@ Section14(1).
 
   .
 
-(19)[^key-d964ceafbeeba2f5bcda14d36103dfdf] In section 172 (Assembly etc. control of regulations and orders)—
+(19)[^c-d964ceafbeeba2f5bcda14d36103dfdf] In section 172 (Assembly etc. control of regulations and orders)—
 
 - (a) in subsection (2) (regulations and orders to which confirmatory procedure applies), in paragraph (a), omit the words “, sections 167ZEA to 167ZEE”,
 - (b) in subsection (4) (regulations and orders subject to negative resolution, subject to subsections (4A) and (7)), for “and (7)” substitute “ , (7) and (7A) ”,
@@ -2214,15 +2214,15 @@ Section14(1).
 
 ### Social Security Administration (Northern Ireland) Act 1992 (c. 8)
 
-**3.** (1)[^key-8c2e8b16ae3d8ba1dedee40f7b13f636] The Social Security Administration (Northern Ireland) Act 1992 is amended as follows.
+**3.** (1)[^c-8c2e8b16ae3d8ba1dedee40f7b13f636] The Social Security Administration (Northern Ireland) Act 1992 is amended as follows.
 
-(2)[^key-4e02db41811f031d20cc0c683a97884b][^key-3cc47d9433fc47e35e39962ea33cda04] In section 5 (regulations about claims for and payments of benefits), in paragraph (a) of subsection (4A) (application of certain provisions of subsection (1) to statutory pay), for “ordinary statutory paternity pay, additional statutory paternity pay and statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay and statutory shared parental pay ”.
+(2)[^c-4e02db41811f031d20cc0c683a97884b][^c-3cc47d9433fc47e35e39962ea33cda04] In section 5 (regulations about claims for and payments of benefits), in paragraph (a) of subsection (4A) (application of certain provisions of subsection (1) to statutory pay), for “ordinary statutory paternity pay, additional statutory paternity pay and statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay and statutory shared parental pay ”.
 
-(3)[^key-4e02db41811f031d20cc0c683a97884b][^key-3cc47d9433fc47e35e39962ea33cda04] In section 116AA (disclosure of contributions, etc. information by HMRC), in subsection (1) (disclosure to Health and Safety Executive for Northern Ireland etc. or in pursuance of reciprocal agreements with other countries), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”.
+(3)[^c-4e02db41811f031d20cc0c683a97884b][^c-3cc47d9433fc47e35e39962ea33cda04] In section 116AA (disclosure of contributions, etc. information by HMRC), in subsection (1) (disclosure to Health and Safety Executive for Northern Ireland etc. or in pursuance of reciprocal agreements with other countries), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”.
 
-(4)[^key-4e02db41811f031d20cc0c683a97884b][^key-3cc47d9433fc47e35e39962ea33cda04] In section 143 (general financial arrangements), in subsection (1) (payments to be made out of Northern Ireland National Insurance Fund), in paragraph (d) (sums falling to be paid etc. by HMRC under regulations relating to categories of statutory pay), for “ordinary statutory paternity pay or additional statutory paternity pay” substitute “ statutory paternity pay or statutory shared parental pay ”.
+(4)[^c-4e02db41811f031d20cc0c683a97884b][^c-3cc47d9433fc47e35e39962ea33cda04] In section 143 (general financial arrangements), in subsection (1) (payments to be made out of Northern Ireland National Insurance Fund), in paragraph (d) (sums falling to be paid etc. by HMRC under regulations relating to categories of statutory pay), for “ordinary statutory paternity pay or additional statutory paternity pay” substitute “ statutory paternity pay or statutory shared parental pay ”.
 
-(5)[^key-4e02db41811f031d20cc0c683a97884b][^key-3cc47d9433fc47e35e39962ea33cda04] In section 145 (adjustments between Northern Ireland National Insurance Fund and Consolidated Fund of Northern Ireland)—
+(5)[^c-4e02db41811f031d20cc0c683a97884b][^c-3cc47d9433fc47e35e39962ea33cda04] In section 145 (adjustments between Northern Ireland National Insurance Fund and Consolidated Fund of Northern Ireland)—
 
 - (a) in subsection (1) (payments from Northern Ireland National Insurance Fund into Consolidated Fund of Northern Ireland or by Department into Northern Ireland National Insurance Fund), in paragraph (b) (payments by way of adjustment in consequence of operation of legislation relating to categories of statutory pay) for sub-paragraphs (iii) to (v) substitute—
 
@@ -2235,16 +2235,16 @@ Section14(1).
 
 ### The Employment Rights (Northern Ireland) Order 1996 (NI 16)
 
-**4.** (1)[^key-158d9945a9a2245437faa188a11baa50] The Employment Rights Order is amended as follows.
+**4.** (1)[^c-158d9945a9a2245437faa188a11baa50] The Employment Rights Order is amended as follows.
 
 (2) In Article 2 (interpretation: general)—
 
-- (a)[^key-96b2a90db94ed99cb5e250c18cb83fc6] for the definition of “ordinary or additional paternity leave” substitute—
+- (a)[^c-96b2a90db94ed99cb5e250c18cb83fc6] for the definition of “ordinary or additional paternity leave” substitute—
 
   > paternity leave” means leave under Article 112A or 112B,
 
   ,
-- (b)[^key-158d9945a9a2245437faa188a11baa50] at the appropriate places insert—
+- (b)[^c-158d9945a9a2245437faa188a11baa50] at the appropriate places insert—
 
   > shared parental leave” means leave under Article 107E or 107G,
 
@@ -2253,9 +2253,9 @@ Section14(1).
   > “**the Contributions and Benefits Act 1992**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992,
 
   ,
-- (c)[^key-158d9945a9a2245437faa188a11baa50] in paragraph (b) of the definition of “week”, after “Articles” insert “ 107F, 107I, ”.
+- (c)[^c-158d9945a9a2245437faa188a11baa50] in paragraph (b) of the definition of “week”, after “Articles” insert “ 107F, 107I, ”.
 
-(3)[^key-158d9945a9a2245437faa188a11baa50] In Article 3 (meaning of “employee” etc.), after paragraph (6) add—
+(3)[^c-158d9945a9a2245437faa188a11baa50] In Article 3 (meaning of “employee” etc.), after paragraph (6) add—
 
 > (7) This Article has effect subject to Article 107M(3) and (5).
 
@@ -2263,8 +2263,8 @@ Section14(1).
 
 (4) In Article 59 (meaning of wages etc.), in paragraph (1) (sums included)—
 
-- (a)[^key-96b2a90db94ed99cb5e250c18cb83fc6] in sub-paragraph (ca), for “ordinary statutory paternity pay or additional statutory paternity pay” substitute “ statutory paternity pay ”,
-- (b)[^key-158d9945a9a2245437faa188a11baa50] after sub-paragraph (cb) insert—
+- (a)[^c-96b2a90db94ed99cb5e250c18cb83fc6] in sub-paragraph (ca), for “ordinary statutory paternity pay or additional statutory paternity pay” substitute “ statutory paternity pay ”,
+- (b)[^c-158d9945a9a2245437faa188a11baa50] after sub-paragraph (cb) insert—
 
   > - (cc) statutory shared parental pay under Part 12ZC of that Act,
 
@@ -2272,26 +2272,26 @@ Section14(1).
 
 (5) In Article 70C (right not to be subjected to detriment in connection with leave for family and domestic reasons), in paragraph (2) (reasons that may be prescribed)—
 
-- (a)[^key-158d9945a9a2245437faa188a11baa50] after sub-paragraph (ba) insert—
+- (a)[^c-158d9945a9a2245437faa188a11baa50] after sub-paragraph (ba) insert—
 
   > - (bb) shared parental leave,
 
   ,
-- (b)[^key-96b2a90db94ed99cb5e250c18cb83fc6] for sub-paragraph (ca) (ordinary or additional paternity leave) substitute—
+- (b)[^c-96b2a90db94ed99cb5e250c18cb83fc6] for sub-paragraph (ca) (ordinary or additional paternity leave) substitute—
 
   > - (ca) paternity leave,
 
   .
 
-(6)[^key-158d9945a9a2245437faa188a11baa50] In Article 107D (Chapter 1A: supplemental provision on adoption leave), in paragraph (2) (meaning of “prescribed” in Articles 107A and 107B), after “107A” insert “ , 107AB, 107BA, 107AC ”.
+(6)[^c-158d9945a9a2245437faa188a11baa50] In Article 107D (Chapter 1A: supplemental provision on adoption leave), in paragraph (2) (meaning of “prescribed” in Articles 107A and 107B), after “107A” insert “ , 107AB, 107BA, 107AC ”.
 
-(7)[^key-158d9945a9a2245437faa188a11baa50] In Article 108 (entitlement to parental leave), after paragraph (5) add—
+(7)[^c-158d9945a9a2245437faa188a11baa50] In Article 108 (entitlement to parental leave), after paragraph (5) add—
 
 > (6) In this Article and Article 110(4) and (5), “**specified**” means specified for the time being in regulations made under this Article.
 
 .
 
-(8)[^key-158d9945a9a2245437faa188a11baa50] In Article 109 (rights during and after parental leave), after paragraph (4) add—
+(8)[^c-158d9945a9a2245437faa188a11baa50] In Article 109 (rights during and after parental leave), after paragraph (4) add—
 
 > (5) In this Article, “**prescribed**” means prescribed by the regulations made under Article 108.
 
@@ -2299,45 +2299,45 @@ Section14(1).
 
 (9) In Article 112A (entitlement to ordinary paternity leave: birth)—
 
-- (a)[^key-96b2a90db94ed99cb5e250c18cb83fc6] in the title, for “ordinary paternity leave” substitute “ paternity leave ”,
-- (b)[^key-158d9945a9a2245437faa188a11baa50] after paragraph (7), add—
+- (a)[^c-96b2a90db94ed99cb5e250c18cb83fc6] in the title, for “ordinary paternity leave” substitute “ paternity leave ”,
+- (b)[^c-158d9945a9a2245437faa188a11baa50] after paragraph (7), add—
 
   > (8) In this Article and Articles 112B, 112BA, 112BAA, 112C and 112E, “**specified**” means specified for the time being in regulations made under the Article concerned.
 
   .
 
-(10)[^key-96b2a90db94ed99cb5e250c18cb83fc6] In Article 112B (entitlement to additional paternity leave: adoption), in the title, for “ordinary paternity leave” substitute “ paternity leave ”.
+(10)[^c-96b2a90db94ed99cb5e250c18cb83fc6] In Article 112B (entitlement to additional paternity leave: adoption), in the title, for “ordinary paternity leave” substitute “ paternity leave ”.
 
 (11) In Article 112C (rights during and after paternity leave: birth or adoption)—
 
-- (a)[^key-96b2a90db94ed99cb5e250c18cb83fc6] in paragraph (1) (provision as to rights under Article 112A or 112AA), omit the words “or 112AA”,
-- (b)[^key-158d9945a9a2245437faa188a11baa50] in paragraph (1), in each of sub-paragraphs (a) and (b), for “the regulations may prescribe” substitute “ may be specified ”,
-- (c)[^key-158d9945a9a2245437faa188a11baa50] in paragraph (1), in sub-paragraph (c), for “prescribed by regulations” substitute “ that may be specified ”,
+- (a)[^c-96b2a90db94ed99cb5e250c18cb83fc6] in paragraph (1) (provision as to rights under Article 112A or 112AA), omit the words “or 112AA”,
+- (b)[^c-158d9945a9a2245437faa188a11baa50] in paragraph (1), in each of sub-paragraphs (a) and (b), for “the regulations may prescribe” substitute “ may be specified ”,
+- (c)[^c-158d9945a9a2245437faa188a11baa50] in paragraph (1), in sub-paragraph (c), for “prescribed by regulations” substitute “ that may be specified ”,
 - (d) in paragraph (2) (absence on leave under Article 112A or 112AA may include a period of other statutory leave)—
-  - (i)[^key-96b2a90db94ed99cb5e250c18cb83fc6] omit the words “or 112AA”,
-  - (ii)[^key-96b2a90db94ed99cb5e250c18cb83fc6] omit sub-paragraph (za) (leave under Article 112AA),
-  - (iii)[^key-158d9945a9a2245437faa188a11baa50] omit the word “and” following sub-paragraph (b),
-  - (iv)[^key-158d9945a9a2245437faa188a11baa50] after that sub-paragraph insert—
+  - (i)[^c-96b2a90db94ed99cb5e250c18cb83fc6] omit the words “or 112AA”,
+  - (ii)[^c-96b2a90db94ed99cb5e250c18cb83fc6] omit sub-paragraph (za) (leave under Article 112AA),
+  - (iii)[^c-158d9945a9a2245437faa188a11baa50] omit the word “and” following sub-paragraph (b),
+  - (iv)[^c-158d9945a9a2245437faa188a11baa50] after that sub-paragraph insert—
 
     > - (ba) shared parental leave, and
 
     ,
-- (e)[^key-96b2a90db94ed99cb5e250c18cb83fc6] in paragraph (3) (provision as to rights under Article 112B or 112BB), for the words “or 112BB” to the end substitute “ or 112BAA as it applies to regulations under Article 112A ”,
+- (e)[^c-96b2a90db94ed99cb5e250c18cb83fc6] in paragraph (3) (provision as to rights under Article 112B or 112BB), for the words “or 112BB” to the end substitute “ or 112BAA as it applies to regulations under Article 112A ”,
 - (f) in paragraph (4) (absence on leave under Article 112B or 112BB may include a period of other statutory leave)—
-  - (i)[^key-96b2a90db94ed99cb5e250c18cb83fc6] for “112BB” substitute “ 112BAA ”,
-  - (ii)[^key-96b2a90db94ed99cb5e250c18cb83fc6] omit sub-paragraph (za) (leave under Article 112BB),
-  - (iii)[^key-158d9945a9a2245437faa188a11baa50] after sub-paragraph (b) insert—
+  - (i)[^c-96b2a90db94ed99cb5e250c18cb83fc6] for “112BB” substitute “ 112BAA ”,
+  - (ii)[^c-96b2a90db94ed99cb5e250c18cb83fc6] omit sub-paragraph (za) (leave under Article 112BB),
+  - (iii)[^c-158d9945a9a2245437faa188a11baa50] after sub-paragraph (b) insert—
 
     > - (ba) shared parental leave,
 
     ,
-  - (iv)[^key-96b2a90db94ed99cb5e250c18cb83fc6] in sub-paragraph (d) (leave under Article 112A or 112AA), omit the words “or 112AA”,
-- (g)[^key-96b2a90db94ed99cb5e250c18cb83fc6] in paragraph (6) (provision as to remuneration), for “any of Articles 112A to 112BB” substitute “ Article 112A or 112B ”,
-- (h)[^key-96b2a90db94ed99cb5e250c18cb83fc6] in paragraph (7) (provision as to seniority on return etc.), for “any of Articles 112A to 112BB” substitute “ Article 112A or 112B ”.
+  - (iv)[^c-96b2a90db94ed99cb5e250c18cb83fc6] in sub-paragraph (d) (leave under Article 112A or 112AA), omit the words “or 112AA”,
+- (g)[^c-96b2a90db94ed99cb5e250c18cb83fc6] in paragraph (6) (provision as to remuneration), for “any of Articles 112A to 112BB” substitute “ Article 112A or 112B ”,
+- (h)[^c-96b2a90db94ed99cb5e250c18cb83fc6] in paragraph (7) (provision as to seniority on return etc.), for “any of Articles 112A to 112BB” substitute “ Article 112A or 112B ”.
 
-(12)[^key-96b2a90db94ed99cb5e250c18cb83fc6] In Article 112D (provision as to redundancy or dismissal), in paragraph (1), for “112A, 112AA, 112B or 112BB” substitute “ 112A or 112B ”.
+(12)[^c-96b2a90db94ed99cb5e250c18cb83fc6] In Article 112D (provision as to redundancy or dismissal), in paragraph (1), for “112A, 112AA, 112B or 112BB” substitute “ 112A or 112B ”.
 
-(13)[^key-96b2a90db94ed99cb5e250c18cb83fc6] In Article 112E (Chapter 3: supplemental provision on paternity leave)—
+(13)[^c-96b2a90db94ed99cb5e250c18cb83fc6] In Article 112E (Chapter 3: supplemental provision on paternity leave)—
 
 - (a) in paragraph (1) (provision that may be made by regulations), for “any of Articles 112A to 112BB”, in each place where it occurs, substitute “ Article 112A or 112B ”,
 - (b) omit paragraph (2) (persons who may be subjected to duties in connection with employees exercising rights under Article 112AA or 112BB).
@@ -2345,48 +2345,48 @@ Section14(1).
 (14) In Article 120 (liability of employer to pay employee during period of notice: employments with normal working hours)—
 
 - (a) in paragraph (1)(c) (liability to employee who is absent from work because of pregnancy etc.)—
-  - (i)[^key-158d9945a9a2245437faa188a11baa50] after “adoption leave,” insert “ shared parental leave, ”,
-  - (ii)[^key-96b2a90db94ed99cb5e250c18cb83fc6] for “ordinary or additional paternity leave” substitute “ paternity leave ”,
+  - (i)[^c-158d9945a9a2245437faa188a11baa50] after “adoption leave,” insert “ shared parental leave, ”,
+  - (ii)[^c-96b2a90db94ed99cb5e250c18cb83fc6] for “ordinary or additional paternity leave” substitute “ paternity leave ”,
 - (b) in paragraph (2) (certain payments during period of notice treated as meeting employer's liability)—
-  - (i)[^key-96b2a90db94ed99cb5e250c18cb83fc6] for “ordinary statutory paternity pay, additional statutory paternity pay” substitute “ statutory paternity pay ”,
-  - (ii)[^key-158d9945a9a2245437faa188a11baa50] after “statutory adoption pay,” insert “ shared parental pay, statutory shared parental pay, ”.
+  - (i)[^c-96b2a90db94ed99cb5e250c18cb83fc6] for “ordinary statutory paternity pay, additional statutory paternity pay” substitute “ statutory paternity pay ”,
+  - (ii)[^c-158d9945a9a2245437faa188a11baa50] after “statutory adoption pay,” insert “ shared parental pay, statutory shared parental pay, ”.
 
 (15) In Article 121 (effect of notice of termination: employments without normal working hours)—
 
 - (a) in paragraph (3)(b) (effect of absence from work because of pregnancy etc. during period of notice)—
-  - (i)[^key-158d9945a9a2245437faa188a11baa50] after “adoption leave,” insert “ shared parental leave, ”,
-  - (ii)[^key-96b2a90db94ed99cb5e250c18cb83fc6] for “ordinary or additional paternity leave” substitute “ paternity leave ”,
+  - (i)[^c-158d9945a9a2245437faa188a11baa50] after “adoption leave,” insert “ shared parental leave, ”,
+  - (ii)[^c-96b2a90db94ed99cb5e250c18cb83fc6] for “ordinary or additional paternity leave” substitute “ paternity leave ”,
 - (b) in paragraph (4) (certain payments during period of notice treated as remuneration)—
-  - (i)[^key-96b2a90db94ed99cb5e250c18cb83fc6] for “ordinary statutory paternity pay, additional statutory paternity pay” substitute “ statutory paternity pay ”,
-  - (ii)[^key-158d9945a9a2245437faa188a11baa50] after “statutory adoption pay,” insert “ shared parental pay, statutory shared parental pay, ”.
+  - (i)[^c-96b2a90db94ed99cb5e250c18cb83fc6] for “ordinary statutory paternity pay, additional statutory paternity pay” substitute “ statutory paternity pay ”,
+  - (ii)[^c-158d9945a9a2245437faa188a11baa50] after “statutory adoption pay,” insert “ shared parental pay, statutory shared parental pay, ”.
 
 (16) In Article 131 (dismissal to be regarded as unfair where dismissal relates to leave for family reasons), in paragraph (3) (reasons or sets of circumstances that may be prescribed)—
 
-- (a)[^key-158d9945a9a2245437faa188a11baa50] after sub-paragraph (ba) insert—
+- (a)[^c-158d9945a9a2245437faa188a11baa50] after sub-paragraph (ba) insert—
 
   > - (bb) shared parental leave,
 
   ,
-- (b)[^key-96b2a90db94ed99cb5e250c18cb83fc6] for sub-paragraph (ca) (ordinary or additional paternity leave) substitute—
+- (b)[^c-96b2a90db94ed99cb5e250c18cb83fc6] for sub-paragraph (ca) (ordinary or additional paternity leave) substitute—
 
   > - (ca) paternity leave,
 
   .
 
-(17)[^key-158d9945a9a2245437faa188a11baa50] In Article 138 (dismissal of employee engaged as replacement for person absent from work because of pregnancy etc.), in paragraph (2)(a), for “or leave under Article 112AA or 112BB (additional paternity leave)” substitute “ or shared parental leave ”.
+(17)[^c-158d9945a9a2245437faa188a11baa50] In Article 138 (dismissal of employee engaged as replacement for person absent from work because of pregnancy etc.), in paragraph (2)(a), for “or leave under Article 112AA or 112BB (additional paternity leave)” substitute “ or shared parental leave ”.
 
-(18)[^key-158d9945a9a2245437faa188a11baa50] In Article 206 (employment not under contract of employment), in paragraph (2)(a) for “the Social Security Contributions and Benefits (Northern Ireland) Act 1992” substitute “ the Contributions and Benefits Act 1992 ”.
+(18)[^c-158d9945a9a2245437faa188a11baa50] In Article 206 (employment not under contract of employment), in paragraph (2)(a) for “the Social Security Contributions and Benefits (Northern Ireland) Act 1992” substitute “ the Contributions and Benefits Act 1992 ”.
 
 (19) In Article 251 (orders and regulations)—
 
-- (a)[^key-96b2a90db94ed99cb5e250c18cb83fc6] in paragraph (1A) (regulations to which confirmatory procedure applies), for “112A, 112AA, 112B, 112BB, 112G” substitute “ 112A, 112B, 112BAA, 112G ”,
-- (b)[^key-158d9945a9a2245437faa188a11baa50] in paragraph (4), for “paragraph (5)” substitute “ paragraphs (5) and (5A) ”,
-- (c)[^key-158d9945a9a2245437faa188a11baa50] in paragraph (5), after sub-paragraph (b) insert—
+- (a)[^c-96b2a90db94ed99cb5e250c18cb83fc6] in paragraph (1A) (regulations to which confirmatory procedure applies), for “112A, 112AA, 112B, 112BB, 112G” substitute “ 112A, 112B, 112BAA, 112G ”,
+- (b)[^c-158d9945a9a2245437faa188a11baa50] in paragraph (4), for “paragraph (5)” substitute “ paragraphs (5) and (5A) ”,
+- (c)[^c-158d9945a9a2245437faa188a11baa50] in paragraph (5), after sub-paragraph (b) insert—
 
   > - (c) an order under Article 85ZS(6) or 107AB(4);
 
   ,
-- (d)[^key-158d9945a9a2245437faa188a11baa50] after paragraph (5), insert—
+- (d)[^c-158d9945a9a2245437faa188a11baa50] after paragraph (5), insert—
 
   > (5A) An order under Article 85ZS(6) or 107AB(4) shall not be made unless a draft has been laid before, and approved by a resolution of, the Assembly.
 
@@ -2394,35 +2394,35 @@ Section14(1).
 
 ### Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 (S.I. 1999/671)
 
-**5.** (1)[^key-52b8bb3893bf415823a47ffb4bbd44d2] The Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 is amended as follows.
+**5.** (1)[^c-52b8bb3893bf415823a47ffb4bbd44d2] The Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999 is amended as follows.
 
-(2)[^key-73226b0a5e227eae8420c8273d1d4a30] In Article 7 (decisions by officers of Revenue and Customs)—
+(2)[^c-73226b0a5e227eae8420c8273d1d4a30] In Article 7 (decisions by officers of Revenue and Customs)—
 
 - (a) in paragraph (1)—
-  - (i)[^key-c9f123c21055a75cb2ee213be31cba27][^key-b764f062ec7774493f822dd081c03849] in sub-paragraph (fa), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”,
-  - (ii)[^key-52b8bb3893bf415823a47ffb4bbd44d2] in sub-paragraph (g), for “to 12ZB” substitute “ to 12ZC ”,
-  - (iii)[^key-c9f123c21055a75cb2ee213be31cba27][^key-b764f062ec7774493f822dd081c03849] in sub-paragraph (g), for “ordinary statutory paternity pay, additional statutory paternity pay and statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay and statutory shared parental pay ”,
-  - (iv)[^key-c9f123c21055a75cb2ee213be31cba27][^key-b764f062ec7774493f822dd081c03849] in sub-paragraph (ga), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”,
+  - (i)[^c-c9f123c21055a75cb2ee213be31cba27][^c-b764f062ec7774493f822dd081c03849] in sub-paragraph (fa), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”,
+  - (ii)[^c-52b8bb3893bf415823a47ffb4bbd44d2] in sub-paragraph (g), for “to 12ZB” substitute “ to 12ZC ”,
+  - (iii)[^c-c9f123c21055a75cb2ee213be31cba27][^c-b764f062ec7774493f822dd081c03849] in sub-paragraph (g), for “ordinary statutory paternity pay, additional statutory paternity pay and statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay and statutory shared parental pay ”,
+  - (iv)[^c-c9f123c21055a75cb2ee213be31cba27][^c-b764f062ec7774493f822dd081c03849] in sub-paragraph (ga), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”,
 - (b) in paragraph (3)(b), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”.
 
-(3)[^key-c9f123c21055a75cb2ee213be31cba27][^key-b764f062ec7774493f822dd081c03849][^key-73226b0a5e227eae8420c8273d1d4a30] In Article 10 (appeals against decisions of officers of Revenue and Customs), in paragraph (2)(a), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”.
+(3)[^c-c9f123c21055a75cb2ee213be31cba27][^c-b764f062ec7774493f822dd081c03849][^c-73226b0a5e227eae8420c8273d1d4a30] In Article 10 (appeals against decisions of officers of Revenue and Customs), in paragraph (2)(a), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”.
 
-(4)[^key-c9f123c21055a75cb2ee213be31cba27][^key-b764f062ec7774493f822dd081c03849][^key-73226b0a5e227eae8420c8273d1d4a30] In Article 13 (matters arising as respects decisions)—
+(4)[^c-c9f123c21055a75cb2ee213be31cba27][^c-b764f062ec7774493f822dd081c03849][^c-73226b0a5e227eae8420c8273d1d4a30] In Article 13 (matters arising as respects decisions)—
 
 - (a) in paragraph (1) (regulations as to matters arising pending a decision etc), in sub-paragraph (a)(i), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”,
 - (b) in paragraph (4) (regulations requiring concurrence of Department for Employment and Learning), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”.
 
 ### Employment (Northern Ireland) Order 2002 (NI 2)
 
-**6.** (1)[^key-04502ad7bfe88aeb3b3c8aa0c38c9847] The Employment (Northern Ireland) Order 2002 is amended as follows.
+**6.** (1)[^c-04502ad7bfe88aeb3b3c8aa0c38c9847] The Employment (Northern Ireland) Order 2002 is amended as follows.
 
 (2) In Article 8 (funding of employers' liabilities as regards certain statutory pay)—
 
-- (a)[^key-83b8dcd1dae699c622fbfcb89bfb362d][^key-57043fbee085b0127f5da00085729f44] in paragraph (1) (power to make regulations regarding the funding of statutory pay by Her Majesty's Revenue and Customs), for “ordinary statutory paternity pay, additional statutory paternity pay and statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay and statutory shared parental pay ”,
-- (b)[^key-83b8dcd1dae699c622fbfcb89bfb362d][^key-57043fbee085b0127f5da00085729f44] in paragraph (2) (recovery relating to small employers' relief), in each of sub-paragraphs (a) and (b), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”,
+- (a)[^c-83b8dcd1dae699c622fbfcb89bfb362d][^c-57043fbee085b0127f5da00085729f44] in paragraph (1) (power to make regulations regarding the funding of statutory pay by Her Majesty's Revenue and Customs), for “ordinary statutory paternity pay, additional statutory paternity pay and statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay and statutory shared parental pay ”,
+- (b)[^c-83b8dcd1dae699c622fbfcb89bfb362d][^c-57043fbee085b0127f5da00085729f44] in paragraph (2) (recovery relating to small employers' relief), in each of sub-paragraphs (a) and (b), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”,
 - (c) in paragraph (3) (payments treated as qualifying for small employers' relief)—
-  - (i)[^key-83b8dcd1dae699c622fbfcb89bfb362d][^key-57043fbee085b0127f5da00085729f44] for “a payment of ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ a payment of statutory paternity pay, statutory adoption pay or statutory shared parental pay ”,
-  - (ii)[^key-04502ad7bfe88aeb3b3c8aa0c38c9847] for the words from “treating the period” to the end substitute
+  - (i)[^c-83b8dcd1dae699c622fbfcb89bfb362d][^c-57043fbee085b0127f5da00085729f44] for “a payment of ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ a payment of statutory paternity pay, statutory adoption pay or statutory shared parental pay ”,
+  - (ii)[^c-04502ad7bfe88aeb3b3c8aa0c38c9847] for the words from “treating the period” to the end substitute
 
     > treating—
     >
@@ -2434,48 +2434,48 @@ Section14(1).
 
     .
 
-(3)[^key-83b8dcd1dae699c622fbfcb89bfb362d][^key-57043fbee085b0127f5da00085729f44] In Article 9 (regulations about payment)—
+(3)[^c-83b8dcd1dae699c622fbfcb89bfb362d][^c-57043fbee085b0127f5da00085729f44] In Article 9 (regulations about payment)—
 
 - (a) in paragraph (1) (power to make regulations with respect to payment by employers of certain statutory pay), for “ordinary statutory paternity pay, additional statutory paternity pay and statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay and statutory shared parental pay ”,
 - (b) in paragraph (2) (further provision as to regulations), in each of sub-paragraphs (a), (b) and (d), for “ordinary statutory paternity pay, additional statutory paternity pay and statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay and statutory shared parental pay ”.
 
-(4)[^key-83b8dcd1dae699c622fbfcb89bfb362d][^key-57043fbee085b0127f5da00085729f44] In Article 11 (power to require information)—
+(4)[^c-83b8dcd1dae699c622fbfcb89bfb362d][^c-57043fbee085b0127f5da00085729f44] In Article 11 (power to require information)—
 
 - (a) in paragraph (1) (power to make regulations requiring the production of information or documents), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”,
 - (b) in paragraph (2) (persons who may be specified as liable to produce information or documents), in sub-paragraph (a), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”.
 
-(5)[^key-83b8dcd1dae699c622fbfcb89bfb362d][^key-57043fbee085b0127f5da00085729f44] In Article 12 (penalties for failure to comply), in paragraph (6) (failures to make statutory payments), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”.
+(5)[^c-83b8dcd1dae699c622fbfcb89bfb362d][^c-57043fbee085b0127f5da00085729f44] In Article 12 (penalties for failure to comply), in paragraph (6) (failures to make statutory payments), for “ordinary statutory paternity pay, additional statutory paternity pay or statutory adoption pay” substitute “ statutory paternity pay, statutory adoption pay or statutory shared parental pay ”.
 
 (6) In Article 13 (penalties for fraud or negligence)—
 
-- (a)[^key-b590a66c332bef09443f525f11887bcf] in paragraph (1) (incorrect statement or declaration: ordinary statutory paternity pay), in each of sub-paragraphs (a) and (b), for “ordinary statutory paternity pay” substitute “ statutory paternity pay ”,
-- (b)[^key-04502ad7bfe88aeb3b3c8aa0c38c9847] in paragraph (2) (incorrect statement or declaration: statutory adoption pay or additional statutory paternity pay), in each of sub-paragraphs (a) and (b), for “or additional statutory paternity pay” substitute “ or statutory shared parental pay ”,
-- (c)[^key-b590a66c332bef09443f525f11887bcf] in paragraph (3) (incorrect payment: ordinary statutory paternity pay), for “ordinary statutory paternity pay” substitute “ statutory paternity pay ”,
-- (d)[^key-04502ad7bfe88aeb3b3c8aa0c38c9847] in paragraph (4) (incorrect payment: statutory adoption pay or additional statutory paternity pay), for “or additional statutory paternity pay” substitute “ or statutory shared parental pay ”,
-- (e)[^key-b590a66c332bef09443f525f11887bcf] in paragraph (5) (fraudulently or negligently providing incorrect information or receiving incorrect payments), for “ordinary statutory paternity pay” substitute “ statutory paternity pay ”.
+- (a)[^c-b590a66c332bef09443f525f11887bcf] in paragraph (1) (incorrect statement or declaration: ordinary statutory paternity pay), in each of sub-paragraphs (a) and (b), for “ordinary statutory paternity pay” substitute “ statutory paternity pay ”,
+- (b)[^c-04502ad7bfe88aeb3b3c8aa0c38c9847] in paragraph (2) (incorrect statement or declaration: statutory adoption pay or additional statutory paternity pay), in each of sub-paragraphs (a) and (b), for “or additional statutory paternity pay” substitute “ or statutory shared parental pay ”,
+- (c)[^c-b590a66c332bef09443f525f11887bcf] in paragraph (3) (incorrect payment: ordinary statutory paternity pay), for “ordinary statutory paternity pay” substitute “ statutory paternity pay ”,
+- (d)[^c-04502ad7bfe88aeb3b3c8aa0c38c9847] in paragraph (4) (incorrect payment: statutory adoption pay or additional statutory paternity pay), for “or additional statutory paternity pay” substitute “ or statutory shared parental pay ”,
+- (e)[^c-b590a66c332bef09443f525f11887bcf] in paragraph (5) (fraudulently or negligently providing incorrect information or receiving incorrect payments), for “ordinary statutory paternity pay” substitute “ statutory paternity pay ”.
 
 ### Welfare Reform Act (Northern Ireland) 2007 (c. 2)
 
-**7.**[^key-0f521dcf07a2bed50afaf4915b5188fd] In section 20 of the Welfare Reform Act (Northern Ireland) 2007 (relationship with statutory payments)—
+**7.**[^c-0f521dcf07a2bed50afaf4915b5188fd] In section 20 of the Welfare Reform Act (Northern Ireland) 2007 (relationship with statutory payments)—
 
 - (a) in subsection (6) (no entitlement to an employment and support allowance during an additional paternity pay period)—
   - (i) for “additional statutory paternity pay” substitute “ statutory shared parental pay ”,
   - (ii) for “a day that falls within the additional paternity pay period” substitute “ a day that falls within a period in respect of which statutory shared parental pay is payable ”,
 - (b) in subsection (7) (regulations providing for exceptions to subsection (6)), in paragraph (a), for “additional statutory paternity pay for a period” substitute “ statutory shared parental pay for a period ”,
-- (c)[^key-d71e519cfb9607d73d482e4b424fefea] in subsection (8) (definitions), omit the definition of “additional paternity pay period”.
+- (c)[^c-d71e519cfb9607d73d482e4b424fefea] in subsection (8) (definitions), omit the definition of “additional paternity pay period”.
 
 ### Pensions (No. 2) Act (Northern Ireland) 2008 (c. 1)
 
 **8.** In section 13 of the Pensions (No2) Act (Northern Ireland) 2008 (qualifying earnings), in subsection (3) (meaning of “earnings”)—
 
-- (a)[^key-dbcc4b14b8aa417c037278beb93805db] in paragraph (d), for “ordinary statutory paternity pay or additional statutory paternity pay” substitute “ statutory paternity pay ”,
-- (b)[^key-617073d93722bbb9e6c5e970ff8b345b] after paragraph (e) insert—
+- (a)[^c-dbcc4b14b8aa417c037278beb93805db] in paragraph (d), for “ordinary statutory paternity pay or additional statutory paternity pay” substitute “ statutory paternity pay ”,
+- (b)[^c-617073d93722bbb9e6c5e970ff8b345b] after paragraph (e) insert—
 
   > - (ea) statutory shared parental pay under Part 12ZC of that Act;
 
   .
 
-## SCHEDULE 2 — Repeals[^key-0fb3b1117751d36a391c3090f69075ae][^key-061acc9d5965163dfb9e8180da2973b3]
+## SCHEDULE 2 — Repeals[^c-0fb3b1117751d36a391c3090f69075ae][^c-061acc9d5965163dfb9e8180da2973b3]
 
 Section 22.
 
@@ -2511,124 +2511,124 @@ Section 22.
 
 ## Annotations
 
-[^key-75ed44b2153e12ad4428be0f12353643]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2015/1/section/1) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/a)
+[^c-75ed44b2153e12ad4428be0f12353643]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2015/1/section/1) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/a)
 
-[^key-57c8aa66e16e0077a7345014664f9606]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2015/1/section/2) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/b)
+[^c-57c8aa66e16e0077a7345014664f9606]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2015/1/section/2) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/b)
 
-[^key-7eacd5439b76248a96a5ab3806684925]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2015/1/section/3) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/c)
+[^c-7eacd5439b76248a96a5ab3806684925]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2015/1/section/3) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/c)
 
-[^key-7e254cd27a1ac0684e26a3047e02fe79]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2015/1/section/4) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-7e254cd27a1ac0684e26a3047e02fe79]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2015/1/section/4) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-c52e57d1ceaaf1239697f96bcb6632d5]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2015/1/section/5) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/d)
+[^c-c52e57d1ceaaf1239697f96bcb6632d5]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2015/1/section/5) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/d)
 
-[^key-75e2325228a888ae37b9837863f083b7]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2015/1/section/6) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/e)
+[^c-75e2325228a888ae37b9837863f083b7]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2015/1/section/6) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/e)
 
-[^key-3bdddb8bb117c04ecefa8e7d7efc35f4]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2015/1/section/7) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/b) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-3bdddb8bb117c04ecefa8e7d7efc35f4]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2015/1/section/7) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/b) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-962d5b523b588f26c16d24df96b92807]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2015/1/section/8) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(f)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/f)
+[^c-962d5b523b588f26c16d24df96b92807]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2015/1/section/8) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(f)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/f)
 
-[^key-447a283fcab276a284fd69b3a5fcb862]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2015/1/section/9) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(g)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/g)
+[^c-447a283fcab276a284fd69b3a5fcb862]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2015/1/section/9) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(g)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/g)
 
-[^key-d10e6914dad85cb9124a640b5b4a9cc3]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2015/1/section/10) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(h)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/h)
+[^c-d10e6914dad85cb9124a640b5b4a9cc3]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2015/1/section/10) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(h)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/h)
 
-[^key-09029e4a00dc289e40b81e474831b521]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2015/1/section/11) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(i)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/i)
+[^c-09029e4a00dc289e40b81e474831b521]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2015/1/section/11) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(i)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/i)
 
-[^key-b73de7fcfba928bbbfd0a3e6dd786b28]: Commencement: [S. 12(1)](https://www.legislation.gov.uk/nia/2015/1/section/12/1)[(2)](https://www.legislation.gov.uk/nia/2015/1/section/12/2) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(j)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/j) (with [art. 6(1)](https://www.legislation.gov.uk/nisr/2015/86/article/6/1))
+[^c-b73de7fcfba928bbbfd0a3e6dd786b28]: Commencement: [S. 12(1)](https://www.legislation.gov.uk/nia/2015/1/section/12/1)[(2)](https://www.legislation.gov.uk/nia/2015/1/section/12/2) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(j)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/j) (with [art. 6(1)](https://www.legislation.gov.uk/nisr/2015/86/article/6/1))
 
-[^key-f86b8b39e1a7a3943ff4356e9ca7dfbe]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2015/1/section/13) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/c) (with [art. 7(1)](https://www.legislation.gov.uk/nisr/2015/86/article/7/1))
+[^c-f86b8b39e1a7a3943ff4356e9ca7dfbe]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2015/1/section/13) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/c) (with [art. 7(1)](https://www.legislation.gov.uk/nisr/2015/86/article/7/1))
 
-[^key-373a52e83b5c385ee38437ebd3c7bb5a]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/nia/2015/1/section/14/1) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(k)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/k)
+[^c-373a52e83b5c385ee38437ebd3c7bb5a]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/nia/2015/1/section/14/1) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(k)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/k)
 
-[^key-551458a38d506493fdf241df3c9d16a9]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/nia/2015/1/section/14/1) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/d)
+[^c-551458a38d506493fdf241df3c9d16a9]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/nia/2015/1/section/14/1) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/d)
 
-[^key-8b858645d921ac963a3dd2416ecbcd0b]: Commencement: [S. 14(2)-(5)](https://www.legislation.gov.uk/nia/2015/1/section/14/2) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/d) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-8b858645d921ac963a3dd2416ecbcd0b]: Commencement: [S. 14(2)-(5)](https://www.legislation.gov.uk/nia/2015/1/section/14/2) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/d) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-11a8beb09a7542d7c1c2eb70fff95944]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2015/1/section/15) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(l)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/l)
+[^c-11a8beb09a7542d7c1c2eb70fff95944]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2015/1/section/15) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(l)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/l)
 
-[^key-ae4f974d2f17a856199780b830686b50]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2015/1/section/16) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(m)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/m) (with [art. 6(2)](https://www.legislation.gov.uk/nisr/2015/86/article/6/2))
+[^c-ae4f974d2f17a856199780b830686b50]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2015/1/section/16) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(m)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/m) (with [art. 6(2)](https://www.legislation.gov.uk/nisr/2015/86/article/6/2))
 
-[^key-4ab68e194bf2d1af53df3fbd3f85709f]: Commencement: [S. 17(1)-(3)](https://www.legislation.gov.uk/nia/2015/1/section/17/1) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/e)
+[^c-4ab68e194bf2d1af53df3fbd3f85709f]: Commencement: [S. 17(1)-(3)](https://www.legislation.gov.uk/nia/2015/1/section/17/1) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/e)
 
-[^key-2184f429a52f5f94881307262eb310f0]: Commencement: [S. 17(4)-(6)](https://www.legislation.gov.uk/nia/2015/1/section/17/4) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(n)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/n)
+[^c-2184f429a52f5f94881307262eb310f0]: Commencement: [S. 17(4)-(6)](https://www.legislation.gov.uk/nia/2015/1/section/17/4) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(n)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/n)
 
-[^key-422564921e5cb30cbb5f745fff4a45ed]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/nia/2015/1/section/18/1) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(o)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/o)
+[^c-422564921e5cb30cbb5f745fff4a45ed]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/nia/2015/1/section/18/1) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(o)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/o)
 
-[^key-e379f936ae51ddb0633bff195a5fb8ba]: Commencement: [S. 18(2)](https://www.legislation.gov.uk/nia/2015/1/section/18/2) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(o)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/o)
+[^c-e379f936ae51ddb0633bff195a5fb8ba]: Commencement: [S. 18(2)](https://www.legislation.gov.uk/nia/2015/1/section/18/2) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(o)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/o)
 
-[^key-700189cfe5960276a8b565553dfc42c4]: Commencement: [S. 18(2)](https://www.legislation.gov.uk/nia/2015/1/section/18/2) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(f)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/f)
+[^c-700189cfe5960276a8b565553dfc42c4]: Commencement: [S. 18(2)](https://www.legislation.gov.uk/nia/2015/1/section/18/2) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(f)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/f)
 
-[^key-71ea835d38edde4da18e0b2fe2d84b63]: Commencement: [S. 18(3)](https://www.legislation.gov.uk/nia/2015/1/section/18/3)[(4)](https://www.legislation.gov.uk/nia/2015/1/section/18/4) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(o)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/o)
+[^c-71ea835d38edde4da18e0b2fe2d84b63]: Commencement: [S. 18(3)](https://www.legislation.gov.uk/nia/2015/1/section/18/3)[(4)](https://www.legislation.gov.uk/nia/2015/1/section/18/4) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(o)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/o)
 
-[^key-5d4dfe36afc441a8270adb51dae0b9db]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2015/1/section/19) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(g)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/g) (with [art. 7(3)](https://www.legislation.gov.uk/nisr/2015/86/article/7/3))
+[^c-5d4dfe36afc441a8270adb51dae0b9db]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2015/1/section/19) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(g)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/g) (with [art. 7(3)](https://www.legislation.gov.uk/nisr/2015/86/article/7/3))
 
-[^key-1ff7e2560f06ea41bf612784f5a90f7f]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2015/1/section/20) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(p)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/p)
+[^c-1ff7e2560f06ea41bf612784f5a90f7f]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2015/1/section/20) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(p)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/p)
 
-[^key-9b02f34df4e67cd796f9af0a1ff4cb45]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2015/1/section/22) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(q)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/q)
+[^c-9b02f34df4e67cd796f9af0a1ff4cb45]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2015/1/section/22) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(q)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/q)
 
-[^key-8a5bc7d4556b409a4a35d02ce2a268d2]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2015/1/section/22) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(h)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/h)
+[^c-8a5bc7d4556b409a4a35d02ce2a268d2]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2015/1/section/22) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(1)(h)](https://www.legislation.gov.uk/nisr/2015/86/article/4/1/h)
 
-[^key-5420731130332d52fbf40c78b0c7b35e]: Commencement: Sch. 1 para. 1(1) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
+[^c-5420731130332d52fbf40c78b0c7b35e]: Commencement: Sch. 1 para. 1(1) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
 
-[^key-40654f6001577dbb74cfc1e1345dbe43]: Commencement: Sch. 1 para. 1(2)(a)(b)(ii)(f) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-40654f6001577dbb74cfc1e1345dbe43]: Commencement: Sch. 1 para. 1(2)(a)(b)(ii)(f) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-ca3c52f8e44b87070087d6c6e33786c2]: Commencement: Sch. 1 para. 1(2)(b)(i) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
+[^c-ca3c52f8e44b87070087d6c6e33786c2]: Commencement: Sch. 1 para. 1(2)(b)(i) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
 
-[^key-2258dbe0aaf091508bc060117df0b0a5]: Commencement: Sch. 1 para. 1(2)(b)(i)(e) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-2258dbe0aaf091508bc060117df0b0a5]: Commencement: Sch. 1 para. 1(2)(b)(i)(e) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-7280b41b2c6c5e10179fb3d752c06716]: Commencement: Sch. 1 para. 1(2)(b)(ii) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-7280b41b2c6c5e10179fb3d752c06716]: Commencement: Sch. 1 para. 1(2)(b)(ii) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-561b00c0948ddd05c67f482f73136c92]: Commencement: Sch. 1 para. 1(2)(c)(d)(3)(a) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
+[^c-561b00c0948ddd05c67f482f73136c92]: Commencement: Sch. 1 para. 1(2)(c)(d)(3)(a) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
 
-[^key-e30c1875ad439ed817daab91daea1314]: Commencement: Sch. 1 para. 1(2)(e) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
+[^c-e30c1875ad439ed817daab91daea1314]: Commencement: Sch. 1 para. 1(2)(e) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
 
-[^key-9857d67398482a3feb0fe50d60742330]: Commencement: Sch. 1 para. 1(3)(b) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
+[^c-9857d67398482a3feb0fe50d60742330]: Commencement: Sch. 1 para. 1(3)(b) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
 
-[^key-8f847dda67e6b8bebee6f6e98ee125c7]: Commencement: Sch. 1 para. 1(3)(b) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-8f847dda67e6b8bebee6f6e98ee125c7]: Commencement: Sch. 1 para. 1(3)(b) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/a) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-e8f292e7191a17c48847890c61151e66]: Commencement: Sch. 1 para. 1(4) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
+[^c-e8f292e7191a17c48847890c61151e66]: Commencement: Sch. 1 para. 1(4) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/a)
 
-[^key-f96d899f9c248e2ff59dd9cca8b91dfa]: Commencement: [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/1)[(5)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/5) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/b)
+[^c-f96d899f9c248e2ff59dd9cca8b91dfa]: Commencement: [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/1)[(5)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/5) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/b)
 
-[^key-a82d81066c7036f0a31c1eb5a50ed1a9]: Commencement: [Sch. 1 para. 2(2)-(4)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/2) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 3(2)(i)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/i), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5)
+[^c-a82d81066c7036f0a31c1eb5a50ed1a9]: Commencement: [Sch. 1 para. 2(2)-(4)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/2) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 3(2)(i)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/i), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5)
 
-[^key-76aab2b09643f5c53d44e6c32b82cdb9]: Commencement: [Sch. 1 para. 2(2)-(4)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/2) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 4(2)(h)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/h), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-76aab2b09643f5c53d44e6c32b82cdb9]: Commencement: [Sch. 1 para. 2(2)-(4)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/2) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 4(2)(h)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/h), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-d964ceafbeeba2f5bcda14d36103dfdf]: Commencement: [Sch. 1 para. 2(6)-(19)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/6) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/b) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-d964ceafbeeba2f5bcda14d36103dfdf]: Commencement: [Sch. 1 para. 2(6)-(19)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/2/6) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/b) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-8c2e8b16ae3d8ba1dedee40f7b13f636]: Commencement: [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/3/1) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/c)
+[^c-8c2e8b16ae3d8ba1dedee40f7b13f636]: Commencement: [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/3/1) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/c)
 
-[^key-4e02db41811f031d20cc0c683a97884b]: Commencement: [Sch. 1 para. 3(2)-(5)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/3/2) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 3(2)(i)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/i), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5)
+[^c-4e02db41811f031d20cc0c683a97884b]: Commencement: [Sch. 1 para. 3(2)-(5)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/3/2) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 3(2)(i)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/i), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5)
 
-[^key-3cc47d9433fc47e35e39962ea33cda04]: Commencement: [Sch. 1 para. 3(2)-(5)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/3/2) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 4(2)(h)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/h), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-3cc47d9433fc47e35e39962ea33cda04]: Commencement: [Sch. 1 para. 3(2)-(5)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/3/2) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 4(2)(h)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/h), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-158d9945a9a2245437faa188a11baa50]: Commencement: Sch. 1 para. 4(1)(2)(b)(c)(3)(4)(b) (5)(a)(6)-(8)(9)(b)(11)(b)(c)(d)(iii)(iv)(f)(iii)(14)(a)(i)(b)(ii)(15)(a)(i)(b)(ii)(16)(a)(17)(18) (19)(b)-(d) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d) (with [art. 6(1)](https://www.legislation.gov.uk/nisr/2015/86/article/6/1))
+[^c-158d9945a9a2245437faa188a11baa50]: Commencement: Sch. 1 para. 4(1)(2)(b)(c)(3)(4)(b) (5)(a)(6)-(8)(9)(b)(11)(b)(c)(d)(iii)(iv)(f)(iii)(14)(a)(i)(b)(ii)(15)(a)(i)(b)(ii)(16)(a)(17)(18) (19)(b)-(d) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d) (with [art. 6(1)](https://www.legislation.gov.uk/nisr/2015/86/article/6/1))
 
-[^key-96b2a90db94ed99cb5e250c18cb83fc6]: Commencement: Sch. 1 para. 4(2)(a)(4)(a)(5)(b)(9)(a)(10)(11)(a)(d)(i) (ii) (e)(f)(i)(ii)(iv)(g)(h) (12)(13)(14)(a)(ii)(b)(i)(15)(a)(ii)(b)(i)(16)(b)(19)(a) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-96b2a90db94ed99cb5e250c18cb83fc6]: Commencement: Sch. 1 para. 4(2)(a)(4)(a)(5)(b)(9)(a)(10)(11)(a)(d)(i) (ii) (e)(f)(i)(ii)(iv)(g)(h) (12)(13)(14)(a)(ii)(b)(i)(15)(a)(ii)(b)(i)(16)(b)(19)(a) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(c)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/c) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-52b8bb3893bf415823a47ffb4bbd44d2]: Commencement: Sch. 1 para. 5(1)(2)(a)(ii) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/e)
+[^c-52b8bb3893bf415823a47ffb4bbd44d2]: Commencement: Sch. 1 para. 5(1)(2)(a)(ii) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/e)
 
-[^key-73226b0a5e227eae8420c8273d1d4a30]: Commencement: Sch. 1 para. 5(2)-(4) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/d) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-73226b0a5e227eae8420c8273d1d4a30]: Commencement: Sch. 1 para. 5(2)-(4) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/d) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-c9f123c21055a75cb2ee213be31cba27]: Commencement: Sch. 1 para. 5(2)(a)(i)(iii)(iv)(3)(4) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 3(2)(i)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/i), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5)
+[^c-c9f123c21055a75cb2ee213be31cba27]: Commencement: Sch. 1 para. 5(2)(a)(i)(iii)(iv)(3)(4) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 3(2)(i)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/i), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5)
 
-[^key-b764f062ec7774493f822dd081c03849]: Commencement: Sch. 1 para. 5(2)(a)(i)(iii)(iv)(3)(4) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 4(2)(h)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/h), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-b764f062ec7774493f822dd081c03849]: Commencement: Sch. 1 para. 5(2)(a)(i)(iii)(iv)(3)(4) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 4(2)(h)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/h), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-04502ad7bfe88aeb3b3c8aa0c38c9847]: Commencement: Sch. 1 para. 6(1)(2)(c)(ii)(6)(b)(d) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(f)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/f) (with [art. 6(1)](https://www.legislation.gov.uk/nisr/2015/86/article/6/1))
+[^c-04502ad7bfe88aeb3b3c8aa0c38c9847]: Commencement: Sch. 1 para. 6(1)(2)(c)(ii)(6)(b)(d) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(f)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/f) (with [art. 6(1)](https://www.legislation.gov.uk/nisr/2015/86/article/6/1))
 
-[^key-83b8dcd1dae699c622fbfcb89bfb362d]: Commencement: Sch. 1 para. 6(2)(a)(b)(c)(i)(3)-(5) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 3(2)(i)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/i), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5)
+[^c-83b8dcd1dae699c622fbfcb89bfb362d]: Commencement: Sch. 1 para. 6(2)(a)(b)(c)(i)(3)-(5) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 3(2)(i)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/i), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5)
 
-[^key-57043fbee085b0127f5da00085729f44]: Commencement: Sch. 1 para. 6(2)(a)(b)(c)(i)(3)-(5) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 4(2)(h)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/h), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-57043fbee085b0127f5da00085729f44]: Commencement: Sch. 1 para. 6(2)(a)(b)(c)(i)(3)-(5) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [arts. 4(2)(h)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/h), [5](https://www.legislation.gov.uk/nisr/2015/86/article/5) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-b590a66c332bef09443f525f11887bcf]: Commencement: Sch. 1 para. 6(6)(a)(c)(e) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/e) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-b590a66c332bef09443f525f11887bcf]: Commencement: Sch. 1 para. 6(6)(a)(c)(e) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(e)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/e) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-0f521dcf07a2bed50afaf4915b5188fd]: Commencement: Sch. 1 para. 7(a)(b) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(g)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/g) (with [art. 6(1)](https://www.legislation.gov.uk/nisr/2015/86/article/6/1))
+[^c-0f521dcf07a2bed50afaf4915b5188fd]: Commencement: Sch. 1 para. 7(a)(b) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(g)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/g) (with [art. 6(1)](https://www.legislation.gov.uk/nisr/2015/86/article/6/1))
 
-[^key-d71e519cfb9607d73d482e4b424fefea]: Commencement: [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/7/c) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(f)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/f) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-d71e519cfb9607d73d482e4b424fefea]: Commencement: [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/7/c) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(f)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/f) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-dbcc4b14b8aa417c037278beb93805db]: Commencement: [Sch. 1 para. 8(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/8/a) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(g)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/g) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
+[^c-dbcc4b14b8aa417c037278beb93805db]: Commencement: [Sch. 1 para. 8(a)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/8/a) in operation at 5.4.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(2)(g)](https://www.legislation.gov.uk/nisr/2015/86/article/4/2/g) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2))
 
-[^key-617073d93722bbb9e6c5e970ff8b345b]: Commencement: [Sch. 1 para. 8(b)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/8/b) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(h)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/h)
+[^c-617073d93722bbb9e6c5e970ff8b345b]: Commencement: [Sch. 1 para. 8(b)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/8/b) in operation at 15.3.2015 by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(h)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/h)
 
-[^key-0fb3b1117751d36a391c3090f69075ae]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(3)](https://www.legislation.gov.uk/nisr/2015/86/article/3/3)
+[^c-0fb3b1117751d36a391c3090f69075ae]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2) in operation at 15.3.2015 for specified purposes by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(3)](https://www.legislation.gov.uk/nisr/2015/86/article/3/3)
 
-[^key-061acc9d5965163dfb9e8180da2973b3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2)[(3)](https://www.legislation.gov.uk/nisr/2015/86/article/7/3))
+[^c-061acc9d5965163dfb9e8180da2973b3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nia/2015/1/schedule/2) in operation at 5.4.2015 in so far as not already in operation by [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 4(3)](https://www.legislation.gov.uk/nisr/2015/86/article/4/3) (with [art. 7(2)](https://www.legislation.gov.uk/nisr/2015/86/article/7/2)[(3)](https://www.legislation.gov.uk/nisr/2015/86/article/7/3))

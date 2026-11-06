@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Meetings and proceedings of communities[^key-b79b1598dfd93632a5db39ee44f565e5]
+## 57. Meetings and proceedings of communities[^c-b79b1598dfd93632a5db39ee44f565e5]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ In Schedule 12 to the 1972 Act (meetings and proceedings of local authorities)â€
 
 ## Annotations
 
-[^key-b79b1598dfd93632a5db39ee44f565e5]: Commencement: S. 57 in force at 1.5.2015 by [S.I. 2015/1182](https://www.legislation.gov.uk/wsi/2015/1182), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/1182/article/2/c)
+[^c-b79b1598dfd93632a5db39ee44f565e5]: Commencement: S. 57 in force at 1.5.2015 by [S.I. 2015/1182](https://www.legislation.gov.uk/wsi/2015/1182), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/1182/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88A. Additional information if party not relevant national[^key-63b1d8d9a9a1b7eedb9ae21ee6c41c30]
+## 88A. Additional information if party not relevant national[^c-63b1d8d9a9a1b7eedb9ae21ee6c41c30]
 
 *Extent: S*
 
@@ -50,7 +50,7 @@ summary: ''
 - (b) if the notice is accompanied by statement D for a party to the proposed civil partnership, the person may provide the district registrar with details of his immigration position in the United Kingdom; and
 - (c) if any such details are provided, the district registrar must record them.
 
-(9)[^key-47455cfa023ddef1c93fbd0247de7562] In this section and section 88B—
+(9)[^c-47455cfa023ddef1c93fbd0247de7562] In this section and section 88B—
 
 - (a) a reference—
   - (i) to a person having the appropriate immigration status, or
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-63b1d8d9a9a1b7eedb9ae21ee6c41c30]: Textual amendment: Ss. 88A-88F inserted for specified purposes (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396)](https://www.legislation.gov.uk/uksi/2015/396), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/396/schedule/3/paragraph/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/396/article/1/3))
+[^c-63b1d8d9a9a1b7eedb9ae21ee6c41c30]: Textual amendment: Ss. 88A-88F inserted for specified purposes (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396)](https://www.legislation.gov.uk/uksi/2015/396), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/396/schedule/3/paragraph/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/396/article/1/3))
 
-[^key-47455cfa023ddef1c93fbd0247de7562]: Modification: [S. 88A(9)](https://www.legislation.gov.uk/ukpga/2004/33/section/88A/9) applied (2.3.2015) by [The Sham Marriage and Civil Partnership (Scotland and Northern Ireland) (Administrative) Regulations 2015 (S.I. 2015/404)](https://www.legislation.gov.uk/uksi/2015/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/404/regulation/1/2), [17(4)(b)](https://www.legislation.gov.uk/uksi/2015/404/regulation/17/4/b)
+[^c-47455cfa023ddef1c93fbd0247de7562]: Modification: [S. 88A(9)](https://www.legislation.gov.uk/ukpga/2004/33/section/88A/9) applied (2.3.2015) by [The Sham Marriage and Civil Partnership (Scotland and Northern Ireland) (Administrative) Regulations 2015 (S.I. 2015/404)](https://www.legislation.gov.uk/uksi/2015/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/404/regulation/1/2), [17(4)(b)](https://www.legislation.gov.uk/uksi/2015/404/regulation/17/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 108. Electronic communications[^key-e43cf77a2693f6403354dbf9ea81ea92]
+## 108. Electronic communications[^c-e43cf77a2693f6403354dbf9ea81ea92]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e43cf77a2693f6403354dbf9ea81ea92]: Commencement: [Art. 108](https://www.legislation.gov.uk/nisi/2015/2006/article/108) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(a)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/a)
+[^c-e43cf77a2693f6403354dbf9ea81ea92]: Commencement: [Art. 108](https://www.legislation.gov.uk/nisi/2015/2006/article/108) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(a)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/a)

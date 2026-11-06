@@ -46,23 +46,23 @@ In accordance with section 84(6) of that Act, the Scottish Ministers consider th
 
 In accordance with section 96(4) of the 2009 Act, a draft of this instrument has been laid before, and approved by resolution of, the Scottish Parliament.
 
-## 1. Citation and commencement[^key-105b95a32861b6622bc2c5583319af80]
+## 1. Citation and commencement[^c-105b95a32861b6622bc2c5583319af80]
 
 These Regulations may be cited as the Deposit and Return Scheme for Scotland Amendment Regulations 2023 and come into force on the day after the day on which these Regulations are made.
 
-## 2. Interpretation[^key-17bd5cf85cca30648783ebc22d2f9e26]
+## 2. Interpretation[^c-17bd5cf85cca30648783ebc22d2f9e26]
 
 In these Regulations “**the 2020 Regulations**” means the Deposit and Return Scheme for Scotland Regulations 2020[^f00002].
 
-## 3. Amendment of the 2020 Regulations[^key-ac25adfe33ccb431c9f413200162dd2f]
+## 3. Amendment of the 2020 Regulations[^c-ac25adfe33ccb431c9f413200162dd2f]
 
 The 2020 Regulations are amended in accordance with regulations 4 to 22.
 
-## 4. Amendment of commencement date[^key-665edd28bd71a9cf1b63eae61e8fe970]
+## 4. Amendment of commencement date[^c-665edd28bd71a9cf1b63eae61e8fe970]
 
 In regulation 1(5)[^f00003] (citation and commencement), for “16 August 2023” substitute “1 March 2024”.
 
-## 5. Interpretation[^key-48a6af32fc0970d1850e5ba9069e4fe0]
+## 5. Interpretation[^c-48a6af32fc0970d1850e5ba9069e4fe0]
 
 In regulation 2(1) (interpretation)—
 
@@ -83,7 +83,7 @@ In regulation 2(1) (interpretation)—
 
   .
 
-## 6. Scheme articles and scheme packaging[^key-9891277d8b58ba70bf16e65bbce59ba7]
+## 6. Scheme articles and scheme packaging[^c-9891277d8b58ba70bf16e65bbce59ba7]
 
 In regulation 3(2) (scheme articles and scheme packaging) in the definition of “scheme article”—
 
@@ -98,7 +98,7 @@ In regulation 3(2) (scheme articles and scheme packaging) in the definition of �
 
   .
 
-## 7. Low volume drink products[^key-8df2ef910006eaf47f4edbfd7da51656]
+## 7. Low volume drink products[^c-8df2ef910006eaf47f4edbfd7da51656]
 
 After regulation 3 (scheme articles and scheme packaging), insert—
 
@@ -125,14 +125,14 @@ After regulation 3 (scheme articles and scheme packaging), insert—
 
 .
 
-## 8. Obligations relating to charging deposits and marketing, offering for sale or selling articles[^key-0c7c566ec71acd13619900a13fd43b94]
+## 8. Obligations relating to charging deposits and marketing, offering for sale or selling articles[^c-0c7c566ec71acd13619900a13fd43b94]
 
 In regulation 5 (obligations relating to charging deposits and marketing, offering for sale or selling articles)—
 
 - (a) in paragraph (3)[^f00004], for “16 August 2023” substitute “1 March 2024”,
 - (b) in paragraph (3A)[^f00005], for “16 August 2023” substitute “1 March 2024”.
 
-## 9. Amendment of application for registration as a producer[^key-6ddd60e612e2c2b35afdb7c97b909f7c]
+## 9. Amendment of application for registration as a producer[^c-6ddd60e612e2c2b35afdb7c97b909f7c]
 
 In regulation 7(2) (application for registration as a producer)—
 
@@ -143,7 +143,7 @@ In regulation 7(2) (application for registration as a producer)—
 
   .
 
-## 10. Amendment of producer registration[^key-eb3378eff6fd4044d48392998f696b2b]
+## 10. Amendment of producer registration[^c-eb3378eff6fd4044d48392998f696b2b]
 
 (1) In regulation 8 (producer registration)—
 
@@ -164,11 +164,11 @@ In regulation 7(2) (application for registration as a producer)—
 
     .
 
-## 11. Cancellation of registration of producers[^key-c4023da92a3d77fe9d372ab17a2b3aec]
+## 11. Cancellation of registration of producers[^c-c4023da92a3d77fe9d372ab17a2b3aec]
 
 In regulation 9(1)(c) (cancellation of registration of producers), for “regulation 7(2)(a)” substitute “regulation 7(2)(aa)”.
 
-## 12. Retailer obligations[^key-ad6c8ec4ae79f64f70df7b26eb9a9886]
+## 12. Retailer obligations[^c-ad6c8ec4ae79f64f70df7b26eb9a9886]
 
 In regulation 19 (retailer obligations)—
 
@@ -191,7 +191,7 @@ In regulation 19 (retailer obligations)—
 
   .
 
-## 13. Return points[^key-4a2b6cbd3ed743cbca707f3b5107b636]
+## 13. Return points[^c-4a2b6cbd3ed743cbca707f3b5107b636]
 
 In regulation 20 (return points)—
 
@@ -215,7 +215,7 @@ In regulation 20 (return points)—
 
   .
 
-## 14. Hospitality retailers[^key-3871aa4e819c331f182ceab4f60e4588]
+## 14. Hospitality retailers[^c-3871aa4e819c331f182ceab4f60e4588]
 
 After regulation 20 insert—
 
@@ -225,7 +225,7 @@ After regulation 20 insert—
 
 .
 
-## 15. Takeback services[^key-471f4f09bfa97633b219e08c0231d161]
+## 15. Takeback services[^c-471f4f09bfa97633b219e08c0231d161]
 
 For regulation 21 (takeback services), substitute—
 
@@ -289,7 +289,7 @@ For regulation 21 (takeback services), substitute—
 
 .
 
-## 16. Right of appeal or review[^key-1a9a4a01d62a147cd025e5ccf25016c3]
+## 16. Right of appeal or review[^c-1a9a4a01d62a147cd025e5ccf25016c3]
 
 In regulation 26(1) (right of appeal or review) insert at the end of sub-paragraph (b)—
 
@@ -299,7 +299,7 @@ In regulation 26(1) (right of appeal or review) insert at the end of sub-paragra
 
 .
 
-## 17. Offences[^key-e62f62599326c8eb949995ae5966a954]
+## 17. Offences[^c-e62f62599326c8eb949995ae5966a954]
 
 In regulation 31 (offences)—
 
@@ -341,11 +341,11 @@ In regulation 31 (offences)—
 
     .
 
-## 18. Amendment of duty to review these regulations date[^key-b12a38a8b308886f6886a50b4108479e]
+## 18. Amendment of duty to review these regulations date[^c-b12a38a8b308886f6886a50b4108479e]
 
 In regulation 32(1) (duty to review these regulations) for “1 October 2026” substitute “1 October 2027”.
 
-## 19. Producer registration: Information to be contained in an application for producer registration[^key-03718e0f2f6a3d86792dc1b6ad228780]
+## 19. Producer registration: Information to be contained in an application for producer registration[^c-03718e0f2f6a3d86792dc1b6ad228780]
 
 In schedule 1 (producer registration: information to be contained in an application for producer registration)—
 
@@ -362,18 +362,18 @@ In schedule 1 (producer registration: information to be contained in an applicat
 
   .
 
-## 20. Amendment of collection targets[^key-5fac31877568204476f7abed09b6eebe]
+## 20. Amendment of collection targets[^c-5fac31877568204476f7abed09b6eebe]
 
 In paragraph 1 of schedule 3 (collection targets)—
 
 - (a) in sub-paragraph (b), for “beginning 1 January 2024 and ending 31 December 2024” substitute “beginning 1 January 2025 and ending 31 December 2025”,
 - (b) in sub-paragraph (c), for “1 January 2025” substitute “1 January 2026”.
 
-## 21. Low volume drink products[^key-583b21668a49d302e0443f6af3c11811]
+## 21. Low volume drink products[^c-583b21668a49d302e0443f6af3c11811]
 
 After schedule 4 (registration of a voluntary return point: information to be contained in an application for registration) insert the schedule contained in the schedule of these Regulations.
 
-## 22. Transitional provision[^key-269cf4544ae36535cc9dda43a798ef1f]
+## 22. Transitional provision[^c-269cf4544ae36535cc9dda43a798ef1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -387,7 +387,7 @@ Edinburgh
 
 29th June 2023
 
-## SCHEDULE — INSERTION OF SCHEDULE 5 OF THE 2020 REGULATIONS[^key-3ab026af693481ef9da5241e5b8b6a4e]
+## SCHEDULE — INSERTION OF SCHEDULE 5 OF THE 2020 REGULATIONS[^c-3ab026af693481ef9da5241e5b8b6a4e]
 
 Regulation 21
 
@@ -552,58 +552,58 @@ An update to the Business Regulatory Impact Assessment will be published by the 
 
 [^f00001]: Footnote: [2009 asp 12](https://www.legislation.gov.uk/asp/2009/12).
 
-[^key-105b95a32861b6622bc2c5583319af80]: Commencement: Reg. 1 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-105b95a32861b6622bc2c5583319af80]: Commencement: Reg. 1 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-17bd5cf85cca30648783ebc22d2f9e26]: Commencement: Reg. 2 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-17bd5cf85cca30648783ebc22d2f9e26]: Commencement: Reg. 2 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2020/154](https://www.legislation.gov.uk/ssi/2020/154), as amended by [S.S.I. 2022/76](https://www.legislation.gov.uk/ssi/2022/76).
 
-[^key-ac25adfe33ccb431c9f413200162dd2f]: Commencement: Reg. 3 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-ac25adfe33ccb431c9f413200162dd2f]: Commencement: Reg. 3 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-665edd28bd71a9cf1b63eae61e8fe970]: Commencement: Reg. 4 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-665edd28bd71a9cf1b63eae61e8fe970]: Commencement: Reg. 4 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
 [^f00003]: Footnote: Regulation 1(5) is relevantly amended by [S.S.I. 2022/76](https://www.legislation.gov.uk/ssi/2022/76).
 
-[^key-48a6af32fc0970d1850e5ba9069e4fe0]: Commencement: Reg. 5 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-48a6af32fc0970d1850e5ba9069e4fe0]: Commencement: Reg. 5 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-9891277d8b58ba70bf16e65bbce59ba7]: Commencement: Reg. 6 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-9891277d8b58ba70bf16e65bbce59ba7]: Commencement: Reg. 6 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-8df2ef910006eaf47f4edbfd7da51656]: Commencement: Reg. 7 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-8df2ef910006eaf47f4edbfd7da51656]: Commencement: Reg. 7 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-0c7c566ec71acd13619900a13fd43b94]: Commencement: Reg. 8 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-0c7c566ec71acd13619900a13fd43b94]: Commencement: Reg. 8 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
 [^f00004]: Footnote: Regulation 5(3) is relevantly amended by [S.S.I. 2022/76](https://www.legislation.gov.uk/ssi/2022/76).
 
 [^f00005]: Footnote: Regulation 5(3A) was inserted by [S.S.I. 2022/76](https://www.legislation.gov.uk/ssi/2022/76).
 
-[^key-6ddd60e612e2c2b35afdb7c97b909f7c]: Commencement: Reg. 9 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-6ddd60e612e2c2b35afdb7c97b909f7c]: Commencement: Reg. 9 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-eb3378eff6fd4044d48392998f696b2b]: Commencement: Reg. 10 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-eb3378eff6fd4044d48392998f696b2b]: Commencement: Reg. 10 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-c4023da92a3d77fe9d372ab17a2b3aec]: Commencement: Reg. 11 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-c4023da92a3d77fe9d372ab17a2b3aec]: Commencement: Reg. 11 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-ad6c8ec4ae79f64f70df7b26eb9a9886]: Commencement: Reg. 12 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-ad6c8ec4ae79f64f70df7b26eb9a9886]: Commencement: Reg. 12 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-4a2b6cbd3ed743cbca707f3b5107b636]: Commencement: Reg. 13 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-4a2b6cbd3ed743cbca707f3b5107b636]: Commencement: Reg. 13 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-3871aa4e819c331f182ceab4f60e4588]: Commencement: Reg. 14 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-3871aa4e819c331f182ceab4f60e4588]: Commencement: Reg. 14 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-471f4f09bfa97633b219e08c0231d161]: Commencement: Reg. 15 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-471f4f09bfa97633b219e08c0231d161]: Commencement: Reg. 15 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
 [^f00006]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-1a9a4a01d62a147cd025e5ccf25016c3]: Commencement: Reg. 16 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-1a9a4a01d62a147cd025e5ccf25016c3]: Commencement: Reg. 16 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-e62f62599326c8eb949995ae5966a954]: Commencement: Reg. 17 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-e62f62599326c8eb949995ae5966a954]: Commencement: Reg. 17 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-b12a38a8b308886f6886a50b4108479e]: Commencement: Reg. 18 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-b12a38a8b308886f6886a50b4108479e]: Commencement: Reg. 18 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-03718e0f2f6a3d86792dc1b6ad228780]: Commencement: Reg. 19 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-03718e0f2f6a3d86792dc1b6ad228780]: Commencement: Reg. 19 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-5fac31877568204476f7abed09b6eebe]: Commencement: Reg. 20 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-5fac31877568204476f7abed09b6eebe]: Commencement: Reg. 20 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-583b21668a49d302e0443f6af3c11811]: Commencement: Reg. 21 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-583b21668a49d302e0443f6af3c11811]: Commencement: Reg. 21 in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
 
-[^key-269cf4544ae36535cc9dda43a798ef1f]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/ssi/2023/201/regulation/22) omitted (3.11.2023) by virtue of [The Deposit and Return Scheme for Scotland (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/334)](https://www.legislation.gov.uk/ssi/2023/334), [regs. 1](https://www.legislation.gov.uk/ssi/2023/334/regulation/1), [11](https://www.legislation.gov.uk/ssi/2023/334/regulation/11)
+[^c-269cf4544ae36535cc9dda43a798ef1f]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/ssi/2023/201/regulation/22) omitted (3.11.2023) by virtue of [The Deposit and Return Scheme for Scotland (Miscellaneous Amendment) Regulations 2023 (S.S.I. 2023/334)](https://www.legislation.gov.uk/ssi/2023/334), [regs. 1](https://www.legislation.gov.uk/ssi/2023/334/regulation/1), [11](https://www.legislation.gov.uk/ssi/2023/334/regulation/11)
 
-[^key-3ab026af693481ef9da5241e5b8b6a4e]: Commencement: Sch. in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)
+[^c-3ab026af693481ef9da5241e5b8b6a4e]: Commencement: Sch. in force at 30.6.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2023/201/regulation/1)

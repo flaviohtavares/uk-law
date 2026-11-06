@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If, following confirmation of highly pathogenic avian influenza at a hatchery or in any[^key-661b9969e40576b421ac31c3ac1c5fb7] other captive birds on special category premises, or any birds on special category premises listed in article 22(3)(a) to (e) or (h)[^key-11656988445d3bd0a44db104db5b9a66] the Secretary of State is satisfied that applying less stringent measures than those in articles 28 to 31 would not endanger disease control, he may decide—
+(1) If, following confirmation of highly pathogenic avian influenza at a hatchery or in any[^c-661b9969e40576b421ac31c3ac1c5fb7] other captive birds on special category premises, or any birds on special category premises listed in article 22(3)(a) to (e) or (h)[^c-11656988445d3bd0a44db104db5b9a66] the Secretary of State is satisfied that applying less stringent measures than those in articles 28 to 31 would not endanger disease control, he may decide—
 
 - (a) not to make a declaration of any controlled zone around the premises;
 - (b) to declare fewer zones than required under article 28;
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-661b9969e40576b421ac31c3ac1c5fb7]: Textual amendment: Word in [art. 33(1)](https://www.legislation.gov.uk/uksi/2006/2702/article/33/1) inserted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/6/a)
+[^c-661b9969e40576b421ac31c3ac1c5fb7]: Textual amendment: Word in [art. 33(1)](https://www.legislation.gov.uk/uksi/2006/2702/article/33/1) inserted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/6/a)
 
-[^key-11656988445d3bd0a44db104db5b9a66]: Textual amendment: Words in [art. 33(1)](https://www.legislation.gov.uk/uksi/2006/2702/article/33/1) inserted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/6/b)
+[^c-11656988445d3bd0a44db104db5b9a66]: Textual amendment: Words in [art. 33(1)](https://www.legislation.gov.uk/uksi/2006/2702/article/33/1) inserted (27.10.2022) by [The Exotic Animal Disease (Amendment) (England) Order 2022 (S.I. 2022/1108)](https://www.legislation.gov.uk/uksi/2022/1108), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1108/article/1/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2022/1108/article/4/6/b)

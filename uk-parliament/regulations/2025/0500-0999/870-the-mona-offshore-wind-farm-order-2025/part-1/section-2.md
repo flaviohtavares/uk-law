@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-e9462f2bc6aed9849023bf3ff732d2e8]
+## 2. Interpretation[^c-e9462f2bc6aed9849023bf3ff732d2e8]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ summary: ''
   - (b) by other means but while in electronic form;
 - “**environmental statement**” means the document certified as the environmental statement by the Secretary of State under article 41 for the purposes of this Order including the documents listed in Table 6 of Schedule 15;
 - “**foundation**” means any one or more of: a multi-leg pin piled jacket foundation, multi-leg suction bucket jacket foundation, or gravity base foundation;
-- “**gravity base foundation[^key-5cd0e780458b86b2f29874938e39efb6]**” means a structure principally of steel, concrete, or steel and concrete with a base which rests on the seabed either due to its own weight with or without added ballast or additional skirts and associated equipment including scour protection, J-tubes, corrosion protection systems and access platforms and equipment;
+- “**gravity base foundation[^c-5cd0e780458b86b2f29874938e39efb6]**” means a structure principally of steel, concrete, or steel and concrete with a base which rests on the seabed either due to its own weight with or without added ballast or additional skirts and associated equipment including scour protection, J-tubes, corrosion protection systems and access platforms and equipment;
 - “**greenhouse gas reduction strategy**” means the document certified as the greenhouse gas reduction strategy by the Secretary of State under article 41 for the purposes of this Order;
 - “**highway**” and “**highway authority**” have the same meaning as in the 1980 Act[^f00016];
 - “**HVAC**” means high voltage alternating current;
@@ -83,7 +83,7 @@ summary: ''
 
   provided that such works do not give rise to any materially new or materially different environmental effects to those identified in the environmental statement; and any derivative of “**maintain**” is to be construed accordingly;
 - “**MCA**” means the Maritime and Coastguard Agency, the executive agency of the Department for Transport;
-- “mean high water springs” or “**MHWS**” means the highest level which spring[^key-f233f6795429da900793560bf221a206] tides reach on average over a period of time;
+- “mean high water springs” or “**MHWS**” means the highest level which spring[^c-f233f6795429da900793560bf221a206] tides reach on average over a period of time;
 - “mean low water springs” or “**MLWS**” means the lowest level that spring tides reach on average over a period of time;
 - “**measures to minimise disturbance to marine mammals and rafting birds from transiting vessels**” means the document certified as the measures to minimise disturbance to marine mammals and rafting birds from transiting vessels by the Secretary of State under article 41 for the purposes of this Order;
 - “**National Grid Substation**” means the substation at Bodelwyddan which is owned and operated by National Grid;
@@ -153,7 +153,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e9462f2bc6aed9849023bf3ff732d2e8]: Commencement: Art. 2 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-e9462f2bc6aed9849023bf3ff732d2e8]: Commencement: Art. 2 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
 [^f00004]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -179,11 +179,11 @@ summary: ''
 
 [^f00015]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-5cd0e780458b86b2f29874938e39efb6]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/870/article/2/1) substituted (24.10.2025) by [The Mona Offshore Wind Farm (Correction) Order 2025 (S.I. 2025/1123)](https://www.legislation.gov.uk/uksi/2025/1123), [art. 1](https://www.legislation.gov.uk/uksi/2025/1123/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1123/schedule)
+[^c-5cd0e780458b86b2f29874938e39efb6]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/870/article/2/1) substituted (24.10.2025) by [The Mona Offshore Wind Farm (Correction) Order 2025 (S.I. 2025/1123)](https://www.legislation.gov.uk/uksi/2025/1123), [art. 1](https://www.legislation.gov.uk/uksi/2025/1123/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1123/schedule)
 
 [^f00016]: Footnote: “highway” is defined in section 328(1) for “highway authority” see section 1. Relevant amendments are as follows: section 1 was amended by sections 8 and 102 and Schedule 4, paragraph 1 and Schedule 17 of the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), by section 21 of the 1991 Act and by section 1(6) and Schedule 1, paragraph 2 of the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), and by [S.I. 1991/2288](https://www.legislation.gov.uk/uksi/1991/2288).
 
-[^key-f233f6795429da900793560bf221a206]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/870/article/2/1) inserted (24.10.2025) by [The Mona Offshore Wind Farm (Correction) Order 2025 (S.I. 2025/1123)](https://www.legislation.gov.uk/uksi/2025/1123), [art. 1](https://www.legislation.gov.uk/uksi/2025/1123/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1123/schedule)
+[^c-f233f6795429da900793560bf221a206]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/870/article/2/1) inserted (24.10.2025) by [The Mona Offshore Wind Farm (Correction) Order 2025 (S.I. 2025/1123)](https://www.legislation.gov.uk/uksi/2025/1123), [art. 1](https://www.legislation.gov.uk/uksi/2025/1123/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1123/schedule)
 
 [^f00017]: Footnote: Section 48 was amended by sections 124 and 134 of the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26).
 

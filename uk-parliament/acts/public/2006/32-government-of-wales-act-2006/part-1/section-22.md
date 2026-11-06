@@ -22,10 +22,10 @@ summary: ''
 
 (1) Different provision may be made under section 20 or 21 for different cases.
 
-(2) The[^c20932001] Senedd[^key-60edd79c70d763519861630d1afb7962] Commission must ensure that information concerning—
+(2) The[^c20932001] Senedd[^c-60edd79c70d763519861630d1afb7962] Commission must ensure that information concerning—
 
-- (a) the amounts paid to each Member of the Senedd[^key-77862aa11ba8e490f1db71c8f7e15ec1] as salary and allowances, and
-- (b) the total amount paid to Members of the Senedd[^key-959ca092134c70e47fe7789224d88f33] as salaries and allowances,
+- (a) the amounts paid to each Member of the Senedd[^c-77862aa11ba8e490f1db71c8f7e15ec1] as salary and allowances, and
+- (b) the total amount paid to Members of the Senedd[^c-959ca092134c70e47fe7789224d88f33] as salaries and allowances,
 
 is published for each financial year [^c20932041]. . . .
 
@@ -33,7 +33,7 @@ is published for each financial year [^c20932041]. . . .
 
 (4) For the purposes of sections 20 and 21 a person who—
 
-- (a) ceases to be a Member of the Senedd[^key-9348d22b2d042136af6e1508e7843105] when the Senedd is dissolved, but
+- (a) ceases to be a Member of the Senedd[^c-9348d22b2d042136af6e1508e7843105] when the Senedd is dissolved, but
 - (b) is nominated as a candidate at the subsequent general election,
 
 is to be treated as a Member of the Senedd until the end of the day on which the poll at the election is held.
@@ -53,14 +53,14 @@ the fact that the person is no longer a Member of the Senedd does not affect any
 
 [^c20932001]: Textual amendment: Words in s. 22(2) substituted (24.9.2010) by [National Assembly for Wales (Remuneration) Measure 2010 (nawm 4)](https://www.legislation.gov.uk/mwa/2010/4), [ss. 16](https://www.legislation.gov.uk/mwa/2010/4/section/16), [20(3)(4)](https://www.legislation.gov.uk/mwa/2010/4/section/20/3/4), [Sch. 3 para. 6](https://www.legislation.gov.uk/mwa/2010/4/schedule/3/paragraph/6) (with [s. 19](https://www.legislation.gov.uk/mwa/2010/4/section/19)) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
-[^key-77862aa11ba8e490f1db71c8f7e15ec1]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(16)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/16) (with [Sch. 1 para. 2(11)(12)(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11/12/14))
+[^c-77862aa11ba8e490f1db71c8f7e15ec1]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(16)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/16) (with [Sch. 1 para. 2(11)(12)(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11/12/14))
 
-[^key-959ca092134c70e47fe7789224d88f33]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(17)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/17) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
+[^c-959ca092134c70e47fe7789224d88f33]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(17)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/17) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
 
 [^c20932041]: Textual amendment: Words in s. 22(2) omitted (24.9.2010) by virtue of [National Assembly for Wales (Remuneration) Measure 2010 (nawm 4)](https://www.legislation.gov.uk/mwa/2010/4), [ss. 16](https://www.legislation.gov.uk/mwa/2010/4/section/16), [20(3)(4)](https://www.legislation.gov.uk/mwa/2010/4/section/20/3/4), [Sch. 3 para. 6](https://www.legislation.gov.uk/mwa/2010/4/schedule/3/paragraph/6) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
 
 [^c20932061]: Textual amendment: S. 22(3) substituted (24.9.2010) by [National Assembly for Wales (Remuneration) Measure 2010 (nawm 4)](https://www.legislation.gov.uk/mwa/2010/4), [ss. 16](https://www.legislation.gov.uk/mwa/2010/4/section/16), [20(3)(4)](https://www.legislation.gov.uk/mwa/2010/4/section/20/3/4), [Sch. 3 para. 7](https://www.legislation.gov.uk/mwa/2010/4/schedule/3/paragraph/7) (with [s. 19](https://www.legislation.gov.uk/mwa/2010/4/section/19)) (the amending provision coming into force the day after notice under s. 20(3)(4) of the amending Measure was laid before the Assembly on 23.9.2010)
 
-[^key-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
+[^c-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32ZE. Requiring a person to make an application for registration[^key-7140f3e266946d758a7f5c33048ecd34]
+## 32ZE. Requiring a person to make an application for registration[^c-7140f3e266946d758a7f5c33048ecd34]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 - (e) that, if the person is registered at another address, they must, before the date in sub-paragraph (a), inform the registration officer of that fact and provide that address, and the person is not required to make an application for registration;
 - (f) that the person may make other representations before the date in sub-paragraph (a) as to why they should not be required to make an application to register by the specified date, or why a civil penalty should not be imposed if they do not do so.
 
-(3A)[^key-c9dfd43dd8bef4c9c3050ae549172439] In relation to the registration of local government electors in Wales, the following provisions of this regulation do not apply in the case of a person who is under the age of 16—
+(3A)[^c-c9dfd43dd8bef4c9c3050ae549172439] In relation to the registration of local government electors in Wales, the following provisions of this regulation do not apply in the case of a person who is under the age of 16—
 
 - (a) paragraphs (2)(b)(iii) and (3)(b) and (c);
 - (b) paragraph (3)(f), so far as requiring a notice to state that the person may make representations about why a civil penalty should not be imposed.
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7140f3e266946d758a7f5c33048ecd34]: Textual amendment: Regs. 32ZA-32ZI inserted (10.6.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [regs. 1(5)(c)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5/c), [22](https://www.legislation.gov.uk/uksi/2013/3198/regulation/22) (as amended by [S.I. 2014/1234](https://www.legislation.gov.uk/uksi/2014/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1234/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1234/regulation/4))
+[^c-7140f3e266946d758a7f5c33048ecd34]: Textual amendment: Regs. 32ZA-32ZI inserted (10.6.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [regs. 1(5)(c)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/5/c), [22](https://www.legislation.gov.uk/uksi/2013/3198/regulation/22) (as amended by [S.I. 2014/1234](https://www.legislation.gov.uk/uksi/2014/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1234/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1234/regulation/4))
 
-[^key-c9dfd43dd8bef4c9c3050ae549172439]: Textual amendment: [Reg. 32ZE(3A)](https://www.legislation.gov.uk/uksi/2001/341/regulation/32ZE/3A) inserted (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 14(4)](https://www.legislation.gov.uk/anaw/2020/1/section/14/4), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)
+[^c-c9dfd43dd8bef4c9c3050ae549172439]: Textual amendment: [Reg. 32ZE(3A)](https://www.legislation.gov.uk/uksi/2001/341/regulation/32ZE/3A) inserted (1.6.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [ss. 14(4)](https://www.legislation.gov.uk/anaw/2020/1/section/14/4), [42(3)(a)](https://www.legislation.gov.uk/anaw/2020/1/section/42/3/a)

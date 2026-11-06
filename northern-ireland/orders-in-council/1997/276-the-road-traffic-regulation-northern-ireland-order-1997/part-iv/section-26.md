@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Acquisition and inspection, etc., of apparatus[^key-dc2e42a6dc2efe10f60963a69ccbd288]
+## 26. Acquisition and inspection, etc., of apparatus[^c-dc2e42a6dc2efe10f60963a69ccbd288]
 
 *Extent: N.I.*
 
-(1) The parking authority[^key-3acfbbfbab606049d15a5705700ece56] may acquire, whether by purchase or hiring, such apparatus as appears to the parking authority to be required for the purposes of its functions under this Part.
+(1) The parking authority[^c-3acfbbfbab606049d15a5705700ece56] may acquire, whether by purchase or hiring, such apparatus as appears to the parking authority to be required for the purposes of its functions under this Part.
 
 (2) The parking authority may erect, maintain and operate any such apparatus—
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc2e42a6dc2efe10f60963a69ccbd288]: Modification: Arts. 25-27: transfer of functions (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(1)](https://www.legislation.gov.uk/nia/2015/3/article/1/1)[(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8) (with [art. 1(2)](https://www.legislation.gov.uk/nia/2015/3/article/1/2))
+[^c-dc2e42a6dc2efe10f60963a69ccbd288]: Modification: Arts. 25-27: transfer of functions (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(1)](https://www.legislation.gov.uk/nia/2015/3/article/1/1)[(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8) (with [art. 1(2)](https://www.legislation.gov.uk/nia/2015/3/article/1/2))
 
-[^key-3acfbbfbab606049d15a5705700ece56]: Textual amendment: Words in art. 26 substituted (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8), [Sch. para. 4](https://www.legislation.gov.uk/nia/2015/3/schedule/paragraph/4)
+[^c-3acfbbfbab606049d15a5705700ece56]: Textual amendment: Words in art. 26 substituted (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8), [Sch. para. 4](https://www.legislation.gov.uk/nia/2015/3/schedule/paragraph/4)

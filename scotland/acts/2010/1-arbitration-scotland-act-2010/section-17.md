@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Power to adapt enactments providing for statutory arbitration[^key-f8b8c2340a156b3896ee8e50e23678e5]
+## 17. Power to adapt enactments providing for statutory arbitration[^c-f8b8c2340a156b3896ee8e50e23678e5]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Ministers may by order—
 
 ## Annotations
 
-[^key-f8b8c2340a156b3896ee8e50e23678e5]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2010/1/section/17) in force at 7.6.2010 by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))
+[^c-f8b8c2340a156b3896ee8e50e23678e5]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2010/1/section/17) in force at 7.6.2010 by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3))

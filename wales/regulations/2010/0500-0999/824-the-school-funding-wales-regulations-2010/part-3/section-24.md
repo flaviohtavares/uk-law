@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Correction of errors[^key-fb8efc8ffa10606c88c9358c1fe44721]
+## 24. Correction of errors[^c-fb8efc8ffa10606c88c9358c1fe44721]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A local authority may at any time during a funding period redetermine a schoolâ€
 
 ## Annotations
 
-[^key-fb8efc8ffa10606c88c9358c1fe44721]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2010/824/regulation/24) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-fb8efc8ffa10606c88c9358c1fe44721]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2010/824/regulation/24) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

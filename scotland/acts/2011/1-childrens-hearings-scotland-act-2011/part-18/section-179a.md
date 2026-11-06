@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 179A. Request for information by person affected by child's offence or behaviour[^key-ca8acde30564a32ae5e35837a1213b5c]
+## 179A. Request for information by person affected by child's offence or behaviour[^c-ca8acde30564a32ae5e35837a1213b5c]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca8acde30564a32ae5e35837a1213b5c]: Textual amendment: Ss. 179A-179C inserted (29.11.2019) by [Age of Criminal Responsibility (Scotland) Act 2019 (asp 7)](https://www.legislation.gov.uk/asp/2019/7), [ss. 27(1)](https://www.legislation.gov.uk/asp/2019/7/section/27/1), [84(2)](https://www.legislation.gov.uk/asp/2019/7/section/84/2); [S.S.I. 2019/349](https://www.legislation.gov.uk/ssi/2019/349), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/349/regulation/2/b)
+[^c-ca8acde30564a32ae5e35837a1213b5c]: Textual amendment: Ss. 179A-179C inserted (29.11.2019) by [Age of Criminal Responsibility (Scotland) Act 2019 (asp 7)](https://www.legislation.gov.uk/asp/2019/7), [ss. 27(1)](https://www.legislation.gov.uk/asp/2019/7/section/27/1), [84(2)](https://www.legislation.gov.uk/asp/2019/7/section/84/2); [S.S.I. 2019/349](https://www.legislation.gov.uk/ssi/2019/349), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/349/regulation/2/b)

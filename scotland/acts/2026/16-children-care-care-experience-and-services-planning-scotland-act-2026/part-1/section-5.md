@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Financial assistance towards expenses of education or training etc.[^key-ef4a18a38d707e89df3c89f93de7b677]
+## 5. Financial assistance towards expenses of education or training etc.[^c-ef4a18a38d707e89df3c89f93de7b677]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef4a18a38d707e89df3c89f93de7b677]: Commencement: S. 5 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-ef4a18a38d707e89df3c89f93de7b677]: Commencement: S. 5 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

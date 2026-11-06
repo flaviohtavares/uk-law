@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Scheme requirements in relation to classes of persons[^key-e7fdddf1c638f644303371ae0db56fbd]
+## 14. Scheme requirements in relation to classes of persons[^c-e7fdddf1c638f644303371ae0db56fbd]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ A scheme must—
 
 ## Annotations
 
-[^key-e7fdddf1c638f644303371ae0db56fbd]: Commencement: Reg. 14 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-e7fdddf1c638f644303371ae0db56fbd]: Commencement: Reg. 14 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

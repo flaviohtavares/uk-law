@@ -22,19 +22,19 @@ summary: ''
 
 (1) On ceasing to employ an employee in respect of whom a code has been issued, the employer must complete Form P45.
 
-(1A)[^key-453ce54bfa7d3ebd7b5d110484a65a82] If Part 3 of Form P45 is not available—
+(1A)[^c-453ce54bfa7d3ebd7b5d110484a65a82] If Part 3 of Form P45 is not available—
 
 - (a) the employer is not required to complete that Part of the Form, and
 - (b) where the employer does not complete that Part, any requirement, however expressed, in these Regulations which relates only to Part 3 does not apply.
 
 (2) The employer must then—
 
-- (a) send Part 1 of that form to the Inland Revenue if the employer is one to whom paragraph (2A) applies[^key-277a383b390b0b2d35183173365eb2fb], and
+- (a) send Part 1 of that form to the Inland Revenue if the employer is one to whom paragraph (2A) applies[^c-277a383b390b0b2d35183173365eb2fb], and
 - (b) provide Parts 1A, 2 and 3 to the employee,
 
 on the day on which the employment ceases or, if that is not practicable, without unreasonable delay.
 
-(2A)[^key-4f0486538b3208b495885e3d902aca56] This paragraph applies to—
+(2A)[^c-4f0486538b3208b495885e3d902aca56] This paragraph applies to—
 
 - (a) non-Real Time Information employers, and
 - (b) Real Time Information employers to whom HMRC has given a notice requiring the employer to send to HMRC Form P45 or Form P46 on the commencement of a new employee’s employment.
@@ -75,16 +75,16 @@ on the day on which the employment ceases or, if that is not practicable, withou
 </tbody>
 </table>
 
-[^key-a9578e50398633d4aa04b52121b545bb]
+[^c-a9578e50398633d4aa04b52121b545bb]
 
 (5) This regulation is subject to regulations 38, 39 and 180 (death of employee etc).
 
 ## Annotations
 
-[^key-453ce54bfa7d3ebd7b5d110484a65a82]: Textual amendment: [Reg. 36(1A)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/36/1A) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2013/521/regulation/16)
+[^c-453ce54bfa7d3ebd7b5d110484a65a82]: Textual amendment: [Reg. 36(1A)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/36/1A) inserted (6.4.2013 with application in relation to the tax year 2013-14 and subsequent tax years) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2013 (S.I. 2013/521)](https://www.legislation.gov.uk/uksi/2013/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/521/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2013/521/regulation/16)
 
-[^key-277a383b390b0b2d35183173365eb2fb]: Textual amendment: Words in [reg. 36(2)(a)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/36/2/a) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2012/822/regulation/6/a)
+[^c-277a383b390b0b2d35183173365eb2fb]: Textual amendment: Words in [reg. 36(2)(a)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/36/2/a) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2012/822/regulation/6/a)
 
-[^key-4f0486538b3208b495885e3d902aca56]: Textual amendment: [Reg. 36(2A)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/36/2A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2012/822/regulation/6/b)
+[^c-4f0486538b3208b495885e3d902aca56]: Textual amendment: [Reg. 36(2A)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/36/2A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2012/822/regulation/6/b)
 
-[^key-a9578e50398633d4aa04b52121b545bb]: Textual amendment: Words in [reg. 36(4)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/36/4) Table 2 inserted (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2007/2969/regulation/3)
+[^c-a9578e50398633d4aa04b52121b545bb]: Textual amendment: Words in [reg. 36(4)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/36/4) Table 2 inserted (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2007/2969/regulation/3)

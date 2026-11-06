@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Redetermination of allocation of budget shares for funding periods 2 and 3[^key-9b9642b89f33eb0202164965b00a38bb]
+## 13. Redetermination of allocation of budget shares for funding periods 2 and 3[^c-9b9642b89f33eb0202164965b00a38bb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Not later than 31st March 2009 for funding period 2 or 31st March 2010 for fundi
 
 ## Annotations
 
-[^key-9b9642b89f33eb0202164965b00a38bb]: Commencement: Reg. 13 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-9b9642b89f33eb0202164965b00a38bb]: Commencement: Reg. 13 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

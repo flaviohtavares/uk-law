@@ -29,8 +29,8 @@ summary: ''
 
 or otherwise required in order to give effect to those Parts or to any such provision so far as it so operates or in connection with any description of business thereunder.
 
-(3)[^key-b70d47a1dfd0f0015298a97440b484dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b70d47a1dfd0f0015298a97440b484dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b70d47a1dfd0f0015298a97440b484dd]: Textual amendment: [S. 164(3)](https://www.legislation.gov.uk/ukpga/1992/8/section/164/3) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)
+[^c-b70d47a1dfd0f0015298a97440b484dd]: Textual amendment: [S. 164(3)](https://www.legislation.gov.uk/ukpga/1992/8/section/164/3) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)

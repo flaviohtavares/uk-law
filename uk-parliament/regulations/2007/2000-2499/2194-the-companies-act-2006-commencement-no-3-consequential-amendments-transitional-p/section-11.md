@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Revocation of spent transitional adaptations[^key-bb050dc1c3dbb569ad3a903a7ca89359]
+## 11. Revocation of spent transitional adaptations[^c-bb050dc1c3dbb569ad3a903a7ca89359]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ The following provisions (which make transitional adaptations that are no longer
 
 ## Annotations
 
-[^key-bb050dc1c3dbb569ad3a903a7ca89359]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2007/2194/article/11) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)
+[^c-bb050dc1c3dbb569ad3a903a7ca89359]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2007/2194/article/11) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)
 
 [^f00006]: Footnote: [S.I. 2006/3428 (C. 132)](https://www.legislation.gov.uk/uksi/2006/3428).
 

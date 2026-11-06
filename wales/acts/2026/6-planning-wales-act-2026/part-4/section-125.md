@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Power of planning authority to serve breach of condition notice[^key-14b7d3ff3be7bd4d9159cc6574867156]
+## 125. Power of planning authority to serve breach of condition notice[^c-14b7d3ff3be7bd4d9159cc6574867156]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14b7d3ff3be7bd4d9159cc6574867156]: Commencement: S. 125 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-14b7d3ff3be7bd4d9159cc6574867156]: Commencement: S. 125 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

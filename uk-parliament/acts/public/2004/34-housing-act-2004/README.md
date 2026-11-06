@@ -53,7 +53,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 1 — New system for assessing housing conditions and enforcing housing standards](part-1/section-1.md)
 - [Section 2 — Meaning of “category 1 hazard” and “category 2 hazard”](part-1/section-2.md)
 
-##### Additional standards for certain housing in England[^key-6177f7f86cf6614dbafc8a1f93c07cc7]
+##### Additional standards for certain housing in England[^c-6177f7f86cf6614dbafc8a1f93c07cc7]
 
 - [Section 2A — Power to set standards for qualifying residential premises](part-1/section-2a.md)
 - [Section 2B — Qualifying residential premises](part-1/section-2b.md)
@@ -379,11 +379,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 146 — Interpretation and modification of this Part](part-4/section-146.md)
 - [Section 147 — Index of defined expressions: Part 4](part-4/section-147.md)
 
-### Part 5[^key-c5a387f094be3db3ab8006c673ef8e8c]
+### Part 5[^c-c5a387f094be3db3ab8006c673ef8e8c]
 
 *Extent: E+W*
 
-#### Preliminary[^key-c5a387f094be3db3ab8006c673ef8e8c]
+#### Preliminary[^c-c5a387f094be3db3ab8006c673ef8e8c]
 
 **No longer in force.**
 
@@ -391,7 +391,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 149 — Meaning of “on the market” and related expressions](part-5/section-149.md)
 - [Section 150 — Acting as estate agent](part-5/section-150.md)
 
-#### Responsibility for marketing residential properties[^key-c5a387f094be3db3ab8006c673ef8e8c]
+#### Responsibility for marketing residential properties[^c-c5a387f094be3db3ab8006c673ef8e8c]
 
 **No longer in force.**
 
@@ -399,7 +399,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 152 — Responsibility of person acting as estate agent](part-5/section-152.md)
 - [Section 153 — Responsibility of the seller](part-5/section-153.md)
 
-#### Duties of a responsible person where a property is on the market[^key-c5a387f094be3db3ab8006c673ef8e8c]
+#### Duties of a responsible person where a property is on the market[^c-c5a387f094be3db3ab8006c673ef8e8c]
 
 **No longer in force.**
 
@@ -409,13 +409,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 157 — Section 156 (1) duty: imposition of conditions](part-5/section-157.md)
 - [Section 158 — Duty to ensure authenticity of documents in other situations](part-5/section-158.md)
 
-#### Other duties of person acting as estate agent[^key-c5a387f094be3db3ab8006c673ef8e8c]
+#### Other duties of person acting as estate agent[^c-c5a387f094be3db3ab8006c673ef8e8c]
 
 **No longer in force.**
 
 - [Section 159 — Other duties of person acting as estate agent](part-5/section-159.md)
 
-#### Exceptions from the duties[^key-c5a387f094be3db3ab8006c673ef8e8c]
+#### Exceptions from the duties[^c-c5a387f094be3db3ab8006c673ef8e8c]
 
 **No longer in force.**
 
@@ -423,20 +423,20 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 161 — Power to provide for further exceptions](part-5/section-161.md)
 - [Section 162 — Suspension of duties under sections 155 to 159](part-5/section-162.md)
 
-#### Contents of home information packs[^key-c5a387f094be3db3ab8006c673ef8e8c]
+#### Contents of home information packs[^c-c5a387f094be3db3ab8006c673ef8e8c]
 
 **No longer in force.**
 
 - [Section 163 — Contents of home information packs](part-5/section-163.md)
 - [Section 164 — Home condition reports](part-5/section-164.md)
 
-#### Register of home condition reports[^key-c5a387f094be3db3ab8006c673ef8e8c]
+#### Register of home condition reports[^c-c5a387f094be3db3ab8006c673ef8e8c]
 
 **No longer in force.**
 
 - [Section 165 — Register of home condition reports](part-5/section-165.md)
 
-#### Enforcement[^key-c5a387f094be3db3ab8006c673ef8e8c]
+#### Enforcement[^c-c5a387f094be3db3ab8006c673ef8e8c]
 
 **No longer in force.**
 
@@ -446,7 +446,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 169 — Offences relating to enforcement officers](part-5/section-169.md)
 - [Section 170 — Right of private action](part-5/section-170.md)
 
-#### Supplementary[^key-c5a387f094be3db3ab8006c673ef8e8c]
+#### Supplementary[^c-c5a387f094be3db3ab8006c673ef8e8c]
 
 **No longer in force.**
 
@@ -606,7 +606,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 230 — Powers and procedure of residential property tribunals](part-7/section-230.md)
 - [Section 231 — Appeals from residential property tribunals](part-7/section-231.md)
 
-#### First-tier Tribunal and Upper Tribunal[^key-4b040e62f71f722e916c710f9f5a66f7]
+#### First-tier Tribunal and Upper Tribunal[^c-4b040e62f71f722e916c710f9f5a66f7]
 
 - [Section 231A — Additional Powers of First-tier Tribunal and Upper Tribunal](part-7/section-231a.md)
 - [Section 231B — Transfer from court to First-tier Tribunal](part-7/section-231b.md)
@@ -661,7 +661,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 248 — Timing and location of things done electronically](part-7/section-248.md)
 - [Section 249 — Proof of designations](part-7/section-249.md)
 
-#### Financial penalties as alternative to prosecution[^key-eb962ac51f0039db0e98735790e709ca]
+#### Financial penalties as alternative to prosecution[^c-eb962ac51f0039db0e98735790e709ca]
 
 - [Section 249A — Financial penalties for certain housing offences in England](part-7/section-249a.md)
 
@@ -729,14 +729,14 @@ SCHEDULES
 
 ## Annotations
 
-[^key-6177f7f86cf6614dbafc8a1f93c07cc7]: Textual amendment: [Ss. 2A](https://www.legislation.gov.uk/ukpga/2004/34/section/2A), [2B](https://www.legislation.gov.uk/ukpga/2004/34/section/2B) and cross-heading inserted (27.12.2025 for the insertion of s. 2B for specified purposes, 22.6.2026 for the insertion of s. 2B for specified purposes) by Renters’ [Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 100(5)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/5), [145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/a/iii); [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/a)
+[^c-6177f7f86cf6614dbafc8a1f93c07cc7]: Textual amendment: [Ss. 2A](https://www.legislation.gov.uk/ukpga/2004/34/section/2A), [2B](https://www.legislation.gov.uk/ukpga/2004/34/section/2B) and cross-heading inserted (27.12.2025 for the insertion of s. 2B for specified purposes, 22.6.2026 for the insertion of s. 2B for specified purposes) by Renters’ [Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 100(5)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/5), [145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/a/iii); [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/a)
 
 [^c2057116]: Modification: Pt. 2 modified (E.) (1.10.2007) by The Houses in [Multiple Occupation (Certain Blocks of Flats) (Modifications to the Housing Act 2004 and Transitional Provisions for section 257 HMOs) (England) Regulations 2007 (S.I. 2007/1904)](https://www.legislation.gov.uk/uksi/2007/1904), [regs. 2-10](https://www.legislation.gov.uk/uksi/2007/1904/regulation/2)
 
 [^c2057126]: Modification: Pt. 2 modified (W.) (5.12.2007) by The Houses in [Multiple Occupation (Certain Blocks of Flats) (Modifications to the Housing Act 2004 and Transitional Provisions for section 257 HMOs) (Wales) Regulations 2007 (S.I. 2007/3231)](https://www.legislation.gov.uk/uksi/2007/3231), [regs. 2-10](https://www.legislation.gov.uk/uksi/2007/3231/regulation/2)
 
-[^key-c5a387f094be3db3ab8006c673ef8e8c]: Textual amendment: Pt. 5 repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 183(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/183/1), [240(1)(k)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/k), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)
+[^c-c5a387f094be3db3ab8006c673ef8e8c]: Textual amendment: Pt. 5 repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 183(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/183/1), [240(1)(k)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/k), [Sch. 25 Pt. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/29)
 
-[^key-4b040e62f71f722e916c710f9f5a66f7]: Textual amendment: Ss. 231A-231D inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 176](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/176) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-4b040e62f71f722e916c710f9f5a66f7]: Textual amendment: Ss. 231A-231D inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 176](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/176) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-eb962ac51f0039db0e98735790e709ca]: Textual amendment: S. 249A and cross-heading inserted (10.3.2017 for specified purposes, 6.4.2017 in so far as not already in force) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/7); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [regs. 3(b)](https://www.legislation.gov.uk/uksi/2017/281/regulation/3/b), 4(f)
+[^c-eb962ac51f0039db0e98735790e709ca]: Textual amendment: S. 249A and cross-heading inserted (10.3.2017 for specified purposes, 6.4.2017 in so far as not already in force) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/7); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [regs. 3(b)](https://www.legislation.gov.uk/uksi/2017/281/regulation/3/b), 4(f)

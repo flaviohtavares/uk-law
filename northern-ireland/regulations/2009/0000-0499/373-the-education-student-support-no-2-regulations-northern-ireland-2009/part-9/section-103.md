@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 103. Overpayments of college fee loan[^key-a22247ab550fe9c3e71fe12cf41876f1]
+## 103. Overpayments of college fee loan[^c-a22247ab550fe9c3e71fe12cf41876f1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a22247ab550fe9c3e71fe12cf41876f1]: Textual amendment: [Pt. 9 reg. 103](https://www.legislation.gov.uk/nisr/2009/373/part/9/regulation/103) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [11(d)](https://www.legislation.gov.uk/nisr/2022/75/regulation/11/d)
+[^c-a22247ab550fe9c3e71fe12cf41876f1]: Textual amendment: [Pt. 9 reg. 103](https://www.legislation.gov.uk/nisr/2009/373/part/9/regulation/103) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [11(d)](https://www.legislation.gov.uk/nisr/2022/75/regulation/11/d)

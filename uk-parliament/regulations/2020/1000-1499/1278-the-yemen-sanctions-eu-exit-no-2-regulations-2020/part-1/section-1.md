@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-a776a918d2d2b4b72a5ff4e4aa58a416][^key-b2f692cbe902cf04f4c7087af88391ff]
+## 1. Citation and commencement[^c-a776a918d2d2b4b72a5ff4e4aa58a416][^c-b2f692cbe902cf04f4c7087af88391ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a776a918d2d2b4b72a5ff4e4aa58a416]: Commencement: Reg. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-a776a918d2d2b4b72a5ff4e4aa58a416]: Commencement: Reg. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-b2f692cbe902cf04f4c7087af88391ff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1) in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/1)
+[^c-b2f692cbe902cf04f4c7087af88391ff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1) in force at 14.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(1)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/1)

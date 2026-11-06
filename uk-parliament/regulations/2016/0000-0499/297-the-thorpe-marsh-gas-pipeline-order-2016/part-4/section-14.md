@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Temporary stopping up of public rights of way[^key-98803c2cb6e93e6d5b54ab824f5dc6d8]
+## 14. Temporary stopping up of public rights of way[^c-98803c2cb6e93e6d5b54ab824f5dc6d8]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker may, in connection with the carrying out of the authorised develo
 
 ## Annotations
 
-[^key-98803c2cb6e93e6d5b54ab824f5dc6d8]: Commencement: Art. 14 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-98803c2cb6e93e6d5b54ab824f5dc6d8]: Commencement: Art. 14 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Duty to co-operate[^key-a61e4a6ad8a87d709154c44cfb858a47]
+## 30. Duty to co-operate[^c-a61e4a6ad8a87d709154c44cfb858a47]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ it may by notice in writing require the nominated undertaker to enter into an ag
 
 (5) Subsections (1) and (2) do not apply in relation to—
 
-- (a) a matter which pursuant to any enactment must or may be dealt with by the Office of Rail and Road[^key-45c628c40d0f702ffe5a9d34584e8961], or
+- (a) a matter which pursuant to any enactment must or may be dealt with by the Office of Rail and Road[^c-45c628c40d0f702ffe5a9d34584e8961], or
 - (b) a matter relating to an agreement which pursuant to any provision of that or any other agreement must or may be dealt with by the Office of Rail and Road.
 
 (6) In this section—
@@ -55,6 +55,6 @@ it may by notice in writing require the nominated undertaker to enter into an ag
 
 ## Annotations
 
-[^key-a61e4a6ad8a87d709154c44cfb858a47]: Modification: S. 30 applied (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/a)
+[^c-a61e4a6ad8a87d709154c44cfb858a47]: Modification: S. 30 applied (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/a)
 
-[^key-45c628c40d0f702ffe5a9d34584e8961]: Textual amendment: Words in s. 30(5) substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(t)(iii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/Pt/paragraph/4/t/iii)
+[^c-45c628c40d0f702ffe5a9d34584e8961]: Textual amendment: Words in s. 30(5) substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(t)(iii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/Pt/paragraph/4/t/iii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Power to modify licence conditions[^key-a221c4580847b9c7b13caf4da20bd25d]
+## 60. Power to modify licence conditions[^c-a221c4580847b9c7b13caf4da20bd25d]
 
 *Extent: N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a221c4580847b9c7b13caf4da20bd25d]: Commencement: Reg. 60 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-a221c4580847b9c7b13caf4da20bd25d]: Commencement: Reg. 60 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
 
 [^f00013]: Footnote: S.I. [1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032)

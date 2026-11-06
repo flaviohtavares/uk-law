@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Prohibition of commercial dealings in human material for transplantation[^key-9304e0e13f957eac923256ff97b2e57e]
+## 32. Prohibition of commercial dealings in human material for transplantation[^c-9304e0e13f957eac923256ff97b2e57e]
 
 *Extent: E+W+N.I.*
 
@@ -35,14 +35,14 @@ summary: ''
 
 (3) A person who engages in an activity to which subsection (1) or (2) applies does not commit an offence under that subsection if he is designated by the Authority as a person who may lawfully engage in the activity.
 
-(3A)[^key-f12eda22d38e35d0f88696b261d23e99] The Authority may not designate a person under subsection (3) if doing so would be incompatible with the principles set out in—
+(3A)[^c-f12eda22d38e35d0f88696b261d23e99] The Authority may not designate a person under subsection (3) if doing so would be incompatible with the principles set out in—
 
 - (a) Article 12 of [Directive 2004/23/EC](https://www.legislation.gov.uk/eudr/2004/0023) of the European Parliament and of the Council on setting standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells, or
 - (b) Article 13 of [Directive 2010/53/EU](https://www.legislation.gov.uk/eudr/2010/0053) of the European Parliament and of the Council on standards of quality and safety of human organs intended for transplantation,
 
 and for the purposes of this subsection as it applies in relation to Great Britain, those Articles of those Directives are to be read subject to the modifications set out in subsections (3B) and (3C).
 
-(3B)[^key-e7e6e8756c916ad4445f496545069725] Article 12 of Directive [2004/23/EC](https://www.legislation.gov.uk/eudr/2004/23)[^c23625201] is to be read as if—
+(3B)[^c-e7e6e8756c916ad4445f496545069725] Article 12 of Directive [2004/23/EC](https://www.legislation.gov.uk/eudr/2004/23)[^c23625201] is to be read as if—
 
 - (a) in paragraph 1—
   - (i) for the first subparagraph there were substituted—
@@ -77,7 +77,7 @@ and for the purposes of this subsection as it applies in relation to Great Brita
 (4) A person guilty of an offence under subsection (1) shall be liable—
 
 - (a) on summary conviction—
-  - (i) to imprisonment for a term not exceeding 12 months *(Extent: E+W)* *(affected by repeal, see note)*[^key-12beb4c7bdf2461458f7d3279f251fa7] the general limit in a magistrates’ court *(Extent: E+W)*, or
+  - (i) to imprisonment for a term not exceeding 12 months *(Extent: E+W)* *(affected by repeal, see note)*[^c-12beb4c7bdf2461458f7d3279f251fa7] the general limit in a magistrates’ court *(Extent: E+W)*, or
   - (ii) to a fine not exceeding the statutory maximum, or
   - (iii) to both;
 - (b) on conviction on indictment—
@@ -131,14 +131,14 @@ for use for the purpose of transplantation, the body shall be treated as control
 
 ## Annotations
 
-[^key-9304e0e13f957eac923256ff97b2e57e]: Commencement: S. 32 in force at 20.10.2005 by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/a)
+[^c-9304e0e13f957eac923256ff97b2e57e]: Commencement: S. 32 in force at 20.10.2005 by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/a)
 
-[^key-f12eda22d38e35d0f88696b261d23e99]: Textual amendment: S. 32(3A) substituted (31.12.2020) by [The Quality and Safety of Organs Intended for Transplantation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/483)](https://www.legislation.gov.uk/uksi/2019/483), [regs. 1](https://www.legislation.gov.uk/uksi/2019/483/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/483/regulation/2/2) (as substituted by [S.I. 2020/1305](https://www.legislation.gov.uk/uksi/2020/1305), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1305/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1305/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f12eda22d38e35d0f88696b261d23e99]: Textual amendment: S. 32(3A) substituted (31.12.2020) by [The Quality and Safety of Organs Intended for Transplantation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/483)](https://www.legislation.gov.uk/uksi/2019/483), [regs. 1](https://www.legislation.gov.uk/uksi/2019/483/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/483/regulation/2/2) (as substituted by [S.I. 2020/1305](https://www.legislation.gov.uk/uksi/2020/1305), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1305/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1305/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7e6e8756c916ad4445f496545069725]: Textual amendment: S. 32(3B)(3C) inserted (31.12.2020) by [The Quality and Safety of Organs Intended for Transplantation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/483)](https://www.legislation.gov.uk/uksi/2019/483), [regs. 1](https://www.legislation.gov.uk/uksi/2019/483/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/483/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7e6e8756c916ad4445f496545069725]: Textual amendment: S. 32(3B)(3C) inserted (31.12.2020) by [The Quality and Safety of Organs Intended for Transplantation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/483)](https://www.legislation.gov.uk/uksi/2019/483), [regs. 1](https://www.legislation.gov.uk/uksi/2019/483/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/483/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23625201]: Textual amendment: OJ No L 102, 07.04.2004, p48.
 
 [^c23625211]: Textual amendment: OJ No L 207, 06.08.2010, p14.
 
-[^key-12beb4c7bdf2461458f7d3279f251fa7]: Textual amendment: Words in [s. 32(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2004/30/section/32/4/a/i) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-12beb4c7bdf2461458f7d3279f251fa7]: Textual amendment: Words in [s. 32(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2004/30/section/32/4/a/i) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)

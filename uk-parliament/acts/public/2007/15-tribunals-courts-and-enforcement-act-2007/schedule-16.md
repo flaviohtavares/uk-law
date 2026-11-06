@@ -50,7 +50,7 @@ Section 106
 
 (2) For subsections (1) and (2) substitute—
 
-> (1) This section applies if the county court[^key-9cd44a96005b8fccf8621c3e5dba2956] revokes an administration order made in respect of an individual (“**the debtor**”) on one of the relevant grounds.
+> (1) This section applies if the county court[^c-9cd44a96005b8fccf8621c3e5dba2956] revokes an administration order made in respect of an individual (“**the debtor**”) on one of the relevant grounds.
 >
 > (2) The court may, at the time it revokes the administration order, make an order directing that this section and section 12 of the Company Directors Disqualification Act 1986 shall apply to the debtor for such period, not exceeding one year, as may be specified in the order.
 >
@@ -87,7 +87,7 @@ Section 106
 
 ### Charities Act 1993 (c. 10)
 
-**7.**[^key-c5af126e1dd9c94c065ac569cdd1c852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c5af126e1dd9c94c065ac569cdd1c852] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Pensions Act 1995 (c. 26)
 
@@ -113,7 +113,7 @@ Section 106
 
 **11.** (1) The Police Act 1997 is amended as follows.
 
-(2)[^key-abab2c7efb891caa82db25f18fb3f137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-abab2c7efb891caa82db25f18fb3f137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph 3 of Schedule 2 (disqualification for being appointed as or being member of a Service Authority), in sub-paragraph (1)(c), for the words from “section 429(2)(b)” to the end substitute “ section 429(2) of the Insolvency Act 1986 (disabilities on revocation of county court administration order); or ”.
 
@@ -145,8 +145,8 @@ Section 106
 
 ## Annotations
 
-[^key-9cd44a96005b8fccf8621c3e5dba2956]: Textual amendment: Words in [Sch. 16 para. 3(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/16/paragraph/3/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-9cd44a96005b8fccf8621c3e5dba2956]: Textual amendment: Words in [Sch. 16 para. 3(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/16/paragraph/3/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-c5af126e1dd9c94c065ac569cdd1c852]: Textual amendment: [Sch. 16 para. 7](https://www.legislation.gov.uk/ukpga/2007/15/schedule/16/paragraph/7) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-c5af126e1dd9c94c065ac569cdd1c852]: Textual amendment: [Sch. 16 para. 7](https://www.legislation.gov.uk/ukpga/2007/15/schedule/16/paragraph/7) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-abab2c7efb891caa82db25f18fb3f137]: Textual amendment: [Sch. 16 para. 11(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/16/paragraph/11/2) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))
+[^c-abab2c7efb891caa82db25f18fb3f137]: Textual amendment: [Sch. 16 para. 11(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/16/paragraph/11/2) repealed (30.8.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/940](https://www.legislation.gov.uk/uksi/2018/940), [reg. 2(1)(h)(ii)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/1/h/ii) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/940/regulation/2/2))

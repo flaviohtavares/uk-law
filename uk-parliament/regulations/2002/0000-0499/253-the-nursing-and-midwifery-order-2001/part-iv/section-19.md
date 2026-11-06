@@ -16,23 +16,23 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Post-registration training[^key-a04e2630eed92809f4a27f0cb01d687e][^key-12ee1810d0a1af78feda8cfefce36274]
+## 19. Post-registration training[^c-a04e2630eed92809f4a27f0cb01d687e][^c-12ee1810d0a1af78feda8cfefce36274]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-a04e2630eed92809f4a27f0cb01d687e] The Council may make rules requiring registrants to undertake such continuing professional development as it shall specify in standards.
+(1)[^c-a04e2630eed92809f4a27f0cb01d687e] The Council may make rules requiring registrants to undertake such continuing professional development as it shall specify in standards.
 
-(2)[^key-a04e2630eed92809f4a27f0cb01d687e] The rules may, in particular, make provision with respect to registrants who fail to comply with any requirements of the rules, including making provision for their registration to cease to have effect.
+(2)[^c-a04e2630eed92809f4a27f0cb01d687e] The rules may, in particular, make provision with respect to registrants who fail to comply with any requirements of the rules, including making provision for their registration to cease to have effect.
 
-(2A)[^key-679c742612c8a036e655fbf9aa948eda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-679c742612c8a036e655fbf9aa948eda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2B)[^key-679c742612c8a036e655fbf9aa948eda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2B)[^c-679c742612c8a036e655fbf9aa948eda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2C)[^key-679c742612c8a036e655fbf9aa948eda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2C)[^c-679c742612c8a036e655fbf9aa948eda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2D)[^key-679c742612c8a036e655fbf9aa948eda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2D)[^c-679c742612c8a036e655fbf9aa948eda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a04e2630eed92809f4a27f0cb01d687e] The Council may by rules require persons who have not practised or who have not practised for or during a prescribed period, to undertake such education or training or to gain such experience as it shall specify in standards.
+(3)[^c-a04e2630eed92809f4a27f0cb01d687e] The Council may by rules require persons who have not practised or who have not practised for or during a prescribed period, to undertake such education or training or to gain such experience as it shall specify in standards.
 
 (4) If the Council makes rules under paragraph (1) or (3), it shall establish the standards to be met in relation to—
 
@@ -47,8 +47,8 @@ and article 15(3) to (9) and articles 16 to 18 of this Order shall apply in resp
 
 ## Annotations
 
-[^key-a04e2630eed92809f4a27f0cb01d687e]: Commencement: [Art. 19(1)](https://www.legislation.gov.uk/uksi/2002/253/article/19/1)[(2)](https://www.legislation.gov.uk/uksi/2002/253/article/19/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/19/3) in force at 5.3.2004 for specified purposes as notified in the London Gazette (Issue 57218, published 27.2.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-a04e2630eed92809f4a27f0cb01d687e]: Commencement: [Art. 19(1)](https://www.legislation.gov.uk/uksi/2002/253/article/19/1)[(2)](https://www.legislation.gov.uk/uksi/2002/253/article/19/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/19/3) in force at 5.3.2004 for specified purposes as notified in the London Gazette (Issue 57218, published 27.2.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
 
-[^key-12ee1810d0a1af78feda8cfefce36274]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2002/253/article/19) in force at 1.8.2004 in so far as not already in force as notified in the London Gazette (Issue 57361, published 21.7.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-12ee1810d0a1af78feda8cfefce36274]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2002/253/article/19) in force at 1.8.2004 in so far as not already in force as notified in the London Gazette (Issue 57361, published 21.7.2004), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
 
-[^key-679c742612c8a036e655fbf9aa948eda]: Textual amendment: [Art. 19(2A)-(2D)](https://www.legislation.gov.uk/uksi/2002/253/article/19/2A) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/paragraph/14) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [12(3)-(10)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/12/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-679c742612c8a036e655fbf9aa948eda]: Textual amendment: [Art. 19(2A)-(2D)](https://www.legislation.gov.uk/uksi/2002/253/article/19/2A) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/paragraph/14) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/4/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [12(3)-(10)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/12/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

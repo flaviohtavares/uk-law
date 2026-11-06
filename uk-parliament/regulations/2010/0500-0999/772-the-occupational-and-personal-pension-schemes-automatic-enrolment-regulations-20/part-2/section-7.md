@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Subject to paragraph (2), for the purposes of the arrangements under section 3(2) of the Act, at any time before the end of a period of six weeks[^key-ee665c946ba939dee144b69dfcce99b6] beginning with the automatic enrolment date, the employer must give—
+(1) Subject to paragraph (2), for the purposes of the arrangements under section 3(2) of the Act, at any time before the end of a period of six weeks[^c-ee665c946ba939dee144b69dfcce99b6] beginning with the automatic enrolment date, the employer must give—
 
 - (a) the jobholder the enrolment information in writing; and
 - (b) the trustees or managers of the occupational pension scheme or the personal pension scheme provider the jobholder information in writing.
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee665c946ba939dee144b69dfcce99b6]: Textual amendment: Words in reg. 7(1)(3) substituted (1.4.2014) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/4)
+[^c-ee665c946ba939dee144b69dfcce99b6]: Textual amendment: Words in reg. 7(1)(3) substituted (1.4.2014) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/4)

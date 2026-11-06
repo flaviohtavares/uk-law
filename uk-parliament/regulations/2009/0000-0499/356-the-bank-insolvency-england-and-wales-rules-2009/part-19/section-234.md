@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 234. Definition of “proxy”[^key-de5f8b3dcb37dfff742a66dd4647ddc0]
+## 234. Definition of “proxy”[^c-de5f8b3dcb37dfff742a66dd4647ddc0]
 
 *Extent: E+W*
 
@@ -24,12 +24,12 @@ summary: ''
 
 (2) In paragraph (2) leave out “company”.
 
-(3)[^key-13cc0c0ecebd781677cf93fdca1d5faa] In paragraph (4), for “chairman of the meeting” to “official receiver” substitute “chair of the meeting or the bank liquidator.”
+(3)[^c-13cc0c0ecebd781677cf93fdca1d5faa] In paragraph (4), for “chairman of the meeting” to “official receiver” substitute “chair of the meeting or the bank liquidator.”
 
 ## Annotations
 
-[^key-de5f8b3dcb37dfff742a66dd4647ddc0]: Commencement: Rule 234 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-de5f8b3dcb37dfff742a66dd4647ddc0]: Commencement: Rule 234 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00077]: Footnote: All the rules under this chapter were amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).
 
-[^key-13cc0c0ecebd781677cf93fdca1d5faa]: Textual amendment: [Rule 234(3)](https://www.legislation.gov.uk/uksi/2009/356/rule/234/3) substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [72](https://www.legislation.gov.uk/uksi/2010/2579/rule/72)
+[^c-13cc0c0ecebd781677cf93fdca1d5faa]: Textual amendment: [Rule 234(3)](https://www.legislation.gov.uk/uksi/2009/356/rule/234/3) substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [72](https://www.legislation.gov.uk/uksi/2010/2579/rule/72)

@@ -35,115 +35,115 @@ on population and housing censuses
 
 (Text with EEA relevance) (revoked)
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17ab35f1032cce67d8e675d333cb2bab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-17ab35f1032cce67d8e675d333cb2bab]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-17ab35f1032cce67d8e675d333cb2bab]
+## Article 1. Subject matter[^c-17ab35f1032cce67d8e675d333cb2bab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Data submission[^key-17ab35f1032cce67d8e675d333cb2bab]
+## Article 2. Definitions[^c-17ab35f1032cce67d8e675d333cb2bab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Data sources[^key-17ab35f1032cce67d8e675d333cb2bab]
+## Article 3. Data submission[^c-17ab35f1032cce67d8e675d333cb2bab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Data transmission[^key-17ab35f1032cce67d8e675d333cb2bab]
+## Article 4. Data sources[^c-17ab35f1032cce67d8e675d333cb2bab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Quality assessment[^key-17ab35f1032cce67d8e675d333cb2bab]
+## Article 5. Data transmission[^c-17ab35f1032cce67d8e675d333cb2bab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Implementing measures[^key-17ab35f1032cce67d8e675d333cb2bab]
+## Article 6. Quality assessment[^c-17ab35f1032cce67d8e675d333cb2bab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Committee procedure[^key-17ab35f1032cce67d8e675d333cb2bab]
+## Article 7. Implementing measures[^c-17ab35f1032cce67d8e675d333cb2bab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-17ab35f1032cce67d8e675d333cb2bab]
+## Article 8. Committee procedure[^c-17ab35f1032cce67d8e675d333cb2bab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX — Topics to be covered in Population and Housing Censuses[^key-17ab35f1032cce67d8e675d333cb2bab]
-
-[^key-17ab35f1032cce67d8e675d333cb2bab]1.
+## Article 9. Entry into force[^c-17ab35f1032cce67d8e675d333cb2bab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]1.1.
+[^c-17ab35f1032cce67d8e675d333cb2bab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX — Topics to be covered in Population and Housing Censuses[^c-17ab35f1032cce67d8e675d333cb2bab]
+
+[^c-17ab35f1032cce67d8e675d333cb2bab]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]1.1.1.
+[^c-17ab35f1032cce67d8e675d333cb2bab]1.1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-17ab35f1032cce67d8e675d333cb2bab]1.1.1.
 
 Non-derived topics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]1.1.2.
+[^c-17ab35f1032cce67d8e675d333cb2bab]1.1.2.
 
 Derived topics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]1.2.
+[^c-17ab35f1032cce67d8e675d333cb2bab]1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]1.2.1.
+[^c-17ab35f1032cce67d8e675d333cb2bab]1.2.1.
 
 Non-derived topics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]1.2.2.
+[^c-17ab35f1032cce67d8e675d333cb2bab]1.2.2.
 
 Derived topics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]2.
+[^c-17ab35f1032cce67d8e675d333cb2bab]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]2.1.
+[^c-17ab35f1032cce67d8e675d333cb2bab]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]2.1.1.
+[^c-17ab35f1032cce67d8e675d333cb2bab]2.1.1.
 
 Non-derived topics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]2.1.2.
+[^c-17ab35f1032cce67d8e675d333cb2bab]2.1.2.
 
 Derived topics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]2.2.
+[^c-17ab35f1032cce67d8e675d333cb2bab]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]2.2.1.
+[^c-17ab35f1032cce67d8e675d333cb2bab]2.2.1.
 
 Non-derived topics
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]2.2.2.
+[^c-17ab35f1032cce67d8e675d333cb2bab]2.2.2.
 
 Derived topics
 
@@ -151,4 +151,4 @@ Derived topics
 
 ## Annotations
 
-[^key-17ab35f1032cce67d8e675d333cb2bab]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 133](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/133); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-17ab35f1032cce67d8e675d333cb2bab]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 133](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/133); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

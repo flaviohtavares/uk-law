@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Service of application[^key-8aee79d365fe28f9a161de94dc9085dd]
+## 9. Service of application[^c-8aee79d365fe28f9a161de94dc9085dd]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8aee79d365fe28f9a161de94dc9085dd]: Commencement: [Rule 9](https://www.legislation.gov.uk/nisr/2026/11/rule/9) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-8aee79d365fe28f9a161de94dc9085dd]: Commencement: [Rule 9](https://www.legislation.gov.uk/nisr/2026/11/rule/9) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Functions of Broads Authority and others in relation to the Broads[^key-572f406a97ccb8289b4d2f4e4b93d694]
+## 64. Functions of Broads Authority and others in relation to the Broads[^c-572f406a97ccb8289b4d2f4e4b93d694]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-572f406a97ccb8289b4d2f4e4b93d694]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2006/16/section/64) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-572f406a97ccb8289b4d2f4e4b93d694]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2006/16/section/64) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

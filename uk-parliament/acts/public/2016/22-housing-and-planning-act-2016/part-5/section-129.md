@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Use of information obtained for certain other statutory purposes[^key-b97ec8b3a7180cfc7b7447e059b41de4]
+## 129. Use of information obtained for certain other statutory purposes[^c-b97ec8b3a7180cfc7b7447e059b41de4]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b97ec8b3a7180cfc7b7447e059b41de4]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2016/22/section/129) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/g)
+[^c-b97ec8b3a7180cfc7b7447e059b41de4]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2016/22/section/129) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/g)

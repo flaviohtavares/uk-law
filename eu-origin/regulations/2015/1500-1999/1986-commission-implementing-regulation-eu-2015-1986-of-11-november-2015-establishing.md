@@ -36,116 +36,116 @@ establishing standard forms for the publication of notices in the field of publi
 
 (Text with EEA relevance) (revoked)
 
-[^key-97bf679668760196c142ed29c5e786e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97bf679668760196c142ed29c5e786e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-97bf679668760196c142ed29c5e786e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-97bf679668760196c142ed29c5e786e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-97bf679668760196c142ed29c5e786e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-97bf679668760196c142ed29c5e786e4]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX II[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX I[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX II[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX III[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX IV[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VI[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX V[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VII[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX VI[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VIII[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX VII[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IX[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX VIII[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX X[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX IX[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XI[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX X[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XII[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX XI[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XIII[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX XII[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XIV[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX XIII[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XV[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX XIV[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XVI[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX XV[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XVII[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX XVI[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XVIII[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX XVII[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XIX[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX XVIII[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XX[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX XIX[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XXI[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX XX[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX XXII[^key-97bf679668760196c142ed29c5e786e4]
+## ANNEX XXI[^c-97bf679668760196c142ed29c5e786e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX XXII[^c-97bf679668760196c142ed29c5e786e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-97bf679668760196c142ed29c5e786e4]: Textual amendment: Regulation revoked (31.12.2020) by [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/1319/regulation/22) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4))
+[^c-97bf679668760196c142ed29c5e786e4]: Textual amendment: Regulation revoked (31.12.2020) by [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/1319/regulation/22) (with [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Reporting restrictions and participation at accelerated misconduct hearing[^key-bea2722c13f661b93161e11e4f84378d]
+## 59. Reporting restrictions and participation at accelerated misconduct hearing[^c-bea2722c13f661b93161e11e4f84378d]
 
 *Extent: E+W*
 
@@ -30,10 +30,10 @@ summary: ''
 
 (3) Where the person conducting or chairing the accelerated misconduct hearing excludes a person under paragraph (2)(a) which has the effect of excluding a representative of the media, or gives a direction under paragraph (2)(c), any representative of the media may make representations to the person conducting or chairing the accelerated misconduct hearing about the exclusion or, as the case may be, direction.
 
-(4)[^key-90eef06e4178728f8c14eb091d45e653] Where the person conducting or chairing an accelerated misconduct hearing exercises their power under paragraph (2) to exclude any person from all or part of the hearing, impose conditions that have the effect of excluding any person from all or part of the hearing or prohibit the publication of any matter relating to the hearing, the person must give written reasons to the local policing body for taking such action.
+(4)[^c-90eef06e4178728f8c14eb091d45e653] Where the person conducting or chairing an accelerated misconduct hearing exercises their power under paragraph (2) to exclude any person from all or part of the hearing, impose conditions that have the effect of excluding any person from all or part of the hearing or prohibit the publication of any matter relating to the hearing, the person must give written reasons to the local policing body for taking such action.
 
 ## Annotations
 
-[^key-bea2722c13f661b93161e11e4f84378d]: Commencement: Reg. 59 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-bea2722c13f661b93161e11e4f84378d]: Commencement: Reg. 59 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-90eef06e4178728f8c14eb091d45e653]: Textual amendment: Reg. 59(4) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-90eef06e4178728f8c14eb091d45e653]: Textual amendment: Reg. 59(4) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2024/521/regulation/5/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))

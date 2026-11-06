@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Modification of Part 1 of the 1965 Act[^key-c5f0ea77708b59696f7f381e0212f29a]
+## 29. Modification of Part 1 of the 1965 Act[^c-c5f0ea77708b59696f7f381e0212f29a]
 
 *Extent: E+W*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c5f0ea77708b59696f7f381e0212f29a]: Commencement: Art. 29 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-c5f0ea77708b59696f7f381e0212f29a]: Commencement: Art. 29 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
 [^c24052671]: Marginal citation: Inserted by section 202(1) of the [Housing and Planning Act 2016 (c.22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

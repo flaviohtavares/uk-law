@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to paragraphs (2) to (4)[^key-369570fd596ea49c2edb1220aca90277] the following are not entitled to be active members in an employment—
+(1) Subject to paragraphs (2) to (4)[^c-369570fd596ea49c2edb1220aca90277] the following are not entitled to be active members in an employment—
 
 - (a) a person entitled to membership of another public service pension scheme in relation to that employment;
 - (b) a person aged 75 or over; or
@@ -38,14 +38,14 @@ summary: ''
 
 (3) Paragraph (1)(a) does not apply to a member on reserve forces service leave who is entitled to be a member of the Armed Forces Pension Scheme if the member makes an election to the Scheme employer to remain a member of the Scheme.
 
-(4)[^key-b396449ab8c5544fd161ca4c7da4a967] Paragraph (1)(a) does not apply to a person who is eligible to join the Scheme by reason of employment described in regulation 3A(1) if—
+(4)[^c-b396449ab8c5544fd161ca4c7da4a967] Paragraph (1)(a) does not apply to a person who is eligible to join the Scheme by reason of employment described in regulation 3A(1) if—
 
 - (a) the person is designated, or belongs to a class of employees that is designated as eligible for membership of the Scheme pursuant to regulation 3(1)(b); and
 - (b) the person is not an active member of any other public service pension scheme in relation to that employment.
 
 ## Annotations
 
-[^key-369570fd596ea49c2edb1220aca90277]: Textual amendment: Words in reg. 4(1) substituted (1.6.2014) by [The Local Government Pension Scheme (Offender Management) (Amendment) Regulations 2014 (S.I. 2014/1146)](https://www.legislation.gov.uk/uksi/2014/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/4/a)
+[^c-369570fd596ea49c2edb1220aca90277]: Textual amendment: Words in reg. 4(1) substituted (1.6.2014) by [The Local Government Pension Scheme (Offender Management) (Amendment) Regulations 2014 (S.I. 2014/1146)](https://www.legislation.gov.uk/uksi/2014/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/4/a)
 
 [^c21900041]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Section 77 has been amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7).
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^c21900061]: Marginal citation: [2008 c. 14](https://www.legislation.gov.uk/ukpga/2008/14).
 
-[^key-b396449ab8c5544fd161ca4c7da4a967]: Textual amendment: Reg. 4(4) inserted (1.6.2014) by [The Local Government Pension Scheme (Offender Management) (Amendment) Regulations 2014 (S.I. 2014/1146)](https://www.legislation.gov.uk/uksi/2014/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/4/b)
+[^c-b396449ab8c5544fd161ca4c7da4a967]: Textual amendment: Reg. 4(4) inserted (1.6.2014) by [The Local Government Pension Scheme (Offender Management) (Amendment) Regulations 2014 (S.I. 2014/1146)](https://www.legislation.gov.uk/uksi/2014/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2014/1146/regulation/4/b)

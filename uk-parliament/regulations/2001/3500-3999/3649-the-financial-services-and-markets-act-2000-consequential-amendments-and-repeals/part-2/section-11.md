@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Limitations on exemptions for small and medium-sized companies in relation to accounts etc.[^key-a058b92dbaec0d780753df00aea17c7b]
+## 11. Limitations on exemptions for small and medium-sized companies in relation to accounts etc.[^c-a058b92dbaec0d780753df00aea17c7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a058b92dbaec0d780753df00aea17c7b]: Commencement: Art. 11 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a058b92dbaec0d780753df00aea17c7b]: Commencement: Art. 11 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00018]: Footnote: Section 247A was inserted by [S.I. 1997/220](https://www.legislation.gov.uk/uksi/1997/220), regulation 4.

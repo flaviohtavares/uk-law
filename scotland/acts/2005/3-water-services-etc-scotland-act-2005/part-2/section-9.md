@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Fees relating to licences[^key-acc62a75d827528db7b104440b78a86e][^key-402028533f3c98c5a819addb5e5190a6]
+## 9. Fees relating to licences[^c-acc62a75d827528db7b104440b78a86e][^c-402028533f3c98c5a819addb5e5190a6]
 
 *Extent: S*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-acc62a75d827528db7b104440b78a86e]: Commencement: S. 9 in force at 20.6.2005 for specified purposes by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)
+[^c-acc62a75d827528db7b104440b78a86e]: Commencement: S. 9 in force at 20.6.2005 for specified purposes by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)
 
-[^key-402028533f3c98c5a819addb5e5190a6]: Commencement: S. 9 in force at 8.1.2007 in so far as not already in force by [S.S.I. 2006/599](https://www.legislation.gov.uk/ssi/2006/599), [art. 2](https://www.legislation.gov.uk/ssi/2006/599/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/599/schedule)
+[^c-402028533f3c98c5a819addb5e5190a6]: Commencement: S. 9 in force at 8.1.2007 in so far as not already in force by [S.S.I. 2006/599](https://www.legislation.gov.uk/ssi/2006/599), [art. 2](https://www.legislation.gov.uk/ssi/2006/599/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/599/schedule)

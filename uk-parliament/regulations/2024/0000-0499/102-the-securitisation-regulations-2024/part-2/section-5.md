@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. FCA rules[^key-0013082382ec80a30affd683325186e1]
+## 5. FCA rules[^c-0013082382ec80a30affd683325186e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0013082382ec80a30affd683325186e1]: Commencement: Reg. 5 in force at 30.1.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/b)
+[^c-0013082382ec80a30affd683325186e1]: Commencement: Reg. 5 in force at 30.1.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/b)
 
 [^f00026]: Footnote: Inserted by section 8(2) of the Financial Services and Markets Act 2023.

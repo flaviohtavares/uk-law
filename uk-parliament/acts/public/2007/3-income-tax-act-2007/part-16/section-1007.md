@@ -24,7 +24,7 @@ summary: ''
 
 This is subject to subsection (2).
 
-(2)[^key-9bc3db11da55163ee63df425fa637d1b] The Treasury may, in relation to a unit trust scheme within the meaning given by section 237 of FISMA 2000 whose trustees are UK resident, by regulations provide that the scheme is not to be a unit trust scheme for the purposes of the definition in section 989 of “unauthorised unit trust” if it is within a specified description.
+(2)[^c-9bc3db11da55163ee63df425fa637d1b] The Treasury may, in relation to a unit trust scheme within the meaning given by section 237 of FISMA 2000 whose trustees are UK resident, by regulations provide that the scheme is not to be a unit trust scheme for the purposes of the definition in section 989 of “unauthorised unit trust” if it is within a specified description.
 
 (3) The regulations may contain incidental, supplemental, consequential and transitional provision and savings.
 
@@ -32,4 +32,4 @@ This is subject to subsection (2).
 
 ## Annotations
 
-[^key-9bc3db11da55163ee63df425fa637d1b]: Textual amendment: S. 1007(2) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Income Tax Act 2007 (Amendment) Order 2009 (S.I. 2009/23)](https://www.legislation.gov.uk/uksi/2009/23), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/23/article/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2009/23/article/5/5)
+[^c-9bc3db11da55163ee63df425fa637d1b]: Textual amendment: S. 1007(2) substituted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Income Tax Act 2007 (Amendment) Order 2009 (S.I. 2009/23)](https://www.legislation.gov.uk/uksi/2009/23), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/23/article/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2009/23/article/5/5)

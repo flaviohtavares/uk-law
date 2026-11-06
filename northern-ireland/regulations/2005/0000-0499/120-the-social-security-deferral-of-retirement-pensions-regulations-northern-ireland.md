@@ -41,18 +41,18 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 54(1) and 171(3) of, and paragraphs 2(2), 3(1), 3B(2) and (5)(b)(iii) and 7B(2) and (5)(b)(iii) of Schedule 5 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, by this statutory rule which contains regulations made by virtue of, or consequential upon, Article 273(3) of, and Schedule 9 to, the Pensions (Northern Ireland) Order 2005[^f00003], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-787508760189ed5630d3544ab45cd1e9]
+## 1. Citation, commencement and interpretation[^c-787508760189ed5630d3544ab45cd1e9]
 
 (1) These Regulations may be cited as the Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
 
 (2) In these Regulations –
 
 - “the Contributions and Benefits Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
-- “the Claims and Payments Regulations” means the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987.[^key-89ee24342ef9d296b00689a1313c64e4]
+- “the Claims and Payments Regulations” means the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987.[^c-89ee24342ef9d296b00689a1313c64e4]
 - “retirement pension” means a Category A or Category B retirement pension.
-- “shared additional pension” means a shared additional pension under section 55A[^key-1200ea45c1a30654e2781a589b475d94] or 55AA[^key-18f6821c69013bbc14896dfb289f520b] of the Contributions and Benefits Act.
+- “shared additional pension” means a shared additional pension under section 55A[^c-1200ea45c1a30654e2781a589b475d94] or 55AA[^c-18f6821c69013bbc14896dfb289f520b] of the Contributions and Benefits Act.
 
-## 2. Beginning of accrual period[^key-0df8d1306087ee16d8c317c4aafa03e1]
+## 2. Beginning of accrual period[^c-0df8d1306087ee16d8c317c4aafa03e1]
 
 (1) This regulation applies for the purposes of paragraphs 3B and 7B of Schedule 5 and paragraph 5 of Schedule 5A to the Contributions and Benefits Act (calculation of lump sum).
 
@@ -62,36 +62,36 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (4) In this regulation, “benefit week” has the same meaning as in regulation 22D of the Claims and Payments Regulations (payment of retirement pension at a daily rate).
 
-## 3. Amount of retirement pension not included in the calculation of the lump sum[^key-49cd259015f97f7dab9cd22e55667313]
+## 3. Amount of retirement pension not included in the calculation of the lump sum[^c-49cd259015f97f7dab9cd22e55667313]
 
 (1) For the purposes of the calculation of the lump sum under paragraphs 3B and 7B of Schedule 5 to the Contributions and Benefits Act, the amount of retirement pension to which the person (“the deferrer”) would have been entitled for the accrual period if his entitlement had not been deferred shall not include any such pension where, for the entire accrual period –
 
 - (a) the deferrer has received any of the following benefits –
-  - (i) any benefit under Parts II and III of the Contributions and Benefits Act other than child’s special allowance, attendance allowance, disability living allowance , a shared additional pension[^key-3150f4e671594863a2656579bfd82546] and guardian’s allowance;
+  - (i) any benefit under Parts II and III of the Contributions and Benefits Act other than child’s special allowance, attendance allowance, disability living allowance , a shared additional pension[^c-3150f4e671594863a2656579bfd82546] and guardian’s allowance;
   - (ii) any severe disablement allowance under sections 68 and 69 of the Contributions and Benefits Act as in force before 6th April 2001[^f00005];
   - (iii) any unemployability supplement within the extended meaning in regulation 2(1) of the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00006] and including benefit corresponding to an unemployability supplement by virtue of regulations under paragraph 4(2) of Schedule 8 to the Contributions and Benefits Act;
-  - (iv)[^key-2ac57a9448433676af5828d7901f92ea] state pension credit under section 1 of the State Pension Credit Act (Northern Ireland) 2002;
-  - (v)[^key-98fe53a5df8b0fef2a360f10efab6db5] the carer support payment component of carer support given in accordance with[^key-fa988dd6558cfef2cf15e6e20c5d0add] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
-  - (vi)[^key-84a6781abc3dd2d07b6183faa142cc3f] universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015;
-- (aa)[^key-50bbecfa96065cf30f5351c04e1015e1] in the case of a deferrer who was a member of a couple, the other member of the couple was in receipt of—
+  - (iv)[^c-2ac57a9448433676af5828d7901f92ea] state pension credit under section 1 of the State Pension Credit Act (Northern Ireland) 2002;
+  - (v)[^c-98fe53a5df8b0fef2a360f10efab6db5] the carer support payment component of carer support given in accordance with[^c-fa988dd6558cfef2cf15e6e20c5d0add] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
+  - (vi)[^c-84a6781abc3dd2d07b6183faa142cc3f] universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015;
+- (aa)[^c-50bbecfa96065cf30f5351c04e1015e1] in the case of a deferrer who was a member of a couple, the other member of the couple was in receipt of—
   - (i) income support under section 123 of the Contributions and Benefits Act;
   - (ii) income-based jobseeker’s allowance under Article 3 of the Jobseekers (Northern Ireland) Order 1995;
-  - (iii) state pension credit under section 1 of the State Pension Credit Act (Northern Ireland) 2002; [^key-b0fdef98aeeecf52badce2ee14443154]...
-  - (iv) income-related employment and support allowance under section 1 of the Welfare Reform Act (Northern Ireland) 2007; or[^key-18a19fbb753e3ea84efd782a1bbeda57]
+  - (iii) state pension credit under section 1 of the State Pension Credit Act (Northern Ireland) 2002; [^c-b0fdef98aeeecf52badce2ee14443154]...
+  - (iv) income-related employment and support allowance under section 1 of the Welfare Reform Act (Northern Ireland) 2007; or[^c-18a19fbb753e3ea84efd782a1bbeda57]
   - (v) universal credit under Part 2 of the Welfare Reform (Northern Ireland) Order 2015;
 - (b) an increase of any of the benefits specified in sub-paragraph (a) is being paid to a married man in respect of his wife where the wife is a deferrer whose period of deferment began before 6th April 2005 and who would have been entitled to a Category B retirement pension or to an increase under section 51A(2) of the Contributions and Benefits Act[^f00007];
-- (c) an increase of any of the benefits specified in sub-paragraph (a) is being paid to any person in respect of a deferrer whose period of deferment began on or after 6th April 2005 except where that deferrer is neither married to, or in a civil partnership with,[^key-58f0a11842554a54353420f11fa467af] nor residing with, that person;
+- (c) an increase of any of the benefits specified in sub-paragraph (a) is being paid to any person in respect of a deferrer whose period of deferment began on or after 6th April 2005 except where that deferrer is neither married to, or in a civil partnership with,[^c-58f0a11842554a54353420f11fa467af] nor residing with, that person;
 - (d) the deferrer would have been disqualified for receiving retirement pension by reason of imprisonment or detention in legal custody.
 
-(1A)[^key-b98e11f8ce2b257ab86a3577f6fb28c3] For the purposes of the calculation of the lump sum under paragraph 5 of Schedule 5A to the Act, the amount of a shared additional pension to which a person (“the deferrer”) would have been entitled for the accrual period if his entitlement had not been deferred shall not include any such pension where, for the entire accrual period, the deferrer would have been disqualified for receiving shared additional pension by reason of imprisonment or detention in legal custody.
+(1A)[^c-b98e11f8ce2b257ab86a3577f6fb28c3] For the purposes of the calculation of the lump sum under paragraph 5 of Schedule 5A to the Act, the amount of a shared additional pension to which a person (“the deferrer”) would have been entitled for the accrual period if his entitlement had not been deferred shall not include any such pension where, for the entire accrual period, the deferrer would have been disqualified for receiving shared additional pension by reason of imprisonment or detention in legal custody.
 
-(2) Where any of the benefits referred to in paragraph (1)(a) or (aa)[^key-844c5d32577ec345272a0da830852b34] or an increase referred to in paragraph (1)(b) or (c) has been received for part only of an accrual period, the amount of retirement pension not included by paragraph (1) shall be reduced by 1/7th for each day of the accrual period in respect of which the benefit or increase has not been received.
+(2) Where any of the benefits referred to in paragraph (1)(a) or (aa)[^c-844c5d32577ec345272a0da830852b34] or an increase referred to in paragraph (1)(b) or (c) has been received for part only of an accrual period, the amount of retirement pension not included by paragraph (1) shall be reduced by 1/7th for each day of the accrual period in respect of which the benefit or increase has not been received.
 
-(3) Where the deferrer would have been disqualified for receiving retirement pension as specified in paragraph (1)(d) or a shared additional pension as specified in paragraph (1A)[^key-0252a7896988fec5f5e87d48ad706729] for part only of an accrual period, the amount of retirement pension not included by paragraph (1) or a shared additional pension not included by paragraph (1A)[^key-7d3ce8fcdafe332a4e374a538e9ec1c8] shall be reduced by 1/7th for each day of the accrual period for which he would not have been so disqualified.
+(3) Where the deferrer would have been disqualified for receiving retirement pension as specified in paragraph (1)(d) or a shared additional pension as specified in paragraph (1A)[^c-0252a7896988fec5f5e87d48ad706729] for part only of an accrual period, the amount of retirement pension not included by paragraph (1) or a shared additional pension not included by paragraph (1A)[^c-7d3ce8fcdafe332a4e374a538e9ec1c8] shall be reduced by 1/7th for each day of the accrual period for which he would not have been so disqualified.
 
 (4) Subject to paragraph (5), where –
 
-- (a) a person has, in respect of any day in an accrual period, received one or more of the benefits referred to in paragraph (1)(a) or (aa)[^key-4efb1bdb69e0ab72d73d44fc960853b4] or increases referred to in paragraph (1)(b) and (c) or both;
+- (a) a person has, in respect of any day in an accrual period, received one or more of the benefits referred to in paragraph (1)(a) or (aa)[^c-4efb1bdb69e0ab72d73d44fc960853b4] or increases referred to in paragraph (1)(b) and (c) or both;
 - (b) the determining authority has determined that in respect of that day, he was not entitled to the benefit or increase; and
 - (c) the whole of the benefit or increase in respect of that day has been repaid or, as the case may be, recovered on or before the relevant date,
 
@@ -99,7 +99,7 @@ that day shall be treated as a day in respect of which he did not receive that b
 
 (5) Where the benefit or increase in respect of a day to which paragraph (4)(a) and (b) applies is repaid or, as the case may be, recovered on or after the relevant date, that day shall only be treated as a day in respect of which that person did not receive that benefit or increase once the benefit or increase has been repaid in respect of all the days to which those sub-paragraphs relate and which fall within the period of deferment.
 
-(5A)[^key-85329ed3ae9e117562b601c3d2efb477] In paragraph (1) “couple” has the meaning—
+(5A)[^c-85329ed3ae9e117562b601c3d2efb477] In paragraph (1) “couple” has the meaning—
 
 - (a) in relation to universal credit, given by Article 45 of the Welfare Reform (Northern Ireland) Order 2015; and
 - (b) in relation to the other benefits referred to in paragraph (1)(a) or (aa), given by section 133(1) of the Contributions and Benefits Act.
@@ -111,9 +111,9 @@ that day shall be treated as a day in respect of which he did not receive that b
 - (a) the last day of the period of deferment; or
 - (b) where entitlement to a lump sum arises under paragraph 7A of Schedule 5 to the Contributions and Benefits Act[^f00009], the date of S’s death.
 
-(8) Any amount of retirement pension or a shared additional pension[^key-a9332a8f3cd219bf2a5b40bd892deccf] not included in the calculation of the lump sum in accordance with this regulation must be rounded to the nearest penny, taking any ½p as nearest to the next whole penny above.
+(8) Any amount of retirement pension or a shared additional pension[^c-a9332a8f3cd219bf2a5b40bd892deccf] not included in the calculation of the lump sum in accordance with this regulation must be rounded to the nearest penny, taking any ½p as nearest to the next whole penny above.
 
-## 4. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^key-5b1eb50283ccd462bebcf57f394444dc]
+## 4. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^c-5b1eb50283ccd462bebcf57f394444dc]
 
 (1) The Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00010] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -154,7 +154,7 @@ that day shall be treated as a day in respect of which he did not receive that b
 - (a) in paragraphs (1) and (3)(a) for “enhancement” there shall be substituted “deferment”; and
 - (b) in paragraph (5) for “1/7th per cent”, in both places where it occurs, there shall be substituted “⅕;th per cent.”.
 
-## 5. Revocations[^key-46f52f863d3329f19fe26e8c66707e4d]
+## 5. Revocations[^c-46f52f863d3329f19fe26e8c66707e4d]
 
 Regulation 3 of the Social Security (Miscellaneous Provisions) Regulations (Northern Ireland) 1989[^f00015] and regulation 8(2) of the Social Security (Abolition of Earnings Rule) (Consequential) Regulations (Northern Ireland) 1989[^f00016] are hereby revoked.
 
@@ -192,61 +192,61 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-787508760189ed5630d3544ab45cd1e9]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/120/regulation/1/1)
+[^c-787508760189ed5630d3544ab45cd1e9]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/120/regulation/1/1)
 
-[^key-89ee24342ef9d296b00689a1313c64e4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/120/regulation/1/2) inserted (5.4.2011) by [Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2011 (S.R. 2011/109)](https://www.legislation.gov.uk/nisr/2011/109), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2011/109/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/2)
+[^c-89ee24342ef9d296b00689a1313c64e4]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/120/regulation/1/2) inserted (5.4.2011) by [Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2011 (S.R. 2011/109)](https://www.legislation.gov.uk/nisr/2011/109), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2011/109/regulation/1/2), [3(2)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/2)
 
-[^key-1200ea45c1a30654e2781a589b475d94]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/120/regulation/1/2) added (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/299)](https://www.legislation.gov.uk/nisr/2005/299), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2005/299/regulation/8/2) (with [reg. 9](https://www.legislation.gov.uk/nisr/2005/299/regulation/9))
+[^c-1200ea45c1a30654e2781a589b475d94]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/120/regulation/1/2) added (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/299)](https://www.legislation.gov.uk/nisr/2005/299), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1), [8(2)](https://www.legislation.gov.uk/nisr/2005/299/regulation/8/2) (with [reg. 9](https://www.legislation.gov.uk/nisr/2005/299/regulation/9))
 
-[^key-18f6821c69013bbc14896dfb289f520b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/120/regulation/1/2) inserted (6.4.2016) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2015 (S.R. 2015/411)](https://www.legislation.gov.uk/nisr/2015/411), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b), [21](https://www.legislation.gov.uk/nisr/2015/411/article/21)
+[^c-18f6821c69013bbc14896dfb289f520b]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/120/regulation/1/2) inserted (6.4.2016) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2015 (S.R. 2015/411)](https://www.legislation.gov.uk/nisr/2015/411), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b), [21](https://www.legislation.gov.uk/nisr/2015/411/article/21)
 
-[^key-0df8d1306087ee16d8c317c4aafa03e1]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/120/regulation/2) substituted (5.4.2011) by [Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2011 (S.R. 2011/109)](https://www.legislation.gov.uk/nisr/2011/109), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2011/109/regulation/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/3)
+[^c-0df8d1306087ee16d8c317c4aafa03e1]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/120/regulation/2) substituted (5.4.2011) by [Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2011 (S.R. 2011/109)](https://www.legislation.gov.uk/nisr/2011/109), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2011/109/regulation/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/3)
 
-[^key-49cd259015f97f7dab9cd22e55667313]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/120/regulation/1/1)
+[^c-49cd259015f97f7dab9cd22e55667313]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/120/regulation/1/1)
 
-[^key-3150f4e671594863a2656579bfd82546]: Textual amendment: Words in [reg. 3(1)(a)(i)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/a/i) inserted (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/299)](https://www.legislation.gov.uk/nisr/2005/299), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1), [8(4)(a)](https://www.legislation.gov.uk/nisr/2005/299/regulation/8/4/a) (with [reg. 9](https://www.legislation.gov.uk/nisr/2005/299/regulation/9))
+[^c-3150f4e671594863a2656579bfd82546]: Textual amendment: Words in [reg. 3(1)(a)(i)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/a/i) inserted (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/299)](https://www.legislation.gov.uk/nisr/2005/299), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1), [8(4)(a)](https://www.legislation.gov.uk/nisr/2005/299/regulation/8/4/a) (with [reg. 9](https://www.legislation.gov.uk/nisr/2005/299/regulation/9))
 
 [^f00005]: Footnote: Sections 68 and 69 were repealed by Schedule 10 to the Welfare Reform and Pensions (Northern Ireland) Order 1999; *see* Article 4 of the Welfare Reform and Pensions (1999 Order) (Commencement No. 6 and Transitional and Savings Provisions) Order (Northern Ireland) 2000 ([S.R. 2000 No. 332 (C. 14)](https://www.legislation.gov.uk/nisr/2000/332))
 
 [^f00006]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242), to which there are amendments not relevant to these Regulations
 
-[^key-2ac57a9448433676af5828d7901f92ea]: Textual amendment: [Reg. 3(1)(a)(iv)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/a/iv) inserted (6.4.2011) by [Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2011 (S.R. 2011/109)](https://www.legislation.gov.uk/nisr/2011/109), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2011/109/regulation/1/3), [3(4)(a)(i)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/4/a/i) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/5))
+[^c-2ac57a9448433676af5828d7901f92ea]: Textual amendment: [Reg. 3(1)(a)(iv)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/a/iv) inserted (6.4.2011) by [Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2011 (S.R. 2011/109)](https://www.legislation.gov.uk/nisr/2011/109), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2011/109/regulation/1/3), [3(4)(a)(i)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/4/a/i) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/5))
 
-[^key-98fe53a5df8b0fef2a360f10efab6db5]: Textual amendment: [Reg. 3(1)(a)(v)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/a/v) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [41](https://www.legislation.gov.uk/uksi/2023/1218/article/41)
+[^c-98fe53a5df8b0fef2a360f10efab6db5]: Textual amendment: [Reg. 3(1)(a)(v)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/a/v) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [41](https://www.legislation.gov.uk/uksi/2023/1218/article/41)
 
-[^key-fa988dd6558cfef2cf15e6e20c5d0add]: Textual amendment: Words in [reg. 3(1)(a)(v)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/a/v) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [44](https://www.legislation.gov.uk/uksi/2026/246/article/44)
+[^c-fa988dd6558cfef2cf15e6e20c5d0add]: Textual amendment: Words in [reg. 3(1)(a)(v)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/a/v) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [44](https://www.legislation.gov.uk/uksi/2026/246/article/44)
 
-[^key-84a6781abc3dd2d07b6183faa142cc3f]: Textual amendment: [Reg. 3(1)(a)(vi)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/a/vi) inserted (8.6.2024) by [The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/119)](https://www.legislation.gov.uk/nisr/2024/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/119/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2024/119/regulation/6/2)
+[^c-84a6781abc3dd2d07b6183faa142cc3f]: Textual amendment: [Reg. 3(1)(a)(vi)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/a/vi) inserted (8.6.2024) by [The Social Security (State Pension Age Claimants: Closure of Tax Credits) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/119)](https://www.legislation.gov.uk/nisr/2024/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/119/regulation/1/1), [6(2)](https://www.legislation.gov.uk/nisr/2024/119/regulation/6/2)
 
-[^key-50bbecfa96065cf30f5351c04e1015e1]: Textual amendment: [Reg. 3(1)(aa)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/aa) inserted (6.4.2011) by [Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2011 (S.R. 2011/109)](https://www.legislation.gov.uk/nisr/2011/109), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2011/109/regulation/1/3), [3(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/4/a/ii) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/5))
+[^c-50bbecfa96065cf30f5351c04e1015e1]: Textual amendment: [Reg. 3(1)(aa)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/aa) inserted (6.4.2011) by [Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2011 (S.R. 2011/109)](https://www.legislation.gov.uk/nisr/2011/109), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2011/109/regulation/1/3), [3(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/4/a/ii) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/5))
 
-[^key-b0fdef98aeeecf52badce2ee14443154]: Textual amendment: Word in [reg. 3(1)(aa)(iii)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/aa/iii) omitted (coming into operation in accordance with reg. 1(1) of the amending Rule) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [32(a)(i)](https://www.legislation.gov.uk/nisr/2016/236/regulation/32/a/i)
+[^c-b0fdef98aeeecf52badce2ee14443154]: Textual amendment: Word in [reg. 3(1)(aa)(iii)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/aa/iii) omitted (coming into operation in accordance with reg. 1(1) of the amending Rule) by virtue of [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [32(a)(i)](https://www.legislation.gov.uk/nisr/2016/236/regulation/32/a/i)
 
-[^key-18a19fbb753e3ea84efd782a1bbeda57]: Textual amendment: [Reg. 3(1)(aa)(v)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/aa/v) and word inserted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [32(a)(ii)](https://www.legislation.gov.uk/nisr/2016/236/regulation/32/a/ii)
+[^c-18a19fbb753e3ea84efd782a1bbeda57]: Textual amendment: [Reg. 3(1)(aa)(v)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/aa/v) and word inserted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [32(a)(ii)](https://www.legislation.gov.uk/nisr/2016/236/regulation/32/a/ii)
 
 [^f00007]: Footnote: Section 51A was inserted by paragraph 18(6) of Schedule 2 to the Pensions (Northern Ireland) Order 1995
 
-[^key-58f0a11842554a54353420f11fa467af]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/c) inserted (5.12.2005) by [The Social Security (Civil Partnership) (Consequential Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/539)](https://www.legislation.gov.uk/nisr/2005/539), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/539/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2005/539/regulation/9)
+[^c-58f0a11842554a54353420f11fa467af]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1/c) inserted (5.12.2005) by [The Social Security (Civil Partnership) (Consequential Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/539)](https://www.legislation.gov.uk/nisr/2005/539), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/539/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2005/539/regulation/9)
 
-[^key-b98e11f8ce2b257ab86a3577f6fb28c3]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1A) inserted (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/299)](https://www.legislation.gov.uk/nisr/2005/299), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1), [8(4)(b)](https://www.legislation.gov.uk/nisr/2005/299/regulation/8/4/b) (with [reg. 9](https://www.legislation.gov.uk/nisr/2005/299/regulation/9))
+[^c-b98e11f8ce2b257ab86a3577f6fb28c3]: Textual amendment: [Reg. 3(1A)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/1A) inserted (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/299)](https://www.legislation.gov.uk/nisr/2005/299), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1), [8(4)(b)](https://www.legislation.gov.uk/nisr/2005/299/regulation/8/4/b) (with [reg. 9](https://www.legislation.gov.uk/nisr/2005/299/regulation/9))
 
-[^key-844c5d32577ec345272a0da830852b34]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/2) inserted (6.4.2011) by [Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2011 (S.R. 2011/109)](https://www.legislation.gov.uk/nisr/2011/109), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2011/109/regulation/1/3), [3(4)(b)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/4/b) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/5))
+[^c-844c5d32577ec345272a0da830852b34]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/2) inserted (6.4.2011) by [Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2011 (S.R. 2011/109)](https://www.legislation.gov.uk/nisr/2011/109), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2011/109/regulation/1/3), [3(4)(b)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/4/b) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/5))
 
-[^key-0252a7896988fec5f5e87d48ad706729]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/3) inserted (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/299)](https://www.legislation.gov.uk/nisr/2005/299), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1), [8(4)(c)(i)](https://www.legislation.gov.uk/nisr/2005/299/regulation/8/4/c/i) (with [reg. 9](https://www.legislation.gov.uk/nisr/2005/299/regulation/9))
+[^c-0252a7896988fec5f5e87d48ad706729]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/3) inserted (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/299)](https://www.legislation.gov.uk/nisr/2005/299), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1), [8(4)(c)(i)](https://www.legislation.gov.uk/nisr/2005/299/regulation/8/4/c/i) (with [reg. 9](https://www.legislation.gov.uk/nisr/2005/299/regulation/9))
 
-[^key-7d3ce8fcdafe332a4e374a538e9ec1c8]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/3) inserted (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/299)](https://www.legislation.gov.uk/nisr/2005/299), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1), [8(4)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/299/regulation/8/4/c/ii) (with [reg. 9](https://www.legislation.gov.uk/nisr/2005/299/regulation/9))
+[^c-7d3ce8fcdafe332a4e374a538e9ec1c8]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/3) inserted (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/299)](https://www.legislation.gov.uk/nisr/2005/299), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1), [8(4)(c)(ii)](https://www.legislation.gov.uk/nisr/2005/299/regulation/8/4/c/ii) (with [reg. 9](https://www.legislation.gov.uk/nisr/2005/299/regulation/9))
 
-[^key-4efb1bdb69e0ab72d73d44fc960853b4]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/4) inserted (6.4.2011) by [Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2011 (S.R. 2011/109)](https://www.legislation.gov.uk/nisr/2011/109), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2011/109/regulation/1/3), [3(4)(b)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/4/b) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/5))
+[^c-4efb1bdb69e0ab72d73d44fc960853b4]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/4) inserted (6.4.2011) by [Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2011 (S.R. 2011/109)](https://www.legislation.gov.uk/nisr/2011/109), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2011/109/regulation/1/3), [3(4)(b)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/4/b) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2011/109/regulation/3/5))
 
-[^key-85329ed3ae9e117562b601c3d2efb477]: Textual amendment: [Reg. 3(5A)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/5A) substituted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [32(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/32/b)
+[^c-85329ed3ae9e117562b601c3d2efb477]: Textual amendment: [Reg. 3(5A)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/5A) substituted (coming into operation in accordance with reg. 1(1) of the amending Rule) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [32(b)](https://www.legislation.gov.uk/nisr/2016/236/regulation/32/b)
 
 [^f00008]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
 [^f00009]: Footnote: Paragraph 7A was inserted by paragraph 10 of Schedule 9 to the Pensions (Northern Ireland) Order 2005
 
-[^key-a9332a8f3cd219bf2a5b40bd892deccf]: Textual amendment: Words in [reg. 3(8)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/8) inserted (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/299)](https://www.legislation.gov.uk/nisr/2005/299), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1), [8(4)(d)](https://www.legislation.gov.uk/nisr/2005/299/regulation/8/4/d) (with [reg. 9](https://www.legislation.gov.uk/nisr/2005/299/regulation/9))
+[^c-a9332a8f3cd219bf2a5b40bd892deccf]: Textual amendment: Words in [reg. 3(8)](https://www.legislation.gov.uk/nisr/2005/120/regulation/3/8) inserted (6.7.2005) by [The Social Security (Shared Additional Pension) (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/299)](https://www.legislation.gov.uk/nisr/2005/299), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/299/regulation/1/1), [8(4)(d)](https://www.legislation.gov.uk/nisr/2005/299/regulation/8/4/d) (with [reg. 9](https://www.legislation.gov.uk/nisr/2005/299/regulation/9))
 
-[^key-5b1eb50283ccd462bebcf57f394444dc]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/120/regulation/1/1)
+[^c-5b1eb50283ccd462bebcf57f394444dc]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/120/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243); the relevant amending regulations are [S.R. 1987 No. 404](https://www.legislation.gov.uk/nisr/1987/404), [S.R. 1989 Nos. 193](https://www.legislation.gov.uk/nisr/1989/193) and [373](https://www.legislation.gov.uk/nisr/1989/373)
 
@@ -258,7 +258,7 @@ These Regulations do not impose a charge on business.
 
 [^f00014]: Footnote: Regulation 5 was amended by regulation 2(2) of [S.R. 1987 No. 404](https://www.legislation.gov.uk/nisr/1987/404) and regulation 8(6) of [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373)
 
-[^key-46f52f863d3329f19fe26e8c66707e4d]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/120/regulation/1/1)
+[^c-46f52f863d3329f19fe26e8c66707e4d]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/120/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1989 No. 193](https://www.legislation.gov.uk/nisr/1989/193)
 

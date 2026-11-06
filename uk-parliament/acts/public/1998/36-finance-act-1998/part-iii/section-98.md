@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-fc323647f3028c6fe9408b0fc6e78f45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-fc323647f3028c6fe9408b0fc6e78f45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 9 of the [^c16421201]Taxes Management Act 1970 (self-assessment), in subsection (1), for “subsection (2)" there shall be substituted “ subsections (1A) and (2) ”; and after that subsection there shall be inserted the following subsection—
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc323647f3028c6fe9408b0fc6e78f45]: Textual amendment: [S. 98(1)](https://www.legislation.gov.uk/ukpga/1998/36/section/98/1) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-fc323647f3028c6fe9408b0fc6e78f45]: Textual amendment: [S. 98(1)](https://www.legislation.gov.uk/ukpga/1998/36/section/98/1) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
 [^c16421201]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).

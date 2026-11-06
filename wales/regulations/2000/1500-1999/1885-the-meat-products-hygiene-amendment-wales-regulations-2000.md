@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Meat Products (Hygiene) (Amendment) (Wales) Regulations 2000 (revoked)[^key-e28e896686f34f6354b294b73526b29f]
+The Meat Products (Hygiene) (Amendment) (Wales) Regulations 2000 (revoked)[^c-e28e896686f34f6354b294b73526b29f]
 
 Made
 
@@ -39,28 +39,28 @@ Made
 
 Coming into force 31st July 2000
 
-[^key-e28e896686f34f6354b294b73526b29f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e28e896686f34f6354b294b73526b29f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-e28e896686f34f6354b294b73526b29f]
+## 1. Title, application and commencement[^c-e28e896686f34f6354b294b73526b29f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Meat Products (Hygiene) Regulations 1994[^key-e28e896686f34f6354b294b73526b29f]
+## 2. Amendment to the Meat Products (Hygiene) Regulations 1994[^c-e28e896686f34f6354b294b73526b29f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendment[^key-e28e896686f34f6354b294b73526b29f]
+## 3. Consequential amendment[^c-e28e896686f34f6354b294b73526b29f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e28e896686f34f6354b294b73526b29f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e28e896686f34f6354b294b73526b29f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e28e896686f34f6354b294b73526b29f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e28e896686f34f6354b294b73526b29f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e28e896686f34f6354b294b73526b29f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2000/1885) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-e28e896686f34f6354b294b73526b29f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2000/1885) revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

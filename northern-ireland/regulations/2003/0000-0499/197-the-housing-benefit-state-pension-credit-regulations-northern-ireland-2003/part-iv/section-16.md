@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Decisions[^key-b4b44f17aa3d797724e937fae0db5e5e]
+## 16. Decisions[^c-b4b44f17aa3d797724e937fae0db5e5e]
 
 *Extent: N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b4b44f17aa3d797724e937fae0db5e5e]: Commencement: Reg. 16 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-b4b44f17aa3d797724e937fae0db5e5e]: Commencement: Reg. 16 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00088]: Footnote: Paragraph 9 was amended by regulation 13 of [S.R. 1989 No. 125](https://www.legislation.gov.uk/nisr/1989/125), regulation 23(2)(a) of [S.R. 1996 No. 334](https://www.legislation.gov.uk/nisr/1996/334) and regulation 6(b) of [S.R. 2001 No. 215](https://www.legislation.gov.uk/nisr/2001/215)
 

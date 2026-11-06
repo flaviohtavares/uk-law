@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Prohibition on transfers[^key-ee90604a582ef104c4cf49ab87ef725b]
+## 70. Prohibition on transfers[^c-ee90604a582ef104c4cf49ab87ef725b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ No transfer may be made of a children’s certificate either during the life, or
 
 ## Annotations
 
-[^key-ee90604a582ef104c4cf49ab87ef725b]: Commencement: Reg. 70 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-ee90604a582ef104c4cf49ab87ef725b]: Commencement: Reg. 70 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

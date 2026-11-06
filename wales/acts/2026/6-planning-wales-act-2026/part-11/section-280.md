@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 280. Stopping up or diversion of highway to enable development[^key-745898555b21fae4a94ee94312ef1c34]
+## 280. Stopping up or diversion of highway to enable development[^c-745898555b21fae4a94ee94312ef1c34]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-745898555b21fae4a94ee94312ef1c34]: Commencement: S. 280 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-745898555b21fae4a94ee94312ef1c34]: Commencement: S. 280 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

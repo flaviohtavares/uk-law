@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.9. Non-attendance of parties at a final hearing[^key-9a85355fbf51606af31ea04408165225]
+## 27.9. Non-attendance of parties at a final hearing[^c-9a85355fbf51606af31ea04408165225]
 
 *Extent: E+W*
 
-(1)[^key-807a16b14fe3c323c1987feed097fe87] If a party who does not attend a final hearing—
+(1)[^c-807a16b14fe3c323c1987feed097fe87] If a party who does not attend a final hearing—
 
 - (a) has given written notice to the court and the other party at least 7 days before the hearing date that he will not attend;
 - (b) has served on the other party at least 7 days before the hearing date any other documents which he has filed with the court; and
@@ -50,6 +50,6 @@ the court may strike out<sup>(GL)</sup> the claim.
 
 ## Annotations
 
-[^key-9a85355fbf51606af31ea04408165225]: Commencement: [Rule 27.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-9a85355fbf51606af31ea04408165225]: Commencement: [Rule 27.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-807a16b14fe3c323c1987feed097fe87]: Textual amendment: [Rule 27.9(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.9/1) substituted (1.10.2005) by [The Civil Procedure (Amendment No.3) Rules 2005 (S.I. 2005/2292)](https://www.legislation.gov.uk/uksi/2005/2292), [rules 1(c)](https://www.legislation.gov.uk/uksi/2005/2292/rule/1/c), [30](https://www.legislation.gov.uk/uksi/2005/2292/rule/30)
+[^c-807a16b14fe3c323c1987feed097fe87]: Textual amendment: [Rule 27.9(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/27.9/1) substituted (1.10.2005) by [The Civil Procedure (Amendment No.3) Rules 2005 (S.I. 2005/2292)](https://www.legislation.gov.uk/uksi/2005/2292), [rules 1(c)](https://www.legislation.gov.uk/uksi/2005/2292/rule/1/c), [30](https://www.legislation.gov.uk/uksi/2005/2292/rule/30)

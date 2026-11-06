@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 145. Proxy-holder with financial interest[^key-d7c253a32618868da73099f7a07c86d5]
+## 145. Proxy-holder with financial interest[^c-d7c253a32618868da73099f7a07c86d5]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7c253a32618868da73099f7a07c86d5]: Commencement: Rule 145 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-d7c253a32618868da73099f7a07c86d5]: Commencement: Rule 145 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

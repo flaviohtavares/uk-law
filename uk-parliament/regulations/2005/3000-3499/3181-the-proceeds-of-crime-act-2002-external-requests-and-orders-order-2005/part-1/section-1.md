@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Title and commencement[^key-e567e55ec0d0f7625164f90ea2b7a96a]
+## 1. Title and commencement[^c-e567e55ec0d0f7625164f90ea2b7a96a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Proceeds of Crime Act 2002 (External Requests and
 
 ## Annotations
 
-[^key-e567e55ec0d0f7625164f90ea2b7a96a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-e567e55ec0d0f7625164f90ea2b7a96a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

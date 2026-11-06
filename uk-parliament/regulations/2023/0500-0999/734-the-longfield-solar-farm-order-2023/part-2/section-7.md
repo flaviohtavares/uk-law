@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Defence to proceedings in respect of statutory nuisance[^key-77858ac512c65bc75620bdfc4a8932a4]
+## 7. Defence to proceedings in respect of statutory nuisance[^c-77858ac512c65bc75620bdfc4a8932a4]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77858ac512c65bc75620bdfc4a8932a4]: Commencement: Art. 7 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-77858ac512c65bc75620bdfc4a8932a4]: Commencement: Art. 7 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
 [^f00036]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).

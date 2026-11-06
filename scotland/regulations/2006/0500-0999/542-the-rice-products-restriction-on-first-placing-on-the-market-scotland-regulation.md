@@ -32,7 +32,7 @@ summary: ''
 
 FOOD
 
-The Rice Products (Restriction on First Placing on the Market) (Scotland) Regulations 2006 (revoked)[^key-3db5519d5eb5158e0d53ce610ef5d6f2]
+The Rice Products (Restriction on First Placing on the Market) (Scotland) Regulations 2006 (revoked)[^c-3db5519d5eb5158e0d53ce610ef5d6f2]
 
 Made
 
@@ -46,40 +46,40 @@ Coming into force
 
 10th November 2006
 
-[^key-3db5519d5eb5158e0d53ce610ef5d6f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3db5519d5eb5158e0d53ce610ef5d6f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-3db5519d5eb5158e0d53ce610ef5d6f2]
+## 1. Citation, commencement and extent[^c-3db5519d5eb5158e0d53ce610ef5d6f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3db5519d5eb5158e0d53ce610ef5d6f2]
+## 2. Interpretation[^c-3db5519d5eb5158e0d53ce610ef5d6f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restriction on first placing on the market of rice products[^key-3db5519d5eb5158e0d53ce610ef5d6f2]
+## 3. Restriction on first placing on the market of rice products[^c-3db5519d5eb5158e0d53ce610ef5d6f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-3db5519d5eb5158e0d53ce610ef5d6f2]
+## 4. Enforcement[^c-3db5519d5eb5158e0d53ce610ef5d6f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Recovery of Costs[^key-3db5519d5eb5158e0d53ce610ef5d6f2]
+## 5. Recovery of Costs[^c-3db5519d5eb5158e0d53ce610ef5d6f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of various provisions of the Food Safety Act 1990[^key-3db5519d5eb5158e0d53ce610ef5d6f2]
+## 6. Application of various provisions of the Food Safety Act 1990[^c-3db5519d5eb5158e0d53ce610ef5d6f2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3db5519d5eb5158e0d53ce610ef5d6f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3db5519d5eb5158e0d53ce610ef5d6f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3db5519d5eb5158e0d53ce610ef5d6f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3db5519d5eb5158e0d53ce610ef5d6f2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3db5519d5eb5158e0d53ce610ef5d6f2]: Textual amendment: Regulations revoked (7.3.2008) by [The Rice Products from the United States of America (Restriction on First Placing on the Market) (Scotland) Regulations 2008 (S.S.I. 2008/87)](https://www.legislation.gov.uk/ssi/2008/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/87/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2008/87/regulation/7)
+[^c-3db5519d5eb5158e0d53ce610ef5d6f2]: Textual amendment: Regulations revoked (7.3.2008) by [The Rice Products from the United States of America (Restriction on First Placing on the Market) (Scotland) Regulations 2008 (S.S.I. 2008/87)](https://www.legislation.gov.uk/ssi/2008/87), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/87/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2008/87/regulation/7)

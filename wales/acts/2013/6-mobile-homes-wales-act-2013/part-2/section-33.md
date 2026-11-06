@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Repayment orders[^key-2f16af24501eef26d9d8adeaa2e4bcb4]
+## 33. Repayment orders[^c-2f16af24501eef26d9d8adeaa2e4bcb4]
 
 *Extent: E+W*
 
@@ -49,15 +49,15 @@ the tribunal may make an order (a “repayment order”).
 - (b) that the occupier of the mobile home (or, in the case of payments referred to in subsection (5)(a) or (b), the person through whom the occupier of the mobile home has acquired ownership of the mobile home) made the payment to the owner or manager of the site during any period during which it appears to the tribunal that such an offence was being committed in relation to the site, and
 - (c) that the application is made within the period of 12 months beginning with the date of the conviction.
 
-(7)[^key-78336427d17cb664db5ddd31de281bed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-78336427d17cb664db5ddd31de281bed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8) The amount required to be paid by virtue of a repayment order under subsection (5) is (subject to subsections (9) to (10)[^key-fae35af81625da24f07c44f2c547c2ff] to be such amount as the tribunal considers reasonable in the circumstances.
+(8) The amount required to be paid by virtue of a repayment order under subsection (5) is (subject to subsections (9) to (10)[^c-fae35af81625da24f07c44f2c547c2ff] to be such amount as the tribunal considers reasonable in the circumstances.
 
 (9) The matters which the tribunal must take into account when determining the amount to be paid include (but are not limited to)—
 
 - (a) the total amount of relevant payments paid in connection with ownership of the site during any period during which it appears to the tribunal that an offence was being committed by the owner of the site under section 5,
 - (b) the extent to which that total amount was actually received by the owner or manager of the site,
-- (c) whether the owner of the site has previously[^key-8cbd0f12590c4456cf6a70c716be125b] been convicted of an offence under section 5 in relation to the site,
+- (c) whether the owner of the site has previously[^c-8cbd0f12590c4456cf6a70c716be125b] been convicted of an offence under section 5 in relation to the site,
 - (d) the conduct and financial circumstances of the owner or manager of the site, and
 - (e) the conduct of the occupier of the mobile home;
 
@@ -74,10 +74,10 @@ and in this subsection “**relevant payments**” means those payments referred
 
 ## Annotations
 
-[^key-2f16af24501eef26d9d8adeaa2e4bcb4]: Commencement: S. 33 in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-2f16af24501eef26d9d8adeaa2e4bcb4]: Commencement: S. 33 in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
 
-[^key-78336427d17cb664db5ddd31de281bed]: Textual amendment: S. 33(7) omitted (1.12.2014) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 30(3)(a)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/30/3/a); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-78336427d17cb664db5ddd31de281bed]: Textual amendment: S. 33(7) omitted (1.12.2014) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 30(3)(a)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/30/3/a); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
 
-[^key-fae35af81625da24f07c44f2c547c2ff]: Textual amendment: Word in s. 33(8) substituted (1.12.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 30(3)(b)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/30/3/b); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-fae35af81625da24f07c44f2c547c2ff]: Textual amendment: Word in s. 33(8) substituted (1.12.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 30(3)(b)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/30/3/b); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
 
-[^key-8cbd0f12590c4456cf6a70c716be125b]: Textual amendment: Word in s. 33(9)(c) substituted (1.12.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 30(3)(c)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/30/3/c); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-8cbd0f12590c4456cf6a70c716be125b]: Textual amendment: Word in s. 33(9)(c) substituted (1.12.2014) by [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [s. 145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3), [Sch. 3 para. 30(3)(c)](https://www.legislation.gov.uk/anaw/2014/7/schedule/3/paragraph/30/3/c); [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

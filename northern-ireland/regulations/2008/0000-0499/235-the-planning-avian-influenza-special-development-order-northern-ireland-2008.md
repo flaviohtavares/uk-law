@@ -31,7 +31,7 @@ summary: ''
 
 Planning
 
-The Planning (Avian Influenza) (Special Development) Order (Northern Ireland) 2008 (revoked)[^key-3f8689a553db7e7ed3dafd16c11a5598]
+The Planning (Avian Influenza) (Special Development) Order (Northern Ireland) 2008 (revoked)[^c-3f8689a553db7e7ed3dafd16c11a5598]
 
 Made
 
@@ -41,30 +41,30 @@ Coming into operation
 
 1st July 2008
 
-[^key-3f8689a553db7e7ed3dafd16c11a5598]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f8689a553db7e7ed3dafd16c11a5598]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-3f8689a553db7e7ed3dafd16c11a5598]
+## 1. Citation, commencement and application[^c-3f8689a553db7e7ed3dafd16c11a5598]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3f8689a553db7e7ed3dafd16c11a5598]
+## 2. Interpretation[^c-3f8689a553db7e7ed3dafd16c11a5598]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Temporary protection of birds from avian influenza[^key-3f8689a553db7e7ed3dafd16c11a5598]
+## 3. Temporary protection of birds from avian influenza[^c-3f8689a553db7e7ed3dafd16c11a5598]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application of the principal Order[^key-3f8689a553db7e7ed3dafd16c11a5598]
+## 4. Application of the principal Order[^c-3f8689a553db7e7ed3dafd16c11a5598]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f8689a553db7e7ed3dafd16c11a5598]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f8689a553db7e7ed3dafd16c11a5598]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f8689a553db7e7ed3dafd16c11a5598]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f8689a553db7e7ed3dafd16c11a5598]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3f8689a553db7e7ed3dafd16c11a5598]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/235) revoked (15.4.2015) by [The Planning (Avian Influenza) (Special Development) Order (Northern Ireland) 2015 (S.R. 2015/175)](https://www.legislation.gov.uk/nisr/2015/175), [art. 5](https://www.legislation.gov.uk/nisr/2015/175/article/5)
+[^c-3f8689a553db7e7ed3dafd16c11a5598]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/235) revoked (15.4.2015) by [The Planning (Avian Influenza) (Special Development) Order (Northern Ireland) 2015 (S.R. 2015/175)](https://www.legislation.gov.uk/nisr/2015/175), [art. 5](https://www.legislation.gov.uk/nisr/2015/175/article/5)

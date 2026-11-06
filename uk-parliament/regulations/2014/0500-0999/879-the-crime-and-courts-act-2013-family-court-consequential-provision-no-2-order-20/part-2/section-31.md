@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**31.**[^key-741f86cb2785f49c513c8501134b0ffd] In paragraph 5, in the substituted section 5 of the 1972 Act, omit the substituted subsection (3).
+**31.**[^c-741f86cb2785f49c513c8501134b0ffd] In paragraph 5, in the substituted section 5 of the 1972 Act, omit the substituted subsection (3).
 
 ## Annotations
 
-[^key-741f86cb2785f49c513c8501134b0ffd]: Commencement: Art. 31 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-741f86cb2785f49c513c8501134b0ffd]: Commencement: Art. 31 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

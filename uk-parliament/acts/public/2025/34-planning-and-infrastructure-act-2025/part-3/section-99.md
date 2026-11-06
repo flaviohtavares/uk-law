@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Interpretation[^key-daeeae55880bedea8c1e0de3762ef970][^key-53337a1b5b2c4f4ee89a554a998f9c1e]
+## 99. Interpretation[^c-daeeae55880bedea8c1e0de3762ef970][^c-53337a1b5b2c4f4ee89a554a998f9c1e]
 
 *Extent: E+W*
 
@@ -72,6 +72,6 @@ In this Part—
 
 ## Annotations
 
-[^key-daeeae55880bedea8c1e0de3762ef970]: Commencement: S. 99 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-daeeae55880bedea8c1e0de3762ef970]: Commencement: S. 99 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-53337a1b5b2c4f4ee89a554a998f9c1e]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2025/34/section/99) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(k)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/k)
+[^c-53337a1b5b2c4f4ee89a554a998f9c1e]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2025/34/section/99) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(k)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/k)

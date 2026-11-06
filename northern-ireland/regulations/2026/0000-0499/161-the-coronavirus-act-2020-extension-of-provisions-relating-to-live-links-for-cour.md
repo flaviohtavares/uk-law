@@ -42,11 +42,11 @@ Made
 
 The Department of Justice[^f00001] makes this Order in exercise of the powers conferred by [section 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90) [(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/90) of the [Coronavirus Act 2020](https://www.legislation.gov.uk/ukpga/2020/7/contents)[^f00002].
 
-## 1. Citation[^key-8720aab14ef3ed04f968d1df09c1484d]
+## 1. Citation[^c-8720aab14ef3ed04f968d1df09c1484d]
 
 This Order may be cited as the Coronavirus Act 2020 (Extension of Provisions Relating to Live Links for Courts and Tribunals) (No.2) Order (Northern Ireland) 2026.
 
-## 2. Extension of expiry date[^key-9aae759812484b78b414dd10ec4e9c27]
+## 2. Extension of expiry date[^c-9aae759812484b78b414dd10ec4e9c27]
 
 [Parts 1](https://www.legislation.gov.uk/ukpga/2020/7/schedule/27/part/1) and [2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/27/part/2) of [Schedule 27](https://www.legislation.gov.uk/ukpga/2020/7/schedule/27) to the [Coronavirus Act 2020](https://www.legislation.gov.uk/ukpga/2020/7/contents), and [section 57](https://www.legislation.gov.uk/ukpga/2020/7/section/57) of [that Act](https://www.legislation.gov.uk/ukpga/2020/7/contents) so far as it relates to those Parts, do not expire at the time when they would otherwise expire and expire instead on 24th March 2027.
 
@@ -72,6 +72,6 @@ Article 2 extends the operation of the provisions until 24th March 2027.
 
 [^f00002]: Footnote: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7/contents).
 
-[^key-8720aab14ef3ed04f968d1df09c1484d]: Commencement: Art. 1 in operation at made date
+[^c-8720aab14ef3ed04f968d1df09c1484d]: Commencement: Art. 1 in operation at made date
 
-[^key-9aae759812484b78b414dd10ec4e9c27]: Commencement: Art. 2 in operation at made date
+[^c-9aae759812484b78b414dd10ec4e9c27]: Commencement: Art. 2 in operation at made date

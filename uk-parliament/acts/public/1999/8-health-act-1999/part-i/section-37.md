@@ -51,7 +51,7 @@ and in this subsection “**specific**” means specified in the decision.
 
 (9) In this section “**regulations**” means regulations made by the Secretary of State, and the Secretary of State must consult the industry body before making any regulations under this section.
 
-(10)[^key-0cb835e21c00955506a28ecf03d0cd47] The Secretary of State may by order increase (or further increase) either of the sums mentioned in subsection (2).
+(10)[^c-0cb835e21c00955506a28ecf03d0cd47] The Secretary of State may by order increase (or further increase) either of the sums mentioned in subsection (2).
 
 ## Annotations
 
@@ -61,4 +61,4 @@ and in this subsection “**specific**” means specified in the decision.
 
 [^c4666851]: Marginal citation: [1994 c.40](https://www.legislation.gov.uk/ukpga/1994/40).
 
-[^key-0cb835e21c00955506a28ecf03d0cd47]: Commencement: S. 37(10) in force at 7.8.2017 by [S.I. 2017/810](https://www.legislation.gov.uk/uksi/2017/810), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/810/article/2/c)
+[^c-0cb835e21c00955506a28ecf03d0cd47]: Commencement: S. 37(10) in force at 7.8.2017 by [S.I. 2017/810](https://www.legislation.gov.uk/uksi/2017/810), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/810/article/2/c)

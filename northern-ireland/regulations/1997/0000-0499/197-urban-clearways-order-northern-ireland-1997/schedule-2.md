@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2[^key-4af68dbf7867543b21ebc10857414e14]
+## SCHEDULE 2[^c-4af68dbf7867543b21ebc10857414e14]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ Article 4
 
 ## Annotations
 
-[^key-4af68dbf7867543b21ebc10857414e14]: Commencement: Sch. 2 in operation at 14.5.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/197/article/1/1)
+[^c-4af68dbf7867543b21ebc10857414e14]: Commencement: Sch. 2 in operation at 14.5.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/197/article/1/1)

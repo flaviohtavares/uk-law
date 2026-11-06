@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Exceptions to requirement in section 52[^key-567fd7902a358adffe1ae543fb8c6941][^key-edb50a99ed2ade60ecd8075f5fb682d6]
+## 53. Exceptions to requirement in section 52[^c-567fd7902a358adffe1ae543fb8c6941][^c-edb50a99ed2ade60ecd8075f5fb682d6]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ as a result of which its previous publication complied with section 52.
 
 ## Annotations
 
-[^key-567fd7902a358adffe1ae543fb8c6941]: Commencement: S. 53 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-567fd7902a358adffe1ae543fb8c6941]: Commencement: S. 53 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-edb50a99ed2ade60ecd8075f5fb682d6]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2025/4/section/53) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+[^c-edb50a99ed2ade60ecd8075f5fb682d6]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2025/4/section/53) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)

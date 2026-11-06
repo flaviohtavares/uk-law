@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Application of provision about minimum terms to service offences[^key-5876b5a396d0534a85d8458aa261c6db]
+## 148. Application of provision about minimum terms to service offences[^c-5876b5a396d0534a85d8458aa261c6db]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In section 261A of the Armed Forces Act 2006 (life sentences imposed by Court Ma
 
 ## Annotations
 
-[^key-5876b5a396d0534a85d8458aa261c6db]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2022/32/section/148) in force at 28.6.2022, see [s. 208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
+[^c-5876b5a396d0534a85d8458aa261c6db]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2022/32/section/148) in force at 28.6.2022, see [s. 208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)

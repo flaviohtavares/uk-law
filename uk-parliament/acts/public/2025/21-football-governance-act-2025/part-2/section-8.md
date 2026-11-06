@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. The IFR’s regulatory principles[^key-57073a8b92edbad1ec43f03e55723f4d]
+## 8. The IFR’s regulatory principles[^c-57073a8b92edbad1ec43f03e55723f4d]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ The IFR’s regulatory principles are that—
 
 ## Annotations
 
-[^key-57073a8b92edbad1ec43f03e55723f4d]: Commencement: S. 8 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)
+[^c-57073a8b92edbad1ec43f03e55723f4d]: Commencement: S. 8 in force at Royal Assent, see [s. 100(2)(b)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/b)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213. Alteration of assessment of a section 208 or 208A penalty[^key-95753df4fe28c9451101db5d863338cc]
+## 213. Alteration of assessment of a section 208 or 208A penalty[^c-95753df4fe28c9451101db5d863338cc]
 
 *Extent: E+W+S+N.I.*
 
-(1) After notification of an assessment has been given to a person under section 211(2) or 211A(1)[^key-9fa34eda34bf677a1197fae99167fa97], the assessment may not be altered except in accordance with this section or on appeal.
+(1) After notification of an assessment has been given to a person under section 211(2) or 211A(1)[^c-9fa34eda34bf677a1197fae99167fa97], the assessment may not be altered except in accordance with this section or on appeal.
 
 (2) A supplementary assessment may be made in respect of a penalty if an earlier assessment operated by reference to an underestimate of the value of the denied advantage.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95753df4fe28c9451101db5d863338cc]: Textual amendment: Words in [s. 213 heading](https://www.legislation.gov.uk/ukpga/2014/26/part/4/chapter/2/crossheading/penalties) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 6(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/6/2)
+[^c-95753df4fe28c9451101db5d863338cc]: Textual amendment: Words in [s. 213 heading](https://www.legislation.gov.uk/ukpga/2014/26/part/4/chapter/2/crossheading/penalties) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 6(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/6/2)
 
-[^key-9fa34eda34bf677a1197fae99167fa97]: Textual amendment: Words in [s. 213(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/213/1) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 6(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/6/3)
+[^c-9fa34eda34bf677a1197fae99167fa97]: Textual amendment: Words in [s. 213(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/213/1) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 6(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/6/3)

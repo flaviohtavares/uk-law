@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Publication by OFCOM of details of enforcement action[^key-5d207d0c4e5445b2dd9c3b296cc57329][^key-73a57217fd956544e41ae2ced4c292b3]
+## 149. Publication by OFCOM of details of enforcement action[^c-5d207d0c4e5445b2dd9c3b296cc57329][^c-73a57217fd956544e41ae2ced4c292b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5d207d0c4e5445b2dd9c3b296cc57329]: Commencement: S. 149 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-5d207d0c4e5445b2dd9c3b296cc57329]: Commencement: S. 149 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-73a57217fd956544e41ae2ced4c292b3]: Commencement: [S. 149](https://www.legislation.gov.uk/ukpga/2023/50/section/149) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-73a57217fd956544e41ae2ced4c292b3]: Commencement: [S. 149](https://www.legislation.gov.uk/ukpga/2023/50/section/149) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

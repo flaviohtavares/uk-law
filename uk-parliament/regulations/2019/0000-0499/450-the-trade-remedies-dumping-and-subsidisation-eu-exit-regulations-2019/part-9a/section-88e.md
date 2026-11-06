@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88E. Determination[^key-a124b99d559275a9b8b9a0ffa482a27d]
+## 88E. Determination[^c-a124b99d559275a9b8b9a0ffa482a27d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a124b99d559275a9b8b9a0ffa482a27d]: Textual amendment: Pt. 9A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [20](https://www.legislation.gov.uk/uksi/2020/99/regulation/20)
+[^c-a124b99d559275a9b8b9a0ffa482a27d]: Textual amendment: Pt. 9A inserted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [20](https://www.legislation.gov.uk/uksi/2020/99/regulation/20)

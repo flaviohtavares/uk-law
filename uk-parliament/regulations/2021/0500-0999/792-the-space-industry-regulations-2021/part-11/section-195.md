@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Monitoring and oversight of US technology[^key-52e4d55323667bb387af74621c980bb4]
+## 195. Monitoring and oversight of US technology[^c-52e4d55323667bb387af74621c980bb4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52e4d55323667bb387af74621c980bb4]: Commencement: Reg. 195 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-52e4d55323667bb387af74621c980bb4]: Commencement: Reg. 195 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

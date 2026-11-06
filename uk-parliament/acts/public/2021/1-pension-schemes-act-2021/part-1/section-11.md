@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Fit and proper persons requirement[^c24458161][^key-ac86db7bcf63cb0ff93959ecbfc85ea3]
+## 11. Fit and proper persons requirement[^c24458161][^c-ac86db7bcf63cb0ff93959ecbfc85ea3]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) a person who establishes the scheme;
 - (b) a trustee;
-- (ba)[^key-0b142946fa4b8b76c86a59b89bd61687] where the scheme is an unconnected multiple employer scheme, the scheme proprietor (see section 14B);
+- (ba)[^c-0b142946fa4b8b76c86a59b89bd61687] where the scheme is an unconnected multiple employer scheme, the scheme proprietor (see section 14B);
 - (bb) where the scheme is an unconnected multiple employer scheme, a person who promotes or markets the scheme;
 - (bc) where the scheme is an unconnected multiple employer scheme, a chief financial officer of the scheme;
 - (bd) where the scheme is an unconnected multiple employer scheme, a chief investment officer of the scheme;
@@ -62,6 +62,6 @@ summary: ''
 
 [^c24458161]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2021/1/section/11) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-ac86db7bcf63cb0ff93959ecbfc85ea3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2021/1/section/11) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-ac86db7bcf63cb0ff93959ecbfc85ea3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2021/1/section/11) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
 
-[^key-0b142946fa4b8b76c86a59b89bd61687]: Textual amendment: [S. 11(2)(ba)-(bd)](https://www.legislation.gov.uk/ukpga/2021/1/section/11/2/ba) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2025/1313/regulation/7)
+[^c-0b142946fa4b8b76c86a59b89bd61687]: Textual amendment: [S. 11(2)(ba)-(bd)](https://www.legislation.gov.uk/ukpga/2021/1/section/11/2/ba) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2025/1313/regulation/7)

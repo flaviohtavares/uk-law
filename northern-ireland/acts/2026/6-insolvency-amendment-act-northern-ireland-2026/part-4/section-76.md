@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76. Powers of interim receiver[^key-dd870d7e552db58ff5fc5e3c486c58ee]
+## 76. Powers of interim receiver[^c-dd870d7e552db58ff5fc5e3c486c58ee]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 260(3)(c) (powers of interim receiver), for “summon a general meeti
 
 ## Annotations
 
-[^key-dd870d7e552db58ff5fc5e3c486c58ee]: Commencement: S. 76 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-dd870d7e552db58ff5fc5e3c486c58ee]: Commencement: S. 76 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

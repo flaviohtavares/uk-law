@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2012 (revoked)[^key-509ded185ac48ead954313b700865f6d]
+The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2012 (revoked)[^c-509ded185ac48ead954313b700865f6d]
 
 Made
 
@@ -42,11 +42,11 @@ Coming into operation
 
 6th January 2013
 
-[^key-509ded185ac48ead954313b700865f6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-509ded185ac48ead954313b700865f6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-509ded185ac48ead954313b700865f6d]
+### PART 1 — GENERAL[^c-509ded185ac48ead954313b700865f6d]
 
 **No longer in force.**
 
@@ -59,7 +59,7 @@ Coming into operation
 - [Section 7 — Discharge and scope of functions](part-1/section-7.md)
 - [Section 8 — Appointment of chief inspector and other inspectors](part-1/section-8.md)
 
-### PART 2 — PERMITS[^key-509ded185ac48ead954313b700865f6d]
+### PART 2 — PERMITS[^c-509ded185ac48ead954313b700865f6d]
 
 **No longer in force.**
 
@@ -81,7 +81,7 @@ Coming into operation
 - [Section 24 — Revocation of permits](part-2/section-24.md)
 - [Section 25 — Fees and charges in relation to permits](part-2/section-25.md)
 
-### PART 3 — ENFORCEMENT[^key-509ded185ac48ead954313b700865f6d]
+### PART 3 — ENFORCEMENT[^c-509ded185ac48ead954313b700865f6d]
 
 **No longer in force.**
 
@@ -91,13 +91,13 @@ Coming into operation
 - [Section 29 — Power of the enforcing authority to prevent or remedy pollution](part-3/section-29.md)
 - [Section 30 — Powers of inspectors and others](part-3/section-30.md)
 
-### PART 4 — APPEALS[^key-509ded185ac48ead954313b700865f6d]
+### PART 4 — APPEALS[^c-509ded185ac48ead954313b700865f6d]
 
 **No longer in force.**
 
 - [Section 31 — Appeals from decisions with respect to permits](part-4/section-31.md)
 
-### PART 5 — INFORMATION AND PUBLICITY[^key-509ded185ac48ead954313b700865f6d]
+### PART 5 — INFORMATION AND PUBLICITY[^c-509ded185ac48ead954313b700865f6d]
 
 **No longer in force.**
 
@@ -106,7 +106,7 @@ Coming into operation
 - [Section 34 — Exclusion from registers of information affecting national security](part-5/section-34.md)
 - [Section 35 — Exclusion from registers of certain confidential information](part-5/section-35.md)
 
-### PART 6 — PROVISION AS TO OFFENCES[^key-509ded185ac48ead954313b700865f6d]
+### PART 6 — PROVISION AS TO OFFENCES[^c-509ded185ac48ead954313b700865f6d]
 
 **No longer in force.**
 
@@ -115,7 +115,7 @@ Coming into operation
 - [Section 38 — Admissibility of evidence](part-6/section-38.md)
 - [Section 39 — Power of court to order cause of offence to be remedied](part-6/section-39.md)
 
-### PART 7 — THE DEPARTMENT'S POWERS[^key-509ded185ac48ead954313b700865f6d]
+### PART 7 — THE DEPARTMENT'S POWERS[^c-509ded185ac48ead954313b700865f6d]
 
 **No longer in force.**
 
@@ -123,7 +123,7 @@ Coming into operation
 - [Section 41 — Guidance to enforcing authorities](part-7/section-41.md)
 - [Section 42 — Plans relating to emissions](part-7/section-42.md)
 
-### PART 8 — MISCELLANEOUS AND SUPPLEMENTAL PROVISIONS[^key-509ded185ac48ead954313b700865f6d]
+### PART 8 — MISCELLANEOUS AND SUPPLEMENTAL PROVISIONS[^c-509ded185ac48ead954313b700865f6d]
 
 **No longer in force.**
 
@@ -134,7 +134,7 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-509ded185ac48ead954313b700865f6d]SCHEDULES
+[^c-509ded185ac48ead954313b700865f6d]SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -158,14 +158,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-509ded185ac48ead954313b700865f6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-509ded185ac48ead954313b700865f6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-509ded185ac48ead954313b700865f6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-509ded185ac48ead954313b700865f6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-509ded185ac48ead954313b700865f6d]: Textual amendment: Regulations revoked (20.6.2013) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))
+[^c-509ded185ac48ead954313b700865f6d]: Textual amendment: Regulations revoked (20.6.2013) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 (S.R. 2013/160)](https://www.legislation.gov.uk/nisr/2013/160), [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1), [Sch. 17](https://www.legislation.gov.uk/nisr/2013/160/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2013/160/regulation/5))

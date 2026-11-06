@@ -24,10 +24,10 @@ summary: ''
 
 (2) Subject to subsections (3) and (4), this Act extends to England and Wales only.
 
-(3)[^key-c20cbce1f94af64f6e88fd59036f0186] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c20cbce1f94af64f6e88fd59036f0186] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The amendment or repeal by this Act of an enactment extending to Scotland or Northern Ireland extends also to Scotland or, as the case may be, Northern Ireland.
 
 ## Annotations
 
-[^key-c20cbce1f94af64f6e88fd59036f0186]: Textual amendment: [S. 123(3)](https://www.legislation.gov.uk/ukpga/2000/14/section/123/3) omitted (1.8.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 25](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/25); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-c20cbce1f94af64f6e88fd59036f0186]: Textual amendment: [S. 123(3)](https://www.legislation.gov.uk/ukpga/2000/14/section/123/3) omitted (1.8.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 15 para. 25](https://www.legislation.gov.uk/ukpga/2012/7/schedule/15/paragraph/25); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)

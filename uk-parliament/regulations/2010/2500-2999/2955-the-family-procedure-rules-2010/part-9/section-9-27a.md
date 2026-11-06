@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9.27A. Duty to make open proposals after a FDR appointment or where there has been no FDR appointment[^key-a6a617e96df353343badf5d12c02bb99]
+## 9.27A. Duty to make open proposals after a FDR appointment or where there has been no FDR appointment[^c-a6a617e96df353343badf5d12c02bb99]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6a617e96df353343badf5d12c02bb99]: Textual amendment: [Rule 9.27A](https://www.legislation.gov.uk/uksi/2010/2955/rule/9.27A) inserted (6.7.2020) by [The Family Procedure (Amendment) Rules 2020 (S.I. 2020/135)](https://www.legislation.gov.uk/uksi/2020/135), [rules 1](https://www.legislation.gov.uk/uksi/2020/135/rule/1), [13](https://www.legislation.gov.uk/uksi/2020/135/rule/13)
+[^c-a6a617e96df353343badf5d12c02bb99]: Textual amendment: [Rule 9.27A](https://www.legislation.gov.uk/uksi/2010/2955/rule/9.27A) inserted (6.7.2020) by [The Family Procedure (Amendment) Rules 2020 (S.I. 2020/135)](https://www.legislation.gov.uk/uksi/2020/135), [rules 1](https://www.legislation.gov.uk/uksi/2020/135/rule/1), [13](https://www.legislation.gov.uk/uksi/2020/135/rule/13)

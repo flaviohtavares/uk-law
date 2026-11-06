@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 273. Power to require information[^key-d3ec12d2f25a1d9cfba5bbc57114724b][^key-fb95cc9d8dc3b3408a0cb1cb9e8bbde0]
+## 273. Power to require information[^c-d3ec12d2f25a1d9cfba5bbc57114724b][^c-fb95cc9d8dc3b3408a0cb1cb9e8bbde0]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3ec12d2f25a1d9cfba5bbc57114724b]: Commencement: S. 273 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-d3ec12d2f25a1d9cfba5bbc57114724b]: Commencement: S. 273 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-fb95cc9d8dc3b3408a0cb1cb9e8bbde0]: Commencement: [S. 273](https://www.legislation.gov.uk/ukpga/2023/52/section/273) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/iv)
+[^c-fb95cc9d8dc3b3408a0cb1cb9e8bbde0]: Commencement: [S. 273](https://www.legislation.gov.uk/ukpga/2023/52/section/273) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/iv)

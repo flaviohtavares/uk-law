@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Removal of obstructions other than vessels[^key-34aebff80091a771672bf972d7c51ff4]
+## 62. Removal of obstructions other than vessels[^c-34aebff80091a771672bf972d7c51ff4]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ from the person who was the owner at the time when the thing removed came into t
 
 ## Annotations
 
-[^key-34aebff80091a771672bf972d7c51ff4]: Commencement: Art. 62 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-34aebff80091a771672bf972d7c51ff4]: Commencement: Art. 62 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

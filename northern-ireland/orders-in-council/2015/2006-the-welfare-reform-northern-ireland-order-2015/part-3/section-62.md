@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Hardship payments[^key-02b225bf19b82f70ed28f56ee362c77d]
+## 62. Hardship payments[^c-02b225bf19b82f70ed28f56ee362c77d]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ After section 16 of the Welfare Reform Act (Northern Ireland) 2007 insert—
 
 ## Annotations
 
-[^key-02b225bf19b82f70ed28f56ee362c77d]: Commencement: [Art. 62](https://www.legislation.gov.uk/nisi/2015/2006/article/62) in operation at 1.6.2016 by [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2016/234/article/2/2/b)
+[^c-02b225bf19b82f70ed28f56ee362c77d]: Commencement: [Art. 62](https://www.legislation.gov.uk/nisi/2015/2006/article/62) in operation at 1.6.2016 by [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2016/234/article/2/2/b)

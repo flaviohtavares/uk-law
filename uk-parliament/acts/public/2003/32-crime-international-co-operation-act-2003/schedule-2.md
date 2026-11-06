@@ -26,27 +26,27 @@ Sections 30 and 31
 
 #### Securing attendance of witnesses
 
-**1.**[^key-446e3ffd54be4bbb12eddd385fdd14ad] The nominated court has the like powers for securing the attendance of the witness to give evidence through the link as it has for the purpose of proceedings before the court.
+**1.**[^c-446e3ffd54be4bbb12eddd385fdd14ad] The nominated court has the like powers for securing the attendance of the witness to give evidence through the link as it has for the purpose of proceedings before the court.
 
-**2.**[^key-be680404660019f3359a669fad48f211] In Scotland the nominated court has power to issue a warrant to officers of law to cite the witness for the purpose of securing his attendance to give evidence through the link, and section 156 of the Criminal Procedure (Scotland) Act 1995 (c. 46) applies in relation to the witness if so cited.
+**2.**[^c-be680404660019f3359a669fad48f211] In Scotland the nominated court has power to issue a warrant to officers of law to cite the witness for the purpose of securing his attendance to give evidence through the link, and section 156 of the Criminal Procedure (Scotland) Act 1995 (c. 46) applies in relation to the witness if so cited.
 
 #### Conduct of hearing
 
-**3.**[^key-a2320f2609d94257ced87aecee615d7a] The witness is to give evidence in the presence of the nominated court.
+**3.**[^c-a2320f2609d94257ced87aecee615d7a] The witness is to give evidence in the presence of the nominated court.
 
-**4.**[^key-3fa3dfb529729551be82162f5319b500] The nominated court is to establish the identity of the witness.
+**4.**[^c-3fa3dfb529729551be82162f5319b500] The nominated court is to establish the identity of the witness.
 
-**5.**[^key-000ff4578c7057fa9b8bcbc4b1287899] The nominated court is to intervene where it considers it necessary to do so to safeguard the rights of the witness.
+**5.**[^c-000ff4578c7057fa9b8bcbc4b1287899] The nominated court is to intervene where it considers it necessary to do so to safeguard the rights of the witness.
 
-**6.**[^key-ae9951e73fc892006186231cdcb7332b] The evidence is to be given under the supervision of the court of the country concerned.
+**6.**[^c-ae9951e73fc892006186231cdcb7332b] The evidence is to be given under the supervision of the court of the country concerned.
 
-**7.**[^key-db127aa1d344c0f55d0ab268a13feffa] The evidence is to be given in accordance with the laws of that country and with any measures for the protection of the witness agreed between the Secretary of State and the authority in that country which appears to him to have the function of entering into agreements of that kind.
+**7.**[^c-db127aa1d344c0f55d0ab268a13feffa] The evidence is to be given in accordance with the laws of that country and with any measures for the protection of the witness agreed between the Secretary of State and the authority in that country which appears to him to have the function of entering into agreements of that kind.
 
-**8.**[^key-3fafaf38394172956e8679c53e100dbb] Rules of court under section 49 must make provision for the use of interpreters.
+**8.**[^c-3fafaf38394172956e8679c53e100dbb] Rules of court under section 49 must make provision for the use of interpreters.
 
 #### Privilege of witness
 
-**9.**[^key-6f57bcf21029e93fd1ce61a06a43579e] (1) The witness cannot be compelled to give any evidence which he could not be compelled to give in criminal proceedings in the part of the United Kingdom in which the nominated court exercises jurisdiction.
+**9.**[^c-6f57bcf21029e93fd1ce61a06a43579e] (1) The witness cannot be compelled to give any evidence which he could not be compelled to give in criminal proceedings in the part of the United Kingdom in which the nominated court exercises jurisdiction.
 
 (2) The witness cannot be compelled to give any evidence if his doing so would be prejudicial to the security of the United Kingdom.
 
@@ -58,7 +58,7 @@ Sections 30 and 31
 
 #### Record of hearing
 
-**10.**[^key-cefc6cbfa48677d1fb5809cb25a0eafe] Rules of court under section 49 must make provision—
+**10.**[^c-cefc6cbfa48677d1fb5809cb25a0eafe] Rules of court under section 49 must make provision—
 
 - (a) for the drawing up of a record of the hearing,
 - (b) for sending the record to the external authority.
@@ -67,54 +67,54 @@ Sections 30 and 31
 
 #### Notification of witness
 
-**11.**[^key-907287ae9e3d3914ccfddad5b380a9a0] The nominated court must notify the witness of the time when and the place at which he is to give evidence by telephone.
+**11.**[^c-907287ae9e3d3914ccfddad5b380a9a0] The nominated court must notify the witness of the time when and the place at which he is to give evidence by telephone.
 
 #### Conduct of hearing
 
-**12.**[^key-c3bb6eb3ba9c489ee9b4e5ff7f0ccdda] The nominated court must be satisfied that the witness is willingly giving evidence by telephone.
+**12.**[^c-c3bb6eb3ba9c489ee9b4e5ff7f0ccdda] The nominated court must be satisfied that the witness is willingly giving evidence by telephone.
 
-**13.**[^key-59767fd36b489df2ac676d66597ce629] The witness is to give evidence in the presence of the nominated court.
+**13.**[^c-59767fd36b489df2ac676d66597ce629] The witness is to give evidence in the presence of the nominated court.
 
-**14.**[^key-bd66702f15959128523901d8ab3914fe] The nominated court is to establish the identity of the witness.
+**14.**[^c-bd66702f15959128523901d8ab3914fe] The nominated court is to establish the identity of the witness.
 
-**15.**[^key-081be178a61ac8602abf7eb030e2d256] The evidence is to be given under the supervision of the court of the participating country.
+**15.**[^c-081be178a61ac8602abf7eb030e2d256] The evidence is to be given under the supervision of the court of the participating country.
 
-**16.**[^key-4303162dd332c0b6f1ce13ca29150d10] The evidence is to be given in accordance with the laws of that country.
+**16.**[^c-4303162dd332c0b6f1ce13ca29150d10] The evidence is to be given in accordance with the laws of that country.
 
-**17.**[^key-d450f16065d485970f949f4ea1291333] Rules of court under section 49 must make provision for the use of interpreters.
+**17.**[^c-d450f16065d485970f949f4ea1291333] Rules of court under section 49 must make provision for the use of interpreters.
 
 ## Annotations
 
-[^key-446e3ffd54be4bbb12eddd385fdd14ad]: Commencement: Sch. 2 para. 1 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-446e3ffd54be4bbb12eddd385fdd14ad]: Commencement: Sch. 2 para. 1 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-be680404660019f3359a669fad48f211]: Commencement: Sch. 2 para. 2 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-be680404660019f3359a669fad48f211]: Commencement: Sch. 2 para. 2 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-a2320f2609d94257ced87aecee615d7a]: Commencement: Sch. 2 para. 3 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-a2320f2609d94257ced87aecee615d7a]: Commencement: Sch. 2 para. 3 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-3fa3dfb529729551be82162f5319b500]: Commencement: Sch. 2 para. 4 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-3fa3dfb529729551be82162f5319b500]: Commencement: Sch. 2 para. 4 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-000ff4578c7057fa9b8bcbc4b1287899]: Commencement: Sch. 2 para. 5 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-000ff4578c7057fa9b8bcbc4b1287899]: Commencement: Sch. 2 para. 5 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-ae9951e73fc892006186231cdcb7332b]: Commencement: Sch. 2 para. 6 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-ae9951e73fc892006186231cdcb7332b]: Commencement: Sch. 2 para. 6 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-db127aa1d344c0f55d0ab268a13feffa]: Commencement: Sch. 2 para. 7 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-db127aa1d344c0f55d0ab268a13feffa]: Commencement: Sch. 2 para. 7 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-3fafaf38394172956e8679c53e100dbb]: Commencement: Sch. 2 para. 8 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-3fafaf38394172956e8679c53e100dbb]: Commencement: Sch. 2 para. 8 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-6f57bcf21029e93fd1ce61a06a43579e]: Commencement: Sch. 2 para. 9 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-6f57bcf21029e93fd1ce61a06a43579e]: Commencement: Sch. 2 para. 9 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-cefc6cbfa48677d1fb5809cb25a0eafe]: Commencement: Sch. 2 para. 10 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-cefc6cbfa48677d1fb5809cb25a0eafe]: Commencement: Sch. 2 para. 10 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-907287ae9e3d3914ccfddad5b380a9a0]: Commencement: Sch. 2 para. 11 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-907287ae9e3d3914ccfddad5b380a9a0]: Commencement: Sch. 2 para. 11 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-c3bb6eb3ba9c489ee9b4e5ff7f0ccdda]: Commencement: Sch. 2 para. 12 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-c3bb6eb3ba9c489ee9b4e5ff7f0ccdda]: Commencement: Sch. 2 para. 12 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-59767fd36b489df2ac676d66597ce629]: Commencement: Sch. 2 para. 13 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-59767fd36b489df2ac676d66597ce629]: Commencement: Sch. 2 para. 13 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-bd66702f15959128523901d8ab3914fe]: Commencement: Sch. 2 para. 14 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-bd66702f15959128523901d8ab3914fe]: Commencement: Sch. 2 para. 14 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-081be178a61ac8602abf7eb030e2d256]: Commencement: Sch. 2 para. 15 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-081be178a61ac8602abf7eb030e2d256]: Commencement: Sch. 2 para. 15 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-4303162dd332c0b6f1ce13ca29150d10]: Commencement: Sch. 2 para. 16 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-4303162dd332c0b6f1ce13ca29150d10]: Commencement: Sch. 2 para. 16 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
 
-[^key-d450f16065d485970f949f4ea1291333]: Commencement: Sch. 2 para. 17 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)
+[^c-d450f16065d485970f949f4ea1291333]: Commencement: Sch. 2 para. 17 in force at 26.4.2004 by [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3](https://www.legislation.gov.uk/uksi/2004/786/article/3)

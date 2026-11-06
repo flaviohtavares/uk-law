@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Further amendment of Regulation [(EC) No 1070/2009](https://www.legislation.gov.uk/eur/2009/1070)[^key-06ca08cc60990c26accfe5e224e2e6d8]
+## 81. Further amendment of Regulation [(EC) No 1070/2009](https://www.legislation.gov.uk/eur/2009/1070)[^c-06ca08cc60990c26accfe5e224e2e6d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After Article 5 omit the sentence which begins “This Regulation shall be bindi
 
 ## Annotations
 
-[^key-06ca08cc60990c26accfe5e224e2e6d8]: Commencement: Reg. 81 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-06ca08cc60990c26accfe5e224e2e6d8]: Commencement: Reg. 81 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71U. Meaning of “relevant Part 5A direction” for purposes of this Chapter[^key-2175f3032e84c642e79a415782bc91ad][^key-0b37bb1bfd301e02d8c8df3c7e213886]
+## 71U. Meaning of “relevant Part 5A direction” for purposes of this Chapter[^c-2175f3032e84c642e79a415782bc91ad][^c-0b37bb1bfd301e02d8c8df3c7e213886]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ For the purposes of this Chapter a “relevant Part 5A direction” is a directi
 
 ## Annotations
 
-[^key-2175f3032e84c642e79a415782bc91ad]: Textual amendment: Pt. 5A Ch. 2 inserted (14.1.2025) by [The Financial Services and Markets Act 2000 (Designated Activities) (Supervision and Enforcement) Regulations 2025 (S.I. 2025/22)](https://www.legislation.gov.uk/uksi/2025/22), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/22/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2025/22/schedule/paragraph/3)
+[^c-2175f3032e84c642e79a415782bc91ad]: Textual amendment: Pt. 5A Ch. 2 inserted (14.1.2025) by [The Financial Services and Markets Act 2000 (Designated Activities) (Supervision and Enforcement) Regulations 2025 (S.I. 2025/22)](https://www.legislation.gov.uk/uksi/2025/22), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/22/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2025/22/schedule/paragraph/3)
 
-[^key-0b37bb1bfd301e02d8c8df3c7e213886]: Textual amendment: Pt. 5A inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/8/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/e)
+[^c-0b37bb1bfd301e02d8c8df3c7e213886]: Textual amendment: Pt. 5A inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/8/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/e)

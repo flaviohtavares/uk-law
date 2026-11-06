@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 324. Guidance in connection with investigative assistance[^key-5009202d6000480fcd88295034e3992f][^key-da403a9ae8ba5c605bef1518f4effd6a]
+## 324. Guidance in connection with investigative assistance[^c-5009202d6000480fcd88295034e3992f][^c-da403a9ae8ba5c605bef1518f4effd6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5009202d6000480fcd88295034e3992f]: Commencement: S. 324 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-5009202d6000480fcd88295034e3992f]: Commencement: S. 324 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-da403a9ae8ba5c605bef1518f4effd6a]: Commencement: [S. 324](https://www.legislation.gov.uk/ukpga/2024/13/section/324) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/4)
+[^c-da403a9ae8ba5c605bef1518f4effd6a]: Commencement: [S. 324](https://www.legislation.gov.uk/ukpga/2024/13/section/324) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/4)

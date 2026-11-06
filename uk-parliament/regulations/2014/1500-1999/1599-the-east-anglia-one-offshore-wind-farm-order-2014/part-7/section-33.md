@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Certification of plans etc.[^key-2e8d909cd84035b3858deb61d677f624]
+## 33. Certification of plans etc.[^c-2e8d909cd84035b3858deb61d677f624]
 
 *Extent: E+W+S*
 
 (1) The undertakers shall, as soon as practicable after the making of this Order, submit to the Secretary of State copies of—
 
 - (a) the works plan—
-  - document reference 2.3(a) sheet 1-2 May-15 rev D;[^key-53faf23d663f21f9ed882a7221540c4c]
+  - document reference 2.3(a) sheet 1-2 May-15 rev D;[^c-53faf23d663f21f9ed882a7221540c4c]
   - document reference 2.3(a) sheet 3-4 Sep-13 rev C;
   - document reference 2.3(b) sheet 5-9 Sep-13 rev C;
   - document reference 2.3(c) sheet 10-14 Sep-13 rev C;
@@ -89,7 +89,7 @@ summary: ''
   - document reference 2.5 sheet 20 of 22 Sep-13 rev C;
   - document reference 2.5 sheet 21 of 22 Sep-13 rev C;
   - document reference 2.5 sheet 22 of 22 Sep-13 rev C;
-- (g)[^key-fdecd5eca3bb240d8d7861fd95919070] the book of reference (June 2014 – version 7);
+- (g)[^c-fdecd5eca3bb240d8d7861fd95919070] the book of reference (June 2014 – version 7);
 - (h) the outline converter station design principles statement (November 2013 – version 3);
 - (i) the outline written scheme of investigation: archaeology and cultural heritage (onshore) (July 2013 rev 1);
 - (j) the outline code of construction practice (October 2013 – version 3);
@@ -99,7 +99,7 @@ summary: ''
 - (n) the outline access management plan (October 2013 – version 3);
 - (o) the outline Bawdsey bed level monitoring and remediation strategy (October 2013 – version 1);
 - (p) the draft written scheme of investigation: archaeology and cultural heritage (offshore) (July 2013 – version 1);
-- (q)[^key-636626f14d22a9ead891a3040031ac6c] the outline operations and maintenance monitoring plan offshore (October 2013 – version 1);
+- (q)[^c-636626f14d22a9ead891a3040031ac6c] the outline operations and maintenance monitoring plan offshore (October 2013 – version 1);
 - (r) the outline navigation monitoring strategy (October 2013 – version 1);
 - (s) the outline skills strategy (October 2013 – version 1); and
 - (t) the environmental statement and the further environmental information
@@ -108,7 +108,7 @@ for certification that they are true copies of the documents referred to in this
 
 (2) A plan or document so certified shall be admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-(3)[^key-6b97b75f4d998d574e40d68f27561c5a] Where a plan or document certified under paragraph (1)—
+(3)[^c-6b97b75f4d998d574e40d68f27561c5a] Where a plan or document certified under paragraph (1)—
 
 - (a) refers to a provision of this Order (including any specified requirement) when it was in draft form; and
 - (b) identifies that provision by a number, or combination of numbers and letters, which is different from the number, or combination of numbers and letters by which the corresponding provision of this Order is identified in the Order as made,
@@ -117,12 +117,12 @@ the reference in the plan or document concerned shall be construed for the purpo
 
 ## Annotations
 
-[^key-2e8d909cd84035b3858deb61d677f624]: Commencement: Art. 33 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-2e8d909cd84035b3858deb61d677f624]: Commencement: Art. 33 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-53faf23d663f21f9ed882a7221540c4c]: Textual amendment: Words in [art. 33(1)(a)](https://www.legislation.gov.uk/uksi/2014/1599/article/33/1/a) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
+[^c-53faf23d663f21f9ed882a7221540c4c]: Textual amendment: Words in [art. 33(1)(a)](https://www.legislation.gov.uk/uksi/2014/1599/article/33/1/a) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/447/schedule/2)
 
-[^key-fdecd5eca3bb240d8d7861fd95919070]: Textual amendment: Words in [art. 33(1)(g)](https://www.legislation.gov.uk/uksi/2014/1599/article/33/1/g) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
+[^c-fdecd5eca3bb240d8d7861fd95919070]: Textual amendment: Words in [art. 33(1)(g)](https://www.legislation.gov.uk/uksi/2014/1599/article/33/1/g) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
 
-[^key-636626f14d22a9ead891a3040031ac6c]: Textual amendment: Words in [art. 33(1)(q)](https://www.legislation.gov.uk/uksi/2014/1599/article/33/1/q) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
+[^c-636626f14d22a9ead891a3040031ac6c]: Textual amendment: Words in [art. 33(1)(q)](https://www.legislation.gov.uk/uksi/2014/1599/article/33/1/q) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
 
-[^key-6b97b75f4d998d574e40d68f27561c5a]: Textual amendment: [Art. 33(3)](https://www.legislation.gov.uk/uksi/2014/1599/article/33/3) inserted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
+[^c-6b97b75f4d998d574e40d68f27561c5a]: Textual amendment: [Art. 33(3)](https://www.legislation.gov.uk/uksi/2014/1599/article/33/3) inserted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)

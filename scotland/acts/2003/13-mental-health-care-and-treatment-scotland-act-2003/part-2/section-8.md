@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Duty to bring specific matters to attention of Scottish Ministers and others etc.[^key-9e35041ee2d7211c4117e5d35d7fdb2b]
+## 8. Duty to bring specific matters to attention of Scottish Ministers and others etc.[^c-9e35041ee2d7211c4117e5d35d7fdb2b]
 
 *Extent: S*
 
@@ -46,21 +46,21 @@ summary: ''
 - (j) the managers of—
   - (i) a prison; or
   - (ii) a young offenders institution;
-- (ja)[^key-34a2f35af274a07743d0fa3ca9267da0] Healthcare Improvement Scotland;
-- (k)[^key-b61aa2e2cb5f3daa7d405fc62b74ae97] Social Care and Social Work Improvement Scotland;
-- (la)[^key-a571b7223a93219a220adc61514e5495] the Police Service of Scotland;
+- (ja)[^c-34a2f35af274a07743d0fa3ca9267da0] Healthcare Improvement Scotland;
+- (k)[^c-b61aa2e2cb5f3daa7d405fc62b74ae97] Social Care and Social Work Improvement Scotland;
+- (la)[^c-a571b7223a93219a220adc61514e5495] the Police Service of Scotland;
 - (m) such other person, or group of persons, as the Commission considers appropriate.
 
-(4) In subsection (3)(i) above, “**registered care service**” means a care service registered under Part 5 of the Public Services Reform (Scotland) Act 2010[^key-28afa8799835c564c1a199a4166bc607] (asp 8).
+(4) In subsection (3)(i) above, “**registered care service**” means a care service registered under Part 5 of the Public Services Reform (Scotland) Act 2010[^c-28afa8799835c564c1a199a4166bc607] (asp 8).
 
 ## Annotations
 
-[^key-9e35041ee2d7211c4117e5d35d7fdb2b]: Commencement: S. 8 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-9e35041ee2d7211c4117e5d35d7fdb2b]: Commencement: S. 8 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-34a2f35af274a07743d0fa3ca9267da0]: Textual amendment: S. 8(3)(ja) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 17 para. 29](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/29); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-34a2f35af274a07743d0fa3ca9267da0]: Textual amendment: S. 8(3)(ja) inserted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 17 para. 29](https://www.legislation.gov.uk/asp/2010/8/schedule/17/paragraph/29); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-b61aa2e2cb5f3daa7d405fc62b74ae97]: Textual amendment: S. 8(3)(k) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 15](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/15); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-b61aa2e2cb5f3daa7d405fc62b74ae97]: Textual amendment: S. 8(3)(k) substituted (1.10.2010 for specified purposes, 1.4.2011 in so far as not already in force) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 14 para. 15](https://www.legislation.gov.uk/asp/2010/8/schedule/14/paragraph/15); [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule); [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-a571b7223a93219a220adc61514e5495]: Textual amendment: [S. 8(3)(la)](https://www.legislation.gov.uk/asp/2003/13/section/8/3/la) substituted for s. 8(3)(l) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 23(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/23/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-a571b7223a93219a220adc61514e5495]: Textual amendment: [S. 8(3)(la)](https://www.legislation.gov.uk/asp/2003/13/section/8/3/la) substituted for s. 8(3)(l) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 23(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/23/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-28afa8799835c564c1a199a4166bc607]: Textual amendment: Words in s. 8(4) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 13(2)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/13/2)
+[^c-28afa8799835c564c1a199a4166bc607]: Textual amendment: Words in s. 8(4) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 1 para. 13(2)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/13/2)

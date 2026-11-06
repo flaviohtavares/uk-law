@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Inspections of collection and transport operations[^key-a2fdd8409bb223394859b502d6d4548f]
+## 57. Inspections of collection and transport operations[^c-a2fdd8409bb223394859b502d6d4548f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2fdd8409bb223394859b502d6d4548f]: Textual amendment: [Reg. 57](https://www.legislation.gov.uk/uksi/2005/894/regulation/57) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/23) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-a2fdd8409bb223394859b502d6d4548f]: Textual amendment: [Reg. 57](https://www.legislation.gov.uk/uksi/2005/894/regulation/57) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/23) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))

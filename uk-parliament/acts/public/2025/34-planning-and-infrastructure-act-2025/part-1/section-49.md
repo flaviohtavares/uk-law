@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Installation of electric vehicle charge points[^key-00d6c6996ce55618856d0d5801dc07c1][^key-1b7ebabe75e223dd8b43e5b3d8104fcf]
+## 49. Installation of electric vehicle charge points[^c-00d6c6996ce55618856d0d5801dc07c1][^c-1b7ebabe75e223dd8b43e5b3d8104fcf]
 
 *Extent: E+W*
 
@@ -114,6 +114,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00d6c6996ce55618856d0d5801dc07c1]: Commencement: S. 49 not in force at Royal Assent, see [s. 118(1)(z5)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z5)
+[^c-00d6c6996ce55618856d0d5801dc07c1]: Commencement: S. 49 not in force at Royal Assent, see [s. 118(1)(z5)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z5)
 
-[^key-1b7ebabe75e223dd8b43e5b3d8104fcf]: Commencement: S. 49 in force at 13.3.2026 by [S.I. 2026/292](https://www.legislation.gov.uk/uksi/2026/292), [reg. 2](https://www.legislation.gov.uk/uksi/2026/292/regulation/2)
+[^c-1b7ebabe75e223dd8b43e5b3d8104fcf]: Commencement: S. 49 in force at 13.3.2026 by [S.I. 2026/292](https://www.legislation.gov.uk/uksi/2026/292), [reg. 2](https://www.legislation.gov.uk/uksi/2026/292/regulation/2)

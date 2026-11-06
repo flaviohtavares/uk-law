@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. User empowerment duties[^key-576dfd6349217206825537fcb187af97][^key-139809759e0017ceeeed3f816b2f18a5]
+## 15. User empowerment duties[^c-576dfd6349217206825537fcb187af97][^c-139809759e0017ceeeed3f816b2f18a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-576dfd6349217206825537fcb187af97]: Commencement: S. 15 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-576dfd6349217206825537fcb187af97]: Commencement: S. 15 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-139809759e0017ceeeed3f816b2f18a5]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/50/section/15) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/e)
+[^c-139809759e0017ceeeed3f816b2f18a5]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/50/section/15) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/e)

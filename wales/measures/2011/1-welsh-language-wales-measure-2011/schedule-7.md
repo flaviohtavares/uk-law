@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — CATEGORIES OF PERSON THAT MAY BE ADDED TO SCHEDULE 8[^key-264794dfaa91abc2991d9ea1fccf674b]
+## SCHEDULE 7 — CATEGORIES OF PERSON THAT MAY BE ADDED TO SCHEDULE 8[^c-264794dfaa91abc2991d9ea1fccf674b]
 
 *Extent: E+W*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ### Services provided in shops: exclusions
 
-**1.**[^key-264794dfaa91abc2991d9ea1fccf674b][^key-3c33eba447b63e4d28c25d46525b7f63] (1) The references in the table to “related services” do not include services provided in shops, unless those services are—
+**1.**[^c-264794dfaa91abc2991d9ea1fccf674b][^c-3c33eba447b63e4d28c25d46525b7f63] (1) The references in the table to “related services” do not include services provided in shops, unless those services are—
 
 - (a) post office counter services, or
 - (b) the sale of tickets or the provision of timetables for bus and railway services.
@@ -62,7 +62,7 @@ summary: ''
 
 ### Interpretation
 
-**2.**[^key-e11e388e890c761ddd6e12a4f858ad67] In this Schedule—
+**2.**[^c-e11e388e890c761ddd6e12a4f858ad67] In this Schedule—
 
 - “**bus services**” (“***gwasanaethau bysiau***”) means a scheduled service, by public service vehicle (within the meaning of section 1 of the Public Passenger Vehicles Act 1981), for the carriage of passengers at separate fares, other than a service—
   - (a) for which the whole capacity of the vehicle has been purchased by a charterer for the charterer's own use or for resale;
@@ -76,8 +76,8 @@ summary: ''
     - (i) the National Assembly for Wales;
     - (ii) the Welsh Ministers;
     - (iii) Parliament;
-    - (iv) Ministers of the Crown; [^key-83ef98293e789d7910474fdffcb37563]...
-    - (v) [^key-83ef98293e789d7910474fdffcb37563]...
+    - (iv) Ministers of the Crown; [^c-83ef98293e789d7910474fdffcb37563]...
+    - (v) [^c-83ef98293e789d7910474fdffcb37563]...
   - (b) moneys provided by virtue of any enactment;
 - “**qualifying person**” (“***diwrnod gosod y person neilltuedig***”) means a person who is not within Schedule 6;
 - “**shop**” (“***siop***”) means any premises where the sale of goods is the principal trade or business carried on;
@@ -85,10 +85,10 @@ summary: ''
 
 ## Annotations
 
-[^key-264794dfaa91abc2991d9ea1fccf674b]: Commencement: Sch. 7 in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(j)](https://www.legislation.gov.uk/wsi/2012/969/article/2/j)
+[^c-264794dfaa91abc2991d9ea1fccf674b]: Commencement: Sch. 7 in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(j)](https://www.legislation.gov.uk/wsi/2012/969/article/2/j)
 
-[^key-3c33eba447b63e4d28c25d46525b7f63]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/mwa/2011/1/schedule/7/paragraph/1) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(j)](https://www.legislation.gov.uk/wsi/2012/969/article/2/j)
+[^c-3c33eba447b63e4d28c25d46525b7f63]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/mwa/2011/1/schedule/7/paragraph/1) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(j)](https://www.legislation.gov.uk/wsi/2012/969/article/2/j)
 
-[^key-e11e388e890c761ddd6e12a4f858ad67]: Commencement: Sch. 7 para. 2 in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(j)](https://www.legislation.gov.uk/wsi/2012/969/article/2/j)
+[^c-e11e388e890c761ddd6e12a4f858ad67]: Commencement: Sch. 7 para. 2 in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(j)](https://www.legislation.gov.uk/wsi/2012/969/article/2/j)
 
-[^key-83ef98293e789d7910474fdffcb37563]: Textual amendment: Words in Sch. 7 para. 2 omitted (31.12.2020) by virtue of [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-83ef98293e789d7910474fdffcb37563]: Textual amendment: Words in Sch. 7 para. 2 omitted (31.12.2020) by virtue of [The Retained EU Law (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/1281)](https://www.legislation.gov.uk/wsi/2019/1281), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2019/1281/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

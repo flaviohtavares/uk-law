@@ -16,60 +16,60 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX XXV — CORRELATION COEFFICIENTS FOR HAIL RISK[^key-d47e1c724c465df0decb570554654b62]
+## ANNEX XXV — CORRELATION COEFFICIENTS FOR HAIL RISK[^c-d47e1c724c465df0decb570554654b62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-[^key-d47e1c724c465df0decb570554654b62]
+[^c-d47e1c724c465df0decb570554654b62]
 
 The correlation parameter Corr<sub>(hail,r,i,j)</sub> referred to in Article 124(5) for region r shall be equal to the item set out in row i and in column j of the following correlation matrices. The headings of the rows and columns denote the region specific risk zones according to the numbers of the segments set out in Annex IX.
 
-[^key-d47e1c724c465df0decb570554654b62]**Correlation coefficients for regions with only one risk zone**
+[^c-d47e1c724c465df0decb570554654b62]**Correlation coefficients for regions with only one risk zone**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the Republic of Austria**
+[^c-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the Republic of Austria**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the Kingdom of Belgium**
+[^c-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the Kingdom of Belgium**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62] **Correlation coefficients for hail risk in the Czech Republic**
+[^c-d47e1c724c465df0decb570554654b62] **Correlation coefficients for hail risk in the Czech Republic**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the French Republic**
+[^c-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the French Republic**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the Federal Republic of Germany**
+[^c-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the Federal Republic of Germany**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the Italian Republic**
+[^c-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the Italian Republic**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the Kingdom of the Netherlands**
+[^c-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the Kingdom of the Netherlands**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the Kingdom of Spain**
+[^c-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the Kingdom of Spain**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the Swiss Confederation**
+[^c-d47e1c724c465df0decb570554654b62]**Correlation coefficients for hail risk in the Swiss Confederation**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d47e1c724c465df0decb570554654b62] **Correlation coefficients for hail risk in the Republic of Slovenia**
+[^c-d47e1c724c465df0decb570554654b62] **Correlation coefficients for hail risk in the Republic of Slovenia**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d47e1c724c465df0decb570554654b62]: Textual amendment: Regulation revoked (30.6.2024 for the revocation of Arts. 52-54; 31.12.2024 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 5(c)(i)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/5/c/i); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))
+[^c-d47e1c724c465df0decb570554654b62]: Textual amendment: Regulation revoked (30.6.2024 for the revocation of Arts. 52-54; 31.12.2024 in so far as not already in force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 5(c)(i)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/5/c/i); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))

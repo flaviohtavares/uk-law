@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**16.**[^key-b00ce5b189459b55ef640ddd063fed0a] In section 64 (financial assistance by Ministers to certain voluntary organisations), in subsection (3)(a)—
+**16.**[^c-b00ce5b189459b55ef640ddd063fed0a] In section 64 (financial assistance by Ministers to certain voluntary organisations), in subsection (3)(a)—
 
 - (a) omit sub-paragraph (iii);
 - (b) after sub-paragraph (xxii) insert—
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b00ce5b189459b55ef640ddd063fed0a]: Commencement: Reg. 16 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-b00ce5b189459b55ef640ddd063fed0a]: Commencement: Reg. 16 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

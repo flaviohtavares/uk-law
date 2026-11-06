@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Code of conduct[^key-57e5f3ad593d3037674f99d7fdea2775]
+## 53. Code of conduct[^c-57e5f3ad593d3037674f99d7fdea2775]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ the Department must add a statement specifying when the code of conduct comes in
 
 ## Annotations
 
-[^key-57e5f3ad593d3037674f99d7fdea2775]: Commencement: S. 53 in operation at 20.5.2014 by [S.R. 2014/142](https://www.legislation.gov.uk/nisr/2014/142), [art. 2(b)](https://www.legislation.gov.uk/nisr/2014/142/article/2/b)
+[^c-57e5f3ad593d3037674f99d7fdea2775]: Commencement: S. 53 in operation at 20.5.2014 by [S.R. 2014/142](https://www.legislation.gov.uk/nisr/2014/142), [art. 2(b)](https://www.legislation.gov.uk/nisr/2014/142/article/2/b)

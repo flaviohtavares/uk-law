@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE — Punishment of offences[^key-8752dcdab0f482b6de233512083e019d]
+## SCHEDULE — Punishment of offences[^c-8752dcdab0f482b6de233512083e019d]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ Rule 247
 
 ## Annotations
 
-[^key-8752dcdab0f482b6de233512083e019d]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2026/11/schedule) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-8752dcdab0f482b6de233512083e019d]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2026/11/schedule) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

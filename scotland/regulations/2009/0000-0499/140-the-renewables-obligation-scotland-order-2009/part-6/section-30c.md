@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 30C. Offshore wind generating stations using test and demonstration wind turbines[^key-d11f656265aa8b134d6d35bd2576a614]
+## 30C. Offshore wind generating stations using test and demonstration wind turbines[^c-d11f656265aa8b134d6d35bd2576a614]
 
 (1) This article applies to electricity—
 
@@ -31,17 +31,17 @@ summary: ''
 - (a) it is made by the operator of the generating station to the Authority in writing; and
 - (b) it confirms that—
   - (i) to the best of the operator’s knowledge and belief the wind turbines used to generate the electricity are eligible wind turbines; and
-  - (ii) the lease in respect of which the generating station is entitled to operate at that particular area of seabed is a demonstration lease issued by the Crown Estate Commissioners or a relevant person[^key-c4cff528a6e8d76ed61fca75c041dea8] in relation to that site.
+  - (ii) the lease in respect of which the generating station is entitled to operate at that particular area of seabed is a demonstration lease issued by the Crown Estate Commissioners or a relevant person[^c-c4cff528a6e8d76ed61fca75c041dea8] in relation to that site.
 
 (4) In this article—
 
 - (a) “eligible wind turbine” in relation to a generating station means a wind turbine which in the Authority’s view forms part of the generating station from a date no earlier than 1st April 2014; and
-- (b)[^key-a90078b5ba39c9a31129a25b13d85bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a90078b5ba39c9a31129a25b13d85bf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d11f656265aa8b134d6d35bd2576a614]: Textual amendment: Arts. 30C, 30D inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [13](https://www.legislation.gov.uk/ssi/2014/94/article/13) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-d11f656265aa8b134d6d35bd2576a614]: Textual amendment: Arts. 30C, 30D inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [13](https://www.legislation.gov.uk/ssi/2014/94/article/13) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
 
-[^key-c4cff528a6e8d76ed61fca75c041dea8]: Textual amendment: Words in art. 30C(3)(b)(ii) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 117(3)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/117/3)
+[^c-c4cff528a6e8d76ed61fca75c041dea8]: Textual amendment: Words in art. 30C(3)(b)(ii) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 117(3)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/117/3)
 
-[^key-a90078b5ba39c9a31129a25b13d85bf4]: Textual amendment: Art. 30C(4)(b) omitted (1.12.2015) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [9](https://www.legislation.gov.uk/ssi/2015/384/article/9) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))
+[^c-a90078b5ba39c9a31129a25b13d85bf4]: Textual amendment: Art. 30C(4)(b) omitted (1.12.2015) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [9](https://www.legislation.gov.uk/ssi/2015/384/article/9) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))

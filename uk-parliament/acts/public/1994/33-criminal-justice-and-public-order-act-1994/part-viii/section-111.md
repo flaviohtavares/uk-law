@@ -34,7 +34,7 @@ summary: ''
 
 - (a) all the functions which would otherwise be exercisable by the director or the controller shall be exercisable by the governor;
 - (b) the contractor and any sub-contractor of his shall each do all that he reasonably can to facilitate the exercise by the governor of those functions; and
-- (c) the officers of the prison and the medical officer or officers for the prison[^key-c3832827057b6c8ee21bdc005f4dc7ee] shall comply with any directions given by the governor in the exercise of those functions.
+- (c) the officers of the prison and the medical officer or officers for the prison[^c-c3832827057b6c8ee21bdc005f4dc7ee] shall comply with any directions given by the governor in the exercise of those functions.
 
 (4) Where the Scottish Ministers[^c13104521] is satisfied—
 
@@ -51,7 +51,7 @@ he shall, by a notice to the governor, terminate the appointment at a time speci
 
 [^c13104511]: Textual amendment: Words in s. 111(2) substituted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 115(6)(b)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/115/6/b); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2](https://www.legislation.gov.uk/uksi/1998/3178/article/2)
 
-[^key-c3832827057b6c8ee21bdc005f4dc7ee]: Textual amendment: Words in s. 111(3)(c) inserted (1.11.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 110(5)](https://www.legislation.gov.uk/asp/2010/13/section/110/5), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule)
+[^c-c3832827057b6c8ee21bdc005f4dc7ee]: Textual amendment: Words in s. 111(3)(c) inserted (1.11.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 110(5)](https://www.legislation.gov.uk/asp/2010/13/section/110/5), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule)
 
 [^c13104521]: Textual amendment: Words in s. 111(4) substituted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 115(6)(c)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/115/6/c); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2](https://www.legislation.gov.uk/uksi/1998/3178/article/2)
 

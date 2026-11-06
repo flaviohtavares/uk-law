@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23C. Warehousing[^key-0e2f8e3b36c0cbaca6f2efd4c5928d9b]
+## 23C. Warehousing[^c-0e2f8e3b36c0cbaca6f2efd4c5928d9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 - (b) animal fat set aside for use as motor fuel or heating fuel,
 - (c) vegetable fat set aside for use as motor fuel or heating fuel,
 - (d) non-synthetic methanol set aside for use as motor fuel or heating fuel,
-- (da)[^key-26ad193a7ff235818f93c4c0e1d55af0] aqua methanol,
+- (da)[^c-26ad193a7ff235818f93c4c0e1d55af0] aqua methanol,
 - (e) biodiesel,
 - (f) a mixture of two or more substances specified in paragraphs (a) to (e), and
 - (g) any other substance specified for the purposes of this section in regulations made by the Commissioners.
@@ -52,14 +52,14 @@ summary: ''
 
 (6) Regulations under subsection (4)(g)—
 
-- (a) may make provision only if the Commissioners think it necessary or expedient for a purpose connected with Council Directive 2008/118/[^key-10d5ab40a741050568d053303f21a15a]EC concerning the general arrangements for excise duty,
+- (a) may make provision only if the Commissioners think it necessary or expedient for a purpose connected with Council Directive 2008/118/[^c-10d5ab40a741050568d053303f21a15a]EC concerning the general arrangements for excise duty,
 - (b) may, in particular, make provision by reference to that Directive or any other Community instrument, and
 - (c) may, in particular, make provision by reference to the purpose for which a substance is intended to be used.
 
 ## Annotations
 
-[^key-0e2f8e3b36c0cbaca6f2efd4c5928d9b]: Textual amendment: S. 23C inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 13](https://www.legislation.gov.uk/ukpga/2004/12/section/13)
+[^c-0e2f8e3b36c0cbaca6f2efd4c5928d9b]: Textual amendment: S. 23C inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 13](https://www.legislation.gov.uk/ukpga/2004/12/section/13)
 
-[^key-26ad193a7ff235818f93c4c0e1d55af0]: Textual amendment: S. 23C(4)(da) inserted (15.9.2016 for specified purposes, 14.11.2016 in so far as not already in force) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 17 paras. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/8), [14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/14)
+[^c-26ad193a7ff235818f93c4c0e1d55af0]: Textual amendment: S. 23C(4)(da) inserted (15.9.2016 for specified purposes, 14.11.2016 in so far as not already in force) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 17 paras. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/8), [14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/14)
 
-[^key-10d5ab40a741050568d053303f21a15a]: Textual amendment: Words in s. 23C(6)(a) substituted (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [reg. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2010/593/schedule/2/paragraph/4)
+[^c-10d5ab40a741050568d053303f21a15a]: Textual amendment: Words in s. 23C(6)(a) substituted (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [reg. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2010/593/schedule/2/paragraph/4)

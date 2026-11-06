@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Meaning of export subsidisation[^key-039a69f0df5562c780f1440ebcdd32a7]
+## 93. Meaning of export subsidisation[^c-039a69f0df5562c780f1440ebcdd32a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-039a69f0df5562c780f1440ebcdd32a7]: Commencement: Reg. 93 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-039a69f0df5562c780f1440ebcdd32a7]: Commencement: Reg. 93 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

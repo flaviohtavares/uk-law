@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23A. Application of the ECE conspicuity requirements[^key-3cadbe7d3aa8ffc9800ff2c1a7c5d73d]
+## 23A. Application of the ECE conspicuity requirements[^c-3cadbe7d3aa8ffc9800ff2c1a7c5d73d]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ and shall be fitted with conspicuity markings which comply with the mandatory EC
 
 ## Annotations
 
-[^key-3cadbe7d3aa8ffc9800ff2c1a7c5d73d]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/nisr/2000/169/regulation/23A) inserted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2011/329/regulation/8)
+[^c-3cadbe7d3aa8ffc9800ff2c1a7c5d73d]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/nisr/2000/169/regulation/23A) inserted (21.10.2011) by [The Road Vehicles Lighting (Amendment No. 3) Regulations (Northern Ireland) 2011 (S.R. 2011/329)](https://www.legislation.gov.uk/nisr/2011/329), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/329/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2011/329/regulation/8)

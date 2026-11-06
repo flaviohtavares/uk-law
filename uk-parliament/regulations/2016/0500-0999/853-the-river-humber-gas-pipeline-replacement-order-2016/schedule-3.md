@@ -22,7 +22,7 @@ summary: ''
 
 Article 4
 
-### 1. Interpretation[^key-1dde43a97ed9affa0bc56c03150809af]
+### 1. Interpretation[^c-1dde43a97ed9affa0bc56c03150809af]
 
 In this Schedule—
 
@@ -32,15 +32,15 @@ In this Schedule—
 - “reinstatement” means the restoration of land within the Order limits for future use after construction of the authorised project;
 - “stage” means a part of the authorised project as set out in the written scheme approved under Requirement 3.
 
-### 2. Time limits[^key-2ecc5fe41add121b3eb44cf9c654ea13]
+### 2. Time limits[^c-2ecc5fe41add121b3eb44cf9c654ea13]
 
 The authorised project must be commenced within five years from the date of this Order.
 
-### 3. Stages of the authorised project[^key-b7099f7b0f11d30d80239e162576aec8]
+### 3. Stages of the authorised project[^c-b7099f7b0f11d30d80239e162576aec8]
 
 The authorised project may not commence until a written scheme setting out all stages of the authorised project has been submitted to and approved in writing by the relevant planning authority.
 
-### 4. Detailed design approval[^key-4ef70ca036274e2685336f01b59c5a66]
+### 4. Detailed design approval[^c-4ef70ca036274e2685336f01b59c5a66]
 
 (1) No stage of the authorised project may commence until details of the layout, scale and external appearance of the following works within that stage (including any consultation responses from the Environment Agency for those parts of the authorised project within the flood defence area) have been submitted to and approved, in writing, by the relevant planning authority—
 
@@ -51,7 +51,7 @@ The authorised project may not commence until a written scheme setting out all s
 
 (2) The works described in sub-paragraph (1)(a) to (d) must be carried out in accordance with the approved details or any subsequent revisions that have been submitted to and approved, in writing, by the relevant planning authority.
 
-### 5. Site Water Management Plan[^key-36dd2d9e4fbb448af9198f209531a4a7]
+### 5. Site Water Management Plan[^c-36dd2d9e4fbb448af9198f209531a4a7]
 
 (1) No stage of the authorised project may commence until, for that stage, a site water management plan substantially in accordance with the initial site water management plan has been submitted to and approved by the relevant planning authority, in consultation with the Environment Agency.
 
@@ -79,7 +79,7 @@ The authorised project may not commence until a written scheme setting out all s
 
 (4) The method of crossing main rivers and ordinary watercourses (including land drains) shall be undertaken in a manner which will not cause an increase in flood risk to any area upstream, downstream or surrounding the crossing.
 
-### 6. Site Waste Management Plan[^key-efdeb2726765ba0e36019ffca756d7f7]
+### 6. Site Waste Management Plan[^c-efdeb2726765ba0e36019ffca756d7f7]
 
 (1) No stage of the authorised project may commence until a written site waste management plan has been submitted to and approved in writing, by the relevant planning authority in consultation with the Environment Agency and each stage of the authorised project must be carried out in accordance with the site waste management plan.
 
@@ -92,7 +92,7 @@ The authorised project may not commence until a written scheme setting out all s
 - (e) details of all waste to be generated on-site including quantities, European Waste Catalogue (“EWC”) code, waste type and disposal route; and
 - (f) details of all waste facilities to be used including the site name, address and site code.
 
-### 7. Removal of trees and hedgerows[^key-bde44b293f8c0fff065d211a99614df8]
+### 7. Removal of trees and hedgerows[^c-bde44b293f8c0fff065d211a99614df8]
 
 (1) No stage of the authorised project involving the felling or lopping of trees or hedgerows under article 41 (felling or lopping of trees or shrubs) as shown on works plans sheets 5 and 7 may commence until, for that stage, details (if any) identifying the trees, groups of trees and hedgerows to be removed and, where appropriate, reinstated during that stage have been submitted to and approved by the relevant planning authority.
 
@@ -100,13 +100,13 @@ The authorised project may not commence until a written scheme setting out all s
 
 (3) Any hedge or tree planting which is part of the approved details that, within 2 years after planting, is removed, dies or (in the opinion of the relevant planning authority) becomes seriously damaged or diseased, must be replaced in the first available planting season with planting material of the same specification as that originally planted.
 
-### 8. Hard landscaping and drainage[^key-1b499490cc8792e7713473b871eeee21]
+### 8. Hard landscaping and drainage[^c-1b499490cc8792e7713473b871eeee21]
 
 (1) No stage of the authorised project may commence until, for that stage, details of drainage methods for both temporary and permanent works have after consultation with the drainage authority and the Environment Agency been submitted to and approved by the relevant planning authority.
 
 (2) The authorised project must be carried out in accordance with the approved details.
 
-### 9. Agricultural land drainage[^key-737557964a793bee4a2ea49eefb9b654]
+### 9. Agricultural land drainage[^c-737557964a793bee4a2ea49eefb9b654]
 
 (1) No stage of the authorised project may commence until a written scheme, applicable to that stage, to deal with agricultural land drainage within the Order limits has been submitted to and approved, in writing, by the relevant planning authority.
 
@@ -116,7 +116,7 @@ The authorised project may not commence until a written scheme setting out all s
 
 (4) The authorised project must be carried out in accordance with the approved scheme.
 
-### 10. Archaeology[^key-d0290a43879bcfced71736656295d7cd]
+### 10. Archaeology[^c-d0290a43879bcfced71736656295d7cd]
 
 (1) No stage of the authorised project may commence until a written scheme of archaeological investigation for that stage has been submitted to and approved by the relevant planning authority.
 
@@ -128,7 +128,7 @@ The authorised project may not commence until a written scheme setting out all s
 
 (5) A copy of any analysis, reporting, publication or archiving required as part of the written scheme must be deposited with the Historic Environment Record of the relevant planning authority within one year of the date of completion of the authorised project or such other period as may be agreed in writing by the relevant planning authority.
 
-### 11. Construction hours[^key-c5e53e213c69bae006af980ea97a4525]
+### 11. Construction hours[^c-c5e53e213c69bae006af980ea97a4525]
 
 (1) Subject to Requirements 11(3) and 11(4), construction work must not take place outside the following hours—
 
@@ -153,7 +153,7 @@ except in the event of an emergency.
 
 (5) In this Requirement “emergency” means a situation where, if the relevant action is not taken, there will be adverse health, safety, security or environmental consequences that in the reasonable opinion of the undertaker would outweigh the adverse effects to the public (whether individuals, classes or generally as the case may be) of taking that action.
 
-### 12. Construction Environmental Management Plan[^key-e846a2326d05bb1b3264ccbedb876233]
+### 12. Construction Environmental Management Plan[^c-e846a2326d05bb1b3264ccbedb876233]
 
 (1) No stage of the authorised project may commence until a construction environmental management plan relating to that stage has been submitted to and approved by the relevant planning authority.
 
@@ -175,7 +175,7 @@ except in the event of an emergency.
 
 (4) Any works subject to the plans, scheme and strategy referred to in sub-paragraph (2) must be carried out in accordance with the approved plan, scheme or strategy.
 
-### 13. Noise[^key-616a3ade9bfe4acc28fa47acd2312088]
+### 13. Noise[^c-616a3ade9bfe4acc28fa47acd2312088]
 
 (1) No stage of the authorised project may commence until a written scheme for noise management during construction and maintenance of that stage has been submitted to and approved, in writing, by the relevant planning authority.
 
@@ -189,7 +189,7 @@ except in the event of an emergency.
 
 (4) The authorised project must be undertaken in accordance with the approved noise management scheme.
 
-### 14. Contaminated land and groundwater[^key-0a457c3e4372f69798a8b81fa5edb7ef]
+### 14. Contaminated land and groundwater[^c-0a457c3e4372f69798a8b81fa5edb7ef]
 
 (1) In the event that contamination is found at any time when carrying out the authorised project that has not been previously identified it must be reported in writing immediately to the relevant planning authority.
 
@@ -203,7 +203,7 @@ except in the event of an emergency.
 - (a) the approved remediation scheme must be carried out in accordance with its terms; and
 - (b) following completion of measures identified in the approved remediation scheme, a verification report that demonstrates the effectiveness of the remediation carried out must be produced and approved in writing by the relevant planning authority.
 
-### 15. Construction traffic and accesses[^key-cff293f9ea0e260c34196faf063e87d3]
+### 15. Construction traffic and accesses[^c-cff293f9ea0e260c34196faf063e87d3]
 
 (1) No stage of the authorised project may commence until a traffic management plan, substantially in accordance with the initial TMP, has been submitted to and, following consultation with the highway authority and Highways England, been approved by the relevant planning authority.
 
@@ -228,11 +228,11 @@ except in the event of an emergency.
 - (c) construction vehicles must not leave the site between 19:00 hours and 07:00 hours the following day; and
 - (d) all site-related traffic must follow the designated route identified within the Drivers Information Pack in the initial TMP.
 
-### 16. Restoration of land used temporarily for construction[^key-fe0b15548c139134139eff05318e44fa]
+### 16. Restoration of land used temporarily for construction[^c-fe0b15548c139134139eff05318e44fa]
 
 Subject to article 27 (temporary use of land for carrying out the authorised project), any land within the Order limits which is used temporarily for or in connection with construction must be reinstated to a condition fit for its former use, or such other condition as the relevant planning authority may approve, within 12 months of completion of the authorised project.
 
-### 17. Temporary external lighting[^key-b20198db659205512cee9f14c4d23263]
+### 17. Temporary external lighting[^c-b20198db659205512cee9f14c4d23263]
 
 (1) No stage of the authorised project may commence until details of any temporary external lighting to be installed at that stage, including measures to prevent light spillage, have been submitted to and approved, in writing, by the relevant planning authority.
 
@@ -242,7 +242,7 @@ Subject to article 27 (temporary use of land for carrying out the authorised pro
 
 (4) Any submission to vary the approved details must include copies of and take account of any consultation responses from the highway authority.
 
-### 18. Environmental mitigation land[^key-f679703a6d7042e81aaee547b8bed868]
+### 18. Environmental mitigation land[^c-f679703a6d7042e81aaee547b8bed868]
 
 (1) During the construction of the authorised project—
 
@@ -252,17 +252,17 @@ Subject to article 27 (temporary use of land for carrying out the authorised pro
 - (d) prior to the cultivation of land within Work No.13 each year, 20 tonnes of organic matter per hectare must be applied to the soil, or such other amount and/or frequency as may be agreed in writing by Natural England in consultation with the Royal Society for the Protection of Birds; and
 - (e) during winter, the height of vegetation on land within Work No.11 and Work No.13 must not exceed a height of 15cm.
 
-### 19. Ecological Surveys[^key-eaf53559c984af4ec3331577a7ba871d]
+### 19. Ecological Surveys[^c-eaf53559c984af4ec3331577a7ba871d]
 
 (1) No stage of the authorised project may commence until it has been established by survey work whether any water voles or badgers are present within the Order limits or may be affected by that stage of the authorised project.
 
-(2) Where water voles or badgers are shown to be present or may be affected by a stage of the authorised project, that stage must only be commenced following appropriate consultation with Natural England and after any necessary licence has been obtained from Natural England pursuant to regulation 55 (licences for certain activities relating to animals or plants) of the Conservation of Habitats and Species Regulations 2017[^key-97426b3fb47f2352038779d80c6d0ceb].
+(2) Where water voles or badgers are shown to be present or may be affected by a stage of the authorised project, that stage must only be commenced following appropriate consultation with Natural England and after any necessary licence has been obtained from Natural England pursuant to regulation 55 (licences for certain activities relating to animals or plants) of the Conservation of Habitats and Species Regulations 2017[^c-97426b3fb47f2352038779d80c6d0ceb].
 
-### 20. Requirement for written approval[^key-a6d1ed3f6af4bd9d9cebb3e856347d98]
+### 20. Requirement for written approval[^c-a6d1ed3f6af4bd9d9cebb3e856347d98]
 
 Where under any of the Requirements the approval or agreement of the relevant planning authority or another person is required, that approval or agreement must be given in writing.
 
-### 21. Approved details and amendments to approved details[^key-20d70daff9d34733192487d8d63b6154]
+### 21. Approved details and amendments to approved details[^c-20d70daff9d34733192487d8d63b6154]
 
 (1) With respect to any Requirement which requires the authorised project to be carried out in accordance with details approved by the relevant planning authority, the approved details include any amendments that may subsequently be approved in writing by the relevant planning authority to the extent that the authority may lawfully do so.
 
@@ -270,46 +270,46 @@ Where under any of the Requirements the approval or agreement of the relevant pl
 
 ## Annotations
 
-[^key-1dde43a97ed9affa0bc56c03150809af]: Commencement: Sch. 3 para. 1 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-1dde43a97ed9affa0bc56c03150809af]: Commencement: Sch. 3 para. 1 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-2ecc5fe41add121b3eb44cf9c654ea13]: Commencement: Sch. 3 para. 2 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-2ecc5fe41add121b3eb44cf9c654ea13]: Commencement: Sch. 3 para. 2 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-b7099f7b0f11d30d80239e162576aec8]: Commencement: Sch. 3 para. 3 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-b7099f7b0f11d30d80239e162576aec8]: Commencement: Sch. 3 para. 3 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-4ef70ca036274e2685336f01b59c5a66]: Commencement: Sch. 3 para. 4 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-4ef70ca036274e2685336f01b59c5a66]: Commencement: Sch. 3 para. 4 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-36dd2d9e4fbb448af9198f209531a4a7]: Commencement: Sch. 3 para. 5 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-36dd2d9e4fbb448af9198f209531a4a7]: Commencement: Sch. 3 para. 5 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-efdeb2726765ba0e36019ffca756d7f7]: Commencement: Sch. 3 para. 6 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-efdeb2726765ba0e36019ffca756d7f7]: Commencement: Sch. 3 para. 6 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-bde44b293f8c0fff065d211a99614df8]: Commencement: Sch. 3 para. 7 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-bde44b293f8c0fff065d211a99614df8]: Commencement: Sch. 3 para. 7 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-1b499490cc8792e7713473b871eeee21]: Commencement: Sch. 3 para. 8 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-1b499490cc8792e7713473b871eeee21]: Commencement: Sch. 3 para. 8 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-737557964a793bee4a2ea49eefb9b654]: Commencement: Sch. 3 para. 9 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-737557964a793bee4a2ea49eefb9b654]: Commencement: Sch. 3 para. 9 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-d0290a43879bcfced71736656295d7cd]: Commencement: Sch. 3 para. 10 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-d0290a43879bcfced71736656295d7cd]: Commencement: Sch. 3 para. 10 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-c5e53e213c69bae006af980ea97a4525]: Commencement: Sch. 3 para. 11 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-c5e53e213c69bae006af980ea97a4525]: Commencement: Sch. 3 para. 11 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-e846a2326d05bb1b3264ccbedb876233]: Commencement: Sch. 3 para. 12 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-e846a2326d05bb1b3264ccbedb876233]: Commencement: Sch. 3 para. 12 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-616a3ade9bfe4acc28fa47acd2312088]: Commencement: Sch. 3 para. 13 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-616a3ade9bfe4acc28fa47acd2312088]: Commencement: Sch. 3 para. 13 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-0a457c3e4372f69798a8b81fa5edb7ef]: Commencement: Sch. 3 para. 14 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-0a457c3e4372f69798a8b81fa5edb7ef]: Commencement: Sch. 3 para. 14 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-cff293f9ea0e260c34196faf063e87d3]: Commencement: Sch. 3 para. 15 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-cff293f9ea0e260c34196faf063e87d3]: Commencement: Sch. 3 para. 15 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-fe0b15548c139134139eff05318e44fa]: Commencement: Sch. 3 para. 16 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-fe0b15548c139134139eff05318e44fa]: Commencement: Sch. 3 para. 16 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-b20198db659205512cee9f14c4d23263]: Commencement: Sch. 3 para. 17 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-b20198db659205512cee9f14c4d23263]: Commencement: Sch. 3 para. 17 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-f679703a6d7042e81aaee547b8bed868]: Commencement: Sch. 3 para. 18 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-f679703a6d7042e81aaee547b8bed868]: Commencement: Sch. 3 para. 18 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-eaf53559c984af4ec3331577a7ba871d]: Commencement: Sch. 3 para. 19 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-eaf53559c984af4ec3331577a7ba871d]: Commencement: Sch. 3 para. 19 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-97426b3fb47f2352038779d80c6d0ceb]: Textual amendment: Words in [Sch. 3 para. 19(2)](https://www.legislation.gov.uk/uksi/2016/853/schedule/3/paragraph/19/2) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 70](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/70)
+[^c-97426b3fb47f2352038779d80c6d0ceb]: Textual amendment: Words in [Sch. 3 para. 19(2)](https://www.legislation.gov.uk/uksi/2016/853/schedule/3/paragraph/19/2) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 70](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/70)
 
-[^key-a6d1ed3f6af4bd9d9cebb3e856347d98]: Commencement: Sch. 3 para. 20 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-a6d1ed3f6af4bd9d9cebb3e856347d98]: Commencement: Sch. 3 para. 20 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-20d70daff9d34733192487d8d63b6154]: Commencement: Sch. 3 para. 21 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-20d70daff9d34733192487d8d63b6154]: Commencement: Sch. 3 para. 21 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

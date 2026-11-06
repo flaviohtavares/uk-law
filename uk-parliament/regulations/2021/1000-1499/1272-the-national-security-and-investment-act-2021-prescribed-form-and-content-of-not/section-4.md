@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Prescribed form and content of a voluntary notice[^key-e3d5c9e4d275c33494a9c8d546edad95]
+## 4. Prescribed form and content of a voluntary notice[^c-e3d5c9e4d275c33494a9c8d546edad95]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A voluntary notice must be in writing and contain—
 
 ## Annotations
 
-[^key-e3d5c9e4d275c33494a9c8d546edad95]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/1272/regulation/4) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1272/regulation/1/1)
+[^c-e3d5c9e4d275c33494a9c8d546edad95]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/1272/regulation/4) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1272/regulation/1/1)

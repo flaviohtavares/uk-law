@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Repeals[^key-0681712564d982bb60a8977cbfc54342][^key-38614ff7fd69a7d678e384d1681e8114][^key-d8d94328e707a603b8f7199bda503d8a][^key-f5549c48570b51da96b41fcad6246138][^key-3cdc248de021e51ab4241c25b7e87bab][^key-e4a6b58421bc20817927949395a01749]
+## SCHEDULE 7 — Repeals[^c-0681712564d982bb60a8977cbfc54342][^c-38614ff7fd69a7d678e384d1681e8114][^c-d8d94328e707a603b8f7199bda503d8a][^c-f5549c48570b51da96b41fcad6246138][^c-3cdc248de021e51ab4241c25b7e87bab][^c-e4a6b58421bc20817927949395a01749]
 
 *Extent: E+W*
 
@@ -31,14 +31,14 @@ Section 50
 
 ## Annotations
 
-[^key-0681712564d982bb60a8977cbfc54342]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7) in force for specified purposes for W. at 1.1.2005 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/2)
+[^c-0681712564d982bb60a8977cbfc54342]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7) in force for specified purposes for W. at 1.1.2005 by [S.I. 2004/3144](https://www.legislation.gov.uk/wsi/2004/3144), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2004/3144/schedule/part/2)
 
-[^key-38614ff7fd69a7d678e384d1681e8114]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7) in force for specified purposes for E. at 1.1.2005 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 4](https://www.legislation.gov.uk/uksi/2004/2781/article/4)
+[^c-38614ff7fd69a7d678e384d1681e8114]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7) in force for specified purposes for E. at 1.1.2005 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 4](https://www.legislation.gov.uk/uksi/2004/2781/article/4)
 
-[^key-d8d94328e707a603b8f7199bda503d8a]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7) in force for specified purposes at 1.4.2005 by [S.I. 2005/767](https://www.legislation.gov.uk/uksi/2005/767), [art. 2](https://www.legislation.gov.uk/uksi/2005/767/article/2)
+[^c-d8d94328e707a603b8f7199bda503d8a]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7) in force for specified purposes at 1.4.2005 by [S.I. 2005/767](https://www.legislation.gov.uk/uksi/2005/767), [art. 2](https://www.legislation.gov.uk/uksi/2005/767/article/2)
 
-[^key-f5549c48570b51da96b41fcad6246138]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7) in force for specified purposes for W. at 7.7.2005 by [S.I. 2005/1833](https://www.legislation.gov.uk/wsi/2005/1833), [art. 4(f)](https://www.legislation.gov.uk/wsi/2005/1833/article/4/f)
+[^c-f5549c48570b51da96b41fcad6246138]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7) in force for specified purposes for W. at 7.7.2005 by [S.I. 2005/1833](https://www.legislation.gov.uk/wsi/2005/1833), [art. 4(f)](https://www.legislation.gov.uk/wsi/2005/1833/article/4/f)
 
-[^key-3cdc248de021e51ab4241c25b7e87bab]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7) in force at 14.1.2006 for specified purposes by [S.I. 2006/51](https://www.legislation.gov.uk/uksi/2006/51), [art. 2](https://www.legislation.gov.uk/uksi/2006/51/article/2)
+[^c-3cdc248de021e51ab4241c25b7e87bab]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7) in force at 14.1.2006 for specified purposes by [S.I. 2006/51](https://www.legislation.gov.uk/uksi/2006/51), [art. 2](https://www.legislation.gov.uk/uksi/2006/51/article/2)
 
-[^key-e4a6b58421bc20817927949395a01749]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7) in force at 31.3.2011 for specified purposes for W. by [S.I. 2011/297](https://www.legislation.gov.uk/wsi/2011/297), [art. 4(i)(j)](https://www.legislation.gov.uk/wsi/2011/297/article/4/i/j)
+[^c-e4a6b58421bc20817927949395a01749]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ukpga/2004/8/schedule/7) in force at 31.3.2011 for specified purposes for W. by [S.I. 2011/297](https://www.legislation.gov.uk/wsi/2011/297), [art. 4(i)(j)](https://www.legislation.gov.uk/wsi/2011/297/article/4/i/j)

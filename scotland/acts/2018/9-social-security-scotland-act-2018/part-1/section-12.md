@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Restriction on private-sector involvement in assessments[^key-ed3246613ebed91d5ca71263d0992ac2]
+## 12. Restriction on private-sector involvement in assessments[^c-ed3246613ebed91d5ca71263d0992ac2]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ other assistance, despite entitlement to that other assistance depending on the 
 
 ## Annotations
 
-[^key-ed3246613ebed91d5ca71263d0992ac2]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2018/9/section/12) in force at 17.1.2022 by [S.S.I. 2021/474](https://www.legislation.gov.uk/ssi/2021/474), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/474/regulation/2/a)
+[^c-ed3246613ebed91d5ca71263d0992ac2]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2018/9/section/12) in force at 17.1.2022 by [S.S.I. 2021/474](https://www.legislation.gov.uk/ssi/2021/474), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/474/regulation/2/a)

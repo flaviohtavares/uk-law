@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 123. Rights as to service not matched by credited period[^key-3b2fb17191df542aec13a529a5dedbb5]
+## 123. Rights as to service not matched by credited period[^c-3b2fb17191df542aec13a529a5dedbb5]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b2fb17191df542aec13a529a5dedbb5]: Commencement: Reg. 123 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-3b2fb17191df542aec13a529a5dedbb5]: Commencement: Reg. 123 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

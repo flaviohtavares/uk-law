@@ -39,26 +39,26 @@ on modalities for coordinated application of the rules on enforcement with regar
 
 (2011/667/EU) (revoked)
 
-[^key-46d7742b436576518cb0390014c14f21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46d7742b436576518cb0390014c14f21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter, objective and scope[^key-46d7742b436576518cb0390014c14f21]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-46d7742b436576518cb0390014c14f21]
+## Article 1. Subject matter, objective and scope[^c-46d7742b436576518cb0390014c14f21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Coordination of enforcement of common conditions[^key-46d7742b436576518cb0390014c14f21]
+## Article 2. Definitions[^c-46d7742b436576518cb0390014c14f21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Addressees[^key-46d7742b436576518cb0390014c14f21]
+## Article 3. Coordination of enforcement of common conditions[^c-46d7742b436576518cb0390014c14f21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-46d7742b436576518cb0390014c14f21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 4. Addressees[^c-46d7742b436576518cb0390014c14f21]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-46d7742b436576518cb0390014c14f21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-46d7742b436576518cb0390014c14f21]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46d7742b436576518cb0390014c14f21]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

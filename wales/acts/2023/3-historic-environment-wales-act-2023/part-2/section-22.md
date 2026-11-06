@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Recovery of compensation paid under section 21 on subsequent grant of consent[^key-fcf4f8bfff03a64d607218bfe7e12f09][^key-43caf50000fecae7a55ab634a44b0ee8]
+## 22. Recovery of compensation paid under section 21 on subsequent grant of consent[^c-fcf4f8bfff03a64d607218bfe7e12f09][^c-43caf50000fecae7a55ab634a44b0ee8]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fcf4f8bfff03a64d607218bfe7e12f09]: Commencement: S. 22 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-fcf4f8bfff03a64d607218bfe7e12f09]: Commencement: S. 22 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-43caf50000fecae7a55ab634a44b0ee8]: Commencement: [S. 22](https://www.legislation.gov.uk/asc/2023/3/section/22) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-43caf50000fecae7a55ab634a44b0ee8]: Commencement: [S. 22](https://www.legislation.gov.uk/asc/2023/3/section/22) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

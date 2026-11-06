@@ -32,7 +32,7 @@ summary: ''
 
 Fisheries
 
-Fisheries (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^key-875061cacb198b0d2a65d40ad9ce041b]
+Fisheries (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^c-875061cacb198b0d2a65d40ad9ce041b]
 
 Made
 
@@ -42,30 +42,30 @@ Coming into operation
 
 19th July 2010
 
-[^key-875061cacb198b0d2a65d40ad9ce041b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-875061cacb198b0d2a65d40ad9ce041b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-875061cacb198b0d2a65d40ad9ce041b]
+## 1. Citation and commencement[^c-875061cacb198b0d2a65d40ad9ce041b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fisheries Regulations (Northern Ireland) 2003[^key-875061cacb198b0d2a65d40ad9ce041b]
+## 2. Amendment of the Fisheries Regulations (Northern Ireland) 2003[^c-875061cacb198b0d2a65d40ad9ce041b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. List of waters where there is no close season for rainbow trout[^key-875061cacb198b0d2a65d40ad9ce041b]
+## 3. List of waters where there is no close season for rainbow trout[^c-875061cacb198b0d2a65d40ad9ce041b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Appeals against the refusal to issue or restore a fishing licence[^key-875061cacb198b0d2a65d40ad9ce041b]
+## 4. Appeals against the refusal to issue or restore a fishing licence[^c-875061cacb198b0d2a65d40ad9ce041b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-875061cacb198b0d2a65d40ad9ce041b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-875061cacb198b0d2a65d40ad9ce041b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-875061cacb198b0d2a65d40ad9ce041b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-875061cacb198b0d2a65d40ad9ce041b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-875061cacb198b0d2a65d40ad9ce041b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/196) revoked (1.3.2014) by [Fisheries Regulations (Northern Ireland) 2014 (S.R. 2014/17)](https://www.legislation.gov.uk/nisr/2014/17), [regs. 1](https://www.legislation.gov.uk/nisr/2014/17/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/17/regulation/3), [Sch. 8](https://www.legislation.gov.uk/nisr/2014/17/schedule/8)
+[^c-875061cacb198b0d2a65d40ad9ce041b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/196) revoked (1.3.2014) by [Fisheries Regulations (Northern Ireland) 2014 (S.R. 2014/17)](https://www.legislation.gov.uk/nisr/2014/17), [regs. 1](https://www.legislation.gov.uk/nisr/2014/17/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/17/regulation/3), [Sch. 8](https://www.legislation.gov.uk/nisr/2014/17/schedule/8)

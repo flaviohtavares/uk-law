@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. The sustainable land management objectives[^key-676df6f1776f4b8fb60c7a69e622fa4b]
+## 1. The sustainable land management objectives[^c-676df6f1776f4b8fb60c7a69e622fa4b]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-676df6f1776f4b8fb60c7a69e622fa4b]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2023/4/section/1) in force at 17.10.2023, see [s. 56(2)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/a)
+[^c-676df6f1776f4b8fb60c7a69e622fa4b]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2023/4/section/1) in force at 17.10.2023, see [s. 56(2)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/a)

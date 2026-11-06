@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Offences and penalties[^key-d4c59f584a7d17ddc2c031797855e2b9]
+## 155. Offences and penalties[^c-d4c59f584a7d17ddc2c031797855e2b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4c59f584a7d17ddc2c031797855e2b9]: Commencement: [Art. 155](https://www.legislation.gov.uk/uksi/2015/870/article/155) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-d4c59f584a7d17ddc2c031797855e2b9]: Commencement: [Art. 155](https://www.legislation.gov.uk/uksi/2015/870/article/155) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
 [^f00016]: Footnote: [1995 c. 1](https://www.legislation.gov.uk/ukpga/1995/1) (Isle of Man).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Entry to dwellinghouses[^key-31b685087af6374027f7267ea6d27a88]
+## 26. Entry to dwellinghouses[^c-31b685087af6374027f7267ea6d27a88]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31b685087af6374027f7267ea6d27a88]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2008/5/section/26) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-31b685087af6374027f7267ea6d27a88]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2008/5/section/26) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

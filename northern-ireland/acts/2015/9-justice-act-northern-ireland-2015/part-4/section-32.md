@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Effect of non compliance[^key-a30b90d19774973aef8c1568c3eb24a7]
+## 32. Effect of non compliance[^c-a30b90d19774973aef8c1568c3eb24a7]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a30b90d19774973aef8c1568c3eb24a7]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2015/9/section/32) in operation at 1.9.2015 by [S.R. 2015/320](https://www.legislation.gov.uk/nisr/2015/320), [art. 2(d)](https://www.legislation.gov.uk/nisr/2015/320/article/2/d)
+[^c-a30b90d19774973aef8c1568c3eb24a7]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2015/9/section/32) in operation at 1.9.2015 by [S.R. 2015/320](https://www.legislation.gov.uk/nisr/2015/320), [art. 2(d)](https://www.legislation.gov.uk/nisr/2015/320/article/2/d)

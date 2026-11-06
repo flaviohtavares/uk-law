@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Amount of housing benefit for partners of registered students[^key-a1a2ce711dcb14c3a21858fa49d5889f]
+## 50. Amount of housing benefit for partners of registered students[^c-a1a2ce711dcb14c3a21858fa49d5889f]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1a2ce711dcb14c3a21858fa49d5889f]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1988/1890/regulation/50) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-a1a2ce711dcb14c3a21858fa49d5889f]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1988/1890/regulation/50) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

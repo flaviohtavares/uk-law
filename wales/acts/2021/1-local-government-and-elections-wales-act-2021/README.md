@@ -261,9 +261,9 @@ An Act of Senedd Cymru to make provision about local government; local governmen
 
 - [Section 88 — Amendments relating to strategic planning and joint transport authorities](part-5/section-88.md)
 
-### PART 6 — PERFORMANCE AND GOVERNANCE OF PRINCIPAL COUNCILS AND CORPORATE JOINT COMMITTEES[^key-34efa3f2b0b498a430e585f408f20c9c]
+### PART 6 — PERFORMANCE AND GOVERNANCE OF PRINCIPAL COUNCILS AND CORPORATE JOINT COMMITTEES[^c-34efa3f2b0b498a430e585f408f20c9c]
 
-#### CHAPTER 1 — PERFORMANCE, PERFORMANCE ASSESSMENTS AND INTERVENTION : PRINCIPAL COUNCILS[^key-2c7b69beb0b8f82963f321cecdef8471]
+#### CHAPTER 1 — PERFORMANCE, PERFORMANCE ASSESSMENTS AND INTERVENTION : PRINCIPAL COUNCILS[^c-2c7b69beb0b8f82963f321cecdef8471]
 
 ##### Performance
 
@@ -319,7 +319,7 @@ An Act of Senedd Cymru to make provision about local government; local governmen
 
 - [Section 115 — New name and functions of audit committees](part-6/section-115.md)
 
-#### CHAPTER 1A — PERFORMANCE, PERFORMANCE ASSESSMENTS AND INTERVENTION: CORPORATE JOINT COMMITTEES[^key-4a05c026535054d4a99c3c2179cfe542]
+#### CHAPTER 1A — PERFORMANCE, PERFORMANCE ASSESSMENTS AND INTERVENTION: CORPORATE JOINT COMMITTEES[^c-4a05c026535054d4a99c3c2179cfe542]
 
 - [Section 115A — Application of Chapter 1 to corporate joint committees](part-6/section-115a.md)
 
@@ -483,8 +483,8 @@ An Act of Senedd Cymru to make provision about local government; local governmen
 
 ## Annotations
 
-[^key-34efa3f2b0b498a430e585f408f20c9c]: Textual amendment: Words in [Pt. 6](https://www.legislation.gov.uk/asc/2021/1/part/6) title inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [6(1)](https://www.legislation.gov.uk/wsi/2022/797/regulation/6/1)
+[^c-34efa3f2b0b498a430e585f408f20c9c]: Textual amendment: Words in [Pt. 6](https://www.legislation.gov.uk/asc/2021/1/part/6) title inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [6(1)](https://www.legislation.gov.uk/wsi/2022/797/regulation/6/1)
 
-[^key-2c7b69beb0b8f82963f321cecdef8471]: Textual amendment: Words in [Pt. 6 Ch. 1](https://www.legislation.gov.uk/asc/2021/1/part/6/chapter/1) title inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/6/2)
+[^c-2c7b69beb0b8f82963f321cecdef8471]: Textual amendment: Words in [Pt. 6 Ch. 1](https://www.legislation.gov.uk/asc/2021/1/part/6/chapter/1) title inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/6/2)
 
-[^key-4a05c026535054d4a99c3c2179cfe542]: Textual amendment: [Pt. 6 Ch. 1A](https://www.legislation.gov.uk/asc/2021/1/part/6/chapter/1A) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2022/797/regulation/4)
+[^c-4a05c026535054d4a99c3c2179cfe542]: Textual amendment: [Pt. 6 Ch. 1A](https://www.legislation.gov.uk/asc/2021/1/part/6/chapter/1A) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2022/797/regulation/4)

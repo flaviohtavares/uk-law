@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Joint licence holders[^key-0616d42d2fd2c178d2a45f5a21707c20]
+## 26. Joint licence holders[^c-0616d42d2fd2c178d2a45f5a21707c20]
 
 *Extent: N.I.*
 
@@ -63,4 +63,4 @@ the new owner (or any of them) may apply to the council to be added as a joint l
 
 ## Annotations
 
-[^key-0616d42d2fd2c178d2a45f5a21707c20]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2016/22/section/26) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-0616d42d2fd2c178d2a45f5a21707c20]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2016/22/section/26) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

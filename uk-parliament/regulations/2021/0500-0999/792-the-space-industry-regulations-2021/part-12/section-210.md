@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Information about the operator’s spaceflight activities[^key-387bf28604fcb819ef13d0d8f7b1175d]
+## 210. Information about the operator’s spaceflight activities[^c-387bf28604fcb819ef13d0d8f7b1175d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ At least 24 hours, but not more than one month, before a human occupant signs a 
 
 ## Annotations
 
-[^key-387bf28604fcb819ef13d0d8f7b1175d]: Commencement: Reg. 210 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-387bf28604fcb819ef13d0d8f7b1175d]: Commencement: Reg. 210 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

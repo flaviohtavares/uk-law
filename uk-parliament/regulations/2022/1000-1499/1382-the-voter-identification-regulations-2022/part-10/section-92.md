@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Amendment of Schedule 2 (forms)[^key-485fe79bc943ffed7e7761e0ef28addc]
+## 92. Amendment of Schedule 2 (forms)[^c-485fe79bc943ffed7e7761e0ef28addc]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ In Schedule 2 (forms)—
 
 ## Annotations
 
-[^key-485fe79bc943ffed7e7761e0ef28addc]: Commencement: Reg. 92 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-485fe79bc943ffed7e7761e0ef28addc]: Commencement: Reg. 92 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

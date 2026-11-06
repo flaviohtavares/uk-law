@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Parties to the contract[^key-2a94cc59b777b6de1a1b708ca48241ec]
+## 10. Parties to the contract[^c-2a94cc59b777b6de1a1b708ca48241ec]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ A contract must specify—
 
 ## Annotations
 
-[^key-2a94cc59b777b6de1a1b708ca48241ec]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2026/37/regulation/10) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-2a94cc59b777b6de1a1b708ca48241ec]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2026/37/regulation/10) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

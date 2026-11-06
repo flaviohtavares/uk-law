@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**36.**[^key-e259dda1f7d96080ee78c13610b8ec0e] After Part 82, insert Parts 83 to 86 as set out in the Schedule to these Rules.
+**36.**[^c-e259dda1f7d96080ee78c13610b8ec0e] After Part 82, insert Parts 83 to 86 as set out in the Schedule to these Rules.
 
 ## Annotations
 
-[^key-e259dda1f7d96080ee78c13610b8ec0e]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2014/407/rule/36) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)
+[^c-e259dda1f7d96080ee78c13610b8ec0e]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2014/407/rule/36) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)

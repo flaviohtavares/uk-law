@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Identifying the key bid[^key-9bc807ae72c3ac572393fab2128182b1]
+## 31. Identifying the key bid[^c-9bc807ae72c3ac572393fab2128182b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bc807ae72c3ac572393fab2128182b1]: Commencement: Reg. 31 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-9bc807ae72c3ac572393fab2128182b1]: Commencement: Reg. 31 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

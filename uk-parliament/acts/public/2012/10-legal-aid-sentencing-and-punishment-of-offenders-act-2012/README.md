@@ -34,7 +34,7 @@ An Act to make provision about legal aid; to make further provision about fundin
 
 \[1st May 2012\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-a5750b1aae8c4febf43a8cb104bf2ac0]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-a5750b1aae8c4febf43a8cb104bf2ac0]
 
 ## Contents
 
@@ -233,7 +233,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 90 — Amendment of bail enactments](part-3/section-90.md)
 
-#### CHAPTER 3 — Remands of children otherwise than on bail[^key-ca6de7d9bb679a0430c7621be4f3aac1]
+#### CHAPTER 3 — Remands of children otherwise than on bail[^c-ca6de7d9bb679a0430c7621be4f3aac1]
 
 *Extent: E+W*
 
@@ -404,6 +404,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-a5750b1aae8c4febf43a8cb104bf2ac0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2012/10) applied (with modifications) (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1125/regulation/8); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a5750b1aae8c4febf43a8cb104bf2ac0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2012/10) applied (with modifications) (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1125/regulation/8); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ca6de7d9bb679a0430c7621be4f3aac1]: Modification: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/ukpga/2012/10/part/3/chapter/3) applied (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [91(10)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/91/10) (with [reg. 91(11)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/91/11))
+[^c-ca6de7d9bb679a0430c7621be4f3aac1]: Modification: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/ukpga/2012/10/part/3/chapter/3) applied (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [91(10)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/91/10) (with [reg. 91(11)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/91/11))

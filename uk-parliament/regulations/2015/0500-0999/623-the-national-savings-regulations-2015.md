@@ -48,13 +48,13 @@ The Treasury in exercise of the powers conferred by sections 2, 3(2), 4, 6(1), 7
 
 ## PART 1 — Introductory Provisions
 
-### 1. Citation, commencement and extent[^key-580e2680181eb2baf94b89bb6f23d5a2]
+### 1. Citation, commencement and extent[^c-580e2680181eb2baf94b89bb6f23d5a2]
 
 (1) These Regulations may be cited as the National Savings Regulations 2015 and come into force on 6th April 2015.
 
 (2) These Regulations extend to Great Britain and Northern Ireland, the Isle of Man and the Channel Islands.
 
-### 2. Interpretation[^key-d8d4ef8845ffdf7e526c381e9ea9c1f3]
+### 2. Interpretation[^c-d8d4ef8845ffdf7e526c381e9ea9c1f3]
 
 In these Regulations—
 
@@ -75,7 +75,7 @@ In these Regulations—
 - “friendly society” means a friendly society (or a branch of that society) registered under the Friendly Societies Act 1974[^f00009] and a reference to an incorporated friendly society means a society incorporated under the Friendly Societies Act 1992[^f00010];
 - “individual savings account” means an account of investment deposits made under regulation 25;
 - “investment deposit” has the same meaning as in the 1971 Act;
-- “junior ISA account” means an individual savings account which comes within the meaning of “junior ISA account” in regulation 2B of the 1998 Regulations;[^key-f27ffa9a287b3958e74c7a49be1328ea]
+- “junior ISA account” means an individual savings account which comes within the meaning of “junior ISA account” in regulation 2B of the 1998 Regulations;[^c-f27ffa9a287b3958e74c7a49be1328ea]
 - “name”, in relation to an unincorporated body of persons, includes any description which the Director of Savings considers sufficient to identify the body;
 - “officer”, in relation to a society or body corporate, includes the solicitor of the society or body;
 - “ordinary deposit” has the same meaning as in the 1971 Act;
@@ -93,7 +93,7 @@ In these Regulations—
 
 ### CHAPTER 1 — Closure of or restrictions in relation to certain accounts
 
-#### 3. Closure of ordinary deposit accounts[^key-6f7773f848e382e3bc0236fc1904acf5]
+#### 3. Closure of ordinary deposit accounts[^c-6f7773f848e382e3bc0236fc1904acf5]
 
 (1) No ordinary account may be opened, and no ordinary deposit may be made.
 
@@ -103,7 +103,7 @@ In these Regulations—
 
 (4) Where the Director of Savings is unable for any reason to transfer the balance due on an ordinary account in accordance with paragraph (3), the Director of Savings may transfer the balance and accrued interest to a special Director’s account.
 
-#### 4. Closure of certain individual savings accounts[^key-20081170bf944eeb4b24045489debf85]
+#### 4. Closure of certain individual savings accounts[^c-20081170bf944eeb4b24045489debf85]
 
 (1) No deposit may be made in a relevant ISA.
 
@@ -116,11 +116,11 @@ In these Regulations—
 
 ### CHAPTER 2 — Accounts and transactions
 
-#### 5. Transaction of savings bank business[^key-2177c9f833237b0b3dba4fcaf2b39fd6]
+#### 5. Transaction of savings bank business[^c-2177c9f833237b0b3dba4fcaf2b39fd6]
 
 Savings bank business is to be transacted at the places determined, and by the persons authorised, by the Director of Savings.
 
-#### 6. Declaration by a depositor[^key-2c8d1dcc93e20487bb5c27d9442e1658]
+#### 6. Declaration by a depositor[^c-2c8d1dcc93e20487bb5c27d9442e1658]
 
 (1) A depositor on opening an account, and where required afterwards by the Director of Savings, must—
 
@@ -136,7 +136,7 @@ Savings bank business is to be transacted at the places determined, and by the p
 - (a) the account is opened under an enactment which dispenses with the making of a declaration; or
 - (b) the Director or Savings directs that the making of a declaration is not required.
 
-#### 7. Declaration by a depositor who is a trustee[^key-8afeda73917b3a1d7e3a3d97e6a6e957]
+#### 7. Declaration by a depositor who is a trustee[^c-8afeda73917b3a1d7e3a3d97e6a6e957]
 
 (1) Where an account is opened or held by a trustee, otherwise than under regulation 13, the declaration in the approved form must include the particulars of each account with the National Savings Bank in which is held money belonging to the same trust fund.
 
@@ -154,7 +154,7 @@ Savings bank business is to be transacted at the places determined, and by the p
 - (a) it is opened under an enactment which dispenses with the making of a declaration; or
 - (b) the Director or Savings directs that the making of a declaration is not required.
 
-#### 8. Depositors generally[^key-2e66ae7348a6ddb245f6301ca9a86879]
+#### 8. Depositors generally[^c-2e66ae7348a6ddb245f6301ca9a86879]
 
 (1) A deposit may be made by and in the name of a person who has attained the age of sixteen years and who is not under any legal disability otherwise than by reason of age.
 
@@ -163,7 +163,7 @@ Savings bank business is to be transacted at the places determined, and by the p
 - (a) in the name of a trustee; or
 - (b) under regulations 17 to 20.
 
-#### 9. Accounts of minors under sixteen years of age[^key-ce319fb9f21442eb4ab62d6e02c2fe42]
+#### 9. Accounts of minors under sixteen years of age[^c-ce319fb9f21442eb4ab62d6e02c2fe42]
 
 (1) A deposit may be made on behalf and in the name of a minor under the age of sixteen years by that minor’s parent, guardian or grandparent.
 
@@ -183,7 +183,7 @@ Savings bank business is to be transacted at the places determined, and by the p
 - (a) the application to open the account was received by the Director of Savings in the approved form before 28th November 2011; and
 - (b) the minor attained the age of seven years before 21st May 2012.
 
-#### 10. Accounts of persons who lack capacity[^key-2dfebb942a653db6937ad80c27d4b0d4]
+#### 10. Accounts of persons who lack capacity[^c-2dfebb942a653db6937ad80c27d4b0d4]
 
 (1) A deposit may be made on behalf and in the name of a person who lacks capacity by that person’s deputy.
 
@@ -193,7 +193,7 @@ Savings bank business is to be transacted at the places determined, and by the p
 
 (4) Where a depositor is a person who lacks capacity and there is no deputy by whom an application to withdraw or transfer deposits might be made, the Director of Savings may, upon it being shown that it is expedient to do so, pay the deposits to a person the Director of Savings is satisfied is a proper person to receive payment.
 
-#### 11. Joint accounts[^key-eabf59dceaec1b50a98e6778d156d98c]
+#### 11. Joint accounts[^c-eabf59dceaec1b50a98e6778d156d98c]
 
 (1) Subject to paragraph (2), a deposit may be made jointly in the names of two or more persons entitled to make deposits.
 
@@ -216,7 +216,7 @@ Savings bank business is to be transacted at the places determined, and by the p
 
 (7) This regulation does not apply where an account is held jointly in the names of trustees under regulation 12 or jointly in the names of a trustee and a beneficiary under regulation 13.
 
-#### 12. Trust accounts[^key-15c457f572ccbf5a775741c79aac3999]
+#### 12. Trust accounts[^c-15c457f572ccbf5a775741c79aac3999]
 
 (1) A deposit may be made in the name of one or more trustees.
 
@@ -244,7 +244,7 @@ Savings bank business is to be transacted at the places determined, and by the p
 - (a) to open an account in the names of more than two trustees; or
 - (b) to add the name of a person as a trustee in the title of an account where the account is already held in the names of two or more trustees;
 
-#### 13. Trust accounts held jointly by trustees and beneficiaries[^key-c13fa2b907660cf82b14e07ff1bb9568]
+#### 13. Trust accounts held jointly by trustees and beneficiaries[^c-c13fa2b907660cf82b14e07ff1bb9568]
 
 (1) A deposit may be made by one person as trustee for another person as beneficiary jointly in the names of the trustee and the beneficiary, but no new account may be opened under this paragraph.
 
@@ -259,7 +259,7 @@ Savings bank business is to be transacted at the places determined, and by the p
 - (a) put the account in the name of the beneficiary alone; or
 - (b) substitute the trustee with another trustee, in which case the new trustee must make a declaration in the approved form.
 
-#### 14. Accounts of friendly societies[^key-5bbc8606a413fdcdd51d4bcdfa009b6f]
+#### 14. Accounts of friendly societies[^c-5bbc8606a413fdcdd51d4bcdfa009b6f]
 
 (1) This regulation applies only in relation to an account opened before 1st January 1990.
 
@@ -278,7 +278,7 @@ Savings bank business is to be transacted at the places determined, and by the p
 
 (7) Despite paragraphs (4)(b), (5) and (6), an application to withdraw or transfer deposits may be made by a person recognised by the Director of Savings as entitled to sign the application.
 
-#### 15. Accounts of charitable and other societies[^key-e3bee9ed9c000ac2a35967b6531c0e03]
+#### 15. Accounts of charitable and other societies[^c-e3bee9ed9c000ac2a35967b6531c0e03]
 
 (1) This regulation applies only in relation to an account opened (a) before 1st January 1990 or (b) after 28th January 2004 by transferring an amount held in an ordinary account to that account.
 
@@ -295,7 +295,7 @@ Savings bank business is to be transacted at the places determined, and by the p
 
 (6) In this regulation “society” includes an unincorporated body of persons.
 
-#### 16. Accounts of building societies, industrial and provident societies and corporations[^key-fa7769d021816b7c7ab4ee1ab548a86f]
+#### 16. Accounts of building societies, industrial and provident societies and corporations[^c-fa7769d021816b7c7ab4ee1ab548a86f]
 
 (1) This regulation applies only in relation to an account opened before 1st January 1990.
 
@@ -315,7 +315,7 @@ Savings bank business is to be transacted at the places determined, and by the p
   - (iii) by two of the directors;
 - (b) in the case of a corporation sole, by the person constituting the corporation.
 
-#### 17. Accounts of government departments and public authorities[^key-5270222a949b042b54ef37d767888ba3]
+#### 17. Accounts of government departments and public authorities[^c-5270222a949b042b54ef37d767888ba3]
 
 Subject to the approval of the Director of Savings and to any conditions imposed by the Director of Savings—
 
@@ -323,7 +323,7 @@ Subject to the approval of the Director of Savings and to any conditions imposed
 - (b) deposits (and withdrawals or transfers) must be made by a responsible officer in that person’s official capacity; and
 - (c) the account must be opened in the name of the official title of that officer with any additional description required by the Director of Savings.
 
-#### 18. Accounts of the Sheriff Clerk in Scotland[^key-79b4d727731c7985bc60c42052d583aa]
+#### 18. Accounts of the Sheriff Clerk in Scotland[^c-79b4d727731c7985bc60c42052d583aa]
 
 (1) A deposit may be made in Scotland by the Sheriff Clerk of a Sheriff Court under the authority of any enactment.
 
@@ -335,7 +335,7 @@ Subject to the approval of the Director of Savings and to any conditions imposed
 
 (5) In this regulation references to the Sheriff Clerk include references to the Sheriff Clerk Depute.
 
-#### 19. Accounts of County Courts in Northern Ireland[^key-58628febcbb58540dcebac77cc60408d]
+#### 19. Accounts of County Courts in Northern Ireland[^c-58628febcbb58540dcebac77cc60408d]
 
 (1) A deposit may be made in Northern Ireland jointly in the names of a County Court Judge and a Clerk of the Crown and Peace.
 
@@ -347,7 +347,7 @@ Subject to the approval of the Director of Savings and to any conditions imposed
 
 (5) In this regulation references to a County Court Judge include references to a Recorder.
 
-#### 20. Accounts of the Public Trustee[^key-bb240b83ac68c7e11bd6fc6d975e1744]
+#### 20. Accounts of the Public Trustee[^c-bb240b83ac68c7e11bd6fc6d975e1744]
 
 (1) A deposit may be made by the Public Trustee acting—
 
@@ -364,7 +364,7 @@ Subject to the approval of the Director of Savings and to any conditions imposed
 
 ### CHAPTER 3 — Deposits, withdrawals and transfers, etc.
 
-#### 21. Deposit books, transaction records and statements[^key-d8579b74cb0d8994a9614b42a39a6502]
+#### 21. Deposit books, transaction records and statements[^c-d8579b74cb0d8994a9614b42a39a6502]
 
 (1) No new deposit books may be issued by the Director of Savings, and no new entries in relation to transactions may be made in deposit books.
 
@@ -392,7 +392,7 @@ Subject to the approval of the Director of Savings and to any conditions imposed
     - (ii) the balance of the account at the end of that period;
 - “transaction”, in relation to a depositor’s account, means any deposit, withdrawal, transfer or repayment.
 
-#### 22. Withdrawals of ordinary deposits[^key-445f40005ca844d96663164498f6ac61]
+#### 22. Withdrawals of ordinary deposits[^c-445f40005ca844d96663164498f6ac61]
 
 (1) Subject to regulation 3 (closure of ordinary deposit accounts), this regulation applies to applications to withdraw ordinary deposits.
 
@@ -407,7 +407,7 @@ Subject to the approval of the Director of Savings and to any conditions imposed
 
 (4) The Director of Savings may direct that this regulation does not apply in relation to any account.
 
-#### 23. Investment deposits[^key-8cd84b8819d52a0816d145d8e4919962][^key-1a67130c3b5eff3d72120da91b74ee07]
+#### 23. Investment deposits[^c-8cd84b8819d52a0816d145d8e4919962][^c-1a67130c3b5eff3d72120da91b74ee07]
 
 (1) This regulation applies to investment deposits.
 
@@ -461,7 +461,7 @@ Subject to the approval of the Director of Savings and to any conditions imposed
 
 (14) In calculating for the purposes of this regulation the amount held in the name of a person, the Director of Savings must not take into account a deposit of a trustee on behalf of that person in relation to an account opened under regulation 13 in the joint names of the trustee and that person.
 
-#### 24. Withdrawals of investment deposits[^key-ae8e2c8a097de9e7a8eb812feffce3cc]
+#### 24. Withdrawals of investment deposits[^c-ae8e2c8a097de9e7a8eb812feffce3cc]
 
 (1) This regulation applies to applications to withdraw investment deposits.
 
@@ -509,11 +509,11 @@ and is to be treated by the Director of Savings as authority to give effect to t
 
 (11) No application to withdraw may include a request for payment in cash.
 
-#### 25. Deposits to individual savings accounts[^key-eb5745d1635e62f0cad3c32f4956abbd]
+#### 25. Deposits to individual savings accounts[^c-eb5745d1635e62f0cad3c32f4956abbd]
 
 (1) An investment deposit may be made to the credit of an individual savings account opened under this regulation.
 
-(2) An individual savings account may be opened by a person who has attained the minimum age for opening that account in accordance with the Individual Savings Account Regulations 1998[^key-ed995dd344d68d8d0f03608eab1c375d] and who—
+(2) An individual savings account may be opened by a person who has attained the minimum age for opening that account in accordance with the Individual Savings Account Regulations 1998[^c-ed995dd344d68d8d0f03608eab1c375d] and who—
 
 - (a) is resident in the United Kingdom;
 - (b) though not resident in the United Kingdom, has general earnings from overseas Crown employment subject to United Kingdom tax within the meaning given by section 28 of the Income Tax (Earnings and Pensions) Act 2003[^f00024]; or
@@ -532,9 +532,9 @@ and is to be treated by the Director of Savings as authority to give effect to t
 
 (6) The minimum deposit to an individual savings account must be £10, but the Director of Savings may accept a lesser amount.
 
-(7)[^key-38c1064952a61759a7b238409a4983e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-38c1064952a61759a7b238409a4983e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26. Withdrawals from individual savings accounts[^key-f2a8a054ef446725793d9974233ab086]
+#### 26. Withdrawals from individual savings accounts[^c-f2a8a054ef446725793d9974233ab086]
 
 (1) This regulation applies to applications to withdraw deposits from individual savings accounts, and regulation 24 (withdrawals of investment deposits) does not apply to such applications.
 
@@ -574,7 +574,7 @@ and is to be treated by the Director of Savings as authority to give effect to t
 
 (8) No application to withdraw may include a request for payment in cash.
 
-#### 27. Authorised telephone procedure in relation to individual savings accounts[^key-647f6f12305e9ea26c064fbb1ad372e6]
+#### 27. Authorised telephone procedure in relation to individual savings accounts[^c-647f6f12305e9ea26c064fbb1ad372e6]
 
 (1) This regulation applies where, in relation to an individual savings account, these Regulations allow the use of the authorised telephone procedure.
 
@@ -607,11 +607,11 @@ and is to be treated by the Director of Savings as authority to give effect to t
 
 (11) The Director of Savings may make an audio recording of any telephone call in which telephone instructions are likely to be given.
 
-#### 28. Withdrawals by minors over sixteen years of age[^key-9ff309f4326a92c44b70b87adfd01b3e]
+#### 28. Withdrawals by minors over sixteen years of age[^c-9ff309f4326a92c44b70b87adfd01b3e]
 
 An application to withdraw deposits made by or in the name of a minor may be made by that person once they have attained the age of sixteen years.
 
-#### 29. Withdrawals in the case of bankrupt sole depositors[^key-ff879ad6fe2168a99bdb1add59b1758b]
+#### 29. Withdrawals in the case of bankrupt sole depositors[^c-ff879ad6fe2168a99bdb1add59b1758b]
 
 Where it appears to the Director of Savings that—
 
@@ -621,11 +621,11 @@ Where it appears to the Director of Savings that—
 
 the Director of Savings may, on application by the Official Receiver or trustee, pay the deposits held in the name of the depositor to the Official Receiver or trustee.
 
-#### 30. Authority for payment to a third party (not in relation to an individual savings account)[^key-7f6b7035d4d72821c60c1a798cfdc58d]
+#### 30. Authority for payment to a third party (not in relation to an individual savings account)[^c-7f6b7035d4d72821c60c1a798cfdc58d]
 
 A depositor, in relation to deposits not in an individual savings account, may, subject to the approval of the Director of Savings, authorise any person to make an application to withdraw deposits, or to receive payment of deposits.
 
-#### 31. Authority for payment to third party from an individual savings account[^key-1b2d05a0e975e075bcd9fd61f010b639]
+#### 31. Authority for payment to third party from an individual savings account[^c-1b2d05a0e975e075bcd9fd61f010b639]
 
 (1) This regulation applies to payments of deposits from individual savings accounts by crossed warrants (under regulation 26).
 
@@ -636,7 +636,7 @@ A depositor, in relation to deposits not in an individual savings account, may, 
 
 (3) Where a power of attorney, authority or letter authorises payment to be made to a firm, or to a body corporate or corporation sole, any person who is a member or officer of the firm or body corporate or corporation sole and who is able to demonstrate this to the satisfaction of the Director of Savings may present and receive payment under the warrant.
 
-#### 32. Transfers of deposits[^key-c0de89146f6e1d4ba27c611681dd5aad]
+#### 32. Transfers of deposits[^c-c0de89146f6e1d4ba27c611681dd5aad]
 
 (1) A depositor may apply to transfer deposits held in the depositor’s name—
 
@@ -656,7 +656,7 @@ A depositor, in relation to deposits not in an individual savings account, may, 
 
 may apply to transfer the amount into that person’s name or that of another person.
 
-#### 33. Operation of a nomination[^key-9334523e854c379a5691c14c337bfdca]
+#### 33. Operation of a nomination[^c-9334523e854c379a5691c14c337bfdca]
 
 (1) Subject to paragraph (2), on the death of a nominator the Director of Savings must pay to the amount due to the nominee according to the directions of the nomination.
 
@@ -676,7 +676,7 @@ may apply to transfer the amount into that person’s name or that of another pe
 
 ### CHAPTER 4 — Interest on deposits
 
-#### 34. Interest on investment deposits[^key-6f9b5b181a92fbde6b4824372e7fdf95]
+#### 34. Interest on investment deposits[^c-6f9b5b181a92fbde6b4824372e7fdf95]
 
 (1) This regulation applies to interest on investment deposits.
 
@@ -713,17 +713,17 @@ is deemed to have been made on the day when the instructions were accepted by th
 - (a) where payment was made by warrant, on the earliest day on which the warrant was payable; or
 - (b) where payment was made by electronic transfer, the day on which the payment would, in the normal course, have been received by the banker or other person with whom the receiving account was kept.
 
-#### 35. Interest on ordinary deposits[^key-1f0234d86dad45660c0411ce62a15bc2]
+#### 35. Interest on ordinary deposits[^c-1f0234d86dad45660c0411ce62a15bc2]
 
 For the purposes of section 5 of the 1971 Act[^f00026] (interest on ordinary deposits), and without prejudice to section 7 of that Act[^f00027] (withdrawal of deposits), and subject to regulation 3 (closure of ordinary deposit accounts), ordinary deposits withdrawn in accordance with these Regulations shall, where payment is made by warrant, be deemed to have been withdrawn on the date appearing on the warrant, which must be no earlier than the date on which the warrant is posted.
 
 ### CHAPTER 5 — Other administrative provisions relating to deposits
 
-#### 36. Coupon deposit books[^key-74fdecf750c1108bc22f473674b09c15]
+#### 36. Coupon deposit books[^c-74fdecf750c1108bc22f473674b09c15]
 
 Where a coupon deposit book containing coupon receipts has, before 1st July 1972, been issued to a depositor, the depositor may apply at a savings bank office for the deposits represented by the coupon receipts to be repaid or credited to a savings bank account.
 
-#### 37. Payment of deposits without an application to withdraw[^key-1440e09e9b238573fae1c2404e9e035a]
+#### 37. Payment of deposits without an application to withdraw[^c-1440e09e9b238573fae1c2404e9e035a]
 
 (1) In the case of an investment account other than an account for which terms and conditions have been set under section 9A(1) of the 1971 Act[^f00028], or an individual savings account, the Director of Savings may pay deposits to a depositor without having received an application to withdraw, including where—
 
@@ -736,7 +736,7 @@ Where a coupon deposit book containing coupon receipts has, before 1st July 1972
 
 (2) Deposits to which this regulation applies and any interest payable may be paid by any means, including crediting the amount to a different account in the name of the depositor in the National Savings Bank.
 
-#### 38. Exemption from stamp duty[^key-3af58e53c81157f16b6b72d16c7812b8]
+#### 38. Exemption from stamp duty[^c-3af58e53c81157f16b6b72d16c7812b8]
 
 No warrant or other order for the payment of deposits in the National Savings Bank, and no power of attorney or other document relating solely to the payment or receipt of that amount, is liable to be charged with stamp duty.
 
@@ -744,13 +744,13 @@ No warrant or other order for the payment of deposits in the National Savings Ba
 
 ### CHAPTER 1 — Protections
 
-#### 39. Notice of trust not receivable by Director of Savings[^key-11e31dc49bbe42d2475d390c39f012fb]
+#### 39. Notice of trust not receivable by Director of Savings[^c-11e31dc49bbe42d2475d390c39f012fb]
 
 (1) No notice of a trust can be received by the Director of Savings in relation to a deposit made under these Regulations.
 
 (2) The Director of Savings shall not be affected with a notice of a trust contained in a description of a depositor as a trustee or a declaration in a document relating to an account made for the purposes of these Regulations.
 
-#### 40. Powers of attorney[^key-79d2f20d9bae9e956b01f05611353d13]
+#### 40. Powers of attorney[^c-79d2f20d9bae9e956b01f05611353d13]
 
 (1) Where, under a power of attorney, the donee of the power makes, or joins in making, an application for the transfer or withdrawal of deposits standing in the name of the donor (or in the donor’s name jointly with any other person) the Director of Savings may act according to the application for the purposes of these Regulations.
 
@@ -765,7 +765,7 @@ that deposits are held on trust, the Director of Savings in making a transfer or
 
 (3) When a donee, in making an application to withdraw or transfer deposits in accordance with these Regulations, purports to act under a power of attorney, that shall be conclusive evidence for the Director of Savings that the donee is authorised by the power of attorney, unless the Director of Savings has notice otherwise at the time.
 
-#### 41. Indemnity of the Director of Savings and officers[^key-50c08b684ea9374d634bb1e6bf4ed8ee]
+#### 41. Indemnity of the Director of Savings and officers[^c-50c08b684ea9374d634bb1e6bf4ed8ee]
 
 (1) The Director of Savings, and any person acting under the Director of Savings’ authority shall not be liable in relation to any payment made or act done in accordance with—
 
@@ -785,28 +785,28 @@ or anyone authorised by those persons to receive payment.
 
 (3) This regulation is subject to regulation 44 (saving for rights of third parties).
 
-#### 42. Receipts to be a full discharge[^key-d31100b7e85950d9aed9e64e4d87e113]
+#### 42. Receipts to be a full discharge[^c-d31100b7e85950d9aed9e64e4d87e113]
 
 The receipt of a person to whom an amount is paid in accordance with these Regulations shall be a full discharge to the Treasury and the Director of Savings for that amount.
 
-#### 43. Posting to be regarded as delivery[^key-f28b2a1846dc07d35010f81474d0a239]
+#### 43. Posting to be regarded as delivery[^c-f28b2a1846dc07d35010f81474d0a239]
 
 The posting of a letter containing a warrant or cash payment advice issued under these Regulations to a person at the last address given by that person to the Director of Savings shall, as regards the liability of the Treasury or the Director of Savings, be equivalent to the delivery of the warrant or cash payment advice to that person.
 
-#### 44. Saving for rights of third parties[^key-70daf0dcda0114cee2cec36a3b6f4028]
+#### 44. Saving for rights of third parties[^c-70daf0dcda0114cee2cec36a3b6f4028]
 
 (1) Nothing in these Regulations (or in any regulations they revoke) that operates for the protection of the Treasury, the Commissioners, the Director of Savings or the Postmaster General in relation to any payment made or act done shall operate—
 
 - (a) to prevent the recovery by a person (or that person’s representatives), to whom an amount is due by law, of that amount from a person to whom it was paid (or from the representatives of that person) by or under the direction of the Director of Savings or the Postmaster General; or
 - (b) to affect the rights of a person (or that person’s representatives) in relation to a deposit against a third party.
 
-#### 45. Saving for rights of beneficiaries under trusts[^key-73e6564c5b2d89ac7817965a001c2f51]
+#### 45. Saving for rights of beneficiaries under trusts[^c-73e6564c5b2d89ac7817965a001c2f51]
 
 Nothing in these Regulations relating to a trustee shall, as between trustees or as between a trustee and a beneficiary under a trust, be deemed to authorise a trustee to act otherwise than in accordance with legal requirements applying to the trust and the terms of the instrument (if any) constituting the trust.
 
 ### CHAPTER 2 — Identity, etc.
 
-#### 46. Evidence of identity[^key-316944db1da828c09223e229a851bacd]
+#### 46. Evidence of identity[^c-316944db1da828c09223e229a851bacd]
 
 (1) The Director of Savings may require satisfactory evidence of the following—
 
@@ -820,17 +820,17 @@ and the Director of Savings may for the purpose of obtaining the evidence requir
 
 (2) The Director of Savings may accept as conclusive proof of the death of a depositor any evidence which establishes to the Director of Savings’ satisfaction that the depositor has not been heard of for a period of seven years or more (and, for the purposes of this paragraph, “depositor” includes any person beneficially interested at any time, whether absolutely or contingently, in the personal estate of the deceased).
 
-#### 47. Persons unable to write[^key-bf4336ddfc88dbd431b928ddadb004b5]
+#### 47. Persons unable to write[^c-bf4336ddfc88dbd431b928ddadb004b5]
 
 Where a document is required by the Director of Savings or by these Regulations to be signed by a person and that person is unable to write, it is sufficient for the document to be marked by that person in the presence of a witness in a manner required by the Director of Savings.
 
-#### 48. Persons under disability[^key-f8909c623f96a2acc13fad9e21165f83]
+#### 48. Persons under disability[^c-f8909c623f96a2acc13fad9e21165f83]
 
 If any depositor is a person who lacks capacity or is under legal disability for any reason other than age, anything which under these Regulations is required or authorised to be done by or to that person is to be done by or to a deputy or other person having power in law to administer the estate.
 
 ### CHAPTER 3 — Nominations
 
-#### 49. Nominations made before 1st May 1981[^key-b5aa0e5c4ea94589b795439436f78cfa]
+#### 49. Nominations made before 1st May 1981[^c-b5aa0e5c4ea94589b795439436f78cfa]
 
 (1) For the purposes of these Regulations a nomination made after 30th April 1981 has no effect.
 
@@ -851,7 +851,7 @@ unless any such amount or deposit is expressly excluded in the nomination.
 
 (4) A person who attested the signature of a nominator of a nomination may not benefit under the nomination.
 
-#### 50. Particulars to be furnished by nominator to Director of savings[^key-73db2068e73b5d03ab55e1e9c54bdc5d]
+#### 50. Particulars to be furnished by nominator to Director of savings[^c-73db2068e73b5d03ab55e1e9c54bdc5d]
 
 (1) For the purposes of these Regulations, when a change occurs in relation to an interest to which a nomination relates, the nominator must—
 
@@ -860,7 +860,7 @@ unless any such amount or deposit is expressly excluded in the nomination.
 
 (2) Where, because of the failure of a nominator to comply with paragraph (1), an amount payable under a nomination is paid, or any transfer is made, to a person other than the nominee or a person claiming through the nominee, that payment or transfer shall, subject to regulation 44 (saving for rights of third parties), be as valid as if the nomination had not been made.
 
-#### 51. Revocation of nominations[^key-b5edc4470ec7158d644a424135a05930]
+#### 51. Revocation of nominations[^c-b5edc4470ec7158d644a424135a05930]
 
 (1) For the purposes of these Regulations, a nomination is revoked—
 
@@ -886,7 +886,7 @@ without which it shall be of no effect.
 
 shall, subject to regulation 44 (saving for rights of third parties), be as valid as if the nomination had not been revoked.
 
-#### 52. Nominations which also apply to stock held in the books of the Bank of England[^key-3afb55cc3f93c8d4e5e28eaaba8230a0]
+#### 52. Nominations which also apply to stock held in the books of the Bank of England[^c-3afb55cc3f93c8d4e5e28eaaba8230a0]
 
 (1) This regulation applies to a nomination which, under article 18 of the National Savings Stock Register (Closure of Register to Gilts) Order 1998[^f00029], extends to any stock transferred from that register to the books of the Bank of England by article 4 of that Order[^f00030].
 
@@ -900,11 +900,11 @@ shall, subject to regulation 44 (saving for rights of third parties), be as vali
 
 ### CHAPTER 4 — Death of depositors and holders
 
-#### 53. Law applicable on the death of a depositor[^key-59e881952840cf3ac298cce6aaf0001e]
+#### 53. Law applicable on the death of a depositor[^c-59e881952840cf3ac298cce6aaf0001e]
 
 On the death of a depositor the Director of Savings may make a payment for the purposes of these Regulations in accordance with the law of the place where the depositor or holder resided at the date of death, unless the Director of Savings has received notice in writing that the depositor or holder was at the date of death domiciled elsewhere.
 
-#### 54. Payment without a grant of representation[^key-f56972bd4f5f099a463de0d72e910c9d]
+#### 54. Payment without a grant of representation[^c-f56972bd4f5f099a463de0d72e910c9d]
 
 (1) Where, on the death of a depositor the amount held in the depositor’s name does not exceed £5,000 and no probate of the will or letters of administration to the estate are produced to the Director of Savings within what is considered by the Director of Savings to be a reasonable period, the Director of Savings may, for the purposes of these Regulations, pay the amount (or any part of it) in accordance with paragraph (2).
 
@@ -931,38 +931,38 @@ but where a person to whom an amount may be paid under subparagraph (b) or (c) h
 
 (6) Nothing in this regulation affects the operation of a nomination made under these Regulations.
 
-#### 55. Death duties or inheritance tax chargeable on death of depositors[^key-a8d053cdde500a3af147d35730510dd5]
+#### 55. Death duties or inheritance tax chargeable on death of depositors[^c-a8d053cdde500a3af147d35730510dd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### CHAPTER 5 — Other administrative provisions
 
-#### 56. Defective applications[^key-1db0d42b9338f309c7b63a21a630a204]
+#### 56. Defective applications[^c-1db0d42b9338f309c7b63a21a630a204]
 
 The Director of Savings may refuse to accept an application required by these Regulations to be made in the approved form if—
 
 - (a) it does not include the full particulars required for the purposes of the application; or
 - (b) it is not signed by the person making the application.
 
-#### 57. Rectification of mistakes[^key-8ccd3622097657a5dbc6d2a9ce4d66f8]
+#### 57. Rectification of mistakes[^c-8ccd3622097657a5dbc6d2a9ce4d66f8]
 
 In the case of an investment account for which terms and conditions have been set under section 9A(1) of the 1971 Act[^f00035], or an individual savings account, where a first or any other deposit is made or received in error, the Director of Savings may return the deposit and cancel all actions taken in relation to it, or may take such other steps as may be necessary to give effect to the intention of the parties.
 
 ### CHAPTER 6 — Application, revocation and savings
 
-#### 58. Law applicable to crossed warrants[^key-f7adfaef1bfa91a31bbd364acc637b40]
+#### 58. Law applicable to crossed warrants[^c-f7adfaef1bfa91a31bbd364acc637b40]
 
 Section 76(1), (3), (4) and (5) (so far as it relates to crossed cheques) and sections 77(6) and 78 to 81 of the Bills of Exchange Act 1882[^f00036] (which relate to crossed cheques), and sections 3 and 4 of the Cheques Act 1957[^f00037] (which relate to unendorsed cheques as evidence of payment and to the protection of collecting bankers), apply to a crossed warrant issued under these Regulations as if it were a cheque drawn on the Director of Savings by the officer issuing the crossed warrant, but nothing in these Regulations makes a crossed warrant negotiable.
 
-#### 59. Disapplication of certain regulations[^key-0f99dc80ea98eba93d5f3786f390ceae]
+#### 59. Disapplication of certain regulations[^c-0f99dc80ea98eba93d5f3786f390ceae]
 
 (1) Regulations 7 to 9, 11 to 21, 23, 24, 25(5) and (6), 26(3) to (7), 28, 30, 32, 33, 34, 49, 50 and 51 do not apply in relation to an investment account of any description for which terms and conditions have been set pursuant to section 9A(1) of the 1971 Act.
 
 (2) Regulations 7 to 9, 11 to 17, 19, 21, 23, 33, 49, 50, 61 and 62 do not apply to individual savings accounts.
 
-(3)[^key-4374417dc54533ab7035ceea8d90a0d8] Regulations 25(2) and (3), to the extent that they are inconsistent with the 1998 Regulations, do not apply to junior ISA accounts.
+(3)[^c-4374417dc54533ab7035ceea8d90a0d8] Regulations 25(2) and (3), to the extent that they are inconsistent with the 1998 Regulations, do not apply to junior ISA accounts.
 
-#### 60. Application to Scotland[^key-3193ca9783c193d61f717decdca4ab84]
+#### 60. Application to Scotland[^c-3193ca9783c193d61f717decdca4ab84]
 
 In the application of these Regulations to Scotland—
 
@@ -974,7 +974,7 @@ In the application of these Regulations to Scotland—
 - (f) a reference to the Treasury Solicitor must be construed as a reference to the Queen’s and Lord’s Treasurer’s Remembrancer;
 - (g) a reference to the Chief Registrar of Friendly Societies must be construed as a reference to the Assistant Registrar of Friendly Societies for Scotland.
 
-#### 61. Application to Northern Ireland[^key-795ed85022857295fbc072ab4402dfe0]
+#### 61. Application to Northern Ireland[^c-795ed85022857295fbc072ab4402dfe0]
 
 In the application of these Regulations to Northern Ireland—
 
@@ -985,7 +985,7 @@ In the application of these Regulations to Northern Ireland—
 - (e) a reference to the Official Receiver must be construed as a reference to the Official Assignee in Bankruptcy;
 - (f) a reference to the Treasury Solicitor must be construed as a reference to the Crown Solicitor for Northern Ireland.
 
-#### 62. Application to the Isle of Man[^key-264a434e05232c9f277c1740958b9b05]
+#### 62. Application to the Isle of Man[^c-264a434e05232c9f277c1740958b9b05]
 
 In the application of these Regulations to the Isle of Man—
 
@@ -995,7 +995,7 @@ In the application of these Regulations to the Isle of Man—
 - (d) a reference to a bankruptcy order must be construed as a reference to a receiving order or an order of adjudication of bankruptcy;
 - (e) a reference to the Treasury Solicitor must be construed as a reference to Her Majesty’s Attorney General of the Isle of Man.
 
-#### 63. Application to the Channel Islands[^key-15e471844335165f1cea408f6cde616c]
+#### 63. Application to the Channel Islands[^c-15e471844335165f1cea408f6cde616c]
 
 (1) In the application of these Regulations to Jersey—
 
@@ -1026,7 +1026,7 @@ In the application of these Regulations to the Isle of Man—
     ;
 - (g) a nomination made by a depositor or holder of stock domiciled in the Bailiwick of Guernsey of any person to receive an amount due to the depositor, or any interest in stock held by the holder, at death, shall take effect only as to that portion of the personal estate over which that person had power of testamentary disposition according to the law of the Bailiwick of Guernsey, but a payment made to a nominee without notice of the depositor’s or holder’s incapacity to dispose of the whole or any portion of the estate nominated shall be a valid payment.
 
-#### 64. Revocations and savings[^key-a553b0d9889e7ce9a9f249c80cbc1622]
+#### 64. Revocations and savings[^c-a553b0d9889e7ce9a9f249c80cbc1622]
 
 (1) The instruments listed in the Schedule are revoked.
 
@@ -1034,7 +1034,7 @@ In the application of these Regulations to the Isle of Man—
 
 (3) These Regulations do not affect the validity of anything done by or in relation to the Postmaster General before 1st October 1969 under previously revoked provisions, and anything which at that date was in process of being done under those provisions by or in relation to the Postmaster General may be continued by or in relation to the Director of Savings.
 
-#### 65. Modifications[^key-c8c2f06392127ab3f5970f7e70a4e9c4]
+#### 65. Modifications[^c-c8c2f06392127ab3f5970f7e70a4e9c4]
 
 (1) In section 125(5)(a) of the Finance Act 2009[^f00048] (National Savings ordinary accounts: surplus funds) the reference to regulations 2B to 2BB of the National Savings Bank Regulations 1972[^f00049] should be read as a reference to regulation 3 of these Regulations.
 
@@ -1048,11 +1048,11 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 10th March 2015
 
-## SCHEDULE — Revocations[^key-1eda032d656dbe01709fb67fa7bd5dc9]
+## SCHEDULE — Revocations[^c-1eda032d656dbe01709fb67fa7bd5dc9]
 
 Regulation 64
 
-[^key-1eda032d656dbe01709fb67fa7bd5dc9]
+[^c-1eda032d656dbe01709fb67fa7bd5dc9]
 
 - The Savings Bank Annuities (Tables) Order 1954[^f00051]
 - The Savings Bank Annuities (Tables) Order 1955[^f00052]
@@ -1091,7 +1091,7 @@ Regulation 64
 - The National Savings Bank (Investment Deposits) (Limits) (Amendment) (No. 2) Order 1999[^f00085]
 - The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 2000[^f00086]
 - The National Savings Bank (Amendment) Regulations 2001[^f00087]
-- [^key-abd404584244ec5f8589a40af9a8dc4a]...
+- [^c-abd404584244ec5f8589a40af9a8dc4a]...
 - The National Savings Bank (Amendment) Regulations 2003[^f00089]
 - The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004[^f00090]
 - The National Savings Bank (Amendment) Regulations 2006[^f00091]
@@ -1131,9 +1131,9 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00004]: Footnote: [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23).
 
-[^key-580e2680181eb2baf94b89bb6f23d5a2]: Commencement: Reg. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-580e2680181eb2baf94b89bb6f23d5a2]: Commencement: Reg. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-d8d4ef8845ffdf7e526c381e9ea9c1f3]: Commencement: Reg. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-d8d4ef8845ffdf7e526c381e9ea9c1f3]: Commencement: Reg. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00005]: Footnote: [1971 c. 29](https://www.legislation.gov.uk/ukpga/1971/29).
 
@@ -1147,41 +1147,41 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00010]: Footnote: [1992 c. 40](https://www.legislation.gov.uk/ukpga/1992/40).
 
-[^key-f27ffa9a287b3958e74c7a49be1328ea]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/623/regulation/2) inserted (15.8.2017) by [The National Savings (Amendment) Regulations 2017 (S.I. 2017/787)](https://www.legislation.gov.uk/uksi/2017/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/787/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/787/regulation/2/2)
+[^c-f27ffa9a287b3958e74c7a49be1328ea]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/623/regulation/2) inserted (15.8.2017) by [The National Savings (Amendment) Regulations 2017 (S.I. 2017/787)](https://www.legislation.gov.uk/uksi/2017/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/787/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2017/787/regulation/2/2)
 
 [^f00011]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
 [^f00012]: Footnote: [1968 c. 13](https://www.legislation.gov.uk/ukpga/1968/13).
 
-[^key-6f7773f848e382e3bc0236fc1904acf5]: Commencement: Reg. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-6f7773f848e382e3bc0236fc1904acf5]: Commencement: Reg. 3 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-20081170bf944eeb4b24045489debf85]: Commencement: Reg. 4 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-20081170bf944eeb4b24045489debf85]: Commencement: Reg. 4 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00013]: Footnote: Section 9A was inserted by the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 208(11).
 
-[^key-2177c9f833237b0b3dba4fcaf2b39fd6]: Commencement: Reg. 5 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-2177c9f833237b0b3dba4fcaf2b39fd6]: Commencement: Reg. 5 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-2c8d1dcc93e20487bb5c27d9442e1658]: Commencement: Reg. 6 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-2c8d1dcc93e20487bb5c27d9442e1658]: Commencement: Reg. 6 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-8afeda73917b3a1d7e3a3d97e6a6e957]: Commencement: Reg. 7 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-8afeda73917b3a1d7e3a3d97e6a6e957]: Commencement: Reg. 7 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-2e66ae7348a6ddb245f6301ca9a86879]: Commencement: Reg. 8 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-2e66ae7348a6ddb245f6301ca9a86879]: Commencement: Reg. 8 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-ce319fb9f21442eb4ab62d6e02c2fe42]: Commencement: Reg. 9 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-ce319fb9f21442eb4ab62d6e02c2fe42]: Commencement: Reg. 9 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-2dfebb942a653db6937ad80c27d4b0d4]: Commencement: Reg. 10 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-2dfebb942a653db6937ad80c27d4b0d4]: Commencement: Reg. 10 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-eabf59dceaec1b50a98e6778d156d98c]: Commencement: Reg. 11 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-eabf59dceaec1b50a98e6778d156d98c]: Commencement: Reg. 11 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-15c457f572ccbf5a775741c79aac3999]: Commencement: Reg. 12 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-15c457f572ccbf5a775741c79aac3999]: Commencement: Reg. 12 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-c13fa2b907660cf82b14e07ff1bb9568]: Commencement: Reg. 13 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-c13fa2b907660cf82b14e07ff1bb9568]: Commencement: Reg. 13 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-5bbc8606a413fdcdd51d4bcdfa009b6f]: Commencement: Reg. 14 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-5bbc8606a413fdcdd51d4bcdfa009b6f]: Commencement: Reg. 14 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-e3bee9ed9c000ac2a35967b6531c0e03]: Commencement: Reg. 15 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-e3bee9ed9c000ac2a35967b6531c0e03]: Commencement: Reg. 15 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-fa7769d021816b7c7ab4ee1ab548a86f]: Commencement: Reg. 16 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-fa7769d021816b7c7ab4ee1ab548a86f]: Commencement: Reg. 16 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00014]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
 
@@ -1191,21 +1191,21 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00017]: Footnote: [2010 c. 7](https://www.legislation.gov.uk/ukpga/2010/7).
 
-[^key-5270222a949b042b54ef37d767888ba3]: Commencement: Reg. 17 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-5270222a949b042b54ef37d767888ba3]: Commencement: Reg. 17 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-79b4d727731c7985bc60c42052d583aa]: Commencement: Reg. 18 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-79b4d727731c7985bc60c42052d583aa]: Commencement: Reg. 18 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-58628febcbb58540dcebac77cc60408d]: Commencement: Reg. 19 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-58628febcbb58540dcebac77cc60408d]: Commencement: Reg. 19 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-bb240b83ac68c7e11bd6fc6d975e1744]: Commencement: Reg. 20 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-bb240b83ac68c7e11bd6fc6d975e1744]: Commencement: Reg. 20 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-d8579b74cb0d8994a9614b42a39a6502]: Commencement: Reg. 21 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-d8579b74cb0d8994a9614b42a39a6502]: Commencement: Reg. 21 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-445f40005ca844d96663164498f6ac61]: Commencement: Reg. 22 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-445f40005ca844d96663164498f6ac61]: Commencement: Reg. 22 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-8cd84b8819d52a0816d145d8e4919962]: Commencement: Reg. 23 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-8cd84b8819d52a0816d145d8e4919962]: Commencement: Reg. 23 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-1a67130c3b5eff3d72120da91b74ee07]: Modification: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/623/regulation/23) modified (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [42(6)](https://www.legislation.gov.uk/uksi/2015/624/regulation/42/6), [59(4)](https://www.legislation.gov.uk/uksi/2015/624/regulation/59/4)
+[^c-1a67130c3b5eff3d72120da91b74ee07]: Modification: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/623/regulation/23) modified (6.4.2015) by [The National Savings (No. 2) Regulations 2015 (S.I. 2015/624)](https://www.legislation.gov.uk/uksi/2015/624), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1), [42(6)](https://www.legislation.gov.uk/uksi/2015/624/regulation/42/6), [59(4)](https://www.legislation.gov.uk/uksi/2015/624/regulation/59/4)
 
 [^f00018]: Footnote: Section 9A was inserted by the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 208(11).
 
@@ -1217,111 +1217,111 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00022]: Footnote: Section 9A was inserted by the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 208(11).
 
-[^key-ae8e2c8a097de9e7a8eb812feffce3cc]: Commencement: Reg. 24 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-ae8e2c8a097de9e7a8eb812feffce3cc]: Commencement: Reg. 24 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00023]: Footnote: [1968 c. 13](https://www.legislation.gov.uk/ukpga/1968/13); section 12 was amended by the Finance Act [1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39) sections 152(1) and 152(2) and the Postal Services Act [2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5) section 91(1), (2), Schedule 12, Part 3, paragraph 8.8(a) and (b).
 
-[^key-eb5745d1635e62f0cad3c32f4956abbd]: Commencement: Reg. 25 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-eb5745d1635e62f0cad3c32f4956abbd]: Commencement: Reg. 25 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-ed995dd344d68d8d0f03608eab1c375d]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/uksi/2015/623/regulation/25/2) substituted (6.4.2026) by [The National Savings (Amendment) Regulations 2026 (S.I. 2026/266)](https://www.legislation.gov.uk/uksi/2026/266), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/266/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/266/regulation/2/2/a)
+[^c-ed995dd344d68d8d0f03608eab1c375d]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/uksi/2015/623/regulation/25/2) substituted (6.4.2026) by [The National Savings (Amendment) Regulations 2026 (S.I. 2026/266)](https://www.legislation.gov.uk/uksi/2026/266), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/266/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/266/regulation/2/2/a)
 
 [^f00024]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1); no relevant amendments.
 
-[^key-38c1064952a61759a7b238409a4983e3]: Textual amendment: [Reg. 25(7)](https://www.legislation.gov.uk/uksi/2015/623/regulation/25/7) omitted (6.4.2026) by virtue of [The National Savings (Amendment) Regulations 2026 (S.I. 2026/266)](https://www.legislation.gov.uk/uksi/2026/266), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/266/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/266/regulation/2/2/b)
+[^c-38c1064952a61759a7b238409a4983e3]: Textual amendment: [Reg. 25(7)](https://www.legislation.gov.uk/uksi/2015/623/regulation/25/7) omitted (6.4.2026) by virtue of [The National Savings (Amendment) Regulations 2026 (S.I. 2026/266)](https://www.legislation.gov.uk/uksi/2026/266), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/266/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/266/regulation/2/2/b)
 
-[^key-f2a8a054ef446725793d9974233ab086]: Commencement: Reg. 26 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-f2a8a054ef446725793d9974233ab086]: Commencement: Reg. 26 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-647f6f12305e9ea26c064fbb1ad372e6]: Commencement: Reg. 27 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-647f6f12305e9ea26c064fbb1ad372e6]: Commencement: Reg. 27 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-9ff309f4326a92c44b70b87adfd01b3e]: Commencement: Reg. 28 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-9ff309f4326a92c44b70b87adfd01b3e]: Commencement: Reg. 28 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-ff879ad6fe2168a99bdb1add59b1758b]: Commencement: Reg. 29 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-ff879ad6fe2168a99bdb1add59b1758b]: Commencement: Reg. 29 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-7f6b7035d4d72821c60c1a798cfdc58d]: Commencement: Reg. 30 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-7f6b7035d4d72821c60c1a798cfdc58d]: Commencement: Reg. 30 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-1b2d05a0e975e075bcd9fd61f010b639]: Commencement: Reg. 31 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-1b2d05a0e975e075bcd9fd61f010b639]: Commencement: Reg. 31 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-c0de89146f6e1d4ba27c611681dd5aad]: Commencement: Reg. 32 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-c0de89146f6e1d4ba27c611681dd5aad]: Commencement: Reg. 32 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-9334523e854c379a5691c14c337bfdca]: Commencement: Reg. 33 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-9334523e854c379a5691c14c337bfdca]: Commencement: Reg. 33 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00025]: Footnote: [1964 c. 41](https://www.legislation.gov.uk/ukpga/1964/41).
 
-[^key-6f9b5b181a92fbde6b4824372e7fdf95]: Commencement: Reg. 34 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-6f9b5b181a92fbde6b4824372e7fdf95]: Commencement: Reg. 34 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-1f0234d86dad45660c0411ce62a15bc2]: Commencement: Reg. 35 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-1f0234d86dad45660c0411ce62a15bc2]: Commencement: Reg. 35 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00026]: Footnote: Section 5 was amended by the Finance Act [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26) sections 184(2) to (4), 187, Schedule 17, Part XIII.
 
 [^f00027]: Footnote: Section 7 was amended by the Finance Act [1982 c. 39](https://www.legislation.gov.uk/ukpga/1982/39) section 151, Schedule 20, paragraph 6.
 
-[^key-74fdecf750c1108bc22f473674b09c15]: Commencement: Reg. 36 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-74fdecf750c1108bc22f473674b09c15]: Commencement: Reg. 36 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-1440e09e9b238573fae1c2404e9e035a]: Commencement: Reg. 37 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-1440e09e9b238573fae1c2404e9e035a]: Commencement: Reg. 37 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00028]: Footnote: Section 9A was inserted by the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 208(11).
 
-[^key-3af58e53c81157f16b6b72d16c7812b8]: Commencement: Reg. 38 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-3af58e53c81157f16b6b72d16c7812b8]: Commencement: Reg. 38 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-11e31dc49bbe42d2475d390c39f012fb]: Commencement: Reg. 39 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-11e31dc49bbe42d2475d390c39f012fb]: Commencement: Reg. 39 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-79d2f20d9bae9e956b01f05611353d13]: Commencement: Reg. 40 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-79d2f20d9bae9e956b01f05611353d13]: Commencement: Reg. 40 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-50c08b684ea9374d634bb1e6bf4ed8ee]: Commencement: Reg. 41 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-50c08b684ea9374d634bb1e6bf4ed8ee]: Commencement: Reg. 41 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-d31100b7e85950d9aed9e64e4d87e113]: Commencement: Reg. 42 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-d31100b7e85950d9aed9e64e4d87e113]: Commencement: Reg. 42 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-f28b2a1846dc07d35010f81474d0a239]: Commencement: Reg. 43 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-f28b2a1846dc07d35010f81474d0a239]: Commencement: Reg. 43 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-70daf0dcda0114cee2cec36a3b6f4028]: Commencement: Reg. 44 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-70daf0dcda0114cee2cec36a3b6f4028]: Commencement: Reg. 44 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-73e6564c5b2d89ac7817965a001c2f51]: Commencement: Reg. 45 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-73e6564c5b2d89ac7817965a001c2f51]: Commencement: Reg. 45 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-316944db1da828c09223e229a851bacd]: Commencement: Reg. 46 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-316944db1da828c09223e229a851bacd]: Commencement: Reg. 46 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-bf4336ddfc88dbd431b928ddadb004b5]: Commencement: Reg. 47 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-bf4336ddfc88dbd431b928ddadb004b5]: Commencement: Reg. 47 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-f8909c623f96a2acc13fad9e21165f83]: Commencement: Reg. 48 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-f8909c623f96a2acc13fad9e21165f83]: Commencement: Reg. 48 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-b5aa0e5c4ea94589b795439436f78cfa]: Commencement: Reg. 49 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-b5aa0e5c4ea94589b795439436f78cfa]: Commencement: Reg. 49 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-73db2068e73b5d03ab55e1e9c54bdc5d]: Commencement: Reg. 50 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-73db2068e73b5d03ab55e1e9c54bdc5d]: Commencement: Reg. 50 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-b5edc4470ec7158d644a424135a05930]: Commencement: Reg. 51 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-b5edc4470ec7158d644a424135a05930]: Commencement: Reg. 51 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-3afb55cc3f93c8d4e5e28eaaba8230a0]: Commencement: Reg. 52 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-3afb55cc3f93c8d4e5e28eaaba8230a0]: Commencement: Reg. 52 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00029]: Footnote: [S.I. 1998/1446](https://www.legislation.gov.uk/uksi/1998/1446); article 18 was amended by [S.I. 2004/1662](https://www.legislation.gov.uk/uksi/2004/1662).
 
 [^f00030]: Footnote: There have been no relevant amendments to article 4.
 
-[^key-59e881952840cf3ac298cce6aaf0001e]: Commencement: Reg. 53 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-59e881952840cf3ac298cce6aaf0001e]: Commencement: Reg. 53 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-f56972bd4f5f099a463de0d72e910c9d]: Commencement: Reg. 54 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-f56972bd4f5f099a463de0d72e910c9d]: Commencement: Reg. 54 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-a8d053cdde500a3af147d35730510dd5]: Textual amendment: [Reg. 55](https://www.legislation.gov.uk/uksi/2015/623/regulation/55) omitted (20.3.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 62(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/62/1)
+[^c-a8d053cdde500a3af147d35730510dd5]: Textual amendment: [Reg. 55](https://www.legislation.gov.uk/uksi/2015/623/regulation/55) omitted (20.3.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 62(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/62/1)
 
-[^key-1db0d42b9338f309c7b63a21a630a204]: Commencement: Reg. 56 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-1db0d42b9338f309c7b63a21a630a204]: Commencement: Reg. 56 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-8ccd3622097657a5dbc6d2a9ce4d66f8]: Commencement: Reg. 57 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-8ccd3622097657a5dbc6d2a9ce4d66f8]: Commencement: Reg. 57 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00035]: Footnote: Section 9A was inserted by the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 208(11).
 
-[^key-f7adfaef1bfa91a31bbd364acc637b40]: Commencement: Reg. 58 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-f7adfaef1bfa91a31bbd364acc637b40]: Commencement: Reg. 58 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00036]: Footnote: [1882 c. 61](https://www.legislation.gov.uk/ukpga/1882/61); section 80 was amended by the Cheques Act [1992 (c. 32)](https://www.legislation.gov.uk/ukpga/1992/32), section 2.
 
 [^f00037]: Footnote: [1957 c. 36](https://www.legislation.gov.uk/ukpga/1957/36).
 
-[^key-0f99dc80ea98eba93d5f3786f390ceae]: Commencement: Reg. 59 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-0f99dc80ea98eba93d5f3786f390ceae]: Commencement: Reg. 59 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-4374417dc54533ab7035ceea8d90a0d8]: Textual amendment: [Reg. 59(3)](https://www.legislation.gov.uk/uksi/2015/623/regulation/59/3) inserted (15.8.2017) by [The National Savings (Amendment) Regulations 2017 (S.I. 2017/787)](https://www.legislation.gov.uk/uksi/2017/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/787/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/787/regulation/2/3)
+[^c-4374417dc54533ab7035ceea8d90a0d8]: Textual amendment: [Reg. 59(3)](https://www.legislation.gov.uk/uksi/2015/623/regulation/59/3) inserted (15.8.2017) by [The National Savings (Amendment) Regulations 2017 (S.I. 2017/787)](https://www.legislation.gov.uk/uksi/2017/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/787/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/787/regulation/2/3)
 
-[^key-3193ca9783c193d61f717decdca4ab84]: Commencement: Reg. 60 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-3193ca9783c193d61f717decdca4ab84]: Commencement: Reg. 60 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00038]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
 
-[^key-795ed85022857295fbc072ab4402dfe0]: Commencement: Reg. 61 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-795ed85022857295fbc072ab4402dfe0]: Commencement: Reg. 61 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00039]: Footnote: [1970 c. 31 (N.I.)](https://www.legislation.gov.uk/apni/1970/31).
 
@@ -1329,7 +1329,7 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00041]: Footnote: [SR (N.I.) 1991/364](https://www.legislation.gov.uk/nisr/1991/364).
 
-[^key-264a434e05232c9f277c1740958b9b05]: Commencement: Reg. 62 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-264a434e05232c9f277c1740958b9b05]: Commencement: Reg. 62 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00042]: Footnote: AT 8 of 1998.
 
@@ -1337,7 +1337,7 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00044]: Footnote: AT 6 of 1892, AT 4 of 1928, AT 3 of 1953, AT 6 of 1955, AT 16 of 1979 and AT 7 of 1986.
 
-[^key-15e471844335165f1cea408f6cde616c]: Commencement: Reg. 63 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-15e471844335165f1cea408f6cde616c]: Commencement: Reg. 63 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00045]: Footnote: Law 18 of 1969.
 
@@ -1345,9 +1345,9 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00047]: Footnote: Ordres en conseil Vol. XVII, p.384.
 
-[^key-a553b0d9889e7ce9a9f249c80cbc1622]: Commencement: Reg. 64 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-a553b0d9889e7ce9a9f249c80cbc1622]: Commencement: Reg. 64 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
-[^key-c8c2f06392127ab3f5970f7e70a4e9c4]: Commencement: Reg. 65 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-c8c2f06392127ab3f5970f7e70a4e9c4]: Commencement: Reg. 65 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00048]: Footnote: [2009 c. 10](https://www.legislation.gov.uk/ukpga/2009/10).
 
@@ -1355,7 +1355,7 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00050]: Footnote: [S.I. 1998/1449](https://www.legislation.gov.uk/uksi/1998/1449).
 
-[^key-1eda032d656dbe01709fb67fa7bd5dc9]: Commencement: Sch. in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
+[^c-1eda032d656dbe01709fb67fa7bd5dc9]: Commencement: Sch. in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/623/regulation/1/1)
 
 [^f00051]: Footnote: [S.I. 1954/1578](https://www.legislation.gov.uk/uksi/1954/1578).
 
@@ -1431,7 +1431,7 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00087]: Footnote: [S.I 2001/858](https://www.legislation.gov.uk/uksi/2001/885)
 
-[^key-abd404584244ec5f8589a40af9a8dc4a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2015/623/schedule) omitted (4.5.2016) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 37(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/37/2), [41(1)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/1)
+[^c-abd404584244ec5f8589a40af9a8dc4a]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2015/623/schedule) omitted (4.5.2016) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 37(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/37/2), [41(1)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/1)
 
 [^f00089]: Footnote: [S.I. 2003/2895](https://www.legislation.gov.uk/uksi/2003/2895)
 

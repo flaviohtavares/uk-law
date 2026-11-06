@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Agricultural Credits Fees Order 1985 (revoked)[^key-87189b3f39af38f60ee50d8f4c730ad8]
+The Agricultural Credits Fees Order 1985 (revoked)[^c-87189b3f39af38f60ee50d8f4c730ad8]
 
 Made
 
@@ -41,46 +41,46 @@ Coming into Operation
 
 1st June 1985
 
-[^key-87189b3f39af38f60ee50d8f4c730ad8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-87189b3f39af38f60ee50d8f4c730ad8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-87189b3f39af38f60ee50d8f4c730ad8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-87189b3f39af38f60ee50d8f4c730ad8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-87189b3f39af38f60ee50d8f4c730ad8]
+## SCHEDULE 1[^c-87189b3f39af38f60ee50d8f4c730ad8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — PROVISION OF CREDIT ACCOUNTS[^key-87189b3f39af38f60ee50d8f4c730ad8]
+## SCHEDULE 2 — PROVISION OF CREDIT ACCOUNTS[^c-87189b3f39af38f60ee50d8f4c730ad8]
 
-**1.**[^key-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-87189b3f39af38f60ee50d8f4c730ad8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-87189b3f39af38f60ee50d8f4c730ad8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-87189b3f39af38f60ee50d8f4c730ad8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-87189b3f39af38f60ee50d8f4c730ad8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1985/372) revoked (9.12.2024) by [The Agricultural Credits Fees Order 2024 (S.I. 2024/935)](https://www.legislation.gov.uk/uksi/2024/935), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/935/article/1/1), [4](https://www.legislation.gov.uk/uksi/2024/935/article/4)
+[^c-87189b3f39af38f60ee50d8f4c730ad8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1985/372) revoked (9.12.2024) by [The Agricultural Credits Fees Order 2024 (S.I. 2024/935)](https://www.legislation.gov.uk/uksi/2024/935), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/935/article/1/1), [4](https://www.legislation.gov.uk/uksi/2024/935/article/4)

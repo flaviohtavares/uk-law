@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Amendments to Title 2, Chapter 5, Section 3[^key-4aee68cd2cda577afb8244c84f831dcb]
+## 12. Amendments to Title 2, Chapter 5, Section 3[^c-4aee68cd2cda577afb8244c84f831dcb]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4aee68cd2cda577afb8244c84f831dcb]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-4aee68cd2cda577afb8244c84f831dcb]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)

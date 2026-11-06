@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Procedure in relation to certain approvals etc.[^key-feff002cac2f744062987f9574079ddf]
+## 46. Procedure in relation to certain approvals etc.[^c-feff002cac2f744062987f9574079ddf]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-feff002cac2f744062987f9574079ddf]: Commencement: Art. 46 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-feff002cac2f744062987f9574079ddf]: Commencement: Art. 46 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)

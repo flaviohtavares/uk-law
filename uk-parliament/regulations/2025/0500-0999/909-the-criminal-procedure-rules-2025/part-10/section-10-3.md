@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10.3. Draft indictment generated electronically on sending for trial[^key-891301dd7108c436f1e33a8d09471f6b]
+## 10.3. Draft indictment generated electronically on sending for trial[^c-891301dd7108c436f1e33a8d09471f6b]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-891301dd7108c436f1e33a8d09471f6b]: Commencement: [Rule 10.3](https://www.legislation.gov.uk/uksi/2025/909/rule/10.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-891301dd7108c436f1e33a8d09471f6b]: Commencement: [Rule 10.3](https://www.legislation.gov.uk/uksi/2025/909/rule/10.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

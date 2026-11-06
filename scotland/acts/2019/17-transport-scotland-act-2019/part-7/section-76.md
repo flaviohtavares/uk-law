@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Licence applications and processes[^key-b2729b471c40e12416d7074f4452f4e9]
+## 76. Licence applications and processes[^c-b2729b471c40e12416d7074f4452f4e9]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2729b471c40e12416d7074f4452f4e9]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2019/17/section/76) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-b2729b471c40e12416d7074f4452f4e9]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2019/17/section/76) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

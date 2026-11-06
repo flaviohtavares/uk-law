@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Other duties[^key-38a95ff241afbfa5ef1adc673a846086]
+## 4. Other duties[^c-38a95ff241afbfa5ef1adc673a846086]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38a95ff241afbfa5ef1adc673a846086]: Commencement: S. 4 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-38a95ff241afbfa5ef1adc673a846086]: Commencement: S. 4 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

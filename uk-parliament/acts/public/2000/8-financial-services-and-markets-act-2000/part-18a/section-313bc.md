@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies where, having considered any representations made in response to a warning notice, the FCA[^key-8dceeb235c564efe8d05ca68916e2915] has decided whether to grant an application for revocation made under section 313BB.
+(1) This section applies where, having considered any representations made in response to a warning notice, the FCA[^c-8dceeb235c564efe8d05ca68916e2915] has decided whether to grant an application for revocation made under section 313BB.
 
 (2) The FCA must give written notice in accordance with subsection (3) if—
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c2077965]: Textual amendment: Pt. 18A inserted (1.4.2007 for certain purposes and 1.11.2007 otherwise) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2007 (S.I. 2007/126)](https://www.legislation.gov.uk/uksi/2007/126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/126/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2007/126/regulation/3/3), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2007/126/schedule/3/paragraph/1)
 
-[^key-8dceeb235c564efe8d05ca68916e2915]: Textual amendment: Word in Pt. 18A substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 36(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/36/a), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-8dceeb235c564efe8d05ca68916e2915]: Textual amendment: Word in Pt. 18A substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 36(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/36/a), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

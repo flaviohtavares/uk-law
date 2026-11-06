@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Certification and construction of plans and documents[^key-178e5032b5b8fa402de2c52ddc698634]
+## 43. Certification and construction of plans and documents[^c-178e5032b5b8fa402de2c52ddc698634]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ for certification that they are true copies of the documents referred to in this
 
 ## Annotations
 
-[^key-178e5032b5b8fa402de2c52ddc698634]: Commencement: Art. 43 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-178e5032b5b8fa402de2c52ddc698634]: Commencement: Art. 43 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

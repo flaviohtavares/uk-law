@@ -24,7 +24,7 @@ summary: ''
 
 ### Part 1 — Meeting of qualified proprietors
 
-#### 1. Calling of meeting[^key-86198d20d7275720dba22a06138d4e7a]
+#### 1. Calling of meeting[^c-86198d20d7275720dba22a06138d4e7a]
 
 (1) Where there is no district salmon fishery board for a district, the sheriff shall, on the application of two qualified proprietors of salmon fisheries in the district—
 
@@ -43,7 +43,7 @@ and the following provisions of this schedule shall have effect in respect of th
 
 (5) The sheriff may recover from the committee formed in accordance with this schedule all expenses incurred by the sheriff in the performance of the sheriff’s duties under this paragraph, whether or not that committee becomes a district salmon fishery board, but if it does become such a board, these expenses may be met out of the fishery assessment.
 
-**2.**[^key-24c8e587798ae69fa0dbf5c1d4813455] (1) At a meeting of proprietors called—
+**2.**[^c-24c8e587798ae69fa0dbf5c1d4813455] (1) At a meeting of proprietors called—
 
 - (a) by the sheriff under paragraph 1 above; or
 - (b) by the clerk to a board in accordance with section 47(1) of this Act,
@@ -59,7 +59,7 @@ that committee shall be or continue to be the district salmon fishery board for 
 
 (3) Membership of such a committee, whether or not it is a district salmon fishery board, shall not affect eligibility for membership of any other such committee or board.
 
-**3.**[^key-52652d754eaefdba675a1ecf2e0d35ae] (1) In accordance with the following provisions of this Part of this schedule, representatives of qualified proprietors shall be elected by—
+**3.**[^c-52652d754eaefdba675a1ecf2e0d35ae] (1) In accordance with the following provisions of this Part of this schedule, representatives of qualified proprietors shall be elected by—
 
 - (a) the upper proprietors from amongst themselves; and
 - (b) the lower proprietors from amongst themselves.
@@ -75,7 +75,7 @@ that committee shall be or continue to be the district salmon fishery board for 
 
 (5) A person who is both an upper and a lower proprietor by virtue of section 40(5) of this Act shall count as both an upper and as a lower proprietor for the purposes of this paragraph and may both vote and be elected in each capacity.
 
-**4.**[^key-33b4913e3d4ccb42ab98c03e13f4117e] (1) In the co-opting of representatives of salmon anglers and of tenant netsmen under Part 2 below, the number of representatives of salmon anglers and tenant netsmen together shall be less than the number of elected representatives of qualified proprietors.
+**4.**[^c-33b4913e3d4ccb42ab98c03e13f4117e] (1) In the co-opting of representatives of salmon anglers and of tenant netsmen under Part 2 below, the number of representatives of salmon anglers and tenant netsmen together shall be less than the number of elected representatives of qualified proprietors.
 
 (2) A person who is both an upper and a lower proprietor by virtue of section 40(5) of this Act shall be counted in each capacity for the purposes of sub-paragraph (1) above.
 
@@ -97,7 +97,7 @@ that committee shall be or continue to be the district salmon fishery board for 
 
 ### Part 2 — Membership
 
-**5.**[^key-c3b47572871c8a6a6250b7c41adc745d] (1) The members of the committee shall be members of a district salmon fishery board if the committee consists of not fewer than three elected representatives of qualified proprietors in the district.
+**5.**[^c-c3b47572871c8a6a6250b7c41adc745d] (1) The members of the committee shall be members of a district salmon fishery board if the committee consists of not fewer than three elected representatives of qualified proprietors in the district.
 
 (2) As soon after their election as is practicable, the elected representatives of qualified proprietors shall, in accordance with the provisions of this schedule co-opt representatives of salmon anglers and tenant netsmen in the district as required by section 45(2) of this Act.
 
@@ -117,12 +117,12 @@ but a committee shall not fail to be a district salmon fishery board only by rea
 
 ## Annotations
 
-[^key-86198d20d7275720dba22a06138d4e7a]: Commencement: Sch. 2 para. 1 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-86198d20d7275720dba22a06138d4e7a]: Commencement: Sch. 2 para. 1 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-24c8e587798ae69fa0dbf5c1d4813455]: Commencement: Sch. 2 para. 2 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-24c8e587798ae69fa0dbf5c1d4813455]: Commencement: Sch. 2 para. 2 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-52652d754eaefdba675a1ecf2e0d35ae]: Commencement: Sch. 2 para. 3 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-52652d754eaefdba675a1ecf2e0d35ae]: Commencement: Sch. 2 para. 3 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-33b4913e3d4ccb42ab98c03e13f4117e]: Commencement: Sch. 2 para. 4 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-33b4913e3d4ccb42ab98c03e13f4117e]: Commencement: Sch. 2 para. 4 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-c3b47572871c8a6a6250b7c41adc745d]: Commencement: Sch. 2 para. 5 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-c3b47572871c8a6a6250b7c41adc745d]: Commencement: Sch. 2 para. 5 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

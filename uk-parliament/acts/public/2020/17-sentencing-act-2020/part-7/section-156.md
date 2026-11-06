@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Deprivation order: property to be taken into possession of police or Secretary of State[^key-cc8200813fe81ca8a89286293eb1e90a]
+## 156. Deprivation order: property to be taken into possession of police or Secretary of State[^c-cc8200813fe81ca8a89286293eb1e90a]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ it may order that the property is to be taken into the possession of the Secreta
 
 ## Annotations
 
-[^key-cc8200813fe81ca8a89286293eb1e90a]: Commencement: S. 156 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-cc8200813fe81ca8a89286293eb1e90a]: Commencement: S. 156 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -42,13 +42,13 @@ Coming into force
 
 The Lords of Council and Session, under and by virtue of the powers conferred on them by sections 12 and 48 of the Civil Jurisdiction and Judgments Act 1982[^f00001], paragraph 14(3) of Schedule 4 to the Transport Act 1985[^f00002], sections 5 and 6(ii) of the Court of Session Act 1988[^f00003], paragraphs 11(2) and 19(1) of Schedule 4 to the Prevention of Terrorism (Temporary Provisions) Act 1989[^f00004], section 48 and paragraph 11 of Schedule 1 to the Proceeds of Crime (Scotland) Act 1995[^f00005] and of all other powers enabling them in that behalf, do hereby enact and declare:
 
-## 1. Citation and commencement[^key-a41a92fa6865c992ccdebdbff35a0905]
+## 1. Citation and commencement[^c-a41a92fa6865c992ccdebdbff35a0905]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Rules of the Court of Session Amendment No. 4) (Miscellaneous) 1996 and shall come into force on 23rd September 1996.
 
 (2) This Act of Sederunt shall be inserted in the Books of Sederunt.
 
-## 2. Amendment of the Rules of the Court of Session[^key-f40e11c41de2621d4e8e48ce45d6a69c]
+## 2. Amendment of the Rules of the Court of Session[^c-f40e11c41de2621d4e8e48ce45d6a69c]
 
 (1) The Rules of the Court of Session 1994[^f00006] shall be amended in accordance with the following sub-paragraphs.
 
@@ -635,7 +635,7 @@ Edinburgh,
 
 14th August 1996
 
-## SCHEDULE[^key-acbf564c204729ca406d3f877f6871a9]
+## SCHEDULE[^c-acbf564c204729ca406d3f877f6871a9]
 
 Paragraph 2(38)
 
@@ -748,9 +748,9 @@ This Act of Sederunt amends the Rules of the Court of Session 1994 by—
 
 [^f00005]: Footnote: [1995 c. 43](https://www.legislation.gov.uk/ukpga/1995/43).
 
-[^key-a41a92fa6865c992ccdebdbff35a0905]: Commencement: Para. 1 in force at 23.9.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/2168/paragraph/1/1)
+[^c-a41a92fa6865c992ccdebdbff35a0905]: Commencement: Para. 1 in force at 23.9.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/2168/paragraph/1/1)
 
-[^key-f40e11c41de2621d4e8e48ce45d6a69c]: Commencement: Para. 2 in force at 23.9.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/2168/paragraph/1/1)
+[^c-f40e11c41de2621d4e8e48ce45d6a69c]: Commencement: Para. 2 in force at 23.9.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/2168/paragraph/1/1)
 
 [^f00006]: Footnote: [S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443).
 
@@ -804,4 +804,4 @@ This Act of Sederunt amends the Rules of the Court of Session 1994 by—
 
 [^f00031]: Footnote: Form 44.3 was amended by [S.I. 1994/2901](https://www.legislation.gov.uk/uksi/1994/2901).
 
-[^key-acbf564c204729ca406d3f877f6871a9]: Commencement: Sch. in force at 23.9.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/2168/paragraph/1/1)
+[^c-acbf564c204729ca406d3f877f6871a9]: Commencement: Sch. in force at 23.9.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/2168/paragraph/1/1)

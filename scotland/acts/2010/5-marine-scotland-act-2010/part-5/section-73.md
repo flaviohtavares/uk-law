@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Historic MPAs: additional requirements etc.[^key-b6b5e2a699c32badde39167626d9f43e]
+## 73. Historic MPAs: additional requirements etc.[^c-b6b5e2a699c32badde39167626d9f43e]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6b5e2a699c32badde39167626d9f43e]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2010/5/section/73) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-b6b5e2a699c32badde39167626d9f43e]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2010/5/section/73) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

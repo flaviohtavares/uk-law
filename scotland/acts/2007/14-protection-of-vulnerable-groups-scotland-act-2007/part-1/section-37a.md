@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37A. Offences outside Scotland[^key-4bd834be1860449ebd33134e05754f08]
+## 37A. Offences outside Scotland[^c-4bd834be1860449ebd33134e05754f08]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ as if the offence had been committed in that district.
 
 ## Annotations
 
-[^key-4bd834be1860449ebd33134e05754f08]: Textual amendment: [S. 37A](https://www.legislation.gov.uk/asp/2007/14/section/37A) inserted (10.12.2021) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 88(2)](https://www.legislation.gov.uk/asp/2020/13/section/88/2), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule)
+[^c-4bd834be1860449ebd33134e05754f08]: Textual amendment: [S. 37A](https://www.legislation.gov.uk/asp/2007/14/section/37A) inserted (10.12.2021) by [Disclosure (Scotland) Act 2020 (asp 13)](https://www.legislation.gov.uk/asp/2020/13), [ss. 88(2)](https://www.legislation.gov.uk/asp/2020/13/section/88/2), [97](https://www.legislation.gov.uk/asp/2020/13/section/97) (with [s. 96](https://www.legislation.gov.uk/asp/2020/13/section/96)); [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule)

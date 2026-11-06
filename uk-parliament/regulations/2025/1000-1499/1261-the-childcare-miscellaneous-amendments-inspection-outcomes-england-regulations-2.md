@@ -50,7 +50,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 43(2) of the Childcare Act 2006, the Secretary of State has consulted His Majesty's Chief Inspector of Education, Children's Services and Skills in respect of the provision in regulation 2.
 
-## 1. Citation, commencement and extent[^key-2bc84e6a8197e935cb44964d4961c9f4]
+## 1. Citation, commencement and extent[^c-2bc84e6a8197e935cb44964d4961c9f4]
 
 These Regulations—
 
@@ -58,13 +58,13 @@ These Regulations—
 - (b) come into force on 1st January 2026, and
 - (c) extend to England and Wales.
 
-## 2. Amendment of the Early Years Foundation Stage (Welfare Requirements) Regulations 2012[^key-5a4b059fa2ab80807f3dac8a7b489442]
+## 2. Amendment of the Early Years Foundation Stage (Welfare Requirements) Regulations 2012[^c-5a4b059fa2ab80807f3dac8a7b489442]
 
 (1) The Early Years Foundation Stage (Welfare Requirements) Regulations 2012[^f00003] are amended in accordance with paragraph (2).
 
 (2) In regulation 3 (specification of the welfare requirements), in paragraph (4), for “14th July 2025” substitute “3rd December 2025”[^f00004].
 
-## 3. Amendment of the Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2014[^key-41d2b1a52b49c6e96f23415f4225847e]
+## 3. Amendment of the Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2014[^c-41d2b1a52b49c6e96f23415f4225847e]
 
 (1) The Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2014[^f00005] are amended in accordance with paragraphs (2) to (6).
 
@@ -154,7 +154,7 @@ These Regulations—
 
 .
 
-## 4. Amendment of the Childcare Providers (Information, Advice and Training) Regulations 2014[^key-eefc0600db114ed88d749aeb68da3209]
+## 4. Amendment of the Childcare Providers (Information, Advice and Training) Regulations 2014[^c-eefc0600db114ed88d749aeb68da3209]
 
 (1) The Childcare Providers (Information, Advice and Training) Regulations 2014[^f00013] are amended in accordance with paragraphs (2) and (3).
 
@@ -179,7 +179,7 @@ These Regulations—
 
     .
 
-## 5. Amendment of the Childcare (Free of Charge for Working Parents) (England) Regulations 2022[^key-b6a9dcde89dd219ed1f7d972d39b612f]
+## 5. Amendment of the Childcare (Free of Charge for Working Parents) (England) Regulations 2022[^c-b6a9dcde89dd219ed1f7d972d39b612f]
 
 (1) The Childcare (Free of Charge for Working Parents) (England) Regulations 2022[^f00014] are amended in accordance with paragraphs (2) to (7).
 
@@ -187,7 +187,7 @@ These Regulations—
 
 (3) In regulation 4 (definitions), in paragraph (b) of the definition of “inspection report”, omit sub-paragraph (ai).
 
-(4)[^key-fc9c2ceee74eba052be78ffc8a0fe459] In regulation 44 (duty to secure childcare available free of charge), in paragraph (3), omit sub-paragraphs (a) and (b) and the em dash which precedes them.
+(4)[^c-fc9c2ceee74eba052be78ffc8a0fe459] In regulation 44 (duty to secure childcare available free of charge), in paragraph (3), omit sub-paragraphs (a) and (b) and the em dash which precedes them.
 
 (5) In regulation 45 (duty to make arrangements with childcare provider chosen by parent)—
 
@@ -263,15 +263,15 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [2016 c. 5](https://www.legislation.gov.uk/ukpga/2016/5).
 
-[^key-2bc84e6a8197e935cb44964d4961c9f4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1) in force at 1.1.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b)
+[^c-2bc84e6a8197e935cb44964d4961c9f4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1) in force at 1.1.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b)
 
-[^key-5a4b059fa2ab80807f3dac8a7b489442]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1261/regulation/2) in force at 1.1.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b)
+[^c-5a4b059fa2ab80807f3dac8a7b489442]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1261/regulation/2) in force at 1.1.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b)
 
 [^f00003]: Footnote: [S.I. 2012/938](https://www.legislation.gov.uk/uksi/2012/938). Relevant amendments were made by [S.I. 2023/1338](https://www.legislation.gov.uk/uksi/2023/1338) and [2025/841](https://www.legislation.gov.uk/uksi/2025/841).
 
 [^f00004]: Footnote: The Early Years Qualifications and Standards Document is published at https://www.gov.uk/government/publications/early-years-qualification-requirements-and-standards.
 
-[^key-41d2b1a52b49c6e96f23415f4225847e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3) in force at 1.1.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b)
+[^c-41d2b1a52b49c6e96f23415f4225847e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1261/regulation/3) in force at 1.1.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b)
 
 [^f00005]: Footnote: [S.I. 2014/2147](https://www.legislation.gov.uk/uksi/2014/2147). Relevant amendments were made by [S.I. 2016/887](https://www.legislation.gov.uk/uksi/2016/887), [2018/146](https://www.legislation.gov.uk/uksi/2018/146) and [2024/1228](https://www.legislation.gov.uk/uksi/2024/1228).
 
@@ -289,12 +289,12 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00012]: Footnote: See section 32(2) of the Childcare Act 2006, which requires the Chief Inspector to maintain the early years register.
 
-[^key-eefc0600db114ed88d749aeb68da3209]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1261/regulation/4) in force at 1.1.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b)
+[^c-eefc0600db114ed88d749aeb68da3209]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1261/regulation/4) in force at 1.1.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b)
 
 [^f00013]: Footnote: [S.I. 2014/2319](https://www.legislation.gov.uk/uksi/2014/2319).
 
-[^key-b6a9dcde89dd219ed1f7d972d39b612f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5) in force at 1.1.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b)
+[^c-b6a9dcde89dd219ed1f7d972d39b612f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5) in force at 1.1.2026, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b)
 
 [^f00014]: Footnote: [S.I. 2022/1134](https://www.legislation.gov.uk/uksi/2022/1134). Relevant amendments were made by [S.I. 2023/1330](https://www.legislation.gov.uk/uksi/2023/1330) and [2024/1228](https://www.legislation.gov.uk/uksi/2024/1228).
 
-[^key-fc9c2ceee74eba052be78ffc8a0fe459]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5/4) substituted (31.12.2025) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2025 (S.I. 2025/1287)](https://www.legislation.gov.uk/uksi/2025/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1287/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2025/1287/regulation/2/2)
+[^c-fc9c2ceee74eba052be78ffc8a0fe459]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5/4) substituted (31.12.2025) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2025 (S.I. 2025/1287)](https://www.legislation.gov.uk/uksi/2025/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1287/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2025/1287/regulation/2/2)

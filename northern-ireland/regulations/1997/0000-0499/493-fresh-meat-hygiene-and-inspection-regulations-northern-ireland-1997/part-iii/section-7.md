@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Supervision of premises[^key-d71659a81d4eeacf358869cb7fc8df5e]
+## 7. Supervision of premises[^c-d71659a81d4eeacf358869cb7fc8df5e]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d71659a81d4eeacf358869cb7fc8df5e]: Commencement: Reg. 7 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-d71659a81d4eeacf358869cb7fc8df5e]: Commencement: Reg. 7 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
 [^f00015]: Footnote: [S.R. 1987 No. 141](https://www.legislation.gov.uk/nisr/1987/141)

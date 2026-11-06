@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1B — Council tax reduction schemes: Wales[^key-0b4cc43eec2580880417c21c2bd1fed0]
+## SCHEDULE 1B — Council tax reduction schemes: Wales[^c-0b4cc43eec2580880417c21c2bd1fed0]
 
 *Extent: E+W+S*
 
@@ -143,4 +143,4 @@ with such modifications as the Welsh Ministers think fit.
 
 ## Annotations
 
-[^key-0b4cc43eec2580880417c21c2bd1fed0]: Textual amendment: Schs. 1A, 1B inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2012/17/schedule/4/paragraph/1)
+[^c-0b4cc43eec2580880417c21c2bd1fed0]: Textual amendment: Schs. 1A, 1B inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2012/17/schedule/4/paragraph/1)

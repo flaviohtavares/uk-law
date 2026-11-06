@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Proof by formal admission[^key-7fe727e65add11781122a617e2881755]
+## 71. Proof by formal admission[^c-7fe727e65add11781122a617e2881755]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fe727e65add11781122a617e2881755]: Textual amendment: [Rules 70-73](https://www.legislation.gov.uk/uksi/1981/552/rule/70) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(j)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/j)
+[^c-7fe727e65add11781122a617e2881755]: Textual amendment: [Rules 70-73](https://www.legislation.gov.uk/uksi/1981/552/rule/70) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(j)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/j)

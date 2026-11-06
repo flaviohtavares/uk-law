@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) If a member has a guaranteed minimum under section 10 of the 1993 Act in relation to benefits under this Section of[^key-5f0be5a7e4b80c6fc5502b5eba6401c8] the Scheme—
+(1) If a member has a guaranteed minimum under section 10 of the 1993 Act in relation to benefits under this Section of[^c-5f0be5a7e4b80c6fc5502b5eba6401c8] the Scheme—
 
 - (a) nothing in this Part permits or requires anything that would cause requirements made by or under that Act in relation to such a member and such a member's rights under this Section of the Scheme not to be met in the case of the member,
 - (b) nothing in this Part prevents anything from being done which is necessary or expedient for the purposes of meeting such requirements in the case of the member, and
@@ -51,7 +51,7 @@ paragraph (2) does not apply until the member leaves employment.
 
 the weekly rate of the pension, so far as attributable to that service, must not be less than that guaranteed minimum, multiplied by such factor as is indicated in tables provided by the Scheme actuary for a person of the member's age and sex at the date on which the pension becomes payable.
 
-(7) This paragraph applies if a person has ceased to be in employment that is contracted-out by reference to this Section of[^key-3694ca6af57470528115fc19026d709f] the Scheme, and either—
+(7) This paragraph applies if a person has ceased to be in employment that is contracted-out by reference to this Section of[^c-3694ca6af57470528115fc19026d709f] the Scheme, and either—
 
 - (a) all the person's rights to benefits under this Section of the Scheme, except the person's rights in respect of the person's guaranteed minimum or rights under section 5(2B) of the 1993 Act (“the person's contracting-out rights”), have been transferred under Chapter 6 (transfers), or
 - (b) the person has no rights to benefits under this Section of the Scheme apart from the person's contracting-out rights.
@@ -71,11 +71,11 @@ but a person falling within paragraph (7) is not to be regarded as a pensioner f
 - (b) a pension that is commuted under regulation 59 (option for members in serious ill-health to exchange whole pension for lump sum), or
 - (c) a pension that is commuted under regulation 128 (commutation of small pensions) where the conditions in regulation 60 of the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996 [^c19303001] are met,
 
-but if any other provision of this Section of[^key-d761131ad362526fc2a967b26a1e5858] the Scheme is inconsistent with this rule, this rule prevails.
+but if any other provision of this Section of[^c-d761131ad362526fc2a967b26a1e5858] the Scheme is inconsistent with this rule, this rule prevails.
 
 (10) In this regulation—
 
-- (a) “**scheme employment**”, in relation to a member, means employment in the employment by virtue of which the member is eligible for membership of this Section of[^key-9dad26a2e8add5fc5b814f0131d97a2c] the Scheme, and
+- (a) “**scheme employment**”, in relation to a member, means employment in the employment by virtue of which the member is eligible for membership of this Section of[^c-9dad26a2e8add5fc5b814f0131d97a2c] the Scheme, and
 - (b) references to the amount of a pension are to its amount—
   - (i) disregarding any additional pension,
   - (ii) after the subtraction of any amount exchanged under regulation 58 (general option to exchange part of pension for lump sum), and
@@ -83,12 +83,12 @@ but if any other provision of this Section of[^key-d761131ad362526fc2a967b26a1e5
 
 ## Annotations
 
-[^key-5f0be5a7e4b80c6fc5502b5eba6401c8]: Textual amendment: Words in [reg. 66(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/66/1)[(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/66/2) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-5f0be5a7e4b80c6fc5502b5eba6401c8]: Textual amendment: Words in [reg. 66(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/66/1)[(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/66/2) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
 
-[^key-3694ca6af57470528115fc19026d709f]: Textual amendment: Words in [reg. 66(7)](https://www.legislation.gov.uk/nisr/2008/256/regulation/66/7) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-3694ca6af57470528115fc19026d709f]: Textual amendment: Words in [reg. 66(7)](https://www.legislation.gov.uk/nisr/2008/256/regulation/66/7) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
 
 [^c19303001]: Marginal citation: S.R. [1996 No. 493](https://www.legislation.gov.uk/ukcm/1996/493)
 
-[^key-d761131ad362526fc2a967b26a1e5858]: Textual amendment: Words in [reg. 66(9)](https://www.legislation.gov.uk/nisr/2008/256/regulation/66/9) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-d761131ad362526fc2a967b26a1e5858]: Textual amendment: Words in [reg. 66(9)](https://www.legislation.gov.uk/nisr/2008/256/regulation/66/9) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
 
-[^key-9dad26a2e8add5fc5b814f0131d97a2c]: Textual amendment: Words in [reg. 66(10)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/66/10/a) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-9dad26a2e8add5fc5b814f0131d97a2c]: Textual amendment: Words in [reg. 66(10)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/66/10/a) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)

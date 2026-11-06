@@ -35,7 +35,7 @@ summary: ''
 
 (6) An opt out notice is valid if—
 
-- (a)[^key-9534c6dd187b0ce3f3af5dfdb69bc23c] it includes the wording set out in Schedule 1;
+- (a)[^c-9534c6dd187b0ce3f3af5dfdb69bc23c] it includes the wording set out in Schedule 1;
 - (aa) it includes statements from the jobholder to the effect that the jobholder wishes to opt out of pension saving and understands that, in so doing, the jobholder will lose the right to pension contributions from the employer and may have a lower income upon retirement;
 - (b) it includes the jobholder's name;
 - (c) it includes the jobholder's national insurance number or date of birth;
@@ -47,12 +47,12 @@ summary: ''
 - (a) the employer must inform the jobholder of the reason for the invalidity, and
 - (b) paragraphs (2) and (3) are modified so that for the reference to “one month” there is substituted “ ;6 weeks ”.
 
-(8)[^key-568a285fa57ac61a46fd918f08d2b27f] Where an employer has accepted as valid an opt out notice prior to the coming into force of the 2013 Regulations, the notice is deemed to be valid on the coming into force of the 2013 Regulations.
+(8)[^c-568a285fa57ac61a46fd918f08d2b27f] Where an employer has accepted as valid an opt out notice prior to the coming into force of the 2013 Regulations, the notice is deemed to be valid on the coming into force of the 2013 Regulations.
 
 (9) In this regulation “the 2013 Regulations” means the Automatic Enrolment (Miscellaneous Amendments) Regulations 2013.
 
 ## Annotations
 
-[^key-9534c6dd187b0ce3f3af5dfdb69bc23c]: Textual amendment: Reg. 9(6)(a)(aa) substituted for reg. 9(6)(a) (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/6/a)
+[^c-9534c6dd187b0ce3f3af5dfdb69bc23c]: Textual amendment: Reg. 9(6)(a)(aa) substituted for reg. 9(6)(a) (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(6)(a)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/6/a)
 
-[^key-568a285fa57ac61a46fd918f08d2b27f]: Textual amendment: Reg. 9(8)(9) inserted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(6)(b)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/6/b)
+[^c-568a285fa57ac61a46fd918f08d2b27f]: Textual amendment: Reg. 9(8)(9) inserted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(6)(b)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/6/b)

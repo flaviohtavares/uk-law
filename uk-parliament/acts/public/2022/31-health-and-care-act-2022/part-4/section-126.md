@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Co-operation[^key-2ff1f3585b3bed401f5960678cf204da][^key-6d5c6bacb2a9c0c9a8d02100aad9a706]
+## 126. Co-operation[^c-2ff1f3585b3bed401f5960678cf204da][^c-6d5c6bacb2a9c0c9a8d02100aad9a706]
 
 *Extent: E+W*
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2ff1f3585b3bed401f5960678cf204da]: Commencement: S. 126 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-2ff1f3585b3bed401f5960678cf204da]: Commencement: S. 126 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-6d5c6bacb2a9c0c9a8d02100aad9a706]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2022/31/section/126) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-6d5c6bacb2a9c0c9a8d02100aad9a706]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2022/31/section/126) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
 
 [^M_F_22db8ba3-422c-4d95-cad6-9d023cae21e8]: Textual amendment: S. 126(3)(i) omitted (1.10.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/3), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2023/368/schedule/1/paragraph/14) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7)); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

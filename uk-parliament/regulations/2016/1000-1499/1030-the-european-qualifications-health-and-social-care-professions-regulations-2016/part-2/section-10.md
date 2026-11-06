@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Amendment of Schedule 2A[^key-ccf19e487440514fb3a40f0e7f7f72b6]
+## 10. Amendment of Schedule 2A[^c-ccf19e487440514fb3a40f0e7f7f72b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ccf19e487440514fb3a40f0e7f7f72b6]: Commencement: Reg. 10 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-ccf19e487440514fb3a40f0e7f7f72b6]: Commencement: Reg. 10 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00012]: Footnote: Schedule 2A was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

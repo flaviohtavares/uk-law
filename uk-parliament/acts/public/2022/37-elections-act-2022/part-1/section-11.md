@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Home address form: statement of local authority area[^key-844897ac52611fbccc9b3e0bfc27fe73][^key-d4e16d80ea88d5437843d3545a487232]
+## 11. Home address form: statement of local authority area[^c-844897ac52611fbccc9b3e0bfc27fe73][^c-d4e16d80ea88d5437843d3545a487232]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-844897ac52611fbccc9b3e0bfc27fe73]: Commencement: S. 11 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-844897ac52611fbccc9b3e0bfc27fe73]: Commencement: S. 11 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-d4e16d80ea88d5437843d3545a487232]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/37/section/11) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/2))
+[^c-d4e16d80ea88d5437843d3545a487232]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/37/section/11) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/1/2))

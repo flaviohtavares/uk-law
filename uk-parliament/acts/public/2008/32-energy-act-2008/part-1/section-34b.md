@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34B. Information sharing with economic regulator[^key-61a1740428ece5628354e57730df6ace]
+## 34B. Information sharing with economic regulator[^c-61a1740428ece5628354e57730df6ace]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61a1740428ece5628354e57730df6ace]: Textual amendment: [Ss. 34A](https://www.legislation.gov.uk/ukpga/2008/32/section/34A), [34B](https://www.legislation.gov.uk/ukpga/2008/32/section/34B) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 53(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/53/1), [334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-61a1740428ece5628354e57730df6ace]: Textual amendment: [Ss. 34A](https://www.legislation.gov.uk/ukpga/2008/32/section/34A), [34B](https://www.legislation.gov.uk/ukpga/2008/32/section/34B) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 53(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/53/1), [334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

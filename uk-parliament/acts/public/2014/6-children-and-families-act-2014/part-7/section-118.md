@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Exclusion or curtailment of other statutory rights to leave[^key-f59e8c7780820c70fbe65535e9eed3e6]
+## 118. Exclusion or curtailment of other statutory rights to leave[^c-f59e8c7780820c70fbe65535e9eed3e6]
 
 *Extent: E+W*
 
@@ -73,12 +73,12 @@ summary: ''
 
   > (3A) Provision under subsection (3)(a) is to secure that an employee may bring forward the date on which an additional adoption leave period ends only if the employee or another person has taken, or is taking, prescribed steps as regards leave under section 75G or statutory shared parental pay in respect of the child.
 
-(6)[^key-b849551b2514fcc8bb53b39980d42f71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-b849551b2514fcc8bb53b39980d42f71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-b849551b2514fcc8bb53b39980d42f71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-b849551b2514fcc8bb53b39980d42f71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f59e8c7780820c70fbe65535e9eed3e6]: Commencement: S. 118 in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/b)
+[^c-f59e8c7780820c70fbe65535e9eed3e6]: Commencement: S. 118 in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/b)
 
-[^key-b849551b2514fcc8bb53b39980d42f71]: Textual amendment: S. 118(6)(7) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/17/4), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [regs. 3(4)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/4), [4(4)](https://www.legislation.gov.uk/uksi/2026/3/regulation/4/4) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/3/schedule/1))
+[^c-b849551b2514fcc8bb53b39980d42f71]: Textual amendment: S. 118(6)(7) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/17/4), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [regs. 3(4)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/4), [4(4)](https://www.legislation.gov.uk/uksi/2026/3/regulation/4/4) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/3/schedule/1))

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Deductions from the grant for travel (affected by repeal, see note)[^key-8761f675551aceebe66e7d828a88ba1e][^key-640cffab865051583171c3072f59bd51][^key-640cffab865051583171c3072f59bd51]
+## 39. Deductions from the grant for travel (affected by repeal, see note)[^c-8761f675551aceebe66e7d828a88ba1e][^c-640cffab865051583171c3072f59bd51][^c-640cffab865051583171c3072f59bd51]
 
 *Extent: E+W*
 
-A deduction may be made from a grant under regulations 37 and 38 in accordance with Part 9. *(affected by repeal, see note)*[^key-640cffab865051583171c3072f59bd51]
+A deduction may be made from a grant under regulations 37 and 38 in accordance with Part 9. *(affected by repeal, see note)*[^c-640cffab865051583171c3072f59bd51]
 
 ## Annotations
 
-[^key-8761f675551aceebe66e7d828a88ba1e]: Commencement: Reg. 39 in force at 4.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/3097/regulation/1/2)
+[^c-8761f675551aceebe66e7d828a88ba1e]: Commencement: Reg. 39 in force at 4.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/3097/regulation/1/2)
 
-[^key-640cffab865051583171c3072f59bd51]: Textual amendment: Regulations revoked (1.9.2014) by [The Education (Student Support) (Wales) Regulations 2013 (S.I. 2013/3177)](https://www.legislation.gov.uk/uksi/2013/3177), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/1) (with savings in [reg. 3(2)-(18)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/2))
+[^c-640cffab865051583171c3072f59bd51]: Textual amendment: Regulations revoked (1.9.2014) by [The Education (Student Support) (Wales) Regulations 2013 (S.I. 2013/3177)](https://www.legislation.gov.uk/uksi/2013/3177), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/1) (with savings in [reg. 3(2)-(18)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/2))

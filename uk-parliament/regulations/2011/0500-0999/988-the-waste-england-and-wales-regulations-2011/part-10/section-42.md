@@ -32,11 +32,11 @@ summary: ''
 
 is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-(3) A person guilty of an offence under paragraph (1)(b) in relation to contravention of regulation 12(1), 13(2)[^key-20a077e91751276956d7db8c4b6be6ab] or 14(1) is liable—
+(3) A person guilty of an offence under paragraph (1)(b) in relation to contravention of regulation 12(1), 13(2)[^c-20a077e91751276956d7db8c4b6be6ab] or 14(1) is liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
 
 ## Annotations
 
-[^key-20a077e91751276956d7db8c4b6be6ab]: Textual amendment: Word in reg. 42(3) substituted (1.10.2012) by [The Waste (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/1889)](https://www.legislation.gov.uk/uksi/2012/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/2/4)
+[^c-20a077e91751276956d7db8c4b6be6ab]: Textual amendment: Word in reg. 42(3) substituted (1.10.2012) by [The Waste (England and Wales) (Amendment) Regulations 2012 (S.I. 2012/1889)](https://www.legislation.gov.uk/uksi/2012/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2012/1889/regulation/2/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.25. Warrants under s.365[^key-41ff61c6c5c1b2ca05edabe3ea1d34d3]
+## 7.25. Warrants under s.365[^c-41ff61c6c5c1b2ca05edabe3ea1d34d3]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ as may be directed by the warrant.
 
 ## Annotations
 
-[^key-41ff61c6c5c1b2ca05edabe3ea1d34d3]: Commencement: [Rule 7.25](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.25) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-41ff61c6c5c1b2ca05edabe3ea1d34d3]: Commencement: [Rule 7.25](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.25) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00209]: Marginal citation: \[FORM 7.12\] \[\[FORM 7.13\]

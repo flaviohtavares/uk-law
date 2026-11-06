@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 341A. Orders and warrants sought for civil recovery investigations[^key-d738714227ef8430e39482a90e1eed37]
+## 341A. Orders and warrants sought for civil recovery investigations[^c-d738714227ef8430e39482a90e1eed37]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Where an application under this Part for an order or warrant specifies property 
 
 ## Annotations
 
-[^key-d738714227ef8430e39482a90e1eed37]: Textual amendment: S. 341A inserted (1.6.2015 for E.W.S., 1.2.2017 in so far as not already in force) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/3); [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3)); [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))
+[^c-d738714227ef8430e39482a90e1eed37]: Textual amendment: S. 341A inserted (1.6.2015 for E.W.S., 1.2.2017 in so far as not already in force) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2013/22/schedule/19/paragraph/3); [S.I. 2015/964](https://www.legislation.gov.uk/uksi/2015/964), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/964/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/964/article/3)); [S.I. 2017/4](https://www.legislation.gov.uk/uksi/2017/4), [art. 2](https://www.legislation.gov.uk/uksi/2017/4/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2017/4/article/3))

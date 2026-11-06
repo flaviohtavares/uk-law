@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Period in which ballot results and valuations are to be notified[^key-371737e6d2923801ea338e1a4c42575b]
+## 53. Period in which ballot results and valuations are to be notified[^c-371737e6d2923801ea338e1a4c42575b]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-371737e6d2923801ea338e1a4c42575b]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2015/6/section/53) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-371737e6d2923801ea338e1a4c42575b]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2015/6/section/53) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

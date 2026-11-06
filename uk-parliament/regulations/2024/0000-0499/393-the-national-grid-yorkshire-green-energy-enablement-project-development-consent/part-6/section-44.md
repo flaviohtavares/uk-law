@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Maintenance of drainage works[^key-cb96c7edfa9d276e8d3843b7d194adfe]
+## 44. Maintenance of drainage works[^c-cb96c7edfa9d276e8d3843b7d194adfe]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb96c7edfa9d276e8d3843b7d194adfe]: Commencement: Art. 44 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-cb96c7edfa9d276e8d3843b7d194adfe]: Commencement: Art. 44 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
 [^f00076]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59), definition substituted by Part V, section 100(2) of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).

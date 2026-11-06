@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Consultation requirements before modifying powers of entry[^key-bf7693920eec0fcbcd47911fd9412422]
+## 43. Consultation requirements before modifying powers of entry[^c-bf7693920eec0fcbcd47911fd9412422]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Before making an order under section 39(1), 40 or 41 in relation to a power of e
 
 ## Annotations
 
-[^key-bf7693920eec0fcbcd47911fd9412422]: Commencement: S. 43 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(m)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/m)
+[^c-bf7693920eec0fcbcd47911fd9412422]: Commencement: S. 43 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(m)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/m)

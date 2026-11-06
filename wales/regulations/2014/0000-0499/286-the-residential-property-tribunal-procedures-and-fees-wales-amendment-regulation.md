@@ -31,7 +31,7 @@ summary: ''
 
 Landlord And Tenant, Wales
 
-The Residential Property Tribunal Procedures and Fees (Wales) (Amendment) Regulations 2014 (revoked)[^key-2c5e0cb3c2c81ed7c2d6fbd42e8de7ee]
+The Residential Property Tribunal Procedures and Fees (Wales) (Amendment) Regulations 2014 (revoked)[^c-2c5e0cb3c2c81ed7c2d6fbd42e8de7ee]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 10 March 2014
 
-[^key-2c5e0cb3c2c81ed7c2d6fbd42e8de7ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c5e0cb3c2c81ed7c2d6fbd42e8de7ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-2c5e0cb3c2c81ed7c2d6fbd42e8de7ee]
+## 1. Title, commencement and application[^c-2c5e0cb3c2c81ed7c2d6fbd42e8de7ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Residential Property Tribunal Procedures and Fees (Wales) Regulations 2012[^key-2c5e0cb3c2c81ed7c2d6fbd42e8de7ee]
+## 2. Amendment of the Residential Property Tribunal Procedures and Fees (Wales) Regulations 2012[^c-2c5e0cb3c2c81ed7c2d6fbd42e8de7ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c5e0cb3c2c81ed7c2d6fbd42e8de7ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c5e0cb3c2c81ed7c2d6fbd42e8de7ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2c5e0cb3c2c81ed7c2d6fbd42e8de7ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c5e0cb3c2c81ed7c2d6fbd42e8de7ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2c5e0cb3c2c81ed7c2d6fbd42e8de7ee]: Textual amendment: Regulations revoked (23.11.2016) by [The Residential Property Tribunal Procedures and Fees (Wales) Regulations 2016 (S.I. 2016/1110)](https://www.legislation.gov.uk/uksi/2016/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/1/1), [52(b)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/52/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/1/2))
+[^c-2c5e0cb3c2c81ed7c2d6fbd42e8de7ee]: Textual amendment: Regulations revoked (23.11.2016) by [The Residential Property Tribunal Procedures and Fees (Wales) Regulations 2016 (S.I. 2016/1110)](https://www.legislation.gov.uk/uksi/2016/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/1/1), [52(b)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/52/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/1/2))

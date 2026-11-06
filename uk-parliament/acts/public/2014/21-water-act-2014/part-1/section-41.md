@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Disputes about the provision of public sewers: premises in Wales[^key-f11b26638ae7ccd20e146797ea08a815]
+## 41. Disputes about the provision of public sewers: premises in Wales[^c-f11b26638ae7ccd20e146797ea08a815]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f11b26638ae7ccd20e146797ea08a815]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2014/21/section/41) in force at 1.11.2015 by [S.I. 2015/1786](https://www.legislation.gov.uk/wsi/2015/1786), [art. 2](https://www.legislation.gov.uk/wsi/2015/1786/article/2) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1786/article/3))
+[^c-f11b26638ae7ccd20e146797ea08a815]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2014/21/section/41) in force at 1.11.2015 by [S.I. 2015/1786](https://www.legislation.gov.uk/wsi/2015/1786), [art. 2](https://www.legislation.gov.uk/wsi/2015/1786/article/2) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1786/article/3))

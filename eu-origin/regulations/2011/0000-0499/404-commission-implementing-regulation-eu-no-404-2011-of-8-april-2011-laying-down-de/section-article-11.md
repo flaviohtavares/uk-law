@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. The master of a[^c000001] United Kingdom[^key-0a11e71065f00ba26587b3e1bc5289db] fishing vessel or his representative shall ensure that each passive gear carried on board or used for fishing is clearly marked and identifiable in accordance with the provisions of this Article.
+1. The master of a[^c000001] United Kingdom[^c-0a11e71065f00ba26587b3e1bc5289db] fishing vessel or his representative shall ensure that each passive gear carried on board or used for fishing is clearly marked and identifiable in accordance with the provisions of this Article.
 
 2. Each passive gear used for fishing shall permanently display the external registration letters and numbers displayed on the hull of the fishing vessel to which it belongs:
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2015/1962 of 28 October 2015 amending Implementing Regulation (EU) No 404/2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the common fisheries policy](https://www.legislation.gov.uk/eur/2015/1962).
 
-[^key-0a11e71065f00ba26587b3e1bc5289db]: Textual amendment: Words in [Art. 11](https://www.legislation.gov.uk/eur/2011/404/article/11) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(13)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0a11e71065f00ba26587b3e1bc5289db]: Textual amendment: Words in [Art. 11](https://www.legislation.gov.uk/eur/2011/404/article/11) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(13)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -35,497 +35,497 @@ on payments statistics
 
 (ECB/2013/43) (revoked)
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c764178b4cc78053c62c8d5b30e25ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Definitions[^key-9c764178b4cc78053c62c8d5b30e25ef]
+## Article 1. Definitions[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Actual reporting population[^key-9c764178b4cc78053c62c8d5b30e25ef]
+## Article 2. Actual reporting population[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Statistical reporting requirements[^key-9c764178b4cc78053c62c8d5b30e25ef]
+## Article 3. Statistical reporting requirements[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Derogations[^key-9c764178b4cc78053c62c8d5b30e25ef]
+## Article 4. Derogations[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. List of payment service providers and payment system operators for statistical purposes[^key-9c764178b4cc78053c62c8d5b30e25ef]
+## Article 5. List of payment service providers and payment system operators for statistical purposes[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Timeliness[^key-9c764178b4cc78053c62c8d5b30e25ef]
+## Article 6. Timeliness[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Verification and compulsory collection[^key-9c764178b4cc78053c62c8d5b30e25ef]
+## Article 7. Verification and compulsory collection[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. First reporting[^key-9c764178b4cc78053c62c8d5b30e25ef]
+## Article 8. First reporting[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Simplified amendment procedure[^key-9c764178b4cc78053c62c8d5b30e25ef]
+## Article 9. Simplified amendment procedure[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Final provision[^key-9c764178b4cc78053c62c8d5b30e25ef]
+## Article 10. Final provision[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9c764178b4cc78053c62c8d5b30e25ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — GENERAL STRUCTURE OF PAYMENTS STATISTICS[^key-9c764178b4cc78053c62c8d5b30e25ef]
+## ANNEX I — GENERAL STRUCTURE OF PAYMENTS STATISTICS[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
-### PART 1 — OVERVIEW[^key-9c764178b4cc78053c62c8d5b30e25ef]
+### PART 1 — OVERVIEW[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
-#### Part 1.1 — Overview of tables[^key-9c764178b4cc78053c62c8d5b30e25ef]
+#### Part 1.1 — Overview of tables[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]1.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]1.
 
 Payments statistics are compiled by the European Central Bank (ECB) through specific harmonised data collection managed at national level by each national central bank (NCB). The data compilation is structured in the form of seven tables as described below containing national data on each Member State whose currency is the euro (hereinafter a ‘euro area Member State’) that are later combined in comparative tables covering all euro area Member States.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Part 1.2 — Type of information[^key-9c764178b4cc78053c62c8d5b30e25ef]
+#### Part 1.2 — Type of information[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-9c764178b4cc78053c62c8d5b30e25ef]2.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Part 1.3 — Consolidation within the same national territory[^key-9c764178b4cc78053c62c8d5b30e25ef]
-
-[^key-9c764178b4cc78053c62c8d5b30e25ef]1.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]2.
+#### Part 1.3 — Consolidation within the same national territory[^c-9c764178b4cc78053c62c8d5b30e25ef]
+
+[^c-9c764178b4cc78053c62c8d5b30e25ef]1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9c764178b4cc78053c62c8d5b30e25ef]2.
 
 PSPs are institutions incorporated and located in that territory, including subsidiaries of parent companies located outside that territory, and branches of institutions that have their head office outside that territory.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]3.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]3.
 
 For statistical purposes, the following principles apply for consolidation of PSPs within national boundaries:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]4.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]5.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]6.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — SPECIFIC FEATURES IN TABLES 2 TO 7[^key-9c764178b4cc78053c62c8d5b30e25ef]
+### PART 2 — SPECIFIC FEATURES IN TABLES 2 TO 7[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
-#### Part 2.1 — Payment card functions (Table 2)[^key-9c764178b4cc78053c62c8d5b30e25ef]
+#### Part 2.1 — Payment card functions (Table 2)[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-9c764178b4cc78053c62c8d5b30e25ef]2.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]3.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]4.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9c764178b4cc78053c62c8d5b30e25ef]4.
 
 The indicator ‘card with a combined debit, cash and e-money function’ refers to a card issued by a PSP, which has a combined cash, debit and e-money function. In addition, it is reported in each of the sub-categories:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]5.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]6.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]7.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]8.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]9.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]10.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]11.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]11.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Part 2.2 — Payment card accepting devices (Table 3)[^key-9c764178b4cc78053c62c8d5b30e25ef]
+#### Part 2.2 — Payment card accepting devices (Table 3)[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-9c764178b4cc78053c62c8d5b30e25ef]2.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]3.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]4.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]5.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]6.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]7.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Part 2.3 — Payment transactions involving non-MFIs (Table 4)[^key-9c764178b4cc78053c62c8d5b30e25ef]
+[^c-9c764178b4cc78053c62c8d5b30e25ef]7.
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]1.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Part 2.3 — Payment transactions involving non-MFIs (Table 4)[^c-9c764178b4cc78053c62c8d5b30e25ef]
+
+[^c-9c764178b4cc78053c62c8d5b30e25ef]1.
 
 Payment transactions are initiated by non-MFIs to any counterparty or by PSPs if the counterparty is a non-MFI. This includes:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]2.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]3.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]4.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]5.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]6.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]*Total payment transactions*
+[^c-9c764178b4cc78053c62c8d5b30e25ef]*Total payment transactions*
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]7.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-9c764178b4cc78053c62c8d5b30e25ef]*Credit transfers*
-
-[^key-9c764178b4cc78053c62c8d5b30e25ef]8.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]9.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]*Credit transfers*
+
+[^c-9c764178b4cc78053c62c8d5b30e25ef]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]10.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]11.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]12.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]11.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]13.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]12.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]14.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]13.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]15.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]14.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]16.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]15.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]*Direct debits*
-
-[^key-9c764178b4cc78053c62c8d5b30e25ef]17.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]16.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]18.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]*Direct debits*
+
+[^c-9c764178b4cc78053c62c8d5b30e25ef]17.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]19.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]18.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]20.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]19.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]21.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]20.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]22.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]21.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]23.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]22.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]*Card payments*
-
-[^key-9c764178b4cc78053c62c8d5b30e25ef]24.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]23.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]25.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]*Card payments*
+
+[^c-9c764178b4cc78053c62c8d5b30e25ef]24.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]26.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]25.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9c764178b4cc78053c62c8d5b30e25ef]26.
 
 Payment transactions are performed using cards with a debit, credit or delayed debit function at a terminal or via other channels. The following breakdown of card payment transactions are reported:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]27.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]27.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]28.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]28.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]29.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]29.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]30.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]30.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]*E-money payment transactions*
+[^c-9c764178b4cc78053c62c8d5b30e25ef]*E-money payment transactions*
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]31.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-9c764178b4cc78053c62c8d5b30e25ef]32.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]31.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]*Cheques*
-
-[^key-9c764178b4cc78053c62c8d5b30e25ef]33.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]32.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]34.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]*Cheques*
+
+[^c-9c764178b4cc78053c62c8d5b30e25ef]33.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]35.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]34.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]*Cross-border transactions*
-
-[^key-9c764178b4cc78053c62c8d5b30e25ef]36.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]35.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]37.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]*Cross-border transactions*
+
+[^c-9c764178b4cc78053c62c8d5b30e25ef]36.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]38.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]37.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]*Flow of funds*
+[^c-9c764178b4cc78053c62c8d5b30e25ef]38.
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]39.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9c764178b4cc78053c62c8d5b30e25ef]*Flow of funds*
+
+[^c-9c764178b4cc78053c62c8d5b30e25ef]39.
 
 The direction of the flow of funds depends on the payment service and the initiation channel used:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Part 2.4 — Payment transactions per type of terminal involving non-MFIs (Table 5)[^key-9c764178b4cc78053c62c8d5b30e25ef]
+#### Part 2.4 — Payment transactions per type of terminal involving non-MFIs (Table 5)[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-9c764178b4cc78053c62c8d5b30e25ef]2.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]3.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]4.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]5.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9c764178b4cc78053c62c8d5b30e25ef]5.
 
 Transactions by type of terminal are broken down into three different categories based on the residency of the PSP. Categories in points (a) and (b) below are counted on the acquiring side and the category in point (c) below is counted on the issuing side:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]6.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]7.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Part 2.5 — Participation in selected payment systems (Table 6)[^key-9c764178b4cc78053c62c8d5b30e25ef]
+#### Part 2.5 — Participation in selected payment systems (Table 6)[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-9c764178b4cc78053c62c8d5b30e25ef]2.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]3.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]4.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Part 2.6 — Payments processed by selected payment systems (Table 7)[^key-9c764178b4cc78053c62c8d5b30e25ef]
-
-[^key-9c764178b4cc78053c62c8d5b30e25ef]1.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]2.
+#### Part 2.6 — Payments processed by selected payment systems (Table 7)[^c-9c764178b4cc78053c62c8d5b30e25ef]
+
+[^c-9c764178b4cc78053c62c8d5b30e25ef]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]3.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9c764178b4cc78053c62c8d5b30e25ef]3.
 
 In the case of a payment system, in which another payment system, e.g. an ancillary payment system, settles its positions, then the following principles apply:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]4.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]5.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]6.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]7.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]8.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]9.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]10.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]11.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]11.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-9c764178b4cc78053c62c8d5b30e25ef]
+## ANNEX II[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-9c764178b4cc78053c62c8d5b30e25ef]
+## ANNEX III[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — MINIMUM STANDARDS TO BE APPLIED BY THE ACTUAL REPORTING POPULATION[^key-9c764178b4cc78053c62c8d5b30e25ef]
+## ANNEX IV — MINIMUM STANDARDS TO BE APPLIED BY THE ACTUAL REPORTING POPULATION[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]
+[^c-9c764178b4cc78053c62c8d5b30e25ef]
 
 Reporting agents must fulfil the following minimum standards to meet the European Central Bank’s (ECB’s) statistical reporting requirements.
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]1.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]1.
 
 Minimum standards for transmission:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]2.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]2.
 
 Minimum standards for accuracy:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]3.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]3.
 
 Minimum standards for compliance with concepts:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]4.
+[^c-9c764178b4cc78053c62c8d5b30e25ef]4.
 
 Minimum standards for revisions:
 
@@ -533,4 +533,4 @@ Minimum standards for revisions:
 
 ## Annotations
 
-[^key-9c764178b4cc78053c62c8d5b30e25ef]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/72)
+[^c-9c764178b4cc78053c62c8d5b30e25ef]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 72](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/72)

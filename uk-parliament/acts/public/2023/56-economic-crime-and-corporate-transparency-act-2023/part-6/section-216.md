@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216. Power to make consequential provision[^key-47ce1748c55c0157790c9e89b8e9f6ba]
+## 216. Power to make consequential provision[^c-47ce1748c55c0157790c9e89b8e9f6ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47ce1748c55c0157790c9e89b8e9f6ba]: Commencement: S. 216 in force at Royal Assent, see [s. 219(2)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/a)
+[^c-47ce1748c55c0157790c9e89b8e9f6ba]: Commencement: S. 216 in force at Royal Assent, see [s. 219(2)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/a)

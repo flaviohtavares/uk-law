@@ -32,7 +32,7 @@ Adults with Incapacity (Scotland) Act 2000
 
 An Act of the Scottish Parliament to make provision as to the property, financial affairs and personal welfare of adults who are incapable by reason of mental disorder or inability to communicate; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 29th March 2000 and received Royal Assent on 9th May 2000[^key-970877453e6fd267b94797c9586dde59][^key-22b37b433100cf7d626bf01d51d2bccb]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 29th March 2000 and received Royal Assent on 9th May 2000[^c-970877453e6fd267b94797c9586dde59][^c-22b37b433100cf7d626bf01d51d2bccb]
 
 ## Contents
 
@@ -100,45 +100,45 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 23 — Resignation of continuing or welfare attorney](part-2/section-23.md)
 - [Section 24 — Termination of continuing or welfare power of attorney](part-2/section-24.md)
 
-### Part 3 — Accounts and funds[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+### Part 3 — Accounts and funds[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 *Extent: S*
 
-#### Purposes and application of Part[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+#### Purposes and application of Part[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 - [Section 24A — Intromissions with funds](part-3n2/section-24a.md)
 - [Section 24B — Adults in respect of whom applications may be made](part-3n2/section-24b.md)
 
-#### Authority to take preliminary steps[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+#### Authority to take preliminary steps[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 - [Section 24C — Authority to provide information about funds](part-3n2/section-24c.md)
 - [Section 24D — Authority to open account in adult's name](part-3n2/section-24d.md)
 
-#### Authority to intromit[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+#### Authority to intromit[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 - [Section 25 — Authority to intromit](part-3n2/section-25.md)
 - [Section 26 — Authority to intromit: application](part-3n2/section-26.md)
 
-#### Withdrawal certificates[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+#### Withdrawal certificates[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 - [Section 26A — Withdrawal certificates](part-3n2/section-26a.md)
 
-#### Joint and reserve withdrawers[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+#### Joint and reserve withdrawers[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 - [Section 26B — Addition of joint withdrawer](part-3n2/section-26b.md)
 - [Section 26C — Joint withdrawers: supplementary](part-3n2/section-26c.md)
 - [Section 26D — Reserve withdrawers: applications](part-3n2/section-26d.md)
 - [Section 26E — Reserve withdrawers: authority to act](part-3n2/section-26e.md)
 
-#### Variation of withdrawer's authority[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+#### Variation of withdrawer's authority[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 - [Section 26F — Variation of withdrawal certificate](part-3n2/section-26f.md)
 
-#### Authority to transfer funds[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+#### Authority to transfer funds[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 - [Section 26G — Authority to transfer specified sums](part-3n2/section-26g.md)
 
-#### Applications: general[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+#### Applications: general[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 - [Section 27 — Applications: general requirements](part-3n2/section-27.md)
 - [Section 27A — Countersigning of applications](part-3n2/section-27a.md)
@@ -149,37 +149,37 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 27F — Referral of application to sheriff](part-3n2/section-27f.md)
 - [Section 27G — Multiple applications etc.](part-3n2/section-27g.md)
 
-#### Fundholders[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+#### Fundholders[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 - [Section 28 — Fundholders of adult's current account and adult's second account](part-3n2/section-28.md)
 - [Section 28A — Fundholder of original account](part-3n2/section-28a.md)
 - [Section 29 — Fundholder's liability](part-3n2/section-29.md)
 
-#### Withdrawers[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+#### Withdrawers[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 - [Section 30A — Notification of change of address](part-3n2/section-30a.md)
 - [Section 30B — Records and inquiries](part-3n2/section-30b.md)
 
-#### Duration etc. of authority[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+#### Duration etc. of authority[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 - [Section 31 — Duration of withdrawal certificate](part-3n2/section-31.md)
 - [Section 31A — Suspension and termination of authority](part-3n2/section-31a.md)
 - [Section 31B — Renewal of authority to intromit](part-3n2/section-31b.md)
 - [Section 31C — Duration of certificates issued under section 24C, 24D, and 26G etc.](part-3n2/section-31c.md)
 
-#### Appeals[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+#### Appeals[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 - [Section 31D — Appeals](part-3n2/section-31d.md)
 
-#### Transition from guardianship[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+#### Transition from guardianship[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 - [Section 31E — Transition from guardianship](part-3n2/section-31e.md)
 
-#### Miscellaneous[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+#### Miscellaneous[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 - [Section 32 — Joint accounts](part-3n2/section-32.md)
 
-#### Interpretation[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+#### Interpretation[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 - [Section 33 — Interpretation of Part](part-3n2/section-33.md)
 
@@ -263,7 +263,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 78 — Amendment of registration under section 61 on events affecting guardianship or death of adult](part-6/section-78.md)
 - [Section 79 — Protection of third parties: guardianship](part-6/section-79.md)
 
-#### Guardianship orders: children[^key-3cbadbb53e7d193b0c37bdf40e8fb5c1]
+#### Guardianship orders: children[^c-3cbadbb53e7d193b0c37bdf40e8fb5c1]
 
 *Extent: S*
 
@@ -296,12 +296,12 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-970877453e6fd267b94797c9586dde59]: Modification: [Act](https://www.legislation.gov.uk/asp/2000/4) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
+[^c-970877453e6fd267b94797c9586dde59]: Modification: [Act](https://www.legislation.gov.uk/asp/2000/4) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
 
-[^key-22b37b433100cf7d626bf01d51d2bccb]: Modification: [Act](https://www.legislation.gov.uk/asp/2000/4) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) Regulations 2010 (S.I. 2010/875)](https://www.legislation.gov.uk/uksi/2010/875), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/875/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2010/875/regulation/16), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/875/schedule/2) (which amending S.I. was revoked (27.8.2010) by SI 2010/1906, reg. 2)
+[^c-22b37b433100cf7d626bf01d51d2bccb]: Modification: [Act](https://www.legislation.gov.uk/asp/2000/4) applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) Regulations 2010 (S.I. 2010/875)](https://www.legislation.gov.uk/uksi/2010/875), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/875/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2010/875/regulation/16), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/875/schedule/2) (which amending S.I. was revoked (27.8.2010) by SI 2010/1906, reg. 2)
 
-[^key-f6eab5fdc625cd488bea4e06b1f37ba3]: Textual amendment: Pt. 3 substituted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 58](https://www.legislation.gov.uk/asp/2007/10/section/58), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1) (with [arts. 3](https://www.legislation.gov.uk/ssi/2008/49/article/3) [4](https://www.legislation.gov.uk/ssi/2008/49/article/4))
+[^c-f6eab5fdc625cd488bea4e06b1f37ba3]: Textual amendment: Pt. 3 substituted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 58](https://www.legislation.gov.uk/asp/2007/10/section/58), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1) (with [arts. 3](https://www.legislation.gov.uk/ssi/2008/49/article/3) [4](https://www.legislation.gov.uk/ssi/2008/49/article/4))
 
 [^c10141721]: Modification: Pt. 4 modified (1.4.2003) by [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8), [ss. 8(1)](https://www.legislation.gov.uk/asp/2001/8/section/8/1), [81(2)](https://www.legislation.gov.uk/asp/2001/8/section/81/2); [S.S.I. 2003/205](https://www.legislation.gov.uk/ssi/2003/205), [art. 2](https://www.legislation.gov.uk/ssi/2003/205/article/2) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/ssi/2003/205/article/3))
 
-[^key-3cbadbb53e7d193b0c37bdf40e8fb5c1]: Textual amendment: [S. 79A and crossheading](https://www.legislation.gov.uk/asp/2000/4/part/6/crossheading/guardianship-orders-children) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(16)](https://www.legislation.gov.uk/asp/2007/10/section/60/16), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-3cbadbb53e7d193b0c37bdf40e8fb5c1]: Textual amendment: [S. 79A and crossheading](https://www.legislation.gov.uk/asp/2000/4/part/6/crossheading/guardianship-orders-children) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(16)](https://www.legislation.gov.uk/asp/2007/10/section/60/16), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)

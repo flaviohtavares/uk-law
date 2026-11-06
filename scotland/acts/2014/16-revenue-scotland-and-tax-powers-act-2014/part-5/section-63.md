@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Tax avoidance arrangements[^key-4e1549aa4aaa7a541f7c1f39a69e1205]
+## 63. Tax avoidance arrangements[^c-4e1549aa4aaa7a541f7c1f39a69e1205]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e1549aa4aaa7a541f7c1f39a69e1205]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2014/16/section/63) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-4e1549aa4aaa7a541f7c1f39a69e1205]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2014/16/section/63) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

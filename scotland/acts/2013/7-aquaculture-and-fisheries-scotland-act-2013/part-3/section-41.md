@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Retention of objects seized under section 39(3)[^key-67718897e941f441f874dadec10c643e]
+## 41. Retention of objects seized under section 39(3)[^c-67718897e941f441f874dadec10c643e]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67718897e941f441f874dadec10c643e]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2013/7/section/41) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-67718897e941f441f874dadec10c643e]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2013/7/section/41) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

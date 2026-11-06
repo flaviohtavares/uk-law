@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Rights under or over streets[^key-8087bcb76abc8080872b2e8116e81e81]
+## 26. Rights under or over streets[^c-8087bcb76abc8080872b2e8116e81e81]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8087bcb76abc8080872b2e8116e81e81]: Commencement: Art. 26 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-8087bcb76abc8080872b2e8116e81e81]: Commencement: Art. 26 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)

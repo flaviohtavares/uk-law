@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Short title[^key-6ebe28fd838a78ac0d574cf1e728dd88]
+## 149. Short title[^c-6ebe28fd838a78ac0d574cf1e728dd88]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Environment Act 2021.
 
 ## Annotations
 
-[^key-6ebe28fd838a78ac0d574cf1e728dd88]: Commencement: S. 149 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)
+[^c-6ebe28fd838a78ac0d574cf1e728dd88]: Commencement: S. 149 in force at Royal Assent, see [s. 147(1)(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/1/b)

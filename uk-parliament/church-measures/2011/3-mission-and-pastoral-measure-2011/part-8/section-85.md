@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 85. Suspension of presentation for period not exceeding five years[^key-693e1deb511618c28f8718f6f14610c7]
+## 85. Suspension of presentation for period not exceeding five years[^c-693e1deb511618c28f8718f6f14610c7]
 
 *Extent: E*
 
@@ -63,4 +63,4 @@ and a copy of the notice shall be filed in the diocesan registry.
 
 ## Annotations
 
-[^key-693e1deb511618c28f8718f6f14610c7]: Commencement: S. 85 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-693e1deb511618c28f8718f6f14610c7]: Commencement: S. 85 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 167B. Directions under section 167A: appeals[^key-5a37e4effc66a21ab6373bb7ca85fb7e]
+## 167B. Directions under section 167A: appeals[^c-5a37e4effc66a21ab6373bb7ca85fb7e]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a37e4effc66a21ab6373bb7ca85fb7e]: Textual amendment: Ss. 167A-167D and cross-heading inserted (12.10.2009 for W.) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 169](https://www.legislation.gov.uk/ukpga/2006/40/section/169), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2009/2545](https://www.legislation.gov.uk/uksi/2009/2545), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2009/2545/article/3/1/a)
+[^c-5a37e4effc66a21ab6373bb7ca85fb7e]: Textual amendment: Ss. 167A-167D and cross-heading inserted (12.10.2009 for W.) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 169](https://www.legislation.gov.uk/ukpga/2006/40/section/169), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2009/2545](https://www.legislation.gov.uk/uksi/2009/2545), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2009/2545/article/3/1/a)
 
 [^M_F_12006122-6b4c-436d-8f9f-23f4577481b3]: Textual amendment: Words in s. 167B substituted (3.11.2008) by The Transfer of Tribunal Functions Order 2008 ([S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 196](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/196)

@@ -123,7 +123,7 @@ unless and until he has made, and delivered to the proper officer of the Authori
 
 #### Consequences of making the declaration
 
-**9.**[^key-15df71f0c1b353c9e48cb301500cc7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-15df71f0c1b353c9e48cb301500cc7dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Declaration of acceptance by Chair of Assembly
 
@@ -175,7 +175,7 @@ and, for that period, the Deputy Mayor shall accordingly be treated as if he wer
 
 **15.** (1) Paragraph 14(1)(a) above does not apply in relation to—
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-fec79a9d2fa6960602420e4c08bec8a0] any functions exercisable under Schedule 6 or 7 to this Act; *(Extent: E+W)* *(affected by repeal, see note)*[^key-fec79a9d2fa6960602420e4c08bec8a0]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-fec79a9d2fa6960602420e4c08bec8a0] any functions exercisable under Schedule 6 or 7 to this Act; *(Extent: E+W)* *(affected by repeal, see note)*[^c-fec79a9d2fa6960602420e4c08bec8a0]
 - (b) any functions in relation to the preparation, alteration or replacement of strategies under this Act; or
 - (c) any function of making an appointment mentioned in sub-paragraph (2) below.
 
@@ -187,13 +187,13 @@ and, for that period, the Deputy Mayor shall accordingly be treated as if he wer
 
 #### Setting the budget during the period
 
-**16.** If, at any time when proceedings under Schedule 6 or 7 to this Act are taking place in respect of any year, the Mayor is temporarily unable to act, those and any subsequent proceedings under the Schedule in question in respect of that year shall proceed as if the Mayor had failed to fulfil his duties under that Schedule. *(Extent: E+W)* *(affected by repeal, see note)*[^key-bd43120df8596c58a5a1bc0dc30c604d]
+**16.** If, at any time when proceedings under Schedule 6 or 7 to this Act are taking place in respect of any year, the Mayor is temporarily unable to act, those and any subsequent proceedings under the Schedule in question in respect of that year shall proceed as if the Mayor had failed to fulfil his duties under that Schedule. *(Extent: E+W)* *(affected by repeal, see note)*[^c-bd43120df8596c58a5a1bc0dc30c604d]
 
 If and so long as any functions of the Mayor under Schedule 6 or 7 to this Act are exercisable by the Deputy Mayor pursuant to paragraph 14 above, the Deputy Mayor shall not act as an Assembly member in relation to any functions of the Assembly under either of those Schedules. *(Extent: E+W)*
 
 #### Mayor unable to act for three consecutive months
 
-**17.**[^key-c3cd82ad90a61e723b2f21063edfb312] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-c3cd82ad90a61e723b2f21063edfb312] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Exercise of Mayor’s functions by Chair
 
@@ -207,12 +207,12 @@ and in paragraph (b) above “**the permitted time**” means the period of seve
 
 (2) Where this paragraph applies—
 
-- (a) paragraphs 14 and 15 above shall have effect with the substitution for references to the Deputy Mayor of references to the Chair of the Assembly (but see sub-paragraph (2A) below) *(Extent: E+W)*[^key-93057b4d7c8dc0ed04fc55ffe2580899] ; and
+- (a) paragraphs 14 and 15 above shall have effect with the substitution for references to the Deputy Mayor of references to the Chair of the Assembly (but see sub-paragraph (2A) below) *(Extent: E+W)*[^c-93057b4d7c8dc0ed04fc55ffe2580899] ; and
 - (b) paragraph 17 above shall be disregarded, but without prejudice to any action taken under paragraph (a) or (b), or required to be taken under paragraph (b), of that paragraph.
 
 *Extent: E+W*
 
-(2A)[^key-c1c7654597de1e8aa632b3c4c29d4ad2] The Chair of the Assembly shall not by virtue of sub-paragraph (2)(a) above exercise any functions of the Mayor under Schedule 6 or 7 to this Act.
+(2A)[^c-c1c7654597de1e8aa632b3c4c29d4ad2] The Chair of the Assembly shall not by virtue of sub-paragraph (2)(a) above exercise any functions of the Mayor under Schedule 6 or 7 to this Act.
 
 (3) If and so long as functions are exercisable by virtue of paragraph 14 above by the Chair of the Assembly, he shall not exercise any of the other functions of Chair of the Assembly.
 
@@ -230,16 +230,16 @@ and in paragraph (b) above “**the permitted time**” means the period of seve
 
 [^c12809761]: Commencement: Sch. 4 para. 8 wholly in force at 8.5.2000; Sch. 4 para. 8 in force at Royal Assent for certain purposes see s.425(2); Sch. 4 para. 8 in force (8.5.2000) in so far as not already in force by [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/2)
 
-[^key-15df71f0c1b353c9e48cb301500cc7dd]: Textual amendment: Sch. 4 para. 9 omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 59(a)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/59/a); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-15df71f0c1b353c9e48cb301500cc7dd]: Textual amendment: Sch. 4 para. 9 omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 59(a)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/59/a); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
 [^c12809771]: Textual amendment: Words in Sch. 4 para. 12(1) substituted (27.5.2000) by [S.I. 2000/1435](https://www.legislation.gov.uk/uksi/2000/1435), [art. 2](https://www.legislation.gov.uk/uksi/2000/1435/article/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2000/1435/schedule/1/paragraph/10)
 
-[^key-fec79a9d2fa6960602420e4c08bec8a0]: Textual amendment: Sch. 4 para. 15(1)(a) repealed (E.W.) (30.10.2007) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/16/2), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2); [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 2(b)(c)](https://www.legislation.gov.uk/uksi/2007/3107/article/2/b/c)
+[^c-fec79a9d2fa6960602420e4c08bec8a0]: Textual amendment: Sch. 4 para. 15(1)(a) repealed (E.W.) (30.10.2007) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/16/2), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2); [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 2(b)(c)](https://www.legislation.gov.uk/uksi/2007/3107/article/2/b/c)
 
-[^key-bd43120df8596c58a5a1bc0dc30c604d]: Textual amendment: Sch. 4 para. 16 substituted (E.W.) (30.10.2007) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/16/3), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3107/article/2/b)
+[^c-bd43120df8596c58a5a1bc0dc30c604d]: Textual amendment: Sch. 4 para. 16 substituted (E.W.) (30.10.2007) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/16/3), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3107/article/2/b)
 
-[^key-c3cd82ad90a61e723b2f21063edfb312]: Textual amendment: Sch. 4 para. 17 omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 59(b)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/59/b); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-c3cd82ad90a61e723b2f21063edfb312]: Textual amendment: Sch. 4 para. 17 omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 59(b)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/59/b); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-93057b4d7c8dc0ed04fc55ffe2580899]: Textual amendment: Words in Sch. 4 para. 18(2)(a) inserted (E.W.) (30.10.2007) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 16(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/16/5), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3107/article/2/b)
+[^c-93057b4d7c8dc0ed04fc55ffe2580899]: Textual amendment: Words in Sch. 4 para. 18(2)(a) inserted (E.W.) (30.10.2007) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 16(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/16/5), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3107/article/2/b)
 
-[^key-c1c7654597de1e8aa632b3c4c29d4ad2]: Textual amendment: Sch. 4 para. 18(2A) inserted (E.W.) (30.10.2007) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 16(6)](https://www.legislation.gov.uk/ukpga/2007/24/section/16/6), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3107/article/2/b)
+[^c-c1c7654597de1e8aa632b3c4c29d4ad2]: Textual amendment: Sch. 4 para. 18(2A) inserted (E.W.) (30.10.2007) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 16(6)](https://www.legislation.gov.uk/ukpga/2007/24/section/16/6), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2007/3107](https://www.legislation.gov.uk/uksi/2007/3107), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3107/article/2/b)

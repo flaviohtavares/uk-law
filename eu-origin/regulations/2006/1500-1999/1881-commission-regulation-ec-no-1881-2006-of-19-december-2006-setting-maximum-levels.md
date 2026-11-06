@@ -344,9 +344,9 @@ HAS ADOPTED THIS REGULATION:
 
 If the food business operator does not provide the necessary concentration or dilution factor or if the competent authority deems that factor inappropriate in view of the justification given, the authority shall itself define that factor, based on the available information and with the objective of maximum protection of human health.
 
-3. Paragraphs 1 and 2 shall apply in so far as no specific [^key-625115b2a3cb1ee4ef1b58ed91f52fb4]... maximum levels are fixed for these dried, diluted, processed or compound foodstuffs.
+3. Paragraphs 1 and 2 shall apply in so far as no specific [^c-625115b2a3cb1ee4ef1b58ed91f52fb4]... maximum levels are fixed for these dried, diluted, processed or compound foodstuffs.
 
-4.[^key-f24a9787b8ece630c7f15c2d073cd4fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-f24a9787b8ece630c7f15c2d073cd4fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 3. Prohibitions on use, mixing and detoxification
 
@@ -387,19 +387,19 @@ Unless lettuce grown under cover (protected lettuce) is labelled as such, maximu
 
 3.[^c000003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-4.[^key-6ed3670a8966a98f85c57802216ebf46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-6ed3670a8966a98f85c57802216ebf46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-5.[^key-6ed3670a8966a98f85c57802216ebf46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-6ed3670a8966a98f85c57802216ebf46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-6.[^key-6ed3670a8966a98f85c57802216ebf46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.[^c-6ed3670a8966a98f85c57802216ebf46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-7.[^key-6ed3670a8966a98f85c57802216ebf46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.[^c-6ed3670a8966a98f85c57802216ebf46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 8. Sampling and analysis
 
 The sampling and the analysis for the official control of the maximum levels specified in the Annex shall be performed in accordance with Commission Regulations (EC) No 1882/2006[^f00038], No 401/2006[^f00039], No 1883/2006[^f00040] and Commission Directives 2001/22/EC[^f00041], 2004/16/EC[^f00042] and 2005/10/EC[^f00043].
 
-## Article 9. Monitoring and reporting[^key-cb4a14b00c4bd6645cfda4232b47a266]
+## Article 9. Monitoring and reporting[^c-cb4a14b00c4bd6645cfda4232b47a266]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -428,7 +428,7 @@ This Regulation shall enter into force on the 20th day following its publication
 
 It shall apply from 1 March 2007.
 
-[^key-5be0b8a6881907c399cea2dfbd1fd098]...
+[^c-5be0b8a6881907c399cea2dfbd1fd098]...
 
 ## ANNEX
 
@@ -949,9 +949,9 @@ Maximum levels for certain contaminants in foodstuffs[^f00061]
 
 [^f00037]: Footnote: Reports on tasks for scientific co-operation, Task 3.2.12 ‘Collection of occurrence data on polycyclic aromatic hydrocarbons in food’. http://ec.europa.eu/food/food/chemicalsafety/contaminants/scoop\_3-2-12\_final\_report\_pah\_en.pdf
 
-[^key-625115b2a3cb1ee4ef1b58ed91f52fb4]: Textual amendment: Word in [Art. 2(3)](https://www.legislation.gov.uk/eur/2006/1881/article/2/3) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2019/639/regulation/19/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-625115b2a3cb1ee4ef1b58ed91f52fb4]: Textual amendment: Word in [Art. 2(3)](https://www.legislation.gov.uk/eur/2006/1881/article/2/3) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [19(a)](https://www.legislation.gov.uk/uksi/2019/639/regulation/19/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f24a9787b8ece630c7f15c2d073cd4fa]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/eur/2006/1881/article/2/4) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [19(b)](https://www.legislation.gov.uk/uksi/2019/639/regulation/19/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f24a9787b8ece630c7f15c2d073cd4fa]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/eur/2006/1881/article/2/4) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [19(b)](https://www.legislation.gov.uk/uksi/2019/639/regulation/19/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) No 165/2010 of 26 February 2010 amending Regulation (EC) No 1881/2006 setting maximum levels for certain contaminants in foodstuffs as regards aflatoxins (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2010/165).
 
@@ -959,7 +959,7 @@ Maximum levels for certain contaminants in foodstuffs[^f00061]
 
 [^c000003]: Textual amendment: Deleted by [Commission Regulation (EU) No 1258/2011 of 2 December 2011 amending Regulation (EC) No 1881/2006 as regards maximum levels for nitrates in foodstuffs (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2011/1258).
 
-[^key-6ed3670a8966a98f85c57802216ebf46]: Textual amendment: [Art. 7(4)-(7)](https://www.legislation.gov.uk/eur/2006/1881/article/7/4) omitted (31.12.2020) by virtue of [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 20](https://www.legislation.gov.uk/uksi/2019/639/regulation/20) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(7)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/7))
+[^c-6ed3670a8966a98f85c57802216ebf46]: Textual amendment: [Art. 7(4)-(7)](https://www.legislation.gov.uk/eur/2006/1881/article/7/4) omitted (31.12.2020) by virtue of [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 20](https://www.legislation.gov.uk/uksi/2019/639/regulation/20) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(7)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/7))
 
 [^f00038]: Footnote: See page 25 of this Official Journal.
 
@@ -973,7 +973,7 @@ Maximum levels for certain contaminants in foodstuffs[^f00061]
 
 [^f00043]: Footnote: [OJ L 34, 8.2.2005, p. 15](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.034.01.0015.01.ENG).
 
-[^key-cb4a14b00c4bd6645cfda4232b47a266]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/2006/1881/article/9) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [23](https://www.legislation.gov.uk/uksi/2019/639/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb4a14b00c4bd6645cfda4232b47a266]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/2006/1881/article/9) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [23](https://www.legislation.gov.uk/uksi/2019/639/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000007]: Textual amendment: Substituted by [Commission Regulation (EU) No 594/2012 of 5 July 2012 amending Regulation (EC) 1881/2006 as regards the maximum levels of the contaminants ochratoxin A, non dioxin-like PCBs and melamine in foodstuffs (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2012/594).
 
@@ -981,7 +981,7 @@ Maximum levels for certain contaminants in foodstuffs[^f00061]
 
 [^c000009]: Textual amendment: Inserted by [Commission Regulation (EU) No 594/2012 of 5 July 2012 amending Regulation (EC) 1881/2006 as regards the maximum levels of the contaminants ochratoxin A, non dioxin-like PCBs and melamine in foodstuffs (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2012/594).
 
-[^key-5be0b8a6881907c399cea2dfbd1fd098]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2006/1881/signature) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [24](https://www.legislation.gov.uk/uksi/2019/639/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5be0b8a6881907c399cea2dfbd1fd098]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2006/1881/signature) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [24](https://www.legislation.gov.uk/uksi/2019/639/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00061]: Footnote: As regards fruits, vegetables and cereals, reference is made to the foodstuffs listed in the relevant category as defined in Regulation (EC) No 396/2005 of the European Parliament and of the Council of 23 February 2005 on maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Council Directive 91/414/EEC ([OJ L 70, 16.3.2005, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.070.01.0001.01.ENG)) as last amended by Regulation (EC) No 178/2006 ([OJ L 29, 2.2.2006, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.029.01.0003.01.ENG)). This means, *inter alia*, that buckwheat (*Fagopyrum* sp) is included in ‘cereals’ and buckwheat products are included in ‘cereal products’. Tree nuts are not covered by the maximum level for fruit.[^c000017]
 

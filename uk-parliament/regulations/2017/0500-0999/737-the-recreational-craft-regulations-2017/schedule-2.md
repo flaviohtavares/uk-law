@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — (Annex II of the Directive) — COMPONENTS OF WATERCRAFT[^key-d55aca442ed06da3038ab26f5959bdac]
+## SCHEDULE 2 — (Annex II of the Directive) — COMPONENTS OF WATERCRAFT[^c-d55aca442ed06da3038ab26f5959bdac]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ Regulation 2(1)
 
 ## Annotations
 
-[^key-d55aca442ed06da3038ab26f5959bdac]: Commencement: Sch. 2 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-d55aca442ed06da3038ab26f5959bdac]: Commencement: Sch. 2 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Certification of plans, etc.[^key-fa9b69b757288c72870245682048759b]
+## 50. Certification of plans, etc.[^c-fa9b69b757288c72870245682048759b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Authority must, as soon as practicable after the making of this Order, submi
 
 ## Annotations
 
-[^key-fa9b69b757288c72870245682048759b]: Commencement: Art. 50 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-fa9b69b757288c72870245682048759b]: Commencement: Art. 50 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

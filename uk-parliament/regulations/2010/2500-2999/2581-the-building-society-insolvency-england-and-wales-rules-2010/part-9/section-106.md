@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Primacy of Objective 1[^key-4d15b5059a9b306c38bf48f2e92c9565]
+## 106. Primacy of Objective 1[^c-4d15b5059a9b306c38bf48f2e92c9565]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing done under a rule in this Chapter may prejudice the achievement of Objec
 
 ## Annotations
 
-[^key-4d15b5059a9b306c38bf48f2e92c9565]: Commencement: Rule 106 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-4d15b5059a9b306c38bf48f2e92c9565]: Commencement: Rule 106 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

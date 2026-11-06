@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 3.3. Undertaking matters in List B without a faculty[^key-bab65e84515485deaf81aa3110a98cde]
+## 3.3. Undertaking matters in List B without a faculty[^c-bab65e84515485deaf81aa3110a98cde]
 
 *Extent: E*
 
@@ -27,7 +27,7 @@ summary: ''
   - (i) any conditions that are specified in relation to that matter in the corresponding place in the second column of Table 2; and
   - (ii) any additional conditions imposed by the archdeacon under paragraph (2)(b).
 
-(1A)[^key-9c00ec2fd11afe1b9695615b938f45d6] If the proposal involves a matter to which net zero guidance applies, the proposal must include an explanation of how the applicants, in formulating the proposal, have had due regard to that guidance.
+(1A)[^c-9c00ec2fd11afe1b9695615b938f45d6] If the proposal involves a matter to which net zero guidance applies, the proposal must include an explanation of how the applicants, in formulating the proposal, have had due regard to that guidance.
 
 (2) Where the archdeacon is consulted under paragraph (1)(a) on the proposal to undertake a matter, the archdeacon—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bab65e84515485deaf81aa3110a98cde]: Commencement: [Rule 3.3](https://www.legislation.gov.uk/uksi/2015/1568/article/3.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-bab65e84515485deaf81aa3110a98cde]: Commencement: [Rule 3.3](https://www.legislation.gov.uk/uksi/2015/1568/article/3.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
 
-[^key-9c00ec2fd11afe1b9695615b938f45d6]: Textual amendment: [Rule 3.3(1A)](https://www.legislation.gov.uk/uksi/2015/1568/rule/3.3/1A) inserted (1.7.2022) by [The Faculty Jurisdiction (Amendment) Rules 2022 (S.I. 2022/155)](https://www.legislation.gov.uk/uksi/2022/155), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/155/rule/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/155/rule/2/2) (with [rule 6(1)](https://www.legislation.gov.uk/uksi/2022/155/rule/6/1))
+[^c-9c00ec2fd11afe1b9695615b938f45d6]: Textual amendment: [Rule 3.3(1A)](https://www.legislation.gov.uk/uksi/2015/1568/rule/3.3/1A) inserted (1.7.2022) by [The Faculty Jurisdiction (Amendment) Rules 2022 (S.I. 2022/155)](https://www.legislation.gov.uk/uksi/2022/155), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/155/rule/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/155/rule/2/2) (with [rule 6(1)](https://www.legislation.gov.uk/uksi/2022/155/rule/6/1))

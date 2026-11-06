@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Survey of tidal works[^key-d9840299e1d11c0a214261608c25acf1]
+## 64. Survey of tidal works[^c-d9840299e1d11c0a214261608c25acf1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ If the Secretary of State considers it expedient to do so, the Secretary of Stat
 
 ## Annotations
 
-[^key-d9840299e1d11c0a214261608c25acf1]: Commencement: Art. 64 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-d9840299e1d11c0a214261608c25acf1]: Commencement: Art. 64 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

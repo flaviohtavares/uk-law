@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Arrangements on termination[^key-ca4681f24e19bd6bf8c0888b990d36c3]
+## 25. Arrangements on termination[^c-ca4681f24e19bd6bf8c0888b990d36c3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A contract shall make suitable provision for arrangements on termination of a co
 
 ## Annotations
 
-[^key-ca4681f24e19bd6bf8c0888b990d36c3]: Commencement: Reg. 25 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-ca4681f24e19bd6bf8c0888b990d36c3]: Commencement: Reg. 25 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

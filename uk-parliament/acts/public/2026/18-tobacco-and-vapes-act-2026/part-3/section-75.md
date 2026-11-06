@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Sale of unpackaged cigarettes[^key-6bfb32aee29bea298be6c1f921ca14cb]
+## 75. Sale of unpackaged cigarettes[^c-6bfb32aee29bea298be6c1f921ca14cb]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ After Article 4B of the Health and Personal Social Services (Northern Ireland) O
 
 ## Annotations
 
-[^key-6bfb32aee29bea298be6c1f921ca14cb]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2026/18/section/75) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-6bfb32aee29bea298be6c1f921ca14cb]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2026/18/section/75) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

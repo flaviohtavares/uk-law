@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Duty to have regard to public health advice[^key-db864c1b7ab6ba2bd650491b5fd310c3]
+## 6. Duty to have regard to public health advice[^c-db864c1b7ab6ba2bd650491b5fd310c3]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db864c1b7ab6ba2bd650491b5fd310c3]: Commencement: S. 6 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-db864c1b7ab6ba2bd650491b5fd310c3]: Commencement: S. 6 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

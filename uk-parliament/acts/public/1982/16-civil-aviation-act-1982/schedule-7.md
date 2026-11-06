@@ -48,7 +48,7 @@ a notice stating that the CAA or the licence holder[^c2546691] proposes to apply
 
 (2) In this paragraph “**the appropriate person**” means—
 
-- (a) the CAA in the case of an order under section 44 of this Act made in favour of the CAA [^key-77e8a33af4f2243c81273c273768ff9e]...; [^c2546701]. . .
+- (a) the CAA in the case of an order under section 44 of this Act made in favour of the CAA [^c-77e8a33af4f2243c81273c273768ff9e]...; [^c2546701]. . .
 - (aa)[^c2546711] the licence holder in the case of an order under section 44 of this Act made in favour of a licence holder;
 - (b) the Secretary of State in any other case.
 
@@ -109,7 +109,7 @@ a notice stating that the CAA or the licence holder[^c2546691] proposes to apply
 
 [^c2546691]: Textual amendment: Words in [Sch. 7 para. 1(2)](https://www.legislation.gov.uk/ukpga/1982/16/schedule/7/paragraph/1/2) substituted (1.4.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 36](https://www.legislation.gov.uk/ukpga/2000/38/section/36), [Sch. 4 para. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/4/paragraph/16/2/b) (with [s. 106](https://www.legislation.gov.uk/ukpga/2000/38/section/106)); [S.I. 2001/869](https://www.legislation.gov.uk/uksi/2001/869), [art. 2](https://www.legislation.gov.uk/uksi/2001/869/article/2)
 
-[^key-77e8a33af4f2243c81273c273768ff9e]: Textual amendment: Words in [Sch. 7 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/1982/16/schedule/7/paragraph/5/2/a) omitted (10.11.2011) by virtue of [The Airport Charges Regulations 2011 (S.I. 2011/2491)](https://www.legislation.gov.uk/uksi/2011/2491), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/1/1), [Sch. 2 para. 1(9)](https://www.legislation.gov.uk/uksi/2011/2491/schedule/2/paragraph/1/9)
+[^c-77e8a33af4f2243c81273c273768ff9e]: Textual amendment: Words in [Sch. 7 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/1982/16/schedule/7/paragraph/5/2/a) omitted (10.11.2011) by virtue of [The Airport Charges Regulations 2011 (S.I. 2011/2491)](https://www.legislation.gov.uk/uksi/2011/2491), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2491/regulation/1/1), [Sch. 2 para. 1(9)](https://www.legislation.gov.uk/uksi/2011/2491/schedule/2/paragraph/1/9)
 
 [^c2546701]: Textual amendment: Word in Sch. 7 para. 5(2)(a) repealed (1.4.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 274](https://www.legislation.gov.uk/ukpga/2000/38/section/274), [Sch. 31 Pt. I(4)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/31/part/I/4) (with [s. 106](https://www.legislation.gov.uk/ukpga/2000/38/section/106)); [S.I. 2001/869](https://www.legislation.gov.uk/uksi/2001/869), [art. 2](https://www.legislation.gov.uk/uksi/2001/869/article/2)
 

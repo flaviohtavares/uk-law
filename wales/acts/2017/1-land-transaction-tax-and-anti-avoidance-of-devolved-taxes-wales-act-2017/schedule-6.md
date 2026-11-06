@@ -26,7 +26,7 @@ summary: ''
 
 #### Overview
 
-**1.**[^key-33c28576f8c626fed97120530dedb649] (1) This Schedule makes provision about the application of this Act in relation to leases.
+**1.**[^c-33c28576f8c626fed97120530dedb649] (1) This Schedule makes provision about the application of this Act in relation to leases.
 
 (2) The Schedule is arranged as follows—
 
@@ -39,14 +39,14 @@ summary: ''
 
 #### Lease for a fixed term
 
-**2.**[^key-92892e698b14ef6ca0b6c6d3ecc1834f] In applying any provision of this Act to a lease for a fixed term no account is to be taken of—
+**2.**[^c-92892e698b14ef6ca0b6c6d3ecc1834f] In applying any provision of this Act to a lease for a fixed term no account is to be taken of—
 
 - (a) any contingency as a result of which the lease may be terminated before the end of the fixed term, or
 - (b) any right of either party to terminate the lease or renew it.
 
 #### Leases that continue after a fixed term
 
-**3.**[^key-b2f9eb4d4fe1e8a6a5e57906e68eacb6] (1) This paragraph applies to—
+**3.**[^c-b2f9eb4d4fe1e8a6a5e57906e68eacb6] (1) This paragraph applies to—
 
 - (a) a lease granted for a fixed term and thereafter until terminated, or
 - (b) a lease granted for a fixed term that may continue beyond the fixed term by operation of law.
@@ -79,7 +79,7 @@ the lease is to be treated as continuing under sub-paragraph (2) only until it t
 
 #### Leases that continue after a fixed term: grant of a new lease
 
-**4.**[^key-ee485a7b8396334233fd438cc3dcc6c3] (1) This paragraph applies where—
+**4.**[^c-ee485a7b8396334233fd438cc3dcc6c3] (1) This paragraph applies where—
 
 - (a) (ignoring this paragraph) paragraph 3 would apply to treat a lease (““the original lease””) as if it were a lease for a fixed term one year longer than the original fixed term,
 - (b) during that one year period the tenant under that lease is granted a new lease of the same or substantially the same premises,
@@ -96,7 +96,7 @@ the lease is to be treated as continuing under sub-paragraph (2) only until it t
 
 #### Leases for an indefinite term
 
-**5.**[^key-5d437e8f102429134e2a77c6fb88e31f] (1) For the purposes of this Act (except section 46 (notifiable transactions: exceptions))—
+**5.**[^c-5d437e8f102429134e2a77c6fb88e31f] (1) For the purposes of this Act (except section 46 (notifiable transactions: exceptions))—
 
 - (a) a lease for an indefinite term is treated in the first instance as if it were a lease for a fixed term of a year;
 - (b) if the lease continues after the end of the term resulting from the application of paragraph (a), it is treated as if it were a lease for a fixed term of 2 years;
@@ -133,7 +133,7 @@ the buyer may, within the period allowed for amendment of the return, amend it a
 
 #### Successive linked leases
 
-**6.**[^key-1b76beffa2c16908f71bd62878d8df6c] (1) For the purposes of this Act a series of linked leases are treated as a single lease—
+**6.**[^c-1b76beffa2c16908f71bd62878d8df6c] (1) For the purposes of this Act a series of linked leases are treated as a single lease—
 
 - (a) granted at the time of the grant of the first lease in the series,
 - (b) for a term equal to the aggregate of the terms of all the leases, and
@@ -148,7 +148,7 @@ the buyer may, within the period allowed for amendment of the return, amend it a
 
 #### Rent for overlap period in case of grant of further lease
 
-**7.**[^key-40d7e356e89706e02813ad5c13d15e3c][^key-944da4b59c34103b6431624b364f3bfa] (1) This paragraph applies where—
+**7.**[^c-40d7e356e89706e02813ad5c13d15e3c][^c-944da4b59c34103b6431624b364f3bfa] (1) This paragraph applies where—
 
 - (a) the tenant under a lease (““the old lease””) surrenders it to the landlord and in consideration of that surrender the landlord grants a lease to the tenant of the same or substantially the same premises (“**"the new lease”**”),
 - (b) the tenant under a lease (““the old lease””) of premises to which Part 2 of the Landlord and Tenant Act 1954 (c. 56) (security of tenure for business, professional and other tenants) applies, makes a request for a new tenancy (“**"the new lease”**”) which is then executed,
@@ -166,7 +166,7 @@ the buyer may, within the period allowed for amendment of the return, amend it a
 
 #### Tenant holding over: new lease backdated to previous year
 
-**8.**[^key-8e52e689fa23e7de2a4cf05ce52cf520][^key-5fec593efdb45a9b0a952bd01e570ef1] (1) This paragraph applies where—
+**8.**[^c-8e52e689fa23e7de2a4cf05ce52cf520][^c-5fec593efdb45a9b0a952bd01e570ef1] (1) This paragraph applies where—
 
 - (a) the tenant under a lease (““the old lease””) continues in occupation after the date on which, under its terms, the lease terminates (““the contractual termination date””),
 - (b) the tenant is granted a lease of the same or substantially the same premises (“**"the new lease”**”),
@@ -199,7 +199,7 @@ is treated for the purposes of this Act as reduced by the amount of taxable rent
 
 #### Rent
 
-**9.**[^key-98c3b28390c4cc9ff73b0cdeb6fae1e1] (1) For the purposes of this Act, a single sum expressed to be payable in respect of rent and other matters but not apportioned is to be treated as entirely rent.
+**9.**[^c-98c3b28390c4cc9ff73b0cdeb6fae1e1] (1) For the purposes of this Act, a single sum expressed to be payable in respect of rent and other matters but not apportioned is to be treated as entirely rent.
 
 (2) Sub-paragraph (1) is without prejudice to the application of paragraph 4 of Schedule 4 (chargeable consideration: just and reasonable apportionment) where separate sums are expressed to be payable in respect of rent and other matters.
 
@@ -207,7 +207,7 @@ is treated for the purposes of this Act as reduced by the amount of taxable rent
 
 #### Variable or uncertain rent
 
-**10.**[^key-c472a2ef494118030cc6210e1e1fefe4] (1) This paragraph applies where the amount of rent payable under a lease—
+**10.**[^c-c472a2ef494118030cc6210e1e1fefe4] (1) This paragraph applies where the amount of rent payable under a lease—
 
 - (a) varies in accordance with provision in the lease, or
 - (b) is contingent, uncertain or unascertained.
@@ -235,7 +235,7 @@ is treated for the purposes of this Act as reduced by the amount of taxable rent
 
 #### First rent review in final quarter of fifth year
 
-**11.**[^key-345476e5984ecf50040cc8a9bfcabd8b] Where—
+**11.**[^c-345476e5984ecf50040cc8a9bfcabd8b] Where—
 
 - (a) a lease contains provision under which the rent may be adjusted,
 - (b) under that provision the first (or only) such adjustment—
@@ -247,7 +247,7 @@ this Act applies as if references to the first 5 years of the term of the lease 
 
 #### Adjustment of tax where rent determined on reconsideration date
 
-**12.**[^key-25b35b4a0cf48f8a80202c7c49a4c70a] (1) Where, in the case of a land transaction relating to a lease—
+**12.**[^c-25b35b4a0cf48f8a80202c7c49a4c70a] (1) Where, in the case of a land transaction relating to a lease—
 
 - (a) section 19 or 20 (contingent, uncertain or unascertained consideration) applies to the land transaction by virtue of paragraph 10, and
 - (b) the reconsideration date is reached,
@@ -268,7 +268,7 @@ the buyer in the transaction must, on the reconsideration date, determine the re
 
 #### Underpayment of tax where rent determined on reconsideration date
 
-**13.**[^key-3b539b8eb80789f2d8044ca42f1d8862] (1) If, as a result of determining on the reconsideration date the rent paid or payable in respect of the first 5 years of the term of the lease—
+**13.**[^c-3b539b8eb80789f2d8044ca42f1d8862] (1) If, as a result of determining on the reconsideration date the rent paid or payable in respect of the first 5 years of the term of the lease—
 
 - (a) a land transaction becomes notifiable, or
 - (b) additional tax is payable in respect of a land transaction or tax is payable where none was payable,
@@ -285,7 +285,7 @@ the buyer must amend the return in accordance with section 41 of TCMA.
 
 #### Overpayment of tax where rent determined on reconsideration date
 
-**14.**[^key-6ffe7180e9be1629c3565110a5826881] (1) If, as a result of determining on the reconsideration date the rent paid or payable in respect of the first 5 years of the term of the lease, less tax is payable in respect of a land transaction than has already been paid—
+**14.**[^c-6ffe7180e9be1629c3565110a5826881] (1) If, as a result of determining on the reconsideration date the rent paid or payable in respect of the first 5 years of the term of the lease, less tax is payable in respect of a land transaction than has already been paid—
 
 - (a) the buyer may, within the period allowed for amendment of the return, amend it accordingly;
 - (b) after the end of that period, the buyer may (if the return is not so amended) make a claim for repayment of the amount overpaid in accordance with Chapter 7 of Part 3 of TCMA as modified by sub-paragraph (2).
@@ -301,7 +301,7 @@ the buyer must amend the return in accordance with section 41 of TCMA.
 
 #### Reverse premiums
 
-**15.**[^key-ab81d90d0a2d579bcc5b26e686ddbc2c] (1) In the case of the grant, assignment or surrender of a lease a reverse premium does not count as chargeable consideration.
+**15.**[^c-ab81d90d0a2d579bcc5b26e686ddbc2c] (1) In the case of the grant, assignment or surrender of a lease a reverse premium does not count as chargeable consideration.
 
 (2) A “**"reverse premium”**” means—
 
@@ -311,7 +311,7 @@ the buyer must amend the return in accordance with section 41 of TCMA.
 
 #### Tenants' obligations etc. that do not count as chargeable consideration
 
-**16.**[^key-0813476c1293aa5fc2169170555bf761] (1) In the case of a grant of a lease none of the following counts as chargeable consideration —
+**16.**[^c-0813476c1293aa5fc2169170555bf761] (1) In the case of a grant of a lease none of the following counts as chargeable consideration —
 
 - (a) any undertaking by the tenant to repair, maintain or insure the leased premises;
 - (b) any undertaking by the tenant to pay any amount in respect of services, repairs, maintenance or insurance or the landlord's costs of management;
@@ -320,7 +320,7 @@ the buyer must amend the return in accordance with section 41 of TCMA.
 - (e) any penal rent, or increased rent in the nature of a penal rent, payable in respect of the breach of any obligation of the tenant under the lease;
 - (f) any liability of the tenant for costs under section 14(2) of the Leasehold Reform Act 1967 (c. 88) or section 60 of the Leasehold Reform, Housing and Urban Development Act 1993 (c. 28) (costs to be borne by person exercising statutory rights to be granted lease);
 - (g) any other obligation of the tenant to bear the landlord's reasonable costs or expenses of, or incidental to, the grant of the lease;
-- (h) any obligation under the lease to transfer to the landlord, on the termination of the lease, payment entitlements granted to the tenant under the basic payment scheme (that is, the scheme of income support for farmers in pursuance of Regulation ([^key-fd9d5c2a5450a687a1339c70d2b0df9e]EU) No 1307/2013) in respect of land subject to the lease.
+- (h) any obligation under the lease to transfer to the landlord, on the termination of the lease, payment entitlements granted to the tenant under the basic payment scheme (that is, the scheme of income support for farmers in pursuance of Regulation ([^c-fd9d5c2a5450a687a1339c70d2b0df9e]EU) No 1307/2013) in respect of land subject to the lease.
 
 (2) Where sub-paragraph (1) applies in relation to an obligation, a payment made in discharge of the obligation does not count as chargeable consideration.
 
@@ -328,7 +328,7 @@ the buyer must amend the return in accordance with section 41 of TCMA.
 
 #### Surrender of existing lease in return for new lease
 
-**17.**[^key-bb54833ebc70eb79006fd55d85de4dee] (1) Where a lease is granted in consideration of the surrender of an existing lease between the same parties—
+**17.**[^c-bb54833ebc70eb79006fd55d85de4dee] (1) Where a lease is granted in consideration of the surrender of an existing lease between the same parties—
 
 - (a) the grant of the new lease does not count as chargeable consideration for the surrender, and
 - (b) the surrender does not count as chargeable consideration for the grant of the new lease.
@@ -337,7 +337,7 @@ the buyer must amend the return in accordance with section 41 of TCMA.
 
 #### Assignment of lease: assumption of obligations by assignee
 
-**18.**[^key-2bf960bc4d6316009400d23692b2f41e] In the case of an assignment of a lease the assumption by the assignee of the obligation—
+**18.**[^c-2bf960bc4d6316009400d23692b2f41e] In the case of an assignment of a lease the assumption by the assignee of the obligation—
 
 - (a) to pay rent, or
 - (b) to perform or observe any other undertaking of the tenant under the lease,
@@ -346,7 +346,7 @@ does not count as chargeable consideration for the assignment.
 
 #### Loan or deposit in connection with grant or assignment of lease
 
-**19.**[^key-7cf8bf865745e9f036f4ec68db2550d8] (1) Where, under arrangements made in connection with the grant of a lease—
+**19.**[^c-7cf8bf865745e9f036f4ec68db2550d8] (1) Where, under arrangements made in connection with the grant of a lease—
 
 - (a) the tenant, or any person connected with or acting on behalf of the tenant, pays a deposit, or makes a loan, to any person, and
 - (b) the repayment of all or part of the deposit or loan is contingent on anything done or omitted to be done by the tenant, or on the death of the tenant,
@@ -378,7 +378,7 @@ the amount of the deposit or loan (disregarding any repayment) is to be taken fo
 
 #### Agreement for lease
 
-**20.**[^key-c288095b5538b63016a3d34df518fd88] (1) Where—
+**20.**[^c-c288095b5538b63016a3d34df518fd88] (1) Where—
 
 - (a) an agreement for a lease is entered into, and
 - (b) the agreement is substantially performed without having been completed,
@@ -415,7 +415,7 @@ the tax paid by virtue of that sub-paragraph must (to that extent) be repaid by 
 
 #### Assignment of agreement for lease
 
-**21.**[^key-bf299eb61b7091fdb7529d868685ef1a] (1) This paragraph applies where a person (““P””) assigns P's interest as tenant under an agreement for lease.
+**21.**[^c-bf299eb61b7091fdb7529d868685ef1a] (1) This paragraph applies where a person (““P””) assigns P's interest as tenant under an agreement for lease.
 
 (2) Where this paragraph applies Schedule 2 (transactions entered into before completion of contract) does not apply.
 
@@ -433,7 +433,7 @@ the tax paid by virtue of that sub-paragraph must (to that extent) be repaid by 
 
 #### Cases where assignment of lease treated as grant of lease
 
-**22.**[^key-fe1102e2974c58626c4ee887e3c02422][^key-a09b80f7ff788351932cf0eea08e262d] (1) This paragraph applies where the grant of a lease is relieved from tax by virtue of any of the provisions specified in sub-paragraph (4).
+**22.**[^c-fe1102e2974c58626c4ee887e3c02422][^c-a09b80f7ff788351932cf0eea08e262d] (1) This paragraph applies where the grant of a lease is relieved from tax by virtue of any of the provisions specified in sub-paragraph (4).
 
 (2) The first assignment of the lease that is not relieved from tax by virtue of any of the provisions specified in sub-paragraph (4), and in relation to which the assignee does not acquire the lease as a bare trustee of the assignor, is treated for the purposes of this Act as if it were the grant of a lease by the assignor—
 
@@ -450,22 +450,22 @@ the tax paid by virtue of that sub-paragraph must (to that extent) be repaid by 
 - (d) Schedule 17 (reconstruction and acquisition relief);
 - (e) Schedule 18 (charities relief);
 - (f) paragraph 1 of Schedule 20 (relief for certain acquisitions involving public bodies);
-- (g)[^key-bbd0d0b6a5ee5440c61d03f7d6a9a6ec] Schedule 21A (relief for special tax sites).
+- (g)[^c-bbd0d0b6a5ee5440c61d03f7d6a9a6ec] Schedule 21A (relief for special tax sites).
 
-(5) This paragraph does not apply where the relief in question is group relief, reconstruction or acquisition relief , charities relief or relief for special tax sites[^key-b6027d1ef501f78834cf57e65c99be62] and is withdrawn as a result of a disqualifying event occurring before the effective date of the assignment.
+(5) This paragraph does not apply where the relief in question is group relief, reconstruction or acquisition relief , charities relief or relief for special tax sites[^c-b6027d1ef501f78834cf57e65c99be62] and is withdrawn as a result of a disqualifying event occurring before the effective date of the assignment.
 
 (6) For the purposes of sub-paragraph (5), “**"disqualifying event”**” means—
 
 - (a) in relation to the withdrawal of group relief, the event falling within paragraph 8(2)(a) of Schedule 16 (buyer ceasing to be a member of the same group as the seller) as read with paragraph 9 of that Schedule;
 - (b) in relation to the withdrawal of reconstruction or acquisition relief, the change of control of the acquiring company mentioned in paragraph 5(2) of Schedule 17 or, as the case may be, the event mentioned in paragraph 7(2) or (3) of that Schedule;
 - (c) in relation to the withdrawal of charities relief, a disqualifying event as defined in paragraph 2(4) or 5(2)(b) of Schedule 18;
-- (d)[^key-436fb16b52e6fbe7f8da181116138b5a] in relation to the withdrawal of relief for special tax sites under Schedule 21A, the last day in the control period on which the qualifying land ceases to be used exclusively in a qualifying manner in circumstances where the exceptions in sub-paragraphs (3), (4) and (5) of paragraph 10 of that Schedule do not apply.
+- (d)[^c-436fb16b52e6fbe7f8da181116138b5a] in relation to the withdrawal of relief for special tax sites under Schedule 21A, the last day in the control period on which the qualifying land ceases to be used exclusively in a qualifying manner in circumstances where the exceptions in sub-paragraphs (3), (4) and (5) of paragraph 10 of that Schedule do not apply.
 
-(7)[^key-26f142cfc254fdfde6ebb1b7876ca76c] In sub-paragraph (6)(d), “control period”, “qualifying land” and “qualifying manner” are to be interpreted in accordance with Schedule 21A.
+(7)[^c-26f142cfc254fdfde6ebb1b7876ca76c] In sub-paragraph (6)(d), “control period”, “qualifying land” and “qualifying manner” are to be interpreted in accordance with Schedule 21A.
 
 #### Assignment of lease
 
-**23.**[^key-db384da6ceef5d1a775adb789523eea6] (1) Where a lease is assigned, anything that but for the assignment would be required or authorised to be done by or in relation to the assignor under or by virtue of—
+**23.**[^c-db384da6ceef5d1a775adb789523eea6] (1) Where a lease is assigned, anything that but for the assignment would be required or authorised to be done by or in relation to the assignor under or by virtue of—
 
 - (a) section 47 (contingency ceases and consideration is ascertained: duty to make return),
 - (b) section 51 (return or further return in consequence of later linked transaction),
@@ -480,7 +480,7 @@ must, if the event giving rise to the adjustment or return occurs after the effe
 
 #### Reduction of rent or term or other variation of lease
 
-**24.**[^key-0b4051d510feb0b58b7fc24369b9c01e] (1) Where a lease is varied so as to reduce the amount of the rent, the variation is treated for the purposes of this Act as an acquisition of a chargeable interest by the tenant.
+**24.**[^c-0b4051d510feb0b58b7fc24369b9c01e] (1) Where a lease is varied so as to reduce the amount of the rent, the variation is treated for the purposes of this Act as an acquisition of a chargeable interest by the tenant.
 
 (2) Where any consideration in money or money's worth (other than an increase in rent) is given by the tenant for any variation of a lease, other than a variation of the amount of the rent or of the term of the lease, the variation is treated for the purposes of this Act as an acquisition of a chargeable interest by the tenant.
 
@@ -488,7 +488,7 @@ must, if the event giving rise to the adjustment or return occurs after the effe
 
 #### Increase of rent treated as grant of new lease: variation of lease in first 5 years
 
-**25.**[^key-5ce8454c2c0914644aa3ea112769c538][^key-40820d4552fe775c3350ab83c77d99f9] (1) Where a lease is varied so as to increase the amount of rent as from a date before the end of the fifth year of the term of the lease, the variation is treated for the purposes of this Act as if it were the grant of a lease in consideration of the additional rent made payable by it.
+**25.**[^c-5ce8454c2c0914644aa3ea112769c538][^c-40820d4552fe775c3350ab83c77d99f9] (1) Where a lease is varied so as to increase the amount of rent as from a date before the end of the fifth year of the term of the lease, the variation is treated for the purposes of this Act as if it were the grant of a lease in consideration of the additional rent made payable by it.
 
 (2) Sub-paragraph (1) does not apply to an increase of rent in pursuance of—
 
@@ -499,7 +499,7 @@ must, if the event giving rise to the adjustment or return occurs after the effe
 
 #### Residential leases, non-residential leases and mixed leases
 
-**26.**[^key-0d49fce90fac64cd8bf1ca17465fe76d] For the purposes of this Part of this Schedule, a transaction is—
+**26.**[^c-0d49fce90fac64cd8bf1ca17465fe76d] For the purposes of this Part of this Schedule, a transaction is—
 
 - (a) an acquisition of a residential lease if—
   - (i) it is the acquisition of a lease or other chargeable interest relating to a lease, the main subject-matter of which consists entirely of residential property, or
@@ -513,7 +513,7 @@ must, if the event giving rise to the adjustment or return occurs after the effe
 
 #### No tax chargeable in respect of rent: residential leases
 
-**27.**[^key-096531c913e14b534292932a11a74617] (1) In the case of an acquisition of a residential lease, no tax is chargeable in respect of so much of the chargeable consideration as consists of rent.
+**27.**[^c-096531c913e14b534292932a11a74617] (1) In the case of an acquisition of a residential lease, no tax is chargeable in respect of so much of the chargeable consideration as consists of rent.
 
 (2) The Welsh Ministers may by regulations amend this paragraph so as to substitute sub-paragraph (1) with a calculation of tax chargeable in respect of so much of the chargeable consideration as consists of rent in the case of an acquisition of a residential lease.
 
@@ -538,7 +538,7 @@ must, if the event giving rise to the adjustment or return occurs after the effe
 
 #### Tax rates and bands: rent element of non-residential and mixed leases
 
-**28.**[^key-dfd01c2a5189deabe91222eb734da594] (1) The Welsh Ministers must by regulations specify the tax bands and the percentage tax rates for each band applicable to chargeable consideration which consists of rent in cases of the acquisition of a non-residential lease or mixed lease.
+**28.**[^c-dfd01c2a5189deabe91222eb734da594] (1) The Welsh Ministers must by regulations specify the tax bands and the percentage tax rates for each band applicable to chargeable consideration which consists of rent in cases of the acquisition of a non-residential lease or mixed lease.
 
 (2) Regulations under sub-paragraph (1) must specify—
 
@@ -554,7 +554,7 @@ must, if the event giving rise to the adjustment or return occurs after the effe
 
 #### Calculation of tax chargeable in respect of rent: non-residential and mixed leases
 
-**29.**[^key-67004c2a75a8d0f437b65f57e736fe3b] In the case of the acquisition of a non-residential lease or mixed lease, the amount of tax chargeable on so much of the chargeable consideration as consists of rent is to be calculated as follows (unless paragraph 30 (linked transactions) applies).
+**29.**[^c-67004c2a75a8d0f437b65f57e736fe3b] In the case of the acquisition of a non-residential lease or mixed lease, the amount of tax chargeable on so much of the chargeable consideration as consists of rent is to be calculated as follows (unless paragraph 30 (linked transactions) applies).
 
 - *Step 1* Calculate the net present value (the ““NPV””) of the rent payable over the term of the lease (see paragraph 31).
 - *Step 2* For each tax band applicable to the acquisition, multiply so much of the NPV as falls within the band by the tax rate for that band.
@@ -562,7 +562,7 @@ must, if the event giving rise to the adjustment or return occurs after the effe
 
 #### Calculation of tax chargeable in respect of rent: linked transactions
 
-**30.**[^key-c0b4b54074a8d0dd9c57caaf227cbd54] Where the acquisition of a non-residential lease or mixed lease is one of a number of linked transactions for which the chargeable consideration consists of or includes rent, the amount of tax chargeable in respect of the rent is to be calculated as follows.
+**30.**[^c-c0b4b54074a8d0dd9c57caaf227cbd54] Where the acquisition of a non-residential lease or mixed lease is one of a number of linked transactions for which the chargeable consideration consists of or includes rent, the amount of tax chargeable in respect of the rent is to be calculated as follows.
 
 - *Step 1* Calculate the total of the net present values (the ““TNPV””) of the rent payable over the terms of all the linked leases (see paragraph 31).
 - *Step 2* For each tax band applicable to the acquisition, multiply so much of the TNPV as falls within the band by the tax rate for that band.
@@ -572,7 +572,7 @@ must, if the event giving rise to the adjustment or return occurs after the effe
 
 #### Net present value
 
-**31.**[^key-bdf46dd1f4a5d36a09abeb6a84435959] The NPV of the rent payable over the term of a lease is calculated by applying the following formula—
+**31.**[^c-bdf46dd1f4a5d36a09abeb6a84435959] The NPV of the rent payable over the term of a lease is calculated by applying the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/anaw/2017/1)
 
@@ -588,17 +588,17 @@ T is the temporal discount rate (see paragraph 32).
 
 #### Temporal discount rate
 
-**32.**[^key-fe33dbf3fa4e5372f7b35d1d51895d94] For the purposes of paragraph 31 the ““temporal discount rate”” is 3.5% or such other rate as the Welsh Ministers may by regulations specify.
+**32.**[^c-fe33dbf3fa4e5372f7b35d1d51895d94] For the purposes of paragraph 31 the ““temporal discount rate”” is 3.5% or such other rate as the Welsh Ministers may by regulations specify.
 
 #### Tax chargeable in respect of consideration other than rent: general
 
-**33.**[^key-5bf924198d40f0e90a204190a1620f5b] (1) Where in the case of an acquisition of a lease there is chargeable consideration other than rent, the provisions of this Act apply in relation to that consideration as in relation to other chargeable consideration (but see paragraphs 34 and 35).
+**33.**[^c-5bf924198d40f0e90a204190a1620f5b] (1) Where in the case of an acquisition of a lease there is chargeable consideration other than rent, the provisions of this Act apply in relation to that consideration as in relation to other chargeable consideration (but see paragraphs 34 and 35).
 
 (2) Tax chargeable under this Part of this Schedule in respect of rent is in addition to any tax chargeable under any provision of this Act in respect of consideration other than rent.
 
 #### Tax chargeable in respect of consideration other than rent: no zero rate band for non-residential leases
 
-**34.**[^key-2cbf8a1526bfbab2c69484e7863672cf] (1) This paragraph applies in the case of an acquisition of a non-residential lease where—
+**34.**[^c-2cbf8a1526bfbab2c69484e7863672cf] (1) This paragraph applies in the case of an acquisition of a non-residential lease where—
 
 - (a) there is chargeable consideration other than rent, and
 - (b) section 27 (amount of tax chargeable: transactions which are not linked) or 28 (amount of tax chargeable: linked transactions) applies to the acquisition.
@@ -607,7 +607,7 @@ T is the temporal discount rate (see paragraph 32).
 
 #### Tax chargeable in respect of consideration other than rent: mixed leases
 
-**35.**[^key-ab10d2b62fce988e273c3f45e6ec88e4] (1) This paragraph applies in the case of an acquisition of a mixed lease where—
+**35.**[^c-ab10d2b62fce988e273c3f45e6ec88e4] (1) This paragraph applies in the case of an acquisition of a mixed lease where—
 
 - (a) there is chargeable consideration other than rent, and
 - (b) the relevant rent attributable, on a just and reasonable apportionment, to the land which is not residential property is at least the specified amount.
@@ -623,12 +623,12 @@ T is the temporal discount rate (see paragraph 32).
 
 **36.** (1) In paragraphs 34 and 35—
 
-- (a)[^key-2ac5bc4005788dad566338966d99c192] “**"the relevant rent”**” means—
+- (a)[^c-2ac5bc4005788dad566338966d99c192] “**"the relevant rent”**” means—
   - (i) the annual rent in relation to the transaction in question, or
   - (ii) if that transaction is one of a number of linked transactions for which the chargeable consideration consists of or includes rent, the total of the annual rents in relation to all of those transactions;
-- (b)[^key-92829240296b23dc3939993c71e3d89a][^key-d5e8f633a1ef3af4e86b7a2ca1438d5d] “**"the specified amount”**” means an amount of relevant rent specified by the Welsh Ministers by regulations.
+- (b)[^c-92829240296b23dc3939993c71e3d89a][^c-d5e8f633a1ef3af4e86b7a2ca1438d5d] “**"the specified amount”**” means an amount of relevant rent specified by the Welsh Ministers by regulations.
 
-(2)[^key-2ac5bc4005788dad566338966d99c192] In sub-paragraph (1)(a) “**"the annual rent”**” means—
+(2)[^c-2ac5bc4005788dad566338966d99c192] In sub-paragraph (1)(a) “**"the annual rent”**” means—
 
 - (a) the average annual rent over the term of the lease, or
 - (b) if—
@@ -639,102 +639,102 @@ T is the temporal discount rate (see paragraph 32).
 
 #### Power to amend or repeal paragraphs 34 to 36
 
-**37.**[^key-0dfcaad28c53f4021be411743c4ca99d] The Welsh Ministers may by regulations amend or repeal paragraphs 34 to 36.
+**37.**[^c-0dfcaad28c53f4021be411743c4ca99d] The Welsh Ministers may by regulations amend or repeal paragraphs 34 to 36.
 
 ## Annotations
 
-[^key-33c28576f8c626fed97120530dedb649]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-33c28576f8c626fed97120530dedb649]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-92892e698b14ef6ca0b6c6d3ecc1834f]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-92892e698b14ef6ca0b6c6d3ecc1834f]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-b2f9eb4d4fe1e8a6a5e57906e68eacb6]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-b2f9eb4d4fe1e8a6a5e57906e68eacb6]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-ee485a7b8396334233fd438cc3dcc6c3]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-ee485a7b8396334233fd438cc3dcc6c3]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-5d437e8f102429134e2a77c6fb88e31f]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-5d437e8f102429134e2a77c6fb88e31f]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-1b76beffa2c16908f71bd62878d8df6c]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-1b76beffa2c16908f71bd62878d8df6c]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-40d7e356e89706e02813ad5c13d15e3c]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-40d7e356e89706e02813ad5c13d15e3c]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-944da4b59c34103b6431624b364f3bfa]: Modification: [Sch. 6 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/7) applied in part (with modifications) (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2018/126/regulation/9)
+[^c-944da4b59c34103b6431624b364f3bfa]: Modification: [Sch. 6 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/7) applied in part (with modifications) (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2018/126/regulation/9)
 
-[^key-8e52e689fa23e7de2a4cf05ce52cf520]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-8e52e689fa23e7de2a4cf05ce52cf520]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-5fec593efdb45a9b0a952bd01e570ef1]: Modification: [Sch. 6 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/8) applied in part (with modifications) by S.I. 2018/126, reg. 9A (as inserted (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) (Amendment) Regulations 2018 (S.I. 2018/401)](https://www.legislation.gov.uk/wsi/2018/401), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/401/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2018/401/regulation/2))
+[^c-5fec593efdb45a9b0a952bd01e570ef1]: Modification: [Sch. 6 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/8) applied in part (with modifications) by S.I. 2018/126, reg. 9A (as inserted (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) (Amendment) Regulations 2018 (S.I. 2018/401)](https://www.legislation.gov.uk/wsi/2018/401), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/401/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2018/401/regulation/2))
 
-[^key-98c3b28390c4cc9ff73b0cdeb6fae1e1]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-98c3b28390c4cc9ff73b0cdeb6fae1e1]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-c472a2ef494118030cc6210e1e1fefe4]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-c472a2ef494118030cc6210e1e1fefe4]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-345476e5984ecf50040cc8a9bfcabd8b]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/11) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-345476e5984ecf50040cc8a9bfcabd8b]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/11) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-25b35b4a0cf48f8a80202c7c49a4c70a]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-25b35b4a0cf48f8a80202c7c49a4c70a]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-3b539b8eb80789f2d8044ca42f1d8862]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-3b539b8eb80789f2d8044ca42f1d8862]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-6ffe7180e9be1629c3565110a5826881]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/14) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-6ffe7180e9be1629c3565110a5826881]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/14) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-ab81d90d0a2d579bcc5b26e686ddbc2c]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/15) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-ab81d90d0a2d579bcc5b26e686ddbc2c]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/15) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-0813476c1293aa5fc2169170555bf761]: Commencement: Sch. 6 para. 16 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-0813476c1293aa5fc2169170555bf761]: Commencement: Sch. 6 para. 16 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-fd9d5c2a5450a687a1339c70d2b0df9e]: Textual amendment: Words in [Sch. 6 para. 16(1)(h)](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/16/1/h) substituted (3.4.2019) by [The Welsh Tax Acts (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/833)](https://www.legislation.gov.uk/wsi/2019/833), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/833/regulation/1/3), [2](https://www.legislation.gov.uk/wsi/2019/833/regulation/2)
+[^c-fd9d5c2a5450a687a1339c70d2b0df9e]: Textual amendment: Words in [Sch. 6 para. 16(1)(h)](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/16/1/h) substituted (3.4.2019) by [The Welsh Tax Acts (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/833)](https://www.legislation.gov.uk/wsi/2019/833), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/833/regulation/1/3), [2](https://www.legislation.gov.uk/wsi/2019/833/regulation/2)
 
-[^key-bb54833ebc70eb79006fd55d85de4dee]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/17) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-bb54833ebc70eb79006fd55d85de4dee]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/17) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-2bf960bc4d6316009400d23692b2f41e]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/18) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-2bf960bc4d6316009400d23692b2f41e]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/18) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-7cf8bf865745e9f036f4ec68db2550d8]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/19) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-7cf8bf865745e9f036f4ec68db2550d8]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/19) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-c288095b5538b63016a3d34df518fd88]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/20) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-c288095b5538b63016a3d34df518fd88]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/20) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-bf299eb61b7091fdb7529d868685ef1a]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/21) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-bf299eb61b7091fdb7529d868685ef1a]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/21) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-fe1102e2974c58626c4ee887e3c02422]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/22) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-fe1102e2974c58626c4ee887e3c02422]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/22) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-a09b80f7ff788351932cf0eea08e262d]: Modification: [Sch. 6 para. 22](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/22) applied in part (with modifications) (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2018/126/regulation/10)
+[^c-a09b80f7ff788351932cf0eea08e262d]: Modification: [Sch. 6 para. 22](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/22) applied in part (with modifications) (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2018/126/regulation/10)
 
-[^key-bbd0d0b6a5ee5440c61d03f7d6a9a6ec]: Textual amendment: [Sch. 6 para. 22(4)(g)](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/22/4/g) inserted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/4/a)
+[^c-bbd0d0b6a5ee5440c61d03f7d6a9a6ec]: Textual amendment: [Sch. 6 para. 22(4)(g)](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/22/4/g) inserted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/4/a)
 
-[^key-b6027d1ef501f78834cf57e65c99be62]: Textual amendment: Words in [Sch. 6 para. 22(5)](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/22/5) substituted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/4/b)
+[^c-b6027d1ef501f78834cf57e65c99be62]: Textual amendment: Words in [Sch. 6 para. 22(5)](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/22/5) substituted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/4/b)
 
-[^key-436fb16b52e6fbe7f8da181116138b5a]: Textual amendment: [Sch. 6 para. 22(6)(d)](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/22/6/d) inserted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/4/c)
+[^c-436fb16b52e6fbe7f8da181116138b5a]: Textual amendment: [Sch. 6 para. 22(6)(d)](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/22/6/d) inserted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/4/c)
 
-[^key-26f142cfc254fdfde6ebb1b7876ca76c]: Textual amendment: Sch. 6 para. 22(7) inserted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/4/d)
+[^c-26f142cfc254fdfde6ebb1b7876ca76c]: Textual amendment: Sch. 6 para. 22(7) inserted (26.11.2024) by [The Land Transaction Tax (Relief for Special Tax Sites) (Wales) Regulations 2024 (S.I. 2024/1193)](https://www.legislation.gov.uk/wsi/2024/1193), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/wsi/2024/1193/regulation/2/4/d)
 
-[^key-db384da6ceef5d1a775adb789523eea6]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/23) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-db384da6ceef5d1a775adb789523eea6]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/23) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-0b4051d510feb0b58b7fc24369b9c01e]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/24) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-0b4051d510feb0b58b7fc24369b9c01e]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/24) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-5ce8454c2c0914644aa3ea112769c538]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/25) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-5ce8454c2c0914644aa3ea112769c538]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/25) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-40820d4552fe775c3350ab83c77d99f9]: Modification: [Sch. 6 para. 25](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/25) modified (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2018/126/regulation/11)
+[^c-40820d4552fe775c3350ab83c77d99f9]: Modification: [Sch. 6 para. 25](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/25) modified (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2018/126/regulation/11)
 
-[^key-0d49fce90fac64cd8bf1ca17465fe76d]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/26) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-0d49fce90fac64cd8bf1ca17465fe76d]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/26) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-096531c913e14b534292932a11a74617]: Commencement: [Sch. 6 para. 27](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/27) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-096531c913e14b534292932a11a74617]: Commencement: [Sch. 6 para. 27](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/27) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-dfd01c2a5189deabe91222eb734da594]: Commencement: [Sch. 6 para. 28](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/28) in force at 18.10.2017 by [S.I. 2017/953](https://www.legislation.gov.uk/wsi/2017/953), [art. 2(g)(i)](https://www.legislation.gov.uk/wsi/2017/953/article/2/g/i)
+[^c-dfd01c2a5189deabe91222eb734da594]: Commencement: [Sch. 6 para. 28](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/28) in force at 18.10.2017 by [S.I. 2017/953](https://www.legislation.gov.uk/wsi/2017/953), [art. 2(g)(i)](https://www.legislation.gov.uk/wsi/2017/953/article/2/g/i)
 
-[^key-67004c2a75a8d0f437b65f57e736fe3b]: Commencement: [Sch. 6 para. 29](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/29) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-67004c2a75a8d0f437b65f57e736fe3b]: Commencement: [Sch. 6 para. 29](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/29) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-c0b4b54074a8d0dd9c57caaf227cbd54]: Commencement: [Sch. 6 para. 30](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/30) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-c0b4b54074a8d0dd9c57caaf227cbd54]: Commencement: [Sch. 6 para. 30](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/30) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-bdf46dd1f4a5d36a09abeb6a84435959]: Commencement: [Sch. 6 para. 31](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/31) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-bdf46dd1f4a5d36a09abeb6a84435959]: Commencement: [Sch. 6 para. 31](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/31) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-fe33dbf3fa4e5372f7b35d1d51895d94]: Commencement: [Sch. 6 para. 32](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/32) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-fe33dbf3fa4e5372f7b35d1d51895d94]: Commencement: [Sch. 6 para. 32](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/32) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-5bf924198d40f0e90a204190a1620f5b]: Commencement: [Sch. 6 para. 33](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/33) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-5bf924198d40f0e90a204190a1620f5b]: Commencement: [Sch. 6 para. 33](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/33) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-2cbf8a1526bfbab2c69484e7863672cf]: Commencement: [Sch. 6 para. 34](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/34) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-2cbf8a1526bfbab2c69484e7863672cf]: Commencement: [Sch. 6 para. 34](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/34) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-ab10d2b62fce988e273c3f45e6ec88e4]: Commencement: [Sch. 6 para. 35](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/35) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-ab10d2b62fce988e273c3f45e6ec88e4]: Commencement: [Sch. 6 para. 35](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/35) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-2ac5bc4005788dad566338966d99c192]: Commencement: Sch. 6 para. 36(1)(a)(2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-2ac5bc4005788dad566338966d99c192]: Commencement: Sch. 6 para. 36(1)(a)(2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-92829240296b23dc3939993c71e3d89a]: Commencement: Sch. 6 para. 36(1)(b) in force at 18.10.2017 for specified purposes by [S.I. 2017/953](https://www.legislation.gov.uk/wsi/2017/953), [art. 2(g)(ii)](https://www.legislation.gov.uk/wsi/2017/953/article/2/g/ii)
+[^c-92829240296b23dc3939993c71e3d89a]: Commencement: Sch. 6 para. 36(1)(b) in force at 18.10.2017 for specified purposes by [S.I. 2017/953](https://www.legislation.gov.uk/wsi/2017/953), [art. 2(g)(ii)](https://www.legislation.gov.uk/wsi/2017/953/article/2/g/ii)
 
-[^key-d5e8f633a1ef3af4e86b7a2ca1438d5d]: Commencement: Sch. 6 para. 36(1)(b) in force at 1.4.2018 in so far as not already in force by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-d5e8f633a1ef3af4e86b7a2ca1438d5d]: Commencement: Sch. 6 para. 36(1)(b) in force at 1.4.2018 in so far as not already in force by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-0dfcaad28c53f4021be411743c4ca99d]: Commencement: [Sch. 6 para. 37](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/37) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-0dfcaad28c53f4021be411743c4ca99d]: Commencement: [Sch. 6 para. 37](https://www.legislation.gov.uk/anaw/2017/1/schedule/6/paragraph/37) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

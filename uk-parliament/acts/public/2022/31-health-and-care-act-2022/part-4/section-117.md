@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Admissibility of reports[^key-8f49b3a06b9d58b9fd0dc7047ce34331][^key-862c213b9613a110fb3f72e38309763a]
+## 117. Admissibility of reports[^c-8f49b3a06b9d58b9fd0dc7047ce34331][^c-862c213b9613a110fb3f72e38309763a]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8f49b3a06b9d58b9fd0dc7047ce34331]: Commencement: S. 117 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-8f49b3a06b9d58b9fd0dc7047ce34331]: Commencement: S. 117 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-862c213b9613a110fb3f72e38309763a]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2022/31/section/117) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-862c213b9613a110fb3f72e38309763a]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2022/31/section/117) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

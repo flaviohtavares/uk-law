@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. The Secretary of State's duty as to reducing inequalities[^key-8f507d71e531c0e7de1a15af3079eb72]
+## 4. The Secretary of State's duty as to reducing inequalities[^c-8f507d71e531c0e7de1a15af3079eb72]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ After section 1B of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-8f507d71e531c0e7de1a15af3079eb72]: Commencement: S. 4 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-8f507d71e531c0e7de1a15af3079eb72]: Commencement: S. 4 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

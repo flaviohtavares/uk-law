@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82B. Urgent works relating to Crown land: application[^key-96c0f2fe6c373a3ae79f2b713556c6ce][^c21493591]
+## 82B. Urgent works relating to Crown land: application[^c-96c0f2fe6c373a3ae79f2b713556c6ce][^c21493591]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ about the application.
 
 ## Annotations
 
-[^key-96c0f2fe6c373a3ae79f2b713556c6ce]: Modification: Ss. 82A-82B modified (W.) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [16](https://www.legislation.gov.uk/wsi/2012/793/regulation/16), [Sch. 3](https://www.legislation.gov.uk/wsi/2012/793/schedule/3)
+[^c-96c0f2fe6c373a3ae79f2b713556c6ce]: Modification: Ss. 82A-82B modified (W.) (30.4.2012) by [The Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012 (No. 793)](https://www.legislation.gov.uk/wsi/2012/793), [regs. 1](https://www.legislation.gov.uk/wsi/2012/793/regulation/1), [16](https://www.legislation.gov.uk/wsi/2012/793/regulation/16), [Sch. 3](https://www.legislation.gov.uk/wsi/2012/793/schedule/3)
 
 [^c21493591]: Textual amendment: S. 82B inserted (6.8.2004 for specified purposes, otherwise 7.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/83/1), [121(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/1) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)

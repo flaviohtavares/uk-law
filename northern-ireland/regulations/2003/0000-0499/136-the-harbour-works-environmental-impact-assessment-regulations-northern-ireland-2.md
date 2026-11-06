@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 HARBOURS, DOCKS, ETC.
 
-The Harbour Works (Environmental Impact Assessment) Regulations (Northern Ireland) 2003 (revoked)[^key-cf132056b619c8e8fd494dce7f524c58]
+The Harbour Works (Environmental Impact Assessment) Regulations (Northern Ireland) 2003 (revoked)[^c-cf132056b619c8e8fd494dce7f524c58]
 
 Made
 
@@ -43,204 +43,204 @@ Coming into operation
 
 14th April 2003
 
-[^key-cf132056b619c8e8fd494dce7f524c58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf132056b619c8e8fd494dce7f524c58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, revocations and extent[^key-cf132056b619c8e8fd494dce7f524c58]
+## 1. Citation, commencement, revocations and extent[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-cf132056b619c8e8fd494dce7f524c58]
+## 2. Interpretation[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope[^key-cf132056b619c8e8fd494dce7f524c58]
+## 3. Scope[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Procedure for obtaining a prior opinion[^key-cf132056b619c8e8fd494dce7f524c58]
+## 4. Procedure for obtaining a prior opinion[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Applications relating to harbour works where a prior opinion has been given[^key-cf132056b619c8e8fd494dce7f524c58]
+## 5. Applications relating to harbour works where a prior opinion has been given[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Applications relating to harbour works where a prior opinion has not been given[^key-cf132056b619c8e8fd494dce7f524c58]
+## 6. Applications relating to harbour works where a prior opinion has not been given[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Publicity where an environmental statement is supplied[^key-cf132056b619c8e8fd494dce7f524c58]
+## 7. Publicity where an environmental statement is supplied[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transboundary cases and involvement of other EEA States[^key-cf132056b619c8e8fd494dce7f524c58]
+## 8. Transboundary cases and involvement of other EEA States[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Projects in another EEA State likely to have significant transboundary effects[^key-cf132056b619c8e8fd494dce7f524c58]
+## 9. Projects in another EEA State likely to have significant transboundary effects[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Consultation on and holding of inquiry into proposed harbour works[^key-cf132056b619c8e8fd494dce7f524c58]
+## 10. Consultation on and holding of inquiry into proposed harbour works[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Decisions on applications[^key-cf132056b619c8e8fd494dce7f524c58]
+## 11. Decisions on applications[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Harbour works carried out without a decision[^key-cf132056b619c8e8fd494dce7f524c58]
+## 12. Harbour works carried out without a decision[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Variation of consent[^key-cf132056b619c8e8fd494dce7f524c58]
+## 13. Variation of consent[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Enforcement[^key-cf132056b619c8e8fd494dce7f524c58]
+## 14. Enforcement[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Penalties[^key-cf132056b619c8e8fd494dce7f524c58]
+## 15. Penalties[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf132056b619c8e8fd494dce7f524c58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf132056b619c8e8fd494dce7f524c58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — INFORMATION REFERRED TO IN ARTICLE 5(1) OF THE DIRECTIVE[^key-cf132056b619c8e8fd494dce7f524c58]
+## SCHEDULE 1 — INFORMATION REFERRED TO IN ARTICLE 5(1) OF THE DIRECTIVE[^c-cf132056b619c8e8fd494dce7f524c58]
 
 Regulation 2(1)
 
-**1.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — SELECTION CRITERIA REFERRED TO IN ARTICLE 4(3) OF THE DIRECTIVE[^key-cf132056b619c8e8fd494dce7f524c58]
-
-Regulation 2(1)
-
-### 1. Characteristics of projects[^key-cf132056b619c8e8fd494dce7f524c58]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Location of projects[^key-cf132056b619c8e8fd494dce7f524c58]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 3. Characteristics of the potential impact[^key-cf132056b619c8e8fd494dce7f524c58]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SCHEDULE 3 — DESCRIPTIONS OF DEVELOPMENT FOR THE PURPOSES OF THE DEFINITION OF “ANNEX I”[^key-cf132056b619c8e8fd494dce7f524c58]
+## SCHEDULE 2 — SELECTION CRITERIA REFERRED TO IN ARTICLE 4(3) OF THE DIRECTIVE[^c-cf132056b619c8e8fd494dce7f524c58]
 
 Regulation 2(1)
 
-### Interpretation[^key-cf132056b619c8e8fd494dce7f524c58]
+### 1. Characteristics of projects[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 1. Descriptions of development[^key-cf132056b619c8e8fd494dce7f524c58]
+### 2. Location of projects[^c-cf132056b619c8e8fd494dce7f524c58]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Characteristics of the potential impact[^c-cf132056b619c8e8fd494dce7f524c58]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — DESCRIPTIONS OF DEVELOPMENT FOR THE PURPOSES OF THE DEFINITION OF “ANNEX I”[^c-cf132056b619c8e8fd494dce7f524c58]
+
+Regulation 2(1)
+
+### Interpretation[^c-cf132056b619c8e8fd494dce7f524c58]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 1. Descriptions of development[^c-cf132056b619c8e8fd494dce7f524c58]
 
 The carrying out of development to provide any of the following –
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22.[^key-cf132056b619c8e8fd494dce7f524c58]
+### 22.[^c-cf132056b619c8e8fd494dce7f524c58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — DESCRIPTIONS OF DEVELOPMENT FOR THE PURPOSES OF THE DEFINITION OF “ANNEX II”[^key-cf132056b619c8e8fd494dce7f524c58]
+## SCHEDULE 4 — DESCRIPTIONS OF DEVELOPMENT FOR THE PURPOSES OF THE DEFINITION OF “ANNEX II”[^c-cf132056b619c8e8fd494dce7f524c58]
 
 Regulation 2(1)
 
-[^key-cf132056b619c8e8fd494dce7f524c58]
+[^c-cf132056b619c8e8fd494dce7f524c58]
 
 The carrying out of development to provide any of the following –
 
-**1.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-cf132056b619c8e8fd494dce7f524c58] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cf132056b619c8e8fd494dce7f524c58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf132056b619c8e8fd494dce7f524c58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf132056b619c8e8fd494dce7f524c58]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/136) revoked (14.1.2019) by [The Harbour Works (Environmental Impact Assessment) (Revocation) Regulations (Northern Ireland) 2018 (S.R. 2018/193)](https://www.legislation.gov.uk/nisr/2018/193), [reg. 2(a)](https://www.legislation.gov.uk/nisr/2018/193/regulation/2/a)
+[^c-cf132056b619c8e8fd494dce7f524c58]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/136) revoked (14.1.2019) by [The Harbour Works (Environmental Impact Assessment) (Revocation) Regulations (Northern Ireland) 2018 (S.R. 2018/193)](https://www.legislation.gov.uk/nisr/2018/193), [reg. 2(a)](https://www.legislation.gov.uk/nisr/2018/193/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 352. Power of the Welsh Ministers to acquire land identified by National Development Framework for Wales[^key-4b49f1ab02c7791949c16bebc66a5c57]
+## 352. Power of the Welsh Ministers to acquire land identified by National Development Framework for Wales[^c-4b49f1ab02c7791949c16bebc66a5c57]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Where a blight notice has been served in respect of land falling within paragrap
 
 ## Annotations
 
-[^key-4b49f1ab02c7791949c16bebc66a5c57]: Commencement: S. 352 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4b49f1ab02c7791949c16bebc66a5c57]: Commencement: S. 352 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

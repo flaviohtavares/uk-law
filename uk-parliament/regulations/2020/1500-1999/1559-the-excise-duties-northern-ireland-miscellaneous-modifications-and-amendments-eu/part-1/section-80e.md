@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80E. Specified dates for the purposes of the transitional provisions[^key-811ef5a53860da03f26bd4c02fb75b29]
+## 80E. Specified dates for the purposes of the transitional provisions[^c-811ef5a53860da03f26bd4c02fb75b29]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-811ef5a53860da03f26bd4c02fb75b29]: Textual amendment: Regs. 80A-80E inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/39)
+[^c-811ef5a53860da03f26bd4c02fb75b29]: Textual amendment: Regs. 80A-80E inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/39)

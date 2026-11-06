@@ -32,7 +32,7 @@ summary: ''
 - (a) they may cause the return or other document to be destroyed; but
 - (b) if requested to do so by the responsible person in the case of the third party concerned, they shall arrange for the return or other document to be returned to that person.
 
-(4)[^key-3bee1e2df031a3d4919b6df42ecfd994] Where a statement of accounts is delivered under section 98(2A), this section applies as if the statement and any documents accompanying it—
+(4)[^c-3bee1e2df031a3d4919b6df42ecfd994] Where a statement of accounts is delivered under section 98(2A), this section applies as if the statement and any documents accompanying it—
 
 - (a) were documents accompanying the relevant section 96 return, and
 - (b) (for the purposes of subsection (3)) were received by the Commission when the return was received.
@@ -43,4 +43,4 @@ summary: ''
 
 [^c10574711]: Commencement: S. 100 wholly in force at 16.2.2001; s. 100 not in force at Royal Assent, see s. 163(2); s. 100 in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-3bee1e2df031a3d4919b6df42ecfd994]: Textual amendment: S. 100(4)(5) inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 35(8)](https://www.legislation.gov.uk/ukpga/2014/4/section/35/8), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
+[^c-3bee1e2df031a3d4919b6df42ecfd994]: Textual amendment: S. 100(4)(5) inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 35(8)](https://www.legislation.gov.uk/ukpga/2014/4/section/35/8), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))

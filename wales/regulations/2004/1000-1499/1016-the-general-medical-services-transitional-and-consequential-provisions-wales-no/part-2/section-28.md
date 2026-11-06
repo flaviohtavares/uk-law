@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Medical examination of medical practitioners[^key-f80682dda588fa03f39f2796f0ff26ee]
+## 28. Medical examination of medical practitioners[^c-f80682dda588fa03f39f2796f0ff26ee]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ the requirement shall, on 1st April 2004, unless the Local Health Board notifies
 
 ## Annotations
 
-[^key-f80682dda588fa03f39f2796f0ff26ee]: Commencement: Art. 28 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-f80682dda588fa03f39f2796f0ff26ee]: Commencement: Art. 28 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

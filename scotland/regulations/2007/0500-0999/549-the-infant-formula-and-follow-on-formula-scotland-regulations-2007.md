@@ -46,7 +46,7 @@ Coming into force
 
 11th January 2008
 
-[^key-f6bfe3c8ab468c54b2379302fa5a2b22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6bfe3c8ab468c54b2379302fa5a2b22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -166,7 +166,7 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 30. Amendment of the Foods for Special Medical Purposes (Scotland) Regulations 2000[^key-f6bfe3c8ab468c54b2379302fa5a2b22]
+## 30. Amendment of the Foods for Special Medical Purposes (Scotland) Regulations 2000[^c-f6bfe3c8ab468c54b2379302fa5a2b22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -174,7 +174,7 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6bfe3c8ab468c54b2379302fa5a2b22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6bfe3c8ab468c54b2379302fa5a2b22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -186,10 +186,10 @@ Regulation 31(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-f6bfe3c8ab468c54b2379302fa5a2b22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6bfe3c8ab468c54b2379302fa5a2b22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f6bfe3c8ab468c54b2379302fa5a2b22]: Textual amendment: Regulations revoked (except reg. 30) (22.2.2020) by [The Foods for Specific Groups (Infant Formula and Follow-on Formula) (Scotland) Regulations 2020 (S.S.I. 2020/6)](https://www.legislation.gov.uk/ssi/2020/6), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/6/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2020/6/schedule/3) (with [reg. 6(2)](https://www.legislation.gov.uk/ssi/2020/6/regulation/6/2))
+[^c-f6bfe3c8ab468c54b2379302fa5a2b22]: Textual amendment: Regulations revoked (except reg. 30) (22.2.2020) by [The Foods for Specific Groups (Infant Formula and Follow-on Formula) (Scotland) Regulations 2020 (S.S.I. 2020/6)](https://www.legislation.gov.uk/ssi/2020/6), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/6/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2020/6/schedule/3) (with [reg. 6(2)](https://www.legislation.gov.uk/ssi/2020/6/regulation/6/2))
 
     [Reg. 30](https://www.legislation.gov.uk/ssi/2007/549/regulation/30) revoked (22.2.2020) by [The Foods for Specific Groups (Medical Foods for Infants) and Addition of Vitamins, Minerals and Other Substances (Scotland) Amendment Regulations 2020 (S.S.I. 2020/7)](https://www.legislation.gov.uk/ssi/2020/7), [reg. 1](https://www.legislation.gov.uk/ssi/2020/7/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2020/7/schedule/2) (with [reg. 4(2)](https://www.legislation.gov.uk/ssi/2020/7/regulation/4/2))

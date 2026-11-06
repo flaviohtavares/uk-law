@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Power to decline to act until information provided[^key-38fe59a58be3286f5352c2a8d9976c7a]
+## 7. Power to decline to act until information provided[^c-38fe59a58be3286f5352c2a8d9976c7a]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38fe59a58be3286f5352c2a8d9976c7a]: Commencement: S. 7 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-38fe59a58be3286f5352c2a8d9976c7a]: Commencement: S. 7 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

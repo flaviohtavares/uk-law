@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Nature Conservation MPAs: further provision[^key-5bad4c1a4c1976ad58bdfcffd44433e0]
+## 69. Nature Conservation MPAs: further provision[^c-5bad4c1a4c1976ad58bdfcffd44433e0]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bad4c1a4c1976ad58bdfcffd44433e0]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2010/5/section/69) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-5bad4c1a4c1976ad58bdfcffd44433e0]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2010/5/section/69) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

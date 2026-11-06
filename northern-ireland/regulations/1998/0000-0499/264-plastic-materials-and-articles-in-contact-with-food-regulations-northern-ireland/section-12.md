@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Application of other provisions[^key-3e3d588560cad561c82997bbf2c21131]
+## 12. Application of other provisions[^c-3e3d588560cad561c82997bbf2c21131]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e3d588560cad561c82997bbf2c21131]: Commencement: Reg. 12 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-3e3d588560cad561c82997bbf2c21131]: Commencement: Reg. 12 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)

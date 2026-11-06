@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Health[^f00001] makes these Regulations in exercise of the powers conferred on it by Articles 15D(1), (3D) and (3DA), 57F(1), (2) and (2A), 57G(1), (3)(j) and (3C), 61 (2), (2AA) and (2AB), 62 (2)(c) and (2A), 63 and 63AA(3A) and (3AA) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002], Article 10(1)(b) (iii) to (v) of the Health and Medicines (Northern Ireland) Order 1988[^f00003] and Article 8(6), (9A) and (9B) of the Health and Personal Social Services (Northern Ireland) Order 1991[^f00004], and after consulting such organisations as appear to the Department to be representative of (a) the dental profession, (b) medical practitioners practising as ophthalmic medical practitioners and (c) the pharmaceutical profession, as required by Articles 61(4), 62(3) and 63(3) respectively of the Health and Personal Social Services (Northern Ireland) Order 1972.
 
-## 1. Citation and commencement[^key-5dd2f52b66e930b6627e65402e516693]
+## 1. Citation and commencement[^c-5dd2f52b66e930b6627e65402e516693]
 
 These Regulations may be cited as the Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022 and come into operation on 1st April 2022.
 
-## 2. Interpretation[^key-743cff7298fc9d7b448ba2e05ad9af63]
+## 2. Interpretation[^c-743cff7298fc9d7b448ba2e05ad9af63]
 
 (1) In these Regulations—
 
@@ -63,11 +63,11 @@ These Regulations may be cited as the Health and Social Care (Family Practitione
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00009] applies to these Regulations as it applies to an Act of the Assembly.
 
-## 3. The Family Practitioner Services Independent Appeal Panel[^key-a99e86a641fa3dd9d5eabc4bfe822bc4]
+## 3. The Family Practitioner Services Independent Appeal Panel[^c-a99e86a641fa3dd9d5eabc4bfe822bc4]
 
 There is to be a body called the Family Practitioner Services Independent Appeal Panel.
 
-## 4. Chairperson[^key-bfccd7bb3b1c2e1a0c49500b971b9c34]
+## 4. Chairperson[^c-bfccd7bb3b1c2e1a0c49500b971b9c34]
 
 (1) The Department must appoint two or more persons as chairperson of the Family Practitioner Services Independent Appeal Panel.
 
@@ -78,7 +78,7 @@ There is to be a body called the Family Practitioner Services Independent Appeal
 - (a) is to be 4 years;
 - (b) may be extended on one occasion only by a further 4 years.
 
-## 5. List of lay members[^key-a85012ca7ca7d11457b1adb23153f2e1]
+## 5. List of lay members[^c-a85012ca7ca7d11457b1adb23153f2e1]
 
 (1) The Department may prepare and maintain a list of lay persons appointed by the Department for the purposes of the Family Practitioner Services Independent Appeal Panel.
 
@@ -89,7 +89,7 @@ There is to be a body called the Family Practitioner Services Independent Appeal
 
 (3) A person appointed in accordance with paragraph (1) is to be appointed for a term of 4 years.
 
-## 6. Notice of appeal, application or referral[^key-9d04678f884b5316449879d623bed555]
+## 6. Notice of appeal, application or referral[^c-9d04678f884b5316449879d623bed555]
 
 (1) A notice of appeal received by the Family Practitioner Services Independent Appeal Panel must be referred by the Panel to a chairperson appointed under regulation 4(1).
 
@@ -104,7 +104,7 @@ There is to be a body called the Family Practitioner Services Independent Appeal
 
 (5) For the purposes of this regulation, a relevant notice of appeal, application or referral is one given under a statutory provision that prescribes the Family Practitioner Services Independent Appeal Panel as the body that is to determine the matter.
 
-## 7. Membership of a panel of the Family Practitioner Services Independent Appeal Panel[^key-19868bc9d6afd94cea64067e4ea018e6]
+## 7. Membership of a panel of the Family Practitioner Services Independent Appeal Panel[^c-19868bc9d6afd94cea64067e4ea018e6]
 
 (1) A panel of the Family Practitioner Services Independent Appeal Panel must consist of at least 3 members of whom—
 
@@ -123,7 +123,7 @@ There is to be a body called the Family Practitioner Services Independent Appeal
 - (c) the pharmaceutical list;
 - (d) the primary medical services performers list.
 
-## 8. Declaration of interest[^key-5cdf580f322d095de4f17eb6c6d9a785]
+## 8. Declaration of interest[^c-5cdf580f322d095de4f17eb6c6d9a785]
 
 (1) Before the start of any meeting of a panel of the Family Practitioner Services Independent Appeal Panel the chairperson must ask the members intending to be present whether, in respect of the appeal, application or referral to be considered at the meeting, any of them—
 
@@ -134,11 +134,11 @@ and any such member who has or, as the case may be, is associated with a person 
 
 (2) Any member who has, pursuant to paragraph (1), declared an interest or who, in the opinion of the chairperson, should have declared such an interest, may not be present at the consideration, discussion or determination of the appeal, application or referral.
 
-## 9. Quorum[^key-92ff5ca96139e7d5c44597ba94d7dc01]
+## 9. Quorum[^c-92ff5ca96139e7d5c44597ba94d7dc01]
 
 No business of the Family Practitioner Services Independent Appeal Panel may be transacted unless the chairperson and one person appointed under each of regulation 7(1)(b) and 7(1)(c) are present.
 
-## 10. Decisions by the Family Practitioner Services Independent Appeal Panel[^key-424a38393237659cd8148bacb81b5b6f]
+## 10. Decisions by the Family Practitioner Services Independent Appeal Panel[^c-424a38393237659cd8148bacb81b5b6f]
 
 (1) A panel of the Family Practitioner Services Independent Appeal Panel may determine an appeal, application or referral in such manner as it thinks fit and may, if it considers that oral representations are unnecessary, determine the appeal, application or referral without hearing any oral representations, and its decision in respect of that appeal, application or referral is final.
 
@@ -146,15 +146,15 @@ No business of the Family Practitioner Services Independent Appeal Panel may be 
 
 (3) This regulation is subject to any procedural requirements specified in the regulations under which the appeal, application or referral is made to the Family Practitioner Services Independent Appeal Panel.
 
-## 11. Fees and allowances[^key-668ade9a5d3ade4d1ab293ac2b330c31]
+## 11. Fees and allowances[^c-668ade9a5d3ade4d1ab293ac2b330c31]
 
 Members of a panel of the Family Practitioner Services Independent Appeal Panel are to be paid such fees and allowances as the Department may determine.
 
-## 12. Consequential amendments[^key-2447d00563093c1f283870efdceec69d]
+## 12. Consequential amendments[^c-2447d00563093c1f283870efdceec69d]
 
 The Schedule (consequential amendments) has effect.
 
-## 13. Transitional provision[^key-262e3230768fb77dde4f7ea89e334a63]
+## 13. Transitional provision[^c-262e3230768fb77dde4f7ea89e334a63]
 
 (1) Where a function relating to an appeal, application or referral has transferred from the Department to the Family Practitioner Services Independent Appeal Panel in accordance with the provisions set out in the Schedule—
 
@@ -173,17 +173,17 @@ A senior officer of the Department of Health
 
 Regulation 12
 
-### 1. The Health and Personal Social Services General Dental Services Regulations (Northern Ireland) 1993[^key-0b0c88d7f118a1ef4f2fffb65367fdcd]
+### 1. The Health and Personal Social Services General Dental Services Regulations (Northern Ireland) 1993[^c-0b0c88d7f118a1ef4f2fffb65367fdcd]
 
 The Health and Personal Social Services General Dental Services Regulations (Northern Ireland) 1993[^f00011] are amended as follows.
 
-**2.**[^key-a3e07ddfd7c4feb19a6344a3acc973f9] (1) Regulation 2 (Interpretation) is amended as follows.
+**2.**[^c-a3e07ddfd7c4feb19a6344a3acc973f9] (1) Regulation 2 (Interpretation) is amended as follows.
 
 (2) In the appropriate place insert—
 
 - “**Family Practitioner Services Independent Appeal Panel**” means the body established under regulation 3 of the Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022[^f00012];”
 
-**3.**[^key-8c2c11d788b0792c1d0f3deda397459b] (1) Regulation 5 (Application for inclusion in the dental list) is amended as follows.
+**3.**[^c-8c2c11d788b0792c1d0f3deda397459b] (1) Regulation 5 (Application for inclusion in the dental list) is amended as follows.
 
 (2) In paragraph (2A)[^f00013]—
 
@@ -201,7 +201,7 @@ The Health and Personal Social Services General Dental Services Regulations (Nor
 - (a) for “Department” substitute “Family Practitioner Services Independent Appeal Panel”;
 - (b) for “**Board**” (in both places) substitute “Department”.
 
-**4.**[^key-b08364383cb2e47cd7b787ddc5e18032] (1) Schedule 2 (Terms of service for dentists) is amended as follows.
+**4.**[^c-b08364383cb2e47cd7b787ddc5e18032] (1) Schedule 2 (Terms of service for dentists) is amended as follows.
 
 (2) In paragraph 2(b) (Incorporation of provisions of Regulations)—
 
@@ -219,23 +219,23 @@ The Health and Personal Social Services General Dental Services Regulations (Nor
 - (e) in sub-paragraph (9), for “**Board**” (in both places) substitute “Department”;
 - (f) in sub-paragraph (10), for “Department” substitute “Family Practitioner Services Independent Appeal Panel”.
 
-### 5. Health and Personal Social Services (General Medical Services Contracts) Regulations (Northern Ireland) 2004[^key-df4b2de1f24cc46dfdd0f91fb8bb1b06]
+### 5. Health and Personal Social Services (General Medical Services Contracts) Regulations (Northern Ireland) 2004[^c-df4b2de1f24cc46dfdd0f91fb8bb1b06]
 
 The Health and Personal Social Services (General Medical Services Contracts) Regulations (Northern Ireland) 2004[^f00014] are amended as follows.
 
-**6.**[^key-27865c6135f62986fd1766a1621582a2] (1) Regulation 2 (Interpretation) is amended as follows.
+**6.**[^c-27865c6135f62986fd1766a1621582a2] (1) Regulation 2 (Interpretation) is amended as follows.
 
 (2) In the appropriate place insert—
 
 - “**Family Practitioner Services Independent Appeal Panel**” means the body established under regulation 3 of the Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022[^f00015];”
 
-**7.**[^key-768d69edd5bd52cf5958593154e2a9fb] (1) Regulation 7 (Appeal) is amended as follows.
+**7.**[^c-768d69edd5bd52cf5958593154e2a9fb] (1) Regulation 7 (Appeal) is amended as follows.
 
 (2) For “**Department**” (in both places) substitute “Family Practitioner Services Independent Appeal Panel”.
 
 (3) For “**Board**” (in both places) substitute “Department”.
 
-**8.**[^key-b974879b2d63fae91f919e65143cab11] (1) Regulation 9 (Pre-contract disputes) is amended as follows.
+**8.**[^c-b974879b2d63fae91f919e65143cab11] (1) Regulation 9 (Pre-contract disputes) is amended as follows.
 
 (2) In paragraphs (1) and (2), for “Department” substitute “Family Practitioner Services Independent Appeal Panel”.
 
@@ -244,7 +244,7 @@ The Health and Personal Social Services (General Medical Services Contracts) Reg
 - (a) for “Department” substitute “Family Practitioner Services Independent Appeal Panel”;
 - (b) for “Board” substitute “Department”.
 
-**9.**[^key-cdd45df8ab6032f7307b1dc66c313515] (1) Schedule 2 (Opt outs of additional and out of hours services) is amended as follows.
+**9.**[^c-cdd45df8ab6032f7307b1dc66c313515] (1) Schedule 2 (Opt outs of additional and out of hours services) is amended as follows.
 
 (2) Paragraph 2 (Temporary opt outs and permanent opt outs following temporary opt outs) is amended as follows—
 
@@ -322,7 +322,7 @@ The Health and Personal Social Services (General Medical Services Contracts) Reg
   - (i) for “Department” substitute “Family Practitioner Services Independent Appeal Panel”;
   - (ii) for “Board” substitute “Department”.
 
-**10.**[^key-dc2d35ff8f960503ede76b2606c30181] (1) Schedule 5 (Other contractual terms) is amended as follows.
+**10.**[^c-dc2d35ff8f960503ede76b2606c30181] (1) Schedule 5 (Other contractual terms) is amended as follows.
 
 (2) Paragraph 36 (Assignments to closed lists: dispute resolution procedure relating to determinations of the assessment panel) is amended as follows—
 
@@ -366,11 +366,11 @@ The Health and Personal Social Services (General Medical Services Contracts) Reg
 - (b) in sub-paragraphs (2) to (4), for “Board” substitute “Department”;
 - (c) in sub-paragraph (5), for “**Board**” (in both places) substitute “Department”.
 
-### 11. Health and Personal Social Services (Primary Medical Services Performers Lists) Regulations (Northern Ireland) 2004[^key-635e2e684741b0f444bcd23e377b81eb]
+### 11. Health and Personal Social Services (Primary Medical Services Performers Lists) Regulations (Northern Ireland) 2004[^c-635e2e684741b0f444bcd23e377b81eb]
 
 The Health and Personal Social Services (Primary Medical Services Performers Lists) Regulations (Northern Ireland) 2004[^f00016] are amended as follows.
 
-**12.**[^key-e21de3dab24e3e2847096273195643df] (1) Regulation 2 (Interpretation) is amended as follows.
+**12.**[^c-e21de3dab24e3e2847096273195643df] (1) Regulation 2 (Interpretation) is amended as follows.
 
 (2) In the appropriate place insert –
 
@@ -378,15 +378,15 @@ The Health and Personal Social Services (Primary Medical Services Performers Lis
 
 (3) omit the definition of “Board”.
 
-**13.**[^key-a78073d7e8e5869f1cb49bd90e5ff7be] In regulation 5(2) (Publication of primary medical services performers lists), omit “(a) the Department;”
+**13.**[^c-a78073d7e8e5869f1cb49bd90e5ff7be] In regulation 5(2) (Publication of primary medical services performers lists), omit “(a) the Department;”
 
-**14.**[^key-c2cb09b0850e965be1acf6831eed708b] (1) Regulation 6C[^f00018] (Removal of emergency registered practitioners from the primary medical services performers list) is amended as follows—
+**14.**[^c-c2cb09b0850e965be1acf6831eed708b] (1) Regulation 6C[^f00018] (Removal of emergency registered practitioners from the primary medical services performers list) is amended as follows—
 
 (2) In paragraph (3)(c), for “**Department**” (in both places) substitute “Family Practitioner Services Independent Appeal Panel”.
 
 (3) In paragraph (4), omit “or the Department”.
 
-**15.**[^key-3373efd1f3099c1f58e0d4243b4abd5c] (1) Regulation 8A[^f00019] (Conditional inclusion in the primary medical services performers list) is amended as follows.
+**15.**[^c-3373efd1f3099c1f58e0d4243b4abd5c] (1) Regulation 8A[^f00019] (Conditional inclusion in the primary medical services performers list) is amended as follows.
 
 (2) In paragraph (1), for “A Board” substitute “The Department”.
 
@@ -411,7 +411,7 @@ The Health and Personal Social Services (Primary Medical Services Performers Lis
 - (a) for “Board” substitute “Department”;
 - (b) for “Department” substitute “Family Practitioner Services Independent Appeal Panel”.
 
-**16.**[^key-831cb0ea8d692459d8c976e56178125c] (1) Regulation 10 ((Removal from the primary medical performers list of medical practitioners not performing primary medical services) is amended as follows.
+**16.**[^c-831cb0ea8d692459d8c976e56178125c] (1) Regulation 10 ((Removal from the primary medical performers list of medical practitioners not performing primary medical services) is amended as follows.
 
 (2) In paragraph (1), for “Department” substitute “Family Practitioner Services Independent Appeal Panel”.
 
@@ -424,22 +424,22 @@ The Health and Personal Social Services (Primary Medical Services Performers Lis
 
 (5) In paragraph (7) for “Department” substitute “Family Practitioner Services Independent Appeal Panel”.
 
-**17.**[^key-5b355c1d0cc3e41c01b599252d599a92] (1) Regulation 10A[^f00020] (Contingent removal from the primary medical services performers list) is amended as follows.
+**17.**[^c-5b355c1d0cc3e41c01b599252d599a92] (1) Regulation 10A[^f00020] (Contingent removal from the primary medical services performers list) is amended as follows.
 
 (2) In paragraphs (5) to (7) and (10), for “Department” substitute “Family Practitioner Services Independent Appeal Panel”.
 
-**18.**[^key-6af983b22c5bbf3e8fe94037e0e2f5d9] (1) Regulation 12A[^f00021] (suspension) is amended as follows.
+**18.**[^c-6af983b22c5bbf3e8fe94037e0e2f5d9] (1) Regulation 12A[^f00021] (suspension) is amended as follows.
 
 (2) In paragraph (6)—
 
 - (a) for “**Board**” (in both places) substitute “Department”;
 - (b) for “Department” substitute “Family Practitioner Services Independent Appeal Panel”.
 
-**19.**[^key-c92cd83f8ea1795305b574056d842468] (1) Regulation 12B[^f00022] (Reviews) is amended as follows.
+**19.**[^c-c92cd83f8ea1795305b574056d842468] (1) Regulation 12B[^f00022] (Reviews) is amended as follows.
 
 (2) In paragraphs (5), (7) and (8), for “Board” substitute “Department”.
 
-**20.**[^key-96c1d16db9f547c542aab23df9c62d47] (1) Regulation 13 (Appeal to the Family Practitioner Services Independent Appeal Panel) is amended as follows.
+**20.**[^c-96c1d16db9f547c542aab23df9c62d47] (1) Regulation 13 (Appeal to the Family Practitioner Services Independent Appeal Panel) is amended as follows.
 
 (2) In the heading to the regulation, for “Department” substitute “Family Practitioner Services Independent Appeal Panel”.
 
@@ -494,7 +494,7 @@ The Health and Personal Social Services (Primary Medical Services Performers Lis
 
 (15) In paragraph (13), for “Board” substitute “Department”.
 
-**21.**[^key-732f485738518ce83ea750b6df66fced] (1) Regulation 14 (Disclosure of information) is amended as follows.
+**21.**[^c-732f485738518ce83ea750b6df66fced] (1) Regulation 14 (Disclosure of information) is amended as follows.
 
 (2) In paragraph (2), omit “ (a) the Department;”
 
@@ -502,11 +502,11 @@ The Health and Personal Social Services (Primary Medical Services Performers Lis
 
 (4) In paragraph (8), omit “(a) the Department;”.
 
-### 22. General Ophthalmic Services Regulations (Northern Ireland) 2007[^key-2acebe0c8a4ae2903aa743ba1fadda3f]
+### 22. General Ophthalmic Services Regulations (Northern Ireland) 2007[^c-2acebe0c8a4ae2903aa743ba1fadda3f]
 
 The General Ophthalmic Services Regulations (Northern Ireland) 2007[^f00026] are amended as follows.
 
-**23.**[^key-0ae0f0601805e3364b2d7c4d899ed783] (1) In Regulation 2 (Interpretation) in the appropriate place, insert—
+**23.**[^c-0ae0f0601805e3364b2d7c4d899ed783] (1) In Regulation 2 (Interpretation) in the appropriate place, insert—
 
 > - “**Family Practitioner Services Independent Appeal Panel**” means the body established under regulation 3 of the Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022[^f00027];
 
@@ -515,22 +515,22 @@ The General Ophthalmic Services Regulations (Northern Ireland) 2007[^f00026] are
 - (a) for “the Regional Board”, in each place it occurs, substitute “the Department”; and
 - (b) for “Department from decisions of the Board” substitute “Family Practitioner Services Independent Panel from decisions of the Department”.
 
-### 24. Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2016[^key-2da7d71a683ddcc06c28acb2bf7dd5b4]
+### 24. Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2016[^c-2da7d71a683ddcc06c28acb2bf7dd5b4]
 
 The Health and Social Care (Disciplinary Procedures) Regulations (Northern Ireland) 2016[^f00028] are amended as follows.
 
-**25.**[^key-0c1ad08a647657122dec7f35350448a1] (1) Regulation 1(2) (Citation, commencement and interpretation) is amended as follows.
+**25.**[^c-0c1ad08a647657122dec7f35350448a1] (1) Regulation 1(2) (Citation, commencement and interpretation) is amended as follows.
 
 (2) In the appropriate place insert –
 
 - “**Family Practitioner Services Independent Appeal Panel**” means the body established under regulation 3 of the Health and Social Care (Family Practitioner Services Independent Appeal Panel) Regulations (Northern Ireland) 2022[^f00029];”
 
-**26.**[^key-bada2238752e05d7040b2b506409534e] In regulation 4 (4) (Determination of the Regional Board)—
+**26.**[^c-bada2238752e05d7040b2b506409534e] In regulation 4 (4) (Determination of the Regional Board)—
 
 - (a) omit “and the Department”;
 - (b) for “Department” in the second place it appears substitute “Family Practitioner Services Independent Appeal Panel”.
 
-**27.**[^key-b6d053b4e959489d72959c637314f7b3] (1) Regulation 5 (Appeal to the Family Practitioner Services Independent Appeal Panel) is amended as follows.
+**27.**[^c-b6d053b4e959489d72959c637314f7b3] (1) Regulation 5 (Appeal to the Family Practitioner Services Independent Appeal Panel) is amended as follows.
 
 (2) In the heading to the regulation, for “Department” substitute “Family Practitioner Services Independent Appeal Panel”.
 
@@ -558,7 +558,7 @@ The Health and Social Care (Disciplinary Procedures) Regulations (Northern Irela
 
 (8) Omit paragraph (6).
 
-**28.**[^key-28f582c81bce62dd44329fe5b1b9e439] (1) Regulation 6 (Procedure on appeal) is amended as follows.
+**28.**[^c-28f582c81bce62dd44329fe5b1b9e439] (1) Regulation 6 (Procedure on appeal) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -597,7 +597,7 @@ The Health and Social Care (Disciplinary Procedures) Regulations (Northern Irela
 
 (10) Omit paragraph (14).
 
-**29.**[^key-3813be0aec03060f442264aa87aeb012] (1) Regulation 7 (Recovery of amounts from practitioners following appeal) is amended as follows.
+**29.**[^c-3813be0aec03060f442264aa87aeb012] (1) Regulation 7 (Recovery of amounts from practitioners following appeal) is amended as follows.
 
 (2) In paragraph (1), for “Department” in both places substitute “Family Practitioner Services Independent Appeal Panel”.
 
@@ -615,7 +615,7 @@ The Health and Social Care (Disciplinary Procedures) Regulations (Northern Irela
 
 (6) In paragraph (5), for “Regional Board” in both places substitute “Department”.
 
-**30.**[^key-6f32bda3951991b5788db56a912fe6c2] (1) Regulation 8 (Prior approval in dental cases) is amended as follows.
+**30.**[^c-6f32bda3951991b5788db56a912fe6c2] (1) Regulation 8 (Prior approval in dental cases) is amended as follows.
 
 (2) In paragraph (3), omit “and the Regional Board”.
 
@@ -650,9 +650,9 @@ These Regulations are made in exercise of powers conferred by the Health and Per
 
 [^f00004]: Footnote: [S.I. 1991/194 (N.I.1)](https://www.legislation.gov.uk/nisi/1991/194). Paragraphs (9A) and (9B) were inserted by paragraph 139 (b) of Schedule 1 to the 2022 Act.
 
-[^key-5dd2f52b66e930b6627e65402e516693]: Commencement: Reg. 1 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-5dd2f52b66e930b6627e65402e516693]: Commencement: Reg. 1 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-743cff7298fc9d7b448ba2e05ad9af63]: Commencement: Reg. 2 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-743cff7298fc9d7b448ba2e05ad9af63]: Commencement: Reg. 2 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1993 No. 326](https://www.legislation.gov.uk/nisr/1993/326); definition inserted by reg. 2 of [S.R. 2001 No. 89](https://www.legislation.gov.uk/nisr/2001/89).
 
@@ -664,93 +664,93 @@ These Regulations are made in exercise of powers conferred by the Health and Per
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-a99e86a641fa3dd9d5eabc4bfe822bc4]: Commencement: Reg. 3 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-a99e86a641fa3dd9d5eabc4bfe822bc4]: Commencement: Reg. 3 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-bfccd7bb3b1c2e1a0c49500b971b9c34]: Commencement: Reg. 4 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-bfccd7bb3b1c2e1a0c49500b971b9c34]: Commencement: Reg. 4 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-a85012ca7ca7d11457b1adb23153f2e1]: Commencement: Reg. 5 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-a85012ca7ca7d11457b1adb23153f2e1]: Commencement: Reg. 5 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-9d04678f884b5316449879d623bed555]: Commencement: Reg. 6 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-9d04678f884b5316449879d623bed555]: Commencement: Reg. 6 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00010]: Footnote: [S.R. 2004 No. 140](https://www.legislation.gov.uk/nisr/2004/140)
 
-[^key-19868bc9d6afd94cea64067e4ea018e6]: Commencement: Reg. 7 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-19868bc9d6afd94cea64067e4ea018e6]: Commencement: Reg. 7 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-5cdf580f322d095de4f17eb6c6d9a785]: Commencement: Reg. 8 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-5cdf580f322d095de4f17eb6c6d9a785]: Commencement: Reg. 8 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-92ff5ca96139e7d5c44597ba94d7dc01]: Commencement: Reg. 9 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-92ff5ca96139e7d5c44597ba94d7dc01]: Commencement: Reg. 9 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-424a38393237659cd8148bacb81b5b6f]: Commencement: Reg. 10 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-424a38393237659cd8148bacb81b5b6f]: Commencement: Reg. 10 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-668ade9a5d3ade4d1ab293ac2b330c31]: Commencement: Reg. 11 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-668ade9a5d3ade4d1ab293ac2b330c31]: Commencement: Reg. 11 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-2447d00563093c1f283870efdceec69d]: Commencement: Reg. 12 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-2447d00563093c1f283870efdceec69d]: Commencement: Reg. 12 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-262e3230768fb77dde4f7ea89e334a63]: Commencement: Reg. 13 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-262e3230768fb77dde4f7ea89e334a63]: Commencement: Reg. 13 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-0b0c88d7f118a1ef4f2fffb65367fdcd]: Commencement: Sch. para. 1 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-0b0c88d7f118a1ef4f2fffb65367fdcd]: Commencement: Sch. para. 1 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00011]: Footnote: [S.R. 1993 No. 326](https://www.legislation.gov.uk/nisr/1993/326).
 
-[^key-a3e07ddfd7c4feb19a6344a3acc973f9]: Commencement: Sch. para. 2 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-a3e07ddfd7c4feb19a6344a3acc973f9]: Commencement: Sch. para. 2 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00012]: Footnote: [S.R. 2022 No. 109](https://www.legislation.gov.uk/nisr/2022/109).
 
-[^key-8c2c11d788b0792c1d0f3deda397459b]: Commencement: Sch. para. 3 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-8c2c11d788b0792c1d0f3deda397459b]: Commencement: Sch. para. 3 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00013]: Footnote: Paragraphs (2A) to (2E) were inserted by regulation 4 of [S.R. 2001 No. 89](https://www.legislation.gov.uk/nisr/2001/89).
 
-[^key-b08364383cb2e47cd7b787ddc5e18032]: Commencement: Sch. para. 4 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-b08364383cb2e47cd7b787ddc5e18032]: Commencement: Sch. para. 4 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-df4b2de1f24cc46dfdd0f91fb8bb1b06]: Commencement: Sch. para. 5 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-df4b2de1f24cc46dfdd0f91fb8bb1b06]: Commencement: Sch. para. 5 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00014]: Footnote: [S.R. 2004 No. 140](https://www.legislation.gov.uk/nisr/2004/140).
 
-[^key-27865c6135f62986fd1766a1621582a2]: Commencement: Sch. para. 6 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-27865c6135f62986fd1766a1621582a2]: Commencement: Sch. para. 6 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00015]: Footnote: [S.R. 2022 No. 109](https://www.legislation.gov.uk/nisr/2022/109).
 
-[^key-768d69edd5bd52cf5958593154e2a9fb]: Commencement: Sch. para. 7 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-768d69edd5bd52cf5958593154e2a9fb]: Commencement: Sch. para. 7 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-b974879b2d63fae91f919e65143cab11]: Commencement: Sch. para. 8 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-b974879b2d63fae91f919e65143cab11]: Commencement: Sch. para. 8 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-cdd45df8ab6032f7307b1dc66c313515]: Commencement: Sch. para. 9 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-cdd45df8ab6032f7307b1dc66c313515]: Commencement: Sch. para. 9 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-dc2d35ff8f960503ede76b2606c30181]: Commencement: Sch. para. 10 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-dc2d35ff8f960503ede76b2606c30181]: Commencement: Sch. para. 10 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-635e2e684741b0f444bcd23e377b81eb]: Commencement: Sch. para. 11 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-635e2e684741b0f444bcd23e377b81eb]: Commencement: Sch. para. 11 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00016]: Footnote: [S.R. 2004 No. 149](https://www.legislation.gov.uk/nisr/2004/149).
 
-[^key-e21de3dab24e3e2847096273195643df]: Commencement: Sch. para. 12 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-e21de3dab24e3e2847096273195643df]: Commencement: Sch. para. 12 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00017]: Footnote: [S.R. 2022 No. 109](https://www.legislation.gov.uk/nisr/2022/109).
 
-[^key-a78073d7e8e5869f1cb49bd90e5ff7be]: Commencement: Sch. para. 13 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-a78073d7e8e5869f1cb49bd90e5ff7be]: Commencement: Sch. para. 13 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-c2cb09b0850e965be1acf6831eed708b]: Commencement: Sch. para. 14 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-c2cb09b0850e965be1acf6831eed708b]: Commencement: Sch. para. 14 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00018]: Footnote: Regulation 6C was inserted by regulation 4 of [S.R. 2010 No. 376](https://www.legislation.gov.uk/nisr/2010/376).
 
-[^key-3373efd1f3099c1f58e0d4243b4abd5c]: Commencement: Sch. para. 15 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-3373efd1f3099c1f58e0d4243b4abd5c]: Commencement: Sch. para. 15 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00019]: Footnote: Regulation 8A was inserted by regulation 9 of [S.R. 2008 No. 434](https://www.legislation.gov.uk/nisr/2008/434).
 
-[^key-831cb0ea8d692459d8c976e56178125c]: Commencement: Sch. para. 16 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-831cb0ea8d692459d8c976e56178125c]: Commencement: Sch. para. 16 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-5b355c1d0cc3e41c01b599252d599a92]: Commencement: Sch. para. 17 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-5b355c1d0cc3e41c01b599252d599a92]: Commencement: Sch. para. 17 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00020]: Footnote: Regulation 10A was inserted by regulation 11 of [S.R. 2008 No. 434](https://www.legislation.gov.uk/nisr/2008/434).
 
-[^key-6af983b22c5bbf3e8fe94037e0e2f5d9]: Commencement: Sch. para. 18 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-6af983b22c5bbf3e8fe94037e0e2f5d9]: Commencement: Sch. para. 18 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00021]: Footnote: Regulation 12A was inserted by regulation 13 of [S.R. 2008 No. 434](https://www.legislation.gov.uk/nisr/2008/434).
 
-[^key-c92cd83f8ea1795305b574056d842468]: Commencement: Sch. para. 19 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-c92cd83f8ea1795305b574056d842468]: Commencement: Sch. para. 19 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00022]: Footnote: Regulation 12B was inserted by regulation 14 of [S.R. 2008 No. 434](https://www.legislation.gov.uk/nisr/2008/434).
 
-[^key-96c1d16db9f547c542aab23df9c62d47]: Commencement: Sch. para. 20 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-96c1d16db9f547c542aab23df9c62d47]: Commencement: Sch. para. 20 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00023]: Footnote: Regulation 13(1) was substituted and regulation 13 (1A) was inserted by regulation 15 of [S.R. 2008 No. 434](https://www.legislation.gov.uk/nisr/2008/434).
 
@@ -758,30 +758,30 @@ These Regulations are made in exercise of powers conferred by the Health and Per
 
 [^f00025]: Footnote: Paragraphs (12) and (13) were inserted by regulation 15 of [S.R. 2008 No. 434](https://www.legislation.gov.uk/nisr/2008/434).
 
-[^key-732f485738518ce83ea750b6df66fced]: Commencement: Sch. para. 21 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-732f485738518ce83ea750b6df66fced]: Commencement: Sch. para. 21 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-2acebe0c8a4ae2903aa743ba1fadda3f]: Commencement: Sch. para. 22 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-2acebe0c8a4ae2903aa743ba1fadda3f]: Commencement: Sch. para. 22 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00026]: Footnote: [S.R. 2007 No. 436](https://www.legislation.gov.uk/nisr/2007/436)
 
-[^key-0ae0f0601805e3364b2d7c4d899ed783]: Commencement: Sch. para. 23 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-0ae0f0601805e3364b2d7c4d899ed783]: Commencement: Sch. para. 23 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00027]: Footnote: [S.R. 2022 No. 109](https://www.legislation.gov.uk/nisr/2022/109).
 
-[^key-2da7d71a683ddcc06c28acb2bf7dd5b4]: Commencement: Sch. para. 24 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-2da7d71a683ddcc06c28acb2bf7dd5b4]: Commencement: Sch. para. 24 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00028]: Footnote: [S.R. 2016 No. 104](https://www.legislation.gov.uk/nisr/2016/104).
 
-[^key-0c1ad08a647657122dec7f35350448a1]: Commencement: Sch. para. 25 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-0c1ad08a647657122dec7f35350448a1]: Commencement: Sch. para. 25 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
 [^f00029]: Footnote: [S.R. 2022 No. 109](https://www.legislation.gov.uk/nisr/2022/109).
 
-[^key-bada2238752e05d7040b2b506409534e]: Commencement: Sch. para. 26 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-bada2238752e05d7040b2b506409534e]: Commencement: Sch. para. 26 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-b6d053b4e959489d72959c637314f7b3]: Commencement: Sch. para. 27 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-b6d053b4e959489d72959c637314f7b3]: Commencement: Sch. para. 27 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-28f582c81bce62dd44329fe5b1b9e439]: Commencement: Sch. para. 28 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-28f582c81bce62dd44329fe5b1b9e439]: Commencement: Sch. para. 28 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-3813be0aec03060f442264aa87aeb012]: Commencement: Sch. para. 29 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-3813be0aec03060f442264aa87aeb012]: Commencement: Sch. para. 29 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
 
-[^key-6f32bda3951991b5788db56a912fe6c2]: Commencement: Sch. para. 30 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)
+[^c-6f32bda3951991b5788db56a912fe6c2]: Commencement: Sch. para. 30 in operation at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/109/regulation/1)

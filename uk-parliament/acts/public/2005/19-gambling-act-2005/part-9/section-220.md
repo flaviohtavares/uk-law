@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Acknowledgment of notice[^key-3d1b4e6a38ccba777c7887c51f52ed72]
+## 220. Acknowledgment of notice[^c-3d1b4e6a38ccba777c7887c51f52ed72]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where a licensing authority receive a temporary use notice in accordance with se
 
 ## Annotations
 
-[^key-3d1b4e6a38ccba777c7887c51f52ed72]: Commencement: [S. 220](https://www.legislation.gov.uk/ukpga/2005/19/section/220) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-3d1b4e6a38ccba777c7887c51f52ed72]: Commencement: [S. 220](https://www.legislation.gov.uk/ukpga/2005/19/section/220) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

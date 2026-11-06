@@ -27,7 +27,7 @@ summary: ''
 - (a) before the end of the period of three months beginning with that day, or
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented within that period of three months.
 
-(2A)[^key-f98ac9263c93f4fc77a2b16fc64d39af] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
+(2A)[^c-f98ac9263c93f4fc77a2b16fc64d39af] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 (3) Where an industrial tribunal finds a complaint under paragraph (1) well-founded, the tribunal shall order the employer to pay the employee the amount of remuneration which it finds is due to him or her.
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f98ac9263c93f4fc77a2b16fc64d39af]: Textual amendment: [Art. 102(2A)](https://www.legislation.gov.uk/nisi/1996/1919/article/102/2A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 33](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/33); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-f98ac9263c93f4fc77a2b16fc64d39af]: Textual amendment: [Art. 102(2A)](https://www.legislation.gov.uk/nisi/1996/1919/article/102/2A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 33](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/33); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)

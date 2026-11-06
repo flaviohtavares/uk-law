@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Byelaws[^key-a1bc409cd01af1566918d14de7664c90]
+## 4. Byelaws[^c-a1bc409cd01af1566918d14de7664c90]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ the byelaw or direction of the PLA or of the Harbour Master shall prevail.
 
 ## Annotations
 
-[^key-a1bc409cd01af1566918d14de7664c90]: Commencement: Art. 4 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-a1bc409cd01af1566918d14de7664c90]: Commencement: Art. 4 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

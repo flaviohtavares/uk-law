@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Exempt interest[^key-a6c64b8009e6b2ea966e2efc16eca880]
+## 5. Exempt interest[^c-a6c64b8009e6b2ea966e2efc16eca880]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6c64b8009e6b2ea966e2efc16eca880]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2013/11/section/5) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-a6c64b8009e6b2ea966e2efc16eca880]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2013/11/section/5) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

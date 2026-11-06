@@ -46,22 +46,22 @@ The Lord Chancellor makes this Order in exercise of the powers conferred by sect
 
 He has consulted the General Council of the Bar and the Law Society in accordance with section 25(2) of that Act and has had regard to the matters specified in section 25(3) of that Act.
 
-## 1. Citation, commencement and interpretation[^key-90674a820613d9a716b551356f8f2ff7]
+## 1. Citation, commencement and interpretation[^c-90674a820613d9a716b551356f8f2ff7]
 
 This Order may be cited as the Criminal Defence Service (Funding) (Amendment No. 2) Order 2010.
 
-**2.**[^key-1660c2835505068079d8da0319481079] This Order comes into force on 27th April 2010, except for article 5 which comes into force on 14th July 2010.
+**2.**[^c-1660c2835505068079d8da0319481079] This Order comes into force on 27th April 2010, except for article 5 which comes into force on 14th July 2010.
 
-**3.**[^key-5d6ed47095983694f112fa9fa40d66f5] In this Order—
+**3.**[^c-5d6ed47095983694f112fa9fa40d66f5] In this Order—
 
 - (a) “representation order” means a document granting a right to representation;
 - (b) “the 2007 Order” means the Criminal Defence Service (Funding) Order 2007[^f00002].
 
-## 4. Amendments to the 2007 Order[^key-fa13dbd5f6ebfabb2a135da97ed81223]
+## 4. Amendments to the 2007 Order[^c-fa13dbd5f6ebfabb2a135da97ed81223]
 
 The 2007 Order is amended in accordance with articles 5 to 8 of this Order.
 
-**5.**[^key-073e041e24e9ec9c0225893cc22df135] (1) This article applies to proceedings in which a representation order is granted on or after 14th July 2010.
+**5.**[^c-073e041e24e9ec9c0225893cc22df135] (1) This article applies to proceedings in which a representation order is granted on or after 14th July 2010.
 
 (2) In article 2, for the definition of “Very High Cost Case” substitute—
 
@@ -77,7 +77,7 @@ The 2007 Order is amended in accordance with articles 5 to 8 of this Order.
 - (b) paragraphs 2(6) and 2(7) of Schedule 2, after each reference to “Very High Cost Case” insert “(in relation to fees claimed by litigators)”;
 - (c) paragraph 25(1) of Schedule 2, after the first reference to “Very High Cost Case” insert “(in relation to fees claimed by advocates)”.
 
-**6.**[^key-c8474901278203dfc0ca673fcf6353c8] (1) This article applies to proceedings in which a representation order is granted on or after 27th April 2010 but before 1st April 2011.
+**6.**[^c-c8474901278203dfc0ca673fcf6353c8] (1) This article applies to proceedings in which a representation order is granted on or after 27th April 2010 but before 1st April 2011.
 
 (2) In Schedule 1 to the 2007 Order—
 
@@ -87,7 +87,7 @@ The 2007 Order is amended in accordance with articles 5 to 8 of this Order.
 - (d) for the table following paragraph 19, and the heading to that table, substitute the table and heading in Part 4 of Schedule 1 to this Order;
 - (e) for the table following paragraph 25, and the heading to that table, substitute the table and heading in Part 5 of Schedule 1 to this Order.
 
-**7.**[^key-9877b78dda610c0b284306dae02ed82d] (1) This article applies where a representation order is granted on or after 1st April 2011 but before 1st April 2012.
+**7.**[^c-9877b78dda610c0b284306dae02ed82d] (1) This article applies where a representation order is granted on or after 1st April 2011 but before 1st April 2012.
 
 (2) In Schedule 1 to the 2007 Order—
 
@@ -113,7 +113,7 @@ Ministry of Justice
 
 Article 6
 
-### PART 1[^key-81dc7f454989d26171d32f69952e82e7]
+### PART 1[^c-81dc7f454989d26171d32f69952e82e7]
 
 > Table of Fees and Uplifts
 >
@@ -173,7 +173,7 @@ Article 6
 > </tbody>
 > </table>
 
-### PART 2[^key-f2d9e47ed6adf797c933d7489ee18276]
+### PART 2[^c-f2d9e47ed6adf797c933d7489ee18276]
 
 > Table A—Fees and uplifts in guilty pleas and trials which crack in the first third
 >
@@ -291,9 +291,9 @@ Article 6
 > </tbody>
 > </table>
 
-### PART 3[^key-1ce4f41e7c03e29e88910eb7249c56b6]
+### PART 3[^c-1ce4f41e7c03e29e88910eb7249c56b6]
 
-> Fees for confiscation hearings (£)[^key-f22115726d5ae972e20db25a39682932]
+> Fees for confiscation hearings (£)[^c-f22115726d5ae972e20db25a39682932]
 >
 > |  | Fee for QC | Fee for leading junior | Fee for junior alone | Fee for led junior |
 > | --- | --- | --- | --- | --- |
@@ -308,7 +308,7 @@ Article 6
 > | *3 - Preparation* |  |  |  |  |
 > | Hourly rates | 81 | 62 | 43 | 43 |
 
-### PART 4[^key-865c8de6462a436af3a05a56e46c2a68]
+### PART 4[^c-865c8de6462a436af3a05a56e46c2a68]
 
 > Fixed Fees
 >
@@ -335,7 +335,7 @@ Article 6
 > | Second and subsequent days of an application to dismiss | 18(6) | 287 Half day<br>549 Full day | 215 Half day<br>382 Full day | 143 Half day<br>263 Full day |
 > | Noting brief | 19 | \- | \- | 119 per day |
 
-### PART 5[^key-1df973ce28e59410aec2751637270bfa]
+### PART 5[^c-1df973ce28e59410aec2751637270bfa]
 
 > Daily rates payable where a trial lasts over 40 days
 >
@@ -399,7 +399,7 @@ Article 6
 
 Article 7
 
-### PART 1[^key-8efe173d9fd787a0822a8aa915229593]
+### PART 1[^c-8efe173d9fd787a0822a8aa915229593]
 
 > Table of Fees and Uplifts
 >
@@ -459,7 +459,7 @@ Article 7
 > </tbody>
 > </table>
 
-### PART 2[^key-464848b16b5b89beb6991b87d3d54ec4]
+### PART 2[^c-464848b16b5b89beb6991b87d3d54ec4]
 
 > Table A—Fees and uplifts in guilty pleas and trials which crack in the first third
 >
@@ -577,9 +577,9 @@ Article 7
 > </tbody>
 > </table>
 
-### PART 3[^key-181cdeaddf65033d72fe2836d7c70dd0]
+### PART 3[^c-181cdeaddf65033d72fe2836d7c70dd0]
 
-> Fees for confiscation hearings (£)[^key-eca87d063d8f0e6700cd6ecd3c7b156d]
+> Fees for confiscation hearings (£)[^c-eca87d063d8f0e6700cd6ecd3c7b156d]
 >
 > |  | Fee for QC | Fee for leading junior | Fee for junior alone | Fee for led junior |
 > | --- | --- | --- | --- | --- |
@@ -594,7 +594,7 @@ Article 7
 > | *3 - Preparation* |  |  |  |  |
 > | Hourly rates | 77 | 59 | 41 | 41 |
 
-### PART 4[^key-ae4d0e68e86ba8047b85c04aea268bab]
+### PART 4[^c-ae4d0e68e86ba8047b85c04aea268bab]
 
 > Fixed Fees
 >
@@ -621,7 +621,7 @@ Article 7
 > | Second and subsequent days of an application to dismiss | 18(6) | 273 Half day<br>523 Full day | 205 Half day<br>364 Full day | 137 Half day<br>250 Full day |
 > | Noting brief | 19 | \- | \- | 114 per day |
 
-### PART 5[^key-1c41eabf3ce07878951459ac8bc83ff1]
+### PART 5[^c-1c41eabf3ce07878951459ac8bc83ff1]
 
 > Daily rates payable where a trial lasts over 40 days
 >
@@ -685,7 +685,7 @@ Article 7
 
 Article 8
 
-### PART 1[^key-84d612deecf8aa8da63c49ffed4c6222]
+### PART 1[^c-84d612deecf8aa8da63c49ffed4c6222]
 
 > Table of Fees and Uplifts
 >
@@ -745,7 +745,7 @@ Article 8
 > </tbody>
 > </table>
 
-### PART 2[^key-74cbf769e7775ff4d68ca4a1ed803b20]
+### PART 2[^c-74cbf769e7775ff4d68ca4a1ed803b20]
 
 > Table A—Fees and uplifts in guilty pleas and trials which crack in the first third
 >
@@ -863,9 +863,9 @@ Article 8
 > </tbody>
 > </table>
 
-### PART 3[^key-58f63a19051729a3eb8601307c1cfafb]
+### PART 3[^c-58f63a19051729a3eb8601307c1cfafb]
 
-> Fees for confiscation hearings (£)[^key-6cf3814d9edacd487e8898eff3b293dd]
+> Fees for confiscation hearings (£)[^c-6cf3814d9edacd487e8898eff3b293dd]
 >
 > |  | Fee for QC | Fee for leading junior | Fee for junior alone | Fee for led junior |
 > | --- | --- | --- | --- | --- |
@@ -880,7 +880,7 @@ Article 8
 > | *3 - Preparation* |  |  |  |  |
 > | Hourly rates | 74 | 56 | 39 | 39 |
 
-### PART 4[^key-c5f399b7ed7353a1dd8007a407a8d54f]
+### PART 4[^c-c5f399b7ed7353a1dd8007a407a8d54f]
 
 > Fixed Fees
 >
@@ -907,7 +907,7 @@ Article 8
 > | Second and subsequent days of an application to dismiss | 18(6) | 260 Half day<br>497 Full day | 195 Half day<br>346 Full day | 130 Half day<br>238 Full day |
 > | Noting brief | 19 | \- | \- | 108 per day |
 
-### PART 5[^key-5b19f564612b1bf2b6fb619d780f4d76]
+### PART 5[^c-5b19f564612b1bf2b6fb619d780f4d76]
 
 > Daily rates payable where a trial lasts over 40 days
 >
@@ -987,56 +987,56 @@ Article 8 and Schedule 3 set out the fees payable to advocates in relation to pr
 
 [^f00001]: Footnote: [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22): section 25(8A) was inserted by section 153(3) of the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25). The reference in section 14(3) to the Lord Chancellor was changed to the Secretary of State by [S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887) and changed back to the Lord Chancellor by [S.I. 2005/3429](https://www.legislation.gov.uk/uksi/2005/3429).
 
-[^key-90674a820613d9a716b551356f8f2ff7]: Commencement: Art. 1 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-90674a820613d9a716b551356f8f2ff7]: Commencement: Art. 1 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-1660c2835505068079d8da0319481079]: Commencement: Art. 2 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-1660c2835505068079d8da0319481079]: Commencement: Art. 2 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-5d6ed47095983694f112fa9fa40d66f5]: Commencement: Art. 3 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-5d6ed47095983694f112fa9fa40d66f5]: Commencement: Art. 3 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
 [^f00002]: Footnote: [S.I. 2007/1174](https://www.legislation.gov.uk/uksi/2007/1174). Relevant amending instruments are [S.I. 2007/3552](https://www.legislation.gov.uk/uksi/2007/3552), [2009/1843](https://www.legislation.gov.uk/uksi/2009/1843), [2009/2086](https://www.legislation.gov.uk/uksi/2009/2086).
 
-[^key-fa13dbd5f6ebfabb2a135da97ed81223]: Commencement: Art. 4 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-fa13dbd5f6ebfabb2a135da97ed81223]: Commencement: Art. 4 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-073e041e24e9ec9c0225893cc22df135]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/1181/article/5) in force at 14.7.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-073e041e24e9ec9c0225893cc22df135]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/1181/article/5) in force at 14.7.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-c8474901278203dfc0ca673fcf6353c8]: Commencement: Art. 6 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-c8474901278203dfc0ca673fcf6353c8]: Commencement: Art. 6 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-9877b78dda610c0b284306dae02ed82d]: Commencement: Art. 7 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-9877b78dda610c0b284306dae02ed82d]: Commencement: Art. 7 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
 [^M_F_90c0ba9e-12d8-4ae3-dc5f-86e8f90536fd]: Textual amendment: Art. 8 revoked (3.10.2011) by [The Criminal Defence Service (Funding) (Amendment) Order 2011 (S.I. 2011/2065)](https://www.legislation.gov.uk/uksi/2011/2065), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1), [32](https://www.legislation.gov.uk/uksi/2011/2065/article/32)
 
-[^key-81dc7f454989d26171d32f69952e82e7]: Commencement: Sch. 1 Pt. 1 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-81dc7f454989d26171d32f69952e82e7]: Commencement: Sch. 1 Pt. 1 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-f2d9e47ed6adf797c933d7489ee18276]: Commencement: Sch. 1 Pt. 2 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-f2d9e47ed6adf797c933d7489ee18276]: Commencement: Sch. 1 Pt. 2 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-1ce4f41e7c03e29e88910eb7249c56b6]: Commencement: Sch. 1 Pt. 3 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-1ce4f41e7c03e29e88910eb7249c56b6]: Commencement: Sch. 1 Pt. 3 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-f22115726d5ae972e20db25a39682932]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2010/1181/schedule/1/part/3) Table substituted (26.4.2010) by [The Criminal Defence Service (Funding) (Amendment No. 3) Order 2010 (S.I. 2010/1358)](https://www.legislation.gov.uk/uksi/2010/1358), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1358/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1358/article/4)
+[^c-f22115726d5ae972e20db25a39682932]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2010/1181/schedule/1/part/3) Table substituted (26.4.2010) by [The Criminal Defence Service (Funding) (Amendment No. 3) Order 2010 (S.I. 2010/1358)](https://www.legislation.gov.uk/uksi/2010/1358), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1358/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1358/article/4)
 
-[^key-865c8de6462a436af3a05a56e46c2a68]: Commencement: Sch. 1 Pt. 4 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-865c8de6462a436af3a05a56e46c2a68]: Commencement: Sch. 1 Pt. 4 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-1df973ce28e59410aec2751637270bfa]: Commencement: Sch. 1 Pt. 5 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-1df973ce28e59410aec2751637270bfa]: Commencement: Sch. 1 Pt. 5 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-8efe173d9fd787a0822a8aa915229593]: Commencement: Sch. 2 Pt. 1 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-8efe173d9fd787a0822a8aa915229593]: Commencement: Sch. 2 Pt. 1 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-464848b16b5b89beb6991b87d3d54ec4]: Commencement: Sch. 2 Pt. 2 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-464848b16b5b89beb6991b87d3d54ec4]: Commencement: Sch. 2 Pt. 2 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-181cdeaddf65033d72fe2836d7c70dd0]: Commencement: Sch. 2 Pt. 3 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-181cdeaddf65033d72fe2836d7c70dd0]: Commencement: Sch. 2 Pt. 3 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-eca87d063d8f0e6700cd6ecd3c7b156d]: Textual amendment: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2010/1181/schedule/2/part/3) Table substituted (26.4.2010) by [The Criminal Defence Service (Funding) (Amendment No. 3) Order 2010 (S.I. 2010/1358)](https://www.legislation.gov.uk/uksi/2010/1358), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1358/article/1), [5](https://www.legislation.gov.uk/uksi/2010/1358/article/5)
+[^c-eca87d063d8f0e6700cd6ecd3c7b156d]: Textual amendment: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2010/1181/schedule/2/part/3) Table substituted (26.4.2010) by [The Criminal Defence Service (Funding) (Amendment No. 3) Order 2010 (S.I. 2010/1358)](https://www.legislation.gov.uk/uksi/2010/1358), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1358/article/1), [5](https://www.legislation.gov.uk/uksi/2010/1358/article/5)
 
-[^key-ae4d0e68e86ba8047b85c04aea268bab]: Commencement: Sch. 2 Pt. 4 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-ae4d0e68e86ba8047b85c04aea268bab]: Commencement: Sch. 2 Pt. 4 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-1c41eabf3ce07878951459ac8bc83ff1]: Commencement: Sch. 2 Pt. 5 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-1c41eabf3ce07878951459ac8bc83ff1]: Commencement: Sch. 2 Pt. 5 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-84d612deecf8aa8da63c49ffed4c6222]: Commencement: Sch. 3 Pt. 1 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-84d612deecf8aa8da63c49ffed4c6222]: Commencement: Sch. 3 Pt. 1 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-74cbf769e7775ff4d68ca4a1ed803b20]: Commencement: Sch. 3 Pt. 2 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-74cbf769e7775ff4d68ca4a1ed803b20]: Commencement: Sch. 3 Pt. 2 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-58f63a19051729a3eb8601307c1cfafb]: Commencement: Sch. 3 Pt. 3 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-58f63a19051729a3eb8601307c1cfafb]: Commencement: Sch. 3 Pt. 3 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-6cf3814d9edacd487e8898eff3b293dd]: Textual amendment: [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2010/1181/schedule/3/part/3) Table substituted (26.4.2010) by [The Criminal Defence Service (Funding) (Amendment No. 3) Order 2010 (S.I. 2010/1358)](https://www.legislation.gov.uk/uksi/2010/1358), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1358/article/1), [6](https://www.legislation.gov.uk/uksi/2010/1358/article/6)
+[^c-6cf3814d9edacd487e8898eff3b293dd]: Textual amendment: [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2010/1181/schedule/3/part/3) Table substituted (26.4.2010) by [The Criminal Defence Service (Funding) (Amendment No. 3) Order 2010 (S.I. 2010/1358)](https://www.legislation.gov.uk/uksi/2010/1358), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1358/article/1), [6](https://www.legislation.gov.uk/uksi/2010/1358/article/6)
 
-[^key-c5f399b7ed7353a1dd8007a407a8d54f]: Commencement: Sch. 3 Pt. 4 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-c5f399b7ed7353a1dd8007a407a8d54f]: Commencement: Sch. 3 Pt. 4 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
 
-[^key-5b19f564612b1bf2b6fb619d780f4d76]: Commencement: Sch. 3 Pt. 5 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)
+[^c-5b19f564612b1bf2b6fb619d780f4d76]: Commencement: Sch. 3 Pt. 5 in force at 27.4.2010, see [art. 2](https://www.legislation.gov.uk/uksi/2010/1181/article/2)

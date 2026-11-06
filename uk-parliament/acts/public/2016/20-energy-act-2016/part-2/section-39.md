@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Participation by the OGA in meetings[^key-d246dd94cff72bd753431744c5d8e0cc]
+## 39. Participation by the OGA in meetings[^c-d246dd94cff72bd753431744c5d8e0cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d246dd94cff72bd753431744c5d8e0cc]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2016/20/section/39) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-d246dd94cff72bd753431744c5d8e0cc]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2016/20/section/39) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

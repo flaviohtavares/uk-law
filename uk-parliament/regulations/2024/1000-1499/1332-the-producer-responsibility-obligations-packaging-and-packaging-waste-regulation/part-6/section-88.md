@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Conditions of registration and annual charge[^key-aff1229e3fadc442e0b6537b2d096829]
+## 88. Conditions of registration and annual charge[^c-aff1229e3fadc442e0b6537b2d096829]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-aff1229e3fadc442e0b6537b2d096829]: Commencement: Reg. 88 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-aff1229e3fadc442e0b6537b2d096829]: Commencement: Reg. 88 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
 [^f00065]: Footnote: [S.I. 2007/1711](https://www.legislation.gov.uk/uksi/2007/1711); relevant amending instruments are [S.I. 2008/9](https://www.legislation.gov.uk/uksi/2008/9), [2014/861](https://www.legislation.gov.uk/uksi/2014/861) and [2019/590](https://www.legislation.gov.uk/uksi/2019/590).
 

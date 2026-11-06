@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Meaning of “firework” and “pyrotechnic article”[^key-784d3ce20fb229ba183b282db95d89be][^key-136e1c94edec80bbffc6167cf84cf737]
+## 1. Meaning of “firework” and “pyrotechnic article”[^c-784d3ce20fb229ba183b282db95d89be][^c-136e1c94edec80bbffc6167cf84cf737]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-784d3ce20fb229ba183b282db95d89be]: Commencement: S. 1 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-784d3ce20fb229ba183b282db95d89be]: Commencement: S. 1 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-136e1c94edec80bbffc6167cf84cf737]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2022/9/section/1) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)
+[^c-136e1c94edec80bbffc6167cf84cf737]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2022/9/section/1) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)

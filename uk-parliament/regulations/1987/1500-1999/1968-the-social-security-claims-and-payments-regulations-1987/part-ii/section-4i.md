@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4I. Claims for employment and support allowance: supplemental[^key-e7da0b950217e9322b5f93dd25d40774]
+## 4I. Claims for employment and support allowance: supplemental[^c-e7da0b950217e9322b5f93dd25d40774]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7da0b950217e9322b5f93dd25d40774]: Textual amendment: Regs. 4G-4I inserted (27.7.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/a), [13](https://www.legislation.gov.uk/uksi/2008/1554/regulation/13)
+[^c-e7da0b950217e9322b5f93dd25d40774]: Textual amendment: Regs. 4G-4I inserted (27.7.2008) by [The Employment and Support Allowance (Consequential Provisions) (No. 2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/a), [13](https://www.legislation.gov.uk/uksi/2008/1554/regulation/13)

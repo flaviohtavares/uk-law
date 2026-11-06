@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**265.**[^key-bf64915892d8dd553bc4be71da679763] In section 41 (interpretation) after the definition of “the 2000 Act” insert—
+**265.**[^c-bf64915892d8dd553bc4be71da679763] In section 41 (interpretation) after the definition of “the 2000 Act” insert—
 
 > - “the 2014 Act” means the Social Services and Well-being (Wales) Act [2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4).
 
 ## Annotations
 
-[^key-bf64915892d8dd553bc4be71da679763]: Commencement: Reg. 265 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-bf64915892d8dd553bc4be71da679763]: Commencement: Reg. 265 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

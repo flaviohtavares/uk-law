@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order (Northern Ireland) 2011 (revoked)[^key-266a6bc0a34506acfccd1a6e154fc0c1]
+The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order (Northern Ireland) 2011 (revoked)[^c-266a6bc0a34506acfccd1a6e154fc0c1]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 13th April 2011
 
-[^key-266a6bc0a34506acfccd1a6e154fc0c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-266a6bc0a34506acfccd1a6e154fc0c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-266a6bc0a34506acfccd1a6e154fc0c1]
+## 1. Citation and commencement[^c-266a6bc0a34506acfccd1a6e154fc0c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Increase in earnings limits in respect of dependent children and qualifying young persons[^key-266a6bc0a34506acfccd1a6e154fc0c1]
+## 2. Increase in earnings limits in respect of dependent children and qualifying young persons[^c-266a6bc0a34506acfccd1a6e154fc0c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-266a6bc0a34506acfccd1a6e154fc0c1]
+## 3. Revocations[^c-266a6bc0a34506acfccd1a6e154fc0c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-266a6bc0a34506acfccd1a6e154fc0c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-266a6bc0a34506acfccd1a6e154fc0c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-266a6bc0a34506acfccd1a6e154fc0c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-266a6bc0a34506acfccd1a6e154fc0c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-266a6bc0a34506acfccd1a6e154fc0c1]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2011/121) revoked (11.4.2012) by [The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order (Northern Ireland) 2012 (S.R. 2012/118)](https://www.legislation.gov.uk/nisr/2012/118), [art. 3](https://www.legislation.gov.uk/nisr/2012/118/article/3)
+[^c-266a6bc0a34506acfccd1a6e154fc0c1]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2011/121) revoked (11.4.2012) by [The Social Security (Industrial Injuries) (Dependency) (Permitted Earnings Limits) Order (Northern Ireland) 2012 (S.R. 2012/118)](https://www.legislation.gov.uk/nisr/2012/118), [art. 3](https://www.legislation.gov.uk/nisr/2012/118/article/3)

@@ -51,17 +51,17 @@ In accordance with section 316(6)(b) and (7)(c) of that Act, a draft of these Re
 
 ## PART 1 — Introduction
 
-### 1. Title and commencement[^key-a2fc7617f1c268bdddc3618a12721534]
+### 1. Title and commencement[^c-a2fc7617f1c268bdddc3618a12721534]
 
 (1) The title of these Regulations is the Marine Licensing (Appeals Against Licensing Decisions) (Wales) Regulations 2011.
 
 (2) These Regulations come into force on 6 April 2011.
 
-### 2. Application[^key-1d5a124889ac779a1419b873f09db7f1]
+### 2. Application[^c-1d5a124889ac779a1419b873f09db7f1]
 
 These Regulations apply in relation to any licensable marine activity for which the Welsh Ministers are the appropriate licensing authority under section 113(4)(b) of the Marine and Coastal Access Act 2009[^f00002].
 
-### 3. Interpretation[^key-5615bfe33c25e1d6df50c141704f67b9]
+### 3. Interpretation[^c-5615bfe33c25e1d6df50c141704f67b9]
 
 In these Regulations—
 
@@ -81,13 +81,13 @@ In these Regulations—
 
 ## PART 2 — Appeals — general
 
-### 4. Appeal against marine licensing decisions[^key-9cd6a74d145ced3198e401334ec89afe]
+### 4. Appeal against marine licensing decisions[^c-9cd6a74d145ced3198e401334ec89afe]
 
 (1) A person who has applied for a marine licence may by notice appeal to the Welsh Ministers against a decision taken under section 71 of the Act (refusal of licence or grant subject to conditions etc).
 
 (2) Appeals must be made in accordance with these Regulations.
 
-### 5. Determination by appointed person[^key-9b6b4a7227451046443eb5ae0a7e37cb]
+### 5. Determination by appointed person[^c-9b6b4a7227451046443eb5ae0a7e37cb]
 
 (1) The Welsh Ministers must appoint a person (“the appointed person”) to —
 
@@ -118,13 +118,13 @@ that the appointed person is unable to carry out the requirements of paragraph (
 
 ## PART 3 — Starting the appeal
 
-### 6. Time limit for the notice of appeal[^key-1f2f3bb54eb950a857c3cda06b4075d8]
+### 6. Time limit for the notice of appeal[^c-1f2f3bb54eb950a857c3cda06b4075d8]
 
 (1)[^M_F_46e62e93-9e0a-453f-ea43-8ac51baea83d] Notice of an appeal must be received by the Welsh Ministers within the period of 6 months beginning with the date of the decision to which the appeal relates.
 
-(2)[^key-6385a0b9640ae3f90357390efb434650] A person who sends notice of an appeal to the Welsh Ministers must, at the same time, send a copy of that notice to the Licensing Authority.
+(2)[^c-6385a0b9640ae3f90357390efb434650] A person who sends notice of an appeal to the Welsh Ministers must, at the same time, send a copy of that notice to the Licensing Authority.
 
-### 7. Contents of the notice of appeal[^key-8eabe1df84192aaef1138926c1a102a1]
+### 7. Contents of the notice of appeal[^c-8eabe1df84192aaef1138926c1a102a1]
 
 (1) A notice of appeal must include—
 
@@ -138,7 +138,7 @@ that the appointed person is unable to carry out the requirements of paragraph (
 - (a) a copy of the decision to which the appeal relates; and
 - (b) a copy of all documents upon which the appellant wishes to rely.
 
-### 8. Decision as to appeal procedure and start date[^key-82708d4addcdf73339605456564167ae]
+### 8. Decision as to appeal procedure and start date[^c-82708d4addcdf73339605456564167ae]
 
 (1) The appointed person must, as soon as practicable after determining the validity of a notice of appeal, decide whether the appeal is to be determined by means of written representations, a hearing or an inquiry.
 
@@ -162,7 +162,7 @@ that the appointed person is unable to carry out the requirements of paragraph (
 
 ## PART 4 — Action following the start date
 
-### 9. Notice to interested persons[^key-43d31e007e2a4818d0ae712a3d3edcba]
+### 9. Notice to interested persons[^c-43d31e007e2a4818d0ae712a3d3edcba]
 
 (1) The Licensing Authority must, within the period of 2 weeks beginning with the start date, give notice that an appeal has been lodged—
 
@@ -187,7 +187,7 @@ that the appointed person is unable to carry out the requirements of paragraph (
 - (a) a list of the persons to whom, and the dates on which, notice under paragraph (1) was given; and
 - (b) copies of all representations referred to in paragraph (1)(a).
 
-### 10. Representations and comments[^key-ef6f50b87e92401807c5c097874fb4a5]
+### 10. Representations and comments[^c-ef6f50b87e92401807c5c097874fb4a5]
 
 (1) Where an appeal is to be determined by way of written representations—
 
@@ -210,11 +210,11 @@ that the appointed person is unable to carry out the requirements of paragraph (
 
 ## PART 5 — Hearings and inquiries
 
-### 11. Scope[^key-d02061ac66e5fdbe7dc8adba10832055]
+### 11. Scope[^c-d02061ac66e5fdbe7dc8adba10832055]
 
 This Part applies if an appeal is to be determined by way of hearing or inquiry (but certain provisions apply only to hearings or only to inquiries).
 
-### 12. Establishing the hearing or inquiry[^key-ffa6813bbf9d8899327b7cc0b96af1a5]
+### 12. Establishing the hearing or inquiry[^c-ffa6813bbf9d8899327b7cc0b96af1a5]
 
 (1) The appointed person must set a date for the hearing or inquiry (“the relevant date”).
 
@@ -224,7 +224,7 @@ This Part applies if an appeal is to be determined by way of hearing or inquiry 
 
 (4) If the relevant date is changed the procedure in paragraphs (2) and (3) must be repeated.
 
-### 13. Pre-inquiry meeting[^key-2259f5f3ffc6b065203fc2f28d586502]
+### 13. Pre-inquiry meeting[^c-2259f5f3ffc6b065203fc2f28d586502]
 
 (1) Where the appeal is to be determined by way of inquiry, the appointed person may hold a pre-inquiry meeting to determine the matters to be addressed and the procedure to be followed at the inquiry.
 
@@ -238,13 +238,13 @@ This Part applies if an appeal is to be determined by way of hearing or inquiry 
 
 (4) A person to whom a direction is given under paragraph (3) must comply with it.
 
-### 14. Statement of agreed facts — inquiries[^key-48f6ed4520eecc72c556564e41b32a7b]
+### 14. Statement of agreed facts — inquiries[^c-48f6ed4520eecc72c556564e41b32a7b]
 
 (1) The appellant and the Licensing Authority must together prepare a statement containing such factual information about the subject matter of the appeal as they are able to agree.
 
 (2) The Licensing Authority must ensure that the appointed person receives that statement at least 4 weeks before the inquiry date.
 
-### 15. Proofs of evidence — inquiries[^key-3d2019f71218af10f541a7d17c340728]
+### 15. Proofs of evidence — inquiries[^c-3d2019f71218af10f541a7d17c340728]
 
 (1) This regulation applies where a person entitled to appear at an inquiry intends to give, or to call a witness to give, evidence at the inquiry.
 
@@ -267,7 +267,7 @@ This Part applies if an appeal is to be determined by way of hearing or inquiry 
 
 (9) This regulation is subject to regulation 17.
 
-### 16. Procedure[^key-b4518b52a379ae9535d9f4a11537db56]
+### 16. Procedure[^c-b4518b52a379ae9535d9f4a11537db56]
 
 (1) Except as otherwise provided in these Regulations, the appointed person may determine the procedure to be followed at a hearing or inquiry.
 
@@ -299,7 +299,7 @@ This Part applies if an appeal is to be determined by way of hearing or inquiry 
 
 (13) This regulation is subject to regulation 17.
 
-### 17. Powers to exclude persons, evidence etc[^key-63e19c90353524298fbc22f4752ac423]
+### 17. Powers to exclude persons, evidence etc[^c-63e19c90353524298fbc22f4752ac423]
 
 (1) If, at any stage of a hearing or inquiry the appointed person considers that any of the reasons in paragraph (2) apply, the appointed person may prevent any person from—
 
@@ -322,7 +322,7 @@ This Part applies if an appeal is to be determined by way of hearing or inquiry 
 
 (4) Where the appointed person refuses to permit a person to give oral evidence under paragraph (3), the person may submit to the appointed person any evidence or other matter in writing before the close of the hearing or inquiry (but this is subject to paragraph (1)).
 
-### 18. Additional provisions as to evidence and costs[^key-147bedc91606c22ad3a2492fb425647b]
+### 18. Additional provisions as to evidence and costs[^c-147bedc91606c22ad3a2492fb425647b]
 
 (1) Subsections (2) to (5) of section 250 of the Local Government Act 1972[^f00003] (local inquiries: evidence and costs) apply, with the modifications described in paragraph (2), to any hearing or inquiry under these Regulations as they apply to inquiries under that section.
 
@@ -337,7 +337,7 @@ This Part applies if an appeal is to be determined by way of hearing or inquiry 
 
 (4) Subject to paragraphs (1) and (3), the costs of a hearing or an inquiry held under these Regulations must be defrayed by the Welsh Ministers.
 
-### 19. Concurrent or combined inquiries[^key-5319ca24b1f71ffceb3e2a2f2b06c5fa]
+### 19. Concurrent or combined inquiries[^c-5319ca24b1f71ffceb3e2a2f2b06c5fa]
 
 (1) Paragraph (2) applies where—
 
@@ -348,7 +348,7 @@ This Part applies if an appeal is to be determined by way of hearing or inquiry 
 
 (3) In this regulation “the relevant authority or authorities” means the appointed person or, where causing the other inquiry to be held is the function of some other person, the appointed person and that other person acting jointly.
 
-### 20. National security — inquiries[^key-7cdcf398d05cd978893fb10eecc58a8d]
+### 20. National security — inquiries[^c-7cdcf398d05cd978893fb10eecc58a8d]
 
 (1) If, in the case of any particular appeal, the Secretary of State certifies that it would in the opinion of the Secretary of State be contrary to the interests of national security—
 
@@ -364,7 +364,7 @@ the inquiry is not to be held or, as the case may be, the public is not, or thos
 
 ## PART 6 — Final determination of the appeal
 
-### 21. Determination of appeals determined by way of written representations[^key-30bba48d192bea668644f008babaf702]
+### 21. Determination of appeals determined by way of written representations[^c-30bba48d192bea668644f008babaf702]
 
 (1) This regulation applies if an appeal is to be determined by way of written representations.
 
@@ -374,7 +374,7 @@ the inquiry is not to be held or, as the case may be, the public is not, or thos
 
 (4) In determining the appeal, the appointed person may disregard any representation or comment made by the appellant or the Licensing Authority other than the appellant’s representations and the Licensing Authority’s representations as set out in paragraphs (2) and (3).
 
-### 22. Determining the appeal — general[^key-58a22eefb0e9272d5b1e30ec683edbc5]
+### 22. Determining the appeal — general[^c-58a22eefb0e9272d5b1e30ec683edbc5]
 
 (1) On determining an appeal against a decision, the appointed person may—
 
@@ -388,13 +388,13 @@ the inquiry is not to be held or, as the case may be, the public is not, or thos
 
 ## PART 7 — Supplementary provisions
 
-### 23. Failure to take action[^key-eaa6ac15b7934ce03274d022d072194c]
+### 23. Failure to take action[^c-eaa6ac15b7934ce03274d022d072194c]
 
 (1) This regulation applies where the appellant or the Licensing Authority has failed, within relevant time limits, to take any step or provide any information required under these Regulations.
 
 (2) The appointed person may, after giving the appellant and the Licensing Authority notice of the intention to do so, determine an appeal even though that step has not been taken or that information has not been provided.
 
-### 24. Supply of documents etc[^key-a0cca12f64370ce5a97c425d5ff5bb90]
+### 24. Supply of documents etc[^c-a0cca12f64370ce5a97c425d5ff5bb90]
 
 (1) Anything required or permitted to be supplied (including any representations made) under these Regulations must be in writing.
 
@@ -419,7 +419,7 @@ the inquiry is not to be held or, as the case may be, the public is not, or thos
 
 (6) If any document has already been supplied for the purposes of an appeal and is readily available to all parties, the appointed person may direct that it need not be supplied again.
 
-### 25. Extending relevant time limits and providing additional information or copies[^key-33e3f71dcb7e9cc269825126080e3c10]
+### 25. Extending relevant time limits and providing additional information or copies[^c-33e3f71dcb7e9cc269825126080e3c10]
 
 (1) The appointed person may at any time, in exceptional circumstances, extend any relevant time limit.
 
@@ -463,62 +463,62 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-a2fc7617f1c268bdddc3618a12721534]: Commencement: Reg. 1 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-a2fc7617f1c268bdddc3618a12721534]: Commencement: Reg. 1 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-1d5a124889ac779a1419b873f09db7f1]: Commencement: Reg. 2 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-1d5a124889ac779a1419b873f09db7f1]: Commencement: Reg. 2 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
 [^f00002]: Footnote: By virtue of section 113(4)(b) of the Marine and Coastal Access Act 2009, the Welsh Ministers are the appropriate licensing authority as respects anything done in the course of carrying on licensable marine activities in Wales and the Welsh inshore region, other than activities for which the Secretary of State is the licensing authority under section 113(4)(a) and (5) of that Act. See section 322(1) for a definition of that region.
 
-[^key-5615bfe33c25e1d6df50c141704f67b9]: Commencement: Reg. 3 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-5615bfe33c25e1d6df50c141704f67b9]: Commencement: Reg. 3 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-9cd6a74d145ced3198e401334ec89afe]: Commencement: Reg. 4 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-9cd6a74d145ced3198e401334ec89afe]: Commencement: Reg. 4 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-9b6b4a7227451046443eb5ae0a7e37cb]: Commencement: Reg. 5 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-9b6b4a7227451046443eb5ae0a7e37cb]: Commencement: Reg. 5 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-1f2f3bb54eb950a857c3cda06b4075d8]: Commencement: Reg. 6 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-1f2f3bb54eb950a857c3cda06b4075d8]: Commencement: Reg. 6 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
 [^M_F_46e62e93-9e0a-453f-ea43-8ac51baea83d]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/wsi/2011/925/regulation/6) renumbered as reg. 6(1) (1.4.2013) by [The Marine Licensing (Delegation of Functions) (Wales) Order 2013 (S.I. 2013/414)](https://www.legislation.gov.uk/uksi/2013/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/414/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2013/414/article/6/2) (with [arts. 2](https://www.legislation.gov.uk/uksi/2013/414/article/2), [7](https://www.legislation.gov.uk/uksi/2013/414/article/7))
 
-[^key-6385a0b9640ae3f90357390efb434650]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/6/2) inserted (1.4.2013) by [The Marine Licensing (Delegation of Functions) (Wales) Order 2013 (S.I. 2013/414)](https://www.legislation.gov.uk/wsi/2013/414), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/414/article/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2013/414/article/6/3) (with [arts. 2](https://www.legislation.gov.uk/wsi/2013/414/article/2), [7](https://www.legislation.gov.uk/wsi/2013/414/article/7))
+[^c-6385a0b9640ae3f90357390efb434650]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/6/2) inserted (1.4.2013) by [The Marine Licensing (Delegation of Functions) (Wales) Order 2013 (S.I. 2013/414)](https://www.legislation.gov.uk/wsi/2013/414), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/414/article/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2013/414/article/6/3) (with [arts. 2](https://www.legislation.gov.uk/wsi/2013/414/article/2), [7](https://www.legislation.gov.uk/wsi/2013/414/article/7))
 
-[^key-8eabe1df84192aaef1138926c1a102a1]: Commencement: Reg. 7 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-8eabe1df84192aaef1138926c1a102a1]: Commencement: Reg. 7 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-82708d4addcdf73339605456564167ae]: Commencement: Reg. 8 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-82708d4addcdf73339605456564167ae]: Commencement: Reg. 8 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-43d31e007e2a4818d0ae712a3d3edcba]: Commencement: Reg. 9 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-43d31e007e2a4818d0ae712a3d3edcba]: Commencement: Reg. 9 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-ef6f50b87e92401807c5c097874fb4a5]: Commencement: Reg. 10 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-ef6f50b87e92401807c5c097874fb4a5]: Commencement: Reg. 10 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-d02061ac66e5fdbe7dc8adba10832055]: Commencement: Reg. 11 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-d02061ac66e5fdbe7dc8adba10832055]: Commencement: Reg. 11 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-ffa6813bbf9d8899327b7cc0b96af1a5]: Commencement: Reg. 12 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-ffa6813bbf9d8899327b7cc0b96af1a5]: Commencement: Reg. 12 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-2259f5f3ffc6b065203fc2f28d586502]: Commencement: Reg. 13 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-2259f5f3ffc6b065203fc2f28d586502]: Commencement: Reg. 13 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-48f6ed4520eecc72c556564e41b32a7b]: Commencement: Reg. 14 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-48f6ed4520eecc72c556564e41b32a7b]: Commencement: Reg. 14 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-3d2019f71218af10f541a7d17c340728]: Commencement: Reg. 15 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-3d2019f71218af10f541a7d17c340728]: Commencement: Reg. 15 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-b4518b52a379ae9535d9f4a11537db56]: Commencement: Reg. 16 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-b4518b52a379ae9535d9f4a11537db56]: Commencement: Reg. 16 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-63e19c90353524298fbc22f4752ac423]: Commencement: Reg. 17 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-63e19c90353524298fbc22f4752ac423]: Commencement: Reg. 17 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-147bedc91606c22ad3a2492fb425647b]: Commencement: Reg. 18 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-147bedc91606c22ad3a2492fb425647b]: Commencement: Reg. 18 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
 [^f00003]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 250 has been amended by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), sections 37, 38 and 46, by the Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63), section 49(2) and Schedule 12 and by the Statute Law (Repeals) Act [1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43).
 
 [^f00004]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 322A was inserted by the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), section 30(1), and subsection (1A) of that section was inserted by the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), section 196(4) and Schedule 10, paragraphs 1 and 11.
 
-[^key-5319ca24b1f71ffceb3e2a2f2b06c5fa]: Commencement: Reg. 19 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-5319ca24b1f71ffceb3e2a2f2b06c5fa]: Commencement: Reg. 19 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-7cdcf398d05cd978893fb10eecc58a8d]: Commencement: Reg. 20 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-7cdcf398d05cd978893fb10eecc58a8d]: Commencement: Reg. 20 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-30bba48d192bea668644f008babaf702]: Commencement: Reg. 21 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-30bba48d192bea668644f008babaf702]: Commencement: Reg. 21 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-58a22eefb0e9272d5b1e30ec683edbc5]: Commencement: Reg. 22 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-58a22eefb0e9272d5b1e30ec683edbc5]: Commencement: Reg. 22 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-eaa6ac15b7934ce03274d022d072194c]: Commencement: Reg. 23 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-eaa6ac15b7934ce03274d022d072194c]: Commencement: Reg. 23 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-a0cca12f64370ce5a97c425d5ff5bb90]: Commencement: Reg. 24 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-a0cca12f64370ce5a97c425d5ff5bb90]: Commencement: Reg. 24 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
 
-[^key-33e3f71dcb7e9cc269825126080e3c10]: Commencement: Reg. 25 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)
+[^c-33e3f71dcb7e9cc269825126080e3c10]: Commencement: Reg. 25 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/925/regulation/1/2)

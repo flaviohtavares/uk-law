@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Powers of intervention of Welsh Ministers etc.[^key-a61f3aa4e29acfcc5dec24e735efd152][^key-5e374fb6fb67e6a394c79f48d86cd687]
+## 29. Powers of intervention of Welsh Ministers etc.[^c-a61f3aa4e29acfcc5dec24e735efd152][^c-5e374fb6fb67e6a394c79f48d86cd687]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a61f3aa4e29acfcc5dec24e735efd152]: Commencement: S. 29 in force at 31.1.2008 by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17), [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/17/article/2/a)
+[^c-a61f3aa4e29acfcc5dec24e735efd152]: Commencement: S. 29 in force at 31.1.2008 by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17), [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/17/article/2/a)
 
-[^key-5e374fb6fb67e6a394c79f48d86cd687]: Textual amendment: S. 29 substituted (20.2.2014) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 10](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/10); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-5e374fb6fb67e6a394c79f48d86cd687]: Textual amendment: S. 29 substituted (20.2.2014) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 10](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/10); [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))

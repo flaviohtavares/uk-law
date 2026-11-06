@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Promotion and maintenance of contact between child and family[^key-52f5f3a9b8ef293076270783c78c04da][^key-2f6782be6a9dcf07e01e6d3b458c587e]
+## 95. Promotion and maintenance of contact between child and family[^c-52f5f3a9b8ef293076270783c78c04da][^c-2f6782be6a9dcf07e01e6d3b458c587e]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (3) Every person mentioned in subsection (2)(a) or (b) must secure that the authority is kept informed of his or her address.
 
-(4) Where a local authority (“**the receiving authority**”) takes over the provision of accommodation for a child from a local authority or a local authority in England under section 76 (“the transferring authority”)[^key-902f534427fdd4fd9f0019f7d278905f]—
+(4) Where a local authority (“**the receiving authority**”) takes over the provision of accommodation for a child from a local authority or a local authority in England under section 76 (“the transferring authority”)[^c-902f534427fdd4fd9f0019f7d278905f]—
 
 - (a) the receiving authority must (where reasonably practicable) inform—
   - (i) the child's parents, and
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-52f5f3a9b8ef293076270783c78c04da]: Commencement: S. 95 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-52f5f3a9b8ef293076270783c78c04da]: Commencement: S. 95 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-2f6782be6a9dcf07e01e6d3b458c587e]: Modification: S. 95 excluded by SI 2005/1313, reg. 46A(2) (as excluded (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) and Care Planning, Placement and Case Review (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/216)](https://www.legislation.gov.uk/wsi/2016/216), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/216/regulation/1/2), [5(8)](https://www.legislation.gov.uk/wsi/2016/216/regulation/5/8))
+[^c-2f6782be6a9dcf07e01e6d3b458c587e]: Modification: S. 95 excluded by SI 2005/1313, reg. 46A(2) (as excluded (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) and Care Planning, Placement and Case Review (Miscellaneous Amendments) (Wales) Regulations 2016 (S.I. 2016/216)](https://www.legislation.gov.uk/wsi/2016/216), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/216/regulation/1/2), [5(8)](https://www.legislation.gov.uk/wsi/2016/216/regulation/5/8))
 
-[^key-902f534427fdd4fd9f0019f7d278905f]: Textual amendment: Words in s. 95(4) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [303](https://www.legislation.gov.uk/wsi/2016/413/regulation/303)
+[^c-902f534427fdd4fd9f0019f7d278905f]: Textual amendment: Words in s. 95(4) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [303](https://www.legislation.gov.uk/wsi/2016/413/regulation/303)

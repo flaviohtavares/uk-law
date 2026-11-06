@@ -53,13 +53,13 @@ summary: ''
 
 - (a) dealing in investments as principal or agent;
 - (b) arranging deals in investments;
-- (ba)[^key-7e7aebadc2c12c7e345a9ae517e378a4] operating a multilateral trading facility;
-- (bb)[^key-c52f99a7c9c919f4bd8bb40fe7295ea3] operating an organised trading facility;
-- (bc)[^key-a8bcc0410b93a6bfd9dbc99861ffcdee] operating an electronic system by means of which a qualifying public offer is made;
+- (ba)[^c-7e7aebadc2c12c7e345a9ae517e378a4] operating a multilateral trading facility;
+- (bb)[^c-c52f99a7c9c919f4bd8bb40fe7295ea3] operating an organised trading facility;
+- (bc)[^c-a8bcc0410b93a6bfd9dbc99861ffcdee] operating an electronic system by means of which a qualifying public offer is made;
 - (c) managing investments;
 - (d) safeguarding and administering investments;
 - (e) sending dematerialised instructions;
-- (ea)[^key-e2e0ae305bcef05f0d113e09b28bdd56] managing a UCITS;
+- (ea)[^c-e2e0ae305bcef05f0d113e09b28bdd56] managing a UCITS;
 - (eb) acting as trustee or depositary of a UCITS;
 - (ec) managing an AIF;
 - (ed) acting as trustee or depositary of an AIF;
@@ -93,10 +93,10 @@ and any reference to the provision or supply of goods shall be construed as incl
 
 [^c10705831]: Textual amendment: S. 118(6A) inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [284(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/284/3)
 
-[^key-7e7aebadc2c12c7e345a9ae517e378a4]: Textual amendment: S. 118(6A)(ba) inserted (1.4.2007 for specified purposes, 1.11.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment No. 3) Order 2006 (S.I. 2006/3384)](https://www.legislation.gov.uk/uksi/2006/3384), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/3384/article/1/2), [31](https://www.legislation.gov.uk/uksi/2006/3384/article/31)
+[^c-7e7aebadc2c12c7e345a9ae517e378a4]: Textual amendment: S. 118(6A)(ba) inserted (1.4.2007 for specified purposes, 1.11.2007 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment No. 3) Order 2006 (S.I. 2006/3384)](https://www.legislation.gov.uk/uksi/2006/3384), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/3384/article/1/2), [31](https://www.legislation.gov.uk/uksi/2006/3384/article/31)
 
-[^key-c52f99a7c9c919f4bd8bb40fe7295ea3]: Textual amendment: S. 118(6A)(bb) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/488/schedule/paragraph/1)
+[^c-c52f99a7c9c919f4bd8bb40fe7295ea3]: Textual amendment: S. 118(6A)(bb) inserted (1.4.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2017 (S.I. 2017/488)](https://www.legislation.gov.uk/uksi/2017/488), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/488/article/1/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/488/schedule/paragraph/1)
 
-[^key-a8bcc0410b93a6bfd9dbc99861ffcdee]: Textual amendment: [S. 118(6A)(bc)](https://www.legislation.gov.uk/ukpga/1973/41/section/118/6A/bc) inserted (19.1.2026) by The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/1); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
+[^c-a8bcc0410b93a6bfd9dbc99861ffcdee]: Textual amendment: [S. 118(6A)(bc)](https://www.legislation.gov.uk/ukpga/1973/41/section/118/6A/bc) inserted (19.1.2026) by The Public Offers and Admissions to [Trading (Amendment and Consequential and Transitional Provisions) Regulations 2025 (S.I. 2025/1076)](https://www.legislation.gov.uk/uksi/2025/1076), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1076/regulation/1/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/1076/schedule/paragraph/1); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/5/b)
 
-[^key-e2e0ae305bcef05f0d113e09b28bdd56]: Textual amendment: S. 118(6A)(ea)-(ed) inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/38)
+[^c-e2e0ae305bcef05f0d113e09b28bdd56]: Textual amendment: S. 118(6A)(ea)-(ed) inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/38)

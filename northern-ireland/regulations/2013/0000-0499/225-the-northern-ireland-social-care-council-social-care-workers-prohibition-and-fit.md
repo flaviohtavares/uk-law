@@ -60,15 +60,15 @@ In these Regulations—
 
 - “**the Act**” means the Health and Personal Social Services Act (Northern Ireland) 2001;
 - “**the Order**” means the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003;
-- “**provider**” means the person who for the time being is registered under Part III of the Order as a person who carries on a children's home, a residential care home, a nursing home, a day care setting a domiciliary care agency or a residential family centre[^key-ee22252471a9e12003ed138c69cd7739] ;
-- “**the register**” means the register [^key-a5ca3e95bcfab2ec6a993ecfbf0abaa5]... maintained by the Northern Ireland Social Care Council under section 3(1) of the Act;
+- “**provider**” means the person who for the time being is registered under Part III of the Order as a person who carries on a children's home, a residential care home, a nursing home, a day care setting a domiciliary care agency or a residential family centre[^c-ee22252471a9e12003ed138c69cd7739] ;
+- “**the register**” means the register [^c-a5ca3e95bcfab2ec6a993ecfbf0abaa5]... maintained by the Northern Ireland Social Care Council under section 3(1) of the Act;
 - “**relevant part**” means that part of the register referred to in section 3(2) of the Act which is most relevant to that person, taking into account their current employment;
-- [^key-00e58f43d4dab9eef59fcbc829f3d27d]...
+- [^c-00e58f43d4dab9eef59fcbc829f3d27d]...
 - “**the 2006 Regulations**” means the Northern Ireland Social Care Council (Social Care Workers) Regulations (Northern Ireland) 2006 [^c21908041].
 
 ## PART 2 — Social care workers
 
-### 4. Registration[^key-e9d643813aafd7b0e828bf949e3f7c77]
+### 4. Registration[^c-e9d643813aafd7b0e828bf949e3f7c77]
 
 (1) For the purposes of section 8(3) of the Act, a person, other than—
 
@@ -94,17 +94,17 @@ is prohibited from working in any of the positions mentioned in paragraph (2) un
 
 ### 5. Duty on providers
 
-(1) For the purposes of article 23 of the [^key-8746d6457d0e383fcd7d97b87f58eb31]... Order, a provider shall not employ a person in any of the positions specified in Regulation 4(2) unless that person is fit to be employed.
+(1) For the purposes of article 23 of the [^c-8746d6457d0e383fcd7d97b87f58eb31]... Order, a provider shall not employ a person in any of the positions specified in Regulation 4(2) unless that person is fit to be employed.
 
-(2) Subject to paragraph (3)[^key-08be8532c845ab361d2580d56119ce9b] and Regulations 6 and 7, a person is unfit to be so employed unless registered in the relevant part of the register.
+(2) Subject to paragraph (3)[^c-08be8532c845ab361d2580d56119ce9b] and Regulations 6 and 7, a person is unfit to be so employed unless registered in the relevant part of the register.
 
-(3) Paragraph (2)[^key-830afd680575b4534e62f555ac367cc7] does not apply to a person who, in order to perform the duties for which the person is so employed is required by any statutory provision, other than this statutory provision to be registered with any person or body other than the Northern Ireland Health and Social Care Council and is so registered.
+(3) Paragraph (2)[^c-830afd680575b4534e62f555ac367cc7] does not apply to a person who, in order to perform the duties for which the person is so employed is required by any statutory provision, other than this statutory provision to be registered with any person or body other than the Northern Ireland Health and Social Care Council and is so registered.
 
-### 6. Registration of the existing work force[^key-8cf1e696d09000a94c4134c866eb6bb8]
+### 6. Registration of the existing work force[^c-8cf1e696d09000a94c4134c866eb6bb8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6A. Registration of persons in employment in positions prescribed at regulation 4(2)(d), (e), (f) and (i)[^key-830e880b6f3cd43f11bd1c1edb4551da]
+### 6A. Registration of persons in employment in positions prescribed at regulation 4(2)(d), (e), (f) and (i)[^c-830e880b6f3cd43f11bd1c1edb4551da]
 
 (1) Subject to paragraph (2), where a person is employed in one of the positions mentioned in regulation 4(2)(d), (e), (f) and (i), regulation 5(2) shall not apply to a person required to register in a relevant part of the register until 3 months from the date this paragraph comes into operation.
 
@@ -120,7 +120,7 @@ is prohibited from working in any of the positions mentioned in paragraph (2) un
 
 (4) Paragraphs (2) and (3) shall not apply to a person who has been removed from the register under rules made pursuant to section 6 of the Act.
 
-### 8. Offences[^key-8c363033762738a8ca2caaca6801b068]
+### 8. Offences[^c-8c363033762738a8ca2caaca6801b068]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -219,27 +219,27 @@ Consequential amendments are made to the Children's Homes Regulations (Northern 
 
 [^c21908031]: Marginal citation: [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-ee22252471a9e12003ed138c69cd7739]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2013/225/regulation/3) substituted (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2017/207/regulation/3/a)
+[^c-ee22252471a9e12003ed138c69cd7739]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2013/225/regulation/3) substituted (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2017/207/regulation/3/a)
 
-[^key-a5ca3e95bcfab2ec6a993ecfbf0abaa5]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2013/225/regulation/3) omitted (27.10.2017) by virtue of [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2017/207/regulation/3/b)
+[^c-a5ca3e95bcfab2ec6a993ecfbf0abaa5]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2013/225/regulation/3) omitted (27.10.2017) by virtue of [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [3(b)](https://www.legislation.gov.uk/nisr/2017/207/regulation/3/b)
 
-[^key-00e58f43d4dab9eef59fcbc829f3d27d]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2013/225/regulation/3) omitted (27.10.2017) by virtue of [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [3(c)](https://www.legislation.gov.uk/nisr/2017/207/regulation/3/c)
+[^c-00e58f43d4dab9eef59fcbc829f3d27d]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2013/225/regulation/3) omitted (27.10.2017) by virtue of [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [3(c)](https://www.legislation.gov.uk/nisr/2017/207/regulation/3/c)
 
 [^c21908041]: Marginal citation: S.R. [2006 No. 394](https://www.legislation.gov.uk/ukcm/2006/394)
 
-[^key-e9d643813aafd7b0e828bf949e3f7c77]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2013/225/regulation/4) substituted (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2017/207/regulation/4)
+[^c-e9d643813aafd7b0e828bf949e3f7c77]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2013/225/regulation/4) substituted (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2017/207/regulation/4)
 
-[^key-8746d6457d0e383fcd7d97b87f58eb31]: Textual amendment: Word in reg. 5(1) omitted (27.10.2017) by virtue of [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2017/207/regulation/5/a)
+[^c-8746d6457d0e383fcd7d97b87f58eb31]: Textual amendment: Word in reg. 5(1) omitted (27.10.2017) by virtue of [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2017/207/regulation/5/a)
 
-[^key-08be8532c845ab361d2580d56119ce9b]: Textual amendment: Words in reg. 5(2) substituted (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2017/207/regulation/5/b)
+[^c-08be8532c845ab361d2580d56119ce9b]: Textual amendment: Words in reg. 5(2) substituted (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [5(b)](https://www.legislation.gov.uk/nisr/2017/207/regulation/5/b)
 
-[^key-830afd680575b4534e62f555ac367cc7]: Textual amendment: Words in reg. 5(3) substituted (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [5(c)](https://www.legislation.gov.uk/nisr/2017/207/regulation/5/c)
+[^c-830afd680575b4534e62f555ac367cc7]: Textual amendment: Words in reg. 5(3) substituted (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [5(c)](https://www.legislation.gov.uk/nisr/2017/207/regulation/5/c)
 
-[^key-8cf1e696d09000a94c4134c866eb6bb8]: Textual amendment: Reg. 6 revoked (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [7(a)](https://www.legislation.gov.uk/nisr/2017/207/regulation/7/a)
+[^c-8cf1e696d09000a94c4134c866eb6bb8]: Textual amendment: Reg. 6 revoked (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [7(a)](https://www.legislation.gov.uk/nisr/2017/207/regulation/7/a)
 
-[^key-830e880b6f3cd43f11bd1c1edb4551da]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/nisr/2013/225/regulation/6A) added (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2017/207/regulation/6)
+[^c-830e880b6f3cd43f11bd1c1edb4551da]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/nisr/2013/225/regulation/6A) added (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2017/207/regulation/6)
 
-[^key-8c363033762738a8ca2caaca6801b068]: Textual amendment: Reg. 8 revoked (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [7(b)](https://www.legislation.gov.uk/nisr/2017/207/regulation/7/b)
+[^c-8c363033762738a8ca2caaca6801b068]: Textual amendment: Reg. 8 revoked (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [7(b)](https://www.legislation.gov.uk/nisr/2017/207/regulation/7/b)
 
 [^c21908051]: Marginal citation: S.R. [2005 No. 176](https://www.legislation.gov.uk/ukcm/2005/176)
 

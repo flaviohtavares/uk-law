@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99A. Requirements of return of postal petition documents form[^key-f17995beb0a67b81df68260c2decdae8]
+## 99A. Requirements of return of postal petition documents form[^c-f17995beb0a67b81df68260c2decdae8]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f17995beb0a67b81df68260c2decdae8]: Textual amendment: Regs. 99A-99D inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(8)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/8)
+[^c-f17995beb0a67b81df68260c2decdae8]: Textual amendment: Regs. 99A-99D inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Representation of the People (Postal Vote Handling and Secrecy) (Amendment) Regulations 2023 (S.I. 2023/1225)](https://www.legislation.gov.uk/uksi/2023/1225), [reg. 10(8)](https://www.legislation.gov.uk/uksi/2023/1225/regulation/10/8)

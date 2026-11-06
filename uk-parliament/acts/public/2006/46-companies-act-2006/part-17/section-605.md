@@ -44,9 +44,9 @@ This applies whether or not the agreement also contravenes section 593.
 
 (4) References in this section to a holder, in relation to shares in a company, include any person who has an unconditional right—
 
-- (a) to be included in the company's register of members [^key-958573f10f4058b004992f468cfbaf67]... in respect of those shares, or
+- (a) to be included in the company's register of members [^c-958573f10f4058b004992f468cfbaf67]... in respect of those shares, or
 - (b) to have an instrument of transfer of the shares executed in his favour.
 
 ## Annotations
 
-[^key-958573f10f4058b004992f468cfbaf67]: Textual amendment: Words in s. 605(4)(a) omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2023/56/schedule/1/paragraph/11); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)
+[^c-958573f10f4058b004992f468cfbaf67]: Textual amendment: Words in s. 605(4)(a) omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2023/56/schedule/1/paragraph/11); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)

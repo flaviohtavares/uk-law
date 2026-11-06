@@ -30,7 +30,7 @@ is eligible for reappointment.
 (2) And a person who is eligible under subsection (1)(a) is to be reappointed except where—
 
 - (a) the person declines the reappointment,
-- (b)[^key-186f4fa9a42b2147ac6c0c4d3fb2798e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-186f4fa9a42b2147ac6c0c4d3fb2798e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the person is disqualified under section 73,
 - (d) the sheriff principal for the sheriffdom for which the person was appointed as a JP makes a recommendation to the Scottish Ministers against the reappointment.
 
@@ -50,6 +50,6 @@ also counts in relation to the person's reappointment as a JP by virtue of subse
 
 ## Annotations
 
-[^key-186f4fa9a42b2147ac6c0c4d3fb2798e]: Textual amendment: [S. 70(2)(b)](https://www.legislation.gov.uk/asp/2007/6/section/70/2/b) repealed (30.5.2014) by [The Judicial Pensions and Retirement Act 1993 (Part-time Sheriff, Stipendiary Magistrate and Justice of the Peace) Order 2014 (S.S.I. 2014/155)](https://www.legislation.gov.uk/ssi/2014/155), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/155/article/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2014/155/article/4/3)
+[^c-186f4fa9a42b2147ac6c0c4d3fb2798e]: Textual amendment: [S. 70(2)(b)](https://www.legislation.gov.uk/asp/2007/6/section/70/2/b) repealed (30.5.2014) by [The Judicial Pensions and Retirement Act 1993 (Part-time Sheriff, Stipendiary Magistrate and Justice of the Peace) Order 2014 (S.S.I. 2014/155)](https://www.legislation.gov.uk/ssi/2014/155), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/155/article/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2014/155/article/4/3)
 
 [^c21031691]: Textual amendment: S. 70(4) added (10.12.2007) by [The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (Incidental, Supplemental and Consequential Provisions) Order 2007 (S.S.I. 2007/540)](https://www.legislation.gov.uk/ssi/2007/540), [art. 6](https://www.legislation.gov.uk/ssi/2007/540/article/6)

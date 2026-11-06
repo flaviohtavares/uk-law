@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Venue for hearings[^key-67600b1f50c93fd4b11a77fcf9e10747]
+## 61. Venue for hearings[^c-67600b1f50c93fd4b11a77fcf9e10747]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67600b1f50c93fd4b11a77fcf9e10747]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2014/10/section/61) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-67600b1f50c93fd4b11a77fcf9e10747]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2014/10/section/61) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

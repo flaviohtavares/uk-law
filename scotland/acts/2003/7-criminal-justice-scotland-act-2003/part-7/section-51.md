@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Physical punishment of children[^key-21c01b17cf1b4255f11dacd14507d6e4]
+## 51. Physical punishment of children[^c-21c01b17cf1b4255f11dacd14507d6e4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21c01b17cf1b4255f11dacd14507d6e4]: Textual amendment: [S. 51](https://www.legislation.gov.uk/asp/2003/7/section/51) repealed (7.11.2020) by [Children (Equal Protection from Assault) (Scotland) Act 2019 (asp 16)](https://www.legislation.gov.uk/asp/2019/16), [ss. 1(2)](https://www.legislation.gov.uk/asp/2019/16/section/1/2), [4(2)](https://www.legislation.gov.uk/asp/2019/16/section/4/2) (with [s. 3](https://www.legislation.gov.uk/asp/2019/16/section/3))
+[^c-21c01b17cf1b4255f11dacd14507d6e4]: Textual amendment: [S. 51](https://www.legislation.gov.uk/asp/2003/7/section/51) repealed (7.11.2020) by [Children (Equal Protection from Assault) (Scotland) Act 2019 (asp 16)](https://www.legislation.gov.uk/asp/2019/16), [ss. 1(2)](https://www.legislation.gov.uk/asp/2019/16/section/1/2), [4(2)](https://www.legislation.gov.uk/asp/2019/16/section/4/2) (with [s. 3](https://www.legislation.gov.uk/asp/2019/16/section/3))

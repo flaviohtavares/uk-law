@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 308A. Exemption of contributions to overseas pension scheme[^key-a7d21d600cd43f539b788b62b6352609]
+## 308A. Exemption of contributions to overseas pension scheme[^c-a7d21d600cd43f539b788b62b6352609]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7d21d600cd43f539b788b62b6352609]: Textual amendment: S. 308A inserted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 33 para. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/33/paragraph/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-a7d21d600cd43f539b788b62b6352609]: Textual amendment: S. 308A inserted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 33 para. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/33/paragraph/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

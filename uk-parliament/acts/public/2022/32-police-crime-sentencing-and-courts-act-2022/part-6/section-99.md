@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Giving a diversionary caution[^key-58f3a27dfdd39c0b8334ac64e03d00d1]
+## 99. Giving a diversionary caution[^c-58f3a27dfdd39c0b8334ac64e03d00d1]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58f3a27dfdd39c0b8334ac64e03d00d1]: Commencement: S. 99 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-58f3a27dfdd39c0b8334ac64e03d00d1]: Commencement: S. 99 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

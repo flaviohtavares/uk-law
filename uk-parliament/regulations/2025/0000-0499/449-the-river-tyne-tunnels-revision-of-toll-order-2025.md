@@ -31,7 +31,7 @@ summary: ''
 
 Highways, England
 
-The River Tyne (Tunnels) (Revision of Toll) Order 2025 (revoked)[^key-a201ba065c37c01efe0a907b626281bf]
+The River Tyne (Tunnels) (Revision of Toll) Order 2025 (revoked)[^c-a201ba065c37c01efe0a907b626281bf]
 
 Made
 
@@ -41,23 +41,23 @@ Coming into force
 
 1st May 2025
 
-[^key-a201ba065c37c01efe0a907b626281bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a201ba065c37c01efe0a907b626281bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-a201ba065c37c01efe0a907b626281bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a201ba065c37c01efe0a907b626281bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a201ba065c37c01efe0a907b626281bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a201ba065c37c01efe0a907b626281bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a201ba065c37c01efe0a907b626281bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a201ba065c37c01efe0a907b626281bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a201ba065c37c01efe0a907b626281bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a201ba065c37c01efe0a907b626281bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a201ba065c37c01efe0a907b626281bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a201ba065c37c01efe0a907b626281bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-a201ba065c37c01efe0a907b626281bf]
+## SCHEDULE[^c-a201ba065c37c01efe0a907b626281bf]
 
 Article 2
 
@@ -65,8 +65,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-a201ba065c37c01efe0a907b626281bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a201ba065c37c01efe0a907b626281bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a201ba065c37c01efe0a907b626281bf]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/449) revoked (1.5.2026) by [The River Tyne (Tunnels) (Revision of Tolls) Order 2026 (S.I. 2026/403)](https://www.legislation.gov.uk/uksi/2026/403), [arts. 1](https://www.legislation.gov.uk/uksi/2026/403/article/1), [3](https://www.legislation.gov.uk/uksi/2026/403/article/3)
+[^c-a201ba065c37c01efe0a907b626281bf]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/449) revoked (1.5.2026) by [The River Tyne (Tunnels) (Revision of Tolls) Order 2026 (S.I. 2026/403)](https://www.legislation.gov.uk/uksi/2026/403), [arts. 1](https://www.legislation.gov.uk/uksi/2026/403/article/1), [3](https://www.legislation.gov.uk/uksi/2026/403/article/3)

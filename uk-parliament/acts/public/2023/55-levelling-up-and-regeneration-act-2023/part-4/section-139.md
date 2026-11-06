@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Restriction of Community Infrastructure Levy to Greater London and Wales[^key-22100e204a396b8b2562ccdae08b23dd]
+## 139. Restriction of Community Infrastructure Levy to Greater London and Wales[^c-22100e204a396b8b2562ccdae08b23dd]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22100e204a396b8b2562ccdae08b23dd]: Commencement: S. 139 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-22100e204a396b8b2562ccdae08b23dd]: Commencement: S. 139 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)

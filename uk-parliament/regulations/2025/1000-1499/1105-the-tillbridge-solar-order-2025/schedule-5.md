@@ -22,7 +22,7 @@ summary: ''
 
 Article 10 and 11
 
-### PART 1 — PERMANENT ALTERATION OF LAYOUT[^key-e8abed6ce2f6ec32c69a7560bf965be7]
+### PART 1 — PERMANENT ALTERATION OF LAYOUT[^c-e8abed6ce2f6ec32c69a7560bf965be7]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of the alteration* |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ Article 10 and 11
 | Nottinghamshire County Council | Torksey Ferry Road | Alteration of layout to facilitate the repair of the existing carriageway and construction of passing bays in the area marked west of 23/01 to the area marked east of 24/05 depicted in solid green hatching as shown on Sheets 23 and 24 of the streets, rights of way and access plans. |
 | Nottinghamshire County Council | Junction of Torksey Ferry Road and Shortleys Road | Alteration of layout to Torksey Ferry Road and Shortleys Road to facilitate the retention and improvement of the existing junction of Torksey Ferry Road and Shortleys Road in the area depicted in solid green hatching at the point marked 23/07 as shown on Sheet 23 of the streets, rights of way and access plans. |
 
-### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^key-e8ac936f6d1c4d06e80d91c9cc8a4636]
+### PART 2 — TEMPORARY ALTERATION OF LAYOUT[^c-e8ac936f6d1c4d06e80d91c9cc8a4636]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of alteration* |
 | --- | --- | --- |
@@ -102,6 +102,6 @@ Article 10 and 11
 
 ## Annotations
 
-[^key-e8abed6ce2f6ec32c69a7560bf965be7]: Commencement: Sch. 5 Pt. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-e8abed6ce2f6ec32c69a7560bf965be7]: Commencement: Sch. 5 Pt. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
 
-[^key-e8ac936f6d1c4d06e80d91c9cc8a4636]: Commencement: Sch. 5 Pt. 2 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-e8ac936f6d1c4d06e80d91c9cc8a4636]: Commencement: Sch. 5 Pt. 2 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)

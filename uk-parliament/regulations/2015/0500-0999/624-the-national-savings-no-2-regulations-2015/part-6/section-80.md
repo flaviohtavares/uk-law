@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Persons under disability[^key-7913d1020ffd5993fe7b0ab9f7d98059]
+## 80. Persons under disability[^c-7913d1020ffd5993fe7b0ab9f7d98059]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ is a person who lacks capacity or is under legal disability for any reason other
 
 ## Annotations
 
-[^key-7913d1020ffd5993fe7b0ab9f7d98059]: Commencement: Reg. 80 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-7913d1020ffd5993fe7b0ab9f7d98059]: Commencement: Reg. 80 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

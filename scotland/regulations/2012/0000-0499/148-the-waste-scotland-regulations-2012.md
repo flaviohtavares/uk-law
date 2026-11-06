@@ -216,13 +216,13 @@ In accordance with paragraph 2(2) of Schedule 2 to that Act [^c21257691], a dra
 
 ## 3. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000
 
-[^key-8519be952e4d577103b166bf96fea6e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8519be952e4d577103b166bf96fea6e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Landfill (Scotland) Regulations 2003[^key-eb57af12004be40699fe9a3be8767171]
+## 4. Amendment of the Landfill (Scotland) Regulations 2003[^c-eb57af12004be40699fe9a3be8767171]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Waste Management Licensing (Scotland) Regulations 2011[^key-96356a008849399329d9917ab4dd660d]
+## 5. Amendment of the Waste Management Licensing (Scotland) Regulations 2011[^c-96356a008849399329d9917ab4dd660d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -321,8 +321,8 @@ A Business and Regulatory Impact Assessment has been prepared, and placed in the
 
 [^c21257791]: Marginal citation: [Section 75](https://www.legislation.gov.uk/ssi/2012/148/section/75) has been relevantly amended by [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226).
 
-[^key-8519be952e4d577103b166bf96fea6e3]: Textual amendment: Reg. 3 revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
+[^c-8519be952e4d577103b166bf96fea6e3]: Textual amendment: Reg. 3 revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
 
-[^key-eb57af12004be40699fe9a3be8767171]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/148/regulation/4) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-eb57af12004be40699fe9a3be8767171]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2012/148/regulation/4) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-96356a008849399329d9917ab4dd660d]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2012/148/regulation/5) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-96356a008849399329d9917ab4dd660d]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2012/148/regulation/5) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

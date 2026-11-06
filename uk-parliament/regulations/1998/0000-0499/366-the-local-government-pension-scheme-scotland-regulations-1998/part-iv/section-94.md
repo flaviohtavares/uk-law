@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 94. Payments due in respect of deceased persons[^key-2c894efd25aa2affdd4e6e424aa7da25]
+## 94. Payments due in respect of deceased persons[^c-2c894efd25aa2affdd4e6e424aa7da25]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ without the production of confirmation, probate or letters of administration of 
 
 ## Annotations
 
-[^key-2c894efd25aa2affdd4e6e424aa7da25]: Commencement: Reg. 94 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-2c894efd25aa2affdd4e6e424aa7da25]: Commencement: Reg. 94 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00038]: Footnote: [1965 c. 32](https://www.legislation.gov.uk/ukpga/1965/32).

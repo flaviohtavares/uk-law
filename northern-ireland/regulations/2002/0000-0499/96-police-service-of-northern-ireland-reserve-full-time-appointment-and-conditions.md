@@ -41,7 +41,7 @@ Coming into operation in accordance with regulation 1(2)
 
 The Secretary of State, in pursuance of section 26 of the Police (Northern Ireland) Act 1998[^f00001], and after consulting, in accordance with section 26(6) of that Act, the Northern Ireland Policing Board and the Police Association, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-5f02e5573dc9f2dd22011708c3f5130e]
+## 1. Citation and commencement[^c-5f02e5573dc9f2dd22011708c3f5130e]
 
 (1) These regulations may be cited as the Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) Regulations 2002.
 
@@ -49,30 +49,30 @@ The Secretary of State, in pursuance of section 26 of the Police (Northern Irela
 
 - (a) Regulations 3, 4, 5 and 7 shall have effect from 9th February 1999;
 - (b) Regulation 6 shall have effect—
-  - (i)[^key-e48fcbbbef29a2b6305703a21dc0e960] in the case of sub-paragraph (a), from 1st April 1997;
+  - (i)[^c-e48fcbbbef29a2b6305703a21dc0e960] in the case of sub-paragraph (a), from 1st April 1997;
   - (i)(a) in the case of sub-paragraph (a)(i), from 1st April 1998;
   - (ii) in the case of paragraph (*b*) from 1st April 1999,
   - (iii) in the case of paragraph (*c*) from 1st April 2000;
   - (iv) in the case of paragraph (*d*) from 1st April 2001;
-- (c) Regulation 8 shall have effect from 1st July 2000 except that paragraph 1 shall have effect from 1st September 1997[^key-9dce48f98b9d3739c468dc5964608371] .
-- (d)[^key-5f40d308f5da71ea146596df24b896d1] Regulation 9 shall have effect:
+- (c) Regulation 8 shall have effect from 1st July 2000 except that paragraph 1 shall have effect from 1st September 1997[^c-9dce48f98b9d3739c468dc5964608371] .
+- (d)[^c-5f40d308f5da71ea146596df24b896d1] Regulation 9 shall have effect:
   - (i) in the case of paragraph (2), from 1st September 1994;
   - (ii) in the case of paragraph (3), from 1st April 1998;
 - (e) Regulations 5 and 7 shall have effect from 1st September 1996.
 
 (3) In these Regulations “the principal Regulations” means the Royal Ulster Constabulary Reserve (Full-time) (Appointment and Conditions of Service) Regulations 1996[^f00002].
 
-## 2. Public Holidays[^key-8b1cbc2674718dc9d8a51ff123e90c1a]
+## 2. Public Holidays[^c-8b1cbc2674718dc9d8a51ff123e90c1a]
 
 (1) In regulation 2(1) of the principal Regulations, in the definition of public holiday, for the words “last Monday in May” substitute the words “3rd June 2002, 4th June 2002”.
 
 (2) This regulation shall only apply in the year 2002.
 
-## 3. Reference to Pay Schedule[^key-c37af240cd4c2c19e551126cc1451d3c]
+## 3. Reference to Pay Schedule[^c-c37af240cd4c2c19e551126cc1451d3c]
 
 In regulation 1 of the principal Regulations sub-paragraph (*e*) shall be omitted.
 
-## 4. Part-time Working[^key-009aa20f89033c62655d81e2cca4d69d]
+## 4. Part-time Working[^c-009aa20f89033c62655d81e2cca4d69d]
 
 (1) In regulation 4A of the principal Regulations (part-time appointments), after paragraph (1), there shall be inserted the following paragraphs—
 
@@ -209,7 +209,7 @@ In regulation 1 of the principal Regulations sub-paragraph (*e*) shall be omitte
 
 (15) Paragraph 17 shall be omitted.
 
-## 5. Amendment of Regulation 30 of the principal Regulations[^key-bc79a5fee2882d776b0d3533bdf78ca5]
+## 5. Amendment of Regulation 30 of the principal Regulations[^c-bc79a5fee2882d776b0d3533bdf78ca5]
 
 (1) For regulation 30(1) of the principal Regulations (rate of pay) there shall be substituted the following paragraphs:
 
@@ -223,17 +223,17 @@ In regulation 1 of the principal Regulations sub-paragraph (*e*) shall be omitte
 
 In regulation 38(6) of the principal Regulations (removal allowance)—
 
-- (a)[^key-e8f0deb133d5b31c47c6b8a118b51a14][^key-dc11db94ba197b228837d33540cd780b] for “£1,396” there shall be substituted “£1,431”;
+- (a)[^c-e8f0deb133d5b31c47c6b8a118b51a14][^c-dc11db94ba197b228837d33540cd780b] for “£1,396” there shall be substituted “£1,431”;
 - (a)(i) for “£1,431” there shall be substituted “£1,482”;
-- (b)[^key-f088a24042bd5b91c4ada2a33d21fa03] for “£1,482” there shall be substituted “£1,524”;
-- (c)[^key-ecc12b5e1eef46e1cb0ac4f03f2dcfa5] for “£1,524” there shall be substituted “£1,551”;
-- (d)[^key-cbd29b0874df4a4117e7d8a4fa5986d5] for “£1,551” there shall be substituted “£1,596”.
+- (b)[^c-f088a24042bd5b91c4ada2a33d21fa03] for “£1,482” there shall be substituted “£1,524”;
+- (c)[^c-ecc12b5e1eef46e1cb0ac4f03f2dcfa5] for “£1,524” there shall be substituted “£1,551”;
+- (d)[^c-cbd29b0874df4a4117e7d8a4fa5986d5] for “£1,551” there shall be substituted “£1,596”.
 
-## 7. Amendments to Schedule 4 of the principal Regulations[^key-2db39cae4cb4817a05c3d6f26f427fa4]
+## 7. Amendments to Schedule 4 of the principal Regulations[^c-2db39cae4cb4817a05c3d6f26f427fa4]
 
 Schedule 4 to the principal Regulations shall be omitted.
 
-## 8. Dog Handler’s Allowance[^key-2e4d8afd3dc0c8850d666d22d87b9055]
+## 8. Dog Handler’s Allowance[^c-2e4d8afd3dc0c8850d666d22d87b9055]
 
 In paragraph 1 of Schedule 8 to the principal Regulations (dog handler’s allowance) for “£1,023” there shall be substituted “£1,059”.
 
@@ -250,7 +250,7 @@ In paragraph 1 of Schedule 8 to the principal Regulations (dog handler’s allow
 
   .
 
-## 9. Replacement Allowance[^key-7b9b70285c5694febbe23b342567ffd6]
+## 9. Replacement Allowance[^c-7b9b70285c5694febbe23b342567ffd6]
 
 (1) Schedule 11 to the principal Regulations (replacement allowance) shall be amended as follows.
 
@@ -292,36 +292,36 @@ By virtue of regulation 1(2), the regulations there cited have effect from dates
 
 [^f00001]: Footnote: [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32)
 
-[^key-5f02e5573dc9f2dd22011708c3f5130e]: Commencement: Reg. 1 in operation at 5.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2)
+[^c-5f02e5573dc9f2dd22011708c3f5130e]: Commencement: Reg. 1 in operation at 5.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2)
 
-[^key-e48fcbbbef29a2b6305703a21dc0e960]: Textual amendment: [Reg. 1(2)(b)(i)(i)(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/i) substituted for [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/i) (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) (Amendment) Regulations 2004 (S.R. 2004/403)](https://www.legislation.gov.uk/nisr/2004/403), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2004/403/regulation/1/2/a), [2(2)](https://www.legislation.gov.uk/nisr/2004/403/regulation/2/2)
+[^c-e48fcbbbef29a2b6305703a21dc0e960]: Textual amendment: [Reg. 1(2)(b)(i)(i)(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/i) substituted for [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/i) (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) (Amendment) Regulations 2004 (S.R. 2004/403)](https://www.legislation.gov.uk/nisr/2004/403), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2004/403/regulation/1/2/a), [2(2)](https://www.legislation.gov.uk/nisr/2004/403/regulation/2/2)
 
-[^key-9dce48f98b9d3739c468dc5964608371]: Textual amendment: Words in [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/c) substituted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) (Amendment) Regulations 2004 (S.R. 2004/403)](https://www.legislation.gov.uk/nisr/2004/403), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2004/403/regulation/1/2/a), [2(3)](https://www.legislation.gov.uk/nisr/2004/403/regulation/2/3)
+[^c-9dce48f98b9d3739c468dc5964608371]: Textual amendment: Words in [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/c) substituted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) (Amendment) Regulations 2004 (S.R. 2004/403)](https://www.legislation.gov.uk/nisr/2004/403), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2004/403/regulation/1/2/a), [2(3)](https://www.legislation.gov.uk/nisr/2004/403/regulation/2/3)
 
-[^key-5f40d308f5da71ea146596df24b896d1]: Textual amendment: [Reg. 1(2)(d)-(e)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/d) inserted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) (Amendment) Regulations 2004 (S.R. 2004/403)](https://www.legislation.gov.uk/nisr/2004/403), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2004/403/regulation/1/2/a), [2(4)](https://www.legislation.gov.uk/nisr/2004/403/regulation/2/4)
+[^c-5f40d308f5da71ea146596df24b896d1]: Textual amendment: [Reg. 1(2)(d)-(e)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/d) inserted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) (Amendment) Regulations 2004 (S.R. 2004/403)](https://www.legislation.gov.uk/nisr/2004/403), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2004/403/regulation/1/2/a), [2(4)](https://www.legislation.gov.uk/nisr/2004/403/regulation/2/4)
 
 [^f00002]: Footnote: [S.R. 1996 No. 564](https://www.legislation.gov.uk/nisr/1996/564) as amended by [S.R. 1997 No. 363](https://www.legislation.gov.uk/nisr/1997/363), [S.R. 1999 No. 411](https://www.legislation.gov.uk/nisr/1999/411) and [S.R. 2001 No. 80](https://www.legislation.gov.uk/nisr/2001/80)
 
-[^key-8b1cbc2674718dc9d8a51ff123e90c1a]: Commencement: Reg. 2 in operation at 5.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2)
+[^c-8b1cbc2674718dc9d8a51ff123e90c1a]: Commencement: Reg. 2 in operation at 5.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2)
 
-[^key-c37af240cd4c2c19e551126cc1451d3c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/96/regulation/3) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/a)
+[^c-c37af240cd4c2c19e551126cc1451d3c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/96/regulation/3) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/a)
 
-[^key-009aa20f89033c62655d81e2cca4d69d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/96/regulation/4) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/a)
+[^c-009aa20f89033c62655d81e2cca4d69d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/96/regulation/4) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/a)
 
-[^key-bc79a5fee2882d776b0d3533bdf78ca5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/96/regulation/5) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/a)
+[^c-bc79a5fee2882d776b0d3533bdf78ca5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/96/regulation/5) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/a)
 
-[^key-e8f0deb133d5b31c47c6b8a118b51a14]: Commencement: [Reg. 6(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/a) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/i)
+[^c-e8f0deb133d5b31c47c6b8a118b51a14]: Commencement: [Reg. 6(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/a) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(b)(i)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/i)
 
-[^key-dc11db94ba197b228837d33540cd780b]: Textual amendment: [Regs. 6(a)-(ai)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/a) substituted for [reg. 6(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/a) (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) (Amendment) Regulations 2004 (S.R. 2004/403)](https://www.legislation.gov.uk/nisr/2004/403), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2004/403/regulation/1/2/a), [3(2)](https://www.legislation.gov.uk/nisr/2004/403/regulation/3/2)
+[^c-dc11db94ba197b228837d33540cd780b]: Textual amendment: [Regs. 6(a)-(ai)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/a) substituted for [reg. 6(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/a) (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [Police Service of Northern Ireland Reserve (Full-time) (Appointment and Conditions of Service) (Amendment) Regulations 2004 (S.R. 2004/403)](https://www.legislation.gov.uk/nisr/2004/403), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2004/403/regulation/1/2/a), [3(2)](https://www.legislation.gov.uk/nisr/2004/403/regulation/3/2)
 
-[^key-f088a24042bd5b91c4ada2a33d21fa03]: Commencement: [Reg. 6(b)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/b) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/ii)
+[^c-f088a24042bd5b91c4ada2a33d21fa03]: Commencement: [Reg. 6(b)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/b) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/ii)
 
-[^key-ecc12b5e1eef46e1cb0ac4f03f2dcfa5]: Commencement: [Reg. 6(c)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/c) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/iii)
+[^c-ecc12b5e1eef46e1cb0ac4f03f2dcfa5]: Commencement: [Reg. 6(c)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/c) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/iii)
 
-[^key-cbd29b0874df4a4117e7d8a4fa5986d5]: Commencement: [Reg. 6(d)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/d) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/iv)
+[^c-cbd29b0874df4a4117e7d8a4fa5986d5]: Commencement: [Reg. 6(d)](https://www.legislation.gov.uk/nisr/2002/96/regulation/6/d) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(b)(iv)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/b/iv)
 
-[^key-2db39cae4cb4817a05c3d6f26f427fa4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/96/regulation/7) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/a)
+[^c-2db39cae4cb4817a05c3d6f26f427fa4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/96/regulation/7) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/a)
 
-[^key-2e4d8afd3dc0c8850d666d22d87b9055]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2002/96/regulation/8) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/c)
+[^c-2e4d8afd3dc0c8850d666d22d87b9055]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2002/96/regulation/8) in operation at 5.4.2002 with effect in accordance with, see [reg. 1(2)(c)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2/c)
 
-[^key-7b9b70285c5694febbe23b342567ffd6]: Commencement: Reg. 9 in operation at 5.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2)
+[^c-7b9b70285c5694febbe23b342567ffd6]: Commencement: Reg. 9 in operation at 5.4.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/96/regulation/1/2)

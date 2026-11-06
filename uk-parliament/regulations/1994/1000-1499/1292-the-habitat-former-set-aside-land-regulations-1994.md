@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-The Habitat (Former Set-Aside Land) Regulations 1994 (revoked)[^key-21983aa8a17b43ed8f094f580704685b]
+The Habitat (Former Set-Aside Land) Regulations 1994 (revoked)[^c-21983aa8a17b43ed8f094f580704685b]
 
 Made
 
@@ -44,67 +44,67 @@ Coming into force
 
 6th June 1994
 
-[^key-21983aa8a17b43ed8f094f580704685b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21983aa8a17b43ed8f094f580704685b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-21983aa8a17b43ed8f094f580704685b]
+## 1. Citation, commencement and extent[^c-21983aa8a17b43ed8f094f580704685b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-21983aa8a17b43ed8f094f580704685b]
+## 2. Interpretation[^c-21983aa8a17b43ed8f094f580704685b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Aid for former set-aside land[^key-21983aa8a17b43ed8f094f580704685b]
+## 3. Aid for former set-aside land[^c-21983aa8a17b43ed8f094f580704685b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Applications for aid[^key-21983aa8a17b43ed8f094f580704685b]
+## 4. Applications for aid[^c-21983aa8a17b43ed8f094f580704685b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Restrictions on acceptance of applications[^key-21983aa8a17b43ed8f094f580704685b]
+## 5. Restrictions on acceptance of applications[^c-21983aa8a17b43ed8f094f580704685b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Change of occupation[^key-21983aa8a17b43ed8f094f580704685b]
+## 6. Change of occupation[^c-21983aa8a17b43ed8f094f580704685b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amount and payment of aid[^key-21983aa8a17b43ed8f094f580704685b]
+## 7. Amount and payment of aid[^c-21983aa8a17b43ed8f094f580704685b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Claims for aid[^key-21983aa8a17b43ed8f094f580704685b]
+## 8. Claims for aid[^c-21983aa8a17b43ed8f094f580704685b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Obligation to permit entry and inspection[^key-21983aa8a17b43ed8f094f580704685b]
+## 9. Obligation to permit entry and inspection[^c-21983aa8a17b43ed8f094f580704685b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Withholding and recovery of aid, termination and exclusion[^key-21983aa8a17b43ed8f094f580704685b]
+## 10. Withholding and recovery of aid, termination and exclusion[^c-21983aa8a17b43ed8f094f580704685b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10A. Recovery of Interest[^key-21983aa8a17b43ed8f094f580704685b]
+## 10A. Recovery of Interest[^c-21983aa8a17b43ed8f094f580704685b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10B. Recovery of payments[^key-21983aa8a17b43ed8f094f580704685b]
+## 10B. Recovery of payments[^c-21983aa8a17b43ed8f094f580704685b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. False statements[^key-21983aa8a17b43ed8f094f580704685b]
+## 11. False statements[^c-21983aa8a17b43ed8f094f580704685b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-21983aa8a17b43ed8f094f580704685b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21983aa8a17b43ed8f094f580704685b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — MANAGEMENT REQUIREMENTS[^key-21983aa8a17b43ed8f094f580704685b]
+## SCHEDULE — MANAGEMENT REQUIREMENTS[^c-21983aa8a17b43ed8f094f580704685b]
 
 Regulation 3(b)
 
@@ -112,8 +112,8 @@ Regulation 3(b)
 
 **May not be in force at this date. Check the source.**
 
-[^key-21983aa8a17b43ed8f094f580704685b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21983aa8a17b43ed8f094f580704685b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-21983aa8a17b43ed8f094f580704685b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1994/1292) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-21983aa8a17b43ed8f094f580704685b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1994/1292) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

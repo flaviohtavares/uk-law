@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Non-commissioned generating stations in respect of which a NFFO arrangement applies[^key-e761593fb2d81d2128999621de074009]
+## 20. Non-commissioned generating stations in respect of which a NFFO arrangement applies[^c-e761593fb2d81d2128999621de074009]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e761593fb2d81d2128999621de074009]: Commencement: Art. 20 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-e761593fb2d81d2128999621de074009]: Commencement: Art. 20 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

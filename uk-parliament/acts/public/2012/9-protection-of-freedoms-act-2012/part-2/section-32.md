@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Publication of code[^key-1aa4b499f4b32ff1c1b1b58961888201]
+## 32. Publication of code[^c-1aa4b499f4b32ff1c1b1b58961888201]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1aa4b499f4b32ff1c1b1b58961888201]: Commencement: S. 32 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(d)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/d)
+[^c-1aa4b499f4b32ff1c1b1b58961888201]: Commencement: S. 32 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(d)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/d)

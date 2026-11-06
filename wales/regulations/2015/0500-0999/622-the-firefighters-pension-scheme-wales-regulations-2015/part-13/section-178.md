@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 178. Payments for persons incapable of managing their affairs[^key-904532c93b19d6600fef4d83598fb10c]
+## 178. Payments for persons incapable of managing their affairs[^c-904532c93b19d6600fef4d83598fb10c]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ If it appears to the scheme manager that a person other than an eligible child i
 
 ## Annotations
 
-[^key-904532c93b19d6600fef4d83598fb10c]: Commencement: Reg. 178 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-904532c93b19d6600fef4d83598fb10c]: Commencement: Reg. 178 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

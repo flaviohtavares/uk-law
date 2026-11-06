@@ -31,7 +31,7 @@ summary: ''
 
 MEDICINES
 
-Medicines (Products for Animal Use—Fees) (Amendment) Regulations 2002 (revoked)[^key-e07eb73aea087c7c637989a92a4dd967]
+Medicines (Products for Animal Use—Fees) (Amendment) Regulations 2002 (revoked)[^c-e07eb73aea087c7c637989a92a4dd967]
 
 Made
 
@@ -45,27 +45,27 @@ Coming into force
 
 1st November 2002
 
-[^key-e07eb73aea087c7c637989a92a4dd967]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e07eb73aea087c7c637989a92a4dd967]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and interpretation[^key-e07eb73aea087c7c637989a92a4dd967]
+## 1. Title, commencement and interpretation[^c-e07eb73aea087c7c637989a92a4dd967]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Medicines (Products for Animal Use—Fees) Regulations 1998[^key-e07eb73aea087c7c637989a92a4dd967]
+## 2. Amendment of the Medicines (Products for Animal Use—Fees) Regulations 1998[^c-e07eb73aea087c7c637989a92a4dd967]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provisions[^key-e07eb73aea087c7c637989a92a4dd967]
+## 3. Transitional provisions[^c-e07eb73aea087c7c637989a92a4dd967]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e07eb73aea087c7c637989a92a4dd967]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e07eb73aea087c7c637989a92a4dd967]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-e07eb73aea087c7c637989a92a4dd967]
+## SCHEDULE[^c-e07eb73aea087c7c637989a92a4dd967]
 
 Regulation 2
 
@@ -73,8 +73,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-e07eb73aea087c7c637989a92a4dd967]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e07eb73aea087c7c637989a92a4dd967]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e07eb73aea087c7c637989a92a4dd967]: Textual amendment: Regulations revoked (with application in accordance with reg. 1(2) of the amending S.I.) by [The Medicines (Products for Animal UseFees) Regulations 2004 (S.I. 2004/2750)](https://www.legislation.gov.uk/uksi/2004/2750), [reg. 18(f)](https://www.legislation.gov.uk/uksi/2004/2750/regulation/18/f) (with [reg. 19](https://www.legislation.gov.uk/uksi/2004/2750/regulation/19))
+[^c-e07eb73aea087c7c637989a92a4dd967]: Textual amendment: Regulations revoked (with application in accordance with reg. 1(2) of the amending S.I.) by [The Medicines (Products for Animal UseFees) Regulations 2004 (S.I. 2004/2750)](https://www.legislation.gov.uk/uksi/2004/2750), [reg. 18(f)](https://www.legislation.gov.uk/uksi/2004/2750/regulation/18/f) (with [reg. 19](https://www.legislation.gov.uk/uksi/2004/2750/regulation/19))

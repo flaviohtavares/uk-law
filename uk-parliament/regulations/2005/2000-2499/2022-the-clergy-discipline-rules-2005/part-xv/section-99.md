@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 99. Removal of prohibition for life and deposition: bishops and archbishops[^key-d6533b435d3dbc0dfc21a6e7c67bd173]
+## 99. Removal of prohibition for life and deposition: bishops and archbishops[^c-d6533b435d3dbc0dfc21a6e7c67bd173]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ and in the case of an application by an archbishop rule 97(4) shall be read as i
 
 ## Annotations
 
-[^key-d6533b435d3dbc0dfc21a6e7c67bd173]: Commencement: [Rule 99](https://www.legislation.gov.uk/uksi/2005/2022/rule/99) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-d6533b435d3dbc0dfc21a6e7c67bd173]: Commencement: [Rule 99](https://www.legislation.gov.uk/uksi/2005/2022/rule/99) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

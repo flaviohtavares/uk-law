@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Powers of the court on hearing an application[^key-e00bf872c969ee1aaa2e80da8951bba8]
+## 20. Powers of the court on hearing an application[^c-e00bf872c969ee1aaa2e80da8951bba8]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e00bf872c969ee1aaa2e80da8951bba8]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/19/section/20) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-e00bf872c969ee1aaa2e80da8951bba8]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/19/section/20) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

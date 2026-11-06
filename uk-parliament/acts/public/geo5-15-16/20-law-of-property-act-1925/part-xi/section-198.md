@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The registration of any instrument or matter in any register kept under the Land Charges Act 1972 or[^c2386971] the local land charges register[^key-be44962d24e429310f90f771b78a9bc8], shall be deemed to constitute actual notice of such instrument or matter, and of the fact of such registration, to all persons and for all purposes connected with the land affected, as from the date of registration or other prescribed date and so long as the registration continues in force.
+(1) The registration of any instrument or matter in any register kept under the Land Charges Act 1972 or[^c2386971] the local land charges register[^c-be44962d24e429310f90f771b78a9bc8], shall be deemed to constitute actual notice of such instrument or matter, and of the fact of such registration, to all persons and for all purposes connected with the land affected, as from the date of registration or other prescribed date and so long as the registration continues in force.
 
 (2) This section operates without prejudice to the provisions of this Act respecting the making of further advances by a mortgagee, and applies only to instruments and matters required or authorised to be registered in any such register.
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c2386971]: Textual amendment: Words substituted (with savings) by [Local Charges Act 1975 (c. 76, SIF 98:2)](https://www.legislation.gov.uk/ukpga/1975/76) ss. 17(2), 19(2)-(4), Sch. 1
 
-[^key-be44962d24e429310f90f771b78a9bc8]: Textual amendment: Words in [s. 198(1)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/198/1) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/21) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))
+[^c-be44962d24e429310f90f771b78a9bc8]: Textual amendment: Words in [s. 198(1)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/198/1) substituted (12.4.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(e)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/e), [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/paragraph/21) (with [Sch. 5 Pt. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/5/part/4))

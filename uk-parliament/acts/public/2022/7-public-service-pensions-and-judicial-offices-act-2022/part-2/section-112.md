@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. New public schemes: further provision[^key-3d74d930de540277c0cc538e3eafc831]
+## 112. New public schemes: further provision[^c-3d74d930de540277c0cc538e3eafc831]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d74d930de540277c0cc538e3eafc831]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2022/7/section/112) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)
+[^c-3d74d930de540277c0cc538e3eafc831]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2022/7/section/112) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)

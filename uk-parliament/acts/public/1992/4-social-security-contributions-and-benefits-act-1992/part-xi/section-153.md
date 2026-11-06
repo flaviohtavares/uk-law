@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The first[^key-59540dfb56bf13c4d9734c321d606606] condition is that the day in question falls within a period which is, as between the employee and his employer, a period of entitlement.
+(1) The first[^c-59540dfb56bf13c4d9734c321d606606] condition is that the day in question falls within a period which is, as between the employee and his employer, a period of entitlement.
 
 (2) For the purposes of this Part of this Act a period of entitlement, as between an employee and his employer, is a period beginning with the commencement of a period of incapacity for work and ending with whichever of the following first occurs—
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59540dfb56bf13c4d9734c321d606606]: Textual amendment: Word in [s. 153(1)](https://www.legislation.gov.uk/ukpga/1992/4/section/153/1) substituted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/10/4), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/373/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4))
+[^c-59540dfb56bf13c4d9734c321d606606]: Textual amendment: Word in [s. 153(1)](https://www.legislation.gov.uk/ukpga/1992/4/section/153/1) substituted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/10/4), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/373/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4))

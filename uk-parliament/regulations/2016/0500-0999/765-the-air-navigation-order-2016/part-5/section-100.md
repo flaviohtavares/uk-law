@@ -24,7 +24,7 @@ summary: ''
 
 (2) Article 98(3) and article 99 do not apply to or in relation to an aircraft which is flying under and in accordance with the terms of a police air operator's certificate.
 
-(2A)[^key-7c922b9d41fa30eef6ee322db2bb2545] Article 99 does not apply to a police officer who takes a munition of war on board an aircraft if—
+(2A)[^c-7c922b9d41fa30eef6ee322db2bb2545] Article 99 does not apply to a police officer who takes a munition of war on board an aircraft if—
 
 - (a) the officer is acting in the course of the officer’s duty; and
 - (b) the munition of war is removed from the aircraft before the aircraft takes off.
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c922b9d41fa30eef6ee322db2bb2545]: Textual amendment: [Art. 100(2A)](https://www.legislation.gov.uk/uksi/2016/765/article/100/2A) inserted (5.12.2018) by [The Air Navigation (Amendment) (No. 2) Order 2018 (S.I. 2018/1160)](https://www.legislation.gov.uk/uksi/2018/1160), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1160/article/1), [4](https://www.legislation.gov.uk/uksi/2018/1160/article/4)
+[^c-7c922b9d41fa30eef6ee322db2bb2545]: Textual amendment: [Art. 100(2A)](https://www.legislation.gov.uk/uksi/2016/765/article/100/2A) inserted (5.12.2018) by [The Air Navigation (Amendment) (No. 2) Order 2018 (S.I. 2018/1160)](https://www.legislation.gov.uk/uksi/2018/1160), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1160/article/1), [4](https://www.legislation.gov.uk/uksi/2018/1160/article/4)

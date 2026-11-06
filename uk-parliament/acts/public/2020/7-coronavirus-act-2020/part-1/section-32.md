@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Deaths in custody from natural illness: Northern Ireland[^key-ef03cff72ced658332fc6b0ecea2cc6f]
+## 32. Deaths in custody from natural illness: Northern Ireland[^c-ef03cff72ced658332fc6b0ecea2cc6f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef03cff72ced658332fc6b0ecea2cc6f]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/2020/7/section/32) expires (25.9.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-ef03cff72ced658332fc6b0ecea2cc6f]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/2020/7/section/32) expires (25.9.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

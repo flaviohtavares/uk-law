@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes these Regulations with the consent of the Treasury in exercise of the powers conferred by sections 71(1)(a) and (2) and 119(5) of the Higher Education and Research Act 2017[^f00001].
 
-## 1. Citation, commencement and extent[^key-51236cd35d4aedb97a5eb1cf066cec33]
+## 1. Citation, commencement and extent[^c-51236cd35d4aedb97a5eb1cf066cec33]
 
 (1) These Regulations may be cited as the Higher Education (Investigation Fees) (England) Regulations 2022.
 
@@ -54,7 +54,7 @@ The Secretary of State makes these Regulations with the consent of the Treasury 
 
 (3) These Regulations extend to England and Wales.
 
-## 2. Fee payable to the Office for Students for investigation of a registered higher education provider[^key-80630ffd8275a63ec4a90e7f2f394ddd]
+## 2. Fee payable to the Office for Students for investigation of a registered higher education provider[^c-80630ffd8275a63ec4a90e7f2f394ddd]
 
 (1) Subject to paragraph (6) and regulation 7, a fee is payable for the conducting by the OfS of an investigation of the activities of a registered higher education provider where, as a result of the investigation, the OfS—
 
@@ -78,9 +78,9 @@ The Secretary of State makes these Regulations with the consent of the Treasury 
   - (ii) conducting the investigation;
   - (iii) settling or communicating the findings of the investigation.
 
-(5A)[^key-718d8d96a577ae60f2468a18ec0be6c9] But conducting an investigation does not include any activity in relation to which a fee is payable under the Higher Education (Assessment Fees) (England) Regulations 2023.
+(5A)[^c-718d8d96a577ae60f2468a18ec0be6c9] But conducting an investigation does not include any activity in relation to which a fee is payable under the Higher Education (Assessment Fees) (England) Regulations 2023.
 
-(6) The[^key-3784b462e129cfb0165c8a288d2fed51] fee under paragraph (1) is only payable if the OfS decides not to impose any sanction in relation to the provider as a result of the findings of the investigation (including where that is because it considers there to be no grounds to impose any sanction as a result of those findings).
+(6) The[^c-3784b462e129cfb0165c8a288d2fed51] fee under paragraph (1) is only payable if the OfS decides not to impose any sanction in relation to the provider as a result of the findings of the investigation (including where that is because it considers there to be no grounds to impose any sanction as a result of those findings).
 
 (7) The references in paragraph (6) to imposing a sanction are references to—
 
@@ -88,21 +88,21 @@ The Secretary of State makes these Regulations with the consent of the Treasury 
 - (b) suspending a provider’s registration under section 16 of that Act, or
 - (c) removing a provider from the register under section 18 of that Act.
 
-## 3. Duty of the OfS to publish statement about approach to determining amount of fees[^key-fff8683d776841e5dc39a0354f7a4c1f]
+## 3. Duty of the OfS to publish statement about approach to determining amount of fees[^c-fff8683d776841e5dc39a0354f7a4c1f]
 
 The OfS must publish—
 
 - (a) a statement about its approach to making determinations under regulation 2(4), and
 - (b) revised statements, where it changes the way in which it approaches such determinations.
 
-## 4. Waiver and refund of fees[^key-7d40948516647690717f879f34626c23]
+## 4. Waiver and refund of fees[^c-7d40948516647690717f879f34626c23]
 
 The OfS may—
 
 - (a) waive all or part of any fee payable under these Regulations;
 - (b) refund all or part of any fee paid under these Regulations.
 
-## 5. Notice of fee payable and when it must be paid[^key-2d639c5d44c0e2e86fe1c9acee14fb28]
+## 5. Notice of fee payable and when it must be paid[^c-2d639c5d44c0e2e86fe1c9acee14fb28]
 
 (1) The OfS must notify the governing body of an institution of any fee payable by the governing body under regulation 2.
 
@@ -139,7 +139,7 @@ The OfS may—
 - (a) the OfS must ensure, by varying the notice given under paragraph (1) as necessary, that the period within which the fee is required to be paid is a period of not less than 14 days beginning with the date on which the notice under paragraph (6)(b) is issued;
 - (b) the OfS need not allow any further period for representations to be made by the governing body about the fee.
 
-## 6. Interest on fees and recovery of unpaid amounts[^key-81e3d4aeaf38689bcf6925342a3fa428]
+## 6. Interest on fees and recovery of unpaid amounts[^c-81e3d4aeaf38689bcf6925342a3fa428]
 
 (1) This regulation applies where all or any part of a fee payable under these Regulations by the governing body of an institution remains unpaid by the time when it is required to be paid.
 
@@ -155,7 +155,7 @@ where the “Bank of England rate” is the official bank rate announced at the 
 
 (5) The OfS may recover from the governing body, as a civil debt due to the OfS, the unpaid amount of the fee and the amount of any unpaid interest charged under paragraph (2).
 
-## 7. No fee where decision to investigate made before 8th December 2022[^key-c3416d9d7dbd7697bc4f2eaef62e7d0c]
+## 7. No fee where decision to investigate made before 8th December 2022[^c-c3416d9d7dbd7697bc4f2eaef62e7d0c]
 
 No fee is payable under these Regulations for the conducting of an investigation where the decision to conduct the investigation was made by the OfS before 8th December 2022.
 
@@ -203,22 +203,22 @@ A full impact assessment has not been produced for these Regulations because no,
 
 [^f00001]: Footnote: [2017 c. 29](https://www.legislation.gov.uk/ukpga/2017/29). The consent of the Treasury has been obtained in accordance with section 71(5).
 
-[^key-51236cd35d4aedb97a5eb1cf066cec33]: Commencement: Reg. 1 in force at 8.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/1/2)
+[^c-51236cd35d4aedb97a5eb1cf066cec33]: Commencement: Reg. 1 in force at 8.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/1/2)
 
-[^key-80630ffd8275a63ec4a90e7f2f394ddd]: Commencement: Reg. 2 in force at 8.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/1/2)
+[^c-80630ffd8275a63ec4a90e7f2f394ddd]: Commencement: Reg. 2 in force at 8.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/1/2)
 
-[^key-718d8d96a577ae60f2468a18ec0be6c9]: Textual amendment: [Reg. 2(5A)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/2/5A) inserted (7.8.2023) by [The Higher Education (Assessment Fees) (England) Regulations 2023 (S.I. 2023/801)](https://www.legislation.gov.uk/uksi/2023/801), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/801/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2023/801/regulation/15/a)
+[^c-718d8d96a577ae60f2468a18ec0be6c9]: Textual amendment: [Reg. 2(5A)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/2/5A) inserted (7.8.2023) by [The Higher Education (Assessment Fees) (England) Regulations 2023 (S.I. 2023/801)](https://www.legislation.gov.uk/uksi/2023/801), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/801/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2023/801/regulation/15/a)
 
-[^key-3784b462e129cfb0165c8a288d2fed51]: Textual amendment: Word in [reg. 2(6)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/2/6) substituted (7.8.2023) by [The Higher Education (Assessment Fees) (England) Regulations 2023 (S.I. 2023/801)](https://www.legislation.gov.uk/uksi/2023/801), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/801/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2023/801/regulation/15/b)
+[^c-3784b462e129cfb0165c8a288d2fed51]: Textual amendment: Word in [reg. 2(6)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/2/6) substituted (7.8.2023) by [The Higher Education (Assessment Fees) (England) Regulations 2023 (S.I. 2023/801)](https://www.legislation.gov.uk/uksi/2023/801), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/801/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2023/801/regulation/15/b)
 
-[^key-fff8683d776841e5dc39a0354f7a4c1f]: Commencement: Reg. 3 in force at 8.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/1/2)
+[^c-fff8683d776841e5dc39a0354f7a4c1f]: Commencement: Reg. 3 in force at 8.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/1/2)
 
-[^key-7d40948516647690717f879f34626c23]: Commencement: Reg. 4 in force at 8.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/1/2)
+[^c-7d40948516647690717f879f34626c23]: Commencement: Reg. 4 in force at 8.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/1/2)
 
-[^key-2d639c5d44c0e2e86fe1c9acee14fb28]: Commencement: Reg. 5 in force at 8.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/1/2)
+[^c-2d639c5d44c0e2e86fe1c9acee14fb28]: Commencement: Reg. 5 in force at 8.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/1/2)
 
-[^key-81e3d4aeaf38689bcf6925342a3fa428]: Commencement: Reg. 6 in force at 8.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/1/2)
+[^c-81e3d4aeaf38689bcf6925342a3fa428]: Commencement: Reg. 6 in force at 8.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/1/2)
 
 [^f00002]: Footnote: The Monetary Policy Committee of the Bank of England was established by section 13 of the Bank of England Act [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-c3416d9d7dbd7697bc4f2eaef62e7d0c]: Commencement: Reg. 7 in force at 8.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/1/2)
+[^c-c3416d9d7dbd7697bc4f2eaef62e7d0c]: Commencement: Reg. 7 in force at 8.12.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/1191/regulation/1/2)

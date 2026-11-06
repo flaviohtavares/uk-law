@@ -39,7 +39,7 @@ summary: ''
 
 (6) If a ship enters or remains in a temporary exclusion zone or a part of such a zone in contravention of subsection (1) or (3) above then, subject to subsection (7) below, its owner and its master shall each be guilty of an offence and liable—
 
-- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^key-43b8d9a56474f5908b6b30958df1c6b7] a fine *(Extent: E+W)*;
+- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^c-43b8d9a56474f5908b6b30958df1c6b7] a fine *(Extent: E+W)*;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both.
 
 (7) It shall be a defence for a person charged with an offence under this section to prove that the existence or area of the temporary exclusion zone was not, and would not on reasonable enquiry have become, known to the master.
@@ -50,4 +50,4 @@ summary: ''
 
 [^c14526241]: Textual amendment: Ss. 100A, 100B and crossheading inserted (23.3.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 1](https://www.legislation.gov.uk/ukpga/1997/28/section/1); [S.I. 1997/1082](https://www.legislation.gov.uk/uksi/1997/1082), [art.2](https://www.legislation.gov.uk/uksi/1997/1082/article/2) , [Sch.](https://www.legislation.gov.uk/uksi/1997/1082/schedule)
 
-[^key-43b8d9a56474f5908b6b30958df1c6b7]: Textual amendment: Words in [s. 100B(6)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/100B/6/a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(7)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/7) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-43b8d9a56474f5908b6b30958df1c6b7]: Textual amendment: Words in [s. 100B(6)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/100B/6/a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 27(7)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/27/7) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**45.**[^key-79ef6cb347dc633883c51d59523f0b7a] A person shall not use a draft net for the taking of fish within a radius of 805 metres of the defined mouth of any river flowing into Lough Neagh.
+**45.**[^c-79ef6cb347dc633883c51d59523f0b7a] A person shall not use a draft net for the taking of fish within a radius of 805 metres of the defined mouth of any river flowing into Lough Neagh.
 
 ## Annotations
 
-[^key-79ef6cb347dc633883c51d59523f0b7a]: Commencement: S. 45 in operation at 1.11.1997, see byelaw 1
+[^c-79ef6cb347dc633883c51d59523f0b7a]: Commencement: S. 45 in operation at 1.11.1997, see byelaw 1

@@ -25,7 +25,7 @@ Regulation 9(1)(a)(iv) and 15(1)(a)(vi)
 **1.** A person must not carry out an ozone-enriched air treatment on natural mineral water or water intended to be bottled and labelled as “spring water” “unless—
 
 - (a) it is for the purpose of separating compounds of iron, manganese, sulphur and arsenic from water in which they occur naturally at source;
-- (b) prior to treatment the requirements of paragraphs 6, 7 and 8[^key-8fc11fed1f1640e40e96e7be9c89ce39] of Schedule 4 are satisfied; and
+- (b) prior to treatment the requirements of paragraphs 6, 7 and 8[^c-8fc11fed1f1640e40e96e7be9c89ce39] of Schedule 4 are satisfied; and
 - (c) the treatment does not have a disinfectant action.
 
 **2.** An ozone-enriched air treatment must not—
@@ -76,4 +76,4 @@ Regulation 9(1)(a)(iv) and 15(1)(a)(vi)
 
 ## Annotations
 
-[^key-8fc11fed1f1640e40e96e7be9c89ce39]: Textual amendment: Words in [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/nisr/2015/365/schedule/3/paragraph/1/b) substituted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [9](https://www.legislation.gov.uk/nisr/2017/201/regulation/9)
+[^c-8fc11fed1f1640e40e96e7be9c89ce39]: Textual amendment: Words in [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/nisr/2015/365/schedule/3/paragraph/1/b) substituted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [9](https://www.legislation.gov.uk/nisr/2017/201/regulation/9)

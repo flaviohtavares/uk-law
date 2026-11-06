@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendment of definition of civil partnership[^key-5dbb3a924179d7ef29995f3ee04e3a9a]
+## 3. Amendment of definition of civil partnership[^c-5dbb3a924179d7ef29995f3ee04e3a9a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In section 1(1) of the Civil Partnership Act 2004[^f00005], in the words before 
 
 ## Annotations
 
-[^key-5dbb3a924179d7ef29995f3ee04e3a9a]: Commencement: Reg. 3 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-5dbb3a924179d7ef29995f3ee04e3a9a]: Commencement: Reg. 3 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00005]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).

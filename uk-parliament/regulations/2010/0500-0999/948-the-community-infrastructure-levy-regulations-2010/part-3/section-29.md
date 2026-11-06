@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Payment of fees and expenses of independent persons[^key-51601b1763d2bcd19c041f9d68db0216]
+## 29. Payment of fees and expenses of independent persons[^c-51601b1763d2bcd19c041f9d68db0216]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51601b1763d2bcd19c041f9d68db0216]: Commencement: Reg. 29 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-51601b1763d2bcd19c041f9d68db0216]: Commencement: Reg. 29 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Treatment of student loans[^key-c505838421a7ae489fd2b51ef98b194f]
+## 47. Treatment of student loans[^c-c505838421a7ae489fd2b51ef98b194f]
 
 *Extent: E+W+S*
 
-(1)[^key-3a056bcd4ebcc73d7287aae5dd3fa185] A student loan , other than an additional loan on the grounds of hardship made under regulation 21 of the Education (Student Support) Regulations 2000 or regulation 12 of the Education (Student Loans) (Scotland) Regulations 1999[^key-ca6cce21be96dc1c6e62649a804a74f3] shall be treated as income,
+(1)[^c-3a056bcd4ebcc73d7287aae5dd3fa185] A student loan , other than an additional loan on the grounds of hardship made under regulation 21 of the Education (Student Support) Regulations 2000 or regulation 12 of the Education (Student Loans) (Scotland) Regulations 1999[^c-ca6cce21be96dc1c6e62649a804a74f3] shall be treated as income,
 
 (2) In calculating the weekly amount of the loan to be taken into account as income—
 
-- (a) except where sub-paragraph (b) applies, the loan shall be apportioned equally between the weeks in the period of 52 weeks beginning with the start of[^key-19041b872fd5d69f7e072562b532e641] the academic year in respect of which the loan is payable;
+- (a) except where sub-paragraph (b) applies, the loan shall be apportioned equally between the weeks in the period of 52 weeks beginning with the start of[^c-19041b872fd5d69f7e072562b532e641] the academic year in respect of which the loan is payable;
 - (b) in the case of a loan which is payable in respect of the final academic year of the course or, if the course is only of one academic year’s duration, in respect of that year, the loan shall be apportioned equally between the weeks in the period beginning with the start of the final academic year or, as the case may be, the single academic year and ending with the last day of the course,
 
 and from the weekly amount so apportioned there shall be disregarded £10.
 
-(3)[^key-bceaff32d2ed93f26ee1f750b77572f9] A student shall be treated as possessing a student loan in respect of an academic year where—
+(3)[^c-bceaff32d2ed93f26ee1f750b77572f9] A student shall be treated as possessing a student loan in respect of an academic year where—
 
 - (a) a student loan has been made to him in respect of that year; or
 - (b) he could acquire such a loan in respect of that year by taking reasonable steps to do so.
@@ -45,23 +45,23 @@ and from the weekly amount so apportioned there shall be disregarded £10.
 
 (5) There shall be deducted from the amount of income taken into account under paragraph (4)—
 
-- (a) the sum of £255[^key-2c75f819122774525281e506c1659c38] in respect of travel costs; and
-- (b) where no amount has been disregarded under regulation 42(2)(e), the sum of £311[^key-56c00cf8241a627bc940ac81df4d5279] towards the cost of books and equipment,
+- (a) the sum of £255[^c-2c75f819122774525281e506c1659c38] in respect of travel costs; and
+- (b) where no amount has been disregarded under regulation 42(2)(e), the sum of £311[^c-56c00cf8241a627bc940ac81df4d5279] towards the cost of books and equipment,
 
 whether or not any such costs are incurred.
 
 ## Annotations
 
-[^key-c505838421a7ae489fd2b51ef98b194f]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-c505838421a7ae489fd2b51ef98b194f]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
-[^key-3a056bcd4ebcc73d7287aae5dd3fa185]: Textual amendment: [Reg. 47(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/1) substituted (with effect in accordance with reg. 1(1)(d) of the amending S.I.) by [The Social Security Amendment (Students) Regulations 1999 (S.I. 1999/1935)](https://www.legislation.gov.uk/uksi/1999/1935), [regs. 1(1)(d)(i)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/1/1/d/i), [7(5)(a)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/7/5/a)
+[^c-3a056bcd4ebcc73d7287aae5dd3fa185]: Textual amendment: [Reg. 47(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/1) substituted (with effect in accordance with reg. 1(1)(d) of the amending S.I.) by [The Social Security Amendment (Students) Regulations 1999 (S.I. 1999/1935)](https://www.legislation.gov.uk/uksi/1999/1935), [regs. 1(1)(d)(i)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/1/1/d/i), [7(5)(a)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/7/5/a)
 
-[^key-ca6cce21be96dc1c6e62649a804a74f3]: Textual amendment: Words in [reg. 47(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/1) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/15/a)
+[^c-ca6cce21be96dc1c6e62649a804a74f3]: Textual amendment: Words in [reg. 47(1)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/1) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/15/a)
 
-[^key-19041b872fd5d69f7e072562b532e641]: Textual amendment: Words in [reg. 47(2)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/2/a) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/15/b)
+[^c-19041b872fd5d69f7e072562b532e641]: Textual amendment: Words in [reg. 47(2)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/2/a) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [15(b)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/15/b)
 
-[^key-bceaff32d2ed93f26ee1f750b77572f9]: Textual amendment: [Reg. 47(3)-(5)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/3) substituted for [reg. 47(3)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/3) (with effect in accordance with reg. 1(1)(d) of the amending S.I.) by [The Social Security Amendment (Students) Regulations 1999 (S.I. 1999/1935)](https://www.legislation.gov.uk/uksi/1999/1935), [regs. 1(1)(d)(i)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/1/1/d/i), [7(5)(b)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/7/5/b)
+[^c-bceaff32d2ed93f26ee1f750b77572f9]: Textual amendment: [Reg. 47(3)-(5)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/3) substituted for [reg. 47(3)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/3) (with effect in accordance with reg. 1(1)(d) of the amending S.I.) by [The Social Security Amendment (Students) Regulations 1999 (S.I. 1999/1935)](https://www.legislation.gov.uk/uksi/1999/1935), [regs. 1(1)(d)(i)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/1/1/d/i), [7(5)(b)](https://www.legislation.gov.uk/uksi/1999/1935/regulation/7/5/b)
 
-[^key-2c75f819122774525281e506c1659c38]: Textual amendment: Sum in [Reg. 47(5)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/5/a) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [15(c)(i)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/15/c/i)
+[^c-2c75f819122774525281e506c1659c38]: Textual amendment: Sum in [Reg. 47(5)(a)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/5/a) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [15(c)(i)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/15/c/i)
 
-[^key-56c00cf8241a627bc940ac81df4d5279]: Textual amendment: Sum in [Reg. 47(5)(b)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/5/b) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [15(c)(ii)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/15/c/ii)
+[^c-56c00cf8241a627bc940ac81df4d5279]: Textual amendment: Sum in [Reg. 47(5)(b)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/47/5/b) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments No. 3) Regulations 2000 (S.I. 2000/1807)](https://www.legislation.gov.uk/uksi/2000/1807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/1/1), [15(c)(ii)](https://www.legislation.gov.uk/uksi/2000/1807/regulation/15/c/ii)

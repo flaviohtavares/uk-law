@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Power to override easements and other rights[^key-f33b2a685f21a2cf797d25c74081b8b6]
+## 27. Power to override easements and other rights[^c-f33b2a685f21a2cf797d25c74081b8b6]
 
 *Extent: E+W+S*
 
@@ -69,6 +69,6 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-f33b2a685f21a2cf797d25c74081b8b6]: Commencement: Art. 27 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-f33b2a685f21a2cf797d25c74081b8b6]: Commencement: Art. 27 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
 [^f00074]: Footnote: Section 10 was amended by section 4 of, and paragraph 13(2) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and by [S.I. 2009/307](https://www.legislation.gov.uk/uksi/2009/307).

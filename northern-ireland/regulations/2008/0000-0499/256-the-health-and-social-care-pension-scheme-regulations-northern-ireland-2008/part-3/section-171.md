@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 171. Effect of payment of additional contributions under this Chapter[^key-5fefe515c55e5ca6de2b390ba7375471]
+## 171. Effect of payment of additional contributions under this Chapter[^c-5fefe515c55e5ca6de2b390ba7375471]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) Subject to paragraph (9), the member's pension is increased by the full amount of the increase to be made in accordance with the terms of the option, after the final adjustment in that amount in accordance with regulation 174 (revaluation of increases bought under options).
 
-(3) Paragraph (2) is without prejudice to any increase or reduction falling to be made in the total amount of the member's pension under Chapter 4 or Chapter 10 of this Part[^key-51b9c8d9c8d5b0023b72e5f108768948] as a result of the member becoming entitled to payment of the pension before or after reaching the age of 65 (see regulations 178 to 180 and 260Q ).
+(3) Paragraph (2) is without prejudice to any increase or reduction falling to be made in the total amount of the member's pension under Chapter 4 or Chapter 10 of this Part[^c-51b9c8d9c8d5b0023b72e5f108768948] as a result of the member becoming entitled to payment of the pension before or after reaching the age of 65 (see regulations 178 to 180 and 260Q ).
 
 (4) In the case of an option under regulation 165(1)(b), 167(1)(b) or 168(1)(b), any pension payable under Chapter 5 (death benefits) in respect of the member is increased by the appropriate amount.
 
@@ -48,12 +48,12 @@ summary: ''
 
 (10) Any increase to the member's pension shall be included only in a benefit payable to a surviving partner or a dependent child in respect of the member under these Regulations whilst it is being paid at the rate and for the duration of one of the periods referred to in paragraph (9).
 
-(11)[^key-45f4831843b395f2a219d97797857f1c] In the case of a 2008 Section Optant, this regulation is subject to regulation 260D.
+(11)[^c-45f4831843b395f2a219d97797857f1c] In the case of a 2008 Section Optant, this regulation is subject to regulation 260D.
 
 ## Annotations
 
-[^key-5fefe515c55e5ca6de2b390ba7375471]: Modification: [Regs. 165-172](https://www.legislation.gov.uk/nisr/2008/256/regulation/165) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/ii)
+[^c-5fefe515c55e5ca6de2b390ba7375471]: Modification: [Regs. 165-172](https://www.legislation.gov.uk/nisr/2008/256/regulation/165) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/ii)
 
-[^key-51b9c8d9c8d5b0023b72e5f108768948]: Textual amendment: Words in [reg. 171(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/171/3) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [67(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/67/2)
+[^c-51b9c8d9c8d5b0023b72e5f108768948]: Textual amendment: Words in [reg. 171(3)](https://www.legislation.gov.uk/nisr/2008/256/regulation/171/3) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [67(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/67/2)
 
-[^key-45f4831843b395f2a219d97797857f1c]: Textual amendment: [Reg. 171(11)](https://www.legislation.gov.uk/nisr/2008/256/regulation/171/11) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [67(3)](https://www.legislation.gov.uk/nisr/2010/22/regulation/67/3)
+[^c-45f4831843b395f2a219d97797857f1c]: Textual amendment: [Reg. 171(11)](https://www.legislation.gov.uk/nisr/2008/256/regulation/171/11) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [67(3)](https://www.legislation.gov.uk/nisr/2010/22/regulation/67/3)

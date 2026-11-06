@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Care, supervision and other family proceedings: time limits and timetables[^key-2e3f9150762cf75a5f25690e8cb2cf1d]
+## 14. Care, supervision and other family proceedings: time limits and timetables[^c-2e3f9150762cf75a5f25690e8cb2cf1d]
 
 *Extent: E+W*
 
@@ -97,4 +97,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e3f9150762cf75a5f25690e8cb2cf1d]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/6/section/14) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(c)](https://www.legislation.gov.uk/uksi/2014/889/article/4/c) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-2e3f9150762cf75a5f25690e8cb2cf1d]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2014/6/section/14) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(c)](https://www.legislation.gov.uk/uksi/2014/889/article/4/c) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)

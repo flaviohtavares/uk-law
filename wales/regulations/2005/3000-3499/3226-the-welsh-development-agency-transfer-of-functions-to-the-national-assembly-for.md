@@ -39,7 +39,7 @@ Coming into force the day after the Order is made.
 
 The National Assembly for Wales, in exercise of the powers conferred upon it by section 28 of and Schedule 4 to the Government of Wales Act 1998[^f00001], makes the following Order:
 
-## 1. Title, commencement and interpretation[^key-26a49a1b3d2cfd9d97e5bafc1dc252fb]
+## 1. Title, commencement and interpretation[^c-26a49a1b3d2cfd9d97e5bafc1dc252fb]
 
 (1) The title of this Order is the Welsh Development Agency (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 and it comes into force on the day after it is made.
 
@@ -52,7 +52,7 @@ The National Assembly for Wales, in exercise of the powers conferred upon it by 
 - “relevant employee” (“*cyflogai perthnasol*”) means any person who, immediately before the transfer date, was employed by the Agency under a contract of employment; and
 - “transfer date” (“*dyddiad trosglwyddo*”) means 1 April 2006.
 
-## 2. Transfer of functions, property, rights and liabilities of the Agency to the Assembly[^key-ee2edd67780ccb09101fa053f4db2249]
+## 2. Transfer of functions, property, rights and liabilities of the Agency to the Assembly[^c-ee2edd67780ccb09101fa053f4db2249]
 
 (1) On the transfer date the functions of the Agency are transferred to the Assembly in accordance with the provisions of Schedules 1 and 2 which amend the enactments relating to the Agency for the purpose of—
 
@@ -71,7 +71,7 @@ The National Assembly for Wales, in exercise of the powers conferred upon it by 
 
 (7) Paragraph (2) has effect in relation to the property, rights or liabilities to which it applies in spite of any provision (of whatever nature) which would prevent or restrict the transfer of the property, rights or liabilities otherwise than by that paragraph.
 
-## 3. Transitional provisions[^key-2464c1a0470a0e0a3700775d8bc6a25d]
+## 3. Transitional provisions[^c-2464c1a0470a0e0a3700775d8bc6a25d]
 
 (1) Nothing in article 2 or Schedules 1 or 2 affects the validity of anything done by or in relation to the Agency before its functions are transferred.
 
@@ -107,21 +107,21 @@ in reliance upon section 21(2) of the Industry Act 1980[^f00006].
 - (b) the Assembly’s obligation under sub-paragraph (3) to transmit the statement of account to the Auditor General for Wales; and
 - (c) the Auditor General for Wales' obligation under sub-paragraph (4) to examine and certify the statement of account and lay before the Assembly copies of the statement of account together with a report thereon.
 
-## 4. Industrial buildings allowances[^key-706c6d9f73b7d1a60ed8b32eb60e28a2]
+## 4. Industrial buildings allowances[^c-706c6d9f73b7d1a60ed8b32eb60e28a2]
 
 (1) The transfer of property from the Agency to the Assembly under this Order does not give rise to any allowances or charges under the Capital Allowances Act 2001.
 
 (2) In relation to the property included in the transfer, for the purposes of calculating industrial buildings allowances under that Act anything done to or by the Agency before the transfer is to be treated after the transfer as having been done to or by the Assembly.
 
-## 5. Abolition[^key-be91debc0f3c743bdbffaaa7656b3b27]
+## 5. Abolition[^c-be91debc0f3c743bdbffaaa7656b3b27]
 
 Upon the transfer of its functions, property, rights and liabilities to the Assembly on the transfer date in accordance with article 2, the Agency is to cease to exist.
 
-## 6. Winding down[^key-fddb437e4c21d9a1b018e859bf12c70b]
+## 6. Winding down[^c-fddb437e4c21d9a1b018e859bf12c70b]
 
 The Agency must give to the Assembly all the information and do all other things which appear to the Assembly appropriate for the purpose of facilitating the transfer of its functions to the Assembly and its abolition in accordance with this Order.
 
-## 7. Amendments to, repeals of and revocations of existing enactments[^key-cad9d5bf30a7ee21f993c3e6ed7b4dc8]
+## 7. Amendments to, repeals of and revocations of existing enactments[^c-cad9d5bf30a7ee21f993c3e6ed7b4dc8]
 
 (1) On the transfer date—
 
@@ -131,7 +131,7 @@ The Agency must give to the Assembly all the information and do all other things
 
 (2) The amendments to, repeals of and revocations of enactments extend to the same extent as the enactment which is amended, repealed or revoked.
 
-## 8. Saving provisions[^key-48289938727a87ae14944f1205718282]
+## 8. Saving provisions[^c-48289938727a87ae14944f1205718282]
 
 (1) Any planning permission deemed to have been granted by virtue of section 7 (Dissolution of the Welsh Industrial Estates Corporation) of the 1975 Act remains in force notwithstanding the repeal of that section.
 
@@ -149,16 +149,16 @@ The Presiding Officer of the National Assembly
 
 Article 7(1)
 
-### 1. The Welsh Development Agency Act 1975[^key-4af1ed1f0270d43f398619e8cdc29191]
+### 1. The Welsh Development Agency Act 1975[^c-4af1ed1f0270d43f398619e8cdc29191]
 
 The Welsh Development Agency Act 1975 has effect subject to the following amendments.
 
-**2.**[^key-f1834c60200a9a591d216b22b62211fe] Unless otherwise provided for in the following provisions, in each place where it occurs (including in headings to sections and schedules)—
+**2.**[^c-f1834c60200a9a591d216b22b62211fe] Unless otherwise provided for in the following provisions, in each place where it occurs (including in headings to sections and schedules)—
 
 - (a) for “Agency” substitute “Assembly”; and
 - (b) for “Agency's” substitute “Assembly's”.
 
-**3.**[^key-d471e4db3480b426333cdda721c899ef] In section 1 (The Welsh Development Agency)—
+**3.**[^c-d471e4db3480b426333cdda721c899ef] In section 1 (The Welsh Development Agency)—
 
 (1) for subsection (1), substitute—
 
@@ -186,9 +186,9 @@ The Welsh Development Agency Act 1975 has effect subject to the following amendm
 
 (9) for the heading to section 1 substitute “Welsh development”.
 
-**4.**[^key-d4fee00e820af7f78fafee6b4018537e] Omit section 2 (Constitution and status).
+**4.**[^c-d4fee00e820af7f78fafee6b4018537e] Omit section 2 (Constitution and status).
 
-**5.**[^key-65f1f839dc709dcfa2b0870a25ea4fcc] In section 4 (Ancillary powers)—
+**5.**[^c-65f1f839dc709dcfa2b0870a25ea4fcc] In section 4 (Ancillary powers)—
 
 (1) after “power”, insert “in connection with its functions under this Act”;
 
@@ -198,9 +198,9 @@ The Welsh Development Agency Act 1975 has effect subject to the following amendm
 
 (4) in paragraph (c), for “their” substitute “such”.
 
-**6.**[^key-cd636d27541115c8a420c11aedb24d86] In subsection (1) of section 5 (Assistance to Agency from public authorities and other persons), for “their” substitute “its”.
+**6.**[^c-cd636d27541115c8a420c11aedb24d86] In subsection (1) of section 5 (Assistance to Agency from public authorities and other persons), for “their” substitute “its”.
 
-**7.**[^key-e8a5bf8701c8ae19ddc6a424a466a431] For section 6 (Power to form committees) substitute—
+**7.**[^c-e8a5bf8701c8ae19ddc6a424a466a431] For section 6 (Power to form committees) substitute—
 
 > **6.** (1) The Assembly may establish such committees for giving advice to the Assembly about the discharge of any of its functions under this Act as it considers appropriate.
 >
@@ -208,11 +208,11 @@ The Welsh Development Agency Act 1975 has effect subject to the following amendm
 
 .
 
-**8.**[^key-6cf885759b4a69df0de8eee8d8ed02dc] Omit section 7 (Dissolution of Welsh Industrial Estates Corporation).
+**8.**[^c-6cf885759b4a69df0de8eee8d8ed02dc] Omit section 7 (Dissolution of Welsh Industrial Estates Corporation).
 
-**9.**[^key-1bb2e07e7e101eaf54459cc0fb7f2001] Omit section 8 (Transfer to Agency of land held under the Local Employment Act 1972).
+**9.**[^c-1bb2e07e7e101eaf54459cc0fb7f2001] Omit section 8 (Transfer to Agency of land held under the Local Employment Act 1972).
 
-**10.**[^key-01861f20b1265f13b97c408766dca2c9] In section 9 (Provision of sites and premises for industry)—
+**10.**[^c-01861f20b1265f13b97c408766dca2c9] In section 9 (Provision of sites and premises for industry)—
 
 (1) omit subsection (1);
 
@@ -224,11 +224,11 @@ The Welsh Development Agency Act 1975 has effect subject to the following amendm
 
 .
 
-**11.**[^key-bcfa7e360f4939a5a36f6520d9f82146] In section 10 (Services, etc for development of industry), for “Secretary of State may authorise the Agency to” substitute “Assembly may” and for “him” substitute “it”.
+**11.**[^c-bcfa7e360f4939a5a36f6520d9f82146] In section 10 (Services, etc for development of industry), for “Secretary of State may authorise the Agency to” substitute “Assembly may” and for “him” substitute “it”.
 
-**12.**[^key-41a2bdb98061482ede85ad362a64bfe5] Omit section 10A (Financial assistance for regeneration and development).
+**12.**[^c-41a2bdb98061482ede85ad362a64bfe5] Omit section 10A (Financial assistance for regeneration and development).
 
-**13.**[^key-b48bc9560671152b082c39bc992a059a] In section 13 (Welsh Industrial Development Advisory Board)—
+**13.**[^c-b48bc9560671152b082c39bc992a059a] In section 13 (Welsh Industrial Development Advisory Board)—
 
 (1) in subsection (1)—
 
@@ -244,9 +244,9 @@ The Welsh Development Agency Act 1975 has effect subject to the following amendm
 
 .
 
-**14.**[^key-1f5c054b1e0160048751fda761838e26] Omit section 14 (Transfer of publicly-owned property to Agency).
+**14.**[^c-1f5c054b1e0160048751fda761838e26] Omit section 14 (Transfer of publicly-owned property to Agency).
 
-**15.**[^key-659b78082ed03508771d4c066e795971] For section 15 (The environment) substitute—
+**15.**[^c-659b78082ed03508771d4c066e795971] For section 15 (The environment) substitute—
 
 > **15.** (1) The Assembly’s duty under section 1(14) above to prepare and publish, after consultation with such local authorities, National Park authorities and other bodies as appear to the Assembly to have an interest, programmes for the performance of the Assembly’s functions under this Act, includes in particular a duty to prepare and publish programmes, to be implemented either by the Assembly itself, or by the Assembly acting jointly with any other authority or person, or through persons or authorities acting on behalf of the Assembly, for the improvement, development or redevelopment of the environment in Wales.
 >
@@ -254,7 +254,7 @@ The Welsh Development Agency Act 1975 has effect subject to the following amendm
 
 .
 
-**16.**[^key-d85dcfaebf44d52e721ed3e31dfbce0d] In section 16 (Derelict land)—
+**16.**[^c-d85dcfaebf44d52e721ed3e31dfbce0d] In section 16 (Derelict land)—
 
 (1) in subsection (1), in the closing words, for “they may, with the consent of the Secretary of State,” substitute “it may”;
 
@@ -268,21 +268,21 @@ The Welsh Development Agency Act 1975 has effect subject to the following amendm
 
 .
 
-**17.**[^key-c7962f34287045e4807c9ccb38165dd6] Omit section 17 (Financial duties of the Agency).
+**17.**[^c-c7962f34287045e4807c9ccb38165dd6] Omit section 17 (Financial duties of the Agency).
 
-**18.**[^key-2c0ea1e6fe8a37d815538ae961fffae3] In section 18 (Finances of the Agency)—
+**18.**[^c-2c0ea1e6fe8a37d815538ae961fffae3] In section 18 (Finances of the Agency)—
 
 (1) omit subsections (2) to (5), and
 
 (2) for the heading substitute “Borrowing and guarantees”.
 
-**19.**[^key-8af96743742b49fead30cebfae7fa134] Omit section 19 (The Agency and the media).
+**19.**[^c-8af96743742b49fead30cebfae7fa134] Omit section 19 (The Agency and the media).
 
-**20.**[^key-59dadfe641704d5d54121c0a7ed7d59f] Omit section 20 (Other limits on the Agency’s powers).
+**20.**[^c-59dadfe641704d5d54121c0a7ed7d59f] Omit section 20 (Other limits on the Agency’s powers).
 
-**21.**[^key-57c32a295aa17b4e2a94ade8b16614f6] Omit section 21 (Expenses).
+**21.**[^c-57c32a295aa17b4e2a94ade8b16614f6] Omit section 21 (Expenses).
 
-**22.**[^key-ed2a14038803b35cf825c50d69b90729] For section 21A (Powers of land acquisition) substitute—
+**22.**[^c-ed2a14038803b35cf825c50d69b90729] For section 21A (Powers of land acquisition) substitute—
 
 > **21A.** (1) The powers to acquire land mentioned in sections 1(7)(h) and 16(3)(b) above are powers—
 >
@@ -329,32 +329,32 @@ The Welsh Development Agency Act 1975 has effect subject to the following amendm
 >
 > (8) Schedule 4 to this Act shall have effect.
 
-**23.**[^key-f82fcff9776be40ed7f6e2a9fdd685f7] In paragraph (b) of section 21B (Disposal of land), for “with the consent of the Secretary of State” substitute “otherwise as it considers appropriate”.
+**23.**[^c-f82fcff9776be40ed7f6e2a9fdd685f7] In paragraph (b) of section 21B (Disposal of land), for “with the consent of the Secretary of State” substitute “otherwise as it considers appropriate”.
 
-**24.**[^key-c87bb5c8a34c0f836a754f59305f2add] In section 21C (Powers to advise on land matters), in subsection (2)—
+**24.**[^c-c87bb5c8a34c0f836a754f59305f2add] In section 21C (Powers to advise on land matters), in subsection (2)—
 
 - (a) omit paragraph (b); and
 - (b) in paragraph (i), for “Secretary of State” substitute “Assembly”.
 
-**25.**[^key-8a35ecf257f7c195b008fe1dd5a90c3d] Omit section 24 (Power to obtain information).
+**25.**[^c-8a35ecf257f7c195b008fe1dd5a90c3d] Omit section 24 (Power to obtain information).
 
-**26.**[^key-0e73f2bd3f15312140064ee24a0d41b7] Omit section 25 (Service of documents).
+**26.**[^c-0e73f2bd3f15312140064ee24a0d41b7] Omit section 25 (Service of documents).
 
-**27.**[^key-1b24ad62532686f6fa8a8c796e5772eb] In section 27 (Interpretation)—
+**27.**[^c-1b24ad62532686f6fa8a8c796e5772eb] In section 27 (Interpretation)—
 
 (1) in subsection (1), omit the definition of “accounting year”; and
 
 (2) omit subsection (2).
 
-**28.**[^key-373ae555706280ca43810baa1ffe43be] In section 28 (Orders and regulations), omit subsection (1A).
+**28.**[^c-373ae555706280ca43810baa1ffe43be] In section 28 (Orders and regulations), omit subsection (1A).
 
-**29.**[^key-ac311cb7ca2b91e4bb877938393f568f] In section 29 (Citation etc), in subsection (3), omit “and paragraphs 13 and 21 of Schedule 1 below” and for “extend” substitute “extends”.
+**29.**[^c-ac311cb7ca2b91e4bb877938393f568f] In section 29 (Citation etc), in subsection (3), omit “and paragraphs 13 and 21 of Schedule 1 below” and for “extend” substitute “extends”.
 
-**30.**[^key-5e6747ecb117ae9628e07aba010a679a] Omit Schedule 1 (The Welsh Development Agency).
+**30.**[^c-5e6747ecb117ae9628e07aba010a679a] Omit Schedule 1 (The Welsh Development Agency).
 
-**31.**[^key-0d384f204517eec9afe51beb1858546d] Omit Schedule 2 (Members and staff of the Welsh Industrial Estates Corporation).
+**31.**[^c-0d384f204517eec9afe51beb1858546d] Omit Schedule 2 (Members and staff of the Welsh Industrial Estates Corporation).
 
-**32.**[^key-6c7befa97048899a70f192be5c792acd] In Schedule 3 (Financial and administrative provisions relating to the Agency)—
+**32.**[^c-6c7befa97048899a70f192be5c792acd] In Schedule 3 (Financial and administrative provisions relating to the Agency)—
 
 (1) omit paragraphs 1, 2, 4, 7, 8 and 9 and the headings to paragraphs 1, 4, 7, 8 and 9;
 
@@ -374,7 +374,7 @@ The Welsh Development Agency Act 1975 has effect subject to the following amendm
 
 (5) for the heading to the schedule, substitute “Borrowing and guarantees”.
 
-**33.**[^key-a71591a0e7bee19b480f53ca2916d110] In Schedule 4 (Acquisition of Land)—
+**33.**[^c-a71591a0e7bee19b480f53ca2916d110] In Schedule 4 (Acquisition of Land)—
 
 (1) for paragraph 1 substitute—
 
@@ -502,7 +502,7 @@ The Welsh Development Agency Act 1975 has effect subject to the following amendm
 
 Article 7(1)
 
-### PART 1[^key-e82b7e968bce14edfe786eb094ecb56a]
+### PART 1[^c-e82b7e968bce14edfe786eb094ecb56a]
 
 #### Primary Legislation:
 
@@ -526,7 +526,7 @@ In the Landlord and Tenant Act 1954—
 
 In the Public Bodies (Admission to meetings) Act 1960, in paragraph 1 of the Schedule (Bodies to which this Act applies) omit paragraph (ba).
 
-#### 3. Land Compensation Act [1961 (c. 33)](https://www.legislation.gov.uk/ukpga/1961/33)[^key-7e5505e60b6c1e81843cffd60f955008]
+#### 3. Land Compensation Act [1961 (c. 33)](https://www.legislation.gov.uk/ukpga/1961/33)[^c-7e5505e60b6c1e81843cffd60f955008]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -647,7 +647,7 @@ In the Landlord and Tenant Act 1954, Part 2 (Notices) Regulations 2004—
 
   > - you were not the tenant of the premises when the interest by virtue of which the certificate referred to in paragraph 3 of this notice was given was acquired by the Welsh Development Agency or, if the interest was acquired on or after 1 April 2006, by the National Assembly for Wales in exercise of functions transferred to it by the Welsh Development Agency (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005.
 
-### PART 2[^key-3fe6f337886a71b79e459d2d34997f36]
+### PART 2[^c-3fe6f337886a71b79e459d2d34997f36]
 
 #### Repeals and Revocations
 
@@ -701,102 +701,102 @@ However, in connection with the exercise by the Assembly of any of its functions
 
 [^f00001]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-26a49a1b3d2cfd9d97e5bafc1dc252fb]: Commencement: Art. 1 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-26a49a1b3d2cfd9d97e5bafc1dc252fb]: Commencement: Art. 1 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
 [^f00002]: Footnote: [1975 c. 70](https://www.legislation.gov.uk/ukpga/1975/70)
 
 [^f00003]: Footnote: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
-[^key-ee2edd67780ccb09101fa053f4db2249]: Commencement: Art. 2 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-ee2edd67780ccb09101fa053f4db2249]: Commencement: Art. 2 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
 [^f00004]: Footnote: S.I. [1981/1794](https://www.legislation.gov.uk/uksi/1981/1794) as amended by the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19) by the Dock Work Act [1989 (c. 13)](https://www.legislation.gov.uk/ukpga/1989/13) and by Statutory Instruments [1987/442](https://www.legislation.gov.uk/uksi/1987/442), [1995/2587](https://www.legislation.gov.uk/uksi/1995/2587), [1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [1999/1925](https://www.legislation.gov.uk/uksi/1999/1925), [1999/2402](https://www.legislation.gov.uk/uksi/1999/2402) and [1999/2587](https://www.legislation.gov.uk/uksi/1999/2587).
 
-[^key-2464c1a0470a0e0a3700775d8bc6a25d]: Commencement: Art. 3 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-2464c1a0470a0e0a3700775d8bc6a25d]: Commencement: Art. 3 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
 [^f00005]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
 [^f00006]: Footnote: [1980 c. 33](https://www.legislation.gov.uk/ukpga/1980/33).
 
-[^key-706c6d9f73b7d1a60ed8b32eb60e28a2]: Commencement: Art. 4 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-706c6d9f73b7d1a60ed8b32eb60e28a2]: Commencement: Art. 4 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-be91debc0f3c743bdbffaaa7656b3b27]: Commencement: Art. 5 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-be91debc0f3c743bdbffaaa7656b3b27]: Commencement: Art. 5 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-fddb437e4c21d9a1b018e859bf12c70b]: Commencement: Art. 6 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-fddb437e4c21d9a1b018e859bf12c70b]: Commencement: Art. 6 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-cad9d5bf30a7ee21f993c3e6ed7b4dc8]: Commencement: Art. 7 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-cad9d5bf30a7ee21f993c3e6ed7b4dc8]: Commencement: Art. 7 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-48289938727a87ae14944f1205718282]: Commencement: Art. 8 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-48289938727a87ae14944f1205718282]: Commencement: Art. 8 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
 [^f00007]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-4af1ed1f0270d43f398619e8cdc29191]: Commencement: Sch. 1 para. 1 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-4af1ed1f0270d43f398619e8cdc29191]: Commencement: Sch. 1 para. 1 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-f1834c60200a9a591d216b22b62211fe]: Commencement: Sch. 1 para. 2 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-f1834c60200a9a591d216b22b62211fe]: Commencement: Sch. 1 para. 2 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-d471e4db3480b426333cdda721c899ef]: Commencement: Sch. 1 para. 3 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-d471e4db3480b426333cdda721c899ef]: Commencement: Sch. 1 para. 3 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-d4fee00e820af7f78fafee6b4018537e]: Commencement: Sch. 1 para. 4 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-d4fee00e820af7f78fafee6b4018537e]: Commencement: Sch. 1 para. 4 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-65f1f839dc709dcfa2b0870a25ea4fcc]: Commencement: Sch. 1 para. 5 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-65f1f839dc709dcfa2b0870a25ea4fcc]: Commencement: Sch. 1 para. 5 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-cd636d27541115c8a420c11aedb24d86]: Commencement: Sch. 1 para. 6 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-cd636d27541115c8a420c11aedb24d86]: Commencement: Sch. 1 para. 6 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-e8a5bf8701c8ae19ddc6a424a466a431]: Commencement: Sch. 1 para. 7 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-e8a5bf8701c8ae19ddc6a424a466a431]: Commencement: Sch. 1 para. 7 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-6cf885759b4a69df0de8eee8d8ed02dc]: Commencement: Sch. 1 para. 8 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-6cf885759b4a69df0de8eee8d8ed02dc]: Commencement: Sch. 1 para. 8 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-1bb2e07e7e101eaf54459cc0fb7f2001]: Commencement: Sch. 1 para. 9 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-1bb2e07e7e101eaf54459cc0fb7f2001]: Commencement: Sch. 1 para. 9 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-01861f20b1265f13b97c408766dca2c9]: Commencement: Sch. 1 para. 10 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-01861f20b1265f13b97c408766dca2c9]: Commencement: Sch. 1 para. 10 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-bcfa7e360f4939a5a36f6520d9f82146]: Commencement: Sch. 1 para. 11 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-bcfa7e360f4939a5a36f6520d9f82146]: Commencement: Sch. 1 para. 11 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-41a2bdb98061482ede85ad362a64bfe5]: Commencement: Sch. 1 para. 12 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-41a2bdb98061482ede85ad362a64bfe5]: Commencement: Sch. 1 para. 12 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-b48bc9560671152b082c39bc992a059a]: Commencement: Sch. 1 para. 13 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-b48bc9560671152b082c39bc992a059a]: Commencement: Sch. 1 para. 13 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-1f5c054b1e0160048751fda761838e26]: Commencement: Sch. 1 para. 14 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-1f5c054b1e0160048751fda761838e26]: Commencement: Sch. 1 para. 14 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-659b78082ed03508771d4c066e795971]: Commencement: Sch. 1 para. 15 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-659b78082ed03508771d4c066e795971]: Commencement: Sch. 1 para. 15 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-d85dcfaebf44d52e721ed3e31dfbce0d]: Commencement: Sch. 1 para. 16 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-d85dcfaebf44d52e721ed3e31dfbce0d]: Commencement: Sch. 1 para. 16 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-c7962f34287045e4807c9ccb38165dd6]: Commencement: Sch. 1 para. 17 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-c7962f34287045e4807c9ccb38165dd6]: Commencement: Sch. 1 para. 17 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-2c0ea1e6fe8a37d815538ae961fffae3]: Commencement: Sch. 1 para. 18 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-2c0ea1e6fe8a37d815538ae961fffae3]: Commencement: Sch. 1 para. 18 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-8af96743742b49fead30cebfae7fa134]: Commencement: Sch. 1 para. 19 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-8af96743742b49fead30cebfae7fa134]: Commencement: Sch. 1 para. 19 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-59dadfe641704d5d54121c0a7ed7d59f]: Commencement: Sch. 1 para. 20 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-59dadfe641704d5d54121c0a7ed7d59f]: Commencement: Sch. 1 para. 20 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-57c32a295aa17b4e2a94ade8b16614f6]: Commencement: Sch. 1 para. 21 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-57c32a295aa17b4e2a94ade8b16614f6]: Commencement: Sch. 1 para. 21 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-ed2a14038803b35cf825c50d69b90729]: Commencement: Sch. 1 para. 22 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-ed2a14038803b35cf825c50d69b90729]: Commencement: Sch. 1 para. 22 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-f82fcff9776be40ed7f6e2a9fdd685f7]: Commencement: Sch. 1 para. 23 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-f82fcff9776be40ed7f6e2a9fdd685f7]: Commencement: Sch. 1 para. 23 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-c87bb5c8a34c0f836a754f59305f2add]: Commencement: Sch. 1 para. 24 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-c87bb5c8a34c0f836a754f59305f2add]: Commencement: Sch. 1 para. 24 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-8a35ecf257f7c195b008fe1dd5a90c3d]: Commencement: Sch. 1 para. 25 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-8a35ecf257f7c195b008fe1dd5a90c3d]: Commencement: Sch. 1 para. 25 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-0e73f2bd3f15312140064ee24a0d41b7]: Commencement: Sch. 1 para. 26 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-0e73f2bd3f15312140064ee24a0d41b7]: Commencement: Sch. 1 para. 26 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-1b24ad62532686f6fa8a8c796e5772eb]: Commencement: Sch. 1 para. 27 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-1b24ad62532686f6fa8a8c796e5772eb]: Commencement: Sch. 1 para. 27 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-373ae555706280ca43810baa1ffe43be]: Commencement: Sch. 1 para. 28 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-373ae555706280ca43810baa1ffe43be]: Commencement: Sch. 1 para. 28 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-ac311cb7ca2b91e4bb877938393f568f]: Commencement: Sch. 1 para. 29 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-ac311cb7ca2b91e4bb877938393f568f]: Commencement: Sch. 1 para. 29 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-5e6747ecb117ae9628e07aba010a679a]: Commencement: Sch. 1 para. 30 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-5e6747ecb117ae9628e07aba010a679a]: Commencement: Sch. 1 para. 30 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-0d384f204517eec9afe51beb1858546d]: Commencement: Sch. 1 para. 31 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-0d384f204517eec9afe51beb1858546d]: Commencement: Sch. 1 para. 31 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-6c7befa97048899a70f192be5c792acd]: Commencement: Sch. 1 para. 32 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-6c7befa97048899a70f192be5c792acd]: Commencement: Sch. 1 para. 32 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-a71591a0e7bee19b480f53ca2916d110]: Commencement: Sch. 1 para. 33 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-a71591a0e7bee19b480f53ca2916d110]: Commencement: Sch. 1 para. 33 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-e82b7e968bce14edfe786eb094ecb56a]: Commencement: Sch. 2 Pt. 1 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-e82b7e968bce14edfe786eb094ecb56a]: Commencement: Sch. 2 Pt. 1 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
 
-[^key-7e5505e60b6c1e81843cffd60f955008]: Textual amendment: Sch. 2 Pt. 1 para. 3 revoked (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 33(4)(f)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/4/f), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1) (with [s. 33(5)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/5)); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/c)
+[^c-7e5505e60b6c1e81843cffd60f955008]: Textual amendment: Sch. 2 Pt. 1 para. 3 revoked (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 33(4)(f)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/4/f), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1) (with [s. 33(5)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/5)); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/c)
 
-[^key-3fe6f337886a71b79e459d2d34997f36]: Commencement: Sch. 2 Pt. 2 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)
+[^c-3fe6f337886a71b79e459d2d34997f36]: Commencement: Sch. 2 Pt. 2 in force at 23.11.2005, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3226/article/1/1)

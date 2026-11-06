@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.7. Discharging jurors[^key-7d54f0768a2cbd42e818d45e8d19d37f]
+## 25.7. Discharging jurors[^c-7d54f0768a2cbd42e818d45e8d19d37f]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d54f0768a2cbd42e818d45e8d19d37f]: Commencement: [Rule 25.7](https://www.legislation.gov.uk/uksi/2025/909/rule/25.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-7d54f0768a2cbd42e818d45e8d19d37f]: Commencement: [Rule 25.7](https://www.legislation.gov.uk/uksi/2025/909/rule/25.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00586]: Footnote: [1974 c. 23](https://www.legislation.gov.uk/ukpga/1974/23); section 16 was amended by sections 121 and 170 of, and Schedule 16 to, the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33).

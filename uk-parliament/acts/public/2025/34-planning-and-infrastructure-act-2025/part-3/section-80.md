@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Compensation[^key-a6f709bddc560f47c35beb3971333d5a][^key-978ae08aacd7a9fdce17ea852707a798]
+## 80. Compensation[^c-a6f709bddc560f47c35beb3971333d5a][^c-978ae08aacd7a9fdce17ea852707a798]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a6f709bddc560f47c35beb3971333d5a]: Commencement: S. 80 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-a6f709bddc560f47c35beb3971333d5a]: Commencement: S. 80 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-978ae08aacd7a9fdce17ea852707a798]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2025/34/section/80) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-978ae08aacd7a9fdce17ea852707a798]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2025/34/section/80) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

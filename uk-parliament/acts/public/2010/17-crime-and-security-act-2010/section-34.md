@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Grant of injunction: minimum age[^key-46b448920842051eb9877d6842c96667][^key-8c1532f93caafb6c54f96fd43a6752d3]
+## 34. Grant of injunction: minimum age[^c-46b448920842051eb9877d6842c96667][^c-8c1532f93caafb6c54f96fd43a6752d3]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-46b448920842051eb9877d6842c96667]: Textual amendment: S. 34 omitted (1.6.2015) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 86](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/86); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(q)(ix)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/q/ix)
+[^c-46b448920842051eb9877d6842c96667]: Textual amendment: S. 34 omitted (1.6.2015) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 86](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/86); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(q)(ix)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/q/ix)
 
-[^key-8c1532f93caafb6c54f96fd43a6752d3]: Commencement: S. 34 in force at 9.1.2012 by [S.I. 2011/3016](https://www.legislation.gov.uk/uksi/2011/3016), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/3016/article/2/a)
+[^c-8c1532f93caafb6c54f96fd43a6752d3]: Commencement: S. 34 in force at 9.1.2012 by [S.I. 2011/3016](https://www.legislation.gov.uk/uksi/2011/3016), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/3016/article/2/a)

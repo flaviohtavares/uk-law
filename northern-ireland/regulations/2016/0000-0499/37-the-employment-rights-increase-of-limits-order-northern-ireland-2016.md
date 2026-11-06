@@ -40,21 +40,21 @@ Coming into operation
 
 14th February 2016
 
-[^key-8cdfe14241b150fa6ae282d24a7b590d]...
+[^c-8cdfe14241b150fa6ae282d24a7b590d]...
 
-## 1. Citation, commencement and interpretation[^key-8cdfe14241b150fa6ae282d24a7b590d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Revocation[^key-8cdfe14241b150fa6ae282d24a7b590d]
+## 1. Citation, commencement and interpretation[^c-8cdfe14241b150fa6ae282d24a7b590d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase of limits[^key-8cdfe14241b150fa6ae282d24a7b590d]
+## 2. Revocation[^c-8cdfe14241b150fa6ae282d24a7b590d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-8cdfe14241b150fa6ae282d24a7b590d]
+## 3. Increase of limits[^c-8cdfe14241b150fa6ae282d24a7b590d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Transitional provisions[^c-8cdfe14241b150fa6ae282d24a7b590d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -68,15 +68,15 @@ Minister for Employment and Learning
 
 Article 3
 
-|  | *[^key-8cdfe14241b150fa6ae282d24a7b590d]...* |  |  |  |
+|  | *[^c-8cdfe14241b150fa6ae282d24a7b590d]...* |  |  |  |
 | --- | --- | --- | --- | --- |
-| [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . |
-| [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . |
-| [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . |
-| [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . |
-| [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . |
-| [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . |
-| [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^key-8cdfe14241b150fa6ae282d24a7b590d]. . . |
+| [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . |
+| [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . |
+| [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . |
+| [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . |
+| [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . |
+| [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . |
+| [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . | [^c-8cdfe14241b150fa6ae282d24a7b590d]. . . |
 
 *(This note is not part of the Order)*
 
@@ -90,4 +90,4 @@ An impact assessment is not required because the 1999 Order provides for indexat
 
 ## Annotations
 
-[^key-8cdfe14241b150fa6ae282d24a7b590d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2016/37) revoked (6.4.2018) by [The Employment Rights (Increase of Limits) (No. 2) Order (Northern Ireland) 2018 (S.R. 2018/80)](https://www.legislation.gov.uk/nisr/2018/80), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2018/80/article/1/1), [2](https://www.legislation.gov.uk/nisr/2018/80/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2018/80/article/4)); (This amendment supersedes the amendment by The Employment Rights (Increase of Limits) Order (Northern Ireland) 2018 (S.R. 2018/69), arts. 1(1), 2 (with art. 4) which came into operation on 6.4.2018 and was revoked on the same date by The Employment Rights (Increase of Limits) (No. 2) Order (Northern Ireland) 2018 (S.R. 2018/80), art. 2)
+[^c-8cdfe14241b150fa6ae282d24a7b590d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2016/37) revoked (6.4.2018) by [The Employment Rights (Increase of Limits) (No. 2) Order (Northern Ireland) 2018 (S.R. 2018/80)](https://www.legislation.gov.uk/nisr/2018/80), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2018/80/article/1/1), [2](https://www.legislation.gov.uk/nisr/2018/80/article/2) (with [art. 4](https://www.legislation.gov.uk/nisr/2018/80/article/4)); (This amendment supersedes the amendment by The Employment Rights (Increase of Limits) Order (Northern Ireland) 2018 (S.R. 2018/69), arts. 1(1), 2 (with art. 4) which came into operation on 6.4.2018 and was revoked on the same date by The Employment Rights (Increase of Limits) (No. 2) Order (Northern Ireland) 2018 (S.R. 2018/80), art. 2)

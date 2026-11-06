@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Possession of firearms by persons previously convicted of crime[^key-6d4c0360c59f68d7e46e2eaf5d9c0db3]
+## 110. Possession of firearms by persons previously convicted of crime[^c-6d4c0360c59f68d7e46e2eaf5d9c0db3]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ the prohibition does not apply while the certificate remains in force.
 
 ## Annotations
 
-[^key-6d4c0360c59f68d7e46e2eaf5d9c0db3]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2014/12/section/110) in force at 14.7.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(c)](https://www.legislation.gov.uk/uksi/2014/949/article/6/c)
+[^c-6d4c0360c59f68d7e46e2eaf5d9c0db3]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2014/12/section/110) in force at 14.7.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(c)](https://www.legislation.gov.uk/uksi/2014/949/article/6/c)

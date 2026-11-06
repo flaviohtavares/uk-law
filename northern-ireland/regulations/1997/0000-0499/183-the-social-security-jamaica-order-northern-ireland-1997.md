@@ -40,11 +40,11 @@ Coming into operation
 
 In exercise of the powers conferred on me by section 155(1) and (2) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and of all other powers enabling me in that behalf, I hereby make the following Order:
 
-## 1. Citation and commencement[^key-92d81ba6e7ad8b6b1da89a73d7242295]
+## 1. Citation and commencement[^c-92d81ba6e7ad8b6b1da89a73d7242295]
 
 This Order may be cited as the Social Security (Jamaica) Order (Northern Ireland) 1997 and shall come into operation on 1st April 1997.
 
-## 2. Modification of the Social Security Contributions and Benefits (Northern Ireland) Act and the Social Security Administration (Northern Ireland) Act[^key-0345aab0fb864bdc63dee6d31c25993d]
+## 2. Modification of the Social Security Contributions and Benefits (Northern Ireland) Act and the Social Security Administration (Northern Ireland) Act[^c-0345aab0fb864bdc63dee6d31c25993d]
 
 (1) The Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002] and the Social Security Administration (Northern Ireland) Act 1992 shall be modified to such an extent as may be required to give effect to the provisions contained in the Convention and the Protocol, so far as the same relate to Northern Ireland.
 
@@ -52,7 +52,7 @@ This Order may be cited as the Social Security (Jamaica) Order (Northern Ireland
 
 (3) The Convention and the Protocol (as provided therein) shall enter into force on 1st April 1997, the date specified in Notes (set out in Schedule 3 to this Order) exchanged through the Diplomatic Channel.
 
-## 3. Revocation and amendment of Orders[^key-11c865cd85166d5d52bb1981fd8a29f1]
+## 3. Revocation and amendment of Orders[^c-11c865cd85166d5d52bb1981fd8a29f1]
 
 (1) The National Insurance and Industrial Injuries (Jamaica) Order (Northern Ireland) 1972[^f00004] is hereby revoked.
 
@@ -946,9 +946,9 @@ For the Government of Jamaica:
 
 ## SCHEDULE 3 — Exchange of Notes between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Jamaica
 
-### \[No. 1\][^key-f8b0f1657e39b7d5c41b429b2979a4db]
+### \[No. 1\][^c-f8b0f1657e39b7d5c41b429b2979a4db]
 
-### No. 20/97[^key-339a86ae4303f86d47dc77af5c4abfd6]
+### No. 20/97[^c-339a86ae4303f86d47dc77af5c4abfd6]
 
 The British High Commission present their compliments to the Ministry of Foreign Affairs and Foreign Trade and have the honour to refer to the Convention on Social Security and the Protocol thereto between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Jamaica signed at London on 12 November 1996 and, in accordance with Article 33 of that Convention, to notify the Ministry of Foreign Affairs and Foreign Trade that the Government of the United Kingdom has completed the constitutional and administrative requirements necessary for the implementation thereof.
 
@@ -962,7 +962,7 @@ KINGSTON
 
 25 February 1997.
 
-### \[No. 2\][^key-980d45dbea9544a4f63619e91a56916e]
+### \[No. 2\][^c-980d45dbea9544a4f63619e91a56916e]
 
 The Ministry of Foreign Affairs and Foreign Trade presents its compliments to the British High Commission and has the honour to acknowledge receipt of the High Commission’s Note No. 20/97 of 1997 February 25, notifying completion by the Government of the United Kingdom of Great Britain and Northern Ireland of its constitutional and administrative requirements necessary for the implementation of the Convention on Social Security and the Protocol thereto between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Jamaica signed at London on 1996 November 12.
 
@@ -984,15 +984,15 @@ The Order also contains revocations.
 
 [^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-92d81ba6e7ad8b6b1da89a73d7242295]: Commencement: Art. 1 in operation at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/183/article/1)
+[^c-92d81ba6e7ad8b6b1da89a73d7242295]: Commencement: Art. 1 in operation at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/183/article/1)
 
-[^key-0345aab0fb864bdc63dee6d31c25993d]: Commencement: Art. 2 in operation at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/183/article/1)
+[^c-0345aab0fb864bdc63dee6d31c25993d]: Commencement: Art. 2 in operation at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/183/article/1)
 
 [^f00002]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
 [^f00003]: Footnote: *See* Cm. 3527
 
-[^key-11c865cd85166d5d52bb1981fd8a29f1]: Commencement: Art. 3 in operation at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/183/article/1)
+[^c-11c865cd85166d5d52bb1981fd8a29f1]: Commencement: Art. 3 in operation at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/183/article/1)
 
 [^f00004]: Footnote: [S.R. & O. (N.I.) 1972 No. 322](https://www.legislation.gov.uk/nisro/1972/322)
 
@@ -1004,8 +1004,8 @@ The Order also contains revocations.
 
 [^f00008]: Footnote: [S.R. 1995 No. 110](https://www.legislation.gov.uk/nisr/1995/110)
 
-[^key-f8b0f1657e39b7d5c41b429b2979a4db]: Commencement: Sch. 3 Pt. 1 in operation at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/183/article/1)
+[^c-f8b0f1657e39b7d5c41b429b2979a4db]: Commencement: Sch. 3 Pt. 1 in operation at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/183/article/1)
 
-[^key-339a86ae4303f86d47dc77af5c4abfd6]: Commencement: Sch. 3 Pt. 2 in operation at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/183/article/1)
+[^c-339a86ae4303f86d47dc77af5c4abfd6]: Commencement: Sch. 3 Pt. 2 in operation at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/183/article/1)
 
-[^key-980d45dbea9544a4f63619e91a56916e]: Commencement: Sch. 3 Pt. 3 in operation at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/183/article/1)
+[^c-980d45dbea9544a4f63619e91a56916e]: Commencement: Sch. 3 Pt. 3 in operation at 1.4.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/183/article/1)

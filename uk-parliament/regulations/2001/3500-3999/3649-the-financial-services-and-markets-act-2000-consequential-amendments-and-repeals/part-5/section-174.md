@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Regulated agreements made on introductions by unlicensed credit-brokers[^key-8259ee9451cb28de1cfa2e741ba4bde6]
+## 174. Regulated agreements made on introductions by unlicensed credit-brokers[^c-8259ee9451cb28de1cfa2e741ba4bde6]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 149 of the Consumer Credit Act 1974 (enforcement of regulated agreeme
 
 ## Annotations
 
-[^key-8259ee9451cb28de1cfa2e741ba4bde6]: Commencement: Art. 174 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8259ee9451cb28de1cfa2e741ba4bde6]: Commencement: Art. 174 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

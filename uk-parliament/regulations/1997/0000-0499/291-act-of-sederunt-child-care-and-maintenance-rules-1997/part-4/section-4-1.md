@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.1. Interpretation[^key-9efc2ee7466a3315dcee1c92f6d57c16]
+## 4.1. Interpretation[^c-9efc2ee7466a3315dcee1c92f6d57c16]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ In this Chapter, unless the context otherwise requires–
 
 ## Annotations
 
-[^key-9efc2ee7466a3315dcee1c92f6d57c16]: Commencement: [Rule 4.1](https://www.legislation.gov.uk/uksi/1997/291/rule/4.1) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-9efc2ee7466a3315dcee1c92f6d57c16]: Commencement: [Rule 4.1](https://www.legislation.gov.uk/uksi/1997/291/rule/4.1) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
 [^f00034]: Footnote: [1986 c. 55](https://www.legislation.gov.uk/ukpga/1986/55).
 

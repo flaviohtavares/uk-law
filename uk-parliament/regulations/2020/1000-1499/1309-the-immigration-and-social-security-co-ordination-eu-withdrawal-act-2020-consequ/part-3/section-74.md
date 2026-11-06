@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Amendment of the Employment and Support Allowance Regulations (Northern Ireland) 2008[^key-7bf1881a6025b6f9192140260070bdb9][^M_I_b5cb67c2-fa6d-4245-e344-208d96da176f]
+## 74. Amendment of the Employment and Support Allowance Regulations (Northern Ireland) 2008[^c-7bf1881a6025b6f9192140260070bdb9][^M_I_b5cb67c2-fa6d-4245-e344-208d96da176f]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7bf1881a6025b6f9192140260070bdb9]: Commencement: Reg. 74 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-7bf1881a6025b6f9192140260070bdb9]: Commencement: Reg. 74 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_b5cb67c2-fa6d-4245-e344-208d96da176f]: Commencement: Reg. 74 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

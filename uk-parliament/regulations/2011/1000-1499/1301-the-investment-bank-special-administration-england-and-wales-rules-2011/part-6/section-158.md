@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 158. Withdrawal or variation of proof[^key-3b5e1d451c28fc19266af2acee37e5e1]
+## 158. Withdrawal or variation of proof[^c-3b5e1d451c28fc19266af2acee37e5e1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A creditor’s proof may at any time, by agreement with the administrator, be wi
 
 ## Annotations
 
-[^key-3b5e1d451c28fc19266af2acee37e5e1]: Commencement: [Rule 158](https://www.legislation.gov.uk/uksi/2011/1301/rule/158) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-3b5e1d451c28fc19266af2acee37e5e1]: Commencement: [Rule 158](https://www.legislation.gov.uk/uksi/2011/1301/rule/158) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

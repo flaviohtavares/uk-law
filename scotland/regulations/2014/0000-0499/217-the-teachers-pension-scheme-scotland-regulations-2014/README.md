@@ -32,7 +32,7 @@ summary: ''
 
 Public Service Pensions
 
-The Teachers’ Pension Scheme (Scotland) Regulations 2014 (revoked)[^key-e189439de6fad853456239f351ebe3ed]
+The Teachers’ Pension Scheme (Scotland) Regulations 2014 (revoked)[^c-e189439de6fad853456239f351ebe3ed]
 
 Made
 
@@ -44,11 +44,11 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-e189439de6fad853456239f351ebe3ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e189439de6fad853456239f351ebe3ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Preliminary[^key-e189439de6fad853456239f351ebe3ed]
+### PART 1 — Preliminary[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -61,7 +61,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 5 — Leaving pensionable service](part-1/section-5.md)
 - [Section 6 — Leaving eligible employment](part-1/section-6.md)
 
-### PART 2 — Governance[^key-e189439de6fad853456239f351ebe3ed]
+### PART 2 — Governance[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -74,13 +74,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 11 — Membership of scheme advisory board](part-2/section-11.md)
 - [Section 12 — Conflict of interest](part-2/section-12.md)
 
-### PART 3 — Scheme membership[^key-e189439de6fad853456239f351ebe3ed]
+### PART 3 — Scheme membership[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
 **Not yet in force.**
 
-#### CHAPTER 1 — Interpretation[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 1 — Interpretation[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -92,7 +92,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 16 — Meaning of “irregular employment”](part-3/section-16.md)
 - [Section 17 — Meaning of “opt-out notice” and “opt-in notice”](part-3/section-17.md)
 
-#### CHAPTER 2 — Membership[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 2 — Membership[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -103,13 +103,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 20 — Dual capacity membership](part-3/section-20.md)
 - [Section 21 — Payment of retirement benefits to dual capacity members](part-3/section-21.md)
 
-#### CHAPTER 3 — Pensionable service[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 3 — Pensionable service[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
 **Not yet in force.**
 
-##### SECTION 1 — General provisions[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 1 — General provisions[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -118,7 +118,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 22 — Service not pensionable unless member is entitled to pay](part-3/section-22.md)
 - [Section 23 — Service not pensionable unless members’ contributions are paid](part-3/section-23.md)
 
-##### SECTION 2 — Service in Her Majesty’s armed forces[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 2 — Service in Her Majesty’s armed forces[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -127,7 +127,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 24 — Pensionable service – armed forces service](part-3/section-24.md)
 - [Section 25 — Election for armed forces service to be pensionable](part-3/section-25.md)
 
-##### SECTION 3 — Pensionable service on or after automatic enrolment date[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 3 — Pensionable service on or after automatic enrolment date[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -137,7 +137,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 27 — Opting out of this scheme after automatic enrolment date](part-3/section-27.md)
 - [Section 28 — Opting into this scheme after automatic enrolment date](part-3/section-28.md)
 
-##### SECTION 4 — Pensionable service before automatic enrolment date[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 4 — Pensionable service before automatic enrolment date[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -147,7 +147,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 30 — Opting out of this scheme before automatic enrolment date](part-3/section-30.md)
 - [Section 31 — Opting into this scheme before automatic enrolment date](part-3/section-31.md)
 
-#### CHAPTER 4 — Pensionable earnings[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 4 — Pensionable earnings[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -160,7 +160,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 36 — Money value of residential benefits in kind to form part of pensionable earnings](part-3/section-36.md)
 - [Section 37 — Pensionable earnings for the purpose of accruing benefits](part-3/section-37.md)
 
-#### CHAPTER 5 — Annual rate of pensionable earnings for multiple employments[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 5 — Annual rate of pensionable earnings for multiple employments[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -169,13 +169,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 38 — Multiple regular full-time or part-time employments](part-3/section-38.md)
 - [Section 39 — Multiple employments including at least one irregular employment](part-3/section-39.md)
 
-### PART 4 — Pension accounts[^key-e189439de6fad853456239f351ebe3ed]
+### PART 4 — Pension accounts[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
 **Not yet in force.**
 
-#### CHAPTER 1 — Interpretation[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 1 — Interpretation[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -186,7 +186,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 42 — Meaning of “leaver index adjustment”](part-4/section-42.md)
 - [Section 43 — Meaning of “leaver PIA index adjustment”](part-4/section-43.md)
 
-#### CHAPTER 2 — Calculation of accrued pension[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 2 — Calculation of accrued pension[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -195,7 +195,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 44 — Calculation of amount of accrued pension for purposes of retirement other than phased retirement](part-4/section-44.md)
 - [Section 45 — Calculation of amount of accrued pension for purpose of phased retirement](part-4/section-45.md)
 
-#### CHAPTER 3 — Pension accounts: general[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 3 — Pension accounts: general[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -204,7 +204,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 46 — Establishment of pension accounts: general](part-4/section-46.md)
 - [Section 47 — Closure of pension accounts on transfer out or repayment of balance of contributions](part-4/section-47.md)
 
-#### CHAPTER 4 — Active member’s account[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 4 — Active member’s account[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -218,7 +218,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 53 — Ill-health pension ceases to be payable](part-4/section-53.md)
 - [Section 54 — Phased retirement pension ceases to be payable](part-4/section-54.md)
 
-#### CHAPTER 5 — Additional pension account[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 5 — Additional pension account[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -230,7 +230,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 58 — Ill-health pension ceases to be payable](part-4/section-58.md)
 - [Section 59 — Phased retirement pension ceases to be payable](part-4/section-59.md)
 
-#### CHAPTER 6 — Deferred member’s account[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 6 — Deferred member’s account[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -243,13 +243,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 64 — Account established after ill-health pension ceases to be payable](part-4/section-64.md)
 - [Section 65 — Account established after phased retirement pension ceases to be payable](part-4/section-65.md)
 
-#### CHAPTER 7 — Pensioner members’ accounts[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 7 — Pensioner members’ accounts[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
 **Not yet in force.**
 
-##### SECTION 5 — Interpretation[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 5 — Interpretation[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -263,7 +263,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 71 — Meaning of “actuarial adjustment”](part-4/section-71.md)
 - [Section 72 — Meaning of “commutation amount”](part-4/section-72.md)
 
-##### SECTION 6 — Establishment of pensioner members’ accounts[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 6 — Establishment of pensioner members’ accounts[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -272,7 +272,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 73 — Pension accounts for active or deferred members who become pensioner members](part-4/section-73.md)
 - [Section 74 — Pension accounts for phased retirement members](part-4/section-74.md)
 
-##### SECTION 7 — Closure of accounts[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 7 — Closure of accounts[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -281,7 +281,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 75 — Ill-health pension ceases to be payable](part-4/section-75.md)
 - [Section 76 — Phased retirement pension ceases to be payable](part-4/section-76.md)
 
-#### CHAPTER 8 — Pension accounts for pension credit members[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 8 — Pension accounts for pension credit members[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -290,13 +290,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 77 — Pension accounts for pension credit members](part-4/section-77.md)
 - [Section 78 — Separate account for each capacity of membership](part-4/section-78.md)
 
-### PART 5 — Retirement benefits for teachers[^key-e189439de6fad853456239f351ebe3ed]
+### PART 5 — Retirement benefits for teachers[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
 **Not yet in force.**
 
-#### CHAPTER 1 — Interpretation[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 1 — Interpretation[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -306,7 +306,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 80 — Re-qualifying for retirement benefits in respect of post-benefit service](part-5/section-80.md)
 - [Section 81 — Payment of retirement benefits for post-benefit service](part-5/section-81.md)
 
-#### CHAPTER 2 — Age retirement[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 2 — Age retirement[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -317,7 +317,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 84 — Annual rate of age retirement pension](part-5/section-84.md)
 - [Section 85 — Arrears of pension payable to deferred member who becomes pensioner member after reaching normal pension age](part-5/section-85.md)
 
-#### CHAPTER 3 — Phased retirement[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 3 — Phased retirement[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -334,7 +334,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 94 — Cessation of phased retirement pension](part-5/section-94.md)
 - [Section 95 — Subsequent phased retirement applications](part-5/section-95.md)
 
-#### CHAPTER 4 — Premature retirement[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 4 — Premature retirement[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -345,7 +345,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 98 — Entitlement to premature retirement pension](part-5/section-98.md)
 - [Section 99 — Annual rate of premature retirement pension](part-5/section-99.md)
 
-#### CHAPTER 5 — Early retirement[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 5 — Early retirement[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -355,13 +355,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 101 — Entitlement to early retirement pension](part-5/section-101.md)
 - [Section 102 — Annual rate of early retirement pension](part-5/section-102.md)
 
-#### CHAPTER 6 — Ill health retirement[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 6 — Ill health retirement[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
 **Not yet in force.**
 
-##### SECTION 1 — General[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 1 — General[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -371,7 +371,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 104 — Incapacity definitions](part-5/section-104.md)
 - [Section 105 — Ill-health applications](part-5/section-105.md)
 
-##### SECTION 2 — Ill-health pension[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 2 — Ill-health pension[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -384,7 +384,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 110 — Annual rate of ill-health pension](part-5/section-110.md)
 - [Section 111 — When ill-health pension ceases to be payable](part-5/section-111.md)
 
-##### SECTION 3 — Total incapacity pension[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 3 — Total incapacity pension[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -395,7 +395,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 114 — Annual rate of total incapacity pension](part-5/section-114.md)
 - [Section 115 — Cessation of total incapacity pension](part-5/section-115.md)
 
-#### CHAPTER 7 — Short-service serious ill health grant[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 7 — Short-service serious ill health grant[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -406,7 +406,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 118 — Entitlement to short-service serious ill-health grant](part-5/section-118.md)
 - [Section 119 — Amount of grant](part-5/section-119.md)
 
-#### CHAPTER 8 — Short-service annuity for post-benefit service[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 8 — Short-service annuity for post-benefit service[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -416,13 +416,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 121 — Entitlement to short-service annuity](part-5/section-121.md)
 - [Section 122 — Annual rate of short-service annuity](part-5/section-122.md)
 
-### PART 6 — Survivor’s benefits[^key-e189439de6fad853456239f351ebe3ed]
+### PART 6 — Survivor’s benefits[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
 **Not yet in force.**
 
-#### CHAPTER 1 — General interpretation[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 1 — General interpretation[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -436,7 +436,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 128 — Payment of survivor benefits for post-benefit service](part-6/section-128.md)
 - [Section 129 — Death of a dual capacity member](part-6/section-129.md)
 
-#### CHAPTER 2 — Specific interpretation[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 2 — Specific interpretation[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -448,13 +448,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 133 — Meaning of “surviving nominated beneficiary”](part-6/section-133.md)
 - [Section 134 — Meaning of “eligible child”](part-6/section-134.md)
 
-#### CHAPTER 3 — Death grant[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 3 — Death grant[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
 **Not yet in force.**
 
-##### SECTION 1 — General[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 1 — General[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -462,7 +462,7 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 135 — Payment of death grant](part-6/section-135.md)
 
-##### SECTION 2 — Death in service[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 2 — Death in service[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -470,7 +470,7 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 136 — Death in service grant](part-6/section-136.md)
 
-##### SECTION 3 — Death out of service[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 3 — Death out of service[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -479,7 +479,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 137 — Death out of service grant](part-6/section-137.md)
 - [Section 138 — Supplementary death grant payable on death of pensioner member](part-6/section-138.md)
 
-#### CHAPTER 4 — Surviving adult pensions[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 4 — Surviving adult pensions[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -490,7 +490,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 141 — Annual rate of surviving adult pension: long-term](part-6/section-141.md)
 - [Section 142 — Enhancement of surviving adult pension](part-6/section-142.md)
 
-#### CHAPTER 5 — Additional (surviving adult) pensions[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 5 — Additional (surviving adult) pensions[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -500,7 +500,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 144 — Annual rate of additional (surviving adult) pension: short-term](part-6/section-144.md)
 - [Section 145 — Annual rate of additional (surviving adult) pension: long-term](part-6/section-145.md)
 
-#### CHAPTER 6 — Child pensions[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 6 — Child pensions[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -511,13 +511,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 148 — Annual rate of child pension: long-term](part-6/section-148.md)
 - [Section 149 — Enhancement of child pension](part-6/section-149.md)
 
-### PART 7 — Benefits for pension credit members[^key-e189439de6fad853456239f351ebe3ed]
+### PART 7 — Benefits for pension credit members[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
 **Not yet in force.**
 
-#### CHAPTER 1 — General[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 1 — General[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -525,7 +525,7 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 150 — Interpretation of Part](part-7/section-150.md)
 
-#### CHAPTER 2 — Pension credit retirement pension[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 2 — Pension credit retirement pension[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -535,7 +535,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 152 — Entitlement to pension credit retirement pension](part-7/section-152.md)
 - [Section 153 — Annual rate of pension credit retirement pension](part-7/section-153.md)
 
-#### CHAPTER 3 — Death grant[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 3 — Death grant[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -546,13 +546,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 156 — Death grant: death of pension credit member after benefits payable](part-7/section-156.md)
 - [Section 157 — Payment of death grant](part-7/section-157.md)
 
-### PART 8 — Payment of benefits[^key-e189439de6fad853456239f351ebe3ed]
+### PART 8 — Payment of benefits[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
 **Not yet in force.**
 
-#### CHAPTER 1 — Application for payment of benefits[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 1 — Application for payment of benefits[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -561,7 +561,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 158 — Benefits payable by the scheme manager](part-8/section-158.md)
 - [Section 159 — Application for payment of benefits](part-8/section-159.md)
 
-#### CHAPTER 2 — Payment of pensions[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 2 — Payment of pensions[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -569,7 +569,7 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 160 — Payment of pension](part-8/section-160.md)
 
-#### CHAPTER 3 — Payment of lump sums[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 3 — Payment of lump sums[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -584,7 +584,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 167 — Amount of lump sum payable under regulation 165 instead of a pension credit retirement pension](part-8/section-167.md)
 - [Section 168 — Commutation: small pensions](part-8/section-168.md)
 
-#### CHAPTER 4 — Continuing entitlement to benefit[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 4 — Continuing entitlement to benefit[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -593,7 +593,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 169 — Evidence of continuing entitlement to benefit](part-8/section-169.md)
 - [Section 170 — Cessation of benefits where no entitlement](part-8/section-170.md)
 
-#### CHAPTER 5 — Miscellaneous[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 5 — Miscellaneous[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -607,13 +607,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 176 — Reduction of benefits: annual allowances and lifetime allowance charge](part-8/section-176.md)
 - [Section 177 — General prohibition on unauthorised payments](part-8/section-177.md)
 
-### PART 9 — Contributions[^key-e189439de6fad853456239f351ebe3ed]
+### PART 9 — Contributions[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
 **Not yet in force.**
 
-#### CHAPTER 1 — Interpretation of Part[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 1 — Interpretation of Part[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -621,7 +621,7 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 178 — Pensionable earnings for a pay period](part-9/section-178.md)
 
-#### CHAPTER 2 — Employees’ contributions[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 2 — Employees’ contributions[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -631,7 +631,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 180 — Contributions under Schedule 2](part-9/section-180.md)
 - [Section 181 — Contributions payable during a period of permanent service in the armed forces](part-9/section-181.md)
 
-#### CHAPTER 3 — Repayment of contributions after short service[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 3 — Repayment of contributions after short service[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -642,7 +642,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 184 — Application for repayment of balance of contributions](part-9/section-184.md)
 - [Section 185 — Calculation of balance of contributions](part-9/section-185.md)
 
-#### CHAPTER 4 — Employers’ contributions[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 4 — Employers’ contributions[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -650,7 +650,7 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 186 — Employers’ contributions](part-9/section-186.md)
 
-#### CHAPTER 5 — Deduction and payment of contributions[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 5 — Deduction and payment of contributions[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -661,13 +661,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 189 — Recovery of unpaid contributions from benefits](part-9/section-189.md)
 - [Section 190 — Payment by employers to scheme manager](part-9/section-190.md)
 
-### PART 10 — Transfers[^key-e189439de6fad853456239f351ebe3ed]
+### PART 10 — Transfers[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
 **Not yet in force.**
 
-#### CHAPTER 1 — Preliminary[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 1 — Preliminary[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -676,13 +676,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 191 — Application of Part](part-10/section-191.md)
 - [Section 192 — Interpretation of Part](part-10/section-192.md)
 
-#### CHAPTER 2 — Transfers on a cash equivalent basis[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 2 — Transfers on a cash equivalent basis[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
 **Not yet in force.**
 
-##### SECTION 1 — Application of Chapter[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 1 — Application of Chapter[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -690,7 +690,7 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 193 — Application of Chapter](part-10/section-193.md)
 
-##### SECTION 2 — Transfers Out[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 2 — Transfers Out[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -701,7 +701,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 196 — Application for payment of a transfer value](part-10/section-196.md)
 - [Section 197 — Payment of a transfer value](part-10/section-197.md)
 
-##### SECTION 3 — Transfers in[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 3 — Transfers in[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -711,13 +711,13 @@ Coming into force in accordance with regulation 1(2)
 - [Section 199 — Acceptance of a transfer value](part-10/section-199.md)
 - [Section 200 — Amount of transferred pension](part-10/section-200.md)
 
-#### CHAPTER 3 — Club transfers[^key-e189439de6fad853456239f351ebe3ed]
+#### CHAPTER 3 — Club transfers[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
 **Not yet in force.**
 
-##### SECTION 1 — Application of Chapter[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 1 — Application of Chapter[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -725,7 +725,7 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 201 — Application of Chapter](part-10/section-201.md)
 
-##### SECTION 2 — Transfers out[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 2 — Transfers out[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -736,7 +736,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 204 — Application for payment of a club transfer value](part-10/section-204.md)
 - [Section 205 — Payment of a club transfer value](part-10/section-205.md)
 
-##### SECTION 3 — Transfers in[^key-e189439de6fad853456239f351ebe3ed]
+##### SECTION 3 — Transfers in[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -746,7 +746,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 207 — Acceptance of a club transfer value](part-10/section-207.md)
 - [Section 208 — Amount of club transfer earned pension](part-10/section-208.md)
 
-### PART 11 — Miscellaneous and supplemental[^key-e189439de6fad853456239f351ebe3ed]
+### PART 11 — Miscellaneous and supplemental[^c-e189439de6fad853456239f351ebe3ed]
 
 *Extent: S*
 
@@ -767,14 +767,14 @@ Coming into force in accordance with regulation 1(2)
 
 **No longer in force.**
 
-[^key-e189439de6fad853456239f351ebe3ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e189439de6fad853456239f351ebe3ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-e189439de6fad853456239f351ebe3ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e189439de6fad853456239f351ebe3ed]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e189439de6fad853456239f351ebe3ed]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/217) revoked (1.1.2015) by [The Teachers’ Pension Scheme (Scotland) (No. 2) Regulations 2014 (S.S.I. 2014/292)](https://www.legislation.gov.uk/ssi/2014/292), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2), [215](https://www.legislation.gov.uk/ssi/2014/292/regulation/215)
+[^c-e189439de6fad853456239f351ebe3ed]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2014/217) revoked (1.1.2015) by [The Teachers’ Pension Scheme (Scotland) (No. 2) Regulations 2014 (S.S.I. 2014/292)](https://www.legislation.gov.uk/ssi/2014/292), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2), [215](https://www.legislation.gov.uk/ssi/2014/292/regulation/215)

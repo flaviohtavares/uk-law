@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 76. Compensation where planning permission revoked or modified.[^key-fed0c971fb92fa3a60aa484c5e486cca]
+## 76. Compensation where planning permission revoked or modified.[^c-fed0c971fb92fa3a60aa484c5e486cca]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ the planning authority shall pay that person compensation in respect of that exp
 
 ## Annotations
 
-[^key-fed0c971fb92fa3a60aa484c5e486cca]: Modification: [S. 76](https://www.legislation.gov.uk/ukpga/1997/8/section/76) applied (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 47(3)(b)](https://www.legislation.gov.uk/ukpga/2018/5/section/47/3/b), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 84](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/84) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-fed0c971fb92fa3a60aa484c5e486cca]: Modification: [S. 76](https://www.legislation.gov.uk/ukpga/1997/8/section/76) applied (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 47(3)(b)](https://www.legislation.gov.uk/ukpga/2018/5/section/47/3/b), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 84](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/84) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

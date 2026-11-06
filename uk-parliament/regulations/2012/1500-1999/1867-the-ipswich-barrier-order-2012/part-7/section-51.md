@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Defence of due diligence[^key-93318b43196d01b4ea556edafbdf3fdf]
+## 51. Defence of due diligence[^c-93318b43196d01b4ea556edafbdf3fdf]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93318b43196d01b4ea556edafbdf3fdf]: Commencement: Art. 51 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-93318b43196d01b4ea556edafbdf3fdf]: Commencement: Art. 51 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

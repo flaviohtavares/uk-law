@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49A. Limit on credit in cases involving qualifying loan relationships of CFCs[^key-c649b27b21523b8b2c8d4700d2d2a5b6]
+## 49A. Limit on credit in cases involving qualifying loan relationships of CFCs[^c-c649b27b21523b8b2c8d4700d2d2a5b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ S is—
 
 ## Annotations
 
-[^key-c649b27b21523b8b2c8d4700d2d2a5b6]: Textual amendment: S. 49A inserted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 13](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/13), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)
+[^c-c649b27b21523b8b2c8d4700d2d2a5b6]: Textual amendment: S. 49A inserted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 13](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/13), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)

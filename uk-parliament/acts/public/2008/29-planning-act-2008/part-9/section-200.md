@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Fees for appeals[^key-e59c0cf1e029ae6cb630c8e5134aa1dd]
+## 200. Fees for appeals[^c-e59c0cf1e029ae6cb630c8e5134aa1dd]
 
 *Extent: E+W+S*
 
@@ -61,4 +61,4 @@ In TCPA 1990 after section 303 insert—
 
 ## Annotations
 
-[^key-e59c0cf1e029ae6cb630c8e5134aa1dd]: Commencement: S. 200 in force at 1.10.2009 for E. by [S.I. 2009/2260](https://www.legislation.gov.uk/uksi/2009/2260), [art. 4](https://www.legislation.gov.uk/uksi/2009/2260/article/4)
+[^c-e59c0cf1e029ae6cb630c8e5134aa1dd]: Commencement: S. 200 in force at 1.10.2009 for E. by [S.I. 2009/2260](https://www.legislation.gov.uk/uksi/2009/2260), [art. 4](https://www.legislation.gov.uk/uksi/2009/2260/article/4)

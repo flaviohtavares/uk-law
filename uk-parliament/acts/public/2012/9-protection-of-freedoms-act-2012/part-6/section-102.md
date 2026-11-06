@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Release and publication of datasets held by public authorities[^key-198866e1f6a1c7ce0bc7cac78af0765c][^key-8888ec8f2f3892abd7fbdde3f6ac2b19]
+## 102. Release and publication of datasets held by public authorities[^c-198866e1f6a1c7ce0bc7cac78af0765c][^c-8888ec8f2f3892abd7fbdde3f6ac2b19]
 
 *Extent: E+W+S+N.I.*
 
@@ -183,6 +183,6 @@ summary: ''
 
 ## Annotations
 
-[^key-198866e1f6a1c7ce0bc7cac78af0765c]: Commencement: S. 102 in force at 31.7.2013 for specified purposes by [S.I. 2013/1906](https://www.legislation.gov.uk/uksi/2013/1906), [art. 2](https://www.legislation.gov.uk/uksi/2013/1906/article/2)
+[^c-198866e1f6a1c7ce0bc7cac78af0765c]: Commencement: S. 102 in force at 31.7.2013 for specified purposes by [S.I. 2013/1906](https://www.legislation.gov.uk/uksi/2013/1906), [art. 2](https://www.legislation.gov.uk/uksi/2013/1906/article/2)
 
-[^key-8888ec8f2f3892abd7fbdde3f6ac2b19]: Commencement: S. 102 in force at 1.9.2013 in so far as not already in force by [S.I. 2013/1906](https://www.legislation.gov.uk/uksi/2013/1906), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1906/article/3/a)
+[^c-8888ec8f2f3892abd7fbdde3f6ac2b19]: Commencement: S. 102 in force at 1.9.2013 in so far as not already in force by [S.I. 2013/1906](https://www.legislation.gov.uk/uksi/2013/1906), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1906/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199. Offence of recording or transmission in relation to remote proceedings[^key-44affab63ec877ef41c55eec9c624080]
+## 199. Offence of recording or transmission in relation to remote proceedings[^c-44affab63ec877ef41c55eec9c624080]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,4 +81,4 @@ In the Courts Act 2003, after section 85A (inserted by section 198) insert—
 
 ## Annotations
 
-[^key-44affab63ec877ef41c55eec9c624080]: Commencement: S. 199 in force at Royal Assent, see [s. 208(4)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/aa)
+[^c-44affab63ec877ef41c55eec9c624080]: Commencement: S. 199 in force at Royal Assent, see [s. 208(4)(aa)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/aa)

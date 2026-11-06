@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 25 — Office of Tax Simplification[^key-b144cb2e533958c492803471db147997]
+## SCHEDULE 25 — Office of Tax Simplification[^c-b144cb2e533958c492803471db147997]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,60 +24,60 @@ summary: ''
 
 Section 184
 
-### Membership[^key-b144cb2e533958c492803471db147997]
+### Membership[^c-b144cb2e533958c492803471db147997]
 
-**1.**[^key-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Term of office[^key-b144cb2e533958c492803471db147997]
+### Term of office[^c-b144cb2e533958c492803471db147997]
 
-**2.**[^key-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Appointment of initial members[^key-b144cb2e533958c492803471db147997]
+### Appointment of initial members[^c-b144cb2e533958c492803471db147997]
 
-**3.**[^key-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Termination of appointments[^key-b144cb2e533958c492803471db147997]
+### Termination of appointments[^c-b144cb2e533958c492803471db147997]
 
-**4.**[^key-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Remuneration[^key-b144cb2e533958c492803471db147997]
+### Remuneration[^c-b144cb2e533958c492803471db147997]
 
-**6.**[^key-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Provision of staff and facilities etc.[^key-b144cb2e533958c492803471db147997]
+### Provision of staff and facilities etc.[^c-b144cb2e533958c492803471db147997]
 
-**7.**[^key-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Validity of proceedings[^key-b144cb2e533958c492803471db147997]
+### Validity of proceedings[^c-b144cb2e533958c492803471db147997]
 
-**8.**[^key-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplementary powers[^key-b144cb2e533958c492803471db147997]
+### Supplementary powers[^c-b144cb2e533958c492803471db147997]
 
-**10.**[^key-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Finance[^key-b144cb2e533958c492803471db147997]
+### Finance[^c-b144cb2e533958c492803471db147997]
 
-**11.**[^key-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Disqualification[^key-b144cb2e533958c492803471db147997]
+### Disqualification[^c-b144cb2e533958c492803471db147997]
 
-**12.**[^key-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Freedom of information[^key-b144cb2e533958c492803471db147997]
+### Freedom of information[^c-b144cb2e533958c492803471db147997]
 
-**14.**[^key-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Public sector equality duty[^key-b144cb2e533958c492803471db147997]
+### Public sector equality duty[^c-b144cb2e533958c492803471db147997]
 
-**15.**[^key-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-b144cb2e533958c492803471db147997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b144cb2e533958c492803471db147997]: Textual amendment: [Sch. 25](https://www.legislation.gov.uk/ukpga/2016/24/schedule/25) omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 347(7)](https://www.legislation.gov.uk/ukpga/2023/30/section/347/7)
+[^c-b144cb2e533958c492803471db147997]: Textual amendment: [Sch. 25](https://www.legislation.gov.uk/ukpga/2016/24/schedule/25) omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 347(7)](https://www.legislation.gov.uk/ukpga/2023/30/section/347/7)

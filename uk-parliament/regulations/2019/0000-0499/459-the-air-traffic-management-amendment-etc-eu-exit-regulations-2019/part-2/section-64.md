@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Council Regulation [(EC) No 219/2007](https://www.legislation.gov.uk/eur/2007/219)[^key-f59a9b49ac72285d2886e9f8b8ab7921]
+## 64. Council Regulation [(EC) No 219/2007](https://www.legislation.gov.uk/eur/2007/219)[^c-f59a9b49ac72285d2886e9f8b8ab7921]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Council Regulation [(EC) No 219/2007](https://www.legislation.gov.uk/eur/2007/21
 
 ## Annotations
 
-[^key-f59a9b49ac72285d2886e9f8b8ab7921]: Commencement: Reg. 64 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-f59a9b49ac72285d2886e9f8b8ab7921]: Commencement: Reg. 64 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

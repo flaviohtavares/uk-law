@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 221. Dissolution of the community ward of Penterry[^key-bfc5048837596cfb2f51cbddcd634f41][^key-0b870135eb84916308627e6730c2149c]
+## 221. Dissolution of the community ward of Penterry[^c-bfc5048837596cfb2f51cbddcd634f41][^c-0b870135eb84916308627e6730c2149c]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The existing Penterry ward of the community of Wye Valley as changed by this Ord
 
 ## Annotations
 
-[^key-bfc5048837596cfb2f51cbddcd634f41]: Commencement: Art. 221 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-bfc5048837596cfb2f51cbddcd634f41]: Commencement: Art. 221 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-0b870135eb84916308627e6730c2149c]: Commencement: [Art. 221](https://www.legislation.gov.uk/wsi/2021/1227/article/221) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-0b870135eb84916308627e6730c2149c]: Commencement: [Art. 221](https://www.legislation.gov.uk/wsi/2021/1227/article/221) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

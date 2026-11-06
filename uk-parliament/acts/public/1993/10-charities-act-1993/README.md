@@ -31,11 +31,11 @@ Charities Act 1993 (repealed)
 
 1993 c.10
 
-[^key-c19229d866e13afe36d39b34d22ef788]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c19229d866e13afe36d39b34d22ef788]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Part I — The Charity Commission and the Official Custodian for Charities[^key-c19229d866e13afe36d39b34d22ef788]
+### Part I — The Charity Commission and the Official Custodian for Charities[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ Charities Act 1993 (repealed)
 - [Section 1E — The Commission's incidental powers](part-i/section-1e.md)
 - [Section 2 — The official custodian for charities.](part-i/section-2.md)
 
-### Part 1A — The ... Tribunal[^key-c19229d866e13afe36d39b34d22ef788]
+### Part 1A — The ... Tribunal[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,13 +60,13 @@ Charities Act 1993 (repealed)
 - [Section 2C — Appeal from Tribunal](part-1a/section-2c.md)
 - [Section 2D — Intervention by Attorney General](part-1a/section-2d.md)
 
-### Part II — Registration and Names of Charities[^key-c19229d866e13afe36d39b34d22ef788]
+### Part II — Registration and Names of Charities[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### Registration of charities[^key-c19229d866e13afe36d39b34d22ef788]
+#### Registration of charities[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -78,14 +78,14 @@ Charities Act 1993 (repealed)
 - [Section 4 — Effect of, and claims and objections to, registration.](part-ii/section-4.md)
 - [Section 5 — Status of registered charity (other than small charity) to appear on official publications etc.](part-ii/section-5.md)
 
-#### Charity names[^key-c19229d866e13afe36d39b34d22ef788]
+#### Charity names[^c-c19229d866e13afe36d39b34d22ef788]
 
 **No longer in force.**
 
 - [Section 6 — Power of Commission to require charity’s name to be changed.](part-ii/section-6.md)
 - [Section 7 — Effect of direction under s. 6 where charity is a company.](part-ii/section-7.md)
 
-### Part III — Information Powers[^key-c19229d866e13afe36d39b34d22ef788]
+### Part III — Information Powers[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,13 +100,13 @@ Charities Act 1993 (repealed)
 - [Section 11 — Supply of false or misleading information to Commission , etc.](part-iii/section-11.md)
 - [Section 12 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-12.md)
 
-### Part IV — Application of Property Cy-près and Assistance and Supervision of Charities by Court and Commission[^key-c19229d866e13afe36d39b34d22ef788]
+### Part IV — Application of Property Cy-près and Assistance and Supervision of Charities by Court and Commission[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W+N.I.*
 
 **No longer in force.**
 
-#### Extended powers of court and variation of charters[^key-c19229d866e13afe36d39b34d22ef788]
+#### Extended powers of court and variation of charters[^c-c19229d866e13afe36d39b34d22ef788]
 
 **No longer in force.**
 
@@ -116,7 +116,7 @@ Charities Act 1993 (repealed)
 - [Section 14B — Cy-près schemes](part-iv/section-14b.md)
 - [Section 15 — Charities governed by charter, or by or under statute.](part-iv/section-15.md)
 
-#### Powers of Commission to make schemes and act for protection of charities et ceteralaetc.[^key-c19229d866e13afe36d39b34d22ef788]
+#### Powers of Commission to make schemes and act for protection of charities et ceteralaetc.[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -133,7 +133,7 @@ Charities Act 1993 (repealed)
 - [Section 20 — Publicity relating to schemes](part-iv/section-20.md)
 - [Section 20A — Publicity for orders relating to trustees or other individuals](part-iv/section-20a.md)
 
-#### Property vested in official custodian[^key-c19229d866e13afe36d39b34d22ef788]
+#### Property vested in official custodian[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -143,7 +143,7 @@ Charities Act 1993 (repealed)
 - [Section 22 — Supplementary provisions as to property vested in official custodian.](part-iv/section-22.md)
 - [Section 23 — Divestment in the case of land subject to Reverter of Sites Act 1987.](part-iv/section-23.md)
 
-#### Establishment of common investment or deposit funds[^key-c19229d866e13afe36d39b34d22ef788]
+#### Establishment of common investment or deposit funds[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -153,7 +153,7 @@ Charities Act 1993 (repealed)
 - [Section 25 — Schemes to establish common deposit funds.](part-iv/section-25.md)
 - [Section 25A — Meaning of “Scottish recognised body” and “Northern Ireland charity” in sections 24 and 25](part-iv/section-25a.md)
 
-#### Additional powers of Commission[^key-c19229d866e13afe36d39b34d22ef788]
+#### Additional powers of Commission[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -168,7 +168,7 @@ Charities Act 1993 (repealed)
 - [Section 31 — Power to order taxation of solicitor’s bill.](part-iv/section-31.md)
 - [Section 31A — Power to enter premises](part-iv/section-31a.md)
 
-#### Legal proceedings relating to charities[^key-c19229d866e13afe36d39b34d22ef788]
+#### Legal proceedings relating to charities[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -178,7 +178,7 @@ Charities Act 1993 (repealed)
 - [Section 33 — Proceedings by other persons.](part-iv/section-33.md)
 - [Section 34 — Report of s. 8 inquiry to be evidence in certain proceedings.](part-iv/section-34.md)
 
-#### Meaning of “trust corporation”[^key-c19229d866e13afe36d39b34d22ef788]
+#### Meaning of “trust corporation”[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -186,7 +186,7 @@ Charities Act 1993 (repealed)
 
 - [Section 35 — Application of provisions to trust corporations appointed under s. 16 or 18.](part-iv/section-35.md)
 
-### Part V — Charity Land[^key-c19229d866e13afe36d39b34d22ef788]
+### Part V — Charity Land[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -198,7 +198,7 @@ Charities Act 1993 (repealed)
 - [Section 39 — Supplementary provisions relating to mortgaging.](part-v/section-39.md)
 - [Section 40 — Release of charity rentcharges.](part-v/section-40.md)
 
-### Part VI — Charity Accounts, Reports and Returns[^key-c19229d866e13afe36d39b34d22ef788]
+### Part VI — Charity Accounts, Reports and Returns[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -218,7 +218,7 @@ Charities Act 1993 (repealed)
 - [Section 49 — Offences](part-vi/section-49.md)
 - [Section 49A — Group accounts](part-vi/section-49a.md)
 
-### Part VII — Incorporation of Charity Trustees[^key-c19229d866e13afe36d39b34d22ef788]
+### Part VII — Incorporation of Charity Trustees[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -238,7 +238,7 @@ Charities Act 1993 (repealed)
 - [Section 61 — Power of Commission to dissolve incorporated body.](part-vii/section-61.md)
 - [Section 62 — Interpretation of Part VII.](part-vii/section-62.md)
 
-### Part VIII — Charitable Companies[^key-c19229d866e13afe36d39b34d22ef788]
+### Part VIII — Charitable Companies[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -256,13 +256,13 @@ Charities Act 1993 (repealed)
 - [Section 68A — Duty of charity’s auditors etc. to report matters to Commission](part-viii/section-68a.md)
 - [Section 69 — Investigation of accounts.](part-viii/section-69.md)
 
-### Part 8A — Charitable incorporated organisations[^key-c19229d866e13afe36d39b34d22ef788]
+### Part 8A — Charitable incorporated organisations[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Nature and constitution[^key-c19229d866e13afe36d39b34d22ef788]
+#### Nature and constitution[^c-c19229d866e13afe36d39b34d22ef788]
 
 **No longer in force.**
 
@@ -272,14 +272,14 @@ Charities Act 1993 (repealed)
 - [Section 69CA — Civil consequences of failure to disclose name and status](part-8a/section-69ca.md)
 - [Section 69D — Offences connected with name and status](part-8a/section-69d.md)
 
-#### Registration[^key-c19229d866e13afe36d39b34d22ef788]
+#### Registration[^c-c19229d866e13afe36d39b34d22ef788]
 
 **No longer in force.**
 
 - [Section 69E — Application for registration](part-8a/section-69e.md)
 - [Section 69F — Effect of registration](part-8a/section-69f.md)
 
-#### Conversion, amalgamation and transfer[^key-c19229d866e13afe36d39b34d22ef788]
+#### Conversion, amalgamation and transfer[^c-c19229d866e13afe36d39b34d22ef788]
 
 **No longer in force.**
 
@@ -291,13 +291,13 @@ Charities Act 1993 (repealed)
 - [Section 69L — Amalgamation: supplementary](part-8a/section-69l.md)
 - [Section 69M — Transfer of CIO's undertaking](part-8a/section-69m.md)
 
-#### Winding up, insolvency and dissolution[^key-c19229d866e13afe36d39b34d22ef788]
+#### Winding up, insolvency and dissolution[^c-c19229d866e13afe36d39b34d22ef788]
 
 **No longer in force.**
 
 - [Section 69N — Regulations about winding up, insolvency and dissolution](part-8a/section-69n.md)
 
-#### Miscellaneous[^key-c19229d866e13afe36d39b34d22ef788]
+#### Miscellaneous[^c-c19229d866e13afe36d39b34d22ef788]
 
 **No longer in force.**
 
@@ -305,20 +305,20 @@ Charities Act 1993 (repealed)
 - [Section 69P — Further provision about CIOs](part-8a/section-69p.md)
 - [Section 69Q — Regulations](part-8a/section-69q.md)
 
-### Part IX — Miscellaneous[^key-c19229d866e13afe36d39b34d22ef788]
+### Part IX — Miscellaneous[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-#### Powers of investment[^key-c19229d866e13afe36d39b34d22ef788]
+#### Powers of investment[^c-c19229d866e13afe36d39b34d22ef788]
 
 **No longer in force.**
 
 - [Section 70 — Relaxation of restrictions on wider-range investments.](part-ix/section-70.md)
 - [Section 71 — Extension of powers of investment.](part-ix/section-71.md)
 
-#### Charity trustees[^key-c19229d866e13afe36d39b34d22ef788]
+#### Charity trustees[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -333,7 +333,7 @@ Charities Act 1993 (repealed)
 - [Section 73E — Court's power to grant relief to apply to all auditors etc. of charities which are not companies](part-ix/section-73e.md)
 - [Section 73F — Trustees' indemnity insurance](part-ix/section-73f.md)
 
-#### Miscellaneous powers o charities[^key-c19229d866e13afe36d39b34d22ef788]
+#### Miscellaneous powers o charities[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -348,7 +348,7 @@ Charities Act 1993 (repealed)
 - [Section 75A — Power of larger unincorporated charities to spend capital given for particular purpose](part-ix/section-75a.md)
 - [Section 75B — Power to spend capital subject to special trusts](part-ix/section-75b.md)
 
-#### Mergers[^key-c19229d866e13afe36d39b34d22ef788]
+#### Mergers[^c-c19229d866e13afe36d39b34d22ef788]
 
 **No longer in force.**
 
@@ -357,7 +357,7 @@ Charities Act 1993 (repealed)
 - [Section 75E — Pre-merger vesting declarations](part-ix/section-75e.md)
 - [Section 75F — Effect of registering charity merger on gifts to transferor](part-ix/section-75f.md)
 
-#### Local charities[^key-c19229d866e13afe36d39b34d22ef788]
+#### Local charities[^c-c19229d866e13afe36d39b34d22ef788]
 
 **No longer in force.**
 
@@ -366,13 +366,13 @@ Charities Act 1993 (repealed)
 - [Section 78 — Co-operation between charities, and between charities and local authorities.](part-ix/section-78.md)
 - [Section 79 — Parochial charities.](part-ix/section-79.md)
 
-#### Scottish charities[^key-c19229d866e13afe36d39b34d22ef788]
+#### Scottish charities[^c-c19229d866e13afe36d39b34d22ef788]
 
 **No longer in force.**
 
 - [Section 80 — Supervision by Commission of certain Scottish charities.](part-ix/section-80.md)
 
-#### Administrative provisions about charities[^key-c19229d866e13afe36d39b34d22ef788]
+#### Administrative provisions about charities[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W*
 
@@ -382,7 +382,7 @@ Charities Act 1993 (repealed)
 - [Section 82 — Manner of executing instruments.](part-ix/section-82.md)
 - [Section 83 — Transfer and evidence of title to property vested in trustees.](part-ix/section-83.md)
 
-### Part X — Supplementary[^key-c19229d866e13afe36d39b34d22ef788]
+### Part X — Supplementary[^c-c19229d866e13afe36d39b34d22ef788]
 
 *Extent: E+W+S+N.I.*
 
@@ -411,7 +411,7 @@ Charities Act 1993 (repealed)
 
 **No longer in force.**
 
-[^key-c19229d866e13afe36d39b34d22ef788] SCHEDULES
+[^c-c19229d866e13afe36d39b34d22ef788] SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 1A](schedule-1a.md)
@@ -431,4 +431,4 @@ Charities Act 1993 (repealed)
 
 ## Annotations
 
-[^key-c19229d866e13afe36d39b34d22ef788]: Textual amendment: Act repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-c19229d866e13afe36d39b34d22ef788]: Textual amendment: Act repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

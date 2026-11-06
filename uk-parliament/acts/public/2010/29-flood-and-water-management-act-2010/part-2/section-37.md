@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Civil sanctions[^key-2db29abc9c8327dc0f2223d6337394e2]
+## 37. Civil sanctions[^c-2db29abc9c8327dc0f2223d6337394e2]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2db29abc9c8327dc0f2223d6337394e2]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2010/29/section/37) in force at 6.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(1)(f)](https://www.legislation.gov.uk/uksi/2011/694/article/4/1/f)
+[^c-2db29abc9c8327dc0f2223d6337394e2]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2010/29/section/37) in force at 6.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 4(1)(f)](https://www.legislation.gov.uk/uksi/2011/694/article/4/1/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253. Regulations made by the Scottish Ministers, the Department of Justice or the Welsh Ministers[^key-15a3c788c38a6d8988de2d089540ca23]
+## 253. Regulations made by the Scottish Ministers, the Department of Justice or the Welsh Ministers[^c-15a3c788c38a6d8988de2d089540ca23]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15a3c788c38a6d8988de2d089540ca23]: Commencement: S. 253 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-15a3c788c38a6d8988de2d089540ca23]: Commencement: S. 253 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)

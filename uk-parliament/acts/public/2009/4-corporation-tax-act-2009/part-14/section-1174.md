@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1174. Sub-contractor payments[^key-701bbeb668445042a6c443290adb0534]
+## 1174. Sub-contractor payments[^c-701bbeb668445042a6c443290adb0534]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-701bbeb668445042a6c443290adb0534]: Textual amendment: S. 1174 omitted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/18)
+[^c-701bbeb668445042a6c443290adb0534]: Textual amendment: S. 1174 omitted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/18)

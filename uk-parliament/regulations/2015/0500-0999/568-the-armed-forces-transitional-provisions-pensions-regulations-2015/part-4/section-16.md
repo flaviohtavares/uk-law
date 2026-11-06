@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Insertion of new article 3A in the EDP Order 2005[^key-f0c7528fa97cc4b0e18381a446f5ef77]
+## 16. Insertion of new article 3A in the EDP Order 2005[^c-f0c7528fa97cc4b0e18381a446f5ef77]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ The EDP Order 2005 is amended by, after article 3, inserting the following new a
 
 ## Annotations
 
-[^key-f0c7528fa97cc4b0e18381a446f5ef77]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-f0c7528fa97cc4b0e18381a446f5ef77]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

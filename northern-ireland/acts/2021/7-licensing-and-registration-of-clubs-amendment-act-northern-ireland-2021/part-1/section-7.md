@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Major events[^key-930540aa8767787c6d68ec18cd2b2404][^key-9c4b12618fb2a390a84d7680cb8a867c]
+## 7. Major events[^c-930540aa8767787c6d68ec18cd2b2404][^c-9c4b12618fb2a390a84d7680cb8a867c]
 
 *Extent: N.I.*
 
@@ -81,6 +81,6 @@ summary: ''
 
 ## Annotations
 
-[^key-930540aa8767787c6d68ec18cd2b2404]: Commencement: S. 7 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-930540aa8767787c6d68ec18cd2b2404]: Commencement: S. 7 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-9c4b12618fb2a390a84d7680cb8a867c]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2021/7/section/7) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-9c4b12618fb2a390a84d7680cb8a867c]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2021/7/section/7) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

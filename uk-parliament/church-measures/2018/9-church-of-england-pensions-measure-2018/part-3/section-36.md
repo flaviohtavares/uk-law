@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 36. Determination of questions[^key-7f33fef768516017870faef7504e9974]
+## 36. Determination of questions[^c-7f33fef768516017870faef7504e9974]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f33fef768516017870faef7504e9974]: Commencement: [S. 36](https://www.legislation.gov.uk/ukcm/2018/9/section/36) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-7f33fef768516017870faef7504e9974]: Commencement: [S. 36](https://www.legislation.gov.uk/ukcm/2018/9/section/36) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

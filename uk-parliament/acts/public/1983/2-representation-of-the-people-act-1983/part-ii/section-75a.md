@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75A. Scottish local government elections: prohibition of expenses not authorised by election agent[^key-a74e98e474fb049a86157667748ff177][^c19428711][^c14479931]
+## 75A. Scottish local government elections: prohibition of expenses not authorised by election agent[^c-a74e98e474fb049a86157667748ff177][^c19428711][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,7 +68,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
+[^c-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
 
 [^c19428711]: Textual amendment: S. 75A inserted (S.) (retrospective to 16.2.2001) by [Local Electoral Administration and Registration Services (Scotland) Act 2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14), [ss. 16(2)(3)](https://www.legislation.gov.uk/asp/2006/14/section/16/2/3), [63](https://www.legislation.gov.uk/asp/2006/14/section/63); [S.S.I. 2007/26](https://www.legislation.gov.uk/ssi/2007/26), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2007/26/article/2/1/e)
 

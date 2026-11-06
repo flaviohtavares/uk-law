@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 147. Effect of transfers-out[^key-cbf03236b26bf8ede57bc0351adc84df]
+## 147. Effect of transfers-out[^c-cbf03236b26bf8ede57bc0351adc84df]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If a transfer payment is made under this Chapter in respect of a member’s accr
 
 ## Annotations
 
-[^key-cbf03236b26bf8ede57bc0351adc84df]: Commencement: Reg. 147 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-cbf03236b26bf8ede57bc0351adc84df]: Commencement: Reg. 147 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

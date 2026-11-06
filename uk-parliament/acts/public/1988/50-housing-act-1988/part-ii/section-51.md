@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Revenue deficit grants.[^key-c85daeb1b26b3c817ab3f1b5fbfd405b][^c12867951][^c12867961][^c20518681][^c20518741]
+## 51. Revenue deficit grants.[^c-c85daeb1b26b3c817ab3f1b5fbfd405b][^c12867951][^c12867961][^c20518681][^c20518741]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 51. Revenue deficit grants.[^key-c85daeb1b26b3c817ab3f1b5fbfd405b][^c12868031]
+## 51. Revenue deficit grants.[^c-c85daeb1b26b3c817ab3f1b5fbfd405b][^c12868031]
 
 *Extent: S*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c85daeb1b26b3c817ab3f1b5fbfd405b]: Textual amendment: S. 51 repealed (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 46](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/46), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-c85daeb1b26b3c817ab3f1b5fbfd405b]: Textual amendment: S. 51 repealed (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 46](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/46), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [arts. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2), [3](https://www.legislation.gov.uk/uksi/2010/862/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
 [^c12867951]: Modification: S. 51 restricted (1.4.1997) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/1996/52/section/28/2), [251(4)(b)](https://www.legislation.gov.uk/ukpga/1996/52/section/251/4/b), (with s. 51(4)); [S.I. 1997/618](https://www.legislation.gov.uk/uksi/1997/618), [art. 2](https://www.legislation.gov.uk/uksi/1997/618/article/2) (subject to transitional provisions and savings in [Sch.](https://www.legislation.gov.uk/uksi/1997/618/schedule))
 

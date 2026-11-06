@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Supply of information to the Welsh Ministers[^key-ba9b8b476fc66f112d55851ad9a6bc6a]
+## 44. Supply of information to the Welsh Ministers[^c-ba9b8b476fc66f112d55851ad9a6bc6a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Welsh Ministers may at any time require any person registered under this Par
 
 ## Annotations
 
-[^key-ba9b8b476fc66f112d55851ad9a6bc6a]: Commencement: [S. 44](https://www.legislation.gov.uk/mwa/2010/1/section/44) in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))
+[^c-ba9b8b476fc66f112d55851ad9a6bc6a]: Commencement: [S. 44](https://www.legislation.gov.uk/mwa/2010/1/section/44) in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))

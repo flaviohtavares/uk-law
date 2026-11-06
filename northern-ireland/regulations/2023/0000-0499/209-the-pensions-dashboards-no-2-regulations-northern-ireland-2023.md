@@ -46,15 +46,15 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-b4e13ea02a4df8b5301100745446cc6d]
+### 1. Citation and commencement[^c-b4e13ea02a4df8b5301100745446cc6d]
 
 These Regulations may be cited as the Pensions Dashboards (No. 2) Regulations (Northern Ireland) 2023 and shall come into operation on 8th December 2023.
 
-### 2. Interpretation[^key-2ef80e1f9b14b07a14344455639e8332]
+### 2. Interpretation[^c-2ef80e1f9b14b07a14344455639e8332]
 
 Schedule 1 contains definitions of terms used in these Regulations.
 
-### 3. Application[^key-d4593f357504f9ab25a722e34695744d]
+### 3. Application[^c-d4593f357504f9ab25a722e34695744d]
 
 (1) Part 2 applies—
 
@@ -77,7 +77,7 @@ Schedule 1 contains definitions of terms used in these Regulations.
 
 (5) Subject to paragraph (4), Parts 3 and 4 also apply to a trustee or manager of a relevant occupational pension scheme which has fewer than 100 relevant members but which is permitted to connect on a voluntary basis under regulation 16(1).
 
-### 4. Dashboards Available Point[^key-10ebeca4d729e15b10b58d7438e09483]
+### 4. Dashboards Available Point[^c-10ebeca4d729e15b10b58d7438e09483]
 
 (1) Qualifying pensions dashboard services[^f00007] are to be available for use by the general public from the Dashboards Available Point.
 
@@ -85,7 +85,7 @@ Schedule 1 contains definitions of terms used in these Regulations.
 
 (3) In this regulation, “**Dashboards Available Point**” means the date specified in accordance with regulation 4(1) of the Pensions Dashboards Regulations 2022[^f00008].
 
-### 5. Oversight of standards[^key-3eb2695ea033d9b0f21dfeb3bf522d9e]
+### 5. Oversight of standards[^c-3eb2695ea033d9b0f21dfeb3bf522d9e]
 
 Standards published from time to time by the Money and Pensions Service or by the Regulator or by the Financial Conduct Authority count as standards for the purposes of these Regulations only if—
 
@@ -96,15 +96,15 @@ Standards published from time to time by the Money and Pensions Service or by th
 
 ## PART 2 — Prescribed requirements for qualifying pensions dashboard services
 
-### 6. Qualifying pensions dashboard services[^key-8fd28ceeb500c947658211b0fd1bcf03]
+### 6. Qualifying pensions dashboard services[^c-8fd28ceeb500c947658211b0fd1bcf03]
 
 This Part prescribes the requirements to be satisfied in order for a pensions dashboard service to come within the meaning of “**qualifying pensions dashboard service**” for the purposes of Articles 215A(2) and 215F(3) of the 2005 Order.
 
-### 7. Cooperation – providers[^key-8d81777f5a64c044114a98e38f093104]
+### 7. Cooperation – providers[^c-8d81777f5a64c044114a98e38f093104]
 
 A provider of a pensions dashboard service (referred to in this Part as “**a provider**”) must cooperate with the Money and Pensions Service to assist with the exercise of its functions in relation to pensions dashboard services, including providing information in accordance with standards referred to in this Part.
 
-### 8. Connection and functionality[^key-fdde558080096328b30355d7e883a752]
+### 8. Connection and functionality[^c-fdde558080096328b30355d7e883a752]
 
 (1) A provider must—
 
@@ -149,7 +149,7 @@ published from time to time by the Money and Pensions Service.
 
 (9) For the purposes of this regulation and regulations 9 and 11, “view data” also includes similar data provided by a personal or stakeholder pension scheme pursuant to rules made under section 137FAA of the FSMA.
 
-### 9. View data[^key-a2ab9d2165627c545f657dcd22e968f6]
+### 9. View data[^c-a2ab9d2165627c545f657dcd22e968f6]
 
 (1) A pensions dashboard service must display to the individual concerned the view data provided by a pension scheme—
 
@@ -160,7 +160,7 @@ published from time to time by the Money and Pensions Service.
 
 (3) A pensions dashboard service must not store view data, unless the view data is stored in the form of temporary caching and for the sole purpose of displaying the view data in a single session.
 
-### 10. State pension information[^key-cc41d162c4a7cf02fec12f6600ba8392]
+### 10. State pension information[^c-cc41d162c4a7cf02fec12f6600ba8392]
 
 (1) A pensions dashboard service must display to the individual concerned whichever of the following information is provided by the Department—
 
@@ -196,7 +196,7 @@ published from time to time by the Money and Pensions Service.
   - (i) messages relating to state pension information;
   - (ii) messages to be displayed when state pension information, or an element of state pension information, is unavailable.
 
-### 11. Operational information and reporting[^key-ba10d8958b477fd3543c8139732a50b9]
+### 11. Operational information and reporting[^c-ba10d8958b477fd3543c8139732a50b9]
 
 (1) A provider must provide operational information upon request to any of the following—
 
@@ -225,7 +225,7 @@ in accordance with reporting standards published from time to time by the Money 
 
 (4) Information referred to in this regulation must be retained on record by the provider for at least 6 years from the end of the calendar year to which it relates.
 
-### 12. Information on making a complaint[^key-fc8f64b38f7605b93e80509e3eacd6cd]
+### 12. Information on making a complaint[^c-fc8f64b38f7605b93e80509e3eacd6cd]
 
 (1) A provider must provide users with information on how to make a complaint relating to the pensions dashboard service that it provides, or to acts or omissions of the provider.
 
@@ -233,7 +233,7 @@ in accordance with reporting standards published from time to time by the Money 
 
 (3) In this regulation, “**the central complaints process for the Money and Pensions Service**” means a service to help users understand what help is available if things go wrong and their available routes to redress.
 
-### 13. Enabling auditing[^key-2cfc0711e7b4038cdb3eb9ddec11fcbf]
+### 13. Enabling auditing[^c-2cfc0711e7b4038cdb3eb9ddec11fcbf]
 
 (1) A provider must—
 
@@ -264,7 +264,7 @@ in accordance with reporting standards published from time to time by the Money 
 
 ### CHAPTER 1 — Requirements relating to cooperation and connection
 
-#### 14. Cooperation – trustees or managers[^key-2b03c6101fc90965d098469f787df8e7]
+#### 14. Cooperation – trustees or managers[^c-2b03c6101fc90965d098469f787df8e7]
 
 (1) Subject to paragraph (2), trustees or managers must comply with the requirement specified in paragraph (3).
 
@@ -272,7 +272,7 @@ in accordance with reporting standards published from time to time by the Money 
 
 (3) The requirement is to cooperate with the Money and Pensions Service to assist with the exercise of its functions in relation to pensions dashboard services, including providing information in accordance with service standards and operational standards published from time to time by the Money and Pensions Service.
 
-#### 15. Connection according to the connection deadline[^key-8ed6371191e31c0038b529d91e11b1c9]
+#### 15. Connection according to the connection deadline[^c-8ed6371191e31c0038b529d91e11b1c9]
 
 (1) Trustees or managers of a pension scheme which exists at the reference date and which has 100 or more relevant members at the reference date must—
 
@@ -305,7 +305,7 @@ in accordance with reporting standards published from time to time by the Money 
 
 (6) Once a scheme has connected to the Money and Pensions Service, trustees or managers must use every endeavour to ensure that the scheme remains connected at all times.
 
-#### 16. Voluntary connection[^key-8b7633dd99b85eb15a7a788d99fe66ad]
+#### 16. Voluntary connection[^c-8b7633dd99b85eb15a7a788d99fe66ad]
 
 (1) Where trustees or managers wish to connect a pension scheme to the Money and Pensions Service on a voluntary basis in circumstances where the scheme has fewer than 100 relevant members, they must apply to the Money and Pensions Service for permission for the pension scheme to connect to the Money and Pensions Service on a voluntary basis.
 
@@ -324,7 +324,7 @@ in accordance with reporting standards published from time to time by the Money 
 - (b) connect the pension scheme to the Money and Pensions Service by no later than the agreed deadline, in compliance with the standards referred to in regulation 15(2)(b) and having regard to the guidance referred to in regulation 15(2)(c);
 - (c) meet the requirements in regulation 15(3) and (4).
 
-#### 17. Deferred connection[^key-c4d236d406f1a3c014d558c501c5e28e]
+#### 17. Deferred connection[^c-c4d236d406f1a3c014d558c501c5e28e]
 
 (1) Where the trustees or managers wish to defer the connection deadline that applies to a pension scheme by virtue of regulation 15(2)(a), they may apply to the Department for permission to do this if—
 
@@ -354,7 +354,7 @@ in accordance with reporting standards published from time to time by the Money 
 - (b) connect the pension scheme to the Money and Pensions Service by no later than the agreed deadline, in compliance with the standards referred to in regulation 15(2)(b) and having regard to the guidance referred to in regulation 15(2)(c);
 - (c) meet the requirements in regulation 15(3) and (4).
 
-#### 18. Connection for new or growing schemes[^key-0aa62ad71f532abbf0062cc85e8f62d0]
+#### 18. Connection for new or growing schemes[^c-0aa62ad71f532abbf0062cc85e8f62d0]
 
 (1) If—
 
@@ -379,7 +379,7 @@ then the deadline for connecting to the Money and Pensions Service is as provide
 - (b) connect the pension scheme to the Money and Pensions Service by no later than the deadline pursuant to paragraph (2), in compliance with the standards referred to in regulation 15(2)(b) and having regard to the guidance referred to in regulation 15(2)(c);
 - (c) meet the requirements in regulation 15(3) and (4).
 
-#### 19. Connection where these Regulations cease to apply and then apply again[^key-62efa520839dfb56003807cf66ad769a]
+#### 19. Connection where these Regulations cease to apply and then apply again[^c-62efa520839dfb56003807cf66ad769a]
 
 (1) Paragraph (2) applies in cases where—
 
@@ -402,7 +402,7 @@ then the deadline for connecting to the Money and Pensions Service is as provide
 - (b) connect the pension scheme to the Money and Pensions Service by no later than the deadline pursuant to paragraph (2), in compliance with the standards referred to in regulation 15(2)(b) and having regard to the guidance referred to in regulation 15(2)(c);
 - (c) meet the requirements in regulation 15(3) and (4).
 
-#### 20. Connection affected by an assessment period[^key-73bca8361ecead9d1ed9e228de2ffaea]
+#### 20. Connection affected by an assessment period[^c-73bca8361ecead9d1ed9e228de2ffaea]
 
 (1) If an assessment period in relation to a pension scheme begins before the scheme has connected to the Money and Pensions Service—
 
@@ -424,13 +424,13 @@ then the deadline for connecting to the Money and Pensions Service is as provide
 
 (4) If an assessment period in relation to a section of a scheme or a segregated part of a scheme begins before the scheme has connected to the Money and Pensions Service, this does not affect the requirement for the scheme to connect to the Money and Pensions Service unless all the sections or segregated parts of the scheme are subject to the assessment period.
 
-#### 21. Notification of disconnection[^key-656b2fa9b2b27b72e7f950a3622918c9]
+#### 21. Notification of disconnection[^c-656b2fa9b2b27b72e7f950a3622918c9]
 
 The trustees or managers of a pension scheme which disconnects from the Money and Pensions Service must notify the Money and Pensions Service as soon as possible.
 
 ### CHAPTER 2 — Requirements following connection of a pension scheme
 
-#### 22. Requirements relating to the provision of pensions information[^key-189a2d5322a1815584eaba242e4ed99b]
+#### 22. Requirements relating to the provision of pensions information[^c-189a2d5322a1815584eaba242e4ed99b]
 
 (1) Subject to paragraphs (2) to (5), once trustees or managers have connected a pension scheme to the Money and Pensions Service in accordance with Chapter 1, they must comply with the requirements in this Chapter on providing, or facilitating the provision of, pensions information to—
 
@@ -464,7 +464,7 @@ unless the pension scheme enters an assessment period, in which case the require
     - (aa) as far as possible in accordance with regulations 25 to 27, provide value data, along with corresponding contextual information and signpost data, and
     - (bb) return a message, in accordance with data standards published from time to time by the Money and Pensions Service, explaining that the scheme, section of the scheme, or segregated part of the scheme is winding up.
 
-#### 23. Find requests, matching, pension identifiers and view requests[^key-0b47ca5384d26c48fbe469292572c2fb]
+#### 23. Find requests, matching, pension identifiers and view requests[^c-0b47ca5384d26c48fbe469292572c2fb]
 
 (1) Trustees or managers must decide on criteria to use for matching (“the matching criteria”), and they must keep a record of this for at least 6 years from the end of the scheme year in which the decision is taken.
 
@@ -502,7 +502,7 @@ unless the pension scheme enters an assessment period, in which case the require
 
 (6) In a case where a match is made but the member subsequently ceases to be a relevant member, trustees or managers must de-register the pension identifier from the Money and Pensions Service as soon as possible.
 
-#### 24. Administrative data[^key-15c779d90bd8b4b07a6e0cc659678695]
+#### 24. Administrative data[^c-15c779d90bd8b4b07a6e0cc659678695]
 
 (1) Administrative data is comprised of the following—
 
@@ -530,7 +530,7 @@ unless the pension scheme enters an assessment period, in which case the require
 
 (4) When providing administrative data under this regulation, trustees or managers must also provide the date of birth of the individual concerned.
 
-#### 25. Signpost data[^key-eec5aaf7d65ceb01b2eae4a819f455e4]
+#### 25. Signpost data[^c-eec5aaf7d65ceb01b2eae4a819f455e4]
 
 (1) Signpost data is comprised of the following—
 
@@ -545,7 +545,7 @@ unless the pension scheme enters an assessment period, in which case the require
 - “**statement of investment principles**” has the same meaning as in regulation 29A(2A)(a)[^f00014] of the 2014 Regulations (publishing charges and transaction costs and other relevant information);
 - “**implementation statement**” has the same meaning as in paragraph 30(1)(f)(i)[^f00015] of Schedule 3 to the 2014 Regulations (information to be given on request).
 
-#### 26. Value data[^key-efa3f5944147772d42d4f0d83f655e3e]
+#### 26. Value data[^c-efa3f5944147772d42d4f0d83f655e3e]
 
 (1) Value data is the information required by this regulation and by Schedule 2.
 
@@ -587,7 +587,7 @@ unless the pension scheme enters an assessment period, in which case the require
 - “**statement**” means a statement of benefits produced in relation to Part 5 of the 2014 Regulations (information about benefits in payment);
 - “**working day**” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday, or a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00016] in any part of the United Kingdom.
 
-#### 27. Contextual information[^key-8ebf82677745e03f48043af08a016597]
+#### 27. Contextual information[^c-8ebf82677745e03f48043af08a016597]
 
 (1) Alongside value data referred to in regulation 26(1), the following information must be provided where relevant in the circumstances—
 
@@ -611,7 +611,7 @@ unless the pension scheme enters an assessment period, in which case the require
 
 (3) In this regulation, “**safeguarded benefits**” has the meaning given by section 51(8) of the Pension Schemes Act 2015[^f00017].
 
-#### 28. Operational information and reporting[^key-2d609a2c8457b4fccdd1612921e864e8]
+#### 28. Operational information and reporting[^c-2d609a2c8457b4fccdd1612921e864e8]
 
 (1) Trustees or managers must provide operational information upon request to any of the following—
 
@@ -648,7 +648,7 @@ in accordance with reporting standards as published from time to time by the Mon
 
 ## PART 4 — Compliance and enforcement
 
-### 29. Compliance notices[^key-0e3a43e3d46788622a8a73d65bd2fd73]
+### 29. Compliance notices[^c-0e3a43e3d46788622a8a73d65bd2fd73]
 
 (1) A compliance notice is a notice directing trustees or managers to take, or to refrain from taking, the steps specified in the notice.
 
@@ -672,7 +672,7 @@ in accordance with reporting standards as published from time to time by the Mon
 - (b) the evidence on which that opinion is based;
 - (c) that if the Regulator is of the opinion that trustees or managers have failed to comply with the compliance notice, then the Regulator may issue a penalty notice under regulation 31.
 
-### 30. Third party compliance notices[^key-0306b47a32d6301c1d9d7fb1c78a31dd]
+### 30. Third party compliance notices[^c-0306b47a32d6301c1d9d7fb1c78a31dd]
 
 (1) A third party compliance notice is a notice directing the third party to whom it is issued (as referred to in paragraph (2)) to take, or to refrain from taking, the steps specified in the notice.
 
@@ -705,7 +705,7 @@ in accordance with reporting standards as published from time to time by the Mon
   - (ii) the evidence on which that opinion is based;
 - (d) that if the Regulator is of the opinion that the third party has failed to comply with the third party compliance notice, then the Regulator may issue a penalty notice under regulation 31.
 
-### 31. Penalty notices[^key-e2215bb2da952a8351ea7e17be7e9c01]
+### 31. Penalty notices[^c-e2215bb2da952a8351ea7e17be7e9c01]
 
 (1) A penalty notice is a notice requiring the person to whom it is issued to pay a penalty within the period specified in the notice.
 
@@ -739,7 +739,7 @@ the penalty notices may be issued in a single document.
 
 (6) If a single document is issued as mentioned in paragraph (5), the information required by paragraph (4) may be provided in the document by reference to more than one penalty.
 
-### 32. Penalty notices: recovery[^key-ad104fe9adb672fbec464a15edc00ca9]
+### 32. Penalty notices: recovery[^c-ad104fe9adb672fbec464a15edc00ca9]
 
 (1) A penalty payable under a penalty notice is recoverable by the Regulator.
 
@@ -747,7 +747,7 @@ the penalty notices may be issued in a single document.
 
 (3) The Regulator must pay into the Consolidated Fund any penalty recovered under this regulation.
 
-### 33. Penalty notices: recovery from bodies corporate and Scottish partnerships[^key-d2fc1400ea74e096aed8965fce695d27]
+### 33. Penalty notices: recovery from bodies corporate and Scottish partnerships[^c-d2fc1400ea74e096aed8965fce695d27]
 
 (1) Where—
 
@@ -768,7 +768,7 @@ the Regulator may issue the penalty notice to each of those persons who consente
 - (a) may not also require the relevant body corporate or Scottish partnership to pay a penalty in respect of the same act or omission, and
 - (b) must issue a penalty notice to the person who is required to pay, but may also notify the relevant body corporate or Scottish partnership.
 
-### 34. Review of notices[^key-b6da1ea7d5286348d766140e63df19d4]
+### 34. Review of notices[^c-b6da1ea7d5286348d766140e63df19d4]
 
 (1) The Regulator may review a notice to which this paragraph applies—
 
@@ -797,7 +797,7 @@ the Regulator may issue the penalty notice to each of those persons who consente
 - (a) confirm, vary or revoke the notice;
 - (b) substitute a different notice.
 
-### 35. References to the First-tier Tribunal or Upper Tribunal[^key-631dfcdc8752ea3769bf1c065b9f4f16]
+### 35. References to the First-tier Tribunal or Upper Tribunal[^c-631dfcdc8752ea3769bf1c065b9f4f16]
 
 (1) A person to whom a penalty notice is issued under regulation 31 or 33 may, if one of the conditions in paragraph (2) is satisfied, make a reference to the Tribunal in respect of—
 
@@ -831,7 +831,7 @@ the Regulator may issue the penalty notice to each of those persons who consente
 
 ## PART 5 — Disclosure of information
 
-### 36. Disclosure of information[^key-2d94d6a42283ee4115ec89030f1d15b1]
+### 36. Disclosure of information[^c-2d94d6a42283ee4115ec89030f1d15b1]
 
 (1) The Money and Pensions Service may disclose information to the Regulator[^f00021], provided that the disclosure is for the purpose of enabling or assisting the Money and Pensions Service or the Regulator to exercise its functions in connection with these Regulations.
 
@@ -846,7 +846,7 @@ the Regulator may issue the penalty notice to each of those persons who consente
 
 ## PART 6 — Revocations
 
-### 37. Revocations[^key-41f3546daef19033a3257206e29d44cc]
+### 37. Revocations[^c-41f3546daef19033a3257206e29d44cc]
 
 The following Regulations are revoked—
 
@@ -861,11 +861,11 @@ David Tarr
 
 A senior officer of the Department for Communities
 
-## SCHEDULE 1 — Interpretation[^key-388dd172d50926e7eb38adb0f9ce5955]
+## SCHEDULE 1 — Interpretation[^c-388dd172d50926e7eb38adb0f9ce5955]
 
 Regulation 2
 
-[^key-388dd172d50926e7eb38adb0f9ce5955]In these Regulations—
+[^c-388dd172d50926e7eb38adb0f9ce5955]In these Regulations—
 
 - “**the 2005 Order**” means the Pensions (Northern Ireland) Order 2005[^f00025];
 - “**the 2014 Regulations**” means the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014[^f00026];
@@ -943,7 +943,7 @@ Regulation 26(1) and (2)
 
 ### PART 1 — Value data requirements
 
-**1.**[^key-b08f1f15203bfe94f214936d15a6ec2a] (1) For members with money purchase benefits other than collective money purchase benefits, trustees or managers of the pension scheme must provide the value data referred to in sub-paragraph (2).
+**1.**[^c-b08f1f15203bfe94f214936d15a6ec2a] (1) For members with money purchase benefits other than collective money purchase benefits, trustees or managers of the pension scheme must provide the value data referred to in sub-paragraph (2).
 
 (2) The value data required is—
 
@@ -955,7 +955,7 @@ Regulation 26(1) and (2)
 
 (3) The value data referred to in sub-paragraph (2)(b)(i) to (iii) may be provided on a voluntary basis before a scheme produces a pension illustration, using the version of the relevant guidance available at the illustration date.
 
-**2.**[^key-a1fcd3b3b520671a7927e52e98e19c12] (1) For members with benefits that are not money purchase benefits other than cash balance benefits, trustees or managers of the pension scheme must provide the following value data—
+**2.**[^c-a1fcd3b3b520671a7927e52e98e19c12] (1) For members with benefits that are not money purchase benefits other than cash balance benefits, trustees or managers of the pension scheme must provide the following value data—
 
 - (a) for active members—
   - (i) an accrued value calculated in accordance with the scheme’s rules and valued to the illustration date, as if the individual has reached their retirement date on the illustration date and without regard to possible increases in earnings;
@@ -998,7 +998,7 @@ Regulation 26(1) and (2)
 - “**the 2022 Act**” means the Public Service Pensions and Judicial Offices Act 2022[^f00038];
 - “**Chapter 1 scheme**” means a public service pension scheme other than a scheme for the judiciary or for local government workers.
 
-**3.**[^key-9168cda40444b3818bc264c77abe2e64] (1) For members with cash balance benefits, trustees or managers of the pension scheme must provide the following value data—
+**3.**[^c-9168cda40444b3818bc264c77abe2e64] (1) For members with cash balance benefits, trustees or managers of the pension scheme must provide the following value data—
 
 - (a) for active members—
   - (i) an accrued fund value calculated in accordance with the scheme’s rules, valued to the illustration date and without regard to possible increases in earnings;
@@ -1014,16 +1014,16 @@ Regulation 26(1) and (2)
 
 (3) The value data referred to in sub-paragraph (2) need not be provided if the cash balance benefit was set up in a way that was designed to provide a lump sum on retirement.
 
-**4.**[^key-bcb7e49af0732771f5493a50580ef6bc] For members with collective money purchase benefits, trustees or managers of the pension scheme must provide the following value data—
+**4.**[^c-bcb7e49af0732771f5493a50580ef6bc] For members with collective money purchase benefits, trustees or managers of the pension scheme must provide the following value data—
 
 - (a) for active members—
   - (i) an annualised accrued value, calculated as if the individual has reached their retirement date on the illustration date and valued to the illustration date;
   - (ii) an annualised projected value based on the scheme’s rules and calculated as if the individual has reached their retirement date on the illustration date, as if future contributions continue, and without regard to future increases in earnings;
 - (b) for deferred members, an annualised projected value based on the scheme’s rules and valued to the illustration date.
 
-**5.**[^key-780d4f015d51c8363e0c5c5e2ecc3c1e] For members with hybrid benefits, trustees or managers of the pension scheme must supply value data which they consider best represents the value of the member’s benefits under the scheme, calculated in accordance with what the trustees or managers consider to be the appropriate methodology from paragraphs 1 to 4 and indicating which methodology they have applied to the calculation for each benefit.
+**5.**[^c-780d4f015d51c8363e0c5c5e2ecc3c1e] For members with hybrid benefits, trustees or managers of the pension scheme must supply value data which they consider best represents the value of the member’s benefits under the scheme, calculated in accordance with what the trustees or managers consider to be the appropriate methodology from paragraphs 1 to 4 and indicating which methodology they have applied to the calculation for each benefit.
 
-**6.**[^key-90904a09120c16a7728da66d543e9979] In this Schedule—
+**6.**[^c-90904a09120c16a7728da66d543e9979] In this Schedule—
 
 - (a) references to deferred members are to be treated as including pension credit members;
 - (b) the following definitions apply—
@@ -1043,7 +1043,7 @@ Regulation 26(1) and (2)
 
 ### PART 2 — Exemption from certain projected value data requirements
 
-**7.**[^key-214aec1dc4cbdeaefd165c6b77a3d625] (1) In respect of members with—
+**7.**[^c-214aec1dc4cbdeaefd165c6b77a3d625] (1) In respect of members with—
 
 - (a) money purchase benefits other than collective money purchase benefits, or
 - (b) hybrid benefits, where the benefit is calculated with reference to both money purchase benefits and benefits other than money purchase benefits,
@@ -1099,11 +1099,11 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00002]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Articles 215A and 215B were inserted by paragraph 2 of Schedule 9 to the Pension Schemes Act [2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1); Articles 215D, 215E and 215G were inserted by paragraph 3 of that Schedule; *see also* Article 288(3)(ja) to (jc) as inserted by paragraph 5 of that Schedule
 
-[^key-b4e13ea02a4df8b5301100745446cc6d]: Commencement: Reg. 1 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-b4e13ea02a4df8b5301100745446cc6d]: Commencement: Reg. 1 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-2ef80e1f9b14b07a14344455639e8332]: Commencement: Reg. 2 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-2ef80e1f9b14b07a14344455639e8332]: Commencement: Reg. 2 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-d4593f357504f9ab25a722e34695744d]: Commencement: Reg. 3 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-d4593f357504f9ab25a722e34695744d]: Commencement: Reg. 3 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
 [^f00003]: Footnote: *See* Article 215A(1) of the Pensions (Northern Ireland) Order 2005 for the meaning of “pensions dashboard service”
 
@@ -1113,19 +1113,19 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00006]: Footnote: [S.I. 2016/326](https://www.legislation.gov.uk/uksi/2016/326); regulation 3 was substituted by regulation 5 of [S.I. 2019/906](https://www.legislation.gov.uk/uksi/2019/906)
 
-[^key-10ebeca4d729e15b10b58d7438e09483]: Commencement: Reg. 4 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-10ebeca4d729e15b10b58d7438e09483]: Commencement: Reg. 4 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
 [^f00007]: Footnote: *See* Article 215A(2) of the Pensions (Northern Ireland) Order 2005 for the definition of “qualifying pensions dashboard service”
 
 [^f00008]: Footnote: [S.I. 2022/1220](https://www.legislation.gov.uk/uksi/2022/1220)
 
-[^key-3eb2695ea033d9b0f21dfeb3bf522d9e]: Commencement: Reg. 5 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-3eb2695ea033d9b0f21dfeb3bf522d9e]: Commencement: Reg. 5 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-8fd28ceeb500c947658211b0fd1bcf03]: Commencement: Reg. 6 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-8fd28ceeb500c947658211b0fd1bcf03]: Commencement: Reg. 6 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-8d81777f5a64c044114a98e38f093104]: Commencement: Reg. 7 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-8d81777f5a64c044114a98e38f093104]: Commencement: Reg. 7 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-fdde558080096328b30355d7e883a752]: Commencement: Reg. 8 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-fdde558080096328b30355d7e883a752]: Commencement: Reg. 8 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
 [^f00009]: Footnote: Part 4A was substituted for Part 4 by section 11(2) of the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21)
 
@@ -1135,89 +1135,89 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00012]: Footnote: Section 137FAA was inserted by section 121(2) of the Pension Schemes Act 2021
 
-[^key-a2ab9d2165627c545f657dcd22e968f6]: Commencement: Reg. 9 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-a2ab9d2165627c545f657dcd22e968f6]: Commencement: Reg. 9 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-cc41d162c4a7cf02fec12f6600ba8392]: Commencement: Reg. 10 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-cc41d162c4a7cf02fec12f6600ba8392]: Commencement: Reg. 10 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
 [^f00013]: Footnote: Section 38(7) was amended by Article 274(4) of the Pensions (Northern Ireland) Order 2005 and paragraph 34(2) of Schedule 12 to the Pensions Act (Northern Ireland) [2015 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2015/5)
 
-[^key-ba10d8958b477fd3543c8139732a50b9]: Commencement: Reg. 11 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-ba10d8958b477fd3543c8139732a50b9]: Commencement: Reg. 11 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-fc8f64b38f7605b93e80509e3eacd6cd]: Commencement: Reg. 12 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-fc8f64b38f7605b93e80509e3eacd6cd]: Commencement: Reg. 12 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-2cfc0711e7b4038cdb3eb9ddec11fcbf]: Commencement: Reg. 13 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-2cfc0711e7b4038cdb3eb9ddec11fcbf]: Commencement: Reg. 13 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-2b03c6101fc90965d098469f787df8e7]: Commencement: Reg. 14 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-2b03c6101fc90965d098469f787df8e7]: Commencement: Reg. 14 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-8ed6371191e31c0038b529d91e11b1c9]: Commencement: Reg. 15 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-8ed6371191e31c0038b529d91e11b1c9]: Commencement: Reg. 15 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-8b7633dd99b85eb15a7a788d99fe66ad]: Commencement: Reg. 16 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-8b7633dd99b85eb15a7a788d99fe66ad]: Commencement: Reg. 16 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-c4d236d406f1a3c014d558c501c5e28e]: Commencement: Reg. 17 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-c4d236d406f1a3c014d558c501c5e28e]: Commencement: Reg. 17 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-0aa62ad71f532abbf0062cc85e8f62d0]: Commencement: Reg. 18 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-0aa62ad71f532abbf0062cc85e8f62d0]: Commencement: Reg. 18 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-62efa520839dfb56003807cf66ad769a]: Commencement: Reg. 19 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-62efa520839dfb56003807cf66ad769a]: Commencement: Reg. 19 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-73bca8361ecead9d1ed9e228de2ffaea]: Commencement: Reg. 20 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-73bca8361ecead9d1ed9e228de2ffaea]: Commencement: Reg. 20 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-656b2fa9b2b27b72e7f950a3622918c9]: Commencement: Reg. 21 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-656b2fa9b2b27b72e7f950a3622918c9]: Commencement: Reg. 21 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-189a2d5322a1815584eaba242e4ed99b]: Commencement: Reg. 22 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-189a2d5322a1815584eaba242e4ed99b]: Commencement: Reg. 22 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-0b47ca5384d26c48fbe469292572c2fb]: Commencement: Reg. 23 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-0b47ca5384d26c48fbe469292572c2fb]: Commencement: Reg. 23 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-15c779d90bd8b4b07a6e0cc659678695]: Commencement: Reg. 24 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-15c779d90bd8b4b07a6e0cc659678695]: Commencement: Reg. 24 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-eec5aaf7d65ceb01b2eae4a819f455e4]: Commencement: Reg. 25 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-eec5aaf7d65ceb01b2eae4a819f455e4]: Commencement: Reg. 25 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
 [^f00014]: Footnote: Regulation 29A was inserted by regulation 3(6) of [S.R. 2018 No. 53](https://www.legislation.gov.uk/nisr/2018/53) and paragraph (2A) was inserted by regulation 5(4)(b) of [S.R. 2018 No. 165](https://www.legislation.gov.uk/nisr/2018/165)
 
 [^f00015]: Footnote: Paragraph 30(1) was renumbered by regulation 5(b)(i) of [S.R. 2021 No. 272](https://www.legislation.gov.uk/nisr/2021/272) and head (f) was added by regulation 5(5)(c) of [S.R. 2018 No. 165](https://www.legislation.gov.uk/nisr/2018/165)
 
-[^key-efa3f5944147772d42d4f0d83f655e3e]: Commencement: Reg. 26 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-efa3f5944147772d42d4f0d83f655e3e]: Commencement: Reg. 26 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
 [^f00016]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
 
-[^key-8ebf82677745e03f48043af08a016597]: Commencement: Reg. 27 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-8ebf82677745e03f48043af08a016597]: Commencement: Reg. 27 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
 [^f00017]: Footnote: [2015 c. 8](https://www.legislation.gov.uk/ukpga/2015/8)
 
-[^key-2d609a2c8457b4fccdd1612921e864e8]: Commencement: Reg. 28 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-2d609a2c8457b4fccdd1612921e864e8]: Commencement: Reg. 28 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-0e3a43e3d46788622a8a73d65bd2fd73]: Commencement: Reg. 29 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-0e3a43e3d46788622a8a73d65bd2fd73]: Commencement: Reg. 29 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-0306b47a32d6301c1d9d7fb1c78a31dd]: Commencement: Reg. 30 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-0306b47a32d6301c1d9d7fb1c78a31dd]: Commencement: Reg. 30 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-e2215bb2da952a8351ea7e17be7e9c01]: Commencement: Reg. 31 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-e2215bb2da952a8351ea7e17be7e9c01]: Commencement: Reg. 31 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-ad104fe9adb672fbec464a15edc00ca9]: Commencement: Reg. 32 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-ad104fe9adb672fbec464a15edc00ca9]: Commencement: Reg. 32 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
 [^f00018]: Footnote: Article 10(8A) was inserted by paragraph 9 of Schedule 2 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 ([S.I. 1999/3147 (N.I. 11))](https://www.legislation.gov.uk/nisi/1999/3147)
 
-[^key-d2fc1400ea74e096aed8965fce695d27]: Commencement: Reg. 33 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-d2fc1400ea74e096aed8965fce695d27]: Commencement: Reg. 33 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-b6da1ea7d5286348d766140e63df19d4]: Commencement: Reg. 34 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-b6da1ea7d5286348d766140e63df19d4]: Commencement: Reg. 34 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-631dfcdc8752ea3769bf1c065b9f4f16]: Commencement: Reg. 35 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-631dfcdc8752ea3769bf1c065b9f4f16]: Commencement: Reg. 35 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
 [^f00019]: Footnote: [S.I. 2008/2698](https://www.legislation.gov.uk/uksi/2008/2698)
 
 [^f00020]: Footnote: [S.I. 2009/1976](https://www.legislation.gov.uk/uksi/2009/1976)
 
-[^key-2d94d6a42283ee4115ec89030f1d15b1]: Commencement: Reg. 36 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-2d94d6a42283ee4115ec89030f1d15b1]: Commencement: Reg. 36 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
 [^f00021]: Footnote: *See* Articles 79 and 81 of the Pensions (Northern Ireland) Order 2005
 
 [^f00022]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12)
 
-[^key-41f3546daef19033a3257206e29d44cc]: Commencement: Reg. 37 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-41f3546daef19033a3257206e29d44cc]: Commencement: Reg. 37 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
 [^f00023]: Footnote: [S.R. 2023 No. 91](https://www.legislation.gov.uk/nisr/2023/91)
 
 [^f00024]: Footnote: [S.R. 2023 No. 113](https://www.legislation.gov.uk/nisr/2023/113)
 
-[^key-388dd172d50926e7eb38adb0f9ce5955]: Commencement: Sch. 1 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-388dd172d50926e7eb38adb0f9ce5955]: Commencement: Sch. 1 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
 [^f00025]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
@@ -1243,24 +1243,24 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00036]: Footnote: [S.R. 2005 No. 93](https://www.legislation.gov.uk/nisr/2005/93); regulation 2 was amended by regulation 5(3) of [S.R. 2006 No. 65](https://www.legislation.gov.uk/nisr/2006/65) and regulation 17(3) of [S.I. 2019/193](https://www.legislation.gov.uk/uksi/2019/193)
 
-[^key-b08f1f15203bfe94f214936d15a6ec2a]: Commencement: Sch. 2 para. 1 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-b08f1f15203bfe94f214936d15a6ec2a]: Commencement: Sch. 2 para. 1 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-a1fcd3b3b520671a7927e52e98e19c12]: Commencement: Sch. 2 para. 2 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-a1fcd3b3b520671a7927e52e98e19c12]: Commencement: Sch. 2 para. 2 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
 [^f00037]: Footnote: For example, *see* [S.R. 2023 No. 193](https://www.legislation.gov.uk/nisr/2023/193)
 
 [^f00038]: Footnote: [2022 c. 7](https://www.legislation.gov.uk/ukpga/2022/7)
 
-[^key-9168cda40444b3818bc264c77abe2e64]: Commencement: Sch. 2 para. 3 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-9168cda40444b3818bc264c77abe2e64]: Commencement: Sch. 2 para. 3 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-bcb7e49af0732771f5493a50580ef6bc]: Commencement: Sch. 2 para. 4 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-bcb7e49af0732771f5493a50580ef6bc]: Commencement: Sch. 2 para. 4 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-780d4f015d51c8363e0c5c5e2ecc3c1e]: Commencement: Sch. 2 para. 5 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-780d4f015d51c8363e0c5c5e2ecc3c1e]: Commencement: Sch. 2 para. 5 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
-[^key-90904a09120c16a7728da66d543e9979]: Commencement: Sch. 2 para. 6 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-90904a09120c16a7728da66d543e9979]: Commencement: Sch. 2 para. 6 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
 
 [^f00039]: Footnote: [2015 c. 8](https://www.legislation.gov.uk/ukpga/2015/8)
 
 [^f00040]: Footnote: Paragraph 6 was amended by regulation 73(8)(a) of [S.R. 2014 No. 204](https://www.legislation.gov.uk/nisr/2014/204)
 
-[^key-214aec1dc4cbdeaefd165c6b77a3d625]: Commencement: Sch. 2 para. 7 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)
+[^c-214aec1dc4cbdeaefd165c6b77a3d625]: Commencement: Sch. 2 para. 7 in operation at 8.12.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/209/regulation/1)

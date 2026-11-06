@@ -77,7 +77,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 85 o
 - [Section 10 — Additional requirements in the case of mentally disordered offenders](part-2/section-10.md)
 - [Section 11 — Disclosure of pre-sentence reports](part-2/section-11.md)
 
-#### CHAPTER 3 — DANGEROUS OFFENDERS and certain other offenders[^key-ea427891e0d7da500c73c6c619bafdb4][^key-87a835f11de824036f3e14e49a13b578]
+#### CHAPTER 3 — DANGEROUS OFFENDERS and certain other offenders[^c-ea427891e0d7da500c73c6c619bafdb4][^c-87a835f11de824036f3e14e49a13b578]
 
 - [Section 12 — Meaning of “specified offence” etc.](part-2/section-12.md)
 - [Section 13 — Life sentence or indeterminate custodial sentence for serious offences](part-2/section-13.md)
@@ -86,7 +86,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 85 o
 - [Section 15 — The assessment of dangerousness](part-2/section-15.md)
 - [Section 15A — ... sentence with fixed licence period](part-2/section-15a.md)
 
-#### CHAPTER 4 — RELEASE ON LICENCE[^c21219831][^key-392fd1747def28e59d178e3a1d742866]
+#### CHAPTER 4 — RELEASE ON LICENCE[^c21219831][^c-392fd1747def28e59d178e3a1d742866]
 
 ##### Preliminary
 
@@ -104,7 +104,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 85 o
 - [Section 19 — Power to release prisoners on licence before required to do so](part-2/section-19.md)
 - [Section 20 — Power to release certain prisoners on compassionate grounds](part-2/section-20.md)
 
-##### Terrorist prisoners and other prisoners serving an Article 15A sentence[^key-f4ca6866c9ba53197f536de9eaf84800][^key-b82499bb7abcd94de9fc55cea5a20d90]
+##### Terrorist prisoners and other prisoners serving an Article 15A sentence[^c-f4ca6866c9ba53197f536de9eaf84800][^c-b82499bb7abcd94de9fc55cea5a20d90]
 
 - [Section 20A — Restricted eligibility for release on licence of terrorist prisoners and other prisoners serving an Article 15A sentence](part-2/section-20a.md)
 
@@ -319,18 +319,18 @@ Part 3 makes provision about the assessment and management of the risks posed by
 
 [^c22448031]: Modification: Order: functions of Secretary of State transferred to Department of Justice (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [4(1)(2)](https://www.legislation.gov.uk/uksi/2010/976/article/4/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/976/schedule/1) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-ea427891e0d7da500c73c6c619bafdb4]: Textual amendment: Words in [Pt. 2 Ch. 3](https://www.legislation.gov.uk/nisi/2008/1216/part/2/chapter/3) heading inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 72(6)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/72/6)
+[^c-ea427891e0d7da500c73c6c619bafdb4]: Textual amendment: Words in [Pt. 2 Ch. 3](https://www.legislation.gov.uk/nisi/2008/1216/part/2/chapter/3) heading inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 72(6)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/72/6)
 
-[^key-87a835f11de824036f3e14e49a13b578]: Textual amendment: Words in [Pt. 2 Ch. 3](https://www.legislation.gov.uk/nisi/2008/1216/part/2/chapter/3) heading substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/5/4)
+[^c-87a835f11de824036f3e14e49a13b578]: Textual amendment: Words in [Pt. 2 Ch. 3](https://www.legislation.gov.uk/nisi/2008/1216/part/2/chapter/3) heading substituted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/5/4)
 
 [^c21219831]: Modification: [Pt. 2 Ch. 4](https://www.legislation.gov.uk/nisi/2008/1216/part/2/chapter/4) applied (with modifications) by [Repatriation of Prisoners Act 1984 (c. 47)](https://www.legislation.gov.uk/ukpga/1984/47), [Sch. para. 2A(4)](https://www.legislation.gov.uk/ukpga/1984/47/schedule/paragraph/2A/4) (as inserted (15.5.2008) by [Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))](https://www.legislation.gov.uk/nisi/2008/1216), [arts. 1(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/4), [102(1)](https://www.legislation.gov.uk/nisi/2008/1216/article/102/1), [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/nisi/2008/1216/schedule/5/paragraph/4/2)); [S.R. 2008/217](https://www.legislation.gov.uk/nisr/2008/217), [art. 2](https://www.legislation.gov.uk/nisr/2008/217/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/217/schedule) (with transitory provision in [art. 4](https://www.legislation.gov.uk/nisr/2008/217/article/4))
 
-[^key-392fd1747def28e59d178e3a1d742866]: Modification: [Pt. 2 Ch. 4](https://www.legislation.gov.uk/nisi/2008/1216/part/2/chapter/4) applied (29.6.2021) by 1984 c. 47, Sch. para. 2A(4A) (as inserted by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(r)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/r), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2021/11/schedule/11/paragraph/5))
+[^c-392fd1747def28e59d178e3a1d742866]: Modification: [Pt. 2 Ch. 4](https://www.legislation.gov.uk/nisi/2008/1216/part/2/chapter/4) applied (29.6.2021) by 1984 c. 47, Sch. para. 2A(4A) (as inserted by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(r)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/r), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2021/11/schedule/11/paragraph/5))
 
 [^c22091751]: Textual amendment: Words in [art. 17](https://www.legislation.gov.uk/nisi/2008/1216/article/17) cross-heading omitted (12.4.2010) by virtue of [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2010/976/article/6/2), [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2010/976/schedule/5/paragraph/12) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
 [^c22091931]: Textual amendment: Words in [art. 19](https://www.legislation.gov.uk/nisi/2008/1216/article/19) cross-heading omitted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2010/976/article/6/2), [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2010/976/schedule/5/paragraph/12) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2) (but this amendment cannot take effect until the commencement of [S.I. 2008/1216](https://www.legislation.gov.uk/uksi/2008/1216), [art. 19](https://www.legislation.gov.uk/uksi/2008/1216/article/19) cross-heading)
 
-[^key-f4ca6866c9ba53197f536de9eaf84800]: Textual amendment: [Art. 20A](https://www.legislation.gov.uk/nisi/2008/1216/article/20A) and cross-heading inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2021/11/section/30/1), [50(1)(f)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/f) (with [s. 30(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/30/2))
+[^c-f4ca6866c9ba53197f536de9eaf84800]: Textual amendment: [Art. 20A](https://www.legislation.gov.uk/nisi/2008/1216/article/20A) and cross-heading inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 30(1)](https://www.legislation.gov.uk/ukpga/2021/11/section/30/1), [50(1)(f)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/f) (with [s. 30(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/30/2))
 
-[^key-b82499bb7abcd94de9fc55cea5a20d90]: Textual amendment: Words in [art. 20A cross-heading](https://www.legislation.gov.uk/nisi/2008/1216/chapter/4/crossheading/terrorist-prisoners) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/5/5)
+[^c-b82499bb7abcd94de9fc55cea5a20d90]: Textual amendment: Words in [art. 20A cross-heading](https://www.legislation.gov.uk/nisi/2008/1216/chapter/4/crossheading/terrorist-prisoners) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/5/5)

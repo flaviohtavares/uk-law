@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 127. Regulations and orders[^key-40d4048b233ea3fb2ad259e3deea127a]
+## 127. Regulations and orders[^c-40d4048b233ea3fb2ad259e3deea127a]
 
 *Extent: N.I.*
 
@@ -61,4 +61,4 @@ as appear to it to be appropriate.
 
 ## Annotations
 
-[^key-40d4048b233ea3fb2ad259e3deea127a]: Commencement: [S. 127](https://www.legislation.gov.uk/nia/2014/8/section/127) in operation at 20.5.2014 by [S.R. 2014/142](https://www.legislation.gov.uk/nisr/2014/142), [art. 2(d)](https://www.legislation.gov.uk/nisr/2014/142/article/2/d)
+[^c-40d4048b233ea3fb2ad259e3deea127a]: Commencement: [S. 127](https://www.legislation.gov.uk/nia/2014/8/section/127) in operation at 20.5.2014 by [S.R. 2014/142](https://www.legislation.gov.uk/nisr/2014/142), [art. 2(d)](https://www.legislation.gov.uk/nisr/2014/142/article/2/d)

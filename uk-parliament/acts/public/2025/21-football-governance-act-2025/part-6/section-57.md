@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Applications for resolution process to be triggered[^key-47476b57a062e8e8257226efd399778e][^key-f53ea1b9f888e8984de38d693e5a68bd]
+## 57. Applications for resolution process to be triggered[^c-47476b57a062e8e8257226efd399778e][^c-f53ea1b9f888e8984de38d693e5a68bd]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47476b57a062e8e8257226efd399778e]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-47476b57a062e8e8257226efd399778e]: Commencement: S. 57 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-f53ea1b9f888e8984de38d693e5a68bd]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2025/21/section/57) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/ii)
+[^c-f53ea1b9f888e8984de38d693e5a68bd]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2025/21/section/57) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/ii)

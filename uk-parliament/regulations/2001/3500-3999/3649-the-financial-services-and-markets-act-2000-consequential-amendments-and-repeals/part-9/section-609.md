@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 609. Meaning of “bank”[^key-11b0bd9804cae6197c7c0221ed60c317]
+## 609. Meaning of “bank”[^c-11b0bd9804cae6197c7c0221ed60c317]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11b0bd9804cae6197c7c0221ed60c317]: Commencement: Art. 609 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-11b0bd9804cae6197c7c0221ed60c317]: Commencement: Art. 609 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

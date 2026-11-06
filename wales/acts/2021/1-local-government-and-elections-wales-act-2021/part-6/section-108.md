@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Exercise of functions under this Chapter[^key-0577b357b6b861f429dcbc3913590ade]
+## 108. Exercise of functions under this Chapter[^c-0577b357b6b861f429dcbc3913590ade]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0577b357b6b861f429dcbc3913590ade]: Commencement: S. 108 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)
+[^c-0577b357b6b861f429dcbc3913590ade]: Commencement: S. 108 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

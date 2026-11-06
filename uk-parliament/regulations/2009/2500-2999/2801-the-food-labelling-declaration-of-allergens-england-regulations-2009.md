@@ -32,7 +32,7 @@ summary: ''
 
 Food, England
 
-The Food Labelling (Declaration of Allergens) (England) Regulations 2009 (revoked)[^key-6321ab8da6fe0294469969bebee2feea]
+The Food Labelling (Declaration of Allergens) (England) Regulations 2009 (revoked)[^c-6321ab8da6fe0294469969bebee2feea]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 20th November 2009
 
-[^key-6321ab8da6fe0294469969bebee2feea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6321ab8da6fe0294469969bebee2feea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-6321ab8da6fe0294469969bebee2feea]
+## 1. Title, application and commencement[^c-6321ab8da6fe0294469969bebee2feea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-6321ab8da6fe0294469969bebee2feea]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-6321ab8da6fe0294469969bebee2feea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-6321ab8da6fe0294469969bebee2feea]
+## 3. Revocations[^c-6321ab8da6fe0294469969bebee2feea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6321ab8da6fe0294469969bebee2feea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6321ab8da6fe0294469969bebee2feea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6321ab8da6fe0294469969bebee2feea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6321ab8da6fe0294469969bebee2feea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6321ab8da6fe0294469969bebee2feea]: Textual amendment: Regulations revoked (17.3.2011) by [The Food Labelling (Declaration of Allergens) (England) Regulations 2011 (S.I. 2011/402)](https://www.legislation.gov.uk/uksi/2011/402), regs. 1, [3](https://www.legislation.gov.uk/uksi/2011/402/regulation/3)
+[^c-6321ab8da6fe0294469969bebee2feea]: Textual amendment: Regulations revoked (17.3.2011) by [The Food Labelling (Declaration of Allergens) (England) Regulations 2011 (S.I. 2011/402)](https://www.legislation.gov.uk/uksi/2011/402), regs. 1, [3](https://www.legislation.gov.uk/uksi/2011/402/regulation/3)

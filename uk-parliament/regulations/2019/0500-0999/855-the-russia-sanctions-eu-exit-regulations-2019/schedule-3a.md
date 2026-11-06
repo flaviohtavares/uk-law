@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Luxury goods[^key-46a5bcd21a96dc2d643794e0e0b68671]
+## SCHEDULE 3A — Luxury goods[^c-46a5bcd21a96dc2d643794e0e0b68671]
 
 *Extent: E+W+S+N.I.*
 
@@ -292,9 +292,9 @@ Horses, meaning any thing which falls within the commodity codes set out in the 
 
 | Commodity code | Description |
 | --- | --- |
-| [^key-c4a0db851d029ee2b09a05adaedfd220]. . . | [^key-c4a0db851d029ee2b09a05adaedfd220]. . . |
-| [^key-c4a0db851d029ee2b09a05adaedfd220]. . . | [^key-c4a0db851d029ee2b09a05adaedfd220]. . . |
-| [^key-c4a0db851d029ee2b09a05adaedfd220]. . . | [^key-c4a0db851d029ee2b09a05adaedfd220]. . . |
+| [^c-c4a0db851d029ee2b09a05adaedfd220]. . . | [^c-c4a0db851d029ee2b09a05adaedfd220]. . . |
+| [^c-c4a0db851d029ee2b09a05adaedfd220]. . . | [^c-c4a0db851d029ee2b09a05adaedfd220]. . . |
+| [^c-c4a0db851d029ee2b09a05adaedfd220]. . . | [^c-c4a0db851d029ee2b09a05adaedfd220]. . . |
 | 8415 10 00 | Window or wall types, self-contained or ‘split-system’ |
 | 8418 10 00 | Combined refrigerator-freezers, fitted with separate external doors |
 | 8418 21 00 | Compression-type |
@@ -303,7 +303,7 @@ Horses, meaning any thing which falls within the commodity codes set out in the 
 | 8418 40 00 | Freezers of the upright type, not exceeding 900 litres capacity |
 | 8419 81 00 | For making hot drinks or for cooking or heating food |
 | 8422 11 00 | Of the household type |
-| [^key-c4a0db851d029ee2b09a05adaedfd220]. . . | [^key-c4a0db851d029ee2b09a05adaedfd220]. . . |
+| [^c-c4a0db851d029ee2b09a05adaedfd220]. . . | [^c-c4a0db851d029ee2b09a05adaedfd220]. . . |
 | 8443 12 00 | Offset printing machinery, sheet fed, office type (using sheets with one side not exceeding 22 cm and the other side not exceeding 36 cm in the unfolded state) |
 | 8443 31 00 | Machines which perform two or more of the functions of printing, copying or facsimile transmission, capable of connecting to an automatic data-processing machine or to a network |
 | 8443 32 00 | Other, capable of connecting to an automatic data-processing machine or to a network |
@@ -344,7 +344,7 @@ Horses, meaning any thing which falls within the commodity codes set out in the 
 | [^M_F_4095a3e3-0996-40d0-8db7-132a923a6f07]. . . | [^M_F_4095a3e3-0996-40d0-8db7-132a923a6f07]. . . |
 | 8543 70 50 | Sunbeds, sunlamps and similar suntanning equipment |
 | [^M_F_4095a3e3-0996-40d0-8db7-132a923a6f07]. . . | [^M_F_4095a3e3-0996-40d0-8db7-132a923a6f07]. . . |
-| [^key-a03eb363c3991057a4b8692a0b0c3778]. . . | [^key-a03eb363c3991057a4b8692a0b0c3778]. . . |
+| [^c-a03eb363c3991057a4b8692a0b0c3778]. . . | [^c-a03eb363c3991057a4b8692a0b0c3778]. . . |
 | 9504 90 80 | Other |
 
 **17.** Electrical/electronic or optical apparatus for recording and reproducing sound and images, meaning any thing which falls within the commodity codes set out in the following table, provided that the sales price per item exceeds £840—
@@ -354,7 +354,7 @@ Horses, meaning any thing which falls within the commodity codes set out in the 
 | 8519 00 00 | Sound recording or sound reproducing apparatus |
 | [^M_F_5c90e3b0-462b-47a0-9c5b-a43bf77694e7]. . . | [^M_F_5c90e3b0-462b-47a0-9c5b-a43bf77694e7]. . . |
 | [^M_F_5c90e3b0-462b-47a0-9c5b-a43bf77694e7]. . . | [^M_F_5c90e3b0-462b-47a0-9c5b-a43bf77694e7]. . . |
-| [^key-a03eb363c3991057a4b8692a0b0c3778]. . . | [^key-a03eb363c3991057a4b8692a0b0c3778]. . . |
+| [^c-a03eb363c3991057a4b8692a0b0c3778]. . . | [^c-a03eb363c3991057a4b8692a0b0c3778]. . . |
 | [^M_F_5c90e3b0-462b-47a0-9c5b-a43bf77694e7]. . . | [^M_F_5c90e3b0-462b-47a0-9c5b-a43bf77694e7]. . . |
 | [^M_F_5c90e3b0-462b-47a0-9c5b-a43bf77694e7]. . . | [^M_F_5c90e3b0-462b-47a0-9c5b-a43bf77694e7]. . . |
 | 9006 00 00 | Photographic (other than cinematographic) cameras; photographic flashlight apparatus and flashbulbs other than discharge lamps of heading 8539 |
@@ -380,14 +380,14 @@ as applicable—
 | 8408 00 00 | Compression-ignition internal combustion piston engines (diesel or semi-diesel engines) |
 | 8409 00 00 | Parts suitable for use solely or principally with the engines of heading 8407 or 8408 |
 | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . |
-| [^key-a03eb363c3991057a4b8692a0b0c3778]. . . | [^key-a03eb363c3991057a4b8692a0b0c3778]. . . |
+| [^c-a03eb363c3991057a4b8692a0b0c3778]. . . | [^c-a03eb363c3991057a4b8692a0b0c3778]. . . |
 | 8431 39 00 | Parts and acccessories of teleferics, chairlifts, ski-draglines, traction mechanisms for funiculars |
 | 8483 00 00 | Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints) |
 | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . |
-| [^key-a03eb363c3991057a4b8692a0b0c3778]. . . | [^key-a03eb363c3991057a4b8692a0b0c3778]. . . |
-| [^key-a03eb363c3991057a4b8692a0b0c3778]. . . | [^key-a03eb363c3991057a4b8692a0b0c3778]. . . |
-| [^key-a03eb363c3991057a4b8692a0b0c3778]. . . | [^key-a03eb363c3991057a4b8692a0b0c3778]. . . |
-| [^key-a03eb363c3991057a4b8692a0b0c3778]. . . | [^key-a03eb363c3991057a4b8692a0b0c3778]. . . |
+| [^c-a03eb363c3991057a4b8692a0b0c3778]. . . | [^c-a03eb363c3991057a4b8692a0b0c3778]. . . |
+| [^c-a03eb363c3991057a4b8692a0b0c3778]. . . | [^c-a03eb363c3991057a4b8692a0b0c3778]. . . |
+| [^c-a03eb363c3991057a4b8692a0b0c3778]. . . | [^c-a03eb363c3991057a4b8692a0b0c3778]. . . |
+| [^c-a03eb363c3991057a4b8692a0b0c3778]. . . | [^c-a03eb363c3991057a4b8692a0b0c3778]. . . |
 | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . |
 | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . |
 | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . |
@@ -403,8 +403,8 @@ as applicable—
 | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . |
 | 8712 00 00 | Bicycles and other cycles (including delivery tricycles), not motorised |
 | 8714 00 00 | Parts and accessories of vehicles of headings 8711 to 8713 |
-| [^key-a03eb363c3991057a4b8692a0b0c3778]. . . | [^key-a03eb363c3991057a4b8692a0b0c3778]. . . |
-| [^key-a03eb363c3991057a4b8692a0b0c3778]. . . | [^key-a03eb363c3991057a4b8692a0b0c3778]. . . |
+| [^c-a03eb363c3991057a4b8692a0b0c3778]. . . | [^c-a03eb363c3991057a4b8692a0b0c3778]. . . |
+| [^c-a03eb363c3991057a4b8692a0b0c3778]. . . | [^c-a03eb363c3991057a4b8692a0b0c3778]. . . |
 | 8716 90 00 | Parts |
 | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . |
 | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . | [^M_F_ea99045c-6a24-48e2-80b4-163c1f15fa44]. . . |
@@ -491,13 +491,13 @@ as applicable—
 
 ## Annotations
 
-[^key-46a5bcd21a96dc2d643794e0e0b68671]: Textual amendment: Sch. 3A inserted (14.4.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/452)](https://www.legislation.gov.uk/uksi/2022/452), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/452/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/452/schedule/part/2)
+[^c-46a5bcd21a96dc2d643794e0e0b68671]: Textual amendment: Sch. 3A inserted (14.4.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/452)](https://www.legislation.gov.uk/uksi/2022/452), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/452/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2022/452/schedule/part/2)
 
-[^key-c4a0db851d029ee2b09a05adaedfd220]: Textual amendment: Words in Sch. 3A Pt. 2 omitted (20.5.2026) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(8)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/8), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2026/543/schedule/4/paragraph/1)
+[^c-c4a0db851d029ee2b09a05adaedfd220]: Textual amendment: Words in Sch. 3A Pt. 2 omitted (20.5.2026) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(8)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/8), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2026/543/schedule/4/paragraph/1)
 
 [^M_F_4095a3e3-0996-40d0-8db7-132a923a6f07]: Textual amendment: Words in Sch. 3A para. 16 omitted (15.12.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [Sch. 7 para. 1(a)](https://www.legislation.gov.uk/uksi/2023/1364/schedule/7/paragraph/1/a)
 
-[^key-a03eb363c3991057a4b8692a0b0c3778]: Textual amendment: Words in Sch. 3A Pt. 2 omitted (24.4.2025) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2025/504/schedule/6/paragraph/1) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-a03eb363c3991057a4b8692a0b0c3778]: Textual amendment: Words in Sch. 3A Pt. 2 omitted (24.4.2025) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2025/504/schedule/6/paragraph/1) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
 [^M_F_5c90e3b0-462b-47a0-9c5b-a43bf77694e7]: Textual amendment: Words in Sch. 3A para. 17 omitted (15.12.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [Sch. 7 para. 1(b)](https://www.legislation.gov.uk/uksi/2023/1364/schedule/7/paragraph/1/b)
 

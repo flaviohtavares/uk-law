@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Account information[^key-b8fd94e4ca130124a02b2530f0028cb1]
+## 35. Account information[^c-b8fd94e4ca130124a02b2530f0028cb1]
 
 *Extent: E+W+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8fd94e4ca130124a02b2530f0028cb1]: Commencement: S. 35 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 2](https://www.legislation.gov.uk/uksi/2006/2811/article/2)
+[^c-b8fd94e4ca130124a02b2530f0028cb1]: Commencement: S. 35 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 2](https://www.legislation.gov.uk/uksi/2006/2811/article/2)

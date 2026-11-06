@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Functions of the OTS: reviews and reports[^key-79553d2e40bd7da2473789dd6eaffc95]
+## 186. Functions of the OTS: reviews and reports[^c-79553d2e40bd7da2473789dd6eaffc95]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79553d2e40bd7da2473789dd6eaffc95]: Textual amendment: [Pt. 12](https://www.legislation.gov.uk/ukpga/2016/24/part/12) omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 347(7)](https://www.legislation.gov.uk/ukpga/2023/30/section/347/7)
+[^c-79553d2e40bd7da2473789dd6eaffc95]: Textual amendment: [Pt. 12](https://www.legislation.gov.uk/ukpga/2016/24/part/12) omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 347(7)](https://www.legislation.gov.uk/ukpga/2023/30/section/347/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Prepared food obtained from raw materials of animal origin[^key-90beb3253d0c8cb6cedbb0597ceffe72]
+## 14. Prepared food obtained from raw materials of animal origin[^c-90beb3253d0c8cb6cedbb0597ceffe72]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ A person shall not sell for human consumption any prepared food (other than a me
 
 ## Annotations
 
-[^key-90beb3253d0c8cb6cedbb0597ceffe72]: Commencement: Reg. 14 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-90beb3253d0c8cb6cedbb0597ceffe72]: Commencement: Reg. 14 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

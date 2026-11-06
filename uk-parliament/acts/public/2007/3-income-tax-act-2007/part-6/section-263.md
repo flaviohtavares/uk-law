@@ -27,10 +27,10 @@ summary: ''
 
 is entitled to a tax reduction for the year.
 
-(2) The tax reduction is equal to 20%[^key-41b339b2811e293f263365a7743d1692] of the amount in respect of which the claim is made.
+(2) The tax reduction is equal to 20%[^c-41b339b2811e293f263365a7743d1692] of the amount in respect of which the claim is made.
 
 (3) The tax reduction is given effect at Step 6 of the calculation in section 23.
 
 ## Annotations
 
-[^key-41b339b2811e293f263365a7743d1692]: Textual amendment: Word in s. 263(2) substituted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 15(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/2)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/9)
+[^c-41b339b2811e293f263365a7743d1692]: Textual amendment: Word in s. 263(2) substituted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 15(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/2)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/9)

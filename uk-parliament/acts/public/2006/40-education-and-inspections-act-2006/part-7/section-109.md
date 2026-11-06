@@ -41,7 +41,7 @@ summary: ''
 
 (7) In subsection (7) of that section, for “at a time when he was not” substitute “ unless the parent proves that at that time the child was ”.
 
-(8)[^key-45cf2b50156a942976478e5685c49cd5] After that subsection insert—
+(8)[^c-45cf2b50156a942976478e5685c49cd5] After that subsection insert—
 
 > (7A) Where—
 >
@@ -60,7 +60,7 @@ summary: ''
 > (7B) In subsection (7A)(c) “**the appropriate authority**” means—
 >
 > - (a) in relation to a maintained school, the governing body of the school,
-> - (b) in relation to a pupil referral unit, the local authority[^key-0ea7acc4831332590d0c9da4689eca3c], and
+> - (b) in relation to a pupil referral unit, the local authority[^c-0ea7acc4831332590d0c9da4689eca3c], and
 > - (c) in relation to any school mentioned in subsection (7A)(a)(iii) to (v), the proprietor of the school.
 
 (9) In subsection (6) of section 444ZA of EA 1996 (application of section 444 to alternative educational provision), for “the parent shall be acquitted if he proves” substitute “ it is a defence for the parent to prove ”.
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-45cf2b50156a942976478e5685c49cd5]: Commencement: S. 109(8) in force at 1.9.2007 by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(i)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/i)
+[^c-45cf2b50156a942976478e5685c49cd5]: Commencement: S. 109(8) in force at 1.9.2007 by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(i)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/i)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

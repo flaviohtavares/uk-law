@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-9996b5c8b8695cc6245e756ed9922bb1]
+## 2. Interpretation[^c-9996b5c8b8695cc6245e756ed9922bb1]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9996b5c8b8695cc6245e756ed9922bb1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2021/99) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [2(1)(a)](https://www.legislation.gov.uk/nisr/2022/122/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2022/122/regulation/3))
+[^c-9996b5c8b8695cc6245e756ed9922bb1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2021/99) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) (Revocation) Regulations (Northern Ireland) 2022 (S.R. 2022/122)](https://www.legislation.gov.uk/nisr/2022/122), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/122/regulation/1/2), [2(1)(a)](https://www.legislation.gov.uk/nisr/2022/122/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2022/122/regulation/3))

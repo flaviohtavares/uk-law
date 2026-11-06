@@ -42,7 +42,7 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2) to (6)
 
-The Secretary of State for Social Security, in exercise of the powers conferred on him by sections 68(2)(e), 75(5), (9) and (10), 89(2), 118(1)(a) and (b), 119, 124(1), 125(2), (3) and (4)(a) and 174(2) and (3) of the Pensions Act 1995[^c1774547] and of all other powers enabling him in that behalf, by this instrument, after consultation with such persons as he considered appropriate[^c1774548], hereby makes the following regulations: —[^key-b8d203c524a8680125f5400ce7defaab]
+The Secretary of State for Social Security, in exercise of the powers conferred on him by sections 68(2)(e), 75(5), (9) and (10), 89(2), 118(1)(a) and (b), 119, 124(1), 125(2), (3) and (4)(a) and 174(2) and (3) of the Pensions Act 1995[^c1774547] and of all other powers enabling him in that behalf, by this instrument, after consultation with such persons as he considered appropriate[^c1774548], hereby makes the following regulations: —[^c-b8d203c524a8680125f5400ce7defaab]
 
 ### Preliminary
 
@@ -66,17 +66,17 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 (2) In these Regulations, unless the context otherwise requires —
 
-“the actuary” means the actuary appointed for the scheme in pursuance of section 47(1)(b) or, in the case of a scheme to which that provision does not apply by virtue of regulations made under subsection (5) of that section, an actuary otherwise authorised by the trustees or managers to provide such valuations or certifications as may be required under these Regulations;[^key-e1383638f88b93f98dd4d06087103db4]
+“the actuary” means the actuary appointed for the scheme in pursuance of section 47(1)(b) or, in the case of a scheme to which that provision does not apply by virtue of regulations made under subsection (5) of that section, an actuary otherwise authorised by the trustees or managers to provide such valuations or certifications as may be required under these Regulations;[^c-e1383638f88b93f98dd4d06087103db4]
 
 “the applicable time" has the same meaning as in section 75 (but see the modifications in regulations 4(3), 6(3) and 7(2));
 
-[^key-0f4730f4d3d3dd61cfab8fca3a51c6ec]...
+[^c-0f4730f4d3d3dd61cfab8fca3a51c6ec]...
 
 “employer" has the same meaning as in section 75 (but see paragraph (4) and regulations 5, 6 and 9);
 
 [^c1774550]“the MFR Regulations" means the Occupational Pension Schemes (Minimum Funding Requirement and Actuarial Valuations) Regulations 1996 ;
 
-“money purchase scheme" means an occupational pension scheme under which all the benefits that may be provided other than death benefits are money purchase benefits[^key-666f56f43a2fcc24d0ff3c1051858663]
+“money purchase scheme" means an occupational pension scheme under which all the benefits that may be provided other than death benefits are money purchase benefits[^c-666f56f43a2fcc24d0ff3c1051858663]
 
 [^c1774551]“the Taxes Act" means the Income and Corporation Taxes Act 1988 .
 
@@ -84,9 +84,9 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 (4) In these Regulations “scheme" must be construed in appropriate cases in accordance with subsections (1B) and (1C) of section 75 (as inserted by regulation 4(2) or, as the case may be, regulation 8) and Schedule 2 (and “employer" and “member" must be construed accordingly).
 
-(5)[^key-dd6e22e3281d04cbdcd889bc04f7f92e] References in these Regulations to the guidance in GN 19 are to the guidelines on winding up and scheme asset deficiency (GN 19), adopted or prepared, and from time to time revised, by the Financial Reporting Council Limited[^key-81e042d1c2d161b673d866bc7cbe34c1], with any such revisions at the applicable time[^key-d433de2cd77b12bacbff5e2db8445ea7].
+(5)[^c-dd6e22e3281d04cbdcd889bc04f7f92e] References in these Regulations to the guidance in GN 19 are to the guidelines on winding up and scheme asset deficiency (GN 19), adopted or prepared, and from time to time revised, by the Financial Reporting Council Limited[^c-81e042d1c2d161b673d866bc7cbe34c1], with any such revisions at the applicable time[^c-d433de2cd77b12bacbff5e2db8445ea7].
 
-(6) References in these Regulations to the guidance in GN 27 are to the guidelines on minimum funding requirement (GN 27), published by the Institute and Faculty of Actuaries[^key-383da72a4a2bf248ee0faca2bc85924e] and approved for the purposes of the MFR Regulations by the Secretary of State, with such revisions as have been so approved at the applicable time.
+(6) References in these Regulations to the guidance in GN 27 are to the guidelines on minimum funding requirement (GN 27), published by the Institute and Faculty of Actuaries[^c-383da72a4a2bf248ee0faca2bc85924e] and approved for the purposes of the MFR Regulations by the Secretary of State, with such revisions as have been so approved at the applicable time.
 
 (7) Subject to the previous provisions of this regulation and unless the context otherwise requires —
 
@@ -97,7 +97,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 #### 3. Calculation of the value of scheme liabilities and assets[^c2234304]
 
-(1) Subject to[^key-cd434dad5c549393c1d852b439352bfd][^key-181ad84c973ac32910f176ca0e4c6be9] regulations 3A to 3D[^M_F_c5f5e1bf-3b8f-42fc-8d78-7b3f210278c6], the liabilities and assets of a scheme which are to be taken into account for the purposes of section 75(1) and their amount or value shall be determined, calculated and verified by the actuary —
+(1) Subject to[^c-cd434dad5c549393c1d852b439352bfd][^c-181ad84c973ac32910f176ca0e4c6be9] regulations 3A to 3D[^M_F_c5f5e1bf-3b8f-42fc-8d78-7b3f210278c6], the liabilities and assets of a scheme which are to be taken into account for the purposes of section 75(1) and their amount or value shall be determined, calculated and verified by the actuary —
 
 - (a) on the general assumptions specified in paragraphs (2) and (3) of regulation 3 of the MFR Regulations;
 - (b) subject to paragraphs (3) and (4), in accordance with regulations 4 to 8 of the MFR Regulations;
@@ -120,7 +120,7 @@ and where in these Regulations (or in the MFR Regulations as applied by this par
 
 .
 
-#### 3A. Valuation of liabilities where employer not insolvent and where winding up commences before 11th June 2003[^key-32c2ee13c908abbed6124b0d63820e91][^key-96f849663cbaf5523a5bf4b68620a314]
+#### 3A. Valuation of liabilities where employer not insolvent and where winding up commences before 11th June 2003[^c-32c2ee13c908abbed6124b0d63820e91][^c-96f849663cbaf5523a5bf4b68620a314]
 
 (1) Where a scheme (including a section of a scheme in relation to which there is more than one employer which is treated as a separate scheme for the purposes of section 75) is being wound up and the employer was not insolvent immediately before the winding up of the scheme commenced, regulation 3 shall have effect as if—
 
@@ -151,9 +151,9 @@ regulation 3 shall have effect with the modifications set out in paragraph (1)(a
 
 (4) In the Note at the end of the form of certificate set out in Schedule 1 (form of actuary’s certificate), after the word “securing” there shall be inserted the words “all of”.
 
-#### 3B. Valuation of liabilities where employer not insolvent and where winding up commences on or after 11th June 2003[^key-daec8eca8fa04cc0d0dafd6009cbf5a7]
+#### 3B. Valuation of liabilities where employer not insolvent and where winding up commences on or after 11th June 2003[^c-daec8eca8fa04cc0d0dafd6009cbf5a7]
 
-(1) Subject to regulation 3C,[^key-f7e55b1f9300b5c1a16aac54db3a8263] this regulation shall apply in the case of a scheme to which regulation 4B of the Occupational Pension Schemes (Winding Up) Regulations 1996 (calculation of liabilities where employer not insolvent and where winding up commences on or after 11th June 2003) applies.
+(1) Subject to regulation 3C,[^c-f7e55b1f9300b5c1a16aac54db3a8263] this regulation shall apply in the case of a scheme to which regulation 4B of the Occupational Pension Schemes (Winding Up) Regulations 1996 (calculation of liabilities where employer not insolvent and where winding up commences on or after 11th June 2003) applies.
 
 (2) In the case of a scheme to which this regulation applies, paragraph (1)(b) of regulation 3A (valuation of the liabilities where employer not insolvent) shall have effect as if for paragraph (1B) in quotation marks there were substituted the following paragraph—
 
@@ -165,7 +165,7 @@ regulation 3 shall have effect with the modifications set out in paragraph (1)(a
 >
 > it shall be assumed that all such liabilities will be discharged by the purchase of annuities of the type described in section 74(3)(c) (discharge of liabilities by insurance – annuity purchase) and, for the purposes of the calculation, the actuary shall estimate the costs of purchasing any such annuities.
 
-#### 3C. Valuation of liabilities where winding up commences, and date of calculation falls, on or after 15 February 2005[^key-a20da959367a04a4764265c19c66bc6b]
+#### 3C. Valuation of liabilities where winding up commences, and date of calculation falls, on or after 15 February 2005[^c-a20da959367a04a4764265c19c66bc6b]
 
 (1) This regulation shall apply in the case of a scheme which begins to wind up on or after 15 February 2005 (“the commencement date”), and the date by reference to which the liabilities and assets of the scheme are determined, calculated and verified for the purposes of section 75 is a date falling on or after the commencement date.
 
@@ -227,7 +227,7 @@ regulation 3 shall have effect with the modifications set out in paragraph (1)(a
 >
 > the section in relation to which those conditions have ceased to be satisfied shall be treated as a separate scheme for the purposes of this section.
 >
-> (1D)[^key-6424d8c213c2b34fb724effeca965aa4] For the purposes of subsections (1B) and (1C), there shall be disregarded any provisions of the scheme by virtue of which contributions or transfers of assets may be made to make provision for death benefits; and where subsection (1B) or (1C) applies and contributions or transfers are so made to a section (“the death benefits section") the assets of which may only be applied for the provision of death benefits, the death benefits section shall also be treated as if it were a separate scheme for the purposes of this section.
+> (1D)[^c-6424d8c213c2b34fb724effeca965aa4] For the purposes of subsections (1B) and (1C), there shall be disregarded any provisions of the scheme by virtue of which contributions or transfers of assets may be made to make provision for death benefits; and where subsection (1B) or (1C) applies and contributions or transfers are so made to a section (“the death benefits section") the assets of which may only be applied for the provision of death benefits, the death benefits section shall also be treated as if it were a separate scheme for the purposes of this section.
 >
 > (1E) For the purposes of subsections (1B), (1C) and (1D), there shall be disregarded any provisions of the scheme by virtue of which on the winding up of the scheme assets attributable to one section may be used for the purposes of another section.
 
@@ -267,7 +267,7 @@ shall be such amount as is determined, calculated and verified by the actuary in
 (3) Those conditions are —
 
 - (a) that no debt was treated as becoming due from him under section 75(1) by virtue of his so ceasing;
-- (b) that such a debt was treated as becoming due from him and–[^key-c179cd2607c83fe2cac67cc8b970cbce]
+- (b) that such a debt was treated as becoming due from him and–[^c-c179cd2607c83fe2cac67cc8b970cbce]
 - (i) has been paid before the applicable time, or
 - (ii) if not so paid, was not so paid solely because he was not notified of the debt, and of the amount of it, sufficiently in advance of the applicable time for it to be paid before the applicable time;
 - (c) that such a debt was treated as becoming due from him but at the applicable time it is excluded from the value of the assets of the scheme by virtue of regulation 6(1)(b) of the MFR Regulations (exclusion of debts unlikely to be recovered).
@@ -279,7 +279,7 @@ shall be such amount as is determined, calculated and verified by the actuary in
 (2) In the application of section 75 and these Regulations to a scheme to which this regulation applies, “employer" includes a former participator, unless before the applicable time a time which was the applicable time in relation to the former participator by virtue of paragraph (3) below has occurred and —
 
 - (a) no debt was then treated as due from him under section 75(1), or
-- (b) such a debt was then treated as becoming due from him and–[^key-9f33170046949ad8bf4ca5c7dc833c5b]
+- (b) such a debt was then treated as becoming due from him and–[^c-9f33170046949ad8bf4ca5c7dc833c5b]
 - (i) has been paid before the applicable time, or
 - (ii) if not so paid, was not so paid solely because he was not notified of the debt, and of the amount of it, sufficiently in advance of the applicable time for it to be paid before the applicable time;
 - (c) such a debt was then treated as becoming due from him but at the applicable time it is excluded from the value of the assets of the scheme by virtue of regulation 6(1)(b) of the MFR Regulations (exclusion of debts unlikely to be recovered).
@@ -370,7 +370,7 @@ Regulations 5 and 6 shall not apply to a money purchase scheme, but in the appli
 
 - “approved scheme" means a scheme which is approved or was formerly approved under section 590 or 591 of the Taxes Act or in respect of which an application for such approval has been duly made which has not been determined;
 
-  “contracted-out” is to be construed in accordance with section 7B(2) (meaning of “contracted-out scheme” etc.) of the Pension Schemes Act 1993;[^key-b10ec777a9bb74bb84734fe06a1c7ac2]
+  “contracted-out” is to be construed in accordance with section 7B(2) (meaning of “contracted-out scheme” etc.) of the Pension Schemes Act 1993;[^c-b10ec777a9bb74bb84734fe06a1c7ac2]
 
   “lump sum benefits" does not include benefits paid by way of commuted retirement pension;
 
@@ -379,11 +379,11 @@ Regulations 5 and 6 shall not apply to a money purchase scheme, but in the appli
   “relevant lump sum retirement benefits scheme" means an approved scheme —
 
   - (a) which has been categorised by the Commissioners of Inland Revenue for the purposes of its approval as a centralised scheme for non-associated employers;
-  - (b) which was not contracted-out at any time before the second abolition date[^key-15e824549264ae4aad87f5fa3db8feb7]; and
+  - (b) which was not contracted-out at any time before the second abolition date[^c-15e824549264ae4aad87f5fa3db8feb7]; and
   - (c) under the provisions of which the only benefits which may be provided on or after retirement (other than money purchase benefits derived from the payment of additional contributions by any person) are lump sum benefits which are not calculated by reference to any member’s salary;
 - “relevant statutory scheme" has the meaning given in section 611A of the Taxes Act[^c1774557];
 
-  “the second abolition date” has the meaning given in section 181(1) (general interpretation) of the Pension Schemes Act 1993;[^key-6d266a497341e3222b8e84297652a96c]
+  “the second abolition date” has the meaning given in section 181(1) (general interpretation) of the Pension Schemes Act 1993;[^c-6d266a497341e3222b8e84297652a96c]
 
   “section 615(6) scheme" means a scheme with such a superannuation fund as is mentioned in section 615(6) of the Taxes Act.
 
@@ -440,7 +440,7 @@ The amount of the difference was
 
 **2.** Valuation principles
 
-The scheme's assets and liabilities are valued in accordance with section 75(5) of the Pensions Act 1995, the Occupational Pension Schemes (Deficiency on Winding Up etc.) Regulations 1996 and the guidelines on winding up and scheme asset deficiency (GN 19) adopted or prepared, and from time to time revised by[^key-324c5f07fca6c78fbcc531d4e4a5f48b] the Financial Reporting Council Limited[^key-268a4e38c26637ad824d3cca665c6b74] and on minimum funding requirement (GN 27) published by the Institute and Faculty of Actuaries[^key-2e87033800f7f8cef98acfcdab11c063] (so far as those guidelines are applicable).
+The scheme's assets and liabilities are valued in accordance with section 75(5) of the Pensions Act 1995, the Occupational Pension Schemes (Deficiency on Winding Up etc.) Regulations 1996 and the guidelines on winding up and scheme asset deficiency (GN 19) adopted or prepared, and from time to time revised by[^c-324c5f07fca6c78fbcc531d4e4a5f48b] the Financial Reporting Council Limited[^c-268a4e38c26637ad824d3cca665c6b74] and on minimum funding requirement (GN 27) published by the Institute and Faculty of Actuaries[^c-2e87033800f7f8cef98acfcdab11c063] (so far as those guidelines are applicable).
 
 Signature........................................................................................................
 
@@ -458,7 +458,7 @@ Name of employer................................................................
 
 Note:
 
-The valuation of the amount of the liabilities of the scheme may not reflect the actual cost[^key-058f89ca1f72c9ec115301c131cd4b4f] of securing those liabilities by the purchase of annuities, if the scheme were to have been wound up on the date as at which the valuation is made.
+The valuation of the amount of the liabilities of the scheme may not reflect the actual cost[^c-058f89ca1f72c9ec115301c131cd4b4f] of securing those liabilities by the purchase of annuities, if the scheme were to have been wound up on the date as at which the valuation is made.
 
 ## SCHEDULE 2 — MINOR MODIFICATIONS
 
@@ -485,7 +485,7 @@ Regulation 11.
 
 Where such a guarantee has been given or such arrangements have been made as are mentioned in regulation 10(1)(b) in respect of part only of a scheme, section 75 and these Regulations shall apply as if that part and the other part of the scheme were separate schemes, and the reference to the scheme in the form set out in Schedule 1 may be modified appropriately.
 
-### 4. Schemes providing salary-related death benefits[^key-eea76503a4cea18882fb964dfa307c38]
+### 4. Schemes providing salary-related death benefits[^c-eea76503a4cea18882fb964dfa307c38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -517,57 +517,57 @@ An assessment of the compliance cost for employers of the measures arising from 
 
 [^c1774548]: Marginal citation: *See* section 120(1) of the Pensions Act 1995.
 
-[^key-b8d203c524a8680125f5400ce7defaab]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1996/3128) excluded (6.4.2005) by [The Occupational Pension Schemes (Employer Debt) Regulations 2005 (S.I. 2005/678)](https://www.legislation.gov.uk/uksi/2005/678), [reg. 3](https://www.legislation.gov.uk/uksi/2005/678/regulation/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2005/678/regulation/1/3))
+[^c-b8d203c524a8680125f5400ce7defaab]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1996/3128) excluded (6.4.2005) by [The Occupational Pension Schemes (Employer Debt) Regulations 2005 (S.I. 2005/678)](https://www.legislation.gov.uk/uksi/2005/678), [reg. 3](https://www.legislation.gov.uk/uksi/2005/678/regulation/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2005/678/regulation/1/3))
 
 [^c1774549]: Marginal citation: [S.I. 1996/3126](https://www.legislation.gov.uk/uksi/1996/3126).
 
-[^key-e1383638f88b93f98dd4d06087103db4]: Textual amendment: Words in reg. 2(2) inserted (12.1.1998) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) (No. 2) Regulations 1997 (S.I. 1997/3038)](https://www.legislation.gov.uk/uksi/1997/3038), [regs. 1](https://www.legislation.gov.uk/uksi/1997/3038/regulation/1), [5](https://www.legislation.gov.uk/uksi/1997/3038/regulation/5)
+[^c-e1383638f88b93f98dd4d06087103db4]: Textual amendment: Words in reg. 2(2) inserted (12.1.1998) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) (No. 2) Regulations 1997 (S.I. 1997/3038)](https://www.legislation.gov.uk/uksi/1997/3038), [regs. 1](https://www.legislation.gov.uk/uksi/1997/3038/regulation/1), [5](https://www.legislation.gov.uk/uksi/1997/3038/regulation/5)
 
-[^key-0f4730f4d3d3dd61cfab8fca3a51c6ec]: Textual amendment: Words in reg. 2(2) omitted (9.8.2012) by virtue of [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2012 (S.I. 2012/1817)](https://www.legislation.gov.uk/uksi/2012/1817), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1817/regulation/1), [Sch. para. 4(a)(i)](https://www.legislation.gov.uk/uksi/2012/1817/schedule/paragraph/4/a/i)
+[^c-0f4730f4d3d3dd61cfab8fca3a51c6ec]: Textual amendment: Words in reg. 2(2) omitted (9.8.2012) by virtue of [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2012 (S.I. 2012/1817)](https://www.legislation.gov.uk/uksi/2012/1817), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1817/regulation/1), [Sch. para. 4(a)(i)](https://www.legislation.gov.uk/uksi/2012/1817/schedule/paragraph/4/a/i)
 
 [^c1774550]: Marginal citation: [S.I. 1996/1536](https://www.legislation.gov.uk/uksi/1996/1536).
 
-[^key-666f56f43a2fcc24d0ff3c1051858663]: Textual amendment: Words in reg. 2(2) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/786)](https://www.legislation.gov.uk/uksi/1997/786), [reg. 1](https://www.legislation.gov.uk/uksi/1997/786/regulation/1), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/19/2)
+[^c-666f56f43a2fcc24d0ff3c1051858663]: Textual amendment: Words in reg. 2(2) substituted (6.4.1997) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/786)](https://www.legislation.gov.uk/uksi/1997/786), [reg. 1](https://www.legislation.gov.uk/uksi/1997/786/regulation/1), [Sch. 1 para. 19(2)](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/19/2)
 
 [^c1774551]: Marginal citation: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-dd6e22e3281d04cbdcd889bc04f7f92e]: Textual amendment: Reg. 2(5) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2007 (S.I. 2007/60)](https://www.legislation.gov.uk/uksi/2007/60), [reg. 1](https://www.legislation.gov.uk/uksi/2007/60/regulation/1), [Sch. para. 8(a)(ii)](https://www.legislation.gov.uk/uksi/2007/60/schedule/paragraph/8/a/ii)
+[^c-dd6e22e3281d04cbdcd889bc04f7f92e]: Textual amendment: Reg. 2(5) substituted (6.4.2007) by [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2007 (S.I. 2007/60)](https://www.legislation.gov.uk/uksi/2007/60), [reg. 1](https://www.legislation.gov.uk/uksi/2007/60/regulation/1), [Sch. para. 8(a)(ii)](https://www.legislation.gov.uk/uksi/2007/60/schedule/paragraph/8/a/ii)
 
-[^key-81e042d1c2d161b673d866bc7cbe34c1]: Textual amendment: Words in reg. 2(5) substituted (9.8.2012) by [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2012 (S.I. 2012/1817)](https://www.legislation.gov.uk/uksi/2012/1817), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1817/regulation/1), [Sch. para. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2012/1817/schedule/paragraph/4/a/ii)
+[^c-81e042d1c2d161b673d866bc7cbe34c1]: Textual amendment: Words in reg. 2(5) substituted (9.8.2012) by [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2012 (S.I. 2012/1817)](https://www.legislation.gov.uk/uksi/2012/1817), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1817/regulation/1), [Sch. para. 4(a)(ii)](https://www.legislation.gov.uk/uksi/2012/1817/schedule/paragraph/4/a/ii)
 
-[^key-d433de2cd77b12bacbff5e2db8445ea7]: Textual amendment: Words in reg. 2(5) substituted (1.10.2008) by [The Pensions Act 2007 (Actuarial Guidance) (Consequential Provisions) Order 2008 (S.I. 2008/2301)](https://www.legislation.gov.uk/uksi/2008/2301), [art. 1](https://www.legislation.gov.uk/uksi/2008/2301/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2008/2301/schedule/paragraph/4)
+[^c-d433de2cd77b12bacbff5e2db8445ea7]: Textual amendment: Words in reg. 2(5) substituted (1.10.2008) by [The Pensions Act 2007 (Actuarial Guidance) (Consequential Provisions) Order 2008 (S.I. 2008/2301)](https://www.legislation.gov.uk/uksi/2008/2301), [art. 1](https://www.legislation.gov.uk/uksi/2008/2301/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2008/2301/schedule/paragraph/4)
 
-[^key-383da72a4a2bf248ee0faca2bc85924e]: Textual amendment: Words in reg. 2(6) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2012/692/regulation/6/a)
+[^c-383da72a4a2bf248ee0faca2bc85924e]: Textual amendment: Words in reg. 2(6) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2012/692/regulation/6/a)
 
 [^c2234304]: Commencement: Reg. 3-6 partly in force; reg. 3-6 not in force at Royal Assent see reg. 1; reg. 3-6 in force at (19.12.1996) by [S.I. 1996/3128](https://www.legislation.gov.uk/uksi/1996/3128) {reg. 1}; reg. 3-6 in force for certain purposes (19.12.1996) by [S.I. 1996/3128](https://www.legislation.gov.uk/uksi/1996/3128), [art. 1](https://www.legislation.gov.uk/uksi/1996/3128/article/1)
 
-[^key-cd434dad5c549393c1d852b439352bfd]: Textual amendment: Words in reg. 3 substituted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Occupational Pension Schemes (Winding Up and Deficiency on Winding Up etc.) (Amendment) Regulations 2004 (S.I. 2004/403)](https://www.legislation.gov.uk/uksi/2004/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/403/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/403/regulation/3/2)
+[^c-cd434dad5c549393c1d852b439352bfd]: Textual amendment: Words in reg. 3 substituted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Occupational Pension Schemes (Winding Up and Deficiency on Winding Up etc.) (Amendment) Regulations 2004 (S.I. 2004/403)](https://www.legislation.gov.uk/uksi/2004/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/403/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2004/403/regulation/3/2)
 
-[^key-181ad84c973ac32910f176ca0e4c6be9]: Textual amendment: Words in reg. 3(1) substituted (19.3.2002) by [The Occupational Pension Schemes (Minimum Funding Requirement and Miscellaneous Amendments) Regulations 2002 (S.I. 2002/380)](https://www.legislation.gov.uk/uksi/2002/380), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/380/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2002/380/regulation/4/2)
+[^c-181ad84c973ac32910f176ca0e4c6be9]: Textual amendment: Words in reg. 3(1) substituted (19.3.2002) by [The Occupational Pension Schemes (Minimum Funding Requirement and Miscellaneous Amendments) Regulations 2002 (S.I. 2002/380)](https://www.legislation.gov.uk/uksi/2002/380), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/380/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2002/380/regulation/4/2)
 
 [^M_F_c5f5e1bf-3b8f-42fc-8d78-7b3f210278c6]: Textual amendment: Words in reg. 3(1) substituted (15.2.2005) by [The Occupational Pension Schemes (Winding Up, Deficiency on Winding Up and Transfer Values) (Amendment) Regulations 2005 (S.I. 2005/72)](https://www.legislation.gov.uk/uksi/2005/72), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/72/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2005/72/regulation/3/2)
 
-[^key-32c2ee13c908abbed6124b0d63820e91]: Textual amendment: Reg. 3A inserted (19.3.2002) by [The Occupational Pension Schemes (Minimum Funding Requirement and Miscellaneous Amendments) Regulations 2002 (S.I. 2002/380)](https://www.legislation.gov.uk/uksi/2002/380), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/380/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2002/380/regulation/4/3)
+[^c-32c2ee13c908abbed6124b0d63820e91]: Textual amendment: Reg. 3A inserted (19.3.2002) by [The Occupational Pension Schemes (Minimum Funding Requirement and Miscellaneous Amendments) Regulations 2002 (S.I. 2002/380)](https://www.legislation.gov.uk/uksi/2002/380), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2002/380/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2002/380/regulation/4/3)
 
-[^key-96f849663cbaf5523a5bf4b68620a314]: Textual amendment: Words in reg. 3A heading added (with application in accordance with reg. 1(4) of the amending S.I.) by [The Occupational Pension Schemes (Winding Up and Deficiency on Winding Up etc.) (Amendment) Regulations 2004 (S.I. 2004/403)](https://www.legislation.gov.uk/uksi/2004/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/403/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/403/regulation/3/3)
+[^c-96f849663cbaf5523a5bf4b68620a314]: Textual amendment: Words in reg. 3A heading added (with application in accordance with reg. 1(4) of the amending S.I.) by [The Occupational Pension Schemes (Winding Up and Deficiency on Winding Up etc.) (Amendment) Regulations 2004 (S.I. 2004/403)](https://www.legislation.gov.uk/uksi/2004/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/403/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/403/regulation/3/3)
 
-[^key-daec8eca8fa04cc0d0dafd6009cbf5a7]: Textual amendment: Reg. 3B inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Occupational Pension Schemes (Winding Up and Deficiency on Winding Up etc.) (Amendment) Regulations 2004 (S.I. 2004/403)](https://www.legislation.gov.uk/uksi/2004/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/403/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2004/403/regulation/3/4)
+[^c-daec8eca8fa04cc0d0dafd6009cbf5a7]: Textual amendment: Reg. 3B inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Occupational Pension Schemes (Winding Up and Deficiency on Winding Up etc.) (Amendment) Regulations 2004 (S.I. 2004/403)](https://www.legislation.gov.uk/uksi/2004/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/403/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2004/403/regulation/3/4)
 
-[^key-f7e55b1f9300b5c1a16aac54db3a8263]: Textual amendment: Words in reg. 3B(1) inserted (15.2.2005) by [The Occupational Pension Schemes (Winding Up, Deficiency on Winding Up and Transfer Values) (Amendment) Regulations 2005 (S.I. 2005/72)](https://www.legislation.gov.uk/uksi/2005/72), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/72/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2005/72/regulation/3/3)
+[^c-f7e55b1f9300b5c1a16aac54db3a8263]: Textual amendment: Words in reg. 3B(1) inserted (15.2.2005) by [The Occupational Pension Schemes (Winding Up, Deficiency on Winding Up and Transfer Values) (Amendment) Regulations 2005 (S.I. 2005/72)](https://www.legislation.gov.uk/uksi/2005/72), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/72/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2005/72/regulation/3/3)
 
-[^key-a20da959367a04a4764265c19c66bc6b]: Textual amendment: Reg. 3C - Reg. 3D added (15.2.2005) by [The Occupational Pension Schemes (Winding Up, Deficiency on Winding Up and Transfer Values) (Amendment) Regulations 2005 (S.I. 2005/72)](https://www.legislation.gov.uk/uksi/2005/72), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/72/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2005/72/regulation/3/4)
+[^c-a20da959367a04a4764265c19c66bc6b]: Textual amendment: Reg. 3C - Reg. 3D added (15.2.2005) by [The Occupational Pension Schemes (Winding Up, Deficiency on Winding Up and Transfer Values) (Amendment) Regulations 2005 (S.I. 2005/72)](https://www.legislation.gov.uk/uksi/2005/72), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/72/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2005/72/regulation/3/4)
 
 [^c2234305]: Commencement: Reg. 3-6 partly in force; reg. 3-6 not in force at Royal Assent see reg. 1; reg. 3-6 in force at (19.12.1996) by [S.I. 1996/3128](https://www.legislation.gov.uk/uksi/1996/3128) {reg. 1}; reg. 3-6 in force for certain purposes (19.12.1996) by [S.I. 1996/3128](https://www.legislation.gov.uk/uksi/1996/3128), [art. 1](https://www.legislation.gov.uk/uksi/1996/3128/article/1)
 
-[^key-6424d8c213c2b34fb724effeca965aa4]: Textual amendment: Words in reg. 4(2) inserted (6.4.1997) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/786)](https://www.legislation.gov.uk/uksi/1997/786), [reg. 1](https://www.legislation.gov.uk/uksi/1997/786/regulation/1), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/19/3)
+[^c-6424d8c213c2b34fb724effeca965aa4]: Textual amendment: Words in reg. 4(2) inserted (6.4.1997) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/786)](https://www.legislation.gov.uk/uksi/1997/786), [reg. 1](https://www.legislation.gov.uk/uksi/1997/786/regulation/1), [Sch. 1 para. 19(3)](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/19/3)
 
 [^c2234306]: Commencement: Reg. 3-6 partly in force; reg. 3-6 not in force at Royal Assent see reg. 1; reg. 3-6 in force at (19.12.1996) by [S.I. 1996/3128](https://www.legislation.gov.uk/uksi/1996/3128) {reg. 1}; reg. 3-6 in force for certain purposes (19.12.1996) by [S.I. 1996/3128](https://www.legislation.gov.uk/uksi/1996/3128), [art. 1](https://www.legislation.gov.uk/uksi/1996/3128/article/1)
 
-[^key-c179cd2607c83fe2cac67cc8b970cbce]: Textual amendment: Reg. 5(3)(b)(i)(ii) substituted (30.12.1999) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/3198)](https://www.legislation.gov.uk/uksi/1999/3198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3198/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/1999/3198/regulation/4/2)
+[^c-c179cd2607c83fe2cac67cc8b970cbce]: Textual amendment: Reg. 5(3)(b)(i)(ii) substituted (30.12.1999) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/3198)](https://www.legislation.gov.uk/uksi/1999/3198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3198/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/1999/3198/regulation/4/2)
 
 [^c2234307]: Commencement: Reg. 3-6 partly in force; reg. 3-6 not in force at Royal Assent see reg. 1; reg. 3-6 in force at (19.12.1996) by [S.I. 1996/3128](https://www.legislation.gov.uk/uksi/1996/3128) {reg. 1}; reg. 3-6 in force for certain purposes (19.12.1996) by [S.I. 1996/3128](https://www.legislation.gov.uk/uksi/1996/3128), [art. 1](https://www.legislation.gov.uk/uksi/1996/3128/article/1)
 
-[^key-9f33170046949ad8bf4ca5c7dc833c5b]: Textual amendment: Reg. 6(2)(b)(i)(ii) substituted (30.12.1999) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/3198)](https://www.legislation.gov.uk/uksi/1999/3198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3198/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/1999/3198/regulation/4/3)
+[^c-9f33170046949ad8bf4ca5c7dc833c5b]: Textual amendment: Reg. 6(2)(b)(i)(ii) substituted (30.12.1999) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/3198)](https://www.legislation.gov.uk/uksi/1999/3198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3198/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/1999/3198/regulation/4/3)
 
 [^c2234314]: Commencement: Reg. 7-9 partly in force; reg. 7-9 not in force at Royal Assent see reg. 1; reg. 7-9 in force at (5.4.1997) by [S.I. 1996/3128](https://www.legislation.gov.uk/uksi/1996/3128) {reg. 1}; reg. 7-9 in force for certain purposes (5.4.1997) by [S.I. 1996/3128](https://www.legislation.gov.uk/uksi/1996/3128), [art. 1](https://www.legislation.gov.uk/uksi/1996/3128/article/1)
 
@@ -581,24 +581,24 @@ An assessment of the compliance cost for employers of the measures arising from 
 
 [^c1774556]: Marginal citation: [1963 c.xxxii](https://www.legislation.gov.uk/ukla/1963/32).
 
-[^key-b10ec777a9bb74bb84734fe06a1c7ac2]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/1996/3128/regulation/10/2) inserted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2016/200/article/10/b)
+[^c-b10ec777a9bb74bb84734fe06a1c7ac2]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/1996/3128/regulation/10/2) inserted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2016/200/article/10/b)
 
-[^key-15e824549264ae4aad87f5fa3db8feb7]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/1996/3128/regulation/10/2) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2016/200/article/10/a)
+[^c-15e824549264ae4aad87f5fa3db8feb7]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/1996/3128/regulation/10/2) substituted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2016/200/article/10/a)
 
 [^c1774557]: Marginal citation: Section 611A was inserted by Schedule 6 to the [Finance Act 1989 (c.26)](https://www.legislation.gov.uk/ukpga/1989/26).
 
-[^key-6d266a497341e3222b8e84297652a96c]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/1996/3128/regulation/10/2) inserted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2016/200/article/10/c)
+[^c-6d266a497341e3222b8e84297652a96c]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/1996/3128/regulation/10/2) inserted (6.4.2016) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [10(c)](https://www.legislation.gov.uk/uksi/2016/200/article/10/c)
 
 [^c1774558]: Marginal citation: [S.I. 1994/895](https://www.legislation.gov.uk/uksi/1994/895).
 
 [^c1774559]: Marginal citation: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-324c5f07fca6c78fbcc531d4e4a5f48b]: Textual amendment: Words in Sch. 1 inserted (6.4.2007) by [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2007 (S.I. 2007/60)](https://www.legislation.gov.uk/uksi/2007/60), [reg. 1](https://www.legislation.gov.uk/uksi/2007/60/regulation/1), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2007/60/schedule/paragraph/8/b)
+[^c-324c5f07fca6c78fbcc531d4e4a5f48b]: Textual amendment: Words in Sch. 1 inserted (6.4.2007) by [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2007 (S.I. 2007/60)](https://www.legislation.gov.uk/uksi/2007/60), [reg. 1](https://www.legislation.gov.uk/uksi/2007/60/regulation/1), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2007/60/schedule/paragraph/8/b)
 
-[^key-268a4e38c26637ad824d3cca665c6b74]: Textual amendment: Words in Sch. 1 substituted (9.8.2012) by [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2012 (S.I. 2012/1817)](https://www.legislation.gov.uk/uksi/2012/1817), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1817/regulation/1), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2012/1817/schedule/paragraph/4/b)
+[^c-268a4e38c26637ad824d3cca665c6b74]: Textual amendment: Words in Sch. 1 substituted (9.8.2012) by [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2012 (S.I. 2012/1817)](https://www.legislation.gov.uk/uksi/2012/1817), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1817/regulation/1), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2012/1817/schedule/paragraph/4/b)
 
-[^key-2e87033800f7f8cef98acfcdab11c063]: Textual amendment: Words in Sch. 1 substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2012/692/regulation/6/b)
+[^c-2e87033800f7f8cef98acfcdab11c063]: Textual amendment: Words in Sch. 1 substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers Amendment) Regulations 2012 (S.I. 2012/692)](https://www.legislation.gov.uk/uksi/2012/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/692/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2012/692/regulation/6/b)
 
-[^key-058f89ca1f72c9ec115301c131cd4b4f]: Textual amendment: Words in Sch. 1 substituted (15.2.2005) by [The Occupational Pension Schemes (Winding Up, Deficiency on Winding Up and Transfer Values) (Amendment) Regulations 2005 (S.I. 2005/72)](https://www.legislation.gov.uk/uksi/2005/72), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/72/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2005/72/regulation/3/5)
+[^c-058f89ca1f72c9ec115301c131cd4b4f]: Textual amendment: Words in Sch. 1 substituted (15.2.2005) by [The Occupational Pension Schemes (Winding Up, Deficiency on Winding Up and Transfer Values) (Amendment) Regulations 2005 (S.I. 2005/72)](https://www.legislation.gov.uk/uksi/2005/72), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/72/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2005/72/regulation/3/5)
 
-[^key-eea76503a4cea18882fb964dfa307c38]: Textual amendment: Sch. 2 para. 4 revoked (6.4.1997) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/786)](https://www.legislation.gov.uk/uksi/1997/786), [reg. 1](https://www.legislation.gov.uk/uksi/1997/786/regulation/1), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/19/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/786/schedule/2)
+[^c-eea76503a4cea18882fb964dfa307c38]: Textual amendment: Sch. 2 para. 4 revoked (6.4.1997) by [The Personal and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 1997 (S.I. 1997/786)](https://www.legislation.gov.uk/uksi/1997/786), [reg. 1](https://www.legislation.gov.uk/uksi/1997/786/regulation/1), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/uksi/1997/786/schedule/1/paragraph/19/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/786/schedule/2)

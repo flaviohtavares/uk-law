@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 424. Time allowed for sending out copies of accounts and reports[^c19885621][^c19885441][^c19885121][^c20617111][^key-826033d65ad023f7c505666e1f5afb9c]
+## 424. Time allowed for sending out copies of accounts and reports[^c19885621][^c19885441][^c19885121][^c20617111][^c-826033d65ad023f7c505666e1f5afb9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c20617111]: Modification: Ss. 418-469 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/10) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-826033d65ad023f7c505666e1f5afb9c]: Modification: Ss. 423-425 applied (with modifications) by S.I. 2009/2436, Sch 1 para. 10 (as amended (with application in accordance with reg. 1(3) of the amending S.I.) by [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(a))](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/a)
+[^c-826033d65ad023f7c505666e1f5afb9c]: Modification: Ss. 423-425 applied (with modifications) by S.I. 2009/2436, Sch 1 para. 10 (as amended (with application in accordance with reg. 1(3) of the amending S.I.) by [The Unregistered Companies (Amendment) Regulations 2013 (S.I. 2013/1972)](https://www.legislation.gov.uk/uksi/2013/1972), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1972/regulation/1/2), [2(2)(a))](https://www.legislation.gov.uk/uksi/2013/1972/regulation/2/2/a)

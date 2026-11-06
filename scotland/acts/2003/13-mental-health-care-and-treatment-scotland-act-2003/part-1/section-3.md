@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Equal opportunities[^key-44417415e2e6f19a5db51ec53f9f0cad]
+## 3. Equal opportunities[^c-44417415e2e6f19a5db51ec53f9f0cad]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
 - (d) a Health Board;
 - (e) a Special Health Board;
 - (f) a National Health Service trust;
-- (fa)[^key-d370a2871bf8a874c3b3a263494062c7] (as respects its health service functions only) Healthcare Improvement Scotland;
+- (fa)[^c-d370a2871bf8a874c3b3a263494062c7] (as respects its health service functions only) Healthcare Improvement Scotland;
 - (g) the managers of a hospital;
 - (h) a mental health officer;
 - (i) a patient’s responsible medical officer;
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-44417415e2e6f19a5db51ec53f9f0cad]: Commencement: S. 3 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-44417415e2e6f19a5db51ec53f9f0cad]: Commencement: S. 3 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-d370a2871bf8a874c3b3a263494062c7]: Textual amendment: S. 3(3)(fa) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 8(2)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/8/2)
+[^c-d370a2871bf8a874c3b3a263494062c7]: Textual amendment: S. 3(3)(fa) inserted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 8(2)](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/8/2)

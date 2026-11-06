@@ -22,7 +22,7 @@ summary: ''
 
 Article 45
 
-Table 13[^key-551224064b1f8fb8071e528ef0989f91]
+Table 13[^c-551224064b1f8fb8071e528ef0989f91]
 
 | *(1)*<br>*Document name* | *(2)*<br>*Document reference* | *(3)*<br>*Revision number* | *(4)*<br>*Date* |
 | --- | --- | --- | --- |
@@ -64,4 +64,4 @@ Table 13[^key-551224064b1f8fb8071e528ef0989f91]
 
 ## Annotations
 
-[^key-551224064b1f8fb8071e528ef0989f91]: Textual amendment: [Sch. 14](https://www.legislation.gov.uk/uksi/2024/174/schedule/14) Table 13 substituted (29.10.2025) by virtue of [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [18](https://www.legislation.gov.uk/uksi/2025/1143/article/18)
+[^c-551224064b1f8fb8071e528ef0989f91]: Textual amendment: [Sch. 14](https://www.legislation.gov.uk/uksi/2024/174/schedule/14) Table 13 substituted (29.10.2025) by virtue of [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [18](https://www.legislation.gov.uk/uksi/2025/1143/article/18)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Provision for entrenchment: statement of compliance[^key-0bbad8e9eb5a8a7511155ac3026c7433]
+## 17. Provision for entrenchment: statement of compliance[^c-0bbad8e9eb5a8a7511155ac3026c7433]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bbad8e9eb5a8a7511155ac3026c7433]: Commencement: Reg. 17 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-0bbad8e9eb5a8a7511155ac3026c7433]: Commencement: Reg. 17 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

@@ -102,7 +102,7 @@ In section 29 of the Act of 1972 (preservation of ratio between salary and pensi
 
 and those subsections shall also be substituted for subsections (1) and (2) of the said section 2 but modified for that purpose by the substitution of references to the Commissioner for references to the Comptroller and Auditor General.
 
-(3)[^key-3b45598b13add2e9a4945641ece8b350] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3b45598b13add2e9a4945641ece8b350] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (4) of the said section 2 the words from “but any such abatement” to the end shall be omitted and after that subsection there shall be inserted the following subsection—
 
@@ -165,7 +165,7 @@ Section 9(2).
 
 [^c799906]: Marginal citation: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13).
 
-[^key-3b45598b13add2e9a4945641ece8b350]: Textual amendment: [S. 6(3)](https://www.legislation.gov.uk/ukpga/1976/48/section/6/3) omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 10(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/10/1) (with [Sch. 5 para. 10(2)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/10/2)); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-3b45598b13add2e9a4945641ece8b350]: Textual amendment: [S. 6(3)](https://www.legislation.gov.uk/ukpga/1976/48/section/6/3) omitted (1.4.2012) by virtue of [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [s. 29](https://www.legislation.gov.uk/ukpga/2011/4/section/29), [Sch. 5 para. 10(1)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/10/1) (with [Sch. 5 para. 10(2)](https://www.legislation.gov.uk/ukpga/2011/4/schedule/5/paragraph/10/2)); [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
 [^c799907]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1976/48/section/7) repealed (E. W. ) (N.I. ) [National Health Service Act 1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49), [Sch. 16](https://www.legislation.gov.uk/ukpga/1977/49/schedule/16) and (S. ) [National Health Service (Scotland) Act 1978 (c. 29)](https://www.legislation.gov.uk/ukpga/1978/29), [Sch. 17](https://www.legislation.gov.uk/ukpga/1978/29/schedule/17)
 

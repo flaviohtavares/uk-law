@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58ZA. Carry over of relief in relation to certain section 73 permissions[^key-8292dec8319c6c3067839a46423058e1]
+## 58ZA. Carry over of relief in relation to certain section 73 permissions[^c-8292dec8319c6c3067839a46423058e1]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ anything done in relation to an application for the relevant relief made in rela
 
 ## Annotations
 
-[^key-8292dec8319c6c3067839a46423058e1]: Textual amendment: [Reg. 58ZA](https://www.legislation.gov.uk/uksi/2010/948/regulation/58ZA) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/7/1) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-8292dec8319c6c3067839a46423058e1]: Textual amendment: [Reg. 58ZA](https://www.legislation.gov.uk/uksi/2010/948/regulation/58ZA) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/7/1) (with [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

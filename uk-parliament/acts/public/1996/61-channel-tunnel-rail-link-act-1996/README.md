@@ -33,7 +33,7 @@ An Act to provide for the construction, maintenance and operation of a railway b
 
 \[18th December 1996\]
 
-[^c1251921][^c1251922][^c1251923][^c1251924]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-113fc69dddb7e5e58e73b3bb2230de46][^key-1c493df1e2adec021a2bff7af4241778]
+[^c1251921][^c1251922][^c1251923][^c1251924]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-113fc69dddb7e5e58e73b3bb2230de46][^c-1c493df1e2adec021a2bff7af4241778]
 
 ## Contents
 
@@ -76,7 +76,7 @@ An Act to provide for the construction, maintenance and operation of a railway b
 - [Section 19 — Railway administration orders.](part-i/section-19.md)
 - [Section 20 — Other legislation.](part-i/section-20.md)
 
-#### Functions of the Office of Rail and Road[^key-e6531201069b266901fbaae2fb73e35d]
+#### Functions of the Office of Rail and Road[^c-e6531201069b266901fbaae2fb73e35d]
 
 *Extent: E+W+S+N.I.*
 
@@ -173,8 +173,8 @@ SCHEDULES
 
 [^c1251924]: Commencement: Act wholly in force; Act mainly in force at Royal Assent but see [ss. 40](https://www.legislation.gov.uk/ukpga/1996/61/section/40), [41](https://www.legislation.gov.uk/ukpga/1996/61/section/41), [46](https://www.legislation.gov.uk/ukpga/1996/61/section/46) for retrospective in-force dates
 
-[^key-113fc69dddb7e5e58e73b3bb2230de46]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/61) restricted (E.W.S.) (22.11.2006) by [Docklands Light Railway (Stratford International Extension) Order 2006 (S.I. 2006/2905)](https://www.legislation.gov.uk/uksi/2006/2905), [Sch. 16 Pt. 1](https://www.legislation.gov.uk/uksi/2006/2905/schedule/16/part/1) (with [art. 43](https://www.legislation.gov.uk/uksi/2006/2905/article/43))
+[^c-113fc69dddb7e5e58e73b3bb2230de46]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/61) restricted (E.W.S.) (22.11.2006) by [Docklands Light Railway (Stratford International Extension) Order 2006 (S.I. 2006/2905)](https://www.legislation.gov.uk/uksi/2006/2905), [Sch. 16 Pt. 1](https://www.legislation.gov.uk/uksi/2006/2905/schedule/16/part/1) (with [art. 43](https://www.legislation.gov.uk/uksi/2006/2905/article/43))
 
-[^key-1c493df1e2adec021a2bff7af4241778]: Modification: Act excluded (15.4.2025) by The A122 (Lower Thames Crossing) [Development Consent Order 2025 (S.I. 2025/462)](https://www.legislation.gov.uk/uksi/2025/462), [arts. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1), [55(1)](https://www.legislation.gov.uk/uksi/2025/462/article/55/1) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/462/article/5), [43](https://www.legislation.gov.uk/uksi/2025/462/article/43), [53(7)](https://www.legislation.gov.uk/uksi/2025/462/article/53/7), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/462/schedule/14))
+[^c-1c493df1e2adec021a2bff7af4241778]: Modification: Act excluded (15.4.2025) by The A122 (Lower Thames Crossing) [Development Consent Order 2025 (S.I. 2025/462)](https://www.legislation.gov.uk/uksi/2025/462), [arts. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1), [55(1)](https://www.legislation.gov.uk/uksi/2025/462/article/55/1) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/462/article/5), [43](https://www.legislation.gov.uk/uksi/2025/462/article/43), [53(7)](https://www.legislation.gov.uk/uksi/2025/462/article/53/7), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/462/schedule/14))
 
-[^key-e6531201069b266901fbaae2fb73e35d]: Textual amendment: Words in s. 21 cross-heading substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(l)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/l/ii)
+[^c-e6531201069b266901fbaae2fb73e35d]: Textual amendment: Words in s. 21 cross-heading substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(l)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/l/ii)

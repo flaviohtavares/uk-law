@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69K. Disclosures about related undertakings[^key-8d7cf3ac928ac8ba09090ddafa155d0d]
+## 69K. Disclosures about related undertakings[^c-8d7cf3ac928ac8ba09090ddafa155d0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d7cf3ac928ac8ba09090ddafa155d0d]: Textual amendment: [Ss. 69J](https://www.legislation.gov.uk/ukpga/1992/40/section/69J), [69K](https://www.legislation.gov.uk/ukpga/1992/40/section/69K) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Friendly Societies Act 1992 (International Accounting Standards and Other Accounting Amendments) Order 2005 (S.I. 2005/2211)](https://www.legislation.gov.uk/uksi/2005/2211), [art. 1(2)](https://www.legislation.gov.uk/uksi/2005/2211/article/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2005/2211/schedule/paragraph/2)
+[^c-8d7cf3ac928ac8ba09090ddafa155d0d]: Textual amendment: [Ss. 69J](https://www.legislation.gov.uk/ukpga/1992/40/section/69J), [69K](https://www.legislation.gov.uk/ukpga/1992/40/section/69K) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Friendly Societies Act 1992 (International Accounting Standards and Other Accounting Amendments) Order 2005 (S.I. 2005/2211)](https://www.legislation.gov.uk/uksi/2005/2211), [art. 1(2)](https://www.legislation.gov.uk/uksi/2005/2211/article/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2005/2211/schedule/paragraph/2)

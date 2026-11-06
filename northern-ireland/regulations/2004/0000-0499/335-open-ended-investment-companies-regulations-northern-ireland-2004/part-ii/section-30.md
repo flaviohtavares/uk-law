@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Power to investigate[^key-c55b525f1fe7d42af94d0610dce5e942]
+## 30. Power to investigate[^c-c55b525f1fe7d42af94d0610dce5e942]
 
 *Extent: N.I.*
 
@@ -75,4 +75,4 @@ as they apply in the cases mentioned in subsection (1) of that section.
 
 ## Annotations
 
-[^key-c55b525f1fe7d42af94d0610dce5e942]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2004/335/regulation/30) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-c55b525f1fe7d42af94d0610dce5e942]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2004/335/regulation/30) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

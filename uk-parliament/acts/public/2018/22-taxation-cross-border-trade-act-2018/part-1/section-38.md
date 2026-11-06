@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Table of definitions[^c23439611][^key-947d685c46238bb1dc4714ad3c799aa7]
+## 38. Table of definitions[^c23439611][^c-947d685c46238bb1dc4714ad3c799aa7]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ The following table sets out some of the expressions used in this Part, showing 
 | chargeable goods | section 2 |
 | control of HMRC officer | section 37(7) |
 | Customs agent | section 21 |
-| the customs and excise Acts[^key-1821ecded5983ab1250600c7fb08fedc] | section 37(1) |
+| the customs and excise Acts[^c-1821ecded5983ab1250600c7fb08fedc] | section 37(1) |
 | Customs procedures | section 3 |
 | customs tariff | section 8 |
 | directions | section 37(1) |
@@ -74,6 +74,6 @@ The following table sets out some of the expressions used in this Part, showing 
 
 [^c23439611]: Commencement: S. 38 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-947d685c46238bb1dc4714ad3c799aa7]: Commencement: S. 38 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-947d685c46238bb1dc4714ad3c799aa7]: Commencement: S. 38 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-1821ecded5983ab1250600c7fb08fedc]: Textual amendment: Words in s. 38 inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/7) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-1821ecded5983ab1250600c7fb08fedc]: Textual amendment: Words in s. 38 inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/7) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)

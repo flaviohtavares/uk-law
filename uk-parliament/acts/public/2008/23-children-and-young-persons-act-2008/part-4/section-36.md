@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Entitlement of relative to apply for a residence order[^key-c39d633604f3705ae816af7afaeee8a4][^key-eb63134566ceb80234d83d6eab5af1a0]
+## 36. Entitlement of relative to apply for a residence order[^c-c39d633604f3705ae816af7afaeee8a4][^c-eb63134566ceb80234d83d6eab5af1a0]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ In section 10 of the 1989 Act (power of the court to make orders under section 8
 
 ## Annotations
 
-[^key-c39d633604f3705ae816af7afaeee8a4]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2008/23/section/36) in force at 1.9.2009 for W. by [S.I. 2009/1921](https://www.legislation.gov.uk/wsi/2009/1921), [art. 2(a)](https://www.legislation.gov.uk/wsi/2009/1921/article/2/a)
+[^c-c39d633604f3705ae816af7afaeee8a4]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2008/23/section/36) in force at 1.9.2009 for W. by [S.I. 2009/1921](https://www.legislation.gov.uk/wsi/2009/1921), [art. 2(a)](https://www.legislation.gov.uk/wsi/2009/1921/article/2/a)
 
-[^key-eb63134566ceb80234d83d6eab5af1a0]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2008/23/section/36) in force at 1.9.2009 for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/j)
+[^c-eb63134566ceb80234d83d6eab5af1a0]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2008/23/section/36) in force at 1.9.2009 for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/j)

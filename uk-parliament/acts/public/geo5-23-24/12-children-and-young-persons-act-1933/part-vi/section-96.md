@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^c6088961][^key-42e1478eff292f87bb4deaa3e1ae832f] In Part 2 of this Act “local authority” has the same meaning as in the Education Act 1996 (see section 579(1) of that Act).
+(1)[^c6088961][^c-42e1478eff292f87bb4deaa3e1ae832f] In Part 2 of this Act “local authority” has the same meaning as in the Education Act 1996 (see section 579(1) of that Act).
 
 (1A)[^c6089001] The local authorities for the purposes of Parts III and IV of this Act shall be the council of counties (other than metropolitan counties), of metropolitan districts and of London boroughs and the Common Council of the City of London but, in relation to Wales, shall be the councils of counties and county boroughs[^c6089011].
 
 (2)[^c6089021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-719d8c7d282d60162f952be3561d30f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-719d8c7d282d60162f952be3561d30f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-11ce4ca567504f9731ea78590a6f2f0f][^c6089041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-11ce4ca567504f9731ea78590a6f2f0f][^c6089041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4A)[^key-2dd73a9f3f0c55b00119303afba54d63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-2dd73a9f3f0c55b00119303afba54d63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5)[^c6089091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -46,7 +46,7 @@ summary: ''
 
 [^c6088961]: Modification: S. 96(1) amended by [Children and Young Persons Act 1963 (c. 37)](https://www.legislation.gov.uk/ukpga/1963/37), [s. 56(1)](https://www.legislation.gov.uk/ukpga/1963/37/section/56/1)
 
-[^key-42e1478eff292f87bb4deaa3e1ae832f]: Textual amendment: S. 96(1) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 17(2)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/17/2/a)
+[^c-42e1478eff292f87bb4deaa3e1ae832f]: Textual amendment: S. 96(1) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 17(2)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/17/2/a)
 
 [^c6089001]: Textual amendment: S. 96(1A) inserted (1.4.1981) by [Child Care Act 1980 (c. 5)](https://www.legislation.gov.uk/ukpga/1980/5), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/1980/5/schedule/5/paragraph/1)
 
@@ -54,13 +54,13 @@ summary: ''
 
 [^c6089021]: Textual amendment: S. 96(2) repealed by [Education Act 1944 (c. 31)](https://www.legislation.gov.uk/ukpga/1944/31), [Sch. 9](https://www.legislation.gov.uk/ukpga/1944/31/schedule/9)
 
-[^key-719d8c7d282d60162f952be3561d30f6]: Textual amendment: S. 96(3) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 17(2)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/17/2/b), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2)
+[^c-719d8c7d282d60162f952be3561d30f6]: Textual amendment: S. 96(3) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 17(2)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/17/2/b), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2)
 
-[^key-11ce4ca567504f9731ea78590a6f2f0f]: Textual amendment: S. 96(4) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 17(2)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/17/2/b), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2)
+[^c-11ce4ca567504f9731ea78590a6f2f0f]: Textual amendment: S. 96(4) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 17(2)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/17/2/b), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2)
 
 [^c6089041]: Modification: S. 96(4) excluded by [London Government Act 1963 (c. 33)](https://www.legislation.gov.uk/ukpga/1963/33), [s. 47(2)](https://www.legislation.gov.uk/ukpga/1963/33/section/47/2)
 
-[^key-2dd73a9f3f0c55b00119303afba54d63]: Textual amendment: S. 96(4A) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 17(2)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/17/2/b), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2)
+[^c-2dd73a9f3f0c55b00119303afba54d63]: Textual amendment: S. 96(4A) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 17(2)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/17/2/b), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2)
 
 [^c6089091]: Textual amendment: S. 96(5) repealed by [Acquisition of Land Act 1981 (c. 67, SIF 28:1)](https://www.legislation.gov.uk/ukpga/1981/67), [s. 34(3)](https://www.legislation.gov.uk/ukpga/1981/67/section/34/3), [Sch. 6 Pt. II](https://www.legislation.gov.uk/ukpga/1981/67/schedule/6/part/II)
 

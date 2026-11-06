@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114A. Transaction value: retrospectively adjusted amounts[^key-59040ea44d90b8b28ac89e3c3411403f]
+## 114A. Transaction value: retrospectively adjusted amounts[^c-59040ea44d90b8b28ac89e3c3411403f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59040ea44d90b8b28ac89e3c3411403f]: Textual amendment: [Regs. 114A](https://www.legislation.gov.uk/uksi/2018/1248/regulation/114A), [114B](https://www.legislation.gov.uk/uksi/2018/1248/regulation/114B) inserted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [4(12)](https://www.legislation.gov.uk/uksi/2025/745/regulation/4/12)
+[^c-59040ea44d90b8b28ac89e3c3411403f]: Textual amendment: [Regs. 114A](https://www.legislation.gov.uk/uksi/2018/1248/regulation/114A), [114B](https://www.legislation.gov.uk/uksi/2018/1248/regulation/114B) inserted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [4(12)](https://www.legislation.gov.uk/uksi/2025/745/regulation/4/12)

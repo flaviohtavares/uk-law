@@ -76,7 +76,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### PART 2 — Regulators
 
-#### ...[^key-aca531cc6d9b107b9f8b52af4a0c4e78]
+#### ...[^c-aca531cc6d9b107b9f8b52af4a0c4e78]
 
 - [Section 14 — Extension of target to provisions made by regulators](part-2/section-14.md)
 
@@ -169,4 +169,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-aca531cc6d9b107b9f8b52af4a0c4e78]: Textual amendment: [S. 14 and cross-heading](https://www.legislation.gov.uk/ukpga/2016/12/part/2/crossheading/business-impact-target) omitted (29.8.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 18(5)(a)](https://www.legislation.gov.uk/ukpga/2023/28/section/18/5/a), [22(2)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/2)
+[^c-aca531cc6d9b107b9f8b52af4a0c4e78]: Textual amendment: [S. 14 and cross-heading](https://www.legislation.gov.uk/ukpga/2016/12/part/2/crossheading/business-impact-target) omitted (29.8.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 18(5)(a)](https://www.legislation.gov.uk/ukpga/2023/28/section/18/5/a), [22(2)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/2)

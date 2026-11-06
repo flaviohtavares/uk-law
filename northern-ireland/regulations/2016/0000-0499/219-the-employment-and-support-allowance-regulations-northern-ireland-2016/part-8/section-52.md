@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Low-level sanction[^key-5cd12149beb7f547c62ea8dc3b0b2989]
+## 52. Low-level sanction[^c-5cd12149beb7f547c62ea8dc3b0b2989]
 
 *Extent: N.I.*
 
@@ -30,7 +30,7 @@ The reduction period for a low-level sanction is the total of—
 
 whichever is soonest; and
 
-- (b)[^key-804150b6510bef400f811e27e0cd0670] in the circumstances described in the first column of the following table, the number of days set out in the second column.
+- (b)[^c-804150b6510bef400f811e27e0cd0670] in the circumstances described in the first column of the following table, the number of days set out in the second column.
 
   | Circumstances applicable to claimant’s case | Number of days |
   | --- | --- |
@@ -45,6 +45,6 @@ whichever is soonest; and
 
 ## Annotations
 
-[^key-5cd12149beb7f547c62ea8dc3b0b2989]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2016/219/regulation/52) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-5cd12149beb7f547c62ea8dc3b0b2989]: Commencement: [Reg. 52](https://www.legislation.gov.uk/nisr/2016/219/regulation/52) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
-[^key-804150b6510bef400f811e27e0cd0670]: Textual amendment: [Reg. 52(b)](https://www.legislation.gov.uk/nisr/2016/219/regulation/52/b) substituted (coming into operation in accordance with reg. 1(8) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(8)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/8), [11(5)](https://www.legislation.gov.uk/nisr/2017/116/regulation/11/5)
+[^c-804150b6510bef400f811e27e0cd0670]: Textual amendment: [Reg. 52(b)](https://www.legislation.gov.uk/nisr/2016/219/regulation/52/b) substituted (coming into operation in accordance with reg. 1(8) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(8)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/8), [11(5)](https://www.legislation.gov.uk/nisr/2017/116/regulation/11/5)

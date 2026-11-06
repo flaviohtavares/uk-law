@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Amendment of the Armed Forces Pensions Scheme 2005[^key-c84d89246bffa4710c98e4b4e1c0b6ea]
+## 9. Amendment of the Armed Forces Pensions Scheme 2005[^c-c84d89246bffa4710c98e4b4e1c0b6ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Armed Forces Pension Scheme 2005[^f00013] is amended according to the provis
 
 ## Annotations
 
-[^key-c84d89246bffa4710c98e4b4e1c0b6ea]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-c84d89246bffa4710c98e4b4e1c0b6ea]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00013]: Footnote: The rules of this pension scheme are established in the Armed Forces Pension Scheme Order 2005 as amended - including by the Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 ([S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107)).

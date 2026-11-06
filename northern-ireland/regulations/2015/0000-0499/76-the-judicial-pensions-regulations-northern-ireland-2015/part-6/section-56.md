@@ -23,7 +23,7 @@ summary: ''
 (1) A member of this scheme (P) is entitled to the immediate payment for life of a full retirement earned pension if—
 
 - (a) P has reached normal minimum pension age;
-- (b) P has ceased to be in qualifying judicial office[^key-dadd49df55a2a9b6e468aadb87b18034] ; and
+- (b) P has ceased to be in qualifying judicial office[^c-dadd49df55a2a9b6e468aadb87b18034] ; and
 - (c) P has claimed payment of a full retirement pension.
 
 (2) But if P has not reached normal pension age under this scheme, P is not so entitled unless—
@@ -48,10 +48,10 @@ summary: ''
 - (a) for a full retirement added (self only) pension, a deferred added (self only) pension;
 - (b) for a full retirement added (all beneficiaries) pension, a deferred added (all beneficiaries) pension.
 
-(7)[^key-4c362e6d3af15b0137ba7a67c28e0800] Where P resumes service in qualifying judicial office, this will not affect any entitlement under this regulation.
+(7)[^c-4c362e6d3af15b0137ba7a67c28e0800] Where P resumes service in qualifying judicial office, this will not affect any entitlement under this regulation.
 
 ## Annotations
 
-[^key-dadd49df55a2a9b6e468aadb87b18034]: Textual amendment: Words in [reg. 56(1)(b)](https://www.legislation.gov.uk/nisr/2015/76/regulation/56/1/b) substituted (1.4.2022) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/73)](https://www.legislation.gov.uk/nisr/2022/73), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/73/regulation/1/2), [3(4)](https://www.legislation.gov.uk/nisr/2022/73/regulation/3/4)
+[^c-dadd49df55a2a9b6e468aadb87b18034]: Textual amendment: Words in [reg. 56(1)(b)](https://www.legislation.gov.uk/nisr/2015/76/regulation/56/1/b) substituted (1.4.2022) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/73)](https://www.legislation.gov.uk/nisr/2022/73), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/73/regulation/1/2), [3(4)](https://www.legislation.gov.uk/nisr/2022/73/regulation/3/4)
 
-[^key-4c362e6d3af15b0137ba7a67c28e0800]: Textual amendment: [Reg. 56(7)](https://www.legislation.gov.uk/nisr/2015/76/regulation/56/7) inserted (1.4.2022) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/73)](https://www.legislation.gov.uk/nisr/2022/73), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/73/regulation/1/2), [3(5)](https://www.legislation.gov.uk/nisr/2022/73/regulation/3/5)
+[^c-4c362e6d3af15b0137ba7a67c28e0800]: Textual amendment: [Reg. 56(7)](https://www.legislation.gov.uk/nisr/2015/76/regulation/56/7) inserted (1.4.2022) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/73)](https://www.legislation.gov.uk/nisr/2022/73), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/73/regulation/1/2), [3(5)](https://www.legislation.gov.uk/nisr/2022/73/regulation/3/5)

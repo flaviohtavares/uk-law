@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Power to amend by Treasury order[^key-b40569402c5d94064176a5861d78e506]
+## 200. Power to amend by Treasury order[^c-b40569402c5d94064176a5861d78e506]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b40569402c5d94064176a5861d78e506]: Textual amendment: [S. 200](https://www.legislation.gov.uk/ukpga/2007/3/section/200) omitted (18.11.2015) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/14)
+[^c-b40569402c5d94064176a5861d78e506]: Textual amendment: [S. 200](https://www.legislation.gov.uk/ukpga/2007/3/section/200) omitted (18.11.2015) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/14)

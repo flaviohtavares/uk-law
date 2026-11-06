@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Notification and reporting of injuries and dangerous occurrences[^key-896c97a6eb135074374b8e5e452e93ee]
+## 3. Notification and reporting of injuries and dangerous occurrences[^c-896c97a6eb135074374b8e5e452e93ee]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ the responsible person shall—
 
 ## Annotations
 
-[^key-896c97a6eb135074374b8e5e452e93ee]: Commencement: Reg. 3 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-896c97a6eb135074374b8e5e452e93ee]: Commencement: Reg. 3 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)

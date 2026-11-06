@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554. Payments by insurers[^key-f961237d9bc5040b8d367bd518eabf9b]
+## 554. Payments by insurers[^c-f961237d9bc5040b8d367bd518eabf9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f961237d9bc5040b8d367bd518eabf9b]: Commencement: Art. 554 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f961237d9bc5040b8d367bd518eabf9b]: Commencement: Art. 554 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Revocation of Regulation [(EC) No 1920/2006](https://www.legislation.gov.uk/eur/2006/1920)[^key-e064d1e93d1a8df7202e1b93777d76a6]
+## 18. Revocation of Regulation [(EC) No 1920/2006](https://www.legislation.gov.uk/eur/2006/1920)[^c-e064d1e93d1a8df7202e1b93777d76a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation [(EC) No 1920/2006](https://www.legislation.gov.uk/eur/2006/1920) of 
 
 ## Annotations
 
-[^key-e064d1e93d1a8df7202e1b93777d76a6]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e064d1e93d1a8df7202e1b93777d76a6]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

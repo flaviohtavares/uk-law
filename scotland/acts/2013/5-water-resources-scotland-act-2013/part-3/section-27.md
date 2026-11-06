@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Subsidiaries of Scottish Water[^key-a837a8e7123804b68e84ff86915439e6]
+## 27. Subsidiaries of Scottish Water[^c-a837a8e7123804b68e84ff86915439e6]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a837a8e7123804b68e84ff86915439e6]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2013/5/section/27) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)
+[^c-a837a8e7123804b68e84ff86915439e6]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2013/5/section/27) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)

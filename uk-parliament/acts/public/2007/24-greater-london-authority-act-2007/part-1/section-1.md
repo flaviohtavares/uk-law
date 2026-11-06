@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Payments on ceasing to hold office as Mayor or Assembly member[^key-72bee35d5f49438b6d2c4034e8a16d11]
+## 1. Payments on ceasing to hold office as Mayor or Assembly member[^c-72bee35d5f49438b6d2c4034e8a16d11]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72bee35d5f49438b6d2c4034e8a16d11]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2007/24/section/1) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-72bee35d5f49438b6d2c4034e8a16d11]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2007/24/section/1) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)

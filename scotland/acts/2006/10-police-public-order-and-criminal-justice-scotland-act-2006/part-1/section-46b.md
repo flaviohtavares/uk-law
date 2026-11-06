@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46B. Advisory board[^key-ab7582531e50e397f8a2fb3ac9b4fcfc]
+## 46B. Advisory board[^c-ab7582531e50e397f8a2fb3ac9b4fcfc]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab7582531e50e397f8a2fb3ac9b4fcfc]: Textual amendment: [S. 46B](https://www.legislation.gov.uk/asp/2006/10/section/46B) and cross-heading inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 20](https://www.legislation.gov.uk/asp/2025/5/section/20), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(n)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/n)
+[^c-ab7582531e50e397f8a2fb3ac9b4fcfc]: Textual amendment: [S. 46B](https://www.legislation.gov.uk/asp/2006/10/section/46B) and cross-heading inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 20](https://www.legislation.gov.uk/asp/2025/5/section/20), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(n)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/n)

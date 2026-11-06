@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Combination of referendum and election polls: conduct of referendum[^key-257c352f01354717a4ee05b7a7c26834]
+## 11. Combination of referendum and election polls: conduct of referendum[^c-257c352f01354717a4ee05b7a7c26834]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-257c352f01354717a4ee05b7a7c26834]: Commencement: Reg. 11 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-257c352f01354717a4ee05b7a7c26834]: Commencement: Reg. 11 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
 
 [^f00025]: Footnote: [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2). Schedule 4 was amended by paragraph 164 of Schedule 27 to the Civil Partnerships Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), and sections 5, 14, 35 and 38 of, and paragraphs 19, 20 and 137 of Schedule 1 to, the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).

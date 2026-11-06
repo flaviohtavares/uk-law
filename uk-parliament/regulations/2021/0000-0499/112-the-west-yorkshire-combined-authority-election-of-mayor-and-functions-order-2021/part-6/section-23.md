@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Permit schemes[^key-5248dc9d48b1cc06c4519471f1a56ff2]
+## 23. Permit schemes[^c-5248dc9d48b1cc06c4519471f1a56ff2]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5248dc9d48b1cc06c4519471f1a56ff2]: Commencement: Art. 23 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
+[^c-5248dc9d48b1cc06c4519471f1a56ff2]: Commencement: Art. 23 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
 
 [^c24433791]: Marginal citation: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
 

@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-caa12b4aa6fc2efe6953d4f247cace0b]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-caa12b4aa6fc2efe6953d4f247cace0b]
 
 *Extent: E+W+S*
 
 Articles 2 and 3
 
-[^key-caa12b4aa6fc2efe6953d4f247cace0b]
+[^c-caa12b4aa6fc2efe6953d4f247cace0b]
 
 In the County Borough of Wrexham—
 
-[^key-caa12b4aa6fc2efe6953d4f247cace0b]
+[^c-caa12b4aa6fc2efe6953d4f247cace0b]
 
 A nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act comprising—
 
-[^key-caa12b4aa6fc2efe6953d4f247cace0b]
+[^c-caa12b4aa6fc2efe6953d4f247cace0b]
 
 ***Work No. 1A*** development comprising—
 
@@ -40,7 +40,7 @@ A nationally significant infrastructure project as defined in sections 14 and 15
 - (d) air cooled condenser; and
 - (e) switchgear room.
 
-[^key-caa12b4aa6fc2efe6953d4f247cace0b]
+[^c-caa12b4aa6fc2efe6953d4f247cace0b]
 
 ***Work No. 1B*** development comprising—
 
@@ -60,7 +60,7 @@ A nationally significant infrastructure project as defined in sections 14 and 15
   - (x) a section of isolated pipe suitable for receiving a pressure inspection gauge (PIG) (also known as PIG launching/receiving facility); and
   - (xi) high pressure steel pipeline with a nominal bore of 400mm.
 
-[^key-caa12b4aa6fc2efe6953d4f247cace0b]
+[^c-caa12b4aa6fc2efe6953d4f247cace0b]
 
 ***Work No. 1C*** development comprising—
 
@@ -68,22 +68,22 @@ A nationally significant infrastructure project as defined in sections 14 and 15
 - (b) a raw/fire water storage tank and up to two water storage tanks; and
 - (c) an above ground foul water pump station.
 
-[^key-caa12b4aa6fc2efe6953d4f247cace0b]
+[^c-caa12b4aa6fc2efe6953d4f247cace0b]
 
 ***Work No. 1D*** development comprising—
 
 - (a) a 132kV switchyard containing plant required to manage the transmission of electricity into the distribution network; and
 - (b) up to three transformer compounds with up to three transformers.
 
-[^key-caa12b4aa6fc2efe6953d4f247cace0b]
+[^c-caa12b4aa6fc2efe6953d4f247cace0b]
 
 ***Work No. 1E*** development comprising an administration/control building.
 
-[^key-caa12b4aa6fc2efe6953d4f247cace0b]
+[^c-caa12b4aa6fc2efe6953d4f247cace0b]
 
 ***Work No. 1F*** development comprising a heat network interface building.
 
-[^key-caa12b4aa6fc2efe6953d4f247cace0b]
+[^c-caa12b4aa6fc2efe6953d4f247cace0b]
 
 ***Work No. 1G*** development comprising—
 
@@ -99,7 +99,7 @@ A nationally significant infrastructure project as defined in sections 14 and 15
 - (j) other ancillary equipment; and
 - (k) construction compound.
 
-[^key-caa12b4aa6fc2efe6953d4f247cace0b]
+[^c-caa12b4aa6fc2efe6953d4f247cace0b]
 
 ***Work No. 2A*** development comprising temporary construction laydown and car parking area comprising—
 
@@ -113,7 +113,7 @@ A nationally significant infrastructure project as defined in sections 14 and 15
 - (h) staff welfare cabins; and
 - (i) site preparation works including earthworks and enabling works and tree removal.
 
-[^key-caa12b4aa6fc2efe6953d4f247cace0b]
+[^c-caa12b4aa6fc2efe6953d4f247cace0b]
 
 ***Work No. 2B*** development comprising—
 
@@ -132,7 +132,7 @@ A nationally significant infrastructure project as defined in sections 14 and 15
   - (ii) lighting columns and lights; and
   - (iii) fencing.
 
-[^key-caa12b4aa6fc2efe6953d4f247cace0b]
+[^c-caa12b4aa6fc2efe6953d4f247cace0b]
 
 ***Work No. 3*** development comprising—
 
@@ -144,11 +144,11 @@ A nationally significant infrastructure project as defined in sections 14 and 15
 - (c) landscaping and ecological mitigation; and
 - (d) construction and maintenance of up to three surface water retention pond(s) providing a total minimum capacity of 2,085m3 and vortex flow control to limit the discharge rate to a maximum of 12.2 litres per second.
 
-[^key-caa12b4aa6fc2efe6953d4f247cace0b]
+[^c-caa12b4aa6fc2efe6953d4f247cace0b]
 
 ***Work No. 4*** development comprising landscaping, bunding, fencing, boundary treatments, tree planting, habitat creation and ecological mitigation.
 
-[^key-caa12b4aa6fc2efe6953d4f247cace0b]
+[^c-caa12b4aa6fc2efe6953d4f247cace0b]
 
 ***Work No. 5*** development comprising the alteration of the existing access road to Kingmoor Park, off the east side of Bryn Lane including levelling, regrading and resurfacing,
 
@@ -156,4 +156,4 @@ and such other ancillary buildings, structures, works or operations as are integ
 
 ## Annotations
 
-[^key-caa12b4aa6fc2efe6953d4f247cace0b]: Commencement: Sch. 1 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-caa12b4aa6fc2efe6953d4f247cace0b]: Commencement: Sch. 1 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)

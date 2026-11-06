@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Assistance in relation to children's services planning[^key-5b3b5b3fbd9594cee0d263c95aa1d09a]
+## 14. Assistance in relation to children's services planning[^c-5b3b5b3fbd9594cee0d263c95aa1d09a]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b3b5b3fbd9594cee0d263c95aa1d09a]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2014/8/section/14) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)
+[^c-5b3b5b3fbd9594cee0d263c95aa1d09a]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2014/8/section/14) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)

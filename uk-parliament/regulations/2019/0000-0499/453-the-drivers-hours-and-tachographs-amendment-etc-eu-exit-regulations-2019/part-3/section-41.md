@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Road Traffic Offenders Act 1988[^key-ec866ae68d7a33cb90a7dcf2e2fba4a0]
+## 41. Road Traffic Offenders Act 1988[^c-ec866ae68d7a33cb90a7dcf2e2fba4a0]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ The Road Traffic Offenders Act 1988 [^c23621001] is amended as follows.
 
 ## Annotations
 
-[^key-ec866ae68d7a33cb90a7dcf2e2fba4a0]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-ec866ae68d7a33cb90a7dcf2e2fba4a0]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23621001]: Marginal citation: [1988 c. 53](https://www.legislation.gov.uk/ukpga/1988/53).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13A. Reductions by billing authority[^key-5ff3752b0ab0cd42972c2cddbe2e6495]
+## 13A. Reductions by billing authority[^c-5ff3752b0ab0cd42972c2cddbe2e6495]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ff3752b0ab0cd42972c2cddbe2e6495]: Textual amendment: S. 13A substituted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 10(1)](https://www.legislation.gov.uk/ukpga/2012/17/section/10/1)
+[^c-5ff3752b0ab0cd42972c2cddbe2e6495]: Textual amendment: S. 13A substituted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 10(1)](https://www.legislation.gov.uk/ukpga/2012/17/section/10/1)

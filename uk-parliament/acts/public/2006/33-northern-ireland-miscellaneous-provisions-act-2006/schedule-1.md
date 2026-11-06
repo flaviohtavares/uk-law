@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Amendments of 2000 Act[^key-d976c939ec2b5a61630928ce4d292f19]
+## SCHEDULE 1 — Amendments of 2000 Act[^c-d976c939ec2b5a61630928ce4d292f19]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ Section 14
 
 ## Annotations
 
-[^key-d976c939ec2b5a61630928ce4d292f19]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/ukpga/2006/33/schedule/1) heading substituted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/1/1/b), [28(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/a/i)
+[^c-d976c939ec2b5a61630928ce4d292f19]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/ukpga/2006/33/schedule/1) heading substituted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2014/13/section/1/1/b), [28(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/a/i)

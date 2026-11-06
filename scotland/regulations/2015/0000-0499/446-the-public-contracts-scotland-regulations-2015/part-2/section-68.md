@@ -35,19 +35,19 @@ summary: ''
 
 - (a) it is based on objectively verifiable and non-discriminatory criteria and, in particular, where it has not been established for repeated or continuous application, it must not unduly favour or disadvantage certain economic operators;
 - (b) it is accessible to all interested parties;
-- (c) the data required can be provided with reasonable effort by normally diligent economic operators[^key-25a2a93e32e9a9c3730b51215f12555e]....
+- (c) the data required can be provided with reasonable effort by normally diligent economic operators[^c-25a2a93e32e9a9c3730b51215f12555e]....
 
 (4) Where a contracting authority assesses costs using a life-cycle costing approach, the authority must indicate in the procurement documents—
 
 - (a) the data to be provided by the tenderers; and
 - (b) the method which the contracting authority will use to determine the life-cycle costs on the basis of those data.
 
-(5)[^key-c0dcae687011061a48d3b15edf5477d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c0dcae687011061a48d3b15edf5477d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-c0dcae687011061a48d3b15edf5477d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c0dcae687011061a48d3b15edf5477d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-25a2a93e32e9a9c3730b51215f12555e]: Textual amendment: Words in [reg. 68(3)(c)](https://www.legislation.gov.uk/ssi/2015/446/regulation/68/3/c) omitted (31.12.2021) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/4), [5(3)](https://www.legislation.gov.uk/ssi/2020/468/regulation/5/3) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1), [10-15](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/10))
+[^c-25a2a93e32e9a9c3730b51215f12555e]: Textual amendment: Words in [reg. 68(3)(c)](https://www.legislation.gov.uk/ssi/2015/446/regulation/68/3/c) omitted (31.12.2021) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(4)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/4), [5(3)](https://www.legislation.gov.uk/ssi/2020/468/regulation/5/3) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1), [10-15](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/10))
 
-[^key-c0dcae687011061a48d3b15edf5477d9]: Textual amendment: [Reg. 68(5)](https://www.legislation.gov.uk/ssi/2015/446/regulation/68/5)[(6)](https://www.legislation.gov.uk/ssi/2015/446/regulation/68/6) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(47)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/47/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-c0dcae687011061a48d3b15edf5477d9]: Textual amendment: [Reg. 68(5)](https://www.legislation.gov.uk/ssi/2015/446/regulation/68/5)[(6)](https://www.legislation.gov.uk/ssi/2015/446/regulation/68/6) omitted (31.12.2020) by virtue of [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(47)(b)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/47/b) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Native and non-native species etc[^key-4b05c5a3fff52d4f6c73c433d21063b5][^key-04297c378900273ca83f3d8721f50ac3]
+## 24. Native and non-native species etc[^c-4b05c5a3fff52d4f6c73c433d21063b5][^c-04297c378900273ca83f3d8721f50ac3]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4b05c5a3fff52d4f6c73c433d21063b5]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2015/7/section/24) in force at 5.3.2015 for E. by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/b)
+[^c-4b05c5a3fff52d4f6c73c433d21063b5]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2015/7/section/24) in force at 5.3.2015 for E. by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/b)
 
-[^key-04297c378900273ca83f3d8721f50ac3]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2015/7/section/24) in force at 12.4.2015 for W. by [S.I. 2015/990](https://www.legislation.gov.uk/wsi/2015/990), [reg. 2](https://www.legislation.gov.uk/wsi/2015/990/regulation/2)
+[^c-04297c378900273ca83f3d8721f50ac3]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2015/7/section/24) in force at 12.4.2015 for W. by [S.I. 2015/990](https://www.legislation.gov.uk/wsi/2015/990), [reg. 2](https://www.legislation.gov.uk/wsi/2015/990/regulation/2)

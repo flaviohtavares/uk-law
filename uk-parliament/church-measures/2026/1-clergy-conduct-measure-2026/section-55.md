@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 55. Conviction, arrest, caution etc[^key-93faa3a6b262d00a55d6bcf904686e77]
+## 55. Conviction, arrest, caution etc[^c-93faa3a6b262d00a55d6bcf904686e77]
 
 *Extent: E*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93faa3a6b262d00a55d6bcf904686e77]: Commencement: S. 55 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-93faa3a6b262d00a55d6bcf904686e77]: Commencement: S. 55 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

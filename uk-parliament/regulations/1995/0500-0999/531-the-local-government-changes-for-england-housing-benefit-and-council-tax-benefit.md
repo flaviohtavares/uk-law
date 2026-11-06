@@ -60,7 +60,7 @@ These Regulations may be cited as the Local Government Changes for England (Hous
 - “the 1987 Regulations" means the Housing Benefit (General) Regulations 1987 [^c1787878];
 - “the 1992 Regulations" means the Council Tax Benefit (General) Regulations 1992 [^c1787879];
 - “abolished authority" means a principal council which is or is to be wound up and dissolved by a section 17 order;
-- “designated authority”means—[^key-ca1f6fc03ccfc343b6242cf9fb1cd562]
+- “designated authority”means—[^c-ca1f6fc03ccfc343b6242cf9fb1cd562]
   - (a) in a case where there are two or more successor authorities in relation to an abolished authority which are principal councils, the successor authority which is specified in a section 17 Order as the designated authority in relation to regulation 6(8) and Part III of the Local Government Changes for England (Property Transfer and Transitional Payments) Regulations 1995; and
   - (b) in the case of the relinquishing authority and the acquiring authority in relation to a transferred area, the relinquishing authority;
 - “the reorganisation date", in relation to an authority, means the date (being 1st April in any year) which is specified as such in a section 17 order;
@@ -78,7 +78,7 @@ These Regulations may be cited as the Local Government Changes for England (Hous
 
 ## 3. Modification of the Administration Act
 
-Subject to regulation 5 below,[^key-5379025e618f94d49da1daee541437d2] the Administration Act shall be modified so that any reference in sections 75, 76 [^c1787881], 127, 128 [^c1787882], 135 and 140 [^c1787883] of that Act to “authority" or “authorities", shall be taken, in the case of an abolished authority or, as the case may be, a relinquishing authority for a transferred area, to be a reference also to the successor or, as the case may be, acquiring authority.
+Subject to regulation 5 below,[^c-5379025e618f94d49da1daee541437d2] the Administration Act shall be modified so that any reference in sections 75, 76 [^c1787881], 127, 128 [^c1787882], 135 and 140 [^c1787883] of that Act to “authority" or “authorities", shall be taken, in the case of an abolished authority or, as the case may be, a relinquishing authority for a transferred area, to be a reference also to the successor or, as the case may be, acquiring authority.
 
 ## 4. Termination of benefit periods
 
@@ -97,7 +97,7 @@ Subject to regulation 5 below,[^key-5379025e618f94d49da1daee541437d2] the Admini
 
 (5) Expressions used in this regulation shall have, unless the context otherwise requires, the same meaning as they have in the 1987, or as the case may be, 1992 Regulations.
 
-## 5. Designation of authorities for subsidy purposes[^key-6d658a2aa7377547913c87858ecd9739]
+## 5. Designation of authorities for subsidy purposes[^c-6d658a2aa7377547913c87858ecd9739]
 
 In relation to any benefit granted or allowed before the reorganisation date, for the purposes of—
 
@@ -137,11 +137,11 @@ These Regulations do not impose a charge on businesses.
 
 [^c1787879]: Marginal citation: [S.I. 1992/1814](https://www.legislation.gov.uk/uksi/1992/1814); amended by [S.I. 1993/349](https://www.legislation.gov.uk/uksi/1993/349), 688, 963, 1150, 1249, 1540, 2118, 1994/470, 578, 1925, 2137 and 3061.
 
-[^key-ca1f6fc03ccfc343b6242cf9fb1cd562]: Textual amendment: Words in reg. 2(1) inserted (1.4.1996) by [The Local Government Changes for England (Housing Benefit and Council Tax Benefit) Amendment Regulations 1996 (S.I. 1996/547)](https://www.legislation.gov.uk/uksi/1996/547), [regs. 1](https://www.legislation.gov.uk/uksi/1996/547/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/547/regulation/2/2)
+[^c-ca1f6fc03ccfc343b6242cf9fb1cd562]: Textual amendment: Words in reg. 2(1) inserted (1.4.1996) by [The Local Government Changes for England (Housing Benefit and Council Tax Benefit) Amendment Regulations 1996 (S.I. 1996/547)](https://www.legislation.gov.uk/uksi/1996/547), [regs. 1](https://www.legislation.gov.uk/uksi/1996/547/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1996/547/regulation/2/2)
 
 [^c1787880]: Marginal citation: [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867).
 
-[^key-5379025e618f94d49da1daee541437d2]: Textual amendment: Words in reg. 3 inserted (1.4.1996) by [The Local Government Changes for England (Housing Benefit and Council Tax Benefit) Amendment Regulations 1996 (S.I. 1996/547)](https://www.legislation.gov.uk/uksi/1996/547), [regs. 1](https://www.legislation.gov.uk/uksi/1996/547/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1996/547/regulation/2/3)
+[^c-5379025e618f94d49da1daee541437d2]: Textual amendment: Words in reg. 3 inserted (1.4.1996) by [The Local Government Changes for England (Housing Benefit and Council Tax Benefit) Amendment Regulations 1996 (S.I. 1996/547)](https://www.legislation.gov.uk/uksi/1996/547), [regs. 1](https://www.legislation.gov.uk/uksi/1996/547/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1996/547/regulation/2/3)
 
 [^c1787881]: Marginal citation: Section 76 was amended by the Local Government Finance Act 1992, section 103 and Schedule 9 paragraph 15.
 
@@ -157,4 +157,4 @@ These Regulations do not impose a charge on businesses.
 
 [^c1787887]: Marginal citation: Regulation 70 was amended by [S.I. 1993/688](https://www.legislation.gov.uk/uksi/1993/688) and 1994/2137.
 
-[^key-6d658a2aa7377547913c87858ecd9739]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/531/regulation/5) added (1.4.1996) by [The Local Government Changes for England (Housing Benefit and Council Tax Benefit) Amendment Regulations 1996 (S.I. 1996/547)](https://www.legislation.gov.uk/uksi/1996/547), [regs. 1](https://www.legislation.gov.uk/uksi/1996/547/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1996/547/regulation/2/4)
+[^c-6d658a2aa7377547913c87858ecd9739]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/531/regulation/5) added (1.4.1996) by [The Local Government Changes for England (Housing Benefit and Council Tax Benefit) Amendment Regulations 1996 (S.I. 1996/547)](https://www.legislation.gov.uk/uksi/1996/547), [regs. 1](https://www.legislation.gov.uk/uksi/1996/547/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1996/547/regulation/2/4)

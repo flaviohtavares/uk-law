@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**25.**[^key-0d43cc8839b438b8aa411009e52a3c7b] In rule 60.4, in subparagraph (c), for “county court” substitute “County Court hearing centre”.
+**25.**[^c-0d43cc8839b438b8aa411009e52a3c7b] In rule 60.4, in subparagraph (c), for “county court” substitute “County Court hearing centre”.
 
 ## Annotations
 
-[^key-0d43cc8839b438b8aa411009e52a3c7b]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2014/407/rule/25) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
+[^c-0d43cc8839b438b8aa411009e52a3c7b]: Commencement: [Rule 25](https://www.legislation.gov.uk/uksi/2014/407/rule/25) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)

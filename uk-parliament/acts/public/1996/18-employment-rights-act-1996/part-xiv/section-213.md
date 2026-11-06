@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213. Intervals in employment.[^key-021857c09bfca348de00157312468209][^key-1ea05877e335e92192e96a8d5eb26d2f][^key-99307445b30dd5592a3e60b5d8ffa0d1][^key-e8b4503cc39f98c52d86cf6f8d86e1a7][^key-8765a22d85ae2b200c6f288d49c338d2]
+## 213. Intervals in employment.[^c-021857c09bfca348de00157312468209][^c-1ea05877e335e92192e96a8d5eb26d2f][^c-99307445b30dd5592a3e60b5d8ffa0d1][^c-e8b4503cc39f98c52d86cf6f8d86e1a7][^c-8765a22d85ae2b200c6f288d49c338d2]
 
 *Extent: E+W+S*
 
@@ -28,12 +28,12 @@ summary: ''
 
 ## Annotations
 
-[^key-021857c09bfca348de00157312468209]: Modification: Ss. 210-219 applied (E.W.) (1.4.2020) by [The Agricultural Wages (Wales) Order 2020 (S.I. 2020/347)](https://www.legislation.gov.uk/wsi/2020/347), [arts. 1](https://www.legislation.gov.uk/wsi/2020/347/article/1), [2(3)](https://www.legislation.gov.uk/wsi/2020/347/article/2/3)
+[^c-021857c09bfca348de00157312468209]: Modification: Ss. 210-219 applied (E.W.) (1.4.2020) by [The Agricultural Wages (Wales) Order 2020 (S.I. 2020/347)](https://www.legislation.gov.uk/wsi/2020/347), [arts. 1](https://www.legislation.gov.uk/wsi/2020/347/article/1), [2(3)](https://www.legislation.gov.uk/wsi/2020/347/article/2/3)
 
-[^key-1ea05877e335e92192e96a8d5eb26d2f]: Modification: [Ss. 210-219](https://www.legislation.gov.uk/ukpga/1996/18/section/210) applied (22.4.2022) by [The Agricultural Wages (Wales) Order 2022 (S.I. 2022/417)](https://www.legislation.gov.uk/wsi/2022/417), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/417/article/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2022/417/article/2/3)
+[^c-1ea05877e335e92192e96a8d5eb26d2f]: Modification: [Ss. 210-219](https://www.legislation.gov.uk/ukpga/1996/18/section/210) applied (22.4.2022) by [The Agricultural Wages (Wales) Order 2022 (S.I. 2022/417)](https://www.legislation.gov.uk/wsi/2022/417), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/417/article/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2022/417/article/2/3)
 
-[^key-99307445b30dd5592a3e60b5d8ffa0d1]: Modification: Ss. 210-219 applied (E.W.) (6.8.2022 with effect from 1.4.2022) by [The Agricultural Wages (No. 2) (Wales) Order 2022 (S.I. 2022/794)](https://www.legislation.gov.uk/uksi/2022/794), [arts. 1](https://www.legislation.gov.uk/uksi/2022/794/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/794/article/2/3)
+[^c-99307445b30dd5592a3e60b5d8ffa0d1]: Modification: Ss. 210-219 applied (E.W.) (6.8.2022 with effect from 1.4.2022) by [The Agricultural Wages (No. 2) (Wales) Order 2022 (S.I. 2022/794)](https://www.legislation.gov.uk/uksi/2022/794), [arts. 1](https://www.legislation.gov.uk/uksi/2022/794/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/794/article/2/3)
 
-[^key-e8b4503cc39f98c52d86cf6f8d86e1a7]: Modification: [Ss. 210-219](https://www.legislation.gov.uk/ukpga/1996/18/section/210) applied (1.4.2023) by [The Agricultural Wages (Wales) Order 2023 (S.I. 2023/260)](https://www.legislation.gov.uk/uksi/2023/260), [arts. 1](https://www.legislation.gov.uk/uksi/2023/260/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/260/article/2/3)
+[^c-e8b4503cc39f98c52d86cf6f8d86e1a7]: Modification: [Ss. 210-219](https://www.legislation.gov.uk/ukpga/1996/18/section/210) applied (1.4.2023) by [The Agricultural Wages (Wales) Order 2023 (S.I. 2023/260)](https://www.legislation.gov.uk/uksi/2023/260), [arts. 1](https://www.legislation.gov.uk/uksi/2023/260/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/260/article/2/3)
 
-[^key-8765a22d85ae2b200c6f288d49c338d2]: Modification: [Ss. 210-219](https://www.legislation.gov.uk/ukpga/1996/18/section/210) applied (W.) (1.4.2024) by [The Agricultural Wages (Wales) Order 2024 (S.I. 2024/390)](https://www.legislation.gov.uk/uksi/2024/390), [arts. 1](https://www.legislation.gov.uk/uksi/2024/390/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/390/article/2/3)
+[^c-8765a22d85ae2b200c6f288d49c338d2]: Modification: [Ss. 210-219](https://www.legislation.gov.uk/ukpga/1996/18/section/210) applied (W.) (1.4.2024) by [The Agricultural Wages (Wales) Order 2024 (S.I. 2024/390)](https://www.legislation.gov.uk/uksi/2024/390), [arts. 1](https://www.legislation.gov.uk/uksi/2024/390/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/390/article/2/3)

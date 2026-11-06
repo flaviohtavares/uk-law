@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Commission[^key-9a76fbd8edf1b69d9fd4211f25f235a2] may, by written notice (an “information notice”)—
+(1) The Commission[^c-9a76fbd8edf1b69d9fd4211f25f235a2] may, by written notice (an “information notice”)—
 
 - (a) require a controller or processor to provide the Commission with information or documents[^M_F_12d5cb7d-9242-4306-8fcb-128201d3d5b8] that the Commission reasonably requires for the purposes of carrying out the Commission's functions under the data protection legislation, or
 - (b) require any person to provide the Commission with information or documents[^M_F_2a8ccb4b-23d2-47ce-84d1-27550a68f8b0] that the Commission reasonably requires for the purposes of—
@@ -52,14 +52,14 @@ summary: ''
 
 (7) If an information notice—
 
-- (a) states that, in the Commission's[^key-ae750498ef2ad09762c0c1fc8c5bb637] opinion, the information or documents are[^M_F_52d30066-030c-4f2a-ce3a-895ee31afee6] required urgently, and
+- (a) states that, in the Commission's[^c-ae750498ef2ad09762c0c1fc8c5bb637] opinion, the information or documents are[^M_F_52d30066-030c-4f2a-ce3a-895ee31afee6] required urgently, and
 - (b) gives the Commission's reasons for reaching that opinion,
 
 subsections (5) and (6) do not apply but the notice must not require the information or documents[^M_F_47a92ea1-e5ca-4da2-97ca-e0cf3abaa9e8] to be provided before the end of the period of 24 hours beginning when the notice is given.
 
 (8) The Commission may cancel an information notice by written notice to the person to whom it was given.
 
-(9) In subsection (1), in relation to a person who is a controller or processor for the purposes of the UK GDPR[^key-1f749532a8740f1e9eda4d0128a2a075], the reference to a controller or processor includes a representative of a controller or processor designated under Article 27 of the UK GDPR (representatives of controllers or processors not established in the United Kingdom[^key-b4c0aed7d7060e936e448ad89b19a7f3]).
+(9) In subsection (1), in relation to a person who is a controller or processor for the purposes of the UK GDPR[^c-1f749532a8740f1e9eda4d0128a2a075], the reference to a controller or processor includes a representative of a controller or processor designated under Article 27 of the UK GDPR (representatives of controllers or processors not established in the United Kingdom[^c-b4c0aed7d7060e936e448ad89b19a7f3]).
 
 (10) Section 3(14)(c) does not apply to the reference to the processing of personal data in subsection (1)(b).
 
@@ -67,7 +67,7 @@ subsections (5) and (6) do not apply but the notice must not require the informa
 
 [^M_I_81571ff7-69ee-497b-8b80-fa5821132c00]: Commencement: S. 142 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/f)
 
-[^key-9a76fbd8edf1b69d9fd4211f25f235a2]: Textual amendment: Word in s. 142(1)(2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-9a76fbd8edf1b69d9fd4211f25f235a2]: Textual amendment: Word in s. 142(1)(2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^M_F_12d5cb7d-9242-4306-8fcb-128201d3d5b8]: Textual amendment: Words in s. 142(1)(a) inserted (19.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 97(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2025/18/section/97/2/a/i), [142(3)(d)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/d)
 
@@ -87,12 +87,12 @@ subsections (5) and (6) do not apply but the notice must not require the informa
 
 [^M_F_c8f2d8ea-5a01-446a-f9d6-8bfb6ac30e0f]: Textual amendment: Words in s. 142(6) inserted (19.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 97(2)(e)](https://www.legislation.gov.uk/ukpga/2025/18/section/97/2/e), [142(3)(d)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/d)
 
-[^key-ae750498ef2ad09762c0c1fc8c5bb637]: Textual amendment: Word in s. 142(7)(8) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-ae750498ef2ad09762c0c1fc8c5bb637]: Textual amendment: Word in s. 142(7)(8) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^M_F_52d30066-030c-4f2a-ce3a-895ee31afee6]: Textual amendment: Words in s. 142(7)(a) substituted (19.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 97(2)(f)(i)](https://www.legislation.gov.uk/ukpga/2025/18/section/97/2/f/i), [142(3)(d)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/d)
 
 [^M_F_47a92ea1-e5ca-4da2-97ca-e0cf3abaa9e8]: Textual amendment: Words in s. 142(7) inserted (19.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 97(2)(f)(ii)](https://www.legislation.gov.uk/ukpga/2025/18/section/97/2/f/ii), [142(3)(d)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/d)
 
-[^key-1f749532a8740f1e9eda4d0128a2a075]: Textual amendment: Words in s. 142(9) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 59(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/59/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f749532a8740f1e9eda4d0128a2a075]: Textual amendment: Words in s. 142(9) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 59(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/59/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b4c0aed7d7060e936e448ad89b19a7f3]: Textual amendment: Words in s. 142(9) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 59(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/59/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4c0aed7d7060e936e448ad89b19a7f3]: Textual amendment: Words in s. 142(9) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 59(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/59/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

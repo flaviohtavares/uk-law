@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14A. Appeal to Supreme Court: grant of certificate by Upper Tribunal[^key-68eaaf09ce5851206335b7fc5b84c30a]
+## 14A. Appeal to Supreme Court: grant of certificate by Upper Tribunal[^c-68eaaf09ce5851206335b7fc5b84c30a]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ the Upper Tribunal may grant a certificate to that effect.
 
 ## Annotations
 
-[^key-68eaaf09ce5851206335b7fc5b84c30a]: Textual amendment: Ss. 14A-14C inserted (8.8.2016) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 64](https://www.legislation.gov.uk/ukpga/2015/2/section/64), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/717/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/717/article/4))
+[^c-68eaaf09ce5851206335b7fc5b84c30a]: Textual amendment: Ss. 14A-14C inserted (8.8.2016) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [ss. 64](https://www.legislation.gov.uk/ukpga/2015/2/section/64), [95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1); [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/717/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/717/article/4))

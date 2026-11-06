@@ -32,7 +32,7 @@ summary: ''
 
 Town And Country Planning, England
 
-The Planning (Hazardous Substances) (Amendment) (England) Regulations 2009 (revoked)[^key-35a9454409246b47cf45eee84787d4d2]
+The Planning (Hazardous Substances) (Amendment) (England) Regulations 2009 (revoked)[^c-35a9454409246b47cf45eee84787d4d2]
 
 Made
 
@@ -46,92 +46,92 @@ Coming into force
 
 1st October 2009
 
-[^key-35a9454409246b47cf45eee84787d4d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35a9454409246b47cf45eee84787d4d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-35a9454409246b47cf45eee84787d4d2]
+## 1. Citation, commencement, application and interpretation[^c-35a9454409246b47cf45eee84787d4d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Planning (Hazardous Substances) Regulations 1992[^key-35a9454409246b47cf45eee84787d4d2]
+## 2. Amendment of the Planning (Hazardous Substances) Regulations 1992[^c-35a9454409246b47cf45eee84787d4d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision: existing consents[^key-35a9454409246b47cf45eee84787d4d2]
+## 3. Transitional provision: existing consents[^c-35a9454409246b47cf45eee84787d4d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional exemptions[^key-35a9454409246b47cf45eee84787d4d2]
+## 4. Transitional exemptions[^c-35a9454409246b47cf45eee84787d4d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35a9454409246b47cf45eee84787d4d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35a9454409246b47cf45eee84787d4d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-35a9454409246b47cf45eee84787d4d2]
+## SCHEDULE[^c-35a9454409246b47cf45eee84787d4d2]
 
 Regulation 2
 
-> **SCHEDULE 1 — HAZARDOUS SUBSTANCES AND CONTROLLED QUANTITIES[^key-35a9454409246b47cf45eee84787d4d2]**
+> **SCHEDULE 1 — HAZARDOUS SUBSTANCES AND CONTROLLED QUANTITIES[^c-35a9454409246b47cf45eee84787d4d2]**
 >
 > Regulation 3
 >
-> **PART A — NAMED SUBSTANCES[^key-35a9454409246b47cf45eee84787d4d2]**
+> **PART A — NAMED SUBSTANCES[^c-35a9454409246b47cf45eee84787d4d2]**
 >
-> **1. NOTES TO PART A[^key-35a9454409246b47cf45eee84787d4d2]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **2.**[^key-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **3.**[^key-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **4.**[^key-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **5.**[^key-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **6.**[^key-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **7.**[^key-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **8.**[^key-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **PART B — CATEGORIES OF SUBSTANCES AND PREPARATIONS NOT SPECIFICALLY NAMED IN PART A[^key-35a9454409246b47cf45eee84787d4d2]**
->
-> **1. NOTES TO PART B[^key-35a9454409246b47cf45eee84787d4d2]**
+> **1. NOTES TO PART A[^c-35a9454409246b47cf45eee84787d4d2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **1. NOTES TO PARTS A AND B[^key-35a9454409246b47cf45eee84787d4d2]**
+> **4.**[^c-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **PART B — CATEGORIES OF SUBSTANCES AND PREPARATIONS NOT SPECIFICALLY NAMED IN PART A[^c-35a9454409246b47cf45eee84787d4d2]**
 >
-> **PART C — SUBSTANCES USED IN AN INDUSTRIAL CHEMICAL PROCESS[^key-35a9454409246b47cf45eee84787d4d2]**
->
-> **1. NOTES TO PART C[^key-35a9454409246b47cf45eee84787d4d2]**
+> **1. NOTES TO PART B[^c-35a9454409246b47cf45eee84787d4d2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **3.**[^c-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **1. NOTES TO PARTS A AND B[^c-35a9454409246b47cf45eee84787d4d2]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **2.**[^c-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **3.**[^c-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **4.**[^c-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **5.**[^c-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **PART C — SUBSTANCES USED IN AN INDUSTRIAL CHEMICAL PROCESS[^c-35a9454409246b47cf45eee84787d4d2]**
+>
+> **1. NOTES TO PART C[^c-35a9454409246b47cf45eee84787d4d2]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **2.**[^c-35a9454409246b47cf45eee84787d4d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-35a9454409246b47cf45eee84787d4d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35a9454409246b47cf45eee84787d4d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-35a9454409246b47cf45eee84787d4d2]: Textual amendment: Regulations revoked (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2015/627/regulation/28) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-35a9454409246b47cf45eee84787d4d2]: Textual amendment: Regulations revoked (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2015/627/regulation/28) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))

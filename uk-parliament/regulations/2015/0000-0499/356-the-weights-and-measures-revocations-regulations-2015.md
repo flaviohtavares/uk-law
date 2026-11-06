@@ -54,7 +54,7 @@ The Secretary of State is a Minister designated[^f00001] for the purposes of sec
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by that section and the powers conferred by sections 10(1), 11(1) and (4), 15(1) and (2), 86(1) and 94(1)[^f00003] of the Weights and Measures Act 1985[^f00004].
 
-## 1. Citation and commencement[^key-6f01bd28cf63af8348ae2913fcb07cb9]
+## 1. Citation and commencement[^c-6f01bd28cf63af8348ae2913fcb07cb9]
 
 (1) These Regulations may be cited as the Weights and Measures (Revocations) Regulations 2015.
 
@@ -63,7 +63,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (a) insofar as is necessary to give effect to Part 1 of the Schedule, on 25th March 2015; and
 - (b) for all remaining purposes, on 1st December 2015.
 
-## 2. Revocations[^key-bd0a0fc18c7550c969fe6204fc1ad5a7][^key-086e183fd3604bc7a6517d5cea68cb38]
+## 2. Revocations[^c-bd0a0fc18c7550c969fe6204fc1ad5a7][^c-086e183fd3604bc7a6517d5cea68cb38]
 
 The Schedule to these Regulations (Revocations, Amendments and Savings Provisions) has effect.
 
@@ -79,7 +79,7 @@ Regulation 2
 
 ### PART 1 — CAPACITY SERVING MEASURES - REVOCATIONS ETC.
 
-**1.**[^key-3cbf84ccd006d7e8747bc9447e2556e1][^key-64f3816da1c81ca650bac263eacf8232] The Regulations specified in Table 1 are revoked to the extent specified in that table.
+**1.**[^c-3cbf84ccd006d7e8747bc9447e2556e1][^c-64f3816da1c81ca650bac263eacf8232] The Regulations specified in Table 1 are revoked to the extent specified in that table.
 
 Table 1
 
@@ -93,13 +93,13 @@ Table 1
 | The Weights and Measures (Packaged Goods) Regulations 2006 | [S.I. 2006/659](https://www.legislation.gov.uk/uksi/2006/659) | Paragraph (19) of Part 2 of Schedule 1 |
 | The Weights and Measures (Metrication Amendments) Regulations 2009 | [S.I. 2009/3045](https://www.legislation.gov.uk/uksi/2009/3045) | Regulation 3(2)(e) |
 
-**2.**[^key-43b8fc93d1f854c6041de04d8d4afeab][^key-51cf1ac5476739d2097f651acd212ee4] (1) The Measuring Equipment (Capacity Measures and Testing Equipment) Regulations 1995[^f00005] are amended as follows.
+**2.**[^c-43b8fc93d1f854c6041de04d8d4afeab][^c-51cf1ac5476739d2097f651acd212ee4] (1) The Measuring Equipment (Capacity Measures and Testing Equipment) Regulations 1995[^f00005] are amended as follows.
 
 (2) In regulation 3(1)(a) for “apply” substitute “applied before the revocation of those Regulations by the Weights and Measures (Revocations) Regulations 2015”.
 
 ### PART 2 — REVOCATIONS ETC. RELATED TO THE IMPLEMENTATION OF DIRECTIVES 2011/17/EU AND [2004/22/EC](https://www.legislation.gov.uk/european/directive/2004/0022)
 
-**3.**[^key-4a3826d8a1c5308925e3a1dce81d7586] Subject to paragraphs 4 to 6, the Regulations specified in Table 2 are revoked to the extent specified in that table.
+**3.**[^c-4a3826d8a1c5308925e3a1dce81d7586] Subject to paragraphs 4 to 6, the Regulations specified in Table 2 are revoked to the extent specified in that table.
 
 Table 2
 
@@ -120,9 +120,9 @@ Table 2
 
 *Extent: E+W+S*
 
-**4.**[^key-0950e8802a87221f2085255972682e3d][^M_E_6d42541c-7e6e-48f1-ad03-b996e789dd23] (1)[^key-4d9c7b86ab78132ed0adb9538591d0c8] Notwithstanding the revocation of the Alcoholometers and Alcohol Hydrometers (EEC Requirements) Regulations 1977 by these Regulations, the Alcoholometers and Alcohol Hydrometers (EEC Requirements) Regulations 1977 continue in force until 30th November 2025 in relation to EC pattern approval certificates issued under them on or before 30th November 2015.
+**4.**[^c-0950e8802a87221f2085255972682e3d][^M_E_6d42541c-7e6e-48f1-ad03-b996e789dd23] (1)[^c-4d9c7b86ab78132ed0adb9538591d0c8] Notwithstanding the revocation of the Alcoholometers and Alcohol Hydrometers (EEC Requirements) Regulations 1977 by these Regulations, the Alcoholometers and Alcohol Hydrometers (EEC Requirements) Regulations 1977 continue in force until 30th November 2025 in relation to EC pattern approval certificates issued under them on or before 30th November 2015.
 
-(2)[^key-e86ca639357a7f6cdd3810585e92cb7b] But those Regulations, to the extent saved by sub-paragraph (1), cease to have effect on IP completion day so far as they provide for the carrying out of EEC initial verification in Great Britain, except pursuant to an application made before that day.
+(2)[^c-e86ca639357a7f6cdd3810585e92cb7b] But those Regulations, to the extent saved by sub-paragraph (1), cease to have effect on IP completion day so far as they provide for the carrying out of EEC initial verification in Great Britain, except pursuant to an application made before that day.
 
 *Extent: N.I.*
 
@@ -130,23 +130,23 @@ Table 2
 
 *Extent: E+W+S*
 
-**5.**[^key-5d2e348fb3cf254ab3cd005616fea70b][^M_E_7e13d23f-5d80-47ce-9a77-84369734b821] (1) Notwithstanding the revocation by these Regulations of the Measuring Instruments (EEC Requirements) Regulations 1998 (“the 1988 Regulations”), the 1988 Regulations continue in force to the extent provided in this paragraph.
+**5.**[^c-5d2e348fb3cf254ab3cd005616fea70b][^M_E_7e13d23f-5d80-47ce-9a77-84369734b821] (1) Notwithstanding the revocation by these Regulations of the Measuring Instruments (EEC Requirements) Regulations 1998 (“the 1988 Regulations”), the 1988 Regulations continue in force to the extent provided in this paragraph.
 
 (2) Expressions used in this paragraph have the same meanings as in the 1988 Regulations.
 
-(3) Subject to sub-paragraph (5),[^key-fc0bef78c1c0ad7812cd9fd2b23a704e] the 1988 Regulations continue in force until 30<sup>th</sup> November 2025 insofar as they relate to EEC initial verification of weights in conformity with:
+(3) Subject to sub-paragraph (5),[^c-fc0bef78c1c0ad7812cd9fd2b23a704e] the 1988 Regulations continue in force until 30<sup>th</sup> November 2025 insofar as they relate to EEC initial verification of weights in conformity with:
 
 - (a) the Directive on medium accuracy bar weights and cylindrical weights; and
 - (b) the Directive on above-medium accuracy weights.
 
-(4) Subject to sub-paragraph (5),[^key-c0ad526f4d3409cb6049e7db1886d81c] the 1988 Regulations continue in force until 30<sup>th</sup> November 2025 in relation to EC pattern approval certificates issued on or before 30<sup>th </sup>November 2015 for the purposes of:
+(4) Subject to sub-paragraph (5),[^c-c0ad526f4d3409cb6049e7db1886d81c] the 1988 Regulations continue in force until 30<sup>th</sup> November 2025 in relation to EC pattern approval certificates issued on or before 30<sup>th </sup>November 2015 for the purposes of:
 
 - (a) the Directive on the measuring of the standard mass per storage volume of grain;
 - (b) the Directive on cold-water meters;
 - (c) the Directive on tyre pressure gauges for motor vehicles; and
 - (d) the Directive on material measures of length.
 
-(5)[^key-b11e0611c3e0f70d4820113725e01c4d] The 1988 Regulations (to the extent saved by sub-paragraphs (3) and (4)) cease to have effect on IP completion day so far as those Regulations provide for the carrying out of EEC initial verification in Great Britain, except pursuant to an application made before that day.
+(5)[^c-b11e0611c3e0f70d4820113725e01c4d] The 1988 Regulations (to the extent saved by sub-paragraphs (3) and (4)) cease to have effect on IP completion day so far as those Regulations provide for the carrying out of EEC initial verification in Great Britain, except pursuant to an application made before that day.
 
 *Extent: N.I.*
 
@@ -166,7 +166,7 @@ Table 2
 - (c) the Directive on tyre pressure gauges for motor vehicles; and
 - (d) the Directive on material measures of length.
 
-**6.**[^key-5f7dc3dd8acb108e7d0d9d3bf2d380f4] Notwithstanding the revocation of the Measuring Instruments (EEC Requirements)(Gas Volume Meters) Regulations 1988 by these Regulations, the Measuring Instruments (EEC Requirements)(Gas Volume Meters) Regulations 1988 continue in force until 30<sup>th</sup> October 2016 in relation to EC pattern approval certificates issued under them on or before 30<sup>th</sup> October 2006.
+**6.**[^c-5f7dc3dd8acb108e7d0d9d3bf2d380f4] Notwithstanding the revocation of the Measuring Instruments (EEC Requirements)(Gas Volume Meters) Regulations 1988 by these Regulations, the Measuring Instruments (EEC Requirements)(Gas Volume Meters) Regulations 1988 continue in force until 30<sup>th</sup> October 2016 in relation to EC pattern approval certificates issued under them on or before 30<sup>th</sup> October 2006.
 
 EXPLANATORY NOTE
 
@@ -190,48 +190,48 @@ No impact assessment has been prepared in relation to this instrument as no impa
 
 [^f00004]: Footnote: [1985 c.72](https://www.legislation.gov.uk/ukpga/1985/72).
 
-[^key-6f01bd28cf63af8348ae2913fcb07cb9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/356/regulation/1) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
+[^c-6f01bd28cf63af8348ae2913fcb07cb9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/356/regulation/1) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
 
-[^key-bd0a0fc18c7550c969fe6204fc1ad5a7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/356/regulation/2) in force at 25.3.2015 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/a)
+[^c-bd0a0fc18c7550c969fe6204fc1ad5a7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/356/regulation/2) in force at 25.3.2015 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/a)
 
-[^key-086e183fd3604bc7a6517d5cea68cb38]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/356/regulation/2) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
+[^c-086e183fd3604bc7a6517d5cea68cb38]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/356/regulation/2) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
 
-[^key-3cbf84ccd006d7e8747bc9447e2556e1]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/1) in force at 25.3.2015 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/a)
+[^c-3cbf84ccd006d7e8747bc9447e2556e1]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/1) in force at 25.3.2015 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/a)
 
-[^key-64f3816da1c81ca650bac263eacf8232]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/1) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
+[^c-64f3816da1c81ca650bac263eacf8232]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/1) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
 
-[^key-43b8fc93d1f854c6041de04d8d4afeab]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/2) in force at 25.3.2015 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/a)
+[^c-43b8fc93d1f854c6041de04d8d4afeab]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/2) in force at 25.3.2015 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/a)
 
-[^key-51cf1ac5476739d2097f651acd212ee4]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/2) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
+[^c-51cf1ac5476739d2097f651acd212ee4]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/2) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
 
 [^f00005]: Footnote: [S.I. 1995/735](https://www.legislation.gov.uk/uksi/1995/735) to which there are amendments which are not relevant to these Regulations.
 
-[^key-4a3826d8a1c5308925e3a1dce81d7586]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/3) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
+[^c-4a3826d8a1c5308925e3a1dce81d7586]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/3) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
 
-[^key-0950e8802a87221f2085255972682e3d]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/4) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
+[^c-0950e8802a87221f2085255972682e3d]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/4) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
 
 [^M_E_6d42541c-7e6e-48f1-ad03-b996e789dd23]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-4d9c7b86ab78132ed0adb9538591d0c8]: Textual amendment: Sch. para. 4 renumbered as Sch. para. 4(1) (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 17 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/17/paragraph/1/2/a) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d9c7b86ab78132ed0adb9538591d0c8]: Textual amendment: Sch. para. 4 renumbered as Sch. para. 4(1) (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 17 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/17/paragraph/1/2/a) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e86ca639357a7f6cdd3810585e92cb7b]: Textual amendment: [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/4/2) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 17 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/17/paragraph/1/2/b) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [4(6)](https://www.legislation.gov.uk/uksi/2020/676/regulation/4/6) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(g)(i)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/g/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e86ca639357a7f6cdd3810585e92cb7b]: Textual amendment: [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/4/2) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 17 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/17/paragraph/1/2/b) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [4(6)](https://www.legislation.gov.uk/uksi/2020/676/regulation/4/6) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(g)(i)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/g/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^V_NI_bd6c3b97-0b54-e5fa-b523-496de32cb05c]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/4) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
 
 [^M_E_a3ca2e76-7d40-4eed-92d5-c0b9aa471c0e]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-5d2e348fb3cf254ab3cd005616fea70b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/5) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
+[^c-5d2e348fb3cf254ab3cd005616fea70b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/5) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
 
 [^M_E_7e13d23f-5d80-47ce-9a77-84369734b821]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-fc0bef78c1c0ad7812cd9fd2b23a704e]: Textual amendment: Words in [Sch. para. 5(3)](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/5/3) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 17 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/17/paragraph/1/3/a) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc0bef78c1c0ad7812cd9fd2b23a704e]: Textual amendment: Words in [Sch. para. 5(3)](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/5/3) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 17 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/17/paragraph/1/3/a) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c0ad526f4d3409cb6049e7db1886d81c]: Textual amendment: Words in [Sch. para. 5(4)](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/5/4) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 17 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/17/paragraph/1/3/b) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0ad526f4d3409cb6049e7db1886d81c]: Textual amendment: Words in [Sch. para. 5(4)](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/5/4) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 17 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/17/paragraph/1/3/b) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b11e0611c3e0f70d4820113725e01c4d]: Textual amendment: [Sch. para. 5(5)](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/5/5) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 17 para. 1(3)(c)](https://www.legislation.gov.uk/uksi/2019/696/schedule/17/paragraph/1/3/c) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [4(6)](https://www.legislation.gov.uk/uksi/2020/676/regulation/4/6) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(g)(ii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/g/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b11e0611c3e0f70d4820113725e01c4d]: Textual amendment: [Sch. para. 5(5)](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/5/5) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 17 para. 1(3)(c)](https://www.legislation.gov.uk/uksi/2019/696/schedule/17/paragraph/1/3/c) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2), [4(6)](https://www.legislation.gov.uk/uksi/2020/676/regulation/4/6) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(g)(ii)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/g/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^V_NI_de60b926-cede-d4e5-44a8-8f22cf5aa570]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/5) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
 
 [^M_E_19acfe9b-4b27-4d20-fe4b-0912e6ea7697]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-5f7dc3dd8acb108e7d0d9d3bf2d380f4]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/6) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)
+[^c-5f7dc3dd8acb108e7d0d9d3bf2d380f4]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2015/356/schedule/paragraph/6) in force at 1.12.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/356/regulation/1/2/b)

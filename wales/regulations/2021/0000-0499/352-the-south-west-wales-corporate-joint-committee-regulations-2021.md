@@ -43,7 +43,7 @@ The requirements of the Local Government and Elections (Wales) Act 2021 (relatin
 
 A draft of this instrument has been laid before and approved by a resolution of Senedd Cymru in accordance with section 174(4) and (5)(i) and (k) of that Act.
 
-## 1. Title and coming into force[^key-e2bb76d64e3a990514ceb159cdc66a37]
+## 1. Title and coming into force[^c-e2bb76d64e3a990514ceb159cdc66a37]
 
 (1) The title of these Regulations is the South West Wales Corporate Joint Committee Regulations 2021.
 
@@ -54,26 +54,26 @@ A draft of this instrument has been laid before and approved by a resolution of 
 - (a) regulation 11;
 - (b) regulation 12;
 - (c) regulation 13;
-- (d) regulation 15 in so far as it relates to functions conferred on the South West Wales Corporate Joint Committee by regulation [^key-754fd3e0e0653e9fb5f4b8d6979456a2]... 12 or 13.
+- (d) regulation 15 in so far as it relates to functions conferred on the South West Wales Corporate Joint Committee by regulation [^c-754fd3e0e0653e9fb5f4b8d6979456a2]... 12 or 13.
 
-## 2. Interpretation[^key-ea0a57f6bbed6e30f4f0fd48079d47ee]
+## 2. Interpretation[^c-ea0a57f6bbed6e30f4f0fd48079d47ee]
 
 In these Regulations—
 
-- “the Brecon Beacons member” (*“aelod Bannau Brycheiniog”*) means the member appointed under regulation 8(1)[^key-571e55e80da2a861d0631e8458e29fb0];
-- “[^key-98f61add58b504603776a35930b00434]**the Brecon Beacons National Park Authority**” (“***Awdurdod Parc Cenedlaethol Bannau Brycheiniog***”) means the authority established for that National Park by the National Park Authorities (Wales) Order 1995 ([S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803));
+- “the Brecon Beacons member” (*“aelod Bannau Brycheiniog”*) means the member appointed under regulation 8(1)[^c-571e55e80da2a861d0631e8458e29fb0];
+- “[^c-98f61add58b504603776a35930b00434]**the Brecon Beacons National Park Authority**” (“***Awdurdod Parc Cenedlaethol Bannau Brycheiniog***”) means the authority established for that National Park by the National Park Authorities (Wales) Order 1995 ([S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803));
 - “constituent council” (*“cyngor cyfansoddiadol”*) means—
   - (a) Carmarthenshire county council;
   - (b) Neath Port Talbot county borough council;
   - (c) Pembrokeshire county council;
   - (d) Swansea county council;
-- “co-opted member” (“[^key-a2cc5a9ff2212f6262ad48bd7764e52c]*aelod cyfetholedig*”) has the meaning given by regulation 9(1);
+- “co-opted member” (“[^c-a2cc5a9ff2212f6262ad48bd7764e52c]*aelod cyfetholedig*”) has the meaning given by regulation 9(1);
 - “council member” (*“aelod cyngor”*) means a person referred to in regulation 7(1) or a person appointed under regulation 7(3);
 - “enactment” (“*deddfiad*”) means an enactment whenever enacted or made;
 - “financial year” means—
   - (a) the period of 12 months ending with 31 March 2022 (referred to in these Regulations as “the first financial year”);
   - (b) subsequently, a period of 12 months ending with 31 March;
-- [^key-cb427cf1af95758dd26f021091f3bd48]...
+- [^c-cb427cf1af95758dd26f021091f3bd48]...
 - “the Pembrokeshire Coast member” (“*aelod Arfordir Penfro*”) means the member appointed under regulation 8(2);
 - “**the Pembrokeshire Coast National Park Authority**” (“***Awdurdod Parc Cenedlaethol Arfordir Penfro***”) means the authority established for that National Park by the National Park Authorities (Wales) Order 1995 ([S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803));
 - “standing orders” (*“rheolau sefydlog”*) means the standing orders made under paragraph 8 of the Schedule;
@@ -84,7 +84,7 @@ In these Regulations—
 
 ## PART 1 — Establishment and area
 
-### 3. Establishment[^key-bc1a566c81e9b2cf32b1a66329a19983]
+### 3. Establishment[^c-bc1a566c81e9b2cf32b1a66329a19983]
 
 (1) There is established a body corporate to be known as the South West Wales Corporate Joint Committee (“the South West Wales CJC”).
 
@@ -95,37 +95,37 @@ In these Regulations—
 
 (3) Functions conferred on the South West Wales CJC by these Regulations are exercisable in relation to its area.
 
-### 4. Area[^key-a3530e30c6ebb29e18cd67647ff50817]
+### 4. Area[^c-a3530e30c6ebb29e18cd67647ff50817]
 
 The South West Wales CJC’s area comprises the areas of the constituent councils.
 
 ## PART 2 — Constitution
 
-### 5. Constitution[^key-1632182cc493fcea653b83c357827044]
+### 5. Constitution[^c-1632182cc493fcea653b83c357827044]
 
 The Schedule makes provision about the constitution of the South West Wales CJC.
 
 ## PART 3 — Membership
 
-### 6. Membership[^key-8e9bc184b2a656592674bd5b5c4a3bbd]
+### 6. Membership[^c-8e9bc184b2a656592674bd5b5c4a3bbd]
 
 (1) The members of the South West Wales CJC are—
 
 - (a) the 4 council members,
-- (b) the Brecon Beacons member, [^key-2f85e6a96f192351aa4460f3bb2550a7]...
-- (c) the Pembrokeshire Coast member , and[^key-b8fde90a5bded76604218a745ca354c3]
-- (d)[^key-65e59a7eb1127069514783309d3658b0] any co-opted member.
+- (b) the Brecon Beacons member, [^c-2f85e6a96f192351aa4460f3bb2550a7]...
+- (c) the Pembrokeshire Coast member , and[^c-b8fde90a5bded76604218a745ca354c3]
+- (d)[^c-65e59a7eb1127069514783309d3658b0] any co-opted member.
 
-(2) The members are entitled to vote in relation to any matter to be decided by the South West Wales CJC , subject to regulations 8(3A) and 9(2)[^key-a184ab2d5d6c1a26f9506fcb9f518c6b] .
+(2) The members are entitled to vote in relation to any matter to be decided by the South West Wales CJC , subject to regulations 8(3A) and 9(2)[^c-a184ab2d5d6c1a26f9506fcb9f518c6b] .
 
-(3)[^key-65a280f0d4cd186af0b1c1501c6d7637] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-65a280f0d4cd186af0b1c1501c6d7637] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) References in these Regulations, and in any other enactment, to a member of the South West Wales CJC (however expressed) include the Brecon Beacons member,[^key-46e8374163cd617935822fd4f995cde5] the Pembrokeshire Coast member and any co-opted member[^key-903cecf03cff463a9957a587c7ff59de], unless—
+(4) References in these Regulations, and in any other enactment, to a member of the South West Wales CJC (however expressed) include the Brecon Beacons member,[^c-46e8374163cd617935822fd4f995cde5] the Pembrokeshire Coast member and any co-opted member[^c-903cecf03cff463a9957a587c7ff59de], unless—
 
 - (a) express provision is made to the contrary, or
 - (b) the context requires otherwise.
 
-### 7. Council members[^key-e8ca5d98625fb74aabdee782d1024385]
+### 7. Council members[^c-e8ca5d98625fb74aabdee782d1024385]
 
 (1) In the case of each constituent council—
 
@@ -134,7 +134,7 @@ The Schedule makes provision about the constitution of the South West Wales CJC.
 
 is the council member of the South West Wales CJC.
 
-(2)[^key-98aead6518d9a93358760286512c9a58] Where a person who is a council member under paragraph (1) (“**P**”) is suspended or is unable to act as a council member for any period, the constituent council of which P is a member may appoint a member of its executive as a substitute member of the South West Wales CJC for that period.
+(2)[^c-98aead6518d9a93358760286512c9a58] Where a person who is a council member under paragraph (1) (“**P**”) is suspended or is unable to act as a council member for any period, the constituent council of which P is a member may appoint a member of its executive as a substitute member of the South West Wales CJC for that period.
 
 (2A) For the purposes of these Regulations (other than this regulation), and any other enactment, a substitute member appointed under paragraph (2) is to be treated as a council member of the South West Wales CJC.
 
@@ -147,7 +147,7 @@ is the council member of the South West Wales CJC.
 
 (3) Where a constituent council has a vacancy in an office referred to in paragraph (1), the constituent council must appoint another member of its executive as the council member of the South West Wales CJC until such time as the vacancy is filled.
 
-### 8. Brecon Beacons and Pembrokeshire Coast member[^key-df0510544dfa2853d40efa785c2803e6]
+### 8. Brecon Beacons and Pembrokeshire Coast member[^c-df0510544dfa2853d40efa785c2803e6]
 
 (1) The Brecon Beacons National Park Authority must appoint an office-holder mentioned in paragraph (3) as a member of the South West Wales CJC (“the Brecon Beacons member”).
 
@@ -159,19 +159,19 @@ is the council member of the South West Wales CJC.
 - (b) the deputy chairman of the Authority, or
 - (c) the chairperson of a committee with responsibility for planning matters as may be established by the Authority.
 
-(3A)[^key-c9f9f4b64fd67bc7ec74d257fd13e250] The Brecon Beacons member or the Pembrokeshire Coast member, as the case may be, may act as a member only in relation to—
+(3A)[^c-c9f9f4b64fd67bc7ec74d257fd13e250] The Brecon Beacons member or the Pembrokeshire Coast member, as the case may be, may act as a member only in relation to—
 
 - (a) the functions conferred on the South West Wales CJC under regulation 13;
 - (b) any function of the South West Wales CJC that is ancillary or incidental to those functions.
 
 (3B) But the Brecon Beacons member or the Pembrokeshire Coast member, as the case may be, may also act as a member in relation to any other function of the South West Wales CJC if—
 
-- (a) the council members and the Brecon Beacons member or the Pembrokeshire Coast member (as the case may be) agree unanimously[^key-31b0acb669ef8d66fb5e3582475e8b84], or
+- (a) the council members and the Brecon Beacons member or the Pembrokeshire Coast member (as the case may be) agree unanimously[^c-31b0acb669ef8d66fb5e3582475e8b84], or
 - (b) the Brecon Beacons member or the Pembrokeshire Coast member (as the case may be) is permitted, or required, to act in relation to that function by virtue of express provision in these Regulations or any other enactment.
 
 (3C) An agreement under paragraph (3B)(a) must specify the terms on which the Brecon Beacons member or the Pembrokeshire Coast member (as the case may be) may act in relation to the function concerned, including specifying the period for which the Brecon Beacons member or the Pembrokeshire Coast member are to act.
 
-(4)[^key-25946e5e736dc7e8c250d576f1f2eed0] Where a person who is the Brecon Beacons member or the Pembrokeshire Coast member under paragraph (1) or (2) (“**P**”) is suspended or is unable to act as a member for any period, the Authority may appoint another of the office-holders mentioned in paragraph (3) as a substitute member of the South West Wales CJC for that period.
+(4)[^c-25946e5e736dc7e8c250d576f1f2eed0] Where a person who is the Brecon Beacons member or the Pembrokeshire Coast member under paragraph (1) or (2) (“**P**”) is suspended or is unable to act as a member for any period, the Authority may appoint another of the office-holders mentioned in paragraph (3) as a substitute member of the South West Wales CJC for that period.
 
 (5) For the purposes of these Regulations (other than this regulation), and any other enactment, a substitute member appointed under paragraph (4) is to be treated as the Brecon Beacons member or the Pembrokeshire Coast member (as the case may be) of the South West Wales CJC.
 
@@ -184,7 +184,7 @@ is the council member of the South West Wales CJC.
   - (ii) partially suspended under Part 3 of the Local Government Act 2000 as a member of the National Park Authority of which P is also a member;
 - “**the Authority**” (“***yr Awdurdod***”) means the Brecon Beacons National Park Authority or the Pembrokeshire Coast National Park Authority, as the case may be.
 
-### 9. Co-opted participants[^key-4bb9542856ff59d31039fbaa77e6fb8b]
+### 9. Co-opted participants[^c-4bb9542856ff59d31039fbaa77e6fb8b]
 
 (1) The South West Wales CJC may co-opt one or more individuals as members of the South West Wales CJC (a “co-opted member”) on such terms as it determines
 
@@ -193,7 +193,7 @@ is the council member of the South West Wales CJC.
 - (a) specify—
   - (i) the functions of the South West Wales CJC in relation to which the co-opted member may act as a member of the CJC, and
   - (ii) any function of the South West Wales CJC that is ancillary or incidental to those functions;
-- (b) be agreed by the co-opted member and the other members entitled to vote on the decision[^key-be96078199de769d6c98a623b4b79ce0], and
+- (b) be agreed by the co-opted member and the other members entitled to vote on the decision[^c-be96078199de769d6c98a623b4b79ce0], and
 - (c) be set out in a co-option agreement.
 
 (3) Where, under paragraph (1), a co-opted member is entitled to act in relation to—
@@ -215,7 +215,7 @@ the Brecon Beacons member and the Pembrokeshire Coast member may each act as a m
 - (a) may be varied at any time;
 - (b) must be published electronically by the South West Wales CJC.
 
-### 9A. Disqualification for being a co-opted member[^key-b05fc4f23c2f6b4414106cdd53314a50]
+### 9A. Disqualification for being a co-opted member[^c-b05fc4f23c2f6b4414106cdd53314a50]
 
 (1) A person is disqualified for being co-opted as a member of the South West Wales CJC if the person—
 
@@ -230,7 +230,7 @@ the Brecon Beacons member and the Pembrokeshire Coast member may each act as a m
 
 (2) Paragraph (1) does not apply to a person who is disqualified for being a member of a corporate joint committee under section 1 of the Local Government and Housing Act 1989 (disqualification by virtue of holding politically restricted post).
 
-### 10. Job sharing[^key-673fea6d7edf8b20b61d72b0bd86054e]
+### 10. Job sharing[^c-673fea6d7edf8b20b61d72b0bd86054e]
 
 Where an office referred to in—
 
@@ -241,21 +241,21 @@ is shared by 2 or more persons, those persons are to be treated as if they were 
 
 ## PART 4 — Functions
 
-### 11. Economic well-being[^key-4cb90009639e4a6509e07666f4188ef8]
+### 11. Economic well-being[^c-4cb90009639e4a6509e07666f4188ef8]
 
 The economic well-being function is granted to the South West Wales CJC (see section 76 of the Local Government and Elections (Wales) Act 2021).
 
-### 12. Transfer etc. of function of developing transport policies[^key-7cca4025659a6a439a1db2a836c88b11]
+### 12. Transfer etc. of function of developing transport policies[^c-7cca4025659a6a439a1db2a836c88b11]
 
 (1) The function of developing policies under section 108(1)(a) and (2A)(a) of Part 2 of the Transport Act 2000[^f00004] is, in respect of the area of each constituent council, to be exercised by the South West Wales CJC, and not by the constituent council.
 
 (2) Part 2 of the Transport Act 2000 applies in relation to the South West Wales CJC and its constituent councils subject to the modifications in the Schedule to the Corporate Joint Committees (Transport Functions) (Wales) Regulations 2021[^f00005].
 
-### 13. Strategic planning functions[^key-287287953eb6cc078cf0ef05ec66dade]
+### 13. Strategic planning functions[^c-287287953eb6cc078cf0ef05ec66dade]
 
 The South West Wales CJC has the function of preparing a strategic development plan (and accordingly Part 6 of the Planning and Compulsory Purchase Act 2004 applies to the South West Wales CJC (see in particular sections 60K to 60N of that Act)).
 
-### 14. Subsidiary powers[^key-75d1de1478081accaab095132a3ba9d5]
+### 14. Subsidiary powers[^c-75d1de1478081accaab095132a3ba9d5]
 
 (1) The South West Wales CJC may do anything—
 
@@ -270,7 +270,7 @@ the exercise of its functions under these Regulations or any other enactment.
 - (b) charging fees;
 - (c) acquiring or disposing of property or rights.
 
-### 15. Limitation on discharge of functions by other persons[^key-adf5c332150df34930ba843ffb20609d][^key-8ddcf90626912025804fe6368b9ce7d3]
+### 15. Limitation on discharge of functions by other persons[^c-adf5c332150df34930ba843ffb20609d][^c-8ddcf90626912025804fe6368b9ce7d3]
 
 Regulation 13 of the Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (arrangements for discharge of functions) does not apply to—
 
@@ -288,7 +288,7 @@ Regulation 13 of the Corporate Joint Committees (General) (No. 2) (Wales) Regula
 
 ## PART 5 — Funding
 
-### 16. Calculation of budget requirements[^key-5c4d2ef9ee8afbef20a01703a32e8c58]
+### 16. Calculation of budget requirements[^c-5c4d2ef9ee8afbef20a01703a32e8c58]
 
 (1) For each financial year the South West Wales CJC must calculate the amounts described in paragraph (2) attributable to—
 
@@ -324,17 +324,17 @@ no later than 31 January in each preceding financial year.
 
 (9) Any revised calculations must be agreed at a meeting of the South West Wales CJC.
 
-### 17. Funding of budget requirement[^key-04a932f2d4e8cf6a717bea61c4a13532]
+### 17. Funding of budget requirement[^c-04a932f2d4e8cf6a717bea61c4a13532]
 
 (1) The South West Wales CJC’s general budget requirement must be paid to the South West Wales CJC by the constituent councils, and the proportion of that amount payable by each constituent council is to be determined by the unanimous agreement of the council members.
 
-(2) The South West Wales CJCs strategic planning budget requirement must be paid to the South West Wales CJC by the constituent councils, the Brecon Beacons National Park Authority, and the Pembrokeshire Coast National Park Authority, and the proportion of that amount payable by each constituent council and by each Authority[^key-2e74f8e8236360ccc1c9db954b6caf83] is to be determined by the unanimous agreement of the council members, the Brecon Beacons member and the Pembrokeshire Coast member[^key-6473adcb7e7db46f169adba941cbdabc].
+(2) The South West Wales CJCs strategic planning budget requirement must be paid to the South West Wales CJC by the constituent councils, the Brecon Beacons National Park Authority, and the Pembrokeshire Coast National Park Authority, and the proportion of that amount payable by each constituent council and by each Authority[^c-2e74f8e8236360ccc1c9db954b6caf83] is to be determined by the unanimous agreement of the council members, the Brecon Beacons member and the Pembrokeshire Coast member[^c-6473adcb7e7db46f169adba941cbdabc].
 
 (3) Where agreement cannot be reached as to the proportions payable under paragraph (1) or (2), the Welsh Ministers may by direction specify the proportion payable by each constituent council or each constituent council, the Brecon Beacons National Park Authority and the Pembrokeshire Coast National Park Authority.
 
 (4) This regulation applies to a general budget requirement, or strategic planning budget requirement, revised under paragraph (8) of regulation 16 as it applies to a budget requirement initially determined under that regulation.
 
-### 17A. General Fund[^key-f1d2cafd6c3d1dd5f06ae8a93768698f]
+### 17A. General Fund[^c-f1d2cafd6c3d1dd5f06ae8a93768698f]
 
 (1) The South West Wales CJC must establish and maintain a fund to be known as the South West Wales CJC’s general fund.
 
@@ -356,14 +356,14 @@ Regulation 5
 
 ### PART 1 — Procedure, meetings and voting
 
-#### 1. Chairing meetings[^key-0860f60f9f675ae1d0f0863c0960b837]
+#### 1. Chairing meetings[^c-0860f60f9f675ae1d0f0863c0960b837]
 
 Meetings of the South West Wales CJC must be chaired by—
 
 - (a) the chairperson appointed under paragraph 2, or
 - (b) if the chairperson is absent, the vice-chairperson appointed under that paragraph.
 
-#### 2. Appointment of chairperson and vice-chairperson[^key-922a36276e46a213c4ac7da730b84493]
+#### 2. Appointment of chairperson and vice-chairperson[^c-922a36276e46a213c4ac7da730b84493]
 
 (1) At the first meeting of the South West Wales CJC—
 
@@ -380,7 +380,7 @@ Meetings of the South West Wales CJC must be chaired by—
 (4) The chairperson and vice-chairperson must be appointed, or confirmed by—
 
 - (a) the council members, and
-- (b) any other members[^key-3688b5e735f8047f58ba1dee14df145c] entitled to vote on the matter.
+- (b) any other members[^c-3688b5e735f8047f58ba1dee14df145c] entitled to vote on the matter.
 
 (5) A person appointed as chairperson or vice-chairperson may at any time resign that office by notice in writing given to the other members.
 
@@ -390,33 +390,33 @@ Meetings of the South West Wales CJC must be chaired by—
 
 (8) Despite paragraph 1, where the offices of both chairperson and vice-chairperson are simultaneously vacant, the meeting referred to in sub-paragraph (6) must be chaired, until one of the vacancies is filled, by the council member for Carmarthenshire county council.
 
-#### 3. Annual general meetings[^key-14f2c4651b5cd6e9bfdd8355a8479e9c]
+#### 3. Annual general meetings[^c-14f2c4651b5cd6e9bfdd8355a8479e9c]
 
 The South West Wales CJC must hold an annual general meeting in each financial year on a date determined by the CJC.
 
-#### 4. Other meetings[^key-2c2872b519bee619bb5083e47f551218]
+#### 4. Other meetings[^c-2c2872b519bee619bb5083e47f551218]
 
 (1) The South West Wales CJC may hold other meetings on dates specified in the standing orders.
 
 (2) An extraordinary meeting of the South West Wales CJC may be called at any time by any person entitled to vote on a matter to be decided at that meeting.
 
-#### 5. Quorum[^key-ffe985fdecd0df0e5f02e0481874d51a]
+#### 5. Quorum[^c-ffe985fdecd0df0e5f02e0481874d51a]
 
 No business is to be transacted in relation to a matter to be decided at a meeting of the South West Wales CJC unless—
 
 - (a) in the case of a matter to be decided under—
-  - (i)[^key-9b66ddbd5877f32f0ec6750c509ac2f5] regulation 8(3B);
+  - (i)[^c-9b66ddbd5877f32f0ec6750c509ac2f5] regulation 8(3B);
   - (ia) regulation 17, or
   - (ii) paragraph 7 of this Schedule,
 
   all of the persons entitled to vote on the decision are present, and
 - (b) in any other case, no fewer than 70% of the persons entitled to vote are present.
 
-#### 6. Voting procedure[^key-33b7d32b44a1169c90542fb4f3c69934]
+#### 6. Voting procedure[^c-33b7d32b44a1169c90542fb4f3c69934]
 
 (1) Subject to sub-paragraphs (2) and (3) of this paragraph and paragraph 7 of this Schedule, in relation to any matter to be decided at a meeting of the South West Wales CJC—
 
-- (a)[^key-81065eba69a1b2c247dc378a6e3c7440] the number of co-opted members entitled to vote may not exceed the number of other members entitled to vote.
+- (a)[^c-81065eba69a1b2c247dc378a6e3c7440] the number of co-opted members entitled to vote may not exceed the number of other members entitled to vote.
 - (b) each person entitled to vote has one vote,
 - (c) the matter, is to be decided by simple majority, and
 - (d) if a vote is tied the matter is not carried.
@@ -430,7 +430,7 @@ sub-paragraph (1)(c) and (d) does not apply.
 
 (3) Where the matter to be decided relates to strategic planning functions, sub-paragraph (1)(d) does not apply and the chairperson (or if presiding, the vice-chairperson) has the casting vote.
 
-#### 7. Adoption of alternative voting procedure[^key-02f0f2163638192fedf0ef221fd43335]
+#### 7. Adoption of alternative voting procedure[^c-02f0f2163638192fedf0ef221fd43335]
 
 (1) Subject to the requirements of this paragraph, the South West Wales CJC may adopt an alternative voting procedure in relation to any matter to be decided by it.
 
@@ -444,13 +444,13 @@ sub-paragraph (1)(c) and (d) does not apply.
 - (a) must specify which of the matters to be decided by the South West Wales CJC it applies to;
 - (b) may not modify the effect of paragraph 6(3).
 
-(3A)[^key-eec044a379fc98bb42d7d5fa56527b6f] A procedure adopted under this paragraph may include provision for a council member, the Brecon Beacons member or the Pembrokeshire Coast member of the South West Wales CJC to vote by proxy.
+(3A)[^c-eec044a379fc98bb42d7d5fa56527b6f] A procedure adopted under this paragraph may include provision for a council member, the Brecon Beacons member or the Pembrokeshire Coast member of the South West Wales CJC to vote by proxy.
 
-(4)[^key-69fd150f13857da51a29843e0e2ec0f9] A procedure adopted under this paragraph must be adopted by the unanimous agreement of the members who are entitled to vote on adopting the procedure.
+(4)[^c-69fd150f13857da51a29843e0e2ec0f9] A procedure adopted under this paragraph must be adopted by the unanimous agreement of the members who are entitled to vote on adopting the procedure.
 
 (5) Any alternative voting procedure adopted under this paragraph must be set out in the standing orders.
 
-#### 8. Standing Orders[^key-f653a7684cee18347bf87c7ddd3d1162]
+#### 8. Standing Orders[^c-f653a7684cee18347bf87c7ddd3d1162]
 
 (1) The South West Wales CJC must make standing orders for the regulation of its proceedings and business so far as not regulated by these Regulations or any other enactment.
 
@@ -458,25 +458,25 @@ sub-paragraph (1)(c) and (d) does not apply.
 
 ### PART 2 — Staff
 
-#### 9. General[^key-71fb163385704ddab58799c42f21e572]
+#### 9. General[^c-71fb163385704ddab58799c42f21e572]
 
-(1)[^key-204f2994325b7e2244fbc5f3ce41354d] The South West Wales CJC may make such arrangements for staffing as it considers appropriate subject to—
+(1)[^c-204f2994325b7e2244fbc5f3ce41354d] The South West Wales CJC may make such arrangements for staffing as it considers appropriate subject to—
 
 - (a) the provisions of this Part of this Schedule, and
 - (b) paragraph 2 of Schedule 1 to the Corporate Joint Committees (General) (Wales) Regulations 2021[^f00006].
 
-(2)[^key-a0b8c8175f79371ff07acc70d09dddbd] The South West Wales CJC must ensure that arrangements made under sub-paragraph (1) are such as are necessary for the proper discharge by the South West Wales CJC of its functions.
+(2)[^c-a0b8c8175f79371ff07acc70d09dddbd] The South West Wales CJC must ensure that arrangements made under sub-paragraph (1) are such as are necessary for the proper discharge by the South West Wales CJC of its functions.
 
-#### 10. Terms and conditions[^key-215bd862c7b6d29200c7bf97e6101273]
+#### 10. Terms and conditions[^c-215bd862c7b6d29200c7bf97e6101273]
 
 (1) Where the South West Wales CJC appoints staff under paragraph 9, they are to be appointed on terms and conditions (including terms and conditions as to remuneration) substantially similar to those of officers within a constituent council undertaking responsibilities which the South West Wales CJC considers to be reasonably comparable.
 
-(2)[^key-35e0ba2a5329ee20f109ce39f921eaf0] But sub-paragraph (1)—
+(2)[^c-35e0ba2a5329ee20f109ce39f921eaf0] But sub-paragraph (1)—
 
 - (a) is subject to section 41 of the Localism Act 2011, and
 - (b) does not prevent the South West Wales CJC from modifying the terms and conditions of staff it appoints if required by virtue of any other enactment or rule of law.
 
-#### 11. Staff from other authorities[^key-e17afc5aa0ebd67997eec3cd218f705e]
+#### 11. Staff from other authorities[^c-e17afc5aa0ebd67997eec3cd218f705e]
 
 (1) A devolved Welsh authority (within the meaning given by the Government of Wales Act 2006[^f00007]) may enter into an agreement with the South West Wales CJC for the placing of staff of the authority at the disposal of the South West Wales CJC for the purposes of exercising its functions, on such terms as may be provided by the agreement.
 
@@ -486,9 +486,9 @@ sub-paragraph (1)(c) and (d) does not apply.
 - (b) paragraph 2 of Schedule 1 to the Corporate Joint Committees (General) (Wales) Regulations 2021;
 - (c) any other enactment relating to the administration of the South West Wales CJC or the exercise of its functions.
 
-(3)[^key-14882a58093cee7565e7088a3f10c47b] But, subject to any contrary provision in any other enactment, for superannuation purposes service rendered by a member of staff of a devolved Welsh authority placed at the disposal of the South West Wales CJC by virtue of such an agreement is service rendered to the authority.
+(3)[^c-14882a58093cee7565e7088a3f10c47b] But, subject to any contrary provision in any other enactment, for superannuation purposes service rendered by a member of staff of a devolved Welsh authority placed at the disposal of the South West Wales CJC by virtue of such an agreement is service rendered to the authority.
 
-#### 12. Placing staff at the disposal of other authorities[^key-446fabbc362dd5e79406b6371f60be9c]
+#### 12. Placing staff at the disposal of other authorities[^c-446fabbc362dd5e79406b6371f60be9c]
 
 (1) The South West Wales CJC may enter into an agreement with–
 
@@ -502,49 +502,49 @@ for the placing of staff of the South West Wales CJC at the disposal of the othe
 - (a) for superannuation purposes, service rendered by the member of staff is service rendered to the South West Wales CJC, and
 - (b) for the purposes of any enactment relating to the administration of the other devolved Welsh authority or the exercise of its functions, the member of staff is to be treated as a member of staff of that authority.
 
-#### 13. Consultation with staff about agreements under paragraph 11 or 12[^key-84bb20b9be9be79769b431e7d69a40bc]
+#### 13. Consultation with staff about agreements under paragraph 11 or 12[^c-84bb20b9be9be79769b431e7d69a40bc]
 
 No agreement may be entered into under paragraph 11(1) or 12(1) unless every member of staff to whom it relates has been consulted.
 
-#### 14. Transfer of staff[^key-a3d92bf16089e073d7d70bd2eb2328d3]
+#### 14. Transfer of staff[^c-a3d92bf16089e073d7d70bd2eb2328d3]
 
 Where a member of staff appointed by the South West Wales CJC has been transferred to the CJC from a constituent council, the provisions of the Transfer of Undertaking (Protection of Employment) Regulations 2006[^f00008] other than regulations 4(6) and 10 apply to the transfer, whether or not it is a relevant transfer for the purposes of those regulations.
 
 ### PART 3 — Sub-committees
 
-#### 15. Sub-committees[^key-48fc54ced36641db5336cbb86d9f54ed]
+#### 15. Sub-committees[^c-48fc54ced36641db5336cbb86d9f54ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Governance and Audit Sub-Committee[^key-d6ff747b2afa1f54978a9be97307a162]
+#### 16. Governance and Audit Sub-Committee[^c-d6ff747b2afa1f54978a9be97307a162]
 
 (1) The South West Wales CJC must establish a sub-committee (known as the governance and audit sub-committee) to—
 
 - (a) review and scrutinise the South West Wales CJC’s financial affairs;
 - (b) make reports and recommendations in relation to the South West Wales CJC’s financial affairs;
-- (c) review and assess the risk management, internal control , performance management[^key-4993ee6b52a2238420f3f8955002bd7f] and corporate governance arrangements of the South West Wales CJC;
+- (c) review and assess the risk management, internal control , performance management[^c-4993ee6b52a2238420f3f8955002bd7f] and corporate governance arrangements of the South West Wales CJC;
 - (d) make reports and recommendations to the South West Wales CJC on the adequacy and effectiveness of those arrangements;
-- (da)[^key-81dce7d8a287f10535ac47d819b998c5] review and assess the South West Wales CJC’s ability to handle complaints effectively;
+- (da)[^c-81dce7d8a287f10535ac47d819b998c5] review and assess the South West Wales CJC’s ability to handle complaints effectively;
 - (db) make reports and recommendations in relation to the ability of the South West Wales CJC to handle complaints effectively;
 - (e) oversee the South West Wales CJC’s internal and external audit arrangements;
 - (f) review any financial statements prepared by the South West Wales CJC;
 - (g) exercise such other functions as the South West Wales CJC may specify.
 
-(1A)[^key-0a2f6b75dcda7ceca8fb5bc08627b3ec] See Chapter 1 of Part 6 of the Local Government and Elections (Wales) Act 2021 (performance and governance of principal councils), as applied by section 115A of and Schedule 10A to that Act, for further functions of the governance and audit sub-committee.
+(1A)[^c-0a2f6b75dcda7ceca8fb5bc08627b3ec] See Chapter 1 of Part 6 of the Local Government and Elections (Wales) Act 2021 (performance and governance of principal councils), as applied by section 115A of and Schedule 10A to that Act, for further functions of the governance and audit sub-committee.
 
 (2) When appointing members of the governance and audit sub-committee, the South West Wales CJC must ensure that—
 
-- (a) one third of the members of the sub-committee are not also members[^key-8b4bf843eb18416babebeb468eaa1747] of a county council, or county borough council, in Wales,
-- (b) two thirds of the members of the sub-committee are also[^key-15c65aa84c9dc8a2aeeb57d3fa0d6577] members of the constituent councils (but not members of the constituent councils’ executives), and
-- (c)[^key-c40d9a99d366f692bb35338af1a6da7a] none of the members of the sub-committee are—
+- (a) one third of the members of the sub-committee are not also members[^c-8b4bf843eb18416babebeb468eaa1747] of a county council, or county borough council, in Wales,
+- (b) two thirds of the members of the sub-committee are also[^c-15c65aa84c9dc8a2aeeb57d3fa0d6577] members of the constituent councils (but not members of the constituent councils’ executives), and
+- (c)[^c-c40d9a99d366f692bb35338af1a6da7a] none of the members of the sub-committee are—
   - (i) council members,
   - (ii) co-opted members,
-  - (iii) members of another sub-committee of the South West Wales CJC, [^key-683940204eae9e819db2c61354baed36]...
-  - [^key-683940204eae9e819db2c61354baed36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) members of another sub-committee of the South West Wales CJC, [^c-683940204eae9e819db2c61354baed36]...
+  - [^c-683940204eae9e819db2c61354baed36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-c0a393311abbc741f2f63809d30a6e84] If a person described in sub-paragraph (2)(b) (“**P**”) ceases to be a member of a constituent council, P also ceases to be a member of the governance and audit sub-committee.
+(2A)[^c-c0a393311abbc741f2f63809d30a6e84] If a person described in sub-paragraph (2)(b) (“**P**”) ceases to be a member of a constituent council, P also ceases to be a member of the governance and audit sub-committee.
 
-(3)[^key-a4a046360d89e808944d081248b55c0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a4a046360d89e808944d081248b55c0c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The governance and audit sub-committee may not exercise its functions if the membership of the sub-committee contravenes the requirements of sub-paragraph (2).
 
@@ -582,160 +582,160 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2021 asc 1](https://www.legislation.gov.uk/asc/2021/1).
 
-[^key-e2bb76d64e3a990514ceb159cdc66a37]: Commencement: Reg. 1 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-e2bb76d64e3a990514ceb159cdc66a37]: Commencement: Reg. 1 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-754fd3e0e0653e9fb5f4b8d6979456a2]: Textual amendment: Word in [reg. 1(3)(d)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/3/d) omitted (25.3.2022) by virtue of [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/2)
+[^c-754fd3e0e0653e9fb5f4b8d6979456a2]: Textual amendment: Word in [reg. 1(3)(d)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/3/d) omitted (25.3.2022) by virtue of [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/2)
 
-[^key-ea0a57f6bbed6e30f4f0fd48079d47ee]: Commencement: Reg. 2 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-ea0a57f6bbed6e30f4f0fd48079d47ee]: Commencement: Reg. 2 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-571e55e80da2a861d0631e8458e29fb0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2021/352/regulation/2) substituted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(3)(a)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/3/a)
+[^c-571e55e80da2a861d0631e8458e29fb0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2021/352/regulation/2) substituted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(3)(a)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/3/a)
 
-[^key-98f61add58b504603776a35930b00434]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2021/352/regulation/2) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(3)(c)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/3/c)
+[^c-98f61add58b504603776a35930b00434]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2021/352/regulation/2) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(3)(c)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/3/c)
 
-[^key-a2cc5a9ff2212f6262ad48bd7764e52c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2021/352/regulation/2) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/2)
+[^c-a2cc5a9ff2212f6262ad48bd7764e52c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2021/352/regulation/2) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/2)
 
-[^key-cb427cf1af95758dd26f021091f3bd48]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2021/352/regulation/2) omitted (25.3.2022) by virtue of [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(3)(b)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/3/b)
+[^c-cb427cf1af95758dd26f021091f3bd48]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2021/352/regulation/2) omitted (25.3.2022) by virtue of [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(3)(b)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/3/b)
 
 [^f00003]: Footnote: [2004 c.5](https://www.legislation.gov.uk/ukpga/2004/5). Part 6 has been amended by Schedule 9 to the Local Government and Elections (Wales) Act [2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1).
 
-[^key-bc1a566c81e9b2cf32b1a66329a19983]: Commencement: Reg. 3 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-bc1a566c81e9b2cf32b1a66329a19983]: Commencement: Reg. 3 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-a3530e30c6ebb29e18cd67647ff50817]: Commencement: Reg. 4 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-a3530e30c6ebb29e18cd67647ff50817]: Commencement: Reg. 4 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-1632182cc493fcea653b83c357827044]: Commencement: Reg. 5 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-1632182cc493fcea653b83c357827044]: Commencement: Reg. 5 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-8e9bc184b2a656592674bd5b5c4a3bbd]: Commencement: Reg. 6 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-8e9bc184b2a656592674bd5b5c4a3bbd]: Commencement: Reg. 6 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-2f85e6a96f192351aa4460f3bb2550a7]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/wsi/2021/352/regulation/6/1/b) omitted (3.12.2021) by virtue of [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(3)(a)(i)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/3/a/i)
+[^c-2f85e6a96f192351aa4460f3bb2550a7]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/wsi/2021/352/regulation/6/1/b) omitted (3.12.2021) by virtue of [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(3)(a)(i)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/3/a/i)
 
-[^key-b8fde90a5bded76604218a745ca354c3]: Textual amendment: Word in [reg. 6(1)(c)](https://www.legislation.gov.uk/wsi/2021/352/regulation/6/1/c) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/3/a/ii)
+[^c-b8fde90a5bded76604218a745ca354c3]: Textual amendment: Word in [reg. 6(1)(c)](https://www.legislation.gov.uk/wsi/2021/352/regulation/6/1/c) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/3/a/ii)
 
-[^key-65e59a7eb1127069514783309d3658b0]: Textual amendment: [Reg. 6(1)(d)](https://www.legislation.gov.uk/wsi/2021/352/regulation/6/1/d) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(3)(a)(iii)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/3/a/iii)
+[^c-65e59a7eb1127069514783309d3658b0]: Textual amendment: [Reg. 6(1)(d)](https://www.legislation.gov.uk/wsi/2021/352/regulation/6/1/d) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(3)(a)(iii)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/3/a/iii)
 
-[^key-a184ab2d5d6c1a26f9506fcb9f518c6b]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/6/2) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(3)(b)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/3/b)
+[^c-a184ab2d5d6c1a26f9506fcb9f518c6b]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/6/2) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(3)(b)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/3/b)
 
-[^key-65a280f0d4cd186af0b1c1501c6d7637]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/wsi/2021/352/regulation/6/3) omitted (3.12.2021) by virtue of [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(3)(c)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/3/c)
+[^c-65a280f0d4cd186af0b1c1501c6d7637]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/wsi/2021/352/regulation/6/3) omitted (3.12.2021) by virtue of [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(3)(c)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/3/c)
 
-[^key-46e8374163cd617935822fd4f995cde5]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/wsi/2021/352/regulation/6/4) word substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [37(3)(d)(i)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/37/3/d/i)
+[^c-46e8374163cd617935822fd4f995cde5]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/wsi/2021/352/regulation/6/4) word substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/uksi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/1/2), [37(3)(d)(i)](https://www.legislation.gov.uk/uksi/2021/1349/regulation/37/3/d/i)
 
-[^key-903cecf03cff463a9957a587c7ff59de]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/wsi/2021/352/regulation/6/4) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(3)(d)(ii)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/3/d/ii)
+[^c-903cecf03cff463a9957a587c7ff59de]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/wsi/2021/352/regulation/6/4) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(3)(d)(ii)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/3/d/ii)
 
-[^key-e8ca5d98625fb74aabdee782d1024385]: Commencement: Reg. 7 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-e8ca5d98625fb74aabdee782d1024385]: Commencement: Reg. 7 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-98aead6518d9a93358760286512c9a58]: Textual amendment: [Reg. 7(2)-(2C)](https://www.legislation.gov.uk/wsi/2021/352/regulation/7/2) substituted for [reg. 7(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/7/2) (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/8/2)
+[^c-98aead6518d9a93358760286512c9a58]: Textual amendment: [Reg. 7(2)-(2C)](https://www.legislation.gov.uk/wsi/2021/352/regulation/7/2) substituted for [reg. 7(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/7/2) (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/8/2)
 
-[^key-df0510544dfa2853d40efa785c2803e6]: Commencement: Reg. 8 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-df0510544dfa2853d40efa785c2803e6]: Commencement: Reg. 8 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-c9f9f4b64fd67bc7ec74d257fd13e250]: Textual amendment: [Reg. 8(3A)-(3C)](https://www.legislation.gov.uk/wsi/2021/352/regulation/8/3A) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(5)(a)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/5/a)
+[^c-c9f9f4b64fd67bc7ec74d257fd13e250]: Textual amendment: [Reg. 8(3A)-(3C)](https://www.legislation.gov.uk/wsi/2021/352/regulation/8/3A) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(5)(a)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/5/a)
 
-[^key-31b0acb669ef8d66fb5e3582475e8b84]: Textual amendment: Word in [reg. 8(3B)(a)](https://www.legislation.gov.uk/wsi/2021/352/regulation/8/3B/a) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(4)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/4)
+[^c-31b0acb669ef8d66fb5e3582475e8b84]: Textual amendment: Word in [reg. 8(3B)(a)](https://www.legislation.gov.uk/wsi/2021/352/regulation/8/3B/a) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(4)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/4)
 
-[^key-25946e5e736dc7e8c250d576f1f2eed0]: Textual amendment: [Reg. 8(4)-(7)](https://www.legislation.gov.uk/wsi/2021/352/regulation/8/4) substituted for reg. 8(4)(5) (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/uksi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/372/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2022/372/regulation/8/3)
+[^c-25946e5e736dc7e8c250d576f1f2eed0]: Textual amendment: [Reg. 8(4)-(7)](https://www.legislation.gov.uk/wsi/2021/352/regulation/8/4) substituted for reg. 8(4)(5) (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/uksi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/372/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2022/372/regulation/8/3)
 
-[^key-4bb9542856ff59d31039fbaa77e6fb8b]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2021/352/regulation/9) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(6)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/6)
+[^c-4bb9542856ff59d31039fbaa77e6fb8b]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2021/352/regulation/9) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(6)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/6)
 
-[^key-be96078199de769d6c98a623b4b79ce0]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/wsi/2021/352/regulation/9/2/b) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(5)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/5)
+[^c-be96078199de769d6c98a623b4b79ce0]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/wsi/2021/352/regulation/9/2/b) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(5)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/5)
 
-[^key-b05fc4f23c2f6b4414106cdd53314a50]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/wsi/2021/352/regulation/9A) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(6)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/6)
+[^c-b05fc4f23c2f6b4414106cdd53314a50]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/wsi/2021/352/regulation/9A) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(6)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/6)
 
-[^key-673fea6d7edf8b20b61d72b0bd86054e]: Commencement: Reg. 10 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-673fea6d7edf8b20b61d72b0bd86054e]: Commencement: Reg. 10 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-4cb90009639e4a6509e07666f4188ef8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2021/352/regulation/11) in force at 30.6.2022, see [reg. 1(3)(a)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/3/a)
+[^c-4cb90009639e4a6509e07666f4188ef8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2021/352/regulation/11) in force at 30.6.2022, see [reg. 1(3)(a)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/3/a)
 
-[^key-7cca4025659a6a439a1db2a836c88b11]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2021/352/regulation/12) in force at 30.6.2022, see [reg. 1(3)(b)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/3/b)
+[^c-7cca4025659a6a439a1db2a836c88b11]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2021/352/regulation/12) in force at 30.6.2022, see [reg. 1(3)(b)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/3/b)
 
 [^f00004]: Footnote: [2000 c.38](https://www.legislation.gov.uk/ukpga/2000/38).
 
 [^f00005]: Footnote: [S.I. 2021/328 (W. 86)](https://www.legislation.gov.uk/wsi/2021/328).
 
-[^key-287287953eb6cc078cf0ef05ec66dade]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2021/352/regulation/13) in force at 30.6.2022, see [reg. 1(3)(c)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/3/c)
+[^c-287287953eb6cc078cf0ef05ec66dade]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2021/352/regulation/13) in force at 30.6.2022, see [reg. 1(3)(c)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/3/c)
 
-[^key-75d1de1478081accaab095132a3ba9d5]: Commencement: Reg. 14 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-75d1de1478081accaab095132a3ba9d5]: Commencement: Reg. 14 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-adf5c332150df34930ba843ffb20609d]: Commencement: Reg. 15 in force in so far as not already in force at 30.6.2022, see [reg. 1(3)(d)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/3/d)
+[^c-adf5c332150df34930ba843ffb20609d]: Commencement: Reg. 15 in force in so far as not already in force at 30.6.2022, see [reg. 1(3)(d)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/3/d)
 
-[^key-8ddcf90626912025804fe6368b9ce7d3]: Textual amendment: Reg. 15 substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(7)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/7)
+[^c-8ddcf90626912025804fe6368b9ce7d3]: Textual amendment: Reg. 15 substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(7)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/7)
 
-[^key-5c4d2ef9ee8afbef20a01703a32e8c58]: Commencement: Reg. 16 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-5c4d2ef9ee8afbef20a01703a32e8c58]: Commencement: Reg. 16 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-04a932f2d4e8cf6a717bea61c4a13532]: Commencement: Reg. 17 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-04a932f2d4e8cf6a717bea61c4a13532]: Commencement: Reg. 17 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-2e74f8e8236360ccc1c9db954b6caf83]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/17/2) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(8)(a)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/8/a)
+[^c-2e74f8e8236360ccc1c9db954b6caf83]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/17/2) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(8)(a)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/8/a)
 
-[^key-6473adcb7e7db46f169adba941cbdabc]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/17/2) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(8)(b)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/8/b)
+[^c-6473adcb7e7db46f169adba941cbdabc]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/17/2) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(8)(b)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/8/b)
 
-[^key-f1d2cafd6c3d1dd5f06ae8a93768698f]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/wsi/2021/352/regulation/17A) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [15(4)](https://www.legislation.gov.uk/wsi/2022/372/regulation/15/4)
+[^c-f1d2cafd6c3d1dd5f06ae8a93768698f]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/wsi/2021/352/regulation/17A) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [15(4)](https://www.legislation.gov.uk/wsi/2022/372/regulation/15/4)
 
-[^key-0860f60f9f675ae1d0f0863c0960b837]: Commencement: Sch. para. 1 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-0860f60f9f675ae1d0f0863c0960b837]: Commencement: Sch. para. 1 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-922a36276e46a213c4ac7da730b84493]: Commencement: Sch. para. 2 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-922a36276e46a213c4ac7da730b84493]: Commencement: Sch. para. 2 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-3688b5e735f8047f58ba1dee14df145c]: Textual amendment: Words in [Sch. para. 2(4)(b)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/2/4/b) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(9)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/9)
+[^c-3688b5e735f8047f58ba1dee14df145c]: Textual amendment: Words in [Sch. para. 2(4)(b)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/2/4/b) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(9)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/9)
 
-[^key-14f2c4651b5cd6e9bfdd8355a8479e9c]: Commencement: Sch. para. 3 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-14f2c4651b5cd6e9bfdd8355a8479e9c]: Commencement: Sch. para. 3 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-2c2872b519bee619bb5083e47f551218]: Commencement: Sch. para. 4 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-2c2872b519bee619bb5083e47f551218]: Commencement: Sch. para. 4 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-ffe985fdecd0df0e5f02e0481874d51a]: Commencement: Sch. para. 5 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-ffe985fdecd0df0e5f02e0481874d51a]: Commencement: Sch. para. 5 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-9b66ddbd5877f32f0ec6750c509ac2f5]: Textual amendment: [Sch. para. 5(a)(i)(ia)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/5/a/i/ia) substituted for [Sch.](https://www.legislation.gov.uk/wsi/2021/352/schedule) [para. 5(a)(i)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/5/a/i) (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(7)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/7)
+[^c-9b66ddbd5877f32f0ec6750c509ac2f5]: Textual amendment: [Sch. para. 5(a)(i)(ia)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/5/a/i/ia) substituted for [Sch.](https://www.legislation.gov.uk/wsi/2021/352/schedule) [para. 5(a)(i)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/5/a/i) (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(7)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/7)
 
-[^key-33b7d32b44a1169c90542fb4f3c69934]: Commencement: Sch. para. 6 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-33b7d32b44a1169c90542fb4f3c69934]: Commencement: Sch. para. 6 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-81065eba69a1b2c247dc378a6e3c7440]: Textual amendment: [Sch. para. 6(1)(a)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/6/1/a) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(10)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/10)
+[^c-81065eba69a1b2c247dc378a6e3c7440]: Textual amendment: [Sch. para. 6(1)(a)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/6/1/a) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(10)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/10)
 
-[^key-02f0f2163638192fedf0ef221fd43335]: Commencement: Sch. para. 7 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-02f0f2163638192fedf0ef221fd43335]: Commencement: Sch. para. 7 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-eec044a379fc98bb42d7d5fa56527b6f]: Textual amendment: [Sch. para. 7(3A)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/7/3A) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(8)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/8)
+[^c-eec044a379fc98bb42d7d5fa56527b6f]: Textual amendment: [Sch. para. 7(3A)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/7/3A) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [43(8)](https://www.legislation.gov.uk/wsi/2022/372/regulation/43/8)
 
-[^key-69fd150f13857da51a29843e0e2ec0f9]: Textual amendment: [Sch. para. 7(4)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/7/4) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(11)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/11)
+[^c-69fd150f13857da51a29843e0e2ec0f9]: Textual amendment: [Sch. para. 7(4)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/7/4) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(11)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/11)
 
-[^key-f653a7684cee18347bf87c7ddd3d1162]: Commencement: Sch. para. 8 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-f653a7684cee18347bf87c7ddd3d1162]: Commencement: Sch. para. 8 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-71fb163385704ddab58799c42f21e572]: Commencement: Sch. para. 9 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-71fb163385704ddab58799c42f21e572]: Commencement: Sch. para. 9 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-204f2994325b7e2244fbc5f3ce41354d]: Textual amendment: [Sch. para. 9(1)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/9/1): Sch. para. 9 renumbered as Sch. para. 9(1) (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(12)(a)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/12/a)
+[^c-204f2994325b7e2244fbc5f3ce41354d]: Textual amendment: [Sch. para. 9(1)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/9/1): Sch. para. 9 renumbered as Sch. para. 9(1) (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(12)(a)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/12/a)
 
 [^f00006]: Footnote: [S.I. 2021/327 (W. 85)](https://www.legislation.gov.uk/wsi/2021/327).
 
-[^key-a0b8c8175f79371ff07acc70d09dddbd]: Textual amendment: [Sch. para. 9(2)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/9/2) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(12)(b)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/12/b)
+[^c-a0b8c8175f79371ff07acc70d09dddbd]: Textual amendment: [Sch. para. 9(2)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/9/2) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(12)(b)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/12/b)
 
-[^key-215bd862c7b6d29200c7bf97e6101273]: Commencement: Sch. para. 10 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-215bd862c7b6d29200c7bf97e6101273]: Commencement: Sch. para. 10 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-35e0ba2a5329ee20f109ce39f921eaf0]: Textual amendment: [Sch. para. 10(2)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/10/2) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(13)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/13)
+[^c-35e0ba2a5329ee20f109ce39f921eaf0]: Textual amendment: [Sch. para. 10(2)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/10/2) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(13)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/13)
 
-[^key-e17afc5aa0ebd67997eec3cd218f705e]: Commencement: Sch. para. 11 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-e17afc5aa0ebd67997eec3cd218f705e]: Commencement: Sch. para. 11 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
 [^f00007]: Footnote: [2006 c.32](https://www.legislation.gov.uk/ukpga/2006/32). See section 157A and Schedule 9A as inserted by the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4) section 4 and Schedule 3.
 
-[^key-14882a58093cee7565e7088a3f10c47b]: Textual amendment: [Sch. para. 11(3)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/11/3) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(14)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/14)
+[^c-14882a58093cee7565e7088a3f10c47b]: Textual amendment: [Sch. para. 11(3)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/11/3) inserted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(14)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/14)
 
-[^key-446fabbc362dd5e79406b6371f60be9c]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/12) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-446fabbc362dd5e79406b6371f60be9c]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/12) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-84bb20b9be9be79769b431e7d69a40bc]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/13) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-84bb20b9be9be79769b431e7d69a40bc]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/13) in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-a3d92bf16089e073d7d70bd2eb2328d3]: Commencement: Sch. para. 14 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-a3d92bf16089e073d7d70bd2eb2328d3]: Commencement: Sch. para. 14 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2006/246](https://www.legislation.gov.uk/uksi/2006/246).
 
-[^key-48fc54ced36641db5336cbb86d9f54ed]: Textual amendment: [Sch. para. 15](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/15) omitted (3.12.2021) by virtue of [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(15)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/15)
+[^c-48fc54ced36641db5336cbb86d9f54ed]: Textual amendment: [Sch. para. 15](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/15) omitted (3.12.2021) by virtue of [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(15)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/15)
 
-[^key-d6ff747b2afa1f54978a9be97307a162]: Commencement: Sch. para. 16 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
+[^c-d6ff747b2afa1f54978a9be97307a162]: Commencement: Sch. para. 16 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/352/regulation/1/2)
 
-[^key-4993ee6b52a2238420f3f8955002bd7f]: Textual amendment: Words in [Sch. para. 16(1)(c)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/16/1/c) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/wsi/2022/797/regulation/20/2/a)
+[^c-4993ee6b52a2238420f3f8955002bd7f]: Textual amendment: Words in [Sch. para. 16(1)(c)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/16/1/c) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/wsi/2022/797/regulation/20/2/a)
 
-[^key-81dce7d8a287f10535ac47d819b998c5]: Textual amendment: [Sch. paras. 16(1)(da)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/16/1/da)[(db)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/16/1/db) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/wsi/2022/797/regulation/20/2/b)
+[^c-81dce7d8a287f10535ac47d819b998c5]: Textual amendment: [Sch. paras. 16(1)(da)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/16/1/da)[(db)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/16/1/db) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/wsi/2022/797/regulation/20/2/b)
 
-[^key-0a2f6b75dcda7ceca8fb5bc08627b3ec]: Textual amendment: Sch. para. 16(1A) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [20(2)(c)](https://www.legislation.gov.uk/wsi/2022/797/regulation/20/2/c)
+[^c-0a2f6b75dcda7ceca8fb5bc08627b3ec]: Textual amendment: Sch. para. 16(1A) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [20(2)(c)](https://www.legislation.gov.uk/wsi/2022/797/regulation/20/2/c)
 
-[^key-8b4bf843eb18416babebeb468eaa1747]: Textual amendment: Words in [Sch. para. 16(2)(a)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/16/2/a) substituted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [20(2)(d)](https://www.legislation.gov.uk/wsi/2022/797/regulation/20/2/d)
+[^c-8b4bf843eb18416babebeb468eaa1747]: Textual amendment: Words in [Sch. para. 16(2)(a)](https://www.legislation.gov.uk/wsi/2021/352/schedule/paragraph/16/2/a) substituted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [20(2)(d)](https://www.legislation.gov.uk/wsi/2022/797/regulation/20/2/d)
 
-[^key-15c65aa84c9dc8a2aeeb57d3fa0d6577]: Textual amendment: Words in Sch. para. 16(2)(b) substituted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [20(2)(e)](https://www.legislation.gov.uk/wsi/2022/797/regulation/20/2/e)
+[^c-15c65aa84c9dc8a2aeeb57d3fa0d6577]: Textual amendment: Words in Sch. para. 16(2)(b) substituted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [20(2)(e)](https://www.legislation.gov.uk/wsi/2022/797/regulation/20/2/e)
 
-[^key-c40d9a99d366f692bb35338af1a6da7a]: Textual amendment: Sch. para. 16(2)(c) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(16)(b)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/16/b)
+[^c-c40d9a99d366f692bb35338af1a6da7a]: Textual amendment: Sch. para. 16(2)(c) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(16)(b)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/16/b)
 
-[^key-683940204eae9e819db2c61354baed36]: Textual amendment: Sch. para. 16(2)(c)(iv) and word omitted (15.7.2022) by virtue of [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [20(2)(f)](https://www.legislation.gov.uk/wsi/2022/797/regulation/20/2/f)
+[^c-683940204eae9e819db2c61354baed36]: Textual amendment: Sch. para. 16(2)(c)(iv) and word omitted (15.7.2022) by virtue of [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [20(2)(f)](https://www.legislation.gov.uk/wsi/2022/797/regulation/20/2/f)
 
-[^key-c0a393311abbc741f2f63809d30a6e84]: Textual amendment: Sch. para. 16(2A) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [20(2)(g)](https://www.legislation.gov.uk/wsi/2022/797/regulation/20/2/g)
+[^c-c0a393311abbc741f2f63809d30a6e84]: Textual amendment: Sch. para. 16(2A) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [20(2)(g)](https://www.legislation.gov.uk/wsi/2022/797/regulation/20/2/g)
 
-[^key-a4a046360d89e808944d081248b55c0c]: Textual amendment: Sch. para. 16(3) omitted (3.12.2021) by virtue of [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(16)(c)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/16/c)
+[^c-a4a046360d89e808944d081248b55c0c]: Textual amendment: Sch. para. 16(3) omitted (3.12.2021) by virtue of [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [37(16)(c)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/37/16/c)

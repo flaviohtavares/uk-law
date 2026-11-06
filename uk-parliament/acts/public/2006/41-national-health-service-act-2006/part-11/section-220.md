@@ -27,7 +27,7 @@ summary: ''
 
 including any such property which has been further transferred under section 92 of the National Health Service Act 1977 (c. 49).
 
-(2) This section continues to apply to any such property after any further transfer under section 213 or 214 of this Act or section 300 or 302 of the Health and Social Care Act 2012[^key-e878345e3620b1fc4f46466b958f796d].
+(2) This section continues to apply to any such property after any further transfer under section 213 or 214 of this Act or section 300 or 302 of the Health and Social Care Act 2012[^c-e878345e3620b1fc4f46466b958f796d].
 
 (3) The person holding the property after the transfer or last transfer must secure, so far as is reasonably practicable, that the objects of any original endowment, and the observance of any conditions attached to that endowment, including in particular conditions intended to preserve the memory of any person or class of persons, are not prejudiced by this Part of this Act.
 
@@ -35,10 +35,10 @@ including any such property which has been further transferred under section 92 
 
 (5) Subject to subsection (3), the property must be held on trust for such purposes relating to hospital services (including research), or to any other part of the health service associated with any hospital, as the person holding the property considers appropriate.
 
-(6)[^key-e36e50bc2842ab3e9920eb4f5edae134] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e36e50bc2842ab3e9920eb4f5edae134] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e878345e3620b1fc4f46466b958f796d]: Textual amendment: Words in s. 220(2) inserted (1.7.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 115](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/115); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-e878345e3620b1fc4f46466b958f796d]: Textual amendment: Words in s. 220(2) inserted (1.7.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 115](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/115); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
-[^key-e36e50bc2842ab3e9920eb4f5edae134]: Textual amendment: [S. 220(6)](https://www.legislation.gov.uk/ukpga/2006/41/section/220/6) omitted (17.6.2021) by virtue of [NHS (Charitable Trusts Etc) Act 2016 (c. 10)](https://www.legislation.gov.uk/ukpga/2016/10), [s. 5(1)](https://www.legislation.gov.uk/ukpga/2016/10/section/5/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/7); [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)
+[^c-e36e50bc2842ab3e9920eb4f5edae134]: Textual amendment: [S. 220(6)](https://www.legislation.gov.uk/ukpga/2006/41/section/220/6) omitted (17.6.2021) by virtue of [NHS (Charitable Trusts Etc) Act 2016 (c. 10)](https://www.legislation.gov.uk/ukpga/2016/10), [s. 5(1)](https://www.legislation.gov.uk/ukpga/2016/10/section/5/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2016/10/schedule/1/paragraph/7); [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19A. Deemed consent under marine licences[^key-40dff837905a34e86eb26412afbd5e4f]
+## 19A. Deemed consent under marine licences[^c-40dff837905a34e86eb26412afbd5e4f]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40dff837905a34e86eb26412afbd5e4f]: Textual amendment: S. 19A inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 44(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/44/1), [118(1)(z)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z) (with [ss. 44(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/44/2), [116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-40dff837905a34e86eb26412afbd5e4f]: Textual amendment: S. 19A inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 44(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/44/1), [118(1)(z)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z) (with [ss. 44(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/44/2), [116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

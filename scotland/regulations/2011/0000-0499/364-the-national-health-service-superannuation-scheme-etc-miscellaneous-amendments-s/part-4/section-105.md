@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Amendment of regulation 4[^key-f2ad22cf28c1976ddb9a0edbe7b6c65e]
+## 105. Amendment of regulation 4[^c-f2ad22cf28c1976ddb9a0edbe7b6c65e]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ In regulation 4 (scale of benefits)—
 
 ## Annotations
 
-[^key-f2ad22cf28c1976ddb9a0edbe7b6c65e]: Commencement: [Reg. 105](https://www.legislation.gov.uk/ssi/2011/364/regulation/105) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-f2ad22cf28c1976ddb9a0edbe7b6c65e]: Commencement: [Reg. 105](https://www.legislation.gov.uk/ssi/2011/364/regulation/105) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

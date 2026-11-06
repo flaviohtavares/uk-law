@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Request for further information[^key-e3cbc4c846be00925d0eb56da346cfe2]
+## 33. Request for further information[^c-e3cbc4c846be00925d0eb56da346cfe2]
 
 *Extent: S*
 
-(1) The following persons may request further information in relation to a regulated procurement (other than a higher value regulated procurement[^key-9d774c1eb92600d68acbfef84143c68b])—
+(1) The following persons may request further information in relation to a regulated procurement (other than a higher value regulated procurement[^c-9d774c1eb92600d68acbfef84143c68b])—
 
 - (a) an economic operator who was excluded from participating in the procurement process before it submitted a tender,
 - (b) an unsuccessful tenderer,
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e3cbc4c846be00925d0eb56da346cfe2]: Commencement: S. 33 in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-e3cbc4c846be00925d0eb56da346cfe2]: Commencement: S. 33 in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
 
-[^key-9d774c1eb92600d68acbfef84143c68b]: Textual amendment: Words in s. 33(1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2020/468/regulation/3/3) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-9d774c1eb92600d68acbfef84143c68b]: Textual amendment: Words in s. 33(1) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [3(3)](https://www.legislation.gov.uk/ssi/2020/468/regulation/3/3) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

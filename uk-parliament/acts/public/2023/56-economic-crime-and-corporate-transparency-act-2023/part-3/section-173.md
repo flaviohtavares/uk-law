@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Enforcement of requirement to register: updated language about penalties etc[^key-ae0e6a52d23c5ffcea5fbf985d57bfaf][^key-f67bae397f3cfe63fec02444d01cc8ef]
+## 173. Enforcement of requirement to register: updated language about penalties etc[^c-ae0e6a52d23c5ffcea5fbf985d57bfaf][^c-f67bae397f3cfe63fec02444d01cc8ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae0e6a52d23c5ffcea5fbf985d57bfaf]: Commencement: S. 173 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-ae0e6a52d23c5ffcea5fbf985d57bfaf]: Commencement: S. 173 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-f67bae397f3cfe63fec02444d01cc8ef]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2023/56/section/173) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z57)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z57)
+[^c-f67bae397f3cfe63fec02444d01cc8ef]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2023/56/section/173) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z57)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z57)

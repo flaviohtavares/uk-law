@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Insertion of definition of “the course start date”[^key-5269bda2a3845471324a18bc3da17d98]
+## 5. Insertion of definition of “the course start date”[^c-5269bda2a3845471324a18bc3da17d98]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ In regulation 2(1) (interpretation), after the definition of “course for the i
 
 .
 
-**6.**[^key-cad9163e3f5b252aca7f85e4d59b2fb1] In Part 2 of Schedule 1 (eligible students: categories)[^f00006]—
+**6.**[^c-cad9163e3f5b252aca7f85e4d59b2fb1] In Part 2 of Schedule 1 (eligible students: categories)[^f00006]—
 
 - (a) paragraph 2A(1)(a) (persons who are settled in the United Kingdom), for “the day on which the first term of the first academic year actually begins” substitute “the course start date”;
 - (b) in paragraph 8(1)(c) (persons who are settled in the United Kingdom and have exercised a right of residence elsewhere), for “the day on which the first term of the first academic year actually begins” substitute “the course start date”;
@@ -34,8 +34,8 @@ In regulation 2(1) (interpretation), after the definition of “course for the i
 
 ## Annotations
 
-[^key-5269bda2a3845471324a18bc3da17d98]: Commencement: Reg. 5 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-5269bda2a3845471324a18bc3da17d98]: Commencement: Reg. 5 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-cad9163e3f5b252aca7f85e4d59b2fb1]: Commencement: Reg. 6 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-cad9163e3f5b252aca7f85e4d59b2fb1]: Commencement: Reg. 6 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00006]: Footnote: Paragraph 2A was inserted by [S.I. 2021/127](https://www.legislation.gov.uk/uksi/2021/127) and amended by [S.I 2021/929](https://www.legislation.gov.uk/uksi/2021/929). There are amendments to paragraph 8, but none is relevant. Paragraph 8A was inserted by [S.I. 2021/127](https://www.legislation.gov.uk/uksi/2021/127).

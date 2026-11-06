@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Local education authorities.[^key-9aee198e9a3a8779c9daf6ae3c911cdc]
+## 30. Local education authorities.[^c-9aee198e9a3a8779c9daf6ae3c911cdc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9aee198e9a3a8779c9daf6ae3c911cdc]: Textual amendment: S. 30 repealed (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/20), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2)
+[^c-9aee198e9a3a8779c9daf6ae3c911cdc]: Textual amendment: S. 30 repealed (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/20), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/2)

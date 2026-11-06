@@ -24,7 +24,7 @@ Regulations 29(3) and 35
 
 ### PART 1 — Information required on application for authorisation
 
-**1.**[^key-99655ac6fb16deb5a89f8b60209734d5] The other information to be included in an application, in relation to whether the scheme is financially sustainable, is—
+**1.**[^c-99655ac6fb16deb5a89f8b60209734d5] The other information to be included in an application, in relation to whether the scheme is financially sustainable, is—
 
 - (a) in relation to whether the scheme has sufficient financial resources to meet the costs mentioned in section 65(2)(a) of the Act (financial sustainability requirement)—
   - (i) an estimate of the cost of setting up the scheme;
@@ -49,7 +49,7 @@ Regulations 29(3) and 35
 
 ### PART 2 — Matters which the Pensions Regulator must take into account
 
-**2.**[^key-72214c78d049aed6ec3af7ac3d7a1245] The Pensions Regulator must take account of the following matters in deciding whether it is satisfied that an unconnected multiple employer purchase scheme has sufficient financial resources to meet the costs mentioned in section 65(2)(a) of the Act (financial sustainability requirement)—
+**2.**[^c-72214c78d049aed6ec3af7ac3d7a1245] The Pensions Regulator must take account of the following matters in deciding whether it is satisfied that an unconnected multiple employer purchase scheme has sufficient financial resources to meet the costs mentioned in section 65(2)(a) of the Act (financial sustainability requirement)—
 
 - (a) the scheme’s sources of income, including the estimated amount of income from each source;
 - (b) the estimated cost of setting up the scheme;
@@ -65,7 +65,7 @@ Regulations 29(3) and 35
   - (iii) the beneficiary of the policy;
   - (iv) any limitations on the insurer’s liability.
 
-**3.**[^key-ee1c8c28ff8e01a1cb1f059bdb53dde3] The Pensions Regulator must take account of the following matters in deciding whether it is satisfied that an unconnected multiple employer scheme has sufficient financial resources to meet the costs mentioned in section 65(2)(b) of the Act—
+**3.**[^c-ee1c8c28ff8e01a1cb1f059bdb53dde3] The Pensions Regulator must take account of the following matters in deciding whether it is satisfied that an unconnected multiple employer scheme has sufficient financial resources to meet the costs mentioned in section 65(2)(b) of the Act—
 
 - (a) the most recent estimates of the costs mentioned in section 65(2)(b) of the Act provided in respect of the scheme;
 - (b) the extent and manner in which the scheme proprietor has made provision to meet those costs;
@@ -87,7 +87,7 @@ Regulations 29(3) and 35
 
 ### PART 3 — Requirements to be met by the unconnected multiple employer scheme
 
-**4.**[^key-ecd0af0d30523a874cd3a6b70ec879eb] An unconnected multiple employer scheme must meet the following requirements relating to its financing—
+**4.**[^c-ecd0af0d30523a874cd3a6b70ec879eb] An unconnected multiple employer scheme must meet the following requirements relating to its financing—
 
 - (a) any assets held by the scheme proprietor, or available to the trustees, to meet the costs mentioned in section 65(2) of the Act (financial sustainability requirement) must be—
   - (i) of the classes and in the proportions set out in a Code;
@@ -98,10 +98,10 @@ Regulations 29(3) and 35
 
 ## Annotations
 
-[^key-99655ac6fb16deb5a89f8b60209734d5]: Commencement: Sch. 3 para. 1 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-99655ac6fb16deb5a89f8b60209734d5]: Commencement: Sch. 3 para. 1 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-72214c78d049aed6ec3af7ac3d7a1245]: Commencement: Sch. 3 para. 2 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-72214c78d049aed6ec3af7ac3d7a1245]: Commencement: Sch. 3 para. 2 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-ee1c8c28ff8e01a1cb1f059bdb53dde3]: Commencement: Sch. 3 para. 3 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-ee1c8c28ff8e01a1cb1f059bdb53dde3]: Commencement: Sch. 3 para. 3 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
-[^key-ecd0af0d30523a874cd3a6b70ec879eb]: Commencement: Sch. 3 para. 4 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-ecd0af0d30523a874cd3a6b70ec879eb]: Commencement: Sch. 3 para. 4 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

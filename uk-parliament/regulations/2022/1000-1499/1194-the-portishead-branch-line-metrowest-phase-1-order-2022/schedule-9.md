@@ -22,7 +22,7 @@ summary: ''
 
 Article 21
 
-### PART 1 — Crossings extinguished: works required[^key-61ca3db97fe5e78e8824ece9548eb21d]
+### PART 1 — Crossings extinguished: works required[^c-61ca3db97fe5e78e8824ece9548eb21d]
 
 | *(1)*<br>*Area* | *(2)*<br>*Accommodation facility to be discontinued* | *(3)*<br>*Rights to be extinguished* | *(4)*<br>*Works to be provided* |
 | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ Article 21
 | In the District of North Somerset, Portbury | Crossing at 128 miles 39 chains at Shipway Gate Farm | All rights (if any) to use the crossing at Shipway Gate Farm between the points S11 and S12 shown on sheet 2 of the crossings to be extinguished plans | New gate and works on the highway known as Sheepway marked N1 on sheet 2 of the crossings to be extinguished plans |
 | In the District of North Somerset, Portbury | Crossing at 128 miles 17 chains at Elm Tree Farm, Portbury | All rights (if any) to use the crossing to the South of Sheepway and to the west of Elm Tree Farm between the points S13 and S14 shown on sheet 3 of the crossings to be extinguished plans | New gate and works on the highway known as Portbury Hundred marked N2 on sheet 3 of the crossings to be extinguished plans |
 
-### PART 2 — Crossings for which no substitute is to be provided[^key-143b96065b895c6d5b82fdb01ed5283c]
+### PART 2 — Crossings for which no substitute is to be provided[^c-143b96065b895c6d5b82fdb01ed5283c]
 
 | *(1)*<br>*Area* | *(2)*<br>*Crossing to be discontinued* | *(3)*<br>*Right to be extinguished* |
 | --- | --- | --- |
@@ -44,6 +44,6 @@ Article 21
 
 ## Annotations
 
-[^key-61ca3db97fe5e78e8824ece9548eb21d]: Commencement: Sch. 9 Pt. 1 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-61ca3db97fe5e78e8824ece9548eb21d]: Commencement: Sch. 9 Pt. 1 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
-[^key-143b96065b895c6d5b82fdb01ed5283c]: Commencement: Sch. 9 Pt. 2 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-143b96065b895c6d5b82fdb01ed5283c]: Commencement: Sch. 9 Pt. 2 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

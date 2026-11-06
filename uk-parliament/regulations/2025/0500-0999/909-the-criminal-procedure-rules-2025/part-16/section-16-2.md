@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16.2. Content of written witness statement[^key-ccc871cd53ddba6dba699d6c7ece2f4f]
+## 16.2. Content of written witness statement[^c-ccc871cd53ddba6dba699d6c7ece2f4f]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ The statement must contain—
 
 ## Annotations
 
-[^key-ccc871cd53ddba6dba699d6c7ece2f4f]: Commencement: [Rule 16.2](https://www.legislation.gov.uk/uksi/2025/909/rule/16.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ccc871cd53ddba6dba699d6c7ece2f4f]: Commencement: [Rule 16.2](https://www.legislation.gov.uk/uksi/2025/909/rule/16.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

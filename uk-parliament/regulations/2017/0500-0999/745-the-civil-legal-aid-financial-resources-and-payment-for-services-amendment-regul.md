@@ -44,11 +44,11 @@ Coming into force in accordance with regulation 1
 
 The Lord Chancellor makes the following Regulations in exercise of the powers conferred by sections 21(2) and 41(1) and (3)(a) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00001]:
 
-## 1. Citation and commencement[^key-1cef1c39ed0be5b286d6567cc3a30227]
+## 1. Citation and commencement[^c-1cef1c39ed0be5b286d6567cc3a30227]
 
 These Regulations may be cited as the Civil Legal Aid (Financial Resources and Payment for Services) (Amendment) Regulations 2017 and come into force on the day after the day on which these Regulations are laid before Parliament.
 
-## 2. Amendments to the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^key-431a01ddf569d6c31e0e0a79fe3c192e]
+## 2. Amendments to the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^c-431a01ddf569d6c31e0e0a79fe3c192e]
 
 (1) The Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^f00002] are amended as follows.
 
@@ -110,9 +110,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10). Section 42(1) of the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10) provides that in Part 1 of that Act “regulations” means regulations made by the Lord Chancellor.
 
-[^key-1cef1c39ed0be5b286d6567cc3a30227]: Commencement: Reg. 1 in force at 13.7.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/745/regulation/1)
+[^c-1cef1c39ed0be5b286d6567cc3a30227]: Commencement: Reg. 1 in force at 13.7.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/745/regulation/1)
 
-[^key-431a01ddf569d6c31e0e0a79fe3c192e]: Commencement: Reg. 2 in force at 13.7.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/745/regulation/1)
+[^c-431a01ddf569d6c31e0e0a79fe3c192e]: Commencement: Reg. 2 in force at 13.7.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/745/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2013/480](https://www.legislation.gov.uk/uksi/2013/480).
 

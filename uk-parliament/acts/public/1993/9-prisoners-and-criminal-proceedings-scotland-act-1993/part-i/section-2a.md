@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. Rules for section 2(2)(d) cases[^key-477de9dec79482a9c283b1a528b1d292]
+## 2A. Rules for section 2(2)(d) cases[^c-477de9dec79482a9c283b1a528b1d292]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-477de9dec79482a9c283b1a528b1d292]: Textual amendment: Ss. 2A, 2B inserted (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(3)](https://www.legislation.gov.uk/asp/2012/7/section/1/3), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3) (with [arts. 2(2)](https://www.legislation.gov.uk/ssi/2012/249/article/2/2), [4](https://www.legislation.gov.uk/ssi/2012/249/article/4))
+[^c-477de9dec79482a9c283b1a528b1d292]: Textual amendment: Ss. 2A, 2B inserted (24.9.2012) by [Criminal Cases (Punishment and Review) (Scotland) Act 2012 (asp 7)](https://www.legislation.gov.uk/asp/2012/7), [ss. 1(3)](https://www.legislation.gov.uk/asp/2012/7/section/1/3), [5(2)](https://www.legislation.gov.uk/asp/2012/7/section/5/2); [S.S.I. 2012/249](https://www.legislation.gov.uk/ssi/2012/249), [art. 3](https://www.legislation.gov.uk/ssi/2012/249/article/3) (with [arts. 2(2)](https://www.legislation.gov.uk/ssi/2012/249/article/2/2), [4](https://www.legislation.gov.uk/ssi/2012/249/article/4))

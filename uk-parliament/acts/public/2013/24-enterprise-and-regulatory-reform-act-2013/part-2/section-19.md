@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Worker subjected to detriment by co-worker or agent of employer[^key-916d274907f8dec2b857b52f6550e19e]
+## 19. Worker subjected to detriment by co-worker or agent of employer[^c-916d274907f8dec2b857b52f6550e19e]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-916d274907f8dec2b857b52f6550e19e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2013/24/section/19) in force at 25.6.2013 by [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1455/article/2/a) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2))
+[^c-916d274907f8dec2b857b52f6550e19e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2013/24/section/19) in force at 25.6.2013 by [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1455/article/2/a) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2))

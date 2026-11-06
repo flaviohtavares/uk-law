@@ -22,9 +22,9 @@ summary: ''
 
 Section 2
 
-**1.**[^key-062fdf0faa643e9fe19fc4ca25ba066c] Schedule 2 to the Representation of the People Act 1983 (provisions which may be contained in regulations as to registration etc) is amended as follows.
+**1.**[^c-062fdf0faa643e9fe19fc4ca25ba066c] Schedule 2 to the Representation of the People Act 1983 (provisions which may be contained in regulations as to registration etc) is amended as follows.
 
-**2.**[^key-4ff7b3f028d31cd44cddda5d4a6a8bc5] After paragraph 1 insert—
+**2.**[^c-4ff7b3f028d31cd44cddda5d4a6a8bc5] After paragraph 1 insert—
 
 > **1A.** (1) Provision authorising or requiring a person to disclose information to another person for the purpose of assisting a registration officer in Great Britain—
 >
@@ -50,7 +50,7 @@ Section 2
 >
 > (5) In this paragraph “**processing**” has the same meaning as in the Data Protection Act 1998.
 
-**3.**[^key-f7d99e75e3b76c4453826f83912cdc24] After paragraph 8B (inserted by section 2) insert—
+**3.**[^c-f7d99e75e3b76c4453826f83912cdc24] After paragraph 8B (inserted by section 2) insert—
 
 > **8C.** (1) Provision requiring the retention or disposal, or otherwise regulating the processing, of—
 >
@@ -60,7 +60,7 @@ Section 2
 >
 > (2) In this paragraph “**processing**” has the same meaning as in the Data Protection Act 1998.
 
-**4.**[^key-e271f4bb893c94709bdcb15b38720d95] In paragraph 13, after sub-paragraph (1ZA) insert—
+**4.**[^c-e271f4bb893c94709bdcb15b38720d95] In paragraph 13, after sub-paragraph (1ZA) insert—
 
 > (1ZB) Provision making it an offence, in prescribed circumstances, for a person to process information in breach of provision made under paragraph 1A(3)(e) or (f) or 8C.
 >
@@ -79,7 +79,7 @@ Section 2
 >   - (i) in England and Wales, 51 weeks, and
 >   - (ii) in Scotland or Northern Ireland, 6 months.
 
-**5.**[^key-d985d55f40ff84e6e2d846a2401cd5a9] In section 53 of the Representation of the People Act 1983 (power to make regulations as to registration etc), after subsection (4) insert—
+**5.**[^c-d985d55f40ff84e6e2d846a2401cd5a9] In section 53 of the Representation of the People Act 1983 (power to make regulations as to registration etc), after subsection (4) insert—
 
 > (5) Before making regulations containing provision under paragraph 1A of Schedule 2, or paragraph 13(1ZB) of that Schedule so far as relating to that paragraph, the Secretary of State must consult—
 >
@@ -98,12 +98,12 @@ Section 2
 
 ## Annotations
 
-[^key-062fdf0faa643e9fe19fc4ca25ba066c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2013/6/schedule/2/paragraph/1) in force at 5.2.2013 by [S.I. 2013/219](https://www.legislation.gov.uk/uksi/2013/219), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/219/article/2/c)
+[^c-062fdf0faa643e9fe19fc4ca25ba066c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2013/6/schedule/2/paragraph/1) in force at 5.2.2013 by [S.I. 2013/219](https://www.legislation.gov.uk/uksi/2013/219), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/219/article/2/c)
 
-[^key-4ff7b3f028d31cd44cddda5d4a6a8bc5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2013/6/schedule/2/paragraph/2) in force at 5.2.2013 by [S.I. 2013/219](https://www.legislation.gov.uk/uksi/2013/219), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/219/article/2/c)
+[^c-4ff7b3f028d31cd44cddda5d4a6a8bc5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2013/6/schedule/2/paragraph/2) in force at 5.2.2013 by [S.I. 2013/219](https://www.legislation.gov.uk/uksi/2013/219), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/219/article/2/c)
 
-[^key-f7d99e75e3b76c4453826f83912cdc24]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2013/6/schedule/2/paragraph/3) in force at 5.2.2013 by [S.I. 2013/219](https://www.legislation.gov.uk/uksi/2013/219), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/219/article/2/c)
+[^c-f7d99e75e3b76c4453826f83912cdc24]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2013/6/schedule/2/paragraph/3) in force at 5.2.2013 by [S.I. 2013/219](https://www.legislation.gov.uk/uksi/2013/219), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/219/article/2/c)
 
-[^key-e271f4bb893c94709bdcb15b38720d95]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/6/schedule/2/paragraph/4) in force at 5.2.2013 by [S.I. 2013/219](https://www.legislation.gov.uk/uksi/2013/219), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/219/article/2/c)
+[^c-e271f4bb893c94709bdcb15b38720d95]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/6/schedule/2/paragraph/4) in force at 5.2.2013 by [S.I. 2013/219](https://www.legislation.gov.uk/uksi/2013/219), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/219/article/2/c)
 
-[^key-d985d55f40ff84e6e2d846a2401cd5a9]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/2/paragraph/5) in force at 5.2.2013 by [S.I. 2013/219](https://www.legislation.gov.uk/uksi/2013/219), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/219/article/2/c)
+[^c-d985d55f40ff84e6e2d846a2401cd5a9]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/2/paragraph/5) in force at 5.2.2013 by [S.I. 2013/219](https://www.legislation.gov.uk/uksi/2013/219), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/219/article/2/c)

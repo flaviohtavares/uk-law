@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Child rights and wellbeing impact assessments[^key-dce3d898c38832d16917403acc31916a]
+## 17. Child rights and wellbeing impact assessments[^c-dce3d898c38832d16917403acc31916a]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dce3d898c38832d16917403acc31916a]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2024/1/section/17) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-dce3d898c38832d16917403acc31916a]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2024/1/section/17) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

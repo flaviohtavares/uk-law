@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Directions[^key-fb5e9dc780d291dbfb3ccf1996a88e1b]
+## 22. Directions[^c-fb5e9dc780d291dbfb3ccf1996a88e1b]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb5e9dc780d291dbfb3ccf1996a88e1b]: Commencement: Reg. 22 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-fb5e9dc780d291dbfb3ccf1996a88e1b]: Commencement: Reg. 22 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

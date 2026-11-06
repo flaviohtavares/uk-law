@@ -32,7 +32,7 @@ summary: ''
 
 Countryside, England
 
-The National Park Authorities (Amendment) (England) Order 2009 (revoked)[^key-aba024b46dc219a45a0c185e90cf79ab]
+The National Park Authorities (Amendment) (England) Order 2009 (revoked)[^c-aba024b46dc219a45a0c185e90cf79ab]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2009
 
-[^key-aba024b46dc219a45a0c185e90cf79ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aba024b46dc219a45a0c185e90cf79ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-aba024b46dc219a45a0c185e90cf79ab]
+## 1. Citation and commencement[^c-aba024b46dc219a45a0c185e90cf79ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Park Authorities (England) Order 1996[^key-aba024b46dc219a45a0c185e90cf79ab]
+## 2. Amendment of the National Park Authorities (England) Order 1996[^c-aba024b46dc219a45a0c185e90cf79ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aba024b46dc219a45a0c185e90cf79ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aba024b46dc219a45a0c185e90cf79ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-aba024b46dc219a45a0c185e90cf79ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aba024b46dc219a45a0c185e90cf79ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aba024b46dc219a45a0c185e90cf79ab]: Textual amendment: Order revoked (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [arts. 1](https://www.legislation.gov.uk/uksi/2015/770/article/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/770/article/12/c)
+[^c-aba024b46dc219a45a0c185e90cf79ab]: Textual amendment: Order revoked (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [arts. 1](https://www.legislation.gov.uk/uksi/2015/770/article/1), [12(c)](https://www.legislation.gov.uk/uksi/2015/770/article/12/c)

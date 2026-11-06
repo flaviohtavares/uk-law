@@ -45,11 +45,11 @@ Coming into force
 
 The Commissioners of Customs and Excise, in exercise of the powers conferred on them by sections 93(1), (2)(a), (fa), (fb), (3), 100G and 100H of the Customs and Excise Management Act 1979[^f00001], sections 7(1)(a) and 1A(b) of the Tobacco Products Duty Act 1979[^f00002] and sections 1 and 2 of the Finance (No 2) Act 1992[^f00003], hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-c6e1232d67e4ce31386a4263d9eb2a69]
+## 1. Citation and commencement[^c-c6e1232d67e4ce31386a4263d9eb2a69]
 
 These Regulations may be cited as the Excise Duty Points (Etc.)(New Member States) Regulations 2004 and come into force on 1st May 2004.
 
-## 2. Interpretation[^key-b7ce18a46e313a64e02366d75a0b4fd3]
+## 2. Interpretation[^c-b7ce18a46e313a64e02366d75a0b4fd3]
 
 (1) In these Regulations—
 
@@ -59,27 +59,27 @@ These Regulations may be cited as the Excise Duty Points (Etc.)(New Member State
 
 (2) In these Regulations references to “cigarettes”, “cigars”, “hand rolling tobacco” and “other smoking tobacco” are references to the products described in the Tobacco Products (Descriptions of Products) Order 2003[^f00004].
 
-## 3. Excise duty point for tobacco products acquired in a new member State[^key-ee95efa9517d50d157035ff80e2e5015]
+## 3. Excise duty point for tobacco products acquired in a new member State[^c-ee95efa9517d50d157035ff80e2e5015]
 
 (1) The excise duty point for tobacco products acquired in a new member State is the time when the tobacco products are charged with duty.
 
-(2)[^key-834351caa89a4bb8e52c50873a76fd36] For the purposes of paragraph (1) above, tobacco products acquired in a new member State shall mean —
+(2)[^c-834351caa89a4bb8e52c50873a76fd36] For the purposes of paragraph (1) above, tobacco products acquired in a new member State shall mean —
 
 - (a) cigarettes acquired by a person in a country listed in Column 1 of the Schedule for his own use and transported by him to the United Kingdom;
 - (b) cigars, cigarillos or smoking tobacco acquired by a person in the Czech Republic for his own use and transported by him to the United Kingdom; and
 - (c) smoking tobacco acquired by a person in Estonia for his own use and transported by him to the United Kingdom.
 
-## 4. Person liable to pay the duty[^key-9faf6bd118d5daf74a0c0bfb9883c100]
+## 4. Person liable to pay the duty[^c-9faf6bd118d5daf74a0c0bfb9883c100]
 
 The person liable to pay the duty is the person holding the tobacco products at the excise duty point.
 
-## 5. Payment of the duty[^key-a8a4a3dfe006b76c3d833879e48db758]
+## 5. Payment of the duty[^c-a8a4a3dfe006b76c3d833879e48db758]
 
 (1) Subject to paragraph (2) below, the duty must be paid at the excise duty point.
 
 (2) The Commissioners may, subject to such conditions as appear necessary for the protection of the revenue, dispense with the requirement imposed by paragraph (1).
 
-## 6. Period for which regulation 3 shall apply[^key-0fd526571a475ee4cf707d2e6788a4e2][^key-20b7badf2b47c419c2ef22e5b3a53b75]
+## 6. Period for which regulation 3 shall apply[^c-0fd526571a475ee4cf707d2e6788a4e2][^c-20b7badf2b47c419c2ef22e5b3a53b75]
 
 (1) Regulation 3(2)(a) shall have effect in relation to cigarettes transported to the United Kingdom from a country listed in Column 1 of the Schedule on or before the date shown opposite that country in Column 2 of the Schedule.
 
@@ -87,7 +87,7 @@ The person liable to pay the duty is the person holding the tobacco products at 
 
 (3) Regulation 3(2)(c) shall have effect on or before 31st December 2009.
 
-## 7. Interpretation of other Regulations relating to excise goods[^key-e3061dffc34fd83790b6e983e91b3536]
+## 7. Interpretation of other Regulations relating to excise goods[^c-e3061dffc34fd83790b6e983e91b3536]
 
 (1) In the Regulations listed below, references to
 
@@ -97,19 +97,19 @@ The person liable to pay the duty is the person holding the tobacco products at 
 
 shall be treated as references to those instruments as amended, modified or otherwise affected by the Act concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded[^f00008].
 
-(1A)[^key-8a505c7d8d5105b77bf6eb83d27de553] In the Regulations listed in sub-paragraphs (c) to (g) of paragraph (2) below, references to Council Directive [92/12/EEC](https://www.legislation.gov.uk/european/directive/1992/0012) shall be treated as references to that instrument as amended, modified or otherwise affected by the Act concerning the conditions of accession of the Republic of Bulgaria and Romania and the adjustments to the treaties on which the European Union is founded.
+(1A)[^c-8a505c7d8d5105b77bf6eb83d27de553] In the Regulations listed in sub-paragraphs (c) to (g) of paragraph (2) below, references to Council Directive [92/12/EEC](https://www.legislation.gov.uk/european/directive/1992/0012) shall be treated as references to that instrument as amended, modified or otherwise affected by the Act concerning the conditions of accession of the Republic of Bulgaria and Romania and the adjustments to the treaties on which the European Union is founded.
 
 (2) The Regulations referred to in paragraph 1 above are —
 
 - (a) the Excise Warehousing (Etc.) Regulations 1988[^f00009];
 - (b) the Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992[^f00010];
 - (c) the Excise Goods (Drawback) Regulations 1995[^f00011];
-- (d)[^key-cf51b1f48c519a3f51ae180935302e53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-cf51b1f48c519a3f51ae180935302e53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the Excise Goods (Export Shops) Regulations 2000[^f00013];
 - (f) the Excise Duty Points (Duty Suspended Movements of Excise Goods) Regulations 2001[^f00014]; and
 - (g) the Excise Goods (Accompanying Documents) Regulations 2002[^f00015].
 
-## 8. The Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992[^key-7e3590cb13cf3a698830327a309e1abf]
+## 8. The Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992[^c-7e3590cb13cf3a698830327a309e1abf]
 
 **No longer in force.**
 
@@ -117,9 +117,9 @@ shall be treated as references to those instruments as amended, modified or othe
 
 ## 9. The Beer Regulations 1993
 
-[^key-7e3590cb13cf3a698830327a309e1abf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e3590cb13cf3a698830327a309e1abf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. The Tobacco Products Regulations 2001[^key-7e3590cb13cf3a698830327a309e1abf]
+## 10. The Tobacco Products Regulations 2001[^c-7e3590cb13cf3a698830327a309e1abf]
 
 **No longer in force.**
 
@@ -131,7 +131,7 @@ Commissioner of Customs and Excise
 
 New King’s Beam House 22 Upper Ground LONDON SE1 9PJ
 
-## SCHEDULE[^key-c7f981f278af286217e5452bb6492b33]
+## SCHEDULE[^c-c7f981f278af286217e5452bb6492b33]
 
 Regulation 3(2)(a) and 6(1).
 
@@ -148,7 +148,7 @@ Regulation 3(2)(a) and 6(1).
 </tbody>
 </table>
 
-[^key-f74ee75355c60ae7577699edcd00a184]
+[^c-f74ee75355c60ae7577699edcd00a184]
 
 (This note is not part of these Regulations)
 
@@ -172,25 +172,25 @@ A full Regulatory Impact Assessment has not been produced for this instrument as
 
 [^f00003]: Footnote: [1992 c. 48](https://www.legislation.gov.uk/ukpga/1992/48); section 2 was amended by the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16), sections 11(1) and (2).
 
-[^key-c6e1232d67e4ce31386a4263d9eb2a69]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
+[^c-c6e1232d67e4ce31386a4263d9eb2a69]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
 
-[^key-b7ce18a46e313a64e02366d75a0b4fd3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2004/1003/regulation/2) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
+[^c-b7ce18a46e313a64e02366d75a0b4fd3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2004/1003/regulation/2) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
 
 [^f00004]: Footnote: S.I. [2003/1471](https://www.legislation.gov.uk/uksi/2003/1471).
 
-[^key-ee95efa9517d50d157035ff80e2e5015]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2004/1003/regulation/3) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
+[^c-ee95efa9517d50d157035ff80e2e5015]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2004/1003/regulation/3) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
 
-[^key-834351caa89a4bb8e52c50873a76fd36]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2004/1003/regulation/3/2) modified (1.5.2004) by [S.I. 2003/2758](https://www.legislation.gov.uk/uksi/2003/2758), [Sch. para. 12A](https://www.legislation.gov.uk/uksi/2003/2758/schedule/paragraph/12A) (as inserted by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) (Amendment) Order 2004 (S.I. 2004/1004)](https://www.legislation.gov.uk/uksi/2004/1004), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1004/article/1), [4](https://www.legislation.gov.uk/uksi/2004/1004/article/4))
+[^c-834351caa89a4bb8e52c50873a76fd36]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2004/1003/regulation/3/2) modified (1.5.2004) by [S.I. 2003/2758](https://www.legislation.gov.uk/uksi/2003/2758), [Sch. para. 12A](https://www.legislation.gov.uk/uksi/2003/2758/schedule/paragraph/12A) (as inserted by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) (Amendment) Order 2004 (S.I. 2004/1004)](https://www.legislation.gov.uk/uksi/2004/1004), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1004/article/1), [4](https://www.legislation.gov.uk/uksi/2004/1004/article/4))
 
-[^key-9faf6bd118d5daf74a0c0bfb9883c100]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2004/1003/regulation/4) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
+[^c-9faf6bd118d5daf74a0c0bfb9883c100]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2004/1003/regulation/4) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
 
-[^key-a8a4a3dfe006b76c3d833879e48db758]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2004/1003/regulation/5) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
+[^c-a8a4a3dfe006b76c3d833879e48db758]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2004/1003/regulation/5) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
 
-[^key-0fd526571a475ee4cf707d2e6788a4e2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2004/1003/regulation/6) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
+[^c-0fd526571a475ee4cf707d2e6788a4e2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2004/1003/regulation/6) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
 
-[^key-20b7badf2b47c419c2ef22e5b3a53b75]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2004/1003/regulation/6) modified (1.5.2004) by [S.I. 2003/2758](https://www.legislation.gov.uk/uksi/2003/2758), [Sch. para. 12A](https://www.legislation.gov.uk/uksi/2003/2758/schedule/paragraph/12A) (as inserted by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) (Amendment) Order 2004 (S.I. 2004/1004)](https://www.legislation.gov.uk/uksi/2004/1004), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1004/article/1), [4](https://www.legislation.gov.uk/uksi/2004/1004/article/4))
+[^c-20b7badf2b47c419c2ef22e5b3a53b75]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2004/1003/regulation/6) modified (1.5.2004) by [S.I. 2003/2758](https://www.legislation.gov.uk/uksi/2003/2758), [Sch. para. 12A](https://www.legislation.gov.uk/uksi/2003/2758/schedule/paragraph/12A) (as inserted by [The Channel Tunnel (Alcoholic Liquor and Tobacco Products) (Amendment) Order 2004 (S.I. 2004/1004)](https://www.legislation.gov.uk/uksi/2004/1004), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1004/article/1), [4](https://www.legislation.gov.uk/uksi/2004/1004/article/4))
 
-[^key-e3061dffc34fd83790b6e983e91b3536]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2004/1003/regulation/7) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
+[^c-e3061dffc34fd83790b6e983e91b3536]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2004/1003/regulation/7) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
 
 [^f00005]: Footnote: OJ No L76,23.3.1992, p1, to which there are amendments not relevant to these Regulations; Article 2 of the Directive gives a description of the Directive’s territorial application; that description includes a reference to Article 227 (now 299) of the EC Treaty; paragraphs 1 and 6(b) of that Article have been amended by Article 19 of, and Protocol No 3 to, the Act of Accession referred to in regulation 7(1).
 
@@ -200,7 +200,7 @@ A full Regulatory Impact Assessment has not been produced for this instrument as
 
 [^f00008]: Footnote: OJ No L 236,15.9.2003, p33.
 
-[^key-8a505c7d8d5105b77bf6eb83d27de553]: Textual amendment: [Reg. 7(1A)](https://www.legislation.gov.uk/uksi/2004/1003/regulation/7/1A) inserted (1.1.2007) by [The Excise Duty Points (Etc.)(New Member States)(Amendment) Regulations 2006 (S.I. 2006/3159)](https://www.legislation.gov.uk/uksi/2006/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3159/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/3159/regulation/3)
+[^c-8a505c7d8d5105b77bf6eb83d27de553]: Textual amendment: [Reg. 7(1A)](https://www.legislation.gov.uk/uksi/2004/1003/regulation/7/1A) inserted (1.1.2007) by [The Excise Duty Points (Etc.)(New Member States)(Amendment) Regulations 2006 (S.I. 2006/3159)](https://www.legislation.gov.uk/uksi/2006/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3159/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/3159/regulation/3)
 
 [^f00009]: Footnote: S.I. [1988/809](https://www.legislation.gov.uk/uksi/1988/809), relevant amending instrument S.I. [2002/501](https://www.legislation.gov.uk/uksi/2002/501).
 
@@ -208,7 +208,7 @@ A full Regulatory Impact Assessment has not been produced for this instrument as
 
 [^f00011]: Footnote: S.I. [1995/1046](https://www.legislation.gov.uk/uksi/1995/1046).
 
-[^key-cf51b1f48c519a3f51ae180935302e53]: Textual amendment: [Reg. 7(2)(d)](https://www.legislation.gov.uk/uksi/2004/1003/regulation/7/2/d) omitted (31.12.2020) by virtue of [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [15](https://www.legislation.gov.uk/uksi/2020/1412/regulation/15)
+[^c-cf51b1f48c519a3f51ae180935302e53]: Textual amendment: [Reg. 7(2)(d)](https://www.legislation.gov.uk/uksi/2004/1003/regulation/7/2/d) omitted (31.12.2020) by virtue of [The Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 (S.I. 2020/1412)](https://www.legislation.gov.uk/uksi/2020/1412), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1), [15](https://www.legislation.gov.uk/uksi/2020/1412/regulation/15)
 
 [^f00013]: Footnote: S.I. [2000/645](https://www.legislation.gov.uk/uksi/2000/645).
 
@@ -216,11 +216,11 @@ A full Regulatory Impact Assessment has not been produced for this instrument as
 
 [^f00015]: Footnote: S.I. [2002/501](https://www.legislation.gov.uk/uksi/2002/501).
 
-[^key-7e3590cb13cf3a698830327a309e1abf]: Textual amendment: [Regs. 8-10](https://www.legislation.gov.uk/uksi/2004/1003/regulation/8) revoked (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3) Table
+[^c-7e3590cb13cf3a698830327a309e1abf]: Textual amendment: [Regs. 8-10](https://www.legislation.gov.uk/uksi/2004/1003/regulation/8) revoked (1.4.2010) by [The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 (S.I. 2010/593)](https://www.legislation.gov.uk/uksi/2010/593), [regs. 2](https://www.legislation.gov.uk/uksi/2010/593/regulation/2), [91](https://www.legislation.gov.uk/uksi/2010/593/regulation/91), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/593/schedule/3) Table
 
-[^key-c7f981f278af286217e5452bb6492b33]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2004/1003/schedule) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
+[^c-c7f981f278af286217e5452bb6492b33]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2004/1003/schedule) in force at 1.5.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2004/1003/regulation/1)
 
-[^key-f74ee75355c60ae7577699edcd00a184]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2004/1003/schedule) added (1.1.2007) by [The Excise Duty Points (Etc.)(New Member States)(Amendment) Regulations 2006 (S.I. 2006/3159)](https://www.legislation.gov.uk/uksi/2006/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3159/regulation/1), [4](https://www.legislation.gov.uk/uksi/2006/3159/regulation/4)
+[^c-f74ee75355c60ae7577699edcd00a184]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2004/1003/schedule) added (1.1.2007) by [The Excise Duty Points (Etc.)(New Member States)(Amendment) Regulations 2006 (S.I. 2006/3159)](https://www.legislation.gov.uk/uksi/2006/3159), [regs. 1](https://www.legislation.gov.uk/uksi/2006/3159/regulation/1), [4](https://www.legislation.gov.uk/uksi/2006/3159/regulation/4)
 
 [^f00019]: Footnote: OJ No L236,15.9.2003, p33. See paragraphs 2 and 3 of Chapter 5 of Annex V, paragraphs 3 and 4 of Chapter 7 of Annex VI, paragraph 2 of Chapter 7 of Annex VII, paragraph 2 of Chapter 8 of Annex IX, paragraph 2 of Chapter 7 of Annex X, paragraph 2 of Chapter 9 of Annex XII, paragraph 2 of Chapter 6 to Annex XIII and paragraph 2 of Chapter 7 of Annex XIV to the Act of Accession.
 

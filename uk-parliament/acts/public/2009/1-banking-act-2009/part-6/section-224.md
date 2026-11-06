@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Application to court[^key-9047bd599108f0cb0caeceb5faaf9cf7]
+## 224. Application to court[^c-9047bd599108f0cb0caeceb5faaf9cf7]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Banknote regulations may enable the Bank of England to apply to the High Court o
 
 ## Annotations
 
-[^key-9047bd599108f0cb0caeceb5faaf9cf7]: Commencement: S. 224 in force at 12.11.2009 for specified purposes and 23.11.2009 in so far as not already in force by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [arts. 2](https://www.legislation.gov.uk/uksi/2009/3000/article/2), [3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-9047bd599108f0cb0caeceb5faaf9cf7]: Commencement: S. 224 in force at 12.11.2009 for specified purposes and 23.11.2009 in so far as not already in force by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [arts. 2](https://www.legislation.gov.uk/uksi/2009/3000/article/2), [3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)

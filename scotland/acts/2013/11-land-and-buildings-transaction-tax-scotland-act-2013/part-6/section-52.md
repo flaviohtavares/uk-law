@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-5c5a5366a1a632fb1ef2f8810f813466][^key-b9a6725d1330971fd46129d109e8dc97] Schedule 19 makes provision about the application of this Act to chargeable transactions involving leases, including provision for the calculation of the tax chargeable in relation to such transactions.
+(1)[^c-5c5a5366a1a632fb1ef2f8810f813466][^c-b9a6725d1330971fd46129d109e8dc97] Schedule 19 makes provision about the application of this Act to chargeable transactions involving leases, including provision for the calculation of the tax chargeable in relation to such transactions.
 
-(2)[^key-edbdc62ea3464e873944b4c07c753230] The Scottish Ministers may, by regulations, modify schedule 19.
+(2)[^c-edbdc62ea3464e873944b4c07c753230] The Scottish Ministers may, by regulations, modify schedule 19.
 
 ## Annotations
 
-[^key-5c5a5366a1a632fb1ef2f8810f813466]: Commencement: [S. 52(1)](https://www.legislation.gov.uk/asp/2013/11/section/52/1) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/279](https://www.legislation.gov.uk/ssi/2014/279), [art. 2](https://www.legislation.gov.uk/ssi/2014/279/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/279/schedule)
+[^c-5c5a5366a1a632fb1ef2f8810f813466]: Commencement: [S. 52(1)](https://www.legislation.gov.uk/asp/2013/11/section/52/1) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/279](https://www.legislation.gov.uk/ssi/2014/279), [art. 2](https://www.legislation.gov.uk/ssi/2014/279/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/279/schedule)
 
-[^key-b9a6725d1330971fd46129d109e8dc97]: Commencement: [S. 52(1)](https://www.legislation.gov.uk/asp/2013/11/section/52/1) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-b9a6725d1330971fd46129d109e8dc97]: Commencement: [S. 52(1)](https://www.legislation.gov.uk/asp/2013/11/section/52/1) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-edbdc62ea3464e873944b4c07c753230]: Commencement: [S. 52(2)](https://www.legislation.gov.uk/asp/2013/11/section/52/2) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-edbdc62ea3464e873944b4c07c753230]: Commencement: [S. 52(2)](https://www.legislation.gov.uk/asp/2013/11/section/52/2) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

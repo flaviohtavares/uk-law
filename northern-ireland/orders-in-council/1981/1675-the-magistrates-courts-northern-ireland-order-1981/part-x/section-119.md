@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 119. Penalty for witness failing to appear or obey direction of court excluding him[^key-d82c58958b1c364fb1a3be9e5c87f408][^key-3e83c514019b9ac4e115cd02a6a57f4d][^c22520551]
+## 119. Penalty for witness failing to appear or obey direction of court excluding him[^c-d82c58958b1c364fb1a3be9e5c87f408][^c-3e83c514019b9ac4e115cd02a6a57f4d][^c22520551]
 
 *Extent: N.I.*
 
@@ -32,9 +32,9 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 ## Annotations
 
-[^key-d82c58958b1c364fb1a3be9e5c87f408]: Modification: [Art. 119](https://www.legislation.gov.uk/nisi/1981/1675/article/119) applied by 1972 c. 18, s. 38(4) (as amended) (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 54](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/54); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-d82c58958b1c364fb1a3be9e5c87f408]: Modification: [Art. 119](https://www.legislation.gov.uk/nisi/1981/1675/article/119) applied by 1972 c. 18, s. 38(4) (as amended) (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 54](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/54); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-3e83c514019b9ac4e115cd02a6a57f4d]: Modification: [Art. 119](https://www.legislation.gov.uk/nisi/1981/1675/article/119) applied (with modifications) by 1972 c. 18, s. 14(3) (as amended) (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 37(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/37/1); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-3e83c514019b9ac4e115cd02a6a57f4d]: Modification: [Art. 119](https://www.legislation.gov.uk/nisi/1981/1675/article/119) applied (with modifications) by 1972 c. 18, s. 14(3) (as amended) (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 37(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/37/1); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
 [^c22520551]: Textual amendment: [Art. 118-118E](https://www.legislation.gov.uk/nisi/1981/1675/article/118) and cross-headings substituted (1.1.2012) for art. 118 and preceding cross-heading by Justice Act (Northern Ireland) [2011 c. 24 (NI)](https://www.legislation.gov.uk/nia/2011/24), [ss. 100(1)](https://www.legislation.gov.uk/nia/2011/24/section/100/1), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3) (with [s. 106(4)](https://www.legislation.gov.uk/nia/2011/24/section/106/4), [Sch. 6 para. 8](https://www.legislation.gov.uk/nia/2011/24/schedule/6/paragraph/8)); [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(f)](https://www.legislation.gov.uk/nisr/2011/370/article/3/f)
 

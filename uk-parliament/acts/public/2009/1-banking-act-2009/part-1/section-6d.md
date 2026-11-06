@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6D. Mandatory reduction instruments: supplementary matters[^key-d2e997dacc8e152d26416177cd62c75a]
+## 6D. Mandatory reduction instruments: supplementary matters[^c-d2e997dacc8e152d26416177cd62c75a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2e997dacc8e152d26416177cd62c75a]: Textual amendment: Ss. 6A-6D and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [10](https://www.legislation.gov.uk/uksi/2014/3329/article/10)
+[^c-d2e997dacc8e152d26416177cd62c75a]: Textual amendment: Ss. 6A-6D and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [10](https://www.legislation.gov.uk/uksi/2014/3329/article/10)

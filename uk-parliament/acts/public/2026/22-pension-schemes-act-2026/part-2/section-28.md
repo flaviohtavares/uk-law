@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Timing of transfers[^key-d8136abcc74c1b0e597441cc9356e2bd]
+## 28. Timing of transfers[^c-d8136abcc74c1b0e597441cc9356e2bd]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8136abcc74c1b0e597441cc9356e2bd]: Commencement: S. 28 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-d8136abcc74c1b0e597441cc9356e2bd]: Commencement: S. 28 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Permitted disclosures[^key-6c4e93313caf057c119dac5aaa0a1eed]
+## 79. Permitted disclosures[^c-6c4e93313caf057c119dac5aaa0a1eed]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c4e93313caf057c119dac5aaa0a1eed]: Commencement: S. 79 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/i)
+[^c-6c4e93313caf057c119dac5aaa0a1eed]: Commencement: S. 79 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/i)

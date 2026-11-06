@@ -28,11 +28,11 @@ Section 40
 
 ##### Continuance of Fund
 
-**1.**[^key-3153ef0b172e0e78464156e76ea39429] There is to continue to be a fund known as the Parliamentary Contributory Pension Fund (“**the Fund**”).
+**1.**[^c-3153ef0b172e0e78464156e76ea39429] There is to continue to be a fund known as the Parliamentary Contributory Pension Fund (“**the Fund**”).
 
 ##### Number and composition of trustees
 
-**2.**[^key-79464c6d3b050e5a143b2d1ce07e865e] (1) The following are to be the trustees of the Fund—
+**2.**[^c-79464c6d3b050e5a143b2d1ce07e865e] (1) The following are to be the trustees of the Fund—
 
 - (a) one person appointed by the IPSA after consulting the Minister for the Civil Service and the persons who are already trustees of the Fund,
 - (b) one person appointed by the Minister for the Civil Service after consulting the IPSA and the persons who are already trustees of the Fund, and
@@ -42,7 +42,7 @@ Section 40
 
 ##### Member-nominated trustees
 
-**3.**[^key-a27af92c962921988c8429fc02beeb16] (1) The trustees of the Fund must make arrangements for the nomination and selection of member-nominated trustees.
+**3.**[^c-a27af92c962921988c8429fc02beeb16] (1) The trustees of the Fund must make arrangements for the nomination and selection of member-nominated trustees.
 
 (2) The arrangements must provide for the member-nominated trustees to be—
 
@@ -59,13 +59,13 @@ Section 40
 
 ##### Remuneration
 
-**4.**[^key-20d11e229bf28249e68aa126f702e191] (1) The IPSA may, with the consent of the Treasury, provide for remuneration and allowances to be payable to the trustees of the Fund.
+**4.**[^c-20d11e229bf28249e68aa126f702e191] (1) The IPSA may, with the consent of the Treasury, provide for remuneration and allowances to be payable to the trustees of the Fund.
 
 (2) Any such remuneration and allowances are to be paid from the assets of the Fund.
 
 ##### Resignation and removal of trustees
 
-**5.**[^key-6893b84707dc891aaeaa515d3f9617f7] (1) A person appointed as a trustee of the Fund by the IPSA under paragraph 2(1)(a)—
+**5.**[^c-6893b84707dc891aaeaa515d3f9617f7] (1) A person appointed as a trustee of the Fund by the IPSA under paragraph 2(1)(a)—
 
 - (a) may resign by giving written notice to the IPSA, and
 - (b) may be removed by the IPSA after consulting the Minister for the Civil Service and all the other trustees of the Fund.
@@ -82,7 +82,7 @@ Section 40
 
 ##### Proceedings
 
-**6.**[^key-dd783edfc6fda70d466de66e69c43900] (1) Subject to any provisions contained in a scheme under paragraph 8 because of paragraph 8(1)(d), the trustees of the Fund may determine their own procedure.
+**6.**[^c-dd783edfc6fda70d466de66e69c43900] (1) Subject to any provisions contained in a scheme under paragraph 8 because of paragraph 8(1)(d), the trustees of the Fund may determine their own procedure.
 
 (2) The validity of any proceedings of the trustees of the Fund is not affected by—
 
@@ -91,7 +91,7 @@ Section 40
 
 ##### Powers of trustees
 
-**7.**[^key-60edd6d16160092c752ce75f3b67c5b8] (1) The trustees of the Fund may invest the assets of the Fund, whether at the time in a state of investment or not, in any investment whatever and may also from time to time vary any such investments.
+**7.**[^c-60edd6d16160092c752ce75f3b67c5b8] (1) The trustees of the Fund may invest the assets of the Fund, whether at the time in a state of investment or not, in any investment whatever and may also from time to time vary any such investments.
 
 (2) The trustees of the Fund may settle or compromise any claim or dispute relating to the Fund, but—
 
@@ -106,7 +106,7 @@ Section 40
 
 ##### Administration scheme
 
-**8.**[^key-54976d8858e50edfc914227380f68c7c] (1) The IPSA may make a scheme containing provision about—
+**8.**[^c-54976d8858e50edfc914227380f68c7c] (1) The IPSA may make a scheme containing provision about—
 
 - (a) the administration of the Fund,
 - (b) the management of the Fund's assets,
@@ -126,7 +126,7 @@ Section 40
 
 ##### Procedure for administration scheme
 
-**9.**[^key-5cd7af00f6455f1814c63d426b770f62] (1) The IPSA may make a scheme under paragraph 8 only with the consent of the trustees of the Fund.
+**9.**[^c-5cd7af00f6455f1814c63d426b770f62] (1) The IPSA may make a scheme under paragraph 8 only with the consent of the trustees of the Fund.
 
 (2) Before making a scheme under paragraph 8 the IPSA must consult—
 
@@ -144,7 +144,7 @@ Section 40
 
 ##### Exchequer contribution to Fund
 
-**10.**[^key-83b3172966e034785d3994d3777613bc] (1) In respect of each financial year an Exchequer contribution is to be paid into the Fund out of money provided by Parliament.
+**10.**[^c-83b3172966e034785d3994d3777613bc] (1) In respect of each financial year an Exchequer contribution is to be paid into the Fund out of money provided by Parliament.
 
 (2) Subject to any provision made by the IPSA under paragraph 11, the amount of the contribution for any financial year is to be calculated in accordance with recommendations for that year contained in a report made by the Government Actuary under this paragraph.
 
@@ -173,7 +173,7 @@ Section 40
 
 ##### Power to determine Exchequer contribution
 
-**11.**[^key-40e36ae38786079da61cbba553ad92f1] (1) The IPSA may, with the relevant consents, make provision for determining the Exchequer contribution in respect of any financial year.
+**11.**[^c-40e36ae38786079da61cbba553ad92f1] (1) The IPSA may, with the relevant consents, make provision for determining the Exchequer contribution in respect of any financial year.
 
 (2) The “**relevant consents**” means—
 
@@ -205,19 +205,19 @@ Section 40
 
 ##### MPs' pension scheme
 
-**12.**[^key-8bb2ed38ecb7e0f7db2023de7dc20a2e] (1) The IPSA may make a scheme containing provision about the application of the assets of the Fund in or towards the provision of pensions for or in respect of persons with service as a member of the House of Commons, in respect of that service.
+**12.**[^c-8bb2ed38ecb7e0f7db2023de7dc20a2e] (1) The IPSA may make a scheme containing provision about the application of the assets of the Fund in or towards the provision of pensions for or in respect of persons with service as a member of the House of Commons, in respect of that service.
 
-(2)[^key-d4b05c4a3ef0f0feffb5e206b3e41e4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d4b05c4a3ef0f0feffb5e206b3e41e4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d4b05c4a3ef0f0feffb5e206b3e41e4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d4b05c4a3ef0f0feffb5e206b3e41e4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-d4b05c4a3ef0f0feffb5e206b3e41e4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d4b05c4a3ef0f0feffb5e206b3e41e4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-d4b05c4a3ef0f0feffb5e206b3e41e4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d4b05c4a3ef0f0feffb5e206b3e41e4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Meaning of “service as a member of the House of Commons”
 
-**13.**[^key-02e2245561db2405a2525baf8eb33567] (1) For the purposes of this Schedule a person is to be treated as in service as a member of the House of Commons at any time if at that time a salary is or was payable to the person under—
+**13.**[^c-02e2245561db2405a2525baf8eb33567] (1) For the purposes of this Schedule a person is to be treated as in service as a member of the House of Commons at any time if at that time a salary is or was payable to the person under—
 
 - (a) section 4 of the Parliamentary Standards Act 2009, or
 - (b) in relation to a time before that section was in force, the resolutions of the House of Commons then in force relating to the remuneration of its members.
@@ -233,7 +233,7 @@ Section 40
 
 ##### MPs' pension scheme: further provision
 
-**14.**[^key-8a5485e4c5b37e9e29c63a5a88801a13] (1) A scheme under paragraph 12 may in particular—
+**14.**[^c-8a5485e4c5b37e9e29c63a5a88801a13] (1) A scheme under paragraph 12 may in particular—
 
 - (a) include any or all of the provisions specified in paragraphs 24 to 32, except for—
   - (i) the provision specified in paragraph 26(1), unless with the consent of the trustees of the Fund,
@@ -248,7 +248,7 @@ Section 40
 
 ##### Procedure for MPs' pension scheme
 
-**15.**[^key-9339d53d2a7a3d1bd45192e3ca1d7a33] (1) Before making a scheme under paragraph 12 the IPSA must consult—
+**15.**[^c-9339d53d2a7a3d1bd45192e3ca1d7a33] (1) Before making a scheme under paragraph 12 the IPSA must consult—
 
 - (a) the Treasury,
 - (b) the Minister for the Civil Service,
@@ -277,23 +277,23 @@ Section 40
 
 ##### Ministers' etc pension scheme
 
-**16.**[^key-49ef7b36007c11432c34339dfe040ca5] (1) The Minister for the Civil Service may make a scheme containing provision about the application of the assets of the Fund in or towards the provision of pensions for or in respect of persons with service to which this paragraph applies, in respect of that service.
+**16.**[^c-49ef7b36007c11432c34339dfe040ca5] (1) The Minister for the Civil Service may make a scheme containing provision about the application of the assets of the Fund in or towards the provision of pensions for or in respect of persons with service to which this paragraph applies, in respect of that service.
 
 (2) This paragraph applies to service as—
 
 - (a) the holder of an office specified in Parts 1 to 4 of Schedule 1 to the Ministerial and other Salaries Act 1975 (ministerial offices),
-- (b)[^key-1c0a8561fae0f265858cf23da3358315] the holder of an office specified in Part 1 of Schedule 2 to that Act (Opposition leaders and whips),
-- (ba)[^key-d792b797224deb7fb7d43fa011f34fd6] Lord Chancellor,
+- (b)[^c-1c0a8561fae0f265858cf23da3358315] the holder of an office specified in Part 1 of Schedule 2 to that Act (Opposition leaders and whips),
+- (ba)[^c-d792b797224deb7fb7d43fa011f34fd6] Lord Chancellor,
 - (bb) Speaker of the House of Commons,
 - (c) Speaker of the House of Lords,
 - (d) Chairman of Committees of the House of Lords,
 - (e) Deputy Chairman of Committees of the House of Lords.
 
-(3)[^key-70e9110d7b5992742917af506cd3e421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-70e9110d7b5992742917af506cd3e421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Ministers' etc pension scheme: further provision
 
-**17.**[^key-19e1400b1d3d336f7ccac366d8bd7458] (1) A scheme under paragraph 16 may in particular—
+**17.**[^c-19e1400b1d3d336f7ccac366d8bd7458] (1) A scheme under paragraph 16 may in particular—
 
 - (a) include any or all of the provisions specified in paragraphs 24 to 32 and 34, except the provisions specified in paragraphs 26(1) and 31 unless with the consent of the trustees of the Fund,
 - (b) make provision which has effect from a date earlier than the date the scheme is made,
@@ -305,7 +305,7 @@ Section 40
 
 ##### Procedure for Ministers' etc pension scheme
 
-**18.**[^key-5beb1212580dba8437b706615f8ea16e] (1) Before making a scheme under paragraph 16 the Minister for the Civil Service must consult—
+**18.**[^c-5beb1212580dba8437b706615f8ea16e] (1) Before making a scheme under paragraph 16 the Minister for the Civil Service must consult—
 
 - (a) the IPSA,
 - (b) the Government Actuary,
@@ -324,7 +324,7 @@ Section 40
 
 ##### Protection of accrued rights
 
-**19.**[^key-a259c4331007731a6577002c12c6ec25] (1) This paragraph applies where—
+**19.**[^c-a259c4331007731a6577002c12c6ec25] (1) This paragraph applies where—
 
 - (a) the IPSA makes a scheme under paragraph 12, or
 - (b) the Minister for the Civil Service makes a scheme under paragraph 16,
@@ -359,7 +359,7 @@ Section 40
 
 ##### Meaning of “accrued right”
 
-**20.**[^key-c7ebe02ce5a7f7a5b592ef2b3639096f] (1) This paragraph applies for the interpretation of paragraph 19.
+**20.**[^c-c7ebe02ce5a7f7a5b592ef2b3639096f] (1) This paragraph applies for the interpretation of paragraph 19.
 
 (2) “**Accrued right**”, in relation to a provision of the new scheme, means a right (including a contingent right) or entitlement to or in respect of a pension or future pension payable out of the Fund which has accrued in respect of service before the provision comes into force.
 
@@ -369,7 +369,7 @@ Section 40
 
 ##### Power to make consequential amendments
 
-**21.**[^key-320496ed312b049a2a20a82382d18c50] (1) The Minister for the Civil Service may by order make such modifications of any enactment or subordinate legislation (whenever passed or made) as the Minister considers appropriate in consequence of any provision of a scheme made by the IPSA or the Minister for the Civil Service under this Part of this Schedule.
+**21.**[^c-320496ed312b049a2a20a82382d18c50] (1) The Minister for the Civil Service may by order make such modifications of any enactment or subordinate legislation (whenever passed or made) as the Minister considers appropriate in consequence of any provision of a scheme made by the IPSA or the Minister for the Civil Service under this Part of this Schedule.
 
 (2) In sub-paragraph (1) the reference to subordinate legislation does not include a scheme made by the IPSA or the Minister for the Civil Service under this Part of this Schedule.
 
@@ -381,7 +381,7 @@ Section 40
 
 ##### Interpretation etc
 
-**22.**[^key-f4f3251941aeef673e5e162a0612472e] (1) A scheme made by the IPSA under paragraph 8 or 12 may amend or revoke any previous scheme made by the IPSA under that paragraph.
+**22.**[^c-f4f3251941aeef673e5e162a0612472e] (1) A scheme made by the IPSA under paragraph 8 or 12 may amend or revoke any previous scheme made by the IPSA under that paragraph.
 
 (2) A scheme made by the Minister for the Civil Service under paragraph 16 may amend or revoke any previous scheme made by the Minister under that paragraph.
 
@@ -403,7 +403,7 @@ Section 40
 
 #### Introductory
 
-**23.**[^key-754b825d3d8bfeb069d60bf82511eb3b] (1) In this Part of this Schedule “relevant service”—
+**23.**[^c-754b825d3d8bfeb069d60bf82511eb3b] (1) In this Part of this Schedule “relevant service”—
 
 - (a) for the purposes of paragraph 14(1)(a), means service as a member of the House of Commons, and
 - (b) for the purposes of paragraph 17(1)(a), means service to which paragraph 16 applies.
@@ -412,14 +412,14 @@ Section 40
 
 #### Contributions
 
-**24.**[^key-4d9a2cde9dca2511ee11787178973ce7] Provision authorising or requiring contributions and other sums to be paid into the Fund by or on behalf of persons in relevant service, including provision for those contributions and sums to be paid—
+**24.**[^c-4d9a2cde9dca2511ee11787178973ce7] Provision authorising or requiring contributions and other sums to be paid into the Fund by or on behalf of persons in relevant service, including provision for those contributions and sums to be paid—
 
 - (a) by deductions from salary;
 - (b) in the case of a person who does not draw a salary, out of money provided by Parliament.
 
 #### Conditions etc
 
-**25.**[^key-ad90fd101655c6d45b2aa8614af48099] Provision as to—
+**25.**[^c-ad90fd101655c6d45b2aa8614af48099] Provision as to—
 
 - (a) the circumstances in which there is to be entitlement to a pension payable out of the Fund;
 - (b) the conditions of any such entitlement;
@@ -429,29 +429,29 @@ Section 40
 
 #### Pensions not paid out of Fund
 
-**26.**[^key-678d5e9b944a970ee3cfdbd584aee953] (1) Provision for the application of assets of the Fund in or towards the provision of pensions to be paid otherwise than out of the Fund.
+**26.**[^c-678d5e9b944a970ee3cfdbd584aee953] (1) Provision for the application of assets of the Fund in or towards the provision of pensions to be paid otherwise than out of the Fund.
 
 (2) In connection with such provision, provision for the payment into the Fund out of money provided by Parliament of sums in addition to those paid into the Fund under paragraph 10.
 
 #### Transfer values
 
-**27.**[^key-a662d3c5a4faeedc56a080b17bd34e6d] (1) Provision for the payment and receipt of transfer values by the trustees of the Fund (including provision for the payment of such values into the Consolidated Fund).
+**27.**[^c-a662d3c5a4faeedc56a080b17bd34e6d] (1) Provision for the payment and receipt of transfer values by the trustees of the Fund (including provision for the payment of such values into the Consolidated Fund).
 
 (2) Provision for the transfer and receipt by the trustees of the Fund of funds or policies of insurance in lieu of transfer values.
 
 #### Service
 
-**28.**[^key-e969295e84d2e930cdd33d5342ea9d8b] Provision authorising service other than relevant service to be taken into account, in addition to relevant service, for the purposes of any provision of the scheme.
+**28.**[^c-e969295e84d2e930cdd33d5342ea9d8b] Provision authorising service other than relevant service to be taken into account, in addition to relevant service, for the purposes of any provision of the scheme.
 
 #### Repayments
 
-**29.**[^key-b9d7f53c05afde0b21454351f18bee74] (1) Provision as to the circumstances and manner in which amounts equal to some or all of the contributions and other sums paid by or on behalf of a person into the Fund may be repaid or paid to that person.
+**29.**[^c-b9d7f53c05afde0b21454351f18bee74] (1) Provision as to the circumstances and manner in which amounts equal to some or all of the contributions and other sums paid by or on behalf of a person into the Fund may be repaid or paid to that person.
 
 (2) Provision as to the circumstances and manner in which any such amounts are to be paid out of the Consolidated Fund in respect of transfer values paid into that Fund.
 
 (3) Provision under sub-paragraph (1) or (2) may include provision as to whether any repayment or payment made under that provision is to be made with or without interest.
 
-#### Pension age[^key-bf60f99a1db74697fbd92e99b8c46a4e]
+#### Pension age[^c-bf60f99a1db74697fbd92e99b8c46a4e]
 
 **29A.** (1) Where the scheme provides for the normal or deferred pension age of a person under the scheme to be the same as the person's state pension age, provision for a change in the person's normal or deferred pension age in consequence of such provision to apply in relation to relevant accrued benefits (as well as other benefits).
 
@@ -466,7 +466,7 @@ Section 40
 
 #### Assignment etc
 
-**30.**[^key-701ea84e953fcc7afd59350777f85eff] Provision rendering void—
+**30.**[^c-701ea84e953fcc7afd59350777f85eff] Provision rendering void—
 
 - (a) any assignment (or, in Scotland, assignation) of a pension which is payable or may become payable out of the Fund;
 - (b) any charge on such a pension;
@@ -474,41 +474,41 @@ Section 40
 
 #### Functions
 
-**31.**[^key-a3e76c07779b57d317876de98cd1f1ab] Provision conferring functions under the scheme on persons specified in or determined under the scheme.
+**31.**[^c-a3e76c07779b57d317876de98cd1f1ab] Provision conferring functions under the scheme on persons specified in or determined under the scheme.
 
 #### Approvals
 
-**32.**[^key-e482234301ba2df7001398335265fa04] Provision making the approval, satisfaction or opinion of persons on whom functions are conferred by or under the scheme material for the purposes of any provision of the scheme.
+**32.**[^c-e482234301ba2df7001398335265fa04] Provision making the approval, satisfaction or opinion of persons on whom functions are conferred by or under the scheme material for the purposes of any provision of the scheme.
 
 #### Payments without probate
 
-**33.**[^key-f7253760c7b23b29ab45cf764d3ae788] Provision authorising (in relation to such cases, circumstances or persons as may be specified in or determined under the scheme) any sum due to be paid out of the Fund in respect of a person who has died to be paid without probate or other proof of title.
+**33.**[^c-f7253760c7b23b29ab45cf764d3ae788] Provision authorising (in relation to such cases, circumstances or persons as may be specified in or determined under the scheme) any sum due to be paid out of the Fund in respect of a person who has died to be paid without probate or other proof of title.
 
 #### Application of other provisions
 
-**34.**[^key-809c1598acc61af65c562f5dee2df9d9] Provision which (with or without modifications) applies in relation to a pension payable out of the Fund so much of any enactment or subordinate legislation (whenever passed or made) as relates to another pension, being a pension payable out of money provided by Parliament.
+**34.**[^c-809c1598acc61af65c562f5dee2df9d9] Provision which (with or without modifications) applies in relation to a pension payable out of the Fund so much of any enactment or subordinate legislation (whenever passed or made) as relates to another pension, being a pension payable out of money provided by Parliament.
 
 ### Part 3 — Amendments, transitional provision etc
 
 #### Pensions (Increase) Act 1971 (c. 56)
 
-**35.** (1)[^key-ca59eaaa086fc285efcef291e4c4d3f9] Part 1 of Schedule 2 is amended as follows.
+**35.** (1)[^c-ca59eaaa086fc285efcef291e4c4d3f9] Part 1 of Schedule 2 is amended as follows.
 
-(2)[^key-ca59eaaa086fc285efcef291e4c4d3f9] For paragraph 3A substitute—
+(2)[^c-ca59eaaa086fc285efcef291e4c4d3f9] For paragraph 3A substitute—
 
 > **3A.** A pension which, under a scheme under paragraph 12 or 16 of Schedule 6 to the Constitutional Reform and Governance Act 2010, is payable out of the Parliamentary Contributory Pension Fund.
 
-(3)[^key-2bb56d236a58035c4e6ecf674a7917b0] In paragraph 3B for “an order” substitute “ a scheme ”.
+(3)[^c-2bb56d236a58035c4e6ecf674a7917b0] In paragraph 3B for “an order” substitute “ a scheme ”.
 
 #### Parliamentary and other Pensions Act 1972 (c. 48)
 
-**36.**[^key-1900d08a11d4ed67a5935b4562866409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-1900d08a11d4ed67a5935b4562866409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-1900d08a11d4ed67a5935b4562866409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-1900d08a11d4ed67a5935b4562866409] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### European Parliament (Pay and Pensions) Act 1979 (c. 50)
 
-**38.**[^key-16e32c55b0e8a1b3050ddf0319c0fffe] (1) Section 4 (pensions) is amended as follows.
+**38.**[^c-16e32c55b0e8a1b3050ddf0319c0fffe] (1) Section 4 (pensions) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -552,7 +552,7 @@ Section 40
 
 > (8) A scheme made by the IPSA under this section may amend or revoke any previous scheme made by the IPSA under this section.
 
-**39.**[^key-deb43979ac4b8321580a94cf7ec52287] (1) Section 6 (block transfer into another pension scheme) is amended as follows.
+**39.**[^c-deb43979ac4b8321580a94cf7ec52287] (1) Section 6 (block transfer into another pension scheme) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -573,7 +573,7 @@ Section 40
 - (b) for “orders” substitute “ a scheme ”, and
 - (c) for “order is made” substitute “ direction is given ”.
 
-**40.**[^key-fda83a625b2ad12acae0357a29146130] (1) Section 7 (expenses and receipts) is amended as follows.
+**40.**[^c-fda83a625b2ad12acae0357a29146130] (1) Section 7 (expenses and receipts) is amended as follows.
 
 (2) In subsection (1)(c) (expenses and receipts)—
 
@@ -582,7 +582,7 @@ Section 40
 
 (3) In subsection (1)(d) for “an order” substitute “ a direction ”.
 
-**41.**[^key-7c9c50ea1271ae8d3490cb36f5b18624] (1) Section 8 is amended as follows.
+**41.**[^c-7c9c50ea1271ae8d3490cb36f5b18624] (1) Section 8 is amended as follows.
 
 (2) In subsection (1) (interpretation)—
 
@@ -597,7 +597,7 @@ Section 40
 
 #### House of Commons Members' Fund and Parliamentary Pensions Act 1981 (c. 7)
 
-**42.**[^key-da319a38d8ca657589286276523ad4b5] In section 1 (entitlement to payments out of House of Commons Members' Fund)—
+**42.**[^c-da319a38d8ca657589286276523ad4b5] In section 1 (entitlement to payments out of House of Commons Members' Fund)—
 
 - (a) in subsection (5)(b) for “paragraph (b), (c) or (d) of section 2(2) of the Parliamentary and other Pensions Act 1987” substitute “ subsection (5A) ”, and
 - (b) after subsection (5) insert—
@@ -609,14 +609,14 @@ Section 40
 
 #### Parliamentary and other Pensions Act 1987 (c. 45)
 
-**43.**[^key-44214a8ecc4b7493b6eabbb98bed7210] Omit—
+**43.**[^c-44214a8ecc4b7493b6eabbb98bed7210] Omit—
 
 - (a) section 1,
 - (b) section 2(1) to (8) and (10),
 - (c) section 3, and
 - (d) Schedule 1.
 
-**44.**[^key-e1710a803f5b6a6a59f47a471761f4a4] (1) The existing regulations have effect (subject to any provision in an order under section 51 of this Act)—
+**44.**[^c-e1710a803f5b6a6a59f47a471761f4a4] (1) The existing regulations have effect (subject to any provision in an order under section 51 of this Act)—
 
 - (a) so far as they relate to matters which could be contained in a scheme made by the IPSA under paragraph 8, as if they were a scheme made by the IPSA under that paragraph,
 - (b) so far as they relate to matters which could be contained in a scheme made by the IPSA under paragraph 12, as if they were a scheme made by the IPSA under that paragraph, and
@@ -658,32 +658,32 @@ to have effect as if contained in a scheme under that paragraph.
 - (a) revoke the provision;
 - (b) amend it so that it makes provision which may be contained in a scheme under that paragraph (but not otherwise amend it).
 
-(8)[^key-9ccb8c83edb87a082df0ffe9da6fdcda] “**The existing regulations**” means the regulations under section 2 of the Parliamentary and other Pensions Act 1987 in force immediately before the date specified in an order made by a Minister of the Crown by statutory instrument.
+(8)[^c-9ccb8c83edb87a082df0ffe9da6fdcda] “**The existing regulations**” means the regulations under section 2 of the Parliamentary and other Pensions Act 1987 in force immediately before the date specified in an order made by a Minister of the Crown by statutory instrument.
 
 (9) An order under sub-paragraph (8) may specify different dates for different purposes.
 
 #### Ministerial and other Pensions and Salaries Act 1991 (c. 5)
 
-**45.**[^key-d4ca366a84df6f874f2ee9615cf4663c] Omit section 6.
+**45.**[^c-d4ca366a84df6f874f2ee9615cf4663c] Omit section 6.
 
 #### Pensions Act 2004 (c. 35)
 
-**46.**[^key-cdb01827738837a354f730ff31440344] In section 249A(3)(c) (schemes to which section 249A does not apply) for “section 2 of the Parliamentary and other Pensions Act 1987 (c. 45)” substitute “ paragraph 8, 12 or 16 of Schedule 6 to the Constitutional Reform and Governance Act 2010 ”.
+**46.**[^c-cdb01827738837a354f730ff31440344] In section 249A(3)(c) (schemes to which section 249A does not apply) for “section 2 of the Parliamentary and other Pensions Act 1987 (c. 45)” substitute “ paragraph 8, 12 or 16 of Schedule 6 to the Constitutional Reform and Governance Act 2010 ”.
 
 #### Parliamentary Standards Act 2009 (c. 13)
 
-**47.** (1)[^key-32c7fb346d6fcc76b43e18a00487f66d] In section 5(9) (MPs' allowances scheme does not affect pensions) for “the Parliamentary and other Pensions Act 1987 (c. 45)” substitute “ Schedule 6 to the Constitutional Reform and Governance Act 2010 ”.
+**47.** (1)[^c-32c7fb346d6fcc76b43e18a00487f66d] In section 5(9) (MPs' allowances scheme does not affect pensions) for “the Parliamentary and other Pensions Act 1987 (c. 45)” substitute “ Schedule 6 to the Constitutional Reform and Governance Act 2010 ”.
 
-(2)[^key-bb2c0ead7988d2f098d51a379a550eb1][^key-06ab44fc78af9590fc44bcc7aaa78529] In paragraph 18 of Schedule 1 (IPSA's administration and regulation functions), after sub-paragraph (2) insert—
+(2)[^c-bb2c0ead7988d2f098d51a379a550eb1][^c-06ab44fc78af9590fc44bcc7aaa78529] In paragraph 18 of Schedule 1 (IPSA's administration and regulation functions), after sub-paragraph (2) insert—
 
 > (3) The IPSA's functions under the following provisions are also regulation functions—
 >
 > - (a) sections 3, 4 and 6 of the European Parliament (Pay and Pensions) Act 1979 (but not any function relating to the administration of a scheme under section 3 or 4);
 > - (b) paragraphs 2 to 5, 8, 9, 11, 12 and 15 of Schedule 6 to the Constitutional Reform and Governance Act 2010 (but not any function relating to the administration of a scheme under paragraph 8 or 12).
 
-(3)[^key-e9bdb24779737e3983417c9ff72e18a0] In paragraph 29(2) of Schedule 1 (interpretation) in the definition of “regulation functions” after “18(2)” insert “ and (3) ”.
+(3)[^c-e9bdb24779737e3983417c9ff72e18a0] In paragraph 29(2) of Schedule 1 (interpretation) in the definition of “regulation functions” after “18(2)” insert “ and (3) ”.
 
-**48.**[^key-c4bd536b0b63e9ab4d63ddaa83d75315] (1) An order under section 13 of the Parliamentary Standards Act 2009 may make the provision mentioned in section 13(6) (provision for transfer schemes) in connection with this Schedule (as well as in connection with that Act).
+**48.**[^c-c4bd536b0b63e9ab4d63ddaa83d75315] (1) An order under section 13 of the Parliamentary Standards Act 2009 may make the provision mentioned in section 13(6) (provision for transfer schemes) in connection with this Schedule (as well as in connection with that Act).
 
 (2) But for this purpose—
 
@@ -694,11 +694,11 @@ to have effect as if contained in a scheme under that paragraph.
 
 #### Trustees of the Fund
 
-**49.**[^key-246b685b60cf9328b7de3ee607724bb5] (1) This paragraph applies if, under an order under section 52, paragraph 2 comes into force for the purpose of making an appointment under paragraph 2(1)(a) or (b) before it comes into force for other purposes.
+**49.**[^c-246b685b60cf9328b7de3ee607724bb5] (1) This paragraph applies if, under an order under section 52, paragraph 2 comes into force for the purpose of making an appointment under paragraph 2(1)(a) or (b) before it comes into force for other purposes.
 
 (2) The reference in paragraph 2(1)(a) or (b) to the persons who are already trustees of the Fund is to the persons who are trustees of the Fund by virtue of section 1 of the Parliamentary and other Pensions Act 1987.
 
-**50.**[^key-fca2db52540afa23cbc157acfedd5159] (1) In this paragraph “**the transitional period**” means the period of six months beginning with the day on which paragraph 2 comes into force (other than for the purpose of making an appointment under paragraph 2(1)(a) or (b)).
+**50.**[^c-fca2db52540afa23cbc157acfedd5159] (1) In this paragraph “**the transitional period**” means the period of six months beginning with the day on which paragraph 2 comes into force (other than for the purpose of making an appointment under paragraph 2(1)(a) or (b)).
 
 (2) During the transitional period—
 
@@ -728,120 +728,120 @@ cease to be trustees of the Fund.
 
 ## Annotations
 
-[^key-3153ef0b172e0e78464156e76ea39429]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/1) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-3153ef0b172e0e78464156e76ea39429]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/1) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-79464c6d3b050e5a143b2d1ce07e865e]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/2) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-79464c6d3b050e5a143b2d1ce07e865e]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/2) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-a27af92c962921988c8429fc02beeb16]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/3) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-a27af92c962921988c8429fc02beeb16]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/3) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-20d11e229bf28249e68aa126f702e191]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/4) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-20d11e229bf28249e68aa126f702e191]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/4) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-6893b84707dc891aaeaa515d3f9617f7]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/5) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-6893b84707dc891aaeaa515d3f9617f7]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/5) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-dd783edfc6fda70d466de66e69c43900]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/6) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-dd783edfc6fda70d466de66e69c43900]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/6) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-60edd6d16160092c752ce75f3b67c5b8]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/7) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-60edd6d16160092c752ce75f3b67c5b8]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/7) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-54976d8858e50edfc914227380f68c7c]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/8) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-54976d8858e50edfc914227380f68c7c]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/8) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-5cd7af00f6455f1814c63d426b770f62]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/9) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-5cd7af00f6455f1814c63d426b770f62]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/9) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-83b3172966e034785d3994d3777613bc]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/10) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-83b3172966e034785d3994d3777613bc]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/10) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-40e36ae38786079da61cbba553ad92f1]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/11) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-40e36ae38786079da61cbba553ad92f1]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/11) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-8bb2ed38ecb7e0f7db2023de7dc20a2e]: Commencement: Sch. 6 para. 12 in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2485/article/4))
+[^c-8bb2ed38ecb7e0f7db2023de7dc20a2e]: Commencement: Sch. 6 para. 12 in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2485/article/4))
 
-[^key-d4b05c4a3ef0f0feffb5e206b3e41e4e]: Textual amendment: [Sch. 6 para. 12(2)-(5)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/12/2) repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/1/2) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-d4b05c4a3ef0f0feffb5e206b3e41e4e]: Textual amendment: [Sch. 6 para. 12(2)-(5)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/12/2) repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/1/2) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
 
-[^key-02e2245561db2405a2525baf8eb33567]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/13) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-02e2245561db2405a2525baf8eb33567]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/13) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-8a5485e4c5b37e9e29c63a5a88801a13]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/14) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-8a5485e4c5b37e9e29c63a5a88801a13]: Commencement: [Sch. 6 para. 14](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/14) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-9339d53d2a7a3d1bd45192e3ca1d7a33]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/15) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-9339d53d2a7a3d1bd45192e3ca1d7a33]: Commencement: [Sch. 6 para. 15](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/15) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-49ef7b36007c11432c34339dfe040ca5]: Commencement: Sch. 6 para. 16 in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-49ef7b36007c11432c34339dfe040ca5]: Commencement: Sch. 6 para. 16 in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-1c0a8561fae0f265858cf23da3358315]: Modification: Sch. 6 para. 16(2)(b) modified (1.3.2021) by [Ministerial and other Maternity Allowances Act 2021 (c. 5)](https://www.legislation.gov.uk/ukpga/2021/5), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/6/2), [7(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/7/2)
+[^c-1c0a8561fae0f265858cf23da3358315]: Modification: Sch. 6 para. 16(2)(b) modified (1.3.2021) by [Ministerial and other Maternity Allowances Act 2021 (c. 5)](https://www.legislation.gov.uk/ukpga/2021/5), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/6/2), [7(2)](https://www.legislation.gov.uk/ukpga/2021/5/section/7/2)
 
-[^key-d792b797224deb7fb7d43fa011f34fd6]: Textual amendment: Sch. 6 para. 16(2)(ba)(bb) inserted (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/1/3/a) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-d792b797224deb7fb7d43fa011f34fd6]: Textual amendment: Sch. 6 para. 16(2)(ba)(bb) inserted (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/1/3/a) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
 
-[^key-70e9110d7b5992742917af506cd3e421]: Textual amendment: Sch. 6 para. 16(3) repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/1/3/b) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-70e9110d7b5992742917af506cd3e421]: Textual amendment: Sch. 6 para. 16(3) repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/1/3/b) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
 
-[^key-19e1400b1d3d336f7ccac366d8bd7458]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/17) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-19e1400b1d3d336f7ccac366d8bd7458]: Commencement: [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/17) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-5beb1212580dba8437b706615f8ea16e]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/18) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-5beb1212580dba8437b706615f8ea16e]: Commencement: [Sch. 6 para. 18](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/18) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-a259c4331007731a6577002c12c6ec25]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/19) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-a259c4331007731a6577002c12c6ec25]: Commencement: [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/19) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-c7ebe02ce5a7f7a5b592ef2b3639096f]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/20) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-c7ebe02ce5a7f7a5b592ef2b3639096f]: Commencement: [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/20) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-320496ed312b049a2a20a82382d18c50]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/21) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-320496ed312b049a2a20a82382d18c50]: Commencement: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/21) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-f4f3251941aeef673e5e162a0612472e]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/22) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
+[^c-f4f3251941aeef673e5e162a0612472e]: Commencement: [Sch. 6 para. 22](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/22) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/i)
 
-[^key-754b825d3d8bfeb069d60bf82511eb3b]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/23) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
+[^c-754b825d3d8bfeb069d60bf82511eb3b]: Commencement: [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/23) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
 
-[^key-4d9a2cde9dca2511ee11787178973ce7]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/24) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
+[^c-4d9a2cde9dca2511ee11787178973ce7]: Commencement: [Sch. 6 para. 24](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/24) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
 
-[^key-ad90fd101655c6d45b2aa8614af48099]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/25) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
+[^c-ad90fd101655c6d45b2aa8614af48099]: Commencement: [Sch. 6 para. 25](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/25) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
 
-[^key-678d5e9b944a970ee3cfdbd584aee953]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/26) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
+[^c-678d5e9b944a970ee3cfdbd584aee953]: Commencement: [Sch. 6 para. 26](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/26) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
 
-[^key-a662d3c5a4faeedc56a080b17bd34e6d]: Commencement: [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/27) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
+[^c-a662d3c5a4faeedc56a080b17bd34e6d]: Commencement: [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/27) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
 
-[^key-e969295e84d2e930cdd33d5342ea9d8b]: Commencement: [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/28) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
+[^c-e969295e84d2e930cdd33d5342ea9d8b]: Commencement: [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/28) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
 
-[^key-b9d7f53c05afde0b21454351f18bee74]: Commencement: [Sch. 6 para. 29](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/29) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
+[^c-b9d7f53c05afde0b21454351f18bee74]: Commencement: [Sch. 6 para. 29](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/29) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
 
-[^key-bf60f99a1db74697fbd92e99b8c46a4e]: Textual amendment: Sch. 6 para. 29A and preceding cross-heading inserted (31.7.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [ss. 34](https://www.legislation.gov.uk/ukpga/2013/25/section/34), [41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/1912](https://www.legislation.gov.uk/uksi/2014/1912), [art. 2](https://www.legislation.gov.uk/uksi/2014/1912/article/2)
+[^c-bf60f99a1db74697fbd92e99b8c46a4e]: Textual amendment: Sch. 6 para. 29A and preceding cross-heading inserted (31.7.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [ss. 34](https://www.legislation.gov.uk/ukpga/2013/25/section/34), [41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/1912](https://www.legislation.gov.uk/uksi/2014/1912), [art. 2](https://www.legislation.gov.uk/uksi/2014/1912/article/2)
 
-[^key-701ea84e953fcc7afd59350777f85eff]: Commencement: [Sch. 6 para. 30](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/30) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
+[^c-701ea84e953fcc7afd59350777f85eff]: Commencement: [Sch. 6 para. 30](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/30) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
 
-[^key-a3e76c07779b57d317876de98cd1f1ab]: Commencement: [Sch. 6 para. 31](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/31) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
+[^c-a3e76c07779b57d317876de98cd1f1ab]: Commencement: [Sch. 6 para. 31](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/31) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
 
-[^key-e482234301ba2df7001398335265fa04]: Commencement: [Sch. 6 para. 32](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/32) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
+[^c-e482234301ba2df7001398335265fa04]: Commencement: [Sch. 6 para. 32](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/32) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
 
-[^key-f7253760c7b23b29ab45cf764d3ae788]: Commencement: [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/33) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
+[^c-f7253760c7b23b29ab45cf764d3ae788]: Commencement: [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/33) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
 
-[^key-809c1598acc61af65c562f5dee2df9d9]: Commencement: [Sch. 6 para. 34](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/34) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
+[^c-809c1598acc61af65c562f5dee2df9d9]: Commencement: [Sch. 6 para. 34](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/34) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/b/ii)
 
-[^key-ca59eaaa086fc285efcef291e4c4d3f9]: Commencement: [Sch. 6 para. 35(1)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/35/1)[(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/35/2) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/i)
+[^c-ca59eaaa086fc285efcef291e4c4d3f9]: Commencement: [Sch. 6 para. 35(1)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/35/1)[(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/35/2) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(i)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/i)
 
-[^key-2bb56d236a58035c4e6ecf674a7917b0]: Commencement: [Sch. 6 para. 35(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/35/3) in force at 1.11.2013 by [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+[^c-2bb56d236a58035c4e6ecf674a7917b0]: Commencement: [Sch. 6 para. 35(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/35/3) in force at 1.11.2013 by [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
 
-[^key-1900d08a11d4ed67a5935b4562866409]: Textual amendment: Sch. 6 paras. 36, 37 repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-1900d08a11d4ed67a5935b4562866409]: Textual amendment: Sch. 6 paras. 36, 37 repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
 
-[^key-16e32c55b0e8a1b3050ddf0319c0fffe]: Commencement: [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/38) in force at 1.11.2013 by [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+[^c-16e32c55b0e8a1b3050ddf0319c0fffe]: Commencement: [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/38) in force at 1.11.2013 by [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
 
-[^key-deb43979ac4b8321580a94cf7ec52287]: Commencement: [Sch. 6 para. 39](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/39) in force at 1.11.2013 by [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+[^c-deb43979ac4b8321580a94cf7ec52287]: Commencement: [Sch. 6 para. 39](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/39) in force at 1.11.2013 by [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
 
-[^key-fda83a625b2ad12acae0357a29146130]: Commencement: [Sch. 6 para. 40](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/40) in force at 1.11.2013 by [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+[^c-fda83a625b2ad12acae0357a29146130]: Commencement: [Sch. 6 para. 40](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/40) in force at 1.11.2013 by [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
 
-[^key-7c9c50ea1271ae8d3490cb36f5b18624]: Commencement: [Sch. 6 para. 41](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/41) in force at 1.11.2013 by [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+[^c-7c9c50ea1271ae8d3490cb36f5b18624]: Commencement: [Sch. 6 para. 41](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/41) in force at 1.11.2013 by [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
 
-[^key-da319a38d8ca657589286276523ad4b5]: Commencement: [Sch. 6 para. 42](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/42) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/ii)
+[^c-da319a38d8ca657589286276523ad4b5]: Commencement: [Sch. 6 para. 42](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/42) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/ii)
 
-[^key-44214a8ecc4b7493b6eabbb98bed7210]: Commencement: [Sch. 6 para. 43](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/43) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/ii)
+[^c-44214a8ecc4b7493b6eabbb98bed7210]: Commencement: [Sch. 6 para. 43](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/43) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/ii)
 
-[^key-e1710a803f5b6a6a59f47a471761f4a4]: Commencement: Sch. 6 para. 44 in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/2485/article/3))
+[^c-e1710a803f5b6a6a59f47a471761f4a4]: Commencement: Sch. 6 para. 44 in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2011/2485/article/3))
 
-[^key-9ccb8c83edb87a082df0ffe9da6fdcda]: Modification: Sch. 6 para. 44(8): 24.10.2011 specified date by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), art.3
+[^c-9ccb8c83edb87a082df0ffe9da6fdcda]: Modification: Sch. 6 para. 44(8): 24.10.2011 specified date by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), art.3
 
-[^key-d4ca366a84df6f874f2ee9615cf4663c]: Commencement: [Sch. 6 para. 45](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/45) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/ii)
+[^c-d4ca366a84df6f874f2ee9615cf4663c]: Commencement: [Sch. 6 para. 45](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/45) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/ii)
 
-[^key-cdb01827738837a354f730ff31440344]: Commencement: [Sch. 6 para. 46](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/46) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/ii)
+[^c-cdb01827738837a354f730ff31440344]: Commencement: [Sch. 6 para. 46](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/46) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/ii)
 
-[^key-32c7fb346d6fcc76b43e18a00487f66d]: Commencement: [Sch. 6 para. 47(1)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/47/1) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/iii)
+[^c-32c7fb346d6fcc76b43e18a00487f66d]: Commencement: [Sch. 6 para. 47(1)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/47/1) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/iii)
 
-[^key-bb2c0ead7988d2f098d51a379a550eb1]: Commencement: [Sch. 6 para. 47(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/47/2) in force at 24.10.2011 for specified purposes by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/iv)
+[^c-bb2c0ead7988d2f098d51a379a550eb1]: Commencement: [Sch. 6 para. 47(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/47/2) in force at 24.10.2011 for specified purposes by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/iv)
 
-[^key-06ab44fc78af9590fc44bcc7aaa78529]: Commencement: [Sch. 6 para. 47(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/47/2) in force at 1.11.2013 in so far as not already in force by [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/iii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
+[^c-06ab44fc78af9590fc44bcc7aaa78529]: Commencement: [Sch. 6 para. 47(2)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/47/2) in force at 1.11.2013 in so far as not already in force by [S.I. 2013/2826](https://www.legislation.gov.uk/uksi/2013/2826), [art. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2013/2826/article/2/b/iii) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/2826/article/3))
 
-[^key-e9bdb24779737e3983417c9ff72e18a0]: Commencement: [Sch. 6 para. 47(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/47/3) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(v)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/v)
+[^c-e9bdb24779737e3983417c9ff72e18a0]: Commencement: [Sch. 6 para. 47(3)](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/47/3) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(v)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/v)
 
-[^key-c4bd536b0b63e9ab4d63ddaa83d75315]: Commencement: [Sch. 6 para. 48](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/48) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(vi)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/vi)
+[^c-c4bd536b0b63e9ab4d63ddaa83d75315]: Commencement: [Sch. 6 para. 48](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/48) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(vi)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/vi)
 
-[^key-246b685b60cf9328b7de3ee607724bb5]: Commencement: [Sch. 6 para. 49](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/49) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(vi)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/vi)
+[^c-246b685b60cf9328b7de3ee607724bb5]: Commencement: [Sch. 6 para. 49](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/49) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(vi)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/vi)
 
-[^key-fca2db52540afa23cbc157acfedd5159]: Commencement: [Sch. 6 para. 50](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/50) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(vi)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/vi)
+[^c-fca2db52540afa23cbc157acfedd5159]: Commencement: [Sch. 6 para. 50](https://www.legislation.gov.uk/ukpga/2010/25/schedule/6/paragraph/50) in force at 24.10.2011 by [S.I. 2011/2485](https://www.legislation.gov.uk/uksi/2011/2485), [art. 2(1)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/1)[(2)(c)(vi)](https://www.legislation.gov.uk/uksi/2011/2485/article/2/2/c/vi)

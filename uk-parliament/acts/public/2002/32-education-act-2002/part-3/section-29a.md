@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29A. Power of governing body in England: educational provision for improving behaviour[^key-a1f23d55338f2746be820b9a73802f08][^key-25d8e0c4efc4f47b289512b39de84876]
+## 29A. Power of governing body in England: educational provision for improving behaviour[^c-a1f23d55338f2746be820b9a73802f08][^c-25d8e0c4efc4f47b289512b39de84876]
 
 *Extent: E+W*
 
@@ -37,12 +37,12 @@ summary: ''
 - (d) about the time within which the first review must be held and the intervals at which subsequent reviews must be held, and
 - (e) in relation to any other matter relating to the exercise of the power conferred by subsection (1).
 
-(5)[^key-beabf4f5e5faf970b543901a071aa23b] Regulations may make provision for this section and regulations made under it to apply, with prescribed modifications, in relation to Academy schools.
+(5)[^c-beabf4f5e5faf970b543901a071aa23b] Regulations may make provision for this section and regulations made under it to apply, with prescribed modifications, in relation to Academy schools.
 
 ## Annotations
 
-[^key-a1f23d55338f2746be820b9a73802f08]: Modification: [S. 29A](https://www.legislation.gov.uk/ukpga/2002/32/section/29A) applied (with modifications) (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/558/regulation/3), [6](https://www.legislation.gov.uk/uksi/2026/558/regulation/6)
+[^c-a1f23d55338f2746be820b9a73802f08]: Modification: [S. 29A](https://www.legislation.gov.uk/ukpga/2002/32/section/29A) applied (with modifications) (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/558/regulation/3), [6](https://www.legislation.gov.uk/uksi/2026/558/regulation/6)
 
-[^key-25d8e0c4efc4f47b289512b39de84876]: Textual amendment: S. 29A inserted (30.3.2010 for specified purposes, 1.9.2010 in so far as not already in force) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 154](https://www.legislation.gov.uk/ukpga/2008/25/section/154), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4); [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [arts. 2(d)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/d), [3](https://www.legislation.gov.uk/uksi/2010/1093/article/3)
+[^c-25d8e0c4efc4f47b289512b39de84876]: Textual amendment: S. 29A inserted (30.3.2010 for specified purposes, 1.9.2010 in so far as not already in force) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 154](https://www.legislation.gov.uk/ukpga/2008/25/section/154), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4); [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [arts. 2(d)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/d), [3](https://www.legislation.gov.uk/uksi/2010/1093/article/3)
 
-[^key-beabf4f5e5faf970b543901a071aa23b]: Textual amendment: S. 29A(5) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 55(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/55/1), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(2)(f)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/f) (with [s. 55(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/55/3))
+[^c-beabf4f5e5faf970b543901a071aa23b]: Textual amendment: S. 29A(5) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 55(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/55/1), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(2)(f)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/f) (with [s. 55(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/55/3))

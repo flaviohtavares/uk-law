@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Annual report on transport and storage licensing functions[^key-e704f6dd3d8f7af5e9e435c2f549df3b]
+## 41. Annual report on transport and storage licensing functions[^c-e704f6dd3d8f7af5e9e435c2f549df3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e704f6dd3d8f7af5e9e435c2f549df3b]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2023/52/section/41) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-e704f6dd3d8f7af5e9e435c2f549df3b]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2023/52/section/41) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

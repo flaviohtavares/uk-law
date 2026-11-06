@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.D.18. Guaranteed minimum pensions etc[^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.D.18. Guaranteed minimum pensions etc[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
-(1) If a member has a guaranteed minimum under section 14 of the 1993 Act in relation to benefits under this Section of[^key-1cc2a94809db692e06b9f8a8d94dbf06] the Scheme—
+(1) If a member has a guaranteed minimum under section 14 of the 1993 Act in relation to benefits under this Section of[^c-1cc2a94809db692e06b9f8a8d94dbf06] the Scheme—
 
 - (a) nothing in this Part permits or requires anything that would cause requirements made by or under that Act in relation to such a member and such a member’s rights under this Section of the Scheme not to be met in the case of the member,
 - (b) nothing in this Part prevents anything from being done which is necessary or expedient for the purposes of meeting such requirements in the case of the member, and
@@ -55,13 +55,13 @@ the weekly rate of the pension, so far as attributable to that service, must not
 
 (7) This paragraph applies if a person has ceased to be in employment that is contracted-out by reference to this Section of the Scheme, and either—
 
-- (a) all the person’s rights to benefits under this Section of the Scheme, except the person’s rights in respect of the person’s guaranteed minimum or the person’s section 9(2B) rights[^key-113114e7741bbc5ca5acf51f1d752c9d] (“the person’s contracting-out rights”), have been transferred under Chapter 3.F (transfers), or
+- (a) all the person’s rights to benefits under this Section of the Scheme, except the person’s rights in respect of the person’s guaranteed minimum or the person’s section 9(2B) rights[^c-113114e7741bbc5ca5acf51f1d752c9d] (“the person’s contracting-out rights”), have been transferred under Chapter 3.F (transfers), or
 - (b) the person has no rights to benefits under this Section of the Scheme apart from the person’s contracting-out rights.
 
 (8) If paragraph (7) applies—
 
 - (a) from the date on which the person reaches State pension age the person is entitled to a pension payable for life at a weekly rate equal to his guaranteed minimum, if any, and
-- (b) from the date on which the person reaches pension age the person is entitled to a pension in respect of the person’s section 9(2B) rights[^key-2901b0f55788119f717f78bd937556fd],
+- (b) from the date on which the person reaches pension age the person is entitled to a pension in respect of the person’s section 9(2B) rights[^c-2901b0f55788119f717f78bd937556fd],
 
 but a person falling within paragraph (7) is not to be regarded as a pensioner for the purposes of Chapter 3.E (death benefits).
 
@@ -69,9 +69,9 @@ but a person falling within paragraph (7) is not to be regarded as a pensioner f
 
 - (a) a pension that is forfeited—
   - (i) as a result of a conviction for treason, or
-  - (ii) in a case where an offence within regulation 3.J.7(2)(b) [^key-3c36f4f8257a180a2ae4023b8f6c3399]... is committed,
+  - (ii) in a case where an offence within regulation 3.J.7(2)(b) [^c-3c36f4f8257a180a2ae4023b8f6c3399]... is committed,
 - (b) a pension that is commuted under regulation 3.D.11 (option for members in serious ill-health to exchange whole pension for lump sum), or
-- (c) a pension that is commuted under regulation 3.J.5 (commutation of small pensions) where the conditions in regulation 25 of the Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015[^key-c46d42e9a8cf54cde079188d79f8175b] are met,
+- (c) a pension that is commuted under regulation 3.J.5 (commutation of small pensions) where the conditions in regulation 25 of the Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015[^c-c46d42e9a8cf54cde079188d79f8175b] are met,
 
 but if any other provision of the Scheme is inconsistent with this rule, this rule prevails.
 
@@ -85,14 +85,14 @@ but if any other provision of the Scheme is inconsistent with this rule, this ru
 
 ## Annotations
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-1cc2a94809db692e06b9f8a8d94dbf06]: Textual amendment: Words in [reg. 3.D.18](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.18) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-1cc2a94809db692e06b9f8a8d94dbf06]: Textual amendment: Words in [reg. 3.D.18](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.18) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
 
-[^key-113114e7741bbc5ca5acf51f1d752c9d]: Textual amendment: Words in [reg. 3.D.18(7)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.18/7/a) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [66(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/66/2) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))
+[^c-113114e7741bbc5ca5acf51f1d752c9d]: Textual amendment: Words in [reg. 3.D.18(7)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.18/7/a) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [66(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/66/2) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))
 
-[^key-2901b0f55788119f717f78bd937556fd]: Textual amendment: Words in [reg. 3.D.18(8)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.18/8/b) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [66(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/66/3) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))
+[^c-2901b0f55788119f717f78bd937556fd]: Textual amendment: Words in [reg. 3.D.18(8)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.18/8/b) substituted (6.4.2019) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/3), [66(3)](https://www.legislation.gov.uk/uksi/2019/418/regulation/66/3) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))
 
-[^key-3c36f4f8257a180a2ae4023b8f6c3399]: Textual amendment: Words in [reg. 3.D.18(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.18/9/a/ii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 27(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/27/3)
+[^c-3c36f4f8257a180a2ae4023b8f6c3399]: Textual amendment: Words in [reg. 3.D.18(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.18/9/a/ii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 27(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/27/3)
 
-[^key-c46d42e9a8cf54cde079188d79f8175b]: Textual amendment: Words in [reg. 3.D.18(9)(c)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.18/9/c) substituted (6.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/3), [48](https://www.legislation.gov.uk/uksi/2016/245/regulation/48) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-c46d42e9a8cf54cde079188d79f8175b]: Textual amendment: Words in [reg. 3.D.18(9)(c)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.D.18/9/c) substituted (6.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/3), [48](https://www.legislation.gov.uk/uksi/2016/245/regulation/48) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Repeal of remainder of the Shops Act 1950.[^key-490daed9c5b184072ddfc2713e54cc5f]
+## 24. Repeal of remainder of the Shops Act 1950.[^c-490daed9c5b184072ddfc2713e54cc5f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-490daed9c5b184072ddfc2713e54cc5f]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/1994/40/section/24) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-490daed9c5b184072ddfc2713e54cc5f]: Textual amendment: [S. 24](https://www.legislation.gov.uk/ukpga/1994/40/section/24) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2

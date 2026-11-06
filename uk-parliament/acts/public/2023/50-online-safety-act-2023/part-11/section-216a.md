@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216A. Power to amend Act in relation to illegal AI-generated content etc[^key-10ac089c8c481b729c097009b81282dd]
+## 216A. Power to amend Act in relation to illegal AI-generated content etc[^c-10ac089c8c481b729c097009b81282dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -101,4 +101,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10ac089c8c481b729c097009b81282dd]: Textual amendment: S. 216A and cross-heading inserted (29.4.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 248(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/248/2), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-10ac089c8c481b729c097009b81282dd]: Textual amendment: S. 216A and cross-heading inserted (29.4.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 248(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/248/2), [255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)

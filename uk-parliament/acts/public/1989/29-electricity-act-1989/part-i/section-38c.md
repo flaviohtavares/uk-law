@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38C. Enforcement of benefit scheme[^key-5c2d4ac8cf593c30a1ff6e7b9c08bd2d]
+## 38C. Enforcement of benefit scheme[^c-5c2d4ac8cf593c30a1ff6e7b9c08bd2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c2d4ac8cf593c30a1ff6e7b9c08bd2d]: Textual amendment: Ss. 38A-38D and cross-heading inserted (18.12.2025) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/27/2), [118(1)(n)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/n) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-5c2d4ac8cf593c30a1ff6e7b9c08bd2d]: Textual amendment: Ss. 38A-38D and cross-heading inserted (18.12.2025) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 27(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/27/2), [118(1)(n)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/n) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

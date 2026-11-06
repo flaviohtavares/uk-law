@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Road Transport (Working Time) Regulations 2005[^key-e85751003bdcdc450d208d911c849a21]
+## 26. Road Transport (Working Time) Regulations 2005[^c-e85751003bdcdc450d208d911c849a21]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ In regulation 3(3)(b) of the Road Transport (Working Time) Regulations 2005 [^c2
 
 ## Annotations
 
-[^key-e85751003bdcdc450d208d911c849a21]: Commencement: Reg. 26 in force at 26.3.2019, see reg. 1(2)
+[^c-e85751003bdcdc450d208d911c849a21]: Commencement: Reg. 26 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620851]: Marginal citation: [S.I. 2005/639](https://www.legislation.gov.uk/uksi/2005/639), amended by [S.I. 2007/853](https://www.legislation.gov.uk/uksi/2007/853), 2012/991.

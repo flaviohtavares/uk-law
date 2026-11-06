@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(A1)[^key-7f05386a0ce83dbb3ccb945fbacceb7e] This section applies in relation to investigations conducted under this Part.
+(A1)[^c-7f05386a0ce83dbb3ccb945fbacceb7e] This section applies in relation to investigations conducted under this Part.
 
 (1) For the purposes of an investigation the Ombudsman may require a person he thinks is able to supply information or produce a document relevant to the investigation to do so.
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f05386a0ce83dbb3ccb945fbacceb7e]: Textual amendment: S. 14(A1) inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 20](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/20); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-7f05386a0ce83dbb3ccb945fbacceb7e]: Textual amendment: S. 14(A1) inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 20](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/20); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)

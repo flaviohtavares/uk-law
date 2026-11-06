@@ -35,12 +35,12 @@ summary: ''
 (2) An “insurance investment entity” is an entity that meets all of the following conditions—
 
 - (a) the entity is not an investment fund under subsection (1), but would be an investment fund if it were designed to pool assets from more than one investor or those investors were required not to be connected;
-- (b)[^key-c964ddd576fcfcb9ea1dc68359ea3512] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-13f30155186af3f0043c81caba6273b7] the income or gains the entity is designed to generate are intended to offset liabilities under insurance or annuity contracts;
+- (b)[^c-c964ddd576fcfcb9ea1dc68359ea3512] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-13f30155186af3f0043c81caba6273b7] the income or gains the entity is designed to generate are intended to offset liabilities under insurance or annuity contracts;
 - (d) no person other than members of the group has ownership interests in the entity;
-- (e)[^key-510244ca6425c3ff64776dcb2629a742] regulated entities hold 100% of the ownership interests in it (see section 244 for how to calculate this).
+- (e)[^c-510244ca6425c3ff64776dcb2629a742] regulated entities hold 100% of the ownership interests in it (see section 244 for how to calculate this).
 
-(2A)[^key-99bac86975b726a06556b03c94d7d43b] An entity is a regulated entity if—
+(2A)[^c-99bac86975b726a06556b03c94d7d43b] An entity is a regulated entity if—
 
 - (a) the entity is subject to a regulatory regime in the territory in which it is established or managed, and
 - (b) that regime is specific to persons engaged in the business of entering into insurance or annuity contracts or of performing activities ancillary to such business.
@@ -61,10 +61,10 @@ summary: ''
 
 ## Annotations
 
-[^key-c964ddd576fcfcb9ea1dc68359ea3512]: Textual amendment: [S. 236(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/236/2/b) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 31(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/31/2/a)
+[^c-c964ddd576fcfcb9ea1dc68359ea3512]: Textual amendment: [S. 236(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/236/2/b) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 31(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/31/2/a)
 
-[^key-13f30155186af3f0043c81caba6273b7]: Textual amendment: [S. 236(2)(c)](https://www.legislation.gov.uk/ukpga/2023/30/section/236/2/c) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 31(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/31/2/b)
+[^c-13f30155186af3f0043c81caba6273b7]: Textual amendment: [S. 236(2)(c)](https://www.legislation.gov.uk/ukpga/2023/30/section/236/2/c) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 31(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/31/2/b)
 
-[^key-510244ca6425c3ff64776dcb2629a742]: Textual amendment: [S. 236(2)(e)](https://www.legislation.gov.uk/ukpga/2023/30/section/236/2/e) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 31(2)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/31/2/c)
+[^c-510244ca6425c3ff64776dcb2629a742]: Textual amendment: [S. 236(2)(e)](https://www.legislation.gov.uk/ukpga/2023/30/section/236/2/e) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 31(2)(c)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/31/2/c)
 
-[^key-99bac86975b726a06556b03c94d7d43b]: Textual amendment: [S. 236(2A)](https://www.legislation.gov.uk/ukpga/2023/30/section/236/2A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 31(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/31/3)
+[^c-99bac86975b726a06556b03c94d7d43b]: Textual amendment: [S. 236(2A)](https://www.legislation.gov.uk/ukpga/2023/30/section/236/2A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 31(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/31/3)

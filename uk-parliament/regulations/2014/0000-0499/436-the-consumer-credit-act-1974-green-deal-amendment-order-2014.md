@@ -46,7 +46,7 @@ The Scottish Ministers and the Welsh Ministers have been consulted in accordance
 
 Accordingly, the Secretary of State makes the following Order, in exercise of the power conferred by section 30 of the Energy Act 2011[^f00002].
 
-## 1. Citation, commencement, application and extent[^key-d23df29695363def5fb154f05ac6de4a]
+## 1. Citation, commencement, application and extent[^c-d23df29695363def5fb154f05ac6de4a]
 
 (1) This Order may be cited as the Consumer Credit Act 1974 (Green Deal) (Amendment) Order 2014.
 
@@ -56,24 +56,24 @@ Accordingly, the Secretary of State makes the following Order, in exercise of th
 
 (4) This Order extends to England and Wales and Scotland only.
 
-## 2. Interpretation[^key-3a538e31666eb8580a8f1a54f17db167]
+## 2. Interpretation[^c-3a538e31666eb8580a8f1a54f17db167]
 
 In this Order “the Act” means the Consumer Credit Act 1974[^f00003].
 
-## 3. Amendment to section 8 of the Act (consumer credit agreements)[^key-73479e6dfb3991d533ac857ec2f6768e]
+## 3. Amendment to section 8 of the Act (consumer credit agreements)[^c-73479e6dfb3991d533ac857ec2f6768e]
 
 In section 8 of the Act[^f00004], after subsection (3) insert—
 
 > (4) Subsection (1) does not apply in relation to an agreement that is a green deal plan (see instead section 189B).
 
-## 4. Amendment to section 16B of the Act (exemption relating to businesses)[^key-7d3d82ac9e62a001cc54e51f5c8b5f22]
+## 4. Amendment to section 16B of the Act (exemption relating to businesses)[^c-7d3d82ac9e62a001cc54e51f5c8b5f22]
 
 In section 16B(1A)(c) of the Act[^f00005]—
 
 - (a) after “plan” insert “made in relation to a property that is not a domestic property (as defined by section 189B(8))”; and
 - (b) omit “(within the meaning of section 1 of the Energy Act 2011)”.
 
-## 5. Amendment to section 189 of the Act (definitions)[^key-d218acd61aab8520a5a558b3109f3b72]
+## 5. Amendment to section 189 of the Act (definitions)[^c-d218acd61aab8520a5a558b3109f3b72]
 
 In section 189(1) of the Act—
 
@@ -85,7 +85,7 @@ In section 189(1) of the Act—
 
   .
 
-## 6. Amendments to the Act regarding the circumstances in which a green deal plan is treated as a consumer credit agreement, and the persons who are to be treated as being the creditor and the debtor in relation to a green deal plan[^key-030eac5c4ecb1ba2be8e6d4986a88b4d]
+## 6. Amendments to the Act regarding the circumstances in which a green deal plan is treated as a consumer credit agreement, and the persons who are to be treated as being the creditor and the debtor in relation to a green deal plan[^c-030eac5c4ecb1ba2be8e6d4986a88b4d]
 
 After section 189A of the Act insert—
 
@@ -180,7 +180,7 @@ After section 189A of the Act insert—
 >
 > (2) This section ceases to have effect on 1st April 2014.
 
-## 7. Meaning of “debtor” in relation to green deal plans[^key-97bfedd1ee7673c6723bbe8e4f3eefc2]
+## 7. Meaning of “debtor” in relation to green deal plans[^c-97bfedd1ee7673c6723bbe8e4f3eefc2]
 
 After Schedule 2 to the Act (examples of use of new terminology) insert the following Schedule—
 
@@ -228,7 +228,7 @@ After Schedule 2 to the Act (examples of use of new terminology) insert the foll
 > | Section 187A[^f00046] | - current bill payer<br>- previous bill payer |
 > | Section 189(1), so far as relating to definition of “security” | \- improver |
 
-## 8. Consequential amendments to sections 21, 77, 77A, 77B, 86B and 95B of the Act[^key-814f20b4a8e6c09115552c1933367e45]
+## 8. Consequential amendments to sections 21, 77, 77A, 77B, 86B and 95B of the Act[^c-814f20b4a8e6c09115552c1933367e45]
 
 (1) In section 21(6) of the Act[^f00047]—
 
@@ -265,23 +265,23 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: Section 30 is amended by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), article 28 and paragraph 17 of the Schedule. The amendments came into force on 26th July 2013 for the purpose of making orders and come into force on 1st April 2014 for remaining purposes.
 
-[^key-d23df29695363def5fb154f05ac6de4a]: Commencement: Art. 1 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
+[^c-d23df29695363def5fb154f05ac6de4a]: Commencement: Art. 1 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
 
-[^key-3a538e31666eb8580a8f1a54f17db167]: Commencement: Art. 2 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
+[^c-3a538e31666eb8580a8f1a54f17db167]: Commencement: Art. 2 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
 
 [^f00003]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-73479e6dfb3991d533ac857ec2f6768e]: Commencement: Art. 3 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
+[^c-73479e6dfb3991d533ac857ec2f6768e]: Commencement: Art. 3 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
 
 [^f00004]: Footnote: Section 8 was amended by sections 2(1) and 5(1) of the Consumer Credit Act [2006 (c.14)](https://www.legislation.gov.uk/ukpga/2006/14) and [S.I. 2008/2826](https://www.legislation.gov.uk/uksi/2008/2826), article 3(2). Section 8(3) is amended with effect from 1st April 2014 by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), article 20(3).
 
-[^key-7d3d82ac9e62a001cc54e51f5c8b5f22]: Commencement: Art. 4 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
+[^c-7d3d82ac9e62a001cc54e51f5c8b5f22]: Commencement: Art. 4 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
 
 [^f00005]: Footnote: Section 16B was inserted by section 4 of the Consumer Credit Act 2006 and was amended by section 25 of the Energy Act 2011. Section 16B is repealed with effect from 1st April 2014 by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), article 20(7).
 
-[^key-d218acd61aab8520a5a558b3109f3b72]: Commencement: Art. 5 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
+[^c-d218acd61aab8520a5a558b3109f3b72]: Commencement: Art. 5 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
 
-[^key-030eac5c4ecb1ba2be8e6d4986a88b4d]: Commencement: Art. 6 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
+[^c-030eac5c4ecb1ba2be8e6d4986a88b4d]: Commencement: Art. 6 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
 
 [^f00006]: Footnote: Section 94 was amended by [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), regulations 2 and 30, and section 29 of the Energy Act 2011. Section 95 was amended by [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), regulations 2 and 31. Section 95A was inserted by [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), regulations 2 and 32. Section 95B was inserted by section 29 of the Energy Act 2011. Section 97 was amended by [S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277), regulation 30, Schedules 2 and 4 and [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), regulations 2 and 33. Section 97A was inserted by [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), regulations 2 and 34, and amended by section 29 of the Energy Act 2011.
 
@@ -311,7 +311,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00019]: Footnote: Section 160A was inserted by [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), regulations 2 and 41, and is repealed by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), article 20, with effect from 1st April 2014.
 
-[^key-97bfedd1ee7673c6723bbe8e4f3eefc2]: Commencement: Art. 7 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
+[^c-97bfedd1ee7673c6723bbe8e4f3eefc2]: Commencement: Art. 7 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
 
 [^f00020]: Footnote: Section 55 was amended by [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), regulations 2 and 16.
 
@@ -367,7 +367,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00046]: Footnote: Section 187A was inserted by section 18 of the Consumer Credit Act 2006.
 
-[^key-814f20b4a8e6c09115552c1933367e45]: Commencement: Art. 8 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
+[^c-814f20b4a8e6c09115552c1933367e45]: Commencement: Art. 8 in force at 28.2.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/436/article/1/2)
 
 [^f00047]: Footnote: Section 21(6) was inserted by section 26 of the Energy Act 2011.
 

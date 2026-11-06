@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 106A. Conditions on standard temporary event notice following objection[^key-f02312cab2bc90de78c3ff53d0aae5fd]
+## 106A. Conditions on standard temporary event notice following objection[^c-f02312cab2bc90de78c3ff53d0aae5fd]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f02312cab2bc90de78c3ff53d0aae5fd]: Textual amendment: S. 106A inserted (22.3.2012 for specified purposes, 25.4.2012 in so far as not already in force) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 113(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/3), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 113(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/6)); [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/896/article/2/e); S.I. 2012/1129, art. 2(d)
+[^c-f02312cab2bc90de78c3ff53d0aae5fd]: Textual amendment: S. 106A inserted (22.3.2012 for specified purposes, 25.4.2012 in so far as not already in force) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 113(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/3), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 113(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/113/6)); [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/896/article/2/e); S.I. 2012/1129, art. 2(d)

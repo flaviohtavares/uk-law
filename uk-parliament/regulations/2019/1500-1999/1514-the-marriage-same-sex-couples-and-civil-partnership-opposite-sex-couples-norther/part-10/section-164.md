@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Regional Business Services Organisation (Membership and Procedure) Regulations (Northern Ireland) 2009[^key-7f4cd09b28f1caf6cd7579b80c77e044]
+## 164. Regional Business Services Organisation (Membership and Procedure) Regulations (Northern Ireland) 2009[^c-7f4cd09b28f1caf6cd7579b80c77e044]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7f4cd09b28f1caf6cd7579b80c77e044]: Commencement: Reg. 164 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-7f4cd09b28f1caf6cd7579b80c77e044]: Commencement: Reg. 164 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00273]: Footnote: [S.R. (N.I.) 2009/97](https://www.legislation.gov.uk/nisr/2009/97).

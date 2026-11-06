@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 176. Electronic submission of information[^key-d3858c2aa69a87cdf4e8ee35677dfefa]
+## 176. Electronic submission of information[^c-d3858c2aa69a87cdf4e8ee35677dfefa]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3858c2aa69a87cdf4e8ee35677dfefa]: Commencement: Rule 176 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-d3858c2aa69a87cdf4e8ee35677dfefa]: Commencement: Rule 176 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

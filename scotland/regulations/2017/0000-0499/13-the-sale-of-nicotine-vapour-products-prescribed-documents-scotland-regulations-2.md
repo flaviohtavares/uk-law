@@ -56,7 +56,7 @@ The documents and descriptions of documents prescribed [^c23243091] for the purp
 
 - (a) a Ministry of Defence Form 90 (Defence Identity Card);
 - (b) a photographic identity card bearing the national Proof of Age Standards Scheme hologram [^c23243101];
-- (c) a national identity card issued by a member State [^c23243111] [^key-9b1ea3d16fb6e448c26e46c0451066cb]..., Norway, Iceland, Liechtenstein or Switzerland [^c23243121]; and
+- (c) a national identity card issued by a member State [^c23243111] [^c-9b1ea3d16fb6e448c26e46c0451066cb]..., Norway, Iceland, Liechtenstein or Switzerland [^c23243121]; and
 - (d) a Biometric Immigration Document [^c23243131].
 
 AILEEN CAMPBELL
@@ -83,7 +83,7 @@ It is an offence to sell a nicotine vapour product to a person under the age of 
 
 [^c23243111]: Marginal citation: Part II of schedule 1 of the [European Communities Act 1972 (c.68)](https://www.legislation.gov.uk/ukpga/1972/68) (“**the 1972 Act**”) provides that “member” in the expression “**member State**” refers to membership of the EU. Section 1(2) of that Act defines “the EU” to mean the European Union, being the Union established by the Treaty on the European Union signed at Maastricht on 7th February 1992 (as amended by any later Treaty). Schedule 1 (read with section 25(1)) of the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10) provides that “the EU” and other expressions defined by section 1 and schedule 1 of the 1972 Act have the meanings given by that Act when used in a Scottish instrument.
 
-[^key-9b1ea3d16fb6e448c26e46c0451066cb]: Textual amendment: Words in [reg. 2(c)](https://www.legislation.gov.uk/ssi/2017/13/regulation/2/c) omitted (31.12.2020) by virtue of [The Public Health and Tobacco (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/142)](https://www.legislation.gov.uk/ssi/2019/142), [regs. 1](https://www.legislation.gov.uk/ssi/2019/142/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/142/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b1ea3d16fb6e448c26e46c0451066cb]: Textual amendment: Words in [reg. 2(c)](https://www.legislation.gov.uk/ssi/2017/13/regulation/2/c) omitted (31.12.2020) by virtue of [The Public Health and Tobacco (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/142)](https://www.legislation.gov.uk/ssi/2019/142), [regs. 1](https://www.legislation.gov.uk/ssi/2019/142/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/142/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23243121]: Marginal citation: The States listed are the present members of the European Economic Area and Switzerland.
 

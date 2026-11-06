@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Power to execute street works[^key-18b0337a80c7261c67d0823bd769d061]
+## 6. Power to execute street works[^c-18b0337a80c7261c67d0823bd769d061]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18b0337a80c7261c67d0823bd769d061]: Commencement: Art. 6 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-18b0337a80c7261c67d0823bd769d061]: Commencement: Art. 6 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

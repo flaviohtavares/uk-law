@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Section 85: supplementary[^key-805eebf388961ad6f64c73778f788d0a]
+## 86. Section 85: supplementary[^c-805eebf388961ad6f64c73778f788d0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-805eebf388961ad6f64c73778f788d0a]: Commencement: S. 86 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-805eebf388961ad6f64c73778f788d0a]: Commencement: S. 86 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)

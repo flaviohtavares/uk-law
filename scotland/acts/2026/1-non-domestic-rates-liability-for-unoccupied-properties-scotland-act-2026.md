@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Non-domestic rates: liability of owners of unoccupied properties
 
-### 1. Non-domestic rates: liability of owners of unoccupied properties[^key-c239f0ffa4ca560f37a39e202dbe21cb]
+### 1. Non-domestic rates: liability of owners of unoccupied properties[^c-c239f0ffa4ca560f37a39e202dbe21cb]
 
 (1) The Local Government (Scotland) Act 1966 is modified in accordance with subsection (2).
 
@@ -73,7 +73,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 2 — Final provisions
 
-### 2. Ancillary provision[^key-49c1bb89fbffab434f6fb7d390df7cea]
+### 2. Ancillary provision[^c-49c1bb89fbffab434f6fb7d390df7cea]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
 
@@ -88,20 +88,20 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) Regulations under this section are subject to the affirmative procedure.
 
-### 3. Commencement[^key-47ccb3266bf2836402a43e2b80cc241b]
+### 3. Commencement[^c-47ccb3266bf2836402a43e2b80cc241b]
 
 This Act comes into force on the day after Royal Assent.
 
-### 4. Short title[^key-64982f824fc34cc95a69366f4a2417e2]
+### 4. Short title[^c-64982f824fc34cc95a69366f4a2417e2]
 
 The short title of this Act is the Non-Domestic Rates (Liability for Unoccupied Properties) (Scotland) Act 2026.
 
 ## Annotations
 
-[^key-c239f0ffa4ca560f37a39e202dbe21cb]: Commencement: S. 1 in force at 8.1.2026, see [s. 3](https://www.legislation.gov.uk/asp/2026/1/section/3)
+[^c-c239f0ffa4ca560f37a39e202dbe21cb]: Commencement: S. 1 in force at 8.1.2026, see [s. 3](https://www.legislation.gov.uk/asp/2026/1/section/3)
 
-[^key-49c1bb89fbffab434f6fb7d390df7cea]: Commencement: S. 2 in force at 8.1.2026, see [s. 3](https://www.legislation.gov.uk/asp/2026/1/section/3)
+[^c-49c1bb89fbffab434f6fb7d390df7cea]: Commencement: S. 2 in force at 8.1.2026, see [s. 3](https://www.legislation.gov.uk/asp/2026/1/section/3)
 
-[^key-47ccb3266bf2836402a43e2b80cc241b]: Commencement: S. 3 in force at 8.1.2026, see [s. 3](https://www.legislation.gov.uk/asp/2026/1/section/3)
+[^c-47ccb3266bf2836402a43e2b80cc241b]: Commencement: S. 3 in force at 8.1.2026, see [s. 3](https://www.legislation.gov.uk/asp/2026/1/section/3)
 
-[^key-64982f824fc34cc95a69366f4a2417e2]: Commencement: S. 4 in force at 8.1.2026, see [s. 3](https://www.legislation.gov.uk/asp/2026/1/section/3)
+[^c-64982f824fc34cc95a69366f4a2417e2]: Commencement: S. 4 in force at 8.1.2026, see [s. 3](https://www.legislation.gov.uk/asp/2026/1/section/3)

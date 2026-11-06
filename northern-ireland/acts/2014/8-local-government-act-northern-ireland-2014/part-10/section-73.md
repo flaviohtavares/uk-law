@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Community involvement[^key-a20fb4e4a1a1b179fd0153208afb48ab]
+## 73. Community involvement[^c-a20fb4e4a1a1b179fd0153208afb48ab]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a20fb4e4a1a1b179fd0153208afb48ab]: Commencement: [S. 73](https://www.legislation.gov.uk/nia/2014/8/section/73) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-a20fb4e4a1a1b179fd0153208afb48ab]: Commencement: [S. 73](https://www.legislation.gov.uk/nia/2014/8/section/73) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

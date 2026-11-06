@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Regulation (EU) No 1379/2013 of the European Parliament and of the Council on the common organisation of the markets in fishery and aquaculture products[^key-1c8aa16a10be28a4606c4095d72f288d]
+## 19. Regulation (EU) No 1379/2013 of the European Parliament and of the Council on the common organisation of the markets in fishery and aquaculture products[^c-1c8aa16a10be28a4606c4095d72f288d]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 (7) In Article 8—
 
 - (a) in paragraph (1)(c) for “Union” substitute “ United Kingdom ”; and
-- (b)[^key-1f4472ccce15e0c7c96869ee896315fa] in paragraph (2)—
+- (b)[^c-1f4472ccce15e0c7c96869ee896315fa] in paragraph (2)—
   - (i) in point (a), for “Member States” substitute “a fisheries administration”, and
   - (ii) omit point (c).
 
@@ -164,11 +164,11 @@ summary: ''
 - (a) in the heading for “Exceptions to” substitute “ Exclusions from ”;
 - (b) in paragraph 1—
   - (i) for “Article 101(1) TFEU shall” substitute “ the prohibition in Chapter 1 of the Competition Act 1988 does ”,
-  - (ii) in point (a) after “TFEU” insert “ (as it had effect immediately before IP completion day[^key-6a1f78001694c3442e86f78dd8532d60]) ”, and
+  - (ii) in point (a) after “TFEU” insert “ (as it had effect immediately before IP completion day[^c-6a1f78001694c3442e86f78dd8532d60]) ”, and
   - (iii) in point (c) omit “within the Union”;
 - (c) in paragraph 2—
   - (i) for “Article 101(1) TFEU shall” substitute “ the prohibition in Chapter 1 of the Competition Act 1998 does ”,
-  - (ii) in point (a) after “TFEU” insert “ (as it had effect immediately before IP completion day[^key-acb02c82331605dfe377b9987b5879b5]) ”,
+  - (ii) in point (a) after “TFEU” insert “ (as it had effect immediately before IP completion day[^c-acb02c82331605dfe377b9987b5879b5]) ”,
   - (iii) in point (c) omit “within the Union”, and
   - (iv) in point (f) for “of the CFP” substitute “ specified in Article 2 of Regulation 1380/2013 ”; and
 - (d) after paragraph 2 insert—
@@ -187,22 +187,22 @@ summary: ''
 
 (33) Omit Articles 48 and 49.
 
-(34)[^key-23c64cdd1285c8fd36eb4ee9c6063ddf] Omit Annex 2.
+(34)[^c-23c64cdd1285c8fd36eb4ee9c6063ddf] Omit Annex 2.
 
 ## Annotations
 
-[^key-1c8aa16a10be28a4606c4095d72f288d]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-1c8aa16a10be28a4606c4095d72f288d]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
 
-[^key-1f4472ccce15e0c7c96869ee896315fa]: Textual amendment: Reg. 19(7)(b) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(4)(a)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/4/a)
+[^c-1f4472ccce15e0c7c96869ee896315fa]: Textual amendment: Reg. 19(7)(b) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(4)(a)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/4/a)
 
 [^c23688091]: Marginal citation: [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41).
 
-[^key-6a1f78001694c3442e86f78dd8532d60]: Textual amendment: Words in reg. 19(31)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/4/b/i)
+[^c-6a1f78001694c3442e86f78dd8532d60]: Textual amendment: Words in reg. 19(31)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(4)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/4/b/i)
 
-[^key-acb02c82331605dfe377b9987b5879b5]: Textual amendment: Words in reg. 19(31)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/4/b/ii)
+[^c-acb02c82331605dfe377b9987b5879b5]: Textual amendment: Words in reg. 19(31)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/4/b/ii)
 
 [^c23688101]: Marginal citation: The Competition and Markets Authority was established by section 25 of the [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
 [^c23688111]: Marginal citation: [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41). Paragraph 9 of Schedule 3 was amended by the Enterprise and Regulatory Reform Act 2013, Schedule 5, Part 1, paragraph 55.
 
-[^key-23c64cdd1285c8fd36eb4ee9c6063ddf]: Textual amendment: Reg. 19(34) inserted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(4)(c)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/4/c)
+[^c-23c64cdd1285c8fd36eb4ee9c6063ddf]: Textual amendment: Reg. 19(34) inserted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [11(4)(c)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/11/4/c)

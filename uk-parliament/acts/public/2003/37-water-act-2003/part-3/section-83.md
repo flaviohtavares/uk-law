@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Water conservation by public authorities[^key-d02e71cc7e2b24e89ec490b20ff4a048]
+## 83. Water conservation by public authorities[^c-d02e71cc7e2b24e89ec490b20ff4a048]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d02e71cc7e2b24e89ec490b20ff4a048]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2003/37/section/83) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(u)](https://www.legislation.gov.uk/uksi/2004/641/article/3/u) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-d02e71cc7e2b24e89ec490b20ff4a048]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2003/37/section/83) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(u)](https://www.legislation.gov.uk/uksi/2004/641/article/3/u) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Expenses of requisitioned meetings[^key-23b39de925f23ac4dbd048bfe71d8b3f]
+## 42. Expenses of requisitioned meetings[^c-23b39de925f23ac4dbd048bfe71d8b3f]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23b39de925f23ac4dbd048bfe71d8b3f]: Commencement: Rule 42 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-23b39de925f23ac4dbd048bfe71d8b3f]: Commencement: Rule 42 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

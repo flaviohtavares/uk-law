@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 320. Amendment of Commission Implementing Decision (EU) 2017/1208[^key-1ffde7b16a672d0018885068f6d9303b]
+## 320. Amendment of Commission Implementing Decision (EU) 2017/1208[^c-1ffde7b16a672d0018885068f6d9303b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Decision (EU) 2017/1208 authorising the placing on the m
 
 ## Annotations
 
-[^key-1ffde7b16a672d0018885068f6d9303b]: Commencement: Reg. 320 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1ffde7b16a672d0018885068f6d9303b]: Commencement: Reg. 320 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

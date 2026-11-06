@@ -67,7 +67,7 @@ The Lord Chancellor makes the following Regulations [^c21489421] in exercise of 
 - [Section 14 — Housing Loss Prevention Advice Service](part-1/section-14.md)
 - [Section 15 — Applications by legal persons](part-1/section-15.md)
 
-### PART 2 — Gateway Work[^key-2af1e8e32fa544a6650a49acfd471495]
+### PART 2 — Gateway Work[^c-2af1e8e32fa544a6650a49acfd471495]
 
 *Extent: E+W*
 
@@ -192,4 +192,4 @@ An impact assessment relating to the requirement (in regulations 33 and 34) to p
 
 [^c21489431]: Marginal citation: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-2af1e8e32fa544a6650a49acfd471495]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2012/3098/part/2) revoked (15.5.2020) by [The Civil Legal Aid (Procedure) (Amendment) Regulations 2020 (S.I. 2020/439)](https://www.legislation.gov.uk/uksi/2020/439), [regs. 1](https://www.legislation.gov.uk/uksi/2020/439/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/439/regulation/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/439/regulation/9))
+[^c-2af1e8e32fa544a6650a49acfd471495]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2012/3098/part/2) revoked (15.5.2020) by [The Civil Legal Aid (Procedure) (Amendment) Regulations 2020 (S.I. 2020/439)](https://www.legislation.gov.uk/uksi/2020/439), [regs. 1](https://www.legislation.gov.uk/uksi/2020/439/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/439/regulation/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2020/439/regulation/9))

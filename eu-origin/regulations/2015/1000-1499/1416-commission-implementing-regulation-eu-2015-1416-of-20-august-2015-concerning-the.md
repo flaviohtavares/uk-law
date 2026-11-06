@@ -35,24 +35,24 @@ concerning the authorisation of sodium bisulphate as feed additive for all anima
 
 (Text with EEA relevance) (revoked)
 
-[^key-4b18049806c9a855f3ec853bcf731bf1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b18049806c9a855f3ec853bcf731bf1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-4b18049806c9a855f3ec853bcf731bf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4b18049806c9a855f3ec853bcf731bf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4b18049806c9a855f3ec853bcf731bf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4b18049806c9a855f3ec853bcf731bf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-4b18049806c9a855f3ec853bcf731bf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-4b18049806c9a855f3ec853bcf731bf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b18049806c9a855f3ec853bcf731bf1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b18049806c9a855f3ec853bcf731bf1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-4b18049806c9a855f3ec853bcf731bf1]
+## ANNEX I[^c-4b18049806c9a855f3ec853bcf731bf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-4b18049806c9a855f3ec853bcf731bf1]
+## ANNEX II[^c-4b18049806c9a855f3ec853bcf731bf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b18049806c9a855f3ec853bcf731bf1]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 183](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/183) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-4b18049806c9a855f3ec853bcf731bf1]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 183](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/183) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

@@ -26,7 +26,7 @@ summary: ''
 
 (3) Where the applications are not made by the same applicant, they rank in such order as the applicants may specify that they have agreed.
 
-(4) Where the applications are not made by the same applicant, and the applicants have not specified the agreed order of priority, the registrar must notify the applicants that their applications are regarded as having been delivered at the same time and request them to agree, within a specified time (being not less than fifteen working[^key-2db56d41a70f9ac9c99711d6a802fc7a] days), their order of priority.
+(4) Where the applications are not made by the same applicant, and the applicants have not specified the agreed order of priority, the registrar must notify the applicants that their applications are regarded as having been delivered at the same time and request them to agree, within a specified time (being not less than fifteen working[^c-2db56d41a70f9ac9c99711d6a802fc7a] days), their order of priority.
 
 (5) Where the parties fail within the time specified by the registrar to indicate the order of priority of their applications the registrar must propose the order of priority and serve notice on the applicants of his proposal.
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2db56d41a70f9ac9c99711d6a802fc7a]: Textual amendment: Word in [rule 55(4)](https://www.legislation.gov.uk/uksi/2003/1417/rule/55/4) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)
+[^c-2db56d41a70f9ac9c99711d6a802fc7a]: Textual amendment: Word in [rule 55(4)](https://www.legislation.gov.uk/uksi/2003/1417/rule/55/4) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)

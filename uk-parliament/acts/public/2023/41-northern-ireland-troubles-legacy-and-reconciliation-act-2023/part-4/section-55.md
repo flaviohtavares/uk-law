@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. The advisory forum[^key-b9ca9f31d5c32200726b291c5265c460][^key-dd5df725f1d50e204097b77f58f2f5cc]
+## 55. The advisory forum[^c-b9ca9f31d5c32200726b291c5265c460][^c-dd5df725f1d50e204097b77f58f2f5cc]
 
 *Extent: N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b9ca9f31d5c32200726b291c5265c460]: Commencement: S. 55 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-b9ca9f31d5c32200726b291c5265c460]: Commencement: S. 55 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-dd5df725f1d50e204097b77f58f2f5cc]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2023/41/section/55) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/aa) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-dd5df725f1d50e204097b77f58f2f5cc]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2023/41/section/55) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/aa) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

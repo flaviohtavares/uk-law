@@ -46,13 +46,13 @@ The powers are exercisable by the Department for Communities by virtue of Articl
 
 Regulation 2(1)(d) and (e) is made with the consent of the Department of Finance[^f00009].
 
-## 1. Citation, commencement and interpretation[^key-8ea3a5721237efa34c7a5e9e95322461]
+## 1. Citation, commencement and interpretation[^c-8ea3a5721237efa34c7a5e9e95322461]
 
 (1) These Regulations may be cited as the Social Security (Infected Blood Capital Disregard) (Amendment) Regulations (Northern Ireland) 2023 and come into operation on 30th August 2023.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Disregard for payment from estate[^key-baf914858847174843669d4f3f59aa33]
+## 2. Disregard for payment from estate[^c-baf914858847174843669d4f3f59aa33]
 
 (1) After each of the following provisions insert the provision in paragraph (2)—
 
@@ -69,7 +69,7 @@ Regulation 2(1)(d) and (e) is made with the consent of the Department of Finance
 
 .
 
-## 3. Amendment of the Universal Credit Regulations[^key-482b32bd399eed3b24a37de4faf11ae0]
+## 3. Amendment of the Universal Credit Regulations[^c-482b32bd399eed3b24a37de4faf11ae0]
 
 In regulation 76 of the Universal Credit Regulations (Northern Ireland) 2016[^f00018] (special schemes for compensation etc.), for paragraph (3) substitute—
 
@@ -134,11 +134,11 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00009]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8))](https://www.legislation.gov.uk/nisi/1993/1579); see also Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(4) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-8ea3a5721237efa34c7a5e9e95322461]: Commencement: Reg. 1 in operation at 30.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/118/regulation/1/1)
+[^c-8ea3a5721237efa34c7a5e9e95322461]: Commencement: Reg. 1 in operation at 30.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/118/regulation/1/1)
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-baf914858847174843669d4f3f59aa33]: Commencement: Reg. 2 in operation at 30.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/118/regulation/1/1)
+[^c-baf914858847174843669d4f3f59aa33]: Commencement: Reg. 2 in operation at 30.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/118/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201), [S.R. 2000 No. 241](https://www.legislation.gov.uk/nisr/2000/241), [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536), [S.R. 2010 No. 69](https://www.legislation.gov.uk/nisr/2010/69), [S.R. 2020 No. 108](https://www.legislation.gov.uk/nisr/2020/108), [S.R. 2021 No. 345](https://www.legislation.gov.uk/nisr/2021/345) and [S.R. 2023 No. 97](https://www.legislation.gov.uk/nisr/2023/97)
 
@@ -154,6 +154,6 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00017]: Footnote: see https://www.infectedbloodinquiry.org.uk/reports/first-interim-report. A hard copy may be obtained from the Department for Work and Pensions, Caxton House, Tothill Street, London SW1H 9NA
 
-[^key-482b32bd399eed3b24a37de4faf11ae0]: Commencement: Reg. 3 in operation at 30.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/118/regulation/1/1)
+[^c-482b32bd399eed3b24a37de4faf11ae0]: Commencement: Reg. 3 in operation at 30.8.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/118/regulation/1/1)
 
 [^f00018]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)

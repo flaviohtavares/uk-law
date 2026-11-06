@@ -59,7 +59,7 @@ for the period beginning with the date of member's retirement and ending on the 
 
 [formula: see source](https://www.legislation.gov.uk/nisr/2015/113)
 
-where—[^key-19a71d37ebfd7b609727cc4c9571c908]
+where—[^c-19a71d37ebfd7b609727cc4c9571c908]
 
 “**assumed period of pensionable service**” has the same meaning as in paragraph (4);
 
@@ -88,4 +88,4 @@ where—[^key-19a71d37ebfd7b609727cc4c9571c908]
 
 [^c22512161]: Marginal citation: [Regulation 42](https://www.legislation.gov.uk/nisr/2015/113/regulation/42) provides for the calculation of an amount of accrued earned pension. This amount forms the basis for determining the amount of retirement earned pension under regulation 66. The annual rate of retirement earned pension in relation to active members is calculated under regulation 96.
 
-[^key-19a71d37ebfd7b609727cc4c9571c908]: Textual amendment: Words in [reg. 102(6)](https://www.legislation.gov.uk/nisr/2015/113/regulation/102/6) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [24](https://www.legislation.gov.uk/nisr/2024/38/regulation/24)
+[^c-19a71d37ebfd7b609727cc4c9571c908]: Textual amendment: Words in [reg. 102(6)](https://www.legislation.gov.uk/nisr/2015/113/regulation/102/6) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [24](https://www.legislation.gov.uk/nisr/2024/38/regulation/24)

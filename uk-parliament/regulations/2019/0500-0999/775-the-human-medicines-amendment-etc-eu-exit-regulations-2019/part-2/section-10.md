@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Amendment of regulation 8 (general interpretation)[^key-d671bb51636553a332e92c9833201114]
+## 10. Amendment of regulation 8 (general interpretation)[^c-d671bb51636553a332e92c9833201114]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ;
 
-> “**Annex I to the 2001 Directive**” means , in relation to UKMA(GB),[^key-6d72a76d28d897c10a4982e8a9fb79d4] Annex I to the 2001 Directive, as modified in accordance with Schedule 8B;
+> “**Annex I to the 2001 Directive**” means , in relation to UKMA(GB),[^c-6d72a76d28d897c10a4982e8a9fb79d4] Annex I to the 2001 Directive, as modified in accordance with Schedule 8B;
 
 ;
 
@@ -51,7 +51,7 @@ summary: ''
 
 ;
 
-> “**conditional marketing authorisation**” means a UKMA(GB)[^key-025b7b7fe8a737cc66014885ae8dfbed] granted under regulation 49(1)(a) in accordance with regulation 58F;
+> “**conditional marketing authorisation**” means a UKMA(GB)[^c-025b7b7fe8a737cc66014885ae8dfbed] granted under regulation 49(1)(a) in accordance with regulation 58F;
 
 ;
 
@@ -63,7 +63,7 @@ summary: ''
 
 ;
 
-> “EU agreed paediatric investigation plan” means a paediatric investigation plan agreed in accordance with the Paediatric Regulation;[^key-132ca5c7f840c37246d6517cf3fd5db3]
+> “EU agreed paediatric investigation plan” means a paediatric investigation plan agreed in accordance with the Paediatric Regulation;[^c-132ca5c7f840c37246d6517cf3fd5db3]
 
 ;
 
@@ -137,7 +137,7 @@ summary: ''
 
 (3) In paragraph (1), amend or substitute (as the case may be) the following definitions—
 
-- (za)[^key-33199299777ea9bc51bdc7304fde64ed] in the definition of “advanced therapy medicinal product”, after “means” insert “, in the case of a medicinal product for sale or supply by the holder of a UKMA(NI) or UKMA(UK),”;
+- (za)[^c-33199299777ea9bc51bdc7304fde64ed] in the definition of “advanced therapy medicinal product”, after “means” insert “, in the case of a medicinal product for sale or supply by the holder of a UKMA(NI) or UKMA(UK),”;
 - (zb) in the definition of “certificate of registration”, after “these Regulations” insert—
 
   > - and—
@@ -146,7 +146,7 @@ summary: ''
   >   - (c) “COR(NI)” means such a certificate in force in Northern Ireland only;
 
   ;
-- (a)[^key-de540b3187366c391ff927fe0a761663] for the definition of “the Good Manufacturing Practice Directive” substitute—
+- (a)[^c-de540b3187366c391ff927fe0a761663] for the definition of “the Good Manufacturing Practice Directive” substitute—
 
   > - “the Good Manufacturing Practice Directive” means—
   >   - (a) in the case of a medicinal product manufactured or assembled in, or imported into, Great Britain—
@@ -155,17 +155,17 @@ summary: ''
   >   - (b) in the case of a medicinal product manufactured or assembled in, or imported into, Northern Ireland, Commission [Directive 2003/94/EC](https://www.legislation.gov.uk/eudr/2003/0094) laying down the principles and guidelines of good manufacturing practice for medicinal products for human use and for investigational medicinal products for human use;
 
   ;
-- (b) in the definition of “homoeopathic medicinal product”, in paragraph (b), for “in any pharmacopoeia used officially in an EEA State” substitute—[^key-65078754dc2b18fd9e142ea01c07c0b0]
+- (b) in the definition of “homoeopathic medicinal product”, in paragraph (b), for “in any pharmacopoeia used officially in an EEA State” substitute—[^c-65078754dc2b18fd9e142ea01c07c0b0]
   - (i) in relation to a certificate of registration or marketing authorisation for a national homoeopathic product in force in Great Britain only, the British Pharmacopoeia, or in an pharmacopoeia used officially in an country that is included in a list published by the licensing authority for this purpose;
   - (ii) in relation to a certificate of registration or marketing authorisation for a national homoeopathic product in force in the whole United Kingdom or in Northern Ireland only, in the British Pharmacopoeia or in any pharmacopoeia used officially in an EEA State;
 - (c) in the definition of “import”[^c23884371], insert at the end “ and “**imported**” is to be construed accordingly ”;
-- (d)[^key-2a7939c3a0721cd40a5e5aa67012a29f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e) in the definition of “pharmacovigilance system”, “pharmacovigilance system master file” and “post-authorisation safety study”, for “marketing authorisation” substitute “UK marketing authorisation, EU marketing authorisation”[^key-86d35d167b84dc9a0b1037b75f55b293]
+- (d)[^c-2a7939c3a0721cd40a5e5aa67012a29f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) in the definition of “pharmacovigilance system”, “pharmacovigilance system master file” and “post-authorisation safety study”, for “marketing authorisation” substitute “UK marketing authorisation, EU marketing authorisation”[^c-86d35d167b84dc9a0b1037b75f55b293]
 - (f) in the definition of “post-authorisation efficacy study”, insert “ UK ” before “marketing authorisation”;
 - (g) at the end of the definition of “Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/eur/2004/726)”, insert “ , as it has effect in EU law ”;
 - (h) at the end of the definition of “Regulation [(EC) No 1234/2008](https://www.legislation.gov.uk/eur/2008/1234)”, insert “ , as it has effect in EU law ”;
 - (i) in the definition of “special medicinal product” for “an EEA State” substitute “ a country ”;
-- (j)[^key-b2b826cf7223954c92b173845dc2bd76] in the definition of “traditional herbal registration”, after “these Regulations” insert—
+- (j)[^c-b2b826cf7223954c92b173845dc2bd76] in the definition of “traditional herbal registration”, after “these Regulations” insert—
 
   > - and—
   >   - (a) “THR(UK)” means such a registration in force in the whole United Kingdom;
@@ -173,7 +173,7 @@ summary: ''
   >   - (c) “THR(NI)” means such a registration in force in Northern Ireland only;
 
   ;
-- (k)[^key-e5edc68eb0bb2ffb9821ddc581dc46ff] for the definition of “UK marketing authorisation” substitute—
+- (k)[^c-e5edc68eb0bb2ffb9821ddc581dc46ff] for the definition of “UK marketing authorisation” substitute—
 
   > - “UK marketing authorisation” means a marketing authorisation granted by the licensing authority under Part 5 of these Regulations or Chapter 4 of Title III to the 2001 Directive (mutual recognition and decentralised procedure) and—
   >   - (a) “UKMA(UK)” means such an authorisation in force in the whole United Kingdom;
@@ -184,18 +184,18 @@ summary: ''
 
 (4) In paragraph (1), omit the following definitions—
 
-- (i)[^key-7385fdd2cc8f9496811ef4c1fd7a7f32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ii)[^key-b09949e6f1e280192fe8b3514af40ae7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-7385fdd2cc8f9496811ef4c1fd7a7f32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii)[^c-b09949e6f1e280192fe8b3514af40ae7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (iii) “care home” [^c23884381],
-- (iv)[^key-41d32ddf7ba320724a03a1e803a0e6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (iv)[^c-41d32ddf7ba320724a03a1e803a0e6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (v) “Directive [2002/98/EC](https://www.legislation.gov.uk/eudr/2002/98)”,
 - (vi) “Directive [2004/23/EC](https://www.legislation.gov.uk/eudr/2004/23)”,
-- (vii)[^key-7cb3098456ee6f0cd07d8c3d399b6a5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (viii)[^key-0f93cb54903bfbc77aaf98801cdbbe66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ix)[^key-62111b74b7210944c20543d45348a609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (x)[^key-17a287d8c17c5e777f64bbc0e18c5a3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (xi)[^key-c0926451b31ca7a9783cb225b8c867d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (xii)[^key-5340fe1c6d37cd1e0435b41674d8cd52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (vii)[^c-7cb3098456ee6f0cd07d8c3d399b6a5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (viii)[^c-0f93cb54903bfbc77aaf98801cdbbe66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ix)[^c-62111b74b7210944c20543d45348a609] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (x)[^c-17a287d8c17c5e777f64bbc0e18c5a3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (xi)[^c-c0926451b31ca7a9783cb225b8c867d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (xii)[^c-5340fe1c6d37cd1e0435b41674d8cd52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (xiii) “third country”.
 
 (5) In paragraph (5)(a) insert “ UK ” before “marketing authorisation”.
@@ -207,7 +207,7 @@ summary: ''
 
 (7) In paragraph (8) [^c23884421], for “References” substitute “ Subject to regulation C17(6), references ”.
 
-(8)[^key-35444e92e82f2ca97f1c8c8736cfbd72] After paragraph (8) insert—
+(8)[^c-35444e92e82f2ca97f1c8c8736cfbd72] After paragraph (8) insert—
 
 > (9) Unless otherwise provided, any provision of an EU Regulation made applicable to a UKMA(NI), COR(NI) or THR(NI) by virtue of Article 5(4) of, and Annex 2 to, the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement applies equally in respect of a UKMA(UK), COR(UK) or THR(UK).
 
@@ -215,7 +215,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d671bb51636553a332e92c9833201114]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d671bb51636553a332e92c9833201114]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884301]: Marginal citation: Regulation 8 was amended by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855) and 2593, 2015/1503, 2016/186, 190 and 696, 2017/715, 2018/199 and 2019/62.
 
@@ -223,13 +223,13 @@ summary: ''
 
 [^c23884321]: Marginal citation: Regulation 137 is inserted by the Medical Devices (Amendment etc.) (EU Exit) Regulations 2019.
 
-[^key-6d72a76d28d897c10a4982e8a9fb79d4]: Textual amendment: Words in reg. 10(2) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/a/i/aa)
+[^c-6d72a76d28d897c10a4982e8a9fb79d4]: Textual amendment: Words in reg. 10(2) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/a/i/aa)
 
-[^key-025b7b7fe8a737cc66014885ae8dfbed]: Textual amendment: Word in reg. 10(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/a/i/bb)
+[^c-025b7b7fe8a737cc66014885ae8dfbed]: Textual amendment: Word in reg. 10(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/a/i/bb)
 
 [^c23884331]: Marginal citation: OJ No. L 106, 17.4.2001, p. 1, as last amended by Commission Directive (EU) 2018/350.
 
-[^key-132ca5c7f840c37246d6517cf3fd5db3]: Textual amendment: Words in reg. 10(2) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/a/ii)
+[^c-132ca5c7f840c37246d6517cf3fd5db3]: Textual amendment: Words in reg. 10(2) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/a/ii)
 
 [^c23884341]: Marginal citation: Regulation 69 is inserted by the Medical Devices (Amendment etc.) (EU Exit) Regulations 2019.
 
@@ -237,42 +237,42 @@ summary: ''
 
 [^c23884361]: Marginal citation: [1977 c. 37](https://www.legislation.gov.uk/ukpga/1977/37). Section 128B was inserted by [S.I. 2007/3293](https://www.legislation.gov.uk/uksi/2007/3293) and subsection (2) was amended by [S.I.2014/2411](https://www.legislation.gov.uk/uksi/2014/2411).
 
-[^key-33199299777ea9bc51bdc7304fde64ed]: Textual amendment: Reg. 10(3)(za)(zb) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(b)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/b/i)
+[^c-33199299777ea9bc51bdc7304fde64ed]: Textual amendment: Reg. 10(3)(za)(zb) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(b)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/b/i)
 
-[^key-de540b3187366c391ff927fe0a761663]: Textual amendment: Reg. 10(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/b/ii)
+[^c-de540b3187366c391ff927fe0a761663]: Textual amendment: Reg. 10(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/b/ii)
 
-[^key-65078754dc2b18fd9e142ea01c07c0b0]: Textual amendment: Words in reg. 10(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/b/iii)
+[^c-65078754dc2b18fd9e142ea01c07c0b0]: Textual amendment: Words in reg. 10(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/b/iii)
 
 [^c23884371]: Marginal citation: The definition of “import” was inserted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).
 
-[^key-2a7939c3a0721cd40a5e5aa67012a29f]: Textual amendment: Reg. 10(3)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/b/iv)
+[^c-2a7939c3a0721cd40a5e5aa67012a29f]: Textual amendment: Reg. 10(3)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(b)(iv)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/b/iv)
 
-[^key-86d35d167b84dc9a0b1037b75f55b293]: Textual amendment: Words in reg. 10(3)(e) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(b)(v)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/b/v)
+[^c-86d35d167b84dc9a0b1037b75f55b293]: Textual amendment: Words in reg. 10(3)(e) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(b)(v)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/b/v)
 
-[^key-b2b826cf7223954c92b173845dc2bd76]: Textual amendment: Reg. 10(3)(j) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(b)(vi)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/b/vi)
+[^c-b2b826cf7223954c92b173845dc2bd76]: Textual amendment: Reg. 10(3)(j) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(b)(vi)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/b/vi)
 
-[^key-e5edc68eb0bb2ffb9821ddc581dc46ff]: Textual amendment: Reg. 10(3)(k) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(b)(vii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/b/vii)
+[^c-e5edc68eb0bb2ffb9821ddc581dc46ff]: Textual amendment: Reg. 10(3)(k) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(b)(vii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/b/vii)
 
-[^key-7385fdd2cc8f9496811ef4c1fd7a7f32]: Textual amendment: Reg. 10(4)(i) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
+[^c-7385fdd2cc8f9496811ef4c1fd7a7f32]: Textual amendment: Reg. 10(4)(i) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
 
-[^key-b09949e6f1e280192fe8b3514af40ae7]: Textual amendment: Reg. 10(4)(ii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
+[^c-b09949e6f1e280192fe8b3514af40ae7]: Textual amendment: Reg. 10(4)(ii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
 
 [^c23884381]: Marginal citation: The definition of “care home” was inserted by [S.I. 2019/62](https://www.legislation.gov.uk/uksi/2019/62).
 
-[^key-41d32ddf7ba320724a03a1e803a0e6f0]: Textual amendment: Reg. 10(4)(iv) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
+[^c-41d32ddf7ba320724a03a1e803a0e6f0]: Textual amendment: Reg. 10(4)(iv) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
 
-[^key-7cb3098456ee6f0cd07d8c3d399b6a5c]: Textual amendment: Reg. 10(4)(vii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
+[^c-7cb3098456ee6f0cd07d8c3d399b6a5c]: Textual amendment: Reg. 10(4)(vii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
 
-[^key-0f93cb54903bfbc77aaf98801cdbbe66]: Textual amendment: Reg. 10(4)(viii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
+[^c-0f93cb54903bfbc77aaf98801cdbbe66]: Textual amendment: Reg. 10(4)(viii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
 
-[^key-62111b74b7210944c20543d45348a609]: Textual amendment: Reg. 10(4)(ix) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
+[^c-62111b74b7210944c20543d45348a609]: Textual amendment: Reg. 10(4)(ix) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
 
-[^key-17a287d8c17c5e777f64bbc0e18c5a3f]: Textual amendment: Reg. 10(4)(x) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
+[^c-17a287d8c17c5e777f64bbc0e18c5a3f]: Textual amendment: Reg. 10(4)(x) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
 
-[^key-c0926451b31ca7a9783cb225b8c867d3]: Textual amendment: Reg. 10(4)(xi) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
+[^c-c0926451b31ca7a9783cb225b8c867d3]: Textual amendment: Reg. 10(4)(xi) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
 
-[^key-5340fe1c6d37cd1e0435b41674d8cd52]: Textual amendment: Reg. 10(4)(xii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
+[^c-5340fe1c6d37cd1e0435b41674d8cd52]: Textual amendment: Reg. 10(4)(xii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/c)
 
 [^c23884421]: Marginal citation: Paragraph (8) was inserted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).
 
-[^key-35444e92e82f2ca97f1c8c8736cfbd72]: Textual amendment: Reg. 10(8) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/d)
+[^c-35444e92e82f2ca97f1c8c8736cfbd72]: Textual amendment: Reg. 10(8) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 7(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/7/d)

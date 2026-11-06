@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Enabling or facilitating the conduct of armed hostilities[^key-9b22460ef89c37bd64ca8f2f889961a0]
+## 36. Enabling or facilitating the conduct of armed hostilities[^c-9b22460ef89c37bd64ca8f2f889961a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ where such provision enables or facilitates the conduct of armed hostilities in 
 
 ## Annotations
 
-[^key-9b22460ef89c37bd64ca8f2f889961a0]: Commencement: Reg. 36 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-9b22460ef89c37bd64ca8f2f889961a0]: Commencement: Reg. 36 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

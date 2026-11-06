@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43.[^key-f4b0aeaa1784e3c0f06476c844e31937]
+## 43.[^c-f4b0aeaa1784e3c0f06476c844e31937]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ In section 75(3C)(d) [^c23621021], for “another member State or a contracting 
 
 ## Annotations
 
-[^key-f4b0aeaa1784e3c0f06476c844e31937]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-f4b0aeaa1784e3c0f06476c844e31937]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23621021]: Marginal citation: Section 75 was substituted by section 34 of the [Road Traffic Act 1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40). Section 75(3C) was inserted by [S.I. 2018/24](https://www.legislation.gov.uk/uksi/2018/24).

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Outcome of misconduct proceedings[^key-92305cbea76e6f8f13718f4f2c6802ac]
+## 42. Outcome of misconduct proceedings[^c-92305cbea76e6f8f13718f4f2c6802ac]
 
 *Extent: E+W*
 
-(1)[^key-1528c5e9c9164bf9a3b3ce151fe9d6b3] Subject to the provisions of this regulation, where the person or persons conducting the misconduct proceedings find that the conduct of the officer concerned amounts to misconduct or gross misconduct, they must impose disciplinary action mentioned in paragraph (2) or (3) as appropriate.
+(1)[^c-1528c5e9c9164bf9a3b3ce151fe9d6b3] Subject to the provisions of this regulation, where the person or persons conducting the misconduct proceedings find that the conduct of the officer concerned amounts to misconduct or gross misconduct, they must impose disciplinary action mentioned in paragraph (2) or (3) as appropriate.
 
 (1A) Subject to the provisions of this regulation, where the person or persons conducting the misconduct proceedings find that the conduct of the officer concerned amounts to neither misconduct nor gross misconduct, they must—
 
@@ -34,13 +34,13 @@ summary: ''
 
 (3) The disciplinary action available at a misconduct hearing is—
 
-- (a) where the person or persons conducting[^key-20d4d67207bf1bd410248419baeb13db] the misconduct proceedings decide[^key-424bc717408993b29c541798be81ea77] the conduct of the officer concerned amounts to misconduct, in accordance with regulation 41(15)—
+- (a) where the person or persons conducting[^c-20d4d67207bf1bd410248419baeb13db] the misconduct proceedings decide[^c-424bc717408993b29c541798be81ea77] the conduct of the officer concerned amounts to misconduct, in accordance with regulation 41(15)—
   - (i) a written warning;
   - (ii) a final written warning;
   - (iii) reduction in rank, where paragraph (5) or (6) applies;
   - (iv) dismissal without notice, where paragraph (5) or (6) applies;
-- (b) where the person or persons conducting[^key-dd998d21ca01d14b1c036cc93e1027b3] the misconduct proceedings decide[^key-841ce442a22f8178d238bb7918442258] the conduct of the officer concerned amounts to gross misconduct, in accordance with regulation 41(15)—
-  - (i)[^key-d3c23adce0ccafb537a2e5e0a78977e9] dismissal without notice, or
+- (b) where the person or persons conducting[^c-dd998d21ca01d14b1c036cc93e1027b3] the misconduct proceedings decide[^c-841ce442a22f8178d238bb7918442258] the conduct of the officer concerned amounts to gross misconduct, in accordance with regulation 41(15)—
+  - (i)[^c-d3c23adce0ccafb537a2e5e0a78977e9] dismissal without notice, or
   - (ii) if the person or persons conducting the misconduct proceedings are satisfied that there are exceptional circumstances which justify it—
     - (aa) a final written warning, or
     - (bb) reduction in rank.
@@ -92,19 +92,19 @@ summary: ''
 
 ## Annotations
 
-[^key-92305cbea76e6f8f13718f4f2c6802ac]: Commencement: Reg. 42 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-92305cbea76e6f8f13718f4f2c6802ac]: Commencement: Reg. 42 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-1528c5e9c9164bf9a3b3ce151fe9d6b3]: Textual amendment: Reg. 42(1)(1A) substituted for reg. 42(1) (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/15/2) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-1528c5e9c9164bf9a3b3ce151fe9d6b3]: Textual amendment: Reg. 42(1)(1A) substituted for reg. 42(1) (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2025/558/regulation/15/2) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-20d4d67207bf1bd410248419baeb13db]: Textual amendment: Words in reg. 42(3)(a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [15(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/15/3/a/i) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-20d4d67207bf1bd410248419baeb13db]: Textual amendment: Words in reg. 42(3)(a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [15(3)(a)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/15/3/a/i) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-424bc717408993b29c541798be81ea77]: Textual amendment: Word in reg. 42(3)(a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [15(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/15/3/a/ii) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-424bc717408993b29c541798be81ea77]: Textual amendment: Word in reg. 42(3)(a) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [15(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/15/3/a/ii) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-dd998d21ca01d14b1c036cc93e1027b3]: Textual amendment: Words in reg. 42(3)(b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [15(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/15/3/b/i) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-dd998d21ca01d14b1c036cc93e1027b3]: Textual amendment: Words in reg. 42(3)(b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [15(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/558/regulation/15/3/b/i) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-841ce442a22f8178d238bb7918442258]: Textual amendment: Word in reg. 42(3)(b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [15(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/15/3/b/ii) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-841ce442a22f8178d238bb7918442258]: Textual amendment: Word in reg. 42(3)(b) substituted (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [15(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/15/3/b/ii) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
-[^key-d3c23adce0ccafb537a2e5e0a78977e9]: Textual amendment: Reg. 42(3)(b)(i)(ii) substituted for reg. 42(3)(b)(i)-(iii) (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [15(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/15/3/b/iii) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
+[^c-d3c23adce0ccafb537a2e5e0a78977e9]: Textual amendment: Reg. 42(3)(b)(i)(ii) substituted for reg. 42(3)(b)(i)-(iii) (28.5.2025) by [The Police (Conduct, Performance and Complaints and Misconduct) (Amendment) Regulations 2025 (S.I. 2025/558)](https://www.legislation.gov.uk/uksi/2025/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/558/regulation/1/1), [15(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/558/regulation/15/3/b/iii) (with [reg. 64](https://www.legislation.gov.uk/uksi/2025/558/regulation/64))
 
 [^c23960801]: Marginal citation: [Regulation 33](https://www.legislation.gov.uk/uksi/2020/4/regulation/33) was amended by [S.I. 2006/3449](https://www.legislation.gov.uk/uksi/2006/3449) and 2011/3026.
 

@@ -44,7 +44,7 @@ summary: ''
 (1B) A disqualification is relevant to a licence for which a person makes an application if—
 
 - (a) in the case of an application made by virtue of any provision of subsection (1)(a) above, the disqualification subsists under or by virtue of any provision of the Road Traffic Acts or Chapter 1 of Part 3 of the Crime (International Co-operation) Act 2003[^c19133001] and relates to vehicles of the class to which his application relates;
-- (aa)[^c13979251] in the case of an application made by virtue of subsection (1)(a)(ia) above, the disqualification subsists under or by virtue of any provision of the law of an EEA State [^key-6e52c58d440fc31f079be92ab6c968b5]... and relates to vehicles of the class, or of a class corresponding to the class, to which his application relates;
+- (aa)[^c13979251] in the case of an application made by virtue of subsection (1)(a)(ia) above, the disqualification subsists under or by virtue of any provision of the law of an EEA State [^c-6e52c58d440fc31f079be92ab6c968b5]... and relates to vehicles of the class, or of a class corresponding to the class, to which his application relates;
 - (b) in the case of an application made by virtue of subsection (1)(a)(ii) above, the disqualification subsists under or by virtue of any provision of the law of Northern Ireland and relates to vehicles of the class, or of a class corresponding to the class, to which his application relates;
 - (c) in the case of an application made by virtue of subsection (1)(a)(iii) above, the disqualification subsists under or by virtue of any provision of the relevant external law or, as the case may be, is a disqualification for holding or obtaining a British Forces licence and relates to vehicles of the class, or of a class corresponding to the class, to which his application relates; and
 - (d) in the case of an application made by virtue of subsection (1)(a)(iv) above, the disqualification subsists under or by virtue of any provision of the law of the [^c13979261]. . . country or territory under which the licence which he held was granted and relates to vehicles of the class, or of a class corresponding to the class, to which his application relates;
@@ -57,7 +57,7 @@ but a disqualification which does not prevent the person disqualified from obtai
 - (b) in a case where a licence is not in fact so granted, beyond the expiration of the period of one year or such shorter period as may be prescribed, beginning on the date of the application or (as the case may be) the revocation or surrender mentioned in subsection (1)(b) above , or[^c13979281]
 - (c) in a case where a licence is refused under section 92(3) of this Act, beyond the day on which the applicant receives notice of the refusal.
 
-(2A)[^key-8b92907524196c6762bd19dae0078757] Subsection (1) above does not apply by virtue of an application mentioned in paragraph (b) of that subsection having been received by the Secretary of State if—
+(2A)[^c-8b92907524196c6762bd19dae0078757] Subsection (1) above does not apply by virtue of an application mentioned in paragraph (b) of that subsection having been received by the Secretary of State if—
 
 - (a) the application was made as a result of, or in anticipation of, the expiry of a disqualification relevant to the licence applied for,
 - (b) either the nature of the disqualification or its imposition within a particular period after an earlier disqualification amounted to circumstances prescribed under subsection (4) of section 94 of this Act (disqualification: high risk offenders), and
@@ -72,7 +72,7 @@ but a disqualification which does not prevent the person disqualified from obtai
 - (a) he satisfies the prescribed conditions, and
 - (b) he is the holder of a permit of the prescribed description authorising him to drive vehicles under the law of a country outside the United Kingdom.
 
-(6) Regulations made by virtue of subsection (5) above may provide for the application of any enactment relating to licences [^key-d26cbbcb6ea60c72a87b2de2546ff226]... or licence holders, with or without modifications, in relation to any such permit and its holder respectively.
+(6) Regulations made by virtue of subsection (5) above may provide for the application of any enactment relating to licences [^c-d26cbbcb6ea60c72a87b2de2546ff226]... or licence holders, with or without modifications, in relation to any such permit and its holder respectively.
 
 (7) Notwithstanding section 87 of this Act—
 
@@ -109,7 +109,7 @@ but a disqualification which does not prevent the person disqualified from obtai
 
 [^c13979251]: Textual amendment: S. 88(1B)(aa) inserted (23.7.1996 for specified purposes and otherwise 1.1.1997) by [S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974), [reg. 2](https://www.legislation.gov.uk/uksi/1996/1974/regulation/2), [Sch. 1 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/1/3/a)
 
-[^key-6e52c58d440fc31f079be92ab6c968b5]: Textual amendment: Words in s. 88(1B)(aa) omitted (31.12.2020) by virtue of [The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251)](https://www.legislation.gov.uk/uksi/2018/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6e52c58d440fc31f079be92ab6c968b5]: Textual amendment: Words in s. 88(1B)(aa) omitted (31.12.2020) by virtue of [The Driving Licences (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1251)](https://www.legislation.gov.uk/uksi/2018/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/1251/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c13979261]: Textual amendment: Words in s. 88(1B)(d) omitted (23.7.1996 for specified purposes and otherwise 1.1.1997) by virtue of [S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974), [reg. 2](https://www.legislation.gov.uk/uksi/1996/1974/regulation/2), [Sch. 1 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/1/3/b)
 
@@ -117,9 +117,9 @@ but a disqualification which does not prevent the person disqualified from obtai
 
 [^c13979281]: Textual amendment: S. 88(2)(c) and word immediately preceding it inserted by [Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1989/22), [s. 3(4)](https://www.legislation.gov.uk/ukpga/1989/22/section/3/4)
 
-[^key-8b92907524196c6762bd19dae0078757]: Textual amendment: S. 88(2A) inserted (1.6.2013) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/13/1), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2006/49/section/13/2)); [S.I. 2013/1012](https://www.legislation.gov.uk/uksi/2013/1012), [art. 2](https://www.legislation.gov.uk/uksi/2013/1012/article/2)
+[^c-8b92907524196c6762bd19dae0078757]: Textual amendment: S. 88(2A) inserted (1.6.2013) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/13/1), [61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2006/49/section/13/2)); [S.I. 2013/1012](https://www.legislation.gov.uk/uksi/2013/1012), [art. 2](https://www.legislation.gov.uk/uksi/2013/1012/article/2)
 
-[^key-d26cbbcb6ea60c72a87b2de2546ff226]: Textual amendment: Words in s. 88(6) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/3), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
+[^c-d26cbbcb6ea60c72a87b2de2546ff226]: Textual amendment: Words in s. 88(6) repealed (8.6.2015) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2006/49/schedule/3/paragraph/3), [Sch. 7(4)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/4); [S.I. 2015/560](https://www.legislation.gov.uk/uksi/2015/560), [art. 3](https://www.legislation.gov.uk/uksi/2015/560/article/3) (with [arts. 4-9](https://www.legislation.gov.uk/uksi/2015/560/article/4))
 
 [^c13979311]: Marginal citation: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 

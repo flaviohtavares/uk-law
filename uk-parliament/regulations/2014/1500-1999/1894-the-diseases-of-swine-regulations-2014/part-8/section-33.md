@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Licences[^key-9f5574960a69e85bc02f23ffda233130]
+## 33. Licences[^c-9f5574960a69e85bc02f23ffda233130]
 
 *Extent: E+W+S*
 
@@ -41,11 +41,11 @@ summary: ''
 - (b) on demand by an inspector or other officer of the appropriate authority, produce the document and allow a copy or extract to be taken; and
 - (c) keep the document for at least six months.
 
-(4) If any pig or thing has been moved to premises (other than premises in England) *(Extent: E+W)*[^key-9a0a61d3f6882d0b5d31f3597d83e4a0] under a licence, an inspector may serve a notice on the occupier of the premises of destination imposing such movement restrictions on those premises as the veterinary inspector deems necessary to prevent the risk of spreading disease.
+(4) If any pig or thing has been moved to premises (other than premises in England) *(Extent: E+W)*[^c-9a0a61d3f6882d0b5d31f3597d83e4a0] under a licence, an inspector may serve a notice on the occupier of the premises of destination imposing such movement restrictions on those premises as the veterinary inspector deems necessary to prevent the risk of spreading disease.
 
 *Extent: E+W*
 
-(4A)[^key-ae9ae3c1156241ca5bd92a634d73dd1b] If any pig or thing has been moved to premises in England under a licence, an inspector may serve a notice on the occupier of the premises of destination imposing such measures on those premises as a veterinary inspector deems necessary to prevent the risk of spreading disease.
+(4A)[^c-ae9ae3c1156241ca5bd92a634d73dd1b] If any pig or thing has been moved to premises in England under a licence, an inspector may serve a notice on the occupier of the premises of destination imposing such measures on those premises as a veterinary inspector deems necessary to prevent the risk of spreading disease.
 
 (5) A person who has a licence to do anything under these Regulations must comply with any conditions of that licence.
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9f5574960a69e85bc02f23ffda233130]: Commencement: Reg. 33 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-9f5574960a69e85bc02f23ffda233130]: Commencement: Reg. 33 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
 
-[^key-9a0a61d3f6882d0b5d31f3597d83e4a0]: Textual amendment: Words in [reg. 33(4)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/33/4) inserted (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(31)(a)](https://www.legislation.gov.uk/uksi/2026/475/article/3/31/a)
+[^c-9a0a61d3f6882d0b5d31f3597d83e4a0]: Textual amendment: Words in [reg. 33(4)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/33/4) inserted (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(31)(a)](https://www.legislation.gov.uk/uksi/2026/475/article/3/31/a)
 
-[^key-ae9ae3c1156241ca5bd92a634d73dd1b]: Textual amendment: [Reg. 33(4A)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/33/4A) inserted (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(31)(b)](https://www.legislation.gov.uk/uksi/2026/475/article/3/31/b)
+[^c-ae9ae3c1156241ca5bd92a634d73dd1b]: Textual amendment: [Reg. 33(4A)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/33/4A) inserted (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(31)(b)](https://www.legislation.gov.uk/uksi/2026/475/article/3/31/b)

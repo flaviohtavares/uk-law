@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Person approaching retirement and the jobseeking period[^key-c177991df47400ea949358db9549ef0f]
+## 49. Person approaching retirement and the jobseeking period[^c-c177991df47400ea949358db9549ef0f]
 
 *Extent: N.I.*
 
@@ -46,6 +46,6 @@ then no day which falls within or follows that period shall be days on which the
 
 ## Annotations
 
-[^key-c177991df47400ea949358db9549ef0f]: Commencement: Reg. 49 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-c177991df47400ea949358db9549ef0f]: Commencement: Reg. 49 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00048]: Footnote: Section 30C was inserted by Article 5(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994

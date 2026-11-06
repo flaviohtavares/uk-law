@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 24
 
-### 1. Firearms and related goods[^key-ede2babdda573c83a83695363b418923]
+### 1. Firearms and related goods[^c-ede2babdda573c83a83695363b418923]
 
 Firearms, ammunition and related accessories, as follows—
 
@@ -30,11 +30,11 @@ Firearms, ammunition and related accessories, as follows—
 - (b) ammunition specially designed for firearms;
 - (c) weapon-sights.
 
-**2.**[^key-2b4908e4acf66904b1082eb8c6124c27] Simulators for training persons to use firearms.
+**2.**[^c-2b4908e4acf66904b1082eb8c6124c27] Simulators for training persons to use firearms.
 
-**3.**[^key-88a92c16e1731603423417cd6f59079e] Bombs and grenades.
+**3.**[^c-88a92c16e1731603423417cd6f59079e] Bombs and grenades.
 
-### 4. Vehicles[^key-0d37ace7a0c5d3a206623f8d27ccdfab]
+### 4. Vehicles[^c-0d37ace7a0c5d3a206623f8d27ccdfab]
 
 (1) Subject to sub-paragraph (3), the following types of vehicles—
 
@@ -50,7 +50,7 @@ Firearms, ammunition and related accessories, as follows—
 
 (4) For the purposes of this paragraph, “**vehicle**” includes a trailer.
 
-### 5. Explosive substances and related goods[^key-b3e7c7f6616cd3940b906cfeb870d5b8]
+### 5. Explosive substances and related goods[^c-b3e7c7f6616cd3940b906cfeb870d5b8]
 
 (1) Subject to sub-paragraph (3), equipment and devices specially designed to initiate explosions by electrical or non-electrical means, including—
 
@@ -70,9 +70,9 @@ Firearms, ammunition and related accessories, as follows—
 - (b) electric-surge arresters;
 - (c) fire sprinkler actuators.
 
-**6.**[^key-75c005668a34fb85d88075a3a2357431] Linear cutting explosive charges.
+**6.**[^c-75c005668a34fb85d88075a3a2357431] Linear cutting explosive charges.
 
-**7.**[^key-140bc3ade178a9861c5ffd328b602375] The following explosives and related substances—
+**7.**[^c-140bc3ade178a9861c5ffd328b602375] The following explosives and related substances—
 
 - (a) amatol;
 - (b) nitrocellulose (containing more than 12.5 % nitrogen);
@@ -81,7 +81,7 @@ Firearms, ammunition and related accessories, as follows—
 - (e) picryl chloride;
 - (f) 2,4,6-trinitrotoluene (TNT).
 
-### 8. Other goods[^key-a41ce80157845f41dd7e220d5a416e43]
+### 8. Other goods[^c-a41ce80157845f41dd7e220d5a416e43]
 
 (1) Subject to sub-paragraph (2), the following equipment designed for the protection of a person—
 
@@ -96,31 +96,31 @@ Firearms, ammunition and related accessories, as follows—
   - (ii) ensuring safety at work;
 - (b) any thing mentioned in sub-paragraph (1)(a) or (b) when accompanying a person for that person’s own protection.
 
-**9.**[^key-f3a3e631a8c71b2a4f0b580ab09850e9] Night vision equipment.
+**9.**[^c-f3a3e631a8c71b2a4f0b580ab09850e9] Night vision equipment.
 
-**10.**[^key-864a727f505806f87f8ee683932f2366] Thermal imaging equipment.
+**10.**[^c-864a727f505806f87f8ee683932f2366] Thermal imaging equipment.
 
-**11.**[^key-6899475cdda59c6ffd2600649ee77a27] Image intensifier tubes.
+**11.**[^c-6899475cdda59c6ffd2600649ee77a27] Image intensifier tubes.
 
-**12.**[^key-964fd1c2a2cd571d560c017df3659f53] Razor barbed wire.
+**12.**[^c-964fd1c2a2cd571d560c017df3659f53] Razor barbed wire.
 
-**13.**[^key-fd7478bffbce21cbc038328bb646f6fe] The following types of knives—
+**13.**[^c-fd7478bffbce21cbc038328bb646f6fe] The following types of knives—
 
 - (a) knives that are designed for use by military personnel (military knives);
 - (b) knives that are designed for use as a weapon for inflicting injury (combat knives);
 - (c) bayonets with blade lengths in excess of 10 cm.
 
-### 14. Production equipment[^key-b67382bccc0e70ee038119129fc33ca8]
+### 14. Production equipment[^c-b67382bccc0e70ee038119129fc33ca8]
 
 Any equipment which is specially designed or modified for the development or for one or more of the production phases of any item mentioned in this Schedule.
 
-### 15. Software and technology[^key-2dc3445273b43b1cabcf23dd32f537c9]
+### 15. Software and technology[^c-2dc3445273b43b1cabcf23dd32f537c9]
 
 Any software which is specially designed for the simulators mentioned in paragraph 2.
 
-**16.**[^key-0d46d3821a23b89adab969f824b13446] Any technology which is specially designed for the development, production or use of any item mentioned in this Schedule.
+**16.**[^c-0d46d3821a23b89adab969f824b13446] Any technology which is specially designed for the development, production or use of any item mentioned in this Schedule.
 
-### 17. Interpretation[^key-9aef6b15410f09573245427368a22be8]
+### 17. Interpretation[^c-9aef6b15410f09573245427368a22be8]
 
 (1) In this Schedule, “**firearm**” means any portable barrelled weapon that expels, is designed to expel or may be converted to expel, a shot, bullet or projectile by the action of a combustible propellant.
 
@@ -134,36 +134,36 @@ Any software which is specially designed for the simulators mentioned in paragra
 
 ## Annotations
 
-[^key-ede2babdda573c83a83695363b418923]: Commencement: Sch. 2 para. 1 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-ede2babdda573c83a83695363b418923]: Commencement: Sch. 2 para. 1 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-2b4908e4acf66904b1082eb8c6124c27]: Commencement: Sch. 2 para. 2 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-2b4908e4acf66904b1082eb8c6124c27]: Commencement: Sch. 2 para. 2 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-88a92c16e1731603423417cd6f59079e]: Commencement: Sch. 2 para. 3 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-88a92c16e1731603423417cd6f59079e]: Commencement: Sch. 2 para. 3 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-0d37ace7a0c5d3a206623f8d27ccdfab]: Commencement: Sch. 2 para. 4 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-0d37ace7a0c5d3a206623f8d27ccdfab]: Commencement: Sch. 2 para. 4 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-b3e7c7f6616cd3940b906cfeb870d5b8]: Commencement: Sch. 2 para. 5 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-b3e7c7f6616cd3940b906cfeb870d5b8]: Commencement: Sch. 2 para. 5 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-75c005668a34fb85d88075a3a2357431]: Commencement: Sch. 2 para. 6 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-75c005668a34fb85d88075a3a2357431]: Commencement: Sch. 2 para. 6 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-140bc3ade178a9861c5ffd328b602375]: Commencement: Sch. 2 para. 7 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-140bc3ade178a9861c5ffd328b602375]: Commencement: Sch. 2 para. 7 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-a41ce80157845f41dd7e220d5a416e43]: Commencement: Sch. 2 para. 8 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-a41ce80157845f41dd7e220d5a416e43]: Commencement: Sch. 2 para. 8 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-f3a3e631a8c71b2a4f0b580ab09850e9]: Commencement: Sch. 2 para. 9 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-f3a3e631a8c71b2a4f0b580ab09850e9]: Commencement: Sch. 2 para. 9 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-864a727f505806f87f8ee683932f2366]: Commencement: Sch. 2 para. 10 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-864a727f505806f87f8ee683932f2366]: Commencement: Sch. 2 para. 10 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-6899475cdda59c6ffd2600649ee77a27]: Commencement: Sch. 2 para. 11 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-6899475cdda59c6ffd2600649ee77a27]: Commencement: Sch. 2 para. 11 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-964fd1c2a2cd571d560c017df3659f53]: Commencement: Sch. 2 para. 12 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-964fd1c2a2cd571d560c017df3659f53]: Commencement: Sch. 2 para. 12 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-fd7478bffbce21cbc038328bb646f6fe]: Commencement: Sch. 2 para. 13 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-fd7478bffbce21cbc038328bb646f6fe]: Commencement: Sch. 2 para. 13 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-b67382bccc0e70ee038119129fc33ca8]: Commencement: Sch. 2 para. 14 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-b67382bccc0e70ee038119129fc33ca8]: Commencement: Sch. 2 para. 14 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-2dc3445273b43b1cabcf23dd32f537c9]: Commencement: Sch. 2 para. 15 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-2dc3445273b43b1cabcf23dd32f537c9]: Commencement: Sch. 2 para. 15 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-0d46d3821a23b89adab969f824b13446]: Commencement: Sch. 2 para. 16 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-0d46d3821a23b89adab969f824b13446]: Commencement: Sch. 2 para. 16 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-9aef6b15410f09573245427368a22be8]: Commencement: Sch. 2 para. 17 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-9aef6b15410f09573245427368a22be8]: Commencement: Sch. 2 para. 17 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

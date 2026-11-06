@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Repeal of the European Communities Act 1972[^key-2069933cabe838841b2f37838b5b342c]
+## 1. Repeal of the European Communities Act 1972[^c-2069933cabe838841b2f37838b5b342c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The European Communities Act 1972 is repealed on exit day.
 
 ## Annotations
 
-[^key-2069933cabe838841b2f37838b5b342c]: Commencement: S. 1 in force at 17.8.2019 by [S.I. 2019/1198](https://www.legislation.gov.uk/uksi/2019/1198), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1198/regulation/2)
+[^c-2069933cabe838841b2f37838b5b342c]: Commencement: S. 1 in force at 17.8.2019 by [S.I. 2019/1198](https://www.legislation.gov.uk/uksi/2019/1198), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1198/regulation/2)

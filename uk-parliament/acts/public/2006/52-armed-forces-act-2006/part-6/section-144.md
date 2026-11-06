@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Officers and warrant officers ineligible for membership in particular circumstances[^key-e80f99ff66bab16a1fdbaa5396770d0f][^key-19c2154aa544bd8e0f5c439a15d7980f]
+## 144. Officers and warrant officers ineligible for membership in particular circumstances[^c-e80f99ff66bab16a1fdbaa5396770d0f][^c-19c2154aa544bd8e0f5c439a15d7980f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e80f99ff66bab16a1fdbaa5396770d0f]: Commencement: S. 144 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-e80f99ff66bab16a1fdbaa5396770d0f]: Commencement: S. 144 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-19c2154aa544bd8e0f5c439a15d7980f]: Commencement: S. 144 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-19c2154aa544bd8e0f5c439a15d7980f]: Commencement: S. 144 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

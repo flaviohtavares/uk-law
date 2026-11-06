@@ -57,8 +57,8 @@ In these Regulations,—
 
 - “the Act" means the Welfare Reform and Pensions Act 1999;
 - “the Child Support Acts" means the Child Support Act 1991 [^c1647986] and the Child Support Act 1995 [^c1647987];
-- [^key-f349256a66efcc236c6276e894b50037]...
-- [^key-f349256a66efcc236c6276e894b50037]...
+- [^c-f349256a66efcc236c6276e894b50037]...
+- [^c-f349256a66efcc236c6276e894b50037]...
 - “relevant authority" means a person within section 72(2) of the Act.
 
 ## 3. Work-focused interview
@@ -86,10 +86,10 @@ A work-focused interview is an interview conducted for any or all of the followi
 - (c) council tax benefit;
 - (d) widow’s benefit;
 - (e) bereavement benefits;
-- (ea)[^key-07376bcb1ce70a269e08ca97d57b71a4] bereavement support payment under section 30 of the Pensions Act 2014;
+- (ea)[^c-07376bcb1ce70a269e08ca97d57b71a4] bereavement support payment under section 30 of the Pensions Act 2014;
 - (f) incapacity benefit;
 - (g) severe disablement allowance;
-- (h) carer’s allowance[^key-6f5d77ca5224c6380022b2fc19b2172d];
+- (h) carer’s allowance[^c-6f5d77ca5224c6380022b2fc19b2172d];
 - (i) a jobseeker’s allowance;
 - (j) disability living allowance.
 
@@ -108,7 +108,7 @@ A work-focused interview is an interview conducted for any or all of the followi
   - (iii) a person providing services to, or authorised to exercise any function of, the local authority;
 - (c) forward information supplied for the purpose of a work-focused interview to any person or authority conducting that interview;
 - (d) take steps to identify potential employment or training opportunities for persons taking part in work-focused interviews;
-- (e)[^key-05a654a38b977e96c38e587942fd431c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-05a654a38b977e96c38e587942fd431c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) take steps to identify—
   - (i) obstacles which may hinder a person in taking up employment or training opportunities;
   - (ii) educational opportunities which may assist in reducing or removing such obstacles; and
@@ -116,53 +116,53 @@ A work-focused interview is an interview conducted for any or all of the followi
 
 ## 5. Further provisions as to claims
 
-The following regulations shall be inserted after regulation 4 of the Social Security (Claims and Payments) Regulations 1987 *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc] [^c1647992]—
+The following regulations shall be inserted after regulation 4 of the Social Security (Claims and Payments) Regulations 1987 *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc] [^c1647992]—
 
-> **4A. Further provisions as to claims (affected by repeal, see note)[^key-2879e5ebc21d8f813153121353fe3bcc]**
+> **4A. Further provisions as to claims (affected by repeal, see note)[^c-2879e5ebc21d8f813153121353fe3bcc]**
 >
-> (1) Where a claimant resides in both— *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
+> (1) Where a claimant resides in both— *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
 >
-> - (a) the area of a local authority specified in Part I or *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc] II *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc] of Schedule 1 to the Social Security (Claims and Information) Regulations 1999 *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc] [^c1647993]; and *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
-> - (b) a postcode district identified in Part I or *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc] II *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc] of Schedule 2 to the Social Security (Claims and Information) Regulations 1999, *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
+> - (a) the area of a local authority specified in Part I or *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc] II *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc] of Schedule 1 to the Social Security (Claims and Information) Regulations 1999 *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc] [^c1647993]; and *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
+> - (b) a postcode district identified in Part I or *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc] II *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc] of Schedule 2 to the Social Security (Claims and Information) Regulations 1999, *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
 >
-> any claim for a benefit to which paragraph (2) applies may be made to any office displaying the One logo *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc] [^c1647994] (whether or not that office is situated within the area of the local authority in which the claimant resides). *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
+> any claim for a benefit to which paragraph (2) applies may be made to any office displaying the One logo *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc] [^c1647994] (whether or not that office is situated within the area of the local authority in which the claimant resides). *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
 >
-> (2) The benefits to which this paragraph applies are — *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
+> (2) The benefits to which this paragraph applies are — *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
 >
-> - (a) a jobseeker’s allowance; *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
-> - (b) income support; *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
-> - (c) incapacity benefit; *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
-> - (d) invalid care allowance; *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
-> - (e) severe disablement allowance; *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
-> - (f) widow’s benefit; *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
-> - (g) bereavement benefits; *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
-> - (h) disability living allowance. *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
+> - (a) a jobseeker’s allowance; *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
+> - (b) income support; *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
+> - (c) incapacity benefit; *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
+> - (d) invalid care allowance; *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
+> - (e) severe disablement allowance; *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
+> - (f) widow’s benefit; *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
+> - (g) bereavement benefits; *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
+> - (h) disability living allowance. *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
 >
-> (3) A claim made in accordance with paragraph (1), other than a claim for income support or a jobseeker’s allowance, shall be made in writing on a form approved by the Secretary of State for the purpose of the benefit to which the claim is made, or in such other manner, being in writing, as the person to whom the claim is made may accept as sufficient in the circumstances of the particular case. *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
+> (3) A claim made in accordance with paragraph (1), other than a claim for income support or a jobseeker’s allowance, shall be made in writing on a form approved by the Secretary of State for the purpose of the benefit to which the claim is made, or in such other manner, being in writing, as the person to whom the claim is made may accept as sufficient in the circumstances of the particular case. *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
 >
-> (4) In the case of a claim for income support or a jobseeker’s allowance, the provisions of regulation 4(1A) to (1C) *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc] [^c1647995] shall apply. *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
+> (4) In the case of a claim for income support or a jobseeker’s allowance, the provisions of regulation 4(1A) to (1C) *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc] [^c1647995] shall apply. *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
 >
-> (5) In its application to the area of any authority specified in Part I or *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc] II *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc] of Schedule 1 to the Social Security (Claims and Information) Regulations 1999, the “appropriate office" in these Regulations includes also an office of an authority or person to whom claims may be made in accordance with paragraph (1). *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
+> (5) In its application to the area of any authority specified in Part I or *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc] II *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc] of Schedule 1 to the Social Security (Claims and Information) Regulations 1999, the “appropriate office" in these Regulations includes also an office of an authority or person to whom claims may be made in accordance with paragraph (1). *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
 >
-> (6) In these Regulations, a “participating authority" means any local authority or person to whom claims may be made in accordance with paragraph (1). *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
+> (6) In these Regulations, a “participating authority" means any local authority or person to whom claims may be made in accordance with paragraph (1). *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
 >
-> **4B. Forwarding claims and information (affected by repeal, see note)[^key-2879e5ebc21d8f813153121353fe3bcc]**
+> **4B. Forwarding claims and information (affected by repeal, see note)[^c-2879e5ebc21d8f813153121353fe3bcc]**
 >
-> (1) A participating authority may — *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
+> (1) A participating authority may — *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
 >
-> - (a) record information or evidence relating to any social security matter supplied by or obtained from a person at an office displaying the One logo, whether or not the information or evidence is supplied or obtained in connection with the making of a claim for benefit; *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
-> - (b) give information or advice with respect to any social security matter to persons who are making, or have made, claims for any benefit to which regulation 4A(2) applies. *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
+> - (a) record information or evidence relating to any social security matter supplied by or obtained from a person at an office displaying the One logo, whether or not the information or evidence is supplied or obtained in connection with the making of a claim for benefit; *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
+> - (b) give information or advice with respect to any social security matter to persons who are making, or have made, claims for any benefit to which regulation 4A(2) applies. *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
 >
-> (2) A participating authority shall forward to the Secretary of State — *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
+> (2) A participating authority shall forward to the Secretary of State — *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
 >
-> - (a) any claim for benefit, other than a claim for housing benefit or council tax benefit, together with any information or evidence supplied to the authority in connection with that claim; and *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
-> - (b) any information or evidence relating to any other social security matter, except where the information or evidence relates solely to housing benefit or council tax benefit given to the authority by a person making a claim for, or who has claimed, a benefit to which regulation 4A(2) applies. *(affected by repeal, see note)*[^key-2879e5ebc21d8f813153121353fe3bcc]
+> - (a) any claim for benefit, other than a claim for housing benefit or council tax benefit, together with any information or evidence supplied to the authority in connection with that claim; and *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
+> - (b) any information or evidence relating to any other social security matter, except where the information or evidence relates solely to housing benefit or council tax benefit given to the authority by a person making a claim for, or who has claimed, a benefit to which regulation 4A(2) applies. *(affected by repeal, see note)*[^c-2879e5ebc21d8f813153121353fe3bcc]
 
 .
 
 ## 6. War Pensions and Child Support
 
-(1) Where a person resides in the area of an authority to which paragraph (3)[^key-3cda506463fb05afc4af817f3d32fe4d] refers, he may make a claim for a war pension, or submit an application under the Child Support Acts to any office of a relevant authority[^key-f56440e8bd8925f84a34bf1bb4030fdc] displaying the One logo (whether or not that office is situated within the area of the local authority in which the person resides).
+(1) Where a person resides in the area of an authority to which paragraph (3)[^c-3cda506463fb05afc4af817f3d32fe4d] refers, he may make a claim for a war pension, or submit an application under the Child Support Acts to any office of a relevant authority[^c-f56440e8bd8925f84a34bf1bb4030fdc] displaying the One logo (whether or not that office is situated within the area of the local authority in which the person resides).
 
 (2) Any change of circumstances arising since a claim or application was made in accordance with paragraph (1) may be reported to the office to which that claim or application was made.
 
@@ -190,7 +190,7 @@ as if those requirements also applied to the participating authority.
 
 ## 7. Holding information
 
-A relevant authority to whom information or evidence relating to social security matters , or information relating to employment or training,[^key-74d9e3ab1e0fcf2212c07f67a2316ead] is supplied or by whom such information or evidence is obtained, including information obtained under regulation 8(2), may —
+A relevant authority to whom information or evidence relating to social security matters , or information relating to employment or training,[^c-74d9e3ab1e0fcf2212c07f67a2316ead] is supplied or by whom such information or evidence is obtained, including information obtained under regulation 8(2), may —
 
 - (a) make a record of that information or evidence; and
 - (b) hold the information or evidence, whether as supplied or as recorded.
@@ -204,19 +204,19 @@ A relevant authority to whom information or evidence relating to social security
 
 (2) For the purpose of giving information or advice in accordance with paragraph (1), a relevant authority may obtain information held by any other relevant authority.
 
-## 9. Claims for Housing Benefit[^key-212226ca59c38e47127e1cc9fa912397]
+## 9. Claims for Housing Benefit[^c-212226ca59c38e47127e1cc9fa912397]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Consequential Amendments to the Housing Benefit Regulations[^key-212226ca59c38e47127e1cc9fa912397]
+## 10. Consequential Amendments to the Housing Benefit Regulations[^c-212226ca59c38e47127e1cc9fa912397]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Claims for Council Tax Benefit[^key-212226ca59c38e47127e1cc9fa912397]
+## 11. Claims for Council Tax Benefit[^c-212226ca59c38e47127e1cc9fa912397]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Consequential Amendments to the Council Tax Benefit Regulations[^key-212226ca59c38e47127e1cc9fa912397]
+## 12. Consequential Amendments to the Council Tax Benefit Regulations[^c-212226ca59c38e47127e1cc9fa912397]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -225,7 +225,7 @@ A relevant authority to whom information or evidence relating to social security
 (1) A relevant authority which holds social security information may —
 
 - (a) use that information —
-  - (i) in connection with arrangements [^key-eba6d20a53a96ee6d3c3978e287bd02d]... made under section 2 of the Employment and Training Act 1973 [^c1647998];
+  - (i) in connection with arrangements [^c-eba6d20a53a96ee6d3c3978e287bd02d]... made under section 2 of the Employment and Training Act 1973 [^c1647998];
   - (ii) for any purpose to which regulations 3, 4 and 6 of these Regulations, or any regulations inserted by these Regulations, apply; or
   - (iii) for purposes connected with the employment or training of the persons to whom it relates;
 - (b) supply the information —
@@ -233,24 +233,24 @@ A relevant authority to whom information or evidence relating to social security
   - (ii) in so far as relevant for the purpose for which it is being provided, to any person in respect of whom the person undertaking the work-focused interview is notified has a vacancy or is about to have a vacancy in his employment or at his place of employment;
   - (iii) to any person (an “employment zone provider") to whom payments are made by the Secretary of State in accordance with section 60(5)(c)(i) of the Act (special schemes for claimants for jobseeker’s allowance);
   - (iv) to any other relevant authority in connection with any scheme operated by, or any arrangements made by, the authority for purposes connected with employment or training;
-  - (v)[^key-f1b5343a6c57c9760cc3ec2578a1fcba] to any other relevant authority in connection with arrangements made under section 2 of the Employment and Training Act 1973, in particular for use by that authority in connection with the provision of advice, support and assistance which persons may need in order to acquire or enhance their skills and qualifications with a view to improving their prospects of finding and retaining employment.
-  - (vi)[^key-de042f86aca03d57ce2d78d046b0ac37] to the Scottish Ministers in connection with arrangements made under section 2 of the Employment and Training Act 1973 by virtue of article 2(1) of the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2020.
+  - (v)[^c-f1b5343a6c57c9760cc3ec2578a1fcba] to any other relevant authority in connection with arrangements made under section 2 of the Employment and Training Act 1973, in particular for use by that authority in connection with the provision of advice, support and assistance which persons may need in order to acquire or enhance their skills and qualifications with a view to improving their prospects of finding and retaining employment.
+  - (vi)[^c-de042f86aca03d57ce2d78d046b0ac37] to the Scottish Ministers in connection with arrangements made under section 2 of the Employment and Training Act 1973 by virtue of article 2(1) of the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2020.
 
-(1A)[^key-809b2a073b815cd4c99edf41d3b56b30] A relevant authority which holds employment or training information about a person (“P”) may supply that information to another relevant authority for use by that second authority in connection with the provision to P (pursuant to arrangements made by the Secretary of State) of advice, support and assistance which P may need in order to acquire or enhance P’s skills and qualifications with a view to improving P’s prospects of finding and retaining employment.
+(1A)[^c-809b2a073b815cd4c99edf41d3b56b30] A relevant authority which holds employment or training information about a person (“P”) may supply that information to another relevant authority for use by that second authority in connection with the provision to P (pursuant to arrangements made by the Secretary of State) of advice, support and assistance which P may need in order to acquire or enhance P’s skills and qualifications with a view to improving P’s prospects of finding and retaining employment.
 
 (2) An employment zone provider may supply to any other relevant authority information relating to any person participating in a scheme for which he receives a payment under section 60(5)(c)(i) of the Act where the information may be relevant to the person’s benefit entitlement.
 
 (3) Where the work-focused interview is undertaken by a relevant authority other than the authority which obtained the information, then the authority supplying the information shall, for the purposes of that interview, supply any other social security information held by them.
 
-(4) A relevant authority which holds social security information , or information relating to employment or training,[^key-708bc46a52c627d9d10d9d0f38441c13] may supply that information to any other relevant authority for the purposes of research, monitoring or evaluation in so far as it relates to any of the purposes[^key-9a21db11e20a64baf9a4cb04be309572] specified in paragraph (5).
+(4) A relevant authority which holds social security information , or information relating to employment or training,[^c-708bc46a52c627d9d10d9d0f38441c13] may supply that information to any other relevant authority for the purposes of research, monitoring or evaluation in so far as it relates to any of the purposes[^c-9a21db11e20a64baf9a4cb04be309572] specified in paragraph (5).
 
-(5) The purposes [^key-ea2fb53c58cfa50cc6bfeae2679b61af]... are —
+(5) The purposes [^c-ea2fb53c58cfa50cc6bfeae2679b61af]... are —
 
 - (a) work-focused interviews;
 - (b) any purpose for which regulations 3, 4 and 6 of these Regulations, or any regulations inserted by these Regulations, applies;
-- (c) any scheme or arrangements made by the Secretary of State connected with employment or training; [^key-c36c1674959bc8642eb4f910a2c8f72b]...
+- (c) any scheme or arrangements made by the Secretary of State connected with employment or training; [^c-c36c1674959bc8642eb4f910a2c8f72b]...
 - (d) section 60 of the Act.
-- (e)[^key-3e633b90698a424f686123009b80df40] any arrangements made by the Secretary of State of the nature referred to in paragraph (1)(b)(v) or (1A); and
+- (e)[^c-3e633b90698a424f686123009b80df40] any arrangements made by the Secretary of State of the nature referred to in paragraph (1)(b)(v) or (1A); and
 - (f) monitoring the retention of employment.
 
 ## 14. Purposes for which information may be used
@@ -262,7 +262,7 @@ A relevant authority to whom information or evidence relating to social security
 - (c) the consideration of the training needs of the person who supplied the information;
 - (d) any purpose for which a work-focused interview may be conducted [^c1647999];
 - (e) the prevention, detection, investigation or prosecution of offences relating to social security matters.
-- (f)[^key-e30e8ce05213e0f71f27c19221cd37bc] assessing the employment or training needs of the person to whom the information relates;
+- (f)[^c-e30e8ce05213e0f71f27c19221cd37bc] assessing the employment or training needs of the person to whom the information relates;
 - (g) evaluating the effectiveness of training, advice, support and assistance provided;
 - (h) monitoring the retention of employment.
 
@@ -295,24 +295,24 @@ Information supplied to a person or authority under these Regulations —
 
 ## 17. Partners of claimants
 
-(1) The social security information specified in paragraph (4) may be supplied by a relevant authority to the partner of a claimant for a qualifying benefit where one or more of the qualifying benefits has been payable to the claimant for at least six months[^key-bdc38c21540402ecbdb58839103a8101].
+(1) The social security information specified in paragraph (4) may be supplied by a relevant authority to the partner of a claimant for a qualifying benefit where one or more of the qualifying benefits has been payable to the claimant for at least six months[^c-bdc38c21540402ecbdb58839103a8101].
 
 (2) The qualifying benefits are—
 
 - (a) a jobseeker’s allowance;
 - (b) income support;
 - (c) incapacity benefit;
-- (d) severe disablement allowance ;[^key-949a45a47c5878901ea0c805a505298a]
-- (e) carer’s allowance[^key-0778adaa0fdf6939a969362d34487288].
+- (d) severe disablement allowance ;[^c-949a45a47c5878901ea0c805a505298a]
+- (e) carer’s allowance[^c-0778adaa0fdf6939a969362d34487288].
 
-(3)[^key-769e78abdda5e60251db1cf799287ac5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-769e78abdda5e60251db1cf799287ac5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The information which may be supplied is—
 
 - (a) that a qualifying benefit is or has been payable to the claimant;
 - (b) the period for which the qualifying benefit has been payable.
 
-(5) In this regulation, “partner”[^key-0950d9a0089473cae974443733863bca] means one member of a couple[^key-ba2506edc0a86455d0323331b5d64c00] of which the claimant is also a member , and “[^key-ddeb8032d86aa0abe235197a138c58cf]**couple**” has the same meaning as in regulation 1(3) of the Jobseeker's Allowance Regulations 1996.
+(5) In this regulation, “partner”[^c-0950d9a0089473cae974443733863bca] means one member of a couple[^c-ba2506edc0a86455d0323331b5d64c00] of which the claimant is also a member , and “[^c-ddeb8032d86aa0abe235197a138c58cf]**couple**” has the same meaning as in regulation 1(3) of the Jobseeker's Allowance Regulations 1996.
 
 ## 18. Consequentials
 
@@ -586,30 +586,30 @@ Regulation 18
 
 .
 
-**2.** (1)[^key-ac4a262a7fac0f0491a6d0f39a3dcf20] The Social Security (Claims and Payments) Regulations 1987 *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20] [^c1648003] shall be amended in accordance with the following provisions of this paragraph. *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20]
+**2.** (1)[^c-ac4a262a7fac0f0491a6d0f39a3dcf20] The Social Security (Claims and Payments) Regulations 1987 *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20] [^c1648003] shall be amended in accordance with the following provisions of this paragraph. *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20]
 
-(2) In regulation 2(1) (interpretation) after the entry relating to “refugee" there shall be inserted the following entry — *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20]
+(2) In regulation 2(1) (interpretation) after the entry relating to “refugee" there shall be inserted the following entry — *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20]
 
-> “relevant authority" means a person within section 72(2) of the Welfare Reform and Pensions Act 1999 *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20] [^c1648004];
+> “relevant authority" means a person within section 72(2) of the Welfare Reform and Pensions Act 1999 *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20] [^c1648004];
 
 .
 
-(3) In each of the provisions specified in sub-paragraph (4) below, for the words “Secretary of State" there shall be substituted the words *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20] “ employment officer ” *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20].
+(3) In each of the provisions specified in sub-paragraph (4) below, for the words “Secretary of State" there shall be substituted the words *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20] “ employment officer ” *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20].
 
-(4) Those provisions are — *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20]
+(4) Those provisions are — *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20]
 
-- (a) regulation 4(6) *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20] [^c1648005] (making a claim for benefit); and *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20]
-- (b) regulation 6(4A) *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20] [^c1648006] (date of claim). *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20]
+- (a) regulation 4(6) *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20] [^c1648005] (making a claim for benefit); and *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20]
+- (b) regulation 6(4A) *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20] [^c1648006] (date of claim). *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20]
 
-(5) In regulation 7(1), after the words “Secretary of State" in the first place where they occur, there shall be inserted the words *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20] “ or, in a case where regulation 4A applies, the relevant authority ” *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20].
+(5) In regulation 7(1), after the words “Secretary of State" in the first place where they occur, there shall be inserted the words *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20] “ or, in a case where regulation 4A applies, the relevant authority ” *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20].
 
-(6) In regulation 19(5)(d) (time for claiming benefit) *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20] [^c1648007], after the word “Employment" there shall be inserted the words *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20] “ or in a case to which regulation 4A applies, a representative of a relevant authority ” *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20].
+(6) In regulation 19(5)(d) (time for claiming benefit) *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20] [^c1648007], after the word “Employment" there shall be inserted the words *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20] “ or in a case to which regulation 4A applies, a representative of a relevant authority ” *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20].
 
-(7) In paragraph 2A(2)(b) of Schedule 7 *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20] [^c1648008] after the words “associated office" there shall be inserted the words *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20] “ or any office to which a claim may be made in accordance with regulation 4A(1) ” *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20].
+(7) In paragraph 2A(2)(b) of Schedule 7 *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20] [^c1648008] after the words “associated office" there shall be inserted the words *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20] “ or any office to which a claim may be made in accordance with regulation 4A(1) ” *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20].
 
-(8) In regulation 32 (information to be given when obtaining benefit), after paragraph (1), there shall be inserted the following paragraph — *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20]
+(8) In regulation 32 (information to be given when obtaining benefit), after paragraph (1), there shall be inserted the following paragraph — *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20]
 
-> (1A) In the case of a person who made a claim for benefit in accordance with regulation 4A(1), a change of circumstances may be notified to a relevant authority at any office to which the claim for benefit could be made in accordance with that provision. *(affected by repeal, see note)*[^key-ac4a262a7fac0f0491a6d0f39a3dcf20]
+> (1A) In the case of a person who made a claim for benefit in accordance with regulation 4A(1), a change of circumstances may be notified to a relevant authority at any office to which the claim for benefit could be made in accordance with that provision. *(affected by repeal, see note)*[^c-ac4a262a7fac0f0491a6d0f39a3dcf20]
 
 .
 
@@ -653,19 +653,19 @@ These Regulations do not impose a charge on business.
 
 [^c1647987]: Marginal citation: [1995 c.34](https://www.legislation.gov.uk/ukpga/1995/34).
 
-[^key-f349256a66efcc236c6276e894b50037]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/3108/regulation/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-f349256a66efcc236c6276e894b50037]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1999/3108/regulation/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1647990]: Marginal citation: Section 2A was inserted by section 57 of the Welfare Reform and Pensions Act 1999.
 
-[^key-07376bcb1ce70a269e08ca97d57b71a4]: Textual amendment: [Reg. 4(4)(ea)](https://www.legislation.gov.uk/uksi/1999/3108/regulation/4/4/ea) inserted (coming into force in accordance with art. 1-3 of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [16](https://www.legislation.gov.uk/uksi/2017/422/article/16)
+[^c-07376bcb1ce70a269e08ca97d57b71a4]: Textual amendment: [Reg. 4(4)(ea)](https://www.legislation.gov.uk/uksi/1999/3108/regulation/4/4/ea) inserted (coming into force in accordance with art. 1-3 of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [16](https://www.legislation.gov.uk/uksi/2017/422/article/16)
 
-[^key-6f5d77ca5224c6380022b2fc19b2172d]: Textual amendment: Words in reg. 4(4)(h) substituted (1.4.2003) by [The Social Security Amendment (Carer's Allowance) Regulations 2002 (S.I. 2002/2497)](https://www.legislation.gov.uk/uksi/2002/2497), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/2497/regulation/1/b), [Sch. 2 paras. 1](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/2)
+[^c-6f5d77ca5224c6380022b2fc19b2172d]: Textual amendment: Words in reg. 4(4)(h) substituted (1.4.2003) by [The Social Security Amendment (Carer's Allowance) Regulations 2002 (S.I. 2002/2497)](https://www.legislation.gov.uk/uksi/2002/2497), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/2497/regulation/1/b), [Sch. 2 paras. 1](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/2)
 
 [^c1647991]: Marginal citation: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18).
 
-[^key-05a654a38b977e96c38e587942fd431c]: Textual amendment: Reg. 4(6)(e) omitted (14.8.2000) by virtue of [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2), 10](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/4/a)
+[^c-05a654a38b977e96c38e587942fd431c]: Textual amendment: Reg. 4(6)(e) omitted (14.8.2000) by virtue of [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2), 10](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/4/a)
 
-[^key-2879e5ebc21d8f813153121353fe3bcc]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1999/3108/regulation/5) repealed (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-2879e5ebc21d8f813153121353fe3bcc]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/1999/3108/regulation/5) repealed (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1647992]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
@@ -675,59 +675,59 @@ These Regulations do not impose a charge on business.
 
 [^c1647995]: Marginal citation: Paragraphs (1A) to (1C) were inserted by [S.I. 1997/793](https://www.legislation.gov.uk/uksi/1997/793).
 
-[^key-3cda506463fb05afc4af817f3d32fe4d]: Textual amendment: Words in reg. 6(1) substituted (3.4.2000) by [The Social Security (Work-focused Interviews) Regulations 2000 (S.I. 2000/897)](https://www.legislation.gov.uk/uksi/2000/897), [regs. 1](https://www.legislation.gov.uk/uksi/2000/897/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2000/897/regulation/17/2) (with [reg. 2(5)](https://www.legislation.gov.uk/uksi/2000/897/regulation/2/5))
+[^c-3cda506463fb05afc4af817f3d32fe4d]: Textual amendment: Words in reg. 6(1) substituted (3.4.2000) by [The Social Security (Work-focused Interviews) Regulations 2000 (S.I. 2000/897)](https://www.legislation.gov.uk/uksi/2000/897), [regs. 1](https://www.legislation.gov.uk/uksi/2000/897/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2000/897/regulation/17/2) (with [reg. 2(5)](https://www.legislation.gov.uk/uksi/2000/897/regulation/2/5))
 
-[^key-f56440e8bd8925f84a34bf1bb4030fdc]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/1999/3108/regulation/6/1) inserted (14.8.2000) by [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2), 10](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/4/b)
+[^c-f56440e8bd8925f84a34bf1bb4030fdc]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/1999/3108/regulation/6/1) inserted (14.8.2000) by [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2), 10](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/4/b)
 
-[^key-74d9e3ab1e0fcf2212c07f67a2316ead]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1999/3108/regulation/7) inserted (6.4.2010) by [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/2)
+[^c-74d9e3ab1e0fcf2212c07f67a2316ead]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/1999/3108/regulation/7) inserted (6.4.2010) by [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/2)
 
-[^key-212226ca59c38e47127e1cc9fa912397]: Textual amendment: [Regs. 9-12](https://www.legislation.gov.uk/uksi/1999/3108/regulation/9) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-212226ca59c38e47127e1cc9fa912397]: Textual amendment: [Regs. 9-12](https://www.legislation.gov.uk/uksi/1999/3108/regulation/9) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-eba6d20a53a96ee6d3c3978e287bd02d]: Textual amendment: Words in reg. 13(1)(a)(i) omitted (6.4.2010) by virtue of [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/a)
+[^c-eba6d20a53a96ee6d3c3978e287bd02d]: Textual amendment: Words in reg. 13(1)(a)(i) omitted (6.4.2010) by virtue of [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/a)
 
 [^c1647998]: Marginal citation: [1973 c.50](https://www.legislation.gov.uk/ukpga/1973/50); section 2 was substituted by section 25(1) of the [Employment Act 1988 (c.19)](https://www.legislation.gov.uk/ukpga/1988/19).
 
-[^key-f1b5343a6c57c9760cc3ec2578a1fcba]: Textual amendment: Reg. 13(1)(b)(v) substituted (6.4.2010) by [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/b)
+[^c-f1b5343a6c57c9760cc3ec2578a1fcba]: Textual amendment: Reg. 13(1)(b)(v) substituted (6.4.2010) by [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/b)
 
-[^key-de042f86aca03d57ce2d78d046b0ac37]: Textual amendment: Reg. 13(1)(b)(vi) inserted (12.3.2020) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2020 (S.I. 2020/276)](https://www.legislation.gov.uk/uksi/2020/276), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/276/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/276/article/4/2)
+[^c-de042f86aca03d57ce2d78d046b0ac37]: Textual amendment: Reg. 13(1)(b)(vi) inserted (12.3.2020) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2020 (S.I. 2020/276)](https://www.legislation.gov.uk/uksi/2020/276), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/276/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/276/article/4/2)
 
-[^key-809b2a073b815cd4c99edf41d3b56b30]: Textual amendment: Reg. 13(1A) inserted (6.4.2010) by [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/c)
+[^c-809b2a073b815cd4c99edf41d3b56b30]: Textual amendment: Reg. 13(1A) inserted (6.4.2010) by [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/c)
 
-[^key-708bc46a52c627d9d10d9d0f38441c13]: Textual amendment: Words in reg. 13(4) inserted (6.4.2010) by [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(d)(i)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/d/i)
+[^c-708bc46a52c627d9d10d9d0f38441c13]: Textual amendment: Words in reg. 13(4) inserted (6.4.2010) by [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(d)(i)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/d/i)
 
-[^key-9a21db11e20a64baf9a4cb04be309572]: Textual amendment: Words in reg. 13(4) substituted (6.4.2010) by [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/d/ii)
+[^c-9a21db11e20a64baf9a4cb04be309572]: Textual amendment: Words in reg. 13(4) substituted (6.4.2010) by [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/d/ii)
 
-[^key-ea2fb53c58cfa50cc6bfeae2679b61af]: Textual amendment: Words in reg. 13(5) omitted (6.4.2010) by virtue of [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/e)
+[^c-ea2fb53c58cfa50cc6bfeae2679b61af]: Textual amendment: Words in reg. 13(5) omitted (6.4.2010) by virtue of [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/e)
 
-[^key-c36c1674959bc8642eb4f910a2c8f72b]: Textual amendment: Word in reg. 13(5)(c) omitted (6.4.2010) by virtue of [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(f)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/f)
+[^c-c36c1674959bc8642eb4f910a2c8f72b]: Textual amendment: Word in reg. 13(5)(c) omitted (6.4.2010) by virtue of [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(f)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/f)
 
-[^key-3e633b90698a424f686123009b80df40]: Textual amendment: Reg. 13(5)(e)(f) added (6.4.2010) by [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(g)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/g)
+[^c-3e633b90698a424f686123009b80df40]: Textual amendment: Reg. 13(5)(e)(f) added (6.4.2010) by [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(3)(g)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/3/g)
 
 [^c1647999]: Marginal citation: *See:* Regulation 3 of these Regulations.
 
-[^key-e30e8ce05213e0f71f27c19221cd37bc]: Textual amendment: [Reg. 14(1)(f)](https://www.legislation.gov.uk/uksi/1999/3108/regulation/14/1/f)[(g)](https://www.legislation.gov.uk/uksi/1999/3108/regulation/14/1/g)[(h)](https://www.legislation.gov.uk/uksi/1999/3108/regulation/14/1/h) inserted (6.4.2010) by [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/4)
+[^c-e30e8ce05213e0f71f27c19221cd37bc]: Textual amendment: [Reg. 14(1)(f)](https://www.legislation.gov.uk/uksi/1999/3108/regulation/14/1/f)[(g)](https://www.legislation.gov.uk/uksi/1999/3108/regulation/14/1/g)[(h)](https://www.legislation.gov.uk/uksi/1999/3108/regulation/14/1/h) inserted (6.4.2010) by [The Social Security (Claims and Information) (Amendment) Regulations 2010 (S.I. 2010/508)](https://www.legislation.gov.uk/uksi/2010/508), [regs. 1](https://www.legislation.gov.uk/uksi/2010/508/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2010/508/regulation/2/4)
 
 [^c1648000]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
-[^key-bdc38c21540402ecbdb58839103a8101]: Textual amendment: Words in reg. 17(1) substituted (23.4.2001) by [The Social Security (Claims and Information and Work-focused Interviews for Lone Parents) Amendment Regulations 2001 (S.I. 2001/1189)](https://www.legislation.gov.uk/uksi/2001/1189), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1189/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2001/1189/regulation/2/a)
+[^c-bdc38c21540402ecbdb58839103a8101]: Textual amendment: Words in reg. 17(1) substituted (23.4.2001) by [The Social Security (Claims and Information and Work-focused Interviews for Lone Parents) Amendment Regulations 2001 (S.I. 2001/1189)](https://www.legislation.gov.uk/uksi/2001/1189), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1189/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2001/1189/regulation/2/a)
 
-[^key-949a45a47c5878901ea0c805a505298a]: Textual amendment: Reg. 17(2)(e) inserted (23.4.2001) by [The Social Security (Claims and Information and Work-focused Interviews for Lone Parents) Amendment Regulations 2001 (S.I. 2001/1189)](https://www.legislation.gov.uk/uksi/2001/1189), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1189/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2001/1189/regulation/2/b)
+[^c-949a45a47c5878901ea0c805a505298a]: Textual amendment: Reg. 17(2)(e) inserted (23.4.2001) by [The Social Security (Claims and Information and Work-focused Interviews for Lone Parents) Amendment Regulations 2001 (S.I. 2001/1189)](https://www.legislation.gov.uk/uksi/2001/1189), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1189/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2001/1189/regulation/2/b)
 
-[^key-0778adaa0fdf6939a969362d34487288]: Textual amendment: Words in reg. 17(2)(e) substituted (1.4.2003) by [The Social Security Amendment (Carer's Allowance) Regulations 2002 (S.I. 2002/2497)](https://www.legislation.gov.uk/uksi/2002/2497), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/2497/regulation/1/b), [Sch. 2 paras. 1](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/2)
+[^c-0778adaa0fdf6939a969362d34487288]: Textual amendment: Words in reg. 17(2)(e) substituted (1.4.2003) by [The Social Security Amendment (Carer's Allowance) Regulations 2002 (S.I. 2002/2497)](https://www.legislation.gov.uk/uksi/2002/2497), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2002/2497/regulation/1/b), [Sch. 2 paras. 1](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2002/2497/schedule/2/paragraph/2)
 
-[^key-769e78abdda5e60251db1cf799287ac5]: Textual amendment: Reg. 17(3) omitted (23.4.2001) by virtue of [The Social Security (Claims and Information and Work-focused Interviews for Lone Parents) Amendment Regulations 2001 (S.I. 2001/1189)](https://www.legislation.gov.uk/uksi/2001/1189), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1189/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2001/1189/regulation/2/c)
+[^c-769e78abdda5e60251db1cf799287ac5]: Textual amendment: Reg. 17(3) omitted (23.4.2001) by virtue of [The Social Security (Claims and Information and Work-focused Interviews for Lone Parents) Amendment Regulations 2001 (S.I. 2001/1189)](https://www.legislation.gov.uk/uksi/2001/1189), [regs. 1](https://www.legislation.gov.uk/uksi/2001/1189/regulation/1), [2(c)](https://www.legislation.gov.uk/uksi/2001/1189/regulation/2/c)
 
-[^key-0950d9a0089473cae974443733863bca]: Textual amendment: Word in reg. 17(5) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 31(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/31/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-0950d9a0089473cae974443733863bca]: Textual amendment: Word in reg. 17(5) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 31(a)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/31/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
-[^key-ba2506edc0a86455d0323331b5d64c00]: Textual amendment: Words in reg. 17(5) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 31(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/31/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-ba2506edc0a86455d0323331b5d64c00]: Textual amendment: Words in reg. 17(5) substituted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 31(b)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/31/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
-[^key-ddeb8032d86aa0abe235197a138c58cf]: Textual amendment: Words in reg. 17(5) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 31(c)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/31/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
+[^c-ddeb8032d86aa0abe235197a138c58cf]: Textual amendment: Words in reg. 17(5) inserted (5.12.2005) by [The Civil Partnership (Pensions, Social Security and Child Support) (Consequential, etc. Provisions) Order 2005 (S.I. 2005/2877)](https://www.legislation.gov.uk/uksi/2005/2877), [art. 1](https://www.legislation.gov.uk/uksi/2005/2877/article/1), [Sch. 3 para. 31(c)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/31/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2877/article/3))
 
 [^c1648001]: Marginal citation: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
 [^c1648002]: Marginal citation: [Section 8(3)](https://www.legislation.gov.uk/uksi/1999/3108/section/8/3) was added by the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), [Schedule 8](https://www.legislation.gov.uk/ukpga/1999/30/schedule/8), [paragraph 29(3)](https://www.legislation.gov.uk/ukpga/1999/30/paragraph/29/3).
 
-[^key-ac4a262a7fac0f0491a6d0f39a3dcf20]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1999/3108/schedule/3/paragraph/2) repealed (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-ac4a262a7fac0f0491a6d0f39a3dcf20]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1999/3108/schedule/3/paragraph/2) repealed (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^c1648003]: Marginal citation: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 

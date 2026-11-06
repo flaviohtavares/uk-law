@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. North Atlantic Treaty procedure[^key-7d6ba9f3eddf51d003b3d7d345c3808c]
+## 5. North Atlantic Treaty procedure[^c-7d6ba9f3eddf51d003b3d7d345c3808c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 4 has effect and makes provision for use of NATO form 302 in the case o
 
 ## Annotations
 
-[^key-7d6ba9f3eddf51d003b3d7d345c3808c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1258/regulation/5) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-7d6ba9f3eddf51d003b3d7d345c3808c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1258/regulation/5) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23714621]: Marginal citation: Available at https://www.nato.int/cps/en/natohq/official\_texts\_17265.htm? A hard copy may be inspected free of charge by arrangement with HM Revenue and Customs at 100 Parliament Street, London, SW1A 2BQ.

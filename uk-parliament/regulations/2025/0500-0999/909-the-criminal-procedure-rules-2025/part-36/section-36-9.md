@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.9. Duty of person transcribing proceedings in the Crown Court[^key-b311acac257923bc9aec773a7a901a4b]
+## 36.9. Duty of person transcribing proceedings in the Crown Court[^c-b311acac257923bc9aec773a7a901a4b]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ A person who transcribes a recording of proceedings in the Crown Court under arr
 
 ## Annotations
 
-[^key-b311acac257923bc9aec773a7a901a4b]: Commencement: [Rule 36.9](https://www.legislation.gov.uk/uksi/2025/909/rule/36.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b311acac257923bc9aec773a7a901a4b]: Commencement: [Rule 36.9](https://www.legislation.gov.uk/uksi/2025/909/rule/36.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00920]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).

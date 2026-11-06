@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Circumstances in which a person is to be treated as responsible or not responsible for another[^key-9e0c5b766c0fa7bac894a54a659b0363]
+## 9. Circumstances in which a person is to be treated as responsible or not responsible for another[^c-9e0c5b766c0fa7bac894a54a659b0363]
 
 *Extent: N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e0c5b766c0fa7bac894a54a659b0363]: Commencement: Reg. 9 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-9e0c5b766c0fa7bac894a54a659b0363]: Commencement: Reg. 9 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
 
 [^f00043]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)

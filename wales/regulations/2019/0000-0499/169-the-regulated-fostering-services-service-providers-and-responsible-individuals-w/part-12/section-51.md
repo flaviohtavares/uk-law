@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Fitness requirements for appointment of manager[^key-ce13cb60eb42b530e28dff6be2e786a5]
+## 51. Fitness requirements for appointment of manager[^c-ce13cb60eb42b530e28dff6be2e786a5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce13cb60eb42b530e28dff6be2e786a5]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2019/169/regulation/51) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-ce13cb60eb42b530e28dff6be2e786a5]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2019/169/regulation/51) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

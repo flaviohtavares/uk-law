@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Modification and review of authorisations and registrations[^key-c3dd9ee1f6850a7ef9cf2494475f8e8b]
+## 20. Modification and review of authorisations and registrations[^c-c3dd9ee1f6850a7ef9cf2494475f8e8b]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3dd9ee1f6850a7ef9cf2494475f8e8b]: Commencement: Reg. 20 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-c3dd9ee1f6850a7ef9cf2494475f8e8b]: Commencement: Reg. 20 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

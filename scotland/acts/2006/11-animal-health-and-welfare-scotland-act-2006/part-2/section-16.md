@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Animals to which this Part applies[^key-60ba59716a85ff0b8e054df9a9bee645]
+## 16. Animals to which this Part applies[^c-60ba59716a85ff0b8e054df9a9bee645]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ as they consider appropriate.
 
 ## Annotations
 
-[^key-60ba59716a85ff0b8e054df9a9bee645]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2006/11/section/16) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-60ba59716a85ff0b8e054df9a9bee645]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2006/11/section/16) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 376. Interpretation of the 1983 Regulations: “contract of insurance” and “deposit”[^key-3105ec43efd89cd8aa87b14272ae132c]
+## 376. Interpretation of the 1983 Regulations: “contract of insurance” and “deposit”[^c-3105ec43efd89cd8aa87b14272ae132c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3105ec43efd89cd8aa87b14272ae132c]: Commencement: Art. 376 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-3105ec43efd89cd8aa87b14272ae132c]: Commencement: Art. 376 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

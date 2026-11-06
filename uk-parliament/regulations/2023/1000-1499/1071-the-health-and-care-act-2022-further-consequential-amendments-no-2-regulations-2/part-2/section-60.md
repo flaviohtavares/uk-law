@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Amendment of the National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013[^key-67311355ba2efde923260dddad6170de]
+## 60. Amendment of the National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013[^c-67311355ba2efde923260dddad6170de]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-67311355ba2efde923260dddad6170de]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2023/1071/regulation/60) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-67311355ba2efde923260dddad6170de]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2023/1071/regulation/60) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00049]: Footnote: [S.I. 2013/261](https://www.legislation.gov.uk/uksi/2013/261), to which there are amendments not relevant to these Regulations.

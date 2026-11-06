@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Recovery of payments[^key-483e39a358b052ed2e8b5c08d60585ad]
+## 99. Recovery of payments[^c-483e39a358b052ed2e8b5c08d60585ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The scheme manager may recover a lump sum death benefit paid to any person if th
 
 ## Annotations
 
-[^key-483e39a358b052ed2e8b5c08d60585ad]: Commencement: Reg. 99 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-483e39a358b052ed2e8b5c08d60585ad]: Commencement: Reg. 99 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 127A. Amendment of Bankruptcy (Scotland) Act 2016[^key-fdf97cbabc1aadc1780c6199cb883dac]
+## 127A. Amendment of Bankruptcy (Scotland) Act 2016[^c-fdf97cbabc1aadc1780c6199cb883dac]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdf97cbabc1aadc1780c6199cb883dac]: Textual amendment: [S. 127A](https://www.legislation.gov.uk/asp/2007/3/section/127A) inserted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 24(2)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/24/2) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-fdf97cbabc1aadc1780c6199cb883dac]: Textual amendment: [S. 127A](https://www.legislation.gov.uk/asp/2007/3/section/127A) inserted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 24(2)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/24/2) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

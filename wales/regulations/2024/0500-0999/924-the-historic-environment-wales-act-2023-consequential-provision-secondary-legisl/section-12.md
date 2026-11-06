@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**12.**[^key-e7aedd036aa50f4e6fbc7891c98031fe] In article 1(3), omit “and Wales”.
+**12.**[^c-e7aedd036aa50f4e6fbc7891c98031fe] In article 1(3), omit “and Wales”.
 
 ## Annotations
 
-[^key-e7aedd036aa50f4e6fbc7891c98031fe]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2024/924/regulation/12) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-e7aedd036aa50f4e6fbc7891c98031fe]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2024/924/regulation/12) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

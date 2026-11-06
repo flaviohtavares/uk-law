@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Management structure[^key-7e2c0aaed9a010636bebb0313e785ee9]
+## 10. Management structure[^c-7e2c0aaed9a010636bebb0313e785ee9]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e2c0aaed9a010636bebb0313e785ee9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/3248/regulation/10) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-7e2c0aaed9a010636bebb0313e785ee9]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/3248/regulation/10) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

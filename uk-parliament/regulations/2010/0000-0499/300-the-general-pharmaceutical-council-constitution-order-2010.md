@@ -59,7 +59,7 @@ Their Lordships make the following Order of Council in exercise of the powers co
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and interpretation[^key-5bcfba8bbcd3d0d8b53212744c3cebf8]
+### 1. Citation, commencement and interpretation[^c-5bcfba8bbcd3d0d8b53212744c3cebf8]
 
 (1) This Order may be cited as the General Pharmaceutical Council (Constitution) Order 2010 and comes into force on 12th March 2010.
 
@@ -78,24 +78,24 @@ Their Lordships make the following Order of Council in exercise of the powers co
 
 ## PART 2 — Membership of the Council
 
-### 2. Composition of the Council[^key-7f6078e9ec655c82f996de43923427d1]
+### 2. Composition of the Council[^c-7f6078e9ec655c82f996de43923427d1]
 
 The Council is to consist of 7 registrant members and 7 lay members.
 
-### 3. Terms of office of members[^key-9e2f3e4d4215fcbc9b6f319c5ebb9d46]
+### 3. Terms of office of members[^c-9e2f3e4d4215fcbc9b6f319c5ebb9d46]
 
 (1) The duration of the term of office of each member of the Council is to be determined by the Privy Council, on appointment.
 
 (2) No member of the Council may hold office as a member of the Council for more than an aggregate of 8 years during any period of 20 years.
 
-### 4. Education and training of members[^key-f565a8d43ab229c95bcb0c423d662ec9]
+### 4. Education and training of members[^c-f565a8d43ab229c95bcb0c423d662ec9]
 
 The Council is to make provision in standing orders with respect to the requirements that are to apply in respect of the education and training of members of the Council, and those standing orders may provide for—
 
 - (a) that education and training to be the responsibility of another body; and
 - (b) those requirements to be set and varied by that body from time to time.
 
-### 5. Disqualification for appointment as a member[^key-b938f461b9dec634e1daff5aee836875]
+### 5. Disqualification for appointment as a member[^c-b938f461b9dec634e1daff5aee836875]
 
 A person is disqualified for appointment as a member of the Council if that person—
 
@@ -124,7 +124,7 @@ A person is disqualified for appointment as a member of the Council if that pers
   - (iii) a disqualification order or a disqualification undertaking under the Company Directors Disqualification (Northern Ireland) Order 2002[^f00012], or
   - (iv) an order made under section 429(2) of the Insolvency Act 1986[^f00013] (disabilities on revocation of a county court administration order);
 - (i) has been included by—
-  - (i) the Disclosure and Barring Service[^key-fdea3cb9aac05fd5677c99097c4cf37f] in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00014] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00015]), or
+  - (i) the Disclosure and Barring Service[^c-fdea3cb9aac05fd5677c99097c4cf37f] in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006[^f00014] or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00015]), or
   - (ii) the Scottish Ministers in the children’s list or the adults’ list (within the meaning of the Protection of Vulnerable Groups (Scotland) Act 2007[^f00016]);
 - (j) has at any time been subject to any investigation or proceedings concerning the person’s fitness to practise by any licensing body, the final outcome of which was—
   - (i) the person’s entry in a register held by the licensing body is suspended,
@@ -142,7 +142,7 @@ A person is disqualified for appointment as a member of the Council if that pers
   and the Privy Council is satisfied that the person’s membership of the Council would be liable to undermine public confidence in the regulation of registered pharmacists or pharmacy technicians; or
 - (n) has at any time been convicted of an offence elsewhere than in the United Kingdom and the Privy Council is satisfied that the person’s membership of the Council would be liable to undermine public confidence in the regulation of registered pharmacists or pharmacy technicians.
 
-### 6. Removal of members from office[^key-bbc9936c420c48a4048ab964ff8d87d0]
+### 6. Removal of members from office[^c-bbc9936c420c48a4048ab964ff8d87d0]
 
 (1) A member must be removed from office by the Privy Council, if—
 
@@ -175,7 +175,7 @@ A person is disqualified for appointment as a member of the Council if that pers
 - (a) a member has become, or may be about to become, a person to whom paragraph (1)(b) to (f) applies; and
 - (b) that member has not notified the Privy Council in writing of that fact and the chair is not satisfied that the member will do so immediately.
 
-### 7. Suspension of members from office[^key-1936fb4c5c63cac7d1ae8d2af71b9522]
+### 7. Suspension of members from office[^c-1936fb4c5c63cac7d1ae8d2af71b9522]
 
 (1) The Privy Council may suspend a member from office by a notice in writing served on that member—
 
@@ -220,7 +220,7 @@ A person is disqualified for appointment as a member of the Council if that pers
 
 ## PART 3 — Chair of the Council
 
-### 8. Appointment, term of office and cessation of office of the chair[^key-a45f5692a154cf729252ee582610c199]
+### 8. Appointment, term of office and cessation of office of the chair[^c-a45f5692a154cf729252ee582610c199]
 
 (1) The Privy Council must, as one of its functions relating to the appointment of members of the Council, appoint the chair of the Council.
 
@@ -238,7 +238,7 @@ A person is disqualified for appointment as a member of the Council if that pers
 - (c) if the member’s membership of the Council is suspended by the Privy Council; or
 - (d) if a majority of the Council, excluding the chair (but not simply a majority at a quorate meeting) passes a vote of no confidence in the chair.
 
-### 9. Deputising arrangements in respect of the chair[^key-39899e68e2f8983a151136a7283f8af2]
+### 9. Deputising arrangements in respect of the chair[^c-39899e68e2f8983a151136a7283f8af2]
 
 (1) Subject to paragraph (2), if, for any reason, the chair is absent from a meeting of the Council, the members who are present at that meeting must nominate one of their number to serve as chair at that meeting.
 
@@ -263,17 +263,17 @@ the Council may nominate a member (“deputy chair”) to serve as chair during 
 
 ## PART 4 — Chief Executive Officer of the Council
 
-### 10. Appointment of Chief Executive Officer[^key-fec33d3885f2bb908f9b4d7b6833a518]
+### 10. Appointment of Chief Executive Officer[^c-fec33d3885f2bb908f9b4d7b6833a518]
 
 The Privy Council must appoint a person to be the first Chief Executive Officer of the Council.
 
 ## PART 5 — Proceedings of the Council
 
-### 11. Quorum of the Council[^key-76981dd7f46c66a90b2afbb46dfccd56]
+### 11. Quorum of the Council[^c-76981dd7f46c66a90b2afbb46dfccd56]
 
 The quorum of the Council is to be 8.
 
-### 12. Effect of vacancies etc. on the validity of proceedings[^key-f2cfd9ccb82666feea5e04d348c3393f]
+### 12. Effect of vacancies etc. on the validity of proceedings[^c-f2cfd9ccb82666feea5e04d348c3393f]
 
 (1) The validity of any proceedings of the Council is not to be affected by—
 
@@ -305,19 +305,19 @@ There are also provisions relating to the proceedings of the Council. Its quorum
 
 [^f00001]: Footnote: [S.I.2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
-[^key-5bcfba8bbcd3d0d8b53212744c3cebf8]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/300/article/1) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+[^c-5bcfba8bbcd3d0d8b53212744c3cebf8]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/300/article/1) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
 
 [^f00002]: Footnote: [1974 c.53](https://www.legislation.gov.uk/ukpga/1974/53).
 
 [^f00003]: Footnote: [S.I.1978/1908 (N.I.27)](https://www.legislation.gov.uk/nisi/1978/1908).
 
-[^key-7f6078e9ec655c82f996de43923427d1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/300/article/2) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+[^c-7f6078e9ec655c82f996de43923427d1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/300/article/2) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
 
-[^key-9e2f3e4d4215fcbc9b6f319c5ebb9d46]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/300/article/3) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+[^c-9e2f3e4d4215fcbc9b6f319c5ebb9d46]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/300/article/3) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
 
-[^key-f565a8d43ab229c95bcb0c423d662ec9]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/300/article/4) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+[^c-f565a8d43ab229c95bcb0c423d662ec9]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/300/article/4) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
 
-[^key-b938f461b9dec634e1daff5aee836875]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/300/article/5) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+[^c-b938f461b9dec634e1daff5aee836875]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/300/article/5) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
 
 [^f00004]: Footnote: [1990 c.40](https://www.legislation.gov.uk/ukpga/1990/40). Section 7 was repealed by the Charities and Trustee Investment (Scotland) Act [2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), Schedule 4, paragraph 7(b).
 
@@ -339,7 +339,7 @@ There are also provisions relating to the proceedings of the Council. Its quorum
 
 [^f00013]: Footnote: Section 429(2) was amended by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), Schedule 23, paragraph 15.
 
-[^key-fdea3cb9aac05fd5677c99097c4cf37f]: Textual amendment: Words in [art. 5(i)(i)](https://www.legislation.gov.uk/uksi/2010/300/article/5/i/i) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(aa)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/aa) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-fdea3cb9aac05fd5677c99097c4cf37f]: Textual amendment: Words in [art. 5(i)(i)](https://www.legislation.gov.uk/uksi/2010/300/article/5/i/i) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(aa)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/aa) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
 [^f00014]: Footnote: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
@@ -347,16 +347,16 @@ There are also provisions relating to the proceedings of the Council. Its quorum
 
 [^f00016]: Footnote: [2007 asp14](https://www.legislation.gov.uk/asp/2007/14).
 
-[^key-bbc9936c420c48a4048ab964ff8d87d0]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/300/article/6) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+[^c-bbc9936c420c48a4048ab964ff8d87d0]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/300/article/6) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
 
-[^key-1936fb4c5c63cac7d1ae8d2af71b9522]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/300/article/7) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+[^c-1936fb4c5c63cac7d1ae8d2af71b9522]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/300/article/7) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
 
-[^key-a45f5692a154cf729252ee582610c199]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/300/article/8) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+[^c-a45f5692a154cf729252ee582610c199]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/300/article/8) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
 
-[^key-39899e68e2f8983a151136a7283f8af2]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2010/300/article/9) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+[^c-39899e68e2f8983a151136a7283f8af2]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2010/300/article/9) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
 
-[^key-fec33d3885f2bb908f9b4d7b6833a518]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/300/article/10) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+[^c-fec33d3885f2bb908f9b4d7b6833a518]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/300/article/10) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
 
-[^key-76981dd7f46c66a90b2afbb46dfccd56]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2010/300/article/11) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+[^c-76981dd7f46c66a90b2afbb46dfccd56]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2010/300/article/11) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
 
-[^key-f2cfd9ccb82666feea5e04d348c3393f]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2010/300/article/12) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)
+[^c-f2cfd9ccb82666feea5e04d348c3393f]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2010/300/article/12) in force at 12.3.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/300/article/1/1)

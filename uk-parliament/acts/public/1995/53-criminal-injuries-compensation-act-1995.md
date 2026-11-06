@@ -48,7 +48,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) In this Act—
 
-- [^key-1ec9b30bc446b6abed497ac8464233cb]...
+- [^c-1ec9b30bc446b6abed497ac8464233cb]...
 - “**award**” means an award of compensation made in accordance with the provisions of the Scheme;
 - “**claims officer**” means a person appointed by the Secretary of State under section 3(4)(b);
 - “**compensation**” means compensation payable under an award;
@@ -127,9 +127,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (2) Any such review must be conducted by a person other than the person who made the decision under review.
 
-## 5. Appeals.[^key-48d0b81ec77cd10ccdabca30790fa71c][^key-710cb6266734f26646ed953745eb0f7c]
+## 5. Appeals.[^c-48d0b81ec77cd10ccdabca30790fa71c][^c-710cb6266734f26646ed953745eb0f7c]
 
-(1)[^key-070aecb5ec98b41fcc3aa88f84c3d928] The Scheme shall include provision for rights of appeal to the First-tier Tribunal against decisions taken on reviews under provisions of the Scheme made by virtue of section 4.
+(1)[^c-070aecb5ec98b41fcc3aa88f84c3d928] The Scheme shall include provision for rights of appeal to the First-tier Tribunal against decisions taken on reviews under provisions of the Scheme made by virtue of section 4.
 
 (8) In Schedule 1 to the [^c831881] Tribunals and Inquiries Act 1992 (tribunals under the supervision of the Council on Tribunals), in the entry relating to compensation for criminal injuries substitute, for the second column—
 
@@ -139,7 +139,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 .
 
-(9) The power conferred by section 3(1)(a) to provide for the reduction of an amount of compensation includes power to provide for a reduction where, in the opinion of the First-tier Tribunal[^key-b10f9ade5f7e16ec5b692ddbe51a558b] determining an appeal, the appeal is frivolous or vexatious.
+(9) The power conferred by section 3(1)(a) to provide for the reduction of an amount of compensation includes power to provide for a reduction where, in the opinion of the First-tier Tribunal[^c-b10f9ade5f7e16ec5b692ddbe51a558b] determining an appeal, the appeal is frivolous or vexatious.
 
 ## 6. Reports, accounts and financial records.
 
@@ -186,11 +186,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## 9. Financial provisions.
 
-(1) The Secretary of State may pay such remuneration, allowances or gratuities to or in respect of claims officers and other persons appointed by him under this Act [^key-fef8fa10ceb63f78e2ad42a0efa9cc92]... as he considers appropriate.
+(1) The Secretary of State may pay such remuneration, allowances or gratuities to or in respect of claims officers and other persons appointed by him under this Act [^c-fef8fa10ceb63f78e2ad42a0efa9cc92]... as he considers appropriate.
 
-(2)[^key-ee7b191b24b664bbaba29dfc8a880c67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ee7b191b24b664bbaba29dfc8a880c67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ee7b191b24b664bbaba29dfc8a880c67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ee7b191b24b664bbaba29dfc8a880c67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Sums required for the payment of compensation in accordance with the Scheme shall be provided by the Secretary of State out of money provided by Parliament.
 
@@ -250,7 +250,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) any additional amount mentioned in section 2(2),
 - (b) the circumstances in which compensation may be payable with respect to a criminal injury of a kind for which no provision is made by the Tariff,
 - (c) the calculation of compensation in respect of multiple injuries,
-- (d) compensation payable in respect of children conceived as a result of rape or an offence under section 30 of the Sexual Offences Act 2003[^key-987cadc3d186b99ced6cac38b162fcbb],
+- (d) compensation payable in respect of children conceived as a result of rape or an offence under section 30 of the Sexual Offences Act 2003[^c-987cadc3d186b99ced6cac38b162fcbb],
 - (e) the circumstances in which an award may be withheld or compensation reduced,
 - (f) any limit on compensation imposed by a provision made by virtue of section 2(7)(a),
 
@@ -258,8 +258,8 @@ the Secretary of State shall lay before Parliament a draft of the provision as p
 
 (4) Before making any alteration to a provision of the Scheme which—
 
-- (a) gives a right of appeal, [^key-b3a8d6310fd0e900f0b2b063f1a08f3a]...
-- (b)[^key-b3a8d6310fd0e900f0b2b063f1a08f3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) gives a right of appeal, [^c-b3a8d6310fd0e900f0b2b063f1a08f3a]...
+- (b)[^c-b3a8d6310fd0e900f0b2b063f1a08f3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 the Secretary of State shall lay before Parliament a draft of the provision as proposed to be altered.
 
@@ -276,9 +276,9 @@ the Secretary of State shall lay before Parliament a draft of the provision as p
 
 *Extent: S*
 
-(8A)[^key-f0879e97de96653300282b6f6ad4efe4] No regulations under section 7A(1) or order under section 7B(3) shall be made unless a draft of the regulations or order has been laid before, and approved by a resolution of, the Scottish Parliament.
+(8A)[^c-f0879e97de96653300282b6f6ad4efe4] No regulations under section 7A(1) or order under section 7B(3) shall be made unless a draft of the regulations or order has been laid before, and approved by a resolution of, the Scottish Parliament.
 
-(9)[^key-fc2571bc98632eea405029f82b868052] In subsection (3) “ **rape** ”, in relation to anything done in England and Wales, means an offence under section 1 or 5 of the Sexual Offences Act 2003, and in relation to anything done in Scotland means rape (whether at common law or under section 1(1) of the Sexual Offences (Scotland) Act 2009 (asp 9)) and rape of a young child (under section 18 of that Act) *(Extent: S)*[^key-733ef8da265fc0e4656f9770f8bae353].
+(9)[^c-fc2571bc98632eea405029f82b868052] In subsection (3) “ **rape** ”, in relation to anything done in England and Wales, means an offence under section 1 or 5 of the Sexual Offences Act 2003, and in relation to anything done in Scotland means rape (whether at common law or under section 1(1) of the Sexual Offences (Scotland) Act 2009 (asp 9)) and rape of a young child (under section 18 of that Act) *(Extent: S)*[^c-733ef8da265fc0e4656f9770f8bae353].
 
 ## 12. Repeal of the 1988 Act scheme and transitional provisions.
 
@@ -315,17 +315,17 @@ Section 12(7).
 
 [^c831873]: Commencement: Act wholly in force at Royal Assent
 
-[^key-1ec9b30bc446b6abed497ac8464233cb]: Textual amendment: Definition of “adjudicator” in s. 1(4) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 123](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/123)
+[^c-1ec9b30bc446b6abed497ac8464233cb]: Textual amendment: Definition of “adjudicator” in s. 1(4) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 123](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/123)
 
-[^key-48d0b81ec77cd10ccdabca30790fa71c]: Modification: S. 5 power to transfer functions conferred (19.9.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 30](https://www.legislation.gov.uk/ukpga/2007/15/section/30), [148](https://www.legislation.gov.uk/ukpga/2007/15/section/148); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2709/article/2/a)
+[^c-48d0b81ec77cd10ccdabca30790fa71c]: Modification: S. 5 power to transfer functions conferred (19.9.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 30](https://www.legislation.gov.uk/ukpga/2007/15/section/30), [148](https://www.legislation.gov.uk/ukpga/2007/15/section/148); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2709/article/2/a)
 
-[^key-710cb6266734f26646ed953745eb0f7c]: Modification: S. 5 transfer of functions (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833) , [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/3/1), [4](https://www.legislation.gov.uk/uksi/2008/2833/article/4), [5](https://www.legislation.gov.uk/uksi/2008/2833/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2833/schedule/1) Table 1 (with [Sch. 4](https://www.legislation.gov.uk/uksi/2008/2833/schedule/4))
+[^c-710cb6266734f26646ed953745eb0f7c]: Modification: S. 5 transfer of functions (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833) , [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/3/1), [4](https://www.legislation.gov.uk/uksi/2008/2833/article/4), [5](https://www.legislation.gov.uk/uksi/2008/2833/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2833/schedule/1) Table 1 (with [Sch. 4](https://www.legislation.gov.uk/uksi/2008/2833/schedule/4))
 
-[^key-070aecb5ec98b41fcc3aa88f84c3d928]: Textual amendment: S. 5(1) substituted for s. 5(1)-(7) (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833) , [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 124(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/124/a)
+[^c-070aecb5ec98b41fcc3aa88f84c3d928]: Textual amendment: S. 5(1) substituted for s. 5(1)-(7) (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833) , [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 124(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/124/a)
 
 [^c831881]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53) .
 
-[^key-b10f9ade5f7e16ec5b692ddbe51a558b]: Textual amendment: Words in s. 5(9) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833) , [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 124(b)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/124/b)
+[^c-b10f9ade5f7e16ec5b692ddbe51a558b]: Textual amendment: Words in s. 5(9) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833) , [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 124(b)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/124/b)
 
 [^c831882]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/ukpga/1995/53/section/6/1) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 123(2)(a)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/123/2/a); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
@@ -339,22 +339,22 @@ Section 12(7).
 
 [^c831888]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1995/53/section/8) repealed (29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. V](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V)
 
-[^key-fef8fa10ceb63f78e2ad42a0efa9cc92]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/1995/53/section/9/1) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 125(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/125/a)
+[^c-fef8fa10ceb63f78e2ad42a0efa9cc92]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/1995/53/section/9/1) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 125(a)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/125/a)
 
-[^key-ee7b191b24b664bbaba29dfc8a880c67]: Textual amendment: [S. 9(2)](https://www.legislation.gov.uk/ukpga/1995/53/section/9/2)[(3)](https://www.legislation.gov.uk/ukpga/1995/53/section/9/3) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 125(b)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/125/b)
+[^c-ee7b191b24b664bbaba29dfc8a880c67]: Textual amendment: [S. 9(2)](https://www.legislation.gov.uk/ukpga/1995/53/section/9/2)[(3)](https://www.legislation.gov.uk/ukpga/1995/53/section/9/3) omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 125(b)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/125/b)
 
 [^c831889]: Textual amendment: S. 9(6A) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para 123(6)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/123/6); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
 [^c831890]: Marginal citation: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13).
 
-[^key-987cadc3d186b99ced6cac38b162fcbb]: Textual amendment: Words in s. 11(3)(d) inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 34(a)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/34/a); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-987cadc3d186b99ced6cac38b162fcbb]: Textual amendment: Words in s. 11(3)(d) inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 34(a)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/34/a); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
-[^key-b3a8d6310fd0e900f0b2b063f1a08f3a]: Textual amendment: S. 11(4)(b) and word omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 126](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/126)
+[^c-b3a8d6310fd0e900f0b2b063f1a08f3a]: Textual amendment: S. 11(4)(b) and word omitted (3.11.2008) by virtue of [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 126](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/126)
 
-[^key-f0879e97de96653300282b6f6ad4efe4]: Textual amendment: S. 11(8A) inserted (S.) (8.12.2005) by [Management of Offenders etc. (Scotland) Act 2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14), [ss. 20(3)](https://www.legislation.gov.uk/asp/2005/14/section/20/3), [24(1)](https://www.legislation.gov.uk/asp/2005/14/section/24/1)
+[^c-f0879e97de96653300282b6f6ad4efe4]: Textual amendment: S. 11(8A) inserted (S.) (8.12.2005) by [Management of Offenders etc. (Scotland) Act 2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14), [ss. 20(3)](https://www.legislation.gov.uk/asp/2005/14/section/20/3), [24(1)](https://www.legislation.gov.uk/asp/2005/14/section/24/1)
 
-[^key-fc2571bc98632eea405029f82b868052]: Textual amendment: S. 11(9) inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 34(b)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/34/b); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-fc2571bc98632eea405029f82b868052]: Textual amendment: S. 11(9) inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 34(b)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/34/b); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
-[^key-733ef8da265fc0e4656f9770f8bae353]: Textual amendment: Words in [s. 11(9)](https://www.legislation.gov.uk/ukpga/1995/53/section/11/9) inserted (S.) (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [s. 62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2009/9/schedule/5/paragraph/3); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
+[^c-733ef8da265fc0e4656f9770f8bae353]: Textual amendment: Words in [s. 11(9)](https://www.legislation.gov.uk/ukpga/1995/53/section/11/9) inserted (S.) (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [s. 62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [Sch. 5 para. 3](https://www.legislation.gov.uk/asp/2009/9/schedule/5/paragraph/3); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
 
 [^c831891]: Marginal citation: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33).

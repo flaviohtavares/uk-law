@@ -37,22 +37,22 @@ amending Decisions 2009/568/EC, 2011/333/EU, 2011/381/EU, 2012/448/EU and 2012/4
 
 (Text with EEA relevance) (revoked)
 
-[^key-a9c51c76d08aac1bd3664155e5e4aabc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9c51c76d08aac1bd3664155e5e4aabc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a9c51c76d08aac1bd3664155e5e4aabc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a9c51c76d08aac1bd3664155e5e4aabc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a9c51c76d08aac1bd3664155e5e4aabc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a9c51c76d08aac1bd3664155e5e4aabc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a9c51c76d08aac1bd3664155e5e4aabc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a9c51c76d08aac1bd3664155e5e4aabc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-a9c51c76d08aac1bd3664155e5e4aabc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-a9c51c76d08aac1bd3664155e5e4aabc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-a9c51c76d08aac1bd3664155e5e4aabc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-a9c51c76d08aac1bd3664155e5e4aabc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-a9c51c76d08aac1bd3664155e5e4aabc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-a9c51c76d08aac1bd3664155e5e4aabc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9c51c76d08aac1bd3664155e5e4aabc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9c51c76d08aac1bd3664155e5e4aabc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a9c51c76d08aac1bd3664155e5e4aabc]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/33); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a9c51c76d08aac1bd3664155e5e4aabc]: Textual amendment: Decision revoked (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2019/458/schedule/paragraph/33); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

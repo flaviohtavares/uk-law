@@ -34,8 +34,8 @@ summary: ''
 
 - (a) the name of the area in the venue in which the seat or standing area is located (for example the name of the stand in which it is located),
 - (b) information necessary to enable the buyer to identify the part of the area in the venue in which the seat or standing area is located (for example the block of seats in which the seat is located),
-- (c) the number, letter or other distinguishing mark of the row in which the seat is located, [^key-f55cb83bdeb760dbb2d9769353b4234f]...
-- (d) the number, letter or other distinguishing mark of the seat , and[^key-e5752908279c7d8a1a899acba85b57c9]
+- (c) the number, letter or other distinguishing mark of the row in which the seat is located, [^c-f55cb83bdeb760dbb2d9769353b4234f]...
+- (d) the number, letter or other distinguishing mark of the seat , and[^c-e5752908279c7d8a1a899acba85b57c9]
 - (e) any unique ticket number that may help the buyer to identify the seat or standing area or its location.
 
 (5) The reference in subsection (3)(c) to the face value of the ticket is to the amount stated on the ticket as its price.
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f55cb83bdeb760dbb2d9769353b4234f]: Textual amendment: Word in s. 90(4)(c) omitted (6.4.2018 for E.W.S.) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 105](https://www.legislation.gov.uk/ukpga/2017/30/section/105), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 2](https://www.legislation.gov.uk/uksi/2018/382/regulation/2)
+[^c-f55cb83bdeb760dbb2d9769353b4234f]: Textual amendment: Word in s. 90(4)(c) omitted (6.4.2018 for E.W.S.) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 105](https://www.legislation.gov.uk/ukpga/2017/30/section/105), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 2](https://www.legislation.gov.uk/uksi/2018/382/regulation/2)
 
-[^key-e5752908279c7d8a1a899acba85b57c9]: Textual amendment: S. 90(4)(e) and word inserted (6.4.2018 for E.W.S.) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 105](https://www.legislation.gov.uk/ukpga/2017/30/section/105), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 2](https://www.legislation.gov.uk/uksi/2018/382/regulation/2)
+[^c-e5752908279c7d8a1a899acba85b57c9]: Textual amendment: S. 90(4)(e) and word inserted (6.4.2018 for E.W.S.) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 105](https://www.legislation.gov.uk/ukpga/2017/30/section/105), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 2](https://www.legislation.gov.uk/uksi/2018/382/regulation/2)

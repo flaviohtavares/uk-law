@@ -52,13 +52,13 @@ The Marine Management Organisation, being satisfied as mentioned in section 14(2
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-16b381a3821a79ef3242d89714c135c1]
+### 1. Citation and commencement[^c-16b381a3821a79ef3242d89714c135c1]
 
 (1) This Order may be cited as the Poole Harbour (Works) Revision Order 2015 and shall come into force on 10th July 2015.
 
 (2) The Poole Harbour Act 1914[^f00006], the Poole Harbour Revision Order 1999[^f00007], the Poole Harbour Revision Order 2001[^f00008], the 2012 Order and this Order may be cited together as the Poole Harbour Act and Orders 1914 to 2015.
 
-### 2. Interpretation[^key-3321e5138c873f5f118d82a767d01406]
+### 2. Interpretation[^c-3321e5138c873f5f118d82a767d01406]
 
 (1) In this Order—
 
@@ -68,7 +68,7 @@ The Marine Management Organisation, being satisfied as mentioned in section 14(2
 - “the Commissioners” means the Poole Harbour Commissioners;
 - “the deposited plans” and “the deposited sections” mean respectively the plans and sections (numbered sheets HRO1 to HRO5) prepared in duplicate, signed on behalf of the Marine Management Organisation and marked “The Poole Harbour (Works) Revision Order 2015 plans and sections” of which one copy has been deposited at the offices of the Marine Management Organisation and the other at the principal office of the Commissioners at 20 New Quay Road, Hamworthy, Poole, Dorset BH15 4AF;
 - “the harbour” has the same meaning as in the 2012 Order;
-- “[^key-a9c0804095460d5963f2c43f5a0cddea]**harbour premises**” has the same meaning as “**the harbour premises**” in article 2 of the 2012 Order;
+- “[^c-a9c0804095460d5963f2c43f5a0cddea]**harbour premises**” has the same meaning as “**the harbour premises**” in article 2 of the 2012 Order;
 - “harbour undertaking” means the undertaking of the Commissioners authorised by the Poole Harbour Act and Orders 1914 to 2015;
 - “land” includes land covered by water, any interest in land or rights in, to or over land;
 - “level of high water” means the level of mean high-water springs;
@@ -82,7 +82,7 @@ The Marine Management Organisation, being satisfied as mentioned in section 14(2
 
 ## PART 2 — WORKS
 
-### 3. Power to construct, etc., works[^key-8d980487da629fcb354d4ca782f14a04]
+### 3. Power to construct, etc., works[^c-8d980487da629fcb354d4ca782f14a04]
 
 (1) Subject to the provisions of this Order, the Commissioners may (within the limits of deviation shown on the deposited plans and according to the levels shown on the deposited sections) construct and maintain the whole or part of the following works on and in the bed and foreshore of the harbour, together with all necessary works and conveniences connected with or incidental to them—
 
@@ -156,7 +156,7 @@ Reclamation of so much of the foreshore and bed of the sea by means of Work No. 
 
 (6) In paragraph (5) “WGS84” means the World Geodetic System, revised in 1984 and further revised in 2004.
 
-### 4. Power to deviate[^key-a5b263eec49202d633c9816a39aafa26]
+### 4. Power to deviate[^c-a5b263eec49202d633c9816a39aafa26]
 
 Subject to the provisions of this Order, in constructing the authorised works the Commissioners may—
 
@@ -165,25 +165,25 @@ Subject to the provisions of this Order, in constructing the authorised works th
 
 as may be found necessary or convenient.
 
-### 5. Subsidiary works[^key-46ac316d2fac5955e2abd22c11e28c13]
+### 5. Subsidiary works[^c-46ac316d2fac5955e2abd22c11e28c13]
 
 (1) Subject to the provision of this Order, the Commissioners may from time to time, within the limits of deviation, erect, construct, lay down, place, remove, replace, work or use and maintain whether temporarily or permanently all such works, conveniences, appliances and apparatus and take such measures as they from time to time consider fit for the purposes of or in connection with or incidental to the construction, maintenance and use of the authorised works, including, without prejudice to the generality of the foregoing, navigation marks and lights.
 
 (2) In the course of erecting, constructing, laying down, placing, removing and replacing the authorised works the Commissioners may carry out construction activity, including the temporary placing of plant and equipment, within the waters adjoining the limits of deviation.
 
-### 6. Period for completion of works[^key-4aae26c6a5cef1077473610cbf80cb3d]
+### 6. Period for completion of works[^c-4aae26c6a5cef1077473610cbf80cb3d]
 
 (1) If all the works authorised by article 3 are not completed within 50 years from the coming into force of this Order or such extended time as the Secretary of State may, on application of the Commissioners, allow, then on the expiry of that period, or such extended time (as the case may be), the powers conferred by article 3 for constructing and maintaining such works shall cease to have effect except as to so much of them as is then substantially commenced.
 
 (2) Nothing in paragraph (1) shall affect the carrying out of works under article 5.
 
-### 7. Works to be within the Borough of Poole[^key-ce221caf81c2ca86c6095bc81554dfb1]
+### 7. Works to be within the Borough of Poole[^c-ce221caf81c2ca86c6095bc81554dfb1]
 
 (1) The area of the works authorised by articles 3 and 5 shall be annexed to and incorporated within the Borough of Poole (to the extent that it is not already within the Borough of Poole) when all those works are completed or substantially completed with the exception (as the case may be) of works for which the powers conferred by article 3 have ceased to have effect jn accordance with article 6(1).
 
 (2) Nothing in this article shall require the performance of any functions under the Ordnance Survey Act 1841[^f00010] until the Commissioners have certified in writing to the Director General of Ordnance Survey that all the works authorised by articles 3 and 5 have been completed with the exception (as the case may be) of works for which the powers conferred by article 3 have ceased to have effect in accordance with article 6(1).
 
-### 8. Power to dredge[^key-b5a0ee534983e31009e480e3a6d1f679]
+### 8. Power to dredge[^c-b5a0ee534983e31009e480e3a6d1f679]
 
 (1) Subject to the provisions of this Order, the Commissioners may, for the purposes of constructing and maintaining the authorised works and to afford uninterrupted means of access to the authorised works and enabling their use at all states of the tide, from time to time deepen, dredge, scour, cleanse, alter and improve the bed, shores and channels of the harbour within an area not exceeding 40 metres in width adjacent to the authorised works to a depth of not more than 9 metres below Chart Datum (unless the Secretary of State approves otherwise in writing).
 
@@ -194,7 +194,7 @@ as may be found necessary or convenient.
 - (a) be disposed of in contravention of the provisions of any enactment relating to the disposal of waste; or
 - (b) be deposited below the level of high water except in such places and in accordance with such conditions and restrictions as may be approved or prescribed by the Secretary of State.
 
-### 9. Obstruction of works[^key-7aefed722a9d12be929f83899f4cb124]
+### 9. Obstruction of works[^c-7aefed722a9d12be929f83899f4cb124]
 
 A person who, without lawful authority—
 
@@ -203,7 +203,7 @@ A person who, without lawful authority—
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 10. Provision against danger to navigation[^key-5456378143eeb8a6ff9561e8d546fdea]
+### 10. Provision against danger to navigation[^c-5456378143eeb8a6ff9561e8d546fdea]
 
 (1) In case of injury to, or destruction or decay of, the authorised works the Commissioners must—
 
@@ -215,7 +215,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
 
-### 11. Abatement of works abandoned or decayed[^key-8338b110c099b4bd157072358e1c6413]
+### 11. Abatement of works abandoned or decayed[^c-8338b110c099b4bd157072358e1c6413]
 
 (1) Where the authorised works are abandoned or suffered to fall into decay, the Secretary of State may by notice in writing require the Commissioners at their own expense either to repair and restore the relevant part of the authorised works, or to remove the authorised works and restore their site to its former condition, to such an extent and within such limits as the Secretary of State thinks proper.
 
@@ -228,11 +228,11 @@ are abandoned or suffered to fall into decay and the works mentioned in sub-para
 
 (3) If, on the expiration of 30 days from the date when a notice under this article is served upon the Commissioners, they have failed to comply with the requirements of the notice, the Secretary of State may execute the works specified in the notice and any expenditure incurred by the Secretary of State in so doing shall be recoverable from the Commissioners.
 
-### 12. Survey of authorised works[^key-faa1164ff76423cc9d6afaccfa24f26b]
+### 12. Survey of authorised works[^c-faa1164ff76423cc9d6afaccfa24f26b]
 
 The Secretary of State may at any time, if the Secretary of State deems it expedient to do so, order a survey and examination of the authorised works or of the site upon which it is proposed to construct the works and any expenditure incurred by the Secretary of State in so doing shall be recoverable from the Commissioners.
 
-### 13. Permanent lights on authorised works[^key-a2a136a7a60d3abfbc909c39d39c4e95]
+### 13. Permanent lights on authorised works[^c-a2a136a7a60d3abfbc909c39d39c4e95]
 
 (1) After the completion of the authorised works the Commissioners must at the outer extremity of such work exhibit every night from sunset to sunrise such lights, shapes and signals and take such other steps for the prevention of danger to navigation as Trinity House may from time to time direct.
 
@@ -241,7 +241,7 @@ The Secretary of State may at any time, if the Secretary of State deems it exped
 - (a) on summary conviction to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment to a fine.
 
-### 14. Lights on tidal works during construction, etc.[^key-86cb4ad707f6f4462e7b6cc305a1526f]
+### 14. Lights on tidal works during construction, etc.[^c-86cb4ad707f6f4462e7b6cc305a1526f]
 
 (1) The Commissioners must at or near any authorised works during the whole time of the construction of any tidal works exhibit every night from sunset to sunrise such lights, shapes and signals and take such other steps for the prevention of danger to navigation as the Secretary of State may from time to time direct.
 
@@ -252,7 +252,7 @@ The Secretary of State may at any time, if the Secretary of State deems it exped
 
 (3) In this article, “tidal works” means so much of the authorised works as are on, under or over tidal waters or tidal land below the level of high water.
 
-### 15. Defence of due diligence[^key-068b7653c07190bfd375eb4444efee84]
+### 15. Defence of due diligence[^c-068b7653c07190bfd375eb4444efee84]
 
 (1) In proceedings for an offence under article 10, 13 or 14 it shall be a defence for the Commissioners to prove that they took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
@@ -260,7 +260,7 @@ The Secretary of State may at any time, if the Secretary of State deems it exped
 
 ## PART 3 — MISCELLANEOUS AND GENERAL
 
-### 16. Crown rights[^key-ab41107fed3be22d669fb9aa909dd268]
+### 16. Crown rights[^c-ab41107fed3be22d669fb9aa909dd268]
 
 (1) Nothing in this Order shall-
 
@@ -271,21 +271,21 @@ The Secretary of State may at any time, if the Secretary of State deems it exped
 
 (2) A consent under paragraph (1)(b) may be given unconditionally or may be subject to such conditions and upon such terms as may be considered necessary or appropriate.
 
-### 17. Saving for Trinity House[^key-abb2c7f95bf3f111a5aee3cc2caaf160]
+### 17. Saving for Trinity House[^c-abb2c7f95bf3f111a5aee3cc2caaf160]
 
 Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of Trinity House.
 
-### 18. For the protection of the Environment Agency[^key-fd637cd9dd702cc78671479eab5ac672]
+### 18. For the protection of the Environment Agency[^c-fd637cd9dd702cc78671479eab5ac672]
 
 Nothing in this Order or in any enactment applied by this Order shall prejudice or affect the operation of section 109 of the Water Resources Act 1991[^f00012] or any byelaw made under that Act or the Land Drainage Act 1991[^f00013], in relation to anything done under or in pursuance of this Order.
 
-### 19. Disapplication of regulation 75 of the Conservation of Habitats and Species Regulations 2017[^key-57fd8be50fedbc2fb81ea8280ff40648][^key-97622a5abb9d97879e1cd7b6fb2f76ba]
+### 19. Disapplication of regulation 75 of the Conservation of Habitats and Species Regulations 2017[^c-57fd8be50fedbc2fb81ea8280ff40648][^c-97622a5abb9d97879e1cd7b6fb2f76ba]
 
-(1) Regulation 75 of the Conservation of Habitats and Species Regulations 2017[^key-5ad50e9496ea35ee60709ae9e608b4fc] \[(“the Habitats Regulations”)\] shall not apply to any planning permission which relates to the development authorised by this Order and which is granted by article 3(1) of the Town and Country Planning (General Permitted Development) Order 1995[^f00015] for the class of development described as permitted development in Parts 11 and 17 of Schedule 2 to that Order.
+(1) Regulation 75 of the Conservation of Habitats and Species Regulations 2017[^c-5ad50e9496ea35ee60709ae9e608b4fc] \[(“the Habitats Regulations”)\] shall not apply to any planning permission which relates to the development authorised by this Order and which is granted by article 3(1) of the Town and Country Planning (General Permitted Development) Order 1995[^f00015] for the class of development described as permitted development in Parts 11 and 17 of Schedule 2 to that Order.
 
 (2) Paragraph (1) does not apply if and to the extent that the works-
 
-- (a) do not form part of the plan or project which was subject to an appropriate assessment in accordance with regulation 63[^key-8a84dad1c7e22102d400485a434299cb] of the Habitats Regulations in connection with the making of this Order; and
+- (a) do not form part of the plan or project which was subject to an appropriate assessment in accordance with regulation 63[^c-8a84dad1c7e22102d400485a434299cb] of the Habitats Regulations in connection with the making of this Order; and
 - (b) are not subject a further consent, permission or authorisation by a competent authority as defined in the Habitats Regulations.
 
 Signed by authority of the Marine Management Organisation
@@ -334,7 +334,7 @@ The deposited plans and sections may be inspected during working hours at the pr
 
 [^f00005]: Footnote: The Marine Management Organisation was established by the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23), section 1.
 
-[^key-16b381a3821a79ef3242d89714c135c1]: Commencement: Art. 1 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-16b381a3821a79ef3242d89714c135c1]: Commencement: Art. 1 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
 [^f00006]: Footnote: [1914 c.clv](https://www.legislation.gov.uk/ukla/1914/155).
 
@@ -342,58 +342,58 @@ The deposited plans and sections may be inspected during working hours at the pr
 
 [^f00008]: Footnote: [S.I. 2001/2820](https://www.legislation.gov.uk/uksi/2001/2820).
 
-[^key-3321e5138c873f5f118d82a767d01406]: Commencement: Art. 2 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-3321e5138c873f5f118d82a767d01406]: Commencement: Art. 2 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
 [^f00009]: Footnote: [S.I. 2012/1777](https://www.legislation.gov.uk/uksi/2012/1777).
 
-[^key-a9c0804095460d5963f2c43f5a0cddea]: Textual amendment: Words in art. 2(1) substituted (23.7.2026) by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [40(2)](https://www.legislation.gov.uk/uksi/2026/724/article/40/2) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))
+[^c-a9c0804095460d5963f2c43f5a0cddea]: Textual amendment: Words in art. 2(1) substituted (23.7.2026) by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [40(2)](https://www.legislation.gov.uk/uksi/2026/724/article/40/2) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))
 
-[^key-8d980487da629fcb354d4ca782f14a04]: Commencement: Art. 3 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-8d980487da629fcb354d4ca782f14a04]: Commencement: Art. 3 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
-[^key-a5b263eec49202d633c9816a39aafa26]: Commencement: Art. 4 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-a5b263eec49202d633c9816a39aafa26]: Commencement: Art. 4 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
-[^key-46ac316d2fac5955e2abd22c11e28c13]: Commencement: Art. 5 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-46ac316d2fac5955e2abd22c11e28c13]: Commencement: Art. 5 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
-[^key-4aae26c6a5cef1077473610cbf80cb3d]: Commencement: Art. 6 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-4aae26c6a5cef1077473610cbf80cb3d]: Commencement: Art. 6 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
-[^key-ce221caf81c2ca86c6095bc81554dfb1]: Commencement: Art. 7 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-ce221caf81c2ca86c6095bc81554dfb1]: Commencement: Art. 7 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
 [^f00010]: Footnote: [1841 c. 30](https://www.legislation.gov.uk/ukpga/1841/30).
 
-[^key-b5a0ee534983e31009e480e3a6d1f679]: Commencement: Art. 8 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-b5a0ee534983e31009e480e3a6d1f679]: Commencement: Art. 8 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
 [^f00011]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-7aefed722a9d12be929f83899f4cb124]: Commencement: Art. 9 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-7aefed722a9d12be929f83899f4cb124]: Commencement: Art. 9 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
-[^key-5456378143eeb8a6ff9561e8d546fdea]: Commencement: Art. 10 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-5456378143eeb8a6ff9561e8d546fdea]: Commencement: Art. 10 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
-[^key-8338b110c099b4bd157072358e1c6413]: Commencement: Art. 11 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-8338b110c099b4bd157072358e1c6413]: Commencement: Art. 11 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
-[^key-faa1164ff76423cc9d6afaccfa24f26b]: Commencement: Art. 12 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-faa1164ff76423cc9d6afaccfa24f26b]: Commencement: Art. 12 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
-[^key-a2a136a7a60d3abfbc909c39d39c4e95]: Commencement: Art. 13 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-a2a136a7a60d3abfbc909c39d39c4e95]: Commencement: Art. 13 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
-[^key-86cb4ad707f6f4462e7b6cc305a1526f]: Commencement: Art. 14 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-86cb4ad707f6f4462e7b6cc305a1526f]: Commencement: Art. 14 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
-[^key-068b7653c07190bfd375eb4444efee84]: Commencement: Art. 15 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-068b7653c07190bfd375eb4444efee84]: Commencement: Art. 15 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
-[^key-ab41107fed3be22d669fb9aa909dd268]: Commencement: Art. 16 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-ab41107fed3be22d669fb9aa909dd268]: Commencement: Art. 16 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
-[^key-abb2c7f95bf3f111a5aee3cc2caaf160]: Commencement: Art. 17 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-abb2c7f95bf3f111a5aee3cc2caaf160]: Commencement: Art. 17 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
-[^key-fd637cd9dd702cc78671479eab5ac672]: Commencement: Art. 18 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-fd637cd9dd702cc78671479eab5ac672]: Commencement: Art. 18 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
 [^f00012]: Footnote: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57); section 109 was amended by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), section 120(1) and Schedule 22, paragraph 128, by the Marine and Coastal Access Act [2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23), section 82 and by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755), article 4(1) and Schedule 2 Part 1, paragraphs 264 and 274(b).
 
 [^f00013]: Footnote: [1991 c.59](https://www.legislation.gov.uk/ukpga/1991/59).
 
-[^key-57fd8be50fedbc2fb81ea8280ff40648]: Commencement: Art. 19 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
+[^c-57fd8be50fedbc2fb81ea8280ff40648]: Commencement: Art. 19 in force at 10.7.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/1/1)
 
-[^key-97622a5abb9d97879e1cd7b6fb2f76ba]: Textual amendment: Words in [art. 19](https://www.legislation.gov.uk/uksi/2015/1390/article/19) heading substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 58(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/58/a)
+[^c-97622a5abb9d97879e1cd7b6fb2f76ba]: Textual amendment: Words in [art. 19](https://www.legislation.gov.uk/uksi/2015/1390/article/19) heading substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 58(a)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/58/a)
 
-[^key-5ad50e9496ea35ee60709ae9e608b4fc]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/19/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 58(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/58/b)
+[^c-5ad50e9496ea35ee60709ae9e608b4fc]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/uksi/2015/1390/article/19/1) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 58(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/58/b)
 
 [^f00015]: Footnote: [S.I. 1995/418](https://www.legislation.gov.uk/uksi/1995/418)..
 
-[^key-8a84dad1c7e22102d400485a434299cb]: Textual amendment: Words in [art. 19(2)(a)](https://www.legislation.gov.uk/uksi/2015/1390/article/19/2/a) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 58(c)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/58/c)
+[^c-8a84dad1c7e22102d400485a434299cb]: Textual amendment: Words in [art. 19(2)(a)](https://www.legislation.gov.uk/uksi/2015/1390/article/19/2/a) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 58(c)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/58/c)

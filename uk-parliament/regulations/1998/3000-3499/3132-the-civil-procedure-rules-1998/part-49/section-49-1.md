@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49.1. Practice directions for specific proceedings[^key-903c10fc18cb2aba4933c158a000461c]
+## 49.1. Practice directions for specific proceedings[^c-903c10fc18cb2aba4933c158a000461c]
 
 *Extent: E+W*
 
-The practice directions made under this Rule apply to proceedings of the types described in them and may modify or disapply any provision of these Rules in connection with those proceedings[^key-1ebd0352224fe86d5cbeb7ffb19c6460].
+The practice directions made under this Rule apply to proceedings of the types described in them and may modify or disapply any provision of these Rules in connection with those proceedings[^c-1ebd0352224fe86d5cbeb7ffb19c6460].
 
 ## Annotations
 
-[^key-903c10fc18cb2aba4933c158a000461c]: Textual amendment: Pt. 49 substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rule 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/783/schedule/2)
+[^c-903c10fc18cb2aba4933c158a000461c]: Textual amendment: Pt. 49 substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rule 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/783/schedule/2)
 
-[^key-1ebd0352224fe86d5cbeb7ffb19c6460]: Textual amendment: Words in rule 49.1 inserted (6.4.2025) by [The Civil Procedure (Amendment) Rules 2025 (S.I. 2025/106)](https://www.legislation.gov.uk/uksi/2025/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/106/rule/1/1), [11](https://www.legislation.gov.uk/uksi/2025/106/rule/11)
+[^c-1ebd0352224fe86d5cbeb7ffb19c6460]: Textual amendment: Words in rule 49.1 inserted (6.4.2025) by [The Civil Procedure (Amendment) Rules 2025 (S.I. 2025/106)](https://www.legislation.gov.uk/uksi/2025/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/106/rule/1/1), [11](https://www.legislation.gov.uk/uksi/2025/106/rule/11)

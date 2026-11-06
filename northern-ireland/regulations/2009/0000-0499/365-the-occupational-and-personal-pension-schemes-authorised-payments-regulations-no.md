@@ -42,13 +42,13 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 8C(1)(c), 17(1), 24(4), 28A(2)(c), 67(6), 97C(2), 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], Articles 74(3)(e), 89(5)(c)(ii) and (iii) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002] and Article 73(4) of, and paragraph 7(4) of Schedule 5 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00003], and now vested in it[^f00004].
 
-## 1. Citation, commencement and interpretation[^key-99e8929369fd989291e3647b660b2126]
+## 1. Citation, commencement and interpretation[^c-99e8929369fd989291e3647b660b2126]
 
 (1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Authorised Payments) Regulations (Northern Ireland) 2009 and shall come into operation on 1st December 2009.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^key-cd76c6d5bfaa5006e9bf09c91b0013d1]
+## 2. Amendment of the Occupational Pension Schemes (Preservation of Benefit) Regulations[^c-cd76c6d5bfaa5006e9bf09c91b0013d1]
 
 For regulation 5 of the Occupational Pension Schemes (Preservation of Benefit) Regulations (Northern Ireland) 1991[^f00006] (short service benefit in lump sum form) substitute—
 
@@ -64,7 +64,7 @@ For regulation 5 of the Occupational Pension Schemes (Preservation of Benefit) R
 
 .
 
-## 3. Amendment of the Occupational Pension Schemes (Discharge of Protected Rights on Winding Up) Regulations[^key-efcfb2dd98903b9a5c39cb44cd04e1e8]
+## 3. Amendment of the Occupational Pension Schemes (Discharge of Protected Rights on Winding Up) Regulations[^c-efcfb2dd98903b9a5c39cb44cd04e1e8]
 
 In regulation 5 of the Occupational Pension Schemes (Discharge of Protected Rights on Winding Up) Regulations (Northern Ireland) 1996[^f00009] (conditions upon which appropriate policies of insurance may be commuted)—
 
@@ -79,11 +79,11 @@ In regulation 5 of the Occupational Pension Schemes (Discharge of Protected Righ
 
   .
 
-## 4. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^key-e3812fafc9f2d0b04f8311b07e66494a]
+## 4. Amendment of the Occupational Pension Schemes (Contracting-out) Regulations[^c-e3812fafc9f2d0b04f8311b07e66494a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Occupational Pension Schemes (Winding Up) Regulations[^key-817752b742be1768985175bd70f9ee4a]
+## 5. Amendment of the Occupational Pension Schemes (Winding Up) Regulations[^c-817752b742be1768985175bd70f9ee4a]
 
 In regulation 8(6)(b) of the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00013] (requirements to be satisfied by transferee schemes, annuities, etc.) for head (i) substitute—
 
@@ -93,7 +93,7 @@ In regulation 8(6)(b) of the Occupational Pension Schemes (Winding Up) Regulatio
 
 .
 
-## 6. Amendment of the Personal and Occupational Pension Schemes (Protected Rights) Regulations[^key-f7c618a20e19ff6328476ac2db897719]
+## 6. Amendment of the Personal and Occupational Pension Schemes (Protected Rights) Regulations[^c-f7c618a20e19ff6328476ac2db897719]
 
 In regulation 8 of the Personal and Occupational Pension Schemes (Protected Rights) Regulations (Northern Ireland) 1997[^f00015] (giving effect to protected rights by the provision of a lump sum)—
 
@@ -108,7 +108,7 @@ In regulation 8 of the Personal and Occupational Pension Schemes (Protected Righ
 
   .
 
-## 7. Amendment of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations[^key-ba45d09a21553cb641d7dc439a5497c8]
+## 7. Amendment of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations[^c-ba45d09a21553cb641d7dc439a5497c8]
 
 In regulation 2(1)(a) of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations (Northern Ireland) 1997[^f00017] (commutation of a pension under an occupational pension scheme)—
 
@@ -121,7 +121,7 @@ In regulation 2(1)(a) of the Occupational Pension Schemes (Assignment, Forfeitur
 
   .
 
-## 8. Amendment of the Pension Sharing (Implementation and Discharge of Liability) Regulations[^key-98d9ca5f289ed2b97b9a66888efa0828]
+## 8. Amendment of the Pension Sharing (Implementation and Discharge of Liability) Regulations[^c-98d9ca5f289ed2b97b9a66888efa0828]
 
 In regulation 15 of the Pension Sharing (Implementation and Discharge of Liability) Regulations (Northern Ireland) 2000[^f00018] (disqualification as a destination for pension credit – annuity contracts and insurance policies)—
 
@@ -143,7 +143,7 @@ In regulation 15 of the Pension Sharing (Implementation and Discharge of Liabili
 
   .
 
-## 9. Amendment of the Pension Sharing (Pension Credit Benefit) Regulations[^key-a764951d281cb92eb576b22997aa08a8]
+## 9. Amendment of the Pension Sharing (Pension Credit Benefit) Regulations[^c-a764951d281cb92eb576b22997aa08a8]
 
 For regulation 3 of the Pension Sharing (Pension Credit Benefit) Regulations (Northern Ireland) 2000[^f00019] (pension credit benefit in lump sum form) substitute—
 
@@ -159,7 +159,7 @@ For regulation 3 of the Pension Sharing (Pension Credit Benefit) Regulations (No
 
 .
 
-## 10. Revocations[^key-cb95ceb48ad16d2a8db742c71aa0bd3f]
+## 10. Revocations[^c-cb95ceb48ad16d2a8db742c71aa0bd3f]
 
 The following regulations are revoked—
 
@@ -197,11 +197,11 @@ As these Regulations, in so far as they are made under Part II of the Pensions (
 
 [^f00004]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-99e8929369fd989291e3647b660b2126]: Commencement: Reg. 1 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+[^c-99e8929369fd989291e3647b660b2126]: Commencement: Reg. 1 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-cd76c6d5bfaa5006e9bf09c91b0013d1]: Commencement: Reg. 2 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+[^c-cd76c6d5bfaa5006e9bf09c91b0013d1]: Commencement: Reg. 2 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37); regulation 5 was substituted by regulation 3(2) of [S.R. 2007 No. 185](https://www.legislation.gov.uk/nisr/2007/185)
 
@@ -209,37 +209,37 @@ As these Regulations, in so far as they are made under Part II of the Pensions (
 
 [^f00008]: Footnote: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171)
 
-[^key-efcfb2dd98903b9a5c39cb44cd04e1e8]: Commencement: Reg. 3 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+[^c-efcfb2dd98903b9a5c39cb44cd04e1e8]: Commencement: Reg. 3 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 1996 No. 94](https://www.legislation.gov.uk/nisr/1996/94); regulation 5 was substituted by Article 27(2) of [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744)
 
-[^key-e3812fafc9f2d0b04f8311b07e66494a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/365/regulation/4) revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) Regulations (Northern Ireland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
+[^c-e3812fafc9f2d0b04f8311b07e66494a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/365/regulation/4) revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) Regulations (Northern Ireland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
 
-[^key-817752b742be1768985175bd70f9ee4a]: Commencement: Reg. 5 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+[^c-817752b742be1768985175bd70f9ee4a]: Commencement: Reg. 5 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621); regulation 8(6) was added by regulation 11 of [S.R. 2005 No. 171](https://www.legislation.gov.uk/nisr/2005/171) and amended by regulation 2 of [S.R. 2007 No. 338](https://www.legislation.gov.uk/nisr/2007/338)
 
 [^f00014]: Footnote: *See* paragraphs 7 to 10 of Schedule 29
 
-[^key-f7c618a20e19ff6328476ac2db897719]: Commencement: Reg. 6 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+[^c-f7c618a20e19ff6328476ac2db897719]: Commencement: Reg. 6 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1997 No. 56](https://www.legislation.gov.uk/nisr/1997/56); relevant amending provisions are [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744) and [S.I. 2007/829](https://www.legislation.gov.uk/uksi/2007/829)
 
 [^f00016]: Footnote: Paragraph (1) was substituted with paragraphs (1) to (1F) by Article 32(3) of [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744) and paragraph (1D) was substituted by Article 5(b) of [S.I. 2007/829](https://www.legislation.gov.uk/uksi/2007/829)
 
-[^key-ba45d09a21553cb641d7dc439a5497c8]: Commencement: Reg. 7 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+[^c-ba45d09a21553cb641d7dc439a5497c8]: Commencement: Reg. 7 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
 
 [^f00017]: Footnote: [S.R. 1997 No. 153](https://www.legislation.gov.uk/nisr/1997/153); regulation 2(1) was substituted by Article 33(3)(a) of [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744)
 
-[^key-98d9ca5f289ed2b97b9a66888efa0828]: Commencement: Reg. 8 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+[^c-98d9ca5f289ed2b97b9a66888efa0828]: Commencement: Reg. 8 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
 
 [^f00018]: Footnote: [S.R. 2000 No. 145](https://www.legislation.gov.uk/nisr/2000/145); regulation 15 was amended by paragraph 4 of Schedule 1 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536) and Article 37(4) of [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744)
 
-[^key-a764951d281cb92eb576b22997aa08a8]: Commencement: Reg. 9 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+[^c-a764951d281cb92eb576b22997aa08a8]: Commencement: Reg. 9 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
 
 [^f00019]: Footnote: [S.R. 2000 No. 146](https://www.legislation.gov.uk/nisr/2000/146); regulation 3 was substituted by regulation 14(3) of [S.R. 2009 No. 115](https://www.legislation.gov.uk/nisr/2009/115)
 
-[^key-cb95ceb48ad16d2a8db742c71aa0bd3f]: Commencement: Reg. 10 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
+[^c-cb95ceb48ad16d2a8db742c71aa0bd3f]: Commencement: Reg. 10 in operation at 1.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/365/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 2007 No. 185](https://www.legislation.gov.uk/nisr/2007/185)
 

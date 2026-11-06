@@ -107,7 +107,7 @@ Section 10 of the Act (functions exercisable by the Determinations Panel) shall,
 
 Subject to the transitional provisions in Schedule 2, the provisions of the enactments that are specified in the table in Schedule 3 shall, so far as is required for the purpose of giving effect to paragraph (3) of article 5, continue to have effect as they were in force immediately before their amendment by any of the provisions of Part 1 of, and Schedule 12 to, the Act.
 
-**6A.**[^key-c6470b7f42b3073d86367ce7919bf980] (1) Notwithstanding the repeals of section 74 of the 1995 Act (discharge of liabilities by insurance, etc. ) mentioned in Schedule 1, that section shall continue to have effect as it applied immediately before 6th April 2005 to any scheme which—
+**6A.**[^c-c6470b7f42b3073d86367ce7919bf980] (1) Notwithstanding the repeals of section 74 of the 1995 Act (discharge of liabilities by insurance, etc. ) mentioned in Schedule 1, that section shall continue to have effect as it applied immediately before 6th April 2005 to any scheme which—
 
 - (a) was regarded at that time by virtue of regulation 2 of the Occupational Pension Schemes (Winding Up) Regulations 1996 (commencement of winding up) as having begun to be wound up for the purposes of those Regulations; or
 - (b) in accordance with section 124(3A) to (3E) of the 1995 Act (interpretation: time at which the winding up of an occupational pension scheme shall be taken to begin) began to wind up before that date.
@@ -204,7 +204,7 @@ Provisions referred to in article 6 which are to continue to have effect as they
 | Section 101 | Information and inspection: penalties |
 | Section 102 | Savings for certain privileges etc. |
 | Section 103 | Publishing reports |
-| Section 124(1)[^key-8dc20afd83259da7eed5dce2b840cdfc] | Interpretation of Part 1 |
+| Section 124(1)[^c-8dc20afd83259da7eed5dce2b840cdfc] | Interpretation of Part 1 |
 | Schedule 1, paragraph 16 | Accounts |
 
 *(This note is not part of the Order)*
@@ -565,6 +565,6 @@ The following provisions of the Pensions Act 2004 have been brought into force o
 
 [^c1134036]: Marginal citation: Section 7(1) of the Pensions Act 2004 makes provision in respect of the transfer to the Pensions Regulator of the functions of the Occupational Pensions Regulatory Authority which are conferred by or by virtue of the Pension Schemes Act 1993, the [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26) and the Welfare Reform and Pensions Act 1999.
 
-[^key-c6470b7f42b3073d86367ce7919bf980]: Textual amendment: Art. 6A inserted (5.4.2005) by [Pensions Act 2004 (Commencement No.4 and Amendment) Order 2005 (S.I. 2005/1108)](https://www.legislation.gov.uk/uksi/2005/1108), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/1108/article/3/a)
+[^c-c6470b7f42b3073d86367ce7919bf980]: Textual amendment: Art. 6A inserted (5.4.2005) by [Pensions Act 2004 (Commencement No.4 and Amendment) Order 2005 (S.I. 2005/1108)](https://www.legislation.gov.uk/uksi/2005/1108), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/1108/article/3/a)
 
-[^key-8dc20afd83259da7eed5dce2b840cdfc]: Textual amendment: Words in Sch. 3 inserted (5.4.2005) by [Pensions Act 2004 (Commencement No.4 and Amendment) Order 2005 (S.I. 2005/1108)](https://www.legislation.gov.uk/uksi/2005/1108), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/1108/article/3/b)
+[^c-8dc20afd83259da7eed5dce2b840cdfc]: Textual amendment: Words in Sch. 3 inserted (5.4.2005) by [Pensions Act 2004 (Commencement No.4 and Amendment) Order 2005 (S.I. 2005/1108)](https://www.legislation.gov.uk/uksi/2005/1108), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/1108/article/3/b)

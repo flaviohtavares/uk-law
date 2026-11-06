@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Costs connected with making an offer of connection[^key-a24c0cefbfdc8076a88495eea5c6c258]
+## 98. Costs connected with making an offer of connection[^c-a24c0cefbfdc8076a88495eea5c6c258]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a24c0cefbfdc8076a88495eea5c6c258]: Commencement: S. 98 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(v)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/v)
+[^c-a24c0cefbfdc8076a88495eea5c6c258]: Commencement: S. 98 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(d)(v)](https://www.legislation.gov.uk/uksi/2009/45/article/2/d/v)

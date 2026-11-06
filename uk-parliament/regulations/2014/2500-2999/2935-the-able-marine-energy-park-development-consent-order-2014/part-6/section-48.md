@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Arrangements with Her Majesty’s Revenue and Customs[^key-75b750bde8a2a5cf96f69eab68fa0359]
+## 48. Arrangements with Her Majesty’s Revenue and Customs[^c-75b750bde8a2a5cf96f69eab68fa0359]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker and Her Majesty’s Revenue and Customs may enter into any such a
 
 ## Annotations
 
-[^key-75b750bde8a2a5cf96f69eab68fa0359]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2014/2935/article/48) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-75b750bde8a2a5cf96f69eab68fa0359]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2014/2935/article/48) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

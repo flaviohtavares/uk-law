@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Records for approved laboratories[^key-3a138b8af2876da48cf877e945ed76a6]
+## 37. Records for approved laboratories[^c-3a138b8af2876da48cf877e945ed76a6]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a138b8af2876da48cf877e945ed76a6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/495) revoked (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2011/124/schedule/3/paragraph/1)
+[^c-3a138b8af2876da48cf877e945ed76a6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/495) revoked (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2011/124/schedule/3/paragraph/1)

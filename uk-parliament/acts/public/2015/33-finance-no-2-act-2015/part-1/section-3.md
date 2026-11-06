@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Personal allowance and national minimum wage[^key-ab74f145f2f3ff62a661bf7020a3e026]
+## 3. Personal allowance and national minimum wage[^c-ab74f145f2f3ff62a661bf7020a3e026]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab74f145f2f3ff62a661bf7020a3e026]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/2015/33/section/3) omitted (12.2.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/5/4/b)
+[^c-ab74f145f2f3ff62a661bf7020a3e026]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/2015/33/section/3) omitted (12.2.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 5(4)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/5/4/b)

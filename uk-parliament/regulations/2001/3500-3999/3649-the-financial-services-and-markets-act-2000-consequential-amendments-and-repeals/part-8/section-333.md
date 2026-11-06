@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 333. Application of section 19 to employers' associations[^key-7bd6c544c34783b5ebd7ab79e842d6a9]
+## 333. Application of section 19 to employers' associations[^c-7bd6c544c34783b5ebd7ab79e842d6a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 129(3) of the Trade Union and Labour Relations (Consolidation) Act 19
 
 ## Annotations
 
-[^key-7bd6c544c34783b5ebd7ab79e842d6a9]: Commencement: Art. 333 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7bd6c544c34783b5ebd7ab79e842d6a9]: Commencement: Art. 333 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

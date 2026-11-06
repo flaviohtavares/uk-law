@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Treatment of charitable or voluntary payments[^key-0d9fccab1eaa4fb057bd33d310e6954e][^key-05b4c3535f3fbe6de77a2959189c12c2]
+## 17. Treatment of charitable or voluntary payments[^c-0d9fccab1eaa4fb057bd33d310e6954e][^c-05b4c3535f3fbe6de77a2959189c12c2]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d9fccab1eaa4fb057bd33d310e6954e]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/1988/1890/regulation/17) omitted (1.4.1989) by virtue of [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [5](https://www.legislation.gov.uk/uksi/1989/361/regulation/5)
+[^c-0d9fccab1eaa4fb057bd33d310e6954e]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/1988/1890/regulation/17) omitted (1.4.1989) by virtue of [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [5](https://www.legislation.gov.uk/uksi/1989/361/regulation/5)
 
-[^key-05b4c3535f3fbe6de77a2959189c12c2]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1988/1890/regulation/17) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-05b4c3535f3fbe6de77a2959189c12c2]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1988/1890/regulation/17) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

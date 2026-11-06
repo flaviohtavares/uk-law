@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Restriction on which third parties may incur controlled expenditure[^key-eb068eba4a2d615bb1e431fac3231451][^key-95ddfec7baeb8cd41a46a239c6b30a84]
+## 36. Restriction on which third parties may incur controlled expenditure[^c-eb068eba4a2d615bb1e431fac3231451][^c-95ddfec7baeb8cd41a46a239c6b30a84]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb068eba4a2d615bb1e431fac3231451]: Commencement: S. 36 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-eb068eba4a2d615bb1e431fac3231451]: Commencement: S. 36 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-95ddfec7baeb8cd41a46a239c6b30a84]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2024/5/section/36) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(k)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/k)
+[^c-95ddfec7baeb8cd41a46a239c6b30a84]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2024/5/section/36) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(k)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/k)

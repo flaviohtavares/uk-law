@@ -55,7 +55,7 @@ so as to be received in the Office not later than \[[^f00290] 28 days before the
 
 (9) The chief clerk may make and issue to any party, or any person interested, a copy of the order.
 
-(10)[^key-8d07b39621587b5a84244692103bc987] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-8d07b39621587b5a84244692103bc987] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) Subject to the provisions of this Rule, \[[^f00291] the judge\] shall, in relation to an appeal, have the like powers and authorities as he has in the exercise of the jurisdiction of the court in equity matters.
 
@@ -79,6 +79,6 @@ so as to be received in the Office not later than \[[^f00290] 28 days before the
 
 [^f00290]: Footnote: Words substituted by [S.R. 1995 No. 151](https://www.legislation.gov.uk/nisr/1995/151) with effect from 01.09.95
 
-[^key-8d07b39621587b5a84244692103bc987]: Textual amendment: Order 32 rule 1(10) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(a)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-8d07b39621587b5a84244692103bc987]: Textual amendment: Order 32 rule 1(10) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(a)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
 [^f00291]: Footnote: Words amended by [S.R. 2013 No. 19](https://www.legislation.gov.uk/nisr/2013/19) with effect from 25.02.13

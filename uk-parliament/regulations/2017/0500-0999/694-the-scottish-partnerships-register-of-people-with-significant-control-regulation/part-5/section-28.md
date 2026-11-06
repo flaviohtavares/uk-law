@@ -25,8 +25,8 @@ summary: ''
 - (a) an eligible Scottish partnership has given a notice under regulation 11, and
 - (b) the addressee of the notice has failed to comply with the notice within the time specified in it (the “specified time”).
 
-(2)[^key-8b362a67a3bb52033fa009510cb41901] The eligible Scottish partnership must deliver to the registrar within the period of 14 days beginning with the day after the end of the specified time a statement that it has given a notice under regulation 11 which has not been complied with.
+(2)[^c-8b362a67a3bb52033fa009510cb41901] The eligible Scottish partnership must deliver to the registrar within the period of 14 days beginning with the day after the end of the specified time a statement that it has given a notice under regulation 11 which has not been complied with.
 
 ## Annotations
 
-[^key-8b362a67a3bb52033fa009510cb41901]: Modification: [Reg. 28(2)](https://www.legislation.gov.uk/uksi/2017/694/regulation/28/2) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [31](https://www.legislation.gov.uk/uksi/2020/645/regulation/31)
+[^c-8b362a67a3bb52033fa009510cb41901]: Modification: [Reg. 28(2)](https://www.legislation.gov.uk/uksi/2017/694/regulation/28/2) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [31](https://www.legislation.gov.uk/uksi/2020/645/regulation/31)

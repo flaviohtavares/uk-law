@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Elected representatives responding to requests[^key-1b3cdc00c33d6991ed7e74156d44008c][^key-1ef1e38d7ff7c5ef5b1a57d299cccf99]
+## 73. Elected representatives responding to requests[^c-1b3cdc00c33d6991ed7e74156d44008c][^c-1ef1e38d7ff7c5ef5b1a57d299cccf99]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In paragraph 23 of Schedule 1 to the 2018 Act (processing of special categories 
 
 ## Annotations
 
-[^key-1b3cdc00c33d6991ed7e74156d44008c]: Commencement: S. 73 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-1b3cdc00c33d6991ed7e74156d44008c]: Commencement: S. 73 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-1ef1e38d7ff7c5ef5b1a57d299cccf99]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2025/18/section/73) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/f)
+[^c-1ef1e38d7ff7c5ef5b1a57d299cccf99]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2025/18/section/73) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/f)

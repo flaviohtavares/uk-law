@@ -41,7 +41,7 @@ or on the joint application of more than one such individual.
 (5) The individuals who are entitled to apply for a special guardianship order with respect to a child are—
 
 - (a) any guardian of the child;
-- (b) any individual who is named in a child arrangements order as a person with whom the child is to live;[^key-70b83d956520d6f7eeba1ead180ff260]
+- (b) any individual who is named in a child arrangements order as a person with whom the child is to live;[^c-70b83d956520d6f7eeba1ead180ff260]
 - (c) any individual listed in subsection (5)(b) or (c) of section 10 (as read with subsection (10) of that section);
 - (d) a local authority foster parent with whom the child has lived for a period of at least one year immediately preceding the application.;[^c19934921]
 - (e) a relative with whom the child has lived for a period of at least one year immediately preceding the application.
@@ -76,7 +76,7 @@ or on the joint application of more than one such individual.
 
 [^c15160021]: Textual amendment: Ss. 14A-14G inserted (30.12.2005) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 115(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/115/1), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k)
 
-[^key-70b83d956520d6f7eeba1ead180ff260]: Textual amendment: Words in s. 14A(5)(b) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/24); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-70b83d956520d6f7eeba1ead180ff260]: Textual amendment: Words in s. 14A(5)(b) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/24); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
 [^c19934921]: Textual amendment: S. 14A(5)(e) inserted (1.9.2009) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 38](https://www.legislation.gov.uk/ukpga/2008/23/section/38), [44](https://www.legislation.gov.uk/ukpga/2008/23/section/44); [S.I. 2009/1921](https://www.legislation.gov.uk/uksi/2009/1921), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1921/article/2/c); [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(l)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/l)
 

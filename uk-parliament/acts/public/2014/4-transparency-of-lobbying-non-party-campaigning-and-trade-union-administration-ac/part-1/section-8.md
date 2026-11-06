@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Duty to monitor[^key-ce651fc1740277c16aaf186c84ea4b85]
+## 8. Duty to monitor[^c-ce651fc1740277c16aaf186c84ea4b85]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Registrar must monitor compliance with the obligations imposed by or under t
 
 ## Annotations
 
-[^key-ce651fc1740277c16aaf186c84ea4b85]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/4/section/8) in force at 1.4.2015 by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)
+[^c-ce651fc1740277c16aaf186c84ea4b85]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2014/4/section/8) in force at 1.4.2015 by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)

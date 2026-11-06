@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Code for school admissions[^key-fd67adb9e7e6bcd66bbfac35c351cd0f][^key-7973fbd2b15e9e9dd1da844805b44343]
+## 40. Code for school admissions[^c-fd67adb9e7e6bcd66bbfac35c351cd0f][^c-7973fbd2b15e9e9dd1da844805b44343]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd67adb9e7e6bcd66bbfac35c351cd0f]: Commencement: S. 40 in force at 12.12.2006 for E. by [S.I. 2006/2990](https://www.legislation.gov.uk/uksi/2006/2990), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2990/article/2/a) (with [arts. 3](https://www.legislation.gov.uk/uksi/2006/2990/article/3), [4](https://www.legislation.gov.uk/uksi/2006/2990/article/4)) (as amended (17.1.2008) by [S.I. 2008/54](https://www.legislation.gov.uk/uksi/2008/54), arts. 1(1), 2)
+[^c-fd67adb9e7e6bcd66bbfac35c351cd0f]: Commencement: S. 40 in force at 12.12.2006 for E. by [S.I. 2006/2990](https://www.legislation.gov.uk/uksi/2006/2990), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2990/article/2/a) (with [arts. 3](https://www.legislation.gov.uk/uksi/2006/2990/article/3), [4](https://www.legislation.gov.uk/uksi/2006/2990/article/4)) (as amended (17.1.2008) by [S.I. 2008/54](https://www.legislation.gov.uk/uksi/2008/54), arts. 1(1), 2)
 
-[^key-7973fbd2b15e9e9dd1da844805b44343]: Commencement: S. 40 in force at 1.9.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(3)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/1429/article/4))
+[^c-7973fbd2b15e9e9dd1da844805b44343]: Commencement: S. 40 in force at 1.9.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(3)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/1429/article/4))

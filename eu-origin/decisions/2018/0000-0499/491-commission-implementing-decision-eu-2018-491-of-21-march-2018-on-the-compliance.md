@@ -37,16 +37,16 @@ on the compliance of the joint proposal submitted by the Member States concerned
 
 (Only the Dutch, English and French texts are authentic) (revoked)
 
-[^key-2020f19473415f22f7edf3d727691916]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2020f19473415f22f7edf3d727691916]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-2020f19473415f22f7edf3d727691916] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2020f19473415f22f7edf3d727691916] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2020f19473415f22f7edf3d727691916] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2020f19473415f22f7edf3d727691916] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2020f19473415f22f7edf3d727691916]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2020f19473415f22f7edf3d727691916]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2020f19473415f22f7edf3d727691916]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)
+[^c-2020f19473415f22f7edf3d727691916]: Textual amendment: Decision revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)

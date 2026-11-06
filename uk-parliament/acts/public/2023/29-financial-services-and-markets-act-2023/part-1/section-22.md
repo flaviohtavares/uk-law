@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Digital settlement assets[^key-2047430f92fe44e6252e3ece2ca51e5a]
+## 22. Digital settlement assets[^c-2047430f92fe44e6252e3ece2ca51e5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Schedule 6, which provides for the regulation of digital settlement assets—
 
 ## Annotations
 
-[^key-2047430f92fe44e6252e3ece2ca51e5a]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2023/29/section/22) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)
+[^c-2047430f92fe44e6252e3ece2ca51e5a]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2023/29/section/22) in force at 29.8.2023, see [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a)

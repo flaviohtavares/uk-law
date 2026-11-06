@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Temporary restriction of public rights of way[^key-be46fcb7568df1ce53527bec33df1892]
+## 12. Temporary restriction of public rights of way[^c-be46fcb7568df1ce53527bec33df1892]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be46fcb7568df1ce53527bec33df1892]: Commencement: Art. 12 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-be46fcb7568df1ce53527bec33df1892]: Commencement: Art. 12 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)

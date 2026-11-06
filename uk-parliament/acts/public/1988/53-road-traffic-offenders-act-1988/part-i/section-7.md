@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-bb09bc07bd3382c4ca0cb696788ed760] Where—
+(1)[^c-bb09bc07bd3382c4ca0cb696788ed760] Where—
 
 - (a) a person who is the holder of a licence is prosecuted for an offence involving obligatory or discretionary disqualification,
 - (b) there is a hearing, and
@@ -28,13 +28,13 @@ summary: ''
 
 the person must bring the licence to the hearing.
 
-(1A)[^key-8d35bd1000fee8672e6f05414c1dcdd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-8d35bd1000fee8672e6f05414c1dcdd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1B)[^key-d3ae2c7bcfd8c445ab26f2a44f08e116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-d3ae2c7bcfd8c445ab26f2a44f08e116] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1C)[^key-64f39b84c6659feb26792f0b56c14c5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1C)[^c-64f39b84c6659feb26792f0b56c14c5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-4b5cf7fd41f58f9d1172ae2d2a21f291] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4b5cf7fd41f58f9d1172ae2d2a21f291] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -46,12 +46,12 @@ the person must bring the licence to the hearing.
 
 [^c18157701]: Modification: S. 7 applied with modifications by [S.I. 1987/1378](https://www.legislation.gov.uk/uksi/1987/1378), [reg. 25(3)](https://www.legislation.gov.uk/uksi/1987/1378/regulation/25/3) (as amended by [S.I. 1990/842](https://www.legislation.gov.uk/uksi/1990/842), [reg. 9](https://www.legislation.gov.uk/uksi/1990/842/regulation/9))
 
-[^key-bb09bc07bd3382c4ca0cb696788ed760]: Textual amendment: [S. 7(1)](https://www.legislation.gov.uk/ukpga/1988/53/section/7/1) substituted (30.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 91(2)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/91/2/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-bb09bc07bd3382c4ca0cb696788ed760]: Textual amendment: [S. 7(1)](https://www.legislation.gov.uk/ukpga/1988/53/section/7/1) substituted (30.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 91(2)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/91/2/a), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-8d35bd1000fee8672e6f05414c1dcdd1]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/ukpga/1988/53/section/7/1A) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 91(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/91/2/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-8d35bd1000fee8672e6f05414c1dcdd1]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/ukpga/1988/53/section/7/1A) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 91(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/91/2/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-d3ae2c7bcfd8c445ab26f2a44f08e116]: Textual amendment: [S. 7(1B)](https://www.legislation.gov.uk/ukpga/1988/53/section/7/1B) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 91(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/91/2/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-d3ae2c7bcfd8c445ab26f2a44f08e116]: Textual amendment: [S. 7(1B)](https://www.legislation.gov.uk/ukpga/1988/53/section/7/1B) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 91(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/91/2/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-64f39b84c6659feb26792f0b56c14c5c]: Textual amendment: [S. 7(1C)](https://www.legislation.gov.uk/ukpga/1988/53/section/7/1C) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 91(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/91/2/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-64f39b84c6659feb26792f0b56c14c5c]: Textual amendment: [S. 7(1C)](https://www.legislation.gov.uk/ukpga/1988/53/section/7/1C) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 91(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/91/2/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-4b5cf7fd41f58f9d1172ae2d2a21f291]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1988/53/section/7/2) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 91(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/91/2/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-4b5cf7fd41f58f9d1172ae2d2a21f291]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1988/53/section/7/2) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 91(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/91/2/b), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))

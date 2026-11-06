@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. The Matrimonial and Family Proceedings (Northern Ireland) Order 1989[^key-1249244f868b820d34fe11278c9ec038]
+## 64. The Matrimonial and Family Proceedings (Northern Ireland) Order 1989[^c-1249244f868b820d34fe11278c9ec038]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Matrimonial and Family Proceedings (Northern Ireland) Order 1989 [^c23624
 
 ## Annotations
 
-[^key-1249244f868b820d34fe11278c9ec038]: Commencement: Reg. 64 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-1249244f868b820d34fe11278c9ec038]: Commencement: Reg. 64 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23624481]: Marginal citation: [S.I. 1989/677 (N.I. 4)](https://www.legislation.gov.uk/nisi/1989/677), amended by [S.I. 2001/3929](https://www.legislation.gov.uk/uksi/2001/3929), [S.I](https://www.legislation.gov.uk/uksi/2001/3929/section/I). 2011/1484.

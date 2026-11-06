@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Conveyance of prohibited articles into or out of prison[^key-9084eaf7cdaf8a4e45e9644aa063e66f]
+## 22. Conveyance of prohibited articles into or out of prison[^c-9084eaf7cdaf8a4e45e9644aa063e66f]
 
 *Extent: E+W*
 
@@ -142,4 +142,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9084eaf7cdaf8a4e45e9644aa063e66f]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2007/21/section/22) in force at 1.4.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(h)](https://www.legislation.gov.uk/uksi/2008/504/article/3/h)
+[^c-9084eaf7cdaf8a4e45e9644aa063e66f]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2007/21/section/22) in force at 1.4.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(h)](https://www.legislation.gov.uk/uksi/2008/504/article/3/h)

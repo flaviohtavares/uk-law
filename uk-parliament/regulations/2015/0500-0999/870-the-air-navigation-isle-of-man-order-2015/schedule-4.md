@@ -22,15 +22,15 @@ summary: ''
 
 Article 34
 
-**1.**[^key-ee10f5ca1698d50616a0c3e778cba102] Subject to paragraph 2, every aircraft which must carry equipment specified in this Schedule must be provided, when flying in the circumstances specified in the first column of the Table in paragraph 5 of this Schedule, with the scales of equipment respectively indicated in the second column of that Table.
+**1.**[^c-ee10f5ca1698d50616a0c3e778cba102] Subject to paragraph 2, every aircraft which must carry equipment specified in this Schedule must be provided, when flying in the circumstances specified in the first column of the Table in paragraph 5 of this Schedule, with the scales of equipment respectively indicated in the second column of that Table.
 
-**2.**[^key-141e45f9f528995a6b08169afe2c9280] In the case of sub-paragraphs (1), (3), (4), (5), (6), (8) and (9) of paragraph 5, the specified equipment need not be carried if the appropriate air traffic control unit permits flight to commence without that equipment and the aircraft complies with any instructions which the air traffic control unit may give in the particular case.
+**2.**[^c-141e45f9f528995a6b08169afe2c9280] In the case of sub-paragraphs (1), (3), (4), (5), (6), (8) and (9) of paragraph 5, the specified equipment need not be carried if the appropriate air traffic control unit permits flight to commence without that equipment and the aircraft complies with any instructions which the air traffic control unit may give in the particular case.
 
-**3.**[^key-e56fc798bec87f9c691203539b6d7b26] An aircraft which is not a commercial air transport aeroplane or a commercial air transport aircraft and which is flying in Class D or Class E airspace need not carry distance measuring equipment in accordance with paragraph (b) of Scale F when flying in the circumstances specified in sub-paragraph (1)(a) of paragraph 5.
+**3.**[^c-e56fc798bec87f9c691203539b6d7b26] An aircraft which is not a commercial air transport aeroplane or a commercial air transport aircraft and which is flying in Class D or Class E airspace need not carry distance measuring equipment in accordance with paragraph (b) of Scale F when flying in the circumstances specified in sub-paragraph (1)(a) of paragraph 5.
 
-**4.**[^key-7079f3724e1fde4bead1b91eb18f0abd] If an aircraft is flying in a combination of circumstances specified in the first column of the Table in paragraph 5 the scales of equipment are not on that account required to be duplicated.
+**4.**[^c-7079f3724e1fde4bead1b91eb18f0abd] If an aircraft is flying in a combination of circumstances specified in the first column of the Table in paragraph 5 the scales of equipment are not on that account required to be duplicated.
 
-**5.**[^key-73989b361696a8d6ec381c68dc2ea91e] Table
+**5.**[^c-73989b361696a8d6ec381c68dc2ea91e] Table
 
 <table>
 <thead>
@@ -71,9 +71,9 @@ Article 34
 </tbody>
 </table>
 
-[^key-ee4e4cb1a2fde8059a1edf659de6a361]
+[^c-ee4e4cb1a2fde8059a1edf659de6a361]
 
-**6.**[^key-46e9e974779c462b4a8de476b3c13356] The scales of radio communication and radio navigation equipment indicated in the Table at paragraph 3 are as follows—
+**6.**[^c-46e9e974779c462b4a8de476b3c13356] The scales of radio communication and radio navigation equipment indicated in the Table at paragraph 3 are as follows—
 
 **Scale A**
 
@@ -127,7 +127,7 @@ Radio navigation equipment capable of enabling the aircraft to make an approach 
 
 An airborne collision avoidance system.
 
-**7.**[^key-7b4521e0f93f6119e801212d59806e69] In this Schedule—
+**7.**[^c-7b4521e0f93f6119e801212d59806e69] In this Schedule—
 
 - (a) “Airborne collision avoidance system” means an aeroplane system which—
   - (i) conforms to requirements prescribed for the purpose;
@@ -145,18 +145,18 @@ An airborne collision avoidance system.
 
 ## Annotations
 
-[^key-ee10f5ca1698d50616a0c3e778cba102]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/1) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-ee10f5ca1698d50616a0c3e778cba102]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/1) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-141e45f9f528995a6b08169afe2c9280]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/2) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-141e45f9f528995a6b08169afe2c9280]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/2) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-e56fc798bec87f9c691203539b6d7b26]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/3) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-e56fc798bec87f9c691203539b6d7b26]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/3) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-7079f3724e1fde4bead1b91eb18f0abd]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/4) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-7079f3724e1fde4bead1b91eb18f0abd]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/4) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-73989b361696a8d6ec381c68dc2ea91e]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/5) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-73989b361696a8d6ec381c68dc2ea91e]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/5) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-ee4e4cb1a2fde8059a1edf659de6a361]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/5) Table substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [20](https://www.legislation.gov.uk/uksi/2016/155/article/20)
+[^c-ee4e4cb1a2fde8059a1edf659de6a361]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/5) Table substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [20](https://www.legislation.gov.uk/uksi/2016/155/article/20)
 
-[^key-46e9e974779c462b4a8de476b3c13356]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/6) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-46e9e974779c462b4a8de476b3c13356]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/6) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-7b4521e0f93f6119e801212d59806e69]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/7) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-7b4521e0f93f6119e801212d59806e69]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2015/870/schedule/4/paragraph/7) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

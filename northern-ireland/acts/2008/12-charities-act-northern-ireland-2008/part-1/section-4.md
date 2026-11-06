@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Commission must issue guidance in pursuance of its public benefit objective(see paragraph 2 in section 7(3))[^key-0f7978f9180e0b628b3f7816fa258ee1].
+(1) The Commission must issue guidance in pursuance of its public benefit objective(see paragraph 2 in section 7(3))[^c-0f7978f9180e0b628b3f7816fa258ee1].
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f7978f9180e0b628b3f7816fa258ee1]: Textual amendment: Words in s. 4(1) added (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/2)
+[^c-0f7978f9180e0b628b3f7816fa258ee1]: Textual amendment: Words in s. 4(1) added (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61A. Identification of and restrictions at contact premises where mammals are kept[^key-b0dda91c38e1b92d547ade0e5feb2644]
+## 61A. Identification of and restrictions at contact premises where mammals are kept[^c-b0dda91c38e1b92d547ade0e5feb2644]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0dda91c38e1b92d547ade0e5feb2644]: Textual amendment: [Art. 61A](https://www.legislation.gov.uk/wsi/2006/2927/article/61A) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [40](https://www.legislation.gov.uk/wsi/2025/1357/article/40)
+[^c-b0dda91c38e1b92d547ade0e5feb2644]: Textual amendment: [Art. 61A](https://www.legislation.gov.uk/wsi/2006/2927/article/61A) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [40](https://www.legislation.gov.uk/wsi/2025/1357/article/40)

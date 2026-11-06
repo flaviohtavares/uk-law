@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1A — The Scottish Fire and Rescue Service[^key-c16bf8e6db9b0c02fe6291b752646d33]
+## SCHEDULE 1A — The Scottish Fire and Rescue Service[^c-c16bf8e6db9b0c02fe6291b752646d33]
 
 *Extent: S*
 
@@ -86,8 +86,8 @@ summary: ''
 
 - (a) whose estate has been sequestrated and who has not been discharged (or against whom a bankruptcy order has been made and is still in force),
 - (b) who has granted a trust deed for, or made a composition or arrangement with, creditors (and has not been discharged in respect of it),
-- (c) who is the subject of a bankruptcy restrictions order, or an interim bankruptcy restrictions order, made under the Bankruptcy (Scotland) Act 1985 (c.66), the Bankruptcy (Scotland) Act 2016[^key-13ff235220c688590d08d72f25a42e09] or the Insolvency Act 1986 (c.45),
-- (d) who is the subject of a bankruptcy restrictions undertaking entered into under paragraph 7 of Schedule 4A to the Insolvency Act 1986[^key-e787b5bbc5b4bb308ea58caa7aa3987d],
+- (c) who is the subject of a bankruptcy restrictions order, or an interim bankruptcy restrictions order, made under the Bankruptcy (Scotland) Act 1985 (c.66), the Bankruptcy (Scotland) Act 2016[^c-13ff235220c688590d08d72f25a42e09] or the Insolvency Act 1986 (c.45),
+- (d) who is the subject of a bankruptcy restrictions undertaking entered into under paragraph 7 of Schedule 4A to the Insolvency Act 1986[^c-e787b5bbc5b4bb308ea58caa7aa3987d],
 - (e) who has been adjudged bankrupt (and has not been discharged), or
 - (f) who is subject to any other kind of order, arrangement or undertaking analogous to those mentioned in paragraphs (a) to (d), anywhere in the world.
 
@@ -256,8 +256,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c16bf8e6db9b0c02fe6291b752646d33]: Textual amendment: Sch. 1A inserted (8.8.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 101(2)](https://www.legislation.gov.uk/asp/2012/8/section/101/2), [129(1)(b)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/b) (with [s. 122(4)](https://www.legislation.gov.uk/asp/2012/8/section/122/4))
+[^c-c16bf8e6db9b0c02fe6291b752646d33]: Textual amendment: Sch. 1A inserted (8.8.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 101(2)](https://www.legislation.gov.uk/asp/2012/8/section/101/2), [129(1)(b)](https://www.legislation.gov.uk/asp/2012/8/section/129/1/b) (with [s. 122(4)](https://www.legislation.gov.uk/asp/2012/8/section/122/4))
 
-[^key-13ff235220c688590d08d72f25a42e09]: Textual amendment: Words in [sch. 1A para. 5(2)(c)](https://www.legislation.gov.uk/asp/2005/5/schedule/1A/paragraph/5/2/c) inserted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 20](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/20) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-13ff235220c688590d08d72f25a42e09]: Textual amendment: Words in [sch. 1A para. 5(2)(c)](https://www.legislation.gov.uk/asp/2005/5/schedule/1A/paragraph/5/2/c) inserted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 20](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/20) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-e787b5bbc5b4bb308ea58caa7aa3987d]: Textual amendment: Words in sch. 1A para. 5(2)(d) substituted (1.4.2015) by [Bankruptcy and Debt Advice (Scotland) Act 2014 (asp 11)](https://www.legislation.gov.uk/asp/2014/11), [s. 57(2)](https://www.legislation.gov.uk/asp/2014/11/section/57/2), [sch. 3 para. 39](https://www.legislation.gov.uk/asp/2014/11/schedule/3/paragraph/39); [S.S.I. 2014/261](https://www.legislation.gov.uk/ssi/2014/261), [art. 3](https://www.legislation.gov.uk/ssi/2014/261/article/3) (with [arts. 4-7](https://www.legislation.gov.uk/ssi/2014/261/article/4), [12](https://www.legislation.gov.uk/ssi/2014/261/article/12)) (as amended by [S.S.I. 2015/54](https://www.legislation.gov.uk/ssi/2015/54), art. 2)
+[^c-e787b5bbc5b4bb308ea58caa7aa3987d]: Textual amendment: Words in sch. 1A para. 5(2)(d) substituted (1.4.2015) by [Bankruptcy and Debt Advice (Scotland) Act 2014 (asp 11)](https://www.legislation.gov.uk/asp/2014/11), [s. 57(2)](https://www.legislation.gov.uk/asp/2014/11/section/57/2), [sch. 3 para. 39](https://www.legislation.gov.uk/asp/2014/11/schedule/3/paragraph/39); [S.S.I. 2014/261](https://www.legislation.gov.uk/ssi/2014/261), [art. 3](https://www.legislation.gov.uk/ssi/2014/261/article/3) (with [arts. 4-7](https://www.legislation.gov.uk/ssi/2014/261/article/4), [12](https://www.legislation.gov.uk/ssi/2014/261/article/12)) (as amended by [S.S.I. 2015/54](https://www.legislation.gov.uk/ssi/2015/54), art. 2)

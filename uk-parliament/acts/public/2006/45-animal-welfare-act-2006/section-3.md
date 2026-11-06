@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Responsibility for animals[^key-da87c5f1a11d7d3f7505d270b0dc0876][^key-47d857d81a5dda73e7a6f81a99f7f806]
+## 3. Responsibility for animals[^c-da87c5f1a11d7d3f7505d270b0dc0876][^c-47d857d81a5dda73e7a6f81a99f7f806]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da87c5f1a11d7d3f7505d270b0dc0876]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2006/45/section/3) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/a)
+[^c-da87c5f1a11d7d3f7505d270b0dc0876]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2006/45/section/3) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/a)
 
-[^key-47d857d81a5dda73e7a6f81a99f7f806]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2006/45/section/3) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/a)
+[^c-47d857d81a5dda73e7a6f81a99f7f806]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2006/45/section/3) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/a)

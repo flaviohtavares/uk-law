@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 349. Three-year licensing policy[^key-7485fd219725541d30d8fc202278b205]
+## 349. Three-year licensing policy[^c-7485fd219725541d30d8fc202278b205]
 
 *Extent: E+W+S*
 
@@ -47,12 +47,12 @@ summary: ''
 
 (5) In relation to statements prepared under this section by licensing authorities in Scotland, subsection (4) shall have effect as if the reference to the Secretary of State were a reference to the Scottish Ministers.
 
-(6)[^key-468fa1e62bd5a5b67659dfa403e7772c] The Secretary of State shall by order appoint a day as the first day of the first period of three years for the purpose of this section.
+(6)[^c-468fa1e62bd5a5b67659dfa403e7772c] The Secretary of State shall by order appoint a day as the first day of the first period of three years for the purpose of this section.
 
 (7) Where a licensing authority is specified in an order under section 175 they shall ensure that their statement under this section includes the principles that they propose to apply in making determinations under paragraph 5 of Schedule 9.
 
 ## Annotations
 
-[^key-7485fd219725541d30d8fc202278b205]: Commencement: S. 349 in force at 31.3.2006 by [S.I. 2006/631](https://www.legislation.gov.uk/uksi/2006/631), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2006/631/article/2/1/b)
+[^c-7485fd219725541d30d8fc202278b205]: Commencement: S. 349 in force at 31.3.2006 by [S.I. 2006/631](https://www.legislation.gov.uk/uksi/2006/631), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2006/631/article/2/1/b)
 
-[^key-468fa1e62bd5a5b67659dfa403e7772c]: Modification: S. 349(6): 31.1.2007 appointed for the purposes of s. 349 by S.I. 2006/637, art. 2
+[^c-468fa1e62bd5a5b67659dfa403e7772c]: Modification: S. 349(6): 31.1.2007 appointed for the purposes of s. 349 by S.I. 2006/637, art. 2

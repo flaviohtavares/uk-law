@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 480. Dormant companies: conditions for exemption from audit[^c20617661][^key-8e61f15cf264d49ffdc1ed4694297610][^M_C_9016023b-8989-4d9e-8ba6-8b3b743ecf14]
+## 480. Dormant companies: conditions for exemption from audit[^c20617661][^c-8e61f15cf264d49ffdc1ed4694297610][^M_C_9016023b-8989-4d9e-8ba6-8b3b743ecf14]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 [^c20617661]: Modification: Ss. 475-481 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/11) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-8e61f15cf264d49ffdc1ed4694297610]: Modification: S. 480 applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
+[^c-8e61f15cf264d49ffdc1ed4694297610]: Modification: S. 480 applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
 
 [^M_C_9016023b-8989-4d9e-8ba6-8b3b743ecf14]: Modification: Ss. 480, 481 applied (with modifications) (1.10.2008) by [The Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 (S.I. 2008/1911)](https://www.legislation.gov.uk/uksi/2008/1911), [reg. 35](https://www.legislation.gov.uk/uksi/2008/1911/regulation/35) (as amended (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [23](https://www.legislation.gov.uk/uksi/2016/575/regulation/23))

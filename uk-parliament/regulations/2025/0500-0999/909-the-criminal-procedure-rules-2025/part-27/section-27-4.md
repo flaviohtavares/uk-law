@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27.4. Application for order for retrial[^key-b9f8328fd7db867bfbc8e105001f48f6]
+## 27.4. Application for order for retrial[^c-b9f8328fd7db867bfbc8e105001f48f6]
 
 *Extent: E+W*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b9f8328fd7db867bfbc8e105001f48f6]: Commencement: [Rule 27.4](https://www.legislation.gov.uk/uksi/2025/909/rule/27.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b9f8328fd7db867bfbc8e105001f48f6]: Commencement: [Rule 27.4](https://www.legislation.gov.uk/uksi/2025/909/rule/27.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00634]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); Part 1 of Schedule 5 was amended by section 26 of, and paragraph 3 of Schedule 2 to, the Corporate Manslaughter and Corporate Homicide Act [2007 (c. 19)](https://www.legislation.gov.uk/ukpga/2007/19).
 

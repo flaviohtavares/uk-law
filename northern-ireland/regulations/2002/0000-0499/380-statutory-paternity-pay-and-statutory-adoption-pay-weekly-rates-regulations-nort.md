@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Employment and Learning, in exercise of the powers conferred on it by sections 167ZE(1) and 167ZN(1) of the Social Security Contributions and Benefits Act (Northern Ireland) 1992[^f00001] and section 5(1)(m) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and of every other power enabling it in that behalf, hereby, by this Statutory Rule, which contains only regulations made by virtue of the Employment (Northern Ireland) Order 2002[^f00003] and is made before the end of the period of 6 months beginning with the coming into operation of that statutory provision[^f00004], makes the following Regulations–
 
-## 1. Citation and commencement[^key-afa36edde8770c9ba7b2080171fb436d]
+## 1. Citation and commencement[^c-afa36edde8770c9ba7b2080171fb436d]
 
 These Regulations may be cited as the Statutory Paternity Pay and Statutory Adoption Pay (Weekly Rates) Regulations (Northern Ireland) 2002 and shall come into operation on 8th December 2002.
 
-## 2. Weekly rate of payment of statutory paternity pay[^key-367a20182f2cd35bcca15f9b084e6fe7]
+## 2. Weekly rate of payment of statutory paternity pay[^c-367a20182f2cd35bcca15f9b084e6fe7]
 
 (1) Where the paternity pay period begins before 6th April 2003, the weekly rate payable shall be £75·00.
 
@@ -54,14 +54,14 @@ These Regulations may be cited as the Statutory Paternity Pay and Statutory Adop
 - (a) £100·00;
 - (b) 90 per cent. of the normal weekly earnings of the person claiming statutory paternity pay, determined in accordance with regulations 39 and 40 of the Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations (Northern Ireland) 2002[^f00005].
 
-## 3. Weekly rate of payment of statutory adoption pay[^key-62ffbdbfeac69423f88e8d09e873aba5]
+## 3. Weekly rate of payment of statutory adoption pay[^c-62ffbdbfeac69423f88e8d09e873aba5]
 
 The weekly rate of payment of statutory adoption pay shall be the smaller of the following two amounts–
 
 - (a) £100·00;
 - (b) 90 per cent. of the normal weekly earnings of the person claiming statutory adoption pay, determined in accordance with regulations 39 and 40 of the Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations (Northern Ireland) 2002.
 
-## 4. Rounding of fractional amounts[^key-2e4fced1218bee61dd85a87eb59e0a7e]
+## 4. Rounding of fractional amounts[^c-2e4fced1218bee61dd85a87eb59e0a7e]
 
 Where any payment of statutory paternity pay is at the weekly rate specified in regulation 2(2)(b), or any payment of statutory adoption pay is at the weekly rate specified in regulation 3(b), and that amount includes a fraction of a penny, the payment shall be rounded to the next whole number of pence.
 
@@ -93,12 +93,12 @@ Regulation 4 provides for the rounding up of fractional amounts.
 
 [^f00004]: Footnote: *See* section 150(5)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-afa36edde8770c9ba7b2080171fb436d]: Commencement: Reg. 1 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/380/regulation/1)
+[^c-afa36edde8770c9ba7b2080171fb436d]: Commencement: Reg. 1 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/380/regulation/1)
 
-[^key-367a20182f2cd35bcca15f9b084e6fe7]: Commencement: Reg. 2 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/380/regulation/1)
+[^c-367a20182f2cd35bcca15f9b084e6fe7]: Commencement: Reg. 2 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/380/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2002 No. 378](https://www.legislation.gov.uk/nisr/2002/378)
 
-[^key-62ffbdbfeac69423f88e8d09e873aba5]: Commencement: Reg. 3 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/380/regulation/1)
+[^c-62ffbdbfeac69423f88e8d09e873aba5]: Commencement: Reg. 3 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/380/regulation/1)
 
-[^key-2e4fced1218bee61dd85a87eb59e0a7e]: Commencement: Reg. 4 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/380/regulation/1)
+[^c-2e4fced1218bee61dd85a87eb59e0a7e]: Commencement: Reg. 4 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/380/regulation/1)

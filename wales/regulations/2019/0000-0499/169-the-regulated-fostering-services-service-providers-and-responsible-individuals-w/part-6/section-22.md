@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. The appropriate use of control and restraint[^key-4eaf64290559e601792dfebb87f8676c]
+## 22. The appropriate use of control and restraint[^c-4eaf64290559e601792dfebb87f8676c]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4eaf64290559e601792dfebb87f8676c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2019/169/regulation/22) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-4eaf64290559e601792dfebb87f8676c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2019/169/regulation/22) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Duties of the mine operator with regard to escape and rescue[^key-3f53e36292b2996342f740be510e9579]
+## 53. Duties of the mine operator with regard to escape and rescue[^c-3f53e36292b2996342f740be510e9579]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f53e36292b2996342f740be510e9579]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2016/427/regulation/53) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-3f53e36292b2996342f740be510e9579]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2016/427/regulation/53) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

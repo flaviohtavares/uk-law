@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+N.I.*
 
-(1)[^c833535][^c2085363][^c2085687][^c2086288][^key-4aaa5623e0ba8b6288b569eae382dbf3] References in this Part to an application, appeal or other step in relation to legal proceedings being taken “upon notice” to the other parties to the arbitral proceedings, or to the tribunal, are to such notice of the originating process as is required by rules of court and do not impose any separate requirement.
+(1)[^c833535][^c2085363][^c2085687][^c2086288][^c-4aaa5623e0ba8b6288b569eae382dbf3] References in this Part to an application, appeal or other step in relation to legal proceedings being taken “upon notice” to the other parties to the arbitral proceedings, or to the tribunal, are to such notice of the originating process as is required by rules of court and do not impose any separate requirement.
 
-(2)[^c833535][^c2085363][^c2085687][^c2086288][^key-4aaa5623e0ba8b6288b569eae382dbf3] Rules of court shall be made—
+(2)[^c833535][^c2085363][^c2085687][^c2086288][^c-4aaa5623e0ba8b6288b569eae382dbf3] Rules of court shall be made—
 
 - (a) requiring such notice to be given as indicated by any provision of this Part, and
 - (b) as to the manner, form and content of any such notice.
@@ -32,17 +32,17 @@ summary: ''
 - (a) if there is more than one arbitrator, as a requirement to give notice to each of them; and
 - (b) if the tribunal is not fully constituted, as a requirement to give notice to any arbitrator who has been appointed.
 
-(4)[^c833535][^c2085363][^c2085687][^c2086288][^key-aa7ebcc2e9794567c2086ef0d0c994ec] References in this Part to making an application or appeal to the court within a specified period are to the issue within that period of the appropriate originating process in accordance with rules of court.
+(4)[^c833535][^c2085363][^c2085687][^c2086288][^c-aa7ebcc2e9794567c2086ef0d0c994ec] References in this Part to making an application or appeal to the court within a specified period are to the issue within that period of the appropriate originating process in accordance with rules of court.
 
-(5)[^c833535][^c2085363][^c2085687][^c2086288][^key-aa7ebcc2e9794567c2086ef0d0c994ec] Where any provision of this Part requires an application or appeal to be made to the court within a specified time, the rules of court relating to the reckoning of periods, the extending or abridging of periods, and the consequences of not taking a step within the period prescribed by the rules, apply in relation to that requirement.
+(5)[^c833535][^c2085363][^c2085687][^c2086288][^c-aa7ebcc2e9794567c2086ef0d0c994ec] Where any provision of this Part requires an application or appeal to be made to the court within a specified time, the rules of court relating to the reckoning of periods, the extending or abridging of periods, and the consequences of not taking a step within the period prescribed by the rules, apply in relation to that requirement.
 
-(6)[^c833535][^c2085363][^c2085687][^c2086288][^key-aa7ebcc2e9794567c2086ef0d0c994ec] Provision may be made by rules of court amending the provisions of this Part—
+(6)[^c833535][^c2085363][^c2085687][^c2086288][^c-aa7ebcc2e9794567c2086ef0d0c994ec] Provision may be made by rules of court amending the provisions of this Part—
 
 - (a) with respect to the time within which any application or appeal to the court must be made,
 - (b) so as to keep any provision made by this Part in relation to arbitral proceedings in step with the corresponding provision of rules of court applying in relation to proceedings in the court, or
 - (c) so as to keep any provision made by this Part in relation to legal proceedings in step with the corresponding provision of rules of court applying generally in relation to proceedings in the court.
 
-(7)[^c833535][^c2085363][^c2085687][^c2086288][^key-aa7ebcc2e9794567c2086ef0d0c994ec] Nothing in this section affects the generality of the power to make rules of court.
+(7)[^c833535][^c2085363][^c2085687][^c2086288][^c-aa7ebcc2e9794567c2086ef0d0c994ec] Nothing in this section affects the generality of the power to make rules of court.
 
 ## Annotations
 
@@ -54,6 +54,6 @@ summary: ''
 
 [^c2086288]: Modification: S. 80(1)(2)(4)(5)(6)(7) applied (with modifications) (N.I.) (21.5.2006) by [The Labour Relations Agency (Flexible Working) Arbitration Scheme Order (Northern Ireland) 2006 (S.R. 2006/206)](https://www.legislation.gov.uk/nisr/2006/206), [arts. 2](https://www.legislation.gov.uk/nisr/2006/206/article/2), [3](https://www.legislation.gov.uk/nisr/2006/206/article/3), [Sch. para. 122](https://www.legislation.gov.uk/nisr/2006/206/schedule/paragraph/122)
 
-[^key-4aaa5623e0ba8b6288b569eae382dbf3]: Modification: S. 80(1)(2) applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 119](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/119)
+[^c-4aaa5623e0ba8b6288b569eae382dbf3]: Modification: S. 80(1)(2) applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 119](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/119)
 
-[^key-aa7ebcc2e9794567c2086ef0d0c994ec]: Modification: S. 80(4)-(7) applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 119](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/119)
+[^c-aa7ebcc2e9794567c2086ef0d0c994ec]: Modification: S. 80(4)-(7) applied (with modifications) (N.I.) (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [art. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [Sch. para. 119](https://www.legislation.gov.uk/nisr/2012/301/schedule/paragraph/119)

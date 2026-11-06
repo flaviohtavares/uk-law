@@ -45,7 +45,7 @@ Section 44.
 
 #### Disability discrimination
 
-**7.**[^key-e2e989cd14bdda75db26c15f7b66c155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e2e989cd14bdda75db26c15f7b66c155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Jobseeker’s allowance
 
@@ -90,7 +90,7 @@ Section 44.
 
 [^c19008861]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1996/17/schedule/2/paragraph/6) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(b)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/b) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
-[^key-e2e989cd14bdda75db26c15f7b66c155]: Textual amendment: Sch. 2 para. 7 repealed by Equality Act 2010 (c. 15), Sch. 27 Pt 1 (as amended) (1.10.2010) by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
+[^c-e2e989cd14bdda75db26c15f7b66c155]: Textual amendment: Sch. 2 para. 7 repealed by Equality Act 2010 (c. 15), Sch. 27 Pt 1 (as amended) (1.10.2010) by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
 
 [^c19008891]: Marginal citation: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
 

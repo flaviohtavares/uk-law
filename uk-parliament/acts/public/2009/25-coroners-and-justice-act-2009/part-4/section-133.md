@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Assistance by the Lord Chancellor[^key-16bccc38e2a26ada0e79dfa1c67852ca]
+## 133. Assistance by the Lord Chancellor[^c-16bccc38e2a26ada0e79dfa1c67852ca]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Lord Chancellor may provide the Council with such assistance as it requests 
 
 ## Annotations
 
-[^key-16bccc38e2a26ada0e79dfa1c67852ca]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2009/25/section/133) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)
+[^c-16bccc38e2a26ada0e79dfa1c67852ca]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2009/25/section/133) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)

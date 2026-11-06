@@ -26,7 +26,7 @@ Sections 8(7) and 37(3)
 
 ### Part 1 — Unilateral variation, suspension or withdrawal of authorisation
 
-#### 1. Ordinary procedure[^key-4b61eb11ba64fc058145588d8f0a4d6f]
+#### 1. Ordinary procedure[^c-4b61eb11ba64fc058145588d8f0a4d6f]
 
 (1) Before varying, suspending or withdrawing an automated vehicle authorisation under section 8(2) or (3), the Secretary of State must—
 
@@ -43,7 +43,7 @@ Sections 8(7) and 37(3)
 
 (4) The Secretary of State must, in, or in a document issued together with, the notice by which the variation, suspension or withdrawal takes effect, explain the Secretary of State’s reasons for the decision.
 
-#### 2. Procedure for urgent suspension or temporary variation[^key-bf299b78cba8995862ff920ea38ed0d4]
+#### 2. Procedure for urgent suspension or temporary variation[^c-bf299b78cba8995862ff920ea38ed0d4]
 
 (1) If the Secretary of State considers that the need to suspend an automated vehicle authorisation under section 8(2) or (3) is too urgent for the procedure in paragraph 1 to be followed, that paragraph does not apply and sub-paragraphs (2) and (3) apply instead.
 
@@ -63,7 +63,7 @@ Sections 8(7) and 37(3)
 
 (4) The preceding sub-paragraphs apply in relation to temporary variation as they apply in relation to suspension; and for that purpose the references to lifting the suspension are to be read as references to reversing the variation.
 
-#### 3. Appeals[^key-8dbbc36ae0aacade3a8448398743baff]
+#### 3. Appeals[^c-8dbbc36ae0aacade3a8448398743baff]
 
 (1) If an automated vehicle authorisation is varied, suspended or withdrawn under section 8(2) or (3), the authorised self-driving entity may appeal to the Tribunal.
 
@@ -100,7 +100,7 @@ Sections 8(7) and 37(3)
 
 (8) Tribunal Procedure Rules may provide for an appeal under this paragraph to be made to the Upper Tribunal instead of the First-tier Tribunal; and if that is done references to “the Tribunal” are to be read accordingly.
 
-#### 4. Backstop procedure for cases where authorised self-driving entity defunct[^key-068d68b85216375a11c956f38849236e]
+#### 4. Backstop procedure for cases where authorised self-driving entity defunct[^c-068d68b85216375a11c956f38849236e]
 
 (1) Sub-paragraph (2) applies if the Secretary of State is satisfied, in relation to an authorised automated vehicle, that—
 
@@ -122,7 +122,7 @@ Sections 8(7) and 37(3)
 
 ### Part 2 — Civil sanctions
 
-#### 5. Notices of intent[^key-896903755531b537025635967b5b6d47]
+#### 5. Notices of intent[^c-896903755531b537025635967b5b6d47]
 
 (1) Before issuing a compliance notice, redress notice or monetary penalty notice (“the principal notice”) to a regulated body, the Secretary of State must—
 
@@ -141,7 +141,7 @@ Sections 8(7) and 37(3)
 - (a) state the Secretary of State’s intention to issue a costs notice in connection with the principal notice, and
 - (b) give a general indication of the nature of the costs that the Secretary of State is likely to seek to recover by way of the costs notice.
 
-#### 6. Costs[^key-ba469d8bf75cd78857c1875313b036dc]
+#### 6. Costs[^c-ba469d8bf75cd78857c1875313b036dc]
 
 (1) If—
 
@@ -173,7 +173,7 @@ the Secretary of State may also issue a costs notice to that body.
 
 (7) The cancellation of a compliance notice, redress notice, or monetary penalty notice has the effect of cancelling any costs notice issued in connection with it.
 
-#### 7. Appeals[^key-2304352666d262dc42a49b101ca733cd]
+#### 7. Appeals[^c-2304352666d262dc42a49b101ca733cd]
 
 (1) A person to whom a compliance notice, redress notice, monetary penalty notice or costs notice is issued may appeal to the Tribunal.
 
@@ -219,7 +219,7 @@ and sub-paragraphs (3) and (4) apply again in relation to the grounds on which t
 
 (10) Tribunal Procedure Rules may provide for an appeal or application under this paragraph to be made to the Upper Tribunal instead of the First-tier Tribunal; and if that is done references to “the Tribunal” are to be read accordingly.
 
-#### 8. Assignment of functions to traffic commissioners[^key-a6520957356246bb4f3d778c47111c6a]
+#### 8. Assignment of functions to traffic commissioners[^c-a6520957356246bb4f3d778c47111c6a]
 
 (1) The Secretary of State may, by regulations, provide for the powers of the Secretary of State under section 34, 35 or 36 or paragraph 6 to be exercisable by a traffic commissioner instead of, or in addition to, the Secretary of State.
 
@@ -233,18 +233,18 @@ and sub-paragraphs (3) and (4) apply again in relation to the grounds on which t
 
 ## Annotations
 
-[^key-4b61eb11ba64fc058145588d8f0a4d6f]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-4b61eb11ba64fc058145588d8f0a4d6f]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-bf299b78cba8995862ff920ea38ed0d4]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-bf299b78cba8995862ff920ea38ed0d4]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-8dbbc36ae0aacade3a8448398743baff]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-8dbbc36ae0aacade3a8448398743baff]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-068d68b85216375a11c956f38849236e]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-068d68b85216375a11c956f38849236e]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-896903755531b537025635967b5b6d47]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-896903755531b537025635967b5b6d47]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-ba469d8bf75cd78857c1875313b036dc]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-ba469d8bf75cd78857c1875313b036dc]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-2304352666d262dc42a49b101ca733cd]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-2304352666d262dc42a49b101ca733cd]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
 
-[^key-a6520957356246bb4f3d778c47111c6a]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-a6520957356246bb4f3d778c47111c6a]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

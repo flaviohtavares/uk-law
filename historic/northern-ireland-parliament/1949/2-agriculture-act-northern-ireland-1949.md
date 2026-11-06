@@ -205,13 +205,13 @@ Provided that nothing in this or the next succeeding sub-section shall be constr
 
 #### 17. Appeal against an improvement notice.
 
-(1) Within one month from the service of an improvement notice, the person served with such notice and any person entitled to make representations against the service thereof may in accordance with such county court rules as may be made in that behalf appeal to the county court [^key-678192f63ed0be7a6a9702012ffa7ef9]... and that court, whose decision shall be final, shall have power to confirm, modify or cancel the notice.
+(1) Within one month from the service of an improvement notice, the person served with such notice and any person entitled to make representations against the service thereof may in accordance with such county court rules as may be made in that behalf appeal to the county court [^c-678192f63ed0be7a6a9702012ffa7ef9]... and that court, whose decision shall be final, shall have power to confirm, modify or cancel the notice.
 
 (2) For the purpose of hearing appeals under this section the county court judge shall be assisted by two assessors, one of whom shall be appointed by the Ministry and the other shall be appointed by such organisation as appears to the Ministry to represent the interests of the farmers in the area in which the land is situate:
 
 Provided that where such organisation neglects or fails to appoint such other assessor within a period of ten days after being asked by the Ministry to do so, the Ministry may itself appoint such other assessor.
 
-(3)[^key-1f53eee2fa2204e4bec1117ba4330d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1f53eee2fa2204e4bec1117ba4330d7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 18. Duration of improvement notices.
 
@@ -508,9 +508,9 @@ This Act may be cited as the Agriculture Act (Northern Ireland), 1949.
 
 [^m00002]: Marginal citation: 1970 c.18
 
-[^key-678192f63ed0be7a6a9702012ffa7ef9]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/apni/1949/2/section/17/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 45(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/45/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-678192f63ed0be7a6a9702012ffa7ef9]: Textual amendment: Words in [s. 17(1)](https://www.legislation.gov.uk/apni/1949/2/section/17/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 45(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/45/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-1f53eee2fa2204e4bec1117ba4330d7d]: Textual amendment: [S. 17(3)](https://www.legislation.gov.uk/apni/1949/2/section/17/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 45(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/45/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-1f53eee2fa2204e4bec1117ba4330d7d]: Textual amendment: [S. 17(3)](https://www.legislation.gov.uk/apni/1949/2/section/17/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 45(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/45/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16920561]: Textual amendment: [1951 c.3 (NI)](https://www.legislation.gov.uk/apni/1951/3)
 

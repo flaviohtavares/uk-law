@@ -31,7 +31,7 @@ summary: ''
 
 COUNTRYSIDE, ENGLAND
 
-The Countryside Stewardship (Amendment) Regulations 2001 (revoked)[^key-93c5cf9a28b914c9c953d306426fa809]
+The Countryside Stewardship (Amendment) Regulations 2001 (revoked)[^c-93c5cf9a28b914c9c953d306426fa809]
 
 Made
 
@@ -45,34 +45,34 @@ Coming into force
 
 7th January 2002
 
-[^key-93c5cf9a28b914c9c953d306426fa809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93c5cf9a28b914c9c953d306426fa809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-93c5cf9a28b914c9c953d306426fa809]
+## 1. Title and commencement[^c-93c5cf9a28b914c9c953d306426fa809]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-93c5cf9a28b914c9c953d306426fa809]
+## 2. Interpretation[^c-93c5cf9a28b914c9c953d306426fa809]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-93c5cf9a28b914c9c953d306426fa809]
+## 3. Amendment of the principal Regulations[^c-93c5cf9a28b914c9c953d306426fa809]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-93c5cf9a28b914c9c953d306426fa809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93c5cf9a28b914c9c953d306426fa809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — NEW ITEM TO BE INSERTED IN PART I OF THE SCHEDULE[^key-93c5cf9a28b914c9c953d306426fa809]
+## SCHEDULE — NEW ITEM TO BE INSERTED IN PART I OF THE SCHEDULE[^c-93c5cf9a28b914c9c953d306426fa809]
 
 regulation 3(e)(ii)
 
 **May not be in force at this date. Check the source.**
 
-[^key-93c5cf9a28b914c9c953d306426fa809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-93c5cf9a28b914c9c953d306426fa809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-93c5cf9a28b914c9c953d306426fa809]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/3991) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-93c5cf9a28b914c9c953d306426fa809]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2001/3991) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

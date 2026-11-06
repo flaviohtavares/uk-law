@@ -29,46 +29,46 @@ summary: ''
 
 1987 No. 1832 (N.I. 18)
 
-The AIDS (Control) (Northern Ireland) Order 1987 (revoked)[^key-9b028b10f32462666a4b446c02203d8b]
+The AIDS (Control) (Northern Ireland) Order 1987 (revoked)[^c-9b028b10f32462666a4b446c02203d8b]
 
 21st October 1987
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-9b028b10f32462666a4b446c02203d8b]
+## 1. Title and commencement[^c-9b028b10f32462666a4b446c02203d8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9b028b10f32462666a4b446c02203d8b]
+## 2. Interpretation[^c-9b028b10f32462666a4b446c02203d8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Periodical reports on matters relating to AIDS and HIV[^key-9b028b10f32462666a4b446c02203d8b]
+## 3. Periodical reports on matters relating to AIDS and HIV[^c-9b028b10f32462666a4b446c02203d8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — CONTENTS OF REPORTS[^key-9b028b10f32462666a4b446c02203d8b]
+## SCHEDULE — CONTENTS OF REPORTS[^c-9b028b10f32462666a4b446c02203d8b]
 
 Article 3.
 
-**1.**[^key-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-9b028b10f32462666a4b446c02203d8b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9b028b10f32462666a4b446c02203d8b]: Textual amendment: [Order](https://www.legislation.gov.uk/nisi/1987/1832) revoked (1.7.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/59/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-9b028b10f32462666a4b446c02203d8b]: Textual amendment: [Order](https://www.legislation.gov.uk/nisi/1987/1832) revoked (1.7.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/59/2), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)

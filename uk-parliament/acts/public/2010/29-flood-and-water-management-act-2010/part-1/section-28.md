@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Power to make further amendments[^key-2e120a237e4bb37db6385a0134187ab5]
+## 28. Power to make further amendments[^c-2e120a237e4bb37db6385a0134187ab5]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (3) In this section “**the Minister**” means—
 
-- (a)[^key-676ccf97cac1ea729c60009060a284bc] the Welsh Ministers, where the amendment—
+- (a)[^c-676ccf97cac1ea729c60009060a284bc] the Welsh Ministers, where the amendment—
   - (i) relates to a matter in respect of which functions may be exercised by the Welsh Ministers, the First Minister for Wales or the Counsel General to the Welsh Government, or
   - (ii) would be within the legislative competence of the National Assembly for Wales if contained in an Act of the Assembly, and
 - (b) the Secretary of State, for all other purposes.
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e120a237e4bb37db6385a0134187ab5]: Commencement: S. 28 in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-2e120a237e4bb37db6385a0134187ab5]: Commencement: S. 28 in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
-[^key-676ccf97cac1ea729c60009060a284bc]: Textual amendment: [S. 28(3)(a)](https://www.legislation.gov.uk/ukpga/2010/29/section/28/3/a) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 85](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/85) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-676ccf97cac1ea729c60009060a284bc]: Textual amendment: [S. 28(3)(a)](https://www.legislation.gov.uk/ukpga/2010/29/section/28/3/a) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 85](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/85) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

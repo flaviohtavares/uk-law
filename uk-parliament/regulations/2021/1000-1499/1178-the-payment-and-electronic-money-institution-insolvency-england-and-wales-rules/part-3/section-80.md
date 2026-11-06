@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Remote attendance at meetings of creditors’ committee[^key-9db868697476ee2e3f357d9329becc9a]
+## 80. Remote attendance at meetings of creditors’ committee[^c-9db868697476ee2e3f357d9329becc9a]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 - (a) enable those attending the meeting to exercise their rights to speak or vote, and
 - (b) ensure the identification of those attending the meeting and the security of any electronic means used to enable attendance.
 
-(6) Any requirement under these Rules to specify a place[^key-7a182919fb16c9ce6955ec720b9375b6] for the meeting may be satisfied by specifying the arrangements the administrator proposes to enable persons to exercise their rights to speak or vote where in the reasonable opinion of the administrator—
+(6) Any requirement under these Rules to specify a place[^c-7a182919fb16c9ce6955ec720b9375b6] for the meeting may be satisfied by specifying the arrangements the administrator proposes to enable persons to exercise their rights to speak or vote where in the reasonable opinion of the administrator—
 
 - (a) a meeting will be attended by persons who will not be present together at the same place, and
 - (b) it is unnecessary or inexpedient to specify a place for the meeting.
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9db868697476ee2e3f357d9329becc9a]: Commencement: Rule 80 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-9db868697476ee2e3f357d9329becc9a]: Commencement: Rule 80 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
-[^key-7a182919fb16c9ce6955ec720b9375b6]: Textual amendment: Word in [rule 80(6)](https://www.legislation.gov.uk/uksi/2021/1178/rule/80/6) substituted (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/7)
+[^c-7a182919fb16c9ce6955ec720b9375b6]: Textual amendment: Word in [rule 80(6)](https://www.legislation.gov.uk/uksi/2021/1178/rule/80/6) substituted (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/7)

@@ -46,7 +46,7 @@ The Department for Social Development makes the following Order in exercise of t
 
 This Order may be cited as the Charities Act 2008 (Consequential Provision and Savings) Order (Northern Ireland) 2013 and shall come into operation on 24th June 2013.
 
-## 2. Consequential provision: institutions treated as charities[^key-1d85dd3659d2fbb3d73349c5752d1866]
+## 2. Consequential provision: institutions treated as charities[^c-1d85dd3659d2fbb3d73349c5752d1866]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -74,7 +74,7 @@ Article 3 provides for the High Court or the Department for Social Development t
 
 [^c21802661]: Marginal citation: [2008 c. 12 (N.I.)](https://www.legislation.gov.uk/nia/2008/12)
 
-[^key-1d85dd3659d2fbb3d73349c5752d1866]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/2013/146/article/2) revoked (19.8.2013) by [The Charities Act 2008 (Transitional Provision) Order (Northern Ireland) 2013 (S.R. 2013/211)](https://www.legislation.gov.uk/nisr/2013/211), [arts. 1](https://www.legislation.gov.uk/nisr/2013/211/article/1), [3](https://www.legislation.gov.uk/nisr/2013/211/article/3)
+[^c-1d85dd3659d2fbb3d73349c5752d1866]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/2013/146/article/2) revoked (19.8.2013) by [The Charities Act 2008 (Transitional Provision) Order (Northern Ireland) 2013 (S.R. 2013/211)](https://www.legislation.gov.uk/nisr/2013/211), [arts. 1](https://www.legislation.gov.uk/nisr/2013/211/article/1), [3](https://www.legislation.gov.uk/nisr/2013/211/article/3)
 
 [^c21802681]: Marginal citation: [1964 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1964/33); [section 13(1)](https://www.legislation.gov.uk/nisr/2013/146/section/13/1) was amended by Article 6(1) of the [Charities (Northern Ireland) Order 1987 (S.I. 1987/2048 (N.I. 19))](https://www.legislation.gov.uk/nisi/1987/2048)
 

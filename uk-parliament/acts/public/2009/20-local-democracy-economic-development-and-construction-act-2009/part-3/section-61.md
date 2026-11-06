@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Removal of functions relating to boundary and electoral change[^key-d391fcde0d83979f4e74432e083cdb03]
+## 61. Removal of functions relating to boundary and electoral change[^c-d391fcde0d83979f4e74432e083cdb03]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d391fcde0d83979f4e74432e083cdb03]: Commencement: S. 61 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(j)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/j)
+[^c-d391fcde0d83979f4e74432e083cdb03]: Commencement: S. 61 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(j)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/j)

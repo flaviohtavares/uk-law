@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Interpretation[^key-c3882574361c7dc0b205a5bfe299977b]
+## 67. Interpretation[^c-c3882574361c7dc0b205a5bfe299977b]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Act—
 
 ## Annotations
 
-[^key-c3882574361c7dc0b205a5bfe299977b]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2006/14/section/67) in force at 16.6.2006 by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
+[^c-c3882574361c7dc0b205a5bfe299977b]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2006/14/section/67) in force at 16.6.2006 by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)

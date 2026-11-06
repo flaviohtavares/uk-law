@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 175. General prohibition on unauthorised payments[^key-154b85042afcaf0a33bd281d4a0b6204]
+## 175. General prohibition on unauthorised payments[^c-154b85042afcaf0a33bd281d4a0b6204]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Nothing in these Regulations requires or authorises the making of any payment, w
 
 ## Annotations
 
-[^key-154b85042afcaf0a33bd281d4a0b6204]: Commencement: [Reg. 175](https://www.legislation.gov.uk/nisr/2014/290/regulation/175) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-154b85042afcaf0a33bd281d4a0b6204]: Commencement: [Reg. 175](https://www.legislation.gov.uk/nisr/2014/290/regulation/175) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

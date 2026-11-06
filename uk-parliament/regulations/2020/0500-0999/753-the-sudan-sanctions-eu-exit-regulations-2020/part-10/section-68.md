@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Revocations[^key-6bf511832cc48ce4baa7a69011910c72]
+## 68. Revocations[^c-6bf511832cc48ce4baa7a69011910c72]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6bf511832cc48ce4baa7a69011910c72]: Commencement: Reg. 68 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-6bf511832cc48ce4baa7a69011910c72]: Commencement: Reg. 68 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
 
 [^c24239921]: Marginal citation: [S.I. 2014/1826](https://www.legislation.gov.uk/uksi/2014/1826) as amended by [S.I. 2017/560](https://www.legislation.gov.uk/uksi/2017/560); [S.I. 2017/754](https://www.legislation.gov.uk/uksi/2017/754); [S.I. 2018/682](https://www.legislation.gov.uk/uksi/2018/682), [S.I](https://www.legislation.gov.uk/uksi/2018/682/section/I). 2018/1149 and prospectively amended by [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149) and [S.I. 2019/380](https://www.legislation.gov.uk/uksi/2019/380).
 

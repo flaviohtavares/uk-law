@@ -40,7 +40,7 @@ summary: ''
 
 (4) Where an incorporated friendly society carries on any group insurance business and the rules of the society so provide, any qualifying person with whom the society contracts (or his nominee) may be accorded the rights of a member of the society (including any right to vote) for the purpose of participating in the affairs of the society in the interests of the members of the group scheme with which he is concerned.
 
-(5) A person who is accorded the rights of a member of a society by virtue of subsection (4) above shall, for the purposes of any power conferred on the FCA or the PRA[^key-7d42b430429111485f1d9e46d7af0c6e] by this Act which is exercisable in the interests of members of the society, be treated as if he were a member of the society.
+(5) A person who is accorded the rights of a member of a society by virtue of subsection (4) above shall, for the purposes of any power conferred on the FCA or the PRA[^c-7d42b430429111485f1d9e46d7af0c6e] by this Act which is exercisable in the interests of members of the society, be treated as if he were a member of the society.
 
 (6) The rules of an incorporated friendly society may not prevent a person from being a member of the society in his private capacity by reason only of the fact that he has been accorded the rights of a member by virtue of subsection (4) above.
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7d42b430429111485f1d9e46d7af0c6e]: Textual amendment: Words in [s. 11(5)](https://www.legislation.gov.uk/ukpga/1992/40/section/11/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 6](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/6) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-7d42b430429111485f1d9e46d7af0c6e]: Textual amendment: Words in [s. 11(5)](https://www.legislation.gov.uk/ukpga/1992/40/section/11/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 6](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/6) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15377391]: Modification: [S. 11(7)](https://www.legislation.gov.uk/ukpga/1992/40/section/11/7): Functions of Friendly Societies Commission transferred (1.12.2001) to the Treasury by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/4/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/2617/schedule/1/part/II) (with [art. 5](https://www.legislation.gov.uk/uksi/2001/2617/article/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 

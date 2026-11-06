@@ -66,7 +66,7 @@ Regulations 43(2) and 48
 
 - (a) where relevant, the proposed terms under which the payment service user will be deemed to have accepted changes to the framework contract in accordance with regulation 50(2) (changes in contractual information), unless they notify the payment service provider that they do not accept such changes before the proposed date of their entry into force;
 - (b) the duration of the framework contract;
-- (c) where relevant, the right of the payment service user to terminate the framework contract and any terms in respect of termination required by or permitted under regulations 51 to 51D (termination of framework contract and exceptions to termination requirements).[^key-4da390150f770e9a4e367f4f4dd86de2].
+- (c) where relevant, the right of the payment service user to terminate the framework contract and any terms in respect of termination required by or permitted under regulations 51 to 51D (termination of framework contract and exceptions to termination requirements).[^c-4da390150f770e9a4e367f4f4dd86de2].
 
 **7.** The following information about redress—
 
@@ -79,4 +79,4 @@ Regulations 43(2) and 48
 
 [^c23031351]: Marginal citation: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-4da390150f770e9a4e367f4f4dd86de2]: Textual amendment: Words in Sch. 4 para. 6(c) substituted (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2025/688/regulation/3/5)
+[^c-4da390150f770e9a4e367f4f4dd86de2]: Textual amendment: Words in Sch. 4 para. 6(c) substituted (28.4.2026) by [The Payment Services and Payment Accounts (Contract Termination) (Amendment) Regulations 2025 (S.I. 2025/688)](https://www.legislation.gov.uk/uksi/2025/688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/688/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2025/688/regulation/3/5)

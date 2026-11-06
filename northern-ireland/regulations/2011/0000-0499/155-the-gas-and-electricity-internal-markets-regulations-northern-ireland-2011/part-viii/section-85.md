@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Amendments to the Gas Order[^key-d5ed8c7b751e3468fca061b916a7b6e2]
+## 85. Amendments to the Gas Order[^c-d5ed8c7b751e3468fca061b916a7b6e2]
 
 *Extent: N.I.*
 
@@ -42,18 +42,18 @@ In Article 3 of the Gas Order—
 
   .
 
-**86.**[^key-c67bbefab09f6b9b18cb873b81b39f6f] In Article 8(7B)(b), for the words “Article 24(2)” there shall be substituted the words “Article 38(2)”.
+**86.**[^c-c67bbefab09f6b9b18cb873b81b39f6f] In Article 8(7B)(b), for the words “Article 24(2)” there shall be substituted the words “Article 38(2)”.
 
-**87.**[^key-cf43932ae7a67f0cd6935fa88ca13f25] In Article 9A(1)(a), for the words “Article 24(1)” there shall be substituted the words “Article 38(1)”.
+**87.**[^c-cf43932ae7a67f0cd6935fa88ca13f25] In Article 9A(1)(a), for the words “Article 24(1)” there shall be substituted the words “Article 38(1)”.
 
-**88.**[^key-c992f3f15afc5f7fcb218735efffe658] In Article 45(1A), for the words “Article 10 or 14” there shall be substituted the words “Article 16 or 27”.
+**88.**[^c-c992f3f15afc5f7fcb218735efffe658] In Article 45(1A), for the words “Article 10 or 14” there shall be substituted the words “Article 16 or 27”.
 
 ## Annotations
 
-[^key-d5ed8c7b751e3468fca061b916a7b6e2]: Commencement: Reg. 85 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-d5ed8c7b751e3468fca061b916a7b6e2]: Commencement: Reg. 85 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-c67bbefab09f6b9b18cb873b81b39f6f]: Commencement: Reg. 86 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-c67bbefab09f6b9b18cb873b81b39f6f]: Commencement: Reg. 86 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-cf43932ae7a67f0cd6935fa88ca13f25]: Commencement: Reg. 87 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-cf43932ae7a67f0cd6935fa88ca13f25]: Commencement: Reg. 87 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
 
-[^key-c992f3f15afc5f7fcb218735efffe658]: Commencement: Reg. 88 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-c992f3f15afc5f7fcb218735efffe658]: Commencement: Reg. 88 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

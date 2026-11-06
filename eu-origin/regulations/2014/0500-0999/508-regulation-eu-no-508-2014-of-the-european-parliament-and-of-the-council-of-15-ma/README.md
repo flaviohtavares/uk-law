@@ -38,11 +38,11 @@ of 15 May 2014
 
 on the European Maritime and Fisheries Fund and repealing Council Regulations (EC) No 2328/2003, (EC) No 861/2006, (EC) No 1198/2006 and (EC) No 791/2007 and Regulation (EU) No 1255/2011 of the European Parliament and of the Council (revoked)
 
-[^key-c0414fcc5eacfd535b9a66ec8a654ca0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0414fcc5eacfd535b9a66ec8a654ca0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### TITLE I — SUBJECT-MATTER, SCOPE AND DEFINITIONS[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+### TITLE I — SUBJECT-MATTER, SCOPE AND DEFINITIONS[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,13 +52,13 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 2 — Geographical scope](section-article-2.md)
 - [Section Article 3 — Definitions](section-article-3.md)
 
-### TITLE II — GENERAL FRAMEWORK[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+### TITLE II — GENERAL FRAMEWORK[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — Establishment and objectives of the European Maritime and Fisheries Fund[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER I — Establishment and objectives of the European Maritime and Fisheries Fund[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,7 +68,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 5 — Objectives](section-article-5.md)
 - [Section Article 6 — Union priorities](section-article-6.md)
 
-#### CHAPTER II — Shared and direct management[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER II — Shared and direct management[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,7 +76,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 
 - [Section Article 7 — Shared and direct management](section-article-7.md)
 
-#### CHAPTER III — General Principles of Assistance under Shared Management[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER III — General Principles of Assistance under Shared Management[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 8 — State aid](section-article-8.md)
 - [Section Article 9 — Specific ex ante conditionalities](section-article-9.md)
 
-#### CHAPTER IV — Admissibility of applications and ineligible operations[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER IV — Admissibility of applications and ineligible operations[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,7 +94,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 10 — Admissibility of applications](section-article-10.md)
 - [Section Article 11 — Ineligible operations](section-article-11.md)
 
-### TITLE III — FINANCIAL FRAMEWORK[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+### TITLE III — FINANCIAL FRAMEWORK[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -106,13 +106,13 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 15 — Mid-term review](section-article-15.md)
 - [Section Article 16 — Financial distribution for shared management](section-article-16.md)
 
-### TITLE IV — PROGRAMMING[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+### TITLE IV — PROGRAMMING[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — Programming for measures financed under shared management[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER I — Programming for measures financed under shared management[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -125,7 +125,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 21 — Work plans for data collection](section-article-21.md)
 - [Section Article 22 — Rules on procedures and timetables](section-article-22.md)
 
-#### CHAPTER II — Programming for measures financed under direct management[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER II — Programming for measures financed under direct management[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -133,13 +133,13 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 
 - [Section Article 23 — Annual work programme](section-article-23.md)
 
-### TITLE V — MEASURES FINANCED UNDER SHARED MANAGEMENT[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+### TITLE V — MEASURES FINANCED UNDER SHARED MANAGEMENT[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — Sustainable development of fisheries[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER I — Sustainable development of fisheries[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -167,7 +167,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 43 — Fishing ports, landing sites, auction halls and shelters](section-article-43.md)
 - [Section Article 44 — Inland fishing and inland aquatic fauna and flora](section-article-44.md)
 
-#### CHAPTER II — Sustainable development of aquaculture[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER II — Sustainable development of aquaculture[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -187,13 +187,13 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 56 — Animal health and welfare measures](section-article-56.md)
 - [Section Article 57 — Aquaculture stock insurance](section-article-57.md)
 
-#### CHAPTER III — Sustainable development of fisheries and aquaculture areas[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER III — Sustainable development of fisheries and aquaculture areas[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### Section 1 — Scope and objectives[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+##### Section 1 — Scope and objectives[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -202,7 +202,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 58 — Scope](section-article-58.md)
 - [Section Article 59 — Specific objectives](section-article-59.md)
 
-##### Section 2 — Community–led local development strategies and fisheries local action groups[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+##### Section 2 — Community–led local development strategies and fisheries local action groups[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -211,7 +211,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 60 — Community–led local development strategies](section-article-60.md)
 - [Section Article 61 — Fisheries local action groups](section-article-61.md)
 
-##### Section 3 — Eligible operations[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+##### Section 3 — Eligible operations[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -221,7 +221,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 63 — Implementation of community–led local development strategies](section-article-63.md)
 - [Section Article 64 — Cooperation activities](section-article-64.md)
 
-#### CHAPTER IV — Marketing and processing related measures[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER IV — Marketing and processing related measures[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -233,7 +233,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 68 — Marketing measures](section-article-68.md)
 - [Section Article 69 — Processing of fishery and aquaculture products](section-article-69.md)
 
-#### CHAPTER V — Compensation for additional costs in outermost regions for fishery and aquaculture products[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER V — Compensation for additional costs in outermost regions for fishery and aquaculture products[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -244,7 +244,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 72 — Compensation plan](section-article-72.md)
 - [Section Article 73 — State aid for implementing compensation plans](section-article-73.md)
 
-#### CHAPTER VI — Accompanying measures for the CFP under shared management[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER VI — Accompanying measures for the CFP under shared management[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -255,7 +255,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 76 — Control and enforcement](section-article-76.md)
 - [Section Article 77 — Data collection](section-article-77.md)
 
-#### CHAPTER VII — Technical assistance at the initiative of Member States[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER VII — Technical assistance at the initiative of Member States[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -263,7 +263,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 
 - [Section Article 78 — Technical assistance at the initiative of Member States](section-article-78.md)
 
-#### CHAPTER VIII — The IMP measures financed under shared management[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER VIII — The IMP measures financed under shared management[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -272,13 +272,13 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 79 — Specific objectives](section-article-79.md)
 - [Section Article 80 — Eligible operations](section-article-80.md)
 
-### TITLE VI — MEASURES FINANCED UNDER DIRECT MANAGEMENT[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+### TITLE VI — MEASURES FINANCED UNDER DIRECT MANAGEMENT[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — Integrated maritime policy[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER I — Integrated maritime policy[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -288,7 +288,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 82 — Scope and objectives](section-article-82.md)
 - [Section Article 83 — Eligible operations](section-article-83.md)
 
-#### CHAPTER II — Accompanying measures for the CFP and the IMP under direct management[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER II — Accompanying measures for the CFP and the IMP under direct management[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -303,7 +303,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 90 — Market intelligence](section-article-90.md)
 - [Section Article 91 — Communication activities under the CFP and the IMP](section-article-91.md)
 
-#### CHAPTER III — Technical assistance[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER III — Technical assistance[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -311,13 +311,13 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 
 - [Section Article 92 — Technical assistance at the initiative of the Commission](section-article-92.md)
 
-### TITLE VII — IMPLEMENTATION UNDER SHARED MANAGEMENT[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+### TITLE VII — IMPLEMENTATION UNDER SHARED MANAGEMENT[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — General provisions[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER I — General provisions[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -325,13 +325,13 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 
 - [Section Article 93 — Scope](section-article-93.md)
 
-#### CHAPTER II — Delivery mechanism[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER II — Delivery mechanism[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### Section 1 — Support from the EMFF[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+##### Section 1 — Support from the EMFF[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -341,7 +341,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 95 — Intensity of public aid](section-article-95.md)
 - [Section Article 96 — Calculation of additional costs or income foregone](section-article-96.md)
 
-#### CHAPTER III — Management and control systems[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER III — Management and control systems[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -350,7 +350,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 97 — Managing authority](section-article-97.md)
 - [Section Article 98 — Transmission of financial data](section-article-98.md)
 
-#### CHAPTER IV — Control by Member States[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER IV — Control by Member States[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -358,13 +358,13 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 
 - [Section Article 99 — Financial corrections by Member States](section-article-99.md)
 
-#### CHAPTER V — Control by the Commission[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER V — Control by the Commission[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### Section 1 — Interruption and suspension[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+##### Section 1 — Interruption and suspension[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -374,7 +374,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 101 — Suspension of payments](section-article-101.md)
 - [Section Article 102 — Commission powers](section-article-102.md)
 
-##### Section 2 — Information exchange and financial corrections[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+##### Section 2 — Information exchange and financial corrections[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -385,13 +385,13 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 105 — Financial corrections by the Commission](section-article-105.md)
 - [Section Article 106 — Procedure](section-article-106.md)
 
-#### CHAPTER VI — Monitoring, evaluation, information and communication[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER VI — Monitoring, evaluation, information and communication[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### Section 1 — Establishment and objectives of a common monitoring and evaluation system[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+##### Section 1 — Establishment and objectives of a common monitoring and evaluation system[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -400,7 +400,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 107 — Monitoring and evaluation system](section-article-107.md)
 - [Section Article 108 — Objectives](section-article-108.md)
 
-##### Section 2 — Technical provisions[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+##### Section 2 — Technical provisions[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -410,7 +410,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 110 — Electronic information system](section-article-110.md)
 - [Section Article 111 — Provision of information](section-article-111.md)
 
-##### Section 3 — Monitoring[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+##### Section 3 — Monitoring[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -420,7 +420,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 113 — Functions of the monitoring committee](section-article-113.md)
 - [Section Article 114 — Annual implementation report](section-article-114.md)
 
-##### Section 4 — Evaluation[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+##### Section 4 — Evaluation[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -431,7 +431,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 117 — Ex post evaluation](section-article-117.md)
 - [Section Article 118 — Synthesis of evaluations](section-article-118.md)
 
-##### Section 5 — Information and communication[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+##### Section 5 — Information and communication[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -439,13 +439,13 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 
 - [Section Article 119 — Information and publicity](section-article-119.md)
 
-### TITLE VIII — IMPLEMENTATION UNDER DIRECT MANAGEMENT[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+### TITLE VIII — IMPLEMENTATION UNDER DIRECT MANAGEMENT[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — General provisions[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER I — General provisions[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -453,7 +453,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 
 - [Section Article 120 — Scope](section-article-120.md)
 
-#### CHAPTER II — Control[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER II — Control[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -463,7 +463,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 122 — Audits](section-article-122.md)
 - [Section Article 123 — Suspension of payments, reduction and cancellation of the financial contribution](section-article-123.md)
 
-#### CHAPTER III — Evaluation and reporting[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+#### CHAPTER III — Evaluation and reporting[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -472,7 +472,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 124 — Evaluation](section-article-124.md)
 - [Section Article 125 — Reporting](section-article-125.md)
 
-### TITLE IX — PROCEDURAL PROVISIONS[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+### TITLE IX — PROCEDURAL PROVISIONS[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -481,7 +481,7 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 - [Section Article 126 — Exercise of delegation](section-article-126.md)
 - [Section Article 127 — Committee procedure](section-article-127.md)
 
-### TITLE X — FINAL PROVISIONS[^key-c0414fcc5eacfd535b9a66ec8a654ca0]
+### TITLE X — FINAL PROVISIONS[^c-c0414fcc5eacfd535b9a66ec8a654ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -501,8 +501,8 @@ on the European Maritime and Fisheries Fund and repealing Council Regulations (E
 
 **No longer in force.**
 
-[^key-c0414fcc5eacfd535b9a66ec8a654ca0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0414fcc5eacfd535b9a66ec8a654ca0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c0414fcc5eacfd535b9a66ec8a654ca0]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-c0414fcc5eacfd535b9a66ec8a654ca0]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 339ZD. Section 339ZB: effect on required disclosures under section 330 or 331[^key-050769a8752a6622c90407dab8726155]
+## 339ZD. Section 339ZB: effect on required disclosures under section 330 or 331[^c-050769a8752a6622c90407dab8726155]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ If there is no nominated officer the report must be approved and signed by anoth
 
 ## Annotations
 
-[^key-050769a8752a6622c90407dab8726155]: Textual amendment: Ss. 339ZB-339ZG inserted (27.4.2017 for specified purposes, 31.10.2017 for specified purposes) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 11](https://www.legislation.gov.uk/ukpga/2017/22/section/11), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/b); [S.I. 2017/1028](https://www.legislation.gov.uk/uksi/2017/1028), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/1028/regulation/2/a)
+[^c-050769a8752a6622c90407dab8726155]: Textual amendment: Ss. 339ZB-339ZG inserted (27.4.2017 for specified purposes, 31.10.2017 for specified purposes) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 11](https://www.legislation.gov.uk/ukpga/2017/22/section/11), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/b); [S.I. 2017/1028](https://www.legislation.gov.uk/uksi/2017/1028), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/1028/regulation/2/a)

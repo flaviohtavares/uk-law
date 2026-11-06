@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. DSR transitional auctions[^key-b3546a051acd5b89b98235ce70311cc9]
+## 29. DSR transitional auctions[^c-b3546a051acd5b89b98235ce70311cc9]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3546a051acd5b89b98235ce70311cc9]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2014/2043/regulation/29) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/9)
+[^c-b3546a051acd5b89b98235ce70311cc9]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2014/2043/regulation/29) omitted (23.7.2025) by virtue of [The Electricity Capacity (Amendment) (No. 2) Regulations 2025 (S.I. 2025/917)](https://www.legislation.gov.uk/uksi/2025/917), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/917/regulation/1/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2025/917/schedule/paragraph/9)

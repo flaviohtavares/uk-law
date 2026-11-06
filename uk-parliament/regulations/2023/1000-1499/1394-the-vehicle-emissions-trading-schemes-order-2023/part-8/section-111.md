@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Amendment of [Regulation (EU) 725/2011](https://www.legislation.gov.uk/european/regulation/2011/0725) (eco-innovation for passenger cars)[^key-d8c0808e3c665b134973b6d7113701ad]
+## 111. Amendment of [Regulation (EU) 725/2011](https://www.legislation.gov.uk/european/regulation/2011/0725) (eco-innovation for passenger cars)[^c-d8c0808e3c665b134973b6d7113701ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8c0808e3c665b134973b6d7113701ad]: Commencement: Art. 111 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-d8c0808e3c665b134973b6d7113701ad]: Commencement: Art. 111 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

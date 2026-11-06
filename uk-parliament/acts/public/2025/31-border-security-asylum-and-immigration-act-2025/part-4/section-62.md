@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Consequential and minor provision[^key-46d66ee91bd50ea165e827d54a316233]
+## 62. Consequential and minor provision[^c-46d66ee91bd50ea165e827d54a316233]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46d66ee91bd50ea165e827d54a316233]: Commencement: S. 62 in force at Royal Assent, see [s. 65(3)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/d)
+[^c-46d66ee91bd50ea165e827d54a316233]: Commencement: S. 62 in force at Royal Assent, see [s. 65(3)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/d)

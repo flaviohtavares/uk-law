@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Variation or revocation of orders under section 2[^c382477][^key-0d43872b43b1ac606c4f4c1a6775b03f]
+## 3. Variation or revocation of orders under section 2[^c382477][^c-0d43872b43b1ac606c4f4c1a6775b03f]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c382477]: Commencement: S. 3 partly in force; s. 3 not in force at Royal Assent, see s. 216; s. 3 in force for E. at 1.10.2002 by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-0d43872b43b1ac606c4f4c1a6775b03f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2002/32/section/3) in force at 27.2.2015 for W. by [S.I. 2015/381](https://www.legislation.gov.uk/wsi/2015/381), [art. 2](https://www.legislation.gov.uk/wsi/2015/381/article/2)
+[^c-0d43872b43b1ac606c4f4c1a6775b03f]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2002/32/section/3) in force at 27.2.2015 for W. by [S.I. 2015/381](https://www.legislation.gov.uk/wsi/2015/381), [art. 2](https://www.legislation.gov.uk/wsi/2015/381/article/2)

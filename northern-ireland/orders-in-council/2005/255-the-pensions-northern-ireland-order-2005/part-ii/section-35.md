@@ -36,9 +36,9 @@ summary: ''
 
 the Regulator may increase the amounts calculated under paragraph (2)(a) or (b) by such amount as the Regulator considers appropriate.
 
-(4)[^key-bbbefbefe5f7ac96444708848e1baed2] For the purposes of this Article “**the relevant time**” means the end of the scheme year which ended most recently before the day on which the Regulator gives a determination notice under Article 91(2)(d) in respect of an intended contribution notice under Article 34.
+(4)[^c-bbbefbefe5f7ac96444708848e1baed2] For the purposes of this Article “**the relevant time**” means the end of the scheme year which ended most recently before the day on which the Regulator gives a determination notice under Article 91(2)(d) in respect of an intended contribution notice under Article 34.
 
-(4A)[^key-e7d67b53d129f18a1bbfccc331bfb951] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-e7d67b53d129f18a1bbfccc331bfb951] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) For the purposes of this Article—
 
@@ -49,6 +49,6 @@ the Regulator may increase the amounts calculated under paragraph (2)(a) or (b) 
 
 [^c17103041]: Textual amendment: mod. by SR 2005/378
 
-[^key-bbbefbefe5f7ac96444708848e1baed2]: Textual amendment: [Art. 35(4)](https://www.legislation.gov.uk/nisi/2005/255/article/35/4) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/4/2); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/b) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(2)](https://www.legislation.gov.uk/nisr/2021/271/article/3/2))
+[^c-bbbefbefe5f7ac96444708848e1baed2]: Textual amendment: [Art. 35(4)](https://www.legislation.gov.uk/nisi/2005/255/article/35/4) substituted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 4(2)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/4/2); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/b) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(2)](https://www.legislation.gov.uk/nisr/2021/271/article/3/2))
 
-[^key-e7d67b53d129f18a1bbfccc331bfb951]: Textual amendment: [Art. 35(4A)](https://www.legislation.gov.uk/nisi/2005/255/article/35/4A) omitted (1.10.2021) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 4(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/4/3); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/b) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(2)](https://www.legislation.gov.uk/nisr/2021/271/article/3/2))
+[^c-e7d67b53d129f18a1bbfccc331bfb951]: Textual amendment: [Art. 35(4A)](https://www.legislation.gov.uk/nisi/2005/255/article/35/4A) omitted (1.10.2021) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/b), [Sch. 8 para. 4(3)](https://www.legislation.gov.uk/ukpga/2021/1/schedule/8/paragraph/4/3); [S.R. 2021/271](https://www.legislation.gov.uk/nisr/2021/271), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2021/271/article/2/3/b) (with [art. 3(1)](https://www.legislation.gov.uk/nisr/2021/271/article/3/1)[(2)](https://www.legislation.gov.uk/nisr/2021/271/article/3/2))

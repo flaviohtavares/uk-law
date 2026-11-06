@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 7 — REPEALS[^key-b783596a16abf86ac5f8541b2c5abd14]
+## SCHEDULE 7 — REPEALS[^c-b783596a16abf86ac5f8541b2c5abd14]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ Article 24
 
 ## Annotations
 
-[^key-b783596a16abf86ac5f8541b2c5abd14]: Commencement: [Sch. 7](https://www.legislation.gov.uk/uksi/1999/859/schedule/7) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-b783596a16abf86ac5f8541b2c5abd14]: Commencement: [Sch. 7](https://www.legislation.gov.uk/uksi/1999/859/schedule/7) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

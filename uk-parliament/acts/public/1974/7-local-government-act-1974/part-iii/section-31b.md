@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31B. Publication of reports etc by Commissioners[^key-6cc7dc8b75756c5b06ac5ad8ad70eb86]
+## 31B. Publication of reports etc by Commissioners[^c-6cc7dc8b75756c5b06ac5ad8ad70eb86]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ that is published, or a copy of which is supplied, under this section as it appl
 
 ## Annotations
 
-[^key-6cc7dc8b75756c5b06ac5ad8ad70eb86]: Textual amendment: S. 31B inserted (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/28/section/177), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/j)
+[^c-6cc7dc8b75756c5b06ac5ad8ad70eb86]: Textual amendment: S. 31B inserted (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/28/section/177), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/j)

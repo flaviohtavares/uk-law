@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Public statement about registered person or individual[^key-ff6d3d5981bde8c30ca9ad5fd03b8c2d]
+## 73. Public statement about registered person or individual[^c-ff6d3d5981bde8c30ca9ad5fd03b8c2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff6d3d5981bde8c30ca9ad5fd03b8c2d]: Commencement: Art. 73 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-ff6d3d5981bde8c30ca9ad5fd03b8c2d]: Commencement: Art. 73 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

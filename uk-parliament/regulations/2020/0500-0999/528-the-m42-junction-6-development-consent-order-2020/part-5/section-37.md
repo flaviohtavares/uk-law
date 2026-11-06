@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Crown rights[^key-ad8bdcdffbcc40b17ac7459a76246d65]
+## 37. Crown rights[^c-ad8bdcdffbcc40b17ac7459a76246d65]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad8bdcdffbcc40b17ac7459a76246d65]: Commencement: Art. 37 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-ad8bdcdffbcc40b17ac7459a76246d65]: Commencement: Art. 37 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)

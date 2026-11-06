@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Amendment of regulation 259 (packaging requirements: information for blind and partially sighted patients)[^key-8c77f0b19edff353e50c6723179027d1]
+## 202. Amendment of regulation 259 (packaging requirements: information for blind and partially sighted patients)[^c-8c77f0b19edff353e50c6723179027d1]
 
 *Extent: E+W+S+N.I.*
 
-In regulation 259(2), for “marketing authorisation,” substitute “UK marketing authorisation, EU marketing authorisation”.[^key-a136a122471f28b1df78f952ae072303]
+In regulation 259(2), for “marketing authorisation,” substitute “UK marketing authorisation, EU marketing authorisation”.[^c-a136a122471f28b1df78f952ae072303]
 
 ## Annotations
 
-[^key-8c77f0b19edff353e50c6723179027d1]: Commencement: Reg. 202 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8c77f0b19edff353e50c6723179027d1]: Commencement: Reg. 202 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-a136a122471f28b1df78f952ae072303]: Textual amendment: Words in reg. 202 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 156](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/156)
+[^c-a136a122471f28b1df78f952ae072303]: Textual amendment: Words in reg. 202 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 156](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/156)

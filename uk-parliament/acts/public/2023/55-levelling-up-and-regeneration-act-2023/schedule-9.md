@@ -22,7 +22,7 @@ summary: ''
 
 Section 106
 
-### 1. Town and Country Planning Act 1990[^key-b1cacef1dbbac701b29cdafc3829ea92]
+### 1. Town and Country Planning Act 1990[^c-b1cacef1dbbac701b29cdafc3829ea92]
 
 (1) TCPA 1990 is amended as follows.
 
@@ -37,7 +37,7 @@ Section 106
 
 (5) In section 58 (granting of planning permission: general), in subsection (1)(a), for “or a neighbourhood development order” substitute “, a neighbourhood development order or a street vote development order”.
 
-(6)[^key-81f8302637325f31b5b5175a0ad853c2] In section 62 (applications for planning permission or permission in principle), in subsection (2A)—
+(6)[^c-81f8302637325f31b5b5175a0ad853c2] In section 62 (applications for planning permission or permission in principle), in subsection (2A)—
 
 - (a) at the end of paragraph (a) omit “and”;
 - (b) after paragraph (b) insert
@@ -46,7 +46,7 @@ Section 106
   >
   > - (c) applications for consent, agreement or approval where that consent, agreement or approval is required by a condition or limitation imposed under section 61QI(1).
 
-(7)[^key-81f8302637325f31b5b5175a0ad853c2] In section 65 (notice of applications for planning permission or permission in principle), in subsection (3A)—
+(7)[^c-81f8302637325f31b5b5175a0ad853c2] In section 65 (notice of applications for planning permission or permission in principle), in subsection (3A)—
 
 - (a) at the end of paragraph (a) omit “and”;
 - (b) after paragraph (b) insert
@@ -55,7 +55,7 @@ Section 106
   >
   > - (c) any application for consent, agreement or approval where that consent, agreement or approval is required by a condition or limitation imposed under section 61QI(1) or any applicant for such consent, agreement or approval.
 
-(8)[^key-81f8302637325f31b5b5175a0ad853c2] In section 69 (register of applications etc)—
+(8)[^c-81f8302637325f31b5b5175a0ad853c2] In section 69 (register of applications etc)—
 
 - (a) after subsection (1)(cza) insert—
 
@@ -64,7 +64,7 @@ Section 106
   ;
 - (b) in subsection (2)(b), after “Mayoral development order,” insert “street vote development order or proposal for such an order,”.
 
-(9)[^key-81f8302637325f31b5b5175a0ad853c2] In section 71 (consultations in connection with determinations under section 70), in subsection (2ZA)—
+(9)[^c-81f8302637325f31b5b5175a0ad853c2] In section 71 (consultations in connection with determinations under section 70), in subsection (2ZA)—
 
 - (a) at the end of paragraph (a) omit “and”;
 - (b) after paragraph (b) insert
@@ -73,7 +73,7 @@ Section 106
   >
   > - (c) an application for consent, agreement or approval where that consent, agreement or approval is required by a condition or limitation imposed under section 61QI(1).
 
-(10)[^key-81f8302637325f31b5b5175a0ad853c2] In section 74 (directions etc as to method of dealing with applications), in subsection (1ZA)—
+(10)[^c-81f8302637325f31b5b5175a0ad853c2] In section 74 (directions etc as to method of dealing with applications), in subsection (1ZA)—
 
 - (a) in paragraph (a)—
   - (i) at the end of sub-paragraph (i) omit “and”;
@@ -156,7 +156,7 @@ Section 106
 
 (22) In Schedule 1 (local planning authorities: distribution of functions), in paragraph 6A, at the end insert “or any of sections 61QA to 61QM (street vote development orders)”.
 
-### 2. Planning (Listed Buildings and Conservation Areas) Act 1990[^key-33eb182f4c5fcb828082b6c3f68cafec]
+### 2. Planning (Listed Buildings and Conservation Areas) Act 1990[^c-33eb182f4c5fcb828082b6c3f68cafec]
 
 **Not yet in force.**
 
@@ -166,7 +166,7 @@ Section 106
 
 (3) In section 72 (general duty as respects conservation areas in exercise of planning functions), in subsection (4), after “orders” insert “or street vote development orders (except as provided by SVDO regulations within the meaning given by section 61QM of the principal Act)”.
 
-### 3. Elections Act 2022[^key-be3531a246a5692fcd6f63533909c3a4]
+### 3. Elections Act 2022[^c-be3531a246a5692fcd6f63533909c3a4]
 
 **Not yet in force.**
 
@@ -176,7 +176,7 @@ In section 34 of the Elections Act 2022 (campaigners), in subsection (6), in the
 
 .
 
-### 4. The Conservation of Habitats and Species Regulations 2017[^key-d0b08b2014bab928796dd1e64f677cf5]
+### 4. The Conservation of Habitats and Species Regulations 2017[^c-d0b08b2014bab928796dd1e64f677cf5]
 
 **Not yet in force.**
 
@@ -207,12 +207,12 @@ In section 34 of the Elections Act 2022 (campaigners), in subsection (6), in the
 
 ## Annotations
 
-[^key-b1cacef1dbbac701b29cdafc3829ea92]: Commencement: Sch. 9 para. 1 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-b1cacef1dbbac701b29cdafc3829ea92]: Commencement: Sch. 9 para. 1 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-81f8302637325f31b5b5175a0ad853c2]: Commencement: [Sch. 9 para. 1(6)-(10)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/9/paragraph/1/6) in force at 31.1.2024 for specified purposes by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/q)
+[^c-81f8302637325f31b5b5175a0ad853c2]: Commencement: [Sch. 9 para. 1(6)-(10)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/9/paragraph/1/6) in force at 31.1.2024 for specified purposes by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/q)
 
-[^key-33eb182f4c5fcb828082b6c3f68cafec]: Commencement: Sch. 9 para. 2 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-33eb182f4c5fcb828082b6c3f68cafec]: Commencement: Sch. 9 para. 2 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-be3531a246a5692fcd6f63533909c3a4]: Commencement: Sch. 9 para. 3 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-be3531a246a5692fcd6f63533909c3a4]: Commencement: Sch. 9 para. 3 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-d0b08b2014bab928796dd1e64f677cf5]: Commencement: Sch. 9 para. 4 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-d0b08b2014bab928796dd1e64f677cf5]: Commencement: Sch. 9 para. 4 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)

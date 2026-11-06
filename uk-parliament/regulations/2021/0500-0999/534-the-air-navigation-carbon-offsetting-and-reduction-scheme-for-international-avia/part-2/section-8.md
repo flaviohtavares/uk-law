@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Attribution of an aeroplane operator to the United Kingdom[^key-fd4717c7df1940d9ef468e978803800d]
+## 8. Attribution of an aeroplane operator to the United Kingdom[^c-fd4717c7df1940d9ef468e978803800d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd4717c7df1940d9ef468e978803800d]: Commencement: Art. 8 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-fd4717c7df1940d9ef468e978803800d]: Commencement: Art. 8 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00017]: Footnote: ICAO Designators and Notifying States are contained in ICAO Designators for Aircraft Operating Agencies, Aeronautical Authorities and Services (Doc 8585) which is available from the ICAO website at www.icao.int. For a hard copy contact the ICAO E-Commerce and Publications Sales Unit at International Civil Aviation Organisation (ICAO), 999 Robert-Bourassa Boulevard, Montreal, Quebec H3C 5H7, Canada (telephone +1 514-954-8219 and e-mail sales@icao.int).

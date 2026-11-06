@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Interpretation of regulations 32 to 34[^key-554bb5c12458f5cf490946a91a48385d]
+## 31. Interpretation of regulations 32 to 34[^c-554bb5c12458f5cf490946a91a48385d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ For the purposes of regulations 32 to 34—
 
 ## Annotations
 
-[^key-554bb5c12458f5cf490946a91a48385d]: Commencement: Reg. 31 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-554bb5c12458f5cf490946a91a48385d]: Commencement: Reg. 31 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

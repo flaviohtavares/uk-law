@@ -24,8 +24,8 @@ summary: ''
 
 - (a) all of the claimant's unearned income (or in the case of joint claimants all of their combined unearned income) in respect of the assessment period, and
 - (b) the following amount of the claimant's earned income (or, in the case of joint claimants, their combined earned income) in respect of the assessment period—
-  - (i) in a case where no work allowance is specified in the table below (that is where a single claimant does not have, or neither of joint claimants has, responsibility for a child or qualifying young person or limited capability for work), 55%[^key-3ca711d8d48374e4a1464630382f4bb9] of that earned income, or
-  - (ii) in any other case, 55%[^key-4c422ef16f1de5853a078535d0310db5] of the amount by which that earned income exceeds the work allowance specified in the table.
+  - (i) in a case where no work allowance is specified in the table below (that is where a single claimant does not have, or neither of joint claimants has, responsibility for a child or qualifying young person or limited capability for work), 55%[^c-3ca711d8d48374e4a1464630382f4bb9] of that earned income, or
+  - (ii) in any other case, 55%[^c-4c422ef16f1de5853a078535d0310db5] of the amount by which that earned income exceeds the work allowance specified in the table.
 
 (2) The amount of the work allowance is—
 
@@ -53,9 +53,9 @@ summary: ''
 
 ## Annotations
 
-[^key-3ca711d8d48374e4a1464630382f4bb9]: Textual amendment: Word in [reg. 23(1)(b)(i)](https://www.legislation.gov.uk/nisr/2016/216/regulation/23/1/b/i) substituted (24.11.2021) by [The Universal Credit (Work Allowance and Taper) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/302)](https://www.legislation.gov.uk/nisr/2021/302), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/1/1), [2(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/2/1)
+[^c-3ca711d8d48374e4a1464630382f4bb9]: Textual amendment: Word in [reg. 23(1)(b)(i)](https://www.legislation.gov.uk/nisr/2016/216/regulation/23/1/b/i) substituted (24.11.2021) by [The Universal Credit (Work Allowance and Taper) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/302)](https://www.legislation.gov.uk/nisr/2021/302), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/1/1), [2(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/2/1)
 
-[^key-4c422ef16f1de5853a078535d0310db5]: Textual amendment: Word in [reg. 23(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/216/regulation/23/1/b/ii) substituted (24.11.2021) by [The Universal Credit (Work Allowance and Taper) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/302)](https://www.legislation.gov.uk/nisr/2021/302), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/1/1), [2(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/2/1)
+[^c-4c422ef16f1de5853a078535d0310db5]: Textual amendment: Word in [reg. 23(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/216/regulation/23/1/b/ii) substituted (24.11.2021) by [The Universal Credit (Work Allowance and Taper) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/302)](https://www.legislation.gov.uk/nisr/2021/302), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/1/1), [2(1)](https://www.legislation.gov.uk/nisr/2021/302/regulation/2/1)
 
 [^M_F_aa841c56-a65c-4e61-a574-72c148a41f3a]: Textual amendment: Sum in reg. 23 Table substituted (coming into operation in accordance with art. 1(1)(n) of the amending Rule) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2026 (S.R. 2026/59)](https://www.legislation.gov.uk/nisr/2026/59), [arts. 1(1)(n)](https://www.legislation.gov.uk/nisr/2026/59/article/1/1/n), [32(1)(a)](https://www.legislation.gov.uk/nisr/2026/59/article/32/1/a)
 

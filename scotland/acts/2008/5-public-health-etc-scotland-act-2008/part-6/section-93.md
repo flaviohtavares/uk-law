@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Power of sheriff to order removal to mortuary and disposal[^key-6cfad055d876a5580c3f58e1a4277d22]
+## 93. Power of sheriff to order removal to mortuary and disposal[^c-6cfad055d876a5580c3f58e1a4277d22]
 
 *Extent: S*
 
@@ -38,7 +38,7 @@ summary: ''
 - (a) may be exercised at any time; and
 - (b) includes power to use reasonable force.
 
-(4)[^key-70dcf1bc802694415ee9c6c93cf6c88f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-70dcf1bc802694415ee9c6c93cf6c88f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Any reasonable expenses incurred by the authority by virtue of an order under subsection (1) are recoverable from the estate of the deceased person.
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6cfad055d876a5580c3f58e1a4277d22]: Commencement: S. 93 in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-6cfad055d876a5580c3f58e1a4277d22]: Commencement: S. 93 in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
-[^key-70dcf1bc802694415ee9c6c93cf6c88f]: Textual amendment: [S. 93(4)](https://www.legislation.gov.uk/asp/2008/5/section/93/4) repealed (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-70dcf1bc802694415ee9c6c93cf6c88f]: Textual amendment: [S. 93(4)](https://www.legislation.gov.uk/asp/2008/5/section/93/4) repealed (4.4.2019) by [Burial and Cremation (Scotland) Act 2016 (asp 20)](https://www.legislation.gov.uk/asp/2016/20), [s. 112(2)](https://www.legislation.gov.uk/asp/2016/20/section/112/2), [sch. 2](https://www.legislation.gov.uk/asp/2016/20/schedule/2) (with [s. 111](https://www.legislation.gov.uk/asp/2016/20/section/111)); [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

@@ -37,91 +37,91 @@ approving on behalf of the European Union certain amendments to Annexes II, V, V
 
 (Text with EEA relevance) (revoked)
 
-[^key-92ac4ca5b321bc92259c1242c4a0995b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92ac4ca5b321bc92259c1242c4a0995b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-92ac4ca5b321bc92259c1242c4a0995b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-92ac4ca5b321bc92259c1242c4a0995b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-92ac4ca5b321bc92259c1242c4a0995b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-92ac4ca5b321bc92259c1242c4a0995b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-92ac4ca5b321bc92259c1242c4a0995b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-92ac4ca5b321bc92259c1242c4a0995b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-92ac4ca5b321bc92259c1242c4a0995b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-92ac4ca5b321bc92259c1242c4a0995b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-92ac4ca5b321bc92259c1242c4a0995b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-92ac4ca5b321bc92259c1242c4a0995b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-92ac4ca5b321bc92259c1242c4a0995b]
+## ANNEX[^c-92ac4ca5b321bc92259c1242c4a0995b]
 
-[^key-92ac4ca5b321bc92259c1242c4a0995b]AGREEMENT IN THE FORM OF AN EXCHANGE OF LETTERS constituting an Arrangement with New Zealand on the amendments to Annexes II, V, VII and VIII to the Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products of 17 December 1996
+[^c-92ac4ca5b321bc92259c1242c4a0995b]AGREEMENT IN THE FORM OF AN EXCHANGE OF LETTERS constituting an Arrangement with New Zealand on the amendments to Annexes II, V, VII and VIII to the Agreement between the European Community and New Zealand on sanitary measures applicable to trade in live animals and animal products of 17 December 1996
 
-[^key-92ac4ca5b321bc92259c1242c4a0995b]A. *Letter from the European Union*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-92ac4ca5b321bc92259c1242c4a0995b]B. *Letter from New Zealand*
+[^c-92ac4ca5b321bc92259c1242c4a0995b]A. *Letter from the European Union*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-92ac4ca5b321bc92259c1242c4a0995b]
+[^c-92ac4ca5b321bc92259c1242c4a0995b]B. *Letter from New Zealand*
 
-> [^key-92ac4ca5b321bc92259c1242c4a0995b]ANNEX II
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-92ac4ca5b321bc92259c1242c4a0995b]
+
+> [^c-92ac4ca5b321bc92259c1242c4a0995b]ANNEX II
 >
 > **RESPONSIBLE AUTHORITIES**
 >
-> **PART A — New Zealand[^key-92ac4ca5b321bc92259c1242c4a0995b]**
+> **PART A — New Zealand[^c-92ac4ca5b321bc92259c1242c4a0995b]**
 >
 > The Ministry for Primary Industries is responsible for controls in sanitary issues and veterinary affairs.
 >
 > - In terms of exports to the European Union the Ministry for Primary Industries is responsible for setting sanitary (food safety) and animal health (zoosanitary) standards and requirements and specifying the health certification attesting to the agreed sanitary and zoosanitary standards and requirements,
 > - In terms of imports into New Zealand, the Ministry for Primary Industries is responsible for setting sanitary (food safety) and animal health (zoosanitary) standards and requirements.
 >
-> **PART B — European Union[^key-92ac4ca5b321bc92259c1242c4a0995b]**
+> **PART B — European Union[^c-92ac4ca5b321bc92259c1242c4a0995b]**
 >
 > Control is shared between the national services in the individual Member States and the European Commission. In this respect, the following applies:
 >
 > - In terms of exports to New Zealand, the Member States are responsible for the control of production circumstances and requirements, including statutory inspections/audits and issuing health certification attesting to the agreed standards and requirements,
 > - In terms of imports into the European Union, the European Commission is responsible for overall coordination, inspections/audits of control systems and the necessary legislative action to ensure uniform application of standards and requirements within the internal market.
 >
-> [^key-92ac4ca5b321bc92259c1242c4a0995b]ANNEX V
+> [^c-92ac4ca5b321bc92259c1242c4a0995b]ANNEX V
 >
 > **RECOGNITION OF SANITARY MEASURES**
 >
-> [^key-92ac4ca5b321bc92259c1242c4a0995b]ANNEX VII
+> [^c-92ac4ca5b321bc92259c1242c4a0995b]ANNEX VII
 >
 > **CERTIFICATION**
 >
 > Official health certificates will cover consignments of live animals and/or animal products being traded between the Parties.
 >
-> **Section 1: Health attestations:[^key-92ac4ca5b321bc92259c1242c4a0995b]**
+> **Section 1: Health attestations:[^c-92ac4ca5b321bc92259c1242c4a0995b]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Section 2: Completion of Certificates:[^key-92ac4ca5b321bc92259c1242c4a0995b]**
+> **Section 2: Completion of Certificates:[^c-92ac4ca5b321bc92259c1242c4a0995b]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Section 3: Electronic Data Transmission:[^key-92ac4ca5b321bc92259c1242c4a0995b]**
+> **Section 3: Electronic Data Transmission:[^c-92ac4ca5b321bc92259c1242c4a0995b]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Section 4: Controls:[^key-92ac4ca5b321bc92259c1242c4a0995b]**
+> **Section 4: Controls:[^c-92ac4ca5b321bc92259c1242c4a0995b]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-92ac4ca5b321bc92259c1242c4a0995b]ANNEX VIII
+> [^c-92ac4ca5b321bc92259c1242c4a0995b]ANNEX VIII
 >
 > **FRONTIER CHECKS AND INSPECTION FEES**
 >
-> [^key-92ac4ca5b321bc92259c1242c4a0995b]A.
+> [^c-92ac4ca5b321bc92259c1242c4a0995b]A.
 >
 > FRONTIER CHECKS ON CONSIGNMENTS OF LIVE ANIMALS AND ANIMAL PRODUCTS
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-92ac4ca5b321bc92259c1242c4a0995b]B.
+> [^c-92ac4ca5b321bc92259c1242c4a0995b]B.
 >
 > INSPECTION FEES
 >
@@ -129,4 +129,4 @@ approving on behalf of the European Union certain amendments to Annexes II, V, V
 
 ## Annotations
 
-[^key-92ac4ca5b321bc92259c1242c4a0995b]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-92ac4ca5b321bc92259c1242c4a0995b]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: S*
 
-(1) A person shall be eligible for civil legal aid if his disposable income does not exceed £26,239[^key-78efaaa9183a9c31808436a7683caf4b] a year.
+(1) A person shall be eligible for civil legal aid if his disposable income does not exceed £26,239[^c-78efaaa9183a9c31808436a7683caf4b] a year.
 
 (2) A person may be refused civil legal aid if—
 
-- (a) his disposable capital exceeds £13,017[^key-37b1c6350e9f8da6b62948bbd680fc1d]; and
+- (a) his disposable capital exceeds £13,017[^c-37b1c6350e9f8da6b62948bbd680fc1d]; and
 - (b) it appears to the Board that he can afford to proceed without legal aid.
 
 (3) For the purposes of this section, a person’s disposable income and disposable capital shall be determined by the Board.
 
-(4)[^key-ebc072683999ea3d5ea2baadfa2fef23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ebc072683999ea3d5ea2baadfa2fef23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -41,8 +41,8 @@ summary: ''
 
 [^c14063951]: Modification: S. 15 excluded by [S.I. 1987/381](https://www.legislation.gov.uk/uksi/1987/381), [regs. 46(2)(a)](https://www.legislation.gov.uk/uksi/1987/381/regulation/46/2/a), [47(2)(a)](https://www.legislation.gov.uk/uksi/1987/381/regulation/47/2/a)
 
-[^key-78efaaa9183a9c31808436a7683caf4b]: Textual amendment: Word in s. 15(1) substituted (11.4.2011) by [The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011 (S.S.I. 2011/217)](https://www.legislation.gov.uk/ssi/2011/217), [regs. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1), [4(5)](https://www.legislation.gov.uk/ssi/2011/217/regulation/4/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2011/217/regulation/3))
+[^c-78efaaa9183a9c31808436a7683caf4b]: Textual amendment: Word in s. 15(1) substituted (11.4.2011) by [The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011 (S.S.I. 2011/217)](https://www.legislation.gov.uk/ssi/2011/217), [regs. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1), [4(5)](https://www.legislation.gov.uk/ssi/2011/217/regulation/4/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2011/217/regulation/3))
 
-[^key-37b1c6350e9f8da6b62948bbd680fc1d]: Textual amendment: Word in s. 15(2)(a) substituted (11.4.2011) by [The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011 (S.S.I. 2011/217)](https://www.legislation.gov.uk/ssi/2011/217), [regs. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1), [4(6)](https://www.legislation.gov.uk/ssi/2011/217/regulation/4/6) (with [reg. 3](https://www.legislation.gov.uk/ssi/2011/217/regulation/3))
+[^c-37b1c6350e9f8da6b62948bbd680fc1d]: Textual amendment: Word in s. 15(2)(a) substituted (11.4.2011) by [The Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011 (S.S.I. 2011/217)](https://www.legislation.gov.uk/ssi/2011/217), [regs. 1](https://www.legislation.gov.uk/ssi/2011/217/regulation/1), [4(6)](https://www.legislation.gov.uk/ssi/2011/217/regulation/4/6) (with [reg. 3](https://www.legislation.gov.uk/ssi/2011/217/regulation/3))
 
-[^key-ebc072683999ea3d5ea2baadfa2fef23]: Textual amendment: S. 15(4) omitted (31.12.2020) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/b), [8](https://www.legislation.gov.uk/ssi/2020/441/regulation/8) (with [regs. 12](https://www.legislation.gov.uk/ssi/2020/441/regulation/12), [13](https://www.legislation.gov.uk/ssi/2020/441/regulation/13))
+[^c-ebc072683999ea3d5ea2baadfa2fef23]: Textual amendment: S. 15(4) omitted (31.12.2020) by virtue of [The Civil and Family Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/441)](https://www.legislation.gov.uk/ssi/2020/441), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2020/441/regulation/1/2/b), [8](https://www.legislation.gov.uk/ssi/2020/441/regulation/8) (with [regs. 12](https://www.legislation.gov.uk/ssi/2020/441/regulation/12), [13](https://www.legislation.gov.uk/ssi/2020/441/regulation/13))

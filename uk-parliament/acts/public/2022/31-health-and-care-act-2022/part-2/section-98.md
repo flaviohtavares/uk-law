@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Collection of information from private health care providers[^key-7d5579b0bdafcdb116d07e25b85d831a]
+## 98. Collection of information from private health care providers[^c-7d5579b0bdafcdb116d07e25b85d831a]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ In section 259 of the Health and Social Care Act 2012 (powers to require and req
 
 ## Annotations
 
-[^key-7d5579b0bdafcdb116d07e25b85d831a]: Commencement: S. 98 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-7d5579b0bdafcdb116d07e25b85d831a]: Commencement: S. 98 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)

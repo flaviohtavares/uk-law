@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Penalty for sitting or voting where no return and declaration is transmitted[^key-17f9d48f4e8340f698fb27be7d19bf0e]
+## 52. Penalty for sitting or voting where no return and declaration is transmitted[^c-17f9d48f4e8340f698fb27be7d19bf0e]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17f9d48f4e8340f698fb27be7d19bf0e]: Commencement: Art. 52 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-17f9d48f4e8340f698fb27be7d19bf0e]: Commencement: Art. 52 in force at 16.12.2015 in accordance with art. 1(1)

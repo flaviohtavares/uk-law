@@ -55,7 +55,7 @@ In these Regulations—
 
 - “**the Act**” (“***y Ddeddf***”) means the Animal Welfare Act 2006;
 - “**cattle**” (“***gwartheg***”) means all animals of the bovine species including bison and buffalo;
-- “conventionally reared meat chicken” (“[^key-b1256815cc825f256cdf25bc52378f4c]*iâr fwyta a fegir yn gonfensiynol*”) means an animal of the species *Gallus gallus* that is kept for meat production, other than one—
+- “conventionally reared meat chicken” (“[^c-b1256815cc825f256cdf25bc52378f4c]*iâr fwyta a fegir yn gonfensiynol*”) means an animal of the species *Gallus gallus* that is kept for meat production, other than one—
   - (a) that is on a holding with fewer than 500 such animals or with only breeding stocks of such animals;
   - (b) in relation to which the term “Extensive indoor (barn reared)”, “Free range”, “Traditional free range” or “Free range – total freedom” can be used within the meaning of point (b), (c), (d) or (e) of Annex V to Commission Regulation (EC) No 543/2008 laying down detailed rules for the application of Regulation (EC) No 1234/2007 as regards the marketing standards for poultry meat);
   - (c) that is organically reared in accordance with Council Regulation (EC) No 834/2007 on organic production and labelling of organic products and repealing Regulation (EEC) No 2092/91;
@@ -77,17 +77,17 @@ Section 5(1) and (2) of the Act does not apply to a procedure listed in Schedule
 
 - (a) in accordance with any relevant requirement in Schedules 2 to 9;
 - (b) in such a way as to minimise the pain and suffering it causes to the animal;
-- (c)[^key-3ecff09da633b6f0cf82e8e0abe3005d] in hygienic conditions;
+- (c)[^c-3ecff09da633b6f0cf82e8e0abe3005d] in hygienic conditions;
 - (d) in accordance with good practice; and
 - (e) in accordance with regulation 5, where applicable.
 
 ## 4. Performance of prohibited procedures in an emergency
 
-(1) Section 5(1) and (2) of the Act does not apply where a prohibited procedure is carried out in an emergency for the purpose of saving the life or relieving the pain of the [^key-4c9f6656387144f3709c9991dce65181]... animal [^c18579221].
+(1) Section 5(1) and (2) of the Act does not apply where a prohibited procedure is carried out in an emergency for the purpose of saving the life or relieving the pain of the [^c-4c9f6656387144f3709c9991dce65181]... animal [^c18579221].
 
 (2) Any procedure carried out under paragraph (1) must be carried out in accordance with regulation 3, so far as this is practicable in all of the circumstances.
 
-## 5. Persons who may carry out permitted procedures[^key-4a6a63e28febdd971fb4a6a60b7d84b8]
+## 5. Persons who may carry out permitted procedures[^c-4a6a63e28febdd971fb4a6a60b7d84b8]
 
 (1) Any procedure permitted under regulation 3 to which the Veterinary Surgeons Act 1966 or the Veterinary Surgeons (Exemptions) Order 1962 applies, with the exception of the procedures referred to in paragraph (2), may only be carried out by a person permitted to carry it out under that legislation.
 
@@ -158,7 +158,7 @@ Other Management Procedures:
 
 Identification Procedures:
 
-- Micro-chipping.[^key-71f630ad1a95b404bdbf5b9d3aec04c4]
+- Micro-chipping.[^c-71f630ad1a95b404bdbf5b9d3aec04c4]
 - Neck tagging.
 - Web notching.
 - Web tagging.
@@ -194,7 +194,7 @@ Identification Procedures:
 
 Procedures for the Control of Reproduction:
 
-- Castration.[^key-d98a9f395d51b32754750a1003d09c8d]
+- Castration.[^c-d98a9f395d51b32754750a1003d09c8d]
 - Embryo collection or transfer by a surgical method.
 - Implantation of a subcutaneous contraceptive.
 - Laparoscopic insemination.
@@ -221,7 +221,7 @@ Identification Procedures:
 
 Procedures for the Control of Reproduction:
 
-- Castration.[^key-b83557226a4b026a4f2201432fffd41a]
+- Castration.[^c-b83557226a4b026a4f2201432fffd41a]
 - Embryo collection or transfer by a surgical method.
 - Implantation of a subcutaneous contraceptive.
 - Laparoscopic insemination.
@@ -399,7 +399,7 @@ Regulation 3
 
 When carried out on a bird, a procedure listed below must be carried out in accordance with the condition or conditions specified for that procedure.
 
-### A1. All procedures in the section on birds in Schedule 1[^key-3cf28f7c18b52f249aae3b80a5d5f5ac]
+### A1. All procedures in the section on birds in Schedule 1[^c-3cf28f7c18b52f249aae3b80a5d5f5ac]
 
 None of the procedures listed in the section on birds in Schedule 1, apart from beak trimming (*see* paragraph 5), may be performed on—
 
@@ -407,7 +407,7 @@ None of the procedures listed in the section on birds in Schedule 1, apart from 
 
 (2) a laying hen, or a chick that is intended to become a laying hen, which is kept on an establishment with 350 or more such birds.
 
-### A2. Neck tagging[^key-36427d2c89c988e171e6cd04b2b2c041]
+### A2. Neck tagging[^c-36427d2c89c988e171e6cd04b2b2c041]
 
 The procedure may only be carried out on farmed ducks and only where performed within 36 hours of hatching for the purposes of a breed improvement programme.
 
@@ -457,7 +457,7 @@ The procedure may only be carried out as part of a conservation breeding program
 
 An anaesthetic must be administered.
 
-### 5. Beak trimming of poultry[^key-e40195d8a6585aa6f3aa1970d4ec1622]
+### 5. Beak trimming of poultry[^c-e40195d8a6585aa6f3aa1970d4ec1622]
 
 (1) For all poultry, the beak trimming procedure must be performed using a suitable instrument.
 
@@ -522,7 +522,7 @@ When the method used is the application of a rubber ring or other device to cons
 
 When any other method is used, an anaesthetic must be administered where the animal is aged 3 months or over.
 
-### 1A. Embryo collection or transfer by a surgical method[^key-00a9b2582ec833944da100935864bdb6]
+### 1A. Embryo collection or transfer by a surgical method[^c-00a9b2582ec833944da100935864bdb6]
 
 An anaesthetic must be administered.
 
@@ -532,7 +532,7 @@ The procedure may not be carried out on a farmed animal.
 
 The procedure may only be carried out as part of a conservation breeding programme.
 
-### 2A. Laparoscopic insemination[^key-e10c31c568e4a9d6f4ab017e12dad875]
+### 2A. Laparoscopic insemination[^c-e10c31c568e4a9d6f4ab017e12dad875]
 
 The procedure may only be carried out as part of a breed improvement programme.
 
@@ -570,7 +570,7 @@ When the method used is the application of a rubber ring or other device to cons
 
 When any other method is used, an anaesthetic must be administered where the animal is aged 2 months or over.
 
-### 1A. Embryo collection or transfer by a surgical method[^key-0a66161d51aaca4e633aa614d37efede]
+### 1A. Embryo collection or transfer by a surgical method[^c-0a66161d51aaca4e633aa614d37efede]
 
 An anaesthetic must be administered.
 
@@ -580,7 +580,7 @@ The procedure may not be carried out on a farmed animal.
 
 The procedure may only be carried out as part of a conservation breeding programme.
 
-### 2A. Laparoscopic insemination[^key-7ba4409700bcf0596d764086215ff56a]
+### 2A. Laparoscopic insemination[^c-7ba4409700bcf0596d764086215ff56a]
 
 The procedure may only be carried out as part of a breed improvement programme.
 
@@ -718,34 +718,34 @@ A regulatory appraisal has been prepared. Copies may be obtained from the Office
 
 [^c18579211]: Marginal citation: [2006 c. 45](https://www.legislation.gov.uk/ukpga/2006/45). The appropriate national authority is defined in section 62(1) of the Act.
 
-[^key-b1256815cc825f256cdf25bc52378f4c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2007/1029/regulation/2) inserted (10.11.2010) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2010 (S.I. 2010/2712)](https://www.legislation.gov.uk/wsi/2010/2712), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2010/2712/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2010/2712/regulation/2/2)
+[^c-b1256815cc825f256cdf25bc52378f4c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2007/1029/regulation/2) inserted (10.11.2010) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2010 (S.I. 2010/2712)](https://www.legislation.gov.uk/wsi/2010/2712), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2010/2712/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2010/2712/regulation/2/2)
 
-[^key-3ecff09da633b6f0cf82e8e0abe3005d]: Textual amendment: Reg. 3(c)-(e) substituted for reg. 3(c)(d) (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/uksi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/3094/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2008/3094/regulation/3)
+[^c-3ecff09da633b6f0cf82e8e0abe3005d]: Textual amendment: Reg. 3(c)-(e) substituted for reg. 3(c)(d) (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/uksi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/3094/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2008/3094/regulation/3)
 
-[^key-4c9f6656387144f3709c9991dce65181]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2007/1029/regulation/4/1) omitted (3.12.2008) by virtue of [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2008/3094/regulation/4)
+[^c-4c9f6656387144f3709c9991dce65181]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2007/1029/regulation/4/1) omitted (3.12.2008) by virtue of [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2008/3094/regulation/4)
 
 [^c18579221]: Marginal citation: [2006 c. 45](https://www.legislation.gov.uk/ukpga/2006/45) Protected animal is defined in section 2 of the Act
 
-[^key-4a6a63e28febdd971fb4a6a60b7d84b8]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2007/1029/regulation/5) substituted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2008/3094/regulation/5)
+[^c-4a6a63e28febdd971fb4a6a60b7d84b8]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2007/1029/regulation/5) substituted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2008/3094/regulation/5)
 
 [^c18579251]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-71f630ad1a95b404bdbf5b9d3aec04c4]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2007/1029/schedule/1) substituted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/6/2)
+[^c-71f630ad1a95b404bdbf5b9d3aec04c4]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2007/1029/schedule/1) substituted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/6/2)
 
-[^key-d98a9f395d51b32754750a1003d09c8d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2007/1029/schedule/1) substituted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/6/3)
+[^c-d98a9f395d51b32754750a1003d09c8d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2007/1029/schedule/1) substituted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/6/3)
 
-[^key-b83557226a4b026a4f2201432fffd41a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2007/1029/schedule/1) substituted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [6(4)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/6/4)
+[^c-b83557226a4b026a4f2201432fffd41a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2007/1029/schedule/1) substituted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [6(4)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/6/4)
 
-[^key-3cf28f7c18b52f249aae3b80a5d5f5ac]: Textual amendment: [Sch. 4 para. A1](https://www.legislation.gov.uk/wsi/2007/1029/schedule/4/paragraph/00A1) substituted (10.11.2010) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2010 (S.I. 2010/2712)](https://www.legislation.gov.uk/wsi/2010/2712), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2010/2712/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2010/2712/regulation/2/3/a)
+[^c-3cf28f7c18b52f249aae3b80a5d5f5ac]: Textual amendment: [Sch. 4 para. A1](https://www.legislation.gov.uk/wsi/2007/1029/schedule/4/paragraph/00A1) substituted (10.11.2010) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2010 (S.I. 2010/2712)](https://www.legislation.gov.uk/wsi/2010/2712), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2010/2712/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2010/2712/regulation/2/3/a)
 
-[^key-36427d2c89c988e171e6cd04b2b2c041]: Textual amendment: [Sch. 4 paras. A1-A5](https://www.legislation.gov.uk/wsi/2007/1029/schedule/4/paragraph/A1) inserted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/7/2)
+[^c-36427d2c89c988e171e6cd04b2b2c041]: Textual amendment: [Sch. 4 paras. A1-A5](https://www.legislation.gov.uk/wsi/2007/1029/schedule/4/paragraph/A1) inserted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/7/2)
 
-[^key-e40195d8a6585aa6f3aa1970d4ec1622]: Textual amendment: [Sch. 4 para. 5](https://www.legislation.gov.uk/wsi/2007/1029/schedule/4/paragraph/5) substituted (10.11.2010) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2010 (S.I. 2010/2712)](https://www.legislation.gov.uk/wsi/2010/2712), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2010/2712/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2010/2712/regulation/2/3/b)
+[^c-e40195d8a6585aa6f3aa1970d4ec1622]: Textual amendment: [Sch. 4 para. 5](https://www.legislation.gov.uk/wsi/2007/1029/schedule/4/paragraph/5) substituted (10.11.2010) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2010 (S.I. 2010/2712)](https://www.legislation.gov.uk/wsi/2010/2712), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2010/2712/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2010/2712/regulation/2/3/b)
 
-[^key-00a9b2582ec833944da100935864bdb6]: Textual amendment: [Sch. 5 para. 1A](https://www.legislation.gov.uk/wsi/2007/1029/schedule/5/paragraph/1A) inserted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/8/2)
+[^c-00a9b2582ec833944da100935864bdb6]: Textual amendment: [Sch. 5 para. 1A](https://www.legislation.gov.uk/wsi/2007/1029/schedule/5/paragraph/1A) inserted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/8/2)
 
-[^key-e10c31c568e4a9d6f4ab017e12dad875]: Textual amendment: [Sch. 5 paras. 2A](https://www.legislation.gov.uk/wsi/2007/1029/schedule/5/paragraph/2A), [2B](https://www.legislation.gov.uk/wsi/2007/1029/schedule/5/paragraph/2B) inserted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [8(3)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/8/3)
+[^c-e10c31c568e4a9d6f4ab017e12dad875]: Textual amendment: [Sch. 5 paras. 2A](https://www.legislation.gov.uk/wsi/2007/1029/schedule/5/paragraph/2A), [2B](https://www.legislation.gov.uk/wsi/2007/1029/schedule/5/paragraph/2B) inserted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [8(3)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/8/3)
 
-[^key-0a66161d51aaca4e633aa614d37efede]: Textual amendment: [Sch. 6 para. 1A](https://www.legislation.gov.uk/wsi/2007/1029/schedule/6/paragraph/1A) inserted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/9/2)
+[^c-0a66161d51aaca4e633aa614d37efede]: Textual amendment: [Sch. 6 para. 1A](https://www.legislation.gov.uk/wsi/2007/1029/schedule/6/paragraph/1A) inserted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/9/2)
 
-[^key-7ba4409700bcf0596d764086215ff56a]: Textual amendment: [Sch. 6 paras. 2A](https://www.legislation.gov.uk/wsi/2007/1029/schedule/6/paragraph/2A), [2B](https://www.legislation.gov.uk/wsi/2007/1029/schedule/6/paragraph/2B) inserted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [9(3)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/9/3)
+[^c-7ba4409700bcf0596d764086215ff56a]: Textual amendment: [Sch. 6 paras. 2A](https://www.legislation.gov.uk/wsi/2007/1029/schedule/6/paragraph/2A), [2B](https://www.legislation.gov.uk/wsi/2007/1029/schedule/6/paragraph/2B) inserted (3.12.2008) by [The Mutilations (Permitted Procedures) (Wales) (Amendment) Regulations 2008 (S.I. 2008/3094)](https://www.legislation.gov.uk/wsi/2008/3094), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/1/2), [9(3)](https://www.legislation.gov.uk/wsi/2008/3094/regulation/9/3)

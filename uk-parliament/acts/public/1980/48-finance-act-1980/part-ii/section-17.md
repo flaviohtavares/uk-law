@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Mutual recovery and disclosure of information between member States.[^key-a27d762af3b85fd02bc4223bf74d3826]
+## 17. Mutual recovery and disclosure of information between member States.[^c-a27d762af3b85fd02bc4223bf74d3826]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a27d762af3b85fd02bc4223bf74d3826]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/1980/48/section/17) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/1)
+[^c-a27d762af3b85fd02bc4223bf74d3826]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/1980/48/section/17) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/1)

@@ -16,25 +16,25 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Transitional provision: plants, plant products and other objects from EU Member States[^key-93979f3743ac8f64aa27c9b686d2f6c3][^M_E_5af5d67c-0e73-4beb-f0f8-6b8786f90178]
+## 52. Transitional provision: plants, plant products and other objects from EU Member States[^c-93979f3743ac8f64aa27c9b686d2f6c3][^M_E_5af5d67c-0e73-4beb-f0f8-6b8786f90178]
 
 *Extent: E+W*
 
-(1)[^key-864a527fdea2e25dbdadd40d3801b12b] This regulation applies to plants, plant products and other objects which—
+(1)[^c-864a527fdea2e25dbdadd40d3801b12b] This regulation applies to plants, plant products and other objects which—
 
 - (a) originate in, or are dispatched from, an EU Member State, Liechtenstein or Switzerland; and
 - (b) are introduced into Great Britain on or after 31st January 2024 and before the end of the transitional staging period.
 
 (2) In relation to plants, plant products and other objects to which this regulation applies—
 
-- (a)[^key-9d93fff6039cdca48352d35208eaeb9e] Article 72(1) of [Regulation (EU) 2016/2031](https://www.legislation.gov.uk/european/regulation/2016/2031) does not apply in relation to plants which—
+- (a)[^c-9d93fff6039cdca48352d35208eaeb9e] Article 72(1) of [Regulation (EU) 2016/2031](https://www.legislation.gov.uk/european/regulation/2016/2031) does not apply in relation to plants which—
   - (i) are of a kind other than those listed in Schedule 2; and
   - (ii) meet the conditions specified in paragraph (2A) or (2B);
 - (b) Article 73(1) of Regulation (EU) 2016/2031 does not apply.
 
 *Extent: E+W+S*
 
-(2A)[^key-097829b02ecb52beccad1ef5b249f035] The conditions specified in this paragraph are that the plants—
+(2A)[^c-097829b02ecb52beccad1ef5b249f035] The conditions specified in this paragraph are that the plants—
 
 - (a) are introduced into Great Britain as part of a traveller’s personal luggage; and
 - (b) are not to be used for professional or commercial purposes.
@@ -43,9 +43,9 @@ summary: ''
 
 (2C (Extent: E+W+S)) Article 72(1) does not apply in relation to plants, plant products or other objects of a kind other than those listed in Schedule 2 which are dispatched from an EU Member State, Liechtenstein or Switzerland before 31st January 2024. *(Extent: E+W+S)*
 
-(3)[^key-703059d424d9d6ac75940972e9370dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-703059d424d9d6ac75940972e9370dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-a6bf9c814bcbf5c9b7dc516afdaa90a8] In paragraph (1), “**the transitional staging period**” has the meaning given in Annex 6 to Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.
+(4)[^c-a6bf9c814bcbf5c9b7dc516afdaa90a8] In paragraph (1), “**the transitional staging period**” has the meaning given in Annex 6 to Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.
 
 ## 52. Transitional provision: plants, plant products and other objects from EU Member States[^V_S_f8f4d74a-4133-583f-43d8-4d47f5c1a12f][^M_E_01accd8a-358d-436e-a7c4-6fab0700032a]
 
@@ -74,7 +74,7 @@ summary: ''
 
 (2C (Extent: E+W+S)) Article 72(1) does not apply in relation to plants, plant products or other objects of a kind other than those listed in Schedule 2 which are dispatched from an EU Member State, Liechtenstein or Switzerland before 31st January 2024. *(Extent: E+W+S)*
 
-(3)[^key-703059d424d9d6ac75940972e9370dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-703059d424d9d6ac75940972e9370dc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^V_S_8827bf46-01b1-7730-31ed-a929dc13dd6e] In paragraph (1), “**the transitional staging period**” has the meaning given in paragraph 2 (interpretation) of Annex 6 to Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.
 
@@ -93,19 +93,19 @@ summary: ''
 
 ## Annotations
 
-[^key-93979f3743ac8f64aa27c9b686d2f6c3]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b)
+[^c-93979f3743ac8f64aa27c9b686d2f6c3]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b)
 
 [^M_E_5af5d67c-0e73-4beb-f0f8-6b8786f90178]: Extent: This version of this provision extends to England and Wales; separate versions have been created for Scotland and Northern Ireland only
 
-[^key-864a527fdea2e25dbdadd40d3801b12b]: Textual amendment: [Reg. 52(1)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/52/1) substituted (E.W.S.) (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2024/20/regulation/4/2/a)
+[^c-864a527fdea2e25dbdadd40d3801b12b]: Textual amendment: [Reg. 52(1)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/52/1) substituted (E.W.S.) (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2024/20/regulation/4/2/a)
 
-[^key-9d93fff6039cdca48352d35208eaeb9e]: Textual amendment: [Reg. 52(2)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/52/2/a) substituted (E.W.S.) (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2024/20/regulation/4/2/b)
+[^c-9d93fff6039cdca48352d35208eaeb9e]: Textual amendment: [Reg. 52(2)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/52/2/a) substituted (E.W.S.) (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2024/20/regulation/4/2/b)
 
-[^key-097829b02ecb52beccad1ef5b249f035]: Textual amendment: [Reg. 52(2A)-(2C)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/52/2A) inserted (E.W.S.) (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2024/20/regulation/4/2/c)
+[^c-097829b02ecb52beccad1ef5b249f035]: Textual amendment: [Reg. 52(2A)-(2C)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/52/2A) inserted (E.W.S.) (31.1.2024) by [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2024/20/regulation/4/2/c)
 
-[^key-703059d424d9d6ac75940972e9370dc2]: Textual amendment: [Reg. 52(3)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/52/3) omitted (E.W.S.) (31.1.2024) by virtue of [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2024/20/regulation/4/2/d)
+[^c-703059d424d9d6ac75940972e9370dc2]: Textual amendment: [Reg. 52(3)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/52/3) omitted (E.W.S.) (31.1.2024) by virtue of [The Official Controls (Extension of Transitional Periods) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/20)](https://www.legislation.gov.uk/uksi/2024/20), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/20/regulation/1/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2024/20/regulation/4/2/d)
 
-[^key-a6bf9c814bcbf5c9b7dc516afdaa90a8]: Textual amendment: Reg. 52(4) inserted (E.W.) (30.12.2021) by [The Official Controls (Extension of Transitional Periods) (England and Wales) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1443)](https://www.legislation.gov.uk/uksi/2021/1443), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/1443/regulation/1/1/b), [5(2)(b)](https://www.legislation.gov.uk/uksi/2021/1443/regulation/5/2/b)
+[^c-a6bf9c814bcbf5c9b7dc516afdaa90a8]: Textual amendment: Reg. 52(4) inserted (E.W.) (30.12.2021) by [The Official Controls (Extension of Transitional Periods) (England and Wales) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1443)](https://www.legislation.gov.uk/uksi/2021/1443), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2021/1443/regulation/1/1/b), [5(2)(b)](https://www.legislation.gov.uk/uksi/2021/1443/regulation/5/2/b)
 
 [^V_S_f8f4d74a-4133-583f-43d8-4d47f5c1a12f]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b)
 

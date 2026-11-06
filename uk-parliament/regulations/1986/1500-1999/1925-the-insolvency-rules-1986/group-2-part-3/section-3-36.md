@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.36. Issue of certificate of insolvency[^key-561e3218efcd9638262ce0b4db0e993b]
+## 3.36. Issue of certificate of insolvency[^c-561e3218efcd9638262ce0b4db0e993b]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-561e3218efcd9638262ce0b4db0e993b]: Commencement: [Rule 3.36](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.36) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-561e3218efcd9638262ce0b4db0e993b]: Commencement: [Rule 3.36](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.36) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^f00002]: Footnote: As amended by section 32 of the Finance Act 1985 (c.54).

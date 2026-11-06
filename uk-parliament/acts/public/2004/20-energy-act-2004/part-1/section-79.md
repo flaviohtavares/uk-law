@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Expenditure on nuclear related matters[^key-dfda5293e1659a7a02a5f15aa85abbfe]
+## 79. Expenditure on nuclear related matters[^c-dfda5293e1659a7a02a5f15aa85abbfe]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfda5293e1659a7a02a5f15aa85abbfe]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2004/20/section/79) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-dfda5293e1659a7a02a5f15aa85abbfe]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2004/20/section/79) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

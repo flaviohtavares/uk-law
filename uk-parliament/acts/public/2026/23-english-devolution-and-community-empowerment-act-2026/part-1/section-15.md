@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Combined authorities and CCAs: minor amendments[^key-467a150a158602f48c9871ed14c024ac]
+## 15. Combined authorities and CCAs: minor amendments[^c-467a150a158602f48c9871ed14c024ac]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-467a150a158602f48c9871ed14c024ac]: Commencement: S. 15 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-467a150a158602f48c9871ed14c024ac]: Commencement: S. 15 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

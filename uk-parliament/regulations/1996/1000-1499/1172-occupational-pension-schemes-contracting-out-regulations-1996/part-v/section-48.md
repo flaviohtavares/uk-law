@@ -20,24 +20,24 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-7596d8a28fe8d14682f05dff757e7b5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7596d8a28fe8d14682f05dff757e7b5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-7596d8a28fe8d14682f05dff757e7b5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7596d8a28fe8d14682f05dff757e7b5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-7596d8a28fe8d14682f05dff757e7b5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7596d8a28fe8d14682f05dff757e7b5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-7596d8a28fe8d14682f05dff757e7b5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7596d8a28fe8d14682f05dff757e7b5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-11b1fcc2604c3c43a44e204b0b3382ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-11b1fcc2604c3c43a44e204b0b3382ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5A)[^key-11b1fcc2604c3c43a44e204b0b3382ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5A)[^c-11b1fcc2604c3c43a44e204b0b3382ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-11b1fcc2604c3c43a44e204b0b3382ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-11b1fcc2604c3c43a44e204b0b3382ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-11b1fcc2604c3c43a44e204b0b3382ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-11b1fcc2604c3c43a44e204b0b3382ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7596d8a28fe8d14682f05dff757e7b5b]: Textual amendment: [Reg. 48(1)-(4)](https://www.legislation.gov.uk/uksi/1996/1172/regulation/48/1) revoked (6.4.2019) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/c), [33(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/33/b)
+[^c-7596d8a28fe8d14682f05dff757e7b5b]: Textual amendment: [Reg. 48(1)-(4)](https://www.legislation.gov.uk/uksi/1996/1172/regulation/48/1) revoked (6.4.2019) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/c), [33(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/33/b)
 
-[^key-11b1fcc2604c3c43a44e204b0b3382ee]: Textual amendment: Reg. 48(5)-(7) revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/b), [31(d)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/31/d)
+[^c-11b1fcc2604c3c43a44e204b0b3382ee]: Textual amendment: Reg. 48(5)-(7) revoked (6.4.2016) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/b), [31(d)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/31/d)

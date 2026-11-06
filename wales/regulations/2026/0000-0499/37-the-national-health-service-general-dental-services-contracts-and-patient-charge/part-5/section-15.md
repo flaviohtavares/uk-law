@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Advanced mandatory services[^key-d1ae567605ff1591a92dc26dcf8d6b3d]
+## 15. Advanced mandatory services[^c-d1ae567605ff1591a92dc26dcf8d6b3d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1ae567605ff1591a92dc26dcf8d6b3d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2026/37/regulation/15) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-d1ae567605ff1591a92dc26dcf8d6b3d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2026/37/regulation/15) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

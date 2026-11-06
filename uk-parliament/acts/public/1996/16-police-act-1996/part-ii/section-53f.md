@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53F. Guidance about designated police volunteers[^key-7e5b9b59a8473401ac8541b36f31b5f1]
+## 53F. Guidance about designated police volunteers[^c-7e5b9b59a8473401ac8541b36f31b5f1]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e5b9b59a8473401ac8541b36f31b5f1]: Textual amendment: [S. 53F](https://www.legislation.gov.uk/ukpga/1996/16/section/53F) inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 40(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/40/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/f) (as amended by S.I. 2017/1162, [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
+[^c-7e5b9b59a8473401ac8541b36f31b5f1]: Textual amendment: [S. 53F](https://www.legislation.gov.uk/ukpga/1996/16/section/53F) inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 40(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/40/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/f) (as amended by S.I. 2017/1162, [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))

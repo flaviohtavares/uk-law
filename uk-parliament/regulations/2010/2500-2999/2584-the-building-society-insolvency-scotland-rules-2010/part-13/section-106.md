@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Form of proxy[^key-50e323357d6964dcb6352f3048db2d47]
+## 106. Form of proxy[^c-50e323357d6964dcb6352f3048db2d47]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 7.15 of the 1986 Rules.
 
 ## Annotations
 
-[^key-50e323357d6964dcb6352f3048db2d47]: Commencement: Rule 106 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-50e323357d6964dcb6352f3048db2d47]: Commencement: Rule 106 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

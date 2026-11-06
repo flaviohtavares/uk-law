@@ -25,7 +25,7 @@ summary: ''
 - (a) appoint one or more inspectors to examine into and report on the society's affairs, or
 - (b) call a special meeting of the society.
 
-(2)[^key-46bf7816f4e315bc4f8840d9cbe513d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-46bf7816f4e315bc4f8840d9cbe513d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An application under this section must be supported by such evidence for the purpose of showing that the applicants have good reason for requiring the examination or meeting (and do not have malicious motives) as the FCA directs.
 
@@ -48,4 +48,4 @@ in such proportions as the FCA directs.
 
 ## Annotations
 
-[^key-46bf7816f4e315bc4f8840d9cbe513d5]: Textual amendment: S. 106(2) omitted (18.7.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/2), [Sch. 3 para. 51](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/51) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)); [S.I. 2020/744](https://www.legislation.gov.uk/uksi/2020/744), [art. 3](https://www.legislation.gov.uk/uksi/2020/744/article/3)
+[^c-46bf7816f4e315bc4f8840d9cbe513d5]: Textual amendment: S. 106(2) omitted (18.7.2020) by virtue of [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/2), [Sch. 3 para. 51](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/51) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)); [S.I. 2020/744](https://www.legislation.gov.uk/uksi/2020/744), [art. 3](https://www.legislation.gov.uk/uksi/2020/744/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Manner in which protected animals are to be killed[^key-af75b0ebe49acd0ed92efa20fe0a90ba]
+## 15A. Manner in which protected animals are to be killed[^c-af75b0ebe49acd0ed92efa20fe0a90ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ Where this exception applies, the reference in subsection (1)(c) or (2)(b) to th
 
 ## Annotations
 
-[^key-af75b0ebe49acd0ed92efa20fe0a90ba]: Textual amendment: S. 15A inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2012/3039/regulation/15) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))
+[^c-af75b0ebe49acd0ed92efa20fe0a90ba]: Textual amendment: S. 15A inserted (1.1.2013) by [The Animals (Scientific Procedures) Act 1986 Amendment Regulations 2012 (S.I. 2012/3039)](https://www.legislation.gov.uk/uksi/2012/3039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3039/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2012/3039/regulation/15) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2012/3039/schedule/3))

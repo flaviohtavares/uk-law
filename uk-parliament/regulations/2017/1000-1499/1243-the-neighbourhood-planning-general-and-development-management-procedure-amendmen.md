@@ -46,15 +46,15 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 59(1), (2)(b) and (3)(a) and 333(7) of and paragraph 8(6) of Schedule 1 (as applied by paragraph 8A(3) of that Schedule) and paragraph 13A of Schedule 4B to the Town and Country Planning Act 1990[^f00001] and by section 122(3) of and paragraphs 1(4) and (5), 4, 9(2), 13(7), 14(7) and 16 of Schedule A2 to the Planning and Compulsory Purchase Act 2004[^f00002] makes the following Regulations:
 
-## 1. Citation and commencement[^key-ba6e42d9ae090728bc1f44d45c32de33]
+## 1. Citation and commencement[^c-ba6e42d9ae090728bc1f44d45c32de33]
 
 These Regulations may be cited as the Neighbourhood Planning (General) and Development Management Procedure (Amendment) Regulations 2017 and come into force on 31st January 2018.
 
-## 2. Amendment of the Neighbourhood Planning (General) Regulations 2012[^key-20a4dd0a72d519b88baa84925c6a43a8]
+## 2. Amendment of the Neighbourhood Planning (General) Regulations 2012[^c-20a4dd0a72d519b88baa84925c6a43a8]
 
 The Neighbourhood Planning (General) Regulations 2012[^f00003] are amended in accordance with the following provisions.
 
-## 3. Amendment of regulation 3[^key-91c437bad283e06bec912e1ab04bcf87]
+## 3. Amendment of regulation 3[^c-91c437bad283e06bec912e1ab04bcf87]
 
 In regulation 3 (interpretation), after the definition of “inspection” insert —
 
@@ -62,7 +62,7 @@ In regulation 3 (interpretation), after the definition of “inspection” inser
 
 .
 
-## 4. Amendment of regulation 14[^key-c1fe1192f878f6af30df303211447972]
+## 4. Amendment of regulation 14[^c-c1fe1192f878f6af30df303211447972]
 
 (1) Regulation 14 (pre-submission consultation and publicity) is amended as follows.
 
@@ -80,7 +80,7 @@ In regulation 3 (interpretation), after the definition of “inspection” inser
 
 .
 
-## 5. Amendment of regulation 15[^key-6bb6da9a80e3cdb0c845a7add439f072]
+## 5. Amendment of regulation 15[^c-6bb6da9a80e3cdb0c845a7add439f072]
 
 (1) Regulation 15 (plan proposals) is amended as follows.
 
@@ -102,7 +102,7 @@ In regulation 3 (interpretation), after the definition of “inspection” inser
 
 (8) In regulation 15(2)(a) and (d), after “proposed neighbourhood development plan” insert “or neighbourhood development plan as proposed to be modified.”
 
-## 6. Amendment of regulation 16[^key-bbd91242304d20b33d4406fe65f780c8]
+## 6. Amendment of regulation 16[^c-bbd91242304d20b33d4406fe65f780c8]
 
 (1) Regulation 16 (publicising a plan proposal) is amended as follows.
 
@@ -112,7 +112,7 @@ In regulation 3 (interpretation), after the definition of “inspection” inser
 
 (4) In regulation 16(a)(iv) before “a statement” insert “in the case of a plan proposal,”.
 
-## 7. Amendment of regulation 17[^key-aa4747b0e70cb4b672b462e42b6ef69c]
+## 7. Amendment of regulation 17[^c-aa4747b0e70cb4b672b462e42b6ef69c]
 
 (1) Regulation 17 (submission of plan proposal to examination) is amended as follows.
 
@@ -134,11 +134,11 @@ In regulation 3 (interpretation), after the definition of “inspection” inser
 
 .
 
-## 8. Amendment of regulation 17A[^key-3aa8917dcdb63d914fbe00bbec6f06e0]
+## 8. Amendment of regulation 17A[^c-3aa8917dcdb63d914fbe00bbec6f06e0]
 
 In regulation 17A(4) (decision on examiner’s recommendations), for “after” substitute “before”.
 
-## 9. Amendment of regulation 18[^key-28b08457edfa75cda53ac8017932de0d]
+## 9. Amendment of regulation 18[^c-28b08457edfa75cda53ac8017932de0d]
 
 (1) Regulation 18 (publication of the examiner’s report and plan proposal decisions) is amended as follows.
 
@@ -156,7 +156,7 @@ In regulation 17A(4) (decision on examiner’s recommendations), for “after”
 
 (8) In regulation 18(2)(c) after “2004 Act)” insert “or paragraph 13 of Schedule A2 to the 2004 Act”.
 
-## 10. Amendment of regulation 18A[^key-ec16c347f6c7099c73aa14bb201288f1]
+## 10. Amendment of regulation 18A[^c-ec16c347f6c7099c73aa14bb201288f1]
 
 In regulation 18A (prescribed date for making a neighbourhood development plan), after paragraph (2) add—
 
@@ -165,11 +165,11 @@ In regulation 18A (prescribed date for making a neighbourhood development plan),
 > - (b) the last day of the period of 5 weeks beginning with the day immediately following that on which the examiner’s report was received by the local authority in accordance with paragraph 13 of Schedule A2 to the 2004 Act; or
 > - (c) such later date as may be agreed in writing by the local planning authority and the qualifying body.
 
-## 11. Amendment of regulation 20[^key-298fb2a0c09b803759102e9c50eb2013]
+## 11. Amendment of regulation 20[^c-298fb2a0c09b803759102e9c50eb2013]
 
 In regulation 20 (publicising a neighbourhood development plan), after “section 38A(4)” insert “or section 38A(11)”.
 
-## 12. Amendment of the Town and Country Planning (Development Management Procedure) (England) Order 2015[^key-14bfaf33f54d3050d332dfae444ab1cf]
+## 12. Amendment of the Town and Country Planning (Development Management Procedure) (England) Order 2015[^c-14bfaf33f54d3050d332dfae444ab1cf]
 
 (1) The Town and Country Planning (Development Management Procedure) (England) Order 2015[^f00004] is amended as follows.
 
@@ -177,7 +177,7 @@ In regulation 20 (publicising a neighbourhood development plan), after “sectio
 
 (3) In Article 25A (representations by neighbourhood forum before determination of application), after “paragraph 8A(1)” insert “or paragraph 8A(1B)”.
 
-## 13. Transitional provisions[^key-4c6ddb271d15ea7a1c1c6c0915561106]
+## 13. Transitional provisions[^c-4c6ddb271d15ea7a1c1c6c0915561106]
 
 The amendments made by regulations 3 to 11 do not apply in relation to a proposal for the modification of a neighbourhood development plan which is submitted to a local planning authority in accordance with regulation 15 of the Neighbourhood Planning (General) Regulations 2012 before 31st January 2018.
 
@@ -215,32 +215,32 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00002]: Footnote: [2004 c.5](https://www.legislation.gov.uk/ukpga/2004/5). Schedule A2 was inserted by section 4 of the Neighbourhood Planning Act [2017 c.20](https://www.legislation.gov.uk/ukpga/2017/20).
 
-[^key-ba6e42d9ae090728bc1f44d45c32de33]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
+[^c-ba6e42d9ae090728bc1f44d45c32de33]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
 
-[^key-20a4dd0a72d519b88baa84925c6a43a8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1243/regulation/2) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
+[^c-20a4dd0a72d519b88baa84925c6a43a8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1243/regulation/2) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2012/637](https://www.legislation.gov.uk/uksi/2012/637). Regulations 15(1)(c) and (e) were amended by [S.I. 2015/20](https://www.legislation.gov.uk/uksi/2015/20) and regulations 17A and 18A were inserted by [S.I. 2016/873](https://www.legislation.gov.uk/uksi/2016/873)
 
-[^key-91c437bad283e06bec912e1ab04bcf87]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1243/regulation/3) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
+[^c-91c437bad283e06bec912e1ab04bcf87]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1243/regulation/3) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
 
-[^key-c1fe1192f878f6af30df303211447972]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/1243/regulation/4) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
+[^c-c1fe1192f878f6af30df303211447972]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/1243/regulation/4) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
 
-[^key-6bb6da9a80e3cdb0c845a7add439f072]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
+[^c-6bb6da9a80e3cdb0c845a7add439f072]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/1243/regulation/5) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
 
-[^key-bbd91242304d20b33d4406fe65f780c8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/1243/regulation/6) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
+[^c-bbd91242304d20b33d4406fe65f780c8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/1243/regulation/6) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
 
-[^key-aa4747b0e70cb4b672b462e42b6ef69c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
+[^c-aa4747b0e70cb4b672b462e42b6ef69c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/1243/regulation/7) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
 
-[^key-3aa8917dcdb63d914fbe00bbec6f06e0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/1243/regulation/8) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
+[^c-3aa8917dcdb63d914fbe00bbec6f06e0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/1243/regulation/8) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
 
-[^key-28b08457edfa75cda53ac8017932de0d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
+[^c-28b08457edfa75cda53ac8017932de0d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/1243/regulation/9) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
 
-[^key-ec16c347f6c7099c73aa14bb201288f1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/1243/regulation/10) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
+[^c-ec16c347f6c7099c73aa14bb201288f1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/1243/regulation/10) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
 
-[^key-298fb2a0c09b803759102e9c50eb2013]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2017/1243/regulation/11) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
+[^c-298fb2a0c09b803759102e9c50eb2013]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2017/1243/regulation/11) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
 
-[^key-14bfaf33f54d3050d332dfae444ab1cf]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/1243/regulation/12) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
+[^c-14bfaf33f54d3050d332dfae444ab1cf]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/1243/regulation/12) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595). Article 25A was inserted by [S.I. 2016/873](https://www.legislation.gov.uk/uksi/2016/873).
 
-[^key-4c6ddb271d15ea7a1c1c6c0915561106]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)
+[^c-4c6ddb271d15ea7a1c1c6c0915561106]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2017/1243/regulation/13) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/1243/regulation/1)

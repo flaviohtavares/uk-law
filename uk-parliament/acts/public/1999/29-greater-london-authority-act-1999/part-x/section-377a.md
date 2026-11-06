@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 377A. The Mayor's duty to exercise certain powers of appointment[^key-51486dd2d7961fe85deb928a3f08db97]
+## 377A. The Mayor's duty to exercise certain powers of appointment[^c-51486dd2d7961fe85deb928a3f08db97]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ the power to make the appointment is to be taken for the purposes of this sectio
 
 ## Annotations
 
-[^key-51486dd2d7961fe85deb928a3f08db97]: Textual amendment: S. 377A inserted (23.10.2007 for specified purposes, 6.4.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 51(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/51/1), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/582/article/2/d)
+[^c-51486dd2d7961fe85deb928a3f08db97]: Textual amendment: S. 377A inserted (23.10.2007 for specified purposes, 6.4.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 51(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/51/1), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/582/article/2/d)

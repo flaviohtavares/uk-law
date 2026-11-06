@@ -26,7 +26,7 @@ Regulation 35(1)
 
 This Schedule applies to every Part A installation.
 
-### 2. Interpretation[^key-0327c62e8b0885d2319f1de2e72bab01]
+### 2. Interpretation[^c-0327c62e8b0885d2319f1de2e72bab01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -54,8 +54,8 @@ The regulator must exercise its relevant functions so as to ensure compliance wi
 - (j) Article 17;
 - (k) Article 18;
 - (l) Article 20(1) and (2);
-- (m) Article 22 [^key-24aa501b2f3bd361d4466a711d082ca5]... ;
-- (n)[^key-2193df1369aadf983b047a0291c48e7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m) Article 22 [^c-24aa501b2f3bd361d4466a711d082ca5]... ;
+- (n)[^c-2193df1369aadf983b047a0291c48e7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6. Developments in best available techniques
 
@@ -82,10 +82,10 @@ When inspecting a regulated facility in accordance with regulation 34(2) the reg
 
 ## Annotations
 
-[^key-0327c62e8b0885d2319f1de2e72bab01]: Textual amendment: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/7/paragraph/2) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(11)(a)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0327c62e8b0885d2319f1de2e72bab01]: Textual amendment: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/7/paragraph/2) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(11)(a)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_6fdfa9de-0ba7-4949-c6aa-48aa6719c4f5]: Textual amendment: Words in Sch. 7 para. 5(h) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/11/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-24aa501b2f3bd361d4466a711d082ca5]: Textual amendment: Words in [Sch. 7 para. 5(m)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/7/paragraph/5/m) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(11)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/11/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24aa501b2f3bd361d4466a711d082ca5]: Textual amendment: Words in [Sch. 7 para. 5(m)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/7/paragraph/5/m) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(11)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/11/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2193df1369aadf983b047a0291c48e7b]: Textual amendment: [Sch. 7 para. 5(n)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/7/paragraph/5/n) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(11)(c)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/11/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2193df1369aadf983b047a0291c48e7b]: Textual amendment: [Sch. 7 para. 5(n)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/7/paragraph/5/n) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(11)(c)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/11/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

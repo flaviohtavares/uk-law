@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Conversion: supplementary[^key-e2280f465519dd9f116df171844a4afa]
+## 58. Conversion: supplementary[^c-e2280f465519dd9f116df171844a4afa]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
 (3) If the appropriate registrar—
 
 - (a) registers the documents sent under subsection (1)(b), and
-- (b) cancels the registration of the company under the Companies Act 2006[^key-b6e5b87dd9424e45414e0289ef5f7b4c], or of the society under the Co-operative and Community Benefit Societies Act 2014[^key-e9444521f8ca2a937b069bf613c1c882] (c. 12),
+- (b) cancels the registration of the company under the Companies Act 2006[^c-b6e5b87dd9424e45414e0289ef5f7b4c], or of the society under the Co-operative and Community Benefit Societies Act 2014[^c-e9444521f8ca2a937b069bf613c1c882] (c. 12),
 
 subsections (4) and (5) apply.
 
@@ -51,17 +51,17 @@ subsections (4) and (5) apply.
 
 (7) In section 57 and in this section, the “**appropriate registrar**” means—
 
-- (a) in the case of an application for conversion by a company, the registrar of companies [^key-b4ba13452671b04cd948692a87456c1c]...,
-- (b) in the case of an application for conversion by a registered society, the Financial Conduct Authority[^key-6f631581fb932943e17463edf451f12e] .
+- (a) in the case of an application for conversion by a company, the registrar of companies [^c-b4ba13452671b04cd948692a87456c1c]...,
+- (b) in the case of an application for conversion by a registered society, the Financial Conduct Authority[^c-6f631581fb932943e17463edf451f12e] .
 
 ## Annotations
 
-[^key-e2280f465519dd9f116df171844a4afa]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2005/10/section/58) in force at 1.1.2012 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(4)(c)](https://www.legislation.gov.uk/ssi/2011/20/article/2/4/c)
+[^c-e2280f465519dd9f116df171844a4afa]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2005/10/section/58) in force at 1.1.2012 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(4)(c)](https://www.legislation.gov.uk/ssi/2011/20/article/2/4/c)
 
-[^key-b6e5b87dd9424e45414e0289ef5f7b4c]: Textual amendment: Words in s. 58(3)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 250(3)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/250/3/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-b6e5b87dd9424e45414e0289ef5f7b4c]: Textual amendment: Words in s. 58(3)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 250(3)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/250/3/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-e9444521f8ca2a937b069bf613c1c882]: Textual amendment: Words in [s. 58(3)(b)](https://www.legislation.gov.uk/asp/2005/10/section/58/3/b) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 98](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/98) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-e9444521f8ca2a937b069bf613c1c882]: Textual amendment: Words in [s. 58(3)(b)](https://www.legislation.gov.uk/asp/2005/10/section/58/3/b) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 98](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/98) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-b4ba13452671b04cd948692a87456c1c]: Textual amendment: Words in s. 58(7)(a) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 250(3)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/250/3/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-b4ba13452671b04cd948692a87456c1c]: Textual amendment: Words in s. 58(7)(a) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 250(3)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/250/3/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-6f631581fb932943e17463edf451f12e]: Textual amendment: Words in [s. 58(7)(b)](https://www.legislation.gov.uk/asp/2005/10/section/58/7/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 7](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/7) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-6f631581fb932943e17463edf451f12e]: Textual amendment: Words in [s. 58(7)(b)](https://www.legislation.gov.uk/asp/2005/10/section/58/7/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 11 para. 7](https://www.legislation.gov.uk/uksi/2013/496/schedule/11/paragraph/7) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

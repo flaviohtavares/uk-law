@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Monitoring of CO<sub>2</sub> emissions: Eligibility of monitoring methods[^key-88744023e4aa22891dad86f4828a34ee]
+## 22. Monitoring of CO<sub>2</sub> emissions: Eligibility of monitoring methods[^c-88744023e4aa22891dad86f4828a34ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,34 +36,34 @@ summary: ''
 
 2021-2035 period
 
-(7) An aeroplane operator, with annual CO<sub>2</sub> emissions from international flights subject to offsetting requirements under article 41A[^key-3512e869025ac63e30696f8fb43e121a] of greater than or equal to 50,000 tonnes, must use a Fuel Use Monitoring Method as described in Schedule 2 for these flights. For other international flights, the aeroplane operator must use either a Fuel Use Monitoring Method, as described in Schedule 2, or the CERT, as described in Schedule 3.
+(7) An aeroplane operator, with annual CO<sub>2</sub> emissions from international flights subject to offsetting requirements under article 41A[^c-3512e869025ac63e30696f8fb43e121a] of greater than or equal to 50,000 tonnes, must use a Fuel Use Monitoring Method as described in Schedule 2 for these flights. For other international flights, the aeroplane operator must use either a Fuel Use Monitoring Method, as described in Schedule 2, or the CERT, as described in Schedule 3.
 
-(8) An aeroplane operator, with annual CO<sub>2</sub> emissions from international flights subject to offsetting requirements under article 41A[^key-3af3390960c3862273b4bd97401435ff] of less than 50,000 tonnes, must use either a Fuel Use Monitoring Method or the CERT as described in Schedules 2 and 3, respectively.
+(8) An aeroplane operator, with annual CO<sub>2</sub> emissions from international flights subject to offsetting requirements under article 41A[^c-3af3390960c3862273b4bd97401435ff] of less than 50,000 tonnes, must use either a Fuel Use Monitoring Method or the CERT as described in Schedules 2 and 3, respectively.
 
-(9) If an aeroplane operator’s annual CO<sub>2</sub> emissions from international flights subject to offsetting requirements under article 41A[^key-80ded2b9c1d99468da6d4a939909687c], increases above the threshold of 50,000 tonnes in a given year (y), and also in year (y+1)[^f00025], the aeroplane operator must—
+(9) If an aeroplane operator’s annual CO<sub>2</sub> emissions from international flights subject to offsetting requirements under article 41A[^c-80ded2b9c1d99468da6d4a939909687c], increases above the threshold of 50,000 tonnes in a given year (y), and also in year (y+1)[^f00025], the aeroplane operator must—
 
 - (a) submit an updated Emissions Monitoring Plan by 30th September of year (y + 2)[^f00026], and
 - (b) change to a Fuel Use Monitoring Method, as set out in Schedule 2, on 1st January of year (y + 3)[^f00027].
 
-(10) If an aeroplane operator’s annual CO<sub>2</sub> emissions from international flights subject to offsetting requirements under article 41A[^key-ed23f6305991438ad588b94930b871d0] decreases below the threshold of 50,000 tonnes in a given year (y), and also in year (y + 1), the aeroplane operator may change monitoring method on 1st January of year (y + 3).
+(10) If an aeroplane operator’s annual CO<sub>2</sub> emissions from international flights subject to offsetting requirements under article 41A[^c-ed23f6305991438ad588b94930b871d0] decreases below the threshold of 50,000 tonnes in a given year (y), and also in year (y + 1), the aeroplane operator may change monitoring method on 1st January of year (y + 3).
 
 (11) Where an aeroplane operator chooses to change its monitoring method under paragraph (10)[^f00028], it must submit an updated Emissions Monitoring Plan by 30th September of year (y + 2).
 
-(12) Where the aeroplane operator has, prior to this Order coming into force, accumulated any fuel use during 2021 pursuant to article 3 of Commission Implementing Regulation (EU) 2019/1603 in conjunction with article 24 of the UK ETS Order, that fuel use data must be used for the purpose of this Order.[^key-c57f84ca4f8c72300fe1ab4dc16b9fbf]
+(12) Where the aeroplane operator has, prior to this Order coming into force, accumulated any fuel use during 2021 pursuant to article 3 of Commission Implementing Regulation (EU) 2019/1603 in conjunction with article 24 of the UK ETS Order, that fuel use data must be used for the purpose of this Order.[^c-c57f84ca4f8c72300fe1ab4dc16b9fbf]
 
 ## Annotations
 
-[^key-88744023e4aa22891dad86f4828a34ee]: Commencement: Art. 22 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-88744023e4aa22891dad86f4828a34ee]: Commencement: Art. 22 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00022]: Footnote: Guidance material on eligibility of monitoring methods, and associated thresholds, is provided in the Environmental Technical Manual (Doc 9501), Volume IV – Procedures for demonstrating compliance with the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) which is available from the ICAO website at www.icao.int. For a hard copy contact the ICAO E-Commerce and Publications Sales Unit at International Civil Aviation Organisation (ICAO), 999 Robert-Bourassa Boulevard, Montreal, Quebec H3C 5H7, Canada (telephone +1 514-954-8219 and e-mail sales@icao.int).
 
 [^f00023]: Footnote: OJ L 250, 30.9.2019, p.10.
 
-[^key-3512e869025ac63e30696f8fb43e121a]: Textual amendment: Words in [art. 22(7)](https://www.legislation.gov.uk/uksi/2021/534/article/22/7) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2022/1050/article/10/2)
+[^c-3512e869025ac63e30696f8fb43e121a]: Textual amendment: Words in [art. 22(7)](https://www.legislation.gov.uk/uksi/2021/534/article/22/7) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2022/1050/article/10/2)
 
-[^key-3af3390960c3862273b4bd97401435ff]: Textual amendment: Words in [art. 22(8)](https://www.legislation.gov.uk/uksi/2021/534/article/22/8) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2022/1050/article/10/2)
+[^c-3af3390960c3862273b4bd97401435ff]: Textual amendment: Words in [art. 22(8)](https://www.legislation.gov.uk/uksi/2021/534/article/22/8) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2022/1050/article/10/2)
 
-[^key-80ded2b9c1d99468da6d4a939909687c]: Textual amendment: Words in [art. 22(9)](https://www.legislation.gov.uk/uksi/2021/534/article/22/9) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2022/1050/article/10/2)
+[^c-80ded2b9c1d99468da6d4a939909687c]: Textual amendment: Words in [art. 22(9)](https://www.legislation.gov.uk/uksi/2021/534/article/22/9) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2022/1050/article/10/2)
 
 [^f00025]: Footnote: “(y + 1)” refers to the year following the increase above the threshold.
 
@@ -71,8 +71,8 @@ summary: ''
 
 [^f00027]: Footnote: “(y + 3)” refers to the third year following the increase above the threshold.
 
-[^key-ed23f6305991438ad588b94930b871d0]: Textual amendment: Words in [art. 22(10)](https://www.legislation.gov.uk/uksi/2021/534/article/22/10) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2022/1050/article/10/2)
+[^c-ed23f6305991438ad588b94930b871d0]: Textual amendment: Words in [art. 22(10)](https://www.legislation.gov.uk/uksi/2021/534/article/22/10) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2022/1050/article/10/2)
 
 [^f00028]: Footnote: See Volume IV of Annex 16 to the Chicago Convention, Attachment B, Figure B-3, for a process flowchart on the eligibility of Fuel Use Monitoring Methods during the 2021-2035 Compliance Phases.
 
-[^key-c57f84ca4f8c72300fe1ab4dc16b9fbf]: Textual amendment: [Art. 22(12)](https://www.legislation.gov.uk/uksi/2021/534/article/22/12) full stop inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [10(3)](https://www.legislation.gov.uk/uksi/2022/1050/article/10/3)
+[^c-c57f84ca4f8c72300fe1ab4dc16b9fbf]: Textual amendment: [Art. 22(12)](https://www.legislation.gov.uk/uksi/2021/534/article/22/12) full stop inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [10(3)](https://www.legislation.gov.uk/uksi/2022/1050/article/10/3)

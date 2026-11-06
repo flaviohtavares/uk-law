@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7AA. Licensing of a person carrying out gas system planner functions[^key-bbbd068744cc5f89023dff6af9d555fb]
+## 7AA. Licensing of a person carrying out gas system planner functions[^c-bbbd068744cc5f89023dff6af9d555fb]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbbd068744cc5f89023dff6af9d555fb]: Textual amendment: S. 7AA inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 168(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/168/3), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(v)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/v)
+[^c-bbbd068744cc5f89023dff6af9d555fb]: Textual amendment: S. 7AA inserted (31.1.2024) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 168(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/168/3), [334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1); [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(v)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/v)

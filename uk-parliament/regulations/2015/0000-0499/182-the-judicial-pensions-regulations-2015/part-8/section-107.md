@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Stopping payment and recovery of pensions paid under this Part[^key-aaca0734799372b2c7430edb0f976a93]
+## 107. Stopping payment and recovery of pensions paid under this Part[^c-aaca0734799372b2c7430edb0f976a93]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaca0734799372b2c7430edb0f976a93]: Commencement: [Reg. 107](https://www.legislation.gov.uk/uksi/2015/182/regulation/107) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-aaca0734799372b2c7430edb0f976a93]: Commencement: [Reg. 107](https://www.legislation.gov.uk/uksi/2015/182/regulation/107) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

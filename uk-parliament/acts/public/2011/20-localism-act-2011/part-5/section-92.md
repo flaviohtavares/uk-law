@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Review of decision to include land in list[^c2116504][^key-aa381408bdd87f2158e1f41255aef493]
+## 92. Review of decision to include land in list[^c2116504][^c-aa381408bdd87f2158e1f41255aef493]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ the authority concerned must review its decision.
 
 [^c2116504]: Commencement: S. 92 in force for specified purposes at Royal Assent see [s. 240(5)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/f)
 
-[^key-aa381408bdd87f2158e1f41255aef493]: Commencement: S. 92 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-aa381408bdd87f2158e1f41255aef493]: Commencement: S. 92 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)

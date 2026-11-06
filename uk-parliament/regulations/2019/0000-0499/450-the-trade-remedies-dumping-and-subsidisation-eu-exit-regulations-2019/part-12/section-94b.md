@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94B. New exporter review of trade remedies measure transitioned under this Part[^key-dc68a8dc60108bd892ea7da55f232855]
+## 94B. New exporter review of trade remedies measure transitioned under this Part[^c-dc68a8dc60108bd892ea7da55f232855]
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies for the purposes of a new exporter review in relation to an anti-dumping amount or a countervailing amount applied by public notice under regulation 96A(1) or 101C(2)(a)[^key-706af437c75d66069d27d6b44ed0ba5c].
+(1) This regulation applies for the purposes of a new exporter review in relation to an anti-dumping amount or a countervailing amount applied by public notice under regulation 96A(1) or 101C(2)(a)[^c-706af437c75d66069d27d6b44ed0ba5c].
 
 (2) Regulation 71 (new exporter review) has effect as if—
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
+[^c-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
 
-[^key-706af437c75d66069d27d6b44ed0ba5c]: Textual amendment: Word in reg. 94B(1) substituted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [23](https://www.legislation.gov.uk/uksi/2020/99/regulation/23)
+[^c-706af437c75d66069d27d6b44ed0ba5c]: Textual amendment: Word in reg. 94B(1) substituted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [23](https://www.legislation.gov.uk/uksi/2020/99/regulation/23)

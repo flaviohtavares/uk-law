@@ -36,123 +36,123 @@ concerning livestock and meat statistics and repealing Council Directives 93/23/
 
 (Text with EEA relevance) (revoked)
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3408463357b12a8d7b60c709a9bff1d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-3408463357b12a8d7b60c709a9bff1d3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-3408463357b12a8d7b60c709a9bff1d3]
+## Article 1. Subject matter[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION I — LIVESTOCK STATISTICS[^key-3408463357b12a8d7b60c709a9bff1d3]
-
-### Article 3. Coverage[^key-3408463357b12a8d7b60c709a9bff1d3]
+## Article 2. Definitions[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Frequency and reference period[^key-3408463357b12a8d7b60c709a9bff1d3]
+## SECTION I — LIVESTOCK STATISTICS[^c-3408463357b12a8d7b60c709a9bff1d3]
+
+### Article 3. Coverage[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Categories[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 4. Frequency and reference period[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Precision[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 5. Categories[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Transmission deadlines[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 6. Precision[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Regional statistics[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 7. Transmission deadlines[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION II — SLAUGHTERING STATISTICS[^key-3408463357b12a8d7b60c709a9bff1d3]
-
-### Article 9. Coverage[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 8. Regional statistics[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Frequency and reference period[^key-3408463357b12a8d7b60c709a9bff1d3]
+## SECTION II — SLAUGHTERING STATISTICS[^c-3408463357b12a8d7b60c709a9bff1d3]
+
+### Article 9. Coverage[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Categories[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 10. Frequency and reference period[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Transmission deadlines[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 11. Categories[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION III — MEAT PRODUCTION FORECASTS[^key-3408463357b12a8d7b60c709a9bff1d3]
-
-### Article 13. Coverage[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 12. Transmission deadlines[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Frequency and reference period[^key-3408463357b12a8d7b60c709a9bff1d3]
+## SECTION III — MEAT PRODUCTION FORECASTS[^c-3408463357b12a8d7b60c709a9bff1d3]
+
+### Article 13. Coverage[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Categories[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 14. Frequency and reference period[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Transmission deadlines[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 15. Categories[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION IV — GENERAL PROVISIONS[^key-3408463357b12a8d7b60c709a9bff1d3]
-
-### Article 17. Quality assessment and reports[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 16. Transmission deadlines[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Amendments to the Annexes[^key-3408463357b12a8d7b60c709a9bff1d3]
+## SECTION IV — GENERAL PROVISIONS[^c-3408463357b12a8d7b60c709a9bff1d3]
+
+### Article 17. Quality assessment and reports[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Exercise of the delegation[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 18. Amendments to the Annexes[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 20. Derogation[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 19. Exercise of the delegation[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 21. Repeal[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 20. Derogation[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 22. Entry into force[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 21. Repeal[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I — DEFINITIONS[^key-3408463357b12a8d7b60c709a9bff1d3]
+### Article 22. Entry into force[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]1.
+[^c-3408463357b12a8d7b60c709a9bff1d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — DEFINITIONS[^c-3408463357b12a8d7b60c709a9bff1d3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3408463357b12a8d7b60c709a9bff1d3]1.
 
 categories of bovine animals
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]2.
+[^c-3408463357b12a8d7b60c709a9bff1d3]2.
 
 categories of sheep
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]3.
+[^c-3408463357b12a8d7b60c709a9bff1d3]3.
 
 the term ‘carcass’
 
@@ -160,72 +160,72 @@ the term ‘carcass’
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]4.
+[^c-3408463357b12a8d7b60c709a9bff1d3]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — CATEGORIES OF LIVESTOCK STATISTICS[^key-3408463357b12a8d7b60c709a9bff1d3]
+## ANNEX II — CATEGORIES OF LIVESTOCK STATISTICS[^c-3408463357b12a8d7b60c709a9bff1d3]
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]Bovine animals
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-3408463357b12a8d7b60c709a9bff1d3]Pigs
+[^c-3408463357b12a8d7b60c709a9bff1d3]Bovine animals
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]Sheep
+[^c-3408463357b12a8d7b60c709a9bff1d3]Pigs
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]Goats
+[^c-3408463357b12a8d7b60c709a9bff1d3]Sheep
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — PRECISION REQUIREMENTS[^key-3408463357b12a8d7b60c709a9bff1d3]
+[^c-3408463357b12a8d7b60c709a9bff1d3]Goats
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — CATEGORIES OF SLAUGHTERING STATISTICS[^key-3408463357b12a8d7b60c709a9bff1d3]
-
-[^key-3408463357b12a8d7b60c709a9bff1d3]Bovine animals
+## ANNEX III — PRECISION REQUIREMENTS[^c-3408463357b12a8d7b60c709a9bff1d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]Pigs
+## ANNEX IV — CATEGORIES OF SLAUGHTERING STATISTICS[^c-3408463357b12a8d7b60c709a9bff1d3]
+
+[^c-3408463357b12a8d7b60c709a9bff1d3]Bovine animals
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]Sheep
+[^c-3408463357b12a8d7b60c709a9bff1d3]Pigs
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]Goats
+[^c-3408463357b12a8d7b60c709a9bff1d3]Sheep
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]Poultry
+[^c-3408463357b12a8d7b60c709a9bff1d3]Goats
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V — CATEGORIES OF MEAT PRODUCTION FORECASTS[^key-3408463357b12a8d7b60c709a9bff1d3]
-
-[^key-3408463357b12a8d7b60c709a9bff1d3]Bovine animals
+[^c-3408463357b12a8d7b60c709a9bff1d3]Poultry
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]Pigs
+## ANNEX V — CATEGORIES OF MEAT PRODUCTION FORECASTS[^c-3408463357b12a8d7b60c709a9bff1d3]
+
+[^c-3408463357b12a8d7b60c709a9bff1d3]Bovine animals
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]Sheep
+[^c-3408463357b12a8d7b60c709a9bff1d3]Pigs
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]Goats
+[^c-3408463357b12a8d7b60c709a9bff1d3]Sheep
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3408463357b12a8d7b60c709a9bff1d3]Goats
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3408463357b12a8d7b60c709a9bff1d3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 139](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/139); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3408463357b12a8d7b60c709a9bff1d3]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 139](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/139); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

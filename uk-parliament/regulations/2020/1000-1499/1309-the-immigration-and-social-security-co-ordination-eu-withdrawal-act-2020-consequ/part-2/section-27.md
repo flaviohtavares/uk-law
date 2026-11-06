@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Amendment and saving of the Immigration (Leave to Enter and Remain) Order 2000[^key-713e60e8ec1889baa568cdd3a0d3603a][^M_I_ee4609d4-477b-4504-8087-393f7b3d1292]
+## 27. Amendment and saving of the Immigration (Leave to Enter and Remain) Order 2000[^c-713e60e8ec1889baa568cdd3a0d3603a][^M_I_ee4609d4-477b-4504-8087-393f7b3d1292]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-713e60e8ec1889baa568cdd3a0d3603a]: Commencement: Reg. 27 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-713e60e8ec1889baa568cdd3a0d3603a]: Commencement: Reg. 27 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_ee4609d4-477b-4504-8087-393f7b3d1292]: Commencement: Reg. 27 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-e22d35868ed2f35639fed423e554c182]
+## 2. Interpretation[^c-e22d35868ed2f35639fed423e554c182]
 
 *Extent: E+W+S*
 
@@ -64,7 +64,7 @@ summary: ''
 - “**level of high water**” means the level of mean high-water springs;
 - “**Long Strip**” means the area shown edged blue and labelled “Tree Preservation Order” on the plan of potentially affected hedgerows and trees subject to preservation orders;
 - “**Long Strip construction environmental management plan**” means the document of that name identified in the table at Schedule 15 (documents and plans to be certified) and which has been certified by the Secretary of State as the Long Strip construction environmental management plan for the purposes of this Order;
-- “**maintain**” includes inspect, repair, adjust, alter, remove or reconstruct, provided such works do not give rise to any materially new or materially different environmental effects in comparison with those reported in the environmental statement or in any environmental information supplied under the 2017 Regulations[^key-457d660982738c944f4e2c54dffa0b71], and any derivative of “[^key-38e3797f5c5e027c9fe903db103df912]**maintain**” is to be construed accordingly;
+- “**maintain**” includes inspect, repair, adjust, alter, remove or reconstruct, provided such works do not give rise to any materially new or materially different environmental effects in comparison with those reported in the environmental statement or in any environmental information supplied under the 2017 Regulations[^c-457d660982738c944f4e2c54dffa0b71], and any derivative of “[^c-38e3797f5c5e027c9fe903db103df912]**maintain**” is to be construed accordingly;
 - “**MMO**” means the Marine Management Organisation;
 - “**new early works planning permission**” means any planning permission granted under the 1990 Act prior to the service of notice under article 55(3) for works also comprised in Work No. 2, Work No. 3, Work No 5 or Work No. 7 (including any further associated development to which paragraph 11 of Part 1 (authorised development) of Schedule 1 (authorised project) refers) or any part of them, and any amendments or variations made or granted in respect of such planning permission pursuant to section 96A[^f00029] (power to make non-material changes to planning permission or permission in principle), section 73, section 73A or section 73B of the 1990 Act, except an existing early works planning permission;
 - “**operational use**” means the relevant part of the authorised project being in operation after construction and commissioning is complete;
@@ -120,7 +120,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e22d35868ed2f35639fed423e554c182]: Commencement: Art. 2 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-e22d35868ed2f35639fed423e554c182]: Commencement: Art. 2 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
 [^f00010]: Footnote: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27).
 
@@ -160,9 +160,9 @@ summary: ''
 
 [^f00028]: Footnote: Section 73B was inserted by section 110(1) and (2) of the Levelling-up and Regeneration Act 2023.
 
-[^key-457d660982738c944f4e2c54dffa0b71]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/165/article/2/1) inserted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-457d660982738c944f4e2c54dffa0b71]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/165/article/2/1) inserted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
 
-[^key-38e3797f5c5e027c9fe903db103df912]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/165/article/2/1) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-38e3797f5c5e027c9fe903db103df912]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/165/article/2/1) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
 
 [^f00029]: Footnote: Section 96A was inserted by the Planning Act 2008 and amended by paragraph 3(10) of Schedule 14 to the Environment Act [2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30) and section 114(7) of the Levelling-up and Regeneration Act 2023 and by [S.I. 2017/276](https://www.legislation.gov.uk/uksi/2017/276).
 

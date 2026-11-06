@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Decision notices[^key-9efbce1f3a9266866af2e1dfd5fa1e57]
+## 69. Decision notices[^c-9efbce1f3a9266866af2e1dfd5fa1e57]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ the planning authority must send a revised decision notice to the persons specif
 
 ## Annotations
 
-[^key-9efbce1f3a9266866af2e1dfd5fa1e57]: Commencement: S. 69 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-9efbce1f3a9266866af2e1dfd5fa1e57]: Commencement: S. 69 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Duty of Primary Care Trusts[^key-b34eb4bb3d0f1f233f764a1dd7b5ba76]
+## 139. Duty of Primary Care Trusts[^c-b34eb4bb3d0f1f233f764a1dd7b5ba76]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ After section 23 of the National Health Service Act 2006 (c. 41) insert—
 
 ## Annotations
 
-[^key-b34eb4bb3d0f1f233f764a1dd7b5ba76]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2008/14/section/139) in force at 1.4.2010 by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 13(c)](https://www.legislation.gov.uk/uksi/2010/708/article/13/c)
+[^c-b34eb4bb3d0f1f233f764a1dd7b5ba76]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2008/14/section/139) in force at 1.4.2010 by [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 13(c)](https://www.legislation.gov.uk/uksi/2010/708/article/13/c)

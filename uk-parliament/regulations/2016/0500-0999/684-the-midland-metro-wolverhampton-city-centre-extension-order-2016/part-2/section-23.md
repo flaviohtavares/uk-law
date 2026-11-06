@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Mode of construction and operation of tramway[^key-a0da7873f7b7b8fe9f77f759888cd68b]
+## 23. Mode of construction and operation of tramway[^c-a0da7873f7b7b8fe9f77f759888cd68b]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0da7873f7b7b8fe9f77f759888cd68b]: Commencement: Art. 23 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-a0da7873f7b7b8fe9f77f759888cd68b]: Commencement: Art. 23 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

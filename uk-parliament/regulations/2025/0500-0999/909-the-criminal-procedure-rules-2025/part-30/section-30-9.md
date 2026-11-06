@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30.9. Warrant of control: application to resolve dispute[^key-dd0954e6ef31a5b5387edf3205e34cd5]
+## 30.9. Warrant of control: application to resolve dispute[^c-dd0954e6ef31a5b5387edf3205e34cd5]
 
 *Extent: E+W*
 
@@ -63,7 +63,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dd0954e6ef31a5b5387edf3205e34cd5]: Commencement: [Rule 30.9](https://www.legislation.gov.uk/uksi/2025/909/rule/30.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-dd0954e6ef31a5b5387edf3205e34cd5]: Commencement: [Rule 30.9](https://www.legislation.gov.uk/uksi/2025/909/rule/30.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00743]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 

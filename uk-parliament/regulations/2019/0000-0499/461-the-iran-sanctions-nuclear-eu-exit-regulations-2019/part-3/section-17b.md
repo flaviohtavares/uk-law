@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17B. UK credit or financial institutions: accounts and corresponding banking relationships etc.[^key-2637daa2fa7a7fd3ed6fa9d53f98a180]
+## 17B. UK credit or financial institutions: accounts and corresponding banking relationships etc.[^c-2637daa2fa7a7fd3ed6fa9d53f98a180]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ a person falling within paragraph (5), if the UK credit or financial institution
 
 ## Annotations
 
-[^key-2637daa2fa7a7fd3ed6fa9d53f98a180]: Textual amendment: [Regs. 17A-17D](https://www.legislation.gov.uk/uksi/2019/461/regulation/17A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2026/983/regulation/6/c)
+[^c-2637daa2fa7a7fd3ed6fa9d53f98a180]: Textual amendment: [Regs. 17A-17D](https://www.legislation.gov.uk/uksi/2019/461/regulation/17A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2026/983/regulation/6/c)

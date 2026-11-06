@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Carriage of dangerous substances[^key-f33fc765c8f2c9e2060e0a71edae365d]
+## 44. Carriage of dangerous substances[^c-f33fc765c8f2c9e2060e0a71edae365d]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f33fc765c8f2c9e2060e0a71edae365d]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1986/1078/regulation/44) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-f33fc765c8f2c9e2060e0a71edae365d]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1986/1078/regulation/44) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

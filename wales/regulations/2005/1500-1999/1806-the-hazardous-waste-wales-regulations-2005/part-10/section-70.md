@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where an authorised person acting on behalf of the NRBW[^key-61607186241584d8b269a2b7cb9f3a31] has reason to believe that a person has committed an offence under regulation 65 to which this regulation applies, the authorised person may give that person a notice offering that person the opportunity of discharging any liability to conviction fmor that offence by payment of a fixed penalty.
+(1) Where an authorised person acting on behalf of the NRBW[^c-61607186241584d8b269a2b7cb9f3a31] has reason to believe that a person has committed an offence under regulation 65 to which this regulation applies, the authorised person may give that person a notice offering that person the opportunity of discharging any liability to conviction fmor that offence by payment of a fixed penalty.
 
 (2) This regulation applies to an offence consisting of—
 
@@ -59,4 +59,4 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-61607186241584d8b269a2b7cb9f3a31]: Textual amendment: Word in [reg. 70](https://www.legislation.gov.uk/wsi/2005/1806/regulation/70) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 34](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/34) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-61607186241584d8b269a2b7cb9f3a31]: Textual amendment: Word in [reg. 70](https://www.legislation.gov.uk/wsi/2005/1806/regulation/70) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 34](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/34) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

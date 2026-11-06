@@ -30,8 +30,8 @@ summary: ''
 
 (3) In this Part a “**person subject to UK service jurisdiction**” means—
 
-a person subject to service law, or a civilian subject to service discipline, within the meaning of the Armed Forces Act 2006.[^key-5b05f76f26365c8a1887dc71354f7686]
+a person subject to service law, or a civilian subject to service discipline, within the meaning of the Armed Forces Act 2006.[^c-5b05f76f26365c8a1887dc71354f7686]
 
 ## Annotations
 
-[^key-5b05f76f26365c8a1887dc71354f7686]: Textual amendment: Words in [s. 67(3)](https://www.legislation.gov.uk/ukpga/2001/17/section/67/3) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 189](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/189); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5b05f76f26365c8a1887dc71354f7686]: Textual amendment: Words in [s. 67(3)](https://www.legislation.gov.uk/ukpga/2001/17/section/67/3) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 189](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/189); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

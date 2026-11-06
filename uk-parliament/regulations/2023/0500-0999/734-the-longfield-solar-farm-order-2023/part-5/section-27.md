@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Temporary use of land for constructing the authorised development[^key-c21985a79b58d994279959049758ae74]
+## 27. Temporary use of land for constructing the authorised development[^c-c21985a79b58d994279959049758ae74]
 
 *Extent: E+W+S*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c21985a79b58d994279959049758ae74]: Commencement: Art. 27 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-c21985a79b58d994279959049758ae74]: Commencement: Art. 27 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)

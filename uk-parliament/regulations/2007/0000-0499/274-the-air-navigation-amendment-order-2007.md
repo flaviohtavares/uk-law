@@ -32,7 +32,7 @@ summary: ''
 
 civil aviation
 
-The Air Navigation (Amendment) Order 2007 (revoked)[^key-653b9478ba10a7c186c98fb2dcd6d086]
+The Air Navigation (Amendment) Order 2007 (revoked)[^c-653b9478ba10a7c186c98fb2dcd6d086]
 
 Made
 
@@ -52,48 +52,48 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-653b9478ba10a7c186c98fb2dcd6d086]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-653b9478ba10a7c186c98fb2dcd6d086]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-653b9478ba10a7c186c98fb2dcd6d086]
+## 1. Citation and Commencement[^c-653b9478ba10a7c186c98fb2dcd6d086]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Air Navigation Order 2005[^key-653b9478ba10a7c186c98fb2dcd6d086]
+## 2. Amendment of the Air Navigation Order 2005[^c-653b9478ba10a7c186c98fb2dcd6d086]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Visibility requirements for helicopters[^key-653b9478ba10a7c186c98fb2dcd6d086]
+## 3. Visibility requirements for helicopters[^c-653b9478ba10a7c186c98fb2dcd6d086]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Requirements for non-public transport flights[^key-653b9478ba10a7c186c98fb2dcd6d086]
+## 4. Requirements for non-public transport flights[^c-653b9478ba10a7c186c98fb2dcd6d086]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Carriage and use of vibration health monitoring systems[^key-653b9478ba10a7c186c98fb2dcd6d086]
+## 5. Carriage and use of vibration health monitoring systems[^c-653b9478ba10a7c186c98fb2dcd6d086]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Balloon flying displays[^key-653b9478ba10a7c186c98fb2dcd6d086]
+## 6. Balloon flying displays[^c-653b9478ba10a7c186c98fb2dcd6d086]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Introduction of 8.33kHz channel spacing[^key-653b9478ba10a7c186c98fb2dcd6d086]
+## 7. Introduction of 8.33kHz channel spacing[^c-653b9478ba10a7c186c98fb2dcd6d086]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Other changes[^key-653b9478ba10a7c186c98fb2dcd6d086]
+## 8. Other changes[^c-653b9478ba10a7c186c98fb2dcd6d086]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-653b9478ba10a7c186c98fb2dcd6d086]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-653b9478ba10a7c186c98fb2dcd6d086]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-653b9478ba10a7c186c98fb2dcd6d086]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-653b9478ba10a7c186c98fb2dcd6d086]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-653b9478ba10a7c186c98fb2dcd6d086]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/274) revoked (1.1.2010) by [The Air Navigation Order 2009 (S.I. 2009/3015)](https://www.legislation.gov.uk/uksi/2009/3015), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3015/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3015/schedule/1)
+[^c-653b9478ba10a7c186c98fb2dcd6d086]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/274) revoked (1.1.2010) by [The Air Navigation Order 2009 (S.I. 2009/3015)](https://www.legislation.gov.uk/uksi/2009/3015), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/3015/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/3015/schedule/1)

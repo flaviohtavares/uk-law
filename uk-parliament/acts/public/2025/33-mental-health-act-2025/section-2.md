@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Application of principles to Wales[^key-68da0c2a792ef18c3234d34a9609aae9]
+## 2. Application of principles to Wales[^c-68da0c2a792ef18c3234d34a9609aae9]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68da0c2a792ef18c3234d34a9609aae9]: Commencement: S. 2 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-68da0c2a792ef18c3234d34a9609aae9]: Commencement: S. 2 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

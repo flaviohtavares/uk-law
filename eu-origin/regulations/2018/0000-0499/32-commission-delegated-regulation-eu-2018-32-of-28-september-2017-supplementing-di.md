@@ -35,132 +35,132 @@ supplementing Directive 2014/92/EU of the European Parliament and of the Council
 
 (Text with EEA relevance) (revoked)
 
-[^key-5826b2140173ed17554c8d5eb08e0947]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5826b2140173ed17554c8d5eb08e0947]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Standardised terms and definitions[^key-5826b2140173ed17554c8d5eb08e0947]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Entry into force[^key-5826b2140173ed17554c8d5eb08e0947]
+## Article 1. Standardised terms and definitions[^c-5826b2140173ed17554c8d5eb08e0947]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX — Union standardised terms and definitions for services linked to a payment accounts that are common to at least a majority of Member States, under Article 3(4) of Directive 2014/92/EU[^key-5826b2140173ed17554c8d5eb08e0947]
-
-[^key-5826b2140173ed17554c8d5eb08e0947]BELGIUM
+## Article 2. Entry into force[^c-5826b2140173ed17554c8d5eb08e0947]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]BULGARIA
+[^c-5826b2140173ed17554c8d5eb08e0947]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX — Union standardised terms and definitions for services linked to a payment accounts that are common to at least a majority of Member States, under Article 3(4) of Directive 2014/92/EU[^c-5826b2140173ed17554c8d5eb08e0947]
+
+[^c-5826b2140173ed17554c8d5eb08e0947]BELGIUM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]CZECH REPUBLIC
+[^c-5826b2140173ed17554c8d5eb08e0947]BULGARIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]DENMARK
+[^c-5826b2140173ed17554c8d5eb08e0947]CZECH REPUBLIC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]GERMANY
+[^c-5826b2140173ed17554c8d5eb08e0947]DENMARK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]ESTONIA
+[^c-5826b2140173ed17554c8d5eb08e0947]GERMANY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]IRELAND
+[^c-5826b2140173ed17554c8d5eb08e0947]ESTONIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]GREECE
+[^c-5826b2140173ed17554c8d5eb08e0947]IRELAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]SPAIN
+[^c-5826b2140173ed17554c8d5eb08e0947]GREECE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]FRANCE
+[^c-5826b2140173ed17554c8d5eb08e0947]SPAIN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]CROATIA
+[^c-5826b2140173ed17554c8d5eb08e0947]FRANCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]ITALY
+[^c-5826b2140173ed17554c8d5eb08e0947]CROATIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]CYPRUS
+[^c-5826b2140173ed17554c8d5eb08e0947]ITALY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]LATVIA
+[^c-5826b2140173ed17554c8d5eb08e0947]CYPRUS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]LITHUANIA
+[^c-5826b2140173ed17554c8d5eb08e0947]LATVIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]LUXEMBOURG
+[^c-5826b2140173ed17554c8d5eb08e0947]LITHUANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]HUNGARY
+[^c-5826b2140173ed17554c8d5eb08e0947]LUXEMBOURG
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]MALTA
+[^c-5826b2140173ed17554c8d5eb08e0947]HUNGARY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]NETHERLANDS
+[^c-5826b2140173ed17554c8d5eb08e0947]MALTA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]AUSTRIA
+[^c-5826b2140173ed17554c8d5eb08e0947]NETHERLANDS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]POLAND
+[^c-5826b2140173ed17554c8d5eb08e0947]AUSTRIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]PORTUGAL
+[^c-5826b2140173ed17554c8d5eb08e0947]POLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]ROMANIA
+[^c-5826b2140173ed17554c8d5eb08e0947]PORTUGAL
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]SLOVENIA
+[^c-5826b2140173ed17554c8d5eb08e0947]ROMANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]SLOVAKIA
+[^c-5826b2140173ed17554c8d5eb08e0947]SLOVENIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]FINLAND
+[^c-5826b2140173ed17554c8d5eb08e0947]SLOVAKIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]SWEDEN
+[^c-5826b2140173ed17554c8d5eb08e0947]FINLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5826b2140173ed17554c8d5eb08e0947]UNITED KINGDOM
+[^c-5826b2140173ed17554c8d5eb08e0947]SWEDEN
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5826b2140173ed17554c8d5eb08e0947]UNITED KINGDOM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5826b2140173ed17554c8d5eb08e0947]: Textual amendment: Regulation revoked (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2019/661/regulation/18) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5826b2140173ed17554c8d5eb08e0947]: Textual amendment: Regulation revoked (31.12.2020) by [The Payment Accounts (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/661)](https://www.legislation.gov.uk/uksi/2019/661), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/661/regulation/1/3), [18](https://www.legislation.gov.uk/uksi/2019/661/regulation/18) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

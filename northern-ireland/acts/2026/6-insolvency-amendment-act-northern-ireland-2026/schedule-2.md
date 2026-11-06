@@ -24,9 +24,9 @@ summary: ''
 
 Section 92
 
-**1.**[^key-e6913b560a8d203620ac53609b3e49ed] In Article 259(3) (interim receiver to have powers and duties conferred by Article 260), for “of a receiver and manager under” substitute “given by”.
+**1.**[^c-e6913b560a8d203620ac53609b3e49ed] In Article 259(3) (interim receiver to have powers and duties conferred by Article 260), for “of a receiver and manager under” substitute “given by”.
 
-**2.**[^key-3c04482fcd31e785c9e07b7d2e6aa381] (1) Article 260 (receivership pending appointment of trustee) is amended as follows.
+**2.**[^c-3c04482fcd31e785c9e07b7d2e6aa381] (1) Article 260 (receivership pending appointment of trustee) is amended as follows.
 
 (2) For the heading substitute “Powers of interim receiver”.
 
@@ -67,9 +67,9 @@ Section 92
 
 (7) Omit paragraph (5).
 
-**3.**[^key-641584353087a95348e318c7e75149a2] Omit Article 264(1) to (3) (bankrupt’s duty to deliver possession of estate to official receiver).
+**3.**[^c-641584353087a95348e318c7e75149a2] Omit Article 264(1) to (3) (bankrupt’s duty to deliver possession of estate to official receiver).
 
-**4.**[^key-cd2381d598cf04037a025b330b24cf59] (1) Article 265 (power to make appointments) is amended as follows.
+**4.**[^c-cd2381d598cf04037a025b330b24cf59] (1) Article 265 (power to make appointments) is amended as follows.
 
 (2) For the heading substitute “Appointment of trustees: general provision”.
 
@@ -81,18 +81,18 @@ Section 92
 
 (4) Omit paragraph (6).
 
-**5.**[^key-0212178694849fddcda98a159f9192c3] Omit Articles 266 to 268 (meeting of creditors to appoint first trustee).
+**5.**[^c-0212178694849fddcda98a159f9192c3] Omit Articles 266 to 268 (meeting of creditors to appoint first trustee).
 
-**6.**[^key-1fd4c08577adfc981b5ba6aa618ac4d5] In Article 269(3) (application for appointment despite previous refusal), omit “under Article 268 or”.
+**6.**[^c-1fd4c08577adfc981b5ba6aa618ac4d5] In Article 269(3) (application for appointment despite previous refusal), omit “under Article 268 or”.
 
-**7.**[^key-b4e16df0ba211f3f5ccb341301db48b3] Omit Article 270 (special cases).
+**7.**[^c-b4e16df0ba211f3f5ccb341301db48b3] Omit Article 270 (special cases).
 
-**8.**[^key-e78a895eb8ca4a907bd1d136408b3d34] In Article 271(3) (general meeting to replace trustee)—
+**8.**[^c-e78a895eb8ca4a907bd1d136408b3d34] In Article 271(3) (general meeting to replace trustee)—
 
 - (a) for “Article 266(3) or 268(4)” substitute “Article 264A(1)”;
 - (b) for “Article 270(4)” substitute “Article 264A(3)”.
 
-**9.**[^key-cc51afed3e0a7b032708978d63956fec] (1) Schedule 6 (provision that may be included in individual insolvency rules) is amended as follows.
+**9.**[^c-cc51afed3e0a7b032708978d63956fec] (1) Schedule 6 (provision that may be included in individual insolvency rules) is amended as follows.
 
 (2) Omit paragraph 8 and the heading before it.
 
@@ -100,20 +100,20 @@ Section 92
 
 ## Annotations
 
-[^key-e6913b560a8d203620ac53609b3e49ed]: Commencement: Sch. 2 para. 1 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-e6913b560a8d203620ac53609b3e49ed]: Commencement: Sch. 2 para. 1 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-3c04482fcd31e785c9e07b7d2e6aa381]: Commencement: Sch. 2 para. 2 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-3c04482fcd31e785c9e07b7d2e6aa381]: Commencement: Sch. 2 para. 2 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-641584353087a95348e318c7e75149a2]: Commencement: Sch. 2 para. 3 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-641584353087a95348e318c7e75149a2]: Commencement: Sch. 2 para. 3 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-cd2381d598cf04037a025b330b24cf59]: Commencement: Sch. 2 para. 4 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-cd2381d598cf04037a025b330b24cf59]: Commencement: Sch. 2 para. 4 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-0212178694849fddcda98a159f9192c3]: Commencement: Sch. 2 para. 5 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-0212178694849fddcda98a159f9192c3]: Commencement: Sch. 2 para. 5 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-1fd4c08577adfc981b5ba6aa618ac4d5]: Commencement: Sch. 2 para. 6 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-1fd4c08577adfc981b5ba6aa618ac4d5]: Commencement: Sch. 2 para. 6 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-b4e16df0ba211f3f5ccb341301db48b3]: Commencement: Sch. 2 para. 7 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-b4e16df0ba211f3f5ccb341301db48b3]: Commencement: Sch. 2 para. 7 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-e78a895eb8ca4a907bd1d136408b3d34]: Commencement: Sch. 2 para. 8 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-e78a895eb8ca4a907bd1d136408b3d34]: Commencement: Sch. 2 para. 8 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
 
-[^key-cc51afed3e0a7b032708978d63956fec]: Commencement: Sch. 2 para. 9 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-cc51afed3e0a7b032708978d63956fec]: Commencement: Sch. 2 para. 9 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

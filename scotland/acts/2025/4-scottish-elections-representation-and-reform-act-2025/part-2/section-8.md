@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Scottish disqualification orders[^key-70da117ae549f190b89b4322e26b6807][^key-c2f1e0cc06d6d6a7eb5269de0a91a6ba]
+## 8. Scottish disqualification orders[^c-70da117ae549f190b89b4322e26b6807][^c-c2f1e0cc06d6d6a7eb5269de0a91a6ba]
 
 *Extent: S*
 
@@ -64,6 +64,6 @@ it is to be taken for the purposes of subsection (1)(b) to have been committed o
 
 ## Annotations
 
-[^key-70da117ae549f190b89b4322e26b6807]: Commencement: S. 8 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-70da117ae549f190b89b4322e26b6807]: Commencement: S. 8 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-c2f1e0cc06d6d6a7eb5269de0a91a6ba]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2025/4/section/8) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-c2f1e0cc06d6d6a7eb5269de0a91a6ba]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2025/4/section/8) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Disclosure of information in accordance with orders[^key-50c180ea9aabbc119cb70410852d6aa2]
+## 38. Disclosure of information in accordance with orders[^c-50c180ea9aabbc119cb70410852d6aa2]
 
 *Extent: E+W+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50c180ea9aabbc119cb70410852d6aa2]: Commencement: S. 38 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(i)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/i)
+[^c-50c180ea9aabbc119cb70410852d6aa2]: Commencement: S. 38 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(i)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/i)

@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-f4d0c8a7b770532d14d5e7c3d985f0cb] TCPA 1990 is amended as follows.
+(1)[^c-f4d0c8a7b770532d14d5e7c3d985f0cb] TCPA 1990 is amended as follows.
 
-(2)[^key-f4d0c8a7b770532d14d5e7c3d985f0cb] After section 96 insert—
+(2)[^c-f4d0c8a7b770532d14d5e7c3d985f0cb] After section 96 insert—
 
 > **Non-material changes to planning permission**
 >
@@ -47,9 +47,9 @@ summary: ''
 >
 > (8) A local planning authority must comply with such requirements as may be prescribed by development order as to consultation and publicity in relation to the exercise of the power conferred by subsection (1).
 
-(3)[^key-f4d0c8a7b770532d14d5e7c3d985f0cb] In section 5(3) (purposes for which Broads Authority is the sole local district planning authority) for “97” substitute “ 96A ”.
+(3)[^c-f4d0c8a7b770532d14d5e7c3d985f0cb] In section 5(3) (purposes for which Broads Authority is the sole local district planning authority) for “97” substitute “ 96A ”.
 
-(4)[^key-93cb2ab763533e50c05ccccfd1adf6a7] In section 69(1) (register of applications etc)—
+(4)[^c-93cb2ab763533e50c05ccccfd1adf6a7] In section 69(1) (register of applications etc)—
 
 - (a) after paragraph (a) insert—
 
@@ -59,13 +59,13 @@ summary: ''
 - (b) in subsection (2)(a) after “(1)(a)” insert “ and (aa) ”, and
 - (c) in subsection (4) after “(1)(a)” insert “ , (aa) ”.
 
-(5)[^key-f4d0c8a7b770532d14d5e7c3d985f0cb] In section 286(1) (challenges to validity on ground of authority's powers) after paragraph (a) insert—
+(5)[^c-f4d0c8a7b770532d14d5e7c3d985f0cb] In section 286(1) (challenges to validity on ground of authority's powers) after paragraph (a) insert—
 
 > - (aa) an application for non-material changes to planning permission under section 96A;
 
 .
 
-(6)[^key-f4d0c8a7b770532d14d5e7c3d985f0cb] In Schedule 1 (local planning authorities: distribution of functions), in paragraph 3(1), after paragraph (a) insert—
+(6)[^c-f4d0c8a7b770532d14d5e7c3d985f0cb] In Schedule 1 (local planning authorities: distribution of functions), in paragraph 3(1), after paragraph (a) insert—
 
 > - (aa) applications for non-material changes to planning permission under section 96A;
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4d0c8a7b770532d14d5e7c3d985f0cb]: Commencement: S. 190(1)-(3) (5) (6) in force at 1.10.2009 for E.W. by [S.I. 2009/2260](https://www.legislation.gov.uk/uksi/2009/2260), [art. 3](https://www.legislation.gov.uk/uksi/2009/2260/article/3)
+[^c-f4d0c8a7b770532d14d5e7c3d985f0cb]: Commencement: S. 190(1)-(3) (5) (6) in force at 1.10.2009 for E.W. by [S.I. 2009/2260](https://www.legislation.gov.uk/uksi/2009/2260), [art. 3](https://www.legislation.gov.uk/uksi/2009/2260/article/3)
 
-[^key-93cb2ab763533e50c05ccccfd1adf6a7]: Commencement: S. 190(4) in force at 6.4.2010 for E.W. by [S.I. 2010/566](https://www.legislation.gov.uk/uksi/2010/566), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/566/article/3/b)
+[^c-93cb2ab763533e50c05ccccfd1adf6a7]: Commencement: S. 190(4) in force at 6.4.2010 for E.W. by [S.I. 2010/566](https://www.legislation.gov.uk/uksi/2010/566), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/566/article/3/b)

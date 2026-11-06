@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Power of entry etc. where Commission are applicant[^key-5d7eb6bcdf7b256d9071360cd220e277]
+## 13. Power of entry etc. where Commission are applicant[^c-5d7eb6bcdf7b256d9071360cd220e277]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d7eb6bcdf7b256d9071360cd220e277]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2010/14/section/13) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)
+[^c-5d7eb6bcdf7b256d9071360cd220e277]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2010/14/section/13) in force at 30.11.2012 by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)

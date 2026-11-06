@@ -31,32 +31,32 @@ Births and Deaths Registration Act 1858 (repealed)
 
 1858 c.25
 
-[^key-2e90ccdcfda36b5037f2635b4e26a100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e90ccdcfda36b5037f2635b4e26a100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[14th June 1858\]
 
 **No longer in force.**
 
-## 1. Certain registers to be deposited with the Registrar General.[^key-2e90ccdcfda36b5037f2635b4e26a100][^key-2e90ccdcfda36b5037f2635b4e26a100]
+## 1. Certain registers to be deposited with the Registrar General.[^c-2e90ccdcfda36b5037f2635b4e26a100][^c-2e90ccdcfda36b5037f2635b4e26a100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Certain other registers may be deposited in the office after examination by order of Secretary of State.[^key-2e90ccdcfda36b5037f2635b4e26a100][^key-2e90ccdcfda36b5037f2635b4e26a100]
+## 2. Certain other registers may be deposited in the office after examination by order of Secretary of State.[^c-2e90ccdcfda36b5037f2635b4e26a100][^c-2e90ccdcfda36b5037f2635b4e26a100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-2e90ccdcfda36b5037f2635b4e26a100][^key-2e90ccdcfda36b5037f2635b4e26a100]
+## 3.[^c-2e90ccdcfda36b5037f2635b4e26a100][^c-2e90ccdcfda36b5037f2635b4e26a100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-2e90ccdcfda36b5037f2635b4e26a100][^key-2e90ccdcfda36b5037f2635b4e26a100]
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-2e90ccdcfda36b5037f2635b4e26a100][^c-2e90ccdcfda36b5037f2635b4e26a100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5—7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-2e90ccdcfda36b5037f2635b4e26a100][^key-2e90ccdcfda36b5037f2635b4e26a100]
+## 5—7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-2e90ccdcfda36b5037f2635b4e26a100][^c-2e90ccdcfda36b5037f2635b4e26a100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2e90ccdcfda36b5037f2635b4e26a100]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)
+[^c-2e90ccdcfda36b5037f2635b4e26a100]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17 Group 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17)

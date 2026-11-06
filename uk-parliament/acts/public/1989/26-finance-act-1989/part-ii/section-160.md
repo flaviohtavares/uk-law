@@ -48,7 +48,7 @@ summary: ''
 > - (b) if the determination appears to them to be correct, confirm thedetermination, or
 > - (c) if the determination appears to them to be incorrect as to the amount oftax or the date on which the tax ought to have been paid, revise thedetermination accordingly.
 
-(3)[^key-ebe0ed029027e59bd2a3ee1372f85ecb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ebe0ed029027e59bd2a3ee1372f85ecb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 113 of that Act (form of documents), the following subsectionshall be inserted after subsection (1B)—
 
@@ -62,6 +62,6 @@ summary: ''
 
 [^c13116261]: Textual amendment: S. 160(1)(2)(4) repealed (29.4.1996 with effect as specified in [Sch. 18 para. 17](https://www.legislation.gov.uk/ukpga/1996/8/schedule/18/paragraph/17) of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. V(8)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/8), note
 
-[^key-ebe0ed029027e59bd2a3ee1372f85ecb]: Textual amendment: [S. 160(3)](https://www.legislation.gov.uk/ukpga/1989/26/section/160/3) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-ebe0ed029027e59bd2a3ee1372f85ecb]: Textual amendment: [S. 160(3)](https://www.legislation.gov.uk/ukpga/1989/26/section/160/3) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
 [^c13116301]: Textual amendment: S. 160(6) repealed (29.4.1996 with effect as mentioned in [Sch. 22 para. 12](https://www.legislation.gov.uk/ukpga/1996/8/schedule/22/paragraph/12) of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. V(12)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/12), note

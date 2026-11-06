@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Trees subject to tree preservation orders[^key-ffc052630f8ab426b9025b845910ba6e]
+## 33. Trees subject to tree preservation orders[^c-ffc052630f8ab426b9025b845910ba6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffc052630f8ab426b9025b845910ba6e]: Commencement: Art. 33 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-ffc052630f8ab426b9025b845910ba6e]: Commencement: Art. 33 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

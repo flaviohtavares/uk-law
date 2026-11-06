@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Power of Northern Ireland department to make consequential provision[^key-7fcd287486bcef02e480f0aa5f2cc754]
+## 171. Power of Northern Ireland department to make consequential provision[^c-7fcd287486bcef02e480f0aa5f2cc754]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fcd287486bcef02e480f0aa5f2cc754]: Commencement: S. 171 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)
+[^c-7fcd287486bcef02e480f0aa5f2cc754]: Commencement: S. 171 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)

@@ -51,9 +51,9 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 (4) In these Regulations—
 
-“the Council Tax Benefit Regulations" means the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-976878027e76eeaaebe43f7877d326da] [^c1607118];
+“the Council Tax Benefit Regulations" means the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-976878027e76eeaaebe43f7877d326da] [^c1607118];
 
-“the Housing Benefit Regulations" means the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-976878027e76eeaaebe43f7877d326da] [^c1607119];
+“the Housing Benefit Regulations" means the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-976878027e76eeaaebe43f7877d326da] [^c1607119];
 
 “the Income Support Regulations" means the Income Support (General) Regulations 1987 [^c1607120];
 
@@ -145,115 +145,115 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 .
 
-## 4. Amendment of the Housing Benefit Regulations[^key-2de1d46d797178ea207de8ba54e25931]
+## 4. Amendment of the Housing Benefit Regulations[^c-2de1d46d797178ea207de8ba54e25931]
 
-(1) The Housing Benefit Regulations shall be amended in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+(1) The Housing Benefit Regulations shall be amended in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
-(2) In Schedule 2 (applicable amounts)— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+(2) In Schedule 2 (applicable amounts)— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
-- (a) in paragraph 4 *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931] [^c1607128], for the words “paragraphs 9" there shall be substituted the words *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931] “ paragraphs 8A ” *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931];
-- (b) after paragraph 7 there shall be inserted the following paragraph— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+- (a) in paragraph 4 *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931] [^c1607128], for the words “paragraphs 9" there shall be substituted the words *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931] “ paragraphs 8A ” *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931];
+- (b) after paragraph 7 there shall be inserted the following paragraph— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
-  > **8A. Bereavement Premium (affected by repeal, see note)[^key-2de1d46d797178ea207de8ba54e25931]**
+  > **8A. Bereavement Premium (affected by repeal, see note)[^c-2de1d46d797178ea207de8ba54e25931]**
   >
-  > (1) Subject to sub-paragraphs (2) and (3), the condition is that the claimant— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > (1) Subject to sub-paragraphs (2) and (3), the condition is that the claimant— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > - (a) had, as at 9th April 2001, attained the age of 55 but not the age of 60; *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
-  > - (b) was in receipt of, but is no longer entitled to, a bereavement allowance under section 39B of the Contributions and Benefits Act in respect of the death of a spouse who died on or after 9th April 2001; and *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
-  > - (c) is claiming housing benefit as a single claimant. *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > - (a) had, as at 9th April 2001, attained the age of 55 but not the age of 60; *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
+  > - (b) was in receipt of, but is no longer entitled to, a bereavement allowance under section 39B of the Contributions and Benefits Act in respect of the death of a spouse who died on or after 9th April 2001; and *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
+  > - (c) is claiming housing benefit as a single claimant. *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > (2) A premium under sub-paragraph (1) shall, except in a case to which sub-paragraph (4) applies, not be applicable in respect of a claimant who claims housing benefit more than 8 weeks after the last day on which he was entitled to a bereavement allowance. *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > (2) A premium under sub-paragraph (1) shall, except in a case to which sub-paragraph (4) applies, not be applicable in respect of a claimant who claims housing benefit more than 8 weeks after the last day on which he was entitled to a bereavement allowance. *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > (3) Where a claimant to whom a premium under sub-paragraph (1) is applicable, ceases to be entitled to housing benefit or to be a single claimant, a premium under sub-paragraph (1) shall only again be applicable to that claimant where he claims housing benefit as a single claimant no more than 8 weeks after the date on which he ceased to be entitled to housing benefit or, as the case may be, to be a single claimant. *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > (3) Where a claimant to whom a premium under sub-paragraph (1) is applicable, ceases to be entitled to housing benefit or to be a single claimant, a premium under sub-paragraph (1) shall only again be applicable to that claimant where he claims housing benefit as a single claimant no more than 8 weeks after the date on which he ceased to be entitled to housing benefit or, as the case may be, to be a single claimant. *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > (4) Where a premium under sub-paragraph (1) becomes applicable to a claimant, it shall again be applicable to that claimant where he claims housing benefit as a single claimant at the end of the benefit period in which it first became applicable and at the end of each subsequent benefit period provided, where he ceases to be a single claimant during the course of any benefit period, he does not cease to be a single claimant for more than 8 weeks. *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > (4) Where a premium under sub-paragraph (1) becomes applicable to a claimant, it shall again be applicable to that claimant where he claims housing benefit as a single claimant at the end of the benefit period in which it first became applicable and at the end of each subsequent benefit period provided, where he ceases to be a single claimant during the course of any benefit period, he does not cease to be a single claimant for more than 8 weeks. *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > (5) For the purposes of this paragraph, where the claimant— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > (5) For the purposes of this paragraph, where the claimant— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > - (a) was entitled to council tax benefit at any time in the period of 8 weeks before becoming entitled or re-entitled to housing benefit; and *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
-  > - (b) satisfied the conditions in respect of a bereavement premium under paragraph 8A of Schedule 1 to the Council Tax Benefit (General) Regulations 1992, *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > - (a) was entitled to council tax benefit at any time in the period of 8 weeks before becoming entitled or re-entitled to housing benefit; and *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
+  > - (b) satisfied the conditions in respect of a bereavement premium under paragraph 8A of Schedule 1 to the Council Tax Benefit (General) Regulations 1992, *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > for the purpose of establishing entitlement or re-entitlement for housing benefit, he shall be treated as satisfying the equivalent conditions for a bereavement premium under this paragraph. *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > for the purpose of establishing entitlement or re-entitlement for housing benefit, he shall be treated as satisfying the equivalent conditions for a bereavement premium under this paragraph. *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
   ;
-- (c) immediately before sub-paragraph (2) in the table in paragraph 15 there shall be inserted the following sub-paragraph respectively in each column— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+- (c) immediately before sub-paragraph (2) in the table in paragraph 15 there shall be inserted the following sub-paragraph respectively in each column— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
   > |  |
   > | --- |
-  > | (1A)Bereavement Premium. c> *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]<br>(1A)£15.30. |
+  > | (1A)Bereavement Premium. c> *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]<br>(1A)£15.30. |
 
   .
 
-(3) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+(3) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
-- (a) after paragraph 14, there shall be inserted the following paragraph— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+- (a) after paragraph 14, there shall be inserted the following paragraph— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
   > **14A.**
   >
-  > Subject to paragraph 33, £15 of any— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > Subject to paragraph 33, £15 of any— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > - (a) widowed mother’s allowance paid pursuant to section 37 of the Contributions and Benefits Act; *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
-  > - (b) widowed parent’s allowance paid pursuant to section 39A of the Contributions and Benefits Act. *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > - (a) widowed mother’s allowance paid pursuant to section 37 of the Contributions and Benefits Act; *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
+  > - (b) widowed parent’s allowance paid pursuant to section 39A of the Contributions and Benefits Act. *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
   ;
-- (b) in paragraph 33, for the words “and 14" there shall be substituted the words *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931] “ , 14 and 14A ” *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931].
+- (b) in paragraph 33, for the words “and 14" there shall be substituted the words *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931] “ , 14 and 14A ” *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931].
 
 ## 5. Amendment of the Council Tax Benefit Regulations
 
-(1) The Council Tax Benefit Regulations shall be amended in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+(1) The Council Tax Benefit Regulations shall be amended in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
-(2) In Schedule 1 (applicable amounts)— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+(2) In Schedule 1 (applicable amounts)— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
-- (a) in paragraph 4 *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931] [^c1607129], for the words “paragraphs 9" there shall be substituted the words *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931] “ paragraphs 8A ” *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931];
-- (b) after paragraph 7 there shall be inserted the following paragraph— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+- (a) in paragraph 4 *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931] [^c1607129], for the words “paragraphs 9" there shall be substituted the words *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931] “ paragraphs 8A ” *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931];
+- (b) after paragraph 7 there shall be inserted the following paragraph— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
-  > **8A. Bereavement Premium (affected by repeal, see note)[^key-2de1d46d797178ea207de8ba54e25931]**
+  > **8A. Bereavement Premium (affected by repeal, see note)[^c-2de1d46d797178ea207de8ba54e25931]**
   >
-  > (1) Subject to sub-paragraphs (2) and (3), the condition is that the claimant— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > (1) Subject to sub-paragraphs (2) and (3), the condition is that the claimant— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > - (a) had, as at 9th April 2001, attained the age of 55 but not the age of 60; *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
-  > - (b) was in receipt of, but is no longer entitled to, a bereavement allowance under section 39B of the Contributions and Benefits Act 1992 in respect of the death of a spouse who died on or after 9th April 2001; and *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
-  > - (c) is claiming council tax benefit as a single claimant. *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > - (a) had, as at 9th April 2001, attained the age of 55 but not the age of 60; *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
+  > - (b) was in receipt of, but is no longer entitled to, a bereavement allowance under section 39B of the Contributions and Benefits Act 1992 in respect of the death of a spouse who died on or after 9th April 2001; and *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
+  > - (c) is claiming council tax benefit as a single claimant. *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > (2) A premium under sub-paragraph (1) shall, except in a case to which sub-paragraph (4) applies, not be applicable in respect of a claimant who claims council tax benefit more than 8 weeks after the last day on which he was entitled to a bereavement allowance. *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > (2) A premium under sub-paragraph (1) shall, except in a case to which sub-paragraph (4) applies, not be applicable in respect of a claimant who claims council tax benefit more than 8 weeks after the last day on which he was entitled to a bereavement allowance. *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > (3) Where a claimant to whom a premium under sub-paragraph (1) is applicable, ceases to be entitled to council tax benefit or to be a single claimant, a premium under sub-paragraph (1) shall only again be applicable to that claimant where he claims council tax benefit as a single claimant no more than 8 weeks after the date on which he ceased to be entitled to council tax benefit or, as the case may be, to be a single claimant. *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > (3) Where a claimant to whom a premium under sub-paragraph (1) is applicable, ceases to be entitled to council tax benefit or to be a single claimant, a premium under sub-paragraph (1) shall only again be applicable to that claimant where he claims council tax benefit as a single claimant no more than 8 weeks after the date on which he ceased to be entitled to council tax benefit or, as the case may be, to be a single claimant. *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > (4) Where a premium under sub-paragraph (1) becomes applicable to a claimant, it shall again be applicable to that claimant where he claims council tax benefit as a single claimant at the end of the benefit period in which it first became applicable and at the end of each subsequent benefit period provided, where he ceases to be a single claimant during the course of any benefit period, he does not cease to be a single claimant for more than 8 weeks. *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > (4) Where a premium under sub-paragraph (1) becomes applicable to a claimant, it shall again be applicable to that claimant where he claims council tax benefit as a single claimant at the end of the benefit period in which it first became applicable and at the end of each subsequent benefit period provided, where he ceases to be a single claimant during the course of any benefit period, he does not cease to be a single claimant for more than 8 weeks. *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > (5) For the purposes of this paragraph, where the claimant— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > (5) For the purposes of this paragraph, where the claimant— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > - (a) was entitled to housing benefit at any time in the period of 8 weeks before becoming entitled or re-entitled to council tax benefit; and *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
-  > - (b) satisfied the conditions in respect of a bereavement premium under paragraph 8A of Schedule 2 to the Housing Benefit (General) Regulations 1987, *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > - (a) was entitled to housing benefit at any time in the period of 8 weeks before becoming entitled or re-entitled to council tax benefit; and *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
+  > - (b) satisfied the conditions in respect of a bereavement premium under paragraph 8A of Schedule 2 to the Housing Benefit (General) Regulations 1987, *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > for the purpose of establishing entitlement or re-entitlement for council tax benefit, he shall be treated as satisfying the equivalent conditions for a bereavement premium under this paragraph. *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > for the purpose of establishing entitlement or re-entitlement for council tax benefit, he shall be treated as satisfying the equivalent conditions for a bereavement premium under this paragraph. *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
   ;
-- (c) immediately before sub-paragraph (2) in the table in paragraph 19 there shall be inserted the following sub-paragraph respectively in each column— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+- (c) immediately before sub-paragraph (2) in the table in paragraph 19 there shall be inserted the following sub-paragraph respectively in each column— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
   > |  |  |
   > | --- | --- |
-  > | (1A)Bereavement Premium. *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931] | (1A)£15.30. |
+  > | (1A)Bereavement Premium. *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931] | (1A)£15.30. |
 
   .
 
-(3) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+(3) In Schedule 4 (sums to be disregarded in the calculation of income other than earnings)— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
-- (a) after paragraph 14, there shall be inserted the following paragraph— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+- (a) after paragraph 14, there shall be inserted the following paragraph— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
   > **14A.**
   >
-  > Subject to paragraph 34, £15 of any— *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > Subject to paragraph 34, £15 of any— *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
   >
-  > - (a) widowed mother’s allowance paid pursuant to section 37 of the Contributions and Benefits Act 1992; *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
-  > - (b) widowed parent’s allowance paid pursuant to section 39A of the Contributions and Benefits Act 1992. *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931]
+  > - (a) widowed mother’s allowance paid pursuant to section 37 of the Contributions and Benefits Act 1992; *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
+  > - (b) widowed parent’s allowance paid pursuant to section 39A of the Contributions and Benefits Act 1992. *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931]
 
   ;
-- (b) in paragraph 34, for the words “and 14" there shall be substituted the words *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931] “ , 14 and 14A ” *(affected by repeal, see note)*[^key-2de1d46d797178ea207de8ba54e25931].
+- (b) in paragraph 34, for the words “and 14" there shall be substituted the words *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931] “ , 14 and 14A ” *(affected by repeal, see note)*[^c-2de1d46d797178ea207de8ba54e25931].
 
 ## 6. Cessation in operation of certain provisions of these Regulations
 
-Regulations 2(2) and (3), 3(2), 4(2) and 5(2) *(affected by repeal, see note)*[^key-677bec72d70e2277e6b591488e3ee71f] of these Regulations shall cease to have effect on 10th April 2006 and the Income Support Regulations, the Jobseeker’s Allowance Regulations, the Housing Benefit Regulations and the Council Tax Benefit Regulations *(affected by repeal, see note)*[^key-677bec72d70e2277e6b591488e3ee71f] shall apply thereafter as if the amendments made to them by those regulations had not been made.
+Regulations 2(2) and (3), 3(2), 4(2) and 5(2) *(affected by repeal, see note)*[^c-677bec72d70e2277e6b591488e3ee71f] of these Regulations shall cease to have effect on 10th April 2006 and the Income Support Regulations, the Jobseeker’s Allowance Regulations, the Housing Benefit Regulations and the Council Tax Benefit Regulations *(affected by repeal, see note)*[^c-677bec72d70e2277e6b591488e3ee71f] shall apply thereafter as if the amendments made to them by those regulations had not been made.
 
 Signed by authority of the Secretary of State for Social Security.
 
@@ -295,7 +295,7 @@ These Regulations do not impose a charge on business.
 
 [^c1607117]: Marginal citation: The definition of “benefit week" was amended by [S.I. 1996/1517](https://www.legislation.gov.uk/uksi/1996/1517) and 2538.
 
-[^key-976878027e76eeaaebe43f7877d326da]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2000/2239/regulation/1/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-976878027e76eeaaebe43f7877d326da]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2000/2239/regulation/1/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1607118]: Marginal citation: [S.I. 1992/1814](https://www.legislation.gov.uk/uksi/1992/1814).
 
@@ -317,10 +317,10 @@ These Regulations do not impose a charge on business.
 
 [^c1607127]: Marginal citation: [Paragraph 5](https://www.legislation.gov.uk/uksi/2000/2239/paragraph/5) was amended by [S.I. 1996/1803](https://www.legislation.gov.uk/uksi/1996/1803).
 
-[^key-2de1d46d797178ea207de8ba54e25931]: Textual amendment: Regs. 4, 5 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-2de1d46d797178ea207de8ba54e25931]: Textual amendment: Regs. 4, 5 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1607128]: Marginal citation: Paragraph 4 was amended by [S.I. 1990/1775](https://www.legislation.gov.uk/uksi/1990/1775) and 1996/1803.
 
 [^c1607129]: Marginal citation: Paragraph 4 was amended by [S.I. 1996/1803](https://www.legislation.gov.uk/uksi/1996/1803).
 
-[^key-677bec72d70e2277e6b591488e3ee71f]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2000/2239/regulation/6) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-677bec72d70e2277e6b591488e3ee71f]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2000/2239/regulation/6) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

@@ -389,7 +389,7 @@ Section 39.
 
 **7)** In construing, for the purposes of this schedule or any order made thereunder, any enactment incorporated with the order, this Act together with the order shall be deemed to be the special Act and the council shall be deemed to be the promoters of the undertaking.
 
-**8)**[^key-06c0b115d14cd15c6b964258069e07f9] Where the land is vested in the incumbent of a benefice of the Church of England the order shall provide that sums agreed upon or awarded for the purchase of the land, or to be paid by way of compensation for the damage to be sustained by the owner by reason of severance or other injury affecting the land, shall not be paid as directed by the Lands Clauses Acts, but shall be paid to the Diocesan Board of Finance for the diocese in which the land is situated to be applied by the Board for the purposes for which the proceeds of a sale by agreement of the fee simple in the land would be applicable under any enactment or Measure authorising such a sale or disposing of the proceeds of such a sale.
+**8)**[^c-06c0b115d14cd15c6b964258069e07f9] Where the land is vested in the incumbent of a benefice of the Church of England the order shall provide that sums agreed upon or awarded for the purchase of the land, or to be paid by way of compensation for the damage to be sustained by the owner by reason of severance or other injury affecting the land, shall not be paid as directed by the Lands Clauses Acts, but shall be paid to the Diocesan Board of Finance for the diocese in which the land is situated to be applied by the Board for the purposes for which the proceeds of a sale by agreement of the fee simple in the land would be applicable under any enactment or Measure authorising such a sale or disposing of the proceeds of such a sale.
 
 ### Part II — Provisions as to the Compulsory Hiring of Land By a Council
 
@@ -723,7 +723,7 @@ shall in default of agreement be by valuation by a single valuer appointed by th
 
 [^c6441921]: Textual amendment: [Sch. 1 Pt.I](https://www.legislation.gov.uk/ukpga/Edw7/8/36/schedule/1/part/I) para.(6) repealed by [Lands Tribunal Act 1949 (c. 42)](https://www.legislation.gov.uk/ukpga/1949/42), [Sch. 2](https://www.legislation.gov.uk/ukpga/1949/42/schedule/2)
 
-[^key-06c0b115d14cd15c6b964258069e07f9]: Textual amendment: Sch. 1 para. 8 substituted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/1); [2006 No. 2, Instrument made by Archbishops](https://www.legislation.gov.uk/ukci/2006/2)
+[^c-06c0b115d14cd15c6b964258069e07f9]: Textual amendment: Sch. 1 para. 8 substituted (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/1); [2006 No. 2, Instrument made by Archbishops](https://www.legislation.gov.uk/ukci/2006/2)
 
 [^c6441931]: Marginal citation: [1845 c. 20](https://www.legislation.gov.uk/ukpga/1845/20).
 

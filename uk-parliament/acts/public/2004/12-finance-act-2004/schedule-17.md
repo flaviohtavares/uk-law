@@ -39,7 +39,7 @@ Section 92
 
 ### Payments to non-approved pension schemes: exception for employment where earnings not within main charging provisions
 
-**2.**[^key-9c38c30432108c03a7b57667241d4e2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9c38c30432108c03a7b57667241d4e2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Time limit for assessment: income received after year for which it is assessable
 
@@ -61,7 +61,7 @@ Section 92
 
 ### Computation of profits or gains under Schedule D: delayed payment of remuneration
 
-**4.**[^key-5148cb7d14a667b935efd0c1fb579d88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5148cb7d14a667b935efd0c1fb579d88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Donations to charity by individuals: application to Crown employment
 
@@ -82,11 +82,11 @@ in reliance on the view that the amendments referred to in sub-paragraph (1) had
 
 ### Tax relief for expenditure on R&D or remediation of contaminated land: staff costs
 
-**7.**[^key-dba77e4786c54d2436402987f9027485] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-dba77e4786c54d2436402987f9027485] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Gains and losses of a company from intangible fixed assets: delayed payment of remuneration
 
-**8.**[^key-a568a1d686bbf8fe3b69840f52cb5327] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-a568a1d686bbf8fe3b69840f52cb5327] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Minor corrections of the Income Tax (Earnings and Pensions) Act 2003
 
@@ -105,29 +105,29 @@ in reliance on the view that the amendments referred to in sub-paragraph (1) had
 
 ### Other minor corrections
 
-**10.** (1)[^key-4949cadcb9e202aed4b5b5b9fd385094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.** (1)[^c-4949cadcb9e202aed4b5b5b9fd385094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-26a86872afb84e21df4eb9f4a5a528f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-26a86872afb84e21df4eb9f4a5a528f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 38(9) of the Finance Act 1988 (c. 39) (maintenance payments under existing obligations: 1989-90 onwards)—
 
 - (a) for “68(1)(b) or 192(3)” substitute “or 68(1)(b)”, and
 - (b) after “Taxes Act 1988” insert “or section 355 of the Income Tax (Earnings and Pensions) Act 2003”.
 
-(4)[^key-ea6f9fd0c5a9c694c313640f51efae39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ea6f9fd0c5a9c694c313640f51efae39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9c38c30432108c03a7b57667241d4e2c]: Textual amendment: Sch. 17 para. 2 repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) Note (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-9c38c30432108c03a7b57667241d4e2c]: Textual amendment: Sch. 17 para. 2 repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) Note (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
 
-[^key-5148cb7d14a667b935efd0c1fb579d88]: Textual amendment: [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2004/12/schedule/17/paragraph/4) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-5148cb7d14a667b935efd0c1fb579d88]: Textual amendment: [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2004/12/schedule/17/paragraph/4) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-dba77e4786c54d2436402987f9027485]: Textual amendment: [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2004/12/schedule/17/paragraph/7) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-dba77e4786c54d2436402987f9027485]: Textual amendment: [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2004/12/schedule/17/paragraph/7) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-a568a1d686bbf8fe3b69840f52cb5327]: Textual amendment: [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/2004/12/schedule/17/paragraph/8) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-a568a1d686bbf8fe3b69840f52cb5327]: Textual amendment: [Sch. 17 para. 8](https://www.legislation.gov.uk/ukpga/2004/12/schedule/17/paragraph/8) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-4949cadcb9e202aed4b5b5b9fd385094]: Textual amendment: Sch. 17 para. 10(1) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-4949cadcb9e202aed4b5b5b9fd385094]: Textual amendment: Sch. 17 para. 10(1) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-26a86872afb84e21df4eb9f4a5a528f7]: Textual amendment: Sch. 17 para. 10(2) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-26a86872afb84e21df4eb9f4a5a528f7]: Textual amendment: Sch. 17 para. 10(2) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-ea6f9fd0c5a9c694c313640f51efae39]: Textual amendment: Sch. 17 para. 10(4) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) Note (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-ea6f9fd0c5a9c694c313640f51efae39]: Textual amendment: Sch. 17 para. 10(4) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) Note (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

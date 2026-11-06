@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Guidance by the Lord Chancellor[^key-b375630d1995db395ed9be19f680f0ed]
+## 42. Guidance by the Lord Chancellor[^c-b375630d1995db395ed9be19f680f0ed]
 
 *Extent: E+W*
 
@@ -25,8 +25,8 @@ summary: ''
 (2) Guidance issued under this section may include provision—
 
 - (a) about the way in which such persons are able to participate in investigations under this Part into deaths;
-- (b)[^key-a08ca9157ff6fdddd76e972b0575431b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) about the role of coroners' officers and other staff in helping such persons to participate in investigations [^key-91d9aba54cc80460811c0d760e4e956e]....
+- (b)[^c-a08ca9157ff6fdddd76e972b0575431b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) about the role of coroners' officers and other staff in helping such persons to participate in investigations [^c-91d9aba54cc80460811c0d760e4e956e]....
 
 This subsection is not to be read as limiting the power in subsection (1).
 
@@ -36,8 +36,8 @@ This subsection is not to be read as limiting the power in subsection (1).
 
 ## Annotations
 
-[^key-b375630d1995db395ed9be19f680f0ed]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2009/25/section/42) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/d)
+[^c-b375630d1995db395ed9be19f680f0ed]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2009/25/section/42) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/d)
 
-[^key-a08ca9157ff6fdddd76e972b0575431b]: Textual amendment: [S. 42(2)(b)](https://www.legislation.gov.uk/ukpga/2009/25/section/42/2/b) repealed (14.2.2012) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2011/24/section/33/2), [38(1)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/1)
+[^c-a08ca9157ff6fdddd76e972b0575431b]: Textual amendment: [S. 42(2)(b)](https://www.legislation.gov.uk/ukpga/2009/25/section/42/2/b) repealed (14.2.2012) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2011/24/section/33/2), [38(1)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/1)
 
-[^key-91d9aba54cc80460811c0d760e4e956e]: Textual amendment: Words in [s. 42(2)(c)](https://www.legislation.gov.uk/ukpga/2009/25/section/42/2/c) repealed (14.2.2012) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2011/24/section/33/2), [38(1)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/1)
+[^c-91d9aba54cc80460811c0d760e4e956e]: Textual amendment: Words in [s. 42(2)(c)](https://www.legislation.gov.uk/ukpga/2009/25/section/42/2/c) repealed (14.2.2012) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2011/24/section/33/2), [38(1)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/1)

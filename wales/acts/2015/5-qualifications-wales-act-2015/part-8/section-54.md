@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Performance of regulatory activities by Qualifications Wales[^key-404d61dd91a8b3a17f275c8e5d7bb2f6]
+## 54. Performance of regulatory activities by Qualifications Wales[^c-404d61dd91a8b3a17f275c8e5d7bb2f6]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-404d61dd91a8b3a17f275c8e5d7bb2f6]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2015/5/section/54) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-404d61dd91a8b3a17f275c8e5d7bb2f6]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2015/5/section/54) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

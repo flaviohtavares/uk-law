@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Development consent, etc. granted by the Order[^key-cf41930706ab20f27a49c677b8d678e9]
+## 5. Development consent, etc. granted by the Order[^c-cf41930706ab20f27a49c677b8d678e9]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ to be carried out within the Order limits.
 
 ## Annotations
 
-[^key-cf41930706ab20f27a49c677b8d678e9]: Commencement: Art. 5 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-cf41930706ab20f27a49c677b8d678e9]: Commencement: Art. 5 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

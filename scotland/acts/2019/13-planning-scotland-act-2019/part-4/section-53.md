@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Forestry and woodland strategy[^key-27e53c33414f0982b2aed603c759d24f]
+## 53. Forestry and woodland strategy[^c-27e53c33414f0982b2aed603c759d24f]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27e53c33414f0982b2aed603c759d24f]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2019/13/section/53) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
+[^c-27e53c33414f0982b2aed603c759d24f]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2019/13/section/53) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Co-mingled waste[^key-5a40e852e653d50a4814a343dc76370d]
+## 21. Co-mingled waste[^c-5a40e852e653d50a4814a343dc76370d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a40e852e653d50a4814a343dc76370d]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/nisr/2011/127/regulation/21) revoked (30.11.2013) by [The Waste (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/241)](https://www.legislation.gov.uk/nisr/2013/241), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/241/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2013/241/regulation/4)
+[^c-5a40e852e653d50a4814a343dc76370d]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/nisr/2011/127/regulation/21) revoked (30.11.2013) by [The Waste (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/241)](https://www.legislation.gov.uk/nisr/2013/241), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/241/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2013/241/regulation/4)

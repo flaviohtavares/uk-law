@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23.3. Exercise of court’s powers[^key-a2b4a26264f5f803ae8aeec6b999bc64]
+## 23.3. Exercise of court’s powers[^c-a2b4a26264f5f803ae8aeec6b999bc64]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a2b4a26264f5f803ae8aeec6b999bc64]: Commencement: [Rule 23.3](https://www.legislation.gov.uk/uksi/2025/909/rule/23.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a2b4a26264f5f803ae8aeec6b999bc64]: Commencement: [Rule 23.3](https://www.legislation.gov.uk/uksi/2025/909/rule/23.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00507]: Footnote: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23); section 37 was amended by section 109 of, and paragraph 384(e) of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).

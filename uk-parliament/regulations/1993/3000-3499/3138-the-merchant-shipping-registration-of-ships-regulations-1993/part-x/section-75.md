@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Appointment of representative person[^key-263f45df82f70b038db181686ccadca0]
+## 75. Appointment of representative person[^c-263f45df82f70b038db181686ccadca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where the charterer is not resident in the United Kingdom he shall appoint a rep
 
 ## Annotations
 
-[^key-263f45df82f70b038db181686ccadca0]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/1993/3138/regulation/75) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-263f45df82f70b038db181686ccadca0]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/1993/3138/regulation/75) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

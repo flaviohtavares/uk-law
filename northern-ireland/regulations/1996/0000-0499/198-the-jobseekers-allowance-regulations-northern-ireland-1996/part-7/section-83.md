@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Applicable amounts[^key-f02b3c5b462097339bcddd4647c2fc26]
+## 83. Applicable amounts[^c-f02b3c5b462097339bcddd4647c2fc26]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ Except in the case of a claimant to whom regulation 84, 85 or 86 or Part X (appl
 
 ## Annotations
 
-[^key-f02b3c5b462097339bcddd4647c2fc26]: Commencement: Reg. 83 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-f02b3c5b462097339bcddd4647c2fc26]: Commencement: Reg. 83 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

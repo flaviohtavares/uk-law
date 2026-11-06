@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Restriction of “registered social landlord” system to Wales[^key-bc66bec9c4cb0e589d8e57edbf8ddb0f]
+## 61. Restriction of “registered social landlord” system to Wales[^c-bc66bec9c4cb0e589d8e57edbf8ddb0f]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 > In this Chapter “**Welsh body**” means a body which is—
 >
 > - (a) a registered charity whose address, for the purposes of registration by the Charity Commission for England and Wales, is in Wales,
-> - (b) a registered society[^key-a85a2bd2407dae5b1dab913643127dde] whose registered office for the purposes of the Industrial and Provident Societies Act 1965 is in Wales, or
+> - (b) a registered society[^c-a85a2bd2407dae5b1dab913643127dde] whose registered office for the purposes of the Industrial and Provident Societies Act 1965 is in Wales, or
 > - (c) a company within the meaning of the Companies Act 2006 which has its registered office for the purposes of that Act in Wales.
 
 (5) In section 2 (eligibility for registration)—
@@ -79,6 +79,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc66bec9c4cb0e589d8e57edbf8ddb0f]: Commencement: S. 61 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-bc66bec9c4cb0e589d8e57edbf8ddb0f]: Commencement: S. 61 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-a85a2bd2407dae5b1dab913643127dde]: Textual amendment: Words in Act substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), s. 154, [Sch. 4 para. 122](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/122) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-a85a2bd2407dae5b1dab913643127dde]: Textual amendment: Words in Act substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), s. 154, [Sch. 4 para. 122](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/122) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

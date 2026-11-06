@@ -49,7 +49,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-003fcd4fc440de4fcb34049211f4bde8]
+### 1. Citation and commencement[^c-003fcd4fc440de4fcb34049211f4bde8]
 
 (1) These Regulations may be cited as the Electricity Supplier Payments (Amendment) Regulations 2017.
 
@@ -61,7 +61,7 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 (5) Regulation 19 comes into force on the day after the day on which these Regulations are made.
 
-### 2. Interpretation[^key-a2fa637c1535fdcc0c69e99cdcac718c]
+### 2. Interpretation[^c-a2fa637c1535fdcc0c69e99cdcac718c]
 
 In these Regulations—
 
@@ -69,9 +69,9 @@ In these Regulations—
 
 ## PART 2 — Amendment of the ESO Regulations
 
-**3.**[^key-f00aeea6ca23da0da0321d4ef44b9f55] The Contracts for Difference (Electricity Supplier Obligations) Regulations 2014[^f00002] are amended in accordance with regulations 4 to 18.
+**3.**[^c-f00aeea6ca23da0da0321d4ef44b9f55] The Contracts for Difference (Electricity Supplier Obligations) Regulations 2014[^f00002] are amended in accordance with regulations 4 to 18.
 
-**4.**[^key-c633513bf80818722ce49fed2a42b81e] At the appropriate places in regulation 2(1) insert—
+**4.**[^c-c633513bf80818722ce49fed2a42b81e] At the appropriate places in regulation 2(1) insert—
 
 > - “final reconciliation determination” is to be construed in accordance with regulation 15(2);
 
@@ -81,7 +81,7 @@ and
 
 .
 
-**5.**[^key-99e6a6808b5549f7da268dbe39580a50] In regulation 4—
+**5.**[^c-99e6a6808b5549f7da268dbe39580a50] In regulation 4—
 
 - (a) for the definition of GP in paragraph (1) substitute—
 
@@ -115,7 +115,7 @@ and
   ;
 - (f) in paragraph (2) for “and regulation 5” substitute “and regulations 5 and 28”.
 
-**6.**[^key-feaff92c25c810f86468d69e67b617d8] In regulation 5—
+**6.**[^c-feaff92c25c810f86468d69e67b617d8] In regulation 5—
 
 - (a) for the definition of NDS substitute—
 
@@ -144,7 +144,7 @@ and
 
   .
 
-**7.**[^key-9c54aca6010f2ac73ba4b17062a0c1ed] For regulation 10(5) substitute—
+**7.**[^c-9c54aca6010f2ac73ba4b17062a0c1ed] For regulation 10(5) substitute—
 
 > (5) The total reserve amount for a quarterly obligation period is the amount which the CFD counterparty determines it would need to be paid for there to be a 19 in 20 probability of it being able to make all the payments it is required to make to CFD parties during the reserve period which commences during that period having regard to—
 >
@@ -153,15 +153,15 @@ and
 
 .
 
-**8.**[^key-0eb772cb0eddcea7bb463d9130a048c5] For regulation 11(1) substitute—
+**8.**[^c-0eb772cb0eddcea7bb463d9130a048c5] For regulation 11(1) substitute—
 
 > (1) An electricity supplier must make a reserve payment to the CFD counterparty in respect of a quarterly obligation period (“the relevant period”) by the 5th working day after the day on which the CFD counterparty has issued a notice to that supplier under regulation 15(3) (notice of reconciliation payment) in the relevant period.
 
 .
 
-**9.**[^key-727847c2ea01fa3430f448fd22ddcb18] In regulation 11, at the beginning of paragraph (3) insert “Subject to regulation 14A,”.
+**9.**[^c-727847c2ea01fa3430f448fd22ddcb18] In regulation 11, at the beginning of paragraph (3) insert “Subject to regulation 14A,”.
 
-**10.**[^key-bd3df383c8fb3dfdd9225dc1274fdf0d] In regulation 14—
+**10.**[^c-bd3df383c8fb3dfdd9225dc1274fdf0d] In regulation 14—
 
 - (a) for paragraph (1) substitute—
 
@@ -180,7 +180,7 @@ and
 
     .
 
-**11.**[^key-53d3c58c07c77b5e25fb7645172f4f61] After regulation 14 insert—
+**11.**[^c-53d3c58c07c77b5e25fb7645172f4f61] After regulation 14 insert—
 
 > **14A.** (1) This regulation applies where the CFD counterparty is of the opinion that there is a high degree of likelihood that it will collect significantly more from suppliers under regulations 8(1) and 11(1) in respect of a quarterly obligation period than the amount it requires to be able to make all payments it is required to make during the reserve period which commences during that quarterly obligation period.
 >
@@ -200,9 +200,9 @@ and
 
 .
 
-**12.**[^key-e4584d388437ee766115a9fad2fcbb8b] In regulation 16(4) for “90th day” substitute “5th working day”.
+**12.**[^c-e4584d388437ee766115a9fad2fcbb8b] In regulation 16(4) for “90th day” substitute “5th working day”.
 
-**13.**[^key-7ff0a67645f86f5952c03c89fa41de6c] In regulation 17—
+**13.**[^c-7ff0a67645f86f5952c03c89fa41de6c] In regulation 17—
 
 - (a) in paragraph (1) for “every other electricity supplier (“the non-defaulting suppliers”)” substitute “non-defaulting suppliers”;
 - (b) after paragraph (1) insert—
@@ -215,9 +215,9 @@ and
 
   .
 
-**14.**[^key-db40d6b129c31b1953bd9ee229ccb5d6] In regulation 23, in paragraph (7)(a) for “£ 0.0509” substitute “£ 0.0524”.
+**14.**[^c-db40d6b129c31b1953bd9ee229ccb5d6] In regulation 23, in paragraph (7)(a) for “£ 0.0509” substitute “£ 0.0524”.
 
-**15.**[^key-c2dfccd7929b61a5e0980591f60d2d31] At the end of regulation 28 insert—
+**15.**[^c-c2dfccd7929b61a5e0980591f60d2d31] At the end of regulation 28 insert—
 
 > (9) Where the CFD counterparty expects to make a generation counterparty payment or receive a generation party payment at any time after the final reconciliation determination for the quarterly obligation period to which the payment relates it must publish its estimate of—
 >
@@ -226,17 +226,17 @@ and
 
 .
 
-**16.**[^key-bb1ab75d787e72c881789c57a37a76bc] For paragraph (13)(a) of the Schedule substitute—
+**16.**[^c-bb1ab75d787e72c881789c57a37a76bc] For paragraph (13)(a) of the Schedule substitute—
 
 > - (a) in paragraph (1), the words “in relation to a CFD counterparty” appeared after the words “(“the quarterly obligation period”)” where those words appear for the first time in regulation 14(1), and the reference to “the CFD counterparty” in that paragraph and in paragraph (2) is to “that CFD counterparty”.
 
-**17.**[^key-6939fe9b98702178ebfc2899faa95a3c] After paragraph (13) of the Schedule insert—
+**17.**[^c-6939fe9b98702178ebfc2899faa95a3c] After paragraph (13) of the Schedule insert—
 
 > **13A.** Regulation 14A has effect as if every reference to “the CFD counterparty” is to “a CFD counterparty” except the reference in paragraph (2), and the second reference in paragraph (5), which are to “that CFD counterparty”.
 
 .
 
-**18.**[^key-30c36e6afdc760213d48f187fa984960] In paragraph (16)(a) of the Schedule—
+**18.**[^c-30c36e6afdc760213d48f187fa984960] In paragraph (16)(a) of the Schedule—
 
 - (a) for “the reference” substitute “the references”;
 - (b) after “that paragraph” insert “and in paragraph (1A)”;
@@ -246,7 +246,7 @@ and
 
 *Extent: E+W+S*
 
-**19.**[^key-01b0ac20df7027eda541c085053ef37b][^key-01b0ac20df7027eda541c085053ef37b] (1) In regulation 9(2) of the Electricity Capacity (Supplier Payment etc.) Regulations 2014[^f00003] (“the Supplier Payment Regulations”), for “£4,283,000” substitute “£6,241,000”.
+**19.**[^c-01b0ac20df7027eda541c085053ef37b][^c-01b0ac20df7027eda541c085053ef37b] (1) In regulation 9(2) of the Electricity Capacity (Supplier Payment etc.) Regulations 2014[^f00003] (“the Supplier Payment Regulations”), for “£4,283,000” substitute “£6,241,000”.
 
 (2) But paragraph (1) does not apply in respect of any financial year commencing before 2017.
 
@@ -286,44 +286,44 @@ Part 3 of these Regulations amend regulation 9(2) of the Electricity Capacity (S
 
 [^f00001]: Footnote: [2013 c.32](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-003fcd4fc440de4fcb34049211f4bde8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/502/regulation/1) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-003fcd4fc440de4fcb34049211f4bde8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/502/regulation/1) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
-[^key-a2fa637c1535fdcc0c69e99cdcac718c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/502/regulation/2) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-a2fa637c1535fdcc0c69e99cdcac718c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/502/regulation/2) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
-[^key-f00aeea6ca23da0da0321d4ef44b9f55]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/502/regulation/3) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-f00aeea6ca23da0da0321d4ef44b9f55]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/502/regulation/3) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2014/2014](https://www.legislation.gov.uk/uksi/2014/2014) amended by the Electricity Supplier Obligations (Amendment & Excluded Electricity) Regulations ([S.I. 2015/721](https://www.legislation.gov.uk/uksi/2015/721)) and the Electricity Supplier Payments (Amendment) Regulations ([S.I. 2016/363](https://www.legislation.gov.uk/uksi/2016/363)).
 
-[^key-c633513bf80818722ce49fed2a42b81e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/502/regulation/4) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-c633513bf80818722ce49fed2a42b81e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/502/regulation/4) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
-[^key-99e6a6808b5549f7da268dbe39580a50]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/502/regulation/5) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-99e6a6808b5549f7da268dbe39580a50]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/502/regulation/5) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
-[^key-feaff92c25c810f86468d69e67b617d8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/502/regulation/6) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-feaff92c25c810f86468d69e67b617d8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/502/regulation/6) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
-[^key-9c54aca6010f2ac73ba4b17062a0c1ed]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/502/regulation/7) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-9c54aca6010f2ac73ba4b17062a0c1ed]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/502/regulation/7) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
-[^key-0eb772cb0eddcea7bb463d9130a048c5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/502/regulation/8) in force at 1.10.2017, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/3)
+[^c-0eb772cb0eddcea7bb463d9130a048c5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/502/regulation/8) in force at 1.10.2017, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/3)
 
-[^key-727847c2ea01fa3430f448fd22ddcb18]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/502/regulation/9) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-727847c2ea01fa3430f448fd22ddcb18]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/502/regulation/9) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
-[^key-bd3df383c8fb3dfdd9225dc1274fdf0d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/502/regulation/10) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-bd3df383c8fb3dfdd9225dc1274fdf0d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/502/regulation/10) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
-[^key-53d3c58c07c77b5e25fb7645172f4f61]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2017/502/regulation/11) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-53d3c58c07c77b5e25fb7645172f4f61]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2017/502/regulation/11) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
-[^key-e4584d388437ee766115a9fad2fcbb8b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/502/regulation/12) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-e4584d388437ee766115a9fad2fcbb8b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/502/regulation/12) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
-[^key-7ff0a67645f86f5952c03c89fa41de6c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2017/502/regulation/13) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-7ff0a67645f86f5952c03c89fa41de6c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2017/502/regulation/13) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
-[^key-db40d6b129c31b1953bd9ee229ccb5d6]: Commencement: Reg. 14 in force at 1.4.2017, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/4)
+[^c-db40d6b129c31b1953bd9ee229ccb5d6]: Commencement: Reg. 14 in force at 1.4.2017, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/4)
 
-[^key-c2dfccd7929b61a5e0980591f60d2d31]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2017/502/regulation/15) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-c2dfccd7929b61a5e0980591f60d2d31]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2017/502/regulation/15) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
-[^key-bb1ab75d787e72c881789c57a37a76bc]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2017/502/regulation/16) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-bb1ab75d787e72c881789c57a37a76bc]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2017/502/regulation/16) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
-[^key-6939fe9b98702178ebfc2899faa95a3c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2017/502/regulation/17) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-6939fe9b98702178ebfc2899faa95a3c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2017/502/regulation/17) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
-[^key-30c36e6afdc760213d48f187fa984960]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2017/502/regulation/18) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
+[^c-30c36e6afdc760213d48f187fa984960]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2017/502/regulation/18) in force at 1.7.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/2)
 
-[^key-01b0ac20df7027eda541c085053ef37b]: Commencement: Reg. 19 in force at 28.3.2017, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/5)
+[^c-01b0ac20df7027eda541c085053ef37b]: Commencement: Reg. 19 in force at 28.3.2017, see [reg. 1(5)](https://www.legislation.gov.uk/uksi/2017/502/regulation/1/5)
 
 [^f00003]: Footnote: [S.I. 2014/3354](https://www.legislation.gov.uk/uksi/2014/3354), amended by [S.I. 2015/875](https://www.legislation.gov.uk/uksi/2015/875), [S.I. 2016/363](https://www.legislation.gov.uk/uksi/2016/363) and [S.I. 2016/742](https://www.legislation.gov.uk/uksi/2016/742).

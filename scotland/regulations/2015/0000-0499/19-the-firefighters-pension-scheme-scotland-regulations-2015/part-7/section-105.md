@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Entitlement to pension credit members’ pension[^key-5abbbf4dd2cc5e123ee6bfd9735e30e2]
+## 105. Entitlement to pension credit members’ pension[^c-5abbbf4dd2cc5e123ee6bfd9735e30e2]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5abbbf4dd2cc5e123ee6bfd9735e30e2]: Commencement: [Reg. 105](https://www.legislation.gov.uk/ssi/2015/19/regulation/105) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-5abbbf4dd2cc5e123ee6bfd9735e30e2]: Commencement: [Reg. 105](https://www.legislation.gov.uk/ssi/2015/19/regulation/105) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

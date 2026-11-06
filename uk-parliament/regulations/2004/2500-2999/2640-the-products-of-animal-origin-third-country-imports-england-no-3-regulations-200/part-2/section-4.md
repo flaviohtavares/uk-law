@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Enforcement authorities and exchange of information[^key-ca9033cc2de7e4415109046ad0294487]
+## 4. Enforcement authorities and exchange of information[^c-ca9033cc2de7e4415109046ad0294487]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca9033cc2de7e4415109046ad0294487]: Textual amendment: Regulations revoked (1.2.2005) by [The Products of Animal Origin (Third Country Imports) (England) (No. 4) Regulations 2004 (S.I. 2004/3388)](https://www.legislation.gov.uk/uksi/2004/3388), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3388/regulation/1), [68](https://www.legislation.gov.uk/uksi/2004/3388/regulation/68)
+[^c-ca9033cc2de7e4415109046ad0294487]: Textual amendment: Regulations revoked (1.2.2005) by [The Products of Animal Origin (Third Country Imports) (England) (No. 4) Regulations 2004 (S.I. 2004/3388)](https://www.legislation.gov.uk/uksi/2004/3388), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3388/regulation/1), [68](https://www.legislation.gov.uk/uksi/2004/3388/regulation/68)

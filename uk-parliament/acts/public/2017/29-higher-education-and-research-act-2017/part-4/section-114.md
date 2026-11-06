@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Advice to Northern Ireland departments[^key-809f68daf90f590d7e11816d0d139e3c]
+## 114. Advice to Northern Ireland departments[^c-809f68daf90f590d7e11816d0d139e3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-809f68daf90f590d7e11816d0d139e3c]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2017/29/section/114) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/m)
+[^c-809f68daf90f590d7e11816d0d139e3c]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2017/29/section/114) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/m)

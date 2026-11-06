@@ -33,18 +33,18 @@ of 4 December 2014
 
 amending Regulation (EC) No 1238/95 as regards the level of the application fee and of the examination fee payable to the Community Plant Variety Office (revoked)
 
-[^key-4534f783e2e071df40c83dc95a028cb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4534f783e2e071df40c83dc95a028cb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-4534f783e2e071df40c83dc95a028cb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4534f783e2e071df40c83dc95a028cb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4534f783e2e071df40c83dc95a028cb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4534f783e2e071df40c83dc95a028cb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4534f783e2e071df40c83dc95a028cb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4534f783e2e071df40c83dc95a028cb0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-4534f783e2e071df40c83dc95a028cb0]
+## ANNEX[^c-4534f783e2e071df40c83dc95a028cb0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4534f783e2e071df40c83dc95a028cb0]: Textual amendment: Regulation revoked (31.12.2020) by The Plant Breeders’ [Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4534f783e2e071df40c83dc95a028cb0]: Textual amendment: Regulation revoked (31.12.2020) by The Plant Breeders’ [Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] considers that a payment has been made to an NHS chemist pursuant to the arrangements mentioned in regulation 89(5) or 91(7) in circumstances where it was not due, it must (except to the extent that the Secretary of State, on the application of NHS England, directs otherwise) draw the overpayment to the attention of the NHS chemist, and—
+(1) Where NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] considers that a payment has been made to an NHS chemist pursuant to the arrangements mentioned in regulation 89(5) or 91(7) in circumstances where it was not due, it must (except to the extent that the Secretary of State, on the application of NHS England, directs otherwise) draw the overpayment to the attention of the NHS chemist, and—
 
 - (a) where the NHS chemist admits the overpayment; or
 - (b) if the NHS chemist does not admit there has been an overpayment, where the final outcome of an investigation or appeal is that there has been an overpayment,
@@ -33,4 +33,4 @@ the amount overpaid shall be recoverable by deduction from other remuneration pa
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

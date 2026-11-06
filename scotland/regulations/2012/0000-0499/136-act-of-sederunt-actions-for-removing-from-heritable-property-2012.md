@@ -45,7 +45,7 @@ Coming into force
 
 The Lords of Council and Session, under and by virtue of the powers conferred by section 32 of the Sheriff Courts (Scotland) Act 1971[^f00001], section 215 of the Bankruptcy and Diligence etc. (Scotland) Act 2007[^f00002] and of all other powers enabling them in that behalf, having approved draft rules submitted to them by the Sheriff Court Rules Council in accordance with section 34 of the said Act of 1971, do hereby enact and declare:
 
-## 1. Citation, commencement and interpretation[^key-702afffc47fe0341e83183686dd4ddd7]
+## 1. Citation, commencement and interpretation[^c-702afffc47fe0341e83183686dd4ddd7]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Actions for removing from heritable property) 2012 and comes into force on 18th June 2012.
 
@@ -57,16 +57,16 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 - “decree for removing from heritable property” has the meaning given in section 214(1) of the 2007 Act;
 - “charge for removing” means the charge for removing in the form prescribed by the Scottish Ministers under section 216(6) of the 2007 Act[^f00003].
 
-## 2. Application[^key-d193194343b48bddfbf9ed644392cac8]
+## 2. Application[^c-d193194343b48bddfbf9ed644392cac8]
 
 This Act of Sederunt prescribes the procedure and practice to be followed in the execution of any decree for removing from heritable property.
 
-## 3. Charge for removing[^key-0b43eef8d219cc379cbebd29c93b9218]
+## 3. Charge for removing[^c-0b43eef8d219cc379cbebd29c93b9218]
 
 (1) For the purposes of section 216(1)(a) of the 2007 Act, the charge for removing shall be served by a sheriff officer on the defender—
 
 - (a) personally; or
-- (b) by being left in the hands of a resident at the defender’s dwelling place or an employee at his or her place of business; [^key-4340588c729ac034191656321ddbe97f]...
+- (b) by being left in the hands of a resident at the defender’s dwelling place or an employee at his or her place of business; [^c-4340588c729ac034191656321ddbe97f]...
 
 (2) Where a sheriff officer has been unsuccessful in executing service in accordance with paragraph (1), he or she may, after making diligent enquiries, serve the charge for removing—
 
@@ -79,21 +79,21 @@ This Act of Sederunt prescribes the procedure and practice to be followed in the
 
 (5) Where the address of the defender is not known and cannot reasonably be ascertained by the sheriff officer, the charge for removing shall be deemed to have been served on the defender if it is—
 
-- (a) left with or deposited at the office of the sheriff clerk of the sheriff court district where the heritable property[^key-74e8fccb16cf789b8543f3df31686f71] is located; and
+- (a) left with or deposited at the office of the sheriff clerk of the sheriff court district where the heritable property[^c-74e8fccb16cf789b8543f3df31686f71] is located; and
 - (b) displayed by the sheriff clerk on the walls of court for the period of the charge.
 
 (6) Where service is executed under paragraph (5) the period of charge shall run from the first date on which it was displayed on the walls of the court.
 
 (7) Where service is executed in accordance with this rule, the sheriff officer shall leave a copy of the charge for removing at the heritable property—
 
-- (a)[^key-68dce9eb697276833d9063b86dd4920a] by leaving a copy of the charge in a sealed envelope addressed to “the occupiers” in such a way that it is likely to come to the attention of the occupiers; or
+- (a)[^c-68dce9eb697276833d9063b86dd4920a] by leaving a copy of the charge in a sealed envelope addressed to “the occupiers” in such a way that it is likely to come to the attention of the occupiers; or
 - (b) in the case of land only, inserting stakes in the ground at conspicuous parts of the occupied land to each of which is attached a sealed envelope containing a copy of the charge addressed to “the occupiers”.
 
 (8) On the face of the envelope used under paragraph (7) there shall be written or printed the following notice:—
 
 - TAKE NOTICE: this envelope contains a copy of a charge for removing from a Sheriff Officer.
 
-## 4. Notice of date of removal[^key-87a24433e798b302cdda76da1b1a7a9e]
+## 4. Notice of date of removal[^c-87a24433e798b302cdda76da1b1a7a9e]
 
 (1) Prior to the execution of a decree for removing from heritable property, notice of the date of removal shall be served by the sheriff officer, in Form 4, by—
 
@@ -104,7 +104,7 @@ This Act of Sederunt prescribes the procedure and practice to be followed in the
 
 (3) The sheriff may, on the application of the pursuer, on cause shown, vary or dispense with the period of notice mentioned in subparagraph (2).
 
-## 5. Evidence of service and notice[^key-db58f022a2a98f9f4bc645e84a2df29f]
+## 5. Evidence of service and notice[^c-db58f022a2a98f9f4bc645e84a2df29f]
 
 It shall be sufficient evidence that—
 
@@ -113,13 +113,13 @@ It shall be sufficient evidence that—
 
 if a certificate to that effect is signed by the sheriff officer.
 
-## 6. Inventory of effects removed[^key-74a7dcc166983eef024242577ccb91f1]
+## 6. Inventory of effects removed[^c-74a7dcc166983eef024242577ccb91f1]
 
 (1) For the purposes of section 216(3)(b) of the 2007 Act the inventory of effects removed shall be in Form 6.
 
 (2) The inventory shall be witnessed.
 
-## 7. Execution of decree[^key-85bc60dd6dad0423cfef3e941c2849af]
+## 7. Execution of decree[^c-85bc60dd6dad0423cfef3e941c2849af]
 
 (1) This rule applies where a decree for removing from heritable property has been executed.
 
@@ -142,9 +142,9 @@ Edinburgh
 
 9th May 2012
 
-## SCHEDULE[^key-55a5b124ec59b7b00042555c819ddac5]
+## SCHEDULE[^c-55a5b124ec59b7b00042555c819ddac5]
 
-[^key-7c1184f20695f0f4adf620229aebd371]Form 4
+[^c-7c1184f20695f0f4adf620229aebd371]Form 4
 
 [image: see source](https://www.legislation.gov.uk/ssi/2012/136/images/ssi_20120136_en_epp_001.gif)
 
@@ -168,30 +168,30 @@ This Act of Sederunt prescribes the practice and procedure to be followed in the
 
 [^f00002]: Footnote: [2007 asp 3](https://www.legislation.gov.uk/asp/2007/3).
 
-[^key-702afffc47fe0341e83183686dd4ddd7]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
+[^c-702afffc47fe0341e83183686dd4ddd7]: Commencement: [Para. 1](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
 
 [^f00003]: Footnote: The Form of Charge for removing was prescribed by the Scottish Ministers in [S.S.I. 2011/158](https://www.legislation.gov.uk/ssi/2011/158).
 
-[^key-d193194343b48bddfbf9ed644392cac8]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2012/136/paragraph/2) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
+[^c-d193194343b48bddfbf9ed644392cac8]: Commencement: [Para. 2](https://www.legislation.gov.uk/ssi/2012/136/paragraph/2) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
 
-[^key-0b43eef8d219cc379cbebd29c93b9218]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2012/136/paragraph/3) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
+[^c-0b43eef8d219cc379cbebd29c93b9218]: Commencement: [Para. 3](https://www.legislation.gov.uk/ssi/2012/136/paragraph/3) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
 
-[^key-4340588c729ac034191656321ddbe97f]: Textual amendment: Word in para. 3(1)(b) deleted (12.11.2012) by [Act of Sederunt (Actions for removing from heritable property) (Amendment) 2012 (S.S.I. 2012/273)](https://www.legislation.gov.uk/ssi/2012/273), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2/2/a) (as amended by [S.S.I. 2013/135](https://www.legislation.gov.uk/ssi/2013/135), [para. 7(2)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/7/2))
+[^c-4340588c729ac034191656321ddbe97f]: Textual amendment: Word in para. 3(1)(b) deleted (12.11.2012) by [Act of Sederunt (Actions for removing from heritable property) (Amendment) 2012 (S.S.I. 2012/273)](https://www.legislation.gov.uk/ssi/2012/273), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2/2/a) (as amended by [S.S.I. 2013/135](https://www.legislation.gov.uk/ssi/2013/135), [para. 7(2)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/7/2))
 
 [^f00004]: Footnote: The Ordinary Cause Rules are contained in Schedule 1 to the Sheriff Courts (Scotland) Act 1907, last amended by [S.S.I. 2011/386](https://www.legislation.gov.uk/ssi/2011/386).
 
-[^key-74e8fccb16cf789b8543f3df31686f71]: Textual amendment: Words in para. 3(5)(a) substituted (12.11.2012) by [Act of Sederunt (Actions for removing from heritable property) (Amendment) 2012 (S.S.I. 2012/273)](https://www.legislation.gov.uk/ssi/2012/273), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2/2/b) (as amended by [S.S.I. 2013/135](https://www.legislation.gov.uk/ssi/2013/135), [para. 7(2)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/7/2))
+[^c-74e8fccb16cf789b8543f3df31686f71]: Textual amendment: Words in para. 3(5)(a) substituted (12.11.2012) by [Act of Sederunt (Actions for removing from heritable property) (Amendment) 2012 (S.S.I. 2012/273)](https://www.legislation.gov.uk/ssi/2012/273), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2/2/b) (as amended by [S.S.I. 2013/135](https://www.legislation.gov.uk/ssi/2013/135), [para. 7(2)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/7/2))
 
-[^key-68dce9eb697276833d9063b86dd4920a]: Textual amendment: Para. 3(7)(a) substituted (12.11.2012) by [Act of Sederunt (Actions for removing from heritable property) (Amendment) 2012 (S.S.I. 2012/273)](https://www.legislation.gov.uk/ssi/2012/273), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2/2/c) (as amended by [S.S.I. 2013/135](https://www.legislation.gov.uk/ssi/2013/135), [para. 7(2)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/7/2))
+[^c-68dce9eb697276833d9063b86dd4920a]: Textual amendment: Para. 3(7)(a) substituted (12.11.2012) by [Act of Sederunt (Actions for removing from heritable property) (Amendment) 2012 (S.S.I. 2012/273)](https://www.legislation.gov.uk/ssi/2012/273), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2/2/c) (as amended by [S.S.I. 2013/135](https://www.legislation.gov.uk/ssi/2013/135), [para. 7(2)](https://www.legislation.gov.uk/ssi/2013/135/paragraph/7/2))
 
-[^key-87a24433e798b302cdda76da1b1a7a9e]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2012/136/paragraph/4) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
+[^c-87a24433e798b302cdda76da1b1a7a9e]: Commencement: [Para. 4](https://www.legislation.gov.uk/ssi/2012/136/paragraph/4) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
 
-[^key-db58f022a2a98f9f4bc645e84a2df29f]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2012/136/paragraph/5) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
+[^c-db58f022a2a98f9f4bc645e84a2df29f]: Commencement: [Para. 5](https://www.legislation.gov.uk/ssi/2012/136/paragraph/5) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
 
-[^key-74a7dcc166983eef024242577ccb91f1]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2012/136/paragraph/6) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
+[^c-74a7dcc166983eef024242577ccb91f1]: Commencement: [Para. 6](https://www.legislation.gov.uk/ssi/2012/136/paragraph/6) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
 
-[^key-85bc60dd6dad0423cfef3e941c2849af]: Commencement: [Para. 7](https://www.legislation.gov.uk/ssi/2012/136/paragraph/7) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
+[^c-85bc60dd6dad0423cfef3e941c2849af]: Commencement: [Para. 7](https://www.legislation.gov.uk/ssi/2012/136/paragraph/7) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
 
-[^key-55a5b124ec59b7b00042555c819ddac5]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2012/136/schedule) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
+[^c-55a5b124ec59b7b00042555c819ddac5]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2012/136/schedule) in force at 18.6.2012, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2012/136/paragraph/1/1)
 
-[^key-7c1184f20695f0f4adf620229aebd371]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2012/136/schedule) Form 4 substituted (12.11.2012) by [Act of Sederunt (Actions for removing from heritable property) (Amendment) 2012 (S.S.I. 2012/273)](https://www.legislation.gov.uk/ssi/2012/273), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2/3), [sch.](https://www.legislation.gov.uk/ssi/2012/273/schedule)
+[^c-7c1184f20695f0f4adf620229aebd371]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2012/136/schedule) Form 4 substituted (12.11.2012) by [Act of Sederunt (Actions for removing from heritable property) (Amendment) 2012 (S.S.I. 2012/273)](https://www.legislation.gov.uk/ssi/2012/273), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/273/paragraph/2/3), [sch.](https://www.legislation.gov.uk/ssi/2012/273/schedule)

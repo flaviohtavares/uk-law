@@ -41,7 +41,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-b6cdcfc762cd57cd2e900125a8769590]
+### 1. Citation and commencement[^c-b6cdcfc762cd57cd2e900125a8769590]
 
 (1) These Regulations may be cited as the Water Supply (Water Quality) Regulations (Northern Ireland) 2002.
 
@@ -53,7 +53,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 (5) All other provisions of these Regulations shall come into operation on 1st January 2004.
 
-### 2. Interpretation[^key-283a4ec256121355c73234983f38a416]
+### 2. Interpretation[^c-283a4ec256121355c73234983f38a416]
 
 (1) In these Regulations –
 
@@ -109,7 +109,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 ## PART II — WATER SUPPLY ZONES
 
-### 3. Water supply zones[^key-f7d1412d84b89bb4371157419c93fd96]
+### 3. Water supply zones[^c-f7d1412d84b89bb4371157419c93fd96]
 
 (1) Before the beginning of each year in which it intends to supply water for regulation 4(1) purposes, the Department for Regional Development shall designate the names and areas within its area of supply that are to be its water supply zones for that year.
 
@@ -119,7 +119,7 @@ The Department of the Environment, in exercise of the powers conferred on it by 
 
 ## PART III — WHOLESOMENESS
 
-### 4. Wholesomeness[^key-003a334fac9bc2a9293aacc94b4ade8c]
+### 4. Wholesomeness[^c-003a334fac9bc2a9293aacc94b4ade8c]
 
 (1) Water supplied –
 
@@ -155,7 +155,7 @@ shall, subject to paragraphs (4) and (5), be regarded as wholesome for the purpo
 
 ## PART IV — MONITORING OF WATER SUPPLIES
 
-### 5. Interpretation and application of Part IV[^key-66c937b1251c0bc3f99924479e10cc81]
+### 5. Interpretation and application of Part IV[^c-66c937b1251c0bc3f99924479e10cc81]
 
 (1) In this Part, “audit monitoring” means monitoring for the purpose of obtaining information from which it may be established –
 
@@ -172,7 +172,7 @@ for the purpose of determining –
 - (i) as regards the parameters listed in Tables A and B in Schedule 1, whether water supplied for regulation 4(1) purposes satisfies the provisions of Part III or, if a departure has been authorised under Part VI in relation to that supply, those provisions as read with the terms of that departure; and
 - (ii) as regards indicator parameters, whether water supplied for regulation 4(1) purposes meets the specifications for those parameters.
 
-### 6. Monitoring: general provisions[^key-499d1b4198a6fd3bc975d699cc5d78d8]
+### 6. Monitoring: general provisions[^c-499d1b4198a6fd3bc975d699cc5d78d8]
 
 (1) For the purpose of determining whether water to which this Part applies satisfies the provisions of Part III or, if a departure has been authorised under Part VI in relation to that supply, those provisions as read with the terms of that authorisation, the Department for Regional Development shall take, or cause to be taken, and analyse, or cause to be analysed, not less than the number of samples of the water within each of its water supply zones specified in, or in accordance with provisions of, this Part.
 
@@ -209,11 +209,11 @@ the Department shall notify the Department for Regional Development that the tot
 
 (9) Should the Department for Regional Development receive a notice under paragraph (8) it shall monitor the total indicative dose parameter or, as the case may be, the tritium parameter in accordance with the notice having effect for the time being under paragraph (6).
 
-### 7. Sampling points[^key-3fc643d5ecb06e73ec6eb6bb0333b6c0]
+### 7. Sampling points[^c-3fc643d5ecb06e73ec6eb6bb0333b6c0]
 
 Except in relation to water supplied from a tanker, sampling points in respect of every parameter, other than a parameter for which samples are taken from a supply point authorised by or under regulation 8, shall be selected at random unless, by notice in writing to the Department for Regional Development (whether or not on the application of the Department for Regional Development), the Department otherwise determines.
 
-### 8. Authorisation of supply points[^key-b8f03347c9af699cc0feff988e784e79]
+### 8. Authorisation of supply points[^c-b8f03347c9af699cc0feff988e784e79]
 
 (1) The Department, being satisfied that analysis of samples taken from –
 
@@ -233,7 +233,7 @@ will produce data in respect of the parameters specified as items 7, 8 and 9 to 
 
 (6) The Department for Regional Development shall notify the Department as soon as it has reasonable grounds for believing that an analysis of samples taken for a water supply zone from a point other than a sampling point would produce data in respect of the parameter in question which would differ in a material respect from the data produced by an analysis of samples taken from any of the sampling points within that zone; and the Department shall thereupon, and without the need for prior notice to the Department for Regional Development, revoke the authorisation.
 
-### 9. Numbers of samples[^key-a449efeab8690c754c78f0e9be7b30d8]
+### 9. Numbers of samples[^c-a449efeab8690c754c78f0e9be7b30d8]
 
 (1) Subject to paragraph (2), in each year the Department for Regional Development shall take, or cause to be taken –
 
@@ -262,7 +262,7 @@ the standard number of samples for analysis as regards residual disinfectant and
 - (b) in relation to supply points, each of the parameters specified as items 7, 8 and 9 to 25 in column (1) of Table 3 in Schedule 3, and the supply of a volume of water within one of the ranges shown in column (3) of that Table, “the standard number” and “the reduced number” means, subject to sub-paragraph (c), the number shown in column (5) and column (4), respectively, of that Table as applicable to that parameter by reference to a volume supplied within that range; and
 - (c) where a particular supply point is in use for part only of a year, “the standard number” and “the reduced number” means the number that bears to the number shown in column (5) and column (4), respectively, of Table 3, the same proportion as the number of days in that year in which the supply point has been in use bears to 365.
 
-### 10. Sampling: further provisions[^key-6fceb070806b8a00b607d51573b1e86e]
+### 10. Sampling: further provisions[^c-6fceb070806b8a00b607d51573b1e86e]
 
 As soon as the Department for Regional Development has reasonable grounds for believing that any element, organism or substance, other than residual disinfectant or a parameter, whether alone or in combination with a parameter or any other element, organism or substance, may cause the supply within any of its water supply zones to be a supply which does not satisfy –
 
@@ -273,15 +273,15 @@ it shall take, or cause to be taken, sufficient samples from water within that z
 
 ## PART V — MONITORING – ADDITIONAL PROVISIONS
 
-### 11. Interpretation of Part V[^key-25d5e66386d067a3f31573ffbfef4db8]
+### 11. Interpretation of Part V[^c-25d5e66386d067a3f31573ffbfef4db8]
 
 In this Part, in relation to residual disinfectant or a parameter specified as item 1, 2, 3, 4 or 6 in column (1) of Table 3 in Schedule 3, and the supply of a volume of water within one of the ranges shown in column (3) of that Table, “the standard number” and “the reduced number” means the number shown in column (5) and column (4), respectively, of that Table as applicable to residual disinfectant or the parameter in question by reference to a volume of water within that range.
 
-### 12. Sampling for particular substances and parameters[^key-c8c653d58ea56e1ff5b2fd56386f4188]
+### 12. Sampling for particular substances and parameters[^c-c8c653d58ea56e1ff5b2fd56386f4188]
 
 For the purposes of establishing the quality of water to be supplied to any of its water supply zones, the Department for Regional Development shall take, or cause to be taken, and analyse, or cause to be analysed, not less than the number of samples specified in this Part.
 
-### 13. Sampling at treatment works[^key-55fe43b8bb39f6b040737d302d5598a5]
+### 13. Sampling at treatment works[^c-55fe43b8bb39f6b040737d302d5598a5]
 
 (1) Subject to paragraphs (2), (4) and (6), in each year the Department for Regional Development shall take, or cause to be taken, from the point at which water leaves each treatment works which serves its water supply zones, the standard number of samples for analysis –
 
@@ -311,7 +311,7 @@ the number of samples to be taken in respect of that parameter in the next follo
 
 (6) Where a particular treatment works is in use for part only of a year, the minimum number of samples to be taken from that works in that year shall bear to the standard number or, as the case may be, the reduced number, the same proportion as the number of days in that year in which the treatment works has been in use bears to 365.
 
-### 14. Sampling at service reservoirs[^key-3fc703b5d14564c87ec495727dc465d1]
+### 14. Sampling at service reservoirs[^c-3fc703b5d14564c87ec495727dc465d1]
 
 The Department for Regional Development shall take, or cause to be taken, from each of its service reservoirs in each week in which the reservoir is in use, one sample for analysis –
 
@@ -319,7 +319,7 @@ The Department for Regional Development shall take, or cause to be taken, from e
 - (b) for determining the concentration of residual disinfectant; and
 - (c) for determining whether the specification in relation to the colony counts parameter is met.
 
-### 15. Sampling: new sources[^key-a143805bbf17147edb2fcc39d5aa47d1]
+### 15. Sampling: new sources[^c-a143805bbf17147edb2fcc39d5aa47d1]
 
 (1) This regulation applies as respects –
 
@@ -346,7 +346,7 @@ take, or cause to be taken, in accordance with paragraph (3), such samples of th
   - (ii) the conductivity, hydrogen ion and turbidity parameters; and
   - (iii) any other parameter as regards which the Department for Regional Development is of the opinion that its concentration or value is likely to have altered since the last occasion on which water from that source was analysed.
 
-### 16. Collection and analysis of samples[^key-bd9fcb00adc6c517534964016b0ea20c]
+### 16. Collection and analysis of samples[^c-bd9fcb00adc6c517534964016b0ea20c]
 
 (1) The Department for Regional Development shall secure, so far as is reasonably practicable, that in taking, handling, transporting, storing and analysing any sample required to be taken for the purposes of Part IV or this Part, or causing any such sample to be taken, handled, transported, stored and analysed, the appropriate requirements are satisfied.
 
@@ -398,7 +398,7 @@ take, or cause to be taken, in accordance with paragraph (3), such samples of th
 
 ## PART VI — INVESTIGATIONS, AUTHORISATION OF DEPARTURES AND REMEDIAL ACTION
 
-### 17. Investigations: Schedule 1 parameters[^key-4c040596ff5ef23d733f65b9f087abcd]
+### 17. Investigations: Schedule 1 parameters[^c-4c040596ff5ef23d733f65b9f087abcd]
 
 (1) Subject to paragraph (3), where the Department for Regional Development has reason to believe that water supplied by it for regulation 4(1) purposes –
 
@@ -450,7 +450,7 @@ take, or cause to be taken, in accordance with paragraph (3), such samples of th
 
 (9) Where such a failure as is mentioned in paragraph (1) relates to the copper or lead parameter, the Department for Regional Development shall, as soon as reasonably practicable after the occurrence, modify or replace such of its pipes and their associated fittings as it knows or has reason to believe have the potential for contributing to copper or lead in the water supplied to the premises, so as to eliminate that potential (whether or not the presence of copper or lead in those pipes contributed to the failure).
 
-### 18. Investigations: indicator parameters[^key-dfb81a570c5e9bcbc53de8c938b7f48e]
+### 18. Investigations: indicator parameters[^c-dfb81a570c5e9bcbc53de8c938b7f48e]
 
 (1) Where the Department for Regional Development has reason to believe that water supplied by it for regulation 4(1) purposes does not meet the specifications for indicator parameters set out in Schedule 2, it shall take such steps as are necessary to identify –
 
@@ -477,7 +477,7 @@ take, or cause to be taken, in accordance with paragraph (3), such samples of th
 
 (4) Where such an inability as is mentioned in paragraph (3) is, in the opinion of the Department for Regional Development, likely to affect the supply of water to the public in premises in which water is so supplied, it shall, at the same time as notice is given under paragraph (2), notify such persons as the Department may determine for the purposes of this paragraph of the matters of which notice is given to consumers in accordance with paragraph (3)(a).
 
-### 19. Action by the Department of the Environment[^key-8bf98498ac8b7c343cb3d17804e3d08b]
+### 19. Action by the Department of the Environment[^c-8bf98498ac8b7c343cb3d17804e3d08b]
 
 (1) Where –
 
@@ -506,7 +506,7 @@ it may, by notice in writing to the Department for Regional Development, require
 
 (4) Should a notice be given under paragraph (3) it shall be the duty of the Department for Regional Development to take the steps specified in the notice.
 
-### 20. Authorisation of temporary supply of water that is not wholesome[^key-38e4f0485325c86c1a51f5cfbc8e1e3a]
+### 20. Authorisation of temporary supply of water that is not wholesome[^c-38e4f0485325c86c1a51f5cfbc8e1e3a]
 
 (1) Subject to paragraph (2), the Department may, upon the written application of the Department for Regional Development, authorise in accordance with regulation 21 a departure from the provisions of Part III in so far as they relate to –
 
@@ -547,7 +547,7 @@ a copy of the application and of the statement, scheme and summary referred to i
 
 (5) A body on whom documents have been served in accordance with paragraph (4) may make representations to the Department in connection with the application; and any such representations shall be made not later than the end of the period of 30 days beginning with the date on which the application for the authorisation is made.
 
-### 21. Authorisations: terms and conditions[^key-6210b61e6fdab9f890f8bce6fdf81879]
+### 21. Authorisations: terms and conditions[^c-6210b61e6fdab9f890f8bce6fdf81879]
 
 (1) Subject to paragraph (2), a departure may be authorised under regulation 20 for such period as is in the Department’s opinion reasonably required for securing a supply of water for regulation 4(1) purposes that fully satisfies the requirements of Part III (“the departure period”).
 
@@ -588,14 +588,14 @@ the particulars to be specified in the authorisation shall be those required by 
 
 (8) Paragraph (3) shall apply to a departure authorised under paragraph (7) as it applies to a departure authorised under regulation 20, but with the substitution for the words “Subject to paragraph (4)” of the words “Subject to any direction of the Commission”.
 
-### 22. Authorisations: other limitations[^key-e75f27f17561310097130c79affb01d6]
+### 22. Authorisations: other limitations[^c-e75f27f17561310097130c79affb01d6]
 
 An authorisation under regulation 20 or regulation 21 may be limited to water supplied –
 
 - (a) from particular sources or classes of source;
 - (b) to particular water supply zones or to zones of particular descriptions.
 
-### 23. Publicity for authorisations[^key-60667c30836b153a59a2ba2e28a068e1]
+### 23. Publicity for authorisations[^c-60667c30836b153a59a2ba2e28a068e1]
 
 As soon as reasonably practicable after a departure has been authorised, the Department for Regional Development shall –
 
@@ -604,7 +604,7 @@ As soon as reasonably practicable after a departure has been authorised, the Dep
   - (ii) in a case to which paragraph (4) of regulation 21 applies, and if the Department so requires, a notice containing a statement of the matters specified in paragraph (3)(a)(ii), (iii) and (ix) of that regulation;
 - (b) give such other public notice of the authorisation and of its terms and conditions as the Department may, by notice in writing to the Department for Regional Development, reasonably require.
 
-### 24. Revocation and modification of authorisations[^key-1bd8172a77587be69129bbe94deb9042]
+### 24. Revocation and modification of authorisations[^c-1bd8172a77587be69129bbe94deb9042]
 
 (1) Subject to paragraphs (2) and (3), the Department may at any time modify or revoke an authorisation under regulation 20.
 
@@ -620,15 +620,15 @@ but it may revoke or modify an authorisation without notice if it appears to it 
 
 ## PART VII — WATER TREATMENT
 
-### 25. Interpretation of Part VII[^key-9268101a166501a7d6a489127800a70c]
+### 25. Interpretation of Part VII[^c-9268101a166501a7d6a489127800a70c]
 
 In this Part –
 
-- “the Guidance for *Cryptosporidium*” means ‘the Guidance for the Monitoring of *Cryptosporidium* in Treated Water in Northern Ireland' issued by the Department (published May 2002, First Edition) (Revised February 2003)[^key-6c9984baff069daa9a3657e0723fdffe] ;
+- “the Guidance for *Cryptosporidium*” means ‘the Guidance for the Monitoring of *Cryptosporidium* in Treated Water in Northern Ireland' issued by the Department (published May 2002, First Edition) (Revised February 2003)[^c-6c9984baff069daa9a3657e0723fdffe] ;
 - “risk assessment”, “continuous monitoring programme” and “significant risk from *Cryptosporidium*” have the same meanings as those contained in “the Guidance for *Cryptosporidium*”; and
 - “surface water” does not include water from a spring.
 
-### 26. Treatment of raw water[^key-6ca0cb9245d4fb2a0cf364dc785051a4]
+### 26. Treatment of raw water[^c-6ca0cb9245d4fb2a0cf364dc785051a4]
 
 (1) In carrying out such of its functions under Part II of the Order as comprise the supply of water for regulation 4(1) purposes, the Department for Regional Development shall not, subject to paragraph (2), supply water from any source which consists of or includes raw water unless the water has been disinfected and, in the case of surface water, subjected to at least such further treatment as is specified in paragraph (3).
 
@@ -638,7 +638,7 @@ In this Part –
 
 (4) Except with the consent of the Department, water shall not be abstracted for supply for domestic purposes which include drinking except from waters to be treated as falling within category A1 or A2 or A3 in the Annex mentioned in paragraph (3).
 
-### 27. Risk assessment for Cryptosporidium[^key-094a1156a3fad9c29a12cf58bbaf7e90]
+### 27. Risk assessment for Cryptosporidium[^c-094a1156a3fad9c29a12cf58bbaf7e90]
 
 (1) It shall be the duty of the Department for Regional Development to carry out an annual risk assessment for *Cryptosporidium* at all its water treatment works.
 
@@ -652,7 +652,7 @@ In this Part –
 - (a) introduce at the treatment works a continuous monitoring programme; and
 - (b) take measures, as agreed with the Department, to reduce the risk of *Cryptosporidium* to low as indentified by the risk assessment carried out in accordance with paragraph 3.7 of the Guidance for *Cryptosporidium*.
 
-### 28. Procedure following risk assessment[^key-8df39f43f0c5fa4232351923646828b6]
+### 28. Procedure following risk assessment[^c-8df39f43f0c5fa4232351923646828b6]
 
 Where the Department considers that the assessment that is the subject of a report submitted to it in accordance with paragraph (2) of regulation 27 has not been carried out satisfactorily, it shall send a notification to the Department for Regional Development which –
 
@@ -661,23 +661,23 @@ Where the Department considers that the assessment that is the subject of a repo
 
 and the Department for Regional Development shall comply with the requirement by the date specified.
 
-### 29. Contamination from pipes[^key-814eedc0c0b4c3f6ffcba6ef24f73363][^key-717cd5e3496de442fddea7ec39ccd158]
+### 29. Contamination from pipes[^c-814eedc0c0b4c3f6ffcba6ef24f73363][^c-717cd5e3496de442fddea7ec39ccd158]
 
-(1)[^key-814eedc0c0b4c3f6ffcba6ef24f73363] Where there is a risk (“the prescribed risk”) that water supplied by the Department for Regional Development would, for the reason mentioned in paragraph (2), after leaving that Department’s pipes –
+(1)[^c-814eedc0c0b4c3f6ffcba6ef24f73363] Where there is a risk (“the prescribed risk”) that water supplied by the Department for Regional Development would, for the reason mentioned in paragraph (2), after leaving that Department’s pipes –
 
 - (a) contain a concentration of copper in excess of 2mg/litre; or
 - (b) contain a concentration of lead in excess of 10μg/litre,
 
 the Department for Regional Development shall, subject to paragraph (3), treat the water in such a way as will, in its opinion, eliminate the prescribed risk or reduce it to a minimum.
 
-(2)[^key-814eedc0c0b4c3f6ffcba6ef24f73363] The reason referred to in paragraph (1) is the presence in the water of a concentration of copper or lead which is attributable to the fact that copper or lead is the major component of such a pipe as is mentioned in Article 3A(3)(a) of the Order, or its associated fittings.
+(2)[^c-814eedc0c0b4c3f6ffcba6ef24f73363] The reason referred to in paragraph (1) is the presence in the water of a concentration of copper or lead which is attributable to the fact that copper or lead is the major component of such a pipe as is mentioned in Article 3A(3)(a) of the Order, or its associated fittings.
 
-(3)[^key-814eedc0c0b4c3f6ffcba6ef24f73363] Paragraph (1) shall not require the Department for Regional Development to treat water –
+(3)[^c-814eedc0c0b4c3f6ffcba6ef24f73363] Paragraph (1) shall not require the Department for Regional Development to treat water –
 
 - (a) if the treatment is unlikely to achieve a significant reduction in the concentration of copper or lead; or
 - (b) if treatment is not reasonably practicable.
 
-(4)[^key-717cd5e3496de442fddea7ec39ccd158] Where at any time in the period beginning with 25th December 2003 and ending immediately before 25th December 2013, the Department for Regional Development –
+(4)[^c-717cd5e3496de442fddea7ec39ccd158] Where at any time in the period beginning with 25th December 2003 and ending immediately before 25th December 2013, the Department for Regional Development –
 
 - (a) has reason to believe that water supplied by it for regulation 4(1) purposes from a pipe to which paragraph (5) applies contains, at the consumer’s tap, a concentration of lead which exceeds 10μg/1 but does not exceed 25μg/1; and
 - (b) has received from the owner of premises to which water is so supplied notice in writing –
@@ -686,13 +686,13 @@ the Department for Regional Development shall, subject to paragraph (3), treat t
 
   the Department for Regional Development shall modify or replace its part of the pipe.
 
-(5)[^key-717cd5e3496de442fddea7ec39ccd158] This paragraph applies to a pipe –
+(5)[^c-717cd5e3496de442fddea7ec39ccd158] This paragraph applies to a pipe –
 
 - (a) of which the major component is lead;
 - (b) which is subject to water pressure from a water main or would be so subject but for the closing of some valve; and
 - (c) which belongs, as to part, to the Department for Regional Development and, as to the remainder, to the owner of any premises to which the Department for Regional Development supplies water for regulation 4(1) purposes.
 
-### 30. Application and introduction of substances and products[^key-618d795cbcaf37c6a4125587b3ac1e6d]
+### 30. Application and introduction of substances and products[^c-618d795cbcaf37c6a4125587b3ac1e6d]
 
 (1) In this regulation –
 
@@ -713,7 +713,7 @@ may be applied or introduced, notwithstanding that it has not been approved by t
 - (i) such national conditions of use restricting the dosing concentration as are for the time being in force in relation to such substances and products pursuant to a determination of the Secretary of State by an instrument in writing; and
 - (ii) such other requirements, within the meaning of Council Directive [98/34/EC](https://www.legislation.gov.uk/european/directive/1998/0034), as amended[^f00015] (which lays down a procedure for the provision of information in the field of technical standards and regulations and of rules on information society services), in relation to such substances and products, as have been communicated to the Commission in the form of a draft technical regulation in accordance with Article 8 of that Directive, and whose adoption by a Member State has also been communicated to the Commission.
 
-### 31. Use of processes[^key-1b6726a1673b51826a3ba7b6b8c5aff8]
+### 31. Use of processes[^c-1b6726a1673b51826a3ba7b6b8c5aff8]
 
 (1) The Department may at any time by notice in writing given to the Department for Regional Development require it to make an application to the Department for approval of the use of any process; and may prohibit it for such period as may be specified in the notice from using any such process in connection with the supply by it of water for regulation 4(1) purposes.
 
@@ -727,13 +727,13 @@ may be applied or introduced, notwithstanding that it has not been approved by t
 
 (4) Paragraph (3) shall not apply in any case in which the Department is of the opinion that the immediate revocation, modification or prohibition is necessary in the interests of public health.
 
-### 32. Offences[^key-f13467c54dadc0456c4a6d4dd522af75]
+### 32. Offences[^c-f13467c54dadc0456c4a6d4dd522af75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART VIII — RECORDS AND INFORMATION
 
-### 33. Maintenance of records[^key-080e55e8936d27659e8aac9532d72125]
+### 33. Maintenance of records[^c-080e55e8936d27659e8aac9532d72125]
 
 (1) The Department for Regional Development shall prepare and maintain, in respect of each of its water supply zones, a record containing –
 
@@ -760,7 +760,7 @@ may be applied or introduced, notwithstanding that it has not been approved by t
 - (a) of information mentioned in any of sub-paragraphs (a), (b) and (f) of paragraph (1) at any time more than 30 years after the date on which the information was first entered in the record;
 - (b) of information mentioned in any other sub-paragraph of that paragraph at any time more than five years after the date on which the information was first entered in the record.
 
-### 34. Provision of information[^key-e307117124a1fc58bb1743bc94bbd869]
+### 34. Provision of information[^c-e307117124a1fc58bb1743bc94bbd869]
 
 (1) The Department for Regional Development shall make available for inspection by the public at all reasonable hours and free of charge at at least one of its offices any record maintained by it in accordance with regulation 33.
 
@@ -823,7 +823,7 @@ may be applied or introduced, notwithstanding that it has not been approved by t
 
 (10) Where a council or a health and social services board have received a notification under paragraph (8), they may require the Department for Regional Development to provide them with such information relating to the event and its consequences as they may reasonably require.
 
-### 35. Publication of information[^key-44fac811af469f8cd0d5a397cd86e6a5]
+### 35. Publication of information[^c-44fac811af469f8cd0d5a397cd86e6a5]
 
 (1) The Department for Regional Development shall, not later than 30th June 2005 and not later than 30th June in each year thereafter, publish a report relating to the preceding year containing –
 
@@ -874,11 +874,11 @@ may be applied or introduced, notwithstanding that it has not been approved by t
 
 ## PART IX — AMENDMENT AND REVOCATION OF REGULATIONS AND SAVING AND TRANSITIONAL PROVISION
 
-### 36. Amendment of the Water Quality Regulations (Northern Ireland) 1994[^key-a586c4b1bcbbf420a5676341c63871de]
+### 36. Amendment of the Water Quality Regulations (Northern Ireland) 1994[^c-a586c4b1bcbbf420a5676341c63871de]
 
 The 1994 Regulations shall be amended, with effect from 28th November 2002, in accordance with Schedule 5.
 
-### 37. Transitional provision: authorisations[^key-1cd77efada008109e1542dde8243c90a]
+### 37. Transitional provision: authorisations[^c-1cd77efada008109e1542dde8243c90a]
 
 (1) If the Department for Regional Development –
 
@@ -896,16 +896,16 @@ it may apply to the Department for an authorisation under this regulation.
 
 (4) On and after 25th December 2003, an authorisation under this regulation shall have effect for the purposes of these Regulations as an authorisation under regulation 20.
 
-### 38. Revocation of Regulations and savings[^key-3e9e0bdfb4d8ccba4e7c31a63ed304c0][^key-6713fa0b642ceb9962a097f00a342a4d]
+### 38. Revocation of Regulations and savings[^c-3e9e0bdfb4d8ccba4e7c31a63ed304c0][^c-6713fa0b642ceb9962a097f00a342a4d]
 
-(1)[^key-3e9e0bdfb4d8ccba4e7c31a63ed304c0] On 25th December 2003 –
+(1)[^c-3e9e0bdfb4d8ccba4e7c31a63ed304c0] On 25th December 2003 –
 
 - (a) Parts II and III of the 1994 Regulations, and
 - (b) regulation 21 of the Private Water Supplies Regulations (Northern Ireland) 1994[^f00016],
 
 shall be revoked.
 
-(2)[^key-6713fa0b642ceb9962a097f00a342a4d] Subject to paragraph (3), on 1st January 2004 –
+(2)[^c-6713fa0b642ceb9962a097f00a342a4d] Subject to paragraph (3), on 1st January 2004 –
 
 - (a) the 1994 Regulations (in so far as not already revoked),
 - (b) regulation 8(1) of the Surface Waters (Abstraction for Drinking Water) (Classification) Regulations (Northern Ireland) 1996[^f00017], and
@@ -913,7 +913,7 @@ shall be revoked.
 
 shall be revoked.
 
-(3)[^key-6713fa0b642ceb9962a097f00a342a4d] Nothing in paragraph (2) shall affect any obligation of the Department for Regional Development under the 1994 Regulations to compile and retain records, make information available and produce reports in respect of years ending on or before 31st December 2003.
+(3)[^c-6713fa0b642ceb9962a097f00a342a4d] Nothing in paragraph (2) shall affect any obligation of the Department for Regional Development under the 1994 Regulations to compile and retain records, make information available and produce reports in respect of years ending on or before 31st December 2003.
 
 Sealed with the Official Seal of the Department of the Environment on 31st October 2002.
 
@@ -921,13 +921,13 @@ Judena Goldring
 
 Assistant Secretary
 
-## SCHEDULE 1 — PRESCRIBED CONCENTRATIONS AND VALUES[^key-8d779091d279df5635ed68df5d9bca59][^key-4b4f5602488f740568c04c57d7e7cef3][^key-71fa3b8cce22937b1f523a7aae5c013c]
+## SCHEDULE 1 — PRESCRIBED CONCENTRATIONS AND VALUES[^c-8d779091d279df5635ed68df5d9bca59][^c-4b4f5602488f740568c04c57d7e7cef3][^c-71fa3b8cce22937b1f523a7aae5c013c]
 
 regulations 2 and 4
 
 ### TABLE A. — MICROBIOLOGICAL PARAMETERS
 
-[^key-f67c7c912ef46a647bca728ed9bb5f2b][^key-71fa3b8cce22937b1f523a7aae5c013c]
+[^c-f67c7c912ef46a647bca728ed9bb5f2b][^c-71fa3b8cce22937b1f523a7aae5c013c]
 
 **Part I:**
 
@@ -971,7 +971,7 @@ National requirements
 
 ### TABLE B. — CHEMICAL PARAMETERS
 
-[^key-f67c7c912ef46a647bca728ed9bb5f2b][^key-71fa3b8cce22937b1f523a7aae5c013c]
+[^c-f67c7c912ef46a647bca728ed9bb5f2b][^c-71fa3b8cce22937b1f523a7aae5c013c]
 
 **Part I:**
 
@@ -1046,7 +1046,7 @@ National requirements
 | 9\. | Tetrachloromethane | 3 | μg/l | Consumers' taps |
 | 10\. | Turbidity | 4 | NTU | Consumers' taps |
 
-## SCHEDULE 2 — INDICATOR PARAMETERS[^key-e7f36a25d190a8ebaf26977a56a285ad][^key-e0bd2a4a60efccb3f2b5d2cdc52ca17e]
+## SCHEDULE 2 — INDICATOR PARAMETERS[^c-e7f36a25d190a8ebaf26977a56a285ad][^c-e0bd2a4a60efccb3f2b5d2cdc52ca17e]
 
 regulations 2 and 4
 
@@ -1078,11 +1078,11 @@ regulations 2 and 4
 
 [^f01009][^f01011][^f01011][^f01009][^f01011][^f01009][^f01011][^f01010][^f01011][^f01011]
 
-## SCHEDULE 3[^key-032741d7d5e6ee7c758904286b8b7a3e][^key-04920712755d54f7a5773d08589cd363]
+## SCHEDULE 3[^c-032741d7d5e6ee7c758904286b8b7a3e][^c-04920712755d54f7a5773d08589cd363]
 
 ### PART IV — MONITORING
 
-[^key-04920712755d54f7a5773d08589cd363]
+[^c-04920712755d54f7a5773d08589cd363]
 
 **TABLE 1.**
 
@@ -1254,7 +1254,7 @@ ANNUAL SAMPLING FREQUENCIES: TREATMENT WORKS OR SUPPLY POINTS
 
 [^f01019][^f01018][^f01021][^f01020][^f01022][^f01022]
 
-## SCHEDULE 4 — ANALYTICAL METHODOLOGY[^key-2e1019a59485074f31c3157da8091868]
+## SCHEDULE 4 — ANALYTICAL METHODOLOGY[^c-2e1019a59485074f31c3157da8091868]
 
 regulation 16
 
@@ -1353,11 +1353,11 @@ PARAMETERS IN RELATION TO WHICH METHODS OF ANALYSIS MUST SATISFY PRESCRIBED CHAR
 
 [^f01023][^f01024][^f01025][^f01026][^f01026][^f01025][^f01027][^f01028]
 
-## SCHEDULE 5 — AMENDMENT OF THE WATER QUALITY REGULATIONS (NORTHERN IRELAND) 1994[^key-dda29c624c7e68262bab16c515a5af53]
+## SCHEDULE 5 — AMENDMENT OF THE WATER QUALITY REGULATIONS (NORTHERN IRELAND) 1994[^c-dda29c624c7e68262bab16c515a5af53]
 
 regulation 36
 
-[^key-dda29c624c7e68262bab16c515a5af53]
+[^c-dda29c624c7e68262bab16c515a5af53]
 
 The amendments to the 1994 Regulations referred to in regulation 36 are –
 
@@ -1505,9 +1505,9 @@ Copies of the ISO standards referred to in Table A1 in Schedule 4 may be obtaine
 
 [^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-b6cdcfc762cd57cd2e900125a8769590]: Commencement: Reg. 1 in operation at 28.11.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
+[^c-b6cdcfc762cd57cd2e900125a8769590]: Commencement: Reg. 1 in operation at 28.11.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
 
-[^key-283a4ec256121355c73234983f38a416]: Commencement: Reg. 2 in operation at 28.11.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
+[^c-283a4ec256121355c73234983f38a416]: Commencement: Reg. 2 in operation at 28.11.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
 
 [^f00004]: Footnote: [S.I 1994 No. 221](https://www.legislation.gov.uk/uksi/1994/221)
 
@@ -1517,55 +1517,55 @@ Copies of the ISO standards referred to in Table A1 in Schedule 4 may be obtaine
 
 [^f00007]: Footnote: O.J. L330, 5.12.98, p. 32
 
-[^key-f7d1412d84b89bb4371157419c93fd96]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/331/regulation/3) in operation at 1.6.2003, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/3)
+[^c-f7d1412d84b89bb4371157419c93fd96]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/331/regulation/3) in operation at 1.6.2003, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/3)
 
-[^key-003a334fac9bc2a9293aacc94b4ade8c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/331/regulation/4) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
+[^c-003a334fac9bc2a9293aacc94b4ade8c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/331/regulation/4) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
 
-[^key-66c937b1251c0bc3f99924479e10cc81]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/331/regulation/5) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-66c937b1251c0bc3f99924479e10cc81]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/331/regulation/5) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-499d1b4198a6fd3bc975d699cc5d78d8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2002/331/regulation/6) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-499d1b4198a6fd3bc975d699cc5d78d8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2002/331/regulation/6) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-3fc643d5ecb06e73ec6eb6bb0333b6c0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/331/regulation/7) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-3fc643d5ecb06e73ec6eb6bb0333b6c0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/331/regulation/7) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-b8f03347c9af699cc0feff988e784e79]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2002/331/regulation/8) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-b8f03347c9af699cc0feff988e784e79]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2002/331/regulation/8) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-a449efeab8690c754c78f0e9be7b30d8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2002/331/regulation/9) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-a449efeab8690c754c78f0e9be7b30d8]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2002/331/regulation/9) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-6fceb070806b8a00b607d51573b1e86e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2002/331/regulation/10) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-6fceb070806b8a00b607d51573b1e86e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2002/331/regulation/10) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-25d5e66386d067a3f31573ffbfef4db8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2002/331/regulation/11) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-25d5e66386d067a3f31573ffbfef4db8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2002/331/regulation/11) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-c8c653d58ea56e1ff5b2fd56386f4188]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2002/331/regulation/12) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-c8c653d58ea56e1ff5b2fd56386f4188]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2002/331/regulation/12) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-55fe43b8bb39f6b040737d302d5598a5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2002/331/regulation/13) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-55fe43b8bb39f6b040737d302d5598a5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2002/331/regulation/13) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-3fc703b5d14564c87ec495727dc465d1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2002/331/regulation/14) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-3fc703b5d14564c87ec495727dc465d1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2002/331/regulation/14) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-a143805bbf17147edb2fcc39d5aa47d1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2002/331/regulation/15) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-a143805bbf17147edb2fcc39d5aa47d1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2002/331/regulation/15) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-bd9fcb00adc6c517534964016b0ea20c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2002/331/regulation/16) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-bd9fcb00adc6c517534964016b0ea20c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2002/331/regulation/16) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-4c040596ff5ef23d733f65b9f087abcd]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2002/331/regulation/17) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
+[^c-4c040596ff5ef23d733f65b9f087abcd]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2002/331/regulation/17) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
 
-[^key-dfb81a570c5e9bcbc53de8c938b7f48e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2002/331/regulation/18) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
+[^c-dfb81a570c5e9bcbc53de8c938b7f48e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2002/331/regulation/18) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
 
-[^key-8bf98498ac8b7c343cb3d17804e3d08b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2002/331/regulation/19) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
+[^c-8bf98498ac8b7c343cb3d17804e3d08b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2002/331/regulation/19) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
 
-[^key-38e4f0485325c86c1a51f5cfbc8e1e3a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2002/331/regulation/20) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
+[^c-38e4f0485325c86c1a51f5cfbc8e1e3a]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2002/331/regulation/20) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
 
-[^key-6210b61e6fdab9f890f8bce6fdf81879]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2002/331/regulation/21) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
+[^c-6210b61e6fdab9f890f8bce6fdf81879]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2002/331/regulation/21) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
 
-[^key-e75f27f17561310097130c79affb01d6]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2002/331/regulation/22) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
+[^c-e75f27f17561310097130c79affb01d6]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2002/331/regulation/22) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
 
-[^key-60667c30836b153a59a2ba2e28a068e1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2002/331/regulation/23) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
+[^c-60667c30836b153a59a2ba2e28a068e1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2002/331/regulation/23) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
 
-[^key-1bd8172a77587be69129bbe94deb9042]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2002/331/regulation/24) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
+[^c-1bd8172a77587be69129bbe94deb9042]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2002/331/regulation/24) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
 
-[^key-9268101a166501a7d6a489127800a70c]: Commencement: Reg. 25 in operation at 28.11.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
+[^c-9268101a166501a7d6a489127800a70c]: Commencement: Reg. 25 in operation at 28.11.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
 
-[^key-6c9984baff069daa9a3657e0723fdffe]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/nisr/2002/331/regulation/25) inserted (28.8.2003) by [The Water Supply (Water Quality) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/369)](https://www.legislation.gov.uk/nisr/2003/369), [regs. 1](https://www.legislation.gov.uk/nisr/2003/369/regulation/1), [3](https://www.legislation.gov.uk/nisr/2003/369/regulation/3)
+[^c-6c9984baff069daa9a3657e0723fdffe]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/nisr/2002/331/regulation/25) inserted (28.8.2003) by [The Water Supply (Water Quality) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/369)](https://www.legislation.gov.uk/nisr/2003/369), [regs. 1](https://www.legislation.gov.uk/nisr/2003/369/regulation/1), [3](https://www.legislation.gov.uk/nisr/2003/369/regulation/3)
 
-[^key-6ca0cb9245d4fb2a0cf364dc785051a4]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2002/331/regulation/26) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-6ca0cb9245d4fb2a0cf364dc785051a4]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2002/331/regulation/26) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
 [^f00008]: Footnote: O.J. No. L194, 16.6.75, p. 26
 
@@ -1573,15 +1573,15 @@ Copies of the ISO standards referred to in Table A1 in Schedule 4 may be obtaine
 
 [^f00010]: Footnote: [S.R. 1996 No. 603](https://www.legislation.gov.uk/nisr/1996/603)
 
-[^key-094a1156a3fad9c29a12cf58bbaf7e90]: Commencement: Reg. 27 in operation at 28.11.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
+[^c-094a1156a3fad9c29a12cf58bbaf7e90]: Commencement: Reg. 27 in operation at 28.11.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
 
-[^key-8df39f43f0c5fa4232351923646828b6]: Commencement: Reg. 28 in operation at 28.11.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
+[^c-8df39f43f0c5fa4232351923646828b6]: Commencement: Reg. 28 in operation at 28.11.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
 
-[^key-814eedc0c0b4c3f6ffcba6ef24f73363]: Commencement: [Reg. 29(1)-(3)](https://www.legislation.gov.uk/nisr/2002/331/regulation/29/1) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-814eedc0c0b4c3f6ffcba6ef24f73363]: Commencement: [Reg. 29(1)-(3)](https://www.legislation.gov.uk/nisr/2002/331/regulation/29/1) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-717cd5e3496de442fddea7ec39ccd158]: Commencement: Reg. 29(4)(5) in operation at 28.11.2002, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
+[^c-717cd5e3496de442fddea7ec39ccd158]: Commencement: Reg. 29(4)(5) in operation at 28.11.2002, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
 
-[^key-618d795cbcaf37c6a4125587b3ac1e6d]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2002/331/regulation/30) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-618d795cbcaf37c6a4125587b3ac1e6d]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2002/331/regulation/30) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
 [^f00011]: Footnote: O.J. No. L40, 11.2.89, p. 12
 
@@ -1593,35 +1593,35 @@ Copies of the ISO standards referred to in Table A1 in Schedule 4 may be obtaine
 
 [^f00015]: Footnote: O.J. No. L204, 21.7.98, p. 37, amended by Council Directives [98/48/EC](https://www.legislation.gov.uk/european/directive/1998/0048) (O.J. No. 217, 5.8.98, p. 18)
 
-[^key-1b6726a1673b51826a3ba7b6b8c5aff8]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2002/331/regulation/31) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-1b6726a1673b51826a3ba7b6b8c5aff8]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2002/331/regulation/31) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-f13467c54dadc0456c4a6d4dd522af75]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/nisr/2002/331/regulation/32) revoked (28.8.2003) by [The Water Supply (Water Quality) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/369)](https://www.legislation.gov.uk/nisr/2003/369), [regs. 1](https://www.legislation.gov.uk/nisr/2003/369/regulation/1), [4](https://www.legislation.gov.uk/nisr/2003/369/regulation/4)
+[^c-f13467c54dadc0456c4a6d4dd522af75]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/nisr/2002/331/regulation/32) revoked (28.8.2003) by [The Water Supply (Water Quality) (Amendment) Regulations (Northern Ireland) 2003 (S.R. 2003/369)](https://www.legislation.gov.uk/nisr/2003/369), [regs. 1](https://www.legislation.gov.uk/nisr/2003/369/regulation/1), [4](https://www.legislation.gov.uk/nisr/2003/369/regulation/4)
 
-[^key-080e55e8936d27659e8aac9532d72125]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2002/331/regulation/33) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-080e55e8936d27659e8aac9532d72125]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2002/331/regulation/33) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-e307117124a1fc58bb1743bc94bbd869]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2002/331/regulation/34) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-e307117124a1fc58bb1743bc94bbd869]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2002/331/regulation/34) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-44fac811af469f8cd0d5a397cd86e6a5]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2002/331/regulation/35) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-44fac811af469f8cd0d5a397cd86e6a5]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2002/331/regulation/35) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
-[^key-a586c4b1bcbbf420a5676341c63871de]: Commencement: Reg. 36 in operation at 28.11.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
+[^c-a586c4b1bcbbf420a5676341c63871de]: Commencement: Reg. 36 in operation at 28.11.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
 
-[^key-1cd77efada008109e1542dde8243c90a]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2002/331/regulation/37) in operation at 1.6.2003, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/3)
+[^c-1cd77efada008109e1542dde8243c90a]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2002/331/regulation/37) in operation at 1.6.2003, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/3)
 
-[^key-3e9e0bdfb4d8ccba4e7c31a63ed304c0]: Commencement: [Reg. 38(1)](https://www.legislation.gov.uk/nisr/2002/331/regulation/38/1) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
+[^c-3e9e0bdfb4d8ccba4e7c31a63ed304c0]: Commencement: [Reg. 38(1)](https://www.legislation.gov.uk/nisr/2002/331/regulation/38/1) in operation at 25.12.2003, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
 
-[^key-6713fa0b642ceb9962a097f00a342a4d]: Commencement: [Reg. 38(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/38/2)[(3)](https://www.legislation.gov.uk/nisr/2002/331/regulation/38/3) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-6713fa0b642ceb9962a097f00a342a4d]: Commencement: [Reg. 38(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/38/2)[(3)](https://www.legislation.gov.uk/nisr/2002/331/regulation/38/3) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
 [^f00016]: Footnote: [S.R. 1994 No. 237](https://www.legislation.gov.uk/nisr/1994/237)
 
 [^f00017]: Footnote: [S.R. 1996 No. 603](https://www.legislation.gov.uk/nisr/1996/603)
 
-[^key-8d779091d279df5635ed68df5d9bca59]: Commencement: Sch. 1 in operation at 28.11.2002 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
+[^c-8d779091d279df5635ed68df5d9bca59]: Commencement: Sch. 1 in operation at 28.11.2002 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
 
-[^key-4b4f5602488f740568c04c57d7e7cef3]: Commencement: Sch. 1 in operation at 25.12.2003 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
+[^c-4b4f5602488f740568c04c57d7e7cef3]: Commencement: Sch. 1 in operation at 25.12.2003 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
 
-[^key-71fa3b8cce22937b1f523a7aae5c013c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2002/331/schedule/1) in operation at 25.12.2003 in so far as not already in operation, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
+[^c-71fa3b8cce22937b1f523a7aae5c013c]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2002/331/schedule/1) in operation at 25.12.2003 in so far as not already in operation, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
 
-[^key-f67c7c912ef46a647bca728ed9bb5f2b]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2002/331/schedule/1) in operation at 28.11.2002 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
+[^c-f67c7c912ef46a647bca728ed9bb5f2b]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2002/331/schedule/1) in operation at 28.11.2002 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
 
 [^f01031]: Footnote: \*
 
@@ -1687,9 +1687,9 @@ Copies of the ISO standards referred to in Table A1 in Schedule 4 may be obtaine
 
     The parametric value applies to the sum of the concentrations of the individual compounds detected and quantified in the monitoring process.
 
-[^key-e7f36a25d190a8ebaf26977a56a285ad]: Commencement: Sch. 2 in operation at 28.11.2002 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
+[^c-e7f36a25d190a8ebaf26977a56a285ad]: Commencement: Sch. 2 in operation at 28.11.2002 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
 
-[^key-e0bd2a4a60efccb3f2b5d2cdc52ca17e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2002/331/schedule/2) in operation at 25.12.2003 in so far as not already in operation, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
+[^c-e0bd2a4a60efccb3f2b5d2cdc52ca17e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2002/331/schedule/2) in operation at 25.12.2003 in so far as not already in operation, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/4)
 
 [^f01009]: Footnote: (i)
 
@@ -1703,9 +1703,9 @@ Copies of the ISO standards referred to in Table A1 in Schedule 4 may be obtaine
 
     Excluding tritium, potassium-40, radon and radon decay products.
 
-[^key-032741d7d5e6ee7c758904286b8b7a3e]: Commencement: Sch. 3 in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5) (by virtue of references to Sch. 3 by regulations which are in operation at 1.1.2004)
+[^c-032741d7d5e6ee7c758904286b8b7a3e]: Commencement: Sch. 3 in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5) (by virtue of references to Sch. 3 by regulations which are in operation at 1.1.2004)
 
-[^key-04920712755d54f7a5773d08589cd363]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2002/331/schedule/3) in operation at 1.1.2004 (by virtue of references to Sch. 3 by regulations which are in operation at 1.1.2004), see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-04920712755d54f7a5773d08589cd363]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2002/331/schedule/3) in operation at 1.1.2004 (by virtue of references to Sch. 3 by regulations which are in operation at 1.1.2004), see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
 [^f01013]: Footnote: (i)
 
@@ -1747,7 +1747,7 @@ Copies of the ISO standards referred to in Table A1 in Schedule 4 may be obtaine
 
     To monitor for total indicative dose (for radioactivity).
 
-[^key-2e1019a59485074f31c3157da8091868]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2002/331/schedule/4) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
+[^c-2e1019a59485074f31c3157da8091868]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2002/331/schedule/4) in operation at 1.1.2004, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/5)
 
 [^f01023]: Footnote: (i)
 
@@ -1773,7 +1773,7 @@ Copies of the ISO standards referred to in Table A1 in Schedule 4 may be obtaine
 
     The performance characteristics apply to the specification of 1 NTU for water leaving treatment works.
 
-[^key-dda29c624c7e68262bab16c515a5af53]: Commencement: Sch. 5 in operation at 28.11.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
+[^c-dda29c624c7e68262bab16c515a5af53]: Commencement: Sch. 5 in operation at 28.11.2002, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/331/regulation/1/2)
 
 [^f01029]: Footnote: \*
 

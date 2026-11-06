@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Power of the Commissioner to treat DSI matter as having been referred[^key-0f2a6686edf7c0476369d9752ad9e76d]
+## 30. Power of the Commissioner to treat DSI matter as having been referred[^c-0f2a6686edf7c0476369d9752ad9e76d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f2a6686edf7c0476369d9752ad9e76d]: Commencement: Reg. 30 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-0f2a6686edf7c0476369d9752ad9e76d]: Commencement: Reg. 30 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

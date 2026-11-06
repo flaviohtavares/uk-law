@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Secretary of State may, by notice (a “retention notice”) and subject as follows, require a telecommunications operator to retain relevant communications data if—
 
-- (a)[^key-5e881d4eb770b201b53d64a1d8c1f060] the Secretary of State considers that the requirement is necessary and proportionate for one or more of the following purposes—[^key-ae7793532dc1efa98603afebdf30a751]
+- (a)[^c-5e881d4eb770b201b53d64a1d8c1f060] the Secretary of State considers that the requirement is necessary and proportionate for one or more of the following purposes—[^c-ae7793532dc1efa98603afebdf30a751]
   - (i) in the interests of national security,
   - (ii) for the applicable crime purpose (see subsection (10A)),
   - (iii) in the interests of the economic well-being of the United Kingdom so far as those interests are also relevant to the interests of national security,
@@ -31,9 +31,9 @@ summary: ''
   - (vi) to assist investigations into alleged miscarriages of justice,
 
   and
-- (b)[^key-00d23d8f2684d5a1171ac9fb4e4836b6] the decision to give the notice has been approved by a Judicial Commissioner.
+- (b)[^c-00d23d8f2684d5a1171ac9fb4e4836b6] the decision to give the notice has been approved by a Judicial Commissioner.
 
-(2)[^key-5e881d4eb770b201b53d64a1d8c1f060] A retention notice may—
+(2)[^c-5e881d4eb770b201b53d64a1d8c1f060] A retention notice may—
 
 - (a) relate to a particular operator or any description of operators,
 - (b) require the retention of all data or any description of data,
@@ -42,32 +42,32 @@ summary: ''
 - (e) make different provision for different purposes,
 - (f) relate to data whether or not in existence at the time of the giving, or coming into force, of the notice.
 
-(3)[^key-5e881d4eb770b201b53d64a1d8c1f060] A retention notice must not require any data to be retained for more than 12 months beginning with—
+(3)[^c-5e881d4eb770b201b53d64a1d8c1f060] A retention notice must not require any data to be retained for more than 12 months beginning with—
 
 - (a) in the case of communications data relating to a specific communication, the day of the communication concerned,
 - (b) in the case of entity data which does not fall within paragraph (a) above but does fall within paragraph (a)(i) of the definition of “communications data” in section 261(5), the day on which the entity concerned ceases to be associated with the telecommunications service concerned or (if earlier) the day on which the data is changed, and
 - (c) in any other case, the day on which the data is first held by the operator concerned.
 
-(4)[^key-5e881d4eb770b201b53d64a1d8c1f060] A retention notice must not require an operator who controls or provides a telecommunication system (“the system operator”) to retain data , other than data which is, or can only be obtained by processing, an internet connection record,[^key-21e4ead16f05ec81543a1fce091dc8b6] which—
+(4)[^c-5e881d4eb770b201b53d64a1d8c1f060] A retention notice must not require an operator who controls or provides a telecommunication system (“the system operator”) to retain data , other than data which is, or can only be obtained by processing, an internet connection record,[^c-21e4ead16f05ec81543a1fce091dc8b6] which—
 
-- (a) relates to the use of a telecommunications service provided (solely or jointly with another person)[^key-daf00b167c36ea205c75f46710103654] by another telecommunications operator in relation to that system,
-- (aa)[^key-683621eef19909019832f391d2c0f739] does not relate to a relevant roaming service,
+- (a) relates to the use of a telecommunications service provided (solely or jointly with another person)[^c-daf00b167c36ea205c75f46710103654] by another telecommunications operator in relation to that system,
+- (aa)[^c-683621eef19909019832f391d2c0f739] does not relate to a relevant roaming service,
 - (b) is (or is capable of being) processed by the system operator as a result of being comprised in, included as part of, attached to or logically associated with a communication transmitted by means of the system as a result of the use mentioned in paragraph (a),
 - (c) is not needed by the system operator for the functioning of the system in relation to that communication, and
 - (d) is not retained or used by the system operator for any other lawful purpose,
 
 and which it is reasonably practicable to separate from other data which is subject to the notice.
 
-(4A)[^key-4ceb866a64dd77d842229c9d2069ef44] In subsection (4) “**relevant roaming service**” means a telecommunications service provided by the system operator under an agreement with a telecommunications operator outside the United Kingdom (the “non-UK operator”) which facilitates the use by persons in the United Kingdom of the system operator’s telecommunication system to access one or more telecommunications services of the non-UK operator.
+(4A)[^c-4ceb866a64dd77d842229c9d2069ef44] In subsection (4) “**relevant roaming service**” means a telecommunications service provided by the system operator under an agreement with a telecommunications operator outside the United Kingdom (the “non-UK operator”) which facilitates the use by persons in the United Kingdom of the system operator’s telecommunication system to access one or more telecommunications services of the non-UK operator.
 
-(5)[^key-5e881d4eb770b201b53d64a1d8c1f060] A retention notice which relates to data already in existence when the notice comes into force imposes a requirement to retain the data for only so much of a period of retention as occurs on or after the coming into force of the notice.
+(5)[^c-5e881d4eb770b201b53d64a1d8c1f060] A retention notice which relates to data already in existence when the notice comes into force imposes a requirement to retain the data for only so much of a period of retention as occurs on or after the coming into force of the notice.
 
-(6)[^key-5e881d4eb770b201b53d64a1d8c1f060] A retention notice comes into force—
+(6)[^c-5e881d4eb770b201b53d64a1d8c1f060] A retention notice comes into force—
 
 - (a) when the notice is given to the operator (or description of operators) concerned, or
 - (b) (if later) at the time or times specified in the notice.
 
-(6A)[^key-968228d9581e8fc3fae04c91f7f1d986] A retention notice ceases to have effect at the end of the relevant period unless before the end of that period—
+(6A)[^c-968228d9581e8fc3fae04c91f7f1d986] A retention notice ceases to have effect at the end of the relevant period unless before the end of that period—
 
 - (a) it is varied in accordance with section 94(4) so as to require the retention of additional relevant communications data,
 - (b) it is renewed (see section 94A), or
@@ -78,27 +78,27 @@ and which it is reasonably practicable to separate from other data which is subj
 - (a) in the case of a retention notice that has not been varied as mentioned in subsection (6A)(a) or renewed, the day on which the notice comes into force, or
 - (b) in the case of a retention notice that has been so varied or renewed, the day after the day at the end of which the retention notice would have ceased to have effect if it had not been so varied or renewed.
 
-(7)[^key-5e881d4eb770b201b53d64a1d8c1f060] A retention notice is given to an operator (or description of operators) by giving, or publishing, it in such manner as the Secretary of State considers appropriate for bringing it to the attention of the operator (or description of operators) to whom it relates.
+(7)[^c-5e881d4eb770b201b53d64a1d8c1f060] A retention notice is given to an operator (or description of operators) by giving, or publishing, it in such manner as the Secretary of State considers appropriate for bringing it to the attention of the operator (or description of operators) to whom it relates.
 
-(8)[^key-5e881d4eb770b201b53d64a1d8c1f060] A retention notice must specify—
+(8)[^c-5e881d4eb770b201b53d64a1d8c1f060] A retention notice must specify—
 
 - (a) the operator (or description of operators) to whom it relates,
-- (aa)[^key-f0726a06fe4fc32ff5de0a427cff9c96] each telecommunications service (or description of telecommunications service) to which it relates,
+- (aa)[^c-f0726a06fe4fc32ff5de0a427cff9c96] each telecommunications service (or description of telecommunications service) to which it relates,
 - (b) the data which is to be retained,
 - (c) the period or periods for which the data is to be retained,
 - (d) any other requirements, or any restrictions, in relation to the retention of the data,
 - (e) the information required by section 249(7) (the level or levels of contribution in respect of costs incurred as a result of the notice).
 
-(9)[^key-5e881d4eb770b201b53d64a1d8c1f060] The requirements or restrictions mentioned in subsection (8)(d) may, in particular, include—
+(9)[^c-5e881d4eb770b201b53d64a1d8c1f060] The requirements or restrictions mentioned in subsection (8)(d) may, in particular, include—
 
 - (a) a requirement to retain the data in such a way that it can be transmitted efficiently and effectively in response to requests,
 - (b) requirements or restrictions in relation to the obtaining (whether by collection, generation or otherwise), generation or processing of—
   - (i) data for retention, or
   - (ii) retained data.
 
-(10)[^key-5e881d4eb770b201b53d64a1d8c1f060] The fact that the data which would be retained under a retention notice relates to the activities in the British Islands of a trade union is not, of itself, sufficient to establish that the requirement to retain the data is necessary for one or more of the purposes falling within sub-paragraphs (i) to (vi) of subsection (1)(a)[^key-f87943a96acdfca1f022307f1080d9d7].
+(10)[^c-5e881d4eb770b201b53d64a1d8c1f060] The fact that the data which would be retained under a retention notice relates to the activities in the British Islands of a trade union is not, of itself, sufficient to establish that the requirement to retain the data is necessary for one or more of the purposes falling within sub-paragraphs (i) to (vi) of subsection (1)(a)[^c-f87943a96acdfca1f022307f1080d9d7].
 
-(10A)[^key-84669de042b144cd9d4ff52947971a0a] In this section, “the applicable crime purpose” means—
+(10A)[^c-84669de042b144cd9d4ff52947971a0a] In this section, “the applicable crime purpose” means—
 
 - (a) to the extent that a retention notice relates to events data, the purpose of preventing or detecting serious crime;
 - (b) to the extent that a retention notice relates to entity data, the purpose of preventing or detecting crime or of preventing disorder.
@@ -110,7 +110,7 @@ and which it is reasonably practicable to separate from other data which is subj
   - (i) by a person who is not an individual, or
   - (ii) which involves, as an integral part of it, the sending of a communication or a breach of a person’s privacy.
 
-(11)[^key-5e881d4eb770b201b53d64a1d8c1f060] In this Part “**relevant communications data**” means communications data which may be used to identify, or assist in identifying, any of the following—
+(11)[^c-5e881d4eb770b201b53d64a1d8c1f060] In this Part “**relevant communications data**” means communications data which may be used to identify, or assist in identifying, any of the following—
 
 - (a) the sender or recipient of a communication (whether or not a person),
 - (b) the time or duration of a communication,
@@ -118,32 +118,32 @@ and which it is reasonably practicable to separate from other data which is subj
 - (d) the telecommunication system (or any part of it) from, to or through which, or by means of which, a communication is or may be transmitted, or
 - (e) the location of any such system,
 
-(and[^key-8c365a2e787cc33850a8480ac443752c] this expression therefore includes, in particular, internet connection records)[^key-7466fe109b2c91564caaf64d8b026cfa].
+(and[^c-8c365a2e787cc33850a8480ac443752c] this expression therefore includes, in particular, internet connection records)[^c-7466fe109b2c91564caaf64d8b026cfa].
 
 ## Annotations
 
-[^key-5e881d4eb770b201b53d64a1d8c1f060]: Commencement: S. 87(1)(a)(2)-(11) in force at 30.12.2016 by [S.I. 2016/1233](https://www.legislation.gov.uk/uksi/2016/1233), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1233/regulation/2/c)
+[^c-5e881d4eb770b201b53d64a1d8c1f060]: Commencement: S. 87(1)(a)(2)-(11) in force at 30.12.2016 by [S.I. 2016/1233](https://www.legislation.gov.uk/uksi/2016/1233), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1233/regulation/2/c)
 
-[^key-ae7793532dc1efa98603afebdf30a751]: Textual amendment: [S. 87(1)(a)(i)-(vi)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/1/a/i) substituted (1.11.2018) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/c), [8(2)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/8/2)
+[^c-ae7793532dc1efa98603afebdf30a751]: Textual amendment: [S. 87(1)(a)(i)-(vi)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/1/a/i) substituted (1.11.2018) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/c), [8(2)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/8/2)
 
-[^key-00d23d8f2684d5a1171ac9fb4e4836b6]: Commencement: S. 87(1)(b) in force at 1.11.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/873/regulation/4/a)
+[^c-00d23d8f2684d5a1171ac9fb4e4836b6]: Commencement: S. 87(1)(b) in force at 1.11.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/873/regulation/4/a)
 
-[^key-21e4ead16f05ec81543a1fce091dc8b6]: Textual amendment: Words in [s. 87(4)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/4) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2024/9/section/16/2/a), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/p)
+[^c-21e4ead16f05ec81543a1fce091dc8b6]: Textual amendment: Words in [s. 87(4)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/4) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 16(2)(a)](https://www.legislation.gov.uk/ukpga/2024/9/section/16/2/a), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/p)
 
-[^key-daf00b167c36ea205c75f46710103654]: Textual amendment: Words in [s. 87(4)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/4/a) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2024/9/section/16/2/b), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/p)
+[^c-daf00b167c36ea205c75f46710103654]: Textual amendment: Words in [s. 87(4)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/4/a) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 16(2)(b)](https://www.legislation.gov.uk/ukpga/2024/9/section/16/2/b), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/p)
 
-[^key-683621eef19909019832f391d2c0f739]: Textual amendment: [S. 87(4)(aa)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/4/aa) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 16(2)(c)](https://www.legislation.gov.uk/ukpga/2024/9/section/16/2/c), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/p)
+[^c-683621eef19909019832f391d2c0f739]: Textual amendment: [S. 87(4)(aa)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/4/aa) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 16(2)(c)](https://www.legislation.gov.uk/ukpga/2024/9/section/16/2/c), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/p)
 
-[^key-4ceb866a64dd77d842229c9d2069ef44]: Textual amendment: [S. 87(4A)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/4A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2024/9/section/16/3), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/p)
+[^c-4ceb866a64dd77d842229c9d2069ef44]: Textual amendment: [S. 87(4A)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/4A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2024/9/section/16/3), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/p)
 
-[^key-968228d9581e8fc3fae04c91f7f1d986]: Textual amendment: [S. 87(6A)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/6B) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/20/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/s) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/1021/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/1021/regulation/4))
+[^c-968228d9581e8fc3fae04c91f7f1d986]: Textual amendment: [S. 87(6A)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/6B) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/20/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/s) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/1021/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/1021/regulation/4))
 
-[^key-f0726a06fe4fc32ff5de0a427cff9c96]: Textual amendment: [S. 87(8)(aa)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/8/aa) inserted (1.11.2018) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/c), [8(3)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/8/3)
+[^c-f0726a06fe4fc32ff5de0a427cff9c96]: Textual amendment: [S. 87(8)(aa)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/8/aa) inserted (1.11.2018) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/c), [8(3)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/8/3)
 
-[^key-f87943a96acdfca1f022307f1080d9d7]: Textual amendment: Words in [s. 87(10)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/10) substituted (1.11.2018) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/c), [8(4)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/8/4)
+[^c-f87943a96acdfca1f022307f1080d9d7]: Textual amendment: Words in [s. 87(10)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/10) substituted (1.11.2018) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/c), [8(4)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/8/4)
 
-[^key-84669de042b144cd9d4ff52947971a0a]: Textual amendment: [S. 87(10A)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/10A)[(10B)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/10B) inserted (1.11.2018) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/c), [8(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/8/5)
+[^c-84669de042b144cd9d4ff52947971a0a]: Textual amendment: [S. 87(10A)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/10A)[(10B)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/10B) inserted (1.11.2018) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/3/c), [8(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/8/5)
 
-[^key-8c365a2e787cc33850a8480ac443752c]: Textual amendment: Word in [s. 87(11)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/11) substituted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 16(4)(a)](https://www.legislation.gov.uk/ukpga/2024/9/section/16/4/a), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/p)
+[^c-8c365a2e787cc33850a8480ac443752c]: Textual amendment: Word in [s. 87(11)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/11) substituted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 16(4)(a)](https://www.legislation.gov.uk/ukpga/2024/9/section/16/4/a), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/p)
 
-[^key-7466fe109b2c91564caaf64d8b026cfa]: Textual amendment: Word in [s. 87(11)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/11) substituted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 16(4)(b)](https://www.legislation.gov.uk/ukpga/2024/9/section/16/4/b), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/p)
+[^c-7466fe109b2c91564caaf64d8b026cfa]: Textual amendment: Word in [s. 87(11)](https://www.legislation.gov.uk/ukpga/2016/25/section/87/11) substituted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 16(4)(b)](https://www.legislation.gov.uk/ukpga/2024/9/section/16/4/b), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/p)

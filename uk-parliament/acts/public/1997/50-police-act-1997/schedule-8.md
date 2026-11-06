@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — The Police Information Technology Organisation[^key-324309ced4651bea2bc19d096414f2f3]
+## SCHEDULE 8 — The Police Information Technology Organisation[^c-324309ced4651bea2bc19d096414f2f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,62 +24,62 @@ summary: ''
 
 Section 109(2).
 
-### Constitution[^key-324309ced4651bea2bc19d096414f2f3]
+### Constitution[^c-324309ced4651bea2bc19d096414f2f3]
 
-**1.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Members[^key-324309ced4651bea2bc19d096414f2f3]
+### Members[^c-324309ced4651bea2bc19d096414f2f3]
 
-**2.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Staff, &c.[^key-324309ced4651bea2bc19d096414f2f3]
+### Staff, &c.[^c-324309ced4651bea2bc19d096414f2f3]
 
-**4.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Committees[^key-324309ced4651bea2bc19d096414f2f3]
+### Committees[^c-324309ced4651bea2bc19d096414f2f3]
 
-**8.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Proceedings[^key-324309ced4651bea2bc19d096414f2f3]
+### Proceedings[^c-324309ced4651bea2bc19d096414f2f3]
 
-**9.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Evidence[^key-324309ced4651bea2bc19d096414f2f3]
+### Evidence[^c-324309ced4651bea2bc19d096414f2f3]
 
-**12.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Money[^key-324309ced4651bea2bc19d096414f2f3]
+### Money[^c-324309ced4651bea2bc19d096414f2f3]
 
-**13.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13A.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13A.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Annual report[^key-324309ced4651bea2bc19d096414f2f3]
+### Annual report[^c-324309ced4651bea2bc19d096414f2f3]
 
-**17.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Status of the Organisation[^key-324309ced4651bea2bc19d096414f2f3]
+### Status of the Organisation[^c-324309ced4651bea2bc19d096414f2f3]
 
-**18.**[^key-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-324309ced4651bea2bc19d096414f2f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-324309ced4651bea2bc19d096414f2f3]: Textual amendment: Sch. 8 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+[^c-324309ced4651bea2bc19d096414f2f3]: Textual amendment: Sch. 8 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(A)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/A); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(q)](https://www.legislation.gov.uk/uksi/2007/709/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))

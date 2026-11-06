@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Supplementary powers[^key-2348dd740aafa60ec79d0ef18bc9979b]
+## 6. Supplementary powers[^c-2348dd740aafa60ec79d0ef18bc9979b]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The Regulator may do anything (except borrow money) which—
 
 ## Annotations
 
-[^key-2348dd740aafa60ec79d0ef18bc9979b]: Commencement: S. 6 in force at 17.12.2004 by [S.I. 2004/3350](https://www.legislation.gov.uk/uksi/2004/3350), [art. 2](https://www.legislation.gov.uk/uksi/2004/3350/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3350/schedule)
+[^c-2348dd740aafa60ec79d0ef18bc9979b]: Commencement: S. 6 in force at 17.12.2004 by [S.I. 2004/3350](https://www.legislation.gov.uk/uksi/2004/3350), [art. 2](https://www.legislation.gov.uk/uksi/2004/3350/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3350/schedule)

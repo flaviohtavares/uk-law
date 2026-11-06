@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371VIA. Relevant finance leases[^key-9f7c4d45fed17bd5c7cde2d74bd557cd][^key-629ada2c8a18d82affe2c0e203fa8e18]
+## 371VIA. Relevant finance leases[^c-9f7c4d45fed17bd5c7cde2d74bd557cd][^c-629ada2c8a18d82affe2c0e203fa8e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9f7c4d45fed17bd5c7cde2d74bd557cd]: Textual amendment: S. 371VIA inserted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/9), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)
+[^c-9f7c4d45fed17bd5c7cde2d74bd557cd]: Textual amendment: S. 371VIA inserted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 47 paras. 9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/9), [21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/47/paragraph/21)
 
-[^key-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))
+[^c-629ada2c8a18d82affe2c0e203fa8e18]: Textual amendment: Pt. 9A inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1) (with [ss. 56-58](https://www.legislation.gov.uk/ukpga/2012/14/section/56))

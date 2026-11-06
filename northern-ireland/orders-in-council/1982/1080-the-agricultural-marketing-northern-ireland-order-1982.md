@@ -408,17 +408,17 @@ the court shall by order direct the registration of the contract, and thereupon 
 
 [^c18997431]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Action following report by Competition and Markets Authority[^c16972131][^key-a163a851c5d98fdf42e4e29952ec182f]
+#### 23. Action following report by Competition and Markets Authority[^c16972131][^c-a163a851c5d98fdf42e4e29952ec182f]
 
 (1) Paragraph (5) applies in any of the following cases.
 
 (2) The first case is where section 138(2) of the Enterprise Act 2002 (duty to remedy adverse effects following market investigation reference) applies and whatever is to be remedied, mitigated or prevented relates to any provision of a scheme or any act or omission of a board administering a scheme.
 
-(3) The second case is where section 147(2) or 147A(2)[^key-d804dc889d2e5d827a03f4fd3a53aef8] of the Enterprise Act 2002 (power to remedy adverse effects in public interest cases) applies and whatever is to be remedied, mitigated or prevented relates to any provision of a scheme or any act or omission of a board administering a scheme.
+(3) The second case is where section 147(2) or 147A(2)[^c-d804dc889d2e5d827a03f4fd3a53aef8] of the Enterprise Act 2002 (power to remedy adverse effects in public interest cases) applies and whatever is to be remedied, mitigated or prevented relates to any provision of a scheme or any act or omission of a board administering a scheme.
 
 (4) The third case is where—
 
-- (a) a report of the Competition and Markets Authority[^key-e8f87502b81d76f22f36588ce54007fb] under section 11 of the Competition Act 1980 (c. 21) (references of public bodies etc. ), as laid before Parliament, contains conclusions to the effect that—
+- (a) a report of the Competition and Markets Authority[^c-e8f87502b81d76f22f36588ce54007fb] under section 11 of the Competition Act 1980 (c. 21) (references of public bodies etc. ), as laid before Parliament, contains conclusions to the effect that—
   - (i) certain matters indicated in the report operate against the public interest, and
   - (ii) those matters consist of or include any provision of a scheme or any act or omission of a board administering a scheme, and
 - (b) none of the conclusions is to be disregarded by virtue of section 11C(3) of that Act (requirement for two-thirds majority).
@@ -681,7 +681,7 @@ A scheme may provide for empowering the board to pay on account or lend to any e
 
 ### Relations of board with Department
 
-#### 42. Action following report by Competition and Markets Authority[^key-ad8942657de68a180e8da3673029818d]
+#### 42. Action following report by Competition and Markets Authority[^c-ad8942657de68a180e8da3673029818d]
 
 (1)[^c16972401] Paragraph (1D) applies in any of the following cases.
 
@@ -691,7 +691,7 @@ A scheme may provide for empowering the board to pay on account or lend to any e
 
 (1C) The third case is where—
 
-- (a) a report of the Competition and Markets Authority[^key-d70ef32a584c61bab177dfd3f1a52ee1] under section 11 of the Competition Act 1980 (c. 21) (references of public bodies etc. ), as laid before Parliament, contains conclusions to the effect that—
+- (a) a report of the Competition and Markets Authority[^c-d70ef32a584c61bab177dfd3f1a52ee1] under section 11 of the Competition Act 1980 (c. 21) (references of public bodies etc. ), as laid before Parliament, contains conclusions to the effect that—
   - (i) certain matters indicated in the report operate against the public interest, and
   - (ii) those matters consist of or include any provision of a scheme or any act or omission of a board administering a scheme, and
 - (b) none of the conclusions is to be disregarded by virtue of section 11C(3) of that Act (requirement for two-thirds majority).
@@ -1087,11 +1087,11 @@ and any such resolution may make different provision according to the amount of 
 
 [^c16972131]: Textual amendment: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40)
 
-[^key-a163a851c5d98fdf42e4e29952ec182f]: Textual amendment: Words in art. 23 heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 210(2)(b)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/210/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-a163a851c5d98fdf42e4e29952ec182f]: Textual amendment: Words in art. 23 heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 210(2)(b)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/210/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
-[^key-d804dc889d2e5d827a03f4fd3a53aef8]: Textual amendment: Words in art. 23(3) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 210(2)(a)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/210/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-d804dc889d2e5d827a03f4fd3a53aef8]: Textual amendment: Words in art. 23(3) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 210(2)(a)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/210/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
-[^key-e8f87502b81d76f22f36588ce54007fb]: Textual amendment: Words in art. 23(4)(a) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 210(2)(b)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/210/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-e8f87502b81d76f22f36588ce54007fb]: Textual amendment: Words in art. 23(4)(a) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 210(2)(b)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/210/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
 [^c16972231]: Textual amendment: mod. by [1984 NI 12](https://www.legislation.gov.uk/1984/ni12), SR 1995/103
 
@@ -1123,13 +1123,13 @@ and any such resolution may make different provision according to the amount of 
 
 [^c16972391]: Textual amendment: SR & O (NI) [1933 No. 93](https://www.legislation.gov.uk/ukcm/1933/93)
 
-[^key-ad8942657de68a180e8da3673029818d]: Textual amendment: Words in art. 42 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 210(4)(c)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/210/4/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-ad8942657de68a180e8da3673029818d]: Textual amendment: Words in art. 42 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 210(4)(c)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/210/4/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
 [^c16972401]: Textual amendment: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40)
 
 [^M_F_44826843-db12-42f2-fb67-b158ac511162]: Textual amendment: Words in art. 42(1B) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 210(4)(a)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/210/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
-[^key-d70ef32a584c61bab177dfd3f1a52ee1]: Textual amendment: Words in art. 42(1C)(a) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 210(4)(b)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/210/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-d70ef32a584c61bab177dfd3f1a52ee1]: Textual amendment: Words in art. 42(1C)(a) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 210(4)(b)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/210/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
 [^c16972501]: Textual amendment: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40)
 

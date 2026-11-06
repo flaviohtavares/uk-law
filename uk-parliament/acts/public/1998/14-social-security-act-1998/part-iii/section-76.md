@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 76. Power to anticipate pensions up-rating order[^key-de63ac7b77a7d41f5086f200df46a2ba]
+## 76. Power to anticipate pensions up-rating order[^c-de63ac7b77a7d41f5086f200df46a2ba]
 
 After section 155 of the Administration Act there shall be inserted the following section—
 
@@ -31,4 +31,4 @@ After section 155 of the Administration Act there shall be inserted the followin
 
 ## Annotations
 
-[^key-de63ac7b77a7d41f5086f200df46a2ba]: Commencement: S. 76 in force at 16.11.1998 by [S.I. 1998/2780](https://www.legislation.gov.uk/uksi/1998/2780), [art. 2(b)](https://www.legislation.gov.uk/uksi/1998/2780/article/2/b)
+[^c-de63ac7b77a7d41f5086f200df46a2ba]: Commencement: S. 76 in force at 16.11.1998 by [S.I. 1998/2780](https://www.legislation.gov.uk/uksi/1998/2780), [art. 2(b)](https://www.legislation.gov.uk/uksi/1998/2780/article/2/b)

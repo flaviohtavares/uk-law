@@ -22,7 +22,7 @@ summary: ''
 
 The managers of an authorised establishment shall, in relation to residents whose affairs they are managing under section 39—
 
-- (a) claim, receive and hold any pension, benefit, allowance or other payment to which the resident is entitled other than under the Social Security Contributions and Benefits Act 1992 (c.4), the State Pensions Credit Act 2002 (c. 16)[^c19644601] , Part 1 of the Welfare Reform Act 2007 or Part 1 or 4 of the Welfare Reform Act 2012[^key-8a053ffcc1b84dee3c476998e554887e];
+- (a) claim, receive and hold any pension, benefit, allowance or other payment to which the resident is entitled other than under the Social Security Contributions and Benefits Act 1992 (c.4), the State Pensions Credit Act 2002 (c. 16)[^c19644601] , Part 1 of the Welfare Reform Act 2007 or Part 1 or 4 of the Welfare Reform Act 2012[^c-8a053ffcc1b84dee3c476998e554887e];
 - (b) keep the funds of residents separate from the funds of the establishment;
 - (c) comply with any requirements of the supervisory body as respects keeping the funds of residents separate or distinguishable from each other;
 - (d) ensure that where, at any time, the total amount of funds held on behalf of any resident exceeds such sum as may from time to time be prescribed they shall be placed so as to earn interest;
@@ -40,6 +40,6 @@ The managers of an authorised establishment shall, in relation to residents whos
 
 [^c19644601]: Textual amendment: Words in s. 41(a) inserted (5.10.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 77(1)](https://www.legislation.gov.uk/asp/2007/10/section/77/1), [79](https://www.legislation.gov.uk/asp/2007/10/section/79), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/asp/2007/10/schedule/1/paragraph/5/c); [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2) (with savings in [arts. 4-6](https://www.legislation.gov.uk/ssi/2007/334/article/4))
 
-[^key-8a053ffcc1b84dee3c476998e554887e]: Textual amendment: Words in s. 41(a) substituted (29.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137)](https://www.legislation.gov.uk/ssi/2013/137), [regs. 1](https://www.legislation.gov.uk/ssi/2013/137/regulation/1), [6(3)](https://www.legislation.gov.uk/ssi/2013/137/regulation/6/3)
+[^c-8a053ffcc1b84dee3c476998e554887e]: Textual amendment: Words in s. 41(a) substituted (29.4.2013) by [The Welfare Reform (Consequential Amendments) (Scotland) (No. 2) Regulations 2013 (S.S.I. 2013/137)](https://www.legislation.gov.uk/ssi/2013/137), [regs. 1](https://www.legislation.gov.uk/ssi/2013/137/regulation/1), [6(3)](https://www.legislation.gov.uk/ssi/2013/137/regulation/6/3)
 
 [^c18184211]: Textual amendment: Words in s. 41(f) inserted (27.9.2005) by [The Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 2](https://www.legislation.gov.uk/ssi/2005/465/article/2), [Sch. 1 para. 28(5)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/28/5)

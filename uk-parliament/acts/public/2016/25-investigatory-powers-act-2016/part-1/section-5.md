@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Conduct that is not interception[^key-7f112b9cd68464a09d7293b523aa401a]
+## 5. Conduct that is not interception[^c-7f112b9cd68464a09d7293b523aa401a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ For the meaning of “postal data”, see section 262.
 
 ## Annotations
 
-[^key-7f112b9cd68464a09d7293b523aa401a]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/25/section/5) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/652/regulation/2/c)
+[^c-7f112b9cd68464a09d7293b523aa401a]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2016/25/section/5) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/652/regulation/2/c)

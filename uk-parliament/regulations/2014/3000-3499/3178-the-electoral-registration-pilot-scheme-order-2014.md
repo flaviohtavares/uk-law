@@ -44,17 +44,17 @@ In accordance with section 10(4) of that Act, the making of an Order under that 
 
 In accordance with section 11(2) of that Act, a draft of this Order has been laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-e406481736a2e36b5e72eed9e20be2ea]
+## 1. Citation and commencement[^c-e406481736a2e36b5e72eed9e20be2ea]
 
 This Order may be cited as the Electoral Registration Pilot Scheme Order 2014 and comes into force on the day after the day on which it is made.
 
-## 2. Duration[^key-3cfcb3a3dcc2c016db79d41736b9dda8]
+## 2. Duration[^c-3cfcb3a3dcc2c016db79d41736b9dda8]
 
 (1) For the purpose of testing how changes made by Schedule 2 to the Electoral Registration and Administration Act 2013 work in practice, articles 4 to 6 have effect for the period beginning with the coming into force of this Order and ending with 30th June 2015.
 
 (2) This Order ceases to have effect on 31st October 2015.
 
-## 3. Interpretation[^key-5522276a79f75e4b3bee20331b933868]
+## 3. Interpretation[^c-5522276a79f75e4b3bee20331b933868]
 
 (1) In this Order—
 
@@ -68,7 +68,7 @@ This Order may be cited as the Electoral Registration Pilot Scheme Order 2014 an
 
 (2) In articles 4(1), (3) and (4) and 5(1) references to a person acting on the Lord President’s behalf are to a person appointed by the Lord President with the approval of the Secretary of State for Transport and the Secretary of State for Work and Pensions.
 
-## 4. Disclosure of information[^key-9cd511fd2e9165680c15e593716682cb]
+## 4. Disclosure of information[^c-9cd511fd2e9165680c15e593716682cb]
 
 (1) The registration officer for an area must disclose to the Lord President or to a person acting on the Lord President’s behalf—
 
@@ -103,7 +103,7 @@ together with any information as to the dates of the entries, or of any amendmen
 
 as may have been agreed in writing by the Lord President and, as the case may be, the registration officer, the Secretary of State for Transport or the Secretary of State for Work and Pensions.
 
-## 5. Comparison of information[^key-47fde5a63d68ef3c604a147a169482b5]
+## 5. Comparison of information[^c-47fde5a63d68ef3c604a147a169482b5]
 
 (1) Where information is disclosed under article 4(3) and (4), the Lord President or a person acting on the Lord President’s behalf must compare the information disclosed under article 4(1) with the information disclosed under article 4(3) and (4) for the purposes of—
 
@@ -115,14 +115,14 @@ as may have been agreed in writing by the Lord President and, as the case may be
 - (a) the Lord President must notify the registration officer for that area of those names and addresses, and
 - (b) the registration officer must notify the Lord President of the response to any invitations to apply for registration which the officer sends to such people.
 
-## 6. Results of comparison and usefulness of information[^key-002ba3ab72ec9b828edbaf28b4f8d8fb][^key-daff0dc26676de6c423a6bfe958297a4]
+## 6. Results of comparison and usefulness of information[^c-002ba3ab72ec9b828edbaf28b4f8d8fb][^c-daff0dc26676de6c423a6bfe958297a4]
 
-The Chancellor of the Duchy of Lancaster[^key-b7d3fb65614f13d1d54bc4c672452de3] must, on or before 30th June 2015—
+The Chancellor of the Duchy of Lancaster[^c-b7d3fb65614f13d1d54bc4c672452de3] must, on or before 30th June 2015—
 
 - (a) disclose to the registration officer for an area the results of the comparison of the information relating to that area which has been disclosed for the purposes referred to in article 5(1)(a), and
 - (b) give to the registration officer for each area, the Secretary of State for Transport and the Secretary of State for Work and Pensions an assessment of the usefulness of the information referred to in article 4(3) in fulfilling the purposes referred to in article 5(1)(a) and (b).
 
-## 7. Disclosure and other processing of information[^key-89af4856754088be6485c2a8f5b6e88d]
+## 7. Disclosure and other processing of information[^c-89af4856754088be6485c2a8f5b6e88d]
 
 (1) Information disclosed under article 4(1), (3) or (4) may not be further disclosed to any person except—
 
@@ -139,7 +139,7 @@ The Chancellor of the Duchy of Lancaster[^key-b7d3fb65614f13d1d54bc4c672452de3] 
 - (a) not exceeding the statutory maximum, where on the day on which this Order is made, section 85(2) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00006] is not in force, or
 - (b) of any amount, where on that day that provision is in force.
 
-**8.**[^key-998289328ee1e8af4f21c8634230500c] (1) Any person who discloses or otherwise processes information under this Order may do so only in accordance with a written agreement made between all of the Lord President, the Secretary of State for Transport, the Secretary of State for Work and Pensions and the registration officers for the areas, which must include requirements as to the transfer, storage, security and destruction of that information.
+**8.**[^c-998289328ee1e8af4f21c8634230500c] (1) Any person who discloses or otherwise processes information under this Order may do so only in accordance with a written agreement made between all of the Lord President, the Secretary of State for Transport, the Secretary of State for Work and Pensions and the registration officers for the areas, which must include requirements as to the transfer, storage, security and destruction of that information.
 
 (2) The agreement must be made, in relation to an area, before the registration officer for that area discloses information under article 4(1).
 
@@ -153,11 +153,11 @@ Cabinet Office
 
 25th November 2014
 
-## SCHEDULE — Areas[^key-2f0214847c28a8163504f72192665ea0]
+## SCHEDULE — Areas[^c-2f0214847c28a8163504f72192665ea0]
 
 Article 3
 
-[^key-2f0214847c28a8163504f72192665ea0]
+[^c-2f0214847c28a8163504f72192665ea0]
 
 - Blaby
 - Bournemouth
@@ -196,13 +196,13 @@ An overall impact assessment in relation to the individual electoral registratio
 
 [^f00001]: Footnote: [2013 c.6](https://www.legislation.gov.uk/ukpga/2013/6); section 25(1) provides that “the Minister” means the Lord President of the Council or the Secretary of State.
 
-[^key-e406481736a2e36b5e72eed9e20be2ea]: Commencement: Art. 1 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
+[^c-e406481736a2e36b5e72eed9e20be2ea]: Commencement: Art. 1 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
 
-[^key-3cfcb3a3dcc2c016db79d41736b9dda8]: Commencement: Art. 2 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
+[^c-3cfcb3a3dcc2c016db79d41736b9dda8]: Commencement: Art. 2 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
 
-[^key-5522276a79f75e4b3bee20331b933868]: Commencement: Art. 3 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
+[^c-5522276a79f75e4b3bee20331b933868]: Commencement: Art. 3 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
 
-[^key-9cd511fd2e9165680c15e593716682cb]: Commencement: Art. 4 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
+[^c-9cd511fd2e9165680c15e593716682cb]: Commencement: Art. 4 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
 
 [^f00002]: Footnote: [1988 c.53](https://www.legislation.gov.uk/ukpga/1988/53); section 97A was inserted by section 8 of the Road Safety Act [2006 (c.49)](https://www.legislation.gov.uk/ukpga/2006/49).
 
@@ -210,20 +210,20 @@ An overall impact assessment in relation to the individual electoral registratio
 
 [^f00004]: Footnote: [S.I. 2013/3197](https://www.legislation.gov.uk/uksi/2013/3197); there are amendments but none is relevant to this instrument.
 
-[^key-47fde5a63d68ef3c604a147a169482b5]: Commencement: Art. 5 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
+[^c-47fde5a63d68ef3c604a147a169482b5]: Commencement: Art. 5 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
 
-[^key-002ba3ab72ec9b828edbaf28b4f8d8fb]: Commencement: Art. 6 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
+[^c-002ba3ab72ec9b828edbaf28b4f8d8fb]: Commencement: Art. 6 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
 
-[^key-daff0dc26676de6c423a6bfe958297a4]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2014/3178/article/6): functions transferred (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [5(2)(d)](https://www.legislation.gov.uk/uksi/2015/1376/article/5/2/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
+[^c-daff0dc26676de6c423a6bfe958297a4]: Modification: [Art. 6](https://www.legislation.gov.uk/uksi/2014/3178/article/6): functions transferred (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [5(2)(d)](https://www.legislation.gov.uk/uksi/2015/1376/article/5/2/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
 
-[^key-b7d3fb65614f13d1d54bc4c672452de3]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2014/3178/article/6) substituted (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2015/1376/schedule/2/paragraph/24) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
+[^c-b7d3fb65614f13d1d54bc4c672452de3]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2014/3178/article/6) substituted (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2015/1376/schedule/2/paragraph/24) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
 
-[^key-89af4856754088be6485c2a8f5b6e88d]: Commencement: Art. 7 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
+[^c-89af4856754088be6485c2a8f5b6e88d]: Commencement: Art. 7 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
 
 [^f00005]: Footnote: Section 13(3) and (4) of the Electoral Registration and Administration Act 2013 makes transitional provision in respect of periods of imprisonment.
 
 [^f00006]: Footnote: [2012 c.10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-998289328ee1e8af4f21c8634230500c]: Commencement: Art. 8 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
+[^c-998289328ee1e8af4f21c8634230500c]: Commencement: Art. 8 in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
 
-[^key-2f0214847c28a8163504f72192665ea0]: Commencement: Sch. in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)
+[^c-2f0214847c28a8163504f72192665ea0]: Commencement: Sch. in force at 26.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3178/article/1)

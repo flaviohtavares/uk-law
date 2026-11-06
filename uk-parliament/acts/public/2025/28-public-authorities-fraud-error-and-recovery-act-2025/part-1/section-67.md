@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 67. Authorised officers[^key-305319683a1ce9de667d8ff8668f052b][^key-6422623c8e8c3e39e8969e9dc4cc5231]
+## 67. Authorised officers[^c-305319683a1ce9de667d8ff8668f052b][^c-6422623c8e8c3e39e8969e9dc4cc5231]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-305319683a1ce9de667d8ff8668f052b]: Commencement: S. 67 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-305319683a1ce9de667d8ff8668f052b]: Commencement: S. 67 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-6422623c8e8c3e39e8969e9dc4cc5231]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2025/28/section/67) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-6422623c8e8c3e39e8969e9dc4cc5231]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2025/28/section/67) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

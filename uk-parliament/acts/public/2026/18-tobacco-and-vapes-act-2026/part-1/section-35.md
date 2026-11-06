@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Power of ministers to take over enforcement functions[^key-4a7af1c33dbed02317c07aebb47a16e3]
+## 35. Power of ministers to take over enforcement functions[^c-4a7af1c33dbed02317c07aebb47a16e3]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a7af1c33dbed02317c07aebb47a16e3]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2026/18/section/35) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-4a7af1c33dbed02317c07aebb47a16e3]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2026/18/section/35) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

@@ -36,7 +36,7 @@ summary: ''
 >
 > **117B. Power to make order**
 >
-> (1) The county court[^key-d54e7f3ca1a899cd21902c323530d7a7] may make an enforcement restriction order if the conditions in subsections (2) to (8) are met.
+> (1) The county court[^c-d54e7f3ca1a899cd21902c323530d7a7] may make an enforcement restriction order if the conditions in subsections (2) to (8) are met.
 >
 > (2) The order must be made in respect of an individual who is a debtor under two or more qualifying debts.
 >
@@ -66,9 +66,9 @@ summary: ''
 >
 > (1) An enforcement restriction order must, during the currency of the order, impose the following requirement.
 >
-> (2) The requirement is that no qualifying creditor of the debtor is to present a bankruptcy petition against the debtor in respect of a qualifying debt, unless the creditor has the permission of the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court.
+> (2) The requirement is that no qualifying creditor of the debtor is to present a bankruptcy petition against the debtor in respect of a qualifying debt, unless the creditor has the permission of the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court.
 >
-> (3) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court may give permission for the purposes of subsection (2) subject to such conditions as it thinks fit.
+> (3) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court may give permission for the purposes of subsection (2) subject to such conditions as it thinks fit.
 >
 > **117D. Remedies other than bankruptcy**
 >
@@ -77,11 +77,11 @@ summary: ''
 > (2) The requirement is that no qualifying creditor of the debtor is to pursue any remedy for the recovery of a qualifying debt unless—
 >
 > - (a) regulations under subsection (3) provide otherwise, or
-> - (b) the creditor has the permission of the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court.
+> - (b) the creditor has the permission of the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court.
 >
 > (3) Regulations may specify classes of debt which are exempted (or exempted for specified purposes) from any requirement imposed by subsection (2).
 >
-> (4) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court may give permission for the purposes of subsection (2)(b) subject to such conditions as it thinks fit.
+> (4) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court may give permission for the purposes of subsection (2)(b) subject to such conditions as it thinks fit.
 >
 > (5) This section does not have any effect in relation to bankruptcy proceedings.
 >
@@ -103,9 +103,9 @@ summary: ''
 > - (a) that supply, or
 > - (b) any other supply of mains gas or mains electricity, or of associated services, that is provided by the domestic utility creditor.
 >
-> (6) The third case is where the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court gives permission to stop a supply.
+> (6) The third case is where the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court gives permission to stop a supply.
 >
-> (7) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court may give permission for the purposes of subsection (6) subject to such conditions as it thinks fit.
+> (7) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court may give permission for the purposes of subsection (6) subject to such conditions as it thinks fit.
 >
 > (8) A supply of mains gas is a supply of the kind mentioned in section 5(1)(b) of the Gas Act 1986.
 >
@@ -117,9 +117,9 @@ summary: ''
 >
 > (2) The county court may include the requirement in the order at the time it makes the order.
 >
-> (3) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court may, at any time after an enforcement restriction order has been made, vary the order so as to include a repayment requirement.
+> (3) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court may, at any time after an enforcement restriction order has been made, vary the order so as to include a repayment requirement.
 >
-> (4) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court may, at any time when an enforcement restriction order includes a repayment requirement, vary the order so as to—
+> (4) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court may, at any time when an enforcement restriction order includes a repayment requirement, vary the order so as to—
 >
 > - (a) remove the repayment requirement, or
 > - (b) include a different repayment requirement.
@@ -140,7 +140,7 @@ summary: ''
 >
 > (9) Regulations under subsection (7) may, in particular, provide for the debtor's assets to be taken account of for the purpose of calculating his surplus income.
 >
-> (10) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court may vary an enforcement restriction order under this section—
+> (10) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court may vary an enforcement restriction order under this section—
 >
 > - (a) of its own motion;
 > - (b) on the application of the debtor;
@@ -187,11 +187,11 @@ summary: ''
 >
 > (2) The other debt management arrangements cease to be in force when the enforcement restriction order is made.
 >
-> (3) If the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court is aware of the other debt management arrangements, the court must give the relevant authority notice that the order has been made.
+> (3) If the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court is aware of the other debt management arrangements, the court must give the relevant authority notice that the order has been made.
 >
-> (4) In a case where the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court is aware of those arrangements at the time it makes the order, it must give the notice as soon as practicable after making the order.
+> (4) In a case where the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court is aware of those arrangements at the time it makes the order, it must give the notice as soon as practicable after making the order.
 >
-> (5) In a case where the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court only becomes aware of those arrangements after it makes the order, it must give the notice as soon as practicable after becoming aware of them.
+> (5) In a case where the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court only becomes aware of those arrangements after it makes the order, it must give the notice as soon as practicable after becoming aware of them.
 >
 > (6) “**Other debt management arrangements**” means any of the following—
 >
@@ -201,7 +201,7 @@ summary: ''
 >
 > (7) “**The relevant authority**” means—
 >
-> - (a) in relation to an administration order: the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court [^key-6f5a3c40f91bddf0024d62670046829c]...;
+> - (a) in relation to an administration order: the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court [^c-6f5a3c40f91bddf0024d62670046829c]...;
 > - (b) in relation to a debt relief order: the official receiver;
 > - (c) in relation to a debt repayment plan: the operator of the debt management scheme in accordance with which the plan is arranged.
 >
@@ -211,7 +211,7 @@ summary: ''
 >
 > (1) This section applies if, and for as long as, an enforcement restriction order has effect in respect of a debtor.
 >
-> (2) The debtor must, at the prescribed times, provide the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court with particulars of his—
+> (2) The debtor must, at the prescribed times, provide the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court with particulars of his—
 >
 > - (a) earnings,
 > - (b) income,
@@ -223,7 +223,7 @@ summary: ''
 > - (a) as the matters are at the time the particulars are provided, and
 > - (b) as the debtor expects the matters to be at such times in the future as may be prescribed.
 >
-> (4) If the debtor intends to dispose of any of his property he must, within the prescribed period, provide the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court with particulars of the following matters—
+> (4) If the debtor intends to dispose of any of his property he must, within the prescribed period, provide the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court with particulars of the following matters—
 >
 > - (a) the property he intends to dispose of;
 > - (b) the consideration (if any) he expects will be given for the disposal;
@@ -236,7 +236,7 @@ summary: ''
 > - (b) goods that are protected under any other enactment from being taken control of under that Schedule, or
 > - (c) prescribed property.
 >
-> (6) The duty under subsection (4) to provide the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court with particulars of a proposed disposal of property applies whether the debtor is the sole owner, or one of several owners, of the property.
+> (6) The duty under subsection (4) to provide the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court with particulars of a proposed disposal of property applies whether the debtor is the sole owner, or one of several owners, of the property.
 >
 > (7) In any provision of this section “**prescribed**” means prescribed in regulations for the purposes of that provision.
 >
@@ -247,18 +247,18 @@ summary: ''
 > - (a) section 117J(2) and (3), or
 > - (b) section 117J(4).
 >
-> (2) A person who commits an offence under subsection (1) may be ordered by a judge of the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court to pay a fine of not more than £250 or to be imprisoned for not more than 14 days.
+> (2) A person who commits an offence under subsection (1) may be ordered by a judge of the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court to pay a fine of not more than £250 or to be imprisoned for not more than 14 days.
 >
-> (3) Where under subsection (2) a person is ordered to be imprisoned by a judge of the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court, a judge of the county court[^key-3c94f3ee4d7a16c06af6ec54db939d39] may at any time—
+> (3) Where under subsection (2) a person is ordered to be imprisoned by a judge of the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court, a judge of the county court[^c-3c94f3ee4d7a16c06af6ec54db939d39] may at any time—
 >
 > - (a) revoke the order, and
 > - (b) if the person is already in custody, order his discharge.
 >
 > (4) Section 129 of this Act (enforcement of fines) applies to payment of a fine imposed under subsection (2).
 >
-> (5) For the purposes of section 13 of the Administration of Justice Act 1960 (appeal in cases of contempt of court), subsection (2) is to be treated as an enactment enabling the county court[^key-0cba0dabb01b1834b9e8074925140f1f] to deal with an offence under subsection (1) as if it were a contempt of court.
+> (5) For the purposes of section 13 of the Administration of Justice Act 1960 (appeal in cases of contempt of court), subsection (2) is to be treated as an enactment enabling the county court[^c-0cba0dabb01b1834b9e8074925140f1f] to deal with an offence under subsection (1) as if it were a contempt of court.
 >
-> (6)[^key-0ed6bfcc0fddbbe3494e33079ac33005] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (6)[^c-0ed6bfcc0fddbbe3494e33079ac33005] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **117L. Existing county court proceedings to be stayed**
 >
@@ -293,11 +293,11 @@ summary: ''
 >
 > **117N. Variation of duration**
 >
-> (1) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court may vary an enforcement restriction order so as to specify a day, or (if a day has already been specified under section 117H or this section) a different day, on which the order will cease to have effect.
+> (1) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court may vary an enforcement restriction order so as to specify a day, or (if a day has already been specified under section 117H or this section) a different day, on which the order will cease to have effect.
 >
 > (2) But the new termination day must fall on or before the last day of the maximum permitted period.
 >
-> (3) If the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court varies an enforcement restriction order under subsection (1), the order ceases to have effect on the new termination day.
+> (3) If the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court varies an enforcement restriction order under subsection (1), the order ceases to have effect on the new termination day.
 >
 > (4) The power under this section is exercisable—
 >
@@ -316,51 +316,51 @@ summary: ''
 >
 > **117O. Duty to revoke order**
 >
-> (1) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order in either of these cases—
+> (1) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order in either of these cases—
 >
 > - (a) where it becomes apparent that, at the time the order was made, the condition in subsection 117B(2) was not met (debtor in fact did not have two or more qualifying debts);
 > - (b) where the debtor is no longer a debtor under any qualifying debts.
 >
-> (2) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order in either of these cases—
+> (2) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order in either of these cases—
 >
 > - (a) where it becomes apparent that, at the time the order was made, the condition in subsection 117B(3) was not met (debtor in fact had business debt), and he is still a debtor under the business debt, or any of the business debts, in question;
 > - (b) where the debtor subsequently becomes a debtor under a business debt, and he is still a debtor under that debt.
 >
-> (3) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order where it becomes apparent that, at the time the order was made, the condition in section 117B(4) was not met (debtor in fact excluded under ERO, voluntary arrangement or bankruptcy exclusion).
+> (3) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order where it becomes apparent that, at the time the order was made, the condition in section 117B(4) was not met (debtor in fact excluded under ERO, voluntary arrangement or bankruptcy exclusion).
 >
-> (4) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order where, after the order is made—
+> (4) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order where, after the order is made—
 >
 > - (a) the debtor becomes excluded under the voluntary arrangement exclusion, or
 > - (b) a bankruptcy order is made against the debtor, and is still in force.
 >
-> (5) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order in either of these cases—
+> (5) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order in either of these cases—
 >
 > - (a) where it becomes apparent that, at the time the order was made, the condition in section 117B(5) was not met (debtor in fact able to pay qualifying debts);
 > - (b) where the debtor is now able to pay all of his qualifying debts.
 >
-> (6) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order in either of these cases—
+> (6) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order in either of these cases—
 >
 > - (a) where it becomes apparent that, at the time the order was made, the condition in section 117B(6) was not met (debtor in fact not suffering from sudden and unforeseen deterioration in financial circumstances);
 > - (b) where the debtor is no longer suffering from the deterioration in financial circumstances which was taken into account for the purposes of section 117B(6) (even if he is suffering from some other sudden and unforeseen deterioration in his financial circumstances).
 >
-> (7) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order in either of these cases—
+> (7) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order in either of these cases—
 >
 > - (a) where it becomes apparent that, at the time the order was made, the condition in section 117B(7) was not met (in fact no realistic prospect of improvement in debtor's financial circumstances);
 > - (b) where there is no longer a realistic prospect that the debtor's financial circumstances will improve during the period within which the order would continue to have effect (if not revoked).
 >
-> (8) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order in either of these cases—
+> (8) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court must revoke an enforcement restriction order in either of these cases—
 >
 > - (a) where it becomes apparent that, at the time the order was made, the condition in section 117B(8) was not met (not in fact fair and equitable to make order);
 > - (b) where it is not fair and equitable for the order to continue to have effect.
 >
 > **117P. Power to revoke order**
 >
-> (1) The [^key-71fe8927f61a9789a5ba49b8481e9967]... county court may revoke an enforcement restriction order in any case where there is no duty under this Part to revoke it.
+> (1) The [^c-71fe8927f61a9789a5ba49b8481e9967]... county court may revoke an enforcement restriction order in any case where there is no duty under this Part to revoke it.
 >
 > (2) The power of revocation under this section may, in particular, be exercised in any of the following cases—
 >
 > - (a) where the order includes, or has previously included, a repayment requirement, and the debtor has failed to comply with that requirement;
-> - (b) where the debtor has failed to provide the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court with the particulars required by—
+> - (b) where the debtor has failed to provide the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court with the particulars required by—
 >   - (i) section 117J(2) and (3), or
 >   - (ii) section 117J(4).
 >
@@ -372,7 +372,7 @@ summary: ''
 >
 > **117Q. Effect of revocation**
 >
-> (1) This section applies if, under any duty or power in this Part, the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court revokes an enforcement restriction order.
+> (1) This section applies if, under any duty or power in this Part, the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court revokes an enforcement restriction order.
 >
 > (2) The order ceases to have effect in accordance with the terms of the revocation.
 >
@@ -380,19 +380,19 @@ summary: ''
 >
 > **117R. Notice when order made, varied, revoked etc.**
 >
-> (1) If a notifiable event occurs in relation to an enforcement restriction order, the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court must give notice of the event to every identified qualifying creditor of the debtor.
+> (1) If a notifiable event occurs in relation to an enforcement restriction order, the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court must give notice of the event to every identified qualifying creditor of the debtor.
 >
 > (2) There is a notifiable event in any of the following cases—
 >
 > - (a) when the enforcement restriction order is made;
 > - (b) when the enforcement restriction order is varied;
 > - (c) when the enforcement restriction order is revoked;
-> - (d) when the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court is given notice under any of the provisions listed in section 117H(7) (effect of administration order or debt relief order on enforcement restriction order).
+> - (d) when the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court is given notice under any of the provisions listed in section 117H(7) (effect of administration order or debt relief order on enforcement restriction order).
 >
 > (3) A person is an identified qualifying creditor of the debtor if—
 >
-> - (a) the debtor has notified the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court[^key-84685de4ccf45bd70fee4033074d2ed1]...[^key-84685de4ccf45bd70fee4033074d2ed1]...[^key-84685de4ccf45bd70fee4033074d2ed1]...that the person is a qualifying creditor, or
-> - (b) the [^key-71fe8927f61a9789a5ba49b8481e9967]... county court is satisfied that the person is a qualifying creditor.
+> - (a) the debtor has notified the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court[^c-84685de4ccf45bd70fee4033074d2ed1]...[^c-84685de4ccf45bd70fee4033074d2ed1]...[^c-84685de4ccf45bd70fee4033074d2ed1]...that the person is a qualifying creditor, or
+> - (b) the [^c-71fe8927f61a9789a5ba49b8481e9967]... county court is satisfied that the person is a qualifying creditor.
 >
 > **Interpretation**
 >
@@ -413,9 +413,9 @@ summary: ''
 > - (a) begins when the order first has effect, and
 > - (b) ends when the order ceases to have effect.
 >
-> (3)[^key-8886afd595141f838c1062439aa48a34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (3)[^c-8886afd595141f838c1062439aa48a34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (4)[^key-8886afd595141f838c1062439aa48a34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (4)[^c-8886afd595141f838c1062439aa48a34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **117U. Expressions relating to debts**
 >
@@ -488,18 +488,18 @@ summary: ''
 
 ## Annotations
 
-[^key-d54e7f3ca1a899cd21902c323530d7a7]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-d54e7f3ca1a899cd21902c323530d7a7]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-71fe8927f61a9789a5ba49b8481e9967]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-71fe8927f61a9789a5ba49b8481e9967]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-6f5a3c40f91bddf0024d62670046829c]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/4); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-6f5a3c40f91bddf0024d62670046829c]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/4); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-3c94f3ee4d7a16c06af6ec54db939d39]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(5)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/5); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-3c94f3ee4d7a16c06af6ec54db939d39]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(5)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/5); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-0cba0dabb01b1834b9e8074925140f1f]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(6)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/6); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-0cba0dabb01b1834b9e8074925140f1f]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(6)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/6); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-0ed6bfcc0fddbbe3494e33079ac33005]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/7); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-0ed6bfcc0fddbbe3494e33079ac33005]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(7)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/7); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-84685de4ccf45bd70fee4033074d2ed1]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(8)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/8); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-84685de4ccf45bd70fee4033074d2ed1]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(8)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/8); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-8886afd595141f838c1062439aa48a34]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(9)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/9); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-8886afd595141f838c1062439aa48a34]: Textual amendment: Words in [s. 107](https://www.legislation.gov.uk/ukpga/2007/15/section/107) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 48(9)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/48/9); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

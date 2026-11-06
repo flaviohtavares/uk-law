@@ -44,15 +44,15 @@ In accordance with section 20(6) of that Act, they have consulted such persons 
 
 In accordance with section 51(3) of that Act, a draft of these Regulations has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-81451c87f85b05fc17cd6213ee966d64]
+## 1. Citation and commencement[^c-81451c87f85b05fc17cd6213ee966d64]
 
 These Regulations may be cited as the Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2012 and come into force on the day after the day on which they are made.
 
-## 2. Amendment of the Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Regulations 2010[^key-3bb624880f6fce4b25ffe38d888e2946]
+## 2. Amendment of the Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Regulations 2010[^c-3bb624880f6fce4b25ffe38d888e2946]
 
 (1) The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Regulations 2010[^f00002] are amended as follows.
 
-(2)[^key-aa74f15fddd0e6f4bd9d1d29440bb9eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-aa74f15fddd0e6f4bd9d1d29440bb9eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Schedule 2 (pigs), in column 2 (purpose), in the entry relating to ear tagging, for “Identification” substitute—
 
@@ -110,10 +110,10 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^f00001]: Footnote: [2006 asp 11](https://www.legislation.gov.uk/asp/2006/11).
 
-[^key-81451c87f85b05fc17cd6213ee966d64]: Commencement: Reg. 1 in force at 9.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/40/regulation/1)
+[^c-81451c87f85b05fc17cd6213ee966d64]: Commencement: Reg. 1 in force at 9.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/40/regulation/1)
 
-[^key-3bb624880f6fce4b25ffe38d888e2946]: Commencement: Reg. 2 in force at 9.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/40/regulation/1)
+[^c-3bb624880f6fce4b25ffe38d888e2946]: Commencement: Reg. 2 in force at 9.2.2012, see [reg. 1](https://www.legislation.gov.uk/ssi/2012/40/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2010/387](https://www.legislation.gov.uk/ssi/2010/387) amended by [S.S.I. 2011/164](https://www.legislation.gov.uk/ssi/2011/164).
 
-[^key-aa74f15fddd0e6f4bd9d1d29440bb9eb]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2012/40/regulation/2/2) revoked (5.10.2016) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/310)](https://www.legislation.gov.uk/ssi/2016/310), [regs. 1](https://www.legislation.gov.uk/ssi/2016/310/regulation/1), [3](https://www.legislation.gov.uk/ssi/2016/310/regulation/3)
+[^c-aa74f15fddd0e6f4bd9d1d29440bb9eb]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2012/40/regulation/2/2) revoked (5.10.2016) by [The Prohibited Procedures on Protected Animals (Exemptions) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/310)](https://www.legislation.gov.uk/ssi/2016/310), [regs. 1](https://www.legislation.gov.uk/ssi/2016/310/regulation/1), [3](https://www.legislation.gov.uk/ssi/2016/310/regulation/3)

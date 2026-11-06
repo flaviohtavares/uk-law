@@ -37,7 +37,7 @@ Made
 
 The Treasury make these Regulations in exercise of the powers conferred by section 86(3) to (6) of the Financial Services and Markets Act 2023[^f00001].
 
-## 1. Citation, extent and interpretation[^key-8502c29ac9efc5618dd6bd3f40b58bd7]
+## 1. Citation, extent and interpretation[^c-8502c29ac9efc5618dd6bd3f40b58bd7]
 
 (1) These Regulations may be cited as the Financial Services and Markets Act 2023 (Commencement No. 2 and Transitional Provisions) Regulations 2023.
 
@@ -48,7 +48,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 - “**rule**” means a rule made by the PRA or the FCA under FSMA 2000;
 - “**the Act**” means the Financial Services and Markets Act 2023.
 
-## 2. Commencement of section 20 of, and Schedule 5 to, the Act[^key-bc59f053682073d21bacf8529fbd9642]
+## 2. Commencement of section 20 of, and Schedule 5 to, the Act[^c-bc59f053682073d21bacf8529fbd9642]
 
 (1) The provisions listed in paragraph (2) come into force—
 
@@ -70,7 +70,7 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 (4) In paragraph (1)(b) and regulation 3(1), the “**application period**” means the period beginning with 6th November 2023 and ending with 6th February 2024.
 
-## 3. Transitional provision relating to section 20 of, and Schedule 5 to, the Act[^key-8587e158c9c124e1680bf3f49c6afecc]
+## 3. Transitional provision relating to section 20 of, and Schedule 5 to, the Act[^c-8587e158c9c124e1680bf3f49c6afecc]
 
 (1) The amendments made by the provisions of the Act listed in paragraph (2) do not apply to—
 
@@ -97,7 +97,7 @@ until the date when the application is determined.
 
 (5) Paragraph (3) does not affect the validity of an approval given before the application is determined or withdrawn (as the case may be).
 
-## 4. Transitional provision for PRA rules implementing Basel 3.1 standards[^key-7e3f1103cc96f6811353de1205fe13ba]
+## 4. Transitional provision for PRA rules implementing Basel 3.1 standards[^c-7e3f1103cc96f6811353de1205fe13ba]
 
 (1) The amendments made by the provisions of the Act listed in paragraph (2) do not apply where the PRA takes a relevant action in connection with the document entitled “Implementation of the Basel 3.1 standards” published by the PRA on 30th November 2022 (PRA consultation paper 16/22)[^f00005].
 
@@ -108,10 +108,10 @@ until the date when the application is determined.
 - (c) section 28(4) to (6) (sections 25 and 27: consequential amendments);
 - (d) section 31(2) and (4) (matters to consider when making rules);
 - (e) section 32 (effect of rules etc. on deference decisions);
-- (ea)[^key-7a47779aa1471e64e25a8ef6f3f0f46a] section 33 (effect of rules etc on international trade obligations);
+- (ea)[^c-7a47779aa1471e64e25a8ef6f3f0f46a] section 33 (effect of rules etc on international trade obligations);
 - (f) section 36(2) (public consultation requirement);
 - (g) section 38(3) (engagement with parliamentary committees);
-- (h) section 43(3) (costs benefit analysis panels) so far as it inserts section 138JA(2)(a), (11)[^key-cbcd1ebbafdeb3dd900fd8728d7010cb] and (12) into FSMA 2000.
+- (h) section 43(3) (costs benefit analysis panels) so far as it inserts section 138JA(2)(a), (11)[^c-cbcd1ebbafdeb3dd900fd8728d7010cb] and (12) into FSMA 2000.
 
 (3) For the purposes of paragraph (1), the PRA takes a relevant action—
 
@@ -129,7 +129,7 @@ but the taking of a relevant action does not include steps taken by the PRA nece
 
 (5) In this regulation, “**standards instrument**” means an instrument made by the PRA under Chapter 2A of Part 9A of FSMA 2000[^f00007].
 
-## 5. Transitional provision for other PRA rules[^key-790d5254b2e212cc38149349ffb09d0a]
+## 5. Transitional provision for other PRA rules[^c-790d5254b2e212cc38149349ffb09d0a]
 
 (1) This regulation applies where—
 
@@ -163,7 +163,7 @@ but the taking of a relevant action does not include steps taken by the PRA nece
 - (b) “**rule-making instrument**” has the meaning given by section 138G(2) of FSMA 2000;
 - (c) “**section 192XA rules**” means rules made by the PRA under section 192XA[^f00011] of FSMA 2000.
 
-## 6. Transitional Provision – control over authorised persons[^key-e562c5458b378efd20905330faf4dbbb]
+## 6. Transitional Provision – control over authorised persons[^c-e562c5458b378efd20905330faf4dbbb]
 
 The amendments made by section 61 of the Act (control over authorised persons) do not apply in relation to a decision by the appropriate regulator under sections 185(1)(b)(i) and 187 of FSMA 2000 to approve with conditions an acquisition to which a section 178 notice relates, where that notice was received by the appropriate regulator before 29th August 2023.
 
@@ -275,11 +275,11 @@ NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
 
 [^f00001]: Footnote: [2023 c. 29](https://www.legislation.gov.uk/ukpga/2023/29).
 
-[^key-8502c29ac9efc5618dd6bd3f40b58bd7]: Commencement: Reg. 1 in force at made date
+[^c-8502c29ac9efc5618dd6bd3f40b58bd7]: Commencement: Reg. 1 in force at made date
 
-[^key-bc59f053682073d21bacf8529fbd9642]: Commencement: Reg. 2 in force at made date
+[^c-bc59f053682073d21bacf8529fbd9642]: Commencement: Reg. 2 in force at made date
 
-[^key-8587e158c9c124e1680bf3f49c6afecc]: Commencement: Reg. 3 in force at made date
+[^c-8587e158c9c124e1680bf3f49c6afecc]: Commencement: Reg. 3 in force at made date
 
 [^f00002]: Footnote: Section 55NA is inserted by section 20(3) of the Financial Services and Markets Act [2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29).
 
@@ -287,19 +287,19 @@ NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
 
 [^f00004]: Footnote: Section 55X was inserted by section 11(2) of the Financial Services Act 2012.
 
-[^key-7e3f1103cc96f6811353de1205fe13ba]: Commencement: Reg. 4 in force at made date
+[^c-7e3f1103cc96f6811353de1205fe13ba]: Commencement: Reg. 4 in force at made date
 
 [^f00005]: Footnote: The PRA consultation paper can be found at https://www.bankofengland.co.uk/prudential-regulation/publication/2022/november/implementation-of-the-basel-3-1-standards (last checked on 14th August 2023) and a copy can be obtained from the Prudential Regulation Authority, 20 Moorgate, London EC2R 6DA.
 
 [^f00006]: Footnote: Provisions mentioned in sub-paragraphs (a) to (h) are to be commenced on 29th August 2023 under regulation 4 of the Financial Services and Markets Act 2023 (Commencement No. 1) Regulations ([S.I. 2023/779 (C. 40)](https://www.legislation.gov.uk/uksi/2023/779)).
 
-[^key-7a47779aa1471e64e25a8ef6f3f0f46a]: Textual amendment: [Reg. 4(2)(ea)](https://www.legislation.gov.uk/uksi/2023/936/regulation/4/2/ea) inserted (13.12.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 4 and Transitional and Saving Provisions) (Amendment) Regulations 2023 (S.I. 2023/1382)](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 18(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/18/a)
+[^c-7a47779aa1471e64e25a8ef6f3f0f46a]: Textual amendment: [Reg. 4(2)(ea)](https://www.legislation.gov.uk/uksi/2023/936/regulation/4/2/ea) inserted (13.12.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 4 and Transitional and Saving Provisions) (Amendment) Regulations 2023 (S.I. 2023/1382)](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 18(a)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/18/a)
 
-[^key-cbcd1ebbafdeb3dd900fd8728d7010cb]: Textual amendment: Words in [reg. 4(2)(h)](https://www.legislation.gov.uk/uksi/2023/936/regulation/4/2/h) substituted (13.12.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 4 and Transitional and Saving Provisions) (Amendment) Regulations 2023 (S.I. 2023/1382)](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 18(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/18/b)
+[^c-cbcd1ebbafdeb3dd900fd8728d7010cb]: Textual amendment: Words in [reg. 4(2)(h)](https://www.legislation.gov.uk/uksi/2023/936/regulation/4/2/h) substituted (13.12.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 4 and Transitional and Saving Provisions) (Amendment) Regulations 2023 (S.I. 2023/1382)](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 18(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/18/b)
 
 [^f00007]: Footnote: Part 9A was inserted by section 24(1) of the Financial Services Act [2012 (c. 24)](https://www.legislation.gov.uk/ukpga/2012/24), and Chapter 2A was inserted into Part 9A by Part 1 of Schedule 10 to the Financial Services and Markets Act 2023.
 
-[^key-790d5254b2e212cc38149349ffb09d0a]: Commencement: Reg. 5 in force at made date
+[^c-790d5254b2e212cc38149349ffb09d0a]: Commencement: Reg. 5 in force at made date
 
 [^f00008]: Footnote: Sections 144C, 144D and 144E were inserted by paragraph 1 of Part 1 of Schedule 3 to the Financial Services Act [2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22).
 
@@ -309,4 +309,4 @@ NOTE AS TO EARLIER COMMENCEMENT REGULATIONS
 
 [^f00011]: Footnote: Section 192XA was inserted by paragraph 7 of Part 2 of Schedule 3 to the Financial Services Act 2021.
 
-[^key-e562c5458b378efd20905330faf4dbbb]: Commencement: Reg. 6 in force at made date
+[^c-e562c5458b378efd20905330faf4dbbb]: Commencement: Reg. 6 in force at made date

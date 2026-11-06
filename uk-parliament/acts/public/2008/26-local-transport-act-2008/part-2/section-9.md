@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Local transport plans[^key-5b52271b616ffa2874ed8987c518acf3]
+## 9. Local transport plans[^c-5b52271b616ffa2874ed8987c518acf3]
 
 *Extent: E+W*
 
-(1)[^key-afc87608146917d300e070d74d03abce] For subsection (3) of section 108 of the TA 2000 (duty to prepare local transport plan) substitute—
+(1)[^c-afc87608146917d300e070d74d03abce] For subsection (3) of section 108 of the TA 2000 (duty to prepare local transport plan) substitute—
 
 > (3) Each local transport authority whose area is in England must prepare a document to be known as (or two or more documents to be known together as) the local transport plan containing—
 >
@@ -36,15 +36,15 @@ summary: ''
 
 .
 
-(2)[^key-3b47bbdc13c092dd7adc7051630c823b][^key-1fea56e367ebb897950c0af2e60a7a5c] Section 109 of that Act (further provision about plans: England) is amended as follows.
+(2)[^c-3b47bbdc13c092dd7adc7051630c823b][^c-1fea56e367ebb897950c0af2e60a7a5c] Section 109 of that Act (further provision about plans: England) is amended as follows.
 
-(3)[^key-afc87608146917d300e070d74d03abce] For subsection (2) substitute—
+(3)[^c-afc87608146917d300e070d74d03abce] For subsection (2) substitute—
 
 > (2) The authority may replace their plan as they think fit.
 
 .
 
-(4)[^key-bf45ceef7566df1dc58c26521e58f63e] After subsection (2) insert—
+(4)[^c-bf45ceef7566df1dc58c26521e58f63e] After subsection (2) insert—
 
 > (2A) In preparing their local transport plan, and in keeping it under review, an authority other than an Integrated Transport Authority must consult—
 >
@@ -73,16 +73,16 @@ summary: ''
 
 .
 
-(5)[^key-bf45ceef7566df1dc58c26521e58f63e] Omit subsections (5) and (6).
+(5)[^c-bf45ceef7566df1dc58c26521e58f63e] Omit subsections (5) and (6).
 
 ## Annotations
 
-[^key-5b52271b616ffa2874ed8987c518acf3]: Commencement: S. 9 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/579/article/2/b)
+[^c-5b52271b616ffa2874ed8987c518acf3]: Commencement: S. 9 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/579/article/2/b)
 
-[^key-afc87608146917d300e070d74d03abce]: Commencement: S. 9(1)(3) in force at 1.4.2011 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 5(1)](https://www.legislation.gov.uk/uksi/2009/107/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2009/107/article/5/2))
+[^c-afc87608146917d300e070d74d03abce]: Commencement: S. 9(1)(3) in force at 1.4.2011 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 5(1)](https://www.legislation.gov.uk/uksi/2009/107/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2009/107/article/5/2))
 
-[^key-3b47bbdc13c092dd7adc7051630c823b]: Commencement: S. 9(2) in force at 9.2.2009 for specified purposes for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-3b47bbdc13c092dd7adc7051630c823b]: Commencement: S. 9(2) in force at 9.2.2009 for specified purposes for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-1fea56e367ebb897950c0af2e60a7a5c]: Commencement: S. 9(2) in force at 1.4.2011 for specified purposes for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 5(1)](https://www.legislation.gov.uk/uksi/2009/107/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2009/107/article/5/2))
+[^c-1fea56e367ebb897950c0af2e60a7a5c]: Commencement: S. 9(2) in force at 1.4.2011 for specified purposes for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 5(1)](https://www.legislation.gov.uk/uksi/2009/107/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2009/107/article/5/2))
 
-[^key-bf45ceef7566df1dc58c26521e58f63e]: Commencement: S. 9(4)(5) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-bf45ceef7566df1dc58c26521e58f63e]: Commencement: S. 9(4)(5) in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)

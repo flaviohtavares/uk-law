@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Complaint to industrial tribunal.[^key-36c0be76be1b6fd5cec0810cc40b7b90]
+## 126. Complaint to industrial tribunal.[^c-36c0be76be1b6fd5cec0810cc40b7b90]
 
 *Extent: E+W+S*
 
@@ -25,12 +25,12 @@ summary: ''
 - (a) the Secretary of State has failed to make any such payment; or
 - (b) any such payment made by him is less than the amount which should have been paid.
 
-(2) Such a complaint must be presented within the period of six[^key-f7c3142c2e5a3cc0be0bdddf3688cad1] months beginning with the date on which the decision of the Secretary of State on that application was communicated to the persons presenting it or, if that is not reasonably practicable, within such further period as is reasonable.
+(2) Such a complaint must be presented within the period of six[^c-f7c3142c2e5a3cc0be0bdddf3688cad1] months beginning with the date on which the decision of the Secretary of State on that application was communicated to the persons presenting it or, if that is not reasonably practicable, within such further period as is reasonable.
 
 (3) Where an industrial tribunal finds that the Secretary of State ought to make a payment under section 124, it shall make a declaration to that effect and shall also declare the amount of any such payment which it finds that the Secretary of State ought to make.
 
 ## Annotations
 
-[^key-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
-[^key-f7c3142c2e5a3cc0be0bdddf3688cad1]: Textual amendment: Word in s. 126(2) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/3); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-f7c3142c2e5a3cc0be0bdddf3688cad1]: Textual amendment: Word in s. 126(2) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/3); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))

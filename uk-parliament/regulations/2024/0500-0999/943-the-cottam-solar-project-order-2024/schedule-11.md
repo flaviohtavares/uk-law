@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 11 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-0725a4f424630e58eab5d88df9cb34f1]
+## SCHEDULE 11 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-0725a4f424630e58eab5d88df9cb34f1]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Article 29
 
 ## Annotations
 
-[^key-0725a4f424630e58eab5d88df9cb34f1]: Commencement: Sch. 11 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-0725a4f424630e58eab5d88df9cb34f1]: Commencement: Sch. 11 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)

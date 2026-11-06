@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Appeal from the sheriff principal to the Court of Session[^key-f65d04c41af9f381e3af7ba54d5d3ca0]
+## 114. Appeal from the sheriff principal to the Court of Session[^c-f65d04c41af9f381e3af7ba54d5d3ca0]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f65d04c41af9f381e3af7ba54d5d3ca0]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2014/18/section/114) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-f65d04c41af9f381e3af7ba54d5d3ca0]: Commencement: [S. 114](https://www.legislation.gov.uk/asp/2014/18/section/114) in force at 1.1.2016 by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Regulation [(EC) No 110/2008](https://www.legislation.gov.uk/eur/2008/110) of the European Parliament and of the Council[^key-a627ca8879637467f013cc40f998d3de]
+## 17. Regulation [(EC) No 110/2008](https://www.legislation.gov.uk/eur/2008/110) of the European Parliament and of the Council[^c-a627ca8879637467f013cc40f998d3de]
 
 *Extent: E+W+S+N.I.*
 
@@ -227,7 +227,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a627ca8879637467f013cc40f998d3de]: Commencement: Reg. 17 in force at 31.12.2020, see reg. 1(7)
+[^c-a627ca8879637467f013cc40f998d3de]: Commencement: Reg. 17 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414151]: Marginal citation: [S.I. 1996/1502](https://www.legislation.gov.uk/uksi/1996/1502), amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and, in relation to England, by [S.I. 2014/1855](https://www.legislation.gov.uk/uksi/2014/1855) and, prospectively on IP completion day, by [S.I. 2019/150](https://www.legislation.gov.uk/uksi/2019/150), in relation to Scotland, by S.S.I 2014/312 and, prospectively on IP completion day, by [S.S.I. 2019/53](https://www.legislation.gov.uk/ssi/2019/53) and, in relation to Wales, by [S.I. 2014/2303](https://www.legislation.gov.uk/uksi/2014/2303) (W. 227), 2018/806 (W. 162) and, prospectively on IP completion day, by [S.I. 2019/435](https://www.legislation.gov.uk/uksi/2019/435) (W. 103).
 

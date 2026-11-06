@@ -33,8 +33,8 @@ is increased.
 
 (4) In preparing that guidance and those tables the Scheme actuary must use such factors as the Scheme actuary considers appropriate, having regard, in particular, to the period after reaching the age of 65 before the member becomes entitled to immediate payment of the pension and the life expectancy of the member.
 
-(5)[^key-18f2a16ec0ed1c46130c8c76d33f445d] In the case of a 2008 Section Optant, this regulation is subject to regulation 2.K.21.
+(5)[^c-18f2a16ec0ed1c46130c8c76d33f445d] In the case of a 2008 Section Optant, this regulation is subject to regulation 2.K.21.
 
 ## Annotations
 
-[^key-18f2a16ec0ed1c46130c8c76d33f445d]: Textual amendment: [Reg. 2.D.3(5)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.3/5) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2009/2446/regulation/26)
+[^c-18f2a16ec0ed1c46130c8c76d33f445d]: Textual amendment: [Reg. 2.D.3(5)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.3/5) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2009/2446/regulation/26)

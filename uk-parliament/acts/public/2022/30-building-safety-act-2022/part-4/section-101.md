@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Offence: contravention giving rise to risk of death and serious injury[^key-7ecb0971eda312f19c16339a2f7150c9][^key-08e5594196c2d39f5e77c8e4d81b9cfb]
+## 101. Offence: contravention giving rise to risk of death and serious injury[^c-7ecb0971eda312f19c16339a2f7150c9][^c-08e5594196c2d39f5e77c8e4d81b9cfb]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ and (in either case) is liable on summary conviction to a further fine not excee
 
 ## Annotations
 
-[^key-7ecb0971eda312f19c16339a2f7150c9]: Commencement: S. 101 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-7ecb0971eda312f19c16339a2f7150c9]: Commencement: S. 101 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-08e5594196c2d39f5e77c8e4d81b9cfb]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2022/30/section/101) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/t)
+[^c-08e5594196c2d39f5e77c8e4d81b9cfb]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2022/30/section/101) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/t)

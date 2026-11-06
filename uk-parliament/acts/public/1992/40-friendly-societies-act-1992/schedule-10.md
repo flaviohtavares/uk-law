@@ -31,13 +31,13 @@ Section 23.
 
 and, in so far as they relate to offences under any such enactment, sections 430 and 432 of, and Schedule 10 to, that Act or Article 373 of, and Schedule 7 to, that Order.
 
-**2.** Subject to the following provisions of this Schedule, the enactments apply to the winding up of incorporated friendly societies as they apply to the winding up of companies registered under the Companies Act 2006[^key-8c4bf8511a078b0becc88dc45f2682da].
+**2.** Subject to the following provisions of this Schedule, the enactments apply to the winding up of incorporated friendly societies as they apply to the winding up of companies registered under the Companies Act 2006[^c-8c4bf8511a078b0becc88dc45f2682da].
 
 **3.** (1) Subject to the following provisions of this Schedule, the enactments shall, in their application to incorporated friendly societies, have effect with the substitution—
 
 - (a) for “company" of “incorporated friendly society”;
 - (b) for “directors" of “committee of management”;
-- (c) for “the registrar of companies" or “the registrar” of “the Financial Conduct Authority[^key-cdb0a794c9759263e1c64296813ed1aa]”; and
+- (c) for “the registrar of companies" or “the registrar” of “the Financial Conduct Authority[^c-cdb0a794c9759263e1c64296813ed1aa]”; and
 - (d) for “the articles" of “the rules”.
 
 (2) Subject to the following provisions of this Schedule in the application of the enactments to incorporated friendly societies—
@@ -47,19 +47,19 @@ and, in so far as they relate to offences under any such enactment, sections 430
 - (b) every reference to a director of a company shall be construed as a reference to a member of the committee of management; and
 - (c) every reference to an administrator, an administration order, an administrative receiver, a shadow director or a voluntary arrangement shall be omitted.
 
-**4.** (1) Where any of the enactments as applied to incorporated friendly societies requires a notice or other document to be sent to the FCA[^key-e8163f814d589443da8f657019fcc15c], it shall have effect as if it required the FCA to keep the notice or document in the public file of the society and to record in that file the date on which the notice or document is placed in it.
+**4.** (1) Where any of the enactments as applied to incorporated friendly societies requires a notice or other document to be sent to the FCA[^c-e8163f814d589443da8f657019fcc15c], it shall have effect as if it required the FCA to keep the notice or document in the public file of the society and to record in that file the date on which the notice or document is placed in it.
 
 (2) Where any of the enactments, as so applied, refers to the registration, or to the date of registration, of such a notice or document, that enactment shall have effect as if it referred to the placing of the notice or document in the public file or (as the case may be) to the date on which it was placed there.
 
 **5.** Any enactment which specifies a sum altered by order under section 416 of the [^c15391021]Insolvency Act 1986 or Article 362 of the [^c15391031]Insolvency (Northern Ireland) Order 1989 (powers to alter monetary limits) applies with the effect of the alteration.
 
-### Part II — Modified Application of Insolvency Act 1986 Parts IV , 6, 7, 12 and 13 and Schedule 10[^key-19bdabedc004229b3a90ea4b7721089f][^key-0ec46182bc1bac669e097b6cc245ffa6]
+### Part II — Modified Application of Insolvency Act 1986 Parts IV , 6, 7, 12 and 13 and Schedule 10[^c-19bdabedc004229b3a90ea4b7721089f][^c-0ec46182bc1bac669e097b6cc245ffa6]
 
 #### Preliminary
 
 **6.** In this Part of this Schedule, Part IV of the Insolvency Act 1986 is referred to as “Part IV"; and that Act is referred to as “the Act".
 
-**6A.**[^key-c2d129400971d438be8d86d1f0571bcf] Parts 4, 6, 7 and 12 of, and Schedule 10 to, the Act, in their application to incorporated friendly societies, have effect without the amendments of those Parts and that Schedule made by—
+**6A.**[^c-c2d129400971d438be8d86d1f0571bcf] Parts 4, 6, 7 and 12 of, and Schedule 10 to, the Act, in their application to incorporated friendly societies, have effect without the amendments of those Parts and that Schedule made by—
 
 - (a) section 122 of the Small Business, Enterprise and Employment Act 2015 (abolition of requirements to hold meetings: company insolvency);
 - (b) section 124 of that Act (ability for creditors to opt not to receive certain notices: company insolvency); and
@@ -144,7 +144,7 @@ and may also include conditions for securing that any default which occasioned t
 
 (2) Subsections (1) and (3) shall be omitted.
 
-(3) An incorporated friendly society shall, within 15 days of a winding-up order being made in respect of it, give notice of the order to the FCA and, if the society is a PRA-authorised person, the PRA[^key-cc027ca33fb462cedf97515a0c2ffc71]; and the FCA[^key-f5baf074e18ba802a6cec8b9c5168a38] shall keep the notice in the public file of the society.
+(3) An incorporated friendly society shall, within 15 days of a winding-up order being made in respect of it, give notice of the order to the FCA and, if the society is a PRA-authorised person, the PRA[^c-cc027ca33fb462cedf97515a0c2ffc71]; and the FCA[^c-f5baf074e18ba802a6cec8b9c5168a38] shall keep the notice in the public file of the society.
 
 (4) If an incorporated friendly society fails to comply with sub-paragraph (3) above, it shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
@@ -156,7 +156,7 @@ and may also include conditions for securing that any default which occasioned t
 
 **28.** Section 154 (adjustment of rights of contributories) of the Act shall have effect with the modification that any surplus is to be distributed in accordance with the rules of the society.
 
-**29.**[^key-d991a31e0b175f829a5683d566ac8888] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-d991a31e0b175f829a5683d566ac8888] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Winding up: general
 
@@ -166,7 +166,7 @@ and may also include conditions for securing that any default which occasioned t
 
 (2) Sections 202 to 204 (early dissolution) of the Act do not apply.
 
-**32.** In section 205 (dissolution: winding up by the court) of the Act, subsection (2) applies with the omission of the words from “and, subject" to the end of the subsection; and in subsections (3) and (4) references to the Secretary of State shall have effect as references to the FCA[^key-3c000efb7901836a49c0abbb2dc460a2].
+**32.** In section 205 (dissolution: winding up by the court) of the Act, subsection (2) applies with the omission of the words from “and, subject" to the end of the subsection; and in subsections (3) and (4) references to the Secretary of State shall have effect as references to the FCA[^c-3c000efb7901836a49c0abbb2dc460a2].
 
 #### Penal provisions
 
@@ -176,15 +176,15 @@ and may also include conditions for securing that any default which occasioned t
 
 (2) Sections 218(5) of the Act and subsections (1) and (2) of section 219 of the Act do not apply.
 
-(3) The references in subsections (3) and (4) of section 219 of the Act to the Secretary of State shall have effect as references to the FCA[^key-18a1f5e30598def89e69c0be7ee23aaa]; and the reference in subsection (3) to section 218 of the Act shall have effect as a reference to that section as supplemented by paragraph 35 below.
+(3) The references in subsections (3) and (4) of section 219 of the Act to the Secretary of State shall have effect as references to the FCA[^c-18a1f5e30598def89e69c0be7ee23aaa]; and the reference in subsection (3) to section 218 of the Act shall have effect as a reference to that section as supplemented by paragraph 35 below.
 
-**35.** (1) Where a report is made to the prosecuting authority (within the meaning of section 218) under section 218(4) of the Act, in relation to an officer of an incorporated friendly society, he may, if he thinks fit, refer the matter to the FCA[^key-898c221be1bb0e6c90b62a7f68d856db] for further enquiry.
+**35.** (1) Where a report is made to the prosecuting authority (within the meaning of section 218) under section 218(4) of the Act, in relation to an officer of an incorporated friendly society, he may, if he thinks fit, refer the matter to the FCA[^c-898c221be1bb0e6c90b62a7f68d856db] for further enquiry.
 
 (2) On such a reference to it the FCA shall exercise its power under section 65(1) above to appoint one or more investigators to investigate and report on the matter.
 
 (3) An answer given by a person to a question put to him, in exercise of the powers conferred by section 65 above on a person so appointed, may be used in evidence against the person giving it.
 
-#### Protection of supplies[^key-19eba60bf6376161ad607416d9892ea7]
+#### Protection of supplies[^c-19eba60bf6376161ad607416d9892ea7]
 
 **35A.** Section 233B of the Act (protection of supplies of goods and services) does not apply.
 
@@ -192,7 +192,7 @@ and may also include conditions for securing that any default which occasioned t
 
 **36.** Section 387 (meaning in Schedule 6 of “the relevant date") of the Act applies with the omission of subsections (2) and (4) to (6).
 
-#### Insolvency practitioners: their qualification and regulation[^key-e756bfe4301be8d0d4182452b6158520]
+#### Insolvency practitioners: their qualification and regulation[^c-e756bfe4301be8d0d4182452b6158520]
 
 **36A.** Section 390 of the Act (persons not qualified to act as insolvency practitioners) has effect as if for subsection (2) there were substituted—
 
@@ -290,7 +290,7 @@ and may also include conditions for securing that any default which occasioned t
 
 (2) Paragraphs (1) and (3) shall be omitted.
 
-(3) An incorporated friendly society shall, within 15 days of a winding-up order being made in respect of it, give notice of the order to the FCA and, if the society is a PRA-authorised person, the PRA[^key-c7d0680115764b3c50fe15f2f59580c4]; and the FCA[^key-cb18e01768b2006e4319207320493eea] shall keep the notice in the public file of the society.
+(3) An incorporated friendly society shall, within 15 days of a winding-up order being made in respect of it, give notice of the order to the FCA and, if the society is a PRA-authorised person, the PRA[^c-c7d0680115764b3c50fe15f2f59580c4]; and the FCA[^c-cb18e01768b2006e4319207320493eea] shall keep the notice in the public file of the society.
 
 (4) If an incorporated friendly society fails to comply with sub-paragraph (3) above, it shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
@@ -302,7 +302,7 @@ and may also include conditions for securing that any default which occasioned t
 
 **58.** Article 132 (adjustment of rights of contributories) of the Order shall have effect with the modification that any surplus is to be distributed in accordance with the rules of the society.
 
-**59.**[^key-e98e04ff81538387465b9b9f7e36ef34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-e98e04ff81538387465b9b9f7e36ef34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Winding up: general
 
@@ -312,7 +312,7 @@ and may also include conditions for securing that any default which occasioned t
 
 (2) Articles 167 and 168 (early dissolution) of the Order do not apply.
 
-**62.** In Article 169 (dissolution: winding up by the High Court) of the Order, paragraph (1) applies with the omission of the words from “and, subject" to the end of the paragraph; and in paragraphs (2) and (3) references to the Department shall have effect as references to the FCA and the PRA[^key-4c5a41dad50aa2c86611669dae456d15].
+**62.** In Article 169 (dissolution: winding up by the High Court) of the Order, paragraph (1) applies with the omission of the words from “and, subject" to the end of the paragraph; and in paragraphs (2) and (3) references to the Department shall have effect as references to the FCA and the PRA[^c-4c5a41dad50aa2c86611669dae456d15].
 
 #### Penal provisions
 
@@ -322,9 +322,9 @@ and may also include conditions for securing that any default which occasioned t
 
 (2) Articles 182(4) and 183(1) and (2) of the Order do not apply.
 
-(3) The references in paragraph (3) and (5) of Article 183 of the Order to the Department shall have effect as references to the FCA[^key-72986ad90041284bdf85b5e5b464b15d]; and the reference in paragraph (3) to Article 182 of the Order shall have effect as a reference to that Article as supplemented by paragraph 65 below.
+(3) The references in paragraph (3) and (5) of Article 183 of the Order to the Department shall have effect as references to the FCA[^c-72986ad90041284bdf85b5e5b464b15d]; and the reference in paragraph (3) to Article 182 of the Order shall have effect as a reference to that Article as supplemented by paragraph 65 below.
 
-**65.** (1) Where a report is made to the prosecuting authority (within the meaning of Article 182) under Article 182(5) of the Order, in relation to an officer of an incorporated friendly society, he may, if he thinks fit, refer the matter to the FCA[^key-64546700b2d78caedf989c0bb6f35f63] for further enquiry.
+**65.** (1) Where a report is made to the prosecuting authority (within the meaning of Article 182) under Article 182(5) of the Order, in relation to an officer of an incorporated friendly society, he may, if he thinks fit, refer the matter to the FCA[^c-64546700b2d78caedf989c0bb6f35f63] for further enquiry.
 
 (2) On such a reference to it the FCA shall exercise its power under section 65(1) above to appoint one or more investigators to investigate and report on the matter.
 
@@ -334,7 +334,7 @@ and may also include conditions for securing that any default which occasioned t
 
 **66.** Article 347 (meaning in Schedule 4 of “the relevant date") of the Order applies with the omission of paragraphs (2) and (4) to (6).
 
-#### Insolvency practitioners: their qualification and regulation[^key-2d43d379d9d724761592b343d85566e5]
+#### Insolvency practitioners: their qualification and regulation[^c-2d43d379d9d724761592b343d85566e5]
 
 **66A.** Article 349 of the Order (persons not qualified to act as insolvency practitioners) has effect as if for paragraph (2) there were substituted—
 
@@ -363,11 +363,11 @@ and may also include conditions for securing that any default which occasioned t
 - (a) section 172(8) of the [^c15391211]Insolvency Act 1986 (as applied to incorporated friendly societies) or on such other date as is determined in accordance with section 205 of that Act; or
 - (b) Article 146(7) of the Insolvency (Northern Ireland) Order 1989 (as so applied) or on such other date as is determined in accordance with Article 169 of that Order.
 
-**68.** (1)[^key-096e97969857abf42ca81e146c170d29] Sections 1012 to 1023 and 1034 of the Companies Act 2006 (property of dissolved company) apply in relation to the property of a dissolved incorporated friendly society (whether dissolved under section 20 or following its winding up) as they apply in relation to the property of a dissolved company.
+**68.** (1)[^c-096e97969857abf42ca81e146c170d29] Sections 1012 to 1023 and 1034 of the Companies Act 2006 (property of dissolved company) apply in relation to the property of a dissolved incorporated friendly society (whether dissolved under section 20 or following its winding up) as they apply in relation to the property of a dissolved company.
 
 (2) Paragraph 3(1) above shall apply to those sections for the purpose of their application to incorporated friendly societies.
 
-(3)[^key-5a7d2af08dfda08923c6917fa48a2242] Any reference in those sections to restoration to the register shall be read as a reference to the effect of an order under section 25 of this Act.
+(3)[^c-5a7d2af08dfda08923c6917fa48a2242] Any reference in those sections to restoration to the register shall be read as a reference to the effect of an order under section 25 of this Act.
 
 #### Insolvency rules and fees
 
@@ -388,59 +388,59 @@ for the purpose of giving effect, in relation to incorporated friendly societies
 
 [^c15390951]: Marginal citation: [S.I. 1989/2405 (N.I.19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
-[^key-8c4bf8511a078b0becc88dc45f2682da]: Textual amendment: Words in [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 133(7)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/133/7/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-8c4bf8511a078b0becc88dc45f2682da]: Textual amendment: Words in [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/2) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 133(7)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/133/7/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-cdb0a794c9759263e1c64296813ed1aa]: Textual amendment: Words in [Sch. 10 para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/3/1/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-cdb0a794c9759263e1c64296813ed1aa]: Textual amendment: Words in [Sch. 10 para. 3(1)(c)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/3/1/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15390991]: Textual amendment: [Sch. 10 para. 3(2)(aa)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/3/2/aa) inserted (17.8.2001 for specified purposes and otherwise 1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [8(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/8/1), [13(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/1), [Sch. 3 para. 123(b)](https://www.legislation.gov.uk/uksi/2001/2617/schedule/3/paragraph/123/b) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 
-[^key-e8163f814d589443da8f657019fcc15c]: Textual amendment: Word in [Sch. 10 para. 4(1)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/4/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-e8163f814d589443da8f657019fcc15c]: Textual amendment: Word in [Sch. 10 para. 4(1)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/4/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15391021]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
 [^c15391031]: Marginal citation: [S.I. 1989/2405 (N.I.19)](https://www.legislation.gov.uk/nisi/1989/2405).
 
-[^key-19bdabedc004229b3a90ea4b7721089f]: Textual amendment: Words in [Sch. 10 Pt. II](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/part/II) heading substituted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2017/400/regulation/3/a)
+[^c-19bdabedc004229b3a90ea4b7721089f]: Textual amendment: Words in [Sch. 10 Pt. II](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/part/II) heading substituted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2017/400/regulation/3/a)
 
-[^key-0ec46182bc1bac669e097b6cc245ffa6]: Textual amendment: Words in [Sch. 10 Pt. II](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/part/II) heading inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2018/208/regulation/3/a)
+[^c-0ec46182bc1bac669e097b6cc245ffa6]: Textual amendment: Words in [Sch. 10 Pt. II](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/part/II) heading inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2018/208/regulation/3/a)
 
-[^key-c2d129400971d438be8d86d1f0571bcf]: Textual amendment: [Sch. 10 para. 6A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/6A) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/3/b)
+[^c-c2d129400971d438be8d86d1f0571bcf]: Textual amendment: [Sch. 10 para. 6A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/6A) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/3/b)
 
 [^c15391041]: Textual amendment: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/1992/40/schedule/2/paragraph/22) repealed (N.I.) (7.2.1994) by [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49), [s. 182(1)](https://www.legislation.gov.uk/ukpga/1993/49/section/182/1), [Sch. 4 Pt.I](https://www.legislation.gov.uk/ukpga/1993/49/schedule/4/part/I); [S.R. 1994/17](https://www.legislation.gov.uk/nisr/1994/17), [art. 2](https://www.legislation.gov.uk/nisr/1994/17/article/2)
 
 [^c15391051]: Textual amendment: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/1992/40/schedule/2/paragraph/23) repealed (N.I.) (7.2.1994) by [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49), [s. 182(1)](https://www.legislation.gov.uk/ukpga/1993/49/section/182/1), [Sch. 4 Pt.I](https://www.legislation.gov.uk/ukpga/1993/49/schedule/4/part/I); [S.R. 1994/17](https://www.legislation.gov.uk/nisr/1994/17), [art. 2](https://www.legislation.gov.uk/nisr/1994/17/article/2)
 
-[^key-cc027ca33fb462cedf97515a0c2ffc71]: Textual amendment: Words in [Sch. 10 para. 24(3)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/24/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(4)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/4/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-cc027ca33fb462cedf97515a0c2ffc71]: Textual amendment: Words in [Sch. 10 para. 24(3)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/24/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(4)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/4/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-f5baf074e18ba802a6cec8b9c5168a38]: Textual amendment: Word in [Sch. 10 para. 24(3)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/24/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(4)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/4/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-f5baf074e18ba802a6cec8b9c5168a38]: Textual amendment: Word in [Sch. 10 para. 24(3)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/24/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(4)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/4/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-d991a31e0b175f829a5683d566ac8888]: Textual amendment: [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/29) repealed (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 71(1)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/71/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/2194/schedule/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12), [Sch. 4 para. 71(2)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/71/2))
+[^c-d991a31e0b175f829a5683d566ac8888]: Textual amendment: [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/29) repealed (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 71(1)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/71/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/2194/schedule/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12), [Sch. 4 para. 71(2)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/71/2))
 
-[^key-3c000efb7901836a49c0abbb2dc460a2]: Textual amendment: Word in [Sch. 10 para. 32](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/32) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-3c000efb7901836a49c0abbb2dc460a2]: Textual amendment: Word in [Sch. 10 para. 32](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/32) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-18a1f5e30598def89e69c0be7ee23aaa]: Textual amendment: Word in [Sch. 10 para. 34(3)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/34/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-18a1f5e30598def89e69c0be7ee23aaa]: Textual amendment: Word in [Sch. 10 para. 34(3)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/34/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-898c221be1bb0e6c90b62a7f68d856db]: Textual amendment: Word in [Sch. 10 para. 35](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/35) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-898c221be1bb0e6c90b62a7f68d856db]: Textual amendment: Word in [Sch. 10 para. 35](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/35) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-19eba60bf6376161ad607416d9892ea7]: Textual amendment: [Sch. 10 para. 35A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/35A) and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2020/12/schedule/12/paragraph/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [14(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/14/4))
+[^c-19eba60bf6376161ad607416d9892ea7]: Textual amendment: [Sch. 10 para. 35A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/35A) and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2020/12/schedule/12/paragraph/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [14(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/14/4))
 
-[^key-e756bfe4301be8d0d4182452b6158520]: Textual amendment: [Sch. 10 paras. 36A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/36A), [36B](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/36B) and cross-heading inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2017/400/regulation/3/b)
+[^c-e756bfe4301be8d0d4182452b6158520]: Textual amendment: [Sch. 10 paras. 36A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/36A), [36B](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/36B) and cross-heading inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2017/400/regulation/3/b)
 
 [^c15391121]: Marginal citation: [S.I. 1989/2405 (N.I.19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-c7d0680115764b3c50fe15f2f59580c4]: Textual amendment: Words in [Sch. 10 para. 54(3)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/54/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(6)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/6/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-c7d0680115764b3c50fe15f2f59580c4]: Textual amendment: Words in [Sch. 10 para. 54(3)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/54/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(6)(a)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/6/a) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-cb18e01768b2006e4319207320493eea]: Textual amendment: Word in [Sch. 10 para. 54(3)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/54/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(6)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/6/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-cb18e01768b2006e4319207320493eea]: Textual amendment: Word in [Sch. 10 para. 54(3)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/54/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(6)(b)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/6/b) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-e98e04ff81538387465b9b9f7e36ef34]: Textual amendment: [Sch. 10 para. 59](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/59) repealed (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 71(1)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/71/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/2194/schedule/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12), [Sch. 4 para. 71(2)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/71/2))
+[^c-e98e04ff81538387465b9b9f7e36ef34]: Textual amendment: [Sch. 10 para. 59](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/59) repealed (1.10.2007) by [The Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 71(1)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/71/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/2194/schedule/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12), [Sch. 4 para. 71(2)](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/71/2))
 
-[^key-4c5a41dad50aa2c86611669dae456d15]: Textual amendment: Words in [Sch. 10 para. 62](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/62) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(7)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/7) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-4c5a41dad50aa2c86611669dae456d15]: Textual amendment: Words in [Sch. 10 para. 62](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/62) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(7)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/7) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-72986ad90041284bdf85b5e5b464b15d]: Textual amendment: Word in [Sch. 10 para. 64](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/64) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(8)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/8) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-72986ad90041284bdf85b5e5b464b15d]: Textual amendment: Word in [Sch. 10 para. 64](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/64) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(8)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/8) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-64546700b2d78caedf989c0bb6f35f63]: Textual amendment: Word in [Sch. 10 para. 65](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/65) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(8)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/8) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-64546700b2d78caedf989c0bb6f35f63]: Textual amendment: Word in [Sch. 10 para. 65](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/65) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 53(8)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/53/8) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-2d43d379d9d724761592b343d85566e5]: Textual amendment: [Sch. 10 paras. 66A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/66A), [66B](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/66B) and cross-heading inserted (3.10.2017) by [The Friendly Societies Act 1992 (Modification of Part 2) (Northern Ireland) Order 2017 (S.I. 2017/906)](https://www.legislation.gov.uk/uksi/2017/906), [arts. 1](https://www.legislation.gov.uk/uksi/2017/906/article/1), [2](https://www.legislation.gov.uk/uksi/2017/906/article/2)
+[^c-2d43d379d9d724761592b343d85566e5]: Textual amendment: [Sch. 10 paras. 66A](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/66A), [66B](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/66B) and cross-heading inserted (3.10.2017) by [The Friendly Societies Act 1992 (Modification of Part 2) (Northern Ireland) Order 2017 (S.I. 2017/906)](https://www.legislation.gov.uk/uksi/2017/906), [arts. 1](https://www.legislation.gov.uk/uksi/2017/906/article/1), [2](https://www.legislation.gov.uk/uksi/2017/906/article/2)
 
 [^c15391191]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
@@ -448,6 +448,6 @@ for the purpose of giving effect, in relation to incorporated friendly societies
 
 [^c15391211]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-096e97969857abf42ca81e146c170d29]: Textual amendment: [Sch. 10 para. 68(1)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/68/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 133(7)(b)(i)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/133/7/b/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-096e97969857abf42ca81e146c170d29]: Textual amendment: [Sch. 10 para. 68(1)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/68/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 133(7)(b)(i)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/133/7/b/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-5a7d2af08dfda08923c6917fa48a2242]: Textual amendment: [Sch. 10 para. 68(3)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/68/3) substituted for [Sch. 10](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10) [para. 68(3)(4)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/68/3) (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 133(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/133/7/b/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-5a7d2af08dfda08923c6917fa48a2242]: Textual amendment: [Sch. 10 para. 68(3)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/68/3) substituted for [Sch. 10](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10) [para. 68(3)(4)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10/paragraph/68/3) (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 133(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/133/7/b/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

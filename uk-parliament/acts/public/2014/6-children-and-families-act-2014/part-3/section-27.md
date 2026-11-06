@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Duty to keep education and care provision under review[^key-ab53130c1ac5c330fc52430bb346d94c]
+## 27. Duty to keep education and care provision under review[^c-ab53130c1ac5c330fc52430bb346d94c]
 
 *Extent: E+W*
 
@@ -31,8 +31,8 @@ summary: ''
 
 (3) In exercising its functions under this section, the authority must consult—
 
-- (a)[^key-682f5b09d0170b9a4c69d12553d97f1f] children and young people in its area with special educational needs, and the parents of children in its area with special educational needs;
-- (b)[^key-682f5b09d0170b9a4c69d12553d97f1f] children and young people in its area who have a disability, and the parents of children in its area who have a disability;
+- (a)[^c-682f5b09d0170b9a4c69d12553d97f1f] children and young people in its area with special educational needs, and the parents of children in its area with special educational needs;
+- (b)[^c-682f5b09d0170b9a4c69d12553d97f1f] children and young people in its area who have a disability, and the parents of children in its area who have a disability;
 - (c) the governing bodies of maintained schools and maintained nursery schools in its area;
 - (d) the proprietors of Academies in its area;
 - (e) the governing bodies, proprietors or principals of post-16 institutions in its area;
@@ -47,14 +47,14 @@ summary: ''
   - (ii) children or young people in its area who have a disability;
 - (k) such other persons as the authority thinks appropriate.
 
-(4) Section 116B of the Local Government and Public Involvement in Health Act 2007 (duty to have regard to assessment of relevant needs and joint local[^key-8920d61e064baf0d93b088e3be2771a7] health and wellbeing strategy) applies in relation to functions exercisable under this section.
+(4) Section 116B of the Local Government and Public Involvement in Health Act 2007 (duty to have regard to assessment of relevant needs and joint local[^c-8920d61e064baf0d93b088e3be2771a7] health and wellbeing strategy) applies in relation to functions exercisable under this section.
 
 (5) “**Children's centre**” has the meaning given by section 5A(4) of the Childcare Act 2006.
 
 ## Annotations
 
-[^key-ab53130c1ac5c330fc52430bb346d94c]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2014/6/section/27) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505) and (1.9.2015) by [S.I. 2015/1619](https://www.legislation.gov.uk/uksi/2015/1619))
+[^c-ab53130c1ac5c330fc52430bb346d94c]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2014/6/section/27) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505) and (1.9.2015) by [S.I. 2015/1619](https://www.legislation.gov.uk/uksi/2015/1619))
 
-[^key-682f5b09d0170b9a4c69d12553d97f1f]: Modification: [S. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/27/3/a)[(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/27/3/b) modified (1.9.2014) by [The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530)](https://www.legislation.gov.uk/uksi/2014/1530), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1530/regulation/1), [64(1)(a)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/1/a), [64(2)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1530/schedule/3/part/1)
+[^c-682f5b09d0170b9a4c69d12553d97f1f]: Modification: [S. 27(3)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/27/3/a)[(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/27/3/b) modified (1.9.2014) by [The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530)](https://www.legislation.gov.uk/uksi/2014/1530), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1530/regulation/1), [64(1)(a)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/1/a), [64(2)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1530/schedule/3/part/1)
 
-[^key-8920d61e064baf0d93b088e3be2771a7]: Textual amendment: Word in [s. 27(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/27/4) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 26(7)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/26/7/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-8920d61e064baf0d93b088e3be2771a7]: Textual amendment: Word in [s. 27(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/27/4) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 26(7)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/26/7/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

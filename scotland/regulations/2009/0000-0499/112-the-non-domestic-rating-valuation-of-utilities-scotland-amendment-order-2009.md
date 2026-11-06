@@ -32,7 +32,7 @@ summary: ''
 
 RATING AND VALUATION
 
-The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2009 (revoked)[^key-47c7f39466c767c36817f2ce1a993cf5]
+The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment Order 2009 (revoked)[^c-47c7f39466c767c36817f2ce1a993cf5]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st April 2010
 
-[^key-47c7f39466c767c36817f2ce1a993cf5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47c7f39466c767c36817f2ce1a993cf5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-47c7f39466c767c36817f2ce1a993cf5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005[^key-47c7f39466c767c36817f2ce1a993cf5]
+## 1. Citation and commencement[^c-47c7f39466c767c36817f2ce1a993cf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fixed Line Telecommunications[^key-47c7f39466c767c36817f2ce1a993cf5]
+## 2. Amendment of the Non-Domestic Rating (Valuation of Utilities) (Scotland) Order 2005[^c-47c7f39466c767c36817f2ce1a993cf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-47c7f39466c767c36817f2ce1a993cf5]
+## 3. Fixed Line Telecommunications[^c-47c7f39466c767c36817f2ce1a993cf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-47c7f39466c767c36817f2ce1a993cf5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 4.[^c-47c7f39466c767c36817f2ce1a993cf5]
 
-[^key-47c7f39466c767c36817f2ce1a993cf5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-47c7f39466c767c36817f2ce1a993cf5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-47c7f39466c767c36817f2ce1a993cf5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-47c7f39466c767c36817f2ce1a993cf5]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/112) revoked (31.3.2010) by [The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment (No. 2) Order 2010 (S.S.I. 2010/78)](https://www.legislation.gov.uk/ssi/2010/78), [arts. 3](https://www.legislation.gov.uk/ssi/2010/78/article/3), [5](https://www.legislation.gov.uk/ssi/2010/78/article/5)
+[^c-47c7f39466c767c36817f2ce1a993cf5]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2009/112) revoked (31.3.2010) by [The Non-Domestic Rating (Valuation of Utilities) (Scotland) Amendment (No. 2) Order 2010 (S.S.I. 2010/78)](https://www.legislation.gov.uk/ssi/2010/78), [arts. 3](https://www.legislation.gov.uk/ssi/2010/78/article/3), [5](https://www.legislation.gov.uk/ssi/2010/78/article/5)

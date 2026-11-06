@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 2.1. Application of the Rules[^key-161638efb3336a1203de26faff258a80]
+## 2.1. Application of the Rules[^c-161638efb3336a1203de26faff258a80]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-161638efb3336a1203de26faff258a80]: Commencement: [Rule 2.1](https://www.legislation.gov.uk/uksi/2015/1568/article/2.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-161638efb3336a1203de26faff258a80]: Commencement: [Rule 2.1](https://www.legislation.gov.uk/uksi/2015/1568/article/2.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

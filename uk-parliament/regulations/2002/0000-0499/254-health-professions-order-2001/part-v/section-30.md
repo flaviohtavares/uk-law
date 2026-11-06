@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Review of orders by the Health Committee and the Conduct and Competence Committee[^key-456b2c35e4951ed34e67fd28aed6b54c][^key-d3a09d1a98932448cc4c0218d41205e3]
+## 30. Review of orders by the Health Committee and the Conduct and Competence Committee[^c-456b2c35e4951ed34e67fd28aed6b54c][^c-d3a09d1a98932448cc4c0218d41205e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 (8) A striking-off order, conditions of practice order, suspension order or caution order which is in force by virtue of a decision made on appeal to the appropriate court may be reviewed in accordance with paragraph (2) or (7), as the case may be, by the Committee which made the order appealed from and any of the steps mentioned in paragraph (4) may be taken.
 
-(9)[^key-a46ca9fd98e35963ef9f3a894759c618] Before exercising its powers under paragraph (1), (2), (4), (6), (7) or (8), a Practice Committee shall give the person concerned the opportunity to appear before it and to argue his case in accordance with rules made by the Council which shall include the matters referred to in article 32(2)(b), (g), (i), (j), (k), (m), (n) and (o).
+(9)[^c-a46ca9fd98e35963ef9f3a894759c618] Before exercising its powers under paragraph (1), (2), (4), (6), (7) or (8), a Practice Committee shall give the person concerned the opportunity to appear before it and to argue his case in accordance with rules made by the Council which shall include the matters referred to in article 32(2)(b), (g), (i), (j), (k), (m), (n) and (o).
 
 (10) The person concerned may appeal to the appropriate court against an order or decision made under paragraph (1), (2), (4), (6), (7) or (8).
 
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-456b2c35e4951ed34e67fd28aed6b54c]: Commencement: Art. 30 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-456b2c35e4951ed34e67fd28aed6b54c]: Commencement: Art. 30 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-d3a09d1a98932448cc4c0218d41205e3]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2002/254/article/30) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
+[^c-d3a09d1a98932448cc4c0218d41205e3]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2002/254/article/30) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
 
-[^key-a46ca9fd98e35963ef9f3a894759c618]: Commencement: [Art. 30(9)](https://www.legislation.gov.uk/uksi/2002/254/article/30/9) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
+[^c-a46ca9fd98e35963ef9f3a894759c618]: Commencement: [Art. 30(9)](https://www.legislation.gov.uk/uksi/2002/254/article/30/9) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)

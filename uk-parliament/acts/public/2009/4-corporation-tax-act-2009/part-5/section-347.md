@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 347. Disapplication of Chapter where transferor party to avoidance[^key-d6acbadf2e9a9adcd4cdc96e06aba0bc]
+## 347. Disapplication of Chapter where transferor party to avoidance[^c-d6acbadf2e9a9adcd4cdc96e06aba0bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6acbadf2e9a9adcd4cdc96e06aba0bc]: Textual amendment: S. 347 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/27)
+[^c-d6acbadf2e9a9adcd4cdc96e06aba0bc]: Textual amendment: S. 347 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/27)

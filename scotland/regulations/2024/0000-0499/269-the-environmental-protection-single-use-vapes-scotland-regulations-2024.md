@@ -48,13 +48,13 @@ In accordance with section 160A(7) of that Act[^f00003], a draft of this instrum
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-6692e3573cedb832f567d91060cdeeed]
+### 1. Citation, commencement and extent[^c-6692e3573cedb832f567d91060cdeeed]
 
-(1) These Regulations may be cited as the Environmental Protection (Single-use Vapes) (Scotland) Regulations 2024 and come into force on 1 June[^key-b10d8158ef2a26988e3749d62a0c4477] 2025.
+(1) These Regulations may be cited as the Environmental Protection (Single-use Vapes) (Scotland) Regulations 2024 and come into force on 1 June[^c-b10d8158ef2a26988e3749d62a0c4477] 2025.
 
 (2) These Regulations extend to Scotland only.
 
-### 2. Interpretation[^key-3cdbdda17f61de6b818ab302d787680d]
+### 2. Interpretation[^c-3cdbdda17f61de6b818ab302d787680d]
 
 In these Regulations—
 
@@ -70,7 +70,7 @@ In these Regulations—
 - “**vaping substance**” means a substance, other than tobacco, that is intended to be vaporised with a vape,
 - “**vaporises**” includes aerosolises and “**vaporised**” is to be construed accordingly.
 
-### 3. Meaning of single-use vape[^key-5e1dc98ffac15be3040d52c6d7c9178a]
+### 3. Meaning of single-use vape[^c-5e1dc98ffac15be3040d52c6d7c9178a]
 
 (1) For the purposes of these Regulations, a single-use vape is a vape which is not designed or intended to be re-used (a “single-use vape”), and includes any vape which is—
 
@@ -92,7 +92,7 @@ In these Regulations—
 
 ## PART 2 — Offences
 
-### 4. Offence: supply of single-use vapes[^key-1be4f912af937f3ee884816cb90ea3c2]
+### 4. Offence: supply of single-use vapes[^c-1be4f912af937f3ee884816cb90ea3c2]
 
 (1) A person who supplies, offers to supply, or has in their possession for supply, a single-use vape, commits an offence.
 
@@ -101,13 +101,13 @@ In these Regulations—
 - (a) on summary conviction to a fine not exceeding level 5 on the standard scale,
 - (b) on conviction on indictment, to a term of imprisonment not exceeding 2 years, or a fine, or both.
 
-### 5. Offence: failure to comply with an enforcement requirement[^key-4348e22f665cd407afe13e75f5fb30ac]
+### 5. Offence: failure to comply with an enforcement requirement[^c-4348e22f665cd407afe13e75f5fb30ac]
 
-(1) A person who fails without reasonable excuse to comply with any requirement imposed in the exercise of an enforcement officer’s[^key-6ce664b8e4196eb4c71c3d79aa9b7b0b] powers under regulation 9(1)(c)(iii), (i) or (k) commits an offence.
+(1) A person who fails without reasonable excuse to comply with any requirement imposed in the exercise of an enforcement officer’s[^c-6ce664b8e4196eb4c71c3d79aa9b7b0b] powers under regulation 9(1)(c)(iii), (i) or (k) commits an offence.
 
 (2) A person who commits an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 6. Offences by bodies corporate[^key-1ce2e5f857bc2305af3ef2695727d0d1]
+### 6. Offences by bodies corporate[^c-1ce2e5f857bc2305af3ef2695727d0d1]
 
 (1) Where—
 
@@ -126,7 +126,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 - (b) in relation to a Scottish partnership, a partner,
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-### 7. Defence of due diligence[^key-da487b3cfa0de7c4d35bf3a548885d4f]
+### 7. Defence of due diligence[^c-da487b3cfa0de7c4d35bf3a548885d4f]
 
 (1) Where a person is charged with an offence under these Regulations, it is a defence for that person to show that the person took all reasonable precautions and exercised all due diligence to prevent the offence being committed.
 
@@ -134,13 +134,13 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 
 ## PART 3 — Enforcement and Investigatory Powers
 
-### 8. Enforcement[^key-870e7a40e405ffe86fd60aeb54bd95a4]
+### 8. Enforcement[^c-870e7a40e405ffe86fd60aeb54bd95a4]
 
 (1) A local authority may authorise any person to exercise in its area, for an authorised purpose and in accordance with the terms of the authorisation, any of the powers specified in regulation 9, if that person appears suitable to exercise them.
 
 (2) An authorisation under paragraph (1) must be in writing.
 
-### 9. Powers of entry, investigation and examination etc.[^key-e9e141f32d1544ad76325a98f4b1ade6]
+### 9. Powers of entry, investigation and examination etc.[^c-e9e141f32d1544ad76325a98f4b1ade6]
 
 (1) The powers which an enforcement officer may be authorised to exercise are—
 
@@ -153,13 +153,13 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
   - (ii) to take such measurements and photographs and make such recordings as the enforcement officer considers necessary for the purpose of any examination or investigation, and
   - (iii) to require any person to produce, or where the information is recorded in computerised form, to furnish extracts from, any documents which it is necessary for the enforcement officer to see for the purposes of any such examination or investigation and to inspect and take copies of the documents,
 - (d) as regards any premises which an enforcement officer has power to enter under sub-paragraph (a), to direct that those premises or any part of them, or anything in them, be left undisturbed (whether generally or in particular respects) for so long as is reasonably necessary for the purpose of examination or investigation under sub-paragraph (c),
-- (e)[^key-9a353c07f66d5ff1b3c64c253053aab7] to take any samples, or cause samples to be taken, of any vape or component of a vape, which appears to that enforcement officer to be a single-use vape or component of single-use vape found in or on any premises which an enforcement officer has power to enter under sub-paragraph (a), and to cause any such samples to be analysed or tested,
-- (f)[^key-84eaa7ef4ec5d9d0dc06daded3e003be] in the case of any vape or component of a vape which appears to that enforcement officer to be a single-use vape or component of a single-use vape found in any premises which an enforcement officer has power to enter, to cause it to be dismantled or subjected to any process or test (but not so as to damage or destroy it, unless that is necessary),
-- (g) in the case of any vape or component of a vape which appears to that enforcement officer to be a single-use vape or component of a single-use vape[^key-0b86e6cee2662224ad85668c8a7a3dd9] found in or on any premises which an enforcement officer has power to enter under sub-paragraph (a) to take possession of it and to retain it for so long as is necessary for all or any of the following purposes—
+- (e)[^c-9a353c07f66d5ff1b3c64c253053aab7] to take any samples, or cause samples to be taken, of any vape or component of a vape, which appears to that enforcement officer to be a single-use vape or component of single-use vape found in or on any premises which an enforcement officer has power to enter under sub-paragraph (a), and to cause any such samples to be analysed or tested,
+- (f)[^c-84eaa7ef4ec5d9d0dc06daded3e003be] in the case of any vape or component of a vape which appears to that enforcement officer to be a single-use vape or component of a single-use vape found in any premises which an enforcement officer has power to enter, to cause it to be dismantled or subjected to any process or test (but not so as to damage or destroy it, unless that is necessary),
+- (g) in the case of any vape or component of a vape which appears to that enforcement officer to be a single-use vape or component of a single-use vape[^c-0b86e6cee2662224ad85668c8a7a3dd9] found in or on any premises which an enforcement officer has power to enter under sub-paragraph (a) to take possession of it and to retain it for so long as is necessary for all or any of the following purposes—
   - (i) to examine it, and subject it to any process or test, or cause it to be examined, and subjected to any process or test,
   - (ii) to ensure that it is not tampered with before the examination is completed,
   - (iii) to ensure that it is available for use as evidence in any proceedings for an offence under these Regulations,
-  - (iv)[^key-559dff30880aa737ed10d0aec1d80181] to ensure that it is retained for the purposes of compliance with any direction given by the Scottish Ministers under regulation 14,
+  - (iv)[^c-559dff30880aa737ed10d0aec1d80181] to ensure that it is retained for the purposes of compliance with any direction given by the Scottish Ministers under regulation 14,
 - (h) as regards any premises which an enforcement officer has power to enter under sub-paragraph (a), to search the premises and seize and remove any documents found in or on the premises which the enforcement officer has reasonable cause to believe may be required as evidence for the purposes of proceedings relating to an offence under regulation 4 which the enforcement officer reasonably believes is being or has been committed,
 - (i) to require any person to afford the enforcement officer such facilities and assistance with respect to any matters or things within the person’s control or in relation to which that person has responsibilities as are necessary to enable the enforcement officer to exercise any of the powers conferred on the enforcement officers by this regulation,
 - (j) as regards any premises which an enforcement officer has power to enter under sub-paragraph (a), to make a purchase of a single-use vape or enter into an agreement to secure the provision of a single-use vape, without first giving notice, or obtaining a warrant,
@@ -187,7 +187,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 
 (7) In this regulation, “**document**” includes any thing in which information of any description is recorded (by any means) and any part of such a thing.
 
-### 10. Warrants[^key-78f36cde0e88353d3d0924c78398f2d6]
+### 10. Warrants[^c-78f36cde0e88353d3d0924c78398f2d6]
 
 (1) A sheriff, summary sheriff or justice of the peace may by warrant authorise an enforcement officer to enter premises in accordance with the warrant and, if need by, by force,
 
@@ -210,7 +210,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 
 (6) A warrant issued under this regulation continues in force until the purpose for which the entry is required has been satisfied.
 
-### 11. Power to give a fixed penalty notice[^key-2cda8e6f0bc4059bb166ce01e2518df2][^key-3e461b536cf9304bac97e481db102f30]
+### 11. Power to give a fixed penalty notice[^c-2cda8e6f0bc4059bb166ce01e2518df2][^c-3e461b536cf9304bac97e481db102f30]
 
 (1) If an enforcement officer has reason to believe that a person is committing or has committed an offence under regulation 4(1) of these Regulations, the enforcement officer may give that person a fixed penalty notice.
 
@@ -243,7 +243,7 @@ is evidence of the facts stated.
 
 (9) In this Part, “**fixed penalty notice**” means a notice offering a person the opportunity of discharging any liability to conviction for an offence under regulation 4(1) of these Regulations by payment of a fixed penalty.
 
-### 12. Contents of a fixed penalty notice[^key-c9e46a4c3286212b1d732711a627f6b9]
+### 12. Contents of a fixed penalty notice[^c-c9e46a4c3286212b1d732711a627f6b9]
 
 A fixed penalty notice must—
 
@@ -255,7 +255,7 @@ A fixed penalty notice must—
 - (f) explain that should the person choose not to accept the offer to discharge liability for the offence by payment of a fixed penalty, that person may be prosecuted for that offence,
 - (g) state the person to whom the fixed penalty may be paid, and the address at which the fixed penalty may be paid.
 
-### 13. Fixed penalty amounts and payment periods[^key-aabbf44f377530967c01f68eb6744044]
+### 13. Fixed penalty amounts and payment periods[^c-aabbf44f377530967c01f68eb6744044]
 
 (1) Subject to paragraph (2), the fixed penalty amount and discounted amount for an offence under regulation 4(1) are—
 
@@ -279,7 +279,7 @@ Table 1
 | Two | 600 | 550 |
 | Three | 800 | 750 |
 
-### 14. Disposal of single-use vapes[^key-ac2dd042aa472a75b474b8d91d3dd877]
+### 14. Disposal of single-use vapes[^c-ac2dd042aa472a75b474b8d91d3dd877]
 
 (1) The Scottish Ministers may direct that single-use vapes of a description specified in paragraph (2) are to be treated as waste and disposed of or otherwise treated as the Scottish Ministers consider necessary.
 
@@ -329,11 +329,11 @@ A Business Regulatory Impact assessment has been prepared and placed in the Scot
 
 [^f00003]: Footnote: Section 160A was added by section 63 of the Environment Act [2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30).
 
-[^key-6692e3573cedb832f567d91060cdeeed]: Commencement: Reg. 1 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
+[^c-6692e3573cedb832f567d91060cdeeed]: Commencement: Reg. 1 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
 
-[^key-b10d8158ef2a26988e3749d62a0c4477]: Textual amendment: Word in reg. 1(1) substituted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7)
+[^c-b10d8158ef2a26988e3749d62a0c4477]: Textual amendment: Word in reg. 1(1) substituted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7)
 
-[^key-3cdbdda17f61de6b818ab302d787680d]: Commencement: Reg. 2 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
+[^c-3cdbdda17f61de6b818ab302d787680d]: Commencement: Reg. 2 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
 
 [^f00004]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39). Section 2 was amended by paragraph 232(1) of schedule 22 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
@@ -341,38 +341,38 @@ A Business Regulatory Impact assessment has been prepared and placed in the Scot
 
 [^f00006]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916) to which there are no relevant amendments.
 
-[^key-5e1dc98ffac15be3040d52c6d7c9178a]: Commencement: Reg. 3 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
+[^c-5e1dc98ffac15be3040d52c6d7c9178a]: Commencement: Reg. 3 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
 
-[^key-1be4f912af937f3ee884816cb90ea3c2]: Commencement: Reg. 4 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
+[^c-1be4f912af937f3ee884816cb90ea3c2]: Commencement: Reg. 4 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
 
-[^key-4348e22f665cd407afe13e75f5fb30ac]: Commencement: Reg. 5 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
+[^c-4348e22f665cd407afe13e75f5fb30ac]: Commencement: Reg. 5 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
 
-[^key-6ce664b8e4196eb4c71c3d79aa9b7b0b]: Textual amendment: Words in reg. 5(1) substituted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2025/28/regulation/8)
+[^c-6ce664b8e4196eb4c71c3d79aa9b7b0b]: Textual amendment: Words in reg. 5(1) substituted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2025/28/regulation/8)
 
-[^key-1ce2e5f857bc2305af3ef2695727d0d1]: Commencement: Reg. 6 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
+[^c-1ce2e5f857bc2305af3ef2695727d0d1]: Commencement: Reg. 6 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
 
-[^key-da487b3cfa0de7c4d35bf3a548885d4f]: Commencement: Reg. 7 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
+[^c-da487b3cfa0de7c4d35bf3a548885d4f]: Commencement: Reg. 7 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
 
-[^key-870e7a40e405ffe86fd60aeb54bd95a4]: Commencement: Reg. 8 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
+[^c-870e7a40e405ffe86fd60aeb54bd95a4]: Commencement: Reg. 8 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
 
-[^key-e9e141f32d1544ad76325a98f4b1ade6]: Commencement: Reg. 9 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
+[^c-e9e141f32d1544ad76325a98f4b1ade6]: Commencement: Reg. 9 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
 
-[^key-9a353c07f66d5ff1b3c64c253053aab7]: Textual amendment: Words in reg. 9(1)(e) substituted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [9(a)](https://www.legislation.gov.uk/ssi/2025/28/regulation/9/a)
+[^c-9a353c07f66d5ff1b3c64c253053aab7]: Textual amendment: Words in reg. 9(1)(e) substituted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [9(a)](https://www.legislation.gov.uk/ssi/2025/28/regulation/9/a)
 
-[^key-84eaa7ef4ec5d9d0dc06daded3e003be]: Textual amendment: Words in reg. 9(1)(f) substituted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [9(b)](https://www.legislation.gov.uk/ssi/2025/28/regulation/9/b)
+[^c-84eaa7ef4ec5d9d0dc06daded3e003be]: Textual amendment: Words in reg. 9(1)(f) substituted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [9(b)](https://www.legislation.gov.uk/ssi/2025/28/regulation/9/b)
 
-[^key-0b86e6cee2662224ad85668c8a7a3dd9]: Textual amendment: Words in reg. 9(1)(g) substituted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [9(c)(i)](https://www.legislation.gov.uk/ssi/2025/28/regulation/9/c/i)
+[^c-0b86e6cee2662224ad85668c8a7a3dd9]: Textual amendment: Words in reg. 9(1)(g) substituted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [9(c)(i)](https://www.legislation.gov.uk/ssi/2025/28/regulation/9/c/i)
 
-[^key-559dff30880aa737ed10d0aec1d80181]: Textual amendment: Reg. 9(1)(g)(iv) inserted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [9(c)(Ii)](https://www.legislation.gov.uk/ssi/2025/28/regulation/9/c/Ii)
+[^c-559dff30880aa737ed10d0aec1d80181]: Textual amendment: Reg. 9(1)(g)(iv) inserted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [9(c)(Ii)](https://www.legislation.gov.uk/ssi/2025/28/regulation/9/c/Ii)
 
-[^key-78f36cde0e88353d3d0924c78398f2d6]: Commencement: Reg. 10 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
+[^c-78f36cde0e88353d3d0924c78398f2d6]: Commencement: Reg. 10 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
 
-[^key-2cda8e6f0bc4059bb166ce01e2518df2]: Commencement: Reg. 11 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
+[^c-2cda8e6f0bc4059bb166ce01e2518df2]: Commencement: Reg. 11 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
 
-[^key-3e461b536cf9304bac97e481db102f30]: Textual amendment: Regs. 11-14 inserted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [9(c)(i)](https://www.legislation.gov.uk/ssi/2025/28/regulation/9/c/i)
+[^c-3e461b536cf9304bac97e481db102f30]: Textual amendment: Regs. 11-14 inserted (31.3.2025) by [The Environmental Protection (Injurious Articles) (Fixed Penalty Notices and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/28)](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [9(c)(i)](https://www.legislation.gov.uk/ssi/2025/28/regulation/9/c/i)
 
-[^key-c9e46a4c3286212b1d732711a627f6b9]: Commencement: Reg. 12 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
+[^c-c9e46a4c3286212b1d732711a627f6b9]: Commencement: Reg. 12 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
 
-[^key-aabbf44f377530967c01f68eb6744044]: Commencement: Reg. 13 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
+[^c-aabbf44f377530967c01f68eb6744044]: Commencement: Reg. 13 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
 
-[^key-ac2dd042aa472a75b474b8d91d3dd877]: Commencement: Reg. 14 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))
+[^c-ac2dd042aa472a75b474b8d91d3dd877]: Commencement: Reg. 14 in force at 1.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/269/regulation/1/1) (as amended by [S.S.I. 2025/28](https://www.legislation.gov.uk/ssi/2025/28), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/28/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2025/28/regulation/7))

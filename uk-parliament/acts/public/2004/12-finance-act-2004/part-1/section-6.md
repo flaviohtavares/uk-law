@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Road fuel gas[^key-293edc0f3018a02e36d8a92a80867638]
+## 6. Road fuel gas[^c-293edc0f3018a02e36d8a92a80867638]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-293edc0f3018a02e36d8a92a80867638]: Commencement: S. 6 in force at 1.9.2004, see s. 6(4)
+[^c-293edc0f3018a02e36d8a92a80867638]: Commencement: S. 6 in force at 1.9.2004, see s. 6(4)

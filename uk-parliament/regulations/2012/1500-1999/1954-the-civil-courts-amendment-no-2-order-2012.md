@@ -34,7 +34,7 @@ Senior Courts Of England And Wales
 
 County Courts, England And Wales
 
-The Civil Courts (Amendment) (No. 2) Order 2012 (revoked)[^key-75c1d63d5d91d3d4d84e0a9fe90c29e9]
+The Civil Courts (Amendment) (No. 2) Order 2012 (revoked)[^c-75c1d63d5d91d3d4d84e0a9fe90c29e9]
 
 Made
 
@@ -48,34 +48,34 @@ Coming into force
 
 10th September 2012
 
-[^key-75c1d63d5d91d3d4d84e0a9fe90c29e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75c1d63d5d91d3d4d84e0a9fe90c29e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-75c1d63d5d91d3d4d84e0a9fe90c29e9]
+## 1. Citation and Commencement[^c-75c1d63d5d91d3d4d84e0a9fe90c29e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Closure of Pontefract County Court[^key-75c1d63d5d91d3d4d84e0a9fe90c29e9]
+## 2. Closure of Pontefract County Court[^c-75c1d63d5d91d3d4d84e0a9fe90c29e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional Provisions[^key-75c1d63d5d91d3d4d84e0a9fe90c29e9]
+## 3. Transitional Provisions[^c-75c1d63d5d91d3d4d84e0a9fe90c29e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-75c1d63d5d91d3d4d84e0a9fe90c29e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-75c1d63d5d91d3d4d84e0a9fe90c29e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Civil Courts Order 1983[^key-75c1d63d5d91d3d4d84e0a9fe90c29e9]
+## 5. Amendments to the Civil Courts Order 1983[^c-75c1d63d5d91d3d4d84e0a9fe90c29e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-75c1d63d5d91d3d4d84e0a9fe90c29e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75c1d63d5d91d3d4d84e0a9fe90c29e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-75c1d63d5d91d3d4d84e0a9fe90c29e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75c1d63d5d91d3d4d84e0a9fe90c29e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-75c1d63d5d91d3d4d84e0a9fe90c29e9]: Textual amendment: Order revoked (22.4.2014) by [The Crime and Courts Act 2013 (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/820)](https://www.legislation.gov.uk/uksi/2014/820), [arts. 1](https://www.legislation.gov.uk/uksi/2014/820/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/820/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2014/820/schedule)
+[^c-75c1d63d5d91d3d4d84e0a9fe90c29e9]: Textual amendment: Order revoked (22.4.2014) by [The Crime and Courts Act 2013 (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/820)](https://www.legislation.gov.uk/uksi/2014/820), [arts. 1](https://www.legislation.gov.uk/uksi/2014/820/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/820/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2014/820/schedule)

@@ -31,7 +31,7 @@ summary: ''
 - (g) previous contraventions or failures by P; and
 - (h) any potential systemic consequences of the contravention or failure.
 
-(1A)[^key-f9c98cfed856ff2619351303c3f08814] Before imposing a sanction on P under regulation 76, 77 or 78, the Commissioners must check whether P has any criminal convictions that may be relevant to the determination referred to in paragraph (1).
+(1A)[^c-f9c98cfed856ff2619351303c3f08814] Before imposing a sanction on P under regulation 76, 77 or 78, the Commissioners must check whether P has any criminal convictions that may be relevant to the determination referred to in paragraph (1).
 
 (2) Where the Commissioners decide to impose a penalty or publish a statement under regulation 76, or impose a prohibition under regulation 78, the Commissioners must give P a notice in accordance with paragraph (3).
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9c98cfed856ff2619351303c3f08814]: Textual amendment: Reg. 83(1A) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/9/2)
+[^c-f9c98cfed856ff2619351303c3f08814]: Textual amendment: Reg. 83(1A) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/9/2)

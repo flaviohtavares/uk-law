@@ -78,7 +78,7 @@ In pursuance of sections 26(1) and (2) of the Care of Churches and Ecclesiastica
 - [Section 15 — Dismissal of the allegation by the bishop under section 11(3) of the Measure](part-iii/section-15.md)
 - [Section 16 — President’s review of a dismissal](part-iii/section-16.md)
 
-### PART IV — Consideration of the courses available to the bishop , etc.[^key-3be225ce76c8938287429123d9dd7af8]
+### PART IV — Consideration of the courses available to the bishop , etc.[^c-3be225ce76c8938287429123d9dd7af8]
 
 *Extent: E*
 
@@ -96,7 +96,7 @@ In pursuance of sections 26(1) and (2) of the Care of Churches and Ecclesiastica
 - [Section 28 — Reference to the Designated Officer for formal investigation](part-iv/section-28.md)
 - [Section 28A — Application for production of documents by person not party to proceedings](part-iv/section-28a.md)
 
-### PART V — Referring the allegation to the tribunal[^key-7838cb9ece799a63c710e086948d248e]
+### PART V — Referring the allegation to the tribunal[^c-7838cb9ece799a63c710e086948d248e]
 
 *Extent: E*
 
@@ -297,6 +297,6 @@ These rules are made pursuant to section 45 of the Clergy Discipline Measure 200
 
 [^f00002]: Footnote: [2003 No.3](https://www.legislation.gov.uk/ukcm/2003/3).
 
-[^key-3be225ce76c8938287429123d9dd7af8]: Textual amendment: Word in [Pt. IV](https://www.legislation.gov.uk/uksi/2005/2022/part/IV) title inserted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2021/557/rule/5/4)
+[^c-3be225ce76c8938287429123d9dd7af8]: Textual amendment: Word in [Pt. IV](https://www.legislation.gov.uk/uksi/2005/2022/part/IV) title inserted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2021/557/rule/5/4)
 
-[^key-7838cb9ece799a63c710e086948d248e]: Textual amendment: Word in [Pt. V](https://www.legislation.gov.uk/uksi/2005/2022/part/V) title substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
+[^c-7838cb9ece799a63c710e086948d248e]: Textual amendment: Word in [Pt. V](https://www.legislation.gov.uk/uksi/2005/2022/part/V) title substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)

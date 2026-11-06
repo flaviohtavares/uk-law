@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42AB. Information relating to complaints handling standards[^key-4ea8cb2d461ab8ae14b163138242b207]
+## 42AB. Information relating to complaints handling standards[^c-4ea8cb2d461ab8ae14b163138242b207]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ea8cb2d461ab8ae14b163138242b207]: Textual amendment: S. 42AB inserted (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/ukpga/2007/17/schedule/5/paragraph/2/3) (with [s. 48(3)](https://www.legislation.gov.uk/ukpga/2007/17/section/48/3)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-4ea8cb2d461ab8ae14b163138242b207]: Textual amendment: S. 42AB inserted (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/ukpga/2007/17/schedule/5/paragraph/2/3) (with [s. 48(3)](https://www.legislation.gov.uk/ukpga/2007/17/section/48/3)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)

@@ -25,13 +25,13 @@ summary: ''
 (2) “Earnings” do not include—
 
 - (a) where a claimant is involved in providing board and lodging accommodation for which a charge is payable, any payment by way of such a charge;
-- (b) any payment to which paragraph 28, 29 or 29A[^key-95741e9cbd69918279dbdd9d09ac1c81] of Schedule 8 refers (payments in respect of a person accommodated with the claimant under an arrangement made by a local authority or voluntary organisation, payments[^key-a3f1249904785ca1ee35b0a98e635232] made to the claimant by a health authority, local authority or voluntary organisation in respect of persons temporarily in the claimant's care) and any payments made to a claimant under section 73(1)(b) of the Children and Young People (Scotland) Act 2014 (kinship care assistance)[^key-a14122618233844c31f89d5b0e84836f];
-- (ba)[^key-f02debad9aa431134309db3287be9b10] any payment made in accordance with section 26A of the Children (Scotland) Act 1995 (duty to provide continuing care)—
+- (b) any payment to which paragraph 28, 29 or 29A[^c-95741e9cbd69918279dbdd9d09ac1c81] of Schedule 8 refers (payments in respect of a person accommodated with the claimant under an arrangement made by a local authority or voluntary organisation, payments[^c-a3f1249904785ca1ee35b0a98e635232] made to the claimant by a health authority, local authority or voluntary organisation in respect of persons temporarily in the claimant's care) and any payments made to a claimant under section 73(1)(b) of the Children and Young People (Scotland) Act 2014 (kinship care assistance)[^c-a14122618233844c31f89d5b0e84836f];
+- (ba)[^c-f02debad9aa431134309db3287be9b10] any payment made in accordance with section 26A of the Children (Scotland) Act 1995 (duty to provide continuing care)—
   - (i) to a claimant; or
   - (ii) where paragraph (3) applies, to another person (“A”) which A passes on to the claimant;
 - (c) any sports award.
 
-(3)[^key-fd303e7a9c53db848d103b0132627ee6] This paragraph applies only where A—
+(3)[^c-fd303e7a9c53db848d103b0132627ee6] This paragraph applies only where A—
 
 - (a) was formerly in the claimant’s care;
 - (b) is aged 16 or over; and
@@ -43,12 +43,12 @@ summary: ''
 
 [^c1918947]: Textual amendment: [1990 c. 35](https://www.legislation.gov.uk/ukpga/1990/35).
 
-[^key-95741e9cbd69918279dbdd9d09ac1c81]: Textual amendment: Words in reg. 97(2)(b) substituted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2017/995/regulation/7/3/a)
+[^c-95741e9cbd69918279dbdd9d09ac1c81]: Textual amendment: Words in reg. 97(2)(b) substituted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2017/995/regulation/7/3/a)
 
-[^key-a3f1249904785ca1ee35b0a98e635232]: Textual amendment: Words in reg. 97(2)(b) substituted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2017/995/regulation/7/3/b)
+[^c-a3f1249904785ca1ee35b0a98e635232]: Textual amendment: Words in reg. 97(2)(b) substituted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2017/995/regulation/7/3/b)
 
-[^key-a14122618233844c31f89d5b0e84836f]: Textual amendment: Words in reg. 97(2)(b) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [7(3)(c)](https://www.legislation.gov.uk/uksi/2017/995/regulation/7/3/c)
+[^c-a14122618233844c31f89d5b0e84836f]: Textual amendment: Words in reg. 97(2)(b) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [7(3)(c)](https://www.legislation.gov.uk/uksi/2017/995/regulation/7/3/c)
 
-[^key-f02debad9aa431134309db3287be9b10]: Textual amendment: Reg. 97(2)(ba) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2017/995/regulation/13/3/a)
+[^c-f02debad9aa431134309db3287be9b10]: Textual amendment: Reg. 97(2)(ba) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2017/995/regulation/13/3/a)
 
-[^key-fd303e7a9c53db848d103b0132627ee6]: Textual amendment: Reg. 97(3) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [13(3)(b)](https://www.legislation.gov.uk/uksi/2017/995/regulation/13/3/b)
+[^c-fd303e7a9c53db848d103b0132627ee6]: Textual amendment: Reg. 97(3) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [13(3)(b)](https://www.legislation.gov.uk/uksi/2017/995/regulation/13/3/b)

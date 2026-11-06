@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Provision of information[^key-0db8d00c9f0ef5e0dfd954ef901f095c][^key-79769f07b15a85ddbf40d4b8dd9ce989]
+## 93. Provision of information[^c-0db8d00c9f0ef5e0dfd954ef901f095c][^c-79769f07b15a85ddbf40d4b8dd9ce989]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies if—
 
-- (a) a protection provider makes arrangements under section 82(1), or *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-a51bd4fa4722bbc1c916bfe6be81ae89]
-- (b) a protection provider determines under section 91(5) that it is appropriate to treat arrangements to which that section applies as having been made under section 82(1). *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-a51bd4fa4722bbc1c916bfe6be81ae89]
+- (a) a protection provider makes arrangements under section 82(1), or *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-a51bd4fa4722bbc1c916bfe6be81ae89]
+- (b) a protection provider determines under section 91(5) that it is appropriate to treat arrangements to which that section applies as having been made under section 82(1). *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-a51bd4fa4722bbc1c916bfe6be81ae89]
 
 (2) The protection provider must inform the person to whom the arrangements relate of the provisions of this Chapter as they apply in relation to the arrangements.
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0db8d00c9f0ef5e0dfd954ef901f095c]: Commencement: S. 93 in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
+[^c-0db8d00c9f0ef5e0dfd954ef901f095c]: Commencement: S. 93 in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
 
-[^key-79769f07b15a85ddbf40d4b8dd9ce989]: Commencement: S. 93 in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/b)
+[^c-79769f07b15a85ddbf40d4b8dd9ce989]: Commencement: S. 93 in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/b)
 
-[^key-a51bd4fa4722bbc1c916bfe6be81ae89]: Textual amendment: S. 93(1)(b) and preceding word repealed (E.W.S.) (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 178(4)](https://www.legislation.gov.uk/ukpga/2014/12/section/178/4), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [s. 178(7)](https://www.legislation.gov.uk/ukpga/2014/12/section/178/7)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/18)
+[^c-a51bd4fa4722bbc1c916bfe6be81ae89]: Textual amendment: S. 93(1)(b) and preceding word repealed (E.W.S.) (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 178(4)](https://www.legislation.gov.uk/ukpga/2014/12/section/178/4), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [s. 178(7)](https://www.legislation.gov.uk/ukpga/2014/12/section/178/7)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/18)

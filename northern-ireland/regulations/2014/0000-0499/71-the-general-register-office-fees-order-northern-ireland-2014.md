@@ -32,7 +32,7 @@ summary: ''
 
 Registration Of Vital Events
 
-The General Register Office (Fees) Order (Northern Ireland) 2014 (revoked)[^key-882a8e57077cc3377018d2c4d433dbc3]
+The General Register Office (Fees) Order (Northern Ireland) 2014 (revoked)[^c-882a8e57077cc3377018d2c4d433dbc3]
 
 Made
 
@@ -42,27 +42,27 @@ Coming into operation
 
 31st March 2014
 
-[^key-882a8e57077cc3377018d2c4d433dbc3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-882a8e57077cc3377018d2c4d433dbc3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-882a8e57077cc3377018d2c4d433dbc3]
+## 1. Citation, commencement and interpretation[^c-882a8e57077cc3377018d2c4d433dbc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable[^key-882a8e57077cc3377018d2c4d433dbc3]
+## 2. Fees payable[^c-882a8e57077cc3377018d2c4d433dbc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-882a8e57077cc3377018d2c4d433dbc3]
+## 3. Revocation[^c-882a8e57077cc3377018d2c4d433dbc3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-882a8e57077cc3377018d2c4d433dbc3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-882a8e57077cc3377018d2c4d433dbc3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-882a8e57077cc3377018d2c4d433dbc3]
+## SCHEDULE[^c-882a8e57077cc3377018d2c4d433dbc3]
 
 Article 2
 
@@ -70,8 +70,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-882a8e57077cc3377018d2c4d433dbc3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-882a8e57077cc3377018d2c4d433dbc3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-882a8e57077cc3377018d2c4d433dbc3]: Textual amendment: Order revoked (4.4.2016) by [The General Register Office (Fees) Order (Northern Ireland) 2016 (S.R. 2016/205)](https://www.legislation.gov.uk/nisr/2016/205), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/205/article/1/1), [3](https://www.legislation.gov.uk/nisr/2016/205/article/3)
+[^c-882a8e57077cc3377018d2c4d433dbc3]: Textual amendment: Order revoked (4.4.2016) by [The General Register Office (Fees) Order (Northern Ireland) 2016 (S.R. 2016/205)](https://www.legislation.gov.uk/nisr/2016/205), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2016/205/article/1/1), [3](https://www.legislation.gov.uk/nisr/2016/205/article/3)

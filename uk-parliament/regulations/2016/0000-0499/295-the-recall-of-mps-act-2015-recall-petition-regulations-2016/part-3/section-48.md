@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Access to marked registers[^key-a475e5d13f2322978ec3caace2cccff2]
+## 48. Access to marked registers[^c-a475e5d13f2322978ec3caace2cccff2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 (access to marked registers after a petition) is to have effect.
 
 ## Annotations
 
-[^key-a475e5d13f2322978ec3caace2cccff2]: Commencement: Reg. 48 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-a475e5d13f2322978ec3caace2cccff2]: Commencement: Reg. 48 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

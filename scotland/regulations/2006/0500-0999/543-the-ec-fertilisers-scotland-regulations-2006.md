@@ -58,7 +58,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 (1) In these Regulations–
 
-- “**the Community Regulation**” means Regulation [(EC) 2003/2003](https://www.legislation.gov.uk/european/regulation/2003/2003) of the European Parliament and of the Council of 13th October 2003 relating to fertilisers[^c17108021] , as last amended by Commission Regulation ([^key-103396bf85f02247b63f1726b5997e92]EU) 2016/1618;
+- “**the Community Regulation**” means Regulation [(EC) 2003/2003](https://www.legislation.gov.uk/european/regulation/2003/2003) of the European Parliament and of the Council of 13th October 2003 relating to fertilisers[^c17108021] , as last amended by Commission Regulation ([^c-103396bf85f02247b63f1726b5997e92]EU) 2016/1618;
 - “**inspector**” means a person appointed under regulation 11(2) or 14(3);
 - “**operator**” means a person to whom an approval has been issued and not withdrawn in respect of a laboratory–
   - (a) pursuant to regulation 16(1); or
@@ -74,9 +74,9 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 ## PART II — Composition, labelling and records
 
-### 3. Types of fertiliser for which the designation “ UK fertiliser” may be used[^key-ffd9154eb0635b6aa503a2c4b40e2b39]
+### 3. Types of fertiliser for which the designation “ UK fertiliser” may be used[^c-ffd9154eb0635b6aa503a2c4b40e2b39]
 
-(1)[^key-355bd7af46168ab1054e7abfd913dc8d] No manufacturer shall place on the market a fertiliser designated as a UK fertiliser unless—
+(1)[^c-355bd7af46168ab1054e7abfd913dc8d] No manufacturer shall place on the market a fertiliser designated as a UK fertiliser unless—
 
 - (a) it is of a type listed in Annex 1 (list of types of UK fertilisers), and
 - (b) the manufacturer is established in accordance with Article 4 (establishment within the United Kingdom).
@@ -87,14 +87,14 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 Any manufacturer who–
 
-- (a) places on the market a fertiliser designated as a UK[^key-cdcea5fbad98f274ae9fa6409674de99] fertiliser the content of which does not comply with the provisions in respect of tolerances set out in paragraphs (1) and (3) of Article 13 (tolerances); or
+- (a) places on the market a fertiliser designated as a UK[^c-cdcea5fbad98f274ae9fa6409674de99] fertiliser the content of which does not comply with the provisions in respect of tolerances set out in paragraphs (1) and (3) of Article 13 (tolerances); or
 - (b) fails to comply with Article 13(2),
 
 shall be guilty of an offence.
 
-### 5. General provisions relating to the marking, identification, labelling and packaging of UK fertilisers[^key-e963009f5ae8c762733f9c44c843cdf8]
+### 5. General provisions relating to the marking, identification, labelling and packaging of UK fertilisers[^c-e963009f5ae8c762733f9c44c843cdf8]
 
-(1) Any manufacturer who places on the market a fertiliser designated as a UK[^key-9665d1e475e3d2c572df5b451a6877f7] fertiliser shall be guilty of an offence unless the identification markings relating to it–
+(1) Any manufacturer who places on the market a fertiliser designated as a UK[^c-9665d1e475e3d2c572df5b451a6877f7] fertiliser shall be guilty of an offence unless the identification markings relating to it–
 
 - (a) are borne as specified in paragraph (1) of Article 9 (markings);
 - (b) comply with Article 9(2);
@@ -102,14 +102,14 @@ shall be guilty of an offence.
 - (d) include the additional instructions called for by Article 9(3), if it is a fluid fertiliser; and
 - (e) have been provided as required by paragraph (1) of Article 7 (identification).
 
-(2) In addition to the requirements of paragraph (1), any manufacturer who places on the market a packaged fertiliser designated as a UK[^key-0b28b96fc0894f0f9dbac4e8d4df9c14] fertiliser shall be guilty of an offence unless–
+(2) In addition to the requirements of paragraph (1), any manufacturer who places on the market a packaged fertiliser designated as a UK[^c-0b28b96fc0894f0f9dbac4e8d4df9c14] fertiliser shall be guilty of an offence unless–
 
 - (a) the identification markings appear as specified in the first sentence of Article 7(2);
 - (b) the packaging and labelling of the fertiliser complies with paragraphs (1) and (2) of Article 10 (labelling);
 - (c) the packaging complies with Article 12 (packaging); and
 - (d) the language in which those identification markings appear complies with Article 11 (languages).
 
-(3) In addition to the requirements of paragraph (1), any manufacturer who places on the market a bulk fertiliser designated as a UK[^key-dee5714a21c292f2eeff4509d1f387d6] fertiliser shall be guilty of an offence unless–
+(3) In addition to the requirements of paragraph (1), any manufacturer who places on the market a bulk fertiliser designated as a UK[^c-dee5714a21c292f2eeff4509d1f387d6] fertiliser shall be guilty of an offence unless–
 
 - (a) the identification markings appear as specified in the second sentence of Article 7(2);
 - (b) a copy of the documents containing the identification markings meets the requirements of Article 10(3); and
@@ -119,7 +119,7 @@ shall be guilty of an offence.
 
 Any manufacturer who places on the market a fertiliser–
 
-- (a) that is designated as a UK[^key-2cb07c8d28f6fa8e357c50b94d5ee154] fertiliser;
+- (a) that is designated as a UK[^c-2cb07c8d28f6fa8e357c50b94d5ee154] fertiliser;
 - (b) that is a fertiliser of the type described in Article 16 (scope); and
 - (c) for which a declaration of calcium, magnesium, sodium and sulphur content is made other than–
   - (i) in accordance with Articles 17 (declaration of secondary nutrients in primary nutrient fertilisers), 18 (calcium, magnesium, sodium and sulphur) and 19 (identification); and
@@ -131,7 +131,7 @@ Any manufacturer who places on the market a fertiliser–
 
 Any manufacturer who places on the market a fertiliser that is–
 
-- (a) designated as a UK[^key-7170e7cbc89232817d1eb3ff957f5256] fertiliser;
+- (a) designated as a UK[^c-7170e7cbc89232817d1eb3ff957f5256] fertiliser;
 - (b) a fertiliser of the type described in Article 20 (scope); and
 - (c) not marked in accordance with Article 21 (identification) or for which a declaration of calcium, magnesium, sodium and sulphur content is made otherwise than as specified in Article 6(2)(c),
 
@@ -141,7 +141,7 @@ shall be guilty of an offence.
 
 Any manufacturer who places on the market a fertiliser that is–
 
-- (a) designated as a UK[^key-655bfea55af89863067f9a8c9af6912d] fertiliser;
+- (a) designated as a UK[^c-655bfea55af89863067f9a8c9af6912d] fertiliser;
 - (b) a fertiliser of the type described in Article 22 (scope); and
 - (c) not marked in accordance with Article 23 (identification) or not packaged in accordance with Article 24 (packaging),
 
@@ -177,8 +177,8 @@ Any manufacturer who fails to comply with the requirements of Article 8 (traceab
 
 (2) An inspector may be accompanied by–
 
-- (a) such other persons as the inspector considers necessary; [^key-0a13377cb62634bbe20a39e51edc284e]...
-- (b)[^key-c75eee9279aa52d75f2386e20099466e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) such other persons as the inspector considers necessary; [^c-0a13377cb62634bbe20a39e51edc284e]...
+- (b)[^c-c75eee9279aa52d75f2386e20099466e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Admission to any premises used only as a private dwellinghouse shall not be demanded under paragraph (1) unless 24 hours notice of the intended entry has been given to the occupier, or the entry is in accordance with a warrant granted under this regulation.
 
@@ -235,7 +235,7 @@ shall be guilty of an offence.
 
 ## PART IV — Approved laboratories, treatment of samples and further controls
 
-### 16. Approved laboratories[^key-caa49286cbd347182f0776dcc39f87d7]
+### 16. Approved laboratories[^c-caa49286cbd347182f0776dcc39f87d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -245,14 +245,14 @@ In any proceedings for an offence under these Regulations (including an applicat
 
 - (a) a court shall not conclude that a sample is representative of the fertiliser unless the sample–
   - (i) has been taken in accordance with Annex IV (methods of sampling and analysis); and
-  - (ii) has been subjected to analysis in accordance with Annex IV in a laboratory listed in accordance with Article 30 [^key-39504fa5684b2d5119e3510e55321ec4]...;
+  - (ii) has been subjected to analysis in accordance with Annex IV in a laboratory listed in accordance with Article 30 [^c-39504fa5684b2d5119e3510e55321ec4]...;
 - (b) a certificate given by a person that that person is an inspector and took a sample in accordance with Annex IV shall, unless the contrary is proved, be taken as evidence of that person being an inspector and having done so;
 - (c) a certificate given by an operator of a laboratory that the laboratory is approved for the purposes set out in Article 30(1) and that a sample was analysed in accordance with Annex IV shall, unless the contrary is proved, be evidence of the laboratory being so approved and the analysis having been so carried out; and
 - (d) the combination of the certificates referred to in paragraphs (b) and (c) shall, unless the contrary is proved, be taken as evidence that a sample is representative of the fertiliser.
 
 ### 18. Remedial action and seizure
 
-(1) Where an inspector has reasonable grounds to believe that a fertiliser designated as a UK[^key-d317a134a3697b24b50f4d118981bc49] fertiliser is one in relation to which an offence under these Regulations has been committed the inspector may–
+(1) Where an inspector has reasonable grounds to believe that a fertiliser designated as a UK[^c-d317a134a3697b24b50f4d118981bc49] fertiliser is one in relation to which an offence under these Regulations has been committed the inspector may–
 
 - (a) serve on the person whom the inspector considers to be in charge of the fertiliser a notice requiring that person to take such action as is specified in the notice; or
 - (b) seize and retain the fertiliser and having done so shall make an application to a sheriff seeking its destruction or disposal.
@@ -374,39 +374,39 @@ No regulatory impact assessment has been prepared in respect of these Regulation
 
 [^c17108021]: Marginal citation: O.J. No. L 304, 21.11.03, p.1 as amended by Commission Regulation (EC) No. 2076/2004 (O.J. No. L 359, 4.12.2004, p.25).
 
-[^key-103396bf85f02247b63f1726b5997e92]: Textual amendment: Words in reg. 2(1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [19](https://www.legislation.gov.uk/ssi/2018/391/regulation/19)
+[^c-103396bf85f02247b63f1726b5997e92]: Textual amendment: Words in reg. 2(1) inserted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [19](https://www.legislation.gov.uk/ssi/2018/391/regulation/19)
 
-[^key-ffd9154eb0635b6aa503a2c4b40e2b39]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/ssi/2006/543/regulation/3) heading substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ffd9154eb0635b6aa503a2c4b40e2b39]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/ssi/2006/543/regulation/3) heading substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-355bd7af46168ab1054e7abfd913dc8d]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/ssi/2006/543/regulation/3/1) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-355bd7af46168ab1054e7abfd913dc8d]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/ssi/2006/543/regulation/3/1) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cdcea5fbad98f274ae9fa6409674de99]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/ssi/2006/543/regulation/4/a) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cdcea5fbad98f274ae9fa6409674de99]: Textual amendment: Words in [reg. 4(a)](https://www.legislation.gov.uk/ssi/2006/543/regulation/4/a) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e963009f5ae8c762733f9c44c843cdf8]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/ssi/2006/543/regulation/5) heading substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e963009f5ae8c762733f9c44c843cdf8]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/ssi/2006/543/regulation/5) heading substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9665d1e475e3d2c572df5b451a6877f7]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2006/543/regulation/5/1) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9665d1e475e3d2c572df5b451a6877f7]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2006/543/regulation/5/1) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0b28b96fc0894f0f9dbac4e8d4df9c14]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2006/543/regulation/5/2) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b28b96fc0894f0f9dbac4e8d4df9c14]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2006/543/regulation/5/2) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dee5714a21c292f2eeff4509d1f387d6]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/ssi/2006/543/regulation/5/3) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dee5714a21c292f2eeff4509d1f387d6]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/ssi/2006/543/regulation/5/3) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2cb07c8d28f6fa8e357c50b94d5ee154]: Textual amendment: Words in [reg. 6(a)](https://www.legislation.gov.uk/ssi/2006/543/regulation/6/a) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2cb07c8d28f6fa8e357c50b94d5ee154]: Textual amendment: Words in [reg. 6(a)](https://www.legislation.gov.uk/ssi/2006/543/regulation/6/a) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7170e7cbc89232817d1eb3ff957f5256]: Textual amendment: Words in [reg. 7(a)](https://www.legislation.gov.uk/ssi/2006/543/regulation/7/a) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7170e7cbc89232817d1eb3ff957f5256]: Textual amendment: Words in [reg. 7(a)](https://www.legislation.gov.uk/ssi/2006/543/regulation/7/a) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-655bfea55af89863067f9a8c9af6912d]: Textual amendment: Words in [reg. 8(a)](https://www.legislation.gov.uk/ssi/2006/543/regulation/8/a) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-655bfea55af89863067f9a8c9af6912d]: Textual amendment: Words in [reg. 8(a)](https://www.legislation.gov.uk/ssi/2006/543/regulation/8/a) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c17108031]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-0a13377cb62634bbe20a39e51edc284e]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2006/543/regulation/12/2) omitted (31.12.2020) by virtue of [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0a13377cb62634bbe20a39e51edc284e]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2006/543/regulation/12/2) omitted (31.12.2020) by virtue of [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c75eee9279aa52d75f2386e20099466e]: Textual amendment: [Reg. 12(2)(b)](https://www.legislation.gov.uk/ssi/2006/543/regulation/12/2/b) omitted (31.12.2020) by virtue of [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c75eee9279aa52d75f2386e20099466e]: Textual amendment: [Reg. 12(2)(b)](https://www.legislation.gov.uk/ssi/2006/543/regulation/12/2/b) omitted (31.12.2020) by virtue of [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-caa49286cbd347182f0776dcc39f87d7]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/ssi/2006/543/regulation/16) omitted (31.12.2020) by virtue of [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-caa49286cbd347182f0776dcc39f87d7]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/ssi/2006/543/regulation/16) omitted (31.12.2020) by virtue of [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-39504fa5684b2d5119e3510e55321ec4]: Textual amendment: Words in [reg. 17(a)(ii)](https://www.legislation.gov.uk/ssi/2006/543/regulation/17/a/ii) omitted (31.12.2020) by virtue of [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-39504fa5684b2d5119e3510e55321ec4]: Textual amendment: Words in [reg. 17(a)(ii)](https://www.legislation.gov.uk/ssi/2006/543/regulation/17/a/ii) omitted (31.12.2020) by virtue of [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d317a134a3697b24b50f4d118981bc49]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/ssi/2006/543/regulation/18/1) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(9)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d317a134a3697b24b50f4d118981bc49]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/ssi/2006/543/regulation/18/1) substituted (31.12.2020) by [The Fertilisers and Pesticides (EU Exit) (Scotland) (Miscellaneous Amendments etc.) Regulations 2019 (S.S.I. 2019/25)](https://www.legislation.gov.uk/ssi/2019/25), [regs. 1](https://www.legislation.gov.uk/ssi/2019/25/regulation/1), [2(9)](https://www.legislation.gov.uk/ssi/2019/25/regulation/2/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c17108041]: Marginal citation: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40).
 

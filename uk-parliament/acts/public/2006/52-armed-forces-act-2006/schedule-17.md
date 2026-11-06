@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 17 — Repeals and Revocations[^c17970961][^key-eed61f3b97a0ef038d28e71a8de69470][^key-91bafd225b2f6c1544067ee0ad60abae][^key-4bba69b7e6ef0116b48d9d2608c1de6d][^key-7a1dc79b4c372ed8b93857e48092581e][^key-211e27d463b1a4c2c8f637975ebf9f90]
+## SCHEDULE 17 — Repeals and Revocations[^c17970961][^c-eed61f3b97a0ef038d28e71a8de69470][^c-91bafd225b2f6c1544067ee0ad60abae][^c-4bba69b7e6ef0116b48d9d2608c1de6d][^c-7a1dc79b4c372ed8b93857e48092581e][^c-211e27d463b1a4c2c8f637975ebf9f90]
 
 *Extent: E+W+S+N.I.*
 
@@ -148,12 +148,12 @@ Section 378
 
 [^c17970961]: Commencement: Sch. 17 in force at Royal Assent for specified purposes, see [s. 383(1)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/1)
 
-[^key-eed61f3b97a0ef038d28e71a8de69470]: Commencement: Sch. 17 in force at 1.1.2008 for specified purposes by [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 3](https://www.legislation.gov.uk/uksi/2007/2913/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2913/article/4))
+[^c-eed61f3b97a0ef038d28e71a8de69470]: Commencement: Sch. 17 in force at 1.1.2008 for specified purposes by [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 3](https://www.legislation.gov.uk/uksi/2007/2913/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2913/article/4))
 
-[^key-91bafd225b2f6c1544067ee0ad60abae]: Commencement: Sch. 17 in force at 24.6.2008 for specified purposes by [S.I. 2008/1650](https://www.legislation.gov.uk/uksi/2008/1650), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/1650/article/4/c)
+[^c-91bafd225b2f6c1544067ee0ad60abae]: Commencement: Sch. 17 in force at 24.6.2008 for specified purposes by [S.I. 2008/1650](https://www.legislation.gov.uk/uksi/2008/1650), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/1650/article/4/c)
 
-[^key-4bba69b7e6ef0116b48d9d2608c1de6d]: Commencement: Sch. 17 in force at 1.10.2008 for specified purposes by [S.I. 2008/1650](https://www.legislation.gov.uk/uksi/2008/1650), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/1650/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1650/article/3))
+[^c-4bba69b7e6ef0116b48d9d2608c1de6d]: Commencement: Sch. 17 in force at 1.10.2008 for specified purposes by [S.I. 2008/1650](https://www.legislation.gov.uk/uksi/2008/1650), [art. 2(e)](https://www.legislation.gov.uk/uksi/2008/1650/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1650/article/3))
 
-[^key-7a1dc79b4c372ed8b93857e48092581e]: Commencement: Sch. 17 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-7a1dc79b4c372ed8b93857e48092581e]: Commencement: Sch. 17 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-211e27d463b1a4c2c8f637975ebf9f90]: Commencement: Sch. 17 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-211e27d463b1a4c2c8f637975ebf9f90]: Commencement: Sch. 17 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

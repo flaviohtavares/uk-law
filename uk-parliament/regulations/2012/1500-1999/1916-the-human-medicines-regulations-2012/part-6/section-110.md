@@ -39,7 +39,7 @@ summary: ''
 
 (6) Condition E is that the licensing authority thinks that the holder of the certificate has not complied with regulation 115(1) to (3) (requirements to provide information).
 
-(7) Condition F is that the holder of the certificate has ceased to be established in—[^key-8e31729c843a5adb203c62bb66baf9b9]
+(7) Condition F is that the holder of the certificate has ceased to be established in—[^c-8e31729c843a5adb203c62bb66baf9b9]
 
 - (a) the United Kingdom; or
 - (b) in relation to a COR(NI), either the United Kingdom or the European Union,
@@ -51,9 +51,9 @@ in accordance with the requirements of these Regulations.
 - (a) the holder applies to vary the certificate; and
 - (b) the licensing authority thinks that the application should be granted.
 
-(8A)[^key-8d84e12d16d97b07d68c120ae3fe7539] Condition H is that the manufacture and control of the product to which the certificate relates is not in compliance with the particulars provided under regulation 103(8)(c) and (d).
+(8A)[^c-8d84e12d16d97b07d68c120ae3fe7539] Condition H is that the manufacture and control of the product to which the certificate relates is not in compliance with the particulars provided under regulation 103(8)(c) and (d).
 
-(8B)[^key-5ddf857e570ea91db9c40f239d5eb617] Condition I is that the licensing authority thinks that the revocation, variation or suspension is necessary or expedient in light of the Protocol on Ireland/Northern Ireland in the withdrawal agreement.
+(8B)[^c-5ddf857e570ea91db9c40f239d5eb617] Condition I is that the licensing authority thinks that the revocation, variation or suspension is necessary or expedient in light of the Protocol on Ireland/Northern Ireland in the withdrawal agreement.
 
 (9) Schedule 11 makes provision about advice and representations in relation to a proposal to revoke, vary or suspend a certificate of registration, other than a proposal to vary a certificate on the application of its holder.
 
@@ -61,8 +61,8 @@ in accordance with the requirements of these Regulations.
 
 ## Annotations
 
-[^key-8e31729c843a5adb203c62bb66baf9b9]: Textual amendment: Reg. 110(7)(a)(b) substituted for words in reg. 110(7) (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 102(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/102/2) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 80(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/80/a))
+[^c-8e31729c843a5adb203c62bb66baf9b9]: Textual amendment: Reg. 110(7)(a)(b) substituted for words in reg. 110(7) (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 102(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/102/2) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 80(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/80/a))
 
-[^key-8d84e12d16d97b07d68c120ae3fe7539]: Textual amendment: Reg. 110(8A) inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2013/1855/regulation/19)
+[^c-8d84e12d16d97b07d68c120ae3fe7539]: Textual amendment: Reg. 110(8A) inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2013/1855/regulation/19)
 
-[^key-5ddf857e570ea91db9c40f239d5eb617]: Textual amendment: Reg. 110(8B) inserted (31.12.20200 by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 102(2A)](https://www.legislation.gov.uk/uksi/2019/775/regulation/102/2A) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 80(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/80/b))
+[^c-5ddf857e570ea91db9c40f239d5eb617]: Textual amendment: Reg. 110(8B) inserted (31.12.20200 by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 102(2A)](https://www.legislation.gov.uk/uksi/2019/775/regulation/102/2A) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 80(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/80/b))

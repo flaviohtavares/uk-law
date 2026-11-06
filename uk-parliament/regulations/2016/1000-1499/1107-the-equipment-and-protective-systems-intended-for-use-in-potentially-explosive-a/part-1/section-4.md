@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Exceptions for trade fairs, exhibitions and demonstrations[^key-ae870e9c3f4887126693844846bd9263]
+## 4. Exceptions for trade fairs, exhibitions and demonstrations[^c-ae870e9c3f4887126693844846bd9263]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The provisions of Part 2 (and of Part 5, so far as applying in relation to oblig
 
 ## Annotations
 
-[^key-ae870e9c3f4887126693844846bd9263]: Commencement: Reg. 4 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-ae870e9c3f4887126693844846bd9263]: Commencement: Reg. 4 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

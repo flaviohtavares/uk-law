@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Applications for adoption[^key-e76b17de448f52b5529b503ac1af8845]
+## 46. Applications for adoption[^c-e76b17de448f52b5529b503ac1af8845]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ been habitually resident in a part of the United Kingdom, or in any of the Chann
 
 ## Annotations
 
-[^key-e76b17de448f52b5529b503ac1af8845]: Commencement: S. 46 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-e76b17de448f52b5529b503ac1af8845]: Commencement: S. 46 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

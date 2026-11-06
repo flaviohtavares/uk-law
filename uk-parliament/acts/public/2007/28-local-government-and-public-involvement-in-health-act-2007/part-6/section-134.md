@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Revocation of byelaws[^key-dde4c1d1d154ad9f11399d0c265cd746]
+## 134. Revocation of byelaws[^c-dde4c1d1d154ad9f11399d0c265cd746]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ After section 236A of the Local Government Act 1972 (inserted by section 129) in
 
 ## Annotations
 
-[^key-dde4c1d1d154ad9f11399d0c265cd746]: Commencement: S. 134 in force at 27.1.2010 by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/112/article/2/f)
+[^c-dde4c1d1d154ad9f11399d0c265cd746]: Commencement: S. 134 in force at 27.1.2010 by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/112/article/2/f)

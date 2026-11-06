@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Notice to bidders before the assignment stage round[^key-be7c2d521d8bb0d4792d59eee5288203]
+## 96. Notice to bidders before the assignment stage round[^c-be7c2d521d8bb0d4792d59eee5288203]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Before the start of the assignment stage round, OFCOM shall notify each bidder t
 
 ## Annotations
 
-[^key-be7c2d521d8bb0d4792d59eee5288203]: Commencement: Reg. 96 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-be7c2d521d8bb0d4792d59eee5288203]: Commencement: Reg. 96 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

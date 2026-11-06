@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56A. Provision of information to the Secretary of State[^key-75da1e4473d2da45572f5b0925877c0d]
+## 56A. Provision of information to the Secretary of State[^c-75da1e4473d2da45572f5b0925877c0d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75da1e4473d2da45572f5b0925877c0d]: Textual amendment: [S. 56A](https://www.legislation.gov.uk/ukpga/2014/23/section/56A) inserted (15.7.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/20/2), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/h)
+[^c-75da1e4473d2da45572f5b0925877c0d]: Textual amendment: [S. 56A](https://www.legislation.gov.uk/ukpga/2014/23/section/56A) inserted (15.7.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 20(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/20/2), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/h)

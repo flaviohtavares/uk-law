@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## A13. Application for a network access agreement[^key-d1b8d450406b28f08214a2c106f585a4]
+## A13. Application for a network access agreement[^c-d1b8d450406b28f08214a2c106f585a4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part does not apply to applications for a network access agreement under pa
 
 ## Annotations
 
-[^key-d1b8d450406b28f08214a2c106f585a4]: Textual amendment: [Rule A13](https://www.legislation.gov.uk/uksi/2003/1417/rule/A13) inserted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/2)
+[^c-d1b8d450406b28f08214a2c106f585a4]: Textual amendment: [Rule A13](https://www.legislation.gov.uk/uksi/2003/1417/rule/A13) inserted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/2)

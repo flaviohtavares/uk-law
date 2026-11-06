@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**54.**[^key-23ab789aa220fcffc069e6ccb357a68c] Omit Parts 8 (movements of excise goods wholly within the United Kingdom under duty suspension arrangements) and 9 (simplified procedures for movements of excise goods wholly within the United Kingdom under duty suspension arrangements).
+**54.**[^c-23ab789aa220fcffc069e6ccb357a68c] Omit Parts 8 (movements of excise goods wholly within the United Kingdom under duty suspension arrangements) and 9 (simplified procedures for movements of excise goods wholly within the United Kingdom under duty suspension arrangements).
 
 ## Annotations
 
-[^key-23ab789aa220fcffc069e6ccb357a68c]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-23ab789aa220fcffc069e6ccb357a68c]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

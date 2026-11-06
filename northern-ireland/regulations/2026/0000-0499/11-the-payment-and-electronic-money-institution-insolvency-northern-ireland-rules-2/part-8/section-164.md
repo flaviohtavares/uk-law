@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 164. Recourse to the court[^key-5f12c2f53e07c3f12a378a9a98932960]
+## 164. Recourse to the court[^c-5f12c2f53e07c3f12a378a9a98932960]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ is insufficient or inappropriate, the administrator may apply to the court for a
 
 ## Annotations
 
-[^key-5f12c2f53e07c3f12a378a9a98932960]: Commencement: [Rule 164](https://www.legislation.gov.uk/nisr/2026/11/rule/164) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-5f12c2f53e07c3f12a378a9a98932960]: Commencement: [Rule 164](https://www.legislation.gov.uk/nisr/2026/11/rule/164) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

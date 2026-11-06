@@ -35,7 +35,7 @@ In this Schedule—
   - (a) in relation to an existing scheme, means the date referred to in section 18(4) of the 2014 Act,
   - (b) in relation to an existing public body pension scheme, means the date determined under section 32(2) of the 2014 Act by the public authority responsible for that scheme, and
   - (c) in relation to a transition member, means—
-    - (i) if the member is a tapered protection member of the FPS or the NFPS, the tapered protection closing date for that member,[^key-72caff5ec8a49aa10df14fc568999c53]
+    - (i) if the member is a tapered protection member of the FPS or the NFPS, the tapered protection closing date for that member,[^c-72caff5ec8a49aa10df14fc568999c53]
     - (ii) if the member is a full protection member of the FPS or the NFPS, 31st March 2022, or
     - (iii) if the member is not a protected member of one of those schemes, the scheme closing date
 - “**eligible to be an active member of the NFPS**” has the meaning given in paragraph 4;
@@ -53,7 +53,7 @@ In this Schedule—
 - “**tapered protection closing date**”, in relation to a tapered protection member of an existing scheme, has the meaning given in paragraph 3;
 - “**tapered protection member**”, in relation to the FPS or the NFPS, has the meaning given in paragraph 15;
 - “**transition date**”, in relation to a transition member, means—
-  - (a) if the member is a tapered protection member of the FPS or the NFPS, the day after the tapered protection closing date for that member,[^key-eea3f5de9bca82f92cf23d4667499440]
+  - (a) if the member is a tapered protection member of the FPS or the NFPS, the day after the tapered protection closing date for that member,[^c-eea3f5de9bca82f92cf23d4667499440]
   - (b) if the member is a full protection member of the FPS or the NFPS, 1st April 2022, and
   - (c) if the member is not a protected member of the FPS or the NFPS, the day after the scheme closing date, or the day the person ceased to be a protected member of that scheme, if later
 - “**transition member**” means a person—
@@ -73,11 +73,11 @@ In this Schedule—
 
 (1) The tapered protection closing date for a tapered protection member of the FPS is the date found by applying the relevant date in column 3 of the FPS table in Part 4 of this Schedule to the birthday referred to in column 1 and column 2.
 
-(2) Subject to[^key-3a76b700851eabecf46f7f2758b4cf26] sub-paragraphs (3) and (4)[^key-0c0c7a82861b19654ba9662d5249c21c] , the tapered protection closing date for a tapered protection member of the NFPS is the date found by applying the relevant date in column 3 of the NFPS table in Part 4 of this Schedule to the birthday referred to in column 1 and column 2.
+(2) Subject to[^c-3a76b700851eabecf46f7f2758b4cf26] sub-paragraphs (3) and (4)[^c-0c0c7a82861b19654ba9662d5249c21c] , the tapered protection closing date for a tapered protection member of the NFPS is the date found by applying the relevant date in column 3 of the NFPS table in Part 4 of this Schedule to the birthday referred to in column 1 and column 2.
 
-(3) The tapered protection closing date for a tapered protection member of the NFPS to whom paragraph 9(5) or 21 applies is a date determined by the scheme manager which must be before 1st April 2022[^key-d45ce347a897893c0c496064ea2f98e9] .
+(3) The tapered protection closing date for a tapered protection member of the NFPS to whom paragraph 9(5) or 21 applies is a date determined by the scheme manager which must be before 1st April 2022[^c-d45ce347a897893c0c496064ea2f98e9] .
 
-(4)[^key-b47d691e19782b4ce4f7e18dfc7889a1] In the case of a tapered protection member of the NFPS who is a special member of the NFPS, the tapered protection closing date is the date found by applying the relevant date in column 3 of the FPS table in Part 4 of this Schedule to the birthday referred to in column 1 and column 2.
+(4)[^c-b47d691e19782b4ce4f7e18dfc7889a1] In the case of a tapered protection member of the NFPS who is a special member of the NFPS, the tapered protection closing date is the date found by applying the relevant date in column 3 of the FPS table in Part 4 of this Schedule to the birthday referred to in column 1 and column 2.
 
 #### 4. Meaning of “eligible to be an active member” of the NFPS
 
@@ -130,12 +130,12 @@ In this Schedule—
 
 (1) A person (P) to whom any of paragraphs 12 to 14 applies is a full protection member of the FPS or the NFPS, as the case may be.
 
-(2) P ceases to be a full protection member of the FPS or the NFPS, as the case may be—[^key-cf8d089f4b547aa22a9323b119693b1f]
+(2) P ceases to be a full protection member of the FPS or the NFPS, as the case may be—[^c-cf8d089f4b547aa22a9323b119693b1f]
 
 - (a) on 31st March 2022; or
 - (b) when P cease to be in pensionable service under that scheme and ceases to be eligible to be an active member of the NFPS unless sub-paragraph (3) or (4) applies, if earlier.
 
-(2A)[^key-b0370951c9e309e5b3952c0db5caf3be] Where P was a full protection member of the FPS and after retiring from pensionable service in this scheme became entitled to a continuous service pension under article 13A, or an ordinary pension under article 13 or a short service award under article 14 of that scheme or a continued pension under article 14A, P ceases to be eligible to be a full protection member of the NFPS.
+(2A)[^c-b0370951c9e309e5b3952c0db5caf3be] Where P was a full protection member of the FPS and after retiring from pensionable service in this scheme became entitled to a continuous service pension under article 13A, or an ordinary pension under article 13 or a short service award under article 14 of that scheme or a continued pension under article 14A, P ceases to be eligible to be a full protection member of the NFPS.
 
 (3) This sub-paragraph applies if—
 
@@ -215,7 +215,7 @@ This paragraph applies if—
 
 (1) A person (P) to whom any of the paragraphs 18 to 21 applies is a tapered protection member of the FPS or the NFPS.
 
-(1A)[^key-fd6f135f7d359f56e9281362336263cd] Where P was a full protection member of the FPS and after retiring from pensionable service in this scheme, became entitled to a continuous service pension under article 13A, or an ordinary pension under article 13 or a short service award under article 14 or a continued pension under article 14A of that scheme, P ceases to be eligible to be a tapered protection member of the NFPS.
+(1A)[^c-fd6f135f7d359f56e9281362336263cd] Where P was a full protection member of the FPS and after retiring from pensionable service in this scheme, became entitled to a continuous service pension under article 13A, or an ordinary pension under article 13 or a short service award under article 14 or a continued pension under article 14A of that scheme, P ceases to be eligible to be a tapered protection member of the NFPS.
 
 (2) P ceases to be a tapered protection member of the FPS or the NFPS on whichever of the following days occurs first—
 
@@ -265,7 +265,7 @@ While a person (P) is a tapered protection member of the FPS or the NFPS, P is n
 
 - (a) P was an active member of an existing scheme other than the FPS or the NFPS, or of an existing public body pension scheme, (“P's transitional scheme”) on 31st March 2012;
 - (b) P was an active member of the NFPS on the scheme closing date; and
-- (c) P would, unless P dies, [^key-3b9d91a5c6940890573690e9f3602501]... reach normal pension age under—
+- (c) P would, unless P dies, [^c-3b9d91a5c6940890573690e9f3602501]... reach normal pension age under—
   - (i) the NFPS during the period beginning with 2nd April 2022 and ending with 31st March 2026, and
   - (ii) P's transitional scheme on or before 1st September 2025.
 
@@ -300,7 +300,7 @@ This paragraph applies if—
 - (a) paragraph 13 or 14 of this Schedule would have applied but for the fact that P would not have been a fully protected member of the existing scheme or existing public body pension scheme referred to in paragraph 13(c) or 14(c), as the case may be (“transferring scheme”) on the date P begins service which is pensionable under the NFPS; and
 - (b) P would have been a protected member of the transferring scheme by virtue of an exception to which section 18(8)(a) and (b) of the 2014 Act (or that section as applied by section 32(4)) applies had P re-entered service which is pensionable under the transferring scheme on the date P returns to service which is pensionable under the NFPS.
 
-### PART 3A — Payment of ill-health benefits to transition members[^key-264fb18fb71375b7c0321965ada42b80]
+### PART 3A — Payment of ill-health benefits to transition members[^c-264fb18fb71375b7c0321965ada42b80]
 
 #### 22. Transition member who has not reached normal pension age under the NFPS
 
@@ -440,7 +440,7 @@ This paragraph applies if—
 
 (2) The following provisions of Chapter 2 (purchase of additional service) of Part 11 (pensionable pay, pension contributions and purchase of additional service) of the NFPS continue to apply after the transition date as if T continued in pensionable service under that scheme—
 
-- (a) the provisions relating to the payment of periodical contributions for the purchase of additional service if T had made an election to purchase additional service under article 66 (election to purchase additional service) [^key-5e34901c9ca8373dfbe62ea5f6181af3]...;
+- (a) the provisions relating to the payment of periodical contributions for the purchase of additional service if T had made an election to purchase additional service under article 66 (election to purchase additional service) [^c-5e34901c9ca8373dfbe62ea5f6181af3]...;
 - (b) the provisions relating to the payment of the mandatory special period pension contributions payable in respect of an election to purchase service during the limited period under article 66A (election to purchase service during the limited period).
 
 (3) In determining whether T qualifies under the NFPS for retirement benefits (other than an award on ill-health retirement or a deferred pension), T’s pensionable service under the NFPS terminates when T’s pensionable service under this scheme terminates.
@@ -512,11 +512,11 @@ A transition member with accrued benefits in the FPS to whom paragraph 34 does n
 
 (3) If T re-enters pensionable service under this scheme after a gap in service not exceeding 5 years, T ceases to be a deferred member of the NFPS.
 
-#### 37. Scheme manager determines member of the NFPS is not entitled to an ill-health award[^key-83cf4b63eb835e3b834158b1802b96e3]
+#### 37. Scheme manager determines member of the NFPS is not entitled to an ill-health award[^c-83cf4b63eb835e3b834158b1802b96e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 38. Scheme manager determines members of the FPS is not entitled to an ill-health award[^key-8e91b00d6b93fe4070c72ae0f13e3d9b]
+#### 38. Scheme manager determines members of the FPS is not entitled to an ill-health award[^c-8e91b00d6b93fe4070c72ae0f13e3d9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -559,7 +559,7 @@ Where any element of a pension under the FPS which is in payment under that Sche
 
 #### 45. Acceptance of club transfer value payments
 
-Any part of a club transfer value payment from another scheme that relates to a members final salary benefit must apart from a payment from the Firefighters’ Pension Scheme (FPS) as that scheme has effect in England, Scotland and Wales[^key-e16986f592246efa6a50f1fae4f3f690] be paid into the NFPS.
+Any part of a club transfer value payment from another scheme that relates to a members final salary benefit must apart from a payment from the Firefighters’ Pension Scheme (FPS) as that scheme has effect in England, Scotland and Wales[^c-e16986f592246efa6a50f1fae4f3f690] be paid into the NFPS.
 
 #### 46. Member of this scheme or the NFPS
 
@@ -680,38 +680,38 @@ NFPS
 
 ## Annotations
 
-[^key-72caff5ec8a49aa10df14fc568999c53]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/1) substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(2)(a)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/2/a)
+[^c-72caff5ec8a49aa10df14fc568999c53]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/1) substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(2)(a)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/2/a)
 
-[^key-eea3f5de9bca82f92cf23d4667499440]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/1) substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/2/b)
+[^c-eea3f5de9bca82f92cf23d4667499440]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/1) substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/2/b)
 
-[^key-3a76b700851eabecf46f7f2758b4cf26]: Textual amendment: Words in Sch. 2 para. 3(2) substituted (retrospective to 1.4.2015) by [The Firefighters Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/1/paragraph/7/a)
+[^c-3a76b700851eabecf46f7f2758b4cf26]: Textual amendment: Words in Sch. 2 para. 3(2) substituted (retrospective to 1.4.2015) by [The Firefighters Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/1/paragraph/7/a)
 
-[^key-0c0c7a82861b19654ba9662d5249c21c]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 3(2)](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/part/1/paragraph/3/2) substituted (5.7.2024) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1), [5(6)(a)](https://www.legislation.gov.uk/nisr/2024/130/regulation/5/6/a)
+[^c-0c0c7a82861b19654ba9662d5249c21c]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 3(2)](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/part/1/paragraph/3/2) substituted (5.7.2024) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1), [5(6)(a)](https://www.legislation.gov.uk/nisr/2024/130/regulation/5/6/a)
 
-[^key-d45ce347a897893c0c496064ea2f98e9]: Textual amendment: Words in [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/3/3) inserted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/3)
+[^c-d45ce347a897893c0c496064ea2f98e9]: Textual amendment: Words in [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/3/3) inserted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/3)
 
-[^key-b47d691e19782b4ce4f7e18dfc7889a1]: Textual amendment: Sch. 2 para. 3(4) inserted (retrospective to 1.4.2015) by [The Firefighters Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/1/paragraph/7/a)
+[^c-b47d691e19782b4ce4f7e18dfc7889a1]: Textual amendment: Sch. 2 para. 3(4) inserted (retrospective to 1.4.2015) by [The Firefighters Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/nisr/2015/420/schedule/1/paragraph/7/a)
 
 [^c22394621]: Marginal citation: See section 18(2) of the 2014 Act for the meaning of “existing scheme”.
 
-[^key-cf8d089f4b547aa22a9323b119693b1f]: Textual amendment: Words in [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/9/2) substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/4)
+[^c-cf8d089f4b547aa22a9323b119693b1f]: Textual amendment: Words in [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/9/2) substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/4)
 
-[^key-b0370951c9e309e5b3952c0db5caf3be]: Textual amendment: Sch. 2 para. 9(2A) inserted (retrospective to 1.4.2015) by [The Firefighters Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/nisr/2015/420/schedule/1/paragraph/7/b)
+[^c-b0370951c9e309e5b3952c0db5caf3be]: Textual amendment: Sch. 2 para. 9(2A) inserted (retrospective to 1.4.2015) by [The Firefighters Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/nisr/2015/420/schedule/1/paragraph/7/b)
 
 [^c22394631]: Marginal citation: SR 2007 No 144 Article 9 provides that normal pension age is 55 and article 13 enables regular firefighters over the age of 50 to retire once they have reckoned pensionable service of at least 25 years. Article 13 has been amended by SR 2014 No 169.
 
 [^c22394641]: Marginal citation: SR 2007 No 215, article 6(1) of Part 2 provides that normal retirement age of firefighter members is 60.
 
-[^key-fd6f135f7d359f56e9281362336263cd]: Textual amendment: Sch. 2 para. 15(1A) inserted (retrospective to 1.4.2015) by [The Firefighters Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/nisr/2015/420/schedule/1/paragraph/7/c)
+[^c-fd6f135f7d359f56e9281362336263cd]: Textual amendment: Sch. 2 para. 15(1A) inserted (retrospective to 1.4.2015) by [The Firefighters Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/nisr/2015/420/schedule/1/paragraph/7/c)
 
-[^key-3b9d91a5c6940890573690e9f3602501]: Textual amendment: Word in [Sch. 2 Pt. 3 para. 18(3)(c)](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/part/3/paragraph/18/3/c) omitted (5.7.2024) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1), [5(6)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/5/6/b)
+[^c-3b9d91a5c6940890573690e9f3602501]: Textual amendment: Word in [Sch. 2 Pt. 3 para. 18(3)(c)](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/part/3/paragraph/18/3/c) omitted (5.7.2024) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1), [5(6)(b)](https://www.legislation.gov.uk/nisr/2024/130/regulation/5/6/b)
 
-[^key-264fb18fb71375b7c0321965ada42b80]: Textual amendment: [Sch. 2 Pts. 3A-3D](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/part/3A) inserted (retrospective to 1.4.2015) by [The Firefighters Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 1 para. 7(d)](https://www.legislation.gov.uk/nisr/2015/420/schedule/1/paragraph/7/d)
+[^c-264fb18fb71375b7c0321965ada42b80]: Textual amendment: [Sch. 2 Pts. 3A-3D](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/part/3A) inserted (retrospective to 1.4.2015) by [The Firefighters Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/420)](https://www.legislation.gov.uk/nisr/2015/420), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2015/420/regulation/1/2), [Sch. 1 para. 7(d)](https://www.legislation.gov.uk/nisr/2015/420/schedule/1/paragraph/7/d)
 
-[^key-5e34901c9ca8373dfbe62ea5f6181af3]: Textual amendment: Words in [Sch. 2 para. 31(2)(a)](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/31/2/a) omitted (1.4.2022) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(5)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/5)
+[^c-5e34901c9ca8373dfbe62ea5f6181af3]: Textual amendment: Words in [Sch. 2 para. 31(2)(a)](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/31/2/a) omitted (1.4.2022) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(5)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/5)
 
-[^key-83cf4b63eb835e3b834158b1802b96e3]: Textual amendment: [Sch. 2 para. 37](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/37) omitted (1.4.2022) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(6)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/6)
+[^c-83cf4b63eb835e3b834158b1802b96e3]: Textual amendment: [Sch. 2 para. 37](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/37) omitted (1.4.2022) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(6)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/6)
 
-[^key-8e91b00d6b93fe4070c72ae0f13e3d9b]: Textual amendment: [Sch. 2 para. 38](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/38) omitted (1.4.2022) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(6)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/6)
+[^c-8e91b00d6b93fe4070c72ae0f13e3d9b]: Textual amendment: [Sch. 2 para. 38](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/38) omitted (1.4.2022) by virtue of [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(6)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/6)
 
-[^key-e16986f592246efa6a50f1fae4f3f690]: Textual amendment: Words in [Sch. 2 para. 45](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/45) inserted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/7)
+[^c-e16986f592246efa6a50f1fae4f3f690]: Textual amendment: Words in [Sch. 2 para. 45](https://www.legislation.gov.uk/nisr/2015/78/schedule/2/paragraph/45) inserted (with effect in accordance with reg. 1(3) of the amending Rule) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/7)

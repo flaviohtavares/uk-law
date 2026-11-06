@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Climate change burdens[^key-1a3f9cb18fe2611e36e08ddc9f291da6]
+## 68. Climate change burdens[^c-1a3f9cb18fe2611e36e08ddc9f291da6]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ After section 46 (health care burdens) of the Title Conditions (Scotland) Act 20
 
 ## Annotations
 
-[^key-1a3f9cb18fe2611e36e08ddc9f291da6]: Commencement: S. 68 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)
+[^c-1a3f9cb18fe2611e36e08ddc9f291da6]: Commencement: S. 68 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)

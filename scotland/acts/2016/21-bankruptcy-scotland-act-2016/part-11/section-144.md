@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 144. Subsequent debtor contact: review and appeal[^key-ecca8ed325a70600bd9408332b73de1c]
+## 144. Subsequent debtor contact: review and appeal[^c-ecca8ed325a70600bd9408332b73de1c]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecca8ed325a70600bd9408332b73de1c]: Commencement: [S. 144](https://www.legislation.gov.uk/asp/2016/21/section/144) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-ecca8ed325a70600bd9408332b73de1c]: Commencement: [S. 144](https://www.legislation.gov.uk/asp/2016/21/section/144) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

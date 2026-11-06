@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8H. Meaning of “qualifying residential interest” , “qualifying former residential interest” and “residential property interest”[^key-1d8c2aa8d9b978eac19f5f41ff3300a1][^key-eff74ffba398c77a7f6b5325754bb4a4]
+## 8H. Meaning of “qualifying residential interest” , “qualifying former residential interest” and “residential property interest”[^c-1d8c2aa8d9b978eac19f5f41ff3300a1][^c-eff74ffba398c77a7f6b5325754bb4a4]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies for the purposes of sections 8E to 8FE and section 8M[^key-9157090aace24c735b578bfc9a2093c2].
+(1) This section applies for the purposes of sections 8E to 8FE and section 8M[^c-9157090aace24c735b578bfc9a2093c2].
 
-(2) A[^key-329b422771512e6a65eb740b934c5086] “**residential property interest**”, in relation to a person, means an interest in a dwelling-house which has been the person's residence at a time when the person's estate included that, or any other, interest in the dwelling-house.
+(2) A[^c-329b422771512e6a65eb740b934c5086] “**residential property interest**”, in relation to a person, means an interest in a dwelling-house which has been the person's residence at a time when the person's estate included that, or any other, interest in the dwelling-house.
 
 (3) Where a person's estate immediately before the person's death includes residential property interests in just one dwelling-house, the person's interests in that dwelling-house are a qualifying residential interest in relation to the person.
 
@@ -33,7 +33,7 @@ summary: ''
 
 the person's interests in the nominated dwelling-house are a qualifying residential interest in relation to the person.
 
-(4A)[^key-f6e983acadb8d2bc30d14e299cd6f0dd] Subsection (4B) or (4C) applies where—
+(4A)[^c-f6e983acadb8d2bc30d14e299cd6f0dd] Subsection (4B) or (4C) applies where—
 
 - (a) a person disposes of a residential property interest in a dwelling-house on or after 8 July 2015 (and before the person dies), and
 - (b) the person's personal representatives nominate—
@@ -92,12 +92,12 @@ this section applies as if the dwelling-house were at that time occupied by the 
 
 ## Annotations
 
-[^key-1d8c2aa8d9b978eac19f5f41ff3300a1]: Textual amendment: Ss. 8D-8M inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2015/33/section/9/4)
+[^c-1d8c2aa8d9b978eac19f5f41ff3300a1]: Textual amendment: Ss. 8D-8M inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2015/33/section/9/4)
 
-[^key-eff74ffba398c77a7f6b5325754bb4a4]: Textual amendment: Words in s. 8H heading inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 7(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/7/2)
+[^c-eff74ffba398c77a7f6b5325754bb4a4]: Textual amendment: Words in s. 8H heading inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 7(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/7/2)
 
-[^key-9157090aace24c735b578bfc9a2093c2]: Textual amendment: Words in s. 8H(1) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 7(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/7/3)
+[^c-9157090aace24c735b578bfc9a2093c2]: Textual amendment: Words in s. 8H(1) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 7(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/7/3)
 
-[^key-329b422771512e6a65eb740b934c5086]: Textual amendment: Word in s. 8H(2) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 7(4)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/7/4)
+[^c-329b422771512e6a65eb740b934c5086]: Textual amendment: Word in s. 8H(2) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 7(4)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/7/4)
 
-[^key-f6e983acadb8d2bc30d14e299cd6f0dd]: Textual amendment: Ss. 8H(4A)-(4G) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 7(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/7/5)
+[^c-f6e983acadb8d2bc30d14e299cd6f0dd]: Textual amendment: Ss. 8H(4A)-(4G) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 7(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/7/5)

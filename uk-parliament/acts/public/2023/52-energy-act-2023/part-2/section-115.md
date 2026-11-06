@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Power of OGA to give sanction notices[^key-4626ab4c85f34cd17dfd23daaa97046a]
+## 115. Power of OGA to give sanction notices[^c-4626ab4c85f34cd17dfd23daaa97046a]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ but it may not give separate sanction notices to each of them in respect of the 
 
 ## Annotations
 
-[^key-4626ab4c85f34cd17dfd23daaa97046a]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2023/52/section/115) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-4626ab4c85f34cd17dfd23daaa97046a]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2023/52/section/115) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

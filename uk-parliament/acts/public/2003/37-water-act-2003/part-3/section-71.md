@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Extension of Environment Agency’s powers of entry[^key-a323bc43891c61c79f2b3c494051466f]
+## 71. Extension of Environment Agency’s powers of entry[^c-a323bc43891c61c79f2b3c494051466f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In section 169 of the WRA (powers of entry for enforcement purposes), for subsec
 
 ## Annotations
 
-[^key-a323bc43891c61c79f2b3c494051466f]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2003/37/section/71) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(r)](https://www.legislation.gov.uk/uksi/2004/641/article/3/r) (with [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/6)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-a323bc43891c61c79f2b3c494051466f]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2003/37/section/71) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(r)](https://www.legislation.gov.uk/uksi/2004/641/article/3/r) (with [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/6)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

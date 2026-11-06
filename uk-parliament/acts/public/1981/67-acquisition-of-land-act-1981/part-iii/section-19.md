@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Commons, open spaces etc.[^key-e95e9173edf3be8cb2ac2492cc18cc41][^key-27c2afdbb55fbbb7ea8e9b9fe2879319][^c3314141]
+## 19. Commons, open spaces etc.[^c-e95e9173edf3be8cb2ac2492cc18cc41][^c-27c2afdbb55fbbb7ea8e9b9fe2879319][^c3314141]
 
 *Extent: E+W*
 
@@ -50,9 +50,9 @@ the Secretary of State may, after considering any representations and objections
 
 ## Annotations
 
-[^key-e95e9173edf3be8cb2ac2492cc18cc41]: Modification: S. 19 excluded (with effect in accordance with s. 40(9)(a) of the amending Act) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [ss. 36(3)(a)](https://www.legislation.gov.uk/ukpga/2006/12/section/36/3/a), [40(1)(f)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/f)
+[^c-e95e9173edf3be8cb2ac2492cc18cc41]: Modification: S. 19 excluded (with effect in accordance with s. 40(9)(a) of the amending Act) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [ss. 36(3)(a)](https://www.legislation.gov.uk/ukpga/2006/12/section/36/3/a), [40(1)(f)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/f)
 
-[^key-27c2afdbb55fbbb7ea8e9b9fe2879319]: Modification: S. 19 modified (9.1.2014) by [The Ashton Vale to Temple Meads and Bristol City Centre Rapid Transit Order 2013 (S.I. 2013/3244)](https://www.legislation.gov.uk/uksi/2013/3244), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1), [34(4)](https://www.legislation.gov.uk/uksi/2013/3244/article/34/4) (with [arts. 57](https://www.legislation.gov.uk/uksi/2013/3244/article/57), [58](https://www.legislation.gov.uk/uksi/2013/3244/article/58), [Sch. 11 para. 19](https://www.legislation.gov.uk/uksi/2013/3244/schedule/11/paragraph/19))
+[^c-27c2afdbb55fbbb7ea8e9b9fe2879319]: Modification: S. 19 modified (9.1.2014) by [The Ashton Vale to Temple Meads and Bristol City Centre Rapid Transit Order 2013 (S.I. 2013/3244)](https://www.legislation.gov.uk/uksi/2013/3244), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1), [34(4)](https://www.legislation.gov.uk/uksi/2013/3244/article/34/4) (with [arts. 57](https://www.legislation.gov.uk/uksi/2013/3244/article/57), [58](https://www.legislation.gov.uk/uksi/2013/3244/article/58), [Sch. 11 para. 19](https://www.legislation.gov.uk/uksi/2013/3244/schedule/11/paragraph/19))
 
 [^c3314141]: Modification: S. 19 applied by [Town and Country Planning Act 1990 (c. 8, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/8), [s. 229(3)](https://www.legislation.gov.uk/ukpga/1990/8/section/229/3)
 

@@ -34,7 +34,7 @@ Animals, England
 
 Animal Health
 
-The Tuberculosis (England) (Amendment) Order 2014 (revoked)[^key-ab249be7a7713d56db6c0272e262e0c9]
+The Tuberculosis (England) (Amendment) Order 2014 (revoked)[^c-ab249be7a7713d56db6c0272e262e0c9]
 
 Made
 
@@ -42,24 +42,24 @@ Made
 
 Coming into force in accordance with article 1(2)
 
-[^key-ab249be7a7713d56db6c0272e262e0c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab249be7a7713d56db6c0272e262e0c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-ab249be7a7713d56db6c0272e262e0c9]
+## 1. Title and commencement[^c-ab249be7a7713d56db6c0272e262e0c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Tuberculosis (England) Order 2007[^key-ab249be7a7713d56db6c0272e262e0c9]
+## 2. Amendments to the Tuberculosis (England) Order 2007[^c-ab249be7a7713d56db6c0272e262e0c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab249be7a7713d56db6c0272e262e0c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab249be7a7713d56db6c0272e262e0c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ab249be7a7713d56db6c0272e262e0c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab249be7a7713d56db6c0272e262e0c9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab249be7a7713d56db6c0272e262e0c9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/714) revoked (1.10.2014) by [The Tuberculosis (England) Order 2014 (S.I. 2014/2383)](https://www.legislation.gov.uk/uksi/2014/2383), [art. 24(c)](https://www.legislation.gov.uk/uksi/2014/2383/article/24/c) (with [art. 25](https://www.legislation.gov.uk/uksi/2014/2383/article/25))
+[^c-ab249be7a7713d56db6c0272e262e0c9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/714) revoked (1.10.2014) by [The Tuberculosis (England) Order 2014 (S.I. 2014/2383)](https://www.legislation.gov.uk/uksi/2014/2383), [art. 24(c)](https://www.legislation.gov.uk/uksi/2014/2383/article/24/c) (with [art. 25](https://www.legislation.gov.uk/uksi/2014/2383/article/25))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Commander to ensure demonstration of use of oxygen[^key-c082dc0fc262c7bf9f1c9a27b958653d]
+## 51. Commander to ensure demonstration of use of oxygen[^c-c082dc0fc262c7bf9f1c9a27b958653d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c082dc0fc262c7bf9f1c9a27b958653d]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2015/870/article/51) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-c082dc0fc262c7bf9f1c9a27b958653d]: Commencement: [Art. 51](https://www.legislation.gov.uk/uksi/2015/870/article/51) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

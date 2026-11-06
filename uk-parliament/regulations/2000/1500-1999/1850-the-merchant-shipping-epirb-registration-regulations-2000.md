@@ -33,7 +33,7 @@ MERCHANT SHIPPING
 
 SAFETY
 
-The Merchant Shipping (EPIRB Registration) Regulations 2000 (revoked)[^key-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
+The Merchant Shipping (EPIRB Registration) Regulations 2000 (revoked)[^c-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
 
 Made
 
@@ -47,48 +47,48 @@ Coming into force
 
 1st September 2000
 
-[^key-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
+## 1. Citation and commencement[^c-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
+## 2. Interpretation[^c-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
+## 3. Application[^c-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Competent authority[^key-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
+## 4. Competent authority[^c-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Requirement for EPIRBs to be registered[^key-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
+## 5. Requirement for EPIRBs to be registered[^c-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Change in registered particulars[^key-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
+## 6. Change in registered particulars[^c-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences[^key-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
+## 7. Offences[^c-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Defence[^key-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
+## 8. Defence[^c-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2000/1850) revoked (15.4.2026) by [The Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 (S.I. 2026/306)](https://www.legislation.gov.uk/uksi/2026/306), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/306/regulation/2/2)
+[^c-b6fa37bb3b7e7d3f41d2dc984d5d2ebb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2000/1850) revoked (15.4.2026) by [The Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 (S.I. 2026/306)](https://www.legislation.gov.uk/uksi/2026/306), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/306/regulation/2/2)

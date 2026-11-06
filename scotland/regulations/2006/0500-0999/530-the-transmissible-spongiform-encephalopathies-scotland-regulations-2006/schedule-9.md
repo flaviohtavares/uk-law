@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 9 — Consequential Amendments[^key-f8a08c6040a6f4c110eb8061b1292dd6]
+## SCHEDULE 9 — Consequential Amendments[^c-f8a08c6040a6f4c110eb8061b1292dd6]
 
 *Extent: S*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Regulation 22
 
-### The Animal By-Products (Identification) Regulations 1995[^key-f8a08c6040a6f4c110eb8061b1292dd6]
+### The Animal By-Products (Identification) Regulations 1995[^c-f8a08c6040a6f4c110eb8061b1292dd6]
 
-**1.**[^key-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Rendering (Fluid Treatment) (Scotland) Order 2001[^key-f8a08c6040a6f4c110eb8061b1292dd6]
+### The Rendering (Fluid Treatment) (Scotland) Order 2001[^c-f8a08c6040a6f4c110eb8061b1292dd6]
 
-**2.**[^key-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Meat Products (Scotland) Regulations 2004[^key-f8a08c6040a6f4c110eb8061b1292dd6]
+### The Meat Products (Scotland) Regulations 2004[^c-f8a08c6040a6f4c110eb8061b1292dd6]
 
-**3.**[^key-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f8a08c6040a6f4c110eb8061b1292dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f8a08c6040a6f4c110eb8061b1292dd6]: Textual amendment: Regulations revoked in part (28.5.2010) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010 (S.S.I. 2010/177)](https://www.legislation.gov.uk/ssi/2010/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/177/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2010/177/schedule/10) (with [reg. 22](https://www.legislation.gov.uk/ssi/2010/177/regulation/22))
+[^c-f8a08c6040a6f4c110eb8061b1292dd6]: Textual amendment: Regulations revoked in part (28.5.2010) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010 (S.S.I. 2010/177)](https://www.legislation.gov.uk/ssi/2010/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/177/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2010/177/schedule/10) (with [reg. 22](https://www.legislation.gov.uk/ssi/2010/177/regulation/22))

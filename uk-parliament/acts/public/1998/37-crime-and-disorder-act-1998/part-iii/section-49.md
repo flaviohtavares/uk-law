@@ -41,13 +41,13 @@ summary: ''
   - (iv) the manner in which evidence is to be given; and
 - (n) to give, vary or revoke orders for separate or joint trials in the case of two or more accused or two or more informations.
 
-(2)[^key-0af2e8bb902c1e57eb75c4230ecfef9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0af2e8bb902c1e57eb75c4230ecfef9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-0af2e8bb902c1e57eb75c4230ecfef9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0af2e8bb902c1e57eb75c4230ecfef9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-0af2e8bb902c1e57eb75c4230ecfef9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0af2e8bb902c1e57eb75c4230ecfef9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-0af2e8bb902c1e57eb75c4230ecfef9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0af2e8bb902c1e57eb75c4230ecfef9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -55,4 +55,4 @@ summary: ''
 
 [^c9524861]: Textual amendment: S. 49(1)(j) repealed (2.4.2001) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [Sch. 15 Pt. I](https://www.legislation.gov.uk/ukpga/1999/22/schedule/15/part/I) (with [Sch. 14 paras. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2), [36(9)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/36/9)); [S.I. 2001/916](https://www.legislation.gov.uk/uksi/2001/916), [art. 3(b)](https://www.legislation.gov.uk/uksi/2001/916/article/3/b) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2001/916/schedule/2/paragraph/2))
 
-[^key-0af2e8bb902c1e57eb75c4230ecfef9e]: Textual amendment: S. 49(2)-(5) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/21); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-0af2e8bb902c1e57eb75c4230ecfef9e]: Textual amendment: S. 49(2)-(5) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/21); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)

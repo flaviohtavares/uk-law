@@ -34,7 +34,7 @@ This Statutory Instrument has been made in consequence of a defect in [SI 2009/1
 
 Environmental Protection, England
 
-The Environmental Damage (Prevention and Remediation) (Amendment) Regulations 2009 (revoked)[^key-0f2daf23c108877c7ed354ec90cd3518]
+The Environmental Damage (Prevention and Remediation) (Amendment) Regulations 2009 (revoked)[^c-0f2daf23c108877c7ed354ec90cd3518]
 
 Made
 
@@ -48,27 +48,27 @@ Coming into force
 
 12th January 2010
 
-[^key-0f2daf23c108877c7ed354ec90cd3518]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f2daf23c108877c7ed354ec90cd3518]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-0f2daf23c108877c7ed354ec90cd3518]
+## 1. Title, commencement and application[^c-0f2daf23c108877c7ed354ec90cd3518]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-0f2daf23c108877c7ed354ec90cd3518]
+## 2. Amendments[^c-0f2daf23c108877c7ed354ec90cd3518]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0f2daf23c108877c7ed354ec90cd3518] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0f2daf23c108877c7ed354ec90cd3518] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0f2daf23c108877c7ed354ec90cd3518] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0f2daf23c108877c7ed354ec90cd3518] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f2daf23c108877c7ed354ec90cd3518]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f2daf23c108877c7ed354ec90cd3518]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-0f2daf23c108877c7ed354ec90cd3518]EXPLANATORY NOTE
+[^c-0f2daf23c108877c7ed354ec90cd3518]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -84,4 +84,4 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-0f2daf23c108877c7ed354ec90cd3518]: Textual amendment: Regulations revoked (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (England) Regulations 2015 (S.I. 2015/810)](https://www.legislation.gov.uk/uksi/2015/810), [regs. 1(1), 36](https://www.legislation.gov.uk/uksi/2015/810/regulation/36) (with [regs. 4-8](https://www.legislation.gov.uk/uksi/2015/810/regulation/4))
+[^c-0f2daf23c108877c7ed354ec90cd3518]: Textual amendment: Regulations revoked (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (England) Regulations 2015 (S.I. 2015/810)](https://www.legislation.gov.uk/uksi/2015/810), [regs. 1(1), 36](https://www.legislation.gov.uk/uksi/2015/810/regulation/36) (with [regs. 4-8](https://www.legislation.gov.uk/uksi/2015/810/regulation/4))

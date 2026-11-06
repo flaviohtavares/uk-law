@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 93. Interest on late payment of certain benefits[^key-9578be6c6ee6410c62e88e697fd0fa03]
+## 93. Interest on late payment of certain benefits[^c-9578be6c6ee6410c62e88e697fd0fa03]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9578be6c6ee6410c62e88e697fd0fa03]: Commencement: Reg. 93 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-9578be6c6ee6410c62e88e697fd0fa03]: Commencement: Reg. 93 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

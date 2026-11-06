@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8.3. Notes of argument[^key-80a9482d225b89575ca69cc729645d4b]
+## 8.3. Notes of argument[^c-80a9482d225b89575ca69cc729645d4b]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80a9482d225b89575ca69cc729645d4b]: Commencement: Para. 8.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-80a9482d225b89575ca69cc729645d4b]: Commencement: Para. 8.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

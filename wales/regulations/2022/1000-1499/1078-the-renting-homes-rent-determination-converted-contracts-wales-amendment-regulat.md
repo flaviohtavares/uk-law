@@ -47,15 +47,15 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 236(3) and 256(1) and (2)[^f00001] of and paragraph 15(2) of Schedule 12 to the Renting Homes (Wales) Act 2016[^f00002].
 
-## 1. Title and commencement[^key-d7b3f6c58c38e4f8102521f12478f073]
+## 1. Title and commencement[^c-d7b3f6c58c38e4f8102521f12478f073]
 
 The title of these Regulations is the Renting Homes (Rent Determination) (Converted Contracts) (Wales) (Amendment) Regulations 2022 and they come into force on 30 November 2022.
 
-## 2. Interpretation[^key-f1f07017b56d798af0e5db7a42104e19]
+## 2. Interpretation[^c-f1f07017b56d798af0e5db7a42104e19]
 
 In these Regulations, “**the 1971 Regulations**” (“***Rheoliadau 1971***”) means the Rent Assessment Committees (England and Wales) Regulations 1971[^f00003].
 
-## 3. Amendments to the Renting Homes (Rent Determination) (Converted Contracts) (Wales) Regulations 2022[^key-44e248dd299859caa38d64d160af6304]
+## 3. Amendments to the Renting Homes (Rent Determination) (Converted Contracts) (Wales) Regulations 2022[^c-44e248dd299859caa38d64d160af6304]
 
 (1) The Renting Homes (Rent Determination) (Converted Contracts) (Wales) Regulations 2022[^f00004] are amended as follows.
 
@@ -139,13 +139,13 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [2016 anaw 1](https://www.legislation.gov.uk/anaw/2016/1). Schedule 12 is introduced by section 240.
 
-[^key-d7b3f6c58c38e4f8102521f12478f073]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/1078/regulation/1) in force at 30.11.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/1078/regulation/1)
+[^c-d7b3f6c58c38e4f8102521f12478f073]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/1078/regulation/1) in force at 30.11.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/1078/regulation/1)
 
-[^key-f1f07017b56d798af0e5db7a42104e19]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/1078/regulation/2) in force at 30.11.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/1078/regulation/1)
+[^c-f1f07017b56d798af0e5db7a42104e19]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/1078/regulation/2) in force at 30.11.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/1078/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1971/1065](https://www.legislation.gov.uk/uksi/1971/1065).
 
-[^key-44e248dd299859caa38d64d160af6304]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/1078/regulation/3) in force at 30.11.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/1078/regulation/1)
+[^c-44e248dd299859caa38d64d160af6304]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/1078/regulation/3) in force at 30.11.2022, see [reg. 1](https://www.legislation.gov.uk/wsi/2022/1078/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2022/781 (W. 170)](https://www.legislation.gov.uk/wsi/2022/781).
 

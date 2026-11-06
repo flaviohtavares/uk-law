@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Plastic Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-5fc30e8e7389fc683b1ce10ee029a04c]
+The Plastic Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-5fc30e8e7389fc683b1ce10ee029a04c]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 30th December 2004
 
-[^key-5fc30e8e7389fc683b1ce10ee029a04c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fc30e8e7389fc683b1ce10ee029a04c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5fc30e8e7389fc683b1ce10ee029a04c]
+## 1. Citation and commencement[^c-5fc30e8e7389fc683b1ce10ee029a04c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 1998[^key-5fc30e8e7389fc683b1ce10ee029a04c]
+## 2. Amendments to the Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 1998[^c-5fc30e8e7389fc683b1ce10ee029a04c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5fc30e8e7389fc683b1ce10ee029a04c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5fc30e8e7389fc683b1ce10ee029a04c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5fc30e8e7389fc683b1ce10ee029a04c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5fc30e8e7389fc683b1ce10ee029a04c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5fc30e8e7389fc683b1ce10ee029a04c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5fc30e8e7389fc683b1ce10ee029a04c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5fc30e8e7389fc683b1ce10ee029a04c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5fc30e8e7389fc683b1ce10ee029a04c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5fc30e8e7389fc683b1ce10ee029a04c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fc30e8e7389fc683b1ce10ee029a04c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5fc30e8e7389fc683b1ce10ee029a04c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5fc30e8e7389fc683b1ce10ee029a04c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5fc30e8e7389fc683b1ce10ee029a04c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/493) revoked (30.6.2006) by [The Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/251)](https://www.legislation.gov.uk/nisr/2006/251), [regs. 1](https://www.legislation.gov.uk/nisr/2006/251/regulation/1)
+[^c-5fc30e8e7389fc683b1ce10ee029a04c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/493) revoked (30.6.2006) by [The Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/251)](https://www.legislation.gov.uk/nisr/2006/251), [regs. 1](https://www.legislation.gov.uk/nisr/2006/251/regulation/1)

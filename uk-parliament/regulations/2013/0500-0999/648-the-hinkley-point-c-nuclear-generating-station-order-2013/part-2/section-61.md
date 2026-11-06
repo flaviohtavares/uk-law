@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Obstruction of work[^key-9bf81a62d22bac7d606cc3d52c5fbc86]
+## 61. Obstruction of work[^c-9bf81a62d22bac7d606cc3d52c5fbc86]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## Annotations
 
-[^key-9bf81a62d22bac7d606cc3d52c5fbc86]: Commencement: Art. 61 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-9bf81a62d22bac7d606cc3d52c5fbc86]: Commencement: Art. 61 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

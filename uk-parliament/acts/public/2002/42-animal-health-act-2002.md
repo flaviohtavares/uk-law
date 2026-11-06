@@ -175,7 +175,7 @@ In the 1981 Act the following section is inserted after section 16—
 
 ## Part 2 — Scrapie
 
-### 6. Scrapie[^key-a9b49a0c498cb01aa65d9dadcf6a95b1]
+### 6. Scrapie[^c-a9b49a0c498cb01aa65d9dadcf6a95b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -680,7 +680,7 @@ This Act extends only to England and Wales.
 
 This Act may be cited as the Animal Health Act 2002.
 
-## SCHEDULE — Scrapie[^key-5ce71db5bb8ba780168edf4e1de34ea2]
+## SCHEDULE — Scrapie[^c-5ce71db5bb8ba780168edf4e1de34ea2]
 
 Section 6
 
@@ -688,8 +688,8 @@ Section 6
 
 ## Annotations
 
-[^key-a9b49a0c498cb01aa65d9dadcf6a95b1]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2002/42/section/6) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 38](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/38)
+[^c-a9b49a0c498cb01aa65d9dadcf6a95b1]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/2002/42/section/6) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 38](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/38)
 
 [^c887472]: Subordinate legislation: [S. 19(1)](https://www.legislation.gov.uk/ukpga/2002/42/section/19/1) power fully exercised: different dates appointed for specified provisions by [S.I. 2002/3044](https://www.legislation.gov.uk/uksi/2002/3044), [art. 2](https://www.legislation.gov.uk/uksi/2002/3044/article/2)
 
-[^key-5ce71db5bb8ba780168edf4e1de34ea2]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ukpga/2002/42/schedule) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 38](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/38)
+[^c-5ce71db5bb8ba780168edf4e1de34ea2]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ukpga/2002/42/schedule) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 38](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/38)

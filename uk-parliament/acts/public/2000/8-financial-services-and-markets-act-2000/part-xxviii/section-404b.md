@@ -27,7 +27,7 @@ summary: ''
 
 the way in which the complaint is to be determined by the ombudsman is to be as mentioned in subsection (4).
 
-(1A)[^key-3854a15704ca9418d6ea36234153b664] Subsection (1) does not apply if the consumer and the relevant firm agree that it should not apply.
+(1A)[^c-3854a15704ca9418d6ea36234153b664] Subsection (1) does not apply if the consumer and the relevant firm agree that it should not apply.
 
 (2) If a consumer—
 
@@ -36,11 +36,11 @@ the way in which the complaint is to be determined by the ombudsman is to be as 
 
 the consumer may, in respect of that determination or failure, make a complaint under the ombudsman scheme.
 
-(2A)[^key-5254c1b356f83b36be3cd1357614e2bc] The way in which a complaint mentioned in subsection (2) is to be determined by the ombudsman is to be as mentioned in subsection (4).
+(2A)[^c-5254c1b356f83b36be3cd1357614e2bc] The way in which a complaint mentioned in subsection (2) is to be determined by the ombudsman is to be as mentioned in subsection (4).
 
 (2B) Subsection (2A) does not apply if the consumer and the relevant firm agree that it should not apply.
 
-(3)[^key-0a7f6ef6bda1d864238a400c19102aae] In the following provisions of this section “relevant complaint” means—
+(3)[^c-0a7f6ef6bda1d864238a400c19102aae] In the following provisions of this section “relevant complaint” means—
 
 - (a) a complaint mentioned in subsection (1) other than one in relation to which subsection (1A) applies, or
 - (b) a complaint mentioned in subsection (2) other than one in relation to which subsection (2B) applies.
@@ -73,8 +73,8 @@ the consumer may, in respect of that determination or failure, make a complaint 
 
 [^c2078023]: Textual amendment: Ss. 404-404G and preceding cross-heading substituted (12.10.2010) for s. 404 and preceding cross-heading by [Financial Services Act 2010 (c. 28)](https://www.legislation.gov.uk/ukpga/2010/28), [ss. 14](https://www.legislation.gov.uk/ukpga/2010/28/section/14), [26(3)](https://www.legislation.gov.uk/ukpga/2010/28/section/26/3); [S.I. 2010/2480](https://www.legislation.gov.uk/uksi/2010/2480), [art. 2](https://www.legislation.gov.uk/uksi/2010/2480/article/2)
 
-[^key-3854a15704ca9418d6ea36234153b664]: Textual amendment: S. 404B(1A) inserted (7.4.2015) by [The Alternative Dispute Resolution for Consumer Disputes (Competent Authorities and Information) Regulations 2015 (S.I. 2015/542)](https://www.legislation.gov.uk/uksi/2015/542), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/542/regulation/1/2), [Sch. 7 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/542/schedule/7/paragraph/1/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2015/542/regulation/7))
+[^c-3854a15704ca9418d6ea36234153b664]: Textual amendment: S. 404B(1A) inserted (7.4.2015) by [The Alternative Dispute Resolution for Consumer Disputes (Competent Authorities and Information) Regulations 2015 (S.I. 2015/542)](https://www.legislation.gov.uk/uksi/2015/542), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/542/regulation/1/2), [Sch. 7 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/542/schedule/7/paragraph/1/2/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2015/542/regulation/7))
 
-[^key-5254c1b356f83b36be3cd1357614e2bc]: Textual amendment: S. 404B(2A)(2B) inserted (7.4.2015) by [The Alternative Dispute Resolution for Consumer Disputes (Competent Authorities and Information) Regulations 2015 (S.I. 2015/542)](https://www.legislation.gov.uk/uksi/2015/542), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/542/regulation/1/2), [Sch. 7 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/542/schedule/7/paragraph/1/2/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2015/542/regulation/7))
+[^c-5254c1b356f83b36be3cd1357614e2bc]: Textual amendment: S. 404B(2A)(2B) inserted (7.4.2015) by [The Alternative Dispute Resolution for Consumer Disputes (Competent Authorities and Information) Regulations 2015 (S.I. 2015/542)](https://www.legislation.gov.uk/uksi/2015/542), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/542/regulation/1/2), [Sch. 7 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/542/schedule/7/paragraph/1/2/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2015/542/regulation/7))
 
-[^key-0a7f6ef6bda1d864238a400c19102aae]: Textual amendment: S. 404B(3) substituted (7.4.2015) by [The Alternative Dispute Resolution for Consumer Disputes (Competent Authorities and Information) Regulations 2015 (S.I. 2015/542)](https://www.legislation.gov.uk/uksi/2015/542), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/542/regulation/1/2), [Sch. 7 para. 1(2)(c)](https://www.legislation.gov.uk/uksi/2015/542/schedule/7/paragraph/1/2/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2015/542/regulation/7))
+[^c-0a7f6ef6bda1d864238a400c19102aae]: Textual amendment: S. 404B(3) substituted (7.4.2015) by [The Alternative Dispute Resolution for Consumer Disputes (Competent Authorities and Information) Regulations 2015 (S.I. 2015/542)](https://www.legislation.gov.uk/uksi/2015/542), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/542/regulation/1/2), [Sch. 7 para. 1(2)(c)](https://www.legislation.gov.uk/uksi/2015/542/schedule/7/paragraph/1/2/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2015/542/regulation/7))

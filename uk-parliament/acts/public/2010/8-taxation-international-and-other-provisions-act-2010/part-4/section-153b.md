@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153B. Election for deemed guarantee[^key-81b55b8cded42437b162134c31c2325f]
+## 153B. Election for deemed guarantee[^c-81b55b8cded42437b162134c31c2325f]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ as having provided a guarantee in respect of so much of the borrowing as is exce
 
 ## Annotations
 
-[^key-81b55b8cded42437b162134c31c2325f]: Textual amendment: [S. 153B](https://www.legislation.gov.uk/ukpga/2010/8/section/153B) inserted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 4(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/4/4), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)
+[^c-81b55b8cded42437b162134c31c2325f]: Textual amendment: [S. 153B](https://www.legislation.gov.uk/ukpga/2010/8/section/153B) inserted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 4(4)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/4/4), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Meaning of post-mortem examination for purposes of Act[^key-5e30ba6214b0eb7a092808f9c8fa7a7b]
+## 23. Meaning of post-mortem examination for purposes of Act[^c-5e30ba6214b0eb7a092808f9c8fa7a7b]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In this Act, “**post-mortem examination**” means examination of the body of 
 
 ## Annotations
 
-[^key-5e30ba6214b0eb7a092808f9c8fa7a7b]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2006/4/section/23) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-5e30ba6214b0eb7a092808f9c8fa7a7b]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2006/4/section/23) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

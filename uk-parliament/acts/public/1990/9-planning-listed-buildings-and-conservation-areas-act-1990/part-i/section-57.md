@@ -40,8 +40,8 @@ summary: ''
 
 (7) In this section and in section 58 “**local authority**” means—
 
-- (a) the council of a county in England,[^key-7e594c0d6c9039cc13dc06ed314085cb] borough or district,
-- (b) a joint planning board constituted under section 2 of the principal Act for an area in England[^key-8878403df3f57f83fa6b2c5d290380f2], and
+- (a) the council of a county in England,[^c-7e594c0d6c9039cc13dc06ed314085cb] borough or district,
+- (b) a joint planning board constituted under section 2 of the principal Act for an area in England[^c-8878403df3f57f83fa6b2c5d290380f2], and
 - (c) in relation to a building or land in the Broads, the Broads Authority.
 
 ## Annotations
@@ -52,6 +52,6 @@ summary: ''
 
 [^c21494351]: Modification: S. 57: functions made exercisable concurrently (1.2.2005) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(1)(2)(xxxiii)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/1/2/xxxiii) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
 
-[^key-7e594c0d6c9039cc13dc06ed314085cb]: Textual amendment: Words in [s. 57(7)(a)](https://www.legislation.gov.uk/ukpga/1990/9/section/57/7/a) substituted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 132(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/132/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-7e594c0d6c9039cc13dc06ed314085cb]: Textual amendment: Words in [s. 57(7)(a)](https://www.legislation.gov.uk/ukpga/1990/9/section/57/7/a) substituted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 132(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/132/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-8878403df3f57f83fa6b2c5d290380f2]: Textual amendment: Words in [s. 57(7)(b)](https://www.legislation.gov.uk/ukpga/1990/9/section/57/7/b) inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 132(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/132/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-8878403df3f57f83fa6b2c5d290380f2]: Textual amendment: Words in [s. 57(7)(b)](https://www.legislation.gov.uk/ukpga/1990/9/section/57/7/b) inserted (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 132(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/132/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

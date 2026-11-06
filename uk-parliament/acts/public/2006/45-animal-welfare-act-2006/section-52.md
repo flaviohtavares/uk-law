@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Conditions for grant of warrant[^key-bc30e0e0afb7aca723072f47ee57e377][^key-ed45b212b975e961698670bbc6aa13ba]
+## 52. Conditions for grant of warrant[^c-bc30e0e0afb7aca723072f47ee57e377][^c-ed45b212b975e961698670bbc6aa13ba]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc30e0e0afb7aca723072f47ee57e377]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2006/45/section/52) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(f)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/f)
+[^c-bc30e0e0afb7aca723072f47ee57e377]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2006/45/section/52) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(f)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/f)
 
-[^key-ed45b212b975e961698670bbc6aa13ba]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2006/45/section/52) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/h)
+[^c-ed45b212b975e961698670bbc6aa13ba]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2006/45/section/52) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/h)

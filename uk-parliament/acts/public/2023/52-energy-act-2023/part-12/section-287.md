@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 287. Financial assistance for resilience and continuity purposes[^key-12741a21b5a5081150738cb8530ce9ec][^key-d7787e0c14233ecb2c0b4d24c41cffce]
+## 287. Financial assistance for resilience and continuity purposes[^c-12741a21b5a5081150738cb8530ce9ec][^c-d7787e0c14233ecb2c0b4d24c41cffce]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-12741a21b5a5081150738cb8530ce9ec]: Commencement: S. 287 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-12741a21b5a5081150738cb8530ce9ec]: Commencement: S. 287 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-d7787e0c14233ecb2c0b4d24c41cffce]: Commencement: [S. 287](https://www.legislation.gov.uk/ukpga/2023/52/section/287) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(ix)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/ix)
+[^c-d7787e0c14233ecb2c0b4d24c41cffce]: Commencement: [S. 287](https://www.legislation.gov.uk/ukpga/2023/52/section/287) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(ix)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/ix)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Trade enforcement: application of CEMA[^key-67bc0b55dcfb1f7e5a8b8e2efcb1128d]
+## 65. Trade enforcement: application of CEMA[^c-67bc0b55dcfb1f7e5a8b8e2efcb1128d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ the matter is to be treated as an assigned matter.
 - (c) regulation 56(6) (general trade licences: records), or
 - (d) regulation 57(5) (general trade licences: inspection of records).
 
-(3A)[^key-cb972844fa1bf41f6101f3df5393bc15] The Commissioners may not investigate the suspected commission of a relevant offence listed in paragraph (3B), (3C) or (3D), unless the suspected offence has been the subject of—
+(3A)[^c-cb972844fa1bf41f6101f3df5393bc15] The Commissioners may not investigate the suspected commission of a relevant offence listed in paragraph (3B), (3C) or (3D), unless the suspected offence has been the subject of—
 
 - (a) a referral to the Commissioners by the Secretary of State, or
 - (b) a decision by the Commissioners to treat the suspected offence as if it had been referred to them under sub-paragraph (a).
@@ -71,11 +71,11 @@ the matter is to be treated as an assigned matter.
 
 ## Annotations
 
-[^key-67bc0b55dcfb1f7e5a8b8e2efcb1128d]: Commencement: Reg. 65 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-67bc0b55dcfb1f7e5a8b8e2efcb1128d]: Commencement: Reg. 65 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
 
 [^c24500431]: Marginal citation: The definition of “assigned matter” in section 1(1) of CEMA was amended by the [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [Schedule 4](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4), [paragraph 22(a)](https://www.legislation.gov.uk/ukpga/2005/11/paragraph/22/a); the [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [section 24(7)](https://www.legislation.gov.uk/ukpga/2012/11/section/24/7); and the [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [section 7(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/7/1).
 
-[^key-cb972844fa1bf41f6101f3df5393bc15]: Textual amendment: [Reg. 65(3A)-(3D)](https://www.legislation.gov.uk/uksi/2021/496/regulation/65/3A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [16(10)](https://www.legislation.gov.uk/uksi/2024/643/regulation/16/10)
+[^c-cb972844fa1bf41f6101f3df5393bc15]: Textual amendment: [Reg. 65(3A)-(3D)](https://www.legislation.gov.uk/uksi/2021/496/regulation/65/3A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [16(10)](https://www.legislation.gov.uk/uksi/2024/643/regulation/16/10)
 
 [^c24500441]: Marginal citation: [Section 138](https://www.legislation.gov.uk/uksi/2021/496/section/138) of CEMA was amended by the [Police and Criminal Evidence Act 1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60), [section 114(1)](https://www.legislation.gov.uk/ukpga/1984/60/section/114/1), [Schedule 6](https://www.legislation.gov.uk/ukpga/1984/60/schedule/6), [paragraph 37](https://www.legislation.gov.uk/ukpga/1984/60/paragraph/37) and Schedule 7, Part 1; the [Finance Act 1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39), [section 11](https://www.legislation.gov.uk/ukpga/1988/39/section/11); the [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [Schedule 7](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7), [paragraph 54](https://www.legislation.gov.uk/ukpga/2005/15/paragraph/54); [S.I. 1989/1341 (N.I.12)](https://www.legislation.gov.uk/nisi/1989/1341); and [S.I. 2007/288](https://www.legislation.gov.uk/uksi/2007/288).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Disablement, death or treatment in hospital the result of an injury[^key-be33df895fb5064ce424e7e450b47f08]
+## 7. Disablement, death or treatment in hospital the result of an injury[^c-be33df895fb5064ce424e7e450b47f08]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of these Regulations disablement or death or treatment at a hos
 
 ## Annotations
 
-[^key-be33df895fb5064ce424e7e450b47f08]: Commencement: Reg. 7 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-be33df895fb5064ce424e7e450b47f08]: Commencement: Reg. 7 in operation at 25.7.2006 with effect in accordance with reg. 1

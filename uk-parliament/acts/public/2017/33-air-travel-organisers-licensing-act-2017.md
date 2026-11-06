@@ -75,7 +75,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   > | --- | --- | --- | --- |
   > | Section 71A(6) | Regulations amending the definition of “Air Travel Trust” | Subject to the affirmative resolution procedure | Paragraphs 1 and 2 of Part 3 apply. |
 
-## 3. Provision of information[^key-165b85849d3060f8cc62103542c7e847]
+## 3. Provision of information[^c-165b85849d3060f8cc62103542c7e847]
 
 (1) Section 84 of the Civil Aviation Act 1982 (provision by others of information for the CAA and Secretary of State) is amended as follows.
 
@@ -119,4 +119,4 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-165b85849d3060f8cc62103542c7e847]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/33/section/3) in force at 1.7.2018 by [S.I. 2018/669](https://www.legislation.gov.uk/uksi/2018/669), [reg. 2](https://www.legislation.gov.uk/uksi/2018/669/regulation/2)
+[^c-165b85849d3060f8cc62103542c7e847]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/33/section/3) in force at 1.7.2018 by [S.I. 2018/669](https://www.legislation.gov.uk/uksi/2018/669), [reg. 2](https://www.legislation.gov.uk/uksi/2018/669/regulation/2)

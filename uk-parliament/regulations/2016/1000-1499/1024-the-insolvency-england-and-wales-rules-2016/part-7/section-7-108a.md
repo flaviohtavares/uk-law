@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.108A. Priority of moratorium debts in subsequent winding up[^key-e1dfd5b5f6475b470bbb3106f04eff83]
+## 7.108A. Priority of moratorium debts in subsequent winding up[^c-e1dfd5b5f6475b470bbb3106f04eff83]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1dfd5b5f6475b470bbb3106f04eff83]: Textual amendment: [Rule 7.108A](https://www.legislation.gov.uk/uksi/2016/1024/rule/7.108A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [42](https://www.legislation.gov.uk/uksi/2021/1028/rule/42) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-e1dfd5b5f6475b470bbb3106f04eff83]: Textual amendment: [Rule 7.108A](https://www.legislation.gov.uk/uksi/2016/1024/rule/7.108A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [42](https://www.legislation.gov.uk/uksi/2021/1028/rule/42) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))

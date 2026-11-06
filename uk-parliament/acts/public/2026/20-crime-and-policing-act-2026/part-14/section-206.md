@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Meaning of “law enforcement employer”[^key-8cd4d62d106ba2ede0e41615490597a8][^key-0964eaa0768d902dba40cefd68d7b7c1]
+## 206. Meaning of “law enforcement employer”[^c-8cd4d62d106ba2ede0e41615490597a8][^c-0964eaa0768d902dba40cefd68d7b7c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8cd4d62d106ba2ede0e41615490597a8]: Commencement: S. 206 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8cd4d62d106ba2ede0e41615490597a8]: Commencement: S. 206 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-0964eaa0768d902dba40cefd68d7b7c1]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2026/20/section/206) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/f)
+[^c-0964eaa0768d902dba40cefd68d7b7c1]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2026/20/section/206) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/f)

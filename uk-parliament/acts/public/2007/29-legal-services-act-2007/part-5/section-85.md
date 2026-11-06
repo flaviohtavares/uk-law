@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 85. Terms of licence[^key-4ee00fe32cdab96eaef6fbb73b7316b5]
+## 85. Terms of licence[^c-4ee00fe32cdab96eaef6fbb73b7316b5]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ee00fe32cdab96eaef6fbb73b7316b5]: Commencement: S. 85 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2196/article/4))
+[^c-4ee00fe32cdab96eaef6fbb73b7316b5]: Commencement: S. 85 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2196/article/4))

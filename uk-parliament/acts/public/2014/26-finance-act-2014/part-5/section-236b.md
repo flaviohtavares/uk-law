@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236B. Effect of stop notices[^key-586b29d4a24070b122eaee8199547906]
+## 236B. Effect of stop notices[^c-586b29d4a24070b122eaee8199547906]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ summary: ''
 - (b) any name under which the person carries on a business and any previous name or pseudonym known by the recipient of the stop notice;
 - (c) the person's business address or registered office.
 
-(7) An authorised officer may give a copy of a stop notice to any person the officer considers the recipient of the notice is obliged to give a copy to as a result of subsection (3)(a), (4)(a) or (5)(a)[^key-6f1d5ca0033f828445639ba8f0e66cea] (but this does not affect the obligation of the recipient to do so).
+(7) An authorised officer may give a copy of a stop notice to any person the officer considers the recipient of the notice is obliged to give a copy to as a result of subsection (3)(a), (4)(a) or (5)(a)[^c-6f1d5ca0033f828445639ba8f0e66cea] (but this does not affect the obligation of the recipient to do so).
 
 (8) Sub-paragraphs (5) to (11) of paragraph 13A of Schedule 34 (meaning of “**control**” and “**significant influence**”) apply to this section as they apply to Part 2 of that Schedule.
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-586b29d4a24070b122eaee8199547906]: Textual amendment: [Ss. 236A-236K](https://www.legislation.gov.uk/ukpga/2014/26/section/236A) and cross-heading inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 1](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/1)
+[^c-586b29d4a24070b122eaee8199547906]: Textual amendment: [Ss. 236A-236K](https://www.legislation.gov.uk/ukpga/2014/26/section/236A) and cross-heading inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 1](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/1)
 
-[^key-6f1d5ca0033f828445639ba8f0e66cea]: Textual amendment: Word in [s. 236B(7)](https://www.legislation.gov.uk/ukpga/2014/26/section/236B/7) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 34(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/34/5)
+[^c-6f1d5ca0033f828445639ba8f0e66cea]: Textual amendment: Word in [s. 236B(7)](https://www.legislation.gov.uk/ukpga/2014/26/section/236B/7) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 34(5)](https://www.legislation.gov.uk/ukpga/2024/3/section/34/5)

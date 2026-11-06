@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Meaning of “assumed pay”[^key-a964ae9c323117cba22c8a9980359290]
+## 27. Meaning of “assumed pay”[^c-a964ae9c323117cba22c8a9980359290]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,8 +30,8 @@ summary: ''
 (3) The circumstances are—
 
 - (a) P is on sick leave on reduced pay;
-- (b)[^key-4218ea472bc5d696fa642fdf1969ff91] P is on ordinary adoption leave, ordinary maternity leave or paternity leave;
-- (c) P is receiving statutory pay whilst on additional adoption leave, additional maternity leave, shared parental pay or parental leave[^key-e9b84f21a35d8fc8fef571dede89e768];
+- (b)[^c-4218ea472bc5d696fa642fdf1969ff91] P is on ordinary adoption leave, ordinary maternity leave or paternity leave;
+- (c) P is receiving statutory pay whilst on additional adoption leave, additional maternity leave, shared parental pay or parental leave[^c-e9b84f21a35d8fc8fef571dede89e768];
 - (d) P is on secondment to a different employer under an arrangement providing for P to continue to be an active member of this scheme in relation to P’s service although P is paid for it by that employer;
 - (e) P is on unpaid leave in circumstances that the scheme manager has agreed can count for the purpose of this paragraph;
 - (f) P is absent from duty because of being called out, or recalled, for permanent service in Her Majesty’s armed forces in pursuance of a call-out notice served, or a call-out or recall order made, under the Reserve Forces Act 1996[^f00051];
@@ -49,10 +49,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a964ae9c323117cba22c8a9980359290]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2014/1964/regulation/27) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-a964ae9c323117cba22c8a9980359290]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2014/1964/regulation/27) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-4218ea472bc5d696fa642fdf1969ff91]: Textual amendment: [Reg. 27(3)(b)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/27/3/b) substituted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [10(a)](https://www.legislation.gov.uk/uksi/2018/537/regulation/10/a)
+[^c-4218ea472bc5d696fa642fdf1969ff91]: Textual amendment: [Reg. 27(3)(b)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/27/3/b) substituted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [10(a)](https://www.legislation.gov.uk/uksi/2018/537/regulation/10/a)
 
-[^key-e9b84f21a35d8fc8fef571dede89e768]: Textual amendment: Words in [reg. 27(3)(c)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/27/3/c) inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [10(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/10/b)
+[^c-e9b84f21a35d8fc8fef571dede89e768]: Textual amendment: Words in [reg. 27(3)(c)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/27/3/c) inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [10(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/10/b)
 
 [^f00051]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).

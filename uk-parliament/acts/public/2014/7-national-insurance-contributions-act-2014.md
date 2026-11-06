@@ -49,7 +49,7 @@ under SSCBA 1992 or SSCB(NI)A 1992 (or both).
 
 (2) The person's employment allowance for the tax year is—
 
-- (a) £10,500[^key-b474941802cb3345fc702984d6004df0] or
+- (a) £10,500[^c-b474941802cb3345fc702984d6004df0] or
 - (b) if less, an amount equal to the total amount of the liabilities mentioned in subsection (1)(b) which are not excluded liabilities.
 
 (3) Subsection (1) is subject to sections 2 and 3 (and Schedule 1).
@@ -79,7 +79,7 @@ under SSCBA 1992 or SSCB(NI)A 1992 (or both).
 
 (3) Liabilities to pay secondary Class 1 contributions incurred by a person (“P”) are “excluded liabilities” if they are incurred in respect of an employed earner who is employed (wholly or partly) for purposes connected with P's personal, family or household affairs.
 
-(3A)[^key-c2d40d7a8dca8f30eb085e6632efa6c4] But the liabilities mentioned in subsection (3) are not “excluded liabilities” by virtue of that subsection if all the duties of the employed earner’s employment which relate to P’s personal, family or household affairs are performed for an individual who needs those duties to be performed because of the individual’s—
+(3A)[^c-c2d40d7a8dca8f30eb085e6632efa6c4] But the liabilities mentioned in subsection (3) are not “excluded liabilities” by virtue of that subsection if all the duties of the employed earner’s employment which relate to P’s personal, family or household affairs are performed for an individual who needs those duties to be performed because of the individual’s—
 
 - (a) old age,
 - (b) mental or physical disability,
@@ -91,28 +91,28 @@ under SSCBA 1992 or SSCB(NI)A 1992 (or both).
 
 (4) Liabilities to pay secondary Class 1 contributions are “excluded liabilities” if they are incurred by virtue of regulations made under section 4A of SSCBA 1992 or SSCB(NI)A 1992 (earnings of workers supplied by service companies etc).
 
-*Excluded companies[^key-d8a202be557e6410df6af217b0e158ff]*
+*Excluded companies[^c-d8a202be557e6410df6af217b0e158ff]*
 
 (4A) A body corporate (“C”) cannot qualify for an employment allowance for a tax year if—
 
 - (a) all the payments of earnings in relation to which C is the secondary contributor in that year are paid to, or for the benefit of, the same employed earner, and
 - (b) when each of those payments is made, that employed earner is a director of C.
 
-[^key-429fed98a4f14466fa2c0a417a298c22]...
+[^c-429fed98a4f14466fa2c0a417a298c22]...
 
-(4B)[^key-7f07f961a524a5039a3a76f1da08f7d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4B)[^c-7f07f961a524a5039a3a76f1da08f7d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4C)[^key-7f07f961a524a5039a3a76f1da08f7d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4C)[^c-7f07f961a524a5039a3a76f1da08f7d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4D)[^key-7f07f961a524a5039a3a76f1da08f7d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4D)[^c-7f07f961a524a5039a3a76f1da08f7d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4E)[^key-7f07f961a524a5039a3a76f1da08f7d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4E)[^c-7f07f961a524a5039a3a76f1da08f7d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-429fed98a4f14466fa2c0a417a298c22]...
+[^c-429fed98a4f14466fa2c0a417a298c22]...
 
-(4F)[^key-7f07f961a524a5039a3a76f1da08f7d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4F)[^c-7f07f961a524a5039a3a76f1da08f7d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4G)[^key-7f07f961a524a5039a3a76f1da08f7d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4G)[^c-7f07f961a524a5039a3a76f1da08f7d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Transfers of businesses*
 
@@ -211,28 +211,28 @@ under SSCBA 1992 or SSCB(NI)A 1992 (or both).
 
 (4) Regulations under this section must be made by statutory instrument.
 
-(5)[^key-4c44a8c8cc6bd4ca80169c7c52f1ccdc] A statutory instrument containing (with or without other provision)—
+(5)[^c-4c44a8c8cc6bd4ca80169c7c52f1ccdc] A statutory instrument containing (with or without other provision)—
 
 - (a) regulations falling within subsection (1)(a) which decrease a person's employment allowance for a tax year, or
 - (b) regulations falling within subsection (1)(b),
 
 may not be made unless a draft has been laid before, and approved by a resolution of, each House of Parliament.
 
-(6)[^key-4c44a8c8cc6bd4ca80169c7c52f1ccdc] A statutory instrument—
+(6)[^c-4c44a8c8cc6bd4ca80169c7c52f1ccdc] A statutory instrument—
 
 - (a) which contains regulations falling within subsection (1)(a) which increase a person's employment allowance for a tax year, and
 - (b) which does not have to be approved in draft under subsection (5),
 
 must be laid before Parliament after being made.
 
-(7)[^key-4c44a8c8cc6bd4ca80169c7c52f1ccdc] Regulations contained in a statutory instrument which is required to be laid before Parliament under subsection (6) cease to have effect at the end of the period of 40 days after the day on which the instrument is made unless, before the end of that period, the instrument is approved by a resolution of each House of Parliament.
+(7)[^c-4c44a8c8cc6bd4ca80169c7c52f1ccdc] Regulations contained in a statutory instrument which is required to be laid before Parliament under subsection (6) cease to have effect at the end of the period of 40 days after the day on which the instrument is made unless, before the end of that period, the instrument is approved by a resolution of each House of Parliament.
 
-(8)[^key-4c44a8c8cc6bd4ca80169c7c52f1ccdc] If regulations cease to have effect as a result of subsection (7), that does not—
+(8)[^c-4c44a8c8cc6bd4ca80169c7c52f1ccdc] If regulations cease to have effect as a result of subsection (7), that does not—
 
 - (a) affect anything previously done by virtue of the regulations, or
 - (b) prevent the making of new regulations to the same or a similar effect.
 
-(9)[^key-4c44a8c8cc6bd4ca80169c7c52f1ccdc] In calculating the period of 40 days for the purposes of subsection (7), no account is to be taken of any time during which Parliament is dissolved or prorogued or during which either House is adjourned for more than 4 days.
+(9)[^c-4c44a8c8cc6bd4ca80169c7c52f1ccdc] In calculating the period of 40 days for the purposes of subsection (7), no account is to be taken of any time during which Parliament is dissolved or prorogued or during which either House is adjourned for more than 4 days.
 
 ### 6. Decisions and appeals about entitlements to make deductions etc
 
@@ -425,7 +425,7 @@ Sections 1 to 7 and Schedule 1 come into force on 6 April 2014.
 
 (3) Section 207 of that Act (meaning of “**tax arrangements**” and “**abusive**”) has effect as if, in subsection (4)(a), after “income,” there were inserted “earnings (within the meaning of Part 1 of the Social Security Contributions and Benefits Act 1992 or Part 1 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992),”.
 
-(4) Adjustments to be made in respect of national insurance contributions under section 209 of the Finance Act 2013 (counteracting the tax advantages) may be made by a notice given under paragraph 12 of Schedule 43 to that Act (notice of final decision) , paragraph 8 or 9 of Schedule 43A to that Act (pooling of tax arrangements: notice of final decision) or paragraph 8 of Schedule 43B to that Act (generic referral of arrangements: notice of final decision)[^key-dd5e9f20cc5b9202f835f49620b127b6].
+(4) Adjustments to be made in respect of national insurance contributions under section 209 of the Finance Act 2013 (counteracting the tax advantages) may be made by a notice given under paragraph 12 of Schedule 43 to that Act (notice of final decision) , paragraph 8 or 9 of Schedule 43A to that Act (pooling of tax arrangements: notice of final decision) or paragraph 8 of Schedule 43B to that Act (generic referral of arrangements: notice of final decision)[^c-dd5e9f20cc5b9202f835f49620b127b6].
 
 (5) For the purposes of section 210 of that Act (consequential relieving adjustments)—
 
@@ -434,7 +434,7 @@ Sections 1 to 7 and Schedule 1 come into force on 6 April 2014.
 
 (6) Adjustments to be made in respect of national insurance contributions under that section may be made by a notice given under subsection (7) of that section.
 
-(6A)[^key-c18a59ae68bc3eb58866753dc6d39de6] Where, by virtue of this section, a case falls within paragraph 4A of Schedule 43 to the Finance Act 2013 (referrals of single schemes: relevant corrective action) or paragraph 4 of Schedule 43A to that Act (pooled schemes: relevant corrective action)—
+(6A)[^c-c18a59ae68bc3eb58866753dc6d39de6] Where, by virtue of this section, a case falls within paragraph 4A of Schedule 43 to the Finance Act 2013 (referrals of single schemes: relevant corrective action) or paragraph 4 of Schedule 43A to that Act (pooled schemes: relevant corrective action)—
 
 - (a) the person (“P”) mentioned in sub-paragraph (1) of that paragraph takes the “relevant corrective action” for the purposes of that paragraph if (and only if)—
   - (i) in a case in which the tax advantage in question can be counteracted by making a payment to HMRC , P makes that payment and notifies HMRC that P has done so, or
@@ -454,12 +454,12 @@ Sections 1 to 7 and Schedule 1 come into force on 6 April 2014.
 
 (11) In this section—
 
-- “**abusive**”, “**arrangements**” , “[^key-6cd5e3be088bba163c12c7b3f4eee0a2]HMRC” and “tax advantage” have the same meaning as in Part 5 of the Finance Act 2013 (as modified by this section)[^key-839409755d8e9c55db936942f410a09b];
+- “**abusive**”, “**arrangements**” , “[^c-6cd5e3be088bba163c12c7b3f4eee0a2]HMRC” and “tax advantage” have the same meaning as in Part 5 of the Finance Act 2013 (as modified by this section)[^c-839409755d8e9c55db936942f410a09b];
 - “**national insurance contributions**” means contributions under either Part 1 of SSCBA 1992 or Part 1 of SSCB(NI)A 1992.
 
-(12)[^key-c9b42cd693f25fb596256cf5d72ba421] See section 10A for further modifications of Part 5 of the Finance Act 2013.
+(12)[^c-c9b42cd693f25fb596256cf5d72ba421] See section 10A for further modifications of Part 5 of the Finance Act 2013.
 
-### 10A. Application of GAAR in relation to penalties[^key-b4306c73ff43590ef8d4f94ea477a6b5]
+### 10A. Application of GAAR in relation to penalties[^c-b4306c73ff43590ef8d4f94ea477a6b5]
 
 (1) For the purposes of this section a penalty under section 212A of the Finance Act 2013 is a “relevant NICs-related penalty” so far as the penalty relates to a tax advantage in respect of relevant contributions.
 
@@ -764,7 +764,7 @@ SCHEDULES
 
 Section 3
 
-### PART 1 — Companies[^key-5f3689b182e5b6e7f9c8583f5541ddb4][^key-ba744150005ca2cdf7b64deb4579c2e5][^key-9ffc6f746da188fa4744efa7426eac54]
+### PART 1 — Companies[^c-5f3689b182e5b6e7f9c8583f5541ddb4][^c-ba744150005ca2cdf7b64deb4579c2e5][^c-9ffc6f746da188fa4744efa7426eac54]
 
 #### Application
 
@@ -894,7 +894,7 @@ Section 3
 
 (3) In sub-paragraph (1)(a) the reference to a company being connected with another company is to that company being so connected by virtue of paragraphs 2 to 6 or this paragraph, and in sub-paragraph (1)(b) the reference to a company being connected with another company is to that company being so connected by virtue of paragraphs 2 to 6.
 
-### PART 2 — Charities[^key-c49bf0bfaf8ede09cc25a62b8f9eeb0e][^key-986b359b0f7551161652064bd085ec6a]
+### PART 2 — Charities[^c-c49bf0bfaf8ede09cc25a62b8f9eeb0e][^c-986b359b0f7551161652064bd085ec6a]
 
 **8.** (1) Two charities are connected with one another for the purposes of section 3(2) if—
 
@@ -981,31 +981,31 @@ Section 15
 
 ## Annotations
 
-[^key-b474941802cb3345fc702984d6004df0]: Textual amendment: Sum in [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2014/7/section/1/2/a) substituted (6.4.2025) by [National Insurance Contributions (Secondary Class 1 Contributions) Act 2025 (c. 11)](https://www.legislation.gov.uk/ukpga/2025/11), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2025/11/section/3/2)[(4)](https://www.legislation.gov.uk/ukpga/2025/11/section/3/4)
+[^c-b474941802cb3345fc702984d6004df0]: Textual amendment: Sum in [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2014/7/section/1/2/a) substituted (6.4.2025) by [National Insurance Contributions (Secondary Class 1 Contributions) Act 2025 (c. 11)](https://www.legislation.gov.uk/ukpga/2025/11), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2025/11/section/3/2)[(4)](https://www.legislation.gov.uk/ukpga/2025/11/section/3/4)
 
-[^key-c2d40d7a8dca8f30eb085e6632efa6c4]: Textual amendment: S. 2(3A) inserted (6.4.2015) by [The Employment Allowance (Care and Support Workers) Regulations 2015 (S.I. 2015/578)](https://www.legislation.gov.uk/uksi/2015/578), [regs. 1](https://www.legislation.gov.uk/uksi/2015/578/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/578/regulation/2)
+[^c-c2d40d7a8dca8f30eb085e6632efa6c4]: Textual amendment: S. 2(3A) inserted (6.4.2015) by [The Employment Allowance (Care and Support Workers) Regulations 2015 (S.I. 2015/578)](https://www.legislation.gov.uk/uksi/2015/578), [regs. 1](https://www.legislation.gov.uk/uksi/2015/578/regulation/1), [2](https://www.legislation.gov.uk/uksi/2015/578/regulation/2)
 
-[^key-d8a202be557e6410df6af217b0e158ff]: Textual amendment: S. 2(4A) inserted (6.4.2016) by [The Employment Allowance (Excluded Companies) Regulations 2016 (S.I. 2016/344)](https://www.legislation.gov.uk/uksi/2016/344), [regs. 1](https://www.legislation.gov.uk/uksi/2016/344/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/344/regulation/2)
+[^c-d8a202be557e6410df6af217b0e158ff]: Textual amendment: S. 2(4A) inserted (6.4.2016) by [The Employment Allowance (Excluded Companies) Regulations 2016 (S.I. 2016/344)](https://www.legislation.gov.uk/uksi/2016/344), [regs. 1](https://www.legislation.gov.uk/uksi/2016/344/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/344/regulation/2)
 
-[^key-429fed98a4f14466fa2c0a417a298c22]: Textual amendment: [S. 2(4B)-(4G)](https://www.legislation.gov.uk/ukpga/2014/7/section/2/4B) italic heading omitted (6.4.2025) by virtue of [National Insurance Contributions (Secondary Class 1 Contributions) Act 2025 (c. 11)](https://www.legislation.gov.uk/ukpga/2025/11), [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2025/11/section/3/3/b/4)
+[^c-429fed98a4f14466fa2c0a417a298c22]: Textual amendment: [S. 2(4B)-(4G)](https://www.legislation.gov.uk/ukpga/2014/7/section/2/4B) italic heading omitted (6.4.2025) by virtue of [National Insurance Contributions (Secondary Class 1 Contributions) Act 2025 (c. 11)](https://www.legislation.gov.uk/ukpga/2025/11), [s. 3(3)(b)(4)](https://www.legislation.gov.uk/ukpga/2025/11/section/3/3/b/4)
 
-[^key-7f07f961a524a5039a3a76f1da08f7d2]: Textual amendment: [S. 2(4B)-(4G)](https://www.legislation.gov.uk/ukpga/2014/7/section/2/4B) omitted (6.4.2025) by virtue of [National Insurance Contributions (Secondary Class 1 Contributions) Act 2025 (c. 11)](https://www.legislation.gov.uk/ukpga/2025/11), [s. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2025/11/section/3/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2025/11/section/3/4)
+[^c-7f07f961a524a5039a3a76f1da08f7d2]: Textual amendment: [S. 2(4B)-(4G)](https://www.legislation.gov.uk/ukpga/2014/7/section/2/4B) omitted (6.4.2025) by virtue of [National Insurance Contributions (Secondary Class 1 Contributions) Act 2025 (c. 11)](https://www.legislation.gov.uk/ukpga/2025/11), [s. 3(3)(a)](https://www.legislation.gov.uk/ukpga/2025/11/section/3/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2025/11/section/3/4)
 
-[^key-4c44a8c8cc6bd4ca80169c7c52f1ccdc]: Modification: S. 5(5)-(9) excluded (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/74/2), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1) (with [s. 74(3)](https://www.legislation.gov.uk/ukpga/2020/7/section/74/3))
+[^c-4c44a8c8cc6bd4ca80169c7c52f1ccdc]: Modification: S. 5(5)-(9) excluded (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/74/2), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1) (with [s. 74(3)](https://www.legislation.gov.uk/ukpga/2020/7/section/74/3))
 
 [^c2209919]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/7/section/9) wholly in force at 6.4.2015; [s. 9](https://www.legislation.gov.uk/ukpga/2014/7/section/9) in force at Royal Assent but the amendments made by this section come into force as follows, see [s. 9(11)(12)](https://www.legislation.gov.uk/ukpga/2014/7/section/9/11/12): the amendments in s. 9(5)(10) in force at 13.5.2014; the amendments in s. 9(3)(8) in force for specified purposes at 13.5.2014 and otherwise in force at 6.4.2015; the amendments in s. 9(2)(4)(7)(9) in force at 6.4.2015
 
-[^key-dd5e9f20cc5b9202f835f49620b127b6]: Textual amendment: Words in s. 10(4) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(13)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/13)
+[^c-dd5e9f20cc5b9202f835f49620b127b6]: Textual amendment: Words in s. 10(4) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(13)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/13)
 
-[^key-c18a59ae68bc3eb58866753dc6d39de6]: Textual amendment: S. 10(6A) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(14)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/14)
+[^c-c18a59ae68bc3eb58866753dc6d39de6]: Textual amendment: S. 10(6A) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(14)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/14)
 
-[^key-6cd5e3be088bba163c12c7b3f4eee0a2]: Textual amendment: Words in s. 10(11) substituted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(15)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/15/a)
+[^c-6cd5e3be088bba163c12c7b3f4eee0a2]: Textual amendment: Words in s. 10(11) substituted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(15)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/15/a)
 
-[^key-839409755d8e9c55db936942f410a09b]: Textual amendment: Words in s. 10(11) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(15)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/15/b)
+[^c-839409755d8e9c55db936942f410a09b]: Textual amendment: Words in s. 10(11) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(15)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/15/b)
 
-[^key-c9b42cd693f25fb596256cf5d72ba421]: Textual amendment: S. 10(12) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(16)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/16)
+[^c-c9b42cd693f25fb596256cf5d72ba421]: Textual amendment: S. 10(12) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(16)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/16)
 
-[^key-b4306c73ff43590ef8d4f94ea477a6b5]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/2014/7/section/10A) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(17)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/17)
+[^c-b4306c73ff43590ef8d4f94ea477a6b5]: Textual amendment: [S. 10A](https://www.legislation.gov.uk/ukpga/2014/7/section/10A) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(17)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/17)
 
 [^c2209902]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/7/section/13) wholly in force at 13.5.2014; [s. 13](https://www.legislation.gov.uk/ukpga/2014/7/section/13) in force at Royal Assent but the amendments made by this section come into force at 13.5.2014, see [s. 13(7)](https://www.legislation.gov.uk/ukpga/2014/7/section/13/7)
 
@@ -1013,15 +1013,15 @@ Section 15
 
 [^c2209904]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2014/7/section/18) wholly in force at 13.5.2014; [s. 18](https://www.legislation.gov.uk/ukpga/2014/7/section/18) in force at Royal Assent but the amendments made by this section come into force at 13.5.2014, see [s. 18(7)](https://www.legislation.gov.uk/ukpga/2014/7/section/18/7)
 
-[^key-5f3689b182e5b6e7f9c8583f5541ddb4]: Modification: Sch. 1 Pt. 1 applied (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 101(17)](https://www.legislation.gov.uk/ukpga/2016/24/section/101/17)
+[^c-5f3689b182e5b6e7f9c8583f5541ddb4]: Modification: Sch. 1 Pt. 1 applied (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 101(17)](https://www.legislation.gov.uk/ukpga/2016/24/section/101/17)
 
-[^key-ba744150005ca2cdf7b64deb4579c2e5]: Modification: Sch. 1 Pt. 1 applied (N.I.) (26.5.2020) by [The Statutory Sick Pay (Coronavirus) (Funding of Employers' Liabilities) (Northern Ireland) Regulations 2020 (S.I. 2020/513)](https://www.legislation.gov.uk/uksi/2020/513), [regs. 1](https://www.legislation.gov.uk/uksi/2020/513/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2020/513/regulation/4/4/a)
+[^c-ba744150005ca2cdf7b64deb4579c2e5]: Modification: Sch. 1 Pt. 1 applied (N.I.) (26.5.2020) by [The Statutory Sick Pay (Coronavirus) (Funding of Employers' Liabilities) (Northern Ireland) Regulations 2020 (S.I. 2020/513)](https://www.legislation.gov.uk/uksi/2020/513), [regs. 1](https://www.legislation.gov.uk/uksi/2020/513/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2020/513/regulation/4/4/a)
 
-[^key-9ffc6f746da188fa4744efa7426eac54]: Modification: Sch. 1 Pt. 1 applied (E.W.S.) (26.5.2020) by [The Statutory Sick Pay (Coronavirus) (Funding of Employers' Liabilities) Regulations 2020 (S.I. 2020/512)](https://www.legislation.gov.uk/uksi/2020/512), [regs. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2020/512/regulation/4/4/a)
+[^c-9ffc6f746da188fa4744efa7426eac54]: Modification: Sch. 1 Pt. 1 applied (E.W.S.) (26.5.2020) by [The Statutory Sick Pay (Coronavirus) (Funding of Employers' Liabilities) Regulations 2020 (S.I. 2020/512)](https://www.legislation.gov.uk/uksi/2020/512), [regs. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2020/512/regulation/4/4/a)
 
-[^key-c49bf0bfaf8ede09cc25a62b8f9eeb0e]: Modification: Sch. 1 Pt. 2 applied (E.W.S.) (26.5.2020) by [The Statutory Sick Pay (Coronavirus) (Funding of Employers' Liabilities) Regulations 2020 (S.I. 2020/512)](https://www.legislation.gov.uk/uksi/2020/512), [regs. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/512/regulation/4/4/b)
+[^c-c49bf0bfaf8ede09cc25a62b8f9eeb0e]: Modification: Sch. 1 Pt. 2 applied (E.W.S.) (26.5.2020) by [The Statutory Sick Pay (Coronavirus) (Funding of Employers' Liabilities) Regulations 2020 (S.I. 2020/512)](https://www.legislation.gov.uk/uksi/2020/512), [regs. 1](https://www.legislation.gov.uk/uksi/2020/512/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/512/regulation/4/4/b)
 
-[^key-986b359b0f7551161652064bd085ec6a]: Modification: Sch. 1 Pt. 2 applied (N.I.) (26.5.2020) by [The Statutory Sick Pay (Coronavirus) (Funding of Employers' Liabilities) (Northern Ireland) Regulations 2020 (S.I. 2020/513)](https://www.legislation.gov.uk/uksi/2020/513), [regs. 1](https://www.legislation.gov.uk/uksi/2020/513/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/513/regulation/4/4/b)
+[^c-986b359b0f7551161652064bd085ec6a]: Modification: Sch. 1 Pt. 2 applied (N.I.) (26.5.2020) by [The Statutory Sick Pay (Coronavirus) (Funding of Employers' Liabilities) (Northern Ireland) Regulations 2020 (S.I. 2020/513)](https://www.legislation.gov.uk/uksi/2020/513), [regs. 1](https://www.legislation.gov.uk/uksi/2020/513/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/513/regulation/4/4/b)
 
 [^c2209905]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/7/schedule/2/paragraph/1) wholly in force at 13.5.2014; [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2014/7/schedule/2/paragraph/1) in force at Royal Assent but the amendments made by this provision come into force at 13.5.2014, see [s. 15(4)](https://www.legislation.gov.uk/ukpga/2014/7/section/15/4)
 

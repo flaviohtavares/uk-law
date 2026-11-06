@@ -46,24 +46,24 @@ Coming into force
 
 31st January 2011
 
-The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to consumer credit.[^key-7b0205d4de0d2a5541f0caac5dbe932c]
+The Secretary of State is a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to consumer credit.[^c-7b0205d4de0d2a5541f0caac5dbe932c]
 
 The Secretary of State makes—
 
 - (a) regulation 7 in exercise of the powers conferred by sections 20 and 182(2) of the Consumer Credit Act 1974[^f00003], and
 - (b) all other regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.
 
-## 1. Citation and Commencement[^key-6260dc5c35d33f255f19a93e74fd955a]
+## 1. Citation and Commencement[^c-6260dc5c35d33f255f19a93e74fd955a]
 
 These Regulations may be cited as the Consumer Credit (Amendment) Regulations 2011 and shall come into force on 31st January 2011.
 
-## 2. Amendments to the Consumer Credit (EU Directive) Regulations 2010[^key-61b3282e76477a3a24a2d9aeb9275a99]
+## 2. Amendments to the Consumer Credit (EU Directive) Regulations 2010[^c-61b3282e76477a3a24a2d9aeb9275a99]
 
 The Consumer Credit (EU Directive) Regulations 2010[^f00004] are amended as specified in regulations 3 to 6.
 
-**3.**[^key-b6e4da9de83be37f5047e3fdcfa7c214] In regulation 32 (early repayment), in the wording inserted as section 95A (compensatory amount), in subsection (3)(c) for “whichever is the higher” substitute “whichever is the lower”.
+**3.**[^c-b6e4da9de83be37f5047e3fdcfa7c214] In regulation 32 (early repayment), in the wording inserted as section 95A (compensatory amount), in subsection (3)(c) for “whichever is the higher” substitute “whichever is the lower”.
 
-**4.**[^key-6c9c13ef67bd75304f0fe0b61748dca1] For regulation 55 (Consumer Credit (Agreements) Regulations 1983) substitute—
+**4.**[^c-6c9c13ef67bd75304f0fe0b61748dca1] For regulation 55 (Consumer Credit (Agreements) Regulations 1983) substitute—
 
 > **55.** In Schedule 2 (forms of statement or protection and remedies available under the Consumer Credit Act 1974 to debtors under regulated consumer credit agreements)—
 >
@@ -137,9 +137,9 @@ The Consumer Credit (EU Directive) Regulations 2010[^f00004] are amended as spec
 
 .
 
-**5.**[^key-755a06c1f94ad17bd4cf06541705fb85] In regulation 78 (Consumer Credit (Early Settlement) Regulations 2004), omit paragraph (c).
+**5.**[^c-755a06c1f94ad17bd4cf06541705fb85] In regulation 78 (Consumer Credit (Early Settlement) Regulations 2004), omit paragraph (c).
 
-**6.**[^key-1fe7b5e193bcca74569e9b9c27496e6b] After regulation 88 (Financial Services (Distance Marketing) Regulations 2004), insert—
+**6.**[^c-1fe7b5e193bcca74569e9b9c27496e6b] After regulation 88 (Financial Services (Distance Marketing) Regulations 2004), insert—
 
 > **88A.** In regulation 10 (cancellation period), after paragraph (3), insert—
 >
@@ -156,19 +156,19 @@ The Consumer Credit (EU Directive) Regulations 2010[^f00004] are amended as spec
 
 .
 
-## 7. Amendments to the Consumer Credit (Total Charge for Credit) Regulations 2010[^key-ea58c8aa6a58abc4b317d168a00a2b55]
+## 7. Amendments to the Consumer Credit (Total Charge for Credit) Regulations 2010[^c-ea58c8aa6a58abc4b317d168a00a2b55]
 
 (1) The Consumer Credit (Total Charge for Credit) Regulations 2010[^f00005] are amended as follows.
 
 (2) In regulation 2 (interpretation), in paragraph (2)(b) for “the Act” substitute “the Consumer Credit Act 1974”.
 
-## 8. Amendments to the Consumer Credit (Disclosure of Information) Regulations 2010[^key-91f4c06ca68ccfb6a02fa69aa93208e0]
+## 8. Amendments to the Consumer Credit (Disclosure of Information) Regulations 2010[^c-91f4c06ca68ccfb6a02fa69aa93208e0]
 
 (1) The Consumer Credit (Disclosure of Information) Regulations 2010[^f00006] are amended as follows.
 
 (2) In regulation 10 (information to be disclosed: overdraft agreements), in paragraph (5A) for “regulation” substitute “agreement”.
 
-## 9. Transitional provision[^key-6839ed58600f17c8e393d0a95417ad6f]
+## 9. Transitional provision[^c-6839ed58600f17c8e393d0a95417ad6f]
 
 (1) This regulation applies to a consumer credit agreement regulated by the Consumer Credit Act 1974—
 
@@ -178,7 +178,7 @@ The Consumer Credit (EU Directive) Regulations 2010[^f00004] are amended as spec
 
 (2) An agreement is to be treated as though the Agreements Regulations 1983 have been complied with where the creditor does what is required by those Regulations except that in the wording of the relevant Form the words “in writing” are inserted before the words “and paying off the amount you owe”.
 
-**10.**[^key-62a6fafe41522281b87aa49d21c00a20] (1) This regulation applies to a consumer credit agreement regulated by the Consumer Credit Act 1974—
+**10.**[^c-62a6fafe41522281b87aa49d21c00a20] (1) This regulation applies to a consumer credit agreement regulated by the Consumer Credit Act 1974—
 
 - (a) that is entered into on 31st January 2011,
 - (b) that is not secured on land, and
@@ -190,7 +190,7 @@ The Consumer Credit (EU Directive) Regulations 2010[^f00004] are amended as spec
 
 (4) An agreement is to be treated as though the Agreements Regulations 1983 have been complied with where the creditor does what is required by those Regulations except that in the wording of the relevant Form the words “in writing” are inserted before the words “and paying off the amount you owe”
 
-**11.**[^key-33cae4349a44f6928c5d70859ebb9dd3] In regulations 9 and 10—
+**11.**[^c-33cae4349a44f6928c5d70859ebb9dd3] In regulations 9 and 10—
 
 - (a) “the Agreements Regulations 1983” means the Consumer Credit (Agreements) Regulations 1983[^f00007];
 - (b) “the relevant Form” means Form 14, 15 or 16, as applicable, of Schedule 2 to the Consumer Credit (Agreements) Regulations 1983*.*
@@ -223,36 +223,36 @@ An impact assessment has not been prepared for these Regulations since they have
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-7b0205d4de0d2a5541f0caac5dbe932c]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-7b0205d4de0d2a5541f0caac5dbe932c]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00003]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-6260dc5c35d33f255f19a93e74fd955a]: Commencement: Reg. 1 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
+[^c-6260dc5c35d33f255f19a93e74fd955a]: Commencement: Reg. 1 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
 
-[^key-61b3282e76477a3a24a2d9aeb9275a99]: Commencement: Reg. 2 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
+[^c-61b3282e76477a3a24a2d9aeb9275a99]: Commencement: Reg. 2 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), amended by [S.I. 2010/1969](https://www.legislation.gov.uk/uksi/2010/1969).
 
-[^key-b6e4da9de83be37f5047e3fdcfa7c214]: Commencement: Reg. 3 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
+[^c-b6e4da9de83be37f5047e3fdcfa7c214]: Commencement: Reg. 3 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
 
-[^key-6c9c13ef67bd75304f0fe0b61748dca1]: Commencement: Reg. 4 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
+[^c-6c9c13ef67bd75304f0fe0b61748dca1]: Commencement: Reg. 4 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
 
-[^key-755a06c1f94ad17bd4cf06541705fb85]: Commencement: Reg. 5 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
+[^c-755a06c1f94ad17bd4cf06541705fb85]: Commencement: Reg. 5 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
 
-[^key-1fe7b5e193bcca74569e9b9c27496e6b]: Commencement: Reg. 6 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
+[^c-1fe7b5e193bcca74569e9b9c27496e6b]: Commencement: Reg. 6 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
 
-[^key-ea58c8aa6a58abc4b317d168a00a2b55]: Commencement: Reg. 7 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
+[^c-ea58c8aa6a58abc4b317d168a00a2b55]: Commencement: Reg. 7 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
 
 [^f00005]: Footnote: [S.I. 2010/1011](https://www.legislation.gov.uk/uksi/2010/1011).
 
-[^key-91f4c06ca68ccfb6a02fa69aa93208e0]: Commencement: Reg. 8 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
+[^c-91f4c06ca68ccfb6a02fa69aa93208e0]: Commencement: Reg. 8 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2010/1013](https://www.legislation.gov.uk/uksi/2010/1013), amended by [S.I. 2010/1969](https://www.legislation.gov.uk/uksi/2010/1969).
 
-[^key-6839ed58600f17c8e393d0a95417ad6f]: Commencement: Reg. 9 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
+[^c-6839ed58600f17c8e393d0a95417ad6f]: Commencement: Reg. 9 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
 
-[^key-62a6fafe41522281b87aa49d21c00a20]: Commencement: Reg. 10 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
+[^c-62a6fafe41522281b87aa49d21c00a20]: Commencement: Reg. 10 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
 
-[^key-33cae4349a44f6928c5d70859ebb9dd3]: Commencement: Reg. 11 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
+[^c-33cae4349a44f6928c5d70859ebb9dd3]: Commencement: Reg. 11 in force at 31.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/11/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1983/1553](https://www.legislation.gov.uk/uksi/1983/1553), amended by [S.I. 1984/1600](https://www.legislation.gov.uk/uksi/1984/1600), [1999/3177](https://www.legislation.gov.uk/uksi/1999/3177), [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [2004/1482](https://www.legislation.gov.uk/uksi/2004/1482), [2004/3236](https://www.legislation.gov.uk/uksi/2004/3236), [2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), [2010/1969](https://www.legislation.gov.uk/uksi/2010/1969).

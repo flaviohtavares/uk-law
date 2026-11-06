@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Applying for fireworks licence: mandatory requirements[^key-9d3b5a44ae7171285818494c5eb3de21]
+## 7. Applying for fireworks licence: mandatory requirements[^c-9d3b5a44ae7171285818494c5eb3de21]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d3b5a44ae7171285818494c5eb3de21]: Commencement: S. 7 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-9d3b5a44ae7171285818494c5eb3de21]: Commencement: S. 7 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Escort arrangements[^key-f0801f64d2fbccbce1c50d15745f6faf]
+## 35. Escort arrangements[^c-f0801f64d2fbccbce1c50d15745f6faf]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0801f64d2fbccbce1c50d15745f6faf]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2007/21/section/35) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/l)
+[^c-f0801f64d2fbccbce1c50d15745f6faf]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2007/21/section/35) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/l)

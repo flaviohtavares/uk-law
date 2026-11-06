@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Application of sums paid by virtue of section 146(4) or 148(3)[^key-f259ecfd41a779b6f452a5873c8cfb18]
+## 149. Application of sums paid by virtue of section 146(4) or 148(3)[^c-f259ecfd41a779b6f452a5873c8cfb18]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f259ecfd41a779b6f452a5873c8cfb18]: Commencement: S. 149 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)
+[^c-f259ecfd41a779b6f452a5873c8cfb18]: Commencement: S. 149 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)

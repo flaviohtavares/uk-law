@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.117. Redemption by trustee[^key-03595d7217d4fd12d68c8382525432b0]
+## 6.117. Redemption by trustee[^c-03595d7217d4fd12d68c8382525432b0]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ If the creditor re-values his security, the trustee may only redeem at the new v
 
 ## Annotations
 
-[^key-03595d7217d4fd12d68c8382525432b0]: Commencement: [Rule 6.117](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.117) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-03595d7217d4fd12d68c8382525432b0]: Commencement: [Rule 6.117](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.117) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

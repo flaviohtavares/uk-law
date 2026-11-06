@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Access agreements: contracts requiring the approval of the Office of Rail and Road.[^c14099821][^key-10a20627690f3eb45e54e8824dbc8215]
+## 18. Access agreements: contracts requiring the approval of the Office of Rail and Road.[^c14099821][^c-10a20627690f3eb45e54e8824dbc8215]
 
 *Extent: E+W+S*
 
@@ -116,7 +116,7 @@ apply for the purposes of this section as they apply for the purposes of that se
 
 [^c14099821]: Modification: S. 18 excluded (2.4.1994) by [S.I. 1994/606](https://www.legislation.gov.uk/uksi/1994/606), [art. 5(1)(2)(3)(a)(b)(4)(5)(6)(a)(b)](https://www.legislation.gov.uk/uksi/1994/606/article/5/1/2/3/a/b/4/5/6/a/b)
 
-[^key-10a20627690f3eb45e54e8824dbc8215]: Textual amendment: Words in s. 18 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(z)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1)
+[^c-10a20627690f3eb45e54e8824dbc8215]: Textual amendment: Words in s. 18 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(z)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1)
 
 [^c14099831]: Modification: S. 18(1) excluded (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [s. 17(2)(3)](https://www.legislation.gov.uk/ukpga/1996/61/section/17/2/3)
 

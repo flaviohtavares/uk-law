@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Notification of changes[^key-ccf0fafa88fc4205a7cd642fda1ae7fa]
+## 84. Notification of changes[^c-ccf0fafa88fc4205a7cd642fda1ae7fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccf0fafa88fc4205a7cd642fda1ae7fa]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/1993/3138/regulation/84) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-ccf0fafa88fc4205a7cd642fda1ae7fa]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/1993/3138/regulation/84) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

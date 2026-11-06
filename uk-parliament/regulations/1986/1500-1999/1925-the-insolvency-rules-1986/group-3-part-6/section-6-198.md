@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.198. Power of court to order sale[^key-05e6f44239999b41579de208c314c7f8]
+## 6.198. Power of court to order sale[^c-05e6f44239999b41579de208c314c7f8]
 
 *Extent: E+W*
 
@@ -36,10 +36,10 @@ summary: ''
 
 (4) The court may direct that, if the sale is to be by public auction, the mortgagee may appear and bid on his own behalf.
 
-(5)[^key-95e025ec43aa21fe3e52feb117f4d172] Nothing in this Rule or the following Rule may affect the rights in rem of creditors or third parties protected under Article 5 of the EC Regulation (third parties' rights in rem).
+(5)[^c-95e025ec43aa21fe3e52feb117f4d172] Nothing in this Rule or the following Rule may affect the rights in rem of creditors or third parties protected under Article 5 of the EC Regulation (third parties' rights in rem).
 
 ## Annotations
 
-[^key-05e6f44239999b41579de208c314c7f8]: Commencement: [Rule 6.198](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.198) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-05e6f44239999b41579de208c314c7f8]: Commencement: [Rule 6.198](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.198) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-95e025ec43aa21fe3e52feb117f4d172]: Textual amendment: Rule 6.198(5) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [8(8)](https://www.legislation.gov.uk/uksi/2002/1307/rule/8/8) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))
+[^c-95e025ec43aa21fe3e52feb117f4d172]: Textual amendment: Rule 6.198(5) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [8(8)](https://www.legislation.gov.uk/uksi/2002/1307/rule/8/8) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Surveillance at restocked commercial poultry premises[^key-c77e03ccd6dd21e4549196bac8bde8a5]
+## 68. Surveillance at restocked commercial poultry premises[^c-c77e03ccd6dd21e4549196bac8bde8a5]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c77e03ccd6dd21e4549196bac8bde8a5]: Commencement: Reg. 68 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-c77e03ccd6dd21e4549196bac8bde8a5]: Commencement: Reg. 68 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

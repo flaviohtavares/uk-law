@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and Commencement[^key-f950b09bbbd6e8053d68b0e4d1911895]
+## 1. Citation and Commencement[^c-f950b09bbbd6e8053d68b0e4d1911895]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ This Order may be cited as the Air Navigation (Overseas Territories) Order 2013 
 
 ## Annotations
 
-[^key-f950b09bbbd6e8053d68b0e4d1911895]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-f950b09bbbd6e8053d68b0e4d1911895]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

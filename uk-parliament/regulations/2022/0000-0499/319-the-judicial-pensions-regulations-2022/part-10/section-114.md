@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Request for transfer value payment to be made[^key-945ecb93bde017a14356905cbd77d56f]
+## 114. Request for transfer value payment to be made[^c-945ecb93bde017a14356905cbd77d56f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-945ecb93bde017a14356905cbd77d56f]: Commencement: Reg. 114 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-945ecb93bde017a14356905cbd77d56f]: Commencement: Reg. 114 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

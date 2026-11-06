@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. The balance sheet or statement of assets and liabilities shall contain at least the following elements and underlying line items in accordance with rule 3.3.5(1) of the Investment Funds sourcebook[^key-52c47e89cdd6201e06db5dbdcb19bbdb]:
+1. The balance sheet or statement of assets and liabilities shall contain at least the following elements and underlying line items in accordance with rule 3.3.5(1) of the Investment Funds sourcebook[^c-52c47e89cdd6201e06db5dbdcb19bbdb]:
 
 - (a) ‘assets’ comprising the resources controlled by the AIF as a result of past events and from which future economic benefits are expected to flow to the AIF. Assets shall be sub-classified according to the following line items:
   - ((i)) ‘investments’, including, but not limited to, debt and equity securities, real estate and property and derivatives;
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52c47e89cdd6201e06db5dbdcb19bbdb]: Textual amendment: Words in Art. 104(1) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2019/328/regulation/36) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52c47e89cdd6201e06db5dbdcb19bbdb]: Textual amendment: Words in Art. 104(1) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [36(2)](https://www.legislation.gov.uk/uksi/2019/328/regulation/36) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

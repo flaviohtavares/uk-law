@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Guidance[^key-218a977c40ee0498112ce05fd94b99a2][^key-0e83a10823a15a829a6397de4e2e7793]
+## 54. Guidance[^c-218a977c40ee0498112ce05fd94b99a2][^c-0e83a10823a15a829a6397de4e2e7793]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 - (a) the Secretary of State must issue the guidance in the form of the draft laid before Parliament,
 - (b) the Commission must arrange for the guidance to be published in such manner as it considers appropriate, and
-- (c)[^key-1073bf5437f2e8cbe23a642309876fd1] the guidance comes into force on such day as the Secretary of State may by regulations made by statutory instrument appoint.
+- (c)[^c-1073bf5437f2e8cbe23a642309876fd1] the guidance comes into force on such day as the Secretary of State may by regulations made by statutory instrument appoint.
 
 (10) The Commission—
 
@@ -64,8 +64,8 @@ no account being taken of any period during which Parliament is dissolved or pro
 
 ## Annotations
 
-[^key-218a977c40ee0498112ce05fd94b99a2]: Commencement: S. 54 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-218a977c40ee0498112ce05fd94b99a2]: Commencement: S. 54 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-0e83a10823a15a829a6397de4e2e7793]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2022/37/section/54) in force at 19.5.2023 by [S.I. 2023/552](https://www.legislation.gov.uk/uksi/2023/552), [reg. 2](https://www.legislation.gov.uk/uksi/2023/552/regulation/2)
+[^c-0e83a10823a15a829a6397de4e2e7793]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2022/37/section/54) in force at 19.5.2023 by [S.I. 2023/552](https://www.legislation.gov.uk/uksi/2023/552), [reg. 2](https://www.legislation.gov.uk/uksi/2023/552/regulation/2)
 
-[^key-1073bf5437f2e8cbe23a642309876fd1]: Subordinate legislation: S. 54(9)(c): 1.11.2023 appointed for the purposes of s. 54(9)(c) by S.I. 2023/1145, [reg. 6(1)(2)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/6/1/2)
+[^c-1073bf5437f2e8cbe23a642309876fd1]: Subordinate legislation: S. 54(9)(c): 1.11.2023 appointed for the purposes of s. 54(9)(c) by S.I. 2023/1145, [reg. 6(1)(2)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/6/1/2)

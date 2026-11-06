@@ -47,7 +47,7 @@ An Act to make for England and Wales (and for courts-martial wherever sitting) a
 
 ### 2. Persons suffering from diminished responsibility.
 
-(1)[^key-af9607df94fb7cffa79ad0697e4ef71e] A person (“D”) who kills or is a party to the killing of another is not to be convicted of murder if D was suffering from an abnormality of mental functioning which—
+(1)[^c-af9607df94fb7cffa79ad0697e4ef71e] A person (“D”) who kills or is a party to the killing of another is not to be convicted of murder if D was suffering from an abnormality of mental functioning which—
 
 - (a) arose from a recognised medical condition,
 - (b) substantially impaired D's ability to do one or more of the things mentioned in subsection (1A), and
@@ -67,7 +67,7 @@ An Act to make for England and Wales (and for courts-martial wherever sitting) a
 
 (4) The fact that one party to a killing is by virtue of this section not liable to be convicted of murder shall not affect the question whether the killing amounted to murder in the case of any other party to it.
 
-### 3. Provocation.[^key-7e2074bb2dbba8824f319c860faa4cee]
+### 3. Provocation.[^c-7e2074bb2dbba8824f319c860faa4cee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -95,7 +95,7 @@ An Act to make for England and Wales (and for courts-martial wherever sitting) a
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c612975]
 
-(3)[^key-37900013b9619a643dd18f8bb7a55043] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-37900013b9619a643dd18f8bb7a55043] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c612976]
 
@@ -111,7 +111,7 @@ An Act to make for England and Wales (and for courts-martial wherever sitting) a
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c612979]
 
-(3)[^key-4e60eb97e5e6b2b9f39e54ecbb27f56c] This Act[^key-4e60eb97e5e6b2b9f39e54ecbb27f56c]... shall not extend to Northern Ireland.
+(3)[^c-4e60eb97e5e6b2b9f39e54ecbb27f56c] This Act[^c-4e60eb97e5e6b2b9f39e54ecbb27f56c]... shall not extend to Northern Ireland.
 
 ## SCHEDULE 1[^c612980][^c612980]
 
@@ -125,9 +125,9 @@ An Act to make for England and Wales (and for courts-martial wherever sitting) a
 
 [^c612968]: Extent: For the extent of this Act see [ss. 13(1)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/11/section/13/1), [17(3)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/11/section/17/3)
 
-[^key-af9607df94fb7cffa79ad0697e4ef71e]: Textual amendment: S. 2(1)-(1B) substituted (4.10.2010) for s. 2(1) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 52(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/52/1), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/7)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 5(a)](https://www.legislation.gov.uk/uksi/2010/816/article/5/a)
+[^c-af9607df94fb7cffa79ad0697e4ef71e]: Textual amendment: S. 2(1)-(1B) substituted (4.10.2010) for s. 2(1) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 52(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/52/1), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/7)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 5(a)](https://www.legislation.gov.uk/uksi/2010/816/article/5/a)
 
-[^key-7e2074bb2dbba8824f319c860faa4cee]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/11/section/3) repealed (4.10.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 56(2)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/56/2/a), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 23 Pts. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/7)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 5(b)(g)](https://www.legislation.gov.uk/uksi/2010/816/article/5/b/g)
+[^c-7e2074bb2dbba8824f319c860faa4cee]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/11/section/3) repealed (4.10.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 56(2)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/56/2/a), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 23 Pts. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/7)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 5(b)(g)](https://www.legislation.gov.uk/uksi/2010/816/article/5/b/g)
 
 [^c612969]: Textual amendment: Words repealed by [Suicide Act 1961 (c. 60)](https://www.legislation.gov.uk/ukpga/1961/60), [Sch. 2](https://www.legislation.gov.uk/ukpga/1961/60/schedule/2)
 
@@ -141,7 +141,7 @@ An Act to make for England and Wales (and for courts-martial wherever sitting) a
 
 [^c612975]: Textual amendment: Ss. 5–12, 13(2) repealed by [Murder (Abolition of Death Penalty) Act 1965 (c. 71)](https://www.legislation.gov.uk/ukpga/1965/71), [Sch.](https://www.legislation.gov.uk/ukpga/1965/71/schedule)
 
-[^key-37900013b9619a643dd18f8bb7a55043]: Textual amendment: [S. 13(3)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/11/section/13/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-37900013b9619a643dd18f8bb7a55043]: Textual amendment: [S. 13(3)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/11/section/13/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c612976]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/11/section/14) repealed by [Statute Law (Repeals) Act 1973 (c. 39)](https://www.legislation.gov.uk/ukpga/1973/39), [Sch. 1 Pt. V](https://www.legislation.gov.uk/ukpga/1973/39/schedule/1/part/V)
 
@@ -151,7 +151,7 @@ An Act to make for England and Wales (and for courts-martial wherever sitting) a
 
 [^c612979]: Textual amendment: S. 17(2) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
 
-[^key-4e60eb97e5e6b2b9f39e54ecbb27f56c]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/11/section/17/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-4e60eb97e5e6b2b9f39e54ecbb27f56c]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/11/section/17/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c612980]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/11/schedule/1) repealed by [Murder (Abolition of Death Penalty) Act 1965 (c. 71)](https://www.legislation.gov.uk/ukpga/1965/71), [Sch.](https://www.legislation.gov.uk/ukpga/1965/71/schedule)
 

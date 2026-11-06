@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Control of water from coal mines[^key-93b6c2d6027620505b3e2e4c7ef5c7db]
+## 85. Control of water from coal mines[^c-93b6c2d6027620505b3e2e4c7ef5c7db]
 
 *Extent: E+W+S*
 
@@ -111,4 +111,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93b6c2d6027620505b3e2e4c7ef5c7db]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2003/37/section/85) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/641/article/3/w) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-93b6c2d6027620505b3e2e4c7ef5c7db]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2003/37/section/85) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/641/article/3/w) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

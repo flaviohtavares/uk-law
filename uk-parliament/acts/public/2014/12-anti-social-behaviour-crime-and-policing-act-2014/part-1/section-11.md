@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Remands[^key-604c927792f99bf9ba2922cdcab621eb]
+## 11. Remands[^c-604c927792f99bf9ba2922cdcab621eb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 1 (remands under sections 9 and 10) has effect.
 
 ## Annotations
 
-[^key-604c927792f99bf9ba2922cdcab621eb]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/12/section/11) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)
+[^c-604c927792f99bf9ba2922cdcab621eb]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/12/section/11) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)

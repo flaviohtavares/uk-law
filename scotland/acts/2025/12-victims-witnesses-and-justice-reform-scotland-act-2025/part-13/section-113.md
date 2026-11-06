@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Ancillary provision[^key-157797078d1a3e875c8c46bf56111457]
+## 113. Ancillary provision[^c-157797078d1a3e875c8c46bf56111457]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-157797078d1a3e875c8c46bf56111457]: Commencement: S. 113 in force at 31.10.2025, see [s. 116(1)](https://www.legislation.gov.uk/asp/2025/12/section/116/1)
+[^c-157797078d1a3e875c8c46bf56111457]: Commencement: S. 113 in force at 31.10.2025, see [s. 116(1)](https://www.legislation.gov.uk/asp/2025/12/section/116/1)

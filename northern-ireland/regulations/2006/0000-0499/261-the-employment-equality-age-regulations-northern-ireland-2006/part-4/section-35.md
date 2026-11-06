@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Exception for provision of enhanced redundancy payments to employees[^key-45739520d740bf03226156c118566a4e]
+## 35. Exception for provision of enhanced redundancy payments to employees[^c-45739520d740bf03226156c118566a4e]
 
 *Extent: N.I.*
 
@@ -52,7 +52,7 @@ summary: ''
 
 ## Annotations
 
-[^key-45739520d740bf03226156c118566a4e]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2006/261/regulation/35) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-45739520d740bf03226156c118566a4e]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2006/261/regulation/35) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00029]: Footnote: Paragraphs (4), (5) and (8) of Article 197 of the 1996 Order are repealed by regulation 53(2) of, and Schedule 8 to, these Regulations
 

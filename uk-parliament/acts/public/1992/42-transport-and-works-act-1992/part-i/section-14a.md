@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14A. Compulsory acquisition: notice requirements[^key-1668b899735dbfa4d9e8b31d3d048232]
+## 14A. Compulsory acquisition: notice requirements[^c-1668b899735dbfa4d9e8b31d3d048232]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ subject to any necessary modifications.
 
 ## Annotations
 
-[^key-1668b899735dbfa4d9e8b31d3d048232]: Textual amendment: S. 14A inserted (E.W.) (2.2.2017) by [The Housing and Planning Act 2016 (Compulsory Purchase) (Corresponding Amendments) Regulations 2017 (S.I. 2017/16)](https://www.legislation.gov.uk/uksi/2017/16), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/16/regulation/1/2), [Sch. para. 5(1)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/5/1) (with [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/5/2))
+[^c-1668b899735dbfa4d9e8b31d3d048232]: Textual amendment: S. 14A inserted (E.W.) (2.2.2017) by [The Housing and Planning Act 2016 (Compulsory Purchase) (Corresponding Amendments) Regulations 2017 (S.I. 2017/16)](https://www.legislation.gov.uk/uksi/2017/16), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/16/regulation/1/2), [Sch. para. 5(1)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/5/1) (with [Sch. para. 5(2)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/5/2))

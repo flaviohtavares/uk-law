@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Correction of errors in decisions[^key-bbcdd27ec62122d66658738a0c0ba249]
+## 184. Correction of errors in decisions[^c-bbcdd27ec62122d66658738a0c0ba249]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In section 56(3)(c) of PCPA 2004 (appropriate consent required for correction of
 
 ## Annotations
 
-[^key-bbcdd27ec62122d66658738a0c0ba249]: Commencement: S. 184 in force at 6.4.2009 for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(f)](https://www.legislation.gov.uk/uksi/2009/400/article/3/f)
+[^c-bbcdd27ec62122d66658738a0c0ba249]: Commencement: S. 184 in force at 6.4.2009 for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(f)](https://www.legislation.gov.uk/uksi/2009/400/article/3/f)

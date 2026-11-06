@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Alternative methodologies to determine the normal value[^key-bd6e1b50f76338e225a45dca91c20540]
+## 8. Alternative methodologies to determine the normal value[^c-bd6e1b50f76338e225a45dca91c20540]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd6e1b50f76338e225a45dca91c20540]: Commencement: Reg. 8 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-bd6e1b50f76338e225a45dca91c20540]: Commencement: Reg. 8 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

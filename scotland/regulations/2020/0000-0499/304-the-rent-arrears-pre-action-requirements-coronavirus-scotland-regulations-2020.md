@@ -40,11 +40,11 @@ Coming into force
 
 30th September 2020
 
-The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 18(9) and 53(3) of the Housing (Scotland) Act 1988[^f00001], section 76(1) and paragraph 12(6) of schedule 3 of the Private Housing (Tenancies) (Scotland) Act 2016[^f00002] and all other powers enabling them to do so.[^key-a08a99166eeb876582db686143205164][^key-4f7cd669d9be90891117b9c2ae8e2683][^key-eb50fc9b09d78fe0fa9839615c59a5c7]
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 18(9) and 53(3) of the Housing (Scotland) Act 1988[^f00001], section 76(1) and paragraph 12(6) of schedule 3 of the Private Housing (Tenancies) (Scotland) Act 2016[^f00002] and all other powers enabling them to do so.[^c-a08a99166eeb876582db686143205164][^c-4f7cd669d9be90891117b9c2ae8e2683][^c-eb50fc9b09d78fe0fa9839615c59a5c7]
 
-In accordance with section 18(11) of the Housing (Scotland) Act 1988 and section 77(3) of the Private Housing (Tenancies) (Scotland) Act 2016, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament[^f00003].[^key-a08a99166eeb876582db686143205164][^key-4f7cd669d9be90891117b9c2ae8e2683][^key-eb50fc9b09d78fe0fa9839615c59a5c7]
+In accordance with section 18(11) of the Housing (Scotland) Act 1988 and section 77(3) of the Private Housing (Tenancies) (Scotland) Act 2016, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament[^f00003].[^c-a08a99166eeb876582db686143205164][^c-4f7cd669d9be90891117b9c2ae8e2683][^c-eb50fc9b09d78fe0fa9839615c59a5c7]
 
-## 1. Commencement, citation and expiry[^key-cbc05a394d531c074a95ea83695a9d7f]
+## 1. Commencement, citation and expiry[^c-cbc05a394d531c074a95ea83695a9d7f]
 
 (1) These Regulations may be cited as the Rent Arrears Pre-Action Requirements (Coronavirus) (Scotland) Regulations 2020 and come into force on the day after the day on which it is made.
 
@@ -52,14 +52,14 @@ In accordance with section 18(11) of the Housing (Scotland) Act 1988 and section
 
 (3) Regulation 4 expires on the day on which paragraph 1 of schedule 1 of the Coronavirus (Scotland) Act 2020 expires.
 
-## 2. Interpretation[^key-a47c604fbca869c4843893fda30c01c1]
+## 2. Interpretation[^c-a47c604fbca869c4843893fda30c01c1]
 
 In these Regulations—
 
 - “the 1988 Act” means the Housing (Scotland) Act 1988, and
 - “the 2016 Act” means the Private Housing (Tenancies) (Scotland) Act 2016.
 
-## 3. Pre-action requirements for assured and short assured tenancies[^key-82f40a3ed3f7a6b3dca7ceaacf536545]
+## 3. Pre-action requirements for assured and short assured tenancies[^c-82f40a3ed3f7a6b3dca7ceaacf536545]
 
 (1) For the purposes of section 18(3C) of the 1988 Act[^f00005], the Scottish Ministers specify the pre-action requirements set out in paragraphs 2 to 4.
 
@@ -81,7 +81,7 @@ In these Regulations—
 - (b) the extent to which the tenant has complied with the terms of any plan agreed to in accordance with paragraph (3), and
 - (c) any changes to the tenant’s circumstances which are likely to impact on the extent to which the tenant complies with the terms of a plan agreed to in accordance with paragraph (3).
 
-## 4. Pre-action requirements for private residential tenancies[^key-8e86c00ee81257f2456d0239d752ed63]
+## 4. Pre-action requirements for private residential tenancies[^c-8e86c00ee81257f2456d0239d752ed63]
 
 (1) For the purposes of paragraph 12(3B) of schedule 3 of the 2016 Act[^f00006], the Scottish Ministers specify the pre-action requirements set out in paragraphs 2 to 4.
 
@@ -103,11 +103,11 @@ In these Regulations—
 - (b) the extent to which the tenant has complied with the terms of any plan agreed to in accordance with paragraph (3), and
 - (c) any changes to the tenant’s circumstances which are likely to impact on the extent to which the tenant complies with the terms of a plan agreed to in accordance with paragraph (3).
 
-## 5. Transitional arrangements: assured and short assured tenancies[^key-04994dba3b0b5b7a462601ce45e92c0e]
+## 5. Transitional arrangements: assured and short assured tenancies[^c-04994dba3b0b5b7a462601ce45e92c0e]
 
 The pre-action requirements specified under regulation 3 apply to proceedings before the First-tier Tribunal for Scotland for the order for possession of a house let on an assured tenancy under section 18 of the 1988 Act which are raised by the landlord on or after 6 October 2020.
 
-## 6. Transitional arrangements: private residential tenancies[^key-a9c894c42bea9b077a9f852e1bf1dd40]
+## 6. Transitional arrangements: private residential tenancies[^c-a9c894c42bea9b077a9f852e1bf1dd40]
 
 The pre-action requirements specified under regulation 4 apply to an application to the First-tier Tribunal for Scotland for an eviction order under section 51 of the 2016 Act which is made by the landlord on or after 6 October 2020.
 
@@ -141,28 +141,28 @@ Regulations 5 and 6 specify that the pre-action requirements apply to proceeding
 
 [^f00002]: Footnote: [2016 asp 19](https://www.legislation.gov.uk/asp/2016/19). Paragraph 5 of schedule 1 of the Coronavirus (Scotland) (No. 2) Act 2020 modifies paragraph 12 so that it is to be read as if sub-paragraph (6) were inserted.
 
-[^key-a08a99166eeb876582db686143205164]: Modification: [Regulations](https://www.legislation.gov.uk/ssi/2020/304) continued (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 48(2)(b)](https://www.legislation.gov.uk/asp/2022/8/section/48/2/b), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-a08a99166eeb876582db686143205164]: Modification: [Regulations](https://www.legislation.gov.uk/ssi/2020/304) continued (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 48(2)(b)](https://www.legislation.gov.uk/asp/2022/8/section/48/2/b), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
-[^key-4f7cd669d9be90891117b9c2ae8e2683]: Modification: [Regulations](https://www.legislation.gov.uk/ssi/2020/304) continued (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 48(1)(b)](https://www.legislation.gov.uk/asp/2022/8/section/48/1/b), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-4f7cd669d9be90891117b9c2ae8e2683]: Modification: [Regulations](https://www.legislation.gov.uk/ssi/2020/304) continued (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 48(1)(b)](https://www.legislation.gov.uk/asp/2022/8/section/48/1/b), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
-[^key-eb50fc9b09d78fe0fa9839615c59a5c7]: Modification: [Regulations](https://www.legislation.gov.uk/ssi/2020/304) continued (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 49](https://www.legislation.gov.uk/asp/2022/8/section/49), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-eb50fc9b09d78fe0fa9839615c59a5c7]: Modification: [Regulations](https://www.legislation.gov.uk/ssi/2020/304) continued (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 49](https://www.legislation.gov.uk/asp/2022/8/section/49), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
 [^f00003]: Footnote: The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-cbc05a394d531c074a95ea83695a9d7f]: Commencement: Reg. 1 in force at 30.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/304/regulation/1/1)
+[^c-cbc05a394d531c074a95ea83695a9d7f]: Commencement: Reg. 1 in force at 30.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/304/regulation/1/1)
 
 [^f00004]: Footnote: [2020 asp 7](https://www.legislation.gov.uk/asp/2020/7). Section 12(1) provides that the Act expires on 30 September 2020. Section 12(3) provides that the Scottish Ministers may, by regulations, amend section 12(1) so that the Act expires on 31 March 2021 or 30 September 2021.
 
-[^key-a47c604fbca869c4843893fda30c01c1]: Commencement: Reg. 2 in force at 30.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/304/regulation/1/1)
+[^c-a47c604fbca869c4843893fda30c01c1]: Commencement: Reg. 2 in force at 30.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/304/regulation/1/1)
 
-[^key-82f40a3ed3f7a6b3dca7ceaacf536545]: Commencement: Reg. 3 in force at 30.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/304/regulation/1/1)
+[^c-82f40a3ed3f7a6b3dca7ceaacf536545]: Commencement: Reg. 3 in force at 30.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/304/regulation/1/1)
 
 [^f00005]: Footnote: Paragraph 4(2)(a) of schedule 1 of the Coronavirus (Scotland) (No. 2) Act 2020 modifies section 18 so that it is to be read as if subsection 3C were inserted.
 
-[^key-8e86c00ee81257f2456d0239d752ed63]: Commencement: Reg. 4 in force at 30.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/304/regulation/1/1)
+[^c-8e86c00ee81257f2456d0239d752ed63]: Commencement: Reg. 4 in force at 30.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/304/regulation/1/1)
 
 [^f00006]: Footnote: Paragraph 5(2)(a) of schedule 1 of the Coronavirus (Scotland) (No. 2) Act 2020 modifies paragraph 12 so that it is to be read as if subsection 3B were inserted.
 
-[^key-04994dba3b0b5b7a462601ce45e92c0e]: Commencement: Reg. 5 in force at 30.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/304/regulation/1/1)
+[^c-04994dba3b0b5b7a462601ce45e92c0e]: Commencement: Reg. 5 in force at 30.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/304/regulation/1/1)
 
-[^key-a9c894c42bea9b077a9f852e1bf1dd40]: Commencement: Reg. 6 in force at 30.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/304/regulation/1/1)
+[^c-a9c894c42bea9b077a9f852e1bf1dd40]: Commencement: Reg. 6 in force at 30.9.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/304/regulation/1/1)

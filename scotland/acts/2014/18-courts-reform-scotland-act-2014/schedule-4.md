@@ -26,13 +26,13 @@ summary: ''
 
 #### Modification of the Judiciary and Courts (Scotland) Act 2008
 
-**1.** (1)[^key-a82f577a9ea010d4368b80d433e11b68][^key-1ccecd7fa077e6bfc6152246f3e45eb9] The Judiciary and Courts (Scotland) Act 2008 is amended in accordance with this paragraph.
+**1.** (1)[^c-a82f577a9ea010d4368b80d433e11b68][^c-1ccecd7fa077e6bfc6152246f3e45eb9] The Judiciary and Courts (Scotland) Act 2008 is amended in accordance with this paragraph.
 
-(2)[^key-a82f577a9ea010d4368b80d433e11b68][^key-1ccecd7fa077e6bfc6152246f3e45eb9] For “SCS” in each place where it occurs, substitute “ SCTS ”.
+(2)[^c-a82f577a9ea010d4368b80d433e11b68][^c-1ccecd7fa077e6bfc6152246f3e45eb9] For “SCS” in each place where it occurs, substitute “ SCTS ”.
 
-(3)[^key-d584f1d7db9b49155d5a3fab67e1ee40] In section 60 (the Scottish Court Service), in subsection (1), for “Court” substitute “ Courts and Tribunals ”.
+(3)[^c-d584f1d7db9b49155d5a3fab67e1ee40] In section 60 (the Scottish Court Service), in subsection (1), for “Court” substitute “ Courts and Tribunals ”.
 
-(4)[^key-d584f1d7db9b49155d5a3fab67e1ee40] In section 62 (administrative support for persons other than the Scottish courts and judiciary)—
+(4)[^c-d584f1d7db9b49155d5a3fab67e1ee40] In section 62 (administrative support for persons other than the Scottish courts and judiciary)—
 
 - (a) after subsection (1)(a)(i) insert—
 
@@ -47,13 +47,13 @@ summary: ''
 
   .
 
-(5)[^key-d584f1d7db9b49155d5a3fab67e1ee40] In section 70(1)(a)(i) (Scottish Ministers' default power), after “courts” insert “ or the Scottish Tribunals ”.
+(5)[^c-d584f1d7db9b49155d5a3fab67e1ee40] In section 70(1)(a)(i) (Scottish Ministers' default power), after “courts” insert “ or the Scottish Tribunals ”.
 
-(6)[^key-a82f577a9ea010d4368b80d433e11b68][^key-1ccecd7fa077e6bfc6152246f3e45eb9] Schedule 3 (the Scottish Court Service) is amended in accordance with sub-paragraphs (7) to (11).
+(6)[^c-a82f577a9ea010d4368b80d433e11b68][^c-1ccecd7fa077e6bfc6152246f3e45eb9] Schedule 3 (the Scottish Court Service) is amended in accordance with sub-paragraphs (7) to (11).
 
-(7)[^key-d584f1d7db9b49155d5a3fab67e1ee40] Paragraph 1 is repealed.
+(7)[^c-d584f1d7db9b49155d5a3fab67e1ee40] Paragraph 1 is repealed.
 
-(8)[^key-a82f577a9ea010d4368b80d433e11b68][^key-1ccecd7fa077e6bfc6152246f3e45eb9] In paragraph 2—
+(8)[^c-a82f577a9ea010d4368b80d433e11b68][^c-1ccecd7fa077e6bfc6152246f3e45eb9] In paragraph 2—
 
 - (a) for sub-paragraph (2)(c) substitute—
 
@@ -74,21 +74,21 @@ summary: ''
 
   .
 
-(9)[^key-a82f577a9ea010d4368b80d433e11b68][^key-1ccecd7fa077e6bfc6152246f3e45eb9] In paragraph 3, in sub-paragraph (1) after “Clerk” insert “ , the President of the Scottish Tribunals ”.
+(9)[^c-a82f577a9ea010d4368b80d433e11b68][^c-1ccecd7fa077e6bfc6152246f3e45eb9] In paragraph 3, in sub-paragraph (1) after “Clerk” insert “ , the President of the Scottish Tribunals ”.
 
-(10)[^key-d584f1d7db9b49155d5a3fab67e1ee40] In paragraph 13, after sub-paragraph (2)(a) insert—
+(10)[^c-d584f1d7db9b49155d5a3fab67e1ee40] In paragraph 13, after sub-paragraph (2)(a) insert—
 
 > - (aa) the judicial member who holds the position of Chamber President in the First-tier Tribunal for Scotland (unless that member receives a salary in respect of that position),
 
 .
 
-(11)[^key-d584f1d7db9b49155d5a3fab67e1ee40] In paragraph 20, after sub-paragraph (2)(a)(i) insert—
+(11)[^c-d584f1d7db9b49155d5a3fab67e1ee40] In paragraph 20, after sub-paragraph (2)(a)(i) insert—
 
 > - (ia) the purposes of tribunals or the members of tribunals,
 
 .
 
-(12)[^key-d584f1d7db9b49155d5a3fab67e1ee40] The title of—
+(12)[^c-d584f1d7db9b49155d5a3fab67e1ee40] The title of—
 
 - (a) Part 4 becomes “ THE SCOTTISH COURTS AND TRIBUNALS SERVICE ”,
 - (b) section 60 becomes “ **The Scottish Courts and Tribunals Service** ”,
@@ -98,7 +98,7 @@ summary: ''
 
 #### Transfer of staff
 
-**2.**[^key-f74b7b9e716944b2abaa66cc1d0a7542] (1) Sub-paragraph (2) applies to persons who, on the coming into force of this paragraph, are members of the staff of the Scottish Ministers assigned to the part of the Scottish Administration known as the Scottish Tribunals Service (referred to in this paragraph as “**the Service**”), other than excepted staff.
+**2.**[^c-f74b7b9e716944b2abaa66cc1d0a7542] (1) Sub-paragraph (2) applies to persons who, on the coming into force of this paragraph, are members of the staff of the Scottish Ministers assigned to the part of the Scottish Administration known as the Scottish Tribunals Service (referred to in this paragraph as “**the Service**”), other than excepted staff.
 
 (2) On the coming into force of this paragraph, those members of staff transfer to, and become members of the staff of, the Scottish Courts and Tribunals Service (referred to in this paragraph as “**the SCTS**”).
 
@@ -125,9 +125,9 @@ is conclusive of that fact for the purposes of this paragraph.
 
 #### Existing tribunals
 
-**3.** (1)[^key-1f5d8aac518ca246120fbb6fc794d669][^key-3328d31b752534fcb95b37a07474825b] Until all of the functions of a tribunal listed in sub-paragraph (2) are transferred to the Scottish Tribunals by virtue of section 28 of the Tribunals (Scotland) Act 2014, sections 61A (administrative support for the Scottish Tribunals and their members) and 70 (default power of the Scottish Ministers) of the 2008 Act apply in relation to the tribunal, and to the members of the tribunal, as those sections apply in relation to the Scottish Tribunals and the members of those Tribunals.
+**3.** (1)[^c-1f5d8aac518ca246120fbb6fc794d669][^c-3328d31b752534fcb95b37a07474825b] Until all of the functions of a tribunal listed in sub-paragraph (2) are transferred to the Scottish Tribunals by virtue of section 28 of the Tribunals (Scotland) Act 2014, sections 61A (administrative support for the Scottish Tribunals and their members) and 70 (default power of the Scottish Ministers) of the 2008 Act apply in relation to the tribunal, and to the members of the tribunal, as those sections apply in relation to the Scottish Tribunals and the members of those Tribunals.
 
-(2)[^key-1f5d8aac518ca246120fbb6fc794d669][^key-3328d31b752534fcb95b37a07474825b] The tribunals referred to in sub-paragraph (1) are—
+(2)[^c-1f5d8aac518ca246120fbb6fc794d669][^c-3328d31b752534fcb95b37a07474825b] The tribunals referred to in sub-paragraph (1) are—
 
 - (a) the Lands Tribunal for Scotland, established by section 1 of the Lands Tribunal Act 1949,
 - (b) a private rented housing committee constituted in accordance with Schedule 4 to the Rent (Scotland) Act 1984,
@@ -138,9 +138,9 @@ is conclusive of that fact for the purposes of this paragraph.
 - (g) the First-tier Tax Tribunal for Scotland, established by section 21(1) of the Revenue Scotland and Tax Powers Act 2014,
 - (h) the Upper Tax Tribunal for Scotland, established by section 21(3) of the Revenue Scotland and Tax Powers Act 2014.
 
-(3)[^key-1f5d8aac518ca246120fbb6fc794d669][^key-3328d31b752534fcb95b37a07474825b] Paragraph 2(2)(g) of schedule 3 to the 2008 Act applies as if the reference to the position of Chamber President in the First-tier Tribunal for Scotland includes a reference to an office mentioned in sub-paragraph (4) in relation to a tribunal, for so long as section 61A of the 2008 Act applies, by virtue of sub-paragraph (1), to that tribunal (and paragraph 13(2)(aa) of schedule 3 to the 2008 Act is to be construed accordingly).
+(3)[^c-1f5d8aac518ca246120fbb6fc794d669][^c-3328d31b752534fcb95b37a07474825b] Paragraph 2(2)(g) of schedule 3 to the 2008 Act applies as if the reference to the position of Chamber President in the First-tier Tribunal for Scotland includes a reference to an office mentioned in sub-paragraph (4) in relation to a tribunal, for so long as section 61A of the 2008 Act applies, by virtue of sub-paragraph (1), to that tribunal (and paragraph 13(2)(aa) of schedule 3 to the 2008 Act is to be construed accordingly).
 
-(4)[^key-1f5d8aac518ca246120fbb6fc794d669][^key-3328d31b752534fcb95b37a07474825b] The offices and tribunals referred to in sub-paragraph (3) are—
+(4)[^c-1f5d8aac518ca246120fbb6fc794d669][^c-3328d31b752534fcb95b37a07474825b] The offices and tribunals referred to in sub-paragraph (3) are—
 
 - (a) President of the Lands Tribunal for Scotland, appointed under section 2(1) of the Lands Tribunal Act 1949, in relation to the Lands Tribunal for Scotland,
 - (b) President of the Private Rented Housing Panel, appointed under paragraph 4 of Schedule 4 to the Rent (Scotland) Act 1949, in relation to—
@@ -150,12 +150,12 @@ is conclusive of that fact for the purposes of this paragraph.
 - (d) President of the Additional Support Needs Tribunals for Scotland, appointed under section 17(2) of the Education (Additional Support for Learning) (Scotland) 2004, in relation to an Additional Support Needs Tribunal for Scotland,
 - (e) President of the Tax Tribunals, appointed under section 22(1) of the Revenue Scotland and Tax Powers Act 2014, in relation to the First-tier Tax Tribunal for Scotland and the Upper Tax Tribunal for Scotland.
 
-(5)[^key-a1ee5255dd0c84fd2e1862a865a02b66] The Scottish Ministers may by order—
+(5)[^c-a1ee5255dd0c84fd2e1862a865a02b66] The Scottish Ministers may by order—
 
 - (a) add a reference to a tribunal which is, or is to be, listed in schedule 1 to the Tribunals (Scotland) Act 2014 to sub-paragraph (2),
 - (b) add a reference to an office in relation to the tribunal to sub-paragraph (4).
 
-(6)[^key-1f5d8aac518ca246120fbb6fc794d669][^key-3328d31b752534fcb95b37a07474825b] In this paragraph—
+(6)[^c-1f5d8aac518ca246120fbb6fc794d669][^c-3328d31b752534fcb95b37a07474825b] In this paragraph—
 
 - “**the 2008 Act**” means the Judiciary and Courts (Scotland) Act 2008,
 - “**the Scottish Tribunals**” means the First-tier Tribunal for Scotland and the Upper Tribunal for Scotland.
@@ -164,27 +164,27 @@ is conclusive of that fact for the purposes of this paragraph.
 
 #### Lands Tribunal Act 1949
 
-**4.**[^key-642f8b04a224bab111904050098a3ba7] Section 2(7) of the Lands Tribunal Act 1949 is repealed.
+**4.**[^c-642f8b04a224bab111904050098a3ba7] Section 2(7) of the Lands Tribunal Act 1949 is repealed.
 
 #### Mental Health (Care and Treatment) (Scotland) Act 2003
 
-**5.**[^key-6fdb0295aa4271fc7ede015cb9b7e5c5] Paragraph 8(1) and (2) of schedule 2 to the Mental Health (Care and Treatment) (Scotland) Act 2003 is repealed.
+**5.**[^c-6fdb0295aa4271fc7ede015cb9b7e5c5] Paragraph 8(1) and (2) of schedule 2 to the Mental Health (Care and Treatment) (Scotland) Act 2003 is repealed.
 
 #### Education (Additional Support for Learning) (Scotland) Act 2004
 
-**6.**[^key-2b2abb868b9b9489d33bf8ed7f77ed7c] Paragraph 9 of schedule 1 to the Education (Additional Support for Learning) (Scotland) Act 2004 is repealed.
+**6.**[^c-2b2abb868b9b9489d33bf8ed7f77ed7c] Paragraph 9 of schedule 1 to the Education (Additional Support for Learning) (Scotland) Act 2004 is repealed.
 
 #### Charities and Trustee Investment (Scotland) Act 2005
 
-**7.**[^key-69d287eafe592ebf7f728d710e747e64] Paragraph 3 of schedule 2 to the Charities and Trustee Investment (Scotland) Act 2005 is repealed.
+**7.**[^c-69d287eafe592ebf7f728d710e747e64] Paragraph 3 of schedule 2 to the Charities and Trustee Investment (Scotland) Act 2005 is repealed.
 
 #### Tribunals (Scotland) Act 2014
 
-**8.**[^key-2fa3cf55a570e037421744f9e75447ef] Section 77 (administrative support) of the Tribunals (Scotland) Act 2014 is repealed.
+**8.**[^c-2fa3cf55a570e037421744f9e75447ef] Section 77 (administrative support) of the Tribunals (Scotland) Act 2014 is repealed.
 
 #### Revenue Scotland and Tax Powers Act 2014
 
-**9.**[^key-681364cd7823c4169e52a7d8ff9b2289] (1) The Revenue Scotland and Tax Powers Act 2014 is amended in accordance with this paragraph.
+**9.**[^c-681364cd7823c4169e52a7d8ff9b2289] (1) The Revenue Scotland and Tax Powers Act 2014 is amended in accordance with this paragraph.
 
 (2) Section 58 (administrative support) is repealed.
 
@@ -195,28 +195,28 @@ is conclusive of that fact for the purposes of this paragraph.
 
 ## Annotations
 
-[^key-a82f577a9ea010d4368b80d433e11b68]: Commencement: Sch. 4 para. 1(1)(2)(6)(8)(9) in force at 2.2.2015 for specified purposes by [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2)
+[^c-a82f577a9ea010d4368b80d433e11b68]: Commencement: Sch. 4 para. 1(1)(2)(6)(8)(9) in force at 2.2.2015 for specified purposes by [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2)
 
-[^key-1ccecd7fa077e6bfc6152246f3e45eb9]: Commencement: Sch. 4 para. 1(1)(2)(6)(8)(9) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-1ccecd7fa077e6bfc6152246f3e45eb9]: Commencement: Sch. 4 para. 1(1)(2)(6)(8)(9) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-d584f1d7db9b49155d5a3fab67e1ee40]: Commencement: Sch. 4 para. 1(3)-(5)(7)(10)-(12) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-d584f1d7db9b49155d5a3fab67e1ee40]: Commencement: Sch. 4 para. 1(3)-(5)(7)(10)-(12) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-f74b7b9e716944b2abaa66cc1d0a7542]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/2) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-f74b7b9e716944b2abaa66cc1d0a7542]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/2) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-1f5d8aac518ca246120fbb6fc794d669]: Commencement: Sch. 4 para. 3(1)-(4)(6) in force at 2.2.2015 for specified purposes by [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2)
+[^c-1f5d8aac518ca246120fbb6fc794d669]: Commencement: Sch. 4 para. 3(1)-(4)(6) in force at 2.2.2015 for specified purposes by [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2)
 
-[^key-3328d31b752534fcb95b37a07474825b]: Commencement: Sch. 4 para. 3(1)-(4)(6) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-3328d31b752534fcb95b37a07474825b]: Commencement: Sch. 4 para. 3(1)-(4)(6) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-a1ee5255dd0c84fd2e1862a865a02b66]: Commencement: Sch. 4 para. 3(5) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-a1ee5255dd0c84fd2e1862a865a02b66]: Commencement: Sch. 4 para. 3(5) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-642f8b04a224bab111904050098a3ba7]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/4) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-642f8b04a224bab111904050098a3ba7]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/4) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-6fdb0295aa4271fc7ede015cb9b7e5c5]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/5) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-6fdb0295aa4271fc7ede015cb9b7e5c5]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/5) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-2b2abb868b9b9489d33bf8ed7f77ed7c]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/6) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-2b2abb868b9b9489d33bf8ed7f77ed7c]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/6) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-69d287eafe592ebf7f728d710e747e64]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/7) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-69d287eafe592ebf7f728d710e747e64]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/7) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-2fa3cf55a570e037421744f9e75447ef]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/8) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-2fa3cf55a570e037421744f9e75447ef]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/8) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-681364cd7823c4169e52a7d8ff9b2289]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/9) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-681364cd7823c4169e52a7d8ff9b2289]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/9) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

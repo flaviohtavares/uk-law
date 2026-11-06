@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Effect of non-compliance[^key-408acfce92bcc92591183ed4adccbbfd]
+## 3. Effect of non-compliance[^c-408acfce92bcc92591183ed4adccbbfd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-408acfce92bcc92591183ed4adccbbfd]: Commencement: Reg. 3 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1811/regulation/1)
+[^c-408acfce92bcc92591183ed4adccbbfd]: Commencement: Reg. 3 in force at 16.11.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1811/regulation/1)

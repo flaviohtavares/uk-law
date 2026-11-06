@@ -38,181 +38,181 @@ laying down rules for the calculation, verification and reporting of data and es
 
 (Text with EEA relevance) (revoked)
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-618cb12c154f2f97e07f4702e94e4bdc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Rules for the calculation of the minimum recovery targets referred to in Article 11(1) of Directive 2012/19/EU[^key-618cb12c154f2f97e07f4702e94e4bdc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Format for reporting of data referred to in Article 16(6) of Directive 2012/19/EU and quality check report[^key-618cb12c154f2f97e07f4702e94e4bdc]
+## Article 1. Rules for the calculation of the minimum recovery targets referred to in Article 11(1) of Directive 2012/19/EU[^c-618cb12c154f2f97e07f4702e94e4bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-618cb12c154f2f97e07f4702e94e4bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I — POINTS REFERRED TO IN ARTICLE 1(2) WHERE WASTE MATERIALS ORIGINATING FROM WEEE ENTER THE RECYCLING OPERATION[^key-618cb12c154f2f97e07f4702e94e4bdc]
+## Article 2. Format for reporting of data referred to in Article 16(6) of Directive 2012/19/EU and quality check report[^c-618cb12c154f2f97e07f4702e94e4bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — FORMAT FOR REPORTING DATA FOR THE PURPOSES OF DIRECTIVE 2012/19/EU ON WEEE[^key-618cb12c154f2f97e07f4702e94e4bdc]
+**Article 3.**[^c-618cb12c154f2f97e07f4702e94e4bdc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — POINTS REFERRED TO IN ARTICLE 1(2) WHERE WASTE MATERIALS ORIGINATING FROM WEEE ENTER THE RECYCLING OPERATION[^c-618cb12c154f2f97e07f4702e94e4bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — FORMAT FOR THE QUALITY CHECK REPORT ACCOMPANYING THE DATA REFERRED TO IN ANNEX II[^key-618cb12c154f2f97e07f4702e94e4bdc]
-
-### PART 1 — GENERAL INFORMATION[^key-618cb12c154f2f97e07f4702e94e4bdc]
-
-[^key-618cb12c154f2f97e07f4702e94e4bdc] Member State
+## ANNEX II — FORMAT FOR REPORTING DATA FOR THE PURPOSES OF DIRECTIVE 2012/19/EU ON WEEE[^c-618cb12c154f2f97e07f4702e94e4bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Title[^key-618cb12c154f2f97e07f4702e94e4bdc]
+## ANNEX III — FORMAT FOR THE QUALITY CHECK REPORT ACCOMPANYING THE DATA REFERRED TO IN ANNEX II[^c-618cb12c154f2f97e07f4702e94e4bdc]
+
+### PART 1 — GENERAL INFORMATION[^c-618cb12c154f2f97e07f4702e94e4bdc]
+
+[^c-618cb12c154f2f97e07f4702e94e4bdc] Member State
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc] Organisation submitting the data and the quality check report
+#### Title[^c-618cb12c154f2f97e07f4702e94e4bdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc] Contact person/contact details
+[^c-618cb12c154f2f97e07f4702e94e4bdc] Organisation submitting the data and the quality check report
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc] Reference year
+[^c-618cb12c154f2f97e07f4702e94e4bdc] Contact person/contact details
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc] Delivery date/version of the quality check report
+[^c-618cb12c154f2f97e07f4702e94e4bdc] Reference year
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc] Claim for confidentiality
+[^c-618cb12c154f2f97e07f4702e94e4bdc] Delivery date/version of the quality check report
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — SOURCE OF DATA, PROCESS FOR VALIDATION OF DATA AND COVERAGE[^key-618cb12c154f2f97e07f4702e94e4bdc]
+[^c-618cb12c154f2f97e07f4702e94e4bdc] Claim for confidentiality
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]A.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 2 — SOURCE OF DATA, PROCESS FOR VALIDATION OF DATA AND COVERAGE[^c-618cb12c154f2f97e07f4702e94e4bdc]
+
+[^c-618cb12c154f2f97e07f4702e94e4bdc]A.
 
 **Methodologies applied and sources of data**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]A.1:
+[^c-618cb12c154f2f97e07f4702e94e4bdc]A.1:
 
 **Methodology for the calculation of the quantity of EEE placed on the market**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]A.2:
+[^c-618cb12c154f2f97e07f4702e94e4bdc]A.2:
 
 **Methodology for the calculation of the WEEE collection rate**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]A.3:
+[^c-618cb12c154f2f97e07f4702e94e4bdc]A.3:
 
 **Source of data**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc](a)
+[^c-618cb12c154f2f97e07f4702e94e4bdc](a)
 
 **EEE placed on the market** (Table 1: column 1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc](b)
+[^c-618cb12c154f2f97e07f4702e94e4bdc](b)
 
 **WEEE generated** (Table 1: column 2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc](c)
+[^c-618cb12c154f2f97e07f4702e94e4bdc](c)
 
 **WEEE collected** (Table 1: columns 3, 4, 5 and 6)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc](d)
+[^c-618cb12c154f2f97e07f4702e94e4bdc](d)
 
 **Preparing for re-use, recycling and recovery of WEEE** (Table 2: columns 1, 2 and 5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc](e)
+[^c-618cb12c154f2f97e07f4702e94e4bdc](e)
 
 **WEEE Treated** (Table 2: columns 7, 8 and 9)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]B.
+[^c-618cb12c154f2f97e07f4702e94e4bdc]B.
 
 **Quality of data sources/Process for validation of data**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]B.1:
+[^c-618cb12c154f2f97e07f4702e94e4bdc]B.1:
 
 **Quality of data sources**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]B.2:
+[^c-618cb12c154f2f97e07f4702e94e4bdc]B.2:
 
 **Quality of estimations on EEE placed on the market under different categories**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]B.3:
+[^c-618cb12c154f2f97e07f4702e94e4bdc]B.3:
 
 **Monitoring of the achievement of the targets**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]B.4:
+[^c-618cb12c154f2f97e07f4702e94e4bdc]B.4:
 
 **Data alignment and consistency**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]B.5:
+[^c-618cb12c154f2f97e07f4702e94e4bdc]B.5:
 
 **Process for validation of data**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]C.
+[^c-618cb12c154f2f97e07f4702e94e4bdc]C.
 
 **Completeness/Coverage**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]D.
+[^c-618cb12c154f2f97e07f4702e94e4bdc]D.
 
 **Other**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]D.1:
+[^c-618cb12c154f2f97e07f4702e94e4bdc]D.1:
 
 **Missing data**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]D.2:
+[^c-618cb12c154f2f97e07f4702e94e4bdc]D.2:
 
 **Plausibility check**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]E.
+[^c-618cb12c154f2f97e07f4702e94e4bdc]E.
 
 **Differences from data reported in previous years**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]F.
+[^c-618cb12c154f2f97e07f4702e94e4bdc]F.
 
 **Main national websites, reference documents and publications**
 
@@ -220,4 +220,4 @@ laying down rules for the calculation, verification and reporting of data and es
 
 ## Annotations
 
-[^key-618cb12c154f2f97e07f4702e94e4bdc]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/12)
+[^c-618cb12c154f2f97e07f4702e94e4bdc]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/12)

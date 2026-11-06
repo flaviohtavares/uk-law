@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 132. Energy administrator’s solicitor[^key-5c0c79c17f107436510675c0a6702030]
+## 132. Energy administrator’s solicitor[^c-5c0c79c17f107436510675c0a6702030]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where in energy administration proceedings the attendance of the energy administ
 
 ## Annotations
 
-[^key-5c0c79c17f107436510675c0a6702030]: Commencement: Rule 132 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-5c0c79c17f107436510675c0a6702030]: Commencement: Rule 132 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

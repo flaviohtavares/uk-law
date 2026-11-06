@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276. Provision of information at specified intervals[^key-98e927e49af30a06f30cd4b18ef14ab3][^key-f035c6aa3988b0215efba30f94d03ce6]
+## 276. Provision of information at specified intervals[^c-98e927e49af30a06f30cd4b18ef14ab3][^c-f035c6aa3988b0215efba30f94d03ce6]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-98e927e49af30a06f30cd4b18ef14ab3]: Commencement: S. 276 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-98e927e49af30a06f30cd4b18ef14ab3]: Commencement: S. 276 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-f035c6aa3988b0215efba30f94d03ce6]: Commencement: [S. 276](https://www.legislation.gov.uk/ukpga/2023/52/section/276) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/iv)
+[^c-f035c6aa3988b0215efba30f94d03ce6]: Commencement: [S. 276](https://www.legislation.gov.uk/ukpga/2023/52/section/276) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/iv)

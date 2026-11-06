@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 90. Reservation of right to burial in land added to churchyard[^key-0a2d1d0ad90f2c1b480e754fc1db13b0]
+## 90. Reservation of right to burial in land added to churchyard[^c-0a2d1d0ad90f2c1b480e754fc1db13b0]
 
 *Extent: E*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a2d1d0ad90f2c1b480e754fc1db13b0]: Commencement: [S. 90](https://www.legislation.gov.uk/ukcm/2018/3/section/90) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-0a2d1d0ad90f2c1b480e754fc1db13b0]: Commencement: [S. 90](https://www.legislation.gov.uk/ukcm/2018/3/section/90) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

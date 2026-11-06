@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 26A — Variable monetary penalties (England)[^key-924745dfce73c51dd15d7d107e200602]
+## SCHEDULE 26A — Variable monetary penalties (England)[^c-924745dfce73c51dd15d7d107e200602]
 
 *Extent: E+W*
 
@@ -250,4 +250,4 @@ On an appeal against a decision by the Agency to impose a variable monetary pena
 
 ## Annotations
 
-[^key-924745dfce73c51dd15d7d107e200602]: Textual amendment: [Sch. 26A](https://www.legislation.gov.uk/uksi/2016/1154/schedule/26A) inserted (E.) (1.12.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) (No. 2) Regulations 2023 (S.I. 2023/1046)](https://www.legislation.gov.uk/uksi/2023/1046), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1046/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/1046/schedule)
+[^c-924745dfce73c51dd15d7d107e200602]: Textual amendment: [Sch. 26A](https://www.legislation.gov.uk/uksi/2016/1154/schedule/26A) inserted (E.) (1.12.2023) by [The Environmental Permitting (England and Wales) (Amendment) (England) (No. 2) Regulations 2023 (S.I. 2023/1046)](https://www.legislation.gov.uk/uksi/2023/1046), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1046/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/1046/schedule)

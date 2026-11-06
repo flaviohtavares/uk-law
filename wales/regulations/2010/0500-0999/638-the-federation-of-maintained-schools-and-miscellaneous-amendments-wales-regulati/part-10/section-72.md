@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Restrictions on persons taking part in proceedings[^key-d2a7c75cecbac1f834b452bbc9c45082]
+## 72. Restrictions on persons taking part in proceedings[^c-d2a7c75cecbac1f834b452bbc9c45082]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2a7c75cecbac1f834b452bbc9c45082]: Textual amendment: [Pts. 1-13](https://www.legislation.gov.uk/wsi/2010/638/part/1) revoked (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/1) (with [reg. 2(3)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/3))
+[^c-d2a7c75cecbac1f834b452bbc9c45082]: Textual amendment: [Pts. 1-13](https://www.legislation.gov.uk/wsi/2010/638/part/1) revoked (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/1) (with [reg. 2(3)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/3))

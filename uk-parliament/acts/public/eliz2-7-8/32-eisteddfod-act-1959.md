@@ -31,22 +31,22 @@ Eisteddfod Act 1959 (repealed)
 
 1959 c.32
 
-[^key-3ec253d5298a4647cd70874c7ee8e239]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ec253d5298a4647cd70874c7ee8e239]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[30th April 1959\]
 
 **No longer in force.**
 
-## 1. Extension of power to contribute towards expenses of Eisteddfod.[^key-3ec253d5298a4647cd70874c7ee8e239][^key-3ec253d5298a4647cd70874c7ee8e239]
+## 1. Extension of power to contribute towards expenses of Eisteddfod.[^c-3ec253d5298a4647cd70874c7ee8e239][^c-3ec253d5298a4647cd70874c7ee8e239]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-3ec253d5298a4647cd70874c7ee8e239][^key-3ec253d5298a4647cd70874c7ee8e239]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-3ec253d5298a4647cd70874c7ee8e239][^c-3ec253d5298a4647cd70874c7ee8e239]
 
-## 3. Short title.[^key-3ec253d5298a4647cd70874c7ee8e239][^key-3ec253d5298a4647cd70874c7ee8e239]
+## 3. Short title.[^c-3ec253d5298a4647cd70874c7ee8e239][^c-3ec253d5298a4647cd70874c7ee8e239]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3ec253d5298a4647cd70874c7ee8e239]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-3ec253d5298a4647cd70874c7ee8e239]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

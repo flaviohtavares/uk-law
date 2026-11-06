@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Time for hearing affiliation summons[^key-71d658a172a817038b945302b6a409a9]
+## 35. Time for hearing affiliation summons[^c-71d658a172a817038b945302b6a409a9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71d658a172a817038b945302b6a409a9]: Textual amendment: [Rule 35](https://www.legislation.gov.uk/uksi/1981/552/rule/35) omitted (1.4.1989) by virtue of [The Magistrates' Courts (Family Law Reform Act 1987) (Miscellaneous Amendments) Rules 1989 (S.I. 1989/384)](https://www.legislation.gov.uk/uksi/1989/384), [rule 1](https://www.legislation.gov.uk/uksi/1989/384/rule/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/1989/384/schedule/paragraph/15)
+[^c-71d658a172a817038b945302b6a409a9]: Textual amendment: [Rule 35](https://www.legislation.gov.uk/uksi/1981/552/rule/35) omitted (1.4.1989) by virtue of [The Magistrates' Courts (Family Law Reform Act 1987) (Miscellaneous Amendments) Rules 1989 (S.I. 1989/384)](https://www.legislation.gov.uk/uksi/1989/384), [rule 1](https://www.legislation.gov.uk/uksi/1989/384/rule/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/1989/384/schedule/paragraph/15)

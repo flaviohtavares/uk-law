@@ -32,7 +32,7 @@ summary: ''
 
 LOCAL GOVERNMENT, ENGLAND
 
-The Local Government (Assistants for Political Groups) (Remuneration) (England) Order 2006 (revoked)[^key-6682d8e7411152df1d373866e6975d3c]
+The Local Government (Assistants for Political Groups) (Remuneration) (England) Order 2006 (revoked)[^c-6682d8e7411152df1d373866e6975d3c]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 4th July 2006
 
-[^key-6682d8e7411152df1d373866e6975d3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6682d8e7411152df1d373866e6975d3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-6682d8e7411152df1d373866e6975d3c]
+## 1. Citation, commencement and application[^c-6682d8e7411152df1d373866e6975d3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Specified maximum amount[^key-6682d8e7411152df1d373866e6975d3c]
+## 2. Specified maximum amount[^c-6682d8e7411152df1d373866e6975d3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-6682d8e7411152df1d373866e6975d3c]
+## 3. Revocation[^c-6682d8e7411152df1d373866e6975d3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6682d8e7411152df1d373866e6975d3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6682d8e7411152df1d373866e6975d3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6682d8e7411152df1d373866e6975d3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6682d8e7411152df1d373866e6975d3c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6682d8e7411152df1d373866e6975d3c]: Textual amendment: Order revoked (6.12.2021) by [The Local Government (Assistants for Political Groups) (Remuneration) (England) Order 2021 (S.I. 2021/1122)](https://www.legislation.gov.uk/uksi/2021/1122), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1122/article/1/1), [4](https://www.legislation.gov.uk/uksi/2021/1122/article/4)
+[^c-6682d8e7411152df1d373866e6975d3c]: Textual amendment: Order revoked (6.12.2021) by [The Local Government (Assistants for Political Groups) (Remuneration) (England) Order 2021 (S.I. 2021/1122)](https://www.legislation.gov.uk/uksi/2021/1122), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1122/article/1/1), [4](https://www.legislation.gov.uk/uksi/2021/1122/article/4)

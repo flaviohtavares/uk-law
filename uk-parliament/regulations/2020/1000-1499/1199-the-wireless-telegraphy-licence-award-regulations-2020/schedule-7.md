@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Frequency bands for existing spectrum holdings[^key-5dece185fae74cbd690c1ef8fc57ed0c]
+## SCHEDULE 7 — Frequency bands for existing spectrum holdings[^c-5dece185fae74cbd690c1ef8fc57ed0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ Regulation 5
 
 ## Annotations
 
-[^key-5dece185fae74cbd690c1ef8fc57ed0c]: Commencement: Sch. 7 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-5dece185fae74cbd690c1ef8fc57ed0c]: Commencement: Sch. 7 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

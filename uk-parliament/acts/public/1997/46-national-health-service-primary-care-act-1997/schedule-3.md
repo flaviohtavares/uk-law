@@ -33,11 +33,11 @@ Section 41(12).
 |  |  | Section 36(1)(c). |
 |  |  | In section 97A(9)(c)(i), the words “subsections (1) to (3) of”. |
 |  |  | In Schedule 10, in paragraph 1(1) and (3) the words “, or any part of the goodwill,” paragraph 1(8) and in paragraph 2(2) the words “between medical practitioners” and “, or part of the goodwill,”. |
-| 1978 c. 29. | The National Health Service (Scotland) Act 1978. | [^key-d1abbd0d6413c7a7ecde49533938b2da]. . . |
+| 1978 c. 29. | The National Health Service (Scotland) Act 1978. | [^c-d1abbd0d6413c7a7ecde49533938b2da]. . . |
 |  |  | In section 19(2), paragraphs (b) and (c). |
-|  |  | [^key-0eb6195d591f92babee03b736fb2e946]. . . |
+|  |  | [^c-0eb6195d591f92babee03b736fb2e946]. . . |
 |  |  | In section 23, subsections (1), (2) to (6) and (8). |
-|  |  | [^key-13b5d3d37fadc99c942e256b7d0f2604]. . . |
+|  |  | [^c-13b5d3d37fadc99c942e256b7d0f2604]. . . |
 |  |  | Section 25(2)(c). |
 |  |  | In Schedule 9, in paragraph 1(1) and (3), the words “, or any part of the goodwill,”, paragraph 1(8) and in paragraph 2(2) the words “between medical practitioners” and “, or part of the goodwill,”. |
 | 1980 c. 53. | The Health Services Act 1980. | In Schedule 1, paragraph 43. |
@@ -69,8 +69,8 @@ Section 41(12).
 
 [^c12087911]: Commencement: Sch. 3 Pt. I partly in force; Sch. 3 Pt. I not in force at Royal Assent see s. 41; Sch. 3 Pt. I in force for specified purposes at 1.4.1998 by [S.I. 1998/631](https://www.legislation.gov.uk/uksi/1998/631), [art. 2(a)](https://www.legislation.gov.uk/uksi/1998/631/article/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/631/schedule/1); Sch. 3 Pt. I in force at 1.10.1998 for further certain purposes by [S.I. 1998/1998](https://www.legislation.gov.uk/uksi/1998/1998), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/1998/1998/article/2/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1998/schedule/1); Sch. 3 Pt. I in force for further certain purposes at 10.12.1998 by [S.I. 1998/2840](https://www.legislation.gov.uk/uksi/1998/2840), [art. 2](https://www.legislation.gov.uk/uksi/1998/2840/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/2840/schedule)
 
-[^key-d1abbd0d6413c7a7ecde49533938b2da]: Textual amendment: Words in Sch. 3 repealed (S.) (1.4.2004) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [s. 21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [sch. 4 para. 14(d)(i)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/14/d/i); [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
+[^c-d1abbd0d6413c7a7ecde49533938b2da]: Textual amendment: Words in Sch. 3 repealed (S.) (1.4.2004) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [s. 21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [sch. 4 para. 14(d)(i)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/14/d/i); [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
 
-[^key-0eb6195d591f92babee03b736fb2e946]: Textual amendment: Words in Sch. 3 repealed (S.) (1.4.2004) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [s. 21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [sch. 4 para. 14(d)(ii)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/14/d/ii); [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
+[^c-0eb6195d591f92babee03b736fb2e946]: Textual amendment: Words in Sch. 3 repealed (S.) (1.4.2004) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [s. 21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [sch. 4 para. 14(d)(ii)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/14/d/ii); [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
 
-[^key-13b5d3d37fadc99c942e256b7d0f2604]: Textual amendment: Words in Sch. 3 repealed (S.) (1.4.2004) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [s. 21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [sch. 4 para. 14(d)(iii)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/14/d/iii); [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)
+[^c-13b5d3d37fadc99c942e256b7d0f2604]: Textual amendment: Words in Sch. 3 repealed (S.) (1.4.2004) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [s. 21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [sch. 4 para. 14(d)(iii)](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/14/d/iii); [S.S.I. 2004/148](https://www.legislation.gov.uk/ssi/2004/148), [art. 2(c)](https://www.legislation.gov.uk/ssi/2004/148/article/2/c)

@@ -30,7 +30,7 @@ summary: ''
 - (a) the person has ceased to own the asset representing that expenditure, or
 - (b) that asset has been demolished or destroyed.
 
-(3) And this section does not apply if the rebate falls to be brought into account for the purpose of making allowances and charges under Part 2 [^key-3859de7b9f889a73c476fd63825f9e95]... (plant and machinery allowances [^key-3859de7b9f889a73c476fd63825f9e95]...).
+(3) And this section does not apply if the rebate falls to be brought into account for the purpose of making allowances and charges under Part 2 [^c-3859de7b9f889a73c476fd63825f9e95]... (plant and machinery allowances [^c-3859de7b9f889a73c476fd63825f9e95]...).
 
 (4) The person must bring the amount of the rebate into account—
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3859de7b9f889a73c476fd63825f9e95]: Textual amendment: Words in s. 448(3) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 7](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/7)
+[^c-3859de7b9f889a73c476fd63825f9e95]: Textual amendment: Words in s. 448(3) omitted (with effect in accordance with Sch. 27 para. 30(1) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 27 para. 7](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27/paragraph/7)

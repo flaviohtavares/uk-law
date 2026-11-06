@@ -34,8 +34,8 @@ is dealt with under Part 3.
 
 is dealt with under Part 4.
 
-(3)[^key-f1712faec35f9be3e63864d756533477] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f1712faec35f9be3e63864d756533477] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f1712faec35f9be3e63864d756533477]: Textual amendment: S. 931W(3) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 184](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/184)
+[^c-f1712faec35f9be3e63864d756533477]: Textual amendment: S. 931W(3) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 184](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/184)

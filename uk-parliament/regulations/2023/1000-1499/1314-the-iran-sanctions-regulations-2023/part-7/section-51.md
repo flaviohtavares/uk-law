@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Specification of ships[^key-4e9163ec85008e44ec1d4ce9028daee2]
+## 51. Specification of ships[^c-4e9163ec85008e44ec1d4ce9028daee2]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State may specify ships within the meaning of section 7 of the Act for for any of the following purposes[^key-65e097fac30d2d0b009bb10204979c9c]—
+(1) The Secretary of State may specify ships within the meaning of section 7 of the Act for for any of the following purposes[^c-65e097fac30d2d0b009bb10204979c9c]—
 
-- (za)[^key-e004104194f28b713f7aa65c531c5e36] regulation 43C (provision of services relating to specified ships);
+- (za)[^c-e004104194f28b713f7aa65c531c5e36] regulation 43C (provision of services relating to specified ships);
 - (zb) regulation 43D (procurement of services relating to specified ships);
 - (zc) regulation 45A (prohibition on chartering or operating specified ships);
 - (a) regulation 46 (prohibition on port entry),
@@ -37,12 +37,12 @@ summary: ''
 
 (4) For the purposes of this regulation a ship is “involved in a relevant activity” if the ship is used for any activity whose object or effect is—
 
-- (a)[^key-c955b5ee49911632eebc86f65c0c0317] to contravene or circumvent, or to enable or facilitate the contravention or circumvention of, any provision of these Regulations;
-- (b)[^key-92e37f846d34926f8f16d49173e18e27] the commission of a serious human rights violation or abuse in Iran;
+- (a)[^c-c955b5ee49911632eebc86f65c0c0317] to contravene or circumvent, or to enable or facilitate the contravention or circumvention of, any provision of these Regulations;
+- (b)[^c-92e37f846d34926f8f16d49173e18e27] the commission of a serious human rights violation or abuse in Iran;
 - (c) hostile activity by the Government of Iran;
 - (d) hostile activity by an armed group backed by the Government of Iran.
 
-(5)[^key-11160d284a3b1d5875e195854c61702d] For the purposes of paragraph (4), “**hostile activity**” includes carrying—
+(5)[^c-11160d284a3b1d5875e195854c61702d] For the purposes of paragraph (4), “**hostile activity**” includes carrying—
 
 - (a) restricted goods or restricted technology—
   - (i) from a place in Iran to a third country,
@@ -86,14 +86,14 @@ summary: ''
 
 ## Annotations
 
-[^key-4e9163ec85008e44ec1d4ce9028daee2]: Commencement: Reg. 51 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-4e9163ec85008e44ec1d4ce9028daee2]: Commencement: Reg. 51 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-65e097fac30d2d0b009bb10204979c9c]: Textual amendment: Words in [reg. 51(1)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/51/1) substituted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [21(a)(i)](https://www.legislation.gov.uk/uksi/2026/983/regulation/21/a/i)
+[^c-65e097fac30d2d0b009bb10204979c9c]: Textual amendment: Words in [reg. 51(1)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/51/1) substituted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [21(a)(i)](https://www.legislation.gov.uk/uksi/2026/983/regulation/21/a/i)
 
-[^key-e004104194f28b713f7aa65c531c5e36]: Textual amendment: [Reg. 51(1)(za)-(zc)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/51/1/za) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [21(a)(ii)](https://www.legislation.gov.uk/uksi/2026/983/regulation/21/a/ii)
+[^c-e004104194f28b713f7aa65c531c5e36]: Textual amendment: [Reg. 51(1)(za)-(zc)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/51/1/za) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [21(a)(ii)](https://www.legislation.gov.uk/uksi/2026/983/regulation/21/a/ii)
 
-[^key-c955b5ee49911632eebc86f65c0c0317]: Textual amendment: Words in [reg. 51(4)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/51/4/a) renumbered as reg. 51(4)(a) (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [21(b)(i)](https://www.legislation.gov.uk/uksi/2026/983/regulation/21/b/i)
+[^c-c955b5ee49911632eebc86f65c0c0317]: Textual amendment: Words in [reg. 51(4)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/51/4/a) renumbered as reg. 51(4)(a) (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [21(b)(i)](https://www.legislation.gov.uk/uksi/2026/983/regulation/21/b/i)
 
-[^key-92e37f846d34926f8f16d49173e18e27]: Textual amendment: [Reg. 51(4)(b)-(d)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/51/4/b) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [21(b)(ii)](https://www.legislation.gov.uk/uksi/2026/983/regulation/21/b/ii)
+[^c-92e37f846d34926f8f16d49173e18e27]: Textual amendment: [Reg. 51(4)(b)-(d)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/51/4/b) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [21(b)(ii)](https://www.legislation.gov.uk/uksi/2026/983/regulation/21/b/ii)
 
-[^key-11160d284a3b1d5875e195854c61702d]: Textual amendment: [Reg. 51(5)-(7)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/51/5) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [21(c)](https://www.legislation.gov.uk/uksi/2026/983/regulation/21/c)
+[^c-11160d284a3b1d5875e195854c61702d]: Textual amendment: [Reg. 51(5)-(7)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/51/5) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [21(c)](https://www.legislation.gov.uk/uksi/2026/983/regulation/21/c)

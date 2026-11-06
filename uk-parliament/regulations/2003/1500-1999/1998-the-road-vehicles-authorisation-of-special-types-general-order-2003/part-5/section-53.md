@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Operational military vehicles[^key-69e0b5387b5e102a1a24443e66830b5e]
+## 53. Operational military vehicles[^c-69e0b5387b5e102a1a24443e66830b5e]
 
 *Extent: E+W+S*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-69e0b5387b5e102a1a24443e66830b5e]: Commencement: Art. 53 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-69e0b5387b5e102a1a24443e66830b5e]: Commencement: Art. 53 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
 [^f00022]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).

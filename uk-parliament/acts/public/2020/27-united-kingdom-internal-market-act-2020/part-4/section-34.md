@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Advising etc on proposed regulatory provisions on request[^key-d2713eedea1b931b19174a238956f5da]
+## 34. Advising etc on proposed regulatory provisions on request[^c-d2713eedea1b931b19174a238956f5da]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ that a regulatory provision applying to the relevant part of the United Kingdom 
 
 ## Annotations
 
-[^key-d2713eedea1b931b19174a238956f5da]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2020/27/section/34) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/d)
+[^c-d2713eedea1b931b19174a238956f5da]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2020/27/section/34) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Home Local Health Board[^key-6ca406be02d2f1cbc3dd22d38c49f556]
+## 60. Home Local Health Board[^c-6ca406be02d2f1cbc3dd22d38c49f556]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ca406be02d2f1cbc3dd22d38c49f556]: Commencement: Reg. 60 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
+[^c-6ca406be02d2f1cbc3dd22d38c49f556]: Commencement: Reg. 60 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)

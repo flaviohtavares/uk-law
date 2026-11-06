@@ -37,11 +37,11 @@ A Measure passed by the General Synod of the Church of England to make provision
 
 (1) The Church Commissioners may pay out of their general fund such annual sums as they think expedient to augment the stipend of the Bishop of Sodor and Man and as a contribution towards the expenses incurred by him in connection with the performance of the duties attaching to his office.
 
-(2)[^key-32a2332a03baec87f13ed785b9a43cfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-32a2332a03baec87f13ed785b9a43cfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This section shall extend to the Isle of Man.
 
-## 2. Amendment of provisions as to pensions of Church Estates Commissionersand their widows.[^key-6162b634250d6920928ef1474766c3e4]
+## 2. Amendment of provisions as to pensions of Church Estates Commissionersand their widows.[^c-6162b634250d6920928ef1474766c3e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -51,6 +51,6 @@ This Measure may be cited as the Church Commissioners (Miscellaneous Provisions)
 
 ## Annotations
 
-[^key-32a2332a03baec87f13ed785b9a43cfd]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukcm/1975/1/section/1/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
+[^c-32a2332a03baec87f13ed785b9a43cfd]: Textual amendment: [S. 1(2)](https://www.legislation.gov.uk/ukcm/1975/1/section/1/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(1)
 
-[^key-6162b634250d6920928ef1474766c3e4]: Textual amendment: S. 2 repealed (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2005/3/schedule/5); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops
+[^c-6162b634250d6920928ef1474766c3e4]: Textual amendment: S. 2 repealed (1.6.2005) by [Church of England (Miscellaneous Provisions) Measure 2005 (No. 3)](https://www.legislation.gov.uk/ukcm/2005/3), [s. 11(2)](https://www.legislation.gov.uk/ukcm/2005/3/section/11/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2005/3/schedule/5); [S.I. 2005/2](https://www.legislation.gov.uk/ukci/2005/2), Instrument made by Archbishops

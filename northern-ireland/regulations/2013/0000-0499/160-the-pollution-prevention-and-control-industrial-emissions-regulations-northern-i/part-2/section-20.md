@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Transfer of permits[^key-1b9d5119594543db1dcca6597605a390]
+## 20. Transfer of permits[^c-1b9d5119594543db1dcca6597605a390]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ and the transfer shall take effect from such date as may be agreed with the appl
 
 ## Annotations
 
-[^key-1b9d5119594543db1dcca6597605a390]: Commencement: Reg. 20 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-1b9d5119594543db1dcca6597605a390]: Commencement: Reg. 20 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Power to lend money[^key-b2d1a5bffe2702427aa901bf2acfe076]
+## 47. Power to lend money[^c-b2d1a5bffe2702427aa901bf2acfe076]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2d1a5bffe2702427aa901bf2acfe076]: Commencement: Art. 47 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-b2d1a5bffe2702427aa901bf2acfe076]: Commencement: Art. 47 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.40. Representations in response[^key-83c3cd8a8f8068c349caedf745b9b0e4]
+## 47.40. Representations in response[^c-83c3cd8a8f8068c349caedf745b9b0e4]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83c3cd8a8f8068c349caedf745b9b0e4]: Commencement: Rule 47.40 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-83c3cd8a8f8068c349caedf745b9b0e4]: Commencement: Rule 47.40 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

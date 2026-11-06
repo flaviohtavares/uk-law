@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Suspension of disqualification, forfeiture etc.[^key-a832885001ac14698d5fdadcb42f44b9]
+## 193. Suspension of disqualification, forfeiture etc.[^c-a832885001ac14698d5fdadcb42f44b9]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ pending the determination of any appeal against conviction or sentence (or dispo
 
 ## Annotations
 
-[^key-a832885001ac14698d5fdadcb42f44b9]: Modification: S. 193 excluded (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [ss. 11(9)](https://www.legislation.gov.uk/asp/2011/16/section/11/9), [17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2011/16/section/14)); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)
+[^c-a832885001ac14698d5fdadcb42f44b9]: Modification: S. 193 excluded (28.11.2011) by [Double Jeopardy (Scotland) Act 2011 (asp 16)](https://www.legislation.gov.uk/asp/2011/16), [ss. 11(9)](https://www.legislation.gov.uk/asp/2011/16/section/11/9), [17(3)](https://www.legislation.gov.uk/asp/2011/16/section/17/3) (with [s. 14](https://www.legislation.gov.uk/asp/2011/16/section/14)); [S.S.I. 2011/365](https://www.legislation.gov.uk/ssi/2011/365), [art. 3](https://www.legislation.gov.uk/ssi/2011/365/article/3)

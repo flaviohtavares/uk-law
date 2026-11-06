@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Service in 2 or more qualifying judicial offices[^key-187b7653a020ef6c2255825bee4b9d98]
+## 15. Service in 2 or more qualifying judicial offices[^c-187b7653a020ef6c2255825bee4b9d98]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If a person is in service in 2 or more qualifying judicial offices, regulation 1
 
 ## Annotations
 
-[^key-187b7653a020ef6c2255825bee4b9d98]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/182/regulation/15) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-187b7653a020ef6c2255825bee4b9d98]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/182/regulation/15) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8.2. Issue and use of forms[^key-152a76f75c6266fabb7bd5e62c680645]
+## 8.2. Issue and use of forms[^c-152a76f75c6266fabb7bd5e62c680645]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-152a76f75c6266fabb7bd5e62c680645]: Commencement: [Rule 8.2](https://www.legislation.gov.uk/uksi/1986/1925/rule/8.2) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-152a76f75c6266fabb7bd5e62c680645]: Commencement: [Rule 8.2](https://www.legislation.gov.uk/uksi/1986/1925/rule/8.2) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56I. Appointment by YPLA of members of sixth form college governing body[^key-c8dcf3d836860828be852d78617e88d5]
+## 56I. Appointment by YPLA of members of sixth form college governing body[^c-c8dcf3d836860828be852d78617e88d5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8dcf3d836860828be852d78617e88d5]: Textual amendment: S. 56I repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 34](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/34); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-c8dcf3d836860828be852d78617e88d5]: Textual amendment: S. 56I repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 12 para. 34](https://www.legislation.gov.uk/ukpga/2011/21/schedule/12/paragraph/34); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

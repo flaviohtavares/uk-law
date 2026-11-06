@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 247. Crown application[^key-35e46e2c2d032264e3e7ec0b06380a2a]
+## 247. Crown application[^c-35e46e2c2d032264e3e7ec0b06380a2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35e46e2c2d032264e3e7ec0b06380a2a]: Commencement: S. 247 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-35e46e2c2d032264e3e7ec0b06380a2a]: Commencement: S. 247 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)

@@ -88,13 +88,13 @@ The Secretary of State makes the following Regulations in exercise of powers con
 
 ## 3. Amendments to the Police Federation Regulations 1969
 
-(1 (Extent: E+W) (affected by repeal, see note))[^key-5a0ad13460ed03ca7bb12e4b7c34bde2] The Police Federation Regulations 1969 *(Extent: E+W)* *(affected by repeal, see note)*[^key-5a0ad13460ed03ca7bb12e4b7c34bde2] [^c21138361] are amended as follows. *(Extent: E+W)* *(affected by repeal, see note)*[^key-5a0ad13460ed03ca7bb12e4b7c34bde2]
+(1 (Extent: E+W) (affected by repeal, see note))[^c-5a0ad13460ed03ca7bb12e4b7c34bde2] The Police Federation Regulations 1969 *(Extent: E+W)* *(affected by repeal, see note)*[^c-5a0ad13460ed03ca7bb12e4b7c34bde2] [^c21138361] are amended as follows. *(Extent: E+W)* *(affected by repeal, see note)*[^c-5a0ad13460ed03ca7bb12e4b7c34bde2]
 
-(2 (Extent: E+W) (affected by repeal, see note))[^key-5a0ad13460ed03ca7bb12e4b7c34bde2] In regulation 5(3) (proceedings of branches), for “members of the police authority” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^key-5a0ad13460ed03ca7bb12e4b7c34bde2] “ the local policing body or, where the local policing body is the Common Council of the City of London, members of the Common Council ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-5a0ad13460ed03ca7bb12e4b7c34bde2]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-5a0ad13460ed03ca7bb12e4b7c34bde2]
+(2 (Extent: E+W) (affected by repeal, see note))[^c-5a0ad13460ed03ca7bb12e4b7c34bde2] In regulation 5(3) (proceedings of branches), for “members of the police authority” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^c-5a0ad13460ed03ca7bb12e4b7c34bde2] “ the local policing body or, where the local policing body is the Common Council of the City of London, members of the Common Council ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-5a0ad13460ed03ca7bb12e4b7c34bde2]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-5a0ad13460ed03ca7bb12e4b7c34bde2]
 
-(3 (Extent: E+W) (affected by repeal, see note))[^key-5a0ad13460ed03ca7bb12e4b7c34bde2] In regulations 5(4), 7(4) (proceedings of branch boards) and 15B(3) (emoluments *(Extent: E+W)* *(affected by repeal, see note)*[^key-5a0ad13460ed03ca7bb12e4b7c34bde2] etc *(Extent: E+W)* *(affected by repeal, see note)*[^key-5a0ad13460ed03ca7bb12e4b7c34bde2] of officers of Federation) and paragraph 5 of Schedule 2 (proceedings) for “police authority” substitute (in each) “local policing body”. *(Extent: E+W)* *(affected by repeal, see note)*[^key-5a0ad13460ed03ca7bb12e4b7c34bde2]
+(3 (Extent: E+W) (affected by repeal, see note))[^c-5a0ad13460ed03ca7bb12e4b7c34bde2] In regulations 5(4), 7(4) (proceedings of branch boards) and 15B(3) (emoluments *(Extent: E+W)* *(affected by repeal, see note)*[^c-5a0ad13460ed03ca7bb12e4b7c34bde2] etc *(Extent: E+W)* *(affected by repeal, see note)*[^c-5a0ad13460ed03ca7bb12e4b7c34bde2] of officers of Federation) and paragraph 5 of Schedule 2 (proceedings) for “police authority” substitute (in each) “local policing body”. *(Extent: E+W)* *(affected by repeal, see note)*[^c-5a0ad13460ed03ca7bb12e4b7c34bde2]
 
-(4 (Extent: E+W) (affected by repeal, see note))[^key-5a0ad13460ed03ca7bb12e4b7c34bde2] In regulation 15B(1), for “police authorities” substitute (in each place) “local policing bodies”. *(Extent: E+W)* *(affected by repeal, see note)*[^key-5a0ad13460ed03ca7bb12e4b7c34bde2]
+(4 (Extent: E+W) (affected by repeal, see note))[^c-5a0ad13460ed03ca7bb12e4b7c34bde2] In regulation 15B(1), for “police authorities” substitute (in each place) “local policing bodies”. *(Extent: E+W)* *(affected by repeal, see note)*[^c-5a0ad13460ed03ca7bb12e4b7c34bde2]
 
 ## 4. Amendments to the Motor Vehicles (Third Party Risks) Regulations 1972
 
@@ -266,11 +266,11 @@ The Secretary of State makes the following Regulations in exercise of powers con
 
 (2) In Form 1 in Schedule 1 (special extinguishment order), for “The police authority . . . . . . . . \[name of authority\]” substitute “ The local policing body . . . . . . . . \[name of body\] ”.
 
-## 20. Amendments to the Town and Country Planning (Local Development) (England) Regulations 2004[^key-664800c2a5b76e2660099aca1b5eb342]
+## 20. Amendments to the Town and Country Planning (Local Development) (England) Regulations 2004[^c-664800c2a5b76e2660099aca1b5eb342]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Amendments to the Public Contracts Regulations 2006[^key-f91d0be0c7f69da0b56da3a092510087]
+## 21. Amendments to the Public Contracts Regulations 2006[^c-f91d0be0c7f69da0b56da3a092510087]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -311,7 +311,7 @@ The Secretary of State makes the following Regulations in exercise of powers con
 
 (2) In regulation 10 (exemption of the Metropolitan Police Authority from procedural requirements), for “Metropolitan Police Authority” (in each place) substitute “ Mayor's Office for Policing and Crime ”.
 
-## 27. Amendment to the Accounts and Audit (England) Regulations 2011[^key-98e4b0b57dd84806225cebc1eb492e64]
+## 27. Amendment to the Accounts and Audit (England) Regulations 2011[^c-98e4b0b57dd84806225cebc1eb492e64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -382,7 +382,7 @@ The amendments made by these Regulations do not otherwise change the substantive
 
 [^c21138351]: Marginal citation: [S.I. 1965/536](https://www.legislation.gov.uk/uksi/1965/536), as amended by [S.I. 1992/1526](https://www.legislation.gov.uk/uksi/1992/1526) and [S.I. 2002/3180](https://www.legislation.gov.uk/uksi/2002/3180).
 
-[^key-5a0ad13460ed03ca7bb12e4b7c34bde2]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/3058/regulation/3) revoked (E.W.) (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))
+[^c-5a0ad13460ed03ca7bb12e4b7c34bde2]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/3058/regulation/3) revoked (E.W.) (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))
 
 [^c21138361]: Marginal citation: [S.I. 1969/1787](https://www.legislation.gov.uk/uksi/1969/1787) as amended by [S.I. 1986/1846](https://www.legislation.gov.uk/uksi/1986/1846), [S.I](https://www.legislation.gov.uk/uksi/1986/1846/section/I). 1990/1575, [S.I. 2004/2660](https://www.legislation.gov.uk/uksi/2004/2660) and [S.I. 2011/230](https://www.legislation.gov.uk/uksi/2011/230).
 
@@ -418,9 +418,9 @@ The amendments made by these Regulations do not otherwise change the substantive
 
 [^c21138521]: Marginal citation: [S.I. 2003/1479](https://www.legislation.gov.uk/uksi/2003/1479).
 
-[^key-664800c2a5b76e2660099aca1b5eb342]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2011/3058/regulation/20) revoked (6.4.2012) by [The Town and Country Planning (Local Planning) (England) Regulations 2012 (S.I. 2012/767)](https://www.legislation.gov.uk/uksi/2012/767), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/767/regulation/1/1), [37(f)](https://www.legislation.gov.uk/uksi/2012/767/regulation/37/f) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/767/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/767/regulation/2/3), [38](https://www.legislation.gov.uk/uksi/2012/767/regulation/38))
+[^c-664800c2a5b76e2660099aca1b5eb342]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2011/3058/regulation/20) revoked (6.4.2012) by [The Town and Country Planning (Local Planning) (England) Regulations 2012 (S.I. 2012/767)](https://www.legislation.gov.uk/uksi/2012/767), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/767/regulation/1/1), [37(f)](https://www.legislation.gov.uk/uksi/2012/767/regulation/37/f) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/767/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/767/regulation/2/3), [38](https://www.legislation.gov.uk/uksi/2012/767/regulation/38))
 
-[^key-f91d0be0c7f69da0b56da3a092510087]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2011/3058/regulation/21) revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
+[^c-f91d0be0c7f69da0b56da3a092510087]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2011/3058/regulation/21) revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
 
 [^c21138561]: Marginal citation: [S.I. 2007/722](https://www.legislation.gov.uk/uksi/2007/722).
 
@@ -432,7 +432,7 @@ The amendments made by these Regulations do not otherwise change the substantive
 
 [^c21138601]: Marginal citation: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214).
 
-[^key-98e4b0b57dd84806225cebc1eb492e64]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2011/3058/regulation/27) revoked (1.4.2015) by [The Accounts and Audit Regulations 2015 (S.I. 2015/234)](https://www.legislation.gov.uk/uksi/2015/234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/234/schedule/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/234/regulation/1/3), [22(2)](https://www.legislation.gov.uk/uksi/2015/234/regulation/22/2))
+[^c-98e4b0b57dd84806225cebc1eb492e64]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/2011/3058/regulation/27) revoked (1.4.2015) by [The Accounts and Audit Regulations 2015 (S.I. 2015/234)](https://www.legislation.gov.uk/uksi/2015/234), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/234/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/234/schedule/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/234/regulation/1/3), [22(2)](https://www.legislation.gov.uk/uksi/2015/234/regulation/22/2))
 
 [^c21138621]: Marginal citation: [1897 c. 30](https://www.legislation.gov.uk/ukpga/1897/30).
 

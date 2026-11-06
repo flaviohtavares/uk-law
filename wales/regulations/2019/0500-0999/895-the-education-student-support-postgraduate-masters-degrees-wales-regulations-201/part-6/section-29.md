@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Meaning of care leaver[^key-920d14f3b94dad7612ec92abcf3fdcd4]
+## 29. Meaning of care leaver[^c-920d14f3b94dad7612ec92abcf3fdcd4]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ An eligible student is a “care leaver” if the student—
 
 ## Annotations
 
-[^key-920d14f3b94dad7612ec92abcf3fdcd4]: Commencement: Reg. 29 in force at 27.5.2019, see reg. 1(2)
+[^c-920d14f3b94dad7612ec92abcf3fdcd4]: Commencement: Reg. 29 in force at 27.5.2019, see reg. 1(2)
 
 [^c23728151]: Marginal citation: [2014 anaw. 4](https://www.legislation.gov.uk/anaw/2014/4).
 

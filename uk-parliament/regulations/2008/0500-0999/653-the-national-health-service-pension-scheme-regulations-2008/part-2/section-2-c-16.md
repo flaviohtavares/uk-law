@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.C.16. Effect of part payment of periodical contributions[^key-1cea820dfdb8a84f975ae6bcdf8fa3b4]
+## 2.C.16. Effect of part payment of periodical contributions[^c-1cea820dfdb8a84f975ae6bcdf8fa3b4]
 
 *Extent: E+W*
 
@@ -36,10 +36,10 @@ summary: ''
 - (a) the proportion that the total contributions paid bears to the full amount of contributions due under an option under regulation 2.C.8 for the whole contribution option period, and
 - (b) the preservation requirements.
 
-(6)[^key-1e8528d3fbe0d11e02b1aaf4ace35fee] In the case of a 2008 Section Optant, this regulation is subject to regulation 2.K.4.
+(6)[^c-1e8528d3fbe0d11e02b1aaf4ace35fee] In the case of a 2008 Section Optant, this regulation is subject to regulation 2.K.4.
 
 ## Annotations
 
-[^key-1cea820dfdb8a84f975ae6bcdf8fa3b4]: Modification: [Reg. 2.C.16](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.16) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/b)
+[^c-1cea820dfdb8a84f975ae6bcdf8fa3b4]: Modification: [Reg. 2.C.16](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.16) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/b)
 
-[^key-1e8528d3fbe0d11e02b1aaf4ace35fee]: Textual amendment: [Reg. 2.C.16(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.16/6) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2009/2446/regulation/24)
+[^c-1e8528d3fbe0d11e02b1aaf4ace35fee]: Textual amendment: [Reg. 2.C.16(6)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.16/6) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2009/2446/regulation/24)

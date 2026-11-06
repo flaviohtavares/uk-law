@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Suspended sentence orders: breach or amendment; effect of further conviction[^key-d9886e3191c89934f6abfdd118d2d5e8]
+## SCHEDULE 7 — Suspended sentence orders: breach or amendment; effect of further conviction[^c-d9886e3191c89934f6abfdd118d2d5e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -130,7 +130,7 @@ Section 200(2)(b)
 
 ### Amendment of order
 
-**13.**[^key-f69f7c3247a8583ea93ffd74c410906e] Part 3 (amendment of order) has effect as if in paragraph 25 (amendment of community requirements of suspended sentence order), after sub-paragraph (8) there were inserted—
+**13.**[^c-f69f7c3247a8583ea93ffd74c410906e] Part 3 (amendment of order) has effect as if in paragraph 25 (amendment of community requirements of suspended sentence order), after sub-paragraph (8) there were inserted—
 
 > (8A) In a case where the order was made by the Service Civilian Court, a term of imprisonment or detention in a young offender institution or fine imposed under sub-paragraph (7)(b) must not exceed—
 >
@@ -149,6 +149,6 @@ Section 200(2)(b)
 
 ## Annotations
 
-[^key-d9886e3191c89934f6abfdd118d2d5e8]: Textual amendment: Sch. 7 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 26](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/26) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d9886e3191c89934f6abfdd118d2d5e8]: Textual amendment: Sch. 7 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 26](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/26) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-f69f7c3247a8583ea93ffd74c410906e]: Modification: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2006/52/schedule/7/paragraph/13) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3) (with [s. 5(9)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/9)); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-f69f7c3247a8583ea93ffd74c410906e]: Modification: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2006/52/schedule/7/paragraph/13) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3) (with [s. 5(9)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/9)); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)

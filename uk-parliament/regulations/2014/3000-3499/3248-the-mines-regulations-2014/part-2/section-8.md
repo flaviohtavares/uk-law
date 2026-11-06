@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Co-operation[^key-9a5148b92ca1639986767a5119f7580b]
+## 8. Co-operation[^c-9a5148b92ca1639986767a5119f7580b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Every employer of persons at work at a mine and every person at work at a mine m
 
 ## Annotations
 
-[^key-9a5148b92ca1639986767a5119f7580b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/3248/regulation/8) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-9a5148b92ca1639986767a5119f7580b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/3248/regulation/8) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

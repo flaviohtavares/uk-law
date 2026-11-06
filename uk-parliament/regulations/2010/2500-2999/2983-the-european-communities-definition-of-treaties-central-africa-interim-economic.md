@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Communities (Definition of Treaties) (Central Africa Interim Economic Partnership Agreement) Order 2010 (revoked)[^key-698be2e50fbd9ecd53aba97237732290]
+The European Communities (Definition of Treaties) (Central Africa Interim Economic Partnership Agreement) Order 2010 (revoked)[^c-698be2e50fbd9ecd53aba97237732290]
 
 Made
 
@@ -46,22 +46,22 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-698be2e50fbd9ecd53aba97237732290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-698be2e50fbd9ecd53aba97237732290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-698be2e50fbd9ecd53aba97237732290] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-698be2e50fbd9ecd53aba97237732290] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-698be2e50fbd9ecd53aba97237732290] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-698be2e50fbd9ecd53aba97237732290] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-698be2e50fbd9ecd53aba97237732290] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-698be2e50fbd9ecd53aba97237732290] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-698be2e50fbd9ecd53aba97237732290] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-698be2e50fbd9ecd53aba97237732290] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-698be2e50fbd9ecd53aba97237732290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-698be2e50fbd9ecd53aba97237732290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-698be2e50fbd9ecd53aba97237732290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-698be2e50fbd9ecd53aba97237732290]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-698be2e50fbd9ecd53aba97237732290]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2983) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-698be2e50fbd9ecd53aba97237732290]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/2983) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Amendments to the definitions of “overseas territories” and “specified British overseas territories”[^key-40653e159c9d55981ead8e33d5a9246c]
+## 88. Amendments to the definitions of “overseas territories” and “specified British overseas territories”[^c-40653e159c9d55981ead8e33d5a9246c]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In Part 1 of Schedule 1 (eligible students: interpretation)[^f00073], in paragra
 
 ## Annotations
 
-[^key-40653e159c9d55981ead8e33d5a9246c]: Commencement: Reg. 88 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-40653e159c9d55981ead8e33d5a9246c]: Commencement: Reg. 88 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00073]: Footnote: Definitions inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90A. Codes of practice: public service pension schemes[^key-d94d6c31babd7b6874e7525991978a42]
+## 90A. Codes of practice: public service pension schemes[^c-d94d6c31babd7b6874e7525991978a42]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ This is subject to section 13(3)(a) and (8) (power for improvement notice to dir
 
 ## Annotations
 
-[^key-d94d6c31babd7b6874e7525991978a42]: Textual amendment: S. 90A inserted (1.11.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/14) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/d)
+[^c-d94d6c31babd7b6874e7525991978a42]: Textual amendment: S. 90A inserted (1.11.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2013/25/schedule/4/paragraph/14) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/3/d)

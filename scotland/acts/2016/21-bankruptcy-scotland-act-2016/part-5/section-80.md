@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Property subject to restraint order[^key-63ef8ecff0cf360f101a382b8018f768]
+## 80. Property subject to restraint order[^c-63ef8ecff0cf360f101a382b8018f768]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63ef8ecff0cf360f101a382b8018f768]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2016/21/section/80) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-63ef8ecff0cf360f101a382b8018f768]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2016/21/section/80) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -365,7 +365,7 @@ In regulation 1(2) (interpretation) of the Pension Sharing (Pension Credit Benef
 
 ## PART 4 — Amendments coming into force on 6th April 2015
 
-### 17. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations 1987[^key-caf57225ead6acc1edc838650b6b7e3c]
+### 17. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations 1987[^c-caf57225ead6acc1edc838650b6b7e3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -373,7 +373,7 @@ In regulation 1(2) (interpretation) of the Pension Sharing (Pension Credit Benef
 
 Omit regulations 31 (deduction of minimum payments from earnings), 32 (minimum payments to be made by employers to trustees) and 33 (calculation of minimum payments) of the Occupational Pension Schemes (Contracting-out) Regulations 1996 [^c2086366].
 
-### 19. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations 1996[^key-8ba8a49cf6fa6318c4355b638e696796]
+### 19. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations 1996[^c-8ba8a49cf6fa6318c4355b638e696796]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -385,7 +385,7 @@ Omit regulations 31 (deduction of minimum payments from earnings), 32 (minimum p
 
 (3) In regulation 17(2) (restrictions on contributions), omit from the words “, minimum contributions” to the end.
 
-(4)[^key-bf103c6eda1032df08bbf32dd52fe77b] In Schedule 3 (information for members)—
+(4)[^c-bf103c6eda1032df08bbf32dd52fe77b] In Schedule 3 (information for members)—
 
 - (a) in paragraph 1 omit sub-paragraph (d), and
 - (b) in paragraph 2 omit sub-paragraphs (e), (f) and (g).
@@ -490,10 +490,10 @@ This legislation reduces the costs of administrative burdens on the private sect
 
 [^c2086362]: Marginal citation: Paragraph 8 is amended by regulation 8(4)(c) of this instrument and article 11(5)(c) of [S.I. 2011/1246](https://www.legislation.gov.uk/uksi/2011/1246).
 
-[^key-caf57225ead6acc1edc838650b6b7e3c]: Textual amendment: Reg. 17 omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 18(2)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/18/2)
+[^c-caf57225ead6acc1edc838650b6b7e3c]: Textual amendment: Reg. 17 omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 18(2)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/18/2)
 
 [^c2086366]: Marginal citation: [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172).
 
-[^key-8ba8a49cf6fa6318c4355b638e696796]: Textual amendment: Reg. 19 omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 18(2)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/18/2)
+[^c-8ba8a49cf6fa6318c4355b638e696796]: Textual amendment: Reg. 19 omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 18(2)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/18/2)
 
-[^key-bf103c6eda1032df08bbf32dd52fe77b]: Textual amendment: [Reg. 20(4)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/20/4) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 18(3)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/18/3)
+[^c-bf103c6eda1032df08bbf32dd52fe77b]: Textual amendment: [Reg. 20(4)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/20/4) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 18(3)](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/18/3)

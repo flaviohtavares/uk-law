@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Amendment of local legislation[^key-c5d85ac03783c39fd06596dd6475d2b2]
+## 46. Amendment of local legislation[^c-c5d85ac03783c39fd06596dd6475d2b2]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ action taken in pursuance of a power or duty under the provisions would or might
 
 ## Annotations
 
-[^key-c5d85ac03783c39fd06596dd6475d2b2]: Commencement: Art. 46 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-c5d85ac03783c39fd06596dd6475d2b2]: Commencement: Art. 46 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

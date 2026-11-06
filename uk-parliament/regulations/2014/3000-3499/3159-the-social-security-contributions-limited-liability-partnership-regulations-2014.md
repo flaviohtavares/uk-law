@@ -52,9 +52,9 @@ A draft of this instrument has been laid before each House of Parliament in acco
 
 (2) These Regulations come into force on the day after the day on which they are made, and have effect for the tax year 2014–15 and subsequent tax years.
 
-(2A)[^key-85b79f0e73a267b947d2bfd9e072d88d] Regulations 2A, 2B and 2C have effect for the tax year 2015-16 and subsequent tax years.
+(2A)[^c-85b79f0e73a267b947d2bfd9e072d88d] Regulations 2A, 2B and 2C have effect for the tax year 2015-16 and subsequent tax years.
 
-(3) Regulations 2B,[^key-f77366748fc1e48db5761e5f5c65a308] 3 and 6 extend only to England and Wales and to Scotland and regulations 2C,[^key-e5bea71e589f7e0c3baa7ae8e5f7c510] 4 and 7 extend only to Northern Ireland.
+(3) Regulations 2B,[^c-f77366748fc1e48db5761e5f5c65a308] 3 and 6 extend only to England and Wales and to Scotland and regulations 2C,[^c-e5bea71e589f7e0c3baa7ae8e5f7c510] 4 and 7 extend only to Northern Ireland.
 
 ## 2. Interpretation
 
@@ -66,7 +66,7 @@ In these Regulations—
 - “**SSCBA 1992**” means the Social Security Contributions and Benefits Act 1992; and
 - “**SSCB(NI)A 1992**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
 
-## 2A. Members of LLPs: employment[^key-4e026575a095baf5f9e70097819e2fbc]
+## 2A. Members of LLPs: employment[^c-4e026575a095baf5f9e70097819e2fbc]
 
 (1) The modification in paragraph (2) applies to—
 
@@ -233,15 +233,15 @@ A Tax Information and Impact Note covering this instrument was published on 5th 
 
 [^c2227917]: Marginal citation: [Section 172(11A)](https://www.legislation.gov.uk/uksi/2014/3159/section/172/11A) was inserted by paragraph 29(5) of Schedule 3 to [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671) and has been amended by sections 2(2)(a) of NICA 2006.
 
-[^key-85b79f0e73a267b947d2bfd9e072d88d]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/2014/3159/regulation/1/2A) inserted (6.4.2015) by [The Social Security Contributions (Limited Liability Partnership) (Amendment) Regulations 2015 (S.I. 2015/607)](https://www.legislation.gov.uk/uksi/2015/607), [regs. 1](https://www.legislation.gov.uk/uksi/2015/607/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/607/regulation/3/a)
+[^c-85b79f0e73a267b947d2bfd9e072d88d]: Textual amendment: [Reg. 1(2A)](https://www.legislation.gov.uk/uksi/2014/3159/regulation/1/2A) inserted (6.4.2015) by [The Social Security Contributions (Limited Liability Partnership) (Amendment) Regulations 2015 (S.I. 2015/607)](https://www.legislation.gov.uk/uksi/2015/607), [regs. 1](https://www.legislation.gov.uk/uksi/2015/607/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/607/regulation/3/a)
 
-[^key-f77366748fc1e48db5761e5f5c65a308]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3159/regulation/1/3) inserted (6.4.2015) by [The Social Security Contributions (Limited Liability Partnership) (Amendment) Regulations 2015 (S.I. 2015/607)](https://www.legislation.gov.uk/uksi/2015/607), [regs. 1](https://www.legislation.gov.uk/uksi/2015/607/regulation/1), [3(b)(i)](https://www.legislation.gov.uk/uksi/2015/607/regulation/3/b/i)
+[^c-f77366748fc1e48db5761e5f5c65a308]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3159/regulation/1/3) inserted (6.4.2015) by [The Social Security Contributions (Limited Liability Partnership) (Amendment) Regulations 2015 (S.I. 2015/607)](https://www.legislation.gov.uk/uksi/2015/607), [regs. 1](https://www.legislation.gov.uk/uksi/2015/607/regulation/1), [3(b)(i)](https://www.legislation.gov.uk/uksi/2015/607/regulation/3/b/i)
 
-[^key-e5bea71e589f7e0c3baa7ae8e5f7c510]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3159/regulation/1/3) inserted (6.4.2015) by [The Social Security Contributions (Limited Liability Partnership) (Amendment) Regulations 2015 (S.I. 2015/607)](https://www.legislation.gov.uk/uksi/2015/607), [regs. 1](https://www.legislation.gov.uk/uksi/2015/607/regulation/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/607/regulation/3/b/ii)
+[^c-e5bea71e589f7e0c3baa7ae8e5f7c510]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3159/regulation/1/3) inserted (6.4.2015) by [The Social Security Contributions (Limited Liability Partnership) (Amendment) Regulations 2015 (S.I. 2015/607)](https://www.legislation.gov.uk/uksi/2015/607), [regs. 1](https://www.legislation.gov.uk/uksi/2015/607/regulation/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2015/607/regulation/3/b/ii)
 
 [^c2227918]: Marginal citation: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). “ITEPA 2003” is defined in section 122 of SSCBA 1992 and section 121 of SSCB(NI)A 1992 as the Income Tax (Earnings and Pensions) Act 2003. Section 7 was amended by paragraphs 1 and 17 of Schedule 22 to the Finance Act 2003, paragraph 2 of Schedule 3 to the Finance Act 2007 and paragraphs 2 and 5 of Schedule 2 to the Finance Act 2011.
 
-[^key-4e026575a095baf5f9e70097819e2fbc]: Textual amendment: [Regs. 2A-2C](https://www.legislation.gov.uk/uksi/2014/3159/regulation/2A) inserted (6.4.2015) by [The Social Security Contributions (Limited Liability Partnership) (Amendment) Regulations 2015 (S.I. 2015/607)](https://www.legislation.gov.uk/uksi/2015/607), [regs. 1](https://www.legislation.gov.uk/uksi/2015/607/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/607/regulation/4)
+[^c-4e026575a095baf5f9e70097819e2fbc]: Textual amendment: [Regs. 2A-2C](https://www.legislation.gov.uk/uksi/2014/3159/regulation/2A) inserted (6.4.2015) by [The Social Security Contributions (Limited Liability Partnership) (Amendment) Regulations 2015 (S.I. 2015/607)](https://www.legislation.gov.uk/uksi/2015/607), [regs. 1](https://www.legislation.gov.uk/uksi/2015/607/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/607/regulation/4)
 
 [^c2227919]: Marginal citation: “secondary contributor” is defined in section 7 of SSCBA 1992.
 

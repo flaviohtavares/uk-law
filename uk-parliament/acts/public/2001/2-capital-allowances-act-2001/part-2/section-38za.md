@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38ZA. Vehicles for which deductions allowed at fixed rate under Part 2 of ITTOIA 2005[^key-1f2041f937728c01f30690436172b22e]
+## 38ZA. Vehicles for which deductions allowed at fixed rate under Part 2 of ITTOIA 2005[^c-1f2041f937728c01f30690436172b22e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Expenditure is not qualifying expenditure if—
 
 ## Annotations
 
-[^key-1f2041f937728c01f30690436172b22e]: Textual amendment: [S. 38ZA](https://www.legislation.gov.uk/ukpga/2001/2/section/38ZA) inserted (with effect in accordance with Sch. 5 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 5 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/5/paragraph/5/2)
+[^c-1f2041f937728c01f30690436172b22e]: Textual amendment: [S. 38ZA](https://www.legislation.gov.uk/ukpga/2001/2/section/38ZA) inserted (with effect in accordance with Sch. 5 para. 6 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 5 para. 5(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/5/paragraph/5/2)

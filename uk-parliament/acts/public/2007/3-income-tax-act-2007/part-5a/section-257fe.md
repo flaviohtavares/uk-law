@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257FE. Value received by the investor[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33][^key-a7b080df367c62e6e9d0bc764f4f236b]
+## 257FE. Value received by the investor[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33][^c-a7b080df367c62e6e9d0bc764f4f236b]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ Sections 257FJ to 257FL are to be applied in the order in which they appear in t
 
 ## Annotations
 
-[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
+[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
 
-[^key-a7b080df367c62e6e9d0bc764f4f236b]: Modification: [S. 257FE](https://www.legislation.gov.uk/ukpga/2007/3/section/2157FE) excluded (20.5.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2020/14/section/110/1)[(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/110/3)
+[^c-a7b080df367c62e6e9d0bc764f4f236b]: Modification: [S. 257FE](https://www.legislation.gov.uk/ukpga/2007/3/section/2157FE) excluded (20.5.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2020/14/section/110/1)[(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/110/3)

@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic And Vehicles
 
-The Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations (Northern Ireland) 2016 (revoked)[^key-392b6e9fbadb8f6fd92a24d0503c8720]
+The Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations (Northern Ireland) 2016 (revoked)[^c-392b6e9fbadb8f6fd92a24d0503c8720]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 1st March 2017
 
-[^key-392b6e9fbadb8f6fd92a24d0503c8720]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-392b6e9fbadb8f6fd92a24d0503c8720]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-392b6e9fbadb8f6fd92a24d0503c8720]
+## 1. Citation and commencement[^c-392b6e9fbadb8f6fd92a24d0503c8720]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Motor Vehicles (Wearing of Seat Belts) Regulations[^key-392b6e9fbadb8f6fd92a24d0503c8720]
+## 2. Amendment of the Motor Vehicles (Wearing of Seat Belts) Regulations[^c-392b6e9fbadb8f6fd92a24d0503c8720]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-392b6e9fbadb8f6fd92a24d0503c8720]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-392b6e9fbadb8f6fd92a24d0503c8720]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-392b6e9fbadb8f6fd92a24d0503c8720]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-392b6e9fbadb8f6fd92a24d0503c8720]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-392b6e9fbadb8f6fd92a24d0503c8720]: Textual amendment: Regulations revoked (1.7.2020) by [The Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/88)](https://www.legislation.gov.uk/nisr/2020/88), [regs. 1](https://www.legislation.gov.uk/nisr/2020/88/regulation/1), [3](https://www.legislation.gov.uk/nisr/2020/88/regulation/3)
+[^c-392b6e9fbadb8f6fd92a24d0503c8720]: Textual amendment: Regulations revoked (1.7.2020) by [The Motor Vehicles (Wearing of Seat Belts) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/88)](https://www.legislation.gov.uk/nisr/2020/88), [regs. 1](https://www.legislation.gov.uk/nisr/2020/88/regulation/1), [3](https://www.legislation.gov.uk/nisr/2020/88/regulation/3)

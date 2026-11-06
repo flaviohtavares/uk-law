@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Amendment of regulation 19 (exemptions from requirement for wholesale dealer's licence)[^key-562b071e8eb325c8d0bf3789183707b4]
+## 17. Amendment of regulation 19 (exemptions from requirement for wholesale dealer's licence)[^c-562b071e8eb325c8d0bf3789183707b4]
 
 *Extent: E+W+S+N.I.*
 
 (1) Regulation 19 [^c23884461] is amended as follows.
 
-(2)[^key-0c485c9de21054f6edfe8bd87147b95b] For paragraph (1)(a) substitute—
+(2)[^c-0c485c9de21054f6edfe8bd87147b95b] For paragraph (1)(a) substitute—
 
 > - (a) the holder of—
 >   - (i) in the case of a product for sale or supply in Great Britain, a UKMA(GB), a UKMA(UK), a COR(GB), a COR(UK), a THR(GB) or a THR(UK) (an “authorisation”) which relates to the product, or
@@ -34,7 +34,7 @@ summary: ''
 
 (3) In paragraph (1)(b), after “or assembled the product” insert “ in the United Kingdom ”.
 
-(4)[^key-8ee5c85531dd88b1e3a58a300be7aed3] At the end insert—
+(4)[^c-8ee5c85531dd88b1e3a58a300be7aed3] At the end insert—
 
 > (6) Regulation 18 does not apply to a person (“P”) who imports a medicinal product into Great Britain from an approved country for import for administration to P or to any other person who is a member of P’s household.
 
@@ -42,10 +42,10 @@ summary: ''
 
 ## Annotations
 
-[^key-562b071e8eb325c8d0bf3789183707b4]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-562b071e8eb325c8d0bf3789183707b4]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884461]: Marginal citation: Regulation 19 was amended by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).
 
-[^key-0c485c9de21054f6edfe8bd87147b95b]: Textual amendment: Reg. 17(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/11/a)
+[^c-0c485c9de21054f6edfe8bd87147b95b]: Textual amendment: Reg. 17(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/11/a)
 
-[^key-8ee5c85531dd88b1e3a58a300be7aed3]: Textual amendment: Reg. 17(4) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/11/b)
+[^c-8ee5c85531dd88b1e3a58a300be7aed3]: Textual amendment: Reg. 17(4) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/11/b)

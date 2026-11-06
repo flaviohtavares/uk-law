@@ -28,7 +28,7 @@ Section 144.
 
 **2.** (1) [^c18943931]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) In section 7(3), for the words from “means” to “with” in the third place it occurs there shall be substituted the words *(Extent: S)* *(affected by repeal, see note)*[^key-aed34ad463e527a521c9ac55523c276a] “ means consultations with the Health and Safety Executive and with ” *(Extent: S)* *(affected by repeal, see note)*[^key-aed34ad463e527a521c9ac55523c276a]. *(Extent: S)* *(affected by repeal, see note)*[^key-aed34ad463e527a521c9ac55523c276a]
+(2) In section 7(3), for the words from “means” to “with” in the third place it occurs there shall be substituted the words *(Extent: S)* *(affected by repeal, see note)*[^c-aed34ad463e527a521c9ac55523c276a] “ means consultations with the Health and Safety Executive and with ” *(Extent: S)* *(affected by repeal, see note)*[^c-aed34ad463e527a521c9ac55523c276a]. *(Extent: S)* *(affected by repeal, see note)*[^c-aed34ad463e527a521c9ac55523c276a]
 
 (3) In section 10(2), for the words from the beginning to “3” there shall be substituted the words “ A hazardous substances authority ”.
 
@@ -103,7 +103,7 @@ Section 144.
 
 [^c18943931]: Textual amendment: Sch. 13 para. 2(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
-[^key-aed34ad463e527a521c9ac55523c276a]: Textual amendment: [Sch. 13 para. 2(2)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/13/paragraph/2/2) repealed (S.) (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/13) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-aed34ad463e527a521c9ac55523c276a]: Textual amendment: [Sch. 13 para. 2(2)](https://www.legislation.gov.uk/ukpga/1990/43/schedule/13/paragraph/2/2) repealed (S.) (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2014/469/schedule/2/paragraph/13) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c18943781]: Textual amendment: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/1990/43/schedule/13/paragraph/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 

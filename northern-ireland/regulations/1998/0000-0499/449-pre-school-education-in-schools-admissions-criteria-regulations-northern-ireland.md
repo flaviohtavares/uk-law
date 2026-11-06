@@ -30,7 +30,7 @@ summary: ''
 
 EDUCATION
 
-Pre-School Education in Schools (Admissions Criteria) Regulations (Northern Ireland) 1998 (revoked)[^key-d266a88f887dfbe8675ae64932443d2e]
+Pre-School Education in Schools (Admissions Criteria) Regulations (Northern Ireland) 1998 (revoked)[^c-d266a88f887dfbe8675ae64932443d2e]
 
 Made
 
@@ -40,36 +40,36 @@ Coming into operation
 
 1st January 1999
 
-[^key-d266a88f887dfbe8675ae64932443d2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d266a88f887dfbe8675ae64932443d2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d266a88f887dfbe8675ae64932443d2e]
+## 1. Citation and commencement[^c-d266a88f887dfbe8675ae64932443d2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d266a88f887dfbe8675ae64932443d2e]
+## 2. Interpretation[^c-d266a88f887dfbe8675ae64932443d2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-d266a88f887dfbe8675ae64932443d2e]
+## 3. Application[^c-d266a88f887dfbe8675ae64932443d2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Matters to be included in the criteria[^key-d266a88f887dfbe8675ae64932443d2e]
+## 4. Matters to be included in the criteria[^c-d266a88f887dfbe8675ae64932443d2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Matters not to be included in the criteria[^key-d266a88f887dfbe8675ae64932443d2e]
+## 5. Matters not to be included in the criteria[^c-d266a88f887dfbe8675ae64932443d2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d266a88f887dfbe8675ae64932443d2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d266a88f887dfbe8675ae64932443d2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d266a88f887dfbe8675ae64932443d2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d266a88f887dfbe8675ae64932443d2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d266a88f887dfbe8675ae64932443d2e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/449) revoked in pt. (11.10.1999) by [Pre-School Education in Schools (Admissions Criteria) Regulations (Northern Ireland) 1999 (S.R. 1999/419)](https://www.legislation.gov.uk/nisr/1999/419), [regs. 1](https://www.legislation.gov.uk/nisr/1999/419/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/1999/419/regulation/5/1)[(2)](https://www.legislation.gov.uk/nisr/1999/419/regulation/5/2)
+[^c-d266a88f887dfbe8675ae64932443d2e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/449) revoked in pt. (11.10.1999) by [Pre-School Education in Schools (Admissions Criteria) Regulations (Northern Ireland) 1999 (S.R. 1999/419)](https://www.legislation.gov.uk/nisr/1999/419), [regs. 1](https://www.legislation.gov.uk/nisr/1999/419/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/1999/419/regulation/5/1)[(2)](https://www.legislation.gov.uk/nisr/1999/419/regulation/5/2)

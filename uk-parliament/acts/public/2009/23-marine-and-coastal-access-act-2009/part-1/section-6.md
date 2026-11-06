@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Trans-shipment licences for vessels[^key-c4a1e163b3949c9f80321330f67e4402]
+## 6. Trans-shipment licences for vessels[^c-c4a1e163b3949c9f80321330f67e4402]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ the application is to be treated as from the coming into force of this section a
 
 ## Annotations
 
-[^key-c4a1e163b3949c9f80321330f67e4402]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2009/23/section/6) in force at 1.4.2010 by [S.I. 2010/907](https://www.legislation.gov.uk/uksi/2010/907), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2010/907/article/2/2/c)
+[^c-c4a1e163b3949c9f80321330f67e4402]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2009/23/section/6) in force at 1.4.2010 by [S.I. 2010/907](https://www.legislation.gov.uk/uksi/2010/907), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2010/907/article/2/2/c)

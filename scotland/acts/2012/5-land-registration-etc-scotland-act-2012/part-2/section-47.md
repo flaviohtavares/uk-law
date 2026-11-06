@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Effect of death or dissolution[^key-788edfb617df9d0d474c093d68cc5c02]
+## 47. Effect of death or dissolution[^c-788edfb617df9d0d474c093d68cc5c02]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-788edfb617df9d0d474c093d68cc5c02]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2012/5/section/47) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-788edfb617df9d0d474c093d68cc5c02]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2012/5/section/47) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

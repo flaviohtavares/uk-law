@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Control of Industrial Air Pollution (Registration of Works) Regulations 1989 (revoked)[^key-952abfd4732e8d1e9e11d1bd5d9561d7]
+The Control of Industrial Air Pollution (Registration of Works) Regulations 1989 (revoked)[^c-952abfd4732e8d1e9e11d1bd5d9561d7]
 
 Made
 
@@ -45,68 +45,68 @@ Coming into force
 
 31st March 1989
 
-[^key-952abfd4732e8d1e9e11d1bd5d9561d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-952abfd4732e8d1e9e11d1bd5d9561d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-952abfd4732e8d1e9e11d1bd5d9561d7]
+## 1. Citation and commencement[^c-952abfd4732e8d1e9e11d1bd5d9561d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-952abfd4732e8d1e9e11d1bd5d9561d7]
+## 2. Interpretation[^c-952abfd4732e8d1e9e11d1bd5d9561d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Applications for registration[^key-952abfd4732e8d1e9e11d1bd5d9561d7]
+## 3. Applications for registration[^c-952abfd4732e8d1e9e11d1bd5d9561d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Notice of application[^key-952abfd4732e8d1e9e11d1bd5d9561d7]
+## 4. Notice of application[^c-952abfd4732e8d1e9e11d1bd5d9561d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Timing and withdrawal of applications[^key-952abfd4732e8d1e9e11d1bd5d9561d7]
+## 5. Timing and withdrawal of applications[^c-952abfd4732e8d1e9e11d1bd5d9561d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Public access to applications[^key-952abfd4732e8d1e9e11d1bd5d9561d7]
+## 6. Public access to applications[^c-952abfd4732e8d1e9e11d1bd5d9561d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Contents of the register[^key-952abfd4732e8d1e9e11d1bd5d9561d7]
+## 7. Contents of the register[^c-952abfd4732e8d1e9e11d1bd5d9561d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Public access to the register[^key-952abfd4732e8d1e9e11d1bd5d9561d7]
+## 8. Public access to the register[^c-952abfd4732e8d1e9e11d1bd5d9561d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Certificate of registration[^key-952abfd4732e8d1e9e11d1bd5d9561d7]
+## 9. Certificate of registration[^c-952abfd4732e8d1e9e11d1bd5d9561d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Notification of changes to works[^key-952abfd4732e8d1e9e11d1bd5d9561d7]
+## 10. Notification of changes to works[^c-952abfd4732e8d1e9e11d1bd5d9561d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Effect of changes to works[^key-952abfd4732e8d1e9e11d1bd5d9561d7]
+## 11. Effect of changes to works[^c-952abfd4732e8d1e9e11d1bd5d9561d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Application to existing works[^key-952abfd4732e8d1e9e11d1bd5d9561d7]
+## 12. Application to existing works[^c-952abfd4732e8d1e9e11d1bd5d9561d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Repeals and Revocations[^key-952abfd4732e8d1e9e11d1bd5d9561d7]
+## 13. Repeals and Revocations[^c-952abfd4732e8d1e9e11d1bd5d9561d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-952abfd4732e8d1e9e11d1bd5d9561d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-952abfd4732e8d1e9e11d1bd5d9561d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-952abfd4732e8d1e9e11d1bd5d9561d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-952abfd4732e8d1e9e11d1bd5d9561d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-952abfd4732e8d1e9e11d1bd5d9561d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1989/318) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-952abfd4732e8d1e9e11d1bd5d9561d7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1989/318) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

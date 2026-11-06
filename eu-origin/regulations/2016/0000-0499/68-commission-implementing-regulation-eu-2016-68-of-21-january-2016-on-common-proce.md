@@ -35,372 +35,372 @@ of 21 January 2016
 
 on common procedures and specifications necessary for the interconnection of electronic registers of driver cards (revoked)
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56dcf8604a8cf65a95d7d2605a028767]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject-matter[^key-56dcf8604a8cf65a95d7d2605a028767]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-56dcf8604a8cf65a95d7d2605a028767]
+## Article 1. Subject-matter[^c-56dcf8604a8cf65a95d7d2605a028767]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Obligation to connect to TACHOnet[^key-56dcf8604a8cf65a95d7d2605a028767]
+## Article 2. Definitions[^c-56dcf8604a8cf65a95d7d2605a028767]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3a. Connection by third countries[^key-56dcf8604a8cf65a95d7d2605a028767]
+## Article 3. Obligation to connect to TACHOnet[^c-56dcf8604a8cf65a95d7d2605a028767]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3b. Preliminary tests[^key-56dcf8604a8cf65a95d7d2605a028767]
+## Article 3a. Connection by third countries[^c-56dcf8604a8cf65a95d7d2605a028767]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Technical specifications[^key-56dcf8604a8cf65a95d7d2605a028767]
+## Article 3b. Preliminary tests[^c-56dcf8604a8cf65a95d7d2605a028767]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Use of TACHOnet[^key-56dcf8604a8cf65a95d7d2605a028767]
+## Article 4. Technical specifications[^c-56dcf8604a8cf65a95d7d2605a028767]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5a. Indirect access to TACHOnet[^key-56dcf8604a8cf65a95d7d2605a028767]
+## Article 5. Use of TACHOnet[^c-56dcf8604a8cf65a95d7d2605a028767]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force[^key-56dcf8604a8cf65a95d7d2605a028767]
+## Article 5a. Indirect access to TACHOnet[^c-56dcf8604a8cf65a95d7d2605a028767]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 6. Entry into force[^c-56dcf8604a8cf65a95d7d2605a028767]
 
-## ANNEX I — General aspects of TACHOnet messaging system[^key-56dcf8604a8cf65a95d7d2605a028767]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.
+[^c-56dcf8604a8cf65a95d7d2605a028767]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — General aspects of TACHOnet messaging system[^c-56dcf8604a8cf65a95d7d2605a028767]
+
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.
 
 **Architecture**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.
 
 **Management**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.1.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] 2.2.
+[^c-56dcf8604a8cf65a95d7d2605a028767] 2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.3.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.4.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.5.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.5.
 
 MOVEHUB web portal
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.6.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.6.
 
 Contact management
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] 2.6.1.
+[^c-56dcf8604a8cf65a95d7d2605a028767] 2.6.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] 2.6.2.
+[^c-56dcf8604a8cf65a95d7d2605a028767] 2.6.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Functionalities of TACHOnet messaging system[^key-56dcf8604a8cf65a95d7d2605a028767]
+## ANNEX II — Functionalities of TACHOnet messaging system[^c-56dcf8604a8cf65a95d7d2605a028767]
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]3.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]4.
+[^c-56dcf8604a8cf65a95d7d2605a028767]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] 5.
+[^c-56dcf8604a8cf65a95d7d2605a028767]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]Appendix
-
-[^key-56dcf8604a8cf65a95d7d2605a028767] Card statuses
+[^c-56dcf8604a8cf65a95d7d2605a028767] 5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Message provisions of TACHOnet messaging system[^key-56dcf8604a8cf65a95d7d2605a028767]
+[^c-56dcf8604a8cf65a95d7d2605a028767]Appendix
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.
+[^c-56dcf8604a8cf65a95d7d2605a028767] Card statuses
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III — Message provisions of TACHOnet messaging system[^c-56dcf8604a8cf65a95d7d2605a028767]
+
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.
 
 **General technical requirements**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.1.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.2.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.3.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.
 
 **XML messages structure and Schema definition (XSD)**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.1.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.2.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] 2.3.
+[^c-56dcf8604a8cf65a95d7d2605a028767] 2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.4.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] Appendix
+[^c-56dcf8604a8cf65a95d7d2605a028767] Appendix
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] Minimum requirements for the content of the XML messages
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX IV — Transliteration and NYSIIS (New York State Identification and Intelligence System) Services[^key-56dcf8604a8cf65a95d7d2605a028767]
-
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.
+[^c-56dcf8604a8cf65a95d7d2605a028767] Minimum requirements for the content of the XML messages
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.
+## ANNEX IV — Transliteration and NYSIIS (New York State Identification and Intelligence System) Services[^c-56dcf8604a8cf65a95d7d2605a028767]
+
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]3.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]4.
+[^c-56dcf8604a8cf65a95d7d2605a028767]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]5.
+[^c-56dcf8604a8cf65a95d7d2605a028767]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]5.1.
+[^c-56dcf8604a8cf65a95d7d2605a028767]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V — Security requirements[^key-56dcf8604a8cf65a95d7d2605a028767]
-
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.
+[^c-56dcf8604a8cf65a95d7d2605a028767]5.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.
+## ANNEX V — Security requirements[^c-56dcf8604a8cf65a95d7d2605a028767]
+
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]3.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VI — Service levels[^key-56dcf8604a8cf65a95d7d2605a028767]
-
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.
+[^c-56dcf8604a8cf65a95d7d2605a028767]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.1.
+## ANNEX VI — Service levels[^c-56dcf8604a8cf65a95d7d2605a028767]
+
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.2.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.3.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] 1.4.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] 1.5.
+[^c-56dcf8604a8cf65a95d7d2605a028767] 1.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] 1.6.
+[^c-56dcf8604a8cf65a95d7d2605a028767] 1.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] 1.7.
+[^c-56dcf8604a8cf65a95d7d2605a028767] 1.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] 1.8.
+[^c-56dcf8604a8cf65a95d7d2605a028767] 1.7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] 1.9.
+[^c-56dcf8604a8cf65a95d7d2605a028767] 1.8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.
+[^c-56dcf8604a8cf65a95d7d2605a028767] 1.9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.1.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.2.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]3.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-56dcf8604a8cf65a95d7d2605a028767]3.
 
 Maintenance
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VII[^key-56dcf8604a8cf65a95d7d2605a028767]
+## ANNEX VII[^c-56dcf8604a8cf65a95d7d2605a028767]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] Logging and Statistics of the data collected at the central hub
+[^c-56dcf8604a8cf65a95d7d2605a028767] Logging and Statistics of the data collected at the central hub
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] 3.
+[^c-56dcf8604a8cf65a95d7d2605a028767] 3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]4.
+[^c-56dcf8604a8cf65a95d7d2605a028767]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VIII — Use of TACHOnet messaging system[^key-56dcf8604a8cf65a95d7d2605a028767]
+## ANNEX VIII — Use of TACHOnet messaging system[^c-56dcf8604a8cf65a95d7d2605a028767]
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.
 
 **Issuing of driver cards**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.1.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.2.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] 1.3.
+[^c-56dcf8604a8cf65a95d7d2605a028767] 1.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.4.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.5.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] 1.6.
+[^c-56dcf8604a8cf65a95d7d2605a028767] 1.6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.7.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.8.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]1.9.
+[^c-56dcf8604a8cf65a95d7d2605a028767]1.9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.
 
 **Withdrawn, suspended or stolen driver cards**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]2.1.
+[^c-56dcf8604a8cf65a95d7d2605a028767]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]3.
+[^c-56dcf8604a8cf65a95d7d2605a028767]3.
 
 **Exchange of driver cards**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]3.1.
+[^c-56dcf8604a8cf65a95d7d2605a028767]3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767] 3.2.
+[^c-56dcf8604a8cf65a95d7d2605a028767] 3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]3.3.
+[^c-56dcf8604a8cf65a95d7d2605a028767]3.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IX — Application for indirect access to TACHOnet[^key-56dcf8604a8cf65a95d7d2605a028767]
+## ANNEX IX — Application for indirect access to TACHOnet[^c-56dcf8604a8cf65a95d7d2605a028767]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-56dcf8604a8cf65a95d7d2605a028767]: Textual amendment: Regulation revoked (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [112](https://www.legislation.gov.uk/uksi/2019/453/regulation/112) (with [reg. 114](https://www.legislation.gov.uk/uksi/2019/453/regulation/114)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56dcf8604a8cf65a95d7d2605a028767]: Textual amendment: Regulation revoked (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [112](https://www.legislation.gov.uk/uksi/2019/453/regulation/112) (with [reg. 114](https://www.legislation.gov.uk/uksi/2019/453/regulation/114)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

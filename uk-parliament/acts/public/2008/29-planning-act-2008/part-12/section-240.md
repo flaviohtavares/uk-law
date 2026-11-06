@@ -23,7 +23,7 @@ summary: ''
 (1) The following provisions of this Act extend to England and Wales only—
 
 - (a) in Part 2, section 13;
-- (b) in Part 3, sections 15 to 20 and 22 to 30A[^key-5c7a3710524ed5ec3481254f039223d4] ;
+- (b) in Part 3, sections 15 to 20 and 22 to 30A[^c-5c7a3710524ed5ec3481254f039223d4] ;
 - (c) in Part 6, section 118;
 - (d) in Part 7, sections 133 and 139 to 149;
 - (e) in Part 9, sections 193 and 194;
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c7a3710524ed5ec3481254f039223d4]: Textual amendment: Word in [s. 240(1)(b)](https://www.legislation.gov.uk/ukpga/2008/29/section/240/1/b) substituted (27.3.2015) by [The Infrastructure Planning (Radioactive Waste Geological Disposal Facilities) Order 2015 (S.I. 2015/949)](https://www.legislation.gov.uk/uksi/2015/949), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/949/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/949/article/2/4)
+[^c-5c7a3710524ed5ec3481254f039223d4]: Textual amendment: Word in [s. 240(1)(b)](https://www.legislation.gov.uk/ukpga/2008/29/section/240/1/b) substituted (27.3.2015) by [The Infrastructure Planning (Radioactive Waste Geological Disposal Facilities) Order 2015 (S.I. 2015/949)](https://www.legislation.gov.uk/uksi/2015/949), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/949/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/949/article/2/4)

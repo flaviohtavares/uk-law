@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. NHS England: wider effect of decisions[^key-618fc99075c244ff84c6da3546b7c1fa][^key-d9df9c625b17f93f17c216c975342933]
+## 8. NHS England: wider effect of decisions[^c-618fc99075c244ff84c6da3546b7c1fa][^c-d9df9c625b17f93f17c216c975342933]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ After section 13N of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-618fc99075c244ff84c6da3546b7c1fa]: Commencement: S. 8 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-618fc99075c244ff84c6da3546b7c1fa]: Commencement: S. 8 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-d9df9c625b17f93f17c216c975342933]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/31/section/8) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-d9df9c625b17f93f17c216c975342933]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/31/section/8) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

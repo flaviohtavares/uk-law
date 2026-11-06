@@ -44,15 +44,15 @@ summary: ''
 
 arrange that universal credit payable in respect of joint claimants be paid wholly to only one member of the couple or be split between the couple in such proportion as the Department considers appropriate.
 
-(6A)[^key-c4ad4dcff09e89e685ddf13654759b91] The Department may pay arrears of universal credit in instalments where—
+(6A)[^c-c4ad4dcff09e89e685ddf13654759b91] The Department may pay arrears of universal credit in instalments where—
 
 - (a) the Department considers it is necessary for protecting the interests of the claimant or, in the case of joint claimants, either of the claimants; and
 - (b) the claimant agrees, or in the case of joint claimants, both claimants agree, that those arrears must be paid in instalments.
 
-(7)[^key-084e2eb98431fb7aec46519f9be2e7f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-084e2eb98431fb7aec46519f9be2e7f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c4ad4dcff09e89e685ddf13654759b91]: Textual amendment: [Reg. 42(6A)](https://www.legislation.gov.uk/nisr/2016/220/regulation/42/6A) inserted (18.10.2021) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/267)](https://www.legislation.gov.uk/nisr/2021/267), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/267/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2021/267/regulation/3/2)
+[^c-c4ad4dcff09e89e685ddf13654759b91]: Textual amendment: [Reg. 42(6A)](https://www.legislation.gov.uk/nisr/2016/220/regulation/42/6A) inserted (18.10.2021) by [The Social Security Benefits (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/267)](https://www.legislation.gov.uk/nisr/2021/267), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/267/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2021/267/regulation/3/2)
 
-[^key-084e2eb98431fb7aec46519f9be2e7f4]: Textual amendment: [Reg. 42(7)](https://www.legislation.gov.uk/nisr/2016/220/regulation/42/7) omitted (25.11.2020) by virtue of [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/119)](https://www.legislation.gov.uk/nisr/2020/119), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/119/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2020/119/regulation/4)
+[^c-084e2eb98431fb7aec46519f9be2e7f4]: Textual amendment: [Reg. 42(7)](https://www.legislation.gov.uk/nisr/2016/220/regulation/42/7) omitted (25.11.2020) by virtue of [The Universal Credit (Persons who have attained state pension credit qualifying age) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/119)](https://www.legislation.gov.uk/nisr/2020/119), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/119/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2020/119/regulation/4)

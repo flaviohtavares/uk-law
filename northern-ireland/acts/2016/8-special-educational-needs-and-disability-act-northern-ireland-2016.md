@@ -186,7 +186,7 @@ Before Article 13 of the 1996 Order (but after the cross-heading immediately bef
 > (4) In this Article—
 >
 > - “**health and social services authority**” means—
->   - (a) [^key-2f54311381a649aee558a0e39c33f2ee]...
+>   - (a) [^c-2f54311381a649aee558a0e39c33f2ee]...
 >   - (b) a health and social care trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991;
 > - “**joint inspection team**” means a group of persons consisting of—
 >   - (a) inspectors appointed by the Department under Article 102 of the Education and Libraries (Northern Ireland) Order 1986; and
@@ -210,7 +210,7 @@ Before Article 13 of the 1996 Order (but after the cross-heading immediately bef
 
 .
 
-(4) In paragraph (6) for sub-paragraph (b)[^key-e71e6d27606fe02d1d92a02f123b1b4f] substitute—
+(4) In paragraph (6) for sub-paragraph (b)[^c-e71e6d27606fe02d1d92a02f123b1b4f] substitute—
 
 > - [^M_F_e7c6b310-1a9c-45c3-8613-055a03388b82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 > - (b) a health and social care trust established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991.
@@ -219,7 +219,7 @@ Before Article 13 of the 1996 Order (but after the cross-heading immediately bef
 
 ## Time limits for assessment of educational needs
 
-### 6. Assessment of needs: reduction in time limits[^key-4df46213a2ea8e03b3b7ac5a095bc330]
+### 6. Assessment of needs: reduction in time limits[^c-4df46213a2ea8e03b3b7ac5a095bc330]
 
 (1) In Article 15 of the 1996 Order (assessment of educational needs by Authority)—
 
@@ -908,10 +908,10 @@ Section 11.
 
 [^M_I_59ce1cd7-5036-49b1-89fb-9e5d1800294d]: Commencement: S. 1 in operation at 18.12.2020 by [S.R. 2020/309](https://www.legislation.gov.uk/nisr/2020/309), [art. 2](https://www.legislation.gov.uk/nisr/2020/309/article/2)
 
-[^key-2f54311381a649aee558a0e39c33f2ee]: Textual amendment: Words in [s. 4](https://www.legislation.gov.uk/nia/2016/8/section/4) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 168(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/168/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-2f54311381a649aee558a0e39c33f2ee]: Textual amendment: Words in [s. 4](https://www.legislation.gov.uk/nia/2016/8/section/4) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 168(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/168/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-e71e6d27606fe02d1d92a02f123b1b4f]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/nia/2016/8/section/5/4) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 251(2)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/251/2/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-e71e6d27606fe02d1d92a02f123b1b4f]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/nia/2016/8/section/5/4) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 251(2)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/251/2/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^M_F_e7c6b310-1a9c-45c3-8613-055a03388b82]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/nia/2016/8/section/5/4) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 251(2)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/251/2/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-4df46213a2ea8e03b3b7ac5a095bc330]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2016/8/section/6) in operation at 30.9.2016 by [S.R. 2016/327](https://www.legislation.gov.uk/nisr/2016/327), [art. 2](https://www.legislation.gov.uk/nisr/2016/327/article/2)
+[^c-4df46213a2ea8e03b3b7ac5a095bc330]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2016/8/section/6) in operation at 30.9.2016 by [S.R. 2016/327](https://www.legislation.gov.uk/nisr/2016/327), [art. 2](https://www.legislation.gov.uk/nisr/2016/327/article/2)

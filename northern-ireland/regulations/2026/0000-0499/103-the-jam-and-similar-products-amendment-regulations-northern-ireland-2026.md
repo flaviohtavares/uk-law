@@ -46,13 +46,13 @@ In accordance with Article 47(3A) of the Food Safety (Northern Ireland) Order 19
 
 As required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004] there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## 1. Citation, commencement and interpretation[^key-0a417f25a6da6282cb70fe84d077b811]
+## 1. Citation, commencement and interpretation[^c-0a417f25a6da6282cb70fe84d077b811]
 
 These Regulations may be cited as the Jam and Similar Products (Amendment) Regulations (Northern Ireland) 2026 and come into operation on 30th June 2026.
 
-**2.**[^key-d5149e3c8a52f06a1120c3586a400d07] The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
+**2.**[^c-d5149e3c8a52f06a1120c3586a400d07] The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Amendment to the Jam and Similar Products Regulations (Northern Ireland) 2018[^key-eae12429cc1d3a75e577a0245fad8075]
+## 3. Amendment to the Jam and Similar Products Regulations (Northern Ireland) 2018[^c-eae12429cc1d3a75e577a0245fad8075]
 
 (1) The Jam and Similar Products Regulations (Northern Ireland) 2018[^f00006] are amended as follows.
 
@@ -73,7 +73,7 @@ These Regulations may be cited as the Jam and Similar Products (Amendment) Regul
     - (dd) in sub-paragraph (d) for “80” substitute “100”, and
     - (ee) in sub-paragraph (e) for “450” substitute “500”.
 
-## 4. Transitional provisions[^key-b8aae1db0d4d642f3cb31a7eda6de1cb]
+## 4. Transitional provisions[^c-b8aae1db0d4d642f3cb31a7eda6de1cb]
 
 (1) Any products lawfully placed on the market or labelled before 30th June 2026 in accordance with the Jam and Similar Products Regulations (Northern Ireland) 2018 as in operation at the time may continue to be marketed until these stocks are exhausted.
 
@@ -103,14 +103,14 @@ A transposition note is attached to the Explanatory Memorandum which is availabl
 
 [^f00004]: Footnote: OJ No. L 31, 1.2.2002, p. 1
 
-[^key-0a417f25a6da6282cb70fe84d077b811]: Commencement: Reg. 1 in operation at 30.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/103/regulation/1)
+[^c-0a417f25a6da6282cb70fe84d077b811]: Commencement: Reg. 1 in operation at 30.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/103/regulation/1)
 
-[^key-d5149e3c8a52f06a1120c3586a400d07]: Commencement: Reg. 2 in operation at 30.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/103/regulation/1)
+[^c-d5149e3c8a52f06a1120c3586a400d07]: Commencement: Reg. 2 in operation at 30.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/103/regulation/1)
 
 [^f00005]: Footnote: [1954 c.33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-eae12429cc1d3a75e577a0245fad8075]: Commencement: Reg. 3 in operation at 30.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/103/regulation/1)
+[^c-eae12429cc1d3a75e577a0245fad8075]: Commencement: Reg. 3 in operation at 30.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/103/regulation/1)
 
 [^f00006]: Footnote: [S.R. 2018 No. 78](https://www.legislation.gov.uk/nisr/2018/78) as amended by [S.R. 2026 No. 5](https://www.legislation.gov.uk/nisr/2026/5)
 
-[^key-b8aae1db0d4d642f3cb31a7eda6de1cb]: Commencement: Reg. 4 in operation at 30.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/103/regulation/1)
+[^c-b8aae1db0d4d642f3cb31a7eda6de1cb]: Commencement: Reg. 4 in operation at 30.6.2026, see [reg. 1](https://www.legislation.gov.uk/nisr/2026/103/regulation/1)

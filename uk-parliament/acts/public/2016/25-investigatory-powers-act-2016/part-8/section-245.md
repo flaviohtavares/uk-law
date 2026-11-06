@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Technical Advisory Board[^key-8f19c649e50996f01e25f77c60575ba3]
+## 245. Technical Advisory Board[^c-8f19c649e50996f01e25f77c60575ba3]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f19c649e50996f01e25f77c60575ba3]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2016/25/section/245) in force at 12.3.2018 by [S.I. 2018/341](https://www.legislation.gov.uk/uksi/2018/341), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/341/regulation/2/d)
+[^c-8f19c649e50996f01e25f77c60575ba3]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2016/25/section/245) in force at 12.3.2018 by [S.I. 2018/341](https://www.legislation.gov.uk/uksi/2018/341), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/341/regulation/2/d)

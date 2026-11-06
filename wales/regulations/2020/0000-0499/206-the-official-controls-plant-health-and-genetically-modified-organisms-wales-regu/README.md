@@ -49,7 +49,7 @@ The Welsh Ministers are designated for the purposes of section 2(2) of the Europ
 
 The Welsh Ministers make these Regulations in exercise of the powers conferred by section 2(2) of, and paragraph 1A of Schedule 2 to, the 1972 Act.
 
-These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears expedient to the Welsh Ministers for the references to Commission Implementing Regulation (EU) 2019/2072 establishing uniform conditions for the implementation of Regulation (EU) 2016/2031 of the European Parliament and the Council, as regards protective measures against pests of plants [^c23987121], and to the European Union instruments mentioned in regulation 3(1), to be construed as references to those instruments as amended from time to time.[^key-0509c2169ecea154f83ef9597613c001][^key-3cd118f768341d667ac7bf453c50fcf6]
+These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears expedient to the Welsh Ministers for the references to Commission Implementing Regulation (EU) 2019/2072 establishing uniform conditions for the implementation of Regulation (EU) 2016/2031 of the European Parliament and the Council, as regards protective measures against pests of plants [^c23987121], and to the European Union instruments mentioned in regulation 3(1), to be construed as references to those instruments as amended from time to time.[^c-0509c2169ecea154f83ef9597613c001][^c-3cd118f768341d667ac7bf453c50fcf6]
 
 ## Contents
 
@@ -156,7 +156,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - [Section 47 — Offences by partnerships and unincorporated associations](part-11/section-47.md)
 - [Section 48 — Penalties](part-11/section-48.md)
 
-### PART 11A — Civil Sanctions[^key-3617dc089a6313e5a393342ff0a213b2]
+### PART 11A — Civil Sanctions[^c-3617dc089a6313e5a393342ff0a213b2]
 
 *Extent: E+W*
 
@@ -248,8 +248,8 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23987121]: Marginal citation: OJ No. L 319, 10.12.2019, p. 1.
 
-[^key-0509c2169ecea154f83ef9597613c001]: Modification: Regulations modified (8.4.2021) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) Regulations 2021 (S.I. 2021/302)](https://www.legislation.gov.uk/wsi/2021/302), [reg. 3(1)-(3)](https://www.legislation.gov.uk/wsi/2021/302/regulation/3/1) (with [reg. 3(4)](https://www.legislation.gov.uk/wsi/2021/302/regulation/3/4))
+[^c-0509c2169ecea154f83ef9597613c001]: Modification: Regulations modified (8.4.2021) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) Regulations 2021 (S.I. 2021/302)](https://www.legislation.gov.uk/wsi/2021/302), [reg. 3(1)-(3)](https://www.legislation.gov.uk/wsi/2021/302/regulation/3/1) (with [reg. 3(4)](https://www.legislation.gov.uk/wsi/2021/302/regulation/3/4))
 
-[^key-3cd118f768341d667ac7bf453c50fcf6]: Modification: Regulations applied in part (with modifications) (25.2.2025) by [The Movement of Goods (Northern Ireland to Great Britain) (Animals, Feed and Food, Plant Health etc.) (Transitory Provision and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/217)](https://www.legislation.gov.uk/uksi/2025/217), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/217/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/217/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/217/schedule/1)
+[^c-3cd118f768341d667ac7bf453c50fcf6]: Modification: Regulations applied in part (with modifications) (25.2.2025) by [The Movement of Goods (Northern Ireland to Great Britain) (Animals, Feed and Food, Plant Health etc.) (Transitory Provision and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/217)](https://www.legislation.gov.uk/uksi/2025/217), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/217/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/217/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/217/schedule/1)
 
-[^key-3617dc089a6313e5a393342ff0a213b2]: Textual amendment: Pt. 11A inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [2(8)](https://www.legislation.gov.uk/wsi/2020/1303/regulation/2/8)
+[^c-3617dc089a6313e5a393342ff0a213b2]: Textual amendment: Pt. 11A inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [2(8)](https://www.legislation.gov.uk/wsi/2020/1303/regulation/2/8)

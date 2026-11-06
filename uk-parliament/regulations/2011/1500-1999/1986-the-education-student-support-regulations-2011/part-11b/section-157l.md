@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 157L. Part-time students falling into more than one category[^key-38517a92bbf535ed07f05c172588bf2e]
+## 157L. Part-time students falling into more than one category[^c-38517a92bbf535ed07f05c172588bf2e]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ Where an eligible part-time student falls into more than one of the categories s
 
 ## Annotations
 
-[^key-38517a92bbf535ed07f05c172588bf2e]: Textual amendment: Pt. 11B inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/472/schedule/1)
+[^c-38517a92bbf535ed07f05c172588bf2e]: Textual amendment: Pt. 11B inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/472/schedule/1)

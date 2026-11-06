@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Standard conditions of licences[^key-542801cf0e45c2be95fd6551e461f3f6]
+## 12. Standard conditions of licences[^c-542801cf0e45c2be95fd6551e461f3f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ and must consider any representations or objections which are duly made and not 
 
 ## Annotations
 
-[^key-542801cf0e45c2be95fd6551e461f3f6]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/52/section/12) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-542801cf0e45c2be95fd6551e461f3f6]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/52/section/12) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

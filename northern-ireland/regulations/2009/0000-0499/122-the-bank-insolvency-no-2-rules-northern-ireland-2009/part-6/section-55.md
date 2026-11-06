@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Admission and rejection of proof (creditors’ meetings)[^key-5dce28f7d9f9c9a2f8efae212cda70e4]
+## 55. Admission and rejection of proof (creditors’ meetings)[^c-5dce28f7d9f9c9a2f8efae212cda70e4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.076 of the 1991 Rules.
 
 ## Annotations
 
-[^key-5dce28f7d9f9c9a2f8efae212cda70e4]: Commencement: Rule 55 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-5dce28f7d9f9c9a2f8efae212cda70e4]: Commencement: Rule 55 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Extended council tax reduction: movers[^key-a1537d6d186b78adc7146a4aa39ee80c]
+## 83. Extended council tax reduction: movers[^c-a1537d6d186b78adc7146a4aa39ee80c]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1537d6d186b78adc7146a4aa39ee80c]: Commencement: [Reg. 83](https://www.legislation.gov.uk/ssi/2021/249/regulation/83) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-a1537d6d186b78adc7146a4aa39ee80c]: Commencement: [Reg. 83](https://www.legislation.gov.uk/ssi/2021/249/regulation/83) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

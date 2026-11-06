@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Effect of diversionary caution[^key-6f59c097141dac2734166f0c48ee92a0]
+## 105. Effect of diversionary caution[^c-6f59c097141dac2734166f0c48ee92a0]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f59c097141dac2734166f0c48ee92a0]: Commencement: S. 105 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-6f59c097141dac2734166f0c48ee92a0]: Commencement: S. 105 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

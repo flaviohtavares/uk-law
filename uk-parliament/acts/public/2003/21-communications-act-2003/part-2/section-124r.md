@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124R. Application to court to alter constitution of internet domain registry[^key-95d0e4bc3b7decc67fe9694635410c4b]
+## 124R. Application to court to alter constitution of internet domain registry[^c-95d0e4bc3b7decc67fe9694635410c4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95d0e4bc3b7decc67fe9694635410c4b]: Textual amendment: S. 124R inserted (6.4.2024) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 21](https://www.legislation.gov.uk/ukpga/2010/24/section/21), [47(3)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/3/a); [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [art. 3(c)](https://www.legislation.gov.uk/uksi/2023/792/article/3/c)
+[^c-95d0e4bc3b7decc67fe9694635410c4b]: Textual amendment: S. 124R inserted (6.4.2024) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 21](https://www.legislation.gov.uk/ukpga/2010/24/section/21), [47(3)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/3/a); [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [art. 3(c)](https://www.legislation.gov.uk/uksi/2023/792/article/3/c)

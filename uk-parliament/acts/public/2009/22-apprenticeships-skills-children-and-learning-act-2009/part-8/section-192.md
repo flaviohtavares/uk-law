@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Minor and consequential amendments[^key-af19edd91fab732853a666bcc58c934c][^key-d5ca23de2a1a20c8c627d7e949df4da5]
+## 192. Minor and consequential amendments[^c-af19edd91fab732853a666bcc58c934c][^c-d5ca23de2a1a20c8c627d7e949df4da5]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 12 contains minor and consequential amendments relating to the provisio
 
 ## Annotations
 
-[^key-af19edd91fab732853a666bcc58c934c]: Commencement: S. 192 in force at 1.4.2010 for specified purposes by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-af19edd91fab732853a666bcc58c934c]: Commencement: S. 192 in force at 1.4.2010 for specified purposes by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
-[^key-d5ca23de2a1a20c8c627d7e949df4da5]: Commencement: S. 192 in force at 1.11.2010 for specified purposes for W. by [S.I. 2010/2413](https://www.legislation.gov.uk/uksi/2010/2413), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2413/article/2/a) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2010/2413/article/3))
+[^c-d5ca23de2a1a20c8c627d7e949df4da5]: Commencement: S. 192 in force at 1.11.2010 for specified purposes for W. by [S.I. 2010/2413](https://www.legislation.gov.uk/uksi/2010/2413), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2413/article/2/a) (with [arts. 3-5](https://www.legislation.gov.uk/uksi/2010/2413/article/3))

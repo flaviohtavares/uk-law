@@ -26,7 +26,7 @@ summary: ''
 - (b) sections 13 to 21 (which relate to references made to, and reports of, that Committee); and
 - (c) section 22 (power of Secretary of State to make orders in pursuance of a report of that Committee).
 
-(2)[^key-eef0e73e1d07c5094a07548e0243e052] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-eef0e73e1d07c5094a07548e0243e052] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) If the orders saved by subsection (2)(a) have been revoked, the Secretary of State may by order—
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eef0e73e1d07c5094a07548e0243e052]: Textual amendment: S. 10(2) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 69](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/69), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-eef0e73e1d07c5094a07548e0243e052]: Textual amendment: S. 10(2) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 69](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/69), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))

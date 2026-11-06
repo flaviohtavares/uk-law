@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 19
 
-**1.**[^key-da3a327c568dab7828ac00df4dea93be] Article 3 is to be read as if—
+**1.**[^c-da3a327c568dab7828ac00df4dea93be] Article 3 is to be read as if—
 
 - (a) in paragraph 1, after point (p) there were inserted—
 
@@ -50,12 +50,12 @@ Regulation 19
 
   .
 
-**2.**[^key-2342457e865e49b6e489171ed70d06ef] Article 57(b) is to be read as if—
+**2.**[^c-2342457e865e49b6e489171ed70d06ef] Article 57(b) is to be read as if—
 
 - (a) for “Part II of Annex IV”, there were substituted “Annex 1A to Regulation 1251/2008”;
 - (b) for the words from “to be” to the end substitute “established by Decision 2015/1554”.
 
-**3.**[^key-c18c7c945708dbd8ed501caca9a117fe] Part A of Annex 3 is to be read as if—
+**3.**[^c-c18c7c945708dbd8ed501caca9a117fe] Part A of Annex 3 is to be read as if—
 
 - (a) in the heading, the words from “to” to “Article 12” were omitted;
 - (b) in the second column of the table—
@@ -64,7 +64,7 @@ Regulation 19
   - (iii) in the entry corresponding to Category 4, for “(Article 44(2))” there were substituted “(Article 2b(3) of Decision 2015/1554)”;
   - (iv) in the entry corresponding to Category 5, for “(Article 39)” there were substituted “(Regulation 28 of the Aquatic Animal Health Regulations)”.
 
-**4.**[^key-506deaf32512f978454a0c8bb20d5dc6] Part B of Annex 3 is to be read as if—
+**4.**[^c-506deaf32512f978454a0c8bb20d5dc6] Part B of Annex 3 is to be read as if—
 
 - (a) in the table—
   - (i) in the first column, for “Annex IV”, in both places where it occurs, there were substituted “Annex 1A to Regulation 1251/2008”;
@@ -83,9 +83,9 @@ Regulation 19
   - (vi) in the eighth column, in the first row, the second, third and fourth paragraphs were omitted.
 - (b) in the notes to the table, under the heading “Types of health surveillance”, in the first unnumbered paragraph, for “Section 2 of Chapter V” there were substituted “Part 4 of the Aquatic Animal Health Regulations”.
 
-**5.**[^key-a25c02699e2135eae900a80b7d3767e2] The heading to Annex 5 is to be read as if, for “Member State” there were substituted “constituent GB territory”.
+**5.**[^c-a25c02699e2135eae900a80b7d3767e2] The heading to Annex 5 is to be read as if, for “Member State” there were substituted “constituent GB territory”.
 
-**6.**[^key-4b9d2d1ecbcae02aec1feddbd8ab40fe] Part 1 of Annex 5 is to be read as if—
+**6.**[^c-4b9d2d1ecbcae02aec1feddbd8ab40fe] Part 1 of Annex 5 is to be read as if—
 
 - (a) in the heading, for “Member State” there were substituted “constituent GB territory”;
 - (b) in paragraph 1—
@@ -102,7 +102,7 @@ Regulation 19
     - (aa) for “the methods adopted pursuant to Article 49(3)” there were substituted “Decision 2015/1554”;
   - (iv) in the words after point (b), for “Member State” substitute “constituent GB territory”.
 
-**7.**[^key-0b190f1db22477e66ca25e0a8396ca9a] Part 2 of Annex 5 is to be read as if—
+**7.**[^c-0b190f1db22477e66ca25e0a8396ca9a] Part 2 of Annex 5 is to be read as if—
 
 - (a) in paragraph 1—
   - (i) in point 1.2—
@@ -116,7 +116,7 @@ Regulation 19
 
 ## Annotations
 
-[^key-da3a327c568dab7828ac00df4dea93be]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1388/schedule/paragraph/1) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-da3a327c568dab7828ac00df4dea93be]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1388/schedule/paragraph/1) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
 [^f00084]: Footnote: [S.I. 2009/463](https://www.legislation.gov.uk/uksi/2009/463); amended by [S.I. 2011/981](https://www.legislation.gov.uk/uksi/2011/981) and [2019/1488](https://www.legislation.gov.uk/uksi/2019/1488).
 
@@ -128,14 +128,14 @@ Regulation 19
 
 [^f00088]: Footnote: EUR 1251/2008.
 
-[^key-2342457e865e49b6e489171ed70d06ef]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1388/schedule/paragraph/2) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-2342457e865e49b6e489171ed70d06ef]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1388/schedule/paragraph/2) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
-[^key-c18c7c945708dbd8ed501caca9a117fe]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1388/schedule/paragraph/3) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-c18c7c945708dbd8ed501caca9a117fe]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1388/schedule/paragraph/3) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
-[^key-506deaf32512f978454a0c8bb20d5dc6]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1388/schedule/paragraph/4) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-506deaf32512f978454a0c8bb20d5dc6]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1388/schedule/paragraph/4) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
-[^key-a25c02699e2135eae900a80b7d3767e2]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1388/schedule/paragraph/5) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-a25c02699e2135eae900a80b7d3767e2]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1388/schedule/paragraph/5) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
-[^key-4b9d2d1ecbcae02aec1feddbd8ab40fe]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2020/1388/schedule/paragraph/6) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-4b9d2d1ecbcae02aec1feddbd8ab40fe]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2020/1388/schedule/paragraph/6) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
-[^key-0b190f1db22477e66ca25e0a8396ca9a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2020/1388/schedule/paragraph/7) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-0b190f1db22477e66ca25e0a8396ca9a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2020/1388/schedule/paragraph/7) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143A. Determinations under section 143[^M_C_c47eb3a0-61a3-4ed8-a689-9875793031ca][^key-0edc76f94172939eb0bab2ff3f33d9f6]
+## 143A. Determinations under section 143[^M_C_c47eb3a0-61a3-4ed8-a689-9875793031ca][^c-0edc76f94172939eb0bab2ff3f33d9f6]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ This subsection is subject to section 172(3) and (4) (treatment of fraud compens
 
 [^M_C_c47eb3a0-61a3-4ed8-a689-9875793031ca]: Modification: S. 143A(4)(c) modified by S.I. 2005/441, reg. 68(1) (as amended (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/1688)](https://www.legislation.gov.uk/uksi/2012/1688), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/1688/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2012/1688/regulation/2/20))
 
-[^key-0edc76f94172939eb0bab2ff3f33d9f6]: Textual amendment: S. 143A inserted (23.7.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [s. 38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2011/19/schedule/4/paragraph/6); [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2012/1681/article/3/b/ii)
+[^c-0edc76f94172939eb0bab2ff3f33d9f6]: Textual amendment: S. 143A inserted (23.7.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [s. 38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2011/19/schedule/4/paragraph/6); [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2012/1681/article/3/b/ii)

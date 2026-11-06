@@ -39,7 +39,7 @@ Coming into force in accordance with paragraph 1(1) and (2)
 
 The Lords of Council and Session, under and by virtue of the powers conferred by section 32 of the Sheriff Courts (Scotland) Act 1971[^f00001], and of all other powers enabling them in that behalf, having approved draft rules submitted to them by the Sheriff Court Rules Council in accordance with section 34 of the said Act of 1971, do hereby enact and declare:
 
-## 1. Citation and commencement[^key-826eef0add008dedbdfd52cf5f7921a0]
+## 1. Citation and commencement[^c-826eef0add008dedbdfd52cf5f7921a0]
 
 (1) This Act of Sederunt may be cited as the Act of Sederunt (Ordinary Cause, Summary Application, Summary Cause and Small Claim Rules) Amendment (Miscellaneous) 2007 and, subject to sub-paragraph (2), shall come into force on 29th January 2007.
 
@@ -47,7 +47,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 (3) This Act of Sederunt shall be inserted in the Books of Sederunt.
 
-## 2. Amendment of Ordinary Cause Rules[^key-a25252dfb2e243b0909251924f4ec834][^key-0c368c2fe1831f2da5904d4767fc4e24]
+## 2. Amendment of Ordinary Cause Rules[^c-a25252dfb2e243b0909251924f4ec834][^c-0c368c2fe1831f2da5904d4767fc4e24]
 
 (1) The Ordinary Cause Rules in Schedule 1 to the Sheriff Courts (Scotland) Act 1907[^f00002] shall be amended in accordance with the following sub-paragraphs.
 
@@ -265,7 +265,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
     ; and
   - (ii) in the Note, after “provision” there shall be inserted “, or if you wish to apply for postponement of decree under section 3A of the Divorce (Scotland) Act 1976 (postponement of decree where impediment to religious marriage exists),”.
 
-## 3. Amendment of Summary Application Rules[^key-30ae4fabcb0670f85addcff109ce4f36]
+## 3. Amendment of Summary Application Rules[^c-30ae4fabcb0670f85addcff109ce4f36]
 
 (1) The Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) 1999[^f00020] shall be amended in accordance with the following sub-paragraphs.
 
@@ -357,7 +357,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
   - (iii) in the section beginning “**IF YOU ADMIT THE CLAIM AND WISH TO APPLY**”, after “**DIRECTION**” there shall be inserted “**OR TIME ORDER**”;
 - (d) in Form 7, after “*direction*” there shall be inserted “*or a time order*”.
 
-## 4. Amendment of Summary Cause Rules[^key-b600565aa1786ebd92fe09cfa52b2447]
+## 4. Amendment of Summary Cause Rules[^c-b600565aa1786ebd92fe09cfa52b2447]
 
 (1) The Act of Sederunt (Summary Cause Rules) 2002[^f00022] is amended in accordance with the following sub-paragraphs.
 
@@ -406,7 +406,7 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 .
 
-## 5. Amendment of Small Claim Rules[^key-e90c807dae7fb57045371a43e2a40785]
+## 5. Amendment of Small Claim Rules[^c-e90c807dae7fb57045371a43e2a40785]
 
 The Act of Sederunt (Small Claim Rules) 2002[^f00024] shall be amended as follows:–
 
@@ -494,11 +494,11 @@ This Act of Sederunt makes miscellaneous amendments to the rules of procedure in
 
 [^f00001]: Footnote: [1971 c. 58](https://www.legislation.gov.uk/ukpga/1971/58); section 32 was amended by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1985 (c. 73)](https://www.legislation.gov.uk/ukpga/1985/73), Schedule 2, paragraph 12, the Civil Evidence (Scotland) Act [1988 (c. 32)](https://www.legislation.gov.uk/ukpga/1988/32), section 2(4), the Children (Scotland) Act [1995 (c. 36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 18(2), the [Adults with Incapacity (Scotland) Act 2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4), schedule 5, paragraph 13, the [Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)](https://www.legislation.gov.uk/asp/2002/17), section 43 and the [Vulnerable Witnesses (Scotland) Act 2004 (asp 3)](https://www.legislation.gov.uk/asp/2004/3), section 14(2), and was extended by the Child Support Act [1991 (c. 48)](https://www.legislation.gov.uk/ukpga/1991/48), sections 39(2) and 49.
 
-[^key-826eef0add008dedbdfd52cf5f7921a0]: Commencement: Para. 1 in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/1)
+[^c-826eef0add008dedbdfd52cf5f7921a0]: Commencement: Para. 1 in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/1)
 
-[^key-a25252dfb2e243b0909251924f4ec834]: Commencement: Para. 2(1)-(13)(16)(a)-(e) in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/1)
+[^c-a25252dfb2e243b0909251924f4ec834]: Commencement: Para. 2(1)-(13)(16)(a)-(e) in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/1)
 
-[^key-0c368c2fe1831f2da5904d4767fc4e24]: Commencement: Para. 2(14)(15)(16)(f)-(k) in force at 26.2.2007, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/2)
+[^c-0c368c2fe1831f2da5904d4767fc4e24]: Commencement: Para. 2(14)(15)(16)(f)-(k) in force at 26.2.2007, see [para. 1(2)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/2)
 
 [^f00002]: Footnote: [1907 c. 51](https://www.legislation.gov.uk/ukpga/1907/51). Schedule 1 was substituted by S.I. [1993/1956](https://www.legislation.gov.uk/uksi/1993/1956) and amended by S.I. [1996/2167](https://www.legislation.gov.uk/uksi/1996/2167) and [2445](https://www.legislation.gov.uk/uksi/1996/2445), [S.S.I. 2000/239](https://www.legislation.gov.uk/ssi/2000/239) and [408](https://www.legislation.gov.uk/ssi/2000/408), [2001/8](https://www.legislation.gov.uk/ssi/2001/8) and [144](https://www.legislation.gov.uk/ssi/2001/144), [2002/7](https://www.legislation.gov.uk/ssi/2002/7), [128](https://www.legislation.gov.uk/ssi/2002/128) and [566](https://www.legislation.gov.uk/ssi/2002/566), [2003/25](https://www.legislation.gov.uk/ssi/2003/25) and [26](https://www.legislation.gov.uk/ssi/2003/26), [2004/197](https://www.legislation.gov.uk/ssi/2004/197) and [350](https://www.legislation.gov.uk/ssi/2004/350), [2005/20](https://www.legislation.gov.uk/ssi/2005/20), [189](https://www.legislation.gov.uk/ssi/2005/189), [638](https://www.legislation.gov.uk/ssi/2005/638) and [648](https://www.legislation.gov.uk/ssi/2005/648) and [2006/207](https://www.legislation.gov.uk/ssi/2006/207), [293](https://www.legislation.gov.uk/ssi/2006/293), [410](https://www.legislation.gov.uk/ssi/2006/410) and [509](https://www.legislation.gov.uk/ssi/2006/509).
 
@@ -536,19 +536,19 @@ This Act of Sederunt makes miscellaneous amendments to the rules of procedure in
 
 [^f00019]: Footnote: Form F35A was inserted by [S.S.I. 2006207](https://www.legislation.gov.uk/ssi/2006/207).
 
-[^key-30ae4fabcb0670f85addcff109ce4f36]: Commencement: Para. 3 in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/1)
+[^c-30ae4fabcb0670f85addcff109ce4f36]: Commencement: Para. 3 in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/1)
 
 [^f00020]: Footnote: S.I. [1999/929](https://www.legislation.gov.uk/uksi/1999/929), amended by [S.S.I. 2000/18](https://www.legislation.gov.uk/ssi/2000/18) and [387](https://www.legislation.gov.uk/ssi/2000/387), [2001/142](https://www.legislation.gov.uk/ssi/2001/142), [2002/7](https://www.legislation.gov.uk/ssi/2002/7), [129](https://www.legislation.gov.uk/ssi/2002/129), [130](https://www.legislation.gov.uk/ssi/2002/130), [146](https://www.legislation.gov.uk/ssi/2002/146) and [583](https://www.legislation.gov.uk/ssi/2002/583), [2003/26](https://www.legislation.gov.uk/ssi/2003/26), [27](https://www.legislation.gov.uk/ssi/2003/27), [98](https://www.legislation.gov.uk/ssi/2003/98), [261](https://www.legislation.gov.uk/ssi/2003/261), [319](https://www.legislation.gov.uk/ssi/2003/319), [346](https://www.legislation.gov.uk/ssi/2003/346) and [556](https://www.legislation.gov.uk/ssi/2003/556), [2004/197](https://www.legislation.gov.uk/ssi/2004/197), [222](https://www.legislation.gov.uk/ssi/2004/222), [334](https://www.legislation.gov.uk/ssi/2004/334) and [455](https://www.legislation.gov.uk/ssi/2004/455), [2005/61](https://www.legislation.gov.uk/ssi/2005/61), [473](https://www.legislation.gov.uk/ssi/2005/473), [504](https://www.legislation.gov.uk/ssi/2005/504) and [648](https://www.legislation.gov.uk/ssi/2005/648) and [2006/410](https://www.legislation.gov.uk/ssi/2006/410), [437](https://www.legislation.gov.uk/ssi/2006/437) and [509](https://www.legislation.gov.uk/ssi/2006/509).
 
 [^f00021]: Footnote: [1975 c. 47](https://www.legislation.gov.uk/ukpga/1975/47).
 
-[^key-b600565aa1786ebd92fe09cfa52b2447]: Commencement: Para. 4 in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/1)
+[^c-b600565aa1786ebd92fe09cfa52b2447]: Commencement: Para. 4 in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/1)
 
 [^f00022]: Footnote: [S.S.I. 2002/132](https://www.legislation.gov.uk/ssi/2002/132), amended by [S.S.I. 2002/516](https://www.legislation.gov.uk/ssi/2002/516), [2003/216](https://www.legislation.gov.uk/ssi/2003/216), [2004/197](https://www.legislation.gov.uk/ssi/2004/197), [2005/648](https://www.legislation.gov.uk/ssi/2005/648) and [2006/509](https://www.legislation.gov.uk/ssi/2006/509).
 
 [^f00023]: Footnote: Chapter 36 was inserted by [S.S.I. 2006/509](https://www.legislation.gov.uk/ssi/2006/509).
 
-[^key-e90c807dae7fb57045371a43e2a40785]: Commencement: Para. 5 in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/1)
+[^c-e90c807dae7fb57045371a43e2a40785]: Commencement: Para. 5 in force at 29.1.2007, see [para. 1(1)](https://www.legislation.gov.uk/ssi/2007/6/paragraph/1/1)
 
 [^f00024]: Footnote: [S.S.I. 2002/133](https://www.legislation.gov.uk/ssi/2002/133), amended by [S.S.I. 2003/26](https://www.legislation.gov.uk/ssi/2003/26), [2004/197](https://www.legislation.gov.uk/ssi/2004/197), [2005/648](https://www.legislation.gov.uk/ssi/2005/648) and [2006/509](https://www.legislation.gov.uk/ssi/2006/509).
 

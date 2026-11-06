@@ -31,7 +31,7 @@ summary: ''
 
 Education, England
 
-The Education (Recognised Awards) (Richmond The American International University in London) Order 2016 (revoked)[^key-2215edb73fa2621eb169c31cece8be41]
+The Education (Recognised Awards) (Richmond The American International University in London) Order 2016 (revoked)[^c-2215edb73fa2621eb169c31cece8be41]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 31st December 2016
 
-[^key-2215edb73fa2621eb169c31cece8be41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2215edb73fa2621eb169c31cece8be41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-2215edb73fa2621eb169c31cece8be41]
+## 1. Citation, commencement and application[^c-2215edb73fa2621eb169c31cece8be41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of Awards[^key-2215edb73fa2621eb169c31cece8be41]
+## 2. Designation of Awards[^c-2215edb73fa2621eb169c31cece8be41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-2215edb73fa2621eb169c31cece8be41]
+## 3. Revocation[^c-2215edb73fa2621eb169c31cece8be41]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2215edb73fa2621eb169c31cece8be41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2215edb73fa2621eb169c31cece8be41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2215edb73fa2621eb169c31cece8be41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2215edb73fa2621eb169c31cece8be41]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2215edb73fa2621eb169c31cece8be41]: Textual amendment: Order revoked (31.12.2017) by [The Education (Recognised Awards) (Richmond The American International University in London) Order 2017 (S.I. 2017/1185)](https://www.legislation.gov.uk/uksi/2017/1185), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1185/article/1/1), [3](https://www.legislation.gov.uk/uksi/2017/1185/article/3)
+[^c-2215edb73fa2621eb169c31cece8be41]: Textual amendment: Order revoked (31.12.2017) by [The Education (Recognised Awards) (Richmond The American International University in London) Order 2017 (S.I. 2017/1185)](https://www.legislation.gov.uk/uksi/2017/1185), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/1185/article/1/1), [3](https://www.legislation.gov.uk/uksi/2017/1185/article/3)

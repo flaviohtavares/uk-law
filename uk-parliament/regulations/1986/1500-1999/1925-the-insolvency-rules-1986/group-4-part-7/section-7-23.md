@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.23. Warrants under ss.236, 366[^key-c59dcf485db178c07302b3b33ef7745a]
+## 7.23. Warrants under ss.236, 366[^c-c59dcf485db178c07302b3b33ef7745a]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ as may be directed by the court.
 
 ## Annotations
 
-[^key-c59dcf485db178c07302b3b33ef7745a]: Commencement: [Rule 7.23](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.23) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c59dcf485db178c07302b3b33ef7745a]: Commencement: [Rule 7.23](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.23) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00205]: Marginal citation: \[FORM 7.8\]
 

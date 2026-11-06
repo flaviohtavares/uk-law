@@ -32,7 +32,7 @@ summary: ''
 
 Architects
 
-The Architects (Recognition of European Qualifications) Regulations 2011 (revoked)[^key-91b6a9066b2aa19ecc0c4ea2212be90d]
+The Architects (Recognition of European Qualifications) Regulations 2011 (revoked)[^c-91b6a9066b2aa19ecc0c4ea2212be90d]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 12th September 2011
 
-[^key-91b6a9066b2aa19ecc0c4ea2212be90d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91b6a9066b2aa19ecc0c4ea2212be90d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-91b6a9066b2aa19ecc0c4ea2212be90d]
+## 1. Citation and commencement[^c-91b6a9066b2aa19ecc0c4ea2212be90d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Architects Act 1997[^key-91b6a9066b2aa19ecc0c4ea2212be90d]
+## 2. Amendment of the Architects Act 1997[^c-91b6a9066b2aa19ecc0c4ea2212be90d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-91b6a9066b2aa19ecc0c4ea2212be90d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91b6a9066b2aa19ecc0c4ea2212be90d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-91b6a9066b2aa19ecc0c4ea2212be90d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91b6a9066b2aa19ecc0c4ea2212be90d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-91b6a9066b2aa19ecc0c4ea2212be90d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2008) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-91b6a9066b2aa19ecc0c4ea2212be90d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/2008) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

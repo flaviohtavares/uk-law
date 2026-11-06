@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, commencement and interpretation[^key-5b2c74855b4009b61a21ee8ddcda7f25]
+## 1. Citation, commencement and interpretation[^c-5b2c74855b4009b61a21ee8ddcda7f25]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b2c74855b4009b61a21ee8ddcda7f25]: Commencement: Reg. 1 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-5b2c74855b4009b61a21ee8ddcda7f25]: Commencement: Reg. 1 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2003/2682](https://www.legislation.gov.uk/uksi/2003/2682); relevant amending instruments are [S.I. 2005/2691](https://www.legislation.gov.uk/uksi/2005/2691), [2006/777](https://www.legislation.gov.uk/uksi/2006/777), [2007/1077](https://www.legislation.gov.uk/uksi/2007/1077), [2007/2069](https://www.legislation.gov.uk/uksi/2007/2069), [2007/2969](https://www.legislation.gov.uk/uksi/2007/2969), [2008/782](https://www.legislation.gov.uk/uksi/2008/782), [2008/2601](https://www.legislation.gov.uk/uksi/2008/2601), [2009/56](https://www.legislation.gov.uk/uksi/2009/56), [2009/588](https://www.legislation.gov.uk/uksi/2009/588), [2009/2029](https://www.legislation.gov.uk/uksi/2009/2029), [2010/668](https://www.legislation.gov.uk/uksi/2010/668), [2010/2496](https://www.legislation.gov.uk/uksi/2010/2496), [2011/729](https://www.legislation.gov.uk/uksi/2011/729) and [2011/1054](https://www.legislation.gov.uk/uksi/2011/1054).

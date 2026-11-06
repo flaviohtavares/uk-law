@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Research, information and advice[^key-875ad0edf931eeb64181bd6f9941781b]
+## 110. Research, information and advice[^c-875ad0edf931eeb64181bd6f9941781b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-875ad0edf931eeb64181bd6f9941781b]: Textual amendment: S. 110 and preceding crossheading omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/21)
+[^c-875ad0edf931eeb64181bd6f9941781b]: Textual amendment: S. 110 and preceding crossheading omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 21](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/21)

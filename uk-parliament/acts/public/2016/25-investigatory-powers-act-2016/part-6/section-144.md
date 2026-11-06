@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Renewal of warrants[^key-c6438dcdf1051195b8442ba3d2da062e]
+## 144. Renewal of warrants[^c-c6438dcdf1051195b8442ba3d2da062e]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ This is subject to subsection (6).
 
 ## Annotations
 
-[^key-c6438dcdf1051195b8442ba3d2da062e]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2016/25/section/144) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/a)
+[^c-c6438dcdf1051195b8442ba3d2da062e]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2016/25/section/144) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Right of assured tenant to acquire dwelling not affected by collective enfranchisement[^key-90587bb39ee61fd309f5218bfb580812]
+## 202. Right of assured tenant to acquire dwelling not affected by collective enfranchisement[^c-90587bb39ee61fd309f5218bfb580812]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90587bb39ee61fd309f5218bfb580812]: Textual amendment: [S. 202](https://www.legislation.gov.uk/ukpga/2004/34/section/202) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))
+[^c-90587bb39ee61fd309f5218bfb580812]: Textual amendment: [S. 202](https://www.legislation.gov.uk/ukpga/2004/34/section/202) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [s. 11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/anaw/2018/1/schedule/1/paragraph/5/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/100/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3))

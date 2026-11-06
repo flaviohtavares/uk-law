@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89M. Giving of notices, documents etc under Part 1[^key-d24a5b6f42961d432f0670ae6dc83586]
+## 89M. Giving of notices, documents etc under Part 1[^c-d24a5b6f42961d432f0670ae6dc83586]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulations under section 414 of the Financial Services and Markets Act 2000 (se
 
 ## Annotations
 
-[^key-d24a5b6f42961d432f0670ae6dc83586]: Textual amendment: Pt. 1 Ch. 6, 7 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [103](https://www.legislation.gov.uk/uksi/2014/3329/article/103)
+[^c-d24a5b6f42961d432f0670ae6dc83586]: Textual amendment: Pt. 1 Ch. 6, 7 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [103](https://www.legislation.gov.uk/uksi/2014/3329/article/103)

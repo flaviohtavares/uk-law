@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 358. Inspection of records of resolutions and meetings[^c18936921][^key-af3b3740d9ad3b17d6922bf158c73bb1][^key-c80521648cbe9dbb1e71b0339fe4b347]
+## 358. Inspection of records of resolutions and meetings[^c18936921][^c-af3b3740d9ad3b17d6922bf158c73bb1][^c-c80521648cbe9dbb1e71b0339fe4b347]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ unless they have at all times been kept at the company's registered office.
 
 [^c18936921]: Commencement: S. 358 wholly in force at 1.10.2007; s. 358 not in force at Royal Assent, see s. 1300; s. 358 in force for specified purposes at 20.1.2007 by [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/3) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) and with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5)); s. 358 in force at 1.10.2007 by [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2007/2194/article/2/1/f) (with saving in [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12) and subject to transitional adaptations specified in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/1))
 
-[^key-af3b3740d9ad3b17d6922bf158c73bb1]: Modification: [S. 358](https://www.legislation.gov.uk/ukpga/2006/46/section/358) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(a)(vi)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/a/vi)
+[^c-af3b3740d9ad3b17d6922bf158c73bb1]: Modification: [S. 358](https://www.legislation.gov.uk/ukpga/2006/46/section/358) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(a)(vi)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/a/vi)
 
-[^key-c80521648cbe9dbb1e71b0339fe4b347]: Modification: [S. 358](https://www.legislation.gov.uk/ukpga/2006/46/section/358) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-c80521648cbe9dbb1e71b0339fe4b347]: Modification: [S. 358](https://www.legislation.gov.uk/ukpga/2006/46/section/358) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)

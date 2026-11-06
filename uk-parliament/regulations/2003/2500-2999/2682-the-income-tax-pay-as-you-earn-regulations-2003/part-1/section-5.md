@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Excluded business expenses[^key-0d4bf1b872916d22af929539882328db]
+## 5. Excluded business expenses[^c-0d4bf1b872916d22af929539882328db]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d4bf1b872916d22af929539882328db]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/2682/regulation/5) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2015/1927/regulation/5)
+[^c-0d4bf1b872916d22af929539882328db]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/2682/regulation/5) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2015 (S.I. 2015/1927)](https://www.legislation.gov.uk/uksi/2015/1927), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1927/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2015/1927/regulation/5)

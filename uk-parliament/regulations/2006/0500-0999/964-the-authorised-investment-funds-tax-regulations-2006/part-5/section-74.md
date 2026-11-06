@@ -29,7 +29,7 @@ summary: ''
 
 - (a) the open-ended investment company in question;
 - (b) the trustees of the authorised unit trust in question;
-- (c) a participant who is beneficially entitled to an interest distribution or a TEF distribution (non-dividend)[^key-7a9888d2f719d013f4079c11f19be54d] made without deduction of tax to whom the information obtained relates;
+- (c) a participant who is beneficially entitled to an interest distribution or a TEF distribution (non-dividend)[^c-7a9888d2f719d013f4079c11f19be54d] made without deduction of tax to whom the information obtained relates;
 - (d) where the whole of an interest distribution or a TEF distribution (non-dividend) made to or received under a trust without deduction of tax is, or falls to be treated as, or under any provision of the Tax Acts is deemed to be, the income of a person other than the trustees of that trust, that person in so far as the information obtained relates to him; and
 - (e) where an interest distribution or a TEF distribution (non-dividend) is made to or received under a trust without deduction of tax and sub-paragraph (d) does not apply, the trustees of that trust and any beneficiary of the trust to whom the information obtained relates.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a9888d2f719d013f4079c11f19be54d]: Textual amendment: Words in [reg. 74(2)(c)](https://www.legislation.gov.uk/uksi/2006/964/regulation/74/2/c)[(d)](https://www.legislation.gov.uk/uksi/2006/964/regulation/74/2/d)[(e)](https://www.legislation.gov.uk/uksi/2006/964/regulation/74/2/e) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [29](https://www.legislation.gov.uk/uksi/2009/2036/regulation/29)
+[^c-7a9888d2f719d013f4079c11f19be54d]: Textual amendment: Words in [reg. 74(2)(c)](https://www.legislation.gov.uk/uksi/2006/964/regulation/74/2/c)[(d)](https://www.legislation.gov.uk/uksi/2006/964/regulation/74/2/d)[(e)](https://www.legislation.gov.uk/uksi/2006/964/regulation/74/2/e) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [29](https://www.legislation.gov.uk/uksi/2009/2036/regulation/29)
 
 [^c15459221]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26). Section 182(5) was amended by section 18(5) of the [Child Trust Funds Act 2004 (c. 6)](https://www.legislation.gov.uk/ukpga/2004/6).

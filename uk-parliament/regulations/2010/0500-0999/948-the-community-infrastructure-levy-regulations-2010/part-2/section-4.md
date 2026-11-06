@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Meaning of “owner” and “material interest”[^key-ab224e100352d8e768d35bc8efd0c835]
+## 4. Meaning of “owner” and “material interest”[^c-ab224e100352d8e768d35bc8efd0c835]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab224e100352d8e768d35bc8efd0c835]: Commencement: Reg. 4 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-ab224e100352d8e768d35bc8efd0c835]: Commencement: Reg. 4 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

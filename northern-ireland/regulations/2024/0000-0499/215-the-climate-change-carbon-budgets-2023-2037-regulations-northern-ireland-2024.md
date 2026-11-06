@@ -49,13 +49,13 @@ Before being laid before the Assembly, the Department—
 - (c) consulted in accordance with section 23(2)(c) of the Act; and
 - (d) requested, and took into account, advice from the Committee on Climate Change, in accordance with section 56(2) of the Act, and when seeking that advice gave due regard to the matters mentioned in section 23(3) of the Act.
 
-## 1. Citation and commencement[^key-a2bee802f9b126df1fb0ef2199e9fa9c]
+## 1. Citation and commencement[^c-a2bee802f9b126df1fb0ef2199e9fa9c]
 
 (1) These Regulations may be cited as the Climate Change (Carbon Budgets 2023-2037) Regulations (Northern Ireland) 2024.
 
 (2) These Regulations come into operation on the day after the day on which they are made.
 
-## 2. Carbon Budget[^key-adc377c7e550813d8ee2e522b56a4ed4]
+## 2. Carbon Budget[^c-adc377c7e550813d8ee2e522b56a4ed4]
 
 (1) The carbon budget for the 2023-2027 budgetary period is an annual average of 33% lower than the baseline.
 
@@ -83,6 +83,6 @@ A regulatory impact assessment has been produced for this Statutory Rule. Copies
 
 [^f00001]: Footnote: [2022 c. 31 (N.I.)](https://www.legislation.gov.uk/nia/2022/31)
 
-[^key-a2bee802f9b126df1fb0ef2199e9fa9c]: Commencement: Reg. 1 in operation at 12.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/215/regulation/1/2)
+[^c-a2bee802f9b126df1fb0ef2199e9fa9c]: Commencement: Reg. 1 in operation at 12.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/215/regulation/1/2)
 
-[^key-adc377c7e550813d8ee2e522b56a4ed4]: Commencement: Reg. 2 in operation at 12.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/215/regulation/1/2)
+[^c-adc377c7e550813d8ee2e522b56a4ed4]: Commencement: Reg. 2 in operation at 12.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/215/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Commencement[^key-c6807f2769d4f34290d1898898728938][^key-c6807f2769d4f34290d1898898728938]
+## 47. Commencement[^c-c6807f2769d4f34290d1898898728938][^c-c6807f2769d4f34290d1898898728938]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6807f2769d4f34290d1898898728938]: Commencement: S. 47 in force at 17.1.2024, see [s. 47(1)](https://www.legislation.gov.uk/asp/2024/1/section/47/1)
+[^c-c6807f2769d4f34290d1898898728938]: Commencement: S. 47 in force at 17.1.2024, see [s. 47(1)](https://www.legislation.gov.uk/asp/2024/1/section/47/1)

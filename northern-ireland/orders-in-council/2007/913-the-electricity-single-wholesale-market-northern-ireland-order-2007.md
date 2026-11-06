@@ -70,10 +70,10 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 23 o
 - “consumers” include both existing and future consumers;
 - “**the Department**” means the Department of Enterprise, Trade and Investment;
 - “**the Electricity Order**” means the Electricity (Northern Ireland) Order 1992 (NI 1);
-- “the Electricity Market Regulation” means Regulation[^key-1b042df037d135d4a177044ced5e3d70] [(EC) 714/2009](https://www.legislation.gov.uk/european/regulation/2009/0714) of the European Parliament and of the Council of 13 July 2009 on conditions for access to the network for cross-border exchanges in electricity;
+- “the Electricity Market Regulation” means Regulation[^c-1b042df037d135d4a177044ced5e3d70] [(EC) 714/2009](https://www.legislation.gov.uk/european/regulation/2009/0714) of the European Parliament and of the Council of 13 July 2009 on conditions for access to the network for cross-border exchanges in electricity;
 - “**the Energy Order**” means the Energy (Northern Ireland) Order 2003 (NI 6);
 - “**modifications**” includes additions, omissions, amendments and substitutions;
-- “the SEM” means the Single Electricity Market, that is to say the arrangements in Northern Ireland and Ireland—[^key-96beb50c47d94f9a522b60d65be9bb80]
+- “the SEM” means the Single Electricity Market, that is to say the arrangements in Northern Ireland and Ireland—[^c-96beb50c47d94f9a522b60d65be9bb80]
   - (a) initially described in the Memorandum of Understanding mentioned in paragraph (3);
   - (b) designed to promote the establishment and operation of a single competitive wholesale electricity market in Northern Ireland and Ireland; and
   - (c) which allow for the efficient application of the EU rules for cross border trade in electricity contained within or adopted pursuant to the Electricity Market Regulation as supplemented by—
@@ -97,7 +97,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by section 23 o
 
 (6) The Department may by order subject to negative resolution make such amendments to the definitions in paragraph (5) as appear to it to be necessary or expedient in consequence of any change in the law of Ireland.
 
-(7)[^key-9840a905c1dd00b3ca30fc6cd6ac8d0a] In this Order, any reference to the Electricity Market Regulation, to network codes established under Article 6 of that Regulation or to guidelines adopted under Article 18 of that Regulation shall be construed as references to those instruments as amended from time to time.
+(7)[^c-9840a905c1dd00b3ca30fc6cd6ac8d0a] In this Order, any reference to the Electricity Market Regulation, to network codes established under Article 6 of that Regulation or to guidelines adopted under Article 18 of that Regulation shall be construed as references to those instruments as amended from time to time.
 
 ## Licences
 
@@ -197,7 +197,7 @@ Schedule 1 (which makes provision about property arrangements schemes in respect
 - (b) a function under the Energy Order which relates to electricity;
 - (c) a function under Part IV of the Electricity Order 1992 (Amendment) Regulations (Northern Ireland) 2005 (SR 2005/ 335);
 - (d) a function under Article 3 or Schedule 1,
-- (e)[^key-11d5892eb655ebf9ca179958212b10a6] the function of giving directions under section 6(3) of the Energy Prices Act 2022;
+- (e)[^c-11d5892eb655ebf9ca179958212b10a6] the function of giving directions under section 6(3) of the Energy Prices Act 2022;
 - (f) a function under regulations made under section 11(1) of the Energy Prices Act 2022;
 
 other than a function which is mentioned in paragraph (5).
@@ -257,7 +257,7 @@ other than a function which is mentioned in paragraph (5).
 
 ## Objective and duties of Department, the Authority and SEM Committee
 
-### 9. Principal objective and duties of Department, the Authority and SEM Committee in relation to SEM[^c20528181][^key-27e95ec2d629d58a6b80f6fe1b43fe47][^key-4e19eacb2fbf241415125a8d0ce27a5f]
+### 9. Principal objective and duties of Department, the Authority and SEM Committee in relation to SEM[^c20528181][^c-27e95ec2d629d58a6b80f6fe1b43fe47][^c-4e19eacb2fbf241415125a8d0ce27a5f]
 
 (1) The principal objective of—
 
@@ -288,7 +288,7 @@ is to protect the interests of consumers of electricity in Northern Ireland and 
 (5) Subject to paragraph (2), in carrying out any of the functions mentioned in paragraph (1) the Department, the Authority and the SEM Committee shall have regard to—
 
 - (a) the effect on the environment in Northern Ireland and Ireland of the activities of authorised persons, and
-- (b) the need, where appropriate, to promote the use of renewable energy within the meaning of Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending[^key-f8bf13f3b1f777cb278a1ac76cec48b7] [Directive 2012/27/EU](https://www.legislation.gov.uk/eudr/2012/0027);.
+- (b) the need, where appropriate, to promote the use of renewable energy within the meaning of Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending[^c-f8bf13f3b1f777cb278a1ac76cec48b7] [Directive 2012/27/EU](https://www.legislation.gov.uk/eudr/2012/0027);.
 
 (6) In carrying out any of the functions mentioned in paragraph (1) the Department, the Authority and the SEM Committee shall not discriminate unfairly—
 
@@ -308,10 +308,10 @@ is to protect the interests of consumers of electricity in Northern Ireland and 
   - (b) functions under the Energy Order relating to electricity;
   - (c) functions under Part IV of the Electricity Order 1992 (Amendment) Regulations (Northern Ireland) 2005 (SR 2005/ 335); and
   - (d) functions under this Order;
-  - (e) functions under sections 5 and 6 of the Energy Prices Act 2022 (but only the functions under section 5 relating to electricity);[^key-2d0ba2a629069c2f7db853ff2430a4df]
+  - (e) functions under sections 5 and 6 of the Energy Prices Act 2022 (but only the functions under section 5 relating to electricity);[^c-2d0ba2a629069c2f7db853ff2430a4df]
   - (f) functions under regulations made under section 11(1) of the Energy Prices Act 2022;
 - “**environmental sustainability**” includes the need to guard against climate change; [^M_F_dbf8cec0-ba18-4680-f9d4-545b98f36be1]...
-- [^key-da958bc677ecda7b445a49c25744fb68]...
+- [^c-da958bc677ecda7b445a49c25744fb68]...
 
 (9) In relation to any time after the coming into operation of Article 3 but before the establishment of the SEM Committee, this Article has effect as if for paragraph (1)(b) there were substituted—
 
@@ -334,7 +334,7 @@ is to protect the interests of consumers of electricity in Northern Ireland and 
 
 or to anything done by the Authority in giving effect to that decision.
 
-(3) The SEM Committee may nevertheless, when taking a decision as to the exercise of any function of the Authority under Article 46(3) of the Electricity Order, have regard to any matter in respect of which a duty is imposed by Article 9 if it is a matter to which the Competition and Markets Authority[^key-612f9685f5a70d9f5d9fe46dbb7e8df9] could have regard when exercising that function.
+(3) The SEM Committee may nevertheless, when taking a decision as to the exercise of any function of the Authority under Article 46(3) of the Electricity Order, have regard to any matter in respect of which a duty is imposed by Article 9 if it is a matter to which the Competition and Markets Authority[^c-612f9685f5a70d9f5d9fe46dbb7e8df9] could have regard when exercising that function.
 
 (4) The duties imposed by Article 9 do not affect the obligation of the Authority or the Department to perform or comply with any other duty or requirement (whether arising under this Order or another statutory provision, by virtue of any Community obligation or otherwise).
 
@@ -592,18 +592,18 @@ Article 6
 
 (3) A CER member must be a member of CER.
 
-(3A)[^key-b6f6c9e567b0aecdbbf8321ee8fcb4cb] A person appointed as a member of the SEM Committee shall not—
+(3A)[^c-b6f6c9e567b0aecdbbf8321ee8fcb4cb] A person appointed as a member of the SEM Committee shall not—
 
-- (a) carry out any activity or have any financial or other interest that might compromise or might reasonably be seen to compromise that person’s impartiality; [^key-8b63a1ec0ddf0f9a38d8b56943e41caa]...
-- (b) seek or take any instructions from any person or body that might compromise or might reasonably be seen to compromise the independence of that person as a member of the SEM Committee;or[^key-07a904c6b487cddcde632d035c4eb2ea]
-- (c)[^key-85b8e9374349d8441b999d46e9706438] disclose information which is subject to a duty of confidentiality either while holding office or after holding office.
+- (a) carry out any activity or have any financial or other interest that might compromise or might reasonably be seen to compromise that person’s impartiality; [^c-8b63a1ec0ddf0f9a38d8b56943e41caa]...
+- (b) seek or take any instructions from any person or body that might compromise or might reasonably be seen to compromise the independence of that person as a member of the SEM Committee;or[^c-07a904c6b487cddcde632d035c4eb2ea]
+- (c)[^c-85b8e9374349d8441b999d46e9706438] disclose information which is subject to a duty of confidentiality either while holding office or after holding office.
 
 (4) The Department may, with the approval of the Irish Minister and after consultation with the Authority, appoint a person (“the deputy independent member”) who—
 
 - (a) may attend and take part in meetings of the SEM Committee; but
 - (b) may not vote on any matter except in the absence of the independent member.
 
-(5) Sub-paragraph (3A) and paragraphs 2, 3 and 4[^key-b5949c9bab963da755961ad041a7f83b] apply in relation to the deputy independent member as they apply in relation to the independent member.
+(5) Sub-paragraph (3A) and paragraphs 2, 3 and 4[^c-b5949c9bab963da755961ad041a7f83b] apply in relation to the deputy independent member as they apply in relation to the independent member.
 
 ### Terms of appointment, remuneration, pensions, etc.
 
@@ -611,13 +611,13 @@ Article 6
 
 (2) Those terms of appointment shall be determined by the Department with the approval of the Irish Minister.
 
-**3.** (1)[^key-ec6121b2990f1a42ec35f037676a4946] An appointment of a person as a member shall be for a term of not less than 5 years or for a term of not more than 7 years.
+**3.** (1)[^c-ec6121b2990f1a42ec35f037676a4946] An appointment of a person as a member shall be for a term of not less than 5 years or for a term of not more than 7 years.
 
 (1A) The appointment of a person as a member may only be renewed once.
 
 (1B) To ensure continuity of the functioning of the SEM Committee, the Department shall ensure that there is a rotation of the membership of the Committee and accordingly the Department shall appoint members so that their terms of office will not all expire at the same time.
 
-(1C)[^key-b4238ab446ce681fed5d7b9060b74214] No person shall be appointed as member except—
+(1C)[^c-b4238ab446ce681fed5d7b9060b74214] No person shall be appointed as member except—
 
 - (a) in accordance with the code and such other guidance as may be published from time to time under Article 3(2) of the Commissioner for Public Appointments (Northern Ireland) Order 1995; and
 - (b) on the basis of the application of objective, transparent and published criteria which ensures that the candidate has the necessary skills and experience for the relevant position.
@@ -630,14 +630,14 @@ Article 6
 
 - (a) may be removed from office by the Department—
   - (i) on the ground of incapacity or misbehaviour; or
-  - (ii)[^key-ebc725f89711213d01bb4559f1b25f18] for breach of paragraph 1(3A);
+  - (ii)[^c-ebc725f89711213d01bb4559f1b25f18] for breach of paragraph 1(3A);
 - (b) shall cease to hold office if he ceases to be either a member of, or a member of the staff of, the Authority.
 
 (5) A CER member—
 
 - (a) may be removed from office by the Department with the approval of the Irish Minister—
   - (i) on the ground of incapacity or misbehaviour; or
-  - (ii)[^key-c7bb893226eaee08799fbffff3ca0c8f] for breach of paragraph 1(3A);
+  - (ii)[^c-c7bb893226eaee08799fbffff3ca0c8f] for breach of paragraph 1(3A);
 - (b) shall cease to hold office if he ceases to be a member of CER.
 
 (6) A previous appointment as a member does not affect a person's eligibility for appointment to that office.
@@ -952,13 +952,13 @@ This Order makes provision for giving effect to the agreement between Her Majest
 
 [^c20526721]: Subordinate legislation: [Art. 1(3)](https://www.legislation.gov.uk/nisi/2007/913/article/1/3) power partly exercised: 5.5.2007 appointed for specified provisions by [S.R. 2007/284](https://www.legislation.gov.uk/nisr/2007/284), [art. 2](https://www.legislation.gov.uk/nisr/2007/284/article/2), [Sch](https://www.legislation.gov.uk/nisr/2007/284/schedule); 20.6.2007 appointed for specified provisions by [S.R. 2007/303](https://www.legislation.gov.uk/nisr/2007/303), [art. 2](https://www.legislation.gov.uk/nisr/2007/303/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/303/schedule); 1.11.2007 appointed for specified provisions by [S.R. 2007/444](https://www.legislation.gov.uk/nisr/2007/444), [art. 2](https://www.legislation.gov.uk/nisr/2007/444/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/444/schedule/1)
 
-[^key-1b042df037d135d4a177044ced5e3d70]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2007/913/article/2/2) inserted (31.3.2016) by [The Electricity (Single Wholesale Market) Order (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/129)](https://www.legislation.gov.uk/nisr/2016/129), [regs. 1](https://www.legislation.gov.uk/nisr/2016/129/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2016/129/regulation/4/a)
+[^c-1b042df037d135d4a177044ced5e3d70]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2007/913/article/2/2) inserted (31.3.2016) by [The Electricity (Single Wholesale Market) Order (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/129)](https://www.legislation.gov.uk/nisr/2016/129), [regs. 1](https://www.legislation.gov.uk/nisr/2016/129/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2016/129/regulation/4/a)
 
-[^key-96beb50c47d94f9a522b60d65be9bb80]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2007/913/article/2/2) substituted (31.3.2016) by [The Electricity (Single Wholesale Market) Order (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/129)](https://www.legislation.gov.uk/nisr/2016/129), [regs. 1](https://www.legislation.gov.uk/nisr/2016/129/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2016/129/regulation/4/b)
+[^c-96beb50c47d94f9a522b60d65be9bb80]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/2007/913/article/2/2) substituted (31.3.2016) by [The Electricity (Single Wholesale Market) Order (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/129)](https://www.legislation.gov.uk/nisr/2016/129), [regs. 1](https://www.legislation.gov.uk/nisr/2016/129/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2016/129/regulation/4/b)
 
 [^c20526161]: Textual amendment: Art. 2(5): definition of "the Irish Minister" substituted (30.10.2007) by [Electricity (Single Wholesale Market) (Amendment) Order (Northern Ireland) 2007 (S.R. 2007/458)](https://www.legislation.gov.uk/nisr/2007/458), [art. 2](https://www.legislation.gov.uk/nisr/2007/458/article/2)
 
-[^key-9840a905c1dd00b3ca30fc6cd6ac8d0a]: Textual amendment: [Art. 2(7)](https://www.legislation.gov.uk/nisi/2007/913/article/2/7) inserted (31.3.2016) by [The Electricity (Single Wholesale Market) Order (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/129)](https://www.legislation.gov.uk/nisr/2016/129), [regs. 1](https://www.legislation.gov.uk/nisr/2016/129/regulation/1), [5](https://www.legislation.gov.uk/nisr/2016/129/regulation/5)
+[^c-9840a905c1dd00b3ca30fc6cd6ac8d0a]: Textual amendment: [Art. 2(7)](https://www.legislation.gov.uk/nisi/2007/913/article/2/7) inserted (31.3.2016) by [The Electricity (Single Wholesale Market) Order (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/129)](https://www.legislation.gov.uk/nisr/2016/129), [regs. 1](https://www.legislation.gov.uk/nisr/2016/129/regulation/1), [5](https://www.legislation.gov.uk/nisr/2016/129/regulation/5)
 
 [^c21466531]: Textual amendment: Words in [art. 3(10)](https://www.legislation.gov.uk/nisi/2007/913/article/3/10) substituted (1.10.2009) by [Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [Sch. 1 para. 268](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/268) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
@@ -966,44 +966,44 @@ This Order makes provision for giving effect to the agreement between Her Majest
 
 [^c20528701]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisi/2007/913/article/6) partly in operation; [art. 6](https://www.legislation.gov.uk/nisi/2007/913/article/6) not in operation at date of making see [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/913/article/1/3); [art. 6](https://www.legislation.gov.uk/nisi/2007/913/article/6) in operation for certain purposes at 1.11.2007 by [S.R. 2007/444](https://www.legislation.gov.uk/nisr/2007/444), [art. 2](https://www.legislation.gov.uk/nisr/2007/444/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/444/schedule/1)
 
-[^key-11d5892eb655ebf9ca179958212b10a6]: Textual amendment: [Art. 6(4)(e)](https://www.legislation.gov.uk/nisi/2007/913/article/6/4/e)[(f)](https://www.legislation.gov.uk/nisi/2007/913/article/6/4/f) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/14) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-11d5892eb655ebf9ca179958212b10a6]: Textual amendment: [Art. 6(4)(e)](https://www.legislation.gov.uk/nisi/2007/913/article/6/4/e)[(f)](https://www.legislation.gov.uk/nisi/2007/913/article/6/4/f) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/14) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
 [^c20528181]: Commencement: Art. 9 wholly in operation at 1.11.2007; art. 9 not in operation at date of making see art. 1(3); art. 9 in operation for specified purposes at 20.6.2007 by [S.R. 2007/303](https://www.legislation.gov.uk/nisr/2007/303), [art. 2](https://www.legislation.gov.uk/nisr/2007/303/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/303/schedule); art. 9 in operation at 1.11.2007 for all remaining purposes by [S.R. 2007/444](https://www.legislation.gov.uk/nisr/2007/444), [art. 2](https://www.legislation.gov.uk/nisr/2007/444/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/444/schedule/1)
 
-[^key-27e95ec2d629d58a6b80f6fe1b43fe47]: Modification: Art. 9 modifed by S.I. 2003/419 (N.I. 6), art. 13(1A)(1B) (as substituted for (1A) (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [5](https://www.legislation.gov.uk/nisr/2013/92/regulation/5))
+[^c-27e95ec2d629d58a6b80f6fe1b43fe47]: Modification: Art. 9 modifed by S.I. 2003/419 (N.I. 6), art. 13(1A)(1B) (as substituted for (1A) (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [5](https://www.legislation.gov.uk/nisr/2013/92/regulation/5))
 
-[^key-4e19eacb2fbf241415125a8d0ce27a5f]: Modification: Art. 9 excluded by S.I. 2003/419 (N.I. 6), art. 8A(4) (as substituted (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [4](https://www.legislation.gov.uk/nisr/2013/92/regulation/4))
+[^c-4e19eacb2fbf241415125a8d0ce27a5f]: Modification: Art. 9 excluded by S.I. 2003/419 (N.I. 6), art. 8A(4) (as substituted (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [4](https://www.legislation.gov.uk/nisr/2013/92/regulation/4))
 
-[^key-f8bf13f3b1f777cb278a1ac76cec48b7]: Textual amendment: Words in art. 9(5)(b) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [33(a)](https://www.legislation.gov.uk/nisr/2020/307/regulation/33/a)
+[^c-f8bf13f3b1f777cb278a1ac76cec48b7]: Textual amendment: Words in art. 9(5)(b) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [33(a)](https://www.legislation.gov.uk/nisr/2020/307/regulation/33/a)
 
-[^key-2d0ba2a629069c2f7db853ff2430a4df]: Textual amendment: Words in [art. 9(8)](https://www.legislation.gov.uk/nisi/2007/913/article/9/8) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/15) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-2d0ba2a629069c2f7db853ff2430a4df]: Textual amendment: Words in [art. 9(8)](https://www.legislation.gov.uk/nisi/2007/913/article/9/8) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/15) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
 [^M_F_dbf8cec0-ba18-4680-f9d4-545b98f36be1]: Textual amendment: Word in art. 9(8) omitted (31.12.2020) by virtue of [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [33(b)](https://www.legislation.gov.uk/nisr/2020/307/regulation/33/b)
 
-[^key-da958bc677ecda7b445a49c25744fb68]: Textual amendment: Words in art. 9(8) omitted (31.12.2020) by virtue of [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [33(b)](https://www.legislation.gov.uk/nisr/2020/307/regulation/33/b)
+[^c-da958bc677ecda7b445a49c25744fb68]: Textual amendment: Words in art. 9(8) omitted (31.12.2020) by virtue of [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [33(b)](https://www.legislation.gov.uk/nisr/2020/307/regulation/33/b)
 
 [^c20528261]: Commencement: Art. 10 partly in operation; art. 10 not in operation at date of making see art. 1(3); art. 10(1) in operation at 20.6.2007 and art. 10(4) in operation for specified purposes at 20.6.2007 by [S.R. 2007/303](https://www.legislation.gov.uk/nisr/2007/303), [art. 2](https://www.legislation.gov.uk/nisr/2007/303/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/303/schedule); art. 10(2)(3) in operation at 1.11.2007 by [S.R. 2007/444](https://www.legislation.gov.uk/nisr/2007/444), [art. 2](https://www.legislation.gov.uk/nisr/2007/444/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/444/schedule/1)
 
-[^key-612f9685f5a70d9f5d9fe46dbb7e8df9]: Textual amendment: Words in [art. 10(3)](https://www.legislation.gov.uk/nisi/2007/913/article/10/3) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 258](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/258) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-612f9685f5a70d9f5d9fe46dbb7e8df9]: Textual amendment: Words in [art. 10(3)](https://www.legislation.gov.uk/nisi/2007/913/article/10/3) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 258](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/258) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
 [^c20526691]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisi/2007/913/article/12) partly in operation; [art. 12](https://www.legislation.gov.uk/nisi/2007/913/article/12) not in operation at date of making see [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/913/article/1/3); [art. 12](https://www.legislation.gov.uk/nisi/2007/913/article/12) in operation for specified purposes at 5.5.2007 by [S.R. 2007/284](https://www.legislation.gov.uk/nisr/2007/284), [art. 2](https://www.legislation.gov.uk/nisr/2007/284/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/284/schedule); [art. 12](https://www.legislation.gov.uk/nisi/2007/913/article/12) in operation for specified purposes at 20.6.2007 by [S.R. 2007/303](https://www.legislation.gov.uk/nisr/2007/303), [art. 2](https://www.legislation.gov.uk/nisr/2007/303/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/303/schedule); [art. 12](https://www.legislation.gov.uk/nisi/2007/913/article/12) in operation for specified purposes at 1.11.2007 by [S.R. 2007/444](https://www.legislation.gov.uk/nisr/2007/444), [art. 2](https://www.legislation.gov.uk/nisr/2007/444/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/444/schedule/1)
 
-[^key-b6f6c9e567b0aecdbbf8321ee8fcb4cb]: Textual amendment: Sch. 2 para. 1(3A) inserted (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [7](https://www.legislation.gov.uk/nisr/2013/92/regulation/7)
+[^c-b6f6c9e567b0aecdbbf8321ee8fcb4cb]: Textual amendment: Sch. 2 para. 1(3A) inserted (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [7](https://www.legislation.gov.uk/nisr/2013/92/regulation/7)
 
-[^key-8b63a1ec0ddf0f9a38d8b56943e41caa]: Textual amendment: Word in Sch. 2 para. 1(3A) omitted (31.12.2020) by virtue of [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [34(a)(i)](https://www.legislation.gov.uk/nisr/2020/307/regulation/34/a/i)
+[^c-8b63a1ec0ddf0f9a38d8b56943e41caa]: Textual amendment: Word in Sch. 2 para. 1(3A) omitted (31.12.2020) by virtue of [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [34(a)(i)](https://www.legislation.gov.uk/nisr/2020/307/regulation/34/a/i)
 
-[^key-07a904c6b487cddcde632d035c4eb2ea]: Textual amendment: Word in Sch. 2 para. 1(3A)(b) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [34(a)(ii)](https://www.legislation.gov.uk/nisr/2020/307/regulation/34/a/ii)
+[^c-07a904c6b487cddcde632d035c4eb2ea]: Textual amendment: Word in Sch. 2 para. 1(3A)(b) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [34(a)(ii)](https://www.legislation.gov.uk/nisr/2020/307/regulation/34/a/ii)
 
-[^key-85b8e9374349d8441b999d46e9706438]: Textual amendment: Sch. 2 para. 1(3A)(c) added (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [34(a)(ii)](https://www.legislation.gov.uk/nisr/2020/307/regulation/34/a/ii)
+[^c-85b8e9374349d8441b999d46e9706438]: Textual amendment: Sch. 2 para. 1(3A)(c) added (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [34(a)(ii)](https://www.legislation.gov.uk/nisr/2020/307/regulation/34/a/ii)
 
-[^key-b5949c9bab963da755961ad041a7f83b]: Textual amendment: Words in Sch. 2 para. 1(5) substituted (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [8](https://www.legislation.gov.uk/nisr/2013/92/regulation/8)
+[^c-b5949c9bab963da755961ad041a7f83b]: Textual amendment: Words in Sch. 2 para. 1(5) substituted (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [8](https://www.legislation.gov.uk/nisr/2013/92/regulation/8)
 
-[^key-ec6121b2990f1a42ec35f037676a4946]: Textual amendment: Sch. 2 para. 3(1)(1A)(1B) substituted for Sch. 2 para. 3(1) (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [9](https://www.legislation.gov.uk/nisr/2013/92/regulation/9)
+[^c-ec6121b2990f1a42ec35f037676a4946]: Textual amendment: Sch. 2 para. 3(1)(1A)(1B) substituted for Sch. 2 para. 3(1) (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [9](https://www.legislation.gov.uk/nisr/2013/92/regulation/9)
 
-[^key-b4238ab446ce681fed5d7b9060b74214]: Textual amendment: [Sch. 2 para. 3(1C)](https://www.legislation.gov.uk/nisi/2007/913/schedule/2/paragraph/3/1C) inserted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [34(b)](https://www.legislation.gov.uk/nisr/2020/307/regulation/34/b)
+[^c-b4238ab446ce681fed5d7b9060b74214]: Textual amendment: [Sch. 2 para. 3(1C)](https://www.legislation.gov.uk/nisi/2007/913/schedule/2/paragraph/3/1C) inserted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [34(b)](https://www.legislation.gov.uk/nisr/2020/307/regulation/34/b)
 
-[^key-ebc725f89711213d01bb4559f1b25f18]: Textual amendment: Sch. 2 para. 3(4)(a)(ii) substituted (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [10](https://www.legislation.gov.uk/nisr/2013/92/regulation/10)
+[^c-ebc725f89711213d01bb4559f1b25f18]: Textual amendment: Sch. 2 para. 3(4)(a)(ii) substituted (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [10](https://www.legislation.gov.uk/nisr/2013/92/regulation/10)
 
-[^key-c7bb893226eaee08799fbffff3ca0c8f]: Textual amendment: Sch. 2 para. 3(5)(a)(ii) substituted (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [10](https://www.legislation.gov.uk/nisr/2013/92/regulation/10)
+[^c-c7bb893226eaee08799fbffff3ca0c8f]: Textual amendment: Sch. 2 para. 3(5)(a)(ii) substituted (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [10](https://www.legislation.gov.uk/nisr/2013/92/regulation/10)
 
 [^c20528371]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/nisi/2007/913/schedule/4/paragraph/6) wholly in operation at 1.11.2007; [Sch. 4 para. 6](https://www.legislation.gov.uk/nisi/2007/913/schedule/4/paragraph/6) not in operation at date of making see [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/913/article/1/3); [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/nisi/2007/913/schedule/4/paragraph/6/2) in operation at 20.6.2007 by [S.R. 2007/303](https://www.legislation.gov.uk/nisr/2007/303), [art. 2](https://www.legislation.gov.uk/nisr/2007/303/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/303/schedule); [Sch. 4 para. 6(1)](https://www.legislation.gov.uk/nisi/2007/913/schedule/4/paragraph/6/1) in operation at 1.11.2007 by [S.R. 2007/444](https://www.legislation.gov.uk/nisr/2007/444), [art. 2](https://www.legislation.gov.uk/nisr/2007/444/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2007/444/schedule/1)

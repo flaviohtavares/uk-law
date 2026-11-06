@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Power to charge[^key-ef54fcec0a483c5b3b06e819114c17d4]
+## 22. Power to charge[^c-ef54fcec0a483c5b3b06e819114c17d4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker may from time to time demand, take and recover such charges for t
 
 ## Annotations
 
-[^key-ef54fcec0a483c5b3b06e819114c17d4]: Commencement: Art. 22 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-ef54fcec0a483c5b3b06e819114c17d4]: Commencement: Art. 22 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

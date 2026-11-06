@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Remote sale or hire of sunbeds[^key-7e23fa0df863ef5f2667856be44f8ee8]
+## 97. Remote sale or hire of sunbeds[^c-7e23fa0df863ef5f2667856be44f8ee8]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ the sale or hire is to be treated, for the purposes of section 96, as taking pla
 
 ## Annotations
 
-[^key-7e23fa0df863ef5f2667856be44f8ee8]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2008/5/section/97) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)
+[^c-7e23fa0df863ef5f2667856be44f8ee8]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2008/5/section/97) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)

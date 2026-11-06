@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Release of vessel detained under section 36[^key-aa4939b4a25a83ee73e7c12388043ce4]
+## 37. Release of vessel detained under section 36[^c-aa4939b4a25a83ee73e7c12388043ce4]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa4939b4a25a83ee73e7c12388043ce4]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2013/7/section/37) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-aa4939b4a25a83ee73e7c12388043ce4]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2013/7/section/37) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113A. Statutory sick pay and statutory maternity pay: breach of regulations[^key-ba03b83acbf0656a37410cce957a4952]
+## 113A. Statutory sick pay and statutory maternity pay: breach of regulations[^c-ba03b83acbf0656a37410cce957a4952]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ that person is liable to the penalties mentioned in subsection (2).
 
 ## Annotations
 
-[^key-ba03b83acbf0656a37410cce957a4952]: Textual amendment: Ss. 113A, 113B inserted (6.4.2005) by [National Insurance Contributions and Statutory Payments Act 2004 (c. 3)](https://www.legislation.gov.uk/ukpga/2004/3), [ss. 9(5)](https://www.legislation.gov.uk/ukpga/2004/3/section/9/5), [13](https://www.legislation.gov.uk/ukpga/2004/3/section/13); [S.I. 2004/1943](https://www.legislation.gov.uk/uksi/2004/1943), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/1943/article/4/c)
+[^c-ba03b83acbf0656a37410cce957a4952]: Textual amendment: Ss. 113A, 113B inserted (6.4.2005) by [National Insurance Contributions and Statutory Payments Act 2004 (c. 3)](https://www.legislation.gov.uk/ukpga/2004/3), [ss. 9(5)](https://www.legislation.gov.uk/ukpga/2004/3/section/9/5), [13](https://www.legislation.gov.uk/ukpga/2004/3/section/13); [S.I. 2004/1943](https://www.legislation.gov.uk/uksi/2004/1943), [art. 4(c)](https://www.legislation.gov.uk/uksi/2004/1943/article/4/c)

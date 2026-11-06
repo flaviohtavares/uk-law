@@ -39,7 +39,7 @@ summary: ''
 
 (3) [^c20027821]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-cf4af0dae2384cab7bdfbbb5936f7104] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cf4af0dae2384cab7bdfbbb5936f7104] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 29 of the Police (Northern Ireland) Act 1998 (c. 32) (liability for wrongful acts of constables), after subsection (5) there shall be inserted—
 
@@ -65,7 +65,7 @@ summary: ''
 
 the Secretary of State shall pay into that fund or (as the case may be) to that Chief Constable the sums received by him by way of reimbursement.
 
-(7)[^key-53bf58455dd72fdc719375a05b3bb998] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-53bf58455dd72fdc719375a05b3bb998] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -73,8 +73,8 @@ the Secretary of State shall pay into that fund or (as the case may be) to that 
 
 [^c20027821]: Textual amendment: S. 103(2)(3) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/15/section/59), [174](https://www.legislation.gov.uk/ukpga/2005/15/section/174), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 4 para. 189(2)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/189/2), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [12](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/12), [13(oo)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/oo) (subject to [art. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
 
-[^key-cf4af0dae2384cab7bdfbbb5936f7104]: Textual amendment: S. 103(4) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/39/3)
+[^c-cf4af0dae2384cab7bdfbbb5936f7104]: Textual amendment: S. 103(4) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/39/3)
 
 [^c20027861]: Textual amendment: Words in s. 103(6) repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/15/section/59), [174](https://www.legislation.gov.uk/ukpga/2005/15/section/174), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 4 para. 189(3)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/189/3), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [12](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/12), [13(oo)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/oo) (subject to [art. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
 
-[^key-53bf58455dd72fdc719375a05b3bb998]: Textual amendment: S. 103(7) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/39/3)
+[^c-53bf58455dd72fdc719375a05b3bb998]: Textual amendment: S. 103(7) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 39(3)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/39/3)

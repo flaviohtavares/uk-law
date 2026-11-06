@@ -48,144 +48,144 @@ on the list of aircraft operators which performed an aviation activity listed in
 
 (Text with EEA relevance) (revoked)
 
-[^key-80a551a790e21e20be8e30ce696782ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80a551a790e21e20be8e30ce696782ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-80a551a790e21e20be8e30ce696782ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-80a551a790e21e20be8e30ce696782ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-80a551a790e21e20be8e30ce696782ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-80a551a790e21e20be8e30ce696782ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80a551a790e21e20be8e30ce696782ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-80a551a790e21e20be8e30ce696782ee]
+## ANNEX[^c-80a551a790e21e20be8e30ce696782ee]
 
-[^key-80a551a790e21e20be8e30ce696782ee] **BELGIUM**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-80a551a790e21e20be8e30ce696782ee] **BULGARIA**
+[^c-80a551a790e21e20be8e30ce696782ee] **BELGIUM**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **CZECHIA**
+[^c-80a551a790e21e20be8e30ce696782ee] **BULGARIA**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **DENMARK**
+[^c-80a551a790e21e20be8e30ce696782ee] **CZECHIA**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **GERMANY**
+[^c-80a551a790e21e20be8e30ce696782ee] **DENMARK**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **ESTONIA**
+[^c-80a551a790e21e20be8e30ce696782ee] **GERMANY**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **IRELAND**
+[^c-80a551a790e21e20be8e30ce696782ee] **ESTONIA**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **GREECE**
+[^c-80a551a790e21e20be8e30ce696782ee] **IRELAND**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **SPAIN**
+[^c-80a551a790e21e20be8e30ce696782ee] **GREECE**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **FRANCE**
+[^c-80a551a790e21e20be8e30ce696782ee] **SPAIN**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **CROATIA**
+[^c-80a551a790e21e20be8e30ce696782ee] **FRANCE**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **ITALY**
+[^c-80a551a790e21e20be8e30ce696782ee] **CROATIA**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **CYPRUS**
+[^c-80a551a790e21e20be8e30ce696782ee] **ITALY**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **LATVIA**
+[^c-80a551a790e21e20be8e30ce696782ee] **CYPRUS**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **LITHUANIA**
+[^c-80a551a790e21e20be8e30ce696782ee] **LATVIA**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **LUXEMBOURG**
+[^c-80a551a790e21e20be8e30ce696782ee] **LITHUANIA**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **HUNGARY**
+[^c-80a551a790e21e20be8e30ce696782ee] **LUXEMBOURG**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **MALTA**
+[^c-80a551a790e21e20be8e30ce696782ee] **HUNGARY**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **NETHERLANDS**
+[^c-80a551a790e21e20be8e30ce696782ee] **MALTA**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **AUSTRIA**
+[^c-80a551a790e21e20be8e30ce696782ee] **NETHERLANDS**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **POLAND**
+[^c-80a551a790e21e20be8e30ce696782ee] **AUSTRIA**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **PORTUGAL**
+[^c-80a551a790e21e20be8e30ce696782ee] **POLAND**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **ROMANIA**
+[^c-80a551a790e21e20be8e30ce696782ee] **PORTUGAL**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **SLOVENIA**
+[^c-80a551a790e21e20be8e30ce696782ee] **ROMANIA**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **SLOVAKIA**
+[^c-80a551a790e21e20be8e30ce696782ee] **SLOVENIA**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **FINLAND**
+[^c-80a551a790e21e20be8e30ce696782ee] **SLOVAKIA**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **SWEDEN**
+[^c-80a551a790e21e20be8e30ce696782ee] **FINLAND**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **UNITED KINGDOM**
+[^c-80a551a790e21e20be8e30ce696782ee] **SWEDEN**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **ICELAND**
+[^c-80a551a790e21e20be8e30ce696782ee] **UNITED KINGDOM**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **NORWAY**
+[^c-80a551a790e21e20be8e30ce696782ee] **ICELAND**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80a551a790e21e20be8e30ce696782ee] **SWITZERLAND**
+[^c-80a551a790e21e20be8e30ce696782ee] **NORWAY**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-80a551a790e21e20be8e30ce696782ee] **SWITZERLAND**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-80a551a790e21e20be8e30ce696782ee]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-80a551a790e21e20be8e30ce696782ee]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

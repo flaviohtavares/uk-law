@@ -63,7 +63,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** The best available techniques (BAT) conclusions for large combustion plants, as set out in the Annex, are adopted.
 
-## Article 2. Application and Interpretation[^key-e14b00f55b97c294e72db406ad8b3cb1]
+## Article 2. Application and Interpretation[^c-e14b00f55b97c294e72db406ad8b3cb1]
 
 (1.) The BAT conclusions referred to in Article 1 apply in the United Kingdom but not in so far as they relate to an activity that comes within the scope of a NI Protocol obligation.
 
@@ -2921,7 +2921,7 @@ DESCRIPTION OF TECHNIQUES
 
 [^f00002]: Footnote: [OJ C 146, 17.5.2011, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2011.146.01.0003.01.ENG).
 
-[^key-e14b00f55b97c294e72db406ad8b3cb1]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2017/1442/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [20(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/20/2) (as amended by [S.I. 2020/1352](https://www.legislation.gov.uk/uksi/2020/1352), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1352/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1352/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e14b00f55b97c294e72db406ad8b3cb1]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2017/1442/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [20(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/20/2) (as amended by [S.I. 2020/1352](https://www.legislation.gov.uk/uksi/2020/1352), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1352/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1352/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: Commission Implementing Decision 2012/249/EU of 7 May 2012 concerning the determination of start-up and shut-down periods for the purposes of Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions ([OJ L 123, 9.5.2012, p. 44](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.123.01.0044.01.ENG)).
 

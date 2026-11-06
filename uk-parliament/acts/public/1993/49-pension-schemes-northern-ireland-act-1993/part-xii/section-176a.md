@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176A. Interpretation of references to money purchase contracted-out schemes or appropriate schemes after abolition date[^key-2598a0160d8d5c80b6cbce16ffe63e7c]
+## 176A. Interpretation of references to money purchase contracted-out schemes or appropriate schemes after abolition date[^c-2598a0160d8d5c80b6cbce16ffe63e7c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2598a0160d8d5c80b6cbce16ffe63e7c]: Textual amendment: S. 176A repealed (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 43](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/43)
+[^c-2598a0160d8d5c80b6cbce16ffe63e7c]: Textual amendment: S. 176A repealed (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 43](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/43)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Powers and duties of the court[^key-8ccc0f513069f9f8175ca2bbd7cee143]
+## 103. Powers and duties of the court[^c-8ccc0f513069f9f8175ca2bbd7cee143]
 
 *Extent: S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ccc0f513069f9f8175ca2bbd7cee143]: Commencement: [Reg. 103](https://www.legislation.gov.uk/ssi/2016/49/regulation/103) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-8ccc0f513069f9f8175ca2bbd7cee143]: Commencement: [Reg. 103](https://www.legislation.gov.uk/ssi/2016/49/regulation/103) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
 [^f00045]: Footnote: [1947 c.44](https://www.legislation.gov.uk/ukpga/1947/44).

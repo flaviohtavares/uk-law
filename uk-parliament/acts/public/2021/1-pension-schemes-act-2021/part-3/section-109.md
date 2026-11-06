@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Pensions Act 2004 is amended as follows.
 
-(2)[^key-9318037a9e65ba98a4b92280e1c24b05] After section 69 insert—
+(2)[^c-9318037a9e65ba98a4b92280e1c24b05] After section 69 insert—
 
 > **69A. Duty to give notices and statements to the Regulator in respect of certain events**
 >
@@ -94,4 +94,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9318037a9e65ba98a4b92280e1c24b05]: Commencement: [S. 109(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/109/2) in force at 31.5.2021 for specified purposes by [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/b)
+[^c-9318037a9e65ba98a4b92280e1c24b05]: Commencement: [S. 109(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/109/2) in force at 31.5.2021 for specified purposes by [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/b)

@@ -66,8 +66,8 @@ The Secretary of State, being a Minister designated [^c5088891] for the purposes
 
 In these Regulations—
 
-- “**the Directive**” means Directive [2000/53/EC](https://www.legislation.gov.uk/eudr/2000/53) of the European Parliament and of the Council on end-of-life vehicles, as last amended by[^key-d943af523e29833c8f90238911f2a5a7] Commission Delegated Directive (EU) 2020/363[^key-efe1dd11b7cbf6d5193123d2bf19d7a6];
-- “authorised treatment facility” means any establishment or undertaking carrying out treatment operations which holds—[^key-6b34c51108d9a4a98bb2375836d160a7]
+- “**the Directive**” means Directive [2000/53/EC](https://www.legislation.gov.uk/eudr/2000/53) of the European Parliament and of the Council on end-of-life vehicles, as last amended by[^c-d943af523e29833c8f90238911f2a5a7] Commission Delegated Directive (EU) 2020/363[^c-efe1dd11b7cbf6d5193123d2bf19d7a6];
+- “authorised treatment facility” means any establishment or undertaking carrying out treatment operations which holds—[^c-6b34c51108d9a4a98bb2375836d160a7]
   - (a) in England or Wales, an environmental permit authorising those operations granted under regulation 13(1) of the Environmental Permitting (England and Wales) Regulations 2016;
   - (b) in Scotland, a site licence that complies with the relevant provisions of regulation 3 to 6 of the End-of-Life Vehicles (Storage and Treatment) (Scotland) Regulations 2003 or a permit issued under regulation 13 of the Pollution Prevention and Control (Scotland) Regulations 2012;
   - (c) in Northern Ireland—
@@ -77,27 +77,27 @@ In these Regulations—
 - “**certificate of destruction**” means the certificate referred to in Part V of these Regulations;
 - “**compliance notice**” means a notice in writing served in accordance with regulation 9 or 21, as the case may be;
 - “**dismantling information**” means all information required for the correct and environmentally sound treatment of end-of-life vehicles;
-- “an[^key-492261a60be9bfddeee792e9166afd3e] EEA State” has the meaning given by Schedule 1 to the Interpretation Act 1978;
-- “**end-of-life vehicle**” means a vehicle which is waste within the meaning of Article 3(1)[^key-68060adb074c3e491dacc6cb2582014e] of the Waste Directive , as read with Articles 5 and 6 of that Directive[^key-ddfaea853bb85a10586102e9399c2010];
-- “enforcement authority” means any person mentioned in regulation 25;[^key-d61786a011f1eafe7c2aba70f8069d2d]
+- “an[^c-492261a60be9bfddeee792e9166afd3e] EEA State” has the meaning given by Schedule 1 to the Interpretation Act 1978;
+- “**end-of-life vehicle**” means a vehicle which is waste within the meaning of Article 3(1)[^c-68060adb074c3e491dacc6cb2582014e] of the Waste Directive , as read with Articles 5 and 6 of that Directive[^c-ddfaea853bb85a10586102e9399c2010];
+- “enforcement authority” means any person mentioned in regulation 25;[^c-d61786a011f1eafe7c2aba70f8069d2d]
 - “enforcement officer”, in relation to an enforcement authority, means a person authorised in writing to assist the authority in carrying out its functions under or for the purposes of the enforcement of these Regulations, except in relation to an enforcement authority which is a government department where it means an officer of that department;
-- “hazardous substance” means any substance which fulfils the criteria for any of the following hazard classes or categories set out in Annex I of Regulation[^key-81673a34a08b59ae31c818500a600484] [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council of 16th December 2008 on classification, labelling and packaging of substances and mixtures—
+- “hazardous substance” means any substance which fulfils the criteria for any of the following hazard classes or categories set out in Annex I of Regulation[^c-81673a34a08b59ae31c818500a600484] [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council of 16th December 2008 on classification, labelling and packaging of substances and mixtures—
   - hazard classes 2.1 to 2.4, 2.6 and 2.7, 2.8 types A and B, 2.9, 2.10, 2.12, 2.13 categories 1 and 2, 2.14 categories 1 and 2, 2.15 types A to F;
   - hazard classes 3.1 to 3.6, 3.7 adverse effects on sexual function and fertility or on development, 3.8 effects other than narcotic effects, 3.9 and 3.10;
   - hazard class 4.1; and
   - hazard class 5.1;
 - “**prevention**” means measures aiming at the reduction of the quantity and the harmfulness for the environment of end-of-life vehicles, their materials and substances;
-- “**producer**” means the vehicle manufacturer or the professional importer of a vehicle into the United Kingdom[^key-bb1b2fc3b77e7edc8ffbde7e54c57eed];
-- “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-a52a7a2cff501bd4e562d2a17f8de3db]**recovery *(Extent: E+W)* *(affected by repeal, see note)*[^key-a52a7a2cff501bd4e562d2a17f8de3db]**” means any of the applicable operations provided for in *(Extent: E+W)* *(affected by repeal, see note)*[^key-a52a7a2cff501bd4e562d2a17f8de3db] Annex 2[^key-2ea5dd7b516bf0138fd799f5ffe988c1] *(Extent: E+W)* *(affected by repeal, see note)*[^key-a52a7a2cff501bd4e562d2a17f8de3db] to the Waste Directive; *(Extent: E+W)* *(affected by repeal, see note)*[^key-a52a7a2cff501bd4e562d2a17f8de3db]“ *(Extent: E+W)***recovery *(Extent: E+W)***” has the meaning given by Article 3(15) of the Waste Directive; *(Extent: E+W)*
+- “**producer**” means the vehicle manufacturer or the professional importer of a vehicle into the United Kingdom[^c-bb1b2fc3b77e7edc8ffbde7e54c57eed];
+- “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-a52a7a2cff501bd4e562d2a17f8de3db]**recovery *(Extent: E+W)* *(affected by repeal, see note)*[^c-a52a7a2cff501bd4e562d2a17f8de3db]**” means any of the applicable operations provided for in *(Extent: E+W)* *(affected by repeal, see note)*[^c-a52a7a2cff501bd4e562d2a17f8de3db] Annex 2[^c-2ea5dd7b516bf0138fd799f5ffe988c1] *(Extent: E+W)* *(affected by repeal, see note)*[^c-a52a7a2cff501bd4e562d2a17f8de3db] to the Waste Directive; *(Extent: E+W)* *(affected by repeal, see note)*[^c-a52a7a2cff501bd4e562d2a17f8de3db]“ *(Extent: E+W)***recovery *(Extent: E+W)***” has the meaning given by Article 3(15) of the Waste Directive; *(Extent: E+W)*
 - “**recycling**” means the reprocessing in a production process of waste materials for the original purpose or for other purposes but excluding energy recovery. Energy recovery means the use of combustible waste as a means to generate energy through direct incineration with or without other waste but with recovery of the heat;
 - “**reuse**” means any operation by which components of end-of-life vehicles are used for the same purpose for which they were conceived;
 - “**treatment**” means any activity after the end-of-life vehicle has been handed over to a facility for depollution, dismantling, shearing, shredding, recovery or preparation for disposal of the shredder wastes, and any other operation carried out for the recovery and/or disposal of the end-of-life vehicle and its components, and “**treated**” shall be construed accordingly;
-- “[^key-d473d9eb86fc55a6d6573743b04b2e03]**vehicle**” means—
-  - any vehicle designated as category M<sub>1</sub> or N<sub>1</sub> defined in Article 4 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^key-130dbd66c2bf6d7196cd82d3f52539be]; and
+- “[^c-d473d9eb86fc55a6d6573743b04b2e03]**vehicle**” means—
+  - any vehicle designated as category M<sub>1</sub> or N<sub>1</sub> defined in Article 4 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^c-130dbd66c2bf6d7196cd82d3f52539be]; and
   - three-wheel motor vehicles within the meaning of Article 4 and Annex 1 of Regulation (EU) No 168/2013 of the European Parliament and of the Council on the approval and market surveillance of two- or three-wheel vehicles and quadricycles as it may be amended from time to time, but excluding any vehicle of category L5e; and
-- “the Waste Directive” means[^key-a5df40fae06aa8a0938201893ebc3734] [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) of the European Parliament and of the Council on waste, as last amended by[^key-eb4e26ffbcd814e18661835398b2336a] Directive (EU) 2018/851[^key-cca4ac4f48260bc561807ab3fb3e85f3] , and read in accordance with regulation 2A[^key-557567a05f58cb98f0154131e2508c6f] .
+- “the Waste Directive” means[^c-a5df40fae06aa8a0938201893ebc3734] [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098) of the European Parliament and of the Council on waste, as last amended by[^c-eb4e26ffbcd814e18661835398b2336a] Directive (EU) 2018/851[^c-cca4ac4f48260bc561807ab3fb3e85f3] , and read in accordance with regulation 2A[^c-557567a05f58cb98f0154131e2508c6f] .
 
-### 2A. Modification of the Waste Directive[^key-2fd2893ea424442aeb44f8b9330040e6]
+### 2A. Modification of the Waste Directive[^c-2fd2893ea424442aeb44f8b9330040e6]
 
 (1) For the purposes of these Regulations, the Waste Directive is to be read in accordance with this regulation.
 
@@ -121,7 +121,7 @@ In these Regulations—
 
   > **1A.** Any decision as to whether a substance or object has ceased to be waste must be made—
   >
-  > - (a) in accordance with any regulations or assimilated direct[^key-b660b0b578bc224050c841308e02082d] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
+  > - (a) in accordance with any regulations or assimilated direct[^c-b660b0b578bc224050c841308e02082d] legislation setting out detailed criteria on the application of the conditions in paragraph 1 to specific types of waste; and
   > - (b) having regard to any guidance published by the appropriate authority or the appropriate agency for the purposes of this Article.
 
   ;
@@ -155,33 +155,33 @@ In these Regulations—
 
 (1) These Regulations apply to vehicles and end-of-life vehicles including their components and materials.
 
-(2)[^key-0f9d3ebe74691c9753251f0c447e54bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0f9d3ebe74691c9753251f0c447e54bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Notwithstanding regulation 38(2), the Regulations shall apply irrespective of how the vehicle has been serviced or repaired during use and irrespective of whether it is equipped with components supplied by the producer or with other components whose fitting as spare or replacement parts accords with the appropriate [^key-a7d4291343c0a64da3b3daf0ea8f0e16]... domestic provisions.
+(3) Notwithstanding regulation 38(2), the Regulations shall apply irrespective of how the vehicle has been serviced or repaired during use and irrespective of whether it is equipped with components supplied by the producer or with other components whose fitting as spare or replacement parts accords with the appropriate [^c-a7d4291343c0a64da3b3daf0ea8f0e16]... domestic provisions.
 
-(4)[^key-5530bd918c30d070b56237e10443a3eb][^key-360edc166072b9139a60889eaef313f0] These Regulations do not apply to three-wheel motor vehicles.
+(4)[^c-5530bd918c30d070b56237e10443a3eb][^c-360edc166072b9139a60889eaef313f0] These Regulations do not apply to three-wheel motor vehicles.
 
 (5) With effect from 31st December 2006, regulations 37 to 43 of these Regulations shall cease to apply.
 
-### 4. Existing legislation[^key-a38ab94e5ea2e9a28d50f8aa84296aeb]
+### 4. Existing legislation[^c-a38ab94e5ea2e9a28d50f8aa84296aeb]
 
-Nothing in these Regulations shall affect the application of any other relevant legislation[^key-a6cb14a6c06f0fe99f4f2745df453f8e], in particular as regards safety standards, air emissions and noise controls and the protection of soil and water.
+Nothing in these Regulations shall affect the application of any other relevant legislation[^c-a6cb14a6c06f0fe99f4f2745df453f8e], in particular as regards safety standards, air emissions and noise controls and the protection of soil and water.
 
 ### 5. Application to vehicles produced in small series
 
-Where a producer only makes or imports vehicles to which[^key-3db1cdc6c6a959cd79e8b7248480f67d] Articles 42 and 43 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^key-827a2b89b6e64a18367285cecd57f095] applies, regulations 16 to 26 shall not apply.
+Where a producer only makes or imports vehicles to which[^c-3db1cdc6c6a959cd79e8b7248480f67d] Articles 42 and 43 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^c-827a2b89b6e64a18367285cecd57f095] applies, regulations 16 to 26 shall not apply.
 
 ## PART III — Design Requirements
 
-### 6. Prohibition on heavy metals[^key-30a3e3cb80b08a6e8a7e243436a55a8a]
+### 6. Prohibition on heavy metals[^c-30a3e3cb80b08a6e8a7e243436a55a8a]
 
 A person who puts on the market materials and components of vehicles shall ensure that they do not contain lead, mercury, cadmium or hexavalent chromium except in the cases listed in Annex II to the Directive, as that Annex is amended from time to time.
 
-### 7. Requirement for technical documentation[^key-e50780e2ddcfa5ee5120487d03462402]
+### 7. Requirement for technical documentation[^c-e50780e2ddcfa5ee5120487d03462402]
 
 A person who puts on the market materials and components of vehicles shall at the request of an enforcement authority submit technical documents or other information showing that those materials and components comply with the requirements of regulation 6.
 
-### 8.[^key-652d91e6944100cf0de5d08fb0acf180]
+### 8.[^c-652d91e6944100cf0de5d08fb0acf180]
 
 A person who puts on the market materials and components of vehicles shall ensure that they keep the information necessary for them to submit to the enforcement authority the documents referred to in regulation 7 for a period of 4 years from the date that they put the materials and components on the market.
 
@@ -193,13 +193,13 @@ A person who puts on the market materials and components of vehicles shall ensur
 - (b) regulation 7; and
 - (c) regulation 8
 
-it may serve a compliance notice on the person suspected of the non-compliance[^key-1c8e149c7ffacdcee004b38fff57f2cc].
+it may serve a compliance notice on the person suspected of the non-compliance[^c-1c8e149c7ffacdcee004b38fff57f2cc].
 
 (2) A compliance notice which is served under paragraph (1) shall—
 
 - (a) state that the enforcement authority suspects a requirement of this Part of the Regulations has been contravened;
 - (b) specify the reason it is suspected that a requirement of this Part of the Regulations has been contravened and give particulars thereof;
-- (c) require the person[^key-b554a724f5c02c8d288132d308afdbde] to whom notice is given—
+- (c) require the person[^c-b554a724f5c02c8d288132d308afdbde] to whom notice is given—
   - (i) to comply with the requirements of the Regulations where it is suspected that he is in breach; or
   - (ii) to provide evidence to the satisfaction of the enforcement authority that the requirements of the Regulations have been met;
 - (d) specify the period of time within which the person must comply with the notice issued by the enforcement authority; and
@@ -258,7 +258,7 @@ that person shall not, without the leave of the court, be entitled to rely on th
 
 A producer shall use the material and component coding standards referred to in regulation 15 to facilitate the identification of those materials and components suitable for reuse and recovery.
 
-### 15.[^key-25b9f72664c47190b499c58a7df113cb]
+### 15.[^c-25b9f72664c47190b499c58a7df113cb]
 
 For the purposes of regulation 14, “**material and component coding standards**” means the nomenclature of the material and component coding standards for end-of-life vehicles set out in Schedule 2.
 
@@ -277,7 +277,7 @@ A producer shall ensure that he keeps the information necessary for him to compl
 - (a) provide dismantling information for each type of new vehicle put on the market within six months after the date that vehicles of that type are first put on the market;
 - (b) at the request of the enforcement authority submit to it the dismantling information referred to in paragraph (1) (a).
 
-(2) The dismantling information shall identify, in so far as it is needed by treatment facilities, the different materials and components of the vehicle, and the location of all hazardous substances in the vehicle in order to achieve the following objectives[^key-dac2a738f9bc6123ad8534fc0dbd5a7b] —
+(2) The dismantling information shall identify, in so far as it is needed by treatment facilities, the different materials and components of the vehicle, and the location of all hazardous substances in the vehicle in order to achieve the following objectives[^c-dac2a738f9bc6123ad8534fc0dbd5a7b] —
 
 - (a) the reuse of components which are suitable for reuse;
 - (b) the recovery of components which cannot be reused; and
@@ -325,7 +325,7 @@ A notice which is served under regulation 21 shall—
 - (d) specify the period of time within which the producer must comply with therequirement; and
 - (e) warn the producer that unless the requirement is complied with or satisfactory evidence has been provided within the period specified in the notice he may be prosecuted under regulation 23.
 
-### 22A. Entry and Inspection[^key-7bebe0f450b0170bc48ed6c6a13bba8d]
+### 22A. Entry and Inspection[^c-7bebe0f450b0170bc48ed6c6a13bba8d]
 
 (1) For the purposes of carrying out their functions under these Regulations, an enforcement officer may exercise the following powers of entry and inspection.
 
@@ -342,7 +342,7 @@ A notice which is served under regulation 21 shall—
   and inspect and take copies of, or any entry in, the records; and
 - (f) require any person on the premises to afford such facilities and assistance with respect to any matters or things within that person’s control or in relation to which that person has responsibilities as are necessary to enable the enforcement officer to exercise any of the powers conferred on them by these Regulations.
 
-### 23. Offences[^key-ee231d0509c6bed2b9f91ac82f5bcfc2]
+### 23. Offences[^c-ee231d0509c6bed2b9f91ac82f5bcfc2]
 
 (1) A producer who fails to comply with any of the requirements of the following regulations—
 
@@ -359,15 +359,15 @@ shall be guilty of an offence.
 
 ### 24. Penalties
 
-A person[^key-f789520ff7b62ad7d5129789912b77c4] who is guilty of an offence under regulation 23 shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+A person[^c-f789520ff7b62ad7d5129789912b77c4] who is guilty of an offence under regulation 23 shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 25. Enforcement[^key-2a7f4e385e3169c02a87ff87c9ca94e2]
+### 25. Enforcement[^c-2a7f4e385e3169c02a87ff87c9ca94e2]
 
 The Secretary of State shall be under a duty to enforce Parts III and IV of these Regulations and in carrying out those duties may appoint any person to act on behalf of the Secretary of State.
 
 ### 26.
 
-(1) Subject to regulation 26(2) the enforcement authority shall not commence proceedings for an offence under Part III or regulation 23(1)[^key-6dccf2beee7efdc315b3963b7cb85198] unless a compliance notice has been served on the producer and the time limit specified for compliance in the compliance notice has expired.
+(1) Subject to regulation 26(2) the enforcement authority shall not commence proceedings for an offence under Part III or regulation 23(1)[^c-6dccf2beee7efdc315b3963b7cb85198] unless a compliance notice has been served on the producer and the time limit specified for compliance in the compliance notice has expired.
 
 (2) The enforcement authority shall not commence proceedings for an offence in Scotland.
 
@@ -383,9 +383,9 @@ An authorised treatment facility shall not impose any charge on the last holder 
 
 ### 29. Form and content of certificate of destruction
 
-The certificate of destruction issued by the authorised treatment facility on the form which is to be approved by the Secretary of State,[^key-8efcb3157220872b934da1d76f8b0417] shall contain at least the information listed in Schedule 3[^key-739a766d7c7047b699f41333d25efb6a]...
+The certificate of destruction issued by the authorised treatment facility on the form which is to be approved by the Secretary of State,[^c-8efcb3157220872b934da1d76f8b0417] shall contain at least the information listed in Schedule 3[^c-739a766d7c7047b699f41333d25efb6a]...
 
-### 29A. Issue of a certificate of destruction[^key-ab6e6d46e5b7593ace1e0431057fec5d]
+### 29A. Issue of a certificate of destruction[^c-ab6e6d46e5b7593ace1e0431057fec5d]
 
 A certificate of destruction is validly issued for the purposes of these Regulations only where —
 
@@ -404,7 +404,7 @@ It shall be the duty of the following authorities to enforce this Part of the Re
 Any person who contravenes a requirement of regulation—
 
 - (a) 27; or
-- (b) 28; or[^key-655ddc374027dde1f0f381fa944ec501]
+- (b) 28; or[^c-655ddc374027dde1f0f381fa944ec501]
 - (c) 29A
 
 shall be guilty of an offence.
@@ -417,15 +417,15 @@ A person guilty of an offence under regulation 31 shall be liable on summary con
 
 A certificate of destruction validly issued—
 
-- (a) by an authorised treatment facility in an[^key-21b30ebc8444d6616e123096cf9c4bcb] EEA State or in Gibraltar; or
-- (b) where permitted by a licensing authority in an[^key-f5511f1e95bc067ce07ec908105bc0d1] EEA State or in Gibraltar, by a producer, dealer or collector on behalf of an authorised treatment facility;
+- (a) by an authorised treatment facility in an[^c-21b30ebc8444d6616e123096cf9c4bcb] EEA State or in Gibraltar; or
+- (b) where permitted by a licensing authority in an[^c-f5511f1e95bc067ce07ec908105bc0d1] EEA State or in Gibraltar, by a producer, dealer or collector on behalf of an authorised treatment facility;
 
 in accordance with—
 
 - (i) Article 5(3) of the Directive; and
 - (ii) Decision [2002/151/EC](https://www.legislation.gov.uk/european/decision/2002/0151),
 
-and containing at least the information listed in Schedule 3 has legal effect, and all rights, powers, liabilities, obligations and restrictions arising out of or incidental to such certificates or their issue shall be recognised and available in law, and be enforced, allowed and followed accordingly.[^key-3269c536f79afb4059d59403a226d537]
+and containing at least the information listed in Schedule 3 has legal effect, and all rights, powers, liabilities, obligations and restrictions arising out of or incidental to such certificates or their issue shall be recognised and available in law, and be enforced, allowed and followed accordingly.[^c-3269c536f79afb4059d59403a226d537]
 
 ### 34. Amendments to the Road Vehicles (Registration and Licensing) Regulations 2002
 
@@ -458,7 +458,7 @@ The Road Vehicles (Registration and Licensing) Regulations 2002 [^c5088981] are 
   - (i) in column 1 under the heading “Regulation”, after “17” there shall be inserted “ 17A ”; and
   - (ii) in column 2 under the heading “Subject matter of regulation”, after “Notification of destruction or permanent export of a vehicle” there shall be inserted “ Notification of the issue of a certificate of destruction: vehicle to which the End-of-Life Vehicles Directive applies ”.
 
-### 35. Restrictions on disclosure of information[^key-ff423ad16f263a59ac3018fad4b625f7]
+### 35. Restrictions on disclosure of information[^c-ff423ad16f263a59ac3018fad4b625f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -517,47 +517,47 @@ A person guilty of an offence under either paragraph (1) or (2) or both of regul
 - (a) on summary conviction to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment to a fine.
 
-## PART VII — Keeping and treatment of waste motor vehicles[^key-ac08852fd0c3798fb3a0e7fa2676fa50]
+## PART VII — Keeping and treatment of waste motor vehicles[^c-ac08852fd0c3798fb3a0e7fa2676fa50]
 
 *Extent: E+W*
 
-### 44. Modification of conditions to existing site licences[^key-ac08852fd0c3798fb3a0e7fa2676fa50]
+### 44. Modification of conditions to existing site licences[^c-ac08852fd0c3798fb3a0e7fa2676fa50]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 45. Requirement for site licence in respect of activities formerly exempted[^key-ac08852fd0c3798fb3a0e7fa2676fa50]
+### 45. Requirement for site licence in respect of activities formerly exempted[^c-ac08852fd0c3798fb3a0e7fa2676fa50]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 46. Conditions to be included in site licences[^key-ac08852fd0c3798fb3a0e7fa2676fa50]
+### 46. Conditions to be included in site licences[^c-ac08852fd0c3798fb3a0e7fa2676fa50]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 47. Recovery of depolluted waste motor vehicles as an exempt activity[^key-ac08852fd0c3798fb3a0e7fa2676fa50]
+### 47. Recovery of depolluted waste motor vehicles as an exempt activity[^c-ac08852fd0c3798fb3a0e7fa2676fa50]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 48. Amendments to the Waste Management Licensing Regulations 1994[^key-ac08852fd0c3798fb3a0e7fa2676fa50]
+### 48. Amendments to the Waste Management Licensing Regulations 1994[^c-ac08852fd0c3798fb3a0e7fa2676fa50]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 49. Charges[^key-ac08852fd0c3798fb3a0e7fa2676fa50]
+### 49. Charges[^c-ac08852fd0c3798fb3a0e7fa2676fa50]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 50. Interpretation[^key-ac08852fd0c3798fb3a0e7fa2676fa50]
+### 50. Interpretation[^c-ac08852fd0c3798fb3a0e7fa2676fa50]
 
 **No longer in force.**
 
@@ -569,13 +569,13 @@ Minister of State for Energy, E-Commerce and Postal Services,
 
 Department of Trade and Industry
 
-## SCHEDULE 1 — MATERIALS AND COMPONENTS EXEMPT FROM REGULATION 6[^key-5d3b246a182366b129e4af8661d4fdd7]
+## SCHEDULE 1 — MATERIALS AND COMPONENTS EXEMPT FROM REGULATION 6[^c-5d3b246a182366b129e4af8661d4fdd7]
 
 **No longer in force.**
 
 Regulation 6
 
-[^key-5d3b246a182366b129e4af8661d4fdd7]
+[^c-5d3b246a182366b129e4af8661d4fdd7]
 
 <table>
 <tfoot>
@@ -615,33 +615,33 @@ Regulation 6
 </tbody>
 </table>
 
-[^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7][^key-5d3b246a182366b129e4af8661d4fdd7]
+[^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7][^c-5d3b246a182366b129e4af8661d4fdd7]
 
-[^key-5d3b246a182366b129e4af8661d4fdd7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-5d3b246a182366b129e4af8661d4fdd7]
+[^c-5d3b246a182366b129e4af8661d4fdd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d3b246a182366b129e4af8661d4fdd7]
+[^c-5d3b246a182366b129e4af8661d4fdd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d3b246a182366b129e4af8661d4fdd7]
+[^c-5d3b246a182366b129e4af8661d4fdd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d3b246a182366b129e4af8661d4fdd7]
+[^c-5d3b246a182366b129e4af8661d4fdd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d3b246a182366b129e4af8661d4fdd7]
+[^c-5d3b246a182366b129e4af8661d4fdd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5d3b246a182366b129e4af8661d4fdd7]
+[^c-5d3b246a182366b129e4af8661d4fdd7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5d3b246a182366b129e4af8661d4fdd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -663,13 +663,13 @@ For the labelling and identification of vehicle elastomer components and materia
 
 The symbols “\<” or “>” used in the ISO standards, can be substituted by brackets.
 
-## SCHEDULE 3 — MINIMUM REQUIREMENTS FOR THE CERTIFICATE OF DESTRUCTION ...[^key-fc27b04c0026a8e41202f764d19ed044]
+## SCHEDULE 3 — MINIMUM REQUIREMENTS FOR THE CERTIFICATE OF DESTRUCTION ...[^c-fc27b04c0026a8e41202f764d19ed044]
 
 Regulation 29
 
 **1.** Name, address, signature and registration or identification number [^c5089031] of the establishment or undertaking issuing the certificate.
 
-**2.** Name and address of competent authority responsible for the permit [^key-d7b5ec863fc85e0c7cb9430195b2bc22]... for the establishment or undertaking issuing the certificate of destruction.
+**2.** Name and address of competent authority responsible for the permit [^c-d7b5ec863fc85e0c7cb9430195b2bc22]... for the establishment or undertaking issuing the certificate of destruction.
 
 **3.** Date of issue of the certificate of destruction.
 
@@ -695,7 +695,7 @@ The information to be contained in a certificate of compliance is as follows—
   - (ii) a list of organisations to whom this has been notified;
 - (e) confirmation/certification by the producer that he has complied with his obligations under regulation 39.
 
-## SCHEDULE 5 — CONDITIONS TO BE INCLUDED IN SITE LICENCES[^key-f216a8c333ccb50d49613cfcadeab117]
+## SCHEDULE 5 — CONDITIONS TO BE INCLUDED IN SITE LICENCES[^c-f216a8c333ccb50d49613cfcadeab117]
 
 *Extent: E+W*
 
@@ -703,23 +703,23 @@ The information to be contained in a certificate of compliance is as follows—
 
 Regulations 44, 45 and 48
 
-### PART 1 — Obligations in respect of keeping or treatment of waste motor vehicles[^key-f216a8c333ccb50d49613cfcadeab117]
+### PART 1 — Obligations in respect of keeping or treatment of waste motor vehicles[^c-f216a8c333ccb50d49613cfcadeab117]
 
-**1.**[^key-f216a8c333ccb50d49613cfcadeab117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f216a8c333ccb50d49613cfcadeab117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f216a8c333ccb50d49613cfcadeab117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f216a8c333ccb50d49613cfcadeab117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Minimum technical requirements for the keeping and treatment of waste motor vehicles[^key-f216a8c333ccb50d49613cfcadeab117]
+### PART 2 — Minimum technical requirements for the keeping and treatment of waste motor vehicles[^c-f216a8c333ccb50d49613cfcadeab117]
 
-**1.**[^key-f216a8c333ccb50d49613cfcadeab117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f216a8c333ccb50d49613cfcadeab117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f216a8c333ccb50d49613cfcadeab117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f216a8c333ccb50d49613cfcadeab117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f216a8c333ccb50d49613cfcadeab117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f216a8c333ccb50d49613cfcadeab117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f216a8c333ccb50d49613cfcadeab117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f216a8c333ccb50d49613cfcadeab117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f216a8c333ccb50d49613cfcadeab117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f216a8c333ccb50d49613cfcadeab117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -747,118 +747,118 @@ A Regulatory Impact Assessment is available, copies of which have been placed in
 
 [^c5088901]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Under section 57 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), despite the transfer to Scottish Ministers of functions in relation to implementing obligations under Community law in respect of devolved matters, the function of the Secretary of State in relation to implementing those obligations continues to be exercisable by her as regards Scotland.
 
-[^key-d943af523e29833c8f90238911f2a5a7]: Textual amendment: Words in reg. 2 inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/9/2/a)
+[^c-d943af523e29833c8f90238911f2a5a7]: Textual amendment: Words in reg. 2 inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/9/2/a)
 
-[^key-efe1dd11b7cbf6d5193123d2bf19d7a6]: Textual amendment: Words in reg. 2 substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2020/904/regulation/7/a)
+[^c-efe1dd11b7cbf6d5193123d2bf19d7a6]: Textual amendment: Words in reg. 2 substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2020/904/regulation/7/a)
 
-[^key-6b34c51108d9a4a98bb2375836d160a7]: Textual amendment: Words in reg. 2 substituted (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/2/2/a)
+[^c-6b34c51108d9a4a98bb2375836d160a7]: Textual amendment: Words in reg. 2 substituted (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/2/2/a)
 
-[^key-492261a60be9bfddeee792e9166afd3e]: Textual amendment: Words in reg. 2 substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/2/a)
+[^c-492261a60be9bfddeee792e9166afd3e]: Textual amendment: Words in reg. 2 substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/2/a)
 
-[^key-68060adb074c3e491dacc6cb2582014e]: Textual amendment: Words in reg. 2 substituted (S.) (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [Sch. para. 15(a)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/15/a)
+[^c-68060adb074c3e491dacc6cb2582014e]: Textual amendment: Words in reg. 2 substituted (S.) (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [Sch. para. 15(a)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/15/a)
 
     Words in reg. 2 substituted (E.W.) (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 16(a)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/16/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
     Words in reg. 2 substituted (N.I.) (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/2/2/b)
 
-[^key-ddfaea853bb85a10586102e9399c2010]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/2635/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/2/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ddfaea853bb85a10586102e9399c2010]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/2635/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/2/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d61786a011f1eafe7c2aba70f8069d2d]: Textual amendment: Words in reg. 2 inserted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/2/b)
+[^c-d61786a011f1eafe7c2aba70f8069d2d]: Textual amendment: Words in reg. 2 inserted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/2/b)
 
-[^key-81673a34a08b59ae31c818500a600484]: Textual amendment: Words in reg. 2 substituted (1.12.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/3), [2(2)(c)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/2/c)
+[^c-81673a34a08b59ae31c818500a600484]: Textual amendment: Words in reg. 2 substituted (1.12.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/3), [2(2)(c)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/2/c)
 
-[^key-bb1b2fc3b77e7edc8ffbde7e54c57eed]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/2635/regulation/2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/2/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb1b2fc3b77e7edc8ffbde7e54c57eed]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/2635/regulation/2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/2/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a52a7a2cff501bd4e562d2a17f8de3db]: Textual amendment: Words in reg. 2 substituted (E.W.) (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 16(b)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/16/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-a52a7a2cff501bd4e562d2a17f8de3db]: Textual amendment: Words in reg. 2 substituted (E.W.) (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 16(b)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/16/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
-[^key-2ea5dd7b516bf0138fd799f5ffe988c1]: Textual amendment: Words in reg. 2 substituted (S.) (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [Sch. para. 15(b)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/15/b)
+[^c-2ea5dd7b516bf0138fd799f5ffe988c1]: Textual amendment: Words in reg. 2 substituted (S.) (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [Sch. para. 15(b)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/15/b)
 
     Words in reg. 2 substituted (N.I.) (28.2.2019) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/a), [2(2)(c)](https://www.legislation.gov.uk/uksi/2019/188/regulation/2/2/c)
 
-[^key-d473d9eb86fc55a6d6573743b04b2e03]: Textual amendment: Words in reg. 2 substituted (20.5.2018) by [The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235)](https://www.legislation.gov.uk/uksi/2018/235), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/b), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2018/235/schedule/2/paragraph/4) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/17))
+[^c-d473d9eb86fc55a6d6573743b04b2e03]: Textual amendment: Words in reg. 2 substituted (20.5.2018) by [The Motorcycles (Type-Approval) Regulations 2018 (S.I. 2018/235)](https://www.legislation.gov.uk/uksi/2018/235), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/b), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2018/235/schedule/2/paragraph/4) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/235/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/235/schedule/1/paragraph/17))
 
-[^key-130dbd66c2bf6d7196cd82d3f52539be]: Textual amendment: Words in reg. 2 substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 18(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/18/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-130dbd66c2bf6d7196cd82d3f52539be]: Textual amendment: Words in reg. 2 substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 18(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/18/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-a5df40fae06aa8a0938201893ebc3734]: Textual amendment: Words in reg. 2 substituted (3.8.2016) by [The Waste (Meaning of Recovery) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/738)](https://www.legislation.gov.uk/uksi/2016/738), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/738/regulation/4)
+[^c-a5df40fae06aa8a0938201893ebc3734]: Textual amendment: Words in reg. 2 substituted (3.8.2016) by [The Waste (Meaning of Recovery) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/738)](https://www.legislation.gov.uk/uksi/2016/738), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/738/regulation/4)
 
-[^key-eb4e26ffbcd814e18661835398b2336a]: Textual amendment: Words in reg. 2 inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/9/2/b)
+[^c-eb4e26ffbcd814e18661835398b2336a]: Textual amendment: Words in reg. 2 inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/9/2/b)
 
-[^key-cca4ac4f48260bc561807ab3fb3e85f3]: Textual amendment: Words in reg. 2 substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2020/904/regulation/7/b)
+[^c-cca4ac4f48260bc561807ab3fb3e85f3]: Textual amendment: Words in reg. 2 substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2020/904/regulation/7/b)
 
-[^key-557567a05f58cb98f0154131e2508c6f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/2635/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(2)(d)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/2/d) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-557567a05f58cb98f0154131e2508c6f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2003/2635/regulation/2) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(2)(d)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/2/d) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2fd2893ea424442aeb44f8b9330040e6]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2003/2635/regulation/2A) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/3) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2fd2893ea424442aeb44f8b9330040e6]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2003/2635/regulation/2A) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/3) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b660b0b578bc224050c841308e02082d]: Textual amendment: Words in [reg. 2A(3)(b)](https://www.legislation.gov.uk/uksi/2003/2635/regulation/2A/3/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 5](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/5)
+[^c-b660b0b578bc224050c841308e02082d]: Textual amendment: Words in [reg. 2A(3)(b)](https://www.legislation.gov.uk/uksi/2003/2635/regulation/2A/3/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 5](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/5)
 
-[^key-0f9d3ebe74691c9753251f0c447e54bc]: Textual amendment: Reg. 3(2) omitted (E.W.) (6.4.2008) by virtue of [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 43(3)(a)](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/43/3/a) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
+[^c-0f9d3ebe74691c9753251f0c447e54bc]: Textual amendment: Reg. 3(2) omitted (E.W.) (6.4.2008) by virtue of [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 43(3)(a)](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/43/3/a) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
 
-[^key-a7d4291343c0a64da3b3daf0ea8f0e16]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2003/2635/regulation/3/3) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/4) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a7d4291343c0a64da3b3daf0ea8f0e16]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2003/2635/regulation/3/3) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/4) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5530bd918c30d070b56237e10443a3eb]: Textual amendment: Reg. 3(4) substituted (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 43(3)(b)](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/43/3/b) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
+[^c-5530bd918c30d070b56237e10443a3eb]: Textual amendment: Reg. 3(4) substituted (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 43(3)(b)](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/43/3/b) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
 
-[^key-360edc166072b9139a60889eaef313f0]: Textual amendment: Reg. 3(4)(5) inserted (3.3.2005) by [The End-of-Life Vehicles (Producer Responsibility) Regulations 2005 (S.I. 2005/263)](https://www.legislation.gov.uk/uksi/2005/263), [regs. 1](https://www.legislation.gov.uk/uksi/2005/263/regulation/1), [28(a)](https://www.legislation.gov.uk/uksi/2005/263/regulation/28/a)
+[^c-360edc166072b9139a60889eaef313f0]: Textual amendment: Reg. 3(4)(5) inserted (3.3.2005) by [The End-of-Life Vehicles (Producer Responsibility) Regulations 2005 (S.I. 2005/263)](https://www.legislation.gov.uk/uksi/2005/263), [regs. 1](https://www.legislation.gov.uk/uksi/2005/263/regulation/1), [28(a)](https://www.legislation.gov.uk/uksi/2005/263/regulation/28/a)
 
-[^key-a38ab94e5ea2e9a28d50f8aa84296aeb]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/2635/regulation/4) heading substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(5)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/5/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a38ab94e5ea2e9a28d50f8aa84296aeb]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/2635/regulation/4) heading substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(5)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/5/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a6cb14a6c06f0fe99f4f2745df453f8e]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2003/2635/regulation/4) substituted (31.12.2020) by S.I. 2019/188, reg. 9(5)(b) (as substituted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(3)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/3/b))
+[^c-a6cb14a6c06f0fe99f4f2745df453f8e]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2003/2635/regulation/4) substituted (31.12.2020) by S.I. 2019/188, reg. 9(5)(b) (as substituted by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [11(3)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/3/b))
 
-[^key-3db1cdc6c6a959cd79e8b7248480f67d]: Textual amendment: Words in reg. 5 substituted (3.3.2005) by [The End-of-Life Vehicles (Producer Responsibility) Regulations 2005 (S.I. 2005/263)](https://www.legislation.gov.uk/uksi/2005/263), [regs. 1](https://www.legislation.gov.uk/uksi/2005/263/regulation/1), [28(b)](https://www.legislation.gov.uk/uksi/2005/263/regulation/28/b)
+[^c-3db1cdc6c6a959cd79e8b7248480f67d]: Textual amendment: Words in reg. 5 substituted (3.3.2005) by [The End-of-Life Vehicles (Producer Responsibility) Regulations 2005 (S.I. 2005/263)](https://www.legislation.gov.uk/uksi/2005/263), [regs. 1](https://www.legislation.gov.uk/uksi/2005/263/regulation/1), [28(b)](https://www.legislation.gov.uk/uksi/2005/263/regulation/28/b)
 
-[^key-827a2b89b6e64a18367285cecd57f095]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2003/2635/regulation/5) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 18(3)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/18/3) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-827a2b89b6e64a18367285cecd57f095]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2003/2635/regulation/5) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 18(3)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/18/3) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-30a3e3cb80b08a6e8a7e243436a55a8a]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/2635/regulation/6) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/3)
+[^c-30a3e3cb80b08a6e8a7e243436a55a8a]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/2635/regulation/6) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/3)
 
-[^key-e50780e2ddcfa5ee5120487d03462402]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2003/2635/regulation/7) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/4)
+[^c-e50780e2ddcfa5ee5120487d03462402]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2003/2635/regulation/7) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/4)
 
-[^key-652d91e6944100cf0de5d08fb0acf180]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2003/2635/regulation/8) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/5)
+[^c-652d91e6944100cf0de5d08fb0acf180]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2003/2635/regulation/8) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/5)
 
-[^key-1c8e149c7ffacdcee004b38fff57f2cc]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2003/2635/regulation/9/1) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/6)
+[^c-1c8e149c7ffacdcee004b38fff57f2cc]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2003/2635/regulation/9/1) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/6)
 
-[^key-b554a724f5c02c8d288132d308afdbde]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2003/2635/regulation/9/2) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/7)
+[^c-b554a724f5c02c8d288132d308afdbde]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2003/2635/regulation/9/2) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/7)
 
-[^key-25b9f72664c47190b499c58a7df113cb]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2003/2635/regulation/15) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(7)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/7) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-25b9f72664c47190b499c58a7df113cb]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2003/2635/regulation/15) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(7)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/7) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dac2a738f9bc6123ad8534fc0dbd5a7b]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2003/2635/regulation/18/2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(8)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/8) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dac2a738f9bc6123ad8534fc0dbd5a7b]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/uksi/2003/2635/regulation/18/2) substituted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(8)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/8) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7bebe0f450b0170bc48ed6c6a13bba8d]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/uksi/2003/2635/regulation/22A) inserted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/8)
+[^c-7bebe0f450b0170bc48ed6c6a13bba8d]: Textual amendment: [Reg. 22A](https://www.legislation.gov.uk/uksi/2003/2635/regulation/22A) inserted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/8)
 
-[^key-ee231d0509c6bed2b9f91ac82f5bcfc2]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2003/2635/regulation/23) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/9)
+[^c-ee231d0509c6bed2b9f91ac82f5bcfc2]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2003/2635/regulation/23) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/9)
 
-[^key-f789520ff7b62ad7d5129789912b77c4]: Textual amendment: Word in [reg. 24](https://www.legislation.gov.uk/uksi/2003/2635/regulation/24) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/10)
+[^c-f789520ff7b62ad7d5129789912b77c4]: Textual amendment: Word in [reg. 24](https://www.legislation.gov.uk/uksi/2003/2635/regulation/24) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/10)
 
-[^key-2a7f4e385e3169c02a87ff87c9ca94e2]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2003/2635/regulation/25) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/11)
+[^c-2a7f4e385e3169c02a87ff87c9ca94e2]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/uksi/2003/2635/regulation/25) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/11)
 
-[^key-6dccf2beee7efdc315b3963b7cb85198]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/2003/2635/regulation/26) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/12)
+[^c-6dccf2beee7efdc315b3963b7cb85198]: Textual amendment: Words in [reg. 26](https://www.legislation.gov.uk/uksi/2003/2635/regulation/26) substituted (1.7.2010) by [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/12)
 
-[^key-8efcb3157220872b934da1d76f8b0417]: Textual amendment: Words in reg. 29 inserted (3.3.2005) by [The End-of-Life Vehicles (Producer Responsibility) Regulations 2005 (S.I. 2005/263)](https://www.legislation.gov.uk/uksi/2005/263), [regs. 1](https://www.legislation.gov.uk/uksi/2005/263/regulation/1), [28(c)](https://www.legislation.gov.uk/uksi/2005/263/regulation/28/c)
+[^c-8efcb3157220872b934da1d76f8b0417]: Textual amendment: Words in reg. 29 inserted (3.3.2005) by [The End-of-Life Vehicles (Producer Responsibility) Regulations 2005 (S.I. 2005/263)](https://www.legislation.gov.uk/uksi/2005/263), [regs. 1](https://www.legislation.gov.uk/uksi/2005/263/regulation/1), [28(c)](https://www.legislation.gov.uk/uksi/2005/263/regulation/28/c)
 
-[^key-739a766d7c7047b699f41333d25efb6a]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/2003/2635/regulation/29) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(9)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/9) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-739a766d7c7047b699f41333d25efb6a]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/2003/2635/regulation/29) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(9)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/9) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ab6e6d46e5b7593ace1e0431057fec5d]: Textual amendment: Reg. 29A inserted (3.3.2005) by [The End-of-Life Vehicles (Producer Responsibility) Regulations 2005 (S.I. 2005/263)](https://www.legislation.gov.uk/uksi/2005/263), [regs. 1](https://www.legislation.gov.uk/uksi/2005/263/regulation/1), [28(d)](https://www.legislation.gov.uk/uksi/2005/263/regulation/28/d)
+[^c-ab6e6d46e5b7593ace1e0431057fec5d]: Textual amendment: Reg. 29A inserted (3.3.2005) by [The End-of-Life Vehicles (Producer Responsibility) Regulations 2005 (S.I. 2005/263)](https://www.legislation.gov.uk/uksi/2005/263), [regs. 1](https://www.legislation.gov.uk/uksi/2005/263/regulation/1), [28(d)](https://www.legislation.gov.uk/uksi/2005/263/regulation/28/d)
 
-[^key-655ddc374027dde1f0f381fa944ec501]: Textual amendment: Reg. 31(c) and word inserted (3.3.2005) by [The End-of-Life Vehicles (Producer Responsibility) Regulations 2005 (S.I. 2005/263)](https://www.legislation.gov.uk/uksi/2005/263), [regs. 1](https://www.legislation.gov.uk/uksi/2005/263/regulation/1), [28(e)](https://www.legislation.gov.uk/uksi/2005/263/regulation/28/e)
+[^c-655ddc374027dde1f0f381fa944ec501]: Textual amendment: Reg. 31(c) and word inserted (3.3.2005) by [The End-of-Life Vehicles (Producer Responsibility) Regulations 2005 (S.I. 2005/263)](https://www.legislation.gov.uk/uksi/2005/263), [regs. 1](https://www.legislation.gov.uk/uksi/2005/263/regulation/1), [28(e)](https://www.legislation.gov.uk/uksi/2005/263/regulation/28/e)
 
-[^key-21b30ebc8444d6616e123096cf9c4bcb]: Textual amendment: Word in [reg. 33(a)](https://www.legislation.gov.uk/uksi/2003/2635/regulation/33/a) substituted (31.12.2020) by S.I. 2019/188, reg. 9(1)(a) (as substituted by [The Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1078)](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-21b30ebc8444d6616e123096cf9c4bcb]: Textual amendment: Word in [reg. 33(a)](https://www.legislation.gov.uk/uksi/2003/2635/regulation/33/a) substituted (31.12.2020) by S.I. 2019/188, reg. 9(1)(a) (as substituted by [The Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1078)](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-f5511f1e95bc067ce07ec908105bc0d1]: Textual amendment: Word in [reg. 33(b)](https://www.legislation.gov.uk/uksi/2003/2635/regulation/33/b) substituted (31.12.2020) by S.I. 2019/188, reg. 9(1)(a) (as substituted by [The Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1078)](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-f5511f1e95bc067ce07ec908105bc0d1]: Textual amendment: Word in [reg. 33(b)](https://www.legislation.gov.uk/uksi/2003/2635/regulation/33/b) substituted (31.12.2020) by S.I. 2019/188, reg. 9(1)(a) (as substituted by [The Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1078)](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-3269c536f79afb4059d59403a226d537]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2003/2635/regulation/33) substituted (31.12.2020) by S.I. 2019/188, reg. 9(1)(b) (as substituted by [The Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1078)](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-3269c536f79afb4059d59403a226d537]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2003/2635/regulation/33) substituted (31.12.2020) by S.I. 2019/188, reg. 9(1)(b) (as substituted by [The Environment and Rural Affairs (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1078)](https://www.legislation.gov.uk/uksi/2019/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1078/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/1078/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c5088981]: Marginal citation: [S.I. 2002/2742](https://www.legislation.gov.uk/uksi/2002/2742).
 
-[^key-ff423ad16f263a59ac3018fad4b625f7]: Textual amendment: [Reg. 35](https://www.legislation.gov.uk/uksi/2003/2635/regulation/35) omitted (1.7.2010) by virtue of [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/13)
+[^c-ff423ad16f263a59ac3018fad4b625f7]: Textual amendment: [Reg. 35](https://www.legislation.gov.uk/uksi/2003/2635/regulation/35) omitted (1.7.2010) by virtue of [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/13)
 
-[^key-ac08852fd0c3798fb3a0e7fa2676fa50]: Textual amendment: Pt. VII omitted (6.4.2008) by virtue of [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 43(4)](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/43/4) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69)) (for a saving see [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [74](https://www.legislation.gov.uk/uksi/2016/1154/regulation/74) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4)))
+[^c-ac08852fd0c3798fb3a0e7fa2676fa50]: Textual amendment: Pt. VII omitted (6.4.2008) by virtue of [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 43(4)](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/43/4) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69)) (for a saving see [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [74](https://www.legislation.gov.uk/uksi/2016/1154/regulation/74) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4)))
 
-[^key-5d3b246a182366b129e4af8661d4fdd7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2635/schedule/1) omitted (1.7.2010) by virtue of [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/14)
+[^c-5d3b246a182366b129e4af8661d4fdd7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2635/schedule/1) omitted (1.7.2010) by virtue of [The End-of-Life Vehicles (Amendment) Regulations 2010 (S.I. 2010/1094)](https://www.legislation.gov.uk/uksi/2010/1094), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2010/1094/regulation/2/14)
 
-[^key-fc27b04c0026a8e41202f764d19ed044]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2003/2635/schedule/3) heading omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(11)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/11/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc27b04c0026a8e41202f764d19ed044]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2003/2635/schedule/3) heading omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(11)(a)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/11/a) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c5089031]: Marginal citation: This requirement may be waived in the case where the national registration or identification does not provide for such number.
 
-[^key-d7b5ec863fc85e0c7cb9430195b2bc22]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2003/2635/schedule/3/paragraph/2) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(11)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/11/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d7b5ec863fc85e0c7cb9430195b2bc22]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2003/2635/schedule/3/paragraph/2) omitted (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [9(11)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/9/11/b) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c5089041]: Marginal citation: In the case where no registration document exists on paper due to the use of an electronic registration system, this requirement may be waived.
 
-[^key-f216a8c333ccb50d49613cfcadeab117]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2003/2635/schedule/5) omitted (6.4.2008) by virtue of [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 43(4)](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/43/4) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
+[^c-f216a8c333ccb50d49613cfcadeab117]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2003/2635/schedule/5) omitted (6.4.2008) by virtue of [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 43(4)](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/43/4) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))

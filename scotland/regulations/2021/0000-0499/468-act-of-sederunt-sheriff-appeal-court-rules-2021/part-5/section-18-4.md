@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18.4. Peremptory hearing[^key-eea5d3c1f136e16ecd1a714fc1d82202]
+## 18.4. Peremptory hearing[^c-eea5d3c1f136e16ecd1a714fc1d82202]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eea5d3c1f136e16ecd1a714fc1d82202]: Commencement: Para. 18.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-eea5d3c1f136e16ecd1a714fc1d82202]: Commencement: Para. 18.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

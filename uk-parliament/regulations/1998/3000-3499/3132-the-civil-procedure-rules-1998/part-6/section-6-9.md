@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.9. Service of the claim form where the defendant does not give an address at which the defendant may be served[^key-fe589970343ba157e4f46d596d14d251]
+## 6.9. Service of the claim form where the defendant does not give an address at which the defendant may be served[^c-fe589970343ba157e4f46d596d14d251]
 
 *Extent: E+W*
 
 (1) This rule applies where—
 
 - (a) rule 6.5(1) (personal service);
-- (b) rule 6.7 (service of claim form on solicitor [^key-9d391061597471b0eca88087ee5b27cf]...); and
+- (b) rule 6.7 (service of claim form on solicitor [^c-9d391061597471b0eca88087ee5b27cf]...); and
 - (c) rule 6.8 (defendant gives address at which the defendant may be served),
 
 do not apply and the claimant does not wish to effect personal service under rule 6.5(2).
@@ -58,12 +58,12 @@ do not apply and the claimant does not wish to effect personal service under rul
 - (a) cannot ascertain the defendant’s current residence or place of business; and
 - (b) cannot ascertain an alternative place or an alternative method under paragraph (4)(b).
 
-(For service out of the jurisdiction see rules 6.40 to 6.47.)[^key-8d6dfe516b5c5bcc9e2fc1ccb0ea7646]
+(For service out of the jurisdiction see rules 6.40 to 6.47.)[^c-8d6dfe516b5c5bcc9e2fc1ccb0ea7646]
 
 ## Annotations
 
-[^key-fe589970343ba157e4f46d596d14d251]: Textual amendment: Pt. 6 substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rule 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2178/schedule/1)
+[^c-fe589970343ba157e4f46d596d14d251]: Textual amendment: Pt. 6 substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rule 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2178/schedule/1)
 
-[^key-9d391061597471b0eca88087ee5b27cf]: Textual amendment: Words in [rule 6.9(1)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/6.9/1/b) omitted (31.12.2020) by virtue of [The Civil Procedure Rules 1998 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/521)](https://www.legislation.gov.uk/uksi/2019/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/521/regulation/1/1), [4(10)](https://www.legislation.gov.uk/uksi/2019/521/regulation/4/10) (with [reg. 18](https://www.legislation.gov.uk/uksi/2019/521/regulation/18)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/9/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d391061597471b0eca88087ee5b27cf]: Textual amendment: Words in [rule 6.9(1)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/6.9/1/b) omitted (31.12.2020) by virtue of [The Civil Procedure Rules 1998 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/521)](https://www.legislation.gov.uk/uksi/2019/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/521/regulation/1/1), [4(10)](https://www.legislation.gov.uk/uksi/2019/521/regulation/4/10) (with [reg. 18](https://www.legislation.gov.uk/uksi/2019/521/regulation/18)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/9/2/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8d6dfe516b5c5bcc9e2fc1ccb0ea7646]: Textual amendment: Words in [rule 6.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/6.9) inserted (6.4.2011) by [The Civil Procedure (Amendment) Rules 2011 (S.I. 2011/88)](https://www.legislation.gov.uk/uksi/2011/88), [rules 1](https://www.legislation.gov.uk/uksi/2011/88/rule/1), [4(i)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/i)[(ii)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/ii)
+[^c-8d6dfe516b5c5bcc9e2fc1ccb0ea7646]: Textual amendment: Words in [rule 6.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/6.9) inserted (6.4.2011) by [The Civil Procedure (Amendment) Rules 2011 (S.I. 2011/88)](https://www.legislation.gov.uk/uksi/2011/88), [rules 1](https://www.legislation.gov.uk/uksi/2011/88/rule/1), [4(i)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/i)[(ii)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/ii)

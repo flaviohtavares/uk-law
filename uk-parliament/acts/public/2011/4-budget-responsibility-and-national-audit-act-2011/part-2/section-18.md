@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Economy, efficiency and effectiveness examinations[^key-6b5a0ae3aaf97bce9ee84c7ccaacaf53]
+## 18. Economy, efficiency and effectiveness examinations[^c-6b5a0ae3aaf97bce9ee84c7ccaacaf53]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In Part 2 of the National Audit Act 1983 (economy, efficiency and effectiveness 
 
 ## Annotations
 
-[^key-6b5a0ae3aaf97bce9ee84c7ccaacaf53]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2011/4/section/18) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-6b5a0ae3aaf97bce9ee84c7ccaacaf53]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2011/4/section/18) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)

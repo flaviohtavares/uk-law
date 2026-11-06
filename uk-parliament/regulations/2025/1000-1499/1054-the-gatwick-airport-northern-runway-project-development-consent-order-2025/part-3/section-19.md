@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Clearways, prohibitions and restrictions[^key-7b70fe733c1380b7150aadb1d1ccb973]
+## 19. Clearways, prohibitions and restrictions[^c-7b70fe733c1380b7150aadb1d1ccb973]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7b70fe733c1380b7150aadb1d1ccb973]: Commencement: Art. 19 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-7b70fe733c1380b7150aadb1d1ccb973]: Commencement: Art. 19 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
 [^f00058]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Schedule 3A was inserted by Schedule 1 to the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 

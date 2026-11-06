@@ -40,44 +40,44 @@ Coming into force
 
 The Director General of Electricity Supply in exercise of the powers conferred by sections 31 and 60 of, and paragraphs 2 and 13[^f00001] of Schedule 7 to, the Electricity Act 1989[^f00002] and with the consent of the Secretary of State in accordance with paragraph 13 of Schedule 7 to the Act, hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-9b5d9f79f4a4abe246c719d2a45ac7fb]
+## 1. Citation and commencement[^c-9b5d9f79f4a4abe246c719d2a45ac7fb]
 
 These Regulations may be cited as the Meters (Approval of Pattern or Construction and Manner of Installation) Regulations 1998 and shall come into force on 1st August 1998.
 
-## 2. Interpretation[^key-cafacb3caba1a0f2aa8fd1e7e5f436bf]
+## 2. Interpretation[^c-cafacb3caba1a0f2aa8fd1e7e5f436bf]
 
 (1) In these Regulations:—
 
-- “[^key-d1707bc52524b40c71b8824fabd5f1ee]the Authority” means the Gas and Electricity Markets Authority;
+- “[^c-d1707bc52524b40c71b8824fabd5f1ee]the Authority” means the Gas and Electricity Markets Authority;
 - “certified test report” means a copy certified by the nominated laboratory as a true copy of the full report of the tests carried out by the laboratory for the purpose of establishing whether the pattern or construction or manner of installation of the meter is capable of meeting the requirement in regulation 5(1) and the results of those tests;
 - “EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00003] as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00004];
-- “EEA State” means a state which, at the date of the entry into force of these Regulations, is a Contracting Party to the EEA Agreement , but does not include the United Kingdom[^key-65cdbc6427153c2d4b1b2893eb34d877];
+- “EEA State” means a state which, at the date of the entry into force of these Regulations, is a Contracting Party to the EEA Agreement , but does not include the United Kingdom[^c-65cdbc6427153c2d4b1b2893eb34d877];
 - “meter examiner” means a person appointed under paragraph 4 of Schedule 7 to the Electricity Act 1989; and
-- “nominated laboratory” means a laboratory nominated by[^key-6979c1aa8a54a7d16bb09967bf067426] the Authority for the purpose of testing meters.
+- “nominated laboratory” means a laboratory nominated by[^c-6979c1aa8a54a7d16bb09967bf067426] the Authority for the purpose of testing meters.
 - “notification of approval” means a notification issued under regulation 7.
 
 (2) Unless the context otherwise requires, any reference in these Regulations to a numbered regulation or the Schedule is a reference to the regulation bearing that number in or the Schedule to these Regulations; and any reference in a regulation or the Schedule to a numbered paragraph is a reference to the paragraph of that regulation or of the Schedule bearing that number.
 
-## 3. Approved pattern or construction and approved manner of installation[^key-ffa28fe50b9b5b0af337a919cbe37b3a][^key-3dd2b3712edf9dc352a1b99de6cf5310]
+## 3. Approved pattern or construction and approved manner of installation[^c-ffa28fe50b9b5b0af337a919cbe37b3a][^c-3dd2b3712edf9dc352a1b99de6cf5310]
 
 A meter, other than a meter which is deemed to be of an approved pattern or construction under regulation 3(2) of the Measuring Instruments (EC Requirements) (Electrical Energy Meters) Regulations 1995[^f00005], used for ascertaining the quantity of electricity supplied by an electricity supplier to a customer shall not be regarded as being—
 
 - (a) of an approved pattern or construction unless a notification of approval in respect of that pattern or construction has been issued, or is deemed to have been issued, and that approval has not been revoked; or
 - (b) installed in an approved manner unless a notification of approval of that manner of installation has been issued, or is deemed to have been issued, and that approval has not been revoked.
 
-## 4. Application for approval[^key-d9834612cab71d3f9b2466d9e9344636]
+## 4. Application for approval[^c-d9834612cab71d3f9b2466d9e9344636]
 
 (1) Any person who requires the pattern or construction of a meter or its manner of installation to be approved shall submit to the Director—
 
-- (a) an application containing the information specified in the Schedule and signed by that person; [^key-b56caa76da72256803398dc60c8237a0]...
-- (b) not less than three meters of the pattern or construction and containing the components described in the application ; and[^key-92d38ce2df535093da2932115925f805]
+- (a) an application containing the information specified in the Schedule and signed by that person; [^c-b56caa76da72256803398dc60c8237a0]...
+- (b) not less than three meters of the pattern or construction and containing the components described in the application ; and[^c-92d38ce2df535093da2932115925f805]
 - (c) where a report has been obtained in support of the application from a nominated laboratory, a certified test report.
 
 (2) References in this regulation to the pattern or construction of a meter or to the manner of its installation include references to a modification of a pattern or construction or of a manner of installation which has previously been approved in accordance with these Regulations.
 
-## 5. Testing of meters[^key-cd84277694d8744030f053071cd03e9d]
+## 5. Testing of meters[^c-cd84277694d8744030f053071cd03e9d]
 
-(1) Subject to paragraph (3) or (3A)[^key-5978c18bda9dc83450a59638c9a00cef], where a meter has been submitted to the Director under regulation 4, a meter examiner shall carry out or procure the carrying out of such tests as he considers are necessary to determine whether the pattern or construction of the meter or the proposed manner of its installation is such that any meter of that pattern or construction or such a meter installed in that manner will be capable of accurately recording the quantity of electricity for which the meter is intended to operate.
+(1) Subject to paragraph (3) or (3A)[^c-5978c18bda9dc83450a59638c9a00cef], where a meter has been submitted to the Director under regulation 4, a meter examiner shall carry out or procure the carrying out of such tests as he considers are necessary to determine whether the pattern or construction of the meter or the proposed manner of its installation is such that any meter of that pattern or construction or such a meter installed in that manner will be capable of accurately recording the quantity of electricity for which the meter is intended to operate.
 
 (2) In carrying out his functions under paragraph (1), a meter examiner shall have regard to any national, European or international technical standards relating to meters of that or a similar pattern or construction.
 
@@ -89,7 +89,7 @@ A meter, other than a meter which is deemed to be of an approved pattern or cons
 
 provided that a meter complying with sub-paragraph (a), (b) or (c) will be of equivalent standard to a meter complying with a relevant European or international standard recognised for use in any EEA State.
 
-(3A)[^key-92557bc5e0d60108e9d56f8e66fe874e] A meter examiner shall not, unless requested to do so by the person who made the submission, carry out or procure the carrying out of tests in accordance with paragraph (1) if, in connection with the submission,—
+(3A)[^c-92557bc5e0d60108e9d56f8e66fe874e] A meter examiner shall not, unless requested to do so by the person who made the submission, carry out or procure the carrying out of tests in accordance with paragraph (1) if, in connection with the submission,—
 
 - (a) a certified test report has been submitted in support of the application for approval in accordance with regulation 4(1)(c); and
 - (b) he is satisfied—
@@ -98,7 +98,7 @@ provided that a meter complying with sub-paragraph (a), (b) or (c) will be of eq
 
 (4) Any meter which a meter examiner is satisfied complies with the standards set out in paragraph (3) shall be deemed to be capable of accurately recording the quantity of electricity for which it is intended to operate.
 
-(5) For the purpose of paragraph (3) a meter examiner shall take into account the results of the tests carried out by the bodies and laboratories of [^key-cedc1ab4a14ef8131930d3a408bd1bbc]... EEA States where such bodies and laboratories conform with European Standard EN 45001: 1989[^f00006];
+(5) For the purpose of paragraph (3) a meter examiner shall take into account the results of the tests carried out by the bodies and laboratories of [^c-cedc1ab4a14ef8131930d3a408bd1bbc]... EEA States where such bodies and laboratories conform with European Standard EN 45001: 1989[^f00006];
 
 (6) In relation to any one or more of the tests which the meter examiner considers necessary, he may require the person applying for approval to procure the carrying out of specified tests at any premises approved by the Director for carrying out tests of the type specified.
 
@@ -111,13 +111,13 @@ and the meters shall on completion of the test be delivered to the meter examine
 
 (8) A meter which has been submitted to the Director under regulation 4 shall not be repaired or modified by any person, other than by a meter examiner for the purpose of carrying out tests in accordance with this regulation, until a notification has been issued under regulation 6 or 7.
 
-## 6. Notification of refusal of approval[^key-ef3cfe19959d283162d842ba5db81341]
+## 6. Notification of refusal of approval[^c-ef3cfe19959d283162d842ba5db81341]
 
 (1) If a meter examiner concludes that the pattern or construction of the meter or the proposed manner of its installation is such that any meter of that pattern or construction or any such meter installed in that manner will not be capable of satisfying the requirement set out in regulation 5(1), the Director shall notify the person applying for approval accordingly, giving the reasons for such refusal.
 
 (2) Where a meter examiner reaches the conclusion mentioned in paragraph (1) before he has completed every test which he had considered necessary for the purpose of regulation 5, he shall not be required to carry out the remainder of those tests.
 
-## 7. Notification of approval[^key-a745e46b19ff840002ed232509e067b6]
+## 7. Notification of approval[^c-a745e46b19ff840002ed232509e067b6]
 
 (1) Where a meter examiner concludes that the pattern or construction of the meter or the manner of its installation complies with regulation 5(3) or is such that any meter of that pattern or construction or any such meter installed in that manner will be capable of satisfying the requirement set out in regulation 5(1), the meter examiner shall issue a notification of approval to the applicant, and a notification of approval may notify approval both of the pattern or construction of the meter and of the manner of its installation.
 
@@ -143,11 +143,11 @@ and shall relate only to a meter of the pattern or construction and containing t
 
 (7) For the purpose of these Regulations a meter which is installed at an inclination of not more than three degrees from the vertical in any direction shall be deemed to have been installed in a vertical position.
 
-## 8. Modifications[^key-efe73354ae04866cd2dbeeedcb8898be]
+## 8. Modifications[^c-efe73354ae04866cd2dbeeedcb8898be]
 
 A modification to any part of a meter that has satisfied the requirement set out in regulation 5(1) shall cause that meter to cease to be of an approved pattern or construction and installed in an approved manner unless a meter examiner issues a notification of approval under regulation 7 in respect of the pattern or construction and manner of installation of the meter including that modification.
 
-## 9. Revocation of approval[^key-3c81ee40193c7b42b13066db4c7caead]
+## 9. Revocation of approval[^c-3c81ee40193c7b42b13066db4c7caead]
 
 (1) If the Director wishes to revoke an approval given under these Regulations, he shall publish in such manner as he considers appropriate—
 
@@ -166,11 +166,11 @@ and he shall invite representations within a period of not less than 28 days fro
 - (a) Where the approval of the pattern or construction of a meter has been revoked, every meter of that pattern or construction used to ascertain the quantity of electricity supplied by an electricity supplier shall be replaced with a meter of an approved pattern or construction within six months of the date on which the revocation takes effect.
 - (b) Where the approval of the manner of installation of a meter has been revoked, every meter installed in that manner which is used as aforesaid shall be installed in an approved manner within six months of the date on which the revocation takes effect.
 
-## 10. Fees[^key-4ba47db4b1fdfeca0b5ecf28986a61fd]
+## 10. Fees[^c-4ba47db4b1fdfeca0b5ecf28986a61fd]
 
 (1) Where the pattern or construction or manner of installation of a meter has been approved, the person who submitted the application for approval pursuant to these Regulations shall pay to the Director for the approval the fee provided for in paragraph (2).
 
-(2)[^key-1aadcde6d635871ae11bbe78a430dd79] The fee shall be an amount equal to the aggregate of—
+(2)[^c-1aadcde6d635871ae11bbe78a430dd79] The fee shall be an amount equal to the aggregate of—
 
 - (a) in the case of a meter examiner who is a member of the Authority’s staff,
   - (i) a sum calculated at the rate of £45 per hour for all time that the meter examiner spent examining or testing or procuring the testing of the meter, including any time spent attending at any test carried out by another; plus
@@ -181,11 +181,11 @@ and he shall invite representations within a period of not less than 28 days fro
 
 (3) Any fee payable under this regulation shall be paid to the Director on demand.
 
-## 11. Transitional[^key-f3e62f3b8040c8712766dd4c4d87e197]
+## 11. Transitional[^c-f3e62f3b8040c8712766dd4c4d87e197]
 
 A meter of which the pattern or construction and the manner of installation have been approved by the Secretary of State prior to the coming into force of these Regulations shall be deemed to be an approved meter for the purpose of these Regulations until the date upon which that approval would have expired or the period for which that approval was granted expires.
 
-## 12. Revocation[^key-bc24908d30bdff15f18362442e52e75e]
+## 12. Revocation[^c-bc24908d30bdff15f18362442e52e75e]
 
 The Meters (Approval of Pattern or Construction and Method of Installation) Regulations 1990[^f00007] are revoked.
 
@@ -205,15 +205,15 @@ Department of Trade and Industry
 
 Regulations 4 and 7(6)
 
-**1.**[^key-b48de30173b2c54447fdf60dbafd79be] Name and address of the person submitting the application.
+**1.**[^c-b48de30173b2c54447fdf60dbafd79be] Name and address of the person submitting the application.
 
-**2.**[^key-2ee5feb0a13009ef0070d355f84e9448] Name and address of the person by whom the meter was manufactured.
+**2.**[^c-2ee5feb0a13009ef0070d355f84e9448] Name and address of the person by whom the meter was manufactured.
 
-**3.**[^key-6079ba416b8e53f548891c9b27b096e2] The type or model number of the meter.
+**3.**[^c-6079ba416b8e53f548891c9b27b096e2] The type or model number of the meter.
 
-**4.**[^key-f8af35d6beb525ca2e199937077317d4] The voltage and current rating of the meter and the frequency at which it is designed to operate.
+**4.**[^c-f8af35d6beb525ca2e199937077317d4] The voltage and current rating of the meter and the frequency at which it is designed to operate.
 
-**5.**[^key-2621eb846574d33f2a130d48932263e4] A description of the meter, stating—
+**5.**[^c-2621eb846574d33f2a130d48932263e4] A description of the meter, stating—
 
 (1) whether the meter is single or polyphase;
 
@@ -223,21 +223,21 @@ Regulations 4 and 7(6)
 
 (4) if it contains more than one register, the number of registers it contains.
 
-**6.**[^key-73608dce5e5f57641557c580d970761f] Conceptual designs, manufacturing drawings, circuits and schemes of all components.
+**6.**[^c-73608dce5e5f57641557c580d970761f] Conceptual designs, manufacturing drawings, circuits and schemes of all components.
 
-**7.**[^key-72e926371c4c88fcd642ef9bffdc0243] A description and explanation of the information in paragraph 6 sufficient to enable a meter examiner to understand the design and operation of the meter.
+**7.**[^c-72e926371c4c88fcd642ef9bffdc0243] A description and explanation of the information in paragraph 6 sufficient to enable a meter examiner to understand the design and operation of the meter.
 
-**8.**[^key-23577ae3478cb2193acbd6239d9282e8] The manner in which the meter is to be fixed in position.
+**8.**[^c-23577ae3478cb2193acbd6239d9282e8] The manner in which the meter is to be fixed in position.
 
-**9.**[^key-0e52ffc7f5f408fb42119890f51f45ee] A list of any national, European or international standards with which the meter or any parts of it comply or are believed to comply.
+**9.**[^c-0e52ffc7f5f408fb42119890f51f45ee] A list of any national, European or international standards with which the meter or any parts of it comply or are believed to comply.
 
-**10.**[^key-bc0dd7105dacbcd5a9dd59cbbdfaccf6] A report of any examination or test of the meter.
+**10.**[^c-bc0dd7105dacbcd5a9dd59cbbdfaccf6] A report of any examination or test of the meter.
 
-**11.**[^key-ac0778fbc1c529d1f2a9f4b2ede2a114] A statement of the instructions for connection of the meter to the electric line when it is in operation which will be permanently fixed to the meter if a notification of approval is issued (unless the instructions are attached to or impressed on the meters submitted under regulation 4(1)(b)).
+**11.**[^c-ac0778fbc1c529d1f2a9f4b2ede2a114] A statement of the instructions for connection of the meter to the electric line when it is in operation which will be permanently fixed to the meter if a notification of approval is issued (unless the instructions are attached to or impressed on the meters submitted under regulation 4(1)(b)).
 
-**12.**[^key-65f73e8becb47202f14e999347d3ec5a] A statement of any other body to which the meter has been submitted for an approval having the same or substantially similar effect to a notification of approval.
+**12.**[^c-65f73e8becb47202f14e999347d3ec5a] A statement of any other body to which the meter has been submitted for an approval having the same or substantially similar effect to a notification of approval.
 
-**13.**[^key-3a7a447966dcdd469d25016ec1d2f9c6] An indication whether the applicant requires approval of the pattern or construction of the meter, or of the manner of its installation, or of both.
+**13.**[^c-3a7a447966dcdd469d25016ec1d2f9c6] An indication whether the applicant requires approval of the pattern or construction of the meter, or of the manner of its installation, or of both.
 
 (This note is not part of the Regulations)
 
@@ -267,82 +267,82 @@ A compliance cost assessment of the effect of this instrument on the cost of bus
 
 [^f00002]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29); Schedule 7 was modified by the Measuring Instruments (EC Requirements) (Electrical Energy Meters) Regulations 1995 (S.I. [1995/2607](https://www.legislation.gov.uk/uksi/1995/2607)).
 
-[^key-9b5d9f79f4a4abe246c719d2a45ac7fb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-9b5d9f79f4a4abe246c719d2a45ac7fb]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-cafacb3caba1a0f2aa8fd1e7e5f436bf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1998/1565/regulation/2) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-cafacb3caba1a0f2aa8fd1e7e5f436bf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1998/1565/regulation/2) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-d1707bc52524b40c71b8824fabd5f1ee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/2/1) inserted (1.2.2003) by [The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002 (S.I. 2002/3129)](https://www.legislation.gov.uk/uksi/2002/3129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3129/regulation/1/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2002/3129/schedule/paragraph/1/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/3129/regulation/3))
+[^c-d1707bc52524b40c71b8824fabd5f1ee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/2/1) inserted (1.2.2003) by [The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002 (S.I. 2002/3129)](https://www.legislation.gov.uk/uksi/2002/3129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3129/regulation/1/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2002/3129/schedule/paragraph/1/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/3129/regulation/3))
 
 [^f00003]: Footnote: OJ No. L1, 3.1.94, p.1.
 
 [^f00004]: Footnote: OJ No. L1, 3.1.94, p.572.
 
-[^key-65cdbc6427153c2d4b1b2893eb34d877]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/2/1) inserted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-65cdbc6427153c2d4b1b2893eb34d877]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/2/1) inserted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6979c1aa8a54a7d16bb09967bf067426]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/2/1) inserted (1.2.2003) by [The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002 (S.I. 2002/3129)](https://www.legislation.gov.uk/uksi/2002/3129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3129/regulation/1/1), [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2002/3129/schedule/paragraph/1/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/3129/regulation/3))
+[^c-6979c1aa8a54a7d16bb09967bf067426]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/2/1) inserted (1.2.2003) by [The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002 (S.I. 2002/3129)](https://www.legislation.gov.uk/uksi/2002/3129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3129/regulation/1/1), [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2002/3129/schedule/paragraph/1/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/3129/regulation/3))
 
-[^key-ffa28fe50b9b5b0af337a919cbe37b3a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/1565/regulation/3) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-ffa28fe50b9b5b0af337a919cbe37b3a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/1565/regulation/3) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-3dd2b3712edf9dc352a1b99de6cf5310]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/1565/regulation/3) excluded (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 6(5)(b)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/6/5/b) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
+[^c-3dd2b3712edf9dc352a1b99de6cf5310]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/1565/regulation/3) excluded (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 6(5)(b)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/6/5/b) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
 
 [^f00005]: Footnote: S.I. [1995/2607](https://www.legislation.gov.uk/uksi/1995/2607)
 
-[^key-d9834612cab71d3f9b2466d9e9344636]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/1565/regulation/4) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-d9834612cab71d3f9b2466d9e9344636]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/1565/regulation/4) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-b56caa76da72256803398dc60c8237a0]: Textual amendment: Word in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/4/1/a) omitted (1.2.2003) by virtue of [The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002 (S.I. 2002/3129)](https://www.legislation.gov.uk/uksi/2002/3129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3129/regulation/1/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2002/3129/schedule/paragraph/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/3129/regulation/3))
+[^c-b56caa76da72256803398dc60c8237a0]: Textual amendment: Word in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/4/1/a) omitted (1.2.2003) by virtue of [The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002 (S.I. 2002/3129)](https://www.legislation.gov.uk/uksi/2002/3129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3129/regulation/1/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2002/3129/schedule/paragraph/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/3129/regulation/3))
 
-[^key-92d38ce2df535093da2932115925f805]: Textual amendment: [Reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/4/1/c) and word inserted (1.2.2003) by [The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002 (S.I. 2002/3129)](https://www.legislation.gov.uk/uksi/2002/3129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3129/regulation/1/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2002/3129/schedule/paragraph/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/3129/regulation/3))
+[^c-92d38ce2df535093da2932115925f805]: Textual amendment: [Reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/4/1/c) and word inserted (1.2.2003) by [The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002 (S.I. 2002/3129)](https://www.legislation.gov.uk/uksi/2002/3129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3129/regulation/1/1), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2002/3129/schedule/paragraph/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/3129/regulation/3))
 
-[^key-cd84277694d8744030f053071cd03e9d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1998/1565/regulation/5) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-cd84277694d8744030f053071cd03e9d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1998/1565/regulation/5) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-5978c18bda9dc83450a59638c9a00cef]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/5/1) inserted (1.2.2003) by [The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002 (S.I. 2002/3129)](https://www.legislation.gov.uk/uksi/2002/3129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3129/regulation/1/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2002/3129/schedule/paragraph/3/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/3129/regulation/3))
+[^c-5978c18bda9dc83450a59638c9a00cef]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/5/1) inserted (1.2.2003) by [The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002 (S.I. 2002/3129)](https://www.legislation.gov.uk/uksi/2002/3129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3129/regulation/1/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2002/3129/schedule/paragraph/3/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/3129/regulation/3))
 
-[^key-92557bc5e0d60108e9d56f8e66fe874e]: Textual amendment: [Reg. 5(3A)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/5/3A) inserted (1.2.2003) by [The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002 (S.I. 2002/3129)](https://www.legislation.gov.uk/uksi/2002/3129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3129/regulation/1/1), [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2002/3129/schedule/paragraph/3/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/3129/regulation/3))
+[^c-92557bc5e0d60108e9d56f8e66fe874e]: Textual amendment: [Reg. 5(3A)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/5/3A) inserted (1.2.2003) by [The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002 (S.I. 2002/3129)](https://www.legislation.gov.uk/uksi/2002/3129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3129/regulation/1/1), [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2002/3129/schedule/paragraph/3/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/3129/regulation/3))
 
-[^key-cedc1ab4a14ef8131930d3a408bd1bbc]: Textual amendment: Word in [reg. 5(5)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/5/5) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cedc1ab4a14ef8131930d3a408bd1bbc]: Textual amendment: Word in [reg. 5(5)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/5/5) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: EN 45001: 1989, which has the status of a British Standard, is a European Standard entitled “General criteria for the operation of testing laboratories” and is published by the British Standards Institution.
 
-[^key-ef3cfe19959d283162d842ba5db81341]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/1565/regulation/6) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-ef3cfe19959d283162d842ba5db81341]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/1565/regulation/6) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-a745e46b19ff840002ed232509e067b6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1998/1565/regulation/7) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-a745e46b19ff840002ed232509e067b6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1998/1565/regulation/7) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-efe73354ae04866cd2dbeeedcb8898be]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1998/1565/regulation/8) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-efe73354ae04866cd2dbeeedcb8898be]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1998/1565/regulation/8) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-3c81ee40193c7b42b13066db4c7caead]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/1565/regulation/9) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-3c81ee40193c7b42b13066db4c7caead]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/1565/regulation/9) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-4ba47db4b1fdfeca0b5ecf28986a61fd]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/1565/regulation/10) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-4ba47db4b1fdfeca0b5ecf28986a61fd]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/1565/regulation/10) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-1aadcde6d635871ae11bbe78a430dd79]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/10/2)[(2A)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/10/2A) substituted for [reg. 10(2)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/10/2) (1.2.2003) by [The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002 (S.I. 2002/3129)](https://www.legislation.gov.uk/uksi/2002/3129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3129/regulation/1/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2002/3129/schedule/paragraph/4/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/3129/regulation/3))
+[^c-1aadcde6d635871ae11bbe78a430dd79]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/10/2)[(2A)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/10/2A) substituted for [reg. 10(2)](https://www.legislation.gov.uk/uksi/1998/1565/regulation/10/2) (1.2.2003) by [The Electricity (Approval of Pattern or Construction and Installation and Certification) (Amendment) Regulations 2002 (S.I. 2002/3129)](https://www.legislation.gov.uk/uksi/2002/3129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3129/regulation/1/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2002/3129/schedule/paragraph/4/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/3129/regulation/3))
 
-[^key-f3e62f3b8040c8712766dd4c4d87e197]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1998/1565/regulation/11) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-f3e62f3b8040c8712766dd4c4d87e197]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1998/1565/regulation/11) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-bc24908d30bdff15f18362442e52e75e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1998/1565/regulation/12) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-bc24908d30bdff15f18362442e52e75e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1998/1565/regulation/12) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
 [^f00007]: Footnote: S.I. [1990/791](https://www.legislation.gov.uk/uksi/1990/791).
 
-[^key-b48de30173b2c54447fdf60dbafd79be]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/1) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-b48de30173b2c54447fdf60dbafd79be]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/1) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-2ee5feb0a13009ef0070d355f84e9448]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/2) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-2ee5feb0a13009ef0070d355f84e9448]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/2) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-6079ba416b8e53f548891c9b27b096e2]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/3) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-6079ba416b8e53f548891c9b27b096e2]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/3) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-f8af35d6beb525ca2e199937077317d4]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/4) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-f8af35d6beb525ca2e199937077317d4]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/4) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-2621eb846574d33f2a130d48932263e4]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/5) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-2621eb846574d33f2a130d48932263e4]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/5) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-73608dce5e5f57641557c580d970761f]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/6) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-73608dce5e5f57641557c580d970761f]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/6) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-72e926371c4c88fcd642ef9bffdc0243]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/7) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-72e926371c4c88fcd642ef9bffdc0243]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/7) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-23577ae3478cb2193acbd6239d9282e8]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/8) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-23577ae3478cb2193acbd6239d9282e8]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/8) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-0e52ffc7f5f408fb42119890f51f45ee]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/9) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-0e52ffc7f5f408fb42119890f51f45ee]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/9) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-bc0dd7105dacbcd5a9dd59cbbdfaccf6]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/10) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-bc0dd7105dacbcd5a9dd59cbbdfaccf6]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/10) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-ac0778fbc1c529d1f2a9f4b2ede2a114]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/11) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-ac0778fbc1c529d1f2a9f4b2ede2a114]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/11) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-65f73e8becb47202f14e999347d3ec5a]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/12) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-65f73e8becb47202f14e999347d3ec5a]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/12) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
 
-[^key-3a7a447966dcdd469d25016ec1d2f9c6]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/13) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)
+[^c-3a7a447966dcdd469d25016ec1d2f9c6]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/1998/1565/schedule/paragraph/13) in force at 1.8.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/1565/regulation/1)

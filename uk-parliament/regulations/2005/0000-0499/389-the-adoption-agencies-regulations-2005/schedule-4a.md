@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4A — Modifications to Part 4[^key-3488cbf90e9bd40addc69db9b811ccd9]
+## SCHEDULE 4A — Modifications to Part 4[^c-3488cbf90e9bd40addc69db9b811ccd9]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ Regulation 30F(3)
 
 ## Annotations
 
-[^key-3488cbf90e9bd40addc69db9b811ccd9]: Textual amendment: Schs. 4, 4A substituted for Sch. 4 (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [9](https://www.legislation.gov.uk/uksi/2013/985/regulation/9)
+[^c-3488cbf90e9bd40addc69db9b811ccd9]: Textual amendment: Schs. 4, 4A substituted for Sch. 4 (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [9](https://www.legislation.gov.uk/uksi/2013/985/regulation/9)

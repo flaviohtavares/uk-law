@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Flight data monitoring[^key-7123d5f17837189485b7a3e0651c2af4]
+## 98. Flight data monitoring[^c-7123d5f17837189485b7a3e0651c2af4]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7123d5f17837189485b7a3e0651c2af4]: Commencement: [Art. 98](https://www.legislation.gov.uk/uksi/2013/2870/article/98) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-7123d5f17837189485b7a3e0651c2af4]: Commencement: [Art. 98](https://www.legislation.gov.uk/uksi/2013/2870/article/98) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

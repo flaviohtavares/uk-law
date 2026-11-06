@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Enforcement notices[^key-5734057ccf8e0ea0119f748f430a202c]
+## 27. Enforcement notices[^c-5734057ccf8e0ea0119f748f430a202c]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5734057ccf8e0ea0119f748f430a202c]: Commencement: Reg. 27 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-5734057ccf8e0ea0119f748f430a202c]: Commencement: Reg. 27 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

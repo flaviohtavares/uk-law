@@ -45,15 +45,15 @@ In accordance with Article 47(3A) of that Order, it has had regard to relevant a
 
 As required by Article 9 of Regulation (EC) No.178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## 1. Citation and commencement[^key-c9ca7a7da2c58b0bbb3c7834d46def35]
+## 1. Citation and commencement[^c-c9ca7a7da2c58b0bbb3c7834d46def35]
 
 These Regulations may be cited as the Plastic Materials and Articles in Contact with Food (Lid Gaskets) Regulations (Northern Ireland) 2007 and come into operation on 5th November 2007.
 
-## 2. Interpretation[^key-72b2dcf00f5f970a32b91ef3798be8be]
+## 2. Interpretation[^c-72b2dcf00f5f970a32b91ef3798be8be]
 
 (1) In these Regulations —
 
-- “the Commission Regulation” means[^key-9eb7add30883fefec373342352ccdd37] [Commission Regulation (EC) No 372/2007](https://www.legislation.gov.uk/european/regulation/2007/0372) laying down transitional migration limits for plasticisers in gaskets in lids intended to come into contact with foods as amended by [Commission Regulation (EC) No 597/2008](https://www.legislation.gov.uk/european/regulation/2008/0597); amending [Commission Regulation (EC) No. 372/2007](https://www.legislation.gov.uk/european/regulation/2007/0372) laying down transitional migration limits for plasticisers in gaskets in lids intended to come into contact with foods
+- “the Commission Regulation” means[^c-9eb7add30883fefec373342352ccdd37] [Commission Regulation (EC) No 372/2007](https://www.legislation.gov.uk/european/regulation/2007/0372) laying down transitional migration limits for plasticisers in gaskets in lids intended to come into contact with foods as amended by [Commission Regulation (EC) No 597/2008](https://www.legislation.gov.uk/european/regulation/2008/0597); amending [Commission Regulation (EC) No. 372/2007](https://www.legislation.gov.uk/european/regulation/2007/0372) laying down transitional migration limits for plasticisers in gaskets in lids intended to come into contact with foods
 - “authorised officer” means any person who is authorised in writing, either generally or specifically, by a district council to act in matters arising under these Regulations;
 - “import” means import in the course of a business from a place other than a Member State;
 - “lid” means a lid of the type mentioned in Article 1 of the Commission Regulation;
@@ -61,11 +61,11 @@ These Regulations may be cited as the Plastic Materials and Articles in Contact 
 
 (2) Any other expression used in these Regulations and in the Commission Regulation has the same meaning in these Regulations as it bears in the Commission Regulation.
 
-## 3. Enforcement[^key-9daceaa3d78c3b680d5b49e525159b40]
+## 3. Enforcement[^c-9daceaa3d78c3b680d5b49e525159b40]
 
 It shall be the duty of each district council within its district to execute and enforce these Regulations and the Commission Regulation.
 
-## 4. Offences and penalties[^key-f479b81939ee99d51709e3974ca854fb]
+## 4. Offences and penalties[^c-f479b81939ee99d51709e3974ca854fb]
 
 (1) Any person who —
 
@@ -85,15 +85,15 @@ is guilty of an offence.
 
 (3) Nothing in paragraph (1)(c) is to be construed as requiring any person to answer any question or give any information if to do so might incriminate him.
 
-## 5. Offences due to an act or default of a third party[^key-fe8a0a755c448c2f2e8713336bade340]
+## 5. Offences due to an act or default of a third party[^c-fe8a0a755c448c2f2e8713336bade340]
 
 Where the commission by any person of an offence under these Regulations is due to an act or default of some other person, that other person shall be guilty of the offence; and a person may be charged with and convicted of the offence whether or not proceedings are taken against the first mentioned person.
 
-## 6. Time limit for prosecutions[^key-1052251ad744925bd6cab085955f884e]
+## 6. Time limit for prosecutions[^c-1052251ad744925bd6cab085955f884e]
 
 A prosecution for an offence under these Regulations shall not be begun after the expiry of three years from the commission of the offence or one year from its discovery by the prosecution, whichever is the earlier.
 
-## 7. Defence of due diligence[^key-22a7f0dbfbc7619117beb7c8de6c2056]
+## 7. Defence of due diligence[^c-22a7f0dbfbc7619117beb7c8de6c2056]
 
 (1) In any proceedings for an offence under these Regulations it shall, subject to paragraph (4), be a defence for the person accused to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by himself or by a person under his control.
 
@@ -120,7 +120,7 @@ shall be taken to have established the defence provided by paragraph (1) if he s
 
 he has served on the prosecution a notice in writing giving such information identifying or assisting in the identification of that other person as was then in his possession.
 
-## 8. Procedure where a sample is to be analysed[^key-d3c06060132f775f788b804e9b556269]
+## 8. Procedure where a sample is to be analysed[^c-d3c06060132f775f788b804e9b556269]
 
 (1) An authorised officer who has procured a sample under Article 29 of the Order and who considers it should be analysed shall divide the sample into three parts.
 
@@ -134,7 +134,7 @@ he has served on the prosecution a notice in writing giving such information ide
 - (d) submit one part for analysis in accordance with Article 30 of the Order; and
 - (e) retain one part for future submission under regulation 9.
 
-## 9. Secondary analysis by the Government Chemist[^key-42af6b5982157a98f8e053a54d6f3e54]
+## 9. Secondary analysis by the Government Chemist[^c-42af6b5982157a98f8e053a54d6f3e54]
 
 (1) Where a sample has been retained under regulation 8 and —
 
@@ -163,7 +163,7 @@ send the retained part of the sample to the Government Chemist for analysis.
 
 (7) In this regulation “defendant” includes a prospective defendant.
 
-## 10. Application of various Articles of the Food Safety (Northern Ireland) Order 1991[^key-b0562329379d6ceecccfb77526ff13d6]
+## 10. Application of various Articles of the Food Safety (Northern Ireland) Order 1991[^c-b0562329379d6ceecccfb77526ff13d6]
 
 The following provisions of the Order shall apply for the purposes of these Regulations with the modification that any reference in those provisions to the Order or Part thereof shall be construed as a reference to these Regulations —
 
@@ -171,7 +171,7 @@ The following provisions of the Order shall apply for the purposes of these Regu
 - (b) Article 30(8) (which relates to documentary evidence);
 - (c) Article 43 (protection of public analyst acting in good faith).
 
-## 11. Amendment of the Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 1991[^key-7c0dfe218e0e89d2ff3c3e248ae98c36]
+## 11. Amendment of the Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 1991[^c-7c0dfe218e0e89d2ff3c3e248ae98c36]
 
 In the Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 1991[^f00005], in Schedule 1 (provisions to which those Regulations do not apply), at the end add the title of these Regulations.
 
@@ -207,28 +207,28 @@ The Regulations —
 
 [^f00003]: Footnote: OJ No.L31, 1.2.2002, p.1; that Regulation was last amended by Commission Regulation (EC) No.575/2006 (OJ No.L100, 8.4.2006, p.3)
 
-[^key-c9ca7a7da2c58b0bbb3c7834d46def35]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
+[^c-c9ca7a7da2c58b0bbb3c7834d46def35]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
 
-[^key-72b2dcf00f5f970a32b91ef3798be8be]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/419/regulation/2) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
+[^c-72b2dcf00f5f970a32b91ef3798be8be]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/419/regulation/2) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
 
-[^key-9eb7add30883fefec373342352ccdd37]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/419/regulation/2/1) substituted (1.7.2008) by [The Plastic Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/271)](https://www.legislation.gov.uk/nisr/2008/271), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/271/regulation/1/b), [8](https://www.legislation.gov.uk/nisr/2008/271/regulation/8)
+[^c-9eb7add30883fefec373342352ccdd37]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/419/regulation/2/1) substituted (1.7.2008) by [The Plastic Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/271)](https://www.legislation.gov.uk/nisr/2008/271), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/271/regulation/1/b), [8](https://www.legislation.gov.uk/nisr/2008/271/regulation/8)
 
-[^key-9daceaa3d78c3b680d5b49e525159b40]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/419/regulation/3) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
+[^c-9daceaa3d78c3b680d5b49e525159b40]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/419/regulation/3) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
 
-[^key-f479b81939ee99d51709e3974ca854fb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/419/regulation/4) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
+[^c-f479b81939ee99d51709e3974ca854fb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/419/regulation/4) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
 
-[^key-fe8a0a755c448c2f2e8713336bade340]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/419/regulation/5) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
+[^c-fe8a0a755c448c2f2e8713336bade340]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/419/regulation/5) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
 
-[^key-1052251ad744925bd6cab085955f884e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/419/regulation/6) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
+[^c-1052251ad744925bd6cab085955f884e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/419/regulation/6) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
 
-[^key-22a7f0dbfbc7619117beb7c8de6c2056]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/419/regulation/7) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
+[^c-22a7f0dbfbc7619117beb7c8de6c2056]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/419/regulation/7) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
 
-[^key-d3c06060132f775f788b804e9b556269]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/419/regulation/8) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
+[^c-d3c06060132f775f788b804e9b556269]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/419/regulation/8) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
 
-[^key-42af6b5982157a98f8e053a54d6f3e54]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/419/regulation/9) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
+[^c-42af6b5982157a98f8e053a54d6f3e54]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/419/regulation/9) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
 
-[^key-b0562329379d6ceecccfb77526ff13d6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2007/419/regulation/10) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
+[^c-b0562329379d6ceecccfb77526ff13d6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2007/419/regulation/10) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
 
-[^key-7c0dfe218e0e89d2ff3c3e248ae98c36]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2007/419/regulation/11) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
+[^c-7c0dfe218e0e89d2ff3c3e248ae98c36]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2007/419/regulation/11) in operation at 5.11.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/419/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1991 No.198](https://www.legislation.gov.uk/nisr/1991/198), as amended by [S.R. 1998 No.237](https://www.legislation.gov.uk/nisr/1998/237), [S.R. 1998 No.264](https://www.legislation.gov.uk/nisr/1998/264) and [S.R. 1999 No.30](https://www.legislation.gov.uk/nisr/1999/30)

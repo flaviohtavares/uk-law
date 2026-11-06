@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Enforcement by court[^key-979cec9686c65928f1795f479d8a906f]
+## 21. Enforcement by court[^c-979cec9686c65928f1795f479d8a906f]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ The High Court or the Court of Session may, on application by the Secretary of S
 
 ## Annotations
 
-[^key-979cec9686c65928f1795f479d8a906f]: Commencement: S. 21 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-979cec9686c65928f1795f479d8a906f]: Commencement: S. 21 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

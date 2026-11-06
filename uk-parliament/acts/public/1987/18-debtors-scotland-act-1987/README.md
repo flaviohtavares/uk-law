@@ -33,7 +33,7 @@ An Act to make new provision with regard to Scotland for an extension of time fo
 
 \[15th May 1987\]
 
-[^c9359891][^c9359901] Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-e57e9734d5444937a2609dd1a91f9f4c][^key-257c8c48f974e0305e904acfd9e92113][^key-9d2ddc67e68a57d34545ab2626488b25][^key-37ab9528c4fd4cca05e34430438f4a71]
+[^c9359891][^c9359901] Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-e57e9734d5444937a2609dd1a91f9f4c][^c-257c8c48f974e0305e904acfd9e92113][^c-9d2ddc67e68a57d34545ab2626488b25][^c-37ab9528c4fd4cca05e34430438f4a71]
 
 ## Contents
 
@@ -63,35 +63,35 @@ An Act to make new provision with regard to Scotland for an extension of time fo
 - [Section 14 — Circumstances where direction or order not competent or no longer effective.](part-i/section-14.md)
 - [Section 15 — Interpretation of Part I.](part-i/section-15.md)
 
-### Part 1A — Diligence on the dependence[^key-3c7fe2f6760d57634f7fc25d56472f88]
+### Part 1A — Diligence on the dependence[^c-3c7fe2f6760d57634f7fc25d56472f88]
 
-#### Availability of diligence on the dependence[^key-3c7fe2f6760d57634f7fc25d56472f88]
+#### Availability of diligence on the dependence[^c-3c7fe2f6760d57634f7fc25d56472f88]
 
 - [Section 15A — Diligence on the dependence of action](part-1a/section-15a.md)
 - [Section 15B — Diligence on the dependence of petition](part-1a/section-15b.md)
 - [Section 15C — Diligence on the dependence to secure future or contingent debts](part-1a/section-15c.md)
 
-#### Application for diligence on the dependence[^key-3c7fe2f6760d57634f7fc25d56472f88]
+#### Application for diligence on the dependence[^c-3c7fe2f6760d57634f7fc25d56472f88]
 
 - [Section 15D — Application for diligence on the dependence](part-1a/section-15d.md)
 - [Section 15E — Grant of warrant without a hearing](part-1a/section-15e.md)
 - [Section 15F — Hearing on application](part-1a/section-15f.md)
 
-#### Execution before service[^key-3c7fe2f6760d57634f7fc25d56472f88]
+#### Execution before service[^c-3c7fe2f6760d57634f7fc25d56472f88]
 
 - [Section 15G — Execution of diligence before service of summons](part-1a/section-15g.md)
 
-#### Restriction on property attached[^key-3c7fe2f6760d57634f7fc25d56472f88]
+#### Restriction on property attached[^c-3c7fe2f6760d57634f7fc25d56472f88]
 
 - [Section 15H — Sum attached by arrestment on dependence](part-1a/section-15h.md)
 - [Section 15J — Property affected by inhibition on dependence](part-1a/section-15j.md)
 
-#### Recall etc. of diligence on the dependence.[^key-3c7fe2f6760d57634f7fc25d56472f88]
+#### Recall etc. of diligence on the dependence.[^c-3c7fe2f6760d57634f7fc25d56472f88]
 
 - [Section 15K — Recall or restriction of diligence on dependence](part-1a/section-15k.md)
 - [Section 15L — Variation of orders and variation or recall of conditions](part-1a/section-15l.md)
 
-#### General and miscellaneous[^key-3c7fe2f6760d57634f7fc25d56472f88]
+#### General and miscellaneous[^c-3c7fe2f6760d57634f7fc25d56472f88]
 
 - [Section 15M — Expenses of diligence on the dependence](part-1a/section-15m.md)
 - [Section 15N — Application of this Part to admiralty actions](part-1a/section-15n.md)
@@ -212,7 +212,7 @@ An Act to make new provision with regard to Scotland for an extension of time fo
 - [Section 72 — Effect of sequestration on diligence against earnings.](part-iii/section-72.md)
 - [Section 73 — Interpretation of Part III.](part-iii/section-73.md)
 
-### Part 3A — Arrestment and action of furthcoming[^key-eaf7dff9bd16553728e7ec7b7283daf6]
+### Part 3A — Arrestment and action of furthcoming[^c-eaf7dff9bd16553728e7ec7b7283daf6]
 
 *Extent: S*
 
@@ -308,16 +308,16 @@ SCHEDULES
 
 [^c9359901]: Modification: Act excluded (25.4.1991) by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 154](https://www.legislation.gov.uk/ukpga/1989/40/section/154), [155](https://www.legislation.gov.uk/ukpga/1989/40/section/155), [161(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/161/4), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2)
 
-[^key-e57e9734d5444937a2609dd1a91f9f4c]: Modification: Act modified (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
+[^c-e57e9734d5444937a2609dd1a91f9f4c]: Modification: Act modified (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
 
-[^key-257c8c48f974e0305e904acfd9e92113]: Modification: Act applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+[^c-257c8c48f974e0305e904acfd9e92113]: Modification: Act applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
 
-[^key-9d2ddc67e68a57d34545ab2626488b25]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1987/18) applied (with modifications) (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1125/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d2ddc67e68a57d34545ab2626488b25]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1987/18) applied (with modifications) (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1125/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-37ab9528c4fd4cca05e34430438f4a71]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1987/18) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended 4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [21(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-37ab9528c4fd4cca05e34430438f4a71]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1987/18) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended 4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [21(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
-[^key-3c7fe2f6760d57634f7fc25d56472f88]: Textual amendment: Pt. 1A inserted (1.4.2008 except for the insertion of s. 15H(4), 22.4.2009 in so far as not already in force) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 169](https://www.legislation.gov.uk/asp/2007/3/section/169), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(1)(b)(i)](https://www.legislation.gov.uk/ssi/2008/115/article/3/1/b/i) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10), [15](https://www.legislation.gov.uk/ssi/2008/115/article/15)) (as amended: (23.2.2009) by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), art. 7; (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(a); and (4.10.2014) by [S.S.I. 2014/173](https://www.legislation.gov.uk/ssi/2014/173), arts. 1(2), 3); [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2009/67/article/3/1/c) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2009/67/article/4)) (as amended (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(b))
+[^c-3c7fe2f6760d57634f7fc25d56472f88]: Textual amendment: Pt. 1A inserted (1.4.2008 except for the insertion of s. 15H(4), 22.4.2009 in so far as not already in force) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 169](https://www.legislation.gov.uk/asp/2007/3/section/169), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(1)(b)(i)](https://www.legislation.gov.uk/ssi/2008/115/article/3/1/b/i) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10), [15](https://www.legislation.gov.uk/ssi/2008/115/article/15)) (as amended: (23.2.2009) by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), art. 7; (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(a); and (4.10.2014) by [S.S.I. 2014/173](https://www.legislation.gov.uk/ssi/2014/173), arts. 1(2), 3); [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2009/67/article/3/1/c) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2009/67/article/4)) (as amended (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(b))
 
 [^c16224451]: Textual amendment: Part II (ss. 16-45) repealed (30.12.2002) by [Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)](https://www.legislation.gov.uk/asp/2002/17), [s. 58(2)(a)](https://www.legislation.gov.uk/asp/2002/17/section/58/2/a) (with [ss. 59](https://www.legislation.gov.uk/asp/2002/17/section/59), [63](https://www.legislation.gov.uk/asp/2002/17/section/63))
 
-[^key-eaf7dff9bd16553728e7ec7b7283daf6]: Textual amendment: Pt. 3A inserted (1.4.2008 for the insertion of ss. 73A(5), 73B(2), 73C(2), 73E(3), 73F(6), 73G(2), 73H(1)(2), 73M(2)(a), 73Q(3)(a), 73S(1)(2) for specified purposes and for the insertion of s. 73A(2), 22.4.2009 otherwise except for the insertion of s. 73D) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 206](https://www.legislation.gov.uk/asp/2007/3/section/206), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(1)(e)](https://www.legislation.gov.uk/ssi/2008/115/article/3/1/e)[(4)](https://www.legislation.gov.uk/ssi/2008/115/article/3/4), [sch. 3](https://www.legislation.gov.uk/ssi/2008/115/schedule/3) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10), [15](https://www.legislation.gov.uk/ssi/2008/115/article/15)) (as amended: (23.2.2009) by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), art. 7; (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(a); and (4.10.2014) by [S.S.I. 2014/173](https://www.legislation.gov.uk/ssi/2014/173), arts. 1(2), 3); [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2009/67/article/3/1/b) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2009/67/article/4)) (as amended (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(b))
+[^c-eaf7dff9bd16553728e7ec7b7283daf6]: Textual amendment: Pt. 3A inserted (1.4.2008 for the insertion of ss. 73A(5), 73B(2), 73C(2), 73E(3), 73F(6), 73G(2), 73H(1)(2), 73M(2)(a), 73Q(3)(a), 73S(1)(2) for specified purposes and for the insertion of s. 73A(2), 22.4.2009 otherwise except for the insertion of s. 73D) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 206](https://www.legislation.gov.uk/asp/2007/3/section/206), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(1)(e)](https://www.legislation.gov.uk/ssi/2008/115/article/3/1/e)[(4)](https://www.legislation.gov.uk/ssi/2008/115/article/3/4), [sch. 3](https://www.legislation.gov.uk/ssi/2008/115/schedule/3) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10), [15](https://www.legislation.gov.uk/ssi/2008/115/article/15)) (as amended: (23.2.2009) by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), art. 7; (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(a); and (4.10.2014) by [S.S.I. 2014/173](https://www.legislation.gov.uk/ssi/2014/173), arts. 1(2), 3); [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2009/67/article/3/1/b) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2009/67/article/4)) (as amended (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(b))

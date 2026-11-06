@@ -26,11 +26,11 @@ Section 34
 
 #### Exceptions from sections 713 and 714 of ICTA
 
-**1.**[^key-b866e2372e61d893922f23432630cbe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b866e2372e61d893922f23432630cbe9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Foreign securities: delayed remittances
 
-**2.**[^key-3dd9251f5939fc354cb342e7b9b60a92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3dd9251f5939fc354cb342e7b9b60a92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Designated international organisations
 
@@ -197,7 +197,7 @@ Section 34
 
 #### Reallocation within group of gain or loss accruing under section 179
 
-**8.**[^key-7946f6334617ca85fef8003e19fa4548] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7946f6334617ca85fef8003e19fa4548] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Exemptions for disposals by companies with substantial shareholding
 
@@ -218,16 +218,16 @@ at any time on or after 16th March 2005 (irrespective of when the asset was acqu
 
 (2) The amendment made by paragraph 7 has effect in relation to any loss accruing to a company in an accounting period ending on or after 16th March 2005.
 
-(3)[^key-604d08d1e8cfca20a481c1bc88198296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-604d08d1e8cfca20a481c1bc88198296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The amendment made by paragraph 9 has effect in relation to disposals on or after 16th March 2005.
 
 ## Annotations
 
-[^key-b866e2372e61d893922f23432630cbe9]: Textual amendment: Sch. 4 para. 1 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-b866e2372e61d893922f23432630cbe9]: Textual amendment: Sch. 4 para. 1 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-3dd9251f5939fc354cb342e7b9b60a92]: Textual amendment: Sch. 4 para. 2 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-3dd9251f5939fc354cb342e7b9b60a92]: Textual amendment: Sch. 4 para. 2 repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-7946f6334617ca85fef8003e19fa4548]: Textual amendment: Sch. 4 para. 8 repealed (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 8(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/8/c)
+[^c-7946f6334617ca85fef8003e19fa4548]: Textual amendment: Sch. 4 para. 8 repealed (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 8(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/8/c)
 
-[^key-604d08d1e8cfca20a481c1bc88198296]: Textual amendment: Sch. 4 para. 10(3) repealed (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 8(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/8/c)
+[^c-604d08d1e8cfca20a481c1bc88198296]: Textual amendment: Sch. 4 para. 10(3) repealed (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 8(c)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/8/c)

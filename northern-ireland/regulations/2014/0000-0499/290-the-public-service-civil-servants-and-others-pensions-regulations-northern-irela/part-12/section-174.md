@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 174. Reduction of benefits where annual allowance charge paid by scheme manager[^key-7849d58d751c646edb61a02e374055df]
+## 174. Reduction of benefits where annual allowance charge paid by scheme manager[^c-7849d58d751c646edb61a02e374055df]
 
 *Extent: N.I.*
 
@@ -32,10 +32,10 @@ summary: ''
 - (a) must fully reflect the amount paid by the scheme manager; and
 - (b) must be consistent with normal actuarial practice.
 
-(4) Benefits may only be reduced under this regulation to the extent that the reduction would not result in the loss of any part of a guaranteed minimum pension to which a person is entitled under section 10 (earner’s guaranteed minimum) or 13 (minimum pensions for widows, widowers and surviving civil partners)[^key-d90700061db6a13b4dbb154f630fa851] of the 1993 Act.
+(4) Benefits may only be reduced under this regulation to the extent that the reduction would not result in the loss of any part of a guaranteed minimum pension to which a person is entitled under section 10 (earner’s guaranteed minimum) or 13 (minimum pensions for widows, widowers and surviving civil partners)[^c-d90700061db6a13b4dbb154f630fa851] of the 1993 Act.
 
 ## Annotations
 
-[^key-7849d58d751c646edb61a02e374055df]: Commencement: [Reg. 174](https://www.legislation.gov.uk/nisr/2014/290/regulation/174) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-7849d58d751c646edb61a02e374055df]: Commencement: [Reg. 174](https://www.legislation.gov.uk/nisr/2014/290/regulation/174) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-d90700061db6a13b4dbb154f630fa851]: Textual amendment: Words in [reg. 174(4)](https://www.legislation.gov.uk/nisr/2014/290/regulation/174/4) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [55](https://www.legislation.gov.uk/nisr/2022/67/regulation/55)
+[^c-d90700061db6a13b4dbb154f630fa851]: Textual amendment: Words in [reg. 174(4)](https://www.legislation.gov.uk/nisr/2014/290/regulation/174/4) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [55](https://www.legislation.gov.uk/nisr/2022/67/regulation/55)

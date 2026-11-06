@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Prohibitions[^key-3bf51b293df4c477c04c295e7e3e8d44]
+## 8. Prohibitions[^c-3bf51b293df4c477c04c295e7e3e8d44]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ pursuant to regulation 16.
 
 ## Annotations
 
-[^key-3bf51b293df4c477c04c295e7e3e8d44]: Commencement: Reg. 8 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-3bf51b293df4c477c04c295e7e3e8d44]: Commencement: Reg. 8 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

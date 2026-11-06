@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Changes to, and revocation of, orders granting development consent[^key-7737181160b310fb7ce31664d49bf085]
+## 153. Changes to, and revocation of, orders granting development consent[^c-7737181160b310fb7ce31664d49bf085]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 6 (changes to, and revocation of, orders granting development consent) 
 
 ## Annotations
 
-[^key-7737181160b310fb7ce31664d49bf085]: Commencement: S. 153 in force at 1.10.2011 by [S.I. 2011/2054](https://www.legislation.gov.uk/uksi/2011/2054), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/2054/article/2/b)
+[^c-7737181160b310fb7ce31664d49bf085]: Commencement: S. 153 in force at 1.10.2011 by [S.I. 2011/2054](https://www.legislation.gov.uk/uksi/2011/2054), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/2054/article/2/b)

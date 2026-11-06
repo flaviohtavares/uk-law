@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Device referred to in rule 29(3A)(b) of elections rules[^key-4af76187779d02c1aca67df5d52385fd]
+## 12. Device referred to in rule 29(3A)(b) of elections rules[^c-4af76187779d02c1aca67df5d52385fd]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4af76187779d02c1aca67df5d52385fd]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2008/1741/regulation/12) omitted (29.12.2022) by virtue of [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/1309/regulation/7) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4)); [S.I. 2022/1270](https://www.legislation.gov.uk/uksi/2022/1270), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1270/regulation/2)
+[^c-4af76187779d02c1aca67df5d52385fd]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2008/1741/regulation/12) omitted (29.12.2022) by virtue of [The Assistance with Voting for Persons with Disabilities (Amendments) Regulations 2022 (S.I. 2022/1309)](https://www.legislation.gov.uk/uksi/2022/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/1309/regulation/7) (with [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/1309/regulation/1/4)); [S.I. 2022/1270](https://www.legislation.gov.uk/uksi/2022/1270), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1270/regulation/2)

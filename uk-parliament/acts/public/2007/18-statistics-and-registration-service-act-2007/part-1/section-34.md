@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Separation of functions[^key-9814268bad9ece1f03f23164e98fcd1c]
+## 34. Separation of functions[^c-9814268bad9ece1f03f23164e98fcd1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9814268bad9ece1f03f23164e98fcd1c]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2007/18/section/34) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-9814268bad9ece1f03f23164e98fcd1c]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2007/18/section/34) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

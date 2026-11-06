@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Powers of seizure and retention[^key-02a001ed534f71b65524f17dc283c2c9]
+## 187. Powers of seizure and retention[^c-02a001ed534f71b65524f17dc283c2c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ After section 43D of the Terrorism Act 2000 insert—
 
 ## Annotations
 
-[^key-02a001ed534f71b65524f17dc283c2c9]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2022/32/section/187) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)
+[^c-02a001ed534f71b65524f17dc283c2c9]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2022/32/section/187) in force at 28.6.2022, see [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w)

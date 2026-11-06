@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Consequential provision[^M_I_5257f955-2864-4f3b-f763-ce0de7a43eea][^key-dffeac2f8f3dcddd993a49826194aecc]
+## 88. Consequential provision[^M_I_5257f955-2864-4f3b-f763-ce0de7a43eea][^c-dffeac2f8f3dcddd993a49826194aecc]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^M_I_5257f955-2864-4f3b-f763-ce0de7a43eea]: Commencement: S. 88 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-dffeac2f8f3dcddd993a49826194aecc]: Commencement: S. 88 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-dffeac2f8f3dcddd993a49826194aecc]: Commencement: S. 88 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)

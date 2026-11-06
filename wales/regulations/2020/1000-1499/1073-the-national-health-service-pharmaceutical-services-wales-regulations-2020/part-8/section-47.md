@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Conditions relating to providing directed services[^key-51ca7998c5d6a5046c4a469d63eef7ad]
+## 47. Conditions relating to providing directed services[^c-51ca7998c5d6a5046c4a469d63eef7ad]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ if the Local Health Board commissions the services from the person listed in rel
 
 ## Annotations
 
-[^key-51ca7998c5d6a5046c4a469d63eef7ad]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2020/1073/regulation/47) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-51ca7998c5d6a5046c4a469d63eef7ad]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2020/1073/regulation/47) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

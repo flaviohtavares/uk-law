@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Amendment of the Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009[^key-0c6492d3cd85385a86e0d01234dc0b13]
+## 10. Amendment of the Health Professions Council (Practice Committees and Miscellaneous Amendments) Rules Order of Council 2009[^c-0c6492d3cd85385a86e0d01234dc0b13]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ In the Schedule to the Health Professions Council (Practice Committees and Misce
 
 ## Annotations
 
-[^key-0c6492d3cd85385a86e0d01234dc0b13]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2012/1479/article/10) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
+[^c-0c6492d3cd85385a86e0d01234dc0b13]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2012/1479/article/10) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
 
 [^f00011]: Footnote: [S.I. 2009/1355](https://www.legislation.gov.uk/uksi/2009/1355).

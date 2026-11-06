@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 443. Persons who must disclose information indicating engagement in money laundering[^key-e49a5fb59fd5ce027ecd7c8af380d0c9]
+## 443. Persons who must disclose information indicating engagement in money laundering[^c-e49a5fb59fd5ce027ecd7c8af380d0c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ In paragraph (6) of regulation 16 of the Money Laundering Regulations 1993 (supe
 
 ## Annotations
 
-[^key-e49a5fb59fd5ce027ecd7c8af380d0c9]: Commencement: Art. 443 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e49a5fb59fd5ce027ecd7c8af380d0c9]: Commencement: Art. 443 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00302]: Footnote: Sub-paragraph (fa) was inserted into regulation 15(6) by [S.I. 1994/1696](https://www.legislation.gov.uk/uksi/1994/1696), regulation 68, Schedule 8, paragraph 36.

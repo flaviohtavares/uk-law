@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Welfare foods[^key-0cdac604a3abd2a0a6a905bfa3495c21]
+## 27. Welfare foods[^c-0cdac604a3abd2a0a6a905bfa3495c21]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cdac604a3abd2a0a6a905bfa3495c21]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2016/11/section/27) in force at 8.2.2019 by [S.I. 2018/1364](https://www.legislation.gov.uk/uksi/2018/1364), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1364/regulation/2)
+[^c-0cdac604a3abd2a0a6a905bfa3495c21]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2016/11/section/27) in force at 8.2.2019 by [S.I. 2018/1364](https://www.legislation.gov.uk/uksi/2018/1364), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1364/regulation/2)

@@ -22,79 +22,79 @@ summary: ''
 
 Section 63.
 
-### Part 1 — INCOME TAX RELIEF[^key-d2e2c4068d578ba971a38586b949e0a2]
+### Part 1 — INCOME TAX RELIEF[^c-d2e2c4068d578ba971a38586b949e0a2]
 
 **No longer in force.**
 
-#### 1. Introductory[^key-d2e2c4068d578ba971a38586b949e0a2]
+#### 1. Introductory[^c-d2e2c4068d578ba971a38586b949e0a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Oil activities[^key-d2e2c4068d578ba971a38586b949e0a2]
+#### 2. Oil activities[^c-d2e2c4068d578ba971a38586b949e0a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Requirement as to the money raised[^key-d2e2c4068d578ba971a38586b949e0a2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 9. Repayment supplements[^key-d2e2c4068d578ba971a38586b949e0a2]
+#### 6. Requirement as to the money raised[^c-d2e2c4068d578ba971a38586b949e0a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Designated period[^key-d2e2c4068d578ba971a38586b949e0a2]
+**7.**[^c-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9. Repayment supplements[^c-d2e2c4068d578ba971a38586b949e0a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 12. Unquoted company requirement[^key-d2e2c4068d578ba971a38586b949e0a2]
+#### 10. Designated period[^c-d2e2c4068d578ba971a38586b949e0a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Royalties and licence fees[^key-d2e2c4068d578ba971a38586b949e0a2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 15. Value received by individual etc.[^key-d2e2c4068d578ba971a38586b949e0a2]
+#### 12. Unquoted company requirement[^c-d2e2c4068d578ba971a38586b949e0a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**18.**[^key-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 19. Repayment of share capital[^key-d2e2c4068d578ba971a38586b949e0a2]
+#### 14. Royalties and licence fees[^c-d2e2c4068d578ba971a38586b949e0a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**21.**[^key-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 22. Claims[^key-d2e2c4068d578ba971a38586b949e0a2]
+#### 15. Value received by individual etc.[^c-d2e2c4068d578ba971a38586b949e0a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Information[^key-d2e2c4068d578ba971a38586b949e0a2]
+**16.**[^c-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^c-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^c-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 19. Repayment of share capital[^c-d2e2c4068d578ba971a38586b949e0a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. Interpretation[^key-d2e2c4068d578ba971a38586b949e0a2]
+**20.**[^c-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^c-d2e2c4068d578ba971a38586b949e0a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 22. Claims[^c-d2e2c4068d578ba971a38586b949e0a2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 23. Information[^c-d2e2c4068d578ba971a38586b949e0a2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 24. Interpretation[^c-d2e2c4068d578ba971a38586b949e0a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -104,15 +104,15 @@ Section 63.
 
 Schedule 5B to the Taxation of Chargeable Gains Act 1992 (c. 12) is amended in accordance with this Part.
 
-#### 26. Requirement as to the money raised[^key-81723616e6f79a22d6f787323ac6bb37]
+#### 26. Requirement as to the money raised[^c-81723616e6f79a22d6f787323ac6bb37]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-81723616e6f79a22d6f787323ac6bb37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-81723616e6f79a22d6f787323ac6bb37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-81723616e6f79a22d6f787323ac6bb37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-81723616e6f79a22d6f787323ac6bb37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 29. Designated period
 
@@ -405,11 +405,11 @@ In paragraph 19 (interpretation), in sub-paragraph (1)—
 
 ### Part 3 — MISCELLANEOUS AND GENERAL
 
-#### 38. Loss relief[^key-3f47dc81b4c64985e145530b635abb30]
+#### 38. Loss relief[^c-3f47dc81b4c64985e145530b635abb30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 39. Penalties in connection with returns etc.[^key-23bd7686534a700b6a148fff19bc0883]
+#### 39. Penalties in connection with returns etc.[^c-23bd7686534a700b6a148fff19bc0883]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -417,18 +417,18 @@ In paragraph 19 (interpretation), in sub-paragraph (1)—
 
 (1) Except where provision is made to the contrary, the amendments made by this Schedule have effect in accordance with the following provisions of this paragraph.
 
-(2) The amendments made by paragraphs [^key-b879cec3e7dc2c6796665d40dad1eee3]... 26 to 29 and 37 have effect—
+(2) The amendments made by paragraphs [^c-b879cec3e7dc2c6796665d40dad1eee3]... 26 to 29 and 37 have effect—
 
 - (a) in relation to shares issued on or after 7th March 2001, and
-- (b) in respect of the application of [^key-b879cec3e7dc2c6796665d40dad1eee3]... Schedule 5B to the Taxation of Chargeable Gains Act 1992 (c. 12) on or after 7th March 2001 in relation to shares—
+- (b) in respect of the application of [^c-b879cec3e7dc2c6796665d40dad1eee3]... Schedule 5B to the Taxation of Chargeable Gains Act 1992 (c. 12) on or after 7th March 2001 in relation to shares—
   - (i) that were issued after 31st December 1993 but before 7th March 2001, and
   - (ii) to which income tax relief or deferral relief was attributable immediately before 7th March 2001.
 
-(3) The amendments made by paragraphs [^key-10b37fa78c60d3f9fa203f61268a20d9]... 30 to 34 and 36 have effect—
+(3) The amendments made by paragraphs [^c-10b37fa78c60d3f9fa203f61268a20d9]... 30 to 34 and 36 have effect—
 
 - (a) in relation to shares issued on or after 7th March 2001, and
 - (b) in relation to shares issued before that date, in respect of the application of the provisions mentioned in sub-paragraph (2)(b) in relation to—
-  - (i) value received (within the meaning of [^key-10b37fa78c60d3f9fa203f61268a20d9]... paragraph 13 of Schedule 5B to the Taxation of Chargeable Gains Act 1992), and
+  - (i) value received (within the meaning of [^c-10b37fa78c60d3f9fa203f61268a20d9]... paragraph 13 of Schedule 5B to the Taxation of Chargeable Gains Act 1992), and
   - (ii) repayments made,
 
   on or after that date.
@@ -441,14 +441,14 @@ In paragraph 19 (interpretation), in sub-paragraph (1)—
 
 ## Annotations
 
-[^key-d2e2c4068d578ba971a38586b949e0a2]: Textual amendment: Sch. 15 Pt. 1 repealed (with effect in accordance with s. 1034(1)(3) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-d2e2c4068d578ba971a38586b949e0a2]: Textual amendment: Sch. 15 Pt. 1 repealed (with effect in accordance with s. 1034(1)(3) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-81723616e6f79a22d6f787323ac6bb37]: Textual amendment: [Sch. 15 paras. 26-28](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/26) omitted (with effect in accordance with Sch. 8 para. 11 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 10(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/10/a)
+[^c-81723616e6f79a22d6f787323ac6bb37]: Textual amendment: [Sch. 15 paras. 26-28](https://www.legislation.gov.uk/ukpga/2001/9/schedule/15/paragraph/26) omitted (with effect in accordance with Sch. 8 para. 11 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 10(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/10/a)
 
-[^key-3f47dc81b4c64985e145530b635abb30]: Textual amendment: Sch. 15 para. 38 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-3f47dc81b4c64985e145530b635abb30]: Textual amendment: Sch. 15 para. 38 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-23bd7686534a700b6a148fff19bc0883]: Textual amendment: Sch. 15 para. 39 repealed (with effect in accordance with s. 1034(1)(3) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-23bd7686534a700b6a148fff19bc0883]: Textual amendment: Sch. 15 para. 39 repealed (with effect in accordance with s. 1034(1)(3) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-b879cec3e7dc2c6796665d40dad1eee3]: Textual amendment: Words in Sch. 15 para. 40(2) repealed (with effect in accordance with s. 1034(1)(3) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-b879cec3e7dc2c6796665d40dad1eee3]: Textual amendment: Words in Sch. 15 para. 40(2) repealed (with effect in accordance with s. 1034(1)(3) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-10b37fa78c60d3f9fa203f61268a20d9]: Textual amendment: Words in Sch. 15 para. 40(3) repealed (with effect in accordance with s. 1034(1)(3) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-10b37fa78c60d3f9fa203f61268a20d9]: Textual amendment: Words in Sch. 15 para. 40(3) repealed (with effect in accordance with s. 1034(1)(3) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

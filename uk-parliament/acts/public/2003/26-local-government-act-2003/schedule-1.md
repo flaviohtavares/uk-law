@@ -24,7 +24,7 @@ Section 19
 
 ### Introductory
 
-**1.**[^key-fc4e25ff98ecee574f66600d861e0722][^key-27aa37e4a901cda7a090367bb5d8057b] The following are local authorities for the purposes of this Schedule—
+**1.**[^c-fc4e25ff98ecee574f66600d861e0722][^c-27aa37e4a901cda7a090367bb5d8057b] The following are local authorities for the purposes of this Schedule—
 
 - (a) a parish council;
 - (b) a community council;
@@ -32,7 +32,7 @@ Section 19
 
 ### Borrowing
 
-**2.**[^key-6e49e9d7abe3302c937c70c150f5b600][^key-fe8fab139a312e2c0f09caa28b9807cb] (1) Subject to sub-paragraph (2), a local authority may borrow money—
+**2.**[^c-6e49e9d7abe3302c937c70c150f5b600][^c-fe8fab139a312e2c0f09caa28b9807cb] (1) Subject to sub-paragraph (2), a local authority may borrow money—
 
 - (a) for any purpose relevant to its functions under any enactment, or
 - (b) for the purposes of the prudent management of its financial affairs.
@@ -51,7 +51,7 @@ Section 19
 
 (4) A local authority’s functions under this paragraph shall be discharged only by the authority.
 
-**3.**[^key-6243743ea1e041e7d3355242bfa67d3d][^key-da938beaa19a61ad62d95a271832884a] (1) Where a local authority meets any expenditure by borrowing, it shall in each financial year debit the appropriate amount to the account from which that expenditure would otherwise fall to be met; but that duty shall not prevent the authority debiting a larger amount to that account.
+**3.**[^c-6243743ea1e041e7d3355242bfa67d3d][^c-da938beaa19a61ad62d95a271832884a] (1) Where a local authority meets any expenditure by borrowing, it shall in each financial year debit the appropriate amount to the account from which that expenditure would otherwise fall to be met; but that duty shall not prevent the authority debiting a larger amount to that account.
 
 (2) The appropriate amount for the purposes of sub-paragraph (1) is a sum equivalent to an instalment of principal and interest combined such that if paid annually it would secure the payment of interest at the due rate on the outstanding principal together with the repayment of the principal not later than the end of the fixed period.
 
@@ -64,36 +64,36 @@ Section 19
 
 ### Loans
 
-**4.**[^key-a93a65d3928b65c35245c3a0aca0c69c] (1)[^key-f95ebec104e37b9f85e1af74ae5167bd] A local authority may lend to a qualifying local government body, on such terms as they may agree, such sums as the body may require for any purpose for which it is authorised by or under any enactment to borrow money.
+**4.**[^c-a93a65d3928b65c35245c3a0aca0c69c] (1)[^c-f95ebec104e37b9f85e1af74ae5167bd] A local authority may lend to a qualifying local government body, on such terms as they may agree, such sums as the body may require for any purpose for which it is authorised by or under any enactment to borrow money.
 
-(2)[^key-0a3d99ba9d0f1ab4a486d57810442d1c][^key-07cf963fbfa2e649b057968273fa19a0] In sub-paragraph (1), “**qualifying local government body**” means a body with local government functions which is specified for the purposes of this paragraph by regulations made by the appropriate person.
+(2)[^c-0a3d99ba9d0f1ab4a486d57810442d1c][^c-07cf963fbfa2e649b057968273fa19a0] In sub-paragraph (1), “**qualifying local government body**” means a body with local government functions which is specified for the purposes of this paragraph by regulations made by the appropriate person.
 
 ### “Fixed period”
 
-**5.**[^key-ef6c4ff2fe513589cf86553c58768423][^key-43665e4d4987d7ff93c4524ecb594272] In this Schedule, references to the fixed period, in relation to borrowing by a local authority, are to the period within which the money borrowed is to be repaid as determined by the local authority with the consent of the appropriate person.
+**5.**[^c-ef6c4ff2fe513589cf86553c58768423][^c-43665e4d4987d7ff93c4524ecb594272] In this Schedule, references to the fixed period, in relation to borrowing by a local authority, are to the period within which the money borrowed is to be repaid as determined by the local authority with the consent of the appropriate person.
 
 ## Annotations
 
-[^key-fc4e25ff98ecee574f66600d861e0722]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/1) in force at 27.11.2003 for specified purposes for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
+[^c-fc4e25ff98ecee574f66600d861e0722]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/1) in force at 27.11.2003 for specified purposes for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
 
-[^key-27aa37e4a901cda7a090367bb5d8057b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/1) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(b)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-27aa37e4a901cda7a090367bb5d8057b]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/1) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(b)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-6e49e9d7abe3302c937c70c150f5b600]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/2) in force at 27.11.2003 for specified purposes for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
+[^c-6e49e9d7abe3302c937c70c150f5b600]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/2) in force at 27.11.2003 for specified purposes for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
 
-[^key-fe8fab139a312e2c0f09caa28b9807cb]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/2) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(b)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-fe8fab139a312e2c0f09caa28b9807cb]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/2) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(b)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-6243743ea1e041e7d3355242bfa67d3d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/3) in force at 27.11.2003 for specified purposes for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
+[^c-6243743ea1e041e7d3355242bfa67d3d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/3) in force at 27.11.2003 for specified purposes for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
 
-[^key-da938beaa19a61ad62d95a271832884a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/3) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(b)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-da938beaa19a61ad62d95a271832884a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/3) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(b)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-a93a65d3928b65c35245c3a0aca0c69c]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/4) in force at 27.11.2003 for specified purposes for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
+[^c-a93a65d3928b65c35245c3a0aca0c69c]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/4) in force at 27.11.2003 for specified purposes for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
 
-[^key-f95ebec104e37b9f85e1af74ae5167bd]: Commencement: [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/4/1) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(b)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-f95ebec104e37b9f85e1af74ae5167bd]: Commencement: [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/4/1) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(b)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-0a3d99ba9d0f1ab4a486d57810442d1c]: Commencement: [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/4/2) in force at 18.11.2003 for specified purposes for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(g)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/g) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-0a3d99ba9d0f1ab4a486d57810442d1c]: Commencement: [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/4/2) in force at 18.11.2003 for specified purposes for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(g)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/g) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-07cf963fbfa2e649b057968273fa19a0]: Commencement: [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/4/2) in force at 1.4.2004 for E. in so far as not already in force by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(b)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-07cf963fbfa2e649b057968273fa19a0]: Commencement: [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/4/2) in force at 1.4.2004 for E. in so far as not already in force by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(b)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
 
-[^key-ef6c4ff2fe513589cf86553c58768423]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/5) in force at 27.11.2003 for specified purposes for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
+[^c-ef6c4ff2fe513589cf86553c58768423]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/5) in force at 27.11.2003 for specified purposes for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/wsi/2003/3034), [art. 2](https://www.legislation.gov.uk/wsi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/wsi/2003/3034/schedule/1/part/I)
 
-[^key-43665e4d4987d7ff93c4524ecb594272]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/5) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(b)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-43665e4d4987d7ff93c4524ecb594272]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2003/26/schedule/1/paragraph/5) in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(b)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))

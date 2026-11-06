@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Fees[^key-09a8162ff563d3e77d17deb3db56cc5e]
+## 126. Fees[^c-09a8162ff563d3e77d17deb3db56cc5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ After section 414(8) of the Insolvency Act 1986 (fees orders) insert—
 
 ## Annotations
 
-[^key-09a8162ff563d3e77d17deb3db56cc5e]: Commencement: S. 126 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-09a8162ff563d3e77d17deb3db56cc5e]: Commencement: S. 126 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)

@@ -58,9 +58,9 @@ appointed by the Scottish Ministers.
 
 (6) The Scottish Ministers shall pay to the traffic commissioner such amount as is agreed between them to be appropriate to reimburse any expenditure incurred by the commissioner by virtue of subsection (4) above.
 
-(7) In subsection (1) above “**relevant complaint**” means any written complaint made by or on behalf of any individual to an operator of bus[^key-e58a352d9ed2d0c106a0848f5432f79d] services which relates to the operation of any bus service operated by such operator.
+(7) In subsection (1) above “**relevant complaint**” means any written complaint made by or on behalf of any individual to an operator of bus[^c-e58a352d9ed2d0c106a0848f5432f79d] services which relates to the operation of any bus service operated by such operator.
 
-(8)[^key-11d01160f92e023af3f5e9ed7286b6c5] In subsection (7) above, “**bus service**” means—
+(8)[^c-11d01160f92e023af3f5e9ed7286b6c5] In subsection (7) above, “**bus service**” means—
 
 - (a) a local bus service; or
 - (b) a service which—
@@ -70,6 +70,6 @@ appointed by the Scottish Ministers.
 
 ## Annotations
 
-[^key-e58a352d9ed2d0c106a0848f5432f79d]: Textual amendment: Word in [s. 41(7)](https://www.legislation.gov.uk/asp/2001/2/section/41/7) substituted (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 50(a)](https://www.legislation.gov.uk/asp/2005/12/section/50/a), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-e58a352d9ed2d0c106a0848f5432f79d]: Textual amendment: Word in [s. 41(7)](https://www.legislation.gov.uk/asp/2001/2/section/41/7) substituted (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 50(a)](https://www.legislation.gov.uk/asp/2005/12/section/50/a), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
 
-[^key-11d01160f92e023af3f5e9ed7286b6c5]: Textual amendment: [S. 41(8)](https://www.legislation.gov.uk/asp/2001/2/section/41/8) inserted (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 50(b)](https://www.legislation.gov.uk/asp/2005/12/section/50/b), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-11d01160f92e023af3f5e9ed7286b6c5]: Textual amendment: [S. 41(8)](https://www.legislation.gov.uk/asp/2001/2/section/41/8) inserted (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 50(b)](https://www.legislation.gov.uk/asp/2005/12/section/50/b), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

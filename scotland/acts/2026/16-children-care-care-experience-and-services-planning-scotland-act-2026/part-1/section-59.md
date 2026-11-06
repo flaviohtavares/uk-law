@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Power to require that arrested children be taken to a place other than a police station, etc.[^key-d847d977dfd56a9fd234092107891a28]
+## 59. Power to require that arrested children be taken to a place other than a police station, etc.[^c-d847d977dfd56a9fd234092107891a28]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d847d977dfd56a9fd234092107891a28]: Commencement: S. 59 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-d847d977dfd56a9fd234092107891a28]: Commencement: S. 59 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

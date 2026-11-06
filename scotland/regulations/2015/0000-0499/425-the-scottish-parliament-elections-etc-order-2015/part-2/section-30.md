@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. False statements in nomination papers etc.[^key-7e110da849e517af909258bfcfb2e7ec]
+## 30. False statements in nomination papers etc.[^c-7e110da849e517af909258bfcfb2e7ec]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ which S knows to be false in any particular.
 
 ## Annotations
 
-[^key-7e110da849e517af909258bfcfb2e7ec]: Commencement: Art. 30 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-7e110da849e517af909258bfcfb2e7ec]: Commencement: Art. 30 in force at 16.12.2015 in accordance with art. 1(1)

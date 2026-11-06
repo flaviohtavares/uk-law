@@ -407,21 +407,21 @@ either party to the marriage may apply to the court in the manner prescribed by 
 
 #### 19. Jurisdiction of the court
 
-(1) Subject to paragraph (1A)[^key-f7775cca7976bfca6630ff7391030252], the court shall have jurisdiction to entertain an application for an order for financial relief if any of the following jurisdictional requirements are satisfied, that is to say—
+(1) Subject to paragraph (1A)[^c-f7775cca7976bfca6630ff7391030252], the court shall have jurisdiction to entertain an application for an order for financial relief if any of the following jurisdictional requirements are satisfied, that is to say—
 
 - (a) either of the parties to the marriage was domiciled in Northern Ireland on the date of the application for leave under Article 17 or was so domiciled on the date on which the divorce, annulment or legal separation obtained in the overseas country took effect in that country; or
 - (b) either of the parties to the marriage was habitually resident in Northern Ireland throughout the period of one year ending with the date of the application for leave or was so resident throughout the period of one year ending with the date on which the divorce, annulment or legal separation obtained in the overseas country took effect in that country; or
 - (c) either or both of the parties to the marriage had at the date of the application for leave a beneficial interest in possession in a dwelling-house situated in Northern Ireland which was at some time during the marriage a matrimonial home of the parties to the marriage.
 
-(1A)[^c22314161] If an application or part of an application for an order under this Part relates to a matter in relation to which Article 18 of the 2007 Hague Convention applies, the court may not entertain the application or that part of it except where permitted by Article 18[^key-c190db462fb6c7d48aaaf5e9d3692f2f].
+(1A)[^c22314161] If an application or part of an application for an order under this Part relates to a matter in relation to which Article 18 of the 2007 Hague Convention applies, the court may not entertain the application or that part of it except where permitted by Article 18[^c-c190db462fb6c7d48aaaf5e9d3692f2f].
 
-(2)[^key-9a55fe02ba73ab276bb9e57e7eae6443] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9a55fe02ba73ab276bb9e57e7eae6443] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^c22540941] “The 2007 Hague Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance concluded on 23 November 2007 at The Hague[^key-1a058b1f4f4008c07539063350287442].
+(3)[^c22540941] “The 2007 Hague Convention” means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance concluded on 23 November 2007 at The Hague[^c-1a058b1f4f4008c07539063350287442].
 
 #### 20. Duty of the court to consider whether Northern Ireland is appropriate venue for application
 
-(1) [^key-2579842d2ed2a3e44d24a91352efddf1]... before making an order for financial relief the court shall consider whether in all the circumstances of the case it would be appropriate for such an order to be made by a court in Northern Ireland, and if the court is not satisfied that it would be appropriate, the court shall dismiss the application.
+(1) [^c-2579842d2ed2a3e44d24a91352efddf1]... before making an order for financial relief the court shall consider whether in all the circumstances of the case it would be appropriate for such an order to be made by a court in Northern Ireland, and if the court is not satisfied that it would be appropriate, the court shall dismiss the application.
 
 (2) The court shall in particular have regard to the following matters—
 
@@ -435,9 +435,9 @@ either party to the marriage may apply to the court in the manner prescribed by 
 - (h) the extent to which any order made under this Part is likely to be enforceable;
 - (i) the length of time which has elapsed since the date of the divorce, annulment or legal separation.
 
-(3)[^key-11331134786df932315caad626fd2d79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-11331134786df932315caad626fd2d79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-b2d36b649f54d678401ba16d329de1fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b2d36b649f54d678401ba16d329de1fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Orders for financial provision and property adjustment
 
@@ -664,7 +664,7 @@ In this Part—
 - (d) a declaration that the validity of a divorce, annulment or legal separation obtained in any country outside Northern Ireland in respect of the marriage is entitled to recognition in Northern Ireland;
 - (e) a declaration that the validity of a divorce, annulment or legal separation so obtained in respect of the marriage is not entitled to recognition in Northern Ireland.
 
-(2) A court shall have jurisdiction to entertain an application under paragraph (1) if (and only if) paragraph (2A) applies or[^key-04d64dbc1bef6fc33e8e82d773296106] either of the parties to the marriage to which the application relates—
+(2) A court shall have jurisdiction to entertain an application under paragraph (1) if (and only if) paragraph (2A) applies or[^c-04d64dbc1bef6fc33e8e82d773296106] either of the parties to the marriage to which the application relates—
 
 - (a) is domiciled in Northern Ireland on the date of the application, or
 - (b) has been habitually resident in Northern Ireland throughout the period of one year ending with that date, or
@@ -672,7 +672,7 @@ In this Part—
   - (i) was at death domiciled in Northern Ireland, or
   - (ii) had been habitually resident in Northern Ireland throughout the period of one year ending with the date of death.
 
-(2A)[^key-fddb69898cdfaabe12e6bae91b906627] This paragraph applies where—
+(2A)[^c-fddb69898cdfaabe12e6bae91b906627] This paragraph applies where—
 
 - (a) the two people concerned are of the same sex and married each other under the law of Northern Ireland, and
 - (b) it appears to the court to be in the interests of justice to assume jurisdiction in the case.
@@ -842,7 +842,7 @@ No person shall after the coming into operation of this Part be entitled to peti
 
 (1) In this Part “the court”
 
-- (a)[^key-9303af878627c2e558673c38f59a719f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9303af878627c2e558673c38f59a719f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (aa)[^c17016731] in Article 31B means the High Court, the county court or a court of summary jurisdiction,
 - (b) in the other provisions of this Part means the High Court or the county court.
 
@@ -910,23 +910,23 @@ the proceedings shall abate but without prejudice to the powers of the court as 
 
 [^c17016111]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-f7775cca7976bfca6630ff7391030252]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/nisi/1989/677/article/19/1) substituted (31.12.2020) by S.I. 2019/519, Sch. para. 18(2)(a) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(h)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/h))
+[^c-f7775cca7976bfca6630ff7391030252]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/nisi/1989/677/article/19/1) substituted (31.12.2020) by S.I. 2019/519, Sch. para. 18(2)(a) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(h)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/h))
 
 [^c22314161]: Textual amendment: Art. 19(1A) inserted (18.6.2011) by [Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 9](https://www.legislation.gov.uk/uksi/2011/1484/regulation/9), [Sch. 7 para. 21(2)(b)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/21/2/b)
 
-[^key-c190db462fb6c7d48aaaf5e9d3692f2f]: Textual amendment: Words in [art. 19(1A)](https://www.legislation.gov.uk/nisi/1989/677/article/19/1A) substituted (31.12.2020) by S.I. 2019/519, Sch. para. 18(2)(b) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(h)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/h))
+[^c-c190db462fb6c7d48aaaf5e9d3692f2f]: Textual amendment: Words in [art. 19(1A)](https://www.legislation.gov.uk/nisi/1989/677/article/19/1A) substituted (31.12.2020) by S.I. 2019/519, Sch. para. 18(2)(b) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(h)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/h))
 
-[^key-9a55fe02ba73ab276bb9e57e7eae6443]: Textual amendment: [Art. 19(2)](https://www.legislation.gov.uk/nisi/1989/677/article/19/2) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [64](https://www.legislation.gov.uk/uksi/2019/479/regulation/64) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9a55fe02ba73ab276bb9e57e7eae6443]: Textual amendment: [Art. 19(2)](https://www.legislation.gov.uk/nisi/1989/677/article/19/2) omitted (31.12.2020) by virtue of [The Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/479)](https://www.legislation.gov.uk/uksi/2019/479), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/479/regulation/1/1), [64](https://www.legislation.gov.uk/uksi/2019/479/regulation/64) (with [regs. 92-95](https://www.legislation.gov.uk/uksi/2019/479/regulation/92)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [5(2)-(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22540941]: Textual amendment: Art. 19(3) inserted (18.6.2011) by [Civil Jurisdiction and Judgments (Maintenance) Regulations 2011 (S.I. 2011/1484)](https://www.legislation.gov.uk/uksi/2011/1484), [reg. 9](https://www.legislation.gov.uk/uksi/2011/1484/regulation/9), [Sch. 7 para. 21(2)(d)](https://www.legislation.gov.uk/uksi/2011/1484/schedule/7/paragraph/21/2/d)
 
-[^key-1a058b1f4f4008c07539063350287442]: Textual amendment: Words in [art. 19(3)](https://www.legislation.gov.uk/nisi/1989/677/article/19/3) substituted (31.12.2020) by S.I. 2019/519, Sch. para. 18(2)(c) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(h)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/h))
+[^c-1a058b1f4f4008c07539063350287442]: Textual amendment: Words in [art. 19(3)](https://www.legislation.gov.uk/nisi/1989/677/article/19/3) substituted (31.12.2020) by S.I. 2019/519, Sch. para. 18(2)(c) (as substituted by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(3)(h)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/3/h))
 
-[^key-2579842d2ed2a3e44d24a91352efddf1]: Textual amendment: Words in [art. 20(1)](https://www.legislation.gov.uk/nisi/1989/677/article/20/1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 18(3)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/18/3/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2579842d2ed2a3e44d24a91352efddf1]: Textual amendment: Words in [art. 20(1)](https://www.legislation.gov.uk/nisi/1989/677/article/20/1) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 18(3)(a)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/18/3/a) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-11331134786df932315caad626fd2d79]: Textual amendment: [Art. 20(3)](https://www.legislation.gov.uk/nisi/1989/677/article/20/3) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 18(3)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/18/3/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-11331134786df932315caad626fd2d79]: Textual amendment: [Art. 20(3)](https://www.legislation.gov.uk/nisi/1989/677/article/20/3) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 18(3)(b)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/18/3/b) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b2d36b649f54d678401ba16d329de1fe]: Textual amendment: [Art. 20(4)](https://www.legislation.gov.uk/nisi/1989/677/article/20/4) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 18(3)(c)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/18/3/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b2d36b649f54d678401ba16d329de1fe]: Textual amendment: [Art. 20(4)](https://www.legislation.gov.uk/nisi/1989/677/article/20/4) omitted (31.12.2020) by virtue of [The Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/519)](https://www.legislation.gov.uk/uksi/2019/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/519/regulation/1/1), [Sch. para. 18(3)(c)](https://www.legislation.gov.uk/uksi/2019/519/schedule/paragraph/18/3/c) (with [reg. 8](https://www.legislation.gov.uk/uksi/2019/519/regulation/8)) (as amended by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21094911]: Textual amendment: [1999 NI 11](https://www.legislation.gov.uk/1999/ni11)
 
@@ -966,9 +966,9 @@ the proceedings shall abate but without prejudice to the powers of the court as 
 
 [^c17016491]: Textual amendment: [1979 NI 8](https://www.legislation.gov.uk/1979/ni8)
 
-[^key-04d64dbc1bef6fc33e8e82d773296106]: Textual amendment: Words in [art. 31(2)](https://www.legislation.gov.uk/nisi/1989/677/article/31/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [37(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/37/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-04d64dbc1bef6fc33e8e82d773296106]: Textual amendment: Words in [art. 31(2)](https://www.legislation.gov.uk/nisi/1989/677/article/31/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [37(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/37/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-fddb69898cdfaabe12e6bae91b906627]: Textual amendment: [Art. 31(2A)](https://www.legislation.gov.uk/nisi/1989/677/article/31/2A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [37(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/37/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-fddb69898cdfaabe12e6bae91b906627]: Textual amendment: [Art. 31(2A)](https://www.legislation.gov.uk/nisi/1989/677/article/31/2A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [37(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/37/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c17016501]: Textual amendment: [2000 c. 4 (NI)](https://www.legislation.gov.uk/nia/2000/4)
 
@@ -994,7 +994,7 @@ the proceedings shall abate but without prejudice to the powers of the court as 
 
 [^c17016711]: Textual amendment: [1928 c. 5 (NI)](https://www.legislation.gov.uk/apni/1928/5)
 
-[^key-9303af878627c2e558673c38f59a719f]: Textual amendment: [Art. 40(1)(a)](https://www.legislation.gov.uk/nisi/1989/677/article/40/1/a) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 96](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/96), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-9303af878627c2e558673c38f59a719f]: Textual amendment: [Art. 40(1)(a)](https://www.legislation.gov.uk/nisi/1989/677/article/40/1/a) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 96](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/96), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c17016731]: Textual amendment: [2000 c. 4 (NI)](https://www.legislation.gov.uk/nia/2000/4)
 

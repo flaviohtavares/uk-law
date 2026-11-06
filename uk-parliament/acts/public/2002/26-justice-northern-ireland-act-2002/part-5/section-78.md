@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Power to abolish Court Service[^key-eccd5749da9d0aa68bbf0e2cb8d03f67]
+## 78. Power to abolish Court Service[^c-eccd5749da9d0aa68bbf0e2cb8d03f67]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eccd5749da9d0aa68bbf0e2cb8d03f67]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2002/26/section/78) in force at 1.3.2010 by [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(a)](https://www.legislation.gov.uk/nisr/2010/52/article/2/a)
+[^c-eccd5749da9d0aa68bbf0e2cb8d03f67]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2002/26/section/78) in force at 1.3.2010 by [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(a)](https://www.legislation.gov.uk/nisr/2010/52/article/2/a)

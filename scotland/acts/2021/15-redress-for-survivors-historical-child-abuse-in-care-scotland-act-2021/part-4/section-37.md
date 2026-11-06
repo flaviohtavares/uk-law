@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Assessment of amount of redress payment[^key-a1dabd3215bebdd579e725d2b892d6e6]
+## 37. Assessment of amount of redress payment[^c-a1dabd3215bebdd579e725d2b892d6e6]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1dabd3215bebdd579e725d2b892d6e6]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2021/15/section/37) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-a1dabd3215bebdd579e725d2b892d6e6]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2021/15/section/37) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Exception for research[^key-2dc59261ad8b5acd30925da2b6ce00d3]
+## 4. Exception for research[^c-2dc59261ad8b5acd30925da2b6ce00d3]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dc59261ad8b5acd30925da2b6ce00d3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/406) revoked with savings (3.1.2019) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2018 (S.R. 2018/213)](https://www.legislation.gov.uk/nisr/2018/213), [reg. 22](https://www.legislation.gov.uk/nisr/2018/213/regulation/22) (with [reg. 23](https://www.legislation.gov.uk/nisr/2018/213/regulation/23))
+[^c-2dc59261ad8b5acd30925da2b6ce00d3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/406) revoked with savings (3.1.2019) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2018 (S.R. 2018/213)](https://www.legislation.gov.uk/nisr/2018/213), [reg. 22](https://www.legislation.gov.uk/nisr/2018/213/regulation/22) (with [reg. 23](https://www.legislation.gov.uk/nisr/2018/213/regulation/23))

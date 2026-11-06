@@ -22,12 +22,12 @@ summary: ''
 
 (1) Schedule 22 (which makes provision about individual voluntary arrangements) shall have effect.
 
-(2)[^key-c1bd572bb8648ab5e72f77c58fe07149] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c1bd572bb8648ab5e72f77c58fe07149] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c1bd572bb8648ab5e72f77c58fe07149] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c1bd572bb8648ab5e72f77c58fe07149] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-c1bd572bb8648ab5e72f77c58fe07149] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c1bd572bb8648ab5e72f77c58fe07149] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c1bd572bb8648ab5e72f77c58fe07149]: Textual amendment: [S. 264(2)-(4)](https://www.legislation.gov.uk/ukpga/2002/40/section/264/2) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 135(3)(a)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/3/a), [164(3)(i)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/iv) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/4))
+[^c-c1bd572bb8648ab5e72f77c58fe07149]: Textual amendment: [S. 264(2)-(4)](https://www.legislation.gov.uk/ukpga/2002/40/section/264/2) omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 135(3)(a)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/3/a), [164(3)(i)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/iv) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/4))

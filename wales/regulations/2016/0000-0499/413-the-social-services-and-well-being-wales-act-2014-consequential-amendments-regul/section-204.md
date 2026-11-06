@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**204.**[^key-8036c8eb729def8bf4e94c8931880294] The Health and Social Care (Community Health and Standards) Act 2003 is amended as follows.
+**204.**[^c-8036c8eb729def8bf4e94c8931880294] The Health and Social Care (Community Health and Standards) Act 2003 is amended as follows.
 
 ## Annotations
 
-[^key-8036c8eb729def8bf4e94c8931880294]: Commencement: Reg. 204 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-8036c8eb729def8bf4e94c8931880294]: Commencement: Reg. 204 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

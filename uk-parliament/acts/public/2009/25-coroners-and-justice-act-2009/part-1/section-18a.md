@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Medical examiners: England[^key-8322240b5f58b5b68ac5b517bf189410]
+## 18A. Medical examiners: England[^c-8322240b5f58b5b68ac5b517bf189410]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8322240b5f58b5b68ac5b517bf189410]: Textual amendment: [Ss. 18A](https://www.legislation.gov.uk/ukpga/2009/25/section/18A), [18B](https://www.legislation.gov.uk/ukpga/2009/25/section/18B) inserted (1.10.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/1), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)
+[^c-8322240b5f58b5b68ac5b517bf189410]: Textual amendment: [Ss. 18A](https://www.legislation.gov.uk/ukpga/2009/25/section/18A), [18B](https://www.legislation.gov.uk/ukpga/2009/25/section/18B) inserted (1.10.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 169(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/169/1), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/b)

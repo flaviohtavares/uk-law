@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26A. Transfers in respect of dormant assets[^key-a212d3bd76e0abc6233d474b06ebd956]
+## 26A. Transfers in respect of dormant assets[^c-a212d3bd76e0abc6233d474b06ebd956]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a212d3bd76e0abc6233d474b06ebd956]: Textual amendment: [S. 26A](https://www.legislation.gov.uk/ukpga/1992/12/section/26A) substituted (6.6.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)
+[^c-a212d3bd76e0abc6233d474b06ebd956]: Textual amendment: [S. 26A](https://www.legislation.gov.uk/ukpga/1992/12/section/26A) substituted (6.6.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2022/3/schedule/6/paragraph/6); [S.I. 2022/569](https://www.legislation.gov.uk/uksi/2022/569), [reg. 2](https://www.legislation.gov.uk/uksi/2022/569/regulation/2)

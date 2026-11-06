@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**24.**[^key-9baedf85375e149a2c4999efb8e16f47] The community of Llanrhidian Lower as changed by this Order is abolished.
+**24.**[^c-9baedf85375e149a2c4999efb8e16f47] The community of Llanrhidian Lower as changed by this Order is abolished.
 
 ## Annotations
 
-[^key-9baedf85375e149a2c4999efb8e16f47]: Commencement: [Art. 24](https://www.legislation.gov.uk/wsi/2026/95/article/24) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-9baedf85375e149a2c4999efb8e16f47]: Commencement: [Art. 24](https://www.legislation.gov.uk/wsi/2026/95/article/24) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

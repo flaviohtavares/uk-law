@@ -30,7 +30,7 @@ summary: ''
 
 INDUSTRIAL POLLUTION CONTROL
 
-The Industrial Pollution Control (Prescribed Processes and Substances) Regulations (Northern Ireland) 1998 (revoked)[^key-7d37c14922ebeba9f6c577a96e35106b]
+The Industrial Pollution Control (Prescribed Processes and Substances) Regulations (Northern Ireland) 1998 (revoked)[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 Made
 
@@ -40,43 +40,43 @@ Coming into operation
 
 2nd March 1998
 
-[^key-7d37c14922ebeba9f6c577a96e35106b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d37c14922ebeba9f6c577a96e35106b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7d37c14922ebeba9f6c577a96e35106b]
+## 1. Citation and commencement[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7d37c14922ebeba9f6c577a96e35106b]
+## 2. Interpretation[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed Processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+## 3. Prescribed Processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exceptions[^key-7d37c14922ebeba9f6c577a96e35106b]
+## 4. Exceptions[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Enforcement[^key-7d37c14922ebeba9f6c577a96e35106b]
+## 5. Enforcement[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Prescribed substances: release into the air, water, or land[^key-7d37c14922ebeba9f6c577a96e35106b]
+## 6. Prescribed substances: release into the air, water, or land[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d37c14922ebeba9f6c577a96e35106b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d37c14922ebeba9f6c577a96e35106b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DESCRIPTIONS OF PROCESSES[^key-7d37c14922ebeba9f6c577a96e35106b]
+## SCHEDULE 1 — DESCRIPTIONS OF PROCESSES[^c-7d37c14922ebeba9f6c577a96e35106b]
 
-### Chapter 1 — Fuel Production Processes, Combustion Processes (including Power Generation) and Associated Processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+### Chapter 1 — Fuel Production Processes, Combustion Processes (including Power Generation) and Associated Processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
-#### Section 1.1 — Gasification and associated Processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 1.1 — Gasification and associated Processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
@@ -98,7 +98,7 @@ In paragraph (*c*) of Part B of this Section, “refining natural gas” does no
 
 ##### Part C — Nil
 
-#### Section 1.2 — Carbonisation and associated Processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 1.2 — Carbonisation and associated Processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
@@ -111,7 +111,7 @@ Nothing in paragraph (*a*) or (*b*) refers to the use of any substance as a fuel
 
 ##### Part C — Nil
 
-#### Section 1.3 — Combustion Processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 1.3 — Combustion Processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
@@ -119,12 +119,12 @@ Nothing in paragraph (*a*) or (*b*) refers to the use of any substance as a fuel
 
 For the purposes of this paragraph, where—
 
-- (i)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ii)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 are operated by the same person at the same location those boilers or furnaces, or, as the case may be, those turbines or engines, shall be treated as a single combustion appliance with a net rated thermal input of 50 megawatts or more.
 
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Nothing in this Part of this Section applies to the burning of any fuel in a boiler, furnace or other appliance with a net rated thermal input of less than 3 megawatts.
 
@@ -134,11 +134,11 @@ Nothing in this Part of this Section applies to the burning of any fuel in a boi
 
 The following processes unless carried on in relation to and as part of any Part A or Part B process—
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 In paragraph (*b*) of Part A and paragraph (*e*) of Part C, “fuel” does not include gas produced by biological degradation of waste; and for the purposes of this Section—
 
@@ -146,12 +146,12 @@ In paragraph (*b*) of Part A and paragraph (*e*) of Part C, “fuel” does not 
 - “waste oil” means any mineral based lubricating or industrial oil which has become unfit for the use for which it was intended and, in particular, used combustion engine oil, gearbox oil, mineral lubricating oil, oil for turbines, hydraulic oil; and
 - “recovered oil” means waste oil which has been processed before being used.
 
-#### Section 1.4 — Petroleum processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 1.4 — Petroleum processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B
 
@@ -167,9 +167,9 @@ In this part of this Section—
 
 ##### Part C — Nil
 
-### Chapter 2 — Metal Production and Processing[^key-7d37c14922ebeba9f6c577a96e35106b]
+### Chapter 2 — Metal Production and Processing[^c-7d37c14922ebeba9f6c577a96e35106b]
 
-#### Section 2.1 — Iron and Steel[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 2.1 — Iron and Steel[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
@@ -190,27 +190,27 @@ Nothing in paragraph (*a*) or (*b*) of this Part of this Section applies to the 
 
 A process does not fall within paragraph (*a*), (*b*), (*c*) or (*d*) of this Part of this Section unless—
 
-- (i)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ii)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part C
 
 Any of the following processes, not described in Parts A or B of this Section:
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Any description of a process in this Section includes, where the process produces slag, the crushing, screening or grading or other treatment of the slag if that process is related to the process in question.
 
@@ -218,7 +218,7 @@ In this Section “net rated thermal input” has the same meaning as in Section
 
 In this Section and Section 2.2, “ferrous alloy” means an alloy of which iron is the largest constituent, or equal to the largest constituent, by weight, whether or not that alloy also has a non-ferrous metal content greater than any percentage specified in Section 2.2 below, and “non-ferrous metal alloy” shall be construed accordingly.
 
-#### Section 2.2 — Non-Ferrous metals[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 2.2 — Non-Ferrous metals[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
@@ -230,16 +230,16 @@ In this Section and Section 2.2, “ferrous alloy” means an alloy of which iro
 
 In this paragraph “material” includes ores, scrap and other waste.
 
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B
 
@@ -254,49 +254,49 @@ The processes described in paragraphs (*a*) and (*c*) include any related proces
 
 Any of the following processes, not described in Parts A or B of this Section:
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 In this Section “net rated thermal input” has the same meaning as in Section 1.3.
 
 Nothing in this Section shall be taken to prescribe the process of hand soldering or flow soldering.
 
-### Chapter 3 — Mineral Industries[^key-7d37c14922ebeba9f6c577a96e35106b]
+### Chapter 3 — Mineral Industries[^c-7d37c14922ebeba9f6c577a96e35106b]
 
-#### Section 3.1 — Cement and lime manufacture and associated processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 3.1 — Cement and lime manufacture and associated processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part C
 
 Any of the following processes, if not related to a process falling within a description in Part A or B of this Section:
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Section 3.2 — Processes involving asbestos[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 3.2 — Processes involving asbestos[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B
 
@@ -308,20 +308,20 @@ In this Section, “asbestos” means any of the following fibrous silicates—
 
 - actinolite, amosite, anthophyllite, chrysotile, crocidolite and tremolite.
 
-#### Section 3.3 — Other mineral fibres[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 3.3 — Other mineral fibres[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
 Manufacturing
 
-- (i)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ii)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B — Nil
 
 ##### Part C — Nil
 
-#### Section 3.4 — Other mineral Processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 3.4 — Other mineral Processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A — Nil
 
@@ -329,18 +329,18 @@ Manufacturing
 
 Any of the following processes except where—
 
-- (i)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ii)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (iii)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (iii)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 In this paragraph “designated mineral or mineral product” means—
 
-- (i)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ii)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (iii)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (iv)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (iii)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (iv)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part C
 
@@ -359,7 +359,7 @@ In this paragraph “designated mineral or mineral product” means—
 
 Nothing in this Section applies to any process carried on underground.
 
-#### Section 3.5 — Glass manufacture and production[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 3.5 — Glass manufacture and production[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
@@ -367,22 +367,22 @@ The manufacture of glass frit or enamel frit and its use in any process where th
 
 ##### Part B
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part C — Nil
 
-#### Section 3.6 — Ceramic Production[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 3.6 — Ceramic Production[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A — Nil
 
 ##### Part B
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part C
 
@@ -392,21 +392,21 @@ In this Section, “clay” includes a blend of clay with ash, sand or other mat
 
 - “refractory material” means material (such as fireclay, silica, magnesite, chrome-magnesite, sillimanite, sintered alumina, beryllia and boron nitride) which is able to withstand high temperatures and to function as a furnace lining or in other similar high temperature applications.
 
-### Chapter 4 — The Chemical Industry[^key-7d37c14922ebeba9f6c577a96e35106b]
+### Chapter 4 — The Chemical Industry[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 (See paragraph 10 of Schedule 2 as to cases where processes described in this chapter of the Schedule fall within two or more descriptions.)
 
 Except where paragraph 2 or 15 of Schedule 2 applies, nothing in this chapter of this Schedule applies to the operation of a waste treatment plant.
 
-#### Section 4.1 — Petrochemical processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 4.1 — Petrochemical processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B
 
@@ -416,24 +416,24 @@ In this Section and in Section 4.2 “pre-formulated resin or pre-formulated gel
 
 ##### Part C — Nil
 
-#### Section 4.2 — The manufacture and use of organic chemicals[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 4.2 — The manufacture and use of organic chemicals[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
 Any of the following processes unless falling within a description set out in Section 6.8—
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (l)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 In this Part of this Section, “designated acrylate” means any of the following, namely, acrylic acid, substituted acrylic acids, the esters of acrylic acid and the esters of substituted acrylic acids.
 
@@ -443,17 +443,17 @@ Any process unless related to and carried on as part of a process falling within
 
 ##### Part C — Nil
 
-#### Section 4.3 — Acid Processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 4.3 — Acid Processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B
 
@@ -461,42 +461,42 @@ Any process for the surface treatment of metal which is likely to result in the 
 
 ##### Part C — Nil
 
-#### Section 4.4 — Processes involving halogens[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 4.4 — Processes involving halogens[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
 The following processes if not falling within a description in any other Section of this Schedule—
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B — Nil
 
 ##### Part C — Nil
 
-#### Section 4.5 — Inorganic chemical processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 4.5 — Inorganic chemical processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (l)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (m)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (n)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (o)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (p)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (n)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (o)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (p)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B
 
@@ -504,7 +504,7 @@ The manufacture of inorganic chemicals not described elsewhere in this Schedule.
 
 ##### Part C — Nil
 
-#### Section 4.6 — Chemical Fertiliser Production[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 4.6 — Chemical Fertiliser Production[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
@@ -517,7 +517,7 @@ In this Section, “chemical fertilisers” means any inorganic chemical to be a
 
 ##### Part C — Nil
 
-#### Section 4.7 — Pesticide Production[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 4.7 — Pesticide Production[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
@@ -529,7 +529,7 @@ The manufacture or the formulation of chemical pesticides if the process may res
 
 In this Section “pesticide” has the same meaning as in Schedule 6.
 
-#### Section 4.8 — Pharmaceutical Production[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 4.8 — Pharmaceutical Production[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
@@ -541,7 +541,7 @@ The manufacture or the formulation of a medicinal product if the process may res
 
 In this Section “medicinal product” means any substance or article (not being an instrument, apparatus or appliance) manufactured for use in one of the ways specified in section 130 (1) of the Medicines Act 1968.
 
-#### Section 4.9 — The storage of chemicals in bulk[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 4.9 — The storage of chemicals in bulk[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A — Nil
 
@@ -561,22 +561,22 @@ In this Section, “designated acrylate” has the same meaning as in Part A of 
 
 ##### Part C — Nil
 
-### Chapter 5 — Waste Disposal and Recycling[^key-7d37c14922ebeba9f6c577a96e35106b]
+### Chapter 5 — Waste Disposal and Recycling[^c-7d37c14922ebeba9f6c577a96e35106b]
 
-#### Section 5.1 — Incineration[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 5.1 — Incineration[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part C
 
@@ -593,7 +593,7 @@ In this section—
 - “municipal waste” means domestic refuse, as well as commercial or trade refuse and other waste which, because of its nature or composition, is similar to domestic refuse;
 - “waste” means solid or liquid wastes or gaseous waste (other than gas produced by biological degradation of waste).
 
-#### Section 5.2 — Recovery Processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 5.2 — Recovery Processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
@@ -602,14 +602,14 @@ In this section—
 
 Nothing in this Part of this Schedule applies to—
 
-- (i)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ii)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B — Nil
 
 ##### Part C — Nil
 
-#### Section 5.3 — The production of fuel from waste[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 5.3 — The production of fuel from waste[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
@@ -619,9 +619,9 @@ Making solid fuel from waste by any process involving the use of heat other than
 
 ##### Part C — Nil
 
-### Chapter 6 — Other Industries[^key-7d37c14922ebeba9f6c577a96e35106b]
+### Chapter 6 — Other Industries[^c-7d37c14922ebeba9f6c577a96e35106b]
 
-#### Section 6.1 — Paper and pulp manufacturing processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 6.1 — Paper and pulp manufacturing processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
@@ -634,86 +634,86 @@ In this paragraph, “paper pulp” includes pulp made from wood, grass, straw a
 
 ##### Part C — Nil
 
-#### Section 6.2 — Di-isocyanate processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 6.2 — Di-isocyanate processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part C — Nil
 
-#### Section 6.3 — Tar and bitumen processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 6.3 — Tar and bitumen processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
 Any process not falling within any other description in this Schedule involving—
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B
 
 Any process not falling within Part A of this Section or within any other description in this Schedule involving—
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part C — Nil
 
 In this Section the expressions “tar” and “bitumen” include pitch.
 
-#### Section 6.4 — Processes involving uranium[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 6.4 — Processes involving uranium[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B — Nil
 
 ##### Part C — Nil
 
-#### Section 6.5 — Coating processes and printing[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 6.5 — Coating processes and printing[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part B
 
 Processes, not described elsewhere in the Schedule, other than for the repainting or respraying of or of parts of road vehicles, involving:—
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 where the carrying on of the process by the person concerned at the location in question may result in the release into the air of particulate matter or of any volatile organic compounds and is likely to involve the use in any 12 month period of—
 
-- (i)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ii)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (iii)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (iii)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part C
 
 Processes, not described elsewhere in the Schedule, other than for the repainting or respraying of or of parts of road vehicles, involving:—
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 where the carrying on of the process by the person concerned at the location in question may result in the release into the air of particulate matter or of any volatile organic compounds and is likely to involve the use in any 12 month period of—
 
-- (i)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ii)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (iii)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (iii)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Any process for the repainting or respraying of or of parts of road vehicles if the process may result in the release into the air of particulate matter or of any volatile organic compound and the carrying on of the process by the person concerned at the location in question is likely to involve the use of 1 tonne or more of organic solvents in any 12 month period.
 
@@ -724,10 +724,10 @@ In this section
 
 The amount of organic solvents used in a process shall be calculated as—
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Section 6.6 — The manufacture of dyestuffs, printing ink and coating materials[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 6.6 — The manufacture of dyestuffs, printing ink and coating materials[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
@@ -737,22 +737,22 @@ Any process for the manufacture of dyestuffs if the process involves the use of 
 
 Any process—
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Part C
 
 Any process—
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 In this section, “coating material” has the same meaning as in section 6.5 and the amount of organic solvents used in a process shall be calculated as—
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Section 6.7 — Timber processes[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 6.7 — Timber processes[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
@@ -764,8 +764,8 @@ The curing or chemical treatment as part of a manufacturing process of timber or
 
 The manufacture of products wholly or mainly of wood at any works if the process involves the sawing, drilling, sanding, shaping, turning, planing, curing or chemical treatment of wood (“relevant processes”) and the throughput of the works in any 12 month period is likely to exceed—
 
-- (i)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (ii)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ii)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 For the purposes of this paragraph—
 
@@ -774,7 +774,7 @@ For the purposes of this paragraph—
 - “wood” includes any product consisting wholly or mainly of wood; and
 - “works” includes a sawmill or any other premises on which relevant processes are carried out on wood.
 
-#### Section 6.8 — Processes involving rubber[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 6.8 — Processes involving rubber[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A — Nil
 
@@ -784,10 +784,10 @@ Processes for the curing of foam rubber products where hydrogen sulphide or othe
 
 ##### Part C
 
-- (a)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Section 6.9 — The treatment and processing of animal or vegetable matter[^key-7d37c14922ebeba9f6c577a96e35106b]
+#### Section 6.9 — The treatment and processing of animal or vegetable matter[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 ##### Part A
 
@@ -828,81 +828,81 @@ In this Section—
 - “food” includes drink, articles and substances of no nutritional value which are used for human consumption, and articles and substances used as ingredients in the preparation of food; and
 - “green offal” means the stomach and intestines of any animal, other than poultry or fish, and their contents.
 
-## SCHEDULE 2 — Rules for the interpretation of Schedule 1[^key-7d37c14922ebeba9f6c577a96e35106b]
+## SCHEDULE 2 — Rules for the interpretation of Schedule 1[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 Regulation 3(2)
 
-**1.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Date from which authorisation is required under Article 6 of the order[^key-7d37c14922ebeba9f6c577a96e35106b]
+## SCHEDULE 3 — Date from which authorisation is required under Article 6 of the order[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 Regulation 3(1) and (3)
 
-**1.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7d37c14922ebeba9f6c577a96e35106b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Release into the air: prescribed substances[^key-7d37c14922ebeba9f6c577a96e35106b]
+## SCHEDULE 4 — Release into the air: prescribed substances[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 Regulation 6(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Release into water: prescribed substances[^key-7d37c14922ebeba9f6c577a96e35106b]
+## SCHEDULE 5 — Release into water: prescribed substances[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 Regulations 4(1) and 6(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — Release into land: prescribed substances[^key-7d37c14922ebeba9f6c577a96e35106b]
+## SCHEDULE 6 — Release into land: prescribed substances[^c-7d37c14922ebeba9f6c577a96e35106b]
 
 Regulation 6(3)
 
@@ -910,10 +910,10 @@ Regulation 6(3)
 
 **May not be in force at this date. Check the source.**
 
-[^key-7d37c14922ebeba9f6c577a96e35106b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d37c14922ebeba9f6c577a96e35106b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7d37c14922ebeba9f6c577a96e35106b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/28) revoked (6.1.2013) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/453)](https://www.legislation.gov.uk/nisr/2012/453), [reg. 1](https://www.legislation.gov.uk/nisr/2012/453/regulation/1), [Sch. 17](https://www.legislation.gov.uk/nisr/2012/453/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2012/453/regulation/5));
+[^c-7d37c14922ebeba9f6c577a96e35106b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/28) revoked (6.1.2013) by [The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/453)](https://www.legislation.gov.uk/nisr/2012/453), [reg. 1](https://www.legislation.gov.uk/nisr/2012/453/regulation/1), [Sch. 17](https://www.legislation.gov.uk/nisr/2012/453/schedule/17) (with [reg. 5](https://www.legislation.gov.uk/nisr/2012/453/regulation/5));
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.R. made prior to its final revocation. A revised version of how the S.R. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

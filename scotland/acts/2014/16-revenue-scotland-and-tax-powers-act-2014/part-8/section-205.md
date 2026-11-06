@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 205. Enforcement of increased daily default penalty[^key-725d27f34e309b221200d031b7f41da5]
+## 205. Enforcement of increased daily default penalty[^c-725d27f34e309b221200d031b7f41da5]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-725d27f34e309b221200d031b7f41da5]: Commencement: [S. 205](https://www.legislation.gov.uk/asp/2014/16/section/205) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-725d27f34e309b221200d031b7f41da5]: Commencement: [S. 205](https://www.legislation.gov.uk/asp/2014/16/section/205) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

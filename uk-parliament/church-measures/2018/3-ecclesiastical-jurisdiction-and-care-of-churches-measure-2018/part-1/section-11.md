@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 11. The Dean of the Arches and Auditor: term of office[^key-662ba2e574fd1ed6df1a6664cf8a8d19]
+## 11. The Dean of the Arches and Auditor: term of office[^c-662ba2e574fd1ed6df1a6664cf8a8d19]
 
 *Extent: E*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-662ba2e574fd1ed6df1a6664cf8a8d19]: Commencement: S. 11 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-662ba2e574fd1ed6df1a6664cf8a8d19]: Commencement: S. 11 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

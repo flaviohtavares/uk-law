@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Change of occupation of premises under restriction[^key-42e16cf41856fd9c70ea3fadbdd2d34f]
+## 49. Change of occupation of premises under restriction[^c-42e16cf41856fd9c70ea3fadbdd2d34f]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42e16cf41856fd9c70ea3fadbdd2d34f]: Commencement: Reg. 49 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-42e16cf41856fd9c70ea3fadbdd2d34f]: Commencement: Reg. 49 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Monitoring requirements[^key-216a72adfc26719721153515f6e2490a]
+## 26. Monitoring requirements[^c-216a72adfc26719721153515f6e2490a]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A relevant authority must—
 
 ## Annotations
 
-[^key-216a72adfc26719721153515f6e2490a]: Commencement: Reg. 26 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-216a72adfc26719721153515f6e2490a]: Commencement: Reg. 26 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)

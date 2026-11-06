@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 256. Order to permit trees to be planted[^key-64dd77602aa191bd54506ba9738a71a3]
+## 256. Order to permit trees to be planted[^c-64dd77602aa191bd54506ba9738a71a3]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64dd77602aa191bd54506ba9738a71a3]: Commencement: S. 256 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-64dd77602aa191bd54506ba9738a71a3]: Commencement: S. 256 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

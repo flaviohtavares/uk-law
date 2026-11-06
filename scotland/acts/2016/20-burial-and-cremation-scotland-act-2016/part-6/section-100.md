@@ -27,7 +27,7 @@ summary: ''
 - (a) this Act,
 - (b) any regulations made under this Act,
 - (c) any enactment amended by regulations made under this Act,
-- (d) any other enactment relating to burial , cremation or hydrolysis[^key-07d28aa3039391843d3f30de7ada227b].
+- (d) any other enactment relating to burial , cremation or hydrolysis[^c-07d28aa3039391843d3f30de7ada227b].
 
 (3) Regulations under subsection (1) may include provision—
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07d28aa3039391843d3f30de7ada227b]: Textual amendment: Words in [s. 100(2)(d)](https://www.legislation.gov.uk/asp/2016/20/section/100/2/d) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(30)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/30)
+[^c-07d28aa3039391843d3f30de7ada227b]: Textual amendment: Words in [s. 100(2)(d)](https://www.legislation.gov.uk/asp/2016/20/section/100/2/d) substituted (4.2.2026 for specified purposes, 2.3.2026 in so far as not already in force) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2)[(3)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/3), [sch. 2 para. 1(30)](https://www.legislation.gov.uk/ssi/2026/50/schedule/2/paragraph/1/30)

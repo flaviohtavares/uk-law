@@ -26,8 +26,8 @@ summary: ''
 
 (3) Any appeal will be regarded as pending for the purposes of paragraph (2) until it is finally disposed of, is withdrawn or is struck out for want of prosecution.
 
-(4)[^key-145343b74c1165a60cd9a69010786d55] Where on appeal against a remedial action notice under paragraph (1) a court cancels the notice, the enforcement authority must compensate the food business operator who brought the appeal in respect of any loss suffered by reason of the food business operator’s compliance with the notice, and any disputed question as to the right to or the amount of any compensation payable under this paragraph will be determined by arbitration.
+(4)[^c-145343b74c1165a60cd9a69010786d55] Where on appeal against a remedial action notice under paragraph (1) a court cancels the notice, the enforcement authority must compensate the food business operator who brought the appeal in respect of any loss suffered by reason of the food business operator’s compliance with the notice, and any disputed question as to the right to or the amount of any compensation payable under this paragraph will be determined by arbitration.
 
 ## Annotations
 
-[^key-145343b74c1165a60cd9a69010786d55]: Textual amendment: [Reg. 22(4)](https://www.legislation.gov.uk/wsi/2006/31/regulation/22/4) added (1.5.2012) by [The Food Hygiene (Wales) (Amendment) Regulations 2012 (S.I. 2012/975)](https://www.legislation.gov.uk/wsi/2012/975), [regs. 1](https://www.legislation.gov.uk/wsi/2012/975/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2012/975/regulation/2/3)
+[^c-145343b74c1165a60cd9a69010786d55]: Textual amendment: [Reg. 22(4)](https://www.legislation.gov.uk/wsi/2006/31/regulation/22/4) added (1.5.2012) by [The Food Hygiene (Wales) (Amendment) Regulations 2012 (S.I. 2012/975)](https://www.legislation.gov.uk/wsi/2012/975), [regs. 1](https://www.legislation.gov.uk/wsi/2012/975/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2012/975/regulation/2/3)

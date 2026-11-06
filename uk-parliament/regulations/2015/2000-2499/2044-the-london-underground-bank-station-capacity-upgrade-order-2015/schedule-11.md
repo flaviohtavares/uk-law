@@ -22,11 +22,11 @@ summary: ''
 
 Article 43
 
-**1.**[^key-03e2063fef4c728e9af28a2d2e93fc1c] (1) The following provisions, unless otherwise agreed in writing between the Company and the undertakers concerned, have effect.
+**1.**[^c-03e2063fef4c728e9af28a2d2e93fc1c] (1) The following provisions, unless otherwise agreed in writing between the Company and the undertakers concerned, have effect.
 
 (2) The provisions of Schedule 10 (provisions relating to statutory undertakers etc.), in so far as they relate to the removal of apparatus, do not apply in relation to apparatus to which this Schedule applies.
 
-**2.**[^key-cdd91853d08c88a7c39fc843e61f6e33] (1) In this Schedule—
+**2.**[^c-cdd91853d08c88a7c39fc843e61f6e33] (1) In this Schedule—
 
 - “alternative apparatus” means alternative apparatus adequate to enable the undertaker in question to fulfil its statutory functions in a manner not less efficient than previously;
 - “apparatus” means—
@@ -50,15 +50,15 @@ Article 43
 
   for the area of the authorised works, and in relation to any apparatus, means the undertaker to whom it belongs or by whom it is maintained.
 
-**3.**[^key-10b00a4c77aeb6ebdfb13fe69bc7c674] This Schedule does not apply to apparatus in respect of which the relations between the Company and the undertaker are regulated by the provisions of Part 3 of the 1991 Act.
+**3.**[^c-10b00a4c77aeb6ebdfb13fe69bc7c674] This Schedule does not apply to apparatus in respect of which the relations between the Company and the undertaker are regulated by the provisions of Part 3 of the 1991 Act.
 
-**4.**[^key-6f3fde70ab27b442f42f4397e3b933e1] (1) Where any street is stopped up under article 12 (stopping up of streets), any undertaker whose apparatus is in the street has the same powers and rights in respect of that apparatus as it enjoyed immediately before the stopping up, but nothing in this paragraph affects any right of the Company or of the undertaker to require the removal of that apparatus under paragraph 6(2) or the power of the Company to carry out works under paragraph 8.
+**4.**[^c-6f3fde70ab27b442f42f4397e3b933e1] (1) Where any street is stopped up under article 12 (stopping up of streets), any undertaker whose apparatus is in the street has the same powers and rights in respect of that apparatus as it enjoyed immediately before the stopping up, but nothing in this paragraph affects any right of the Company or of the undertaker to require the removal of that apparatus under paragraph 6(2) or the power of the Company to carry out works under paragraph 8.
 
 (2) The Company must give not less than 28 days’ notice in writing of its intention to stop up any street under article 12 to any undertaker whose apparatus is in that street.
 
-**5.**[^key-30668d524e217f3849f852dc76390231] Regardless of any provision in this Order or anything shown on the lands plan or works plans the Company must not acquire any apparatus other than by agreement.
+**5.**[^c-30668d524e217f3849f852dc76390231] Regardless of any provision in this Order or anything shown on the lands plan or works plans the Company must not acquire any apparatus other than by agreement.
 
-**6.**[^key-7dd850d095d375b5287d44a1168ce4e0] (1) If, in the exercise of the powers conferred by this Order, the Company acquires any interest in any land in which any apparatus is placed, that apparatus must not be removed under this Schedule and any right of an undertaker to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the undertaker in question.
+**6.**[^c-7dd850d095d375b5287d44a1168ce4e0] (1) If, in the exercise of the powers conferred by this Order, the Company acquires any interest in any land in which any apparatus is placed, that apparatus must not be removed under this Schedule and any right of an undertaker to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the undertaker in question.
 
 (2) If, for the purpose of executing any works in, on or under any land purchased, held, appropriated or used under this Order, the Company requires the removal of any apparatus placed in that land, it must give to the undertaker in question written notice of that requirement, together with a plan and section of the work proposed, and of the proposed position of the alternative apparatus to be provided or constructed and in that case (or if in consequence of the exercise of any of the powers conferred by this Order an undertaker reasonably needs to remove any of its apparatus) the Company must, subject to sub-paragraph (3), afford to the undertaker the necessary facilities and rights for the construction of alternative apparatus in other land of the Company and for the subsequent maintenance of that apparatus.
 
@@ -74,7 +74,7 @@ Article 43
 
 (8) Nothing in sub-paragraph (6) authorises the Company to execute the placing, installation, bedding, packing, removal, connection or disconnection of any apparatus, or execute any filling around the apparatus (where the apparatus is laid in a trench) within 300 millimetres of the apparatus.
 
-**7.**[^key-1286cd362a607b348540910a27d043b3] (1) Where, in accordance with the provisions of this Schedule, the Company affords to an undertaker facilities and rights for the construction and maintenance in land of the Company of alternative apparatus in substitution for apparatus to be removed, those facilities and rights are to be granted upon such terms and conditions as may be agreed between the Company and the undertaker in question or in default of agreement settled by arbitration in accordance with article 50 (arbitration).
+**7.**[^c-1286cd362a607b348540910a27d043b3] (1) Where, in accordance with the provisions of this Schedule, the Company affords to an undertaker facilities and rights for the construction and maintenance in land of the Company of alternative apparatus in substitution for apparatus to be removed, those facilities and rights are to be granted upon such terms and conditions as may be agreed between the Company and the undertaker in question or in default of agreement settled by arbitration in accordance with article 50 (arbitration).
 
 (2) In settling those terms and conditions in respect of the alternative apparatus to be constructed in or along any railway, the arbitrator must—
 
@@ -83,7 +83,7 @@ Article 43
 
 (3) If the facilities and rights to be afforded by the Company in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted, are in the opinion of the arbitrator less favourable on the whole to the undertaker in question than the facilities and rights enjoyed by it in respect of the apparatus to be removed and the terms and conditions to which those facilities and rights are subject, the arbitrator must make such provision for the payment of compensation by the Company to that undertaker as appears to the arbitrator to be reasonable having regard to all the circumstances of the particular case.
 
-**8.**[^key-8a13dbed91f2d25b4d5dbc6e8a3d8188] (1) Not less than 28 days before starting the execution of any works of the type referred to in paragraph 6(2) that are near to, or will or may affect, any apparatus the removal of which has not been required by the Company under paragraph 6(2), the Company must submit to the undertaker in question a plan, section and description of the works to be executed.
+**8.**[^c-8a13dbed91f2d25b4d5dbc6e8a3d8188] (1) Not less than 28 days before starting the execution of any works of the type referred to in paragraph 6(2) that are near to, or will or may affect, any apparatus the removal of which has not been required by the Company under paragraph 6(2), the Company must submit to the undertaker in question a plan, section and description of the works to be executed.
 
 (2) Those works are to be executed only in accordance with the plan, section and description submitted under sub-paragraph (1) and in accordance with such reasonable requirements as may be made in accordance with sub-paragraph (3) by the undertaker for the alteration or otherwise for the protection of the apparatus, or for securing access to it, and an officer of the undertaker is entitled to watch and inspect the execution of those works.
 
@@ -95,7 +95,7 @@ Article 43
 
 (6) The Company is not required to comply with sub-paragraph (1) in a case of emergency but in that case it must give to the undertaker in question notice as soon as is reasonably practicable and a plan, section and description of those works as soon as reasonably practicable subsequently and must comply with sub-paragraph (2) in so far as is reasonably practicable in the circumstances.
 
-**9.**[^key-10f4572a71cc51140126c7446c19f14e] (1) Subject to the following provisions of this paragraph, the Company must repay to an undertaker the reasonable expenses incurred by that undertaker in, or in connection with, the inspection, removal, alteration or protection of any apparatus or the construction of any new apparatus which may be required in consequence of the execution of any such works as are referred to in paragraph 6(2).
+**9.**[^c-10f4572a71cc51140126c7446c19f14e] (1) Subject to the following provisions of this paragraph, the Company must repay to an undertaker the reasonable expenses incurred by that undertaker in, or in connection with, the inspection, removal, alteration or protection of any apparatus or the construction of any new apparatus which may be required in consequence of the execution of any such works as are referred to in paragraph 6(2).
 
 (2) The value of any apparatus removed under the provisions of this Schedule is to be deducted from any sum payable under sub-paragraph (1), that value being calculated after removal.
 
@@ -113,7 +113,7 @@ and the placing of apparatus of that type or capacity or those dimensions or the
 
 (5) An amount which apart from this sub-paragraph would be payable to an undertaker in respect of works by virtue of sub-paragraph (1) must, if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on the undertaker any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, be reduced by the amount which represents that benefit.
 
-**10.**[^key-f4cd5741ee50b2d28209be26f70ff842] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any of the works referred to in paragraph 6(2), any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of an undertaker, or there is any interruption in any service provided, or in the supply of any goods, by any undertaker, the Company must—
+**10.**[^c-f4cd5741ee50b2d28209be26f70ff842] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any of the works referred to in paragraph 6(2), any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of an undertaker, or there is any interruption in any service provided, or in the supply of any goods, by any undertaker, the Company must—
 
 - (a) bear and pay the cost reasonably incurred by that undertaker in making good such damage or restoring the supply; and
 - (b) make reasonable compensation to that undertaker for any other expenses, loss, damages, penalty or costs incurred by the undertaker,
@@ -126,9 +126,9 @@ by reason or in consequence of any such damage or interruption.
 
 ## Annotations
 
-[^key-03e2063fef4c728e9af28a2d2e93fc1c]: Commencement: Sch. 11 para. 1 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-03e2063fef4c728e9af28a2d2e93fc1c]: Commencement: Sch. 11 para. 1 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
-[^key-cdd91853d08c88a7c39fc843e61f6e33]: Commencement: Sch. 11 para. 2 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-cdd91853d08c88a7c39fc843e61f6e33]: Commencement: Sch. 11 para. 2 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
 [^f00050]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
@@ -136,18 +136,18 @@ by reason or in consequence of any such damage or interruption.
 
 [^f00052]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). A new section 7 was substituted by section 5 of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45), and was further amended by section 76 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-10b00a4c77aeb6ebdfb13fe69bc7c674]: Commencement: Sch. 11 para. 3 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-10b00a4c77aeb6ebdfb13fe69bc7c674]: Commencement: Sch. 11 para. 3 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
-[^key-6f3fde70ab27b442f42f4397e3b933e1]: Commencement: Sch. 11 para. 4 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-6f3fde70ab27b442f42f4397e3b933e1]: Commencement: Sch. 11 para. 4 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
-[^key-30668d524e217f3849f852dc76390231]: Commencement: Sch. 11 para. 5 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-30668d524e217f3849f852dc76390231]: Commencement: Sch. 11 para. 5 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
-[^key-7dd850d095d375b5287d44a1168ce4e0]: Commencement: Sch. 11 para. 6 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-7dd850d095d375b5287d44a1168ce4e0]: Commencement: Sch. 11 para. 6 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
-[^key-1286cd362a607b348540910a27d043b3]: Commencement: Sch. 11 para. 7 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-1286cd362a607b348540910a27d043b3]: Commencement: Sch. 11 para. 7 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
-[^key-8a13dbed91f2d25b4d5dbc6e8a3d8188]: Commencement: Sch. 11 para. 8 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-8a13dbed91f2d25b4d5dbc6e8a3d8188]: Commencement: Sch. 11 para. 8 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
-[^key-10f4572a71cc51140126c7446c19f14e]: Commencement: Sch. 11 para. 9 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-10f4572a71cc51140126c7446c19f14e]: Commencement: Sch. 11 para. 9 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
-[^key-f4cd5741ee50b2d28209be26f70ff842]: Commencement: Sch. 11 para. 10 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-f4cd5741ee50b2d28209be26f70ff842]: Commencement: Sch. 11 para. 10 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

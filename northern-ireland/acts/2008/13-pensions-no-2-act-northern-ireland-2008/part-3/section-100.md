@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 100. Amendments of Schedule 6 to the 2005 Order[^c21480671][^key-d0b81239429e49a39030dcad005f5c39]
+## 100. Amendments of Schedule 6 to the 2005 Order[^c21480671][^c-d0b81239429e49a39030dcad005f5c39]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Schedule 6 (amendments of Schedule 6 to the 2005 Order) has effect.
 
 [^c21480671]: Commencement: S. 100 partly in operation; s. 100 not in operation at Royal Assent see s. 118(1); s. 100 in operation for certain purposes at 1.4.2009 by [S.R. 2009/147](https://www.legislation.gov.uk/nisr/2009/147), [art. 2(b)](https://www.legislation.gov.uk/nisr/2009/147/article/2/b)
 
-[^key-d0b81239429e49a39030dcad005f5c39]: Commencement: [S. 100](https://www.legislation.gov.uk/nia/2008/13/section/100) in operation at 2.2.2018 for specified purposes by [S.R. 2018/23](https://www.legislation.gov.uk/nisr/2018/23), [art. 2](https://www.legislation.gov.uk/nisr/2018/23/article/2)
+[^c-d0b81239429e49a39030dcad005f5c39]: Commencement: [S. 100](https://www.legislation.gov.uk/nia/2008/13/section/100) in operation at 2.2.2018 for specified purposes by [S.R. 2018/23](https://www.legislation.gov.uk/nisr/2018/23), [art. 2](https://www.legislation.gov.uk/nisr/2018/23/article/2)

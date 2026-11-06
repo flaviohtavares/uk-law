@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Commencement[^key-d86ac0aff75d259fd02c9462371575e8]
+## 131. Commencement[^c-d86ac0aff75d259fd02c9462371575e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ comes into force on the day on which this Act is passed.
 
 ## Annotations
 
-[^key-d86ac0aff75d259fd02c9462371575e8]: Commencement: S. 131 in force at Royal Assent, see [s. 131(5)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/5)
+[^c-d86ac0aff75d259fd02c9462371575e8]: Commencement: S. 131 in force at Royal Assent, see [s. 131(5)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/5)

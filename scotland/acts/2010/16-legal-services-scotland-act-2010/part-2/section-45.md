@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Additional powers and duties[^key-ffef0de59b029ab464247a61891088de]
+## 45. Additional powers and duties[^c-ffef0de59b029ab464247a61891088de]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffef0de59b029ab464247a61891088de]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2010/16/section/45) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-ffef0de59b029ab464247a61891088de]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2010/16/section/45) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

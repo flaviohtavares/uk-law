@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17A. Signs on buses carrying children[^key-1faa7ef4d593442506b357b77acc095e]
+## 17A. Signs on buses carrying children[^c-1faa7ef4d593442506b357b77acc095e]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1faa7ef4d593442506b357b77acc095e]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/1989/1796/regulation/17A) inserted (1.4.1995) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/1994/2280/regulation/6)
+[^c-1faa7ef4d593442506b357b77acc095e]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/1989/1796/regulation/17A) inserted (1.4.1995) by [The Road Vehicles Lighting (Amendment) Regulations 1994 (S.I. 1994/2280)](https://www.legislation.gov.uk/uksi/1994/2280), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1994/2280/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/1994/2280/regulation/6)

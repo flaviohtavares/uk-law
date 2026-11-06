@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers conferred on the Secretary of State by sections 69(5) and 138(7) of the School Standards and Framework Act 1998, and now exercisable by them[^f00001] make the following Regulations:
 
-## 1. Title, commencement, application and revocation[^key-5576773c760e064ec894ec34e8a9d474]
+## 1. Title, commencement, application and revocation[^c-5576773c760e064ec894ec34e8a9d474]
 
 (1) The title of these Regulations is the Religious Character of Schools (Designation Procedure) (Wales) Regulations 2016 and they come into force on 1 January 2017.
 
@@ -53,13 +53,13 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 
 (3) Regulation 49 of the New Maintained Schools (Wales) Regulations 2005[^f00003] is revoked.
 
-## 2. Interpretation[^key-dd729b22930517866351c58d28f21495]
+## 2. Interpretation[^c-dd729b22930517866351c58d28f21495]
 
 (1) In these Regulations—
 
 - “the 1998 Act” (“*Deddf 1998*”) means the School Standards and Framework Act 1998;
 - “the 2013 Act” (“*Deddf 2013*”) means the School Standards and Organisation (Wales) Act 2013[^f00004];
-- “[^key-55b46c96d221d03dec3c9c04657f12c8]**the relevant religion or religious denomination**” (“***y grefydd berthnasol neu’r enwad crefyddol perthnasol***”) means the religion or religious denomination in accordance with whose tenets teaching and learning in respect of Religion, Values and Ethics is provided—
+- “[^c-55b46c96d221d03dec3c9c04657f12c8]**the relevant religion or religious denomination**” (“***y grefydd berthnasol neu’r enwad crefyddol perthnasol***”) means the religion or religious denomination in accordance with whose tenets teaching and learning in respect of Religion, Values and Ethics is provided—
   - (a) under paragraph 7(3) or paragraph 8(4) of Schedule 1 to the Curriculum and Assessment (Wales) Act 2021, or
   - (b) under section 61 of that Act, and in accordance with—
     - (i) any provisions of the school’s trust deed that relate to teaching and learning in respect of the mandatory element of Religion, Values and Ethics, or
@@ -70,7 +70,7 @@ The Welsh Ministers in exercise of the powers conferred on the Secretary of Stat
 - (a) references to a “voluntary school” are references to such a school within the meaning of the 1998 Act including a new school which has a temporary governing body and which will be such a school when established; and
 - (b) references to a “governing body” include a temporary governing body.
 
-## 3. Procedure for new schools[^key-7a083601db2669fba9c160b3c22ebdee]
+## 3. Procedure for new schools[^c-7a083601db2669fba9c160b3c22ebdee]
 
 (1) Where proposals to establish a new voluntary school are approved under section 50 or 51 of the 2013 Act, or where the proposer determines to implement the proposals under section 53 of the 2013 Act, the Welsh Ministers must designate it as a school which has a religious character if the requirements set out in this regulation are satisfied.
 
@@ -100,7 +100,7 @@ must be consistent with the published proposals.
 
 in accordance with the tenets of one or more religions or religious denominations.
 
-## 4. Changes in designations and statements[^key-e14fcd4d8dbc1e92f5bb5d6efea3492c]
+## 4. Changes in designations and statements[^c-e14fcd4d8dbc1e92f5bb5d6efea3492c]
 
 (1) Where the Welsh Ministers are at any time of the opinion—
 
@@ -114,20 +114,20 @@ they must amend the order in question or make another order as they consider app
 - (a) the governing body and any trustees of the school; and
 - (b) such religious bodies set out in Schedule 1 as they consider appropriate.
 
-(3) In so far as the Welsh Ministers make an order under section 68A(1)[^key-29c280afdd692948877b9d3f112198a7] of the 1998 Act which—
+(3) In so far as the Welsh Ministers make an order under section 68A(1)[^c-29c280afdd692948877b9d3f112198a7] of the 1998 Act which—
 
 - (a) does not change the designation of a school, or the statement as to the relevant religion or religious denomination in relation to that school, made in a previous order (other than a provisional designation or statement); or
 - (b) removes an entry on the discontinuance of the school,
 
 they need undertake no consultation in relation to that particular designation or statement before making such an order.
 
-## 5. Manner of consultation with governing bodies and trustees[^key-4deccb323afc8ebf19f623a646d382b2]
+## 5. Manner of consultation with governing bodies and trustees[^c-4deccb323afc8ebf19f623a646d382b2]
 
 (1) Where these Regulations require the Welsh Ministers to consult the governing body and any trustees of the school, they must do so by sending two copies of the consultation document (one for the governing body and one for the trustees) to the school.
 
 (2) The governing body of a school must not delegate to a committee of the governing body or to the chair of the governing body any decision in relation to their response to a consultation referred to in paragraph (1) and any such response must indicate that it is the response of all, or the majority, of the members of the governing body and that no decision in relation to that response has been delegated.
 
-## 6. Consequential amendments[^key-3757ec9be8e740fbdb772a548f1a4c17]
+## 6. Consequential amendments[^c-3757ec9be8e740fbdb772a548f1a4c17]
 
 The consequential amendments set out in Schedule 2 have effect.
 
@@ -135,11 +135,11 @@ Kirsty Williams
 
 Cabinet Secretary for Education, one of the Welsh Ministers
 
-## SCHEDULE 1 — Religious Bodies[^key-d354e63b9f6735bcf2e5898ddf6b49d4]
+## SCHEDULE 1 — Religious Bodies[^c-d354e63b9f6735bcf2e5898ddf6b49d4]
 
 Regulation 4(2)
 
-[^key-d354e63b9f6735bcf2e5898ddf6b49d4]
+[^c-d354e63b9f6735bcf2e5898ddf6b49d4]
 
 - The Church in Wales
 - The Catholic Education Service
@@ -154,11 +154,11 @@ Regulation 4(2)
 
 Regulation 6
 
-### 1. Government of Maintained Schools (Wales) Regulations 2005[^key-6be17add724173621b5619b5f9e0723c]
+### 1. Government of Maintained Schools (Wales) Regulations 2005[^c-6be17add724173621b5619b5f9e0723c]
 
 In regulation 50(1) of the Government of Maintained Schools (Wales) Regulations 2005[^f00009] for “regulation 3(2) of the Religious Character of Schools (Designation Procedure) Regulations 1998” substitute “regulation 5(2) of the Religious Character of Schools (Designation Procedure) (Wales) Regulations 2016”.
 
-### 2. Federation of Maintained Schools (Wales) Regulations 2014[^key-946e389d15a65e0a91ef28cae1e6b2f8]
+### 2. Federation of Maintained Schools (Wales) Regulations 2014[^c-946e389d15a65e0a91ef28cae1e6b2f8]
 
 In regulation 62(1) of the Federation of Maintained Schools (Wales) Regulations 2014[^f00010] for “regulation 3(2) of the Religious Character of Schools (Designation Procedure) Regulations 1998” substitute “regulation 5(2) of the Religious Character of Schools (Designation Procedure) (Wales) Regulations 2016”.
 
@@ -189,19 +189,19 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). The functions of the Secretary of State under these sections were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers under section 162 of, and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-5576773c760e064ec894ec34e8a9d474]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+[^c-5576773c760e064ec894ec34e8a9d474]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1998/2535](https://www.legislation.gov.uk/uksi/1998/2535).
 
 [^f00003]: Footnote: [S.I. 2005/2912 (W 209)](https://www.legislation.gov.uk/wsi/2005/2912).
 
-[^key-dd729b22930517866351c58d28f21495]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/1144/regulation/2) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+[^c-dd729b22930517866351c58d28f21495]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/1144/regulation/2) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
 
 [^f00004]: Footnote: [2013 anaw 1](https://www.legislation.gov.uk/anaw/2013/1).
 
-[^key-55b46c96d221d03dec3c9c04657f12c8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/2/1) substituted (with effect in accordance with reg. 12(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [12(3)](https://www.legislation.gov.uk/wsi/2022/666/regulation/12/3)
+[^c-55b46c96d221d03dec3c9c04657f12c8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/2/1) substituted (with effect in accordance with reg. 12(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [12(3)](https://www.legislation.gov.uk/wsi/2022/666/regulation/12/3)
 
-[^key-7a083601db2669fba9c160b3c22ebdee]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/1144/regulation/3) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+[^c-7a083601db2669fba9c160b3c22ebdee]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/1144/regulation/3) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
 
 [^f00005]: Footnote: *See* section 142(1) of the 1998 Act.
 
@@ -211,20 +211,20 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: [S.I. 2005/2912 (W. 209)](https://www.legislation.gov.uk/wsi/2005/2912).
 
-[^key-e14fcd4d8dbc1e92f5bb5d6efea3492c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/1144/regulation/4) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+[^c-e14fcd4d8dbc1e92f5bb5d6efea3492c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/1144/regulation/4) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
 
-[^key-29c280afdd692948877b9d3f112198a7]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/4/3) substituted (with effect in accordance with reg. 12(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [12(4)](https://www.legislation.gov.uk/wsi/2022/666/regulation/12/4)
+[^c-29c280afdd692948877b9d3f112198a7]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/4/3) substituted (with effect in accordance with reg. 12(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [12(4)](https://www.legislation.gov.uk/wsi/2022/666/regulation/12/4)
 
-[^key-4deccb323afc8ebf19f623a646d382b2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/1144/regulation/5) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+[^c-4deccb323afc8ebf19f623a646d382b2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/1144/regulation/5) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
 
-[^key-3757ec9be8e740fbdb772a548f1a4c17]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/1144/regulation/6) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+[^c-3757ec9be8e740fbdb772a548f1a4c17]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/1144/regulation/6) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
 
-[^key-d354e63b9f6735bcf2e5898ddf6b49d4]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2016/1144/schedule/1) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+[^c-d354e63b9f6735bcf2e5898ddf6b49d4]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2016/1144/schedule/1) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
 
-[^key-6be17add724173621b5619b5f9e0723c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2016/1144/schedule/2/paragraph/1) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+[^c-6be17add724173621b5619b5f9e0723c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2016/1144/schedule/2/paragraph/1) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 2005/2914 (W. 211)](https://www.legislation.gov.uk/wsi/2005/2914).
 
-[^key-946e389d15a65e0a91ef28cae1e6b2f8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2016/1144/schedule/2/paragraph/2) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
+[^c-946e389d15a65e0a91ef28cae1e6b2f8]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2016/1144/schedule/2/paragraph/2) in force at 1.1.2017, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1144/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2014/1132 (W. 111)](https://www.legislation.gov.uk/wsi/2014/1132).

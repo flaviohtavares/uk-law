@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. References to a person being “dealt with” for an offence[^key-d26e4b010717ded5bbdc67c9fe3b05f4]
+## 61. References to a person being “dealt with” for an offence[^c-d26e4b010717ded5bbdc67c9fe3b05f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ Where in such a case subsection (3) above applies for the purposes of any provis
 
 ## Annotations
 
-[^key-d26e4b010717ded5bbdc67c9fe3b05f4]: Commencement: S. 61 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
+[^c-d26e4b010717ded5bbdc67c9fe3b05f4]: Commencement: S. 61 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)

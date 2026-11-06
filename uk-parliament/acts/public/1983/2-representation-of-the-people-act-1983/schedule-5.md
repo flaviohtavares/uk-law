@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**1.**[^c14512301] (1) Any arrangements for the use of a room in school premises shall be made with the local authority[^key-5a256cf89590baaae8a220ea1d730eba] maintaining the school or, in the case of a room in the premises of[^c14512311] a foundation or voluntary aided school[^c14512321], with the governing body of the school.
+**1.**[^c14512301] (1) Any arrangements for the use of a room in school premises shall be made with the local authority[^c-5a256cf89590baaae8a220ea1d730eba] maintaining the school or, in the case of a room in the premises of[^c14512311] a foundation or voluntary aided school[^c14512321], with the governing body of the school.
 
 (2) Any question as to the rooms in the school premises which a candidate in any constituency is entitled to use, or as to the times at which he is entitled to use them, or as to the notice which is reasonable, shall be determined by the Secretary of State.
 
@@ -38,11 +38,11 @@ summary: ''
 
 **5.**[^c14512341] In the event of a dissolution, or of a vacancy occurring in the seat for the constituency, any person stating himself to be, or to be authorised by, a candidate or his election agent shall be entitled at all reasonable hours to inspect those lists or a copy of them.
 
-**5A.**[^key-e2052bcd7300d1ae517295f32d6d8c38] In paragraphs 1 and 2 “local authority” has the meaning given by section 579(1) of the Education Act 1996.
+**5A.**[^c-e2052bcd7300d1ae517295f32d6d8c38] In paragraphs 1 and 2 “local authority” has the meaning given by section 579(1) of the Education Act 1996.
 
 **6.**[^c14512401] In the application of this Schedule to Scotland—
 
-- (a) for the reference in paragraph 1(1)[^key-60fd51d0b9f242b793febc8d08b0c267] to a local authority substitute a reference to an education authority;
+- (a) for the reference in paragraph 1(1)[^c-60fd51d0b9f242b793febc8d08b0c267] to a local authority substitute a reference to an education authority;
 - (aa)[^c14512421] [^c19539081]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) subparagraph (1) of paragraph 2, subparagraph (1) of paragraph 3 and paragraph 4 do not apply, and it is the duty of the proper officer of every local authority[^c14512431] to prepare and keep for each constituency wholly situated in the area of the council and for each part so situated of any other constituency—
   - (i) a list of rooms in school premises, and
@@ -54,7 +54,7 @@ summary: ''
 
 [^c14512301]: Modification: Sch. 5 para. 1 applied (E.W.S.) by [S.I. 1986/2209](https://www.legislation.gov.uk/uksi/1986/2209), [regs. 2](https://www.legislation.gov.uk/uksi/1986/2209/regulation/2), [3](https://www.legislation.gov.uk/uksi/1986/2209/regulation/3), [5(1)(6)–(8)](https://www.legislation.gov.uk/uksi/1986/2209/regulation/5/1/6), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1986/2209/schedule/1/part/I)
 
-[^key-5a256cf89590baaae8a220ea1d730eba]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/ukpga/1983/2/schedule/5) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 33(3)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/33/3/a)
+[^c-5a256cf89590baaae8a220ea1d730eba]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/ukpga/1983/2/schedule/5) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 33(3)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/33/3/a)
 
 [^c14512311]: Textual amendment: Words inserted by [Education Reform Act 1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), [ss. 231(7)](https://www.legislation.gov.uk/ukpga/1988/40/section/231/7), [235(6)](https://www.legislation.gov.uk/ukpga/1988/40/section/235/6), [237](https://www.legislation.gov.uk/ukpga/1988/40/section/237), [Sch. 12 Pt. I para. 32](https://www.legislation.gov.uk/ukpga/1988/40/schedule/12/part/I/paragraph/32)
 
@@ -64,11 +64,11 @@ summary: ''
 
 [^c14512341]: Modification: Sch. 5 para. 5 applied with modifications (E.W.S.) by [S.I. 1986/2209](https://www.legislation.gov.uk/uksi/1986/2209), [regs. 2](https://www.legislation.gov.uk/uksi/1986/2209/regulation/2), [3](https://www.legislation.gov.uk/uksi/1986/2209/regulation/3), [5(1)(6)–(8)](https://www.legislation.gov.uk/uksi/1986/2209/regulation/5/1/6), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1986/2209/schedule/1/part/I)
 
-[^key-e2052bcd7300d1ae517295f32d6d8c38]: Textual amendment: [Sch. 5 para. 5A](https://www.legislation.gov.uk/ukpga/1983/2/schedule/5/paragraph/5A) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 33(3)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/33/3/b)
+[^c-e2052bcd7300d1ae517295f32d6d8c38]: Textual amendment: [Sch. 5 para. 5A](https://www.legislation.gov.uk/ukpga/1983/2/schedule/5/paragraph/5A) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 33(3)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/33/3/b)
 
 [^c14512401]: Modification: Sch. 5 para. 6 applied (E.W.S.) by [S.I. 1986/2209](https://www.legislation.gov.uk/uksi/1986/2209), [regs. 2](https://www.legislation.gov.uk/uksi/1986/2209/regulation/2), [3](https://www.legislation.gov.uk/uksi/1986/2209/regulation/3), [5(1)(6)–(8)](https://www.legislation.gov.uk/uksi/1986/2209/regulation/5/1/6), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1986/2209/schedule/1/part/I)
 
-[^key-60fd51d0b9f242b793febc8d08b0c267]: Textual amendment: Words in [Sch. 5 para. 6(a)](https://www.legislation.gov.uk/ukpga/1983/2/schedule/5/paragraph/6/a) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 33(3)(c)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/33/3/c)
+[^c-60fd51d0b9f242b793febc8d08b0c267]: Textual amendment: Words in [Sch. 5 para. 6(a)](https://www.legislation.gov.uk/ukpga/1983/2/schedule/5/paragraph/6/a) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 33(3)(c)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/33/3/c)
 
 [^c14512421]: Textual amendment: Sch. 5 para. 6(aa) inserted (S.) by Self-[Governing Schools etc. (Scotland) Act 1989 (c. 39, SIF 41:2)](https://www.legislation.gov.uk/ukpga/1989/39), [s. 82(1)](https://www.legislation.gov.uk/ukpga/1989/39/section/82/1), [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/1989/39/schedule/10/paragraph/9)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Anti-social behaviour: landlords' policies and procedures[^key-5b7f146a5cae40842769473d25306a7f][^key-90383ae4616de557b9cd5534aa30562d]
+## 12. Anti-social behaviour: landlords' policies and procedures[^c-5b7f146a5cae40842769473d25306a7f][^c-90383ae4616de557b9cd5534aa30562d]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b7f146a5cae40842769473d25306a7f]: Commencement: S. 12 in force at 30.6.2004 for E. by [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/i)
+[^c-5b7f146a5cae40842769473d25306a7f]: Commencement: S. 12 in force at 30.6.2004 for E. by [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/a/i)
 
-[^key-90383ae4616de557b9cd5534aa30562d]: Commencement: S. 12 in force at 30.4.2005 for W. by [S.I. 2005/1225](https://www.legislation.gov.uk/uksi/2005/1225), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1225/article/2/a)
+[^c-90383ae4616de557b9cd5534aa30562d]: Commencement: S. 12 in force at 30.4.2005 for W. by [S.I. 2005/1225](https://www.legislation.gov.uk/uksi/2005/1225), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/1225/article/2/a)

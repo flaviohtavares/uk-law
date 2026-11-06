@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Interpretation of ss. 140A and 140B of the 1974 Act[^key-f942b1866de1f3a8768819d33af80044]
+## 21. Interpretation of ss. 140A and 140B of the 1974 Act[^c-f942b1866de1f3a8768819d33af80044]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ After section 140B of the 1974 Act (inserted by section 20 of this Act) insertâ€
 
 ## Annotations
 
-[^key-f942b1866de1f3a8768819d33af80044]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2006/14/section/21) in force at 6.4.2007 by [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2)
+[^c-f942b1866de1f3a8768819d33af80044]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2006/14/section/21) in force at 6.4.2007 by [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2)

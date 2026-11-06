@@ -24,9 +24,9 @@ Section 7
 
 ### PART 1 — Amendments to the PNR regulations
 
-**1.**[^c24409061][^key-23df7098092a3b7dd07dfb0e27475fe1] The PNR regulations are amended as follows.
+**1.**[^c24409061][^c-23df7098092a3b7dd07dfb0e27475fe1] The PNR regulations are amended as follows.
 
-**2.**[^c24409071][^key-8ad29c4d724fc634f99aa10c7bc38ca5] (1) Regulation 2 (interpretation) is amended as follows.
+**2.**[^c24409071][^c-8ad29c4d724fc634f99aa10c7bc38ca5] (1) Regulation 2 (interpretation) is amended as follows.
 
 (2) Insert the following definitions at the appropriate places in paragraph (1)—
 
@@ -156,7 +156,7 @@ Section 7
 > - (a) who are, or may be, at risk of death or serious injury, or
 > - (b) from significant threats to public health.
 
-**3.**[^c24409081][^key-3d1afc8dd3045a660832fcd962bb2232] (1) Regulation 3 (designation of passenger information unit) is amended as follows.
+**3.**[^c24409081][^c-3d1afc8dd3045a660832fcd962bb2232] (1) Regulation 3 (designation of passenger information unit) is amended as follows.
 
 (2) In paragraph (2)(c)—
 
@@ -187,7 +187,7 @@ Section 7
 >
 > (6) A statutory instrument containing regulations under paragraph (3) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-**4.**[^c24409091][^key-2763d999b55f0753cc8d11711fccfa47] After regulation 4 insert—
+**4.**[^c24409091][^c-2763d999b55f0753cc8d11711fccfa47] After regulation 4 insert—
 
 > **Designated independent authority**
 >
@@ -207,7 +207,7 @@ Section 7
 >
 > (6) The designated independent authority may process EU PNR data for the purposes of exercising the authority's functions under these Regulations.
 
-**5.**[^c24409101][^key-a4da7cef1b530ba9e8a921191f944beb] (1) Regulation 5 (scope) is amended as follows.
+**5.**[^c24409101][^c-a4da7cef1b530ba9e8a921191f944beb] (1) Regulation 5 (scope) is amended as follows.
 
 (2) The existing text becomes paragraph (1).
 
@@ -215,7 +215,7 @@ Section 7
 
 > (2) This Part also applies in respect of PNR information provided to the PIU by an EU PIU or a third country competent authority.
 
-**6.**[^c24409111][^key-771bfbc5299d9d738ff044a3ce275e39] (1) Regulation 6 (processing of PNR data by the PIU) is amended as follows.
+**6.**[^c24409111][^c-771bfbc5299d9d738ff044a3ce275e39] (1) Regulation 6 (processing of PNR data by the PIU) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -260,7 +260,7 @@ Section 7
   > - (a) it is necessary to transfer that PNR information for a purpose described in paragraph (3); and
   > - (b) the UK competent authority has arrangements in place for the protection of personal data that are equivalent to the arrangements for the protection of personal data required of the PIU under these Regulations.
 
-**7.**[^c24409121][^key-a1bbf1cb1dc85d2b302f0e1dc9898f04] (1) Regulation 7 (processing of PNR data by a UK competent authority) is amended as follows.
+**7.**[^c24409121][^c-a1bbf1cb1dc85d2b302f0e1dc9898f04] (1) Regulation 7 (processing of PNR data by a UK competent authority) is amended as follows.
 
 (2) In paragraph (1)(a)—
 
@@ -286,7 +286,7 @@ Section 7
 
 > (3) Where the PIU transfers PNR information under regulation 6(9), the UK competent authority must not transfer the PNR information to another person without the consent of the PIU.
 
-**8.**[^c24409131][^key-281ce1b4ebea9603fb4fe026d9e2e957] Before regulation 11 insert—
+**8.**[^c24409131][^c-281ce1b4ebea9603fb4fe026d9e2e957] Before regulation 11 insert—
 
 > **Requests for PNR data made by the PIU**
 >
@@ -302,7 +302,7 @@ Section 7
 > - (b) made in respect of a specific case, and
 > - (c) duly reasoned.
 
-**9.**[^c24409271][^key-16ea643fad1979680945b56c3db39f9b] (1) Regulation 11 (requests for PNR data made by a UK competent authority) is amended as follows.
+**9.**[^c24409271][^c-16ea643fad1979680945b56c3db39f9b] (1) Regulation 11 (requests for PNR data made by a UK competent authority) is amended as follows.
 
 (2) In the heading omit “to a non-UK competent authority”.
 
@@ -317,7 +317,7 @@ Section 7
 - (a) for “PNR data” substitute “ PNR information ”;
 - (b) for “non-UK” substitute “ third country ”.
 
-**10.**[^c24409261][^key-150b0847c1b7a812056ed6b86dca66dd] After regulation 11 insert—
+**10.**[^c24409261][^c-150b0847c1b7a812056ed6b86dca66dd] After regulation 11 insert—
 
 > **Transfers of PNR data to an EU PIU**
 >
@@ -337,7 +337,7 @@ Section 7
 >
 > (2) The PIU must transfer analytical information containing PNR data to Europol or Eurojust in a specific case, as soon as possible, where the PIU considers that it is necessary to transfer that analytical information for the purpose described in regulation 6(3)(a).
 
-**11.**[^c24409251][^key-d0e061bb8ed4497995297da688b9286c] (1) Regulation 12 (transfers of PNR data to third country competent authorities) is amended as follows.
+**11.**[^c24409251][^c-d0e061bb8ed4497995297da688b9286c] (1) Regulation 12 (transfers of PNR data to third country competent authorities) is amended as follows.
 
 (2) In the heading—
 
@@ -393,7 +393,7 @@ Section 7
 - (a) for “PNR data” substitute “ PNR information ”;
 - (b) for “non-UK” substitute “ third country ”.
 
-**12.**[^c24409241][^key-e6b094d104cb29fa2200f4cd5dadc5ab] (1) Regulation 13 (period of data retention and depersonalisation) is amended as follows.
+**12.**[^c24409241][^c-e6b094d104cb29fa2200f4cd5dadc5ab] (1) Regulation 13 (period of data retention and depersonalisation) is amended as follows.
 
 (2) For paragraph (1) substitute—
 
@@ -436,7 +436,7 @@ Section 7
 
 (9) Omit paragraphs (7) to (10).
 
-**13.**[^c24409231][^key-c5c39a6ae309ec0db13e2b7e085bf21c] After regulation 13 insert—
+**13.**[^c24409231][^c-c5c39a6ae309ec0db13e2b7e085bf21c] After regulation 13 insert—
 
 > **Use and transfer of EU PNR data by the PIU: further provision**
 >
@@ -469,7 +469,7 @@ Section 7
 >
 > (10) Nothing in paragraphs (2) to (5) affects the operation of regulation 6(2).
 
-**14.**[^c24409221][^key-d8ebff85def6e9353648d56e15ea3465] Before regulation 14 insert—
+**14.**[^c24409221][^c-d8ebff85def6e9353648d56e15ea3465] Before regulation 14 insert—
 
 > **Restricted EU PNR data: further provision**
 >
@@ -498,7 +498,7 @@ Section 7
 > - (b) a person who is a British subject by virtue of Part 4 of the British Nationality Act 1981 and who has a right of abode in the United Kingdom, or
 > - (c) a person who is a British overseas territories citizen by virtue of a connection to Gibraltar.
 
-**15.**[^c24409211][^key-ef2ec53c0720aa59ae484987d022a0a4] (1) Regulation 14 (protection of personal data) is amended as follows.
+**15.**[^c24409211][^c-ef2ec53c0720aa59ae484987d022a0a4] (1) Regulation 14 (protection of personal data) is amended as follows.
 
 (2) After paragraph (1) insert—
 
@@ -506,7 +506,7 @@ Section 7
 
 (3) In paragraph (3)(c) for “non-UK competent authorities” substitute “ EU PIUs, Europol or Eurojust ”.
 
-**16.**[^c24409201][^key-378b8b70c11dbead3dc615801ad9bb11] (1) Regulation 16 (application of other data protection enactments) is amended as follows.
+**16.**[^c24409201][^c-378b8b70c11dbead3dc615801ad9bb11] (1) Regulation 16 (application of other data protection enactments) is amended as follows.
 
 (2) In paragraph (2)—
 
@@ -525,7 +525,7 @@ Section 7
 
 ### PART 2 — Interim period: modifications for restricted EU PNR data that is subject to deletion
 
-**17.**[^c24409171][^key-11120adf8c905d89129339f4cc02f327] (1) Until the commencement of paragraph 14, the PNR regulations have effect—
+**17.**[^c24409171][^c-11120adf8c905d89129339f4cc02f327] (1) Until the commencement of paragraph 14, the PNR regulations have effect—
 
 - (a) as if the regulation 13AA set out in sub-paragraph (2) were inserted before regulation 14, and
 - (b) with the modifications set out in sub-paragraphs (3) to (5).
@@ -556,7 +556,7 @@ Section 7
 >
 > (5) Where restricted EU PNR data is subject to deletion—
 >
-> - (a) the PIU must permanently delete it as soon as possible, using best efforts, taking into account the special circumstances referred to in Article 552(10)[^key-bda7895bf2b143eefa95e51d29b1e1f5] of the Agreement, and
+> - (a) the PIU must permanently delete it as soon as possible, using best efforts, taking into account the special circumstances referred to in Article 552(10)[^c-bda7895bf2b143eefa95e51d29b1e1f5] of the Agreement, and
 > - (b) an authorised person must record the date and time of deletion.
 >
 > (6) Paragraphs (7) to (9) apply where the PIU receives a request for restricted EU PNR data.
@@ -591,7 +591,7 @@ Section 7
 
 (3) Regulation 4A has effect as if—
 
-- (a) in paragraphs (5) and (6) the references to the functions of the designated independent authority under the PNR regulations included references to that authority's functions under Article 552(12)[^key-ace277137410483fead34b9142e9265a] of the Agreement, and
+- (a) in paragraphs (5) and (6) the references to the functions of the designated independent authority under the PNR regulations included references to that authority's functions under Article 552(12)[^c-ace277137410483fead34b9142e9265a] of the Agreement, and
 - (b) paragraph (5) also required the PIU to make the records mentioned in regulation 13AA(5)(b) and (9)(b) available to the designated independent authority for the purposes of the authority's functions under that provision of the Agreement.
 
 For this purpose, “**the Agreement**”, “**designated independent authority**” and “**the PIU**” have the same meanings as in the PNR regulations.
@@ -604,7 +604,7 @@ For this purpose, “**the Agreement**”, “**designated independent authority
 
 ### PART 3 — Sea and rail travel: power to modify PNR regulations etc.
 
-**18.**[^c24409141][^key-606ba8f044a6c319a705d3206e81af2e] (1) This paragraph applies if an agreement (a “new agreement”) is made between the United Kingdom and the EU or one or more member States which (whether with or without variation)—
+**18.**[^c24409141][^c-606ba8f044a6c319a705d3206e81af2e] (1) This paragraph applies if an agreement (a “new agreement”) is made between the United Kingdom and the EU or one or more member States which (whether with or without variation)—
 
 - (a) applies the provisions of Title III of Part 3 of the Trade and Cooperation Agreement to sea or rail travel as they apply to air travel, or
 - (b) makes provision about sea or rail travel corresponding to those provisions of that Agreement.
@@ -622,76 +622,76 @@ For this purpose, “**the Agreement**”, “**designated independent authority
 
 [^c24409061]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/1) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-23df7098092a3b7dd07dfb0e27475fe1]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/1) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-23df7098092a3b7dd07dfb0e27475fe1]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/1) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
 [^c24409071]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/2) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-8ad29c4d724fc634f99aa10c7bc38ca5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/2) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-8ad29c4d724fc634f99aa10c7bc38ca5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/2) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
 [^c24409081]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/3) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-3d1afc8dd3045a660832fcd962bb2232]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/3) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-3d1afc8dd3045a660832fcd962bb2232]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/3) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
 [^c24409091]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/4) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-2763d999b55f0753cc8d11711fccfa47]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/4) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-2763d999b55f0753cc8d11711fccfa47]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/4) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
 [^c24409101]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/5) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-a4da7cef1b530ba9e8a921191f944beb]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/5) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-a4da7cef1b530ba9e8a921191f944beb]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/5) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
 [^c24409111]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/6) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-771bfbc5299d9d738ff044a3ce275e39]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/6) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-771bfbc5299d9d738ff044a3ce275e39]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/6) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
 [^c24409121]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/7) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-a1bbf1cb1dc85d2b302f0e1dc9898f04]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/7) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-a1bbf1cb1dc85d2b302f0e1dc9898f04]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/7) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
 [^c24409131]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/8) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-281ce1b4ebea9603fb4fe026d9e2e957]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/8) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-281ce1b4ebea9603fb4fe026d9e2e957]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/8) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
 [^c24409271]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/9) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-16ea643fad1979680945b56c3db39f9b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/9) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-16ea643fad1979680945b56c3db39f9b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/9) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
 [^c24409261]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/10) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-150b0847c1b7a812056ed6b86dca66dd]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/10) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-150b0847c1b7a812056ed6b86dca66dd]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/10) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
 [^c24409251]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-d0e061bb8ed4497995297da688b9286c]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-d0e061bb8ed4497995297da688b9286c]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/11) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
 [^c24409241]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/12) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-e6b094d104cb29fa2200f4cd5dadc5ab]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/12) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-e6b094d104cb29fa2200f4cd5dadc5ab]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/12) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
 [^c24409231]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/13) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-c5c39a6ae309ec0db13e2b7e085bf21c]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/13) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-c5c39a6ae309ec0db13e2b7e085bf21c]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/13) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
 [^c24409221]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/14) not in force at Royal Assent, see [s. 40(7)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/7)
 
-[^key-d8ebff85def6e9353648d56e15ea3465]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/14) in force at 31.12.2023 by [S.I. 2023/1174](https://www.legislation.gov.uk/uksi/2023/1174), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1174/regulation/2)
+[^c-d8ebff85def6e9353648d56e15ea3465]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/14) in force at 31.12.2023 by [S.I. 2023/1174](https://www.legislation.gov.uk/uksi/2023/1174), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1174/regulation/2)
 
 [^c24409211]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/15) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-ef2ec53c0720aa59ae484987d022a0a4]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/15) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-ef2ec53c0720aa59ae484987d022a0a4]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/15) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
 [^c24409201]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/16) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-378b8b70c11dbead3dc615801ad9bb11]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/16) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-378b8b70c11dbead3dc615801ad9bb11]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/16) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
 [^c24409171]: Commencement: Sch. 2 para. 17 in force at Royal Assent for specified purposes, see s. 40(6)(b)
 
-[^key-11120adf8c905d89129339f4cc02f327]: Commencement: Sch. 2 para. 17 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-11120adf8c905d89129339f4cc02f327]: Commencement: Sch. 2 para. 17 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
 
-[^key-bda7895bf2b143eefa95e51d29b1e1f5]: Textual amendment: Words in [Sch. 2 para. 17(2)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17/2) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))
+[^c-bda7895bf2b143eefa95e51d29b1e1f5]: Textual amendment: Words in [Sch. 2 para. 17(2)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17/2) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))
 
-[^key-ace277137410483fead34b9142e9265a]: Textual amendment: Words in [Sch. 2 para. 17(3)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17/3/a) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))
+[^c-ace277137410483fead34b9142e9265a]: Textual amendment: Words in [Sch. 2 para. 17(3)(a)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/17/3/a) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))
 
 [^c24409141]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/18) in force at Royal Assent for specified purposes, see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/b)
 
-[^key-606ba8f044a6c319a705d3206e81af2e]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/18) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)
+[^c-606ba8f044a6c319a705d3206e81af2e]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2020/29/schedule/2/paragraph/18) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(cc)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/cc)

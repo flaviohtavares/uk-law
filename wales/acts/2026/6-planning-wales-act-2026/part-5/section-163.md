@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 163. Revocation of certificate of lawfulness[^key-04f2328350fbbabcdfea12774c24f5c5]
+## 163. Revocation of certificate of lawfulness[^c-04f2328350fbbabcdfea12774c24f5c5]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04f2328350fbbabcdfea12774c24f5c5]: Commencement: S. 163 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-04f2328350fbbabcdfea12774c24f5c5]: Commencement: S. 163 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

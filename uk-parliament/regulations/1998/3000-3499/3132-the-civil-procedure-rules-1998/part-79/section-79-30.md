@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79.30. Supply of court documents[^key-a1accc8b3c27de745fb74740b9e24225]
+## 79.30. Supply of court documents[^c-a1accc8b3c27de745fb74740b9e24225]
 
 *Extent: E+W*
 
-Unless the court directs otherwise, rule 5.4 (Register of Claims), rule 5.4B (Supply of documents from court records – a party) and rule 5.4C (Supply of documents from court records – a non-party) do not apply to any proceedings to which Section 2 or 3 of[^key-b9c26e58bbb6d9f88306d0086e58d735] this Part applies or to any document relating to such proceedings.
+Unless the court directs otherwise, rule 5.4 (Register of Claims), rule 5.4B (Supply of documents from court records – a party) and rule 5.4C (Supply of documents from court records – a non-party) do not apply to any proceedings to which Section 2 or 3 of[^c-b9c26e58bbb6d9f88306d0086e58d735] this Part applies or to any document relating to such proceedings.
 
 ## Annotations
 
-[^key-a1accc8b3c27de745fb74740b9e24225]: Textual amendment: [Pt. 79](https://www.legislation.gov.uk/uksi/1998/3132/part/79) inserted (4.12.2008) by [The Civil Procedure (Amendment No.2) Rules 2008 (S.I. 2008/3085)](https://www.legislation.gov.uk/uksi/2008/3085), [rule 1](https://www.legislation.gov.uk/uksi/2008/3085/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2008/3085/schedule)
+[^c-a1accc8b3c27de745fb74740b9e24225]: Textual amendment: [Pt. 79](https://www.legislation.gov.uk/uksi/1998/3132/part/79) inserted (4.12.2008) by [The Civil Procedure (Amendment No.2) Rules 2008 (S.I. 2008/3085)](https://www.legislation.gov.uk/uksi/2008/3085), [rule 1](https://www.legislation.gov.uk/uksi/2008/3085/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2008/3085/schedule)
 
-[^key-b9c26e58bbb6d9f88306d0086e58d735]: Textual amendment: Words in [rule 79.30](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.30) inserted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [18(j)](https://www.legislation.gov.uk/uksi/2009/2092/rule/18/j)
+[^c-b9c26e58bbb6d9f88306d0086e58d735]: Textual amendment: Words in [rule 79.30](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.30) inserted (1.10.2009) by [The Civil Procedure (Amendment) Rules 2009 (S.I. 2009/2092)](https://www.legislation.gov.uk/uksi/2009/2092), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/2092/rule/1/2), [18(j)](https://www.legislation.gov.uk/uksi/2009/2092/rule/18/j)

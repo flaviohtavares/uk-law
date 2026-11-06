@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Offences by bodies corporate.[^c10458681][^key-98d34d190dd170a0fdfa72800143db0b]
+## 50. Offences by bodies corporate.[^c10458681][^c-98d34d190dd170a0fdfa72800143db0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
     S. 50 applied (with modifications) (6.12.2000) by [S.I. 2000/3059](https://www.legislation.gov.uk/uksi/2000/3059), [art. 3(2)](https://www.legislation.gov.uk/uksi/2000/3059/article/3/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2000/3059/schedule/4)
 
-[^key-98d34d190dd170a0fdfa72800143db0b]: Modification: S. 50 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
+[^c-98d34d190dd170a0fdfa72800143db0b]: Modification: S. 50 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)

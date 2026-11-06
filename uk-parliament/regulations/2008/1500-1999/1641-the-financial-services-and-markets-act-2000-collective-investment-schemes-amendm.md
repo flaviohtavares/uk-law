@@ -46,13 +46,13 @@ Coming into force
 
 The Treasury make the following order in exercise of the powers conferred by sections 235(5) and 428(3) of the Financial Services and Markets Act 2000[^f00001]:
 
-## 1. Citation and commencement[^key-d3500b35bff611310bba1bf9949f891f]
+## 1. Citation and commencement[^c-d3500b35bff611310bba1bf9949f891f]
 
 (1) This Order may be cited as the Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) Order 2008.
 
 (2) This Order comes into force on 15th July 2008.
 
-## 2. Amendment of the Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001[^key-1a17788d7ba26440828e647a543a309f]
+## 2. Amendment of the Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001[^c-1a17788d7ba26440828e647a543a309f]
 
 (1) The Schedule to the Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001[^f00002] (arrangements not amounting to a collective investment scheme) is amended as follows.
 
@@ -65,11 +65,11 @@ The Treasury make the following order in exercise of the powers conferred by sec
 > - (a) by virtue of paragraph 9 of the Schedule to the Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001 as it had effect immediately before 15th July 2008 they did not then do so provided that all participants are permitted participants; or
 > - (b) in the case of arrangements which amounted to a collective investment scheme immediately before 15th July 2008—
 >   - (i) all participants are permitted participants; and
->   - (ii) at any time each person which is at that time a participant agrees in writing in respect of the remaining life of the arrangements[^key-3825283a87641c5acab19d1eb7dd7b8e] that the arrangements do not amount to a collective investment scheme.
+>   - (ii) at any time each person which is at that time a participant agrees in writing in respect of the remaining life of the arrangements[^c-3825283a87641c5acab19d1eb7dd7b8e] that the arrangements do not amount to a collective investment scheme.
 >
 > (2) Arrangements first entered into on or after 15th July 2008 do not amount to a collective investment scheme if all participants are permitted participants.
 >
-> (3) The exclusion in sub-paragraph (2) shall not apply to arrangements falling within that sub-paragraph if at any time each person which is at that time a permitted participant agrees in writing in respect of the life of the arrangements that the arrangements amount to a collective investment scheme[^key-0cb6987c31c211bba7be2bdc039d8073].
+> (3) The exclusion in sub-paragraph (2) shall not apply to arrangements falling within that sub-paragraph if at any time each person which is at that time a permitted participant agrees in writing in respect of the life of the arrangements that the arrangements amount to a collective investment scheme[^c-0cb6987c31c211bba7be2bdc039d8073].
 >
 > (4) If at any time a person which is not a permitted participant participates in arrangements then for as long as that person is a participant but not a permitted participant the exclusion in sub-paragraph (1) or, as the case may be, sub-paragraph (2) shall not apply to the arrangements.
 >
@@ -82,7 +82,7 @@ The Treasury make the following order in exercise of the powers conferred by sec
 >     - (a) a participant in the arrangements; or
 >     - (b) a member, partner or trust beneficiary of a body corporate, unincorporated association, partnership or trust which is itself a participant in the arrangements; and
 >   - (ii) enters into the arrangements for commercial purposes wholly or mainly related to the first business; or
-> - (b) is a body corporate, unincorporated association ,[^key-82821e8ace55f268fad8970f7be18d22] partnership, or trustee of a trust (unless that trustee is an individual) which—
+> - (b) is a body corporate, unincorporated association ,[^c-82821e8ace55f268fad8970f7be18d22] partnership, or trustee of a trust (unless that trustee is an individual) which—
 >   - (i) does not carry on a specified business; and
 >   - (ii) only has as its members, partners or trust beneficiaries persons which themselves qualify, or would qualify if they participated in the arrangements, as participants of the kind mentioned in paragraph (a) of this paragraph; and
 >
@@ -90,7 +90,7 @@ The Treasury make the following order in exercise of the powers conferred by sec
 >
 > (6) For the purposes of this paragraph, neither the entry into arrangements by any person as a further participant nor the exit from arrangements by any participant shall in itself constitute the creation of new arrangements.
 >
-> (7)[^key-8bd3429c970bb7b6350d4df5f4fb3c21] An agreement made in respect of any arrangements in accordance with the provisions of sub-paragraph (1)(b)(ii) or sub-paragraph (3) is not affected by—
+> (7)[^c-8bd3429c970bb7b6350d4df5f4fb3c21] An agreement made in respect of any arrangements in accordance with the provisions of sub-paragraph (1)(b)(ii) or sub-paragraph (3) is not affected by—
 >
 > - (a) the entry into such arrangements by any person as a further participant;
 > - (b) the exit from such arrangements of any participant;
@@ -128,16 +128,16 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-d3500b35bff611310bba1bf9949f891f]: Commencement: Art. 1 in force at 15.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1641/article/1)
+[^c-d3500b35bff611310bba1bf9949f891f]: Commencement: Art. 1 in force at 15.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1641/article/1)
 
-[^key-1a17788d7ba26440828e647a543a309f]: Commencement: Art. 2 in force at 15.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1641/article/1)
+[^c-1a17788d7ba26440828e647a543a309f]: Commencement: Art. 2 in force at 15.7.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1641/article/1)
 
 [^f00002]: Footnote: [S.I. 2001/1062](https://www.legislation.gov.uk/uksi/2001/1062), amended by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650); there are other amending instruments but none is relevant.
 
-[^key-3825283a87641c5acab19d1eb7dd7b8e]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1641/article/2/2) substituted (14.7.2008) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) (No.2) Order 2008 (S.I. 2008/1813)](https://www.legislation.gov.uk/uksi/2008/1813), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1813/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2008/1813/article/2/2/a)
+[^c-3825283a87641c5acab19d1eb7dd7b8e]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1641/article/2/2) substituted (14.7.2008) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) (No.2) Order 2008 (S.I. 2008/1813)](https://www.legislation.gov.uk/uksi/2008/1813), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1813/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2008/1813/article/2/2/a)
 
-[^key-0cb6987c31c211bba7be2bdc039d8073]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1641/article/2/2) substituted (14.7.2008) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) (No.2) Order 2008 (S.I. 2008/1813)](https://www.legislation.gov.uk/uksi/2008/1813), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1813/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2008/1813/article/2/2/b)
+[^c-0cb6987c31c211bba7be2bdc039d8073]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1641/article/2/2) substituted (14.7.2008) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) (No.2) Order 2008 (S.I. 2008/1813)](https://www.legislation.gov.uk/uksi/2008/1813), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1813/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2008/1813/article/2/2/b)
 
-[^key-82821e8ace55f268fad8970f7be18d22]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1641/article/2/2): comma inserted (14.7.2008) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) (No.2) Order 2008 (S.I. 2008/1813)](https://www.legislation.gov.uk/uksi/2008/1813), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1813/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2008/1813/article/2/2/c)
+[^c-82821e8ace55f268fad8970f7be18d22]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1641/article/2/2): comma inserted (14.7.2008) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) (No.2) Order 2008 (S.I. 2008/1813)](https://www.legislation.gov.uk/uksi/2008/1813), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1813/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2008/1813/article/2/2/c)
 
-[^key-8bd3429c970bb7b6350d4df5f4fb3c21]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1641/article/2/2) substituted (14.7.2008) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) (No.2) Order 2008 (S.I. 2008/1813)](https://www.legislation.gov.uk/uksi/2008/1813), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1813/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2008/1813/article/2/2/d)
+[^c-8bd3429c970bb7b6350d4df5f4fb3c21]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1641/article/2/2) substituted (14.7.2008) by [The Financial Services and Markets Act 2000 (Collective Investment Schemes) (Amendment) (No.2) Order 2008 (S.I. 2008/1813)](https://www.legislation.gov.uk/uksi/2008/1813), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1813/article/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2008/1813/article/2/2/d)

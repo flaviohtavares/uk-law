@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Training equipment[^key-e6c17c792d77c4611e2e94666de1dc00]
+## 71. Training equipment[^c-e6c17c792d77c4611e2e94666de1dc00]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6c17c792d77c4611e2e94666de1dc00]: Commencement: Reg. 71 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-e6c17c792d77c4611e2e94666de1dc00]: Commencement: Reg. 71 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

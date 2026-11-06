@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 87A. Pension protection lump sum death benefit[^key-66e7584d43d4c7feb187e11c9b063be9]
+## 87A. Pension protection lump sum death benefit[^c-66e7584d43d4c7feb187e11c9b063be9]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66e7584d43d4c7feb187e11c9b063be9]: Textual amendment: [Reg. 87A](https://www.legislation.gov.uk/uksi/2010/990/regulation/87A) inserted (1.9.2019) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2019/1134/regulation/8)
+[^c-66e7584d43d4c7feb187e11c9b063be9]: Textual amendment: [Reg. 87A](https://www.legislation.gov.uk/uksi/2010/990/regulation/87A) inserted (1.9.2019) by [The Teachers' Pensions Schemes (Amendment) Regulations 2019 (S.I. 2019/1134)](https://www.legislation.gov.uk/uksi/2019/1134), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1134/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2019/1134/regulation/8)

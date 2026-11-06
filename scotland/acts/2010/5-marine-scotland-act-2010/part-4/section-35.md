@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Special procedure for applications relating to certain electricity works[^key-7462b03d05198feba9476f339b517869]
+## 35. Special procedure for applications relating to certain electricity works[^c-7462b03d05198feba9476f339b517869]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7462b03d05198feba9476f339b517869]: Commencement: S. 35 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-7462b03d05198feba9476f339b517869]: Commencement: S. 35 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

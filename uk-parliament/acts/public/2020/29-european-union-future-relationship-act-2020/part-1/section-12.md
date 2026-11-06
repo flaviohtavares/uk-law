@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Dual criminality[^key-69495d7ebc01814ec20c61c3aa044d8a]
+## 12. Dual criminality[^c-69495d7ebc01814ec20c61c3aa044d8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69495d7ebc01814ec20c61c3aa044d8a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2020/29/section/12) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/k)
+[^c-69495d7ebc01814ec20c61c3aa044d8a]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2020/29/section/12) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/k)

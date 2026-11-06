@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 314. Breach of regulations[^key-24efd180e6d959c5c2a5e1713e76de66]
+## 314. Breach of regulations[^c-24efd180e6d959c5c2a5e1713e76de66]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The following provisions of the Pensions Act 1995 (c. 26) apply to regulations u
 
 ## Annotations
 
-[^key-24efd180e6d959c5c2a5e1713e76de66]: Commencement: [S. 314](https://www.legislation.gov.uk/ukpga/2004/35/section/314) in force at 1.9.2005 by [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/1)
+[^c-24efd180e6d959c5c2a5e1713e76de66]: Commencement: [S. 314](https://www.legislation.gov.uk/ukpga/2004/35/section/314) in force at 1.9.2005 by [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(4)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/1)

@@ -126,8 +126,8 @@ The Interpretation Act (Northern Ireland) 1954[^c16972701] shall apply to Articl
 - “relevant enactment” means any provision of the following and any instrument made by virtue of such a provision:
   - the Personal Injuries (Emergency Provisions) Act 1939[^c16972911],
   - the Pension Schemes (Northern Ireland) Act 1993,[^c16972921]
-  - Part 1 of the Pensions Act (Northern Ireland) 2015,[^key-ec1559959a7aba3b3527e1b0eb04a2cc]
-  - section 29 of that Act,[^key-a6a373a58e81f51433c2935bc35d156f]
+  - Part 1 of the Pensions Act (Northern Ireland) 2015,[^c-ec1559959a7aba3b3527e1b0eb04a2cc]
+  - section 29 of that Act,[^c-a6a373a58e81f51433c2935bc35d156f]
   - the Pensions (Navy, Army, Air Force and Mercantile Marine) Act 1939[^c16972941],
   - the Polish Resettlement Act 1947[^c16972951],
   - [^c16972861]. . .
@@ -169,9 +169,9 @@ Nothing in this Order or in any order made under Article 4 or referred to in Art
 
 [^c16972921]: Textual amendment: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-ec1559959a7aba3b3527e1b0eb04a2cc]: Textual amendment: Words in art. 6(5) inserted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 1](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/1)
+[^c-ec1559959a7aba3b3527e1b0eb04a2cc]: Textual amendment: Words in art. 6(5) inserted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 1](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/1)
 
-[^key-a6a373a58e81f51433c2935bc35d156f]: Textual amendment: Words in [art. 6(5)](https://www.legislation.gov.uk/nisi/1982/1082/article/6/5) inserted (6.4.2017) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 16 para. 1](https://www.legislation.gov.uk/nia/2015/5/schedule/16/paragraph/1); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3) [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))
+[^c-a6a373a58e81f51433c2935bc35d156f]: Textual amendment: Words in [art. 6(5)](https://www.legislation.gov.uk/nisi/1982/1082/article/6/5) inserted (6.4.2017) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 16 para. 1](https://www.legislation.gov.uk/nia/2015/5/schedule/16/paragraph/1); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3) [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))
 
 [^c16972941]: Textual amendment: [1939 c. 83](https://www.legislation.gov.uk/ukpga/1939/83)
 

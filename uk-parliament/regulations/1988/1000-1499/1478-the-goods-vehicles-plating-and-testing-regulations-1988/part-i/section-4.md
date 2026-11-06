@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Application[^key-c1db2fa65ec1e9e69efdca3bd58b9e75]
+## 4. Application[^c-c1db2fa65ec1e9e69efdca3bd58b9e75]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1db2fa65ec1e9e69efdca3bd58b9e75]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1988/1478/regulation/4) substituted (20.5.2018) by [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/849/regulation/7)
+[^c-c1db2fa65ec1e9e69efdca3bd58b9e75]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1988/1478/regulation/4) substituted (20.5.2018) by [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/849/regulation/7)

@@ -30,8 +30,8 @@ summary: ''
 - (a) research and development which may lead to or facilitate an extension of the trade, and
 - (b) research and development of a medical nature which has a special relation to the welfare of workers employed in the trade.
 
-(3)[^key-82884b64dc3fd5d465b3edb460ea9254] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-82884b64dc3fd5d465b3edb460ea9254] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82884b64dc3fd5d465b3edb460ea9254]: Textual amendment: S. 1042(3) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/4)
+[^c-82884b64dc3fd5d465b3edb460ea9254]: Textual amendment: S. 1042(3) omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/4)

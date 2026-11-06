@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Appeals[^key-ecec75a0ab3eb24d8fcc10f8d6dd8a30][^key-73825a628ee251dea39d2dc988f73339]
+## 51. Appeals[^c-ecec75a0ab3eb24d8fcc10f8d6dd8a30][^c-73825a628ee251dea39d2dc988f73339]
 
 *Extent: E+W*
 
-(1)[^key-b3d8029c7a2b32e277dd263843b44297] A child's parent or a young person may appeal to the First-tier Tribunal against the matters set out in subsection (2), subject to section 55 (mediation).
+(1)[^c-b3d8029c7a2b32e277dd263843b44297] A child's parent or a young person may appeal to the First-tier Tribunal against the matters set out in subsection (2), subject to section 55 (mediation).
 
 (2) The matters are—
 
@@ -35,7 +35,7 @@ summary: ''
 - (e) a decision of a local authority not to secure the amendment or replacement of an EHC plan it maintains for the child or young person following a review or re-assessment under section 44;
 - (f) a decision of a local authority under section 45 to cease to maintain an EHC plan for the child or young person.
 
-(3)[^key-b3d8029c7a2b32e277dd263843b44297] A child's parent or a young person may appeal to the First-tier Tribunal under subsection (2)(c)—
+(3)[^c-b3d8029c7a2b32e277dd263843b44297] A child's parent or a young person may appeal to the First-tier Tribunal under subsection (2)(c)—
 
 - (a) when an EHC plan is first finalised for the child or young person, and
 - (b) following an amendment or replacement of the plan.
@@ -60,8 +60,8 @@ where that requirement is imposed by Tribunal Procedure Rules in relation to an 
 
 ## Annotations
 
-[^key-ecec75a0ab3eb24d8fcc10f8d6dd8a30]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2014/6/section/51) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/889/article/3/g)
+[^c-ecec75a0ab3eb24d8fcc10f8d6dd8a30]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2014/6/section/51) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/889/article/3/g)
 
-[^key-73825a628ee251dea39d2dc988f73339]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2014/6/section/51) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-73825a628ee251dea39d2dc988f73339]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2014/6/section/51) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
 
-[^key-b3d8029c7a2b32e277dd263843b44297]: Modification: [S. 51(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/51/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/51/3) modified (1.9.2014) by [The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530)](https://www.legislation.gov.uk/uksi/2014/1530), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1530/regulation/1), [64(1)(b)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/1/b), [64(2)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1530/schedule/3/part/2)
+[^c-b3d8029c7a2b32e277dd263843b44297]: Modification: [S. 51(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/51/1)[(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/51/3) modified (1.9.2014) by [The Special Educational Needs and Disability Regulations 2014 (S.I. 2014/1530)](https://www.legislation.gov.uk/uksi/2014/1530), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1530/regulation/1), [64(1)(b)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/1/b), [64(2)](https://www.legislation.gov.uk/uksi/2014/1530/regulation/64/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2014/1530/schedule/3/part/2)

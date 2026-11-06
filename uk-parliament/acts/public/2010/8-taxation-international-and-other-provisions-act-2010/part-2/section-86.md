@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies to a scheme or arrangement if [^key-5967fa27b3cac9c6648a84efc2b7ccf7]...—
+(1) This section applies to a scheme or arrangement if [^c-5967fa27b3cac9c6648a84efc2b7ccf7]...—
 
 - (a) a step is taken by a participant, or
 - (b) a step that could have been taken by a participant is not taken,
@@ -37,7 +37,7 @@ and that action or failure to act has the effect of increasing, or giving rise t
 - (a) claiming, or otherwise securing the benefit of, reliefs, deductions, reductions or allowances, and
 - (b) making elections for tax purposes.
 
-(3A)[^key-d4071dc0b1bc6fc9b5c588bdba8b1e7b] Reference in subsection (1) to a step that is taken or not taken by a participant includes one that was taken or not taken by a participant before the scheme or arrangement was made.
+(3A)[^c-d4071dc0b1bc6fc9b5c588bdba8b1e7b] Reference in subsection (1) to a step that is taken or not taken by a participant includes one that was taken or not taken by a participant before the scheme or arrangement was made.
 
 (3B) The reason for taking or not taking a step does not matter so long as it has the effect mentioned in subsection (1).
 
@@ -45,6 +45,6 @@ and that action or failure to act has the effect of increasing, or giving rise t
 
 ## Annotations
 
-[^key-5967fa27b3cac9c6648a84efc2b7ccf7]: Textual amendment: Words in s. 86(1) omitted (with effect in accordance with Sch. 11 para. 6(2) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 11 para. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/11/paragraph/6/1/a)
+[^c-5967fa27b3cac9c6648a84efc2b7ccf7]: Textual amendment: Words in s. 86(1) omitted (with effect in accordance with Sch. 11 para. 6(2) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 11 para. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/11/paragraph/6/1/a)
 
-[^key-d4071dc0b1bc6fc9b5c588bdba8b1e7b]: Textual amendment: S. 86(3A)(3B) inserted (with effect in accordance with Sch. 11 para. 6(2) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 11 para. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/11/paragraph/6/1/b)
+[^c-d4071dc0b1bc6fc9b5c588bdba8b1e7b]: Textual amendment: S. 86(3A)(3B) inserted (with effect in accordance with Sch. 11 para. 6(2) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 11 para. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/11/paragraph/6/1/b)

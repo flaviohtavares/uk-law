@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Temporary use of land for carrying out the authorised development[^key-f69aad0ecfa573f03133c73c057ae987]
+## 26. Temporary use of land for carrying out the authorised development[^c-f69aad0ecfa573f03133c73c057ae987]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
   - (i) so much of the land specified in columns (1) and (2) of Schedule 5 (land of which temporary possession may be taken) for the purpose specified in relation to that land in column (3) of that Schedule relating to the part of the authorised development specified in column (4) of that Schedule; and
   - (ii) any other Order land in respect of which no notice of entry has been served under section 11 of the 1965 Act (powers of entry) (other than in connection with the acquisition of rights only) and no declaration has been made under section 4 of the 1981 Act (execution of declaration);
 - (b) remove any electric line, electrical plant, buildings, structures, poles, means of enclosure, apparatus and vegetation from that land;
-- (c) construct temporary works and permanent works[^key-44242dbca91516994c92f4930fbf0900] (including the provision of means of access, gates, fences and other boundary structures) on that land and use that land as temporary laydown area, storage area and working area;
+- (c) construct temporary works and permanent works[^c-44242dbca91516994c92f4930fbf0900] (including the provision of means of access, gates, fences and other boundary structures) on that land and use that land as temporary laydown area, storage area and working area;
 - (d) construct any works specified in relation to that land in column (3) of Schedule 5; and
 - (e) carry out reinstatement works required pursuant to the requirements in Schedule 2 (requirements).
 
@@ -34,7 +34,7 @@ summary: ''
 
 (3) The undertaker may not, without the agreement of the owners of the land, remain in possession of any land under this article after the end of the period of one year beginning with the date of final commissioning unless the undertaker has, before the end of that period, served notice of entry under section 11 of the 1965 Act or made a declaration under section 4 [^c24030681] of the 1981 Act (execution of declaration) or has otherwise acquired the land subject to temporary possession.
 
-(4) Unless the undertaker has served notice of entry under section 11 of the 1965 Act or made a declaration under section 4 of the 1981 Act or has otherwise acquired the rights over land subject to temporary possession, the undertaker must before giving up possession of land of which temporary possession has been taken under either paragraph (1)(a)(i) or (1)(a)(ii), remove all temporary and permanent works[^key-dddccbf4e5d732dd2a2774571d3abb20] (including accesses to the public highway) and restore the land to the reasonable satisfaction of the owners of the land and any highway access to the reasonable satisfaction of the relevant highway authority; but the undertaker is not required to—
+(4) Unless the undertaker has served notice of entry under section 11 of the 1965 Act or made a declaration under section 4 of the 1981 Act or has otherwise acquired the rights over land subject to temporary possession, the undertaker must before giving up possession of land of which temporary possession has been taken under either paragraph (1)(a)(i) or (1)(a)(ii), remove all temporary and permanent works[^c-dddccbf4e5d732dd2a2774571d3abb20] (including accesses to the public highway) and restore the land to the reasonable satisfaction of the owners of the land and any highway access to the reasonable satisfaction of the relevant highway authority; but the undertaker is not required to—
 
 - (a) replace any electric line, electrical plant, buildings, structures, poles and apparatus removed under this article; or
 - (b) restore the land on which any works have been carried out under paragraph (1)(d) insofar as the works relate to mitigation works identified in the environmental statement or required pursuant to the requirements in Schedule 2.
@@ -62,13 +62,13 @@ summary: ''
 
 ## Annotations
 
-[^key-f69aad0ecfa573f03133c73c057ae987]: Commencement: Art. 26 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-f69aad0ecfa573f03133c73c057ae987]: Commencement: Art. 26 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-44242dbca91516994c92f4930fbf0900]: Textual amendment: Words in [art. 26(1)(c)](https://www.legislation.gov.uk/uksi/2020/325/article/26/1/c) inserted (29.9.2020) by [The Reinforcement to the North Shropshire Electricity Distribution Network (Correction) Order 2020 (S.I. 2020/1053)](https://www.legislation.gov.uk/uksi/2020/1053), [art. 1](https://www.legislation.gov.uk/uksi/2020/1053/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1053/schedule)
+[^c-44242dbca91516994c92f4930fbf0900]: Textual amendment: Words in [art. 26(1)(c)](https://www.legislation.gov.uk/uksi/2020/325/article/26/1/c) inserted (29.9.2020) by [The Reinforcement to the North Shropshire Electricity Distribution Network (Correction) Order 2020 (S.I. 2020/1053)](https://www.legislation.gov.uk/uksi/2020/1053), [art. 1](https://www.legislation.gov.uk/uksi/2020/1053/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1053/schedule)
 
 [^c24030681]: Marginal citation: [Section 4](https://www.legislation.gov.uk/uksi/2020/325/section/4) was amended by the Housing and Planning Act 2016, sections 184,185 and 199(2), and Schedule 18, paragraphs 1 and 2.
 
-[^key-dddccbf4e5d732dd2a2774571d3abb20]: Textual amendment: Words in [art. 26(4)](https://www.legislation.gov.uk/uksi/2020/325/article/26/4) inserted (29.9.2020) by [The Reinforcement to the North Shropshire Electricity Distribution Network (Correction) Order 2020 (S.I. 2020/1053)](https://www.legislation.gov.uk/uksi/2020/1053), [art. 1](https://www.legislation.gov.uk/uksi/2020/1053/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1053/schedule)
+[^c-dddccbf4e5d732dd2a2774571d3abb20]: Textual amendment: Words in [art. 26(4)](https://www.legislation.gov.uk/uksi/2020/325/article/26/4) inserted (29.9.2020) by [The Reinforcement to the North Shropshire Electricity Distribution Network (Correction) Order 2020 (S.I. 2020/1053)](https://www.legislation.gov.uk/uksi/2020/1053), [art. 1](https://www.legislation.gov.uk/uksi/2020/1053/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1053/schedule)
 
 [^c24030691]: Marginal citation: [Section 152](https://www.legislation.gov.uk/uksi/2020/325/section/152) was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

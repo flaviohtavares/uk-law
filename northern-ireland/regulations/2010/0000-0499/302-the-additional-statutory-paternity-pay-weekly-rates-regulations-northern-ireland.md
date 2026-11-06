@@ -46,18 +46,18 @@ Coming into operation
 
 The Department for Employment and Learning makes the following Regulations in exercise of the powers conferred by section 167ZEE(1) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and section 5(1)(m) of the Social Security Administration (Northern Ireland) Act 1992[^f00002].
 
-## 1. Citation and commencement[^key-8fd5c9a0e326758a69e132381927b55c]
+## 1. Citation and commencement[^c-8fd5c9a0e326758a69e132381927b55c]
 
 These Regulations may be cited as the Additional Statutory Paternity Pay (Weekly Rates) Regulations (Northern Ireland) 2010 and come into operation on 3rd October 2010.
 
-## 2. Weekly rate of payment of additional statutory paternity pay[^key-35e41bc199da8562dc3143c7b2cc28b5]
+## 2. Weekly rate of payment of additional statutory paternity pay[^c-35e41bc199da8562dc3143c7b2cc28b5]
 
 The weekly rate of payment of additional statutory paternity pay shall be the smaller of the following two amounts—
 
-- (a)[^key-c2d8639a7ec2486970588da486e9aa99] £140∙98;
+- (a)[^c-c2d8639a7ec2486970588da486e9aa99] £140∙98;
 - (b) 90% of the normal weekly earnings of the person claiming additional statutory paternity pay, determined in accordance with regulations 31 and 32 of the Additional Statutory Paternity Pay (General) Regulations (Northern Ireland) 2010[^f00003].
 
-## 3. Rounding of fractional amounts[^key-8a5ca2fc89d51f5276bee97a60b6eb09]
+## 3. Rounding of fractional amounts[^c-8a5ca2fc89d51f5276bee97a60b6eb09]
 
 Where any payment of additional statutory paternity pay is made on the basis of a calculation at—
 
@@ -88,12 +88,12 @@ Regulation 2 sets the weekly rate of payment of additional statutory paternity p
 
 [^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8). Relevant amendments to section 5 were made by paragraph 2(1) of Schedule 2 to the Employment (Northern Ireland) Order 2002 ([S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)) and paragraph 23 of Schedule 1 to the Work and Families (Northern Ireland) Order 2006 ([S.I. 2006/1947 (N.I. 16)](https://www.legislation.gov.uk/nisi/2006/1947)).
 
-[^key-8fd5c9a0e326758a69e132381927b55c]: Commencement: Reg. 1 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/302/regulation/1)
+[^c-8fd5c9a0e326758a69e132381927b55c]: Commencement: Reg. 1 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/302/regulation/1)
 
-[^key-35e41bc199da8562dc3143c7b2cc28b5]: Commencement: Reg. 2 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/302/regulation/1)
+[^c-35e41bc199da8562dc3143c7b2cc28b5]: Commencement: Reg. 2 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/302/regulation/1)
 
-[^key-c2d8639a7ec2486970588da486e9aa99]: Textual amendment: Sum in [Reg. 2(a)](https://www.legislation.gov.uk/nisr/2010/302/regulation/2/a) substituted (2.4.2017) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2017 (revoked) 2017 (S.R. 2017/56)](https://www.legislation.gov.uk/nisr/2017/56), [arts. 1(1)(g)](https://www.legislation.gov.uk/nisr/2017/56/article/1/1/g), [11(2)](https://www.legislation.gov.uk/nisr/2017/56/article/11/2)
+[^c-c2d8639a7ec2486970588da486e9aa99]: Textual amendment: Sum in [Reg. 2(a)](https://www.legislation.gov.uk/nisr/2010/302/regulation/2/a) substituted (2.4.2017) by [The Social Security Benefits Up-rating Order (Northern Ireland) 2017 (revoked) 2017 (S.R. 2017/56)](https://www.legislation.gov.uk/nisr/2017/56), [arts. 1(1)(g)](https://www.legislation.gov.uk/nisr/2017/56/article/1/1/g), [11(2)](https://www.legislation.gov.uk/nisr/2017/56/article/11/2)
 
 [^f00003]: Footnote: [S.R. 2010 No. 300](https://www.legislation.gov.uk/nisr/2010/300).
 
-[^key-8a5ca2fc89d51f5276bee97a60b6eb09]: Commencement: Reg. 3 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/302/regulation/1)
+[^c-8a5ca2fc89d51f5276bee97a60b6eb09]: Commencement: Reg. 3 in operation at 3.10.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/302/regulation/1)

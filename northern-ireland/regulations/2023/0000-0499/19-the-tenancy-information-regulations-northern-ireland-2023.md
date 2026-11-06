@@ -42,7 +42,7 @@ Coming into operation
 
 The Department for Communities[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 4A, 4B and 72(1) of the Private Tenancies (Northern Ireland) Order 2006[^f00002] and Section 2 and Schedule 1 to the Private Tenancies Act (Northern Ireland) 2022[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-ff5bf2dfd65cce3a15f2346a3d597e66]
+## 1. Citation, commencement and interpretation[^c-ff5bf2dfd65cce3a15f2346a3d597e66]
 
 (1) These Regulations may be cited as the Tenancy Information Regulations (Northern Ireland) 2023 and come into operation on 1st<sup></sup>April 2023.
 
@@ -51,11 +51,11 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 - “**the Order**” means the Private Tenancies (Northern Ireland) Order 2006;
 - “**the Act**” means the Private Tenancies Act (Northern Ireland) 2022.
 
-## 2. Landlord’s notice relating to the granting of a private tenancy[^key-35c1cda67e29054ec27da2441e701a1f]
+## 2. Landlord’s notice relating to the granting of a private tenancy[^c-35c1cda67e29054ec27da2441e701a1f]
 
 A notice under Article 4A(2) of the Order and paragraph 1(2) of Schedule 1 to the Act shall be in the form set out in Schedule 1.
 
-## 3. Landlord’s notice relating to the variation of a private tenancy[^key-f26134d2b5d898643718a90c31878bd8]
+## 3. Landlord’s notice relating to the variation of a private tenancy[^c-f26134d2b5d898643718a90c31878bd8]
 
 A notice under Article 4B(2) of the Order and paragraph 2(3) of Schedule 1 to the Act shall be in the form set out in Schedule 2.
 
@@ -79,19 +79,19 @@ This Notice must be given to the tenant free of charge and within 28 days of the
 
 ### NOTES
 
-#### 1. General[^key-883528bf42766bccac1918fc1becb382]
+#### 1. General[^c-883528bf42766bccac1918fc1becb382]
 
 Your tenancy is not a protected or statutory tenancy within the meaning of the Rent (Northern Ireland) Order 1978 as amended by Article 56 of the Private Tenancies (Northern Ireland) Order 2006. You have the protection of the legal rights described below. However, other terms and conditions of your tenancy are a matter for you and your landlord.
 
-#### 2. Repairs[^key-f5195d059adbb5f95aa8d31401c3d95a]
+#### 2. Repairs[^c-f5195d059adbb5f95aa8d31401c3d95a]
 
 Your landlord is obliged to keep in repair all gas fittings, flues and installations. Your landlord must also provide you with a copy of the required safety checks in relation to gas appliances and flues. In some circumstances, your landlord may also display a copy of any safety certificate prominently in the property. Responsibility for other repairs is determined by your tenancy agreement. You can get help from the environmental health department of your local council if repairs are not carried out. See Appendix 1 (below) for more information.
 
-#### 3. Access for repairs[^key-6f79161c072aa53ccd504cf5da02329c]
+#### 3. Access for repairs[^c-6f79161c072aa53ccd504cf5da02329c]
 
 By law, you must let your landlord (or their representatives or contractors) have reasonable access to the property to carry out repairs or an inspection. Your landlord should give you reasonable notice before this happens.
 
-#### 4. Fitness for human habitation[^key-bbeda5261491702d50925eb36113047d]
+#### 4. Fitness for human habitation[^c-bbeda5261491702d50925eb36113047d]
 
 Your landlord is responsible for ensuring your property is safe. If:
 
@@ -102,7 +102,7 @@ Your landlord is responsible for ensuring your property is safe. If:
 
 Where a rented property does not meet the fitness standard, it is subject to rent control through the Rent Officer for Northern Ireland.
 
-#### 5. Receipts[^key-370c428cbebb207936456ea4e0071649]
+#### 5. Receipts[^c-370c428cbebb207936456ea4e0071649]
 
 All private tenants have a legal right to a receipt for any cash payment in relation to their tenancy. The receipt should detail:
 
@@ -114,7 +114,7 @@ All private tenants have a legal right to a receipt for any cash payment in rela
 
 You should get a receipt when you make the payment or as soon as reasonably possible afterwards. Your local council has powers to take legal action when this does not happen.
 
-#### 6. Notice to Quit[^key-be356d958817a91ac0ee933f88cd1891]
+#### 6. Notice to Quit[^c-be356d958817a91ac0ee933f88cd1891]
 
 To end a tenancy a written ‘Notice to Quit’ must be given by the landlord or you (the tenant), to the other party, except in the case of a fixed term tenancy, where it ends as agreed. The following tables show the minimum period of notice your landlord must give you, and you must give your landlord, depending on the length of the tenancy.
 
@@ -133,7 +133,7 @@ Minimum period of notice a tenant must give a landlord
 | Not more than 10 years | No less than 4 weeks’ written notice |
 | More than 10 years | No less than 12 weeks’ written notice |
 
-#### 7. Illegal eviction and harassment[^key-d88eff95b7af26cafe2d58cd2bc9cabe]
+#### 7. Illegal eviction and harassment[^c-d88eff95b7af26cafe2d58cd2bc9cabe]
 
 Your landlord, or anyone acting on their behalf, is not allowed to harass you or your household to try to make you leave or illegally evict you. This could include:
 
@@ -143,11 +143,11 @@ Your landlord, or anyone acting on their behalf, is not allowed to harass you or
 
 Your local council has powers to take legal action if this happens.
 
-#### 8. Legal process for eviction[^key-fe220b0c3ec980fda3cbe1de65888916]
+#### 8. Legal process for eviction[^c-fe220b0c3ec980fda3cbe1de65888916]
 
 You cannot be evicted from your property until your landlord follows the correct legal process and gets a possession order from the Court. However, you may be liable for legal costs incurred if a possession order is issued.
 
-#### 9. Help with paying rent and rates[^key-d4779901d549139f0ea62891a811dca0]
+#### 9. Help with paying rent and rates[^c-d4779901d549139f0ea62891a811dca0]
 
 You are entitled to apply for help with paying your rent and rates.
 
@@ -158,7 +158,7 @@ You are entitled to apply for help with paying your rent and rates.
 
 For further information contact your local Jobs and Benefits office or Housing Executive office.
 
-#### 10. Further advice[^key-f287d0b733bf2a1659dc94b7825c6a0f]
+#### 10. Further advice[^c-f287d0b733bf2a1659dc94b7825c6a0f]
 
 If you need independent advice or help with any problems you are having in relation to your tenancy, contact either:
 
@@ -197,13 +197,13 @@ Responsibility for other repairs depends on what the landlord and tenant agree t
 
 A landlord is not responsible for maintaining gas appliances which the tenant will take with them at the end of the tenancy.
 
-## SCHEDULE 2 — LANDLORD’S NOTICE RELATING TO THE VARIATION OF A PRIVATE TENANCY[^key-9852d8c9e8f633f9281da138c0a55260]
+## SCHEDULE 2 — LANDLORD’S NOTICE RELATING TO THE VARIATION OF A PRIVATE TENANCY[^c-9852d8c9e8f633f9281da138c0a55260]
 
 Regulation 3
 
-[^key-9852d8c9e8f633f9281da138c0a55260]Article 4B of the Private Tenancies (Northern Ireland) Order 2006 and Section 2 and Schedule 1 to the Private Tenancies Act (Northern Ireland) 2022.
+[^c-9852d8c9e8f633f9281da138c0a55260]Article 4B of the Private Tenancies (Northern Ireland) Order 2006 and Section 2 and Schedule 1 to the Private Tenancies Act (Northern Ireland) 2022.
 
-[^key-9852d8c9e8f633f9281da138c0a55260]**This Notice must be given to the tenant free of charge and within 28 days of the date of the variation**.
+[^c-9852d8c9e8f633f9281da138c0a55260]**This Notice must be given to the tenant free of charge and within 28 days of the date of the variation**.
 
 EXPLANATORY NOTE
 
@@ -229,32 +229,32 @@ Schedule 2 sets out the information to be contained in a landlord’s notice rel
 
 [^f00003]: Footnote: [2022 c.20 (N.I.)](https://www.legislation.gov.uk/nia/2022/20)
 
-[^key-ff5bf2dfd65cce3a15f2346a3d597e66]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/19/regulation/1) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
+[^c-ff5bf2dfd65cce3a15f2346a3d597e66]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/19/regulation/1) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
 
-[^key-35c1cda67e29054ec27da2441e701a1f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/19/regulation/2) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
+[^c-35c1cda67e29054ec27da2441e701a1f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/19/regulation/2) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
 
-[^key-f26134d2b5d898643718a90c31878bd8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2023/19/regulation/3) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
+[^c-f26134d2b5d898643718a90c31878bd8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2023/19/regulation/3) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
 
-[^key-883528bf42766bccac1918fc1becb382]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2023/19/schedule) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
+[^c-883528bf42766bccac1918fc1becb382]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2023/19/schedule) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
 
-[^key-f5195d059adbb5f95aa8d31401c3d95a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/2) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
+[^c-f5195d059adbb5f95aa8d31401c3d95a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/2) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
 
-[^key-6f79161c072aa53ccd504cf5da02329c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/3) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
+[^c-6f79161c072aa53ccd504cf5da02329c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/3) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
 
-[^key-bbeda5261491702d50925eb36113047d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/4) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
+[^c-bbeda5261491702d50925eb36113047d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/4) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
 
-[^key-370c428cbebb207936456ea4e0071649]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/5) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
+[^c-370c428cbebb207936456ea4e0071649]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/5) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
 
-[^key-be356d958817a91ac0ee933f88cd1891]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/6) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
+[^c-be356d958817a91ac0ee933f88cd1891]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/6) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
 
-[^key-d88eff95b7af26cafe2d58cd2bc9cabe]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/7) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
+[^c-d88eff95b7af26cafe2d58cd2bc9cabe]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/7) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
 
-[^key-fe220b0c3ec980fda3cbe1de65888916]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/8) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
+[^c-fe220b0c3ec980fda3cbe1de65888916]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/8) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
 
-[^key-d4779901d549139f0ea62891a811dca0]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/9) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
+[^c-d4779901d549139f0ea62891a811dca0]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/9) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
 
-[^key-f287d0b733bf2a1659dc94b7825c6a0f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/10) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
+[^c-f287d0b733bf2a1659dc94b7825c6a0f]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2023/19/schedule/1/paragraph/10) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
 
 [^M_I_0572e4de-3df1-47de-edde-cab192526923]: Commencement: [Sch. 1 Appendix 1](https://www.legislation.gov.uk/nisr/2023/19/schedule) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
 
-[^key-9852d8c9e8f633f9281da138c0a55260]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2023/19/schedule/2) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)
+[^c-9852d8c9e8f633f9281da138c0a55260]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2023/19/schedule/2) in operation at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/19/regulation/1/1)

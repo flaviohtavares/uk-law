@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46D. Appeals against penalties under section 46A[^key-49b8d3134c5efa73fed365287ad35469]
+## 46D. Appeals against penalties under section 46A[^c-49b8d3134c5efa73fed365287ad35469]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49b8d3134c5efa73fed365287ad35469]: Textual amendment: Ss. 46A-46D inserted (26.3.2015 for specified purposes, 15.6.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/58/3), [115(2)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/c); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 8](https://www.legislation.gov.uk/uksi/2015/994/article/8)
+[^c-49b8d3134c5efa73fed365287ad35469]: Textual amendment: Ss. 46A-46D inserted (26.3.2015 for specified purposes, 15.6.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/58/3), [115(2)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/c); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 8](https://www.legislation.gov.uk/uksi/2015/994/article/8)

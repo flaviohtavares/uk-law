@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Secured creditors[^key-aa86f3d2044000fc77c810be0ad18704]
+## 53. Secured creditors[^c-aa86f3d2044000fc77c810be0ad18704]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa86f3d2044000fc77c810be0ad18704]: Commencement: [Rule 53](https://www.legislation.gov.uk/uksi/2013/3208/rule/53) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-aa86f3d2044000fc77c810be0ad18704]: Commencement: [Rule 53](https://www.legislation.gov.uk/uksi/2013/3208/rule/53) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

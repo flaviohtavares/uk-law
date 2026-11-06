@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Reporting under interim administration order[^key-093c3d7b4f9100df90e5b4fae0e35335]
+## 175. Reporting under interim administration order[^c-093c3d7b4f9100df90e5b4fae0e35335]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ or if he thinks that there has been any other material change of circumstances.
 
 ## Annotations
 
-[^key-093c3d7b4f9100df90e5b4fae0e35335]: Commencement: [Art. 175](https://www.legislation.gov.uk/uksi/2005/3181/article/175) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-093c3d7b4f9100df90e5b4fae0e35335]: Commencement: [Art. 175](https://www.legislation.gov.uk/uksi/2005/3181/article/175) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

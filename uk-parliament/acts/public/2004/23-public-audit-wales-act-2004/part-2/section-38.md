@@ -25,7 +25,7 @@ summary: ''
 - (a) on behalf of the body, or
 - (b) for which he ought to account to the body.
 
-(2) the Auditor General for Wales[^key-4c9a2b06e1331b36cb97ded4440f9efd] must audit the officer’s accounts.
+(2) the Auditor General for Wales[^c-4c9a2b06e1331b36cb97ded4440f9efd] must audit the officer’s accounts.
 
 (3) These provisions apply with the necessary modifications to the accounts and audit—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c9a2b06e1331b36cb97ded4440f9efd]: Textual amendment: Words in [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/23/section/38/2) substituted (1.4.2014) by virtue of [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 43](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/43) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-4c9a2b06e1331b36cb97ded4440f9efd]: Textual amendment: Words in [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/23/section/38/2) substituted (1.4.2014) by virtue of [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 43](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/43) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

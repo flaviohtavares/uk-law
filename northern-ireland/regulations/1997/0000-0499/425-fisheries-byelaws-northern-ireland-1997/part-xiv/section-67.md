@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**67.**[^key-dbab94c3d0d5771ea9c97823f6851ee0] A person shall not use any instrument or device whatsoever, whether used with or as an auxiliary to a rod and line or hand line or otherwise, in a manner likely or calculated to foul-hook any salmon or freshwater fish.
+**67.**[^c-dbab94c3d0d5771ea9c97823f6851ee0] A person shall not use any instrument or device whatsoever, whether used with or as an auxiliary to a rod and line or hand line or otherwise, in a manner likely or calculated to foul-hook any salmon or freshwater fish.
 
 ## Annotations
 
-[^key-dbab94c3d0d5771ea9c97823f6851ee0]: Commencement: S. 67 in operation at 1.11.1997, see byelaw 1
+[^c-dbab94c3d0d5771ea9c97823f6851ee0]: Commencement: S. 67 in operation at 1.11.1997, see byelaw 1

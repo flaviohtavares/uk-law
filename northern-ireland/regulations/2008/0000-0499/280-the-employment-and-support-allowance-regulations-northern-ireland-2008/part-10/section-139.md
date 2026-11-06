@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 139. Treatment of fee loans[^key-5b05abad298070270148964ea893c5f8]
+## 139. Treatment of fee loans[^c-5b05abad298070270148964ea893c5f8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A loan for fees, known as a fee loan or a fee contribution loan, made pursuant t
 
 ## Annotations
 
-[^key-5b05abad298070270148964ea893c5f8]: Commencement: [Reg. 139](https://www.legislation.gov.uk/nisr/2008/280/regulation/139) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-5b05abad298070270148964ea893c5f8]: Commencement: [Reg. 139](https://www.legislation.gov.uk/nisr/2008/280/regulation/139) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

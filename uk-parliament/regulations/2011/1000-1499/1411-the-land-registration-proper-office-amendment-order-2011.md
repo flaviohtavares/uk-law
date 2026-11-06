@@ -32,7 +32,7 @@ summary: ''
 
 Land Registration, England And Wales
 
-The Land Registration (Proper Office) (Amendment) Order 2011 (revoked)[^key-c150ea9d4c32f599eaef716cbe4d54b9]
+The Land Registration (Proper Office) (Amendment) Order 2011 (revoked)[^c-c150ea9d4c32f599eaef716cbe4d54b9]
 
 Made
 
@@ -44,24 +44,24 @@ Laid before Parliament
 
 Coming into force in accordance with rule 1
 
-[^key-c150ea9d4c32f599eaef716cbe4d54b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c150ea9d4c32f599eaef716cbe4d54b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c150ea9d4c32f599eaef716cbe4d54b9]
+## 1. Citation and commencement[^c-c150ea9d4c32f599eaef716cbe4d54b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Land Registration (Proper Office) Order 2010[^key-c150ea9d4c32f599eaef716cbe4d54b9]
+## 2. Amendment of the Land Registration (Proper Office) Order 2010[^c-c150ea9d4c32f599eaef716cbe4d54b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c150ea9d4c32f599eaef716cbe4d54b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c150ea9d4c32f599eaef716cbe4d54b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c150ea9d4c32f599eaef716cbe4d54b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c150ea9d4c32f599eaef716cbe4d54b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c150ea9d4c32f599eaef716cbe4d54b9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1411) revoked (1.10.2013) by [The Land Registration (Proper Office) Order 2013 (S.I. 2013/1627)](https://www.legislation.gov.uk/uksi/2013/1627), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1627/article/1), [4](https://www.legislation.gov.uk/uksi/2013/1627/article/4)
+[^c-c150ea9d4c32f599eaef716cbe4d54b9]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1411) revoked (1.10.2013) by [The Land Registration (Proper Office) Order 2013 (S.I. 2013/1627)](https://www.legislation.gov.uk/uksi/2013/1627), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1627/article/1), [4](https://www.legislation.gov.uk/uksi/2013/1627/article/4)

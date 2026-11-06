@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 111. Guidance[^key-8efec8e276df59ec5fed6154d8fde026]
+## 111. Guidance[^c-8efec8e276df59ec5fed6154d8fde026]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ as appear to the Department to be appropriate.
 
 ## Annotations
 
-[^key-8efec8e276df59ec5fed6154d8fde026]: Commencement: [S. 111](https://www.legislation.gov.uk/nia/2014/8/section/111) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-8efec8e276df59ec5fed6154d8fde026]: Commencement: [S. 111](https://www.legislation.gov.uk/nia/2014/8/section/111) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

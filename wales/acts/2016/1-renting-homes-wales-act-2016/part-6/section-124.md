@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Variation of other consideration[^key-1b60678bdd63a2764a804aadd7e0d4db]
+## 124. Variation of other consideration[^c-1b60678bdd63a2764a804aadd7e0d4db]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b60678bdd63a2764a804aadd7e0d4db]: Commencement: [S. 124](https://www.legislation.gov.uk/anaw/2016/1/section/124) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-1b60678bdd63a2764a804aadd7e0d4db]: Commencement: [S. 124](https://www.legislation.gov.uk/anaw/2016/1/section/124) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

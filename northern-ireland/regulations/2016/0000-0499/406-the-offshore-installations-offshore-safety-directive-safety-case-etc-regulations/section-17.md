@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Safety case for production installation[^key-da969bd5a841d836a6d781ad1dba08a4]
+## 17. Safety case for production installation[^c-da969bd5a841d836a6d781ad1dba08a4]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da969bd5a841d836a6d781ad1dba08a4]: Commencement: Reg. 17 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-da969bd5a841d836a6d781ad1dba08a4]: Commencement: Reg. 17 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

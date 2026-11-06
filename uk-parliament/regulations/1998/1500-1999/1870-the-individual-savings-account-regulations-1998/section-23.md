@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Interest on cash deposits held under a stocks and shares component of an account that is not a junior ISA account[^key-d2e1f7462b736d13b699abd2830cc884]
+## 23. Interest on cash deposits held under a stocks and shares component of an account that is not a junior ISA account[^c-d2e1f7462b736d13b699abd2830cc884]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2e1f7462b736d13b699abd2830cc884]: Textual amendment: Reg. 23 omitted (1.7.2014) by virtue of [The Individual Savings Account (Amendment No. 2) Regulations 2014 (S.I. 2014/1450)](https://www.legislation.gov.uk/uksi/2014/1450), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1450/regulation/1), [21](https://www.legislation.gov.uk/uksi/2014/1450/regulation/21)
+[^c-d2e1f7462b736d13b699abd2830cc884]: Textual amendment: Reg. 23 omitted (1.7.2014) by virtue of [The Individual Savings Account (Amendment No. 2) Regulations 2014 (S.I. 2014/1450)](https://www.legislation.gov.uk/uksi/2014/1450), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1450/regulation/1), [21](https://www.legislation.gov.uk/uksi/2014/1450/regulation/21)

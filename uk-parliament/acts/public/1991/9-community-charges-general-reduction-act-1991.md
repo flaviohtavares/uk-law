@@ -29,17 +29,9 @@ Community Charges (General Reduction) Act 1991 (repealed)
 
 1991 c. 9
 
-[^key-f8c2a301dc6cf98bfb24414e9c28d8a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f8c2a301dc6cf98bfb24414e9c28d8a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Statutory reduction of community charges: England and Wales.[^key-f8c2a301dc6cf98bfb24414e9c28d8a0][^key-f8c2a301dc6cf98bfb24414e9c28d8a0]
-
-*Extent: E+W*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Special cases: England and Wales.[^key-f8c2a301dc6cf98bfb24414e9c28d8a0][^key-f8c2a301dc6cf98bfb24414e9c28d8a0]
+## 1. Statutory reduction of community charges: England and Wales.[^c-f8c2a301dc6cf98bfb24414e9c28d8a0][^c-f8c2a301dc6cf98bfb24414e9c28d8a0]
 
 *Extent: E+W*
 
@@ -47,7 +39,15 @@ Community Charges (General Reduction) Act 1991 (repealed)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Statutory reduction of community charges: Scotland.[^key-f8c2a301dc6cf98bfb24414e9c28d8a0][^key-f8c2a301dc6cf98bfb24414e9c28d8a0]
+## 2. Special cases: England and Wales.[^c-f8c2a301dc6cf98bfb24414e9c28d8a0][^c-f8c2a301dc6cf98bfb24414e9c28d8a0]
+
+*Extent: E+W*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Statutory reduction of community charges: Scotland.[^c-f8c2a301dc6cf98bfb24414e9c28d8a0][^c-f8c2a301dc6cf98bfb24414e9c28d8a0]
 
 *Extent: S*
 
@@ -55,13 +55,13 @@ Community Charges (General Reduction) Act 1991 (repealed)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Compensatory grants.[^key-f8c2a301dc6cf98bfb24414e9c28d8a0][^key-f8c2a301dc6cf98bfb24414e9c28d8a0]
+## 4. Compensatory grants.[^c-f8c2a301dc6cf98bfb24414e9c28d8a0][^c-f8c2a301dc6cf98bfb24414e9c28d8a0]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Short title, interpretation and extent.[^key-f8c2a301dc6cf98bfb24414e9c28d8a0][^key-f8c2a301dc6cf98bfb24414e9c28d8a0]
+## 5. Short title, interpretation and extent.[^c-f8c2a301dc6cf98bfb24414e9c28d8a0][^c-f8c2a301dc6cf98bfb24414e9c28d8a0]
 
 **No longer in force.**
 
@@ -69,4 +69,4 @@ Community Charges (General Reduction) Act 1991 (repealed)
 
 ## Annotations
 
-[^key-f8c2a301dc6cf98bfb24414e9c28d8a0]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1991/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-f8c2a301dc6cf98bfb24414e9c28d8a0]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1991/9) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.55. Failure to give or keep up security[^key-f2c830167fc0f0e13949abd58b52dc55]
+## 6.55. Failure to give or keep up security[^c-f2c830167fc0f0e13949abd58b52dc55]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2c830167fc0f0e13949abd58b52dc55]: Commencement: [Rule 6.55](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.55) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f2c830167fc0f0e13949abd58b52dc55]: Commencement: [Rule 6.55](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.55) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

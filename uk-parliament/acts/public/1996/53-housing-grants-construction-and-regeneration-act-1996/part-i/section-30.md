@@ -36,7 +36,7 @@ summary: ''
 
 (6) Regulations may, in particular—
 
-- (a) make provision for account to be taken of the income, assets, needs and outgoings not only of the person himself but also of his spouse, his civil partner,[^key-4aedd5880d7f3f8ee2d1b07a151ca26d] any person living with him or intending to live with him and any person on whom he is dependent or who is dependent on him;
+- (a) make provision for account to be taken of the income, assets, needs and outgoings not only of the person himself but also of his spouse, his civil partner,[^c-4aedd5880d7f3f8ee2d1b07a151ca26d] any person living with him or intending to live with him and any person on whom he is dependent or who is dependent on him;
 - (b) make provision for amounts specified in or determined under the regulations to be taken into account for particular purposes.
 
 (7) Regulations may apply for the purposes of this section, subject to such modifications as may be prescribed, any other statutory means-testing regime as it has effect from time to time.
@@ -59,4 +59,4 @@ summary: ''
 
 [^c17528171]: Textual amendment: Words in s. 30(5)(b) repealed (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [11(1)](https://www.legislation.gov.uk/uksi/2002/1860/article/11/1), [15](https://www.legislation.gov.uk/uksi/2002/1860/article/15), [Sch. 3 para. 11(c)](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/11/c), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6) (with [art. 11(2)](https://www.legislation.gov.uk/uksi/2002/1860/article/11/2))
 
-[^key-4aedd5880d7f3f8ee2d1b07a151ca26d]: Textual amendment: Words in [s. 30(6)(a)](https://www.legislation.gov.uk/ukpga/1996/53/section/30/6/a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 62](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/62); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-4aedd5880d7f3f8ee2d1b07a151ca26d]: Textual amendment: Words in [s. 30(6)(a)](https://www.legislation.gov.uk/ukpga/1996/53/section/30/6/a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 62](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/62); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)

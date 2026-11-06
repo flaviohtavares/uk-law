@@ -31,7 +31,7 @@ summary: ''
 
 FIREWORKS
 
-The Fireworks Regulations 2003 (revoked)[^key-f1992721ae6a70c9da77c6e573b42e7b]
+The Fireworks Regulations 2003 (revoked)[^c-f1992721ae6a70c9da77c6e573b42e7b]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into force
 
 22nd December 2003
 
-[^key-f1992721ae6a70c9da77c6e573b42e7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1992721ae6a70c9da77c6e573b42e7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-f1992721ae6a70c9da77c6e573b42e7b]
+## 1. Citation, commencement and extent[^c-f1992721ae6a70c9da77c6e573b42e7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f1992721ae6a70c9da77c6e573b42e7b]
+## 2. Interpretation[^c-f1992721ae6a70c9da77c6e573b42e7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition of possession of fireworks by persons below the age of eighteen[^key-f1992721ae6a70c9da77c6e573b42e7b]
+## 3. Prohibition of possession of fireworks by persons below the age of eighteen[^c-f1992721ae6a70c9da77c6e573b42e7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition of possession of category 4 fireworks[^key-f1992721ae6a70c9da77c6e573b42e7b]
+## 4. Prohibition of possession of category 4 fireworks[^c-f1992721ae6a70c9da77c6e573b42e7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exceptions to regulations 3 and 4[^key-f1992721ae6a70c9da77c6e573b42e7b]
+## 5. Exceptions to regulations 3 and 4[^c-f1992721ae6a70c9da77c6e573b42e7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transfer of enforcement duties[^key-f1992721ae6a70c9da77c6e573b42e7b]
+## 6. Transfer of enforcement duties[^c-f1992721ae6a70c9da77c6e573b42e7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Proceedings[^key-f1992721ae6a70c9da77c6e573b42e7b]
+## 7. Proceedings[^c-f1992721ae6a70c9da77c6e573b42e7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f1992721ae6a70c9da77c6e573b42e7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1992721ae6a70c9da77c6e573b42e7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f1992721ae6a70c9da77c6e573b42e7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1992721ae6a70c9da77c6e573b42e7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f1992721ae6a70c9da77c6e573b42e7b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2003/3085) revoked (7.8.2004) by [The Fireworks Regulations 2004 (S.I. 2004/1836)](https://www.legislation.gov.uk/uksi/2004/1836), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2004/1836/regulation/2)
+[^c-f1992721ae6a70c9da77c6e573b42e7b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2003/3085) revoked (7.8.2004) by [The Fireworks Regulations 2004 (S.I. 2004/1836)](https://www.legislation.gov.uk/uksi/2004/1836), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1836/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2004/1836/regulation/2)

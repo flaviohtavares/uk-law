@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Determination of “the age addition”[^key-2e01f5e1b7caec732e3c0a7f79e4d249]
+## 35. Determination of “the age addition”[^c-2e01f5e1b7caec732e3c0a7f79e4d249]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e01f5e1b7caec732e3c0a7f79e4d249]: Commencement: Reg. 35 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-2e01f5e1b7caec732e3c0a7f79e4d249]: Commencement: Reg. 35 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -27,7 +27,7 @@ summary: ''
 - (c) specify the decision to be reconsidered (including any conditions of bail which have been imposed and why they have been imposed); and
 - (d) specify the name and address of any surety provided by the person to whom the application relates before his release on bail.
 
-(2)[^key-98a8186d71f55157a09c69f303093429] The notice under paragraph (1) shall be served by the applicant—
+(2)[^c-98a8186d71f55157a09c69f303093429] The notice under paragraph (1) shall be served by the applicant—
 
 - (a) on the clerk of petty sessions,
 - (b) on the person to whom the application relates, and
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98a8186d71f55157a09c69f303093429]: Textual amendment: [Rule 153B(2)](https://www.legislation.gov.uk/nisr/1984/225/rule/153B/2) substituted (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(35)](https://www.legislation.gov.uk/nisr/2016/304/article/3/35); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-98a8186d71f55157a09c69f303093429]: Textual amendment: [Rule 153B(2)](https://www.legislation.gov.uk/nisr/1984/225/rule/153B/2) substituted (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(35)](https://www.legislation.gov.uk/nisr/2016/304/article/3/35); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

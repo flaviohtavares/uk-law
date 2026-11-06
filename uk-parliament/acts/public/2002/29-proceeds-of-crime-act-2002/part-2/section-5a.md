@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. The principal objective[^key-518fcc797c4b88ea23610db4d9d64ffd]
+## 5A. The principal objective[^c-518fcc797c4b88ea23610db4d9d64ffd]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-518fcc797c4b88ea23610db4d9d64ffd]: Textual amendment: S. 5A and cross-heading inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/1/2); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-518fcc797c4b88ea23610db4d9d64ffd]: Textual amendment: S. 5A and cross-heading inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/1/2); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

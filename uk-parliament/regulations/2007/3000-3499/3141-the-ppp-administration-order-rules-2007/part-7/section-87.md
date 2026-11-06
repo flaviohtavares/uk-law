@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Proxy-holder with financial interest[^key-7f0f1829427fca9f59e2f9689159f06b]
+## 87. Proxy-holder with financial interest[^c-7f0f1829427fca9f59e2f9689159f06b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f0f1829427fca9f59e2f9689159f06b]: Commencement: [Rule 87](https://www.legislation.gov.uk/uksi/2007/3141/rule/87) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-7f0f1829427fca9f59e2f9689159f06b]: Commencement: [Rule 87](https://www.legislation.gov.uk/uksi/2007/3141/rule/87) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

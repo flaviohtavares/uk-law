@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Information about the operator’s spaceflight activities[^key-4db5092f8b2e0820ca786be7c5bbe472]
+## 123. Information about the operator’s spaceflight activities[^c-4db5092f8b2e0820ca786be7c5bbe472]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Before an operator’s spaceflight activities commence, the spaceflight operator
 
 ## Annotations
 
-[^key-4db5092f8b2e0820ca786be7c5bbe472]: Commencement: Reg. 123 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-4db5092f8b2e0820ca786be7c5bbe472]: Commencement: Reg. 123 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

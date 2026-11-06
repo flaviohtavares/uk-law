@@ -24,7 +24,7 @@ summary: ''
 
 ### Restraining transactions and recruitment etc. by direction
 
-**1.**[^c24533551][^key-5d11cc87f42e3852481709be215b5421] (1) After receiving a merger application or after giving notice as described in section 129(6), the Welsh Ministers may direct a merging council or restructuring council that—
+**1.**[^c24533551][^c-5d11cc87f42e3852481709be215b5421] (1) After receiving a merger application or after giving notice as described in section 129(6), the Welsh Ministers may direct a merging council or restructuring council that—
 
 - (a) the council must not carry out a restricted activity unless it has considered the opinion of a specified person or persons on the appropriateness of carrying out the activity;
 - (b) the council must not carry out a restricted activity unless the written consent of a specified person or persons has been given for the activity to be carried out.
@@ -57,17 +57,17 @@ summary: ''
 
 (6) If an opinion given for the purposes of sub-paragraph (1)(a) is that it would not be appropriate for a merging council or restructuring council to carry out a restricted activity but the council decides to carry it out, the council must publish its reasons for making that decision.
 
-(7)[^key-7c3809a659f2f120518a54a0530692ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-7c3809a659f2f120518a54a0530692ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) A direction given under this paragraph takes effect from the date specified.
 
 (9) In this paragraph, “**specified**” means specified in a direction given under this paragraph.
 
-(10)[^key-824dc33cc5ee2f9bcbbc1a9dacbf5b12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-824dc33cc5ee2f9bcbbc1a9dacbf5b12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Directions under paragraph 1: supplementary
 
-**2.**[^c24533631][^key-e8cbfa0cdaaf76d16ef195b428bf57e4] (1) This paragraph applies in relation to a direction under paragraph 1.
+**2.**[^c24533631][^c-e8cbfa0cdaaf76d16ef195b428bf57e4] (1) This paragraph applies in relation to a direction under paragraph 1.
 
 (2) A person specified in the direction as a person whose opinion or consent is required may be such authority or other person as the Welsh Ministers consider appropriate, and this may include the Welsh Ministers, any transition committee (as to which, see Schedule 11) and any shadow council.
 
@@ -98,7 +98,7 @@ summary: ''
 
 ### Directions under paragraph 1: further provision about reserves
 
-**3.**[^c24533661][^key-bcbb60f80c282aaed53c6e2aaa253637] (1) A direction under paragraph 1—
+**3.**[^c24533661][^c-bcbb60f80c282aaed53c6e2aaa253637] (1) A direction under paragraph 1—
 
 - (a) may provide that the opinion or consent of the person or persons specified in the direction is not required for the inclusion, in a calculation under section 32 of the Local Government Finance Act 1992 (c. 14), of financial reserves of a description specified in the direction;
 - (b) may, in relation to a merging council or restructuring council, provide that an opinion or consent is not required for the inclusion in such a calculation of an amount of financial reserves not exceeding an amount specified in or determined under the direction.
@@ -107,7 +107,7 @@ summary: ''
 
 ### Directions under paragraph 1(3): supplementary
 
-**4.**[^c24533681][^key-c67c7c20e877a54f083ad3a47d51d0a8] (1) This paragraph applies in relation to a direction under paragraph 1(3).
+**4.**[^c24533681][^c-c67c7c20e877a54f083ad3a47d51d0a8] (1) This paragraph applies in relation to a direction under paragraph 1(3).
 
 (2) A direction may specify different requirements for different descriptions of post.
 
@@ -120,7 +120,7 @@ summary: ''
 
 ### Directions: consequences of contravention
 
-**5.**[^c24533691][^key-926eade6bc092a32f772d405e4737cdb] (1) An acquisition or disposal made in contravention of a direction given under paragraph 1 is void.
+**5.**[^c24533691][^c-926eade6bc092a32f772d405e4737cdb] (1) An acquisition or disposal made in contravention of a direction given under paragraph 1 is void.
 
 (2) A contract (including a contract for employment) or agreement entered into in contravention of a direction given under paragraph 1 is unenforceable.
 
@@ -130,7 +130,7 @@ summary: ''
 
 ### Interpretation of paragraphs 1 and 7
 
-**6.**[^c24533701][^key-49223a7df2d2a2182bf5221fa3a61edd] (1) In paragraphs 1 and 7, “**relevant land acquisition or disposal**” means the acquisition or disposal of land where the consideration for the acquisition or disposal exceeds £150,000.
+**6.**[^c24533701][^c-49223a7df2d2a2182bf5221fa3a61edd] (1) In paragraphs 1 and 7, “**relevant land acquisition or disposal**” means the acquisition or disposal of land where the consideration for the acquisition or disposal exceeds £150,000.
 
 (2) In sub-paragraph (1), the reference to the acquisition or disposal of land includes—
 
@@ -168,7 +168,7 @@ summary: ''
 
 ### Determining whether financial limits have been exceeded
 
-**7.**[^c24533741][^key-b91d299ebcaa195d5c1d7a45804f54bf] (1) For the purpose of making a determination as to whether a land acquisition or disposal is a relevant land acquisition or disposal, the consideration for the acquisition or disposal in question is to be treated as including the consideration for any other land acquisition or disposal that—
+**7.**[^c24533741][^c-b91d299ebcaa195d5c1d7a45804f54bf] (1) For the purpose of making a determination as to whether a land acquisition or disposal is a relevant land acquisition or disposal, the consideration for the acquisition or disposal in question is to be treated as including the consideration for any other land acquisition or disposal that—
 
 - (a) is made by the merging council or restructuring council either—
   - (i) after the relevant date but before the acquisition or disposal in question, or
@@ -242,35 +242,35 @@ summary: ''
 
 [^c24533551]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/asc/2021/1/schedule/12/paragraph/1) in force at 21.1.2021 for specified purposes, see [s. 175(1)(f)(2)(b)(ii)(m)(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f/2/b/ii/m/7)
 
-[^key-5d11cc87f42e3852481709be215b5421]: Commencement: Sch. 12 para. 1 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(j)](https://www.legislation.gov.uk/uksi/2021/297/article/2/j)
+[^c-5d11cc87f42e3852481709be215b5421]: Commencement: Sch. 12 para. 1 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(j)](https://www.legislation.gov.uk/uksi/2021/297/article/2/j)
 
-[^key-7c3809a659f2f120518a54a0530692ae]: Textual amendment: [Sch. 12 para. 1(7)](https://www.legislation.gov.uk/asc/2021/1/schedule/12/paragraph/1/7) omitted (1.4.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 15(10)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/15/10); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-7c3809a659f2f120518a54a0530692ae]: Textual amendment: [Sch. 12 para. 1(7)](https://www.legislation.gov.uk/asc/2021/1/schedule/12/paragraph/1/7) omitted (1.4.2025) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 15(10)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/15/10); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
 
-[^key-824dc33cc5ee2f9bcbbc1a9dacbf5b12]: Textual amendment: [Sch. 12 para. 1(10)](https://www.legislation.gov.uk/asc/2021/1/schedule/12/paragraph/1/10) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 5 para. 20](https://www.legislation.gov.uk/asc/2021/1/schedule/5/paragraph/20); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(s)](https://www.legislation.gov.uk/wsi/2021/231/article/6/s)
+[^c-824dc33cc5ee2f9bcbbc1a9dacbf5b12]: Textual amendment: [Sch. 12 para. 1(10)](https://www.legislation.gov.uk/asc/2021/1/schedule/12/paragraph/1/10) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 5 para. 20](https://www.legislation.gov.uk/asc/2021/1/schedule/5/paragraph/20); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(s)](https://www.legislation.gov.uk/wsi/2021/231/article/6/s)
 
 [^c24533631]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/asc/2021/1/schedule/12/paragraph/2) in force at 21.1.2021 for specified purposes, see [s. 175(1)(f)(2)(b)(ii)(m)(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f/2/b/ii/m/7)
 
-[^key-e8cbfa0cdaaf76d16ef195b428bf57e4]: Commencement: Sch. 12 para. 2 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(j)](https://www.legislation.gov.uk/uksi/2021/297/article/2/j)
+[^c-e8cbfa0cdaaf76d16ef195b428bf57e4]: Commencement: Sch. 12 para. 2 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(j)](https://www.legislation.gov.uk/uksi/2021/297/article/2/j)
 
 [^c24533661]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/asc/2021/1/schedule/12/paragraph/3) in force at 21.1.2021 for specified purposes, see [s. 175(1)(f)(2)(b)(ii)(m)(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f/2/b/ii/m/7)
 
-[^key-bcbb60f80c282aaed53c6e2aaa253637]: Commencement: Sch. 12 para. 3 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(j)](https://www.legislation.gov.uk/uksi/2021/297/article/2/j)
+[^c-bcbb60f80c282aaed53c6e2aaa253637]: Commencement: Sch. 12 para. 3 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(j)](https://www.legislation.gov.uk/uksi/2021/297/article/2/j)
 
 [^c24533681]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/asc/2021/1/schedule/12/paragraph/4) in force at 21.1.2021 for specified purposes, see [s. 175(1)(f)(2)(b)(ii)(m)(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f/2/b/ii/m/7)
 
-[^key-c67c7c20e877a54f083ad3a47d51d0a8]: Commencement: Sch. 12 para. 4 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(j)](https://www.legislation.gov.uk/uksi/2021/297/article/2/j)
+[^c-c67c7c20e877a54f083ad3a47d51d0a8]: Commencement: Sch. 12 para. 4 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(j)](https://www.legislation.gov.uk/uksi/2021/297/article/2/j)
 
 [^c24533691]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/asc/2021/1/schedule/12/paragraph/5) in force at 21.1.2021 for specified purposes, see [s. 175(1)(f)(2)(b)(ii)(m)(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f/2/b/ii/m/7)
 
-[^key-926eade6bc092a32f772d405e4737cdb]: Commencement: Sch. 12 para. 5 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(j)](https://www.legislation.gov.uk/uksi/2021/297/article/2/j)
+[^c-926eade6bc092a32f772d405e4737cdb]: Commencement: Sch. 12 para. 5 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(j)](https://www.legislation.gov.uk/uksi/2021/297/article/2/j)
 
 [^c24533701]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/asc/2021/1/schedule/12/paragraph/6) in force at 21.1.2021 for specified purposes, see [s. 175(1)(f)(2)(b)(ii)(m)(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f/2/b/ii/m/7)
 
-[^key-49223a7df2d2a2182bf5221fa3a61edd]: Commencement: Sch. 12 para. 6 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(j)](https://www.legislation.gov.uk/uksi/2021/297/article/2/j)
+[^c-49223a7df2d2a2182bf5221fa3a61edd]: Commencement: Sch. 12 para. 6 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(j)](https://www.legislation.gov.uk/uksi/2021/297/article/2/j)
 
 [^c24533741]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/asc/2021/1/schedule/12/paragraph/7) in force at 21.1.2021 for specified purposes, see [s. 175(1)(f)(2)(b)(ii)(m)(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f/2/b/ii/m/7)
 
-[^key-b91d299ebcaa195d5c1d7a45804f54bf]: Commencement: Sch. 12 para. 7 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(j)](https://www.legislation.gov.uk/uksi/2021/297/article/2/j)
+[^c-b91d299ebcaa195d5c1d7a45804f54bf]: Commencement: Sch. 12 para. 7 in force at 1.4.2021 in so far as not already in force by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(j)](https://www.legislation.gov.uk/uksi/2021/297/article/2/j)
 
 [^c24533751]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/asc/2021/1/schedule/12/paragraph/8) in force at 21.1.2021, see [s. 175(1)(f)(2)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Applicants and employees[^key-b7607af0920081810fa717bbef5fadff][^key-4ebdb93f11f379f2722274b2a627cf04]
+## 7. Applicants and employees[^c-b7607af0920081810fa717bbef5fadff][^c-4ebdb93f11f379f2722274b2a627cf04]
 
 *Extent: N.I.*
 
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b7607af0920081810fa717bbef5fadff]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/261/regulation/7) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-b7607af0920081810fa717bbef5fadff]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/261/regulation/7) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-4ebdb93f11f379f2722274b2a627cf04]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/261/regulation/7) in operation at 1.12.2006 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-4ebdb93f11f379f2722274b2a627cf04]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/261/regulation/7) in operation at 1.12.2006 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00008]: Footnote: Article 130ZH of the 1996 Order is inserted into that Order by regulation 53(1) of, and paragraph 3(4) of Schedule 7 to, these Regulations

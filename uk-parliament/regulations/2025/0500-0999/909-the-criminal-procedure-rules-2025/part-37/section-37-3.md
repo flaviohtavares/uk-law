@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37.3. Form of appeal notice[^key-610ae39e2fe68ce7e4787d0e9aac89bf]
+## 37.3. Form of appeal notice[^c-610ae39e2fe68ce7e4787d0e9aac89bf]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-610ae39e2fe68ce7e4787d0e9aac89bf]: Commencement: [Rule 37.3](https://www.legislation.gov.uk/uksi/2025/909/rule/37.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-610ae39e2fe68ce7e4787d0e9aac89bf]: Commencement: [Rule 37.3](https://www.legislation.gov.uk/uksi/2025/909/rule/37.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

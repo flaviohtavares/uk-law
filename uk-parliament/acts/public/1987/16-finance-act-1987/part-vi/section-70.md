@@ -22,10 +22,10 @@ summary: ''
 
 (1)[^c11287211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-0b96585b036f0fcbf315175d8b6bb44f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0b96585b036f0fcbf315175d8b6bb44f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c11287211]: Textual amendment: S. 70(1) repealed by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31)
 
-[^key-0b96585b036f0fcbf315175d8b6bb44f]: Textual amendment: S. 70(2) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 8(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/8/2)
+[^c-0b96585b036f0fcbf315175d8b6bb44f]: Textual amendment: S. 70(2) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 8(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/8/2)

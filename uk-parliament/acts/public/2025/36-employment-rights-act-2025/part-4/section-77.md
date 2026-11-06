@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Protection against dismissal for taking industrial action[^key-4840dd3a3c8e89a267eb89e94bf40900][^key-8595f5e3628cc42fd0d213a62ea5a4b4]
+## 77. Protection against dismissal for taking industrial action[^c-4840dd3a3c8e89a267eb89e94bf40900][^c-8595f5e3628cc42fd0d213a62ea5a4b4]
 
 *Extent: E+W+S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4840dd3a3c8e89a267eb89e94bf40900]: Commencement: S. 77 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-4840dd3a3c8e89a267eb89e94bf40900]: Commencement: S. 77 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-8595f5e3628cc42fd0d213a62ea5a4b4]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2025/36/section/77) in force at 18.2.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(8)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/8) (with [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/11))
+[^c-8595f5e3628cc42fd0d213a62ea5a4b4]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2025/36/section/77) in force at 18.2.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(8)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/8) (with [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/11))

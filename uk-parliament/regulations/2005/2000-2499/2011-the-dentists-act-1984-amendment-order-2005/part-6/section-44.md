@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Amendment of section 51[^key-72a83b201165d18c81063de3490530a9]
+## 44. Amendment of section 51[^c-72a83b201165d18c81063de3490530a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ In section 51 (exercise of powers conferred on Privy Council)—
 
 ## Annotations
 
-[^key-72a83b201165d18c81063de3490530a9]: Commencement: Art. 44 in force at made date, see [art. 1(3)(c)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3/c)
+[^c-72a83b201165d18c81063de3490530a9]: Commencement: Art. 44 in force at made date, see [art. 1(3)(c)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/3/c)

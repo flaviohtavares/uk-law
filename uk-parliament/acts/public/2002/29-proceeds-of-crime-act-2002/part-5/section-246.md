@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246. Application for interim receiving order[^key-78359668344b4c5ab468761be6a92748]
+## 246. Application for interim receiving order[^c-78359668344b4c5ab468761be6a92748]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,12 +43,12 @@ summary: ''
 
 the authority has taken all reasonable steps to do so.
 
-(7) In its application for an interim receiving order, the enforcement authority must nominate a suitably qualified person for appointment as interim receiver, but the nominee may not be a member of the staff of the enforcement authority[^key-6ddf21b5444a57adbcba0e1e0d4cde84] .
+(7) In its application for an interim receiving order, the enforcement authority must nominate a suitably qualified person for appointment as interim receiver, but the nominee may not be a member of the staff of the enforcement authority[^c-6ddf21b5444a57adbcba0e1e0d4cde84] .
 
 (8) The extent of the power to make an interim receiving order is not limited by sections 247 to 255.
 
 ## Annotations
 
-[^key-78359668344b4c5ab468761be6a92748]: Commencement: S. 246 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-78359668344b4c5ab468761be6a92748]: Commencement: S. 246 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-6ddf21b5444a57adbcba0e1e0d4cde84]: Textual amendment: Words in s. 246(7) substituted (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 86](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/86); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+[^c-6ddf21b5444a57adbcba0e1e0d4cde84]: Textual amendment: Words in s. 246(7) substituted (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 86](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/86); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))

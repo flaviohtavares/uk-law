@@ -22,16 +22,16 @@ summary: ''
 
 Article 44
 
-### 1. Interpretation[^key-a45499d6c4f0373b5d84b1db0415fe83]
+### 1. Interpretation[^c-a45499d6c4f0373b5d84b1db0415fe83]
 
 In this Schedule “**application**” means an application for any consent, agreement or approval required by a requirement whether or not the application seeks to discharge a requirement in whole or in part.
 
-**2.**[^key-d85fe165fc49b017844a080f4817f5f8] In this schedule “**discharging authority**” means—
+**2.**[^c-d85fe165fc49b017844a080f4817f5f8] In this schedule “**discharging authority**” means—
 
 - (a) any body responsible for giving any consent, agreement or approval required by a requirement included in Schedule 2, or for giving any consent, agreement or approval further to any document referred to in any such requirement; or
 - (b) the local authority in the exercise of its functions set out in sections 60 (control of noise on construction sites) and 61 (prior consent for work on construction sites) of the Control of Pollution Act 1974 subsequently referred to as “**the 1974 Act**”(a).
 
-### 3. Applications made under requirements[^key-957042209dd1224851af7c843bd8a43c]
+### 3. Applications made under requirements[^c-957042209dd1224851af7c843bd8a43c]
 
 (1) Where an application has been made to the relevant discharging authority for any agreement or approval required pursuant to a requirement included in this Order, the relevant discharging authority must give notice to the undertaker of their decision, including the reasons, on the application, within a period of 13 weeks beginning with—
 
@@ -39,7 +39,7 @@ In this Schedule “**application**” means an application for any consent, agr
 - (b) where further information is requested under paragraph 4 the working day immediately following that on which the further information has been supplied by the undertaker, or such longer period as may be agreed in writing by the undertaker and the relevant planning discharging authority.
 - (c) and where consent, agreement or approval is refused or granted subject to conditions the discharging authority must provide its reasons for that decision with the notice of the decision.
 
-### 4. Further information[^key-f6deed3568567dfe1fc48fde8c6c727e]
+### 4. Further information[^c-f6deed3568567dfe1fc48fde8c6c727e]
 
 (1) Where an application has been made under paragraph 3 the relevant planning authority has the right to request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -49,19 +49,19 @@ In this Schedule “**application**” means an application for any consent, agr
 
 (4) In the event that the relevant discharging authority does not give such notification as specified in sub- paragraph (2) or (3) it is deemed to have sufficient information to consider the application and is not thereafter entitled to request further information without the prior agreement of the undertaker.
 
-### 5. Provision of information by Consultees[^key-003e18bd100995bfe7dbb46454ec088c]
+### 5. Provision of information by Consultees[^c-003e18bd100995bfe7dbb46454ec088c]
 
 (1) Any consultee who receives a consultation under paragraph 4(3) must respond to that request within 20 working days from receipt unless sub-paragraph (2) of this paragraph applies.
 
 (2) Where any consultee requests further information in accordance with the timescales set out in paragraph 4(3) then they must respond to the consultation within 10 working days from the receipt of the further information requested.
 
-### 6. Fees[^key-ef3345d4942b30223972c360b44479fd]
+### 6. Fees[^c-ef3345d4942b30223972c360b44479fd]
 
 (1) Where an application is made to the relevant planning authority for agreement or approval in respect of a requirement or agreement or approval of an amendment pursuant to requirement 30 of Schedule 2 the fee for the discharge of conditions as specified in the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (Wales) Regulations 2015[^f00051] (or any regulations replacing the same) is to be paid by the undertaker to the relevant planning authority in accordance with these regulations unless otherwise agreed with the relevant planning authority.
 
 (2) Any fee paid under this Schedule must be refunded to the undertaker within 20 working days of the application being rejected as invalidly made.
 
-### 7. Appeal[^key-408365a92b072e9d3ab20ba870085004]
+### 7. Appeal[^c-408365a92b072e9d3ab20ba870085004]
 
 (1) The undertaker may appeal in the event that—
 
@@ -107,18 +107,18 @@ In this Schedule “**application**” means an application for any consent, agr
 
 ## Annotations
 
-[^key-a45499d6c4f0373b5d84b1db0415fe83]: Commencement: Sch. 12 para. 1 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-a45499d6c4f0373b5d84b1db0415fe83]: Commencement: Sch. 12 para. 1 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
-[^key-d85fe165fc49b017844a080f4817f5f8]: Commencement: Sch. 12 para. 2 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-d85fe165fc49b017844a080f4817f5f8]: Commencement: Sch. 12 para. 2 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
-[^key-957042209dd1224851af7c843bd8a43c]: Commencement: Sch. 12 para. 3 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-957042209dd1224851af7c843bd8a43c]: Commencement: Sch. 12 para. 3 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
-[^key-f6deed3568567dfe1fc48fde8c6c727e]: Commencement: Sch. 12 para. 4 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-f6deed3568567dfe1fc48fde8c6c727e]: Commencement: Sch. 12 para. 4 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
-[^key-003e18bd100995bfe7dbb46454ec088c]: Commencement: Sch. 12 para. 5 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-003e18bd100995bfe7dbb46454ec088c]: Commencement: Sch. 12 para. 5 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
-[^key-ef3345d4942b30223972c360b44479fd]: Commencement: Sch. 12 para. 6 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-ef3345d4942b30223972c360b44479fd]: Commencement: Sch. 12 para. 6 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
 
 [^f00051]: Footnote: [S.I. 2015/1522 (W.179)](https://www.legislation.gov.uk/wsi/2015/1522).
 
-[^key-408365a92b072e9d3ab20ba870085004]: Commencement: Sch. 12 para. 7 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-408365a92b072e9d3ab20ba870085004]: Commencement: Sch. 12 para. 7 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)

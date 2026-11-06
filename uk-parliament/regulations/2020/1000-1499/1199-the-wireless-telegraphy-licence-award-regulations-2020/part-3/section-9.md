@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Changes to existing spectrum holdings[^key-5810b7324c014b10a3d8fc9137a38cfa]
+## 9. Changes to existing spectrum holdings[^c-5810b7324c014b10a3d8fc9137a38cfa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If an applicant or, in relation to an applicant, any person referred to in regul
 
 ## Annotations
 
-[^key-5810b7324c014b10a3d8fc9137a38cfa]: Commencement: Reg. 9 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-5810b7324c014b10a3d8fc9137a38cfa]: Commencement: Reg. 9 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

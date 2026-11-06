@@ -50,7 +50,7 @@ the Department may give directions to the district council requiring it to take 
 
 (5) The Department shall also have power to give directions to district councils requiring them to take such steps specified in the directions as the Department considers appropriate for the implementation of—
 
-- (a) assimilated[^key-158307201cd92d6dec905987380e56e3][^key-3327e9b75fed174ed9bb57355d5ea760] obligations, or
+- (a) assimilated[^c-158307201cd92d6dec905987380e56e3][^c-3327e9b75fed174ed9bb57355d5ea760] obligations, or
 - (b) any international agreement to which the United Kingdom is for the time being a party,
 
 so far as relating to the quality of air.
@@ -64,6 +64,6 @@ so far as relating to the quality of air.
 
 ## Annotations
 
-[^key-158307201cd92d6dec905987380e56e3]: Textual amendment: Word in [art. 14(5)(a)](https://www.legislation.gov.uk/nisi/2002/3153/article/14/5/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 49(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/49/2/b)
+[^c-158307201cd92d6dec905987380e56e3]: Textual amendment: Word in [art. 14(5)(a)](https://www.legislation.gov.uk/nisi/2002/3153/article/14/5/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 49(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/49/2/b)
 
-[^key-3327e9b75fed174ed9bb57355d5ea760]: Textual amendment: Words in art. 14(5)(a) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [21](https://www.legislation.gov.uk/uksi/2019/584/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3327e9b75fed174ed9bb57355d5ea760]: Textual amendment: Words in art. 14(5)(a) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [21](https://www.legislation.gov.uk/uksi/2019/584/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

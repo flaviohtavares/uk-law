@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Regulations[^key-2dc8d79c5f205063e3c2db98e947151e]
+## 49. Regulations[^c-2dc8d79c5f205063e3c2db98e947151e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ This subsection does not apply in relation to section 51 (but see subsections (5
 
 ## Annotations
 
-[^key-2dc8d79c5f205063e3c2db98e947151e]: Commencement: S. 49 in force at Royal Assent, see [s. 51(1)(d)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1/d)
+[^c-2dc8d79c5f205063e3c2db98e947151e]: Commencement: S. 49 in force at Royal Assent, see [s. 51(1)(d)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1/d)

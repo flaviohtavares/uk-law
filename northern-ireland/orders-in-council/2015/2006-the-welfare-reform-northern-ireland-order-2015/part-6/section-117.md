@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 117. Benefit offences: period of sanction[^key-0b48f491022f29f461e6aa5e306feb93][^key-8a36dcd1507828a3cffddf1effc3884f]
+## 117. Benefit offences: period of sanction[^c-0b48f491022f29f461e6aa5e306feb93][^c-8a36dcd1507828a3cffddf1effc3884f]
 
 *Extent: N.I.*
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b48f491022f29f461e6aa5e306feb93]: Commencement: [Art. 117](https://www.legislation.gov.uk/nisi/2015/2006/article/117) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(d)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/d)
+[^c-0b48f491022f29f461e6aa5e306feb93]: Commencement: [Art. 117](https://www.legislation.gov.uk/nisi/2015/2006/article/117) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(d)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/d)
 
-[^key-8a36dcd1507828a3cffddf1effc3884f]: Commencement: [Art. 117](https://www.legislation.gov.uk/nisi/2015/2006/article/117) in operation at 9.9.2016 in so far as not already in operation by [S.R. 2016/325](https://www.legislation.gov.uk/nisr/2016/325), [art. 2(3)](https://www.legislation.gov.uk/nisr/2016/325/article/2/3)
+[^c-8a36dcd1507828a3cffddf1effc3884f]: Commencement: [Art. 117](https://www.legislation.gov.uk/nisi/2015/2006/article/117) in operation at 9.9.2016 in so far as not already in operation by [S.R. 2016/325](https://www.legislation.gov.uk/nisr/2016/325), [art. 2(3)](https://www.legislation.gov.uk/nisr/2016/325/article/2/3)

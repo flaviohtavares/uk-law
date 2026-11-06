@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**23F.**[^key-ae43cf4864e1995e237e120cc08488bd] (1) A responsible party shall provide the information in paragraph (2) relating to arrivals and dispatches to the Commissioners.
+**23F.**[^c-ae43cf4864e1995e237e120cc08488bd] (1) A responsible party shall provide the information in paragraph (2) relating to arrivals and dispatches to the Commissioners.
 
 (2) The information is—
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae43cf4864e1995e237e120cc08488bd]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/uksi/1995/2518/part/4B) inserted (1.4.2008) by [The Value Added Tax (Amendment) Regulations 2008 (S.I. 2008/556)](https://www.legislation.gov.uk/uksi/2008/556), [regs. 1](https://www.legislation.gov.uk/uksi/2008/556/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/556/regulation/2/2)
+[^c-ae43cf4864e1995e237e120cc08488bd]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/uksi/1995/2518/part/4B) inserted (1.4.2008) by [The Value Added Tax (Amendment) Regulations 2008 (S.I. 2008/556)](https://www.legislation.gov.uk/uksi/2008/556), [regs. 1](https://www.legislation.gov.uk/uksi/2008/556/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/556/regulation/2/2)
 
 [^f00007]: Footnote: [S.I. 1992/3152](https://www.legislation.gov.uk/uksi/1992/3152).

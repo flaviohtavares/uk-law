@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Diversion of watercourses[^key-bac80b771953bbd4093d4db681336fde]
+## 143. Diversion of watercourses[^c-bac80b771953bbd4093d4db681336fde]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bac80b771953bbd4093d4db681336fde]: Commencement: S. 143 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/101/article/4/e) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-bac80b771953bbd4093d4db681336fde]: Commencement: S. 143 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/101/article/4/e) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

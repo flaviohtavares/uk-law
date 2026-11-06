@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Review of service supervision and punishment orders[^key-d017f80eb21b244a4aaf7650f4b31d80][^key-dd54e64586e50fe5a105dd5aa5d19fd0]
+## 174. Review of service supervision and punishment orders[^c-d017f80eb21b244a4aaf7650f4b31d80][^c-dd54e64586e50fe5a105dd5aa5d19fd0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d017f80eb21b244a4aaf7650f4b31d80]: Commencement: S. 174 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-d017f80eb21b244a4aaf7650f4b31d80]: Commencement: S. 174 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-dd54e64586e50fe5a105dd5aa5d19fd0]: Commencement: S. 174 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-dd54e64586e50fe5a105dd5aa5d19fd0]: Commencement: S. 174 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23.8. Court’s power to vary requirements[^key-f8fb25522efc57dc7b345f00d3873a5a]
+## 23.8. Court’s power to vary requirements[^c-f8fb25522efc57dc7b345f00d3873a5a]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8fb25522efc57dc7b345f00d3873a5a]: Commencement: [Rule 23.8](https://www.legislation.gov.uk/uksi/2025/909/rule/23.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f8fb25522efc57dc7b345f00d3873a5a]: Commencement: [Rule 23.8](https://www.legislation.gov.uk/uksi/2025/909/rule/23.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

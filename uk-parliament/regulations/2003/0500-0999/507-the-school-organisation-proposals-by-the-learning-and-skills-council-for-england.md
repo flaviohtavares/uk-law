@@ -47,11 +47,11 @@ In exercise of the powers conferred on the Secretary of State by sections 138 an
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-6ae9b32d9797ea6256051b4cb4d2f036]
+### 1. Citation and commencement[^c-6ae9b32d9797ea6256051b4cb4d2f036]
 
 These Regulations may be cited as the School Organisation Proposals by the Learning and Skills Council for England Regulations 2003 and shall come into force on 1st April 2003.
 
-### 2. Interpretation[^key-a81db8d55dfe65ea72f85fe63db10121]
+### 2. Interpretation[^c-a81db8d55dfe65ea72f85fe63db10121]
 
 (1) In these Regulations—
 
@@ -86,7 +86,7 @@ These Regulations may be cited as the School Organisation Proposals by the Learn
 
 ## PART 2 — PROPOSALS MADE UNDER SECTION 113A
 
-### 3. Alterations for which proposals may be made[^key-45437043e24d1cc02ceff673102a553a]
+### 3. Alterations for which proposals may be made[^c-45437043e24d1cc02ceff673102a553a]
 
 (1) This regulation prescribes the descriptions of alterations to maintained schools for the purposes of section 113A(4)(b).
 
@@ -99,7 +99,7 @@ These Regulations may be cited as the School Organisation Proposals by the Learn
   - (ii) the school will cease to provide sixth form education; or
 - (d) an alteration of the upper age limit of the school (being an age limit over compulsory school age) by a year or more (not falling within sub-paragraph (c) above).
 
-### 4. Publication of preliminary notice[^key-a2820dbd44c3100e9fcb7d3030ea8680]
+### 4. Publication of preliminary notice[^c-a2820dbd44c3100e9fcb7d3030ea8680]
 
 (1) Before making proposals the Council shall—
 
@@ -153,7 +153,7 @@ These Regulations may be cited as the School Organisation Proposals by the Learn
 
 (9) If it appears to the Council, as a result of consideration of comments made in response to the preliminary notice, that it is appropriate to vary the consultative proposals in any other respect or, where alternative proposals have been set out in the preliminary notice, to make proposals other than those which the Council have stated in the preliminary notice that it favoured, the Council shall undertake such further consultation as appears to them to be appropriate.
 
-### 5. Publication of proposals[^key-4c136ac87942fd90a2f703a5749eafe9]
+### 5. Publication of proposals[^c-4c136ac87942fd90a2f703a5749eafe9]
 
 (1) The Council shall publish a notice of the proposals in the manner specified in paragraphs (2) to (4) below, and any such notice shall contain the information specified in Schedule 1.
 
@@ -174,7 +174,7 @@ These Regulations may be cited as the School Organisation Proposals by the Learn
 
 (6) In this regulation “parent” has the same meaning as in section 576 of the Education Act 1996.
 
-### 6. Objections to and comments on proposals[^key-7265a1e3def935804c68c382c5bd1163]
+### 6. Objections to and comments on proposals[^c-7265a1e3def935804c68c382c5bd1163]
 
 (1) Any person may send written objections to, or comments on, the proposals to the Council within two months from the date of publication of the proposals.
 
@@ -182,7 +182,7 @@ These Regulations may be cited as the School Organisation Proposals by the Learn
 
 (3) In this regulation references to a group of members of a school organisation committee shall be construed in accordance with the Education (School Organisation Committees) (England) Regulations 1999[^f00006].
 
-### 7. Submission of proposals etc. to the Secretary of State[^key-14ebcfc721030833081cd1648098d333]
+### 7. Submission of proposals etc. to the Secretary of State[^c-14ebcfc721030833081cd1648098d333]
 
 (1) Within one month from the end of the period within which objections or comments may be made under regulation 6 the Council shall send to the Secretary of State—
 
@@ -192,11 +192,11 @@ These Regulations may be cited as the School Organisation Proposals by the Learn
 
 (2) Nothing in this regulation shall prevent the Secretary of State requiring further information from the Council before determining the proposals.
 
-### 8. Withdrawal of proposals[^key-ebeddec97804a5d8964e1ec2ee6f0c91]
+### 8. Withdrawal of proposals[^c-ebeddec97804a5d8964e1ec2ee6f0c91]
 
 The Council may withdraw proposals at any time before they are determined under section 113A(4) by giving written notice to the Secretary of State.
 
-### 9. Decision by the Secretary of State[^key-d665d984f5d78d1072fc02f7d6e4c0c4]
+### 9. Decision by the Secretary of State[^c-d665d984f5d78d1072fc02f7d6e4c0c4]
 
 (1) The Secretary of State shall notify the following persons of each decision taken under section 113A —
 
@@ -215,7 +215,7 @@ The Council may withdraw proposals at any time before they are determined under 
 
 (3) The Secretary of State may only approve proposals with modifications if the Council has consented to the modifications.
 
-### 10. Implementation of proposals[^key-b533745a1778007a2c10ab147e1ce803]
+### 10. Implementation of proposals[^c-b533745a1778007a2c10ab147e1ce803]
 
 (1) The Council is prescribed for the purposes of paragraph 1(3) of Schedule 7A (which provides that at the request of persons prescribed the Secretary of State may modify proposals or specify a later date by which an event must occur).
 
@@ -226,7 +226,7 @@ The Council may withdraw proposals at any time before they are determined under 
 - (c) the local education authority who maintain, or whom it is proposed should maintain, the school; and
 - (d) where the school is a special school each local education authority who maintain a statement of special educational needs in respect of a registered pupil at the school.
 
-### 11. Provisions relating to paragraph 3 of Schedule 6 to the School Standards and Framework Act 1998[^key-e86b21a84854204fca9410ebc1204e11]
+### 11. Provisions relating to paragraph 3 of Schedule 6 to the School Standards and Framework Act 1998[^c-e86b21a84854204fca9410ebc1204e11]
 
 (1) Proposals fall within paragraph 3(2A) of Schedule 6 to the 1998 Act (which provides that the requirement to make a decision under paragraph 3(2) of that Schedule in the case of proposals of a prescribed description only applies if, at the time when the decision falls to be made under that sub-paragraph, the School Organisation Committee are satisfied that the proposals do not relate to any relevant proposals) if —
 
@@ -248,17 +248,17 @@ The Council may withdraw proposals at any time before they are determined under 
 
 ## PART 3 — PROPOSALS MADE UNDER SCHEDULE 7
 
-### 12. Interpretation of Part 3[^key-93d898999bb444a47724498bcb148f65]
+### 12. Interpretation of Part 3[^c-93d898999bb444a47724498bcb148f65]
 
 In this Part “proposals to discontinue a sixth form” means proposals such as are mentioned in paragraph 16(1) of Schedule 7.
 
-### 13. Information to be contained in published proposals[^key-63f523bd82289c6ac7742281051600f9]
+### 13. Information to be contained in published proposals[^c-63f523bd82289c6ac7742281051600f9]
 
 (1) This regulation prescribes for the purposes of paragraphs 16(2) and 24(2) of Schedule 7, the information which proposals published under paragraph 16 or 24 of Schedule 7 must contain.
 
 (2) Such proposals must contain the information specified in Schedule 2 to these Regulations.
 
-### 14. Manner of publication of proposals[^key-c09d7409db2ca1d3b4f11901a16d5eb4]
+### 14. Manner of publication of proposals[^c-c09d7409db2ca1d3b4f11901a16d5eb4]
 
 (1) This regulation prescribes for the purposes of paragraphs 16(2) and 24(2) of Schedule 7 the manner of publication of proposals required to be published under paragraph 16 or 24 of Schedule 7.
 
@@ -273,7 +273,7 @@ In this Part “proposals to discontinue a sixth form” means proposals such as
 - (a) in at least one newspaper circulating in the area of the local education authority who maintain the school; and
 - (b) by being posted at or near the main entrance to the school or, if there is more than one main entrance, all of them.
 
-### 15. Information to be sent to the school organisation committee[^key-87615ee99680ebbd5259ef2a875d14d6]
+### 15. Information to be sent to the school organisation committee[^c-87615ee99680ebbd5259ef2a875d14d6]
 
 (1) This regulation prescribes for the purposes of paragraphs 17(1)(b) and 25(1)(b) of Schedule 7 the information which the Council must send to the school organisation committee.
 
@@ -282,7 +282,7 @@ In this Part “proposals to discontinue a sixth form” means proposals such as
 - (a) the information specified in Part 4 of that Schedule, where the proposals are to discontinue a sixth form; or
 - (b) the information specified in Part 5 of that Schedule, where the proposals are to discontinue a 16 to 19 institution.
 
-### 16. Other bodies to whom information should be sent – special schools[^key-d684d04366720554bc17390011730ed6]
+### 16. Other bodies to whom information should be sent – special schools[^c-d684d04366720554bc17390011730ed6]
 
 (1) This regulation prescribes for the purposes of paragraphs 17(2) and 25(2) of Schedule 7 the bodies or persons to whom, in the case of a special school, the Council shall also send a copy of the published proposals.
 
@@ -294,13 +294,13 @@ In this Part “proposals to discontinue a sixth form” means proposals such as
 - (d) any Strategic Health Authority who acts for any area which includes any part of the area of the local education authority who maintain the school; and
 - (e) any National Health Service Trust who have responsibility for the ownership or management of any hospital or other establishment or facilities in the area of the local education authority who maintain the school.
 
-### 17. Objections to and comments on proposals[^key-ce7dc030468a437f75a0db54c5b2722b]
+### 17. Objections to and comments on proposals[^c-ce7dc030468a437f75a0db54c5b2722b]
 
 (1) This regulation prescribes for the purposes of paragraph 34 of Schedule 7 the period within which objections to, or comments on, the proposals may be sent to the school organisation committee.
 
 (2) Objections to, or comments on, proposals published under paragraph 16 or 24 of Schedule 7 shall be sent to the school organisation committee within one month from the date of publication of the proposals.
 
-### 18. Approval of proposals subject to modifications after consultation[^key-bc17bbede395c288c761e5fce5120ade]
+### 18. Approval of proposals subject to modifications after consultation[^c-bc17bbede395c288c761e5fce5120ade]
 
 (1) This regulation prescribes, for the purpose of paragraph 35(3) of Schedule 7 or, as the case may be, that sub-paragraph as applied by paragraph 35(7) of that Schedule the bodies with whom the school organisation committee or, as the case may be, the adjudicator, must consult before approving proposals subject to modifications.
 
@@ -311,7 +311,7 @@ In this Part “proposals to discontinue a sixth form” means proposals such as
 - (c) the local education authority who maintain the school; and
 - (d) the governing body of the school.
 
-### 19. Conditional approvals[^key-df4c1f5e8d17a47857614739246910a5]
+### 19. Conditional approvals[^c-df4c1f5e8d17a47857614739246910a5]
 
 (1) This regulation prescribes kinds of events for the purposes of paragraph 35(4) of Schedule 7 (which provides that approvals given under paragraph 35(1)(b) or (c) of Schedule 7 may be subject to the occurrence by a specified time of a specified event which is of a prescribed kind).
 
@@ -328,7 +328,7 @@ In this Part “proposals to discontinue a sixth form” means proposals such as
   - (vii) the Secretary of State giving notice under regulation 7 of the Education (Foundation Body) (England) Regulations 2000 [^f00010] that a foundation body should become operative and that the school should form part of a group for which that foundation body should act, and
   - (viii) the Secretary of State making a declaration under regulation 22(3) of the Education (Foundation Body) (England) Regulations 2000 that the school should form part of a group for which a foundation body acts.
 
-### 20. Period after the expiry of which proposals must be referred to the adjudicator if requested[^key-02ba544eb048b5d59ac784ae5839881d]
+### 20. Period after the expiry of which proposals must be referred to the adjudicator if requested[^c-02ba544eb048b5d59ac784ae5839881d]
 
 (1) This regulation prescribes periods for the purposes of paragraphs 35(6) and 37(1) of Schedule 7, (which provide that, if by the end of a prescribed period a school organisation committee has not determined what action to take and if the Council so requests, the committee shall refer the proposals or question to the adjudicator, and such reference is made in accordance with regulation 25).
 
@@ -342,14 +342,14 @@ In this Part “proposals to discontinue a sixth form” means proposals such as
 
 (4) Where, in the opinion of the committee, proposals or a question such as are referred to in paragraph (2) or (3) (“proposal A”) are related to proposals published under section 28, 29 or 31 of the 1998 Act, or to a matter such as is mentioned in paragraph 5 of Schedule 6 to that Act (“proposal B”) and the period relating to proposal A prescribed under paragraph (2) or (3) would end earlier than the period prescribed in relation to proposal B in regulations made under paragraph 3(5) or 5(5) of Schedule 6 to the 1998 Act, the period relating to proposal A shall expire at the same time as the period relating to proposal B.
 
-### 21. Limitations on power of school organisation committee to refer matters to the adjudicator[^key-6faf8ed656c0819a566e897b48c8a458]
+### 21. Limitations on power of school organisation committee to refer matters to the adjudicator[^c-6faf8ed656c0819a566e897b48c8a458]
 
 The School Organisation Committee may only refer any proposals to the adjudicator under paragraph 35(1)(d) of Schedule 7[^f00011] or refer a question to the adjudicator under paragraph 37(2A) of Schedule 7[^f00012] if —
 
 - (a) they have voted on the proposals or question, but
 - (b) at least two groups of members (within the meaning of regulation 24) did not vote because they had declared an interest in the proposals or question.
 
-### 22. Modification of approved proposals[^key-b00960b2c076ee0671b58196bbc3647c]
+### 22. Modification of approved proposals[^c-b00960b2c076ee0671b58196bbc3647c]
 
 (1) This regulation prescribes, for the purposes of paragraph 36(2) of Schedule 7 or, as the case may be, that sub-paragraph as applied by paragraph 37(3) of that Schedule the bodies whom a school organisation committee or, as the case may be, the adjudicator must consult before modifying approved proposals.
 
@@ -359,7 +359,7 @@ The School Organisation Committee may only refer any proposals to the adjudicato
 - (b) where the school is a special school, each local education authority who maintain a statement of special educational needs in respect of a registered pupil at the school; and
 - (c) the governing body of the school.
 
-### 23. Provision of information[^key-53e9239f382f727cdf58a21ea6e492b9]
+### 23. Provision of information[^c-53e9239f382f727cdf58a21ea6e492b9]
 
 (1) The school organisation committee shall, within two weeks of the date on which such proposals were sent to them, send to the Secretary of State a copy of all published proposals which are sent to them under paragraph 17 or 25 of Schedule 7 or paragraph 5 of Schedule 4 to these Regulations.
 
@@ -385,7 +385,7 @@ The School Organisation Committee may only refer any proposals to the adjudicato
 
 (7) Where proposals (“proposals A”) have been sent to the school organisation committee under paragraph 17 or 25 of Schedule 7, and subsequently further proposals are sent to the committee under section 28(6), 29(5) or 31(5) of the 1998 Act which, in the opinion of the committee, are related to proposals A, the school organisation committee shall notify the Council of that fact and of the effect of regulation 20(4).
 
-### 24. Voting of committee on proposals[^key-19050634d095c74b54a2e47a7990b507]
+### 24. Voting of committee on proposals[^c-19050634d095c74b54a2e47a7990b507]
 
 (1) In this regulation references to a group of members of a school organisation committee shall be construed in accordance with the Education (School Organisation Committees) (England) Regulations 1999[^f00014].
 
@@ -398,27 +398,27 @@ The School Organisation Committee may only refer any proposals to the adjudicato
 
 (3) All decisions or questions referred to in paragraph (2) shall be unanimous decisions of those voting.
 
-### 25. Time within which reference must be made to the adjudicator[^key-b440071af58486252cced43947a5f872]
+### 25. Time within which reference must be made to the adjudicator[^c-b440071af58486252cced43947a5f872]
 
 (1) Where, by virtue of paragraph 35(5) or 37(2) of Schedule 7, the committee are required to refer any proposals or question to the adjudicator they shall do so within two weeks of the date on which the committee voted but failed to reach a unanimous decision.
 
 (2) Where, by virtue of paragraph 35(6) or 37(1) of Schedule 7 and regulation 20, the committee are required to refer any proposals or question to the adjudicator they shall do so within two weeks of the receipt of the request under either of those paragraphs.
 
-### 26. Proposals published under paragraph 36(4) of Schedule 7[^key-fc9d9ce887a841765d9ecc14ae593ee8]
+### 26. Proposals published under paragraph 36(4) of Schedule 7[^c-fc9d9ce887a841765d9ecc14ae593ee8]
 
 Schedule 4 to these Regulations has effect in relation to proposals published under paragraph 36(4) of Schedule 7 (proposals previously published and approved under Schedule 7 not to be implemented).
 
-### 27. Schools situated outside the area of the local education authority who maintain them[^key-616f596815a23ca4182ffc7d11a507e3]
+### 27. Schools situated outside the area of the local education authority who maintain them[^c-616f596815a23ca4182ffc7d11a507e3]
 
 Schedule 5 to these Regulations shall have effect for specifying the modifications to which Parts II and III of Schedule 7 are to be subject in relation to a community, voluntary or foundation school in England which is situated in an area other than that of the local education authority who maintain it.
 
 ## PART 4 — SUPPLEMENTARY
 
-### 28. Change of category of school[^key-4153273bb71b2e87a5f8e549b7929ce5]
+### 28. Change of category of school[^c-4153273bb71b2e87a5f8e549b7929ce5]
 
 Where, after proposals have been published under section 113A or paragraph 16(2) or 24(2) of Schedule 7 but before they have been implemented, a school which is the subject of the proposals changes category under Schedule 8 to the 1998 Act from a community or community special school the proposals shall (to the extent that they have not been implemented) be implemented by the local education authority (despite paragraph 38 of Schedule 7 or paragraph 3 or 4 of Schedule 7A).
 
-### 29. Consequential amendment[^key-b1b4d5a68b3c7a920a5e4bacf9a511b7]
+### 29. Consequential amendment[^c-b1b4d5a68b3c7a920a5e4bacf9a511b7]
 
 (1) The Education (Grants in respect of Voluntary Aided Schools) Regulations 1999[^f00015] are hereby amended in relation to England as follows.
 
@@ -426,7 +426,7 @@ Where, after proposals have been published under section 113A or paragraph 16(2)
 
 > - (iii) any proposals for an alteration to a school published under section 113A of the Learning and Skills Act 2000 approved under subsection (5) of that section; or
 
-### 30. Revocation[^key-2c7232d8d0a088ecb67d3428b26d2d9a]
+### 30. Revocation[^c-2c7232d8d0a088ecb67d3428b26d2d9a]
 
 The School Organisation Proposals by the Learning and Skills Council for England Regulations 2001 [^f00016]are hereby revoked.
 
@@ -442,25 +442,25 @@ Department for Education and Skills
 
 Regulation 5
 
-**1.**[^key-6568f0dae81ab2d0fd2ec1be75bf0ac2] Where the proposals are published by a local learning and skills council on behalf of the Council a statement to that effect and the name of the local learning and skills council publishing the proposals.
+**1.**[^c-6568f0dae81ab2d0fd2ec1be75bf0ac2] Where the proposals are published by a local learning and skills council on behalf of the Council a statement to that effect and the name of the local learning and skills council publishing the proposals.
 
-**2.**[^key-0d1fcbcbd2bbb6970b1e78b6940e4c65] The date on which the proposals are planned to be implemented or, where the proposals are planned to be implemented in stages, the date on which each stage is planned to be implemented.
+**2.**[^c-0d1fcbcbd2bbb6970b1e78b6940e4c65] The date on which the proposals are planned to be implemented or, where the proposals are planned to be implemented in stages, the date on which each stage is planned to be implemented.
 
-**3.**[^key-a0254b3f0540c19c9d6065dc393e48c5] Where the proposals are to establish a new 16 to 19 institution or to alter the upper age limit of the school so that the school will provide sixth form education—
+**3.**[^c-a0254b3f0540c19c9d6065dc393e48c5] Where the proposals are to establish a new 16 to 19 institution or to alter the upper age limit of the school so that the school will provide sixth form education—
 
 - (a) information on the number of students for whom sixth form education will be provided;
 - (b) the proposed upper age limit of the school; and
 - (c) the proposed arrangements for transport of pupils to the school.
 
-**4.**[^key-ec0553ccc140959b57d2fb6ae62446b3] Where the proposals relate to a foundation or voluntary school with a religious character, details of the religion or religious denomination concerned.
+**4.**[^c-ec0553ccc140959b57d2fb6ae62446b3] Where the proposals relate to a foundation or voluntary school with a religious character, details of the religion or religious denomination concerned.
 
-**5.**[^key-c0be816881aa7582ac7eaac3addcb99a] Where the proposals have the effect that any provision for sixth form education is to be discontinued, details of the schools or further education colleges which students who are at the school and for whom provision is to be discontinued may attend, including any interim arrangements.
+**5.**[^c-c0be816881aa7582ac7eaac3addcb99a] Where the proposals have the effect that any provision for sixth form education is to be discontinued, details of the schools or further education colleges which students who are at the school and for whom provision is to be discontinued may attend, including any interim arrangements.
 
-**6.**[^key-61d014b2086765271a3c9d66d948c800] The proposed arrangements for transport of such pupils to other schools or further education colleges.
+**6.**[^c-61d014b2086765271a3c9d66d948c800] The proposed arrangements for transport of such pupils to other schools or further education colleges.
 
-**7.**[^key-d4e9271428c8e2bf79a4992e98d8a481] Details of any other measures proposed to be taken to increase the number of school or further education college places available in consequence of a proposed discontinuance of provisions.
+**7.**[^c-d4e9271428c8e2bf79a4992e98d8a481] Details of any other measures proposed to be taken to increase the number of school or further education college places available in consequence of a proposed discontinuance of provisions.
 
-**8.**[^key-c437a6dea55c557134c71c3324372fc8] (1) Except where the proposals–
+**8.**[^c-c437a6dea55c557134c71c3324372fc8] (1) Except where the proposals–
 
 - (a) are to discontinue a school,
 - (b) are to make an alteration to the upper age limit of the school so that the school will cease to provide sixth from education, or
@@ -472,41 +472,41 @@ the number of pupils to be admitted to the school (or, as the case may be, to th
 
 (3) In this paragraph “sixth form relevant age group” means an age group in which pupils are normally admitted (or, as the case may be, will normally be admitted) to the school for sixth form education.
 
-**9.**[^key-b3ab4e1b1e4600dc760f56bb3befab54] Where the proposals are to make an alteration to a foundation or voluntary controlled school, a statement as to whether the proposals are to be implemented by the local education authority or the governing body and, if the proposals are to be implemented by both, a statement as to the extent to which they are to be implemented by each body.
+**9.**[^c-b3ab4e1b1e4600dc760f56bb3befab54] Where the proposals are to make an alteration to a foundation or voluntary controlled school, a statement as to whether the proposals are to be implemented by the local education authority or the governing body and, if the proposals are to be implemented by both, a statement as to the extent to which they are to be implemented by each body.
 
-**10.**[^key-5b57da838bab568b5684134e841c2ec7] A statement that the proposal will require the approval of the Secretary of State.
+**10.**[^c-5b57da838bab568b5684134e841c2ec7] A statement that the proposal will require the approval of the Secretary of State.
 
-**11.**[^key-b359ce299e8a39dbdb88ac6487374eae] A statement of the effect of regulation 5(6).
+**11.**[^c-b359ce299e8a39dbdb88ac6487374eae] A statement of the effect of regulation 5(6).
 
-**12.**[^key-6e57c220bd9a39db0bb9bb449b39d583] A statement of the effect of regulation 6(1) including the address to which objections to, or comments on, the proposals should be sent.
+**12.**[^c-6e57c220bd9a39db0bb9bb449b39d583] A statement of the effect of regulation 6(1) including the address to which objections to, or comments on, the proposals should be sent.
 
 ## SCHEDULE 2 — INFORMATION TO BE CONTAINED IN PROPOSALS PUBLISHED UNDER SCHEDULE 7
 
 Regulation 13
 
-**1.**[^key-cad26649461d7b6b56c6f4f579008198] Where the proposals are published by a local learning and skills council on behalf of the Council, a statement to that effect and the name of the local learning and skills council publishing the proposals.
+**1.**[^c-cad26649461d7b6b56c6f4f579008198] Where the proposals are published by a local learning and skills council on behalf of the Council, a statement to that effect and the name of the local learning and skills council publishing the proposals.
 
-**2.**[^key-f226ff26754e5dbf1c72eb426b4fdbb1] The date on which the proposals are planned to be implemented or, where the proposals are planned to be implemented in stages, the date on which each stage is planned to be implemented.
+**2.**[^c-f226ff26754e5dbf1c72eb426b4fdbb1] The date on which the proposals are planned to be implemented or, where the proposals are planned to be implemented in stages, the date on which each stage is planned to be implemented.
 
-**3.**[^key-af5fc5eff298492308319e33980d05e3] Where the school is a foundation or voluntary school with a religious character, details of the religion or religious denomination concerned.
+**3.**[^c-af5fc5eff298492308319e33980d05e3] Where the school is a foundation or voluntary school with a religious character, details of the religion or religious denomination concerned.
 
-**4.**[^key-1ccf169a0556f2a6b737059bbf1ffbcb] Details of the schools or further education colleges which pupils who are at the school and for whom provision is to be discontinued may attend, including any interim arrangements.
+**4.**[^c-1ccf169a0556f2a6b737059bbf1ffbcb] Details of the schools or further education colleges which pupils who are at the school and for whom provision is to be discontinued may attend, including any interim arrangements.
 
-**5.**[^key-61199caf756929a702eec2f45a575aee] The proposed arrangements for transport of such pupils to other schools or further education colleges.
+**5.**[^c-61199caf756929a702eec2f45a575aee] The proposed arrangements for transport of such pupils to other schools or further education colleges.
 
-**6.**[^key-651a720b64b1d5f091f9c26aeef47650] Details of any other measures proposed to be taken to increase the number of school or further education college places available in consequence of the proposed discontinuance of provision.
+**6.**[^c-651a720b64b1d5f091f9c26aeef47650] Details of any other measures proposed to be taken to increase the number of school or further education college places available in consequence of the proposed discontinuance of provision.
 
-**7.**[^key-849626757c22c1e7bc7128b19cb209c9] Where the proposals are to discontinue a sixth form, the number of pupils to be admitted to the school in each relevant age group in the first school year in which the proposals have been implemented or, where it is intended that the proposals should be implemented in stages, the number of pupils to be admitted to the school in the first school year in which each stage has been implemented.
+**7.**[^c-849626757c22c1e7bc7128b19cb209c9] Where the proposals are to discontinue a sixth form, the number of pupils to be admitted to the school in each relevant age group in the first school year in which the proposals have been implemented or, where it is intended that the proposals should be implemented in stages, the number of pupils to be admitted to the school in the first school year in which each stage has been implemented.
 
-**8.**[^key-0ca0ce9b00f742916bbffbf315ddab51] (1) Where the proposals are to discontinue a sixth form at a community or community special school, a statement that the duty to implement the proposals is a duty of the local education authority.
+**8.**[^c-0ca0ce9b00f742916bbffbf315ddab51] (1) Where the proposals are to discontinue a sixth form at a community or community special school, a statement that the duty to implement the proposals is a duty of the local education authority.
 
 (2) Where the proposals are to discontinue a sixth form at a voluntary, foundation or foundation special school, a statement that the duty to implement the proposals is a duty of the governing body.
 
-**9.**[^key-66895631cfaad63a9e044de4385aff15] (1) Where the proposals are to discontinue a 16 to 19 institution which is a community or community special school, a statement that the duty to implement the proposals is a duty of the local education authority.
+**9.**[^c-66895631cfaad63a9e044de4385aff15] (1) Where the proposals are to discontinue a 16 to 19 institution which is a community or community special school, a statement that the duty to implement the proposals is a duty of the local education authority.
 
 (2) Where the proposals are to discontinue a 16 to 19 institution which is a voluntary, foundation or foundation special school, a statement that the duty to implement the proposals is a shared duty of the governing body and the local education authority.
 
-**10.**[^key-44943b7e90b224ccfd0d6b3c960ec189] A statement explaining the effect of paragraph 34 of Schedule 7 and regulation 17 including—
+**10.**[^c-44943b7e90b224ccfd0d6b3c960ec189] A statement explaining the effect of paragraph 34 of Schedule 7 and regulation 17 including—
 
 - (a) the date by which objections should be sent to the school organisation committee; and
 - (b) the address of the school organisation committee to whom objections should be sent.
@@ -517,7 +517,7 @@ Regulation 15
 
 ### PART 1 — Interpretation
 
-**1.**[^key-896bc8197c440044fa2c1a3766d3c207] In this Schedule—
+**1.**[^c-896bc8197c440044fa2c1a3766d3c207] In this Schedule—
 
 - “admission number” means the number of pupils in any relevant age group as determined by the admission authority under section 89 of the 1998 Act[^f00017];
 - “the current school year” means the school year in which the proposals are published;
@@ -530,16 +530,16 @@ Regulation 15
 
 ### PART 2 — Information to be sent in all cases where the school is a mainstream school
 
-**2.**[^key-6f1fa4d7516b8348e84c106681614cf0] The objectives of the proposal.
+**2.**[^c-6f1fa4d7516b8348e84c106681614cf0] The objectives of the proposal.
 
-**3.**[^key-a756291544c0f8d2602d48cca01105e4] Evidence of the consultation before the proposals were published including—
+**3.**[^c-a756291544c0f8d2602d48cca01105e4] Evidence of the consultation before the proposals were published including—
 
 - (a) copies of the consultation documents; and
 - (b) the views and responses from the persons consulted.
 
-**4.**[^key-a8947d82c782e9e6708a325b9ce154fe] A map showing the location of the school the subject of the proposals and all other community, voluntary and foundation schools within the relevant radius of the school.
+**4.**[^c-a8947d82c782e9e6708a325b9ce154fe] A map showing the location of the school the subject of the proposals and all other community, voluntary and foundation schools within the relevant radius of the school.
 
-**5.**[^key-be9954b89b4de8bf507228f3c646fffd] A list of all secondary schools within the relevant radius of the school the subject of the proposals, stating which of such schools are maintained by a different local education authority, together with the following information in respect of each such school for the current school year, and (except for the information specified in sub-paragraph (d)) the previous school year —
+**5.**[^c-be9954b89b4de8bf507228f3c646fffd] A list of all secondary schools within the relevant radius of the school the subject of the proposals, stating which of such schools are maintained by a different local education authority, together with the following information in respect of each such school for the current school year, and (except for the information specified in sub-paragraph (d)) the previous school year —
 
 - (a) the admission number for each relevant age group;
 - (b) the number of year groups;
@@ -548,47 +548,47 @@ Regulation 15
 
 and a forecast of the matters specified in sub-paragraphs (b) to (d) for each of the subsequent five school years.
 
-**6.**[^key-e18b659d7f81e1583d5447f8d15e89fe] The following details of the sixth form education currently provided at the school —
+**6.**[^c-e18b659d7f81e1583d5447f8d15e89fe] The following details of the sixth form education currently provided at the school —
 
 - (a) courses leading to GCE “A” and “AS” examinations,
 - (b) courses leading to VCE examinations,
 - (c) other courses, and
 - (d) the number of pupils attending each course.
 
-**7.**[^key-c051ea735afb7252617482cf7673b6cc] Copies of the reports of the two inspections under Part I of the School Inspections Act 1996[^f00018]as a result of which Parts II and III of Schedule 7 apply in relation to the school.
+**7.**[^c-c051ea735afb7252617482cf7673b6cc] Copies of the reports of the two inspections under Part I of the School Inspections Act 1996[^f00018]as a result of which Parts II and III of Schedule 7 apply in relation to the school.
 
 ### PART 3 — Information to be sent in all cases where the school is a special school
 
-**8.**[^key-a31278642994aed2561847a667d89b88] The objectives of the proposals.
+**8.**[^c-a31278642994aed2561847a667d89b88] The objectives of the proposals.
 
-**9.**[^key-ca82367a05997b3e2c3b9a54da6dda4b] Evidence of the consultation before the proposals were published including—
+**9.**[^c-ca82367a05997b3e2c3b9a54da6dda4b] Evidence of the consultation before the proposals were published including—
 
 - (a) copies of the consultation documents; and
 - (b) the views and responses from the persons consulted.
 
-**10.**[^key-3434bf48aa68d00ad5f06d628a4ea866] A map showing the location of the school the subject of the proposals.
+**10.**[^c-3434bf48aa68d00ad5f06d628a4ea866] A map showing the location of the school the subject of the proposals.
 
-**11.**[^key-272c7c5fe3e8cbacb8a735b5dc3fbafa] A list of all —
+**11.**[^c-272c7c5fe3e8cbacb8a735b5dc3fbafa] A list of all —
 
 - (a) special schools which provide education for pupils over compulsory school age; and
 - (b) other schools maintained by a local education authority which provide education for pupils over compulsory school age at which there is provision which is recognised by the local education authority as reserved for children with special educational needs,
 
 in the area of the local education authority who maintain the school.
 
-**12.**[^key-f507e91bda6da6dba32de6e0e7aed39a] Information as to —
+**12.**[^c-f507e91bda6da6dba32de6e0e7aed39a] Information as to —
 
 - (a) the number of pupils over compulsory school age at each school referred to in paragraph 11(a), and
 - (b) the number of pupils over compulsory school age at each school referred to in paragraph 11(b) for whom the provision referred to in that sub-paragraph is made,
 
 in the current school year together with a forecast of that number in each of the subsequent 5 school years.
 
-**13.**[^key-9bb644a85f0fc3c3bae87b61d81e5b5d] Information as to the numbers of pupils over compulsory school age with special educational needs of each type for whom the local education authority maintain a statement of special educational needs in the current year together with a forecast of such numbers for each of the subsequent 5 school years.
+**13.**[^c-9bb644a85f0fc3c3bae87b61d81e5b5d] Information as to the numbers of pupils over compulsory school age with special educational needs of each type for whom the local education authority maintain a statement of special educational needs in the current year together with a forecast of such numbers for each of the subsequent 5 school years.
 
-**14.**[^key-9f536a821e1ace5139f5049d39f7ef1d] Copies of the reports of the two inspections under Part I of the School Inspections Act 1996 as a result of which Parts II and III of Schedule 7 apply in relation to the school.
+**14.**[^c-9f536a821e1ace5139f5049d39f7ef1d] Copies of the reports of the two inspections under Part I of the School Inspections Act 1996 as a result of which Parts II and III of Schedule 7 apply in relation to the school.
 
 ### PART 4 — Additional information to be sent where the proposals are to discontinue a sixth form
 
-**15.**[^key-c323888b4adc5cc5e59b2fcb75d1a6d0] Where the school is a mainstream school, the following information relating to the school for the current school year and (except for the information specified in paragraph (c)), the previous school year—
+**15.**[^c-c323888b4adc5cc5e59b2fcb75d1a6d0] Where the school is a mainstream school, the following information relating to the school for the current school year and (except for the information specified in paragraph (c)), the previous school year—
 
 - (a) the number of year groups;
 - (b) the capacity of the school; and
@@ -596,7 +596,7 @@ in the current school year together with a forecast of that number in each of th
 
 and a forecast of those matters specified in each of the subsequent 5 school years on the assumption that the proposals are approved.
 
-**16.**[^key-acab4aad7ec19b8333b5cdc80ff5e2da] Where the school is a special school, the following information relating to the school for the current school year and the preceding 4 school years —
+**16.**[^c-acab4aad7ec19b8333b5cdc80ff5e2da] Where the school is a special school, the following information relating to the school for the current school year and the preceding 4 school years —
 
 - (a) the number of pupils at the school;
 - (b) the number of pupils of each year group and each sex; and
@@ -604,74 +604,74 @@ and a forecast of those matters specified in each of the subsequent 5 school yea
 
 and a forecast of those numbers for each of the subsequent 5 school years on the assumption that the proposals are approved.
 
-**17.**[^key-84a521e185729072f52eec450b4e1090] Where the proposals relate to a voluntary school, a statement as to whether, as a result of the proposals, premises used for the purposes of the school will no longer be required and if so—
+**17.**[^c-84a521e185729072f52eec450b4e1090] Where the proposals relate to a voluntary school, a statement as to whether, as a result of the proposals, premises used for the purposes of the school will no longer be required and if so—
 
 - (a) a statement as to whether those premises will be sold, and, if so, the estimated sale proceeds, and
 - (b) if the premises are not to be sold a statement as to the proposed use of the premises
 
 if such information has been made available to the Council.
 
-**18.**[^key-7809769f5fca4954ed5a83000d9eaf99] Details of the number of pupils over compulsory school age in each year group remaining at the school the subject of the proposals in the two school years before the current school year.
+**18.**[^c-7809769f5fca4954ed5a83000d9eaf99] Details of the number of pupils over compulsory school age in each year group remaining at the school the subject of the proposals in the two school years before the current school year.
 
-**19.**[^key-77d56d3359d943aceec3bbc380abbb68] Details of the number of pupils over compulsory school age in each year group who have transferred from the school the subject of the proposals to another institution providing full-time or part-time education during the period referred to in paragraph 18.
+**19.**[^c-77d56d3359d943aceec3bbc380abbb68] Details of the number of pupils over compulsory school age in each year group who have transferred from the school the subject of the proposals to another institution providing full-time or part-time education during the period referred to in paragraph 18.
 
-**20.**[^key-cfa77e9fa11d83e1784de3a92a263803] Details of the institutions to which the pupils referred to in paragraph 19 transferred indicating how many pupils went to each such institution.
+**20.**[^c-cfa77e9fa11d83e1784de3a92a263803] Details of the institutions to which the pupils referred to in paragraph 19 transferred indicating how many pupils went to each such institution.
 
-**21.**[^key-98382a1442b408938918ed6fb6010805] The number of pupils referred to in paragraphs 18 and 19 in each year group as a proportion of the total number of pupils in that year group.
+**21.**[^c-98382a1442b408938918ed6fb6010805] The number of pupils referred to in paragraphs 18 and 19 in each year group as a proportion of the total number of pupils in that year group.
 
-**22.**[^key-3ed1af62be3408896e872f9e8216eea2] Where the school is a mainstream school, details of the following examination results for the two school years before the current school year at the school the subject of the proposals and at each maintained school, city technology college, city college for the technology of the arts, Academy and further education college named in accordance with paragraph 20 —
+**22.**[^c-3ed1af62be3408896e872f9e8216eea2] Where the school is a mainstream school, details of the following examination results for the two school years before the current school year at the school the subject of the proposals and at each maintained school, city technology college, city college for the technology of the arts, Academy and further education college named in accordance with paragraph 20 —
 
 - (a) results of GCSE examinations limited, in the case of schools other than the school the subject of the proposals and further education colleges, to the results of GCSE examinations taken by pupils over compulsory school age;
 - (b) results of GCE “A” and “AS” examinations, and
 - (c) VCEs, NVQs, GNVQs and other vocational qualifications for pupils over compulsory school age.
 
-**23.**[^key-ed30215ed664f32b31e1f3403e78bebc] Details of the schools or further education colleges to which it is proposed that pupils currently receiving sixth form education may transfer if the proposals are approved, including any transitional arrangements which may apply.
+**23.**[^c-ed30215ed664f32b31e1f3403e78bebc] Details of the schools or further education colleges to which it is proposed that pupils currently receiving sixth form education may transfer if the proposals are approved, including any transitional arrangements which may apply.
 
-**24.**[^key-fe1916bd0737cdb15e9511217c25c98b] An assessment of the quality of the institutions named in accordance with paragraph 23 including, where the school which is the subject of the proposals is a mainstream school, details of the examination results referred to in paragraph 22 at each maintained school, city technology college, city college for the technology of the arts, Academy and further education college named in accordance with paragraph 23.
+**24.**[^c-fe1916bd0737cdb15e9511217c25c98b] An assessment of the quality of the institutions named in accordance with paragraph 23 including, where the school which is the subject of the proposals is a mainstream school, details of the examination results referred to in paragraph 22 at each maintained school, city technology college, city college for the technology of the arts, Academy and further education college named in accordance with paragraph 23.
 
-**25.**[^key-ce6b1cb6b940ba1941b2a11217d889bc] The number of places available at those institutions named in accordance with paragraphs 20 and 23 which are schools.
+**25.**[^c-ce6b1cb6b940ba1941b2a11217d889bc] The number of places available at those institutions named in accordance with paragraphs 20 and 23 which are schools.
 
-**26.**[^key-5dc8316c82ca292421227b973b37a942] Details of the distance, measured by the nearest available route, between the school and all of the institutions named in accordance with paragraphs 20 and 23 together with details as to the availability of public transport to the institutions named in accordance with paragraph 23 (where such information is not already contained in any proposed arrangements for transport contained in published proposals pursuant to paragraph 5 of Schedule 2).
+**26.**[^c-5dc8316c82ca292421227b973b37a942] Details of the distance, measured by the nearest available route, between the school and all of the institutions named in accordance with paragraphs 20 and 23 together with details as to the availability of public transport to the institutions named in accordance with paragraph 23 (where such information is not already contained in any proposed arrangements for transport contained in published proposals pursuant to paragraph 5 of Schedule 2).
 
 ### PART 5 — Additional information to be sent in where the proposals to discontinue a 16 to 19 institution
 
-**27.**[^key-7528984c9240ae19efa8375a88240055] Where the school is a mainstream school, the following information relating to the school for the current school year and (except for the information specified in sub-paragraph (d)), the previous school year —
+**27.**[^c-7528984c9240ae19efa8375a88240055] Where the school is a mainstream school, the following information relating to the school for the current school year and (except for the information specified in sub-paragraph (d)), the previous school year —
 
 - (a) the admission number for each relevant age group;
 - (b) the number of year groups;
 - (c) the capacity of the school; and
 - (d) the number of pupils at the school.
 
-**28.**[^key-b1d56b1405f6b683f8c5d8c748cec975] Where the school is a special school, the following information relating to the school for the current school year and the preceding 4 school years —
+**28.**[^c-b1d56b1405f6b683f8c5d8c748cec975] Where the school is a special school, the following information relating to the school for the current school year and the preceding 4 school years —
 
 - (a) the number of pupils at the school;
 - (b) the number of pupils of each year group and sex; and
 - (c) the number of pupils with each type of special educational needs for whom provision is made at the school.
 
-**29.**[^key-63dbfacaada397f60ad13605e253cb27] The following information relating to the accommodation at the school —
+**29.**[^c-63dbfacaada397f60ad13605e253cb27] The following information relating to the accommodation at the school —
 
 - (a) the location of the accommodation;
 - (b) whether the school occupies a single or split site; and
 - (c) details of general and specialist accommodation.
 
-**30.**[^key-224db33bc0cb5f1ca8a6158ffe73efb7] Details of schools and further education colleges which pupils who might otherwise have attended the school may, in the opinion of the Council, reasonably be expected to be able to attend after ceasing to be of compulsory school age if the proposals are approved, including any transitional arrangements which may apply.
+**30.**[^c-224db33bc0cb5f1ca8a6158ffe73efb7] Details of schools and further education colleges which pupils who might otherwise have attended the school may, in the opinion of the Council, reasonably be expected to be able to attend after ceasing to be of compulsory school age if the proposals are approved, including any transitional arrangements which may apply.
 
-**31.**[^key-c6afc728df119dfc365c93b5c4cbc19d] An assessment of the quality of the institutions named in paragraph 30 including, where the school which is the subject of the proposals is a mainstream school, details of the examination results referred to in sub-paragraphs (a) to (c) of paragraph 22 for the two school years before the current school year at the school in question and at each maintained school, city technology college, city college for the technology of the arts, Academy and further education college named in accordance with paragraph 30.
+**31.**[^c-c6afc728df119dfc365c93b5c4cbc19d] An assessment of the quality of the institutions named in paragraph 30 including, where the school which is the subject of the proposals is a mainstream school, details of the examination results referred to in sub-paragraphs (a) to (c) of paragraph 22 for the two school years before the current school year at the school in question and at each maintained school, city technology college, city college for the technology of the arts, Academy and further education college named in accordance with paragraph 30.
 
-**32.**[^key-bbb8fd3608039aebf4311c14ad32ae95] The number of places available at institutions named in accordance with paragraph 30 which are schools.
+**32.**[^c-bbb8fd3608039aebf4311c14ad32ae95] The number of places available at institutions named in accordance with paragraph 30 which are schools.
 
-**33.**[^key-f8e47b1e338e6e50c49ca2462ac40690] Details of the distance, measured by the nearest available route between the school and all the institutions named in accordance with paragraph 30 together with details as to the availability of public transport to those institutions (where such information is not already contained in any proposed arrangements for transport contained in published proposals pursuant to paragraph 5 of Schedule 2).
+**33.**[^c-f8e47b1e338e6e50c49ca2462ac40690] Details of the distance, measured by the nearest available route between the school and all the institutions named in accordance with paragraph 30 together with details as to the availability of public transport to those institutions (where such information is not already contained in any proposed arrangements for transport contained in published proposals pursuant to paragraph 5 of Schedule 2).
 
 ## SCHEDULE 4 — Proposals under paragraph 36(4) of Schedule 7
 
 Regulation 26
 
-**1.**[^key-8bb0b33f78c898162fe92939f8e2b36b] In this Schedule —
+**1.**[^c-8bb0b33f78c898162fe92939f8e2b36b] In this Schedule —
 
 - “the new proposals” means proposals made under paragraph 36(4) of Schedule 7; and
 - “the original proposals” means the proposals approved under Part III of Schedule 7 to which the new proposals relate.
 
-**2.**[^key-2e6d52559d8f3b6fc0cd86ae175df632] The new proposals shall —
+**2.**[^c-2e6d52559d8f3b6fc0cd86ae175df632] The new proposals shall —
 
 - (a) where the school is a mainstream school, be published —
   - (i) by being posted in a conspicuous place in the area served by the school,
@@ -681,14 +681,14 @@ Regulation 26
   - (i) in at least one newspaper circulating in the area of the local education authority who maintain the school, and
   - (ii) by being posted at or near the main entrance to the school or, if there is more than one main entrance, all of them.
 
-**3.**[^key-9bd422dcfbc0a7aca98423caf94dd4a4] The new proposals shall contain —
+**3.**[^c-9bd422dcfbc0a7aca98423caf94dd4a4] The new proposals shall contain —
 
 - (a) the information contained in the original proposals; and
 - (b) a statement as to why it is proposed that the original proposals should not be implemented.
 
-**4.**[^key-d799a06c7f1dd335d90e67bfd056eb0e] Before publishing the new proposals the Council shall, having regard to any guidance issued by the Secretary of State, consult such persons as they consider appropriate.
+**4.**[^c-d799a06c7f1dd335d90e67bfd056eb0e] Before publishing the new proposals the Council shall, having regard to any guidance issued by the Secretary of State, consult such persons as they consider appropriate.
 
-**5.**[^key-c6bee95a193a33b9540613be069a12b1] The Council shall send —
+**5.**[^c-c6bee95a193a33b9540613be069a12b1] The Council shall send —
 
 - (a) a copy of the published new proposals;
 - (b) a copy of the information sent to the school organisation committee under paragraph 17(1)(b) or 25(1)(b) of Schedule 7 and regulation 15 when the original proposals were published; and
@@ -696,19 +696,19 @@ Regulation 26
 
 to the school organisation committee.
 
-**6.**[^key-908ee407920863f96920ec8399b243f0] Where the school the subject of the new proposals is a special school the Council shall send a copy of the published new proposals to the bodies or persons to whom a copy of the original proposals was sent under paragraphs 17(2) and 25(2) of Schedule 7 and regulation 16.
+**6.**[^c-908ee407920863f96920ec8399b243f0] Where the school the subject of the new proposals is a special school the Council shall send a copy of the published new proposals to the bodies or persons to whom a copy of the original proposals was sent under paragraphs 17(2) and 25(2) of Schedule 7 and regulation 16.
 
-**7.**[^key-dd8855c11ea3b5080e884c0248cbbfb2] Any person may send objections to, or comments on, the new proposals to the school organisation committee within one month from the date of publication of the proposals.
+**7.**[^c-dd8855c11ea3b5080e884c0248cbbfb2] Any person may send objections to, or comments on, the new proposals to the school organisation committee within one month from the date of publication of the proposals.
 
 ## SCHEDULE 5 — SCHOOLS SITUATED OUTSIDE THE AREA OF THE LOCAL EDUCATION AUTHORITY WHO MAINTAIN THEM
 
 Regulation 27
 
-**1.**[^key-d2e61db03250af10144aea0e1f6b175e] In relation a community, voluntary or foundation school which is situated in an area other than that of the local education authority who maintain it, Parts II and III of Schedule 7 shall have effect with the modifications specified below.
+**1.**[^c-d2e61db03250af10144aea0e1f6b175e] In relation a community, voluntary or foundation school which is situated in an area other than that of the local education authority who maintain it, Parts II and III of Schedule 7 shall have effect with the modifications specified below.
 
-**2.**[^key-b0438f7c26326a9b85ca15c095728002] Paragraphs 17 and 25 of Schedule 7 shall have effect as if at the end there were added “and to the school organisation committee for the area of the local education authority in which the school is situated”.
+**2.**[^c-b0438f7c26326a9b85ca15c095728002] Paragraphs 17 and 25 of Schedule 7 shall have effect as if at the end there were added “and to the school organisation committee for the area of the local education authority in which the school is situated”.
 
-**3.**[^key-89a011614aa6807a7d47644419b9a9f0] Paragraph 35 of Schedule 7 shall have effect as if —
+**3.**[^c-89a011614aa6807a7d47644419b9a9f0] Paragraph 35 of Schedule 7 shall have effect as if —
 
 - (a) for sub-paragraph (1) there were substituted the following sub-paragraph —
 
@@ -818,9 +818,9 @@ Copies of the guidance “Assessing the Net capacity of Schools” referred to i
 
 [^f00002]: Footnote: [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21); section 113A and Schedule 7A were inserted by section 72 of, and Schedule 9 to, the Education Act 2002. Schedule 7 was amended by paragraphs 11 to 15 of Schedule 10 to the Education Act 2002.
 
-[^key-6ae9b32d9797ea6256051b4cb4d2f036]: Commencement: Reg. 1 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-6ae9b32d9797ea6256051b4cb4d2f036]: Commencement: Reg. 1 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-a81db8d55dfe65ea72f85fe63db10121]: Commencement: Reg. 2 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-a81db8d55dfe65ea72f85fe63db10121]: Commencement: Reg. 2 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
 [^f00003]: Footnote: ISBN 1841 85610 X.
 
@@ -828,41 +828,41 @@ Copies of the guidance “Assessing the Net capacity of Schools” referred to i
 
 [^f00005]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-45437043e24d1cc02ceff673102a553a]: Commencement: Reg. 3 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-45437043e24d1cc02ceff673102a553a]: Commencement: Reg. 3 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-a2820dbd44c3100e9fcb7d3030ea8680]: Commencement: Reg. 4 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-a2820dbd44c3100e9fcb7d3030ea8680]: Commencement: Reg. 4 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-4c136ac87942fd90a2f703a5749eafe9]: Commencement: Reg. 5 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-4c136ac87942fd90a2f703a5749eafe9]: Commencement: Reg. 5 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-7265a1e3def935804c68c382c5bd1163]: Commencement: Reg. 6 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-7265a1e3def935804c68c382c5bd1163]: Commencement: Reg. 6 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
 [^f00006]: Footnote: S.I. [1999/700](https://www.legislation.gov.uk/uksi/1999/700) to which there are amendments not relevant to these regulations.
 
-[^key-14ebcfc721030833081cd1648098d333]: Commencement: Reg. 7 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-14ebcfc721030833081cd1648098d333]: Commencement: Reg. 7 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-ebeddec97804a5d8964e1ec2ee6f0c91]: Commencement: Reg. 8 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-ebeddec97804a5d8964e1ec2ee6f0c91]: Commencement: Reg. 8 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-d665d984f5d78d1072fc02f7d6e4c0c4]: Commencement: Reg. 9 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-d665d984f5d78d1072fc02f7d6e4c0c4]: Commencement: Reg. 9 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-b533745a1778007a2c10ab147e1ce803]: Commencement: Reg. 10 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-b533745a1778007a2c10ab147e1ce803]: Commencement: Reg. 10 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-e86b21a84854204fca9410ebc1204e11]: Commencement: Reg. 11 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-e86b21a84854204fca9410ebc1204e11]: Commencement: Reg. 11 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-93d898999bb444a47724498bcb148f65]: Commencement: Reg. 12 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-93d898999bb444a47724498bcb148f65]: Commencement: Reg. 12 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-63f523bd82289c6ac7742281051600f9]: Commencement: Reg. 13 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-63f523bd82289c6ac7742281051600f9]: Commencement: Reg. 13 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-c09d7409db2ca1d3b4f11901a16d5eb4]: Commencement: Reg. 14 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-c09d7409db2ca1d3b4f11901a16d5eb4]: Commencement: Reg. 14 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-87615ee99680ebbd5259ef2a875d14d6]: Commencement: Reg. 15 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-87615ee99680ebbd5259ef2a875d14d6]: Commencement: Reg. 15 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-d684d04366720554bc17390011730ed6]: Commencement: Reg. 16 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-d684d04366720554bc17390011730ed6]: Commencement: Reg. 16 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-ce7dc030468a437f75a0db54c5b2722b]: Commencement: Reg. 17 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-ce7dc030468a437f75a0db54c5b2722b]: Commencement: Reg. 17 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-bc17bbede395c288c761e5fce5120ade]: Commencement: Reg. 18 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-bc17bbede395c288c761e5fce5120ade]: Commencement: Reg. 18 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-df4c1f5e8d17a47857614739246910a5]: Commencement: Reg. 19 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-df4c1f5e8d17a47857614739246910a5]: Commencement: Reg. 19 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
 [^f00007]: Footnote: Section 482 was substituted by section 65 of the Education Act 2002.
 
@@ -872,170 +872,170 @@ Copies of the guidance “Assessing the Net capacity of Schools” referred to i
 
 [^f00010]: Footnote: S.I. [2000/2872](https://www.legislation.gov.uk/uksi/2000/2872).
 
-[^key-02ba544eb048b5d59ac784ae5839881d]: Commencement: Reg. 20 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-02ba544eb048b5d59ac784ae5839881d]: Commencement: Reg. 20 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-6faf8ed656c0819a566e897b48c8a458]: Commencement: Reg. 21 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-6faf8ed656c0819a566e897b48c8a458]: Commencement: Reg. 21 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
 [^f00011]: Footnote: Paragraph 35(1)(d) of Schedule 7 was inserted by paragraph 13(2) of Schedule 10 to the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32).
 
 [^f00012]: Footnote: Paragraph 37(2A0 of Schedule 7 was inserted by paragraph 14 of Schedule 10 to the Education Act 2002.
 
-[^key-b00960b2c076ee0671b58196bbc3647c]: Commencement: Reg. 22 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-b00960b2c076ee0671b58196bbc3647c]: Commencement: Reg. 22 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-53e9239f382f727cdf58a21ea6e492b9]: Commencement: Reg. 23 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-53e9239f382f727cdf58a21ea6e492b9]: Commencement: Reg. 23 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
 [^f00013]: Footnote: S.I. [1999/1286](https://www.legislation.gov.uk/uksi/1999/1286). to which there are amendments not relevant to these regulations.
 
-[^key-19050634d095c74b54a2e47a7990b507]: Commencement: Reg. 24 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-19050634d095c74b54a2e47a7990b507]: Commencement: Reg. 24 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
 [^f00014]: Footnote: S.I. [1999/700](https://www.legislation.gov.uk/uksi/1999/700) to which there are amendments not relevant to these regulations.
 
-[^key-b440071af58486252cced43947a5f872]: Commencement: Reg. 25 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-b440071af58486252cced43947a5f872]: Commencement: Reg. 25 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-fc9d9ce887a841765d9ecc14ae593ee8]: Commencement: Reg. 26 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-fc9d9ce887a841765d9ecc14ae593ee8]: Commencement: Reg. 26 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-616f596815a23ca4182ffc7d11a507e3]: Commencement: Reg. 27 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-616f596815a23ca4182ffc7d11a507e3]: Commencement: Reg. 27 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-4153273bb71b2e87a5f8e549b7929ce5]: Commencement: Reg. 28 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-4153273bb71b2e87a5f8e549b7929ce5]: Commencement: Reg. 28 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-b1b4d5a68b3c7a920a5e4bacf9a511b7]: Commencement: Reg. 29 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-b1b4d5a68b3c7a920a5e4bacf9a511b7]: Commencement: Reg. 29 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
 [^f00015]: Footnote: [SI 1999/2020](https://www.legislation.gov.uk/uksi/1999/2020) to which there are amendments not relevant to these regulations.
 
-[^key-2c7232d8d0a088ecb67d3428b26d2d9a]: Commencement: Reg. 30 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-2c7232d8d0a088ecb67d3428b26d2d9a]: Commencement: Reg. 30 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
 [^f00016]: Footnote: S.I. [2001/798](https://www.legislation.gov.uk/uksi/2001/798).
 
-[^key-6568f0dae81ab2d0fd2ec1be75bf0ac2]: Commencement: Sch. 1 para. 1 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-6568f0dae81ab2d0fd2ec1be75bf0ac2]: Commencement: Sch. 1 para. 1 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-0d1fcbcbd2bbb6970b1e78b6940e4c65]: Commencement: Sch. 1 para. 2 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-0d1fcbcbd2bbb6970b1e78b6940e4c65]: Commencement: Sch. 1 para. 2 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-a0254b3f0540c19c9d6065dc393e48c5]: Commencement: Sch. 1 para. 3 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-a0254b3f0540c19c9d6065dc393e48c5]: Commencement: Sch. 1 para. 3 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-ec0553ccc140959b57d2fb6ae62446b3]: Commencement: Sch. 1 para. 4 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-ec0553ccc140959b57d2fb6ae62446b3]: Commencement: Sch. 1 para. 4 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-c0be816881aa7582ac7eaac3addcb99a]: Commencement: Sch. 1 para. 5 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-c0be816881aa7582ac7eaac3addcb99a]: Commencement: Sch. 1 para. 5 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-61d014b2086765271a3c9d66d948c800]: Commencement: Sch. 1 para. 6 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-61d014b2086765271a3c9d66d948c800]: Commencement: Sch. 1 para. 6 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-d4e9271428c8e2bf79a4992e98d8a481]: Commencement: Sch. 1 para. 7 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-d4e9271428c8e2bf79a4992e98d8a481]: Commencement: Sch. 1 para. 7 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-c437a6dea55c557134c71c3324372fc8]: Commencement: Sch. 1 para. 8 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-c437a6dea55c557134c71c3324372fc8]: Commencement: Sch. 1 para. 8 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-b3ab4e1b1e4600dc760f56bb3befab54]: Commencement: Sch. 1 para. 9 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-b3ab4e1b1e4600dc760f56bb3befab54]: Commencement: Sch. 1 para. 9 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-5b57da838bab568b5684134e841c2ec7]: Commencement: Sch. 1 para. 10 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-5b57da838bab568b5684134e841c2ec7]: Commencement: Sch. 1 para. 10 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-b359ce299e8a39dbdb88ac6487374eae]: Commencement: Sch. 1 para. 11 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-b359ce299e8a39dbdb88ac6487374eae]: Commencement: Sch. 1 para. 11 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-6e57c220bd9a39db0bb9bb449b39d583]: Commencement: Sch. 1 para. 12 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-6e57c220bd9a39db0bb9bb449b39d583]: Commencement: Sch. 1 para. 12 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-cad26649461d7b6b56c6f4f579008198]: Commencement: Sch. 2 para. 1 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-cad26649461d7b6b56c6f4f579008198]: Commencement: Sch. 2 para. 1 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-f226ff26754e5dbf1c72eb426b4fdbb1]: Commencement: Sch. 2 para. 2 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-f226ff26754e5dbf1c72eb426b4fdbb1]: Commencement: Sch. 2 para. 2 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-af5fc5eff298492308319e33980d05e3]: Commencement: Sch. 2 para. 3 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-af5fc5eff298492308319e33980d05e3]: Commencement: Sch. 2 para. 3 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-1ccf169a0556f2a6b737059bbf1ffbcb]: Commencement: Sch. 2 para. 4 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-1ccf169a0556f2a6b737059bbf1ffbcb]: Commencement: Sch. 2 para. 4 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-61199caf756929a702eec2f45a575aee]: Commencement: Sch. 2 para. 5 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-61199caf756929a702eec2f45a575aee]: Commencement: Sch. 2 para. 5 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-651a720b64b1d5f091f9c26aeef47650]: Commencement: Sch. 2 para. 6 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-651a720b64b1d5f091f9c26aeef47650]: Commencement: Sch. 2 para. 6 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-849626757c22c1e7bc7128b19cb209c9]: Commencement: Sch. 2 para. 7 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-849626757c22c1e7bc7128b19cb209c9]: Commencement: Sch. 2 para. 7 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-0ca0ce9b00f742916bbffbf315ddab51]: Commencement: Sch. 2 para. 8 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-0ca0ce9b00f742916bbffbf315ddab51]: Commencement: Sch. 2 para. 8 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-66895631cfaad63a9e044de4385aff15]: Commencement: Sch. 2 para. 9 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-66895631cfaad63a9e044de4385aff15]: Commencement: Sch. 2 para. 9 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-44943b7e90b224ccfd0d6b3c960ec189]: Commencement: Sch. 2 para. 10 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-44943b7e90b224ccfd0d6b3c960ec189]: Commencement: Sch. 2 para. 10 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-896bc8197c440044fa2c1a3766d3c207]: Commencement: Sch. 3 para. 1 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-896bc8197c440044fa2c1a3766d3c207]: Commencement: Sch. 3 para. 1 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
 [^f00017]: Footnote: section 89 was amended by paragraph 5 of Schedule 4 to the Education Act 2002.
 
-[^key-6f1fa4d7516b8348e84c106681614cf0]: Commencement: Sch. 3 para. 2 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-6f1fa4d7516b8348e84c106681614cf0]: Commencement: Sch. 3 para. 2 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-a756291544c0f8d2602d48cca01105e4]: Commencement: Sch. 3 para. 3 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-a756291544c0f8d2602d48cca01105e4]: Commencement: Sch. 3 para. 3 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-a8947d82c782e9e6708a325b9ce154fe]: Commencement: Sch. 3 para. 4 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-a8947d82c782e9e6708a325b9ce154fe]: Commencement: Sch. 3 para. 4 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-be9954b89b4de8bf507228f3c646fffd]: Commencement: Sch. 3 para. 5 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-be9954b89b4de8bf507228f3c646fffd]: Commencement: Sch. 3 para. 5 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-e18b659d7f81e1583d5447f8d15e89fe]: Commencement: Sch. 3 para. 6 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-e18b659d7f81e1583d5447f8d15e89fe]: Commencement: Sch. 3 para. 6 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-c051ea735afb7252617482cf7673b6cc]: Commencement: Sch. 3 para. 7 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-c051ea735afb7252617482cf7673b6cc]: Commencement: Sch. 3 para. 7 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
 [^f00018]: Footnote: [1996 c. 57](https://www.legislation.gov.uk/ukpga/1996/57).
 
-[^key-a31278642994aed2561847a667d89b88]: Commencement: Sch. 3 para. 8 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-a31278642994aed2561847a667d89b88]: Commencement: Sch. 3 para. 8 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-ca82367a05997b3e2c3b9a54da6dda4b]: Commencement: Sch. 3 para. 9 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-ca82367a05997b3e2c3b9a54da6dda4b]: Commencement: Sch. 3 para. 9 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-3434bf48aa68d00ad5f06d628a4ea866]: Commencement: Sch. 3 para. 10 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-3434bf48aa68d00ad5f06d628a4ea866]: Commencement: Sch. 3 para. 10 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-272c7c5fe3e8cbacb8a735b5dc3fbafa]: Commencement: Sch. 3 para. 11 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-272c7c5fe3e8cbacb8a735b5dc3fbafa]: Commencement: Sch. 3 para. 11 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-f507e91bda6da6dba32de6e0e7aed39a]: Commencement: Sch. 3 para. 12 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-f507e91bda6da6dba32de6e0e7aed39a]: Commencement: Sch. 3 para. 12 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-9bb644a85f0fc3c3bae87b61d81e5b5d]: Commencement: Sch. 3 para. 13 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-9bb644a85f0fc3c3bae87b61d81e5b5d]: Commencement: Sch. 3 para. 13 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-9f536a821e1ace5139f5049d39f7ef1d]: Commencement: Sch. 3 para. 14 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-9f536a821e1ace5139f5049d39f7ef1d]: Commencement: Sch. 3 para. 14 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-c323888b4adc5cc5e59b2fcb75d1a6d0]: Commencement: Sch. 3 para. 15 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-c323888b4adc5cc5e59b2fcb75d1a6d0]: Commencement: Sch. 3 para. 15 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-acab4aad7ec19b8333b5cdc80ff5e2da]: Commencement: Sch. 3 para. 16 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-acab4aad7ec19b8333b5cdc80ff5e2da]: Commencement: Sch. 3 para. 16 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-84a521e185729072f52eec450b4e1090]: Commencement: Sch. 3 para. 17 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-84a521e185729072f52eec450b4e1090]: Commencement: Sch. 3 para. 17 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-7809769f5fca4954ed5a83000d9eaf99]: Commencement: Sch. 3 para. 18 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-7809769f5fca4954ed5a83000d9eaf99]: Commencement: Sch. 3 para. 18 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-77d56d3359d943aceec3bbc380abbb68]: Commencement: Sch. 3 para. 19 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-77d56d3359d943aceec3bbc380abbb68]: Commencement: Sch. 3 para. 19 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-cfa77e9fa11d83e1784de3a92a263803]: Commencement: Sch. 3 para. 20 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-cfa77e9fa11d83e1784de3a92a263803]: Commencement: Sch. 3 para. 20 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-98382a1442b408938918ed6fb6010805]: Commencement: Sch. 3 para. 21 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-98382a1442b408938918ed6fb6010805]: Commencement: Sch. 3 para. 21 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-3ed1af62be3408896e872f9e8216eea2]: Commencement: Sch. 3 para. 22 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-3ed1af62be3408896e872f9e8216eea2]: Commencement: Sch. 3 para. 22 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-ed30215ed664f32b31e1f3403e78bebc]: Commencement: Sch. 3 para. 23 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-ed30215ed664f32b31e1f3403e78bebc]: Commencement: Sch. 3 para. 23 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-fe1916bd0737cdb15e9511217c25c98b]: Commencement: Sch. 3 para. 24 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-fe1916bd0737cdb15e9511217c25c98b]: Commencement: Sch. 3 para. 24 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-ce6b1cb6b940ba1941b2a11217d889bc]: Commencement: Sch. 3 para. 25 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-ce6b1cb6b940ba1941b2a11217d889bc]: Commencement: Sch. 3 para. 25 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-5dc8316c82ca292421227b973b37a942]: Commencement: Sch. 3 para. 26 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-5dc8316c82ca292421227b973b37a942]: Commencement: Sch. 3 para. 26 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-7528984c9240ae19efa8375a88240055]: Commencement: Sch. 3 para. 27 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-7528984c9240ae19efa8375a88240055]: Commencement: Sch. 3 para. 27 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-b1d56b1405f6b683f8c5d8c748cec975]: Commencement: Sch. 3 para. 28 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-b1d56b1405f6b683f8c5d8c748cec975]: Commencement: Sch. 3 para. 28 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-63dbfacaada397f60ad13605e253cb27]: Commencement: Sch. 3 para. 29 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-63dbfacaada397f60ad13605e253cb27]: Commencement: Sch. 3 para. 29 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-224db33bc0cb5f1ca8a6158ffe73efb7]: Commencement: Sch. 3 para. 30 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-224db33bc0cb5f1ca8a6158ffe73efb7]: Commencement: Sch. 3 para. 30 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-c6afc728df119dfc365c93b5c4cbc19d]: Commencement: Sch. 3 para. 31 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-c6afc728df119dfc365c93b5c4cbc19d]: Commencement: Sch. 3 para. 31 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-bbb8fd3608039aebf4311c14ad32ae95]: Commencement: Sch. 3 para. 32 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-bbb8fd3608039aebf4311c14ad32ae95]: Commencement: Sch. 3 para. 32 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-f8e47b1e338e6e50c49ca2462ac40690]: Commencement: Sch. 3 para. 33 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-f8e47b1e338e6e50c49ca2462ac40690]: Commencement: Sch. 3 para. 33 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-8bb0b33f78c898162fe92939f8e2b36b]: Commencement: Sch. 4 para. 1 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-8bb0b33f78c898162fe92939f8e2b36b]: Commencement: Sch. 4 para. 1 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-2e6d52559d8f3b6fc0cd86ae175df632]: Commencement: Sch. 4 para. 2 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-2e6d52559d8f3b6fc0cd86ae175df632]: Commencement: Sch. 4 para. 2 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-9bd422dcfbc0a7aca98423caf94dd4a4]: Commencement: Sch. 4 para. 3 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-9bd422dcfbc0a7aca98423caf94dd4a4]: Commencement: Sch. 4 para. 3 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-d799a06c7f1dd335d90e67bfd056eb0e]: Commencement: Sch. 4 para. 4 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-d799a06c7f1dd335d90e67bfd056eb0e]: Commencement: Sch. 4 para. 4 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-c6bee95a193a33b9540613be069a12b1]: Commencement: Sch. 4 para. 5 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-c6bee95a193a33b9540613be069a12b1]: Commencement: Sch. 4 para. 5 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-908ee407920863f96920ec8399b243f0]: Commencement: Sch. 4 para. 6 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-908ee407920863f96920ec8399b243f0]: Commencement: Sch. 4 para. 6 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-dd8855c11ea3b5080e884c0248cbbfb2]: Commencement: Sch. 4 para. 7 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-dd8855c11ea3b5080e884c0248cbbfb2]: Commencement: Sch. 4 para. 7 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-d2e61db03250af10144aea0e1f6b175e]: Commencement: Sch. 5 para. 1 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-d2e61db03250af10144aea0e1f6b175e]: Commencement: Sch. 5 para. 1 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-b0438f7c26326a9b85ca15c095728002]: Commencement: Sch. 5 para. 2 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-b0438f7c26326a9b85ca15c095728002]: Commencement: Sch. 5 para. 2 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
 
-[^key-89a011614aa6807a7d47644419b9a9f0]: Commencement: Sch. 5 para. 3 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)
+[^c-89a011614aa6807a7d47644419b9a9f0]: Commencement: Sch. 5 para. 3 in force at 1.4.2003, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/507/regulation/1)

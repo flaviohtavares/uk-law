@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Review of regulatory regime[^key-4a537ba34b3cbe1298a81ea383c1e73c]
+## 162. Review of regulatory regime[^c-4a537ba34b3cbe1298a81ea383c1e73c]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a537ba34b3cbe1298a81ea383c1e73c]: Commencement: S. 162 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)
+[^c-4a537ba34b3cbe1298a81ea383c1e73c]: Commencement: S. 162 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)

@@ -20,19 +20,19 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-395477c403f529ef667f260fb5bb8ee0] A local election year as respects any district council is 2014 and 2019 and every fourth year thereafter.
+(1)[^c-395477c403f529ef667f260fb5bb8ee0] A local election year as respects any district council is 2014 and 2019 and every fourth year thereafter.
 
 (1A) The election day as respects any district council is—
 
 - (a) in the year 2014, 22nd May;
-- (aa)[^key-f42f8af3371eb114fe60491d1b2ea73d] in the year 2023, 18th May;
+- (aa)[^c-f42f8af3371eb114fe60491d1b2ea73d] in the year 2023, 18th May;
 - (b) in any other local election year, the first Thursday in May.
 
 (2) The members of a district council—
 
 - (a) shall be elected in every local election year;
 - (b) shall come into office on the fourth day after[^c18656531] the election day;
-- (c)[^key-9f1faa37498880743d08e89c8380a3d9] shall retire together on the fourth day after the election day in the next succeeding local election year.
+- (c)[^c-9f1faa37498880743d08e89c8380a3d9] shall retire together on the fourth day after the election day in the next succeeding local election year.
 
 (3) If the poll at an election in any district electoral area is countermanded or abandoned by reason of a candidate's death[^c18656491], the provisions of subsection (2) relating to the retirement of members shall have effect as if the election had not been countermanded or the poll adjourned but had been proceeded with and completed.
 
@@ -76,13 +76,13 @@ shall, if it arises[^c21915061] in any local election year on or after the first
 
 [^c18656471]: Textual amendment: [1972 NI 13](https://www.legislation.gov.uk/1972/ni13)
 
-[^key-395477c403f529ef667f260fb5bb8ee0]: Textual amendment: [S. 11(1)](https://www.legislation.gov.uk/apni/1962/14/section/11/1)[(1A)](https://www.legislation.gov.uk/apni/1962/14/section/11/1A) substituted (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/3156/article/3/2)
+[^c-395477c403f529ef667f260fb5bb8ee0]: Textual amendment: [S. 11(1)](https://www.legislation.gov.uk/apni/1962/14/section/11/1)[(1A)](https://www.legislation.gov.uk/apni/1962/14/section/11/1A) substituted (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/3156/article/3/2)
 
-[^key-f42f8af3371eb114fe60491d1b2ea73d]: Textual amendment: [S. 11(1A)(aa)](https://www.legislation.gov.uk/apni/1962/14/section/11/1A/aa) inserted (9.3.2023) by [The Postponement of Local Elections (Northern Ireland) Order 2023 (S.I. 2023/290)](https://www.legislation.gov.uk/uksi/2023/290), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/290/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/290/article/2/2)
+[^c-f42f8af3371eb114fe60491d1b2ea73d]: Textual amendment: [S. 11(1A)(aa)](https://www.legislation.gov.uk/apni/1962/14/section/11/1A/aa) inserted (9.3.2023) by [The Postponement of Local Elections (Northern Ireland) Order 2023 (S.I. 2023/290)](https://www.legislation.gov.uk/uksi/2023/290), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/290/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/290/article/2/2)
 
 [^c18656531]: Textual amendment: [1992 NI 6](https://www.legislation.gov.uk/1992/ni6)
 
-[^key-9f1faa37498880743d08e89c8380a3d9]: Modification: [S. 11(2)(c)](https://www.legislation.gov.uk/apni/1962/14/section/11/2/c) excluded (2.6.2014 for specified purposes) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 1 para. 13(1)(b)](https://www.legislation.gov.uk/nia/2014/8/schedule/1/paragraph/13/1/b) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-9f1faa37498880743d08e89c8380a3d9]: Modification: [S. 11(2)(c)](https://www.legislation.gov.uk/apni/1962/14/section/11/2/c) excluded (2.6.2014 for specified purposes) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 1 para. 13(1)(b)](https://www.legislation.gov.uk/nia/2014/8/schedule/1/paragraph/13/1/b) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
 [^c18656491]: Textual amendment: SI 1985/454
 

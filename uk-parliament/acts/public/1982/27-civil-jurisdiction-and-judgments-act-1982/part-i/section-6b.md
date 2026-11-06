@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6B. Applications to set aside decisions on registration of judgments under the 2005 Hague Convention[^key-4e9a974453115699572538f1bf35daff]
+## 6B. Applications to set aside decisions on registration of judgments under the 2005 Hague Convention[^c-4e9a974453115699572538f1bf35daff]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e9a974453115699572538f1bf35daff]: Textual amendment: [S. 6B](https://www.legislation.gov.uk/ukpga/1982/27/section/6B) substituted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 8](https://www.legislation.gov.uk/uksi/2024/713/regulation/8) (with [reg. 20](https://www.legislation.gov.uk/uksi/2024/713/regulation/20))
+[^c-4e9a974453115699572538f1bf35daff]: Textual amendment: [S. 6B](https://www.legislation.gov.uk/ukpga/1982/27/section/6B) substituted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Recognition and Enforcement of Judgments (2019 Hague Convention etc.) Regulations 2024 (S.I. 2024/713)](https://www.legislation.gov.uk/uksi/2024/713), [reg. 8](https://www.legislation.gov.uk/uksi/2024/713/regulation/8) (with [reg. 20](https://www.legislation.gov.uk/uksi/2024/713/regulation/20))

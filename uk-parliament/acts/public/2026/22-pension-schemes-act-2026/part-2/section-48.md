@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Interpretation of Chapter[^key-f7688915527a1d8918edbda1329e3236]
+## 48. Interpretation of Chapter[^c-f7688915527a1d8918edbda1329e3236]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7688915527a1d8918edbda1329e3236]: Commencement: S. 48 not in force at Royal Assent, see [s. 133(4)(d)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/d)
+[^c-f7688915527a1d8918edbda1329e3236]: Commencement: S. 48 not in force at Royal Assent, see [s. 133(4)(d)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/d)

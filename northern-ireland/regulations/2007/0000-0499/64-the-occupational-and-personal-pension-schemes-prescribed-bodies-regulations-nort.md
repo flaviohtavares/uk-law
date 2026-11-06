@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 8A(4) and (5), 23(3), 93(1) and (2), 97AF(1) and (2), 97I, 97L(1), 109(1) and (3A), 177(2) to (4) and 178 of the Pension Schemes (Northern Ireland) Act 1993[^f00001], Articles 67D(4) and (5), 75(5), 116 and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002], Articles 21(1)(b) and (c) and (2) and 27(2) of, and paragraphs 5(b), 7(3) and 13 of Schedule 5 to, the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00003], and now vested in it[^f00004], and Article 209(2) and (3) of the Pensions (Northern Ireland) Order 2005[^f00005].
 
-## 1. Citation and commencement[^key-c246f15dff498211288281780f929a1b]
+## 1. Citation and commencement[^c-c246f15dff498211288281780f929a1b]
 
 These Regulations may be cited as the Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations (Northern Ireland) 2007 and shall come into operation on 6th April 2007.
 
-## 2. Amendment of Regulations[^key-abc48e3fcd3f1be4056d604d5e5b4705]
+## 2. Amendment of Regulations[^c-abc48e3fcd3f1be4056d604d5e5b4705]
 
 The Schedule shall have effect.
 
@@ -61,16 +61,16 @@ A senior officer of the Department for Social Development
 
 Regulation 2
 
-**1.**[^key-ee08b24a5fbe05ec02fb53da43b84a80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ee08b24a5fbe05ec02fb53da43b84a80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.**[^M_F_7b1e329e-88e3-4196-e6db-5ef2c0177822] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a2f2e5998d39735e595d7186da4e1f46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a2f2e5998d39735e595d7186da4e1f46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2fb6bcc3c6618420ecc79bb7db78c432] In the Occupational Pension Schemes (Deficiency on Winding Up, etc.) Regulations (Northern Ireland) 1996[^f00013]—
+**4.**[^c-2fb6bcc3c6618420ecc79bb7db78c432] In the Occupational Pension Schemes (Deficiency on Winding Up, etc.) Regulations (Northern Ireland) 1996[^f00013]—
 
 - (a) in regulation 2 (interpretation)—
-  - (i)[^key-02a4475ccdc069b439c401d93d1d256d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-02a4475ccdc069b439c401d93d1d256d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) for paragraph (5) substitute—
 
     > (5) In these Regulations references to the guidance in GN 19 are to the guidelines on winding up and scheme asset deficiency (GN 19), adopted or prepared, and from time to time revised, by the Board for Actuarial Standards and approved for the purposes of these Regulations by the Department, with such revisions as have been so approved at the applicable time.
@@ -80,11 +80,11 @@ Regulation 2
 
 **5.**[^M_F_a268b83b-5b05-46f9-bd2b-6f5057d2873d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1464edbf95e07debcb3a54cdc0bee6f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1464edbf95e07debcb3a54cdc0bee6f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.**[^M_F_1e541b04-c41e-4c78-a76a-3dcf0b7bc4a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-21805c897e4d923ccdf6f4020f8237c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-21805c897e4d923ccdf6f4020f8237c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.**[^M_F_fe27a4ea-cacc-4840-9587-c6d7d82a80b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -94,17 +94,17 @@ Regulation 2
 
 **12.**[^M_F_db650143-6e04-4076-87d9-3afcb51b6f1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-16a50d311f441ddc5d51ace31e1f025a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-16a50d311f441ddc5d51ace31e1f025a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-74da9a6df028cec1e8e005feb0610bc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-74da9a6df028cec1e8e005feb0610bc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-4e49b4c5fa4bcd9e1c9dbfdb651af262] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-4e49b4c5fa4bcd9e1c9dbfdb651af262] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.**[^M_F_73c14764-afb6-4de7-ad44-269cc49c24e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-d609a9109e5fe23bd929d0812cbd3607] In the Occupational Pension Schemes (Modification of Schemes) Regulations (Northern Ireland) 2006[^f00037]—
+**17.**[^c-d609a9109e5fe23bd929d0812cbd3607] In the Occupational Pension Schemes (Modification of Schemes) Regulations (Northern Ireland) 2006[^f00037]—
 
-- (a)[^key-0d56d5938188951aec59a9a3a29905cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-0d56d5938188951aec59a9a3a29905cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for regulation 5(2)(b) (calculation of the actuarial value of affected member’s subsisting rights) substitute—
 
   > - (b) shall ensure that the calculation of the actuarial value of an affected member’s subsisting rights is made in accordance with any guidance that is adopted or prepared, and from time to time revised, by the Board for Actuarial Standards which is current on the date that the actuarial equivalence statement is obtained by the trustees;
@@ -133,31 +133,31 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00005]: Footnote: [S.1. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-c246f15dff498211288281780f929a1b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/64/regulation/1) in operation at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/64/regulation/1)
+[^c-c246f15dff498211288281780f929a1b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/64/regulation/1) in operation at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/64/regulation/1)
 
-[^key-abc48e3fcd3f1be4056d604d5e5b4705]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/64/regulation/2) in operation at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/64/regulation/1)
+[^c-abc48e3fcd3f1be4056d604d5e5b4705]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/64/regulation/2) in operation at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/64/regulation/1)
 
-[^key-ee08b24a5fbe05ec02fb53da43b84a80]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/1) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
+[^c-ee08b24a5fbe05ec02fb53da43b84a80]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/1) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
 
 [^M_F_7b1e329e-88e3-4196-e6db-5ef2c0177822]: Textual amendment: Sch. para. 2 revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2008/370/schedule/3)
 
-[^key-a2f2e5998d39735e595d7186da4e1f46]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/3) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
+[^c-a2f2e5998d39735e595d7186da4e1f46]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/3) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
 
-[^key-2fb6bcc3c6618420ecc79bb7db78c432]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/4) in operation at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/64/regulation/1)
+[^c-2fb6bcc3c6618420ecc79bb7db78c432]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/4) in operation at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/64/regulation/1)
 
 [^f00013]: Footnote: [S.R. 1996 No. 585](https://www.legislation.gov.uk/nisr/1996/585); relevant amending Regulations are [S.R. 2002 No. 64](https://www.legislation.gov.uk/nisr/2002/64) and [S.R. 2005 No. 20](https://www.legislation.gov.uk/nisr/2005/20); *see also* [S.R. 2005 No. 168](https://www.legislation.gov.uk/nisr/2005/168)
 
-[^key-02a4475ccdc069b439c401d93d1d256d]: Textual amendment: [Sch. para. 4(a)(i)](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/4/a/i) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
+[^c-02a4475ccdc069b439c401d93d1d256d]: Textual amendment: [Sch. para. 4(a)(i)](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/4/a/i) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
 
 [^f00014]: Footnote: Schedule 1 was amended by regulation 3(4) of [S.R. 2002 No. 64](https://www.legislation.gov.uk/nisr/2002/64) and regulation 3(5) of [S.R. 2005 No. 20](https://www.legislation.gov.uk/nisr/2005/20)
 
 [^M_F_a268b83b-5b05-46f9-bd2b-6f5057d2873d]: Textual amendment: Sch. para. 5 revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2008/370/schedule/3)
 
-[^key-1464edbf95e07debcb3a54cdc0bee6f1]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/6) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
+[^c-1464edbf95e07debcb3a54cdc0bee6f1]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/6) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
 
 [^M_F_1e541b04-c41e-4c78-a76a-3dcf0b7bc4a3]: Textual amendment: Sch. para. 7 revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2008/370/schedule/3)
 
-[^key-21805c897e4d923ccdf6f4020f8237c0]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/8) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
+[^c-21805c897e4d923ccdf6f4020f8237c0]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/8) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
 
 [^M_F_fe27a4ea-cacc-4840-9587-c6d7d82a80b5]: Textual amendment: Sch. paras. 9-12 revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2008/370/schedule/3)
 
@@ -167,16 +167,16 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^M_F_db650143-6e04-4076-87d9-3afcb51b6f1a]: Textual amendment: Sch. paras. 9-12 revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2008/370/schedule/3)
 
-[^key-16a50d311f441ddc5d51ace31e1f025a]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/13) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
+[^c-16a50d311f441ddc5d51ace31e1f025a]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/13) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
 
-[^key-74da9a6df028cec1e8e005feb0610bc1]: Textual amendment: [Sch. para. 14](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/14) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
+[^c-74da9a6df028cec1e8e005feb0610bc1]: Textual amendment: [Sch. para. 14](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/14) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
 
-[^key-4e49b4c5fa4bcd9e1c9dbfdb651af262]: Textual amendment: [Sch. para. 15](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/15) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
+[^c-4e49b4c5fa4bcd9e1c9dbfdb651af262]: Textual amendment: [Sch. para. 15](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/15) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
 
 [^M_F_73c14764-afb6-4de7-ad44-269cc49c24e9]: Textual amendment: Sch. para. 16 revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2008/370/schedule/3)
 
-[^key-d609a9109e5fe23bd929d0812cbd3607]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/17) in operation at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/64/regulation/1)
+[^c-d609a9109e5fe23bd929d0812cbd3607]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/17) in operation at 6.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/64/regulation/1)
 
 [^f00037]: Footnote: [S.R. 2006 No. 149](https://www.legislation.gov.uk/nisr/2006/149)
 
-[^key-0d56d5938188951aec59a9a3a29905cb]: Textual amendment: [Sch. para. 17(a)](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/17/a) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)
+[^c-0d56d5938188951aec59a9a3a29905cb]: Textual amendment: [Sch. para. 17(a)](https://www.legislation.gov.uk/nisr/2007/64/schedule/paragraph/17/a) revoked (9.8.2012) by [The Pensions (Financial Reporting Council) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/294)](https://www.legislation.gov.uk/nisr/2012/294), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/294/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2012/294/regulation/3/a)

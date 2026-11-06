@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Jury service[^key-93f1d264378cb8fe6ec85e608f70c5e4]
+## 99. Jury service[^c-93f1d264378cb8fe6ec85e608f70c5e4]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93f1d264378cb8fe6ec85e608f70c5e4]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2014/18/section/99) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-93f1d264378cb8fe6ec85e608f70c5e4]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2014/18/section/99) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

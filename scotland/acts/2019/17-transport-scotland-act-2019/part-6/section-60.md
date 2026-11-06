@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Power to install approved devices[^key-29265570c4a1e94c2380cbb0dcba97ab]
+## 60. Power to install approved devices[^c-29265570c4a1e94c2380cbb0dcba97ab]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29265570c4a1e94c2380cbb0dcba97ab]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2019/17/section/60) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-29265570c4a1e94c2380cbb0dcba97ab]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2019/17/section/60) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.6. Hearing of application[^key-06e677dfdf156dfcc05c4d25d7ea430d]
+## 7.6. Hearing of application[^c-06e677dfdf156dfcc05c4d25d7ea430d]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ the jurisdiction of the court to hear and determine the application may be exerc
 
 ## Annotations
 
-[^key-06e677dfdf156dfcc05c4d25d7ea430d]: Commencement: [Rule 7.6](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.6) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-06e677dfdf156dfcc05c4d25d7ea430d]: Commencement: [Rule 7.6](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.6) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

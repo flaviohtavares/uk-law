@@ -34,8 +34,8 @@ summary: ''
 
 (4) But the following provisions of this section apply instead of subsection (3) in the case of—
 
-- (zza)[^key-b5fba00c64a146d5a61b278ed712820c] regulations under section 127A(9) which have the effect of adding to the class of bets falling with the definition of “remote bet”;
-- (za)[^key-87d30aa9ec46c6200564edfe08ce17f9] regulations under section 159(6);
+- (zza)[^c-b5fba00c64a146d5a61b278ed712820c] regulations under section 127A(9) which have the effect of adding to the class of bets falling with the definition of “remote bet”;
+- (za)[^c-87d30aa9ec46c6200564edfe08ce17f9] regulations under section 159(6);
 - (a) regulations under section 161(5) which have the effect of adding to the class of activities in respect of which remote gaming duty is chargeable;
 - (b) regulations under section 169(1) which have the effect of increasing the amount of duty that is chargeable in any case;
 - (c) regulations under section 186(2) which have the effect of adding to the class of persons falling within the definition of “UK person”;
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5fba00c64a146d5a61b278ed712820c]: Textual amendment: [S. 194(4)(zza)](https://www.legislation.gov.uk/ukpga/2014/26/section/194/4/zza) inserted (for accounting periods beginning on or after 1.4.2027) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 87(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/6)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/7) (with [s. 87(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/8)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/9))
+[^c-b5fba00c64a146d5a61b278ed712820c]: Textual amendment: [S. 194(4)(zza)](https://www.legislation.gov.uk/ukpga/2014/26/section/194/4/zza) inserted (for accounting periods beginning on or after 1.4.2027) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 87(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/6)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/7) (with [s. 87(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/8)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/9))
 
-[^key-87d30aa9ec46c6200564edfe08ce17f9]: Textual amendment: [S. 194(4)(za)](https://www.legislation.gov.uk/ukpga/2014/26/section/194/4/za) inserted (with effect in accordance with s. 46(9) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(8)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/8)
+[^c-87d30aa9ec46c6200564edfe08ce17f9]: Textual amendment: [S. 194(4)(za)](https://www.legislation.gov.uk/ukpga/2014/26/section/194/4/za) inserted (with effect in accordance with s. 46(9) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(8)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/8)

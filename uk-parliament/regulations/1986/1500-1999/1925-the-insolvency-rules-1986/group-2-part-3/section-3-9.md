@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.9. Procedure for summoning meeting under s.48(2)[^key-bf5f0b377c74ae6b44afef6fc6d43fc6]
+## 3.9. Procedure for summoning meeting under s.48(2)[^c-bf5f0b377c74ae6b44afef6fc6d43fc6]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf5f0b377c74ae6b44afef6fc6d43fc6]: Commencement: [Rule 3.9](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.9) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-bf5f0b377c74ae6b44afef6fc6d43fc6]: Commencement: [Rule 3.9](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.9) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00027]: Marginal citation: \[FORM 8.3\]

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238. Enforcement of fisheries legislation[^key-a55a064fbcf8e7d6f29c229167a16133][^key-1bfa4227c64dde591f6b0af2be71c0ba][^key-b58363f50fe2ed6a75c306eab542a8dd][^key-9122ac1746b0b56aed4495880f984c9f][^M_C_09bc69be-6001-4e79-e52d-8070530b03ed][^M_C_28a16c6c-8858-41cf-cc38-1c7e5a1dc4ab]
+## 238. Enforcement of fisheries legislation[^c-a55a064fbcf8e7d6f29c229167a16133][^c-1bfa4227c64dde591f6b0af2be71c0ba][^c-b58363f50fe2ed6a75c306eab542a8dd][^c-9122ac1746b0b56aed4495880f984c9f][^M_C_09bc69be-6001-4e79-e52d-8070530b03ed][^M_C_28a16c6c-8858-41cf-cc38-1c7e5a1dc4ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,16 +28,16 @@ summary: ''
 (2) In this section “**the fisheries legislation**” means—
 
 - (a) any enactments relating to sea fishing, including any enactment relating to fishing for shellfish, salmon or migratory trout (but see subsection (3));
-- (b) any assimilated[^key-f5dd58f04b46c8357b40589a847cd56d][^key-6a1cbcd7091bdc35740155581471ee33] restriction or assimilated obligation relating to sea fishing.
+- (b) any assimilated[^c-f5dd58f04b46c8357b40589a847cd56d][^c-6a1cbcd7091bdc35740155581471ee33] restriction or assimilated obligation relating to sea fishing.
 
 (3) “**The fisheries legislation**” does not include—
 
 - (a) the Salmon and Freshwater Fisheries Act 1975 (c. 51);
 - (b) the Salmon Act 1986 (c. 62);
 - (c) byelaws made by the Environment Agency under Schedule 25 to the Water Resources Act 1991 (c. 57);
-- (ca)[^key-ce1563772ba4cddaaa05b0f9efd8993a] byelaws made by the Natural Resources Body for Wales under Schedule 25 to the Water Resources Act 1991;
+- (ca)[^c-ce1563772ba4cddaaa05b0f9efd8993a] byelaws made by the Natural Resources Body for Wales under Schedule 25 to the Water Resources Act 1991;
 - (d) the Scotland Act 1998 (Border Rivers) Order 1999 (S.I. 1999/1746);
-- (da)[^key-f4720509c0a24f70b1f62fdf7c016832] any byelaws made under section 129A, 129B or 132(1A);
+- (da)[^c-f4720509c0a24f70b1f62fdf7c016832] any byelaws made under section 129A, 129B or 132(1A);
 - (db) any orders made under section 134A, 134B, 136(1A), 137A, 137C, 137E or 137G;
 - (e) byelaws made by an inshore fisheries and conservation authority under section 155.
 
@@ -71,7 +71,7 @@ changes during the course of the pursuit.
 
 (10) In this section—
 
-- “[^key-26cd6f2cd3453394fdc98216318d4f23]**assimilated restriction**” means a restriction that—
+- “[^c-26cd6f2cd3453394fdc98216318d4f23]**assimilated restriction**” means a restriction that—
   - (a) was created or arose by or under the EU Treaties before IP completion day, and
   - (b) forms part of assimilated law,
 
@@ -81,41 +81,41 @@ changes during the course of the pursuit.
   - (b) is wholly owned by persons qualified to own British ships for the purposes of that Part,
   - (c) is, as a Government ship, registered in the United Kingdom in pursuance of an Order in Council under section 308 of that Act, or
   - (d) is a British warship;
-- [^key-1e92f1d099e15a92a65ea706012b39bb]...
-- [^key-1e92f1d099e15a92a65ea706012b39bb]...
+- [^c-1e92f1d099e15a92a65ea706012b39bb]...
+- [^c-1e92f1d099e15a92a65ea706012b39bb]...
 - “**Government ship**” has the same meaning as in the Merchant Shipping Act 1995 (c. 21);
 - “**relevant British fishing boat**” means a fishing boat, other than a Scottish or Northern Ireland fishing boat, which—
   - (a) is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995, or
   - (b) is wholly owned by persons qualified to own British ships for the purposes of that Part;
-- [^key-e30d5615da734e6b7ecbabb1ae67e8af]...
+- [^c-e30d5615da734e6b7ecbabb1ae67e8af]...
 - “**the relevant enforcement area**” means the area that consists of—
   - (a) England and Wales, and
   - (b) the sea within British fishery limits, excluding the Scottish zone and the Northern Ireland zone.
 
 ## Annotations
 
-[^key-a55a064fbcf8e7d6f29c229167a16133]: Commencement: S. 238 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/18)
+[^c-a55a064fbcf8e7d6f29c229167a16133]: Commencement: S. 238 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/18)
 
-[^key-1bfa4227c64dde591f6b0af2be71c0ba]: Modification: S. 238 applied (E.) (31.10.2015) by [The Grants for Fishing and Aquaculture Industries Regulations 2015 (S.I. 2015/1711)](https://www.legislation.gov.uk/uksi/2015/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/14/1)
+[^c-1bfa4227c64dde591f6b0af2be71c0ba]: Modification: S. 238 applied (E.) (31.10.2015) by [The Grants for Fishing and Aquaculture Industries Regulations 2015 (S.I. 2015/1711)](https://www.legislation.gov.uk/uksi/2015/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/14/1)
 
-[^key-b58363f50fe2ed6a75c306eab542a8dd]: Modification: S. 238 applied (E.W.) (27.7.2021) by [The Fisheries Act 2020 (Scheme for Financial Assistance) (England) Regulations 2021 (S.I. 2021/908)](https://www.legislation.gov.uk/uksi/2021/908), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/908/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2021/908/regulation/14/2)[(3)](https://www.legislation.gov.uk/uksi/2021/908/regulation/14/3)
+[^c-b58363f50fe2ed6a75c306eab542a8dd]: Modification: S. 238 applied (E.W.) (27.7.2021) by [The Fisheries Act 2020 (Scheme for Financial Assistance) (England) Regulations 2021 (S.I. 2021/908)](https://www.legislation.gov.uk/uksi/2021/908), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/908/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2021/908/regulation/14/2)[(3)](https://www.legislation.gov.uk/uksi/2021/908/regulation/14/3)
 
-[^key-9122ac1746b0b56aed4495880f984c9f]: Modification: S. 238 applied (E.W.) (1.12.2022) by [The Marine, Fisheries and Aquaculture (Financial Assistance) Scheme (Wales) Regulations 2022 (S.I. 2022/1259)](https://www.legislation.gov.uk/uksi/2022/1259), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1259/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2022/1259/regulation/14/2)
+[^c-9122ac1746b0b56aed4495880f984c9f]: Modification: S. 238 applied (E.W.) (1.12.2022) by [The Marine, Fisheries and Aquaculture (Financial Assistance) Scheme (Wales) Regulations 2022 (S.I. 2022/1259)](https://www.legislation.gov.uk/uksi/2022/1259), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1259/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2022/1259/regulation/14/2)
 
 [^M_C_09bc69be-6001-4e79-e52d-8070530b03ed]: Modification: S. 238 applied (1.4.2024) by Regulation (EU) No. 640/2010, Art. 9C(4) (as inserted by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [4(10)](https://www.legislation.gov.uk/uksi/2024/439/regulation/4/10))
 
 [^M_C_28a16c6c-8858-41cf-cc38-1c7e5a1dc4ab]: Modification: S. 238 applied (1.4.2024) by Regulation (EU) No. 1627/2016, Art. 56D(4) (as inserted by [The Sea Fisheries (International Commission for the Conservation of Atlantic Tunas) (Amendment) Regulations 2024 (S.I. 2024/439)](https://www.legislation.gov.uk/uksi/2024/439), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/439/regulation/1/1), [6(34)](https://www.legislation.gov.uk/uksi/2024/439/regulation/6/34))
 
-[^key-f5dd58f04b46c8357b40589a847cd56d]: Textual amendment: Word in s. 238(2)(b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 70(2)(e)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/70/2/e)
+[^c-f5dd58f04b46c8357b40589a847cd56d]: Textual amendment: Word in s. 238(2)(b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 70(2)(e)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/70/2/e)
 
-[^key-6a1cbcd7091bdc35740155581471ee33]: Textual amendment: Words in s. 238(2)(b) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/4/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6a1cbcd7091bdc35740155581471ee33]: Textual amendment: Words in s. 238(2)(b) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2019/746/regulation/4/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ce1563772ba4cddaaa05b0f9efd8993a]: Textual amendment: S. 238(3)(ca) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 448](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/448) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ce1563772ba4cddaaa05b0f9efd8993a]: Textual amendment: S. 238(3)(ca) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 448](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/448) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-f4720509c0a24f70b1f62fdf7c016832]: Textual amendment: S. 238(3)(da)(db) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 30](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/30) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-f4720509c0a24f70b1f62fdf7c016832]: Textual amendment: S. 238(3)(da)(db) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 30](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/30) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-26cd6f2cd3453394fdc98216318d4f23]: Textual amendment: Words in s. 238(10) inserted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 70(3)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/70/3/a)
+[^c-26cd6f2cd3453394fdc98216318d4f23]: Textual amendment: Words in s. 238(10) inserted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 70(3)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/70/3/a)
 
-[^key-1e92f1d099e15a92a65ea706012b39bb]: Textual amendment: Words in s. 238(10) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/746/regulation/4/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e92f1d099e15a92a65ea706012b39bb]: Textual amendment: Words in s. 238(10) omitted (31.12.2020) by virtue of [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/746/regulation/4/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e30d5615da734e6b7ecbabb1ae67e8af]: Textual amendment: Words in s. 238(10) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 70(3)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/70/3/b)
+[^c-e30d5615da734e6b7ecbabb1ae67e8af]: Textual amendment: Words in s. 238(10) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 70(3)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/70/3/b)

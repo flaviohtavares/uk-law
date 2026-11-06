@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. The National Telephone Numbering Plan[^key-2b664d51a49f858710d2e23dea713a5c][^key-d79f3a7ace9a6157c932f8f01246a0da]
+## 56. The National Telephone Numbering Plan[^c-2b664d51a49f858710d2e23dea713a5c][^c-d79f3a7ace9a6157c932f8f01246a0da]
 
 *Extent: E+W+S+N.I.*
 
 (1) It shall be the duty of OFCOM to publish a document (to be known as “**the National Telephone Numbering Plan**”) setting out—
 
 - (a) the numbers that they have determined to be available for allocation by them as telephone numbers;
-- (b) such restrictions as they consider appropriate on the adoption of numbers available for allocation in accordance with the plan; [^key-a4e4aac0a544cd4c94dec06ffac57ace]...
-- (ba)[^key-0cda472c7b6a435b2599e0bd7c4df3ce] such requirements as they consider appropriate, for the purpose of protecting consumers, in relation to the tariff principles and maximum prices applicable to numbers so adopted or available for allocation; and
+- (b) such restrictions as they consider appropriate on the adoption of numbers available for allocation in accordance with the plan; [^c-a4e4aac0a544cd4c94dec06ffac57ace]...
+- (ba)[^c-0cda472c7b6a435b2599e0bd7c4df3ce] such requirements as they consider appropriate, for the purpose of protecting consumers, in relation to the tariff principles and maximum prices applicable to numbers so adopted or available for allocation; and
 - (c) such restrictions as they consider appropriate on the other uses to which numbers available for allocation in accordance with the plan may be put.
 
 (2) It shall be OFCOM’s duty—
@@ -68,10 +68,10 @@ but this duty must be performed in compliance with the requirements, so far as a
 
 ## Annotations
 
-[^key-2b664d51a49f858710d2e23dea713a5c]: Commencement: S. 56 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-2b664d51a49f858710d2e23dea713a5c]: Commencement: S. 56 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-d79f3a7ace9a6157c932f8f01246a0da]: Commencement: S. 56 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-d79f3a7ace9a6157c932f8f01246a0da]: Commencement: S. 56 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-a4e4aac0a544cd4c94dec06ffac57ace]: Textual amendment: Word in s. 56(1)(b) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/30) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-a4e4aac0a544cd4c94dec06ffac57ace]: Textual amendment: Word in s. 56(1)(b) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/30) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-0cda472c7b6a435b2599e0bd7c4df3ce]: Textual amendment: S. 56(1)(ba) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/30) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-0cda472c7b6a435b2599e0bd7c4df3ce]: Textual amendment: S. 56(1)(ba) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/30) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

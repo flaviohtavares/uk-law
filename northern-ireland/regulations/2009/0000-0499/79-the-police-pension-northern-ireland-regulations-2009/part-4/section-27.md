@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Calculation of standard ill-health pension[^key-b9541d1dbbb2e6c5c97a9549697a909b]
+## 27. Calculation of standard ill-health pension[^c-b9541d1dbbb2e6c5c97a9549697a909b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A police officer’s standard ill-health pension shall be an annual sum payable 
 
 ## Annotations
 
-[^key-b9541d1dbbb2e6c5c97a9549697a909b]: Commencement: Reg. 27 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-b9541d1dbbb2e6c5c97a9549697a909b]: Commencement: Reg. 27 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

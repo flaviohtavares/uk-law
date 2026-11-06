@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. No double recovery[^key-8a35e1d1cbbe6502d8d0e91e00e779a9]
+## 27. No double recovery[^c-8a35e1d1cbbe6502d8d0e91e00e779a9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Compensation shall not be payable in respect of the same matter both under this 
 
 ## Annotations
 
-[^key-8a35e1d1cbbe6502d8d0e91e00e779a9]: Commencement: Art. 27 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-8a35e1d1cbbe6502d8d0e91e00e779a9]: Commencement: Art. 27 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)

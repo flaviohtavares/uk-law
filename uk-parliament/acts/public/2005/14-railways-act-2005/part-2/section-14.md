@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Repeals and savings relating to Passenger Transport Executives[^key-80c2c3093f92929b9c4d9d238ba7d414]
+## 14. Repeals and savings relating to Passenger Transport Executives[^c-80c2c3093f92929b9c4d9d238ba7d414]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80c2c3093f92929b9c4d9d238ba7d414]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2005/14/section/14) in force at 24.7.2005 for E.W. by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-80c2c3093f92929b9c4d9d238ba7d414]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2005/14/section/14) in force at 24.7.2005 for E.W. by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)

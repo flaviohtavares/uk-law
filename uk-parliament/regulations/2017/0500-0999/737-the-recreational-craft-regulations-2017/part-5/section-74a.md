@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74A. Penalty in relation to the UK(NI) indication[^key-a56dfb331ba0deb3ef152916e4e7c110]
+## 74A. Penalty in relation to the UK(NI) indication[^c-a56dfb331ba0deb3ef152916e4e7c110]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A person guilty of an offence under regulation 73(2) insofar as the requirement 
 
 ## Annotations
 
-[^key-a56dfb331ba0deb3ef152916e4e7c110]: Textual amendment: [Reg. 74A](https://www.legislation.gov.uk/uksi/2017/737/regulation/74A) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 13(6)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/13/6)
+[^c-a56dfb331ba0deb3ef152916e4e7c110]: Textual amendment: [Reg. 74A](https://www.legislation.gov.uk/uksi/2017/737/regulation/74A) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 13(6)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/13/6)

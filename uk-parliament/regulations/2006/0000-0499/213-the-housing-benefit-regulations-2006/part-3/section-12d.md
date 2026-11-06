@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12D. Eligible rent and maximum rent (LHA)[^key-5f0fe6118893e66ca6bd6a4b03141f76]
+## 12D. Eligible rent and maximum rent (LHA)[^c-5f0fe6118893e66ca6bd6a4b03141f76]
 
 *Extent: E+W+S*
 
-(1) Except where regulation 12M (transitional protection – reduction in[^key-c0c31414fbe8cdfbbd692bf0842ed030] LHA) applies, this regulation applies where, by virtue of paragraphs (2) or (3) of regulation 13C (when a maximum rent (LHA) is to be determined), a maximum rent (LHA) has been, or is to be, determined in accordance with regulation 13D (determination of a maximum rent (LHA)).
+(1) Except where regulation 12M (transitional protection – reduction in[^c-c0c31414fbe8cdfbbd692bf0842ed030] LHA) applies, this regulation applies where, by virtue of paragraphs (2) or (3) of regulation 13C (when a maximum rent (LHA) is to be determined), a maximum rent (LHA) has been, or is to be, determined in accordance with regulation 13D (determination of a maximum rent (LHA)).
 
 (2) Where this regulation applies, except where paragraphs (3)(a) (protection on death) or (5)(a) (13 week protection) apply,—
 
@@ -37,7 +37,7 @@ summary: ''
   - (ii) in a case where there was no eligible rent, subject to regulation 12B(3) (mixed use accommodation), (4) (more than one person liable to make payments) and (6) (discretion in relation to eligible rent), the reckonable rent due on that day; or
 - (b) the eligible rent determined in accordance with paragraph (2), where it is equal to or more than the eligible rent determined in accordance with sub-paragraph (a).
 
-(4) For the purpose of paragraph (3), a claimant shall be treated as occupying the dwelling if paragraph (13) of regulation 7 (circumstances in which a person is or is not to be treated as occupying a dwelling as his home) is satisfied and for that purpose paragraph (13) shall have effect as if sub-paragraph (b) of that paragraph were omitted. *(affected by repeal, see note)*[^key-dbc758a3792e7aaf6c8cb3c12896a1c1]
+(4) For the purpose of paragraph (3), a claimant shall be treated as occupying the dwelling if paragraph (13) of regulation 7 (circumstances in which a person is or is not to be treated as occupying a dwelling as his home) is satisfied and for that purpose paragraph (13) shall have effect as if sub-paragraph (b) of that paragraph were omitted. *(affected by repeal, see note)*[^c-dbc758a3792e7aaf6c8cb3c12896a1c1]
 
 For the purpose of paragraph (3), a claimant is treated as occupying the dwelling if—
 
@@ -57,23 +57,23 @@ For the purpose of paragraph (3), a claimant is treated as occupying the dwellin
   - (i) the period of 12 months from the date of death has expired;
   - (ii) the relevant authority determines an eligible rent in accordance with paragraph (2) which is equal to or exceeds it or is based on a maximum rent (LHA) determined by virtue of regulation 13C(2)(d)(iii) (change of dwelling);
   - (iii) the determination of an eligible rent in accordance with paragraph (3)(a) (protection on death) in relation to a subsequent death; or
-  - (iv) the determination of a maximum rent by virtue of regulation 13, a maximum rent (social sector) by virtue of regulation A13[^key-02834dedf31d43efe8a3c332b67bbcad] or an eligible rent under regulation 12B.
+  - (iv) the determination of a maximum rent by virtue of regulation 13, a maximum rent (social sector) by virtue of regulation A13[^c-02834dedf31d43efe8a3c332b67bbcad] or an eligible rent under regulation 12B.
 - (b) paragraph (5)(a) (13 week protection), it shall apply until the first of the following events occurs—
   - (i) the first 13 weeks of the claimant’s award of housing benefit have expired;
   - (ii) the relevant authority determines an eligible rent in accordance with paragraph (2) which is equal to or exceeds it or is based on a maximum rent (LHA) determined by virtue of regulation 13C(2)(d)(iii) (change of dwelling);
   - (iii) the determination of an eligible rent in accordance with paragraph (3)(a) (protection on death); or
-  - (iv) the determination of a maximum rent by virtue of regulation 13, a maximum rent (social sector) by virtue of regulation A13[^key-23b078fff12dc99147a433e7785b053a] or an eligible rent under regulation 12B.
+  - (iv) the determination of a maximum rent by virtue of regulation 13, a maximum rent (social sector) by virtue of regulation A13[^c-23b078fff12dc99147a433e7785b053a] or an eligible rent under regulation 12B.
 
 (8) Where an eligible rent ceases to apply by virtue of paragraph (7)(a)(i) (expiry of protection on death) or (7)(b)(i) (expiry of 13 week protection), the eligible rent that shall apply instead shall be the one which would have applied but for paragraphs (3)(a) and (5)(a).
 
 ## Annotations
 
-[^key-5f0fe6118893e66ca6bd6a4b03141f76]: Textual amendment: Regs. 12B-12D inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2868/regulation/5) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
+[^c-5f0fe6118893e66ca6bd6a4b03141f76]: Textual amendment: Regs. 12B-12D inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2868/regulation/5) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
 
-[^key-c0c31414fbe8cdfbbd692bf0842ed030]: Textual amendment: Words in reg. 12D(1) inserted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/3)
+[^c-c0c31414fbe8cdfbbd692bf0842ed030]: Textual amendment: Words in reg. 12D(1) inserted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/2/3)
 
-[^key-dbc758a3792e7aaf6c8cb3c12896a1c1]: Textual amendment: Reg. 12D(4) substituted (28.7.2016) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations 2016 (S.I. 2016/624)](https://www.legislation.gov.uk/uksi/2016/624), [regs. 1](https://www.legislation.gov.uk/uksi/2016/624/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/624/regulation/2/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/1)[(2)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/2))
+[^c-dbc758a3792e7aaf6c8cb3c12896a1c1]: Textual amendment: Reg. 12D(4) substituted (28.7.2016) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations 2016 (S.I. 2016/624)](https://www.legislation.gov.uk/uksi/2016/624), [regs. 1](https://www.legislation.gov.uk/uksi/2016/624/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/624/regulation/2/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/1)[(2)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/2))
 
-[^key-02834dedf31d43efe8a3c332b67bbcad]: Textual amendment: Words in reg. 12D(7)(a)(iv) inserted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/3), [5(6)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/5/6)
+[^c-02834dedf31d43efe8a3c332b67bbcad]: Textual amendment: Words in reg. 12D(7)(a)(iv) inserted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/3), [5(6)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/5/6)
 
-[^key-23b078fff12dc99147a433e7785b053a]: Textual amendment: Words in reg. 12D(7)(b)(iv) inserted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/3), [5(6)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/5/6)
+[^c-23b078fff12dc99147a433e7785b053a]: Textual amendment: Words in reg. 12D(7)(b)(iv) inserted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/3), [5(6)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/5/6)

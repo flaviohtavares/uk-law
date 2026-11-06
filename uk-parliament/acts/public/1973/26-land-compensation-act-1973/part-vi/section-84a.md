@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84A. Service of documents[^key-2bac4c52f96875eb53f55dfdb82a7e7a]
+## 84A. Service of documents[^c-2bac4c52f96875eb53f55dfdb82a7e7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ may also be sent electronically by a method mentioned in subsection (3).
 
 ## Annotations
 
-[^key-2bac4c52f96875eb53f55dfdb82a7e7a]: Textual amendment: [S. 84A](https://www.legislation.gov.uk/ukpga/1973/26/section/84A) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 105(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/105/3), [118(5)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/a) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-2bac4c52f96875eb53f55dfdb82a7e7a]: Textual amendment: [S. 84A](https://www.legislation.gov.uk/ukpga/1973/26/section/84A) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 105(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/105/3), [118(5)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/a) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

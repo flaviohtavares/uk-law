@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Disclosure of information by the Secretary of State[^key-ed82b90bc28e4a7485661f0bac2ce762]
+## 124. Disclosure of information by the Secretary of State[^c-ed82b90bc28e4a7485661f0bac2ce762]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ed82b90bc28e4a7485661f0bac2ce762]: Commencement: Art. 124 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ed82b90bc28e4a7485661f0bac2ce762]: Commencement: Art. 124 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00109]: Footnote: Section 158A was inserted by the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26) Schedule 6 paragraph 9.
 

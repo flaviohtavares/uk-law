@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Restrictions on power[^key-1118a3f5914f34180c2bdb1dfb9bc53e]
+## 80. Restrictions on power[^c-1118a3f5914f34180c2bdb1dfb9bc53e]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) also arises from some exceptional event or exceptional circumstances, and
 - (b) is immediate.
 
-(4)[^key-c9efc7485065f265fd23764880ca55eb] The maximum penalty that may be provided for in regulations under section 79 in respect of an offence under those regulations is—
+(4)[^c-c9efc7485065f265fd23764880ca55eb] The maximum penalty that may be provided for in regulations under section 79 in respect of an offence under those regulations is—
 
 - (a) on summary conviction—
   - (i) imprisonment for a term not exceeding 12 months,
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1118a3f5914f34180c2bdb1dfb9bc53e]: Commencement: S. 80 in force at 1.5.2020 by [S.S.I. 2020/127](https://www.legislation.gov.uk/ssi/2020/127), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2020/127/regulation/2/1/b)
+[^c-1118a3f5914f34180c2bdb1dfb9bc53e]: Commencement: S. 80 in force at 1.5.2020 by [S.S.I. 2020/127](https://www.legislation.gov.uk/ssi/2020/127), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2020/127/regulation/2/1/b)
 
-[^key-c9efc7485065f265fd23764880ca55eb]: Textual amendment: S. 80(4) inserted (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 4(3)](https://www.legislation.gov.uk/asp/2020/18/section/4/3), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1)
+[^c-c9efc7485065f265fd23764880ca55eb]: Textual amendment: S. 80(4) inserted (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 4(3)](https://www.legislation.gov.uk/asp/2020/18/section/4/3), [18(1)](https://www.legislation.gov.uk/asp/2020/18/section/18/1)

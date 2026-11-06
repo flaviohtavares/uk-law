@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Action following final report[^key-d6423d2a8ccc7efd0de35c1589a0b965][^c2191332]
+## 177. Action following final report[^c-d6423d2a8ccc7efd0de35c1589a0b965][^c2191332]
 
 *Extent: E+W*
 
@@ -176,6 +176,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d6423d2a8ccc7efd0de35c1589a0b965]: Commencement: S. 177 in force at 1.11.2012 in so far as not already in force by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2)
+[^c-d6423d2a8ccc7efd0de35c1589a0b965]: Commencement: S. 177 in force at 1.11.2012 in so far as not already in force by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2)
 
 [^c2191332]: Commencement: S. 177 partly in force; s. 177 in force for specified purposes at Royal Assent, see s. 306(1)(d)

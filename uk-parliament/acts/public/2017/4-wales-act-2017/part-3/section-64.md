@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Power to amend section 63[^key-11a9bccd2f37eac7e1810ed4c10601a0]
+## 64. Power to amend section 63[^c-11a9bccd2f37eac7e1810ed4c10601a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ Such an instrument is subject to annulment in pursuance of a resolution of eithe
 
 ## Annotations
 
-[^key-11a9bccd2f37eac7e1810ed4c10601a0]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2017/4/section/64) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-11a9bccd2f37eac7e1810ed4c10601a0]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2017/4/section/64) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)

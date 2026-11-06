@@ -32,7 +32,7 @@ summary: ''
 (4) Subsections (5) and (6) apply if, at the start of any day, a company (“the consortium company”)—
 
 - (a) is owned by a consortium, or
-- (b) is a qualifying 75%[^key-8d7085f1f362e69e9df49c0dc69a6fa9] subsidiary of a company owned by a consortium.
+- (b) is a qualifying 75%[^c-8d7085f1f362e69e9df49c0dc69a6fa9] subsidiary of a company owned by a consortium.
 
 (5) If there is any qualifying change in the consortium company's interest in a business on that day, references to an associated company of the consortium company on that day include—
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d7085f1f362e69e9df49c0dc69a6fa9]: Textual amendment: Figure in s. 430(4)(b) substituted (with effect in accordance with s. 29(8) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 29(6)](https://www.legislation.gov.uk/ukpga/2010/13/section/29/6)
+[^c-8d7085f1f362e69e9df49c0dc69a6fa9]: Textual amendment: Figure in s. 430(4)(b) substituted (with effect in accordance with s. 29(8) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 29(6)](https://www.legislation.gov.uk/ukpga/2010/13/section/29/6)

@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to make provision about the effect of coronavi
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 21st June 2022 and received Royal Assent on 28th July 2022
 
-## 1. Effect of coronavirus on net annual values and rateable values of lands and heritages[^key-2842e90f396657da728dd77598b7cf16]
+## 1. Effect of coronavirus on net annual values and rateable values of lands and heritages[^c-2842e90f396657da728dd77598b7cf16]
 
 (1) In calculating the net annual value or rateable value of any lands and heritages in respect of which a relevant determination is made, no account is to be taken of any matter occurring on or after 2 April 2020 that is (whether directly or indirectly) attributable to coronavirus.
 
@@ -57,7 +57,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (i) in the rent of the lands and heritages in respect of which a relevant determination is made (or any other lands and heritages) that is attributable to coronavirus, or
   - (ii) in the level of valuations generally or in the value of lands and heritages generally that is attributable to coronavirus.
 
-## 2. Alteration of valuation roll[^key-026c9d7bc211b19e51dfb09dc6eacabf]
+## 2. Alteration of valuation roll[^c-026c9d7bc211b19e51dfb09dc6eacabf]
 
 (1) The assessor for each valuation area must, in respect of that area—
 
@@ -69,7 +69,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) while the valuation roll is in force, and
 - (b) after the valuation roll ceases to be in force.
 
-## 3. Interpretation[^key-75d1d5b05c69edf14c580e7e9bea37db]
+## 3. Interpretation[^c-75d1d5b05c69edf14c580e7e9bea37db]
 
 In this Act—
 
@@ -88,28 +88,28 @@ In this Act—
   and includes a rateable value so entered with retrospective effect,
 - “**valuation roll**” means a valuation roll made up on 1 April 2017 and maintained by the assessor for each valuation area under Part 1 of the Local Government (Scotland) Act 1975.
 
-## 4. Revocation of the Valuation and Rating (Coronavirus) (Scotland) Order 2021[^key-d20375dfad362993284538f09cd59e75]
+## 4. Revocation of the Valuation and Rating (Coronavirus) (Scotland) Order 2021[^c-d20375dfad362993284538f09cd59e75]
 
 The Valuation and Rating (Coronavirus) (Scotland) Order 2021 ([S.S.I. 2021/445](https://www.legislation.gov.uk/ssi/2021/445)) is revoked.
 
-## 5. Commencement[^key-272cfe90d409b3b3edbc3e5fe48c6934]
+## 5. Commencement[^c-272cfe90d409b3b3edbc3e5fe48c6934]
 
 This Act comes into force on the day after Royal Assent.
 
-## 6. Short title[^key-d9e0231157a3ca827a1e5ddf3b43a677]
+## 6. Short title[^c-d9e0231157a3ca827a1e5ddf3b43a677]
 
 The short title of this Act is the Non-Domestic Rates (Coronavirus) (Scotland) Act 2022.
 
 ## Annotations
 
-[^key-2842e90f396657da728dd77598b7cf16]: Commencement: S. 1 in force at 29.7.2022, see [s. 5](https://www.legislation.gov.uk/asp/2022/7/section/5)
+[^c-2842e90f396657da728dd77598b7cf16]: Commencement: S. 1 in force at 29.7.2022, see [s. 5](https://www.legislation.gov.uk/asp/2022/7/section/5)
 
-[^key-026c9d7bc211b19e51dfb09dc6eacabf]: Commencement: S. 2 in force at 29.7.2022, see [s. 5](https://www.legislation.gov.uk/asp/2022/7/section/5)
+[^c-026c9d7bc211b19e51dfb09dc6eacabf]: Commencement: S. 2 in force at 29.7.2022, see [s. 5](https://www.legislation.gov.uk/asp/2022/7/section/5)
 
-[^key-75d1d5b05c69edf14c580e7e9bea37db]: Commencement: S. 3 in force at 29.7.2022, see [s. 5](https://www.legislation.gov.uk/asp/2022/7/section/5)
+[^c-75d1d5b05c69edf14c580e7e9bea37db]: Commencement: S. 3 in force at 29.7.2022, see [s. 5](https://www.legislation.gov.uk/asp/2022/7/section/5)
 
-[^key-d20375dfad362993284538f09cd59e75]: Commencement: S. 4 in force at 29.7.2022, see [s. 5](https://www.legislation.gov.uk/asp/2022/7/section/5)
+[^c-d20375dfad362993284538f09cd59e75]: Commencement: S. 4 in force at 29.7.2022, see [s. 5](https://www.legislation.gov.uk/asp/2022/7/section/5)
 
-[^key-272cfe90d409b3b3edbc3e5fe48c6934]: Commencement: S. 5 in force at 29.7.2022, see [s. 5](https://www.legislation.gov.uk/asp/2022/7/section/5)
+[^c-272cfe90d409b3b3edbc3e5fe48c6934]: Commencement: S. 5 in force at 29.7.2022, see [s. 5](https://www.legislation.gov.uk/asp/2022/7/section/5)
 
-[^key-d9e0231157a3ca827a1e5ddf3b43a677]: Commencement: S. 6 in force at 29.7.2022, see [s. 5](https://www.legislation.gov.uk/asp/2022/7/section/5)
+[^c-d9e0231157a3ca827a1e5ddf3b43a677]: Commencement: S. 6 in force at 29.7.2022, see [s. 5](https://www.legislation.gov.uk/asp/2022/7/section/5)

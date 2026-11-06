@@ -25,7 +25,7 @@ summary: ''
 - (a) the OFT had given A a penalty notice under section 39A of the 1974 Act, and
 - (b) the appeal period in relation to that notice had not expired.
 
-(2) The notice is to be treated as a decision notice given by the FCA to A under section 208(1)(b) of the Act [^c23374321] (except for the purposes of sections 210 (statement of policy), 392(b) (application of sections 393 and 394), in so far as it applies to section 393 (third party rights), and 393 of the Act, which do not apply[^key-1764fca1d4899ac6809faf62d1a9316c]).
+(2) The notice is to be treated as a decision notice given by the FCA to A under section 208(1)(b) of the Act [^c23374321] (except for the purposes of sections 210 (statement of policy), 392(b) (application of sections 393 and 394), in so far as it applies to section 393 (third party rights), and 393 of the Act, which do not apply[^c-1764fca1d4899ac6809faf62d1a9316c]).
 
 (3) But if A has, before 1st April 2014, submitted a notice of appeal to the First-tier Tribunal under section 41 of the 1974 Act (appeals to First-tier Tribunal under Part 3), section 208(4) of the Act (right to refer matters to the Tribunal) does not apply.
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c23374321]: Marginal citation: Amended by the Financial Services Act 2010, Schedule 2, paragraphs 1 and 19, and the Financial Services Act 2012, Schedule 9, paragraphs 1 and 15.
 
-[^key-1764fca1d4899ac6809faf62d1a9316c]: Textual amendment: Words in [art. 45(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/45/2) substituted (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [9](https://www.legislation.gov.uk/uksi/2014/376/article/9)
+[^c-1764fca1d4899ac6809faf62d1a9316c]: Textual amendment: Words in [art. 45(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/45/2) substituted (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [9](https://www.legislation.gov.uk/uksi/2014/376/article/9)

@@ -46,17 +46,17 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by paragraph 12 of schedule 5 and paragraph 6(3) of schedule 11 to the Land and Buildings Transaction Tax (Scotland) Act 2013[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-c59873159b37e97bdb842206fe987c9c]
+## 1. Citation, commencement and interpretation[^c-c59873159b37e97bdb842206fe987c9c]
 
 (1) This Order may be cited as the Land and Buildings Transaction Tax (Prescribed Proportions) (Scotland) Order 2014 and comes into force on 1st April 2015.
 
 (2) In this Order, “the LBTT(S) Act 2013” means the Land and Buildings Transaction Tax (Scotland) Act 2013.
 
-## 2. Prescribed proportion – multiple dwellings relief[^key-75d9824fc88b875837c950389cc2d80a][^key-ad1a37f2790870a1b869a9e6eddf6432]
+## 2. Prescribed proportion – multiple dwellings relief[^c-75d9824fc88b875837c950389cc2d80a][^c-ad1a37f2790870a1b869a9e6eddf6432]
 
 The proportion prescribed for the purpose of paragraph 11 of schedule 5 to the LBTT(S) Act 2013 (multiple dwellings relief) is 25%.
 
-## 3. Prescribed proportion – acquisition relief[^key-021ae1ef1833d1490e1edfb7167d3116]
+## 3. Prescribed proportion – acquisition relief[^c-021ae1ef1833d1490e1edfb7167d3116]
 
 The proportion prescribed for the purpose of paragraph 6(2) of schedule 11 to the LBTT(S) Act 2013 (acquisition relief) is 12.5%.
 
@@ -80,10 +80,10 @@ This Order prescribes proportions for the purposes of calculating multiple dwell
 
 [^f00001]: Footnote: [2013 asp 11](https://www.legislation.gov.uk/asp/2013/11). Schedule 11 is to be amended by paragraph 9(21) of schedule 4 to the Revenue Scotland and Tax Powers Act [2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16).
 
-[^key-c59873159b37e97bdb842206fe987c9c]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/350/article/1) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/350/article/1/1)
+[^c-c59873159b37e97bdb842206fe987c9c]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/350/article/1) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/350/article/1/1)
 
-[^key-75d9824fc88b875837c950389cc2d80a]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/350/article/2) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/350/article/1/1)
+[^c-75d9824fc88b875837c950389cc2d80a]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/350/article/2) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/350/article/1/1)
 
-[^key-ad1a37f2790870a1b869a9e6eddf6432]: Modification: [Art. 2](https://www.legislation.gov.uk/ssi/2014/350/article/2) continued (1.4.2015) by [The Land and Buildings Transaction Tax (Sub-sale Development Relief and Multiple Dwellings Relief) (Scotland) Order 2015 (S.S.I. 2015/123)](https://www.legislation.gov.uk/ssi/2015/123), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/123/article/1/1), [9](https://www.legislation.gov.uk/ssi/2015/123/article/9)
+[^c-ad1a37f2790870a1b869a9e6eddf6432]: Modification: [Art. 2](https://www.legislation.gov.uk/ssi/2014/350/article/2) continued (1.4.2015) by [The Land and Buildings Transaction Tax (Sub-sale Development Relief and Multiple Dwellings Relief) (Scotland) Order 2015 (S.S.I. 2015/123)](https://www.legislation.gov.uk/ssi/2015/123), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/123/article/1/1), [9](https://www.legislation.gov.uk/ssi/2015/123/article/9)
 
-[^key-021ae1ef1833d1490e1edfb7167d3116]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/350/article/3) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/350/article/1/1)
+[^c-021ae1ef1833d1490e1edfb7167d3116]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/350/article/3) in force at 1.4.2015, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2014/350/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Alternative verdict on unsuccessful culpable homicide prosecution[^key-e4a2d975136dcae321f942eed52c6b6b]
+## 32. Alternative verdict on unsuccessful culpable homicide prosecution[^c-e4a2d975136dcae321f942eed52c6b6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4a2d975136dcae321f942eed52c6b6b]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2006/49/section/32) in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/j)
+[^c-e4a2d975136dcae321f942eed52c6b6b]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2006/49/section/32) in force at 24.9.2007 by [S.I. 2007/2472](https://www.legislation.gov.uk/uksi/2007/2472), [art. 2(j)](https://www.legislation.gov.uk/uksi/2007/2472/article/2/j)

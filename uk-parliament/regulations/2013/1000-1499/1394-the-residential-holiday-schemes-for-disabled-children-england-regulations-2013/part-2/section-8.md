@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Registered person: training requirements[^key-26f536f825133beff1ea79c850968266]
+## 8. Registered person: training requirements[^c-26f536f825133beff1ea79c850968266]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ from time to time such training as is appropriate to ensure that that person has
 
 ## Annotations
 
-[^key-26f536f825133beff1ea79c850968266]: Commencement: Reg. 8 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-26f536f825133beff1ea79c850968266]: Commencement: Reg. 8 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.30. Application for warrant under paragraph 12 of Schedule 1 to the Police and Criminal Evidence Act 1984[^key-078bea7a5f34ea24b963a3bd8271da26]
+## 47.30. Application for warrant under paragraph 12 of Schedule 1 to the Police and Criminal Evidence Act 1984[^c-078bea7a5f34ea24b963a3bd8271da26]
 
 *Extent: E+W*
 
@@ -97,7 +97,7 @@ summary: ''
 
 ## Annotations
 
-[^key-078bea7a5f34ea24b963a3bd8271da26]: Commencement: Rule 47.30 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-078bea7a5f34ea24b963a3bd8271da26]: Commencement: Rule 47.30 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01205]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); paragraph 12 of Schedule 1 was amended by section 65 of, and paragraph 6 of Schedule 4 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and section 113 of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15).
 

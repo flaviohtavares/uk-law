@@ -29,7 +29,7 @@ summary: ''
 
 (3) Subsections (1) and (2) do not apply to any soliciting for an agreement enabling the debtor to overdraw on a current account of any description kept with the creditor, where—
 
-- (a) the FCA[^key-cb31aea4f1346650bee084d7534f95f2] has determined that current accounts of that description kept with the creditor are excluded from subsections (1) and (2), and
+- (a) the FCA[^c-cb31aea4f1346650bee084d7534f95f2] has determined that current accounts of that description kept with the creditor are excluded from subsections (1) and (2), and
 - (b) the debtor already keeps an account with the creditor (whether a current account or not).
 
 (4) A determination under subsection (3)(a)—
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb31aea4f1346650bee084d7534f95f2]: Textual amendment: Word in s. 49 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2013/1882/article/7/2)
+[^c-cb31aea4f1346650bee084d7534f95f2]: Textual amendment: Word in s. 49 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2013/1882/article/7/2)

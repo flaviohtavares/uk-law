@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Investigation of outstanding complaints[^key-18394c4133d6a448cb0d6c7c09967e59]
+## 22. Investigation of outstanding complaints[^c-18394c4133d6a448cb0d6c7c09967e59]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ that complaint must be investigated by one of the persons specified in paragraph
 
 ## Annotations
 
-[^key-18394c4133d6a448cb0d6c7c09967e59]: Commencement: Art. 22 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-18394c4133d6a448cb0d6c7c09967e59]: Commencement: Art. 22 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00031]: Footnote: Paragraph 47A was inserted by [S.I. 1996/702](https://www.legislation.gov.uk/uksi/1996/702) and amended by [S.I.2003/784 (W.95)](https://www.legislation.gov.uk/wsi/2003/784).
 

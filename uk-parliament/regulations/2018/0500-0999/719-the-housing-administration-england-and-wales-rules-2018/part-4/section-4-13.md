@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.13. Notice of an application under section 176A(5)[^key-b85521a5e2f4f76cfd7e91ea0e43cb04]
+## 4.13. Notice of an application under section 176A(5)[^c-b85521a5e2f4f76cfd7e91ea0e43cb04]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An application under section 176A(5) may be made without the application being s
 
 ## Annotations
 
-[^key-b85521a5e2f4f76cfd7e91ea0e43cb04]: Commencement: Rule 4.13 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-b85521a5e2f4f76cfd7e91ea0e43cb04]: Commencement: Rule 4.13 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Traffic areas[^c2199623][^key-cde5a3a74cf31e3f171ca858b981de96]
+## 1. Traffic areas[^c2199623][^c-cde5a3a74cf31e3f171ca858b981de96]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 [^c2199623]: Commencement: S. 1 partly in force; s. 1 in force at Royal Assent for specified purposes, see s. 134(1)(c)
 
-[^key-cde5a3a74cf31e3f171ca858b981de96]: Commencement: S. 1 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-cde5a3a74cf31e3f171ca858b981de96]: Commencement: S. 1 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

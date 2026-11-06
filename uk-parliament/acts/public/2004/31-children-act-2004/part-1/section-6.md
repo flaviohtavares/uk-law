@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Children’s Commissioner has the function of promoting and protecting the rights of children in Scotland where those rights are or may be affected by reserved matters[^key-6b50774f41787aa9e5e9c5fbff107684].
+(1) The Children’s Commissioner has the function of promoting and protecting the rights of children in Scotland where those rights are or may be affected by reserved matters[^c-6b50774f41787aa9e5e9c5fbff107684].
 
-(1A)[^key-51fef2d5f0a34dd93697d35a77f6b4b3] The function under subsection (1) includes promoting awareness of the views and interests of children in Scotland.
+(1A)[^c-51fef2d5f0a34dd93697d35a77f6b4b3] The function under subsection (1) includes promoting awareness of the views and interests of children in Scotland.
 
-(2)[^key-b78a8c76608fc9e83bf16fe3f9f72d1c] Subsections (3) to (5) of section 2 and sections 2A to 2C, 2E and 2F apply in relation to the Children's Commissioner's function under subsection (1) as in relation to the Commissioner's primary function.
+(2)[^c-b78a8c76608fc9e83bf16fe3f9f72d1c] Subsections (3) to (5) of section 2 and sections 2A to 2C, 2E and 2F apply in relation to the Children's Commissioner's function under subsection (1) as in relation to the Commissioner's primary function.
 
 (2A) For the purposes of subsection (2)—
 
@@ -41,20 +41,20 @@ summary: ''
 
 (6) Subsections (3) to (5) of section 210 of the Local Government (Scotland) Act 1973 (c. 65) apply for the purposes of an inquiry under subsection (4) above with the substitution of references to the Children’s Commissioner for references to the person appointed to hold the inquiry.
 
-(7)[^key-a26c86ac881b829438d0a9a9175333eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-a26c86ac881b829438d0a9a9175333eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-a26c86ac881b829438d0a9a9175333eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-a26c86ac881b829438d0a9a9175333eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-a26c86ac881b829438d0a9a9175333eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-a26c86ac881b829438d0a9a9175333eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In this section, “**reserved matter**” has the same meaning as in the Scotland Act 1998 (see section 30 of and Schedule 5 to that Act).
 
 ## Annotations
 
-[^key-6b50774f41787aa9e5e9c5fbff107684]: Textual amendment: Words in s. 6(1) substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/4/2)
+[^c-6b50774f41787aa9e5e9c5fbff107684]: Textual amendment: Words in s. 6(1) substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/4/2)
 
-[^key-51fef2d5f0a34dd93697d35a77f6b4b3]: Textual amendment: S. 6(1A) inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/4/3)
+[^c-51fef2d5f0a34dd93697d35a77f6b4b3]: Textual amendment: S. 6(1A) inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/4/3)
 
-[^key-b78a8c76608fc9e83bf16fe3f9f72d1c]: Textual amendment: S. 6(2)(2A) substituted for s. 6(2) (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 4(4)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/4/4)
+[^c-b78a8c76608fc9e83bf16fe3f9f72d1c]: Textual amendment: S. 6(2)(2A) substituted for s. 6(2) (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 4(4)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/4/4)
 
-[^key-a26c86ac881b829438d0a9a9175333eb]: Textual amendment: S. 6(7)-(9) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/2/2/b)
+[^c-a26c86ac881b829438d0a9a9175333eb]: Textual amendment: S. 6(7)-(9) omitted (1.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/2/2/b)

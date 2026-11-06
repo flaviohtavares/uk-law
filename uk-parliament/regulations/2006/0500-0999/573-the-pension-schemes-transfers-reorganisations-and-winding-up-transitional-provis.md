@@ -173,7 +173,7 @@ Article 12 applies if the following conditions are met—
 
 (1) The reorganisation condition is met if conditions A to C are met.
 
-(2)[^key-cf04aeb96abe5e9ef962e3f00458a398] Condition A is that, during the period beginning with 10th December 2003 and ending with 5th April 2006—
+(2)[^c-cf04aeb96abe5e9ef962e3f00458a398] Condition A is that, during the period beginning with 10th December 2003 and ending with 5th April 2006—
 
 - (a) there was a transfer in a single transaction of all the sums and assets held for the purposes of, or representing the employee’s accrued rights under, the original pension scheme to another pension scheme (“the new pension scheme”),
 - (b) there was a transfer in a single transaction of all the sums and assets held for the purposes of, or representing the employee’s accrued, non contracted-out rights under the original pension scheme to the new pension scheme, or
@@ -193,20 +193,20 @@ Article 12 applies if the following conditions are met—
 
 (4) Condition C is that, immediately before and after the transfer mentioned in paragraph (2), the employee was—
 
-- (a) employed by a sponsoring employer of the new pension scheme, [^key-d051525d2f82ef512880ec0153aa667b]...
-- (b) a former employee of a sponsoring employer of the new pension scheme. , or[^key-8293dee5994a4dd914faba493c961389]
-- (c)[^key-bf6af64d81015e9975961647506e0d2a] a former employee of a former sponsoring employer of the original pension scheme in a case where the relevant sums and assets are transferred at the same time as the relevant sums and assets held for another employee or former employee who falls within sub-paragraphs (a) or (b).
+- (a) employed by a sponsoring employer of the new pension scheme, [^c-d051525d2f82ef512880ec0153aa667b]...
+- (b) a former employee of a sponsoring employer of the new pension scheme. , or[^c-8293dee5994a4dd914faba493c961389]
+- (c)[^c-bf6af64d81015e9975961647506e0d2a] a former employee of a former sponsoring employer of the original pension scheme in a case where the relevant sums and assets are transferred at the same time as the relevant sums and assets held for another employee or former employee who falls within sub-paragraphs (a) or (b).
 
 (5) In this article—
 
 - “**active member**” has the meaning given by section 151(2) of the Finance Act 2004,
-- “appropriate personal pension scheme” means a scheme in respect of which an appropriate scheme certificate is in force under section 7 of the Pension Schemes Act 1993,[^key-bbceac3449a9e622fc25b042629fa557]
+- “appropriate personal pension scheme” means a scheme in respect of which an appropriate scheme certificate is in force under section 7 of the Pension Schemes Act 1993,[^c-bbceac3449a9e622fc25b042629fa557]
 - “contracted-out rights” means rights under or derived from an occupational pension scheme or an appropriate personal pension scheme which fell within the following categories—
   - (a) entitlement to payment of, or accrued rights to, guaranteed minimum pensions;
   - (b) protected rights; or
   - (c) section 9(2B) rights.
-- “**deferred member**” has the meaning given by section 151(4) of that Act, [^key-a8d84a75a762f64e283746812a6f4976]...
-- “guaranteed minimum pensions” has the meaning given by section 8 of the Pension Schemes Act 1993,[^key-92a4f48b643cd51fe731da8c8f4c6b07]
+- “**deferred member**” has the meaning given by section 151(4) of that Act, [^c-a8d84a75a762f64e283746812a6f4976]...
+- “guaranteed minimum pensions” has the meaning given by section 8 of the Pension Schemes Act 1993,[^c-92a4f48b643cd51fe731da8c8f4c6b07]
 - “occupational pension scheme” has the meaning given by section 1(1) of the Pension Schemes Act 1993,
 - “protected rights” has the meaning given by section 10 of the Pension Schemes Act 1993,
 - “**sponsoring employer**” has the meaning given by section 150(6) of that Act.
@@ -239,13 +239,13 @@ Article 16 applies if the following conditions are met—
 
 ### 14. The winding up condition
 
-(1) The winding up condition is met if the first or second condition is met.[^key-5294d5c0332cc385136500f808e2fec2] —
+(1) The winding up condition is met if the first or second condition is met.[^c-5294d5c0332cc385136500f808e2fec2] —
 
-- (a)[^key-f78d068952e28f0aa624f86919d20ee2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-f78d068952e28f0aa624f86919d20ee2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-f78d068952e28f0aa624f86919d20ee2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f78d068952e28f0aa624f86919d20ee2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f78d068952e28f0aa624f86919d20ee2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-f78d068952e28f0aa624f86919d20ee2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-4e71b25fa2ee89f1d32eac4fb4f2c40c] The first condition is met if—
+(1A)[^c-4e71b25fa2ee89f1d32eac4fb4f2c40c] The first condition is met if—
 
 - (a) a pension scheme (“the original pension scheme”) is being wound up,
 - (b) the original pension scheme is within any of paragraphs (a) to (d) of paragraph 1(1) of Schedule 36 (deemed registration of existing schemes), and
@@ -272,7 +272,7 @@ Article 16 applies if the following conditions are met—
 - (a) the winding up commences on or after 6th April 2006, and
 - (b) immediately before the commencement of the winding up, an individual member of the original pension scheme has rights which are protected under paragraph 22 or 31 [^c1543356] of Schedule 36 (or under both those paragraphs).
 
-### 15. The annuity purchase condition[^key-c22eb2cc28bf66a405519e06c1876da6]
+### 15. The annuity purchase condition[^c-c22eb2cc28bf66a405519e06c1876da6]
 
 (1)  The annuity purchase condition is met if—
 
@@ -299,7 +299,7 @@ Article 16 applies if the following conditions are met—
 
 (2) In paragraph (1) “**block transfer**” has the meaning given by paragraph 22(6) of Schedule 36 [^c1543359].
 
-### 17. Stand-alone lump sums[^key-3ced0e406ae99fa20b91faca1d62ff30]
+### 17. Stand-alone lump sums[^c-3ced0e406ae99fa20b91faca1d62ff30]
 
 (1)  Paragraph (6) applies if condition A, B or C is met.
 
@@ -360,30 +360,30 @@ The Board of Inland Revenue published a regulatory impact assessment in respect 
 
 [^c1543355]: Marginal citation: Paragraph 22 of Schedule 36 was amended by sub-paragraphs (4) to (7) of paragraph 54 and sub-paragraphs (2) to (4) of paragraph 55 of Schedule 10 to the [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7) with effect from 6th April 2006.
 
-[^key-cf04aeb96abe5e9ef962e3f00458a398]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/uksi/2006/573/article/10/2)[(2A)](https://www.legislation.gov.uk/uksi/2006/573/article/10/2A) substituted for [art. 10(2)](https://www.legislation.gov.uk/uksi/2006/573/article/10/2) (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/529/regulation/3/2)
+[^c-cf04aeb96abe5e9ef962e3f00458a398]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/uksi/2006/573/article/10/2)[(2A)](https://www.legislation.gov.uk/uksi/2006/573/article/10/2A) substituted for [art. 10(2)](https://www.legislation.gov.uk/uksi/2006/573/article/10/2) (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/529/regulation/3/2)
 
-[^key-d051525d2f82ef512880ec0153aa667b]: Textual amendment: Word in [art. 10(4)(a)](https://www.legislation.gov.uk/uksi/2006/573/article/10/4/a) omitted (6.4.2006) by virtue of [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2010/529/regulation/3/3/a)
+[^c-d051525d2f82ef512880ec0153aa667b]: Textual amendment: Word in [art. 10(4)(a)](https://www.legislation.gov.uk/uksi/2006/573/article/10/4/a) omitted (6.4.2006) by virtue of [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2010/529/regulation/3/3/a)
 
-[^key-8293dee5994a4dd914faba493c961389]: Textual amendment: Word in [art. 10(4)(b)](https://www.legislation.gov.uk/uksi/2006/573/article/10/4/b) inserted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2010/529/regulation/3/3/b)
+[^c-8293dee5994a4dd914faba493c961389]: Textual amendment: Word in [art. 10(4)(b)](https://www.legislation.gov.uk/uksi/2006/573/article/10/4/b) inserted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2010/529/regulation/3/3/b)
 
-[^key-bf6af64d81015e9975961647506e0d2a]: Textual amendment: [Art. 10(4)(c)](https://www.legislation.gov.uk/uksi/2006/573/article/10/4/c) inserted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2010/529/regulation/3/3/c)
+[^c-bf6af64d81015e9975961647506e0d2a]: Textual amendment: [Art. 10(4)(c)](https://www.legislation.gov.uk/uksi/2006/573/article/10/4/c) inserted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2010/529/regulation/3/3/c)
 
-[^key-bbceac3449a9e622fc25b042629fa557]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2006/573/article/10/5) inserted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2010/529/regulation/3/4/a)
+[^c-bbceac3449a9e622fc25b042629fa557]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2006/573/article/10/5) inserted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2010/529/regulation/3/4/a)
 
-[^key-a8d84a75a762f64e283746812a6f4976]: Textual amendment: Word in [art. 10(5)](https://www.legislation.gov.uk/uksi/2006/573/article/10/5) omitted (6.4.2006) by virtue of [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2010/529/regulation/3/4/b)
+[^c-a8d84a75a762f64e283746812a6f4976]: Textual amendment: Word in [art. 10(5)](https://www.legislation.gov.uk/uksi/2006/573/article/10/5) omitted (6.4.2006) by virtue of [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2010/529/regulation/3/4/b)
 
-[^key-92a4f48b643cd51fe731da8c8f4c6b07]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2006/573/article/10/5) inserted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2010/529/regulation/3/4/b)
+[^c-92a4f48b643cd51fe731da8c8f4c6b07]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2006/573/article/10/5) inserted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2010/529/regulation/3/4/b)
 
-[^key-5294d5c0332cc385136500f808e2fec2]: Textual amendment: Words in [art. 14(1)](https://www.legislation.gov.uk/uksi/2006/573/article/14/1) inserted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2010/529/regulation/4/2/a)
+[^c-5294d5c0332cc385136500f808e2fec2]: Textual amendment: Words in [art. 14(1)](https://www.legislation.gov.uk/uksi/2006/573/article/14/1) inserted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2010/529/regulation/4/2/a)
 
-[^key-f78d068952e28f0aa624f86919d20ee2]: Textual amendment: [Art. 14(1)(a)](https://www.legislation.gov.uk/uksi/2006/573/article/14/1/a)[(b)](https://www.legislation.gov.uk/uksi/2006/573/article/14/1/b)[(c)](https://www.legislation.gov.uk/uksi/2006/573/article/14/1/c) omitted (6.4.2006) by virtue of [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2010/529/regulation/4/2/b)
+[^c-f78d068952e28f0aa624f86919d20ee2]: Textual amendment: [Art. 14(1)(a)](https://www.legislation.gov.uk/uksi/2006/573/article/14/1/a)[(b)](https://www.legislation.gov.uk/uksi/2006/573/article/14/1/b)[(c)](https://www.legislation.gov.uk/uksi/2006/573/article/14/1/c) omitted (6.4.2006) by virtue of [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2010/529/regulation/4/2/b)
 
-[^key-4e71b25fa2ee89f1d32eac4fb4f2c40c]: Textual amendment: [Art. 14(1A)](https://www.legislation.gov.uk/uksi/2006/573/article/14/1A)[(1B)](https://www.legislation.gov.uk/uksi/2006/573/article/14/1B) inserted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2010/529/regulation/4/3)
+[^c-4e71b25fa2ee89f1d32eac4fb4f2c40c]: Textual amendment: [Art. 14(1A)](https://www.legislation.gov.uk/uksi/2006/573/article/14/1A)[(1B)](https://www.legislation.gov.uk/uksi/2006/573/article/14/1B) inserted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2010/529/regulation/4/3)
 
 [^c1543356]: Marginal citation: Paragraph 31 of Schedule 36 was amended by paragraph 55(6) of Schedule 10 to the Finance Act 2005 with effect from 6th April 2006.
 
-[^key-c22eb2cc28bf66a405519e06c1876da6]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/uksi/2006/573/article/15) substituted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2010/529/regulation/5/1)
+[^c-c22eb2cc28bf66a405519e06c1876da6]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/uksi/2006/573/article/15) substituted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2010/529/regulation/5/1)
 
 [^c1543359]: Marginal citation: Paragraph 22(6) of Schedule 36 was amended by paragraph 55(4) of Schedule 10 to the Finance Act 2005 with effect from 6th April 2006.
 
-[^key-3ced0e406ae99fa20b91faca1d62ff30]: Textual amendment: [Art. 17](https://www.legislation.gov.uk/uksi/2006/573/article/17) inserted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2010/529/regulation/6/1)
+[^c-3ced0e406ae99fa20b91faca1d62ff30]: Textual amendment: [Art. 17](https://www.legislation.gov.uk/uksi/2006/573/article/17) inserted (6.4.2006) by [The Pension Schemes (Transfers, Reorganisations and Winding Up) (Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/529)](https://www.legislation.gov.uk/uksi/2010/529), [arts. 1](https://www.legislation.gov.uk/uksi/2010/529/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2010/529/regulation/6/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This Chapter forms part of the SIP code (see section 488 of ITEPA 2003 ([^key-6f2085dfbbca435538d33bb658fa3f8f]... share incentive plans)).
+(1) This Chapter forms part of the SIP code (see section 488 of ITEPA 2003 ([^c-6f2085dfbbca435538d33bb658fa3f8f]... share incentive plans)).
 
 (2) Therefore expressions used in this Chapter and contained in the index at the end of Schedule 2 to ITEPA 2003 have the meaning indicated by that index.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f2085dfbbca435538d33bb658fa3f8f]: Textual amendment: Word in s. 490(1) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 73](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/73), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-6f2085dfbbca435538d33bb658fa3f8f]: Textual amendment: Word in s. 490(1) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 73](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/73), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))

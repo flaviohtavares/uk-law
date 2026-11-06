@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 97. Expenses to be paid out of the institution’s assets[^key-5141346fbe2e25d389fb86981d0774a9]
+## 97. Expenses to be paid out of the institution’s assets[^c-5141346fbe2e25d389fb86981d0774a9]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5141346fbe2e25d389fb86981d0774a9]: Commencement: [Rule 97](https://www.legislation.gov.uk/nisr/2026/11/rule/97) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-5141346fbe2e25d389fb86981d0774a9]: Commencement: [Rule 97](https://www.legislation.gov.uk/nisr/2026/11/rule/97) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

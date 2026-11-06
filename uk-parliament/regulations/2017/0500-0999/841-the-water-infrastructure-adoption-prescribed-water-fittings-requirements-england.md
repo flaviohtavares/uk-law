@@ -44,19 +44,19 @@ Coming into force
 
 1st October 2017
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by section 51B(6) of the Water Industry Act 1991[^f00001].[^key-c2d6b475cbe1e8ec96812d19d2d4406c]
+The Secretary of State makes these Regulations in exercise of the powers conferred by section 51B(6) of the Water Industry Act 1991[^f00001].[^c-c2d6b475cbe1e8ec96812d19d2d4406c]
 
-## 1. Citation, commencement and application[^key-7bffb7d39cc41354463115124aaed856]
+## 1. Citation, commencement and application[^c-7bffb7d39cc41354463115124aaed856]
 
 (1) These Regulations may be cited as the Water Infrastructure Adoption (Prescribed Water Fittings Requirements) (England) Regulations 2017 and come into force on 1st October 2017.
 
 (2) These Regulations apply in relation to a water undertaker whose area is wholly or mainly in England.
 
-## 2. Prescribed requirements[^key-806cd6087aa3c7334ca1f79a6d692f7c]
+## 2. Prescribed requirements[^c-806cd6087aa3c7334ca1f79a6d692f7c]
 
 The prescribed requirements for the purposes of section 51B(6) of the Water Industry Act 1991 are regulations 3 and 4 of the Water Supply (Water Fittings) Regulations 1999[^f00002], insofar as they apply by virtue of regulation 2 of those Regulations.
 
-## 3. Review[^key-c2c72c69cd5f9db2bdaa41a5d955c21c]
+## 3. Review[^c-c2c72c69cd5f9db2bdaa41a5d955c21c]
 
 (1) The Secretary of State must from time to time–
 
@@ -98,14 +98,14 @@ No impact assessment has been prepared in respect of these Regulations. An impac
 
 [^f00001]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56); section 51B was inserted by the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), section 92(1) and substituted by the Water Act [2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), section 10(3). Section 51B(6) is in force so far as it confers power on the Secretary of State to make regulations or make provision in relation to the exercise of that power. Section 219(1) defines “prescribed” as prescribed by regulations made by the Secretary of State.
 
-[^key-c2d6b475cbe1e8ec96812d19d2d4406c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/841) applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(z)](https://www.legislation.gov.uk/uksi/2020/214/article/5/z)
+[^c-c2d6b475cbe1e8ec96812d19d2d4406c]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/841) applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(z)](https://www.legislation.gov.uk/uksi/2020/214/article/5/z)
 
-[^key-7bffb7d39cc41354463115124aaed856]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/841/regulation/1) in force at 1.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/841/regulation/1/1)
+[^c-7bffb7d39cc41354463115124aaed856]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/841/regulation/1) in force at 1.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/841/regulation/1/1)
 
-[^key-806cd6087aa3c7334ca1f79a6d692f7c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/841/regulation/2) in force at 1.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/841/regulation/1/1)
+[^c-806cd6087aa3c7334ca1f79a6d692f7c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/841/regulation/2) in force at 1.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/841/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1999/1148](https://www.legislation.gov.uk/uksi/1999/1148); relevant amending instruments are [S.I. 2005/2035](https://www.legislation.gov.uk/uksi/2005/2035), [2013/1387](https://www.legislation.gov.uk/uksi/2013/1387), [2017/506](https://www.legislation.gov.uk/uksi/2017/506).
 
-[^key-c2c72c69cd5f9db2bdaa41a5d955c21c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/841/regulation/3) in force at 1.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/841/regulation/1/1)
+[^c-c2c72c69cd5f9db2bdaa41a5d955c21c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/841/regulation/3) in force at 1.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/841/regulation/1/1)
 
 [^f00003]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).

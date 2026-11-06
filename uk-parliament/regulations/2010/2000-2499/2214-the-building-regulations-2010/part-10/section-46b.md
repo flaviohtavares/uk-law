@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46B. Lapse of building control approval: commencement of work: Wales[^key-bf59fac3f47a13a50181f7fcd97938db][^key-80acb5857f4faecda729963558d49c05]
+## 46B. Lapse of building control approval: commencement of work: Wales[^c-bf59fac3f47a13a50181f7fcd97938db][^c-80acb5857f4faecda729963558d49c05]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ work is to be regarded as commenced when the sub-surface structure of the buildi
 
 ## Annotations
 
-[^key-bf59fac3f47a13a50181f7fcd97938db]: Modification: [Reg. 46B](https://www.legislation.gov.uk/uksi/2010/2214/regulation/46B) applied (W.) (1.7.2026) by [The Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025 (S.I. 2025/1321)](https://www.legislation.gov.uk/wsi/2025/1321), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3), [9(12)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/9/12), [17(11)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/17/11)
+[^c-bf59fac3f47a13a50181f7fcd97938db]: Modification: [Reg. 46B](https://www.legislation.gov.uk/uksi/2010/2214/regulation/46B) applied (W.) (1.7.2026) by [The Building (Higher-Risk Buildings Procedures) (Wales) Regulations 2025 (S.I. 2025/1321)](https://www.legislation.gov.uk/wsi/2025/1321), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/1/3), [9(12)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/9/12), [17(11)](https://www.legislation.gov.uk/wsi/2025/1321/regulation/17/11)
 
-[^key-80acb5857f4faecda729963558d49c05]: Textual amendment: [Reg. 46B](https://www.legislation.gov.uk/uksi/2010/2214/regulation/46B) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/9/2) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))
+[^c-80acb5857f4faecda729963558d49c05]: Textual amendment: [Reg. 46B](https://www.legislation.gov.uk/uksi/2010/2214/regulation/46B) inserted (W.) (1.7.2026) by [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/9/2) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))

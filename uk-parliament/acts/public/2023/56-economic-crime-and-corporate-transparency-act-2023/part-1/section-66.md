@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Authorisation of corporate service providers[^key-a6a58f261f3c75bb587a85480bee0821][^key-3cb665303371cd6ed6d8ad9995ab967a]
+## 66. Authorisation of corporate service providers[^c-a6a58f261f3c75bb587a85480bee0821][^c-3cb665303371cd6ed6d8ad9995ab967a]
 
 *Extent: E+W+S+N.I.*
 
@@ -208,6 +208,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a6a58f261f3c75bb587a85480bee0821]: Commencement: S. 66 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-a6a58f261f3c75bb587a85480bee0821]: Commencement: S. 66 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-3cb665303371cd6ed6d8ad9995ab967a]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2023/56/section/66) in force at 18.3.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/a)
+[^c-3cb665303371cd6ed6d8ad9995ab967a]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2023/56/section/66) in force at 18.3.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/a)

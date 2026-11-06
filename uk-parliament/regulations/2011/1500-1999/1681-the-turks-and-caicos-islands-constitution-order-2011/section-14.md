@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Power reserved to Her Majesty[^key-1661c617155ca83013e7f46e6c7fe8f4]
+## 14. Power reserved to Her Majesty[^c-1661c617155ca83013e7f46e6c7fe8f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Her Majesty reserves to Herself power, with the advice and consent of Her Privy 
 
 ## Annotations
 
-[^key-1661c617155ca83013e7f46e6c7fe8f4]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2011/1681/article/14) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)
+[^c-1661c617155ca83013e7f46e6c7fe8f4]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2011/1681/article/14) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)

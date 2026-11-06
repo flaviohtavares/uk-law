@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74L. Information relating to the Lung Cancer Screening Programme[^key-72d68e5bf6cbe7f8bddac9dcf6e0128a]
+## 74L. Information relating to the Lung Cancer Screening Programme[^c-72d68e5bf6cbe7f8bddac9dcf6e0128a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72d68e5bf6cbe7f8bddac9dcf6e0128a]: Textual amendment: [Regs. 74K](https://www.legislation.gov.uk/uksi/2015/1862/regulation/74K), [74L](https://www.legislation.gov.uk/uksi/2015/1862/regulation/74L) inserted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2026/532/schedule/1/paragraph/4)
+[^c-72d68e5bf6cbe7f8bddac9dcf6e0128a]: Textual amendment: [Regs. 74K](https://www.legislation.gov.uk/uksi/2015/1862/regulation/74K), [74L](https://www.legislation.gov.uk/uksi/2015/1862/regulation/74L) inserted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2026/532/schedule/1/paragraph/4)

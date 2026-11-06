@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Applications for violent offender orders[^key-a63018ed1cb4d18b9d2433a3473547f6]
+## 100. Applications for violent offender orders[^c-a63018ed1cb4d18b9d2433a3473547f6]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ if it appears to the chief officer that the conditions in subsection (2) are met
 
 ## Annotations
 
-[^key-a63018ed1cb4d18b9d2433a3473547f6]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2008/4/section/100) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/c)
+[^c-a63018ed1cb4d18b9d2433a3473547f6]: Commencement: [S. 100](https://www.legislation.gov.uk/ukpga/2008/4/section/100) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/c)

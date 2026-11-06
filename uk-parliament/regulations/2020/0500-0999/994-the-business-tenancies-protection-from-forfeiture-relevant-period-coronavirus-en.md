@@ -33,7 +33,7 @@ summary: ''
 
 Landlord And Tenant, England
 
-The Business Tenancies (Protection from Forfeiture: Relevant Period) (Coronavirus) (England) (No. 2) Regulations 2020 (revoked)[^key-6267d4c166ef268e92d02389ddd6cac7]
+The Business Tenancies (Protection from Forfeiture: Relevant Period) (Coronavirus) (England) (No. 2) Regulations 2020 (revoked)[^c-6267d4c166ef268e92d02389ddd6cac7]
 
 Made
 
@@ -47,28 +47,28 @@ Coming into force
 
 29th September 2020
 
-[^key-6267d4c166ef268e92d02389ddd6cac7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6267d4c166ef268e92d02389ddd6cac7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-6267d4c166ef268e92d02389ddd6cac7]
+## 1. Citation, commencement and application[^c-6267d4c166ef268e92d02389ddd6cac7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension of “relevant period”[^key-6267d4c166ef268e92d02389ddd6cac7]
+## 2. Extension of “relevant period”[^c-6267d4c166ef268e92d02389ddd6cac7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-6267d4c166ef268e92d02389ddd6cac7]
+## 3. Revocation[^c-6267d4c166ef268e92d02389ddd6cac7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6267d4c166ef268e92d02389ddd6cac7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6267d4c166ef268e92d02389ddd6cac7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6267d4c166ef268e92d02389ddd6cac7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6267d4c166ef268e92d02389ddd6cac7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6267d4c166ef268e92d02389ddd6cac7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/994) revoked (30.12.2020) by [The Business Tenancies (Protection from Forfeiture: Relevant Period) (Coronavirus) (England) (No. 3) Regulations 2020 (S.I. 2020/1472)](https://www.legislation.gov.uk/uksi/2020/1472), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1472/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1472/regulation/3)
+[^c-6267d4c166ef268e92d02389ddd6cac7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/994) revoked (30.12.2020) by [The Business Tenancies (Protection from Forfeiture: Relevant Period) (Coronavirus) (England) (No. 3) Regulations 2020 (S.I. 2020/1472)](https://www.legislation.gov.uk/uksi/2020/1472), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1472/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1472/regulation/3)

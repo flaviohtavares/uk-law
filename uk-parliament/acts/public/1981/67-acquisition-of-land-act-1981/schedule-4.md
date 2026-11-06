@@ -38,7 +38,7 @@ TABLE
 | In the Fire Services Act 1947 (c. 41) |
 | section 3(5). |
 | In the Agriculture Act 1947 (c. 48) |
-| [^key-02b3b967ed4febe55bea356d47dcb23b]. . . |
+| [^c-02b3b967ed4febe55bea356d47dcb23b]. . . |
 | section 93(1)(b). |
 | [^c3316751]. . . |
 | [^c3316761]. . . |
@@ -69,8 +69,8 @@ TABLE
 | [^c3316841]. . . |
 | [^c3316851]. . . |
 | section 55(1), (2) and (3). |
-| [^key-53d65a42d71c5f35f2836b331af52b5b]. . . |
-| [^key-53d65a42d71c5f35f2836b331af52b5b]. . . |
+| [^c-53d65a42d71c5f35f2836b331af52b5b]. . . |
+| [^c-53d65a42d71c5f35f2836b331af52b5b]. . . |
 | [^c3316861]. . . |
 | In the Gas Act 1972 (c. 60) |
 | paragraph 3(1) of Schedule 2. |
@@ -100,7 +100,7 @@ TABLE
 
 ### Agriculture Act 1947 (c. 48)
 
-**3.**[^key-bf422355d17bb87ffc7497a52af7b526] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-bf422355d17bb87ffc7497a52af7b526] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c3316931]
 
@@ -258,7 +258,7 @@ TABLE
 
 ### Courts Act 1971 (c. 23)
 
-**19.**[^key-74061c31d830a054dc5a1de99b3972d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-74061c31d830a054dc5a1de99b3972d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **20.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c3317041]
 
@@ -296,7 +296,7 @@ TABLE
 
 ### National Health Service Act 1977 (c. 49)
 
-**28.**[^key-9bb62677e00a489b3988b30a6ed30960] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-9bb62677e00a489b3988b30a6ed30960] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Ancient Monuments and Archaeological Areas Act 1979 (c. 46)
 
@@ -408,7 +408,7 @@ TABLE
 
 [^c3316741]: Textual amendment: Entry repealed by [Energy Act 1983 (c. 25, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1983/25), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1983/25/schedule/4/part/I)
 
-[^key-02b3b967ed4febe55bea356d47dcb23b]: Textual amendment: Entry in Sch. 4 para. 1 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-02b3b967ed4febe55bea356d47dcb23b]: Textual amendment: Entry in Sch. 4 para. 1 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c3316751]: Textual amendment: Entry repealed by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/4), [Sch. 18](https://www.legislation.gov.uk/ukpga/1989/29/schedule/18)
 
@@ -430,7 +430,7 @@ TABLE
 
 [^c3316851]: Textual amendment: Entry in Sch. 4 para. 1 Table repealed (26.3.2001 subject to art. 1(3) of the amending S.I.) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1149/schedule/2)
 
-[^key-53d65a42d71c5f35f2836b331af52b5b]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1981/67/schedule/4/paragraph/1) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-53d65a42d71c5f35f2836b331af52b5b]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1981/67/schedule/4/paragraph/1) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
 [^c3316861]: Textual amendment: Entry repealed by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF:123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 3](https://www.legislation.gov.uk/ukpga/1990/11/section/3), [Sch. 1](https://www.legislation.gov.uk/ukpga/1990/11/schedule/1)
 
@@ -444,7 +444,7 @@ TABLE
 
 [^c3316921]: Textual amendment: Entry in Sch. 4 para. 1 Table repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 
-[^key-bf422355d17bb87ffc7497a52af7b526]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/1981/67/schedule/4/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-bf422355d17bb87ffc7497a52af7b526]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/1981/67/schedule/4/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c3316931]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/1981/67/schedule/4/paragraph/4) repealed by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [s. 190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [Sch. 27 Pt. I](https://www.legislation.gov.uk/ukpga/1989/15/schedule/27/part/I) (with [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)–(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [41(1)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/41/1), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58))
 
@@ -468,7 +468,7 @@ TABLE
 
 [^c3317031]: Textual amendment: Words in [Sch. 4 para. 16(3)](https://www.legislation.gov.uk/ukpga/1981/67/schedule/4/paragraph/16/3) repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 
-[^key-74061c31d830a054dc5a1de99b3972d2]: Textual amendment: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/1981/67/schedule/4/paragraph/19) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-74061c31d830a054dc5a1de99b3972d2]: Textual amendment: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/1981/67/schedule/4/paragraph/19) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
 [^c3317041]: Textual amendment: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/1981/67/schedule/4/paragraph/20) repealed by [Civil Aviation Act 1982 (c. 16, SIF 9)](https://www.legislation.gov.uk/ukpga/1982/16), [s. 109(3)](https://www.legislation.gov.uk/ukpga/1982/16/section/109/3), [Sch. 16](https://www.legislation.gov.uk/ukpga/1982/16/schedule/16)
 
@@ -482,6 +482,6 @@ TABLE
 
 [^c3317091]: Textual amendment: [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/1981/67/schedule/4/paragraph/27) repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV) (with ss. 137(1), 139(2) and 143(2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 
-[^key-9bb62677e00a489b3988b30a6ed30960]: Textual amendment: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/1981/67/schedule/4/paragraph/28) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-9bb62677e00a489b3988b30a6ed30960]: Textual amendment: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/1981/67/schedule/4/paragraph/28) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c3317101]: Textual amendment: [Sch. 4 para. 30(2)(3)(10)(11)](https://www.legislation.gov.uk/ukpga/1981/67/schedule/4/paragraph/30/2/3/10/11) repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. V](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/V) (with ss. 137(1), 139(2) and 143(2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)

@@ -29,8 +29,8 @@ summary: ''
 
 (2) The extent of the Authority's powers to make such an order is not limited, in relation to any purposes for which they are exercisable, to the minimum necessary to achieve those purposes.
 
-(3)[^key-9b8be34d94519ae3b8d7db464a2ea307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9b8be34d94519ae3b8d7db464a2ea307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9b8be34d94519ae3b8d7db464a2ea307]: Textual amendment: [Art. 70(3)](https://www.legislation.gov.uk/nisi/1995/3213/article/70/3) omitted (6.4.2016) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 61](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/61)
+[^c-9b8be34d94519ae3b8d7db464a2ea307]: Textual amendment: [Art. 70(3)](https://www.legislation.gov.uk/nisi/1995/3213/article/70/3) omitted (6.4.2016) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 61](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/61)

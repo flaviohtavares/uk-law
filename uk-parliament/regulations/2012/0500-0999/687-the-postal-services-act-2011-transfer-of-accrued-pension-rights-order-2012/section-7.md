@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Discharge of Trustee[^key-5589dfbe945d7004b118c70382d0edad][^key-d06000455ad2f37074b09c42acff4eb2]
+## 7. Discharge of Trustee[^c-5589dfbe945d7004b118c70382d0edad][^c-d06000455ad2f37074b09c42acff4eb2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ The Trustee of the RMPP is discharged from any liability in respect of the follo
 
 ## Annotations
 
-[^key-5589dfbe945d7004b118c70382d0edad]: Commencement: Art. 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-5589dfbe945d7004b118c70382d0edad]: Commencement: Art. 7 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-d06000455ad2f37074b09c42acff4eb2]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/687/article/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-d06000455ad2f37074b09c42acff4eb2]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/687/article/7) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)

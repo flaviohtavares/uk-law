@@ -46,26 +46,26 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 1(4), (6) and (7) of the Gambling (Licensing and Advertising) Act 2014[^f00001].
 
-## 1. Title and commencement[^key-43a44c9fa7852c8fca50b2b348778be7]
+## 1. Title and commencement[^c-43a44c9fa7852c8fca50b2b348778be7]
 
 The title of this Order is the Gambling (Licensing and Advertising) Act 2014 (Transitional Provisions) Order 2014 and it comes into force on 16th July 2014.
 
-## 2. Interpretation[^key-689bc0545224f85d133a47db0c9aaa28]
+## 2. Interpretation[^c-689bc0545224f85d133a47db0c9aaa28]
 
 (1) In this Order—
 
 - (a) “the 2005 Act” means the Gambling Act 2005[^f00002];
 - (b) “continuation licence” means a remote operating licence issued by the Commission under article 3;
 - (c) “existing licence” means a remote operating licence held by a person immediately prior to making an advance application”; and
-- (d) “relevant state” means an EEA state, Gibraltar, the Isle of Man,[^key-70f0456c1829418115047f8bed557168] the Island of Alderney, Tasmania, and Antigua and Barbuda.
+- (d) “relevant state” means an EEA state, Gibraltar, the Isle of Man,[^c-70f0456c1829418115047f8bed557168] the Island of Alderney, Tasmania, and Antigua and Barbuda.
 
 (2) Expressions used in this Order and in the Gambling Act 2005 have the same meaning in this Order as in the 2005 Act.
 
-## 3. Continuation licences[^key-326fa943a2cecac58a82bc00274ce978]
+## 3. Continuation licences[^c-326fa943a2cecac58a82bc00274ce978]
 
-(1) If the Commission has not finally determined an advance application by 1st November[^key-982ae84c876fc1028793a5d913603cb0] 2014 it must, where the condition in paragraph (2) is satisfied, issue the applicant with a remote operating licence authorising that applicant to carry on such activity as is set out in paragraph (3).
+(1) If the Commission has not finally determined an advance application by 1st November[^c-982ae84c876fc1028793a5d913603cb0] 2014 it must, where the condition in paragraph (2) is satisfied, issue the applicant with a remote operating licence authorising that applicant to carry on such activity as is set out in paragraph (3).
 
-(2) The condition is that the advance application was made on or before 23rd October 2014[^key-f583493cf9a3fdbc77b0aceabb46ea28] by—
+(2) The condition is that the advance application was made on or before 23rd October 2014[^c-f583493cf9a3fdbc77b0aceabb46ea28] by—
 
 - (a) a person, or
 - (b) a holding company or wholly-owned subsidiary (as defined respectively in subsection (1) and (2) of section 1159 of the Companies Act 2006)[^f00003]) of a person,
@@ -74,7 +74,7 @@ who, on the date of application, provides facilities for remote gambling in Grea
 
 (3) The activity referred to in paragraph (1) is the provision of such facilities for remote gambling as, in the Commission’s view, the applicant, holding company or wholly-owned subsidiary of the applicant, as the case may be, provided in Great Britain under the law about gambling of the relevant state on the date of application.
 
-## 4. Application of the Gambling Act 2005 to continuation licences[^key-2f12991b4f486b83f87b1b4e5ec21e21]
+## 4. Application of the Gambling Act 2005 to continuation licences[^c-2f12991b4f486b83f87b1b4e5ec21e21]
 
 (1) The 2005 Act applies to continuation licences with the modifications specified in this article.
 
@@ -90,20 +90,20 @@ who, on the date of application, provides facilities for remote gambling in Grea
 - (a) the Commission finally determines the advance application, or
 - (b) it ceases to have effect in accordance with section 113, 114, 115, 118 or 119 of the 2005 Act (which provide respectively for the surrender, lapse, forfeiture, suspension and revocation of operating licences).
 
-## 5. Annual fees for an applicant with a continuation licence but no existing licence[^key-c55ee53e1536f3bd953ee991ed7b0418]
+## 5. Annual fees for an applicant with a continuation licence but no existing licence[^c-c55ee53e1536f3bd953ee991ed7b0418]
 
 (1) This article only applies to a person—
 
 - (a) who does not hold an existing licence;
 - (b) who makes an advance application for a remote operating licence; and
-- (c) to whom a continuation licence was issued on 1st November[^key-86e8d34530fb86a5b486de7b0e83a090] 2014.
+- (c) to whom a continuation licence was issued on 1st November[^c-86e8d34530fb86a5b486de7b0e83a090] 2014.
 
 (2) The first annual fee payable by the applicant under section 100(1)(a) of the 2005 Act in respect of the continuation licence is the amount prescribed for the kind of remote operating licence issued to the applicant as a continuation licence.
 
 (3) Where the Commission grants the advance application (whether in whole or in part) and issues a remote operating licence to the applicant, the first annual fee payable by the applicant for that remote operating licence is—
 
 - (a) if the prescribed first annual fee payable under section 100(1)(a) of the 2005 Act for that remote operating licence is equal to or less than the prescribed first annual fee payable for that continuation licence, £0; or
-- (b) if the prescribed first annual fee payable under section 100(1)(a) of the 2005 Act for that remote operating licence exceeds the prescribed first annual fee payable for that continuation licence, the difference between those two amounts in respect of the period from the date of issue of that remote operating licence to 31st October[^key-53fd5cfcd2ee51a87d462284bf2b05e2] 2015.
+- (b) if the prescribed first annual fee payable under section 100(1)(a) of the 2005 Act for that remote operating licence exceeds the prescribed first annual fee payable for that continuation licence, the difference between those two amounts in respect of the period from the date of issue of that remote operating licence to 31st October[^c-53fd5cfcd2ee51a87d462284bf2b05e2] 2015.
 
 (4) Where—
 
@@ -116,13 +116,13 @@ the Commission must repay to the applicant the difference between those two amou
 
 (6) Where the Commission grants the advance application (whether in whole or in part) and issues a remote operating licence to the applicant, the annual fee for that remote operating licence under section 100(1)(b) of the 2005 Act must be paid before 1st November 2015 and before 1st November in each year thereafter.
 
-## 6. Annual fees for an applicant with a continuation licence and an existing licence[^key-fb6629d7bb9372ecadaf2796c2be8cfb]
+## 6. Annual fees for an applicant with a continuation licence and an existing licence[^c-fb6629d7bb9372ecadaf2796c2be8cfb]
 
 (1) This article applies only to a person—
 
 - (a) who holds an existing licence;
 - (b) who makes an advance application to vary that licence; and
-- (c) to whom a continuation licence was issued on 1st November[^key-bf4450e6f36d6704d0fa33c716ede458] 2014.
+- (c) to whom a continuation licence was issued on 1st November[^c-bf4450e6f36d6704d0fa33c716ede458] 2014.
 
 (2) The first annual fee payable by the applicant under section 100(1)(a) of the 2005 Act in respect of the continuation licence is the difference between—
 
@@ -143,7 +143,7 @@ the Commission must repay to the applicant the difference between those two amou
 - (a) the amount referred to in paragraph (2)(a), and
 - (b) the prescribed first annual fee that would have been payable under section 100(1)(a) of the 2005 Act for the kind of remote operating licence held by the applicant upon the grant of the application,
 
-in respect of the period from the date on which the application for variation was granted to 31st October[^key-a61c67e1f7a4b41cbd52630bab91b4a4] 2015.
+in respect of the period from the date on which the application for variation was granted to 31st October[^c-a61c67e1f7a4b41cbd52630bab91b4a4] 2015.
 
 (5) Where the Commission wholly rejects the advance application to vary the existing licence—
 
@@ -154,12 +154,12 @@ in respect of the period from the date on which the application for variation wa
   as relates to the period from the date of rejection to 31st October 2015; and
 - (b) the annual fee under section 100(1)(b) of the 2005 Act for the remote operating licence held must be paid before 1st November 2015 and before 1st November in each year thereafter.
 
-## 7. Annual fees for an applicant with an existing licence but no continuation licence[^key-55d227c913d2f030a8c8692cf2623a72]
+## 7. Annual fees for an applicant with an existing licence but no continuation licence[^c-55d227c913d2f030a8c8692cf2623a72]
 
 (1) This article applies only to a person—
 
 - (a) who makes an advance application to vary an existing licence which is granted (in whole or in part) by the Commission; and
-- (b) to whom no continuation licence was issued on 1st November[^key-dac2cc17661e7df243ab4bc2729fc172] 2014.
+- (b) to whom no continuation licence was issued on 1st November[^c-dac2cc17661e7df243ab4bc2729fc172] 2014.
 
 (2) Upon the grant of the advance application for variation, the applicant must pay to the Commission, within 30 days, the difference between—
 
@@ -211,36 +211,36 @@ A full impact assessment of the effect that the reform of the remote gambling re
 
 [^f00001]: Footnote: [2014 c.17](https://www.legislation.gov.uk/ukpga/2014/17).
 
-[^key-43a44c9fa7852c8fca50b2b348778be7]: Commencement: Art. 1 in force at 16.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1641/article/1)
+[^c-43a44c9fa7852c8fca50b2b348778be7]: Commencement: Art. 1 in force at 16.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1641/article/1)
 
-[^key-689bc0545224f85d133a47db0c9aaa28]: Commencement: Art. 2 in force at 16.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1641/article/1)
+[^c-689bc0545224f85d133a47db0c9aaa28]: Commencement: Art. 2 in force at 16.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1641/article/1)
 
 [^f00002]: Footnote: [2005 c.19](https://www.legislation.gov.uk/ukpga/2005/19).
 
-[^key-70f0456c1829418115047f8bed557168]: Textual amendment: Words in [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/1641/article/2/1/d) inserted (16.7.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/1675)](https://www.legislation.gov.uk/uksi/2014/1675), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1675/article/1), [2](https://www.legislation.gov.uk/uksi/2014/1675/article/2)
+[^c-70f0456c1829418115047f8bed557168]: Textual amendment: Words in [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/1641/article/2/1/d) inserted (16.7.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/1675)](https://www.legislation.gov.uk/uksi/2014/1675), [arts. 1](https://www.legislation.gov.uk/uksi/2014/1675/article/1), [2](https://www.legislation.gov.uk/uksi/2014/1675/article/2)
 
-[^key-326fa943a2cecac58a82bc00274ce978]: Commencement: Art. 3 in force at 16.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1641/article/1)
+[^c-326fa943a2cecac58a82bc00274ce978]: Commencement: Art. 3 in force at 16.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1641/article/1)
 
-[^key-982ae84c876fc1028793a5d913603cb0]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2014/1641/article/3) substituted (29.9.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Commencement No.1) (Amendment and Consequential Amendments) Order 2014 (S.I. 2014/2646)](https://www.legislation.gov.uk/uksi/2014/2646), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2646/article/3/a)
+[^c-982ae84c876fc1028793a5d913603cb0]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2014/1641/article/3) substituted (29.9.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Commencement No.1) (Amendment and Consequential Amendments) Order 2014 (S.I. 2014/2646)](https://www.legislation.gov.uk/uksi/2014/2646), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2646/article/3/a)
 
-[^key-f583493cf9a3fdbc77b0aceabb46ea28]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2014/1641/article/3/2) substituted (23.10.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Transitional Provisions) (Amendment) (No.2) Order 2014 (S.I. 2014/2665)](https://www.legislation.gov.uk/uksi/2014/2665), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2665/article/1), [2](https://www.legislation.gov.uk/uksi/2014/2665/article/2)
+[^c-f583493cf9a3fdbc77b0aceabb46ea28]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2014/1641/article/3/2) substituted (23.10.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Transitional Provisions) (Amendment) (No.2) Order 2014 (S.I. 2014/2665)](https://www.legislation.gov.uk/uksi/2014/2665), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2665/article/1), [2](https://www.legislation.gov.uk/uksi/2014/2665/article/2)
 
 [^f00003]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-2f12991b4f486b83f87b1b4e5ec21e21]: Commencement: Art. 4 in force at 16.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1641/article/1)
+[^c-2f12991b4f486b83f87b1b4e5ec21e21]: Commencement: Art. 4 in force at 16.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1641/article/1)
 
-[^key-c55ee53e1536f3bd953ee991ed7b0418]: Commencement: Art. 5 in force at 16.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1641/article/1)
+[^c-c55ee53e1536f3bd953ee991ed7b0418]: Commencement: Art. 5 in force at 16.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1641/article/1)
 
-[^key-86e8d34530fb86a5b486de7b0e83a090]: Textual amendment: Words in art. 5 substituted (29.9.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Commencement No.1) (Amendment and Consequential Amendments) Order 2014 (S.I. 2014/2646)](https://www.legislation.gov.uk/uksi/2014/2646), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2646/article/3/a)
+[^c-86e8d34530fb86a5b486de7b0e83a090]: Textual amendment: Words in art. 5 substituted (29.9.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Commencement No.1) (Amendment and Consequential Amendments) Order 2014 (S.I. 2014/2646)](https://www.legislation.gov.uk/uksi/2014/2646), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2646/article/3/a)
 
-[^key-53fd5cfcd2ee51a87d462284bf2b05e2]: Textual amendment: Words in art. 5 substituted (29.9.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Commencement No.1) (Amendment and Consequential Amendments) Order 2014 (S.I. 2014/2646)](https://www.legislation.gov.uk/uksi/2014/2646), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2646/article/3/b)
+[^c-53fd5cfcd2ee51a87d462284bf2b05e2]: Textual amendment: Words in art. 5 substituted (29.9.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Commencement No.1) (Amendment and Consequential Amendments) Order 2014 (S.I. 2014/2646)](https://www.legislation.gov.uk/uksi/2014/2646), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2646/article/3/b)
 
-[^key-fb6629d7bb9372ecadaf2796c2be8cfb]: Commencement: Art. 6 in force at 16.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1641/article/1)
+[^c-fb6629d7bb9372ecadaf2796c2be8cfb]: Commencement: Art. 6 in force at 16.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1641/article/1)
 
-[^key-bf4450e6f36d6704d0fa33c716ede458]: Textual amendment: Words in art. 6 substituted (29.9.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Commencement No.1) (Amendment and Consequential Amendments) Order 2014 (S.I. 2014/2646)](https://www.legislation.gov.uk/uksi/2014/2646), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2646/article/3/a)
+[^c-bf4450e6f36d6704d0fa33c716ede458]: Textual amendment: Words in art. 6 substituted (29.9.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Commencement No.1) (Amendment and Consequential Amendments) Order 2014 (S.I. 2014/2646)](https://www.legislation.gov.uk/uksi/2014/2646), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2646/article/3/a)
 
-[^key-a61c67e1f7a4b41cbd52630bab91b4a4]: Textual amendment: Words in art. 6 substituted (29.9.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Commencement No.1) (Amendment and Consequential Amendments) Order 2014 (S.I. 2014/2646)](https://www.legislation.gov.uk/uksi/2014/2646), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2646/article/3/b)
+[^c-a61c67e1f7a4b41cbd52630bab91b4a4]: Textual amendment: Words in art. 6 substituted (29.9.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Commencement No.1) (Amendment and Consequential Amendments) Order 2014 (S.I. 2014/2646)](https://www.legislation.gov.uk/uksi/2014/2646), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2646/article/3/b)
 
-[^key-55d227c913d2f030a8c8692cf2623a72]: Commencement: Art. 7 in force at 16.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1641/article/1)
+[^c-55d227c913d2f030a8c8692cf2623a72]: Commencement: Art. 7 in force at 16.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1641/article/1)
 
-[^key-dac2cc17661e7df243ab4bc2729fc172]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2014/1641/article/7) substituted (29.9.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Commencement No.1) (Amendment and Consequential Amendments) Order 2014 (S.I. 2014/2646)](https://www.legislation.gov.uk/uksi/2014/2646), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2646/article/3/a)
+[^c-dac2cc17661e7df243ab4bc2729fc172]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2014/1641/article/7) substituted (29.9.2014) by [The Gambling (Licensing and Advertising) Act 2014 (Commencement No.1) (Amendment and Consequential Amendments) Order 2014 (S.I. 2014/2646)](https://www.legislation.gov.uk/uksi/2014/2646), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/2646/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Certificate of compliance[^key-024291580fa13c02fdb8f684a5391bba]
+## 23. Certificate of compliance[^c-024291580fa13c02fdb8f684a5391bba]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ shall be filed in court with the certificate.
 
 ## Annotations
 
-[^key-024291580fa13c02fdb8f684a5391bba]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2011/1301/rule/23) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-024291580fa13c02fdb8f684a5391bba]: Commencement: [Rule 23](https://www.legislation.gov.uk/uksi/2011/1301/rule/23) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
 [^f00011]: Footnote: Section 390 has been amended by the Adults with Incapacity (Scotland) Act [2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4) section 88(2), Schedule 5 paragraph 18; by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40) section 257(3) Schedule 21 paragraph 4; by the Mental Capacity Act [2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9) section 67(1) (2), Schedule 6 paragraph 31(1), (3)(b), (3)(c), Schedule 7; by the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15) section 108(3), Schedule 20 paragraphs 1, 6(1) to (3); by [S.S.I 2005/465](https://www.legislation.gov.uk/ssi/2005/465); [S.I. 2005/2078](https://www.legislation.gov.uk/uksi/2005/2078); [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941) and [S.I. 2009/3081](https://www.legislation.gov.uk/uksi/2009/3081).

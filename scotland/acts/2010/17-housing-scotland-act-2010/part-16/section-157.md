@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 157. Vacant dwellings: use of information obtained for council tax purposes[^key-e7388450d07eff4bc7a1f1ce967def00]
+## 157. Vacant dwellings: use of information obtained for council tax purposes[^c-e7388450d07eff4bc7a1f1ce967def00]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7388450d07eff4bc7a1f1ce967def00]: Commencement: S. 157 in force at 7.10.2011 by [S.S.I. 2011/339](https://www.legislation.gov.uk/ssi/2011/339), [art. 2](https://www.legislation.gov.uk/ssi/2011/339/article/2)
+[^c-e7388450d07eff4bc7a1f1ce967def00]: Commencement: S. 157 in force at 7.10.2011 by [S.S.I. 2011/339](https://www.legislation.gov.uk/ssi/2011/339), [art. 2](https://www.legislation.gov.uk/ssi/2011/339/article/2)

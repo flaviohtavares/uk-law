@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 15 — Further provision about local social services authorities[^key-b86af9b8bddee589962e1c0e8703c0f1]
+## SCHEDULE 15 — Further provision about local social services authorities[^c-b86af9b8bddee589962e1c0e8703c0f1]
 
 *Extent: E+W*
 
@@ -24,20 +24,20 @@ summary: ''
 
 Section 192
 
-### Care of mothers and young children[^key-b86af9b8bddee589962e1c0e8703c0f1]
+### Care of mothers and young children[^c-b86af9b8bddee589962e1c0e8703c0f1]
 
-**1.**[^key-b86af9b8bddee589962e1c0e8703c0f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b86af9b8bddee589962e1c0e8703c0f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Prevention, care and after-care[^key-b86af9b8bddee589962e1c0e8703c0f1]
+### Prevention, care and after-care[^c-b86af9b8bddee589962e1c0e8703c0f1]
 
-**2.**[^key-b86af9b8bddee589962e1c0e8703c0f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b86af9b8bddee589962e1c0e8703c0f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2A.**[^key-b86af9b8bddee589962e1c0e8703c0f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2A.**[^c-b86af9b8bddee589962e1c0e8703c0f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Research[^key-b86af9b8bddee589962e1c0e8703c0f1]
+### Research[^c-b86af9b8bddee589962e1c0e8703c0f1]
 
-**3.**[^key-b86af9b8bddee589962e1c0e8703c0f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b86af9b8bddee589962e1c0e8703c0f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b86af9b8bddee589962e1c0e8703c0f1]: Textual amendment: [Sch. 15](https://www.legislation.gov.uk/ukpga/2006/42/schedule/15) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [250](https://www.legislation.gov.uk/wsi/2016/413/regulation/250)
+[^c-b86af9b8bddee589962e1c0e8703c0f1]: Textual amendment: [Sch. 15](https://www.legislation.gov.uk/ukpga/2006/42/schedule/15) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [250](https://www.legislation.gov.uk/wsi/2016/413/regulation/250)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Interpretation of Part III.[^c10458501][^key-40b0ede26b9194faded621917af6e36f]
+## 46. Interpretation of Part III.[^c10458501][^c-40b0ede26b9194faded621917af6e36f]
 
 *Extent: E+W+S+N.I.*
 
 (1) In this Part of this Act, except in so far as the context otherwise requires—
 
 - act of violence shall be construed in accordance with section 18(2) of this Act,
-- “address”, in relation to electronic communications, means any number or address used for the purposes of such communications,[^key-b88d64562bb00a67daaf002e7a38f5e9]
+- “address”, in relation to electronic communications, means any number or address used for the purposes of such communications,[^c-b88d64562bb00a67daaf002e7a38f5e9]
 - article includes any substance, whether in solid or liquid form or in the form of a gas or vapour,
 - authorised person means a person authorised in writing by the Secretary of State for the purposes of this Part of this Act,
 - British ship means a ship which—
@@ -67,9 +67,9 @@ summary: ''
 
 [^c10458501]: Modification: S. 46 extended (with modifications) (Jersey) (1.1.1997) by [S.I. 1996/2881](https://www.legislation.gov.uk/uksi/1996/2881), [art. 2](https://www.legislation.gov.uk/uksi/1996/2881/article/2), [Sch. Pts. I](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/I), [II](https://www.legislation.gov.uk/uksi/1996/2881/schedule/part/II)
 
-[^key-40b0ede26b9194faded621917af6e36f]: Modification: Ss. 45, 46 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
+[^c-40b0ede26b9194faded621917af6e36f]: Modification: Ss. 45, 46 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the extending S.I.) by [The Maritime Security (Jersey) Order 2014 (S.I. 2014/265)](https://www.legislation.gov.uk/uksi/2014/265), [art. 2](https://www.legislation.gov.uk/uksi/2014/265/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2014/265/schedule)
 
-[^key-b88d64562bb00a67daaf002e7a38f5e9]: Textual amendment: Words in [s. 46(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/46/1) inserted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2006/2190/article/5/2)
+[^c-b88d64562bb00a67daaf002e7a38f5e9]: Textual amendment: Words in [s. 46(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/46/1) inserted (30.9.2006) by [The Transport Security (Electronic Communications) Order 2006 (S.I. 2006/2190)](https://www.legislation.gov.uk/uksi/2006/2190), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2190/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2006/2190/article/5/2)
 
 [^c10458511]: Textual amendment: Words in the definition of "British Ship" in s. 46(1) substituted (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/2), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 13 para. 88(6)(a)(i)(ii)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/88/6/a/i/ii) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1))
 

@@ -35,18 +35,18 @@ amending Regulation (EC) No 1099/2008 of the European Parliament and of the Coun
 
 (Text with EEA relevance) (revoked)
 
-[^key-b0618c84a9062e0570b68e64d396b67d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0618c84a9062e0570b68e64d396b67d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-b0618c84a9062e0570b68e64d396b67d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b0618c84a9062e0570b68e64d396b67d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b0618c84a9062e0570b68e64d396b67d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b0618c84a9062e0570b68e64d396b67d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0618c84a9062e0570b68e64d396b67d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0618c84a9062e0570b68e64d396b67d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-b0618c84a9062e0570b68e64d396b67d]
+## ANNEX[^c-b0618c84a9062e0570b68e64d396b67d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b0618c84a9062e0570b68e64d396b67d]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 280](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/280); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b0618c84a9062e0570b68e64d396b67d]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 280](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/280); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

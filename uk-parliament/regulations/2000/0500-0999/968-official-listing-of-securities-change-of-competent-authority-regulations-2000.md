@@ -49,9 +49,9 @@ Whereas the Treasury are a government department designated[^f00001] for the pur
 
 And whereas a draft of these Regulations has been approved by a resolution of each House of Parliament pursuant to section 2(2) of, and paragraph 2(2) of Schedule 2 to, that Act;
 
-Now therefore the Treasury in exercise of the powers conferred on them by section 2(2) of that Act and of all other powers enabling them in that behalf hereby make the following Regulations:—[^key-88fda3f0275a490d4d972cf024d3d646]
+Now therefore the Treasury in exercise of the powers conferred on them by section 2(2) of that Act and of all other powers enabling them in that behalf hereby make the following Regulations:—[^c-88fda3f0275a490d4d972cf024d3d646]
 
-## 1. Citation, commencement and extent[^key-2bbca7ce599aea477468084cac17d20a][^key-6455b1e9a7f22672a8b6442574b39595]
+## 1. Citation, commencement and extent[^c-2bbca7ce599aea477468084cac17d20a][^c-6455b1e9a7f22672a8b6442574b39595]
 
 (1) These Regulations may be cited as the Official Listing of Securities (Change of Competent Authority) Regulations 2000.
 
@@ -59,7 +59,7 @@ Now therefore the Treasury in exercise of the powers conferred on them by sectio
 
 (3) These Regulations extend to Northern Ireland.
 
-## 2. Interpretation[^key-d316a3e525897275ca4a37cf21c4d78b][^key-37e722e460ef0b77558fb06c1102f797]
+## 2. Interpretation[^c-d316a3e525897275ca4a37cf21c4d78b][^c-37e722e460ef0b77558fb06c1102f797]
 
 (1) In these Regulations—
 
@@ -82,11 +82,11 @@ and references to the exercise of the transferred functions include references t
 
 (4) No reference in these Regulations to the Official List maintained for the purposes of Part IV by the old competent authority shall be construed as extending to the Daily Official List published by The London Stock Exchange Limited.
 
-## 3. Change of competent authority for the purposes of Part IV of the Act[^key-4556c16edd0896a5ea703c17357f2972][^key-0a1d4a11adf7aef70007779895d7b6d7]
+## 3. Change of competent authority for the purposes of Part IV of the Act[^c-4556c16edd0896a5ea703c17357f2972][^c-0a1d4a11adf7aef70007779895d7b6d7]
 
 In section 142(6) of the Act, for the words “The International Stock Exchange of the United Kingdom and the Republic of Ireland Limited”, there shall be substituted the words “The Financial Services Authority”.
 
-## 4. References to the old competent authority[^key-9fb2d45bb04accb1069d009536845041][^key-db0f420b1d83b1c683b919df8e19375c]
+## 4. References to the old competent authority[^c-9fb2d45bb04accb1069d009536845041][^c-db0f420b1d83b1c683b919df8e19375c]
 
 (1) Any reference in an enactment to the old competent authority shall have effect as a reference to the new competent authority.
 
@@ -101,11 +101,11 @@ In section 142(6) of the Act, for the words “The International Stock Exchange 
 - (a) has effect before, as well as after, the transfer date, and
 - (b) is contained in a document other than an enactment.
 
-## 5. Transfer of rights and obligations in relation to non-Part IV investments[^key-8827f8e000eced33132bcf3abe0bbde4][^key-c4645cfb708026d831c34d8c806dc997]
+## 5. Transfer of rights and obligations in relation to non-Part IV investments[^c-8827f8e000eced33132bcf3abe0bbde4][^c-c4645cfb708026d831c34d8c806dc997]
 
 All rights and obligations of the old competent authority arising out of the admission by it of investments to the Official List otherwise than in accordance with Part IV are transferred to the new competent authority.
 
-## 6. Transitional provisions[^key-d73e4375edd254c5dd7e4ee20c78de94][^key-5dd7ca2fb87acc6e273ff45e17c83011]
+## 6. Transitional provisions[^c-d73e4375edd254c5dd7e4ee20c78de94][^c-5dd7ca2fb87acc6e273ff45e17c83011]
 
 (1) These Regulations shall not affect the validity of anything done before the transfer date—
 
@@ -133,15 +133,15 @@ may be carried on and completed by the new competent authority in the exercise o
 
 (8) Securities the listing of which is suspended under section 145(2) of the Act, or in pursuance of rights of the old competent authority in relation to investments admitted to the Official List otherwise than in accordance with Part IV, shall nevertheless be regarded as listed for the purposes of paragraph (7).
 
-## 7. Transfer of staff[^key-593bf7a316654a6d6b2659ea74146d6a][^key-8952807d45a4f1c078f36f87004edf58]
+## 7. Transfer of staff[^c-593bf7a316654a6d6b2659ea74146d6a][^c-8952807d45a4f1c078f36f87004edf58]
 
 The transfer of functions effected by these Regulations shall be regarded for the purposes of the Transfer of Undertakings (Protection of Employment) Regulations 1981[^f00007] as the transfer of part of an undertaking, whether or not it would be so regarded apart from this regulation.
 
-## 8. Anticipatory exercise of power to make listing rules[^key-608db7da2e73622172087fa66a093345][^key-963997a375a0133c1abd13e36afa2709]
+## 8. Anticipatory exercise of power to make listing rules[^c-608db7da2e73622172087fa66a093345][^c-963997a375a0133c1abd13e36afa2709]
 
 For the purpose of bringing listing rules under section 142(6) of the Act into effect on the transfer date, the new competent authority may, prior to that date, exercise the power to make such rules as if these Regulations were fully in force, and may do anything which is necessary or expedient to enable it to exercise that power.
 
-## 9. Repeals[^key-a6eb2d3aae82a43906c6c3b227cdc054][^key-9de21e7f6e1c3532ab6d3760486a54be]
+## 9. Repeals[^c-a6eb2d3aae82a43906c6c3b227cdc054][^c-9de21e7f6e1c3532ab6d3760486a54be]
 
 Paragraph 2(3) of Schedule 4 to the Act is repealed.
 
@@ -175,15 +175,15 @@ Part IV of the Act implements Council Directive No. [79/279/EEC](https://www.leg
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). By virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51), regulations may be made under section 2(2) of the European Communities Act for the purposes of implementing rights, powers, liabilities, obligations and restrictions of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) as adjusted by the Protocol signed at Brussels on 17th March 1993 (Cm 2183).
 
-[^key-88fda3f0275a490d4d972cf024d3d646]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-88fda3f0275a490d4d972cf024d3d646]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-2bbca7ce599aea477468084cac17d20a]: Commencement: Reg. 1 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-2bbca7ce599aea477468084cac17d20a]: Commencement: Reg. 1 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
-[^key-6455b1e9a7f22672a8b6442574b39595]: Commencement: Reg. 1 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-6455b1e9a7f22672a8b6442574b39595]: Commencement: Reg. 1 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
-[^key-d316a3e525897275ca4a37cf21c4d78b]: Commencement: Reg. 2 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-d316a3e525897275ca4a37cf21c4d78b]: Commencement: Reg. 2 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
-[^key-37e722e460ef0b77558fb06c1102f797]: Commencement: Reg. 2 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-37e722e460ef0b77558fb06c1102f797]: Commencement: Reg. 2 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
 [^f00003]: Footnote: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60); section 142 was amended, and section 157 repealed, by the Official Listing of Securities (Change of Competent Authority) Regulations 1991 ([S.I. 1991/2000](https://www.legislation.gov.uk/uksi/1991/2000)).
 
@@ -193,32 +193,32 @@ Part IV of the Act implements Council Directive No. [79/279/EEC](https://www.leg
 
 [^f00006]: Footnote: Section 142(9) of the Act preserves the power of the competent authority in respect of the investments to which section 142 (and therefore Part IV) does not apply, and such investments may be admitted to the Official List otherwise than in accordance with Part IV of the Act.
 
-[^key-4556c16edd0896a5ea703c17357f2972]: Commencement: Reg. 3 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-4556c16edd0896a5ea703c17357f2972]: Commencement: Reg. 3 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
-[^key-0a1d4a11adf7aef70007779895d7b6d7]: Commencement: Reg. 3 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-0a1d4a11adf7aef70007779895d7b6d7]: Commencement: Reg. 3 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
-[^key-9fb2d45bb04accb1069d009536845041]: Commencement: Reg. 4 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-9fb2d45bb04accb1069d009536845041]: Commencement: Reg. 4 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
-[^key-db0f420b1d83b1c683b919df8e19375c]: Commencement: Reg. 4 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-db0f420b1d83b1c683b919df8e19375c]: Commencement: Reg. 4 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
-[^key-8827f8e000eced33132bcf3abe0bbde4]: Commencement: Reg. 5 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-8827f8e000eced33132bcf3abe0bbde4]: Commencement: Reg. 5 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
-[^key-c4645cfb708026d831c34d8c806dc997]: Commencement: Reg. 5 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-c4645cfb708026d831c34d8c806dc997]: Commencement: Reg. 5 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
-[^key-d73e4375edd254c5dd7e4ee20c78de94]: Commencement: Reg. 6 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-d73e4375edd254c5dd7e4ee20c78de94]: Commencement: Reg. 6 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
-[^key-5dd7ca2fb87acc6e273ff45e17c83011]: Commencement: Reg. 6 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-5dd7ca2fb87acc6e273ff45e17c83011]: Commencement: Reg. 6 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
-[^key-593bf7a316654a6d6b2659ea74146d6a]: Commencement: Reg. 7 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-593bf7a316654a6d6b2659ea74146d6a]: Commencement: Reg. 7 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
-[^key-8952807d45a4f1c078f36f87004edf58]: Commencement: Reg. 7 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-8952807d45a4f1c078f36f87004edf58]: Commencement: Reg. 7 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 1981/1794](https://www.legislation.gov.uk/uksi/1981/1794) as amended by section 33 of the Trade Union Reform and Employment Rights Act [1993 (c. 19)](https://www.legislation.gov.uk/ukpga/1993/19) and by [S.I. 1987/442](https://www.legislation.gov.uk/uksi/1987/442), [S.I. 1995/2587](https://www.legislation.gov.uk/uksi/1995/2587) and [S.I. 1999/1925](https://www.legislation.gov.uk/uksi/1999/1925).
 
-[^key-608db7da2e73622172087fa66a093345]: Commencement: Reg. 8 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-608db7da2e73622172087fa66a093345]: Commencement: Reg. 8 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
-[^key-963997a375a0133c1abd13e36afa2709]: Commencement: Reg. 8 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-963997a375a0133c1abd13e36afa2709]: Commencement: Reg. 8 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
-[^key-a6eb2d3aae82a43906c6c3b227cdc054]: Commencement: Reg. 9 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-a6eb2d3aae82a43906c6c3b227cdc054]: Commencement: Reg. 9 in force at 5.4.2000 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
 
-[^key-9de21e7f6e1c3532ab6d3760486a54be]: Commencement: Reg. 9 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)
+[^c-9de21e7f6e1c3532ab6d3760486a54be]: Commencement: Reg. 9 in force at 1.5.2000 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/968/regulation/1/2)

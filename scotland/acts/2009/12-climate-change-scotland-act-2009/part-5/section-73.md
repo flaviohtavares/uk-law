@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Annual report on operation of section 72[^key-754205f13e56f6ae6616b0f3d1472718]
+## 73. Annual report on operation of section 72[^c-754205f13e56f6ae6616b0f3d1472718]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-754205f13e56f6ae6616b0f3d1472718]: Textual amendment: [S. 73](https://www.legislation.gov.uk/asp/2009/12/section/73) repealed (1.11.2025) by [The Climate Change (Local Development Plan) (Repeals) (Scotland) Order 2025 (S.S.I. 2025/283)](https://www.legislation.gov.uk/ssi/2025/283), [arts. 1](https://www.legislation.gov.uk/ssi/2025/283/article/1), [2](https://www.legislation.gov.uk/ssi/2025/283/article/2)
+[^c-754205f13e56f6ae6616b0f3d1472718]: Textual amendment: [S. 73](https://www.legislation.gov.uk/asp/2009/12/section/73) repealed (1.11.2025) by [The Climate Change (Local Development Plan) (Repeals) (Scotland) Order 2025 (S.S.I. 2025/283)](https://www.legislation.gov.uk/ssi/2025/283), [arts. 1](https://www.legislation.gov.uk/ssi/2025/283/article/1), [2](https://www.legislation.gov.uk/ssi/2025/283/article/2)

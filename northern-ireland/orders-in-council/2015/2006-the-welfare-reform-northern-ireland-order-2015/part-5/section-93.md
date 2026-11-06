@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 93. Claims, awards and information[^key-1e1404d63d4a0fb972b6d81247f01df2]
+## 93. Claims, awards and information[^c-1e1404d63d4a0fb972b6d81247f01df2]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e1404d63d4a0fb972b6d81247f01df2]: Commencement: [Art. 93](https://www.legislation.gov.uk/nisi/2015/2006/article/93) in operation at 20.6.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)
+[^c-1e1404d63d4a0fb972b6d81247f01df2]: Commencement: [Art. 93](https://www.legislation.gov.uk/nisi/2015/2006/article/93) in operation at 20.6.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)

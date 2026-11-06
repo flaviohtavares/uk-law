@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Duty of standards committee to make annual report[^key-0fa79bb3092e70fd96d26ca3cc9a4910]
+## 63. Duty of standards committee to make annual report[^c-0fa79bb3092e70fd96d26ca3cc9a4910]
 
 *Extent: E+W*
 
@@ -45,10 +45,10 @@ summary: ''
 >
 > (8) In this section “**financial year**” means a period of 12 months ending with 31 March.
 
-(2)[^key-5e6834421e34b353f79ff025c5eb8474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5e6834421e34b353f79ff025c5eb8474] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0fa79bb3092e70fd96d26ca3cc9a4910]: Commencement: [S. 63](https://www.legislation.gov.uk/asc/2021/1/section/63) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(m)](https://www.legislation.gov.uk/wsi/2021/231/article/6/m)
+[^c-0fa79bb3092e70fd96d26ca3cc9a4910]: Commencement: [S. 63](https://www.legislation.gov.uk/asc/2021/1/section/63) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(m)](https://www.legislation.gov.uk/wsi/2021/231/article/6/m)
 
-[^key-5e6834421e34b353f79ff025c5eb8474]: Textual amendment: [S. 63(2)](https://www.legislation.gov.uk/asc/2021/1/section/63/2) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 62(6)](https://www.legislation.gov.uk/asc/2021/1/section/62/6), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(l)](https://www.legislation.gov.uk/wsi/2021/231/article/6/l)
+[^c-5e6834421e34b353f79ff025c5eb8474]: Textual amendment: [S. 63(2)](https://www.legislation.gov.uk/asc/2021/1/section/63/2) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 62(6)](https://www.legislation.gov.uk/asc/2021/1/section/62/6), [175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(l)](https://www.legislation.gov.uk/wsi/2021/231/article/6/l)

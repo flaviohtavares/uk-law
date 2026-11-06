@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.35. Live link direction: exercise of court’s powers[^key-102f3dbd78d0fe6bb4a534e3138a4ef4]
+## 3.35. Live link direction: exercise of court’s powers[^c-102f3dbd78d0fe6bb4a534e3138a4ef4]
 
 *Extent: E+W*
 
@@ -69,7 +69,7 @@ summary: ''
 
 ## Annotations
 
-[^key-102f3dbd78d0fe6bb4a534e3138a4ef4]: Commencement: [Rule 3.35](https://www.legislation.gov.uk/uksi/2025/909/rule/3.35) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-102f3dbd78d0fe6bb4a534e3138a4ef4]: Commencement: [Rule 3.35](https://www.legislation.gov.uk/uksi/2025/909/rule/3.35) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00143]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); section 51 was substituted by section 200 of, and section 52 was substituted by paragraph 1 of Schedule 20 to, the Police, Crime, Sentencing and Courts Act [2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32).
 

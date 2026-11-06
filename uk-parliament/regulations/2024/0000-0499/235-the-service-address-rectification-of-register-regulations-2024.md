@@ -44,15 +44,15 @@ In accordance with sections 1097B(13) and 1290 of the Companies Act 2006, a draf
 
 ## Part 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-8bb153c1091956ae987562ef4372c9a9]
+### 1. Citation, commencement and extent[^c-8bb153c1091956ae987562ef4372c9a9]
 
 (1) These Regulations may be cited as the Service Address (Rectification of Register) Regulations 2024.
 
-(2) These Regulations come into force on 4th March 2024[^key-8cd7a884875e200fa34230f192d16031].
+(2) These Regulations come into force on 4th March 2024[^c-8cd7a884875e200fa34230f192d16031].
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-fe4780de6e5a40e138b0605783857f8e][^key-b871d58811416e0cc0885a0681275793]
+### 2. Interpretation[^c-fe4780de6e5a40e138b0605783857f8e][^c-b871d58811416e0cc0885a0681275793]
 
 In these Regulations—
 
@@ -64,7 +64,7 @@ In these Regulations—
 
 ## Part 2 — Default address
 
-### 3. Nomination of default address[^key-11ae73b1037104f832dd694e37ba189b][^key-b871d58811416e0cc0885a0681275793]
+### 3. Nomination of default address[^c-11ae73b1037104f832dd694e37ba189b][^c-b871d58811416e0cc0885a0681275793]
 
 (1) The registrar must nominate one or more addresses to be default addresses for the purposes of these Regulations (which need not meet the service address requirements).
 
@@ -77,7 +77,7 @@ In these Regulations—
 
 ## Part 3 — Application to registrar
 
-### 4. Application for address to be changed[^key-fe2aee5357fb64146565021109c941b3][^key-b871d58811416e0cc0885a0681275793]
+### 4. Application for address to be changed[^c-fe2aee5357fb64146565021109c941b3][^c-b871d58811416e0cc0885a0681275793]
 
 (1) Any person may apply to the registrar to change the registered service address of a relevant person[^f00004] in accordance with these Regulations if the applicant thinks that the address does not meet the service address requirements.
 
@@ -93,7 +93,7 @@ In these Regulations—
 
 (3) The application must be accompanied by any information that the applicant wishes to rely on in support of the application.
 
-### 5. Notification of outcome of application[^key-e45dc5dc9e0f777c3283e24c721646e7][^key-b871d58811416e0cc0885a0681275793]
+### 5. Notification of outcome of application[^c-e45dc5dc9e0f777c3283e24c721646e7][^c-b871d58811416e0cc0885a0681275793]
 
 (1) The registrar must give the applicant a written notice stating the outcome of any application under regulation 4.
 
@@ -101,7 +101,7 @@ In these Regulations—
 
 ## Part 4 — Change of address to default address with prior notice
 
-### 6. Notice that registrar intends to change address to default address[^key-e8bef9ff50c192d13de492e08ebd1691][^key-b871d58811416e0cc0885a0681275793]
+### 6. Notice that registrar intends to change address to default address[^c-e8bef9ff50c192d13de492e08ebd1691][^c-b871d58811416e0cc0885a0681275793]
 
 (1) Where the registrar is satisfied that a relevant person’s registered service address does not meet the service address requirements, and regulation 10 (power to change address to default address without notice) does not apply, the registrar must give the relevant person and the relevant company a written notice in accordance with this regulation.
 
@@ -125,7 +125,7 @@ In these Regulations—
 
 (8) In this Part “**the specified period**” means the period of 14 days beginning with the day on which a notice is given under paragraph (1) (if notice is given to the relevant person and the relevant company on different days, the period begins on the day on which the later notice is given).
 
-### 7. Registrar duty to change address to default address[^key-2acc023332943d83177c47b3f53eed4c][^key-b871d58811416e0cc0885a0681275793]
+### 7. Registrar duty to change address to default address[^c-2acc023332943d83177c47b3f53eed4c][^c-b871d58811416e0cc0885a0681275793]
 
 (1) Where the registrar has given a notice under regulation 6 the registrar must change the relevant person’s registered service address to a default address if—
 
@@ -136,7 +136,7 @@ In these Regulations—
 
 (3) The change in the relevant person’s registered service address is effected by the registrar proceeding as if the relevant company had given notice under the applicable notice requirement.
 
-### 8. Notice of change of address under regulation 7[^key-ab318c8236a2fe5b02c481af8ecab670][^key-b871d58811416e0cc0885a0681275793]
+### 8. Notice of change of address under regulation 7[^c-ab318c8236a2fe5b02c481af8ecab670][^c-b871d58811416e0cc0885a0681275793]
 
 (1) If the registrar changes the address of a relevant person’s registered service address under regulation 7, the registrar must give the relevant person and the relevant company a written notice of the change.
 
@@ -151,13 +151,13 @@ In these Regulations—
 
 (3) The notice must be accompanied by a description of any information on which the registrar relied in deciding to change the address.
 
-### 9. Notice of decision not to change address under regulation 7[^key-dceb987ce4a2ed383bca961e76ce7cbf][^key-b871d58811416e0cc0885a0681275793]
+### 9. Notice of decision not to change address under regulation 7[^c-dceb987ce4a2ed383bca961e76ce7cbf][^c-b871d58811416e0cc0885a0681275793]
 
 If the registrar has given a relevant person and a relevant company a notice under regulation 6 and decides not to change the person’s registered service address, the registrar must give the person and the relevant company a written notice of that fact.
 
 ## Part 5 — Change of address to default address without prior notice
 
-### 10. Power to change address to default address without notice[^key-93ee7650801c9c7228586f4b8163b49e][^key-b871d58811416e0cc0885a0681275793]
+### 10. Power to change address to default address without notice[^c-93ee7650801c9c7228586f4b8163b49e][^c-b871d58811416e0cc0885a0681275793]
 
 (1) This regulation applies where the registrar—
 
@@ -170,7 +170,7 @@ If the registrar has given a relevant person and a relevant company a notice und
 
 (4) The registrar may act under this regulation on the registrar’s own motion or following an application under regulation 4.
 
-### 11. Notice of change of address under regulation 10[^key-a58063fc4222755985e210b54ed68628][^key-b871d58811416e0cc0885a0681275793]
+### 11. Notice of change of address under regulation 10[^c-a58063fc4222755985e210b54ed68628][^c-b871d58811416e0cc0885a0681275793]
 
 (1) If the registrar changes the address of a relevant person’s registered service address under regulation 10, the registrar must give the relevant person and the relevant company a written notice of the change.
 
@@ -188,7 +188,7 @@ If the registrar has given a relevant person and a relevant company a notice und
 
 ## Part 6 — Change of address from one default address to another default address
 
-### 12. Change of default address[^key-ae69eb52f76916c1448c15addbac35e9][^key-b871d58811416e0cc0885a0681275793]
+### 12. Change of default address[^c-ae69eb52f76916c1448c15addbac35e9][^c-b871d58811416e0cc0885a0681275793]
 
 (1) This regulation applies where—
 
@@ -209,7 +209,7 @@ If the registrar has given a relevant person and a relevant company a notice und
 
 ## Part 7 — Appeals to the court
 
-### 13. Appeal by relevant company[^key-feda4f3b662526c98599e57da2367cda][^key-b871d58811416e0cc0885a0681275793]
+### 13. Appeal by relevant company[^c-feda4f3b662526c98599e57da2367cda][^c-b871d58811416e0cc0885a0681275793]
 
 (1) If the registrar changes a relevant person’s registered service address under regulation 7 or 10 the relevant company may appeal to the court.
 
@@ -217,7 +217,7 @@ If the registrar has given a relevant person and a relevant company a notice und
 
 (3) In determining an appeal the court may take into account evidence that was not available to the registrar.
 
-### 14. Appeal by applicant[^key-f70b8a45f65e8fb26d3e7a9a54499ded][^key-b871d58811416e0cc0885a0681275793]
+### 14. Appeal by applicant[^c-f70b8a45f65e8fb26d3e7a9a54499ded][^c-b871d58811416e0cc0885a0681275793]
 
 (1) A person who applies to the registrar under regulation 4 to change a relevant person’s registered service address may appeal to the court if the application is unsuccessful.
 
@@ -225,23 +225,23 @@ If the registrar has given a relevant person and a relevant company a notice und
 
 ## Part 8 — Effect of change to default address
 
-### 15. Valid service at previous address[^key-76aa0afe9f01c8b9bb5a555a2d775876][^key-b871d58811416e0cc0885a0681275793]
+### 15. Valid service at previous address[^c-76aa0afe9f01c8b9bb5a555a2d775876][^c-b871d58811416e0cc0885a0681275793]
 
 Where the registrar changes a relevant person’s registered service address to a default address under these Regulations (including where the registrar has changed the address from one default address to another default address), a person may validly serve any document on the relevant person at the old address during the period of 14 days beginning with the day on which it was changed.
 
-### 16. Collection and destruction of documents[^key-73aaaa572f2d8591b8ba89a2f04a6712][^key-b871d58811416e0cc0885a0681275793]
+### 16. Collection and destruction of documents[^c-73aaaa572f2d8591b8ba89a2f04a6712][^c-b871d58811416e0cc0885a0681275793]
 
 (1) If a relevant person’s registered service address is changed to a default address under these Regulations (including where it is changed from one default address to another default address) the registrar must facilitate the collection by the relevant person of any documents delivered to the person at that address.
 
 (2) But the registrar may destroy any document delivered to the person at that address if it is not collected within the period of 6 months beginning with the day on which it is delivered.
 
-### 17. No duty on registrar to forward documents[^key-02c503188d72140147102d0320c8270f][^key-b871d58811416e0cc0885a0681275793]
+### 17. No duty on registrar to forward documents[^c-02c503188d72140147102d0320c8270f][^c-b871d58811416e0cc0885a0681275793]
 
 Where a relevant person’s service address has been changed from a default address to a new address following registration of a notice delivered under the applicable notice requirement, the registrar is not under a duty to forward any documents delivered to the person at the default address to the new address.
 
 ## Part 9 — Requirement to move registered service address from default address
 
-### 18. Duty to move address from default address within compliance period[^key-d21600fcab84c2054573b2df7218e15f][^key-b871d58811416e0cc0885a0681275793]
+### 18. Duty to move address from default address within compliance period[^c-d21600fcab84c2054573b2df7218e15f][^c-b871d58811416e0cc0885a0681275793]
 
 (1) A relevant person that has had their registered service address changed to a default address under regulation 7 or 10 must take all reasonable steps to ensure that notice is given by the relevant company under the applicable notice requirement before the end of the compliance period.
 
@@ -254,7 +254,7 @@ Where a relevant person’s service address has been changed from a default addr
   - (i) the end of the period of 7 days beginning with the day on which the appeal is finally determined in the registrar’s favour, or
   - (ii) the day on which the appeal is withdrawn.
 
-### 19. Offence of failure to comply with regulation 18[^key-f89dc788385682653808274864a9af67][^key-b871d58811416e0cc0885a0681275793]
+### 19. Offence of failure to comply with regulation 18[^c-f89dc788385682653808274864a9af67][^c-b871d58811416e0cc0885a0681275793]
 
 (1) If a relevant person fails, without reasonable excuse, to comply with regulation 18 an offence is committed by—
 
@@ -301,52 +301,52 @@ No impact assessment has been prepared in connection with these Regulations.
 
 [^f00001]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46). Section 1097B was inserted by section 106 of the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56).
 
-[^key-8bb153c1091956ae987562ef4372c9a9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/235/regulation/1) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-8bb153c1091956ae987562ef4372c9a9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2024/235/regulation/1) in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-8cd7a884875e200fa34230f192d16031]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2) substituted (13.3.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 4) Regulations 2025 (S.I. 2025/349)](https://www.legislation.gov.uk/uksi/2025/349), [reg. 5(4)](https://www.legislation.gov.uk/uksi/2025/349/regulation/5/4)
+[^c-8cd7a884875e200fa34230f192d16031]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2) substituted (13.3.2025) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 4) Regulations 2025 (S.I. 2025/349)](https://www.legislation.gov.uk/uksi/2025/349), [reg. 5(4)](https://www.legislation.gov.uk/uksi/2025/349/regulation/5/4)
 
-[^key-fe4780de6e5a40e138b0605783857f8e]: Commencement: Reg. 2 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-fe4780de6e5a40e138b0605783857f8e]: Commencement: Reg. 2 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-b871d58811416e0cc0885a0681275793]: Modification: [Regs. 2-19](https://www.legislation.gov.uk/uksi/2024/235/regulation/2) applied (with modifications) (4.3.2024) by [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1097B](https://www.legislation.gov.uk/ukpga/2006/46/section/1097B) (as modified by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) (as amended by [S.I. 2024/234](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [40](https://www.legislation.gov.uk/uksi/2024/234/regulation/40); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)))
+[^c-b871d58811416e0cc0885a0681275793]: Modification: [Regs. 2-19](https://www.legislation.gov.uk/uksi/2024/235/regulation/2) applied (with modifications) (4.3.2024) by [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1097B](https://www.legislation.gov.uk/ukpga/2006/46/section/1097B) (as modified by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 67](https://www.legislation.gov.uk/uksi/2009/1804/regulation/67) (as amended by [S.I. 2024/234](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [40](https://www.legislation.gov.uk/uksi/2024/234/regulation/40); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)))
 
-[^key-11ae73b1037104f832dd694e37ba189b]: Commencement: Reg. 3 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-11ae73b1037104f832dd694e37ba189b]: Commencement: Reg. 3 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
 [^f00003]: Footnote: See section 1117 of the 2006 Act.
 
-[^key-fe2aee5357fb64146565021109c941b3]: Commencement: Reg. 4 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-fe2aee5357fb64146565021109c941b3]: Commencement: Reg. 4 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
 [^f00004]: Footnote: For definitions of “registered service address” and “relevant person” see section 1097B(2) of the 2006 Act.
 
 [^f00005]: Footnote: For the definition of “firm” see section 1173(1) of the 2006 Act.
 
-[^key-e45dc5dc9e0f777c3283e24c721646e7]: Commencement: Reg. 5 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-e45dc5dc9e0f777c3283e24c721646e7]: Commencement: Reg. 5 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-e8bef9ff50c192d13de492e08ebd1691]: Commencement: Reg. 6 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-e8bef9ff50c192d13de492e08ebd1691]: Commencement: Reg. 6 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-2acc023332943d83177c47b3f53eed4c]: Commencement: Reg. 7 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-2acc023332943d83177c47b3f53eed4c]: Commencement: Reg. 7 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-ab318c8236a2fe5b02c481af8ecab670]: Commencement: Reg. 8 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-ab318c8236a2fe5b02c481af8ecab670]: Commencement: Reg. 8 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-dceb987ce4a2ed383bca961e76ce7cbf]: Commencement: Reg. 9 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-dceb987ce4a2ed383bca961e76ce7cbf]: Commencement: Reg. 9 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-93ee7650801c9c7228586f4b8163b49e]: Commencement: Reg. 10 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-93ee7650801c9c7228586f4b8163b49e]: Commencement: Reg. 10 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-a58063fc4222755985e210b54ed68628]: Commencement: Reg. 11 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-a58063fc4222755985e210b54ed68628]: Commencement: Reg. 11 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-ae69eb52f76916c1448c15addbac35e9]: Commencement: Reg. 12 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-ae69eb52f76916c1448c15addbac35e9]: Commencement: Reg. 12 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-feda4f3b662526c98599e57da2367cda]: Commencement: Reg. 13 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-feda4f3b662526c98599e57da2367cda]: Commencement: Reg. 13 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-f70b8a45f65e8fb26d3e7a9a54499ded]: Commencement: Reg. 14 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-f70b8a45f65e8fb26d3e7a9a54499ded]: Commencement: Reg. 14 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-76aa0afe9f01c8b9bb5a555a2d775876]: Commencement: Reg. 15 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-76aa0afe9f01c8b9bb5a555a2d775876]: Commencement: Reg. 15 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-73aaaa572f2d8591b8ba89a2f04a6712]: Commencement: Reg. 16 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-73aaaa572f2d8591b8ba89a2f04a6712]: Commencement: Reg. 16 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-02c503188d72140147102d0320c8270f]: Commencement: Reg. 17 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-02c503188d72140147102d0320c8270f]: Commencement: Reg. 17 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-d21600fcab84c2054573b2df7218e15f]: Commencement: Reg. 18 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-d21600fcab84c2054573b2df7218e15f]: Commencement: Reg. 18 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
-[^key-f89dc788385682653808274864a9af67]: Commencement: Reg. 19 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
+[^c-f89dc788385682653808274864a9af67]: Commencement: Reg. 19 in force at 4.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/235/regulation/1/2)
 
 [^f00006]: Footnote: See section 1121(3) of the 2006 Act for the definition of “in default”.

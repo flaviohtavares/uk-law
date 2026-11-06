@@ -24,11 +24,11 @@ Section 13.
 
 ### Exclusion of positions of responsibility
 
-**1.**[^key-b52f17811f75aef87b5db2f8e38916fa] Paragraphs 2 to 4 do not apply if Schedule 1 applies.
+**1.**[^c-b52f17811f75aef87b5db2f8e38916fa] Paragraphs 2 to 4 do not apply if Schedule 1 applies.
 
 ### Appointment of councillors to committees
 
-**2.**[^key-4766506aa8590882d47ea630dce029aa] (1) Where a council appoints a committee—
+**2.**[^c-4766506aa8590882d47ea630dce029aa] (1) Where a council appoints a committee—
 
 - (a) the council must decide how many places on the committee must be filled by councillors, being at least two-thirds of the total number of places on that committee; and
 - (b) the nominating officer (within the meaning of Schedule 1) of each party may nominate as members of the committee the relevant number of councillors who stood in the name of that party when elected.
@@ -53,7 +53,7 @@ Q the quota calculated in accordance with paragraph 3.
 
 ### Quota
 
-**3.**[^key-32af323083769522f61be57134539558] (1) The quota for the purposes of paragraph 2 must be calculated in accordance with the formula in this paragraph.
+**3.**[^c-32af323083769522f61be57134539558] (1) The quota for the purposes of paragraph 2 must be calculated in accordance with the formula in this paragraph.
 
 (2) Subject to sub-paragraph (3), the formula is—
 
@@ -71,26 +71,26 @@ C the number of places on the committee which must be filled by councillors (inc
 
 ### Vacancies
 
-**4.**[^key-e4953ec7a8ce96bda6e26a03c833b2b2] Regulations may make provision in relation to the filling of vacancies on committees.
+**4.**[^c-e4953ec7a8ce96bda6e26a03c833b2b2] Regulations may make provision in relation to the filling of vacancies on committees.
 
 ### Appointment of more than one committee
 
-**5.**[^key-cd3c851d25eb9ae5f14986797889755b] Standing orders shall provide for the application of paragraphs 2 to 4 in circumstances where a council decides to appoint more than one committee.
+**5.**[^c-cd3c851d25eb9ae5f14986797889755b] Standing orders shall provide for the application of paragraphs 2 to 4 in circumstances where a council decides to appoint more than one committee.
 
 ### Joint committees
 
-**6.**[^key-bfd1d8b11306e0d381b33b5fd7b9bc32] Regulations may provide for paragraphs 2 to 4 to apply in relation to joint committees subject to such modifications as may be prescribed.
+**6.**[^c-bfd1d8b11306e0d381b33b5fd7b9bc32] Regulations may provide for paragraphs 2 to 4 to apply in relation to joint committees subject to such modifications as may be prescribed.
 
 ## Annotations
 
-[^key-b52f17811f75aef87b5db2f8e38916fa]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2014/8/schedule/2/paragraph/1) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-b52f17811f75aef87b5db2f8e38916fa]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nia/2014/8/schedule/2/paragraph/1) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-4766506aa8590882d47ea630dce029aa]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2014/8/schedule/2/paragraph/2) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-4766506aa8590882d47ea630dce029aa]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2014/8/schedule/2/paragraph/2) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-32af323083769522f61be57134539558]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2014/8/schedule/2/paragraph/3) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-32af323083769522f61be57134539558]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2014/8/schedule/2/paragraph/3) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-e4953ec7a8ce96bda6e26a03c833b2b2]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2014/8/schedule/2/paragraph/4) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-e4953ec7a8ce96bda6e26a03c833b2b2]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2014/8/schedule/2/paragraph/4) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-cd3c851d25eb9ae5f14986797889755b]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2014/8/schedule/2/paragraph/5) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-cd3c851d25eb9ae5f14986797889755b]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2014/8/schedule/2/paragraph/5) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-bfd1d8b11306e0d381b33b5fd7b9bc32]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2014/8/schedule/2/paragraph/6) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-bfd1d8b11306e0d381b33b5fd7b9bc32]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2014/8/schedule/2/paragraph/6) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

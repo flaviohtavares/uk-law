@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259NDA. Meaning of “qualifying institutional investor” etc[^key-b1f6de8b1a1a7509a97da29622724e13][^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259NDA. Meaning of “qualifying institutional investor” etc[^c-b1f6de8b1a1a7509a97da29622724e13][^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b1f6de8b1a1a7509a97da29622724e13]: Textual amendment: [S. 259NDA](https://www.legislation.gov.uk/ukpga/2010/8/section/259NDA) and cross-heading inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/29)
+[^c-b1f6de8b1a1a7509a97da29622724e13]: Textual amendment: [S. 259NDA](https://www.legislation.gov.uk/ukpga/2010/8/section/259NDA) and cross-heading inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/29)
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)

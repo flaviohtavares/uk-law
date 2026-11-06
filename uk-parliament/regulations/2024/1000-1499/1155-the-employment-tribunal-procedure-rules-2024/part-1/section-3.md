@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Overriding objective[^key-6c32ff3455fab4d6d8f66f40749940cc]
+## 3. Overriding objective[^c-6c32ff3455fab4d6d8f66f40749940cc]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c32ff3455fab4d6d8f66f40749940cc]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2024/1155/rule/3) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-6c32ff3455fab4d6d8f66f40749940cc]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2024/1155/rule/3) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

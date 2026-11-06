@@ -35,18 +35,18 @@ correcting certain language versions of Implementing Regulation (EU) 2015/2450 l
 
 (Text with EEA relevance) (revoked)
 
-[^key-77c2eee16181f17fae6cae6bfa91d579]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-77c2eee16181f17fae6cae6bfa91d579]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-77c2eee16181f17fae6cae6bfa91d579] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-77c2eee16181f17fae6cae6bfa91d579] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-77c2eee16181f17fae6cae6bfa91d579] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-77c2eee16181f17fae6cae6bfa91d579] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-77c2eee16181f17fae6cae6bfa91d579] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-77c2eee16181f17fae6cae6bfa91d579] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-77c2eee16181f17fae6cae6bfa91d579]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-77c2eee16181f17fae6cae6bfa91d579]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-77c2eee16181f17fae6cae6bfa91d579]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/5/c), [Sch.](https://www.legislation.gov.uk/uksi/2024/1071/schedule)
+[^c-77c2eee16181f17fae6cae6bfa91d579]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/5/c), [Sch.](https://www.legislation.gov.uk/uksi/2024/1071/schedule)

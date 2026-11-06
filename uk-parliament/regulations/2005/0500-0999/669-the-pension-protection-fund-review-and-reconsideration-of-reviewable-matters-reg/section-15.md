@@ -32,25 +32,25 @@ summary: ''
   - (i) a scheme failure notice under section 130(2) (Board's duty where application or notification received under section 129); or
   - (ii) a withdrawal notice under section 130(3);
 - (d) the issue of a notice under section 136(2) (power to validate contraventions under section 135);
-- (da)[^key-fa165325e9439e3f70097b2d2504a00c] the issue of–
+- (da)[^c-fa165325e9439e3f70097b2d2504a00c] the issue of–
   - (i) a determination under section 143(2)(a) (whether condition in section 127(2)(a) or 128(2)(a) satisfied); or
   - (ii) a notice under section 143(2A) (whether Board will make a determination or obtain an actuarial valuation);
 - (e) the approval of the valuation under section 144(2)(a) (approval of valuation);
 - (f) the issue of a withdrawal notice under section 146(2)(a) (schemes which become eligible schemes);
 - (g) the issue of a withdrawal notice under section 147(2)(a) (new schemes created to replace existing schemes);
 - (h) the issue of a withdrawal notice under section 148(3) or (4) (withdrawal following issue of section 122(4) notice);
-- (i) the issue of a determination notice under section 152(3) (duty to assume responsibility following reconsideration);[^key-782ae305074d331ede76665bf2977092]...
+- (i) the issue of a determination notice under section 152(3) (duty to assume responsibility following reconsideration);[^c-782ae305074d331ede76665bf2977092]...
 - (j) the issue of a determination notice under section 153(6) (closed schemes)
 
-  ; or[^key-fbbb8f300b0807424ab31e308b380162]
+  ; or[^c-fbbb8f300b0807424ab31e308b380162]
 - (k) the issue of–
   - (i) a determination under section 158(3)(a) (whether condition in section 158(1) satisfied); or
   - (ii) a notice under section 158(3A) (whether Board will make a determination or obtain an actuarial valuation).
 
 ## Annotations
 
-[^key-fa165325e9439e3f70097b2d2504a00c]: Textual amendment: Reg. 15(3)(da) inserted (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/b), [4(3)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/4/3/a), [9(1)(d)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/1/d), [(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
+[^c-fa165325e9439e3f70097b2d2504a00c]: Textual amendment: Reg. 15(3)(da) inserted (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/b), [4(3)(a)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/4/3/a), [9(1)(d)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/1/d), [(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
 
-[^key-782ae305074d331ede76665bf2977092]: Textual amendment: Word in reg. 15(3)(i) omitted (24.1.2013) by virtue of [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/b), [4(3)(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/4/3/b), [9(1)(d)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/1/d), [(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
+[^c-782ae305074d331ede76665bf2977092]: Textual amendment: Word in reg. 15(3)(i) omitted (24.1.2013) by virtue of [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/b), [4(3)(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/4/3/b), [9(1)(d)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/1/d), [(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
 
-[^key-fbbb8f300b0807424ab31e308b380162]: Textual amendment: Reg. 15(3)(k) and word inserted (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/b), [4(3)(c)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/4/3/c), [9(1)(d)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/1/d), [(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))
+[^c-fbbb8f300b0807424ab31e308b380162]: Textual amendment: Reg. 15(3)(k) and word inserted (24.1.2013) by [The Pension Protection Fund (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/3083)](https://www.legislation.gov.uk/uksi/2012/3083), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/1/2/b), [4(3)(c)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/4/3/c), [9(1)(d)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/1/d), [(2)](https://www.legislation.gov.uk/uksi/2012/3083/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2012/3083/regulation/10))

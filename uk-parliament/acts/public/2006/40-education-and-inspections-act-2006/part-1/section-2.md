@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Duties in relation to diversity and choice[^key-c7319b610d7eeb19da5f878ad1f9dc37]
+## 2. Duties in relation to diversity and choice[^c-c7319b610d7eeb19da5f878ad1f9dc37]
 
 *Extent: E+W*
 
-In section 14 of EA 1996 (functions of local authorities[^key-0ea7acc4831332590d0c9da4689eca3c] in relation to the provision of primary and secondary education) after subsection (3) insert—
+In section 14 of EA 1996 (functions of local authorities[^c-0ea7acc4831332590d0c9da4689eca3c] in relation to the provision of primary and secondary education) after subsection (3) insert—
 
 > (3A) A local authority in England shall exercise their functions under this section with a view to—
 >
@@ -29,6 +29,6 @@ In section 14 of EA 1996 (functions of local authorities[^key-0ea7acc4831332590d
 
 ## Annotations
 
-[^key-c7319b610d7eeb19da5f878ad1f9dc37]: Commencement: S. 2 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(a)](https://www.legislation.gov.uk/uksi/2007/935/article/7/a)
+[^c-c7319b610d7eeb19da5f878ad1f9dc37]: Commencement: S. 2 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(a)](https://www.legislation.gov.uk/uksi/2007/935/article/7/a)
 
-[^key-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)
+[^c-0ea7acc4831332590d0c9da4689eca3c]: Textual amendment: Words in Pts. 1-7 substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 14(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/2)

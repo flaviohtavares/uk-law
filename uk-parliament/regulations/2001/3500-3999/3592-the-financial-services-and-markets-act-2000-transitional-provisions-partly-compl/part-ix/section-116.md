@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Test to be applied by banking appeal tribunal[^key-e0f2c9ce9af86d671dc43790ab926026]
+## 116. Test to be applied by banking appeal tribunal[^c-e0f2c9ce9af86d671dc43790ab926026]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0f2c9ce9af86d671dc43790ab926026]: Commencement: Art. 116 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-e0f2c9ce9af86d671dc43790ab926026]: Commencement: Art. 116 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

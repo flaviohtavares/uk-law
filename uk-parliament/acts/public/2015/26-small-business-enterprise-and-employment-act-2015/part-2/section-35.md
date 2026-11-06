@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Exclusion of home businesses from Part 2 of the Landlord and Tenant Act 1954[^key-5796d0883184fa3b0771efbe604965dd][^key-9dca45b871c709a942bbdf7b95c7402d]
+## 35. Exclusion of home businesses from Part 2 of the Landlord and Tenant Act 1954[^c-5796d0883184fa3b0771efbe604965dd][^c-9dca45b871c709a942bbdf7b95c7402d]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,6 +87,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5796d0883184fa3b0771efbe604965dd]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2015/26/section/35) in force at 1.10.2015 for W. by [S.I. 2015/1710](https://www.legislation.gov.uk/wsi/2015/1710), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1710/article/2/a)
+[^c-5796d0883184fa3b0771efbe604965dd]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2015/26/section/35) in force at 1.10.2015 for W. by [S.I. 2015/1710](https://www.legislation.gov.uk/wsi/2015/1710), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1710/article/2/a)
 
-[^key-9dca45b871c709a942bbdf7b95c7402d]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2015/26/section/35) in force at 1.10.2015 for E. by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/b)
+[^c-9dca45b871c709a942bbdf7b95c7402d]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2015/26/section/35) in force at 1.10.2015 for E. by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/b)

@@ -39,22 +39,22 @@ concerning the authorisation of the preparation of *Clostridium butyricum* FERM-
 
 (Text with EEA relevance) (revoked)
 
-[^key-35b27478a48eeffaf7f42db07cf6ea83]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35b27478a48eeffaf7f42db07cf6ea83]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-35b27478a48eeffaf7f42db07cf6ea83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-35b27478a48eeffaf7f42db07cf6ea83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-35b27478a48eeffaf7f42db07cf6ea83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-35b27478a48eeffaf7f42db07cf6ea83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35b27478a48eeffaf7f42db07cf6ea83]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35b27478a48eeffaf7f42db07cf6ea83]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-35b27478a48eeffaf7f42db07cf6ea83]
+## ANNEX[^c-35b27478a48eeffaf7f42db07cf6ea83]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-35b27478a48eeffaf7f42db07cf6ea83]: Textual amendment: Regulation revoked (S.) (24.11.2022) by [The Feed Additives (Authorisations) (Scotland) Regulations 2022 (S.S.I. 2022/288)](https://www.legislation.gov.uk/ssi/2022/288), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/288/regulation/1/1), [sch. 12 para. 2](https://www.legislation.gov.uk/ssi/2022/288/schedule/12/paragraph/2) (with [regs. 8](https://www.legislation.gov.uk/ssi/2022/288/regulation/8), [9(2)-(5)](https://www.legislation.gov.uk/ssi/2022/288/regulation/9/2), [10](https://www.legislation.gov.uk/ssi/2022/288/regulation/10)); revoked (W.) (24.11.2022) by [The Feed Additives (Authorisations) (Wales) Regulations 2022 (S.I. 2022/1118)](https://www.legislation.gov.uk/uksi/2022/1118), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/1118/regulation/1/2/c), [Sch. 12](https://www.legislation.gov.uk/uksi/2022/1118/schedule/12); and revoked (E.) (25.11.2022) by [The Feed Additives (Authorisations) (England) Regulations 2022 (S.I. 2022/1129)](https://www.legislation.gov.uk/uksi/2022/1129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1129/regulation/1/1), [Sch. 12](https://www.legislation.gov.uk/uksi/2022/1129/schedule/12) (with [regs. 8-10](https://www.legislation.gov.uk/uksi/2022/1129/regulation/8))
+[^c-35b27478a48eeffaf7f42db07cf6ea83]: Textual amendment: Regulation revoked (S.) (24.11.2022) by [The Feed Additives (Authorisations) (Scotland) Regulations 2022 (S.S.I. 2022/288)](https://www.legislation.gov.uk/ssi/2022/288), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/288/regulation/1/1), [sch. 12 para. 2](https://www.legislation.gov.uk/ssi/2022/288/schedule/12/paragraph/2) (with [regs. 8](https://www.legislation.gov.uk/ssi/2022/288/regulation/8), [9(2)-(5)](https://www.legislation.gov.uk/ssi/2022/288/regulation/9/2), [10](https://www.legislation.gov.uk/ssi/2022/288/regulation/10)); revoked (W.) (24.11.2022) by [The Feed Additives (Authorisations) (Wales) Regulations 2022 (S.I. 2022/1118)](https://www.legislation.gov.uk/uksi/2022/1118), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2022/1118/regulation/1/2/c), [Sch. 12](https://www.legislation.gov.uk/uksi/2022/1118/schedule/12); and revoked (E.) (25.11.2022) by [The Feed Additives (Authorisations) (England) Regulations 2022 (S.I. 2022/1129)](https://www.legislation.gov.uk/uksi/2022/1129), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1129/regulation/1/1), [Sch. 12](https://www.legislation.gov.uk/uksi/2022/1129/schedule/12) (with [regs. 8-10](https://www.legislation.gov.uk/uksi/2022/1129/regulation/8))

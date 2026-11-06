@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Traffic Regulation[^key-5e721a98c3005b2aed7cc25e00de8337]
+## 14. Traffic Regulation[^c-5e721a98c3005b2aed7cc25e00de8337]
 
 *Extent: E+W+S*
 
@@ -48,6 +48,6 @@ and the instrument by which it is effected is deemed to be a traffic order for t
 
 ## Annotations
 
-[^key-5e721a98c3005b2aed7cc25e00de8337]: Commencement: Art. 14 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-5e721a98c3005b2aed7cc25e00de8337]: Commencement: Art. 14 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
 
 [^f00019]: Footnote: [2004 c.18](https://www.legislation.gov.uk/ukpga/2004/18). There are amendments to this Act not relevant to this Order.

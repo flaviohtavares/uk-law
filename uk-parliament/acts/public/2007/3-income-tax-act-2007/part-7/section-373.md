@@ -23,7 +23,7 @@ summary: ''
 (1) If—
 
 - (a) the investor has obtained CITR in respect of the investment, and
-- (b) an event occurs because of which CITR attributable to the investment in respect of[^key-53044e1062c63ac67d5561c730cddb14] any tax year falls to be withdrawn or reduced by virtue of section 360, 361, 362 or 364,
+- (b) an event occurs because of which CITR attributable to the investment in respect of[^c-53044e1062c63ac67d5561c730cddb14] any tax year falls to be withdrawn or reduced by virtue of section 360, 361, 362 or 364,
 
 the investor must give an officer of Revenue and Customs a notice containing particulars of the event.
 
@@ -38,4 +38,4 @@ the notice must be given before the end of that 60 day period.
 
 ## Annotations
 
-[^key-53044e1062c63ac67d5561c730cddb14]: Textual amendment: Words in s. 373(1)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 520](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/520) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-53044e1062c63ac67d5561c730cddb14]: Textual amendment: Words in s. 373(1)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 520](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/520) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Energy Crops Regulations 2000 (revoked)[^key-c4faf3c10197f272e484d5e23322ca12]
+The Energy Crops Regulations 2000 (revoked)[^c-c4faf3c10197f272e484d5e23322ca12]
 
 Made
 
@@ -45,64 +45,64 @@ Coming into force
 
 5th December 2000
 
-[^key-c4faf3c10197f272e484d5e23322ca12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4faf3c10197f272e484d5e23322ca12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-c4faf3c10197f272e484d5e23322ca12]
+## 1. Title, commencement and extent[^c-c4faf3c10197f272e484d5e23322ca12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c4faf3c10197f272e484d5e23322ca12]
+## 2. Interpretation[^c-c4faf3c10197f272e484d5e23322ca12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Assistance for the establishment of energy crops and the formation of producer organisations[^key-c4faf3c10197f272e484d5e23322ca12]
+## 3. Assistance for the establishment of energy crops and the formation of producer organisations[^c-c4faf3c10197f272e484d5e23322ca12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Applications for approval of projects[^key-c4faf3c10197f272e484d5e23322ca12]
+## 4. Applications for approval of projects[^c-c4faf3c10197f272e484d5e23322ca12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Approval of projects[^key-c4faf3c10197f272e484d5e23322ca12]
+## 5. Approval of projects[^c-c4faf3c10197f272e484d5e23322ca12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Claims[^key-c4faf3c10197f272e484d5e23322ca12]
+## 6. Claims[^c-c4faf3c10197f272e484d5e23322ca12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Payment[^key-c4faf3c10197f272e484d5e23322ca12]
+## 7. Payment[^c-c4faf3c10197f272e484d5e23322ca12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Information[^key-c4faf3c10197f272e484d5e23322ca12]
+## 8. Information[^c-c4faf3c10197f272e484d5e23322ca12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Record keeping[^key-c4faf3c10197f272e484d5e23322ca12]
+## 9. Record keeping[^c-c4faf3c10197f272e484d5e23322ca12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c4faf3c10197f272e484d5e23322ca12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4faf3c10197f272e484d5e23322ca12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — MEANING OF “COMMUNITY LEGISLATION"[^key-c4faf3c10197f272e484d5e23322ca12]
+## SCHEDULE — MEANING OF “COMMUNITY LEGISLATION"[^c-c4faf3c10197f272e484d5e23322ca12]
 
 regulation 2(1)
 
-**1.**[^key-c4faf3c10197f272e484d5e23322ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c4faf3c10197f272e484d5e23322ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c4faf3c10197f272e484d5e23322ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c4faf3c10197f272e484d5e23322ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c4faf3c10197f272e484d5e23322ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c4faf3c10197f272e484d5e23322ca12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c4faf3c10197f272e484d5e23322ca12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4faf3c10197f272e484d5e23322ca12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c4faf3c10197f272e484d5e23322ca12]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3263/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5)
+[^c-c4faf3c10197f272e484d5e23322ca12]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/3263/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5)

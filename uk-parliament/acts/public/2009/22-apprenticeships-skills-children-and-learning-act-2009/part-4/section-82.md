@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Apprenticeship functions[^key-3608f02e8ca9f9f2202f3e368f6a4904]
+## 82. Apprenticeship functions[^c-3608f02e8ca9f9f2202f3e368f6a4904]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3608f02e8ca9f9f2202f3e368f6a4904]: Textual amendment: S. 82 and preceding crossheading omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/3)
+[^c-3608f02e8ca9f9f2202f3e368f6a4904]: Textual amendment: S. 82 and preceding crossheading omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/3)

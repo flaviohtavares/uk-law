@@ -31,11 +31,11 @@ summary: ''
 
 (3) Paragraph (1) does not apply where the claimant—
 
-- (a) is disqualified for receiving an employment and support allowance by virtue of regulations made under section 6B or[^key-dc930c6a5af8b01053e00964ef2e15e2] 7 of the Social Security Fraud Act 2001[^c1919016]; or
+- (a) is disqualified for receiving an employment and support allowance by virtue of regulations made under section 6B or[^c-dc930c6a5af8b01053e00964ef2e15e2] 7 of the Social Security Fraud Act 2001[^c1919016]; or
 - (b) is a person in hardship.
 
 ## Annotations
 
-[^key-dc930c6a5af8b01053e00964ef2e15e2]: Textual amendment: Words in reg. 157(3)(a) inserted (1.4.2010) by [The Social Security (Loss of Benefit) Amendment Regulations 2010 (S.I. 2010/1160)](https://www.legislation.gov.uk/uksi/2010/1160), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2010/1160/regulation/12/2)
+[^c-dc930c6a5af8b01053e00964ef2e15e2]: Textual amendment: Words in reg. 157(3)(a) inserted (1.4.2010) by [The Social Security (Loss of Benefit) Amendment Regulations 2010 (S.I. 2010/1160)](https://www.legislation.gov.uk/uksi/2010/1160), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1160/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2010/1160/regulation/12/2)
 
 [^c1919016]: Textual amendment: [2001 c. 11](https://www.legislation.gov.uk/ukpga/2001/11).

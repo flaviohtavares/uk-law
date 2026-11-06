@@ -45,7 +45,7 @@ but not by a person who has consented to or voted in favour of the resolution.
 
 (6) The court's order may, if the court thinks fit, require the company not to make any, or any specified, amendments to its articles without the leave of the court.
 
-(7) In this section and section 99(3) “the court”, in England and Wales, means the High Court[^key-af0a8a996a19dce41fe62d350e0d5629]
+(7) In this section and section 99(3) “the court”, in England and Wales, means the High Court[^c-af0a8a996a19dce41fe62d350e0d5629]
 
 ## Annotations
 
@@ -53,4 +53,4 @@ but not by a person who has consented to or voted in favour of the resolution.
 
 [^c21177631]: Modification: S. 98 applied (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/4/2)
 
-[^key-af0a8a996a19dce41fe62d350e0d5629]: Textual amendment: S. 98(7) inserted (22.4.14) by S.I. 1991/724, Sch. Pt. 1 (as amended by [The High Court and County Court Jurisdiction (Amendment) Order 2014 (S.I. 2014/821)](https://www.legislation.gov.uk/uksi/2014/821), [arts. 1](https://www.legislation.gov.uk/uksi/2014/821/article/1), [2(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/821/article/2/10/a/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/821/article/3))
+[^c-af0a8a996a19dce41fe62d350e0d5629]: Textual amendment: S. 98(7) inserted (22.4.14) by S.I. 1991/724, Sch. Pt. 1 (as amended by [The High Court and County Court Jurisdiction (Amendment) Order 2014 (S.I. 2014/821)](https://www.legislation.gov.uk/uksi/2014/821), [arts. 1](https://www.legislation.gov.uk/uksi/2014/821/article/1), [2(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/821/article/2/10/a/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/821/article/3))

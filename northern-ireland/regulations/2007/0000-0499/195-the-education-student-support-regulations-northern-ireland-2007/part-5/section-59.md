@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Amount of the maintenance grant[^key-fc0f4f8f64f409f64a5bee352d9c7ec1]
+## 59. Amount of the maintenance grant[^c-fc0f4f8f64f409f64a5bee352d9c7ec1]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc0f4f8f64f409f64a5bee352d9c7ec1]: Commencement: [Reg. 59](https://www.legislation.gov.uk/nisr/2007/195/regulation/59) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-fc0f4f8f64f409f64a5bee352d9c7ec1]: Commencement: [Reg. 59](https://www.legislation.gov.uk/nisr/2007/195/regulation/59) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

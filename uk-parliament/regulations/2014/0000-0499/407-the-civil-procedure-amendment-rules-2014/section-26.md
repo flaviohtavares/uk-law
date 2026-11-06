@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**26.**[^key-415f65798d855a112c340ad961599516] In rule 61.2, in paragraph (3), in subparagraph (c), for “Central London County Court” substitute “County Court at Central London”.
+**26.**[^c-415f65798d855a112c340ad961599516] In rule 61.2, in paragraph (3), in subparagraph (c), for “Central London County Court” substitute “County Court at Central London”.
 
 ## Annotations
 
-[^key-415f65798d855a112c340ad961599516]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2014/407/rule/26) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
+[^c-415f65798d855a112c340ad961599516]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2014/407/rule/26) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)

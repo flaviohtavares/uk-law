@@ -22,14 +22,14 @@ summary: ''
 
 Regulation 12
 
-### 1. Interpretation[^key-54da7f99914b85ff56bac764d8e150c9]
+### 1. Interpretation[^c-54da7f99914b85ff56bac764d8e150c9]
 
 In this Schedule, drugs or appliances are to be taken to be requested or provided in accordance with a repeatable prescription even if the person who wishes to obtain pharmaceutical services does not present that prescription, as long as—
 
 - (a) the doctor has that prescription in their possession, and
 - (b) that person presents, or the doctor has in their possession, an associated batch issue.
 
-### 2. Incorporation of provisions[^key-28c95f12fa2ebd8c0ff4f2634c822440]
+### 2. Incorporation of provisions[^c-28c95f12fa2ebd8c0ff4f2634c822440]
 
 Any provisions of the following affecting the rights and obligations of doctors who provide pharmaceutical services form part of the terms of service—
 
@@ -37,14 +37,14 @@ Any provisions of the following affecting the rights and obligations of doctors 
 - (b) the Drug Tariff in so far as it lists drugs and appliances for the purposes of section 80 of the 2006 Act (arrangements for pharmaceutical services),
 - (c) so much of Part 2 of the National Health Service (Service Committees and Tribunal) Regulations 1992 as relates to—
   - (i) investigations made by the pharmaceutical discipline committee and the joint discipline committee and action which may be taken by the Local Health Board as a result of such investigations, and
-  - (ii) appeals to the Welsh Ministers from decisions of the Local Health Board.[^key-cea725e4a249e9771fff339af2089cbf]
-- (d)[^key-3e8f8524b8e024bf796febdf41c736b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) appeals to the Welsh Ministers from decisions of the Local Health Board.[^c-cea725e4a249e9771fff339af2089cbf]
+- (d)[^c-3e8f8524b8e024bf796febdf41c736b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2A.**[^key-31bb0f55e5409c7071eac406b3d84bf3] Code of practice on access to premises
+**2A.**[^c-31bb0f55e5409c7071eac406b3d84bf3] Code of practice on access to premises
 
 A doctor who provides pharmaceutical services must have regard to the code of practice on access to premises prepared and published by the Welsh Ministers under section 19(1) of the Health and Social Care (Quality and Engagement) (Wales) Act 2020 (“**the 2020 Act**”) (so far as the code is relevant) in exercising any function that relates to the provision of health services or social services (within the meaning of those terms in section 21 of the 2020 Act).
 
-### 3. Persons duly authorised to dispense on behalf of dispensing doctors[^key-89cc6a0aeeb8b73d3cc23742af9b4bef]
+### 3. Persons duly authorised to dispense on behalf of dispensing doctors[^c-89cc6a0aeeb8b73d3cc23742af9b4bef]
 
 Where this Schedule imposes a requirement on a dispensing doctor in respect of an activity which they have duly authorised another person to undertake, if that other person undertakes that activity instead of the dispensing doctor—
 
@@ -53,7 +53,7 @@ Where this Schedule imposes a requirement on a dispensing doctor in respect of a
 
 and references in this Schedule to a dispensing doctor are to be construed accordingly.
 
-### 4. Dispensing of drugs and appliances ordered by another prescriber[^key-589471a04d601fb6551eabe725006403]
+### 4. Dispensing of drugs and appliances ordered by another prescriber[^c-589471a04d601fb6551eabe725006403]
 
 (1) Subject to the following provisions of this Schedule, where any person presents to a dispensing doctor a prescription form which contains—
 
@@ -85,16 +85,16 @@ and the dispensing doctor is authorised or required by regulation 26 to provide 
 
 (4) Drugs and listed appliances provided under this paragraph must be provided in a suitable container.
 
-### 5. Dispensing of drugs and appliances ordered by the dispensing doctor[^key-302003160933362ec2c9e7d011901225]
+### 5. Dispensing of drugs and appliances ordered by the dispensing doctor[^c-302003160933362ec2c9e7d011901225]
 
 In circumstances where paragraph 4 does not apply and subject to the following provisions of this Schedule, where a dispensing doctor is authorised or required by virtue of Part 6 of these Regulations to provide drugs or appliances to a person, the dispensing doctor must—
 
-- (a) record an order for the provision of any drugs or appliances which are needed for the treatment of the patient on a prescription form completed in accordance with a GMS contract which gives effect to paragraphs 49 and 50 of Schedule 3[^key-1e181ae0c53949524eec1a8601724dec] to the GMS Regulations (other contract terms: prescribing),
+- (a) record an order for the provision of any drugs or appliances which are needed for the treatment of the patient on a prescription form completed in accordance with a GMS contract which gives effect to paragraphs 49 and 50 of Schedule 3[^c-1e181ae0c53949524eec1a8601724dec] to the GMS Regulations (other contract terms: prescribing),
 - (b) provide those drugs or appliances in a suitable container,
-- (c) provide for the patient a drug specified in Schedule 2 to the Prescription of Drugs Regulations only where the conditions in paragraph 55[^key-6fb942e3bf53eb363fe4baa28cdfbbec][^key-b01b070054c225e7458934f5902b49c6] of Schedule 3 to the GMS Regulations (restrictions on prescribing by medical practitioners) are satisfied, and
+- (c) provide for the patient a drug specified in Schedule 2 to the Prescription of Drugs Regulations only where the conditions in paragraph 55[^c-6fb942e3bf53eb363fe4baa28cdfbbec][^c-b01b070054c225e7458934f5902b49c6] of Schedule 3 to the GMS Regulations (restrictions on prescribing by medical practitioners) are satisfied, and
 - (d) provide for the patient a restricted availability appliance only if the patient is a person, or it is for a purpose, specified in the Drug Tariff.
 
-### 6. Preliminary matters before providing ordered drugs or appliances[^key-fb532525f4ecd3f975efd9baf00249b4]
+### 6. Preliminary matters before providing ordered drugs or appliances[^c-fb532525f4ecd3f975efd9baf00249b4]
 
 Before providing drugs or listed appliances recorded on a prescription form in accordance with paragraph 4, or in the circumstances set out in paragraph 7—
 
@@ -105,13 +105,13 @@ Before providing drugs or listed appliances recorded on a prescription form in a
   to produce satisfactory evidence of such entitlement, unless the declaration is in respect of entitlement to exemption by virtue of regulation 8 of the Charges Regulations or in respect of remission by virtue of regulation 5(1)(e) or 5(2)(e) or (f) of the Remission of Charges Regulations, and at the time of the declaration the dispensing doctor already has such evidence available to them, and
 - (b) if no satisfactory evidence, as required by sub-paragraph (a) is produced to the dispensing doctor, the dispensing doctor must endorse the form on which the declaration is made to that effect.
 
-### 7. Provision of Scheduled drugs[^key-1adf8ac129dfeb20915312a09d93d92f]
+### 7. Provision of Scheduled drugs[^c-1adf8ac129dfeb20915312a09d93d92f]
 
 (1) Subject to sub-paragraph (2), a dispensing doctor must not provide for a patient any Scheduled drug, except that, where the dispensing doctor or an independent prescriber has ordered a drug which has an appropriate non-proprietary name either by the name or by its formula, they may provide a drug which has the same specification notwithstanding that it is a Scheduled drug (but, in the case of a drug which combines more than one drug, only if the combination has an appropriate non-proprietary name).
 
 (2) Nothing in this Schedule prevents a dispensing doctor providing, otherwise than under pharmaceutical services, a Scheduled drug or a restricted availability appliance for a patient.
 
-### 8. Refusal to provide drugs or appliances ordered[^key-4e95b74af7ef6787302b58f8db36370e]
+### 8. Refusal to provide drugs or appliances ordered[^c-4e95b74af7ef6787302b58f8db36370e]
 
 (1) A dispensing doctor may refuse to provide the drugs or appliances ordered on a prescription form or repeatable prescription where—
 
@@ -141,9 +141,9 @@ Before providing drugs or listed appliances recorded on a prescription form in a
 - (b) that the medication regimen of the patient to whom the prescription relates has not altered in a way that indicates the need or desirability of reviewing the patient’s treatment, and
 - (c) that there have been no changes to the health of the patient to whom the prescription relates which indicate the need or desirability of reviewing the patient’s treatment.
 
-### 9. Fees and charges[^key-b102a86f835a37d8b69b7e20f47ae409]
+### 9. Fees and charges[^c-b102a86f835a37d8b69b7e20f47ae409]
 
-(1) The terms of a GMS contract giving effect to regulations 21 and 22 of[^key-4da7ec23fd4b772fe1c2c70369d04286] the GMS Regulations (fees and charges) apply in respect of the provision of any drugs or appliances by a dispensing doctor as they apply in relation to prescriptions for drugs and appliances.
+(1) The terms of a GMS contract giving effect to regulations 21 and 22 of[^c-4da7ec23fd4b772fe1c2c70369d04286] the GMS Regulations (fees and charges) apply in respect of the provision of any drugs or appliances by a dispensing doctor as they apply in relation to prescriptions for drugs and appliances.
 
 (2) Where a dispensing doctor provides a drug or appliance under pharmaceutical services or provides any additional service associated with the dispensing of such drugs and appliances—
 
@@ -154,19 +154,19 @@ Before providing drugs or listed appliances recorded on a prescription form in a
 
 the Local Health Board will credit the dispensing doctor with the payment.
 
-### 10. Complaints and concerns[^key-96f382f3b89fc341f99220e4f13504e2]
+### 10. Complaints and concerns[^c-96f382f3b89fc341f99220e4f13504e2]
 
 (1) Where a dispensing doctor—
 
-- (a) is a GMS contractor, or is engaged or employed by a GMS contractor, the complaints procedure established in accordance with the terms of a GMS contract which give effect to paragraph[^key-827b617956dbae43f56c2e36807f8b9c] 101[^key-6c4a84a4709d771128c72f05da24dd8f] of Schedule 3 to the GMS Regulations (concerns and complaints);
+- (a) is a GMS contractor, or is engaged or employed by a GMS contractor, the complaints procedure established in accordance with the terms of a GMS contract which give effect to paragraph[^c-827b617956dbae43f56c2e36807f8b9c] 101[^c-6c4a84a4709d771128c72f05da24dd8f] of Schedule 3 to the GMS Regulations (concerns and complaints);
 - (b) is an APMS contractor, or is engaged or employed by an APMS contractor, the complaints procedure established by the relevant APMS contract to deal with complaints in relation to the provision of primary medical services;
 - (c) is employed or engaged by a Local Health Board for the purposes of providing pharmaceutical services within an LHBMS practice, the complaints procedure established by that LHBMS practice to deal with complaints in relation to the provision of primary medical services,
 
 applies in relation to any matter reasonably connected with the provision of pharmaceutical services as it applies as respects to services provided under that contract or agreement, or within that practice.
 
-(2) Accordingly, a GMS contract which gives effect to 102[^key-7ae19c61dddb1c756dca0efdb9b50bf6][^key-f106691a297d9dbbacfb5b279425a085] of Schedule 3 to the GMS Regulations (co-operation with investigations) also applies in relation to complaints or concerns notified about such matters.
+(2) Accordingly, a GMS contract which gives effect to 102[^c-7ae19c61dddb1c756dca0efdb9b50bf6][^c-f106691a297d9dbbacfb5b279425a085] of Schedule 3 to the GMS Regulations (co-operation with investigations) also applies in relation to complaints or concerns notified about such matters.
 
-### 11. Inspections and access to information[^key-b8992f676ba0230f3c210d75f45d5b18]
+### 11. Inspections and access to information[^c-b8992f676ba0230f3c210d75f45d5b18]
 
 (1) A dispensing doctor must allow persons authorised by the Local Health Board to enter and inspect any premises that they use for the provision of pharmaceutical services at any reasonable time, for the purposes of—
 
@@ -189,7 +189,7 @@ where the conditions in sub-paragraph (2) are satisfied.
 - (a) for the purposes mentioned in sub-paragraph (1), or
 - (b) in the case of the Local Health Board, in connection with its functions that relate to pharmaceutical services.
 
-### 12. Welsh language[^key-2febfed9e6b92e3b91c868826f4add2a]
+### 12. Welsh language[^c-2febfed9e6b92e3b91c868826f4add2a]
 
 (1) Where a dispensing doctor provides pharmaceutical services through the medium of Welsh, the dispensing doctor must notify the Local Health Board in writing.
 
@@ -208,48 +208,48 @@ where the conditions in sub-paragraph (2) are satisfied.
 
 ## Annotations
 
-[^key-54da7f99914b85ff56bac764d8e150c9]: Commencement: Sch. 7 para. 1 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-54da7f99914b85ff56bac764d8e150c9]: Commencement: Sch. 7 para. 1 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-28c95f12fa2ebd8c0ff4f2634c822440]: Commencement: Sch. 7 para. 2 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-28c95f12fa2ebd8c0ff4f2634c822440]: Commencement: Sch. 7 para. 2 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-cea725e4a249e9771fff339af2089cbf]: Textual amendment: Sch. 7 para. 2(c)(ii): full stop substituted (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/uksi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/299/regulation/1/2), [9(7)(a)](https://www.legislation.gov.uk/uksi/2023/299/regulation/9/7/a)
+[^c-cea725e4a249e9771fff339af2089cbf]: Textual amendment: Sch. 7 para. 2(c)(ii): full stop substituted (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/uksi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/299/regulation/1/2), [9(7)(a)](https://www.legislation.gov.uk/uksi/2023/299/regulation/9/7/a)
 
-[^key-3e8f8524b8e024bf796febdf41c736b9]: Textual amendment: Sch. 7 para. 2(d) omitted (1.4.2023) by virtue of [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [9(7)(b)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/7/b)
+[^c-3e8f8524b8e024bf796febdf41c736b9]: Textual amendment: Sch. 7 para. 2(d) omitted (1.4.2023) by virtue of [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [9(7)(b)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/7/b)
 
-[^key-31bb0f55e5409c7071eac406b3d84bf3]: Textual amendment: Sch. 7 para. 2A inserted (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(3)(d)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/3/d), [9(7)(c)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/7/c)
+[^c-31bb0f55e5409c7071eac406b3d84bf3]: Textual amendment: Sch. 7 para. 2A inserted (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(3)(d)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/3/d), [9(7)(c)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/7/c)
 
-[^key-89cc6a0aeeb8b73d3cc23742af9b4bef]: Commencement: Sch. 7 para. 3 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-89cc6a0aeeb8b73d3cc23742af9b4bef]: Commencement: Sch. 7 para. 3 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-589471a04d601fb6551eabe725006403]: Commencement: Sch. 7 para. 4 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-589471a04d601fb6551eabe725006403]: Commencement: Sch. 7 para. 4 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-302003160933362ec2c9e7d011901225]: Commencement: Sch. 7 para. 5 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-302003160933362ec2c9e7d011901225]: Commencement: Sch. 7 para. 5 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-1e181ae0c53949524eec1a8601724dec]: Textual amendment: Words in Sch. 7 para. 5(a) substituted (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 5 para. 2(3)(a)(i)](https://www.legislation.gov.uk/wsi/2023/953/schedule/5/paragraph/2/3/a/i) (as amended by [S.I. 2023/1421](https://www.legislation.gov.uk/uksi/2023/1421), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1421/regulation/1), [20(f)(i)](https://www.legislation.gov.uk/uksi/2023/1421/regulation/20/f/i))
+[^c-1e181ae0c53949524eec1a8601724dec]: Textual amendment: Words in Sch. 7 para. 5(a) substituted (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 5 para. 2(3)(a)(i)](https://www.legislation.gov.uk/wsi/2023/953/schedule/5/paragraph/2/3/a/i) (as amended by [S.I. 2023/1421](https://www.legislation.gov.uk/uksi/2023/1421), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1421/regulation/1), [20(f)(i)](https://www.legislation.gov.uk/uksi/2023/1421/regulation/20/f/i))
 
-[^key-6fb942e3bf53eb363fe4baa28cdfbbec]: Textual amendment: Word in Sch. 7 para. 5(c) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [23(3)(a)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/23/3/a)
+[^c-6fb942e3bf53eb363fe4baa28cdfbbec]: Textual amendment: Word in Sch. 7 para. 5(c) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [23(3)(a)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/23/3/a)
 
-[^key-b01b070054c225e7458934f5902b49c6]: Textual amendment: Words in Sch. 7 para. 5(c) substituted (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 5 para. 2(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/953/schedule/5/paragraph/2/3/a/ii)
+[^c-b01b070054c225e7458934f5902b49c6]: Textual amendment: Words in Sch. 7 para. 5(c) substituted (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 5 para. 2(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2023/953/schedule/5/paragraph/2/3/a/ii)
 
-[^key-fb532525f4ecd3f975efd9baf00249b4]: Commencement: Sch. 7 para. 6 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-fb532525f4ecd3f975efd9baf00249b4]: Commencement: Sch. 7 para. 6 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-1adf8ac129dfeb20915312a09d93d92f]: Commencement: Sch. 7 para. 7 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-1adf8ac129dfeb20915312a09d93d92f]: Commencement: Sch. 7 para. 7 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-4e95b74af7ef6787302b58f8db36370e]: Commencement: Sch. 7 para. 8 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-4e95b74af7ef6787302b58f8db36370e]: Commencement: Sch. 7 para. 8 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-b102a86f835a37d8b69b7e20f47ae409]: Commencement: Sch. 7 para. 9 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-b102a86f835a37d8b69b7e20f47ae409]: Commencement: Sch. 7 para. 9 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-4da7ec23fd4b772fe1c2c70369d04286]: Textual amendment: Words in Sch. 7 para. 9(1) substituted (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 5 para. 2(3)(b)](https://www.legislation.gov.uk/wsi/2023/953/schedule/5/paragraph/2/3/b)
+[^c-4da7ec23fd4b772fe1c2c70369d04286]: Textual amendment: Words in Sch. 7 para. 9(1) substituted (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 5 para. 2(3)(b)](https://www.legislation.gov.uk/wsi/2023/953/schedule/5/paragraph/2/3/b)
 
-[^key-96f382f3b89fc341f99220e4f13504e2]: Commencement: Sch. 7 para. 10 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-96f382f3b89fc341f99220e4f13504e2]: Commencement: Sch. 7 para. 10 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-827b617956dbae43f56c2e36807f8b9c]: Textual amendment: Words in Sch. 7 para. 10(1)(a) substituted (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 5 para. 2(3)(c)(i)](https://www.legislation.gov.uk/wsi/2023/953/schedule/5/paragraph/2/3/c/i)
+[^c-827b617956dbae43f56c2e36807f8b9c]: Textual amendment: Words in Sch. 7 para. 10(1)(a) substituted (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 5 para. 2(3)(c)(i)](https://www.legislation.gov.uk/wsi/2023/953/schedule/5/paragraph/2/3/c/i)
 
-[^key-6c4a84a4709d771128c72f05da24dd8f]: Textual amendment: Word in Sch. 7 para. 10(1)(a) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [23(3)(b)(i)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/23/3/b/i)
+[^c-6c4a84a4709d771128c72f05da24dd8f]: Textual amendment: Word in Sch. 7 para. 10(1)(a) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [23(3)(b)(i)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/23/3/b/i)
 
-[^key-7ae19c61dddb1c756dca0efdb9b50bf6]: Textual amendment: Word in Sch. 7 para. 10(2) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [23(3)(b)(ii)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/23/3/b/ii)
+[^c-7ae19c61dddb1c756dca0efdb9b50bf6]: Textual amendment: Word in Sch. 7 para. 10(2) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [23(3)(b)(ii)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/23/3/b/ii)
 
-[^key-f106691a297d9dbbacfb5b279425a085]: Textual amendment: Words in Sch. 7 para. 10(2) substituted (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 5 para. 2(3)(c)(ii)](https://www.legislation.gov.uk/wsi/2023/953/schedule/5/paragraph/2/3/c/ii)
+[^c-f106691a297d9dbbacfb5b279425a085]: Textual amendment: Words in Sch. 7 para. 10(2) substituted (1.10.2023) by [The National Health Service (General Medical Services Contracts) (Wales) Regulations 2023 (S.I. 2023/953)](https://www.legislation.gov.uk/wsi/2023/953), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2), [Sch. 5 para. 2(3)(c)(ii)](https://www.legislation.gov.uk/wsi/2023/953/schedule/5/paragraph/2/3/c/ii)
 
-[^key-b8992f676ba0230f3c210d75f45d5b18]: Commencement: Sch. 7 para. 11 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-b8992f676ba0230f3c210d75f45d5b18]: Commencement: Sch. 7 para. 11 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-2febfed9e6b92e3b91c868826f4add2a]: Commencement: Sch. 7 para. 12 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-2febfed9e6b92e3b91c868826f4add2a]: Commencement: Sch. 7 para. 12 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)

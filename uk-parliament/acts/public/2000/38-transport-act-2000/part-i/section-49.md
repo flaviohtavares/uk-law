@@ -48,10 +48,10 @@ summary: ''
 (6) Shares issued in pursuance of this section—
 
 - (a) must be of such nominal value as may be specified in a direction given by the Secretary of State, and
-- (b) must be issued as fully paid and treated for the purposes of the Companies Act 2006[^key-df05db241f92469288dbef1848743686] as if they had been paid up by virtue of the payment to the transferee of their nominal value in cash.
+- (b) must be issued as fully paid and treated for the purposes of the Companies Act 2006[^c-df05db241f92469288dbef1848743686] as if they had been paid up by virtue of the payment to the transferee of their nominal value in cash.
 
 ## Annotations
 
 [^c14879321]: Commencement: S. 49 wholly in force at 1.2.2001, see s. 275(1)(2) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-df05db241f92469288dbef1848743686]: Textual amendment: Words in s. 49(6)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 184(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/184/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-df05db241f92469288dbef1848743686]: Textual amendment: Words in s. 49(6)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 184(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/184/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Documentation to be provided by operators[^key-dc3ce414bc4904a5d74e80a1075d3ddc]
+## 14. Documentation to be provided by operators[^c-dc3ce414bc4904a5d74e80a1075d3ddc]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc3ce414bc4904a5d74e80a1075d3ddc]: Commencement: Reg. 14 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-dc3ce414bc4904a5d74e80a1075d3ddc]: Commencement: Reg. 14 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

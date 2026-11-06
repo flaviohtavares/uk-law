@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Presumption as to food with which a plastic material or article is to come into contact[^key-142377a13b684c6ded47a08e40aebb6d]
+## 11. Presumption as to food with which a plastic material or article is to come into contact[^c-142377a13b684c6ded47a08e40aebb6d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In establishing which descriptions of food a plastic material or article may com
 
 ## Annotations
 
-[^key-142377a13b684c6ded47a08e40aebb6d]: Commencement: Reg. 11 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-142377a13b684c6ded47a08e40aebb6d]: Commencement: Reg. 11 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Fee for the copy of the return or declaration or any other document[^key-56c4b6b6f8dce7be9e866525948373c4]
+## 151. Fee for the copy of the return or declaration or any other document[^c-56c4b6b6f8dce7be9e866525948373c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of paragraph 9 of Schedule 5 to the Act (inspection of returns 
 
 ## Annotations
 
-[^key-56c4b6b6f8dce7be9e866525948373c4]: Commencement: Reg. 151 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-56c4b6b6f8dce7be9e866525948373c4]: Commencement: Reg. 151 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

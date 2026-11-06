@@ -37,7 +37,7 @@ summary: ''
 - (l) make land, plant, machinery, equipment and other property available for use by other persons;
 - (m) appoint other persons to act as their[^c10514401] agents;
 - (n) act as agents for other persons;
-- (o) form companies under the Companies Act 2006[^key-c71138d8b2ef6180548331f1bff8312d];
+- (o) form companies under the Companies Act 2006[^c-c71138d8b2ef6180548331f1bff8312d];
 - (p) form partnerships with other persons;
 - (q) promote, provide or assist in the provision of, training in matters relating to housing;
 - (r) carry out, commission or assist in the provision of, research and development;
@@ -58,9 +58,9 @@ summary: ''
 
 (7)[^c10514491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-df23df0ffac3f73f830581074148f2d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-df23df0ffac3f73f830581074148f2d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-df23df0ffac3f73f830581074148f2d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-df23df0ffac3f73f830581074148f2d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10)[^c10514491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -76,7 +76,7 @@ summary: ''
 
 [^c10514401]: Textual amendment: Words in s. 2(2)(m)(t) substituted (1.11.2001) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 112](https://www.legislation.gov.uk/asp/2001/10/section/112), [Sch. 10 para. 14(3)(b)(iii)](https://www.legislation.gov.uk/asp/2001/10/schedule/10/paragraph/14/3/b/iii); [S.S.I. 2001/397](https://www.legislation.gov.uk/ssi/2001/397), [art. 2(2)](https://www.legislation.gov.uk/ssi/2001/397/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2001/397/schedule) Table (subject to transitional provisions in arts. 3-6)
 
-[^key-c71138d8b2ef6180548331f1bff8312d]: Textual amendment: Words in s. 2(2)(o) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 97](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/97) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-c71138d8b2ef6180548331f1bff8312d]: Textual amendment: Words in s. 2(2)(o) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 97](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/97) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c10514421]: Textual amendment: Words in s. 2(2)(s)(u)(v) substituted (1.11.2001) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 112](https://www.legislation.gov.uk/asp/2001/10/section/112), [Sch. 10 para. 14(3)(b)(iv)](https://www.legislation.gov.uk/asp/2001/10/schedule/10/paragraph/14/3/b/iv); [S.S.I. 2001/397](https://www.legislation.gov.uk/ssi/2001/397), [art. 2(2)](https://www.legislation.gov.uk/ssi/2001/397/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2001/397/schedule) Table (subject to transitional provisions in art. 3-6)
 
@@ -90,6 +90,6 @@ summary: ''
 
 [^c10514531]: Textual amendment: S. 2(6) repealed by [Local Government and Housing Act 1989 (c. 42, SIF 61)](https://www.legislation.gov.uk/ukpga/1989/42), [ss. 179(d)](https://www.legislation.gov.uk/ukpga/1989/42/section/179/d), [194(4)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/4), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1989/42/schedule/12/part/II)
 
-[^key-df23df0ffac3f73f830581074148f2d6]: Textual amendment: S. 2(8)(9) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-df23df0ffac3f73f830581074148f2d6]: Textual amendment: S. 2(8)(9) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [Sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
 [^c10514581]: Textual amendment: S. 2(11) repealed (2.4.2001) by [2000 c. 34](https://www.legislation.gov.uk/ukpga/2000/34), [s. 9(2)](https://www.legislation.gov.uk/ukpga/2000/34/section/9/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2000/34/schedule/3) (with [s. 10(5)](https://www.legislation.gov.uk/ukpga/2000/34/section/10/5)); [S.I. 2001/566](https://www.legislation.gov.uk/uksi/2001/566), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/566/article/2/1); s. 2(11) expressed to be repealed (1.11.2001) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 112](https://www.legislation.gov.uk/asp/2001/10/section/112), [Sch. 10 para. 14(3)(c)](https://www.legislation.gov.uk/asp/2001/10/schedule/10/paragraph/14/3/c); [S.S.I. 2001/397](https://www.legislation.gov.uk/ssi/2001/397), [art. 2(2)](https://www.legislation.gov.uk/ssi/2001/397/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2001/397/schedule) Table (subject to transitional provisions in art. 3-6)

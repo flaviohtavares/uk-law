@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 215E. Information from occupational pension schemes: further provision[^key-0b240f88429961254f1b747f74e8c35b]
+## 215E. Information from occupational pension schemes: further provision[^c-0b240f88429961254f1b747f74e8c35b]
 
 *Extent: N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b240f88429961254f1b747f74e8c35b]: Textual amendment: [Arts. 215D-215G](https://www.legislation.gov.uk/nisi/2005/255/article/215D) inserted (11.2.2021 for specified purposes, 31.10.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/c)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/3); [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)
+[^c-0b240f88429961254f1b747f74e8c35b]: Textual amendment: [Arts. 215D-215G](https://www.legislation.gov.uk/nisi/2005/255/article/215D) inserted (11.2.2021 for specified purposes, 31.10.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(2)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/2/c)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 9 para. 3](https://www.legislation.gov.uk/ukpga/2021/1/schedule/9/paragraph/3); [S.R. 2022/291](https://www.legislation.gov.uk/nisr/2022/291), [art. 2](https://www.legislation.gov.uk/nisr/2022/291/article/2)

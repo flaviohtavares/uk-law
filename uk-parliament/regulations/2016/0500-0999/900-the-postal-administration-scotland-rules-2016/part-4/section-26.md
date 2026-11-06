@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Action where person excluded[^key-bda6ebf9b212b51391845558c3dee301]
+## 26. Action where person excluded[^c-bda6ebf9b212b51391845558c3dee301]
 
 *Extent: S*
 
-(1) In this Rule, and Rules 27[^key-6eb389a5d0f3446641c5bc1c3625a61a] and 28, an “excluded person” means a person who—
+(1) In this Rule, and Rules 27[^c-6eb389a5d0f3446641c5bc1c3625a61a] and 28, an “excluded person” means a person who—
 
 - (a) has taken all steps necessary to attend a meeting under the arrangements put in place to do so by the convener of the meeting under section 246A(6) of the 1986 Act (remote attendance at meetings); and
 - (b) those arrangements do not permit that person to attend the whole or part of that meeting.
@@ -33,15 +33,15 @@ summary: ''
 
 (3) Where the chair continues the meeting, the meeting is valid unless—
 
-- (a) the chair decides in consequence of a complaint under Rule 28[^key-b5dec044cde6edebe57d07234279ebf8] to declare the meeting void and hold the meeting again; or
+- (a) the chair decides in consequence of a complaint under Rule 28[^c-b5dec044cde6edebe57d07234279ebf8] to declare the meeting void and hold the meeting again; or
 - (b) the court directs otherwise.
 
 (4) Without prejudice to paragraph (2), where the chair becomes aware during the course of the meeting that there is an excluded person, the chair may, in the chair’s discretion and without an adjournment, declare the meeting suspended for any period up to one hour.
 
 ## Annotations
 
-[^key-bda6ebf9b212b51391845558c3dee301]: Commencement: Rule 26 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-bda6ebf9b212b51391845558c3dee301]: Commencement: Rule 26 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-6eb389a5d0f3446641c5bc1c3625a61a]: Textual amendment: Words in [rule 26(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/26/1) substituted (13.4.2017) by virtue of [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-6eb389a5d0f3446641c5bc1c3625a61a]: Textual amendment: Words in [rule 26(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/26/1) substituted (13.4.2017) by virtue of [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
 
-[^key-b5dec044cde6edebe57d07234279ebf8]: Textual amendment: Words in [rule 26(3)](https://www.legislation.gov.uk/uksi/2016/900/rule/26/3) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-b5dec044cde6edebe57d07234279ebf8]: Textual amendment: Words in [rule 26(3)](https://www.legislation.gov.uk/uksi/2016/900/rule/26/3) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

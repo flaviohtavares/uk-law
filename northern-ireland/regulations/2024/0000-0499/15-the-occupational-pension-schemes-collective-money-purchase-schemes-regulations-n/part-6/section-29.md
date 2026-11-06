@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Continuity option 1: discharge of liabilities and winding up[^key-56e47f2f2876bc76cce1dfdf8d271894]
+## 29. Continuity option 1: discharge of liabilities and winding up[^c-56e47f2f2876bc76cce1dfdf8d271894]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6 applies when the trustees of a collective money purchase scheme are r
 
 ## Annotations
 
-[^key-56e47f2f2876bc76cce1dfdf8d271894]: Commencement: Reg. 29 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-56e47f2f2876bc76cce1dfdf8d271894]: Commencement: Reg. 29 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

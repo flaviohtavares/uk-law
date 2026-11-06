@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Collecting information for use in immigration crime[^key-0e6f9126305cd15f924c128272e455e4][^key-a5ba40b3b286c6948b79b48f1664c0ba]
+## 16. Collecting information for use in immigration crime[^c-0e6f9126305cd15f924c128272e455e4][^c-a5ba40b3b286c6948b79b48f1664c0ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0e6f9126305cd15f924c128272e455e4]: Commencement: S. 16 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-0e6f9126305cd15f924c128272e455e4]: Commencement: S. 16 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-a5ba40b3b286c6948b79b48f1664c0ba]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/31/section/16) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/b)
+[^c-a5ba40b3b286c6948b79b48f1664c0ba]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/31/section/16) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/b)

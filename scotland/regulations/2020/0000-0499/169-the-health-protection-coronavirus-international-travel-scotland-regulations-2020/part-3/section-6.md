@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Requirement for travellers ... to stay in specified premises[^key-d1b92e41c66a36b517ecc12810a9d275]
+## 6. Requirement for travellers ... to stay in specified premises[^c-d1b92e41c66a36b517ecc12810a9d275]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1b92e41c66a36b517ecc12810a9d275]: Textual amendment: Regulations revoked (20.9.2021) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021 (S.S.I. 2021/322)](https://www.legislation.gov.uk/ssi/2021/322), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2021/322/schedule/9) (with [regs. 50](https://www.legislation.gov.uk/ssi/2021/322/regulation/50), [52](https://www.legislation.gov.uk/ssi/2021/322/regulation/52), [sch. 10](https://www.legislation.gov.uk/ssi/2021/322/schedule/10))
+[^c-d1b92e41c66a36b517ecc12810a9d275]: Textual amendment: Regulations revoked (20.9.2021) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021 (S.S.I. 2021/322)](https://www.legislation.gov.uk/ssi/2021/322), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/322/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2021/322/schedule/9) (with [regs. 50](https://www.legislation.gov.uk/ssi/2021/322/regulation/50), [52](https://www.legislation.gov.uk/ssi/2021/322/regulation/52), [sch. 10](https://www.legislation.gov.uk/ssi/2021/322/schedule/10))

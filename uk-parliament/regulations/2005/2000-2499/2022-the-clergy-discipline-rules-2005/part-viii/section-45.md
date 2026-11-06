@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 45. Oral evidence[^key-9d6ecc892c71f0a163e68dd530ec507d]
+## 45. Oral evidence[^c-9d6ecc892c71f0a163e68dd530ec507d]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Oral evidence shall be given on oath or solemn affirmation, and shall be recorde
 
 ## Annotations
 
-[^key-9d6ecc892c71f0a163e68dd530ec507d]: Commencement: [Rule 45](https://www.legislation.gov.uk/uksi/2005/2022/rule/45) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-9d6ecc892c71f0a163e68dd530ec507d]: Commencement: [Rule 45](https://www.legislation.gov.uk/uksi/2005/2022/rule/45) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-**32.**[^key-c1a1832972c4ca5a9eae839b6dcef377] (1) This regulation applies to—
+**32.**[^c-c1a1832972c4ca5a9eae839b6dcef377] (1) This regulation applies to—
 
 - (a) a caravan first used on or after 1st September 1978, and
 - (b) a wheeled motor vehicle and a wheeled trailer, not being a caravan, first used on or after 1st June 1978.
@@ -54,13 +54,13 @@ TABLE I
 
 (7) Windows being—
 
-- (a) windows (other than windscreens) of motor vehicles being engineering plant, industrial tractors, agricultural motor vehicles (save as provided in paragraph (7A))[^key-32c901e4a0f1e36aee44a3e80b5cf122] which are wholly or partly in front of or on either side of the driver's seat;
+- (a) windows (other than windscreens) of motor vehicles being engineering plant, industrial tractors, agricultural motor vehicles (save as provided in paragraph (7A))[^c-32c901e4a0f1e36aee44a3e80b5cf122] which are wholly or partly in front of or on either side of the driver's seat;
 - (b) windows of the upper deck of a double-decked bus; or
 - (c) windows in the roof of a vehicle,
 
 shall be constructed of either specified safety glass, specified safety glass (1980) or safety glazing.
 
-(7A)[^key-178724e6b25ebe97fe696746acc524e9] Paragraph (7)(a) does not apply to—
+(7A)[^c-178724e6b25ebe97fe696746acc524e9] Paragraph (7)(a) does not apply to—
 
 - (a) category T tractors first used on or after 1st June 1986 and driven at more than 40 km/h; or
 - (b) agricultural motor vehicles, not being category T tractors, first used on or after 1st June 1986 and driven at more than 20 mph.
@@ -101,11 +101,11 @@ TABLE II
   - (ii) face the rear of the vehicle; or
   - (iii) form the whole or part of a door giving access to or from the exterior of the vehicle.
 
-(11A)[^key-7a8221fc1f502ad0b7ac9ef975832dee] Paragraphs (10) and (11) have effect in relation to any tint, film or other substance or material applied to a windscreen or window as they have effect in relation to the windscreen or window itself.
+(11A)[^c-7a8221fc1f502ad0b7ac9ef975832dee] Paragraphs (10) and (11) have effect in relation to any tint, film or other substance or material applied to a windscreen or window as they have effect in relation to the windscreen or window itself.
 
 (12) For the purposes of this regulation any window at the rear of the vehicle is deemed to face the rear of the vehicle if the inner surface of such window is at an angle exceeding 30 degrees to the longitudinal axis of the vehicle.
 
-(12A)[^key-f21dfcf28dc963a646b2b414c8823c48] Paragraphs (2), (6), (7) and (8) do not apply to a window which is legibly and permanently marked with a designated approval mark.
+(12A)[^c-f21dfcf28dc963a646b2b414c8823c48] Paragraphs (2), (6), (7) and (8) do not apply to a window which is legibly and permanently marked with a designated approval mark.
 
 (12B) Paragraph (10) does not apply to a window if—
 
@@ -124,9 +124,9 @@ and for the purposes of this paragraph a mirror shall not be regarded as being r
 - “**British Standard Specification No. 857**” means the British Standard Specification for Safety Glass for Land Transport published on 30th June 1967 under the number BS 857 as amended by Amendment Slip No. 1 published on 15th January 1973 under the number AMD 1088;
 - “**British Standard Specification No. 5282**” means the British Standard Specification for Road Vehicle Safety Glass published in December 1975 under the number BS 5282 as amended by Amendment Slip No. 1 published on 31st March 1976 under the number AMD 1927, and as amended by Amendment Slip No. 2 published on 31st January 1977 under the number AMD 2185;
 - “**British Standard Specification BS AU 178**” means the British Standard Specification for Road Vehicle Safety Glass published on 28th November 1980 under the number BS AU 178;
-- [^key-da0d74eaa77eae5ab8de235991952251]...
-- [^key-da0d74eaa77eae5ab8de235991952251]...
-- “designated approval mark” means—[^key-6141f8c85b9044ded76c92f3664cff2e]
+- [^c-da0d74eaa77eae5ab8de235991952251]...
+- [^c-da0d74eaa77eae5ab8de235991952251]...
+- “designated approval mark” means—[^c-6141f8c85b9044ded76c92f3664cff2e]
   - (a) in relation to a windscreen, the marking designated as an approval mark by regulation 5 of the Approval Marks Regulations and shown at item 31 in Schedule 4 to those Regulations, and
   - (b) in relation to a window other than a windscreen, the markings designated as approval marks by regulation 5 of those Regulations and shown at item 32 in Schedule 4 to those Regulations.
 - “**safety glazing**” means material (other than glass) which is so constructed or treated that if fractured it does not fly into fragments likely to cause severe cuts;
@@ -148,16 +148,16 @@ and for the purposes of this paragraph a mirror shall not be regarded as being r
 
 ## Annotations
 
-[^key-c1a1832972c4ca5a9eae839b6dcef377]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1986/1078/regulation/32) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-c1a1832972c4ca5a9eae839b6dcef377]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1986/1078/regulation/32) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-32c901e4a0f1e36aee44a3e80b5cf122]: Textual amendment: Words in [reg. 32(7)(a)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/32/7/a) substituted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [12(1)](https://www.legislation.gov.uk/uksi/2015/142/regulation/12/1)
+[^c-32c901e4a0f1e36aee44a3e80b5cf122]: Textual amendment: Words in [reg. 32(7)(a)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/32/7/a) substituted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [12(1)](https://www.legislation.gov.uk/uksi/2015/142/regulation/12/1)
 
-[^key-178724e6b25ebe97fe696746acc524e9]: Textual amendment: [Reg. 32(7A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/32/7A) inserted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/12/2)
+[^c-178724e6b25ebe97fe696746acc524e9]: Textual amendment: [Reg. 32(7A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/32/7A) inserted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/12/2)
 
-[^key-7a8221fc1f502ad0b7ac9ef975832dee]: Textual amendment: [Reg. 32(11A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/32/11A) inserted (1.1.2004) by [The Road Vehicles (Construction and Use) (Amendment) (No. 5) Regulations 2003 (S.I. 2003/3145)](https://www.legislation.gov.uk/uksi/2003/3145), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3145/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/3145/regulation/3)
+[^c-7a8221fc1f502ad0b7ac9ef975832dee]: Textual amendment: [Reg. 32(11A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/32/11A) inserted (1.1.2004) by [The Road Vehicles (Construction and Use) (Amendment) (No. 5) Regulations 2003 (S.I. 2003/3145)](https://www.legislation.gov.uk/uksi/2003/3145), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3145/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/3145/regulation/3)
 
-[^key-f21dfcf28dc963a646b2b414c8823c48]: Textual amendment: [Reg. 32(12A)-(12C)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/32/12A) inserted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 7) Regulations 1992 (S.I. 1992/3088)](https://www.legislation.gov.uk/uksi/1992/3088), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3088/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/1992/3088/regulation/6/2)
+[^c-f21dfcf28dc963a646b2b414c8823c48]: Textual amendment: [Reg. 32(12A)-(12C)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/32/12A) inserted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 7) Regulations 1992 (S.I. 1992/3088)](https://www.legislation.gov.uk/uksi/1992/3088), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3088/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/1992/3088/regulation/6/2)
 
-[^key-da0d74eaa77eae5ab8de235991952251]: Textual amendment: Words in [reg. 32(13)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/32/13) omitted (6.5.1987) by virtue of [The Road Vehicles (Construction and Use) (Amendment) Regulations 1987 (S.I. 1987/676)](https://www.legislation.gov.uk/uksi/1987/676), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/15/2)
+[^c-da0d74eaa77eae5ab8de235991952251]: Textual amendment: Words in [reg. 32(13)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/32/13) omitted (6.5.1987) by virtue of [The Road Vehicles (Construction and Use) (Amendment) Regulations 1987 (S.I. 1987/676)](https://www.legislation.gov.uk/uksi/1987/676), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/15/2)
 
-[^key-6141f8c85b9044ded76c92f3664cff2e]: Textual amendment: Words in [reg. 32(13)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/32/13) inserted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 7) Regulations 1992 (S.I. 1992/3088)](https://www.legislation.gov.uk/uksi/1992/3088), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3088/regulation/1), [7](https://www.legislation.gov.uk/uksi/1992/3088/regulation/7)
+[^c-6141f8c85b9044ded76c92f3664cff2e]: Textual amendment: Words in [reg. 32(13)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/32/13) inserted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 7) Regulations 1992 (S.I. 1992/3088)](https://www.legislation.gov.uk/uksi/1992/3088), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3088/regulation/1), [7](https://www.legislation.gov.uk/uksi/1992/3088/regulation/7)

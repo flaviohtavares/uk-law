@@ -66,7 +66,7 @@ and, in the latter case, the Secretary of State is satisfied that action under t
   - (iii) the loading or unloading of cargoes, the embarkation or disembarkation of passengers, or the doing of other things in connection with the provision of any shipping services;
 - (c) regulating the making and implementation of agreements (including charter-parties) whose subject matter relates directly or indirectly to the provision of any shipping services, and requiring such agreements to be subject to the Secretary of State’s approval in such cases as he may specify;
 - (d) imposing charges in respect of ships which enter United Kingdom ports in connection with the provision of any shipping services;
-- (e) imposing, in pursuance of any EU[^key-fd285d66a5a1dfc33e2acaf759f0edd1] obligation, such tax or duty payable by such persons and in such circumstances as the Secretary of State may specify;
+- (e) imposing, in pursuance of any EU[^c-fd285d66a5a1dfc33e2acaf759f0edd1] obligation, such tax or duty payable by such persons and in such circumstances as the Secretary of State may specify;
 
 and in this subsection “**regulating**”, except in relation to the rates, fares or other amounts which may or must be charged as mentioned in paragraph (a) above, includes imposing a prohibition.
 
@@ -144,12 +144,12 @@ be liable, on summary conviction, to a fine not exceeding level 5 on the standar
 
 shall be liable, on summary conviction, to a fine not exceeding level 4 on the standard scale in the case of an offence under paragraph (a) above and not exceeding level 5 on the standard scale in the case of an offence under paragraph (b) above.
 
-(6) A person who intentionally contravenes or fails to comply with any provision of an order or direction made or given pursuant to section 1 or 2, other than a provision requiring him to give any information, shall be liable— *(Extent: E+W)* *(affected by repeal, see note)*[^key-a7cd0647a94750c9cfd1559bf0e2fdd9]
+(6) A person who intentionally contravenes or fails to comply with any provision of an order or direction made or given pursuant to section 1 or 2, other than a provision requiring him to give any information, shall be liable— *(Extent: E+W)* *(affected by repeal, see note)*[^c-a7cd0647a94750c9cfd1559bf0e2fdd9]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-a7cd0647a94750c9cfd1559bf0e2fdd9] on summary conviction, to a fine of not more than £5,000; *(Extent: E+W)* *(affected by repeal, see note)*[^key-a7cd0647a94750c9cfd1559bf0e2fdd9]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-a7cd0647a94750c9cfd1559bf0e2fdd9] on conviction on indictment, to a fine; *(Extent: E+W)* *(affected by repeal, see note)*[^key-a7cd0647a94750c9cfd1559bf0e2fdd9]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-a7cd0647a94750c9cfd1559bf0e2fdd9] on summary conviction, to a fine of not more than £5,000; *(Extent: E+W)* *(affected by repeal, see note)*[^c-a7cd0647a94750c9cfd1559bf0e2fdd9]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-a7cd0647a94750c9cfd1559bf0e2fdd9] on conviction on indictment, to a fine; *(Extent: E+W)* *(affected by repeal, see note)*[^c-a7cd0647a94750c9cfd1559bf0e2fdd9]
 
-liable on summary conviction, or on conviction on indictment, to a fine; *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-a7cd0647a94750c9cfd1559bf0e2fdd9] and where the order or direction requires anything to be done, or not to be done, by, to or on a ship, and the requirement is not complied with, the owner and master of the ship are each to be regarded as intentionally failing to comply, without prejudice to the liability of anyone else.
+liable on summary conviction, or on conviction on indictment, to a fine; *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-a7cd0647a94750c9cfd1559bf0e2fdd9] and where the order or direction requires anything to be done, or not to be done, by, to or on a ship, and the requirement is not complied with, the owner and master of the ship are each to be regarded as intentionally failing to comply, without prejudice to the liability of anyone else.
 
 (7) A person shall not be guilty of an offence against any provision contained in or having effect under section 1 or 2 by reason only of something done by that person wholly outside the territory of the United Kingdom unless that person is a Commonwealth citizen under the [^c830851]British Nationality Act 1981 or a company incorporated under the law of any part of the United Kingdom.
 
@@ -258,7 +258,7 @@ shall be guilty of an offence.
 
 (5) Any person guilty of an offence under this section shall be liable—
 
-- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^key-813ffe571808e12d368e8a1f9e2d59b7]a fine *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-813ffe571808e12d368e8a1f9e2d59b7];
+- (a) on summary conviction, to a fine not exceeding £50,000 *(Extent: E+W)* *(affected by repeal, see note)*[^c-813ffe571808e12d368e8a1f9e2d59b7]a fine *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-813ffe571808e12d368e8a1f9e2d59b7];
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine, or both.
 
 (6) It shall be a defence in proceedings under subsection (1) above against the master of a ship to prove—
@@ -378,13 +378,13 @@ This Table shows the derivations of the provisions of the Act.
 
 [^c830848]: Commencement: Act wholly in force at 1.1.1996 see [s. 9(4)](https://www.legislation.gov.uk/ukpga/1995/22/section/9/4)
 
-[^key-fd285d66a5a1dfc33e2acaf759f0edd1]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-fd285d66a5a1dfc33e2acaf759f0edd1]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c830849]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
 [^c830850]: Modification: S. 3(4): disclosure powers extended (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [ss. 17](https://www.legislation.gov.uk/ukpga/2001/24/section/17), [127(2)(a)](https://www.legislation.gov.uk/ukpga/2001/24/section/127/2/a), [Sch. 4 Pt. I para. 36](https://www.legislation.gov.uk/ukpga/2001/24/schedule/4/part/I/paragraph/36)
 
-[^key-a7cd0647a94750c9cfd1559bf0e2fdd9]: Textual amendment: Words in s. 3(6) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 28(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/28/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-a7cd0647a94750c9cfd1559bf0e2fdd9]: Textual amendment: Words in s. 3(6) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 28(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/28/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c830851]: Marginal citation: [1981 c. 61](https://www.legislation.gov.uk/ukpga/1981/61).
 
@@ -392,7 +392,7 @@ This Table shows the derivations of the provisions of the Act.
 
 [^c830853]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).
 
-[^key-813ffe571808e12d368e8a1f9e2d59b7]: Textual amendment: Words in [s. 6(5)(a)](https://www.legislation.gov.uk/ukpga/1995/22/section/6/5/a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 28(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/28/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-813ffe571808e12d368e8a1f9e2d59b7]: Textual amendment: Words in [s. 6(5)(a)](https://www.legislation.gov.uk/ukpga/1995/22/section/6/5/a) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 28(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/28/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c830854]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Application by patient etc. for revocation or variation of order[^key-08d8e8aa584e47aa36654e0d7bd793ff][^key-dbb43197f78d25a5a8a0abb3910047c1][^key-2bc263946b1cb35a14bffe8d8e78a1b2][^key-14e2626aff8e6ff508708b7dd0325672][^key-656a6401fad925c8a6333ff437926b9a]
+## 100. Application by patient etc. for revocation or variation of order[^c-08d8e8aa584e47aa36654e0d7bd793ff][^c-dbb43197f78d25a5a8a0abb3910047c1][^c-2bc263946b1cb35a14bffe8d8e78a1b2][^c-14e2626aff8e6ff508708b7dd0325672][^c-656a6401fad925c8a6333ff437926b9a]
 
 *Extent: S*
 
@@ -62,12 +62,12 @@ the person who made the application shall not be entitled to make more than one 
 
 ## Annotations
 
-[^key-08d8e8aa584e47aa36654e0d7bd793ff]: Commencement: S. 100 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-08d8e8aa584e47aa36654e0d7bd793ff]: Commencement: S. 100 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-dbb43197f78d25a5a8a0abb3910047c1]: Modification: S. 100 modified (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Transitional and Savings Provisions) Order 2005 (S.S.I. 2005/452)](https://www.legislation.gov.uk/ssi/2005/452), [arts. 1](https://www.legislation.gov.uk/ssi/2005/452/article/1), [4(1)](https://www.legislation.gov.uk/ssi/2005/452/article/4/1)
+[^c-dbb43197f78d25a5a8a0abb3910047c1]: Modification: S. 100 modified (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Transitional and Savings Provisions) Order 2005 (S.S.I. 2005/452)](https://www.legislation.gov.uk/ssi/2005/452), [arts. 1](https://www.legislation.gov.uk/ssi/2005/452/article/1), [4(1)](https://www.legislation.gov.uk/ssi/2005/452/article/4/1)
 
-[^key-2bc263946b1cb35a14bffe8d8e78a1b2]: Modification: S. 100 modified (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Transitional and Savings Provisions) Order 2005 (S.S.I. 2005/452)](https://www.legislation.gov.uk/ssi/2005/452), [arts. 1](https://www.legislation.gov.uk/ssi/2005/452/article/1), [15(2)](https://www.legislation.gov.uk/ssi/2005/452/article/15/2)
+[^c-2bc263946b1cb35a14bffe8d8e78a1b2]: Modification: S. 100 modified (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Transitional and Savings Provisions) Order 2005 (S.S.I. 2005/452)](https://www.legislation.gov.uk/ssi/2005/452), [arts. 1](https://www.legislation.gov.uk/ssi/2005/452/article/1), [15(2)](https://www.legislation.gov.uk/ssi/2005/452/article/15/2)
 
-[^key-14e2626aff8e6ff508708b7dd0325672]: Modification: S. 100 applied by S.S.I. 2005/467, reg. 33(2) (as inserted (30.6.2017) by [The Mental Health (Cross-border transfer patients subject to detention requirement or otherwise in hospital) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/229)](https://www.legislation.gov.uk/ssi/2017/229), [regs. 2](https://www.legislation.gov.uk/ssi/2017/229/regulation/2), [24(3)](https://www.legislation.gov.uk/ssi/2017/229/regulation/24/3))
+[^c-14e2626aff8e6ff508708b7dd0325672]: Modification: S. 100 applied by S.S.I. 2005/467, reg. 33(2) (as inserted (30.6.2017) by [The Mental Health (Cross-border transfer patients subject to detention requirement or otherwise in hospital) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/229)](https://www.legislation.gov.uk/ssi/2017/229), [regs. 2](https://www.legislation.gov.uk/ssi/2017/229/regulation/2), [24(3)](https://www.legislation.gov.uk/ssi/2017/229/regulation/24/3))
 
-[^key-656a6401fad925c8a6333ff437926b9a]: Modification: S. 100 applied by S.S.I. 2008/356, reg. 20(2) (as inserted (30.6.2017) by [The Mental Health (Cross-border transfer patients subject to requirements other than detention) (Scotland) Regulations 2017 (S.S.I. 2017/232)](https://www.legislation.gov.uk/ssi/2017/232), [regs. 2](https://www.legislation.gov.uk/ssi/2017/232/regulation/2), [13(3)](https://www.legislation.gov.uk/ssi/2017/232/regulation/13/3))
+[^c-656a6401fad925c8a6333ff437926b9a]: Modification: S. 100 applied by S.S.I. 2008/356, reg. 20(2) (as inserted (30.6.2017) by [The Mental Health (Cross-border transfer patients subject to requirements other than detention) (Scotland) Regulations 2017 (S.S.I. 2017/232)](https://www.legislation.gov.uk/ssi/2017/232), [regs. 2](https://www.legislation.gov.uk/ssi/2017/232/regulation/2), [13(3)](https://www.legislation.gov.uk/ssi/2017/232/regulation/13/3))

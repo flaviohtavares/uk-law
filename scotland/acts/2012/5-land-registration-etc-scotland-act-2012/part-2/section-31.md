@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Completion of registration of deed[^key-bbcc10dfe84ff56a0406c8fafbe4196a]
+## 31. Completion of registration of deed[^c-bbcc10dfe84ff56a0406c8fafbe4196a]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbcc10dfe84ff56a0406c8fafbe4196a]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2012/5/section/31) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-bbcc10dfe84ff56a0406c8fafbe4196a]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2012/5/section/31) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

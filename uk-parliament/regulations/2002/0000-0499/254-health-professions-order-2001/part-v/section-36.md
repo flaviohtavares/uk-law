@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Registrant assessors[^key-1c9859e79c1acc3f0f26439d5dcaa248][^key-7771a40bd7eb25e290a19d6408407cd8]
+## 36. Registrant assessors[^c-1c9859e79c1acc3f0f26439d5dcaa248][^c-7771a40bd7eb25e290a19d6408407cd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 on matters of professional practice arising in connection with any matter which any of those persons is considering.
 
-(3)[^key-8df4ef1c6dade68960ea0519f580752f] The assessors shall also have such other functions as may be conferred on them by rules made by the Council.
+(3)[^c-8df4ef1c6dade68960ea0519f580752f] The assessors shall also have such other functions as may be conferred on them by rules made by the Council.
 
 (4) No person shall be a registrant assessor if he is—
 
@@ -47,8 +47,8 @@ on matters of professional practice arising in connection with any matter which 
 
 ## Annotations
 
-[^key-1c9859e79c1acc3f0f26439d5dcaa248]: Commencement: Art. 36 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-1c9859e79c1acc3f0f26439d5dcaa248]: Commencement: Art. 36 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-7771a40bd7eb25e290a19d6408407cd8]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2002/254/article/36) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
+[^c-7771a40bd7eb25e290a19d6408407cd8]: Commencement: [Art. 36](https://www.legislation.gov.uk/uksi/2002/254/article/36) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
 
-[^key-8df4ef1c6dade68960ea0519f580752f]: Commencement: [Art. 36(3)](https://www.legislation.gov.uk/uksi/2002/254/article/36/3) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
+[^c-8df4ef1c6dade68960ea0519f580752f]: Commencement: [Art. 36(3)](https://www.legislation.gov.uk/uksi/2002/254/article/36/3) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252. Regulations[^key-e8159bc9c0d1461ade9f08135a7d3a96]
+## 252. Regulations[^c-e8159bc9c0d1461ade9f08135a7d3a96]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8159bc9c0d1461ade9f08135a7d3a96]: Commencement: S. 252 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-e8159bc9c0d1461ade9f08135a7d3a96]: Commencement: S. 252 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)

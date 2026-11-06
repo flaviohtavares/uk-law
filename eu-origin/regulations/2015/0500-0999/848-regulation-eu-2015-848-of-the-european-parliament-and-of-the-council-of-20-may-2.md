@@ -410,9 +410,9 @@ HAVE ADOPTED THIS REGULATION:
 
 ## CHAPTER I — GENERAL PROVISIONS
 
-### Article 1. Application and jurisdiction[^key-4a9019985266c4719226c616fab6deda]
+### Article 1. Application and jurisdiction[^c-4a9019985266c4719226c616fab6deda]
 
-1.[^key-7b9d8e9c1b4034136e31745264f6e0f6] The grounds for jurisdiction to open insolvency proceedings set out in paragraph 1B are in addition to any grounds for jurisdiction to open such proceedings which apply in the laws of any part of the United Kingdom.
+1.[^c-7b9d8e9c1b4034136e31745264f6e0f6] The grounds for jurisdiction to open insolvency proceedings set out in paragraph 1B are in addition to any grounds for jurisdiction to open such proceedings which apply in the laws of any part of the United Kingdom.
 
 (1A.) There is jurisdiction to open insolvency proceedings listed in paragraph 1B where the proceedings are opened for the purposes of rescue, adjustment of debt, reorganisation or liquidation and—
 
@@ -431,18 +431,18 @@ HAVE ADOPTED THIS REGULATION:
 
 - (a) insurance undertakings;
 - (b) credit institutions;
-- (c) investment firms and other firms, institutions and undertakings to the extent that they are covered by the Credit Institutions (Reorganisation and Winding up) Regulations 2004[^key-6161615fe594b7c4494649cef85e3e0c]; or
+- (c) investment firms and other firms, institutions and undertakings to the extent that they are covered by the Credit Institutions (Reorganisation and Winding up) Regulations 2004[^c-6161615fe594b7c4494649cef85e3e0c]; or
 - (d) collective investment undertakings.
 
 ### Article 2. Definitions
 
 For the purposes of this Regulation:
 
-- ((1)) [^key-4d675db5d01d051608df296fd470e8b4]...
-- ((1A)) “[^key-f3e15845fe566c7694e6c01e964b0ccb]**Member State**” means a state which is a member of the EU other than Denmark;
+- ((1)) [^c-4d675db5d01d051608df296fd470e8b4]...
+- ((1A)) “[^c-f3e15845fe566c7694e6c01e964b0ccb]**Member State**” means a state which is a member of the EU other than Denmark;
 - ((2)) ‘collective investment undertakings’ means undertakings for collective investment in transferable securities (UCITS) as defined in Directive 2009/65/EC of the European Parliament and of the Council[^f00013] and alternative investment funds (AIFs) as defined in Directive 2011/61/EU of the European Parliament and of the Council[^f00014];
-- ((3)) [^key-9f70d395560c4554e87bb96de4911d97]...
-- ((4)) ‘insolvency proceedings’ means the proceedings listed in Article 1(1B) which there is jurisdiction to open under Article 1(1A) and includes interim proceedings[^key-5f75c048b0b51f995bc8eb96c96fff60];
+- ((3)) [^c-9f70d395560c4554e87bb96de4911d97]...
+- ((4)) ‘insolvency proceedings’ means the proceedings listed in Article 1(1B) which there is jurisdiction to open under Article 1(1A) and includes interim proceedings[^c-5f75c048b0b51f995bc8eb96c96fff60];
 - ((5)) ‘insolvency practitioner’ means any person or body whose function, including on an interim basis, is to:
   - ((i)) verify and admit claims submitted in insolvency proceedings;
   - ((ii)) represent the collective interest of the creditors;
@@ -452,250 +452,250 @@ For the purposes of this Regulation:
 
   The persons and bodies referred to in the first subparagraph are listed in Annex B;
 - ((6)) ‘court’ means:
-  - ((i)) [^key-1b98b6e27ce72e7d457f87acb364030c]...
-  - ((ii)) [^key-98e2655d49f92151037505b13ae170dc]... the judicial body or any other competent body [^key-98e2655d49f92151037505b13ae170dc]... empowered to open insolvency proceedings, to confirm such opening or to take decisions in the course of such proceedings;
+  - ((i)) [^c-1b98b6e27ce72e7d457f87acb364030c]...
+  - ((ii)) [^c-98e2655d49f92151037505b13ae170dc]... the judicial body or any other competent body [^c-98e2655d49f92151037505b13ae170dc]... empowered to open insolvency proceedings, to confirm such opening or to take decisions in the course of such proceedings;
 - ((7)) ‘judgment opening insolvency proceedings’ includes:
   - ((i)) the decision of any court to open insolvency proceedings or to confirm the opening of such proceedings; and
   - ((ii)) the decision of a court to appoint an insolvency practitioner;
 - ((8)) ‘the time of the opening of proceedings’ means the time at which the judgment opening insolvency proceedings becomes effective, regardless of whether the judgment is final or not;
-- ((9)) [^key-4678f201e24e00d4e4bf081bcc0ec5aa]...
-- ((10)) ‘establishment’ means any place of operations where a debtor carries out or has carried out in the 3-month period prior to the request to open [^key-a13ae50a8d2ced3fe70093ab0b586138]... insolvency proceedings a non-transitory economic activity with human means and assets;
-- ((11)) [^key-5ec8c8a53cc149a6e232ec06d2453fe6]...
-- ((12)) [^key-5ec8c8a53cc149a6e232ec06d2453fe6]...
-- ((13)) [^key-5ec8c8a53cc149a6e232ec06d2453fe6]...
-- ((14)) [^key-5ec8c8a53cc149a6e232ec06d2453fe6]...
+- ((9)) [^c-4678f201e24e00d4e4bf081bcc0ec5aa]...
+- ((10)) ‘establishment’ means any place of operations where a debtor carries out or has carried out in the 3-month period prior to the request to open [^c-a13ae50a8d2ced3fe70093ab0b586138]... insolvency proceedings a non-transitory economic activity with human means and assets;
+- ((11)) [^c-5ec8c8a53cc149a6e232ec06d2453fe6]...
+- ((12)) [^c-5ec8c8a53cc149a6e232ec06d2453fe6]...
+- ((13)) [^c-5ec8c8a53cc149a6e232ec06d2453fe6]...
+- ((14)) [^c-5ec8c8a53cc149a6e232ec06d2453fe6]...
 
-### Article 3. Centre of main interests[^key-499b5794f5aa2a72c16c7501d0ce11f3]
+### Article 3. Centre of main interests[^c-499b5794f5aa2a72c16c7501d0ce11f3]
 
-1. [^key-fdd5879865cec7959576cc6814057675]...The centre of main interests shall be the place where the debtor conducts the administration of its interests on a regular basis and which is ascertainable by third parties.
+1. [^c-fdd5879865cec7959576cc6814057675]...The centre of main interests shall be the place where the debtor conducts the administration of its interests on a regular basis and which is ascertainable by third parties.
 
-In the case of a company or legal person, the place of the registered office shall be presumed to be the centre of its main interests in the absence of proof to the contrary. That presumption shall only apply if the registered office has not been moved from the United Kingdom to a Member State or to the United Kingdom from a Member State[^key-6ad3c2fd54992c663290cc450781409e] within the 3-month period prior to the request for the opening of insolvency proceedings.
+In the case of a company or legal person, the place of the registered office shall be presumed to be the centre of its main interests in the absence of proof to the contrary. That presumption shall only apply if the registered office has not been moved from the United Kingdom to a Member State or to the United Kingdom from a Member State[^c-6ad3c2fd54992c663290cc450781409e] within the 3-month period prior to the request for the opening of insolvency proceedings.
 
-In the case of an individual exercising an independent business or professional activity, the centre of main interests shall be presumed to be that individual's principal place of business in the absence of proof to the contrary. That presumption shall only apply if the individual's principal place of business has not been moved from the United Kingdom to a Member State or to the United Kingdom from a Member State[^key-4d26f56a017414062d9b83f0c3ac011d] within the 3-month period prior to the request for the opening of insolvency proceedings.
+In the case of an individual exercising an independent business or professional activity, the centre of main interests shall be presumed to be that individual's principal place of business in the absence of proof to the contrary. That presumption shall only apply if the individual's principal place of business has not been moved from the United Kingdom to a Member State or to the United Kingdom from a Member State[^c-4d26f56a017414062d9b83f0c3ac011d] within the 3-month period prior to the request for the opening of insolvency proceedings.
 
-In the case of any other individual, the centre of main interests shall be presumed to be the place of the individual's habitual residence in the absence of proof to the contrary. This presumption shall only apply if the habitual residence has not been moved from the United Kingdom to a Member State or to the United Kingdom from a Member State[^key-144e9f23ac3636adc57039f93e56a8d3] within the 6-month period prior to the request for the opening of insolvency proceedings.
+In the case of any other individual, the centre of main interests shall be presumed to be the place of the individual's habitual residence in the absence of proof to the contrary. This presumption shall only apply if the habitual residence has not been moved from the United Kingdom to a Member State or to the United Kingdom from a Member State[^c-144e9f23ac3636adc57039f93e56a8d3] within the 6-month period prior to the request for the opening of insolvency proceedings.
 
-2.[^key-74f2036de434e8d450555fa0de9c11f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-74f2036de434e8d450555fa0de9c11f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3.[^key-74f2036de434e8d450555fa0de9c11f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-74f2036de434e8d450555fa0de9c11f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-4.[^key-74f2036de434e8d450555fa0de9c11f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-74f2036de434e8d450555fa0de9c11f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 4. Examination as to jurisdiction
 
-1. A court seised of a request to open insolvency proceedings shall of its own motion examine whether it has jurisdiction pursuant to Article 1(1A) (a) or (b)[^key-40d04af6cb7b70cfcfcc19e78d338b95]. Where there is jurisdiction to open insolvency proceedings on either of the grounds specified in Article 1(1A)(a) or (b), the judgment opening such proceedings must state which of those grounds is applicable.[^key-446ee10bf19869646f841ba42789d777]
+1. A court seised of a request to open insolvency proceedings shall of its own motion examine whether it has jurisdiction pursuant to Article 1(1A) (a) or (b)[^c-40d04af6cb7b70cfcfcc19e78d338b95]. Where there is jurisdiction to open insolvency proceedings on either of the grounds specified in Article 1(1A)(a) or (b), the judgment opening such proceedings must state which of those grounds is applicable.[^c-446ee10bf19869646f841ba42789d777]
 
-2. Notwithstanding paragraph 1, where insolvency proceedings are opened [^key-24535aa3905fab2123567fafc99dcd61]... without a decision by a court, [^key-24535aa3905fab2123567fafc99dcd61]... the insolvency practitioner appointed in such proceedings must examine the grounds on which there is jurisdiction to open the proceedings under Article 1(1A).[^key-3ce265b12226c5963968737b1490198b] Where this is the case and there is jurisdiction to open insolvency proceedings on either of the grounds specified in Article 1(1A)(a) or (b), the insolvency practitioner must specify in the decision opening the proceedings which of those grounds is applicable.[^key-b12f12c4953784a2e909e96752152e80]
+2. Notwithstanding paragraph 1, where insolvency proceedings are opened [^c-24535aa3905fab2123567fafc99dcd61]... without a decision by a court, [^c-24535aa3905fab2123567fafc99dcd61]... the insolvency practitioner appointed in such proceedings must examine the grounds on which there is jurisdiction to open the proceedings under Article 1(1A).[^c-3ce265b12226c5963968737b1490198b] Where this is the case and there is jurisdiction to open insolvency proceedings on either of the grounds specified in Article 1(1A)(a) or (b), the insolvency practitioner must specify in the decision opening the proceedings which of those grounds is applicable.[^c-b12f12c4953784a2e909e96752152e80]
 
-### Article 5. Judicial review of the decision to open ... insolvency proceedings[^key-934e95ef1c465c0f3c7b8da6bd9a2cb7]
+### Article 5. Judicial review of the decision to open ... insolvency proceedings[^c-934e95ef1c465c0f3c7b8da6bd9a2cb7]
 
-1. The debtor or any creditor may challenge before a court the decision opening [^key-cc0b1b97338150fa1c36bb65159102ad]... insolvency proceedings on the grounds of jurisdiction under Article 1(1A)(a)[^key-96161007c1f4cd3bd141877c3e15b246].
+1. The debtor or any creditor may challenge before a court the decision opening [^c-cc0b1b97338150fa1c36bb65159102ad]... insolvency proceedings on the grounds of jurisdiction under Article 1(1A)(a)[^c-96161007c1f4cd3bd141877c3e15b246].
 
-2. The decision opening [^key-50333dc11fff3c2d4055d21135a17d13]... insolvency proceedings may be challenged by parties other than those referred to in paragraph 1 or on grounds other than a lack of [^key-9ec05a4dedf1b15299bd96ef061e9a6c]... jurisdiction under Article 1(1A)(a)[^key-7da2610807e94d47a120e29bf955e10e] where the relevant law (other than this Regulation) of the part of the United Kingdom in which the matter is being determined so provides[^key-47d0f44b574bacd3e81eef7a3b4a9a1c].
+2. The decision opening [^c-50333dc11fff3c2d4055d21135a17d13]... insolvency proceedings may be challenged by parties other than those referred to in paragraph 1 or on grounds other than a lack of [^c-9ec05a4dedf1b15299bd96ef061e9a6c]... jurisdiction under Article 1(1A)(a)[^c-7da2610807e94d47a120e29bf955e10e] where the relevant law (other than this Regulation) of the part of the United Kingdom in which the matter is being determined so provides[^c-47d0f44b574bacd3e81eef7a3b4a9a1c].
 
-### Article 6. Jurisdiction for actions deriving directly from insolvency proceedings and closely linked with them[^key-761f23da60ae18a5f97b52388b960a67]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 7. Applicable law[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 6. Jurisdiction for actions deriving directly from insolvency proceedings and closely linked with them[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Third parties' rights in rem[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 7. Applicable law[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Set-off[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 8. Third parties' rights in rem[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Reservation of title[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 9. Set-off[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Contracts relating to immoveable property[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 10. Reservation of title[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Payment systems and financial markets[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 11. Contracts relating to immoveable property[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Contracts of employment[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 12. Payment systems and financial markets[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Effects on rights subject to registration[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 13. Contracts of employment[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. European patents with unitary effect and Community trade marks[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 14. Effects on rights subject to registration[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Detrimental acts[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 15. European patents with unitary effect and Community trade marks[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Protection of third-party purchasers[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 16. Detrimental acts[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Effects of insolvency proceedings on pending lawsuits or arbitral proceedings[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 17. Protection of third-party purchasers[^c-761f23da60ae18a5f97b52388b960a67]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 18. Effects of insolvency proceedings on pending lawsuits or arbitral proceedings[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER II — RECOGNITION OF INSOLVENCY PROCEEDINGS
 
-### Article 19. Principle[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 19. Principle[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 20. Effects of recognition[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 20. Effects of recognition[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 21. Powers of the insolvency practitioner[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 21. Powers of the insolvency practitioner[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 22. Proof of the insolvency practitioner's appointment[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 22. Proof of the insolvency practitioner's appointment[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 23. Return and imputation[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 23. Return and imputation[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 24. Establishment of insolvency registers[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 24. Establishment of insolvency registers[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 25. Interconnection of insolvency registers[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 25. Interconnection of insolvency registers[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 26. Costs of establishing and interconnecting insolvency registers[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 26. Costs of establishing and interconnecting insolvency registers[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 27. Conditions of access to information via the system of interconnection[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 27. Conditions of access to information via the system of interconnection[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 28. Publication in another Member State[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 28. Publication in another Member State[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 29. Registration in public registers of another Member State[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 29. Registration in public registers of another Member State[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 30. Costs[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 30. Costs[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 31. Honouring of an obligation to a debtor[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 31. Honouring of an obligation to a debtor[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 32. Recognition and enforceability of other judgments[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 32. Recognition and enforceability of other judgments[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 33. Public policy[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 33. Public policy[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER III — SECONDARY INSOLVENCY PROCEEDINGS
 
-### Article 34. Opening of proceedings[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 34. Opening of proceedings[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 35. Applicable law[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 35. Applicable law[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 36. Right to give an undertaking in order to avoid secondary insolvency proceedings[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 36. Right to give an undertaking in order to avoid secondary insolvency proceedings[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 37. Right to request the opening of secondary insolvency proceedings[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 37. Right to request the opening of secondary insolvency proceedings[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 38. Decision to open secondary insolvency proceedings[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 38. Decision to open secondary insolvency proceedings[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 39. Judicial review of the decision to open secondary insolvency proceedings[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 39. Judicial review of the decision to open secondary insolvency proceedings[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 40. Advance payment of costs and expenses[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 40. Advance payment of costs and expenses[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 41. Cooperation and communication between insolvency practitioners[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 41. Cooperation and communication between insolvency practitioners[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 42. Cooperation and communication between courts[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 42. Cooperation and communication between courts[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 43. Cooperation and communication between insolvency practitioners and courts[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 43. Cooperation and communication between insolvency practitioners and courts[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 44. Costs of cooperation and communication[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 44. Costs of cooperation and communication[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 45. Exercise of creditors' rights[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 45. Exercise of creditors' rights[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 46. Stay of the process of realisation of assets[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 46. Stay of the process of realisation of assets[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 47. Power of the insolvency practitioner to propose restructuring plans[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 47. Power of the insolvency practitioner to propose restructuring plans[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 48. Impact of closure of insolvency proceedings[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 48. Impact of closure of insolvency proceedings[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 49. Assets remaining in the secondary insolvency proceedings[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 49. Assets remaining in the secondary insolvency proceedings[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 50. Subsequent opening of the main insolvency proceedings[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 50. Subsequent opening of the main insolvency proceedings[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 51. Conversion of secondary insolvency proceedings[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 51. Conversion of secondary insolvency proceedings[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 52. Preservation measures[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 52. Preservation measures[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER IV — PROVISION OF INFORMATION FOR CREDITORS AND LODGEMENT OF THEIR CLAIMS
 
-### Article 53. Right to lodge claims[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 53. Right to lodge claims[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 54. Duty to inform creditors[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 54. Duty to inform creditors[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 55. Procedure for lodging claims[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 55. Procedure for lodging claims[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -703,23 +703,23 @@ In the case of any other individual, the centre of main interests shall be presu
 
 ### SECTION 1 — Cooperation and communication
 
-#### Article 56. Cooperation and communication between insolvency practitioners[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 56. Cooperation and communication between insolvency practitioners[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 57. Cooperation and communication between courts[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 57. Cooperation and communication between courts[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 58. Cooperation and communication between insolvency practitioners and courts[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 58. Cooperation and communication between insolvency practitioners and courts[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 59. Costs of cooperation and communication in proceedings concerning members of a group of companies[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 59. Costs of cooperation and communication in proceedings concerning members of a group of companies[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 60. Powers of the insolvency practitioner in proceedings concerning members of a group of companies[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 60. Powers of the insolvency practitioner in proceedings concerning members of a group of companies[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -729,43 +729,43 @@ Subsection 1
 
 **Procedure**
 
-#### Article 61. Request to open group coordination proceedings[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 61. Request to open group coordination proceedings[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 62. Priority rule[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 62. Priority rule[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 63. Notice by the court seised[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 63. Notice by the court seised[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 64. Objections by insolvency practitioners[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 64. Objections by insolvency practitioners[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 65. Consequences of objection to the inclusion in group coordination[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 65. Consequences of objection to the inclusion in group coordination[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 66. Choice of court for group coordination proceedings[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 66. Choice of court for group coordination proceedings[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 67. Consequences of objections to the proposed coordinator[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 67. Consequences of objections to the proposed coordinator[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 68. Decision to open group coordination proceedings[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 68. Decision to open group coordination proceedings[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 69. Subsequent opt-in by insolvency practitioners[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 69. Subsequent opt-in by insolvency practitioners[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 70. Recommendations and group coordination plan[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 70. Recommendations and group coordination plan[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -773,57 +773,57 @@ Subsection 2
 
 **General provisions**
 
-#### Article 71. The coordinator[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 71. The coordinator[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 72. Tasks and rights of the coordinator[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 72. Tasks and rights of the coordinator[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 73. Languages[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 73. Languages[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 74. Cooperation between insolvency practitioners and the coordinator[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 74. Cooperation between insolvency practitioners and the coordinator[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 75. Revocation of the appointment of the coordinator[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 75. Revocation of the appointment of the coordinator[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 76. Debtor in possession[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 76. Debtor in possession[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 77. Costs and distribution[^key-761f23da60ae18a5f97b52388b960a67]
+#### Article 77. Costs and distribution[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER VI — DATA PROTECTION
 
-### Article 78. Data protection[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 78. Data protection[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 79. Responsibilities of Member States regarding the processing of personal data in national insolvency registers[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 79. Responsibilities of Member States regarding the processing of personal data in national insolvency registers[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 80. Responsibilities of the Commission in connection with the processing of personal data[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 80. Responsibilities of the Commission in connection with the processing of personal data[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 81. Information obligations[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 81. Information obligations[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 82. Storage of personal data[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 82. Storage of personal data[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 83. Access to personal data via the European e-Justice Portal[^key-761f23da60ae18a5f97b52388b960a67]
+### Article 83. Access to personal data via the European e-Justice Portal[^c-761f23da60ae18a5f97b52388b960a67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -831,38 +831,38 @@ Subsection 2
 
 ### Article 84. Applicability in time
 
-1.[^c000001] The provisions of this Regulation shall apply only to insolvency proceedings opened from 26 June 2017. [^key-3fb039ee7793249daf3a418f452e7843]...
+1.[^c000001] The provisions of this Regulation shall apply only to insolvency proceedings opened from 26 June 2017. [^c-3fb039ee7793249daf3a418f452e7843]...
 
-2.[^key-faae556045c70540fc15aa044e573e6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-faae556045c70540fc15aa044e573e6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 85. Relationship to Conventions
 
-1.[^key-da33b1f6a1dec313b94a87e5f612b2f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.[^c-da33b1f6a1dec313b94a87e5f612b2f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-2.[^key-da33b1f6a1dec313b94a87e5f612b2f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-da33b1f6a1dec313b94a87e5f612b2f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 3. This Regulation shall not apply:
 
-- (a) [^key-4f175a82fe1ca48a7ee663afe87a595f]..., to the extent that it is irreconcilable with the obligations arising in relation to bankruptcy from a convention concluded by the United Kingdom[^key-a2641b2769188c5211341abe4a26a13d] with one or more third countries before the entry into force of Regulation (EC) No 1346/2000;
+- (a) [^c-4f175a82fe1ca48a7ee663afe87a595f]..., to the extent that it is irreconcilable with the obligations arising in relation to bankruptcy from a convention concluded by the United Kingdom[^c-a2641b2769188c5211341abe4a26a13d] with one or more third countries before the entry into force of Regulation (EC) No 1346/2000;
 - (b) in the United Kingdom of Great Britain and Northern Ireland, to the extent that is irreconcilable with the obligations arising in relation to bankruptcy and the winding-up of insolvent companies from any arrangements with the Commonwealth existing at the time Regulation (EC) No 1346/2000 entered into force.
 
-### Article 86. Information on national and Union insolvency law[^key-87dd73d98b85959a37918c356a9dd529]
+### Article 86. Information on national and Union insolvency law[^c-87dd73d98b85959a37918c356a9dd529]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 87. Establishment of the interconnection of registers[^key-87dd73d98b85959a37918c356a9dd529]
+### Article 87. Establishment of the interconnection of registers[^c-87dd73d98b85959a37918c356a9dd529]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 88. Establishment and subsequent amendment of standard forms[^key-87dd73d98b85959a37918c356a9dd529]
+### Article 88. Establishment and subsequent amendment of standard forms[^c-87dd73d98b85959a37918c356a9dd529]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 89. Committee procedure[^key-87dd73d98b85959a37918c356a9dd529]
+### Article 89. Committee procedure[^c-87dd73d98b85959a37918c356a9dd529]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 90. Review clause[^key-87dd73d98b85959a37918c356a9dd529]
+### Article 90. Review clause[^c-87dd73d98b85959a37918c356a9dd529]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -870,7 +870,7 @@ Subsection 2
 
 Regulation (EC) No 1346/2000 is repealed.
 
-[^key-34457828c9a53d3d866cd2de6f58d839]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34457828c9a53d3d866cd2de6f58d839]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 92. Entry into force
 
@@ -880,175 +880,175 @@ It shall apply from 26 June 2017, with the exception of:
 
 - ((a)) Article 86, which shall apply from 26 June 2016;
 - ((b)) Article 24(1), which shall apply from 26 June 2018; and
-- ((c)) [^key-d52eee877d8c2e68a323606ea44bfb42]...
+- ((c)) [^c-d52eee877d8c2e68a323606ea44bfb42]...
 
-[^key-587f87eec4306c1bbf636daa1a361c51]...
+[^c-587f87eec4306c1bbf636daa1a361c51]...
 
-## ANNEX A — Insolvency proceedings referred to in point (4) of Article 2[^key-d0bbfc24988e1e991cd72de9edca12fd]
+## ANNEX A — Insolvency proceedings referred to in point (4) of Article 2[^c-d0bbfc24988e1e991cd72de9edca12fd]
 
 **No longer in force.**
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] BELGIQUE/BELGIË
+[^c-d0bbfc24988e1e991cd72de9edca12fd] BELGIQUE/BELGIË
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] БЪЛГАРИЯ
+[^c-d0bbfc24988e1e991cd72de9edca12fd] БЪЛГАРИЯ
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] ČESKÁ REPUBLIKA
+[^c-d0bbfc24988e1e991cd72de9edca12fd] ČESKÁ REPUBLIKA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] DEUTSCHLAND
+[^c-d0bbfc24988e1e991cd72de9edca12fd] DEUTSCHLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] EESTI
+[^c-d0bbfc24988e1e991cd72de9edca12fd] EESTI
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] ÉIRE/IRELAND
+[^c-d0bbfc24988e1e991cd72de9edca12fd] ÉIRE/IRELAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] ΕΛΛΑΔΑ
+[^c-d0bbfc24988e1e991cd72de9edca12fd] ΕΛΛΑΔΑ
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] ESPAÑA
+[^c-d0bbfc24988e1e991cd72de9edca12fd] ESPAÑA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] FRANCE
+[^c-d0bbfc24988e1e991cd72de9edca12fd] FRANCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] HRVATSKA
+[^c-d0bbfc24988e1e991cd72de9edca12fd] HRVATSKA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] ITALIA
+[^c-d0bbfc24988e1e991cd72de9edca12fd] ITALIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] ΚΥΠΡΟΣ
+[^c-d0bbfc24988e1e991cd72de9edca12fd] ΚΥΠΡΟΣ
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] LATVIJA
+[^c-d0bbfc24988e1e991cd72de9edca12fd] LATVIJA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] LIETUVA
+[^c-d0bbfc24988e1e991cd72de9edca12fd] LIETUVA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] LUXEMBOURG
+[^c-d0bbfc24988e1e991cd72de9edca12fd] LUXEMBOURG
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] MAGYARORSZÁG
+[^c-d0bbfc24988e1e991cd72de9edca12fd] MAGYARORSZÁG
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] MALTA
+[^c-d0bbfc24988e1e991cd72de9edca12fd] MALTA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] NEDERLAND
+[^c-d0bbfc24988e1e991cd72de9edca12fd] NEDERLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] ÖSTERREICH
+[^c-d0bbfc24988e1e991cd72de9edca12fd] ÖSTERREICH
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] POLSKA
+[^c-d0bbfc24988e1e991cd72de9edca12fd] POLSKA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] PORTUGAL
+[^c-d0bbfc24988e1e991cd72de9edca12fd] PORTUGAL
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] ROMÂNIA
+[^c-d0bbfc24988e1e991cd72de9edca12fd] ROMÂNIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] SLOVENIJA
+[^c-d0bbfc24988e1e991cd72de9edca12fd] SLOVENIJA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] SLOVENSKO
+[^c-d0bbfc24988e1e991cd72de9edca12fd] SLOVENSKO
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] SUOMI/FINLAND
+[^c-d0bbfc24988e1e991cd72de9edca12fd] SUOMI/FINLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] SVERIGE
+[^c-d0bbfc24988e1e991cd72de9edca12fd] SVERIGE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd] UNITED KINGDOM
+[^c-d0bbfc24988e1e991cd72de9edca12fd] UNITED KINGDOM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## ANNEX B — Insolvency practitioners referred to in point (5) of Article 2[^c000002]
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
-[^key-987955e62afc558a8d84d2c7298c1e32]...
+[^c-987955e62afc558a8d84d2c7298c1e32]...
 
 UNITED KINGDOM
 
@@ -1253,94 +1253,94 @@ UNITED KINGDOM
 
 [^f00012]: Footnote: [OJ C 358, 7.12.2013, p. 15](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2013.358.01.0015.01.ENG).
 
-[^key-4a9019985266c4719226c616fab6deda]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2015/848/article/1) heading substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/2/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a9019985266c4719226c616fab6deda]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2015/848/article/1) heading substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/2/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7b9d8e9c1b4034136e31745264f6e0f6]: Textual amendment: [Art. 1(1)-(1B)](https://www.legislation.gov.uk/eur/2015/848/article/1/1) substituted for [Art. 1(1)](https://www.legislation.gov.uk/eur/2015/848/article/1/1) (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/2/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b9d8e9c1b4034136e31745264f6e0f6]: Textual amendment: [Art. 1(1)-(1B)](https://www.legislation.gov.uk/eur/2015/848/article/1/1) substituted for [Art. 1(1)](https://www.legislation.gov.uk/eur/2015/848/article/1/1) (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/2/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6161615fe594b7c4494649cef85e3e0c]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2015/848/article/1/2) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/2/4) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6161615fe594b7c4494649cef85e3e0c]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2015/848/article/1/2) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/2/4) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4d675db5d01d051608df296fd470e8b4]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/eur/2015/848/article/2/1) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d675db5d01d051608df296fd470e8b4]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/eur/2015/848/article/2/1) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f3e15845fe566c7694e6c01e964b0ccb]: Textual amendment: [Art. 2(1A)](https://www.legislation.gov.uk/eur/2015/848/article/2/1A) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f3e15845fe566c7694e6c01e964b0ccb]: Textual amendment: [Art. 2(1A)](https://www.legislation.gov.uk/eur/2015/848/article/2/1A) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00013]: Footnote: Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) ([OJ L 302, 17.11.2009, p. 32](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.302.01.0032.01.ENG)).
 
 [^f00014]: Footnote: Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 ([OJ L 174, 1.7.2011, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2011.174.01.0001.01.ENG)).
 
-[^key-9f70d395560c4554e87bb96de4911d97]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/eur/2015/848/article/2/3) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f70d395560c4554e87bb96de4911d97]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/eur/2015/848/article/2/3) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5f75c048b0b51f995bc8eb96c96fff60]: Textual amendment: Words in [Art. 2(4)](https://www.legislation.gov.uk/eur/2015/848/article/2/4) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(c)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/c) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f75c048b0b51f995bc8eb96c96fff60]: Textual amendment: Words in [Art. 2(4)](https://www.legislation.gov.uk/eur/2015/848/article/2/4) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(c)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/c) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1b98b6e27ce72e7d457f87acb364030c]: Textual amendment: [Art. 2(6)(i)](https://www.legislation.gov.uk/eur/2015/848/article/2/6/i) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(d)(i)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/d/i) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b98b6e27ce72e7d457f87acb364030c]: Textual amendment: [Art. 2(6)(i)](https://www.legislation.gov.uk/eur/2015/848/article/2/6/i) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(d)(i)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/d/i) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-98e2655d49f92151037505b13ae170dc]: Textual amendment: Words in [Art. 2(6)(ii)](https://www.legislation.gov.uk/eur/2015/848/article/2/6/ii) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/d/ii) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-98e2655d49f92151037505b13ae170dc]: Textual amendment: Words in [Art. 2(6)(ii)](https://www.legislation.gov.uk/eur/2015/848/article/2/6/ii) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/d/ii) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4678f201e24e00d4e4bf081bcc0ec5aa]: Textual amendment: [Art. 2(9)](https://www.legislation.gov.uk/eur/2015/848/article/2/9) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(e)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/e) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4678f201e24e00d4e4bf081bcc0ec5aa]: Textual amendment: [Art. 2(9)](https://www.legislation.gov.uk/eur/2015/848/article/2/9) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(e)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/e) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a13ae50a8d2ced3fe70093ab0b586138]: Textual amendment: Word in [Art. 2(10)](https://www.legislation.gov.uk/eur/2015/848/article/2/10) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(f)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/f) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a13ae50a8d2ced3fe70093ab0b586138]: Textual amendment: Word in [Art. 2(10)](https://www.legislation.gov.uk/eur/2015/848/article/2/10) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(f)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/f) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5ec8c8a53cc149a6e232ec06d2453fe6]: Textual amendment: [Art. 2(11)-(14)](https://www.legislation.gov.uk/eur/2015/848/article/2/11) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(g)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/g) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ec8c8a53cc149a6e232ec06d2453fe6]: Textual amendment: [Art. 2(11)-(14)](https://www.legislation.gov.uk/eur/2015/848/article/2/11) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 3(g)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/3/g) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-499b5794f5aa2a72c16c7501d0ce11f3]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2015/848/article/3) heading substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/4/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-499b5794f5aa2a72c16c7501d0ce11f3]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2015/848/article/3) heading substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/4/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fdd5879865cec7959576cc6814057675]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2015/848/article/3/1) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/4/3/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fdd5879865cec7959576cc6814057675]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2015/848/article/3/1) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/4/3/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6ad3c2fd54992c663290cc450781409e]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2015/848/article/3/1) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/4/3/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ad3c2fd54992c663290cc450781409e]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2015/848/article/3/1) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 4(3)(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/4/3/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4d26f56a017414062d9b83f0c3ac011d]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2015/848/article/3/1) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 4(3)(c)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/4/3/c) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d26f56a017414062d9b83f0c3ac011d]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2015/848/article/3/1) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 4(3)(c)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/4/3/c) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-144e9f23ac3636adc57039f93e56a8d3]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2015/848/article/3/1) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 4(3)(d)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/4/3/d) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-144e9f23ac3636adc57039f93e56a8d3]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2015/848/article/3/1) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 4(3)(d)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/4/3/d) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-74f2036de434e8d450555fa0de9c11f7]: Textual amendment: [Art. 3(2)-(4)](https://www.legislation.gov.uk/eur/2015/848/article/3/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/4/4) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74f2036de434e8d450555fa0de9c11f7]: Textual amendment: [Art. 3(2)-(4)](https://www.legislation.gov.uk/eur/2015/848/article/3/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/4/4) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-40d04af6cb7b70cfcfcc19e78d338b95]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2015/848/article/4/1) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/5/2/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-40d04af6cb7b70cfcfcc19e78d338b95]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2015/848/article/4/1) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/5/2/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-446ee10bf19869646f841ba42789d777]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2015/848/article/4/1) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/5/2/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-446ee10bf19869646f841ba42789d777]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2015/848/article/4/1) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/5/2/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-24535aa3905fab2123567fafc99dcd61]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2015/848/article/4/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/5/3/a/i) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24535aa3905fab2123567fafc99dcd61]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2015/848/article/4/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/5/3/a/i) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3ce265b12226c5963968737b1490198b]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2015/848/article/4/2) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/5/3/a/ii) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ce265b12226c5963968737b1490198b]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2015/848/article/4/2) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/5/3/a/ii) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b12f12c4953784a2e909e96752152e80]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2015/848/article/4/2) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/5/3/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b12f12c4953784a2e909e96752152e80]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2015/848/article/4/2) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/5/3/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-934e95ef1c465c0f3c7b8da6bd9a2cb7]: Textual amendment: Word in [Art. 5](https://www.legislation.gov.uk/eur/2015/848/article/5) heading omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 6(2)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/6/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-934e95ef1c465c0f3c7b8da6bd9a2cb7]: Textual amendment: Word in [Art. 5](https://www.legislation.gov.uk/eur/2015/848/article/5) heading omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 6(2)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/6/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cc0b1b97338150fa1c36bb65159102ad]: Textual amendment: Word in [Art. 5(1)](https://www.legislation.gov.uk/eur/2015/848/article/5/1) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/6/3/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc0b1b97338150fa1c36bb65159102ad]: Textual amendment: Word in [Art. 5(1)](https://www.legislation.gov.uk/eur/2015/848/article/5/1) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/6/3/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-96161007c1f4cd3bd141877c3e15b246]: Textual amendment: Words in [Art. 5(1)](https://www.legislation.gov.uk/eur/2015/848/article/5/1) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/6/3/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96161007c1f4cd3bd141877c3e15b246]: Textual amendment: Words in [Art. 5(1)](https://www.legislation.gov.uk/eur/2015/848/article/5/1) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/6/3/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-50333dc11fff3c2d4055d21135a17d13]: Textual amendment: Word in [Art. 5(2)](https://www.legislation.gov.uk/eur/2015/848/article/5/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 6(4)(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/6/4/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-50333dc11fff3c2d4055d21135a17d13]: Textual amendment: Word in [Art. 5(2)](https://www.legislation.gov.uk/eur/2015/848/article/5/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 6(4)(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/6/4/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ec05a4dedf1b15299bd96ef061e9a6c]: Textual amendment: Word in [Art. 5(2)](https://www.legislation.gov.uk/eur/2015/848/article/5/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 6(4)(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/6/4/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ec05a4dedf1b15299bd96ef061e9a6c]: Textual amendment: Word in [Art. 5(2)](https://www.legislation.gov.uk/eur/2015/848/article/5/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 6(4)(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/6/4/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7da2610807e94d47a120e29bf955e10e]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2015/848/article/5/2) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 6(4)(c)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/6/4/c) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7da2610807e94d47a120e29bf955e10e]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2015/848/article/5/2) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 6(4)(c)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/6/4/c) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-47d0f44b574bacd3e81eef7a3b4a9a1c]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2015/848/article/5/2) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 6(4)(d)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/6/4/d) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-47d0f44b574bacd3e81eef7a3b4a9a1c]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2015/848/article/5/2) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 6(4)(d)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/6/4/d) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-761f23da60ae18a5f97b52388b960a67]: Textual amendment: [Arts. 6-83](https://www.legislation.gov.uk/eur/2015/848/article/6) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/7) (as substituted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-761f23da60ae18a5f97b52388b960a67]: Textual amendment: [Arts. 6-83](https://www.legislation.gov.uk/eur/2015/848/article/6) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/7) (as substituted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) 2015/848 of the European Parliament and of the Council of 20 May 2015 on insolvency proceedings (Official Journal of the European Union L 141 of 5 June 2015)](https://www.legislation.gov.uk/eur/2015/848/pdfs/eurcs_20150848_en_001.pdf).
 
-[^key-3fb039ee7793249daf3a418f452e7843]: Textual amendment: Words in [Art. 84(1)](https://www.legislation.gov.uk/eur/2015/848/article/84/1) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/8/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3fb039ee7793249daf3a418f452e7843]: Textual amendment: Words in [Art. 84(1)](https://www.legislation.gov.uk/eur/2015/848/article/84/1) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/8/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-faae556045c70540fc15aa044e573e6a]: Textual amendment: [Art. 84(2)](https://www.legislation.gov.uk/eur/2015/848/article/84/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/8/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-faae556045c70540fc15aa044e573e6a]: Textual amendment: [Art. 84(2)](https://www.legislation.gov.uk/eur/2015/848/article/84/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/8/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-da33b1f6a1dec313b94a87e5f612b2f1]: Textual amendment: [Art. 85(1)](https://www.legislation.gov.uk/eur/2015/848/article/85/1)[(2)](https://www.legislation.gov.uk/eur/2015/848/article/85/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/9/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da33b1f6a1dec313b94a87e5f612b2f1]: Textual amendment: [Art. 85(1)](https://www.legislation.gov.uk/eur/2015/848/article/85/1)[(2)](https://www.legislation.gov.uk/eur/2015/848/article/85/2) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 9(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/9/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4f175a82fe1ca48a7ee663afe87a595f]: Textual amendment: Words in [Art. 85(3)(a)](https://www.legislation.gov.uk/eur/2015/848/article/85/3/a) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 9(b)(i)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/9/b/i) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4f175a82fe1ca48a7ee663afe87a595f]: Textual amendment: Words in [Art. 85(3)(a)](https://www.legislation.gov.uk/eur/2015/848/article/85/3/a) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 9(b)(i)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/9/b/i) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a2641b2769188c5211341abe4a26a13d]: Textual amendment: Words in [Art. 85(3)](https://www.legislation.gov.uk/eur/2015/848/article/85/3) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 9(b)(ii)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/9/b/ii) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a2641b2769188c5211341abe4a26a13d]: Textual amendment: Words in [Art. 85(3)](https://www.legislation.gov.uk/eur/2015/848/article/85/3) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 9(b)(ii)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/9/b/ii) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-87dd73d98b85959a37918c356a9dd529]: Textual amendment: [Arts. 86-90](https://www.legislation.gov.uk/eur/2015/848/article/86) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/10) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-87dd73d98b85959a37918c356a9dd529]: Textual amendment: [Arts. 86-90](https://www.legislation.gov.uk/eur/2015/848/article/86) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/10) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-34457828c9a53d3d866cd2de6f58d839]: Textual amendment: Words in [Art. 91](https://www.legislation.gov.uk/eur/2015/848/article/91) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/11) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34457828c9a53d3d866cd2de6f58d839]: Textual amendment: Words in [Art. 91](https://www.legislation.gov.uk/eur/2015/848/article/91) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/11) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d52eee877d8c2e68a323606ea44bfb42]: Textual amendment: [Art. 92(c)](https://www.legislation.gov.uk/eur/2015/848/article/92/c) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/12) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d52eee877d8c2e68a323606ea44bfb42]: Textual amendment: [Art. 92(c)](https://www.legislation.gov.uk/eur/2015/848/article/92/c) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/12) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-587f87eec4306c1bbf636daa1a361c51]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/848/signature) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/13) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-587f87eec4306c1bbf636daa1a361c51]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/848/signature) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/13) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d0bbfc24988e1e991cd72de9edca12fd]: Textual amendment: [Annex A](https://www.legislation.gov.uk/eur/2015/848/annex/A) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/14) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d0bbfc24988e1e991cd72de9edca12fd]: Textual amendment: [Annex A](https://www.legislation.gov.uk/eur/2015/848/annex/A) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/14) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000002]: Textual amendment: Substituted by [Regulation (EU) 2018/946 of the European Parliament and of the Council of 4 July 2018 replacing Annexes A and B to Regulation (EU) 2015/848 on insolvency proceedings](https://www.legislation.gov.uk/eur/2018/946).
 
-[^key-987955e62afc558a8d84d2c7298c1e32]: Textual amendment: Words in [Annex B](https://www.legislation.gov.uk/eur/2015/848/annex/B) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/15) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-987955e62afc558a8d84d2c7298c1e32]: Textual amendment: Words in [Annex B](https://www.legislation.gov.uk/eur/2015/848/annex/B) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/15) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

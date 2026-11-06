@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 86. Civil legal services: scope[^key-8708061ddafc9faa5ae50feb446956d7]
+## 86. Civil legal services: scope[^c-8708061ddafc9faa5ae50feb446956d7]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8708061ddafc9faa5ae50feb446956d7]: Commencement: [S. 86](https://www.legislation.gov.uk/nia/2011/24/section/86) in operation at 7.1.2013 by [S.R. 2012/449](https://www.legislation.gov.uk/nisr/2012/449), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/449/article/2/b)
+[^c-8708061ddafc9faa5ae50feb446956d7]: Commencement: [S. 86](https://www.legislation.gov.uk/nia/2011/24/section/86) in operation at 7.1.2013 by [S.R. 2012/449](https://www.legislation.gov.uk/nisr/2012/449), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/449/article/2/b)

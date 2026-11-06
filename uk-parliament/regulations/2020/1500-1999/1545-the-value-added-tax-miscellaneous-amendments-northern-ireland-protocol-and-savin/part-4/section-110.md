@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Transitional provision in relation to acquisition VAT[^key-c864c1c2010c740513cbd917796ba1bd]
+## 110. Transitional provision in relation to acquisition VAT[^c-c864c1c2010c740513cbd917796ba1bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c864c1c2010c740513cbd917796ba1bd]: Commencement: Reg. 110 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-c864c1c2010c740513cbd917796ba1bd]: Commencement: Reg. 110 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395811]: Marginal citation: Section 12 of VATA was amended by section 26 of, and paragraph 3 of Schedule 3 to, the [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8) and is omitted by section 43 of, and paragraph 11 of Schedule 8 to, TCTA. The omission is not yet in force.
 

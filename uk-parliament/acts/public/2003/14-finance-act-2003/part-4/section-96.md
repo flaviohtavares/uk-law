@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Penalty for assisting in preparation of incorrect return etc[^key-abce1c392fcaacff80d54eaf871eb57b]
+## 96. Penalty for assisting in preparation of incorrect return etc[^c-abce1c392fcaacff80d54eaf871eb57b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abce1c392fcaacff80d54eaf871eb57b]: Textual amendment: S. 96 omitted (1.4.2013) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 223](https://www.legislation.gov.uk/ukpga/2012/14/section/223), [Sch. 38 para. 58(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/58/3) (with [Sch. 38 para. 43](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/43)); [S.I. 2013/279](https://www.legislation.gov.uk/uksi/2013/279), [art. 2](https://www.legislation.gov.uk/uksi/2013/279/article/2)
+[^c-abce1c392fcaacff80d54eaf871eb57b]: Textual amendment: S. 96 omitted (1.4.2013) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 223](https://www.legislation.gov.uk/ukpga/2012/14/section/223), [Sch. 38 para. 58(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/58/3) (with [Sch. 38 para. 43](https://www.legislation.gov.uk/ukpga/2012/14/schedule/38/paragraph/43)); [S.I. 2013/279](https://www.legislation.gov.uk/uksi/2013/279), [art. 2](https://www.legislation.gov.uk/uksi/2013/279/article/2)

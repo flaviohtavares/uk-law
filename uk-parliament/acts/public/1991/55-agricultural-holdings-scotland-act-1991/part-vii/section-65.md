@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Recovery of compensation and other sums due.[^key-2ecd18834be8083f99e9fbf2d96d2824]
+## 65. Recovery of compensation and other sums due.[^c-2ecd18834be8083f99e9fbf2d96d2824]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Any award or agreement under this Act as to compensation, expenses or otherwise 
 
 ## Annotations
 
-[^key-2ecd18834be8083f99e9fbf2d96d2824]: Modification: S. 65 applied (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 80(2)](https://www.legislation.gov.uk/asp/2003/11/section/80/2), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-2ecd18834be8083f99e9fbf2d96d2824]: Modification: S. 65 applied (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 80(2)](https://www.legislation.gov.uk/asp/2003/11/section/80/2), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(g)](https://www.legislation.gov.uk/ssi/2003/548/article/2/g) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

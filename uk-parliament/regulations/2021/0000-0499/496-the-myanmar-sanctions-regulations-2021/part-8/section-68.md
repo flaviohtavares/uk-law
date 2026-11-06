@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Monetary penalties[^key-3de5859f81ea975e2c143801b545346e]
+## 68. Monetary penalties[^c-3de5859f81ea975e2c143801b545346e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Each provision in Part 5 (Trade) which contains a prohibition imposed for a purp
 
 ## Annotations
 
-[^key-3de5859f81ea975e2c143801b545346e]: Commencement: Reg. 68 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-3de5859f81ea975e2c143801b545346e]: Commencement: Reg. 68 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
 
 [^c24500501]: Marginal citation: See section 143(4)(f) and (4A), as inserted by the Sanctions and Anti Money Laundering Act 2018, Schedule 3, paragraph 8(1) and (3).

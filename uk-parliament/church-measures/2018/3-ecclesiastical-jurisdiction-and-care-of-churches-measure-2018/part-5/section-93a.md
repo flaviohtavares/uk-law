@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 93A. Live broadcast of proceedings[^key-8c21b1a90baa2ceb5b3c4a818710f7d9]
+## 93A. Live broadcast of proceedings[^c-8c21b1a90baa2ceb5b3c4a818710f7d9]
 
 *Extent: E*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c21b1a90baa2ceb5b3c4a818710f7d9]: Textual amendment: [S. 93A](https://www.legislation.gov.uk/ukcm/2018/3/section/93A) and cross-heading inserted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 12](https://www.legislation.gov.uk/ukcm/2024/1/section/12), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-8c21b1a90baa2ceb5b3c4a818710f7d9]: Textual amendment: [S. 93A](https://www.legislation.gov.uk/ukcm/2018/3/section/93A) and cross-heading inserted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 12](https://www.legislation.gov.uk/ukcm/2024/1/section/12), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Change of non-residential limit on right to manage claims[^key-f1ef0115070ef3bee3dbc9716994f96d][^key-8ef555596d816caea5323206b8fcf0b3]
+## 49. Change of non-residential limit on right to manage claims[^c-f1ef0115070ef3bee3dbc9716994f96d][^c-8ef555596d816caea5323206b8fcf0b3]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In Schedule 6 to the Commonhold and Leasehold Reform Act 2002 (â€œthe CLRA 2002â
 
 ## Annotations
 
-[^key-f1ef0115070ef3bee3dbc9716994f96d]: Commencement: S. 49 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-f1ef0115070ef3bee3dbc9716994f96d]: Commencement: S. 49 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-8ef555596d816caea5323206b8fcf0b3]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2024/22/section/49) in force at 3.3.2025 by [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/a)
+[^c-8ef555596d816caea5323206b8fcf0b3]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2024/22/section/49) in force at 3.3.2025 by [S.I. 2025/131](https://www.legislation.gov.uk/uksi/2025/131), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/131/regulation/2/a)

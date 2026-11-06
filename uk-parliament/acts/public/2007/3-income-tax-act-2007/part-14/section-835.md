@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 835. Residence rules for trustees ...[^key-5522577454616832e96792c7d9da682d]
+## 835. Residence rules for trustees ...[^c-5522577454616832e96792c7d9da682d]
 
 *Extent: E+W+S+N.I.*
 
 (1) See sections 475 and 476 for rules about the residence of the trustees of a settlement.
 
-(2)[^key-79b0ca83f6c73f2a5cb6bce436da831a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-79b0ca83f6c73f2a5cb6bce436da831a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5522577454616832e96792c7d9da682d]: Textual amendment: Words in s. 835 heading omitted (with effect in accordance with s. 1329(1) of the amending Act) by virtue of [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 705(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/705/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-5522577454616832e96792c7d9da682d]: Textual amendment: Words in s. 835 heading omitted (with effect in accordance with s. 1329(1) of the amending Act) by virtue of [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 705(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/705/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-79b0ca83f6c73f2a5cb6bce436da831a]: Textual amendment: S. 835(2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 705(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/705/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-79b0ca83f6c73f2a5cb6bce436da831a]: Textual amendment: S. 835(2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 705(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/705/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 162. Option to pay member contributions for period of unpaid leave[^key-1f276a4c20536ec982843721f80ed34d]
+## 162. Option to pay member contributions for period of unpaid leave[^c-1f276a4c20536ec982843721f80ed34d]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) unpaid adoption leave;
 - (b) unpaid maternity leave;
-- (ba)[^key-ab5218c5605e60248ac91e5038a3d00c] unpaid shared parental leave;
+- (ba)[^c-ab5218c5605e60248ac91e5038a3d00c] unpaid shared parental leave;
 - (c) unpaid parental leave;
 - (d) unpaid maternity support leave;
 - (e) unpaid adoption support leave; or
@@ -46,12 +46,12 @@ summary: ''
 
 (6) On receipt of a notice under paragraph (3), the scheme manager must calculate the amount of contributions payable and give the member a notice stating that amount.
 
-(7) For the purpose of calculating the amount of contributions payable, the annual rate of the member’s pensionable earnings is taken to be the rate that applied immediately before the commencement of[^key-1fec1bf67044a688e0e128d82fb3daf3] the period of unpaid leave.
+(7) For the purpose of calculating the amount of contributions payable, the annual rate of the member’s pensionable earnings is taken to be the rate that applied immediately before the commencement of[^c-1fec1bf67044a688e0e128d82fb3daf3] the period of unpaid leave.
 
 ## Annotations
 
-[^key-1f276a4c20536ec982843721f80ed34d]: Commencement: Reg. 162 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-1f276a4c20536ec982843721f80ed34d]: Commencement: Reg. 162 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-ab5218c5605e60248ac91e5038a3d00c]: Textual amendment: [Reg. 162(1)(ba)](https://www.legislation.gov.uk/ssi/2015/142/regulation/162/1/ba) inserted (21.12.2017) by [The Police Pension Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/387)](https://www.legislation.gov.uk/ssi/2017/387), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/387/regulation/1/2), [18](https://www.legislation.gov.uk/ssi/2017/387/regulation/18)
+[^c-ab5218c5605e60248ac91e5038a3d00c]: Textual amendment: [Reg. 162(1)(ba)](https://www.legislation.gov.uk/ssi/2015/142/regulation/162/1/ba) inserted (21.12.2017) by [The Police Pension Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/387)](https://www.legislation.gov.uk/ssi/2017/387), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/387/regulation/1/2), [18](https://www.legislation.gov.uk/ssi/2017/387/regulation/18)
 
-[^key-1fec1bf67044a688e0e128d82fb3daf3]: Textual amendment: Words in [reg. 162(7)](https://www.legislation.gov.uk/ssi/2015/142/regulation/162/7) substituted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [57](https://www.legislation.gov.uk/ssi/2019/68/regulation/57)
+[^c-1fec1bf67044a688e0e128d82fb3daf3]: Textual amendment: Words in [reg. 162(7)](https://www.legislation.gov.uk/ssi/2015/142/regulation/162/7) substituted (1.4.2019) by [The Police Pensions (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/68)](https://www.legislation.gov.uk/ssi/2019/68), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/68/regulation/1/2), [57](https://www.legislation.gov.uk/ssi/2019/68/regulation/57)

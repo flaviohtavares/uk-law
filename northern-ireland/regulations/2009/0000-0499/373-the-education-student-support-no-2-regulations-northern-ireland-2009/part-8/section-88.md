@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Application of contribution – current system students[^key-bf99c9d43271eddc63f171b7635f9cf4]
+## 88. Application of contribution – current system students[^c-bf99c9d43271eddc63f171b7635f9cf4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In the case of a current system student, the Department must apply the contribut
 
 ## Annotations
 
-[^key-bf99c9d43271eddc63f171b7635f9cf4]: Commencement: Reg. 88 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-bf99c9d43271eddc63f171b7635f9cf4]: Commencement: Reg. 88 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Sole proprietor in a salmon fishery district[^key-59453939d8e25e34bbc58562694489b3]
+## 41. Sole proprietor in a salmon fishery district[^c-59453939d8e25e34bbc58562694489b3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where there is in a salmon fishery district only one proprietor of salmon fisher
 
 ## Annotations
 
-[^key-59453939d8e25e34bbc58562694489b3]: Commencement: S. 41 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-59453939d8e25e34bbc58562694489b3]: Commencement: S. 41 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

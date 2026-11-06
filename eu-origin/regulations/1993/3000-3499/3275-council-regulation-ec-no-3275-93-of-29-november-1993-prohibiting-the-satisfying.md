@@ -80,11 +80,11 @@ Without prejudice to Article 2, performance of a contract of transaction shall a
 
 under or in connection with a contract or transaction the performance of which was affected, directly or indirectly, wholly or in part, by the measures decided on pursuant to United Nations Security Council Resolution 883 (1993) and related resolutions.
 
-2.[^key-286126cfc2850c492844655cb684105e] This prohibition shall apply within the United Kingdom and to any national of the United Kingdom and any body which is incorporated or constituted under the law of the United Kingdom.
+2.[^c-286126cfc2850c492844655cb684105e] This prohibition shall apply within the United Kingdom and to any national of the United Kingdom and any body which is incorporated or constituted under the law of the United Kingdom.
 
 **Article 3.** Without prejudice to the measures decided on pursuant to United Nations Security Council Resolution 883 (1993) and related resolutions, Article 2 shall not apply;
 
-- ((a)) to claims relating to contracts or transactions, with the exception of any bond, financial guarantee or indemnity, in respect of which the persons or bodies referred to in the said Article prove to a court in the United Kingdom[^key-cb0abfb2f2bc3eb2087f0f3324d9a9fe] that the claim was accepted by the parties prior to the adoption of the measures decided on pursuant to United Nations Security Council Resolution 883 (1993) and related resolutions, and that those measures have had no effect on the existence or content of the claim;
+- ((a)) to claims relating to contracts or transactions, with the exception of any bond, financial guarantee or indemnity, in respect of which the persons or bodies referred to in the said Article prove to a court in the United Kingdom[^c-cb0abfb2f2bc3eb2087f0f3324d9a9fe] that the claim was accepted by the parties prior to the adoption of the measures decided on pursuant to United Nations Security Council Resolution 883 (1993) and related resolutions, and that those measures have had no effect on the existence or content of the claim;
 - ((b)) to claims for payment under an insurance contract in respect of an event occurring prior to the adoption of the measures referred to in Article 2 or under an insurance contract where such insurance is compulsory under the law of the United Kingdom;
 - ((c)) to claims for payment of sums paid into an account payment from which was blocked pursuant to the measures referred to in Article 2 provided that such payment does not concern sums paid under bonds in respect of contracts referred to in the said Article;
 - ((d)) to claims relating to contracts of employment subject to the law of any Member State;
@@ -95,7 +95,7 @@ provided that the claim includes no amount, by way of interest, charge or otherw
 
 **Article 4.** In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by Article 2 shall be on the person seeking the enforcement of that claim.
 
-**Article 5.**[^key-d026ce951c00be5bbfc1d6b23db9d377] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-d026ce951c00be5bbfc1d6b23db9d377] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Article 6.** This Regulation shall enter into force on the day of its publication in the *Official Journal of the European Communities*.
 
@@ -117,10 +117,10 @@ G. Coëme
 
 [^f00002]: Footnote: See page 1 of this Official Journal.
 
-[^key-286126cfc2850c492844655cb684105e]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/eur/1993/3275/article/2/2) substituted (31.12.2020) by [The Sanctions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/26)](https://www.legislation.gov.uk/uksi/2019/26), [regs. 1](https://www.legislation.gov.uk/uksi/2019/26/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/26/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-286126cfc2850c492844655cb684105e]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/eur/1993/3275/article/2/2) substituted (31.12.2020) by [The Sanctions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/26)](https://www.legislation.gov.uk/uksi/2019/26), [regs. 1](https://www.legislation.gov.uk/uksi/2019/26/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/26/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cb0abfb2f2bc3eb2087f0f3324d9a9fe]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/1993/3275/article/3) substituted (31.12.2020) by [The Sanctions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/26)](https://www.legislation.gov.uk/uksi/2019/26), [regs. 1](https://www.legislation.gov.uk/uksi/2019/26/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/26/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb0abfb2f2bc3eb2087f0f3324d9a9fe]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/1993/3275/article/3) substituted (31.12.2020) by [The Sanctions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/26)](https://www.legislation.gov.uk/uksi/2019/26), [regs. 1](https://www.legislation.gov.uk/uksi/2019/26/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/26/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d026ce951c00be5bbfc1d6b23db9d377]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/1993/3275/article/5) omitted (31.12.2020) by virtue of [The Sanctions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/26)](https://www.legislation.gov.uk/uksi/2019/26), [regs. 1](https://www.legislation.gov.uk/uksi/2019/26/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/26/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d026ce951c00be5bbfc1d6b23db9d377]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/1993/3275/article/5) omitted (31.12.2020) by virtue of [The Sanctions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/26)](https://www.legislation.gov.uk/uksi/2019/26), [regs. 1](https://www.legislation.gov.uk/uksi/2019/26/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2019/26/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_92124ebf-516b-4374-9ece-6956ae9fe344]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Sanctions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/26)](https://www.legislation.gov.uk/uksi/2019/26), [regs. 1](https://www.legislation.gov.uk/uksi/2019/26/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2019/26/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

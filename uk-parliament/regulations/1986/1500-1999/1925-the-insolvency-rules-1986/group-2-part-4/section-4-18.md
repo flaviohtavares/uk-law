@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.18. Affidavit in opposition[^key-a211b59f060f01b4eeba24e8a472f7a6]
+## 4.18. Affidavit in opposition[^c-a211b59f060f01b4eeba24e8a472f7a6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a211b59f060f01b4eeba24e8a472f7a6]: Commencement: [Rule 4.18](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.18) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a211b59f060f01b4eeba24e8a472f7a6]: Commencement: [Rule 4.18](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.18) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

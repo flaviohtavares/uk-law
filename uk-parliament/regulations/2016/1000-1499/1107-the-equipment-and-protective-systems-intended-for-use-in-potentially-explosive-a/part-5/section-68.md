@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68. Action by the market surveillance authority[^key-43b9188ce761ae0d187b2481a30b0772]
+## 68. Action by the market surveillance authority[^c-43b9188ce761ae0d187b2481a30b0772]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-43b9188ce761ae0d187b2481a30b0772]: Commencement: Reg. 68 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-43b9188ce761ae0d187b2481a30b0772]: Commencement: Reg. 68 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
 
 [^f00012]: Footnote: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43); section 58 was amended by the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), Schedule 10 paragraph 40.

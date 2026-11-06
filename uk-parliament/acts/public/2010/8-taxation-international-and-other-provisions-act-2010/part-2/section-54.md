@@ -49,21 +49,21 @@ may be allocated by the company to such of its profits for the period, and in su
 
 - “**carry-back claim**” means a claim—
   - (a) under section 389(1) of CTA 2009 (insurance companies: carry-back, to earlier accounting periods, of non-trading deficit on loan relationships), or
-  - (b) under section 459(1)(b) or 463B(1)(b)[^key-e1234c0d771a0427cadd94e346ea0ee2] of CTA 2009 (carry-back: other companies),
+  - (b) under section 459(1)(b) or 463B(1)(b)[^c-e1234c0d771a0427cadd94e346ea0ee2] of CTA 2009 (carry-back: other companies),
 - “**carry-forward provision**” means—
   - (a) section 391 of CTA 2009 (insurance companies), or
-  - (b) section 457(1) , 463G(5) or 463H(4)[^key-2f2ec02bb5724fe68ca1ca6013d4b9e0] of CTA 2009 (other companies),
+  - (b) section 457(1) , 463G(5) or 463H(4)[^c-2f2ec02bb5724fe68ca1ca6013d4b9e0] of CTA 2009 (other companies),
 - “**current-year provision or claim**” means—
   - (a) section 388(1) of CTA 2009 (insurance companies: non-trading deficit on loan relationships set against current year's profits), or
-  - (b) a claim under section 459(1)(a) or 463B(1)(a)[^key-1fc375f922de3a8c054626ae6014d83c] of CTA 2009 (other companies: setting of deficit against current year's profits),
+  - (b) a claim under section 459(1)(a) or 463B(1)(a)[^c-1fc375f922de3a8c054626ae6014d83c] of CTA 2009 (other companies: setting of deficit against current year's profits),
 - “**non-trading credit**” means a non-trading credit for the purposes of Part 5 of CTA 2009 (loan relationships),
 - “**non-trading debit**” means a non-trading debit for the purposes of that Part, and
 - “TNTD” is the total amount of the company's non-trading debits for the period.
 
 ## Annotations
 
-[^key-e1234c0d771a0427cadd94e346ea0ee2]: Textual amendment: Words in [s. 54(7)](https://www.legislation.gov.uk/ukpga/2010/8/section/54/7) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 176(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/176/a)
+[^c-e1234c0d771a0427cadd94e346ea0ee2]: Textual amendment: Words in [s. 54(7)](https://www.legislation.gov.uk/ukpga/2010/8/section/54/7) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 176(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/176/a)
 
-[^key-2f2ec02bb5724fe68ca1ca6013d4b9e0]: Textual amendment: Words in [s. 54(7)](https://www.legislation.gov.uk/ukpga/2010/8/section/54/7) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 176(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/176/b)
+[^c-2f2ec02bb5724fe68ca1ca6013d4b9e0]: Textual amendment: Words in [s. 54(7)](https://www.legislation.gov.uk/ukpga/2010/8/section/54/7) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 176(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/176/b)
 
-[^key-1fc375f922de3a8c054626ae6014d83c]: Textual amendment: Words in [s. 54(7)](https://www.legislation.gov.uk/ukpga/2010/8/section/54/7) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 176(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/176/c)
+[^c-1fc375f922de3a8c054626ae6014d83c]: Textual amendment: Words in [s. 54(7)](https://www.legislation.gov.uk/ukpga/2010/8/section/54/7) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 176(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/176/c)

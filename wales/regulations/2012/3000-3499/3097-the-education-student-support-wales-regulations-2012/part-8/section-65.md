@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. College fee loans (affected by repeal, see note)[^key-82d09daccac36f796c5e32d5fcd9d7ec][^key-640cffab865051583171c3072f59bd51][^key-640cffab865051583171c3072f59bd51]
+## 65. College fee loans (affected by repeal, see note)[^c-82d09daccac36f796c5e32d5fcd9d7ec][^c-640cffab865051583171c3072f59bd51][^c-640cffab865051583171c3072f59bd51]
 
 *Extent: E+W*
 
-A college fee loan is available to an eligible student in accordance with Schedule 4. *(affected by repeal, see note)*[^key-640cffab865051583171c3072f59bd51]
+A college fee loan is available to an eligible student in accordance with Schedule 4. *(affected by repeal, see note)*[^c-640cffab865051583171c3072f59bd51]
 
 ## Annotations
 
-[^key-82d09daccac36f796c5e32d5fcd9d7ec]: Commencement: Reg. 65 in force at 4.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/3097/regulation/1/2)
+[^c-82d09daccac36f796c5e32d5fcd9d7ec]: Commencement: Reg. 65 in force at 4.1.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2012/3097/regulation/1/2)
 
-[^key-640cffab865051583171c3072f59bd51]: Textual amendment: Regulations revoked (1.9.2014) by [The Education (Student Support) (Wales) Regulations 2013 (S.I. 2013/3177)](https://www.legislation.gov.uk/uksi/2013/3177), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/1) (with savings in [reg. 3(2)-(18)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/2))
+[^c-640cffab865051583171c3072f59bd51]: Textual amendment: Regulations revoked (1.9.2014) by [The Education (Student Support) (Wales) Regulations 2013 (S.I. 2013/3177)](https://www.legislation.gov.uk/uksi/2013/3177), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/1) (with savings in [reg. 3(2)-(18)](https://www.legislation.gov.uk/uksi/2013/3177/regulation/3/2))

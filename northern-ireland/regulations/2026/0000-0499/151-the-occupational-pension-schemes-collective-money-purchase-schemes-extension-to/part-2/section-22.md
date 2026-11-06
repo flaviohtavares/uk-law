@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Index of defined expressions[^key-2bdcaaf43370763463a0535732438385]
+## 22. Index of defined expressions[^c-2bdcaaf43370763463a0535732438385]
 
 *Extent: N.I.*
 
@@ -86,4 +86,4 @@ In section 101 (index of defined expressions), in the table—
 
 ## Annotations
 
-[^key-2bdcaaf43370763463a0535732438385]: Commencement: Reg. 22 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-2bdcaaf43370763463a0535732438385]: Commencement: Reg. 22 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

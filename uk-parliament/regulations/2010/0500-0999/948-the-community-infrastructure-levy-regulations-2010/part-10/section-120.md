@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Appeal procedure[^key-a5a25fde6fe72136c3bcde45a63b3d24]
+## 120. Appeal procedure[^c-a5a25fde6fe72136c3bcde45a63b3d24]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ summary: ''
 
 (6) On receipt of an interested party’s representations, the appointed person must, as soon as practicable, send a copy of those representations to the appellant and each of the other interested parties.
 
-(7) The appointed person must have received any comments the appellant and the interested parties have on each other’s representations in writing within 14 days of the end of the representations period (or such longer period as the appointed person may in any particular case determine)[^key-c47d630ab29b330b3269e9777eb57d9c] and the appointed person must, as soon as practicable after receipt, send a copy of those comments to each of the other parties to the appeal.
+(7) The appointed person must have received any comments the appellant and the interested parties have on each other’s representations in writing within 14 days of the end of the representations period (or such longer period as the appointed person may in any particular case determine)[^c-c47d630ab29b330b3269e9777eb57d9c] and the appointed person must, as soon as practicable after receipt, send a copy of those comments to each of the other parties to the appeal.
 
 (8) The appointed person must consider any representations and comments made by the appellant and interested parties.
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a5a25fde6fe72136c3bcde45a63b3d24]: Commencement: Reg. 120 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-a5a25fde6fe72136c3bcde45a63b3d24]: Commencement: Reg. 120 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-c47d630ab29b330b3269e9777eb57d9c]: Textual amendment: Words in [reg. 120(7)](https://www.legislation.gov.uk/uksi/2010/948/regulation/120/7) substituted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [11(5)](https://www.legislation.gov.uk/uksi/2014/385/regulation/11/5) (with [reg. 14(4)](https://www.legislation.gov.uk/uksi/2014/385/regulation/14/4)[(7)](https://www.legislation.gov.uk/uksi/2014/385/regulation/14/7))
+[^c-c47d630ab29b330b3269e9777eb57d9c]: Textual amendment: Words in [reg. 120(7)](https://www.legislation.gov.uk/uksi/2010/948/regulation/120/7) substituted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [11(5)](https://www.legislation.gov.uk/uksi/2014/385/regulation/11/5) (with [reg. 14(4)](https://www.legislation.gov.uk/uksi/2014/385/regulation/14/4)[(7)](https://www.legislation.gov.uk/uksi/2014/385/regulation/14/7))

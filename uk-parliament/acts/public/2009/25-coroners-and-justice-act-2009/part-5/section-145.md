@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Transfer to Parole Board of functions under the Criminal Justice Act 1991[^key-50466d483c10ea713571329d8ed7bfed]
+## 145. Transfer to Parole Board of functions under the Criminal Justice Act 1991[^c-50466d483c10ea713571329d8ed7bfed]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50466d483c10ea713571329d8ed7bfed]: Textual amendment: [S. 145](https://www.legislation.gov.uk/ukpga/2009/25/section/145) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 21(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/21/a); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)
+[^c-50466d483c10ea713571329d8ed7bfed]: Textual amendment: [S. 145](https://www.legislation.gov.uk/ukpga/2009/25/section/145) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 21(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/21/a); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)

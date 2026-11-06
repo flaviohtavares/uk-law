@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Final meeting[^key-964b97e9f1201511d9f7439f9dab3e1e]
+## 96. Final meeting[^c-964b97e9f1201511d9f7439f9dab3e1e]
 
 *Extent: E+W*
 
 (1) The bank liquidator shall give at least 14 days’ notice of the final meeting of the liquidation committee to be held under section 115 of the 2009 Act to the following—
 
-- (a) the appropriate regulator[^key-d3bc7214a78daf56d267a9a24d024431],
+- (a) the appropriate regulator[^c-d3bc7214a78daf56d267a9a24d024431],
 - (b) the FSCS,
 - (c) the Bank of England,
 - (d) the Treasury,
@@ -38,7 +38,7 @@ summary: ''
 
 (3) At the same time that notice of the final meeting is sent out, the bank liquidator shall file the final report in court and send it to the registrar of companies.
 
-(4)[^key-35de973d0e18dc8cb27803829888e974] The bank liquidator shall give notice to all creditors and contributories that the final report is available, either on request to the bank liquidator or at Companies House, and shall cause that notice to be gazetted (and may advertise the notice by such other method as the bank liquidator sees fit) at least 14 days before the final meeting is held.
+(4)[^c-35de973d0e18dc8cb27803829888e974] The bank liquidator shall give notice to all creditors and contributories that the final report is available, either on request to the bank liquidator or at Companies House, and shall cause that notice to be gazetted (and may advertise the notice by such other method as the bank liquidator sees fit) at least 14 days before the final meeting is held.
 
 (5) At the final meeting, the liquidation committee may question the bank liquidator with respect to any matter contained in the final report, and may resolve against the bank liquidator being released.
 
@@ -52,10 +52,10 @@ summary: ''
 
 ## Annotations
 
-[^key-964b97e9f1201511d9f7439f9dab3e1e]: Commencement: Rule 96 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-964b97e9f1201511d9f7439f9dab3e1e]: Commencement: Rule 96 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-d3bc7214a78daf56d267a9a24d024431]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/2009/356) substituted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 163(f)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/163/f)
+[^c-d3bc7214a78daf56d267a9a24d024431]: Textual amendment: Words in [Rules](https://www.legislation.gov.uk/uksi/2009/356) substituted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 163(f)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/163/f)
 
 [^f00037]: Footnote: Section 176A was inserted by the Enterprise Act 2002 ([2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40)), section 252.
 
-[^key-35de973d0e18dc8cb27803829888e974]: Textual amendment: [Rule 96(4)](https://www.legislation.gov.uk/uksi/2009/356/rule/96/4) substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [41](https://www.legislation.gov.uk/uksi/2010/2579/rule/41)
+[^c-35de973d0e18dc8cb27803829888e974]: Textual amendment: [Rule 96(4)](https://www.legislation.gov.uk/uksi/2009/356/rule/96/4) substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [41](https://www.legislation.gov.uk/uksi/2010/2579/rule/41)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Equipment in relevant shafts and outlets[^key-8652b4154e10ec4af6d00d8b01288780]
+## 37. Equipment in relevant shafts and outlets[^c-8652b4154e10ec4af6d00d8b01288780]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8652b4154e10ec4af6d00d8b01288780]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2014/3248/regulation/37) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-8652b4154e10ec4af6d00d8b01288780]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2014/3248/regulation/37) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

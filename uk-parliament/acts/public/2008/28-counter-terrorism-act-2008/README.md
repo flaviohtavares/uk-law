@@ -34,7 +34,7 @@ An Act to confer further powers to gather and share information for counter-terr
 
 \[26th November 2008\]
 
-[^c2035949]Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-1bc153f906dd0418b2ab68937586468c]
+[^c2035949]Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-1bc153f906dd0418b2ab68937586468c]
 
 ## Contents
 
@@ -172,7 +172,7 @@ An Act to confer further powers to gather and share information for counter-terr
 - [Section 55 — Effect of absence abroad](part-4/section-55.md)
 - [Section 56 — Notification on return after absence from UK](part-4/section-56.md)
 
-#### Entry and search of home address[^key-27bed587d38a0468dbb7a000869778a4]
+#### Entry and search of home address[^c-27bed587d38a0468dbb7a000869778a4]
 
 - [Section 56A — Power to enter and search home address](part-4/section-56a.md)
 
@@ -311,6 +311,6 @@ SCHEDULES
 
 [^c2035949]: Modification: Act modified (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [art. 3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
 
-[^key-1bc153f906dd0418b2ab68937586468c]: Modification: Act modified (28.4.2022) by [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44), [s. 327(4E)(4F)](https://www.legislation.gov.uk/ukpga/2003/44/section/327) (as inserted by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 189(10)](https://www.legislation.gov.uk/ukpga/2022/32/section/189/10), [208(4)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/x))
+[^c-1bc153f906dd0418b2ab68937586468c]: Modification: Act modified (28.4.2022) by [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44), [s. 327(4E)(4F)](https://www.legislation.gov.uk/ukpga/2003/44/section/327) (as inserted by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 189(10)](https://www.legislation.gov.uk/ukpga/2022/32/section/189/10), [208(4)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/x))
 
-[^key-27bed587d38a0468dbb7a000869778a4]: Textual amendment: [S. 56A](https://www.legislation.gov.uk/ukpga/2008/28/section/56A) and cross-heading inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 13](https://www.legislation.gov.uk/ukpga/2019/3/section/13), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))
+[^c-27bed587d38a0468dbb7a000869778a4]: Textual amendment: [S. 56A](https://www.legislation.gov.uk/ukpga/2008/28/section/56A) and cross-heading inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 13](https://www.legislation.gov.uk/ukpga/2019/3/section/13), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 24(1)-(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/24/1))

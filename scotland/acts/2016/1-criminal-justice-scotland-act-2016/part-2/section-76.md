@@ -29,7 +29,7 @@ summary: ''
 - (c) the Law Society of Scotland,
 - (d) the Scottish Police Authority,
 - (e) the chief constable of the Police Service of Scotland,
-- (ea)[^key-1b8cf2c215cfd18bc237907b685ae490] the British Transport Police Authority,
+- (ea)[^c-1b8cf2c215cfd18bc237907b685ae490] the British Transport Police Authority,
 - (eb) the chief constable of the British Transport Police Force,
 - (ec) the Civil Nuclear Police Authority,
 - (ed) the chief constable of the Civil Nuclear Constabulary,
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b8cf2c215cfd18bc237907b685ae490]: Textual amendment: S. 76(2)(ea)-(ei) inserted (17.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/2/1/b), [11(3)](https://www.legislation.gov.uk/uksi/2018/46/article/11/3)
+[^c-1b8cf2c215cfd18bc237907b685ae490]: Textual amendment: S. 76(2)(ea)-(ei) inserted (17.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(1)(b)](https://www.legislation.gov.uk/uksi/2018/46/article/2/1/b), [11(3)](https://www.legislation.gov.uk/uksi/2018/46/article/11/3)

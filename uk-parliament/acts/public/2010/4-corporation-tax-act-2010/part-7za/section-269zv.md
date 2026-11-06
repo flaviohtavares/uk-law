@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269ZV. Group allowance allocation statement: requirements and effects[^key-df4edca86bcded2474d7f6ddaaeaa41e]
+## 269ZV. Group allowance allocation statement: requirements and effects[^c-df4edca86bcded2474d7f6ddaaeaa41e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,14 +44,14 @@ where—
 
 “DAP” is the number of days in the accounting period of the listed company that are—
 
-- (a) days in the nominee's accounting period on which the nominee was the nominated company in relation to the group[^key-d5e4c3cd06a5d7258e57352e76c2330f], and
-- (b) days on which the listed[^key-4255a2a40b816ed9dffcb524a8c31d69] company was a member of the group,
+- (a) days in the nominee's accounting period on which the nominee was the nominated company in relation to the group[^c-d5e4c3cd06a5d7258e57352e76c2330f], and
+- (b) days on which the listed[^c-4255a2a40b816ed9dffcb524a8c31d69] company was a member of the group,
 
-“DNAP” is the number of days in the nominee's accounting period on which the nominee was the nominated company in relation to the group[^key-7ba60c2b3c13351eb148ba68b113d915], and
+“DNAP” is the number of days in the nominee's accounting period on which the nominee was the nominated company in relation to the group[^c-7ba60c2b3c13351eb148ba68b113d915], and
 
 “GSA” is the group deductions allowance of the group for the nominee's accounting period.
 
-(5A)[^key-15ccf9e371db4596daa8b6b24852fdeb] In its application in relation to a listed company that is the ultimate parent (see section 269ZZB(3)) of each other company in the group, subsection (5) has effect as if after “the group” in paragraph (b) of the definition of DAP there was inserted “and was not a member of any other group
+(5A)[^c-15ccf9e371db4596daa8b6b24852fdeb] In its application in relation to a listed company that is the ultimate parent (see section 269ZZB(3)) of each other company in the group, subsection (5) has effect as if after “the group” in paragraph (b) of the definition of DAP there was inserted “and was not a member of any other group
 
 (6) The sum of the amounts allocated to listed companies by the group allowance allocation statement may not exceed the group deductions allowance for the nominee's accounting period.
 
@@ -79,12 +79,12 @@ the company that is, for the time being, the nominated company in relation to th
 
 ## Annotations
 
-[^key-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)
+[^c-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)
 
-[^key-d5e4c3cd06a5d7258e57352e76c2330f]: Textual amendment: Words in s. 269ZV(5) inserted (with effect in accordance with Sch. 8 para. 20 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 8 para. 12(a)(i)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/8/paragraph/12/a/i)
+[^c-d5e4c3cd06a5d7258e57352e76c2330f]: Textual amendment: Words in s. 269ZV(5) inserted (with effect in accordance with Sch. 8 para. 20 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 8 para. 12(a)(i)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/8/paragraph/12/a/i)
 
-[^key-4255a2a40b816ed9dffcb524a8c31d69]: Textual amendment: Word in s. 269ZV(5) inserted (with effect in accordance with Sch. 8 para. 20 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 8 para. 12(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/8/paragraph/12/a/ii)
+[^c-4255a2a40b816ed9dffcb524a8c31d69]: Textual amendment: Word in s. 269ZV(5) inserted (with effect in accordance with Sch. 8 para. 20 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 8 para. 12(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/8/paragraph/12/a/ii)
 
-[^key-7ba60c2b3c13351eb148ba68b113d915]: Textual amendment: Words in s. 269ZV(5) inserted (with effect in accordance with Sch. 8 para. 20 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 8 para. 12(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/8/paragraph/12/b)
+[^c-7ba60c2b3c13351eb148ba68b113d915]: Textual amendment: Words in s. 269ZV(5) inserted (with effect in accordance with Sch. 8 para. 20 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 8 para. 12(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/8/paragraph/12/b)
 
-[^key-15ccf9e371db4596daa8b6b24852fdeb]: Textual amendment: S. 269ZV(5A) inserted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/12)
+[^c-15ccf9e371db4596daa8b6b24852fdeb]: Textual amendment: S. 269ZV(5A) inserted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/12)

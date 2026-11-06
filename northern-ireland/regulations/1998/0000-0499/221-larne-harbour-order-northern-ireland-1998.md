@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred by section 1(1), (2) and (3) of, and Schedules 1 and 2 to, the Harbours Act (Northern Ireland) 1970[^f00001] (“the 1970 Act”) and now vested in it[^f00002] and of every other power enabling it in that behalf, and after consultation with Larne Harbour Limited and such harbour authority or local authority which the Department considered likely to be affected by the Order in accordance with section 1(6) of the 1970 Act, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-ee6878af7ae3e654354e8809fd8e388e]
+## 1. Citation and commencement[^c-ee6878af7ae3e654354e8809fd8e388e]
 
 (1) This Order may be cited as the Larne Harbour Order (Northern Ireland) 1998 and shall come into operation on 29th July 1998.
 
@@ -50,7 +50,7 @@ The Department of the Environment, in exercise of the powers conferred by sectio
 
 (3) The Curran Pier (Larne Harbour) Orders 1871 to 1936 and this Order may be cited together as the Larne Harbour Orders 1871 to 1998.
 
-## 2. Interpretation[^key-ae0715d5b52eb8ab1ef3dfaad2ba0399]
+## 2. Interpretation[^c-ae0715d5b52eb8ab1ef3dfaad2ba0399]
 
 In this Order—
 
@@ -67,7 +67,7 @@ In this Order—
   - (b) any rig, platform or other man-made structure on or in the water; and
   - (c) a seaplane on or in the water, a hovercraft and a hydrofoil vessel.
 
-## 3. Amendment of Curran Pier (Larne Harbour) Orders 1871 to 1936[^key-f0e8df352cea347a51d16e4dcaabd13c]
+## 3. Amendment of Curran Pier (Larne Harbour) Orders 1871 to 1936[^c-f0e8df352cea347a51d16e4dcaabd13c]
 
 (1) The Curran Pier (Larne Harbour) Orders 1871 and 1888 shall be amended as follows—
 
@@ -78,13 +78,13 @@ In this Order—
 
 (3) Section 85 of the said Act of 1847, as deemed to be incorporated with the Curran Pier (Larne Harbour) Orders 1871 to 1936, shall have effect as if for the words from “in the prescribed manner” to the end there were substituted the words “by the Department”.
 
-## 4. General powers of Company in respect of port[^key-579effebec357fac4c1a38da1e0284a7]
+## 4. General powers of Company in respect of port[^c-579effebec357fac4c1a38da1e0284a7]
 
 (1) The Company may, subject to the provisions of this Order, take such steps from time to time as it may consider necessary for the improvement, regulation, maintenance, management, marking or lighting of the port and the facilities afforded therein or in connection therewith.
 
 (2) For those purposes, and without prejudice to the generality of the foregoing, the Company may construct, demolish, reconstruct, maintain, alter, improve, enlarge or extend embankments, walls, footways, approaches, steps, landing places, pontoons, piers, quays, jetties, slips, wharves, groynes, sea defences, buoys, navigation marks, cranes, lights, beacons, sewers, drains, watercourses, gas and water pipes, apparatus for electric light and power, warehouses, offices, sheds and other works and facilities which may be found necessary to secure the purposes of this Order including the accommodation of vessels, vehicles or other traffic or for the protection of the port.
 
-## 5. Area of jurisdiction[^key-613a1e0bb2e1d20110cc78b5f4925759]
+## 5. Area of jurisdiction[^c-613a1e0bb2e1d20110cc78b5f4925759]
 
 (1) Subject to the provisions of this Order, the Company shall exercise its functions within the port, being the area shown on the map bounded by—
 
@@ -99,7 +99,7 @@ together with the docks, landing places, and all other works and land of the Com
 
 (2) In this Article “the map” means the map marked “Larne Harbour Order (Northern Ireland) 1998” which has been signed and sealed by the Department with reference to this Order and deposited at the Office of the Department at Clarence Court, 10-18 Adelaide Street, Belfast BT2 8GB.
 
-## 6. Power to secure sufficient waterway and sell dredged, etc. materials[^key-f7007c69673896cba9165d7cb86d3c18]
+## 6. Power to secure sufficient waterway and sell dredged, etc. materials[^c-f7007c69673896cba9165d7cb86d3c18]
 
 (1) The Company may deepen, dredge, scour or excavate, or blast any rock in, any part of the port or the approaches thereto to the extent necessary to secure a sufficient waterway for vessels using the port or approaching or leaving the same.
 
@@ -115,9 +115,9 @@ together with the docks, landing places, and all other works and land of the Com
 
 without the consent of the statutory undertaker concerned.
 
-(4) For the purposes of this Article “statutory undertaker” means any person including a Government Department or district council authorised by any statutory provision to carry on any railway, dock, harbour, gas, water, or other public undertaking, any licensee under Article 10(1) (licences authorising supply, etc.) of the Electricity (Northern Ireland) Order 1992[^f00005] or an operator of an electronic communications code network within the meaning given in paragraph 1(1) of Schedule 17 to the Communications Act 2003[^key-31f834189ae054ce1a652e59ca2ff9e3] .
+(4) For the purposes of this Article “statutory undertaker” means any person including a Government Department or district council authorised by any statutory provision to carry on any railway, dock, harbour, gas, water, or other public undertaking, any licensee under Article 10(1) (licences authorising supply, etc.) of the Electricity (Northern Ireland) Order 1992[^f00005] or an operator of an electronic communications code network within the meaning given in paragraph 1(1) of Schedule 17 to the Communications Act 2003[^c-31f834189ae054ce1a652e59ca2ff9e3] .
 
-## 7. Power to raise and remove wrecks[^key-a29e0cd28258286ba5bf960ceba8b104]
+## 7. Power to raise and remove wrecks[^c-a29e0cd28258286ba5bf960ceba8b104]
 
 (1) The Company may raise, remove, blow up or otherwise destroy or dispose of any vessel which is sunk, stranded or abandoned (whether before or after the making of this Order) in the port or the approaches thereto.
 
@@ -133,11 +133,11 @@ without the consent of the statutory undertaker concerned.
 
 (7) The powers conferred by this Article shall be in addition to the powers exercisable by the Company under section 252 of the Merchant Shipping Act 1995[^f00007].
 
-## 8. Obstruction of harbour master and others[^key-2445978a7e9a74e73abf1d29abaa30ff]
+## 8. Obstruction of harbour master and others[^c-2445978a7e9a74e73abf1d29abaa30ff]
 
 Any person who obstructs or interferes with the harbour master or with any officer or servant of the Company in the exercise of his powers or the performance of his duties under this Order shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-## 9. Power to obtain information as to vessels[^key-e763142bc02f4c4f5d5577e5ab5d3739]
+## 9. Power to obtain information as to vessels[^c-e763142bc02f4c4f5d5577e5ab5d3739]
 
 (1) In this Article “vessel” means any vessel named or identified in a notice under this Article.
 
@@ -162,7 +162,7 @@ Any person who obstructs or interferes with the harbour master or with any offic
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-## 10. General rules for navigation[^key-c4f9910eb31ba285fbaa15885c452d4f]
+## 10. General rules for navigation[^c-c4f9910eb31ba285fbaa15885c452d4f]
 
 A master who navigates his vessel in the port—
 
@@ -171,13 +171,13 @@ A master who navigates his vessel in the port—
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-## 11. Vessels adrift[^key-0ad7efd8630293b62c283d3a11f34f35]
+## 11. Vessels adrift[^c-0ad7efd8630293b62c283d3a11f34f35]
 
 (1) The owner or master of a vessel adrift in the port shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
 (2) It shall be a defence for the owner or master of a vessel charged with an offence under paragraph (1) to prove that the vessel did not become adrift as the result of any neglect or default on his part.
 
-## 12. General directions to vessels[^key-30185c5fb30daa4b0d344ec203114f08]
+## 12. General directions to vessels[^c-30185c5fb30daa4b0d344ec203114f08]
 
 (1) The Company may give directions for the purposes of promoting or securing conditions conducive to the ease, convenience or safety of navigation in the port and, without prejudice to the generality of the foregoing, for any of the following purposes—
 
@@ -197,7 +197,7 @@ and every general direction shall specify the extent of its application in relat
 
 (4) Notice of a general direction shall as soon as practicable after it is given, be published by the Company once in Lloyd’s List or some other newspaper specialising in shipping news and shall state a place at which copies of the direction may be inspected.
 
-## 13. Special directions[^key-e6cf7e23dff78a2a502c08d3cea1c6d0]
+## 13. Special directions[^c-e6cf7e23dff78a2a502c08d3cea1c6d0]
 
 (1) The harbour master may give a special direction in respect of a vessel anywhere in the port for any of the following purposes—
 
@@ -219,7 +219,7 @@ and every general direction shall specify the extent of its application in relat
 
 (3) A special direction may be given in any manner considered by the harbour master to be appropriate.
 
-## 14. Enforcement of special directions[^key-504e81a0ff9a7710b764e9ba1aae0f5b]
+## 14. Enforcement of special directions[^c-504e81a0ff9a7710b764e9ba1aae0f5b]
 
 (1) Without prejudice to any other remedy available to the Company, if a special direction is not complied with within a reasonable time, the harbour master may put persons aboard the vessel to carry out the direction or may otherwise cause the vessel to be handled in accordance with the direction.
 
@@ -227,17 +227,17 @@ and every general direction shall specify the extent of its application in relat
 
 (3) Expenses incurred by the Company in exercise of the powers conferred by paragraph (1) shall be recoverable by it as if they were a charge of the Company in respect of the vessel.
 
-## 15. Failure to comply with directions[^key-3c66375f65517ad6628fde131d7e43d7]
+## 15. Failure to comply with directions[^c-3c66375f65517ad6628fde131d7e43d7]
 
 (1) The master of a vessel who fails to comply with a general direction or a special direction shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
 (2) It shall be a defence for the master of a vessel charged with an offence under paragraph (1) to prove that he had reasonable ground for believing that compliance with the direction in question would be likely to imperil his vessel or that in the circumstances compliance was impracticable.
 
-## 16. Master’s responsibility in relation to directions[^key-084b4fcb40667a969b0457fcc962d321]
+## 16. Master’s responsibility in relation to directions[^c-084b4fcb40667a969b0457fcc962d321]
 
 The giving of a general direction or a special direction shall not diminish or in any other way affect the responsibility of the master of the vessel affected in relation to that vessel, to persons on board, to its cargo or to any other person or property.
 
-## 17. Power to prevent or reduce oil pollution[^key-c037dde8d8ba05e9cf1c8164bceaea95]
+## 17. Power to prevent or reduce oil pollution[^c-c037dde8d8ba05e9cf1c8164bceaea95]
 
 (1) Subject to paragraph (2), in addition to any powers conferred on the Company or on the harbour master by or under any enactment in respect of vessels which are sunk, stranded or abandoned, if a vessel which is sunk, stranded or abandoned in the port is discharging oil, or, in the opinion of the Company, is likely to discharge oil, into the port or the approaches thereto (then whether or not the Company or the harbour master have exercised in relation to that vessel any of the powers aforesaid) the Company may give such directions as respects the vessel or its cargo as it considers necessary or expedient for the purpose of preventing or reducing oil pollution, or the risk of oil pollution, to the master of that vessel.
 
@@ -255,17 +255,17 @@ The giving of a general direction or a special direction shall not diminish or i
 
 (8) In this Article “cargo” includes bunker fuel and any of the machinery, boats, equipment or articles on board a vessel.
 
-## 18. Incorporation of section 156 of the Merchant Shipping Act 1995[^key-f657bd2468eccc772bd6d8cd8bd19d97]
+## 18. Incorporation of section 156 of the Merchant Shipping Act 1995[^c-f657bd2468eccc772bd6d8cd8bd19d97]
 
 In the exercise of any powers conferred on the Company for the purpose of preventing an obstruction or danger to navigation, to dispose of any vessel sunk, stranded or abandoned, or for preventing or reducing the discharge of oil, or the risk of discharge of oil, the Company shall, for the purpose of section 156 of the Merchant Shipping Act 1995[^f00009], be regarded as a person performing salvage operations with the agreement of the owner.
 
-## 19. Provisions relating to oil pollution and raising of wrecks[^key-689a0dbea4f42e1683b2a4d505a8452a]
+## 19. Provisions relating to oil pollution and raising of wrecks[^c-689a0dbea4f42e1683b2a4d505a8452a]
 
 (1) In the exercise of any of its powers under Article 7 (power to raise and remove wrecks) or Article 17 (power to prevent or reduce oil pollution) the Company shall have regard to the desirability of consulting the owner of the vessel and of co-ordinating with the owner, where practicable, the steps to be taken and shall in all cases notify the Department.
 
 (2) Every person concerned with compliance with directions given, or with action taken, under the said Articles 7 and 17 shall use his best endeavours to avoid any risk to human life.
 
-## 20. Removal of vehicles from port[^key-c85dbc2eb71e82d110af6e3466326744]
+## 20. Removal of vehicles from port[^c-c85dbc2eb71e82d110af6e3466326744]
 
 (1) If a vehicle is left without the permission of the Company—
 
@@ -308,58 +308,58 @@ The Order also defines the limits of jurisdiction of Larne Harbour Limited. Thos
 
 [^f00002]: Footnote: *See* Article 4 of [S.I. 1982 No. 846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846) and by Article 3 of [S.R. 1987 No. 105](https://www.legislation.gov.uk/nisr/1987/105)
 
-[^key-ee6878af7ae3e654354e8809fd8e388e]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1998/221/article/1) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-ee6878af7ae3e654354e8809fd8e388e]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1998/221/article/1) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
 [^f00003]: Footnote: 1871 34 & 35 Vict. c. Iviii; 1888 51 & 52 Vict. c. cxix; 1936 26 Geo. 5 & 1 Edw. 8 c. i
 
-[^key-ae0715d5b52eb8ab1ef3dfaad2ba0399]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1998/221/article/2) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-ae0715d5b52eb8ab1ef3dfaad2ba0399]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1998/221/article/2) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
-[^key-f0e8df352cea347a51d16e4dcaabd13c]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/1998/221/article/3) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-f0e8df352cea347a51d16e4dcaabd13c]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/1998/221/article/3) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
 [^f00004]: Footnote: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27)
 
-[^key-579effebec357fac4c1a38da1e0284a7]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/1998/221/article/4) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-579effebec357fac4c1a38da1e0284a7]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/1998/221/article/4) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
-[^key-613a1e0bb2e1d20110cc78b5f4925759]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/1998/221/article/5) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-613a1e0bb2e1d20110cc78b5f4925759]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/1998/221/article/5) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
-[^key-f7007c69673896cba9165d7cb86d3c18]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/1998/221/article/6) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-f7007c69673896cba9165d7cb86d3c18]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/1998/221/article/6) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
 [^f00005]: Footnote: [S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231)
 
-[^key-31f834189ae054ce1a652e59ca2ff9e3]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/nisr/1998/221/article/6/4) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 20(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/20/2)
+[^c-31f834189ae054ce1a652e59ca2ff9e3]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/nisr/1998/221/article/6/4) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 20(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/20/2)
 
-[^key-a29e0cd28258286ba5bf960ceba8b104]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/1998/221/article/7) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-a29e0cd28258286ba5bf960ceba8b104]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/1998/221/article/7) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
 [^f00007]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21)
 
-[^key-2445978a7e9a74e73abf1d29abaa30ff]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/1998/221/article/8) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-2445978a7e9a74e73abf1d29abaa30ff]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/1998/221/article/8) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
-[^key-e763142bc02f4c4f5d5577e5ab5d3739]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/1998/221/article/9) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-e763142bc02f4c4f5d5577e5ab5d3739]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/1998/221/article/9) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
-[^key-c4f9910eb31ba285fbaa15885c452d4f]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/1998/221/article/10) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-c4f9910eb31ba285fbaa15885c452d4f]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/1998/221/article/10) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
-[^key-0ad7efd8630293b62c283d3a11f34f35]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/1998/221/article/11) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-0ad7efd8630293b62c283d3a11f34f35]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/1998/221/article/11) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
-[^key-30185c5fb30daa4b0d344ec203114f08]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/1998/221/article/12) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-30185c5fb30daa4b0d344ec203114f08]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/1998/221/article/12) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
-[^key-e6cf7e23dff78a2a502c08d3cea1c6d0]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/1998/221/article/13) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-e6cf7e23dff78a2a502c08d3cea1c6d0]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/1998/221/article/13) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
-[^key-504e81a0ff9a7710b764e9ba1aae0f5b]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/1998/221/article/14) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-504e81a0ff9a7710b764e9ba1aae0f5b]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/1998/221/article/14) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
-[^key-3c66375f65517ad6628fde131d7e43d7]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/1998/221/article/15) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-3c66375f65517ad6628fde131d7e43d7]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/1998/221/article/15) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
-[^key-084b4fcb40667a969b0457fcc962d321]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/1998/221/article/16) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-084b4fcb40667a969b0457fcc962d321]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/1998/221/article/16) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
-[^key-c037dde8d8ba05e9cf1c8164bceaea95]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/1998/221/article/17) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-c037dde8d8ba05e9cf1c8164bceaea95]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/1998/221/article/17) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
 [^f00008]: Footnote: [1956 c. 46](https://www.legislation.gov.uk/ukpga/1956/46)
 
-[^key-f657bd2468eccc772bd6d8cd8bd19d97]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/1998/221/article/18) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-f657bd2468eccc772bd6d8cd8bd19d97]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/1998/221/article/18) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
 [^f00009]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21)
 
-[^key-689a0dbea4f42e1683b2a4d505a8452a]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/1998/221/article/19) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-689a0dbea4f42e1683b2a4d505a8452a]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/1998/221/article/19) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
-[^key-c85dbc2eb71e82d110af6e3466326744]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/1998/221/article/20) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
+[^c-c85dbc2eb71e82d110af6e3466326744]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/1998/221/article/20) in operation at 29.7.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1998/221/article/1/1)
 
 [^f00010]: Footnote: [S.R. & O. (N.I.) 1973 No. 490](https://www.legislation.gov.uk/nisro/1973/490)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Reduced amount of allowance[^key-614fa1ba7365bc83b3dd5e9aa3d11165]
+## 68. Reduced amount of allowance[^c-614fa1ba7365bc83b3dd5e9aa3d11165]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-614fa1ba7365bc83b3dd5e9aa3d11165]: Commencement: Reg. 68 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-614fa1ba7365bc83b3dd5e9aa3d11165]: Commencement: Reg. 68 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

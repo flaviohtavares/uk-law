@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Compensation for damage by game.[^c1033713][^key-96b98ec644dbf6f3376a3f25afd5f289]
+## 52. Compensation for damage by game.[^c1033713][^c-96b98ec644dbf6f3376a3f25afd5f289]
 
 *Extent: S*
 
@@ -27,9 +27,9 @@ summary: ''
 - (a) notice in writing is given to the landlord as soon as is practicable after the damage was first observed by the tenant, and a reasonable opportunity is given to the landlord to inspect the damage—
   - (i) in the case of damage to a growing crop, before the crop is begun to be reaped, raised or consumed;
   - (ii) in the case of damage to a crop reaped or raised, before the crop is begun to be removed from the land; and
-- (b) notice in writing of the claim, together with the particulars thereof, is given to the landlord within 6 months of the giving of notice under paragraph (a) above[^key-1e91d100e063d54d8ebc66431dc60e22].
+- (b) notice in writing of the claim, together with the particulars thereof, is given to the landlord within 6 months of the giving of notice under paragraph (a) above[^c-1e91d100e063d54d8ebc66431dc60e22].
 
-(3) The amount of compensation payable under subsection (1) above shall, in default of agreement made after the damage has been suffered, be determined by the Land Court[^key-6f5ec9a9e1e65e4eb54bb275803b950f].
+(3) The amount of compensation payable under subsection (1) above shall, in default of agreement made after the damage has been suffered, be determined by the Land Court[^c-6f5ec9a9e1e65e4eb54bb275803b950f].
 
 (4) Where the right to kill and take the game is vested in some person other than the landlord, the landlord shall be entitled to be indemnified by that other person against all claims for compensation under this section; and any question arising under this subsection shall be determined by the Land Court.
 
@@ -39,8 +39,8 @@ summary: ''
 
 [^c1033713]: Modification: S. 52 applied (with modifications) (5.1.1994) by [1993 c. 44](https://www.legislation.gov.uk/ukpga/1993/44), [ss. 5](https://www.legislation.gov.uk/ukpga/1993/44/section/5), [64(2)](https://www.legislation.gov.uk/ukpga/1993/44/section/64/2), [Sch. 2 para.11](https://www.legislation.gov.uk/ukpga/1993/44/schedule/2/paragraph/11) (with [s. 64(3)](https://www.legislation.gov.uk/ukpga/1993/44/section/64/3), [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/1993/44/schedule/6/paragraph/4)).
 
-[^key-96b98ec644dbf6f3376a3f25afd5f289]: Modification: S. 52 applied (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 53(3)](https://www.legislation.gov.uk/asp/2003/11/section/53/3), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-96b98ec644dbf6f3376a3f25afd5f289]: Modification: S. 52 applied (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 53(3)](https://www.legislation.gov.uk/asp/2003/11/section/53/3), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-1e91d100e063d54d8ebc66431dc60e22]: Textual amendment: Words in s. 52(2)(b) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 50(2)](https://www.legislation.gov.uk/asp/2003/11/section/50/2), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-1e91d100e063d54d8ebc66431dc60e22]: Textual amendment: Words in s. 52(2)(b) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 50(2)](https://www.legislation.gov.uk/asp/2003/11/section/50/2), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-6f5ec9a9e1e65e4eb54bb275803b950f]: Textual amendment: Word in s. 52 substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 32](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/32) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-6f5ec9a9e1e65e4eb54bb275803b950f]: Textual amendment: Word in s. 52 substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 32](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/32) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

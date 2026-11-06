@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Presumed dedication and applications under section 53(5) of the 1981 Act[^key-67faaf1ab681887e1f8730446e5e5e4d][^key-353ceaf23f4afb5011002022201d913e]
+## 69. Presumed dedication and applications under section 53(5) of the 1981 Act[^c-67faaf1ab681887e1f8730446e5e5e4d][^c-353ceaf23f4afb5011002022201d913e]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-67faaf1ab681887e1f8730446e5e5e4d]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2006/16/section/69) in force at 2.5.2006 for E. immediately after the coming into force of 2000 c. 37, ss. 47-50 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 6](https://www.legislation.gov.uk/uksi/2006/1176/article/6)
+[^c-67faaf1ab681887e1f8730446e5e5e4d]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2006/16/section/69) in force at 2.5.2006 for E. immediately after the coming into force of 2000 c. 37, ss. 47-50 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 6](https://www.legislation.gov.uk/uksi/2006/1176/article/6)
 
-[^key-353ceaf23f4afb5011002022201d913e]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2006/16/section/69) in force at 16.11.2006 for W. by [S.I. 2006/2992](https://www.legislation.gov.uk/wsi/2006/2992), [art. 2](https://www.legislation.gov.uk/wsi/2006/2992/article/2)
+[^c-353ceaf23f4afb5011002022201d913e]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2006/16/section/69) in force at 16.11.2006 for W. by [S.I. 2006/2992](https://www.legislation.gov.uk/wsi/2006/2992), [art. 2](https://www.legislation.gov.uk/wsi/2006/2992/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Sanctions: interpretation[^key-a089e0fd13af390a1e6fa8daedfe4ecb]
+## 60. Sanctions: interpretation[^c-a089e0fd13af390a1e6fa8daedfe4ecb]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-a089e0fd13af390a1e6fa8daedfe4ecb]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2016/20/section/60) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-a089e0fd13af390a1e6fa8daedfe4ecb]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2016/20/section/60) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

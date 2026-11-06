@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Section 28(1)(b): interpretation[^key-063e265cc9a5eb443617f3635ef71b66]
+## 29. Section 28(1)(b): interpretation[^c-063e265cc9a5eb443617f3635ef71b66]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (4) The Secretary of State must publish a statement as to how it is to be determined whether a business or a voluntary or community body is controlled by a public authority.
 
-(5) “**Voluntary or community body**” means any of the following—[^key-2a46e51bc960697caf78d6edb1d681c1]
+(5) “**Voluntary or community body**” means any of the following—[^c-2a46e51bc960697caf78d6edb1d681c1]
 
 - (a) a trade union (within the meaning of section 1 of the Trade Union and Labour Relations (Consolidation) Act 1992 or Article 3 of the Industrial Relations (Northern Ireland) Order 1992 ([S.I. 1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807)));
 - (b) an unincorporated body which does not distribute any surplus it makes to its members;
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-063e265cc9a5eb443617f3635ef71b66]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2015/26/section/29) in force at 1.7.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 5](https://www.legislation.gov.uk/uksi/2015/1329/regulation/5)
+[^c-063e265cc9a5eb443617f3635ef71b66]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2015/26/section/29) in force at 1.7.2015 by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 5](https://www.legislation.gov.uk/uksi/2015/1329/regulation/5)
 
-[^key-2a46e51bc960697caf78d6edb1d681c1]: Textual amendment: Words in [s. 29(5)](https://www.legislation.gov.uk/ukpga/2015/26/section/29/5) substituted (29.8.2023) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/18/3), [22(2)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/2)
+[^c-2a46e51bc960697caf78d6edb1d681c1]: Textual amendment: Words in [s. 29(5)](https://www.legislation.gov.uk/ukpga/2015/26/section/29/5) substituted (29.8.2023) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/18/3), [22(2)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/2)

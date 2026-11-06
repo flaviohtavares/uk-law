@@ -44,11 +44,11 @@ Coming into force
 
 The Minister of Agriculture, Fisheries and Food and the Secretary of State, being Ministers designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, acting jointly in exercise of the powers conferred on them by the said section 2(2) and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Title, extent and commencement[^key-29d9f138e6028ada004843630337dad1]
+## 1. Title, extent and commencement[^c-29d9f138e6028ada004843630337dad1]
 
 These Regulations may be cited as the Suckler Cow Premium (Amendment) Regulations 1994, shall apply in Great Britain and shall come into force on 1st July 1994.
 
-## 2. Amendments to the Suckler Cow Premium Regulations 1993[^key-129c5c9b439712faa75a479d5d0a1ff4]
+## 2. Amendments to the Suckler Cow Premium Regulations 1993[^c-129c5c9b439712faa75a479d5d0a1ff4]
 
 (1) The Suckler Cow Premium Regulations 1993[^f00003] shall be amended in accordance with the following paragraphs of this regulation.
 
@@ -130,9 +130,9 @@ Parliamentary Under Secretary of State, Scottish Office
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-29d9f138e6028ada004843630337dad1]: Commencement: Reg. 1 in force at 1.7.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1528/regulation/1)
+[^c-29d9f138e6028ada004843630337dad1]: Commencement: Reg. 1 in force at 1.7.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1528/regulation/1)
 
-[^key-129c5c9b439712faa75a479d5d0a1ff4]: Commencement: Reg. 2 in force at 1.7.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1528/regulation/1)
+[^c-129c5c9b439712faa75a479d5d0a1ff4]: Commencement: Reg. 2 in force at 1.7.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1528/regulation/1)
 
 [^f00003]: Footnote: S.I. [1993/1441](https://www.legislation.gov.uk/uksi/1993/1441).
 

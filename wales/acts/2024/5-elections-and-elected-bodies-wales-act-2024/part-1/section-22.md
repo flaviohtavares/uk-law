@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Interpretation of this Chapter[^key-c4a2c3c1878dce351ef7fef41e4be67f]
+## 22. Interpretation of this Chapter[^c-c4a2c3c1878dce351ef7fef41e4be67f]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-c4a2c3c1878dce351ef7fef41e4be67f]: Commencement: S. 22 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-c4a2c3c1878dce351ef7fef41e4be67f]: Commencement: S. 22 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

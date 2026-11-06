@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — SCOTTISH LOCAL GOVERNMENT ELECTIONS RULES[^key-810d9c06420ee071110b88e9b7cff44f]
+## SCHEDULE 1 — SCOTTISH LOCAL GOVERNMENT ELECTIONS RULES[^c-810d9c06420ee071110b88e9b7cff44f]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ Article 3(1)
 
 ### PART I — PROVISIONS AS TO TIME
 
-#### 1. Timetable[^key-4dcad2f48b91425fc9fb243dbedba44b]
+#### 1. Timetable[^c-4dcad2f48b91425fc9fb243dbedba44b]
 
 (1) Subject to paragraphs (2) to (4), the proceedings at the election must be conducted in accordance with the following table—
 
@@ -51,7 +51,7 @@ Timetable
 
 (4) At any election held under section 45 (*non‑election of local authority etc.*) of the 1983 Act, the timetable in paragraph (1) shall be subject to any direction made by the Scottish Ministers in exercise of the powers conferred by that section.
 
-#### 2. Computation of time[^key-9ed21221e31631f99e650f8635118f40]
+#### 2. Computation of time[^c-9ed21221e31631f99e650f8635118f40]
 
 (1) In computing any period of time for the purposes of the timetable—
 
@@ -68,7 +68,7 @@ shall be disregarded, and any such day shall not be treated as a day for the pur
 
 #### Notice of election
 
-##### 3. Notice of election[^key-d29185dfbb951e0132504727207d1637]
+##### 3. Notice of election[^c-d29185dfbb951e0132504727207d1637]
 
 (1) The returning officer shall publish notice of the election in the form set out in Form 1, or a form to the like effect, stating—
 
@@ -85,11 +85,11 @@ must reach the electoral registration officer in order that they may be effectiv
 
 #### Nomination
 
-##### 4. Nomination of candidates[^key-c5e9d7ad25f90e8bb7d9c9eba08797d7]
+##### 4. Nomination of candidates[^c-c5e9d7ad25f90e8bb7d9c9eba08797d7]
 
 (1) Each candidate shall be nominated by a separate nomination paper, in the form set out in Form 2, or a form to the like effect, delivered at the place fixed for the purpose by the returning officer.
 
-(2) The nomination paper shall state the full name of the candidate (with the surname first) [^key-c7401348f677b8a72fe012f6fdeb8971]....
+(2) The nomination paper shall state the full name of the candidate (with the surname first) [^c-c7401348f677b8a72fe012f6fdeb8971]....
 
 (3) If a candidate commonly uses a surname or forename in addition to or instead of any other surname or forename the candidate has, the nomination paper may state the commonly used surname or forename in addition to or instead of the other name, as the case may be.
 
@@ -120,7 +120,7 @@ must reach the electoral registration officer in order that they may be effectiv
 - (a) “registered political party” means a party which was registered under Part II of the Political Parties, Elections and Referendums Act 2000 on the day (“the relevant day”) which is two days before the last day for the delivery of nomination papers at the election; and
 - (b) a registered political party is a qualifying party in relation to a local government area if the party was on the relevant day registered in respect of Scotland in the Great Britain register mentioned under that Part of that Act.
 
-(10)[^key-ed0f39c5ef0def6539640309134885e5] The nomination paper must be accompanied by a form (in these rules referred to as a “home address form”), which states—
+(10)[^c-ed0f39c5ef0def6539640309134885e5] The nomination paper must be accompanied by a form (in these rules referred to as a “home address form”), which states—
 
 - (a) the candidate’s—
   - (i) full name,
@@ -135,7 +135,7 @@ must reach the electoral registration officer in order that they may be effectiv
 
 - (a) may contain a statement made and signed by the candidate that they require their home address to be made public and,
 - (b) if it does not do so, it must—
-  - (i) where the candidate’s home address is in the United Kingdom, state which of the relevant areas under rule 4(12) the candidate wants to be made public[^key-f65cc1f4c18f7c1b347e748ca61fe865],
+  - (i) where the candidate’s home address is in the United Kingdom, state which of the relevant areas under rule 4(12) the candidate wants to be made public[^c-f65cc1f4c18f7c1b347e748ca61fe865],
   - (ii) where the candidate’s home address is outside the United Kingdom, state the country in which it is situated.
 
 (12) In this rule—
@@ -147,7 +147,7 @@ must reach the electoral registration officer in order that they may be effectiv
   - (c) where the candidate has selected option (c) on the Nomination Paper, the address of that place of work,
   - (d) where the candidate has selected option (d) on the Nomination Paper, the address or addresses in full where the candidate has so resided.
 - “relevant area” means—
-  - (a) in relation to a home address in Scotland—[^key-8b387f835f83e621b9c63f1cefe3dc60]
+  - (a) in relation to a home address in Scotland—[^c-8b387f835f83e621b9c63f1cefe3dc60]
     - (i) the electoral ward, or
     - (ii) the local government area in which the address is situated,
   - (b) in relation to a home address in Northern Ireland, the local government district in which the address is situated,
@@ -161,11 +161,11 @@ must reach the electoral registration officer in order that they may be effectiv
     - (i) if the address is within a county, that county,
     - (ii) if the address is within a county borough, that county borough.
 
-##### 5. Consent to nomination[^key-eea79e703f6ef3d5696149d43ffd2ff4]
+##### 5. Consent to nomination[^c-eea79e703f6ef3d5696149d43ffd2ff4]
 
 A person shall not be validly nominated unless that person’s consent to nomination is given in writing on the nomination paper on, or within one month before, the last day for the delivery of nomination papers.
 
-##### 6. Subscription of nomination paper[^key-bcdb7be745755334855df68259be80bf]
+##### 6. Subscription of nomination paper[^c-bcdb7be745755334855df68259be80bf]
 
 (1) The nomination paper shall be subscribed by the candidate and by a witness to the candidate’s signature.
 
@@ -176,13 +176,13 @@ A person shall not be validly nominated unless that person’s consent to nomina
 
 but it is not necessary for a nomination to be on a form supplied by the returning officer.
 
-(3) The nomination paper shall state the name [^key-1e0ca6ed4ee716b055566d6abcf50b50]... of the witness to the candidate’s signature.
+(3) The nomination paper shall state the name [^c-1e0ca6ed4ee716b055566d6abcf50b50]... of the witness to the candidate’s signature.
 
-##### 7. Decisions as to validity of nomination papers[^key-1fadc8a17a42076973f67b5dac701928]
+##### 7. Decisions as to validity of nomination papers[^c-1fadc8a17a42076973f67b5dac701928]
 
-(1) Where a nomination paper and a home address form are[^key-4e53d3869c6995c48994ac5effa69dd9] delivered in accordance with these rules, the candidate shall be deemed to stand nominated unless and until—
+(1) Where a nomination paper and a home address form are[^c-4e53d3869c6995c48994ac5effa69dd9] delivered in accordance with these rules, the candidate shall be deemed to stand nominated unless and until—
 
-- (a) the returning officer decides that the nomination paper or the home address form[^key-cc255194c980ee6a4e27358bf0ff764e] is invalid;
+- (a) the returning officer decides that the nomination paper or the home address form[^c-cc255194c980ee6a4e27358bf0ff764e] is invalid;
 - (b) proof is given to the returning officer’s satisfaction of the candidate’s death; or
 - (c) the candidate withdraws.
 
@@ -191,11 +191,11 @@ but it is not necessary for a nomination to be on a form supplied by the returni
 - (a) the paper does not bear to be subscribed by the candidate;
 - (b) the particulars of the candidate are not as required by these rules;
 - (c) the paper does not bear to have been subscribed by a witness; or
-- (d) the paper does not bear to include the name of the witness[^key-47b71a846f1cf54325a78d469a950252]....
+- (d) the paper does not bear to include the name of the witness[^c-47b71a846f1cf54325a78d469a950252]....
 
-(2A)[^key-5dde0c3dfc4fb75424bf52f04a59a2cc] The returning officer is entitled to hold a home address form invalid only if it does not comply with the requirements of rule 4(10) or 4(11).
+(2A)[^c-5dde0c3dfc4fb75424bf52f04a59a2cc] The returning officer is entitled to hold a home address form invalid only if it does not comply with the requirements of rule 4(10) or 4(11).
 
-(3) Subject to paragraph (4) the returning officer shall examine each nomination paper and home address form[^key-042783363dd1cb561ec43580c7709aaa] and decide whether the candidate has been validly nominated—
+(3) Subject to paragraph (4) the returning officer shall examine each nomination paper and home address form[^c-042783363dd1cb561ec43580c7709aaa] and decide whether the candidate has been validly nominated—
 
 - (a) as soon as practicable after delivery of the nomination paper; and
 - (b) in any event, before the end of the period of 24 hours starting with the close of the period for delivery of nomination papers set out in the timetable in rule 1.
@@ -207,42 +207,42 @@ but it is not necessary for a nomination to be on a form supplied by the returni
 
 (5) Where the returning officer decides that a nomination paper is invalid, the returning officer shall endorse and sign on the paper the fact and the reasons for such decision.
 
-(6) The returning officer shall send notice of such decision that a nomination paper and a home address form are[^key-a6337b65b182b2ebc4888ffb72d3f95b] valid or invalid to each candidate at the candidate’s home address as given in such home address form[^key-6126ae9dd0eca88bc50204069cece2fc].
+(6) The returning officer shall send notice of such decision that a nomination paper and a home address form are[^c-a6337b65b182b2ebc4888ffb72d3f95b] valid or invalid to each candidate at the candidate’s home address as given in such home address form[^c-6126ae9dd0eca88bc50204069cece2fc].
 
 (7) The returning officer’s decision that a nomination paper is valid shall be final and shall not be questioned in any proceeding whatsoever.
 
 (8) Subject to paragraph (7), nothing in this rule prevents the validity of a nomination being questioned on an election petition.
 
-##### 8. Withdrawal of candidates[^key-3bc73572b002d901c50dad5dda44b524]
+##### 8. Withdrawal of candidates[^c-3bc73572b002d901c50dad5dda44b524]
 
 A candidate may withdraw candidature by notice of withdrawal—
 
 - (a) signed by such candidate and attested by one witness; and
 - (b) delivered to the returning officer at the place for delivery of nomination papers.
 
-##### 9. Nomination in more than one electoral ward[^key-7c6b7359098e33d347dc4689ed86e2ec]
+##### 9. Nomination in more than one electoral ward[^c-7c6b7359098e33d347dc4689ed86e2ec]
 
 If at an election of councillors for the council of a local government area a candidate is validly nominated for more than one electoral ward, such candidate shall withdraw from candidature in all but one of those electoral wards; and if such candidate does not so withdraw within the time for the delivery of notices of withdrawal, such candidate shall be deemed to have withdrawn as a candidate for election to that council.
 
-##### 10. Correction of errors in nomination papers[^key-7208817e5f5fd363c1e54a13d3d7d6eb]
+##### 10. Correction of errors in nomination papers[^c-7208817e5f5fd363c1e54a13d3d7d6eb]
 
-(1) A returning officer may correct minor errors in a nomination paper or a home address form[^key-6850b82bc9be86bf486747f9b3085988] before the end of the period of 24 hours starting with the close of the period for delivery of nomination papers set out in the timetable in rule 1.
+(1) A returning officer may correct minor errors in a nomination paper or a home address form[^c-6850b82bc9be86bf486747f9b3085988] before the end of the period of 24 hours starting with the close of the period for delivery of nomination papers set out in the timetable in rule 1.
 
 (2) Errors which may be corrected include—
 
-- (a) errors as to a person’s electoral number; [^key-410c4b5bad8e8a13e12c22e80a427363]...
+- (a) errors as to a person’s electoral number; [^c-410c4b5bad8e8a13e12c22e80a427363]...
 - (b) obvious errors of spelling in relation to the details of a candidate.
-- (c)[^key-1d844cbfb351262d7587721386995b82] errors as to the information mentioned in rule 4(11)(b).
+- (c)[^c-1d844cbfb351262d7587721386995b82] errors as to the information mentioned in rule 4(11)(b).
 
 (3) Returning officers must have regard to any guidance issued by the Electoral Commission on the correction of minor errors in nomination papers for the purposes of this rule.
 
 (4) Anything done by a returning officer in pursuance of this rule shall not be questioned in any proceedings other than proceedings on an election petition.
 
-##### 11. Inspection of nomination papers[^key-7c266f52eb8e9cf354053c379b6ac2ac]
+##### 11. Inspection of nomination papers[^c-7c266f52eb8e9cf354053c379b6ac2ac]
 
 Any person may inspect and take copies of, or extracts from, nomination papers during ordinary office hours on any day, other than a day specified in rule 2(1), after expiry of the 24 hour period after the latest time for delivery of nomination papers but before the date of the poll.
 
-##### 11A. Inspection of home address forms[^key-584083e27b58af6194dea4eb194e7afa]
+##### 11A. Inspection of home address forms[^c-584083e27b58af6194dea4eb194e7afa]
 
 (1) During ordinary office hours on any day, other than a day specified in rule 2(1), after expiry of the 24 hour period after the latest time for delivery of nomination papers but before the date of the poll, the following persons may inspect the home address form of a candidate (“candidate A”)—
 
@@ -254,7 +254,7 @@ Any person may inspect and take copies of, or extracts from, nomination papers d
 
 (3) The returning officer must not permit a home address form to be inspected otherwise than in accordance with this rule, or for some other purpose authorised by law.
 
-##### 12. Method of election and notice of uncontested election[^key-4d1ea0a17849220d6737ad40f916548a]
+##### 12. Method of election and notice of uncontested election[^c-4d1ea0a17849220d6737ad40f916548a]
 
 (1) If after the expiry of the time for the delivery of notices of withdrawal of nomination, more candidates remain validly nominated for an electoral ward than the number of councillors to be returned for that electoral ward, the councillors for that electoral ward shall be elected from among them at a poll under Part III of this Schedule.
 
@@ -272,19 +272,19 @@ Any person may inspect and take copies of, or extracts from, nomination papers d
 
 #### General provisions
 
-##### 13. Poll to be by ballot[^key-1b7c2c8b546b4afa1a2e656eae00aa8d]
+##### 13. Poll to be by ballot[^c-1b7c2c8b546b4afa1a2e656eae00aa8d]
 
 The votes at the poll shall be given by ballot, counted and the result shall be ascertained in accordance with this Part of this Schedule.
 
-##### 14. The ballot papers[^key-04fd720a3bf47cffe5e7abdac3cac9c1]
+##### 14. The ballot papers[^c-04fd720a3bf47cffe5e7abdac3cac9c1]
 
 (1) The ballot of every voter shall consist of a ballot paper and the persons remaining validly nominated for the electoral ward after any withdrawals under these rules, and no other persons, shall be entitled to have their names inserted in the ballot paper.
 
 (2) Every ballot paper shall be in the form set out in Form 4 or a form to the like effect and shall be printed in accordance with the directions in Form 5, and in accordance with sub‑paragraphs (a) to (e)—
 
-- (a) the ballot paper shall contain the names[^key-dc9007147729ce5bf3ff7e67b0164a41]... and descriptions (if any) of the candidates as shown in their respective nomination papers and arranged alphabetically in the order of their surnames;
-- (aa)[^key-40fca214e2bd2d3e8b59122e4cb79f57] where the candidate has made and signed a statement on the home address form that they require their home address to be made public in accordance with rule 4(11)(a), the candidate’s home address;
-- (ab) where the candidate has not made and signed a statement on the home address form that they require their home address to be made public in accordance with rule 4(11)(a), the relevant area in which the candidate’s home address is located as indicated on the home address form[^key-71b842da1a45d0560dcd132740816685] or, as the case may be, the country in which the candidate’s home address is located (for the definition of relevant area, see rule 4(12));
+- (a) the ballot paper shall contain the names[^c-dc9007147729ce5bf3ff7e67b0164a41]... and descriptions (if any) of the candidates as shown in their respective nomination papers and arranged alphabetically in the order of their surnames;
+- (aa)[^c-40fca214e2bd2d3e8b59122e4cb79f57] where the candidate has made and signed a statement on the home address form that they require their home address to be made public in accordance with rule 4(11)(a), the candidate’s home address;
+- (ab) where the candidate has not made and signed a statement on the home address form that they require their home address to be made public in accordance with rule 4(11)(a), the relevant area in which the candidate’s home address is located as indicated on the home address form[^c-71b842da1a45d0560dcd132740816685] or, as the case may be, the country in which the candidate’s home address is located (for the definition of relevant area, see rule 4(12));
 - (b) where a commonly used surname or forename is stated by a candidate on that candidate’s nomination paper in accordance with rule 4(3), the commonly used surname or forename (instead of any other name) shall, subject to paragraphs (7) and (8), appear on the ballot paper;
 - (c) if there are two or more candidates with the same surname, they shall be arranged alphabetically in the order of their other names;
 - (d) where a candidate is qualified as a registered local government elector and any of such candidate’s names or such candidate’s address has been changed between the qualifying date for the register and the last day for the submission of nomination papers, the ballot paper shall also, if so required by the candidate, give such candidate’s present names and current address; and
@@ -310,7 +310,7 @@ the returning officer may refuse to show the commonly used name on the ballot pa
 
 (8) Where paragraph (7) applies, the returning officer shall give notice in writing to the candidate of the returning officer’s reasons for refusing to allow the commonly used name to be shown on the ballot paper.
 
-##### 15. Corresponding number list[^key-6cd1e945bc9924ba5d0d604274155859]
+##### 15. Corresponding number list[^c-6cd1e945bc9924ba5d0d604274155859]
 
 (1) The returning officer shall prepare a list (“the corresponding number list”) in accordance with paragraph (2).
 
@@ -319,7 +319,7 @@ the returning officer may refuse to show the commonly used name on the ballot pa
 - (a) be in two parts, part one containing the numbers and unique identifying marks of all ballot papers issued in pursuance of rule 21(1) and part two containing the numbers (but not the unique identifying marks) of all the ballot papers to be issued in pursuance of rule 25(1); and
 - (b) be in the form set out in Form 6 or a form to the like effect.
 
-##### 16. Security marking[^key-306ed703d701f5c7159895ad00e87f15]
+##### 16. Security marking[^c-306ed703d701f5c7159895ad00e87f15]
 
 (1) Every ballot paper must bear or contain—
 
@@ -328,11 +328,11 @@ the returning officer may refuse to show the commonly used name on the ballot pa
 
 (2) The official mark shall be kept secret, and an interval of not less than five years shall intervene between the use of the same official mark at elections for the same local authority.
 
-##### 17. Prohibition of disclosure of vote[^key-280266d32061f0bc974edb0d05bab2d1]
+##### 17. Prohibition of disclosure of vote[^c-280266d32061f0bc974edb0d05bab2d1]
 
 No person who has voted at the election shall, in any legal proceedings to question the election, be required to state for whom the person voted.
 
-##### 18. Use of schools and public rooms[^key-9994cb172eabae64ee84b05f7ee3241b]
+##### 18. Use of schools and public rooms[^c-9994cb172eabae64ee84b05f7ee3241b]
 
 (1) The returning officer may use, free of charge, for the purpose of taking the poll or counting the votes—
 
@@ -343,7 +343,7 @@ provided that nothing in this paragraph shall authorise the use of a room used a
 
 (2) The returning officer shall make good any damage done to, and defray any expense incurred by the persons having control over, any such room as mentioned above by reason of its being used for the purpose of taking the poll or counting the votes.
 
-##### 19. Supply of free copy of register, lists and notices[^key-295e37fdd188b68656d466299565daa7]
+##### 19. Supply of free copy of register, lists and notices[^c-295e37fdd188b68656d466299565daa7]
 
 (1) Each electoral registration officer must, on the request of the relevant returning officer, supply free of charge to the returning officer as many printed copies of—
 
@@ -375,7 +375,7 @@ as the returning officer may reasonably require for the purposes of the poll.
 
 #### Action to be taken before the poll
 
-##### 20. Notice of poll[^key-df5750a2d817a11311cd96e0e5b71728]
+##### 20. Notice of poll[^c-df5750a2d817a11311cd96e0e5b71728]
 
 (1) Notice of the poll in the form set out in Form 7, or a form to the like effect shall be published by the returning officer and the said notice, which may apply to one or more electoral wards, shall, except where in the circumstances it is not appropriate, be combined with the notice of an uncontested election to be given under rule 12.
 
@@ -390,7 +390,7 @@ as the returning officer may reasonably require for the purposes of the poll.
 
 and shall as soon as practicable after giving such a notice give a copy of it to each of the election agents.
 
-##### 21. Postal ballot papers[^key-f62fd55deee35816dcf0d280056ab621]
+##### 21. Postal ballot papers[^c-f62fd55deee35816dcf0d280056ab621]
 
 (1) The returning officer shall as soon as practicable issue to those entitled to vote by post—
 
@@ -406,7 +406,7 @@ together with envelopes for their return.
 - (c) graphical representations of such directions or guidance; and
 - (d) the directions or guidance in any other form (including any audible form).
 
-##### 22. Provision of polling stations[^key-37f5ecd5ac4b368d881ea799d601c9a6]
+##### 22. Provision of polling stations[^c-37f5ecd5ac4b368d881ea799d601c9a6]
 
 (1) The returning officer shall provide a sufficient number of polling stations and, subject to the following provisions of this rule, shall allot the electors to the polling stations.
 
@@ -414,28 +414,28 @@ together with envelopes for their return.
 
 (3) The returning officer shall provide each polling station with such number of compartments as may be necessary in which the voters can mark their votes screened from observation.
 
-##### 23. Appointment of presiding officers and clerks[^key-434995f6ea127d3f3155c8e043ae8cfa]
+##### 23. Appointment of presiding officers and clerks[^c-434995f6ea127d3f3155c8e043ae8cfa]
 
 (1) The returning officer shall appoint and pay—
 
 - (a) a presiding officer to attend at each polling station; and
 - (b) such clerks as may be necessary for the purposes of the election,
 
-but shall not knowingly appoint[^key-0a8bfd1e68c489df319f116dc8835b83] any person who has been employed by or on behalf of a candidate in or about the election.
+but shall not knowingly appoint[^c-0a8bfd1e68c489df319f116dc8835b83] any person who has been employed by or on behalf of a candidate in or about the election.
 
 (2) The returning officer may preside at a polling station and the provisions of these rules relating to a presiding officer shall apply to a returning officer so presiding with the necessary modifications as to things done by the returning officer to the presiding officer or by the presiding officer to the returning officer.
 
 (3) A presiding officer may authorise the clerks appointed to assist such presiding officer to do any act (including the asking of questions) which such presiding officer is required or authorised by these rules to do at a polling station, except order the exclusion or removal of any person from the polling station.
 
-##### 24. Issue of official poll cards and notifications[^key-6b2fbe43921a4b8a234200ea25de1f70]
+##### 24. Issue of official poll cards and notifications[^c-6b2fbe43921a4b8a234200ea25de1f70]
 
-(1) The returning officer shall as soon as practicable after the issue of the notice of election[^key-c6525fce96fd6e42ad146a58e5889d72] send to electors and their proxies an official poll card, an official postal poll card, an official poll card issued to the proxy of an elector and an official postal poll card issued to the proxy of an elector, as appropriate.
+(1) The returning officer shall as soon as practicable after the issue of the notice of election[^c-c6525fce96fd6e42ad146a58e5889d72] send to electors and their proxies an official poll card, an official postal poll card, an official poll card issued to the proxy of an elector and an official postal poll card issued to the proxy of an elector, as appropriate.
 
 (2) An official poll card shall not be sent to a person registered, or to be registered, in pursuance of an overseas elector’s declaration.
 
 (3) An elector’s official poll card or notification shall be sent or delivered to such elector’s qualifying address, and a proxy’s official poll notification to such proxy’s address as shown in the list of proxies.
 
-(3A)[^key-788ac2e5ff3cfa95a366aae9beea3b2d] Paragraph (3) does not apply in relation to the sending or delivery of an elector’s official poll card or notification to an elector to whom either of the following provisions of the 1983 Act applies—
+(3A)[^c-788ac2e5ff3cfa95a366aae9beea3b2d] Paragraph (3) does not apply in relation to the sending or delivery of an elector’s official poll card or notification to an elector to whom either of the following provisions of the 1983 Act applies—
 
 - (a) section 3(1A) (exception to disenfranchisement for offenders sentenced to term not exceeding 12 months), or
 - (b) section 7A (residence: persons remanded in custody etc.).
@@ -450,7 +450,7 @@ but shall not knowingly appoint[^key-0a8bfd1e68c489df319f116dc8835b83] any perso
 
 (5) In the case of an elector with an anonymous entry, instead of containing the information mentioned in paragraph (4)(b) the polling card shall contain such matter as is specified in Forms 9 to 12.
 
-##### 25. Equipment of polling stations[^key-786130132363fbdc33834602f4b38706]
+##### 25. Equipment of polling stations[^c-786130132363fbdc33834602f4b38706]
 
 (1) The returning officer shall provide each presiding officer with such number of ballot boxes and ballot papers as the returning officer considers necessary.
 
@@ -469,9 +469,9 @@ but shall not knowingly appoint[^key-0a8bfd1e68c489df319f116dc8835b83] any perso
 - (a) in conspicuous characters; and
 - (b) in a graphical format,
 
-and exhibited inside and outside every polling station [^key-8ee915c9cee8b3f7b4d839d1190a61f3]....
+and exhibited inside and outside every polling station [^c-8ee915c9cee8b3f7b4d839d1190a61f3]....
 
-(4A)[^key-d4703807bcaa7c3246ef46c1110264c6] A notice in the form set out in Form 13A, or a form to the like effect, giving directions for the guidance of voters in voting, shall be exhibited in every compartment of every polling station.
+(4A)[^c-d4703807bcaa7c3246ef46c1110264c6] A notice in the form set out in Form 13A, or a form to the like effect, giving directions for the guidance of voters in voting, shall be exhibited in every compartment of every polling station.
 
 (5) The returning officer shall also provide each polling station with—
 
@@ -482,7 +482,7 @@ and exhibited inside and outside every polling station [^key-8ee915c9cee8b3f7b4d
 
 (7) The sample copy mentioned in paragraph (5)(a) and (6) must be clearly marked as a specimen provided only for the guidance of voters.
 
-##### 26. Appointment of polling and counting agents[^key-ebec31308808c78b6128e089390c5b14]
+##### 26. Appointment of polling and counting agents[^c-ebec31308808c78b6128e089390c5b14]
 
 (1) Each candidate may, before the commencement of the poll, appoint—
 
@@ -510,7 +510,7 @@ and exhibited inside and outside every polling station [^key-8ee915c9cee8b3f7b4d
 
 (10) Where by these rules any act or thing is required or authorised to be done in the presence of the polling or counting agents, the non‑attendance of any agent or agents at the time and place appointed for the purpose shall not, if the act or thing is otherwise duly done, invalidate the act or thing done.
 
-##### 27. Requirement of secrecy[^key-907f1689faba7b3a60bddb04f9bd4ec2]
+##### 27. Requirement of secrecy[^c-907f1689faba7b3a60bddb04f9bd4ec2]
 
 (1) The following persons attending at a polling station, namely—
 
@@ -568,18 +568,18 @@ shall maintain and aid in maintaining the secrecy of voting and shall not, excep
 (11) But these arrangements shall not apply to—
 
 - (a) a person attending the polling station for the purpose of voting;
-- (b) a person under the age of 16[^key-daa9f39e68db553cf5cc2387f829c378] years of age accompanying a voter;
+- (b) a person under the age of 16[^c-daa9f39e68db553cf5cc2387f829c378] years of age accompanying a voter;
 - (c) a person assisting a voter with disabilities to vote; or
 - (d) a constable on duty at a polling station or at the count.
 
 #### The poll
 
-##### 28. Admission to polling station[^key-7375bde1c2ce5c2eb6910cbdde3d1590]
+##### 28. Admission to polling station[^c-7375bde1c2ce5c2eb6910cbdde3d1590]
 
 (1) The presiding officer shall exclude all persons from the polling station except—
 
 - (a) voters;
-- (b) persons under the age of 16[^key-dc07f2cc422313c964b15bde1c757dc4] who accompany voters to the polling station;
+- (b) persons under the age of 16[^c-dc07f2cc422313c964b15bde1c757dc4] who accompany voters to the polling station;
 - (c) the candidates and their election agents;
 - (d) the polling agents appointed to attend at the polling station;
 - (e) the clerks appointed to attend at the polling station;
@@ -588,7 +588,7 @@ shall maintain and aid in maintaining the secrecy of voting and shall not, excep
 - (h) the returning officer and the returning officer’s staff; and
 - (i) persons entitled to attend in accordance with sections 6A to 6D of the Political Parties, Elections and Referendums Act 2000.
 
-(2) The presiding officer shall regulate the total number of voters and persons under the age of 16[^key-fd48b9adfd4c5f1da07cee91d0dffc07] who accompany them to be admitted to the polling station at the same time.
+(2) The presiding officer shall regulate the total number of voters and persons under the age of 16[^c-fd48b9adfd4c5f1da07cee91d0dffc07] who accompany them to be admitted to the polling station at the same time.
 
 (3) Not more than one polling agent shall be admitted at the same time to a polling station on behalf of the same candidate.
 
@@ -596,7 +596,7 @@ shall maintain and aid in maintaining the secrecy of voting and shall not, excep
 
 (5) Any certificate surrendered under this rule shall forthwith be cancelled.
 
-##### 29. Keeping of order in station[^key-6fcf6f70330244614f5904646543b63c]
+##### 29. Keeping of order in station[^c-6fcf6f70330244614f5904646543b63c]
 
 (1) It is the presiding officer’s duty to keep order at the polling station.
 
@@ -611,7 +611,7 @@ and the person so removed shall not, without the presiding officer’s permissio
 
 (4) The powers conferred by this rule shall not be exercised so as to prevent a voter who is otherwise entitled to vote at a polling station from having an opportunity of voting at that station.
 
-##### 30. Sealing of ballot boxes[^key-227230e2dc4a980d9f6852235f140ca5]
+##### 30. Sealing of ballot boxes[^c-227230e2dc4a980d9f6852235f140ca5]
 
 Immediately before the commencement of the poll, the presiding officer shall—
 
@@ -620,7 +620,7 @@ Immediately before the commencement of the poll, the presiding officer shall—
 - (c) place each box in the presiding officer’s view for the receipt of ballot papers; and
 - (d) keep it so sealed.
 
-##### 31. Questions to be put to voters[^key-35ca06273e04931a0606dd3a2063131e]
+##### 31. Questions to be put to voters[^c-35ca06273e04931a0606dd3a2063131e]
 
 (1) At the time of the application for a ballot paper (but not afterwards), the questions specified in paragraph (3) shall be put by the presiding officer to the applicant if a candidate or a candidate’s election or polling agent requires the question to be put.
 
@@ -665,14 +665,14 @@ Immediately before the commencement of the poll, the presiding officer shall—
 
 (7) Except as authorised by this rule, no inquiry shall be permitted as to the right of any person to vote.
 
-##### 32. Challenge of voter[^key-aa96eb447cf44ded0edc9068853a2dd4]
+##### 32. Challenge of voter[^c-aa96eb447cf44ded0edc9068853a2dd4]
 
 A person shall not be prevented from voting by reason only that—
 
 - (a) a candidate or that candidate’s election or polling agent has reasonable cause to believe that the person has committed an offence of personation and makes a declaration to that effect; or
 - (b) the person is arrested on the grounds of being suspected of committing or of being about to commit such an offence.
 
-##### 33. Voting procedure[^key-b0aa8c01fed793f422964e70f9b00510]
+##### 33. Voting procedure[^c-b0aa8c01fed793f422964e70f9b00510]
 
 (1) A ballot paper shall be delivered to a voter who applies for one, and immediately before delivery—
 
@@ -694,7 +694,7 @@ A person shall not be prevented from voting by reason only that—
 
 (6) For the avoidance of doubt, in the event that a voter is held in a queue at the polling station at the close of the poll and has not been able to cast their vote, the presiding officer shall permit them to cast their vote as soon as practicable immediately following the time specified as the close of the poll.
 
-##### 34. Votes marked by presiding officer[^key-eb2830fc6b4f191c045baf03dc0e83cb]
+##### 34. Votes marked by presiding officer[^c-eb2830fc6b4f191c045baf03dc0e83cb]
 
 (1) The presiding officer, on the application of a voter—
 
@@ -707,7 +707,7 @@ shall, in the presence of the polling agents, cause the voter’s vote to be mar
 
 (3) In the case of a person in respect of whom a notice has been issued under section 13B(3B) or (3D) of the 1983 Act, paragraph (2) applies as if for “in the copy of the register of electors of every voter” there were substituted “relating to every voter in respect of whom a notice has been issued under section 13B(3B) or (3D) of the 1983 Act”.
 
-##### 35. Voting by persons with disabilities[^key-29becea36a1ba19553f84589941f44ed]
+##### 35. Voting by persons with disabilities[^c-29becea36a1ba19553f84589941f44ed]
 
 (1) If a voter makes an application to the presiding officer to be allowed, on the ground of—
 
@@ -728,7 +728,7 @@ the presiding officer shall grant the application, and then anything which is by
 (3) For the purposes of these rules, a person is a voter with disabilities if such person has made such a declaration as is mentioned in paragraph (1), and a person shall be qualified to assist a voter with disabilities to vote if that person—
 
 - (a) is a person who is entitled to vote as an elector at the election; or
-- (b) is the father, mother, brother, sister, husband, wife, civil partner, grandparent, child or grandchild of the voter and has attained the age of 16[^key-315f988409c96e10ac2c875af0c3f4a5] years.
+- (b) is the father, mother, brother, sister, husband, wife, civil partner, grandparent, child or grandchild of the voter and has attained the age of 16[^c-315f988409c96e10ac2c875af0c3f4a5] years.
 
 (4) The name and number in the copy of the register of electors of every voter whose vote is given in accordance with this rule and the name and address of the companion shall be entered on a list (in these rules referred to as “the list of voters with disabilities assisted by companions”) and in the case of a person voting as proxy for an elector, the number to be entered together with the voter’s name shall be the elector’s number.
 
@@ -743,7 +743,7 @@ the presiding officer shall grant the application, and then anything which is by
 
 (8) No fee or other payment shall be charged in respect of the declaration.
 
-##### 36. Tendered ballot papers[^key-87710e5ba7fa8d709d1f5c47f0c6b9d6]
+##### 36. Tendered ballot papers[^c-87710e5ba7fa8d709d1f5c47f0c6b9d6]
 
 (1) Paragraph (5) applies if a person represents to be—
 
@@ -792,15 +792,15 @@ and claims to have lost or not to have received that person’s postal ballot pa
 - (a) in paragraphs (1), (2)(a) and (4)(a) for “named on the register” there were substituted “in respect of whom a notice under section 13B(3B) or (3D) of the 1983 Act has been issued”;
 - (b) in paragraph (7) for “the voter’s number in the copy of the register of electors” there were substituted “the number relating to that person on a notice issued under section 13B(3B) or (3D) of the 1983 Act”.
 
-##### 37. Spoilt ballot papers[^key-17ae990dc4410ba3bbb7839043a2e5bc]
+##### 37. Spoilt ballot papers[^c-17ae990dc4410ba3bbb7839043a2e5bc]
 
 A voter who has inadvertently dealt with a ballot paper in such manner that it cannot be conveniently used as a ballot paper may, on delivering it to the presiding officer and proving to the presiding officer’s satisfaction the fact of the inadvertence, obtain another ballot paper in the place of the ballot paper so delivered (in these rules the ballot paper so delivered is referred to as a “spoilt ballot paper”), and the spoilt ballot paper shall be immediately cancelled.
 
-##### 38. Correction of errors on day of poll[^key-26679ed8e222dfc99d2174729d284125]
+##### 38. Correction of errors on day of poll[^c-26679ed8e222dfc99d2174729d284125]
 
 The presiding officer shall keep a list of persons to whom ballot papers are delivered in consequence of an alteration to the register made by virtue of section 13B(3B) or (3D) of the 1983 Act (notice of alteration of register) which takes effect on the day of the poll.
 
-##### 39. Adjournment of poll in case of riot[^key-f73ac4ddbf73aed6d8491eb3d5e72c3e]
+##### 39. Adjournment of poll in case of riot[^c-f73ac4ddbf73aed6d8491eb3d5e72c3e]
 
 (1) Where the proceedings at any polling station are interrupted or obstructed by riot or open violence, the presiding officer shall adjourn the proceedings until the following day and shall forthwith give notice to the returning officer.
 
@@ -809,7 +809,7 @@ The presiding officer shall keep a list of persons to whom ballot papers are del
 - (a) the hours of polling on the day to which it is adjourned shall be the same as for the original day; and
 - (b) references in these rules to the close of the poll shall be construed accordingly.
 
-##### 40. Procedure on close of poll[^key-3ac5aafdfb9cfbb1dcd150ecf0a00766]
+##### 40. Procedure on close of poll[^c-3ac5aafdfb9cfbb1dcd150ecf0a00766]
 
 (1) As soon as practicable after every voter has cast their vote in terms of rule 33, the presiding officer shall, in the presence of the polling agents, using the presiding officer’s own seal and the seals of such polling agents as desire to affix their seals, seal each ballot box in use at the station so as to prevent the introduction of additional ballot papers and thereafter separate and make up into separate packets, sealed with the presiding officer’s own seal and the seals of such polling agents as desire to affix their seals—
 
@@ -834,11 +834,11 @@ and shall deliver the sealed ballot boxes or packets or cause them to be deliver
 
 #### Counting of votes
 
-##### 41. Attendance at counting of votes[^key-84b76a83559659e39104904d5b9ff8fe]
+##### 41. Attendance at counting of votes[^c-84b76a83559659e39104904d5b9ff8fe]
 
 (1) The returning officer shall make arrangements for counting the votes in the presence of the counting agents as soon as practicable after the close of the poll, and shall give to the counting agents notice in writing of the time and place at which the returning officer will begin to count the votes.
 
-(1A)[^key-b711c342b56a131ca02690e0a9278b92] In making arrangements under paragraph (1), the returning officer shall not knowingly appoint or employ any person who has been employed by or on behalf of a candidate in or about the election.
+(1A)[^c-b711c342b56a131ca02690e0a9278b92] In making arrangements under paragraph (1), the returning officer shall not knowingly appoint or employ any person who has been employed by or on behalf of a candidate in or about the election.
 
 (2) No person other than—
 
@@ -858,7 +858,7 @@ may be present at the counting of the votes, unless permitted by the returning o
 
 (4) The returning officer shall give the counting agents all such reasonable facilities for overseeing the proceedings, and all such information with respect to them, as the returning officer can give them consistently with the orderly conduct of the proceedings and the discharge of the returning officer’s duties in connection with them.
 
-##### 42. Counting of votes[^key-ebe69dd69b7ed25b78ae2cce698e291b]
+##### 42. Counting of votes[^c-ebe69dd69b7ed25b78ae2cce698e291b]
 
 (1) Subject to paragraphs (3) and (4), the returning officer shall provide an electronic counting system and the count shall be conducted by means of such electronic counting system.
 
@@ -868,12 +868,12 @@ may be present at the counting of the votes, unless permitted by the returning o
 
 (4) The returning officer may decide to conduct the count in respect of a by-election manually instead of using an electronic counting system.
 
-##### 43. The count[^key-a6498743cf1534be8b5dfb1d5d5067c2]
+##### 43. The count[^c-a6498743cf1534be8b5dfb1d5d5067c2]
 
 (1) The returning officer shall—
 
 - (a) in the presence of the counting agents open each ballot box and count and record the number of ballot papers in it, checking the number against the ballot paper account;
-- (b) [^key-85d5ee8cc0a3ce5a074ba8d92c4ec410]... in the presence of the election agents verify each ballot paper account; and
+- (b) [^c-85d5ee8cc0a3ce5a074ba8d92c4ec410]... in the presence of the election agents verify each ballot paper account; and
 - (c) count such of the postal ballot papers as have been duly returned and record the number counted.
 
 (2) A postal ballot paper shall not be deemed to be duly returned unless it is returned—
@@ -887,7 +887,7 @@ before the close of the poll and is accompanied by the postal voting statement d
 
 (4) The returning officer, while counting and recording the number of ballot papers and counting the votes, shall take all proper precautions for preventing any person from identifying the voter who cast the vote.
 
-(5) The returning officer shall verify each ballot paper account[^key-18fcf981949c6b4209a80df8da26d4a6] by comparing it with the number of ballot papers recorded, the unused and spoilt ballot papers in the returning officer’s possession and the tendered votes list (opening and resealing the packets containing the unused and spoilt ballot papers and the tendered votes list) and shall draw up a statement as to the result of the verification and shall, on request, supply a copy of that statement to any election agent[^key-66b5e9aae685600178b21fc33cd338aa].
+(5) The returning officer shall verify each ballot paper account[^c-18fcf981949c6b4209a80df8da26d4a6] by comparing it with the number of ballot papers recorded, the unused and spoilt ballot papers in the returning officer’s possession and the tendered votes list (opening and resealing the packets containing the unused and spoilt ballot papers and the tendered votes list) and shall draw up a statement as to the result of the verification and shall, on request, supply a copy of that statement to any election agent[^c-66b5e9aae685600178b21fc33cd338aa].
 
 (6) The returning officer shall so far as practicable proceed continuously with counting the votes, allowing only time for refreshment, except that the returning officer may, insofar as the returning officer and the agents agree, exclude any hours between 7 p.m. and 9 a.m. on the following morning and for the purposes of this exception the agreement of a candidate or such candidate’s election agent shall be as effective as the agreement of such candidate’s counting agents.
 
@@ -896,11 +896,11 @@ before the close of the poll and is accompanied by the postal voting statement d
 - (a) place the ballot papers and other documents relating to the election under the returning officer’s own seal and the seals of such of the counting agents as desire to affix their seals; and
 - (b) otherwise take proper precautions for the security of the papers and documents.
 
-##### 44. Rejected ballot papers[^key-955a280a88001b42e59d5e7f7c257caa]
+##### 44. Rejected ballot papers[^c-955a280a88001b42e59d5e7f7c257caa]
 
 (1) Any ballot paper—
 
-- (a) which does not bear a unique identifying mark in a form that is capable of being read by electronic or other[^key-60e2996eca40d28f3cfad1e9a9794f8e] means;
+- (a) which does not bear a unique identifying mark in a form that is capable of being read by electronic or other[^c-60e2996eca40d28f3cfad1e9a9794f8e] means;
 - (b) on which a number standing alone is not placed so as to indicate a first preference for some candidate;
 - (c) on which the figure “1” standing alone indicating a first preference is set opposite the name of more than one candidate;
 - (d) on which anything is written or marked by which the voter can be identified except the printed number and other unique identifying mark on the back; or
@@ -920,11 +920,11 @@ shall not for such reason be deemed to be void by reason only of indicating a pr
 
 (4) The returning officer shall draw up a statement showing the number of ballot papers rejected under each of sub‑paragraphs (a) to (e) of paragraph (1).
 
-##### 45. Decisions on ballot papers[^key-4916d5edbcecf914bb6a6c2bb1bd4f48]
+##### 45. Decisions on ballot papers[^c-4916d5edbcecf914bb6a6c2bb1bd4f48]
 
 The decision of the returning officer, whether express or implied, on any question arising in respect of a ballot paper, the exclusion of a candidate or the transfer of votes shall be final, but shall be subject to review on an election petition.
 
-##### 46. First stage[^key-1f4ff73b8002be3b7594044c6372edc5]
+##### 46. First stage[^c-1f4ff73b8002be3b7594044c6372edc5]
 
 (1) The returning officer shall sort the valid ballot papers into parcels according to the candidates for whom first preference votes are given.
 
@@ -936,19 +936,19 @@ The decision of the returning officer, whether express or implied, on any questi
 
 (3) The returning officer shall also ascertain and record the total number of valid ballot papers.
 
-##### 47. The quota[^key-e39ee8299e18e0dda080d50f37235a31]
+##### 47. The quota[^c-e39ee8299e18e0dda080d50f37235a31]
 
 (1) The returning officer shall divide the total number of valid ballot papers for the electoral ward by a number exceeding by one the number of councillors to be elected at the election for that electoral ward.
 
 (2) The result of the division under paragraph (1) (ignoring any decimal places), increased by one, is the number of votes sufficient to secure the return of a candidate as a councillor (in these rules referred to as the “quota”).
 
-##### 48. Return of councillors[^key-d9a4e7dc7535bee4d6ba3a8715546f75]
+##### 48. Return of councillors[^c-d9a4e7dc7535bee4d6ba3a8715546f75]
 
 (1) Where, at any stage of the count, the number of votes for a candidate equals or exceeds the quota, the candidate is deemed to be elected.
 
 (2) A candidate is returned as a councillor when declared to be elected in accordance with rule 56(a).
 
-##### 49. Transfer of surplus votes[^key-37c4df9d6a9e9e2c6c2edfeccad50d98]
+##### 49. Transfer of surplus votes[^c-37c4df9d6a9e9e2c6c2edfeccad50d98]
 
 (1) Where, at the end of any stage of the count, the number of votes credited to any candidate exceeds the quota and, subject to rules 50 and 53, one or more vacancies remain to be filled, the returning officer shall sort the ballot papers received by that candidate into further parcels so that they are grouped—
 
@@ -975,7 +975,7 @@ the calculation being made to five decimal places (any remainder being ignored).
   - (i) for a ballot paper on which a first preference vote is given for the transferring candidate, one; and
   - (ii) in all other cases, the transfer value of the ballot paper when received by the transferring candidate.
 
-##### 50. Transfer of surplus votes – supplementary provisions[^key-d3f70ba410b1d908e391f53a086993cd]
+##### 50. Transfer of surplus votes – supplementary provisions[^c-d3f70ba410b1d908e391f53a086993cd]
 
 (1) If, at the end of any stage of the count, the number of votes credited to two or more candidates exceeds the quota the returning officer shall—
 
@@ -986,7 +986,7 @@ the calculation being made to five decimal places (any remainder being ignored).
 
 (3) If the numbers of votes credited to two or more candidates were equal at all stages of the count, the returning officer shall decide, by lot, which candidate’s transferable papers are to be transferred first.
 
-##### 51. Exclusion of candidates[^key-c6ad97729a4acfb5e52ba850e695fbdc]
+##### 51. Exclusion of candidates[^c-c6ad97729a4acfb5e52ba850e695fbdc]
 
 (1) If, one or more vacancies remain to be filled and—
 
@@ -1006,7 +1006,7 @@ the returning officer shall exclude from the election at that stage the candidat
 
 (5) This rule is subject to rule 53.
 
-##### 52. Exclusion of candidates – supplementary provisions[^key-173f906d11d9fd7be3cb30cd282778e1]
+##### 52. Exclusion of candidates – supplementary provisions[^c-173f906d11d9fd7be3cb30cd282778e1]
 
 (1) If, when a candidate has to be excluded under rule 51—
 
@@ -1020,19 +1020,19 @@ paragraph (2) applies.
 - (a) regard shall be had to the total number of votes credited to those candidates at the end of the most recently preceding stage of the count at which they had an unequal number of votes and the candidate with the lowest number of votes at that stage shall be excluded; and
 - (b) where the number of votes credited to those candidates was equal at all stages, the returning officer shall decide, by lot, which of those candidates is to be excluded.
 
-##### 53. Filling of last vacancies[^key-45f15230376ec4bff3e1e5b263c9888b]
+##### 53. Filling of last vacancies[^c-45f15230376ec4bff3e1e5b263c9888b]
 
 (1) Where the number of continuing candidates is equal to the number of vacancies remaining unfilled, the continuing candidates are deemed to be elected.
 
-(2) Where the last vacancies can be filled under this rule, no further transfer is required[^key-ea424a8e89ee8b85f16a74682c0ac354].
+(2) Where the last vacancies can be filled under this rule, no further transfer is required[^c-ea424a8e89ee8b85f16a74682c0ac354].
 
-##### 54. Re‑count[^key-c0bc670691bb8614f7df63fe34365fb0]
+##### 54. Re‑count[^c-c0bc670691bb8614f7df63fe34365fb0]
 
 (1) A candidate or such candidate’s election agent may, if present when the counting or re‑counting of the votes is completed, require the returning officer to have the votes re‑counted or again re‑counted but the returning officer may refuse to do so if in the returning officer’s opinion the request is unreasonable.
 
 (2) No step shall be taken on the completion of the counting or any re‑counting of votes until the candidates and election agents present at its completion have been given a reasonable opportunity to exercise the right conferred by this rule.
 
-##### 55. Counting of votes by means other than electronic counting[^key-0b64076582b84639d0fff2d8e07112e5]
+##### 55. Counting of votes by means other than electronic counting[^c-0b64076582b84639d0fff2d8e07112e5]
 
 Where in accordance with rule 42(3) or (4) the returning officer makes arrangements for the count to be conducted other than by means of an electronic counting system these rules shall apply with the following modifications—
 
@@ -1051,7 +1051,7 @@ Where in accordance with rule 42(3) or (4) the returning officer makes arrangeme
 - (c) in rule 53 after paragraph (1) insert—
 
   > (1A) Where only one vacancy remains unfilled and the number of votes then credited to any one continuing candidate (“the highest continuing candidate”) is equal to or greater than the total number of votes then credited to all the other continuing candidates, the highest continuing candidate is deemed to be elected.
-- (ca)[^key-a648021495bc5cea8f5ed522b0d47100] in rule 56 omit paragraph (c)(va); and
+- (ca)[^c-a648021495bc5cea8f5ed522b0d47100] in rule 56 omit paragraph (c)(va); and
 - (d) in rule 57—
   - (i) for paragraph (1) substitute—
 
@@ -1060,7 +1060,7 @@ Where in accordance with rule 42(3) or (4) the returning officer makes arrangeme
     ; and
   - (ii) omit paragraphs (3) and (4).
 
-##### 56. Declaration of result[^key-ab1bc101548cf656879f3043b353d095]
+##### 56. Declaration of result[^c-ab1bc101548cf656879f3043b353d095]
 
 In a contested election, when the result of the poll has been ascertained, the returning officer shall—
 
@@ -1072,12 +1072,12 @@ In a contested election, when the result of the poll has been ascertained, the r
   - (iii) the numbers of ballot papers transferred and their transfer values at each stage of the count;
   - (iv) the number of votes credited to each candidate at each stage of the count;
   - (v) the number of non‑transferable ballot papers and the number of non-transferable votes at each stage of the count;
-  - (va)[^key-f3502c054785798a8ee1f424b5777cbb] each unique sequence of preferences in which voters chose candidates in the ward, with the number of voters who adopted each of those sequences, and for these purposes a “sequence of preferences” is the order in which a voter gave their preferences to the candidates on the ballot paper, starting with their first preference; and
+  - (va)[^c-f3502c054785798a8ee1f424b5777cbb] each unique sequence of preferences in which voters chose candidates in the ward, with the number of voters who adopted each of those sequences, and for these purposes a “sequence of preferences” is the order in which a voter gave their preferences to the candidates on the ballot paper, starting with their first preference; and
   - (vi) the number of rejected ballot papers under each head shown in the statement of rejected ballot papers.
 
 ### PART IV — DISPOSAL OF DOCUMENTS
 
-#### 57. Sealing up of ballot papers[^key-d47a246c6f710e199d55e734f643f23d]
+#### 57. Sealing up of ballot papers[^c-d47a246c6f710e199d55e734f643f23d]
 
 (1) On the completion of the counting at a contested election the returning officer shall seal up in packets the ballot papers and a complete electronic copy of the information stored in the electronic counting system held in a device suitable for the purposes of its storage.
 
@@ -1092,7 +1092,7 @@ In a contested election, when the result of the poll has been ascertained, the r
 
 (4) Any information retained to comply with the requirements of rule 61 may be used only for that purpose and the returning officer must, in keeping and using it, take all reasonable steps to maintain the secrecy of voting.
 
-#### 58. Delivery of documents[^key-d999d2275eb8b1f14112671ed5add733]
+#### 58. Delivery of documents[^c-d999d2275eb8b1f14112671ed5add733]
 
 The returning officer shall then forward to the proper officer of the council for which the election was held the following documents:—
 
@@ -1106,7 +1106,7 @@ The returning officer shall then forward to the proper officer of the council fo
 
 endorsing on each packet a description of its contents, the date of the election to which they relate and the name of the electoral ward for which the election was held.
 
-#### 59. Orders for production of documents[^key-36915281dfd914c642e16bdedc8e7a32]
+#### 59. Orders for production of documents[^c-36915281dfd914c642e16bdedc8e7a32]
 
 (1) An order—
 
@@ -1151,7 +1151,7 @@ shall be *prima facie* evidence that the elector whose vote was given by that ba
 - (a) inspect any rejected or counted ballot papers in the possession of the proper officer of the council or any information held on an electronic copy made pursuant to rule 57(1); or
 - (b) open any sealed packet of the completed corresponding number list or of certificates.
 
-#### 60. Retention of documents[^key-c88d1a75b7e816c0327e9ce270adf898]
+#### 60. Retention of documents[^c-c88d1a75b7e816c0327e9ce270adf898]
 
 The proper officer of the council shall retain amongst the records of the council for one year—
 
@@ -1160,7 +1160,7 @@ The proper officer of the council shall retain amongst the records of the counci
 
 relating to an election forwarded to such officer in pursuance of these rules by a returning officer, and at the expiry of that period shall, unless otherwise directed by an order of a sheriff principal or an election court, cause them to be destroyed.
 
-#### 60A. Destruction of home address forms[^key-14a5ab139ba2a913db1ec34da91ea851]
+#### 60A. Destruction of home address forms[^c-14a5ab139ba2a913db1ec34da91ea851]
 
 (1) The returning officer must destroy each candidate’s home address form—
 
@@ -1171,31 +1171,31 @@ relating to an election forwarded to such officer in pursuance of these rules by
 
 ### PART V — PUBLICATION OF VOTING INFORMATION
 
-**61.**[^key-170b825025a2f4cba5023a93aee361b2] (1) In a contested election where the count is conducted by means of an electronic counting system, the returning officer must (except as provided for by paragraph (6)) give public notice of the information specified in paragraph (2)[^key-093c688f69280f252dc1e21a1c5eac64] (“the information”), within one week following the declaration of the result of the poll.
+**61.**[^c-170b825025a2f4cba5023a93aee361b2] (1) In a contested election where the count is conducted by means of an electronic counting system, the returning officer must (except as provided for by paragraph (6)) give public notice of the information specified in paragraph (2)[^c-093c688f69280f252dc1e21a1c5eac64] (“the information”), within one week following the declaration of the result of the poll.
 
 (2) The information is, for each polling station (except as provided for by paragraph (3))—
 
 - (a) the number of first and subsequent preferences for each candidate;
-- (b)[^key-188ae9a7dbbd195bafe20674502f8f5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-188ae9a7dbbd195bafe20674502f8f5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-188ae9a7dbbd195bafe20674502f8f5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-188ae9a7dbbd195bafe20674502f8f5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-188ae9a7dbbd195bafe20674502f8f5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-188ae9a7dbbd195bafe20674502f8f5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-188ae9a7dbbd195bafe20674502f8f5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-188ae9a7dbbd195bafe20674502f8f5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-d75d7c68a2ee23b27e64b2337129922e] For the purposes of this rule, all postal ballot papers cast in a ward must be treated as if cast at a further polling station in that ward.
+(2A)[^c-d75d7c68a2ee23b27e64b2337129922e] For the purposes of this rule, all postal ballot papers cast in a ward must be treated as if cast at a further polling station in that ward.
 
 (3) Where in total less than 200 votes were cast at a polling station the returning officer is to give public notice of the information for that polling station aggregated with (and indistinguishable from) that information from one or more other polling stations in the same ward, being such polling stations as the returning officer sees fit, such that as aggregated the information will include in total no less than 200 votes.
 
-(4)[^key-705cd6fd3423265f698a6a52d7124a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-705cd6fd3423265f698a6a52d7124a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-705cd6fd3423265f698a6a52d7124a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-705cd6fd3423265f698a6a52d7124a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Where in total less than 200 votes were cast at polling stations in a ward, no public notice of the information is to be given.
 
-(7) Once public notice of the information [^key-1c52d2a8a2d1391102ebc07b8818eeb8]... has been given, the returning officer must as soon as reasonably practicable procure the destruction of any electronic data or other records retained under rule 57(3) pursuant to this rule, in a manner which ensures that their confidentiality is preserved.
+(7) Once public notice of the information [^c-1c52d2a8a2d1391102ebc07b8818eeb8]... has been given, the returning officer must as soon as reasonably practicable procure the destruction of any electronic data or other records retained under rule 57(3) pursuant to this rule, in a manner which ensures that their confidentiality is preserved.
 
 ### PART VI — DEATH OF CANDIDATE
 
-#### 62. Independent candidate[^key-3b1f114663d1e75a421488efce5e5f93]
+#### 62. Independent candidate[^c-3b1f114663d1e75a421488efce5e5f93]
 
 (1) This rule applies if at a contested election proof is given to the returning officer’s satisfaction before the result of the election is declared that one of the persons named or to be named as an independent candidate in the ballot papers for a particular electoral ward has died.
 
@@ -1214,7 +1214,7 @@ relating to an election forwarded to such officer in pursuance of these rules by
 
 (5) For the purposes of this rule a person is named or to be named on the ballot papers as an independent candidate if the description on the candidate’s nomination paper is the word “Independent” or the candidate has no description on that nomination paper.
 
-#### 63. Deceased independent candidate wins[^key-1936b4444cf79e315e26fac59c03fbf8]
+#### 63. Deceased independent candidate wins[^c-1936b4444cf79e315e26fac59c03fbf8]
 
 (1) This rule applies if at an election mentioned in rule 62(1) the deceased candidate obtains sufficient votes to be elected.
 
@@ -1238,11 +1238,11 @@ relating to an election forwarded to such officer in pursuance of these rules by
 
 (9) For the purposes of this rule a working day is a day which is not a day specified in rule 2(1)(a) to (d).
 
-#### 64. Deceased independent candidate with equality of votes[^key-22b1de18add969f1321ff32c4cbc1ff3]
+#### 64. Deceased independent candidate with equality of votes[^c-22b1de18add969f1321ff32c4cbc1ff3]
 
 In an election mentioned in rule 62(1), if at any stage of the count the number of votes credited to a deceased candidate is equal with the number of votes credited to another candidate, the number of votes credited to the deceased candidate must be regarded for the purposes of that stage as being the lower number.
 
-#### 65. Party candidate[^key-d336e028dcc2e4b03c1ae5225e2bf4c5]
+#### 65. Party candidate[^c-d336e028dcc2e4b03c1ae5225e2bf4c5]
 
 (1) This rule applies if—
 
@@ -1275,7 +1275,7 @@ In an election mentioned in rule 62(1), if at any stage of the count the number 
 - (a) a person stands in the name of a registered political party if that person’s nomination paper contains a description which is authorised as mentioned in rule 4(5) or (7).
 - (b) a working day is a day which is not a day specified in rule 2(1)(a) to (d).
 
-#### 66. Abandoned poll[^key-30bb23f79c61d7a405a3abb8cc6d9dca]
+#### 66. Abandoned poll[^c-30bb23f79c61d7a405a3abb8cc6d9dca]
 
 (1) This rule applies to a poll which is abandoned in pursuance of rule 62(4)(b) or rule 65(2)(b).
 
@@ -1300,29 +1300,29 @@ In an election mentioned in rule 62(1), if at any stage of the count the number 
 
 unless the order is made by a court with reference to a prosecution.
 
-### PART VII — FORMS FOR USE AT SCOTTISH LOCAL GOVERNMENT ELECTIONS[^key-7d1f989b725b4a1748a65c76a1b9e405]
+### PART VII — FORMS FOR USE AT SCOTTISH LOCAL GOVERNMENT ELECTIONS[^c-7d1f989b725b4a1748a65c76a1b9e405]
 
 The forms contained in this Part may be adapted so far as circumstances require and, in particular, may relate to one or more electoral wards.
 
-[^key-e8352485627dcafcc3f395930861be5e]Form 1
+[^c-e8352485627dcafcc3f395930861be5e]Form 1
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_027.gif)
 
-[^key-84aeecca49c297063c31fccb8f4bc466]Form 2
+[^c-84aeecca49c297063c31fccb8f4bc466]Form 2
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_052.gif)[image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_057.gif)
 
-[^key-97be428158975542e53907192ec18cc3]Form 3
+[^c-97be428158975542e53907192ec18cc3]Form 3
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_006)
 
-[^key-6aa46554abcd35045a2c07a24552b755]Form 4
+[^c-6aa46554abcd35045a2c07a24552b755]Form 4
 
 Rule 14(2)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_007)[image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_054.gif)
 
-[^key-eaba21874aa1a330a18405b7ebdd4be4]Form 5
+[^c-eaba21874aa1a330a18405b7ebdd4be4]Form 5
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_009)[image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_010)
 
@@ -1330,294 +1330,294 @@ Form 6
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_011)[image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_012)
 
-[^key-72386e7b4b20e8b644c6bc293fe451ba]Form 7
+[^c-72386e7b4b20e8b644c6bc293fe451ba]Form 7
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_013)
 
-[^key-31caf2799a97ebd10d12e9a8820eb905]Form 8
+[^c-31caf2799a97ebd10d12e9a8820eb905]Form 8
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_028.gif)[image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_029.gif)
 
-[^key-31caf2799a97ebd10d12e9a8820eb905]Form 9
+[^c-31caf2799a97ebd10d12e9a8820eb905]Form 9
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_030.gif)[image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_031.gif)
 
-[^key-31caf2799a97ebd10d12e9a8820eb905]Form 10
+[^c-31caf2799a97ebd10d12e9a8820eb905]Form 10
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_032.gif)[image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_033.gif)
 
-[^key-31caf2799a97ebd10d12e9a8820eb905]Form 11
+[^c-31caf2799a97ebd10d12e9a8820eb905]Form 11
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_034.gif)[image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_035.gif)
 
-[^key-31caf2799a97ebd10d12e9a8820eb905]Form 12
+[^c-31caf2799a97ebd10d12e9a8820eb905]Form 12
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_036.gif)[image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_037.gif)
 
-[^key-e801ab2f11a2553cdaf745b4b17d1e69]Forms 13 and 13A
+[^c-e801ab2f11a2553cdaf745b4b17d1e69]Forms 13 and 13A
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_038.gif)
 
-[^key-519d010659f46674483109cd390636ed]Form 14
+[^c-519d010659f46674483109cd390636ed]Form 14
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_039.gif)
 
-[^key-62756ef5d84f6c0f536d7adf4cdf42b8]Form 15
+[^c-62756ef5d84f6c0f536d7adf4cdf42b8]Form 15
 
 [image: see source](https://www.legislation.gov.uk/ssi/2011/399/images/ssi_20110399_en_epp_040.gif)
 
 ## Annotations
 
-[^key-810d9c06420ee071110b88e9b7cff44f]: Modification: [Sch. 1](https://www.legislation.gov.uk/ssi/2011/399/schedule/1) modified (16.12.2015) by [The Scottish Parliament (Elections etc.) Order 2015 (S.S.I. 2015/425)](https://www.legislation.gov.uk/ssi/2015/425), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/425/article/1/1), [sch. 5 Pt. 3](https://www.legislation.gov.uk/ssi/2015/425/schedule/5/part/3) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/425/article/1/2))
+[^c-810d9c06420ee071110b88e9b7cff44f]: Modification: [Sch. 1](https://www.legislation.gov.uk/ssi/2011/399/schedule/1) modified (16.12.2015) by [The Scottish Parliament (Elections etc.) Order 2015 (S.S.I. 2015/425)](https://www.legislation.gov.uk/ssi/2015/425), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/425/article/1/1), [sch. 5 Pt. 3](https://www.legislation.gov.uk/ssi/2015/425/schedule/5/part/3) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/425/article/1/2))
 
-[^key-4dcad2f48b91425fc9fb243dbedba44b]: Commencement: Sch. 1 rule 1 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-4dcad2f48b91425fc9fb243dbedba44b]: Commencement: Sch. 1 rule 1 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
 [^f00021]: Footnote: [1973 c.65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-9ed21221e31631f99e650f8635118f40]: Commencement: Sch. 1 rule 2 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-9ed21221e31631f99e650f8635118f40]: Commencement: Sch. 1 rule 2 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
 [^f00022]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-d29185dfbb951e0132504727207d1637]: Commencement: Sch. 1 rule 3 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-d29185dfbb951e0132504727207d1637]: Commencement: Sch. 1 rule 3 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-c5e9d7ad25f90e8bb7d9c9eba08797d7]: Commencement: Sch. 1 rule 4 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-c5e9d7ad25f90e8bb7d9c9eba08797d7]: Commencement: Sch. 1 rule 4 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-c7401348f677b8a72fe012f6fdeb8971]: Textual amendment: Words in [sch. 1 rule 4(2)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/4/2) omitted (9.9.2020) by virtue of [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2020/239/article/3/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-c7401348f677b8a72fe012f6fdeb8971]: Textual amendment: Words in [sch. 1 rule 4(2)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/4/2) omitted (9.9.2020) by virtue of [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2020/239/article/3/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
 [^f00023]: Footnote: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41).
 
 [^f00024]: Footnote: Section 28A and 28B were added by section 49 of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22).
 
-[^key-ed0f39c5ef0def6539640309134885e5]: Textual amendment: [Sch. 1 rule 4(10)-(12)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/4/10) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2020/239/article/3/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-ed0f39c5ef0def6539640309134885e5]: Textual amendment: [Sch. 1 rule 4(10)-(12)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/4/10) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2020/239/article/3/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-f65cc1f4c18f7c1b347e748ca61fe865]: Textual amendment: Words in [sch. 1 rule 4(11)(b)(i)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/paragraph/4/11/b/i) substituted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 36(2)(a)](https://www.legislation.gov.uk/asp/2025/4/section/36/2/a), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-f65cc1f4c18f7c1b347e748ca61fe865]: Textual amendment: Words in [sch. 1 rule 4(11)(b)(i)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/paragraph/4/11/b/i) substituted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 36(2)(a)](https://www.legislation.gov.uk/asp/2025/4/section/36/2/a), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
 
-[^key-8b387f835f83e621b9c63f1cefe3dc60]: Textual amendment: Words in [sch. 1 rule 4(12)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/paragraph/4/12) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 36(2)(b)](https://www.legislation.gov.uk/asp/2025/4/section/36/2/b), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-8b387f835f83e621b9c63f1cefe3dc60]: Textual amendment: Words in [sch. 1 rule 4(12)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/paragraph/4/12) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 36(2)(b)](https://www.legislation.gov.uk/asp/2025/4/section/36/2/b), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
 
-[^key-eea79e703f6ef3d5696149d43ffd2ff4]: Commencement: Sch. 1 rule 5 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-eea79e703f6ef3d5696149d43ffd2ff4]: Commencement: Sch. 1 rule 5 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-bcdb7be745755334855df68259be80bf]: Commencement: Sch. 1 rule 6 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-bcdb7be745755334855df68259be80bf]: Commencement: Sch. 1 rule 6 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-1e0ca6ed4ee716b055566d6abcf50b50]: Textual amendment: Words in [sch. 1 rule 6(3)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/6/3) omitted (9.9.2020) by virtue of [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [4](https://www.legislation.gov.uk/ssi/2020/239/article/4) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-1e0ca6ed4ee716b055566d6abcf50b50]: Textual amendment: Words in [sch. 1 rule 6(3)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/6/3) omitted (9.9.2020) by virtue of [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [4](https://www.legislation.gov.uk/ssi/2020/239/article/4) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-1fadc8a17a42076973f67b5dac701928]: Commencement: Sch. 1 rule 7 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-1fadc8a17a42076973f67b5dac701928]: Commencement: Sch. 1 rule 7 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-4e53d3869c6995c48994ac5effa69dd9]: Textual amendment: Words in [sch. 1 rule 7(1)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/1) substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2020/239/article/5/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-4e53d3869c6995c48994ac5effa69dd9]: Textual amendment: Words in [sch. 1 rule 7(1)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/1) substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2020/239/article/5/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-cc255194c980ee6a4e27358bf0ff764e]: Textual amendment: Words in [sch. 1 rule 7(1)(a)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/1/a) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2020/239/article/5/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-cc255194c980ee6a4e27358bf0ff764e]: Textual amendment: Words in [sch. 1 rule 7(1)(a)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/1/a) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2020/239/article/5/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-47b71a846f1cf54325a78d469a950252]: Textual amendment: Words in [sch. 1 rule 7(2)(d)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/2/d) omitted (25.11.2021) by virtue of [The Scottish Local Government Elections Amendment Order 2021 (S.S.I. 2021/437)](https://www.legislation.gov.uk/ssi/2021/437), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/437/article/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2021/437/article/2/2) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2021/437/article/1/3))
+[^c-47b71a846f1cf54325a78d469a950252]: Textual amendment: Words in [sch. 1 rule 7(2)(d)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/2/d) omitted (25.11.2021) by virtue of [The Scottish Local Government Elections Amendment Order 2021 (S.S.I. 2021/437)](https://www.legislation.gov.uk/ssi/2021/437), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/437/article/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2021/437/article/2/2) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2021/437/article/1/3))
 
-[^key-5dde0c3dfc4fb75424bf52f04a59a2cc]: Textual amendment: [Sch. 1 rule 7(2A)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/2A) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [5(c)](https://www.legislation.gov.uk/ssi/2020/239/article/5/c) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-5dde0c3dfc4fb75424bf52f04a59a2cc]: Textual amendment: [Sch. 1 rule 7(2A)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/2A) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [5(c)](https://www.legislation.gov.uk/ssi/2020/239/article/5/c) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-042783363dd1cb561ec43580c7709aaa]: Textual amendment: Words in [sch. 1 rule 7(3)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/3) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [5(d)](https://www.legislation.gov.uk/ssi/2020/239/article/5/d) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-042783363dd1cb561ec43580c7709aaa]: Textual amendment: Words in [sch. 1 rule 7(3)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/3) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [5(d)](https://www.legislation.gov.uk/ssi/2020/239/article/5/d) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-a6337b65b182b2ebc4888ffb72d3f95b]: Textual amendment: Words in [sch. 1 rule 7(6)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/6) substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [5(e)(i)](https://www.legislation.gov.uk/ssi/2020/239/article/5/e/i) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-a6337b65b182b2ebc4888ffb72d3f95b]: Textual amendment: Words in [sch. 1 rule 7(6)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/6) substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [5(e)(i)](https://www.legislation.gov.uk/ssi/2020/239/article/5/e/i) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-6126ae9dd0eca88bc50204069cece2fc]: Textual amendment: Words in [sch. 1 rule 7(6)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/6) substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [5(e)(ii)](https://www.legislation.gov.uk/ssi/2020/239/article/5/e/ii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-6126ae9dd0eca88bc50204069cece2fc]: Textual amendment: Words in [sch. 1 rule 7(6)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/7/6) substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [5(e)(ii)](https://www.legislation.gov.uk/ssi/2020/239/article/5/e/ii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-3bc73572b002d901c50dad5dda44b524]: Commencement: Sch. 1 rule 8 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-3bc73572b002d901c50dad5dda44b524]: Commencement: Sch. 1 rule 8 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-7c6b7359098e33d347dc4689ed86e2ec]: Commencement: Sch. 1 rule 9 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-7c6b7359098e33d347dc4689ed86e2ec]: Commencement: Sch. 1 rule 9 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-7208817e5f5fd363c1e54a13d3d7d6eb]: Commencement: Sch. 1 rule 10 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-7208817e5f5fd363c1e54a13d3d7d6eb]: Commencement: Sch. 1 rule 10 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-6850b82bc9be86bf486747f9b3085988]: Textual amendment: Words in [sch. 1 rule 10(1)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/10/1) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [6(a)](https://www.legislation.gov.uk/ssi/2020/239/article/6/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-6850b82bc9be86bf486747f9b3085988]: Textual amendment: Words in [sch. 1 rule 10(1)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/10/1) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [6(a)](https://www.legislation.gov.uk/ssi/2020/239/article/6/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-410c4b5bad8e8a13e12c22e80a427363]: Textual amendment: Word in [sch. 1 rule 10(2)(a)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/10/2/a) omitted (9.9.2020) by virtue of [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [6(b)](https://www.legislation.gov.uk/ssi/2020/239/article/6/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-410c4b5bad8e8a13e12c22e80a427363]: Textual amendment: Word in [sch. 1 rule 10(2)(a)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/10/2/a) omitted (9.9.2020) by virtue of [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [6(b)](https://www.legislation.gov.uk/ssi/2020/239/article/6/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-1d844cbfb351262d7587721386995b82]: Textual amendment: [Sch. 1 rule 10(2)(c)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/10/2/c) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [6(c)](https://www.legislation.gov.uk/ssi/2020/239/article/6/c) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-1d844cbfb351262d7587721386995b82]: Textual amendment: [Sch. 1 rule 10(2)(c)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/10/2/c) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [6(c)](https://www.legislation.gov.uk/ssi/2020/239/article/6/c) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-7c266f52eb8e9cf354053c379b6ac2ac]: Commencement: Sch. 1 rule 11 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-7c266f52eb8e9cf354053c379b6ac2ac]: Commencement: Sch. 1 rule 11 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-584083e27b58af6194dea4eb194e7afa]: Textual amendment: [Sch. 1 rule 11A](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/11A) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [7](https://www.legislation.gov.uk/ssi/2020/239/article/7) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-584083e27b58af6194dea4eb194e7afa]: Textual amendment: [Sch. 1 rule 11A](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/11A) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [7](https://www.legislation.gov.uk/ssi/2020/239/article/7) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-4d1ea0a17849220d6737ad40f916548a]: Commencement: Sch. 1 rule 12 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-4d1ea0a17849220d6737ad40f916548a]: Commencement: Sch. 1 rule 12 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-1b7c2c8b546b4afa1a2e656eae00aa8d]: Commencement: Sch. 1 rule 13 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-1b7c2c8b546b4afa1a2e656eae00aa8d]: Commencement: Sch. 1 rule 13 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-04fd720a3bf47cffe5e7abdac3cac9c1]: Commencement: Sch. 1 rule 14 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-04fd720a3bf47cffe5e7abdac3cac9c1]: Commencement: Sch. 1 rule 14 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-dc9007147729ce5bf3ff7e67b0164a41]: Textual amendment: Word in [sch. 1 rule 14(2)(a)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/14/2/a) omitted (9.9.2020) by virtue of [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [8(a)](https://www.legislation.gov.uk/ssi/2020/239/article/8/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-dc9007147729ce5bf3ff7e67b0164a41]: Textual amendment: Word in [sch. 1 rule 14(2)(a)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/14/2/a) omitted (9.9.2020) by virtue of [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [8(a)](https://www.legislation.gov.uk/ssi/2020/239/article/8/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-40fca214e2bd2d3e8b59122e4cb79f57]: Textual amendment: [Sch. 1 rule 14(2)(aa)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/14/2/aa), [(ab)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/14/2/ab) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [8(b)](https://www.legislation.gov.uk/ssi/2020/239/article/8/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-40fca214e2bd2d3e8b59122e4cb79f57]: Textual amendment: [Sch. 1 rule 14(2)(aa)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/14/2/aa), [(ab)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/14/2/ab) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [8(b)](https://www.legislation.gov.uk/ssi/2020/239/article/8/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-71b842da1a45d0560dcd132740816685]: Textual amendment: Words in [sch. 1 rule 14(2)(ab)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/paragraph/14/2/ab) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 36(2)(c)](https://www.legislation.gov.uk/asp/2025/4/section/36/2/c), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-71b842da1a45d0560dcd132740816685]: Textual amendment: Words in [sch. 1 rule 14(2)(ab)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/paragraph/14/2/ab) inserted (1.10.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 36(2)(c)](https://www.legislation.gov.uk/asp/2025/4/section/36/2/c), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
 
-[^key-6cd1e945bc9924ba5d0d604274155859]: Commencement: Sch. 1 rule 15 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-6cd1e945bc9924ba5d0d604274155859]: Commencement: Sch. 1 rule 15 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-306ed703d701f5c7159895ad00e87f15]: Commencement: Sch. 1 rule 16 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-306ed703d701f5c7159895ad00e87f15]: Commencement: Sch. 1 rule 16 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-280266d32061f0bc974edb0d05bab2d1]: Commencement: Sch. 1 rule 17 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-280266d32061f0bc974edb0d05bab2d1]: Commencement: Sch. 1 rule 17 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-9994cb172eabae64ee84b05f7ee3241b]: Commencement: Sch. 1 rule 18 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-9994cb172eabae64ee84b05f7ee3241b]: Commencement: Sch. 1 rule 18 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
 [^f00025]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44). Section 135 was amended by section 3 of the School Education (Ministerial Powers and paragraph 3(9) of schedule 2 to the Independent Schools) (Scotland) Act [2004 (asp 12)](https://www.legislation.gov.uk/asp/2004/12) and the Standards in Scotland’s Schools etc. Act [2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6).
 
-[^key-295e37fdd188b68656d466299565daa7]: Commencement: Sch. 1 rule 19 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-295e37fdd188b68656d466299565daa7]: Commencement: Sch. 1 rule 19 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
 [^f00026]: Footnote: Sections 13, 13A and 13B were substituted by the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2), Schedule 1, paragraph 6 and are amended by the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22), section 11 and Schedule 1(2) paragraph 32 and by the Political Parties and Elections Act [2009 (c.12)](https://www.legislation.gov.uk/ukpga/2009/12), section 23 and Schedule 6, paragraphs 2 and 3. Section 13BB was inserted by the Political Parties and Elections Act 2009, section 23(1). There are other amendments that are not relevant for the purposes of this Order.
 
-[^key-df5750a2d817a11311cd96e0e5b71728]: Commencement: Sch. 1 rule 20 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-df5750a2d817a11311cd96e0e5b71728]: Commencement: Sch. 1 rule 20 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-f62fd55deee35816dcf0d280056ab621]: Commencement: Sch. 1 rule 21 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-f62fd55deee35816dcf0d280056ab621]: Commencement: Sch. 1 rule 21 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-37f5ecd5ac4b368d881ea799d601c9a6]: Commencement: Sch. 1 rule 22 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-37f5ecd5ac4b368d881ea799d601c9a6]: Commencement: Sch. 1 rule 22 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-434995f6ea127d3f3155c8e043ae8cfa]: Commencement: Sch. 1 rule 23 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-434995f6ea127d3f3155c8e043ae8cfa]: Commencement: Sch. 1 rule 23 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-0a8bfd1e68c489df319f116dc8835b83]: Textual amendment: Words in [sch. 1 rule 23(1)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/23/1) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment Order 2016 (S.S.I. 2016/7)](https://www.legislation.gov.uk/ssi/2016/7), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/7/article/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2016/7/article/2/a)
+[^c-0a8bfd1e68c489df319f116dc8835b83]: Textual amendment: Words in [sch. 1 rule 23(1)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/23/1) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment Order 2016 (S.S.I. 2016/7)](https://www.legislation.gov.uk/ssi/2016/7), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/7/article/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2016/7/article/2/a)
 
-[^key-6b2fbe43921a4b8a234200ea25de1f70]: Commencement: Sch. 1 rule 24 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-6b2fbe43921a4b8a234200ea25de1f70]: Commencement: Sch. 1 rule 24 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-c6525fce96fd6e42ad146a58e5889d72]: Textual amendment: Words in [sch. 1 rule 24(1)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/24/1) substituted (2.2.2022) by [The Scottish Local Government Elections Amendment Order 2022 (S.S.I. 2022/38)](https://www.legislation.gov.uk/ssi/2022/38), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2022/38/article/1/2), [4](https://www.legislation.gov.uk/ssi/2022/38/article/4) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2022/38/article/1/3))
+[^c-c6525fce96fd6e42ad146a58e5889d72]: Textual amendment: Words in [sch. 1 rule 24(1)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/24/1) substituted (2.2.2022) by [The Scottish Local Government Elections Amendment Order 2022 (S.S.I. 2022/38)](https://www.legislation.gov.uk/ssi/2022/38), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2022/38/article/1/2), [4](https://www.legislation.gov.uk/ssi/2022/38/article/4) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2022/38/article/1/3))
 
-[^key-788ac2e5ff3cfa95a366aae9beea3b2d]: Textual amendment: [Sch. 1 rule 24(3A)(3B)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/24/3A/3B) inserted (25.11.2021) by [The Scottish Local Government Elections Amendment Order 2021 (S.S.I. 2021/437)](https://www.legislation.gov.uk/ssi/2021/437), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/437/article/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2021/437/article/2/3) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2021/437/article/1/3))
+[^c-788ac2e5ff3cfa95a366aae9beea3b2d]: Textual amendment: [Sch. 1 rule 24(3A)(3B)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/24/3A/3B) inserted (25.11.2021) by [The Scottish Local Government Elections Amendment Order 2021 (S.S.I. 2021/437)](https://www.legislation.gov.uk/ssi/2021/437), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/437/article/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2021/437/article/2/3) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2021/437/article/1/3))
 
-[^key-786130132363fbdc33834602f4b38706]: Commencement: Sch. 1 rule 25 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-786130132363fbdc33834602f4b38706]: Commencement: Sch. 1 rule 25 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-8ee915c9cee8b3f7b4d839d1190a61f3]: Textual amendment: Words in [sch. 1 rule 25(4)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/25/4) omitted (8.11.2016) by virtue of [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2016/354/article/3/a/i) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
+[^c-8ee915c9cee8b3f7b4d839d1190a61f3]: Textual amendment: Words in [sch. 1 rule 25(4)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/25/4) omitted (8.11.2016) by virtue of [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(a)(i)](https://www.legislation.gov.uk/ssi/2016/354/article/3/a/i) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
 
-[^key-d4703807bcaa7c3246ef46c1110264c6]: Textual amendment: [Sch. 1 rule 25(4A)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/25/4A) inserted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2016/354/article/3/a/ii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
+[^c-d4703807bcaa7c3246ef46c1110264c6]: Textual amendment: [Sch. 1 rule 25(4A)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/25/4A) inserted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2016/354/article/3/a/ii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
 
-[^key-ebec31308808c78b6128e089390c5b14]: Commencement: Sch. 1 rule 26 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-ebec31308808c78b6128e089390c5b14]: Commencement: Sch. 1 rule 26 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-907f1689faba7b3a60bddb04f9bd4ec2]: Commencement: Sch. 1 rule 27 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-907f1689faba7b3a60bddb04f9bd4ec2]: Commencement: Sch. 1 rule 27 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
 [^f00027]: Footnote: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41); sections 6A to 6D were inserted by section 29 of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22) and amended by section 11 of the [Local Electoral Administration (Scotland) Act 2011 (asp 10)](https://www.legislation.gov.uk/asp/2011/10).
 
-[^key-daa9f39e68db553cf5cc2387f829c378]: Textual amendment: Words in [sch. 1 rule 27(11)(b)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/27/11/b) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment Order 2016 (S.S.I. 2016/7)](https://www.legislation.gov.uk/ssi/2016/7), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/7/article/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2016/7/article/2/b)
+[^c-daa9f39e68db553cf5cc2387f829c378]: Textual amendment: Words in [sch. 1 rule 27(11)(b)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/27/11/b) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment Order 2016 (S.S.I. 2016/7)](https://www.legislation.gov.uk/ssi/2016/7), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/7/article/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2016/7/article/2/b)
 
-[^key-7375bde1c2ce5c2eb6910cbdde3d1590]: Commencement: Sch. 1 rule 28 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-7375bde1c2ce5c2eb6910cbdde3d1590]: Commencement: Sch. 1 rule 28 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-dc07f2cc422313c964b15bde1c757dc4]: Textual amendment: Words in [sch. 1 rule 28(1)(b)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/28/1/b) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment Order 2016 (S.S.I. 2016/7)](https://www.legislation.gov.uk/ssi/2016/7), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/7/article/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2016/7/article/2/c)
+[^c-dc07f2cc422313c964b15bde1c757dc4]: Textual amendment: Words in [sch. 1 rule 28(1)(b)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/28/1/b) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment Order 2016 (S.S.I. 2016/7)](https://www.legislation.gov.uk/ssi/2016/7), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/7/article/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2016/7/article/2/c)
 
-[^key-fd48b9adfd4c5f1da07cee91d0dffc07]: Textual amendment: Words in [sch. 1 rule 28(2)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/28/2) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment Order 2016 (S.S.I. 2016/7)](https://www.legislation.gov.uk/ssi/2016/7), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/7/article/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2016/7/article/2/c)
+[^c-fd48b9adfd4c5f1da07cee91d0dffc07]: Textual amendment: Words in [sch. 1 rule 28(2)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/28/2) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment Order 2016 (S.S.I. 2016/7)](https://www.legislation.gov.uk/ssi/2016/7), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/7/article/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2016/7/article/2/c)
 
-[^key-6fcf6f70330244614f5904646543b63c]: Commencement: Sch. 1 rule 29 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-6fcf6f70330244614f5904646543b63c]: Commencement: Sch. 1 rule 29 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-227230e2dc4a980d9f6852235f140ca5]: Commencement: Sch. 1 rule 30 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-227230e2dc4a980d9f6852235f140ca5]: Commencement: Sch. 1 rule 30 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-35ca06273e04931a0606dd3a2063131e]: Commencement: Sch. 1 rule 31 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-35ca06273e04931a0606dd3a2063131e]: Commencement: Sch. 1 rule 31 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-aa96eb447cf44ded0edc9068853a2dd4]: Commencement: Sch. 1 rule 32 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-aa96eb447cf44ded0edc9068853a2dd4]: Commencement: Sch. 1 rule 32 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-b0aa8c01fed793f422964e70f9b00510]: Commencement: Sch. 1 rule 33 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-b0aa8c01fed793f422964e70f9b00510]: Commencement: Sch. 1 rule 33 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-eb2830fc6b4f191c045baf03dc0e83cb]: Commencement: Sch. 1 rule 34 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-eb2830fc6b4f191c045baf03dc0e83cb]: Commencement: Sch. 1 rule 34 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-29becea36a1ba19553f84589941f44ed]: Commencement: Sch. 1 rule 35 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-29becea36a1ba19553f84589941f44ed]: Commencement: Sch. 1 rule 35 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-315f988409c96e10ac2c875af0c3f4a5]: Textual amendment: Words in [sch. 1 rule 35(3)(b)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/35/3/b) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment Order 2016 (S.S.I. 2016/7)](https://www.legislation.gov.uk/ssi/2016/7), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/7/article/1/1), [2(d)](https://www.legislation.gov.uk/ssi/2016/7/article/2/d)
+[^c-315f988409c96e10ac2c875af0c3f4a5]: Textual amendment: Words in [sch. 1 rule 35(3)(b)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/35/3/b) substituted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment Order 2016 (S.S.I. 2016/7)](https://www.legislation.gov.uk/ssi/2016/7), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/7/article/1/1), [2(d)](https://www.legislation.gov.uk/ssi/2016/7/article/2/d)
 
-[^key-87710e5ba7fa8d709d1f5c47f0c6b9d6]: Commencement: Sch. 1 rule 36 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-87710e5ba7fa8d709d1f5c47f0c6b9d6]: Commencement: Sch. 1 rule 36 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-17ae990dc4410ba3bbb7839043a2e5bc]: Commencement: Sch. 1 rule 37 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-17ae990dc4410ba3bbb7839043a2e5bc]: Commencement: Sch. 1 rule 37 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-26679ed8e222dfc99d2174729d284125]: Commencement: Sch. 1 rule 38 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-26679ed8e222dfc99d2174729d284125]: Commencement: Sch. 1 rule 38 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-f73ac4ddbf73aed6d8491eb3d5e72c3e]: Commencement: Sch. 1 rule 39 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-f73ac4ddbf73aed6d8491eb3d5e72c3e]: Commencement: Sch. 1 rule 39 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-3ac5aafdfb9cfbb1dcd150ecf0a00766]: Commencement: Sch. 1 rule 40 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-3ac5aafdfb9cfbb1dcd150ecf0a00766]: Commencement: Sch. 1 rule 40 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-84b76a83559659e39104904d5b9ff8fe]: Commencement: Sch. 1 rule 41 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-84b76a83559659e39104904d5b9ff8fe]: Commencement: Sch. 1 rule 41 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-b711c342b56a131ca02690e0a9278b92]: Textual amendment: [Sch. 1 rule 41(1A)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/41/1A) inserted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment Order 2016 (S.S.I. 2016/7)](https://www.legislation.gov.uk/ssi/2016/7), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/7/article/1/1), [2(e)](https://www.legislation.gov.uk/ssi/2016/7/article/2/e)
+[^c-b711c342b56a131ca02690e0a9278b92]: Textual amendment: [Sch. 1 rule 41(1A)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/41/1A) inserted (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment Order 2016 (S.S.I. 2016/7)](https://www.legislation.gov.uk/ssi/2016/7), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/7/article/1/1), [2(e)](https://www.legislation.gov.uk/ssi/2016/7/article/2/e)
 
-[^key-ebe69dd69b7ed25b78ae2cce698e291b]: Commencement: Sch. 1 rule 42 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-ebe69dd69b7ed25b78ae2cce698e291b]: Commencement: Sch. 1 rule 42 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-a6498743cf1534be8b5dfb1d5d5067c2]: Commencement: Sch. 1 rule 43 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-a6498743cf1534be8b5dfb1d5d5067c2]: Commencement: Sch. 1 rule 43 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-85d5ee8cc0a3ce5a074ba8d92c4ec410]: Textual amendment: Words in [sch. 1 rule 43(1)(b)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/43/1/b) omitted (8.11.2016) by virtue of [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(b)(i)](https://www.legislation.gov.uk/ssi/2016/354/article/3/b/i) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
+[^c-85d5ee8cc0a3ce5a074ba8d92c4ec410]: Textual amendment: Words in [sch. 1 rule 43(1)(b)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/43/1/b) omitted (8.11.2016) by virtue of [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(b)(i)](https://www.legislation.gov.uk/ssi/2016/354/article/3/b/i) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
 
-[^key-18fcf981949c6b4209a80df8da26d4a6]: Textual amendment: Words in [sch. 1 rule 43(5)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/43/5) substituted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(b)(ii)](https://www.legislation.gov.uk/ssi/2016/354/article/3/b/ii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
+[^c-18fcf981949c6b4209a80df8da26d4a6]: Textual amendment: Words in [sch. 1 rule 43(5)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/43/5) substituted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(b)(ii)](https://www.legislation.gov.uk/ssi/2016/354/article/3/b/ii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
 
-[^key-66b5e9aae685600178b21fc33cd338aa]: Textual amendment: Words in [sch. 1 rule 43(5)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/43/5) substituted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(b)(iii)](https://www.legislation.gov.uk/ssi/2016/354/article/3/b/iii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
+[^c-66b5e9aae685600178b21fc33cd338aa]: Textual amendment: Words in [sch. 1 rule 43(5)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/43/5) substituted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(b)(iii)](https://www.legislation.gov.uk/ssi/2016/354/article/3/b/iii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
 
-[^key-955a280a88001b42e59d5e7f7c257caa]: Commencement: Sch. 1 rule 44 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-955a280a88001b42e59d5e7f7c257caa]: Commencement: Sch. 1 rule 44 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-60e2996eca40d28f3cfad1e9a9794f8e]: Textual amendment: Words in [sch. 1 rule 44(1)(a)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/44/1/a) inserted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(c)](https://www.legislation.gov.uk/ssi/2016/354/article/3/c) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
+[^c-60e2996eca40d28f3cfad1e9a9794f8e]: Textual amendment: Words in [sch. 1 rule 44(1)(a)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/44/1/a) inserted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(c)](https://www.legislation.gov.uk/ssi/2016/354/article/3/c) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
 
-[^key-4916d5edbcecf914bb6a6c2bb1bd4f48]: Commencement: Sch. 1 rule 45 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-4916d5edbcecf914bb6a6c2bb1bd4f48]: Commencement: Sch. 1 rule 45 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-1f4ff73b8002be3b7594044c6372edc5]: Commencement: Sch. 1 rule 46 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-1f4ff73b8002be3b7594044c6372edc5]: Commencement: Sch. 1 rule 46 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-e39ee8299e18e0dda080d50f37235a31]: Commencement: Sch. 1 rule 47 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-e39ee8299e18e0dda080d50f37235a31]: Commencement: Sch. 1 rule 47 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-d9a4e7dc7535bee4d6ba3a8715546f75]: Commencement: Sch. 1 rule 48 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-d9a4e7dc7535bee4d6ba3a8715546f75]: Commencement: Sch. 1 rule 48 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-37c4df9d6a9e9e2c6c2edfeccad50d98]: Commencement: Sch. 1 rule 49 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-37c4df9d6a9e9e2c6c2edfeccad50d98]: Commencement: Sch. 1 rule 49 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-d3f70ba410b1d908e391f53a086993cd]: Commencement: Sch. 1 rule 50 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-d3f70ba410b1d908e391f53a086993cd]: Commencement: Sch. 1 rule 50 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-c6ad97729a4acfb5e52ba850e695fbdc]: Commencement: Sch. 1 rule 51 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-c6ad97729a4acfb5e52ba850e695fbdc]: Commencement: Sch. 1 rule 51 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-173f906d11d9fd7be3cb30cd282778e1]: Commencement: Sch. 1 rule 52 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-173f906d11d9fd7be3cb30cd282778e1]: Commencement: Sch. 1 rule 52 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-45f15230376ec4bff3e1e5b263c9888b]: Commencement: Sch. 1 rule 53 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-45f15230376ec4bff3e1e5b263c9888b]: Commencement: Sch. 1 rule 53 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-ea424a8e89ee8b85f16a74682c0ac354]: Textual amendment: Words in [sch. 1 rule 53(2)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/53/2) substituted (25.11.2021) by [The Scottish Local Government Elections Amendment Order 2021 (S.S.I. 2021/437)](https://www.legislation.gov.uk/ssi/2021/437), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/437/article/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2021/437/article/2/4) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2021/437/article/1/3))
+[^c-ea424a8e89ee8b85f16a74682c0ac354]: Textual amendment: Words in [sch. 1 rule 53(2)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/53/2) substituted (25.11.2021) by [The Scottish Local Government Elections Amendment Order 2021 (S.S.I. 2021/437)](https://www.legislation.gov.uk/ssi/2021/437), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2021/437/article/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2021/437/article/2/4) (with [art. 1(3)](https://www.legislation.gov.uk/ssi/2021/437/article/1/3))
 
-[^key-c0bc670691bb8614f7df63fe34365fb0]: Commencement: Sch. 1 rule 54 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-c0bc670691bb8614f7df63fe34365fb0]: Commencement: Sch. 1 rule 54 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-0b64076582b84639d0fff2d8e07112e5]: Commencement: Sch. 1 rule 55 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-0b64076582b84639d0fff2d8e07112e5]: Commencement: Sch. 1 rule 55 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-a648021495bc5cea8f5ed522b0d47100]: Textual amendment: [Sch. 1 rule 55(ca)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/55/ca) inserted (with effect in accordance with art. 1(2)(3) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment (No. 2) Order 2012 (S.S.I. 2012/342)](https://www.legislation.gov.uk/ssi/2012/342), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/342/article/1/1), [4](https://www.legislation.gov.uk/ssi/2012/342/article/4)
+[^c-a648021495bc5cea8f5ed522b0d47100]: Textual amendment: [Sch. 1 rule 55(ca)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/55/ca) inserted (with effect in accordance with art. 1(2)(3) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment (No. 2) Order 2012 (S.S.I. 2012/342)](https://www.legislation.gov.uk/ssi/2012/342), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/342/article/1/1), [4](https://www.legislation.gov.uk/ssi/2012/342/article/4)
 
-[^key-ab1bc101548cf656879f3043b353d095]: Commencement: Sch. 1 rule 56 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-ab1bc101548cf656879f3043b353d095]: Commencement: Sch. 1 rule 56 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-f3502c054785798a8ee1f424b5777cbb]: Textual amendment: [Sch. 1 rule 56(c)(va)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/56/c/va) inserted (with effect in accordance with art. 1(2)(3) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment (No. 2) Order 2012 (S.S.I. 2012/342)](https://www.legislation.gov.uk/ssi/2012/342), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/342/article/1/1), [5](https://www.legislation.gov.uk/ssi/2012/342/article/5) (with [art. 6(2)](https://www.legislation.gov.uk/ssi/2012/342/article/6/2))
+[^c-f3502c054785798a8ee1f424b5777cbb]: Textual amendment: [Sch. 1 rule 56(c)(va)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/56/c/va) inserted (with effect in accordance with art. 1(2)(3) of the amending S.S.I.) by [The Scottish Local Government Elections Amendment (No. 2) Order 2012 (S.S.I. 2012/342)](https://www.legislation.gov.uk/ssi/2012/342), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/342/article/1/1), [5](https://www.legislation.gov.uk/ssi/2012/342/article/5) (with [art. 6(2)](https://www.legislation.gov.uk/ssi/2012/342/article/6/2))
 
-[^key-d47a246c6f710e199d55e734f643f23d]: Commencement: Sch. 1 rule 57 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-d47a246c6f710e199d55e734f643f23d]: Commencement: Sch. 1 rule 57 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-d999d2275eb8b1f14112671ed5add733]: Commencement: Sch. 1 rule 58 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-d999d2275eb8b1f14112671ed5add733]: Commencement: Sch. 1 rule 58 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-36915281dfd914c642e16bdedc8e7a32]: Commencement: Sch. 1 rule 59 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-36915281dfd914c642e16bdedc8e7a32]: Commencement: Sch. 1 rule 59 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-c88d1a75b7e816c0327e9ce270adf898]: Commencement: Sch. 1 rule 60 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-c88d1a75b7e816c0327e9ce270adf898]: Commencement: Sch. 1 rule 60 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-14a5ab139ba2a913db1ec34da91ea851]: Textual amendment: [Sch. 1 rule 60A](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/60A) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [9](https://www.legislation.gov.uk/ssi/2020/239/article/9) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-14a5ab139ba2a913db1ec34da91ea851]: Textual amendment: [Sch. 1 rule 60A](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/60A) inserted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [9](https://www.legislation.gov.uk/ssi/2020/239/article/9) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-170b825025a2f4cba5023a93aee361b2]: Commencement: Sch. 1 rule 61 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-170b825025a2f4cba5023a93aee361b2]: Commencement: Sch. 1 rule 61 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-093c688f69280f252dc1e21a1c5eac64]: Textual amendment: Words in [sch. 1 rule 61(1)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/61/1) substituted (24.2.2012) by [The Scottish Local Government Elections Amendment Order 2012 (S.S.I. 2012/60)](https://www.legislation.gov.uk/ssi/2012/60), [arts. 1](https://www.legislation.gov.uk/ssi/2012/60/article/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2012/60/article/2/3/a)
+[^c-093c688f69280f252dc1e21a1c5eac64]: Textual amendment: Words in [sch. 1 rule 61(1)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/61/1) substituted (24.2.2012) by [The Scottish Local Government Elections Amendment Order 2012 (S.S.I. 2012/60)](https://www.legislation.gov.uk/ssi/2012/60), [arts. 1](https://www.legislation.gov.uk/ssi/2012/60/article/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2012/60/article/2/3/a)
 
-[^key-188ae9a7dbbd195bafe20674502f8f5b]: Textual amendment: [Sch. 1 rule 61(2)(b)-(e)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/61/2/b) omitted (24.2.2012) by virtue of [The Scottish Local Government Elections Amendment Order 2012 (S.S.I. 2012/60)](https://www.legislation.gov.uk/ssi/2012/60), [arts. 1](https://www.legislation.gov.uk/ssi/2012/60/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2012/60/article/2/3/b)
+[^c-188ae9a7dbbd195bafe20674502f8f5b]: Textual amendment: [Sch. 1 rule 61(2)(b)-(e)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/61/2/b) omitted (24.2.2012) by virtue of [The Scottish Local Government Elections Amendment Order 2012 (S.S.I. 2012/60)](https://www.legislation.gov.uk/ssi/2012/60), [arts. 1](https://www.legislation.gov.uk/ssi/2012/60/article/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2012/60/article/2/3/b)
 
-[^key-d75d7c68a2ee23b27e64b2337129922e]: Textual amendment: [Sch. 1 rule 61(2A)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/61/2A) inserted (24.2.2012) by [The Scottish Local Government Elections Amendment Order 2012 (S.S.I. 2012/60)](https://www.legislation.gov.uk/ssi/2012/60), [arts. 1](https://www.legislation.gov.uk/ssi/2012/60/article/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2012/60/article/2/3/c)
+[^c-d75d7c68a2ee23b27e64b2337129922e]: Textual amendment: [Sch. 1 rule 61(2A)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/61/2A) inserted (24.2.2012) by [The Scottish Local Government Elections Amendment Order 2012 (S.S.I. 2012/60)](https://www.legislation.gov.uk/ssi/2012/60), [arts. 1](https://www.legislation.gov.uk/ssi/2012/60/article/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2012/60/article/2/3/c)
 
-[^key-705cd6fd3423265f698a6a52d7124a6d]: Textual amendment: [Sch. 1 rule 61(4)(5)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/61/4/5) omitted (24.2.2012) by virtue of The Scottish Local Government Elections Amendment Order 2012 ([S.S.I. 2012/60](https://www.legislation.gov.uk/ssi/2012/60)), arts. 1, 2(3)(d)
+[^c-705cd6fd3423265f698a6a52d7124a6d]: Textual amendment: [Sch. 1 rule 61(4)(5)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/rule/61/4/5) omitted (24.2.2012) by virtue of The Scottish Local Government Elections Amendment Order 2012 ([S.S.I. 2012/60](https://www.legislation.gov.uk/ssi/2012/60)), arts. 1, 2(3)(d)
 
-[^key-1c52d2a8a2d1391102ebc07b8818eeb8]: Textual amendment: Words in [sch. 1 rule 61(7)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/61/7) omitted (24.2.2012) by virtue of [The Scottish Local Government Elections Amendment Order 2012 (S.S.I. 2012/60)](https://www.legislation.gov.uk/ssi/2012/60), [arts. 1](https://www.legislation.gov.uk/ssi/2012/60/article/1), [2(3)(e)](https://www.legislation.gov.uk/ssi/2012/60/article/2/3/e)
+[^c-1c52d2a8a2d1391102ebc07b8818eeb8]: Textual amendment: Words in [sch. 1 rule 61(7)](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/article/61/7) omitted (24.2.2012) by virtue of [The Scottish Local Government Elections Amendment Order 2012 (S.S.I. 2012/60)](https://www.legislation.gov.uk/ssi/2012/60), [arts. 1](https://www.legislation.gov.uk/ssi/2012/60/article/1), [2(3)(e)](https://www.legislation.gov.uk/ssi/2012/60/article/2/3/e)
 
-[^key-3b1f114663d1e75a421488efce5e5f93]: Commencement: Sch. 1 rule 62 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-3b1f114663d1e75a421488efce5e5f93]: Commencement: Sch. 1 rule 62 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-1936b4444cf79e315e26fac59c03fbf8]: Commencement: Sch. 1 rule 63 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-1936b4444cf79e315e26fac59c03fbf8]: Commencement: Sch. 1 rule 63 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-22b1de18add969f1321ff32c4cbc1ff3]: Commencement: Sch. 1 rule 64 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-22b1de18add969f1321ff32c4cbc1ff3]: Commencement: Sch. 1 rule 64 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-d336e028dcc2e4b03c1ae5225e2bf4c5]: Commencement: Sch. 1 rule 65 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-d336e028dcc2e4b03c1ae5225e2bf4c5]: Commencement: Sch. 1 rule 65 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-30bb23f79c61d7a405a3abb8cc6d9dca]: Commencement: Sch. 1 rule 66 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-30bb23f79c61d7a405a3abb8cc6d9dca]: Commencement: Sch. 1 rule 66 in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-7d1f989b725b4a1748a65c76a1b9e405]: Commencement: [Sch. 1 Pt. VII](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
+[^c-7d1f989b725b4a1748a65c76a1b9e405]: Commencement: [Sch. 1 Pt. VII](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) in force at 10.11.2011 except for the purposes of any election to be held on or before 2.5.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/399/article/1/1)
 
-[^key-e8352485627dcafcc3f395930861be5e]: Textual amendment: Sch. 1 Pt. 7 Form 1 substituted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(d)(i)](https://www.legislation.gov.uk/ssi/2016/354/article/3/d/i) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
+[^c-e8352485627dcafcc3f395930861be5e]: Textual amendment: Sch. 1 Pt. 7 Form 1 substituted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(d)(i)](https://www.legislation.gov.uk/ssi/2016/354/article/3/d/i) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
 
-[^key-84aeecca49c297063c31fccb8f4bc466]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) Form 2 substituted (15.5.2023) by [The Scottish Local Government Elections Amendment Regulations 2023 (S.S.I. 2023/81)](https://www.legislation.gov.uk/ssi/2023/81), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/81/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2023/81/schedule) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/81/regulation/1/2))
+[^c-84aeecca49c297063c31fccb8f4bc466]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) Form 2 substituted (15.5.2023) by [The Scottish Local Government Elections Amendment Regulations 2023 (S.S.I. 2023/81)](https://www.legislation.gov.uk/ssi/2023/81), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/81/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2023/81/schedule) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/81/regulation/1/2))
 
-[^key-97be428158975542e53907192ec18cc3]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) Form 3 substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [10(b)](https://www.legislation.gov.uk/ssi/2020/239/article/10/b), [sch.](https://www.legislation.gov.uk/ssi/2020/239/schedule) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-97be428158975542e53907192ec18cc3]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) Form 3 substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [10(b)](https://www.legislation.gov.uk/ssi/2020/239/article/10/b), [sch.](https://www.legislation.gov.uk/ssi/2020/239/schedule) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-6aa46554abcd35045a2c07a24552b755]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) Form 4 substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [10(c)](https://www.legislation.gov.uk/ssi/2020/239/article/10/c), [sch.](https://www.legislation.gov.uk/ssi/2020/239/schedule) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-6aa46554abcd35045a2c07a24552b755]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) Form 4 substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [10(c)](https://www.legislation.gov.uk/ssi/2020/239/article/10/c), [sch.](https://www.legislation.gov.uk/ssi/2020/239/schedule) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-eaba21874aa1a330a18405b7ebdd4be4]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) Form 5 substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [10(d)](https://www.legislation.gov.uk/ssi/2020/239/article/10/d), [sch.](https://www.legislation.gov.uk/ssi/2020/239/schedule) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-eaba21874aa1a330a18405b7ebdd4be4]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) Form 5 substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [10(d)](https://www.legislation.gov.uk/ssi/2020/239/article/10/d), [sch.](https://www.legislation.gov.uk/ssi/2020/239/schedule) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-72386e7b4b20e8b644c6bc293fe451ba]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) Form 7 substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [10(e)](https://www.legislation.gov.uk/ssi/2020/239/article/10/e), [sch.](https://www.legislation.gov.uk/ssi/2020/239/schedule) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
+[^c-72386e7b4b20e8b644c6bc293fe451ba]: Textual amendment: [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ssi/2011/399/schedule/1/part/VII) Form 7 substituted (9.9.2020) by [The Scottish Local Government Elections Amendment Order 2020 (S.S.I. 2020/239)](https://www.legislation.gov.uk/ssi/2020/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/239/article/1/1), [10(e)](https://www.legislation.gov.uk/ssi/2020/239/article/10/e), [sch.](https://www.legislation.gov.uk/ssi/2020/239/schedule) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/239/article/1/2))
 
-[^key-31caf2799a97ebd10d12e9a8820eb905]: Textual amendment: Sch. 1 Pt. 7 Forms 8-12 substituted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(d)(i)](https://www.legislation.gov.uk/ssi/2016/354/article/3/d/i) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
+[^c-31caf2799a97ebd10d12e9a8820eb905]: Textual amendment: Sch. 1 Pt. 7 Forms 8-12 substituted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(d)(i)](https://www.legislation.gov.uk/ssi/2016/354/article/3/d/i) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
 
-[^key-e801ab2f11a2553cdaf745b4b17d1e69]: Textual amendment: Sch. 1 Pt. 7 Forms 13, 13A substituted for Form 13 (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(d)(ii)](https://www.legislation.gov.uk/ssi/2016/354/article/3/d/ii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
+[^c-e801ab2f11a2553cdaf745b4b17d1e69]: Textual amendment: Sch. 1 Pt. 7 Forms 13, 13A substituted for Form 13 (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(d)(ii)](https://www.legislation.gov.uk/ssi/2016/354/article/3/d/ii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
 
-[^key-519d010659f46674483109cd390636ed]: Textual amendment: Sch. 1 Pt. 7 Form 14 substituted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(d)(iii)](https://www.legislation.gov.uk/ssi/2016/354/article/3/d/iii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
+[^c-519d010659f46674483109cd390636ed]: Textual amendment: Sch. 1 Pt. 7 Form 14 substituted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(d)(iii)](https://www.legislation.gov.uk/ssi/2016/354/article/3/d/iii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
 
-[^key-62756ef5d84f6c0f536d7adf4cdf42b8]: Textual amendment: Sch. 1 Pt. 7 Form 15 substituted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(d)(iii)](https://www.legislation.gov.uk/ssi/2016/354/article/3/d/iii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))
+[^c-62756ef5d84f6c0f536d7adf4cdf42b8]: Textual amendment: Sch. 1 Pt. 7 Form 15 substituted (8.11.2016) by [The Scottish Local Government Elections Amendment (No. 2) Order 2016 (S.S.I. 2016/354)](https://www.legislation.gov.uk/ssi/2016/354), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/354/article/1/1), [3(d)(iii)](https://www.legislation.gov.uk/ssi/2016/354/article/3/d/iii) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2016/354/article/1/2))

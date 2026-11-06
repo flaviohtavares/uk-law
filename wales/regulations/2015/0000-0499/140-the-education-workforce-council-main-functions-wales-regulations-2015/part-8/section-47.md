@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Supply of information to registered persons and others[^key-afc1bec6be32d58ac0ba0054df61527f]
+## 47. Supply of information to registered persons and others[^c-afc1bec6be32d58ac0ba0054df61527f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afc1bec6be32d58ac0ba0054df61527f]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2015/140/regulation/47) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-afc1bec6be32d58ac0ba0054df61527f]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2015/140/regulation/47) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

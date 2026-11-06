@@ -64,7 +64,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - [Section 7 — Students becoming eligible in the course of an academic year](part-1/section-7.md)
 - [Section 8 — Events](part-1/section-8.md)
 
-#### Chapter 2A — Designation of Courses Taught or Delivered by Franchised Providers[^key-64d850d176e32a8be3b830e083ca6d73]
+#### Chapter 2A — Designation of Courses Taught or Delivered by Franchised Providers[^c-64d850d176e32a8be3b830e083ca6d73]
 
 - [Section 8A — Interpretation of Chapter 2A](part-1/section-8a.md)
 - [Section 8B — Meaning of “franchised provider”, “franchised student”, “student population”, “unregistered franchised provider”, “below-threshold franchised provider” and “qualifying franchised provider”](part-1/section-8b.md)
@@ -183,4 +183,4 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c22943821]: Marginal citation: [2008 c.10](https://www.legislation.gov.uk/ukpga/2008/10).
 
-[^key-64d850d176e32a8be3b830e083ca6d73]: Textual amendment: [Ch. 2A](https://www.legislation.gov.uk/uksi/2018/599/chapter/apte/rule/2A) inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/581/regulation/6) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))
+[^c-64d850d176e32a8be3b830e083ca6d73]: Textual amendment: [Ch. 2A](https://www.legislation.gov.uk/uksi/2018/599/chapter/apte/rule/2A) inserted (25.6.2026) by [The Education (Student Support for Postgraduate Provision) (Amendment) Regulations 2026 (S.I. 2026/581)](https://www.legislation.gov.uk/uksi/2026/581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/581/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2026/581/regulation/6) (with [regs. 13](https://www.legislation.gov.uk/uksi/2026/581/regulation/13), [14](https://www.legislation.gov.uk/uksi/2026/581/regulation/14))

@@ -27,9 +27,9 @@ summary: ''
 
 without giving to the local authority at least 24 hours’ notice of his intention to do so.
 
-(2)[^key-941c5b73ebeb891695bff89339fc4351][^key-ca32183348e09bc94cc6d0abc1872ab4] While any such work as aforesaid is being executed, all persons concerned shall permit the proper officer, or any other authorised officer, of the local authority to have free access to the work.
+(2)[^c-941c5b73ebeb891695bff89339fc4351][^c-ca32183348e09bc94cc6d0abc1872ab4] While any such work as aforesaid is being executed, all persons concerned shall permit the proper officer, or any other authorised officer, of the local authority to have free access to the work.
 
-(3)[^key-eba6168b96faf6522a88ed07d4f088c1] A person who fails to comply with this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+(3)[^c-eba6168b96faf6522a88ed07d4f088c1] A person who fails to comply with this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
 (4) This section does not apply to—
 
@@ -38,8 +38,8 @@ without giving to the local authority at least 24 hours’ notice of his intenti
 
 ## Annotations
 
-[^key-941c5b73ebeb891695bff89339fc4351]: Modification: S. 61(2)(3) excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 22 para. 2](https://www.legislation.gov.uk/ukpga/2017/7/schedule/22/paragraph/2/a)
+[^c-941c5b73ebeb891695bff89339fc4351]: Modification: S. 61(2)(3) excluded (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 22 para. 2](https://www.legislation.gov.uk/ukpga/2017/7/schedule/22/paragraph/2/a)
 
-[^key-ca32183348e09bc94cc6d0abc1872ab4]: Modification: S. 61(2) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 22 para. 2(a)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/22/paragraph/2/a)
+[^c-ca32183348e09bc94cc6d0abc1872ab4]: Modification: S. 61(2) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 22 para. 2(a)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/22/paragraph/2/a)
 
-[^key-eba6168b96faf6522a88ed07d4f088c1]: Modification: S. 61(3) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 22 para. 2(b)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/22/paragraph/2/b)
+[^c-eba6168b96faf6522a88ed07d4f088c1]: Modification: S. 61(3) excluded (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 22 para. 2(b)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/22/paragraph/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Policy statement and statement about consultation[^key-ebfc4718c65b3b3bf6a75b929e98ac1e]
+## 47. Policy statement and statement about consultation[^c-ebfc4718c65b3b3bf6a75b929e98ac1e]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebfc4718c65b3b3bf6a75b929e98ac1e]: Commencement: [S. 47](https://www.legislation.gov.uk/anaw/2015/5/section/47) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-ebfc4718c65b3b3bf6a75b929e98ac1e]: Commencement: [S. 47](https://www.legislation.gov.uk/anaw/2015/5/section/47) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

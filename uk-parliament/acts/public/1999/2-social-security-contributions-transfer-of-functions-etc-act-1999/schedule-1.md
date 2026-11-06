@@ -234,7 +234,7 @@ Section 1(1).
 **34.**[^c11211691] In section 8 of the Pension Schemes Act 1993 (meaning of “contracted-out employment”, “guaranteed minimum pension” and “minimum payment”)—
 
 - (a) in subsection (1)(b), for “Secretary of State” there is substituted “ Inland Revenue ”, and
-- (b)[^key-e66ab9c2c0fc9528b71c1a9e516911d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e66ab9c2c0fc9528b71c1a9e516911d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **35.**[^c11211701] (1) Section 9 of the Pension Schemes Act 1993 (requirements for certification of occupational pension schemes and personal pension schemes) is amended as follows.
 
@@ -275,7 +275,7 @@ Section 1(1).
 
 **42.**[^c11211771] In section 30(1) of the Pension Schemes Act 1993 (securing liability of scheme for protected rights), for “Secretary of State” there is substituted “ Inland Revenue ”.
 
-**43.**[^key-eda52b6bef0b432fa5dc71c1f567e2a1][^c11211781] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-eda52b6bef0b432fa5dc71c1f567e2a1][^c11211781] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **44.**[^c11211791] In section 33A(1) of the Pension Schemes Act 1993 (auditor or actuary to report contravention)—
 
@@ -319,7 +319,7 @@ Section 1(1).
 
 **49.**[^c11211841] In section 45(1) of the Pension Schemes Act 1993 (amount of minimum contributions), for “Secretary of State is” there is substituted “ Inland Revenue are ”.
 
-**50.**[^key-bea97cefa06997152c886839d8f0df16][^c11211851] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-bea97cefa06997152c886839d8f0df16][^c11211851] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **51.**[^c11211861] (1) Section 50 of the Pension Schemes Act 1993 (powers to approve arrangements for scheme ceasing to be certified) is amended as follows.
 
@@ -528,7 +528,7 @@ Section 1(1).
 
 [^c11211691]: Commencement: Sch. 1 para. 34 wholly in force at 1.4.1999; Sch. 1 in force for certain purposes at Royal Assent see s. 28(2)(a); Sch. 1 para. 34 in force at 1.4.1999 in so far as not already in force by [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2)
 
-[^key-e66ab9c2c0fc9528b71c1a9e516911d5]: Textual amendment: [Sch. 1 para. 34(b)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/34/b) repealed (6.4.2015) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 27(7)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/7), [30(2)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/2/b), [Sch. 7 Pt. 7](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/7); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/b/iv) (as amended (20.3.2012) by [S.I. 2012/911](https://www.legislation.gov.uk/uksi/2012/911), art. 2(d))
+[^c-e66ab9c2c0fc9528b71c1a9e516911d5]: Textual amendment: [Sch. 1 para. 34(b)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/34/b) repealed (6.4.2015) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 27(7)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/7), [30(2)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/2/b), [Sch. 7 Pt. 7](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/7); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/b/iv) (as amended (20.3.2012) by [S.I. 2012/911](https://www.legislation.gov.uk/uksi/2012/911), art. 2(d))
 
 [^c11211701]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/35) wholly in force at 1.4.1999; [Sch. 1](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1) in force for certain purposes at Royal Assent see [s. 28(2)(a)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/2/a); [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/35) in force at 1.4.1999 in so far as not already in force by [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2)
 
@@ -548,7 +548,7 @@ Section 1(1).
 
 [^c11211771]: Commencement: [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/42) wholly in force at 1.4.1999; [Sch. 1](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1) in force for certain purposes at Royal Assent see [s. 28(2)(a)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/2/a); [Sch. 1 para. 42](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/42) in force at 1.4.1999 in so far as not already in force by [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2)
 
-[^key-eda52b6bef0b432fa5dc71c1f567e2a1]: Textual amendment: [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/43) repealed (6.4.2015) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 27(7)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/7), [30(2)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/2/b), [Sch. 7 Pt. 7](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/7); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/b/iv) (as amended (20.3.2012) by [S.I. 2012/911](https://www.legislation.gov.uk/uksi/2012/911), art. 2(d))
+[^c-eda52b6bef0b432fa5dc71c1f567e2a1]: Textual amendment: [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/43) repealed (6.4.2015) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 27(7)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/7), [30(2)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/2/b), [Sch. 7 Pt. 7](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/7); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/b/iv) (as amended (20.3.2012) by [S.I. 2012/911](https://www.legislation.gov.uk/uksi/2012/911), art. 2(d))
 
 [^c11211781]: Commencement: Sch. 1 para. 43 wholly in force at 1.4.1999; Sch. 1 in force for certain purposes at Royal Assent see s. 28(2)(a); Sch. 1 para. 43 in force at 1.4.1999 insofar as not already in force by [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2)
 
@@ -564,7 +564,7 @@ Section 1(1).
 
 [^c11211841]: Commencement: [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/49) wholly in force at 1.4.1999; [Sch. 1](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1) in force for certain purposes at Royal Assent see [s. 28(2)(a)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/2/a); [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/49) in force at 1.4.1999 in so far as not already in force by [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2)
 
-[^key-bea97cefa06997152c886839d8f0df16]: Textual amendment: [Sch. 1 para. 50](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/50) repealed (6.4.2015) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 27(7)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/7), [30(2)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/2/b), [Sch. 7 Pt. 7](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/7); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/b/iv) (as amended (20.3.2012) by [S.I. 2012/911](https://www.legislation.gov.uk/uksi/2012/911), art. 2(d))
+[^c-bea97cefa06997152c886839d8f0df16]: Textual amendment: [Sch. 1 para. 50](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/50) repealed (6.4.2015) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 27(7)](https://www.legislation.gov.uk/ukpga/2007/22/section/27/7), [30(2)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/2/b), [Sch. 7 Pt. 7](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/7); [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(b)(iv)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/b/iv) (as amended (20.3.2012) by [S.I. 2012/911](https://www.legislation.gov.uk/uksi/2012/911), art. 2(d))
 
 [^c11211851]: Commencement: Sch. 1 para. 50 wholly in force at 1.4.1999; Sch. 1 in force for certain purposes at Royal Assent see s. 28(2)(a); Sch. 1 para. 50 in force at 1.4.1999 in so far as not already in force by [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2)
 

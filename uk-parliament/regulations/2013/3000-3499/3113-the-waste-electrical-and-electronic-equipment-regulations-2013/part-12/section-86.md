@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Status of a decision pending appeal[^key-7435cacf7e1192a4f5ecfbe151fde068]
+## 86. Status of a decision pending appeal[^c-7435cacf7e1192a4f5ecfbe151fde068]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ Where an appeal made under regulation 83 is pending in a case falling within reg
 
 ## Annotations
 
-[^key-7435cacf7e1192a4f5ecfbe151fde068]: Commencement: Reg. 86 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-7435cacf7e1192a4f5ecfbe151fde068]: Commencement: Reg. 86 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

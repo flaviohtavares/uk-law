@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Connections to electricity network: licence and other modifications[^key-26740505dbbe6c405db5c54fd9e2d8f6]
+## 14. Connections to electricity network: licence and other modifications[^c-26740505dbbe6c405db5c54fd9e2d8f6]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26740505dbbe6c405db5c54fd9e2d8f6]: Commencement: S. 14 in force at Royal Assent, see [s. 118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f)
+[^c-26740505dbbe6c405db5c54fd9e2d8f6]: Commencement: S. 14 in force at Royal Assent, see [s. 118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f)

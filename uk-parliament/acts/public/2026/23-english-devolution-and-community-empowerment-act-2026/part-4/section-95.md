@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Review of audit and reporting arrangements at Secretary of State’s request[^key-c6e13d283f592d05b922bc3b306eda46]
+## 95. Review of audit and reporting arrangements at Secretary of State’s request[^c-c6e13d283f592d05b922bc3b306eda46]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ In the Local Audit and Accountability Act 2014, after section 33A (inserted by s
 
 ## Annotations
 
-[^key-c6e13d283f592d05b922bc3b306eda46]: Commencement: S. 95 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-c6e13d283f592d05b922bc3b306eda46]: Commencement: S. 95 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

@@ -24,13 +24,13 @@ summary: ''
 
 (2) Paragraph (1) does not apply unless—
 
-- (a)[^key-3a8425a56350072628fd4bbbbff49a59] the claimant was sent a further request at least three weeks after the date of the first request;
-- (b) [^key-90c733e923b01d128a5bda930d1cfb59]... at least 1 week has[^key-14df068334bacf0c4475ffcdc656d13d] passed since the further request was sent.
+- (a)[^c-3a8425a56350072628fd4bbbbff49a59] the claimant was sent a further request at least three weeks after the date of the first request;
+- (b) [^c-90c733e923b01d128a5bda930d1cfb59]... at least 1 week has[^c-14df068334bacf0c4475ffcdc656d13d] passed since the further request was sent.
 
 ## Annotations
 
-[^key-3a8425a56350072628fd4bbbbff49a59]: Textual amendment: Reg. 37(2)(a) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [13(19)(a)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/13/19/a)
+[^c-3a8425a56350072628fd4bbbbff49a59]: Textual amendment: Reg. 37(2)(a) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [13(19)(a)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/13/19/a)
 
-[^key-90c733e923b01d128a5bda930d1cfb59]: Textual amendment: Words in reg. 37(2)(b) omitted (29.10.2013) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [13(19)(b)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/13/19/b)
+[^c-90c733e923b01d128a5bda930d1cfb59]: Textual amendment: Words in reg. 37(2)(b) omitted (29.10.2013) by virtue of [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [13(19)(b)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/13/19/b)
 
-[^key-14df068334bacf0c4475ffcdc656d13d]: Textual amendment: Words in reg. 37(2)(b) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [23(6)(b)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/23/6/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2011/2425/regulation/2))
+[^c-14df068334bacf0c4475ffcdc656d13d]: Textual amendment: Words in reg. 37(2)(b) substituted (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [23(6)(b)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/23/6/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2011/2425/regulation/2))

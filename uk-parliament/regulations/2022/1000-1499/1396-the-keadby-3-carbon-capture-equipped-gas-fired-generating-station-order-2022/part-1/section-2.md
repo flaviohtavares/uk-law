@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-4f4634605e02e8194f3cda843c146f1c]
+## 2. Interpretation[^c-4f4634605e02e8194f3cda843c146f1c]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ summary: ''
 - “**building**” includes any structure or erection or any part of a building, structure or erection;
 - “**canal**” means the Stainforth and Keadby Canal;
 - “**Canal and River Trust**” means the body of that name which is a company limited by guarantee (company no. 07807276) and a registered charity (charity commission No 146792) whose registered office is at First Floor, North Station House, 550 Elder Gate, Milton Keynes, MK9 1BB;
-- “**carbon capture and compression plant**” means the building and associated works comprised in Work No. 1C and Work No. 7 as set out[^key-5e685b12a99d476aecc7e5547d8ec781] in Schedule 1 and as shown on the works plans and which are designed to capture, compress and export to the National Grid Carbon Gathering Network, a minimum rate of 90% of the carbon dioxide emissions of the generating station operating at full load;
+- “**carbon capture and compression plant**” means the building and associated works comprised in Work No. 1C and Work No. 7 as set out[^c-5e685b12a99d476aecc7e5547d8ec781] in Schedule 1 and as shown on the works plans and which are designed to capture, compress and export to the National Grid Carbon Gathering Network, a minimum rate of 90% of the carbon dioxide emissions of the generating station operating at full load;
 - “**carriageway**” has the same meaning as in the 1980 Act;
 - “**combined heat and power assessment**” means the document of that name identified in Schedule 12 (documents and plans to be certified) and which is certified by the Secretary of State as the combined heat and power assessment for the purposes of this Order;
 - “**commence**” means carry out a material operation, as defined in section 155 of the 2008 Act (which explains when development begins) comprised in or for the purposes of the authorised development other than the permitted preliminary works (except where stated to the contrary) and “commencement”, “commenced” and cognate expressions are to be construed accordingly;
@@ -123,7 +123,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4f4634605e02e8194f3cda843c146f1c]: Commencement: Art. 2 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-4f4634605e02e8194f3cda843c146f1c]: Commencement: Art. 2 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
 [^f00006]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -141,7 +141,7 @@ summary: ''
 
 [^f00013]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-5e685b12a99d476aecc7e5547d8ec781]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2022/1396/article/2) added (20.4.2023) by [The Keadby 3 (Carbon Capture Equipped Gas Fired Generating Station) (Correction) Order 2023 (S.I. 2023/442)](https://www.legislation.gov.uk/uksi/2023/442), [art. 1](https://www.legislation.gov.uk/uksi/2023/442/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/442/schedule)
+[^c-5e685b12a99d476aecc7e5547d8ec781]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2022/1396/article/2) added (20.4.2023) by [The Keadby 3 (Carbon Capture Equipped Gas Fired Generating Station) (Correction) Order 2023 (S.I. 2023/442)](https://www.legislation.gov.uk/uksi/2023/442), [art. 1](https://www.legislation.gov.uk/uksi/2023/442/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/442/schedule)
 
 [^f00014]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 

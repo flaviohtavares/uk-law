@@ -35,20 +35,20 @@ amending Regulation (EU) No 1072/2013 (ECB/2013/34) concerning statistics on int
 
 *(ECB/2014/30)* (revoked)
 
-[^key-065f593ffaad741689362664904c8304]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-065f593ffaad741689362664904c8304]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendment[^key-065f593ffaad741689362664904c8304]
+## Article 1. Amendment[^c-065f593ffaad741689362664904c8304]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Final provisions[^key-065f593ffaad741689362664904c8304]
+## Article 2. Final provisions[^c-065f593ffaad741689362664904c8304]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-065f593ffaad741689362664904c8304]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-065f593ffaad741689362664904c8304]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-065f593ffaad741689362664904c8304]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/77)
+[^c-065f593ffaad741689362664904c8304]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 77](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/77)

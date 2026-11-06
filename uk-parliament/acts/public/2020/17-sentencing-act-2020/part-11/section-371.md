@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 371. Parenting order: references where local authority has parental responsibility[^key-fe0d00cc39516ef6dedeab98056947a7]
+## 371. Parenting order: references where local authority has parental responsibility[^c-fe0d00cc39516ef6dedeab98056947a7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Section 404 (certain references to parent or guardian to be read as references t
 
 ## Annotations
 
-[^key-fe0d00cc39516ef6dedeab98056947a7]: Commencement: [S. 371](https://www.legislation.gov.uk/ukpga/2020/17/section/371) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fe0d00cc39516ef6dedeab98056947a7]: Commencement: [S. 371](https://www.legislation.gov.uk/ukpga/2020/17/section/371) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

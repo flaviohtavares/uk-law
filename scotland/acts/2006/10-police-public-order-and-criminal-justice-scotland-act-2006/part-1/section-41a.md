@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41A. Investigations under supervision of Lord Advocate or procurator fiscal[^key-148e1f449ac5f16da47ac64b85ea6eca]
+## 41A. Investigations under supervision of Lord Advocate or procurator fiscal[^c-148e1f449ac5f16da47ac64b85ea6eca]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The Commissioner, when carrying out an investigation in pursuance of a direction
 
 ## Annotations
 
-[^key-148e1f449ac5f16da47ac64b85ea6eca]: Textual amendment: S. 41A and cross-heading inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 63](https://www.legislation.gov.uk/asp/2012/8/section/63), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121), arts. 1(1), 11)
+[^c-148e1f449ac5f16da47ac64b85ea6eca]: Textual amendment: S. 41A and cross-heading inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 63](https://www.legislation.gov.uk/asp/2012/8/section/63), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121), arts. 1(1), 11)

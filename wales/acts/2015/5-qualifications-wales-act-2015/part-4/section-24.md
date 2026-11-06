@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Rules about applications for approval[^key-738aec4623f5a1835275365520c2aef3]
+## 24. Rules about applications for approval[^c-738aec4623f5a1835275365520c2aef3]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-738aec4623f5a1835275365520c2aef3]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2015/5/section/24) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-738aec4623f5a1835275365520c2aef3]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2015/5/section/24) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

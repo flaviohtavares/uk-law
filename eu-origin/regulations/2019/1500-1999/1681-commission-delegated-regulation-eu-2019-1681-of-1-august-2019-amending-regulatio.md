@@ -35,16 +35,16 @@ amending Regulation (EU) No 692/2011 of the European Parliament and of the Counc
 
 (Text with EEA relevance) (revoked)
 
-[^key-dbec41126f3e77b9b96c21115208e574]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbec41126f3e77b9b96c21115208e574]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-dbec41126f3e77b9b96c21115208e574] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-dbec41126f3e77b9b96c21115208e574] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-dbec41126f3e77b9b96c21115208e574] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-dbec41126f3e77b9b96c21115208e574] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dbec41126f3e77b9b96c21115208e574]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dbec41126f3e77b9b96c21115208e574]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dbec41126f3e77b9b96c21115208e574]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 111](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/111)
+[^c-dbec41126f3e77b9b96c21115208e574]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 111](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/111)

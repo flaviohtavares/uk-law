@@ -123,8 +123,8 @@ have effect as references to an ophthalmic optician.
 
 #### Modifications applicable until the end of the initial period under the Government of Wales Act 2006 (c. 32)
 
-**10.**[^key-f8b1816b2ae0b1b515463b52d8e2d51d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-f8b1816b2ae0b1b515463b52d8e2d51d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f8b1816b2ae0b1b515463b52d8e2d51d]: Textual amendment: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/paragraph/10) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 59](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/59)
+[^c-f8b1816b2ae0b1b515463b52d8e2d51d]: Textual amendment: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/paragraph/10) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 59](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/59)

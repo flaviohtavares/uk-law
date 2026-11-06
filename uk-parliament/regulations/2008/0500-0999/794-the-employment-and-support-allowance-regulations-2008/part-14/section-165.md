@@ -47,7 +47,7 @@ where—
 where—
 
 - X is the amount calculated in accordance with section 2(1) of the Act;
-- Y is the amount of any widow's benefit, widowed parent's allowance, bereavement support payment under section 30 of the Pensions Act 2014[^key-9bcfb3d2d44fb15b3db9d971d050afaf], training allowance, carer's allowance , carer support payment[^key-d1b2314f5bac846a6d8f9c480398abd5] and any increase in disablement pension payable in accordance with Part 1 of Schedule 7 to the Contributions and Benefits Act (Unemployability Supplement) payable in respect of any day in the part-week;
+- Y is the amount of any widow's benefit, widowed parent's allowance, bereavement support payment under section 30 of the Pensions Act 2014[^c-9bcfb3d2d44fb15b3db9d971d050afaf], training allowance, carer's allowance , carer support payment[^c-d1b2314f5bac846a6d8f9c480398abd5] and any increase in disablement pension payable in accordance with Part 1 of Schedule 7 to the Contributions and Benefits Act (Unemployability Supplement) payable in respect of any day in the part-week;
 - N is the number of days in the part-week.
 
 (4) In this Part—
@@ -57,6 +57,6 @@ where—
 
 ## Annotations
 
-[^key-9bcfb3d2d44fb15b3db9d971d050afaf]: Textual amendment: Words in reg. 165(3) substituted (coming into force in accordance with art. 1-3 of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [31(2)](https://www.legislation.gov.uk/uksi/2017/422/article/31/2)
+[^c-9bcfb3d2d44fb15b3db9d971d050afaf]: Textual amendment: Words in reg. 165(3) substituted (coming into force in accordance with art. 1-3 of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [31(2)](https://www.legislation.gov.uk/uksi/2017/422/article/31/2)
 
-[^key-d1b2314f5bac846a6d8f9c480398abd5]: Textual amendment: Words in [reg. 165(3)](https://www.legislation.gov.uk/uksi/2008/794/regulation/165/3) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [19(5)](https://www.legislation.gov.uk/uksi/2023/1218/article/19/5)
+[^c-d1b2314f5bac846a6d8f9c480398abd5]: Textual amendment: Words in [reg. 165(3)](https://www.legislation.gov.uk/uksi/2008/794/regulation/165/3) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [19(5)](https://www.legislation.gov.uk/uksi/2023/1218/article/19/5)

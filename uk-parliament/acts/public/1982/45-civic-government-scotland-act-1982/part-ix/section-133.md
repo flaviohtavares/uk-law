@@ -22,7 +22,7 @@ summary: ''
 
 In this Act, except where the context otherwise requires—
 
-- “enforcing authority” has the meaning given by section 61(9) of the[^key-fb16bc7b70485737362f25d79fae3366] [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5)
+- “enforcing authority” has the meaning given by section 61(9) of the[^c-fb16bc7b70485737362f25d79fae3366] [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5)
 - “**local authority**” means a council constituted under section 2 of the Local Government[^c13378281] etc. (Scotland) Act 1994;
 - “**proper officer**” shall be construed in accordance with section 235(3) of the [^c13378291]Local Government (Scotland) Act 1973;
 - “**public place**” means any place (whether a thoroughfare or not) to which the public have unrestricted access and includes—
@@ -34,7 +34,7 @@ In this Act, except where the context otherwise requires—
 
 ## Annotations
 
-[^key-fb16bc7b70485737362f25d79fae3366]: Textual amendment: Words in s. 133 inserted (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 11(5)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/11/5)
+[^c-fb16bc7b70485737362f25d79fae3366]: Textual amendment: Words in s. 133 inserted (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 11(5)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/11/5)
 
 [^c13378281]: Textual amendment: S. 133: words in definition of “**local authority**” substituted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 129(21)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/129/21); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)
 

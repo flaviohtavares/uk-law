@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Transfer of property, rights and liabilities[^key-88d12080b0e55002c06cb60884147373]
+## 34. Transfer of property, rights and liabilities[^c-88d12080b0e55002c06cb60884147373]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88d12080b0e55002c06cb60884147373]: Commencement: Art. 34 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-88d12080b0e55002c06cb60884147373]: Commencement: Art. 34 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00097]: Footnote: Section 18 was amended by paragraphs 52 and 53 of Schedule 7 to the 2011 Act, paragraphs 115 and 116 of Schedule 12 to the Local Audit and Accountability Act [2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), and by section 23(2) of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).

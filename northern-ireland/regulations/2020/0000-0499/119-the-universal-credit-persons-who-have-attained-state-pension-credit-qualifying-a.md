@@ -197,7 +197,7 @@ In Schedule 1 (effective dates for superseding decisions made on the ground of a
 - (a) in the heading, after “application” insert “ to housing benefit ”;
 - (b) for paragraphs (1) to (3) substitute—
 
-  > (1) Paragraph (3) applies where a person (“P”), who has attained the qualifying age, would otherwise not be entitled to either housing benefit[^key-7bbfe254cde84e49eb0fc76f01b6b59a] or universal credit, because—
+  > (1) Paragraph (3) applies where a person (“P”), who has attained the qualifying age, would otherwise not be entitled to either housing benefit[^c-7bbfe254cde84e49eb0fc76f01b6b59a] or universal credit, because—
   >
   > - (a) but for that paragraph, P would be a member of the same household as a partner who has not attained the qualifying age and therefore a member of a mixed-age couple, who—
   >   - (i) is prevented from claiming housing benefit under Article 24 of the No. 8 Order; or
@@ -296,4 +296,4 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24170831]: Marginal citation: Article 7 was amended by Article 2(3) of S.R. [2019 No. 107](https://www.legislation.gov.uk/ukcm/2019/107) (C. 4).
 
-[^key-7bbfe254cde84e49eb0fc76f01b6b59a]: Textual amendment: Words in reg. 7(3)(b) substituted (24.11.2020) by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations (Northern Ireland) 2020 (S.R. 2020/242)](https://www.legislation.gov.uk/nisr/2020/242), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/242/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2020/242/regulation/3)
+[^c-7bbfe254cde84e49eb0fc76f01b6b59a]: Textual amendment: Words in reg. 7(3)(b) substituted (24.11.2020) by [The Social Security (Coronavirus) (Further Measures) (Amendment) and Miscellaneous Amendment Regulations (Northern Ireland) 2020 (S.R. 2020/242)](https://www.legislation.gov.uk/nisr/2020/242), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/242/regulation/1/2), [3](https://www.legislation.gov.uk/nisr/2020/242/regulation/3)

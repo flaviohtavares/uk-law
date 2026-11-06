@@ -35,28 +35,28 @@ establishing a secure web-based Information and Coordination Network for Member 
 
 (2005/267/EC) (repealed) (revoked)
 
-[^key-845477fef27fd82e5bcabc84892e912c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-845477fef27fd82e5bcabc84892e912c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-845477fef27fd82e5bcabc84892e912c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-845477fef27fd82e5bcabc84892e912c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-845477fef27fd82e5bcabc84892e912c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-845477fef27fd82e5bcabc84892e912c]: Textual amendment: Decision revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-845477fef27fd82e5bcabc84892e912c]: Textual amendment: Decision revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

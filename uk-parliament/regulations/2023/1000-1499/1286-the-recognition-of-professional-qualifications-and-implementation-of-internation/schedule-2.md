@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — The regulated professions referred to in regulation 3(2)[^key-81c92e5134eecbc1ffd905ae4560eb3c]
+## SCHEDULE 2 — The regulated professions referred to in regulation 3(2)[^c-81c92e5134eecbc1ffd905ae4560eb3c]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 3(2)
 
-### Part 1 — The regulated professions referred to in regulation 3(2)(a)[^key-431f7fc903391de32756aaf4a81c779c]
+### Part 1 — The regulated professions referred to in regulation 3(2)(a)[^c-431f7fc903391de32756aaf4a81c779c]
 
 **1.** Aerobatic Pilot.
 
@@ -88,7 +88,7 @@ Regulation 3(2)
 
 **32.** Dangerous Goods Safety Adviser.
 
-### Part 2 — The regulated professions referred to in regulation 3(2)(b)[^key-a818eb92ef74ec9d9bba3d83cd3cd346]
+### Part 2 — The regulated professions referred to in regulation 3(2)(b)[^c-a818eb92ef74ec9d9bba3d83cd3cd346]
 
 **1.** Aerobatic Pilot.
 
@@ -158,8 +158,8 @@ Regulation 3(2)
 
 ## Annotations
 
-[^key-81c92e5134eecbc1ffd905ae4560eb3c]: Commencement: Sch. 2 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-81c92e5134eecbc1ffd905ae4560eb3c]: Commencement: Sch. 2 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-431f7fc903391de32756aaf4a81c779c]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1286/schedule/2/part/1) heading inserted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [13(a)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/13/a)
+[^c-431f7fc903391de32756aaf4a81c779c]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1286/schedule/2/part/1) heading inserted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [13(a)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/13/a)
 
-[^key-a818eb92ef74ec9d9bba3d83cd3cd346]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1286/schedule/2/part/2) inserted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [13(b)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/13/b)
+[^c-a818eb92ef74ec9d9bba3d83cd3cd346]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1286/schedule/2/part/2) inserted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [13(b)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/13/b)

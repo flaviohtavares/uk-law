@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Financial Conglomerates and Other Financial Groups (Amendment) Regulations 2013 (revoked)[^key-0df42cdca667d7125460c4d4d1b6a61f]
+The Financial Conglomerates and Other Financial Groups (Amendment) Regulations 2013 (revoked)[^c-0df42cdca667d7125460c4d4d1b6a61f]
 
 Made
 
@@ -46,52 +46,52 @@ Coming into force
 
 10th June 2013
 
-[^key-0df42cdca667d7125460c4d4d1b6a61f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0df42cdca667d7125460c4d4d1b6a61f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0df42cdca667d7125460c4d4d1b6a61f]
+## 1. Citation and commencement[^c-0df42cdca667d7125460c4d4d1b6a61f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Financial Conglomerates and Other Financial Groups Regulations 2004[^key-0df42cdca667d7125460c4d4d1b6a61f]
+## 2. Amendment to the Financial Conglomerates and Other Financial Groups Regulations 2004[^c-0df42cdca667d7125460c4d4d1b6a61f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to the Capital Requirements Regulations 2006[^key-0df42cdca667d7125460c4d4d1b6a61f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 12. Amendments to the Financial Services and Markets Act 2000[^key-0df42cdca667d7125460c4d4d1b6a61f]
+## 7. Amendments to the Capital Requirements Regulations 2006[^c-0df42cdca667d7125460c4d4d1b6a61f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendments to the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^key-0df42cdca667d7125460c4d4d1b6a61f]
+**8.**[^c-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-0df42cdca667d7125460c4d4d1b6a61f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Amendments to the Financial Services and Markets Act 2000[^c-0df42cdca667d7125460c4d4d1b6a61f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0df42cdca667d7125460c4d4d1b6a61f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 13. Amendments to the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^c-0df42cdca667d7125460c4d4d1b6a61f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-0df42cdca667d7125460c4d4d1b6a61f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0df42cdca667d7125460c4d4d1b6a61f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0df42cdca667d7125460c4d4d1b6a61f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0df42cdca667d7125460c4d4d1b6a61f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1162) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-0df42cdca667d7125460c4d4d1b6a61f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1162) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

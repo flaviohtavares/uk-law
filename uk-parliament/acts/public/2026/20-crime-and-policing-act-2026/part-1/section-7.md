@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Provision of information about anti-social behaviour to Secretary of State[^key-8c22ef94e9dd0d4d241d193c8e95cdc6][^key-cc24b5f0313dfccae3b5d4ddc3cd4e13]
+## 7. Provision of information about anti-social behaviour to Secretary of State[^c-8c22ef94e9dd0d4d241d193c8e95cdc6][^c-cc24b5f0313dfccae3b5d4ddc3cd4e13]
 
 *Extent: E+W*
 
@@ -69,6 +69,6 @@ In [Part 6](https://www.legislation.gov.uk/ukpga/2014/12/part/6) of the [Anti-so
 
 ## Annotations
 
-[^key-8c22ef94e9dd0d4d241d193c8e95cdc6]: Commencement: S. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8c22ef94e9dd0d4d241d193c8e95cdc6]: Commencement: S. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-cc24b5f0313dfccae3b5d4ddc3cd4e13]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2026/20/section/7) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/b)
+[^c-cc24b5f0313dfccae3b5d4ddc3cd4e13]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2026/20/section/7) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/b)

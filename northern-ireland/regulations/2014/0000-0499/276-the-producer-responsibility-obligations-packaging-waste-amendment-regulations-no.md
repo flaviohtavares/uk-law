@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations (Northern Ireland) 2014 (revoked)[^key-4cf5f17c89037f6168292b30607c5e2e]
+The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations (Northern Ireland) 2014 (revoked)[^c-4cf5f17c89037f6168292b30607c5e2e]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into operation
 
 28th November 2014
 
-[^key-4cf5f17c89037f6168292b30607c5e2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cf5f17c89037f6168292b30607c5e2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4cf5f17c89037f6168292b30607c5e2e]
+## 1. Citation and commencement[^c-4cf5f17c89037f6168292b30607c5e2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007[^key-4cf5f17c89037f6168292b30607c5e2e]
+## 2. Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007[^c-4cf5f17c89037f6168292b30607c5e2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 2 (recovery and recycling obligations)[^key-4cf5f17c89037f6168292b30607c5e2e]
+## 3. Amendment of Schedule 2 (recovery and recycling obligations)[^c-4cf5f17c89037f6168292b30607c5e2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4cf5f17c89037f6168292b30607c5e2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cf5f17c89037f6168292b30607c5e2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4cf5f17c89037f6168292b30607c5e2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4cf5f17c89037f6168292b30607c5e2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4cf5f17c89037f6168292b30607c5e2e]: Textual amendment: Regulations revoked (2.2.2017) by [The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/3)](https://www.legislation.gov.uk/nisr/2017/3), [regs. 1](https://www.legislation.gov.uk/nisr/2017/3/regulation/1), [3](https://www.legislation.gov.uk/nisr/2017/3/regulation/3)
+[^c-4cf5f17c89037f6168292b30607c5e2e]: Textual amendment: Regulations revoked (2.2.2017) by [The Producer Responsibility Obligations (Packaging Waste) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/3)](https://www.legislation.gov.uk/nisr/2017/3), [regs. 1](https://www.legislation.gov.uk/nisr/2017/3/regulation/1), [3](https://www.legislation.gov.uk/nisr/2017/3/regulation/3)

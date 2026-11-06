@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) An investigator shall report any serious adverse event which occurs in a participant[^key-7f4f8282884b76a27590787c7d2e9a87] at a trial site at which he is responsible for the conduct of a clinical trial immediately to the sponsor.
+(1) An investigator shall report any serious adverse event which occurs in a participant[^c-7f4f8282884b76a27590787c7d2e9a87] at a trial site at which he is responsible for the conduct of a clinical trial immediately to the sponsor.
 
 (2) An immediate report under paragraph (1) may be made orally or in writing.
 
@@ -47,4 +47,4 @@ with any additional information requested by the sponsor or, as the case may be,
 
 ## Annotations
 
-[^key-7f4f8282884b76a27590787c7d2e9a87]: Textual amendment: Word in reg. 32 substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2025/538/regulation/24)
+[^c-7f4f8282884b76a27590787c7d2e9a87]: Textual amendment: Word in reg. 32 substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2025/538/regulation/24)

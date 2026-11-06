@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-d128872fab51efb7653a5aa859694883] Subject to subsection (5), the Commission may by order exercise the same power as is exercisable by the Attorney General to authorise the charity trustees of a charity to take any action falling within subsection (2)(a) or (b) in a case where the charity trustees— *(affected by repeal, see note)*[^key-d128872fab51efb7653a5aa859694883]
+(1)[^c-d128872fab51efb7653a5aa859694883] Subject to subsection (5), the Commission may by order exercise the same power as is exercisable by the Attorney General to authorise the charity trustees of a charity to take any action falling within subsection (2)(a) or (b) in a case where the charity trustees— *(affected by repeal, see note)*[^c-d128872fab51efb7653a5aa859694883]
 
-- (a) (apart from this section) have no power to take the action, but *(affected by repeal, see note)*[^key-d128872fab51efb7653a5aa859694883]
-- (b) in all the circumstances regard themselves as being under a moral obligation to take it. *(affected by repeal, see note)*[^key-d128872fab51efb7653a5aa859694883]
+- (a) (apart from this section) have no power to take the action, but *(affected by repeal, see note)*[^c-d128872fab51efb7653a5aa859694883]
+- (b) in all the circumstances regard themselves as being under a moral obligation to take it. *(affected by repeal, see note)*[^c-d128872fab51efb7653a5aa859694883]
 
 (1) The Commission, the Attorney General or the court may authorise the charity trustees of a charity to take any action falling within subsection (2)(a) or (b) in a case where the charity trustees—
 
@@ -45,7 +45,7 @@ summary: ''
 - (a) making any application of property of the charity, or
 - (b) waiving to any extent, on behalf of the charity, its entitlement to receive any property.
 
-(3) The power conferred on the Commission by subsection (1) is exercisable by the Commission by order and[^key-22149dddd69f10d6c4adedbd64f0a859] under the supervision of, and in accordance with such directions as may be given by, the Attorney General.
+(3) The power conferred on the Commission by subsection (1) is exercisable by the Commission by order and[^c-22149dddd69f10d6c4adedbd64f0a859] under the supervision of, and in accordance with such directions as may be given by, the Attorney General.
 
 (4) Any such directions may in particular require the Commission, in such circumstances as are specified in the directions—
 
@@ -68,6 +68,6 @@ that refusal does not preclude the Attorney General, on an application subsequen
 
 ## Annotations
 
-[^key-d128872fab51efb7653a5aa859694883]: Textual amendment: S. 106(1)-(1B) substituted for [s. 106(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/106/1) (27.11.2025 for specified purposes) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 16(a)](https://www.legislation.gov.uk/ukpga/2022/6/section/16/a), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2025/1191](https://www.legislation.gov.uk/uksi/2025/1191), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1191/regulation/4))
+[^c-d128872fab51efb7653a5aa859694883]: Textual amendment: S. 106(1)-(1B) substituted for [s. 106(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/106/1) (27.11.2025 for specified purposes) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 16(a)](https://www.legislation.gov.uk/ukpga/2022/6/section/16/a), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2025/1191](https://www.legislation.gov.uk/uksi/2025/1191), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1191/regulation/4))
 
-[^key-22149dddd69f10d6c4adedbd64f0a859]: Textual amendment: Words in s. 106(3) inserted (27.11.2025 for specified purposes) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 16(b)](https://www.legislation.gov.uk/ukpga/2022/6/section/16/b), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2025/1191](https://www.legislation.gov.uk/uksi/2025/1191), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1191/regulation/4))
+[^c-22149dddd69f10d6c4adedbd64f0a859]: Textual amendment: Words in s. 106(3) inserted (27.11.2025 for specified purposes) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 16(b)](https://www.legislation.gov.uk/ukpga/2022/6/section/16/b), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2025/1191](https://www.legislation.gov.uk/uksi/2025/1191), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/1/b)[(2)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1191/regulation/4))

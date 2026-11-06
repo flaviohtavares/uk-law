@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128E. Notice to purchase added units of benefit[^key-73af1ad52439faa59a794455bec473bf]
+## 128E. Notice to purchase added units of benefit[^c-73af1ad52439faa59a794455bec473bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,14 +29,14 @@ summary: ''
 (2) A membership notice given by an unretired FPJABS member must specify—
 
 - (a) the assumed contribution commencement date;
-- (b) the assumed retirement age; and[^key-1d32fe12ba75fa44e5ad703cbfda6be3]
-- (c)[^key-92dc64185b5be5862b33c02d9f892714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the assumed retirement age; and[^c-1d32fe12ba75fa44e5ad703cbfda6be3]
+- (c)[^c-92dc64185b5be5862b33c02d9f892714] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the number of added units of benefit the member would like to purchase.
 
 ## Annotations
 
-[^key-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
+[^c-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
 
-[^key-1d32fe12ba75fa44e5ad703cbfda6be3]: Textual amendment: Word in [reg. 128E(2)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128E/2/b) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [28(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/28/a)
+[^c-1d32fe12ba75fa44e5ad703cbfda6be3]: Textual amendment: Word in [reg. 128E(2)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128E/2/b) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [28(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/28/a)
 
-[^key-92dc64185b5be5862b33c02d9f892714]: Textual amendment: [Reg. 128E(2)(c)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128E/2/c) omitted (17.12.2024) by virtue of [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [28(b)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/28/b)
+[^c-92dc64185b5be5862b33c02d9f892714]: Textual amendment: [Reg. 128E(2)(c)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128E/2/c) omitted (17.12.2024) by virtue of [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [28(b)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/28/b)

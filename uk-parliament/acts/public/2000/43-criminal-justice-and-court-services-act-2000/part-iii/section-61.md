@@ -49,7 +49,7 @@ determined by the Secretary of State.
 
 (6) A determination of the Secretary of State under this section may be made in respect of an individual or any description of individuals.
 
-(7)[^key-d879c4ada08f9e1e1bd064913f8db230] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-d879c4ada08f9e1e1bd064913f8db230] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In this section—
 
@@ -70,7 +70,7 @@ are omitted.
 
 [^c10579231]: Extent: S. 61 extends to U.K., see s. 81(1)(2)(c)
 
-[^key-d879c4ada08f9e1e1bd064913f8db230]: Textual amendment: [S. 61(7)](https://www.legislation.gov.uk/ukpga/2000/43/section/61/7) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d879c4ada08f9e1e1bd064913f8db230]: Textual amendment: [S. 61(7)](https://www.legislation.gov.uk/ukpga/2000/43/section/61/7) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c10579241]: Marginal citation: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18).
 

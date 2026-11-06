@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 331C. Meaning of “specified Northern Ireland company”[^key-99a9cb9a2155fe0bcb110a64afa51bb4]
+## 331C. Meaning of “specified Northern Ireland company”[^c-99a9cb9a2155fe0bcb110a64afa51bb4]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ For the purposes of this Part, a “**specified Northern Ireland company**” me
 
 ## Annotations
 
-[^key-99a9cb9a2155fe0bcb110a64afa51bb4]: Textual amendment: S. 331C inserted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 15(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/8)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/9)
+[^c-99a9cb9a2155fe0bcb110a64afa51bb4]: Textual amendment: S. 331C inserted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 15(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/8)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/15/9)

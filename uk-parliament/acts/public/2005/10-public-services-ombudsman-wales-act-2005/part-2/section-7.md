@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The matters which the Ombudsman is entitled to investigate under this Part[^key-456e844661a5d7180853951a4a7dbf68] are—
+(1) The matters which the Ombudsman is entitled to investigate under this Part[^c-456e844661a5d7180853951a4a7dbf68] are—
 
 - (a) alleged maladministration by a listed authority in connection with relevant action;
 - (b) an alleged failure in a relevant service provided by a listed authority;
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-456e844661a5d7180853951a4a7dbf68]: Textual amendment: Words in s. 7(1) inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 17](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/17); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-456e844661a5d7180853951a4a7dbf68]: Textual amendment: Words in s. 7(1) inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 17](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/17); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
 [^c20337281]: Textual amendment: Words in s. 7(3)(b) substituted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [s. 160(1)](https://www.legislation.gov.uk/ukpga/2006/32/section/160/1), [Sch. 10 para. 68](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/68) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/22)), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.

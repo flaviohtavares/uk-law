@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Earnings limits[^key-b291b9f0f56155223293b514945b2004]
+## 8. Earnings limits[^c-b291b9f0f56155223293b514945b2004]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ In section 80(4) of the Contributions and Benefits Act[^f00016] (earnings limits
 
 ## Annotations
 
-[^key-b291b9f0f56155223293b514945b2004]: Commencement: Art. 8 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
+[^c-b291b9f0f56155223293b514945b2004]: Commencement: Art. 8 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
 
 [^f00016]: Footnote: Section 80(4) was amended by Article 8 of [S.R. 1995 No. 71](https://www.legislation.gov.uk/nisr/1995/71)

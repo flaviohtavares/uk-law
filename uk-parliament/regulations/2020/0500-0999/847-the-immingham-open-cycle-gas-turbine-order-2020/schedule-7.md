@@ -24,20 +24,20 @@ Article 21
 
 ### Compensation enactments
 
-**1.**[^key-98fe4bd3dbad594c44f4e1d631d6777f] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
+**1.**[^c-98fe4bd3dbad594c44f4e1d631d6777f] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-8d73836c6badc3ba7d4ef761c71d9771] (1) Without limitation to the scope of paragraph 1, the Land Compensation Act 1973 [^c24261671] has effect subject to the modifications set out in sub-paragraph (2).
+**2.**[^c-8d73836c6badc3ba7d4ef761c71d9771] (1) Without limitation to the scope of paragraph 1, the Land Compensation Act 1973 [^c24261671] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 (measure of compensation in case of severance) of the 1965 Act as substituted by paragraph 5(3)—
 
 - (a) for “land is acquired or taken from” substitute “ a right or restrictive covenant over land is purchased from or imposed on ”; and
 - (b) for “acquired or taken from him” substitute “ over which the right is exercisable or the restrictive covenant enforceable ”.
 
-**3.**[^key-d5b737d4f4c0e39c377674c51706e4a3] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2)[^key-26daa4ddf9cfa564be88c3df70d1a951].
+**3.**[^c-d5b737d4f4c0e39c377674c51706e4a3] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2)[^c-26daa4ddf9cfa564be88c3df70d1a951].
 
 (2) In section 5A(5A) (relevant valuation date) of the 1961 Act, for (a) and (b) substitute—
 
-> - (a) the acquiring authority enters on land for the purpose of exercising a right in pursuance of a notice of entry under section 11(1) of the 1965 Act (as modified by paragraph 5(5) of Schedule 7 to the Immingham Open Cycle Gas Turbine Order 2020; [^key-d2324e6d561b9729fe12b0f0348f1b15]...
+> - (a) the acquiring authority enters on land for the purpose of exercising a right in pursuance of a notice of entry under section 11(1) of the 1965 Act (as modified by paragraph 5(5) of Schedule 7 to the Immingham Open Cycle Gas Turbine Order 2020; [^c-d2324e6d561b9729fe12b0f0348f1b15]...
 > - (b) the acquiring authority is subsequently required by a determination under paragraph 12 of Schedule 2A to the 1965 Act (as substituted by paragraph 5(8) of Schedule 7 to the Immingham Open Cycle Gas Turbine Order 2020 to acquire an interest in the land, and
 > - (c) the acquiring authority enters on and takes possession of that land,
 >
@@ -47,12 +47,12 @@ Article 21
 
 ### Application of Part 1 of the 1965 Act
 
-**4.**[^key-5b0f03c3f6abe6fbd49f3706f5428d73] Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 25 (modification of Part 1 of the Compulsory Purchase Act 1965)) to the acquisition of land under article 18 (compulsory acquisition of land), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restrictive covenant under article 21 (compulsory acquisition of rights etc.)—
+**4.**[^c-5b0f03c3f6abe6fbd49f3706f5428d73] Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 25 (modification of Part 1 of the Compulsory Purchase Act 1965)) to the acquisition of land under article 18 (compulsory acquisition of land), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restrictive covenant under article 21 (compulsory acquisition of rights etc.)—
 
 - (a) with the modification specified in paragraph 5; and
 - (b) with such other modifications as may be necessary.
 
-**5.**[^key-6f6a679564785c75a5fd32e3f3900399] (1) The modifications referred to in paragraph 4(a) are as follows.
+**5.**[^c-6f6a679564785c75a5fd32e3f3900399] (1) The modifications referred to in paragraph 4(a) are as follows.
 
 (2) References in the 1965 Act to land are, in the appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -141,21 +141,21 @@ are so modified as to secure that, as against persons with interests in the land
 
 ## Annotations
 
-[^key-98fe4bd3dbad594c44f4e1d631d6777f]: Commencement: Sch. 7 para. 1 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-98fe4bd3dbad594c44f4e1d631d6777f]: Commencement: Sch. 7 para. 1 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
 
-[^key-8d73836c6badc3ba7d4ef761c71d9771]: Commencement: Sch. 7 para. 2 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-8d73836c6badc3ba7d4ef761c71d9771]: Commencement: Sch. 7 para. 2 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
 
 [^c24261671]: Marginal citation: [1973 c.26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-d5b737d4f4c0e39c377674c51706e4a3]: Commencement: Sch. 7 para. 3 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-d5b737d4f4c0e39c377674c51706e4a3]: Commencement: Sch. 7 para. 3 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
 
-[^key-26daa4ddf9cfa564be88c3df70d1a951]: Textual amendment: Words in [Sch. 7 para. 3(1)](https://www.legislation.gov.uk/uksi/2020/847/schedule/7/paragraph/3/1) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-26daa4ddf9cfa564be88c3df70d1a951]: Textual amendment: Words in [Sch. 7 para. 3(1)](https://www.legislation.gov.uk/uksi/2020/847/schedule/7/paragraph/3/1) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
 
-[^key-d2324e6d561b9729fe12b0f0348f1b15]: Textual amendment: Word in [Sch. 7 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2020/847/schedule/7/paragraph/3/2/a) omitted (17.5.2021) by virtue of [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-d2324e6d561b9729fe12b0f0348f1b15]: Textual amendment: Word in [Sch. 7 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2020/847/schedule/7/paragraph/3/2/a) omitted (17.5.2021) by virtue of [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
 
-[^key-5b0f03c3f6abe6fbd49f3706f5428d73]: Commencement: Sch. 7 para. 4 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-5b0f03c3f6abe6fbd49f3706f5428d73]: Commencement: Sch. 7 para. 4 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
 
-[^key-6f6a679564785c75a5fd32e3f3900399]: Commencement: Sch. 7 para. 5 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-6f6a679564785c75a5fd32e3f3900399]: Commencement: Sch. 7 para. 5 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
 
 [^c24261681]: Marginal citation: [Section 11A](https://www.legislation.gov.uk/uksi/2020/847/section/11A) was inserted by section 186(3) of the [Housing and Planning Act 2016 (c.22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 100. Diminution of capital[^key-3ce685e8300660a7ee6eaf8359aa8d7e]
+## 100. Diminution of capital[^c-3ce685e8300660a7ee6eaf8359aa8d7e]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ce685e8300660a7ee6eaf8359aa8d7e]: Commencement: [Reg. 100](https://www.legislation.gov.uk/nisr/2006/405/regulation/100) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-3ce685e8300660a7ee6eaf8359aa8d7e]: Commencement: [Reg. 100](https://www.legislation.gov.uk/nisr/2006/405/regulation/100) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

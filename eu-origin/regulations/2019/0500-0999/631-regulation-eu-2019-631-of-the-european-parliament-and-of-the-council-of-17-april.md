@@ -279,73 +279,73 @@ HAVE ADOPTED THIS REGULATION:
 
 ## Article 1. Subject matter and objectives
 
-1. This Regulation establishes CO<sub>2</sub> emissions performance requirements for new passenger cars and for new light commercial vehicles registered in Northern Ireland[^key-0962d41fb74b1e5e0c275f340b975f63] in order to contribute to achieving the United Kingdom’s target of achieving net zero greenhouse gas emissions by 2050[^key-fba1306328ee326f2d0db9b7462734ba], and the objectives of the Paris Agreement [^key-b7c82b47a47e4c85b69d1294b7e2a1cc]....
+1. This Regulation establishes CO<sub>2</sub> emissions performance requirements for new passenger cars and for new light commercial vehicles registered in Northern Ireland[^c-0962d41fb74b1e5e0c275f340b975f63] in order to contribute to achieving the United Kingdom’s target of achieving net zero greenhouse gas emissions by 2050[^c-fba1306328ee326f2d0db9b7462734ba], and the objectives of the Paris Agreement [^c-b7c82b47a47e4c85b69d1294b7e2a1cc]....
 
-2.[^key-3e98937a0fbd52f50ad0e2de987d554c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-3e98937a0fbd52f50ad0e2de987d554c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3.[^key-3e98937a0fbd52f50ad0e2de987d554c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-3e98937a0fbd52f50ad0e2de987d554c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-4.[^key-3e98937a0fbd52f50ad0e2de987d554c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-3e98937a0fbd52f50ad0e2de987d554c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-5.[^key-3e98937a0fbd52f50ad0e2de987d554c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-3e98937a0fbd52f50ad0e2de987d554c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-6.[^key-3e98937a0fbd52f50ad0e2de987d554c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.[^c-3e98937a0fbd52f50ad0e2de987d554c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-7.[^key-3e98937a0fbd52f50ad0e2de987d554c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.[^c-3e98937a0fbd52f50ad0e2de987d554c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-((8))[^key-8fa9d90d654797ec9efe5cbe7178281a] This Regulation establishes an application process for the approval of CO<sub>2</sub> savings to be achieved through the use of innovative technologies, or a combination of innovative technologies, fitted to new passenger cars or new light commercial vehicles registered in the United Kingdom.
+((8))[^c-8fa9d90d654797ec9efe5cbe7178281a] This Regulation establishes an application process for the approval of CO<sub>2</sub> savings to be achieved through the use of innovative technologies, or a combination of innovative technologies, fitted to new passenger cars or new light commercial vehicles registered in the United Kingdom.
 
 ## Article 2. Scope
 
-1.[^key-7052d25e06100c9d2e4dcdc1109df51e] This paragraph and paragraphs 2, 3 and 5 of this Article, and Articles 1, 3, 11, 12, 13, [^key-3598ae819f263f75abbe5683ab02922d]..., 17, 18 and 19 of this Regulation apply to the whole of the United Kingdom. Those paragraphs and Articles apply to the following vehicles—
+1.[^c-7052d25e06100c9d2e4dcdc1109df51e] This paragraph and paragraphs 2, 3 and 5 of this Article, and Articles 1, 3, 11, 12, 13, [^c-3598ae819f263f75abbe5683ab02922d]..., 17, 18 and 19 of this Regulation apply to the whole of the United Kingdom. Those paragraphs and Articles apply to the following vehicles—
 
 - (a) category M1 as defined in Article 4 of [Regulation (EU) 2018/858](https://www.legislation.gov.uk/european/regulation/2018/0858), as it has effect in domestic law (in respect of vehicles with GB type-approval), or, where relevant, Article 4 of [Regulation (EU) 2018/858](https://www.legislation.gov.uk/european/regulation/2018/0858) as it has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol (in respect of vehicles with UK (NI) type-approval or EU type-approval) (“passenger cars”), which are registered in the United Kingdom for the first time and which have not previously been registered outside the United Kingdom (“new passenger cars”);
 - (b) category N1 as defined in Article 4 of [Regulation (EU) 2018/858](https://www.legislation.gov.uk/european/regulation/2018/0858), as it has effect in domestic law (in respect of vehicles with GB type-approval), or, where relevant, Article 4 of [Regulation (EU) 2018/858](https://www.legislation.gov.uk/european/regulation/2018/0858) as it has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol (in respect of vehicles with UK (NI) type-approval or EU type-approval), with a reference mass not exceeding 2 610 kg, and vehicles of category N1 to which type-approval is extended in accordance with Article 2(2) of Regulation [(EC) No 715/2007](https://www.legislation.gov.uk/european/regulation/2007/0715) (“light commercial vehicles”), as it has effect in domestic law (in respect of vehicles with GB type-approval) or, where relevant, as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol (in respect of vehicles with UK (NI) type-approval or EU type-approval), which are registered in the United Kingdom for the first time and which have not previously been registered outside the United Kingdom (“new light commercial vehicles”). In the case of zero-emission vehicles of category N with a reference mass exceeding 2 610 kg or 2 840 kg, as the case may be, they shall, from 1 January 2025, for the purposes of this Regulation and without prejudice to [Regulation (EU) 2018/858](https://www.legislation.gov.uk/european/regulation/2018/0858) and Regulation [(EC) No 715/2007](https://www.legislation.gov.uk/european/regulation/2007/0715), as those Regulations have effect in domestic law (in respect of vehicles with GB type-approval) and, where relevant, as those Regulations have effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol (in respect of vehicles with UK (NI) type-approval or EU type-approval), be counted as UK light commercial vehicles falling within the scope of this Regulation if the excess reference mass is due only to the mass of the energy storage system.
 
-((1A))[^key-bc05f5948635258be8b71026e28393fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+((1A))[^c-bc05f5948635258be8b71026e28393fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-2. For the purposes of paragraph 1, a[^key-112ce67d7d9d328121e82e242217fbf6] previous registration outside the United Kingdom[^key-125e8fa8a3fe731e2da0c918f6700a7f] made less than three months before registration in the United Kingdom shall not be taken into account.
+2. For the purposes of paragraph 1, a[^c-112ce67d7d9d328121e82e242217fbf6] previous registration outside the United Kingdom[^c-125e8fa8a3fe731e2da0c918f6700a7f] made less than three months before registration in the United Kingdom shall not be taken into account.
 
-((2A))[^key-db30b00688050e005ca84c2f7b2fc58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+((2A))[^c-db30b00688050e005ca84c2f7b2fc58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3.[^key-20ee3519559a7e538cb0d229b0189e4f] This Regulation does not apply to special purpose vehicles as defined in:
+3.[^c-20ee3519559a7e538cb0d229b0189e4f] This Regulation does not apply to special purpose vehicles as defined in:
 
 - (a) point 5 of Part A of Annex 1 to Regulation (EU) 2018/858, as that Regulation has effect in domestic law, in the case of vehicles with GB type-approval; or
 - (b) point 5 of Part A of Annex 1 to Regulation (EU) 2018/858, as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol, in the case of vehicles with UK (NI) type-approval or EU type-approval.
 
-4.[^key-2ea1d56144724bea3c54ecd8a3e2f596] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-2ea1d56144724bea3c54ecd8a3e2f596] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-5.[^key-c64ba8615791f2ac2844afd11a8383fc] Paragraph 1[^key-f4b68a71e26fb4d3b77e7fa65a642ca7] shall not apply to any vehicle registered in the United Kingdom[^key-0cf3c1a9a4cdb73bf82be951c5c393c1] which is permanently removed from the United Kingdom within three months after that registration.
+5.[^c-c64ba8615791f2ac2844afd11a8383fc] Paragraph 1[^c-f4b68a71e26fb4d3b77e7fa65a642ca7] shall not apply to any vehicle registered in the United Kingdom[^c-0cf3c1a9a4cdb73bf82be951c5c393c1] which is permanently removed from the United Kingdom within three months after that registration.
 
-((5A))[^key-24e01aafd2fe1ab15b013b9de40e80b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+((5A))[^c-24e01aafd2fe1ab15b013b9de40e80b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-6.[^key-3421f5053dc06b3e41a12eb94e0d9114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.[^c-3421f5053dc06b3e41a12eb94e0d9114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 3. Definitions
 
 1. For the purposes of this Regulation, the following definitions apply:
 
 - (a) ‘average specific emissions of CO<sub>2</sub>’ means, in relation to a manufacturer, the average of the specific emissions of CO<sub>2</sub> of all new passenger cars or of all new light commercial vehicles of which it is the manufacturer;
-- (b) ‘certificate of conformity’ means the certificate of conformity referred to in Articles 36 and 37 of Regulation (EU) 2018/858, as it has effect in domestic law, or as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^key-e1bd554910154eb54d6b3022cada41ad];
-- (c) ‘completed vehicle’ means a light commercial vehicle where type-approval is granted following completion of a process of multi-stage type-approval in accordance with Regulation (EU) 2018/858, as it has effect in domestic law, or as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^key-ded4007924a15e426bbc44c0d358a4a1];
-- (d) ‘complete vehicle’ means any light commercial vehicle which does not need to be completed in order to meet the relevant technical requirements of Regulation (EU) 2018/858, as it has effect in domestic law, or as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^key-3350df6a86da23dde04182fdbfbe8dce];
+- (b) ‘certificate of conformity’ means the certificate of conformity referred to in Articles 36 and 37 of Regulation (EU) 2018/858, as it has effect in domestic law, or as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^c-e1bd554910154eb54d6b3022cada41ad];
+- (c) ‘completed vehicle’ means a light commercial vehicle where type-approval is granted following completion of a process of multi-stage type-approval in accordance with Regulation (EU) 2018/858, as it has effect in domestic law, or as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^c-ded4007924a15e426bbc44c0d358a4a1];
+- (d) ‘complete vehicle’ means any light commercial vehicle which does not need to be completed in order to meet the relevant technical requirements of Regulation (EU) 2018/858, as it has effect in domestic law, or as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^c-3350df6a86da23dde04182fdbfbe8dce];
 - (e) ‘base vehicle’ means any light commercial vehicle which is used at the initial stage of a multi-stage type-approval process;
-- (f)[^key-043557aa411fb095f5a3095685c29b34] “**manufacturer**” means the person or body responsible to the relevant approval authority for all aspects of:
+- (f)[^c-043557aa411fb095f5a3095685c29b34] “**manufacturer**” means the person or body responsible to the relevant approval authority for all aspects of:
   - (i) the GB type-approval procedure, the UK (NI) type-approval procedure or the EU type-approval procedure; and
   - (ii) for ensuring conformity of production.
-- (g) ‘mass in running order’ or ‘M’ means the mass of the passenger car or light commercial vehicle with bodywork in running order as stated in the certificate of conformity and defined [^key-8065c02d6c0c5434964e29aa21e87585]... in point 2.6 of Annex 1 to Commission Implementing Regulation (EU) 2020/683 as it has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^key-05828893dd29314da81862dee32cab79];
-- (h) ‘specific emissions of CO<sub>2</sub>’ means the CO<sub>2</sub> emissions of a passenger car or a light commercial vehicle measured in accordance with Regulation (EC) No 715/2007 and its implementing Regulations , as that Regulation and its implementing Regulations have effect in domestic law or, as the case may be, as that Regulation and its implementing Regulations have effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^key-eb38028e8cc55b549226ffe8c619fb26] and specified as the CO<sub>2</sub> mass emissions (combined) in the certificate of conformity of the vehicle. For passenger cars or light commercial vehicles which are not type-approved in accordance with Regulation (EC) No 715/2007 as it has effect in domestic law or, as the case may be, as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^key-fd30e9f1a91d21c787e7ecba328297b3] ‘specific emissions of CO<sub>2</sub>’ means the CO<sub>2</sub> emissions measured pursuant to Regulation (EC) No 715/2007 as it has effect in domestic law or, as the case may be, as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^key-bb04d3865ed02012a33b2c0d42c051c9] notably in accordance with the same measurement procedure as specified [^key-d67835870db9811079e459e8acc7213d]... in Regulation (EU) 2017/1151, as it has effect in domestic law or, as the case may be, as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^key-6e8aebda50558f3ef3256236ce512aad] or in accordance with procedures adopted by the Secretary of State[^key-36ed6ca74c55ebe04d96f657f15ad127] to establish the CO<sub>2</sub> emissions for such vehicles;
-- (i) ‘footprint’ means the average track width multiplied by the wheelbase as stated in the certificate of conformity and defined in [^key-ab7176e950905ee91f98d28efe4d5b75]... points 2.1 and 2.3 of Annex 1 to Commission Implementing Regulation (EU) 2020/683 as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^key-adf06f4b69424fcef2cb04ac93a17366];
+- (g) ‘mass in running order’ or ‘M’ means the mass of the passenger car or light commercial vehicle with bodywork in running order as stated in the certificate of conformity and defined [^c-8065c02d6c0c5434964e29aa21e87585]... in point 2.6 of Annex 1 to Commission Implementing Regulation (EU) 2020/683 as it has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^c-05828893dd29314da81862dee32cab79];
+- (h) ‘specific emissions of CO<sub>2</sub>’ means the CO<sub>2</sub> emissions of a passenger car or a light commercial vehicle measured in accordance with Regulation (EC) No 715/2007 and its implementing Regulations , as that Regulation and its implementing Regulations have effect in domestic law or, as the case may be, as that Regulation and its implementing Regulations have effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^c-eb38028e8cc55b549226ffe8c619fb26] and specified as the CO<sub>2</sub> mass emissions (combined) in the certificate of conformity of the vehicle. For passenger cars or light commercial vehicles which are not type-approved in accordance with Regulation (EC) No 715/2007 as it has effect in domestic law or, as the case may be, as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^c-fd30e9f1a91d21c787e7ecba328297b3] ‘specific emissions of CO<sub>2</sub>’ means the CO<sub>2</sub> emissions measured pursuant to Regulation (EC) No 715/2007 as it has effect in domestic law or, as the case may be, as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^c-bb04d3865ed02012a33b2c0d42c051c9] notably in accordance with the same measurement procedure as specified [^c-d67835870db9811079e459e8acc7213d]... in Regulation (EU) 2017/1151, as it has effect in domestic law or, as the case may be, as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^c-6e8aebda50558f3ef3256236ce512aad] or in accordance with procedures adopted by the Secretary of State[^c-36ed6ca74c55ebe04d96f657f15ad127] to establish the CO<sub>2</sub> emissions for such vehicles;
+- (i) ‘footprint’ means the average track width multiplied by the wheelbase as stated in the certificate of conformity and defined in [^c-ab7176e950905ee91f98d28efe4d5b75]... points 2.1 and 2.3 of Annex 1 to Commission Implementing Regulation (EU) 2020/683 as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^c-adf06f4b69424fcef2cb04ac93a17366];
 - (j) ‘specific emissions target’ means, in relation to a manufacturer, the annual target determined in accordance with Annex I or, if the manufacturer is granted a derogation in accordance with Article 10, the specific emissions target determined according to that derogation;
-- (k) ‘Northern Ireland fleet-wide[^key-e1c22d49393cfd13f4b3a13120ace1cc] target’ means the average CO<sub>2</sub> emissions of all new NI passenger cars or all new NI light commercial vehicles[^key-2bff48fdcf91a11f38f2a6876632500e] to be achieved in a given period;
-- (l) ‘test mass’ or ‘TM’ means the test mass of a passenger car or light commercial vehicle as stated in the certificate of conformity and as defined in [^key-528f830090fc84cf1abd11d17a9efdea]... point 3.2.25 of Annex 11 to Regulation (EU) 2017/1151 as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^key-d39effcfb63c094ce8e141872227a3df];
-- (m) ‘zero- and low-emission vehicle’ means a passenger car or a light commercial vehicle with tailpipe emissions from zero up to 50 g CO<sub>2</sub>/km, as determined in accordance with Regulation (EU) 2017/1151 , as it has effect in domestic law or, as the case may be, as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^key-80f1933b17f506868e5857ce19bb4cd1];
-- (n) ‘payload’ means the difference between the technically permissible maximum laden mass pursuant to Article 2 of Commission Regulation (EU) 1230/2012 or, as the case may be, paragraph 1.6 of Section A of Part 2 of Annex 8 to Regulation (EU) 2021/535, as it has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^key-2e6dfd6ad568edffcb023a4a763aa846] and the mass of the vehicle ;[^key-c5c51805fa95355a669c95c049bd004f]
+- (k) ‘Northern Ireland fleet-wide[^c-e1c22d49393cfd13f4b3a13120ace1cc] target’ means the average CO<sub>2</sub> emissions of all new NI passenger cars or all new NI light commercial vehicles[^c-2bff48fdcf91a11f38f2a6876632500e] to be achieved in a given period;
+- (l) ‘test mass’ or ‘TM’ means the test mass of a passenger car or light commercial vehicle as stated in the certificate of conformity and as defined in [^c-528f830090fc84cf1abd11d17a9efdea]... point 3.2.25 of Annex 11 to Regulation (EU) 2017/1151 as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^c-d39effcfb63c094ce8e141872227a3df];
+- (m) ‘zero- and low-emission vehicle’ means a passenger car or a light commercial vehicle with tailpipe emissions from zero up to 50 g CO<sub>2</sub>/km, as determined in accordance with Regulation (EU) 2017/1151 , as it has effect in domestic law or, as the case may be, as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^c-80f1933b17f506868e5857ce19bb4cd1];
+- (n) ‘payload’ means the difference between the technically permissible maximum laden mass pursuant to Article 2 of Commission Regulation (EU) 1230/2012 or, as the case may be, paragraph 1.6 of Section A of Part 2 of Annex 8 to Regulation (EU) 2021/535, as it has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^c-2e6dfd6ad568edffcb023a4a763aa846] and the mass of the vehicle ;[^c-c5c51805fa95355a669c95c049bd004f]
 - (o) ‘passenger cars’ and ‘new passenger cars’ have the meanings given in Article 2(1)(a);
 - (p) ‘light commercial vehicles’ and ‘new light commercial vehicles’ have the meanings given in Article 2(1)(b);
-- (pa))[^key-40289742aae44b81a29084f924a3e01f] “NI passenger cars” and “new NI passenger cars” have the meanings given in Article 2(1A)(a);
+- (pa))[^c-40289742aae44b81a29084f924a3e01f] “NI passenger cars” and “new NI passenger cars” have the meanings given in Article 2(1A)(a);
 - (pb) “NI light commercial vehicles” and “new NI light commercial vehicles” have the meanings given in Article 2(1A)(b);
-- (q)[^key-d54a7eb0e2cabeb94f12ae2a21cee62a] “**GB type-approval**” means the procedure whereby the approval authority certifies that a type of vehicle, system, component or separate technical unit satisfies the relevant administrative provisions and technical requirements of Regulation (EU) 2018/858, and “**GB type-approved**” is to be construed accordingly;
+- (q)[^c-d54a7eb0e2cabeb94f12ae2a21cee62a] “**GB type-approval**” means the procedure whereby the approval authority certifies that a type of vehicle, system, component or separate technical unit satisfies the relevant administrative provisions and technical requirements of Regulation (EU) 2018/858, and “**GB type-approved**” is to be construed accordingly;
 - (r) “**UK (NI) type-approval**” means an EU type-approval granted by the Secretary of State in respect of Northern Ireland in accordance with Regulation (EU) 2018/858, as it has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol, and “**UK (NI) type-approved**” is to be construed accordingly;
 - (s) “**EU type-approval**” means the procedure whereby an approval authority certifies that a type of vehicle, system, component or separate technical unit satisfies the relevant administrative provisions and technical requirements of Regulation (EU) 2018/858, as it has effect in EU law as amended from time to time, and “**EU type-approved**” is to be construed accordingly;
 - (t) “**approval authority**” means the authority or authorities with competence for all aspects of the type-approval of a vehicle, system, component or separate technical unit, or of the individual vehicle approval, for the authorisation process for parts and equipment, for issuing and, if appropriate, for withdrawing or refusing type-approval certificates, for designating the technical services, and for ensuring that the manufacturer meets its obligations regarding the conformity of production;
@@ -363,35 +363,35 @@ HAVE ADOPTED THIS REGULATION:
 - (d) undertakings in which the manufacturer together with one or more of the undertakings referred to in point (a), (b) or (c), or in which two or more of the latter undertakings, jointly have the rights or powers referred to in point (a);
 - (e) undertakings in which the rights or the powers referred to in point (a) are jointly held by the manufacturer or one or more of its connected undertakings referred to in points (a) to (d) and one or more third parties.
 
-## Article 4. Specific emissions targets[^key-482384776ea0d2d9edd9ee5a9f7e5cea]
+## Article 4. Specific emissions targets[^c-482384776ea0d2d9edd9ee5a9f7e5cea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Super-credits[^key-6fbfaf9f42be08ea750d3de10ac4f263]
+## Article 5. Super-credits[^c-6fbfaf9f42be08ea750d3de10ac4f263]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Pooling[^key-63ad64abee67763b24f1f003262fc70b]
+## Article 6. Pooling[^c-63ad64abee67763b24f1f003262fc70b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Monitoring and reporting of average emissions[^key-f1d8eb754cce868824d480c751f0d329]
+## Article 7. Monitoring and reporting of average emissions[^c-f1d8eb754cce868824d480c751f0d329]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7a. Appeals[^key-0768ae3b1cf543b3045109cc7789149a]
+## Article 7a. Appeals[^c-0768ae3b1cf543b3045109cc7789149a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Excess emissions premium[^key-99f755ee9a54c5d9048167e3ff9f6a8c]
+## Article 8. Excess emissions premium[^c-99f755ee9a54c5d9048167e3ff9f6a8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Publication of performance of manufacturers[^key-b9dc859780c1f830168f20f90dbb5792]
+## Article 9. Publication of performance of manufacturers[^c-b9dc859780c1f830168f20f90dbb5792]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Derogations for certain manufacturers[^key-56346283ec79ad02d5ae335ed542c7a4]
+## Article 10. Derogations for certain manufacturers[^c-56346283ec79ad02d5ae335ed542c7a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -401,34 +401,34 @@ HAVE ADOPTED THIS REGULATION:
 
 Such technologies shall be taken into consideration only if the methodology used to assess them is capable of producing verifiable, repeatable and comparable results.
 
-The total contribution of those technologies to reducing the CO[^key-4fb2b50edec0aa571fb3431048952dd0]<sub>2</sub> emissions of a new passenger car or a new light commercial vehicle may be up to 7 g CO<sub>2</sub>/km.
+The total contribution of those technologies to reducing the CO[^c-4fb2b50edec0aa571fb3431048952dd0]<sub>2</sub> emissions of a new passenger car or a new light commercial vehicle may be up to 7 g CO<sub>2</sub>/km.
 
-The Regulations may[^key-b540092e438333ef1a0a05a951eca37f] amend this Regulation by adjusting the cap referred to in the third subparagraph of this paragraph with effect from 2025 onwards to take into account technological developments while ensuring a balanced proportion of the level of that cap in relation to the CO[^key-395d2c213823df4bb250ea592379b9fe]<sub>2</sub> emissions of new passenger cars or new light commercial vehicles.
+The Regulations may[^c-b540092e438333ef1a0a05a951eca37f] amend this Regulation by adjusting the cap referred to in the third subparagraph of this paragraph with effect from 2025 onwards to take into account technological developments while ensuring a balanced proportion of the level of that cap in relation to the CO[^c-395d2c213823df4bb250ea592379b9fe]<sub>2</sub> emissions of new passenger cars or new light commercial vehicles.
 
-2. Regulations must set out[^key-bab52a7c0326dfeb0d94701fa74298c6] detailed provisions for a procedure to approve the innovative technologies or innovative technology packages referred to in paragraph 1 of this Article. [^key-d2de7891d9e8834efd8d860f4f6c2a36]... Those detailed provisions shall be based on the following criteria for innovative technologies:
+2. Regulations must set out[^c-bab52a7c0326dfeb0d94701fa74298c6] detailed provisions for a procedure to approve the innovative technologies or innovative technology packages referred to in paragraph 1 of this Article. [^c-d2de7891d9e8834efd8d860f4f6c2a36]... Those detailed provisions shall be based on the following criteria for innovative technologies:
 
 - (a) the supplier or manufacturer must be accountable for the CO<sub>2</sub> savings achieved through the use of the innovative technologies;
 - (b) the innovative technologies must make a verified contribution to CO<sub>2</sub> reduction;
 - (c) the innovative technologies must not be covered by the standard test cycle CO<sub>2</sub> measurement;
 - (d) the innovative technologies must not:
   - ((i)) be covered by mandatory provisions due to complementary additional measures complying with the 10 g CO<sub>2</sub>/km reduction referred to in Article 1(3); or
-  - ((ii)) be mandatory under other provisions of United Kingdom law[^key-53426a42180c7f1b63a3d533917189e8].
+  - ((ii)) be mandatory under other provisions of United Kingdom law[^c-53426a42180c7f1b63a3d533917189e8].
 
 With effect from 1 January 2025, the criterion referred to in point (d)(i) of the first subparagraph shall not apply with regard to efficiency improvements for air conditioning systems.
 
-3. A supplier or a manufacturer that applies for a measure to be approved as an innovative technology or innovative technology package shall submit a report, including a verification report undertaken by an independent and certified body, to the Secretary of State[^key-e2f221ee9c6009fd36ce6cfd6e0d1d14]. In the event of a possible interaction of the measure with another innovative technology or innovative technology package already approved, that report shall mention that interaction and the verification report shall evaluate to what extent that interaction modifies the reduction achieved by each measure.
+3. A supplier or a manufacturer that applies for a measure to be approved as an innovative technology or innovative technology package shall submit a report, including a verification report undertaken by an independent and certified body, to the Secretary of State[^c-e2f221ee9c6009fd36ce6cfd6e0d1d14]. In the event of a possible interaction of the measure with another innovative technology or innovative technology package already approved, that report shall mention that interaction and the verification report shall evaluate to what extent that interaction modifies the reduction achieved by each measure.
 
-4. The Secretary of State[^key-b08d3d2ff6a9a8e60a1f67567b08b338] shall attest the reduction achieved on the basis of the criteria set out in paragraph 2.
+4. The Secretary of State[^c-b08d3d2ff6a9a8e60a1f67567b08b338] shall attest the reduction achieved on the basis of the criteria set out in paragraph 2.
 
 ## Article 12. Real-world CO<sub>2</sub> emissions and fuel or energy consumption
 
-1. The Secretary of State[^key-627a194dbf53e8b093e8c0b1e231e9fd] shall monitor and assess the real-world representativeness of the CO<sub>2</sub> emissions and fuel or energy consumption values determined pursuant to Regulation (EC) No 715/2007 , as it has effect in domestic law, and as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^key-3704bdc8d4b11e1d70f57b33521dbb81].
+1. The Secretary of State[^c-627a194dbf53e8b093e8c0b1e231e9fd] shall monitor and assess the real-world representativeness of the CO<sub>2</sub> emissions and fuel or energy consumption values determined pursuant to Regulation (EC) No 715/2007 , as it has effect in domestic law, and as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^c-3704bdc8d4b11e1d70f57b33521dbb81].
 
 Furthermore, the Secretary of State shall regularly collect data on the real-world CO<sub>2</sub> emissions and fuel or energy consumption of passenger cars and light commercial vehicles using on-board fuel and/or energy consumption monitoring devices, starting with new passenger cars and new light commercial vehicles registered in 2021.
 
 The Secretary of State shall ensure that the public is informed of how that real-world representativeness evolves over time.
 
-2. For the purpose referred to in paragraph 1, starting from 1 January 2021, the Secretary of State[^key-82d8ec33eb3e338b2d524cf38f1a250d] shall ensure that the following parameters relating to real-world CO<sub>2</sub> emissions and fuel or energy consumption of passenger cars and light commercial vehicles are made available at regular intervals to the Secretary of State[^key-428517dd1db6213c89e76c6ebaed881e], from manufacturers, national authorities or through direct data transfer from vehicles, as the case may be:
+2. For the purpose referred to in paragraph 1, starting from 1 January 2021, the Secretary of State[^c-82d8ec33eb3e338b2d524cf38f1a250d] shall ensure that the following parameters relating to real-world CO<sub>2</sub> emissions and fuel or energy consumption of passenger cars and light commercial vehicles are made available at regular intervals to the Secretary of State[^c-428517dd1db6213c89e76c6ebaed881e], from manufacturers, national authorities or through direct data transfer from vehicles, as the case may be:
 
 - (a) vehicle identification number;
 - (b) fuel and/or electric energy consumed;
@@ -438,39 +438,39 @@ The Secretary of State shall ensure that the public is informed of how that real
 
 The Secretary of State shall process the data received under the first subparagraph to create anonymised and aggregated datasets, including per manufacturer, for the purposes of paragraph 1. The vehicle identification numbers shall be used only for the purpose of that data processing and shall not be retained longer than needed for that purpose.
 
-3. In order to prevent the real-world emissions gap from growing, the Secretary of State[^key-25af610c494c701524de6cc027878bea] shall, no later than 1 June 2023, assess how fuel and energy consumption data may be used to ensure that the vehicle CO<sub>2</sub> emissions and fuel or energy consumption values determined pursuant to Regulation (EC) No 715/2007 , as it has effect in domestic law, and as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^key-b6956c46d05435dff39d8fa82c7d5d78] remain representative of real-world emissions over time for each manufacturer.
+3. In order to prevent the real-world emissions gap from growing, the Secretary of State[^c-25af610c494c701524de6cc027878bea] shall, no later than 1 June 2023, assess how fuel and energy consumption data may be used to ensure that the vehicle CO<sub>2</sub> emissions and fuel or energy consumption values determined pursuant to Regulation (EC) No 715/2007 , as it has effect in domestic law, and as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^c-b6956c46d05435dff39d8fa82c7d5d78] remain representative of real-world emissions over time for each manufacturer.
 
 The Secretary of State shall monitor and report annually on how the gap referred to in the first subparagraph evolves over the period 2021 to 2026 and shall, with the view to preventing an increase in that gap, assess, in 2027, the feasibility of a mechanism to adjust the manufacturer's average specific emissions of CO<sub>2</sub> as of 2030, and, if appropriate, submit a legislative proposal to put such a mechanism in place.
 
-4. Regulations may set out[^key-3886d1897d78a95cd1a8199d8e00785b] the detailed procedure for collecting and processing the data referred to in paragraph 2 of this Article. [^key-77ee0046c1853917b3c361a5663e25ee]...
+4. Regulations may set out[^c-3886d1897d78a95cd1a8199d8e00785b] the detailed procedure for collecting and processing the data referred to in paragraph 2 of this Article. [^c-77ee0046c1853917b3c361a5663e25ee]...
 
 ## Article 13. Verification of the CO<sub>2</sub> emissions of vehicles in-service
 
-1. Manufacturers shall ensure that the CO<sub>2</sub> emission and fuel consumption values recorded in the certificates of conformity correspond to the CO<sub>2</sub> emissions from, and fuel consumption of, vehicles in-service as determined in accordance with Regulation (EU) 2017/1151 , as it has effect in domestic law or, as the case may be, as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^key-1d2f9872aaecbaabcbea7354455a89d6].
+1. Manufacturers shall ensure that the CO<sub>2</sub> emission and fuel consumption values recorded in the certificates of conformity correspond to the CO<sub>2</sub> emissions from, and fuel consumption of, vehicles in-service as determined in accordance with Regulation (EU) 2017/1151 , as it has effect in domestic law or, as the case may be, as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol[^c-1d2f9872aaecbaabcbea7354455a89d6].
 
-2. Following the entry into force of the procedures referred to in the first subparagraph of paragraph 4, the Secretary of State shall verify[^key-f39dbced304d66d1479a33b594e9ad98], on the basis of appropriate and representative vehicle samples, that the CO<sub>2</sub> emission and fuel consumption values recorded in the certificates of conformity correspond to the CO<sub>2</sub> emissions from, and fuel consumption of, vehicles in-service as determined in accordance with Regulation (EU) 2017/1151 , as it has effect in domestic law or, as the case may be, as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^key-185640c77280fed9a5f89ca8b21d16e1] while considering, inter alia, available data from on-board fuel and/or energy consumption monitoring devices.
+2. Following the entry into force of the procedures referred to in the first subparagraph of paragraph 4, the Secretary of State shall verify[^c-f39dbced304d66d1479a33b594e9ad98], on the basis of appropriate and representative vehicle samples, that the CO<sub>2</sub> emission and fuel consumption values recorded in the certificates of conformity correspond to the CO<sub>2</sub> emissions from, and fuel consumption of, vehicles in-service as determined in accordance with Regulation (EU) 2017/1151 , as it has effect in domestic law or, as the case may be, as that Regulation has effect in EU law as amended from time to time and by virtue of the Northern Ireland Protocol,[^c-185640c77280fed9a5f89ca8b21d16e1] while considering, inter alia, available data from on-board fuel and/or energy consumption monitoring devices.
 
-The Secretary of State[^key-a8afadf9100ead9e78184211024281ca] shall also verify the presence of any strategies on board or relating to the sampled vehicles that artificially improve the vehicle's performance in the tests performed for the purpose of type-approval by, inter alia, using data from on-board fuel and/or energy consumption monitoring devices.
+The Secretary of State[^c-a8afadf9100ead9e78184211024281ca] shall also verify the presence of any strategies on board or relating to the sampled vehicles that artificially improve the vehicle's performance in the tests performed for the purpose of type-approval by, inter alia, using data from on-board fuel and/or energy consumption monitoring devices.
 
-3. Where a lack of correspondence of CO<sub>2</sub> emission and fuel consumption values or the presence of any strategies artificially improving a vehicle's performance is found as a result of the verifications performed pursuant to paragraph 2, the responsible type-approval authority shall, in addition to taking the necessary measures set out in Chapter XI of Regulation (EU) 2018/858, as it has effect in domestic law or, as the case may be, as that Regulation has effect in EU law as amended from time to time or by virtue of the Northern Ireland Protocol,[^key-da37efc60673d99fd3058d390fc38030] ensure the correction of the certificates of conformity.
+3. Where a lack of correspondence of CO<sub>2</sub> emission and fuel consumption values or the presence of any strategies artificially improving a vehicle's performance is found as a result of the verifications performed pursuant to paragraph 2, the responsible type-approval authority shall, in addition to taking the necessary measures set out in Chapter XI of Regulation (EU) 2018/858, as it has effect in domestic law or, as the case may be, as that Regulation has effect in EU law as amended from time to time or by virtue of the Northern Ireland Protocol,[^c-da37efc60673d99fd3058d390fc38030] ensure the correction of the certificates of conformity.
 
-4. Regulations may set out[^key-b3421e66a837e1a4d2fccb83cec4d0a3] the procedures for performing the verifications referred to in paragraph 2 of this Article. [^key-cfdcc24e1f53a1f5bbc0a05aad55761e]...
+4. Regulations may set out[^c-b3421e66a837e1a4d2fccb83cec4d0a3] the procedures for performing the verifications referred to in paragraph 2 of this Article. [^c-cfdcc24e1f53a1f5bbc0a05aad55761e]...
 
-Before making regulations referred to in the first subparagraph, the Secretary of State may make regulations setting out the guiding principles and criteria for defining the procedures referred to in that subparagraph.[^key-389d342e3563d18ef7839dfe2c09f4e6]
+Before making regulations referred to in the first subparagraph, the Secretary of State may make regulations setting out the guiding principles and criteria for defining the procedures referred to in that subparagraph.[^c-389d342e3563d18ef7839dfe2c09f4e6]
 
-## Article 14. Adjustment of M<sub>0</sub> and TM<sub>0</sub> values[^key-5513a9bba64f641694fdb10c8c997a31]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 15. Review and report[^key-42f5a78d6a9ebb30794c51ef3268e894]
+## Article 14. Adjustment of M<sub>0</sub> and TM<sub>0</sub> values[^c-5513a9bba64f641694fdb10c8c997a31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Committee procedure[^key-4839923b52da800e2de091705e1e6c2d]
+## Article 15. Review and report[^c-42f5a78d6a9ebb30794c51ef3268e894]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Regulations[^key-a97dfd0b55c193a3fac67fa0e5874acd]
+## Article 16. Committee procedure[^c-4839923b52da800e2de091705e1e6c2d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Article 17. Regulations[^c-a97dfd0b55c193a3fac67fa0e5874acd]
 
 1. Any power to make regulations under this Regulation—
 
@@ -483,167 +483,167 @@ Before making regulations referred to in the first subparagraph, the Secretary o
 
 ## Article 18. Repeal
 
-[^key-e7e0bef9947acb3d070e91a6fdc568a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7e0bef9947acb3d070e91a6fdc568a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-References to Regulations (EC) No 443/2009 and (EU) No 510/2011 are to[^key-686904a327b04f1bf1dd3abf5a879d1f] be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex V.
+References to Regulations (EC) No 443/2009 and (EU) No 510/2011 are to[^c-686904a327b04f1bf1dd3abf5a879d1f] be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex V.
 
 ## Article 19. Entry into force
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-c360828edafb60400300228204b07a2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c360828edafb60400300228204b07a2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34679aa3170be2032dbd001f16373032]...
+[^c-34679aa3170be2032dbd001f16373032]...
 
-## ANNEX I[^key-fe4849684bb4050e6caf9ef725e18bcd]
-
-**No longer in force.**
-
-### PART A — SPECIFIC EMISSIONS TARGETS FOR PASSENGER CARS[^key-fe4849684bb4050e6caf9ef725e18bcd]
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]2.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]3.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]3a.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]3b.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]3c.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]4.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]4a.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]4b.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]5.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]6.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART B — SPECIFIC EMISSIONS TARGETS FOR LIGHT COMMERCIAL VEHICLES[^key-fe4849684bb4050e6caf9ef725e18bcd]
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]2.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]3.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]3a.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]3b.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]3c.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]4.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]4a.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]4b.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]5.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]6.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX II — MONITORING AND REPORTING OF EMISSIONS FROM NEW PASSENGER CARS[^key-fe4849684bb4050e6caf9ef725e18bcd]
+## ANNEX I[^c-fe4849684bb4050e6caf9ef725e18bcd]
 
 **No longer in force.**
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]**PART A**
+### PART A — SPECIFIC EMISSIONS TARGETS FOR PASSENGER CARS[^c-fe4849684bb4050e6caf9ef725e18bcd]
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]3a.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]3b.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]3c.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]4a.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]4b.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]6.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART B — SPECIFIC EMISSIONS TARGETS FOR LIGHT COMMERCIAL VEHICLES[^c-fe4849684bb4050e6caf9ef725e18bcd]
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]1.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]2.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]3a.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]3b.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]3c.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]4a.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]4b.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]5.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]6.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II — MONITORING AND REPORTING OF EMISSIONS FROM NEW PASSENGER CARS[^c-fe4849684bb4050e6caf9ef725e18bcd]
+
+**No longer in force.**
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]**PART A**
 
 **Collection of data on new NI passenger cars and determination of CO<sub>2</sub> emissions monitoring information**
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]1.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]2.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]3.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]**PART B**
+[^c-fe4849684bb4050e6caf9ef725e18bcd]**PART B**
 
 **Format for the transmission of data**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — MONITORING AND REPORTING OF EMISSIONS FROM NEW LIGHT COMMERCIAL VEHICLES[^key-fe4849684bb4050e6caf9ef725e18bcd]
+## ANNEX III — MONITORING AND REPORTING OF EMISSIONS FROM NEW LIGHT COMMERCIAL VEHICLES[^c-fe4849684bb4050e6caf9ef725e18bcd]
 
 **No longer in force.**
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]A.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]A.
 
 Collection of data on new NI light commercial vehicles and determination of CO<sub>2</sub> emissions monitoring information
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]1.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]1.
 
 Detailed data
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]1.1.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]1.1.
 
 Complete vehicles registered as N<sub>1</sub>
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]1.2.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]1.2.
 
 Completed vehicles registered as N1 vehicles
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]1.2.1.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]1.2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]1.2.2.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]1.2.2.
 
 Reporting by manufacturers
 
@@ -664,7 +664,7 @@ For each new completed vehicle of category N1, type-approved in accordance with 
   - ((iii)) specific CO<sub> 2 </sub> emissions of the base vehicle;
   - ((iv)) mass in running order.
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]1.2.3.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]1.2.3.
 
 Calculation of the average specific emissions of CO <sub> 2 </sub> and the specific emission target
 
@@ -672,7 +672,7 @@ The Secretary of State shall use the values reported by a base vehicle manufactu
 
 Where the data referred to in point 1.2.2 is not reported by the manufacturer of the base vehicle, the specific CO<sub> 2 </sub> emissions collected by the Secretary of State in accordance with point 1.2.1 with regard to the related completed vehicle shall be used for the calculation of the average specific emissions of CO<sub> 2 </sub> and the specific emissions target of the manufacturer concerned.
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]1.2.4.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]1.2.4.
 
 Calculation of the monitoring CO2 emissions in the case of incomplete base vehicles
 
@@ -750,7 +750,7 @@ A manufacturer shall, starting from calendar year 2021, calculate the monitoring
 
   In the case of an incomplete base vehicle that does not belong to a road load matrix family, the frontal area value of vehicle high of the interpolation family shall be used.
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]1.2.5.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]1.2.5.
 
 Representativeness of the monitoring CO2 value
 
@@ -758,51 +758,51 @@ The Secretary of State shall each year assess the representativeness of the aver
 
 In case a divergence by 4 % or more is found during each of two successive calendar years, the Secretary of State shall use the average of the specific emissions of CO<sub> 2 </sub> of the completed vehicles in the following calendar year to calculate the average specific emissions of CO<sub> 2 </sub> of the base vehicle manufacturer or the pool in that year.
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]2.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]3.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]B.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]B.
 
 Methodology for determining CO<sub>2</sub> monitoring information for new NI light commercial vehicles
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]C.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]C.
 
 Formats for transmission of data
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX 4 — DEROGATION THRESHOLDS[^key-fe4849684bb4050e6caf9ef725e18bcd]
+## ANNEX 4 — DEROGATION THRESHOLDS[^c-fe4849684bb4050e6caf9ef725e18bcd]
 
 **No longer in force.**
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]**Small volume derogation thresholds**
+[^c-fe4849684bb4050e6caf9ef725e18bcd]**Small volume derogation thresholds**
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]2.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]**Niche volume derogation thresholds**
-
-[^key-fe4849684bb4050e6caf9ef725e18bcd]3.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]4.
+[^c-fe4849684bb4050e6caf9ef725e18bcd]**Niche volume derogation thresholds**
+
+[^c-fe4849684bb4050e6caf9ef725e18bcd]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V — CORRELATION TABLE[^key-fe4849684bb4050e6caf9ef725e18bcd]
+[^c-fe4849684bb4050e6caf9ef725e18bcd]4.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX V — CORRELATION TABLE[^c-fe4849684bb4050e6caf9ef725e18bcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -844,166 +844,166 @@ Formats for transmission of data
 
 [^f00018]: Footnote: [OJ L 123, 12.5.2016, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.123.01.0001.01.ENG).
 
-[^key-0962d41fb74b1e5e0c275f340b975f63]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2019/631/article/1/1) inserted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(3)(a)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/3/a) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
+[^c-0962d41fb74b1e5e0c275f340b975f63]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2019/631/article/1/1) inserted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(3)(a)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/3/a) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
 
-[^key-fba1306328ee326f2d0db9b7462734ba]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2019/631/article/1/1) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/2/a/i)
+[^c-fba1306328ee326f2d0db9b7462734ba]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2019/631/article/1/1) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/2/a/i)
 
-[^key-b7c82b47a47e4c85b69d1294b7e2a1cc]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2019/631/article/1/1) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/2/a/ii)
+[^c-b7c82b47a47e4c85b69d1294b7e2a1cc]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2019/631/article/1/1) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/2/a/ii)
 
-[^key-3e98937a0fbd52f50ad0e2de987d554c]: Textual amendment: [Art. 1(2)-(7)](https://www.legislation.gov.uk/eur/2019/631/article/1/2) revoked (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/2) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-3e98937a0fbd52f50ad0e2de987d554c]: Textual amendment: [Art. 1(2)-(7)](https://www.legislation.gov.uk/eur/2019/631/article/1/2) revoked (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/2) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
 
-[^key-8fa9d90d654797ec9efe5cbe7178281a]: Textual amendment: [Art. 1(8)](https://www.legislation.gov.uk/eur/2019/631/article/1/8) inserted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(3)(d)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/3/d) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
+[^c-8fa9d90d654797ec9efe5cbe7178281a]: Textual amendment: [Art. 1(8)](https://www.legislation.gov.uk/eur/2019/631/article/1/8) inserted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(3)(d)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/3/d) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
 
-[^key-7052d25e06100c9d2e4dcdc1109df51e]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/eur/2019/631/article/2/1) substituted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(4)(a)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/4/a) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
+[^c-7052d25e06100c9d2e4dcdc1109df51e]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/eur/2019/631/article/2/1) substituted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(4)(a)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/4/a) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
 
-[^key-3598ae819f263f75abbe5683ab02922d]: Textual amendment: Word in [Art. 2(1)](https://www.legislation.gov.uk/eur/2019/631/article/2/1) omitted (1.1.2025) by virtue of [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/3)
+[^c-3598ae819f263f75abbe5683ab02922d]: Textual amendment: Word in [Art. 2(1)](https://www.legislation.gov.uk/eur/2019/631/article/2/1) omitted (1.1.2025) by virtue of [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(3)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/3)
 
-[^key-bc05f5948635258be8b71026e28393fd]: Textual amendment: [Art. 2(1A)](https://www.legislation.gov.uk/eur/2019/631/article/2/1A) revoked (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/2) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-bc05f5948635258be8b71026e28393fd]: Textual amendment: [Art. 2(1A)](https://www.legislation.gov.uk/eur/2019/631/article/2/1A) revoked (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/2) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
 
-[^key-112ce67d7d9d328121e82e242217fbf6]: Textual amendment: Words in [Art. 2(2)](https://www.legislation.gov.uk/eur/2019/631/article/2/2) substituted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(4)(c)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/4/c) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
+[^c-112ce67d7d9d328121e82e242217fbf6]: Textual amendment: Words in [Art. 2(2)](https://www.legislation.gov.uk/eur/2019/631/article/2/2) substituted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(4)(c)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/4/c) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
 
-[^key-125e8fa8a3fe731e2da0c918f6700a7f]: Textual amendment: Words in [Art. 2(2)](https://www.legislation.gov.uk/eur/2019/631/article/2/2) substituted (1.9.2021) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/898)](https://www.legislation.gov.uk/uksi/2021/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/898/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/898/regulation/2/3/a)
+[^c-125e8fa8a3fe731e2da0c918f6700a7f]: Textual amendment: Words in [Art. 2(2)](https://www.legislation.gov.uk/eur/2019/631/article/2/2) substituted (1.9.2021) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/898)](https://www.legislation.gov.uk/uksi/2021/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/898/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/898/regulation/2/3/a)
 
-[^key-db30b00688050e005ca84c2f7b2fc58e]: Textual amendment: [Art. 2(2A)](https://www.legislation.gov.uk/eur/2019/631/article/2/2A) revoked (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/2) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-db30b00688050e005ca84c2f7b2fc58e]: Textual amendment: [Art. 2(2A)](https://www.legislation.gov.uk/eur/2019/631/article/2/2A) revoked (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/2) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
 
-[^key-20ee3519559a7e538cb0d229b0189e4f]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/eur/2019/631/article/2/3) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/3/b)
+[^c-20ee3519559a7e538cb0d229b0189e4f]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/eur/2019/631/article/2/3) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/3/b)
 
-[^key-2ea1d56144724bea3c54ecd8a3e2f596]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/eur/2019/631/article/2/4) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 2(4)](https://www.legislation.gov.uk/eur/2019/631/article/2/4) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-2ea1d56144724bea3c54ecd8a3e2f596]: Textual amendment: [Art. 2(4)](https://www.legislation.gov.uk/eur/2019/631/article/2/4) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 2(4)](https://www.legislation.gov.uk/eur/2019/631/article/2/4) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
 
-[^key-c64ba8615791f2ac2844afd11a8383fc]: Textual amendment: [Art. 2(5)](https://www.legislation.gov.uk/eur/2019/631/article/2/5) inserted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(3)(d)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/3/d)
+[^c-c64ba8615791f2ac2844afd11a8383fc]: Textual amendment: [Art. 2(5)](https://www.legislation.gov.uk/eur/2019/631/article/2/5) inserted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(3)(d)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/3/d)
 
-[^key-f4b68a71e26fb4d3b77e7fa65a642ca7]: Textual amendment: Words in [Art. 2(5)](https://www.legislation.gov.uk/eur/2019/631/article/2/5) substituted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(4)(e)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/4/e) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
+[^c-f4b68a71e26fb4d3b77e7fa65a642ca7]: Textual amendment: Words in [Art. 2(5)](https://www.legislation.gov.uk/eur/2019/631/article/2/5) substituted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(4)(e)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/4/e) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
 
-[^key-0cf3c1a9a4cdb73bf82be951c5c393c1]: Textual amendment: Words in [Art. 2(5)](https://www.legislation.gov.uk/eur/2019/631/article/2/5) substituted (1.9.2021) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/898)](https://www.legislation.gov.uk/uksi/2021/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/898/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/898/regulation/2/3/a)
+[^c-0cf3c1a9a4cdb73bf82be951c5c393c1]: Textual amendment: Words in [Art. 2(5)](https://www.legislation.gov.uk/eur/2019/631/article/2/5) substituted (1.9.2021) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/898)](https://www.legislation.gov.uk/uksi/2021/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/898/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/898/regulation/2/3/a)
 
-[^key-24e01aafd2fe1ab15b013b9de40e80b6]: Textual amendment: [Art. 2(5A)](https://www.legislation.gov.uk/eur/2019/631/article/2/5A) revoked (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/2) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-24e01aafd2fe1ab15b013b9de40e80b6]: Textual amendment: [Art. 2(5A)](https://www.legislation.gov.uk/eur/2019/631/article/2/5A) revoked (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/2) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
 
-[^key-3421f5053dc06b3e41a12eb94e0d9114]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/eur/2019/631/article/2/6) omitted (3.1.2024) by virtue of [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(4)(g)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/4/g) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
+[^c-3421f5053dc06b3e41a12eb94e0d9114]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/eur/2019/631/article/2/6) omitted (3.1.2024) by virtue of [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(4)(g)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/4/g) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
 
-[^key-e1bd554910154eb54d6b3022cada41ad]: Textual amendment: Words in [Art. 3(1)(b)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/b) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/a)
+[^c-e1bd554910154eb54d6b3022cada41ad]: Textual amendment: Words in [Art. 3(1)(b)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/b) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/a)
 
-[^key-ded4007924a15e426bbc44c0d358a4a1]: Textual amendment: Words in [Art. 3(1)(c)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/c) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/b)
+[^c-ded4007924a15e426bbc44c0d358a4a1]: Textual amendment: Words in [Art. 3(1)(c)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/c) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/b)
 
-[^key-3350df6a86da23dde04182fdbfbe8dce]: Textual amendment: Words in [Art. 3(1)(d)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/d) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/b)
+[^c-3350df6a86da23dde04182fdbfbe8dce]: Textual amendment: Words in [Art. 3(1)(d)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/d) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/b)
 
-[^key-043557aa411fb095f5a3095685c29b34]: Textual amendment: [Art. 3(1)(f)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/f) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(c)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/c)
+[^c-043557aa411fb095f5a3095685c29b34]: Textual amendment: [Art. 3(1)(f)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/f) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(c)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/c)
 
-[^key-8065c02d6c0c5434964e29aa21e87585]: Textual amendment: Words in [Art. 3(1)(g)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/g) omitted (3.1.2024) by virtue of [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(5)(a)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/5/a) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
+[^c-8065c02d6c0c5434964e29aa21e87585]: Textual amendment: Words in [Art. 3(1)(g)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/g) omitted (3.1.2024) by virtue of [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(5)(a)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/5/a) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
 
-[^key-05828893dd29314da81862dee32cab79]: Textual amendment: Words in [Art. 3(1)(g)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/g) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(d)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/d)
+[^c-05828893dd29314da81862dee32cab79]: Textual amendment: Words in [Art. 3(1)(g)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/g) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(d)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/d)
 
-[^key-eb38028e8cc55b549226ffe8c619fb26]: Textual amendment: Words in [Art. 3(1)(h)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/h) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(e)(i)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/e/i)
+[^c-eb38028e8cc55b549226ffe8c619fb26]: Textual amendment: Words in [Art. 3(1)(h)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/h) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(e)(i)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/e/i)
 
-[^key-fd30e9f1a91d21c787e7ecba328297b3]: Textual amendment: Words in [Art. 3(1)(h)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/h) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/e/ii)
+[^c-fd30e9f1a91d21c787e7ecba328297b3]: Textual amendment: Words in [Art. 3(1)(h)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/h) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(e)(ii)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/e/ii)
 
-[^key-bb04d3865ed02012a33b2c0d42c051c9]: Textual amendment: Words in [Art. 3(1)(h)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/h) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(e)(iii)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/e/iii)
+[^c-bb04d3865ed02012a33b2c0d42c051c9]: Textual amendment: Words in [Art. 3(1)(h)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/h) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(e)(iii)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/e/iii)
 
-[^key-d67835870db9811079e459e8acc7213d]: Textual amendment: Words in [Art. 3(1)(h)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/h) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(4)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/4/a/i/aa)
+[^c-d67835870db9811079e459e8acc7213d]: Textual amendment: Words in [Art. 3(1)(h)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/h) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(4)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/4/a/i/aa)
 
-[^key-6e8aebda50558f3ef3256236ce512aad]: Textual amendment: Words in [Art. 3(1)(h)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/h) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(e)(iv)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/e/iv)
+[^c-6e8aebda50558f3ef3256236ce512aad]: Textual amendment: Words in [Art. 3(1)(h)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/h) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(e)(iv)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/e/iv)
 
-[^key-36ed6ca74c55ebe04d96f657f15ad127]: Textual amendment: Words in [Art. 3(1)(h)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/h) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(4)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/4/a/i/bb)
+[^c-36ed6ca74c55ebe04d96f657f15ad127]: Textual amendment: Words in [Art. 3(1)(h)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/h) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(4)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/4/a/i/bb)
 
-[^key-ab7176e950905ee91f98d28efe4d5b75]: Textual amendment: Words in [Art. 3(1)(i)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/i) omitted (3.1.2024) by virtue of [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(5)(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/5/b) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
+[^c-ab7176e950905ee91f98d28efe4d5b75]: Textual amendment: Words in [Art. 3(1)(i)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/i) omitted (3.1.2024) by virtue of [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(5)(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/5/b) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
 
-[^key-adf06f4b69424fcef2cb04ac93a17366]: Textual amendment: Words in [Art. 3(1)(i)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/i) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(f)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/f)
+[^c-adf06f4b69424fcef2cb04ac93a17366]: Textual amendment: Words in [Art. 3(1)(i)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/i) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(f)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/f)
 
-[^key-e1c22d49393cfd13f4b3a13120ace1cc]: Textual amendment: Words in [Art. 3(1)(k)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/k) substituted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(5)(c)(i)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/5/c/i) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
+[^c-e1c22d49393cfd13f4b3a13120ace1cc]: Textual amendment: Words in [Art. 3(1)(k)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/k) substituted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(5)(c)(i)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/5/c/i) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
 
-[^key-2bff48fdcf91a11f38f2a6876632500e]: Textual amendment: Words in [Art. 3(1)(k)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/k) substituted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/5/c/ii) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
+[^c-2bff48fdcf91a11f38f2a6876632500e]: Textual amendment: Words in [Art. 3(1)(k)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/k) substituted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/5/c/ii) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
 
-[^key-528f830090fc84cf1abd11d17a9efdea]: Textual amendment: Words in [Art. 3(1)(l)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/l) omitted (3.1.2024) by virtue of [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(5)(d)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/5/d) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
+[^c-528f830090fc84cf1abd11d17a9efdea]: Textual amendment: Words in [Art. 3(1)(l)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/l) omitted (3.1.2024) by virtue of [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(5)(d)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/5/d) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
 
-[^key-d39effcfb63c094ce8e141872227a3df]: Textual amendment: Words in [Art. 3(1)(l)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/l) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(g)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/g)
+[^c-d39effcfb63c094ce8e141872227a3df]: Textual amendment: Words in [Art. 3(1)(l)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/l) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(g)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/g)
 
-[^key-80f1933b17f506868e5857ce19bb4cd1]: Textual amendment: Words in [Art. 3(1)(m)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/m) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(h)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/h)
+[^c-80f1933b17f506868e5857ce19bb4cd1]: Textual amendment: Words in [Art. 3(1)(m)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/m) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(h)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/h)
 
-[^key-2e6dfd6ad568edffcb023a4a763aa846]: Textual amendment: Words in [Art. 3(1)(n)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/n) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(i)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/i)
+[^c-2e6dfd6ad568edffcb023a4a763aa846]: Textual amendment: Words in [Art. 3(1)(n)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/n) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(i)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/i)
 
-[^key-c5c51805fa95355a669c95c049bd004f]: Textual amendment: [Art. 3(1)(o)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/o)[(p)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/p) inserted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/4/a/iii)
+[^c-c5c51805fa95355a669c95c049bd004f]: Textual amendment: [Art. 3(1)(o)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/o)[(p)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/p) inserted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/4/a/iii)
 
-[^key-40289742aae44b81a29084f924a3e01f]: Textual amendment: [Art. 3(1)(pa)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/pa)[(pb)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/pb) inserted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(5)(e)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/5/e) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
+[^c-40289742aae44b81a29084f924a3e01f]: Textual amendment: [Art. 3(1)(pa)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/pa)[(pb)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/pb) inserted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(5)(e)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/5/e) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
 
-[^key-d54a7eb0e2cabeb94f12ae2a21cee62a]: Textual amendment: [Art. 3(1)(q)-(v)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/q) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(j)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/j)
+[^c-d54a7eb0e2cabeb94f12ae2a21cee62a]: Textual amendment: [Art. 3(1)(q)-(v)](https://www.legislation.gov.uk/eur/2019/631/article/3/1/q) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(4)(j)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/4/j)
 
-[^key-482384776ea0d2d9edd9ee5a9f7e5cea]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2019/631/article/4) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 4](https://www.legislation.gov.uk/eur/2019/631/article/4) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-482384776ea0d2d9edd9ee5a9f7e5cea]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2019/631/article/4) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 4](https://www.legislation.gov.uk/eur/2019/631/article/4) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
 
-[^key-6fbfaf9f42be08ea750d3de10ac4f263]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2019/631/article/5) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 5](https://www.legislation.gov.uk/eur/2019/631/article/5) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-6fbfaf9f42be08ea750d3de10ac4f263]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2019/631/article/5) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 5](https://www.legislation.gov.uk/eur/2019/631/article/5) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
 
-[^key-63ad64abee67763b24f1f003262fc70b]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2019/631/article/6) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 6](https://www.legislation.gov.uk/eur/2019/631/article/6) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-63ad64abee67763b24f1f003262fc70b]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2019/631/article/6) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 6](https://www.legislation.gov.uk/eur/2019/631/article/6) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
 
-[^key-f1d8eb754cce868824d480c751f0d329]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2019/631/article/7) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 7](https://www.legislation.gov.uk/eur/2019/631/article/7) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-f1d8eb754cce868824d480c751f0d329]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2019/631/article/7) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 7](https://www.legislation.gov.uk/eur/2019/631/article/7) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
 
-[^key-0768ae3b1cf543b3045109cc7789149a]: Textual amendment: [Art. 7a](https://www.legislation.gov.uk/eur/2019/631/article/7a) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 7a](https://www.legislation.gov.uk/eur/2019/631/article/7a) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-0768ae3b1cf543b3045109cc7789149a]: Textual amendment: [Art. 7a](https://www.legislation.gov.uk/eur/2019/631/article/7a) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 7a](https://www.legislation.gov.uk/eur/2019/631/article/7a) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
 
-[^key-99f755ee9a54c5d9048167e3ff9f6a8c]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2019/631/article/8) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 8](https://www.legislation.gov.uk/eur/2019/631/article/8) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-99f755ee9a54c5d9048167e3ff9f6a8c]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2019/631/article/8) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 8](https://www.legislation.gov.uk/eur/2019/631/article/8) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
 
-[^key-b9dc859780c1f830168f20f90dbb5792]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/2019/631/article/9) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 9](https://www.legislation.gov.uk/eur/2019/631/article/9) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-b9dc859780c1f830168f20f90dbb5792]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/2019/631/article/9) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 9](https://www.legislation.gov.uk/eur/2019/631/article/9) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
 
-[^key-56346283ec79ad02d5ae335ed542c7a4]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eur/2019/631/article/10) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 10](https://www.legislation.gov.uk/eur/2019/631/article/10) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-56346283ec79ad02d5ae335ed542c7a4]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/eur/2019/631/article/10) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 10](https://www.legislation.gov.uk/eur/2019/631/article/10) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
 
-[^key-4fb2b50edec0aa571fb3431048952dd0]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2019/631/article/11/1) substituted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(10)(a)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/10/a) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
+[^c-4fb2b50edec0aa571fb3431048952dd0]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2019/631/article/11/1) substituted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(10)(a)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/10/a) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
 
-[^key-b540092e438333ef1a0a05a951eca37f]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2019/631/article/11/1) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(13)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/13/a)
+[^c-b540092e438333ef1a0a05a951eca37f]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2019/631/article/11/1) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(13)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/13/a)
 
-[^key-395d2c213823df4bb250ea592379b9fe]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2019/631/article/11/1) substituted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(10)(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/10/b) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
+[^c-395d2c213823df4bb250ea592379b9fe]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2019/631/article/11/1) substituted (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(10)(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/10/b) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
 
-[^key-bab52a7c0326dfeb0d94701fa74298c6]: Textual amendment: Words in [Art. 11(2)](https://www.legislation.gov.uk/eur/2019/631/article/11/2) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(13)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/13/b/i)
+[^c-bab52a7c0326dfeb0d94701fa74298c6]: Textual amendment: Words in [Art. 11(2)](https://www.legislation.gov.uk/eur/2019/631/article/11/2) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(13)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/13/b/i)
 
-[^key-d2de7891d9e8834efd8d860f4f6c2a36]: Textual amendment: Words in [Art. 11(2)](https://www.legislation.gov.uk/eur/2019/631/article/11/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(13)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/13/b/ii)
+[^c-d2de7891d9e8834efd8d860f4f6c2a36]: Textual amendment: Words in [Art. 11(2)](https://www.legislation.gov.uk/eur/2019/631/article/11/2) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(13)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/13/b/ii)
 
-[^key-53426a42180c7f1b63a3d533917189e8]: Textual amendment: Words in [Art. 11(2)(d)(ii)](https://www.legislation.gov.uk/eur/2019/631/article/11/2/d/ii) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(13)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/13/b/iii)
+[^c-53426a42180c7f1b63a3d533917189e8]: Textual amendment: Words in [Art. 11(2)(d)(ii)](https://www.legislation.gov.uk/eur/2019/631/article/11/2/d/ii) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(13)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/13/b/iii)
 
-[^key-e2f221ee9c6009fd36ce6cfd6e0d1d14]: Textual amendment: Words in [Art. 11(3)](https://www.legislation.gov.uk/eur/2019/631/article/11/3) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(13)(c)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/13/c)
+[^c-e2f221ee9c6009fd36ce6cfd6e0d1d14]: Textual amendment: Words in [Art. 11(3)](https://www.legislation.gov.uk/eur/2019/631/article/11/3) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(13)(c)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/13/c)
 
-[^key-b08d3d2ff6a9a8e60a1f67567b08b338]: Textual amendment: Words in [Art. 11(4)](https://www.legislation.gov.uk/eur/2019/631/article/11/4) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(13)(d)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/13/d)
+[^c-b08d3d2ff6a9a8e60a1f67567b08b338]: Textual amendment: Words in [Art. 11(4)](https://www.legislation.gov.uk/eur/2019/631/article/11/4) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(13)(d)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/13/d)
 
-[^key-627a194dbf53e8b093e8c0b1e231e9fd]: Textual amendment: Words in [Art. 12(1)](https://www.legislation.gov.uk/eur/2019/631/article/12/1) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(14)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/14/a)
+[^c-627a194dbf53e8b093e8c0b1e231e9fd]: Textual amendment: Words in [Art. 12(1)](https://www.legislation.gov.uk/eur/2019/631/article/12/1) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(14)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/14/a)
 
-[^key-3704bdc8d4b11e1d70f57b33521dbb81]: Textual amendment: Words in [Art. 12(1)](https://www.legislation.gov.uk/eur/2019/631/article/12/1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(7)(a)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/7/a)
+[^c-3704bdc8d4b11e1d70f57b33521dbb81]: Textual amendment: Words in [Art. 12(1)](https://www.legislation.gov.uk/eur/2019/631/article/12/1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(7)(a)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/7/a)
 
-[^key-82d8ec33eb3e338b2d524cf38f1a250d]: Textual amendment: Words in [Art. 12(2)](https://www.legislation.gov.uk/eur/2019/631/article/12/2) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(14)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/14/b/i)
+[^c-82d8ec33eb3e338b2d524cf38f1a250d]: Textual amendment: Words in [Art. 12(2)](https://www.legislation.gov.uk/eur/2019/631/article/12/2) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(14)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/14/b/i)
 
-[^key-428517dd1db6213c89e76c6ebaed881e]: Textual amendment: Words in [Art. 12(2)](https://www.legislation.gov.uk/eur/2019/631/article/12/2) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(14)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/14/b/ii)
+[^c-428517dd1db6213c89e76c6ebaed881e]: Textual amendment: Words in [Art. 12(2)](https://www.legislation.gov.uk/eur/2019/631/article/12/2) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(14)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/14/b/ii)
 
-[^key-25af610c494c701524de6cc027878bea]: Textual amendment: Words in [Art. 12(3)](https://www.legislation.gov.uk/eur/2019/631/article/12/3) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(14)(c)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/14/c)
+[^c-25af610c494c701524de6cc027878bea]: Textual amendment: Words in [Art. 12(3)](https://www.legislation.gov.uk/eur/2019/631/article/12/3) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(14)(c)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/14/c)
 
-[^key-b6956c46d05435dff39d8fa82c7d5d78]: Textual amendment: Words in [Art. 12(3)](https://www.legislation.gov.uk/eur/2019/631/article/12/3) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(7)(b)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/7/b)
+[^c-b6956c46d05435dff39d8fa82c7d5d78]: Textual amendment: Words in [Art. 12(3)](https://www.legislation.gov.uk/eur/2019/631/article/12/3) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(7)(b)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/7/b)
 
-[^key-3886d1897d78a95cd1a8199d8e00785b]: Textual amendment: Words in [Art. 12(4)](https://www.legislation.gov.uk/eur/2019/631/article/12/4) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(14)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/14/d/i)
+[^c-3886d1897d78a95cd1a8199d8e00785b]: Textual amendment: Words in [Art. 12(4)](https://www.legislation.gov.uk/eur/2019/631/article/12/4) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(14)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/14/d/i)
 
-[^key-77ee0046c1853917b3c361a5663e25ee]: Textual amendment: Words in [Art. 12(4)](https://www.legislation.gov.uk/eur/2019/631/article/12/4) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(14)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/14/d/ii)
+[^c-77ee0046c1853917b3c361a5663e25ee]: Textual amendment: Words in [Art. 12(4)](https://www.legislation.gov.uk/eur/2019/631/article/12/4) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(14)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/14/d/ii)
 
-[^key-1d2f9872aaecbaabcbea7354455a89d6]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2019/631/article/13/1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/8/a)
+[^c-1d2f9872aaecbaabcbea7354455a89d6]: Textual amendment: Words in [Art. 13(1)](https://www.legislation.gov.uk/eur/2019/631/article/13/1) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/8/a)
 
-[^key-f39dbced304d66d1479a33b594e9ad98]: Textual amendment: Words in [Art. 13(2)](https://www.legislation.gov.uk/eur/2019/631/article/13/2) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(15)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/15/a/i)
+[^c-f39dbced304d66d1479a33b594e9ad98]: Textual amendment: Words in [Art. 13(2)](https://www.legislation.gov.uk/eur/2019/631/article/13/2) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(15)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/15/a/i)
 
-[^key-185640c77280fed9a5f89ca8b21d16e1]: Textual amendment: Words in [Art. 13(2)](https://www.legislation.gov.uk/eur/2019/631/article/13/2) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/8/b)
+[^c-185640c77280fed9a5f89ca8b21d16e1]: Textual amendment: Words in [Art. 13(2)](https://www.legislation.gov.uk/eur/2019/631/article/13/2) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/8/b)
 
-[^key-a8afadf9100ead9e78184211024281ca]: Textual amendment: Words in [Art. 13(2)](https://www.legislation.gov.uk/eur/2019/631/article/13/2) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(15)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/15/a/ii)
+[^c-a8afadf9100ead9e78184211024281ca]: Textual amendment: Words in [Art. 13(2)](https://www.legislation.gov.uk/eur/2019/631/article/13/2) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(15)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/15/a/ii)
 
-[^key-da37efc60673d99fd3058d390fc38030]: Textual amendment: Words in [Art. 13(3)](https://www.legislation.gov.uk/eur/2019/631/article/13/3) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(8)(c)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/8/c)
+[^c-da37efc60673d99fd3058d390fc38030]: Textual amendment: Words in [Art. 13(3)](https://www.legislation.gov.uk/eur/2019/631/article/13/3) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars, Vans and Heavy Duty Vehicles) (Amendment) Regulations 2022 (S.I. 2022/1361)](https://www.legislation.gov.uk/uksi/2022/1361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/1/2), [3(8)(c)](https://www.legislation.gov.uk/uksi/2022/1361/regulation/3/8/c)
 
-[^key-b3421e66a837e1a4d2fccb83cec4d0a3]: Textual amendment: Words in [Art. 13(4)](https://www.legislation.gov.uk/eur/2019/631/article/13/4) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(15)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/15/b/i/aa)
+[^c-b3421e66a837e1a4d2fccb83cec4d0a3]: Textual amendment: Words in [Art. 13(4)](https://www.legislation.gov.uk/eur/2019/631/article/13/4) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(15)(b)(i)(aa)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/15/b/i/aa)
 
-[^key-cfdcc24e1f53a1f5bbc0a05aad55761e]: Textual amendment: Words in [Art. 13(4)](https://www.legislation.gov.uk/eur/2019/631/article/13/4) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(15)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/15/b/i/bb)
+[^c-cfdcc24e1f53a1f5bbc0a05aad55761e]: Textual amendment: Words in [Art. 13(4)](https://www.legislation.gov.uk/eur/2019/631/article/13/4) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(15)(b)(i)(bb)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/15/b/i/bb)
 
-[^key-389d342e3563d18ef7839dfe2c09f4e6]: Textual amendment: Words in [Art. 13(4)](https://www.legislation.gov.uk/eur/2019/631/article/13/4) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(15)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/15/b/ii)
+[^c-389d342e3563d18ef7839dfe2c09f4e6]: Textual amendment: Words in [Art. 13(4)](https://www.legislation.gov.uk/eur/2019/631/article/13/4) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(15)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/15/b/ii)
 
-[^key-5513a9bba64f641694fdb10c8c997a31]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/eur/2019/631/article/14) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 14](https://www.legislation.gov.uk/eur/2019/631/article/14) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-5513a9bba64f641694fdb10c8c997a31]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/eur/2019/631/article/14) revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and [Art. 14](https://www.legislation.gov.uk/eur/2019/631/article/14) revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
 
-[^key-42f5a78d6a9ebb30794c51ef3268e894]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/eur/2019/631/article/15) revoked (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/2) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-42f5a78d6a9ebb30794c51ef3268e894]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/eur/2019/631/article/15) revoked (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(2)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/2) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
 
-[^key-4839923b52da800e2de091705e1e6c2d]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/eur/2019/631/article/16) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(18)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/18)
+[^c-4839923b52da800e2de091705e1e6c2d]: Textual amendment: [Art. 16](https://www.legislation.gov.uk/eur/2019/631/article/16) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(18)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/18)
 
-[^key-a97dfd0b55c193a3fac67fa0e5874acd]: Textual amendment: [Art. 17](https://www.legislation.gov.uk/eur/2019/631/article/17) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(19)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/19)
+[^c-a97dfd0b55c193a3fac67fa0e5874acd]: Textual amendment: [Art. 17](https://www.legislation.gov.uk/eur/2019/631/article/17) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(19)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/19)
 
-[^key-e7e0bef9947acb3d070e91a6fdc568a3]: Textual amendment: Words in [Art. 18](https://www.legislation.gov.uk/eur/2019/631/article/18) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(20)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/20/a)
+[^c-e7e0bef9947acb3d070e91a6fdc568a3]: Textual amendment: Words in [Art. 18](https://www.legislation.gov.uk/eur/2019/631/article/18) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(20)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/20/a)
 
-[^key-686904a327b04f1bf1dd3abf5a879d1f]: Textual amendment: Words in [Art. 18](https://www.legislation.gov.uk/eur/2019/631/article/18) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(20)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/20/b)
+[^c-686904a327b04f1bf1dd3abf5a879d1f]: Textual amendment: Words in [Art. 18](https://www.legislation.gov.uk/eur/2019/631/article/18) substituted (31.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(20)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/20/b)
 
-[^key-c360828edafb60400300228204b07a2f]: Textual amendment: Words after Reg. 19 omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(21)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/21/a)
+[^c-c360828edafb60400300228204b07a2f]: Textual amendment: Words after Reg. 19 omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(21)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/21/a)
 
-[^key-34679aa3170be2032dbd001f16373032]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/631/signature) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(21)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/21/b)
+[^c-34679aa3170be2032dbd001f16373032]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/631/signature) omitted (31.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/3), [3(21)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/3/21/b)
 
-[^key-fe4849684bb4050e6caf9ef725e18bcd]: Textual amendment: Annexes 1-5 revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-fe4849684bb4050e6caf9ef725e18bcd]: Textual amendment: Annexes 1-5 revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [110(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/110/1) (with [arts. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116), [117](https://www.legislation.gov.uk/uksi/2023/1394/article/117)); and revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2024/1130/regulation/24/1) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))

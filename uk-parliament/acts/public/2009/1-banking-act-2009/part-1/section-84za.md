@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84ZA. Bridge bank: share transfer instruments[^key-c57333d6837e8696cb9007852ed22d0f]
+## 84ZA. Bridge bank: share transfer instruments[^c-c57333d6837e8696cb9007852ed22d0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c57333d6837e8696cb9007852ed22d0f]: Textual amendment: [S. 84ZA](https://www.legislation.gov.uk/ukpga/2009/1/section/84ZA) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [21(1)](https://www.legislation.gov.uk/uksi/2016/1239/article/21/1)
+[^c-c57333d6837e8696cb9007852ed22d0f]: Textual amendment: [S. 84ZA](https://www.legislation.gov.uk/ukpga/2009/1/section/84ZA) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [21(1)](https://www.legislation.gov.uk/uksi/2016/1239/article/21/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Joint decision on adoption of group resolution plan[^key-6d6a9f553cbe495d08685964636a8f75]
+## 47. Joint decision on adoption of group resolution plan[^c-6d6a9f553cbe495d08685964636a8f75]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d6a9f553cbe495d08685964636a8f75]: Textual amendment: [Pt. 5 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3348/part/5/chapter/3) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d6a9f553cbe495d08685964636a8f75]: Textual amendment: [Pt. 5 Ch. 3](https://www.legislation.gov.uk/uksi/2014/3348/part/5/chapter/3) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 29](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

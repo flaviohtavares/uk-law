@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Meaning of “relevant HMO”[^key-08f9ef044934adc5545587f5a1a71f1b]
+## 78. Meaning of “relevant HMO”[^c-08f9ef044934adc5545587f5a1a71f1b]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08f9ef044934adc5545587f5a1a71f1b]: Commencement: S. 78 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-08f9ef044934adc5545587f5a1a71f1b]: Commencement: S. 78 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 143. Temporary exemption orders: requirement to improve safety or security[^key-7de8af2327897c64f144c8351ff6fe77]
+## 143. Temporary exemption orders: requirement to improve safety or security[^c-7de8af2327897c64f144c8351ff6fe77]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7de8af2327897c64f144c8351ff6fe77]: Commencement: [S. 143](https://www.legislation.gov.uk/asp/2006/1/section/143) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-7de8af2327897c64f144c8351ff6fe77]: Commencement: [S. 143](https://www.legislation.gov.uk/asp/2006/1/section/143) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

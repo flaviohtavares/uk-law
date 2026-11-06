@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Opt-in: “deathbed marriages”[^key-9a169d4cc4441a45c22df1df9a970808]
+## 7. Opt-in: “deathbed marriages”[^c-9a169d4cc4441a45c22df1df9a970808]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ In section 1 of the Marriage (Registrar General's Licence) Act 1970 (marriages w
 
 ## Annotations
 
-[^key-9a169d4cc4441a45c22df1df9a970808]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/30/section/7) in force at 13.3.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/93/article/3/d)
+[^c-9a169d4cc4441a45c22df1df9a970808]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/30/section/7) in force at 13.3.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/93/article/3/d)

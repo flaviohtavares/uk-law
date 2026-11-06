@@ -76,7 +76,7 @@ However, the technical service shall have the discretion to waive additional tes
 
 **Article 4.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-9fedda39fe0b0982e629a058bad9652b]...
+[^c-9fedda39fe0b0982e629a058bad9652b]...
 
 ## ANNEX
 
@@ -2225,7 +2225,7 @@ Figure 6 Test set-up for dynamic upper legform impactor certification test [imag
 
 [^f00007]: Footnote: [OJ L 140, 29.5.2006, p. 33](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.140.01.0033.01.ENG).
 
-[^key-9fedda39fe0b0982e629a058bad9652b]: Textual amendment: Words in Signature omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [54](https://www.legislation.gov.uk/uksi/2022/1273/regulation/54)
+[^c-9fedda39fe0b0982e629a058bad9652b]: Textual amendment: Words in Signature omitted (31.12.2022 at 11.00 p.m.) by virtue of [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [54](https://www.legislation.gov.uk/uksi/2022/1273/regulation/54)
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) No 459/2011 of 12 May 2011 amending the Annex to Regulation (EC) No 631/2009 laying down detailed rules for the implementation of Annex I to Regulation (EC) No 78/2009 of the European Parliament and of the Council on the type-approval of motor vehicles with regard to the protection of pedestrians and other vulnerable road users (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2011/459).
 

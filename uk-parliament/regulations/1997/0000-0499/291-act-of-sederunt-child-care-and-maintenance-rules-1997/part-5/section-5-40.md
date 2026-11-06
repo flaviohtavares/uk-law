@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.40. Notice of determination of application[^key-c3db1e0bf449aa4ba6cb3c60dc87327d]
+## 5.40. Notice of determination of application[^c-c3db1e0bf449aa4ba6cb3c60dc87327d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Immediately after determination of an application for the recognition or enforce
 
 ## Annotations
 
-[^key-c3db1e0bf449aa4ba6cb3c60dc87327d]: Commencement: Rule 5.40 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-c3db1e0bf449aa4ba6cb3c60dc87327d]: Commencement: Rule 5.40 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

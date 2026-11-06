@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Disciplinary procedures[^key-8576cb8de94a70ecc848f253bfc1d953]
+## 34. Disciplinary procedures[^c-8576cb8de94a70ecc848f253bfc1d953]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ as the case may be.
 
 ## Annotations
 
-[^key-8576cb8de94a70ecc848f253bfc1d953]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2019/169/regulation/34) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-8576cb8de94a70ecc848f253bfc1d953]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2019/169/regulation/34) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

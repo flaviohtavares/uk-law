@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Amount which may be claimed generally[^key-14c31f04bd13083bfa9c10707f332b5a]
+## 43. Amount which may be claimed generally[^c-14c31f04bd13083bfa9c10707f332b5a]
 
 *Extent: S*
 
-(1) Subject to Rules 31[^key-997ac9295b72541ee18385e3623251eb], 38 and 44, the amount in respect of which a creditor shall be entitled to claim shall be the accumulated sum of principal and any interest which is due on the debt as at the date upon which the company entered postal administration.
+(1) Subject to Rules 31[^c-997ac9295b72541ee18385e3623251eb], 38 and 44, the amount in respect of which a creditor shall be entitled to claim shall be the accumulated sum of principal and any interest which is due on the debt as at the date upon which the company entered postal administration.
 
 (2) If a debt does not depend on a contingency but would not be payable but for the postal administration until after the date upon which the company entered postal administration, the amount of the claim shall be calculated as if the debt were payable on the date when the company entered postal administration but subject to the deduction of interest at the rate specified in section 17 of the Judgments Act 1838 (judgment debts to carry interest)[^f00016] on the date when the company entered postal administration until the date for payment of the debt.
 
@@ -28,8 +28,8 @@ summary: ''
 
 ## Annotations
 
-[^key-14c31f04bd13083bfa9c10707f332b5a]: Commencement: Rule 43 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-14c31f04bd13083bfa9c10707f332b5a]: Commencement: Rule 43 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-997ac9295b72541ee18385e3623251eb]: Textual amendment: Words in [rule 43(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/43/1) substituted (13.4.2017) by virtue of [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-997ac9295b72541ee18385e3623251eb]: Textual amendment: Words in [rule 43(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/43/1) substituted (13.4.2017) by virtue of [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
 
 [^f00016]: Footnote: [1838 c.110](https://www.legislation.gov.uk/ukpga/1838/110), as amended by [S.I. 1998/2940](https://www.legislation.gov.uk/uksi/1998/2940), Article 3.

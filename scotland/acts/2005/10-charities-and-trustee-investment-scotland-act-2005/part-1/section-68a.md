@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68A. Charity trustees' indemnity insurance[^key-a9344bf00b367c6b82fa547028d76467]
+## 68A. Charity trustees' indemnity insurance[^c-a9344bf00b367c6b82fa547028d76467]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9344bf00b367c6b82fa547028d76467]: Textual amendment: S. 68A inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 127(2)](https://www.legislation.gov.uk/asp/2010/8/section/127/2), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-a9344bf00b367c6b82fa547028d76467]: Textual amendment: S. 68A inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 127(2)](https://www.legislation.gov.uk/asp/2010/8/section/127/2), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

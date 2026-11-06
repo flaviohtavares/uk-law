@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Fire safety[^key-adc913b58594f1429b038cfcf42ca936]
+## 29. Fire safety[^c-adc913b58594f1429b038cfcf42ca936]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adc913b58594f1429b038cfcf42ca936]: Textual amendment: S. 29 omitted (with effect in accordance with s. 72(4) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 72(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/72/1)
+[^c-adc913b58594f1429b038cfcf42ca936]: Textual amendment: S. 29 omitted (with effect in accordance with s. 72(4) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 72(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/72/1)

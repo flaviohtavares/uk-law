@@ -37,13 +37,13 @@ Made
 
 The Welsh Ministers in exercise of the powers conferred by section 126(2) and (3) of the Public Health (Wales) Act 2017[^f00001], make the following Order:
 
-## 1. Title and interpretation[^key-3ba1ad041a3d30fd6b146b4a7550ed77]
+## 1. Title and interpretation[^c-3ba1ad041a3d30fd6b146b4a7550ed77]
 
 (1) The title of this Order is the Public Health (Wales) Act 2017 (Commencement) Order 2017.
 
 (2) In this Order, “the Act” (“*y Ddeddf*”) means the Public Health (Wales) Act 2017.
 
-## 2. Provisions coming into force on 4 October 2017[^key-337362abcf8d0960737262a8a8e9672a]
+## 2. Provisions coming into force on 4 October 2017[^c-337362abcf8d0960737262a8a8e9672a]
 
 The appointed day for the following provisions of the Act coming in to force is 4 October 2017—
 
@@ -51,7 +51,7 @@ The appointed day for the following provisions of the Act coming in to force is 
 - (b) section 3 (implementation of national strategy); and
 - (c) section 119 (fixed penalty receipts for food hygiene rating offences).
 
-## 3. Provisions coming into force on 1 January 2018[^key-7ba4de02b8d9701bf86975a0a5a8b38c]
+## 3. Provisions coming into force on 1 January 2018[^c-7ba4de02b8d9701bf86975a0a5a8b38c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -77,8 +77,8 @@ Article 3 brings certain provisions of the Act relating to the intimate piercing
 
 [^f00001]: Footnote: [2017 anaw 2](https://www.legislation.gov.uk/anaw/2017/2).
 
-[^key-3ba1ad041a3d30fd6b146b4a7550ed77]: Commencement: Art. 1 in force at made date
+[^c-3ba1ad041a3d30fd6b146b4a7550ed77]: Commencement: Art. 1 in force at made date
 
-[^key-337362abcf8d0960737262a8a8e9672a]: Commencement: Art. 2 in force at made date
+[^c-337362abcf8d0960737262a8a8e9672a]: Commencement: Art. 2 in force at made date
 
-[^key-7ba4de02b8d9701bf86975a0a5a8b38c]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/wsi/2017/949/article/3) revoked (3.10.2017) by [The Public Health (Wales) Act 2017 (Commencement) (Amendment) Order 2017 (S.I. 2017/967)](https://www.legislation.gov.uk/wsi/2017/967), [art. 2](https://www.legislation.gov.uk/wsi/2017/967/article/2)
+[^c-7ba4de02b8d9701bf86975a0a5a8b38c]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/wsi/2017/949/article/3) revoked (3.10.2017) by [The Public Health (Wales) Act 2017 (Commencement) (Amendment) Order 2017 (S.I. 2017/967)](https://www.legislation.gov.uk/wsi/2017/967), [art. 2](https://www.legislation.gov.uk/wsi/2017/967/article/2)

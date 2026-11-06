@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Plastic Materials and Articles in Contact with Food Amendment (Scotland) Regulations 2004 (revoked)[^key-f93e6b3b6400c94e45195a3c82d66f8d]
+The Plastic Materials and Articles in Contact with Food Amendment (Scotland) Regulations 2004 (revoked)[^c-f93e6b3b6400c94e45195a3c82d66f8d]
 
 Made
 
@@ -45,40 +45,40 @@ Coming into force
 
 30th December 2004
 
-[^key-f93e6b3b6400c94e45195a3c82d66f8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f93e6b3b6400c94e45195a3c82d66f8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-f93e6b3b6400c94e45195a3c82d66f8d]
+## 1. Citation, commencement and extent[^c-f93e6b3b6400c94e45195a3c82d66f8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Plastic Materials and Articles in Contact with Food Regulations 1998[^key-f93e6b3b6400c94e45195a3c82d66f8d]
+## 2. Amendments to the Plastic Materials and Articles in Contact with Food Regulations 1998[^c-f93e6b3b6400c94e45195a3c82d66f8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-f93e6b3b6400c94e45195a3c82d66f8d]
+## 3.[^c-f93e6b3b6400c94e45195a3c82d66f8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-f93e6b3b6400c94e45195a3c82d66f8d]
+## 4.[^c-f93e6b3b6400c94e45195a3c82d66f8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-f93e6b3b6400c94e45195a3c82d66f8d]
+## 5.[^c-f93e6b3b6400c94e45195a3c82d66f8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-f93e6b3b6400c94e45195a3c82d66f8d]
+## 6.[^c-f93e6b3b6400c94e45195a3c82d66f8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f93e6b3b6400c94e45195a3c82d66f8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f93e6b3b6400c94e45195a3c82d66f8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f93e6b3b6400c94e45195a3c82d66f8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f93e6b3b6400c94e45195a3c82d66f8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f93e6b3b6400c94e45195a3c82d66f8d]: Textual amendment: Regulations revoked (30.6.2006) by [The Plastic Materials and Articles in Contact with Food (Scotland) Regulations 2006 (S.S.I. 2006/314)](https://www.legislation.gov.uk/ssi/2006/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/314/regulation/1/1), [24(e)](https://www.legislation.gov.uk/ssi/2006/314/regulation/24/e)
+[^c-f93e6b3b6400c94e45195a3c82d66f8d]: Textual amendment: Regulations revoked (30.6.2006) by [The Plastic Materials and Articles in Contact with Food (Scotland) Regulations 2006 (S.S.I. 2006/314)](https://www.legislation.gov.uk/ssi/2006/314), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2006/314/regulation/1/1), [24(e)](https://www.legislation.gov.uk/ssi/2006/314/regulation/24/e)

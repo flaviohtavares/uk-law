@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Refusal of approval of out of hours arrangements under general medical services contracts and default contracts[^key-95831be39280402185b1115f17780f59]
+## 60. Refusal of approval of out of hours arrangements under general medical services contracts and default contracts[^c-95831be39280402185b1115f17780f59]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95831be39280402185b1115f17780f59]: Commencement: Art. 60 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-95831be39280402185b1115f17780f59]: Commencement: Art. 60 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

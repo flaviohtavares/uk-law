@@ -33,7 +33,7 @@ An Act of the Scottish Parliament to make provision about the enforcement of con
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 21st September 2017 and received Royal Assent on 30th October 2017
 
-## 1. Creation of a third-party right[^key-85374ae7f9c09550e4d8812dae91e5cf]
+## 1. Creation of a third-party right[^c-85374ae7f9c09550e4d8812dae91e5cf]
 
 (1) A person who is not a party to a contract acquires a third-party right under it where—
 
@@ -54,7 +54,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) the time when the contract was constituted, or
 - (b) if the undertaking was added to the contract by a modification of its terms, the time when the modification was made.
 
-## 2. Creation: further provision[^key-f46d762eedf32c35a7c1ec38a4deb8c8]
+## 2. Creation: further provision[^c-f46d762eedf32c35a7c1ec38a4deb8c8]
 
 (1) This section makes provision elaborating on section 1.
 
@@ -76,7 +76,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (7) This Act is without prejudice to any other enactment, or rule of law, that imposes requirements which must be fulfilled if an enforceable obligation is to be created.
 
-## 3. Contracting parties' freedom to alter third party's entitlement[^key-cd3f5089a1afeb64e01c718cef5dab33]
+## 3. Contracting parties' freedom to alter third party's entitlement[^c-cd3f5089a1afeb64e01c718cef5dab33]
 
 (1) An undertaking contained in a contract which has given rise to a third-party right may be cancelled or modified by the contracting parties.
 
@@ -84,7 +84,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) Subsection (1) is subject to sections 4 to 6.
 
-## 4. Protection of third party's entitlement from retroactive change[^key-5940dc5cabcb5b0bf49748893f416f8a]
+## 4. Protection of third party's entitlement from retroactive change[^c-5940dc5cabcb5b0bf49748893f416f8a]
 
 (1) No account is to be taken of the cancellation or modification of an undertaking contained in a contract where and in so far as the undertaking is being enforced or otherwise invoked—
 
@@ -93,7 +93,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) Subsection (1) does not apply in relation to a cancellation or modification if the contract provided that it may be made with retroactive effect.
 
-## 5. Protection of third party's entitlement after notice given[^key-fe5ea6bbf6c55cb29b13e182e05a3a5c]
+## 5. Protection of third party's entitlement after notice given[^c-fe5ea6bbf6c55cb29b13e182e05a3a5c]
 
 (1) Subsection (2) applies (subject to subsections (3) and (4)) where—
 
@@ -112,7 +112,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) at the time when the notice mentioned in subsection (1)(a) was given, the person given the notice was told by the contracting party that the undertaking may be cancelled or (as the case may be) that the modification may be made, or
 - (b) the person who has the third-party right has given assent to the cancellation or (as the case may be) modification of the undertaking.
 
-## 6. Protection of third party's entitlement after undertaking relied on[^key-367529e4fd138771c83a5574a1f75568]
+## 6. Protection of third party's entitlement after undertaking relied on[^c-367529e4fd138771c83a5574a1f75568]
 
 (1) Subsection (2) applies (subject to subsections (3) and (4)) where—
 
@@ -140,7 +140,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) is personally barred from cancelling or modifying the undertaking, or
 - (b) has waived any right to cancel or modify the undertaking.
 
-## 7. Remedies available to third party[^key-fcaac8f0caa0e960ad723d9b74fa7d38]
+## 7. Remedies available to third party[^c-fcaac8f0caa0e960ad723d9b74fa7d38]
 
 (1) This section applies where a person has a third-party right to enforce or otherwise invoke an undertaking contained in a contract.
 
@@ -148,7 +148,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) Subsection (2) is subject to any contrary provision made in the contract.
 
-## 8. Defences available against third party[^key-816a6b2167451a81b751e2425ce418d7]
+## 8. Defences available against third party[^c-816a6b2167451a81b751e2425ce418d7]
 
 (1) This section applies where a person has a third-party right to enforce or otherwise invoke an undertaking contained in a contract.
 
@@ -159,7 +159,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) Subsection (2) is subject to any contrary provision made in the contract.
 
-## 9. Arbitration[^key-8d363888d661e2f21fcedc7f42bebc66]
+## 9. Arbitration[^c-8d363888d661e2f21fcedc7f42bebc66]
 
 (1) In relation to a dispute to which subsection (2) or (3) applies, the person who has the third-party right mentioned in subsection (2) or (as the case may be) (3) is to be regarded as a party to the arbitration agreement mentioned in that subsection.
 
@@ -186,7 +186,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - “**arbitration agreement**” has the meaning given by section 4 of the Arbitration (Scotland) Act 2010, and
 - “**dispute**” is to be construed in accordance with section 2(1) of that Act.
 
-## 10. Prescription[^key-856189e4ac7505a5f0e0b3405df8f501]
+## 10. Prescription[^c-856189e4ac7505a5f0e0b3405df8f501]
 
 (1) An undertaking contained in a contract which is capable of being enforced or otherwise invoked by virtue of a third-party right is an obligation arising from the contract for the purposes of the Prescription and Limitation (Scotland) Act 1973.
 
@@ -195,7 +195,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) section 1, or
 - (b) the rule of law mentioned in section 11.
 
-## 11. Abolition of common-law rule: jus quaesitum tertio[^key-405817072a18aa634396529093d6551d]
+## 11. Abolition of common-law rule: jus quaesitum tertio[^c-405817072a18aa634396529093d6551d]
 
 (1) The rule of law by which a person who is not a party to a contract may acquire a right to enforce or otherwise invoke the contract's terms does not apply in relation to contracts constituted on or after the day this section comes into force.
 
@@ -222,24 +222,24 @@ The short title of this Act is the Contract (Third Party Rights) (Scotland) Act 
 
 ## Annotations
 
-[^key-85374ae7f9c09550e4d8812dae91e5cf]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2017/5/section/1) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
+[^c-85374ae7f9c09550e4d8812dae91e5cf]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2017/5/section/1) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
 
-[^key-f46d762eedf32c35a7c1ec38a4deb8c8]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2017/5/section/2) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
+[^c-f46d762eedf32c35a7c1ec38a4deb8c8]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2017/5/section/2) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
 
-[^key-cd3f5089a1afeb64e01c718cef5dab33]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2017/5/section/3) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
+[^c-cd3f5089a1afeb64e01c718cef5dab33]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2017/5/section/3) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
 
-[^key-5940dc5cabcb5b0bf49748893f416f8a]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2017/5/section/4) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
+[^c-5940dc5cabcb5b0bf49748893f416f8a]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2017/5/section/4) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
 
-[^key-fe5ea6bbf6c55cb29b13e182e05a3a5c]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2017/5/section/5) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
+[^c-fe5ea6bbf6c55cb29b13e182e05a3a5c]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2017/5/section/5) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
 
-[^key-367529e4fd138771c83a5574a1f75568]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2017/5/section/6) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
+[^c-367529e4fd138771c83a5574a1f75568]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2017/5/section/6) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
 
-[^key-fcaac8f0caa0e960ad723d9b74fa7d38]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2017/5/section/7) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
+[^c-fcaac8f0caa0e960ad723d9b74fa7d38]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2017/5/section/7) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
 
-[^key-816a6b2167451a81b751e2425ce418d7]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2017/5/section/8) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
+[^c-816a6b2167451a81b751e2425ce418d7]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2017/5/section/8) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
 
-[^key-8d363888d661e2f21fcedc7f42bebc66]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2017/5/section/9) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
+[^c-8d363888d661e2f21fcedc7f42bebc66]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2017/5/section/9) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
 
-[^key-856189e4ac7505a5f0e0b3405df8f501]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2017/5/section/10) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
+[^c-856189e4ac7505a5f0e0b3405df8f501]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2017/5/section/10) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
 
-[^key-405817072a18aa634396529093d6551d]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2017/5/section/11) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)
+[^c-405817072a18aa634396529093d6551d]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2017/5/section/11) in force at 26.2.2018 by [S.S.I. 2018/8](https://www.legislation.gov.uk/ssi/2018/8), [reg. 2](https://www.legislation.gov.uk/ssi/2018/8/regulation/2)

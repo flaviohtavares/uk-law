@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 6 — Revocation of retained direct EU legislation[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+## SCHEDULE 6 — Revocation of retained direct EU legislation[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -24,36 +24,36 @@ summary: ''
 
 Regulation 77
 
-### 1. EU regulations[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+### 1. EU regulations[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. EU decisions[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+### 3. EU decisions[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/b), [sch.](https://www.legislation.gov.uk/ssi/2020/466/schedule) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/b), [sch.](https://www.legislation.gov.uk/ssi/2020/466/schedule) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))

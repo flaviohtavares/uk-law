@@ -34,7 +34,7 @@ This Statutory Instrument has been made in consequence of a defect in [SI 2012/3
 
 Animals
 
-The Animals (Scientific Procedures) Act 1986 (Fees) Order 2013 (revoked)[^key-64efa7dc79ccf229236692f763228581]
+The Animals (Scientific Procedures) Act 1986 (Fees) Order 2013 (revoked)[^c-64efa7dc79ccf229236692f763228581]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 1st April 2013
 
-[^key-64efa7dc79ccf229236692f763228581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64efa7dc79ccf229236692f763228581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Interpretation, citation, commencement and extent[^key-64efa7dc79ccf229236692f763228581]
+## 1. Interpretation, citation, commencement and extent[^c-64efa7dc79ccf229236692f763228581]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable under the Animals (Scientific Procedures) Act 1986[^key-64efa7dc79ccf229236692f763228581]
+## 2. Fees payable under the Animals (Scientific Procedures) Act 1986[^c-64efa7dc79ccf229236692f763228581]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-64efa7dc79ccf229236692f763228581]
+## 3. Revocations[^c-64efa7dc79ccf229236692f763228581]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-64efa7dc79ccf229236692f763228581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64efa7dc79ccf229236692f763228581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-64efa7dc79ccf229236692f763228581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64efa7dc79ccf229236692f763228581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-64efa7dc79ccf229236692f763228581]: Textual amendment: Order revoked (1.4.2015) by [The Animals (Scientific Procedures) Act 1986 (Fees) Order 2015 (S.I. 2015/244)](https://www.legislation.gov.uk/uksi/2015/244), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/244/article/1/1), [3](https://www.legislation.gov.uk/uksi/2015/244/article/3)
+[^c-64efa7dc79ccf229236692f763228581]: Textual amendment: Order revoked (1.4.2015) by [The Animals (Scientific Procedures) Act 1986 (Fees) Order 2015 (S.I. 2015/244)](https://www.legislation.gov.uk/uksi/2015/244), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/244/article/1/1), [3](https://www.legislation.gov.uk/uksi/2015/244/article/3)

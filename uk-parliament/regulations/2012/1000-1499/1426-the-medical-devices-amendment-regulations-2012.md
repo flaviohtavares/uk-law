@@ -86,7 +86,7 @@ Regulation 2 (interpretation) of the Medical Devices Regulations 2002 is amended
 
   .
 
-## 3. Review[^key-bd6db54f7b32aa88d9db67f062974c82]
+## 3. Review[^c-bd6db54f7b32aa88d9db67f062974c82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -126,4 +126,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c21293801]: Marginal citation: Directive 98/79/EC was amended by Regulation (EC) No 1882/2003 (OJ No. L.284, 31.10.2003, p.1), Regulation (EC) No. 596/2009 (OJ No. L.188, 18.7.2009, p.14) and Directive 2011/100 (OJ No. L.341, 22.12.2011, p.50) and was corrected by Corrigendum (OJ No. L.22, 29.1.1999, p.75) and Corrigendum (OJ No. L.6, 10.1.2002, p.70).
 
-[^key-bd6db54f7b32aa88d9db67f062974c82]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1426/regulation/3) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2013/2327/regulation/22)
+[^c-bd6db54f7b32aa88d9db67f062974c82]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1426/regulation/3) revoked (21.10.2013) by [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2013/2327/regulation/22)

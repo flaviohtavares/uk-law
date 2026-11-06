@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 194. Disclaimer presumed valid and effective[^key-993cc63633530f4a35e841e8d3018682]
+## 194. Disclaimer presumed valid and effective[^c-993cc63633530f4a35e841e8d3018682]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any disclaimer of property by the administrator is presumed valid and effective,
 
 ## Annotations
 
-[^key-993cc63633530f4a35e841e8d3018682]: Commencement: [Rule 194](https://www.legislation.gov.uk/uksi/2011/1301/rule/194) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-993cc63633530f4a35e841e8d3018682]: Commencement: [Rule 194](https://www.legislation.gov.uk/uksi/2011/1301/rule/194) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

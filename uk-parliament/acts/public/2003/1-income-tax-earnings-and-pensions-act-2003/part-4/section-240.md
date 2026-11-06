@@ -45,12 +45,12 @@ summary: ''
 
 (7) In this section “**excepted foreign travel provisions**” means—
 
-- (a) section 371 (travel costs and expenses where duties performed abroad: visiting spouse’s civil partner's[^key-be1188ad0a5a354ec3e4a5a4728d6ad3] or child’s travel),
-- (b) section 374 (non-domiciled employee’s spouse’s civil partner's[^key-23af5d8ff376b49479c90d6b7b69d063] or child’s travel costs and expenses where duties performed in UK), and
+- (a) section 371 (travel costs and expenses where duties performed abroad: visiting spouse’s civil partner's[^c-be1188ad0a5a354ec3e4a5a4728d6ad3] or child’s travel),
+- (b) section 374 (non-domiciled employee’s spouse’s civil partner's[^c-23af5d8ff376b49479c90d6b7b69d063] or child’s travel costs and expenses where duties performed in UK), and
 - (c) section 376 (foreign accommodation and subsistence costs and expenses (overseas employments)).
 
 ## Annotations
 
-[^key-be1188ad0a5a354ec3e4a5a4728d6ad3]: Textual amendment: Words in s. 240(7)(a) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [143](https://www.legislation.gov.uk/uksi/2005/3229/regulation/143)
+[^c-be1188ad0a5a354ec3e4a5a4728d6ad3]: Textual amendment: Words in s. 240(7)(a) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [143](https://www.legislation.gov.uk/uksi/2005/3229/regulation/143)
 
-[^key-23af5d8ff376b49479c90d6b7b69d063]: Textual amendment: Words in s. 240(7)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [143](https://www.legislation.gov.uk/uksi/2005/3229/regulation/143)
+[^c-23af5d8ff376b49479c90d6b7b69d063]: Textual amendment: Words in s. 240(7)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [143](https://www.legislation.gov.uk/uksi/2005/3229/regulation/143)

@@ -22,9 +22,9 @@ summary: ''
 
 Article 3
 
-**1.**[^key-464e7df0352a646d448f573fa492e053] The construction and operation of a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act in the London Borough of Enfield comprising—
+**1.**[^c-464e7df0352a646d448f573fa492e053] The construction and operation of a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act in the London Borough of Enfield comprising—
 
-(1) *Works No. 1a* —an electricity and heat generating station located at the Edmonton EcoPark, fuelled by up to 700,000 tonnes of waste per annum and with an electrical output of up to 78[^key-72f603e7ebfabe6d9f6f3d9d7ed1d745] megawatts of electricity (MW<sub>e</sub>) (gross), comprising the following buildings, structures and plant, located within the limits of deviation identified on drawing C\_0002 Rev 01 of the works plans—
+(1) *Works No. 1a* —an electricity and heat generating station located at the Edmonton EcoPark, fuelled by up to 700,000 tonnes of waste per annum and with an electrical output of up to 78[^c-72f603e7ebfabe6d9f6f3d9d7ed1d745] megawatts of electricity (MW<sub>e</sub>) (gross), comprising the following buildings, structures and plant, located within the limits of deviation identified on drawing C\_0002 Rev 01 of the works plans—
 
 - (a) a main building housing—
   - (i) a tipping hall;
@@ -38,7 +38,7 @@ Article 3
 - (d) cooling equipment; and
 - (e) an observation platform enclosure.
 
-**2.**[^key-57efd3173112107ed1f06ce114762ce8] Associated development within the meaning of section 115(2) of the 2008 Act in connection with the nationally significant infrastructure project Works No.1a as follows—
+**2.**[^c-57efd3173112107ed1f06ce114762ce8] Associated development within the meaning of section 115(2) of the 2008 Act in connection with the nationally significant infrastructure project Works No.1a as follows—
 
 (1) *Works No. 1b* — works required to provide buildings, structures, plant and equipment needed for the operation of the electricity and heat generating station located within the limits of deviation identified on drawing C\_0002 Rev 01 of the works plans and as follows—
 
@@ -105,21 +105,21 @@ Article 3
 - (c) the realignment of the exit ramp from the energy from waste facility; and
 - (d) works to prepare the land shown on drawing C\_0010 Rev 01 of the works plans for the construction of Works No. 1a, 1b, 2, 3, 4 and 5.
 
-(7)[^key-2f67ccb9bb4e57deb741c1f30be7f390] Works No. 7 — decommissioning, demolition and removal of the energy from waste facility, demolition and removal of the existing stack, and water pumping station on Ardra Road and making good, within the limits of deviation identified on Works Plan C\_0011 Rev 01.
+(7)[^c-2f67ccb9bb4e57deb741c1f30be7f390] Works No. 7 — decommissioning, demolition and removal of the energy from waste facility, demolition and removal of the existing stack, and water pumping station on Ardra Road and making good, within the limits of deviation identified on Works Plan C\_0011 Rev 01.
 
-**3.**[^key-cb94726ff7f69b6667d09e2ba7025ef5] In connection with Works No. 1 to 7, to the extent that they do not otherwise form part of any such work, being associated development within the meaning of section 115(2) of the 2008 Act—
+**3.**[^c-cb94726ff7f69b6667d09e2ba7025ef5] In connection with Works No. 1 to 7, to the extent that they do not otherwise form part of any such work, being associated development within the meaning of section 115(2) of the 2008 Act—
 
 - (a) the enabling works; and
 - (b) such other works as may be necessary or expedient for the purposes of or in connection with the construction, operation and maintenance of the authorised development which do not give rise to any new significant adverse environmental effects that were not assessed in the environmental statement.
 
 ## Annotations
 
-[^key-464e7df0352a646d448f573fa492e053]: Commencement: Sch. 1 para. 1 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-464e7df0352a646d448f573fa492e053]: Commencement: Sch. 1 para. 1 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
 
-[^key-72f603e7ebfabe6d9f6f3d9d7ed1d745]: Textual amendment: Word in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2017/215/schedule/1/paragraph/1/1) substituted (20.7.2018) by [The North London Heat and Power Generating Station (Amendment) Order 2018 (S.I. 2018/882)](https://www.legislation.gov.uk/uksi/2018/882), [arts. 1](https://www.legislation.gov.uk/uksi/2018/882/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/882/article/2/2)
+[^c-72f603e7ebfabe6d9f6f3d9d7ed1d745]: Textual amendment: Word in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2017/215/schedule/1/paragraph/1/1) substituted (20.7.2018) by [The North London Heat and Power Generating Station (Amendment) Order 2018 (S.I. 2018/882)](https://www.legislation.gov.uk/uksi/2018/882), [arts. 1](https://www.legislation.gov.uk/uksi/2018/882/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2018/882/article/2/2)
 
-[^key-57efd3173112107ed1f06ce114762ce8]: Commencement: Sch. 1 para. 2 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-57efd3173112107ed1f06ce114762ce8]: Commencement: Sch. 1 para. 2 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
 
-[^key-2f67ccb9bb4e57deb741c1f30be7f390]: Textual amendment: [Sch. 1 para. 2(7)](https://www.legislation.gov.uk/uksi/2017/215/schedule/1/paragraph/2/7) substituted (6.7.2018) by [The North London Heat and Power Generating Station (Correction) Order 2018 (S.I. 2018/822)](https://www.legislation.gov.uk/uksi/2018/822), [art. 1](https://www.legislation.gov.uk/uksi/2018/822/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/822/schedule)
+[^c-2f67ccb9bb4e57deb741c1f30be7f390]: Textual amendment: [Sch. 1 para. 2(7)](https://www.legislation.gov.uk/uksi/2017/215/schedule/1/paragraph/2/7) substituted (6.7.2018) by [The North London Heat and Power Generating Station (Correction) Order 2018 (S.I. 2018/822)](https://www.legislation.gov.uk/uksi/2018/822), [art. 1](https://www.legislation.gov.uk/uksi/2018/822/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/822/schedule)
 
-[^key-cb94726ff7f69b6667d09e2ba7025ef5]: Commencement: Sch. 1 para. 3 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-cb94726ff7f69b6667d09e2ba7025ef5]: Commencement: Sch. 1 para. 3 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)

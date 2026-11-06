@@ -31,7 +31,7 @@ summary: ''
 
 Criminal Law, England And Wales
 
-The Remand to Local Authority Accommodation (Electronic Monitoring) (Responsible Person) Order 2016 (revoked)[^key-332583561d24395abf8c0a9102ee2c49]
+The Remand to Local Authority Accommodation (Electronic Monitoring) (Responsible Person) Order 2016 (revoked)[^c-332583561d24395abf8c0a9102ee2c49]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 30th November 2016
 
-[^key-332583561d24395abf8c0a9102ee2c49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-332583561d24395abf8c0a9102ee2c49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-332583561d24395abf8c0a9102ee2c49]
+## 1. Citation and commencement[^c-332583561d24395abf8c0a9102ee2c49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Person responsible for monitoring of persons subject to an electronic monitoring conditions[^key-332583561d24395abf8c0a9102ee2c49]
+## 2. Person responsible for monitoring of persons subject to an electronic monitoring conditions[^c-332583561d24395abf8c0a9102ee2c49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-332583561d24395abf8c0a9102ee2c49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-332583561d24395abf8c0a9102ee2c49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-332583561d24395abf8c0a9102ee2c49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-332583561d24395abf8c0a9102ee2c49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-332583561d24395abf8c0a9102ee2c49]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/1080) revoked (31.1.2025) by [The Electronic Monitoring (Responsible Persons) (Miscellaneous) Regulations 2024 (S.I. 2024/340)](https://www.legislation.gov.uk/uksi/2024/340), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2024/340/regulation/2/3), [9(2)(b)](https://www.legislation.gov.uk/uksi/2024/340/regulation/9/2/b)
+[^c-332583561d24395abf8c0a9102ee2c49]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/1080) revoked (31.1.2025) by [The Electronic Monitoring (Responsible Persons) (Miscellaneous) Regulations 2024 (S.I. 2024/340)](https://www.legislation.gov.uk/uksi/2024/340), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2024/340/regulation/2/3), [9(2)(b)](https://www.legislation.gov.uk/uksi/2024/340/regulation/9/2/b)

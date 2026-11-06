@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Income and Corporation Taxes Act 1988[^key-0e84598fb46a85ebad8922e5a48f2e76]
+## 47. Income and Corporation Taxes Act 1988[^c-0e84598fb46a85ebad8922e5a48f2e76]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Income and Corporation Taxes Act 1988 [^f00011] is amended as follows.
 
 ## Annotations
 
-[^key-0e84598fb46a85ebad8922e5a48f2e76]: Commencement: Reg. 47 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-0e84598fb46a85ebad8922e5a48f2e76]: Commencement: Reg. 47 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
 
 [^f00011]: Footnote: [1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1).

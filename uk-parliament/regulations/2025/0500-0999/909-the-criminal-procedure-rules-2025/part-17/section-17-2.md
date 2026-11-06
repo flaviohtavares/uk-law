@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17.2. Issue etc. of summons, warrant or order[^key-1a4e0bb7d198a794e831888d659a4070]
+## 17.2. Issue etc. of summons, warrant or order[^c-1a4e0bb7d198a794e831888d659a4070]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a4e0bb7d198a794e831888d659a4070]: Commencement: [Rule 17.2](https://www.legislation.gov.uk/uksi/2025/909/rule/17.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1a4e0bb7d198a794e831888d659a4070]: Commencement: [Rule 17.2](https://www.legislation.gov.uk/uksi/2025/909/rule/17.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

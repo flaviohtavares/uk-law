@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Notices: general[^key-8defd41a9890e18acf30a26472483029]
+## 8. Notices: general[^c-8defd41a9890e18acf30a26472483029]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ Subject to the provisions of these Regulations –
 
 ## Annotations
 
-[^key-8defd41a9890e18acf30a26472483029]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2004/335/regulation/8) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-8defd41a9890e18acf30a26472483029]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2004/335/regulation/8) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

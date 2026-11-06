@@ -66,11 +66,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “**relevant offence**” means an offence under section 51A of the 1982 Act (extreme pornography) [^c20716101];
 - “**service provider**” means a person providing an information society service.
 
-(2)[^key-7dc6a98e2a6a3112847b1b3cd46ae9aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7dc6a98e2a6a3112847b1b3cd46ae9aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-39f204b27051f7c44a3e56798cd3ccdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-39f204b27051f7c44a3e56798cd3ccdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Non-UK service providers: restriction on institution of proceedings[^key-c82d2e5726d494c8def6de0579fedaf2]
+## 3. Non-UK service providers: restriction on institution of proceedings[^c-c82d2e5726d494c8def6de0579fedaf2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -86,7 +86,7 @@ if the transmission condition is satisfied.
 (2) The transmission condition is that the service provider does not—
 
 - (a) initiate the transmission;
-- (b) select the recipient of the transmission; and[^key-c93c36dd41b2ea2766b77dee79f8b17d]
+- (b) select the recipient of the transmission; and[^c-c93c36dd41b2ea2766b77dee79f8b17d]
 - (c) select or modify the information contained in the transmission.
 
 (3) Paragraph (1)(b) does not apply if the information is information to which regulation 5 applies.
@@ -155,10 +155,10 @@ Regulations 4, 5 and 6 create exceptions from liability for the offence under se
 
 [^c20716101]: Marginal citation: [Section 51A](https://www.legislation.gov.uk/ssi/2011/137/section/51A) to C were inserted into the 1982 Act by section 42(2) of the [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13).
 
-[^key-7dc6a98e2a6a3112847b1b3cd46ae9aa]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2011/137/regulation/2/2) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/4/2)
+[^c-7dc6a98e2a6a3112847b1b3cd46ae9aa]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2011/137/regulation/2/2) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/4/2)
 
-[^key-39f204b27051f7c44a3e56798cd3ccdb]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2011/137/regulation/2/3) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/4/2)
+[^c-39f204b27051f7c44a3e56798cd3ccdb]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/ssi/2011/137/regulation/2/3) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/4/2)
 
-[^key-c82d2e5726d494c8def6de0579fedaf2]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/137/regulation/3) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2026/407/regulation/4/3)
+[^c-c82d2e5726d494c8def6de0579fedaf2]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/137/regulation/3) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2026/407/regulation/4/3)
 
-[^key-c93c36dd41b2ea2766b77dee79f8b17d]: Textual amendment: Word in [reg. 4(2)(b)](https://www.legislation.gov.uk/ssi/2011/137/regulation/4/2/b) substituted (28.3.2011) by [The Extreme Pornography (Electronic Commerce Directive) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/170)](https://www.legislation.gov.uk/ssi/2011/170), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/170/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2011/170/regulation/3)
+[^c-c93c36dd41b2ea2766b77dee79f8b17d]: Textual amendment: Word in [reg. 4(2)(b)](https://www.legislation.gov.uk/ssi/2011/137/regulation/4/2/b) substituted (28.3.2011) by [The Extreme Pornography (Electronic Commerce Directive) (Scotland) Amendment Regulations 2011 (S.S.I. 2011/170)](https://www.legislation.gov.uk/ssi/2011/170), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/170/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2011/170/regulation/3)

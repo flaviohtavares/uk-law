@@ -33,11 +33,11 @@ An Act to consolidate certain enactments relating to town and country planning (
 
 \[24th May 1990\]
 
-[^c14014551][^c14014561][^c14014571][^c14014581][^c14014591][^c18811351][^c18871971][^c19897331][^c19901431][^c20573341][^c21003851]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-c9ac83d0a766c046ee822f2998f20665][^key-d67af27b689010230292f1f09f078faa][^key-5cacd62f9a0ae14b82cc65d71b706662][^key-e88ee41f8d920c07b2fe93c615f4d771][^key-5fbed5b09dd57097ba02e438e6145b28][^key-862bfba418437da4e85d94efc80d9d24][^key-89fd2136123961d9f0a990ece2f7c650][^key-73e6dc646ed04f6bdc18d3b7912dc6b2][^key-4062c4d4a370691cb76310efae40f424][^key-70d73aa57cc7ae679f069b0d36465761][^key-6429aa637201c264fc415dc644fa458a][^key-909ac4590a9862e481a4ec712e53c0de][^key-074183525d0a9b3df37f05a7e75923f7][^key-7e23675eabfb24ab75b9b8316de8c8c7][^key-92172f958cb1d2b0c05b68d4f1d858ef][^key-980f74f84749d8fd54e3948799a8a9a9][^key-1341e6f6a3a2c14aeac9a47d04b25b5a][^key-65d5817ca5483453c06d7fc61fb11833][^key-f8389b17ae2f9baec953b74ab690e451][^key-20be874f265383e446dc48b5a1dba5aa][^key-f493933cb7808f395bbe6932db9a6d91]
+[^c14014551][^c14014561][^c14014571][^c14014581][^c14014591][^c18811351][^c18871971][^c19897331][^c19901431][^c20573341][^c21003851]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-c9ac83d0a766c046ee822f2998f20665][^c-d67af27b689010230292f1f09f078faa][^c-5cacd62f9a0ae14b82cc65d71b706662][^c-e88ee41f8d920c07b2fe93c615f4d771][^c-5fbed5b09dd57097ba02e438e6145b28][^c-862bfba418437da4e85d94efc80d9d24][^c-89fd2136123961d9f0a990ece2f7c650][^c-73e6dc646ed04f6bdc18d3b7912dc6b2][^c-4062c4d4a370691cb76310efae40f424][^c-70d73aa57cc7ae679f069b0d36465761][^c-6429aa637201c264fc415dc644fa458a][^c-909ac4590a9862e481a4ec712e53c0de][^c-074183525d0a9b3df37f05a7e75923f7][^c-7e23675eabfb24ab75b9b8316de8c8c7][^c-92172f958cb1d2b0c05b68d4f1d858ef][^c-980f74f84749d8fd54e3948799a8a9a9][^c-1341e6f6a3a2c14aeac9a47d04b25b5a][^c-65d5817ca5483453c06d7fc61fb11833][^c-f8389b17ae2f9baec953b74ab690e451][^c-20be874f265383e446dc48b5a1dba5aa][^c-f493933cb7808f395bbe6932db9a6d91]
 
 ## Contents
 
-### Part I — Planning Authorities[^c14014621][^key-b75c73c9b39efe83da7d9bfb7e9a1a93]
+### Part I — Planning Authorities[^c14014621][^c-b75c73c9b39efe83da7d9bfb7e9a1a93]
 
 *Extent: E+W*
 
@@ -236,7 +236,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 
 - [Section 54A — Status of development plans.](part-ii/section-54a.md)
 
-### Part III — Control over development[^c14019122][^c19286131][^c19901061][^c19901501][^c19901571][^c21021771][^c21021931][^key-5c21df1883857db7343c421853d70dba][^key-b0296a91b2ab3e001d3c96f3cf2122c9][^key-e34b0743f83915859176da72e4032dac][^key-0f09c760bf8c21331d9aafcaeb272c32]
+### Part III — Control over development[^c14019122][^c19286131][^c19901061][^c19901501][^c19901571][^c21021771][^c21021931][^c-5c21df1883857db7343c421853d70dba][^c-b0296a91b2ab3e001d3c96f3cf2122c9][^c-e34b0743f83915859176da72e4032dac][^c-0f09c760bf8c21331d9aafcaeb272c32]
 
 *Extent: E+W*
 
@@ -250,7 +250,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 57 — Planning permission required for development.](part-iii/section-57.md)
 - [Section 58 — Granting of planning permission: general.](part-iii/section-58.md)
 
-#### Permission in principle[^key-dbfa6d07a93d8a6f20631d20f925fec5]
+#### Permission in principle[^c-dbfa6d07a93d8a6f20631d20f925fec5]
 
 - [Section 58A — Permission in principle: general](part-iii/section-58a.md)
 
@@ -270,7 +270,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 61C — Permission granted by local development order](part-iii/section-61c.md)
 - [Section 61D — Effect of revision or revocation of development order on incomplete development](part-iii/section-61d.md)
 
-#### Mayoral development orders[^key-bcfce2ecded10a69c31b75dd9e9b3873]
+#### Mayoral development orders[^c-bcfce2ecded10a69c31b75dd9e9b3873]
 
 *Extent: E+W*
 
@@ -280,7 +280,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 61DD — Revision or revocation of Mayoral development order](part-iii/section-61dd.md)
 - [Section 61DE — Effect of revision or revocation on incomplete development](part-iii/section-61de.md)
 
-#### Neighbourhood development orders[^key-99c58ceb70d9a80231e26e93f5bf37c9]
+#### Neighbourhood development orders[^c-99c58ceb70d9a80231e26e93f5bf37c9]
 
 *Extent: E+W*
 
@@ -298,7 +298,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 61P — Provision as to the making of certain decisions by local planning authorities](part-iii/section-61p.md)
 - [Section 61Q — Community right to build orders](part-iii/section-61q.md)
 
-#### Street vote development orders[^key-514558ce6e40c22f8b62e165d308af90]
+#### Street vote development orders[^c-514558ce6e40c22f8b62e165d308af90]
 
 - [Section 61QA — Street vote development orders](part-iii/section-61qa.md)
 - [Section 61QB — Qualifying groups](part-iii/section-61qb.md)
@@ -314,7 +314,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 61QL — Street votes: connected modifications](part-iii/section-61ql.md)
 - [Section 61QM — Interpretation](part-iii/section-61qm.md)
 
-#### England: consultation before applying for planning permission or permission in principle[^key-c5953a207c26875a6be794043bfb8706][^key-6e5b5d2d113f5ea11ee9ceb82f9caaca][^key-49be9dfdc2b82629c989912d9298ba7e]
+#### England: consultation before applying for planning permission or permission in principle[^c-c5953a207c26875a6be794043bfb8706][^c-6e5b5d2d113f5ea11ee9ceb82f9caaca][^c-49be9dfdc2b82629c989912d9298ba7e]
 
 *Extent: E+W*
 
@@ -322,7 +322,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 61X — Duty to take account of responses to consultation](part-iii/section-61x.md)
 - [Section 61Y — Power to make supplementary provision](part-iii/section-61y.md)
 
-#### Wales: pre-application procedure[^key-9809182a181039f924d086d6603815e3]
+#### Wales: pre-application procedure[^c-9809182a181039f924d086d6603815e3]
 
 *Extent: E+W*
 
@@ -336,7 +336,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 
 - [Section 62 — Applications for planning permission or permission in principle.](part-iii/section-62.md)
 
-#### Wales: appeal against notice that application is not valid[^key-2ece1dbd44bc1f04c51224371d0234c4]
+#### Wales: appeal against notice that application is not valid[^c-2ece1dbd44bc1f04c51224371d0234c4]
 
 *Extent: E+W*
 
@@ -345,7 +345,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 62ZC — Appeals under section 62ZB: determination by appointed person](part-iii/section-62zc.md)
 - [Section 62ZD — Appeals under section 62ZB: determination by Welsh Ministers in place of appointed person](part-iii/section-62zd.md)
 
-#### England: option to make application directly to Secretary of State[^key-e307287234955bd167ba03ef836a0804]
+#### England: option to make application directly to Secretary of State[^c-e307287234955bd167ba03ef836a0804]
 
 *Extent: E+W*
 
@@ -353,7 +353,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 62B — Designation for the purposes of section 62A](part-iii/section-62b.md)
 - [Section 62C — Notifying parish councils of applications under section 62A(1)](part-iii/section-62c.md)
 
-#### Wales: developments of national significance[^key-38c6680850c1bd9968e2e01c32c2cc7a]
+#### Wales: developments of national significance[^c-38c6680850c1bd9968e2e01c32c2cc7a]
 
 *Extent: E+W*
 
@@ -369,7 +369,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 62K — Local impact report: supplementary](part-iii/section-62k.md)
 - [Section 62L — Timetable for determining applications](part-iii/section-62l.md)
 
-#### Wales: option to make application to Welsh Ministers[^key-af84975a7efce9b7e1d60b8b01203db0]
+#### Wales: option to make application to Welsh Ministers[^c-af84975a7efce9b7e1d60b8b01203db0]
 
 *Extent: E+W*
 
@@ -377,7 +377,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 62N — Designation for the purposes of section 62M](part-iii/section-62n.md)
 - [Section 62O — Option to make application to Welsh Ministers: connected applications](part-iii/section-62o.md)
 
-#### Applications made to Welsh Ministers: general[^key-9de29e6f6d4db0a255b66c4fdf4d707c]
+#### Applications made to Welsh Ministers: general[^c-9de29e6f6d4db0a255b66c4fdf4d707c]
 
 *Extent: E+W*
 
@@ -423,7 +423,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 75 — Effect of planning permission or permission in principle.](part-iii/section-75.md)
 - [Section 75ZB — Information about neighbourhood development plans](part-iii/section-75zb.md)
 
-#### Applications made to the Welsh Ministers: applicable provisions[^key-6de3feaff70d58e2d8ad1e0d196881a1]
+#### Applications made to the Welsh Ministers: applicable provisions[^c-6de3feaff70d58e2d8ad1e0d196881a1]
 
 - [Section 75A — Provisions applying for purpose of applications made to the Welsh Ministers](part-iii/section-75a.md)
 - [Section 76 — Duty to draw attention to certain provisions for benefit of disabled.](part-iii/section-76.md)
@@ -462,11 +462,11 @@ An Act to consolidate certain enactments relating to town and country planning (
 
 - [Section 90 — Development with government authorisation.](part-iii/section-90.md)
 
-#### Biodiversity gain[^key-003ef4e890b83b91a23b2ee842b689af]
+#### Biodiversity gain[^c-003ef4e890b83b91a23b2ee842b689af]
 
 - [Section 90A — Biodiversity gain in England](part-iii/section-90a.md)
 
-#### Development progress reports[^key-9662217e594236ce51a8856636f25290]
+#### Development progress reports[^c-9662217e594236ce51a8856636f25290]
 
 - [Section 90B — Condition relating to development progress reports in England](part-iii/section-90b.md)
 
@@ -485,17 +485,17 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 93E — Outline planning permission: automatic extension of certain time limits for beginning development](part-iii/section-93e.md)
 - [Section 93F — Outline planning permission: extension of limits for beginning development with additional environmental approval](part-iii/section-93f.md)
 
-#### Commencement of development: England[^key-bf61c00b9d46571e5ff08057be42deb6]
+#### Commencement of development: England[^c-bf61c00b9d46571e5ff08057be42deb6]
 
 - [Section 93G — Commencement notices](part-iii/section-93g.md)
 
-#### Termination of planning permission: England[^key-f82ec79aa758255a4f6008de274d7941]
+#### Termination of planning permission: England[^c-f82ec79aa758255a4f6008de274d7941]
 
 - [Section 93H — Completion notices](part-iii/section-93h.md)
 - [Section 93I — Appeals against completion notices](part-iii/section-93i.md)
 - [Section 93J — Effect of completion notices](part-iii/section-93j.md)
 
-#### Termination of planning permission: Wales[^key-de3bae49bcb3b9b744b9a885a9ab3b7d]
+#### Termination of planning permission: Wales[^c-de3bae49bcb3b9b744b9a885a9ab3b7d]
 
 - [Section 94 — Termination of planning permission by reference to time limit: completion notices in Wales.](part-iii/section-94.md)
 - [Section 95 — Effect of completion notice in Wales.](part-iii/section-95.md)
@@ -505,7 +505,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 
 - [Section 96A — Power to make non-material changes to planning permission or permission in principle](part-iii/section-96a.md)
 
-#### Revocation and modification of planning permission or permission in principle[^key-2d880a4e084b193881e97c0ed50037ac]
+#### Revocation and modification of planning permission or permission in principle[^c-2d880a4e084b193881e97c0ed50037ac]
 
 *Extent: E+W*
 
@@ -514,13 +514,13 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 99 — Procedure for s. 97 orders: unopposed cases.](part-iii/section-99.md)
 - [Section 100 — Revocation and modification of planning permission or permission in principle by the Secretary of State.](part-iii/section-100.md)
 
-#### Power to impose conditions on grant of planning permission in England[^key-c8e25574c35914222033fa782eff6fba]
+#### Power to impose conditions on grant of planning permission in England[^c-c8e25574c35914222033fa782eff6fba]
 
 *Extent: E+W*
 
 - [Section 100ZA — Restrictions on power to impose planning conditions in England](part-iii/section-100za.md)
 
-#### Consultation etc in respect of certain applications relating to planning permission: Wales[^key-78ed59e565f58ebbdec0f7982b8fb6c3]
+#### Consultation etc in respect of certain applications relating to planning permission: Wales[^c-78ed59e565f58ebbdec0f7982b8fb6c3]
 
 - [Section 100A — Wales: consultation etc in respect of certain applications relating to planning permission](part-iii/section-100a.md)
 
@@ -545,7 +545,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 106C — Legal challenges relating to development consent obligations](part-iii/section-106c.md)
 - [Section 106D — Legal challenges relating to infrastructure consent obligations](part-iii/section-106d.md)
 
-### Part IV — Compensation for Effects of Certain Orders, Notices, etc.[^c14021011][^c19898351][^c21021041][^c21021121][^c21021161][^key-76eac61187325305f154e51c91847a01][^key-d51f83fd40fe26b0d7fd1b3cd8e5b454][^key-11d4d055995169945783e274c202e894]
+### Part IV — Compensation for Effects of Certain Orders, Notices, etc.[^c14021011][^c19898351][^c21021041][^c21021121][^c21021161][^c-76eac61187325305f154e51c91847a01][^c-d51f83fd40fe26b0d7fd1b3cd8e5b454][^c-11d4d055995169945783e274c202e894]
 
 *Extent: E+W*
 
@@ -702,7 +702,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 170 — “Appropriate enactment” for purposes of Chapter II.](part-vi/section-170.md)
 - [Section 171 — General interpretation of Chapter II.](part-vi/section-171.md)
 
-### Part VII — Enforcement[^c14022111][^key-73423ec1d2a8eae2ebf9ee3d615ae2b3][^M_C_49ec25e6-d57c-4d1a-fc94-962a5eb24c2e]
+### Part VII — Enforcement[^c14022111][^c-73423ec1d2a8eae2ebf9ee3d615ae2b3][^M_C_49ec25e6-d57c-4d1a-fc94-962a5eb24c2e]
 
 *Extent: E+W*
 
@@ -719,7 +719,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 171C — Power to require information about activities on land.](part-vii/section-171c.md)
 - [Section 171D — Penalties for non-compliance with planning contravention notice.](part-vii/section-171d.md)
 
-#### Temporary stop notices[^key-20342f9292d6e85d7b7d691d6b50d95f]
+#### Temporary stop notices[^c-20342f9292d6e85d7b7d691d6b50d95f]
 
 *Extent: E+W*
 
@@ -794,11 +794,11 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 196B — Right to enter under warrant.](part-vii/section-196b.md)
 - [Section 196C — Rights of entry: supplementary provisions.](part-vii/section-196c.md)
 
-#### Conservation areas[^key-95de88749ac354e6db1751c494dd573e]
+#### Conservation areas[^c-95de88749ac354e6db1751c494dd573e]
 
 - [Section 196D — Offence of failing to obtain planning permission for demolition of unlisted etc buildings in conservation areas in England](part-vii/section-196d.md)
 
-#### Relief from enforcement[^key-b29ba4f89cc2a9ae36bb731f278d9fd1]
+#### Relief from enforcement[^c-b29ba4f89cc2a9ae36bb731f278d9fd1]
 
 - [Section 196E — Power to provide relief from enforcement of planning conditions](part-vii/section-196e.md)
 
@@ -898,7 +898,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 225D — Right to appeal against notice under section 225C](part-viii/section-225d.md)
 - [Section 225E — Applying section 225C to statutory undertakers' operational land](part-viii/section-225e.md)
 
-#### CHAPTER 4 — Remedying defacement of premises[^key-5f10d6d5f9588943ad9c912ae2f635c0]
+#### CHAPTER 4 — Remedying defacement of premises[^c-5f10d6d5f9588943ad9c912ae2f635c0]
 
 - [Section 225F — Power to remedy defacement of premises](part-viii/section-225f.md)
 - [Section 225G — Notices under section 225F in respect of post boxes](part-viii/section-225g.md)
@@ -906,13 +906,13 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 225I — Right to appeal against notice under section 225F](part-viii/section-225i.md)
 - [Section 225J — Remedying defacement at owner or occupier's request](part-viii/section-225j.md)
 
-#### CHAPTER 5 — Application of provisions of Chapters 3 and 4 to statutory undertakers[^key-5f10d6d5f9588943ad9c912ae2f635c0]
+#### CHAPTER 5 — Application of provisions of Chapters 3 and 4 to statutory undertakers[^c-5f10d6d5f9588943ad9c912ae2f635c0]
 
 *Extent: E+W*
 
 - [Section 225K — Action under sections 225A, 225C and 225F: operational land](part-viii/section-225k.md)
 
-### Part IX — Acquisition and Appropriation of Land for Planning Purposes, etc.[^key-6517338fab418b3b9038c9505a96ca59][^c14025171][^M_C_5080492e-7ac9-421f-9a1f-75db05d0033f][^M_C_19b2c479-ee61-4e58-ab4a-3b82091629ba][^key-69d38099f0936a4c4b9ba27341f67925][^key-90e6f5dfbcbb373542815b6247e6d48e][^key-44a8d51d2a860e87a1c0db548343a1c4][^key-3bdb64a45edf35d7853437c1f715a451][^key-cff962d80373dfb04270f2cfb0917d4a][^key-8bea3a071448d2556d7b70893be9ee03][^key-f07ee5d8abfe595ead0a9ab6e800fc35][^key-22ce916de130821de47a899a6b00b17b]
+### Part IX — Acquisition and Appropriation of Land for Planning Purposes, etc.[^c-6517338fab418b3b9038c9505a96ca59][^c14025171][^M_C_5080492e-7ac9-421f-9a1f-75db05d0033f][^M_C_19b2c479-ee61-4e58-ab4a-3b82091629ba][^c-69d38099f0936a4c4b9ba27341f67925][^c-90e6f5dfbcbb373542815b6247e6d48e][^c-44a8d51d2a860e87a1c0db548343a1c4][^c-3bdb64a45edf35d7853437c1f715a451][^c-cff962d80373dfb04270f2cfb0917d4a][^c-8bea3a071448d2556d7b70893be9ee03][^c-f07ee5d8abfe595ead0a9ab6e800fc35][^c-22ce916de130821de47a899a6b00b17b]
 
 *Extent: E+W*
 
@@ -1030,7 +1030,7 @@ An Act to consolidate certain enactments relating to town and country planning (
 
 - [Section 283 — Display of advertisements on operational land.](part-xi/section-283.md)
 
-### Part XII — Validity[^key-5096dc78e1d1434679957760fd3b7760]
+### Part XII — Validity[^c-5096dc78e1d1434679957760fd3b7760]
 
 - [Section 284 — Validity of development plans and certain orders, decisions and directions.](part-xii/section-284.md)
 - [Section 285 — Validity of enforcement notices and similar notices.](part-xii/section-285.md)
@@ -1125,19 +1125,19 @@ An Act to consolidate certain enactments relating to town and country planning (
 - [Section 318 — Ecclesiastical property.](part-xv/section-318.md)
 - [Section 319 — The Isles of Scilly.](part-xv/section-319.md)
 
-#### England: training in the exercise of certain planning functions[^key-e48b13d724c79f729644f25a35599225]
+#### England: training in the exercise of certain planning functions[^c-e48b13d724c79f729644f25a35599225]
 
 - [Section 319ZZA — Training: local planning authorities in England](part-xv/section-319zza.md)
 - [Section 319ZZB — Training: certain mayoral planning functions](part-xv/section-319zzb.md)
 
-#### England: discharge of functions of local planning authority[^key-b4ec12d87e84f3c78c0122716477fc2a]
+#### England: discharge of functions of local planning authority[^c-b4ec12d87e84f3c78c0122716477fc2a]
 
 - [Section 319ZZC — Requirement for functions to be discharged by committee, sub-committee or officer](part-xv/section-319zzc.md)
 - [Section 319ZZD — Size and composition of committee discharging functions](part-xv/section-319zzd.md)
 - [Section 319ZZE — Sections 319ZZC and 319ZZD: supplementary](part-xv/section-319zze.md)
 - [Section 319ZZF — Interpretation of sections 319ZZC to 319ZZE](part-xv/section-319zzf.md)
 
-#### Wales: discharge of functions of local planning authority relating to applications[^key-d4d6e164ad8b5ca21b78ebfb504f6616]
+#### Wales: discharge of functions of local planning authority relating to applications[^c-d4d6e164ad8b5ca21b78ebfb504f6616]
 
 - [Section 319ZA — Requirement for functions to be discharged by committee, sub-committee or officer](part-xv/section-319za.md)
 - [Section 319ZB — Size and composition of committee discharging functions](part-xv/section-319zb.md)
@@ -1300,53 +1300,53 @@ SCHEDULES
 
 [^c21003851]: Modification: Act modified (17.3.2010) by [The Harwich Parkeston Quay Harbour Revision Order 2010 (S.I. 2010/626)](https://www.legislation.gov.uk/uksi/2010/626), [art. 10](https://www.legislation.gov.uk/uksi/2010/626/article/10) (with [art. 20](https://www.legislation.gov.uk/uksi/2010/626/article/20))
 
-[^key-c9ac83d0a766c046ee822f2998f20665]: Modification: Act modified (7.4.2011) by [The Associated British Ports (Grimsby Riverside Ro-Ro Terminal) Harbour Revision Order 2011 (S.I. 2011/950)](https://www.legislation.gov.uk/uksi/2011/950), [art. 22](https://www.legislation.gov.uk/uksi/2011/950/article/22), [Sch. paras. 1(2)](https://www.legislation.gov.uk/uksi/2011/950/schedule/paragraph/1/2), [2-6](https://www.legislation.gov.uk/uksi/2011/950/schedule/paragraph/2)
+[^c-c9ac83d0a766c046ee822f2998f20665]: Modification: Act modified (7.4.2011) by [The Associated British Ports (Grimsby Riverside Ro-Ro Terminal) Harbour Revision Order 2011 (S.I. 2011/950)](https://www.legislation.gov.uk/uksi/2011/950), [art. 22](https://www.legislation.gov.uk/uksi/2011/950/article/22), [Sch. paras. 1(2)](https://www.legislation.gov.uk/uksi/2011/950/schedule/paragraph/1/2), [2-6](https://www.legislation.gov.uk/uksi/2011/950/schedule/paragraph/2)
 
-[^key-d67af27b689010230292f1f09f078faa]: Modification: Act applied in part (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
+[^c-d67af27b689010230292f1f09f078faa]: Modification: Act applied in part (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
 
-[^key-5cacd62f9a0ae14b82cc65d71b706662]: Modification: Act applied (with modifications) (21.4.2015) by [The Network Rail (Ordsall Chord) Order 2015 (S.I. 2015/780)](https://www.legislation.gov.uk/uksi/2015/780), [Sch. 11 para. 1](https://www.legislation.gov.uk/uksi/2015/780/schedule/11/paragraph/1) (with [art. 36(2)](https://www.legislation.gov.uk/uksi/2015/780/article/36/2))
+[^c-5cacd62f9a0ae14b82cc65d71b706662]: Modification: Act applied (with modifications) (21.4.2015) by [The Network Rail (Ordsall Chord) Order 2015 (S.I. 2015/780)](https://www.legislation.gov.uk/uksi/2015/780), [Sch. 11 para. 1](https://www.legislation.gov.uk/uksi/2015/780/schedule/11/paragraph/1) (with [art. 36(2)](https://www.legislation.gov.uk/uksi/2015/780/article/36/2))
 
-[^key-e88ee41f8d920c07b2fe93c615f4d771]: Modification: Act modified (W.) (1.3.2016) by [The Developments of National Significance (Wales) Regulations 2016 (S.I. 2016/56)](https://www.legislation.gov.uk/wsi/2016/56), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/2), [Sch. 7 para. 1(2)](https://www.legislation.gov.uk/wsi/2016/56/schedule/7/paragraph/1/2) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/3), [47](https://www.legislation.gov.uk/wsi/2016/56/regulation/47))
+[^c-e88ee41f8d920c07b2fe93c615f4d771]: Modification: Act modified (W.) (1.3.2016) by [The Developments of National Significance (Wales) Regulations 2016 (S.I. 2016/56)](https://www.legislation.gov.uk/wsi/2016/56), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/2), [Sch. 7 para. 1(2)](https://www.legislation.gov.uk/wsi/2016/56/schedule/7/paragraph/1/2) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/56/regulation/1/3), [47](https://www.legislation.gov.uk/wsi/2016/56/regulation/47))
 
-[^key-5fbed5b09dd57097ba02e438e6145b28]: Modification: Act modified (W.) (1.3.2016) by [The Developments of National Significance (Application of Enactments) (Wales) Order 2016 (S.I. 2016/54)](https://www.legislation.gov.uk/wsi/2016/54), [art. 1](https://www.legislation.gov.uk/wsi/2016/54/article/1), [art. 3(2)](https://www.legislation.gov.uk/wsi/2016/54/article/3/2)
+[^c-5fbed5b09dd57097ba02e438e6145b28]: Modification: Act modified (W.) (1.3.2016) by [The Developments of National Significance (Application of Enactments) (Wales) Order 2016 (S.I. 2016/54)](https://www.legislation.gov.uk/wsi/2016/54), [art. 1](https://www.legislation.gov.uk/wsi/2016/54/article/1), [art. 3(2)](https://www.legislation.gov.uk/wsi/2016/54/article/3/2)
 
-[^key-862bfba418437da4e85d94efc80d9d24]: Modification: Act modified in part (2.8.2016) by [The Midland Metro (Wolverhampton City Centre Extension) Order 2016 (S.I. 2016/684)](https://www.legislation.gov.uk/uksi/2016/684), [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1), [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2016/684/schedule/8/paragraph/1) (with [arts. 46](https://www.legislation.gov.uk/uksi/2016/684/article/46), [47](https://www.legislation.gov.uk/uksi/2016/684/article/47), [Sch. 9 para. 4](https://www.legislation.gov.uk/uksi/2016/684/schedule/9/paragraph/4), [Sch. 10 para. 12(2)](https://www.legislation.gov.uk/uksi/2016/684/schedule/10/paragraph/12/2))
+[^c-862bfba418437da4e85d94efc80d9d24]: Modification: Act modified in part (2.8.2016) by [The Midland Metro (Wolverhampton City Centre Extension) Order 2016 (S.I. 2016/684)](https://www.legislation.gov.uk/uksi/2016/684), [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1), [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2016/684/schedule/8/paragraph/1) (with [arts. 46](https://www.legislation.gov.uk/uksi/2016/684/article/46), [47](https://www.legislation.gov.uk/uksi/2016/684/article/47), [Sch. 9 para. 4](https://www.legislation.gov.uk/uksi/2016/684/schedule/9/paragraph/4), [Sch. 10 para. 12(2)](https://www.legislation.gov.uk/uksi/2016/684/schedule/10/paragraph/12/2))
 
-[^key-89fd2136123961d9f0a990ece2f7c650]: Modification: Act applied in part (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 22(7)(8)](https://www.legislation.gov.uk/ukpga/2017/7/section/22/7/8), [50(6)(7)](https://www.legislation.gov.uk/ukpga/2017/7/section/50/6/7), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
+[^c-89fd2136123961d9f0a990ece2f7c650]: Modification: Act applied in part (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [ss. 22(7)(8)](https://www.legislation.gov.uk/ukpga/2017/7/section/22/7/8), [50(6)(7)](https://www.legislation.gov.uk/ukpga/2017/7/section/50/6/7), [70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1)
 
-[^key-73e6dc646ed04f6bdc18d3b7912dc6b2]: Modification: Act construed as one with S.I. 2017/1012, Pt. 6 Ch. 2 (except regs. 84, 85) (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), regs. 1(2), [86](https://www.legislation.gov.uk/uksi/2017/1012/regulation/86)
+[^c-73e6dc646ed04f6bdc18d3b7912dc6b2]: Modification: Act construed as one with S.I. 2017/1012, Pt. 6 Ch. 2 (except regs. 84, 85) (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), regs. 1(2), [86](https://www.legislation.gov.uk/uksi/2017/1012/regulation/86)
 
-[^key-4062c4d4a370691cb76310efae40f424]: Modification: Act modified (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), regs. 1(2), [78(3)(a)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/78/3/a)
+[^c-4062c4d4a370691cb76310efae40f424]: Modification: Act modified (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), regs. 1(2), [78(3)(a)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/78/3/a)
 
-[^key-70d73aa57cc7ae679f069b0d36465761]: Modification: Act modified (4.1.2018) by [The Blackpool Tramway (Blackpool North Extension) Order 2017 (S.I. 2017/1214)](https://www.legislation.gov.uk/uksi/2017/1214), [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2017/1214/schedule/7/paragraph/1) (with [arts. 58](https://www.legislation.gov.uk/uksi/2017/1214/article/58), [59](https://www.legislation.gov.uk/uksi/2017/1214/article/59))
+[^c-70d73aa57cc7ae679f069b0d36465761]: Modification: Act modified (4.1.2018) by [The Blackpool Tramway (Blackpool North Extension) Order 2017 (S.I. 2017/1214)](https://www.legislation.gov.uk/uksi/2017/1214), [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2017/1214/schedule/7/paragraph/1) (with [arts. 58](https://www.legislation.gov.uk/uksi/2017/1214/article/58), [59](https://www.legislation.gov.uk/uksi/2017/1214/article/59))
 
-[^key-6429aa637201c264fc415dc644fa458a]: Modification: Act applied in part (with modifications) (7.5.2019) by [The Midland Metro (Birmingham City Centre Extension, etc.) (Edgbaston Extension Land Acquisition) Order 2019 (S.I. 2019/882)](https://www.legislation.gov.uk/uksi/2019/882), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2019/882/schedule/4/paragraph/1) (with [art. 18](https://www.legislation.gov.uk/uksi/2019/882/article/18))
+[^c-6429aa637201c264fc415dc644fa458a]: Modification: Act applied in part (with modifications) (7.5.2019) by [The Midland Metro (Birmingham City Centre Extension, etc.) (Edgbaston Extension Land Acquisition) Order 2019 (S.I. 2019/882)](https://www.legislation.gov.uk/uksi/2019/882), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2019/882/schedule/4/paragraph/1) (with [art. 18](https://www.legislation.gov.uk/uksi/2019/882/article/18))
 
-[^key-909ac4590a9862e481a4ec712e53c0de]: Modification: Act modified in part (4.3.2020) by [The Midland Metro (Birmingham Eastside Extension) Order 2020 (S.I. 2020/141)](https://www.legislation.gov.uk/uksi/2020/141), [art. 1](https://www.legislation.gov.uk/uksi/2020/141/article/1), [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/2020/141/schedule/9/paragraph/1) (with [arts. 47](https://www.legislation.gov.uk/uksi/2020/141/article/47), [48](https://www.legislation.gov.uk/uksi/2020/141/article/48), [Sch. 10 para. 19](https://www.legislation.gov.uk/uksi/2020/141/schedule/10/paragraph/19))
+[^c-909ac4590a9862e481a4ec712e53c0de]: Modification: Act modified in part (4.3.2020) by [The Midland Metro (Birmingham Eastside Extension) Order 2020 (S.I. 2020/141)](https://www.legislation.gov.uk/uksi/2020/141), [art. 1](https://www.legislation.gov.uk/uksi/2020/141/article/1), [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/2020/141/schedule/9/paragraph/1) (with [arts. 47](https://www.legislation.gov.uk/uksi/2020/141/article/47), [48](https://www.legislation.gov.uk/uksi/2020/141/article/48), [Sch. 10 para. 19](https://www.legislation.gov.uk/uksi/2020/141/schedule/10/paragraph/19))
 
-[^key-074183525d0a9b3df37f05a7e75923f7]: Modification: Act restricted (25.5.2020) by [The West Midlands Rail Freight Interchange Order 2020 (S.I. 2020/511)](https://www.legislation.gov.uk/uksi/2020/511), [art. 1](https://www.legislation.gov.uk/uksi/2020/511/article/1), [Sch. 14 para. 5](https://www.legislation.gov.uk/uksi/2020/511/schedule/14/paragraph/5)
+[^c-074183525d0a9b3df37f05a7e75923f7]: Modification: Act restricted (25.5.2020) by [The West Midlands Rail Freight Interchange Order 2020 (S.I. 2020/511)](https://www.legislation.gov.uk/uksi/2020/511), [art. 1](https://www.legislation.gov.uk/uksi/2020/511/article/1), [Sch. 14 para. 5](https://www.legislation.gov.uk/uksi/2020/511/schedule/14/paragraph/5)
 
-[^key-7e23675eabfb24ab75b9b8316de8c8c7]: Modification: S. 153(4A) excluded (3.12.2020) by [The A303 (Amesbury to Berwick Down) Development Consent Order 2020 (S.I. 2020/1297)](https://www.legislation.gov.uk/uksi/2020/1297), [art. 27(4)(c)](https://www.legislation.gov.uk/uksi/2020/1297/article/27/4/c) (with [arts. 6(2)](https://www.legislation.gov.uk/uksi/2020/1297/article/6/2), [27(5)](https://www.legislation.gov.uk/uksi/2020/1297/article/27/5))
+[^c-7e23675eabfb24ab75b9b8316de8c8c7]: Modification: S. 153(4A) excluded (3.12.2020) by [The A303 (Amesbury to Berwick Down) Development Consent Order 2020 (S.I. 2020/1297)](https://www.legislation.gov.uk/uksi/2020/1297), [art. 27(4)(c)](https://www.legislation.gov.uk/uksi/2020/1297/article/27/4/c) (with [arts. 6(2)](https://www.legislation.gov.uk/uksi/2020/1297/article/6/2), [27(5)](https://www.legislation.gov.uk/uksi/2020/1297/article/27/5))
 
-[^key-92172f958cb1d2b0c05b68d4f1d858ef]: Modification: Act applied in part (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 47(4)](https://www.legislation.gov.uk/ukpga/2021/2/section/47/4), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
+[^c-92172f958cb1d2b0c05b68d4f1d858ef]: Modification: Act applied in part (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 47(4)](https://www.legislation.gov.uk/ukpga/2021/2/section/47/4), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
 
-[^key-980f74f84749d8fd54e3948799a8a9a9]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/8): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-980f74f84749d8fd54e3948799a8a9a9]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/8): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-1341e6f6a3a2c14aeac9a47d04b25b5a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/8) applied (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [ss. 79(2)](https://www.legislation.gov.uk/asc/2023/3/section/79/2), [212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2) (with [s. 79(7)](https://www.legislation.gov.uk/asc/2023/3/section/79/7), [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-1341e6f6a3a2c14aeac9a47d04b25b5a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/8) applied (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [ss. 79(2)](https://www.legislation.gov.uk/asc/2023/3/section/79/2), [212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2) (with [s. 79(7)](https://www.legislation.gov.uk/asc/2023/3/section/79/7), [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
 
-[^key-65d5817ca5483453c06d7fc61fb11833]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/8) applied (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [ss. 83(4)](https://www.legislation.gov.uk/asc/2023/3/section/83/4), [212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2) (with [s. 83(6)](https://www.legislation.gov.uk/asc/2023/3/section/83/6), [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-65d5817ca5483453c06d7fc61fb11833]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/8) applied (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [ss. 83(4)](https://www.legislation.gov.uk/asc/2023/3/section/83/4), [212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2) (with [s. 83(6)](https://www.legislation.gov.uk/asc/2023/3/section/83/6), [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
 
-[^key-f8389b17ae2f9baec953b74ab690e451]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/8) excluded (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [ss. 140(4)(b)](https://www.legislation.gov.uk/asc/2023/3/section/140/4/b), [212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-f8389b17ae2f9baec953b74ab690e451]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/8) excluded (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [ss. 140(4)(b)](https://www.legislation.gov.uk/asc/2023/3/section/140/4/b), [212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
 
-[^key-20be874f265383e446dc48b5a1dba5aa]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/8) modified (15.12.2025) by [The Portsmouth International Port and Camber Harbour Revision Order 2025 (S.I. 2025/1223)](https://www.legislation.gov.uk/uksi/2025/1223), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1223/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2025/1223/article/4/5) (with [arts. 31](https://www.legislation.gov.uk/uksi/2025/1223/article/31), [59-61](https://www.legislation.gov.uk/uksi/2025/1223/article/59))
+[^c-20be874f265383e446dc48b5a1dba5aa]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/8) modified (15.12.2025) by [The Portsmouth International Port and Camber Harbour Revision Order 2025 (S.I. 2025/1223)](https://www.legislation.gov.uk/uksi/2025/1223), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1223/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2025/1223/article/4/5) (with [arts. 31](https://www.legislation.gov.uk/uksi/2025/1223/article/31), [59-61](https://www.legislation.gov.uk/uksi/2025/1223/article/59))
 
-[^key-f493933cb7808f395bbe6932db9a6d91]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/8) modified (23.7.2026) by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [20(1)](https://www.legislation.gov.uk/uksi/2026/724/article/20/1) (with [arts. 36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))
+[^c-f493933cb7808f395bbe6932db9a6d91]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/8) modified (23.7.2026) by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [20(1)](https://www.legislation.gov.uk/uksi/2026/724/article/20/1) (with [arts. 36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))
 
 [^c14014621]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1990/8/part/1) applied by [Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/9), [s. 81](https://www.legislation.gov.uk/ukpga/1990/9/section/81), [Sch. 4](https://www.legislation.gov.uk/ukpga/1990/9/schedule/4)
 
     [Pt. 1](https://www.legislation.gov.uk/ukpga/1990/8/part/1) applied (23.11.1995) by [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33), [s. 39(1)](https://www.legislation.gov.uk/ukpga/1961/33/section/39/1) (as amended (23.11.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 78](https://www.legislation.gov.uk/ukpga/1995/25/section/78), [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/1995/25/schedule/10/paragraph/4) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/1995/25/schedule/8/paragraph/7)); [S.I. 1995/2950](https://www.legislation.gov.uk/uksi/1995/2950), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/2950/article/2/1))
 
-[^key-b75c73c9b39efe83da7d9bfb7e9a1a93]: Modification: Pt. 1 applied (with modifications) (4.11.2024) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 70(15)](https://www.legislation.gov.uk/ukpga/1993/28/section/70/15) (as inserted by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 166(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/166/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d))
+[^c-b75c73c9b39efe83da7d9bfb7e9a1a93]: Modification: Pt. 1 applied (with modifications) (4.11.2024) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 70(15)](https://www.legislation.gov.uk/ukpga/1993/28/section/70/15) (as inserted by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 166(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/166/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d))
 
 [^c18874761]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/ukpga/1990/8/part/2) (ss. 10-54A) repealed (6.8.2004 for certain purposes, 28.9.2004 for. E and 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 120](https://www.legislation.gov.uk/ukpga/2004/5/section/120), [121](https://www.legislation.gov.uk/ukpga/2004/5/section/121), [Sch. 9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2), [S.I](https://www.legislation.gov.uk/uksi/2004/2097/section/I). 2004/2202, {art. 2(k)}, Sch. 1 Pt. 1 (subject to transitional provisions and savings in art. 4, Sch. 2); [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/g), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2847/schedule/1) (subject to transitional provisions and savings in [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2847/schedule/2)); and ss. 12(3A), 31(3), 36(3) modified (1.4.2010) by [S.I. 2010/490](https://www.legislation.gov.uk/uksi/2010/490), [reg. 39(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/39/2)
 
@@ -1406,63 +1406,63 @@ SCHEDULES
 
 [^c21021931]: Modification: Pt. 3 modified (27.8.2010) by [The Llangollen and Corwen Railway Order 2010 (S.I. 2010/2136)](https://www.legislation.gov.uk/uksi/2010/2136), [art. 11(1)](https://www.legislation.gov.uk/uksi/2010/2136/article/11/1)
 
-[^key-5c21df1883857db7343c421853d70dba]: Modification: Pt. 3 applied (1.2.2011) by [The River Mersey (Mersey Gateway Bridge) Order 2011 (S.I. 2011/41)](https://www.legislation.gov.uk/uksi/2011/41), [arts. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1), [47(1)](https://www.legislation.gov.uk/uksi/2011/41/article/47/1) (with [art. 51](https://www.legislation.gov.uk/uksi/2011/41/article/51), [Sch. 10 paras. 68](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/68), [85](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/85))
+[^c-5c21df1883857db7343c421853d70dba]: Modification: Pt. 3 applied (1.2.2011) by [The River Mersey (Mersey Gateway Bridge) Order 2011 (S.I. 2011/41)](https://www.legislation.gov.uk/uksi/2011/41), [arts. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1), [47(1)](https://www.legislation.gov.uk/uksi/2011/41/article/47/1) (with [art. 51](https://www.legislation.gov.uk/uksi/2011/41/article/51), [Sch. 10 paras. 68](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/68), [85](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/85))
 
-[^key-b0296a91b2ab3e001d3c96f3cf2122c9]: Modification: Pt. 3 modified (21.4.2011) by [The Network Rail (Hitchin (Cambridge Junction)) Order 2011 (S.I. 2011/1072)](https://www.legislation.gov.uk/uksi/2011/1072), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1072/article/1), [36(2)](https://www.legislation.gov.uk/uksi/2011/1072/article/36/2)
+[^c-b0296a91b2ab3e001d3c96f3cf2122c9]: Modification: Pt. 3 modified (21.4.2011) by [The Network Rail (Hitchin (Cambridge Junction)) Order 2011 (S.I. 2011/1072)](https://www.legislation.gov.uk/uksi/2011/1072), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1072/article/1), [36(2)](https://www.legislation.gov.uk/uksi/2011/1072/article/36/2)
 
-[^key-e34b0743f83915859176da72e4032dac]: Modification: Pt. 3 applied (5.4.2017) by [The Keuper Underground Gas Storage Facility Order 2017 (S.I. 2017/433)](https://www.legislation.gov.uk/uksi/2017/433), [arts. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1), [38(2)](https://www.legislation.gov.uk/uksi/2017/433/article/38/2)
+[^c-e34b0743f83915859176da72e4032dac]: Modification: Pt. 3 applied (5.4.2017) by [The Keuper Underground Gas Storage Facility Order 2017 (S.I. 2017/433)](https://www.legislation.gov.uk/uksi/2017/433), [arts. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1), [38(2)](https://www.legislation.gov.uk/uksi/2017/433/article/38/2)
 
-[^key-0f09c760bf8c21331d9aafcaeb272c32]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1990/8/part/3) modified (11.1.2023) by [The Network Rail (Cambridge South Infrastructure Enhancements) Order 2022 (S.I. 2022/1406)](https://www.legislation.gov.uk/uksi/2022/1406), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1406/article/1), [35(2)](https://www.legislation.gov.uk/uksi/2022/1406/article/35/2) (with [art. 34(2)](https://www.legislation.gov.uk/uksi/2022/1406/article/34/2), [Sch. 12 paras. 5](https://www.legislation.gov.uk/uksi/2022/1406/schedule/12/paragraph/5), [47](https://www.legislation.gov.uk/uksi/2022/1406/schedule/12/paragraph/47), [79](https://www.legislation.gov.uk/uksi/2022/1406/schedule/12/paragraph/79))
+[^c-0f09c760bf8c21331d9aafcaeb272c32]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1990/8/part/3) modified (11.1.2023) by [The Network Rail (Cambridge South Infrastructure Enhancements) Order 2022 (S.I. 2022/1406)](https://www.legislation.gov.uk/uksi/2022/1406), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1406/article/1), [35(2)](https://www.legislation.gov.uk/uksi/2022/1406/article/35/2) (with [art. 34(2)](https://www.legislation.gov.uk/uksi/2022/1406/article/34/2), [Sch. 12 paras. 5](https://www.legislation.gov.uk/uksi/2022/1406/schedule/12/paragraph/5), [47](https://www.legislation.gov.uk/uksi/2022/1406/schedule/12/paragraph/47), [79](https://www.legislation.gov.uk/uksi/2022/1406/schedule/12/paragraph/79))
 
-[^key-dbfa6d07a93d8a6f20631d20f925fec5]: Textual amendment: S. 58A and cross-heading inserted (12.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 150(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/150/1), [216(2)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/2/c)
+[^c-dbfa6d07a93d8a6f20631d20f925fec5]: Textual amendment: S. 58A and cross-heading inserted (12.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 150(1)](https://www.legislation.gov.uk/ukpga/2016/22/section/150/1), [216(2)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/2/c)
 
 [^c19081121]: Textual amendment: Ss. 61A-61C and preceding cross-heading inserted (6.8.2004 for certain purposes, 10.5.2006 for E. and otherwise prosp.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 40(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/40/1), [121](https://www.legislation.gov.uk/ukpga/2004/5/section/121) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); S.I. 2006/ 1061, {art. 2}
 
-[^key-bcfce2ecded10a69c31b75dd9e9b3873]: Textual amendment: Ss. 61DA-61DE inserted (12.2.2015 for specified purposes) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(d)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/d), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2015/7/schedule/4/paragraph/1)
+[^c-bcfce2ecded10a69c31b75dd9e9b3873]: Textual amendment: Ss. 61DA-61DE inserted (12.2.2015 for specified purposes) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(5)(d)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/5/d), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2015/7/schedule/4/paragraph/1)
 
-[^key-99c58ceb70d9a80231e26e93f5bf37c9]: Textual amendment: Ss. 61E-61Q and cross-heading inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/2); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^c-99c58ceb70d9a80231e26e93f5bf37c9]: Textual amendment: Ss. 61E-61Q and cross-heading inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/2); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
 
-[^key-514558ce6e40c22f8b62e165d308af90]: Textual amendment: [Ss. 61QA-61QM](https://www.legislation.gov.uk/ukpga/1990/8/section/61QA) and cross-heading inserted (31.1.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 106(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/106/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/d)
+[^c-514558ce6e40c22f8b62e165d308af90]: Textual amendment: [Ss. 61QA-61QM](https://www.legislation.gov.uk/ukpga/1990/8/section/61QA) and cross-heading inserted (31.1.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 106(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/106/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/d)
 
-[^key-c5953a207c26875a6be794043bfb8706]: Textual amendment: Words in s. 61W cross-heading substituted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 17(5)](https://www.legislation.gov.uk/anaw/2015/4/section/17/5), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/52/article/2/a) (with [art. 6](https://www.legislation.gov.uk/wsi/2016/52/article/6))
+[^c-c5953a207c26875a6be794043bfb8706]: Textual amendment: Words in s. 61W cross-heading substituted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 17(5)](https://www.legislation.gov.uk/anaw/2015/4/section/17/5), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/52/article/2/a) (with [art. 6](https://www.legislation.gov.uk/wsi/2016/52/article/6))
 
-[^key-6e5b5d2d113f5ea11ee9ceb82f9caaca]: Textual amendment: Ss. 61W-61Y and cross-heading inserted (15.11.2011 for specified purposes, 17.12.2013 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 122(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/122/1), [240(5)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/l) (with [ss. 122(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/122/3), [144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)) (as amended (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 122](https://www.legislation.gov.uk/ukpga/2023/55/section/122), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/h)); [S.I. 2013/2931](https://www.legislation.gov.uk/uksi/2013/2931), [art. 2](https://www.legislation.gov.uk/uksi/2013/2931/article/2)
+[^c-6e5b5d2d113f5ea11ee9ceb82f9caaca]: Textual amendment: Ss. 61W-61Y and cross-heading inserted (15.11.2011 for specified purposes, 17.12.2013 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 122(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/122/1), [240(5)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/l) (with [ss. 122(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/122/3), [144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)) (as amended (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 122](https://www.legislation.gov.uk/ukpga/2023/55/section/122), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/h)); [S.I. 2013/2931](https://www.legislation.gov.uk/uksi/2013/2931), [art. 2](https://www.legislation.gov.uk/uksi/2013/2931/article/2)
 
-[^key-49be9dfdc2b82629c989912d9298ba7e]: Textual amendment: Words in s. 61W cross-heading inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/3); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-49be9dfdc2b82629c989912d9298ba7e]: Textual amendment: Words in s. 61W cross-heading inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/3); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-9809182a181039f924d086d6603815e3]: Textual amendment: S. 61Z and cross-heading inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 17(2)](https://www.legislation.gov.uk/anaw/2015/4/section/17/2), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/52/article/2/a) (with [art. 6](https://www.legislation.gov.uk/wsi/2016/52/article/6))
+[^c-9809182a181039f924d086d6603815e3]: Textual amendment: S. 61Z and cross-heading inserted (6.9.2015 for specified purposes, 1.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 17(2)](https://www.legislation.gov.uk/anaw/2015/4/section/17/2), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/52/article/2/a) (with [art. 6](https://www.legislation.gov.uk/wsi/2016/52/article/6))
 
 [^M_F_31ded2a3-f14e-4938-e664-5309767658bf]: Textual amendment: Words in s. 62 cross-heading inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/7); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-2ece1dbd44bc1f04c51224371d0234c4]: Textual amendment: Ss. 62ZA-62ZD and cross-heading inserted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 29(2)](https://www.legislation.gov.uk/anaw/2015/4/section/29/2), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(a)](https://www.legislation.gov.uk/wsi/2016/52/article/5/a) (with [art. 9](https://www.legislation.gov.uk/wsi/2016/52/article/9))
+[^c-2ece1dbd44bc1f04c51224371d0234c4]: Textual amendment: Ss. 62ZA-62ZD and cross-heading inserted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 29(2)](https://www.legislation.gov.uk/anaw/2015/4/section/29/2), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(a)](https://www.legislation.gov.uk/wsi/2016/52/article/5/a) (with [art. 9](https://www.legislation.gov.uk/wsi/2016/52/article/9))
 
-[^key-e307287234955bd167ba03ef836a0804]: Textual amendment: S. 62A cross-heading inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 4 para. 4](https://www.legislation.gov.uk/anaw/2015/4/schedule/4/paragraph/4); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(e)](https://www.legislation.gov.uk/wsi/2016/52/article/3/e)
+[^c-e307287234955bd167ba03ef836a0804]: Textual amendment: S. 62A cross-heading inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 4 para. 4](https://www.legislation.gov.uk/anaw/2015/4/schedule/4/paragraph/4); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(e)](https://www.legislation.gov.uk/wsi/2016/52/article/3/e)
 
-[^key-38c6680850c1bd9968e2e01c32c2cc7a]: Textual amendment: [Ss. 62D-62L](https://www.legislation.gov.uk/ukpga/1990/8/section/62D) omitted (W.) (15.12.2025) by virtue of [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/4/3) (with [ss. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5), [146(10)](https://www.legislation.gov.uk/asc/2024/3/section/146/10)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-38c6680850c1bd9968e2e01c32c2cc7a]: Textual amendment: [Ss. 62D-62L](https://www.legislation.gov.uk/ukpga/1990/8/section/62D) omitted (W.) (15.12.2025) by virtue of [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/4/3) (with [ss. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5), [146(10)](https://www.legislation.gov.uk/asc/2024/3/section/146/10)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
 
-[^key-af84975a7efce9b7e1d60b8b01203db0]: Textual amendment: Ss. 62M-62O and cross-heading inserted (6.9.2015 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 23](https://www.legislation.gov.uk/anaw/2015/4/section/23), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b)
+[^c-af84975a7efce9b7e1d60b8b01203db0]: Textual amendment: Ss. 62M-62O and cross-heading inserted (6.9.2015 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 23](https://www.legislation.gov.uk/anaw/2015/4/section/23), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b)
 
-[^key-9de29e6f6d4db0a255b66c4fdf4d707c]: Textual amendment: [Ss. 62P](https://www.legislation.gov.uk/ukpga/1990/8/section/62P), [62Q](https://www.legislation.gov.uk/ukpga/1990/8/section/62Q) and cross-heading inserted (W.) (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 24](https://www.legislation.gov.uk/anaw/2015/4/section/24), [58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/uksi/2016/52), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/52/article/3/a)
+[^c-9de29e6f6d4db0a255b66c4fdf4d707c]: Textual amendment: [Ss. 62P](https://www.legislation.gov.uk/ukpga/1990/8/section/62P), [62Q](https://www.legislation.gov.uk/ukpga/1990/8/section/62Q) and cross-heading inserted (W.) (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 24](https://www.legislation.gov.uk/anaw/2015/4/section/24), [58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/uksi/2016/52), [art. 3(a)](https://www.legislation.gov.uk/uksi/2016/52/article/3/a)
 
-[^key-6de3feaff70d58e2d8ad1e0d196881a1]: Textual amendment: [S. 75A](https://www.legislation.gov.uk/ukpga/1990/8/section/75A) and cross-heading inserted (W.) (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b), [Sch. 4 para. 7](https://www.legislation.gov.uk/anaw/2015/4/schedule/4/paragraph/7); [S.I. 2016/52](https://www.legislation.gov.uk/uksi/2016/52), [art. 3(e)](https://www.legislation.gov.uk/uksi/2016/52/article/3/e)
+[^c-6de3feaff70d58e2d8ad1e0d196881a1]: Textual amendment: [S. 75A](https://www.legislation.gov.uk/ukpga/1990/8/section/75A) and cross-heading inserted (W.) (6.9.2015 for specified purposes, 1.3.2016 for specified purposes) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b), [Sch. 4 para. 7](https://www.legislation.gov.uk/anaw/2015/4/schedule/4/paragraph/7); [S.I. 2016/52](https://www.legislation.gov.uk/uksi/2016/52), [art. 3(e)](https://www.legislation.gov.uk/uksi/2016/52/article/3/e)
 
-[^key-003ef4e890b83b91a23b2ee842b689af]: Textual amendment: [S. 90A and cross-heading](https://www.legislation.gov.uk/ukpga/1990/8/part/III/crossheading/biodiversity-gain) inserted (3.11.2023 for specified purposes, 12.2.2024 for specified purposes, 1.5.2025 for specified purposes) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/1) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/d); [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/44/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4)); [S.I. 2025/447](https://www.legislation.gov.uk/uksi/2025/447), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/2)
+[^c-003ef4e890b83b91a23b2ee842b689af]: Textual amendment: [S. 90A and cross-heading](https://www.legislation.gov.uk/ukpga/1990/8/part/III/crossheading/biodiversity-gain) inserted (3.11.2023 for specified purposes, 12.2.2024 for specified purposes, 1.5.2025 for specified purposes) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/14/paragraph/1) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/1170](https://www.legislation.gov.uk/uksi/2023/1170), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1170/regulation/2/d); [S.I. 2024/44](https://www.legislation.gov.uk/uksi/2024/44), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/1/d)[(2)](https://www.legislation.gov.uk/uksi/2024/44/regulation/2/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/44/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/44/regulation/4)); [S.I. 2025/447](https://www.legislation.gov.uk/uksi/2025/447), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/1/b)[(2)](https://www.legislation.gov.uk/uksi/2025/447/regulation/2/2)
 
-[^key-9662217e594236ce51a8856636f25290]: Textual amendment: [S. 90B](https://www.legislation.gov.uk/ukpga/1990/8/section/90B) and cross-heading inserted (26.12.2023 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 114(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/114/3), [255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-9662217e594236ce51a8856636f25290]: Textual amendment: [S. 90B](https://www.legislation.gov.uk/ukpga/1990/8/section/90B) and cross-heading inserted (26.12.2023 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 114(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/114/3), [255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-bf61c00b9d46571e5ff08057be42deb6]: Textual amendment: [S. 93G](https://www.legislation.gov.uk/ukpga/1990/8/section/93G) and cross-heading inserted (31.3.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 111(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/111/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/g)
+[^c-bf61c00b9d46571e5ff08057be42deb6]: Textual amendment: [S. 93G](https://www.legislation.gov.uk/ukpga/1990/8/section/93G) and cross-heading inserted (31.3.2024 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 111(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/111/2), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/g)
 
-[^key-f82ec79aa758255a4f6008de274d7941]: Textual amendment: [Ss. 93H-93J](https://www.legislation.gov.uk/ukpga/1990/8/section/93H) and cross-heading inserted (26.12.2023 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 112(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/112/2), [255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3) (with [ss. 112(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/112/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/112/5), [247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-f82ec79aa758255a4f6008de274d7941]: Textual amendment: [Ss. 93H-93J](https://www.legislation.gov.uk/ukpga/1990/8/section/93H) and cross-heading inserted (26.12.2023 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 112(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/112/2), [255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3) (with [ss. 112(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/112/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/112/5), [247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-de3bae49bcb3b9b744b9a885a9ab3b7d]: Textual amendment: [S. 94 cross-heading](https://www.legislation.gov.uk/ukpga/1990/8/part/III/crossheading/duration-of-planning-permission) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/11/paragraph/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-de3bae49bcb3b9b744b9a885a9ab3b7d]: Textual amendment: [S. 94 cross-heading](https://www.legislation.gov.uk/ukpga/1990/8/part/III/crossheading/duration-of-planning-permission) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/11/paragraph/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c19903151]: Textual amendment: S. 96A and cross-heading inserted (1.10.2009) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 190(2)](https://www.legislation.gov.uk/ukpga/2008/29/section/190/2), [241](https://www.legislation.gov.uk/ukpga/2008/29/section/241) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/2260](https://www.legislation.gov.uk/uksi/2009/2260), [art. 3](https://www.legislation.gov.uk/uksi/2009/2260/article/3)
 
-[^key-2d880a4e084b193881e97c0ed50037ac]: Textual amendment: Words in s. 97 cross-heading inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 12 para. 24](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/24); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-2d880a4e084b193881e97c0ed50037ac]: Textual amendment: Words in s. 97 cross-heading inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 12 para. 24](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/24); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-c8e25574c35914222033fa782eff6fba]: Textual amendment: [S. 100ZA](https://www.legislation.gov.uk/ukpga/1990/8/section/100ZA) and cross-heading inserted (19.7.2017 for specified purposes, 1.10.2018 for specified purposes) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/14/1), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1) (with [s. 14(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/14/3)); [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/e); [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/a)
+[^c-c8e25574c35914222033fa782eff6fba]: Textual amendment: [S. 100ZA](https://www.legislation.gov.uk/ukpga/1990/8/section/100ZA) and cross-heading inserted (19.7.2017 for specified purposes, 1.10.2018 for specified purposes) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/14/1), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1) (with [s. 14(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/14/3)); [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/e); [S.I. 2018/567](https://www.legislation.gov.uk/uksi/2018/567), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/567/regulation/3/a)
 
-[^key-78ed59e565f58ebbdec0f7982b8fb6c3]: Textual amendment: S. 100A and cross-heading inserted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 37](https://www.legislation.gov.uk/anaw/2015/4/section/37), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b)
+[^c-78ed59e565f58ebbdec0f7982b8fb6c3]: Textual amendment: S. 100A and cross-heading inserted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 37](https://www.legislation.gov.uk/anaw/2015/4/section/37), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b)
 
 [^c14021011]: Modification: Pt. IV (ss. 107-118) modified (1.11.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 96](https://www.legislation.gov.uk/ukpga/1995/25/section/96), [Sch. 13 para. 15(4)(a)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/13/paragraph/15/4/a) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/2765](https://www.legislation.gov.uk/uksi/1995/2765), [art. 2](https://www.legislation.gov.uk/uksi/1995/2765/article/2)
 
@@ -1486,11 +1486,11 @@ SCHEDULES
 
 [^c21021161]: Modification: Pt. 4 applied (with modifications) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 97(1)-(3)](https://www.legislation.gov.uk/uksi/2010/490/regulation/97/1)
 
-[^key-76eac61187325305f154e51c91847a01]: Modification: Pt. 4 modified (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [100(1)-(3)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/100/1)
+[^c-76eac61187325305f154e51c91847a01]: Modification: Pt. 4 modified (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [100(1)-(3)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/100/1)
 
-[^key-d51f83fd40fe26b0d7fd1b3cd8e5b454]: Modification: Pt. 4 modified (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [92(1)-(3)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/92/1)
+[^c-d51f83fd40fe26b0d7fd1b3cd8e5b454]: Modification: Pt. 4 modified (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [92(1)-(3)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/92/1)
 
-[^key-11d4d055995169945783e274c202e894]: Modification: Pt. 4 modified (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [96(1)-(3)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/96/1)
+[^c-11d4d055995169945783e274c202e894]: Modification: Pt. 4 modified (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [96(1)-(3)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/96/1)
 
 [^c14021301]: Textual amendment: Part V repealed (25.9.1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [ss. 31(1)](https://www.legislation.gov.uk/ukpga/1991/34/section/31/1), [84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 19 Pt.II](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/II); [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art.3](https://www.legislation.gov.uk/uksi/1991/2067/article/3) (subject to [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4)) and subject to an amendment (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 20(3)](https://www.legislation.gov.uk/ukpga/1994/19/section/20/3), [Sch. 5 Pt. III paras. 15(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/5/part/III/paragraph/15/1), [20](https://www.legislation.gov.uk/ukpga/1994/19/schedule/5/part/III/paragraph/20) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1995/3198](https://www.legislation.gov.uk/uksi/1995/3198), [art. 4](https://www.legislation.gov.uk/uksi/1995/3198/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/3198/schedule/2)
 
@@ -1502,7 +1502,7 @@ SCHEDULES
 
     Pt. VII (ss. 172-196C) applied (with modifications) (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 20(3)](https://www.legislation.gov.uk/ukpga/1994/19/section/20/3), [Sch. 5 Pt. III paras. 15(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/5/part/III/paragraph/15/1), [20](https://www.legislation.gov.uk/ukpga/1994/19/schedule/5/part/III/paragraph/20) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1995/3198](https://www.legislation.gov.uk/uksi/1995/3198), [art. 4](https://www.legislation.gov.uk/uksi/1995/3198/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/3198/schedule/2)
 
-[^key-73423ec1d2a8eae2ebf9ee3d615ae2b3]: Modification: Pt. 7 modified (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2011/2305/regulation/19/2)
+[^c-73423ec1d2a8eae2ebf9ee3d615ae2b3]: Modification: Pt. 7 modified (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2011/2305/regulation/19/2)
 
 [^M_C_49ec25e6-d57c-4d1a-fc94-962a5eb24c2e]: Modification: Pt. 7 applied (with modifications) (4.7.2023) by [The Building Safety (Responsible Actors Scheme and Prohibitions) Regulations 2023 (S.I. 2023/753)](https://www.legislation.gov.uk/uksi/2023/753), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1), [41](https://www.legislation.gov.uk/uksi/2023/753/regulation/41), [Sch.](https://www.legislation.gov.uk/uksi/2023/753/schedule) (as amended (E.) (25.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/4/2))
 
@@ -1510,7 +1510,7 @@ SCHEDULES
 
 [^c14022151]: Textual amendment: Ss. 171C, 171D and cross heading inserted (2.1.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s.1](https://www.legislation.gov.uk/ukpga/1991/34/section/1) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art.3](https://www.legislation.gov.uk/uksi/1991/2905/article/3) (subject to [art. 5](https://www.legislation.gov.uk/uksi/1991/2905/article/5))
 
-[^key-20342f9292d6e85d7b7d691d6b50d95f]: Textual amendment: Ss. 171E-171H and cross-heading inserted (6.8.2004 for specified purposes, 7.3.2005 for E. so far as not already in force, 22.6.2015 for W. so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 52](https://www.legislation.gov.uk/ukpga/2004/5/section/52), [s. 121(1)-(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/1) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2005/204](https://www.legislation.gov.uk/uksi/2005/204), [art. 2](https://www.legislation.gov.uk/uksi/2005/204/article/2); [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/340/article/2/c)
+[^c-20342f9292d6e85d7b7d691d6b50d95f]: Textual amendment: Ss. 171E-171H and cross-heading inserted (6.8.2004 for specified purposes, 7.3.2005 for E. so far as not already in force, 22.6.2015 for W. so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 52](https://www.legislation.gov.uk/ukpga/2004/5/section/52), [s. 121(1)-(3)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/1) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2); [S.I. 2005/204](https://www.legislation.gov.uk/uksi/2005/204), [art. 2](https://www.legislation.gov.uk/uksi/2005/204/article/2); [S.I. 2015/340](https://www.legislation.gov.uk/uksi/2015/340), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/340/article/2/c)
 
 [^c14023301]: Textual amendment: S. 187A and cross heading inserted (27.7.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s.2](https://www.legislation.gov.uk/ukpga/1991/34/section/2) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1992/1630](https://www.legislation.gov.uk/uksi/1992/1630), [art. 2](https://www.legislation.gov.uk/uksi/1992/1630/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/1992/1630/article/3/1))
 
@@ -1520,9 +1520,9 @@ SCHEDULES
 
 [^c14023911]: Textual amendment: Ss. 196A - 196C inserted (2.1.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 11(1)](https://www.legislation.gov.uk/ukpga/1991/34/section/11/1) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art.3](https://www.legislation.gov.uk/uksi/1991/2905/article/3) (subject to [art. 5](https://www.legislation.gov.uk/uksi/1991/2905/article/5))
 
-[^key-95de88749ac354e6db1751c494dd573e]: Textual amendment: S. 196D and cross-heading inserted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/17/paragraph/6); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(m)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/m)
+[^c-95de88749ac354e6db1751c494dd573e]: Textual amendment: S. 196D and cross-heading inserted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/17/paragraph/6); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(m)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/m)
 
-[^key-b29ba4f89cc2a9ae36bb731f278d9fd1]: Textual amendment: [S. 196E](https://www.legislation.gov.uk/ukpga/1990/8/section/196E) and cross-heading inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 121](https://www.legislation.gov.uk/ukpga/2023/55/section/121), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-b29ba4f89cc2a9ae36bb731f278d9fd1]: Textual amendment: [S. 196E](https://www.legislation.gov.uk/ukpga/1990/8/section/196E) and cross-heading inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 121](https://www.legislation.gov.uk/ukpga/2023/55/section/121), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c14024011]: Modification: Pt. VIII (ss. 197-225) except s. 223 applied (with modifications) (17.7.1992) by [S.I. 1992/1492](https://www.legislation.gov.uk/uksi/1992/1492), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/2/1/b)
 
@@ -1534,9 +1534,9 @@ SCHEDULES
 
 [^c14024791]: Textual amendment: Crossheading inserted (2.1.1992 by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 23(7)](https://www.legislation.gov.uk/ukpga/1991/34/section/23/7) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art. 3](https://www.legislation.gov.uk/uksi/1991/2905/article/3) (subject to [art. 5](https://www.legislation.gov.uk/uksi/1991/2905/article/5))
 
-[^key-5f10d6d5f9588943ad9c912ae2f635c0]: Textual amendment: Pt. 8 Chs. 4, 5 inserted (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 127(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/127/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-5f10d6d5f9588943ad9c912ae2f635c0]: Textual amendment: Pt. 8 Chs. 4, 5 inserted (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 127(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/127/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
 
-[^key-6517338fab418b3b9038c9505a96ca59]: Modification: Pt. 9 applied (23.12.2016) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2016/1267/article/8/4)
+[^c-6517338fab418b3b9038c9505a96ca59]: Modification: Pt. 9 applied (23.12.2016) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2016/1267/article/8/4)
 
 [^c14025171]: Modification: Pt. 9 (ss. 226-246) modified (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 20(3)](https://www.legislation.gov.uk/ukpga/1994/19/section/20/3), [Sch. 5 Pt. III paras. 15(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/5/part/III/paragraph/15/1), [20](https://www.legislation.gov.uk/ukpga/1994/19/schedule/5/part/III/paragraph/20) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1995/3198](https://www.legislation.gov.uk/uksi/1995/3198), [art. 4](https://www.legislation.gov.uk/uksi/1995/3198/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/3198/schedule/2)
 
@@ -1544,21 +1544,21 @@ SCHEDULES
 
 [^M_C_19b2c479-ee61-4e58-ab4a-3b82091629ba]: Modification: [Pt. 9](https://www.legislation.gov.uk/ukpga/1990/8/part/9) applied (17.3.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/430/article/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2017/430/article/9/2)
 
-[^key-69d38099f0936a4c4b9ba27341f67925]: Modification: Pt. 9 applied (30.1.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2021/112/article/13/4)
+[^c-69d38099f0936a4c4b9ba27341f67925]: Modification: Pt. 9 applied (30.1.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2021/112/article/13/4)
 
-[^key-90e6f5dfbcbb373542815b6247e6d48e]: Modification: Pt. 9 applied (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/9/4)
+[^c-90e6f5dfbcbb373542815b6247e6d48e]: Modification: Pt. 9 applied (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/9/4)
 
-[^key-44a8d51d2a860e87a1c0db548343a1c4]: Modification: Pt. 9 applied (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/10/4)
+[^c-44a8d51d2a860e87a1c0db548343a1c4]: Modification: Pt. 9 applied (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/10/4)
 
-[^key-3bdb64a45edf35d7853437c1f715a451]: Modification: Pt. 9 applied (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [36(3)](https://www.legislation.gov.uk/uksi/2024/402/article/36/3) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-3bdb64a45edf35d7853437c1f715a451]: Modification: Pt. 9 applied (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [36(3)](https://www.legislation.gov.uk/uksi/2024/402/article/36/3) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
 
-[^key-cff962d80373dfb04270f2cfb0917d4a]: Modification: Pt. 9 applied (5.2.2025) by [The Lancashire Combined County Authority Regulations 2025 (S.I. 2025/118)](https://www.legislation.gov.uk/uksi/2025/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/8/2)
+[^c-cff962d80373dfb04270f2cfb0917d4a]: Modification: Pt. 9 applied (5.2.2025) by [The Lancashire Combined County Authority Regulations 2025 (S.I. 2025/118)](https://www.legislation.gov.uk/uksi/2025/118), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2025/118/regulation/8/2)
 
-[^key-8bea3a071448d2556d7b70893be9ee03]: Modification: Pt. 9 applied (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2025/113/article/17/2)
+[^c-8bea3a071448d2556d7b70893be9ee03]: Modification: Pt. 9 applied (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2025/113/article/17/2)
 
-[^key-f07ee5d8abfe595ead0a9ab6e800fc35]: Modification: Pt. 9 applied (5.2.2025) by [The Devon and Torbay Combined County Authority Regulations 2025 (S.I. 2025/115)](https://www.legislation.gov.uk/uksi/2025/115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/115/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2025/115/regulation/8/2)
+[^c-f07ee5d8abfe595ead0a9ab6e800fc35]: Modification: Pt. 9 applied (5.2.2025) by [The Devon and Torbay Combined County Authority Regulations 2025 (S.I. 2025/115)](https://www.legislation.gov.uk/uksi/2025/115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/115/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2025/115/regulation/8/2)
 
-[^key-22ce916de130821de47a899a6b00b17b]: Modification: Pt. 9 applied (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/9/2)
+[^c-22ce916de130821de47a899a6b00b17b]: Modification: Pt. 9 applied (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/9/2)
 
 [^c14028471]: Modification: Pt XI (ss. 262-283) applied (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 169](https://www.legislation.gov.uk/ukpga/1993/28/section/169), [Sch. 20 Pt. II para. 19(3)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/20/part/II/paragraph/19/3); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
 
@@ -1568,16 +1568,16 @@ SCHEDULES
 
     Pt. XI (ss. 262-283) modified (1.11.1995) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 96](https://www.legislation.gov.uk/ukpga/1995/25/section/96), [Sch. 14 para. 13(4)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/14/paragraph/13/4) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1995/2765](https://www.legislation.gov.uk/uksi/1995/2765), [art. 2](https://www.legislation.gov.uk/uksi/1995/2765/article/2)
 
-[^key-5096dc78e1d1434679957760fd3b7760]: Modification: Pt. 12 modified (E.) (24.8.2011) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (S.I. 2011/1824)](https://www.legislation.gov.uk/uksi/2011/1824), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/1/1), [48(1)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/48/1), [59](https://www.legislation.gov.uk/uksi/2011/1824/regulation/59)
+[^c-5096dc78e1d1434679957760fd3b7760]: Modification: Pt. 12 modified (E.) (24.8.2011) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2011 (S.I. 2011/1824)](https://www.legislation.gov.uk/uksi/2011/1824), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/1/1), [48(1)](https://www.legislation.gov.uk/uksi/2011/1824/regulation/48/1), [59](https://www.legislation.gov.uk/uksi/2011/1824/regulation/59)
 
 [^c14030391]: Modification: [Pt. XIII](https://www.legislation.gov.uk/ukpga/1990/8/part/XIII) (ss. 293-302) modified (17.7.1992) by [S.I. 1992/1732](https://www.legislation.gov.uk/uksi/1992/1732), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/1992/1732/article/2/1/2)
 
     [Pt. XIII](https://www.legislation.gov.uk/ukpga/1990/8/part/XIII) (ss. 293-302) extended (17.7.1992) by [S.I. 1992/1732](https://www.legislation.gov.uk/uksi/1992/1732), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1992/1732/article/2/1/a)
 
-[^key-e48b13d724c79f729644f25a35599225]: Textual amendment: Ss. 319ZZA, 319ZZB and cross-heading inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 53](https://www.legislation.gov.uk/ukpga/2025/34/section/53), [118(2)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/b) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-e48b13d724c79f729644f25a35599225]: Textual amendment: Ss. 319ZZA, 319ZZB and cross-heading inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 53](https://www.legislation.gov.uk/ukpga/2025/34/section/53), [118(2)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/b) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
 
-[^key-b4ec12d87e84f3c78c0122716477fc2a]: Textual amendment: Ss. 319ZZC-319ZZF and cross-heading inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 54(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/54/1), [118(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/c/i) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-b4ec12d87e84f3c78c0122716477fc2a]: Textual amendment: Ss. 319ZZC-319ZZF and cross-heading inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 54(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/54/1), [118(2)(c)(i)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/c/i) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
 
-[^key-d4d6e164ad8b5ca21b78ebfb504f6616]: Textual amendment: [Ss. 319ZA-319ZD](https://www.legislation.gov.uk/ukpga/1990/8/section/319ZA) and cross-heading inserted (6.9.2015 for specified purposes, 5.5.2017 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 39(1)](https://www.legislation.gov.uk/anaw/2015/4/section/39/1), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(a)](https://www.legislation.gov.uk/wsi/2017/546/article/3/a)
+[^c-d4d6e164ad8b5ca21b78ebfb504f6616]: Textual amendment: [Ss. 319ZA-319ZD](https://www.legislation.gov.uk/ukpga/1990/8/section/319ZA) and cross-heading inserted (6.9.2015 for specified purposes, 5.5.2017 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 39(1)](https://www.legislation.gov.uk/anaw/2015/4/section/39/1), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(a)](https://www.legislation.gov.uk/wsi/2017/546/article/3/a)
 
 [^c19916881]: Textual amendment: S. 319A and cross-heading inserted (6.4.2009 for specified purposes, 25.4.2024 for specified purposes) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 196(1)](https://www.legislation.gov.uk/ukpga/2008/29/section/196/1), [241](https://www.legislation.gov.uk/ukpga/2008/29/section/241) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3](https://www.legislation.gov.uk/uksi/2009/400/article/3) (with [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/400/article/6/2)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/452/regulation/2/a)

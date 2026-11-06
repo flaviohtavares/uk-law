@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Primary European Qualifications[^key-a17a5117a04c516c22ae7f3c6a39dfd8]
+## SCHEDULE 2 — Primary European Qualifications[^c-a17a5117a04c516c22ae7f3c6a39dfd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Section 17.
 
 ## Annotations
 
-[^key-a17a5117a04c516c22ae7f3c6a39dfd8]: Textual amendment: Sch. 2 omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2007/3101/regulation/31)
+[^c-a17a5117a04c516c22ae7f3c6a39dfd8]: Textual amendment: Sch. 2 omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2007/3101/regulation/31)

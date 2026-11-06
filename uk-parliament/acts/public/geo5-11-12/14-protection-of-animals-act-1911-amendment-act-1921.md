@@ -29,9 +29,9 @@ Protection of Animals Act (1911) Amendment Act 1921
 
 1921 c.14
 
-An Act to amend the Protection of Animals Act, 1911.[^key-1d22b001a81468656263af256acd218d]
+An Act to amend the Protection of Animals Act, 1911.[^c-1d22b001a81468656263af256acd218d]
 
-\[1st July 1921.\][^c582264][^key-1d22b001a81468656263af256acd218d]
+\[1st July 1921.\][^c582264][^c-1d22b001a81468656263af256acd218d]
 
 ## 1. Amendment of Protection of Animals Act, 1911.[^c582265]
 
@@ -43,7 +43,7 @@ This Act may be cited as the Protection of Animals Act (1911) Amendment Act, 192
 
 ## Annotations
 
-[^key-1d22b001a81468656263af256acd218d]: Textual amendment: Act repealed (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/m)
+[^c-1d22b001a81468656263af256acd218d]: Textual amendment: Act repealed (E.W.) (27.3.2007 for W., 6.4.2007 for E.) by [Animal Welfare Act 2006 (c. 45)](https://www.legislation.gov.uk/ukpga/2006/45), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2006/45/section/68/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/45/schedule/4) (with [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2006/45/section/1/2), [58(1)](https://www.legislation.gov.uk/ukpga/2006/45/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2006/45/section/59), [60](https://www.legislation.gov.uk/ukpga/2006/45/section/60)); [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(m)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/m); [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/m)
 
 [^c582264]: Modification: Words of enactment omitted under authority of [Statute Law Revision Act 1948 (c. 62)](https://www.legislation.gov.uk/ukpga/1948/62),s. 3
 

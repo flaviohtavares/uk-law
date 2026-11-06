@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f0ac997e00b4a390bc1e6f8880d3df83] In Chapter 8 of Part 4 of ITEPA 2003 (exemptions: special kinds of employees), after section 297C insert—
+(1)[^c-f0ac997e00b4a390bc1e6f8880d3df83] In Chapter 8 of Part 4 of ITEPA 2003 (exemptions: special kinds of employees), after section 297C insert—
 
 > **297D. Armed forces: accommodation allowances**
 >
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0ac997e00b4a390bc1e6f8880d3df83]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/ukpga/2018/3/section/8/1) has effect as specified by [The Finance Act 2018, Section 8(1) (Commencement) Regulations 2019 (S.I. 2019/1160)](https://www.legislation.gov.uk/uksi/2019/1160), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1160/regulation/2)
+[^c-f0ac997e00b4a390bc1e6f8880d3df83]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/ukpga/2018/3/section/8/1) has effect as specified by [The Finance Act 2018, Section 8(1) (Commencement) Regulations 2019 (S.I. 2019/1160)](https://www.legislation.gov.uk/uksi/2019/1160), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1160/regulation/2)

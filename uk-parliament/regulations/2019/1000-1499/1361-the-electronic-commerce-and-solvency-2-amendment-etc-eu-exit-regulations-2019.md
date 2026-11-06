@@ -42,15 +42,15 @@ Coming into force in accordance with regulation 1
 
 The Treasury make these Regulations in exercise of the powers conferred by section 8(1) of, and paragraph 1(1) of Schedule 4 to and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 [^c23916211].
 
-In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this instrument has been laid before and approved by each House of Parliament.[^key-b7f39f0a145f05b4126bbec36a939ef6]
+In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this instrument has been laid before and approved by each House of Parliament.[^c-b7f39f0a145f05b4126bbec36a939ef6]
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and interpretation[^key-e5bf0cc3c2061b150ffcf5cd9e477050]
+### 1. Citation, commencement and interpretation[^c-e5bf0cc3c2061b150ffcf5cd9e477050]
 
 (1) These Regulations may be cited as the Electronic Commerce and Solvency 2 (Amendment etc.) (EU Exit) Regulations 2019.
 
-(2) These Regulations come into force on exit day[^key-0611f880fe6720348d768b78d5455d36].
+(2) These Regulations come into force on exit day[^c-0611f880fe6720348d768b78d5455d36].
 
 (3) In these Regulations—
 
@@ -60,7 +60,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 2 — Amendment of Commission Delegated Regulation (EU) 2015/35
 
-### 2. Amendment of Commission Delegated Regulation (EU) 2015/35[^key-49b686ae3cf5d44203076c016edee00a]
+### 2. Amendment of Commission Delegated Regulation (EU) 2015/35[^c-49b686ae3cf5d44203076c016edee00a]
 
 (1) Commission Delegated Regulation (EU) 2015/35 of 10 October 2014 supplementing Directive [2009/138/EC](https://www.legislation.gov.uk/eudr/2009/138) of the European Parliament and of the Council on the taking-up and pursuit of the business of insurance and reinsurance is amended as follows.
 
@@ -81,20 +81,20 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ### CHAPTER 1 — Amendment of sections 417 and 418 of the 2000 Act
 
-#### 3. Amendment of sections 417 and 418 of the 2000 Act[^key-8e8c8ab1c48625ef9cd9ab1ad8ebfd21]
+#### 3. Amendment of sections 417 and 418 of the 2000 Act[^c-8e8c8ab1c48625ef9cd9ab1ad8ebfd21]
 
 In section 417 of the 2000 Act (definitions)—
 
 - (a) in subsection (1), omit the definitions of “electronic commerce directive”, “information society service” and “the Treaty”[^c23916271];
 - (b) omit subsection (4) [^c23916281].
 
-#### 4.[^key-49d6e7bf0ff2d67a6ce0ae63a2e02227]
+#### 4.[^c-49d6e7bf0ff2d67a6ce0ae63a2e02227]
 
 In section 418 (carrying on regulated activities in the United Kingdom) of the 2000 Act, omit subsection (5A) [^c23916291].
 
 ### CHAPTER 2 — Amendment of subordinate legislation
 
-#### 5. Amendment of the 2001 Order[^key-9e6f03a9630b2444e6e8cde2d1f15a98]
+#### 5. Amendment of the 2001 Order[^c-9e6f03a9630b2444e6e8cde2d1f15a98]
 
 (1) The 2001 Order is amended as follows.
 
@@ -117,7 +117,7 @@ In section 418 (carrying on regulated activities in the United Kingdom) of the 2
 - (g) in article 60R [^c23916371] omit “the exclusion in article 72A (information society services) and”;
 - (h) in article 89D [^c23916381] omit paragraph (1) and the word “also” in paragraph (2).
 
-#### 6. Amendment of the 2002 Regulations[^key-53ac1e36f8f495b7e3b4672cd93cc9fd]
+#### 6. Amendment of the 2002 Regulations[^c-53ac1e36f8f495b7e3b4672cd93cc9fd]
 
 (1) The 2002 Regulations are amended as follows.
 
@@ -143,15 +143,15 @@ In section 418 (carrying on regulated activities in the United Kingdom) of the 2
 
     > “**rule**” means a rule made by the Authority under the 2000 Act.
 
-#### 7. Amendment of the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^key-f7eb6236d1b29d5172f51b8fff139100]
+#### 7. Amendment of the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^c-f7eb6236d1b29d5172f51b8fff139100]
 
 In the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001 [^c23916401], omit regulation 12B (electronic commerce).
 
-#### 8. Amendment of the Financial Services and Markets Act 2000 (Rights of Action) Regulations 2001[^key-214bab6dab12ad7d0e89cd69541c7167]
+#### 8. Amendment of the Financial Services and Markets Act 2000 (Rights of Action) Regulations 2001[^c-214bab6dab12ad7d0e89cd69541c7167]
 
 In regulation 3 (private person) of the Financial Services and Markets Act 2000 (Rights of Action) Regulations 2001 [^c23916411], in paragraph (1)(a)(ii), omit “or 72A (information society services)”.
 
-#### 9. Amendment of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^key-16c664b94d62bbf161cb74cbe326abbe]
+#### 9. Amendment of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^c-16c664b94d62bbf161cb74cbe326abbe]
 
 In article 2 (interpretation: general) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 [^c23916421], in paragraph (1), at the appropriate place, insert—
 
@@ -159,7 +159,7 @@ In article 2 (interpretation: general) of the Financial Services and Markets Act
 
 .
 
-#### 10. Revocation of the Electronic Commerce Directive (Financial Services and Markets) (Amendment) Order 2015[^key-87010238ab2bead8079f08d304824048]
+#### 10. Revocation of the Electronic Commerce Directive (Financial Services and Markets) (Amendment) Order 2015[^c-87010238ab2bead8079f08d304824048]
 
 The Electronic Commerce Directive (Financial Services and Markets) (Amendment) Order 2015 [^c23916431] is revoked.
 
@@ -167,14 +167,14 @@ The Electronic Commerce Directive (Financial Services and Markets) (Amendment) O
 
 ### Exclusion of information society services
 
-#### 11. Exclusion of information society services from the 2001 Order[^key-b19343713b6d6891ea090834ee6f351f]
+#### 11. Exclusion of information society services from the 2001 Order[^c-b19343713b6d6891ea090834ee6f351f]
 
 Despite the revocation of article 72A of the 2001 Order by these Regulations, any activity to which this regulation applies is excluded from—
 
 - (a) Part 2 of that Order, and
 - (b) articles 89A and 89B of that Order.
 
-#### 12. Application of regulation 11[^key-5026e10849bc712452924e2689d583e7]
+#### 12. Application of regulation 11[^c-5026e10849bc712452924e2689d583e7]
 
 (1) Regulation 11 applies to an activity—
 
@@ -202,7 +202,7 @@ Despite the revocation of article 72A of the 2001 Order by these Regulations, an
 
 ### Procedure, etc.
 
-#### 13. Notification by a person carrying on activities to which regulation 11 applies[^key-af447f2b2be0623d7e00db631dab8143]
+#### 13. Notification by a person carrying on activities to which regulation 11 applies[^c-af447f2b2be0623d7e00db631dab8143]
 
 (1) A relevant incoming provider who is carrying on any activity to which regulation 11 applies must, as soon as reasonably practicable following commencement day, notify the FCA that the provider is carrying on that activity.
 
@@ -213,7 +213,7 @@ Despite the revocation of article 72A of the 2001 Order by these Regulations, an
 
 as the FCA may direct.
 
-#### 14. Information to be supplied by a relevant incoming provider[^key-ea6026b2467f0a098167b5b65cc81d8f]
+#### 14. Information to be supplied by a relevant incoming provider[^c-ea6026b2467f0a098167b5b65cc81d8f]
 
 (1) A relevant incoming provider who is carrying on an activity to which regulation 11 applies must notify the FCA—
 
@@ -236,7 +236,7 @@ as the FCA may direct.
 
 ### Regulation
 
-#### 15. Cancellation or variation of the exclusion under regulation 11[^key-98f5590b88dd034a25195253065fdb42]
+#### 15. Cancellation or variation of the exclusion under regulation 11[^c-98f5590b88dd034a25195253065fdb42]
 
 (1) The FCA may determine that the exclusion in regulation 11—
 
@@ -249,7 +249,7 @@ as the FCA may direct.
 - (b) for the protection of consumers;
 - (c) in order for the FCA to advance its objectives under Part 1A of the 2000 Act.
 
-#### 16. Cancellation or variation: procedure[^key-c347ff47aa6477161379cba2f2ad7b7f]
+#### 16. Cancellation or variation: procedure[^c-c347ff47aa6477161379cba2f2ad7b7f]
 
 (1) In an urgent case, if the FCA decides to exercise the power under regulation 15(1), it must give a decision notice to the relevant incoming provider to whom the decision relates.
 
@@ -264,13 +264,13 @@ as the FCA may direct.
 
 (5) For the purposes of this regulation, an urgent case is one in which the FCA reasonably considers it necessary for the decision to take effect as stated in the decision notice.
 
-#### 17. Cancellation or variation: appeal[^key-1d8fde3407df0b19cdbd8bf8c0169cdc]
+#### 17. Cancellation or variation: appeal[^c-1d8fde3407df0b19cdbd8bf8c0169cdc]
 
 (1) A relevant incoming provider in respect of whom the power in regulation 15(1) is exercised may refer the decision to exercise the power to the Upper Tribunal.
 
 (2) Part 9 of the 2000 Act (hearings and appeals) applies to a reference under paragraph (1) as it applies to a reference under the 2000 Act.
 
-#### 18. Restriction on Financial Promotion[^key-75d94a9ffdb4ed9f300f9e5234cc82c9]
+#### 18. Restriction on Financial Promotion[^c-75d94a9ffdb4ed9f300f9e5234cc82c9]
 
 In respect of a relevant incoming provider carrying on any activity to which regulation 11 applies, section 21 of the 2000 Act (restrictions on financial promotion) has effect as if—
 
@@ -289,15 +289,15 @@ In respect of a relevant incoming provider carrying on any activity to which reg
   > - “**the 2019 Regulations**” means the Electronic Commerce and Solvency 2 (Amendment etc. ) (EU Exit) Regulations 2019;
   > - “**relevant incoming provider**” has the meaning given in regulation 28 of the 2019 Regulations.
 
-#### 19. Product intervention rules[^key-1664569e5be82319ed2dbc72b20c8d97]
+#### 19. Product intervention rules[^c-1664569e5be82319ed2dbc72b20c8d97]
 
 (1) Product intervention rules (within the meaning of section 137D of the 2000 Act) apply to a relevant incoming provider carrying on activity to which regulation 11 applies as they apply to an authorised person.
 
 (2) A prohibition or restriction under Article 42 of Regulation (EU) No. 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments applies to a relevant incoming provider carrying on an activity to which regulation 11 applies as it applies to a person to whom that Regulation applies.
 
-(3)[^key-51b6d8be157f49b5924ef32f73fde13d] A prohibition or restriction under Article 17 of Regulation (EU) No. 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products applies to a relevant incoming provider carrying on an activity to which regulation 11 applies as it applies to a person to whom that Regulation applies *(affected by repeal, see note)*[^key-51b6d8be157f49b5924ef32f73fde13d]
+(3)[^c-51b6d8be157f49b5924ef32f73fde13d] A prohibition or restriction under Article 17 of Regulation (EU) No. 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products applies to a relevant incoming provider carrying on an activity to which regulation 11 applies as it applies to a person to whom that Regulation applies *(affected by repeal, see note)*[^c-51b6d8be157f49b5924ef32f73fde13d]
 
-#### 20. Information gathering[^key-74060a16345a96113dc9a412dec85f0d]
+#### 20. Information gathering[^c-74060a16345a96113dc9a412dec85f0d]
 
 The following provisions of the 2000 Act apply in respect of a relevant incoming provider carrying on an activity to which regulation 11 applies, as they apply to an authorised person (within the meaning of section 31 of the 2000 Act)—
 
@@ -306,13 +306,13 @@ The following provisions of the 2000 Act apply in respect of a relevant incoming
 - (c) section 175;
 - (d) section 177.
 
-#### 21. Publication of information provided under regulation 13 or 14[^key-9b06f4dfb2f61b8456407acc17ba1bd0]
+#### 21. Publication of information provided under regulation 13 or 14[^c-9b06f4dfb2f61b8456407acc17ba1bd0]
 
 (1) The FCA may, if it considers it is appropriate to do so, publish information that it receives under regulation 13 or 14.
 
 (2) Publication under this regulation is to be in such manner as the FCA considers appropriate.
 
-#### 22. Public censure[^key-f8b12cde51a4778a519838cfeb7f5105]
+#### 22. Public censure[^c-f8b12cde51a4778a519838cfeb7f5105]
 
 (1) If the FCA considers that a relevant incoming provider—
 
@@ -336,7 +336,7 @@ the FCA may publish a statement to that effect.
 
 ### Fees
 
-#### 23. Power to charge fees[^key-a5b5ee733f3fe6d32bf0a36223c0e6a1]
+#### 23. Power to charge fees[^c-a5b5ee733f3fe6d32bf0a36223c0e6a1]
 
 (1) The FCA may make rules providing for the payment to it of fees in connection with the discharge of a function under this Part.
 
@@ -346,13 +346,13 @@ the FCA may publish a statement to that effect.
 
 ### FCA functions
 
-#### 24. Disapplication of supervision, etc. requirements[^key-226cdb2e60a92f53854447bdb19282a4]
+#### 24. Disapplication of supervision, etc. requirements[^c-226cdb2e60a92f53854447bdb19282a4]
 
 Section 1L(2) and (3) of the 2000 Act does not apply in respect of a relevant incoming provider who is carrying on an activity to which regulation 11 applies.
 
 ### Duration of temporary exclusion
 
-#### 25. Period during which regulation 11 is to apply[^key-7956dfa4612bd0f86f32089888bb6b1c]
+#### 25. Period during which regulation 11 is to apply[^c-7956dfa4612bd0f86f32089888bb6b1c]
 
 (1) For the purposes of regulation 12(1)(c), the period is one that begins with commencement day and ends—
 
@@ -367,20 +367,20 @@ Section 1L(2) and (3) of the 2000 Act does not apply in respect of a relevant in
 
 ### General
 
-#### 26. Directions[^key-ae1e4cc31c8c008a0dbdaebb2913b850]
+#### 26. Directions[^c-ae1e4cc31c8c008a0dbdaebb2913b850]
 
 A power to give directions under this Part includes the power—
 
 - (a) to give different directions in relation to different persons or categories of person;
 - (b) to vary or revoke a previous direction.
 
-#### 27. Exclusion of the Electronic Commerce (EC Directive) Regulations 2002[^key-74ef212b85233b0b5252082546fa56f8]
+#### 27. Exclusion of the Electronic Commerce (EC Directive) Regulations 2002[^c-74ef212b85233b0b5252082546fa56f8]
 
 Regulation 4(3) of the Electronic Commerce (EC Directive) Regulations 2002 [^c23916451] does not apply to the FCA in respect of its responsibility in relation to a requirement imposed by or under this Part.
 
 ### Interpretation
 
-#### 28. Interpretation[^key-7fadce3596ca477f5082387a339961ae]
+#### 28. Interpretation[^c-7fadce3596ca477f5082387a339961ae]
 
 (1) In this Part—
 
@@ -417,11 +417,11 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23916211]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-b7f39f0a145f05b4126bbec36a939ef6]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/1361): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-b7f39f0a145f05b4126bbec36a939ef6]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/1361): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-e5bf0cc3c2061b150ffcf5cd9e477050]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-e5bf0cc3c2061b150ffcf5cd9e477050]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-0611f880fe6720348d768b78d5455d36]: Textual amendment: Words in reg. 1(2) substituted (24.10.2019 at 11.59 p.m.) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1390)](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)
+[^c-0611f880fe6720348d768b78d5455d36]: Textual amendment: Words in reg. 1(2) substituted (24.10.2019 at 11.59 p.m.) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1390)](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6)
 
 [^c23916221]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
@@ -429,23 +429,23 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23916241]: Marginal citation: [S.I. 2002/1775](https://www.legislation.gov.uk/uksi/2002/1775).
 
-[^key-49b686ae3cf5d44203076c016edee00a]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-49b686ae3cf5d44203076c016edee00a]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
 [^c23916251]: Marginal citation: Article 1 was amended by [S.I. 2019/407](https://www.legislation.gov.uk/uksi/2019/407).
 
 [^c23916261]: Marginal citation: Paragraphs 1 and 2 of Article 257 were replaced by Commission Delegated Regulation (EU) 2018/1221, Article 1(8).
 
-[^key-8e8c8ab1c48625ef9cd9ab1ad8ebfd21]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-8e8c8ab1c48625ef9cd9ab1ad8ebfd21]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
 [^c23916271]: Marginal citation: The definitions of “electronic commerce directive” and “information society service” were inserted by [S.I. 2002/1775](https://www.legislation.gov.uk/uksi/2002/1775).
 
 [^c23916281]: Marginal citation: Subsection (4) was inserted by [S.I. 2002/1775](https://www.legislation.gov.uk/uksi/2002/1775) and amended by [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).
 
-[^key-49d6e7bf0ff2d67a6ce0ae63a2e02227]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-49d6e7bf0ff2d67a6ce0ae63a2e02227]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
 [^c23916291]: Marginal citation: Subsection (5A) was inserted by [S.I. 2002/1775](https://www.legislation.gov.uk/uksi/2002/1775).
 
-[^key-9e6f03a9630b2444e6e8cde2d1f15a98]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-9e6f03a9630b2444e6e8cde2d1f15a98]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
 [^c23916301]: Marginal citation: Article 72A was inserted by [S.I. 2002/1776](https://www.legislation.gov.uk/uksi/2002/1776).
 
@@ -465,66 +465,66 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23916381]: Marginal citation: Article 89D was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881) and was amended by [S.I. 2014/366](https://www.legislation.gov.uk/uksi/2014/366).
 
-[^key-53ac1e36f8f495b7e3b4672cd93cc9fd]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-53ac1e36f8f495b7e3b4672cd93cc9fd]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
 [^c23916391]: Marginal citation: Regulation 19 was inserted by [S.I. 2002/2015](https://www.legislation.gov.uk/uksi/2002/2015).
 
-[^key-f7eb6236d1b29d5172f51b8fff139100]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-f7eb6236d1b29d5172f51b8fff139100]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
 [^c23916401]: Marginal citation: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188). Regulation 12B was inserted by the 2002 Regulations and amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472).
 
-[^key-214bab6dab12ad7d0e89cd69541c7167]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-214bab6dab12ad7d0e89cd69541c7167]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
 [^c23916411]: Marginal citation: [S.I. 2001/2256](https://www.legislation.gov.uk/uksi/2001/2256). Regulation 3(1)(a)(ii) was amended by the 2002 Regulations; there are other amending instruments but none is relevant.
 
-[^key-16c664b94d62bbf161cb74cbe326abbe]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-16c664b94d62bbf161cb74cbe326abbe]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
 [^c23916421]: Marginal citation: [S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529), to which there are amendments not relevant to these Regulations.
 
-[^key-87010238ab2bead8079f08d304824048]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-87010238ab2bead8079f08d304824048]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
 [^c23916431]: Marginal citation: [S.I. 2015/852](https://www.legislation.gov.uk/uksi/2015/852).
 
-[^key-b19343713b6d6891ea090834ee6f351f]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-b19343713b6d6891ea090834ee6f351f]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-5026e10849bc712452924e2689d583e7]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-5026e10849bc712452924e2689d583e7]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
 [^c23916441]: Marginal citation: Paragraph 3 was substituted by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575).
 
-[^key-af447f2b2be0623d7e00db631dab8143]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-af447f2b2be0623d7e00db631dab8143]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-ea6026b2467f0a098167b5b65cc81d8f]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-ea6026b2467f0a098167b5b65cc81d8f]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-98f5590b88dd034a25195253065fdb42]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-98f5590b88dd034a25195253065fdb42]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-c347ff47aa6477161379cba2f2ad7b7f]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-c347ff47aa6477161379cba2f2ad7b7f]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-1d8fde3407df0b19cdbd8bf8c0169cdc]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-1d8fde3407df0b19cdbd8bf8c0169cdc]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-75d94a9ffdb4ed9f300f9e5234cc82c9]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-75d94a9ffdb4ed9f300f9e5234cc82c9]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-1664569e5be82319ed2dbc72b20c8d97]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-1664569e5be82319ed2dbc72b20c8d97]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-51b6d8be157f49b5924ef32f73fde13d]: Textual amendment: Reg. 19(3) omitted (22.11.2024 for specified purposes) by virtue of [The Consumer Composite Investments (Designated Activities) Regulations 2024 (S.I. 2024/1198)](https://www.legislation.gov.uk/uksi/2024/1198), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/10)
+[^c-51b6d8be157f49b5924ef32f73fde13d]: Textual amendment: Reg. 19(3) omitted (22.11.2024 for specified purposes) by virtue of [The Consumer Composite Investments (Designated Activities) Regulations 2024 (S.I. 2024/1198)](https://www.legislation.gov.uk/uksi/2024/1198), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2024/1198/regulation/2/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2024/1198/schedule/2/paragraph/10)
 
-[^key-74060a16345a96113dc9a412dec85f0d]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-74060a16345a96113dc9a412dec85f0d]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-9b06f4dfb2f61b8456407acc17ba1bd0]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-9b06f4dfb2f61b8456407acc17ba1bd0]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-f8b12cde51a4778a519838cfeb7f5105]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-f8b12cde51a4778a519838cfeb7f5105]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-a5b5ee733f3fe6d32bf0a36223c0e6a1]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-a5b5ee733f3fe6d32bf0a36223c0e6a1]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-226cdb2e60a92f53854447bdb19282a4]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-226cdb2e60a92f53854447bdb19282a4]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-7956dfa4612bd0f86f32089888bb6b1c]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-7956dfa4612bd0f86f32089888bb6b1c]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-ae1e4cc31c8c008a0dbdaebb2913b850]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-ae1e4cc31c8c008a0dbdaebb2913b850]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
-[^key-74ef212b85233b0b5252082546fa56f8]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-74ef212b85233b0b5252082546fa56f8]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
 [^c23916451]: Marginal citation: [S.I. 2002/2013](https://www.legislation.gov.uk/uksi/2002/2013), as amended by [S.I. 2019/87](https://www.legislation.gov.uk/uksi/2019/87).
 
-[^key-7fadce3596ca477f5082387a339961ae]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
+[^c-7fadce3596ca477f5082387a339961ae]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1390/regulation/6))
 
 [^c23916461]: Marginal citation: [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149), as amended by [S.I. 2019/405](https://www.legislation.gov.uk/uksi/2019/405) and [S.I. 2019/1010](https://www.legislation.gov.uk/uksi/2019/1010).

@@ -43,13 +43,13 @@ The Secretary of State [^c24334231] makes the following regulations in exercise 
 
 In accordance with section 55(5) of the Sanctions and Anti-Money Laundering Act 2018, a draft of this instrument has been laid before Parliament and approved by resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-3f3930f849d875458a62722988a78a99][^key-84e326991c5eeece9899d3b29ea63203]
+## 1. Citation and commencement[^c-3f3930f849d875458a62722988a78a99][^c-84e326991c5eeece9899d3b29ea63203]
 
 (1) These Regulations may be cited as the Sanctions (EU Exit) (Consequential Provisions) (Amendment) Regulations 2020.
 
 (2) These Regulations come into force in accordance with regulations made by the Secretary of State under section 56 of the Sanctions and Anti-Money Laundering Act 2018.
 
-## 2. Amendment of the ISIL (Da'esh) and Al-Qaida (United Nations Sanctions) (EU Exit) Regulations 2019[^key-fb7e88f79beeae058e438b720ebd0ff7][^key-d8045c9399d4933b456b3921de39d0f8]
+## 2. Amendment of the ISIL (Da'esh) and Al-Qaida (United Nations Sanctions) (EU Exit) Regulations 2019[^c-fb7e88f79beeae058e438b720ebd0ff7][^c-d8045c9399d4933b456b3921de39d0f8]
 
 (1) The ISIL (Da'esh) and Al-Qaida (United Nations Sanctions) (EU Exit) Regulations 2019 [^c24334251] are amended as set out in paragraph (2).
 
@@ -75,7 +75,7 @@ In accordance with section 55(5) of the Sanctions and Anti-Money Laundering Act 
 >
 > .
 
-## 3. Amendment of the Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019[^key-3598053028940ae5771b586c2f015c86][^key-3642d31430d8db9d909361868025c92b]
+## 3. Amendment of the Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019[^c-3598053028940ae5771b586c2f015c86][^c-3642d31430d8db9d909361868025c92b]
 
 (1) The Counter-Terrorism (International Sanctions) (EU Exit) Regulations 2019 [^c24334281] are amended as set out in paragraph (2).
 
@@ -101,7 +101,7 @@ In accordance with section 55(5) of the Sanctions and Anti-Money Laundering Act 
 >
 > .
 
-## 4. Amendment of the Counter-Terrorism (Sanctions) (EU Exit) Regulations 2019[^key-f7bedbd0789c071e35784ea9c674dd58][^key-2348c5e7ea697bd1c34d0d5601fdb347]
+## 4. Amendment of the Counter-Terrorism (Sanctions) (EU Exit) Regulations 2019[^c-f7bedbd0789c071e35784ea9c674dd58][^c-2348c5e7ea697bd1c34d0d5601fdb347]
 
 (1) The Counter-Terrorism (Sanctions) (EU Exit) Regulations 2019 [^c24334291] are amended as set out in paragraph (2).
 
@@ -183,13 +183,13 @@ https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attac
 
 [^c24334241]: Marginal citation: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13).
 
-[^key-3f3930f849d875458a62722988a78a99]: Commencement: Reg. 1 not in force at made date, see reg. 1(2)
+[^c-3f3930f849d875458a62722988a78a99]: Commencement: Reg. 1 not in force at made date, see reg. 1(2)
 
-[^key-84e326991c5eeece9899d3b29ea63203]: Commencement: Reg. 1 in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21)
+[^c-84e326991c5eeece9899d3b29ea63203]: Commencement: Reg. 1 in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21)
 
-[^key-fb7e88f79beeae058e438b720ebd0ff7]: Commencement: Reg. 2 not in force at made date, see reg. 1(2)
+[^c-fb7e88f79beeae058e438b720ebd0ff7]: Commencement: Reg. 2 not in force at made date, see reg. 1(2)
 
-[^key-d8045c9399d4933b456b3921de39d0f8]: Commencement: Reg. 2 in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21)
+[^c-d8045c9399d4933b456b3921de39d0f8]: Commencement: Reg. 2 in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21)
 
 [^c24334251]: Marginal citation: [S.I. 2019/466](https://www.legislation.gov.uk/uksi/2019/466), prospectively amended by [S.I. 2019/843](https://www.legislation.gov.uk/uksi/2019/843), [S.I](https://www.legislation.gov.uk/uksi/2019/843/section/I). 2020/591 and [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950).
 
@@ -197,15 +197,15 @@ https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attac
 
 [^c24334271]: Marginal citation: Paragraph (d) of the definition of “terrorist financing” is prospectively repealed by section 59(5) of and Part 2 of Schedule 3 to the Sanctions and Anti-Money Laundering Act 2018.
 
-[^key-3598053028940ae5771b586c2f015c86]: Commencement: Reg. 3 not in force at made date, see reg. 1(2)
+[^c-3598053028940ae5771b586c2f015c86]: Commencement: Reg. 3 not in force at made date, see reg. 1(2)
 
-[^key-3642d31430d8db9d909361868025c92b]: Commencement: Reg. 3 in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21)
+[^c-3642d31430d8db9d909361868025c92b]: Commencement: Reg. 3 in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21)
 
 [^c24334281]: Marginal citation: [S.I. 2019/573](https://www.legislation.gov.uk/uksi/2019/573), prospectively amended by [S.I. 2019/843](https://www.legislation.gov.uk/uksi/2019/843), [S.I](https://www.legislation.gov.uk/uksi/2019/843/section/I). 2020/591 and [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950).
 
-[^key-f7bedbd0789c071e35784ea9c674dd58]: Commencement: Reg. 4 not in force at made date, see reg. 1(2)
+[^c-f7bedbd0789c071e35784ea9c674dd58]: Commencement: Reg. 4 not in force at made date, see reg. 1(2)
 
-[^key-2348c5e7ea697bd1c34d0d5601fdb347]: Commencement: Reg. 4 in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21)
+[^c-2348c5e7ea697bd1c34d0d5601fdb347]: Commencement: Reg. 4 in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21)
 
 [^c24334291]: Marginal citation: [S.I. 2019/577](https://www.legislation.gov.uk/uksi/2019/577), prospectively amended by [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950).
 

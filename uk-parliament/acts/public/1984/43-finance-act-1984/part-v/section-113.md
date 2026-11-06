@@ -37,7 +37,7 @@ summary: ''
 (5) For the purposes of subsection (4) above, a person qualifies in respect of a licensed area when, in respect of that area—
 
 - (a) he is, or is one of those, entitled to the benefit of a licence, or
-- (b) he enjoys rights under an agreement, being an agreement which has been approved by the Board and certified by the OGA[^key-306df01f90177efaee2e3f0f984d887c] to confer on him rights which are the same as, or similar to, those conferred by a licence.
+- (b) he enjoys rights under an agreement, being an agreement which has been approved by the Board and certified by the OGA[^c-306df01f90177efaee2e3f0f984d887c] to confer on him rights which are the same as, or similar to, those conferred by a licence.
 
 (6) Where (apart from this section) expenditure would be allowable under section 5 or section 5A or section 5B[^c10408041] of the principal Act in the case of a participator in an oil field (in this subsection referred to as “the new participator") by virtue only of paragraphs 16 to 16B[^c10408051] of Schedule 17 to the Finance Act 1980 (transfers of interests in oil fields) then, for the purpose of determining whether the expenditure is allowable in his case in accordance with this section, the date which was the qualifying date in relation to the old participator (within the meaning of that Schedule) , rather than the date given by subsection (4) above, shall be taken to be the qualifying date in relation to the new participator.[^c10408061].
 
@@ -46,7 +46,7 @@ summary: ''
 (8) For the purposes of this section, one company is connected with another if—
 
 - (a) one is a 51 per cent. subsidiary of the other and the other is not a 51 per cent. subsidiary of any company; or
-- (b) each of them is a 51 per cent. subsidiary of a third company which is not itself a 51 per cent. subsidiary of any company; and section Chapter 3 of Part 24 of the Corporation Tax Act 2010[^key-cb5bcd63bbe0d1ba7dd42cc3ab9d1764] (subsidiaries) applies for the purposes of this subsection.
+- (b) each of them is a 51 per cent. subsidiary of a third company which is not itself a 51 per cent. subsidiary of any company; and section Chapter 3 of Part 24 of the Corporation Tax Act 2010[^c-cb5bcd63bbe0d1ba7dd42cc3ab9d1764] (subsidiaries) applies for the purposes of this subsection.
 
 (9) In this section—
 
@@ -65,7 +65,7 @@ summary: ''
 
 [^c10408031]: Textual amendment: Words in s. 113(4) inserted (19.3.1997 with effect on 23.7.1996 as mentioned in [s. 107(4)](https://www.legislation.gov.uk/ukpga/1997/16/section/107/4) of the amending Act) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 107(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1997/16/section/107/1/2/4)
 
-[^key-306df01f90177efaee2e3f0f984d887c]: Textual amendment: Word in [s. 113(5)(b)](https://www.legislation.gov.uk/ukpga/1984/43/section/113/5/b) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2016/898/regulation/8)
+[^c-306df01f90177efaee2e3f0f984d887c]: Textual amendment: Word in [s. 113(5)(b)](https://www.legislation.gov.uk/ukpga/1984/43/section/113/5/b) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2016/898/regulation/8)
 
 [^c10408041]: Textual amendment: Words inserted by Finance Act 1987 s. 64(2), Sch. 13 Part II para. 9(2)
 
@@ -73,4 +73,4 @@ summary: ''
 
 [^c10408061]: Textual amendment: Words in s. 113(6) substituted(19.3.1997 with effect on 23.7.1996 as mentioned in [s. 107(4)](https://www.legislation.gov.uk/ukpga/1997/16/section/107/4) of the amending Act) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 107(1)(3)(4)](https://www.legislation.gov.uk/ukpga/1997/16/section/107/1/3/4)
 
-[^key-cb5bcd63bbe0d1ba7dd42cc3ab9d1764]: Textual amendment: Words in s. 113(8) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 186](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/186) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-cb5bcd63bbe0d1ba7dd42cc3ab9d1764]: Textual amendment: Words in s. 113(8) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 186](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/186) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

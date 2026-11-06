@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Amendment of the Immigration and Asylum Act 1999 (Part V Exemption: Relevant Employers) Order 2003[^key-efce5dbf437d9b80e3ba0a4264a65f4e][^M_I_a180764b-c3f6-4acd-9e74-5ac2681155e0]
+## 30. Amendment of the Immigration and Asylum Act 1999 (Part V Exemption: Relevant Employers) Order 2003[^c-efce5dbf437d9b80e3ba0a4264a65f4e][^M_I_a180764b-c3f6-4acd-9e74-5ac2681155e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-efce5dbf437d9b80e3ba0a4264a65f4e]: Commencement: Reg. 30 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-efce5dbf437d9b80e3ba0a4264a65f4e]: Commencement: Reg. 30 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_a180764b-c3f6-4acd-9e74-5ac2681155e0]: Commencement: Reg. 30 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 122. Cooperation between competent authorities[^key-05840b6f5b3cf634053d489b10d6f19f]
+## Article 122. Cooperation between competent authorities[^c-05840b6f5b3cf634053d489b10d6f19f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05840b6f5b3cf634053d489b10d6f19f]: Textual amendment: [Art. 122](https://www.legislation.gov.uk/eur/2006/1907/article/122) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 82](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/82); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05840b6f5b3cf634053d489b10d6f19f]: Textual amendment: [Art. 122](https://www.legislation.gov.uk/eur/2006/1907/article/122) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 82](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/82); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

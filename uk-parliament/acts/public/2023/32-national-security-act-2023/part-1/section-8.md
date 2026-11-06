@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Power to designate additional sites as prohibited places[^key-8bda3c7f92008e808c3990c8a0c72fac][^key-4fed3a0941f3cc92067536e5c7053f46]
+## 8. Power to designate additional sites as prohibited places[^c-8bda3c7f92008e808c3990c8a0c72fac][^c-4fed3a0941f3cc92067536e5c7053f46]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ as well as in relation to particular land or buildings or a particular vehicle.
 
 ## Annotations
 
-[^key-8bda3c7f92008e808c3990c8a0c72fac]: Commencement: S. 8 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-8bda3c7f92008e808c3990c8a0c72fac]: Commencement: S. 8 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-4fed3a0941f3cc92067536e5c7053f46]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/32/section/8) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-4fed3a0941f3cc92067536e5c7053f46]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/32/section/8) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Amendment of Schedule 6 (manufacturer's and wholesale dealer's licences for exempt advanced therapy medicinal products)[^key-0fd0744be8624a911d3c72f727398e45]
+## 26. Amendment of Schedule 6 (manufacturer's and wholesale dealer's licences for exempt advanced therapy medicinal products)[^c-0fd0744be8624a911d3c72f727398e45]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,7 +54,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0fd0744be8624a911d3c72f727398e45]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0fd0744be8624a911d3c72f727398e45]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884501]: Marginal citation: [S.I. 2005/50](https://www.legislation.gov.uk/uksi/2005/50). It was amended by [S.I. 2005/1098](https://www.legislation.gov.uk/uksi/2005/1098) and 2898, 2006/2013, 2007/604, 2008/525 and 941, 2009/372 and 3307, 2010/554, 2016/604, 2017/1320 and 2018/231.
 

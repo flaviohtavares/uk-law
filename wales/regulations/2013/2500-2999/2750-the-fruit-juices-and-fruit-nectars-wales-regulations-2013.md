@@ -57,7 +57,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 - (b) section 4(1), (2), (3), (4) and (8) and section 10 of the Healthy Eating in Schools (Wales) Measure 2009[^M_M_b06f9054-73c1-4319-d8eb-0b550757c7f6] so far as relating to—
   - (i) regulation 21, to the extent it relates to paragraph 2 of Schedule 15, and
   - (ii) paragraph 2 of Schedule 15; and
-- (c) sections 6(4)[^M_M_c94b9826-fd31-4235-c130-a37954496dca], 16(1)(a) and (e), 17(1), 26(1)(a) and (3)[^M_M_5afd0dfd-ef3c-41fa-fdc9-4faf4f26b8a3] and 48(1)[^M_M_79a2b843-efd2-41e2-ead8-c321ae036ee5] of the Food Safety Act 1990, now vested in the Welsh Ministers[^M_M_21e94e23-44c3-439c-b25b-4a7bf6225b0f], so far as relating to the other provisions of these Regulations.[^key-7b22d2b889cc879aec5acc3674a4f581]
+- (c) sections 6(4)[^M_M_c94b9826-fd31-4235-c130-a37954496dca], 16(1)(a) and (e), 17(1), 26(1)(a) and (3)[^M_M_5afd0dfd-ef3c-41fa-fdc9-4faf4f26b8a3] and 48(1)[^M_M_79a2b843-efd2-41e2-ead8-c321ae036ee5] of the Food Safety Act 1990, now vested in the Welsh Ministers[^M_M_21e94e23-44c3-439c-b25b-4a7bf6225b0f], so far as relating to the other provisions of these Regulations.[^c-7b22d2b889cc879aec5acc3674a4f581]
 
 ## 1. Title, application, commencement and expiry
 
@@ -318,7 +318,7 @@ The provisions of the Act specified in column 1 of Schedule 14 apply with the mo
 
 Schedule 15 has effect.
 
-## 22. Transitional provisions[^key-e11ea01535dc00471c4fc2008d50fc4f]
+## 22. Transitional provisions[^c-e11ea01535dc00471c4fc2008d50fc4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -449,9 +449,9 @@ Regulation 2(3)
 
 ### PART 1 — General specification for fruit nectar
 
-**1.** Fruit nectar is the fermentable but unfermented product that is obtained by adding water to a product[^key-e8c6f8d285db681c4493b16c58332ea0] listed in paragraph 2 either with or without one or both of the substances listed in paragraph 3.
+**1.** Fruit nectar is the fermentable but unfermented product that is obtained by adding water to a product[^c-e8c6f8d285db681c4493b16c58332ea0] listed in paragraph 2 either with or without one or both of the substances listed in paragraph 3.
 
-**2.** The products[^key-e6c8c62572ec6f7f69c67f5ed7b960de] are—
+**2.** The products[^c-e6c8c62572ec6f7f69c67f5ed7b960de] are—
 
 - (a) fruit juice;
 - (b) fruit juice from concentrate;
@@ -581,7 +581,7 @@ Regulation 3(1)
 
 **9.** Chemically inert adsorption aids which comply with Regulation 1935/2004 and which are used to reduce the limonoid and naringin content of citrus juice without significantly affecting the limonoid glucosides, acid, sugars (including oligosaccharides) or mineral content of such juice.
 
-**10.**[^key-fa5a956e21dc48720fe73bfc703faf4f] Plant proteins for clarification from—
+**10.**[^c-fa5a956e21dc48720fe73bfc703faf4f] Plant proteins for clarification from—
 
 - (a) wheat,
 - (b) peas,
@@ -679,7 +679,7 @@ Regulation 19
 
 Regulation 21
 
-### 1. Amendment of the Food Labelling Regulations 1996[^key-fdd57f4130a98e8dae5dda2531f71feb]
+### 1. Amendment of the Food Labelling Regulations 1996[^c-fdd57f4130a98e8dae5dda2531f71feb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -741,7 +741,7 @@ TheWelsh Ministers' Code of Practice on the carrying out of Regulatory Impact As
 
 [^M_M_21e94e23-44c3-439c-b25b-4a7bf6225b0f]: Marginal citation: Functions formerly exercisable by “the Ministers” so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) as read with section 40(3) of the Food Standards Act 1999, and subsequently transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the [Government of Wales Act 2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-7b22d2b889cc879aec5acc3674a4f581]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2013/2750) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-7b22d2b889cc879aec5acc3674a4f581]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2013/2750) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^c21942711]: Marginal citation: OJ No. L 10, 12.1.2002, p.58, last amended by Directive 2012/12/EU of the European Parliament and of the Council (OJ No. L 115, 27.4.2012, p.1).
 
@@ -761,7 +761,7 @@ TheWelsh Ministers' Code of Practice on the carrying out of Regulatory Impact As
 
 [^c21942791]: Marginal citation: [S.I. 2009/3377](https://www.legislation.gov.uk/uksi/2009/3377) (W.299).
 
-[^key-e11ea01535dc00471c4fc2008d50fc4f]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/wsi/2013/2750/regulation/22) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [25(2)](https://www.legislation.gov.uk/wsi/2018/806/regulation/25/2)
+[^c-e11ea01535dc00471c4fc2008d50fc4f]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/wsi/2013/2750/regulation/22) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [25(2)](https://www.legislation.gov.uk/wsi/2018/806/regulation/25/2)
 
 [^c21942811]: Marginal citation: OJ No. L 330, 5.12.1998, p.32, last amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council (OJ No L 188, 18.7.2009, p.14).
 
@@ -769,16 +769,16 @@ TheWelsh Ministers' Code of Practice on the carrying out of Regulatory Impact As
 
 [^c21942831]: Marginal citation: OJ No. L 354, 31.12.2008, p.7, last amended by Commission Regulation (EU) No. 1056/2012 (OJ No. L 313, 13.11.2012, p. 9).
 
-[^key-e8c6f8d285db681c4493b16c58332ea0]: Textual amendment: [Word in Sch. 7 para. 1](https://www.legislation.gov.uk/wsi/2013/2750/schedule/7/paragraph/1) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [25(3)(a)](https://www.legislation.gov.uk/wsi/2018/806/regulation/25/3/a)
+[^c-e8c6f8d285db681c4493b16c58332ea0]: Textual amendment: [Word in Sch. 7 para. 1](https://www.legislation.gov.uk/wsi/2013/2750/schedule/7/paragraph/1) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [25(3)(a)](https://www.legislation.gov.uk/wsi/2018/806/regulation/25/3/a)
 
-[^key-e6c8c62572ec6f7f69c67f5ed7b960de]: Textual amendment: Word in Sch. 7 para. 2 substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [25(3)(b)](https://www.legislation.gov.uk/wsi/2018/806/regulation/25/3/b)
+[^c-e6c8c62572ec6f7f69c67f5ed7b960de]: Textual amendment: Word in Sch. 7 para. 2 substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [25(3)(b)](https://www.legislation.gov.uk/wsi/2018/806/regulation/25/3/b)
 
-[^key-fa5a956e21dc48720fe73bfc703faf4f]: Textual amendment: [Sch. 9 para. 10](https://www.legislation.gov.uk/wsi/2013/2750/schedule/9/paragraph/10) inserted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [25(4)](https://www.legislation.gov.uk/wsi/2018/806/regulation/25/4)
+[^c-fa5a956e21dc48720fe73bfc703faf4f]: Textual amendment: [Sch. 9 para. 10](https://www.legislation.gov.uk/wsi/2013/2750/schedule/9/paragraph/10) inserted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [25(4)](https://www.legislation.gov.uk/wsi/2018/806/regulation/25/4)
 
 [^c21942841]: Marginal citation: [Section 35(1)](https://www.legislation.gov.uk/wsi/2013/2750/section/35/1) is amended by paragraph 42 of Schedule 26 to the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) from a date to be appointed.
 
 [^c21942851]: Marginal citation: [Section 36A](https://www.legislation.gov.uk/wsi/2013/2750/section/36A) was inserted by paragraph 16 of Schedule 5 to the Food Standards Act 1999.
 
-[^key-fdd57f4130a98e8dae5dda2531f71feb]: Textual amendment: [Sch. 15 para. 1](https://www.legislation.gov.uk/wsi/2013/2750/schedule/15/paragraph/1) revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)
+[^c-fdd57f4130a98e8dae5dda2531f71feb]: Textual amendment: [Sch. 15 para. 1](https://www.legislation.gov.uk/wsi/2013/2750/schedule/15/paragraph/1) revoked (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1)
 
 [^c21942871]: Marginal citation: [S.I.2013/1984](https://www.legislation.gov.uk/uksi/2013/1984) (W.194).

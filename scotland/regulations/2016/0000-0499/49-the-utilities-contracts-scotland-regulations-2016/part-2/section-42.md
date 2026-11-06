@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Choice of procedures[^key-ec13a872aeb9559bb8a8db5dbc134c14]
+## 42. Choice of procedures[^c-ec13a872aeb9559bb8a8db5dbc134c14]
 
 *Extent: S*
 
@@ -37,18 +37,18 @@ summary: ''
 
 (5) A call for competition may be made by means of—
 
-- (a)[^key-45f939b6ecb355fe074c5f4900e0a33c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-45f939b6ecb355fe074c5f4900e0a33c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a notice on the existence of a qualification system in accordance with regulation 66 (notices on the existence of a qualification system) but only where the contract is to be awarded following a restricted or negotiated procedure, competitive dialogue or innovation partnership; or
 - (c) a contract notice in accordance with regulation 67 (contract notices).
 
-(6)[^key-e64674d99431f391c8e2fd5a97246717] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e64674d99431f391c8e2fd5a97246717] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Nothing in these Regulations prevents a utility which has commenced a procurement from terminating that procurement at any time.
 
 ## Annotations
 
-[^key-ec13a872aeb9559bb8a8db5dbc134c14]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2016/49/regulation/42) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-ec13a872aeb9559bb8a8db5dbc134c14]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2016/49/regulation/42) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-45f939b6ecb355fe074c5f4900e0a33c]: Textual amendment: [Reg. 42(5)(a)](https://www.legislation.gov.uk/ssi/2016/49/regulation/42/5/a) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(6)(a)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/6/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-45f939b6ecb355fe074c5f4900e0a33c]: Textual amendment: [Reg. 42(5)(a)](https://www.legislation.gov.uk/ssi/2016/49/regulation/42/5/a) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(6)(a)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/6/a) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
 
-[^key-e64674d99431f391c8e2fd5a97246717]: Textual amendment: [Reg. 42(6)](https://www.legislation.gov.uk/ssi/2016/49/regulation/42/6) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(6)(b)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/6/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-e64674d99431f391c8e2fd5a97246717]: Textual amendment: [Reg. 42(6)](https://www.legislation.gov.uk/ssi/2016/49/regulation/42/6) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [5(6)(b)](https://www.legislation.gov.uk/ssi/2023/124/regulation/5/6/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))

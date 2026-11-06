@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Grant of warrant to search premises or vehicles[^key-5273bce25890060d4e818192db5367f7]
+## 52. Grant of warrant to search premises or vehicles[^c-5273bce25890060d4e818192db5367f7]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ on any premises or in any vehicle, may by warrant under the hand of such sheriff
 
 ## Annotations
 
-[^key-5273bce25890060d4e818192db5367f7]: Commencement: S. 52 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-5273bce25890060d4e818192db5367f7]: Commencement: S. 52 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

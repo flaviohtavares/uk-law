@@ -29,7 +29,7 @@ to such extent as may be prescribed.
 
 (2) Regulations may provide for any of the provisions of Article 75 to apply, or apply with prescribed modifications, to money purchase schemes to such extent as may be prescribed (in spite of anything in that Article), and the power conferred by this paragraph includes power to apply Article 75 in circumstances other than those in which the scheme is being wound up or a relevant[^c19661691]. . . event occurs (within the meaning of that Article).
 
-(3)[^key-568a7d34cdec76ceb3b2f96948d9b499] Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (see section 52(2)(b) of that Act) is to be treated for the purposes of this Article as a separate money purchase scheme.
+(3)[^c-568a7d34cdec76ceb3b2f96948d9b499] Where a pension scheme is divided into sections, each section that is a collective money purchase scheme for the purposes of Part 2 of the Pension Schemes Act 2021 (see section 52(2)(b) of that Act) is to be treated for the purposes of this Article as a separate money purchase scheme.
 
 ## Annotations
 
@@ -37,4 +37,4 @@ to such extent as may be prescribed.
 
 [^c19661691]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-568a7d34cdec76ceb3b2f96948d9b499]: Textual amendment: [Art. 87(3)](https://www.legislation.gov.uk/nisi/1995/3213/article/87/3) inserted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/10); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-568a7d34cdec76ceb3b2f96948d9b499]: Textual amendment: [Art. 87(3)](https://www.legislation.gov.uk/nisi/1995/3213/article/87/3) inserted (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in operation) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a), [Sch. 6 para. 10](https://www.legislation.gov.uk/ukpga/2021/1/schedule/6/paragraph/10); [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

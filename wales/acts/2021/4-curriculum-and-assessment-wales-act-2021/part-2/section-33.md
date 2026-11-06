@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Reviews and appeals relating to pupil choice[^key-5412c024e3dee294cc4bc2b4f3b1d9b3][^key-d8627c77040d1df98a476db29ca22247]
+## 33. Reviews and appeals relating to pupil choice[^c-5412c024e3dee294cc4bc2b4f3b1d9b3][^c-d8627c77040d1df98a476db29ca22247]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5412c024e3dee294cc4bc2b4f3b1d9b3]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2021/4/section/33) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
+[^c-5412c024e3dee294cc4bc2b4f3b1d9b3]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2021/4/section/33) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
 
-[^key-d8627c77040d1df98a476db29ca22247]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2021/4/section/33) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)
+[^c-d8627c77040d1df98a476db29ca22247]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2021/4/section/33) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)

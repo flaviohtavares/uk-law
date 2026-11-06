@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Reports on progress under the Welsh building safety programme[^key-4c0dfea0640ba6063d0e0bc45a0501f5]
+## 118. Reports on progress under the Welsh building safety programme[^c-4c0dfea0640ba6063d0e0bc45a0501f5]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c0dfea0640ba6063d0e0bc45a0501f5]: Commencement: S. 118 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-4c0dfea0640ba6063d0e0bc45a0501f5]: Commencement: S. 118 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

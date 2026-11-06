@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Variation, on account of fraudulent or negligent conduct, of decision on expenditure claim etc.[^key-5d6f63e808d502aa626d226ef536def6]
+## 122. Variation, on account of fraudulent or negligent conduct, of decision on expenditure claim etc.[^c-5d6f63e808d502aa626d226ef536def6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d6f63e808d502aa626d226ef536def6]: Textual amendment: [S. 122](https://www.legislation.gov.uk/ukpga/1990/29/section/122) omitted (1.4.2010) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 43(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/43/a); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1)
+[^c-5d6f63e808d502aa626d226ef536def6]: Textual amendment: [S. 122](https://www.legislation.gov.uk/ukpga/1990/29/section/122) omitted (1.4.2010) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 43(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/43/a); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1)

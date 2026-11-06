@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 155. Parents not being married to , or civil partners of, each other to have no effect in law on relationships[^key-855c4f9020b856a7ef8c4ed971c2ac4d]
+## 155. Parents not being married to , or civil partners of, each other to have no effect in law on relationships[^c-855c4f9020b856a7ef8c4ed971c2ac4d]
 
 *Extent: N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 (2) In this Order and in any statutory provision passed or made after the commencement of this Article—
 
-- (a) references to a person whose father and mother were married to , or civil partners of,[^key-35ffad5fac0d6f843190481b59c5bf13] each other at the time of his birth include, and
+- (a) references to a person whose father and mother were married to , or civil partners of,[^c-35ffad5fac0d6f843190481b59c5bf13] each other at the time of his birth include, and
 - (b) references to a person whose father and mother were not married to , or civil partners of, each other at the time of his birth do not include,
 
 references to any person to whom paragraph (3) applies.
 
 (3) This paragraph applies to any person who—
 
-- (a) is treated as legitimate by virtue of section 1 or 2[^key-617df3e3f2357de340aba80f13141b96] of the Legitimacy Act (Northern Ireland) 1961[^c17271091];
+- (a) is treated as legitimate by virtue of section 1 or 2[^c-617df3e3f2357de340aba80f13141b96] of the Legitimacy Act (Northern Ireland) 1961[^c17271091];
 - (b) is a legitimated person within the meaning of Article 32 of the Matrimonial and Family Proceedings (Northern Ireland) Order 1989[^c17271101];
 - (ba)[^c21146361] has a parent by virtue of section 42 of the Human Fertilisation and Embryology Act 2008 (which relates to treatment provided to a woman who is at the time of treatment a party to a civil partnership or, in certain circumstances, a void civil partnership);
 - (bb) has a parent by virtue of section 43 of that Act (which relates to treatment provided to woman who agrees that second woman to be parent) who—
@@ -47,15 +47,15 @@ references to any person to whom paragraph (3) applies.
 
 and (in either case) ending with his birth.
 
-(4A)[^key-1412c053b7beb9962d4c0d4afc711763] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-1412c053b7beb9962d4c0d4afc711763] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4B)[^key-1412c053b7beb9962d4c0d4afc711763] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4B)[^c-1412c053b7beb9962d4c0d4afc711763] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4C)[^key-1412c053b7beb9962d4c0d4afc711763] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4C)[^c-1412c053b7beb9962d4c0d4afc711763] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4D)[^key-1412c053b7beb9962d4c0d4afc711763] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4D)[^c-1412c053b7beb9962d4c0d4afc711763] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4E)[^key-f5a39853900fcc3139cdff6bfdd758b2] Paragraph (4F) applies to a person—
+(4E)[^c-f5a39853900fcc3139cdff6bfdd758b2] Paragraph (4F) applies to a person—
 
 - (a) who was born before 13th January 2020,
 - (b) whose parents had formed a civil partnership before that date, and
@@ -67,11 +67,11 @@ and (in either case) ending with his birth.
 
 ## Annotations
 
-[^key-855c4f9020b856a7ef8c4ed971c2ac4d]: Textual amendment: Words in [art. 155](https://www.legislation.gov.uk/nisi/1995/755/article/155) heading inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/25/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-855c4f9020b856a7ef8c4ed971c2ac4d]: Textual amendment: Words in [art. 155](https://www.legislation.gov.uk/nisi/1995/755/article/155) heading inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/25/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-35ffad5fac0d6f843190481b59c5bf13]: Textual amendment: Words in [art. 155(2)](https://www.legislation.gov.uk/nisi/1995/755/article/155/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [25(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/25/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-35ffad5fac0d6f843190481b59c5bf13]: Textual amendment: Words in [art. 155(2)](https://www.legislation.gov.uk/nisi/1995/755/article/155/2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [25(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/25/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-617df3e3f2357de340aba80f13141b96]: Textual amendment: Words in [art. 155(3)(a)](https://www.legislation.gov.uk/nisi/1995/755/article/155/3/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [25(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/25/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-617df3e3f2357de340aba80f13141b96]: Textual amendment: Words in [art. 155(3)(a)](https://www.legislation.gov.uk/nisi/1995/755/article/155/3/a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [25(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/25/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c17271091]: Textual amendment: [1961 c. 5 (NI)](https://www.legislation.gov.uk/apni/1961/5)
 
@@ -79,6 +79,6 @@ and (in either case) ending with his birth.
 
 [^c21146361]: Textual amendment: Art. 155(3)(ba)(bb) inserted (6.4.2009 for certain purposes otherwise 1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 56](https://www.legislation.gov.uk/ukpga/2008/22/section/56), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 75(2)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/75/2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)(f)(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e/f/2) (with transitional provisions in [art.7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/479/schedule/1))
 
-[^key-1412c053b7beb9962d4c0d4afc711763]: Textual amendment: [Art. 155(4A)-(4D)](https://www.legislation.gov.uk/nisi/1995/755/article/155/4A) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [25(5)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/25/5) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-1412c053b7beb9962d4c0d4afc711763]: Textual amendment: [Art. 155(4A)-(4D)](https://www.legislation.gov.uk/nisi/1995/755/article/155/4A) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [25(5)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/25/5) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-f5a39853900fcc3139cdff6bfdd758b2]: Textual amendment: [Art. 155(4E)](https://www.legislation.gov.uk/nisi/1995/755/article/155/4E)[(4F)](https://www.legislation.gov.uk/nisi/1995/755/article/155/4F) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [25(6)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/25/6) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-f5a39853900fcc3139cdff6bfdd758b2]: Textual amendment: [Art. 155(4E)](https://www.legislation.gov.uk/nisi/1995/755/article/155/4E)[(4F)](https://www.legislation.gov.uk/nisi/1995/755/article/155/4F) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [25(6)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/25/6) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

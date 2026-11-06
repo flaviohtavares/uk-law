@@ -36,17 +36,17 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 
 (Text with EEA relevance) (revoked)
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0fe3e1a362a57117977e93ea17feacd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### CHAPTER I — INTRODUCTORY PROVISIONS[^key-f0fe3e1a362a57117977e93ea17feacd]
+### CHAPTER I — INTRODUCTORY PROVISIONS[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Section 1 — Scope and definitions[^key-f0fe3e1a362a57117977e93ea17feacd]
+#### Section 1 — Scope and definitions[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,7 +55,7 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 - [Section Article 1 — Subject matter and scope](section-article-1.md)
 - [Section Article 2 — Definitions](section-article-2.md)
 
-#### Section 2 — Regulatory status of products and counselling[^key-f0fe3e1a362a57117977e93ea17feacd]
+#### Section 2 — Regulatory status of products and counselling[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,7 +64,7 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 - [Section Article 3 — Regulatory status of products](section-article-3.md)
 - [Section Article 4 — Genetic information, counselling and informed consent](section-article-4.md)
 
-### CHAPTER II — MAKING AVAILABLE ON THE MARKET AND PUTTING INTO SERVICE OF DEVICES, OBLIGATIONS OF ECONOMIC OPERATORS, CE MARKING, FREE MOVEMENT[^key-f0fe3e1a362a57117977e93ea17feacd]
+### CHAPTER II — MAKING AVAILABLE ON THE MARKET AND PUTTING INTO SERVICE OF DEVICES, OBLIGATIONS OF ECONOMIC OPERATORS, CE MARKING, FREE MOVEMENT[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,7 +88,7 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 - [Section Article 20 — Parts and components](section-article-20.md)
 - [Section Article 21 — Free movement](section-article-21.md)
 
-### CHAPTER III — IDENTIFICATION AND TRACEABILITY OF DEVICES, REGISTRATION OF DEVICES AND OF ECONOMIC OPERATORS, SUMMARY OF SAFETY AND CLINICAL PERFORMANCE, EUROPEAN DATABASE ON MEDICAL DEVICES[^key-f0fe3e1a362a57117977e93ea17feacd]
+### CHAPTER III — IDENTIFICATION AND TRACEABILITY OF DEVICES, REGISTRATION OF DEVICES AND OF ECONOMIC OPERATORS, SUMMARY OF SAFETY AND CLINICAL PERFORMANCE, EUROPEAN DATABASE ON MEDICAL DEVICES[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
@@ -104,7 +104,7 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 - [Section Article 29 — Summary of safety and performance](section-article-29.md)
 - [Section Article 30 — European database on medical devices](section-article-30.md)
 
-### CHAPTER IV — NOTIFIED BODIES[^key-f0fe3e1a362a57117977e93ea17feacd]
+### CHAPTER IV — NOTIFIED BODIES[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
@@ -127,13 +127,13 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 - [Section Article 45 — Coordination of notified bodies](section-article-45.md)
 - [Section Article 46 — List of standard fees](section-article-46.md)
 
-### CHAPTER V — CLASSIFICATION AND CONFORMITY ASSESSMENT[^key-f0fe3e1a362a57117977e93ea17feacd]
+### CHAPTER V — CLASSIFICATION AND CONFORMITY ASSESSMENT[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Section 1 — Classification[^key-f0fe3e1a362a57117977e93ea17feacd]
+#### Section 1 — Classification[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
@@ -141,7 +141,7 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 
 - [Section Article 47 — Classification of devices](section-article-47.md)
 
-#### Section 2 — Conformity assessment[^key-f0fe3e1a362a57117977e93ea17feacd]
+#### Section 2 — Conformity assessment[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
@@ -156,7 +156,7 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 - [Section Article 54 — Derogation from the conformity assessment procedures](section-article-54.md)
 - [Section Article 55 — Certificate of free sale](section-article-55.md)
 
-### CHAPTER VI — CLINICAL EVIDENCE, PERFORMANCE EVALUATION AND PERFORMANCE STUDIES[^key-f0fe3e1a362a57117977e93ea17feacd]
+### CHAPTER VI — CLINICAL EVIDENCE, PERFORMANCE EVALUATION AND PERFORMANCE STUDIES[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
@@ -185,13 +185,13 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 - [Section Article 76 — Recording and reporting of adverse events that occur during performance studies](section-article-76.md)
 - [Section Article 77 — Implementing acts](section-article-77.md)
 
-### CHAPTER VII — POST-MARKET SURVEILLANCE, VIGILANCE AND MARKET SURVEILLANCE[^key-f0fe3e1a362a57117977e93ea17feacd]
+### CHAPTER VII — POST-MARKET SURVEILLANCE, VIGILANCE AND MARKET SURVEILLANCE[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Section 1 — Post-market surveillance[^key-f0fe3e1a362a57117977e93ea17feacd]
+#### Section 1 — Post-market surveillance[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
@@ -202,7 +202,7 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 - [Section Article 80 — Post-market surveillance report](section-article-80.md)
 - [Section Article 81 — Periodic safety update report](section-article-81.md)
 
-#### Section 2 — Vigilance[^key-f0fe3e1a362a57117977e93ea17feacd]
+#### Section 2 — Vigilance[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
@@ -215,7 +215,7 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 - [Section Article 86 — Implementing acts](section-article-86.md)
 - [Section Article 87 — Electronic system on vigilance and post-market surveillance](section-article-87.md)
 
-#### Section 3 — Market surveillance[^key-f0fe3e1a362a57117977e93ea17feacd]
+#### Section 3 — Market surveillance[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
@@ -230,7 +230,7 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 - [Section Article 94 — Good administrative practice](section-article-94.md)
 - [Section Article 95 — Electronic system on market surveillance](section-article-95.md)
 
-### CHAPTER VIII — COOPERATION BETWEEN MEMBER STATES, MEDICAL DEVICE COORDINATION GROUP, EU REFERENCE LABORATORIES AND DEVICE REGISTERS[^key-f0fe3e1a362a57117977e93ea17feacd]
+### CHAPTER VIII — COOPERATION BETWEEN MEMBER STATES, MEDICAL DEVICE COORDINATION GROUP, EU REFERENCE LABORATORIES AND DEVICE REGISTERS[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
@@ -243,7 +243,7 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 - [Section Article 100 — The European Union reference laboratories](section-article-100.md)
 - [Section Article 101 — Device registers and databanks](section-article-101.md)
 
-### CHAPTER IX — CONFIDENTIALITY, DATA PROTECTION, FUNDING AND PENALTIES[^key-f0fe3e1a362a57117977e93ea17feacd]
+### CHAPTER IX — CONFIDENTIALITY, DATA PROTECTION, FUNDING AND PENALTIES[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
@@ -255,7 +255,7 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 - [Section Article 105 — Funding of activities related to designation and monitoring of notified bodies](section-article-105.md)
 - [Section Article 106 — Penalties](section-article-106.md)
 
-### CHAPTER X — FINAL PROVISIONS[^key-f0fe3e1a362a57117977e93ea17feacd]
+### CHAPTER X — FINAL PROVISIONS[^c-f0fe3e1a362a57117977e93ea17feacd]
 
 *Extent: E+W+S+N.I.*
 
@@ -273,7 +273,7 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 
 **No longer in force.**
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]ANNEXES
+[^c-f0fe3e1a362a57117977e93ea17feacd]ANNEXES
 
 - [ANNEX I](schedule-annex-i.md)
 - [ANNEX II](schedule-annex-ii.md)
@@ -295,8 +295,8 @@ on *in vitro* diagnostic medical devices and repealing Directive 98/79/EC and Co
 
 **No longer in force.**
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f0fe3e1a362a57117977e93ea17feacd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0fe3e1a362a57117977e93ea17feacd]: Textual amendment: Regulation revoked (31.12.2020) by [The Medical Devices Regulations 2002 (S.I. 2002/618)](https://www.legislation.gov.uk/uksi/2002/618), [reg. 4P](https://www.legislation.gov.uk/uksi/2002/618/regulation/4P) (as inserted by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/791/regulation/3/7) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [9(m)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/9/m)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-f0fe3e1a362a57117977e93ea17feacd]: Textual amendment: Regulation revoked (31.12.2020) by [The Medical Devices Regulations 2002 (S.I. 2002/618)](https://www.legislation.gov.uk/uksi/2002/618), [reg. 4P](https://www.legislation.gov.uk/uksi/2002/618/regulation/4P) (as inserted by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2019/791/regulation/3/7) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [9(m)](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/9/m)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

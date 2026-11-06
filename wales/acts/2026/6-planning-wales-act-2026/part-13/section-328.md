@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 328. Further counter-notice where certain proposals come into force[^key-296ae1eec819f0a428fcd2a2083b443d]
+## 328. Further counter-notice where certain proposals come into force[^c-296ae1eec819f0a428fcd2a2083b443d]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-296ae1eec819f0a428fcd2a2083b443d]: Commencement: S. 328 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-296ae1eec819f0a428fcd2a2083b443d]: Commencement: S. 328 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

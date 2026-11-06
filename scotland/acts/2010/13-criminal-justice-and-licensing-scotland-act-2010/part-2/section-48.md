@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Alternative charges for fraud and embezzlement[^key-a1f1210969ead8e13ca556027a920b57]
+## 48. Alternative charges for fraud and embezzlement[^c-a1f1210969ead8e13ca556027a920b57]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ In Schedule 3 to the 1995 Act (indictments and complaints), after paragraph 8(3)
 
 ## Annotations
 
-[^key-a1f1210969ead8e13ca556027a920b57]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2010/13/section/48) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-a1f1210969ead8e13ca556027a920b57]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2010/13/section/48) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

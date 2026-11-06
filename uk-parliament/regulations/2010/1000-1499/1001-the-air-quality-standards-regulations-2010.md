@@ -61,8 +61,8 @@ In these Regulations—
 - “**ambient air**” means outdoor air in the troposphere, excluding workplaces where members of the public do not have regular access;
 - “AOT 40” (expressed in (μg/m<sup>3</sup>)∙ hours) means the sum of the difference between hourly concentrations greater than 80 μg/m<sup>3</sup> (=40 parts per billion) and 80 μg/m<sup>3</sup> over a given period using only the one-hour values measured between 08.00 hours and 20.00 hours Central European Time (CET) each day;
 - “arsenic”, “cadmium”, “nickel” and “benzo(a)pyrene” mean the total content of those elements and compounds within the PM<sub>10</sub> present in ambient air;
-- “[^key-329ab1f53c24927f65bd7b4e2d2a2013][Directive 2008/50/EC](https://www.legislation.gov.uk/european/directive/2008/0050)” means [Directive 2008/50/EC](https://www.legislation.gov.uk/european/directive/2008/0050) of the European Parliament and of the Council on ambient air quality and cleaner air for Europe;
-- “[^key-776ab2cb6e8ebeb14147c00dcc48d09c][Directive 2004/107/EC](https://www.legislation.gov.uk/european/directive/2004/0107)” means [Directive 2004/107/EC](https://www.legislation.gov.uk/european/directive/2004/0107) of the European Parliament and of the Council relating to arsenic, cadmium, mercury, nickel and polycyclic aromatic hydrocarbons in ambient air;
+- “[^c-329ab1f53c24927f65bd7b4e2d2a2013][Directive 2008/50/EC](https://www.legislation.gov.uk/european/directive/2008/0050)” means [Directive 2008/50/EC](https://www.legislation.gov.uk/european/directive/2008/0050) of the European Parliament and of the Council on ambient air quality and cleaner air for Europe;
+- “[^c-776ab2cb6e8ebeb14147c00dcc48d09c][Directive 2004/107/EC](https://www.legislation.gov.uk/european/directive/2004/0107)” means [Directive 2004/107/EC](https://www.legislation.gov.uk/european/directive/2004/0107) of the European Parliament and of the Council relating to arsenic, cadmium, mercury, nickel and polycyclic aromatic hydrocarbons in ambient air;
 - “**fixed measurements**” means measurements taken at fixed locations, either continuously or by sampling from time to time, to determine levels of pollutants in accordance with the relevant data quality objectives;
 - “**indicative measurement**” means measurements which meet data quality objectives that are less strict than those required for fixed measurements;
 - “**margin of tolerance**” means the percentage of the limit value by which that value may be exceeded in a given year;
@@ -91,7 +91,7 @@ In these Regulations—
   - (b) the Scottish Ministers for Scotland; and
   - (c) the Department of the Environment for Northern Ireland;
 
-### 2A. Interpretation[^key-2f316a7911ef4d2d66f2c4aaf8233c97]
+### 2A. Interpretation[^c-2f316a7911ef4d2d66f2c4aaf8233c97]
 
 (1) When interpreting Directive [2008/50/EC](https://www.legislation.gov.uk/eudr/2008/50) for the purposes of these Regulations—
 
@@ -120,7 +120,7 @@ In these Regulations—
     - (bb) for “it” there were substituted “ the Secretary of State ”;
     - (cc) for “the Member State concerned” there were substituted “ the Secretary of State ”;
   - (ii) points 2, 3 and 4 were omitted;
-- (g) in Annex 8, in section A, the paragraph after the table is to be read as if after the words “in the Community” there were inserted “ in so far as it forms part of assimilated[^key-48ea832f307ac7a413bf65931434f5af] law ”.
+- (g) in Annex 8, in section A, the paragraph after the table is to be read as if after the words “in the Community” there were inserted “ in so far as it forms part of assimilated[^c-48ea832f307ac7a413bf65931434f5af] law ”.
 
 (2) When interpreting Directive [2004/107/EC](https://www.legislation.gov.uk/eudr/2004/107) for the purposes of these Regulations—
 
@@ -317,7 +317,7 @@ Measurements of arsenic, cadmium, mercury, nickel, benzo(a)pyrene and other poly
 
 (2) In zones where levels of the pollutants mentioned in paragraph (1) are below the limit values set out in Schedule 2, the Secretary of State must ensure that levels are maintained below those limit values and must endeavour to maintain the best ambient air quality compatible with sustainable development.
 
-(3)[^key-9ac702f2e7becf4be75ef3a27b5a26fc] Where the Secretary of State considers that a limit value has been exceeded for a reason attributable to natural sources, that limit value will not be considered to be exceeded for the purposes of these Regulations.
+(3)[^c-9ac702f2e7becf4be75ef3a27b5a26fc] Where the Secretary of State considers that a limit value has been exceeded for a reason attributable to natural sources, that limit value will not be considered to be exceeded for the purposes of these Regulations.
 
 (4) Where the Secretary of State considers that a limit value has been exceeded for a reason attributable to natural sources in accordance with paragraph (3), the Secretary of State must publish information, for the relevant zones and agglomerations, demonstrating that the exceedances are attributable to natural sources.
 
@@ -329,7 +329,7 @@ Measurements of arsenic, cadmium, mercury, nickel, benzo(a)pyrene and other poly
 
 (3) The Secretary of State must draw up a list of all zones where the target value for arsenic, cadmium, nickel or benzo(a)pyrene is exceeded, and in relation to those zones, must identify the areas where those values are exceeded and the relevant sources of pollutants.
 
-(4) In relation to the zones to which paragraph (3) applies, the measures in paragraph (1) must be directed at the predominant sources of emission which have been identified, and where applicable will entail the application of best available techniques in accordance with the Environmental Permitting (England and Wales) Regulations 2016[^key-8c7e13a6c9235ae121f14b27c323f9d5].
+(4) In relation to the zones to which paragraph (3) applies, the measures in paragraph (1) must be directed at the predominant sources of emission which have been identified, and where applicable will entail the application of best available techniques in accordance with the Environmental Permitting (England and Wales) Regulations 2016[^c-8c7e13a6c9235ae121f14b27c323f9d5].
 
 ### 19. Date of application for limit values and target values
 
@@ -398,7 +398,7 @@ Based on the AEI for 2010, the Secretary of State must establish the national ex
 
 (1) Where the levels of sulphur dioxide, nitrogen dioxide, benzene, carbon monoxide, lead and PM<sub>10</sub> in ambient air exceed any of the limit values in Schedule 2 or the level of PM<sub>2.5 </sub>exceeds the target value in Schedule 3, the Secretary of State must draw up and implement an air quality plan so as to achieve that limit value or target value.
 
-(1A)[^key-24d08d69126229da58f36ef92683598b] Where [^key-aaeb66b94884741fad67f3737a509b06]... the Secretary of State has designated zones within which limit values for PM<sub>10</sub> are exceeded due to the re-suspension of particulates following winter sanding or salting of roads, the Secretary of State's duty under paragraph (1) applies to those zones only in so far as the excess is attributable to other sources of PM<sub>10</sub>.
+(1A)[^c-24d08d69126229da58f36ef92683598b] Where [^c-aaeb66b94884741fad67f3737a509b06]... the Secretary of State has designated zones within which limit values for PM<sub>10</sub> are exceeded due to the re-suspension of particulates following winter sanding or salting of roads, the Secretary of State's duty under paragraph (1) applies to those zones only in so far as the excess is attributable to other sources of PM<sub>10</sub>.
 
 (2) The air quality plan must include measures intended to ensure compliance with any relevant limit value within the shortest possible time.
 
@@ -406,9 +406,9 @@ Based on the AEI for 2010, the Secretary of State must establish the national ex
 
 (4) Air quality plans must include the information listed in Schedule 8.
 
-(5) Wherever possible, air quality plans must be consistent with relevant environmental plans[^key-b50082d74dd446f3392eb77d717fb4b4].
+(5) Wherever possible, air quality plans must be consistent with relevant environmental plans[^c-b50082d74dd446f3392eb77d717fb4b4].
 
-(5A)[^key-1fa5b6d68dd0e12e0799bde46186deb6] The air quality plan must include an assessment of the need to apply lower emission limit values for individual medium combustion plants than those set out in [Directive 2015/2193/EU](https://www.legislation.gov.uk/european/directive/2015/2193) of the European Parliament and of the Council of 25 November 2015 on the limitation of emissions of certain pollutants into the air from medium combustion plants (“the Medium Combustion Plant Directive”) provided that, in the opinion of the Secretary of State, applying such emission limit values would effectively contribute to a noticeable improvement of air quality.
+(5A)[^c-1fa5b6d68dd0e12e0799bde46186deb6] The air quality plan must include an assessment of the need to apply lower emission limit values for individual medium combustion plants than those set out in [Directive 2015/2193/EU](https://www.legislation.gov.uk/european/directive/2015/2193) of the European Parliament and of the Council of 25 November 2015 on the limitation of emissions of certain pollutants into the air from medium combustion plants (“the Medium Combustion Plant Directive”) provided that, in the opinion of the Secretary of State, applying such emission limit values would effectively contribute to a noticeable improvement of air quality.
 
 (5B) In considering whether to impose lower emission limit values, the Secretary of State must take into account the results of the information exchange referred to in Article 6(10) of the Medium Combustion Plant Directive.
 
@@ -416,13 +416,13 @@ Based on the AEI for 2010, the Secretary of State must establish the national ex
 
 (7) Where the level of ozone in a zone exceeds the target value in Schedule 3, the Secretary of State must draw up and implement an air quality plan unless the measures necessary to achieve the target value would entail disproportionate cost.
 
-(8)[^key-8cee2e849163e273559f62f595fcc6dd] In paragraph (5) “**relevant environmental plans**” means—
+(8)[^c-8cee2e849163e273559f62f595fcc6dd] In paragraph (5) “**relevant environmental plans**” means—
 
 - (a) the Transitional National Plan, which has the meaning given in regulation 2(1) of the Large Combustion Plants (Transitional National Plan) Regulations 2015 ;
 - (b) a national air pollution control programme drawn up in accordance with regulation 9 of the National Emission Ceilings Regulations 2018 ;
 - (c) an action plan drawn up in accordance with Part 4 of the Environmental Noise (England) Regulations 2006.
 
-(8)[^key-76d4e5af0ff719dcf44cad4d89e16dcb] In this regulation—
+(8)[^c-76d4e5af0ff719dcf44cad4d89e16dcb] In this regulation—
 
 - “emission limit values” has the meaning given in paragraph 5 of Schedule 25A to the Environmental Permitting (England and Wales) Regulations 2016, and
 - “medium combustion plants” has the meaning given in paragraph 2(1) of Schedule 25A to those Regulations.
@@ -469,7 +469,7 @@ Based on the AEI for 2010, the Secretary of State must establish the national ex
 
 (2) The information in paragraph (1)(g) must be made available in accordance with Schedule 9.
 
-(3) Information must be distributed free of charge in a clear and comprehensible manner , including the applicable methodology in relation to that information where appropriate,[^key-1fb46417bf22133c4bda825dc2969432] via any easily accessible media including the internet or other appropriate means of telecommunication taking into account the requirements of Council Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) on establishing an infrastructure for spatial information in the European Community in so far as it has been transposed into the law that applies in England[^key-d23541cebfac2cb9435adc031257cb76].
+(3) Information must be distributed free of charge in a clear and comprehensible manner , including the applicable methodology in relation to that information where appropriate,[^c-1fb46417bf22133c4bda825dc2969432] via any easily accessible media including the internet or other appropriate means of telecommunication taking into account the requirements of Council Directive [2007/2/EC](https://www.legislation.gov.uk/european/directive/2007/0002) on establishing an infrastructure for spatial information in the European Community in so far as it has been transposed into the law that applies in England[^c-d23541cebfac2cb9435adc031257cb76].
 
 (4) For the purposes of this Part, “**interested organisations**” includes environmental organisations, consumer organisations, organisations representing sensitive populations, relevant healthcare bodies and industrial federations.
 
@@ -488,7 +488,7 @@ Based on the AEI for 2010, the Secretary of State must establish the national ex
 
 ### 31. Power to give directions
 
-(1) For the purposes of implementing any obligations under these Regulations or under Commission Decision[^key-7fe9f8e761d3a43ddfb34e44de452837] [2011/850/EC](https://www.legislation.gov.uk/eud/2011/850) as regards the reciprocal exchange of information and reporting on ambient air quality, the Secretary of State has the same power to give directions under these Regulations to—
+(1) For the purposes of implementing any obligations under these Regulations or under Commission Decision[^c-7fe9f8e761d3a43ddfb34e44de452837] [2011/850/EC](https://www.legislation.gov.uk/eud/2011/850) as regards the reciprocal exchange of information and reporting on ambient air quality, the Secretary of State has the same power to give directions under these Regulations to—
 
 - (a) local authorities in Greater London; and
 - (b) the Mayor of London,
@@ -499,7 +499,7 @@ as the Secretary of State has under section 85(5)(a) of the Environment Act 1995
 
 ### 32. Transboundary air pollution
 
-(1) For the purpose of this Regulation a transboundary pollution issue arises when any of the following is exceeded within any part of the United Kingdom or[^key-23a37ab746b7f329b7ba574302b5bbb2] a member State due to significant transport of air pollutants or their precursor substances from any other part of those territories[^key-5ed97fa0d9da7f010481beb79ae526a8]—
+(1) For the purpose of this Regulation a transboundary pollution issue arises when any of the following is exceeded within any part of the United Kingdom or[^c-23a37ab746b7f329b7ba574302b5bbb2] a member State due to significant transport of air pollutants or their precursor substances from any other part of those territories[^c-5ed97fa0d9da7f010481beb79ae526a8]—
 
 - (a) a limit value or target value together with any relevant margin of tolerance;
 - (b) an alert threshold;
@@ -511,17 +511,17 @@ as the Secretary of State has under section 85(5)(a) of the Environment Act 1995
 
 - (a) considers that a transboundary pollution issue has arisen in England;
 - (b) is notified under paragraph (2); or
-- (c) is notified by a[^key-0b4a99d013aa259970214ba22903ae22] member state as to a transboundary pollution issue in their territory which arises from the United Kingdom,
+- (c) is notified by a[^c-0b4a99d013aa259970214ba22903ae22] member state as to a transboundary pollution issue in their territory which arises from the United Kingdom,
 
-the Secretary of State must consult the relevant administration and may consult the relevant[^key-13015ed26ff138170dfdcf0baa925062] member State as to any remedial action that might be appropriate.
+the Secretary of State must consult the relevant administration and may consult the relevant[^c-13015ed26ff138170dfdcf0baa925062] member State as to any remedial action that might be appropriate.
 
-(4) The Secretary of State must inform any relevant administration affected of any notification from a[^key-67be44c1c493fb5749ddfe4a910fd8ed] member State and consult the relevant administration about any action he proposes to take.
+(4) The Secretary of State must inform any relevant administration affected of any notification from a[^c-67be44c1c493fb5749ddfe4a910fd8ed] member State and consult the relevant administration about any action he proposes to take.
 
 (5) Where information or alert thresholds are exceeded in locations close to the border of the United Kingdom—
 
 - (a) any relevant administration affected must inform the Secretary of State,
-- (b) the Secretary of State must provide prompt information in relation to England or as provided by the relevant administration under paragraph (a), as the case may be, to any other relevant administration;[^key-4a495c5c7f9a0a4b51950b155105bfbf]
-- (c)[^key-5538791ff7959a55585ddf6b6ba6b389] the Secretary of State may provide information provided under this paragraph to any member State as is considered appropriate.
+- (b) the Secretary of State must provide prompt information in relation to England or as provided by the relevant administration under paragraph (a), as the case may be, to any other relevant administration;[^c-4a495c5c7f9a0a4b51950b155105bfbf]
+- (c)[^c-5538791ff7959a55585ddf6b6ba6b389] the Secretary of State may provide information provided under this paragraph to any member State as is considered appropriate.
 
 ### 33. Revocations
 
@@ -601,9 +601,9 @@ Insofar as is practicable, sampling points must be situated in accordance with t
 - (g) the desirability of co-locating sampling points for different pollutants;
 - (h) planning requirements.
 
-**3.**[^key-17d2f737b7623a74713ff65029f42e1d] Any deviation from the criteria listed in this Part must be documented in accordance with Part 4.
+**3.**[^c-17d2f737b7623a74713ff65029f42e1d] Any deviation from the criteria listed in this Part must be documented in accordance with Part 4.
 
-### PART 4 — Documentation and review of site selection[^key-ec4fa6aaaf80d05856a14b40d1224458]
+### PART 4 — Documentation and review of site selection[^c-ec4fa6aaaf80d05856a14b40d1224458]
 
 **1.** The Secretary of State must for all zones and agglomerations fully document the site-selection procedures and record information to support the network design and choice of location for all monitoring sites.
 
@@ -650,7 +650,7 @@ PM<sub>10</sub>
 | One day | 50 µg/m<sup>3</sup>, not to be exceeded more than 35 times a calendar year |
 | Calendar year | 40 µg/m<sup>3</sup> |
 
-PM[^key-16b7327bb3f13e5256ee9cea044189a4]<sub>2.5</sub>
+PM[^c-16b7327bb3f13e5256ee9cea044189a4]<sub>2.5</sub>
 
 | Averaging Period | Limit Value | Date by which limit value is to be met |
 | --- | --- | --- |
@@ -903,55 +903,55 @@ Transposition notes have also been prepared in relation to the directives transp
 
 [^c20232781]: Marginal citation: In relation to Scotland, the Secretary of State relies on section 57(1) of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46); in relation to Northern Ireland, the Secretary of State relies on section 23(1) of the [Northern Ireland Act 1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47); in relation to Wales, the Secretary of State relies on article 2(3) of the [European Communities (Designation) (No 3) Order 2000 (S.I. 2000/2812)](https://www.legislation.gov.uk/uksi/2000/2812).
 
-[^key-329ab1f53c24927f65bd7b4e2d2a2013]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/1001/regulation/2) substituted (31.12.2016) by [The Air Quality Standards (Amendment) Regulations 2016 (S.I. 2016/1184)](https://www.legislation.gov.uk/uksi/2016/1184), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/2/1)
+[^c-329ab1f53c24927f65bd7b4e2d2a2013]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/1001/regulation/2) substituted (31.12.2016) by [The Air Quality Standards (Amendment) Regulations 2016 (S.I. 2016/1184)](https://www.legislation.gov.uk/uksi/2016/1184), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/2/1)
 
-[^key-776ab2cb6e8ebeb14147c00dcc48d09c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/1001/regulation/2) substituted (31.12.2016) by [The Air Quality Standards (Amendment) Regulations 2016 (S.I. 2016/1184)](https://www.legislation.gov.uk/uksi/2016/1184), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/2/2)
+[^c-776ab2cb6e8ebeb14147c00dcc48d09c]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2010/1001/regulation/2) substituted (31.12.2016) by [The Air Quality Standards (Amendment) Regulations 2016 (S.I. 2016/1184)](https://www.legislation.gov.uk/uksi/2016/1184), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/2/2)
 
-[^key-2f316a7911ef4d2d66f2c4aaf8233c97]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2010/1001/regulation/2A) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(2)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f316a7911ef4d2d66f2c4aaf8233c97]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2010/1001/regulation/2A) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(2)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-48ea832f307ac7a413bf65931434f5af]: Textual amendment: Word in [reg. 2A(1)(g)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/2A/1/g) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 19](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/19)
+[^c-48ea832f307ac7a413bf65931434f5af]: Textual amendment: Word in [reg. 2A(1)(g)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/2A/1/g) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 19](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/19)
 
 [^c20232811]: Marginal citation: The map is deposited at the Defra Information and Resource Centre, Lower Ground Floor, Ergon House, Horseferry Road, London SW1P 2AL.
 
-[^key-9ac702f2e7becf4be75ef3a27b5a26fc]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/17/3)[(4)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/17/4) substituted for reg. 17(3) (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(3)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ac702f2e7becf4be75ef3a27b5a26fc]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/17/3)[(4)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/17/4) substituted for reg. 17(3) (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(3)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8c7e13a6c9235ae121f14b27c323f9d5]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/18/4) substituted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(4)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8c7e13a6c9235ae121f14b27c323f9d5]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/18/4) substituted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(4)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-24d08d69126229da58f36ef92683598b]: Textual amendment: [Reg. 26(1A)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/26/1A) inserted (11.2.2019) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/a), [3(3)](https://www.legislation.gov.uk/uksi/2019/74/regulation/3/3)
+[^c-24d08d69126229da58f36ef92683598b]: Textual amendment: [Reg. 26(1A)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/26/1A) inserted (11.2.2019) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/a), [3(3)](https://www.legislation.gov.uk/uksi/2019/74/regulation/3/3)
 
-[^key-aaeb66b94884741fad67f3737a509b06]: Textual amendment: Words in [reg. 26(1A)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/26/1A) omitted (31.12.2020) by virtue of [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(5)(a)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aaeb66b94884741fad67f3737a509b06]: Textual amendment: Words in [reg. 26(1A)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/26/1A) omitted (31.12.2020) by virtue of [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(5)(a)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b50082d74dd446f3392eb77d717fb4b4]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/26/5) substituted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(5)(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b50082d74dd446f3392eb77d717fb4b4]: Textual amendment: Words in [reg. 26(5)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/26/5) substituted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(5)(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1fa5b6d68dd0e12e0799bde46186deb6]: Textual amendment: [Reg. 26(5A)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/26/5A)[(5B)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/26/5B) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [18(2)(a)](https://www.legislation.gov.uk/uksi/2018/110/regulation/18/2/a)
+[^c-1fa5b6d68dd0e12e0799bde46186deb6]: Textual amendment: [Reg. 26(5A)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/26/5A)[(5B)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/26/5B) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [18(2)(a)](https://www.legislation.gov.uk/uksi/2018/110/regulation/18/2/a)
 
-[^key-8cee2e849163e273559f62f595fcc6dd]: Textual amendment: [Reg. 26(8)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/26/8) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(5)(c)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8cee2e849163e273559f62f595fcc6dd]: Textual amendment: [Reg. 26(8)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/26/8) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(5)(c)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-76d4e5af0ff719dcf44cad4d89e16dcb]: Textual amendment: [Reg. 26(8)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/26/8) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [18(2)(b)](https://www.legislation.gov.uk/uksi/2018/110/regulation/18/2/b)
+[^c-76d4e5af0ff719dcf44cad4d89e16dcb]: Textual amendment: [Reg. 26(8)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/26/8) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [18(2)(b)](https://www.legislation.gov.uk/uksi/2018/110/regulation/18/2/b)
 
 [^c20232861]: Marginal citation: OJ No L 87, 25.3.04, p 50.
 
-[^key-1fb46417bf22133c4bda825dc2969432]: Textual amendment: Words in [reg. 29(3)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/29/3) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(6)(a)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fb46417bf22133c4bda825dc2969432]: Textual amendment: Words in [reg. 29(3)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/29/3) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(6)(a)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d23541cebfac2cb9435adc031257cb76]: Textual amendment: Words in [reg. 29(3)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/29/3) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(6)(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d23541cebfac2cb9435adc031257cb76]: Textual amendment: Words in [reg. 29(3)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/29/3) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(6)(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7fe9f8e761d3a43ddfb34e44de452837]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/31/1) substituted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(7)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7fe9f8e761d3a43ddfb34e44de452837]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/31/1) substituted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(7)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20232891]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-23a37ab746b7f329b7ba574302b5bbb2]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/32/1) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(8)(a)(i)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/8/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-23a37ab746b7f329b7ba574302b5bbb2]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/32/1) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(8)(a)(i)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/8/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5ed97fa0d9da7f010481beb79ae526a8]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/32/1) substituted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/8/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ed97fa0d9da7f010481beb79ae526a8]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/32/1) substituted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/8/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0b4a99d013aa259970214ba22903ae22]: Textual amendment: Word in [reg. 32(3)(c)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/32/3/c) substituted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(8)(b)(i)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/8/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b4a99d013aa259970214ba22903ae22]: Textual amendment: Word in [reg. 32(3)(c)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/32/3/c) substituted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(8)(b)(i)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/8/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-13015ed26ff138170dfdcf0baa925062]: Textual amendment: Words in [reg. 32(3)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/32/3) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/8/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-13015ed26ff138170dfdcf0baa925062]: Textual amendment: Words in [reg. 32(3)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/32/3) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(8)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/8/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-67be44c1c493fb5749ddfe4a910fd8ed]: Textual amendment: Word in [reg. 32(4)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/32/4) substituted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(8)(c)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-67be44c1c493fb5749ddfe4a910fd8ed]: Textual amendment: Word in [reg. 32(4)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/32/4) substituted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(8)(c)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a495c5c7f9a0a4b51950b155105bfbf]: Textual amendment: Words in [reg. 32(5)(b)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/32/5/b) substituted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(8)(d)(i)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/8/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a495c5c7f9a0a4b51950b155105bfbf]: Textual amendment: Words in [reg. 32(5)(b)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/32/5/b) substituted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(8)(d)(i)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/8/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5538791ff7959a55585ddf6b6ba6b389]: Textual amendment: [Reg. 32(5)(c)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/32/5/c) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/8/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5538791ff7959a55585ddf6b6ba6b389]: Textual amendment: [Reg. 32(5)(c)](https://www.legislation.gov.uk/uksi/2010/1001/regulation/32/5/c) inserted (31.12.2020) by [The Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019 (S.I. 2019/74)](https://www.legislation.gov.uk/uksi/2019/74), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2019/74/regulation/2/b), [4(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/74/regulation/4/8/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20232901]: Marginal citation: [S.I.2007/64](https://www.legislation.gov.uk/uksi/2007/64).
 
@@ -959,8 +959,8 @@ Transposition notes have also been prepared in relation to the directives transp
 
 [^M_F_b1cc44ec-2e2e-47f6-8493-2d0a8c4696bf]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2010/1001/schedule/1/part/4) para. 1(e) inserted (31.12.2016) by [The Air Quality Standards (Amendment) Regulations 2016 (S.I. 2016/1184)](https://www.legislation.gov.uk/uksi/2016/1184), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/4)
 
-[^key-17d2f737b7623a74713ff65029f42e1d]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2010/1001/schedule/1/paragraph/3) inserted (31.12.2016) by [The Air Quality Standards (Amendment) Regulations 2016 (S.I. 2016/1184)](https://www.legislation.gov.uk/uksi/2016/1184), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/3/c)
+[^c-17d2f737b7623a74713ff65029f42e1d]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2010/1001/schedule/1/paragraph/3) inserted (31.12.2016) by [The Air Quality Standards (Amendment) Regulations 2016 (S.I. 2016/1184)](https://www.legislation.gov.uk/uksi/2016/1184), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/3/c)
 
-[^key-ec4fa6aaaf80d05856a14b40d1224458]: Textual amendment: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/uksi/2010/1001/schedule/1/part/4) inserted (31.12.2016) by [The Air Quality Standards (Amendment) Regulations 2016 (S.I. 2016/1184)](https://www.legislation.gov.uk/uksi/2016/1184), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/1184/regulation/4)
+[^c-ec4fa6aaaf80d05856a14b40d1224458]: Textual amendment: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/uksi/2010/1001/schedule/1/part/4) inserted (31.12.2016) by [The Air Quality Standards (Amendment) Regulations 2016 (S.I. 2016/1184)](https://www.legislation.gov.uk/uksi/2016/1184), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1184/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/1184/regulation/4)
 
-[^key-16b7327bb3f13e5256ee9cea044189a4]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1001/schedule/2) substituted (10.12.2020) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1313/regulation/2)
+[^c-16b7327bb3f13e5256ee9cea044189a4]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1001/schedule/2) substituted (10.12.2020) by [The Environment (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1313)](https://www.legislation.gov.uk/uksi/2020/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1313/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/1313/regulation/2)

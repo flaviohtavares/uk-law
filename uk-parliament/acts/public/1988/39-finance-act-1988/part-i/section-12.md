@@ -25,7 +25,7 @@ summary: ''
 - (a) sections 50(4)(b), 53(9)(b), 63(6)(b), 68(3)(b), 100(4)(b), 159(7)(b) and 170(3)(b) of the [^c13526351]Customs and Excise Management Act 1979;
 - (b) sections 10(7)(b), 13(5)(b) and 14(8)(b) of the [^c13526361]Hydrocarbon Oil Duties Act 1979;
 - (c) paragraph 16(1)(b) of Schedule 3 to the [^c13526371]Betting and Gaming Duties Act 1981; and
-- (d)[^key-b917ca5355470a2b113f484bf7506e4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-b917ca5355470a2b113f484bf7506e4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 for the words “2 years” or “two years” there shall be substituted the words “ 7 years ” or “ seven years ”, as appropriate.
 
@@ -68,7 +68,7 @@ and in subsection (3) of that section, after the words “subsection (1)” ther
 
   > (4) In sub-paragraph (3) above, “**the maximum term**” means two years in the case of an offence under paragraph (a) and seven years in the case of an offence under paragraph (aa) or (b) of that sub-paragraph.
 
-(5)[^key-c099084a6694a45da0b0bf95b94648a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c099084a6694a45da0b0bf95b94648a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) This section has effect in relation to offences committed after the passing of this Act.
 
@@ -80,10 +80,10 @@ and in subsection (3) of that section, after the words “subsection (1)” ther
 
 [^c13526371]: Marginal citation: [1981 c. 63](https://www.legislation.gov.uk/ukpga/1981/63).
 
-[^key-b917ca5355470a2b113f484bf7506e4a]: Textual amendment: [S. 12(1)(d)](https://www.legislation.gov.uk/ukpga/1988/39/section/12/1/d) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5
+[^c-b917ca5355470a2b113f484bf7506e4a]: Textual amendment: [S. 12(1)(d)](https://www.legislation.gov.uk/ukpga/1988/39/section/12/1/d) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5
 
 [^c13526391]: Textual amendment: Words in s. 12(4) repealed (19.3.1997 with effect on 1.10.1997 as mentioned in note 2 of SCh. 18 Pt. II of the repealing Act) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 113](https://www.legislation.gov.uk/ukpga/1997/16/section/113), [Sch. 18 Pt. II](https://www.legislation.gov.uk/ukpga/1997/16/schedule/18/part/II) note 2
 
 [^c13526401]: Marginal citation: [1981 c. 63](https://www.legislation.gov.uk/ukpga/1981/63).
 
-[^key-c099084a6694a45da0b0bf95b94648a4]: Textual amendment: [S. 12(5)](https://www.legislation.gov.uk/ukpga/1988/39/section/12/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5
+[^c-c099084a6694a45da0b0bf95b94648a4]: Textual amendment: [S. 12(5)](https://www.legislation.gov.uk/ukpga/1988/39/section/12/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5

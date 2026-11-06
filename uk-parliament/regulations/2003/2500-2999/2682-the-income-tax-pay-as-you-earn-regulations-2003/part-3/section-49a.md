@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49A. Procedure where employee fails to assist with completion of new employee fields in returns under regulations 67B and 67D[^key-0f2cf395a51e4d45d1d8795988f879a4]
+## 49A. Procedure where employee fails to assist with completion of new employee fields in returns under regulations 67B and 67D[^c-0f2cf395a51e4d45d1d8795988f879a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f2cf395a51e4d45d1d8795988f879a4]: Textual amendment: [Regs. 49A-49E](https://www.legislation.gov.uk/uksi/2003/2682/regulation/49A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2012/822/regulation/14)
+[^c-0f2cf395a51e4d45d1d8795988f879a4]: Textual amendment: [Regs. 49A-49E](https://www.legislation.gov.uk/uksi/2003/2682/regulation/49A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2012/822/regulation/14)

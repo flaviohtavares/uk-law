@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Acquisition of part of certain properties[^key-70ada5680c27f464de30b5f790e2aa86]
+## 26. Acquisition of part of certain properties[^c-70ada5680c27f464de30b5f790e2aa86]
 
 *Extent: E+W+S*
 
@@ -65,6 +65,6 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 ## Annotations
 
-[^key-70ada5680c27f464de30b5f790e2aa86]: Commencement: Art. 26 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-70ada5680c27f464de30b5f790e2aa86]: Commencement: Art. 26 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
 
 [^f00026]: Footnote: Section 8 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

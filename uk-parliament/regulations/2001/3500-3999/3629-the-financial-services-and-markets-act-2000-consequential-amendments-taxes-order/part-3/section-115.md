@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. The Taxes Management Act 1970: provisions to apply[^key-cf340d66521a2679f41209add6faa54c]
+## 115. The Taxes Management Act 1970: provisions to apply[^c-cf340d66521a2679f41209add6faa54c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cf340d66521a2679f41209add6faa54c]: Commencement: Art. 115 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-cf340d66521a2679f41209add6faa54c]: Commencement: Art. 115 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00110]: Footnote: The Schedule was relevantly amended by regulations 11(2) and 12(2) of S.I. [1997/2430](https://www.legislation.gov.uk/uksi/1997/2430).
 

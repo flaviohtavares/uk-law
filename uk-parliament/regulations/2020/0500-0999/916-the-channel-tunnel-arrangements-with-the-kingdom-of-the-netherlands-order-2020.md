@@ -44,7 +44,7 @@ Coming into force in accordance with article 1(2) and (3)
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 11 of the Channel Tunnel Act 1987 [^c24277931].
 
-## 1. Citation, commencement and revocation[^key-9fe38d60890a2a103e4b758860e81fcd][^key-ff2b859e4f4d14dd76d1d8a97349f63b]
+## 1. Citation, commencement and revocation[^c-9fe38d60890a2a103e4b758860e81fcd][^c-ff2b859e4f4d14dd76d1d8a97349f63b]
 
 (1) This Order may be cited as the Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020.
 
@@ -55,9 +55,9 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (3) Article 6 comes into force immediately after the entry into force of article 5 of the Channel Tunnel (International Arrangements and Miscellaneous Provisions) (Amendment) Order 2020 [^c24277941].
 
-(4)[^key-83100bce982a0068c25b49abbadcc5e7] Article 5A and Schedule 2 to this Order cease to have effect on the date on which the Quadripartite Agreement enters into force.
+(4)[^c-83100bce982a0068c25b49abbadcc5e7] Article 5A and Schedule 2 to this Order cease to have effect on the date on which the Quadripartite Agreement enters into force.
 
-## 2. Interpretation[^key-7a7f86a13818b781b4c33f76dc281021]
+## 2. Interpretation[^c-7a7f86a13818b781b4c33f76dc281021]
 
 (1) In this Order—
 
@@ -69,7 +69,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
   of section 11(1) of the 1987 Act;
 - “**frontier control enactment**” means an Act, or an instrument made under an Act, for the time being in force, which contains provision relating to frontier controls;
-- “**the international articles**” means the provisions set out in Schedule 1[^key-e6b9ff105f0f81430921fa83300c41ca] being—
+- “**the international articles**” means the provisions set out in Schedule 1[^c-e6b9ff105f0f81430921fa83300c41ca] being—
   - (a) the Articles or parts of Articles of the Agreement; and
   - (b) the Articles to the Protocol to the Agreement;
 - “**international service**” has the meaning given in section 13(6) of the 1987 Act;
@@ -79,7 +79,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (3) Terms defined for the purposes of the international articles have the same meaning for the purposes of this Order.
 
-## 3. Application of international articles[^key-3362bc53483ca0925ce9bfbf3ce343ed]
+## 3. Application of international articles[^c-3362bc53483ca0925ce9bfbf3ce343ed]
 
 (1) The international articles have the force of law in the United Kingdom—
 
@@ -92,19 +92,19 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (4) Nothing in this article implies the existence of a control zone in the station of London-Waterloo on British Territory.
 
-## 4. Application of enactments[^key-897fbc3d042ae061aa1e965c4ccd3b72]
+## 4. Application of enactments[^c-897fbc3d042ae061aa1e965c4ccd3b72]
 
 (1) For the purpose of enabling officers belonging to the United Kingdom to carry out frontier controls, all frontier control enactments extend to the Netherlands within a control zone.
 
 (2) The Equality Act 2010 [^c24277961] applies to the carrying out by immigration officers of their functions in a control zone in the Netherlands as it applies to the carrying out of their functions within the United Kingdom.
 
-(3) For the purposes of Article 3 of the UK GDPR and[^key-f493eb97a42ae4ca9e74eabb0c301c85] section 207 of the Data Protection Act 2018 [^c24277971] (“**the 2018 Act**”), data which is processed within a control zone in the Netherlands in connection with the carrying out of frontier controls by an officer belonging to the United Kingdom shall be treated as processed by a controller established in the United Kingdom in the context of the activities of that establishment (and the GDPR and the 2018 Act apply[^key-fdaef209077803be7fa17a16c59f6cf8] in respect of such data).
+(3) For the purposes of Article 3 of the UK GDPR and[^c-f493eb97a42ae4ca9e74eabb0c301c85] section 207 of the Data Protection Act 2018 [^c24277971] (“**the 2018 Act**”), data which is processed within a control zone in the Netherlands in connection with the carrying out of frontier controls by an officer belonging to the United Kingdom shall be treated as processed by a controller established in the United Kingdom in the context of the activities of that establishment (and the GDPR and the 2018 Act apply[^c-fdaef209077803be7fa17a16c59f6cf8] in respect of such data).
 
-(4) For the purposes of Article 3 of the UK GDPR and[^key-33ab114d5d7d228475af52bd84472b4b] section 207 of the 2018 Act, data which is processed within a control zone in the United Kingdom in connection with the carrying out of frontier controls by an officer belonging to the Kingdom of the Netherlands shall be treated as processed by a controller established in the Kingdom of the Netherlands in the context of the activities of that establishment (and accordingly the GDPR and the 2018 Act do[^key-22b1e49ba5a01c1e224cd5cf624ce6cc] not apply in respect of such data).
+(4) For the purposes of Article 3 of the UK GDPR and[^c-33ab114d5d7d228475af52bd84472b4b] section 207 of the 2018 Act, data which is processed within a control zone in the United Kingdom in connection with the carrying out of frontier controls by an officer belonging to the Kingdom of the Netherlands shall be treated as processed by a controller established in the Kingdom of the Netherlands in the context of the activities of that establishment (and accordingly the GDPR and the 2018 Act do[^c-22b1e49ba5a01c1e224cd5cf624ce6cc] not apply in respect of such data).
 
-(5)[^key-210e807e50103b1f413e559ac6c70c31] In this article, “**the UK GDPR**” has the meaning given in section 3(10) of the 2018 Act.
+(5)[^c-210e807e50103b1f413e559ac6c70c31] In this article, “**the UK GDPR**” has the meaning given in section 3(10) of the 2018 Act.
 
-## 5. Application of criminal law[^key-4d354f5517c0cd1d48f8e9ccd2555e03]
+## 5. Application of criminal law[^c-4d354f5517c0cd1d48f8e9ccd2555e03]
 
 (1) Any act or omission which–
 
@@ -128,11 +128,11 @@ shall be treated for the purposes of that enactment as if it were an act or omis
 
 (6) Where it is proposed to institute proceedings in respect of an alleged offence in any court and a question as to the court's jurisdiction arises under the international articles, it shall be presumed, unless the contrary is proved, that the court has jurisdiction under the international articles.
 
-## 5A. Powers of officers[^key-aae8495e51482ea2f0ca884c6cc7cbc5]
+## 5A. Powers of officers[^c-aae8495e51482ea2f0ca884c6cc7cbc5]
 
 Schedule 2 (which contains provisions as to powers exercisable by constables and other officers) shall have effect.
 
-## 6. Enactments modified[^key-e6a9df6fc3f26ac581a1018c4b128b3b]
+## 6. Enactments modified[^c-e6a9df6fc3f26ac581a1018c4b128b3b]
 
 (1) Without prejudice to the generality of articles 4(1) and 5(1), the frontier control enactments modified by Schedule 4 to the Channel Tunnel (International Arrangements) Order 1993 [^c24277991]—
 
@@ -148,11 +148,11 @@ have effect, subject to paragraph (2), with the modifications set out in that Sc
 
 (3) Nothing in paragraph (1)(b) implies the existence of a supplementary control zone in the station of London-Waterloo on British Territory.
 
-## 7. Fees[^key-07ad1e1c0a6ca315dbd5ecad249a31b8]
+## 7. Fees[^c-07ad1e1c0a6ca315dbd5ecad249a31b8]
 
 The Secretary of State may charge an operator a reasonable fee in connection with the carrying out of the Secretary of State's functions under or by virtue of this Order.
 
-## 8. Amendments to article 4 coming into force on IP completion day[^key-ee2514e62b7e425e10f72dfaf9520d77]
+## 8. Amendments to article 4 coming into force on IP completion day[^c-ee2514e62b7e425e10f72dfaf9520d77]
 
 In article 4—
 
@@ -174,11 +174,11 @@ Parliamentary Under Secretary of State
 
 Home Office
 
-## Schedule 1 — INTERNATIONAL ARTICLES[^key-0bcb5167e0768e8d39e28a3ce6267460]
+## Schedule 1 — INTERNATIONAL ARTICLES[^c-0bcb5167e0768e8d39e28a3ce6267460]
 
 Article 2(1)
 
-### PART I — GENERAL PROVISIONS AND PERMANENT MEASURES[^key-16ce2745ed2f1c2b6caa5853b55ae04c]
+### PART I — GENERAL PROVISIONS AND PERMANENT MEASURES[^c-16ce2745ed2f1c2b6caa5853b55ae04c]
 
 #### ARTICLE 1 — Definitions
 
@@ -272,33 +272,33 @@ in which border controls referred to in Article 3 may be exercised.
 
 **4.** Without prejudice to the exercise of its rights vis-à-vis third parties, each Contracting Party shall waive all its claims against each other for any damage it has sustained, except in cases of gross negligence or wilful misconduct.
 
-### PART II — SPECIFIC PROVISIONS PENDING THE ENTRY INTO FORCE OF THE QUADRIPARTITE AGREEMENT[^key-f68cde4f64fa525f2916589c710ed999]
+### PART II — SPECIFIC PROVISIONS PENDING THE ENTRY INTO FORCE OF THE QUADRIPARTITE AGREEMENT[^c-f68cde4f64fa525f2916589c710ed999]
 
 #### ARTICLE 12 — Operation of Controls
 
-A Protocol concerning the operation of controls in respect of passengers travelling on rail services falling within the scope of this Agreement is attached to this Agreement. *(affected by repeal, see note)*[^key-07523bdd5c25ec73d30011498e793284]
+A Protocol concerning the operation of controls in respect of passengers travelling on rail services falling within the scope of this Agreement is attached to this Agreement. *(affected by repeal, see note)*[^c-07523bdd5c25ec73d30011498e793284]
 
 #### ARTICLE 13 — Requests for Protection
 
-**1.**[^key-2c5493bbca9e5a203a5eb08d762dd39a] Without prejudice to the other provisions laid down by the Contracting Parties in this Agreement or the Protocol hereto, when a person submits a request for refugee status or any other kind of protection provided for by international law or in the national law of the Host State during border controls carried out at a station of the Host State by the Officers of the Destination State, this request will be examined by the authorities of the Host State in accordance with the rules and procedures of its national law. *(affected by repeal, see note)*[^key-2c5493bbca9e5a203a5eb08d762dd39a]
+**1.**[^c-2c5493bbca9e5a203a5eb08d762dd39a] Without prejudice to the other provisions laid down by the Contracting Parties in this Agreement or the Protocol hereto, when a person submits a request for refugee status or any other kind of protection provided for by international law or in the national law of the Host State during border controls carried out at a station of the Host State by the Officers of the Destination State, this request will be examined by the authorities of the Host State in accordance with the rules and procedures of its national law. *(affected by repeal, see note)*[^c-2c5493bbca9e5a203a5eb08d762dd39a]
 
-**2.** The same provision will be applicable when the request is submitted after the person has passed through the border controls referred to in paragraph 1 above and before the train doors close at the last scheduled stop at a station located in the territory of the Host State. This provision is without prejudice to the rules of international law that are applicable to requests that are made after the doors have closed. *(affected by repeal, see note)*[^key-2c5493bbca9e5a203a5eb08d762dd39a]
+**2.** The same provision will be applicable when the request is submitted after the person has passed through the border controls referred to in paragraph 1 above and before the train doors close at the last scheduled stop at a station located in the territory of the Host State. This provision is without prejudice to the rules of international law that are applicable to requests that are made after the doors have closed. *(affected by repeal, see note)*[^c-2c5493bbca9e5a203a5eb08d762dd39a]
 
 #### ARTICLE 14 — Uniforms and Insignia
 
-When exercising their functions in the Host State referred to in Article 3 within a Control Zone, Officers shall wear their national uniform or other visible distinctive insignia. *(affected by repeal, see note)*[^key-f7ccb6e316348783f3a9a12958447ffc]
+When exercising their functions in the Host State referred to in Article 3 within a Control Zone, Officers shall wear their national uniform or other visible distinctive insignia. *(affected by repeal, see note)*[^c-f7ccb6e316348783f3a9a12958447ffc]
 
-### PART III — FINAL PROVISIONS[^key-fa0961552b142bb41c88cef5fa037819]
+### PART III — FINAL PROVISIONS[^c-fa0961552b142bb41c88cef5fa037819]
 
 #### ARTICLE 15 — Implementing Measures
 
 The measures necessary for the implementation of this Agreement or its Protocol may be the subject of agreements or technical or administrative arrangements between the Contracting Parties or their Competent authorities.
 
-#### ARTICLE 16 (affected by repeal, see note)[^key-968d8d506973ce1a46030620b13cebf3]
+#### ARTICLE 16 (affected by repeal, see note)[^c-968d8d506973ce1a46030620b13cebf3]
 
-The Competent authorities of each Contracting Party shall, in consultation with one another, determine their respective requirements for accommodation, installations and equipment. Where these requirements are to be satisfied by other parties, they shall be notified to them by the Competent authorities of the Contracting Party in whose territory that other party is located. *(affected by repeal, see note)*[^key-968d8d506973ce1a46030620b13cebf3]
+The Competent authorities of each Contracting Party shall, in consultation with one another, determine their respective requirements for accommodation, installations and equipment. Where these requirements are to be satisfied by other parties, they shall be notified to them by the Competent authorities of the Contracting Party in whose territory that other party is located. *(affected by repeal, see note)*[^c-968d8d506973ce1a46030620b13cebf3]
 
-#### ARTICLE 16 — Entry into Force[^key-38360c86a9d87b8951f508a3d58f2207]
+#### ARTICLE 16 — Entry into Force[^c-38360c86a9d87b8951f508a3d58f2207]
 
 …
 
@@ -306,121 +306,121 @@ The Competent authorities of each Contracting Party shall, in consultation with 
 
 **4.** The Protocol to this Agreement shall cease to have effect on the date upon which the Quadripartite Agreement enters into force.
 
-### PROTOCOL (affected by repeal, see note) — CONCERNING THE ORGANISATION OF BORDER CONTROLS IN THE CONTROL ZONES (affected by repeal, see note)[^key-04d9002e1ecd3fece385a4c1e8eee65c][^key-1de0d08bc865e7dbbc659e4bd789199c][^key-1de0d08bc865e7dbbc659e4bd789199c]
+### PROTOCOL (affected by repeal, see note) — CONCERNING THE ORGANISATION OF BORDER CONTROLS IN THE CONTROL ZONES (affected by repeal, see note)[^c-04d9002e1ecd3fece385a4c1e8eee65c][^c-1de0d08bc865e7dbbc659e4bd789199c][^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 1 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 1 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-This Protocol shall apply to rail traffic between the Contracting Parties in either direction travelling via the Fixed Link. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+This Protocol shall apply to rail traffic between the Contracting Parties in either direction travelling via the Fixed Link. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 2 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 2 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**1.** The laws in force of the Host State shall apply at all times in the Control Zone. Without prejudice to the application of the provisions of article 18, Officers of the Host State have the right to circulate and intervene at any moment within the Control Zone in order to perform their competences attributed by national law. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**1.** The laws in force of the Host State shall apply at all times in the Control Zone. Without prejudice to the application of the provisions of article 18, Officers of the Host State have the right to circulate and intervene at any moment within the Control Zone in order to perform their competences attributed by national law. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**2.** When performing border controls in the Host State, the Officers of the Destination State shall apply the laws and regulations relating to border controls in their State and put them into effect in the Control Zone situated in the Host State in the same way as in their own territory, under the procedure and modalities as defined in Article 3. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**2.** When performing border controls in the Host State, the Officers of the Destination State shall apply the laws and regulations relating to border controls in their State and put them into effect in the Control Zone situated in the Host State in the same way as in their own territory, under the procedure and modalities as defined in Article 3. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 3 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 3 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**1.** The Officers of the Destination State shall, in the exercise of their national powers, only be permitted in the Control Zone situated in the Host State to detain or arrest persons for criminal offences during the execution of a Border control on persons in accordance with the laws and regulations relating to frontier controls of their own State or persons sought by the authorities of their own State, as follows: *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**1.** The Officers of the Destination State shall, in the exercise of their national powers, only be permitted in the Control Zone situated in the Host State to detain or arrest persons for criminal offences during the execution of a Border control on persons in accordance with the laws and regulations relating to frontier controls of their own State or persons sought by the authorities of their own State, as follows: *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-- (a) No arrest or detention may be made for a criminal offence for which there is no comparable criminal offence under the domestic legislation of the Host State. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
-- (b) While performing the controls envisaged in article 2, the Officers of the Destination State may require a person to submit to further examination in order to ensure that such a person may be authorised to enter the territory of the Destination State. Persons required to submit to further examination may bring this examination to an end at any time by discontinuing their wish to enter the territory of the Destination State. In such a case the person shall be directed to the officers of the Host State who will take the necessary measures to submit the person to frontier controls. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
-- (c) Any person arrested or detained shall be handed over immediately, along with any seized goods, to the Competent authorities of the Host State. The Host State shall ensure that the Competent authorities are available to receive such a person and to take the necessary measures. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+- (a) No arrest or detention may be made for a criminal offence for which there is no comparable criminal offence under the domestic legislation of the Host State. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
+- (b) While performing the controls envisaged in article 2, the Officers of the Destination State may require a person to submit to further examination in order to ensure that such a person may be authorised to enter the territory of the Destination State. Persons required to submit to further examination may bring this examination to an end at any time by discontinuing their wish to enter the territory of the Destination State. In such a case the person shall be directed to the officers of the Host State who will take the necessary measures to submit the person to frontier controls. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
+- (c) Any person arrested or detained shall be handed over immediately, along with any seized goods, to the Competent authorities of the Host State. The Host State shall ensure that the Competent authorities are available to receive such a person and to take the necessary measures. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 4 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 4 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-Without prejudice to the law of the Host State, breaches of the laws and regulations relating to frontier controls of the Destination State which are detected in the Control Zone situated in the Host State shall be subject to the laws and regulations of the Destination State, as if the breaches had occurred in the territory of the latter. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+Without prejudice to the law of the Host State, breaches of the laws and regulations relating to frontier controls of the Destination State which are detected in the Control Zone situated in the Host State shall be subject to the laws and regulations of the Destination State, as if the breaches had occurred in the territory of the latter. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 5 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 5 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**1.** The frontier controls of the Host State shall normally be effected before those of the Destination State. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**1.** The frontier controls of the Host State shall normally be effected before those of the Destination State. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**2.** The Officers of the Destination State are not authorised to begin to carry out such controls before the end of the controls of the Host State. Any form of relinquishment of such controls shall be considered as a control. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**2.** The Officers of the Destination State are not authorised to begin to carry out such controls before the end of the controls of the Host State. Any form of relinquishment of such controls shall be considered as a control. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**3.** The Officers of the Host State may no longer carry out their controls when the officers of the Destination State have begun their own operations, except with the consent of the Competent officers of the Destination State. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**3.** The Officers of the Host State may no longer carry out their controls when the officers of the Destination State have begun their own operations, except with the consent of the Competent officers of the Destination State. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**4.** If exceptionally, in the course of the frontier controls, the sequence of operations provided for in paragraph (1) of this Article is modified, the officers of the Destination State may not proceed to detentions, arrests or seizures until the frontier controls of the Host State are completed. In such a case, these Officers shall escort the persons, vehicles, merchandise, animals or other goods, for which the frontier controls of the Host State are not yet completed, to the officers of that State. If these latter then wish to proceed to detentions, arrests or seizures, they shall have priority. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**4.** If exceptionally, in the course of the frontier controls, the sequence of operations provided for in paragraph (1) of this Article is modified, the officers of the Destination State may not proceed to detentions, arrests or seizures until the frontier controls of the Host State are completed. In such a case, these Officers shall escort the persons, vehicles, merchandise, animals or other goods, for which the frontier controls of the Host State are not yet completed, to the officers of that State. If these latter then wish to proceed to detentions, arrests or seizures, they shall have priority. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 6 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 6 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-If the Destination State refuses admission to persons, vehicles, animals or goods, or if persons refuse to submit to the frontier controls of the Destination State, or send or take back any vehicles, animals or goods which are accompanying them, the authorities of the Host State may not refuse to take back such persons, vehicles, animals or goods. However, the authorities of the Host State may take any measures to deal with them in accordance with the law applicable in that State and in a way which does not impose obligations on the Destination State. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+If the Destination State refuses admission to persons, vehicles, animals or goods, or if persons refuse to submit to the frontier controls of the Destination State, or send or take back any vehicles, animals or goods which are accompanying them, the authorities of the Host State may not refuse to take back such persons, vehicles, animals or goods. However, the authorities of the Host State may take any measures to deal with them in accordance with the law applicable in that State and in a way which does not impose obligations on the Destination State. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 7 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 7 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**1.** The provisions of this Protocol concerning the methods of exercise of juxtaposed frontier controls, particularly any extension or reduction of their field of application, may be modified by mutual agreement between the Governments by way of arrangements which shall be confirmed by Exchange of Diplomatic Notes. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**1.** The provisions of this Protocol concerning the methods of exercise of juxtaposed frontier controls, particularly any extension or reduction of their field of application, may be modified by mutual agreement between the Governments by way of arrangements which shall be confirmed by Exchange of Diplomatic Notes. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**2.** In an emergency, the local representatives of the authorities concerned may by mutual agreement provisionally bring into effect alterations to the delimitation of the Control Zones which may prove necessary. Any arrangements so reached shall come into effect immediately. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**2.** In an emergency, the local representatives of the authorities concerned may by mutual agreement provisionally bring into effect alterations to the delimitation of the Control Zones which may prove necessary. Any arrangements so reached shall come into effect immediately. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 8 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 8 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-Border controls on persons for the purpose of safeguarding public health shall be carried out in the Control Zone situated in the Host State by the Competent authorities of the Destination State in conformity with the regulations applicable in that State. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+Border controls on persons for the purpose of safeguarding public health shall be carried out in the Control Zone situated in the Host State by the Competent authorities of the Destination State in conformity with the regulations applicable in that State. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 9 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 9 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**1.** Where there is information giving rise to suspicion of an infringement, controls may be carried out on animals, animal products, plants, plant products and foodstuffs for human or animal consumption. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**1.** Where there is information giving rise to suspicion of an infringement, controls may be carried out on animals, animal products, plants, plant products and foodstuffs for human or animal consumption. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**2.** The bringing into the Destination State of pets, which travellers take with them for non-profit purposes may be subject to controls in compliance with the current regulations. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**2.** The bringing into the Destination State of pets, which travellers take with them for non-profit purposes may be subject to controls in compliance with the current regulations. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 10 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 10 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**1.** The controls referred to in Article 9 shall include: *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**1.** The controls referred to in Article 9 shall include: *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-- (a) inspection of certificates or accompanying documents, termed documentary inspection; *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
-- (b) physical examination, including where necessary the taking of samples; *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
-- (c) inspection of means of transport. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+- (a) inspection of certificates or accompanying documents, termed documentary inspection; *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
+- (b) physical examination, including where necessary the taking of samples; *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
+- (c) inspection of means of transport. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**2.** Such controls may be limited to documentary inspection, while physical examination may be undertaken as considered necessary. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**2.** Such controls may be limited to documentary inspection, while physical examination may be undertaken as considered necessary. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 11 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 11 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-Veterinary inspection of living animals shall be without prejudice to any subsequent quarantine measures which may be imposed by the importing State. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+Veterinary inspection of living animals shall be without prejudice to any subsequent quarantine measures which may be imposed by the importing State. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 12 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 12 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-Officers of the Destination State may wear their national uniform or visible distinctive insignia in the Host State. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+Officers of the Destination State may wear their national uniform or visible distinctive insignia in the Host State. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 13 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 13 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**1.** The authorities of the Host State shall grant the same protection and assurance to Officers of the Destination State, in the exercise of their functions, as they grant to their own Officers. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**1.** The authorities of the Host State shall grant the same protection and assurance to Officers of the Destination State, in the exercise of their functions, as they grant to their own Officers. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**2.** The provisions of the criminal law in force in the Host State for the protection of officers in the exercise of their functions shall be equally applicable to the punishment of offences committed against officers of the Destination State in the exercise of their functions. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**2.** The provisions of the criminal law in force in the Host State for the protection of officers in the exercise of their functions shall be equally applicable to the punishment of offences committed against officers of the Destination State in the exercise of their functions. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 14 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 14 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**1.** Without prejudice to the application of the provisions of Article 11 of the Agreement, claims for compensation for loss, injury or damage caused by or to officers of the Destination State in the exercise of their functions in the Host State shall be subject to the law and jurisdiction of the Destination State as if the circumstance giving rise to the claim had occurred in that State. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**1.** Without prejudice to the application of the provisions of Article 11 of the Agreement, claims for compensation for loss, injury or damage caused by or to officers of the Destination State in the exercise of their functions in the Host State shall be subject to the law and jurisdiction of the Destination State as if the circumstance giving rise to the claim had occurred in that State. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**2.** Officers of the Destination State may not be prosecuted by authorities of the Host State for any acts performed in the Control Zone whilst in the exercise of their functions. In such a case, they shall come under the jurisdiction of their own State as if the act had been committed in that State. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**2.** Officers of the Destination State may not be prosecuted by authorities of the Host State for any acts performed in the Control Zone whilst in the exercise of their functions. In such a case, they shall come under the jurisdiction of their own State as if the act had been committed in that State. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**3.** The judicial authorities or police of the Host State who take steps to record the complaint and assemble the facts relating thereto shall communicate all the particulars and evidence thereof to the Competent authorities of the Destination State for the purposes of a possible prosecution according to the laws in force in that State. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**3.** The judicial authorities or police of the Host State who take steps to record the complaint and assemble the facts relating thereto shall communicate all the particulars and evidence thereof to the Competent authorities of the Destination State for the purposes of a possible prosecution according to the laws in force in that State. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 15 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 15 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**1.** Officers of the Destination State shall be permitted freely to transfer to their own State sums of money levied on behalf of their Governments in the Control Zone situated in the Host State, as well as merchandise and other goods seized there. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**1.** Officers of the Destination State shall be permitted freely to transfer to their own State sums of money levied on behalf of their Governments in the Control Zone situated in the Host State, as well as merchandise and other goods seized there. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**2.** They may equally sell such merchandise and other goods in the Host State in conformity with the provisions in force in the Host State and transfer the proceeds to their own State. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**2.** They may equally sell such merchandise and other goods in the Host State in conformity with the provisions in force in the Host State and transfer the proceeds to their own State. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 17 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 17 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**1.** The authorities of each Contracting Party shall use their best endeavours to ensure that the authorities of other Contracting Party are able to make use in the Host State of the accommodation, installations and equipment necessary for the performance of their functions. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**1.** The authorities of each Contracting Party shall use their best endeavours to ensure that the authorities of other Contracting Party are able to make use in the Host State of the accommodation, installations and equipment necessary for the performance of their functions. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**2.** The Host State has the right to provide for an Operator or third party to make available the acommodation, installations and equipment necessary for the performance of the other Contracting Party's functions, and similarly has the right to recover the costs of such provision from an Operator or other third party. Any such provision or recovery shall be by way of administrative agreement between the relevant Contracting Party and Operator or third party. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**2.** The Host State has the right to provide for an Operator or third party to make available the acommodation, installations and equipment necessary for the performance of the other Contracting Party's functions, and similarly has the right to recover the costs of such provision from an Operator or other third party. Any such provision or recovery shall be by way of administrative agreement between the relevant Contracting Party and Operator or third party. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 18 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 18 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**1.** The Officers of the Destination State are empowered to keep order within the accommodation appointed for their exclusive use in the Host State. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**1.** The Officers of the Destination State are empowered to keep order within the accommodation appointed for their exclusive use in the Host State. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**2.** The Officers of the Host State shall not have access to such accommodation, except at the request of the officers of the Destination State or in accordance with the laws of the Host State applicable to entry into and searches of private premises. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**2.** The Officers of the Host State shall not have access to such accommodation, except at the request of the officers of the Destination State or in accordance with the laws of the Host State applicable to entry into and searches of private premises. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 19 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 19 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-All goods which are necessary to enable the Officers of the Destination State to carry out their functions in the Host State shall be exempt from all taxes, duties and fees on entry and exit. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+All goods which are necessary to enable the Officers of the Destination State to carry out their functions in the Host State shall be exempt from all taxes, duties and fees on entry and exit. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-#### ARTICLE 20 (affected by repeal, see note)[^key-1de0d08bc865e7dbbc659e4bd789199c]
+#### ARTICLE 20 (affected by repeal, see note)[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**1.** The Officers of the Destination State whilst exercising their functions in the Host State shall be authorised to communicate with their national authorities. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**1.** The Officers of the Destination State whilst exercising their functions in the Host State shall be authorised to communicate with their national authorities. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**2.** For this purpose, the authorities of the Host State shall endeavour to meet the requests of the authorities of the Destination State relating to communications facilities necessary for the performance of their functions and shall define their conditions of use. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**2.** For this purpose, the authorities of the Host State shall endeavour to meet the requests of the authorities of the Destination State relating to communications facilities necessary for the performance of their functions and shall define their conditions of use. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
-**3.** The Host State has the right to provide for an Operator or third party to make available the accommodation, installations and equipment necessary for the performance of the other Contracting Party's functions, and similarly has the right to recover the costs of such provision from an Operator or other third party. Any such provision or recovery shall be by way of administrative agreement between the relevant Contracting Party and Operator or third party. *(affected by repeal, see note)*[^key-1de0d08bc865e7dbbc659e4bd789199c]
+**3.** The Host State has the right to provide for an Operator or third party to make available the accommodation, installations and equipment necessary for the performance of the other Contracting Party's functions, and similarly has the right to recover the costs of such provision from an Operator or other third party. Any such provision or recovery shall be by way of administrative agreement between the relevant Contracting Party and Operator or third party. *(affected by repeal, see note)*[^c-1de0d08bc865e7dbbc659e4bd789199c]
 
 #### ANNEX A — CRIMINAL OFFENCES
 
@@ -439,7 +439,7 @@ Offences for which Officers of the United Kingdom may use detention at port powe
 - any offence for which a person is liable to arrest by a police officer for an act or omission which would constitute an offence under an immigration control enactment if it had taken place in the United Kingdom
 - any offence in respect of which an individual is subject to a warrant for arrest.
 
-## SCHEDULE 2 — POWERS OF OFFICERS[^key-433f7fbad1956477a45949ef87811b69]
+## SCHEDULE 2 — POWERS OF OFFICERS[^c-433f7fbad1956477a45949ef87811b69]
 
 Article 5A
 
@@ -593,72 +593,72 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24277931]: Marginal citation: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53).
 
-[^key-9fe38d60890a2a103e4b758860e81fcd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2020/916/article/1) in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
+[^c-9fe38d60890a2a103e4b758860e81fcd]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2020/916/article/1) in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
 
-[^key-ff2b859e4f4d14dd76d1d8a97349f63b]: Textual amendment: Art. 1 heading substituted (1.12.2021) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/2/a)
+[^c-ff2b859e4f4d14dd76d1d8a97349f63b]: Textual amendment: Art. 1 heading substituted (1.12.2021) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/2/a)
 
 [^c24277941]: Marginal citation: [S.I. 2020/915](https://www.legislation.gov.uk/uksi/2020/915).
 
-[^key-83100bce982a0068c25b49abbadcc5e7]: Textual amendment: [Art. 1(4)](https://www.legislation.gov.uk/uksi/2020/916/article/1/4) inserted (1.12.2021) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/2/b)
+[^c-83100bce982a0068c25b49abbadcc5e7]: Textual amendment: [Art. 1(4)](https://www.legislation.gov.uk/uksi/2020/916/article/1/4) inserted (1.12.2021) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/2/b)
 
-[^key-7a7f86a13818b781b4c33f76dc281021]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2020/916/article/2) in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
+[^c-7a7f86a13818b781b4c33f76dc281021]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2020/916/article/2) in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
 
 [^c24277951]: Marginal citation: Cmd. 254.
 
-[^key-e6b9ff105f0f81430921fa83300c41ca]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/916/article/2) substituted (1.12.2021) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/b), [2(3)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/3)
+[^c-e6b9ff105f0f81430921fa83300c41ca]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2020/916/article/2) substituted (1.12.2021) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/b), [2(3)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/3)
 
-[^key-3362bc53483ca0925ce9bfbf3ce343ed]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2020/916/article/3) in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
+[^c-3362bc53483ca0925ce9bfbf3ce343ed]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2020/916/article/3) in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
 
-[^key-897fbc3d042ae061aa1e965c4ccd3b72]: Commencement: Art. 4 in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
+[^c-897fbc3d042ae061aa1e965c4ccd3b72]: Commencement: Art. 4 in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
 
 [^c24277961]: Marginal citation: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-f493eb97a42ae4ca9e74eabb0c301c85]: Textual amendment: Words in art. 4(3) inserted (31.12.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a), [8(a)(i)](https://www.legislation.gov.uk/uksi/2020/916/article/8/a/i)
+[^c-f493eb97a42ae4ca9e74eabb0c301c85]: Textual amendment: Words in art. 4(3) inserted (31.12.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a), [8(a)(i)](https://www.legislation.gov.uk/uksi/2020/916/article/8/a/i)
 
 [^c24277971]: Marginal citation: [2018 c.12](https://www.legislation.gov.uk/ukpga/2018/12).
 
-[^key-fdaef209077803be7fa17a16c59f6cf8]: Textual amendment: Words in art. 4(3) substituted (31.12.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2020/916/article/8/a/ii)
+[^c-fdaef209077803be7fa17a16c59f6cf8]: Textual amendment: Words in art. 4(3) substituted (31.12.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2020/916/article/8/a/ii)
 
-[^key-33ab114d5d7d228475af52bd84472b4b]: Textual amendment: Words in art. 4(4) inserted (31.12.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a), [8(b)(i)](https://www.legislation.gov.uk/uksi/2020/916/article/8/b/i)
+[^c-33ab114d5d7d228475af52bd84472b4b]: Textual amendment: Words in art. 4(4) inserted (31.12.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a), [8(b)(i)](https://www.legislation.gov.uk/uksi/2020/916/article/8/b/i)
 
-[^key-22b1e49ba5a01c1e224cd5cf624ce6cc]: Textual amendment: Words in art. 4(4) substituted (31.12.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2020/916/article/8/b/ii)
+[^c-22b1e49ba5a01c1e224cd5cf624ce6cc]: Textual amendment: Words in art. 4(4) substituted (31.12.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2020/916/article/8/b/ii)
 
-[^key-210e807e50103b1f413e559ac6c70c31]: Textual amendment: Art. 4(5) inserted (31.12.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a), [8(c)](https://www.legislation.gov.uk/uksi/2020/916/article/8/c)
+[^c-210e807e50103b1f413e559ac6c70c31]: Textual amendment: Art. 4(5) inserted (31.12.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a), [8(c)](https://www.legislation.gov.uk/uksi/2020/916/article/8/c)
 
-[^key-4d354f5517c0cd1d48f8e9ccd2555e03]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2020/916/article/5) in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
+[^c-4d354f5517c0cd1d48f8e9ccd2555e03]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2020/916/article/5) in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
 
 [^c24277981]: Marginal citation: [2007 c.30](https://www.legislation.gov.uk/ukpga/2007/30).
 
-[^key-aae8495e51482ea2f0ca884c6cc7cbc5]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/2020/916/article/5A) inserted (1.12.2021) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/b), [2(4)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/4)
+[^c-aae8495e51482ea2f0ca884c6cc7cbc5]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/uksi/2020/916/article/5A) inserted (1.12.2021) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/b), [2(4)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/4)
 
-[^key-e6a9df6fc3f26ac581a1018c4b128b3b]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2020/916/article/6) in force at 30.9.2020 immediately after S.I. 2020/915, art. 5 comes into force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2020/916/article/1/3)
+[^c-e6a9df6fc3f26ac581a1018c4b128b3b]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2020/916/article/6) in force at 30.9.2020 immediately after S.I. 2020/915, art. 5 comes into force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2020/916/article/1/3)
 
 [^c24277991]: Marginal citation: [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813).
 
-[^key-07ad1e1c0a6ca315dbd5ecad249a31b8]: Commencement: Art. 7 in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
+[^c-07ad1e1c0a6ca315dbd5ecad249a31b8]: Commencement: Art. 7 in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
 
-[^key-ee2514e62b7e425e10f72dfaf9520d77]: Commencement: Art. 8 in force at 31.12.2020 on IP completion day, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a)
+[^c-ee2514e62b7e425e10f72dfaf9520d77]: Commencement: Art. 8 in force at 31.12.2020 on IP completion day, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/a)
 
-[^key-0bcb5167e0768e8d39e28a3ce6267460]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2020/916/schedule/1) renumbered as Sch. 1 (1.12.2021) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/b), [2(5)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/5)
+[^c-0bcb5167e0768e8d39e28a3ce6267460]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2020/916/schedule/1) renumbered as Sch. 1 (1.12.2021) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/b), [2(5)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/5)
 
-[^key-16ce2745ed2f1c2b6caa5853b55ae04c]: Commencement: Sch. Pt. I in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
+[^c-16ce2745ed2f1c2b6caa5853b55ae04c]: Commencement: Sch. Pt. I in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
 
-[^key-f68cde4f64fa525f2916589c710ed999]: Commencement: Sch. Pt. II in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
+[^c-f68cde4f64fa525f2916589c710ed999]: Commencement: Sch. Pt. II in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
 
-[^key-07523bdd5c25ec73d30011498e793284]: Textual amendment: [Sch. 1 Art. 12](https://www.legislation.gov.uk/uksi/2020/916/schedule/1/article/12) omitted (coming into force in accordance with art. 1(2)(a) of the amending S.I.) by virtue of [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/a), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/6/a)
+[^c-07523bdd5c25ec73d30011498e793284]: Textual amendment: [Sch. 1 Art. 12](https://www.legislation.gov.uk/uksi/2020/916/schedule/1/article/12) omitted (coming into force in accordance with art. 1(2)(a) of the amending S.I.) by virtue of [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/a), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/6/a)
 
-[^key-2c5493bbca9e5a203a5eb08d762dd39a]: Textual amendment: [Sch. 1 Art. 13](https://www.legislation.gov.uk/uksi/2020/916/schedule/1/article/13) omitted (coming into force in accordance with art. 1(2)(a) of the amending S.I.) by virtue of [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/a), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/6/a)
+[^c-2c5493bbca9e5a203a5eb08d762dd39a]: Textual amendment: [Sch. 1 Art. 13](https://www.legislation.gov.uk/uksi/2020/916/schedule/1/article/13) omitted (coming into force in accordance with art. 1(2)(a) of the amending S.I.) by virtue of [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/a), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/6/a)
 
-[^key-f7ccb6e316348783f3a9a12958447ffc]: Textual amendment: [Sch. 1 Art. 14](https://www.legislation.gov.uk/uksi/2020/916/schedule/1/article/14) omitted (coming into force in accordance with art. 1(2)(a) of the amending S.I.) by virtue of [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/a), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/6/a)
+[^c-f7ccb6e316348783f3a9a12958447ffc]: Textual amendment: [Sch. 1 Art. 14](https://www.legislation.gov.uk/uksi/2020/916/schedule/1/article/14) omitted (coming into force in accordance with art. 1(2)(a) of the amending S.I.) by virtue of [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/a), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/6/a)
 
-[^key-fa0961552b142bb41c88cef5fa037819]: Commencement: Sch. Pt. III in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
+[^c-fa0961552b142bb41c88cef5fa037819]: Commencement: Sch. Pt. III in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
 
-[^key-968d8d506973ce1a46030620b13cebf3]: Textual amendment: [Sch. 1 Art. 16](https://www.legislation.gov.uk/uksi/2020/916/schedule/1/article/16) omitted (coming into force in accordance with art. 1(2)(a) of the amending S.I.) by virtue of [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/a), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/6/a)
+[^c-968d8d506973ce1a46030620b13cebf3]: Textual amendment: [Sch. 1 Art. 16](https://www.legislation.gov.uk/uksi/2020/916/schedule/1/article/16) omitted (coming into force in accordance with art. 1(2)(a) of the amending S.I.) by virtue of [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/a), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/6/a)
 
-[^key-38360c86a9d87b8951f508a3d58f2207]: Textual amendment: [Sch. 1 Art. 16](https://www.legislation.gov.uk/uksi/2020/916/schedule/1/article/16) inserted (1.12.2021) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/b), [2(6)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/6/b)
+[^c-38360c86a9d87b8951f508a3d58f2207]: Textual amendment: [Sch. 1 Art. 16](https://www.legislation.gov.uk/uksi/2020/916/schedule/1/article/16) inserted (1.12.2021) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/b), [2(6)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/6/b)
 
-[^key-04d9002e1ecd3fece385a4c1e8eee65c]: Commencement: Sch. Protocol in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
+[^c-04d9002e1ecd3fece385a4c1e8eee65c]: Commencement: Sch. Protocol in force at 30.9.2020, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)
 
-[^key-1de0d08bc865e7dbbc659e4bd789199c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2020/916/schedule/1) Protocol omitted (coming into force in accordance with art. 1(2)(a) of the amending S.I.) by virtue of [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/a), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/6/a)
+[^c-1de0d08bc865e7dbbc659e4bd789199c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2020/916/schedule/1) Protocol omitted (coming into force in accordance with art. 1(2)(a) of the amending S.I.) by virtue of [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/a), [2(6)(a)](https://www.legislation.gov.uk/uksi/2021/1190/article/2/6/a)
 
-[^key-433f7fbad1956477a45949ef87811b69]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2020/916/schedule/2) inserted (1.12.2021) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2021/1190/schedule)
+[^c-433f7fbad1956477a45949ef87811b69]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2020/916/schedule/2) inserted (1.12.2021) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) (Amendment) Order 2021 (S.I. 2021/1190)](https://www.legislation.gov.uk/uksi/2021/1190), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1190/article/1/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2021/1190/schedule)

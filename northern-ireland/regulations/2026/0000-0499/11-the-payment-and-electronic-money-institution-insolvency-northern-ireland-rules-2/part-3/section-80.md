@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Procedure for requests that a place for a meeting should be specified[^key-b9ff183987ffaaeb824e3e6f689064d4]
+## 80. Procedure for requests that a place for a meeting should be specified[^c-b9ff183987ffaaeb824e3e6f689064d4]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9ff183987ffaaeb824e3e6f689064d4]: Commencement: [Rule 80](https://www.legislation.gov.uk/nisr/2026/11/rule/80) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-b9ff183987ffaaeb824e3e6f689064d4]: Commencement: [Rule 80](https://www.legislation.gov.uk/nisr/2026/11/rule/80) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

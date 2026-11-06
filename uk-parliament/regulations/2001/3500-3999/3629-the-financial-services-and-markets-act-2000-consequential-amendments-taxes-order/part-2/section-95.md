@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Loan relationships: collective investment schemes[^key-39572b0876cfeb91e39230d29c1fe4bd]
+## 95. Loan relationships: collective investment schemes[^c-39572b0876cfeb91e39230d29c1fe4bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-39572b0876cfeb91e39230d29c1fe4bd]: Commencement: Art. 95 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-39572b0876cfeb91e39230d29c1fe4bd]: Commencement: Art. 95 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00102]: Footnote: Paragraph 8 was relevantly amended by Article 10 of S.I. [1997/213](https://www.legislation.gov.uk/uksi/1997/213).

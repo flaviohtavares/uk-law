@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33B. The designated body condition[^key-53622ab9fce0dade5fc5e339a1e223aa][^key-c772ac0453dcf096e1dc3738b91cefc1]
+## 33B. The designated body condition[^c-53622ab9fce0dade5fc5e339a1e223aa][^c-c772ac0453dcf096e1dc3738b91cefc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-53622ab9fce0dade5fc5e339a1e223aa]: Textual amendment: [Ss. 33A](https://www.legislation.gov.uk/ukpga/2023/32/section/33A), [33B](https://www.legislation.gov.uk/ukpga/2023/32/section/33B) and cross-heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2026/24/section/1/2), [7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-53622ab9fce0dade5fc5e339a1e223aa]: Textual amendment: [Ss. 33A](https://www.legislation.gov.uk/ukpga/2023/32/section/33A), [33B](https://www.legislation.gov.uk/ukpga/2023/32/section/33B) and cross-heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2026/24/section/1/2), [7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
 
-[^key-c772ac0453dcf096e1dc3738b91cefc1]: Modification: [S. 33B](https://www.legislation.gov.uk/ukpga/2023/32/section/33B) applied (8.7.2026) by [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17), [s. 69A(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/69A/5) (as substituted by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 13(2)(c)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/13/2/c))
+[^c-c772ac0453dcf096e1dc3738b91cefc1]: Modification: [S. 33B](https://www.legislation.gov.uk/ukpga/2023/32/section/33B) applied (8.7.2026) by [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17), [s. 69A(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/69A/5) (as substituted by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 13(2)(c)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/13/2/c))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Occupiers’ liability.[^key-1e9caa89c3b2cc99800628d4deebe047][^key-1f6f49c436a7b2fc2a754362bfe48c38]
+## 13. Occupiers’ liability.[^c-1e9caa89c3b2cc99800628d4deebe047][^c-1f6f49c436a7b2fc2a754362bfe48c38]
 
 *Extent: E+W*
 
@@ -55,9 +55,9 @@ summary: ''
 
 ## Annotations
 
-[^key-1e9caa89c3b2cc99800628d4deebe047]: Commencement: S. 13 in force at 19.9.2004 for E. by [S.I. 2004/2173](https://www.legislation.gov.uk/uksi/2004/2173), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/2173/article/2/1/c)
+[^c-1e9caa89c3b2cc99800628d4deebe047]: Commencement: S. 13 in force at 19.9.2004 for E. by [S.I. 2004/2173](https://www.legislation.gov.uk/uksi/2004/2173), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2004/2173/article/2/1/c)
 
-[^key-1f6f49c436a7b2fc2a754362bfe48c38]: Commencement: S. 13 in force at 28.5.2005 for W. by [S.I. 2005/423](https://www.legislation.gov.uk/uksi/2005/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/423/article/2/c)
+[^c-1f6f49c436a7b2fc2a754362bfe48c38]: Commencement: S. 13 in force at 28.5.2005 for W. by [S.I. 2005/423](https://www.legislation.gov.uk/uksi/2005/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/423/article/2/c)
 
 [^c1057014]: Marginal citation: [1957 c. 31](https://www.legislation.gov.uk/ukpga/1957/31).
 

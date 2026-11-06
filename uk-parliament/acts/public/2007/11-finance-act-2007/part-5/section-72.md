@@ -95,7 +95,7 @@ and in the italic cross-heading before it, omit “*for consideration*”.
 
 (13) The amendments made by subsections (1) to (11) have effect in respect of transfers occurring on or after the day on which this Act is passed.
 
-(14)[^key-cc67c29904625193182a9a6e14d748b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-cc67c29904625193182a9a6e14d748b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (15) The amendment made by subsection (12) has effect in respect of acquisitions occurring on or after the day on which this Act is passed.
 
@@ -105,4 +105,4 @@ and in the italic cross-heading before it, omit “*for consideration*”.
 
 ## Annotations
 
-[^key-cc67c29904625193182a9a6e14d748b8]: Textual amendment: S. 72(14) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 31 para. 10](https://www.legislation.gov.uk/ukpga/2008/9/schedule/31/paragraph/10)
+[^c-cc67c29904625193182a9a6e14d748b8]: Textual amendment: S. 72(14) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 31 para. 10](https://www.legislation.gov.uk/ukpga/2008/9/schedule/31/paragraph/10)

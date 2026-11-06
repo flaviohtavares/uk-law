@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Participants in electricity transmission: certification as to independence[^key-f62f9d5d44ac46244e49d3fd990b5fe4]
+## 10. Participants in electricity transmission: certification as to independence[^c-f62f9d5d44ac46244e49d3fd990b5fe4]
 
 *Extent: N.I.*
 
@@ -350,4 +350,4 @@ After Article 10A of the Electricity Order there shall be inserted the following
 
 ## Annotations
 
-[^key-f62f9d5d44ac46244e49d3fd990b5fe4]: Commencement: Reg. 10 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-f62f9d5d44ac46244e49d3fd990b5fe4]: Commencement: Reg. 10 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

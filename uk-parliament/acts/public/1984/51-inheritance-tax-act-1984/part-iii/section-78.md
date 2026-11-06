@@ -33,7 +33,7 @@ summary: ''
 - (b) a transfer or event which, by virtue of section 81(1) of the [^c13609441]Finance Act 1976, did not constitute an occasion on which tax was chargeable under Chapter II of Part IV of the [^c13609451]Finance Act 1982;
 - (c) a conditionally exempt distribution within the meaning given by section 81(2) of the Finance Act 1976 as it had effect in relation to events before 9th March 1982.
 
-(3) Where there has been a conditionally exempt occasion in respect of any property, sections 32, 32A[^c13609461], 33(1), 33(2ZA)[^key-2f9265ce656aa18d16161db4583bb98d] to (7) and 35(2) above shall have effect (and tax shall accordingly be chargeable under section 32 or 32A) as if—
+(3) Where there has been a conditionally exempt occasion in respect of any property, sections 32, 32A[^c13609461], 33(1), 33(2ZA)[^c-2f9265ce656aa18d16161db4583bb98d] to (7) and 35(2) above shall have effect (and tax shall accordingly be chargeable under section 32 or 32A) as if—
 
 - (a) references to a conditionally exempt transfer and to such a transfer of property included references respectively to a conditionally exempt occasion and to such an occasion in respect of property;
 - (b) references to a disposal otherwise than by sale included references to any occasion on which tax is chargeable under any provision of this Chapter other than section 64;
@@ -68,7 +68,7 @@ and the appropriate provision of section 7 for the purposes of section 33(1)(b)(
 
 [^c13609461]: Textual amendment: Finance Act 1985 Sch. 26 para. 8(b),*in relation to events occurring after* 18*March* 1985.
 
-[^key-2f9265ce656aa18d16161db4583bb98d]: Textual amendment: Word in s. 78(3) substituted (with effect in accordance with Sch. 33 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 33 para. 5](https://www.legislation.gov.uk/ukpga/2012/14/schedule/33/paragraph/5)
+[^c-2f9265ce656aa18d16161db4583bb98d]: Textual amendment: Word in s. 78(3) substituted (with effect in accordance with Sch. 33 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 33 para. 5](https://www.legislation.gov.uk/ukpga/2012/14/schedule/33/paragraph/5)
 
 [^c13609481]: Textual amendment: Finance Act 1986 Sch. 19 para. 19(1),*with effect from* 18*March* 1986.*Originally*
 

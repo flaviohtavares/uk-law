@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53.6. Sources of information[^key-8e32cbaee4bfbf09ac4502b3ebbc34e0]
+## 53.6. Sources of information[^c-8e32cbaee4bfbf09ac4502b3ebbc34e0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Unless the court orders otherwise, a party will not be required to provide furth
 
 ## Annotations
 
-[^key-8e32cbaee4bfbf09ac4502b3ebbc34e0]: Textual amendment: [Pt. 53](https://www.legislation.gov.uk/uksi/1998/3132/part/53) substituted (1.10.2019) by [The Civil Procedure (Amendment No. 3) Rules 2019 (S.I. 2019/1118)](https://www.legislation.gov.uk/uksi/2019/1118), [rule 1(1)](https://www.legislation.gov.uk/uksi/2019/1118/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/1118/schedule) (with [rule 5](https://www.legislation.gov.uk/uksi/2019/1118/rule/5))
+[^c-8e32cbaee4bfbf09ac4502b3ebbc34e0]: Textual amendment: [Pt. 53](https://www.legislation.gov.uk/uksi/1998/3132/part/53) substituted (1.10.2019) by [The Civil Procedure (Amendment No. 3) Rules 2019 (S.I. 2019/1118)](https://www.legislation.gov.uk/uksi/2019/1118), [rule 1(1)](https://www.legislation.gov.uk/uksi/2019/1118/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/1118/schedule) (with [rule 5](https://www.legislation.gov.uk/uksi/2019/1118/rule/5))

@@ -29,8 +29,8 @@ unless the arrangement is first approved by a resolution of the society passed a
 
 (2) For this purpose a non-cash asset is of the requisite value if at the time the arrangement in question is entered into its value is—
 
-- (a) except in a case falling within paragraph (b) below, not less than £200,000[^key-c3ad63f365cc90316e0eaaf7b9a06d13]; and
-- (b) where the last balance sheet of the society showed reserves amounting to less than £1,000,000[^key-744333d6fddfac5b7deeba015a213267], not less than the higher of £2,000[^M_F_8a3c0d56-07a6-4722-f895-2731ee16e6c9] or the amount which represents 10 per cent. of the reserves so shown.
+- (a) except in a case falling within paragraph (b) below, not less than £200,000[^c-c3ad63f365cc90316e0eaaf7b9a06d13]; and
+- (b) where the last balance sheet of the society showed reserves amounting to less than £1,000,000[^c-744333d6fddfac5b7deeba015a213267], not less than the higher of £2,000[^M_F_8a3c0d56-07a6-4722-f895-2731ee16e6c9] or the amount which represents 10 per cent. of the reserves so shown.
 
 (3)[^c15508421] The Treasury may by order[^c15508431] amend subsection (2) above so as to substitute for any of the amounts for the time being specified in paragraphs (a) and (b) of that subsection such other amount as they think[^c15508441] appropriate.
 
@@ -57,9 +57,9 @@ unless the arrangement is first approved by a resolution of the society passed a
 
 [^c15508401]: Modification: S. 64 modified (13.1.1993 for certain purposes only and 1.1.1994 for all remaining purposes) by [Friendly Societies Act 1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40), [s. 27](https://www.legislation.gov.uk/ukpga/1992/40/section/27), [Sch. 11 Pt. II para. 9(1)(c)(2)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/11/part/II/paragraph/9/1/c/2) (with [ss. 7(5)](https://www.legislation.gov.uk/ukpga/1992/40/section/7/5), [93(4)](https://www.legislation.gov.uk/ukpga/1992/40/section/93/4)); [S.I. 1993/16](https://www.legislation.gov.uk/uksi/1993/16), [art. 2](https://www.legislation.gov.uk/uksi/1993/16/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/16/schedule/1); [S.I. 1993/2213](https://www.legislation.gov.uk/uksi/1993/2213), [art. 2](https://www.legislation.gov.uk/uksi/1993/2213/article/2), [Sch. 5](https://www.legislation.gov.uk/uksi/1993/2213/schedule/5).
 
-[^key-c3ad63f365cc90316e0eaaf7b9a06d13]: Textual amendment: Sum in s. 64(2)(a) substituted (6.4.2007) by [The Building Societies Act 1986 (Substitution of Specified Amounts and Modification of the Funding Limit Calculation) Order 2007 (S.I. 2007/860)](https://www.legislation.gov.uk/uksi/2007/860), [arts. 1](https://www.legislation.gov.uk/uksi/2007/860/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2007/860/article/2/3/a)
+[^c-c3ad63f365cc90316e0eaaf7b9a06d13]: Textual amendment: Sum in s. 64(2)(a) substituted (6.4.2007) by [The Building Societies Act 1986 (Substitution of Specified Amounts and Modification of the Funding Limit Calculation) Order 2007 (S.I. 2007/860)](https://www.legislation.gov.uk/uksi/2007/860), [arts. 1](https://www.legislation.gov.uk/uksi/2007/860/article/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2007/860/article/2/3/a)
 
-[^key-744333d6fddfac5b7deeba015a213267]: Textual amendment: Sum in s. 64(2)(b) substituted (6.4.2007) by [The Building Societies Act 1986 (Substitution of Specified Amounts and Modification of the Funding Limit Calculation) Order 2007 (S.I. 2007/860)](https://www.legislation.gov.uk/uksi/2007/860), [arts. 1](https://www.legislation.gov.uk/uksi/2007/860/article/1), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2007/860/article/2/3/b/i)
+[^c-744333d6fddfac5b7deeba015a213267]: Textual amendment: Sum in s. 64(2)(b) substituted (6.4.2007) by [The Building Societies Act 1986 (Substitution of Specified Amounts and Modification of the Funding Limit Calculation) Order 2007 (S.I. 2007/860)](https://www.legislation.gov.uk/uksi/2007/860), [arts. 1](https://www.legislation.gov.uk/uksi/2007/860/article/1), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2007/860/article/2/3/b/i)
 
 [^M_F_8a3c0d56-07a6-4722-f895-2731ee16e6c9]: Textual amendment: Sum in s. 64(2)(b) substituted (6.4.2007) by [The Building Societies Act 1986 (Substitution of Specified Amounts and Modification of the Funding Limit Calculation) Order 2007 (S.I. 2007/860)](https://www.legislation.gov.uk/uksi/2007/860), [arts. 1](https://www.legislation.gov.uk/uksi/2007/860/article/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2007/860/article/2/3/b/ii)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Minor and consequential modifications[^key-4cb181c97f583384900a38b9ddc812e6]
+## 119. Minor and consequential modifications[^c-4cb181c97f583384900a38b9ddc812e6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 5, which contains minor amendments and repeals, and amendments and repe
 
 ## Annotations
 
-[^key-4cb181c97f583384900a38b9ddc812e6]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2012/5/section/119) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-4cb181c97f583384900a38b9ddc812e6]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2012/5/section/119) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

@@ -46,7 +46,7 @@ The Department for the Economy[^f00001] in exercise of the powers conferred by A
 
 ### Introductory
 
-#### 1. Citation, commencement and application[^key-48b9704ec03644c559fbe0b8afe284a7]
+#### 1. Citation, commencement and application[^c-48b9704ec03644c559fbe0b8afe284a7]
 
 (1) These Regulations may be cited as The Education (Student Support, etc.) (Amendment No.2) Regulations (Northern Ireland) 2024.
 
@@ -70,7 +70,7 @@ The Department for the Economy[^f00001] in exercise of the powers conferred by A
   - (d) on or after 1st August and on or before 31st December;
 - “**new academic year**” means an academic year which begins on or after 1st August 2024.
 
-#### 2. Interpretation[^key-7fe4115b52dd571d72f6df5554c3a0af]
+#### 2. Interpretation[^c-7fe4115b52dd571d72f6df5554c3a0af]
 
 In these Regulations—
 
@@ -81,11 +81,11 @@ In these Regulations—
 
 ### CHAPTER 1 — Victims of domestic violence or domestic abuse
 
-#### A3.[^key-a39a5fb65833d935cb668dcdf19bed2c]
+#### A3.[^c-a39a5fb65833d935cb668dcdf19bed2c]
 
 The 2009 Regulations are amended in accordance with regulations 3 and 4.
 
-#### 3. Amendment to the 2009 Regulations[^key-0cbafcaabaa7a69f839151751dc7f7ad]
+#### 3. Amendment to the 2009 Regulations[^c-0cbafcaabaa7a69f839151751dc7f7ad]
 
 In regulation 2 (interpretation: general), in paragraph (1), in the definition of “person granted indefinite leave to remain as a victim of domestic violence or domestic abuse”[^f00006]—
 
@@ -97,17 +97,17 @@ In regulation 2 (interpretation: general), in paragraph (1), in the definition o
 
   .
 
-**4.**[^key-5c9af60fe3d4ea0cc8d62dd0edf851b5] In both regulation 2A(3)(f)[^f00008] (meaning of “**protected category event**”) and paragraph 4E[^f00009] of Schedule 2 (eligible students), in each place it occurs, including in the heading to paragraph 4E of Schedule 2, for “leave to remain”, substitute “leave to enter or remain”.
+**4.**[^c-5c9af60fe3d4ea0cc8d62dd0edf851b5] In both regulation 2A(3)(f)[^f00008] (meaning of “**protected category event**”) and paragraph 4E[^f00009] of Schedule 2 (eligible students), in each place it occurs, including in the heading to paragraph 4E of Schedule 2, for “leave to remain”, substitute “leave to enter or remain”.
 
-#### A5.[^key-f5a75fe8a54bbf57882fb9fba26f8910]
+#### A5.[^c-f5a75fe8a54bbf57882fb9fba26f8910]
 
 The 2007 Regulations are amended in accordance with regulations 5 and 6.
 
-#### 5. Amendments to the 2007 Regulations[^key-95139ade4d38eaabf5287607ba7be85c]
+#### 5. Amendments to the 2007 Regulations[^c-95139ade4d38eaabf5287607ba7be85c]
 
 In both regulation 5(10)[^f00010] (prescribed description of a qualifying person), in paragraph (e) of the definition of “protected category event” and paragraph 4E[^f00011] of the Schedule (persons granted indefinite leave to remain as a victim of domestic violence or domestic abuse), in each place it occurs, including in the heading to paragraph 4E of the Schedule, for “leave to remain”, substitute “leave to enter or remain”.
 
-**6.**[^key-a07dc5bbfb853bddff2a948a96de71d7] In the Schedule (qualifying persons), in paragraph 1(1), in the definition of “person granted indefinite leave to remain as a victim of domestic violence or domestic abuse”[^f00012]—
+**6.**[^c-a07dc5bbfb853bddff2a948a96de71d7] In the Schedule (qualifying persons), in paragraph 1(1), in the definition of “person granted indefinite leave to remain as a victim of domestic violence or domestic abuse”[^f00012]—
 
 - (a) for “leave to remain”, in both places, substitute “leave to enter or remain”;
 - (b) for sub-paragraphs (aa) to (cc), substitute—
@@ -119,11 +119,11 @@ In both regulation 5(10)[^f00010] (prescribed description of a qualifying person
 
 ### CHAPTER 2 — Afghan Relocations and Assistance Policy Scheme
 
-#### A7.[^key-ad6ed5ba4c88a8edecffca165cda6520]
+#### A7.[^c-ad6ed5ba4c88a8edecffca165cda6520]
 
 The 2009 Regulations are amended in accordance with regulation 7.
 
-#### 7. Amendments to the 2009 Regulations[^key-5af6ad6ea494ecc1de9e32b66b61de79]
+#### 7. Amendments to the 2009 Regulations[^c-5af6ad6ea494ecc1de9e32b66b61de79]
 
 In regulation 2 (interpretation: general), in paragraph (1), in the definition of “person granted leave under the Afghan Relocations and Assistance Policy Scheme”[^f00013], for sub-paragraph (a)(ia), substitute—
 
@@ -131,11 +131,11 @@ In regulation 2 (interpretation: general), in paragraph (1), in the definition o
 
 .
 
-#### A8.[^key-690dbbcb66553ed9cc3715ad0bd217b0]
+#### A8.[^c-690dbbcb66553ed9cc3715ad0bd217b0]
 
 The 2007 Regulations are amended in accordance with regulation 8.
 
-#### 8. Amendments to the 2007 Regulations[^key-617397122e706b5b6e5d273e066092eb]
+#### 8. Amendments to the 2007 Regulations[^c-617397122e706b5b6e5d273e066092eb]
 
 In the Schedule (qualifying persons), in paragraph 1(1), in the definition of “person granted leave under the Afghan Relocations and Assistance Policy Scheme”[^f00015], for sub-paragraph (a)(ia), substitute—
 
@@ -145,15 +145,15 @@ In the Schedule (qualifying persons), in paragraph 1(1), in the definition of �
 
 ### CHAPTER 3 — Children of persons granted indefinite leave to enter or remain as a victim of domestic violence or domestic abuse or as a bereaved partner
 
-#### A9.[^key-83ac8843c4b5bff83c1999f0030ef1a1]
+#### A9.[^c-83ac8843c4b5bff83c1999f0030ef1a1]
 
 The 2009 Regulations are amended in accordance with regulations 9 and 10.
 
-#### 9. Amendments to the 2009 Regulations[^key-2e128c244af53b0ee0a04b4dbf770c80]
+#### 9. Amendments to the 2009 Regulations[^c-2e128c244af53b0ee0a04b4dbf770c80]
 
 In regulation 2A (meaning of terms including protected category event)[^f00016], in paragraph (3), in sub-paragraphs (f) and (h), after “the student” insert “or the student’s parent”.
 
-**10.**[^key-085a7d165ab69a0d08b972f334554606] In Part 2 of Schedule 2 (eligible students)—
+**10.**[^c-085a7d165ab69a0d08b972f334554606] In Part 2 of Schedule 2 (eligible students)—
 
 - (a) in the heading to paragraph 4D (persons granted indefinite leave to remain as a bereaved partner)[^f00017], at the end, insert “and their children”;
 - (b) paragraph 4D becomes sub-paragraph (1) of that paragraph;
@@ -190,15 +190,15 @@ In regulation 2A (meaning of terms including protected category event)[^f00016],
 
   .
 
-#### A11.[^key-cca1d0dee935cadd8c63757af185fcbb]
+#### A11.[^c-cca1d0dee935cadd8c63757af185fcbb]
 
 The 2007 Regulations are amended in accordance with regulations 11 and 12.
 
-#### 11. Amendments to the 2007 Regulations[^key-b7aab0bc4eb341123afd9de48c71be16]
+#### 11. Amendments to the 2007 Regulations[^c-b7aab0bc4eb341123afd9de48c71be16]
 
 In regulation 5 (prescribed description of a qualifying person), in paragraph (10)(d) and (e) in the definition of “protected category event”, after “the student” insert “or the student’s parent”.
 
-**12.**[^key-a1c152a0fc4611c7c76ae88e3c58ebda] In the Schedule (qualifying persons)—
+**12.**[^c-a1c152a0fc4611c7c76ae88e3c58ebda] In the Schedule (qualifying persons)—
 
 - (a) in the heading to paragraph 4D[^f00019] (persons granted indefinite leave to remain as a bereaved partner), at the end, insert “and their children”;
 - (b) paragraph 4D becomes sub-paragraph (1) of that paragraph;
@@ -237,11 +237,11 @@ In regulation 5 (prescribed description of a qualifying person), in paragraph (1
 
 ### CHAPTER 4 — Students settled in the United Kingdom
 
-#### A13.[^key-4b41ce0092c8d44762f5cb024e1fe542]
+#### A13.[^c-4b41ce0092c8d44762f5cb024e1fe542]
 
 The 2009 Regulations are amended in accordance with regulations 13 and 14.
 
-#### 13. Amendments to the 2009 Regulations[^key-b4e8fb80f7d35ba02aacc3b7a6020045]
+#### 13. Amendments to the 2009 Regulations[^c-b4e8fb80f7d35ba02aacc3b7a6020045]
 
 In regulation 2A (meaning of terms including in-year qualifying event and settled status event)[^f00020]—
 
@@ -259,17 +259,17 @@ In regulation 2A (meaning of terms including in-year qualifying event and settle
 
   .
 
-**14.**[^key-757f45b84130c8dcd165961249e3b0cb] In Part 2 of Schedule 2 (eligible students)—
+**14.**[^c-757f45b84130c8dcd165961249e3b0cb] In Part 2 of Schedule 2 (eligible students)—
 
 - (a) in paragraph 2(1), omit “on the first day of the first academic year of the course”;
 - (b) in paragraph 2(1)(b) after “Northern Ireland”, insert “on the first day of the first academic year of the course”;
 - (c) in paragraph 2A(1)(a)[^f00021] omit “on the course start date”.
 
-#### A15.[^key-832367b1ff8112ca750f7b15da44c8b2]
+#### A15.[^c-832367b1ff8112ca750f7b15da44c8b2]
 
 The 2007 Regulations are amended in accordance with regulation 15.
 
-#### 15. Amendments to the 2007 Regulations[^key-7a6ac28406e720248468117b6158973f]
+#### 15. Amendments to the 2007 Regulations[^c-7a6ac28406e720248468117b6158973f]
 
 In the Schedule (qualifying persons)—
 
@@ -279,11 +279,11 @@ In the Schedule (qualifying persons)—
 
 ### CHAPTER 5 — Termination of eligible student status
 
-#### A16.[^key-dab614b0977974c4d5d024942447a344]
+#### A16.[^c-dab614b0977974c4d5d024942447a344]
 
 The 2009 Regulations are amended in accordance with regulations 16 to 20.
 
-#### 16. Amendment to the 2009 Regulations[^key-0bb303ae85b5a03714b8323b1894e341]
+#### 16. Amendment to the 2009 Regulations[^c-0bb303ae85b5a03714b8323b1894e341]
 
 In regulation 5 (eligible students)—
 
@@ -311,7 +311,7 @@ In regulation 5 (eligible students)—
 - (f) in paragraph (12A)(b)[^f00032], after “has been granted under those rules” insert “and A has not become a British or Irish citizen”;
 - (g) in paragraph (12C)(b)[^f00033] after “protected rights” insert “and has not become a British or Irish citizen”.
 
-**17.**[^key-5da863fa1e05cc5245d7a8bf681a6b6b] In regulation 105 (eligible distance learning students)—
+**17.**[^c-5da863fa1e05cc5245d7a8bf681a6b6b] In regulation 105 (eligible distance learning students)—
 
 - (a) in paragraph (11)(b)[^f00034], for the words from “has expired” to the end of sub-paragraph (b), substitute—
 
@@ -337,7 +337,7 @@ In regulation 5 (eligible students)—
 - (f) in paragraph (12A)(b)[^f00043], after “has been granted under those rules” insert “and A has not become a British or Irish citizen”;
 - (g) in paragraph (12C)(b)[^f00044] after “protected rights” insert “and has not become a British or Irish citizen”.
 
-**18.**[^key-e29b5d9ed0c32e083c3ca69b1568af33] In regulation 122 (eligible part-time students)—
+**18.**[^c-e29b5d9ed0c32e083c3ca69b1568af33] In regulation 122 (eligible part-time students)—
 
 - (a) in paragraph (10)(b)[^f00045], for the words from “has expired” to the end of sub-paragraph (b), substitute—
 
@@ -363,7 +363,7 @@ In regulation 5 (eligible students)—
 - (f) in paragraph (11A)(b)[^f00054], after “has been granted under those rules” insert “and A has not become a British or Irish citizen”;
 - (g) in paragraph (11C)(b)[^f00055] after “protected rights” insert “and has not become a British or Irish citizen”.
 
-**19.**[^key-7e4011e3d114bbd9c7eca87c1e67de0a] In regulation 139 (eligible postgraduate students)—
+**19.**[^c-7e4011e3d114bbd9c7eca87c1e67de0a] In regulation 139 (eligible postgraduate students)—
 
 - (a) in paragraph (12)(b)[^f00056], for the words from “has expired” to the end of sub-paragraph (b), substitute—
 
@@ -389,7 +389,7 @@ In regulation 5 (eligible students)—
 - (f) in paragraph (13A)(b)[^f00065], after “has been granted under those rules” insert “and A has not become a British or Irish citizen”;
 - (g) in paragraph (13C)(b)[^f00066] after “protected rights” insert “and has not become a British or Irish citizen”.
 
-**20.**[^key-168a2591d3b1cf5d283abfb2020068af] In regulation 149 (eligible master’s, etc. students)—
+**20.**[^c-168a2591d3b1cf5d283abfb2020068af] In regulation 149 (eligible master’s, etc. students)—
 
 - (a) in paragraph (11)(b)[^f00067], for the words from “has expired” to the end of sub-paragraph (b), substitute—
 
@@ -417,11 +417,11 @@ In regulation 5 (eligible students)—
 
 ### CHAPTER 6 — Eligibility for home fee status in certain circumstances where leave to remain expired
 
-#### A21.[^key-4c3343bd1a24245c8a1204227ee65370]
+#### A21.[^c-4c3343bd1a24245c8a1204227ee65370]
 
 The 2007 Regulations are amended in accordance with regulation 21.
 
-#### 21. Amendments to the 2007 Regulations[^key-5f9d7968d5154d570d7f802c1e9ad0fc]
+#### 21. Amendments to the 2007 Regulations[^c-5f9d7968d5154d570d7f802c1e9ad0fc]
 
 In regulation 5 (qualifying person), after paragraph (1C)[^f00078] insert—
 
@@ -436,11 +436,11 @@ In regulation 5 (qualifying person), after paragraph (1C)[^f00078] insert—
 
 ### CHAPTER 7 — Amendments relating to the Ukraine Permission Extension Scheme
 
-#### A22.[^key-d528217f9473137e9052ef084a56901f]
+#### A22.[^c-d528217f9473137e9052ef084a56901f]
 
 The 2009 Regulations are amended in accordance with regulation 22.
 
-#### 22. Amendment to the 2009 Regulations[^key-4efa9e18569a7b8ff658151cdf0ea660]
+#### 22. Amendment to the 2009 Regulations[^c-4efa9e18569a7b8ff658151cdf0ea660]
 
 In regulation 2(1) (interpretation)—
 
@@ -453,11 +453,11 @@ In regulation 2(1) (interpretation)—
 
   .
 
-#### A23.[^key-1ea5b68c8bec6458306d71510f478f3b]
+#### A23.[^c-1ea5b68c8bec6458306d71510f478f3b]
 
 The 2007 Regulations are amended in accordance with regulation 23.
 
-#### 23. Amendment to the 2007 Regulations[^key-101aa67b1d28b0399f0289f7845b56d8]
+#### 23. Amendment to the 2007 Regulations[^c-101aa67b1d28b0399f0289f7845b56d8]
 
 In the Schedule (qualifying persons), in paragraph 1(1)—
 
@@ -472,11 +472,11 @@ In the Schedule (qualifying persons), in paragraph 1(1)—
 
 ### CHAPTER 8 — Amendments to the definition of person granted indefinite leave to remain as a bereaved partner
 
-#### A24.[^key-59d57139a5772a3c531b2b352bec1287]
+#### A24.[^c-59d57139a5772a3c531b2b352bec1287]
 
 The 2009 Regulations are amended in accordance with regulation 24.
 
-#### 24. Amendments to the 2009 Regulations[^key-31731449384c8ee48cb50354ad480b3a]
+#### 24. Amendments to the 2009 Regulations[^c-31731449384c8ee48cb50354ad480b3a]
 
 In regulation 2(1) (interpretation), in the definition of “person granted indefinite leave to remain as a bereaved partner”[^f00084], for paragraphs (i) to (iv) (but not the “and” after paragraph (iv)) of sub-paragraph (a) substitute —
 
@@ -489,11 +489,11 @@ In regulation 2(1) (interpretation), in the definition of “person granted ind
 
 .
 
-#### A25.[^key-3dceaa673e88d055e132ff75f20d6207]
+#### A25.[^c-3dceaa673e88d055e132ff75f20d6207]
 
 The 2007 Regulations are amended in accordance with regulation 25.
 
-#### 25. Amendments to the 2007 Regulations[^key-fe8e450f8e69aca8ee03cb484cbcee9c]
+#### 25. Amendments to the 2007 Regulations[^c-fe8e450f8e69aca8ee03cb484cbcee9c]
 
 In the Schedule (qualifying persons), in paragraph 1(1), in the definition of “person granted indefinite leave to remain as a bereaved partner”[^f00085], for paragraphs (i) to (iv) (but not the “and” after paragraph (iv)) of sub-paragraph (a) substitute —
 
@@ -510,28 +510,28 @@ In the Schedule (qualifying persons), in paragraph 1(1), in the definition of �
 
 ### Other amendments
 
-#### A26.[^key-d8c2a7b5b79638064ba1f4874028e02b]
+#### A26.[^c-d8c2a7b5b79638064ba1f4874028e02b]
 
 The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 are amended in accordance with regulations 26 to 30.
 
-#### 26. Amendments to the Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024[^key-c3cf9b3fe2e536a62ecf9b611df125be]
+#### 26. Amendments to the Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024[^c-c3cf9b3fe2e536a62ecf9b611df125be]
 
 In regulation 30(3) omit “Part 2 of”.
 
-**27.**[^key-c34304ecd7565a6bfa4b3b4db7f82a7d] In regulation 32—
+**27.**[^c-c34304ecd7565a6bfa4b3b4db7f82a7d] In regulation 32—
 
 - (a) in paragraph (j) for “the first day of the first academic year of the course” substitute “the day on which the first term of the first academic year actually begins”;
 - (b) in paragraph (k) for “the first day of the first academic year of the course” substitute “the day on which the first term of the first academic year actually begins”.
 
-**28.**[^key-70a05ae5790587221ab23d592d2368bd] In regulation 34, in the introductory sentence, omit “Part 2 of”.
+**28.**[^c-70a05ae5790587221ab23d592d2368bd] In regulation 34, in the introductory sentence, omit “Part 2 of”.
 
-**29.**[^key-790c7f0adff064a4bfa78fd2ded3c36b] In regulation 36—
+**29.**[^c-790c7f0adff064a4bfa78fd2ded3c36b] In regulation 36—
 
 - (a) in paragraph (3) of the inserted regulation 2A—
   - (i) in paragraph (i) omit “or the student’s spouse, civil partner or parent”;
   - (ii) in paragraph (j) omit “or the student’s spouse, civil partner or parent”.
 
-**30.**[^key-8c895947f15fcfe3588fa7954121b579] In regulation 59(d)—
+**30.**[^c-8c895947f15fcfe3588fa7954121b579] In regulation 59(d)—
 
 - (a) in inserted paragraph (8) for “prescribed” substitute “protected”;
 - (b) in inserted paragraph (9) omit “Part 2 of”;
@@ -539,21 +539,21 @@ In regulation 30(3) omit “Part 2 of”.
   - (i) in the definition of “protected category” omit “Part 2 of”;
   - (ii) in the definition of “settled category” for “2” substitute “2A”.
 
-#### A31.[^key-314e4a035321cc1194cbfea1ef0c6f52]
+#### A31.[^c-314e4a035321cc1194cbfea1ef0c6f52]
 
 The 2009 Regulations are amended in accordance with regulations 31 and 32.
 
-#### 31. Amendments to the 2009 Regulations[^key-d71aa4e391155795eae4d5c92cbf7769]
+#### 31. Amendments to the 2009 Regulations[^c-d71aa4e391155795eae4d5c92cbf7769]
 
 In regulation 130(7)[^f00086] after “listed in” insert “regulation”.
 
-**32.**[^key-1bdcca8ddf24ba3589384f16330b08a3] In regulation 139(8) after “United Kingdom” insert “or the Republic of Ireland”.
+**32.**[^c-1bdcca8ddf24ba3589384f16330b08a3] In regulation 139(8) after “United Kingdom” insert “or the Republic of Ireland”.
 
-#### A33.[^key-63b02ba0007ed1439e332641227a5e2d]
+#### A33.[^c-63b02ba0007ed1439e332641227a5e2d]
 
 The 2007 Regulations are amended in accordance with regulation 33.
 
-#### 33. Amendments to the 2007 Regulations[^key-2ef9d17370ebd3502bedd1ce41f75bc2]
+#### 33. Amendments to the 2007 Regulations[^c-2ef9d17370ebd3502bedd1ce41f75bc2]
 
 In regulation 5—
 
@@ -599,93 +599,93 @@ A regulatory impact assessment has not been produced for this rule as no, or no 
 
 [^f00003]: Footnote: [S.I. 2005/1116](https://www.legislation.gov.uk/uksi/2005/1116) see Article 2(2) for definitions of “the Department”, “prescribed” and “regulations”.
 
-[^key-48b9704ec03644c559fbe0b8afe284a7]: Commencement: Reg. 1 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+[^c-48b9704ec03644c559fbe0b8afe284a7]: Commencement: Reg. 1 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
 
-[^key-7fe4115b52dd571d72f6df5554c3a0af]: Commencement: Reg. 2 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+[^c-7fe4115b52dd571d72f6df5554c3a0af]: Commencement: Reg. 2 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
 
 [^f00004]: Footnote: [S.R. 2009 No. 373](https://www.legislation.gov.uk/nisr/2009/373), amended by S.R.s [2010 No. 383](https://www.legislation.gov.uk/nisr/2010/383), 2012 Nos. [62](https://www.legislation.gov.uk/nisr/2012/62) and [398](https://www.legislation.gov.uk/nisr/2012/398), 2013 Nos. [128](https://www.legislation.gov.uk/nisr/2013/128) and [223](https://www.legislation.gov.uk/nisr/2013/223), 2014 Nos. [97](https://www.legislation.gov.uk/nisr/2014/97) and [309](https://www.legislation.gov.uk/nisr/2014/309), [2016 No. 21](https://www.legislation.gov.uk/nisr/2016/21), 2017 Nos. [7](https://www.legislation.gov.uk/nisr/2017/7) and [43](https://www.legislation.gov.uk/nisr/2017/43), [2018 No. 35](https://www.legislation.gov.uk/nisr/2018/35), 2019 Nos.[35](https://www.legislation.gov.uk/nisr/2019/35) and [102](https://www.legislation.gov.uk/nisr/2019/102), [2020 No. 79](https://www.legislation.gov.uk/nisr/2020/79), 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50), [85](https://www.legislation.gov.uk/nisr/2021/85) and [260](https://www.legislation.gov.uk/nisr/2021/260), [2022 No 75](https://www.legislation.gov.uk/nisr/2022/75) and [201](https://www.legislation.gov.uk/nisr/2022/201) and [263](https://www.legislation.gov.uk/nisr/2022/263) and [2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 
 [^f00005]: Footnote: [S.R. 2007 No. 328](https://www.legislation.gov.uk/nisr/2007/328) was amended by Order [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). S.R.s [2007 No. 375](https://www.legislation.gov.uk/nisr/2007/375), 2011 Nos. [70](https://www.legislation.gov.uk/nisr/2011/70) and [376](https://www.legislation.gov.uk/nisr/2011/376), [2013 No. 37](https://www.legislation.gov.uk/nisr/2013/37), [2019 No. 35](https://www.legislation.gov.uk/nisr/2019/35), [2020 No. 79](https://www.legislation.gov.uk/nisr/2020/79), 2021 Nos. [50](https://www.legislation.gov.uk/nisr/2021/50), [85](https://www.legislation.gov.uk/nisr/2021/85) and [260](https://www.legislation.gov.uk/nisr/2021/260), [2022 No 75](https://www.legislation.gov.uk/nisr/2022/75) and [201](https://www.legislation.gov.uk/nisr/2022/201) and [263](https://www.legislation.gov.uk/nisr/2022/263) and [2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 
-[^key-a39a5fb65833d935cb668dcdf19bed2c]: Textual amendment: [Reg. A3](https://www.legislation.gov.uk/nisr/2024/157/regulation/A3) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [24](https://www.legislation.gov.uk/nisr/2025/32/regulation/24)
+[^c-a39a5fb65833d935cb668dcdf19bed2c]: Textual amendment: [Reg. A3](https://www.legislation.gov.uk/nisr/2024/157/regulation/A3) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [24](https://www.legislation.gov.uk/nisr/2025/32/regulation/24)
 
-[^key-0cbafcaabaa7a69f839151751dc7f7ad]: Commencement: Reg. 3 in operation at 14.8.2024 with application in accordance with reg. 1(3)(a)
+[^c-0cbafcaabaa7a69f839151751dc7f7ad]: Commencement: Reg. 3 in operation at 14.8.2024 with application in accordance with reg. 1(3)(a)
 
 [^f00006]: Footnote: Definition was added by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 
 [^f00007]: Footnote: The Appendix was added to the immigration rules by Statement of Changes to the Immigration Rules laid before Parliament on 7th December 2023 (HC 246). An electronic copy of HC 246 is available at https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc-246-7-december-2023, and a hard copy is available by written request to Home Office, 2 Marsham Street, London, SW1P 4DF.
 
-[^key-5c9af60fe3d4ea0cc8d62dd0edf851b5]: Commencement: Reg. 4 in operation at 14.8.2024 with application in accordance with reg. 1(3)(a)
+[^c-5c9af60fe3d4ea0cc8d62dd0edf851b5]: Commencement: Reg. 4 in operation at 14.8.2024 with application in accordance with reg. 1(3)(a)
 
 [^f00008]: Footnote: Regulation 2A was inserted by S. R. [2024 No.19](https://www.legislation.gov.uk/nisr/2024/19).
 
 [^f00009]: Footnote: Paragraph 4E was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No.19](https://www.legislation.gov.uk/nisr/2024/19).
 
-[^key-f5a75fe8a54bbf57882fb9fba26f8910]: Textual amendment: [Reg. A5](https://www.legislation.gov.uk/nisr/2024/157/regulation/A5) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [25](https://www.legislation.gov.uk/nisr/2025/32/regulation/25)
+[^c-f5a75fe8a54bbf57882fb9fba26f8910]: Textual amendment: [Reg. A5](https://www.legislation.gov.uk/nisr/2024/157/regulation/A5) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [25](https://www.legislation.gov.uk/nisr/2025/32/regulation/25)
 
-[^key-95139ade4d38eaabf5287607ba7be85c]: Commencement: Reg. 5 in operation at 14.8.2024 with application in accordance with reg. 1(3)(a)
+[^c-95139ade4d38eaabf5287607ba7be85c]: Commencement: Reg. 5 in operation at 14.8.2024 with application in accordance with reg. 1(3)(a)
 
 [^f00010]: Footnote: Paragraph (10) was inserted by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 
 [^f00011]: Footnote: Paragraph 4E was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 
-[^key-a07dc5bbfb853bddff2a948a96de71d7]: Commencement: Reg. 6 in operation at 14.8.2024 with application in accordance with reg. 1(3)(a)
+[^c-a07dc5bbfb853bddff2a948a96de71d7]: Commencement: Reg. 6 in operation at 14.8.2024 with application in accordance with reg. 1(3)(a)
 
 [^f00012]: Footnote: Definition was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
 
-[^key-ad6ed5ba4c88a8edecffca165cda6520]: Textual amendment: [Reg. A7](https://www.legislation.gov.uk/nisr/2024/157/regulation/A7) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [26](https://www.legislation.gov.uk/nisr/2025/32/regulation/26)
+[^c-ad6ed5ba4c88a8edecffca165cda6520]: Textual amendment: [Reg. A7](https://www.legislation.gov.uk/nisr/2024/157/regulation/A7) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [26](https://www.legislation.gov.uk/nisr/2025/32/regulation/26)
 
-[^key-5af6ad6ea494ecc1de9e32b66b61de79]: Commencement: Reg. 7 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+[^c-5af6ad6ea494ecc1de9e32b66b61de79]: Commencement: Reg. 7 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
 
 [^f00013]: Footnote: Definition was added by
 
 [^f00014]: Footnote: The Appendix was added to the immigration rules by the Statement of Changes in the Immigration Rules laid before Parliament on 18th October 2022 (HC 719). An electronic version of HC 719 is available at, https://www.gov.uk/government/publications/statement-of-changes-to-the-immigration-rules-hc719-18-october-2022, and a hard copy is available by written request to Home Office, 2 Marsham Street, London, SW1P 4DF.
 
-[^key-690dbbcb66553ed9cc3715ad0bd217b0]: Textual amendment: [Reg. A8](https://www.legislation.gov.uk/nisr/2024/157/regulation/A8) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [27](https://www.legislation.gov.uk/nisr/2025/32/regulation/27)
+[^c-690dbbcb66553ed9cc3715ad0bd217b0]: Textual amendment: [Reg. A8](https://www.legislation.gov.uk/nisr/2024/157/regulation/A8) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [27](https://www.legislation.gov.uk/nisr/2025/32/regulation/27)
 
-[^key-617397122e706b5b6e5d273e066092eb]: Commencement: Reg. 8 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+[^c-617397122e706b5b6e5d273e066092eb]: Commencement: Reg. 8 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
 
 [^f00015]: Footnote: Definition inserted by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
-[^key-83ac8843c4b5bff83c1999f0030ef1a1]: Textual amendment: [Reg. A9](https://www.legislation.gov.uk/nisr/2024/157/regulation/A9) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2025/32/regulation/28)
+[^c-83ac8843c4b5bff83c1999f0030ef1a1]: Textual amendment: [Reg. A9](https://www.legislation.gov.uk/nisr/2024/157/regulation/A9) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [28](https://www.legislation.gov.uk/nisr/2025/32/regulation/28)
 
-[^key-2e128c244af53b0ee0a04b4dbf770c80]: Commencement: Reg. 9 in operation at 14.8.2024 with application in accordance with reg. 1(3)(b)
+[^c-2e128c244af53b0ee0a04b4dbf770c80]: Commencement: Reg. 9 in operation at 14.8.2024 with application in accordance with reg. 1(3)(b)
 
 [^f00016]: Footnote: Regulation 2A was added [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19)
 
-[^key-085a7d165ab69a0d08b972f334554606]: Commencement: Reg. 10 in operation at 14.8.2024 with application in accordance with reg. 1(3)(b)
+[^c-085a7d165ab69a0d08b972f334554606]: Commencement: Reg. 10 in operation at 14.8.2024 with application in accordance with reg. 1(3)(b)
 
 [^f00017]: Footnote: Paragraph 4E was inserted by [S.R. 2021 No.50](https://www.legislation.gov.uk/nisr/2021/50).
 
 [^f00018]: Footnote: Paragraph 4D was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
 
-[^key-cca1d0dee935cadd8c63757af185fcbb]: Textual amendment: [Reg. A11](https://www.legislation.gov.uk/nisr/2024/157/regulation/A11) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [29](https://www.legislation.gov.uk/nisr/2025/32/regulation/29)
+[^c-cca1d0dee935cadd8c63757af185fcbb]: Textual amendment: [Reg. A11](https://www.legislation.gov.uk/nisr/2024/157/regulation/A11) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [29](https://www.legislation.gov.uk/nisr/2025/32/regulation/29)
 
-[^key-b7aab0bc4eb341123afd9de48c71be16]: Commencement: Reg. 11 in operation at 14.8.2024 with application in accordance with reg. 1(3)(b)
+[^c-b7aab0bc4eb341123afd9de48c71be16]: Commencement: Reg. 11 in operation at 14.8.2024 with application in accordance with reg. 1(3)(b)
 
-[^key-a1c152a0fc4611c7c76ae88e3c58ebda]: Commencement: Reg. 12 in operation at 14.8.2024 with application in accordance with reg. 1(3)(b)
+[^c-a1c152a0fc4611c7c76ae88e3c58ebda]: Commencement: Reg. 12 in operation at 14.8.2024 with application in accordance with reg. 1(3)(b)
 
 [^f00019]: Footnote: Paragraph 4D was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 
-[^key-4b41ce0092c8d44762f5cb024e1fe542]: Textual amendment: [Reg. A13](https://www.legislation.gov.uk/nisr/2024/157/regulation/A13) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [30](https://www.legislation.gov.uk/nisr/2025/32/regulation/30)
+[^c-4b41ce0092c8d44762f5cb024e1fe542]: Textual amendment: [Reg. A13](https://www.legislation.gov.uk/nisr/2024/157/regulation/A13) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [30](https://www.legislation.gov.uk/nisr/2025/32/regulation/30)
 
-[^key-b4e8fb80f7d35ba02aacc3b7a6020045]: Commencement: Reg. 13 in operation at 14.8.2024 with application in accordance with reg. 1(3)(c)
+[^c-b4e8fb80f7d35ba02aacc3b7a6020045]: Commencement: Reg. 13 in operation at 14.8.2024 with application in accordance with reg. 1(3)(c)
 
 [^f00020]: Footnote: Regulation 2A was inserted by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 
-[^key-757f45b84130c8dcd165961249e3b0cb]: Commencement: Reg. 14 in operation at 14.8.2024 with application in accordance with reg. 1(3)(c)
+[^c-757f45b84130c8dcd165961249e3b0cb]: Commencement: Reg. 14 in operation at 14.8.2024 with application in accordance with reg. 1(3)(c)
 
 [^f00021]: Footnote: Paragraph 2A was inserted by .S.R. [2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by S.R.s [2022 No 75](https://www.legislation.gov.uk/nisr/2022/75) and [2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19)
 
-[^key-832367b1ff8112ca750f7b15da44c8b2]: Textual amendment: [Reg. A15](https://www.legislation.gov.uk/nisr/2024/157/regulation/A15) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [31](https://www.legislation.gov.uk/nisr/2025/32/regulation/31)
+[^c-832367b1ff8112ca750f7b15da44c8b2]: Textual amendment: [Reg. A15](https://www.legislation.gov.uk/nisr/2024/157/regulation/A15) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [31](https://www.legislation.gov.uk/nisr/2025/32/regulation/31)
 
-[^key-7a6ac28406e720248468117b6158973f]: Commencement: Reg. 15 in operation at 14.8.2024 with application in accordance with reg. 1(3)(c)
+[^c-7a6ac28406e720248468117b6158973f]: Commencement: Reg. 15 in operation at 14.8.2024 with application in accordance with reg. 1(3)(c)
 
 [^f00022]: Footnote: Paragraph 2A was inserted by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by S.R.s [2022 No 75](https://www.legislation.gov.uk/nisr/2022/75) and [2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 
-[^key-dab614b0977974c4d5d024942447a344]: Textual amendment: [Reg. A16](https://www.legislation.gov.uk/nisr/2024/157/regulation/A16) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [32](https://www.legislation.gov.uk/nisr/2025/32/regulation/32)
+[^c-dab614b0977974c4d5d024942447a344]: Textual amendment: [Reg. A16](https://www.legislation.gov.uk/nisr/2024/157/regulation/A16) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [32](https://www.legislation.gov.uk/nisr/2025/32/regulation/32)
 
-[^key-0bb303ae85b5a03714b8323b1894e341]: Commencement: Reg. 16 in operation at 14.8.2024 with application in accordance with reg. 1(3)(d)
+[^c-0bb303ae85b5a03714b8323b1894e341]: Commencement: Reg. 16 in operation at 14.8.2024 with application in accordance with reg. 1(3)(d)
 
 [^f00023]: Footnote: Paragraph 11 was amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 
@@ -709,7 +709,7 @@ A regulatory impact assessment has not been produced for this rule as no, or no 
 
 [^f00033]: Footnote: Paragraph 12C was added by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by [S.R. 2022 No 75](https://www.legislation.gov.uk/nisr/2022/75).
 
-[^key-5da863fa1e05cc5245d7a8bf681a6b6b]: Commencement: Reg. 17 in operation at 14.8.2024 with application in accordance with reg. 1(3)(d)
+[^c-5da863fa1e05cc5245d7a8bf681a6b6b]: Commencement: Reg. 17 in operation at 14.8.2024 with application in accordance with reg. 1(3)(d)
 
 [^f00034]: Footnote: Paragraph 11 was amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 
@@ -733,7 +733,7 @@ A regulatory impact assessment has not been produced for this rule as no, or no 
 
 [^f00044]: Footnote: Paragraph 12C was added by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by [S.R. 2022 No 75](https://www.legislation.gov.uk/nisr/2022/75).
 
-[^key-e29b5d9ed0c32e083c3ca69b1568af33]: Commencement: Reg. 18 in operation at 14.8.2024 with application in accordance with reg. 1(3)(d)
+[^c-e29b5d9ed0c32e083c3ca69b1568af33]: Commencement: Reg. 18 in operation at 14.8.2024 with application in accordance with reg. 1(3)(d)
 
 [^f00045]: Footnote: Paragraph 10 was amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 
@@ -757,7 +757,7 @@ A regulatory impact assessment has not been produced for this rule as no, or no 
 
 [^f00055]: Footnote: Paragraph 11C was added by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by [S.R. 2022 No 75](https://www.legislation.gov.uk/nisr/2022/75).
 
-[^key-7e4011e3d114bbd9c7eca87c1e67de0a]: Commencement: Reg. 19 in operation at 14.8.2024 with application in accordance with reg. 1(3)(d)
+[^c-7e4011e3d114bbd9c7eca87c1e67de0a]: Commencement: Reg. 19 in operation at 14.8.2024 with application in accordance with reg. 1(3)(d)
 
 [^f00056]: Footnote: Paragraph 12 was amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 
@@ -781,7 +781,7 @@ A regulatory impact assessment has not been produced for this rule as no, or no 
 
 [^f00066]: Footnote: Paragraph 13C was added by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by [S.R. 2022 No 75](https://www.legislation.gov.uk/nisr/2022/75).
 
-[^key-168a2591d3b1cf5d283abfb2020068af]: Commencement: Reg. 20 in operation at 14.8.2024 with application in accordance with reg. 1(3)(d)
+[^c-168a2591d3b1cf5d283abfb2020068af]: Commencement: Reg. 20 in operation at 14.8.2024 with application in accordance with reg. 1(3)(d)
 
 [^f00067]: Footnote: Paragraph 11 was amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 
@@ -805,15 +805,15 @@ A regulatory impact assessment has not been produced for this rule as no, or no 
 
 [^f00077]: Footnote: Paragraph 12C was added by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by [S.R. 2022 No 75](https://www.legislation.gov.uk/nisr/2022/75).
 
-[^key-4c3343bd1a24245c8a1204227ee65370]: Textual amendment: [Reg. A21](https://www.legislation.gov.uk/nisr/2024/157/regulation/A21) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [33](https://www.legislation.gov.uk/nisr/2025/32/regulation/33)
+[^c-4c3343bd1a24245c8a1204227ee65370]: Textual amendment: [Reg. A21](https://www.legislation.gov.uk/nisr/2024/157/regulation/A21) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [33](https://www.legislation.gov.uk/nisr/2025/32/regulation/33)
 
-[^key-5f9d7968d5154d570d7f802c1e9ad0fc]: Commencement: Reg. 21 in operation at 14.8.2024 with application in accordance with reg. 1(3)(e)
+[^c-5f9d7968d5154d570d7f802c1e9ad0fc]: Commencement: Reg. 21 in operation at 14.8.2024 with application in accordance with reg. 1(3)(e)
 
 [^f00078]: Footnote: Paragraph 1C was inserted by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85).
 
-[^key-d528217f9473137e9052ef084a56901f]: Textual amendment: [Reg. A22](https://www.legislation.gov.uk/nisr/2024/157/regulation/A22) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [34](https://www.legislation.gov.uk/nisr/2025/32/regulation/34)
+[^c-d528217f9473137e9052ef084a56901f]: Textual amendment: [Reg. A22](https://www.legislation.gov.uk/nisr/2024/157/regulation/A22) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [34](https://www.legislation.gov.uk/nisr/2025/32/regulation/34)
 
-[^key-4efa9e18569a7b8ff658151cdf0ea660]: Commencement: Reg. 22 in operation at 14.8.2024 with application in accordance with reg. 1(3)(f)
+[^c-4efa9e18569a7b8ff658151cdf0ea660]: Commencement: Reg. 22 in operation at 14.8.2024 with application in accordance with reg. 1(3)(f)
 
 [^f00079]: Footnote: Definition was inserted by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
@@ -821,49 +821,49 @@ A regulatory impact assessment has not been produced for this rule as no, or no 
 
 [^f00081]: Footnote: Definition was inserted by [S.R. 2022 No.201](https://www.legislation.gov.uk/nisr/2022/201) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 
-[^key-1ea5b68c8bec6458306d71510f478f3b]: Textual amendment: [Reg. A23](https://www.legislation.gov.uk/nisr/2024/157/regulation/A23) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [35](https://www.legislation.gov.uk/nisr/2025/32/regulation/35)
+[^c-1ea5b68c8bec6458306d71510f478f3b]: Textual amendment: [Reg. A23](https://www.legislation.gov.uk/nisr/2024/157/regulation/A23) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [35](https://www.legislation.gov.uk/nisr/2025/32/regulation/35)
 
-[^key-101aa67b1d28b0399f0289f7845b56d8]: Commencement: Reg. 23 in operation at 14.8.2024 with application in accordance with reg. 1(3)(f)
+[^c-101aa67b1d28b0399f0289f7845b56d8]: Commencement: Reg. 23 in operation at 14.8.2024 with application in accordance with reg. 1(3)(f)
 
 [^f00082]: Footnote: Definition was inserted by [S.R. 2022 No. 201](https://www.legislation.gov.uk/nisr/2022/201).
 
 [^f00083]: Footnote: Definition was inserted by [S.R. 2022 No.201](https://www.legislation.gov.uk/nisr/2022/201) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 
-[^key-59d57139a5772a3c531b2b352bec1287]: Textual amendment: [Reg. A24](https://www.legislation.gov.uk/nisr/2024/157/regulation/A24) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [36](https://www.legislation.gov.uk/nisr/2025/32/regulation/36)
+[^c-59d57139a5772a3c531b2b352bec1287]: Textual amendment: [Reg. A24](https://www.legislation.gov.uk/nisr/2024/157/regulation/A24) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [36](https://www.legislation.gov.uk/nisr/2025/32/regulation/36)
 
-[^key-31731449384c8ee48cb50354ad480b3a]: Commencement: Reg. 24 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+[^c-31731449384c8ee48cb50354ad480b3a]: Commencement: Reg. 24 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
 
 [^f00084]: Footnote: Definition was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
 
-[^key-3dceaa673e88d055e132ff75f20d6207]: Textual amendment: [Reg. A25](https://www.legislation.gov.uk/nisr/2024/157/regulation/A25) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [37](https://www.legislation.gov.uk/nisr/2025/32/regulation/37)
+[^c-3dceaa673e88d055e132ff75f20d6207]: Textual amendment: [Reg. A25](https://www.legislation.gov.uk/nisr/2024/157/regulation/A25) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [37](https://www.legislation.gov.uk/nisr/2025/32/regulation/37)
 
-[^key-fe8e450f8e69aca8ee03cb484cbcee9c]: Commencement: Reg. 25 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+[^c-fe8e450f8e69aca8ee03cb484cbcee9c]: Commencement: Reg. 25 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
 
 [^f00085]: Footnote: Definition was inserted by [S.R. 2021 No. 50](https://www.legislation.gov.uk/nisr/2021/50).
 
-[^key-d8c2a7b5b79638064ba1f4874028e02b]: Textual amendment: [Reg. A26](https://www.legislation.gov.uk/nisr/2024/157/regulation/A26) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [38](https://www.legislation.gov.uk/nisr/2025/32/regulation/38)
+[^c-d8c2a7b5b79638064ba1f4874028e02b]: Textual amendment: [Reg. A26](https://www.legislation.gov.uk/nisr/2024/157/regulation/A26) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [38](https://www.legislation.gov.uk/nisr/2025/32/regulation/38)
 
-[^key-c3cf9b3fe2e536a62ecf9b611df125be]: Commencement: Reg. 26 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+[^c-c3cf9b3fe2e536a62ecf9b611df125be]: Commencement: Reg. 26 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
 
-[^key-c34304ecd7565a6bfa4b3b4db7f82a7d]: Commencement: Reg. 27 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+[^c-c34304ecd7565a6bfa4b3b4db7f82a7d]: Commencement: Reg. 27 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
 
-[^key-70a05ae5790587221ab23d592d2368bd]: Commencement: Reg. 28 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+[^c-70a05ae5790587221ab23d592d2368bd]: Commencement: Reg. 28 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
 
-[^key-790c7f0adff064a4bfa78fd2ded3c36b]: Commencement: Reg. 29 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+[^c-790c7f0adff064a4bfa78fd2ded3c36b]: Commencement: Reg. 29 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
 
-[^key-8c895947f15fcfe3588fa7954121b579]: Commencement: Reg. 30 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+[^c-8c895947f15fcfe3588fa7954121b579]: Commencement: Reg. 30 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
 
-[^key-314e4a035321cc1194cbfea1ef0c6f52]: Textual amendment: [Reg. A31](https://www.legislation.gov.uk/nisr/2024/157/regulation/A31) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [39](https://www.legislation.gov.uk/nisr/2025/32/regulation/39)
+[^c-314e4a035321cc1194cbfea1ef0c6f52]: Textual amendment: [Reg. A31](https://www.legislation.gov.uk/nisr/2024/157/regulation/A31) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [39](https://www.legislation.gov.uk/nisr/2025/32/regulation/39)
 
-[^key-d71aa4e391155795eae4d5c92cbf7769]: Commencement: Reg. 31 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+[^c-d71aa4e391155795eae4d5c92cbf7769]: Commencement: Reg. 31 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
 
 [^f00086]: Footnote: Paragraph (7) was inserted by [S.R. 2012 No. 398](https://www.legislation.gov.uk/nisr/2012/398) and amended by S.R.s [2021 No.260](https://www.legislation.gov.uk/nisr/2021/260), [2022 No. 75](https://www.legislation.gov.uk/nisr/2022/75) and [2024 No 19](https://www.legislation.gov.uk/nisr/2024/19).
 
-[^key-1bdcca8ddf24ba3589384f16330b08a3]: Commencement: Reg. 32 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+[^c-1bdcca8ddf24ba3589384f16330b08a3]: Commencement: Reg. 32 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
 
-[^key-63b02ba0007ed1439e332641227a5e2d]: Textual amendment: [Reg. A33](https://www.legislation.gov.uk/nisr/2024/157/regulation/A33) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [40](https://www.legislation.gov.uk/nisr/2025/32/regulation/40)
+[^c-63b02ba0007ed1439e332641227a5e2d]: Textual amendment: [Reg. A33](https://www.legislation.gov.uk/nisr/2024/157/regulation/A33) inserted (16.3.2025) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/32)](https://www.legislation.gov.uk/nisr/2025/32), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/32/regulation/1/2), [40](https://www.legislation.gov.uk/nisr/2025/32/regulation/40)
 
-[^key-2ef9d17370ebd3502bedd1ce41f75bc2]: Commencement: Reg. 33 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
+[^c-2ef9d17370ebd3502bedd1ce41f75bc2]: Commencement: Reg. 33 in operation at 14.8.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/157/regulation/1/2)
 
 [^f00087]: Footnote: Paragraph 1A was inserted by [S.R. 2021 No. 85](https://www.legislation.gov.uk/nisr/2021/85) and amended by [S.R. 2024 No. 19](https://www.legislation.gov.uk/nisr/2024/19).
 

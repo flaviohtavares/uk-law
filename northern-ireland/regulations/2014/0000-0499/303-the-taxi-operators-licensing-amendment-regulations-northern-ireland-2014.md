@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic And Vehicles
 
-The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2014 (revoked)[^key-811a4d1fa249080e151d095a7e6ec892]
+The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2014 (revoked)[^c-811a4d1fa249080e151d095a7e6ec892]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 29th June 2015
 
-[^key-811a4d1fa249080e151d095a7e6ec892]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-811a4d1fa249080e151d095a7e6ec892]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-811a4d1fa249080e151d095a7e6ec892]
+## 1. Citation and commencement[^c-811a4d1fa249080e151d095a7e6ec892]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Taxi Operators Licensing Regulations[^key-811a4d1fa249080e151d095a7e6ec892]
+## 2. Amendment to the Taxi Operators Licensing Regulations[^c-811a4d1fa249080e151d095a7e6ec892]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-811a4d1fa249080e151d095a7e6ec892]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-811a4d1fa249080e151d095a7e6ec892]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-811a4d1fa249080e151d095a7e6ec892]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-811a4d1fa249080e151d095a7e6ec892]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-811a4d1fa249080e151d095a7e6ec892]: Textual amendment: Regulations revoked (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)
+[^c-811a4d1fa249080e151d095a7e6ec892]: Textual amendment: Regulations revoked (31.5.2016) by [The Taxi Operators Licensing (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/395)](https://www.legislation.gov.uk/nisr/2015/395), [regs. 1](https://www.legislation.gov.uk/nisr/2015/395/regulation/1), [3](https://www.legislation.gov.uk/nisr/2015/395/regulation/3)

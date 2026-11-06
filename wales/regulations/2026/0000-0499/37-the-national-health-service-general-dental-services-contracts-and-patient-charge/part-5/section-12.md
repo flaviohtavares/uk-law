@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Contracts with individuals practising in partnership[^key-34e2ee8e1c3cca20b03a3953d0190015]
+## 12. Contracts with individuals practising in partnership[^c-34e2ee8e1c3cca20b03a3953d0190015]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34e2ee8e1c3cca20b03a3953d0190015]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2026/37/regulation/12) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-34e2ee8e1c3cca20b03a3953d0190015]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2026/37/regulation/12) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

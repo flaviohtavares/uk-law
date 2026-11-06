@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Crown land[^key-aa59ab54053b3186b14b231eb1dfd7f8][^key-b91f95a697af9185ea388cfea0384f83]
+## 76. Crown land[^c-aa59ab54053b3186b14b231eb1dfd7f8][^c-b91f95a697af9185ea388cfea0384f83]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aa59ab54053b3186b14b231eb1dfd7f8]: Commencement: S. 76 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-aa59ab54053b3186b14b231eb1dfd7f8]: Commencement: S. 76 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-b91f95a697af9185ea388cfea0384f83]: Commencement: [S. 76](https://www.legislation.gov.uk/asc/2024/3/section/76) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-b91f95a697af9185ea388cfea0384f83]: Commencement: [S. 76](https://www.legislation.gov.uk/asc/2024/3/section/76) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

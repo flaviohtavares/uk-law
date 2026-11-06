@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 213. Order for examination etc.[^key-f51c605b879654132cc7bcf4c860ee6a]
+## 213. Order for examination etc.[^c-f51c605b879654132cc7bcf4c860ee6a]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f51c605b879654132cc7bcf4c860ee6a]: Commencement: [Rule 213](https://www.legislation.gov.uk/nisr/2026/11/rule/213) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-f51c605b879654132cc7bcf4c860ee6a]: Commencement: [Rule 213](https://www.legislation.gov.uk/nisr/2026/11/rule/213) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

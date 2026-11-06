@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.3. Preliminary[^key-0f79fd6f0e29f28eaea735d98079ff32]
+## 4.3. Preliminary[^c-0f79fd6f0e29f28eaea735d98079ff32]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Chapter applies to all applications to court made within housing administra
 
 ## Annotations
 
-[^key-0f79fd6f0e29f28eaea735d98079ff32]: Commencement: Rule 4.3 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-0f79fd6f0e29f28eaea735d98079ff32]: Commencement: Rule 4.3 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

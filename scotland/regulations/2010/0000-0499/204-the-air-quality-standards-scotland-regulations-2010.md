@@ -61,8 +61,8 @@ In these Regulations—
 - “**ambient air**” means outdoor air in the troposphere, excluding workplaces as defined by Council Directive [89/654/EEC](https://www.legislation.gov.uk/european/directive/1989/0654) [^c20318011] where provisions concerning health and safety at work apply and to which members of the public do not have regular access;
 - “AOT 40” (expressed in (μg/m<sup>3</sup>).hours) means the sum of the difference between hourly concentrations greater than 80 μg/m<sup>3</sup> (= 40 parts per billion) and 80 μg/m<sup>3</sup> over a given period using only the one-hour values measured between 0800 hours and 2000 hours Central European Time each day;
 - “arsenic”, “cadmium”, “nickel” and “benzo(a)pyrene” mean the total content of those elements and compounds within the PM<sub>10</sub> fraction present in ambient air;
-- “[^key-f995566867494af117d45bedbaa46d0d][Directive 2004/107/EC](https://www.legislation.gov.uk/european/directive/2004/0107)” means [Directive 2004/107/EC](https://www.legislation.gov.uk/european/directive/2004/0107) of the European Parliament and of the Council relating to arsenic, cadmium, mercury, nickel and polycyclic aromatic hydrocarbons in ambient air (but see regulation 2A)[^key-3f0466b151d94d190ac94cbb47ca411e];
-- “[^key-a62c301c658cd1c24c158c05e4105a9b][Directive 2008/50/EC](https://www.legislation.gov.uk/european/directive/2008/0050)” means [Directive 2008/50/EC](https://www.legislation.gov.uk/european/directive/2008/0050) of the European Parliament and of the Council on ambient air quality and cleaner air for Europe (but see regulation 2A)[^key-8852c111902e635c8377639dd2a824d8];
+- “[^c-f995566867494af117d45bedbaa46d0d][Directive 2004/107/EC](https://www.legislation.gov.uk/european/directive/2004/0107)” means [Directive 2004/107/EC](https://www.legislation.gov.uk/european/directive/2004/0107) of the European Parliament and of the Council relating to arsenic, cadmium, mercury, nickel and polycyclic aromatic hydrocarbons in ambient air (but see regulation 2A)[^c-3f0466b151d94d190ac94cbb47ca411e];
+- “[^c-a62c301c658cd1c24c158c05e4105a9b][Directive 2008/50/EC](https://www.legislation.gov.uk/european/directive/2008/0050)” means [Directive 2008/50/EC](https://www.legislation.gov.uk/european/directive/2008/0050) of the European Parliament and of the Council on ambient air quality and cleaner air for Europe (but see regulation 2A)[^c-8852c111902e635c8377639dd2a824d8];
 - “**fixed measurements**” means measurements taken at fixed locations, either continuously or by sampling from time to time, to determine levels of pollutants in accordance with the relevant data quality objectives;
 - “**indicative measurements**” means measurements which meet data quality objectives that are less strict than those required for fixed measurements;
 - “**margin of tolerance**” means the percentage of the limit value by which that value may be exceeded in a given year;
@@ -88,7 +88,7 @@ In these Regulations—
 - “**polycyclic aromatic hydrocarbons**” means those organic compounds composed of at least two fused aromatic rings made entirely from carbon and hydrogen; and
 - “**total gaseous mercury**” means elemental mercury vapour (Hg<sup>0</sup>) and reactive gaseous mercury, being water-soluble mercury species with sufficiently high vapour pressure to exist in the gas phase.
 
-### 2A. Interpretation[^key-9d4e221beac2870cb76ca1dd601584fb]
+### 2A. Interpretation[^c-9d4e221beac2870cb76ca1dd601584fb]
 
 (1) When interpreting [Directive 2004/107/EC](https://www.legislation.gov.uk/european/directive/2004/0107) for the purposes of these Regulations—
 
@@ -132,7 +132,7 @@ In these Regulations—
     - (bb) for “it” there were substituted “they”,
     - (cc) for “Member State concerned” there were substituted “Scottish Ministers”,
   - (ii) paragraphs 2, 3 and 4 were omitted,
-- (h) in Annex 8, in Section A, the paragraph after the table is to be read as if after the words “in the Community” there were inserted “in so far as it forms part of assimilated[^key-619dd38c42c431b06c280803d247c127] law”.
+- (h) in Annex 8, in Section A, the paragraph after the table is to be read as if after the words “in the Community” there were inserted “in so far as it forms part of assimilated[^c-619dd38c42c431b06c280803d247c127] law”.
 
 ### 3. Designation of competent authority
 
@@ -310,7 +310,7 @@ Measurements of arsenic, cadmium, mercury, nickel, benzo(a)pyrene and other poly
 
 (2) In zones where levels of the pollutants mentioned in paragraph (1) are below the limit values set out in Schedule 2, the Scottish Ministers must ensure that levels are maintained below those limit values and must endeavour to maintain the best ambient air quality compatible with sustainable development.
 
-(3)[^key-ecd04904083865d73da09ade7440b35b] Where the Scottish Ministers consider that a limit value set out in Schedule 2 has been exceeded for a reason attributable to natural sources, that limit value will not be considered to be exceeded for the purposes of these Regulations.
+(3)[^c-ecd04904083865d73da09ade7440b35b] Where the Scottish Ministers consider that a limit value set out in Schedule 2 has been exceeded for a reason attributable to natural sources, that limit value will not be considered to be exceeded for the purposes of these Regulations.
 
 (4) Where the Scottish Ministers consider that a limit value has been exceeded for a reason attributable to natural sources in accordance with paragraph (3), the Scottish Ministers must publish information, for the relevant zones and agglomerations, demonstrating that the exceedances are attributable to natural sources.
 
@@ -322,9 +322,9 @@ Measurements of arsenic, cadmium, mercury, nickel, benzo(a)pyrene and other poly
 
 (3) The Scottish Ministers must draw up a list of all zones in which the target values for arsenic, cadmium, nickel or benzo(a)pyrene are exceeded, and in doing so must identify the areas where those values are exceeded and the relevant sources of pollutants.
 
-(4) In relation to the zones to which paragraph (3) applies, the measures referred to in paragraph (1) must be directed in particular at the predominant sources of emission which have been identified, and where applicable must entail the application of best available techniques in accordance with the Pollution Prevention and Control (Scotland) Regulations 2012[^key-2fb4467a192c0e776d86d2fcb2abfdf1].
+(4) In relation to the zones to which paragraph (3) applies, the measures referred to in paragraph (1) must be directed in particular at the predominant sources of emission which have been identified, and where applicable must entail the application of best available techniques in accordance with the Pollution Prevention and Control (Scotland) Regulations 2012[^c-2fb4467a192c0e776d86d2fcb2abfdf1].
 
-(5) In zones where the level of ozone exceeds the target value for that pollutant, the Scottish Ministers must implement the national air pollution control programme drawn up in accordance with regulation 9 of the National Emission Ceilings Regulations 2018[^key-37168bcca577fda9a7b512a246c0b120] in order to attain the target value, unless it cannot be achieved other than through measures that would entail disproportionate costs.
+(5) In zones where the level of ozone exceeds the target value for that pollutant, the Scottish Ministers must implement the national air pollution control programme drawn up in accordance with regulation 9 of the National Emission Ceilings Regulations 2018[^c-37168bcca577fda9a7b512a246c0b120] in order to attain the target value, unless it cannot be achieved other than through measures that would entail disproportionate costs.
 
 ### 19. Date of application for limit values and target values in regulations 17 and 18
 
@@ -333,9 +333,9 @@ Measurements of arsenic, cadmium, mercury, nickel, benzo(a)pyrene and other poly
 - (a) from the date specified in the relevant Schedule for each limit value or target value concerned; or
 - (b) when these Regulations come into force, if no such date is specified.
 
-(2)[^key-4787eb0b7d8bf96f89d97bea954d0365] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4787eb0b7d8bf96f89d97bea954d0365] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-49492b891fe10ff52cc9b9d56e0ac978] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-49492b891fe10ff52cc9b9d56e0ac978] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 20. Duties in relation to long-term objectives for ozone
 
@@ -380,7 +380,7 @@ The Scottish Ministers must ensure that the critical levels set out in Schedule 
 
 (1) Where in any zone the levels of sulphur dioxide, nitrogen dioxide, benzene, carbon monoxide, lead or PM<sub>10</sub> in ambient air exceed any of the limit values in Schedule 2 or the level of PM<sub>2.5</sub> exceeds the target value in Schedule 3, the Scottish Ministers must draw up and implement an air quality plan for that zone so as to achieve that limit value or target value.
 
-(2) Where [^key-49f9984445cc621699ab2662d748a73a]... the Scottish Ministers have designated zones within which limit values for PM<sub>10</sub> are exceeded due to the re-suspension of particulates following winter sanding or salting of roads, the Scottish Ministers' duty under paragraph (1) applies to those zones only in so far as the excess is attributable to other sources of PM<sub>10</sub>.
+(2) Where [^c-49f9984445cc621699ab2662d748a73a]... the Scottish Ministers have designated zones within which limit values for PM<sub>10</sub> are exceeded due to the re-suspension of particulates following winter sanding or salting of roads, the Scottish Ministers' duty under paragraph (1) applies to those zones only in so far as the excess is attributable to other sources of PM<sub>10</sub>.
 
 (3) In zones where the level of ozone exceeds the target value for that pollutant in Schedule 3, the Scottish Ministers must draw up and implement an air quality plan to achieve the relevant target value, unless it cannot be achieved other than through measures that would entail disproportionate costs.
 
@@ -390,18 +390,18 @@ The Scottish Ministers must ensure that the critical levels set out in Schedule 
 
 (6) Air quality plans must include the information listed in Schedule 7.
 
-(7)[^key-2b52dceafaea2cd2d79adcc4d40e66fb] Wherever possible, air quality plans must be consistent with—
+(7)[^c-2b52dceafaea2cd2d79adcc4d40e66fb] Wherever possible, air quality plans must be consistent with—
 
 - (a) a national air pollution control programme drawn up in accordance with regulation 9 of the National Emission Ceilings Regulations 2018,
 - (b) an action plan drawn up in accordance with Part 3 of the Environmental Noise (Scotland) Regulations 2006.
 
-(7A)[^key-dfa491573fe95fdd6a9b716df73aa212] An air quality plan must assess the need to apply lower emission limit values for individual medium combustion plants than those set out in Directive (EU) 2015/2193 of the European Parliament and of the Council of 25 November 2015 on the limitation of emissions of certain pollutants into the air from medium combustion plants (“the Medium Combustion Plant Directive”) provided that, in the opinion of the Scottish Ministers, applying such emission limit values would effectively contribute to a noticeable improvement of air quality.
+(7A)[^c-dfa491573fe95fdd6a9b716df73aa212] An air quality plan must assess the need to apply lower emission limit values for individual medium combustion plants than those set out in Directive (EU) 2015/2193 of the European Parliament and of the Council of 25 November 2015 on the limitation of emissions of certain pollutants into the air from medium combustion plants (“the Medium Combustion Plant Directive”) provided that, in the opinion of the Scottish Ministers, applying such emission limit values would effectively contribute to a noticeable improvement of air quality.
 
 (7B) In considering whether to impose lower emission limit values, the Scottish Ministers must take into account the results of the information exchange referred to in Article 6(10) of the Medium Combustion Plant Directive.
 
 (8) Where an air quality plan is required in relation to more than one pollutant, the Scottish Ministers must, where appropriate, draw up and implement an integrated plan in relation to all pollutants concerned.
 
-(9)[^key-25dbdbe905b60389865f66ed84e4a387] In this regulation “emission limit values” and “medium combustion plants” have the meanings given in the Pollution Prevention and Control (Scotland) Regulations 2012.
+(9)[^c-25dbdbe905b60389865f66ed84e4a387] In this regulation “emission limit values” and “medium combustion plants” have the meanings given in the Pollution Prevention and Control (Scotland) Regulations 2012.
 
 ### 25. Short-term action plans
 
@@ -445,7 +445,7 @@ The Scottish Ministers must ensure that the critical levels set out in Schedule 
 
 (2) The information in paragraph (1)(g) must be made available in accordance with Schedule 8.
 
-(3) Information must be distributed free of charge in a clear and comprehensible manner via any easily accessible media including the internet or other appropriate means of telecommunication taking into account the requirements of the INSPIRE (Scotland) Regulations 2009[^key-48939a76797abe3e116482b23a4d2695].
+(3) Information must be distributed free of charge in a clear and comprehensible manner via any easily accessible media including the internet or other appropriate means of telecommunication taking into account the requirements of the INSPIRE (Scotland) Regulations 2009[^c-48939a76797abe3e116482b23a4d2695].
 
 (4) For the purposes of this regulation, “**interested organisations**” includes environmental organisations, consumer organisations, organisations representing sensitive populations, relevant healthcare bodies and industrial federations.
 
@@ -531,7 +531,7 @@ Insofar as is practicable, sampling points must be situated in accordance with t
 - (d) the sampler's exhaust outlet must be positioned so that recirculation of exhaust air to the sampler inlet is avoided;
 - (e) in relation to the location of traffic-orientated samplers sampling points must be at least 25 m from the edge of major junctions and no more than 10m from the kerbside. A ‘major junction’ is a junction which interrupts the traffic flow and as a result causes different emissions from the rest of the road.[^M_F_5946df2c-c6fe-4b29-a6de-9294f24fac29]
 
-**1A.**[^key-91bac0eeaa093b25ff8b6ac5b90498b0] Any deviation from the criteria set out in this Part must be fully documented through the procedures described in Section D of Annex III to [Directive 2008/50/EC](https://www.legislation.gov.uk/european/directive/2008/0050).
+**1A.**[^c-91bac0eeaa093b25ff8b6ac5b90498b0] Any deviation from the criteria set out in this Part must be fully documented through the procedures described in Section D of Annex III to [Directive 2008/50/EC](https://www.legislation.gov.uk/european/directive/2008/0050).
 
 **2.** The following factors may also be taken into account:—
 
@@ -800,43 +800,43 @@ A Regulatory Impact Assessment has been prepared and placed in the Scottish Parl
 
 [^c20318011]: Marginal citation: O.J. No. L 393, 30.12.1989, p.1, amended by Directive 2007/30/EC (O.J. No. L 165, 27.6.2007, p.21).
 
-[^key-f995566867494af117d45bedbaa46d0d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/204/regulation/2) substituted (31.12.2016) by [The Air Quality Standards (Scotland) Amendment Regulations 2016 (S.S.I. 2016/376)](https://www.legislation.gov.uk/ssi/2016/376), [regs. 1](https://www.legislation.gov.uk/ssi/2016/376/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2016/376/regulation/3/a)
+[^c-f995566867494af117d45bedbaa46d0d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/204/regulation/2) substituted (31.12.2016) by [The Air Quality Standards (Scotland) Amendment Regulations 2016 (S.S.I. 2016/376)](https://www.legislation.gov.uk/ssi/2016/376), [regs. 1](https://www.legislation.gov.uk/ssi/2016/376/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2016/376/regulation/3/a)
 
-[^key-3f0466b151d94d190ac94cbb47ca411e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/204/regulation/2) inserted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/2/a)
+[^c-3f0466b151d94d190ac94cbb47ca411e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/204/regulation/2) inserted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/2/a)
 
-[^key-a62c301c658cd1c24c158c05e4105a9b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/204/regulation/2) substituted (31.12.2016) by [The Air Quality Standards (Scotland) Amendment Regulations 2016 (S.S.I. 2016/376)](https://www.legislation.gov.uk/ssi/2016/376), [regs. 1](https://www.legislation.gov.uk/ssi/2016/376/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2016/376/regulation/3/b)
+[^c-a62c301c658cd1c24c158c05e4105a9b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/204/regulation/2) substituted (31.12.2016) by [The Air Quality Standards (Scotland) Amendment Regulations 2016 (S.S.I. 2016/376)](https://www.legislation.gov.uk/ssi/2016/376), [regs. 1](https://www.legislation.gov.uk/ssi/2016/376/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2016/376/regulation/3/b)
 
-[^key-8852c111902e635c8377639dd2a824d8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/204/regulation/2) inserted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/2/b)
+[^c-8852c111902e635c8377639dd2a824d8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/204/regulation/2) inserted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/2/b)
 
 [^c20318041]: Marginal citation: These standards are issued by the European Committee for Standardisation (CEN). Copies may be obtained from CEN at 36, Rue de Strassart B-1050, Brussels, Belgium, http://www.cenorm.be.
 
-[^key-9d4e221beac2870cb76ca1dd601584fb]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/ssi/2010/204/regulation/2A) inserted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(3)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/3)
+[^c-9d4e221beac2870cb76ca1dd601584fb]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/ssi/2010/204/regulation/2A) inserted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(3)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/3)
 
-[^key-619dd38c42c431b06c280803d247c127]: Textual amendment: Word in [reg. 2A(2)(h)](https://www.legislation.gov.uk/ssi/2010/204/regulation/2A/2/h) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 19](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/19)
+[^c-619dd38c42c431b06c280803d247c127]: Textual amendment: Word in [reg. 2A(2)(h)](https://www.legislation.gov.uk/ssi/2010/204/regulation/2A/2/h) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 19](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/19)
 
-[^key-ecd04904083865d73da09ade7440b35b]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/ssi/2010/204/regulation/17/3)[(4)](https://www.legislation.gov.uk/ssi/2010/204/regulation/17/4) substituted for [reg. 17(3)](https://www.legislation.gov.uk/ssi/2010/204/regulation/17/3) (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/4)
+[^c-ecd04904083865d73da09ade7440b35b]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/ssi/2010/204/regulation/17/3)[(4)](https://www.legislation.gov.uk/ssi/2010/204/regulation/17/4) substituted for [reg. 17(3)](https://www.legislation.gov.uk/ssi/2010/204/regulation/17/3) (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/4)
 
-[^key-2fb4467a192c0e776d86d2fcb2abfdf1]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/ssi/2010/204/regulation/18/4) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2018/391/regulation/2)
+[^c-2fb4467a192c0e776d86d2fcb2abfdf1]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/ssi/2010/204/regulation/18/4) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2018/391/regulation/2)
 
-[^key-37168bcca577fda9a7b512a246c0b120]: Textual amendment: Words in [reg. 18(5)](https://www.legislation.gov.uk/ssi/2010/204/regulation/18/5) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(5)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/5)
+[^c-37168bcca577fda9a7b512a246c0b120]: Textual amendment: Words in [reg. 18(5)](https://www.legislation.gov.uk/ssi/2010/204/regulation/18/5) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(5)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/5)
 
-[^key-4787eb0b7d8bf96f89d97bea954d0365]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/ssi/2010/204/regulation/19/2) omitted (1.6.2022) by virtue of [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(6)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/6)
+[^c-4787eb0b7d8bf96f89d97bea954d0365]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/ssi/2010/204/regulation/19/2) omitted (1.6.2022) by virtue of [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(6)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/6)
 
-[^key-49492b891fe10ff52cc9b9d56e0ac978]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/ssi/2010/204/regulation/19/3) omitted (1.6.2022) by virtue of [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(6)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/6)
+[^c-49492b891fe10ff52cc9b9d56e0ac978]: Textual amendment: [Reg. 19(3)](https://www.legislation.gov.uk/ssi/2010/204/regulation/19/3) omitted (1.6.2022) by virtue of [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(6)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/6)
 
 [^c20318071]: Marginal citation: [S.I. 2010/1001](https://www.legislation.gov.uk/uksi/2010/1001).
 
-[^key-49f9984445cc621699ab2662d748a73a]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/ssi/2010/204/regulation/24/2) omitted (1.6.2022) by virtue of [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(7)(a)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/7/a)
+[^c-49f9984445cc621699ab2662d748a73a]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/ssi/2010/204/regulation/24/2) omitted (1.6.2022) by virtue of [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(7)(a)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/7/a)
 
-[^key-2b52dceafaea2cd2d79adcc4d40e66fb]: Textual amendment: [Reg. 24(7)](https://www.legislation.gov.uk/ssi/2010/204/regulation/24/7) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(7)(b)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/7/b)
+[^c-2b52dceafaea2cd2d79adcc4d40e66fb]: Textual amendment: [Reg. 24(7)](https://www.legislation.gov.uk/ssi/2010/204/regulation/24/7) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(7)(b)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/7/b)
 
-[^key-dfa491573fe95fdd6a9b716df73aa212]: Textual amendment: [Reg. 24(7A)](https://www.legislation.gov.uk/ssi/2010/204/regulation/24/7A)[(7B)](https://www.legislation.gov.uk/ssi/2010/204/regulation/24/7B) inserted (19.12.2017) by [The Pollution Prevention and Control (Scotland) Amendment Regulations 2017 (S.S.I. 2017/446)](https://www.legislation.gov.uk/ssi/2017/446), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/446/regulation/1/1), [17(2)(a)](https://www.legislation.gov.uk/ssi/2017/446/regulation/17/2/a)
+[^c-dfa491573fe95fdd6a9b716df73aa212]: Textual amendment: [Reg. 24(7A)](https://www.legislation.gov.uk/ssi/2010/204/regulation/24/7A)[(7B)](https://www.legislation.gov.uk/ssi/2010/204/regulation/24/7B) inserted (19.12.2017) by [The Pollution Prevention and Control (Scotland) Amendment Regulations 2017 (S.S.I. 2017/446)](https://www.legislation.gov.uk/ssi/2017/446), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/446/regulation/1/1), [17(2)(a)](https://www.legislation.gov.uk/ssi/2017/446/regulation/17/2/a)
 
-[^key-25dbdbe905b60389865f66ed84e4a387]: Textual amendment: [Reg. 24(9)](https://www.legislation.gov.uk/ssi/2010/204/regulation/24/9) inserted (19.12.2017) by [The Pollution Prevention and Control (Scotland) Amendment Regulations 2017 (S.S.I. 2017/446)](https://www.legislation.gov.uk/ssi/2017/446), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/446/regulation/1/1), [17(2)(b)](https://www.legislation.gov.uk/ssi/2017/446/regulation/17/2/b)
+[^c-25dbdbe905b60389865f66ed84e4a387]: Textual amendment: [Reg. 24(9)](https://www.legislation.gov.uk/ssi/2010/204/regulation/24/9) inserted (19.12.2017) by [The Pollution Prevention and Control (Scotland) Amendment Regulations 2017 (S.S.I. 2017/446)](https://www.legislation.gov.uk/ssi/2017/446), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/446/regulation/1/1), [17(2)(b)](https://www.legislation.gov.uk/ssi/2017/446/regulation/17/2/b)
 
 [^c20318101]: Marginal citation: O.J. No. L 87, 25.3.04, p.50.
 
-[^key-48939a76797abe3e116482b23a4d2695]: Textual amendment: Words in [reg. 27(3)](https://www.legislation.gov.uk/ssi/2010/204/regulation/27/3) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(8)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/8)
+[^c-48939a76797abe3e116482b23a4d2695]: Textual amendment: Words in [reg. 27(3)](https://www.legislation.gov.uk/ssi/2010/204/regulation/27/3) substituted (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [9(8)](https://www.legislation.gov.uk/ssi/2022/138/regulation/9/8)
 
 [^c20318121]: Marginal citation: [S.S.I. 2007/182](https://www.legislation.gov.uk/ssi/2007/182).
 
@@ -844,4 +844,4 @@ A Regulatory Impact Assessment has been prepared and placed in the Scottish Parl
 
 [^M_F_5946df2c-c6fe-4b29-a6de-9294f24fac29]: Textual amendment: Words in sch. 1 Pt. 3 para. 1(e) substituted (31.12.2016) by [The Air Quality Standards (Scotland) Amendment Regulations 2016 (S.S.I. 2016/376)](https://www.legislation.gov.uk/ssi/2016/376), [regs. 1](https://www.legislation.gov.uk/ssi/2016/376/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2016/376/regulation/4/c)
 
-[^key-91bac0eeaa093b25ff8b6ac5b90498b0]: Textual amendment: Sch. 1 Pt. 3 para. 1A inserted (31.12.2016) by [The Air Quality Standards (Scotland) Amendment Regulations 2016 (S.S.I. 2016/376)](https://www.legislation.gov.uk/ssi/2016/376), [regs. 1](https://www.legislation.gov.uk/ssi/2016/376/regulation/1), [4(c)](https://www.legislation.gov.uk/ssi/2016/376/regulation/4/c)
+[^c-91bac0eeaa093b25ff8b6ac5b90498b0]: Textual amendment: Sch. 1 Pt. 3 para. 1A inserted (31.12.2016) by [The Air Quality Standards (Scotland) Amendment Regulations 2016 (S.S.I. 2016/376)](https://www.legislation.gov.uk/ssi/2016/376), [regs. 1](https://www.legislation.gov.uk/ssi/2016/376/regulation/1), [4(c)](https://www.legislation.gov.uk/ssi/2016/376/regulation/4/c)

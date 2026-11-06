@@ -42,7 +42,7 @@ Section 169(2).
 
 (3) The terms and conditions for a person to whom sub-paragraph (1) or (2) applies remain those on which he held office immediately before the appropriate date.
 
-(4)[^key-89d891f675277cf28a0fa36805185434] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-89d891f675277cf28a0fa36805185434] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The repeal by this Act of Schedule 5 to the 1971 Act (provisions with respect to adjudicators and the Tribunal) does not affect any entitlement which an existing member or adjudicator had immediately before the appropriate date as a result of a determination made under paragraph 3(1)(b) or 9(1)(b) of that Schedule.
 
@@ -90,7 +90,7 @@ Section 169(2).
 
 **Not yet in force.**
 
-**10.**[^key-1bedd225136af609af944080b495f71a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-1bedd225136af609af944080b495f71a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Appeals relating to deportation orders
 
@@ -161,11 +161,11 @@ as being persons to whom section 115 applies during such period as may be specif
 
 [^c11436691]: Marginal citation: [1993 c. 23](https://www.legislation.gov.uk/ukpga/1993/23).
 
-[^key-89d891f675277cf28a0fa36805185434]: Textual amendment: [Sch. 15 para. 3(4)](https://www.legislation.gov.uk/ukpga/1999/33/schedule/15/paragraph/3/4) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 50](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/50)
+[^c-89d891f675277cf28a0fa36805185434]: Textual amendment: [Sch. 15 para. 3(4)](https://www.legislation.gov.uk/ukpga/1999/33/schedule/15/paragraph/3/4) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 50](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/50)
 
 [^c11436711]: Commencement: Sch. 15 para. 4 partly in force; Sch. 15 para. 4 not in force at Royal Assent see s. 170(4); Sch. 15 para. 4(b) in force at 14.2.2000 by [S.I. 2000/168](https://www.legislation.gov.uk/uksi/2000/168), [art. 2](https://www.legislation.gov.uk/uksi/2000/168/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/168/schedule) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2000/168/article/3))
 
-[^key-1bedd225136af609af944080b495f71a]: Textual amendment: Sch. 15 para. 10 repealed (S.) (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-1bedd225136af609af944080b495f71a]: Textual amendment: Sch. 15 para. 10 repealed (S.) (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
 [^c11436721]: Commencement: Sch. 15 para. 11 wholly in force at 2.10.2000 by [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to the transitional provisions in [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 

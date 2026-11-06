@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^key-5ba78efcce0453a0d842dc939f09911f]
+## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^c-5ba78efcce0453a0d842dc939f09911f]
 
 *Extent: E+W+S*
 
 Articles 2 and 50
 
-[^key-5ba78efcce0453a0d842dc939f09911f]
+[^c-5ba78efcce0453a0d842dc939f09911f]
 
 The reference to a document in the table with a numbered regulation is a reference to the regulation as numbered in the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009.
 
@@ -67,4 +67,4 @@ The reference to a document in the table with a numbered regulation is a referen
 
 ## Annotations
 
-[^key-5ba78efcce0453a0d842dc939f09911f]: Commencement: Sch. 10 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-5ba78efcce0453a0d842dc939f09911f]: Commencement: Sch. 10 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)

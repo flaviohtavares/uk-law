@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England And Wales
 
-The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2023 (revoked)[^key-7a0e72a432acbb146d5006bcf644acd3]
+The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2023 (revoked)[^c-7a0e72a432acbb146d5006bcf644acd3]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 1st April 2023
 
-[^key-7a0e72a432acbb146d5006bcf644acd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a0e72a432acbb146d5006bcf644acd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-7a0e72a432acbb146d5006bcf644acd3]
+## 1. Citation, commencement, extent and interpretation[^c-7a0e72a432acbb146d5006bcf644acd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 1 to the principal Regulations[^key-7a0e72a432acbb146d5006bcf644acd3]
+## 2. Amendment of Schedule 1 to the principal Regulations[^c-7a0e72a432acbb146d5006bcf644acd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-7a0e72a432acbb146d5006bcf644acd3]
+## 3. Revocation[^c-7a0e72a432acbb146d5006bcf644acd3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a0e72a432acbb146d5006bcf644acd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a0e72a432acbb146d5006bcf644acd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a0e72a432acbb146d5006bcf644acd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a0e72a432acbb146d5006bcf644acd3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7a0e72a432acbb146d5006bcf644acd3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/220) revoked (2.10.2023) by [The Personal Injuries (NHS Charges) (Amounts) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/969)](https://www.legislation.gov.uk/uksi/2023/969), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/969/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/969/regulation/3)
+[^c-7a0e72a432acbb146d5006bcf644acd3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/220) revoked (2.10.2023) by [The Personal Injuries (NHS Charges) (Amounts) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/969)](https://www.legislation.gov.uk/uksi/2023/969), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/969/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2023/969/regulation/3)

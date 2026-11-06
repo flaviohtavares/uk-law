@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Tainted gifts and their recipients[^key-60bf55dfdc72a1824a1bff92513c179e]
+## 88. Tainted gifts and their recipients[^c-60bf55dfdc72a1824a1bff92513c179e]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60bf55dfdc72a1824a1bff92513c179e]: Commencement: [Art. 88](https://www.legislation.gov.uk/uksi/2005/3181/article/88) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-60bf55dfdc72a1824a1bff92513c179e]: Commencement: [Art. 88](https://www.legislation.gov.uk/uksi/2005/3181/article/88) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

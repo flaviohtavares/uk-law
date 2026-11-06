@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Temporary suspension of navigation within Lake Lothing in connection with the authorised development[^key-8e5d169dbbb6240885dedde502d243c5]
+## 20. Temporary suspension of navigation within Lake Lothing in connection with the authorised development[^c-8e5d169dbbb6240885dedde502d243c5]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ any part of Lake Lothing within the Order limits that the undertaker deems neces
 
 ## Annotations
 
-[^key-8e5d169dbbb6240885dedde502d243c5]: Commencement: Art. 20 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-8e5d169dbbb6240885dedde502d243c5]: Commencement: Art. 20 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

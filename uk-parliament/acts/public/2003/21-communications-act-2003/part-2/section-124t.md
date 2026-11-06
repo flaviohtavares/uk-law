@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124T. Enforcement of duty to enable billing limits to be applied[^key-1721de178c32f6b6c6e51a8d67a9c62d]
+## 124T. Enforcement of duty to enable billing limits to be applied[^c-1721de178c32f6b6c6e51a8d67a9c62d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1721de178c32f6b6c6e51a8d67a9c62d]: Textual amendment: Ss. 124S, 124T and cross-heading inserted (1.10.2018) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 102](https://www.legislation.gov.uk/ukpga/2017/30/section/102), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 4](https://www.legislation.gov.uk/uksi/2017/765/regulation/4)
+[^c-1721de178c32f6b6c6e51a8d67a9c62d]: Textual amendment: Ss. 124S, 124T and cross-heading inserted (1.10.2018) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 102](https://www.legislation.gov.uk/ukpga/2017/30/section/102), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 4](https://www.legislation.gov.uk/uksi/2017/765/regulation/4)

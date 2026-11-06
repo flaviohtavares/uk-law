@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Interpretation of Chapter[^key-2922c21297ea54e6312d22478f39a056]
+## 86. Interpretation of Chapter[^c-2922c21297ea54e6312d22478f39a056]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2922c21297ea54e6312d22478f39a056]: Commencement: [Reg. 86](https://www.legislation.gov.uk/ssi/2014/292/regulation/86) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-2922c21297ea54e6312d22478f39a056]: Commencement: [Reg. 86](https://www.legislation.gov.uk/ssi/2014/292/regulation/86) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
 [^f00024]: Footnote: See the meaning of “standard increase” in Chapter 4 of Part 3.

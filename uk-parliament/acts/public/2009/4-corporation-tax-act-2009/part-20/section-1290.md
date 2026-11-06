@@ -22,14 +22,14 @@ summary: ''
 
 (1) This section applies if, in calculating for corporation tax purposes the profits of a company (“**the employer**”) of a period of account, a deduction would otherwise be allowable for the period in respect of employee benefit contributions made or to be made (but see subsection (4)).
 
-(1A)[^key-be0f00cc6abbdfedaea79eea64edd022] No deduction is allowed under this section in respect of employee benefit contributions for a period of account which starts more than 5 years after the end of the period of account in which the contributions are made.
+(1A)[^c-be0f00cc6abbdfedaea79eea64edd022] No deduction is allowed under this section in respect of employee benefit contributions for a period of account which starts more than 5 years after the end of the period of account in which the contributions are made.
 
 (2) No deduction is allowed for the contributions for the period except so far as—
 
 - (a) qualifying benefits are provided, or qualifying expenses are paid, out of the contributions during the period or within 9 months from the end of it, or
 - (b) if the making of the contributions is itself the provision of qualifying benefits, the contributions are made during the period or within 9 months from the end of it.
 
-(2A)[^key-e2529b30c7c5e5c9972208f3bec3947a] Subsection (2) is subject to subsections (1A) and (2B).
+(2A)[^c-e2529b30c7c5e5c9972208f3bec3947a] Subsection (2) is subject to subsections (1A) and (2B).
 
 (2B) Where subsection (3C) applies, no deduction is allowed for an amount in respect of the contributions for the period except so far as the amount is a qualifying amount (see subsection (3D)).
 
@@ -38,7 +38,7 @@ summary: ''
 - (a) qualifying benefits are provided out of the contributions before the end of the subsequent period, or
 - (b) if the making of the contributions is itself the provision of qualifying benefits, the contributions are made before the end of the subsequent period.
 
-(3A)[^key-afeaf2b98590e15ff173d683022f10de] Subsection (3) is subject to subsections (1A) and (3B).
+(3A)[^c-afeaf2b98590e15ff173d683022f10de] Subsection (3) is subject to subsections (1A) and (3B).
 
 (3B) Where subsection (3C) applies, an amount disallowed under subsection (2) is allowed as a deduction for a subsequent period only so far as it is a qualifying amount.
 
@@ -53,7 +53,7 @@ summary: ''
 
 (3F) For the purposes of subsections (3C) and (3E), “employment income tax charge” and “NIC charge” have the meaning given by section 1292(7).
 
-(3G)[^key-686f0174a0e9c535d1be81739dbdfcab] Subsection (3H) applies where—
+(3G)[^c-686f0174a0e9c535d1be81739dbdfcab] Subsection (3H) applies where—
 
 - (a) a deduction would, apart from this section, be allowable for an amount (the “remuneration amount”) in respect of employees' remuneration, and
 - (b) in consequence of the payment of the employees' remuneration, employee benefit contributions are made, or are to be made, in respect of the remuneration amount.
@@ -84,10 +84,10 @@ summary: ''
 
 ## Annotations
 
-[^key-be0f00cc6abbdfedaea79eea64edd022]: Textual amendment: S. 1290(1A) inserted (with effect in accordance with s. 37(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 37(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/37/2)
+[^c-be0f00cc6abbdfedaea79eea64edd022]: Textual amendment: S. 1290(1A) inserted (with effect in accordance with s. 37(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 37(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/37/2)
 
-[^key-e2529b30c7c5e5c9972208f3bec3947a]: Textual amendment: S. 1290(2A)(2B) inserted (with effect in accordance with s. 37(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 37(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/37/3)
+[^c-e2529b30c7c5e5c9972208f3bec3947a]: Textual amendment: S. 1290(2A)(2B) inserted (with effect in accordance with s. 37(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 37(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/37/3)
 
-[^key-afeaf2b98590e15ff173d683022f10de]: Textual amendment: S. 1290(3A)-(3F) inserted (with effect in accordance with s. 37(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 37(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/37/4)
+[^c-afeaf2b98590e15ff173d683022f10de]: Textual amendment: S. 1290(3A)-(3F) inserted (with effect in accordance with s. 37(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 37(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/37/4)
 
-[^key-686f0174a0e9c535d1be81739dbdfcab]: Textual amendment: S. 1290(3G)(3H) inserted (with effect in accordance with s. 37(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2017/32/section/37/5)
+[^c-686f0174a0e9c535d1be81739dbdfcab]: Textual amendment: S. 1290(3G)(3H) inserted (with effect in accordance with s. 37(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2017/32/section/37/5)

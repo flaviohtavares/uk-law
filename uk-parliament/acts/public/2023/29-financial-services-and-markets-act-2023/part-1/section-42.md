@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Insurance Practitioner Panel[^key-00089552d5eff4c4e0989ee2ffe69a46][^key-f1c2ef333cb8b77f4d69dfee51b235ac][^key-0927cf178f7eb42894982cf5d670d9f7]
+## 42. Insurance Practitioner Panel[^c-00089552d5eff4c4e0989ee2ffe69a46][^c-f1c2ef333cb8b77f4d69dfee51b235ac][^c-0927cf178f7eb42894982cf5d670d9f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,8 +38,8 @@ In FSMA 2000, after section 2M insert—
 
 ## Annotations
 
-[^key-00089552d5eff4c4e0989ee2ffe69a46]: Commencement: S. 42 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-00089552d5eff4c4e0989ee2ffe69a46]: Commencement: S. 42 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-f1c2ef333cb8b77f4d69dfee51b235ac]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/29/section/42) in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ff)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ff)
+[^c-f1c2ef333cb8b77f4d69dfee51b235ac]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/29/section/42) in force at 29.8.2023 for specified purposes by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ff)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ff)
 
-[^key-0927cf178f7eb42894982cf5d670d9f7]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/29/section/42) in force at 26.12.2023 in so far as not already in force by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/7/b) (with [reg. 17](https://www.legislation.gov.uk/uksi/2023/1382/regulation/17))
+[^c-0927cf178f7eb42894982cf5d670d9f7]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/29/section/42) in force at 26.12.2023 in so far as not already in force by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 7(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/7/b) (with [reg. 17](https://www.legislation.gov.uk/uksi/2023/1382/regulation/17))

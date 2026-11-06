@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72C. Deferral: information[^key-48416a4d46b5aeb1178c5ef80e178e63]
+## 72C. Deferral: information[^c-48416a4d46b5aeb1178c5ef80e178e63]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48416a4d46b5aeb1178c5ef80e178e63]: Textual amendment: [Regs. 72A-72C](https://www.legislation.gov.uk/uksi/2010/948/regulation/72A) inserted (E.) (22.7.2020) by [The Community Infrastructure Levy (Coronavirus) (Amendment) (England) Regulations 2020 (S.I. 2020/781)](https://www.legislation.gov.uk/uksi/2020/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/781/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/781/regulation/3)
+[^c-48416a4d46b5aeb1178c5ef80e178e63]: Textual amendment: [Regs. 72A-72C](https://www.legislation.gov.uk/uksi/2010/948/regulation/72A) inserted (E.) (22.7.2020) by [The Community Infrastructure Levy (Coronavirus) (Amendment) (England) Regulations 2020 (S.I. 2020/781)](https://www.legislation.gov.uk/uksi/2020/781), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/781/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/781/regulation/3)

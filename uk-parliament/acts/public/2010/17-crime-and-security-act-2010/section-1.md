@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Records of searches[^key-470cfd8f58741594dbcf0d5c2bfa4897]
+## 1. Records of searches[^c-470cfd8f58741594dbcf0d5c2bfa4897]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-470cfd8f58741594dbcf0d5c2bfa4897]: Commencement: S. 1 in force at 7.3.2011 by [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/414/article/2/a)
+[^c-470cfd8f58741594dbcf0d5c2bfa4897]: Commencement: S. 1 in force at 7.3.2011 by [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/414/article/2/a)

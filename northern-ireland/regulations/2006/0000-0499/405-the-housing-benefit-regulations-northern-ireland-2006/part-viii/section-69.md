@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Housing benefit tapers[^key-3440d705f5cd4e550b6cfdbd9791cce1]
+## 69. Housing benefit tapers[^c-3440d705f5cd4e550b6cfdbd9791cce1]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ The prescribed percentages for the purpose of section 129(3)(b) of the Act (perc
 
 ## Annotations
 
-[^key-3440d705f5cd4e550b6cfdbd9791cce1]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2006/405/regulation/69) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-3440d705f5cd4e550b6cfdbd9791cce1]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2006/405/regulation/69) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Attendance at meetings of building society’s personnel[^key-9d7e40f6f4fd73e1add30b121d02c9cb]
+## 47. Attendance at meetings of building society’s personnel[^c-9d7e40f6f4fd73e1add30b121d02c9cb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.58 of the 1986 Rules.
 
 ## Annotations
 
-[^key-9d7e40f6f4fd73e1add30b121d02c9cb]: Commencement: Rule 47 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-9d7e40f6f4fd73e1add30b121d02c9cb]: Commencement: Rule 47 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

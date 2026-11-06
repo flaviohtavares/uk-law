@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Relevant public sector employers[^key-698a4650629b11c625f9903fda79f5df]
+## 4. Relevant public sector employers[^c-698a4650629b11c625f9903fda79f5df]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ The following are specified as relevant public sector employers for the purposes
 
 ## Annotations
 
-[^key-698a4650629b11c625f9903fda79f5df]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/143/regulation/4) in force at 9.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/143/regulation/1/2)
+[^c-698a4650629b11c625f9903fda79f5df]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2024/143/regulation/4) in force at 9.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/143/regulation/1/2)

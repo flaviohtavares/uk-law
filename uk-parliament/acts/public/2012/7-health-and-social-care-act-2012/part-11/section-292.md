@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 292. Requirement for Secretary of State to approve remuneration policy etc.[^key-5312e4c3531e9c3ec426b406953ea602]
+## 292. Requirement for Secretary of State to approve remuneration policy etc.[^c-5312e4c3531e9c3ec426b406953ea602]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In paragraph 5 of Schedule 1 to the Health and Social Care Act 2008 (employees o
 
 ## Annotations
 
-[^key-5312e4c3531e9c3ec426b406953ea602]: Commencement: [S. 292](https://www.legislation.gov.uk/ukpga/2012/7/section/292) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-5312e4c3531e9c3ec426b406953ea602]: Commencement: [S. 292](https://www.legislation.gov.uk/ukpga/2012/7/section/292) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

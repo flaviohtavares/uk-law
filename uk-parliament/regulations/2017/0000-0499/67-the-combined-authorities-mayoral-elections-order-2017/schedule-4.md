@@ -22,7 +22,7 @@ summary: ''
 
 Article 4(2)
 
-### 1. European Parliamentary Elections Regulations 2004[^key-3d4a7629faf3de8d48b7927f197bbd0e]
+### 1. European Parliamentary Elections Regulations 2004[^c-3d4a7629faf3de8d48b7927f197bbd0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -44,7 +44,7 @@ Article 4(2)
 (3) In regulation 4 (returning officers and polling stations)—
 
 - (a) in paragraphs (1)(a), (2)(a), (3)(a), (4)(a), (5)(a), (6)(a) and (7)(a) for “or police area” substitute “ , police area or combined authority area ”;
-- (b)[^key-a9fedda197926353e4f4cc4e194bd6ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a9fedda197926353e4f4cc4e194bd6ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph (9)—
   - (i) for “paragraphs (1) to (7A) above” substitute “ paragraphs (1) to (7B) above ”;
   - (ii) in sub-paragraph (a) after “mayoral election” insert “ or a combined authority mayoral election ”,
@@ -170,11 +170,11 @@ Article 4(2)
 
 ## Annotations
 
-[^key-3d4a7629faf3de8d48b7927f197bbd0e]: Textual amendment: Sch. 4 para. 1 revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-3d4a7629faf3de8d48b7927f197bbd0e]: Textual amendment: Sch. 4 para. 1 revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c22992371]: Marginal citation: [S.I. 2004/294](https://www.legislation.gov.uk/uksi/2004/294); relevant amendments were made by [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917) and [S.I. 2014/920](https://www.legislation.gov.uk/uksi/2014/920).
 
-[^key-a9fedda197926353e4f4cc4e194bd6ae]: Textual amendment: [Sch. 4 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2017/67/schedule/4/paragraph/2/3/b) omitted (1.11.2022) by virtue of [The European Parliamentary Elections (Amendment and Revocation) (United Kingdom and Gibraltar) (EU Exit) Regulations 2022 (S.I. 2022/885)](https://www.legislation.gov.uk/uksi/2022/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/885/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/885/regulation/5)
+[^c-a9fedda197926353e4f4cc4e194bd6ae]: Textual amendment: [Sch. 4 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2017/67/schedule/4/paragraph/2/3/b) omitted (1.11.2022) by virtue of [The European Parliamentary Elections (Amendment and Revocation) (United Kingdom and Gibraltar) (EU Exit) Regulations 2022 (S.I. 2022/885)](https://www.legislation.gov.uk/uksi/2022/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/885/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2022/885/regulation/5)
 
 [^c22992381]: Marginal citation: [S.I. 2006/3304](https://www.legislation.gov.uk/uksi/2006/3304); relevant amendments were made by [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917).
 

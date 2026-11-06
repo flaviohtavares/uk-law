@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Interpretation of Chapter[^key-20d1eb50a0449bf12ff0cb0b84b64408]
+## 5. Interpretation of Chapter[^c-20d1eb50a0449bf12ff0cb0b84b64408]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
 - “**educational establishment**”—
   - (a) means—
     - (i) a school,
-    - (ii) an education and training establishment approved by Qualifications Scotland under section 2(1)(b) of the Education (Scotland) Act 2025 as suitable for presenting persons for Qualifications Scotland qualifications[^key-d32fb59cec156a3e72e2dd36f3d83703],
+    - (ii) an education and training establishment approved by Qualifications Scotland under section 2(1)(b) of the Education (Scotland) Act 2025 as suitable for presenting persons for Qualifications Scotland qualifications[^c-d32fb59cec156a3e72e2dd36f3d83703],
     - (iii) a further education institution,
     - (iv) a higher education institution, and
   - (b) is also to be construed in accordance with subsections (3) and (4) of this section,
@@ -58,7 +58,7 @@ summary: ''
   - (i) where the school is a public school, the education authority by which it is managed,
   - (ii) where the school is an independent school, the proprietor,
   - (iii) where the school is a grant-aided school, the managers,
-- (b) in relation to an education and training establishment approved by Qualifications Scotland under section 2(1)(b) of the Education (Scotland) Act 2025 as suitable for presenting persons for Qualifications Scotland qualifications[^key-dc834eb00feb0ec63b9c1bf7ef5f3467], means the person who has responsibility for the management of the establishment,
+- (b) in relation to an education and training establishment approved by Qualifications Scotland under section 2(1)(b) of the Education (Scotland) Act 2025 as suitable for presenting persons for Qualifications Scotland qualifications[^c-dc834eb00feb0ec63b9c1bf7ef5f3467], means the person who has responsibility for the management of the establishment,
 - (c) in relation to a further education institution or a higher education institution, means the governing body of the institution.
 
 (3) Where out of school care is provided by a person in a school, “relevant operator” also includes such a person.
@@ -70,8 +70,8 @@ summary: ''
 
 ## Annotations
 
-[^key-20d1eb50a0449bf12ff0cb0b84b64408]: Commencement: S. 5 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-20d1eb50a0449bf12ff0cb0b84b64408]: Commencement: S. 5 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
-[^key-d32fb59cec156a3e72e2dd36f3d83703]: Textual amendment: Words in s. 5(1) substituted (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 15(2)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/15/2/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-d32fb59cec156a3e72e2dd36f3d83703]: Textual amendment: Words in s. 5(1) substituted (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 15(2)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/15/2/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-dc834eb00feb0ec63b9c1bf7ef5f3467]: Textual amendment: Words in s. 5(2)(b) substituted (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 15(2)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/15/2/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-dc834eb00feb0ec63b9c1bf7ef5f3467]: Textual amendment: Words in s. 5(2)(b) substituted (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 15(2)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/15/2/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

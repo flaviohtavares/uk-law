@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Payment of expenses of registration[^key-9ce050e6c0f2f1a0b5a270a62aaf89d6]
+## 24. Payment of expenses of registration[^c-9ce050e6c0f2f1a0b5a270a62aaf89d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ce050e6c0f2f1a0b5a270a62aaf89d6]: Commencement: Art. 24 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-9ce050e6c0f2f1a0b5a270a62aaf89d6]: Commencement: Art. 24 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

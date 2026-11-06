@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Killay – change to electoral arrangements[^key-6787ff30c9d9175d83ea743f3e96554d]
+## 77. Killay – change to electoral arrangements[^c-6787ff30c9d9175d83ea743f3e96554d]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In the community of Killay, the number of councillors to be elected for the—
 
 ## Annotations
 
-[^key-6787ff30c9d9175d83ea743f3e96554d]: Commencement: [Art. 77](https://www.legislation.gov.uk/wsi/2026/95/article/77) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-6787ff30c9d9175d83ea743f3e96554d]: Commencement: [Art. 77](https://www.legislation.gov.uk/wsi/2026/95/article/77) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

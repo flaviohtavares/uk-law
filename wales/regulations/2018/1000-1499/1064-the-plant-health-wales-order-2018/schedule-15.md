@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 15 — Special measures for the control of Potato ring rot[^key-beb16187072957edd1166bcde92be6a9]
+## SCHEDULE 15 — Special measures for the control of Potato ring rot[^c-beb16187072957edd1166bcde92be6a9]
 
 *Extent: E+W*
 
@@ -24,88 +24,88 @@ summary: ''
 
 Article 39(3)
 
-### 1. Interpretation[^key-beb16187072957edd1166bcde92be6a9]
+### 1. Interpretation[^c-beb16187072957edd1166bcde92be6a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART A[^key-beb16187072957edd1166bcde92be6a9]
+### PART A[^c-beb16187072957edd1166bcde92be6a9]
 
-#### 1A. Official surveys and testing[^key-beb16187072957edd1166bcde92be6a9]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**1B.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**1C.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART B[^key-beb16187072957edd1166bcde92be6a9]
-
-#### 1D. Measures to be taken following the confirmation of the presence of Potato ring rot[^key-beb16187072957edd1166bcde92be6a9]
+#### 1A. Official surveys and testing[^c-beb16187072957edd1166bcde92be6a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1E.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1B.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1F.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1C.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**1G.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART B[^c-beb16187072957edd1166bcde92be6a9]
 
-**1H.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART C[^key-beb16187072957edd1166bcde92be6a9]
-
-#### 2. Susceptible material or objects contaminated or possibly contaminated with Potato ring rot[^key-beb16187072957edd1166bcde92be6a9]
+#### 1D. Measures to be taken following the confirmation of the presence of Potato ring rot[^c-beb16187072957edd1166bcde92be6a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1E.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1F.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Measures ... in relation to a contaminated place of production[^key-beb16187072957edd1166bcde92be6a9]
+**1G.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1H.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART C[^c-beb16187072957edd1166bcde92be6a9]
 
-**7.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10A.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 11. Additional measures applicable in relation to unit of protected crop production[^key-beb16187072957edd1166bcde92be6a9]
+#### 2. Susceptible material or objects contaminated or possibly contaminated with Potato ring rot[^c-beb16187072957edd1166bcde92be6a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART D[^key-beb16187072957edd1166bcde92be6a9]
-
-#### 14. Demarcation of zones for the control of Potato ring rot[^key-beb16187072957edd1166bcde92be6a9]
+#### 5. Measures ... in relation to a contaminated place of production[^c-beb16187072957edd1166bcde92be6a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10A.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### 11. Additional measures applicable in relation to unit of protected crop production[^c-beb16187072957edd1166bcde92be6a9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART D[^c-beb16187072957edd1166bcde92be6a9]
+
+#### 14. Demarcation of zones for the control of Potato ring rot[^c-beb16187072957edd1166bcde92be6a9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**20.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-beb16187072957edd1166bcde92be6a9]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/wsi/2020/206/regulation/51))
+[^c-beb16187072957edd1166bcde92be6a9]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/wsi/2020/206/regulation/51))

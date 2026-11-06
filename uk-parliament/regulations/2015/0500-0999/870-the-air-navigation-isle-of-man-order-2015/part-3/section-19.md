@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. National permits to fly ceasing to be in force and issue of airworthiness directives for permit aircraft[^key-f65f05a6f9e8ef0d004ac1c41c9577f1]
+## 19. National permits to fly ceasing to be in force and issue of airworthiness directives for permit aircraft[^c-f65f05a6f9e8ef0d004ac1c41c9577f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f65f05a6f9e8ef0d004ac1c41c9577f1]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2015/870/article/19) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-f65f05a6f9e8ef0d004ac1c41c9577f1]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2015/870/article/19) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

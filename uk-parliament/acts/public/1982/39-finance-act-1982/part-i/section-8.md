@@ -24,7 +24,7 @@ summary: ''
 
 - (a)[^c13232231] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) increasing gaming licence duty;
-- (c)[^key-fc69078b15f03e50c55ef3953e53ec60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-fc69078b15f03e50c55ef3953e53ec60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) increasing, and otherwise amending the law relating to, gaming machine licence duty.
 
 (2) Part II of Schedule 6 shall have effect in relation to bets made at any time by reference to an event taking place after 31st March 1982, Part Ill of that Schedule shall have effect in relation to gaming licences for any period beginning after 31st March 1982, Part IV of that Schedule shall have effect in relation to bingo played after 26th September 1982 and Part V of that Schedule shall have effect in relation to gaming machine licences for any period beginning after 30th September 1982.
@@ -33,4 +33,4 @@ summary: ''
 
 [^c13232231]: Textual amendment: S. 8(1)(a) repealed by [Finance Act 1990 (c. 29, SIF 12:2)](https://www.legislation.gov.uk/ukpga/1990/29), [s. 132](https://www.legislation.gov.uk/ukpga/1990/29/section/132), [Sch. 19 Pt. I](https://www.legislation.gov.uk/ukpga/1990/29/schedule/19/part/I)
 
-[^key-fc69078b15f03e50c55ef3953e53ec60]: Textual amendment: S. 8(1)(c) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 2(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/2/a) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-fc69078b15f03e50c55ef3953e53ec60]: Textual amendment: S. 8(1)(c) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 2(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/2/a) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))

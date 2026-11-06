@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Consideration by sheriff: application by local authority or other person[^key-beb83ffad02a7ef8b86e16d047d2994f]
+## 39. Consideration by sheriff: application by local authority or other person[^c-beb83ffad02a7ef8b86e16d047d2994f]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-beb83ffad02a7ef8b86e16d047d2994f]: Commencement: S. 39 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-beb83ffad02a7ef8b86e16d047d2994f]: Commencement: S. 39 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

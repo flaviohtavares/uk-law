@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70B. Restriction on use of local authority intervention powers[^key-447a08a2662ec185a66d1bc10d3c89ae]
+## 70B. Restriction on use of local authority intervention powers[^c-447a08a2662ec185a66d1bc10d3c89ae]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-447a08a2662ec185a66d1bc10d3c89ae]: Textual amendment: [Ss. 70A-70C](https://www.legislation.gov.uk/ukpga/2006/40/section/70A) and cross-heading inserted (18.4.2016) by [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2016/6/section/6/3), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)
+[^c-447a08a2662ec185a66d1bc10d3c89ae]: Textual amendment: [Ss. 70A-70C](https://www.legislation.gov.uk/ukpga/2006/40/section/70A) and cross-heading inserted (18.4.2016) by [Education and Adoption Act 2016 (c. 6)](https://www.legislation.gov.uk/ukpga/2016/6), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2016/6/section/6/3), [19(2)](https://www.legislation.gov.uk/ukpga/2016/6/section/19/2); [S.I. 2016/466](https://www.legislation.gov.uk/uksi/2016/466), [reg. 2](https://www.legislation.gov.uk/uksi/2016/466/regulation/2)

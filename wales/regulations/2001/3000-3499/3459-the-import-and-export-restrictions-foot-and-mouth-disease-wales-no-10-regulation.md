@@ -33,7 +33,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The Import and Export Restrictions (Foot-And-Mouth Disease) (Wales) (No. 10) Regulations 2001 (revoked)[^key-4c1b602d04aff67b509a58cdb662c93c]
+The Import and Export Restrictions (Foot-And-Mouth Disease) (Wales) (No. 10) Regulations 2001 (revoked)[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 Made
 
@@ -43,256 +43,256 @@ Coming into force
 
 23rd October 2001
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c1b602d04aff67b509a58cdb662c93c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and cessation[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 1. Title, commencement, application and cessation[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 2. Interpretation[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Approvals[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 3. Approvals[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Import and dispatch of live animals[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 4. Import and dispatch of live animals[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Dispatch of fresh meat, minced meat and meat preparations[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 5. Dispatch of fresh meat, minced meat and meat preparations[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Dispatch of meat products[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 6. Dispatch of meat products[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Dispatch of milk[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 7. Dispatch of milk[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Dispatch of milk products[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 8. Dispatch of milk products[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Dispatch of semen, etc.[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 9. Dispatch of semen, etc.[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Dispatch of hides and skins[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 10. Dispatch of hides and skins[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Dispatch of animal products[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 11. Dispatch of animal products[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Exemptions[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 12. Exemptions[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Endorsement of commercial documents[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 13. Endorsement of commercial documents[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Third country certificates[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 14. Third country certificates[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Export of equidae[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 15. Export of equidae[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Offers to dispatch or export[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 16. Offers to dispatch or export[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Powers of inspectors[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 17. Powers of inspectors[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Powers of customs officers[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 18. Powers of customs officers[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Illegal consignments[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 19. Illegal consignments[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Obstruction[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 20. Obstruction[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Furnishing false information[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 21. Furnishing false information[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Offences by bodies corporate[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 22. Offences by bodies corporate[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Penalties[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 23. Penalties[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Certificates, approvals, etc. issued in another part of the British Islands[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 24. Certificates, approvals, etc. issued in another part of the British Islands[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Enforcement[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 25. Enforcement[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26. Consequential amendment to the Fresh Meat (Hygiene and Inspection) Regulations 1995[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 26. Consequential amendment to the Fresh Meat (Hygiene and Inspection) Regulations 1995[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 27. Consequential amendments to the Minced Meat and Meat Preparations (Hygiene) Regulations 1995[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 27. Consequential amendments to the Minced Meat and Meat Preparations (Hygiene) Regulations 1995[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 28. Revocations[^key-4c1b602d04aff67b509a58cdb662c93c]
+## 28. Revocations[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c1b602d04aff67b509a58cdb662c93c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-4c1b602d04aff67b509a58cdb662c93c]
+## SCHEDULE[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 Regulation 4
 
-### Counties in Wales[^key-4c1b602d04aff67b509a58cdb662c93c]
+### Counties in Wales[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Counties in England[^key-4c1b602d04aff67b509a58cdb662c93c]
+### Counties in England[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Counties in Scotland[^key-4c1b602d04aff67b509a58cdb662c93c]
+### Counties in Scotland[^c-4c1b602d04aff67b509a58cdb662c93c]
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]
+[^c-4c1b602d04aff67b509a58cdb662c93c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4c1b602d04aff67b509a58cdb662c93c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c1b602d04aff67b509a58cdb662c93c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4c1b602d04aff67b509a58cdb662c93c]: Textual amendment: Regulations revoked (6.11.2001) by [The Import and Export Restrictions (Foot-And-Mouth Disease) (Wales) (No. 11) Regulations 2001 (S.I. 2001/3589)](https://www.legislation.gov.uk/uksi/2001/3589), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3589/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2001/3589/regulation/27)
+[^c-4c1b602d04aff67b509a58cdb662c93c]: Textual amendment: Regulations revoked (6.11.2001) by [The Import and Export Restrictions (Foot-And-Mouth Disease) (Wales) (No. 11) Regulations 2001 (S.I. 2001/3589)](https://www.legislation.gov.uk/uksi/2001/3589), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/3589/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2001/3589/regulation/27)

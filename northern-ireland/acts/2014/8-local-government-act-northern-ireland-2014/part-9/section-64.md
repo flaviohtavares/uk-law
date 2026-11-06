@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Expenditure of Commissioner under this Act[^key-240328878cd48a171fa1f8d7a2a890b0]
+## 64. Expenditure of Commissioner under this Act[^c-240328878cd48a171fa1f8d7a2a890b0]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ about the manner in which the amount mentioned in subsection (2) is to be apport
 
 ## Annotations
 
-[^key-240328878cd48a171fa1f8d7a2a890b0]: Commencement: S. 64 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-240328878cd48a171fa1f8d7a2a890b0]: Commencement: S. 64 in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

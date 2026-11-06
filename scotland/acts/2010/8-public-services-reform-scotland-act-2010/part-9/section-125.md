@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 125. Reorganisation of restricted funds[^key-0a86c7614fed02a162b9381f34c37302][^key-dbd56efee2f926f65823e9ba6bb9f26f]
+## 125. Reorganisation of restricted funds[^c-0a86c7614fed02a162b9381f34c37302][^c-dbd56efee2f926f65823e9ba6bb9f26f]
 
 *Extent: S*
 
@@ -104,6 +104,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a86c7614fed02a162b9381f34c37302]: Commencement: [S. 125](https://www.legislation.gov.uk/asp/2010/8/section/125) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-0a86c7614fed02a162b9381f34c37302]: Commencement: [S. 125](https://www.legislation.gov.uk/asp/2010/8/section/125) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-dbd56efee2f926f65823e9ba6bb9f26f]: Commencement: [S. 125](https://www.legislation.gov.uk/asp/2010/8/section/125) in force at 1.11.2012 in so far as not already in force by [S.S.I. 2012/218](https://www.legislation.gov.uk/ssi/2012/218), [art. 2](https://www.legislation.gov.uk/ssi/2012/218/article/2)
+[^c-dbd56efee2f926f65823e9ba6bb9f26f]: Commencement: [S. 125](https://www.legislation.gov.uk/asp/2010/8/section/125) in force at 1.11.2012 in so far as not already in force by [S.S.I. 2012/218](https://www.legislation.gov.uk/ssi/2012/218), [art. 2](https://www.legislation.gov.uk/ssi/2012/218/article/2)

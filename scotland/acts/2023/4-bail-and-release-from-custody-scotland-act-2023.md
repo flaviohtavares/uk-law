@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## PART 1 — BAIL
 
-### 1. Decisions on bail: relevant information[^key-399fc30a2375dbac0af15853ca35a6f3][^key-c80a9cf815c3ee9b75c5f62bbfc382a9]
+### 1. Decisions on bail: relevant information[^c-399fc30a2375dbac0af15853ca35a6f3][^c-c80a9cf815c3ee9b75c5f62bbfc382a9]
 
 (1) The Criminal Procedure (Scotland) Act 1995 (“**the 1995 Act**”) is amended as follows.
 
@@ -67,7 +67,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 2. Determination of good reason for refusing bail[^key-f2373e2a29f9e5139e28f2a148d0a9da][^key-c48946cfff15d5e51126562a2bd7f7be]
+### 2. Determination of good reason for refusing bail[^c-f2373e2a29f9e5139e28f2a148d0a9da][^c-c48946cfff15d5e51126562a2bd7f7be]
 
 (1) The 1995 Act is amended as follows.
 
@@ -126,11 +126,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-### 3. Removal of restriction on bail in certain solemn cases[^key-93713bd1023d0015c43f0f74bfa8b566][^key-be2b5e3f966066cfed23ea0efa2986cf]
+### 3. Removal of restriction on bail in certain solemn cases[^c-93713bd1023d0015c43f0f74bfa8b566][^c-be2b5e3f966066cfed23ea0efa2986cf]
 
 Section 23D of the 1995 Act (restriction on bail in certain solemn cases) is repealed.
 
-### 4. Decisions on bail: duty to state and record reasons[^key-4909ec6f16a8154e808e3eeb382ec164][^key-23a3833dabad6439fffd115afb87c99f]
+### 4. Decisions on bail: duty to state and record reasons[^c-4909ec6f16a8154e808e3eeb382ec164][^c-23a3833dabad6439fffd115afb87c99f]
 
 (1) Section 24 of the 1995 Act (bail and bail conditions) is amended as follows.
 
@@ -163,7 +163,7 @@ Section 23D of the 1995 Act (restriction on bail in certain solemn cases) is rep
 
 (5) In subsection (8), after “this section” insert “(other than subsection (2AA))”.
 
-### 5. Time spent on electronically monitored bail[^key-ba1928aa344e9fda2771158e79e9b4b8][^key-c76842b5ae74eb4c47b3dcdf5b6a42be]
+### 5. Time spent on electronically monitored bail[^c-ba1928aa344e9fda2771158e79e9b4b8][^c-c76842b5ae74eb4c47b3dcdf5b6a42be]
 
 After section 210 of the 1995 Act (consideration of time spent in custody) insert—
 
@@ -212,7 +212,7 @@ After section 210 of the 1995 Act (consideration of time spent in custody) inser
 
 .
 
-### 6. Report on bail and remand[^key-50d7326b8cb7bab3718959b6b312b9e4]
+### 6. Report on bail and remand[^c-50d7326b8cb7bab3718959b6b312b9e4]
 
 (1) The Scottish Ministers must, as soon as reasonably practicable after the end of the reporting period, prepare and publish a report on bail and remand.
 
@@ -272,7 +272,7 @@ After section 210 of the 1995 Act (consideration of time spent in custody) inser
 - (a) an attempt, conspiracy or incitement to commit the offence,
 - (b) aiding, abetting, counselling or procuring the commission of the offence.
 
-### 7. Recording of reasons for granting bail in certain solemn cases[^key-0bbb64313b8c242d2ff8eafc1bab96a5]
+### 7. Recording of reasons for granting bail in certain solemn cases[^c-0bbb64313b8c242d2ff8eafc1bab96a5]
 
 (1) This section applies—
 
@@ -317,7 +317,7 @@ After section 210 of the 1995 Act (consideration of time spent in custody) inser
 
 ## PART 2 — RELEASE FROM CUSTODY
 
-### 8. Prisoners not to be released on certain days of the week[^key-f5add534863ad5a403136fb21097639b]
+### 8. Prisoners not to be released on certain days of the week[^c-f5add534863ad5a403136fb21097639b]
 
 **Not yet in force.**
 
@@ -353,7 +353,7 @@ After section 210 of the 1995 Act (consideration of time spent in custody) inser
 
   .
 
-### 9. Release on licence of long-term prisoners[^key-ea194f17ec5b0b59095b8cbe2ec8a44c]
+### 9. Release on licence of long-term prisoners[^c-ea194f17ec5b0b59095b8cbe2ec8a44c]
 
 **Not yet in force.**
 
@@ -513,7 +513,7 @@ After section 210 of the 1995 Act (consideration of time spent in custody) inser
 - (a) for “12AA(1)(b)” substitute “12AA(1)”,
 - (b) after “3AA” insert “or 3AB”.
 
-### 10. Review of recommendations and directions by Parole Board[^key-22f0d682b5553ed78c012a235906caa2]
+### 10. Review of recommendations and directions by Parole Board[^c-22f0d682b5553ed78c012a235906caa2]
 
 **Not yet in force.**
 
@@ -560,7 +560,7 @@ After section 210 of the 1995 Act (consideration of time spent in custody) inser
 
 .
 
-### 11. Power to release early[^key-e76d98ceed08a73187bd867f0fbe9ff3][^key-e6cf678b2950d4aa1ca58282bfb3d86d]
+### 11. Power to release early[^c-e76d98ceed08a73187bd867f0fbe9ff3][^c-e6cf678b2950d4aa1ca58282bfb3d86d]
 
 (1) The 1993 Act is amended as follows.
 
@@ -692,7 +692,7 @@ After section 210 of the 1995 Act (consideration of time spent in custody) inser
 
 .
 
-### 12. Duty to engage in release planning[^key-58bde13c3b9557511898d99ff03936b1]
+### 12. Duty to engage in release planning[^c-58bde13c3b9557511898d99ff03936b1]
 
 **Not yet in force.**
 
@@ -804,7 +804,7 @@ After section 210 of the 1995 Act (consideration of time spent in custody) inser
 
 .
 
-### 13. Throughcare support[^key-64c05054086711bd174c451cb1581c32][^key-c8997734accc460b8f888edfe8230a1c]
+### 13. Throughcare support[^c-64c05054086711bd174c451cb1581c32][^c-c8997734accc460b8f888edfe8230a1c]
 
 (1) The 2016 Act is amended as follows.
 
@@ -908,7 +908,7 @@ After section 210 of the 1995 Act (consideration of time spent in custody) inser
 
 .
 
-### 14. Provision of information to victim support organisations[^key-cdfea811790737effff88157a7f094ea][^key-4c7a8914f91e29abddbf55c0126a9921]
+### 14. Provision of information to victim support organisations[^c-cdfea811790737effff88157a7f094ea][^c-4c7a8914f91e29abddbf55c0126a9921]
 
 (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
 
@@ -1140,7 +1140,7 @@ After section 210 of the 1995 Act (consideration of time spent in custody) inser
 
 .
 
-### 15. Report on operation of Part 2[^key-148b2aec6174f144484b492b713a6aa6]
+### 15. Report on operation of Part 2[^c-148b2aec6174f144484b492b713a6aa6]
 
 (1) The Scottish Ministers must, as soon as reasonably practicable after the end of the reporting period, lay before the Scottish Parliament a report on the operation of the modifications of enactments made by this Part.
 
@@ -1171,7 +1171,7 @@ After section 210 of the 1995 Act (consideration of time spent in custody) inser
 
 ## PART 3 — FINAL PROVISIONS
 
-### 16. Interpretation[^key-8873b94f0093e7422cca34551b8d0791]
+### 16. Interpretation[^c-8873b94f0093e7422cca34551b8d0791]
 
 In this Act—
 
@@ -1179,7 +1179,7 @@ In this Act—
 - “**the 1995 Act**” means the Criminal Procedure (Scotland) Act 1995,
 - “**the 2016 Act**” means the Community Justice (Scotland) Act 2016.
 
-### 17. Ancillary provision[^key-2b90149866b2a4140ac0cab6fff6eeff]
+### 17. Ancillary provision[^c-2b90149866b2a4140ac0cab6fff6eeff]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
 
@@ -1193,7 +1193,7 @@ In this Act—
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
 - (b) otherwise are subject to the negative procedure.
 
-### 18. Commencement[^key-50303aae6b76516db8d9c4016aa10570]
+### 18. Commencement[^c-50303aae6b76516db8d9c4016aa10570]
 
 (1) This section and sections 6, 7, 15 to 17 and 19 come into force on the day after Royal Assent.
 
@@ -1204,62 +1204,62 @@ In this Act—
 - (a) include transitional, transitory or saving provision,
 - (b) make different provision for different purposes.
 
-### 19. Short title[^key-b3d44198aeafe394efd58212965340e7]
+### 19. Short title[^c-b3d44198aeafe394efd58212965340e7]
 
 The short title of this Act is the Bail and Release from Custody (Scotland) Act 2023.
 
 ## Annotations
 
-[^key-399fc30a2375dbac0af15853ca35a6f3]: Commencement: S. 1 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
+[^c-399fc30a2375dbac0af15853ca35a6f3]: Commencement: S. 1 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
 
-[^key-c80a9cf815c3ee9b75c5f62bbfc382a9]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2023/4/section/1) in force at 14.5.2025 by [S.S.I. 2025/52](https://www.legislation.gov.uk/ssi/2025/52), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/52/regulation/2/a)
+[^c-c80a9cf815c3ee9b75c5f62bbfc382a9]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2023/4/section/1) in force at 14.5.2025 by [S.S.I. 2025/52](https://www.legislation.gov.uk/ssi/2025/52), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2025/52/regulation/2/a)
 
-[^key-f2373e2a29f9e5139e28f2a148d0a9da]: Commencement: S. 2 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
+[^c-f2373e2a29f9e5139e28f2a148d0a9da]: Commencement: S. 2 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
 
-[^key-c48946cfff15d5e51126562a2bd7f7be]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2023/4/section/2) in force at 14.5.2025 by [S.S.I. 2025/52](https://www.legislation.gov.uk/ssi/2025/52), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/52/regulation/2/b)
+[^c-c48946cfff15d5e51126562a2bd7f7be]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2023/4/section/2) in force at 14.5.2025 by [S.S.I. 2025/52](https://www.legislation.gov.uk/ssi/2025/52), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/52/regulation/2/b)
 
-[^key-93713bd1023d0015c43f0f74bfa8b566]: Commencement: S. 3 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
+[^c-93713bd1023d0015c43f0f74bfa8b566]: Commencement: S. 3 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
 
-[^key-be2b5e3f966066cfed23ea0efa2986cf]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2023/4/section/3) in force at 14.5.2025 by [S.S.I. 2025/52](https://www.legislation.gov.uk/ssi/2025/52), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/52/regulation/2/c)
+[^c-be2b5e3f966066cfed23ea0efa2986cf]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2023/4/section/3) in force at 14.5.2025 by [S.S.I. 2025/52](https://www.legislation.gov.uk/ssi/2025/52), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/52/regulation/2/c)
 
-[^key-4909ec6f16a8154e808e3eeb382ec164]: Commencement: S. 4 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
+[^c-4909ec6f16a8154e808e3eeb382ec164]: Commencement: S. 4 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
 
-[^key-23a3833dabad6439fffd115afb87c99f]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2023/4/section/4) in force at 14.5.2025 by [S.S.I. 2025/52](https://www.legislation.gov.uk/ssi/2025/52), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2025/52/regulation/2/d)
+[^c-23a3833dabad6439fffd115afb87c99f]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2023/4/section/4) in force at 14.5.2025 by [S.S.I. 2025/52](https://www.legislation.gov.uk/ssi/2025/52), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2025/52/regulation/2/d)
 
-[^key-ba1928aa344e9fda2771158e79e9b4b8]: Commencement: S. 5 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
+[^c-ba1928aa344e9fda2771158e79e9b4b8]: Commencement: S. 5 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
 
-[^key-c76842b5ae74eb4c47b3dcdf5b6a42be]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2023/4/section/5) in force at 1.7.2024 by [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/2)
+[^c-c76842b5ae74eb4c47b3dcdf5b6a42be]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2023/4/section/5) in force at 1.7.2024 by [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/2)
 
-[^key-50d7326b8cb7bab3718959b6b312b9e4]: Commencement: S. 6 in force at 2.8.2023, see [s. 18(1)](https://www.legislation.gov.uk/asp/2023/4/section/18/1)
+[^c-50d7326b8cb7bab3718959b6b312b9e4]: Commencement: S. 6 in force at 2.8.2023, see [s. 18(1)](https://www.legislation.gov.uk/asp/2023/4/section/18/1)
 
-[^key-0bbb64313b8c242d2ff8eafc1bab96a5]: Commencement: S. 7 in force at 2.8.2023, see [s. 18(1)](https://www.legislation.gov.uk/asp/2023/4/section/18/1)
+[^c-0bbb64313b8c242d2ff8eafc1bab96a5]: Commencement: S. 7 in force at 2.8.2023, see [s. 18(1)](https://www.legislation.gov.uk/asp/2023/4/section/18/1)
 
-[^key-f5add534863ad5a403136fb21097639b]: Commencement: S. 8 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
+[^c-f5add534863ad5a403136fb21097639b]: Commencement: S. 8 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
 
-[^key-ea194f17ec5b0b59095b8cbe2ec8a44c]: Commencement: S. 9 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
+[^c-ea194f17ec5b0b59095b8cbe2ec8a44c]: Commencement: S. 9 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
 
-[^key-22f0d682b5553ed78c012a235906caa2]: Commencement: S. 10 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
+[^c-22f0d682b5553ed78c012a235906caa2]: Commencement: S. 10 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
 
-[^key-e76d98ceed08a73187bd867f0fbe9ff3]: Commencement: S. 11 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
+[^c-e76d98ceed08a73187bd867f0fbe9ff3]: Commencement: S. 11 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
 
-[^key-e6cf678b2950d4aa1ca58282bfb3d86d]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2023/4/section/11) in force at 26.5.2024 by [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)
+[^c-e6cf678b2950d4aa1ca58282bfb3d86d]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2023/4/section/11) in force at 26.5.2024 by [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)
 
-[^key-58bde13c3b9557511898d99ff03936b1]: Commencement: S. 12 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
+[^c-58bde13c3b9557511898d99ff03936b1]: Commencement: S. 12 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
 
-[^key-64c05054086711bd174c451cb1581c32]: Commencement: S. 13 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
+[^c-64c05054086711bd174c451cb1581c32]: Commencement: S. 13 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
 
-[^key-c8997734accc460b8f888edfe8230a1c]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2023/4/section/13) in force at 9.2.2026 by [S.S.I. 2026/24](https://www.legislation.gov.uk/ssi/2026/24), [reg. 2](https://www.legislation.gov.uk/ssi/2026/24/regulation/2)
+[^c-c8997734accc460b8f888edfe8230a1c]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2023/4/section/13) in force at 9.2.2026 by [S.S.I. 2026/24](https://www.legislation.gov.uk/ssi/2026/24), [reg. 2](https://www.legislation.gov.uk/ssi/2026/24/regulation/2)
 
-[^key-cdfea811790737effff88157a7f094ea]: Commencement: S. 14 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
+[^c-cdfea811790737effff88157a7f094ea]: Commencement: S. 14 not in force at Royal Assent, see [s. 18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2)
 
-[^key-4c7a8914f91e29abddbf55c0126a9921]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2023/4/section/14) in force at 26.5.2024 by [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)
+[^c-4c7a8914f91e29abddbf55c0126a9921]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2023/4/section/14) in force at 26.5.2024 by [S.S.I. 2024/145](https://www.legislation.gov.uk/ssi/2024/145), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/145/regulation/2/1)
 
-[^key-148b2aec6174f144484b492b713a6aa6]: Commencement: S. 15 in force at 2.8.2023, see [s. 18(1)](https://www.legislation.gov.uk/asp/2023/4/section/18/1)
+[^c-148b2aec6174f144484b492b713a6aa6]: Commencement: S. 15 in force at 2.8.2023, see [s. 18(1)](https://www.legislation.gov.uk/asp/2023/4/section/18/1)
 
-[^key-8873b94f0093e7422cca34551b8d0791]: Commencement: S. 16 in force at 2.8.2023, see [s. 18(1)](https://www.legislation.gov.uk/asp/2023/4/section/18/1)
+[^c-8873b94f0093e7422cca34551b8d0791]: Commencement: S. 16 in force at 2.8.2023, see [s. 18(1)](https://www.legislation.gov.uk/asp/2023/4/section/18/1)
 
-[^key-2b90149866b2a4140ac0cab6fff6eeff]: Commencement: S. 17 in force at 2.8.2023, see [s. 18(1)](https://www.legislation.gov.uk/asp/2023/4/section/18/1)
+[^c-2b90149866b2a4140ac0cab6fff6eeff]: Commencement: S. 17 in force at 2.8.2023, see [s. 18(1)](https://www.legislation.gov.uk/asp/2023/4/section/18/1)
 
-[^key-50303aae6b76516db8d9c4016aa10570]: Commencement: S. 18 in force at 2.8.2023, see [s. 18(1)](https://www.legislation.gov.uk/asp/2023/4/section/18/1)
+[^c-50303aae6b76516db8d9c4016aa10570]: Commencement: S. 18 in force at 2.8.2023, see [s. 18(1)](https://www.legislation.gov.uk/asp/2023/4/section/18/1)
 
-[^key-b3d44198aeafe394efd58212965340e7]: Commencement: S. 19 in force at 2.8.2023, see [s. 18(1)](https://www.legislation.gov.uk/asp/2023/4/section/18/1)
+[^c-b3d44198aeafe394efd58212965340e7]: Commencement: S. 19 in force at 2.8.2023, see [s. 18(1)](https://www.legislation.gov.uk/asp/2023/4/section/18/1)

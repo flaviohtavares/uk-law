@@ -46,36 +46,36 @@ The Scottish Ministers, in exercise of the powers conferred on them by section 
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation and commencement[^key-cefea58d4e7d7ed9e48d30484facbd70]
+### 1. Citation and commencement[^c-cefea58d4e7d7ed9e48d30484facbd70]
 
 (1) These Regulations may be cited as the Management of Extractive Waste (Scotland) Regulations 2010 and, other than regulation 3(1), come into force on 1st April 2010.
 
 (2) Regulation 3(1) comes into force on 1st May 2012.
 
-### 2. Interpretation[^key-87b92ac4727cf4cb5e49bac2f9c4bd1c]
+### 2. Interpretation[^c-87b92ac4727cf4cb5e49bac2f9c4bd1c]
 
 (1) Subject to paragraph (2), in these Regulations—
 
-- “[^key-14ad68552dfbdaf2e906bb754b697680]**the 1996 Regulations**” means the Special Waste Regulations 1996,
+- “[^c-14ad68552dfbdaf2e906bb754b697680]**the 1996 Regulations**” means the Special Waste Regulations 1996,
 - “the 1997 Act” means the Town and Country Planning (Scotland) Act 1997[^f00002];
 - “applicant” means the natural or legal person who makes an application for planning permission to which Part 4 applies;
-- “best available techniques” is as defined in Article 2(2) as read with Article 2(3) of Decision 2012/134/EU establishing the best available techniques (BAT) conclusions under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions for the manufacture of glass,[^key-44ffff485b02aad8fabce1e4832a80b6]
-- “Category A waste facility” means a waste facility that does not fall within the scope of Directive 2012/18/EU[^key-6b70a3de7300a5b395245a2e589af954]—
+- “best available techniques” is as defined in Article 2(2) as read with Article 2(3) of Decision 2012/134/EU establishing the best available techniques (BAT) conclusions under Directive 2010/75/EU of the European Parliament and of the Council on industrial emissions for the manufacture of glass,[^c-44ffff485b02aad8fabce1e4832a80b6]
+- “Category A waste facility” means a waste facility that does not fall within the scope of Directive 2012/18/EU[^c-6b70a3de7300a5b395245a2e589af954]—
   - (a) where a failure or incorrect operation, e.g. the collapse of a heap or the bursting of a dam, could give rise to a major accident, on the basis of a risk assessment taking into account factors such as the present or future size, the location and the environmental impact of the waste facility;
-  - (b) which contains waste classified as hazardous under Articles 3(2) and 7 of Directive[^key-2bcf6627aee74ad6cb51022f7f58cecf] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) above a certain threshold; or
-  - (c) which contains substances or mixtures classified as hazardous under Regulation[^key-6da8662b39b67ec2971d7d578586208c] [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) above a certain threshold;
+  - (b) which contains waste classified as hazardous under Articles 3(2) and 7 of Directive[^c-2bcf6627aee74ad6cb51022f7f58cecf] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) above a certain threshold; or
+  - (c) which contains substances or mixtures classified as hazardous under Regulation[^c-6da8662b39b67ec2971d7d578586208c] [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) above a certain threshold;
 - “competent person” means a natural person with sufficient training, experience, knowledge and other qualities to enable that person to undertake the duties assigned to them relative to these Regulations;
 - “dam” means an engineered structure designed to retain or confine water or waste or both within a pond;
-- “[^key-db66b5e14701f55ae7ce85e955792065]**dangerous substance**” means a substance or mixture which is hazardous within the meaning of Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272),
-- [^key-79e699ca3190f11ac24720491b34d5de]...
-- [^key-b592bd746ffd1141541cf8daf98aec9c]...
-- [^key-da144074d2a572b78bda4661665d7329]...
-- [^key-fa6714e067eb7f66836d5f3eb98b3b80]...
-- [^key-a82f2034e37ffc4b2b0b7c3b4cdb05ab]...
-- “Directive 2000/60/EC” means Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy[^f00013] , as it had effect immediately before IP completion day[^key-e15528f76bbec68aed5948c1d65367b1];
-- “[^key-ee3f001ee3c3bf92ece4fde55a199551]**Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098)**” means Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste and repealing certain Directives, as amended by Commission Regulation (EU) No 1357/2014 replacing Annex III of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) , as it had effect immediately before IP completion day[^key-ac91ff01d4d5716f399677855eb350fa];
-- “[^key-ed7ced79a012d626492d4617fd74a5a5]**Directive 2012/18/EU**” means Directive 2012/18/EU of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive [96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082) , as it had effect immediately before IP completion day[^key-b53fb4189957534b41ea12893112f9ba];
-- “European Waste Catalogue” is as defined in regulation 1(4) of the 1996 Regulations;[^key-90c77523fe01604fd12f98691cba9d10]
+- “[^c-db66b5e14701f55ae7ce85e955792065]**dangerous substance**” means a substance or mixture which is hazardous within the meaning of Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272),
+- [^c-79e699ca3190f11ac24720491b34d5de]...
+- [^c-b592bd746ffd1141541cf8daf98aec9c]...
+- [^c-da144074d2a572b78bda4661665d7329]...
+- [^c-fa6714e067eb7f66836d5f3eb98b3b80]...
+- [^c-a82f2034e37ffc4b2b0b7c3b4cdb05ab]...
+- “Directive 2000/60/EC” means Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy[^f00013] , as it had effect immediately before IP completion day[^c-e15528f76bbec68aed5948c1d65367b1];
+- “[^c-ee3f001ee3c3bf92ece4fde55a199551]**Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098)**” means Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste and repealing certain Directives, as amended by Commission Regulation (EU) No 1357/2014 replacing Annex III of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) , as it had effect immediately before IP completion day[^c-ac91ff01d4d5716f399677855eb350fa];
+- “[^c-ed7ced79a012d626492d4617fd74a5a5]**Directive 2012/18/EU**” means Directive 2012/18/EU of the European Parliament and of the Council on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive [96/82/EC](https://www.legislation.gov.uk/european/directive/1996/0082) , as it had effect immediately before IP completion day[^c-b53fb4189957534b41ea12893112f9ba];
+- “European Waste Catalogue” is as defined in regulation 1(4) of the 1996 Regulations;[^c-90c77523fe01604fd12f98691cba9d10]
 - “extractive waste” means waste produced from an extractive industry and resulting from prospecting, extraction, treatment and storage of mineral resources and the working of quarries, but does not include—
   - (a) waste which is generated by the prospecting, extraction and treatment of mineral resources and the working of quarries, but which does not directly result from those operations;
   - (b) waste resulting from the offshore prospecting, extraction and treatment of mineral resources; or
@@ -91,7 +91,7 @@ The Scottish Ministers, in exercise of the powers conferred on them by section 
   - (b) any dam or other structure serving to contain, retain, confine or otherwise support such a facility, and
   - (c) heaps and ponds;
 - “financial guarantee” means the guarantee required by regulation 15(1);
-- “hazardous waste” is as defined in Articles 3(2) and 7 of Directive[^key-00b582db948e57f75af1ce7d14de5cb4] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098);
+- “hazardous waste” is as defined in Articles 3(2) and 7 of Directive[^c-00b582db948e57f75af1ce7d14de5cb4] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098);
 - “heap” means an engineered facility for the deposit of solid waste on the surface;
 - “inert waste” means waste that does not undergo any significant physical, chemical or biological transformations; inert waste will not dissolve, burn or otherwise physically or chemically react, biodegrade or adversely affect other matter with which it comes into contact in a way likely to give rise to environmental pollution or harm human health; the total leachability and pollutant content of the waste and the ecotoxicity of the leachate must be insignificant, and in particular not such as to endanger the quality of either surface water or groundwater or both;
 - “leachate” means any liquid percolating through the deposited waste and emitted from or contained within an extractive waste area or waste facility, including polluted drainage, which may adversely affect the environment if not appropriately treated;
@@ -106,15 +106,15 @@ The Scottish Ministers, in exercise of the powers conferred on them by section 
 - “the public” means one or more natural or legal persons and associations, organisations or groups made up of such persons;
 - “the public concerned” means the public affected or likely to be affected by, or having an interest in, the environmental decision-making under Parts 4 or 6 and non-governmental organisations promoting environmental protection and meeting any requirements under legislation are deemed to have such an interest;
 - “receiving body of water” means surface waters, groundwater, transitional waters and coastal water as defined in Article 2(1), (2), (6) and (7) of Directive 2000/60/EC;
-- “[^key-78ecd5cea4041c0c1568f7eff2185d21]**Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272)**” means Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045), and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907) , as it had effect immediately before IP completion day[^key-8bba12a99c90b5768b821bae1c31432a];
+- “[^c-78ecd5cea4041c0c1568f7eff2185d21]**Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272)**” means Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045), and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907) , as it had effect immediately before IP completion day[^c-8bba12a99c90b5768b821bae1c31432a];
 - “rehabilitation” means the treatment of the land affected by a waste facility in such a way as to restore the land to a satisfactory state, with particular regard to soil quality, wildlife, natural habitats, freshwater systems, landscape and appropriate beneficial uses;
 - “SEPA” means the Scottish Environment Protection Agency;
 - “site” means all land at a distinct geographic location under the management control of an operator;
 - “substantial change” means a change in the structure or operation of an extractive waste area or waste facility that, in the opinion of the planning authority, may have significant negative effects on human health or the environment;
 - “tailings” means the waste solids or slurries that remain after the treatment of minerals by separation processes (e.g. crushing, grinding, size‑sorting, flotation and other physico-chemical techniques) to remove the valuable minerals from the less valuable rock;
 - “treatment”, except where the context otherwise requires, means the mechanical, physical, biological, thermal or chemical process or combination of processes carried out on mineral resources, including from the working of quarries, with a view to extracting the mineral, including size change, classification, separation and leaching, and the re‑processing of previously discarded waste, but excluding smelting, thermal manufacturing processes (other than the burning of limestone) and metallurgical processes;
-- “unpolluted soil” means soil that is removed from the upper layer of the ground during extractive activities and that is not deemed to be polluted under national or assimilated[^key-e5d36764142b05b2cc575733272d5c68] law;
-- “waste” is as defined in Article 3(1) of Directive[^key-d2c83ea5faa6372a435f02d114d93e85] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098);
+- “unpolluted soil” means soil that is removed from the upper layer of the ground during extractive activities and that is not deemed to be polluted under national or assimilated[^c-e5d36764142b05b2cc575733272d5c68] law;
+- “waste” is as defined in Article 3(1) of Directive[^c-d2c83ea5faa6372a435f02d114d93e85] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098);
 - “waste facility” means any area designated for the accumulation or deposit of extractive waste, whether in a solid or liquid state or in solution or suspension; Category A waste facilities and facilities for waste characterised as hazardous in the waste management plan shall be waste facilities regardless of the period of accumulation or deposit, but any other area shall not be a waste facility unless the accumulation or deposit will exceed the following time periods—
   - (a) six months for facilities for hazardous waste generated unexpectedly;
   - (b) one year for facilities for non-hazardous non-inert waste;
@@ -124,7 +124,7 @@ The Scottish Ministers, in exercise of the powers conferred on them by section 
 - “waste management plan” has the meaning given by regulation 11; and
 - “weak acid dissociable cyanide” means cyanide and cyanide compounds that are dissociated with a weak acid at a defined pH.
 
-(2) Notwithstanding paragraph (1), expressions used in these Regulations [^key-adac9e1dfed83859f43ff79777131f1d]..., unless the context otherwise requires, have the same meaning for the purposes of these Regulations as in Directive[^key-e6cf8b6ab062c7dda0cd1088659c1cf7] [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) on the management of waste from extractive industries as it had effect immediately before IP completion day.
+(2) Notwithstanding paragraph (1), expressions used in these Regulations [^c-adac9e1dfed83859f43ff79777131f1d]..., unless the context otherwise requires, have the same meaning for the purposes of these Regulations as in Directive[^c-e6cf8b6ab062c7dda0cd1088659c1cf7] [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) on the management of waste from extractive industries as it had effect immediately before IP completion day.
 
 (3) Where these Regulations refer to—
 
@@ -133,9 +133,9 @@ The Scottish Ministers, in exercise of the powers conferred on them by section 
 
 any such application, notification or request shall be made in writing and any such approval, decision, determination, notification, permission or opinion shall be issued in writing (and these requirements may be fulfilled by electronic communication where regulation 32 applies).
 
-### 3. Consequential amendment of subordinate legislation[^key-3d22e2f3f70f37ef7072203b922765a1][^key-b63b63ab9bbf50cc1fcd555d2d66ba99]
+### 3. Consequential amendment of subordinate legislation[^c-3d22e2f3f70f37ef7072203b922765a1][^c-b63b63ab9bbf50cc1fcd555d2d66ba99]
 
-(1)[^key-3d22e2f3f70f37ef7072203b922765a1] In the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^f00017]—
+(1)[^c-3d22e2f3f70f37ef7072203b922765a1] In the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^f00017]—
 
 - (a) in article 3(10)(d) (permitted development) omit “or Class 64 of Part 18”;
 - (b) in article 3(10)(e) omit “or Class 63 of Part 18” and sub-paragraph (iii);
@@ -143,19 +143,19 @@ any such application, notification or request shall be made in writing and any s
 - (d) in Schedule 1, Part 15, Class 54, before sub-paragraph (2)(a) insert “(za) it is contrary to the requirements of the Management of Extractive Waste (Scotland) Regulations 2010;”, and
 - (e) in Schedule 1 omit Part 18 (waste tipping at a mine).
 
-(2)[^key-409f74f9f504bdb19c33b4af271fc7fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-409f74f9f504bdb19c33b4af271fc7fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-caf83fa633db1c7b2e4db9672dee154d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-caf83fa633db1c7b2e4db9672dee154d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-57587ec16564b00a6f64a09a7812fedd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-57587ec16564b00a6f64a09a7812fedd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — APPLICATION OF THESE REGULATIONS
 
-### 4. General application[^key-87d119f8f581a7350d3fe198258086ff]
+### 4. General application[^c-87d119f8f581a7350d3fe198258086ff]
 
 Subject to regulation 5 (transitional provisions), no operator shall commence or continue operation of an extractive waste area or waste facility unless that area or facility has been granted planning permission in accordance with the provisions of these Regulations.
 
-### 5. Transitional provisions[^key-84a50e820a564315c688672da3151130]
+### 5. Transitional provisions[^c-84a50e820a564315c688672da3151130]
 
 (1) Nothing in these Regulations shall apply to a waste facility which closed before 1st April 2010 and which remains closed.
 
@@ -170,7 +170,7 @@ Subject to regulation 5 (transitional provisions), no operator shall commence or
 (3) An operator who requires approval of a waste management plan in terms of paragraph (2) must submit a plan that addresses the requirements of regulation 11 (waste management plan) to the planning authority, which authority shall—
 
 - (a) consult with SEPA;
-- (b) evaluate the operator’s ability to meet the objectives of the plan, taking account of the extent to which compliance will be secured through other national legislation or[^key-ecf90e3479348de57567c16de15f4c65] assimilated direct[^key-d791004dba8206a34636c0f398bcedec] legislation;
+- (b) evaluate the operator’s ability to meet the objectives of the plan, taking account of the extent to which compliance will be secured through other national legislation or[^c-ecf90e3479348de57567c16de15f4c65] assimilated direct[^c-d791004dba8206a34636c0f398bcedec] legislation;
 - (c) when it is content that the plan complies with the requirements of regulation 11, impose a planning condition under this regulation that extractive waste be managed in accordance with that plan and the planning condition required by regulation 16(2) (review of waste management plan);
 - (d) if an existing planning condition conflicts with the planning conditions imposed under sub-paragraph (c), vary the existing condition to ensure that extractive waste is managed in accordance with the plan; and
 - (e) notify the operator that the plan is approved and the applicable condition or conditions.
@@ -201,11 +201,11 @@ the planning authority may waive the requirement in paragraph (2) for approval o
 
 ## PART 3 — REQUIREMENTS FOR PARTICULAR CATEGORIES OF PREMISES
 
-### 6. Extractive waste area[^key-ed97f9fe8ba17af7a78e9c6d9987ac60]
+### 6. Extractive waste area[^c-ed97f9fe8ba17af7a78e9c6d9987ac60]
 
 Where any extractive waste is to be managed in an extractive waste area, and the planning authority is satisfied that the requirements of regulation 11 (waste management plan) are met, in granting planning permission or on review of the requirements of a permission the planning authority shall impose, and shall only impose, such conditions in pursuance of these Regulations as will ensure compliance with regulations 14(a) and 16.
 
-### 7. Inert waste, unpolluted soil and peat-related waste[^key-c52f7b445c36e6dfd1b4a1aa2316e068]
+### 7. Inert waste, unpolluted soil and peat-related waste[^c-c52f7b445c36e6dfd1b4a1aa2316e068]
 
 (1) This regulation applies where extractive waste is—
 
@@ -222,7 +222,7 @@ and is not deposited in a Category A waste facility.
 - (b) in regulation 22(1)(c) to (h), (2)(a) and (3); and
 - (c) in regulation 23, paragraphs (1), (3) and (4), subject to any modification the planning authority considers appropriate under regulation 23(2).
 
-### 8. Non‑hazardous prospecting waste, unpolluted soil and peat-related waste[^key-21821d1b202d3eee4858f90f59fe7c6a]
+### 8. Non‑hazardous prospecting waste, unpolluted soil and peat-related waste[^c-21821d1b202d3eee4858f90f59fe7c6a]
 
 (1) This regulation applies where extractive waste is—
 
@@ -237,7 +237,7 @@ and is not deposited in a Category A waste facility.
 - (c) causing unacceptable effects to the landscape or places of special interest; and
 - (d) resulting in the abandonment, dumping or uncontrolled depositing of extractive waste.
 
-### 9. Non‑hazardous non-inert waste[^key-4e35e165764dd674ccbc0324a094ddf4]
+### 9. Non‑hazardous non-inert waste[^c-4e35e165764dd674ccbc0324a094ddf4]
 
 Where extractive waste is non‑hazardous non‑inert waste, the following provisions of these Regulations shall not apply unless it is deposited in a Category A waste facility—
 
@@ -248,7 +248,7 @@ Where extractive waste is non‑hazardous non‑inert waste, the following provi
 
 ## PART 4 — PROCEDURE FOR APPLICATION FOR AND GRANT OF PLANNING PERMISSION
 
-### 10. Applications for planning permission[^key-b34cfdd1a2a15f480de26bf8f3707d41]
+### 10. Applications for planning permission[^c-b34cfdd1a2a15f480de26bf8f3707d41]
 
 (1) This Part applies to an application to a planning authority for planning permission (other than planning permission in principle) where all or part of that application relates to an extractive waste area or waste facility which contains, or which it is proposed will be developed to contain, extractive waste.
 
@@ -260,7 +260,7 @@ Where extractive waste is non‑hazardous non‑inert waste, the following provi
 
 (5) Sections 237 and 239 of the 1997 Act (validity of certain decisions and proceedings for questioning their validity) shall have effect in a case to which paragraph (4) applies as if the action mentioned in section 237(3) included any decision of the Scottish Ministers on an application referred to them under that paragraph.
 
-### 11. Waste management plan[^key-cf5addf48122544c3c721a355c1bcc77]
+### 11. Waste management plan[^c-cf5addf48122544c3c721a355c1bcc77]
 
 (1) The waste management plan submitted by the operator of an extractive waste area or waste facility in accordance with regulation 10(2) must plan for the minimisation, treatment, recovery and disposal of extractive waste, take account of the principle of sustainable development, have the objectives in Schedule 1 and include the following—
 
@@ -276,7 +276,7 @@ Where extractive waste is non‑hazardous non‑inert waste, the following provi
   - (ii) to prevent the pollution of soil, surface water and groundwater in accordance with regulation 23(1)(a) to (c) and regulation 23(4), and
   - (iii) to ensure the monitoring of the extractive waste and the excavation void in accordance with regulation 27(a) and (b);
 - (i) the proposed plan for closure, including rehabilitation, after‑closure procedures and monitoring as provided for in regulation 27;
-- (j) measures for the prevention of water status deterioration in accordance with the Water Environment and Water Services (Scotland) Act 2003 and the Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^key-a40f14c94dd8bce68accb8208aee719e] and for the prevention or minimisation of air and soil pollution pursuant to regulation 23(1); and
+- (j) measures for the prevention of water status deterioration in accordance with the Water Environment and Water Services (Scotland) Act 2003 and the Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^c-a40f14c94dd8bce68accb8208aee719e] and for the prevention or minimisation of air and soil pollution pursuant to regulation 23(1); and
 - (k) if categorised as a waste facility, a survey of the condition of the land affected or to be affected by it.
 
 (2) The options for the proposed categorisation are—
@@ -287,21 +287,21 @@ Where extractive waste is non‑hazardous non‑inert waste, the following provi
 
 (3) Where a facility is categorised as a Category A waste facility, whether by the operator or the planning authority, the waste management plan shall include a document demonstrating that a major‑accident prevention policy, a safety management system for implementing that policy and an internal emergency plan, all as described in regulation 18, are in effect or will be put into effect in accordance with that regulation prior to start of operation of that facility.
 
-(4) The operator may satisfy the requirements of paragraphs (1) and (3) by reference in the waste management plan to other documentation in the possession of the operator, and where compliance with other national or EU[^key-3d46202f4093274cee8ca09f14cf8e4a] legislation will require the operator to satisfy any of the requirements of those paragraphs, it will be sufficient for the operator to advise the planning authority of the legislation involved and the parts of the waste management plan which will be satisfied in that way.
+(4) The operator may satisfy the requirements of paragraphs (1) and (3) by reference in the waste management plan to other documentation in the possession of the operator, and where compliance with other national or EU[^c-3d46202f4093274cee8ca09f14cf8e4a] legislation will require the operator to satisfy any of the requirements of those paragraphs, it will be sufficient for the operator to advise the planning authority of the legislation involved and the parts of the waste management plan which will be satisfied in that way.
 
-### 12. Consultations before consideration of applications[^key-604802be9432d8baa9e67e2bacfc3bf2]
+### 12. Consultations before consideration of applications[^c-604802be9432d8baa9e67e2bacfc3bf2]
 
 (1) A planning authority shall place a copy of a waste management plan submitted along with an application to which this Part applies in the register kept pursuant to section 36 of the 1997 Act (registers of applications etc.), and shall place with that plan any further information submitted in respect of that plan.
 
-(2) Before considering an application to which this Part applies, a planning authority shall consult with SEPA and the Health and Safety Executive, and in considering an application a planning authority shall take into account any comments made by those bodies, including whether any of the requirements of these Regulations shall be dealt with under other national legislation or[^key-84f1a83e1f104ec9c8844bd8144b5133] assimilated direct[^key-85506672d2d5f5dab71e09a9ddd86f8f] legislation.
+(2) Before considering an application to which this Part applies, a planning authority shall consult with SEPA and the Health and Safety Executive, and in considering an application a planning authority shall take into account any comments made by those bodies, including whether any of the requirements of these Regulations shall be dealt with under other national legislation or[^c-84f1a83e1f104ec9c8844bd8144b5133] assimilated direct[^c-85506672d2d5f5dab71e09a9ddd86f8f] legislation.
 
-(3) Where it appears to a planning authority that an application to which this Part applies for the operation of a Category A waste facility will, if granted, be likely to have significant adverse effects on the environment of, and any resultant risks to human health in, a[^key-4a14eb1c9f4263a8edd66ad03392d814] member State of the European Union, the planning authority shall as soon as possible forward a copy of the application and related material to the Scottish Ministers, giving details of those adverse effects and health risks.
+(3) Where it appears to a planning authority that an application to which this Part applies for the operation of a Category A waste facility will, if granted, be likely to have significant adverse effects on the environment of, and any resultant risks to human health in, a[^c-4a14eb1c9f4263a8edd66ad03392d814] member State of the European Union, the planning authority shall as soon as possible forward a copy of the application and related material to the Scottish Ministers, giving details of those adverse effects and health risks.
 
-(4) Where the planning authority has forwarded a copy of an application to the Scottish Ministers in accordance with paragraph (3), that authority shall publish on a website maintained by it, as soon as reasonably practicable, notification that the application is subject to consultation with a[^key-7e2e5c7bbde140305cef484a7b6dfd7a] member State and the timescale which will apply to the determination of the application.
+(4) Where the planning authority has forwarded a copy of an application to the Scottish Ministers in accordance with paragraph (3), that authority shall publish on a website maintained by it, as soon as reasonably practicable, notification that the application is subject to consultation with a[^c-7e2e5c7bbde140305cef484a7b6dfd7a] member State and the timescale which will apply to the determination of the application.
 
-### 13. Decision by planning authority[^key-f0caf332569f9430c1c864c45731937e]
+### 13. Decision by planning authority[^c-f0caf332569f9430c1c864c45731937e]
 
-(1) A planning authority shall evaluate the applicant’s ability to meet the objectives of the waste management plan, taking account of the extent to which compliance will be secured through other national legislation or[^key-d54df0d280b707c4820d3eed51a37e46] assimilated direct[^key-4718589f0bf715793a9e513dcd302e6e] legislation, and consider whether the applicant has complied with the requirements of these Regulations.
+(1) A planning authority shall evaluate the applicant’s ability to meet the objectives of the waste management plan, taking account of the extent to which compliance will be secured through other national legislation or[^c-d54df0d280b707c4820d3eed51a37e46] assimilated direct[^c-4718589f0bf715793a9e513dcd302e6e] legislation, and consider whether the applicant has complied with the requirements of these Regulations.
 
 (2) Where regulation 11(3) (Category A waste facilities) applies, the planning authority shall satisfy itself, in considering the documentation submitted under this Part and Part 6, that major-accident hazards are identified and that the necessary features are incorporated into the design, construction, operation and maintenance, closure and after‑closure of the waste facility in order to prevent such accidents and to limit their adverse consequences for human health, the environment, or both, including any transboundary impacts.
 
@@ -314,18 +314,18 @@ Where extractive waste is non‑hazardous non‑inert waste, the following provi
 - (c) where regulation 15 requires a financial guarantee, either the sum required by way of that guarantee, with details of its calculation, or the way in which the amount of that guarantee is to be determined; and
 - (d) any conditions the planning authority determines are necessary to meet the requirements of these Regulations which, except as otherwise provided in Parts 2 and 3, shall not be inconsistent with the mandatory conditions provided in Part 5.
 
-(5) Any decision by a planning authority to grant an application for planning permission does not obviate the need for compliance with any other applicable national legislation or[^key-09b729bda8dfc7ffa2b042c954ba07c5] assimilated direct[^key-1e7e7787391fa6ed38fb91c0c22a1eef] legislation.
+(5) Any decision by a planning authority to grant an application for planning permission does not obviate the need for compliance with any other applicable national legislation or[^c-09b729bda8dfc7ffa2b042c954ba07c5] assimilated direct[^c-1e7e7787391fa6ed38fb91c0c22a1eef] legislation.
 
 ## PART 5 — MANDATORY CONDITIONS AND REVIEW
 
-### 14. Mandatory conditions: general[^key-c098877f26e2e994719ce67f39f77307]
+### 14. Mandatory conditions: general[^c-c098877f26e2e994719ce67f39f77307]
 
 Subject to regulations 5 to 9 (partial application of the Regulations), every planning permission granted in accordance with regulation 13 is deemed to be subject to the conditions that—
 
 - (a) extractive waste be managed in accordance with the waste management plan, and
-- (b) where the permission is in respect of a waste facility, the facility will not commence operations until documentation has been provided to the satisfaction of the planning authority to explain how the applicant will operate the facility to meet the requirements of regulations 22 and 23 and of any other national legislation or[^key-fc1d0eae4710bf6afaeb76946fc140ab] assimilated direct[^key-eed6e23b41a978554685c345d8cb13b1] legislation applicable and referred to in the waste management plan.
+- (b) where the permission is in respect of a waste facility, the facility will not commence operations until documentation has been provided to the satisfaction of the planning authority to explain how the applicant will operate the facility to meet the requirements of regulations 22 and 23 and of any other national legislation or[^c-fc1d0eae4710bf6afaeb76946fc140ab] assimilated direct[^c-eed6e23b41a978554685c345d8cb13b1] legislation applicable and referred to in the waste management plan.
 
-### 15. Financial guarantee[^key-d91927f5ba9cbc01ad9a9db8910bb00c]
+### 15. Financial guarantee[^c-d91927f5ba9cbc01ad9a9db8910bb00c]
 
 (1) Subject to Parts 2 and 3, every planning permission granted in accordance with regulation 13 is deemed to be subject to the condition that the planning authority, prior to the commencement of any operations involving the accumulation of extractive waste in a waste facility, will be provided with a financial guarantee that is adequate to fulfil the purpose set out in paragraph (2).
 
@@ -341,7 +341,7 @@ Subject to regulations 5 to 9 (partial application of the Regulations), every pl
 
 (4) The planning authority shall determine the form of the guarantee, and may accept the provision of a guarantee from an industry-sponsored mutual guarantee fund.
 
-### 16. Review and update of waste management plan[^key-294a5f6baeb217ceb36d3b474ef7b383]
+### 16. Review and update of waste management plan[^c-294a5f6baeb217ceb36d3b474ef7b383]
 
 (1) Every planning permission granted in accordance with regulation 13 is deemed to be subject to the condition that the waste management plan must be reviewed by the operator and updated as appropriate—
 
@@ -355,7 +355,7 @@ Subject to regulations 5 to 9 (partial application of the Regulations), every pl
 
 (3) Any amendments made to the waste management plan, whether as a result of a review or otherwise, shall be notified to the planning authority.
 
-### 17. Review and update of planning permission[^key-cadc2e3c86a178779f0e84d06c2e467a]
+### 17. Review and update of planning permission[^c-cadc2e3c86a178779f0e84d06c2e467a]
 
 (1) Every planning permission granted in accordance with regulation 13 in respect of a waste facility is deemed to be subject to the condition that the operator shall notify the planning authority of any substantial change in the operation of the facility or the waste deposited, along with such details as are required to allow the planning authority to review the requirements imposed in pursuance of these Regulations in respect of a permission granted under regulation 13.
 
@@ -375,7 +375,7 @@ and in every case shall undertake such review not later than five years after th
 
 ## PART 6 — ADDITIONAL REQUIREMENTS FOR CATEGORY A WASTE FACILITIES
 
-### 18. Major-accident prevention policy, safety management system and internal emergency plan[^key-0b9127cf9b78bdc451ece721ec35b796]
+### 18. Major-accident prevention policy, safety management system and internal emergency plan[^c-0b9127cf9b78bdc451ece721ec35b796]
 
 (1) Where an applicant intends to operate a Category A waste facility, prior to start of operation of that facility the operator must draw up a major-accident prevention policy, put into effect a safety management system to implement that policy, and must also put into effect an internal emergency plan specifying the measures to be taken on site in the event of an emergency.
 
@@ -395,7 +395,7 @@ and in every case shall undertake such review not later than five years after th
 
 (5) Copies of the major-accident prevention policy, the safety management system and the internal emergency plan must be provided to the department which is responsible for emergency planning of the local authority in whose area the Category A waste facility is located.
 
-### 19. External emergency plan[^key-e7487827aff47a99d6d2de22c565f218]
+### 19. External emergency plan[^c-e7487827aff47a99d6d2de22c565f218]
 
 (1) An external emergency plan must be drawn up by the emergency planning department referred to in regulation 18(5), using the information provided by the operator when making the application referred to in regulation 10.
 
@@ -405,7 +405,7 @@ and in every case shall undertake such review not later than five years after th
 
 (4) In the event of a major accident, the operator must immediately provide that department with all information required to help minimise the consequences of the accident for human health and to allow the assessment and minimisation of the actual and potential extent of the environmental damage.
 
-### 20. Public consultation and public information[^key-e0d950b8905bcd10cf2027abd8d9a6c3]
+### 20. Public consultation and public information[^c-e0d950b8905bcd10cf2027abd8d9a6c3]
 
 (1) The public concerned will be provided with early and effective opportunities to participate in the preparation and review of the external emergency plan to be drawn up in accordance with regulation 19.
 
@@ -419,9 +419,9 @@ and in every case shall undertake such review not later than five years after th
 
 (6) The information referred to in paragraph (4) must be reviewed by the operator at least every three years and updated as necessary.
 
-### 21. Co-operation with ... member States[^key-3ad67ae3db8c176ba34bd90f876860ef][^key-f698f9aa65bacf3a7f780eb3d1d2d58d]
+### 21. Co-operation with ... member States[^c-3ad67ae3db8c176ba34bd90f876860ef][^c-f698f9aa65bacf3a7f780eb3d1d2d58d]
 
-(1) Where the local authority referred to in regulation 18(5) becomes aware of an accident involving a Category A waste facility which is likely to have significant adverse effects on the environment of, and any resultant risks to human health in, a[^key-090057318ab9f8d87a52fa406c275aa3] member State of the European Union, the local authority must immediately notify the Scottish Ministers.
+(1) Where the local authority referred to in regulation 18(5) becomes aware of an accident involving a Category A waste facility which is likely to have significant adverse effects on the environment of, and any resultant risks to human health in, a[^c-090057318ab9f8d87a52fa406c275aa3] member State of the European Union, the local authority must immediately notify the Scottish Ministers.
 
 (2) A notification under paragraph (1) must provide a copy of all information provided to that local authority pursuant to regulation 19(4).
 
@@ -429,13 +429,13 @@ and in every case shall undertake such review not later than five years after th
 
 ## PART 7 — CONSTRUCTION AND MANAGEMENT
 
-### 22. Construction and management: duties of operator[^key-f4ec9f0bd3002a5709267a99f5f046e7]
+### 22. Construction and management: duties of operator[^c-f4ec9f0bd3002a5709267a99f5f046e7]
 
 (1) The operator of any waste facility shall ensure, in constructing a new waste facility or modifying an existing waste facility, that the following requirements are met—
 
 - (a) the management of the waste facility is in the hands of a competent person;
 - (b) the requisite technical development and training of staff is provided;
-- (c) the waste facility is suitably located, taking into account in particular [^key-51dc5b9a1aff0ad83f9d2c7342e5f222]... national obligations relating to protected areas, and geological, hydrological, seismic and geotechnical factors and is designed to meet the necessary conditions for, in the short and long term perspectives, preventing pollution of the soil, air, groundwater or surface water in accordance with Directive[^key-bd25654c4c0ce69b051d4cd8f70124b4] [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) and ensuring efficient collection of contaminated water and leachate as and when required under the planning permission, and reducing erosion caused by water or wind as far as it is technically possible and economically viable;
+- (c) the waste facility is suitably located, taking into account in particular [^c-51dc5b9a1aff0ad83f9d2c7342e5f222]... national obligations relating to protected areas, and geological, hydrological, seismic and geotechnical factors and is designed to meet the necessary conditions for, in the short and long term perspectives, preventing pollution of the soil, air, groundwater or surface water in accordance with Directive[^c-bd25654c4c0ce69b051d4cd8f70124b4] [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) and ensuring efficient collection of contaminated water and leachate as and when required under the planning permission, and reducing erosion caused by water or wind as far as it is technically possible and economically viable;
 - (d) the waste facility is suitably constructed, managed and maintained to ensure its physical stability and to prevent pollution or contamination of soil, air, surface water or groundwater in the short and long‑term perspectives as well as to minimise as far as possible damage to landscape;
 - (e) there are suitable plans and arrangements for regular monitoring and inspection of the waste facility by competent persons and for taking action in the event of results indicating instability or water or soil contamination;
 - (f) up-to-date records are kept of all waste management operations, which are available for inspection by the planning authority on request;
@@ -456,7 +456,7 @@ and in every case shall undertake such review not later than five years after th
 - (c) follow any instruction from the local authority as to the corrective measures to be taken; and
 - (d) be liable for the costs of the measures undertaken.
 
-### 23. Prevention of water status deterioration, air and soil pollution[^key-1de9a253f3981a6b3baf7497abd7858f]
+### 23. Prevention of water status deterioration, air and soil pollution[^c-1de9a253f3981a6b3baf7497abd7858f]
 
 (1) In providing documentation to the planning authority (or, where appropriate, SEPA) in accordance with a condition attached by virtue of regulation 14, the operator shall provide evidence, both prior to the commencement of any operations and during operations demonstrating, where applicable, compliance with the Water Environment and Water Services (Scotland) Act 2003[^f00021] and the Water Environment (Controlled Activities) (Scotland) Regulations 2005[^f00022], through—
 
@@ -465,17 +465,17 @@ and in every case shall undertake such review not later than five years after th
 - (c) collection and treatment of contaminated water and leachate from the waste facility to the appropriate standard required for their discharge; and
 - (d) the taking of adequate measures to prevent or reduce dust and gas emissions.
 
-(2) The planning authority (or, where appropriate, SEPA) may reduce or waive compliance with the requirements of paragraph (1)(b) and (c), during both the operational and after-closure phases, where it has assessed environmental risks, taking into account in particular and as applicable Directive[^key-7c75d78bb627111f4f2e90a0b7836dfb] [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060), and has decided that—
+(2) The planning authority (or, where appropriate, SEPA) may reduce or waive compliance with the requirements of paragraph (1)(b) and (c), during both the operational and after-closure phases, where it has assessed environmental risks, taking into account in particular and as applicable Directive[^c-7c75d78bb627111f4f2e90a0b7836dfb] [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060), and has decided that—
 
 - (a) the collection and treatment of leachate is not necessary, or
 - (b) it has been established that the waste facility poses no potential hazard to soil, groundwater or surface water.
 
-(3) Where the operator disposes or intends to dispose of extractive waste, whether in solid, slurry or liquid form, into any receiving body of water other than one constructed for the purpose of disposing of extractive waste, the operator shall provide and submit evidence to demonstrate that the operator has complied, or will on disposal comply, with Directive[^key-2de987c013e07d7862bfcaad127cca9a] [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060).
+(3) Where the operator disposes or intends to dispose of extractive waste, whether in solid, slurry or liquid form, into any receiving body of water other than one constructed for the purpose of disposing of extractive waste, the operator shall provide and submit evidence to demonstrate that the operator has complied, or will on disposal comply, with Directive[^c-2de987c013e07d7862bfcaad127cca9a] [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060).
 
 (4) Where the operator places or intends to place extractive waste back into excavation voids, whether created through surface or underground extraction and which will be allowed to flood after closure, the operator shall provide and submit evidence to demonstrate—
 
 - (a) that the operator has taken, or will when the extractive waste is so placed take, the necessary measures to prevent or minimise water status deterioration and soil pollution in accordance with paragraphs (1)(b), (c) and (d), insofar as applicable; and
-- (b)[^key-8e3c6ed388ab59201c06287d283b9609] compliance with assimilated direct[^key-bf6b6d39a2540a937a3663d19a3996d8] legislation.
+- (b)[^c-8e3c6ed388ab59201c06287d283b9609] compliance with assimilated direct[^c-bf6b6d39a2540a937a3663d19a3996d8] legislation.
 
 (5) Where the operator manages or intends to manage a pond involving the presence of cyanide, the operator shall provide and submit evidence to demonstrate—
 
@@ -484,7 +484,7 @@ and in every case shall undertake such review not later than five years after th
 
 (6) Where the planning authority so requests, the operator shall demonstrate through a risk assessment that takes site‑specific conditions into account that the concentration limits in paragraph (5)(b) need not be further lowered.
 
-### 24. Construction and management: inspection by the planning authority[^key-fc818eb56d5af625fb0a56874d23846e]
+### 24. Construction and management: inspection by the planning authority[^c-fc818eb56d5af625fb0a56874d23846e]
 
 (1) Prior to commencement of deposit operations, and annually thereafter*,* the planning authority must inspect each waste facility for which permission has been granted in consequence of an application under regulation 10, to ensure that the operator is complying with the conditions of that permission and implementing the waste management plan.
 
@@ -494,7 +494,7 @@ and in every case shall undertake such review not later than five years after th
 
 ## PART 8 — CLOSURE AND AFTER-CLOSURE OF WASTE FACILITIES
 
-### 25. Closure procedures: duties of operator[^key-0df63b905b74a3465deb4b90b5d31564]
+### 25. Closure procedures: duties of operator[^c-0df63b905b74a3465deb4b90b5d31564]
 
 An operator shall only commence the closure of a waste facility if at least one of the following conditions is met—
 
@@ -502,7 +502,7 @@ An operator shall only commence the closure of a waste facility if at least one 
 - (b) authorisation is granted by the planning authority, at the request of the operator;
 - (c) the planning authority issues a reasoned decision to that effect.
 
-### 26. Closure and after-closure procedures: duties of planning authority[^key-ffb37a2929015c29c9c29a3ea983fad7]
+### 26. Closure and after-closure procedures: duties of planning authority[^c-ffb37a2929015c29c9c29a3ea983fad7]
 
 (1) Where an operator requests that a waste facility be regarded as finally closed, the planning authority shall without undue delay—
 
@@ -523,12 +523,12 @@ An operator shall only commence the closure of a waste facility if at least one 
 
 (6) The planning authority shall determine whether the operator is to provide reports under regulation 27(f) and, if so, what the frequency of those reports is to be.
 
-### 27. After‑closure procedures: duties of operator[^key-7c840ae88f8091b7f5878831ceefa5b4]
+### 27. After‑closure procedures: duties of operator[^c-7c840ae88f8091b7f5878831ceefa5b4]
 
 Following closure of a waste facility the operator shall—
 
 - (a) remain responsible for the maintenance, monitoring, control and corrective measures for as long as the planning authority requires;
-- (b) where considered necessary by the planning authority, in order to fulfil relevant environmental requirements, as set out in Directive[^key-8dfb56ddd35179b1acf1c44b428f047d] [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060), the operator shall control the physical and chemical stability of the facility and minimise any negative environmental effect, in particular with respect to surface and groundwater, by ensuring that—
+- (b) where considered necessary by the planning authority, in order to fulfil relevant environmental requirements, as set out in Directive[^c-8dfb56ddd35179b1acf1c44b428f047d] [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060), the operator shall control the physical and chemical stability of the facility and minimise any negative environmental effect, in particular with respect to surface and groundwater, by ensuring that—
   - (i) all the structures pertaining to the facility are monitored and conserved, with control and measuring apparatus always ready for use; and
   - (ii) where applicable, overflow channels and spillways are kept clean and free;
 - (c) evaluate the leachate generation potential, including contaminant content of the leachate, of the deposited waste, and determine the water balance of the waste facility;
@@ -539,7 +539,7 @@ Following closure of a waste facility the operator shall—
   - (iii) accept financial liability for the costs of the measures in sub-paragraphs (i) and (ii); and
 - (f) report to the planning authority, if it so requires and at a frequency determined by it, on the basis of aggregated data, all monitoring results for the purposes of demonstrating compliance with planning conditions and increasing knowledge of waste and waste facility behaviour.
 
-### 28. Inventory of closed waste facilities[^key-f0ab2e840967ba71305576b0796a20ef]
+### 28. Inventory of closed waste facilities[^c-f0ab2e840967ba71305576b0796a20ef]
 
 (1) The planning authority shall prepare and maintain an inventory of closed waste facilities, including abandoned waste facilities, in its area which cause serious negative environmental impacts or have the potential of becoming in the medium or short term a serious threat to human health or the environment.
 
@@ -549,7 +549,7 @@ Following closure of a waste facility the operator shall—
 
 ## PART 9 — APPEALS, ENFORCEMENT AND GENERAL PROVISION
 
-### 29. Appeals[^key-f9f371d08b5ed677a64085f8a37cb9ca]
+### 29. Appeals[^c-f9f371d08b5ed677a64085f8a37cb9ca]
 
 (1) An operator may appeal to the Scottish Ministers against—
 
@@ -567,7 +567,7 @@ Following closure of a waste facility the operator shall—
 
 (3) Paragraphs 18 and 21(3) of Schedule 8 to the 1997 Act (determination of appeals) shall apply to appeals under paragraph (1) as they apply to appeals under paragraph 17 of that Schedule, and for their purposes an appeal under paragraph (1)(c)(ii) shall be deemed to be against a decision to refuse the application in question.
 
-### 30. Enforcement[^key-39271d5d0532f46eda69b013b2566ec4]
+### 30. Enforcement[^c-39271d5d0532f46eda69b013b2566ec4]
 
 For the purposes of these Regulations, Part 6 of the 1997 Act (enforcement) applies, and the following shall be treated as constituting a breach of planning control for the purposes of the application of that Part—
 
@@ -576,7 +576,7 @@ For the purposes of these Regulations, Part 6 of the 1997 Act (enforcement) app
 - (c) in the case of an extractive waste area or waste facility to which regulation 5(2) applies, commencing or continuing operations after 30th April 2012 without the approval of the planning authority for a waste management plan in respect of that area or facility;
 - (d) in the case of a waste facility to which regulation 5(4) applies, continuing to operate that facility after 30th April 2012 without the planning permission required by that regulation.
 
-### 31. Compensation[^key-3f279b0c2017fa37cdce65cfa6de6f4b]
+### 31. Compensation[^c-3f279b0c2017fa37cdce65cfa6de6f4b]
 
 (1) This regulation shall apply where the requirements in paragraph (2) are met and—
 
@@ -598,7 +598,7 @@ For the purposes of these Regulations, Part 6 of the 1997 Act (enforcement) app
 
 (5) For the purposes of Schedule 13 of the 1997 Act (regulations as to compensation) and of any regulations made under that Schedule, the permissions treated as being modified by the order mentioned in paragraph (4) shall be treated as if they were planning permissions for development which neither consists of nor includes any minerals development.
 
-### 32. Electronic communications[^key-2143cf976d5a68ec0578020dde0fb9fa]
+### 32. Electronic communications[^c-2143cf976d5a68ec0578020dde0fb9fa]
 
 (1) Where the criteria in paragraph (2) are met, any document required or authorised to be sent by these Regulations may be sent by electronic communications and any requirement in these Regulations that any document is to be in writing is fulfilled.
 
@@ -635,36 +635,36 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE 1 — WASTE MANAGEMENT PLAN: OBJECTIVES[^key-56ee6d012c2d373ac83e5ab51faf768b]
+## SCHEDULE 1 — WASTE MANAGEMENT PLAN: OBJECTIVES[^c-56ee6d012c2d373ac83e5ab51faf768b]
 
 Regulation 11(1)
 
-[^key-56ee6d012c2d373ac83e5ab51faf768b]
+[^c-56ee6d012c2d373ac83e5ab51faf768b]
 
 The objectives of the waste management plan are—
 
 - (a) to prevent or reduce waste production and its harmfulness, in particular by considering—
   - (i) waste management in the design phase and in the choice of the method used for mineral extraction and treatment;
   - (ii) the changes that the extractive waste may undergo in relation to an increase in surface area and exposure to conditions above ground;
-  - (iii) placing extractive waste back into the excavation void after extraction of the mineral, as far as is technically and economically feasible and environmentally sound in accordance with existing environmental standards in[^key-b8d29109614899e3a55e2f15fe1422b7] assimilated direct[^key-d83a74f8aee820d9c9d086ba02ef6a8a] legislation and with the requirements of these Regulations where relevant;
+  - (iii) placing extractive waste back into the excavation void after extraction of the mineral, as far as is technically and economically feasible and environmentally sound in accordance with existing environmental standards in[^c-b8d29109614899e3a55e2f15fe1422b7] assimilated direct[^c-d83a74f8aee820d9c9d086ba02ef6a8a] legislation and with the requirements of these Regulations where relevant;
   - (iv) in respect of a waste facility, putting topsoil back in place after its closure or, if this is not practically feasible, reusing topsoil elsewhere;
   - (v) using less dangerous substances for the treatment of mineral resources;
-- (b) to encourage the recovery of extractive waste by means of recycling, reusing or reclaiming such waste, where this is environmentally sound in accordance with existing environmental standards in assimilated direct[^key-48c7db2ad24f6de4dc49939bce8d0554] legislation and with the requirements of these Regulations where relevant; and
+- (b) to encourage the recovery of extractive waste by means of recycling, reusing or reclaiming such waste, where this is environmentally sound in accordance with existing environmental standards in assimilated direct[^c-48c7db2ad24f6de4dc49939bce8d0554] legislation and with the requirements of these Regulations where relevant; and
 - (c) to ensure short and long‑term safe disposal of the extractive waste, in particular in respect of a waste facility by considering, during the design phase, management during the operation and after‑closure of the facility and by choosing a design which—
   - (i) requires minimal and, if possible, ultimately no monitoring, control and management of the closed waste facility;
   - (ii) prevents or at least minimises any long‑term negative effects, for example attributable to migration of airborne or aquatic pollutants from the waste facility; and
   - (iii) ensures the long‑term geotechnical stability of any dams or heaps rising above the pre‑existing ground surface.
 
-## SCHEDULE 2 — WASTE CHARACTERISATION[^key-a930a8371e8a8c9c5f36c4f10515e273]
+## SCHEDULE 2 — WASTE CHARACTERISATION[^c-a930a8371e8a8c9c5f36c4f10515e273]
 
 Regulation 11(1)(e)
 
-[^key-a930a8371e8a8c9c5f36c4f10515e273]
+[^c-a930a8371e8a8c9c5f36c4f10515e273]
 
 The waste to be deposited in a waste facility shall be characterised in such a way as to guarantee the long‑term physical and chemical stability of the structure of the facility and to prevent major accidents. The waste characterisation shall include, where appropriate and in accordance with the category of the facility, the following aspects—
 
 - (a) a description of the expected physical and chemical characteristics of the waste to be deposited in the short and long term, with particular reference to its stability under surface atmospheric/meteorological conditions, taking account of the type of mineral or minerals to be extracted and the nature of any overburden and/or gangue minerals that will be displaced in the course of the extractive operations;
-- (b)[^key-c2f84575d36c4d1324d267c5ae5a0dc3] a description of the waste using—
+- (b)[^c-c2f84575d36c4d1324d267c5ae5a0dc3] a description of the waste using—
   - (i) the classification of waste according to the European Waste Catalogue with particular regard to its hazardous characteristics;
   - (ii) a reference to the notice published or provided by the Scottish Ministers in relation to a determination made by them under regulation 2ZA, 2ZB or 2ZC of the 1996 Regulations;
   - (iii) evidence that in relation to Wales, England or Northern Ireland the waste is for the time being subject to a determination, made in a manner prescribed in regulation 2ZB(3) of the 1996 Regulations, that it is hazardous;
@@ -677,13 +677,13 @@ The waste to be deposited in a waste facility shall be characterised in such a w
 
 Regulation 18(2)
 
-**1.**[^key-6185a36d906dd5c3edd6747fb8b614b5] The operator’s major‑accident prevention policy and safety management system should be proportionate to the major‑accident hazards presented by the waste facility. For the purpose of implementing them, account shall be taken of the following elements.
+**1.**[^c-6185a36d906dd5c3edd6747fb8b614b5] The operator’s major‑accident prevention policy and safety management system should be proportionate to the major‑accident hazards presented by the waste facility. For the purpose of implementing them, account shall be taken of the following elements.
 
-**2.**[^key-5608a25d2ed6e4c572f537dbba1e9650] The major‑accident prevention policy should include the operator’s overall aims and principles of action with respect to the control of major‑accident hazards.
+**2.**[^c-5608a25d2ed6e4c572f537dbba1e9650] The major‑accident prevention policy should include the operator’s overall aims and principles of action with respect to the control of major‑accident hazards.
 
-**3.**[^key-b2e419f3c84e781fff90241f336949e2] The safety management system should include the part of the general management system which includes the organisational structure, responsibilities, practices, procedures, processes and resources for determining and implementing the major‑accident prevention policy.
+**3.**[^c-b2e419f3c84e781fff90241f336949e2] The safety management system should include the part of the general management system which includes the organisational structure, responsibilities, practices, procedures, processes and resources for determining and implementing the major‑accident prevention policy.
 
-**4.**[^key-3fffa14e96466bd920c65c27e33cb763] The following issues shall be addressed by the safety management system—
+**4.**[^c-3fffa14e96466bd920c65c27e33cb763] The following issues shall be addressed by the safety management system—
 
 - (a) organisation and personnel – the roles and responsibilities of personnel involved in the management of major hazards at all levels in the organisation; identification of training needs of such personnel and the provision of the training so identified; and involvement of employees and, where appropriate, subcontractors;
 - (b) identification and evaluation of major hazards – adoption and implementation of procedures for systematically identifying major hazards arising from normal and abnormal operations and assessment of their likelihood and severity;
@@ -697,27 +697,27 @@ Regulation 18(2)
 
 Regulation 20(4)
 
-**1.**[^key-95059c4b1b7478f8d9d85ce63b94c881] Name of operator and address of the waste facility.
+**1.**[^c-95059c4b1b7478f8d9d85ce63b94c881] Name of operator and address of the waste facility.
 
-**2.**[^key-dc9f4c3acb16874f4cba45efa018ae0d] Identification, by position held, of the person providing the information.
+**2.**[^c-dc9f4c3acb16874f4cba45efa018ae0d] Identification, by position held, of the person providing the information.
 
-**3.**[^key-ea8c2ebd1ee47f3cb83b1e0a199afdd7] Confirmation that the waste facility is subject to these Regulations and, when applicable, that the information relevant to the elements referred to in regulation 13(2) has been submitted to the planning authority.
+**3.**[^c-ea8c2ebd1ee47f3cb83b1e0a199afdd7] Confirmation that the waste facility is subject to these Regulations and, when applicable, that the information relevant to the elements referred to in regulation 13(2) has been submitted to the planning authority.
 
-**4.**[^key-84e4c1b1b9005c6a72bb126074937c0c] An explanation in clear and simple terms of the activity or activities undertaken at the site.
+**4.**[^c-84e4c1b1b9005c6a72bb126074937c0c] An explanation in clear and simple terms of the activity or activities undertaken at the site.
 
-**5.**[^key-1d756d21abbb0e70e6184ab11407c786] The common names or the generic names or the general danger classification of the substances and preparations involved at the waste facility as well as waste which could give rise to a major accident, with an indication of their principal dangerous characteristics.
+**5.**[^c-1d756d21abbb0e70e6184ab11407c786] The common names or the generic names or the general danger classification of the substances and preparations involved at the waste facility as well as waste which could give rise to a major accident, with an indication of their principal dangerous characteristics.
 
-**6.**[^key-b7bd978e8fd9d60a4ae0d26aa5011ab7] General information relating to the nature of the major‑accident hazards, including their potential effects on the surrounding population and environment.
+**6.**[^c-b7bd978e8fd9d60a4ae0d26aa5011ab7] General information relating to the nature of the major‑accident hazards, including their potential effects on the surrounding population and environment.
 
-**7.**[^key-3e08fe1d31010a1292c1a694d1b82348] Adequate information on how the surrounding population concerned are to be warned and kept informed in the event of a major accident.
+**7.**[^c-3e08fe1d31010a1292c1a694d1b82348] Adequate information on how the surrounding population concerned are to be warned and kept informed in the event of a major accident.
 
-**8.**[^key-576be17a97367e5b9d5e6a0430d6f81d] Adequate information on the actions the surrounding population concerned should take, and on the behaviour they should adopt, in the event of a major accident.
+**8.**[^c-576be17a97367e5b9d5e6a0430d6f81d] Adequate information on the actions the surrounding population concerned should take, and on the behaviour they should adopt, in the event of a major accident.
 
-**9.**[^key-217a76589a0d2dba8f3fb4fa00ea7f92] Confirmation that the operator is required to make adequate arrangements on site, in particular liaison with the emergency services, to deal with major accidents and to minimise their effects.
+**9.**[^c-217a76589a0d2dba8f3fb4fa00ea7f92] Confirmation that the operator is required to make adequate arrangements on site, in particular liaison with the emergency services, to deal with major accidents and to minimise their effects.
 
-**10.**[^key-f29d8b42246db5100184f97ce836c42c] A reference to the external emergency plan drawn up to cope with any off‑site effects from an accident, which should include advice to co‑operate with any instructions or requests from the emergency services at the time of an accident.
+**10.**[^c-f29d8b42246db5100184f97ce836c42c] A reference to the external emergency plan drawn up to cope with any off‑site effects from an accident, which should include advice to co‑operate with any instructions or requests from the emergency services at the time of an accident.
 
-**11.**[^key-08372872069ceaa6244a30802a0e3aa5] Details of where further relevant information can be obtained, subject to any duty of confidentiality which prohibits disclosure.
+**11.**[^c-08372872069ceaa6244a30802a0e3aa5] Details of where further relevant information can be obtained, subject to any duty of confidentiality which prohibits disclosure.
 
 EXPLANATORY NOTE
 
@@ -773,224 +773,224 @@ A regulatory impact assessment has been prepared and placed in the Scottish Parl
 
 [^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15.(3). The functions conferred upon the Minister of the Crown under section 2(2) of the European Community Act 1972, insofar as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-cefea58d4e7d7ed9e48d30484facbd70]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/60/regulation/1) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-cefea58d4e7d7ed9e48d30484facbd70]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/60/regulation/1) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-87b92ac4727cf4cb5e49bac2f9c4bd1c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/60/regulation/2) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-87b92ac4727cf4cb5e49bac2f9c4bd1c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/60/regulation/2) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-14ad68552dfbdaf2e906bb754b697680]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) inserted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14ad68552dfbdaf2e906bb754b697680]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) inserted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00002]: Footnote: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8), to which there are amendments which are not relevant to these Regulations.
 
-[^key-44ffff485b02aad8fabce1e4832a80b6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-44ffff485b02aad8fabce1e4832a80b6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6b70a3de7300a5b395245a2e589af954]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/a/i)
+[^c-6b70a3de7300a5b395245a2e589af954]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/a/i)
 
-[^key-2bcf6627aee74ad6cb51022f7f58cecf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [sch. para. 26(a)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/26/a)
+[^c-2bcf6627aee74ad6cb51022f7f58cecf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [sch. para. 26(a)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/26/a)
 
-[^key-6da8662b39b67ec2971d7d578586208c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/a/ii)
+[^c-6da8662b39b67ec2971d7d578586208c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/a/ii)
 
-[^key-db66b5e14701f55ae7ce85e955792065]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(b)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/b)
+[^c-db66b5e14701f55ae7ce85e955792065]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(b)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/b)
 
-[^key-79e699ca3190f11ac24720491b34d5de]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) omitted (30.10.2019) by virtue of [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(c)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/c)
+[^c-79e699ca3190f11ac24720491b34d5de]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) omitted (30.10.2019) by virtue of [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(c)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/c)
 
-[^key-b592bd746ffd1141541cf8daf98aec9c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) omitted (30.10.2019) by virtue of [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(d)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/d)
+[^c-b592bd746ffd1141541cf8daf98aec9c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) omitted (30.10.2019) by virtue of [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(d)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/d)
 
-[^key-da144074d2a572b78bda4661665d7329]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) omitted (30.10.2019) by virtue of [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(e)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/e)
+[^c-da144074d2a572b78bda4661665d7329]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) omitted (30.10.2019) by virtue of [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(e)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/e)
 
-[^key-fa6714e067eb7f66836d5f3eb98b3b80]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) omitted (27.3.2011) by virtue of [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [sch. para. 26(b)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/26/b)
+[^c-fa6714e067eb7f66836d5f3eb98b3b80]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) omitted (27.3.2011) by virtue of [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [sch. para. 26(b)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/26/b)
 
-[^key-a82f2034e37ffc4b2b0b7c3b4cdb05ab]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) omitted (30.10.2019) by virtue of [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(f)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/f)
+[^c-a82f2034e37ffc4b2b0b7c3b4cdb05ab]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) omitted (30.10.2019) by virtue of [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(f)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/f)
 
 [^f00013]: Footnote: O.J. No. L 327, 22.12.2000, p.1 as amended by Directive [2008/105/EC](https://www.legislation.gov.uk/european/directive/2008/0105) of the European Parliament and of the Council (O.J. No. L 348, 24.12.2008, p.84).
 
-[^key-e15528f76bbec68aed5948c1d65367b1]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(2)(c)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/2/c) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e15528f76bbec68aed5948c1d65367b1]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(2)(c)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/2/c) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee3f001ee3c3bf92ece4fde55a199551]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (8.6.2015) by [The Waste (Meaning of Hazardous Waste and European Waste Catalogue) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/188)](https://www.legislation.gov.uk/ssi/2015/188), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/188/regulation/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2015/188/regulation/8/2)
+[^c-ee3f001ee3c3bf92ece4fde55a199551]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (8.6.2015) by [The Waste (Meaning of Hazardous Waste and European Waste Catalogue) (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/188)](https://www.legislation.gov.uk/ssi/2015/188), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/188/regulation/1/1), [8(2)](https://www.legislation.gov.uk/ssi/2015/188/regulation/8/2)
 
-[^key-ac91ff01d4d5716f399677855eb350fa]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(2)(d)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/2/d) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ac91ff01d4d5716f399677855eb350fa]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(2)(d)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/2/d) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ed7ced79a012d626492d4617fd74a5a5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) inserted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(g)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/g)
+[^c-ed7ced79a012d626492d4617fd74a5a5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) inserted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(g)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/g)
 
-[^key-b53fb4189957534b41ea12893112f9ba]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(2)(e)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/2/e) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b53fb4189957534b41ea12893112f9ba]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(2)(e)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/2/e) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-90c77523fe01604fd12f98691cba9d10]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) inserted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(2)(f)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/2/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-90c77523fe01604fd12f98691cba9d10]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) inserted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(2)(f)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/2/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-00b582db948e57f75af1ce7d14de5cb4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [sch. para. 26(d)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/26/d)
+[^c-00b582db948e57f75af1ce7d14de5cb4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [sch. para. 26(d)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/26/d)
 
 [^f00014]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-78ecd5cea4041c0c1568f7eff2185d21]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) inserted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(h)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/h)
+[^c-78ecd5cea4041c0c1568f7eff2185d21]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) inserted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [3(h)](https://www.legislation.gov.uk/ssi/2019/273/regulation/3/h)
 
-[^key-8bba12a99c90b5768b821bae1c31432a]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(2)(g)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/2/g) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8bba12a99c90b5768b821bae1c31432a]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(2)(g)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/2/g) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e5d36764142b05b2cc575733272d5c68]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/2)
+[^c-e5d36764142b05b2cc575733272d5c68]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/2)
 
-[^key-d2c83ea5faa6372a435f02d114d93e85]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [sch. para. 26(e)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/26/e)
+[^c-d2c83ea5faa6372a435f02d114d93e85]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/1) substituted (27.3.2011) by [The Waste (Scotland) Regulations 2011 (S.S.I. 2011/226)](https://www.legislation.gov.uk/ssi/2011/226), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/226/regulation/1/1), [sch. para. 26(e)](https://www.legislation.gov.uk/ssi/2011/226/schedule/paragraph/26/e)
 
-[^key-adac9e1dfed83859f43ff79777131f1d]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/2) omitted (31.12.2020) by virtue of [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-adac9e1dfed83859f43ff79777131f1d]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2010/60/regulation/2/2) omitted (31.12.2020) by virtue of [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(3)(a)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e6cf8b6ab062c7dda0cd1088659c1cf7]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/3/b) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e6cf8b6ab062c7dda0cd1088659c1cf7]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [8(3)(b)](https://www.legislation.gov.uk/ssi/2019/273/regulation/8/3/b) (as amended by [S.S.I. 2020/310](https://www.legislation.gov.uk/ssi/2020/310), [regs. 1](https://www.legislation.gov.uk/ssi/2020/310/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/310/regulation/3/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3d22e2f3f70f37ef7072203b922765a1]: Commencement: [Reg. 3(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/3/1) in force at 1.5.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/2)
+[^c-3d22e2f3f70f37ef7072203b922765a1]: Commencement: [Reg. 3(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/3/1) in force at 1.5.2012, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/2)
 
-[^key-b63b63ab9bbf50cc1fcd555d2d66ba99]: Commencement: [Reg. 3(2)-(4)](https://www.legislation.gov.uk/ssi/2010/60/regulation/3/2) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-b63b63ab9bbf50cc1fcd555d2d66ba99]: Commencement: [Reg. 3(2)-(4)](https://www.legislation.gov.uk/ssi/2010/60/regulation/3/2) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 1992/223](https://www.legislation.gov.uk/uksi/1992/223); paragraph 10 was added by [S.I. 1997/1871](https://www.legislation.gov.uk/uksi/1997/1871) article 3(a). There are other amendments which are not relevant to these Regulations.
 
-[^key-409f74f9f504bdb19c33b4af271fc7fd]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2010/60/regulation/3/2) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-409f74f9f504bdb19c33b4af271fc7fd]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2010/60/regulation/3/2) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-caf83fa633db1c7b2e4db9672dee154d]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/3/3) revoked (30.6.2013) by [The Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013 (S.S.I. 2013/155)](https://www.legislation.gov.uk/ssi/2013/155), [reg. 1](https://www.legislation.gov.uk/ssi/2013/155/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2013/155/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2013/155/regulation/2), [49](https://www.legislation.gov.uk/ssi/2013/155/regulation/49), [51(2)-(4)](https://www.legislation.gov.uk/ssi/2013/155/regulation/51/2))
+[^c-caf83fa633db1c7b2e4db9672dee154d]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/3/3) revoked (30.6.2013) by [The Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013 (S.S.I. 2013/155)](https://www.legislation.gov.uk/ssi/2013/155), [reg. 1](https://www.legislation.gov.uk/ssi/2013/155/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2013/155/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2013/155/regulation/2), [49](https://www.legislation.gov.uk/ssi/2013/155/regulation/49), [51(2)-(4)](https://www.legislation.gov.uk/ssi/2013/155/regulation/51/2))
 
-[^key-57587ec16564b00a6f64a09a7812fedd]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/ssi/2010/60/regulation/3/4) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-57587ec16564b00a6f64a09a7812fedd]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/ssi/2010/60/regulation/3/4) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-87d119f8f581a7350d3fe198258086ff]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/60/regulation/4) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-87d119f8f581a7350d3fe198258086ff]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2010/60/regulation/4) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-84a50e820a564315c688672da3151130]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/60/regulation/5) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-84a50e820a564315c688672da3151130]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2010/60/regulation/5) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-ecf90e3479348de57567c16de15f4c65]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/ssi/2010/60/regulation/5/3/b) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2019/273/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ecf90e3479348de57567c16de15f4c65]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/ssi/2010/60/regulation/5/3/b) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2019/273/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d791004dba8206a34636c0f398bcedec]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/ssi/2010/60/regulation/5/3/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/3)
+[^c-d791004dba8206a34636c0f398bcedec]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/ssi/2010/60/regulation/5/3/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/3)
 
-[^key-ed97f9fe8ba17af7a78e9c6d9987ac60]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/60/regulation/6) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-ed97f9fe8ba17af7a78e9c6d9987ac60]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2010/60/regulation/6) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-c52f7b445c36e6dfd1b4a1aa2316e068]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/60/regulation/7) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-c52f7b445c36e6dfd1b4a1aa2316e068]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/60/regulation/7) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-21821d1b202d3eee4858f90f59fe7c6a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2010/60/regulation/8) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-21821d1b202d3eee4858f90f59fe7c6a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2010/60/regulation/8) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-4e35e165764dd674ccbc0324a094ddf4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2010/60/regulation/9) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-4e35e165764dd674ccbc0324a094ddf4]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2010/60/regulation/9) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-b34cfdd1a2a15f480de26bf8f3707d41]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2010/60/regulation/10) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-b34cfdd1a2a15f480de26bf8f3707d41]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2010/60/regulation/10) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-cf5addf48122544c3c721a355c1bcc77]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2010/60/regulation/11) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-cf5addf48122544c3c721a355c1bcc77]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2010/60/regulation/11) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-a40f14c94dd8bce68accb8208aee719e]: Textual amendment: Words in [reg. 11(1)(j)](https://www.legislation.gov.uk/ssi/2010/60/regulation/11/1/j) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2019/273/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a40f14c94dd8bce68accb8208aee719e]: Textual amendment: Words in [reg. 11(1)(j)](https://www.legislation.gov.uk/ssi/2010/60/regulation/11/1/j) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2019/273/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3d46202f4093274cee8ca09f14cf8e4a]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+[^c-3d46202f4093274cee8ca09f14cf8e4a]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
-[^key-604802be9432d8baa9e67e2bacfc3bf2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2010/60/regulation/12) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-604802be9432d8baa9e67e2bacfc3bf2]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2010/60/regulation/12) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-84f1a83e1f104ec9c8844bd8144b5133]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2010/60/regulation/12/2) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [11(a)](https://www.legislation.gov.uk/ssi/2019/273/regulation/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84f1a83e1f104ec9c8844bd8144b5133]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2010/60/regulation/12/2) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [11(a)](https://www.legislation.gov.uk/ssi/2019/273/regulation/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-85506672d2d5f5dab71e09a9ddd86f8f]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2010/60/regulation/12/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(4)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/4)
+[^c-85506672d2d5f5dab71e09a9ddd86f8f]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/ssi/2010/60/regulation/12/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(4)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/4)
 
-[^key-4a14eb1c9f4263a8edd66ad03392d814]: Textual amendment: Word in [reg. 12(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/12/3) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [11(b)](https://www.legislation.gov.uk/ssi/2019/273/regulation/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a14eb1c9f4263a8edd66ad03392d814]: Textual amendment: Word in [reg. 12(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/12/3) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [11(b)](https://www.legislation.gov.uk/ssi/2019/273/regulation/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7e2e5c7bbde140305cef484a7b6dfd7a]: Textual amendment: Word in [reg. 12(4)](https://www.legislation.gov.uk/ssi/2010/60/regulation/12/4) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [11(c)](https://www.legislation.gov.uk/ssi/2019/273/regulation/11/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7e2e5c7bbde140305cef484a7b6dfd7a]: Textual amendment: Word in [reg. 12(4)](https://www.legislation.gov.uk/ssi/2010/60/regulation/12/4) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [11(c)](https://www.legislation.gov.uk/ssi/2019/273/regulation/11/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f0caf332569f9430c1c864c45731937e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2010/60/regulation/13) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-f0caf332569f9430c1c864c45731937e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2010/60/regulation/13) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-d54df0d280b707c4820d3eed51a37e46]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/13/1) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [12(a)](https://www.legislation.gov.uk/ssi/2019/273/regulation/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d54df0d280b707c4820d3eed51a37e46]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/13/1) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [12(a)](https://www.legislation.gov.uk/ssi/2019/273/regulation/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4718589f0bf715793a9e513dcd302e6e]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/13/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(5)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/5)
+[^c-4718589f0bf715793a9e513dcd302e6e]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/13/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(5)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/5)
 
-[^key-09b729bda8dfc7ffa2b042c954ba07c5]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/ssi/2010/60/regulation/13/5) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [12(b)](https://www.legislation.gov.uk/ssi/2019/273/regulation/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-09b729bda8dfc7ffa2b042c954ba07c5]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/ssi/2010/60/regulation/13/5) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [12(b)](https://www.legislation.gov.uk/ssi/2019/273/regulation/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1e7e7787391fa6ed38fb91c0c22a1eef]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/ssi/2010/60/regulation/13/5) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(6)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/6)
+[^c-1e7e7787391fa6ed38fb91c0c22a1eef]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/ssi/2010/60/regulation/13/5) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(6)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/6)
 
-[^key-c098877f26e2e994719ce67f39f77307]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2010/60/regulation/14) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-c098877f26e2e994719ce67f39f77307]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2010/60/regulation/14) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-fc1d0eae4710bf6afaeb76946fc140ab]: Textual amendment: Words in [reg. 14(b)](https://www.legislation.gov.uk/ssi/2010/60/regulation/14/b) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [13](https://www.legislation.gov.uk/ssi/2019/273/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc1d0eae4710bf6afaeb76946fc140ab]: Textual amendment: Words in [reg. 14(b)](https://www.legislation.gov.uk/ssi/2010/60/regulation/14/b) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [13](https://www.legislation.gov.uk/ssi/2019/273/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eed6e23b41a978554685c345d8cb13b1]: Textual amendment: Words in [reg. 14(b)](https://www.legislation.gov.uk/ssi/2010/60/regulation/14/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(7)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/7)
+[^c-eed6e23b41a978554685c345d8cb13b1]: Textual amendment: Words in [reg. 14(b)](https://www.legislation.gov.uk/ssi/2010/60/regulation/14/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(7)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/7)
 
-[^key-d91927f5ba9cbc01ad9a9db8910bb00c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2010/60/regulation/15) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-d91927f5ba9cbc01ad9a9db8910bb00c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2010/60/regulation/15) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-294a5f6baeb217ceb36d3b474ef7b383]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2010/60/regulation/16) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-294a5f6baeb217ceb36d3b474ef7b383]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2010/60/regulation/16) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-cadc2e3c86a178779f0e84d06c2e467a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2010/60/regulation/17) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-cadc2e3c86a178779f0e84d06c2e467a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2010/60/regulation/17) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-0b9127cf9b78bdc451ece721ec35b796]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2010/60/regulation/18) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-0b9127cf9b78bdc451ece721ec35b796]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2010/60/regulation/18) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-e7487827aff47a99d6d2de22c565f218]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2010/60/regulation/19) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-e7487827aff47a99d6d2de22c565f218]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2010/60/regulation/19) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-e0d950b8905bcd10cf2027abd8d9a6c3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2010/60/regulation/20) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-e0d950b8905bcd10cf2027abd8d9a6c3]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2010/60/regulation/20) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-3ad67ae3db8c176ba34bd90f876860ef]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2010/60/regulation/21) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-3ad67ae3db8c176ba34bd90f876860ef]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2010/60/regulation/21) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-f698f9aa65bacf3a7f780eb3d1d2d58d]: Textual amendment: Word in [reg. 21](https://www.legislation.gov.uk/ssi/2010/60/regulation/21) heading omitted (31.12.2020) by virtue of [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [14(a)](https://www.legislation.gov.uk/ssi/2019/273/regulation/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f698f9aa65bacf3a7f780eb3d1d2d58d]: Textual amendment: Word in [reg. 21](https://www.legislation.gov.uk/ssi/2010/60/regulation/21) heading omitted (31.12.2020) by virtue of [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [14(a)](https://www.legislation.gov.uk/ssi/2019/273/regulation/14/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-090057318ab9f8d87a52fa406c275aa3]: Textual amendment: Word in [reg. 21(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/21/1) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [14(b)](https://www.legislation.gov.uk/ssi/2019/273/regulation/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-090057318ab9f8d87a52fa406c275aa3]: Textual amendment: Word in [reg. 21(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/21/1) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [14(b)](https://www.legislation.gov.uk/ssi/2019/273/regulation/14/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f4ec9f0bd3002a5709267a99f5f046e7]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2010/60/regulation/22) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-f4ec9f0bd3002a5709267a99f5f046e7]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2010/60/regulation/22) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-51dc5b9a1aff0ad83f9d2c7342e5f222]: Textual amendment: Words in [reg. 22(1)(c)](https://www.legislation.gov.uk/ssi/2010/60/regulation/22/1/c) omitted (31.12.2020) by virtue of [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [15](https://www.legislation.gov.uk/ssi/2019/273/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51dc5b9a1aff0ad83f9d2c7342e5f222]: Textual amendment: Words in [reg. 22(1)(c)](https://www.legislation.gov.uk/ssi/2010/60/regulation/22/1/c) omitted (31.12.2020) by virtue of [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [15](https://www.legislation.gov.uk/ssi/2019/273/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bd25654c4c0ce69b051d4cd8f70124b4]: Textual amendment: Words in [reg. 22(1)(c)](https://www.legislation.gov.uk/ssi/2010/60/regulation/22/1/c) substituted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2019/273/regulation/4)
+[^c-bd25654c4c0ce69b051d4cd8f70124b4]: Textual amendment: Words in [reg. 22(1)(c)](https://www.legislation.gov.uk/ssi/2010/60/regulation/22/1/c) substituted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2019/273/regulation/4)
 
-[^key-1de9a253f3981a6b3baf7497abd7858f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2010/60/regulation/23) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-1de9a253f3981a6b3baf7497abd7858f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2010/60/regulation/23) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
 [^f00021]: Footnote: [asp 3](https://www.legislation.gov.uk/asp/2003/3).
 
 [^f00022]: Footnote: [S.S.I. 2005/348](https://www.legislation.gov.uk/ssi/2005/348).
 
-[^key-7c75d78bb627111f4f2e90a0b7836dfb]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/ssi/2010/60/regulation/23/2) substituted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2019/273/regulation/5/a)
+[^c-7c75d78bb627111f4f2e90a0b7836dfb]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/ssi/2010/60/regulation/23/2) substituted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2019/273/regulation/5/a)
 
-[^key-2de987c013e07d7862bfcaad127cca9a]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/23/3) substituted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [5(b)](https://www.legislation.gov.uk/ssi/2019/273/regulation/5/b)
+[^c-2de987c013e07d7862bfcaad127cca9a]: Textual amendment: Words in [reg. 23(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/23/3) substituted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [5(b)](https://www.legislation.gov.uk/ssi/2019/273/regulation/5/b)
 
-[^key-8e3c6ed388ab59201c06287d283b9609]: Textual amendment: [Reg. 23(4)(b)](https://www.legislation.gov.uk/ssi/2010/60/regulation/23/4/b) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [16](https://www.legislation.gov.uk/ssi/2019/273/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e3c6ed388ab59201c06287d283b9609]: Textual amendment: [Reg. 23(4)(b)](https://www.legislation.gov.uk/ssi/2010/60/regulation/23/4/b) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [16](https://www.legislation.gov.uk/ssi/2019/273/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bf6b6d39a2540a937a3663d19a3996d8]: Textual amendment: Words in [reg. 23(4)(b)](https://www.legislation.gov.uk/ssi/2010/60/regulation/23/4/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(8)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/8)
+[^c-bf6b6d39a2540a937a3663d19a3996d8]: Textual amendment: Words in [reg. 23(4)(b)](https://www.legislation.gov.uk/ssi/2010/60/regulation/23/4/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(8)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/8)
 
-[^key-fc818eb56d5af625fb0a56874d23846e]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2010/60/regulation/24) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-fc818eb56d5af625fb0a56874d23846e]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2010/60/regulation/24) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-0df63b905b74a3465deb4b90b5d31564]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2010/60/regulation/25) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-0df63b905b74a3465deb4b90b5d31564]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2010/60/regulation/25) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-ffb37a2929015c29c9c29a3ea983fad7]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2010/60/regulation/26) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-ffb37a2929015c29c9c29a3ea983fad7]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2010/60/regulation/26) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-7c840ae88f8091b7f5878831ceefa5b4]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2010/60/regulation/27) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-7c840ae88f8091b7f5878831ceefa5b4]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2010/60/regulation/27) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-8dfb56ddd35179b1acf1c44b428f047d]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/ssi/2010/60/regulation/27) substituted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2019/273/regulation/6)
+[^c-8dfb56ddd35179b1acf1c44b428f047d]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/ssi/2010/60/regulation/27) substituted (30.10.2019) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2019/273/regulation/6)
 
-[^key-f0ab2e840967ba71305576b0796a20ef]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2010/60/regulation/28) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-f0ab2e840967ba71305576b0796a20ef]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2010/60/regulation/28) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-f9f371d08b5ed677a64085f8a37cb9ca]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2010/60/regulation/29) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-f9f371d08b5ed677a64085f8a37cb9ca]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2010/60/regulation/29) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-39271d5d0532f46eda69b013b2566ec4]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2010/60/regulation/30) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-39271d5d0532f46eda69b013b2566ec4]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2010/60/regulation/30) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-3f279b0c2017fa37cdce65cfa6de6f4b]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2010/60/regulation/31) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-3f279b0c2017fa37cdce65cfa6de6f4b]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2010/60/regulation/31) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-2143cf976d5a68ec0578020dde0fb9fa]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2010/60/regulation/32) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-2143cf976d5a68ec0578020dde0fb9fa]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2010/60/regulation/32) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
 [^f00023]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7), as amended by paragraph 158 of Schedule 17 to the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-56ee6d012c2d373ac83e5ab51faf768b]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2010/60/schedule/1) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-56ee6d012c2d373ac83e5ab51faf768b]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2010/60/schedule/1) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-b8d29109614899e3a55e2f15fe1422b7]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2010/60/schedule/1) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2019/273/regulation/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b8d29109614899e3a55e2f15fe1422b7]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2010/60/schedule/1) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2019/273/regulation/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d83a74f8aee820d9c9d086ba02ef6a8a]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2010/60/schedule/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(9)(a)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/9/a)
+[^c-d83a74f8aee820d9c9d086ba02ef6a8a]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2010/60/schedule/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(9)(a)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/9/a)
 
-[^key-48c7db2ad24f6de4dc49939bce8d0554]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2010/60/schedule/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(9)(b)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/9/b)
+[^c-48c7db2ad24f6de4dc49939bce8d0554]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2010/60/schedule/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 18(9)(b)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/18/9/b)
 
-[^key-a930a8371e8a8c9c5f36c4f10515e273]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2010/60/schedule/2) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-a930a8371e8a8c9c5f36c4f10515e273]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2010/60/schedule/2) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-c2f84575d36c4d1324d267c5ae5a0dc3]: Textual amendment: [Sch. 2 para. b](https://www.legislation.gov.uk/ssi/2010/60/schedule/2/paragraph) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [18](https://www.legislation.gov.uk/ssi/2019/273/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2f84575d36c4d1324d267c5ae5a0dc3]: Textual amendment: [Sch. 2 para. b](https://www.legislation.gov.uk/ssi/2010/60/schedule/2/paragraph) substituted (31.12.2020) by [The Management of Extractive Waste (EU Exit) (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/273)](https://www.legislation.gov.uk/ssi/2019/273), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/273/regulation/1/2), [18](https://www.legislation.gov.uk/ssi/2019/273/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6185a36d906dd5c3edd6747fb8b614b5]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2010/60/schedule/3/paragraph/1) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-6185a36d906dd5c3edd6747fb8b614b5]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2010/60/schedule/3/paragraph/1) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-5608a25d2ed6e4c572f537dbba1e9650]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2010/60/schedule/3/paragraph/2) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-5608a25d2ed6e4c572f537dbba1e9650]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2010/60/schedule/3/paragraph/2) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-b2e419f3c84e781fff90241f336949e2]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2010/60/schedule/3/paragraph/3) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-b2e419f3c84e781fff90241f336949e2]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2010/60/schedule/3/paragraph/3) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-3fffa14e96466bd920c65c27e33cb763]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2010/60/schedule/3/paragraph/4) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-3fffa14e96466bd920c65c27e33cb763]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2010/60/schedule/3/paragraph/4) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-95059c4b1b7478f8d9d85ce63b94c881]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/1) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-95059c4b1b7478f8d9d85ce63b94c881]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/1) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-dc9f4c3acb16874f4cba45efa018ae0d]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/2) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-dc9f4c3acb16874f4cba45efa018ae0d]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/2) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-ea8c2ebd1ee47f3cb83b1e0a199afdd7]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/3) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-ea8c2ebd1ee47f3cb83b1e0a199afdd7]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/3) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-84e4c1b1b9005c6a72bb126074937c0c]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/4) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-84e4c1b1b9005c6a72bb126074937c0c]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/4) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-1d756d21abbb0e70e6184ab11407c786]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/5) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-1d756d21abbb0e70e6184ab11407c786]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/5) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-b7bd978e8fd9d60a4ae0d26aa5011ab7]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/6) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-b7bd978e8fd9d60a4ae0d26aa5011ab7]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/6) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-3e08fe1d31010a1292c1a694d1b82348]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/7) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-3e08fe1d31010a1292c1a694d1b82348]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/7) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-576be17a97367e5b9d5e6a0430d6f81d]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/8) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-576be17a97367e5b9d5e6a0430d6f81d]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/8) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-217a76589a0d2dba8f3fb4fa00ea7f92]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/9) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-217a76589a0d2dba8f3fb4fa00ea7f92]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/9) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-f29d8b42246db5100184f97ce836c42c]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/10) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-f29d8b42246db5100184f97ce836c42c]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/10) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
 
-[^key-08372872069ceaa6244a30802a0e3aa5]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/11) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)
+[^c-08372872069ceaa6244a30802a0e3aa5]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2010/60/schedule/4/paragraph/11) in force at 1.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1)

@@ -38,7 +38,7 @@ summary: ''
 
 he must send a copy of the report together with the summary of it to the proprietor of the school and to the Assembly.
 
-(3) In the case of a special school which is not a community [^key-e4e3d550c17ecfdd8f1c45a0f91674aa]... special school, the proprietor of the school must without delay send a copy of any report and summary sent to him under subsection (1) or (2) to any local authority[^key-94ed0295e29907765ea29be5dd3e5cb4] that are paying fees in respect of the attendance of a registered pupil at the school.
+(3) In the case of a special school which is not a community [^c-e4e3d550c17ecfdd8f1c45a0f91674aa]... special school, the proprietor of the school must without delay send a copy of any report and summary sent to him under subsection (1) or (2) to any local authority[^c-94ed0295e29907765ea29be5dd3e5cb4] that are paying fees in respect of the attendance of a registered pupil at the school.
 
 (4) The proprietor of the school must—
 
@@ -50,6 +50,6 @@ he must send a copy of the report together with the summary of it to the proprie
 
 [^c19818711]: Commencement: S. 41 partly in force; s. 41 not in force at Royal Assent, see s. 125; s. 41 in force for certain purposes at 1.9.2006 by [S.I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/1338/article/4/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1338/schedule/2) (subject to [art. 4(2)](https://www.legislation.gov.uk/uksi/2006/1338/article/4/2))
 
-[^key-e4e3d550c17ecfdd8f1c45a0f91674aa]: Textual amendment: Words in [s. 41(3)](https://www.legislation.gov.uk/ukpga/2005/18/section/41/3) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(4)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/4); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-e4e3d550c17ecfdd8f1c45a0f91674aa]: Textual amendment: Words in [s. 41(3)](https://www.legislation.gov.uk/ukpga/2005/18/section/41/3) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(4)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/4); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)

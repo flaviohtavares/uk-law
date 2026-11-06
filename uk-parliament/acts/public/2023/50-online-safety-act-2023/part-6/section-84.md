@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Duty to pay fees[^key-e342e7370127d02036829117cd2d4b27][^key-c2c135bc17627755ad74a956c6cbaeeb]
+## 84. Duty to pay fees[^c-e342e7370127d02036829117cd2d4b27][^c-c2c135bc17627755ad74a956c6cbaeeb]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ is, in the event of a disagreement between the provider and OFCOM, the amount de
 
 ## Annotations
 
-[^key-e342e7370127d02036829117cd2d4b27]: Commencement: S. 84 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-e342e7370127d02036829117cd2d4b27]: Commencement: S. 84 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-c2c135bc17627755ad74a956c6cbaeeb]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2023/50/section/84) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
+[^c-c2c135bc17627755ad74a956c6cbaeeb]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2023/50/section/84) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)

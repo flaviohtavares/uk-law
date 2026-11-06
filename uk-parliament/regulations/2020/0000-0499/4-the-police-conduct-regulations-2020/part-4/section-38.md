@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Participation of the Director General and investigator at misconduct proceedings[^key-a3d662c886b31230b95662e4f42d1c38]
+## 38. Participation of the Director General and investigator at misconduct proceedings[^c-a3d662c886b31230b95662e4f42d1c38]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ has sufficient knowledge of the investigation of the case to be able to assist t
 
 ## Annotations
 
-[^key-a3d662c886b31230b95662e4f42d1c38]: Commencement: Reg. 38 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-a3d662c886b31230b95662e4f42d1c38]: Commencement: Reg. 38 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

@@ -23,8 +23,8 @@ summary: ''
 Articles 88, 89 and 90 shall apply:
 
 - ((a)) when the rules referred to in Article 1(2) require the issuance of an official certificate; and
-- ((b)) to official certificates which are necessary for the purposes of exporting consignments of animals and goods to third countries[^key-d7f27c215740c9e516f021deedf89ed9]....
+- ((b)) to official certificates which are necessary for the purposes of exporting consignments of animals and goods to third countries[^c-d7f27c215740c9e516f021deedf89ed9]....
 
 ## Annotations
 
-[^key-d7f27c215740c9e516f021deedf89ed9]: Textual amendment: Words in [Art. 87(b)](https://www.legislation.gov.uk/eur/2017/625/article/87/b) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [17(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/17/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-d7f27c215740c9e516f021deedf89ed9]: Textual amendment: Words in [Art. 87(b)](https://www.legislation.gov.uk/eur/2017/625/article/87/b) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [17(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/17/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

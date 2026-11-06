@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Within such time after the coming into operation of this Article as the Department may direct, the Authority[^key-ed55e84b71ab4865bb54e5f4d498b9b5] shall prepare and submit to the Department a plan for the provision (whether by the Authority or by other persons) of pre-school education for children [^key-5b2df8ae7945d9ac51d04268df786d82]... in such period as may be specified in the plan.
+(1) Within such time after the coming into operation of this Article as the Department may direct, the Authority[^c-ed55e84b71ab4865bb54e5f4d498b9b5] shall prepare and submit to the Department a plan for the provision (whether by the Authority or by other persons) of pre-school education for children [^c-5b2df8ae7945d9ac51d04268df786d82]... in such period as may be specified in the plan.
 
 (2) In preparing a plan under paragraph (1) the Authority shall, in accordance with arrangements approved by the Department, consult bodies and persons likely to be affected by the plan.
 
@@ -48,8 +48,8 @@ otherwise than in a reception class as defined by Article 18(4)(b) of the [^m000
 
 ## Annotations
 
-[^key-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-ed55e84b71ab4865bb54e5f4d498b9b5]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/1998/1759) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-5b2df8ae7945d9ac51d04268df786d82]: Textual amendment: Words in art. 17(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-5b2df8ae7945d9ac51d04268df786d82]: Textual amendment: Words in art. 17(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^m00006]: Marginal citation: 1997 NI 5.

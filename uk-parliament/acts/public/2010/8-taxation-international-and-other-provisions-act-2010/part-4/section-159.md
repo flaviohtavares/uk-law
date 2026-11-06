@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. Indirect participation: potential direct participant[^key-e8e5c535ce8ed156bfc9fb8c3817ce3a]
+## 159. Indirect participation: potential direct participant[^c-e8e5c535ce8ed156bfc9fb8c3817ce3a]
 
 *Extent: E+W+S+N.I.*
 
 (1) Subsection (2) applies for the purposes of—
 
-- (a) sections 148(2) and (3), 154(5), 175[^key-ed806c9615c418ab9fa4c4c3301055c0] and 204(4),
-- (b) in Part 2, section 132(7), [^key-cd85364ea8dad7db4774de042ed4c38c]...
-- (c) in Part 5, section 219(2) ,[^key-1546a395af4f44a173e872ebe99a560b] [^key-45091c6d4619864620468bc8b15472d1]...
-- (d) in Part 6A, section 259NB(4) ,[^key-47c16b068a5c9bb47574575f685b4f12] [^key-fae0fc33455a722c86c42d466233c648]... , and[^key-778ac8d1ebcbc2730178829e8ec3b1e9]
-- (e) in Part 10, section 463(4), [^key-ff47b701950fe65b2e149e453a544ad2]...
-- (f)[^key-ff47b701950fe65b2e149e453a544ad2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) sections 148(2) and (3), 154(5), 175[^c-ed806c9615c418ab9fa4c4c3301055c0] and 204(4),
+- (b) in Part 2, section 132(7), [^c-cd85364ea8dad7db4774de042ed4c38c]...
+- (c) in Part 5, section 219(2) ,[^c-1546a395af4f44a173e872ebe99a560b] [^c-45091c6d4619864620468bc8b15472d1]...
+- (d) in Part 6A, section 259NB(4) ,[^c-47c16b068a5c9bb47574575f685b4f12] [^c-fae0fc33455a722c86c42d466233c648]... , and[^c-778ac8d1ebcbc2730178829e8ec3b1e9]
+- (e) in Part 10, section 463(4), [^c-ff47b701950fe65b2e149e453a544ad2]...
+- (f)[^c-ff47b701950fe65b2e149e453a544ad2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-2eab0d80443af03952645e4ec765cd1d][^key-b2649549c0b6920c99a3c018795231fb] A person (“P”) is indirectly participating in the management, control or capital of another person (“A”) at a particular time if P would be directly participating in the management, control or capital of A at that time if the rights and powers attributed to P included all the rights and powers mentioned in subsection (3) that are not already attributed to P for the purpose of deciding under section 157 whether P is directly participating in the management, control or capital of A.
+(2)[^c-2eab0d80443af03952645e4ec765cd1d][^c-b2649549c0b6920c99a3c018795231fb] A person (“P”) is indirectly participating in the management, control or capital of another person (“A”) at a particular time if P would be directly participating in the management, control or capital of A at that time if the rights and powers attributed to P included all the rights and powers mentioned in subsection (3) that are not already attributed to P for the purpose of deciding under section 157 whether P is directly participating in the management, control or capital of A.
 
 (3) The rights and powers referred to in subsection (2) are—
 
@@ -63,24 +63,24 @@ include references to rights or powers which are exercisable by that person, or 
 
 ## Annotations
 
-[^key-e8e5c535ce8ed156bfc9fb8c3817ce3a]: Modification: Ss. 158-163 applied (with modifications) (with effect in accordance with s. 116(1) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 106(7)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/106/7/b)
+[^c-e8e5c535ce8ed156bfc9fb8c3817ce3a]: Modification: Ss. 158-163 applied (with modifications) (with effect in accordance with s. 116(1) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 106(7)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/106/7/b)
 
-[^key-ed806c9615c418ab9fa4c4c3301055c0]: Textual amendment: Word in [s. 159(1)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/159/1/a) substituted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 4(9)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/4/9/b), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)
+[^c-ed806c9615c418ab9fa4c4c3301055c0]: Textual amendment: Word in [s. 159(1)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/159/1/a) substituted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 4(9)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/4/9/b), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)
 
-[^key-cd85364ea8dad7db4774de042ed4c38c]: Textual amendment: Word in s. 159(1)(b) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 13(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/13/a)
+[^c-cd85364ea8dad7db4774de042ed4c38c]: Textual amendment: Word in s. 159(1)(b) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 13(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/13/a)
 
-[^key-1546a395af4f44a173e872ebe99a560b]: Textual amendment: S. 159(1)(d) and word inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 13(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/13/b)
+[^c-1546a395af4f44a173e872ebe99a560b]: Textual amendment: S. 159(1)(d) and word inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 13(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/13/b)
 
-[^key-45091c6d4619864620468bc8b15472d1]: Textual amendment: Word in s. 159(1)(c) omitted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 16(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/16/a)
+[^c-45091c6d4619864620468bc8b15472d1]: Textual amendment: Word in s. 159(1)(c) omitted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 16(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/16/a)
 
-[^key-47c16b068a5c9bb47574575f685b4f12]: Textual amendment: S. 159(1)(e) and word inserted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 16(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/16/b)
+[^c-47c16b068a5c9bb47574575f685b4f12]: Textual amendment: S. 159(1)(e) and word inserted (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 16(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/16/b)
 
-[^key-fae0fc33455a722c86c42d466233c648]: Textual amendment: Word in [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2010/8/section/159/1/d) omitted (with effect in accordance with Sch. 3 para. 7 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 3 para. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/3/paragraph/6/3/a)
+[^c-fae0fc33455a722c86c42d466233c648]: Textual amendment: Word in [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2010/8/section/159/1/d) omitted (with effect in accordance with Sch. 3 para. 7 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 3 para. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/3/paragraph/6/3/a)
 
-[^key-778ac8d1ebcbc2730178829e8ec3b1e9]: Textual amendment: Word in [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2010/8/section/159/1/d) inserted (with effect in accordance with s. 20(12) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(8)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/8/a)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)
+[^c-778ac8d1ebcbc2730178829e8ec3b1e9]: Textual amendment: Word in [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2010/8/section/159/1/d) inserted (with effect in accordance with s. 20(12) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(8)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/8/a)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)
 
-[^key-ff47b701950fe65b2e149e453a544ad2]: Textual amendment: [S. 159(1)(f)](https://www.legislation.gov.uk/ukpga/2010/8/section/159/1/f) and word omitted (with effect in accordance with s. 20(12) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(8)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/8/b)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)
+[^c-ff47b701950fe65b2e149e453a544ad2]: Textual amendment: [S. 159(1)(f)](https://www.legislation.gov.uk/ukpga/2010/8/section/159/1/f) and word omitted (with effect in accordance with s. 20(12) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 20(8)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/8/b)[(12)](https://www.legislation.gov.uk/ukpga/2025/8/section/20/12)
 
-[^key-2eab0d80443af03952645e4ec765cd1d]: Modification: S. 159(2) applied by 2010 c. 4, s. 356OT(7) (as inserted (with effect in accordance with s. 81 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 77(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/77/1) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2)))
+[^c-2eab0d80443af03952645e4ec765cd1d]: Modification: S. 159(2) applied by 2010 c. 4, s. 356OT(7) (as inserted (with effect in accordance with s. 81 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 77(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/77/1) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2)))
 
-[^key-b2649549c0b6920c99a3c018795231fb]: Modification: S. 159(2) applied by 2007 c. 3, s. 517U(7) (as inserted (with effect in accordance with s. 82 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 79(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/1) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2)))
+[^c-b2649549c0b6920c99a3c018795231fb]: Modification: S. 159(2) applied by 2007 c. 3, s. 517U(7) (as inserted (with effect in accordance with s. 82 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 79(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/79/1) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), s. 39(1)(2)))

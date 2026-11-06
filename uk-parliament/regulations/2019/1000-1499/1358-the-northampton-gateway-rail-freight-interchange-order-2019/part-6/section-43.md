@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Protective provisions[^key-e41c978e69ce6feefd726139753b9dc1]
+## 43. Protective provisions[^c-e41c978e69ce6feefd726139753b9dc1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 13 (protective provisions) to this Order has effect.
 
 ## Annotations
 
-[^key-e41c978e69ce6feefd726139753b9dc1]: Commencement: Art. 43 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-e41c978e69ce6feefd726139753b9dc1]: Commencement: Art. 43 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

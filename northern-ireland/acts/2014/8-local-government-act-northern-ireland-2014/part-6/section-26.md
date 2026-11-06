@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Joint exercise of functions[^key-0f876d29adf668499c4346b729e74f9c]
+## 26. Joint exercise of functions[^c-0f876d29adf668499c4346b729e74f9c]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f876d29adf668499c4346b729e74f9c]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2014/8/section/26) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-0f876d29adf668499c4346b729e74f9c]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2014/8/section/26) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

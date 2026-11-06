@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 54. Information to be provided to the Authority where electricity is generated from biomass ...[^key-3964ea5edd96d1abcb5768b1d4716bd7][^key-747c3ca5500d36166b9c4b9ab2d55cd3]
+## 54. Information to be provided to the Authority where electricity is generated from biomass ...[^c-3964ea5edd96d1abcb5768b1d4716bd7][^c-747c3ca5500d36166b9c4b9ab2d55cd3]
 
 (1) This article applies to a generating station—
 
@@ -50,14 +50,14 @@ summary: ''
 - (c) where the biomass was gas, its volume (in cubic metres) when measured at 25 degrees Celsius and 0.1 megapascals;
 - (d) where the biomass was an energy crop and was not a bioliquid—
   - (i) the type of energy crop in question; and
-  - (ii) the use of the land on which the biomass was grown in the year before the land was first used to grow energy crops;[^key-463ca8171b6ea3b31311d66f4af12e89]...
+  - (ii) the use of the land on which the biomass was grown in the year before the land was first used to grow energy crops;[^c-463ca8171b6ea3b31311d66f4af12e89]...
 - (e) where the biomass was, or was derived from, wood and was not waste or bioliquid—
   - (i) the name of the forest or other location where that wood was grown;
   - (ii) a description of the forestry management practices or land management practices used in the forest or other location where that wood was grown;
   - (iii) where any of the wood was likely to be a protected or threatened species, the name of that species and the proportion of the biomass that is likely to be composed of, or derived from, that species;
   - (iv) the proportion of the biomass that was, or was derived from, a saw log, and the specification adopted by the operator in accordance with paragraph (6) for the purpose of determining the proportion of the biomass that was, or was derived from, a saw log; and
-  - (v) the proportion of the biomass that was, or was derived from, hardwood and the proportion that was, or was derived from, softwood; and[^key-5275739d60ae9015f1773e232d2f8f8f]
-- (f)[^key-874be905ce5b86f6f489b30546d226a5] where the biomass was bioliquid used in a generating station on or after 1st January 2018, its energy content produced from each of the following categories of crop—
+  - (v) the proportion of the biomass that was, or was derived from, hardwood and the proportion that was, or was derived from, softwood; and[^c-5275739d60ae9015f1773e232d2f8f8f]
+- (f)[^c-874be905ce5b86f6f489b30546d226a5] where the biomass was bioliquid used in a generating station on or after 1st January 2018, its energy content produced from each of the following categories of crop—
   - (i) starch-rich crops;
   - (ii) sugars;
   - (iii) oil crops;
@@ -91,27 +91,27 @@ summary: ''
 - “**Forestry Commission Field Book 9**” means Forestry Commission Field Book 9, 2nd edition 1993, entitled “Classification and Presentation of Softwood Sawlogs”;
 - “**protected or threatened species**” means—
   - (a) a species listed in Appendices I, II or III of the Convention on International Trade in Endangered Species of Wild Fauna and Flora; or
-  - (b) a species which is at risk of extinction; [^key-247e0516384dc7eae0f3f7cd9f848414]...
-- “**saw log**” means wood which is suitable for processing at a sawmill; and[^key-3b61f2ac20a62354fbab1dc734a70b49]
-- “starch-rich crops” includes—[^key-d80f72bf85a5260675b2f24152a43e25]
+  - (b) a species which is at risk of extinction; [^c-247e0516384dc7eae0f3f7cd9f848414]...
+- “**saw log**” means wood which is suitable for processing at a sawmill; and[^c-3b61f2ac20a62354fbab1dc734a70b49]
+- “starch-rich crops” includes—[^c-d80f72bf85a5260675b2f24152a43e25]
   - (a) cereals (regardless of whether only the grains are used or the whole plant (such as in the case of green maize) is used);
   - (b) tubers and root crops (such as potatoes, Jerusalem artichokes, sweet potatoes, cassava and yams); and
   - (c) corm crops (such as taro and cocoyam).
 
 ## Annotations
 
-[^key-3964ea5edd96d1abcb5768b1d4716bd7]: Textual amendment: Art. 54 substituted (1.12.2015) by [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [11](https://www.legislation.gov.uk/ssi/2015/384/article/11) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))
+[^c-3964ea5edd96d1abcb5768b1d4716bd7]: Textual amendment: Art. 54 substituted (1.12.2015) by [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [11](https://www.legislation.gov.uk/ssi/2015/384/article/11) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))
 
-[^key-747c3ca5500d36166b9c4b9ab2d55cd3]: Textual amendment: Words in art. 54 heading omitted (1.4.2013) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [22(2)](https://www.legislation.gov.uk/ssi/2013/116/article/22/2) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
+[^c-747c3ca5500d36166b9c4b9ab2d55cd3]: Textual amendment: Words in art. 54 heading omitted (1.4.2013) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [22(2)](https://www.legislation.gov.uk/ssi/2013/116/article/22/2) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
 
-[^key-463ca8171b6ea3b31311d66f4af12e89]: Textual amendment: Word in art. 54(4)(d) omitted (1.1.2018) by virtue of [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/9/2/a)
+[^c-463ca8171b6ea3b31311d66f4af12e89]: Textual amendment: Word in art. 54(4)(d) omitted (1.1.2018) by virtue of [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/9/2/a)
 
-[^key-5275739d60ae9015f1773e232d2f8f8f]: Textual amendment: Words in art. 54(4)(e)(v) substituted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/9/2/b)
+[^c-5275739d60ae9015f1773e232d2f8f8f]: Textual amendment: Words in art. 54(4)(e)(v) substituted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/9/2/b)
 
-[^key-874be905ce5b86f6f489b30546d226a5]: Textual amendment: Art. 54(4)(f) inserted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [9(2)(c)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/9/2/c)
+[^c-874be905ce5b86f6f489b30546d226a5]: Textual amendment: Art. 54(4)(f) inserted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [9(2)(c)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/9/2/c)
 
-[^key-247e0516384dc7eae0f3f7cd9f848414]: Textual amendment: Word in art. 54(10) omitted (1.1.2018) by virtue of [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/9/3/a)
+[^c-247e0516384dc7eae0f3f7cd9f848414]: Textual amendment: Word in art. 54(10) omitted (1.1.2018) by virtue of [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [9(3)(a)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/9/3/a)
 
-[^key-3b61f2ac20a62354fbab1dc734a70b49]: Textual amendment: Words in art. 54(10) substituted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/9/3/b)
+[^c-3b61f2ac20a62354fbab1dc734a70b49]: Textual amendment: Words in art. 54(10) substituted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [9(3)(b)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/9/3/b)
 
-[^key-d80f72bf85a5260675b2f24152a43e25]: Textual amendment: Words in art. 54(10) inserted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [9(3)(c)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/9/3/c)
+[^c-d80f72bf85a5260675b2f24152a43e25]: Textual amendment: Words in art. 54(10) inserted (1.1.2018) by [The Renewables Obligation (Amendment) Regulations 2017 (S.I. 2017/1234)](https://www.legislation.gov.uk/uksi/2017/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/1/2), [9(3)(c)](https://www.legislation.gov.uk/uksi/2017/1234/regulation/9/3/c)

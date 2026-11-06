@@ -38,10 +38,10 @@ whichever is the later.
 
 (4) In a case where the Community licence holder is authorised by his Community licence to drive any prescribed class of goods vehicle or any prescribed class of passenger-carrying vehicle, he shall cease to be authorised by virtue of paragraph (1) to drive in Northern Ireland any such class of vehicle from—
 
-- (a)[^c17614571] except in a case falling within sub-paragraph (c)[^key-4c5e0a97eca462e0008975c5b73fb07f] —
-  - (i) the date on which he attains the age of 66 years[^key-9ad12e9dfcae14ad38fad8db40f326ad] , or
-  - (ii) the expiry of the period of 5 years beginning with the relevant date, whichever is the earlier[^key-620f2caaf2ab8696d7479e570709138b] ,
-- (b)[^key-5e5b34b07e3b30a38f2536348ceb02b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c17614571] except in a case falling within sub-paragraph (c)[^c-4c5e0a97eca462e0008975c5b73fb07f] —
+  - (i) the date on which he attains the age of 66 years[^c-9ad12e9dfcae14ad38fad8db40f326ad] , or
+  - (ii) the expiry of the period of 5 years beginning with the relevant date, whichever is the earlier[^c-620f2caaf2ab8696d7479e570709138b] ,
+- (b)[^c-5e5b34b07e3b30a38f2536348ceb02b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) where his age at the relevant date exceeds 65 years, the expiry of one year beginning with that date.
 
 (5) A Community licence holder—
@@ -64,10 +64,10 @@ may drive, in Northern Ireland, motor vehicles of all other classes subject to t
 
 [^c17614571]: Textual amendment: SR 2002/374
 
-[^key-4c5e0a97eca462e0008975c5b73fb07f]: Textual amendment: Word in [art. 15A(4)(a)](https://www.legislation.gov.uk/nisi/1981/154/article/15A/4/a) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/170)](https://www.legislation.gov.uk/nisr/2012/170), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/170/regulation/1/1), [2(5)(a)(i)](https://www.legislation.gov.uk/nisr/2012/170/regulation/2/5/a/i)
+[^c-4c5e0a97eca462e0008975c5b73fb07f]: Textual amendment: Word in [art. 15A(4)(a)](https://www.legislation.gov.uk/nisi/1981/154/article/15A/4/a) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/170)](https://www.legislation.gov.uk/nisr/2012/170), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/170/regulation/1/1), [2(5)(a)(i)](https://www.legislation.gov.uk/nisr/2012/170/regulation/2/5/a/i)
 
-[^key-9ad12e9dfcae14ad38fad8db40f326ad]: Textual amendment: Words in [art. 15A(4)(a)](https://www.legislation.gov.uk/nisi/1981/154/article/15A/4/a) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/170)](https://www.legislation.gov.uk/nisr/2012/170), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/170/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/170/regulation/2/5/a/ii)
+[^c-9ad12e9dfcae14ad38fad8db40f326ad]: Textual amendment: Words in [art. 15A(4)(a)](https://www.legislation.gov.uk/nisi/1981/154/article/15A/4/a) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/170)](https://www.legislation.gov.uk/nisr/2012/170), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/170/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/170/regulation/2/5/a/ii)
 
-[^key-620f2caaf2ab8696d7479e570709138b]: Textual amendment: Word in [art. 15A(4)(a)](https://www.legislation.gov.uk/nisi/1981/154/article/15A/4/a) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/170)](https://www.legislation.gov.uk/nisr/2012/170), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/170/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/170/regulation/2/5/a/ii)
+[^c-620f2caaf2ab8696d7479e570709138b]: Textual amendment: Word in [art. 15A(4)(a)](https://www.legislation.gov.uk/nisi/1981/154/article/15A/4/a) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/170)](https://www.legislation.gov.uk/nisr/2012/170), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/170/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/170/regulation/2/5/a/ii)
 
-[^key-5e5b34b07e3b30a38f2536348ceb02b8]: Textual amendment: [Art. 15A(4)(b)](https://www.legislation.gov.uk/nisi/1981/154/article/15A/4/b) omitted (19.1.2013) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/170)](https://www.legislation.gov.uk/nisr/2012/170), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/170/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2012/170/regulation/2/5/b)
+[^c-5e5b34b07e3b30a38f2536348ceb02b8]: Textual amendment: [Art. 15A(4)(b)](https://www.legislation.gov.uk/nisi/1981/154/article/15A/4/b) omitted (19.1.2013) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/170)](https://www.legislation.gov.uk/nisr/2012/170), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/170/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2012/170/regulation/2/5/b)

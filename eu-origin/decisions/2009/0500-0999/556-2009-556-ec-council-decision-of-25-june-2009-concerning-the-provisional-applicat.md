@@ -31,10 +31,10 @@ summary: ''
 
 of 25 June 2009 concerning the provisional application and conclusion of the Agreement between the European Community and the Swiss Confederation on the simplification of inspections and formalities in respect of the carriage of goods and on customs security measures (revoked)
 
-[^key-67200856016070ac7100626b01d8ca45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67200856016070ac7100626b01d8ca45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-67200856016070ac7100626b01d8ca45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-67200856016070ac7100626b01d8ca45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-67200856016070ac7100626b01d8ca45]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-67200856016070ac7100626b01d8ca45]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

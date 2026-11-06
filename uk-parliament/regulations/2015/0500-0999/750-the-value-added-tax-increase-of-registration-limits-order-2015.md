@@ -46,21 +46,21 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred by paragraph 15 of Schedule 1 and paragraph 9 of Schedule 3 to the Value Added Tax Act 1994[^f00001], make the following Order:
 
-## 1. Citation and commencement[^key-5e053a1e366e8f4ad272c46c94613cd8]
+## 1. Citation and commencement[^c-5e053a1e366e8f4ad272c46c94613cd8]
 
 This Order may be cited as the Value Added Tax (Increase of Registration Limits) Order 2015 and comes into force on 1st April 2015.
 
-## 2. Amendment of the Value Added Tax Act 1994[^key-0be84aa1977db5b041ece42b4490d24e]
+## 2. Amendment of the Value Added Tax Act 1994[^c-0be84aa1977db5b041ece42b4490d24e]
 
 Amend the Value Added Tax Act 1994 as follows.
 
-**3.**[^key-3565a85c25b66bbc63149c15fc24d316] In Schedule 1 (registration in respect of taxable supplies: UK establishment)—
+**3.**[^c-3565a85c25b66bbc63149c15fc24d316] In Schedule 1 (registration in respect of taxable supplies: UK establishment)—
 
 - (a) in paragraph 1(1)(a), (1)(b), (2)(a) and (2)(b), for “£81,000” substitute “£82,000”;
 - (b) in paragraph 1(3), for “£79,000” substitute “£80,000”; and
 - (c) in paragraph 4(1) and (2), for “£79,000” substitute “£80,000”.
 
-**4.**[^key-e162c6cb310d9d9856ec179d7097ff64] In Schedule 3 (registration in respect of acquisitions from other member states)—
+**4.**[^c-e162c6cb310d9d9856ec179d7097ff64] In Schedule 3 (registration in respect of acquisitions from other member states)—
 
 - (a) in paragraph 1(1) and (2), for “£81,000” substitute “£82,000”; and
 - (b) in paragraph 2(1)(a), (1)(b) and (2), for “£81,000” substitute “£82,000”.
@@ -89,10 +89,10 @@ A Tax Information and Impact Note has not been prepared for this Order as it con
 
 [^f00001]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23); the sums in Schedules 1 and 3 were last substituted by [S.I. 2014/703](https://www.legislation.gov.uk/uksi/2014/703).
 
-[^key-5e053a1e366e8f4ad272c46c94613cd8]: Commencement: Art. 1 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/750/article/1)
+[^c-5e053a1e366e8f4ad272c46c94613cd8]: Commencement: Art. 1 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/750/article/1)
 
-[^key-0be84aa1977db5b041ece42b4490d24e]: Commencement: Art. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/750/article/1)
+[^c-0be84aa1977db5b041ece42b4490d24e]: Commencement: Art. 2 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/750/article/1)
 
-[^key-3565a85c25b66bbc63149c15fc24d316]: Commencement: Art. 3 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/750/article/1)
+[^c-3565a85c25b66bbc63149c15fc24d316]: Commencement: Art. 3 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/750/article/1)
 
-[^key-e162c6cb310d9d9856ec179d7097ff64]: Commencement: Art. 4 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/750/article/1)
+[^c-e162c6cb310d9d9856ec179d7097ff64]: Commencement: Art. 4 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/750/article/1)

@@ -47,7 +47,7 @@ Regulations 2 to 4, 8 to 10
 
 The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 62, 98, 106 and 107(6) of, and Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002] and of all other powers enabling it in that behalf, with the approval of the Department of Finance and Personnel, and after consultation with such organisations as appeared to the Department to be representative of medical practitioners practising as ophthalmic medical practitioners, and ophthalmic opticians, as required by Article 62(3) of the said Order, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-54cff8b375267ad0393a49959b37aab4][^key-54cff8b375267ad0393a49959b37aab4]
+## 1. Citation, commencement and interpretation[^c-54cff8b375267ad0393a49959b37aab4][^c-54cff8b375267ad0393a49959b37aab4]
 
 (1) These Regulations may be cited as the Optical Charges and Payments and General Ophthalmic Services (Amendment) Regulations (Northern Ireland) 2003 and shall come into operation –
 
@@ -61,7 +61,7 @@ The Department of Health, Social Services and Public Safety[^f00001] in exercise
 
 ## PART I — AMENDMENTS OF OPTICAL REGULATIONS
 
-### 2. Amendment of regulation 1 of the Optical Regulations[^key-8255422f44a1e6e2a5100136272d0dec]
+### 2. Amendment of regulation 1 of the Optical Regulations[^c-8255422f44a1e6e2a5100136272d0dec]
 
 In regulation 1 of the Optical Regulations (citation, commencement and interpretation), in paragraph (2), –
 
@@ -87,7 +87,7 @@ In regulation 1 of the Optical Regulations (citation, commencement and interpret
   ; and
 - (e) the definitions of “amount withdrawn”, “disabled person’s tax credit” and “working families' tax credit” are omitted[^f00007].
 
-### 3. Amendment of regulation 8 of the Optical Regulations[^key-3289a17b9e6a8b04eb543479137c5124]
+### 3. Amendment of regulation 8 of the Optical Regulations[^c-3289a17b9e6a8b04eb543479137c5124]
 
 (1) Regulation 8 of the Optical Regulations (eligibility – supply of optical appliances) is amended as follows.
 
@@ -116,7 +116,7 @@ In regulation 1 of the Optical Regulations (citation, commencement and interpret
 
 .
 
-### 4. New regulation 12A inserted into the Optical Regulations[^key-77ddb4f586d305042b8127857c76d242]
+### 4. New regulation 12A inserted into the Optical Regulations[^c-77ddb4f586d305042b8127857c76d242]
 
 After regulation 12 of the Optical Regulations (use of vouchers for supply of optical appliances), there is inserted –
 
@@ -138,14 +138,14 @@ After regulation 12 of the Optical Regulations (use of vouchers for supply of op
 
 .
 
-### 5. Amendment of regulation 19 of the Optical Regulations[^key-57b5e3146b8e33c8c8bc28c16c826f42][^key-57b5e3146b8e33c8c8bc28c16c826f42]
+### 5. Amendment of regulation 19 of the Optical Regulations[^c-57b5e3146b8e33c8c8bc28c16c826f42][^c-57b5e3146b8e33c8c8bc28c16c826f42]
 
 In regulation 19 of the principal Regulations (redemption value of voucher for replacement or repair) –
 
 - (a) in paragraph (1)(b) for “£44·60” there shall be substituted “£45·70”; and
 - (b) in paragraph (3) for “£11·50” there shall be substituted “£11·80”.
 
-### 6. Amendment of the Schedules to the Optical Regulations[^key-fabf5217e49be27e725913964927c981][^key-fabf5217e49be27e725913964927c981]
+### 6. Amendment of the Schedules to the Optical Regulations[^c-fabf5217e49be27e725913964927c981][^c-fabf5217e49be27e725913964927c981]
 
 (1) In Schedule 1 to the Optical Regulations (voucher letter codes and face values – supply and replacement)[^f00011], in column 3 (face value of voucher), for each amount specified in column 1 of the Table below (old amount) there shall be substituted the amount specified in relation to it in column 2 of that Table (new amount).
 
@@ -185,25 +185,25 @@ TABLE
 
 (3) For Schedule 3 to the Optical Regulations (voucher values – repair)[^f00012], there shall be substituted the Schedule 3 set out in the Schedule.
 
-### 7. Application of Regulations 5 and 6[^key-17d765c2cccceb60ce81728a85aec85a][^key-17d765c2cccceb60ce81728a85aec85a]
+### 7. Application of Regulations 5 and 6[^c-17d765c2cccceb60ce81728a85aec85a][^c-17d765c2cccceb60ce81728a85aec85a]
 
 The amendments made in regulations 5 and 6 apply only in relation to a voucher accepted or used pursuant to regulation 12 or regulation 17 of the Optical Regulations on or after 1st April 2003.
 
 ## PART II — AMENDMENTS OF OPHTHALMIC REGULATIONS
 
-### 8. Amendment of regulation 2 of the Ophthalmic Regulations[^key-e87b18ca62050f01a4c35f90c9718210]
+### 8. Amendment of regulation 2 of the Ophthalmic Regulations[^c-e87b18ca62050f01a4c35f90c9718210]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of regulation 15 of the Ophthalmic Regulations[^key-e87b18ca62050f01a4c35f90c9718210]
+### 9. Amendment of regulation 15 of the Ophthalmic Regulations[^c-e87b18ca62050f01a4c35f90c9718210]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART III — TRANSITIONAL PROVISION
 
-**10.**[^key-36bb519b6a83f7ca26f52dae5d8688de] (1) Until 31st July 2003, notwithstanding the revocation of regulation 8(3)(c), (d), (g) and (h) of the Optical Regulations, any person who, immediately before the coming into operation of regulations 2 to 4, was an eligible person under regulation 8(3)(c), (d), (g) and (h) of the Optical Regulations shall continue to be an eligible person for the purposes of Parts IV and V of the Optical Regulations.
+**10.**[^c-36bb519b6a83f7ca26f52dae5d8688de] (1) Until 31st July 2003, notwithstanding the revocation of regulation 8(3)(c), (d), (g) and (h) of the Optical Regulations, any person who, immediately before the coming into operation of regulations 2 to 4, was an eligible person under regulation 8(3)(c), (d), (g) and (h) of the Optical Regulations shall continue to be an eligible person for the purposes of Parts IV and V of the Optical Regulations.
 
-(2)[^key-398ca08c153275b30d59c662f471b336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-398ca08c153275b30d59c662f471b336] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department of Health, Social Services and Public Safety on 14th March 2003.
 
@@ -221,7 +221,7 @@ Senior Officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE 3 TO THE OPTICAL REGULATIONS AS SUBSTITUTED BY THESE REGULATIONS[^key-78b067ee9475ff6215f80a548b2853d8][^key-78b067ee9475ff6215f80a548b2853d8]
+## SCHEDULE 3 TO THE OPTICAL REGULATIONS AS SUBSTITUTED BY THESE REGULATIONS[^c-78b067ee9475ff6215f80a548b2853d8][^c-78b067ee9475ff6215f80a548b2853d8]
 
 > **SCHEDULE 3 — VOUCHER VALUE – REPAIR**
 >
@@ -267,13 +267,13 @@ Regulation 10 makes transitional provision for those persons who were entitled t
 
 [^f00002]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) as amended by Article 3(2) of, and paragraph 3 of Schedule 1 to, the Health and Social Security (Northern Ireland) Order 1984 ([S.I. 1984/1158 (N.I. 8)](https://www.legislation.gov.uk/nisi/1984/1158)); paragraphs 4 and 5 of Article 8 of the Health and Medicines (Northern Ireland) Order 1988 ([S.I. 1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249)); Article 34 of, and Part II of Schedule 5 to, the Health and Personal Social Services (Northern Ireland) Order 1991 ([S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194)) there are other amendments which are not relevant
 
-[^key-54cff8b375267ad0393a49959b37aab4]: Commencement: Reg. 1 in operation at 1.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/a)
+[^c-54cff8b375267ad0393a49959b37aab4]: Commencement: Reg. 1 in operation at 1.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/a)
 
 [^f00003]: Footnote: [S.R. 1997 No. 191](https://www.legislation.gov.uk/nisr/1997/191); relevant amending Regulations are [S.R. 1999 Nos. 111](https://www.legislation.gov.uk/nisr/1999/111) and [394](https://www.legislation.gov.uk/nisr/1999/394), [S.R. 2000 No. 51](https://www.legislation.gov.uk/nisr/2000/51), [S.R. 2001 No. 133](https://www.legislation.gov.uk/nisr/2001/133), and [S.R. 2002 No. 85](https://www.legislation.gov.uk/nisr/2002/85)
 
 [^f00004]: Footnote: [S.R. 1986 No. 163](https://www.legislation.gov.uk/nisr/1986/163); relevant amending Regulations are [S.R. 1989 No. 113](https://www.legislation.gov.uk/nisr/1989/113), [S.R. 1995 No. 115](https://www.legislation.gov.uk/nisr/1995/115), [S.R. 1996 No. 416](https://www.legislation.gov.uk/nisr/1996/416), [S.R. 1999 Nos. 112](https://www.legislation.gov.uk/nisr/1999/112) and [394](https://www.legislation.gov.uk/nisr/1999/394), [S.R. 2001 No. 339](https://www.legislation.gov.uk/nisr/2001/339) and [S.R. 2002 No. 85](https://www.legislation.gov.uk/nisr/2002/85)
 
-[^key-8255422f44a1e6e2a5100136272d0dec]: Commencement: Reg. 2 in operation at 6.4.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/b)
+[^c-8255422f44a1e6e2a5100136272d0dec]: Commencement: Reg. 2 in operation at 6.4.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/b)
 
 [^f00005]: Footnote: Definition inserted by regulation 2 of [S.R. 2000 No. 51](https://www.legislation.gov.uk/nisr/2000/51)
 
@@ -281,7 +281,7 @@ Regulation 10 makes transitional provision for those persons who were entitled t
 
 [^f00007]: Footnote: Definitions inserted by regulation 2 of [S.R. 1999 No. 394](https://www.legislation.gov.uk/nisr/1999/394)
 
-[^key-3289a17b9e6a8b04eb543479137c5124]: Commencement: Reg. 3 in operation at 6.4.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/b)
+[^c-3289a17b9e6a8b04eb543479137c5124]: Commencement: Reg. 3 in operation at 6.4.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/b)
 
 [^f00008]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
@@ -289,22 +289,22 @@ Regulation 10 makes transitional provision for those persons who were entitled t
 
 [^f00010]: Footnote: [S.I. 2002/2006](https://www.legislation.gov.uk/uksi/2002/2006)
 
-[^key-77ddb4f586d305042b8127857c76d242]: Commencement: Reg. 4 in operation at 6.4.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/b)
+[^c-77ddb4f586d305042b8127857c76d242]: Commencement: Reg. 4 in operation at 6.4.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/b)
 
-[^key-57b5e3146b8e33c8c8bc28c16c826f42]: Commencement: Reg. 5 in operation at 1.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/a)
+[^c-57b5e3146b8e33c8c8bc28c16c826f42]: Commencement: Reg. 5 in operation at 1.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/a)
 
-[^key-fabf5217e49be27e725913964927c981]: Commencement: Reg. 6 in operation at 1.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/a)
+[^c-fabf5217e49be27e725913964927c981]: Commencement: Reg. 6 in operation at 1.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/a)
 
 [^f00011]: Footnote: Schedule 1 is substituted by the Schedule to [S.R. 1999 No. 111](https://www.legislation.gov.uk/nisr/1999/111) and amended by [S.R. 2002 No. 85](https://www.legislation.gov.uk/nisr/2002/85)
 
 [^f00012]: Footnote: Schedule 3 is substituted by the Schedule to [S.R. 2002 No. 85](https://www.legislation.gov.uk/nisr/2002/85)
 
-[^key-17d765c2cccceb60ce81728a85aec85a]: Commencement: Reg. 7 in operation at 1.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/a)
+[^c-17d765c2cccceb60ce81728a85aec85a]: Commencement: Reg. 7 in operation at 1.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/a)
 
-[^key-e87b18ca62050f01a4c35f90c9718210]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/176/regulation/9) revoked (9.11.2007) by [General Ophthalmic Services Regulations (Northern Ireland) 2007 (S.R. 2007/436)](https://www.legislation.gov.uk/nisr/2007/436), [regs. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2007/436/schedule/3) (with [reg. 23(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/2))
+[^c-e87b18ca62050f01a4c35f90c9718210]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/176/regulation/9) revoked (9.11.2007) by [General Ophthalmic Services Regulations (Northern Ireland) 2007 (S.R. 2007/436)](https://www.legislation.gov.uk/nisr/2007/436), [regs. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2007/436/schedule/3) (with [reg. 23(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/2))
 
-[^key-36bb519b6a83f7ca26f52dae5d8688de]: Commencement: Reg. 10 in operation at 6.4.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/b)
+[^c-36bb519b6a83f7ca26f52dae5d8688de]: Commencement: Reg. 10 in operation at 6.4.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/b)
 
-[^key-398ca08c153275b30d59c662f471b336]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/nisr/2003/176/regulation/10/2) revoked (9.11.2007) by [General Ophthalmic Services Regulations (Northern Ireland) 2007 (S.R. 2007/436)](https://www.legislation.gov.uk/nisr/2007/436), [regs. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2007/436/schedule/3) (with [reg. 23(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/2))
+[^c-398ca08c153275b30d59c662f471b336]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/nisr/2003/176/regulation/10/2) revoked (9.11.2007) by [General Ophthalmic Services Regulations (Northern Ireland) 2007 (S.R. 2007/436)](https://www.legislation.gov.uk/nisr/2007/436), [regs. 1](https://www.legislation.gov.uk/nisr/2007/436/regulation/1), [23(1)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2007/436/schedule/3) (with [reg. 23(2)](https://www.legislation.gov.uk/nisr/2007/436/regulation/23/2))
 
-[^key-78b067ee9475ff6215f80a548b2853d8]: Commencement: Sch. in operation at 1.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/a)
+[^c-78b067ee9475ff6215f80a548b2853d8]: Commencement: Sch. in operation at 1.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2003/176/regulation/1/1/a)

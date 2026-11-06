@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Acquisition of subsoil only[^key-b929885b52de059cd559f22075e7c374]
+## 24. Acquisition of subsoil only[^c-b929885b52de059cd559f22075e7c374]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b929885b52de059cd559f22075e7c374]: Commencement: Art. 24 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-b929885b52de059cd559f22075e7c374]: Commencement: Art. 24 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)

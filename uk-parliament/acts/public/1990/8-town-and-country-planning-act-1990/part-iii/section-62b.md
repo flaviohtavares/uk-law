@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62B. Designation for the purposes of section 62A[^key-2bf446afabc977549223178c8099989a]
+## 62B. Designation for the purposes of section 62A[^c-2bf446afabc977549223178c8099989a]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) by reference to those criteria, the Secretary of State considers that there are respects in which the authority are not adequately performing their function of determining applications under this Part, and
 - (c) the criteria that are to be applied in deciding whether to revoke a designation are set out in a document to which subsection (2) applies.
 
-(1A)[^key-d0c21ea78a46d88977a5975b2b98dbf2] A document to which subsection (2) applies may set out different criteria for each description of application prescribed under section 62A(1A).
+(1A)[^c-d0c21ea78a46d88977a5975b2b98dbf2] A document to which subsection (2) applies may set out different criteria for each description of application prescribed under section 62A(1A).
 
 (2) This subsection applies to a document if—
 
@@ -46,7 +46,7 @@ summary: ''
 - (a) the Homes and Communities Agency;
 - (b) the Mayor of London;
 - (c) a Mayoral development corporation;
-- (ca)[^key-42073694126031b2650aef02161459c4] a development corporation established under section 3 of the New Towns Act 1981;
+- (ca)[^c-42073694126031b2650aef02161459c4] a development corporation established under section 3 of the New Towns Act 1981;
 - (d) an urban development corporation.
 
 (6) The Secretary of State must publish (in such manner as the Secretary of State thinks fit)—
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2bf446afabc977549223178c8099989a]: Textual amendment: Ss. 62A-62C inserted (9.5.2013 for E. for specified purposes, 1.10.2013 except in relation to s. 62A(3)(4), 25.4.2013, 1.10.2014 in so far as not already in force) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/1/1), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2); [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/1/a); [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
+[^c-2bf446afabc977549223178c8099989a]: Textual amendment: Ss. 62A-62C inserted (9.5.2013 for E. for specified purposes, 1.10.2013 except in relation to s. 62A(3)(4), 25.4.2013, 1.10.2014 in so far as not already in force) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/1/1), [35(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/2); [S.I. 2013/1124](https://www.legislation.gov.uk/uksi/2013/1124), [art. 2](https://www.legislation.gov.uk/uksi/2013/1124/article/2); [S.I. 2013/2143](https://www.legislation.gov.uk/uksi/2013/2143), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/2143/article/2/1/a); [S.I. 2014/1531](https://www.legislation.gov.uk/uksi/2014/1531), [art. 2](https://www.legislation.gov.uk/uksi/2014/1531/article/2)
 
-[^key-d0c21ea78a46d88977a5975b2b98dbf2]: Textual amendment: S. 62B(1A) inserted (12.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 153(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/153/5), [216(2)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/2/c)
+[^c-d0c21ea78a46d88977a5975b2b98dbf2]: Textual amendment: S. 62B(1A) inserted (12.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 153(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/153/5), [216(2)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/2/c)
 
-[^key-42073694126031b2650aef02161459c4]: Textual amendment: S. 62B(5)(ca) inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 17 para. 2(5)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/17/paragraph/2/5) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/g)
+[^c-42073694126031b2650aef02161459c4]: Textual amendment: S. 62B(5)(ca) inserted (14.4.2026) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 17 para. 2(5)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/17/paragraph/2/5) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/g)

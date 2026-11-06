@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Notifications to patients affected by differences between the terms of a default and a general medical services contract[^key-b1195fa3bdd41b0e1ac2efed48beda99]
+## 53. Notifications to patients affected by differences between the terms of a default and a general medical services contract[^c-b1195fa3bdd41b0e1ac2efed48beda99]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ the Local Health Board shall notify those patients in writing of the change and 
 
 ## Annotations
 
-[^key-b1195fa3bdd41b0e1ac2efed48beda99]: Commencement: Art. 53 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-b1195fa3bdd41b0e1ac2efed48beda99]: Commencement: Art. 53 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

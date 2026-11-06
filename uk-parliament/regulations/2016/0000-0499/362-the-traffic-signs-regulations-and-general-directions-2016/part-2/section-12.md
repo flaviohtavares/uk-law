@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Revocations[^key-e630f5063368a4022126067fd7a92878]
+## 12. Revocations[^c-e630f5063368a4022126067fd7a92878]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The General Directions specified in the table in Part 2 of Schedule 19 are revok
 
 ## Annotations
 
-[^key-e630f5063368a4022126067fd7a92878]: Commencement: [Dir. 12](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/12) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
+[^c-e630f5063368a4022126067fd7a92878]: Commencement: [Dir. 12](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/12) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)

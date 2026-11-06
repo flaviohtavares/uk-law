@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Variation of emissions monitoring plans[^key-08fcfbb7031dbbc099204ce8e7842945]
+## 31. Variation of emissions monitoring plans[^c-08fcfbb7031dbbc099204ce8e7842945]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-08fcfbb7031dbbc099204ce8e7842945]: Commencement: Art. 31 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-08fcfbb7031dbbc099204ce8e7842945]: Commencement: Art. 31 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Directions: requirements to notify Secretary of State[^key-fb2ac1282bc6b03f3d80701671551d6e]
+## 10. Directions: requirements to notify Secretary of State[^c-fb2ac1282bc6b03f3d80701671551d6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb2ac1282bc6b03f3d80701671551d6e]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/20/section/10) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-fb2ac1282bc6b03f3d80701671551d6e]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/20/section/10) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

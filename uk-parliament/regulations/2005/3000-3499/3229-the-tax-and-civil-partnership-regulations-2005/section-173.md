@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173.[^key-7600c87bcaa344fa3c44d77be9cc5d9c]
+## 173.[^c-7600c87bcaa344fa3c44d77be9cc5d9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 5 (enterprise management incentives), in paragraph 31(3), in the def
 
 ## Annotations
 
-[^key-7600c87bcaa344fa3c44d77be9cc5d9c]: Commencement: Reg. 173 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-7600c87bcaa344fa3c44d77be9cc5d9c]: Commencement: Reg. 173 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

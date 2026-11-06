@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 212. Requirement to assess costs by the detailed procedure[^key-30930336e97088e066323798e75759aa]
+## 212. Requirement to assess costs by the detailed procedure[^c-30930336e97088e066323798e75759aa]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-30930336e97088e066323798e75759aa]: Commencement: Rule 212 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-30930336e97088e066323798e75759aa]: Commencement: Rule 212 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00071]: Footnote: Paragraph (1) was amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

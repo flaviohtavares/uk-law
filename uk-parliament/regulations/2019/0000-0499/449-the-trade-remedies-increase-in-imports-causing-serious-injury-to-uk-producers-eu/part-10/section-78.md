@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78.[^key-775b5326c5b5250b0cf2c979ffae6542]
+## 78.[^c-775b5326c5b5250b0cf2c979ffae6542]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Paragraph 3 (notice of a provisional affirmative determination with no recommend
 
 ## Annotations
 
-[^key-775b5326c5b5250b0cf2c979ffae6542]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2019/449/regulation/78) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-775b5326c5b5250b0cf2c979ffae6542]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2019/449/regulation/78) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

@@ -34,7 +34,7 @@ Public Procurement, England And Wales
 
 Public Procurement, Northern Ireland
 
-The Public Contracts (Amendment) Regulations 2009 (revoked)[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]
+The Public Contracts (Amendment) Regulations 2009 (revoked)[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]
 
 Made
 
@@ -48,60 +48,60 @@ Coming into force
 
 20th December 2009
 
-[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]
+## 1. Citation, commencement and interpretation[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]
+## 2. Amendment of the principal Regulations[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]
+## 3.[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]
+## 4.[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]
+## 5.[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]
+## 6.[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]
+## 7.[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]
+## 8.[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]
+## 9.[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]
+## 10.[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Transitional provisions[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]
+## 11. Transitional provisions[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0eae6e57fbaf9a6b0e2c342c0eb98daf]: Textual amendment: Regulations revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
+[^c-0eae6e57fbaf9a6b0e2c342c0eb98daf]: Textual amendment: Regulations revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))

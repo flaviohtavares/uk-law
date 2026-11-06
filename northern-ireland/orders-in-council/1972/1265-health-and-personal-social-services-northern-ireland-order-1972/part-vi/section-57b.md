@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Department[^key-cefcb1c1dcb555806dcc24461e3b19cc] may, subject to such conditions as may be prescribed, enter into a general medical services contract with—
+(1) The Department[^c-cefcb1c1dcb555806dcc24461e3b19cc] may, subject to such conditions as may be prescribed, enter into a general medical services contract with—
 
 - (a) a medical practitioner;
 - (b) two or more individuals practising in partnership where the conditions in paragraph (2) are satisfied; or
@@ -51,6 +51,6 @@ summary: ''
 
 [^c17172121]: Textual amendment: [2004 NI 2](https://www.legislation.gov.uk/nisi/2004)
 
-[^key-cefcb1c1dcb555806dcc24461e3b19cc]: Textual amendment: Words in [art. 57B(1)](https://www.legislation.gov.uk/nisi/1972/1265/article/57B/1) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 24](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/24); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-cefcb1c1dcb555806dcc24461e3b19cc]: Textual amendment: Words in [art. 57B(1)](https://www.legislation.gov.uk/nisi/1972/1265/article/57B/1) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 24](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/24); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c23380471]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [s. 34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(f)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/f); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)

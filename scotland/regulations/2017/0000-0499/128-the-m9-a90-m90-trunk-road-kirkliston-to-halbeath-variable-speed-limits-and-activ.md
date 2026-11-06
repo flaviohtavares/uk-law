@@ -48,11 +48,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 134(8)[^f00002] of that Act they have consulted with such representative organisations as they think fit.
 
-## 1. Citation and commencement[^key-2fc9b65804908e0d67127200a1c6fa61]
+## 1. Citation and commencement[^c-2fc9b65804908e0d67127200a1c6fa61]
 
 These Regulations may be cited as the M9/A90/M90 Trunk Road (Kirkliston to Halbeath) (Variable Speed Limits and Actively Managed Hard Shoulder) Amendment Regulations 2017 and come into force on 26th May 2017.
 
-## 2. Amendment of the M9/A90/M90 Trunk Road (Kirkliston to Halbeath) (Variable Speed Limits and Actively Managed Hard Shoulder) Regulations 2012[^key-d5faa2b3db1f923321be1e2e905b23fd]
+## 2. Amendment of the M9/A90/M90 Trunk Road (Kirkliston to Halbeath) (Variable Speed Limits and Actively Managed Hard Shoulder) Regulations 2012[^c-d5faa2b3db1f923321be1e2e905b23fd]
 
 In the schedule of the M9/A90/M90 Trunk Road (Kirkliston to Halbeath) (Variable Speed Limits and Actively Managed Hard Shoulder) Regulations 2012[^f00003] for paragraph 2 substitute—
 
@@ -84,8 +84,8 @@ Regulation 2 increases, by 1280 metres or thereby, the length of the northbound 
 
 [^f00002]: Footnote: Section 134(8) was inserted by the Scotland Act [2016 (c.11)](https://www.legislation.gov.uk/ukpga/2016/11) schedule 2, paragraph 12(5).
 
-[^key-2fc9b65804908e0d67127200a1c6fa61]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/128/regulation/1) in force at 26.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/128/regulation/1)
+[^c-2fc9b65804908e0d67127200a1c6fa61]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/128/regulation/1) in force at 26.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/128/regulation/1)
 
-[^key-d5faa2b3db1f923321be1e2e905b23fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/128/regulation/2) in force at 26.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/128/regulation/1)
+[^c-d5faa2b3db1f923321be1e2e905b23fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/128/regulation/2) in force at 26.5.2017, see [reg. 1](https://www.legislation.gov.uk/ssi/2017/128/regulation/1)
 
 [^f00003]: Footnote: [S.S.I. 2012/147](https://www.legislation.gov.uk/ssi/2012/147).

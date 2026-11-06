@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.16. Pre-trial hearings in a magistrates’ court: general rules[^key-2fd84ef730ed103765bc3d7c577acbfc]
+## 3.16. Pre-trial hearings in a magistrates’ court: general rules[^c-2fd84ef730ed103765bc3d7c577acbfc]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2fd84ef730ed103765bc3d7c577acbfc]: Commencement: [Rule 3.16](https://www.legislation.gov.uk/uksi/2025/909/rule/3.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2fd84ef730ed103765bc3d7c577acbfc]: Commencement: [Rule 3.16](https://www.legislation.gov.uk/uksi/2025/909/rule/3.16) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00118]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 11 was amended by paragraph 39 of Schedule 8 and paragraph 39 of Schedule 10 to the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), section 54 of the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), section 48 of, and paragraph 4 of Schedule 11 to, the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2) and paragraph 43 of Schedule 24 to the Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Duty of road works authority and undertakers to provide Commissioner with information[^key-c5ebb203f893fd41251bfa86cf6e5c24]
+## 18. Duty of road works authority and undertakers to provide Commissioner with information[^c-c5ebb203f893fd41251bfa86cf6e5c24]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ do not agree as to whether information asked for by the Commissioner in pursuanc
 
 ## Annotations
 
-[^key-c5ebb203f893fd41251bfa86cf6e5c24]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2005/12/section/18) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-c5ebb203f893fd41251bfa86cf6e5c24]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2005/12/section/18) in force at 1.4.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

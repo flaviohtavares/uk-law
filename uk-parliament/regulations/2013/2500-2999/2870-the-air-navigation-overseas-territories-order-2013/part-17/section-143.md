@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Prohibition of unlicensed air traffic controllers and student air traffic controllers[^key-40e52780eeb68135e62ea2cb3d17341f]
+## 143. Prohibition of unlicensed air traffic controllers and student air traffic controllers[^c-40e52780eeb68135e62ea2cb3d17341f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,10 +28,10 @@ summary: ''
 
 (2) Nothing in this article prohibits the holder of a valid air traffic controller’s licence from providing at any place, or for any sector for which the licence includes a valid certificate of competence, information to aircraft in flight in the interests of safety.
 
-(3) A licence is not required by any person who acts in the course of his or her duty as a member of any of Her Majesty’s naval, military or air forces or as a member of a visiting force or when providing an air traffic control service at a military aerodrome[^key-fbfaddf4f410539b0ff35971d2fc539a].
+(3) A licence is not required by any person who acts in the course of his or her duty as a member of any of Her Majesty’s naval, military or air forces or as a member of a visiting force or when providing an air traffic control service at a military aerodrome[^c-fbfaddf4f410539b0ff35971d2fc539a].
 
 ## Annotations
 
-[^key-40e52780eeb68135e62ea2cb3d17341f]: Commencement: [Art. 143](https://www.legislation.gov.uk/uksi/2013/2870/article/143) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-40e52780eeb68135e62ea2cb3d17341f]: Commencement: [Art. 143](https://www.legislation.gov.uk/uksi/2013/2870/article/143) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-fbfaddf4f410539b0ff35971d2fc539a]: Textual amendment: Words in [art. 143(3)](https://www.legislation.gov.uk/uksi/2013/2870/article/143/3) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [16(1)](https://www.legislation.gov.uk/uksi/2021/755/article/16/1)
+[^c-fbfaddf4f410539b0ff35971d2fc539a]: Textual amendment: Words in [art. 143(3)](https://www.legislation.gov.uk/uksi/2013/2870/article/143/3) inserted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [16(1)](https://www.legislation.gov.uk/uksi/2021/755/article/16/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Transfer of assumed liability[^key-7d77303c9ca1e8b50f7178e633314d14]
+## 32. Transfer of assumed liability[^c-7d77303c9ca1e8b50f7178e633314d14]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d77303c9ca1e8b50f7178e633314d14]: Commencement: Reg. 32 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-7d77303c9ca1e8b50f7178e633314d14]: Commencement: Reg. 32 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

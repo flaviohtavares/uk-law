@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Effect of rules etc on deference decisions[^key-e9646b007558d577f41e7603ccef72e1][^key-db2943dcec5decad50eaf6aa42fdd16e]
+## 32. Effect of rules etc on deference decisions[^c-e9646b007558d577f41e7603ccef72e1][^c-db2943dcec5decad50eaf6aa42fdd16e]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e9646b007558d577f41e7603ccef72e1]: Commencement: S. 32 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-e9646b007558d577f41e7603ccef72e1]: Commencement: S. 32 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-db2943dcec5decad50eaf6aa42fdd16e]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/29/section/32) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(w)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/w)
+[^c-db2943dcec5decad50eaf6aa42fdd16e]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2023/29/section/32) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(w)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/w)

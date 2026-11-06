@@ -24,7 +24,7 @@ summary: ''
 
 Section 37(4)
 
-### 1. Provision to be construed as one with existing enfranchisement legislation[^key-6bc8f886857969d12af773ce131fe5fb]
+### 1. Provision to be construed as one with existing enfranchisement legislation[^c-6bc8f886857969d12af773ce131fe5fb]
 
 (1) Schedules 4 and 5 and this Schedule are to be construed as one—
 
@@ -38,7 +38,7 @@ Section 37(4)
 - (a) there is not to be a single term date for the deemed single lease (as would otherwise be the case in accordance with section 3(6) of the LRA 1967 or section 7(6) of the LRHUDA 1993);
 - (b) instead, each constituent lease has its own term date (and sub-paragraph (1) applies for the purpose of giving the meaning of “term date” here).
 
-### 2. Meaning of specific expressions[^key-4cb4d1c67353df69c203a4090c50e89f]
+### 2. Meaning of specific expressions[^c-4cb4d1c67353df69c203a4090c50e89f]
 
 (1) In Schedules 4 and 5 and this Schedule—
 
@@ -67,7 +67,7 @@ Section 37(4)
 
 (2) Paragraph 3 sets out the meaning of other expressions used in Schedule 4 and 5 and this Schedule.
 
-### 3. Expressions with different meanings in relation to different statutory grants or leases[^key-d8fe0503aa319e4fd553c396f2fb377c]
+### 3. Expressions with different meanings in relation to different statutory grants or leases[^c-d8fe0503aa319e4fd553c396f2fb377c]
 
 In Schedules 4 and 5 and this Schedule an expression set out in an entry in the first column of the following table has the meaning given in the corresponding entry in—
 
@@ -91,8 +91,8 @@ In Schedules 4 and 5 and this Schedule an expression set out in an entry in the 
 
 ## Annotations
 
-[^key-6bc8f886857969d12af773ce131fe5fb]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-6bc8f886857969d12af773ce131fe5fb]: Commencement: Sch. 6 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-4cb4d1c67353df69c203a4090c50e89f]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-4cb4d1c67353df69c203a4090c50e89f]: Commencement: Sch. 6 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-d8fe0503aa319e4fd553c396f2fb377c]: Commencement: Sch. 6 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d8fe0503aa319e4fd553c396f2fb377c]: Commencement: Sch. 6 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

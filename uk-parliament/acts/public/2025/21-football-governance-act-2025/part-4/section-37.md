@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Matters relevant to determinations[^key-0177b385d5ebcfd2f18c2de4d183118e][^key-7436e746974c6eb1a61fcfa882a649c6]
+## 37. Matters relevant to determinations[^c-0177b385d5ebcfd2f18c2de4d183118e][^c-7436e746974c6eb1a61fcfa882a649c6]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0177b385d5ebcfd2f18c2de4d183118e]: Commencement: S. 37 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-0177b385d5ebcfd2f18c2de4d183118e]: Commencement: S. 37 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-7436e746974c6eb1a61fcfa882a649c6]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2025/21/section/37) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/vi)
+[^c-7436e746974c6eb1a61fcfa882a649c6]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2025/21/section/37) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/vi)

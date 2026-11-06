@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Penalty on persons omitting to fasten gates.[^c5589531][^key-468e0da562ef2870db079594c9415ab1]
+## 68. Penalty on persons omitting to fasten gates.[^c5589531][^c-468e0da562ef2870db079594c9415ab1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ If any person omit to shut and fasten any gate or to lower any barrier[^c5589541
 
     S. 68 applied (8.11.1995) by [1995 c. viii](https://www.legislation.gov.uk/ukla/1995/8), [s. 2](https://www.legislation.gov.uk/ukla/1995/8/section/2)
 
-[^key-468e0da562ef2870db079594c9415ab1]: Modification: [S. 68](https://www.legislation.gov.uk/ukpga/Vict/8-9/33/section/68) incorporated (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2012/345/article/5/1)
+[^c-468e0da562ef2870db079594c9415ab1]: Modification: [S. 68](https://www.legislation.gov.uk/ukpga/Vict/8-9/33/section/68) incorporated (28.12.2012) by [The Banchory and Crathes Light Railway Order 2012 (S.S.I. 2012/345)](https://www.legislation.gov.uk/ssi/2012/345), [arts. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1), [5(1)](https://www.legislation.gov.uk/ssi/2012/345/article/5/1)
 
 [^c5589541]: Textual amendment: Words in s. 68 inserted (15.7.1992) by [Transport and Works Act 1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), [s.49(1)(2)](https://www.legislation.gov.uk/ukpga/1992/42/section/49/1/2); [S.I. 1992/1347](https://www.legislation.gov.uk/uksi/1992/1347), [art. 2](https://www.legislation.gov.uk/uksi/1992/1347/article/2),Sch.
 

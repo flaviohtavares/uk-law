@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Annual report on postal museum collection and archive[^key-2349a0bc549de32d391ef5f1fa3ebeba]
+## 12. Annual report on postal museum collection and archive[^c-2349a0bc549de32d391ef5f1fa3ebeba]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2349a0bc549de32d391ef5f1fa3ebeba]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2011/5/section/12) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-2349a0bc549de32d391ef5f1fa3ebeba]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2011/5/section/12) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

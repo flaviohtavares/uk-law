@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Circumstances in which a person is to be treated as being or not being a member of the household[^key-bf29b12a7f52530aa9f1c491e073f060]
+## 6. Circumstances in which a person is to be treated as being or not being a member of the household[^c-bf29b12a7f52530aa9f1c491e073f060]
 
 *Extent: E+W+S*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bf29b12a7f52530aa9f1c491e073f060]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1988/1890/regulation/6) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-bf29b12a7f52530aa9f1c491e073f060]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1988/1890/regulation/6) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
 [^f00021]: Footnote: S.I. [1983/1964](https://www.legislation.gov.uk/uksi/1983/1964).
 

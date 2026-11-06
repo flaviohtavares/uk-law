@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Conversion of status – eligible students transferring to designated distance learning courses[^key-e85744a10cc3f431c582b6cbe9a2b8ab]
+## 127. Conversion of status – eligible students transferring to designated distance learning courses[^c-e85744a10cc3f431c582b6cbe9a2b8ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e85744a10cc3f431c582b6cbe9a2b8ab]: Commencement: Reg. 127 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-e85744a10cc3f431c582b6cbe9a2b8ab]: Commencement: Reg. 127 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Tips which are a significant hazard (notifiable tips)[^key-f7ad1ec5027c7413fde5a3b8f76a53f2]
+## 63. Tips which are a significant hazard (notifiable tips)[^c-f7ad1ec5027c7413fde5a3b8f76a53f2]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7ad1ec5027c7413fde5a3b8f76a53f2]: Commencement: [Reg. 63](https://www.legislation.gov.uk/nisr/2016/427/regulation/63) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-f7ad1ec5027c7413fde5a3b8f76a53f2]: Commencement: [Reg. 63](https://www.legislation.gov.uk/nisr/2016/427/regulation/63) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

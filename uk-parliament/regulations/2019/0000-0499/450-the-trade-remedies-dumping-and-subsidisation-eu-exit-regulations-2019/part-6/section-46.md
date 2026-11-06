@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Permitted disclosure[^key-8eb034ce02f0fb502e769953223d5655]
+## 46. Permitted disclosure[^c-8eb034ce02f0fb502e769953223d5655]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8eb034ce02f0fb502e769953223d5655]: Commencement: Reg. 46 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-8eb034ce02f0fb502e769953223d5655]: Commencement: Reg. 46 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

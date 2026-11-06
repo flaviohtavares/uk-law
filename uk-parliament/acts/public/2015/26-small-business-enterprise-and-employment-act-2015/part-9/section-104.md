@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Convictions abroad[^key-f4b66e38f54adf3d3812e9524c296cc8][^key-b2d8c8b4cc3a64c79a686a9f9b8f46a8]
+## 104. Convictions abroad[^c-f4b66e38f54adf3d3812e9524c296cc8][^c-b2d8c8b4cc3a64c79a686a9f9b8f46a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f4b66e38f54adf3d3812e9524c296cc8]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2015/26/section/104) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c)
+[^c-f4b66e38f54adf3d3812e9524c296cc8]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2015/26/section/104) in force at 26.5.2015 for specified purposes by [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c)
 
-[^key-b2d8c8b4cc3a64c79a686a9f9b8f46a8]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2015/26/section/104) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/c) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/3))
+[^c-b2d8c8b4cc3a64c79a686a9f9b8f46a8]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2015/26/section/104) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/c) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/3))

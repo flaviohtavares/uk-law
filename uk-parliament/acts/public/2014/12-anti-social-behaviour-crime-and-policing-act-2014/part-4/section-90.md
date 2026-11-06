@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Compensation[^key-c4bc793d21ab2b4ff9b15efca72bb145]
+## 90. Compensation[^c-c4bc793d21ab2b4ff9b15efca72bb145]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4bc793d21ab2b4ff9b15efca72bb145]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2014/12/section/90) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-c4bc793d21ab2b4ff9b15efca72bb145]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2014/12/section/90) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)

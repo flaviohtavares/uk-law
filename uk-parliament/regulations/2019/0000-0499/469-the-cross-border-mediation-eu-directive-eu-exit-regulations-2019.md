@@ -44,37 +44,37 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with paragraph 1(3) of Schedule 7 to that Act, a draft of this instrument has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-bd45c9b72ac2cfe3173240a998c2fd2b]
+## 1. Citation, commencement and extent[^c-bd45c9b72ac2cfe3173240a998c2fd2b]
 
 (1) These Regulations may be cited as the Cross-Border Mediation (EU Directive) (EU Exit) Regulations 2019 and come into force on exit day.
 
-(2) Any amendment or revocation[^key-77c1b907d2a86c07feb912fa159fa73e] made by these Regulations has the same extent as the provision amended or revoked[^key-d22c7a78c77e0a61f01f676c0ba61f13] .
+(2) Any amendment or revocation[^c-77c1b907d2a86c07feb912fa159fa73e] made by these Regulations has the same extent as the provision amended or revoked[^c-d22c7a78c77e0a61f01f676c0ba61f13] .
 
-## 2. Revocation... of the Cross-Border Mediation (EU Directive) Regulations 2011[^key-2fcadaec73de89e097820ff595988021][^key-cb23eb1b2bc6e252c1eecff6ed932552]
+## 2. Revocation... of the Cross-Border Mediation (EU Directive) Regulations 2011[^c-2fcadaec73de89e097820ff595988021][^c-cb23eb1b2bc6e252c1eecff6ed932552]
 
 (1) The Cross-Border Mediation (EU Directive) Regulations 2011 [^c23623211] are revoked.
 
-(2)[^key-c2a124d19d41780d726b8d7820880c5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c2a124d19d41780d726b8d7820880c5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-06132ff24c54ad7f90599405643e613e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-06132ff24c54ad7f90599405643e613e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-4b0df16f6b66fdfe5f04cce3ad8c0221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4b0df16f6b66fdfe5f04cce3ad8c0221] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation ... of the Cross-Border Mediation Regulations (Northern Ireland) 2011[^key-4b3ef2e3122ab0b43dc60fd8e35202ac][^key-3f604fba6ae3051b522163935dc0d0dc]
+## 3. Revocation ... of the Cross-Border Mediation Regulations (Northern Ireland) 2011[^c-4b3ef2e3122ab0b43dc60fd8e35202ac][^c-3f604fba6ae3051b522163935dc0d0dc]
 
 (1) The Cross-Border Mediation Regulations (Northern Ireland) 2011 [^c23623231] (“**the Northern Ireland 2011 Regulations**”) are revoked.
 
-(2)[^key-b53348fddcbefbe532519618b673329d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b53348fddcbefbe532519618b673329d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-af010e7654fec459169ee2476ac75eaf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-af010e7654fec459169ee2476ac75eaf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-960ae1c44fb613e05915fce423e6bf93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-960ae1c44fb613e05915fce423e6bf93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of enactments specified in Schedule 1[^key-521324eaa698cb02d4d6f1b1106413c8]
+## 4. Amendment of enactments specified in Schedule 1[^c-521324eaa698cb02d4d6f1b1106413c8]
 
 Schedule 1 contains amendments to enactments.
 
-## 5. Saving: application of Article 69 of the withdrawal agreement – mediations begun before IP completion day[^key-9e26688f8237d0c098a171e4114e4faa][^key-1b8e3669bb41daa9689b3b98200ed381]
+## 5. Saving: application of Article 69 of the withdrawal agreement – mediations begun before IP completion day[^c-9e26688f8237d0c098a171e4114e4faa][^c-1b8e3669bb41daa9689b3b98200ed381]
 
 Nothing in these Regulations affects the application of paragraph 1(b) of Article 69 of the withdrawal agreement and legislation amended or revoked by these Regulations continues to have effect for the purposes of that paragraph as if the amendments or revocations had not been made.
 
@@ -90,28 +90,28 @@ Regulation 4
 
 ### PART 1 — Amendment of primary legislation
 
-**1.**[^key-4d0f07a9ecb8924e4e21861d1a40dc97] In the Prescription Act 1832 [^c23623241], omit section 8A (exclusion of time because of mediation in certain cross-border disputes).
+**1.**[^c-4d0f07a9ecb8924e4e21861d1a40dc97] In the Prescription Act 1832 [^c23623241], omit section 8A (exclusion of time because of mediation in certain cross-border disputes).
 
-**2.**[^key-473f88bd8c79a492201f2055b4335b99] (1) The Land Registration Act (Northern Ireland) 1970 [^c23623251] is amended as follows.
+**2.**[^c-473f88bd8c79a492201f2055b4335b99] (1) The Land Registration Act (Northern Ireland) 1970 [^c23623251] is amended as follows.
 
 (2) In Schedule 9 (compensation payable under the Act)—
 
 - (a) in paragraph 4(1), omit “and paragraph 4A”;
 - (b) omit paragraph 4A.
 
-**3.**[^key-d2f097042faf1c5941c5519fa7583f1a] (1) The Equal Pay Act (Northern Ireland) 1970 [^c23623261] is amended as follows.
+**3.**[^c-d2f097042faf1c5941c5519fa7583f1a] (1) The Equal Pay Act (Northern Ireland) 1970 [^c23623261] is amended as follows.
 
 (2) In section 2ZA, in subsections (3) to (6) (“qualifying date” under section 2(4)), omit “, subject to section 2ZAA,” each time it occurs.
 
 (3) Omit section 2ZAA (extension of time limit: mediation).
 
-**4.**[^key-fdb8a8ef4c76a53237c0d8aa772bcc56] (1) The Prescription and Limitation (Scotland) Act 1973 [^c23623271] is amended as follows.
+**4.**[^c-fdb8a8ef4c76a53237c0d8aa772bcc56] (1) The Prescription and Limitation (Scotland) Act 1973 [^c23623271] is amended as follows.
 
 (2) In section 22A (ten years' prescription of obligations), omit subsections (5), (6), (7) and (8).
 
 (3) Omit section 22CB (extension of limitation period 1987 Act actions: mediation).
 
-**5.**[^key-b6206a20f91e7ed7673d91e88be15509] (1) The Sex Discrimination (Northern Ireland) Order 1976 [^c23623281] is amended as follows.
+**5.**[^c-b6206a20f91e7ed7673d91e88be15509] (1) The Sex Discrimination (Northern Ireland) Order 1976 [^c23623281] is amended as follows.
 
 (2) In Article 76 (period within which proceedings to be brought)—
 
@@ -120,13 +120,13 @@ Regulation 4
 
 (3) Omit Article 76A (extension of time limit: mediation).
 
-**6.**[^key-2f281ef15baa36e7214f9f03f735652e] (1) The Matrimonial Causes (Northern Ireland) Order 1978 [^c23623291] is amended as follows.
+**6.**[^c-2f281ef15baa36e7214f9f03f735652e] (1) The Matrimonial Causes (Northern Ireland) Order 1978 [^c23623291] is amended as follows.
 
 (2) In Article 55 (extension of section 17 of Married Women's Property Act 1882) omit “, subject to Article 55A, ”.
 
 (3) Omit Article 55A (extension of time limit: mediation).
 
-**7.**[^key-4f969dc1dc5c77fc9b44f45f84162c58] (1) The Limitation Act 1980 [^c23623301] is amended as follows.
+**7.**[^c-4f969dc1dc5c77fc9b44f45f84162c58] (1) The Limitation Act 1980 [^c23623301] is amended as follows.
 
 (2) In section 10(5) (special time limit for claiming contribution), omit “, 33A”.
 
@@ -134,27 +134,27 @@ Regulation 4
 
 (4) Omit section 33A (extension of time limits because of mediation in certain cross-border disputes).
 
-**8.**[^key-a8081c5c12e903973139273d1a1cc9d1] (1) The Domestic Proceedings (Northern Ireland) Order 1980 [^c23623311] is amended as follows.
+**8.**[^c-a8081c5c12e903973139273d1a1cc9d1] (1) The Domestic Proceedings (Northern Ireland) Order 1980 [^c23623311] is amended as follows.
 
 (2) In Article 35 (time limits for applications), omit “, and subject to Article 35A,”.
 
 (3) Omit Article 35A (extension of time: mediation).
 
-**9.**[^key-754995c23ae7b4e09282cdf2bac7fb8b] (1) The Magistrates' Courts (Northern Ireland) Order 1981 [^c23623321] is amended as follows.
+**9.**[^c-754995c23ae7b4e09282cdf2bac7fb8b] (1) The Magistrates' Courts (Northern Ireland) Order 1981 [^c23623321] is amended as follows.
 
 (2) In Article 63(1) (time within which debt proceedings may be commenced) omit “and Article 63A”.
 
 (3) Omit Article 63A (extension of time limit: mediation).
 
-**10.**[^key-6e4b12915bee391d63b37c393f9d5221] (1) The Foreign Limitation Periods Act 1984 [^c23623331] is amended as follows.
+**10.**[^c-6e4b12915bee391d63b37c393f9d5221] (1) The Foreign Limitation Periods Act 1984 [^c23623331] is amended as follows.
 
 (2) In section 1(1)(a) (application of foreign limitation law), for “sections 1A and 1B” substitute “ section 1B ”.
 
 (3) Omit section 1A (extension of limitation periods because of mediation of certain cross-border disputes).
 
-**11.**[^key-0820f83cc02dbbde7b0d9d01298435d6] In the Limitation (Northern Ireland) Order 1989 [^c23623341], omit Article 51A (extension of time limits: mediation).
+**11.**[^c-0820f83cc02dbbde7b0d9d01298435d6] In the Limitation (Northern Ireland) Order 1989 [^c23623341], omit Article 51A (extension of time limits: mediation).
 
-**12.**[^key-33fbf916b1f4edd95bb58867800fa23e] (1) The Employment Rights Act 1996 [^c23623351] is amended as follows.
+**12.**[^c-33fbf916b1f4edd95bb58867800fa23e] (1) The Employment Rights Act 1996 [^c23623351] is amended as follows.
 
 (2) In section 11 (references to employment tribunals), omit subsection (5) [^c23623361].
 
@@ -290,20 +290,20 @@ Regulation 4
 
 (26) In section 207B(1) (extension of time limits to facilitate conciliation before institution of proceedings) [^c23623601], omit from “But it does not apply” to the end.
 
-**13.**[^key-f7bda88345545ec2bb6f002bacb4148d] In the Employment Rights (Northern Ireland) Order 1996, omit Article 249A [^c23623611] (time limits in relation to certain mediated cross-border disputes).
+**13.**[^c-f7bda88345545ec2bb6f002bacb4148d] In the Employment Rights (Northern Ireland) Order 1996, omit Article 249A [^c23623611] (time limits in relation to certain mediated cross-border disputes).
 
-**14.**[^key-d075ad68c96063e50465469e7ccb04de] (1) The Fair Employment and Treatment (Northern Ireland) Order 1998 [^c23623621] is amended as follows.
+**14.**[^c-d075ad68c96063e50465469e7ccb04de] (1) The Fair Employment and Treatment (Northern Ireland) Order 1998 [^c23623621] is amended as follows.
 
 (2) In Article 46 (period within which proceedings must be brought)—
 
-- (a)[^key-9c2ce1d3c24dc699599493cbdb1a3f53] in paragraph (1), for “Articles 46A and” substitute “Article”;
+- (a)[^c-9c2ce1d3c24dc699599493cbdb1a3f53] in paragraph (1), for “Articles 46A and” substitute “Article”;
 - (b) in paragraphs (2), (3) and (4), omit “and to Article 46A,”.
 
 (3) Omit Article 46A (extension of time limits: mediation).
 
-(4)[^key-df065130663f3fee5bfa2f7ddae5ed21] In Article 46B(1) (extension of time limit to allow conciliation), omit the second sentence.
+(4)[^c-df065130663f3fee5bfa2f7ddae5ed21] In Article 46B(1) (extension of time limit to allow conciliation), omit the second sentence.
 
-**15.**[^key-c3670035d9092f93ca689578c0c72ed1] (1) Section 11 of the Employment Relations Act 1999 [^c23623631] (complaint to employment tribunal) is amended as follows.
+**15.**[^c-c3670035d9092f93ca689578c0c72ed1] (1) Section 11 of the Employment Relations Act 1999 [^c23623631] (complaint to employment tribunal) is amended as follows.
 
 (2) For subsection (2A) substitute—
 
@@ -313,7 +313,7 @@ Regulation 4
 
 (3) In subsection (2B), for “sections 207A and” substitute “ section ”.
 
-**16.**[^key-b30c5f1dfe0c361b232f459f1b14cc72] (1) The Land Registration Act 2002 [^c23623641] is amended as follows.
+**16.**[^c-b30c5f1dfe0c361b232f459f1b14cc72] (1) The Land Registration Act 2002 [^c23623641] is amended as follows.
 
 (2) In Schedule 6 (registration of adverse possessor)—
 
@@ -322,7 +322,7 @@ Regulation 4
 - (c) in paragraph 6 omit sub-paragraph (1A);
 - (d) omit paragraph 16 (extension of time limits because of mediation in certain cross-border disputes).
 
-**17.**[^key-685cb73c6a4ba52ae720ca8d0853fdd7] (1) The Equality Act 2010 [^c23623651] is amended as follows.
+**17.**[^c-685cb73c6a4ba52ae720ca8d0853fdd7] (1) The Equality Act 2010 [^c23623651] is amended as follows.
 
 (2) In section 118(1) (time limits) [^c23623661], for “sections 140A and” substitute “ section ”.
 
@@ -336,7 +336,7 @@ Regulation 4
 
 ### PART 2 — Amendment of subordinate legislation
 
-**18.**[^key-4560ad5738482e55da71ac521a0423c1] (1) The Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994 [^c23623711] is amended as follows.
+**18.**[^c-4560ad5738482e55da71ac521a0423c1] (1) The Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994 [^c23623711] is amended as follows.
 
 (2) In article 7 (time within which proceedings may be brought), for “articles 8A and” substitute “ article ”.
 
@@ -344,7 +344,7 @@ Regulation 4
 
 (4) Omit article 8A (extension of time limits because of mediation in certain cross-border disputes).
 
-**19.**[^key-a7d1b68d41d769cfb6dc4934b174443d] (1) The Employment Tribunals Extension of Jurisdiction (Scotland) Order 1994 [^c23623721] is amended as follows.
+**19.**[^c-a7d1b68d41d769cfb6dc4934b174443d] (1) The Employment Tribunals Extension of Jurisdiction (Scotland) Order 1994 [^c23623721] is amended as follows.
 
 (2) In article 7, in the opening words, for “articles 8A and” substitute “ article ”.
 
@@ -352,13 +352,13 @@ Regulation 4
 
 (4) Omit article 8A (extension of time limits because of mediation in certain cross-border disputes).
 
-**20.**[^key-e2329a9d11b9a76b89a7d404c5dccc6b] (1) The Working Time Regulations 1998 [^c23623731] are amended as follows.
+**20.**[^c-e2329a9d11b9a76b89a7d404c5dccc6b] (1) The Working Time Regulations 1998 [^c23623731] are amended as follows.
 
 (2) In regulation 30(2) (remedies), for “regulations 30A and” substitute “ regulation ”.
 
 (3) Omit regulation 30A (extension of time limits because of mediation in certain cross-border disputes).
 
-**21.**[^key-609f6e6ec32ed2f9bb6bcfaacb4a4961] (1) The Land Registration Rules 2003 [^c23623741] are amended as follows.
+**21.**[^c-609f6e6ec32ed2f9bb6bcfaacb4a4961] (1) The Land Registration Rules 2003 [^c23623741] are amended as follows.
 
 (2) In Schedule 8 (modified form of Schedule 6 to the Act applicable to registered rentcharges; registration of adverse possessor)—
 
@@ -366,105 +366,105 @@ Regulation 4
 - (b) in paragraph 6, omit sub-paragraph (1A);
 - (c) omit paragraph 13 (extension of time limits because of mediation in certain cross-border disputes).
 
-**22.**[^key-dd93dd3b301bf7f36d927a80fe51f3ae] (1) The Working Time Regulations (Northern Ireland) 2016 [^c23623751] are amended as follows.
+**22.**[^c-dd93dd3b301bf7f36d927a80fe51f3ae] (1) The Working Time Regulations (Northern Ireland) 2016 [^c23623751] are amended as follows.
 
 (2) In regulation 43(2) (remedies), for “Subject to regulation 44, an” substitute “ An ”.
 
 (3) Omit regulation 44 (extension of time limits because of mediation in certain cross-border disputes).
 
-## SCHEDULE 2[^key-926869c0b572f636b54c3e85559eabe2]
+## SCHEDULE 2[^c-926869c0b572f636b54c3e85559eabe2]
 
 **No longer in force.**
 
 Regulation 5
 
-### PART 1 — Modification of primary legislation[^key-926869c0b572f636b54c3e85559eabe2]
+### PART 1 — Modification of primary legislation[^c-926869c0b572f636b54c3e85559eabe2]
 
-#### 1. Modification of the Prescription Act 1832[^key-926869c0b572f636b54c3e85559eabe2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Modification of the Land Registration Act (Northern Ireland) 1970[^key-926869c0b572f636b54c3e85559eabe2]
+#### 1. Modification of the Prescription Act 1832[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Modification of the Equal Pay Act (Northern Ireland) 1970[^key-926869c0b572f636b54c3e85559eabe2]
+#### 2. Modification of the Land Registration Act (Northern Ireland) 1970[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Modification of the Prescription and Limitation (Scotland) Act 1973[^key-926869c0b572f636b54c3e85559eabe2]
+#### 3. Modification of the Equal Pay Act (Northern Ireland) 1970[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-926869c0b572f636b54c3e85559eabe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 6. Modification of the Sex Discrimination (Northern Ireland) Order 1976[^key-926869c0b572f636b54c3e85559eabe2]
+#### 4. Modification of the Prescription and Limitation (Scotland) Act 1973[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Modification of the Matrimonial Causes (Northern Ireland) Order 1978[^key-926869c0b572f636b54c3e85559eabe2]
+**5.**[^c-926869c0b572f636b54c3e85559eabe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 6. Modification of the Sex Discrimination (Northern Ireland) Order 1976[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Modification of the Limitation Act 1980[^key-926869c0b572f636b54c3e85559eabe2]
+#### 7. Modification of the Matrimonial Causes (Northern Ireland) Order 1978[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Modification of the Domestic Proceedings (Northern Ireland) Order 1980[^key-926869c0b572f636b54c3e85559eabe2]
+#### 8. Modification of the Limitation Act 1980[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Modification of the Magistrates' Courts (Northern Ireland) Order 1981[^key-926869c0b572f636b54c3e85559eabe2]
+#### 9. Modification of the Domestic Proceedings (Northern Ireland) Order 1980[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Modification of the Foreign Limitation Periods Act 1984[^key-926869c0b572f636b54c3e85559eabe2]
+#### 10. Modification of the Magistrates' Courts (Northern Ireland) Order 1981[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Modification of the Limitation (Northern Ireland) Order 1989[^key-926869c0b572f636b54c3e85559eabe2]
+#### 11. Modification of the Foreign Limitation Periods Act 1984[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Modification of the Employment Rights Act 1996[^key-926869c0b572f636b54c3e85559eabe2]
+#### 12. Modification of the Limitation (Northern Ireland) Order 1989[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Modification of the Employment Rights (Northern Ireland) Order 1996[^key-926869c0b572f636b54c3e85559eabe2]
+#### 13. Modification of the Employment Rights Act 1996[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Modification of the Fair Employment and Treatment (Northern Ireland) Order 1998[^key-926869c0b572f636b54c3e85559eabe2]
+#### 14. Modification of the Employment Rights (Northern Ireland) Order 1996[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Modification of the Land Registration Act 2002[^key-926869c0b572f636b54c3e85559eabe2]
+#### 15. Modification of the Fair Employment and Treatment (Northern Ireland) Order 1998[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Modification of the Equality Act 2010[^key-926869c0b572f636b54c3e85559eabe2]
+#### 16. Modification of the Land Registration Act 2002[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Modification of subordinate legislation[^key-926869c0b572f636b54c3e85559eabe2]
-
-#### 18. Modification of the Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994[^key-926869c0b572f636b54c3e85559eabe2]
+#### 17. Modification of the Equality Act 2010[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Modification of the Employment Tribunals Extension of Jurisdiction (Scotland) Order 1994[^key-926869c0b572f636b54c3e85559eabe2]
+### PART 2 — Modification of subordinate legislation[^c-926869c0b572f636b54c3e85559eabe2]
+
+#### 18. Modification of the Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Modification of the Working Time Regulations 1998[^key-926869c0b572f636b54c3e85559eabe2]
+#### 19. Modification of the Employment Tribunals Extension of Jurisdiction (Scotland) Order 1994[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Modification of the Land Registration Rules 2003[^key-926869c0b572f636b54c3e85559eabe2]
+#### 20. Modification of the Working Time Regulations 1998[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. Modification of the Working Time Regulations (Northern Ireland) 2016[^key-926869c0b572f636b54c3e85559eabe2]
+#### 21. Modification of the Land Registration Rules 2003[^c-926869c0b572f636b54c3e85559eabe2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 22. Modification of the Working Time Regulations (Northern Ireland) 2016[^c-926869c0b572f636b54c3e85559eabe2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -484,87 +484,87 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23623201]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-bd45c9b72ac2cfe3173240a998c2fd2b]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-bd45c9b72ac2cfe3173240a998c2fd2b]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-77c1b907d2a86c07feb912fa159fa73e]: Textual amendment: Words in reg. 1(2) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/2/a)
+[^c-77c1b907d2a86c07feb912fa159fa73e]: Textual amendment: Words in reg. 1(2) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/2/a)
 
-[^key-d22c7a78c77e0a61f01f676c0ba61f13]: Textual amendment: Words in reg. 1(2) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/2/b)
+[^c-d22c7a78c77e0a61f01f676c0ba61f13]: Textual amendment: Words in reg. 1(2) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/2/b)
 
-[^key-2fcadaec73de89e097820ff595988021]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-2fcadaec73de89e097820ff595988021]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-cb23eb1b2bc6e252c1eecff6ed932552]: Textual amendment: Words in reg. 2 heading omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/3/a)
+[^c-cb23eb1b2bc6e252c1eecff6ed932552]: Textual amendment: Words in reg. 2 heading omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/3/a)
 
 [^c23623211]: Marginal citation: [S.I. 2011/1133](https://www.legislation.gov.uk/uksi/2011/1133).
 
-[^key-c2a124d19d41780d726b8d7820880c5a]: Textual amendment: Reg. 2(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/3/b)
+[^c-c2a124d19d41780d726b8d7820880c5a]: Textual amendment: Reg. 2(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/3/b)
 
-[^key-06132ff24c54ad7f90599405643e613e]: Textual amendment: Reg. 2(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/3/b)
+[^c-06132ff24c54ad7f90599405643e613e]: Textual amendment: Reg. 2(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/3/b)
 
-[^key-4b0df16f6b66fdfe5f04cce3ad8c0221]: Textual amendment: Reg. 2(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/3/b)
+[^c-4b0df16f6b66fdfe5f04cce3ad8c0221]: Textual amendment: Reg. 2(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/3/b)
 
-[^key-4b3ef2e3122ab0b43dc60fd8e35202ac]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-4b3ef2e3122ab0b43dc60fd8e35202ac]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-3f604fba6ae3051b522163935dc0d0dc]: Textual amendment: Words in reg. 3 heading omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/4/a)
+[^c-3f604fba6ae3051b522163935dc0d0dc]: Textual amendment: Words in reg. 3 heading omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/4/a)
 
 [^c23623231]: Marginal citation: [S.R. 2011/157](https://www.legislation.gov.uk/nisr/2011/157).
 
-[^key-b53348fddcbefbe532519618b673329d]: Textual amendment: Reg. 3(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/4/b)
+[^c-b53348fddcbefbe532519618b673329d]: Textual amendment: Reg. 3(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/4/b)
 
-[^key-af010e7654fec459169ee2476ac75eaf]: Textual amendment: Reg. 3(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/4/b)
+[^c-af010e7654fec459169ee2476ac75eaf]: Textual amendment: Reg. 3(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/4/b)
 
-[^key-960ae1c44fb613e05915fce423e6bf93]: Textual amendment: Reg. 3(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/4/b)
+[^c-960ae1c44fb613e05915fce423e6bf93]: Textual amendment: Reg. 3(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/4/b)
 
-[^key-521324eaa698cb02d4d6f1b1106413c8]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-521324eaa698cb02d4d6f1b1106413c8]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-9e26688f8237d0c098a171e4114e4faa]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-9e26688f8237d0c098a171e4114e4faa]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-1b8e3669bb41daa9689b3b98200ed381]: Textual amendment: Reg. 5 substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5)
+[^c-1b8e3669bb41daa9689b3b98200ed381]: Textual amendment: Reg. 5 substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/5)
 
-[^key-4d0f07a9ecb8924e4e21861d1a40dc97]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-4d0f07a9ecb8924e4e21861d1a40dc97]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623241]: Marginal citation: [1832 c. 71](https://www.legislation.gov.uk/ukpga/1832/71). Section 8A was inserted by [S.I. 2011/1133](https://www.legislation.gov.uk/uksi/2011/1133).
 
-[^key-473f88bd8c79a492201f2055b4335b99]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-473f88bd8c79a492201f2055b4335b99]: Commencement: Sch. 1 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623251]: Marginal citation: [1970 c. 18](https://www.legislation.gov.uk/ukpga/1970/18). Schedule 9 was amended by [S.R. 2011/157](https://www.legislation.gov.uk/nisr/2011/157). There are other amendments to Schedule 9 which are not relevant for the purpose of these Regulations.
 
-[^key-d2f097042faf1c5941c5519fa7583f1a]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-d2f097042faf1c5941c5519fa7583f1a]: Commencement: Sch. 1 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623261]: Marginal citation: [1970 c. 32](https://www.legislation.gov.uk/ukpga/1970/32). Section 2ZA was inserted by [S.R. 2004/171](https://www.legislation.gov.uk/nisr/2004/171), and amended by [S.R. 2011/157](https://www.legislation.gov.uk/nisr/2011/157). Section 2ZAA was also inserted by [S.R. 2011/157](https://www.legislation.gov.uk/nisr/2011/157).
 
-[^key-fdb8a8ef4c76a53237c0d8aa772bcc56]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-fdb8a8ef4c76a53237c0d8aa772bcc56]: Commencement: Sch. 1 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623271]: Marginal citation: [1973 c. 52](https://www.legislation.gov.uk/ukpga/1973/52). Section 22A was inserted by paragraph 1 of Schedule 10 to the [Consumer Protection Act 1987 (c. 43)](https://www.legislation.gov.uk/ukpga/1987/43) and amended by paragraph 6(3) of Schedule 8 to the [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [section 23(5)](https://www.legislation.gov.uk/asp/2016/21/section/23/5) of the [Arbitration (Scotland) Act 2010 (asp 1)](https://www.legislation.gov.uk/asp/2010/1), and [S.I. 2011/1133](https://www.legislation.gov.uk/uksi/2011/1133). Section 22CB was also inserted by [S.I. 2011/1133](https://www.legislation.gov.uk/uksi/2011/1133).
 
-[^key-b6206a20f91e7ed7673d91e88be15509]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-b6206a20f91e7ed7673d91e88be15509]: Commencement: Sch. 1 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623281]: Marginal citation: [S.I. 1976/1042 (N.I. 15)](https://www.legislation.gov.uk/nisi/1976/1042). Article 76 was amended, and Article 76A inserted, by [S.R. 2011/157](https://www.legislation.gov.uk/nisr/2011/157).
 
-[^key-2f281ef15baa36e7214f9f03f735652e]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-2f281ef15baa36e7214f9f03f735652e]: Commencement: Sch. 1 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623291]: Marginal citation: [S.I. 1978/1045 (N.I. 15)](https://www.legislation.gov.uk/nisi/1978/1045); Article 55 was amended, and Article 55A inserted, by [S.R. 2011/157](https://www.legislation.gov.uk/nisr/2011/157).
 
-[^key-4f969dc1dc5c77fc9b44f45f84162c58]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-4f969dc1dc5c77fc9b44f45f84162c58]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623301]: Marginal citation: [1980 c. 58](https://www.legislation.gov.uk/ukpga/1980/58). Section 10(5) was amended by [S.I. 2011/1133](https://www.legislation.gov.uk/uksi/2011/1133); that S.I. also amended section 12(3) and inserted section 33A. Section 12 was also amended by paragraph 2 of Schedule 1 to the [Consumer Protection Act 1987 (c. 43)](https://www.legislation.gov.uk/ukpga/1987/43), and [S.I. 2015/1392](https://www.legislation.gov.uk/uksi/2015/1392).
 
-[^key-a8081c5c12e903973139273d1a1cc9d1]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a8081c5c12e903973139273d1a1cc9d1]: Commencement: Sch. 1 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623311]: Marginal citation: [S.I. 1980/563 (N.I. 5)](https://www.legislation.gov.uk/nisi/1980/563). Article 35 was amended by [S.R. 2011/157](https://www.legislation.gov.uk/nisr/2011/157), and Article 35A was inserted by the same instrument.
 
-[^key-754995c23ae7b4e09282cdf2bac7fb8b]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-754995c23ae7b4e09282cdf2bac7fb8b]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623321]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675). Article 63 was amended by [S.R. 2011/157](https://www.legislation.gov.uk/nisr/2011/157), and Article 63A was inserted by the same instrument.
 
-[^key-6e4b12915bee391d63b37c393f9d5221]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-6e4b12915bee391d63b37c393f9d5221]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623331]: Marginal citation: [1984 c. 16](https://www.legislation.gov.uk/ukpga/1984/16). Section 1 was amended by [S.I. 2011/1133](https://www.legislation.gov.uk/uksi/2011/1133) and [S.I. 2015/1392](https://www.legislation.gov.uk/uksi/2015/1392). Section 1A was also inserted by [S.I. 2011/1133](https://www.legislation.gov.uk/uksi/2011/1133).
 
-[^key-0820f83cc02dbbde7b0d9d01298435d6]: Commencement: Sch. 1 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-0820f83cc02dbbde7b0d9d01298435d6]: Commencement: Sch. 1 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623341]: Marginal citation: [S.I. 1989/1339 (N.I. 11)](https://www.legislation.gov.uk/nisi/1989/1339). Article 51A was inserted by [S.R. 2011/157](https://www.legislation.gov.uk/nisr/2011/157).
 
-[^key-33fbf916b1f4edd95bb58867800fa23e]: Commencement: Sch. 1 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-33fbf916b1f4edd95bb58867800fa23e]: Commencement: Sch. 1 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623351]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
@@ -618,27 +618,27 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23623601]: Marginal citation: Section 207B was inserted by paragraph 35 of Schedule 2 to the 2013 Act.
 
-[^key-f7bda88345545ec2bb6f002bacb4148d]: Commencement: Sch. 1 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-f7bda88345545ec2bb6f002bacb4148d]: Commencement: Sch. 1 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623611]: Marginal citation: [S.I. 1996/1919 (N.I.16)](https://www.legislation.gov.uk/nisi/1996/1919). Article 249A was inserted by [S.I. 2011/157](https://www.legislation.gov.uk/uksi/2011/157).
 
-[^key-d075ad68c96063e50465469e7ccb04de]: Commencement: Sch. 1 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-d075ad68c96063e50465469e7ccb04de]: Commencement: Sch. 1 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623621]: Marginal citation: [S.I. 1998/3162 (N.I. 21)](https://www.legislation.gov.uk/nisi/1998/3162). Article 46 was amended by [S.I. 2003/2902 (N.I. 15)](https://www.legislation.gov.uk/nisi/2003/2902) and [S.R. 2011/157](https://www.legislation.gov.uk/nisr/2011/157), which also inserted Article 46A.
 
-[^key-9c2ce1d3c24dc699599493cbdb1a3f53]: Textual amendment: Sch. 1 para. 14(2)(a) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/2/2)
+[^c-9c2ce1d3c24dc699599493cbdb1a3f53]: Textual amendment: Sch. 1 para. 14(2)(a) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/2/2)
 
-[^key-df065130663f3fee5bfa2f7ddae5ed21]: Textual amendment: Sch. 1 para. 14(4) inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/2/3)
+[^c-df065130663f3fee5bfa2f7ddae5ed21]: Textual amendment: Sch. 1 para. 14(4) inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/2/3)
 
-[^key-c3670035d9092f93ca689578c0c72ed1]: Commencement: Sch. 1 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c3670035d9092f93ca689578c0c72ed1]: Commencement: Sch. 1 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623631]: Marginal citation: [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26). Section 11 was amended by paragraph (1) of Schedule 8 to the 2002 Act, section 37(2) of the 2004 Act, and paragraph 40 of Schedule 2 to the 2013 Act.
 
-[^key-b30c5f1dfe0c361b232f459f1b14cc72]: Commencement: Sch. 1 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-b30c5f1dfe0c361b232f459f1b14cc72]: Commencement: Sch. 1 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623641]: Marginal citation: [2002 c. 9](https://www.legislation.gov.uk/ukpga/2002/9). Schedule 6 was amended by [S.I. 2011/1133](https://www.legislation.gov.uk/uksi/2011/1133).
 
-[^key-685cb73c6a4ba52ae720ca8d0853fdd7]: Commencement: Sch. 1 para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-685cb73c6a4ba52ae720ca8d0853fdd7]: Commencement: Sch. 1 para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623651]: Marginal citation: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
@@ -652,24 +652,24 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23623701]: Marginal citation: Section 140B was inserted by paragraph 45 of Schedule 2 to the 2013 Act.
 
-[^key-4560ad5738482e55da71ac521a0423c1]: Commencement: Sch. 1 para. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-4560ad5738482e55da71ac521a0423c1]: Commencement: Sch. 1 para. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623711]: Marginal citation: [S.I. 1994/1623](https://www.legislation.gov.uk/uksi/1994/1623). This instrument was amended by section 1(2) of the 1998 Act (which, amongst other things, amended its title), S.I 2011/1133 and [S.I. 2014/431](https://www.legislation.gov.uk/uksi/2014/431). There are other amendments which are not relevant for the purposes of these Regulations.
 
-[^key-a7d1b68d41d769cfb6dc4934b174443d]: Commencement: Sch. 1 para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a7d1b68d41d769cfb6dc4934b174443d]: Commencement: Sch. 1 para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623721]: Marginal citation: [S.I. 1994/1624](https://www.legislation.gov.uk/uksi/1994/1624). This instrument was amended by section 1(2) of the 1998 Act (which, amongst other things, amended its title), S.I 2011/1133 and [S.I. 2014/431](https://www.legislation.gov.uk/uksi/2014/431). There are other amendments which are not relevant for the purposes of these Regulations.
 
-[^key-e2329a9d11b9a76b89a7d404c5dccc6b]: Commencement: Sch. 1 para. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-e2329a9d11b9a76b89a7d404c5dccc6b]: Commencement: Sch. 1 para. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623731]: Marginal citation: [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833). Regulation 30 was amended by [S.I. 2003/1684](https://www.legislation.gov.uk/uksi/2003/1684), [S.I](https://www.legislation.gov.uk/uksi/2003/1684/section/I). 2004/752, [S.I. 2007/2079](https://www.legislation.gov.uk/uksi/2007/2079), [S.I](https://www.legislation.gov.uk/uksi/2007/2079/section/I). 2011/1133 and [S.I. 2014/386](https://www.legislation.gov.uk/uksi/2014/386). Regulation 30A was inserted by [S.I. 2011/1133](https://www.legislation.gov.uk/uksi/2011/1133).
 
-[^key-609f6e6ec32ed2f9bb6bcfaacb4a4961]: Commencement: Sch. 1 para. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-609f6e6ec32ed2f9bb6bcfaacb4a4961]: Commencement: Sch. 1 para. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623741]: Marginal citation: [S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417). Schedule 8 was amended by [S.I. 2011/1133](https://www.legislation.gov.uk/uksi/2011/1133).
 
-[^key-dd93dd3b301bf7f36d927a80fe51f3ae]: Commencement: Sch. 1 para. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-dd93dd3b301bf7f36d927a80fe51f3ae]: Commencement: Sch. 1 para. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23623751]: Marginal citation: [S.R. 2016/49](https://www.legislation.gov.uk/nisr/2016/49), to which there are amendments not relevant to these Regulations.
 
-[^key-926869c0b572f636b54c3e85559eabe2]: Textual amendment: Sch. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/6)
+[^c-926869c0b572f636b54c3e85559eabe2]: Textual amendment: Sch. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/4/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 268. Statements of service policy by the public teletext provider[^key-1c53bb1d0341ec4d78fceae706119315]
+## 268. Statements of service policy by the public teletext provider[^c-1c53bb1d0341ec4d78fceae706119315]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c53bb1d0341ec4d78fceae706119315]: Textual amendment: [S. 268](https://www.legislation.gov.uk/ukpga/2003/21/section/268) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/39); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-1c53bb1d0341ec4d78fceae706119315]: Textual amendment: [S. 268](https://www.legislation.gov.uk/ukpga/2003/21/section/268) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 39](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/39); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)

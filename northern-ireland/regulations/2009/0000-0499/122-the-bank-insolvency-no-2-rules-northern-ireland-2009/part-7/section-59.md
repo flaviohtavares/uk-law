@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Contents of proof[^key-1a54b6ac1587a81b4a465e5e4c34882a]
+## 59. Contents of proof[^c-1a54b6ac1587a81b4a465e5e4c34882a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.081 of the 1991 Rules.
 
 ## Annotations
 
-[^key-1a54b6ac1587a81b4a465e5e4c34882a]: Commencement: Rule 59 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-1a54b6ac1587a81b4a465e5e4c34882a]: Commencement: Rule 59 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

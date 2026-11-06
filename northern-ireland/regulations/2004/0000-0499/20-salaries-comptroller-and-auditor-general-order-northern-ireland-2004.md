@@ -31,7 +31,7 @@ summary: ''
 
 SALARIES
 
-Salaries (Comptroller and Auditor General) Order (Northern Ireland) 2004 (revoked)[^key-d7742dbc407dba0e78a9711e740e8fe7]
+Salaries (Comptroller and Auditor General) Order (Northern Ireland) 2004 (revoked)[^c-d7742dbc407dba0e78a9711e740e8fe7]
 
 Made
 
@@ -43,22 +43,22 @@ Coming into operation
 
 1st March 2004
 
-[^key-d7742dbc407dba0e78a9711e740e8fe7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d7742dbc407dba0e78a9711e740e8fe7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-d7742dbc407dba0e78a9711e740e8fe7]
+## 1. Title and commencement[^c-d7742dbc407dba0e78a9711e740e8fe7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Salary[^key-d7742dbc407dba0e78a9711e740e8fe7]
+## 2. Salary[^c-d7742dbc407dba0e78a9711e740e8fe7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d7742dbc407dba0e78a9711e740e8fe7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d7742dbc407dba0e78a9711e740e8fe7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d7742dbc407dba0e78a9711e740e8fe7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d7742dbc407dba0e78a9711e740e8fe7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d7742dbc407dba0e78a9711e740e8fe7]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/20) revoked (7.3.2005) by [Salaries (Comptroller and Auditor General) Order (Northern Ireland) 2005 (S.R. 2005/11)](https://www.legislation.gov.uk/nisr/2005/11), [arts. 1](https://www.legislation.gov.uk/nisr/2005/11/article/1), [2](https://www.legislation.gov.uk/nisr/2005/11/article/2)
+[^c-d7742dbc407dba0e78a9711e740e8fe7]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/20) revoked (7.3.2005) by [Salaries (Comptroller and Auditor General) Order (Northern Ireland) 2005 (S.R. 2005/11)](https://www.legislation.gov.uk/nisr/2005/11), [arts. 1](https://www.legislation.gov.uk/nisr/2005/11/article/1), [2](https://www.legislation.gov.uk/nisr/2005/11/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121A. Meaning of “building control authority”[^key-386ae8fc43fab1c79c57be63d44d4f38]
+## 121A. Meaning of “building control authority”[^c-386ae8fc43fab1c79c57be63d44d4f38]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-386ae8fc43fab1c79c57be63d44d4f38]: Textual amendment: [S. 121A](https://www.legislation.gov.uk/ukpga/1984/55/section/121A) inserted (6.4.2023 for specified purposes except in relation to W., 5.9.2023 for W., 1.10.2023 in so far as not already in force except in relation to W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 32(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/32/4), [170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(m)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/m); [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/a); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/f) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/993/regulation/4))
+[^c-386ae8fc43fab1c79c57be63d44d4f38]: Textual amendment: [S. 121A](https://www.legislation.gov.uk/ukpga/1984/55/section/121A) inserted (6.4.2023 for specified purposes except in relation to W., 5.9.2023 for W., 1.10.2023 in so far as not already in force except in relation to W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 32(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/32/4), [170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(m)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/m); [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/a); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/f) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/993/regulation/4))

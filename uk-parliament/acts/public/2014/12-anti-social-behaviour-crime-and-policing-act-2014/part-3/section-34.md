@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Authorisations to use powers under section 35[^key-e599194909d4d6ca26881ac4f0929cf0]
+## 34. Authorisations to use powers under section 35[^c-e599194909d4d6ca26881ac4f0929cf0]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e599194909d4d6ca26881ac4f0929cf0]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2014/12/section/34) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/b)
+[^c-e599194909d4d6ca26881ac4f0929cf0]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2014/12/section/34) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/b)

@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Record keeping: From 1st January 2019[^key-b086cdd31574b466f0733ee4c35d50d0]
+## 41. Record keeping: From 1st January 2019[^c-b086cdd31574b466f0733ee4c35d50d0]
 
 *Extent: E+W+S+N.I.*
 
-(1) From 1st January 2019, an operator of a scheme who has obligations under regulation 28, 29, 31 or 32 in relation to any compliance period, or any part of a compliance period, must[^key-2b21093c0ad6a991cde005d4233694c0] keep records of the following information—
+(1) From 1st January 2019, an operator of a scheme who has obligations under regulation 28, 29, 31 or 32 in relation to any compliance period, or any part of a compliance period, must[^c-2b21093c0ad6a991cde005d4233694c0] keep records of the following information—
 
 - (a) the amount in tonnes of all WEEE which that operator of a scheme has delivered to or collected from or caused to be deposited at or collected from—
   - (i) a designated collection facility,
   - (ii) an AATF, or
   - (iii) an approved exporter, during that compliance period, or that part of a compliance period;
-- (b)[^key-cec4fb871a5f09634d89eed0bbe1d3c9] the categories of the WEEE referred to in sub-paragraph (a) by reference to each of the following categories—
+- (b)[^c-cec4fb871a5f09634d89eed0bbe1d3c9] the categories of the WEEE referred to in sub-paragraph (a) by reference to each of the following categories—
   - (i) the categories listed in Schedule 3 (excluding display equipment, appliances containing refrigerants, gas discharge lamps, LED light sources and photovoltaic panels),
   - (ii) display equipment,
   - (iii) appliances containing refrigerants,
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b086cdd31574b466f0733ee4c35d50d0]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2013/3113/regulation/41) in force at 1.1.2019, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/4)
+[^c-b086cdd31574b466f0733ee4c35d50d0]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2013/3113/regulation/41) in force at 1.1.2019, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/4)
 
-[^key-2b21093c0ad6a991cde005d4233694c0]: Textual amendment: Word in [reg. 41](https://www.legislation.gov.uk/uksi/2013/3113/regulation/41) substituted (25.7.2014) by [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/2), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2014/1771/schedule/1/paragraph/17)
+[^c-2b21093c0ad6a991cde005d4233694c0]: Textual amendment: Word in [reg. 41](https://www.legislation.gov.uk/uksi/2013/3113/regulation/41) substituted (25.7.2014) by [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(2)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/2), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2014/1771/schedule/1/paragraph/17)
 
-[^key-cec4fb871a5f09634d89eed0bbe1d3c9]: Textual amendment: [Reg. 41(1)(b)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/41/1/b) substituted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [14](https://www.legislation.gov.uk/uksi/2018/1214/regulation/14)
+[^c-cec4fb871a5f09634d89eed0bbe1d3c9]: Textual amendment: [Reg. 41(1)(b)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/41/1/b) substituted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [14](https://www.legislation.gov.uk/uksi/2018/1214/regulation/14)

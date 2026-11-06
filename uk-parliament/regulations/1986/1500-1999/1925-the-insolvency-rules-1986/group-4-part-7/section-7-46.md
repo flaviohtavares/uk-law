@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.46. Service of notices following appointment[^key-96e91cb42e42b4bed6d2b6c04e5bf6a7]
+## 7.46. Service of notices following appointment[^c-96e91cb42e42b4bed6d2b6c04e5bf6a7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any notice served on, or sent to, a person appointed under Rule 7.44 has the sam
 
 ## Annotations
 
-[^key-96e91cb42e42b4bed6d2b6c04e5bf6a7]: Commencement: [Rule 7.46](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.46) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-96e91cb42e42b4bed6d2b6c04e5bf6a7]: Commencement: [Rule 7.46](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.46) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Cancellation of designation of a responsible individual[^key-21ff5c692fcbea2b7b5cf6c664630d85]
+## 22. Cancellation of designation of a responsible individual[^c-21ff5c692fcbea2b7b5cf6c664630d85]
 
 *Extent: E+W*
 
-[^key-c652e9de400ecc1e48a180c915421123]
+[^c-c652e9de400ecc1e48a180c915421123]
 
 (1) The Welsh Ministers may cancel a responsible individual's designation only on one or more of the following grounds—
 
@@ -75,6 +75,6 @@ and in a case where the harm relates to the impairment of a child's health or de
 
 ## Annotations
 
-[^key-21ff5c692fcbea2b7b5cf6c664630d85]: Commencement: S. 22 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
+[^c-21ff5c692fcbea2b7b5cf6c664630d85]: Commencement: S. 22 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
 
-[^key-c652e9de400ecc1e48a180c915421123]: Modification: [Pt. 1](https://www.legislation.gov.uk/anaw/2016/2/part/1) applied (with modifications) (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [79(3)](https://www.legislation.gov.uk/wsi/2024/388/regulation/79/3)
+[^c-c652e9de400ecc1e48a180c915421123]: Modification: [Pt. 1](https://www.legislation.gov.uk/anaw/2016/2/part/1) applied (with modifications) (31.3.2024) by [The Special School Residential Services (Service Providers and Responsible Individuals) (Wales) Regulations 2024 (S.I. 2024/388)](https://www.legislation.gov.uk/wsi/2024/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/388/regulation/1/2), [79(3)](https://www.legislation.gov.uk/wsi/2024/388/regulation/79/3)

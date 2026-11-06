@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-2c7dbb6b0b9aa8a11ad486d56c26749a]
+## 2. Interpretation[^c-2c7dbb6b0b9aa8a11ad486d56c26749a]
 
 *Extent: E+W*
 
@@ -92,7 +92,7 @@ summary: ''
 - “**platforms**” means the offshore structures housing or incorporating electrical equipment such as switchgear and transformers and high voltage reactive controls, electrical systems such as metering and control systems, J-tubes, landing facilities for vessels and helicopters, re-fuelling facilities, vessel charging facilities, communication and control systems, auxiliary and uninterruptible power supplies, energy storage systems, standby electricity generation equipment, cranes, storage for waste and consumables including fuel, marking and lighting and other associated equipment and facilities;
 - “**relevant planning authority**” means Denbighshire County Council;
 - “**requirements**” means those matters set out in Part 1 of Schedule 2 (requirements) to this Order;
-- “[^key-0f5e6d5332af0f231beb3d400ab639b6]**scour protection**” means measures to prevent loss of seabed sediment around any marine structure placed in or on the seabed by use of protective aprons, blocks/mattresses with or without frond devices, rock and/or gravel placement, or the use of bagged solutions filled with rock, sand or similar materials;
+- “[^c-0f5e6d5332af0f231beb3d400ab639b6]**scour protection**” means measures to prevent loss of seabed sediment around any marine structure placed in or on the seabed by use of protective aprons, blocks/mattresses with or without frond devices, rock and/or gravel placement, or the use of bagged solutions filled with rock, sand or similar materials;
 - “**special category land plan**” means the plan certified as such by the Secretary of State under article 40 (certification of plans, etc.) for the purposes of this Order;
 - “**statutory undertaker**” means any person falling within section 127(8) of the 2008 Act and a public communications provider as defined in section 151 of the 2003 Act;
 - “**street**” means a street within the meaning of section 48 of the 1991 Act[^f00016], together with land on the verge of a street or between two carriageways, and includes part of a street;
@@ -123,7 +123,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2c7dbb6b0b9aa8a11ad486d56c26749a]: Commencement: Art. 2 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-2c7dbb6b0b9aa8a11ad486d56c26749a]: Commencement: Art. 2 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
 
 [^f00004]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -149,7 +149,7 @@ summary: ''
 
 [^f00015]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). Section 7 was amended by section 70 of, and paragraph 9 of Schedule 15 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the 1981 Act which are not relevant to this Order.
 
-[^key-0f5e6d5332af0f231beb3d400ab639b6]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2023/1033/article/2/1) substituted (17.7.2024) by [The Awel y Môr Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/799)](https://www.legislation.gov.uk/uksi/2024/799), [art. 1](https://www.legislation.gov.uk/uksi/2024/799/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/799/schedule)
+[^c-0f5e6d5332af0f231beb3d400ab639b6]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2023/1033/article/2/1) substituted (17.7.2024) by [The Awel y Môr Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/799)](https://www.legislation.gov.uk/uksi/2024/799), [art. 1](https://www.legislation.gov.uk/uksi/2024/799/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/799/schedule)
 
 [^f00016]: Footnote: Section 48 was amended by section 124 (1) and (2) of the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26).
 

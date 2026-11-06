@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, Wearing of Face Coverings in a Relevant Place and on Public Transport) (England) (Amendment) (No. 3) Regulations 2020 (revoked)[^key-849376b6cf3b36f0376a2b6b96cd7bf7]
+The Health Protection (Coronavirus, Wearing of Face Coverings in a Relevant Place and on Public Transport) (England) (Amendment) (No. 3) Regulations 2020 (revoked)[^c-849376b6cf3b36f0376a2b6b96cd7bf7]
 
 Approved by both Houses of Parliament
 
@@ -48,28 +48,28 @@ Coming into force
 
 24th September 2020
 
-[^key-849376b6cf3b36f0376a2b6b96cd7bf7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-849376b6cf3b36f0376a2b6b96cd7bf7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-849376b6cf3b36f0376a2b6b96cd7bf7]
+## 1. Citation, commencement and application[^c-849376b6cf3b36f0376a2b6b96cd7bf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus, Wearing of Face Coverings in a Relevant Place) (England) Regulations 2020[^key-849376b6cf3b36f0376a2b6b96cd7bf7]
+## 2. Amendment of the Health Protection (Coronavirus, Wearing of Face Coverings in a Relevant Place) (England) Regulations 2020[^c-849376b6cf3b36f0376a2b6b96cd7bf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Health Protection (Coronavirus, Wearing of Face Coverings on Public Transport) (England) Regulations 2020[^key-849376b6cf3b36f0376a2b6b96cd7bf7]
+## 3. Amendment to the Health Protection (Coronavirus, Wearing of Face Coverings on Public Transport) (England) Regulations 2020[^c-849376b6cf3b36f0376a2b6b96cd7bf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-849376b6cf3b36f0376a2b6b96cd7bf7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-849376b6cf3b36f0376a2b6b96cd7bf7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-849376b6cf3b36f0376a2b6b96cd7bf7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-849376b6cf3b36f0376a2b6b96cd7bf7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-849376b6cf3b36f0376a2b6b96cd7bf7]: Textual amendment: Regulations revoked (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2021/848/schedule/paragraph/5)
+[^c-849376b6cf3b36f0376a2b6b96cd7bf7]: Textual amendment: Regulations revoked (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2021/848/schedule/paragraph/5)

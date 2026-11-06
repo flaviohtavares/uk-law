@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 142. Directions: general[^key-238649f256e8616a7ababe141755eddb]
+## 142. Directions: general[^c-238649f256e8616a7ababe141755eddb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A direction given under or by virtue of this Act must be in writing.
 
 ## Annotations
 
-[^key-238649f256e8616a7ababe141755eddb]: Commencement: S. 142 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)
+[^c-238649f256e8616a7ababe141755eddb]: Commencement: S. 142 in force at 4.6.2024, see [s. 147(1)(c)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/c)

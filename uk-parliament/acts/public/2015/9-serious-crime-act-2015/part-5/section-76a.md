@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76A. Offences under section 76 committed outside the United Kingdom[^key-38c23c68c8799c2688c09d345c999ec3]
+## 76A. Offences under section 76 committed outside the United Kingdom[^c-38c23c68c8799c2688c09d345c999ec3]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ the person is guilty in England and Wales of that offence.
 
 ## Annotations
 
-[^key-38c23c68c8799c2688c09d345c999ec3]: Textual amendment: [S. 76A](https://www.legislation.gov.uk/ukpga/2015/9/section/76A) inserted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/3)
+[^c-38c23c68c8799c2688c09d345c999ec3]: Textual amendment: [S. 76A](https://www.legislation.gov.uk/ukpga/2015/9/section/76A) inserted (29.6.2021) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(2)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2021/17/schedule/3/paragraph/3)

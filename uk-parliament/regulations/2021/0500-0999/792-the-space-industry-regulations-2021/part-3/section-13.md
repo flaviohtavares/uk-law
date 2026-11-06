@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Duty to inform regulator of changes: individuals in prescribed roles[^key-3de7de8a79e17a0173824db999587fba]
+## 13. Duty to inform regulator of changes: individuals in prescribed roles[^c-3de7de8a79e17a0173824db999587fba]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ the licensee must inform the regulator in writing as soon as possible.
 
 ## Annotations
 
-[^key-3de7de8a79e17a0173824db999587fba]: Commencement: Reg. 13 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-3de7de8a79e17a0173824db999587fba]: Commencement: Reg. 13 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

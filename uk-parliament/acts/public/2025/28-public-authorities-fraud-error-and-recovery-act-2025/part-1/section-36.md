@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Meaning of “bank” etc[^key-2534ed2779dd195bc6674d1fc1705e03][^key-58e4d247562d9ccce699e63677a91a06]
+## 36. Meaning of “bank” etc[^c-2534ed2779dd195bc6674d1fc1705e03][^c-58e4d247562d9ccce699e63677a91a06]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ and “holder” is to be read accordingly.
 
 ## Annotations
 
-[^key-2534ed2779dd195bc6674d1fc1705e03]: Commencement: S. 36 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-2534ed2779dd195bc6674d1fc1705e03]: Commencement: S. 36 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-58e4d247562d9ccce699e63677a91a06]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2025/28/section/36) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-58e4d247562d9ccce699e63677a91a06]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2025/28/section/36) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

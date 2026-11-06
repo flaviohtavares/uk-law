@@ -40,11 +40,11 @@ Coming into operation
 
 The Director General of Electricity Supply for Northern Ireland, in exercise of the powers conferred on him by Articles 34 and 64 of, and paragraph 6 of Schedule 7 to, the Electricity (Northern Ireland) Order 1992[^f00001], and of every other power enabling him in that behalf, and with the consent of the Department of Economic Development in accordance with Article 2(2) of that Order, hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-db619c433f7e86b719749df3d05ad94d]
+## 1. Citation and commencement[^c-db619c433f7e86b719749df3d05ad94d]
 
 These Regulations may be cited as the Meters (Certification) Regulations (Northern Ireland) 1998 and shall come into operation on 1st February 1999.
 
-## 2. Interpretation[^key-a687884945e69d9ea2c6edc8af3f319d]
+## 2. Interpretation[^c-a687884945e69d9ea2c6edc8af3f319d]
 
 In these Regulations—
 
@@ -55,18 +55,18 @@ In these Regulations—
 - “certification period” means, in the case of a meter of a type specified in columns 1 to 6 (inclusive) of Schedule 4, the period stated in relation thereto in column 7 of that Schedule and, in the case of any other meter, the period of 10 years, the period beginning in each case on the date on which the meter is certified for the purpose of the Order;
 - “directions” means any directions issued by the Director under paragraph 7(1) of Schedule 7 to the Order;
 - “EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00002] as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00003].
-- “EEA State” means a state which, at the date of the entry into force of these Regulations, is a Contracting Party to the EEA Agreement , but does not include the United Kingdom[^key-a089b0e99dcd2c7869552a4bc8160f28] ;
+- “EEA State” means a state which, at the date of the entry into force of these Regulations, is a Contracting Party to the EEA Agreement , but does not include the United Kingdom[^c-a089b0e99dcd2c7869552a4bc8160f28] ;
 - “equivalent European provisions” has the meaning given by regulation 8;
 - “meter examiner” means a person appointed under paragraph 5 of Schedule 7 to the Order;
 - “the Order” means the Electricity (Northern Ireland) Order 1992; and
 - “permitted margins of error” means the margins of error referred to in regulation 7.
 
-## 3. Authorised manufacturer[^key-2d8e7a7296c89ca22d1783ae768cf63f]
+## 3. Authorised manufacturer[^c-2d8e7a7296c89ca22d1783ae768cf63f]
 
 (1) Subject to paragraph (3) any person who manufactures meters and satisfies the Director that—
 
 - (a) he owns or has available to him apparatus for the examination, testing and regulation of meters which complies with directions;
-- (b) he operates at a manufacturing unit a quality assurance system in respect of every meter manufactured by him at that unit which conforms to the standard contained in European Standard EN ISO 9001[^f00004], or to any standard, technical regulation, manufacturing method or code of practice accepted in [^key-e5d71e1cc66a7c4fb0778ff5fc8a963c]... EEA States conformity with which will achieve an equivalent assurance of quality; and
+- (b) he operates at a manufacturing unit a quality assurance system in respect of every meter manufactured by him at that unit which conforms to the standard contained in European Standard EN ISO 9001[^f00004], or to any standard, technical regulation, manufacturing method or code of practice accepted in [^c-e5d71e1cc66a7c4fb0778ff5fc8a963c]... EEA States conformity with which will achieve an equivalent assurance of quality; and
 - (c) he would be capable of complying with the conditions set out in paragraph (2),
 
 may be authorised by the Director for the purpose of these Regulations in respect of meters manufactured by him at that manufacturing unit for a period not exceeding three years but so that any authorisation may be renewed from time to time.
@@ -88,7 +88,7 @@ may be authorised by the Director for the purpose of these Regulations in respec
 - (b) “assembled” includes the carrying out of repairs or modifications to a meter within a period of twelve months after the date upon which a certificate in respect of that meter was first issued under regulation 7 or 9; and
 - (c) “manufacturing unit” means premises specified to the Director in writing (which may identify the premises by reference to a plan) at which meters are manufactured but excludes any premises or that part of any premises which are used, otherwise than as provided in sub-paragraph (*b*), for the cleaning and repair of meters which have previously been used for measuring the quantity of electricity supplied.
 
-## 4. Authorised repairer[^key-6f453a26de176c75985135d11f5bf063]
+## 4. Authorised repairer[^c-6f453a26de176c75985135d11f5bf063]
 
 (1) Subject to paragraph (3) any person who repairs meters and satisfies the Director that—
 
@@ -110,7 +110,7 @@ may be authorised by the Director for the purpose of these Regulations in respec
 
 (4) For the purpose of this regulation and Schedule 2 “repair unit” means premises specified to the Director in writing (which may identify the premises by reference to a plan) at which meters which have previously been used for measuring the quantity of electricity supplied are cleaned, repaired, tested or regulated but excluding any premises or that part of any premises which are used for the manufacture or assembly of meters.
 
-## 5. Authorised examiner[^key-f92a76ea42ac9561dc3db71e217c5e42]
+## 5. Authorised examiner[^c-f92a76ea42ac9561dc3db71e217c5e42]
 
 (1) A public electricity supplier, an authorised manufacturer or an authorised repairer may nominate a competent person for the purpose of this regulation.
 
@@ -141,7 +141,7 @@ may be authorised by the Director for the purpose of these Regulations in respec
 
 the Director may give not less than 28 days in writing to the authorised person referred to in sub-paragraph (*b*) of this paragraph terminating his authorisation.
 
-## 6. Application for certification[^key-509740082f82d85c06fa47b0ef56767e]
+## 6. Application for certification[^c-509740082f82d85c06fa47b0ef56767e]
 
 (1) A person who requires a meter to be certified for the purposes of the Order may submit the meter to an authorised examiner who is authorised to certify a meter submitted by that person, or to a meter examiner.
 
@@ -149,7 +149,7 @@ the Director may give not less than 28 days in writing to the authorised person 
 
 (3) A report for the purpose of paragraph (2) shall contain the statements and information specified in Schedule 2 which is appropriate to the type of meter to which it relates including, where that meter is designed to operate with a transformer, the statements and information relating to the transformer.
 
-## 7. Procedure for certification[^key-3ca4a81e44ec97a1aa50ef28ca3cd9ad]
+## 7. Procedure for certification[^c-3ca4a81e44ec97a1aa50ef28ca3cd9ad]
 
 (1) Subject to regulation 9, a meter which is submitted to a meter examiner or an authorised examiner shall not be certified by him unless, in addition to being satisfied as required by paragraph 6(2)(*a*) of Schedule 7 to the Order that the meter is of an approved pattern or construction, he is satisfied—
 
@@ -162,17 +162,17 @@ the Director may give not less than 28 days in writing to the authorised person 
 
 (4) Each certificate issued under paragraph (3) shall be numbered in the sequence in which it is issued.
 
-## 8. Equivalent European Provisions[^key-e1d38e77d8471835e83ba34a4f1012bd]
+## 8. Equivalent European Provisions[^c-e1d38e77d8471835e83ba34a4f1012bd]
 
 (1) Equivalent European provisions are—
 
 - (a) the provisions as to verification in Council Directive [76/891/EEC](https://www.legislation.gov.uk/european/directive/1976/0891)[^f00006] as amended by Commission Directive No. [82/621/EEC](https://www.legislation.gov.uk/european/directive/1982/0621)[^f00007] and Protocol 1 and Part IX of Annex II to the EEA Agreement;
 - (b) European Standard EN 61036[^f00008]; and
-- (c) any standard, technical regulation, manufacturing method or code of practice accepted by [^key-53d13f72fb66e60de39478d4184fc3eb]... EEA States conformity with which will ensure a level of precision, security, safety, durability and fitness for purpose equivalent to that assured by conformity to Schedule 3.
+- (c) any standard, technical regulation, manufacturing method or code of practice accepted by [^c-53d13f72fb66e60de39478d4184fc3eb]... EEA States conformity with which will ensure a level of precision, security, safety, durability and fitness for purpose equivalent to that assured by conformity to Schedule 3.
 
-(2) A meter examiner or an authorised examiner to whom a meter has been submitted under regulation 6 shall take into account the results of checks and tests carried out by the bodies and laboratories of [^key-a632cd19b08a0283d4632e2bb7900e0f]... EEA States if the checks and tests have been carried out in conformity with European standard EN 45001[^f00009].
+(2) A meter examiner or an authorised examiner to whom a meter has been submitted under regulation 6 shall take into account the results of checks and tests carried out by the bodies and laboratories of [^c-a632cd19b08a0283d4632e2bb7900e0f]... EEA States if the checks and tests have been carried out in conformity with European standard EN 45001[^f00009].
 
-## 9. Batch certification[^key-1faa0e2a67c49bb0b10b4b27ae1c5c1a]
+## 9. Batch certification[^c-1faa0e2a67c49bb0b10b4b27ae1c5c1a]
 
 Where—
 
@@ -183,7 +183,7 @@ Where—
 
 he may issue a certificate in respect of all the meters so submitted to him specifying or identifying the serial number of each meter and including all the information contained in the report submitted under regulation 6(2) and thereupon each of those meters shall be a meter certified for the purpose of the Order.
 
-## 10. Duration of certification[^key-c298c38216310659d84c543729730cf6][^key-6ad9ab8fd9bb31a2c5c5ce91c61a36eb]
+## 10. Duration of certification[^c-c298c38216310659d84c543729730cf6][^c-6ad9ab8fd9bb31a2c5c5ce91c61a36eb]
 
 A meter certified or deemed to be certified for the purpose of the Order shall cease to be so certified or deemed to be so certified—
 
@@ -195,7 +195,7 @@ A meter certified or deemed to be certified for the purpose of the Order shall c
 
 whichever occurs first. whichever occurs first.
 
-## 11. Fees[^key-0cb30d0ea12bc4a2ea2bf59ce58b1ca0]
+## 11. Fees[^c-0cb30d0ea12bc4a2ea2bf59ce58b1ca0]
 
 (1) Subject to paragraph (2), any person who submits under regulation 6 a meter to a meter examiner for certification shall pay to the Director in accordance with paragraph (4), a fee of 34 pence in respect of each meter so submitted.
 
@@ -233,13 +233,13 @@ Assistant Secretary
 
 Regulations 3(2)(*c*) and 4(2)(*d*)
 
-### 1. Pre-heating[^key-dd358ea6453c612c78ccadfb2b228d63]
+### 1. Pre-heating[^c-dd358ea6453c612c78ccadfb2b228d63]
 
 (1) The following tests shall not be carried out until the voltage circuits of meters under test and the voltage circuit of working standard integrating meters have been energised for a period of one hour or half an hour if a current of not less than either 10% of basic current or 5% of marked current is applied to the current circuit of the meters, save that the non-registration and starting current tests may be carried out during the pre-heating period.
 
 (2) Sub-paragraph (1) shall not apply to a meter which the examiner is satisfied is capable of full operation as soon as it is energised.
 
-### 2. Non-registration test[^key-f8f084e792a8328ed16277cc8b2a3601]
+### 2. Non-registration test[^c-f8f084e792a8328ed16277cc8b2a3601]
 
 Induction meters
 
@@ -281,7 +281,7 @@ Method 3
 
 - (c) The period calculated for Method 1 or Method 2 may be halved if the meters under test do not emit any output pulses during the period of the test.
 
-### 3. Accuracy tests[^key-a62e58cd0d8d05cc0e8732924e831995]
+### 3. Accuracy tests[^c-a62e58cd0d8d05cc0e8732924e831995]
 
 (1) Apparatus used for determining the errors of repaired meters during these tests shall comply with the directions.
 
@@ -291,7 +291,7 @@ Method 3
 
 (4) For a working standard wattmeter, the applied load shall not be less than 40% or more than 100% of its full scale or range reading.
 
-### 4. Methods of accuracy test[^key-822deb5d85435d697e28a85f02137b49]
+### 4. Methods of accuracy test[^c-822deb5d85435d697e28a85f02137b49]
 
 Method A test
 
@@ -305,7 +305,7 @@ Method C test
 
 (3) A short period test where the actual rate of advance of a meter when tested under constant power conditions over a specified test period, is compared to the calculated rate of advance for those conditions.
 
-### 5. Conditions for all testing[^key-a2d300ca18923685ad9b7a6a798d3509]
+### 5. Conditions for all testing[^c-a2d300ca18923685ad9b7a6a798d3509]
 
 (1) The tests shall be carried out in accordance with Table 1.
 
@@ -341,7 +341,7 @@ Conditions for mixing methods of tests
 
 (7) Method A tests may be used for intermediate and high loads, at unity and at 0.5 power factor, and Method B or Method C tests for the low load, provided that an additional Method B or Method C test is carried out at one of the test load values used for the Method A tests.
 
-### 1. Test loads[^key-cfd1c081ede122a3c08686f92337b41d]
+### 1. Test loads[^c-cfd1c081ede122a3c08686f92337b41d]
 
 (1) Every repaired meter shall be tested at each of the loads specified in Table 2, except that test number 2 in that Table may be omitted.
 
@@ -353,7 +353,7 @@ Conditions for mixing methods of tests
 
 (5) Current transformers intended for use with meters but not tested with a meter shall be tested from 5% to 120% of rated current.
 
-### 7. Multi-register meters[^key-7ac83448aa2dbe773a1348b48e2bb63c]
+### 7. Multi-register meters[^c-7ac83448aa2dbe773a1348b48e2bb63c]
 
 Induction meters
 
@@ -371,7 +371,7 @@ Static meters
   - (i) where the total units are the sum of all the registers, a further test shall be carried out on each and every other register using Method A but
   - (ii) where the total units are recorded on one register, only that register is required to be tested in accordance with paragraphs 5 and 6.
 
-### 8. Ployphase meters[^key-95a195b8b5a46262fda39c6ec86ea52e]
+### 8. Ployphase meters[^c-95a195b8b5a46262fda39c6ec86ea52e]
 
 (1) very polyphase meter shall be tested on a circuit having a phase relationship for which that meter is designed. However, three phase, four wire polyphase meters may be tested without current in the neutral conductor.
 
@@ -381,7 +381,7 @@ Static meters
 - (b) 2 or 3 singlephase kilowatt-hour energy standards; or
 - (c) 2 or 3 singlephase wattmeters.
 
-### 9. Margins of Error[^key-d3e3e08c8c67d01283288d0f1e64b8df]
+### 9. Margins of Error[^c-d3e3e08c8c67d01283288d0f1e64b8df]
 
 (1) The maximum error permitted for—
 
@@ -398,7 +398,7 @@ shall not exceed plus or minus 1.5% for tests numbers 1, 2, 3 and 4 given in Tab
 
 (5) Where current and voltage transformers, which are intended to be used with meters, are not tested connected to a meter then the total error of the transformers at any load point throughout the rated range shall not exceed 0.5%.
 
-### 10. Insulation property test[^key-700020a760c2910676d7b8947eea4f7c]
+### 10. Insulation property test[^c-700020a760c2910676d7b8947eea4f7c]
 
 Each meter shall be tested to demonstrate that the insulation of the meter is of a sufficient standard to enable the meter to operate safely and correctly in the conditions in which it could reasonably be expected to be installed and operated.
 
@@ -438,7 +438,7 @@ TABLE 2
 
 Regulation 6(3)
 
-**1.**[^key-6fedf2a1feea928e190962a37889cab1] In respect of each meter to which the report refers, a statement—
+**1.**[^c-6fedf2a1feea928e190962a37889cab1] In respect of each meter to which the report refers, a statement—
 
 - (a) that the meter referred in the report is accurately described and whether it is a new or repaired meter;
 - (b) that the meter has been examined and tested in accordance with Schedule 1 or one of the equivalent European provisions;
@@ -447,7 +447,7 @@ Regulation 6(3)
 - (e) that the meter did not register when energised on voltage only, whether with or without a current less than the threshold current; and
 - (f) if applicable, as to whether paragraph 1(2) of Schedule 1 did or did not apply (as the case may be).
 
-**2.**[^key-0e5a8089325cfe593f680719a8d1dbe3] In respect of each meter to which the report refers, the following particulars—
+**2.**[^c-0e5a8089325cfe593f680719a8d1dbe3] In respect of each meter to which the report refers, the following particulars—
 
 - (a) the name of the person responsible for the manufacture or repair of the meter;
 - (b) the name and address of the manufacturing unit or repair unit where the meter was examined and tested;
@@ -457,22 +457,22 @@ Regulation 6(3)
 - (f) the marked current and voltage rating of the meter; and
 - (g) the serial number of the meter.
 
-**3.**[^key-1378bcc44b173c3f4e8f247084e7991a] A report may include the errors obtained at each test load and an end of test meter reading.
+**3.**[^c-1378bcc44b173c3f4e8f247084e7991a] A report may include the errors obtained at each test load and an end of test meter reading.
 
-**4.**[^key-40257c478eaa9309f3ce38915825b8a8] In the case of a meter intended for use with and tested with a transformer or transformers, the following additional information shall be included in the report—
+**4.**[^c-40257c478eaa9309f3ce38915825b8a8] In the case of a meter intended for use with and tested with a transformer or transformers, the following additional information shall be included in the report—
 
 - (a) the make, output rating, serial number and classification of each transformer to be used with the meter;
 - (b) for a polyphase meter, the phase to which each transformer was connected;
 - (c) particulars and electrical burdens of any other meter, instrument or external attachments that are to be used in conjunction with a transformer operated meter.
 
-**5.**[^key-03429bcd5bee5b598897e279180e702e] Where a transformer intended for use with a meter has been tested, a statement shall be included in the report that—
+**5.**[^c-03429bcd5bee5b598897e279180e702e] Where a transformer intended for use with a meter has been tested, a statement shall be included in the report that—
 
 - (a) the transformer referred to in the report is accurately described and whether it is a new or used transformer;
 - (b) the transformer has been examined and tested in accordance with Schedule 1 or Harmonisation Documents 553 S2[^f00011] and 554 S1[^f00012] approved on 24th March 1992 by the European Committee for Electrotechnical Standardization;
 - (c) the uncertainty of measurement was not greater than plus or minus 0.1%;
 - (d) no transformer error was greater than plus or minus 0.5% at any load from 5% to 120% of full load when connected to the maximum rated burden or, if known, the working burden
 
-**6.**[^key-efc4473b8946f200b662195ea9a5d1eb] A report for a transformer shall also include the following information:
+**6.**[^c-efc4473b8946f200b662195ea9a5d1eb] A report for a transformer shall also include the following information:
 
 - (a) the name and address of the manufacturing unit or the repair unit where the transformer was examined and tested;
 - (b) the make and type of the transformer;
@@ -480,21 +480,21 @@ Regulation 6(3)
 - (d) the marked current or voltage ratio of the transformer and the working or maximum permissible burden that can be connected to the transformer; and
 - (e) the serial number of the transformer.
 
-**7.**[^key-830c99caa4b58d823e072f8d71149ae6] The meter or transformer errors obtained at each test load may also be included in these reports.
+**7.**[^c-830c99caa4b58d823e072f8d71149ae6] The meter or transformer errors obtained at each test load may also be included in these reports.
 
-**8.**[^key-9f72d7c636afb35dcdf263cf876d2ce4] Before a meter is submitted for certification, the report on the meter and any transformer submitted with it shall be verified and signed by the person in charge of manufacture or repair (as the case may be) or by a person nominated by him.
+**8.**[^c-9f72d7c636afb35dcdf263cf876d2ce4] Before a meter is submitted for certification, the report on the meter and any transformer submitted with it shall be verified and signed by the person in charge of manufacture or repair (as the case may be) or by a person nominated by him.
 
 ## SCHEDULE 3 — CERTIFICATION TESTS AND TESTING METHODS FOR ALTERNATING CURRENT WATTHOUR METERS
 
 Regulation 7(1)(*a*)
 
-### 1. Pre-heating[^key-0ca85ed206ac2a2391ca937f5ec13d26]
+### 1. Pre-heating[^c-0ca85ed206ac2a2391ca937f5ec13d26]
 
 (1) he following tests shall not be carried out until the voltage circuits of meters under test and the voltage circuit of the working standard integrating meters have been energised for a period of one hour or half an hour if a current of not less than either 10% of basic current or 5% of marked current is applied to the current circuit of the meters, save that the non-registration test may be carried out during the pre-heating period.
 
 (2) Sub-paragraph (1) shall not apply to a meter which the examiner is satisfied is capable of full operation as soon as it is energised.
 
-### 2. Non-registration test[^key-0a5cdff30a94ef2b7e822e6228806bf5]
+### 2. Non-registration test[^c-0a5cdff30a94ef2b7e822e6228806bf5]
 
 Induction meters
 
@@ -532,7 +532,7 @@ Method 2
   - *k* = number of pulses per kWh emitted by the meter
   - *pf* = power factor.
 
-### 3. Accuracy tests[^key-4a10fa1adfc499f69b1b4be25b3eff03]
+### 3. Accuracy tests[^c-4a10fa1adfc499f69b1b4be25b3eff03]
 
 (1) Apparatus used for determining the errors of meters during these tests shall comply with directions.
 
@@ -542,7 +542,7 @@ Method 2
 
 (4) For a working standard wattmeter, the applied load shall not be less than 40% or more than 100% of its full scale or range reading.
 
-### 4. Methods of accuracy test[^key-144fc427f1de88824712d56162313942]
+### 4. Methods of accuracy test[^c-144fc427f1de88824712d56162313942]
 
 Method A test
 
@@ -556,7 +556,7 @@ Method C
 
 (3) A short period test where the actual rate of advance of a meter, when tested under constant power conditions over a specified test period is compared to the calculated rate of advance for those conditions.
 
-### 5. Conditions for testing[^key-24493189db80ce02762fc884a4aaa744]
+### 5. Conditions for testing[^c-24493189db80ce02762fc884a4aaa744]
 
 (1) The tests shall be carried out in accordance with Table 1.
 
@@ -596,7 +596,7 @@ Conditions for mixing methods of test
 
 (8) Method A tests may be used for intermediate and high loads, at unity power factor and at 0.5 power factor, and Method B or Method C tests for the low load, provided that an additional Method B or Method C test is carried out at one of the test load values used for the Method A tests.
 
-### 6. Test loads[^key-905f7e71573d68103dc004733f3e92b6]
+### 6. Test loads[^c-905f7e71573d68103dc004733f3e92b6]
 
 (1) Every meter shall be tested at each of the loads specified in Table 2.
 
@@ -604,7 +604,7 @@ Conditions for mixing methods of test
 
 (3) Current transformers intended for use with meters but not tested with a meter shall be tested from 5% to 120% of rated current.
 
-### 7. Multi-register meters[^key-88a68b830ae7843df98aed73f675a7fb]
+### 7. Multi-register meters[^c-88a68b830ae7843df98aed73f675a7fb]
 
 Induction meters
 
@@ -622,7 +622,7 @@ Static meters
 - (b) On static meters with more than one register, where the total units are the sum of all the registers, a further test shall be carried out on each and every other register using Method A.
 - (c) On static meters with more than one register, where the total units are recorded on one register, only this register is required to be tested in accordance with paragraphs 5 and 6.
 
-### 8. Polyphase meters[^key-78069be2c6f31cc1cb227ce702f06265]
+### 8. Polyphase meters[^c-78069be2c6f31cc1cb227ce702f06265]
 
 (1) Every polyphase meter shall be tested on a circuit having a phase relationship for which that meter is designed. However, three phase, four wire polyphase meters may be tested without current in the neutral conductor.
 
@@ -632,7 +632,7 @@ Static meters
 - (b) 2 or 3 single phase kilowatt-hour energy standards; or
 - (c) 2 or 3 single phase wattmeters.
 
-### 9. Margins of error[^key-2b01bba4509f9d0e2d5cd7b42662f5c9]
+### 9. Margins of error[^c-2b01bba4509f9d0e2d5cd7b42662f5c9]
 
 (1) The maximum error permitted for—
 
@@ -680,7 +680,7 @@ TABLE 2
 </tbody>
 </table>
 
-## SCHEDULE 4 — Prescribed periods of certification[^key-acb5aced4ca63d935db5659900fd61c7]
+## SCHEDULE 4 — Prescribed periods of certification[^c-acb5aced4ca63d935db5659900fd61c7]
 
 Regulation 2
 
@@ -1329,33 +1329,33 @@ Attention is drawn to the provisions of the Measuring Instruments (EC Requiremen
 
 [^f00001]: Footnote: [S.I. 1992/231 (N.I. 1)](https://www.legislation.gov.uk/nisi/1992/231)
 
-[^key-db619c433f7e86b719749df3d05ad94d]: Commencement: Reg. 1 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-db619c433f7e86b719749df3d05ad94d]: Commencement: Reg. 1 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-a687884945e69d9ea2c6edc8af3f319d]: Commencement: Reg. 2 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-a687884945e69d9ea2c6edc8af3f319d]: Commencement: Reg. 2 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
 [^f00002]: Footnote: O.J. No. L1, 3.1.94, p. 3
 
 [^f00003]: Footnote: O.J. No. L1, 3.1.94, p. 572
 
-[^key-a089b0e99dcd2c7869552a4bc8160f28]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/444/regulation/2) inserted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a089b0e99dcd2c7869552a4bc8160f28]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/1998/444/regulation/2) inserted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2d8e7a7296c89ca22d1783ae768cf63f]: Commencement: Reg. 3 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-2d8e7a7296c89ca22d1783ae768cf63f]: Commencement: Reg. 3 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
 [^f00004]: Footnote: EN ISO 9001 is a European Standard entitled “Quality systems. Model for quality assurance in design, development, production, installation and servicing” which has been adopted in the United Kingdom as BS EN ISO 9001 and is published by the British Standards Institution (ISBN 0 580 23439 8) and was effective from 15th July 1994
 
-[^key-e5d71e1cc66a7c4fb0778ff5fc8a963c]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/1998/444/regulation/3/1/b) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5d71e1cc66a7c4fb0778ff5fc8a963c]: Textual amendment: Word in [reg. 3(1)(b)](https://www.legislation.gov.uk/nisr/1998/444/regulation/3/1/b) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6f453a26de176c75985135d11f5bf063]: Commencement: Reg. 4 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-6f453a26de176c75985135d11f5bf063]: Commencement: Reg. 4 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
 [^f00005]: Footnote: EN ISO 9002 is a European Standard entitled “Quality systems. Model for quality assurance in production, installation and servicing” which has been adopted in the United Kingdom as BS EN ISO 9002 and is published by the British Standards Institution (ISBN 0 580 23440 1) and was effective from 1st July 1994
 
-[^key-f92a76ea42ac9561dc3db71e217c5e42]: Commencement: Reg. 5 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-f92a76ea42ac9561dc3db71e217c5e42]: Commencement: Reg. 5 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-509740082f82d85c06fa47b0ef56767e]: Commencement: Reg. 6 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-509740082f82d85c06fa47b0ef56767e]: Commencement: Reg. 6 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-3ca4a81e44ec97a1aa50ef28ca3cd9ad]: Commencement: Reg. 7 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-3ca4a81e44ec97a1aa50ef28ca3cd9ad]: Commencement: Reg. 7 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-e1d38e77d8471835e83ba34a4f1012bd]: Commencement: Reg. 8 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-e1d38e77d8471835e83ba34a4f1012bd]: Commencement: Reg. 8 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
 [^f00006]: Footnote: O.J. No. L336, 4.12.76, p. 30
 
@@ -1363,81 +1363,81 @@ Attention is drawn to the provisions of the Measuring Instruments (EC Requiremen
 
 [^f00008]: Footnote: EN 61036 is a European Standard entitled “Alternating current static watt – hour meters for active energy (Classes 1 and 2)” which has been adopted in the United Kingdom as BS EN 61036 and is published by the British Standards Institution (ISBN 0 580 19283 0) and was effective from 31st January 1991
 
-[^key-53d13f72fb66e60de39478d4184fc3eb]: Textual amendment: Word in [reg. 8(1)(c)](https://www.legislation.gov.uk/nisr/1998/444/regulation/8/1/c) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53d13f72fb66e60de39478d4184fc3eb]: Textual amendment: Word in [reg. 8(1)(c)](https://www.legislation.gov.uk/nisr/1998/444/regulation/8/1/c) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a632cd19b08a0283d4632e2bb7900e0f]: Textual amendment: Word in [reg. 8(2)](https://www.legislation.gov.uk/nisr/1998/444/regulation/8/2) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a632cd19b08a0283d4632e2bb7900e0f]: Textual amendment: Word in [reg. 8(2)](https://www.legislation.gov.uk/nisr/1998/444/regulation/8/2) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2019/202/schedule/2/paragraph/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: EN 45001 is a European Standard which is equivalent to BS 7501 (ISBN 0 580 17939 7), “general criteria for the operation of testing laboratories”, published by the British Standards Institution and having effect from 31st October 1989
 
-[^key-1faa0e2a67c49bb0b10b4b27ae1c5c1a]: Commencement: Reg. 9 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-1faa0e2a67c49bb0b10b4b27ae1c5c1a]: Commencement: Reg. 9 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-c298c38216310659d84c543729730cf6]: Commencement: Reg. 10 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-c298c38216310659d84c543729730cf6]: Commencement: Reg. 10 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-6ad9ab8fd9bb31a2c5c5ce91c61a36eb]: Modification: [Reg. 10](https://www.legislation.gov.uk/nisr/1998/444/regulation/10) excluded (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 7(5)(a)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/7/5/a) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
+[^c-6ad9ab8fd9bb31a2c5c5ce91c61a36eb]: Modification: [Reg. 10](https://www.legislation.gov.uk/nisr/1998/444/regulation/10) excluded (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 7(5)(a)](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/7/5/a) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5))
 
-[^key-0cb30d0ea12bc4a2ea2bf59ce58b1ca0]: Commencement: Reg. 11 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-0cb30d0ea12bc4a2ea2bf59ce58b1ca0]: Commencement: Reg. 11 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
 [^f00010]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29)
 
-[^key-dd358ea6453c612c78ccadfb2b228d63]: Commencement: Sch. 1 para. 1 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-dd358ea6453c612c78ccadfb2b228d63]: Commencement: Sch. 1 para. 1 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-f8f084e792a8328ed16277cc8b2a3601]: Commencement: Sch. 1 para. 2 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-f8f084e792a8328ed16277cc8b2a3601]: Commencement: Sch. 1 para. 2 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-a62e58cd0d8d05cc0e8732924e831995]: Commencement: Sch. 1 para. 3 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-a62e58cd0d8d05cc0e8732924e831995]: Commencement: Sch. 1 para. 3 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-822deb5d85435d697e28a85f02137b49]: Commencement: Sch. 1 para. 4 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-822deb5d85435d697e28a85f02137b49]: Commencement: Sch. 1 para. 4 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-a2d300ca18923685ad9b7a6a798d3509]: Commencement: Sch. 1 para. 5 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-a2d300ca18923685ad9b7a6a798d3509]: Commencement: Sch. 1 para. 5 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-cfd1c081ede122a3c08686f92337b41d]: Commencement: Sch. 1 para. 1n2 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-cfd1c081ede122a3c08686f92337b41d]: Commencement: Sch. 1 para. 1n2 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-7ac83448aa2dbe773a1348b48e2bb63c]: Commencement: Sch. 1 para. 7 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-7ac83448aa2dbe773a1348b48e2bb63c]: Commencement: Sch. 1 para. 7 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-95a195b8b5a46262fda39c6ec86ea52e]: Commencement: Sch. 1 para. 8 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-95a195b8b5a46262fda39c6ec86ea52e]: Commencement: Sch. 1 para. 8 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-d3e3e08c8c67d01283288d0f1e64b8df]: Commencement: Sch. 1 para. 9 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-d3e3e08c8c67d01283288d0f1e64b8df]: Commencement: Sch. 1 para. 9 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-700020a760c2910676d7b8947eea4f7c]: Commencement: Sch. 1 para. 10 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-700020a760c2910676d7b8947eea4f7c]: Commencement: Sch. 1 para. 10 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-6fedf2a1feea928e190962a37889cab1]: Commencement: Sch. 2 para. 1 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-6fedf2a1feea928e190962a37889cab1]: Commencement: Sch. 2 para. 1 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-0e5a8089325cfe593f680719a8d1dbe3]: Commencement: Sch. 2 para. 2 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-0e5a8089325cfe593f680719a8d1dbe3]: Commencement: Sch. 2 para. 2 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-1378bcc44b173c3f4e8f247084e7991a]: Commencement: Sch. 2 para. 3 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-1378bcc44b173c3f4e8f247084e7991a]: Commencement: Sch. 2 para. 3 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-40257c478eaa9309f3ce38915825b8a8]: Commencement: Sch. 2 para. 4 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-40257c478eaa9309f3ce38915825b8a8]: Commencement: Sch. 2 para. 4 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-03429bcd5bee5b598897e279180e702e]: Commencement: Sch. 2 para. 5 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-03429bcd5bee5b598897e279180e702e]: Commencement: Sch. 2 para. 5 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
 [^f00011]: Footnote: Harmonisation Document 553 S2 entitled “Current transformers” has been adopted in the United Kingdom as BS 7626 entitled “Specifications for current transformers” published by the British Standards Institution (ISBN 0 580 21575 X) and was effective from 15th November 1993
 
 [^f00012]: Footnote: Harmonisation Document 554 S1 entitled “Voltage transformers” has been adopted in the United Kingdom as BS 7625 entitled “Specification of voltage transformers” published by the British Standards Institution (ISBN 0 580 21573 3) and was effective from 15th February 1993
 
-[^key-efc4473b8946f200b662195ea9a5d1eb]: Commencement: Sch. 2 para. 6 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-efc4473b8946f200b662195ea9a5d1eb]: Commencement: Sch. 2 para. 6 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-830c99caa4b58d823e072f8d71149ae6]: Commencement: Sch. 2 para. 7 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-830c99caa4b58d823e072f8d71149ae6]: Commencement: Sch. 2 para. 7 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-9f72d7c636afb35dcdf263cf876d2ce4]: Commencement: Sch. 2 para. 8 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-9f72d7c636afb35dcdf263cf876d2ce4]: Commencement: Sch. 2 para. 8 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-0ca85ed206ac2a2391ca937f5ec13d26]: Commencement: Sch. 3 para. 1 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-0ca85ed206ac2a2391ca937f5ec13d26]: Commencement: Sch. 3 para. 1 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-0a5cdff30a94ef2b7e822e6228806bf5]: Commencement: Sch. 3 para. 2 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-0a5cdff30a94ef2b7e822e6228806bf5]: Commencement: Sch. 3 para. 2 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-4a10fa1adfc499f69b1b4be25b3eff03]: Commencement: Sch. 3 para. 3 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-4a10fa1adfc499f69b1b4be25b3eff03]: Commencement: Sch. 3 para. 3 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-144fc427f1de88824712d56162313942]: Commencement: Sch. 3 para. 4 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-144fc427f1de88824712d56162313942]: Commencement: Sch. 3 para. 4 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-24493189db80ce02762fc884a4aaa744]: Commencement: Sch. 3 para. 5 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-24493189db80ce02762fc884a4aaa744]: Commencement: Sch. 3 para. 5 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-905f7e71573d68103dc004733f3e92b6]: Commencement: Sch. 3 para. 6 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-905f7e71573d68103dc004733f3e92b6]: Commencement: Sch. 3 para. 6 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-88a68b830ae7843df98aed73f675a7fb]: Commencement: Sch. 3 para. 7 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-88a68b830ae7843df98aed73f675a7fb]: Commencement: Sch. 3 para. 7 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-78069be2c6f31cc1cb227ce702f06265]: Commencement: Sch. 3 para. 8 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-78069be2c6f31cc1cb227ce702f06265]: Commencement: Sch. 3 para. 8 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-2b01bba4509f9d0e2d5cd7b42662f5c9]: Commencement: Sch. 3 para. 9 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-2b01bba4509f9d0e2d5cd7b42662f5c9]: Commencement: Sch. 3 para. 9 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
-[^key-acb5aced4ca63d935db5659900fd61c7]: Commencement: Sch. 4 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
+[^c-acb5aced4ca63d935db5659900fd61c7]: Commencement: Sch. 4 in operation at 1.2.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/444/regulation/1)
 
 [^f01000]: Footnote: \*
 

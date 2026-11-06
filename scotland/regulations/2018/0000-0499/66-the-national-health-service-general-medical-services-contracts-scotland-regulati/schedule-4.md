@@ -47,7 +47,7 @@ Regulation 25
 </tbody>
 </table>
 
-[^f00079][^f00080][^f00081][^f00082][^f00083][^f00084][^f00085][^f00086][^f00087][^f00088][^f00089][^f00090][^f00091][^f00092][^f00093][^f00094][^f00095][^key-00803c474edd095184b199b5be6e0c18][^f00097][^f00098][^f00099][^f00100][^f00101][^f00102]
+[^f00079][^f00080][^f00081][^f00082][^f00083][^f00084][^f00085][^f00086][^f00087][^f00088][^f00089][^f00090][^f00091][^f00092][^f00093][^f00094][^f00095][^c-00803c474edd095184b199b5be6e0c18][^f00097][^f00098][^f00099][^f00100][^f00101][^f00102]
 
 ## Annotations
 
@@ -85,7 +85,7 @@ Regulation 25
 
 [^f00095]: Footnote: [2000 c.2](https://www.legislation.gov.uk/ukpga/2000/2) (“the 2000 Act”). Paragraph 3(3)(b) of schedule 4 was amended by paragraph 137 of schedule 1 of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22) and section 34(5) of the Local Electoral Administration and Registration Services (Scotland) Act 2006. Those able to attest and sign an application under paragraph 3(3)(b) of schedule 4 of the 2000 Act are listed in regulation 53(2) of [S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497), as amended by [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253), [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254), [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925), [S.I. 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182), [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231), [S.I. 2011/2581](https://www.legislation.gov.uk/uksi/2011/2581) and [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479).
 
-[^key-00803c474edd095184b199b5be6e0c18]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2018/66/schedule/4) substituted (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [Sch. 2 para. 39(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/39/b)
+[^c-00803c474edd095184b199b5be6e0c18]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2018/66/schedule/4) substituted (coming into force in accordance with reg. 1 of the amending S.I.) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [Sch. 2 para. 39(b)](https://www.legislation.gov.uk/uksi/2019/1094/schedule/2/paragraph/39/b)
 
 [^f00097]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8). “Care home service” is defined in paragraph 2 of schedule 12 of that Act.
 

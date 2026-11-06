@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Commissioner's functions in relation to certain young people[^key-b6aadb78a447be6a4302a19756ca643e]
+## 9. Commissioner's functions in relation to certain young people[^c-b6aadb78a447be6a4302a19756ca643e]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,12 +39,12 @@ summary: ''
 - “ **EHC plan** ” means a plan within section 37(2) of the Children and Families Act 2014 (education, health and care plans);
 - “ **learning disability** ” means a state of arrested or incomplete development of mind which induces significant impairment of intelligence and social functioning;
 - a person is “looked after by a local authority” if—
-  - (a) for the purposes of the Social Services and Well-being (Wales) Act 2014[^key-2b7bbdc4d224034137c5d6cdf0304769], he or she is looked after by a local authority in Wales;
+  - (a) for the purposes of the Social Services and Well-being (Wales) Act 2014[^c-2b7bbdc4d224034137c5d6cdf0304769], he or she is looked after by a local authority in Wales;
   - (b) for the purposes of the Children (Scotland) Act 1995, he or she is looked after by a local authority in Scotland;
   - (c) for the purposes of the Children (Northern Ireland) Order 1995, he or she is looked after by an authority in Northern Ireland.
 
 ## Annotations
 
-[^key-b6aadb78a447be6a4302a19756ca643e]: Textual amendment: S. 9 substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 6(1)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/6/1) (with [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/6/2))
+[^c-b6aadb78a447be6a4302a19756ca643e]: Textual amendment: S. 9 substituted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5), [Sch. 5 para. 6(1)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/6/1) (with [Sch. 5 para. 6(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/5/paragraph/6/2))
 
-[^key-2b7bbdc4d224034137c5d6cdf0304769]: Textual amendment: Words in s. 9(4)(a) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [216](https://www.legislation.gov.uk/wsi/2016/413/regulation/216)
+[^c-2b7bbdc4d224034137c5d6cdf0304769]: Textual amendment: Words in s. 9(4)(a) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [216](https://www.legislation.gov.uk/wsi/2016/413/regulation/216)

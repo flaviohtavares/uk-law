@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Civic licensing: how hearings may be held[^key-f519b8517e34a1883720dee234302458]
+## 30. Civic licensing: how hearings may be held[^c-f519b8517e34a1883720dee234302458]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f519b8517e34a1883720dee234302458]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2022/8/section/30) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-f519b8517e34a1883720dee234302458]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2022/8/section/30) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

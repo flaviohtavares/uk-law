@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Deferment orders: interpretation[^key-0886dcd80414c51ff51a441f51bcf829]
+## 13. Deferment orders: interpretation[^c-0886dcd80414c51ff51a441f51bcf829]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0886dcd80414c51ff51a441f51bcf829]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2020/17/section/13) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0886dcd80414c51ff51a441f51bcf829]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2020/17/section/13) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85C. Authorisation to operate a free zone excise warehouse[^key-b5179581f6cae071ae42445bef65691d]
+## 85C. Authorisation to operate a free zone excise warehouse[^c-b5179581f6cae071ae42445bef65691d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5179581f6cae071ae42445bef65691d]: Textual amendment: Pt. 14A inserted (8.11.2021) by [The Free Zones (Customs, Excise and Value Added Tax) Regulations 2021 (S.I. 2021/1156)](https://www.legislation.gov.uk/uksi/2021/1156), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1156/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2021/1156/regulation/7/2)
+[^c-b5179581f6cae071ae42445bef65691d]: Textual amendment: Pt. 14A inserted (8.11.2021) by [The Free Zones (Customs, Excise and Value Added Tax) Regulations 2021 (S.I. 2021/1156)](https://www.legislation.gov.uk/uksi/2021/1156), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1156/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2021/1156/regulation/7/2)

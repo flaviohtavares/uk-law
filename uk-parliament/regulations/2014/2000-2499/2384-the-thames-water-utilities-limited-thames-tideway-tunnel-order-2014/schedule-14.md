@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 14 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-9181c28f0435c57a0bcffd2227de8874]
+## SCHEDULE 14 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-9181c28f0435c57a0bcffd2227de8874]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ Article 35
 
 ## Annotations
 
-[^key-9181c28f0435c57a0bcffd2227de8874]: Commencement: Sch. 14 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-9181c28f0435c57a0bcffd2227de8874]: Commencement: Sch. 14 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

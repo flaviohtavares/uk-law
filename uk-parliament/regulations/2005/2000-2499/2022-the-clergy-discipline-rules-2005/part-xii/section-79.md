@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 79. Bishop may request review of inclusion in the list[^key-dbfd2638235a20e61c59b9dbba39512d]
+## 79. Bishop may request review of inclusion in the list[^c-dbfd2638235a20e61c59b9dbba39512d]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ A bishop of a diocese may, at any time following the inclusion of a person in th
 
 ## Annotations
 
-[^key-dbfd2638235a20e61c59b9dbba39512d]: Commencement: [Rule 79](https://www.legislation.gov.uk/uksi/2005/2022/rule/79) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-dbfd2638235a20e61c59b9dbba39512d]: Commencement: [Rule 79](https://www.legislation.gov.uk/uksi/2005/2022/rule/79) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

@@ -118,7 +118,7 @@ In order to allow Member States and companies to carry out the necessary adaptat
 
 HAVE ADOPTED THIS REGULATION:
 
-## Article 1. Aim[^key-78f9bf11a514ae61c13e91e922713cd0]
+## Article 1. Aim[^c-78f9bf11a514ae61c13e91e922713cd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -126,39 +126,39 @@ HAVE ADOPTED THIS REGULATION:
 
 For the purpose of this Regulation, ‘international accounting standards’ shall mean International Accounting Standards (IAS), International Financial Reporting Standards (IFRS) and related Interpretations (SIC-IFRIC interpretations), subsequent amendments to those standards and related interpretations, future standards and related interpretations issued or adopted by the International Accounting Standards Board (IASB).
 
-## Article 3. Adoption and use of international accounting standards[^key-ebe9118ffad8587557444a347471584b]
+## Article 3. Adoption and use of international accounting standards[^c-ebe9118ffad8587557444a347471584b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Consolidated accounts of publicly traded companies[^key-ebe9118ffad8587557444a347471584b]
+## Article 4. Consolidated accounts of publicly traded companies[^c-ebe9118ffad8587557444a347471584b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Options in respect of annual accounts and of non publicly-traded companies[^key-ebe9118ffad8587557444a347471584b]
+## Article 5. Options in respect of annual accounts and of non publicly-traded companies[^c-ebe9118ffad8587557444a347471584b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Committee procedure[^key-ebe9118ffad8587557444a347471584b]
+## Article 6. Committee procedure[^c-ebe9118ffad8587557444a347471584b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Reporting and coordination[^key-ebe9118ffad8587557444a347471584b]
+## Article 7. Reporting and coordination[^c-ebe9118ffad8587557444a347471584b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Notification[^key-ebe9118ffad8587557444a347471584b]
+## Article 8. Notification[^c-ebe9118ffad8587557444a347471584b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Transitional provisions[^key-ebe9118ffad8587557444a347471584b]
+## Article 9. Transitional provisions[^c-ebe9118ffad8587557444a347471584b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Information and review[^key-ebe9118ffad8587557444a347471584b]
+## Article 10. Information and review[^c-ebe9118ffad8587557444a347471584b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Entry into force[^key-ebe9118ffad8587557444a347471584b]
+## Article 11. Entry into force[^c-ebe9118ffad8587557444a347471584b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -182,6 +182,6 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^f00008]: Footnote: [OJ L 184, 17.7.1999, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1999.184.01.0023.01.ENG).
 
-[^key-78f9bf11a514ae61c13e91e922713cd0]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2002/1606/article/1) omitted (31.12.2020) by virtue of [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/62) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-78f9bf11a514ae61c13e91e922713cd0]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2002/1606/article/1) omitted (31.12.2020) by virtue of [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/62) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ebe9118ffad8587557444a347471584b]: Textual amendment: [Arts. 3-11](https://www.legislation.gov.uk/eur/2002/1606/article/3) omitted (31.12.2020) by virtue of [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/62) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ebe9118ffad8587557444a347471584b]: Textual amendment: [Arts. 3-11](https://www.legislation.gov.uk/eur/2002/1606/article/3) omitted (31.12.2020) by virtue of [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 1 para. 62](https://www.legislation.gov.uk/uksi/2019/685/schedule/1/paragraph/62) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/4)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/523/regulation/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

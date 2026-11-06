@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 209. Commission’s power to require Scottish Ministers to make reference to Tribunal[^key-7897fcc016c8e6710be9186dd18bd8da]
+## 209. Commission’s power to require Scottish Ministers to make reference to Tribunal[^c-7897fcc016c8e6710be9186dd18bd8da]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7897fcc016c8e6710be9186dd18bd8da]: Commencement: [S. 209](https://www.legislation.gov.uk/asp/2003/13/section/209) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-7897fcc016c8e6710be9186dd18bd8da]: Commencement: [S. 209](https://www.legislation.gov.uk/asp/2003/13/section/209) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

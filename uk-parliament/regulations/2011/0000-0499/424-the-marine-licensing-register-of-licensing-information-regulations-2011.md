@@ -109,7 +109,7 @@ The particulars relating to all applications and all marine licences are—
 
 ## 6. Deposit of substances or objects
 
-(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 1, 2, 3, 14 or 15[^key-af480c790be6df3c8a55666681d0c535] (deposit of substances or objects).
+(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 1, 2, 3, 14 or 15[^c-af480c790be6df3c8a55666681d0c535] (deposit of substances or objects).
 
 (2) The additional particulars are—
 
@@ -122,7 +122,7 @@ The particulars relating to all applications and all marine licences are—
 
 ## 7. Scuttling
 
-(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 4, 5, 6, 16 or 17[^key-995bc30f9877cfe766b916374a8e8ca7] (scuttling of vessels or floating containers).
+(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 4, 5, 6, 16 or 17[^c-995bc30f9877cfe766b916374a8e8ca7] (scuttling of vessels or floating containers).
 
 (2) The additional particulars are—
 
@@ -133,7 +133,7 @@ The particulars relating to all applications and all marine licences are—
 
 ## 8. Construction, alteration or improvement of works
 
-(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 7 or 18[^key-8566e9186b7776795fd49d5ce3fd69c9] (construction, alteration or improvement of works).
+(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 7 or 18[^c-8566e9186b7776795fd49d5ce3fd69c9] (construction, alteration or improvement of works).
 
 (2) The additional particulars are—
 
@@ -142,7 +142,7 @@ The particulars relating to all applications and all marine licences are—
 
 ## 9. Use of vehicle etc to remove substances or objects from sea bed
 
-(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 8 or 19[^key-507b54a3f3eebcd857e1643d35c4a992] (use of vehicle, vessel etc to remove substances or objects from the sea bed).
+(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 8 or 19[^c-507b54a3f3eebcd857e1643d35c4a992] (use of vehicle, vessel etc to remove substances or objects from the sea bed).
 
 (2) The additional particulars are—
 
@@ -154,7 +154,7 @@ The particulars relating to all applications and all marine licences are—
 
 ## 10. Dredging
 
-(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 9 or 20[^key-d65fb289bed92a867caf588d551d003f] (dredging).
+(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 9 or 20[^c-d65fb289bed92a867caf588d551d003f] (dredging).
 
 (2) The additional particulars are—
 
@@ -164,7 +164,7 @@ The particulars relating to all applications and all marine licences are—
 
 ## 11. Deposit or use of explosives
 
-(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 10 or 21[^key-87b1db967e4f33f4118de819b3d81c43] (deposit or use of explosive substance or article).
+(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 10 or 21[^c-87b1db967e4f33f4118de819b3d81c43] (deposit or use of explosive substance or article).
 
 (2) The additional particulars are—
 
@@ -174,7 +174,7 @@ The particulars relating to all applications and all marine licences are—
 
 ## 12. Incineration or loading vehicle etc for incineration
 
-(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 11, 12, 13, 22 or 23[^key-a1c691d2bea924cddc4d44f6b912aaa9] (incineration of substances or objects or loading of vehicle, vessel etc for incineration).
+(1) This regulation applies in relation to applications and marine licences to carry on a licensable marine activity which falls within item 11, 12, 13, 22 or 23[^c-a1c691d2bea924cddc4d44f6b912aaa9] (incineration of substances or objects or loading of vehicle, vessel etc for incineration).
 
 (2) The additional particulars are—
 
@@ -270,19 +270,19 @@ A full impact assessment of the effects that this instrument will have on the co
 
 [^f00004]: Footnote: See section 51(1) of the Marine and Coastal Access Act 2009.
 
-[^key-af480c790be6df3c8a55666681d0c535]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/6/1) substituted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [15](https://www.legislation.gov.uk/uksi/2026/676/article/15)
+[^c-af480c790be6df3c8a55666681d0c535]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/6/1) substituted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [15](https://www.legislation.gov.uk/uksi/2026/676/article/15)
 
-[^key-995bc30f9877cfe766b916374a8e8ca7]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/7/1) substituted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [16](https://www.legislation.gov.uk/uksi/2026/676/article/16)
+[^c-995bc30f9877cfe766b916374a8e8ca7]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/7/1) substituted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [16](https://www.legislation.gov.uk/uksi/2026/676/article/16)
 
-[^key-8566e9186b7776795fd49d5ce3fd69c9]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/8/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [17](https://www.legislation.gov.uk/uksi/2026/676/article/17)
+[^c-8566e9186b7776795fd49d5ce3fd69c9]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/8/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [17](https://www.legislation.gov.uk/uksi/2026/676/article/17)
 
-[^key-507b54a3f3eebcd857e1643d35c4a992]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/9/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [18](https://www.legislation.gov.uk/uksi/2026/676/article/18)
+[^c-507b54a3f3eebcd857e1643d35c4a992]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/9/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [18](https://www.legislation.gov.uk/uksi/2026/676/article/18)
 
-[^key-d65fb289bed92a867caf588d551d003f]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/10/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [19](https://www.legislation.gov.uk/uksi/2026/676/article/19)
+[^c-d65fb289bed92a867caf588d551d003f]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/10/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [19](https://www.legislation.gov.uk/uksi/2026/676/article/19)
 
-[^key-87b1db967e4f33f4118de819b3d81c43]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/11/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [20](https://www.legislation.gov.uk/uksi/2026/676/article/20)
+[^c-87b1db967e4f33f4118de819b3d81c43]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/11/1) inserted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [20](https://www.legislation.gov.uk/uksi/2026/676/article/20)
 
-[^key-a1c691d2bea924cddc4d44f6b912aaa9]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/12/1) substituted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [21](https://www.legislation.gov.uk/uksi/2026/676/article/21)
+[^c-a1c691d2bea924cddc4d44f6b912aaa9]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2011/424/regulation/12/1) substituted (9.8.2026) by [The Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 (S.I. 2026/676)](https://www.legislation.gov.uk/uksi/2026/676), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1), [21](https://www.legislation.gov.uk/uksi/2026/676/article/21)
 
 [^f00005]: Footnote: See section 115(1) of the Marine and Coastal Access Act 2009 for definitions of these terms.
 

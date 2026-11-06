@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Illegal payments or employments[^key-4845bba265214d5a7ee95555cf571de4]
+## 126. Illegal payments or employments[^c-4845bba265214d5a7ee95555cf571de4]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4845bba265214d5a7ee95555cf571de4]: Commencement: Art. 126 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4845bba265214d5a7ee95555cf571de4]: Commencement: Art. 126 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

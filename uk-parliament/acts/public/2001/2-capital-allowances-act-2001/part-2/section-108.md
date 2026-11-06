@@ -23,12 +23,12 @@ summary: ''
 (1) This section applies if—
 
 - (a) a person who has incurred qualifying expenditure which has been allocated to an overseas leasing pool disposes of the plant or machinery to a connected person,
-- (b) the disposal does not occur on the occasion of a change in the persons carrying on the qualifying activity—[^key-1150bc4faa62ad327284c28619a7cb79]
-  - (i) which falls within Chapter 1 of Part 22 of CTA 2010 (transfers of trade without a change of ownership)[^key-ce3575192961e9fa28c187c238e93424], or
+- (b) the disposal does not occur on the occasion of a change in the persons carrying on the qualifying activity—[^c-1150bc4faa62ad327284c28619a7cb79]
+  - (i) which falls within Chapter 1 of Part 22 of CTA 2010 (transfers of trade without a change of ownership)[^c-ce3575192961e9fa28c187c238e93424], or
   - (ii) in relation to which Condition A or Condition B is met, and
 - (c) a disposal value is required to be brought into account on that occasion under this Part.
 
-(1A)[^key-5ea422731278d919c0930c8bb6adebaf] Condition A is that—
+(1A)[^c-5ea422731278d919c0930c8bb6adebaf] Condition A is that—
 
 - (a) at least one person who carried on the qualifying activity immediately before or immediately after the change was within the charge to income tax in respect of that activity, and
 - (b) at least one person who carried on the qualifying activity before the change continued to carry it on after the change.
@@ -46,14 +46,14 @@ summary: ''
 
 (3) The person acquiring the plant or machinery is to be treated for the purposes of this Part as having incurred expenditure on its provision of an amount equal to the disposal value given by subsection (2).
 
-(4)[^key-10f1ff40f0a23c58e537ed137e11b582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-10f1ff40f0a23c58e537ed137e11b582] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1150bc4faa62ad327284c28619a7cb79]: Textual amendment: S. 108(1)(b)(i)(ii) and words substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 485(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/485/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-1150bc4faa62ad327284c28619a7cb79]: Textual amendment: S. 108(1)(b)(i)(ii) and words substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 485(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/485/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-ce3575192961e9fa28c187c238e93424]: Textual amendment: Words in s. 108(1)(b)(i) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 334](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/334) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ce3575192961e9fa28c187c238e93424]: Textual amendment: Words in s. 108(1)(b)(i) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 334](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/334) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-5ea422731278d919c0930c8bb6adebaf]: Textual amendment: S. 108(1A)(1B) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 485(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/485/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-5ea422731278d919c0930c8bb6adebaf]: Textual amendment: S. 108(1A)(1B) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 485(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/485/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-10f1ff40f0a23c58e537ed137e11b582]: Textual amendment: S. 108(4) repealed (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 537(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/537/3), [3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-10f1ff40f0a23c58e537ed137e11b582]: Textual amendment: S. 108(4) repealed (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 537(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/537/3), [3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

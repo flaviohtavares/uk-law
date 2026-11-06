@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Amendments relating to sections 51 and 52[^key-20f38b2d48e52cc304839e0a6a96f996]
+## 53. Amendments relating to sections 51 and 52[^c-20f38b2d48e52cc304839e0a6a96f996]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20f38b2d48e52cc304839e0a6a96f996]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2016/19/section/53) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)
+[^c-20f38b2d48e52cc304839e0a6a96f996]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2016/19/section/53) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)

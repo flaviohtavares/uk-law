@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 418. Other related provisions[^key-aa5abf133d2e4ea34ba8c7177f26f095]
+## 418. Other related provisions[^c-aa5abf133d2e4ea34ba8c7177f26f095]
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-6c9170f98a102135b97eeb1a7cc7b7ec] This Part needs to be read with Chapter 5B of Part 2 (taxable specific income from employment-related securities etc: internationally mobile employees).
+(A1)[^c-6c9170f98a102135b97eeb1a7cc7b7ec] This Part needs to be read with Chapter 5B of Part 2 (taxable specific income from employment-related securities etc: internationally mobile employees).
 
 (1) In Part 3—
 
@@ -29,7 +29,7 @@ summary: ''
 
 may also have effect in relation to securities and interests in securities ....
 
-(1A)[^key-898b700be6190513e43f79b931d2b883] But Chapters 1 and 10 of Part 3 do not have effect in relation to—
+(1A)[^c-898b700be6190513e43f79b931d2b883] But Chapters 1 and 10 of Part 3 do not have effect in relation to—
 
 - (a) the acquisition of employment-related securities options (within the meaning of Chapter 5 of Part 7), or
 - (b) chargeable events (within the meaning given by section 477) occurring in relation to such options.
@@ -47,8 +47,8 @@ may also have effect in relation to securities and interests in securities ....
 
 ## Annotations
 
-[^key-aa5abf133d2e4ea34ba8c7177f26f095]: Textual amendment: Pt. 7 Ch. 1 substituted (with effect in accordance with Sch. 22 para. 2(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/2/1)
+[^c-aa5abf133d2e4ea34ba8c7177f26f095]: Textual amendment: Pt. 7 Ch. 1 substituted (with effect in accordance with Sch. 22 para. 2(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/2/1)
 
-[^key-6c9170f98a102135b97eeb1a7cc7b7ec]: Textual amendment: S. 418(A1) inserted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/7), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
+[^c-6c9170f98a102135b97eeb1a7cc7b7ec]: Textual amendment: S. 418(A1) inserted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/7), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
 
-[^key-898b700be6190513e43f79b931d2b883]: Textual amendment: [S. 418(1A)](https://www.legislation.gov.uk/ukpga/2003/1/section/418/1A) inserted (6.4.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 17(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/17/2)[(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/17/4)
+[^c-898b700be6190513e43f79b931d2b883]: Textual amendment: [S. 418(1A)](https://www.legislation.gov.uk/ukpga/2003/1/section/418/1A) inserted (6.4.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 17(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/17/2)[(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/17/4)

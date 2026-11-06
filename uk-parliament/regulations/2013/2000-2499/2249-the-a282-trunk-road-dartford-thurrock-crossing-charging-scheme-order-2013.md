@@ -45,13 +45,13 @@ Appropriate persons have been consulted in accordance with section 170(1C) of th
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation, commencement and period in force[^key-132bf0c72a70948ed69bd1bfa173336c]
+### 1. Citation, commencement and period in force[^c-132bf0c72a70948ed69bd1bfa173336c]
 
 (1) This Order may be cited as the A282 Trunk Road (Dartford-Thurrock Crossing Charging Scheme) Order 2013 and comes into force on 1st October 2013.
 
-(2)[^key-d86039a1609ca2ad7742802d187a882a] This Order remains in force indefinitely.
+(2)[^c-d86039a1609ca2ad7742802d187a882a] This Order remains in force indefinitely.
 
-### 2. Interpretation[^key-298fe09f24a8729cd8f491f68c46440d]
+### 2. Interpretation[^c-298fe09f24a8729cd8f491f68c46440d]
 
 (1) In this Order—
 
@@ -70,11 +70,11 @@ Appropriate persons have been consulted in accordance with section 170(1C) of th
 
 ## PART 2 — DESIGNATION OF THE CROSSING AND CHARGES
 
-### 3. Designation of the crossing[^key-d5f2c8f5a89ab1efb88a55dffdbbffd4]
+### 3. Designation of the crossing[^c-d5f2c8f5a89ab1efb88a55dffdbbffd4]
 
 The crossing is the road designated by this charging scheme in respect of which charges are imposed by the first or second charging regime as the case may be.
 
-### 4. Charging regimes[^key-dce8e63a555c6eb0748aae7daa101ab6]
+### 4. Charging regimes[^c-dce8e63a555c6eb0748aae7daa101ab6]
 
 (1) From 1st October 2013 until free-flow charging commences motor vehicles used or kept on the crossing are subject to the first charging regime.
 
@@ -88,7 +88,7 @@ The crossing is the road designated by this charging scheme in respect of which 
 
 (6) Those motor vehicles described in Schedule 3 of this Order are exempt from a charge under the first charging regime or the second charging regime.
 
-### 5. Imposition and payment of charges[^key-a47c023db03e4e457980bd2029769212]
+### 5. Imposition and payment of charges[^c-a47c023db03e4e457980bd2029769212]
 
 (1) The use or keeping of a motor vehicle on the crossing causes a charge to be imposed under the first charging regime or the second charging regime as the case may be.
 
@@ -105,7 +105,7 @@ The crossing is the road designated by this charging scheme in respect of which 
 
 any motor vehicle in respect of which the charge is to be paid using that method or means of payment.
 
-### 6. Advance payments[^key-1aadc22f41d13fcf0737bb5107f0f2b5]
+### 6. Advance payments[^c-1aadc22f41d13fcf0737bb5107f0f2b5]
 
 (1) Subject to paragraph (3), the Secretary of State may enter into an agreement with persons (an “advance payment agreement”) under which, on such terms as may be provided by the agreement, charges for a motor vehicle to be used or kept on the crossing may be paid in advance.
 
@@ -113,7 +113,7 @@ any motor vehicle in respect of which the charge is to be paid using that method
 
 (3) An advance payment agreement offered by the Secretary of State must be offered on the same terms to all persons seeking to enter into such an agreement.
 
-### 7. Advance payments for local residents[^key-60702fd62f02003e11ead926eef9f319]
+### 7. Advance payments for local residents[^c-60702fd62f02003e11ead926eef9f319]
 
 (1) Subject to paragraph (3), the Secretary of State may enter into an agreement with a local resident (a “local resident’s agreement”) under which, on such terms as may be provided by the agreement, charges for a motor vehicle to be used or kept on the crossing may be paid in advance.
 
@@ -123,7 +123,7 @@ any motor vehicle in respect of which the charge is to be paid using that method
 
 ## PART 3 — PENALTY CHARGES
 
-### 8. Penalty charge for non-payment of charge under the second charging regime[^key-4f31bb8dbfe63275cb6dfd4bd048158e]
+### 8. Penalty charge for non-payment of charge under the second charging regime[^c-4f31bb8dbfe63275cb6dfd4bd048158e]
 
 (1) A penalty charge of the amount shown in Part 1 of Schedule 4 is payable in respect of a motor vehicle upon which a charge under the second charging regime has been imposed and where such charge has not been paid in full before midnight on the day immediately following the day on which that charge was imposed.
 
@@ -134,7 +134,7 @@ any motor vehicle in respect of which the charge is to be paid using that method
 - (c) reduced by one half provided it is paid in full prior to the end of the fourteenth day of the period referred to in paragraph (2);
 - (d) increased by one half if not paid in full before a charge certificate to which it relates is served by the Secretary of State (as the charging authority) in accordance with regulation 17 of the Enforcement Regulations.
 
-### 9. Additional penalty charges where powers exercised in respect of vehicles[^key-fe7c002fab41c04d7df391263a6994ad]
+### 9. Additional penalty charges where powers exercised in respect of vehicles[^c-fe7c002fab41c04d7df391263a6994ad]
 
 (1) An additional penalty charge of the amount shown in Part 2 of Schedule 4 will be payable under the second charging regime for the—
 
@@ -147,25 +147,25 @@ any motor vehicle in respect of which the charge is to be paid using that method
 
 ## PART 4 — POWERS IN RESPECT OF MOTOR VEHICLES
 
-### 10. Exercise of powers and authorised persons[^key-37f0d07c44ed8e1c8a7ef0774629df98]
+### 10. Exercise of powers and authorised persons[^c-37f0d07c44ed8e1c8a7ef0774629df98]
 
 (1) The Secretary of State may authorise in writing a person to exercise any one or more of the powers in articles 11 to 15.
 
 (2) Any person authorised by the Secretary of State in accordance with paragraph (1) is an authorised person within the meaning of regulation 21 of the Enforcement Regulations.
 
-### 11. Examination of motor vehicles[^key-f557435cfc4adcfbd57233edd96dde02]
+### 11. Examination of motor vehicles[^c-f557435cfc4adcfbd57233edd96dde02]
 
 An authorised person may examine a motor vehicle whilst it is on a road to ascertain if any of the circumstances described in regulation 22 of the Enforcement Regulations exists.
 
-### 12. Entering motor vehicles[^key-1f10f52ecebea855fe0516838f6d27ab]
+### 12. Entering motor vehicles[^c-1f10f52ecebea855fe0516838f6d27ab]
 
 An authorised person may enter a motor vehicle whilst it is on a road where the authorised person has reasonable grounds for suspecting that any of the circumstances described in regulation 23(1) of the Enforcement Regulations exists.
 
-### 13. Seizure[^key-4a2bbac3b8ce3d14b91e2f136a9b1bb1]
+### 13. Seizure[^c-4a2bbac3b8ce3d14b91e2f136a9b1bb1]
 
 An authorised person may seize anything (if necessary by detaching it from a motor vehicle) as provided for in regulation 24 of the Enforcement Regulations.
 
-### 14. Immobilisation of motor vehicles[^key-a612ab4b4c5775c91b9a259cf976f98a]
+### 14. Immobilisation of motor vehicles[^c-a612ab4b4c5775c91b9a259cf976f98a]
 
 Provided—
 
@@ -174,7 +174,7 @@ Provided—
 
 an authorised person may immobilise a motor vehicle in accordance with paragraphs (4) and (5) of that regulation.
 
-### 15. Removal, storage and disposal of motor vehicles[^key-5c455bcb40ac1d2b56b355a084fc2b5b]
+### 15. Removal, storage and disposal of motor vehicles[^c-5c455bcb40ac1d2b56b355a084fc2b5b]
 
 (1) Provided regulation 27(1)(a) or (b) of the Enforcement Regulations is satisfied, an authorised person may remove a motor vehicle and deliver it to a custodian for storage.
 
@@ -182,7 +182,7 @@ an authorised person may immobilise a motor vehicle in accordance with paragraph
 
 ## PART 5 — REVIEW AND REVOCATION
 
-### 16. Review[^key-494a62ddc3f531358d9fbae6447d92fa]
+### 16. Review[^c-494a62ddc3f531358d9fbae6447d92fa]
 
 (1) Before the end of the review period, the Secretary of State must—
 
@@ -198,7 +198,7 @@ an authorised person may immobilise a motor vehicle in accordance with paragraph
 
 (3) “review period” means the period of five years from 1st October 2013.
 
-### 17. Revocation[^key-303cb9d1c71f72c08e3cf79eb593fbff]
+### 17. Revocation[^c-303cb9d1c71f72c08e3cf79eb593fbff]
 
 The A282 Trunk Road (Dartford-Thurrock Crossing Charging Scheme) Order 2012[^f00007] is revoked.
 
@@ -212,30 +212,30 @@ Department for Transport
 
 5th September 2013
 
-## SCHEDULE 1 — ROAD IN RESPECT OF WHICH CHARGES ARE IMPOSED[^key-a8cd6c2461cd6fbb9a6d7bfbda15e418]
+## SCHEDULE 1 — ROAD IN RESPECT OF WHICH CHARGES ARE IMPOSED[^c-a8cd6c2461cd6fbb9a6d7bfbda15e418]
 
 Article 2(1)
 
-[^key-a8cd6c2461cd6fbb9a6d7bfbda15e418]
+[^c-a8cd6c2461cd6fbb9a6d7bfbda15e418]
 
 The road is a length of the A282 trunk road starting at a point below the north face of the bridge carrying Crossways Boulevard University Way (A206) over the trunk road at junction 1A at Dartford, in the County of Kent, and extending northwards to a point approximately 300 metres north of where it crosses London Road at West Thurrock, in the County of Essex and is labelled A on the plan and carried through twin tunnels beneath the River Thames and on the Queen Elizabeth II bridge over the River Thames.
 
-## SCHEDULE 2 — CHARGES PAYABLE UNDER THE FIRST CHARGING REGIME AND THE SECOND CHARGING REGIME[^key-39213345d44e52a4c832aa5039a64e46]
+## SCHEDULE 2 — CHARGES PAYABLE UNDER THE FIRST CHARGING REGIME AND THE SECOND CHARGING REGIME[^c-39213345d44e52a4c832aa5039a64e46]
 
 Articles 2(1) and 5(2) and (3)
 
 | Column 1 - Item | Column 2 - Class of Motor Vehicle and Description | Column 3 - Charge for each motor vehicle each time it is used or kept on the crossing whilst the First Charging Regime is in force | Column 4 - Charge for each motor vehicle each time it is used or kept on the crossing whilst the Second Charging Regime is in force |
 | --- | --- | --- | --- |
 | A | Classes—<br>A(a) – mopeds;<br>B(a) – motorcycles;<br>C(a) – motor tricycles;<br>D(a) – light quadricycles; and<br>E(a) - quadricycles. | Free | Free |
-| B | Classes—<br>L(a) – motor caravans; and<br>M1(a) – a motor vehicle with or without a semi-trailer which has at least four wheels, has an unladen mass exceeding 400 kilogrammes or an engine with net power exceeding 15 kilowatts, is used for the carriage of passengers, is not a motor caravan and which comprises no more than eight seats in addition to the driver’s seat. | £2.00 | £3.50[^key-b7b600abc4b5e50cc33886d866741b0d] |
-| C | Classes—<br>NAB(1)(a) – a motor vehicle with or without a semi-trailer which has at least four wheels, has an unladen mass exceeding 550 kilogrammes or an engine with power exceeding 15 kilowatts, is used for the carriage of goods and which has two axles; and<br>MAB(1)(a) - a motor vehicle with or without a semi-trailer which has at least four wheels, has an unladen mass exceeding 400 kilogrammes or an engine with net power exceeding 15 kilowatts, is used for the carriage of passengers, is not a motor caravan and which comprises more than eight seats in addition to the driver’s seat and has two axles. | £2.50 | £4.20[^key-726dd13210c02450d1151c174f72f558] |
-| D | Classes—<br>NAB(2)(a) - a motor vehicle with or without a semi-trailer which has at least four wheels, has an unladen mass exceeding 550 kilogrammes or an engine with power exceeding 15 kilowatts, is used for the carriage of goods and which has three axles;<br>NAB(3)(a) - a motor vehicle with or without a semi-trailer which has at least four wheels, has an unladen mass exceeding 550 kilogrammes or an engine with power exceeding 15 kilowatts, is used for the carriage of goods and which has more than three axles;<br>MAB(2)(a) - a motor vehicle with or without a semi-trailer which has at least four wheels, has an unladen mass exceeding 400 kilogrammes or an engine with net power exceeding 15 kilowatts, is used for the carriage of passengers, is not a motor caravan and which comprises more than eight seats in addition to the driver’s seat and has three axles; and<br>MAB(3)(a) - a motor vehicle with or without a semi-trailer which has at least four wheels, has an unladen mass exceeding 400 kilogrammes or an engine with net power exceeding 15 kilowatts, is used for the carriage of passengers, is not a motor caravan and which comprises more than eight seats in addition to the driver’s seat and has more than three axles. | £5.00 | £8.40[^key-a54a9eccefdf050a1bb75ad084e533f5] |
+| B | Classes—<br>L(a) – motor caravans; and<br>M1(a) – a motor vehicle with or without a semi-trailer which has at least four wheels, has an unladen mass exceeding 400 kilogrammes or an engine with net power exceeding 15 kilowatts, is used for the carriage of passengers, is not a motor caravan and which comprises no more than eight seats in addition to the driver’s seat. | £2.00 | £3.50[^c-b7b600abc4b5e50cc33886d866741b0d] |
+| C | Classes—<br>NAB(1)(a) – a motor vehicle with or without a semi-trailer which has at least four wheels, has an unladen mass exceeding 550 kilogrammes or an engine with power exceeding 15 kilowatts, is used for the carriage of goods and which has two axles; and<br>MAB(1)(a) - a motor vehicle with or without a semi-trailer which has at least four wheels, has an unladen mass exceeding 400 kilogrammes or an engine with net power exceeding 15 kilowatts, is used for the carriage of passengers, is not a motor caravan and which comprises more than eight seats in addition to the driver’s seat and has two axles. | £2.50 | £4.20[^c-726dd13210c02450d1151c174f72f558] |
+| D | Classes—<br>NAB(2)(a) - a motor vehicle with or without a semi-trailer which has at least four wheels, has an unladen mass exceeding 550 kilogrammes or an engine with power exceeding 15 kilowatts, is used for the carriage of goods and which has three axles;<br>NAB(3)(a) - a motor vehicle with or without a semi-trailer which has at least four wheels, has an unladen mass exceeding 550 kilogrammes or an engine with power exceeding 15 kilowatts, is used for the carriage of goods and which has more than three axles;<br>MAB(2)(a) - a motor vehicle with or without a semi-trailer which has at least four wheels, has an unladen mass exceeding 400 kilogrammes or an engine with net power exceeding 15 kilowatts, is used for the carriage of passengers, is not a motor caravan and which comprises more than eight seats in addition to the driver’s seat and has three axles; and<br>MAB(3)(a) - a motor vehicle with or without a semi-trailer which has at least four wheels, has an unladen mass exceeding 400 kilogrammes or an engine with net power exceeding 15 kilowatts, is used for the carriage of passengers, is not a motor caravan and which comprises more than eight seats in addition to the driver’s seat and has more than three axles. | £5.00 | £8.40[^c-a54a9eccefdf050a1bb75ad084e533f5] |
 
 ## SCHEDULE 3 — DESCRIPTIONS OF MOTOR VEHICLES EXEMPT FROM THE FIRST AND SECOND CHARGING REGIMES
 
 Article 4(6)
 
-**1.**[^key-b3a43ffe628774e0d5d0607fd6818e03] The following descriptions of motor vehicles are exempt from the first and second charging regimes—
+**1.**[^c-b3a43ffe628774e0d5d0607fd6818e03] The following descriptions of motor vehicles are exempt from the first and second charging regimes—
 
 (1) a vehicle which is—
 
@@ -269,7 +269,7 @@ Article 4(6)
 
 (7) a vehicle used by or escorted by the Vehicle and Operator Service Agency in the execution of duty.
 
-## SCHEDULE 4 — PENALTY CHARGE RATES[^key-90996da133dd596a420919a1edfa2b10]
+## SCHEDULE 4 — PENALTY CHARGE RATES[^c-90996da133dd596a420919a1edfa2b10]
 
 Articles 8(1) and 9(1)
 
@@ -322,64 +322,64 @@ An impact assessment of the effect that this instrument will have on business an
 
 [^f00003]: Footnote: [S.I. 2001/2303](https://www.legislation.gov.uk/uksi/2001/2303), amended by [S.I. 2004/3168](https://www.legislation.gov.uk/uksi/2004/3168).
 
-[^key-132bf0c72a70948ed69bd1bfa173336c]: Commencement: Art. 1 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-132bf0c72a70948ed69bd1bfa173336c]: Commencement: Art. 1 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-d86039a1609ca2ad7742802d187a882a]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/2) substituted (28.2.2020) by [The A282 Trunk Road (Dartford-Thurrock Crossing Charging Scheme) (Amendment) Order 2020 (S.I. 2020/126)](https://www.legislation.gov.uk/uksi/2020/126), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/126/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/126/article/2/2)
+[^c-d86039a1609ca2ad7742802d187a882a]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/2) substituted (28.2.2020) by [The A282 Trunk Road (Dartford-Thurrock Crossing Charging Scheme) (Amendment) Order 2020 (S.I. 2020/126)](https://www.legislation.gov.uk/uksi/2020/126), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/126/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/126/article/2/2)
 
-[^key-298fe09f24a8729cd8f491f68c46440d]: Commencement: Art. 2 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-298fe09f24a8729cd8f491f68c46440d]: Commencement: Art. 2 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
 [^f00004]: Footnote: [S.I. 2013/1783](https://www.legislation.gov.uk/uksi/2013/1783).
 
 [^f00005]: Footnote: The website is at http://www.highways.gov.uk/
 
-[^key-d5f2c8f5a89ab1efb88a55dffdbbffd4]: Commencement: Art. 3 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-d5f2c8f5a89ab1efb88a55dffdbbffd4]: Commencement: Art. 3 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-dce8e63a555c6eb0748aae7daa101ab6]: Commencement: Art. 4 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-dce8e63a555c6eb0748aae7daa101ab6]: Commencement: Art. 4 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
 [^f00006]: Footnote: [S.I. 2001/2793](https://www.legislation.gov.uk/uksi/2001/2793).
 
-[^key-a47c023db03e4e457980bd2029769212]: Commencement: Art. 5 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-a47c023db03e4e457980bd2029769212]: Commencement: Art. 5 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-1aadc22f41d13fcf0737bb5107f0f2b5]: Commencement: Art. 6 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-1aadc22f41d13fcf0737bb5107f0f2b5]: Commencement: Art. 6 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-60702fd62f02003e11ead926eef9f319]: Commencement: Art. 7 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-60702fd62f02003e11ead926eef9f319]: Commencement: Art. 7 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-4f31bb8dbfe63275cb6dfd4bd048158e]: Commencement: Art. 8 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-4f31bb8dbfe63275cb6dfd4bd048158e]: Commencement: Art. 8 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-fe7c002fab41c04d7df391263a6994ad]: Commencement: Art. 9 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-fe7c002fab41c04d7df391263a6994ad]: Commencement: Art. 9 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-37f0d07c44ed8e1c8a7ef0774629df98]: Commencement: Art. 10 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-37f0d07c44ed8e1c8a7ef0774629df98]: Commencement: Art. 10 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-f557435cfc4adcfbd57233edd96dde02]: Commencement: Art. 11 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-f557435cfc4adcfbd57233edd96dde02]: Commencement: Art. 11 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-1f10f52ecebea855fe0516838f6d27ab]: Commencement: Art. 12 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-1f10f52ecebea855fe0516838f6d27ab]: Commencement: Art. 12 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-4a2bbac3b8ce3d14b91e2f136a9b1bb1]: Commencement: Art. 13 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-4a2bbac3b8ce3d14b91e2f136a9b1bb1]: Commencement: Art. 13 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-a612ab4b4c5775c91b9a259cf976f98a]: Commencement: Art. 14 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-a612ab4b4c5775c91b9a259cf976f98a]: Commencement: Art. 14 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-5c455bcb40ac1d2b56b355a084fc2b5b]: Commencement: Art. 15 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-5c455bcb40ac1d2b56b355a084fc2b5b]: Commencement: Art. 15 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-494a62ddc3f531358d9fbae6447d92fa]: Commencement: Art. 16 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-494a62ddc3f531358d9fbae6447d92fa]: Commencement: Art. 16 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-303cb9d1c71f72c08e3cf79eb593fbff]: Commencement: Art. 17 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-303cb9d1c71f72c08e3cf79eb593fbff]: Commencement: Art. 17 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
 [^f00007]: Footnote: [S.I. 2012/2387](https://www.legislation.gov.uk/uksi/2012/2387).
 
-[^key-a8cd6c2461cd6fbb9a6d7bfbda15e418]: Commencement: Sch. 1 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-a8cd6c2461cd6fbb9a6d7bfbda15e418]: Commencement: Sch. 1 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-39213345d44e52a4c832aa5039a64e46]: Commencement: Sch. 2 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-39213345d44e52a4c832aa5039a64e46]: Commencement: Sch. 2 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
-[^key-b7b600abc4b5e50cc33886d866741b0d]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2249/schedule/2) substituted (1.9.2025) by [The A282 Trunk Road (Dartford-Thurrock Crossing Charging Scheme) (Variation) Order 2025 (S.I. 2025/853)](https://www.legislation.gov.uk/uksi/2025/853), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/853/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/853/article/2/2/a)
+[^c-b7b600abc4b5e50cc33886d866741b0d]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2249/schedule/2) substituted (1.9.2025) by [The A282 Trunk Road (Dartford-Thurrock Crossing Charging Scheme) (Variation) Order 2025 (S.I. 2025/853)](https://www.legislation.gov.uk/uksi/2025/853), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/853/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/853/article/2/2/a)
 
-[^key-726dd13210c02450d1151c174f72f558]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2249/schedule/2) substituted (1.9.2025) by [The A282 Trunk Road (Dartford-Thurrock Crossing Charging Scheme) (Variation) Order 2025 (S.I. 2025/853)](https://www.legislation.gov.uk/uksi/2025/853), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/853/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/853/article/2/2/b)
+[^c-726dd13210c02450d1151c174f72f558]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2249/schedule/2) substituted (1.9.2025) by [The A282 Trunk Road (Dartford-Thurrock Crossing Charging Scheme) (Variation) Order 2025 (S.I. 2025/853)](https://www.legislation.gov.uk/uksi/2025/853), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/853/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/853/article/2/2/b)
 
-[^key-a54a9eccefdf050a1bb75ad084e533f5]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2249/schedule/2) substituted (1.9.2025) by [The A282 Trunk Road (Dartford-Thurrock Crossing Charging Scheme) (Variation) Order 2025 (S.I. 2025/853)](https://www.legislation.gov.uk/uksi/2025/853), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/853/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2025/853/article/2/2/c)
+[^c-a54a9eccefdf050a1bb75ad084e533f5]: Textual amendment: Sum in [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2249/schedule/2) substituted (1.9.2025) by [The A282 Trunk Road (Dartford-Thurrock Crossing Charging Scheme) (Variation) Order 2025 (S.I. 2025/853)](https://www.legislation.gov.uk/uksi/2025/853), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/853/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2025/853/article/2/2/c)
 
-[^key-b3a43ffe628774e0d5d0607fd6818e03]: Commencement: Sch. 3 para. 1 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-b3a43ffe628774e0d5d0607fd6818e03]: Commencement: Sch. 3 para. 1 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
 
 [^f00008]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22)
 
 [^f00009]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67).
 
-[^key-90996da133dd596a420919a1edfa2b10]: Commencement: Sch. 4 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)
+[^c-90996da133dd596a420919a1edfa2b10]: Commencement: Sch. 4 in force at 1.10.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2249/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Register of open-ended investment companies[^key-fb80780e62a8e46c66db2a643eed4110]
+## 71. Register of open-ended investment companies[^c-fb80780e62a8e46c66db2a643eed4110]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb80780e62a8e46c66db2a643eed4110]: Commencement: [Reg. 71](https://www.legislation.gov.uk/nisr/2004/335/regulation/71) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-fb80780e62a8e46c66db2a643eed4110]: Commencement: [Reg. 71](https://www.legislation.gov.uk/nisr/2004/335/regulation/71) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

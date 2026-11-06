@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Benefit of the Order[^key-fb2a31db53b4c171d43b08a7fc5616f3]
+## 5. Benefit of the Order[^c-fb2a31db53b4c171d43b08a7fc5616f3]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ except where paragraph (5) applies, in which case no such consent shall be requi
 
 ## Annotations
 
-[^key-fb2a31db53b4c171d43b08a7fc5616f3]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2014/2950/article/5) substituted (28.7.2016) by [The Walney Extension Offshore Wind Farm (Amendment) Order 2016 (S.I. 2016/810)](https://www.legislation.gov.uk/uksi/2016/810), [arts. 1](https://www.legislation.gov.uk/uksi/2016/810/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/810/article/2/2)
+[^c-fb2a31db53b4c171d43b08a7fc5616f3]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2014/2950/article/5) substituted (28.7.2016) by [The Walney Extension Offshore Wind Farm (Amendment) Order 2016 (S.I. 2016/810)](https://www.legislation.gov.uk/uksi/2016/810), [arts. 1](https://www.legislation.gov.uk/uksi/2016/810/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/810/article/2/2)

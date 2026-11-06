@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Enforcement orders in cases of infringement.[^key-a7dcbae6334a474b702454bc2f818de2]
+## 127. Enforcement orders in cases of infringement.[^c-a7dcbae6334a474b702454bc2f818de2]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ the court shall dismiss the application if, but [^c18817291]. . . only if, it co
 
 ## Annotations
 
-[^key-a7dcbae6334a474b702454bc2f818de2]: Modification: [S. 127](https://www.legislation.gov.uk/ukpga/1974/39/section/127) applied (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [29(2)](https://www.legislation.gov.uk/uksi/2015/910/article/29/2) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-a7dcbae6334a474b702454bc2f818de2]: Modification: [S. 127](https://www.legislation.gov.uk/ukpga/1974/39/section/127) applied (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [29(2)](https://www.legislation.gov.uk/uksi/2015/910/article/29/2) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
 [^c20969741]: Textual amendment: S. 127(1)(za) inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 18](https://www.legislation.gov.uk/uksi/2010/1010/regulation/18), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
 

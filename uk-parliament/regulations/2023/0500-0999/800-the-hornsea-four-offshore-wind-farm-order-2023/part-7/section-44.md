@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Protective provisions[^key-77a830f07c3bc8e10a24667e5b8f4ae7]
+## 44. Protective provisions[^c-77a830f07c3bc8e10a24667e5b8f4ae7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 9 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-77a830f07c3bc8e10a24667e5b8f4ae7]: Commencement: Art. 44 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-77a830f07c3bc8e10a24667e5b8f4ae7]: Commencement: Art. 44 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)

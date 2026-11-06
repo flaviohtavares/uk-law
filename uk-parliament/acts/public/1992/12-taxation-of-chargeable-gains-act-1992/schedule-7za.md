@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7ZA — Business asset disposal relief: “trading company” and “trading group”[^key-cce6fb7c2219fa49303d75fd65c028ee][^key-81bc625811da9cbe5b35aca85a72dfb8]
+## SCHEDULE 7ZA — Business asset disposal relief: “trading company” and “trading group”[^c-cce6fb7c2219fa49303d75fd65c028ee][^c-81bc625811da9cbe5b35aca85a72dfb8]
 
 *Extent: E+W+S+N.I.*
 
@@ -261,9 +261,9 @@ X is the fraction of the voting rights in company CP that is held by company DIC
 
 **25.** “**The relevant period**” means—
 
-- (a) for the purposes of conditions A and C in section 169I, the period of 2 years[^key-2820bfa3906e679df25fbc7bd7eb9b7e] ending with the date of the disposal,
-- (b) for the purposes of conditions B and D in section 169I, the period of 2 years[^key-799ae4ee112a2af7d75ceb776eb751c0] ending with the date mentioned in subsection (7)(a) or (b) or (7O)(a) or (b) of that section, and
-- (c) for the purposes of section 169J(4), a period of 2 years[^key-63f7c74335fca4dde989eb1f02d9f18a] ending not earlier than 3 years before the date of the disposal.
+- (a) for the purposes of conditions A and C in section 169I, the period of 2 years[^c-2820bfa3906e679df25fbc7bd7eb9b7e] ending with the date of the disposal,
+- (b) for the purposes of conditions B and D in section 169I, the period of 2 years[^c-799ae4ee112a2af7d75ceb776eb751c0] ending with the date mentioned in subsection (7)(a) or (b) or (7O)(a) or (b) of that section, and
+- (c) for the purposes of section 169J(4), a period of 2 years[^c-63f7c74335fca4dde989eb1f02d9f18a] ending not earlier than 3 years before the date of the disposal.
 
 #### Other interpretation provisions
 
@@ -282,12 +282,12 @@ References in Part 3 to a person's interest in the assets of a partnership are t
 
 ## Annotations
 
-[^key-cce6fb7c2219fa49303d75fd65c028ee]: Textual amendment: Sch. 7ZA inserted (with effect in accordance with Sch. 13 para. 6(1) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2016/24/schedule/13/paragraph/5)
+[^c-cce6fb7c2219fa49303d75fd65c028ee]: Textual amendment: Sch. 7ZA inserted (with effect in accordance with Sch. 13 para. 6(1) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2016/24/schedule/13/paragraph/5)
 
-[^key-81bc625811da9cbe5b35aca85a72dfb8]: Textual amendment: Words in Act substituted (with effect for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 3 paras. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/2/a), [8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/8) (with [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/3))
+[^c-81bc625811da9cbe5b35aca85a72dfb8]: Textual amendment: Words in Act substituted (with effect for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 3 paras. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/2/a), [8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/8) (with [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/3))
 
-[^key-2820bfa3906e679df25fbc7bd7eb9b7e]: Textual amendment: Words in Sch. 7ZA para. 25(a) substituted (with effect in accordance with Sch. 16 para. 4(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(6)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/6/a)
+[^c-2820bfa3906e679df25fbc7bd7eb9b7e]: Textual amendment: Words in Sch. 7ZA para. 25(a) substituted (with effect in accordance with Sch. 16 para. 4(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(6)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/6/a)
 
-[^key-799ae4ee112a2af7d75ceb776eb751c0]: Textual amendment: Words in Sch. 7ZA para. 25(b) substituted (with effect in accordance with Sch. 16 para. 4(3) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(6)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/6/b)
+[^c-799ae4ee112a2af7d75ceb776eb751c0]: Textual amendment: Words in Sch. 7ZA para. 25(b) substituted (with effect in accordance with Sch. 16 para. 4(3) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(6)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/6/b)
 
-[^key-63f7c74335fca4dde989eb1f02d9f18a]: Textual amendment: Words in Sch. 7ZA para. 25(c) substituted (with effect in accordance with Sch. 16 para. 4(3) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(6)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/6/b)
+[^c-63f7c74335fca4dde989eb1f02d9f18a]: Textual amendment: Words in Sch. 7ZA para. 25(c) substituted (with effect in accordance with Sch. 16 para. 4(3) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(6)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/6/b)

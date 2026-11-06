@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 148. Application of Chapter[^key-d82a860a1525383f0124829141e714af]
+## 148. Application of Chapter[^c-d82a860a1525383f0124829141e714af]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ This Chapter applies in relation to an active member of this scheme who has accr
 
 ## Annotations
 
-[^key-d82a860a1525383f0124829141e714af]: Commencement: [Reg. 148](https://www.legislation.gov.uk/nisr/2014/290/regulation/148) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-d82a860a1525383f0124829141e714af]: Commencement: [Reg. 148](https://www.legislation.gov.uk/nisr/2014/290/regulation/148) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

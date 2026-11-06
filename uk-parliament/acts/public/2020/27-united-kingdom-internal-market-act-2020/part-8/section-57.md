@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Regulations: references to parliamentary procedures[^key-d4ed030ad85a66e5e5557bfa47af9eb2]
+## 57. Regulations: references to parliamentary procedures[^c-d4ed030ad85a66e5e5557bfa47af9eb2]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4ed030ad85a66e5e5557bfa47af9eb2]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2020/27/section/57) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/n)
+[^c-d4ed030ad85a66e5e5557bfa47af9eb2]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2020/27/section/57) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/n)

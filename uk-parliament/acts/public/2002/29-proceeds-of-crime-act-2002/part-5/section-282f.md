@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 282F. Enforcement abroad: after recovery order[^key-eb0af4ccfe109ea9aca614d7b4a8a873]
+## 282F. Enforcement abroad: after recovery order[^c-eb0af4ccfe109ea9aca614d7b4a8a873]
 
 *Extent: E+W+S+NI*
 
 (1) This section applies if—
 
-- (a) a recovery order [^key-30099eac3794e338d109ed02e7e4e00b]... has effect in relation to property, and
+- (a) a recovery order [^c-30099eac3794e338d109ed02e7e4e00b]... has effect in relation to property, and
 - (b) the enforcement authority or the trustee for civil recovery believes that the property is in a country outside the United Kingdom (the receiving country).
 
 (2) The enforcement authority or trustee for civil recovery may send a request for assistance in relation to the property to the Secretary of State with a view to it being forwarded under this section.
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb0af4ccfe109ea9aca614d7b4a8a873]: Textual amendment: Ss. 282B-282F and cross-heading inserted (retrospectively) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), ss. 48(7), [61(11)(d)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/11/d), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/6) (with [s. 48(8)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/8), Sch. 25); this insertion extended to N.I. (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)
+[^c-eb0af4ccfe109ea9aca614d7b4a8a873]: Textual amendment: Ss. 282B-282F and cross-heading inserted (retrospectively) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), ss. 48(7), [61(11)(d)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/11/d), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/6) (with [s. 48(8)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/8), Sch. 25); this insertion extended to N.I. (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)
 
-[^key-30099eac3794e338d109ed02e7e4e00b]: Textual amendment: Words in s. 282F(1)(a) omitted (retrospective to 20.3.2015) by virtue of [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2015/798/article/8/6)
+[^c-30099eac3794e338d109ed02e7e4e00b]: Textual amendment: Words in s. 282F(1)(a) omitted (retrospective to 20.3.2015) by virtue of [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2015/798/article/8/6)

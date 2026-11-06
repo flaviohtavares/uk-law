@@ -31,7 +31,7 @@ summary: ''
 
 (4) In section 14(1) of that Act (rebate on light oil for use as furnace fuel), for “£0.0077” there shall be substituted “ £0.0083 ”.
 
-(5)[^key-38ccdc258b9d39069c2c137e5dbe494c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-38ccdc258b9d39069c2c137e5dbe494c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Subsections (1) to (4) above shall be deemed to have come into force at 6 o’clock in the evening of 20th March 1990.
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^c12828991]: Marginal citation: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5).
 
-[^key-38ccdc258b9d39069c2c137e5dbe494c]: Textual amendment: S. 3(5) omitted (1.11.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 8(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/8/b), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
+[^c-38ccdc258b9d39069c2c137e5dbe494c]: Textual amendment: S. 3(5) omitted (1.11.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 8(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/8/b), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)

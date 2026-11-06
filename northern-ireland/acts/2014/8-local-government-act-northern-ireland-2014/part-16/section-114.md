@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 114. Transferred functions grant[^key-123d5a16d6e6050026805c3e55458701]
+## 114. Transferred functions grant[^c-123d5a16d6e6050026805c3e55458701]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-123d5a16d6e6050026805c3e55458701]: Commencement: [S. 114](https://www.legislation.gov.uk/nia/2014/8/section/114) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-123d5a16d6e6050026805c3e55458701]: Commencement: [S. 114](https://www.legislation.gov.uk/nia/2014/8/section/114) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

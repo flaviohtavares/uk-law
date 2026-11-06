@@ -59,7 +59,7 @@ summary: ''
 - (a) provision requiring the Secretary of State to specify in a report, for the purposes of the regulations, an amount in relation to each local authority;
 - (b) provision requiring him to lay the report before the House of Commons;
 - (c) provision for the review of any prescribed decision of a local[^c12080221] authority relating to the application or operation of the regulations;
-- (d) provision that no appeal may be made to the First-tier Tribunal for Scotland[^key-50b85bb6a29fff8ad6eb898eb54eafbb] in respect of such a decision, notwithstanding section 81(1) below.
+- (d) provision that no appeal may be made to the First-tier Tribunal for Scotland[^c-50b85bb6a29fff8ad6eb898eb54eafbb] in respect of such a decision, notwithstanding section 81(1) below.
 
 (9) To the extent that he would not have power to do so apart from this subsection, the Secretary of State may—
 
@@ -68,7 +68,7 @@ summary: ''
 
 (10) In subsection (9) above “**social security instrument**” means
 
-- (a)[^key-10c0fdbfa393f5563124d750494cd416] an order or regulations made, or falling to be made, by the Secretary of State under the Social Security Acts; or[^key-e36524e5f2f1e25c32f8fe19a1010e88]
+- (a)[^c-10c0fdbfa393f5563124d750494cd416] an order or regulations made, or falling to be made, by the Secretary of State under the Social Security Acts; or[^c-e36524e5f2f1e25c32f8fe19a1010e88]
 - (b) regulations made, or falling to be made, under Part 4 of the Welfare Reform Act 2012.
 
 ## Annotations
@@ -81,8 +81,8 @@ summary: ''
 
 [^c12080221]: Textual amendment: Word in s. 80(8)(c) substituted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 176(4)(a)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/176/4/a) (with [s. 128(8)](https://www.legislation.gov.uk/ukpga/1994/39/section/128/8)); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)
 
-[^key-50b85bb6a29fff8ad6eb898eb54eafbb]: Textual amendment: Words in [s. 80(8)(d)](https://www.legislation.gov.uk/ukpga/1992/14/section/80/8/d) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 8(2)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/8/2) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-50b85bb6a29fff8ad6eb898eb54eafbb]: Textual amendment: Words in [s. 80(8)(d)](https://www.legislation.gov.uk/ukpga/1992/14/section/80/8/d) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 8(2)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/8/2) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
 
-[^key-10c0fdbfa393f5563124d750494cd416]: Textual amendment: Words in [s. 80(10)(a)](https://www.legislation.gov.uk/ukpga/1992/14/section/80/10/a) in s. 80(10) renumbered as s. 80(10)(a) (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/7/3/a)
+[^c-10c0fdbfa393f5563124d750494cd416]: Textual amendment: Words in [s. 80(10)(a)](https://www.legislation.gov.uk/ukpga/1992/14/section/80/10/a) in s. 80(10) renumbered as s. 80(10)(a) (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 7(3)(a)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/7/3/a)
 
-[^key-e36524e5f2f1e25c32f8fe19a1010e88]: Textual amendment: [S. 80(10)(b)](https://www.legislation.gov.uk/ukpga/1992/14/section/80/10/b) and word inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 7(3)(b)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/7/3/b)
+[^c-e36524e5f2f1e25c32f8fe19a1010e88]: Textual amendment: [S. 80(10)(b)](https://www.legislation.gov.uk/ukpga/1992/14/section/80/10/b) and word inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 7(3)(b)](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/7/3/b)

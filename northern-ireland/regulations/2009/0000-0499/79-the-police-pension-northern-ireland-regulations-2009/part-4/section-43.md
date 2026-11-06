@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Lump-sum death grant[^key-881ebf18751802e821fcfeed268acf75]
+## 43. Lump-sum death grant[^c-881ebf18751802e821fcfeed268acf75]
 
 *Extent: N.I.*
 
@@ -33,10 +33,10 @@ summary: ''
 
 - (a) to any surviving spouse or surviving civil partner who qualifies for it; or
 - (b) if no person is qualified under sub-paragraph (a), and if the Board in their discretion so decide, to a surviving adult partner where the requirements of regulation 37(2)(a) and (b) are met; or
-- (c) subject to paragraph (4A),[^key-ca396fdc97ed37d9e75a6d5d7071e337] if no payment is made under sub-paragraph (a) or (b), and if the Board in their discretion so decide, to a person in respect of whom a nomination by the officer in accordance with regulation 44 had effect at the time of his death; or
+- (c) subject to paragraph (4A),[^c-ca396fdc97ed37d9e75a6d5d7071e337] if no payment is made under sub-paragraph (a) or (b), and if the Board in their discretion so decide, to a person in respect of whom a nomination by the officer in accordance with regulation 44 had effect at the time of his death; or
 - (d) otherwise, if the Board in their discretion so decide, to his legal personal representative.
 
-(4A)[^key-f3496b3897c8f6711069b491bbcc8aff] Unless paragraph (4B) applies, the Board must pay a grant to a person of the description in paragraph (4)(b) if a grant was paid to a different person under paragraph (4)(c) or (d) before this paragraph came into operation.
+(4A)[^c-f3496b3897c8f6711069b491bbcc8aff] Unless paragraph (4B) applies, the Board must pay a grant to a person of the description in paragraph (4)(b) if a grant was paid to a different person under paragraph (4)(c) or (d) before this paragraph came into operation.
 
 (4B) This paragraph applies where the Board are of the opinion that the person of the description in paragraph (4)(b) has benefitted from all of the grant paid under paragraph (4)(c) or (d).
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-881ebf18751802e821fcfeed268acf75]: Commencement: Reg. 43 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-881ebf18751802e821fcfeed268acf75]: Commencement: Reg. 43 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
-[^key-ca396fdc97ed37d9e75a6d5d7071e337]: Textual amendment: Words in [reg. 43(4)(c)](https://www.legislation.gov.uk/nisr/2009/79/regulation/43/4/c) inserted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [The Police Pension Schemes (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/54)](https://www.legislation.gov.uk/nisr/2019/54), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/54/regulation/1/2), [4(1)](https://www.legislation.gov.uk/nisr/2019/54/regulation/4/1)
+[^c-ca396fdc97ed37d9e75a6d5d7071e337]: Textual amendment: Words in [reg. 43(4)(c)](https://www.legislation.gov.uk/nisr/2009/79/regulation/43/4/c) inserted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [The Police Pension Schemes (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/54)](https://www.legislation.gov.uk/nisr/2019/54), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/54/regulation/1/2), [4(1)](https://www.legislation.gov.uk/nisr/2019/54/regulation/4/1)
 
-[^key-f3496b3897c8f6711069b491bbcc8aff]: Textual amendment: [Reg. 43(4A)-(4C)](https://www.legislation.gov.uk/nisr/2009/79/regulation/43/4A) inserted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [The Police Pension Schemes (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/54)](https://www.legislation.gov.uk/nisr/2019/54), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/54/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2019/54/regulation/4/2)
+[^c-f3496b3897c8f6711069b491bbcc8aff]: Textual amendment: [Reg. 43(4A)-(4C)](https://www.legislation.gov.uk/nisr/2009/79/regulation/43/4A) inserted (with effect in accordance with reg. 1(2)(a) of the amending Rule) by [The Police Pension Schemes (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/54)](https://www.legislation.gov.uk/nisr/2019/54), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2019/54/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2019/54/regulation/4/2)

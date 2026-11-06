@@ -28,13 +28,13 @@ Section 23
 
 ### Reduced-rate supplies
 
-**2.**[^key-7db1bcb7663643ed999136f9bcd0d987] In paragraph 4(2)(b) (taxable supplies: introduction), after “paragraph 24” insert “ or 45A ”.
+**2.**[^c-7db1bcb7663643ed999136f9bcd0d987] In paragraph 4(2)(b) (taxable supplies: introduction), after “paragraph 24” insert “ or 45A ”.
 
-**3.**[^key-6b0b39c8d4db09fa90977997a9b59781] In paragraph 5(3) (supplies of electricity), for “or 24” substitute “ , 24 or 45A ”.
+**3.**[^c-6b0b39c8d4db09fa90977997a9b59781] In paragraph 5(3) (supplies of electricity), for “or 24” substitute “ , 24 or 45A ”.
 
-**4.**[^key-7819828b8cc541464a99cb9484d6915c] In paragraph 6(2A) (supplies of gas), after “24” insert “ or 45A ”.
+**4.**[^c-7819828b8cc541464a99cb9484d6915c] In paragraph 6(2A) (supplies of gas), after “24” insert “ or 45A ”.
 
-**5.**[^key-3ae9797bf4804e9f2849c5a7128d9f4f] (1) Paragraph 34 (other commodities: deemed supplies) is amended as follows.
+**5.**[^c-3ae9797bf4804e9f2849c5a7128d9f4f] (1) Paragraph 34 (other commodities: deemed supplies) is amended as follows.
 
 (2) In sub-paragraph (1)(b), for “or 24” substitute “ , 24 or 45A ”.
 
@@ -42,9 +42,9 @@ Section 23
 
 > (4) A supply that is deemed to be made under paragraph 45A is treated as taking place upon the later determination.
 
-**6.**[^key-942c6950706ff9f890d3fc5710d477fd] In paragraph 39(1)(c) (regulations as to time of supply), for “or 24” substitute “ , 24 or 45A ”.
+**6.**[^c-942c6950706ff9f890d3fc5710d477fd] In paragraph 39(1)(c) (regulations as to time of supply), for “or 24” substitute “ , 24 or 45A ”.
 
-**7.**[^key-9161587e328a6f8dbcc248e60b7a4d30] For paragraph 44 substitute—
+**7.**[^c-9161587e328a6f8dbcc248e60b7a4d30] For paragraph 44 substitute—
 
 > **44.** (1) For the purposes of this Schedule, a taxable supply is a reduced-rate supply if—
 >
@@ -59,7 +59,7 @@ Section 23
 >
 > (5) The provision that may be made by virtue of sub-paragraph (4) includes, in particular, provision for a taxable commodity of any description specified in the regulations to be taken as supplied to a facility only if the commodity is delivered to the facility.
 
-**8.**[^key-02517777d34774f8d6af23cab0e36cd6] (1) Paragraph 45 (reduced-rate supplies: variation of notices under paragraph 44) is amended as follows.
+**8.**[^c-02517777d34774f8d6af23cab0e36cd6] (1) Paragraph 45 (reduced-rate supplies: variation of notices under paragraph 44) is amended as follows.
 
 (2) Omit sub-paragraphs (2) to (4).
 
@@ -82,7 +82,7 @@ Section 23
 
 (6) The italic heading before that paragraph accordingly becomes “ *Reduced-rate supplies: variation of certificates under paragraph 44* ”.
 
-**9.**[^key-34480aceaff4e6274931653ae8792eb9] After that paragraph insert—
+**9.**[^c-34480aceaff4e6274931653ae8792eb9] After that paragraph insert—
 
 > **Reduced-rate supplies: deemed supply**
 >
@@ -97,7 +97,7 @@ Section 23
 > - (a) the recipient is deemed to make a taxable supply to itself of the taxable commodity, and
 > - (b) the amount payable by way of levy on that deemed supply is 80 per cent. of the amount that would be payable if the supply were not a reduced-rate supply.
 
-**10.**[^key-0d680c8ac4841c945b4a795898edc846] In paragraph 147 (interpretation), in the definition of “reduced-rate supply”—
+**10.**[^c-0d680c8ac4841c945b4a795898edc846] In paragraph 147 (interpretation), in the definition of “reduced-rate supply”—
 
 - (a) for “44(3)” substitute “ 44(1) ”, and
 - (b) for “44(4)” substitute “ 44(2) ”.
@@ -157,20 +157,20 @@ Section 23
 
 ## Annotations
 
-[^key-7db1bcb7663643ed999136f9bcd0d987]: Commencement: Sch. 2 para. 2 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1)
+[^c-7db1bcb7663643ed999136f9bcd0d987]: Commencement: Sch. 2 para. 2 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1)
 
-[^key-6b0b39c8d4db09fa90977997a9b59781]: Commencement: Sch. 2 para. 3 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1)
+[^c-6b0b39c8d4db09fa90977997a9b59781]: Commencement: Sch. 2 para. 3 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1)
 
-[^key-7819828b8cc541464a99cb9484d6915c]: Commencement: Sch. 2 para. 4 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1)
+[^c-7819828b8cc541464a99cb9484d6915c]: Commencement: Sch. 2 para. 4 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1)
 
-[^key-3ae9797bf4804e9f2849c5a7128d9f4f]: Commencement: Sch. 2 para. 5 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1)
+[^c-3ae9797bf4804e9f2849c5a7128d9f4f]: Commencement: Sch. 2 para. 5 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1)
 
-[^key-942c6950706ff9f890d3fc5710d477fd]: Commencement: Sch. 2 para. 6 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1)
+[^c-942c6950706ff9f890d3fc5710d477fd]: Commencement: Sch. 2 para. 6 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1)
 
-[^key-9161587e328a6f8dbcc248e60b7a4d30]: Commencement: Sch. 2 para. 7 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/4))
+[^c-9161587e328a6f8dbcc248e60b7a4d30]: Commencement: Sch. 2 para. 7 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/4))
 
-[^key-02517777d34774f8d6af23cab0e36cd6]: Commencement: Sch. 2 para. 8 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1)
+[^c-02517777d34774f8d6af23cab0e36cd6]: Commencement: Sch. 2 para. 8 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1)
 
-[^key-34480aceaff4e6274931653ae8792eb9]: Commencement: Sch. 2 para. 9 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/3)[(4)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/4))
+[^c-34480aceaff4e6274931653ae8792eb9]: Commencement: Sch. 2 para. 9 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/3)[(4)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/4))
 
-[^key-0d680c8ac4841c945b4a795898edc846]: Commencement: Sch. 2 para. 10 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/4))
+[^c-0d680c8ac4841c945b4a795898edc846]: Commencement: Sch. 2 para. 10 in force at 1.11.2007 by [S.I. 2007/2902](https://www.legislation.gov.uk/uksi/2007/2902), [art. 2(1)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/2)[(4)](https://www.legislation.gov.uk/uksi/2007/2902/article/2/4))

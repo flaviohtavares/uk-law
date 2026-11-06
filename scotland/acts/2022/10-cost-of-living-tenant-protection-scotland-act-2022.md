@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to make provision in connection with protectin
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 6th October 2022 and received Royal Assent on 27th October 2022
 
-## Part 1 — Residential tenancies: rent cap and evictions[^key-4018c919da3e62f33e93e025d493a7e3]
+## Part 1 — Residential tenancies: rent cap and evictions[^c-4018c919da3e62f33e93e025d493a7e3]
 
 **No longer in force.**
 
@@ -52,11 +52,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 2 — Part 1: supporting provisions
 
-### 3. Information and advice for tenants[^key-00320c1a320c3a75c86e7ed6dc85fe84]
+### 3. Information and advice for tenants[^c-00320c1a320c3a75c86e7ed6dc85fe84]
 
 The Scottish Ministers must take steps to ensure that tenants affected by the provisions of Part 1 receive appropriate information, advice and support for the period during which Part 1 remains in force.
 
-### 4. Advancement of equality and non-discrimination[^key-f1fb4d5558c338f6905f82af81d013cc]
+### 4. Advancement of equality and non-discrimination[^c-f1fb4d5558c338f6905f82af81d013cc]
 
 (1) In exercising a function conferred by virtue of Part 1 (including a function of making subordinate legislation), the Scottish Ministers must have regard—
 
@@ -65,14 +65,14 @@ The Scottish Ministers must take steps to ensure that tenants affected by the pr
 
 (2) In subsection (1)(a), “**communicating in an inclusive way**” means communicating in a way that ensures that individuals who have difficulty communicating (in relation to speech, language or otherwise) can receive information and express themselves in ways that best meet each individual’s needs.
 
-### 5. Subordinate legislation making powers[^key-aba89572c532b9f19f970da4c62f26d3]
+### 5. Subordinate legislation making powers[^c-aba89572c532b9f19f970da4c62f26d3]
 
 Any power to make subordinate legislation conferred by virtue of Part 1 includes power to make—
 
 - (a) incidental, supplementary, consequential, transitional, transitory or saving provision,
 - (b) different provision for different purposes or areas.
 
-### 6. Power to suspend and revive Part 1[^key-8ecb63884166d01998ab1ec2a43d8117]
+### 6. Power to suspend and revive Part 1[^c-8ecb63884166d01998ab1ec2a43d8117]
 
 (1) The Scottish Ministers may by regulations—
 
@@ -96,9 +96,9 @@ Any power to make subordinate legislation conferred by virtue of Part 1 includes
 - (a) which add to, replace or omit any part of the text of an Act are subject to the affirmative procedure,
 - (b) otherwise, are subject to the negative procedure.
 
-### 7. Expiry of Part 1[^key-4a009dcbfbdffa02da6acb1c88be4ed9]
+### 7. Expiry of Part 1[^c-4a009dcbfbdffa02da6acb1c88be4ed9]
 
-(1) Part 1 expires at the end of 31 March 2024[^key-c14b2b2d6322d51349d5307d3d322ddc].
+(1) Part 1 expires at the end of 31 March 2024[^c-c14b2b2d6322d51349d5307d3d322ddc].
 
 (2) Subsection (1) is subject to section 8 (power to bring forward expiry).
 
@@ -130,7 +130,7 @@ in connection with the expiry under subsection (1) of any provision of this Act.
 - (a) which add to, replace or omit any part of the text of an Act are subject to the affirmative procedure,
 - (b) otherwise, are subject to the negative procedure.
 
-### 8. Power to bring forward expiry of Part 1[^key-2412b411fac042204fa64c3ce97d8334]
+### 8. Power to bring forward expiry of Part 1[^c-2412b411fac042204fa64c3ce97d8334]
 
 (1) The Scottish Ministers may by regulations provide that any provision of Part 1—
 
@@ -155,7 +155,7 @@ in connection with the expiry under subsection (1) of any provision of this Act.
 - (a) which add to, replace or omit any part of the text of an Act are subject to the affirmative procedure,
 - (b) otherwise, are subject to the negative procedure.
 
-### 9. Reports by the Scottish Ministers on status of Part 1 provisions[^key-24a5fd5d1444069cf9fb9420aa1bf4a3]
+### 9. Reports by the Scottish Ministers on status of Part 1 provisions[^c-24a5fd5d1444069cf9fb9420aa1bf4a3]
 
 (1) The Scottish Ministers must, in respect of each reporting period—
 
@@ -204,13 +204,13 @@ in connection with the expiry under subsection (1) of any provision of this Act.
 
 ## Part 3 — Residential tenancies: rent adjudication
 
-### 10. Rent adjudication: power to modify[^key-7fb99530c69815f777ea049a44ecfbf4]
+### 10. Rent adjudication: power to modify[^c-7fb99530c69815f777ea049a44ecfbf4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Expiry of section 10[^key-022f138fee2956b8f7cc923056998ba5]
+### 11. Expiry of section 10[^c-022f138fee2956b8f7cc923056998ba5]
 
-(1) Section 10 expires at the end of 31 March 2025[^key-b504a69e22aba802aad6b40e5ad2ac58].
+(1) Section 10 expires at the end of 31 March 2025[^c-b504a69e22aba802aad6b40e5ad2ac58].
 
 (2) The Scottish Ministers may by regulations provide that, instead of expiring at the time it would otherwise expire, section 10 will expire at the end of a period of not more than one year from that time.
 
@@ -225,7 +225,7 @@ in connection with the expiry under subsection (1) of any provision of this Act.
 
 ## Part 4 — General
 
-### 12. Ancillary provision[^key-9062942a47c925b8830b0da0a0fbc667]
+### 12. Ancillary provision[^c-9062942a47c925b8830b0da0a0fbc667]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or any provision made under it.
 
@@ -244,17 +244,17 @@ in connection with the expiry under subsection (1) of any provision of this Act.
 - (a) which add to, replace or omit any part of the text of an Act are subject to the affirmative procedure,
 - (b) otherwise, are subject to the negative procedure.
 
-### 13. Commencement[^key-651a3b9cdefee3f1f48e1f49ed3d05ae]
+### 13. Commencement[^c-651a3b9cdefee3f1f48e1f49ed3d05ae]
 
 (1) This Act comes into force on the day after Royal Assent.
 
 (2) The Scottish Ministers may by regulations make transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.
 
-### 14. Short title[^key-22378f2e2e55bc85c9c2668a2fa3bc2d]
+### 14. Short title[^c-22378f2e2e55bc85c9c2668a2fa3bc2d]
 
 The short title of this Act is the Cost of Living (Tenant Protection) (Scotland) Act 2022.
 
-## Schedule 1 — Rent cap[^key-5a66c1a0cfbd61543efc2d11dec3e7a3]
+## Schedule 1 — Rent cap[^c-5a66c1a0cfbd61543efc2d11dec3e7a3]
 
 **No longer in force.**
 
@@ -276,7 +276,7 @@ The short title of this Act is the Cost of Living (Tenant Protection) (Scotland)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Schedule 2 — Protection against eviction[^key-53723c857f00a4cb5325893c363cbc8a]
+## Schedule 2 — Protection against eviction[^c-53723c857f00a4cb5325893c363cbc8a]
 
 (introduced by section 2)
 
@@ -332,38 +332,38 @@ The short title of this Act is the Cost of Living (Tenant Protection) (Scotland)
 
 ## Annotations
 
-[^key-4018c919da3e62f33e93e025d493a7e3]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/asp/2022/10/part/1) expires (1.4.2024) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 7(1)](https://www.legislation.gov.uk/asp/2022/10/section/7/1) (as amended by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2)) (with savings in [S.S.I. 2024/19](https://www.legislation.gov.uk/ssi/2024/19), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/19/regulation/1/1), [2-4](https://www.legislation.gov.uk/ssi/2024/19/regulation/2))
+[^c-4018c919da3e62f33e93e025d493a7e3]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/asp/2022/10/part/1) expires (1.4.2024) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 7(1)](https://www.legislation.gov.uk/asp/2022/10/section/7/1) (as amended by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2)) (with savings in [S.S.I. 2024/19](https://www.legislation.gov.uk/ssi/2024/19), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/19/regulation/1/1), [2-4](https://www.legislation.gov.uk/ssi/2024/19/regulation/2))
 
-[^key-00320c1a320c3a75c86e7ed6dc85fe84]: Commencement: S. 3 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
+[^c-00320c1a320c3a75c86e7ed6dc85fe84]: Commencement: S. 3 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
 
-[^key-f1fb4d5558c338f6905f82af81d013cc]: Commencement: S. 4 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
+[^c-f1fb4d5558c338f6905f82af81d013cc]: Commencement: S. 4 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
 
-[^key-aba89572c532b9f19f970da4c62f26d3]: Commencement: S. 5 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
+[^c-aba89572c532b9f19f970da4c62f26d3]: Commencement: S. 5 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
 
-[^key-8ecb63884166d01998ab1ec2a43d8117]: Commencement: S. 6 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
+[^c-8ecb63884166d01998ab1ec2a43d8117]: Commencement: S. 6 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
 
-[^key-4a009dcbfbdffa02da6acb1c88be4ed9]: Commencement: S. 7 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
+[^c-4a009dcbfbdffa02da6acb1c88be4ed9]: Commencement: S. 7 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
 
-[^key-c14b2b2d6322d51349d5307d3d322ddc]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/asp/2022/10/section/7/1) substituted (27.9.2023) by [The Cost of Living (Tenant Protection) (Scotland) Act 2022 (Amendment of Expiry Date) Regulations 2023 (S.S.I. 2023/275)](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2)
+[^c-c14b2b2d6322d51349d5307d3d322ddc]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/asp/2022/10/section/7/1) substituted (27.9.2023) by [The Cost of Living (Tenant Protection) (Scotland) Act 2022 (Amendment of Expiry Date) Regulations 2023 (S.S.I. 2023/275)](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2)
 
-[^key-2412b411fac042204fa64c3ce97d8334]: Commencement: S. 8 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
+[^c-2412b411fac042204fa64c3ce97d8334]: Commencement: S. 8 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
 
-[^key-24a5fd5d1444069cf9fb9420aa1bf4a3]: Commencement: S. 9 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
+[^c-24a5fd5d1444069cf9fb9420aa1bf4a3]: Commencement: S. 9 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
 
-[^key-7fb99530c69815f777ea049a44ecfbf4]: Textual amendment: [S. 10](https://www.legislation.gov.uk/asp/2022/10/section/10) expires (1.4.2025) by virtue of [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 11(1)](https://www.legislation.gov.uk/asp/2022/10/section/11/1) (as amended by [S.S.I. 2024/88](https://www.legislation.gov.uk/ssi/2024/88), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/88/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2024/88/regulation/2), [3(10)](https://www.legislation.gov.uk/ssi/2024/88/regulation/3/10)) (with savings in [S.S.I. 2025/29](https://www.legislation.gov.uk/ssi/2025/29), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/29/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2025/29/regulation/2))
+[^c-7fb99530c69815f777ea049a44ecfbf4]: Textual amendment: [S. 10](https://www.legislation.gov.uk/asp/2022/10/section/10) expires (1.4.2025) by virtue of [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 11(1)](https://www.legislation.gov.uk/asp/2022/10/section/11/1) (as amended by [S.S.I. 2024/88](https://www.legislation.gov.uk/ssi/2024/88), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/88/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2024/88/regulation/2), [3(10)](https://www.legislation.gov.uk/ssi/2024/88/regulation/3/10)) (with savings in [S.S.I. 2025/29](https://www.legislation.gov.uk/ssi/2025/29), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/29/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2025/29/regulation/2))
 
-[^key-022f138fee2956b8f7cc923056998ba5]: Commencement: S. 11 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
+[^c-022f138fee2956b8f7cc923056998ba5]: Commencement: S. 11 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
 
-[^key-b504a69e22aba802aad6b40e5ad2ac58]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/asp/2022/10/section/11/1) substituted (31.3.2024) by [The Cost of Living (Tenant Protection) (Scotland) Act 2022 (Expiry of Section 10: Extension) Regulations 2024 (S.S.I. 2024/88)](https://www.legislation.gov.uk/ssi/2024/88), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/88/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2024/88/regulation/3/2)
+[^c-b504a69e22aba802aad6b40e5ad2ac58]: Textual amendment: Words in [s. 11(1)](https://www.legislation.gov.uk/asp/2022/10/section/11/1) substituted (31.3.2024) by [The Cost of Living (Tenant Protection) (Scotland) Act 2022 (Expiry of Section 10: Extension) Regulations 2024 (S.S.I. 2024/88)](https://www.legislation.gov.uk/ssi/2024/88), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/88/regulation/1/1), [3(2)](https://www.legislation.gov.uk/ssi/2024/88/regulation/3/2)
 
-[^key-9062942a47c925b8830b0da0a0fbc667]: Commencement: S. 12 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
+[^c-9062942a47c925b8830b0da0a0fbc667]: Commencement: S. 12 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
 
-[^key-651a3b9cdefee3f1f48e1f49ed3d05ae]: Commencement: S. 13 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
+[^c-651a3b9cdefee3f1f48e1f49ed3d05ae]: Commencement: S. 13 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
 
-[^key-22378f2e2e55bc85c9c2668a2fa3bc2d]: Commencement: S. 14 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
+[^c-22378f2e2e55bc85c9c2668a2fa3bc2d]: Commencement: S. 14 in force at 28.10.2022, see [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1)
 
-[^key-5a66c1a0cfbd61543efc2d11dec3e7a3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/asp/2022/10/schedule/1) expires (1.4.2024) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 7(1)](https://www.legislation.gov.uk/asp/2022/10/section/7/1) (as amended by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2)) (with savings in [S.S.I. 2024/19](https://www.legislation.gov.uk/ssi/2024/19), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/19/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2024/19/regulation/2))
+[^c-5a66c1a0cfbd61543efc2d11dec3e7a3]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/asp/2022/10/schedule/1) expires (1.4.2024) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 7(1)](https://www.legislation.gov.uk/asp/2022/10/section/7/1) (as amended by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2)) (with savings in [S.S.I. 2024/19](https://www.legislation.gov.uk/ssi/2024/19), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/19/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2024/19/regulation/2))
 
-[^key-53723c857f00a4cb5325893c363cbc8a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/asp/2022/10/schedule/2) expires (1.4.2024) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 7(1)](https://www.legislation.gov.uk/asp/2022/10/section/7/1) (as amended by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2)) (with savings in [S.S.I. 2024/19](https://www.legislation.gov.uk/ssi/2024/19), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/19/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2024/19/regulation/3), [4](https://www.legislation.gov.uk/ssi/2024/19/regulation/4))
+[^c-53723c857f00a4cb5325893c363cbc8a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/asp/2022/10/schedule/2) expires (1.4.2024) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 7(1)](https://www.legislation.gov.uk/asp/2022/10/section/7/1) (as amended by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2)) (with savings in [S.S.I. 2024/19](https://www.legislation.gov.uk/ssi/2024/19), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/19/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2024/19/regulation/3), [4](https://www.legislation.gov.uk/ssi/2024/19/regulation/4))
 
 [^M_F_0ceadb8e-45dd-4ce8-d467-6b7e99256500]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/asp/2022/10/schedule/3) expires (1.4.2025) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 11(1)](https://www.legislation.gov.uk/asp/2022/10/section/11/1) (with savings in [S.S.I. 2025/29](https://www.legislation.gov.uk/ssi/2025/29), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/29/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2025/29/regulation/2))

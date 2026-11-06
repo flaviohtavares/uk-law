@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Revocation and suspension of designation of OVSs[^key-2fb6133fd12e15b4d6bad77f316bd0f6]
+## 8. Revocation and suspension of designation of OVSs[^c-2fb6133fd12e15b4d6bad77f316bd0f6]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fb6133fd12e15b4d6bad77f316bd0f6]: Commencement: Reg. 8 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-2fb6133fd12e15b4d6bad77f316bd0f6]: Commencement: Reg. 8 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

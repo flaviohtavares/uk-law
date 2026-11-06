@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Application of pay and conditions orders to education action zones[^key-e771e58a0f11a5ef8f4e81d9f79eee78]
+## 60. Application of pay and conditions orders to education action zones[^c-e771e58a0f11a5ef8f4e81d9f79eee78]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e771e58a0f11a5ef8f4e81d9f79eee78]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2026/21/section/60) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-e771e58a0f11a5ef8f4e81d9f79eee78]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2026/21/section/60) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)

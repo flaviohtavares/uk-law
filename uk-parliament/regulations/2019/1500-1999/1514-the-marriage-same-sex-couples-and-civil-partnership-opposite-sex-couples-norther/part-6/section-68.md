@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Pension Schemes (Northern Ireland) Act 1993[^key-95a01c478dc579cd42d2a3e1614c22de]
+## 68. Pension Schemes (Northern Ireland) Act 1993[^c-95a01c478dc579cd42d2a3e1614c22de]
 
 *Extent: N.I.*
 
@@ -148,7 +148,7 @@ summary: ''
 
 ## Annotations
 
-[^key-95a01c478dc579cd42d2a3e1614c22de]: Commencement: Reg. 68 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-95a01c478dc579cd42d2a3e1614c22de]: Commencement: Reg. 68 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00119]: Footnote: [1993 c.49](https://www.legislation.gov.uk/ukpga/1993/49).
 

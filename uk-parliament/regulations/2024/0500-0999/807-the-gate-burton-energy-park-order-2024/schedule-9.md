@@ -22,7 +22,7 @@ summary: ''
 
 Article ‎20
 
-### 1. Interpretation[^key-bd3d94b17fe4e0ef91df25783f0ccd0c]
+### 1. Interpretation[^c-bd3d94b17fe4e0ef91df25783f0ccd0c]
 
 In this Schedule—
 
@@ -166,4 +166,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-bd3d94b17fe4e0ef91df25783f0ccd0c]: Commencement: Sch. 9 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-bd3d94b17fe4e0ef91df25783f0ccd0c]: Commencement: Sch. 9 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Additional right of appeal from Court of Session[^key-dd2cd60c02701aad39d0004f65c23489]
+## 24A. Additional right of appeal from Court of Session[^c-dd2cd60c02701aad39d0004f65c23489]
 
 *Extent: E+W+N.I.*
 
@@ -32,4 +32,4 @@ by any person who was given an opportunity to make representations in the procee
 
 ## Annotations
 
-[^key-dd2cd60c02701aad39d0004f65c23489]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/ukpga/2007/27/section/24A) - [S. 24B](https://www.legislation.gov.uk/ukpga/2007/27/section/24B) inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/18); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
+[^c-dd2cd60c02701aad39d0004f65c23489]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/ukpga/2007/27/section/24A) - [S. 24B](https://www.legislation.gov.uk/ukpga/2007/27/section/24B) inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/18); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)

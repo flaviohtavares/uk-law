@@ -45,9 +45,9 @@ The Department for Social Development makes the following Order in exercise of t
 This Order may be cited as the Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2015 and shall come into operation—
 
 - (a) for the purposes of this Article and paragraphs (6) and (7) of Article 9 and paragraphs (1) and (2) of that Article in so far as they relate to those paragraphs, on 4th January 2016; and
-- (b) for all other purposes, on 6th April 2016 immediately after the coming into operation of the State Pension Regulations (Northern Ireland) 2015[^key-3f9bce47f010eb2ebb39050b38b8f021] [^f00002].
+- (b) for all other purposes, on 6th April 2016 immediately after the coming into operation of the State Pension Regulations (Northern Ireland) 2015[^c-3f9bce47f010eb2ebb39050b38b8f021] [^f00002].
 
-## 2. Amendment of the Social Security (Credits) Regulations[^key-6bd01654f669976522bd81b2f143bbba]
+## 2. Amendment of the Social Security (Credits) Regulations[^c-6bd01654f669976522bd81b2f143bbba]
 
 In regulation 2(1) (interpretation) of the Social Security (Credits) Regulations (Northern Ireland) 1975[^f00003] for the definition of “benefit” substitute—
 
@@ -62,11 +62,11 @@ In regulation 2(1) (interpretation) of the Social Security (Credits) Regulations
 
 .
 
-## 3. Amendment of the Social Security Benefit (Persons Abroad) Regulations[^key-881a74d033a4585de586cde3edd338ae]
+## 3. Amendment of the Social Security Benefit (Persons Abroad) Regulations[^c-881a74d033a4585de586cde3edd338ae]
 
 In regulation 1(2) (citation, commencement and interpretation) of the Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978[^f00004], in the definition of “shared additional pension” after “section 55A” insert “or 55AA”[^f00005].
 
-## 4. Amendment of the Social Security (Overlapping Benefits) Regulations[^key-b28f0c6a65b3a0e6e012602d8896eef2]
+## 4. Amendment of the Social Security (Overlapping Benefits) Regulations[^c-b28f0c6a65b3a0e6e012602d8896eef2]
 
 (1) The Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00006] are amended in accordance with paragraphs (2) to (4).
 
@@ -108,7 +108,7 @@ In regulation 1(2) (citation, commencement and interpretation) of the Social Sec
 
   .
 
-## 5. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^key-5b2d114ea3cec55ec321be905a003f38]
+## 5. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations[^c-5b2d114ea3cec55ec321be905a003f38]
 
 (1) The Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^f00013] are amended in accordance with paragraphs (2) to (6).
 
@@ -132,18 +132,18 @@ In regulation 1(2) (citation, commencement and interpretation) of the Social Sec
 
 (6) In paragraph 1(a)[^f00018] of Schedule 1 (method of treating former spouse’s or former civil partner’s contributions as those of the beneficiary so as to entitle him to a Category A retirement pension) at the end insert “but where Part 1 of the Pensions Act (Northern Ireland) 2015 applies to the former spouse or former civil partner, A is the number of his qualifying years up to the year ending 5th April 2016 (inclusive)”.
 
-## 6. Amendment of the Social Security (Earnings Factor) Regulations[^key-dc41a719231689dbdeb34fdb237ccecd]
+## 6. Amendment of the Social Security (Earnings Factor) Regulations[^c-dc41a719231689dbdeb34fdb237ccecd]
 
 In Schedule 1 to the Social Security (Earnings Factor) Regulations (Northern Ireland) 1979[^f00019] (rules for the ascertainment of earnings factors)—
 
 - (a) in paragraph 1(2) after “section 13(2) of the Act” insert “or section 2(4) of the Pensions Act (Northern Ireland) 2015”;
 - (b) in paragraph 4 after “section 13(2)(a) of the Act” insert “or section 2(4) of the Pensions Act (Northern Ireland) 2015”.
 
-## 7. Amendment of the Social Security (General Benefit) Regulations[^key-e9c85ee56195b38713e2cee59b1a8371]
+## 7. Amendment of the Social Security (General Benefit) Regulations[^c-e9c85ee56195b38713e2cee59b1a8371]
 
 In regulation 1(2) of the Social Security (General Benefit) Regulations (Northern Ireland) 1984[^f00020] (citation, commencement and interpretation) in the definition of “shared additional pension” after “section 55A” insert “or 55AA”.
 
-## 8. Amendment of the Income Support (General) Regulations[^key-7799a59534ffea8a62e9152cbd14358b]
+## 8. Amendment of the Income Support (General) Regulations[^c-7799a59534ffea8a62e9152cbd14358b]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00021] are amended in accordance with paragraphs (2) and (3).
 
@@ -151,11 +151,11 @@ In regulation 1(2) of the Social Security (General Benefit) Regulations (Norther
 
 (3) In paragraph 12(1)(c)[^f00023] (additional condition for the Higher Pensioner and Disability Premiums) of Schedule 2 (applicable amounts) after “that Act” insert “or a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015;”.
 
-## 9. Amendment of the Social Security (Claims and Payments) Regulations[^key-75af09808f8305b3b872a907b924dd16][^key-b14160a90805d6f717a5c8ac162fb554][^key-471c0709ff43b7b846baed098cb33178][^key-4337afc4896266c53573b7abbe4d384e]
+## 9. Amendment of the Social Security (Claims and Payments) Regulations[^c-75af09808f8305b3b872a907b924dd16][^c-b14160a90805d6f717a5c8ac162fb554][^c-471c0709ff43b7b846baed098cb33178][^c-4337afc4896266c53573b7abbe4d384e]
 
-(1)[^key-75af09808f8305b3b872a907b924dd16][^M_I_a82e70f6-1e9b-44db-ea50-11befda70286] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00024] are amended in accordance with paragraphs (2) to (21).
+(1)[^c-75af09808f8305b3b872a907b924dd16][^M_I_a82e70f6-1e9b-44db-ea50-11befda70286] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00024] are amended in accordance with paragraphs (2) to (21).
 
-(2)[^key-b14160a90805d6f717a5c8ac162fb554][^M_I_a82e70f6-1e9b-44db-ea50-11befda70286] In regulation 2 (interpretation) in paragraph (1)—
+(2)[^c-b14160a90805d6f717a5c8ac162fb554][^M_I_a82e70f6-1e9b-44db-ea50-11befda70286] In regulation 2 (interpretation) in paragraph (1)—
 
 - (a) before the definition of “advance period” insert the following definition—
 
@@ -165,7 +165,7 @@ In regulation 1(2) of the Social Security (General Benefit) Regulations (Norther
 - (b) in the definition of “benefit”[^f00025] after “(2A) of the Order” insert “, state pension under Part 1 of the 2015 Act;”; and
 - (c) in the definition of “shared additional pension”[^f00026], after “section 55A” insert “or 55AA”.
 
-(3)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 3(1)[^f00027] (claims not required for entitlement to benefit in certain cases)—
+(3)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 3(1)[^f00027] (claims not required for entitlement to benefit in certain cases)—
 
 - (a) in sub-paragraph (cb) in each of heads (i), (ii) and (iii) after “Category A retirement pension” insert “or a state pension under section 4 of the 2015 Act”;
 - (b) in sub-paragraph (d)[^f00028] after “retirement pension” insert “or a state pension under Part 1 of the 2015 Act”;
@@ -178,17 +178,17 @@ In regulation 1(2) of the Social Security (General Benefit) Regulations (Norther
 
   .
 
-(4)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 4 (making a claim for benefit)—
+(4)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 4 (making a claim for benefit)—
 
 - (a) in paragraph (6A)(a)(ii)[^f00030] after “retirement pension of any category” insert “, a state pension under Part 1 of the 2015 Act”;
 - (b) in paragraph (6A)(b)[^f00031] after “retirement pension” insert “, a state pension under Part 1 of the 2015 Act”; and
 - (c) in paragraph (11)[^f00032] after “retirement pension,” insert “a state pension under Part 1 of the 2015 Act”.
 
-(5)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 4ZC(2)[^f00033] (electronic claims for benefit) after “retirement pension” insert “, state pension under Part 1 of the 2015 Act”.
+(5)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 4ZC(2)[^f00033] (electronic claims for benefit) after “retirement pension” insert “, state pension under Part 1 of the 2015 Act”.
 
-(6)[^key-471c0709ff43b7b846baed098cb33178] In regulation 13(3)[^f00034] (advance claims and awards) after “retirement pension or an increase of retirement pension” insert “state pension under Part 1 of the 2015 Act,”.
+(6)[^c-471c0709ff43b7b846baed098cb33178] In regulation 13(3)[^f00034] (advance claims and awards) after “retirement pension or an increase of retirement pension” insert “state pension under Part 1 of the 2015 Act,”.
 
-(7)[^key-4337afc4896266c53573b7abbe4d384e] In regulation 15 (advance notice of retirement and claim for and award of pension)—
+(7)[^c-4337afc4896266c53573b7abbe4d384e] In regulation 15 (advance notice of retirement and claim for and award of pension)—
 
 - (a) in paragraph (1)[^f00035] after “in any such pension,” insert “or a state pension under Part 1 of the 2015 Act”; and
 - (b) in paragraph (7)[^f00036]—
@@ -196,7 +196,7 @@ In regulation 1(2) of the Social Security (General Benefit) Regulations (Norther
   - (ii) for “retirement pension” the third time it occurs, substitute “pension”; and
   - (iii) after “the Act” insert “or the 2015 Act”.
 
-(8)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 15B[^f00037] (advance claim for pension following deferment)—
+(8)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 15B[^f00037] (advance claim for pension following deferment)—
 
 - (a) the existing wording is numbered paragraph (1);
 - (b) after paragraph (1) insert—
@@ -205,7 +205,7 @@ In regulation 1(2) of the Social Security (General Benefit) Regulations (Norther
 
   .
 
-(9)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 16 (date of entitlement under an award for the purpose of payability of benefit and effective date of change of rate)—
+(9)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 16 (date of entitlement under an award for the purpose of payability of benefit and effective date of change of rate)—
 
 - (a) after paragraph (1D)[^f00038] insert—
 
@@ -232,7 +232,7 @@ In regulation 1(2) of the Social Security (General Benefit) Regulations (Norther
 - (c) in paragraph (3)(c)(ii)[^f00040] for “or 22C” substitute “, 22C or 22CA”; and
 - (d) in paragraph (4)[^f00041] after “retirement pension payable in arrears under regulation 22C” insert “, state pension under Part 1 of the 2015 Act payable in arrears under regulation 22CA”.
 
-(10)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 21A[^f00042] (delayed payment of lump sum)—
+(10)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 21A[^f00042] (delayed payment of lump sum)—
 
 - (a) in paragraph (1)(a) after head (iii) insert—
 
@@ -247,7 +247,7 @@ In regulation 1(2) of the Social Security (General Benefit) Regulations (Norther
 
   .
 
-(11)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] After regulation 22C[^f00043] (retirement pension), insert—
+(11)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] After regulation 22C[^f00043] (retirement pension), insert—
 
 > **22CA. State pension under Part 1 of the 2015 Act**
 >
@@ -284,7 +284,7 @@ In regulation 1(2) of the Social Security (General Benefit) Regulations (Norther
 >   </tbody>
 >   </table>
 
-(12)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] After regulation 22D (payment of retirement pension at a daily rate), insert—
+(12)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] After regulation 22D (payment of retirement pension at a daily rate), insert—
 
 > **22DA. Payment of state pension under Part 1 of the 2015 Act at a daily rate**
 >
@@ -308,7 +308,7 @@ In regulation 1(2) of the Social Security (General Benefit) Regulations (Norther
 
 .
 
-(13)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 26B(2)[^f00044] (payment of state pension credit) for sub-paragraph (a) substitute—
+(13)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 26B(2)[^f00044] (payment of state pension credit) for sub-paragraph (a) substitute—
 
 > - (a) on the same day as any—
 >   - (i) state pension under Part 1 of the 2015 Act; or
@@ -318,7 +318,7 @@ In regulation 1(2) of the Social Security (General Benefit) Regulations (Norther
 
 .
 
-(14)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 30 (payments on death)—
+(14)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 30 (payments on death)—
 
 - (a) in paragraph (4B)(b)[^f00045] after “retirement pension of any category” insert “, a state pension under Part 1 of the 2015 Act”;
 - (b) in paragraph (5)[^f00046] for “(5G)” substitute “(5H)”;
@@ -336,34 +336,34 @@ In regulation 1(2) of the Social Security (General Benefit) Regulations (Norther
 
   .
 
-(15)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 32ZA(2)[^f00048] (information given electronically) after sub-paragraph (h) insert—
+(15)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 32ZA(2)[^f00048] (information given electronically) after sub-paragraph (h) insert—
 
 > - (i) state pension under Part 1 of the 2015 Act.
 
 .
 
-(16)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 32A(3)[^f00049] (information relating to awards of benefit) after sub-paragraph (l) insert—
+(16)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] In regulation 32A(3)[^f00049] (information relating to awards of benefit) after sub-paragraph (l) insert—
 
 > - (m) state pension under Part 1 of the 2015 Act.
 
 .
 
-(17)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] In Part 1 of Schedule 1[^f00050] (benefit claimed and other benefit which may be treated as if claimed in addition or in the alternative) at the end of the table insert the following entries—
+(17)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] In Part 1 of Schedule 1[^f00050] (benefit claimed and other benefit which may be treated as if claimed in addition or in the alternative) at the end of the table insert the following entries—
 
 > |  |  |
 > | --- | --- |
 > | A state pension under any section of Part 1 of the 2015 Act | A state pension under any other section of Part 1 of the 2015 Act or bereavement benefit |
 > | Bereavement benefit | A state pension under Part 1 of the 2015 Act |
 
-(18)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] In Schedule 4 (prescribed times for claiming benefit) in column (1) (description of benefit) in entry 13[^f00051] after “any category” insert “or state pension under Part 1 of the 2015 Act”.
+(18)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] In Schedule 4 (prescribed times for claiming benefit) in column (1) (description of benefit) in entry 13[^f00051] after “any category” insert “or state pension under Part 1 of the 2015 Act”.
 
-(19)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] In paragraph (b) of the definition of “specified benefit” in paragraph 1(1) of Schedule 8A[^f00052] (deductions from benefits and direct payment to third parties) after “retirement pension” insert “, state pension under Part 1 of the 2015 Act”;
+(19)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] In paragraph (b) of the definition of “specified benefit” in paragraph 1(1) of Schedule 8A[^f00052] (deductions from benefits and direct payment to third parties) after “retirement pension” insert “, state pension under Part 1 of the 2015 Act”;
 
-(20)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] In paragraph (a) of the definition of “relevant benefits” in paragraph 1 of Schedule 8B[^f00053], (deductions of mortgage interest from benefit and payment to qualifying lenders) after “retirement pension” insert “, state pension under Part 1 of the 2015 Act”.
+(20)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] In paragraph (a) of the definition of “relevant benefits” in paragraph 1 of Schedule 8B[^f00053], (deductions of mortgage interest from benefit and payment to qualifying lenders) after “retirement pension” insert “, state pension under Part 1 of the 2015 Act”.
 
-(21)[^key-0582df85aa4daa6c75146a1b0fb0d9ba] In paragraph 2(1) of Schedule 8D[^f00054] (electronic communication) after “retirement pension” insert “, state pension under Part 1 of the 2015 Act”.
+(21)[^c-0582df85aa4daa6c75146a1b0fb0d9ba] In paragraph 2(1) of Schedule 8D[^f00054] (electronic communication) after “retirement pension” insert “, state pension under Part 1 of the 2015 Act”.
 
-## 10. Amendment of the Social Fund (Recovery by Deductions from Benefits) Regulations[^key-0d7b2d3caf91dbf4ea786086bfb8b9b7]
+## 10. Amendment of the Social Fund (Recovery by Deductions from Benefits) Regulations[^c-0d7b2d3caf91dbf4ea786086bfb8b9b7]
 
 In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regulations (Northern Ireland) 1988[^f00055] (benefits from which an award may be recovered) after sub-paragraph (j) insert—
 
@@ -371,7 +371,7 @@ In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regula
 
 .
 
-## 11. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^key-b13267f960f2f1f98c29ff157f5bae43]
+## 11. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations[^c-b13267f960f2f1f98c29ff157f5bae43]
 
 (1) The Social Security (Payments on account, Overpayments and Recovery) Regulations (Northern Ireland) 1988[^f00056] are amended in accordance with paragraphs (2) to (5).
 
@@ -399,7 +399,7 @@ In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regula
 
 .
 
-## 12. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^key-b62fe3dfbaf21d152fc59165d18bec07]
+## 12. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations[^c-b62fe3dfbaf21d152fc59165d18bec07]
 
 (1) The Child Support (Maintenance Assessments and Special Cases) Regulations (Northern Ireland) 1992[^f00059] are amended in accordance with paragraphs (2) and (3).
 
@@ -407,7 +407,7 @@ In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regula
 
 (3) In paragraph 6(2)[^f00061] of Schedule 1 (calculation of N and M) for “or the Welfare Reform Act” substitute “, the Welfare Reform Act or Part 1 of the Pensions Act (Northern Ireland) 2015”.
 
-## 13. Amendment of the Jobseeker’s Allowance Regulations[^key-ab06500b2d6043aed8a6699870e49f52]
+## 13. Amendment of the Jobseeker’s Allowance Regulations[^c-ab06500b2d6043aed8a6699870e49f52]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00062] are amended in accordance with paragraphs (2) and (3).
 
@@ -422,7 +422,7 @@ In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regula
 
 .
 
-## 14. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-5b5e151e390776db955bb9761e6f0504]
+## 14. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-5b5e151e390776db955bb9761e6f0504]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00065] are amended in accordance with paragraphs (2) to (7).
 
@@ -500,7 +500,7 @@ In regulation 2 of the Social Fund (Recovery by Deductions from Benefits) Regula
 
 .
 
-## 15. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001[^key-064ceec74b1b82acd0b2dd8ee46d130c]
+## 15. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001[^c-064ceec74b1b82acd0b2dd8ee46d130c]
 
 In regulation 4(1) (flat rate) of the Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001[^f00072]—
 
@@ -511,7 +511,7 @@ In regulation 4(1) (flat rate) of the Child Support (Maintenance Calculations an
   >
   > - (i) a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015.
 
-## 16. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^key-8371689b02e6631a7bfc95a876cf4a7d]
+## 16. Amendment of the Housing Benefit (Decisions and Appeals) Regulations[^c-8371689b02e6631a7bfc95a876cf4a7d]
 
 (1) The Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001[^f00073] are amended in accordance with paragraphs (2) to (4).
 
@@ -548,14 +548,14 @@ In regulation 4(1) (flat rate) of the Child Support (Maintenance Calculations an
 
 (4) In regulation 8 (date from which a decision superseding an earlier decision takes effect), in paragraph (10A)[^f00076] after “(2)(i),” insert “ (ia) or (ib),”.
 
-## 17. Amendment of the Social Security (Inherited SERPS) Regulations[^key-16bf7886b9360cd99e8f298958482d0f]
+## 17. Amendment of the Social Security (Inherited SERPS) Regulations[^c-16bf7886b9360cd99e8f298958482d0f]
 
 In regulation 2(3) (modification of Part II of the Contributions and Benefits Act) of the Social Security (Inherited SERPS) Regulations (Northern Ireland) 2001[^f00077]—
 
 - (a) omit sub-paragraph (b);
 - (b) in sub-paragraph(e)[^f00078] for the words in parentheses, substitute “Category B retirement pension for widows, widowers and surviving civil partners who attained pensionable age before 6th April 2010”.
 
-## 18. Amendment of the Social Security (Notification of Change of Circumstances) Regulations[^key-15d57834d5097c444b97c260a6313c04]
+## 18. Amendment of the Social Security (Notification of Change of Circumstances) Regulations[^c-15d57834d5097c444b97c260a6313c04]
 
 After regulation 5(1B)(f) (change affecting other benefit, payment or advantage) of the Social Security (Notification of Change of Circumstances) Regulations (Northern Ireland) 2001[^f00079] insert—
 
@@ -563,7 +563,7 @@ After regulation 5(1B)(f) (change affecting other benefit, payment or advantage)
 
 .
 
-## 19. Amendment of the State Pension Credit Regulations[^key-3f7acaff9ce611cf91c9f12ebdc07dee]
+## 19. Amendment of the State Pension Credit Regulations[^c-3f7acaff9ce611cf91c9f12ebdc07dee]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00080] are amended in accordance with paragraphs (2) and (3).
 
@@ -596,7 +596,7 @@ After regulation 5(1B)(f) (change affecting other benefit, payment or advantage)
 
 .
 
-## 20. Amendment of the Housing Renewal Grants (Reduction of Grant) Regulations[^key-0400fe49fb7d9e3ee05e371dbd677480]
+## 20. Amendment of the Housing Renewal Grants (Reduction of Grant) Regulations[^c-0400fe49fb7d9e3ee05e371dbd677480]
 
 (1) The Housing Renewal Grants (Reduction of Grant) Regulations (Northern Ireland) 2004[^f00084] are amended in accordance with paragraphs (2) and (3).
 
@@ -612,11 +612,11 @@ After regulation 5(1B)(f) (change affecting other benefit, payment or advantage)
 
 .
 
-## 21. Amendment of the Social Security (Deferral of Retirement Pensions) Regulations[^key-f81b2d6b426190ef6d852592c0da16a4]
+## 21. Amendment of the Social Security (Deferral of Retirement Pensions) Regulations[^c-f81b2d6b426190ef6d852592c0da16a4]
 
 In regulation 1(2) (citation, commencement and interpretation) of the Social Security (Deferral of Retirement Pensions) Regulations (Northern Ireland) 2005[^f00085] in the definition of “shared additional pension”[^f00086] after “section 55A” insert “or 55AA”.
 
-## 22. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations[^key-50d206b7f8299113b9b49bda538038f9]
+## 22. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations[^c-50d206b7f8299113b9b49bda538038f9]
 
 In regulation 10(1A) of the Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005[^f00087] (deductions from an award of a funeral payment) after sub-paragraph (t) insert—
 
@@ -624,7 +624,7 @@ In regulation 10(1A) of the Social Fund Maternity and Funeral Expenses (General)
 
 .
 
-## 23. Amendment of the Housing Benefit Regulations[^key-ca1b5cae3efdd86f54a8285e880fa269]
+## 23. Amendment of the Housing Benefit Regulations[^c-ca1b5cae3efdd86f54a8285e880fa269]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00088] are amended in accordance with paragraphs (2) to (5).
 
@@ -644,7 +644,7 @@ In regulation 10(1A) of the Social Fund Maternity and Funeral Expenses (General)
 
 .
 
-## 24. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-b94f1ee43061e72a0ad57ea58d10a837]
+## 24. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-b94f1ee43061e72a0ad57ea58d10a837]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00092] are amended in accordance with paragraphs (2) to (5).
 
@@ -692,7 +692,7 @@ In regulation 10(1A) of the Social Fund Maternity and Funeral Expenses (General)
 
 .
 
-## 25. Amendment of the Employment and Support Allowance Regulations[^key-04aea2cdf64bb541fcc4d489677dbf23]
+## 25. Amendment of the Employment and Support Allowance Regulations[^c-04aea2cdf64bb541fcc4d489677dbf23]
 
 (1) The Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00095] are amended in accordance with paragraphs (2) and (3).
 
@@ -707,7 +707,7 @@ In regulation 10(1A) of the Social Fund Maternity and Funeral Expenses (General)
 
 .
 
-## 26. Amendment of the Social Security (Maximum Additional Pension) Regulations[^key-88baf10bd471eb073a68a4d79d3b2aee]
+## 26. Amendment of the Social Security (Maximum Additional Pension) Regulations[^c-88baf10bd471eb073a68a4d79d3b2aee]
 
 (1) The Social Security (Maximum Additional Pension) Regulations (Northern Ireland) 2010[^f00096] are amended in accordance with paragraphs (2) to (4).
 
@@ -741,7 +741,7 @@ In regulation 10(1A) of the Social Fund Maternity and Funeral Expenses (General)
 
 .
 
-## 27. Amendment of the Child Support Maintenance Calculation Regulations[^key-c2df9b8557533dc9ce9855f076d54e8e]
+## 27. Amendment of the Child Support Maintenance Calculation Regulations[^c-c2df9b8557533dc9ce9855f076d54e8e]
 
 In regulation 43(1) (flat rate) of the Child Support Maintenance Calculation Regulations (Northern Ireland) 2012[^f00097]—
 
@@ -754,7 +754,7 @@ In regulation 43(1) (flat rate) of the Child Support Maintenance Calculation Reg
 
   .
 
-## 28. Amendment of the State Pension Regulations[^key-ddedd15454f2d8c7904f48e35b73efc1]
+## 28. Amendment of the State Pension Regulations[^c-ddedd15454f2d8c7904f48e35b73efc1]
 
 In regulation 6(2)(h) of the State Pension Regulations (Northern Ireland) 2015[^f00098] (changing a choice of lump sum or survivor’s pension), after “regulation 30(5G)” insert “or (5H)”.
 
@@ -796,21 +796,21 @@ Article 26 amends the Social Security (Maximum Additional Pension) Regulations (
 
 [^M_I_89f1c199-f91b-49a0-b6c0-16d69933808e]: Commencement: Art. 1 in operation at 4.1.2016, see [art. 1(a)](https://www.legislation.gov.uk/nisr/2015/411/article/1/a)
 
-[^key-3f9bce47f010eb2ebb39050b38b8f021]: Textual amendment: Word in [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b) substituted (29.2.2016) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2016 (S.R. 2016/25)](https://www.legislation.gov.uk/nisr/2016/25), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/25/article/1/a), [5](https://www.legislation.gov.uk/nisr/2016/25/article/5)
+[^c-3f9bce47f010eb2ebb39050b38b8f021]: Textual amendment: Word in [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b) substituted (29.2.2016) by [The Pensions (2015 Act) (Consequential, Supplementary and Incidental Amendments) Order (Northern Ireland) 2016 (S.R. 2016/25)](https://www.legislation.gov.uk/nisr/2016/25), [arts. 1(a)](https://www.legislation.gov.uk/nisr/2016/25/article/1/a), [5](https://www.legislation.gov.uk/nisr/2016/25/article/5)
 
 [^f00002]: Footnote: [S.R. 2015 No. 315](https://www.legislation.gov.uk/nisr/2015/315)
 
-[^key-6bd01654f669976522bd81b2f143bbba]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2015/411/article/2) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-6bd01654f669976522bd81b2f143bbba]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2015/411/article/2) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00003]: Footnote: [S.R. 1975 No. 113](https://www.legislation.gov.uk/nisr/1975/113); the definition of “benefit” was inserted by regulation 2(2)(b) of [S.R. 1996 No. 430](https://www.legislation.gov.uk/nisr/1996/430) and amended by regulation 7(2)(b) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-881a74d033a4585de586cde3edd338ae]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2015/411/article/3) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-881a74d033a4585de586cde3edd338ae]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2015/411/article/3) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00004]: Footnote: [S.R. 1978 No. 114](https://www.legislation.gov.uk/nisr/1978/114); the definition of “shared additional pension” was inserted by regulation 3(2) of [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299)
 
 [^f00005]: Footnote: Section 55AA is inserted into the Social Security Contributions and Benefits (Northern Ireland) Act [1992 (c. 7)](https://www.legislation.gov.uk/ukpga/1992/7) by paragraph 5 of Schedule 11 to the Pensions Act (Northern Ireland) 2015
 
-[^key-b28f0c6a65b3a0e6e012602d8896eef2]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2015/411/article/4) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-b28f0c6a65b3a0e6e012602d8896eef2]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2015/411/article/4) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00006]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); relevant amending instruments are [S.I. 1986 No. 1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888); [S.R. 1992 No. 557](https://www.legislation.gov.uk/nisr/1992/557); [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289); [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108); [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299); [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286) and [S.I. 2013/3021](https://www.legislation.gov.uk/uksi/2013/3021)
 
@@ -826,7 +826,7 @@ Article 26 amends the Social Security (Maximum Additional Pension) Regulations (
 
 [^f00012]: Footnote: Column 1 of Schedule 1 was amended by Article 13(5)(a) of [S.I. 2013/3021](https://www.legislation.gov.uk/uksi/2013/3021); paragraph 4 of column 1 has amendments not relevant to these Regulations
 
-[^key-5b2d114ea3cec55ec321be905a003f38]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2015/411/article/5) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-5b2d114ea3cec55ec321be905a003f38]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2015/411/article/5) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00013]: Footnote: [S.R. 1979 No. 243](https://www.legislation.gov.uk/nisr/1979/243); relevant amending Rules are [S.R. 1987 No. 404](https://www.legislation.gov.uk/nisr/1987/404); [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373); S.R. 2005 Nos. [299](https://www.legislation.gov.uk/nisr/2005/299) and [536](https://www.legislation.gov.uk/nisr/2005/536) and [S.R. 2010 No. 56](https://www.legislation.gov.uk/nisr/2010/56)
 
@@ -840,15 +840,15 @@ Article 26 amends the Social Security (Maximum Additional Pension) Regulations (
 
 [^f00018]: Footnote: Sub-paragraph (a) was amended by paragraph 10(5)(b) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536)
 
-[^key-dc41a719231689dbdeb34fdb237ccecd]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2015/411/article/6) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-dc41a719231689dbdeb34fdb237ccecd]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2015/411/article/6) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00019]: Footnote: [S.R. 1979 No. 193](https://www.legislation.gov.uk/nisr/1979/193); relevant amending provision is the Schedule to [S.R. 1991 No. 202](https://www.legislation.gov.uk/nisr/1991/202)
 
-[^key-e9c85ee56195b38713e2cee59b1a8371]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2015/411/article/7) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-e9c85ee56195b38713e2cee59b1a8371]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2015/411/article/7) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00020]: Footnote: [S.R. 1984 No. 92](https://www.legislation.gov.uk/nisr/1984/92); the definition of “shared additional pension” was inserted by regulation 6(2) of [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299)
 
-[^key-7799a59534ffea8a62e9152cbd14358b]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2015/411/article/8) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-7799a59534ffea8a62e9152cbd14358b]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2015/411/article/8) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00021]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Rules are [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and [S.R 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
@@ -856,13 +856,13 @@ Article 26 amends the Social Security (Maximum Additional Pension) Regulations (
 
 [^f00023]: Footnote: Paragraph 12(1)(c) of Schedule 2 was substituted by regulation 24(5)(e) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
 
-[^key-75af09808f8305b3b872a907b924dd16]: Commencement: Art. 9(1) in operation at 4.1.2016 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/nisr/2015/411/article/1/a)
+[^c-75af09808f8305b3b872a907b924dd16]: Commencement: Art. 9(1) in operation at 4.1.2016 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/nisr/2015/411/article/1/a)
 
-[^key-b14160a90805d6f717a5c8ac162fb554]: Commencement: Art. 9(2) in operation at 4.1.2016 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/nisr/2015/411/article/1/a)
+[^c-b14160a90805d6f717a5c8ac162fb554]: Commencement: Art. 9(2) in operation at 4.1.2016 for specified purposes, see [art. 1(a)](https://www.legislation.gov.uk/nisr/2015/411/article/1/a)
 
-[^key-471c0709ff43b7b846baed098cb33178]: Commencement: Art. 9(6) in operation at 4.1.2016, see [art. 1(a)](https://www.legislation.gov.uk/nisr/2015/411/article/1/a)
+[^c-471c0709ff43b7b846baed098cb33178]: Commencement: Art. 9(6) in operation at 4.1.2016, see [art. 1(a)](https://www.legislation.gov.uk/nisr/2015/411/article/1/a)
 
-[^key-4337afc4896266c53573b7abbe4d384e]: Commencement: Art. 9(7) in operation at 4.1.2016, see [art. 1(a)](https://www.legislation.gov.uk/nisr/2015/411/article/1/a)
+[^c-4337afc4896266c53573b7abbe4d384e]: Commencement: Art. 9(7) in operation at 4.1.2016, see [art. 1(a)](https://www.legislation.gov.uk/nisr/2015/411/article/1/a)
 
 [^M_I_a82e70f6-1e9b-44db-ea50-11befda70286]: Commencement: Art. 9(1)(2) in operation at 6.4.2016 in so far as not already in operation, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
@@ -872,7 +872,7 @@ Article 26 amends the Social Security (Maximum Additional Pension) Regulations (
 
 [^f00026]: Footnote: The definition of “shared additional pension” was inserted by regulation 2(2)(c) of S. R. [2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299)
 
-[^key-0582df85aa4daa6c75146a1b0fb0d9ba]: Commencement: [Art. 9(3)-(5)(8)-(21)](https://www.legislation.gov.uk/nisr/2015/411/article/9) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-0582df85aa4daa6c75146a1b0fb0d9ba]: Commencement: [Art. 9(3)-(5)(8)-(21)](https://www.legislation.gov.uk/nisr/2015/411/article/9) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00027]: Footnote: Regulation 3(1) was renumbered by regulation 4 of [S.R. 2015 No. 185](https://www.legislation.gov.uk/nisr/2015/185); sub-paragraph (cb) was substituted by regulation 2(2) of [S.R. 2008 No. 69](https://www.legislation.gov.uk/nisr/2008/69) and amended by regulation 2(3) of [S.R. 2009 No. 240](https://www.legislation.gov.uk/nisr/2009/240)
 
@@ -930,11 +930,11 @@ Article 26 amends the Social Security (Maximum Additional Pension) Regulations (
 
 [^f00054]: Footnote: Schedule 8D was inserted by Article 2(4) of [S.R. 2006 No. 203](https://www.legislation.gov.uk/nisr/2006/203) and paragraph 2(1) was amended by Article 2(4) of [S.R. 2011 No. 298](https://www.legislation.gov.uk/nisr/2011/298) and Article 2(3) of [S.R. 2011 No. 431](https://www.legislation.gov.uk/nisr/2011/431)
 
-[^key-0d7b2d3caf91dbf4ea786086bfb8b9b7]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2015/411/article/10) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-0d7b2d3caf91dbf4ea786086bfb8b9b7]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2015/411/article/10) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00055]: Footnote: [S.R. 1988 No. 21](https://www.legislation.gov.uk/nisr/1988/21)
 
-[^key-b13267f960f2f1f98c29ff157f5bae43]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2015/411/article/11) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-b13267f960f2f1f98c29ff157f5bae43]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2015/411/article/11) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00056]: Footnote: [S.R.1988 No. 142](https://www.legislation.gov.uk/nisr/1988/142); relevant amending Regulations are [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299)
 
@@ -942,7 +942,7 @@ Article 26 amends the Social Security (Maximum Additional Pension) Regulations (
 
 [^f00058]: Footnote: Paragraph (6) was inserted by [S.R. 2006 No. 113](https://www.legislation.gov.uk/nisr/2006/113)
 
-[^key-b62fe3dfbaf21d152fc59165d18bec07]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2015/411/article/12) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-b62fe3dfbaf21d152fc59165d18bec07]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2015/411/article/12) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00059]: Footnote: [S.R. 1992 No. 341](https://www.legislation.gov.uk/nisr/1992/341) is revoked by [S.R. 2012 No. 438](https://www.legislation.gov.uk/nisr/2012/438) but the revocation is not yet fully in operation
 
@@ -950,7 +950,7 @@ Article 26 amends the Social Security (Maximum Additional Pension) Regulations (
 
 [^f00061]: Footnote: Paragraph 6(2) of Schedule 1 was amended by regulation 21(7)(b) of [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289) and regulation 18(5) of [2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-ab06500b2d6043aed8a6699870e49f52]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2015/411/article/13) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-ab06500b2d6043aed8a6699870e49f52]: Commencement: [Art. 13](https://www.legislation.gov.uk/nisr/2015/411/article/13) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00062]: Footnote: [S.R. 1996 No.198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396) and [S.R. 2008 No. 498](https://www.legislation.gov.uk/nisr/2008/498)
 
@@ -958,7 +958,7 @@ Article 26 amends the Social Security (Maximum Additional Pension) Regulations (
 
 [^f00064]: Footnote: Paragraph 1 of Schedule 5 was substituted, and paragraph 1A was inserted by, regulation 7(13) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396)
 
-[^key-5b5e151e390776db955bb9761e6f0504]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2015/411/article/14) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-5b5e151e390776db955bb9761e6f0504]: Commencement: [Art. 14](https://www.legislation.gov.uk/nisr/2015/411/article/14) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00065]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending Regulations are [S.R.2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191), [S.R. 2006 No. 104](https://www.legislation.gov.uk/nisr/2006/104) and [S.R. 2012 No. 140](https://www.legislation.gov.uk/nisr/2012/140)
 
@@ -974,11 +974,11 @@ Article 26 amends the Social Security (Maximum Additional Pension) Regulations (
 
 [^f00071]: Footnote: Regulation 13A was inserted by regulation 9(6) of [S.R. 2006 No. 104](https://www.legislation.gov.uk/nisr/2006/104)
 
-[^key-064ceec74b1b82acd0b2dd8ee46d130c]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2015/411/article/15) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-064ceec74b1b82acd0b2dd8ee46d130c]: Commencement: [Art. 15](https://www.legislation.gov.uk/nisr/2015/411/article/15) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00072]: Footnote: [S.R. 2001 No. 18](https://www.legislation.gov.uk/nisr/2001/18); revoked with savings by [S.R. 2012 No. 438](https://www.legislation.gov.uk/nisr/2012/438); sub-paragraph (h) was added by regulation 26(3)(a)(ii) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286)
 
-[^key-8371689b02e6631a7bfc95a876cf4a7d]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2015/411/article/16) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-8371689b02e6631a7bfc95a876cf4a7d]: Commencement: [Art. 16](https://www.legislation.gov.uk/nisr/2015/411/article/16) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00073]: Footnote: [S.R. 2001 No. 213](https://www.legislation.gov.uk/nisr/2001/213); relevant amending Regulations are [S.R. 2006 No. 104](https://www.legislation.gov.uk/nisr/2006/104)
 
@@ -988,17 +988,17 @@ Article 26 amends the Social Security (Maximum Additional Pension) Regulations (
 
 [^f00076]: Footnote: Paragraph (10A) was inserted by regulation 10(4) of [S.R. 2006 No. 104](https://www.legislation.gov.uk/nisr/2006/104)
 
-[^key-16bf7886b9360cd99e8f298958482d0f]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/2015/411/article/17) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-16bf7886b9360cd99e8f298958482d0f]: Commencement: [Art. 17](https://www.legislation.gov.uk/nisr/2015/411/article/17) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00077]: Footnote: [S.R. 2001 No. 441](https://www.legislation.gov.uk/nisr/2001/441)
 
 [^f00078]: Footnote: Paragraph 56 of Schedule 12 to the Pensions Act (Northern Ireland) [2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5) substituted section 51 of the Social Security Contributions and Benefits (Northern Ireland) Act [1992 (c. 7)](https://www.legislation.gov.uk/ukpga/1992/7)
 
-[^key-15d57834d5097c444b97c260a6313c04]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/2015/411/article/18) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-15d57834d5097c444b97c260a6313c04]: Commencement: [Art. 18](https://www.legislation.gov.uk/nisr/2015/411/article/18) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00079]: Footnote: [S.R. 2001 No. 420](https://www.legislation.gov.uk/nisr/2001/420); regulation 5(1B) was inserted by Article 6(3)(b) of [S.R. 2011 No. 298](https://www.legislation.gov.uk/nisr/2011/298); sub-paragraph (f) was added by Article 3(b) of [S.R. 2011 No. 431](https://www.legislation.gov.uk/nisr/2011/431)
 
-[^key-3f7acaff9ce611cf91c9f12ebdc07dee]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/2015/411/article/19) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-3f7acaff9ce611cf91c9f12ebdc07dee]: Commencement: [Art. 19](https://www.legislation.gov.uk/nisr/2015/411/article/19) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00080]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); relevant amending Regulations are S.R. 2006 Nos. [104](https://www.legislation.gov.uk/nisr/2006/104) and [359](https://www.legislation.gov.uk/nisr/2006/359)
 
@@ -1008,21 +1008,21 @@ Article 26 amends the Social Security (Maximum Additional Pension) Regulations (
 
 [^f00083]: Footnote: Paragraph 23ZA of Schedule 5 was inserted by regulation 12(4) of [S.R. 2006 No. 104](https://www.legislation.gov.uk/nisr/2006/104)
 
-[^key-0400fe49fb7d9e3ee05e371dbd677480]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/2015/411/article/20) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-0400fe49fb7d9e3ee05e371dbd677480]: Commencement: [Art. 20](https://www.legislation.gov.uk/nisr/2015/411/article/20) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00084]: Footnote: [S.R. 2004 No. 8](https://www.legislation.gov.uk/nisr/2004/8)
 
-[^key-f81b2d6b426190ef6d852592c0da16a4]: Commencement: [Art. 21](https://www.legislation.gov.uk/nisr/2015/411/article/21) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-f81b2d6b426190ef6d852592c0da16a4]: Commencement: [Art. 21](https://www.legislation.gov.uk/nisr/2015/411/article/21) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00085]: Footnote: [S.R. 2005 No. 120](https://www.legislation.gov.uk/nisr/2005/120); relevant amending Regulations are [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299)
 
 [^f00086]: Footnote: The definition of “shared additional pension” was inserted by regulation 8(2) of [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299)
 
-[^key-50d206b7f8299113b9b49bda538038f9]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2015/411/article/22) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-50d206b7f8299113b9b49bda538038f9]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2015/411/article/22) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00087]: Footnote: [S.R. 2005 No. 506](https://www.legislation.gov.uk/nisr/2005/506); regulation 10(1A) was inserted by regulation 2(3)(b) of [S.R. 2013 No. 58](https://www.legislation.gov.uk/nisr/2013/58)
 
-[^key-ca1b5cae3efdd86f54a8285e880fa269]: Commencement: [Art. 23](https://www.legislation.gov.uk/nisr/2015/411/article/23) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-ca1b5cae3efdd86f54a8285e880fa269]: Commencement: [Art. 23](https://www.legislation.gov.uk/nisr/2015/411/article/23) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00088]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405); relevant amending instruments are [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396); S.R 2008 Nos. [179](https://www.legislation.gov.uk/nisr/2008/179) and [378](https://www.legislation.gov.uk/nisr/2008/378) and [S.I. 2013/3021](https://www.legislation.gov.uk/uksi/2013/3021)
 
@@ -1032,7 +1032,7 @@ Article 26 amends the Social Security (Maximum Additional Pension) Regulations (
 
 [^f00091]: Footnote: Paragraph 1(a) of Schedule 5 was amended by regulation 9(11)(a)(i) of [S.R. 2007 No. 396](https://www.legislation.gov.uk/nisr/2007/396).
 
-[^key-b94f1ee43061e72a0ad57ea58d10a837]: Commencement: [Art. 24](https://www.legislation.gov.uk/nisr/2015/411/article/24) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-b94f1ee43061e72a0ad57ea58d10a837]: Commencement: [Art. 24](https://www.legislation.gov.uk/nisr/2015/411/article/24) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00092]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406); relevant amending instruments are [S.R 2008 No. 378](https://www.legislation.gov.uk/nisr/2008/378); [S.R. 2009 No. 338](https://www.legislation.gov.uk/nisr/2009/338) and [S.I. 2013/3021](https://www.legislation.gov.uk/uksi/2013/3021)
 
@@ -1040,18 +1040,18 @@ Article 26 amends the Social Security (Maximum Additional Pension) Regulations (
 
 [^f00094]: Footnote: Regulation 39(8) was amended by regulation 7(4)(a) of [S.R. 2009 No. 338](https://www.legislation.gov.uk/nisr/2009/338).
 
-[^key-04aea2cdf64bb541fcc4d489677dbf23]: Commencement: [Art. 25](https://www.legislation.gov.uk/nisr/2015/411/article/25) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-04aea2cdf64bb541fcc4d489677dbf23]: Commencement: [Art. 25](https://www.legislation.gov.uk/nisr/2015/411/article/25) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00095]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280)
 
-[^key-88baf10bd471eb073a68a4d79d3b2aee]: Commencement: [Art. 26](https://www.legislation.gov.uk/nisr/2015/411/article/26) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-88baf10bd471eb073a68a4d79d3b2aee]: Commencement: [Art. 26](https://www.legislation.gov.uk/nisr/2015/411/article/26) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00096]: Footnote: [S.R. 2010 No. 62](https://www.legislation.gov.uk/nisr/2010/62)
 
-[^key-c2df9b8557533dc9ce9855f076d54e8e]: Commencement: [Art. 27](https://www.legislation.gov.uk/nisr/2015/411/article/27) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-c2df9b8557533dc9ce9855f076d54e8e]: Commencement: [Art. 27](https://www.legislation.gov.uk/nisr/2015/411/article/27) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00097]: Footnote: [S.R. 2012 No. 427](https://www.legislation.gov.uk/nisr/2012/427)
 
-[^key-ddedd15454f2d8c7904f48e35b73efc1]: Commencement: [Art. 28](https://www.legislation.gov.uk/nisr/2015/411/article/28) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
+[^c-ddedd15454f2d8c7904f48e35b73efc1]: Commencement: [Art. 28](https://www.legislation.gov.uk/nisr/2015/411/article/28) in operation at 6.4.2016, see [art. 1(b)](https://www.legislation.gov.uk/nisr/2015/411/article/1/b)
 
 [^f00098]: Footnote: [S.R. 2015 No. 315](https://www.legislation.gov.uk/nisr/2015/315)

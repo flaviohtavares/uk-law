@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 518. Meaning of “the reference banks”[^key-eb2f6d52d1d1ceecda0501bddc22a16c]
+## 518. Meaning of “the reference banks”[^c-eb2f6d52d1d1ceecda0501bddc22a16c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb2f6d52d1d1ceecda0501bddc22a16c]: Textual amendment: [Art. 518](https://www.legislation.gov.uk/uksi/2001/3649/article/518) revoked (1.10.2004) by [The Local Authorities (Capital Finance) (Further Consequential and Saving Provisions) Order 2004 (S.I. 2004/2044)](https://www.legislation.gov.uk/uksi/2004/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2044/article/1), [4(1)(c)](https://www.legislation.gov.uk/uksi/2004/2044/article/4/1/c)
+[^c-eb2f6d52d1d1ceecda0501bddc22a16c]: Textual amendment: [Art. 518](https://www.legislation.gov.uk/uksi/2001/3649/article/518) revoked (1.10.2004) by [The Local Authorities (Capital Finance) (Further Consequential and Saving Provisions) Order 2004 (S.I. 2004/2044)](https://www.legislation.gov.uk/uksi/2004/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2004/2044/article/1), [4(1)(c)](https://www.legislation.gov.uk/uksi/2004/2044/article/4/1/c)

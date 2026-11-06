@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Payments to friendly societies, etc.[^key-e342822dcb7fc50276ad9485e67eb034]
+## 51. Payments to friendly societies, etc.[^c-e342822dcb7fc50276ad9485e67eb034]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e342822dcb7fc50276ad9485e67eb034]: Commencement: Reg. 51 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-e342822dcb7fc50276ad9485e67eb034]: Commencement: Reg. 51 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

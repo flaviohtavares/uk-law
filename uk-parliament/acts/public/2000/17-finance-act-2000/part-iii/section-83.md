@@ -25,7 +25,7 @@ summary: ''
 - (a) for the words “the qualifying maximum for the year of assessment", in the first place where they occur, there shall be substituted the words “ the sum of £30,000 ”; and
 - (b) for those words, in the second place where they occur, there shall be substituted the words “ that sum ”.
 
-(2)[^key-bae6948ac66fe09bab53d7b057a85f3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bae6948ac66fe09bab53d7b057a85f3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 369(1A) of that Act (deductible percentage where interest payable under deduction of tax), for the words from “the percentage" to the end there shall be substituted “ 23 per cent. ”.
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bae6948ac66fe09bab53d7b057a85f3f]: Textual amendment: [S. 83(2)](https://www.legislation.gov.uk/ukpga/2000/17/section/83/2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-bae6948ac66fe09bab53d7b057a85f3f]: Textual amendment: [S. 83(2)](https://www.legislation.gov.uk/ukpga/2000/17/section/83/2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

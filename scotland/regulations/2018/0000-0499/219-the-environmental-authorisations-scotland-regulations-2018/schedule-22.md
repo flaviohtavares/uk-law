@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 22 — INCINERATION AND CO-INCINERATION OF WASTE AT A WASTE INCINERATION PLANT OR WASTE CO-INCINERATION PLANT[^key-339806eb6db98db2f3222539b68db759]
+## SCHEDULE 22 — INCINERATION AND CO-INCINERATION OF WASTE AT A WASTE INCINERATION PLANT OR WASTE CO-INCINERATION PLANT[^c-339806eb6db98db2f3222539b68db759]
 
 *Extent: S*
 
@@ -665,4 +665,4 @@ Emission limit values for water are to be regarded as complied with if—
 
 ## Annotations
 
-[^key-339806eb6db98db2f3222539b68db759]: Textual amendment: [Sch. 22](https://www.legislation.gov.uk/ssi/2018/219/schedule/22) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 13](https://www.legislation.gov.uk/ssi/2025/165/schedule/13) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-339806eb6db98db2f3222539b68db759]: Textual amendment: [Sch. 22](https://www.legislation.gov.uk/ssi/2018/219/schedule/22) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 13](https://www.legislation.gov.uk/ssi/2025/165/schedule/13) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

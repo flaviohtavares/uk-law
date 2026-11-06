@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Notice and consultation requirements[^key-67d5c432656f84fd528b571e5d79dfa2][^key-0e3a85f492b5d9ebf8d3bd8dc3e34eb8]
+## 14. Notice and consultation requirements[^c-67d5c432656f84fd528b571e5d79dfa2][^c-0e3a85f492b5d9ebf8d3bd8dc3e34eb8]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-67d5c432656f84fd528b571e5d79dfa2]: Commencement: S. 14 in force at 6.4.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(2)](https://www.legislation.gov.uk/uksi/2009/107/article/4/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2009/107/schedule/5)
+[^c-67d5c432656f84fd528b571e5d79dfa2]: Commencement: S. 14 in force at 6.4.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(2)](https://www.legislation.gov.uk/uksi/2009/107/article/4/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2009/107/schedule/5)
 
-[^key-0e3a85f492b5d9ebf8d3bd8dc3e34eb8]: Commencement: S. 14 in force at 31.1.2010 for W. by [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/b)
+[^c-0e3a85f492b5d9ebf8d3bd8dc3e34eb8]: Commencement: S. 14 in force at 31.1.2010 for W. by [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/b)

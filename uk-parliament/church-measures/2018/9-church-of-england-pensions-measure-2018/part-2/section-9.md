@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 9. Church of England Pensions Fund[^key-c207ce4854ae2b40dbfe1e879b800dcb]
+## 9. Church of England Pensions Fund[^c-c207ce4854ae2b40dbfe1e879b800dcb]
 
 *Extent: E*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c207ce4854ae2b40dbfe1e879b800dcb]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2018/9/section/9) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-c207ce4854ae2b40dbfe1e879b800dcb]: Commencement: [S. 9](https://www.legislation.gov.uk/ukcm/2018/9/section/9) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

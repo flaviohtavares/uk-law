@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Emergency action and notices[^key-4a1a8e9cc03a3cce9c1b9c86196e6c10]
+## 32. Emergency action and notices[^c-4a1a8e9cc03a3cce9c1b9c86196e6c10]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ the enforcing authority may take action in accordance with this regulation.
 
 ## Annotations
 
-[^key-4a1a8e9cc03a3cce9c1b9c86196e6c10]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2017/282/regulation/32) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-4a1a8e9cc03a3cce9c1b9c86196e6c10]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2017/282/regulation/32) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

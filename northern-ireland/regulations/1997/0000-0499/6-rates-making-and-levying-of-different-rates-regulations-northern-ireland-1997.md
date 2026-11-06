@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Finance and Personnel[^f00001] in exercise of the powers conferred on it by Article 6(3)(*a*) of the Rates (Northern Ireland) Order 1977[^f00002] and of every other power enabling it in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation, commencement and interpretation[^key-9b4fde234b053321af5a417618565798]
+## 1. Citation, commencement and interpretation[^c-9b4fde234b053321af5a417618565798]
 
 (1) These Regulations may be cited as the Rates (Making and Levying of Different Rates) Regulations (Northern Ireland) 1997 and shall come into operation on 27th January 1997.
 
@@ -51,7 +51,7 @@ The Department of Finance and Personnel[^f00001] in exercise of the powers confe
 - “non-domestic rate” means a rate levied on specified hereditaments; and
 - “domestic rate” means a rate levied on unspecified hereditaments.
 
-## 2. Making and levying of different rates[^key-e278217e41bb87d7d6ffc4e3696b80eb]
+## 2. Making and levying of different rates[^c-e278217e41bb87d7d6ffc4e3696b80eb]
 
 Different rates may be made and levied on—
 
@@ -60,7 +60,7 @@ Different rates may be made and levied on—
 
 in accordance with regulation 3.
 
-**3.**[^key-c1a196df3fdfd283accb132be33a2705] (1) The domestic rate shall bear the same relation to the non-domestic rate as the aggregate of the net annual value of specified hereditaments as ascertained by reference to 1st April 1995 bears to the aggregate of the net annual value of such hereditaments as ascertained by reference to 1st April 1976.
+**3.**[^c-c1a196df3fdfd283accb132be33a2705] (1) The domestic rate shall bear the same relation to the non-domestic rate as the aggregate of the net annual value of specified hereditaments as ascertained by reference to 1st April 1995 bears to the aggregate of the net annual value of such hereditaments as ascertained by reference to 1st April 1976.
 
 (2) In this regulation any reference to the domestic rate or to the non-domestic rate shall be construed as a reference to such a rate before the deduction of any discounts or allowances.
 
@@ -84,10 +84,10 @@ These Regulations prescribe the rules under which different rates may be made an
 
 [^f00002]: Footnote: S.I. [1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157) as amended by Article 3 of the Rates (Amendment) (Northern Ireland) Order 1996 ([S.I. No. 3162 (N.I. 25)](https://www.legislation.gov.uk/nisi/1996/3162))
 
-[^key-9b4fde234b053321af5a417618565798]: Commencement: Reg. 1 in operation at 27.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/6/regulation/1/1)
+[^c-9b4fde234b053321af5a417618565798]: Commencement: Reg. 1 in operation at 27.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/6/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1995 No. 58](https://www.legislation.gov.uk/nisr/1995/58)
 
-[^key-e278217e41bb87d7d6ffc4e3696b80eb]: Commencement: Reg. 2 in operation at 27.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/6/regulation/1/1)
+[^c-e278217e41bb87d7d6ffc4e3696b80eb]: Commencement: Reg. 2 in operation at 27.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/6/regulation/1/1)
 
-[^key-c1a196df3fdfd283accb132be33a2705]: Commencement: Reg. 3 in operation at 27.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/6/regulation/1/1)
+[^c-c1a196df3fdfd283accb132be33a2705]: Commencement: Reg. 3 in operation at 27.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/6/regulation/1/1)

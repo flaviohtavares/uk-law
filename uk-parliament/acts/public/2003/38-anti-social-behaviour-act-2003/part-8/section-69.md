@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 69. Remedial notices[^key-618499417b58ee281a087dff7fd36013][^key-aa3548e4a4eaf898603e31db0e45488b]
+## 69. Remedial notices[^c-618499417b58ee281a087dff7fd36013][^c-aa3548e4a4eaf898603e31db0e45488b]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-618499417b58ee281a087dff7fd36013]: Commencement: S. 69 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-618499417b58ee281a087dff7fd36013]: Commencement: S. 69 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-aa3548e4a4eaf898603e31db0e45488b]: Commencement: S. 69 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-aa3548e4a4eaf898603e31db0e45488b]: Commencement: S. 69 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

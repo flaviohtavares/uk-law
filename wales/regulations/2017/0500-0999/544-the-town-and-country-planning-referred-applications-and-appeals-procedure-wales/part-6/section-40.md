@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Pre-inquiry meetings[^key-6a5f0e5ef4e881db7ac48b996489c658]
+## 40. Pre-inquiry meetings[^c-6a5f0e5ef4e881db7ac48b996489c658]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a5f0e5ef4e881db7ac48b996489c658]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2017/544/regulation/40) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-6a5f0e5ef4e881db7ac48b996489c658]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2017/544/regulation/40) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

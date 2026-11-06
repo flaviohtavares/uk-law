@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Disposal of land: registered housing associations[^key-90c716180eb68e2317ed23b08232e1b8]
+## 13. Disposal of land: registered housing associations[^c-90c716180eb68e2317ed23b08232e1b8]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90c716180eb68e2317ed23b08232e1b8]: Textual amendment: Arts. 13, 13A substituted (29.8.2020) for art. 13 by [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 1(1)](https://www.legislation.gov.uk/nia/2020/5/section/1/1), [10(2)](https://www.legislation.gov.uk/nia/2020/5/section/10/2)
+[^c-90c716180eb68e2317ed23b08232e1b8]: Textual amendment: Arts. 13, 13A substituted (29.8.2020) for art. 13 by [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 1(1)](https://www.legislation.gov.uk/nia/2020/5/section/1/1), [10(2)](https://www.legislation.gov.uk/nia/2020/5/section/10/2)

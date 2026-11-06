@@ -46,21 +46,21 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 26(2)(f), 30, 31 and 275 of the Town and Country Planning (Scotland) Act 1997 [^c24386731] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-f2aa064c5d2b68a190c2f49f210beb64][^key-f2aa064c5d2b68a190c2f49f210beb64]
+## 1. Citation and commencement[^c-f2aa064c5d2b68a190c2f49f210beb64][^c-f2aa064c5d2b68a190c2f49f210beb64]
 
 This Order may be cited as the Town and Country Planning (General Permitted Development and Use Classes) (Scotland) Amendment Order 2020 and comes into force on 1 April 2021.
 
-## 2. Application[^key-5ab0cb00a4ac872fe41ab4473e42544d][^key-5ab0cb00a4ac872fe41ab4473e42544d]
+## 2. Application[^c-5ab0cb00a4ac872fe41ab4473e42544d][^c-5ab0cb00a4ac872fe41ab4473e42544d]
 
 (1) The amendments made by this Order do not apply to development begun before 1 April 2021.
 
 (2) For the purposes of paragraph (1) development is to be taken to be begun on the earliest date on which any material operation (within the meaning of section 27(4) of the Town and Country Planning (Scotland) Act 1997) comprised in the development begins to be carried out.
 
-## 3. Amendment of the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^key-549b48f06e38141bb8ca417eff5b67f0][^key-549b48f06e38141bb8ca417eff5b67f0]
+## 3. Amendment of the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^c-549b48f06e38141bb8ca417eff5b67f0][^c-549b48f06e38141bb8ca417eff5b67f0]
 
 The Town and Country Planning (General Permitted Development) (Scotland) Order 1992 [^c24386741] is amended in accordance with articles 4 to 15.
 
-## 4. Amendment of article 2[^key-2470d3ca5087bbedae1ac56b47d69ed4][^key-2470d3ca5087bbedae1ac56b47d69ed4]
+## 4. Amendment of article 2[^c-2470d3ca5087bbedae1ac56b47d69ed4][^c-2470d3ca5087bbedae1ac56b47d69ed4]
 
 In article 2(1) (interpretation)—
 
@@ -95,7 +95,7 @@ In article 2(1) (interpretation)—
   ,
 - (e) in the definition of “site of archaeological interest” omit “by the Secretary of State”.
 
-## 5. Amendment of Article 4[^key-c9c920dcefa7734374428ad6851385ba][^key-c9c920dcefa7734374428ad6851385ba]
+## 5. Amendment of Article 4[^c-c9c920dcefa7734374428ad6851385ba][^c-c9c920dcefa7734374428ad6851385ba]
 
 In article 4(6) (directions restricting permitted development)—
 
@@ -111,7 +111,7 @@ In article 4(6) (directions restricting permitted development)—
 
   .
 
-## 6. Amendment of Part 1 of Schedule 1[^key-1e13dabb178f8b69781a8085ba560409][^key-1e13dabb178f8b69781a8085ba560409]
+## 6. Amendment of Part 1 of Schedule 1[^c-1e13dabb178f8b69781a8085ba560409][^c-1e13dabb178f8b69781a8085ba560409]
 
 In Part 1 (development within the curtilage of a dwellinghouse) of schedule 1 (classes of permitted development)—
 
@@ -155,7 +155,7 @@ In Part 1 (development within the curtilage of a dwellinghouse) of schedule 1 (c
 
   .
 
-## 7. New Class 3AA[^key-1c25790cc737b89c2fb526fdb94984be][^key-1c25790cc737b89c2fb526fdb94984be]
+## 7. New Class 3AA[^c-1c25790cc737b89c2fb526fdb94984be][^c-1c25790cc737b89c2fb526fdb94984be]
 
 In Part 1 of schedule 1 after class 3A insert—
 
@@ -182,7 +182,7 @@ In Part 1 of schedule 1 after class 3A insert—
 
 .
 
-## 8. New Class 4B[^key-ecf7b2e2e786a43a176d7cfa78be1481][^key-ecf7b2e2e786a43a176d7cfa78be1481]
+## 8. New Class 4B[^c-ecf7b2e2e786a43a176d7cfa78be1481][^c-ecf7b2e2e786a43a176d7cfa78be1481]
 
 In Part 1ZA (development to a building containing a flat) of schedule 1 after class 4A insert—
 
@@ -212,7 +212,7 @@ In Part 1ZA (development to a building containing a flat) of schedule 1 after cl
 
 .
 
-## 9. Cycle storage facilities[^key-2ef5f1e2158d8c39b22b4337ca094cb9][^key-2ef5f1e2158d8c39b22b4337ca094cb9]
+## 9. Cycle storage facilities[^c-2ef5f1e2158d8c39b22b4337ca094cb9][^c-2ef5f1e2158d8c39b22b4337ca094cb9]
 
 After Part 2F (reverse vending machines) of schedule 1 [^c24386791] insert—
 
@@ -258,7 +258,7 @@ After Part 2F (reverse vending machines) of schedule 1 [^c24386791] insert—
 >   - (a) pertains to two or more flats contained within the tenement, and
 >   - (b) is situated adjacent to the rear elevation of the tenement,
 > - “**rear elevation**” means the elevation of the tenement that is opposite to its principal elevation,
-> - “**tenement**” means a building containing one or[^key-102f5a50dbb81a9bc9ec8ef0806824b3] more flats
+> - “**tenement**” means a building containing one or[^c-102f5a50dbb81a9bc9ec8ef0806824b3] more flats
 >
 > **Class 9K**.—
 >
@@ -289,7 +289,7 @@ After Part 2F (reverse vending machines) of schedule 1 [^c24386791] insert—
 
 .
 
-## 10. Amendment of class 18[^key-27754fbf0870056cf579f1505427f7fd][^key-27754fbf0870056cf579f1505427f7fd]
+## 10. Amendment of class 18[^c-27754fbf0870056cf579f1505427f7fd][^c-27754fbf0870056cf579f1505427f7fd]
 
 In Part 6 (agricultural buildings and operations) of schedule 1 (classes of permitted development) in class 18 for sub-paragraph (2)(d) substitute—
 
@@ -300,7 +300,7 @@ In Part 6 (agricultural buildings and operations) of schedule 1 (classes of perm
 
 ,
 
-## 11. New Class 18B and 18C[^key-d475fa38b6378b67218d943c799d70ed][^key-d475fa38b6378b67218d943c799d70ed]
+## 11. New Class 18B and 18C[^c-d475fa38b6378b67218d943c799d70ed][^c-d475fa38b6378b67218d943c799d70ed]
 
 In Part 6 of schedule 1 after class 18A insert—
 
@@ -388,7 +388,7 @@ In Part 6 of schedule 1 after class 18A insert—
 >   - (i) **windows, doors, roofs, or exterior walls,**
 >   - (ii) **water, drainage, sewerage, electricity, gas or other services,**
 >
-> **to the extent reasonably necessary for the building to function for the purposes of the flexible commercial use to which the building is[^key-6c5c70e34127c1d5238b746b22900627] converted,**
+> **to the extent reasonably necessary for the building to function for the purposes of the flexible commercial use to which the building is[^c-6c5c70e34127c1d5238b746b22900627] converted,**
 >
 > - (b) **partial demolition to the extent reasonably necessary to carry out building operations allowed by sub-paragraph (a)(i),**
 > - (c) **the provision of access to the building and of a hard surface for the purpose of the parking of vehicles incidental to the enjoyment of the building for the purposes of the flexible commercial use.**
@@ -419,7 +419,7 @@ In Part 6 of schedule 1 after class 18A insert—
 > - (a) the developer must before beginning the development apply to the planning authority for a determination as to whether the prior approval of the authority is required in respect of—
 >   - (i) the design or external appearance of the building,
 >   - (ii) the impacts of the proposed development on transport,
->   - (iii) access to the building[^key-e5d8591ac947eb7813c74f33f4a54c2b],
+>   - (iii) access to the building[^c-e5d8591ac947eb7813c74f33f4a54c2b],
 >   - (iv) the impacts of noise on those using the building or as a result of the development,
 >   - (v) risks to those using the building from contamination from the site,
 >   - (vi) the risk of flooding of the site,
@@ -454,7 +454,7 @@ In Part 6 of schedule 1 after class 18A insert—
 
 .
 
-## 12. Peatland restoration[^key-5afe5648aa8fd13d9e74f5af3e4b898a][^key-5afe5648aa8fd13d9e74f5af3e4b898a]
+## 12. Peatland restoration[^c-5afe5648aa8fd13d9e74f5af3e4b898a][^c-5afe5648aa8fd13d9e74f5af3e4b898a]
 
 In Part 6 of schedule 1 after class 20 insert—
 
@@ -502,7 +502,7 @@ In Part 6 of schedule 1 after class 20 insert—
 
 .
 
-## 13. Amendment of Interpretation section of Part 6[^key-e670ce663db2dfbd1918f961ae1c2c1e][^key-e670ce663db2dfbd1918f961ae1c2c1e]
+## 13. Amendment of Interpretation section of Part 6[^c-e670ce663db2dfbd1918f961ae1c2c1e][^c-e670ce663db2dfbd1918f961ae1c2c1e]
 
 In Part 6 of schedule 1, in the interpretation section—
 
@@ -533,7 +533,7 @@ In Part 6 of schedule 1, in the interpretation section—
 
   .
 
-## 14. Amendment of Part 6A[^key-66338583dbe8ef536c0f0babf13a6b4d][^key-66338583dbe8ef536c0f0babf13a6b4d]
+## 14. Amendment of Part 6A[^c-66338583dbe8ef536c0f0babf13a6b4d][^c-66338583dbe8ef536c0f0babf13a6b4d]
 
 In Part 6A (fish farming) of schedule 1, in Class 21A—
 
@@ -542,7 +542,7 @@ In Part 6A (fish farming) of schedule 1, in Class 21A—
 - (c) in sub-paragraph (3)(a) for “greater than 15,000” substitute “ , or would be greater than, 20,000 ”, and
 - (d) in sub-paragraph (3)(b)(i) for “1,000” substitute “ 1,100 ”.
 
-## 15. New Class 22A and 22B[^key-1d0555308698c61ce2b2d6fc77f877ea][^key-1d0555308698c61ce2b2d6fc77f877ea]
+## 15. New Class 22A and 22B[^c-1d0555308698c61ce2b2d6fc77f877ea][^c-1d0555308698c61ce2b2d6fc77f877ea]
 
 In Part 7 (forestry building and operations) of schedule 1, after class 22 insert—
 
@@ -626,7 +626,7 @@ In Part 7 (forestry building and operations) of schedule 1, after class 22 inser
 >   - (i) **windows, doors, roofs, or exterior walls,**
 >   - (ii) **water, drainage, sewerage, electricity, gas or other services,**
 >
-> **to the extent reasonably necessary for the building to function for the purposes of the flexible commercial use to which the building is[^key-10d931c29da50773883ff5884cbab316] converted,**
+> **to the extent reasonably necessary for the building to function for the purposes of the flexible commercial use to which the building is[^c-10d931c29da50773883ff5884cbab316] converted,**
 >
 > - (b) **partial demolition to the extent reasonably necessary to carry out building operations allowed by sub-paragraph (a)(i),**
 > - (c) **the provision of access to the building and of a hard surface for the purpose of the parking of vehicles incidental to the enjoyment of the building for the purposes of the flexible commercial use.**
@@ -657,7 +657,7 @@ In Part 7 (forestry building and operations) of schedule 1, after class 22 inser
 > - (a) the developer must before beginning the development apply to the planning authority for a determination as to whether the prior approval of the authority is required in respect of—
 >   - (i) the design or external appearance of the building,
 >   - (ii) the impacts of the proposed development on transport,
->   - (iii) access to the building[^key-06ee7e9cebdc20e893b969e428738579],
+>   - (iii) access to the building[^c-06ee7e9cebdc20e893b969e428738579],
 >   - (iv) the impacts of noise on those using the building or as a result of the development,
 >   - (v) risks to those using the building from contamination from the site,
 >   - (vi) the risk of flooding of the site,
@@ -692,7 +692,7 @@ In Part 7 (forestry building and operations) of schedule 1, after class 22 inser
 
 .
 
-## 16. Electronic communications[^key-a57b8ef98891f0bc4f9131befe01440b][^key-a57b8ef98891f0bc4f9131befe01440b]
+## 16. Electronic communications[^c-a57b8ef98891f0bc4f9131befe01440b][^c-a57b8ef98891f0bc4f9131befe01440b]
 
 In Part 20 (development by electronic communications code operators) of schedule 1 in class 67—
 
@@ -832,7 +832,7 @@ In Part 20 (development by electronic communications code operators) of schedule
 
     .
 
-## 17. Amendment of the Town and Country Planning (Use Classes) (Scotland) Order 1997[^key-57c3587acdd16624045e717c91dcf9f6][^key-57c3587acdd16624045e717c91dcf9f6]
+## 17. Amendment of the Town and Country Planning (Use Classes) (Scotland) Order 1997[^c-57c3587acdd16624045e717c91dcf9f6][^c-57c3587acdd16624045e717c91dcf9f6]
 
 (1) The Town and Country Planning (Use Classes) (Scotland) Order 1997 [^c24386821] is amended in accordance with paragraph (2).
 
@@ -879,15 +879,15 @@ Article 17 amends the Use Classes Order to include flexible commercial uses perm
 
 [^c24386731]: Marginal citation: [1997 c.8](https://www.legislation.gov.uk/ukpga/1997/8). Section 275 was relevantly amended by section 54(16) of the [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17) and paragraph 32 of schedule 3 of the [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3). There are amendments to section 30 which are not relevant to the changes made by this Order. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-f2aa064c5d2b68a190c2f49f210beb64]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-f2aa064c5d2b68a190c2f49f210beb64]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
-[^key-5ab0cb00a4ac872fe41ab4473e42544d]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2020/437/article/2) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-5ab0cb00a4ac872fe41ab4473e42544d]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2020/437/article/2) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
-[^key-549b48f06e38141bb8ca417eff5b67f0]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2020/437/article/3) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-549b48f06e38141bb8ca417eff5b67f0]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2020/437/article/3) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
 [^c24386741]: Marginal citation: [S.I. 1992/223](https://www.legislation.gov.uk/uksi/1992/223) which has been relevantly amended by [S.S.I. 2011/377](https://www.legislation.gov.uk/ssi/2011/377), [S.S.I. 2014/142](https://www.legislation.gov.uk/ssi/2014/142) and [S.S.I. 2020/129](https://www.legislation.gov.uk/ssi/2020/129).
 
-[^key-2470d3ca5087bbedae1ac56b47d69ed4]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2020/437/article/4) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-2470d3ca5087bbedae1ac56b47d69ed4]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2020/437/article/4) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
 [^c24386751]: Marginal citation: [1993 c.44](https://www.legislation.gov.uk/ukpga/1993/44).
 
@@ -895,48 +895,48 @@ Article 17 amends the Use Classes Order to include flexible commercial uses perm
 
 [^c24386771]: Marginal citation: [S.S.I. 2013/155](https://www.legislation.gov.uk/ssi/2013/155), which has been relevantly amended by [S.I. 2014/469](https://www.legislation.gov.uk/uksi/2014/469).
 
-[^key-c9c920dcefa7734374428ad6851385ba]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2020/437/article/5) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-c9c920dcefa7734374428ad6851385ba]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2020/437/article/5) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
-[^key-1e13dabb178f8b69781a8085ba560409]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2020/437/article/6) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-1e13dabb178f8b69781a8085ba560409]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2020/437/article/6) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
-[^key-1c25790cc737b89c2fb526fdb94984be]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2020/437/article/7) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-1c25790cc737b89c2fb526fdb94984be]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2020/437/article/7) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
 [^c24386781]: Marginal citation: UNESCO World Heritage Centre – World Heritage List.
 
-[^key-ecf7b2e2e786a43a176d7cfa78be1481]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2020/437/article/8) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-ecf7b2e2e786a43a176d7cfa78be1481]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2020/437/article/8) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
-[^key-2ef5f1e2158d8c39b22b4337ca094cb9]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2020/437/article/9) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-2ef5f1e2158d8c39b22b4337ca094cb9]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2020/437/article/9) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
 [^c24386791]: Marginal citation: Part 2F was inserted by [S.S.I. 2020/269](https://www.legislation.gov.uk/ssi/2020/269).
 
-[^key-102f5a50dbb81a9bc9ec8ef0806824b3]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/ssi/2020/437/article/9) inserted (28.2.2021) by [The Town and Country Planning (General Permitted Development) (Coronavirus) (Scotland) Amendment Order 2021 (S.S.I. 2021/29)](https://www.legislation.gov.uk/ssi/2021/29), [arts. 1](https://www.legislation.gov.uk/ssi/2021/29/article/1), [4(2)](https://www.legislation.gov.uk/ssi/2021/29/article/4/2)
+[^c-102f5a50dbb81a9bc9ec8ef0806824b3]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/ssi/2020/437/article/9) inserted (28.2.2021) by [The Town and Country Planning (General Permitted Development) (Coronavirus) (Scotland) Amendment Order 2021 (S.S.I. 2021/29)](https://www.legislation.gov.uk/ssi/2021/29), [arts. 1](https://www.legislation.gov.uk/ssi/2021/29/article/1), [4(2)](https://www.legislation.gov.uk/ssi/2021/29/article/4/2)
 
 [^c24386801]: Marginal citation: [S.I. 1983/1168](https://www.legislation.gov.uk/uksi/1983/1168) as relevantly amended by [S.I. 2015/24](https://www.legislation.gov.uk/uksi/2015/24).
 
 [^c24386811]: Marginal citation: UNESCO World Heritage Centre – World Heritage List.
 
-[^key-27754fbf0870056cf579f1505427f7fd]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2020/437/article/10) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-27754fbf0870056cf579f1505427f7fd]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2020/437/article/10) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
-[^key-d475fa38b6378b67218d943c799d70ed]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2020/437/article/11) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-d475fa38b6378b67218d943c799d70ed]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2020/437/article/11) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
-[^key-6c5c70e34127c1d5238b746b22900627]: Textual amendment: Word in [art. 11](https://www.legislation.gov.uk/ssi/2020/437/article/11) inserted (28.2.2021) by [The Town and Country Planning (General Permitted Development) (Coronavirus) (Scotland) Amendment Order 2021 (S.S.I. 2021/29)](https://www.legislation.gov.uk/ssi/2021/29), [arts. 1](https://www.legislation.gov.uk/ssi/2021/29/article/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2021/29/article/4/3/a)
+[^c-6c5c70e34127c1d5238b746b22900627]: Textual amendment: Word in [art. 11](https://www.legislation.gov.uk/ssi/2020/437/article/11) inserted (28.2.2021) by [The Town and Country Planning (General Permitted Development) (Coronavirus) (Scotland) Amendment Order 2021 (S.S.I. 2021/29)](https://www.legislation.gov.uk/ssi/2021/29), [arts. 1](https://www.legislation.gov.uk/ssi/2021/29/article/1), [4(3)(a)](https://www.legislation.gov.uk/ssi/2021/29/article/4/3/a)
 
-[^key-e5d8591ac947eb7813c74f33f4a54c2b]: Textual amendment: Word in [art. 11](https://www.legislation.gov.uk/ssi/2020/437/article/11) substituted (28.2.2021) by [The Town and Country Planning (General Permitted Development) (Coronavirus) (Scotland) Amendment Order 2021 (S.S.I. 2021/29)](https://www.legislation.gov.uk/ssi/2021/29), [arts. 1](https://www.legislation.gov.uk/ssi/2021/29/article/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2021/29/article/4/3/b)
+[^c-e5d8591ac947eb7813c74f33f4a54c2b]: Textual amendment: Word in [art. 11](https://www.legislation.gov.uk/ssi/2020/437/article/11) substituted (28.2.2021) by [The Town and Country Planning (General Permitted Development) (Coronavirus) (Scotland) Amendment Order 2021 (S.S.I. 2021/29)](https://www.legislation.gov.uk/ssi/2021/29), [arts. 1](https://www.legislation.gov.uk/ssi/2021/29/article/1), [4(3)(b)](https://www.legislation.gov.uk/ssi/2021/29/article/4/3/b)
 
-[^key-5afe5648aa8fd13d9e74f5af3e4b898a]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2020/437/article/12) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-5afe5648aa8fd13d9e74f5af3e4b898a]: Commencement: [Art. 12](https://www.legislation.gov.uk/ssi/2020/437/article/12) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
-[^key-e670ce663db2dfbd1918f961ae1c2c1e]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2020/437/article/13) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-e670ce663db2dfbd1918f961ae1c2c1e]: Commencement: [Art. 13](https://www.legislation.gov.uk/ssi/2020/437/article/13) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
-[^key-66338583dbe8ef536c0f0babf13a6b4d]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2020/437/article/14) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-66338583dbe8ef536c0f0babf13a6b4d]: Commencement: [Art. 14](https://www.legislation.gov.uk/ssi/2020/437/article/14) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
-[^key-1d0555308698c61ce2b2d6fc77f877ea]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2020/437/article/15) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-1d0555308698c61ce2b2d6fc77f877ea]: Commencement: [Art. 15](https://www.legislation.gov.uk/ssi/2020/437/article/15) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
-[^key-10d931c29da50773883ff5884cbab316]: Textual amendment: Word in [art. 15](https://www.legislation.gov.uk/ssi/2020/437/article/15) inserted (28.2.2021) by [The Town and Country Planning (General Permitted Development) (Coronavirus) (Scotland) Amendment Order 2021 (S.S.I. 2021/29)](https://www.legislation.gov.uk/ssi/2021/29), [arts. 1](https://www.legislation.gov.uk/ssi/2021/29/article/1), [4(4)(a)](https://www.legislation.gov.uk/ssi/2021/29/article/4/4/a)
+[^c-10d931c29da50773883ff5884cbab316]: Textual amendment: Word in [art. 15](https://www.legislation.gov.uk/ssi/2020/437/article/15) inserted (28.2.2021) by [The Town and Country Planning (General Permitted Development) (Coronavirus) (Scotland) Amendment Order 2021 (S.S.I. 2021/29)](https://www.legislation.gov.uk/ssi/2021/29), [arts. 1](https://www.legislation.gov.uk/ssi/2021/29/article/1), [4(4)(a)](https://www.legislation.gov.uk/ssi/2021/29/article/4/4/a)
 
-[^key-06ee7e9cebdc20e893b969e428738579]: Textual amendment: Word in [art. 15](https://www.legislation.gov.uk/ssi/2020/437/article/15) substituted (28.2.2021) by [The Town and Country Planning (General Permitted Development) (Coronavirus) (Scotland) Amendment Order 2021 (S.S.I. 2021/29)](https://www.legislation.gov.uk/ssi/2021/29), [arts. 1](https://www.legislation.gov.uk/ssi/2021/29/article/1), [4(4)(b)](https://www.legislation.gov.uk/ssi/2021/29/article/4/4/b)
+[^c-06ee7e9cebdc20e893b969e428738579]: Textual amendment: Word in [art. 15](https://www.legislation.gov.uk/ssi/2020/437/article/15) substituted (28.2.2021) by [The Town and Country Planning (General Permitted Development) (Coronavirus) (Scotland) Amendment Order 2021 (S.S.I. 2021/29)](https://www.legislation.gov.uk/ssi/2021/29), [arts. 1](https://www.legislation.gov.uk/ssi/2021/29/article/1), [4(4)(b)](https://www.legislation.gov.uk/ssi/2021/29/article/4/4/b)
 
-[^key-a57b8ef98891f0bc4f9131befe01440b]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2020/437/article/16) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-a57b8ef98891f0bc4f9131befe01440b]: Commencement: [Art. 16](https://www.legislation.gov.uk/ssi/2020/437/article/16) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
-[^key-57c3587acdd16624045e717c91dcf9f6]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2020/437/article/17) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
+[^c-57c3587acdd16624045e717c91dcf9f6]: Commencement: [Art. 17](https://www.legislation.gov.uk/ssi/2020/437/article/17) in force at 1.4.2021, see [art. 1](https://www.legislation.gov.uk/ssi/2020/437/article/1)
 
 [^c24386821]: Marginal citation: [S.I. 1997/3061](https://www.legislation.gov.uk/uksi/1997/3061) which has been relevantly amended by [S.S.I. 2016/421](https://www.legislation.gov.uk/ssi/2016/421).

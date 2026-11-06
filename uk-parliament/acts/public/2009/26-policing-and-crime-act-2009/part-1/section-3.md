@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Regulations about senior officers[^key-c72d764e8431d3fd665b64cc86ab6a57]
+## 3. Regulations about senior officers[^c-c72d764e8431d3fd665b64cc86ab6a57]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In section 50 of the Police Act 1996 (c. 16) (regulations for police forces) aft
 
 ## Annotations
 
-[^key-c72d764e8431d3fd665b64cc86ab6a57]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2009/26/section/3) in force at 19.4.2010 by [S.I. 2010/999](https://www.legislation.gov.uk/uksi/2010/999), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/999/article/2/a)
+[^c-c72d764e8431d3fd665b64cc86ab6a57]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2009/26/section/3) in force at 19.4.2010 by [S.I. 2010/999](https://www.legislation.gov.uk/uksi/2010/999), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/999/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Resource efficiency requirements[^key-70bd75eaef83d7435107913fae25477e][^key-7225d14c0d3b586b27e00aa84f1b6539]
+## 53. Resource efficiency requirements[^c-70bd75eaef83d7435107913fae25477e][^c-7225d14c0d3b586b27e00aa84f1b6539]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70bd75eaef83d7435107913fae25477e]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2021/30/section/53) in force at 9.1.2022, see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
+[^c-70bd75eaef83d7435107913fae25477e]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2021/30/section/53) in force at 9.1.2022, see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
 
-[^key-7225d14c0d3b586b27e00aa84f1b6539]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2021/30/section/53) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
+[^c-7225d14c0d3b586b27e00aa84f1b6539]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2021/30/section/53) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)

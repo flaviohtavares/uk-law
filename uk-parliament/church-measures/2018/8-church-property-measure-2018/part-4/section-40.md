@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 40. Church Commissioners: information and advice[^key-0cd2ffcf2bd0b28342862933a6c75152]
+## 40. Church Commissioners: information and advice[^c-0cd2ffcf2bd0b28342862933a6c75152]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cd2ffcf2bd0b28342862933a6c75152]: Commencement: [S. 40](https://www.legislation.gov.uk/ukcm/2018/8/section/40) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-0cd2ffcf2bd0b28342862933a6c75152]: Commencement: [S. 40](https://www.legislation.gov.uk/ukcm/2018/8/section/40) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

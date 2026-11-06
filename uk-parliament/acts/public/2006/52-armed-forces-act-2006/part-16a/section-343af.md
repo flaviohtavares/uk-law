@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 343AF. Sections 343AA to 343AD: power to add bodies and functions[^key-053b7264171ba38addf8c43d670db5d5][^key-95b2ac701edc20c3d5e680ceb5b025fc]
+## 343AF. Sections 343AA to 343AD: power to add bodies and functions[^c-053b7264171ba38addf8c43d670db5d5][^c-95b2ac701edc20c3d5e680ceb5b025fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,12 +40,12 @@ summary: ''
 (3) A function specified by virtue of subsection (1)(a)(i), (b)(i), (c)(i) or (d)(i) must be a function under or by virtue of—
 
 - (a) primary legislation, or
-- (b) assimilated direct[^key-4c1e2b4ecbc94a8c598042e726497c70] legislation.
+- (b) assimilated direct[^c-4c1e2b4ecbc94a8c598042e726497c70] legislation.
 
 (4) A person or body specified by virtue of subsection (1)(a)(ii), (b)(ii), (c)(ii) or (d)(ii) must be a person or body by whom functions are exercisable under or by virtue of—
 
 - (a) primary legislation, or
-- (b) assimilated direct[^key-b61ad7e85d8e0e2862b4fbde3365b5a7] legislation.
+- (b) assimilated direct[^c-b61ad7e85d8e0e2862b4fbde3365b5a7] legislation.
 
 (5) Nothing in sections 343AA to 343AD limits the fields to which functions added by virtue of subsection (1) may relate.
 
@@ -82,10 +82,10 @@ summary: ''
 
 ## Annotations
 
-[^key-053b7264171ba38addf8c43d670db5d5]: Textual amendment: [Ss. 343AA-343AF](https://www.legislation.gov.uk/ukpga/2006/52/section/343AA) inserted (1.5.2022 for specified purposes, 22.11.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2021/35/section/8/3), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 3](https://www.legislation.gov.uk/uksi/2022/471/regulation/3); [S.I. 2022/1161](https://www.legislation.gov.uk/uksi/2022/1161), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1161/regulation/3)
+[^c-053b7264171ba38addf8c43d670db5d5]: Textual amendment: [Ss. 343AA-343AF](https://www.legislation.gov.uk/ukpga/2006/52/section/343AA) inserted (1.5.2022 for specified purposes, 22.11.2022 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2021/35/section/8/3), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 3](https://www.legislation.gov.uk/uksi/2022/471/regulation/3); [S.I. 2022/1161](https://www.legislation.gov.uk/uksi/2022/1161), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1161/regulation/3)
 
-[^key-95b2ac701edc20c3d5e680ceb5b025fc]: Textual amendment: Pt. 16A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 2](https://www.legislation.gov.uk/ukpga/2011/18/section/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
+[^c-95b2ac701edc20c3d5e680ceb5b025fc]: Textual amendment: Pt. 16A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 2](https://www.legislation.gov.uk/ukpga/2011/18/section/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
 
-[^key-4c1e2b4ecbc94a8c598042e726497c70]: Textual amendment: Words in s. 343AF(3)(b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 63](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/63)
+[^c-4c1e2b4ecbc94a8c598042e726497c70]: Textual amendment: Words in s. 343AF(3)(b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 63](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/63)
 
-[^key-b61ad7e85d8e0e2862b4fbde3365b5a7]: Textual amendment: Words in s. 343AF(4)(b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 63](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/63)
+[^c-b61ad7e85d8e0e2862b4fbde3365b5a7]: Textual amendment: Words in s. 343AF(4)(b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 63](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/63)

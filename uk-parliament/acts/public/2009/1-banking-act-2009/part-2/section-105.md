@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Status of bank liquidator[^key-c2a040edd71e43adfe819048e3efd5da]
+## 105. Status of bank liquidator[^c-c2a040edd71e43adfe819048e3efd5da]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A bank liquidator is an officer of the court.
 
 ## Annotations
 
-[^key-c2a040edd71e43adfe819048e3efd5da]: Commencement: S. 105 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)
+[^c-c2a040edd71e43adfe819048e3efd5da]: Commencement: S. 105 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/2)

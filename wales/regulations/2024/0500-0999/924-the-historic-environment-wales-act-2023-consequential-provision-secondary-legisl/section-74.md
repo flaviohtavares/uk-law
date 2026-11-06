@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**74.**[^key-43c43b92e807955793f7399595b39eb1] For regulation 5(1)(b) (but not the “or” after it), substitute “section 173(3)(b) of the Historic Environment (Wales) Act 2023;”.
+**74.**[^c-43c43b92e807955793f7399595b39eb1] For regulation 5(1)(b) (but not the “or” after it), substitute “section 173(3)(b) of the Historic Environment (Wales) Act 2023;”.
 
 ## Annotations
 
-[^key-43c43b92e807955793f7399595b39eb1]: Commencement: [Reg. 74](https://www.legislation.gov.uk/wsi/2024/924/regulation/74) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-43c43b92e807955793f7399595b39eb1]: Commencement: [Reg. 74](https://www.legislation.gov.uk/wsi/2024/924/regulation/74) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

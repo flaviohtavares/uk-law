@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.20.[^key-e1c9e7f3ac173fb04ecb79a144c640bc]
+## 40.20.[^c-e1c9e7f3ac173fb04ecb79a144c640bc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The court may make binding declarations whether or not any other remedy is claim
 
 ## Annotations
 
-[^key-e1c9e7f3ac173fb04ecb79a144c640bc]: Textual amendment: [Pt. 40](https://www.legislation.gov.uk/uksi/1998/3132/part/40) Section 3 inserted (26.3.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rules 1(a)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/a), [13](https://www.legislation.gov.uk/uksi/2001/256/rule/13)
+[^c-e1c9e7f3ac173fb04ecb79a144c640bc]: Textual amendment: [Pt. 40](https://www.legislation.gov.uk/uksi/1998/3132/part/40) Section 3 inserted (26.3.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rules 1(a)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/a), [13](https://www.legislation.gov.uk/uksi/2001/256/rule/13)

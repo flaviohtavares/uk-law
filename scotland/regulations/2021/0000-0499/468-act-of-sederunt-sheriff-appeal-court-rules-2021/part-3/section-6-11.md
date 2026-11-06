@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.11. Initial case management of appeals[^key-f17f005464fe8e304419d051822f27b1]
+## 6.11. Initial case management of appeals[^c-f17f005464fe8e304419d051822f27b1]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f17f005464fe8e304419d051822f27b1]: Commencement: Para. 6.11 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-f17f005464fe8e304419d051822f27b1]: Commencement: Para. 6.11 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

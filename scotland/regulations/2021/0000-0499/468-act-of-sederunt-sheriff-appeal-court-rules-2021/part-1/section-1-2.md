@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1.2. Application[^key-33cb36e3d0b0051806403fd6d9c310b1]
+## 1.2. Application[^c-33cb36e3d0b0051806403fd6d9c310b1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ These Rules apply to any appeal or application made under chapters 6 and 29 to 3
 
 ## Annotations
 
-[^key-33cb36e3d0b0051806403fd6d9c310b1]: Commencement: Para. 1.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-33cb36e3d0b0051806403fd6d9c310b1]: Commencement: Para. 1.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

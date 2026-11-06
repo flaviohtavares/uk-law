@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Format for safety certificates and applications[^key-59c72af0240a50edbd3d10e5343f3412]
+## SCHEDULE 8 — Format for safety certificates and applications[^c-59c72af0240a50edbd3d10e5343f3412]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ must be made in the form provided in Part 4.
 
 [image: see source](https://www.legislation.gov.uk/uksi/2006/599/images/uksi_20060599_en_epp_003.gif)[image: see source](https://www.legislation.gov.uk/uksi/2006/599/images/uksi_20060599_en_epp_004.gif)
 
-### PART 4 — Application form for a safety certificate[^key-86c48f20253d7b5ebd9eb8af73abc847][^M_F_c2ba4e91-49a8-4a9a-989b-5049675faa01]
+### PART 4 — Application form for a safety certificate[^c-86c48f20253d7b5ebd9eb8af73abc847][^M_F_c2ba4e91-49a8-4a9a-989b-5049675faa01]
 
 **6.** The form referred to in paragraph 3 follows.
 
@@ -58,8 +58,8 @@ must be made in the form provided in Part 4.
 
 ## Annotations
 
-[^key-59c72af0240a50edbd3d10e5343f3412]: Textual amendment: Schs. 8-11 inserted (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [reg. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/837/schedule/paragraph/1) (as amended in Sch. 11 paras. 14, 16, 17 by S.I. 2019/1310, [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 1 paras. 2, 3, 4](https://www.legislation.gov.uk/uksi/2019/1310/schedule/1/paragraph/2/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59c72af0240a50edbd3d10e5343f3412]: Textual amendment: Schs. 8-11 inserted (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [reg. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/837/schedule/paragraph/1) (as amended in Sch. 11 paras. 14, 16, 17 by S.I. 2019/1310, [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 1 paras. 2, 3, 4](https://www.legislation.gov.uk/uksi/2019/1310/schedule/1/paragraph/2/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-86c48f20253d7b5ebd9eb8af73abc847]: Textual amendment: [Sch 8](https://www.legislation.gov.uk/uksi/2006/599/schedule/8): in the inserted Sch. 8 Pt 4, in the Application form for a safety certificate in 8.5, 8.7 and 8.9, in each place that it occurs, “NTSNs” substituted for “TSIs” (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(8)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/8/a)
+[^c-86c48f20253d7b5ebd9eb8af73abc847]: Textual amendment: [Sch 8](https://www.legislation.gov.uk/uksi/2006/599/schedule/8): in the inserted Sch. 8 Pt 4, in the Application form for a safety certificate in 8.5, 8.7 and 8.9, in each place that it occurs, “NTSNs” substituted for “TSIs” (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(8)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/8/a)
 
 [^M_F_c2ba4e91-49a8-4a9a-989b-5049675faa01]: Textual amendment: [Sch 8](https://www.legislation.gov.uk/uksi/2006/599/schedule/8): in the inserted Sch. 8 Pt 4, in the Guidelines for Compilation in 8.5, 8.7 and 8.9, in each place that it occurs, “NTSNs” substituted for “TSIs” (31.12.2020 immediately before IP completion day) by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [7(8)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/7/8/b)

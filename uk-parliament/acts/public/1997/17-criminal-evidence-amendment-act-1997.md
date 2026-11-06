@@ -51,14 +51,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 (3) This section applies to a person who was convicted of a recordable offence before 10th April 1995 if—
 
 - (a) that offence was one of the offences listed in Schedule 1 to this Act (which lists certain sexual, violent and other offences), and
-- (b) he has at any time served or[^key-9c7a1b107866460ff39857d8bd4be3f1] at the relevant time he is serving a sentence of imprisonment in respect of that offence.
+- (b) he has at any time served or[^c-9c7a1b107866460ff39857d8bd4be3f1] at the relevant time he is serving a sentence of imprisonment in respect of that offence.
 
 (4) This section also applies to a person who was convicted of a recordable offence before 10th April 1995 if—
 
 - (a) that offence was one of the offences listed in Schedule 1 to this Act, and
-- (b) he has at any time been detained or[^key-1c2df82fc3b006ba7aca494748cc5a56] at the relevant time he is detained under Part III of the [^c863133]Mental Health Act 1983 in pursuance of—
-  - (i) a hospital order or interim hospital order made following that conviction, [^key-80a357680c1684baa3c621e429770584]...
-  - (ii)[^key-80a357680c1684baa3c621e429770584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) he has at any time been detained or[^c-1c2df82fc3b006ba7aca494748cc5a56] at the relevant time he is detained under Part III of the [^c863133]Mental Health Act 1983 in pursuance of—
+  - (i) a hospital order or interim hospital order made following that conviction, [^c-80a357680c1684baa3c621e429770584]...
+  - (ii)[^c-80a357680c1684baa3c621e429770584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Expressions used in this subsection and in the [^c863134]Mental Health Act 1983 have the same meaning as in that Act.
 
@@ -86,14 +86,14 @@ and any reference to a term of imprisonment shall be construed accordingly.
 
 (3) This section applies to a person if—
 
-- (a) he has at any time been detained or[^key-2ba4b71bba9a64303e9d2dae95ec6b55] at the relevant time he is detained under Part III of the [^c863137]Mental Health Act 1983 in pursuance of an order made under—
+- (a) he has at any time been detained or[^c-2ba4b71bba9a64303e9d2dae95ec6b55] at the relevant time he is detained under Part III of the [^c863137]Mental Health Act 1983 in pursuance of an order made under—
   - (i) section 5(2)(a) of the [^c863138]Criminal Procedure (Insanity) Act 1964 or section 6 or 14 of the [^c863139]Criminal Appeal Act 1968 (findings of insanity or unfitness to plead), or
   - (ii) section 37(3) of the [^c863140]Mental Health Act 1983 (power of magistrates’ court to make hospital order without convicting accused); and
 - (b) that order was made on or after the date of the passing of this Act in respect of a recordable offence.
 
 (4) This section also applies to a person if—
 
-- (a) he has at any time been detained or[^key-4d9e52a6252f48e244447a635dfd3303] at the relevant time he is detained under Part III of the [^c863141]Mental Health Act 1983 in pursuance of an order made under—
+- (a) he has at any time been detained or[^c-4d9e52a6252f48e244447a635dfd3303] at the relevant time he is detained under Part III of the [^c863141]Mental Health Act 1983 in pursuance of an order made under—
   - (i) any of the provisions mentioned in subsection (3)(a), or
   - (ii) section 5(1) of the [^c863142]Criminal Procedure (Insanity) Act 1964 as originally enacted; and
 - (b) that order was made before the date of the passing of this Act in respect of any offence listed in Schedule 1 to this Act.
@@ -362,13 +362,13 @@ Expressions used in this subsection and in the [^c863173]Mental Health Act 1983 
 
 [^c863132]: Marginal citation: [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33).
 
-[^key-9c7a1b107866460ff39857d8bd4be3f1]: Textual amendment: Words in s. 1(3)(b) inserted (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 2(9)(a)](https://www.legislation.gov.uk/ukpga/2010/17/section/2/9/a), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
+[^c-9c7a1b107866460ff39857d8bd4be3f1]: Textual amendment: Words in s. 1(3)(b) inserted (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 2(9)(a)](https://www.legislation.gov.uk/ukpga/2010/17/section/2/9/a), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
 
-[^key-1c2df82fc3b006ba7aca494748cc5a56]: Textual amendment: Words in s. 1(4)(b) inserted (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 2(9)(b)(i)](https://www.legislation.gov.uk/ukpga/2010/17/section/2/9/b/i), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
+[^c-1c2df82fc3b006ba7aca494748cc5a56]: Textual amendment: Words in s. 1(4)(b) inserted (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 2(9)(b)(i)](https://www.legislation.gov.uk/ukpga/2010/17/section/2/9/b/i), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
 
 [^c863133]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-80a357680c1684baa3c621e429770584]: Textual amendment: S. 1(4)(b)(ii) and preceding word repealed (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 2(9)(b)(ii)](https://www.legislation.gov.uk/ukpga/2010/17/section/2/9/b/ii), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
+[^c-80a357680c1684baa3c621e429770584]: Textual amendment: S. 1(4)(b)(ii) and preceding word repealed (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 2(9)(b)(ii)](https://www.legislation.gov.uk/ukpga/2010/17/section/2/9/b/ii), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
 
 [^c863134]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
@@ -376,7 +376,7 @@ Expressions used in this subsection and in the [^c863173]Mental Health Act 1983 
 
 [^c863136]: Textual amendment: Words in s. 1(6) substituted (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165](https://www.legislation.gov.uk/ukpga/2000/6/section/165), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 9 para. 180](https://www.legislation.gov.uk/ukpga/2000/6/schedule/9/paragraph/180)
 
-[^key-2ba4b71bba9a64303e9d2dae95ec6b55]: Textual amendment: Words in [s. 2(3)(a)](https://www.legislation.gov.uk/ukpga/1997/17/section/2/3/a) inserted (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 2(10)](https://www.legislation.gov.uk/ukpga/2010/17/section/2/10), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
+[^c-2ba4b71bba9a64303e9d2dae95ec6b55]: Textual amendment: Words in [s. 2(3)(a)](https://www.legislation.gov.uk/ukpga/1997/17/section/2/3/a) inserted (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 2(10)](https://www.legislation.gov.uk/ukpga/2010/17/section/2/10), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
 
 [^c863137]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
@@ -386,7 +386,7 @@ Expressions used in this subsection and in the [^c863173]Mental Health Act 1983 
 
 [^c863140]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-4d9e52a6252f48e244447a635dfd3303]: Textual amendment: Words in [s. 2(4)(a)](https://www.legislation.gov.uk/ukpga/1997/17/section/2/4/a) inserted (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 2(10)](https://www.legislation.gov.uk/ukpga/2010/17/section/2/10), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
+[^c-4d9e52a6252f48e244447a635dfd3303]: Textual amendment: Words in [s. 2(4)(a)](https://www.legislation.gov.uk/ukpga/1997/17/section/2/4/a) inserted (7.3.2011) by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 2(10)](https://www.legislation.gov.uk/ukpga/2010/17/section/2/10), [59(1)](https://www.legislation.gov.uk/ukpga/2010/17/section/59/1); [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
 
 [^c863141]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 

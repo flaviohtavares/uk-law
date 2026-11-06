@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Definitions under section 2(9)[^key-4b8c91c45a0bf50c25968f2b68ff3ebe]
+## 4. Definitions under section 2(9)[^c-4b8c91c45a0bf50c25968f2b68ff3ebe]
 
 *Extent: E+W+S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4b8c91c45a0bf50c25968f2b68ff3ebe]: Commencement: Reg. 4 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-4b8c91c45a0bf50c25968f2b68ff3ebe]: Commencement: Reg. 4 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
 
 [^f00021]: Footnote: The definitions given in this regulation and regulation 4 are made pursuant to section 2(9) of the Act.

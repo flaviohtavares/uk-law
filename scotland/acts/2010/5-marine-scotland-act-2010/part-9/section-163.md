@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 163. Offences by bodies corporate[^key-44923c73f3c5447fb551068306ad5312]
+## 163. Offences by bodies corporate[^c-44923c73f3c5447fb551068306ad5312]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ the individual as well as the offender is guilty of the offence and is liable to
 
 ## Annotations
 
-[^key-44923c73f3c5447fb551068306ad5312]: Commencement: [S. 163](https://www.legislation.gov.uk/asp/2010/5/section/163) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(g)](https://www.legislation.gov.uk/ssi/2010/230/article/2/g)
+[^c-44923c73f3c5447fb551068306ad5312]: Commencement: [S. 163](https://www.legislation.gov.uk/asp/2010/5/section/163) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(g)](https://www.legislation.gov.uk/ssi/2010/230/article/2/g)

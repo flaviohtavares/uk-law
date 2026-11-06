@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Paragraph 1 (insurance business transfer schemes)[^key-416b8ed89bd33ea6018a2114f1724208]
+## 105. Paragraph 1 (insurance business transfer schemes)[^c-416b8ed89bd33ea6018a2114f1724208]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ For paragraph 1 [^c23658741] (insurance business transfer schemes) substitute—
 
 ## Annotations
 
-[^key-416b8ed89bd33ea6018a2114f1724208]: Commencement: Reg. 105 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-416b8ed89bd33ea6018a2114f1724208]: Commencement: Reg. 105 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658741]: Marginal citation: Paragraph 1 was amended by [S.I. 2007/3253](https://www.legislation.gov.uk/uksi/2007/3253) and 2015/575 and paragraph 10 of Schedule 6 to the Financial Services Act 2012 and paragraph 2 of Schedule 1 to the [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33).

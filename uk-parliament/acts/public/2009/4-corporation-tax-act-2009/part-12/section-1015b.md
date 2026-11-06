@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1015B. Application of Chapter in relation to employees of overseas companies who work for companies in the UK[^key-e85b633ffb5e50974454e3ebcf22f1a1]
+## 1015B. Application of Chapter in relation to employees of overseas companies who work for companies in the UK[^c-e85b633ffb5e50974454e3ebcf22f1a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e85b633ffb5e50974454e3ebcf22f1a1]: Textual amendment: Ss. 1015A, 1015B inserted (6.4.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 43](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/43), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
+[^c-e85b633ffb5e50974454e3ebcf22f1a1]: Textual amendment: Ss. 1015A, 1015B inserted (6.4.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 43](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/43), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)

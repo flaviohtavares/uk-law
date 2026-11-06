@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Restitution.[^key-10f58de6f5328e0fc71eba03deb820f8]
+## 14. Restitution.[^c-10f58de6f5328e0fc71eba03deb820f8]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ the court may order the employer and any other person who appears to the court t
 
 ## Annotations
 
-[^key-10f58de6f5328e0fc71eba03deb820f8]: Commencement: S. 14 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)
+[^c-10f58de6f5328e0fc71eba03deb820f8]: Commencement: S. 14 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3)

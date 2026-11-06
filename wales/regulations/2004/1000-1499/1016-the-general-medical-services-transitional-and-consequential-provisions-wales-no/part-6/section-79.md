@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Decision as to treatment for which fees may be charged by doctors (regulation 18 of the Service Committees Regulations)[^key-8828de6a9fb0592e9f1fe54cf703aebd]
+## 79. Decision as to treatment for which fees may be charged by doctors (regulation 18 of the Service Committees Regulations)[^c-8828de6a9fb0592e9f1fe54cf703aebd]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ that referral shall be determined in accordance with regulation 18 and Schedule 
 
 ## Annotations
 
-[^key-8828de6a9fb0592e9f1fe54cf703aebd]: Commencement: Art. 79 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-8828de6a9fb0592e9f1fe54cf703aebd]: Commencement: Art. 79 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

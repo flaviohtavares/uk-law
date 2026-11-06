@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Maintenance plans for two or more houses[^key-bfdf922fc4b18dec0ccf12702c2f5931]
+## 44. Maintenance plans for two or more houses[^c-bfdf922fc4b18dec0ccf12702c2f5931]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfdf922fc4b18dec0ccf12702c2f5931]: Commencement: S. 44 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-bfdf922fc4b18dec0ccf12702c2f5931]: Commencement: S. 44 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

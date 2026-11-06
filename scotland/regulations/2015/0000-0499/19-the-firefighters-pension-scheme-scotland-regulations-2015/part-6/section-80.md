@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Surviving partner’s pension payable on death of pensioner member[^key-a7b16377a94b375a69bcfb004de45422]
+## 80. Surviving partner’s pension payable on death of pensioner member[^c-a7b16377a94b375a69bcfb004de45422]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7b16377a94b375a69bcfb004de45422]: Commencement: [Reg. 80](https://www.legislation.gov.uk/ssi/2015/19/regulation/80) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-a7b16377a94b375a69bcfb004de45422]: Commencement: [Reg. 80](https://www.legislation.gov.uk/ssi/2015/19/regulation/80) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33D. Conversion of sixth form college corporations into further education corporations[^key-1dc714bc06c48a6f744ef1dcb4317329]
+## 33D. Conversion of sixth form college corporations into further education corporations[^c-1dc714bc06c48a6f744ef1dcb4317329]
 
 *Extent: E+W+S*
 
@@ -24,12 +24,12 @@ summary: ''
 
 (2) An order under subsection (1) may be made only if—
 
-- (a) an application for the order has been made by the governing body of the relevant sixth form college, [^key-b2af6c41cc34b2d93cf3a26c56488017]...
-- [^key-b2af6c41cc34b2d93cf3a26c56488017] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) an application for the order has been made by the governing body of the relevant sixth form college, [^c-b2af6c41cc34b2d93cf3a26c56488017]...
+- [^c-b2af6c41cc34b2d93cf3a26c56488017] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An application under subsection (2)(a) may not be made during the period of two years beginning with the date on which the body's designation or establishment as a sixth form college corporation takes effect.
 
-(4)[^key-81b48d68fa062ea554c8a5dcc117bd7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-81b48d68fa062ea554c8a5dcc117bd7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) On the date specified in the order, the body ceases to be a sixth form college corporation and becomes a further education corporation.
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-1dc714bc06c48a6f744ef1dcb4317329]: Textual amendment: Ss. 33A-33N and cross-heading inserted (12.1.2010 for the insertion of ss. 33A-33J, 33M, 33N, 1.4.2010 in so far as not already in force) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2009/22/schedule/8/paragraph/3); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-1dc714bc06c48a6f744ef1dcb4317329]: Textual amendment: Ss. 33A-33N and cross-heading inserted (12.1.2010 for the insertion of ss. 33A-33J, 33M, 33N, 1.4.2010 in so far as not already in force) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2009/22/schedule/8/paragraph/3); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-b2af6c41cc34b2d93cf3a26c56488017]: Textual amendment: S. 33D(2)(b) and preceding word omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 6(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/6/a)
+[^c-b2af6c41cc34b2d93cf3a26c56488017]: Textual amendment: S. 33D(2)(b) and preceding word omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 6(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/6/a)
 
-[^key-81b48d68fa062ea554c8a5dcc117bd7b]: Textual amendment: S. 33D(4) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 6(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/6/b)
+[^c-81b48d68fa062ea554c8a5dcc117bd7b]: Textual amendment: S. 33D(4) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 6(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/6/b)

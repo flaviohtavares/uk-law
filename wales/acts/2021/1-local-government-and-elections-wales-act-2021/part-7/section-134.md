@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Restructuring regulations: supplementary[^key-34600537cd502a4eca732d2f6fc0f58d]
+## 134. Restructuring regulations: supplementary[^c-34600537cd502a4eca732d2f6fc0f58d]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ they must notify the council under consideration and any other principal council
 
 ## Annotations
 
-[^key-34600537cd502a4eca732d2f6fc0f58d]: Commencement: S. 134 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)
+[^c-34600537cd502a4eca732d2f6fc0f58d]: Commencement: S. 134 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)

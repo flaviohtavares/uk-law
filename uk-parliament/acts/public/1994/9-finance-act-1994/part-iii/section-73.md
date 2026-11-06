@@ -23,13 +23,13 @@ summary: ''
 (1) Unless the context otherwise requires—
 
 - “**accounting period**” shall be construed in accordance with section 54 above;
-- “**appeal tribunal**” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal;[^key-1b67f712a8bf0f5f4328ec5c36a80a80] ;
+- “**appeal tribunal**” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal;[^c-1b67f712a8bf0f5f4328ec5c36a80a80] ;
 - “**authorised person**” means any person acting under the authority of the Commissioners;
 - “**the Commissioners**” means the Commissioners of Customs and Excise;
 - “**conduct**” includes any act, omission or statement;
-- “excepted premium” has the meaning given by section 69A(7) above;[^key-c40406c37513d04a2cd868cb7e719f93]
+- “excepted premium” has the meaning given by section 69A(7) above;[^c-c40406c37513d04a2cd868cb7e719f93]
 - “[^c14453811]**the higher rate**” shall be construed in accordance with section 51 above;
-- “[^key-80dbd0db7a485711349cab33664bab95]HMRC” means Her Majesty’s Revenue and Customs;
+- “[^c-80dbd0db7a485711349cab33664bab95]HMRC” means Her Majesty’s Revenue and Customs;
 - “[^c14453821]**insurance business**” means a business which consists of or includes the provision of insurance;
 - “**insurer**” means a person or body of persons (whether incorporated or not) carrying on insurance business;
 - “**legislation relating to insurance premium tax**” means this Part (as defined by subsection (9) below), any other enactment (whenever passed) relating to insurance premium tax, and any subordinate legislation made under any such enactment;
@@ -37,7 +37,7 @@ summary: ''
 - “**prescribed**” means prescribed by an order or regulations under this Part;
 - “**the standard rate**” shall be construed in accordance with section 51 above;
 - “**tax**” means insurance premium tax;
-- [^key-b3d0f3f6b9129b2621f7250c816b2ad3]...
+- [^c-b3d0f3f6b9129b2621f7250c816b2ad3]...
 - “**taxable business**” means a business which consists of or includes the provision of insurance under taxable insurance contracts;
 - “**taxable insurance contract**” shall be construed in accordance with section 70 above.
 - “[^c14453841]**taxable intermediary**” shall be construed in accordance with section 52A above;
@@ -81,17 +81,17 @@ summary: ''
 
 ## Annotations
 
-[^key-1b67f712a8bf0f5f4328ec5c36a80a80]: Textual amendment: Words in s. 73(1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 208(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/208/2/a)
+[^c-1b67f712a8bf0f5f4328ec5c36a80a80]: Textual amendment: Words in s. 73(1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 208(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/208/2/a)
 
-[^key-c40406c37513d04a2cd868cb7e719f93]: Textual amendment: Words in s. 73(1) inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2012/266/article/2/6)
+[^c-c40406c37513d04a2cd868cb7e719f93]: Textual amendment: Words in s. 73(1) inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2012/266/article/2/6)
 
 [^c14453811]: Textual amendment: Definitions in s. 73(1) inserted (19.3.1997 with effect as mentioned in [s. 24](https://www.legislation.gov.uk/ukpga/1997/16/section/24) of the amending Act) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 21(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/21/2)
 
-[^key-80dbd0db7a485711349cab33664bab95]: Textual amendment: Words in s. 73(1) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 208(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/208/2/b)
+[^c-80dbd0db7a485711349cab33664bab95]: Textual amendment: Words in s. 73(1) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 208(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/208/2/b)
 
 [^c14453821]: Textual amendment: Definition in s. 73(1) inserted (1.5.1995) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 34](https://www.legislation.gov.uk/ukpga/1995/4/section/34), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/1995/4/schedule/5/paragraph/6)
 
-[^key-b3d0f3f6b9129b2621f7250c816b2ad3]: Textual amendment: Words in s. 73(1) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 142(1)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/142/1/c)
+[^c-b3d0f3f6b9129b2621f7250c816b2ad3]: Textual amendment: Words in s. 73(1) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 142(1)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/142/1/c)
 
 [^c14453841]: Textual amendment: Definitions in s. 73(1) inserted (19.3.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 27(9)](https://www.legislation.gov.uk/ukpga/1997/16/section/27/9)
 

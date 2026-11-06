@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 54. Church Buildings Council[^key-260a81649ade3643c2e4616ac59b0226]
+## 54. Church Buildings Council[^c-260a81649ade3643c2e4616ac59b0226]
 
 *Extent: E*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-260a81649ade3643c2e4616ac59b0226]: Commencement: [S. 54](https://www.legislation.gov.uk/ukcm/2007/1/section/54) in force at 11.6.2008 by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
+[^c-260a81649ade3643c2e4616ac59b0226]: Commencement: [S. 54](https://www.legislation.gov.uk/ukcm/2007/1/section/54) in force at 11.6.2008 by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops

@@ -24,40 +24,40 @@ Section 75
 
 ### PART 1 — After-care under the Mental Health Act 1983: direct payments
 
-**1.** (1)[^key-8ded3262a3b62eb55bc2cd0ebe052d54] Sections 31 (adults with capacity to request direct payments), 32 (adults without capacity to request direct payments) and 33 (direct payments: further provision) apply in relation to section 117 of the Mental Health Act 1983 but as if the following modifications were made to those sections.
+**1.** (1)[^c-8ded3262a3b62eb55bc2cd0ebe052d54] Sections 31 (adults with capacity to request direct payments), 32 (adults without capacity to request direct payments) and 33 (direct payments: further provision) apply in relation to section 117 of the Mental Health Act 1983 but as if the following modifications were made to those sections.
 
-(2)[^key-8ded3262a3b62eb55bc2cd0ebe052d54] For subsection (1) of section 31, substitute—
+(2)[^c-8ded3262a3b62eb55bc2cd0ebe052d54] For subsection (1) of section 31, substitute—
 
 > (1) This section applies where an adult to whom section 117 of the Mental Health Act 1983 (after-care) applies requests the local authority to make payments to the adult or a person nominated by the adult that are equivalent to the cost of providing or arranging for the provision of after-care services for the adult under that section.
 
-(3)[^key-8ded3262a3b62eb55bc2cd0ebe052d54] In subsection (5) of that section—
+(3)[^c-8ded3262a3b62eb55bc2cd0ebe052d54] In subsection (5) of that section—
 
 - (a) in paragraph (a), for “meeting the adult's needs” substitute “ discharging its duty under section 117 of the Mental Health Act 1983 ”, and
 - (b) in paragraph (b), for “to meet the adult's needs” substitute “ to discharge its duty under that section ”.
 
-(4)[^key-8ded3262a3b62eb55bc2cd0ebe052d54] In subsection (7) of that section, for “to meet the needs in question” substitute “ to discharge its duty under section 117 of the Mental Health Act 1983 ”.
+(4)[^c-8ded3262a3b62eb55bc2cd0ebe052d54] In subsection (7) of that section, for “to meet the needs in question” substitute “ to discharge its duty under section 117 of the Mental Health Act 1983 ”.
 
-(5)[^key-8ded3262a3b62eb55bc2cd0ebe052d54] For subsection (1) of section 32, substitute—
+(5)[^c-8ded3262a3b62eb55bc2cd0ebe052d54] For subsection (1) of section 32, substitute—
 
 > (1) This section applies where—
 >
 > - (a) an adult to whom section 117 of the Mental Health Act 1983 (after-care) applies lacks capacity to request the local authority to make payments equivalent to the cost of providing or arranging for the provision of after-care services for the adult under that section, and
 > - (b) an authorised person requests the local authority to make such payments to the authorised person.
 
-(6)[^key-8ded3262a3b62eb55bc2cd0ebe052d54] In subsection (4)(a) of that section, for “the adult's needs for care and support” substitute “ the provision to the adult of after-care services under section 117 of the Mental Health Act 1983 ”.
+(6)[^c-8ded3262a3b62eb55bc2cd0ebe052d54] In subsection (4)(a) of that section, for “the adult's needs for care and support” substitute “ the provision to the adult of after-care services under section 117 of the Mental Health Act 1983 ”.
 
-(7)[^key-8ded3262a3b62eb55bc2cd0ebe052d54] In subsection (6) of that section—
+(7)[^c-8ded3262a3b62eb55bc2cd0ebe052d54] In subsection (6) of that section—
 
 - (a) in paragraph (a), for “meeting the adult's needs” substitute “ discharging its duty under section 117 of the Mental Health Act 1983 ”, and
 - (b) in paragraph (b), for “to meet the adult's needs” substitute “ to discharge its duty under that section ”.
 
-(8)[^key-8ded3262a3b62eb55bc2cd0ebe052d54] In subsection (7) of that section, for “the provision of the care and support” substitute “ the provision of after-care services under section 117 of the Mental Health Act 1983 ”.
+(8)[^c-8ded3262a3b62eb55bc2cd0ebe052d54] In subsection (7) of that section, for “the provision of the care and support” substitute “ the provision of after-care services under section 117 of the Mental Health Act 1983 ”.
 
-(9)[^key-8ded3262a3b62eb55bc2cd0ebe052d54] In subsection (9) of that section, for “to meet the needs in question” substitute “ to discharge its duty under section 117 of the Mental Health Act 1983 ”.
+(9)[^c-8ded3262a3b62eb55bc2cd0ebe052d54] In subsection (9) of that section, for “to meet the needs in question” substitute “ to discharge its duty under section 117 of the Mental Health Act 1983 ”.
 
-(10)[^key-138943c547f356e94d0242a0a3999671][^key-a29ff08be26a1d68f297be79b93b961a] In subsection (2)(a) of section 33, for “meet needs” substitute “ discharge its duty under section 117 of the Mental Health Act 1983 ”.
+(10)[^c-138943c547f356e94d0242a0a3999671][^c-a29ff08be26a1d68f297be79b93b961a] In subsection (2)(a) of section 33, for “meet needs” substitute “ discharge its duty under section 117 of the Mental Health Act 1983 ”.
 
-(11)[^key-138943c547f356e94d0242a0a3999671][^key-a29ff08be26a1d68f297be79b93b961a] For subsection (3) of that section, substitute—
+(11)[^c-138943c547f356e94d0242a0a3999671][^c-a29ff08be26a1d68f297be79b93b961a] For subsection (3) of that section, substitute—
 
 > (3) A direct payment is made on condition that it be used only to pay for arrangements under which after-care services for the adult are provided under section 117 of the Mental Health Act 1983.
 
@@ -128,8 +128,8 @@ Section 75
 
 ## Annotations
 
-[^key-8ded3262a3b62eb55bc2cd0ebe052d54]: Commencement: Sch. 4 para. 1(1)-(9) in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2015/993/article/7/1/b) (with transitional provisions in S.I. 2015/995)
+[^c-8ded3262a3b62eb55bc2cd0ebe052d54]: Commencement: Sch. 4 para. 1(1)-(9) in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2015/993/article/7/1/b) (with transitional provisions in S.I. 2015/995)
 
-[^key-138943c547f356e94d0242a0a3999671]: Commencement: Sch. 4 para. 1(10)(11) in force at 1.10.2014 for specified purposes by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 2(1)(z)](https://www.legislation.gov.uk/uksi/2014/2473/article/2/1/z)
+[^c-138943c547f356e94d0242a0a3999671]: Commencement: Sch. 4 para. 1(10)(11) in force at 1.10.2014 for specified purposes by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 2(1)(z)](https://www.legislation.gov.uk/uksi/2014/2473/article/2/1/z)
 
-[^key-a29ff08be26a1d68f297be79b93b961a]: Commencement: Sch. 4 para. 1(10)(11) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2015/993/article/7/1/b) (with transitional provisions in S.I. 2015/995)
+[^c-a29ff08be26a1d68f297be79b93b961a]: Commencement: Sch. 4 para. 1(10)(11) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2015/993/article/7/1/b) (with transitional provisions in S.I. 2015/995)

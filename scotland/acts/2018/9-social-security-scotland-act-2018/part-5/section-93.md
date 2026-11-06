@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Power to modify section 88[^key-a2a8301a528433a2a4078daf5dbb5e2f]
+## 93. Power to modify section 88[^c-a2a8301a528433a2a4078daf5dbb5e2f]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2a8301a528433a2a4078daf5dbb5e2f]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2018/9/section/93) in force at 1.4.2024 by [S.S.I. 2024/57](https://www.legislation.gov.uk/ssi/2024/57), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2024/57/regulation/2/f) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/57/regulation/3))
+[^c-a2a8301a528433a2a4078daf5dbb5e2f]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2018/9/section/93) in force at 1.4.2024 by [S.S.I. 2024/57](https://www.legislation.gov.uk/ssi/2024/57), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2024/57/regulation/2/f) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/57/regulation/3))

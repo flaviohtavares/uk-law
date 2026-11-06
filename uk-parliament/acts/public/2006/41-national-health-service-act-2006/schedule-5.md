@@ -51,7 +51,7 @@ Section 27
 
 **2.** (1) Each NHS trust must ensure that its revenue is not less than sufficient, taking one financial year with another, to meet outgoings properly chargeable to revenue account.
 
-(2)[^key-82eff487c0b3ea8d10aaccf6ec74093b] NHS England may set financial objectives for NHS trusts.
+(2)[^c-82eff487c0b3ea8d10aaccf6ec74093b] NHS England may set financial objectives for NHS trusts.
 
 (3) An NHS trust must achieve any financial objectives set under sub-paragraph (2).
 
@@ -113,4 +113,4 @@ may be given only with the consent of the Treasury.
 
 ## Annotations
 
-[^key-82eff487c0b3ea8d10aaccf6ec74093b]: Textual amendment: [Sch. 5 para. 2(2)-(4)](https://www.legislation.gov.uk/ukpga/2006/41/schedule/5/paragraph/2/2) substituted for [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/41/schedule/5) [para. 2(2)(3)](https://www.legislation.gov.uk/ukpga/2006/41/schedule/5/paragraph/2/2) (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 60](https://www.legislation.gov.uk/ukpga/2022/31/section/60), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [14](https://www.legislation.gov.uk/uksi/2022/734/regulation/14), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))
+[^c-82eff487c0b3ea8d10aaccf6ec74093b]: Textual amendment: [Sch. 5 para. 2(2)-(4)](https://www.legislation.gov.uk/ukpga/2006/41/schedule/5/paragraph/2/2) substituted for [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/41/schedule/5) [para. 2(2)(3)](https://www.legislation.gov.uk/ukpga/2006/41/schedule/5/paragraph/2/2) (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 60](https://www.legislation.gov.uk/ukpga/2022/31/section/60), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [14](https://www.legislation.gov.uk/uksi/2022/734/regulation/14), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))

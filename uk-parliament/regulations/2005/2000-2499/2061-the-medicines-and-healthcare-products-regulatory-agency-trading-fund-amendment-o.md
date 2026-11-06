@@ -32,7 +32,7 @@ summary: ''
 
 GOVERNMENT TRADING FUNDS
 
-The Medicines and Healthcare Products Regulatory Agency Trading Fund (Amendment) Order 2005 (revoked)[^key-425900b0e451bef02fbbac492beb7f50]
+The Medicines and Healthcare Products Regulatory Agency Trading Fund (Amendment) Order 2005 (revoked)[^c-425900b0e451bef02fbbac492beb7f50]
 
 Made
 
@@ -42,27 +42,27 @@ Coming into force
 
 1st September 2005
 
-[^key-425900b0e451bef02fbbac492beb7f50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-425900b0e451bef02fbbac492beb7f50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-425900b0e451bef02fbbac492beb7f50]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of article 1 of the principal Order[^key-425900b0e451bef02fbbac492beb7f50]
+## 1. Citation, commencement and interpretation[^c-425900b0e451bef02fbbac492beb7f50]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 1 to the principal Order[^key-425900b0e451bef02fbbac492beb7f50]
+## 2. Amendment of article 1 of the principal Order[^c-425900b0e451bef02fbbac492beb7f50]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Assets and liabilities[^key-425900b0e451bef02fbbac492beb7f50]
+## 3. Amendment of Schedule 1 to the principal Order[^c-425900b0e451bef02fbbac492beb7f50]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Assets and liabilities[^c-425900b0e451bef02fbbac492beb7f50]
 
 **No longer in force.**
 
@@ -70,34 +70,34 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-425900b0e451bef02fbbac492beb7f50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-425900b0e451bef02fbbac492beb7f50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE — ASSETS AND LIABILITIES CEASING TO BE THOSE OF THE FUND[^key-425900b0e451bef02fbbac492beb7f50]
+## SCHEDULE — ASSETS AND LIABILITIES CEASING TO BE THOSE OF THE FUND[^c-425900b0e451bef02fbbac492beb7f50]
 
 **No longer in force.**
 
 Article 4
 
-### PART 1 — ASSETS[^key-425900b0e451bef02fbbac492beb7f50]
+### PART 1 — ASSETS[^c-425900b0e451bef02fbbac492beb7f50]
 
-**1.**[^key-425900b0e451bef02fbbac492beb7f50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-425900b0e451bef02fbbac492beb7f50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-425900b0e451bef02fbbac492beb7f50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-425900b0e451bef02fbbac492beb7f50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-425900b0e451bef02fbbac492beb7f50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-425900b0e451bef02fbbac492beb7f50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-425900b0e451bef02fbbac492beb7f50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-425900b0e451bef02fbbac492beb7f50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — LIABILITIES[^key-425900b0e451bef02fbbac492beb7f50]
+### PART 2 — LIABILITIES[^c-425900b0e451bef02fbbac492beb7f50]
 
-**1.**[^key-425900b0e451bef02fbbac492beb7f50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-425900b0e451bef02fbbac492beb7f50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-425900b0e451bef02fbbac492beb7f50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-425900b0e451bef02fbbac492beb7f50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-425900b0e451bef02fbbac492beb7f50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-425900b0e451bef02fbbac492beb7f50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-425900b0e451bef02fbbac492beb7f50]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/2061) revoked (1.4.2022) by [The Medicines and Healthcare Products Regulatory Agency Trading Fund (Revocation) Order 2022 (S.I. 2022/90)](https://www.legislation.gov.uk/uksi/2022/90), [art. 1](https://www.legislation.gov.uk/uksi/2022/90/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/90/schedule)
+[^c-425900b0e451bef02fbbac492beb7f50]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/2061) revoked (1.4.2022) by [The Medicines and Healthcare Products Regulatory Agency Trading Fund (Revocation) Order 2022 (S.I. 2022/90)](https://www.legislation.gov.uk/uksi/2022/90), [art. 1](https://www.legislation.gov.uk/uksi/2022/90/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/90/schedule)

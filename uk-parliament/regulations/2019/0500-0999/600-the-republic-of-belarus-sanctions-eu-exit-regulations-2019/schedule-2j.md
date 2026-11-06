@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2J — Cement, Gold, Gold Jewellery, Rubber and Wood Products[^key-756ccfc842d4ce7d11fc2c0cf7f539d3]
+## SCHEDULE 2J — Cement, Gold, Gold Jewellery, Rubber and Wood Products[^c-756ccfc842d4ce7d11fc2c0cf7f539d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ Paragraph 1 of Schedule 2B applies for the purposes of interpreting Part 2 of th
 
 ## Annotations
 
-[^key-756ccfc842d4ce7d11fc2c0cf7f539d3]: Textual amendment: [Sch. 2J](https://www.legislation.gov.uk/uksi/2019/600/schedule/2J) inserted (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/616/schedule)
+[^c-756ccfc842d4ce7d11fc2c0cf7f539d3]: Textual amendment: [Sch. 2J](https://www.legislation.gov.uk/uksi/2019/600/schedule/2J) inserted (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/616/schedule)

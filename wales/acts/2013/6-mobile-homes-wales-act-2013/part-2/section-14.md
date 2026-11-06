@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Appeal against variation of conditions of site licence[^key-4b0d5d01796331df36b74ad6503acbea]
+## 14. Appeal against variation of conditions of site licence[^c-4b0d5d01796331df36b74ad6503acbea]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b0d5d01796331df36b74ad6503acbea]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2013/6/section/14) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-4b0d5d01796331df36b74ad6503acbea]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2013/6/section/14) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

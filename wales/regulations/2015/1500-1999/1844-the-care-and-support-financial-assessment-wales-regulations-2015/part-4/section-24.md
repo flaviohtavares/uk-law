@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Capital jointly held[^key-3fcb5ea13912b9af2433f31b9a97f676]
+## 24. Capital jointly held[^c-3fcb5ea13912b9af2433f31b9a97f676]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fcb5ea13912b9af2433f31b9a97f676]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2015/1844/regulation/24) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-3fcb5ea13912b9af2433f31b9a97f676]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2015/1844/regulation/24) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)

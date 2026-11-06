@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Amendment of regulation E3[^key-91fec0dc1ac4d9f8e1d321a34aec9aa8]
+## 12. Amendment of regulation E3[^c-91fec0dc1ac4d9f8e1d321a34aec9aa8]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ After paragraph (1)(a)(ii) of regulation E3 (early retirement pension (redundanc
 
 ## Annotations
 
-[^key-91fec0dc1ac4d9f8e1d321a34aec9aa8]: Commencement: Reg. 12 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-91fec0dc1ac4d9f8e1d321a34aec9aa8]: Commencement: Reg. 12 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Application of Part I of the Arbitration Act 1996[^key-f0422c1d5536b2ba75c1932de73630d4]
+## 3. Application of Part I of the Arbitration Act 1996[^c-f0422c1d5536b2ba75c1932de73630d4]
 
 *Extent: N.I.*
 
@@ -24,8 +24,8 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f0422c1d5536b2ba75c1932de73630d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f0422c1d5536b2ba75c1932de73630d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f0422c1d5536b2ba75c1932de73630d4]: Textual amendment: Order revoked (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [arts. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [3(1)](https://www.legislation.gov.uk/nisr/2012/301/article/3/1) (with [art. 3(3)](https://www.legislation.gov.uk/nisr/2012/301/article/3/3))
+[^c-f0422c1d5536b2ba75c1932de73630d4]: Textual amendment: Order revoked (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [arts. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [3(1)](https://www.legislation.gov.uk/nisr/2012/301/article/3/1) (with [art. 3(3)](https://www.legislation.gov.uk/nisr/2012/301/article/3/3))

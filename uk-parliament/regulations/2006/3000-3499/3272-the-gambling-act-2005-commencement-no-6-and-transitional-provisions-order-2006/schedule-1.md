@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — Provisions coming into force on 1st January 2007[^key-a218915dfadbfbf12fac9090b04a4679]
+## SCHEDULE 1 — Provisions coming into force on 1st January 2007[^c-a218915dfadbfbf12fac9090b04a4679]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ Article 2(1)
 |  |  |
 | Sections 77 and 78 |  |
 |  |  |
-| Section 80 (to the extent that that section is not already in force) and sections 81[^key-c63f80f0966d2a49d8f695ea4c0a9d05] and 84 to 88 |  |
+| Section 80 (to the extent that that section is not already in force) and sections 81[^c-c63f80f0966d2a49d8f695ea4c0a9d05] and 84 to 88 |  |
 |  |  |
 | Section 89 (apart from subsections (2) and (3)) |  |
 |  |  |
@@ -93,8 +93,8 @@ Article 2(1)
 
 ## Annotations
 
-[^key-a218915dfadbfbf12fac9090b04a4679]: Commencement: Sch. 1 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
+[^c-a218915dfadbfbf12fac9090b04a4679]: Commencement: Sch. 1 in force at 1.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3272/article/1/1)
 
-[^key-c63f80f0966d2a49d8f695ea4c0a9d05]: Textual amendment: Words in Sch. 1 substituted (14.12.2006) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2006 (S.I. 2006/3361)](https://www.legislation.gov.uk/uksi/2006/3361), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/3361/regulation/2/2)
+[^c-c63f80f0966d2a49d8f695ea4c0a9d05]: Textual amendment: Words in Sch. 1 substituted (14.12.2006) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2006 (S.I. 2006/3361)](https://www.legislation.gov.uk/uksi/2006/3361), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/3361/regulation/2/2)
 
 [^f00024]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).

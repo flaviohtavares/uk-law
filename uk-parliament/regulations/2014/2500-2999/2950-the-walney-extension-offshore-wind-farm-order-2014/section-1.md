@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-46fd2beb8001a6ea352ba6b8a873cadd]
+## 1. Citation and commencement[^c-46fd2beb8001a6ea352ba6b8a873cadd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Walney Extension Offshore Wind Farm Order 2014 an
 
 ## Annotations
 
-[^key-46fd2beb8001a6ea352ba6b8a873cadd]: Commencement: Art. 1 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)
+[^c-46fd2beb8001a6ea352ba6b8a873cadd]: Commencement: Art. 1 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)

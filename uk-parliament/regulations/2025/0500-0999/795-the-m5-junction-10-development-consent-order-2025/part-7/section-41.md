@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Defence to proceedings in respect of statutory nuisance[^key-86da835707e455f136011bc2d4912fd5]
+## 41. Defence to proceedings in respect of statutory nuisance[^c-86da835707e455f136011bc2d4912fd5]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-86da835707e455f136011bc2d4912fd5]: Commencement: Art. 41 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-86da835707e455f136011bc2d4912fd5]: Commencement: Art. 41 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
 [^f00078]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

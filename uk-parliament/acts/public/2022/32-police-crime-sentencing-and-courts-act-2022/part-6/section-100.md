@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Deciding on the conditions[^key-c8065b6c190ee0d04dc5553ffbaa3e2a]
+## 100. Deciding on the conditions[^c-c8065b6c190ee0d04dc5553ffbaa3e2a]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8065b6c190ee0d04dc5553ffbaa3e2a]: Commencement: S. 100 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-c8065b6c190ee0d04dc5553ffbaa3e2a]: Commencement: S. 100 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

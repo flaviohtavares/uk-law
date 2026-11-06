@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117C. Effect of transfer of pension pot on membership of scheme etc[^key-acad4d00c0669c167e0aa25529827af5]
+## 117C. Effect of transfer of pension pot on membership of scheme etc[^c-acad4d00c0669c167e0aa25529827af5]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ and acquires the rights, and becomes subject to the obligations, of membership.
 
 ## Annotations
 
-[^key-acad4d00c0669c167e0aa25529827af5]: Textual amendment: Pt. 7A inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2026/22/section/49/2), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(e)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/e)
+[^c-acad4d00c0669c167e0aa25529827af5]: Textual amendment: Pt. 7A inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2026/22/section/49/2), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(4)(e)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/e)

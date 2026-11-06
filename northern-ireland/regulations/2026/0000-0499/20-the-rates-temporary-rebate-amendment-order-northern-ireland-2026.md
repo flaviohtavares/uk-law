@@ -46,11 +46,11 @@ Coming into operation
 
 The Department of Finance makes the following Order in exercise of the powers conferred by Article 31D(15) and (16) of the Rates (Northern Ireland) Order 1977[^f00001].
 
-## 1. Citation and commencement[^key-8fb816b67e416c6443bb67f2f5f0872e]
+## 1. Citation and commencement[^c-8fb816b67e416c6443bb67f2f5f0872e]
 
 This Order may be cited as the Rates (Temporary Rebate) (Amendment) Order (Northern Ireland) 2026 and shall come into operation on 1st April 2026.
 
-## 2. Temporary rebate for certain previously unoccupied hereditaments etc.[^key-bf8ee6447b46ec6244b66ea5be40f26c]
+## 2. Temporary rebate for certain previously unoccupied hereditaments etc.[^c-bf8ee6447b46ec6244b66ea5be40f26c]
 
 In Article 31D of the Rates (Northern Ireland) Order 1977 (temporary rebate for certain previously unoccupied hereditaments etc.)—
 
@@ -58,7 +58,7 @@ In Article 31D of the Rates (Northern Ireland) Order 1977 (temporary rebate for 
 - (b) in paragraph (3)(b) for the words “the one year period ending on 31st March 2026” substitute, “the one year period ending on 31st March 2027”; and
 - (c) in paragraph (7)(a) for the words “twelve months” substitute, “twenty-four months”.
 
-## 3. Revocation[^key-86b720cea69c038021d0040cf1c0dda6]
+## 3. Revocation[^c-86b720cea69c038021d0040cf1c0dda6]
 
 Article 2 of the Rates (Temporary Rebate) (Amendment) Order (Northern Ireland) 2025[^f00002] is revoked.
 
@@ -84,10 +84,10 @@ The Order also revokes Article 2 of the Rates (Temporary Rebate) (Amendment) Ord
 
 [^f00001]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 31D was inserted by section 2 of the Rates (Amendment) Act (Northern Ireland) [2012 (c.1 (N.I.))](https://www.legislation.gov.uk/nia/2012/1) and amended by [S.R. 2015 No. 48](https://www.legislation.gov.uk/nisr/2015/48)
 
-[^key-8fb816b67e416c6443bb67f2f5f0872e]: Commencement: Art. 1 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/20/article/1)
+[^c-8fb816b67e416c6443bb67f2f5f0872e]: Commencement: Art. 1 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/20/article/1)
 
-[^key-bf8ee6447b46ec6244b66ea5be40f26c]: Commencement: Art. 2 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/20/article/1)
+[^c-bf8ee6447b46ec6244b66ea5be40f26c]: Commencement: Art. 2 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/20/article/1)
 
-[^key-86b720cea69c038021d0040cf1c0dda6]: Commencement: Art. 3 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/20/article/1)
+[^c-86b720cea69c038021d0040cf1c0dda6]: Commencement: Art. 3 in operation at 1.4.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/20/article/1)
 
 [^f00002]: Footnote: [S.R. 2025 No. 29](https://www.legislation.gov.uk/nisr/2025/29)

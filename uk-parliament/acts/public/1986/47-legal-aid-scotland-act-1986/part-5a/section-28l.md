@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28L. Power of Scottish Ministers to extend or restrict types of proceedings before children's hearings in which children's legal aid to be available[^key-df16efbcb2ec4366e791ea7550eed95f]
+## 28L. Power of Scottish Ministers to extend or restrict types of proceedings before children's hearings in which children's legal aid to be available[^c-df16efbcb2ec4366e791ea7550eed95f]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df16efbcb2ec4366e791ea7550eed95f]: Textual amendment: S. 28L heading substituted (28.11.2016) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 92(2)](https://www.legislation.gov.uk/asp/2014/8/section/92/2), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(2)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/2/a)
+[^c-df16efbcb2ec4366e791ea7550eed95f]: Textual amendment: S. 28L heading substituted (28.11.2016) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 92(2)](https://www.legislation.gov.uk/asp/2014/8/section/92/2), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(2)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/2/a)

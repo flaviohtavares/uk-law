@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Constitution of schools forums[^key-abab5432ef0dc3403a1bc7e5e9899a69]
+## 165. Constitution of schools forums[^c-abab5432ef0dc3403a1bc7e5e9899a69]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) For subsection (1) substitute—
 
-> (1) Every local authority[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6] must, in accordance with regulations, establish for their area a body to be known as a schools forum.
+> (1) Every local authority[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6] must, in accordance with regulations, establish for their area a body to be known as a schools forum.
 
 (3) After subsection (4) insert—
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-abab5432ef0dc3403a1bc7e5e9899a69]: Commencement: S. 165 in force at 26.1.2009 for E. by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 5(b)](https://www.legislation.gov.uk/uksi/2008/3077/article/5/b)
+[^c-abab5432ef0dc3403a1bc7e5e9899a69]: Commencement: S. 165 in force at 26.1.2009 for E. by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 5(b)](https://www.legislation.gov.uk/uksi/2008/3077/article/5/b)
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

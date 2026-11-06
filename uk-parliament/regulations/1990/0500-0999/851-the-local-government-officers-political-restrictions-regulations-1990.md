@@ -45,27 +45,27 @@ Coming into force
 
 1st May 1990
 
-The Secretary of State for the Environment, as respects England, the Secretary of State for Scotland, as respects Scotland and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred upon them by section 1(5) and (6) of the Local Government and Housing Act 1989[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:[^key-557d651fbb66c8e17abe1ea5e6ea8982]
+The Secretary of State for the Environment, as respects England, the Secretary of State for Scotland, as respects Scotland and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred upon them by section 1(5) and (6) of the Local Government and Housing Act 1989[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:[^c-557d651fbb66c8e17abe1ea5e6ea8982]
 
-## 1. Citation and commencement[^key-e592e92f73363cdfb67d790ba031c9a9]
+## 1. Citation and commencement[^c-e592e92f73363cdfb67d790ba031c9a9]
 
 These Regulations may be cited as the Local Government Officers (Political Restrictions) Regulations 1990 and shall come into force on 1st May 1990.
 
-## 2. Interpretation[^key-e033594e1e59765202e8b39d775dbd77]
+## 2. Interpretation[^c-e033594e1e59765202e8b39d775dbd77]
 
 In these Regulations—
 
 - “the Act” means the Local Government and Housing Act 1989;
-- “Deputy Mayor for Fire” means a person appointed under section 67(1)(b) of the Greater London Authority Act 1999 as the Deputy Mayor for Fire, or appointed under that section and designated as the Deputy Mayor for Fire;[^key-8c8d554898914712faecfd2a059934db]
-- “Deputy Mayor for Policing and Crime” means a person appointed under section 19(1) of the Police Reform and Social Responsibility Act 2011;[^key-0a4bd1fa72fdab5021957c4169eb4cfe]
-- “[^key-011018774b26b23d243f3cff76710cf4]**local authority**” includes a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021;
+- “Deputy Mayor for Fire” means a person appointed under section 67(1)(b) of the Greater London Authority Act 1999 as the Deputy Mayor for Fire, or appointed under that section and designated as the Deputy Mayor for Fire;[^c-8c8d554898914712faecfd2a059934db]
+- “Deputy Mayor for Policing and Crime” means a person appointed under section 19(1) of the Police Reform and Social Responsibility Act 2011;[^c-0a4bd1fa72fdab5021957c4169eb4cfe]
+- “[^c-011018774b26b23d243f3cff76710cf4]**local authority**” includes a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021;
 - references to the appointee are references to a person holding such a post as is mentioned in regulation 3(1) and references to the holding of an appointment shall be construed accordingly;
-- references to a political party do not include references to an organisation whose objects relate solely to matters arising in, or connected with, a state which is not the United Kingdom[^key-8528ef812a1d1256d5bd253cf4776bd3]; and
+- references to a political party do not include references to an organisation whose objects relate solely to matters arising in, or connected with, a state which is not the United Kingdom[^c-8528ef812a1d1256d5bd253cf4776bd3]; and
 - references to speaking to the public include references to the giving of an interview which, to the knowledge of the person giving it, is likely to result in the publication of statements made, or opinions expressed, during the course of the interview.
 
-## 3. Terms of appointment and conditions of employment[^key-41b31e9e07ced9803b35695e113b3831]
+## 3. Terms of appointment and conditions of employment[^c-41b31e9e07ced9803b35695e113b3831]
 
-(1) Subject to paragraphs (3), (4) and (5)[^key-3e35945acb3a891cde0854a949c0e06f][^key-1434141abe67fb548841e4d49eb92d34], the terms of appointment and conditions of employment of every person holding a politically restricted post under a local authority (including persons appointed to such posts before the coming into force of these Regulations) shall be deemed to incorporate—
+(1) Subject to paragraphs (3), (4) and (5)[^c-3e35945acb3a891cde0854a949c0e06f][^c-1434141abe67fb548841e4d49eb92d34], the terms of appointment and conditions of employment of every person holding a politically restricted post under a local authority (including persons appointed to such posts before the coming into force of these Regulations) shall be deemed to incorporate—
 
 - (a) in all cases, the terms and conditions set out in Part I of the Schedule hereto;
 - (b) in the case of persons appointed otherwise than pursuant to section 9 of the Act (political assistants), the further terms and conditions set out in Part II of that Schedule; and
@@ -73,13 +73,13 @@ In these Regulations—
 
 (2) The terms and conditions referred to in paragraph (1)(a) to (c) apply to the appointee at all times while he holds his appointment.
 
-(3 (Extent: E))[^key-0b645540501fb42731bb3ad295c02e7d] Paragraphs *(Extent: E)* , 1(c)[^key-a7f8df4f61da38da9652ab4fc2bc306d] *(Extent: E)* 4, 5, 6, 7 and 8 of the Schedule do not apply where the appointee is the Deputy Mayor for Policing and Crime. *(Extent: E)*
+(3 (Extent: E))[^c-0b645540501fb42731bb3ad295c02e7d] Paragraphs *(Extent: E)* , 1(c)[^c-a7f8df4f61da38da9652ab4fc2bc306d] *(Extent: E)* 4, 5, 6, 7 and 8 of the Schedule do not apply where the appointee is the Deputy Mayor for Policing and Crime. *(Extent: E)*
 
-(4 (Extent: E))[^key-645edb0852bf392437c04995b1a679ce] In relation to a member of staff of a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 paragraph (1) only applies to a person who holds a post listed in section 2(1)(a) to (e) of the Act. *(Extent: E)*
+(4 (Extent: E))[^c-645edb0852bf392437c04995b1a679ce] In relation to a member of staff of a fire and rescue authority created by an order under section 4A of the Fire and Rescue Services Act 2004 paragraph (1) only applies to a person who holds a post listed in section 2(1)(a) to (e) of the Act. *(Extent: E)*
 
-(5 (Extent: E))[^key-1c687d1081e074da144c2b578bd49986] Paragraphs 1(c) and 4, 5, 6, 7 and 8 of the Schedule do not apply where the appointee is the Deputy Mayor for Fire. *(Extent: E)*
+(5 (Extent: E))[^c-1c687d1081e074da144c2b578bd49986] Paragraphs 1(c) and 4, 5, 6, 7 and 8 of the Schedule do not apply where the appointee is the Deputy Mayor for Fire. *(Extent: E)*
 
-## 4. Incidental and supplementary provisions[^key-94d8f012be3376b8a4cc77eefc9f37b3]
+## 4. Incidental and supplementary provisions[^c-94d8f012be3376b8a4cc77eefc9f37b3]
 
 In determining whether a person is in breach of a term or condition set out in Part II of the Schedule hereto, regard shall be had, in particular, to the following matters—
 
@@ -110,33 +110,33 @@ Regulation 3
 
 ### PART I — GENERAL
 
-**1.**[^key-9deb2f40320de19c28cbc1028034e6b3] The appointee shall not announce or cause, authorise or permit anyone else to announce that he is, or intends to be, a candidate for election as a member of—
+**1.**[^c-9deb2f40320de19c28cbc1028034e6b3] The appointee shall not announce or cause, authorise or permit anyone else to announce that he is, or intends to be, a candidate for election as a member of—
 
 - (a) the House of Commons;
 
 *Extent: E+S*
 
-- (aa)[^key-d9f73d432b25f66a2e3e2cdb0c3f11fd] the Scottish Parliament;
+- (aa)[^c-d9f73d432b25f66a2e3e2cdb0c3f11fd] the Scottish Parliament;
 
 *Extent: E*
 
-- (ab)[^key-8b44ea66dc6a125368a76e97f15b9a9f] the Welsh Assembly; the National Assembly for Wales; *(Extent: W)*[^key-7392ebf5654f5c72d621a459ab2255f5]
-- (b)[^key-16bc4608dd358f5746f492793300acb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
+- (ab)[^c-8b44ea66dc6a125368a76e97f15b9a9f] the Welsh Assembly; the National Assembly for Wales; *(Extent: W)*[^c-7392ebf5654f5c72d621a459ab2255f5]
+- (b)[^c-16bc4608dd358f5746f492793300acb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
 - (c) a local authority within the meaning of section 21(1) or (2) of the Act.
 
 *Extent: S*
 
-**1A.**[^key-24c5412e12cab0a14bdb276c5aad12cd] Where prior to 1st January 1999 an announcement has been made that the appointee is, or intends to be, a candidate for election as a member of the Scottish Parliament at the first ordinary general election for membership of that Parliament, the appointee shall not act, or continue to act, as such a candidate.
+**1A.**[^c-24c5412e12cab0a14bdb276c5aad12cd] Where prior to 1st January 1999 an announcement has been made that the appointee is, or intends to be, a candidate for election as a member of the Scottish Parliament at the first ordinary general election for membership of that Parliament, the appointee shall not act, or continue to act, as such a candidate.
 
 *Extent: E+W*
 
-**1B (Extent: E).**[^key-562efb70903c71e4940d9ccebec1a6f9] Where prior to *(Extent: E)* 1st April 1999 *(Extent: E)* an announcement has been made that the appointee is, or intends to be, a candidate for election as a member of the Scottish Parliament at the first ordinary general election for membership of that Parliament, the appointee shall not act, or continue to act, as such a candidate. *(Extent: E)*
+**1B (Extent: E).**[^c-562efb70903c71e4940d9ccebec1a6f9] Where prior to *(Extent: E)* 1st April 1999 *(Extent: E)* an announcement has been made that the appointee is, or intends to be, a candidate for election as a member of the Scottish Parliament at the first ordinary general election for membership of that Parliament, the appointee shall not act, or continue to act, as such a candidate. *(Extent: E)*
 
 *Extent: E+W*
 
 **1C (Extent: E).** Where prior to *(Extent: E)* 1st April 1999 *(Extent: E)* an announcement has been made that the appointee is, or intends to be, a candidate for election as a member of the Welsh Assembly at the first ordinary general election for membership of that Assembly, the appointee shall not act, or continue to act, as such a candidate. *(Extent: E)*
 
-**2.**[^key-22ff47b1e2d4766536f8e095e0b32e87] (1) Notwithstanding any contrary provision in his terms of appointment or his contract of employment, upon the appointee giving notice in writing to the local authority under which he holds his appointment that he wishes to resign his appointment because he intends to announce or cause, authorise or permit anyone else to announce that he is, or intends to be, a candidate for election to the House of Commons at a pending election, his appointment shall terminate forthwith.
+**2.**[^c-22ff47b1e2d4766536f8e095e0b32e87] (1) Notwithstanding any contrary provision in his terms of appointment or his contract of employment, upon the appointee giving notice in writing to the local authority under which he holds his appointment that he wishes to resign his appointment because he intends to announce or cause, authorise or permit anyone else to announce that he is, or intends to be, a candidate for election to the House of Commons at a pending election, his appointment shall terminate forthwith.
 
 (2) For the purposes of this paragraph an election shall be taken to be pending—
 
@@ -145,11 +145,11 @@ Regulation 3
 
 *Extent: S*
 
-**2A.**[^key-9a423b61161d630e56777893ab68fa68] Notwithstanding any contrary provision in his terms of appointment or his contract of employment, upon the appointee giving notice in writing to the local authority under which he holds his appointment that he wishes to resign his appointment because he intends to become, or to continue to act as, a candidate for election as a member of the Scottish Parliament at the first ordinary general election for membership of that Parliament, his appointment shall terminate forthwith.
+**2A.**[^c-9a423b61161d630e56777893ab68fa68] Notwithstanding any contrary provision in his terms of appointment or his contract of employment, upon the appointee giving notice in writing to the local authority under which he holds his appointment that he wishes to resign his appointment because he intends to become, or to continue to act as, a candidate for election as a member of the Scottish Parliament at the first ordinary general election for membership of that Parliament, his appointment shall terminate forthwith.
 
 *Extent: E+W*
 
-**2B (Extent: E).**[^key-a49a75368b62aeb55c82eb478687ec09] Notwithstanding any contrary provision in his terms of appointment or his contract of employment, upon the appointee giving notice in writing to the local authority under which he holds his appointment that he wishes to resign his appointment because he intends to become, or to continue as, a candidate for election as a member of the Scottish Parliament at the first ordinary general election for membership of that Parliament, his appointment shall terminate forthwith. *(Extent: E)*
+**2B (Extent: E).**[^c-a49a75368b62aeb55c82eb478687ec09] Notwithstanding any contrary provision in his terms of appointment or his contract of employment, upon the appointee giving notice in writing to the local authority under which he holds his appointment that he wishes to resign his appointment because he intends to become, or to continue as, a candidate for election as a member of the Scottish Parliament at the first ordinary general election for membership of that Parliament, his appointment shall terminate forthwith. *(Extent: E)*
 
 *Extent: E+W*
 
@@ -157,22 +157,22 @@ Regulation 3
 
 *Extent: E+W*
 
-**2D (Extent: W).**[^key-18186a6f8e54291971010de15028a9ee] Notwithstanding any contrary provision in his terms of appointment or his contract of employment, upon the appointee giving notice in writing to the local authority under which he holds his appointment that he wishes to resign his appointment because he intends to announce or cause, authorise or permit anyone else to announce that he is, or intends to be a candidate for election as a member of the National Assembly for Wales, his appointment shall terminate forthwith. *(Extent: W)*
+**2D (Extent: W).**[^c-18186a6f8e54291971010de15028a9ee] Notwithstanding any contrary provision in his terms of appointment or his contract of employment, upon the appointee giving notice in writing to the local authority under which he holds his appointment that he wishes to resign his appointment because he intends to announce or cause, authorise or permit anyone else to announce that he is, or intends to be a candidate for election as a member of the National Assembly for Wales, his appointment shall terminate forthwith. *(Extent: W)*
 
-**3.**[^key-3394a496fbdb8f7993b2077ef5fb9e1a] The appointee shall not act as an election agent or sub-agent within the meaning of section 67 or section 68 of the Representation of the People Act 1983[^f00003] for a candidate for election as a member of a body mentioned in paragraph 1.
+**3.**[^c-3394a496fbdb8f7993b2077ef5fb9e1a] The appointee shall not act as an election agent or sub-agent within the meaning of section 67 or section 68 of the Representation of the People Act 1983[^f00003] for a candidate for election as a member of a body mentioned in paragraph 1.
 
-**4.**[^key-1448ef648fcd6539128878f1d75cf51d] The appointee shall not be an officer of a political party or of any branch of such a party or a member of any committee or sub-committee of such a party or branch if his duties as such an officer or member would be likely to require him—
+**4.**[^c-1448ef648fcd6539128878f1d75cf51d] The appointee shall not be an officer of a political party or of any branch of such a party or a member of any committee or sub-committee of such a party or branch if his duties as such an officer or member would be likely to require him—
 
 - (a) to participate in the general management of the party or the branch; or
 - (b) to act on behalf of the party or branch in dealings with persons other than members of the party or members of another political party associated with the party.
 
-**5.**[^key-3d87b6d08ebc2151d575e00ba6fa0725] The appointee shall not canvass on behalf of a political party or on behalf of a person who is, or proposes to be, a candidate for election to any of the bodies mentioned in paragraph 1.
+**5.**[^c-3d87b6d08ebc2151d575e00ba6fa0725] The appointee shall not canvass on behalf of a political party or on behalf of a person who is, or proposes to be, a candidate for election to any of the bodies mentioned in paragraph 1.
 
 ### PART II — ADDITIONAL TERMS AND CONDITIONS IN THE CASE OF OFFICERS NOT APPOINTED UNDER SECTION 9 OF THE ACT
 
-**6.**[^key-22697ed1add93ca1fb792c8fa023d2ae] The appointee shall not speak to the public at large or to a section of the public with the apparent intention of affecting public support for a political party.
+**6.**[^c-22697ed1add93ca1fb792c8fa023d2ae] The appointee shall not speak to the public at large or to a section of the public with the apparent intention of affecting public support for a political party.
 
-**7.**[^key-d0f2e10dd3f4885f6d635de15977d34c] (1) The appointee shall not—
+**7.**[^c-d0f2e10dd3f4885f6d635de15977d34c] (1) The appointee shall not—
 
 - (a) publish any written or artistic work of which he is the author (or one of the authors) or any written work or collection of artistic works in relation to which he has acted in an editorial capacity; or
 - (b) cause, authorise or permit any other person to publish such a work or collection,
@@ -181,13 +181,13 @@ if the work appears to be intended to affect public support for a political part
 
 (2) Sub-paragraph (1) only applies to publication to the public at large or to a section of the public; and nothing in that sub-paragraph shall preclude the display of a poster or other document on property occupied by the appointee as his dwelling or on a vehicle or article used by him.
 
-**8.**[^key-ed275946c95c9887d025969b6cba7eee] Nothing in paragraph 6 or 7 shall be construed as precluding the appointee from engaging in the activities there mentioned to such extent as is necessary for the proper performance of his official duties.
+**8.**[^c-ed275946c95c9887d025969b6cba7eee] Nothing in paragraph 6 or 7 shall be construed as precluding the appointee from engaging in the activities there mentioned to such extent as is necessary for the proper performance of his official duties.
 
 ### PART III — FURTHER TERMS AND CONDITIONS IN THE CASE OF OFFICERS APPOINTED UNDER SECTION 9 OF THE ACT
 
-**9.**[^key-628228330fcf154bed650ff800ef8c52] The appointee shall not speak to the public at large or to a section of the public in circumstances or terms which are likely to create the impression that he is speaking as an authorised representative of a political party, whether he is so authorised or not.
+**9.**[^c-628228330fcf154bed650ff800ef8c52] The appointee shall not speak to the public at large or to a section of the public in circumstances or terms which are likely to create the impression that he is speaking as an authorised representative of a political party, whether he is so authorised or not.
 
-**10.**[^key-daff92bbeed04386ced41b0e78361708] The appointee shall not publish any written or artistic work of which he is the author (or one of the authors) or any written work or collection of artistic works in relation to which he has acted in an editorial capacity or cause, authorise or permit any other person to publish such a work or collection in circumstances which are likely to create the impression that the publication is authorised by a political party, whether or not it is so authorised.
+**10.**[^c-daff92bbeed04386ced41b0e78361708] The appointee shall not publish any written or artistic work of which he is the author (or one of the authors) or any written work or collection of artistic works in relation to which he has acted in an editorial capacity or cause, authorise or permit any other person to publish such a work or collection in circumstances which are likely to create the impression that the publication is authorised by a political party, whether or not it is so authorised.
 
 (This note is not part of the Regulations)
 
@@ -199,72 +199,72 @@ The restrictions take the form of terms and conditions that are deemed to be inc
 
 [^f00001]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-557d651fbb66c8e17abe1ea5e6ea8982]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1990/851) applied (temp.) (S.) (6.4.1995 for the period prior to 1.4.1996) by [The Local Government (Application of Enactments) (Scotland) Order 1995 (S.I. 1995/789)](https://www.legislation.gov.uk/uksi/1995/789), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1995/789/article/1/1), [2](https://www.legislation.gov.uk/uksi/1995/789/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1995/789/schedule)
+[^c-557d651fbb66c8e17abe1ea5e6ea8982]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1990/851) applied (temp.) (S.) (6.4.1995 for the period prior to 1.4.1996) by [The Local Government (Application of Enactments) (Scotland) Order 1995 (S.I. 1995/789)](https://www.legislation.gov.uk/uksi/1995/789), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1995/789/article/1/1), [2](https://www.legislation.gov.uk/uksi/1995/789/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1995/789/schedule)
 
-[^key-e592e92f73363cdfb67d790ba031c9a9]: Commencement: Reg. 1 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
+[^c-e592e92f73363cdfb67d790ba031c9a9]: Commencement: Reg. 1 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
 
-[^key-e033594e1e59765202e8b39d775dbd77]: Commencement: Reg. 2 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
+[^c-e033594e1e59765202e8b39d775dbd77]: Commencement: Reg. 2 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
 
-[^key-8c8d554898914712faecfd2a059934db]: Textual amendment: Words in reg. 2 inserted (E.) (22.3.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/3), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/3/2)
+[^c-8c8d554898914712faecfd2a059934db]: Textual amendment: Words in reg. 2 inserted (E.) (22.3.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/3), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/3/2)
 
-[^key-0a4bd1fa72fdab5021957c4169eb4cfe]: Textual amendment: Words in reg. 2 inserted (E.) (6.8.2012) by [The Local Government Officers (Political Restrictions) (Amendment) (England) Regulations 2012 (S.I. 2012/1772)](https://www.legislation.gov.uk/uksi/2012/1772), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1772/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/1772/regulation/2/2)
+[^c-0a4bd1fa72fdab5021957c4169eb4cfe]: Textual amendment: Words in reg. 2 inserted (E.) (6.8.2012) by [The Local Government Officers (Political Restrictions) (Amendment) (England) Regulations 2012 (S.I. 2012/1772)](https://www.legislation.gov.uk/uksi/2012/1772), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1772/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/1772/regulation/2/2)
 
-[^key-011018774b26b23d243f3cff76710cf4]: Textual amendment: Words in reg. 2 inserted (W.) (2.10.2023) by [The Local Government Officers (Political Restrictions) (Amendment) (Wales) Regulations 2023 (S.I. 2023/944)](https://www.legislation.gov.uk/wsi/2023/944), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/944/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2023/944/regulation/3)
+[^c-011018774b26b23d243f3cff76710cf4]: Textual amendment: Words in reg. 2 inserted (W.) (2.10.2023) by [The Local Government Officers (Political Restrictions) (Amendment) (Wales) Regulations 2023 (S.I. 2023/944)](https://www.legislation.gov.uk/wsi/2023/944), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/944/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2023/944/regulation/3)
 
-[^key-8528ef812a1d1256d5bd253cf4776bd3]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/5/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-8528ef812a1d1256d5bd253cf4776bd3]: Textual amendment: Words in reg. 2 substituted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/5/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-41b31e9e07ced9803b35695e113b3831]: Commencement: Reg. 3 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
+[^c-41b31e9e07ced9803b35695e113b3831]: Commencement: Reg. 3 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
 
-[^key-3e35945acb3a891cde0854a949c0e06f]: Textual amendment: Words in reg. 3(1) substituted (E.) (22.3.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/3), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/3/3/a)
+[^c-3e35945acb3a891cde0854a949c0e06f]: Textual amendment: Words in reg. 3(1) substituted (E.) (22.3.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/3), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/3/3/a)
 
-[^key-1434141abe67fb548841e4d49eb92d34]: Textual amendment: Words in reg. 3(1) substituted (E.) (6.8.2012) by [The Local Government Officers (Political Restrictions) (Amendment) (England) Regulations 2012 (S.I. 2012/1772)](https://www.legislation.gov.uk/uksi/2012/1772), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1772/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1772/regulation/2/3/a)
+[^c-1434141abe67fb548841e4d49eb92d34]: Textual amendment: Words in reg. 3(1) substituted (E.) (6.8.2012) by [The Local Government Officers (Political Restrictions) (Amendment) (England) Regulations 2012 (S.I. 2012/1772)](https://www.legislation.gov.uk/uksi/2012/1772), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1772/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2012/1772/regulation/2/3/a)
 
-[^key-0b645540501fb42731bb3ad295c02e7d]: Textual amendment: Reg. 3(3) inserted (E.) (6.8.2012) by [The Local Government Officers (Political Restrictions) (Amendment) (England) Regulations 2012 (S.I. 2012/1772)](https://www.legislation.gov.uk/uksi/2012/1772), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1772/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1772/regulation/2/3/b)
+[^c-0b645540501fb42731bb3ad295c02e7d]: Textual amendment: Reg. 3(3) inserted (E.) (6.8.2012) by [The Local Government Officers (Political Restrictions) (Amendment) (England) Regulations 2012 (S.I. 2012/1772)](https://www.legislation.gov.uk/uksi/2012/1772), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1772/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2012/1772/regulation/2/3/b)
 
-[^key-a7f8df4f61da38da9652ab4fc2bc306d]: Textual amendment: Word in reg. 3(3) inserted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/3/2)
+[^c-a7f8df4f61da38da9652ab4fc2bc306d]: Textual amendment: Word in reg. 3(3) inserted (E.) (1.4.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/269/regulation/3/2)
 
-[^key-645edb0852bf392437c04995b1a679ce]: Textual amendment: Reg. 3(4) inserted (E.) (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [Sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/863/schedule/2/paragraph/1/2/b)
+[^c-645edb0852bf392437c04995b1a679ce]: Textual amendment: Reg. 3(4) inserted (E.) (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [Sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/863/schedule/2/paragraph/1/2/b)
 
-[^key-1c687d1081e074da144c2b578bd49986]: Textual amendment: Reg. 3(5) inserted (E.) (22.3.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/3), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/3/3/b)
+[^c-1c687d1081e074da144c2b578bd49986]: Textual amendment: Reg. 3(5) inserted (E.) (22.3.2018) by [The London Government (London Fire Commissioner and Policing) (Amendment) Regulations 2018 (S.I. 2018/269)](https://www.legislation.gov.uk/uksi/2018/269), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/269/regulation/1/3), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2018/269/schedule/paragraph/3/3/b)
 
-[^key-94d8f012be3376b8a4cc77eefc9f37b3]: Commencement: Reg. 4 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
+[^c-94d8f012be3376b8a4cc77eefc9f37b3]: Commencement: Reg. 4 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
 
-[^key-9deb2f40320de19c28cbc1028034e6b3]: Commencement: Sch. para. 1 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
+[^c-9deb2f40320de19c28cbc1028034e6b3]: Commencement: Sch. para. 1 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
 
-[^key-d9f73d432b25f66a2e3e2cdb0c3f11fd]: Textual amendment: Sch. para. 1(aa) inserted (S.) (1.1.1999) by [The Local Government Officers (Political Restrictions) Amendment Regulations 1998 (S.I. 1998/3116)](https://www.legislation.gov.uk/uksi/1998/3116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/1/3)) and (E.) (1.4.1999) by [The Local Government Officers (Political Restrictions) (Amendment) Regulations 1999 (S.I. 1999/715)](https://www.legislation.gov.uk/uksi/1999/715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1999/715/regulation/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/2))
+[^c-d9f73d432b25f66a2e3e2cdb0c3f11fd]: Textual amendment: Sch. para. 1(aa) inserted (S.) (1.1.1999) by [The Local Government Officers (Political Restrictions) Amendment Regulations 1998 (S.I. 1998/3116)](https://www.legislation.gov.uk/uksi/1998/3116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/2/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/1/3)) and (E.) (1.4.1999) by [The Local Government Officers (Political Restrictions) (Amendment) Regulations 1999 (S.I. 1999/715)](https://www.legislation.gov.uk/uksi/1999/715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1999/715/regulation/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/2))
 
-[^key-8b44ea66dc6a125368a76e97f15b9a9f]: Textual amendment: Sch. para. 1(ab) inserted (E.) (1.4.1999) by [The Local Government Officers (Political Restrictions) (Amendment) Regulations 1999 (S.I. 1999/715)](https://www.legislation.gov.uk/uksi/1999/715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1999/715/regulation/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/2))
+[^c-8b44ea66dc6a125368a76e97f15b9a9f]: Textual amendment: Sch. para. 1(ab) inserted (E.) (1.4.1999) by [The Local Government Officers (Political Restrictions) (Amendment) Regulations 1999 (S.I. 1999/715)](https://www.legislation.gov.uk/uksi/1999/715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1999/715/regulation/2/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/2))
 
-[^key-7392ebf5654f5c72d621a459ab2255f5]: Textual amendment: Sch. para. 1(ab) inserted (W.) (7.7.1999) by [The Local Government Officers (Political Restrictions) (Wales) (Amendment) Regulations 1999 (S.I. 1999/1665)](https://www.legislation.gov.uk/uksi/1999/1665), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/1665/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1999/1665/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/1665/regulation/1/2))
+[^c-7392ebf5654f5c72d621a459ab2255f5]: Textual amendment: Sch. para. 1(ab) inserted (W.) (7.7.1999) by [The Local Government Officers (Political Restrictions) (Wales) (Amendment) Regulations 1999 (S.I. 1999/1665)](https://www.legislation.gov.uk/uksi/1999/1665), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/1665/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1999/1665/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/1665/regulation/1/2))
 
-[^key-16bc4608dd358f5746f492793300acb9]: Textual amendment: Sch. para. 1(b) omitted (31.12.2020) by virtue of [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/5/3) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-16bc4608dd358f5746f492793300acb9]: Textual amendment: Sch. para. 1(b) omitted (31.12.2020) by virtue of [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/5/3) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-24c5412e12cab0a14bdb276c5aad12cd]: Textual amendment: Sch. para. 1A inserted (S.) (1.1.1999) by [The Local Government Officers (Political Restrictions) Amendment Regulations 1998 (S.I. 1998/3116)](https://www.legislation.gov.uk/uksi/1998/3116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/1/3))
+[^c-24c5412e12cab0a14bdb276c5aad12cd]: Textual amendment: Sch. para. 1A inserted (S.) (1.1.1999) by [The Local Government Officers (Political Restrictions) Amendment Regulations 1998 (S.I. 1998/3116)](https://www.legislation.gov.uk/uksi/1998/3116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/1/3))
 
-[^key-562efb70903c71e4940d9ccebec1a6f9]: Textual amendment: Sch. paras. 1B, 1C inserted (E.) (1.4.1999) by [The Local Government Officers (Political Restrictions) (Amendment) Regulations 1999 (S.I. 1999/715)](https://www.legislation.gov.uk/uksi/1999/715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/1999/715/regulation/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/2))
+[^c-562efb70903c71e4940d9ccebec1a6f9]: Textual amendment: Sch. paras. 1B, 1C inserted (E.) (1.4.1999) by [The Local Government Officers (Political Restrictions) (Amendment) Regulations 1999 (S.I. 1999/715)](https://www.legislation.gov.uk/uksi/1999/715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/1999/715/regulation/2/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/2))
 
-[^key-22ff47b1e2d4766536f8e095e0b32e87]: Commencement: Sch. para. 2 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
+[^c-22ff47b1e2d4766536f8e095e0b32e87]: Commencement: Sch. para. 2 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
 
-[^key-9a423b61161d630e56777893ab68fa68]: Textual amendment: Sch. para. 2A inserted (S.) (1.1.1999) by [The Local Government Officers (Political Restrictions) Amendment Regulations 1998 (S.I. 1998/3116)](https://www.legislation.gov.uk/uksi/1998/3116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/2/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/1/3))
+[^c-9a423b61161d630e56777893ab68fa68]: Textual amendment: Sch. para. 2A inserted (S.) (1.1.1999) by [The Local Government Officers (Political Restrictions) Amendment Regulations 1998 (S.I. 1998/3116)](https://www.legislation.gov.uk/uksi/1998/3116), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/2/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/1998/3116/regulation/1/3))
 
-[^key-a49a75368b62aeb55c82eb478687ec09]: Textual amendment: Sch. paras. 2B, 2C inserted (E.) (1.4.1999) by [The Local Government Officers (Political Restrictions) (Amendment) Regulations 1999 (S.I. 1999/715)](https://www.legislation.gov.uk/uksi/1999/715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/1999/715/regulation/2/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/2))
+[^c-a49a75368b62aeb55c82eb478687ec09]: Textual amendment: Sch. paras. 2B, 2C inserted (E.) (1.4.1999) by [The Local Government Officers (Political Restrictions) (Amendment) Regulations 1999 (S.I. 1999/715)](https://www.legislation.gov.uk/uksi/1999/715), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/1999/715/regulation/2/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/715/regulation/1/2))
 
-[^key-18186a6f8e54291971010de15028a9ee]: Textual amendment: Sch. para. 2D inserted (W.) (7.7.1999) by [The Local Government Officers (Political Restrictions) (Wales) (Amendment) Regulations 1999 (S.I. 1999/1665)](https://www.legislation.gov.uk/uksi/1999/1665), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/1665/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/1999/1665/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/1665/regulation/1/2))
+[^c-18186a6f8e54291971010de15028a9ee]: Textual amendment: Sch. para. 2D inserted (W.) (7.7.1999) by [The Local Government Officers (Political Restrictions) (Wales) (Amendment) Regulations 1999 (S.I. 1999/1665)](https://www.legislation.gov.uk/uksi/1999/1665), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/1665/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/1999/1665/regulation/2/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/1665/regulation/1/2))
 
-[^key-3394a496fbdb8f7993b2077ef5fb9e1a]: Commencement: Sch. para. 3 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
+[^c-3394a496fbdb8f7993b2077ef5fb9e1a]: Commencement: Sch. para. 3 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
 
 [^f00003]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 
-[^key-1448ef648fcd6539128878f1d75cf51d]: Commencement: Sch. para. 4 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
+[^c-1448ef648fcd6539128878f1d75cf51d]: Commencement: Sch. para. 4 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
 
-[^key-3d87b6d08ebc2151d575e00ba6fa0725]: Commencement: Sch. para. 5 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
+[^c-3d87b6d08ebc2151d575e00ba6fa0725]: Commencement: Sch. para. 5 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
 
-[^key-22697ed1add93ca1fb792c8fa023d2ae]: Commencement: Sch. para. 6 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
+[^c-22697ed1add93ca1fb792c8fa023d2ae]: Commencement: Sch. para. 6 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
 
-[^key-d0f2e10dd3f4885f6d635de15977d34c]: Commencement: Sch. para. 7 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
+[^c-d0f2e10dd3f4885f6d635de15977d34c]: Commencement: Sch. para. 7 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
 
-[^key-ed275946c95c9887d025969b6cba7eee]: Commencement: Sch. para. 8 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
+[^c-ed275946c95c9887d025969b6cba7eee]: Commencement: Sch. para. 8 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
 
-[^key-628228330fcf154bed650ff800ef8c52]: Commencement: Sch. para. 9 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
+[^c-628228330fcf154bed650ff800ef8c52]: Commencement: Sch. para. 9 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
 
-[^key-daff92bbeed04386ced41b0e78361708]: Commencement: Sch. para. 10 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)
+[^c-daff92bbeed04386ced41b0e78361708]: Commencement: Sch. para. 10 in force at 1.5.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1990/851/regulation/1)

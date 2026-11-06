@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Power to grant licences[^key-bee99b7ee4a1978d72793bf4e7dad72b]
+## 7. Power to grant licences[^c-bee99b7ee4a1978d72793bf4e7dad72b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bee99b7ee4a1978d72793bf4e7dad72b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/52/section/7) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-bee99b7ee4a1978d72793bf4e7dad72b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/52/section/7) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

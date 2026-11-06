@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 486B. Disguised interest to be regarded as profit from loan relationship[^key-d2c098ff5a88d27bc5ce87b60d28df9c][^key-95c1fbd74622548679c7f1d3760fe55c]
+## 486B. Disguised interest to be regarded as profit from loan relationship[^c-d2c098ff5a88d27bc5ce87b60d28df9c][^c-95c1fbd74622548679c7f1d3760fe55c]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 this section applies as if there were a profit arising to such (if any) of them as are companies from a loan relationship of so much of the return as is just and reasonable.
 
-(7)[^key-6e44761928702602f2b67713353d8eae] The only amounts which may be brought into account for corporation tax purposes in relation to a return such as is mentioned in subsection (1) in the case of any company are those which are brought into account in accordance with this section (but see section 486C).
+(7)[^c-6e44761928702602f2b67713353d8eae] The only amounts which may be brought into account for corporation tax purposes in relation to a return such as is mentioned in subsection (1) in the case of any company are those which are brought into account in accordance with this section (but see section 486C).
 
 (8) In subsection (4) “credits” and “debits” include exchange gains and losses arising as a result of translating at different times the carrying value of the return or the amount by reference to which the return falls to be produced.
 
@@ -49,8 +49,8 @@ this section applies as if there were a profit arising to such (if any) of them 
 
 ## Annotations
 
-[^key-d2c098ff5a88d27bc5ce87b60d28df9c]: Textual amendment: Pt. 6 Ch. 2A inserted (with effect in accordance with Sch. 24 paras. 11, 13-16 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/3)
+[^c-d2c098ff5a88d27bc5ce87b60d28df9c]: Textual amendment: Pt. 6 Ch. 2A inserted (with effect in accordance with Sch. 24 paras. 11, 13-16 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 para. 3](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/3)
 
-[^key-95c1fbd74622548679c7f1d3760fe55c]: Modification: Pt. 6 Ch. 2A applied by 2010 c. 8, s. 371SP(2) (as inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1))
+[^c-95c1fbd74622548679c7f1d3760fe55c]: Modification: Pt. 6 Ch. 2A applied by 2010 c. 8, s. 371SP(2) (as inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/1))
 
-[^key-6e44761928702602f2b67713353d8eae]: Modification: S. 486B(7) excluded (19.7.2011) by 1988 c. 1, Sch. 25 para. 12F(6) (as inserted (with effect in accordance with Sch. 12 para. 14(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/3))
+[^c-6e44761928702602f2b67713353d8eae]: Modification: S. 486B(7) excluded (19.7.2011) by 1988 c. 1, Sch. 25 para. 12F(6) (as inserted (with effect in accordance with Sch. 12 para. 14(2) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2011/11/schedule/12/paragraph/3))

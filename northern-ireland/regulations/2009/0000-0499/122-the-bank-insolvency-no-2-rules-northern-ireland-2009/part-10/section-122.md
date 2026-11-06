@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 122. Committee-members’ representatives[^key-5e51858e0c3b6dcb58799cc24ed63de8]
+## 122. Committee-members’ representatives[^c-5e51858e0c3b6dcb58799cc24ed63de8]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5e51858e0c3b6dcb58799cc24ed63de8]: Commencement: Rule 122 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-5e51858e0c3b6dcb58799cc24ed63de8]: Commencement: Rule 122 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
 
 [^f00018]: Footnote: Article 383 is repealed on 1 October 2009

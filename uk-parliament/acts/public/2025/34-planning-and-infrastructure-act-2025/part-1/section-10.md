@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Applications for development consent: costs[^key-32754b56eacb4562b0c23bc2a38104b2]
+## 10. Applications for development consent: costs[^c-32754b56eacb4562b0c23bc2a38104b2]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32754b56eacb4562b0c23bc2a38104b2]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2025/34/section/10) in force at 18.2.2026, see [s. 118(1)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/d)
+[^c-32754b56eacb4562b0c23bc2a38104b2]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2025/34/section/10) in force at 18.2.2026, see [s. 118(1)(d)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/d)

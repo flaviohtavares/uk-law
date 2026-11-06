@@ -16,50 +16,50 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Access to legal advice.[^c11324701][^c11324711][^c18893921][^c18895651][^c19560131][^key-8005bafd2943108d692af160185589ed][^key-e57c745dc3f437729f602d140d9a470b][^key-333b987fdd0ab2e8b961df8882bdfafc]
+## 58. Access to legal advice.[^c11324701][^c11324711][^c18893921][^c18895651][^c19560131][^c-8005bafd2943108d692af160185589ed][^c-e57c745dc3f437729f602d140d9a470b][^c-333b987fdd0ab2e8b961df8882bdfafc]
 
 *Extent: E+W*
 
-(1)[^c11324721][^key-65a932ae8beb519e1e487266d4e8c91b] A person arrested and held in custody in a police station or other premises shall be entitled, if he so requests, to consult a solicitor privately at any time.
+(1)[^c11324721][^c-65a932ae8beb519e1e487266d4e8c91b] A person arrested and held in custody in a police station or other premises shall be entitled, if he so requests, to consult a solicitor privately at any time.
 
-(2)[^c11324721][^key-65a932ae8beb519e1e487266d4e8c91b] Subject to subsection (3) below, a request under subsection (1) above and the time at which it was made shall be recorded in the custody record.
+(2)[^c11324721][^c-65a932ae8beb519e1e487266d4e8c91b] Subject to subsection (3) below, a request under subsection (1) above and the time at which it was made shall be recorded in the custody record.
 
-(3)[^c11324721][^key-65a932ae8beb519e1e487266d4e8c91b] Such a request need not be recorded in the custody record of a person who makes it at a time while he is at a court after being charged with an offence.
+(3)[^c11324721][^c-65a932ae8beb519e1e487266d4e8c91b] Such a request need not be recorded in the custody record of a person who makes it at a time while he is at a court after being charged with an offence.
 
-(4)[^c11324721][^key-65a932ae8beb519e1e487266d4e8c91b] If a person makes such a request, he must be permitted to consult a solicitor as soon as is practicable except to the extent that delay is permitted by this section.
+(4)[^c11324721][^c-65a932ae8beb519e1e487266d4e8c91b] If a person makes such a request, he must be permitted to consult a solicitor as soon as is practicable except to the extent that delay is permitted by this section.
 
-(5)[^c11324721][^key-65a932ae8beb519e1e487266d4e8c91b] In any case he must be permitted to consult a solicitor within 36 hours from the relevant time, as defined in section 41(2) above.
+(5)[^c11324721][^c-65a932ae8beb519e1e487266d4e8c91b] In any case he must be permitted to consult a solicitor within 36 hours from the relevant time, as defined in section 41(2) above.
 
-(6)[^c11324721][^key-65a932ae8beb519e1e487266d4e8c91b] Delay in compliance with a request is only permitted—
+(6)[^c11324721][^c-65a932ae8beb519e1e487266d4e8c91b] Delay in compliance with a request is only permitted—
 
 - (a) in the case of a person who is in police detention for an indictable offence[^c18959841]; and
 - (b) if an officer of at least the rank of superintendent authorises it.
 
-(7)[^c11324721][^key-65a932ae8beb519e1e487266d4e8c91b] An officer may give an authorisation under subsection (6) above orally or in writing but, if he gives it orally, he shall confirm it in writing as soon as is practicable.
+(7)[^c11324721][^c-65a932ae8beb519e1e487266d4e8c91b] An officer may give an authorisation under subsection (6) above orally or in writing but, if he gives it orally, he shall confirm it in writing as soon as is practicable.
 
-(8)[^c11324721][^key-65a932ae8beb519e1e487266d4e8c91b] Subject to sub-section (8A) below[^c11324801] An officer may only authorise delay where he has reasonable grounds for believing that the exercise of the right conferred by subsection (1) above at the time when the person detained desires to exercise it—
+(8)[^c11324721][^c-65a932ae8beb519e1e487266d4e8c91b] Subject to sub-section (8A) below[^c11324801] An officer may only authorise delay where he has reasonable grounds for believing that the exercise of the right conferred by subsection (1) above at the time when the person detained desires to exercise it—
 
 - (a) will lead to interference with or harm to evidence connected with an indictable offence[^c18959881] or interference with or physical injury to other persons; or
 - (b) will lead to the alerting of other persons suspected of having committed such an offence but not yet arrested for it; or
 - (c) will hinder the recovery of any property obtained as a result of such an offence.
 
-(8A)[^key-65a932ae8beb519e1e487266d4e8c91b][^c18893901] An officer may also authorise delay where he has reasonable grounds for believing that—
+(8A)[^c-65a932ae8beb519e1e487266d4e8c91b][^c18893901] An officer may also authorise delay where he has reasonable grounds for believing that—
 
 - (a) the person detained for the indictable offence[^c18959901] has benefited from his criminal conduct, and
 - (b) the recovery of the value of the property constituting the benefit will be hindered by the exercise of the right conferred by subsection (1) above.
 
-(8B)[^key-65a932ae8beb519e1e487266d4e8c91b] For the purposes of subsection (8A) above the question whether a person has benefited from his criminal conduct is to be decided in accordance with Part 2 of the Proceeds of Crime Act 2002.
+(8B)[^c-65a932ae8beb519e1e487266d4e8c91b] For the purposes of subsection (8A) above the question whether a person has benefited from his criminal conduct is to be decided in accordance with Part 2 of the Proceeds of Crime Act 2002.
 
-(9)[^c11324721][^key-65a932ae8beb519e1e487266d4e8c91b] If delay is authorised—
+(9)[^c11324721][^c-65a932ae8beb519e1e487266d4e8c91b] If delay is authorised—
 
 - (a) the detained person shall be told the reasons for it; and
 - (b) the reason shall be noted on his custody record.
 
-(10)[^c11324721][^key-65a932ae8beb519e1e487266d4e8c91b] The duties imposed by subsection (9) above shall be performed as soon as is practicable.
+(10)[^c11324721][^c-65a932ae8beb519e1e487266d4e8c91b] The duties imposed by subsection (9) above shall be performed as soon as is practicable.
 
-(11)[^c11324721][^key-65a932ae8beb519e1e487266d4e8c91b] There may be no further delay in permitting the exercise of the right conferred by subsection (1) above once the reason for authorising delay ceases to subsist.
+(11)[^c11324721][^c-65a932ae8beb519e1e487266d4e8c91b] There may be no further delay in permitting the exercise of the right conferred by subsection (1) above once the reason for authorising delay ceases to subsist.
 
-(12)[^c11324881] Nothing in this section applies to a person arrested or detained under the terrorism provisions or under section 27 of the National Security Act 2023,[^key-3504562b186adb9e3a77e0647153b957] or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^key-6d86c1e7fa18165c5614152fdbf5e614].
+(12)[^c11324881] Nothing in this section applies to a person arrested or detained under the terrorism provisions or under section 27 of the National Security Act 2023,[^c-3504562b186adb9e3a77e0647153b957] or detained under Part 1 of Schedule 3 to the Counter-Terrorism and Border Security Act 2019[^c-6d86c1e7fa18165c5614152fdbf5e614].
 
 ## Annotations
 
@@ -77,15 +77,15 @@ summary: ''
 
 [^c19560131]: Modification: S. 58 applied (with modifications) (31.12.2006) by [The Police and Criminal Evidence Act 1984 (Application to the Armed Forces) Order 2006 (S.I. 2006/2015)](https://www.legislation.gov.uk/uksi/2006/2015), [arts. 2](https://www.legislation.gov.uk/uksi/2006/2015/article/2), [3](https://www.legislation.gov.uk/uksi/2006/2015/article/3), [Schs. 1-3](https://www.legislation.gov.uk/uksi/2006/2015/schedule/1)
 
-[^key-8005bafd2943108d692af160185589ed]: Modification: S. 58 applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1), [12(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1542/article/12/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1542/schedule/2) (with [arts. 13-31](https://www.legislation.gov.uk/uksi/2013/1542/article/13))
+[^c-8005bafd2943108d692af160185589ed]: Modification: S. 58 applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1), [12(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1542/article/12/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1542/schedule/2) (with [arts. 13-31](https://www.legislation.gov.uk/uksi/2013/1542/article/13))
 
-[^key-e57c745dc3f437729f602d140d9a470b]: Modification: S. 58 applied (with modifications) by 1994 c. 33, s. 137D(2)(c) Sch. 7B Pt. 1 (as inserted (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1)[(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/3), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16))
+[^c-e57c745dc3f437729f602d140d9a470b]: Modification: S. 58 applied (with modifications) by 1994 c. 33, s. 137D(2)(c) Sch. 7B Pt. 1 (as inserted (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1)[(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/3), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16))
 
-[^key-333b987fdd0ab2e8b961df8882bdfafc]: Modification: S. 58 applied (with modifications) by 1994 c. 33, s. 137D(2)(c) Sch. 7B Pt. 1 (as inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1)[(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/3), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f))
+[^c-333b987fdd0ab2e8b961df8882bdfafc]: Modification: S. 58 applied (with modifications) by 1994 c. 33, s. 137D(2)(c) Sch. 7B Pt. 1 (as inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1)[(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/3), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f))
 
 [^c11324721]: Modification: S. 58(1)-(11) modified (2.8.1993) by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [art. 6](https://www.legislation.gov.uk/uksi/1993/1813/article/6), [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/uksi/1993/1813/schedule/3/paragraph/3/3).
 
-[^key-65a932ae8beb519e1e487266d4e8c91b]: Modification: S. 58(1)-(11) applied (with modifications) (4.11.2015) by [The Police and Criminal Evidence Act 1984 (Application to Revenue and Customs) Order 2015 (S.I. 2015/1783)](https://www.legislation.gov.uk/uksi/2015/1783), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1783/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1783/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/2), [(3)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/3), [4-19](https://www.legislation.gov.uk/uksi/2015/1783/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1783/schedule/2))
+[^c-65a932ae8beb519e1e487266d4e8c91b]: Modification: S. 58(1)-(11) applied (with modifications) (4.11.2015) by [The Police and Criminal Evidence Act 1984 (Application to Revenue and Customs) Order 2015 (S.I. 2015/1783)](https://www.legislation.gov.uk/uksi/2015/1783), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1783/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1783/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/2), [(3)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/3), [4-19](https://www.legislation.gov.uk/uksi/2015/1783/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1783/schedule/2))
 
 [^c18959841]: Textual amendment: Words in s. 58(6)(a) substituted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 111](https://www.legislation.gov.uk/ukpga/2005/15/section/111), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 7 Pt. 3 para. 43(10)(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/part/3/paragraph/43/10/a); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)
 
@@ -99,6 +99,6 @@ summary: ''
 
 [^c11324881]: Textual amendment: S. 58(12) substituted (19.2.2001) for s. 58(12)-(18) by [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11), [s. 125](https://www.legislation.gov.uk/ukpga/2000/11/section/125), [Sch. 15 para. 5(6)](https://www.legislation.gov.uk/ukpga/2000/11/schedule/15/paragraph/5/6) (with [s. 129(1)](https://www.legislation.gov.uk/ukpga/2000/11/section/129/1)); [S.I. 2000/421](https://www.legislation.gov.uk/uksi/2000/421), [art. 2](https://www.legislation.gov.uk/uksi/2000/421/article/2)
 
-[^key-3504562b186adb9e3a77e0647153b957]: Textual amendment: Words in s. 58(12) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 4(3)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/4/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)
+[^c-3504562b186adb9e3a77e0647153b957]: Textual amendment: Words in s. 58(12) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 18 para. 4(3)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/18/paragraph/4/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)
 
-[^key-6d86c1e7fa18165c5614152fdbf5e614]: Textual amendment: Words in s. 58(12) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 18(4)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/18/4); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)
+[^c-6d86c1e7fa18165c5614152fdbf5e614]: Textual amendment: Words in s. 58(12) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/d), [Sch. 4 para. 18(4)](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/18/4); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/i)

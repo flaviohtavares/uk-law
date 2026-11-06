@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3I — Russia’s vulnerable goods and Russia’s vulnerable technology[^key-2e4a9547b8e09810b10456576915bc82][^key-9004b6143ff9449affb3f893cfd88bc3]
+## SCHEDULE 3I — Russia’s vulnerable goods and Russia’s vulnerable technology[^c-2e4a9547b8e09810b10456576915bc82][^c-9004b6143ff9449affb3f893cfd88bc3]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 21(1)
 
-### Part 1 — General[^key-e3ef5616c33e4fe33777268d3d97b54b]
+### Part 1 — General[^c-e3ef5616c33e4fe33777268d3d97b54b]
 
 **1.** Paragraph 1 of Schedule 3 applies for the purposes of interpreting this Schedule.
 
-**1A.**[^key-e432c28e93fd03410f23291bf454abe3] For the purposes of this Schedule, “**technology**” has the meaning given in paragraph 37 of Schedule 1 to the Act.
+**1A.**[^c-e432c28e93fd03410f23291bf454abe3] For the purposes of this Schedule, “**technology**” has the meaning given in paragraph 37 of Schedule 1 to the Act.
 
 **1B.** Terms printed in quotation marks and not defined in this Schedule have the meaning given to them in Annex I of the Dual-Use Regulation.
 
@@ -38,7 +38,7 @@ Regulation 21(1)
 
 | Commodity code (1) | Description (2) |
 | --- | --- |
-| 4401 21[^key-215352e32991e1e5b0b03c58d03f9559] | Coniferous wood in chips or particles (excluding those of a kind used principally for dying or tanning purposes) |
+| 4401 21[^c-215352e32991e1e5b0b03c58d03f9559] | Coniferous wood in chips or particles (excluding those of a kind used principally for dying or tanning purposes) |
 | 4401 22 10 | Wood in chips or particles, of eucalyptus |
 | 4401 22 90 | Wood in chips or particles (excluding those of a kind used principally for dying or tanning purposes, coniferous wood and eucalyptus) |
 | 4403 11 | Wood in the rough, treated with paint, stains, creosote or other preservatives, coniferous (excluding rough-cut wood for walking sticks, umbrellas, tool shafts and the like; wood in the form of railway sleepers; wood cut into boards or beams, etc.) |
@@ -80,11 +80,11 @@ Regulation 21(1)
 | 4408 90 35 | Small boards for the manufacture of pencils, of wood, of a thickness of \<= 6 mm (excluding tropical and coniferous wood) |
 | 4408 90 85 | Sheets for veneering, including those obtained by slicing laminated wood, for plywood or for other similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not spliced, of a thickness of \<= 1 mm (excluding planed, sanded or end-jointed, and tropical and coniferous wood) |
 | 4408 90 95 | Sheets for veneering, including those obtained by slicing laminated wood, for plywood or for other similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not spliced, of a thickness of > 1 mm (excluding planed, sanded or end-jointed, and tropical and coniferous wood) |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
 | 6804 22 50 | Millstones, grindstones, grinding wheels and the like, without frameworks, for sharpening, polishing, trueing or cutting, of artificial abrasives, with binder of other than of synthetic or artificial resin, ceramics or silicates (excluding of agglomerated synthetic or natural diamond, hand sharpening or polishing stones, perfumed pumice stones, and grinding wheels etc. specifically for dental drill engines) |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
 | 8205 10 | Hand-operated drilling, threading or tapping hand tools |
 | 8205 20 | Hammers and sledge hammers with working parts of base metal |
 | 8205 30 | Planes, chisels, gouges and similar cutting tools for working wood |
@@ -147,29 +147,29 @@ Regulation 21(1)
 | 8419 33 | Dryers - lyophilisation apparatus, freeze drying units and spray dryers |
 | 8419 35 | Other dryers, for wood, paper pulp, paper or paperboard |
 | 8419 39 | Dryers n.e.s. |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
 | 8422 90 90 | Parts of packing or wrapping machinery and of other machinery of heading 8422, n.e.s. (excluding parts of dishwashing machines) |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
 | 8424 20 | Spray guns and similar appliances (other than electrical machines, appliances and other devices for spraying molten metals or metal carbides of heading 8515, sand blasting machines and similar jet projecting machines) |
 | 8424 30 01 | Water cleaning appliances with built-in motor, with heating device |
 | 8424 30 08 | Water cleaning appliances with built-in motor, without heating device |
@@ -384,7 +384,7 @@ Regulation 21(1)
 | 8502 20 80 | Generating sets with spark-ignition internal combustion piston engine, of an output > 750 kVA |
 | 8503 00 10 | Non-magnetic retaining rings for electric motors and electric generating sets |
 | 8503 00 91 | Parts suitable for use solely or principally with electric motors and generators, electric generating sets and rotary converters, n.e.s., of cast iron or cast steel |
-| 8503 00 98[^key-156fda463c1edb0b83e640c737e05e5a] | Parts suitable for use solely or principally with electric motors and generators, electric generating sets and rotary converters, n.e.s. (excluding non-magnetic retaining rings and of cast iron or cast steel) |
+| 8503 00 98[^c-156fda463c1edb0b83e640c737e05e5a] | Parts suitable for use solely or principally with electric motors and generators, electric generating sets and rotary converters, n.e.s. (excluding non-magnetic retaining rings and of cast iron or cast steel) |
 | 8504 10 20 | Inductors, whether or not connected with a capacitor |
 | 8504 10 80 | Ballasts for discharge lamps or tubes (excluding inductors, whether or not connected with a capacitor) |
 | 8504 21 | Liquid dielectric transformers, having a power handling capacity \<= 650 kVA |
@@ -473,7 +473,7 @@ Regulation 21(1)
 | 8541 30 | Thyristors, diacs and triacs (excluding photosensitive semiconductor devices) |
 | 8541 41 | Light-emitting diodes (LED) |
 | 8541 42 | Photovoltaic cells not assembled in modules or made up into panels |
-| 8541 43[^key-688d30d7b81cfbe944b9f8fdbf6e9f97] | Photovoltaic cells assembled in modules or made up into panels |
+| 8541 43[^c-688d30d7b81cfbe944b9f8fdbf6e9f97] | Photovoltaic cells assembled in modules or made up into panels |
 | 8541 49 | Other photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes (LED) |
 | 8541 51 | Semiconductor-based transducers |
 | 8541 59 | Other semiconductor devices – other |
@@ -529,26 +529,26 @@ Regulation 21(1)
 | 9010 90 20 | Parts and accessories of apparatus and equipment of subheadings 9010 50 or 9010 60 , n.e.s. |
 | 9010 90 80 | Parts and accessories for apparatus and equipment for automatically developing photographic or cinematographic film or paper in rolls or for automatically exposing developed film to rolls of photographic paper, n.e.s. |
 | 9015 20 | Theodolites and tachymeters (tacheometers) |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
 | 9024 10 20 | Machines and appliances for universal testing of mechanical properties of metals or for tensile testing of metals |
 | 9024 10 40 | Machines and appliances for testing the hardness of metals |
 | 9024 10 80 | Machines and appliances for testing the mechanical properties of metals (excluding for universal, tensile or hardness testing) |
 | 9024 80 | Machines and appliances for testing the mechanical properties of materials (excluding metals) |
 | 9024 90 | Parts and accessories for machines and appliances for testing the mechanical properties of materials, n.e.s. |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
 | 9026 10 21 | Electronic flow meters for measuring or checking the flow or level of liquids (excluding meters and regulators) |
 | 9026 10 29 | Electronic instruments and apparatus for measuring or checking the flow or level of liquids (excluding flow meters, meters and regulators) |
 | 9026 10 81 | Flow meters for measuring or checking the flow or level of liquids, non-electronic (excluding meters and regulators) |
@@ -562,10 +562,10 @@ Regulation 21(1)
 | 9027 89 10 | Exposure meters |
 | 9027 89 30 | pH meters, rH meters and other apparatus for measuring conductivity |
 | 9027 89 90 | Instruments and apparatus for physical or chemical analysis or for determining surface tension or the like, or for measuring heat or sound, n.e.s. |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
 | 9028 30 90 | Electricity supply or production meters for continuous current, including calibrating meters therefor |
 | 9028 90 10 | Parts and accessories for electricity meters, n.e.s. |
 | 9028 90 90 | Parts and accessories for gas or liquid meters, n.e.s. |
@@ -574,8 +574,8 @@ Regulation 21(1)
 | 9029 2090 | Stroboscopes |
 | 9029 90 | Parts and accessories for revolution counters, production counters, taximeters, milometers, pedometers and the like, speed indicators and tachometers, and stroboscopes, n.e.s. |
 | 9031 90 | Parts and accessories for instruments, appliances and machines for measuring and checking, n.e.s. |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
-| [^key-cccf1eb5ab124216aec9f254dae63eea]. . . | [^key-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
+| [^c-cccf1eb5ab124216aec9f254dae63eea]. . . | [^c-cccf1eb5ab124216aec9f254dae63eea]. . . |
 
 ### Part 3 — Russia’s additional vulnerable goods[^M_F_7f4074ce-a234-4243-e9f1-6e94fb2d8834]
 
@@ -583,16 +583,16 @@ Regulation 21(1)
 
 | Commodity code (1) | Description (2) |
 | --- | --- |
-| [^key-893972fe4261c4d65963da064abb239f]. . . | [^key-893972fe4261c4d65963da064abb239f]. . . |
+| [^c-893972fe4261c4d65963da064abb239f]. . . | [^c-893972fe4261c4d65963da064abb239f]. . . |
 | 2710 12 25 | Other light oils and preparations / for other purposes / special spirits |
 | 2809 20 | Phosphoric acid and polyphosphoric acids |
 | 2832 30 | Thiosulphates |
-| [^key-893972fe4261c4d65963da064abb239f]. . . | [^key-893972fe4261c4d65963da064abb239f]. . . |
-| [^key-893972fe4261c4d65963da064abb239f]. . . | [^key-893972fe4261c4d65963da064abb239f]. . . |
-| [^key-893972fe4261c4d65963da064abb239f]. . . | [^key-893972fe4261c4d65963da064abb239f]. . . |
-| [^key-893972fe4261c4d65963da064abb239f]. . . | [^key-893972fe4261c4d65963da064abb239f]. . . |
+| [^c-893972fe4261c4d65963da064abb239f]. . . | [^c-893972fe4261c4d65963da064abb239f]. . . |
+| [^c-893972fe4261c4d65963da064abb239f]. . . | [^c-893972fe4261c4d65963da064abb239f]. . . |
+| [^c-893972fe4261c4d65963da064abb239f]. . . | [^c-893972fe4261c4d65963da064abb239f]. . . |
+| [^c-893972fe4261c4d65963da064abb239f]. . . | [^c-893972fe4261c4d65963da064abb239f]. . . |
 | 2918 99 40 | 2.6-dimethoxybenzoic acid; dicamba (iso); sodium phenoxyacetate |
-| [^key-893972fe4261c4d65963da064abb239f]. . . | [^key-893972fe4261c4d65963da064abb239f]. . . |
+| [^c-893972fe4261c4d65963da064abb239f]. . . | [^c-893972fe4261c4d65963da064abb239f]. . . |
 | 2922 19 | Other |
 | 2922 41 | Amino-acids, other than those containing more than one kind of oxygen function, and their esters; salts thereof |
 | 2922 49 | Other (Oxygen-function amino-compounds) |
@@ -604,20 +604,20 @@ Regulation 21(1)
 | 2934 20 80 | Other |
 | 2935 90 90 | Sulphonamides (excluding perfluorooctane sulphonamides, 3-{1-\[7-“hexadecylsulphonylamino”-1H-indole-3-yl\]-3-oxo-1H, 3H-naphtho\[1,8-cd\]pyran-1-yl}-N,N-dimethyl-1H-indole-7-sulphonamide and metosulam “ISO” |
 | 2942 | Other organic compounds |
-| [^key-893972fe4261c4d65963da064abb239f]. . . | [^key-893972fe4261c4d65963da064abb239f]. . . |
-| [^key-893972fe4261c4d65963da064abb239f]. . . | [^key-893972fe4261c4d65963da064abb239f]. . . |
+| [^c-893972fe4261c4d65963da064abb239f]. . . | [^c-893972fe4261c4d65963da064abb239f]. . . |
+| [^c-893972fe4261c4d65963da064abb239f]. . . | [^c-893972fe4261c4d65963da064abb239f]. . . |
 | 3209 10 | Paints and varnishes, incl. enamels and lacquers, based on acrylic or vinyl polymers, dispersed or dissolved in an aqueous medium |
-| [^key-893972fe4261c4d65963da064abb239f]. . . | [^key-893972fe4261c4d65963da064abb239f]. . . |
-| [^key-893972fe4261c4d65963da064abb239f]. . . | [^key-893972fe4261c4d65963da064abb239f]. . . |
-| [^key-893972fe4261c4d65963da064abb239f]. . . | [^key-893972fe4261c4d65963da064abb239f]. . . |
+| [^c-893972fe4261c4d65963da064abb239f]. . . | [^c-893972fe4261c4d65963da064abb239f]. . . |
+| [^c-893972fe4261c4d65963da064abb239f]. . . | [^c-893972fe4261c4d65963da064abb239f]. . . |
+| [^c-893972fe4261c4d65963da064abb239f]. . . | [^c-893972fe4261c4d65963da064abb239f]. . . |
 | 3506 10 | Products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg |
-| [^key-893972fe4261c4d65963da064abb239f]. . . | [^key-893972fe4261c4d65963da064abb239f]. . . |
+| [^c-893972fe4261c4d65963da064abb239f]. . . | [^c-893972fe4261c4d65963da064abb239f]. . . |
 | 3824 60 19 | Other (Sorbitol other than that of subheading 2905 44 / in Aqueous solution) |
 | 3901 | Polymers of ethylene, in primary forms |
 | 3905 29 | Vinyl acetate copolymers, in aqueous dispersion |
 | 3906 90 | Other (Acrylic Polymers in primary forms) |
-| 3907 | Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms [^key-45865d4662f427f72167b2dc4d18c4c7]... |
-| [^key-893972fe4261c4d65963da064abb239f]. . . | [^key-893972fe4261c4d65963da064abb239f]. . . |
+| 3907 | Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in primary forms [^c-45865d4662f427f72167b2dc4d18c4c7]... |
+| [^c-893972fe4261c4d65963da064abb239f]. . . | [^c-893972fe4261c4d65963da064abb239f]. . . |
 | 3919 10 | Strips, the coating of which consists of unvulcanised natural or synthetic rubber |
 | 4009 | Tubes, pipes and hoses, of vulcanised rubber other than hard rubber, with or without their fittings (for example, joints, elbows, flanges) |
 | 4010 | Conveyor or transmission belts or belting, of vulcanised rubber |
@@ -634,7 +634,7 @@ Regulation 21(1)
 | 5603 12 90 | Other (Textiles / Nonwoven) |
 | 5603 13 90 | Other (Textiles / Nonwoven) |
 | 5902 10 | Of nylon or other polyamides |
-| [^key-893972fe4261c4d65963da064abb239f]. . . | [^key-893972fe4261c4d65963da064abb239f]. . . |
+| [^c-893972fe4261c4d65963da064abb239f]. . . | [^c-893972fe4261c4d65963da064abb239f]. . . |
 | 7019 | Glass fibres (including glass wool) and articles thereof (for example, yarn, rovings, woven fabrics) |
 | 8207 19 10 | With working part of diamond or agglomerated diamond, base metals and articles of base metal |
 | 8207 70 90 | Base metals and articles of base metal, Other |
@@ -645,7 +645,7 @@ Regulation 21(1)
 | 8527 | Reception apparatus for radiobroadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock |
 | 8532 | Electrical capacitors, fixed, variable or adjustable (pre-set) |
 | 8538 | Parts suitable for use solely or principally with the apparatus of heading 8535, 8536 or 8537 |
-| Ex 8543 | Electrical machines and apparatus, having individual functions, not specified or included elsewhere in Chapter 85 (excluding ex 8543 70 90 as specified in Schedule 2D)[^key-fed5696eba50394251c94f71249d9da8] |
+| Ex 8543 | Electrical machines and apparatus, having individual functions, not specified or included elsewhere in Chapter 85 (excluding ex 8543 70 90 as specified in Schedule 2D)[^c-fed5696eba50394251c94f71249d9da8] |
 | 9405 | Luminaires and lighting fittings including searchlights and spotlights and parts thereof, not elsewhere specified or included; illuminated signs, illuminated nameplates and the like, having a permanently fixed light source, and parts thereof not elsewhere specified or included |
 
 ### Part 4 — Russia’s vulnerable technology[^M_F_797cf40a-ddd1-43c2-807a-89a26811249c]
@@ -654,30 +654,30 @@ Regulation 21(1)
 
 ## Annotations
 
-[^key-2e4a9547b8e09810b10456576915bc82]: Textual amendment: Sch. 3I inserted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/1110/schedule/2)
+[^c-2e4a9547b8e09810b10456576915bc82]: Textual amendment: Sch. 3I inserted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2022/1110/schedule/2)
 
-[^key-9004b6143ff9449affb3f893cfd88bc3]: Textual amendment: Words in Sch. 3I heading inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(19)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/19) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-9004b6143ff9449affb3f893cfd88bc3]: Textual amendment: Words in Sch. 3I heading inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(19)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/19) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-e3ef5616c33e4fe33777268d3d97b54b]: Textual amendment: Sch. 3I Pt. 1 heading inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(20)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/20) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-e3ef5616c33e4fe33777268d3d97b54b]: Textual amendment: Sch. 3I Pt. 1 heading inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(20)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/20) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-e432c28e93fd03410f23291bf454abe3]: Textual amendment: Sch. 3I paras. 1A-1C inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(21)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/21) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-e432c28e93fd03410f23291bf454abe3]: Textual amendment: Sch. 3I paras. 1A-1C inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(21)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/21) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
 [^M_F_eca00b82-6c21-430e-98b2-c4da5741c026]: Textual amendment: Sch. 3I Pt. 2 heading inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(22)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/22) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-215352e32991e1e5b0b03c58d03f9559]: Textual amendment: Sch. 3I table substituted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/504/schedule/3) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-215352e32991e1e5b0b03c58d03f9559]: Textual amendment: Sch. 3I table substituted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/504/schedule/3) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-cccf1eb5ab124216aec9f254dae63eea]: Textual amendment: Words in Sch. 3I Pt. 2 omitted (20.5.2026) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(8)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/8), [Sch. 4 para. 4(a)](https://www.legislation.gov.uk/uksi/2026/543/schedule/4/paragraph/4/a)
+[^c-cccf1eb5ab124216aec9f254dae63eea]: Textual amendment: Words in Sch. 3I Pt. 2 omitted (20.5.2026) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(8)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/8), [Sch. 4 para. 4(a)](https://www.legislation.gov.uk/uksi/2026/543/schedule/4/paragraph/4/a)
 
-[^key-156fda463c1edb0b83e640c737e05e5a]: Textual amendment: Word in Sch. 3I Pt. 2 substituted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(6)(a)(i)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/6/a/i)
+[^c-156fda463c1edb0b83e640c737e05e5a]: Textual amendment: Word in Sch. 3I Pt. 2 substituted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(6)(a)(i)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/6/a/i)
 
-[^key-688d30d7b81cfbe944b9f8fdbf6e9f97]: Textual amendment: Word in Sch. 3I Pt. 2 substituted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/6/a/ii)
+[^c-688d30d7b81cfbe944b9f8fdbf6e9f97]: Textual amendment: Word in Sch. 3I Pt. 2 substituted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/6/a/ii)
 
 [^M_F_7f4074ce-a234-4243-e9f1-6e94fb2d8834]: Textual amendment: Sch. 3I Pt. 3 inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2025/504/schedule/4) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-893972fe4261c4d65963da064abb239f]: Textual amendment: Words in Sch. 3I Pt. 3 omitted (20.5.2026) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(8)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/8), [Sch. 4 para. 4(b)](https://www.legislation.gov.uk/uksi/2026/543/schedule/4/paragraph/4/b)
+[^c-893972fe4261c4d65963da064abb239f]: Textual amendment: Words in Sch. 3I Pt. 3 omitted (20.5.2026) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(8)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/8), [Sch. 4 para. 4(b)](https://www.legislation.gov.uk/uksi/2026/543/schedule/4/paragraph/4/b)
 
-[^key-45865d4662f427f72167b2dc4d18c4c7]: Textual amendment: Words in Sch. 3I Pt. 3 omitted (20.5.2026) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(6)(b)(i)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/6/b/i)
+[^c-45865d4662f427f72167b2dc4d18c4c7]: Textual amendment: Words in Sch. 3I Pt. 3 omitted (20.5.2026) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(6)(b)(i)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/6/b/i)
 
-[^key-fed5696eba50394251c94f71249d9da8]: Textual amendment: Words in Sch. 3I Pt. 3 substituted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/6/b/ii)
+[^c-fed5696eba50394251c94f71249d9da8]: Textual amendment: Words in Sch. 3I Pt. 3 substituted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/6/b/ii)
 
 [^M_F_797cf40a-ddd1-43c2-807a-89a26811249c]: Textual amendment: [Sch. 3I Pt. 4](https://www.legislation.gov.uk/uksi/2019/855/schedule/3I/part/4) inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(25)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/25) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))

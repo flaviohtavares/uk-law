@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Emissions Monitoring Plan[^key-56bcfcd54946870b4cc50675fe47c625]
+## 23. Emissions Monitoring Plan[^c-56bcfcd54946870b4cc50675fe47c625]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56bcfcd54946870b4cc50675fe47c625]: Commencement: Art. 23 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-56bcfcd54946870b4cc50675fe47c625]: Commencement: Art. 23 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00029]: Footnote: OJ L 250, 30.9.2019, p.10.

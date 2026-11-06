@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255. Application of energy savings opportunity schemes[^key-978d2da8e85ee403899f026a231472eb]
+## 255. Application of energy savings opportunity schemes[^c-978d2da8e85ee403899f026a231472eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ and includes the places above those areas and the bed and subsoil of the sea wit
 
 ## Annotations
 
-[^key-978d2da8e85ee403899f026a231472eb]: Commencement: S. 255 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)
+[^c-978d2da8e85ee403899f026a231472eb]: Commencement: S. 255 in force at Royal Assent, see [s. 334(2)(m)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/m)

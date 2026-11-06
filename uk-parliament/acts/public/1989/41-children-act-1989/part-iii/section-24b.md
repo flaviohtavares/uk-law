@@ -39,7 +39,7 @@ summary: ''
 - (a) providing him with suitable accommodation during the vacation; or
 - (b) paying him enough to enable him to secure such accommodation himself.
 
-(6) The Secretary of State[^key-6abd3dc9507ed23ea9124b0373ff33d4] may prescribe the meaning of “ **full-time** ”, “ **further education** ”, “ **higher education** ” and “ **vacation** ” for the purposes of subsection (5).
+(6) The Secretary of State[^c-6abd3dc9507ed23ea9124b0373ff33d4] may prescribe the meaning of “ **full-time** ”, “ **further education** ”, “ **higher education** ” and “ **vacation** ” for the purposes of subsection (5).
 
 ## Annotations
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c19938601]: Textual amendment: Word in s. 24B(3)(a) substituted (1.4.2011 for E., 19.6.2012 for W.) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/23/2), [44(4)](https://www.legislation.gov.uk/ukpga/2008/23/section/44/4); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(h)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/h); [S.I. 2012/1553](https://www.legislation.gov.uk/wsi/2012/1553), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/1553/article/2/b)
 
-[^key-6abd3dc9507ed23ea9124b0373ff33d4]: Textual amendment: Words in s. 24B(6) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [83](https://www.legislation.gov.uk/wsi/2016/413/regulation/83)
+[^c-6abd3dc9507ed23ea9124b0373ff33d4]: Textual amendment: Words in s. 24B(6) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [83](https://www.legislation.gov.uk/wsi/2016/413/regulation/83)

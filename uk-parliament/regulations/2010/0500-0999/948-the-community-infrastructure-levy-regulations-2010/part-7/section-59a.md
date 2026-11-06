@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59A. Duty to pass CIL to local councils[^key-18583621e456728158ca284fee829570]
+## 59A. Duty to pass CIL to local councils[^c-18583621e456728158ca284fee829570]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ then, subject to paragraph (7), the charging authority must pass 15 per cent of 
 
 *Extent: W*
 
-(7 (Extent: E) (affected by repeal, see note))[^key-5811f77d269d24a5798e0a961d43cf24] The total amount of CIL receipts passed to a local council in accordance with paragraph (5) or (6) shall not exceed an amount equal to £100 per dwelling in the area of the local council multiplied by *(Extent: E)* *(affected by repeal, see note)*[^key-5811f77d269d24a5798e0a961d43cf24] [formula: Index figure for the year the CIL funds are passed to the Council](https://www.legislation.gov.uk/uksi/2010/948) *(Extent: E)* *(affected by repeal, see note)*[^key-5811f77d269d24a5798e0a961d43cf24] in each financial year. *(Extent: E)* *(affected by repeal, see note)*[^key-5811f77d269d24a5798e0a961d43cf24]
+(7 (Extent: E) (affected by repeal, see note))[^c-5811f77d269d24a5798e0a961d43cf24] The total amount of CIL receipts passed to a local council in accordance with paragraph (5) or (6) shall not exceed an amount equal to £100 per dwelling in the area of the local council multiplied by *(Extent: E)* *(affected by repeal, see note)*[^c-5811f77d269d24a5798e0a961d43cf24] [formula: Index figure for the year the CIL funds are passed to the Council](https://www.legislation.gov.uk/uksi/2010/948) *(Extent: E)* *(affected by repeal, see note)*[^c-5811f77d269d24a5798e0a961d43cf24] in each financial year. *(Extent: E)* *(affected by repeal, see note)*[^c-5811f77d269d24a5798e0a961d43cf24]
 
 *Extent: E*
 
@@ -81,6 +81,6 @@ where—
 
 ## Annotations
 
-[^key-18583621e456728158ca284fee829570]: Textual amendment: [Regs. 59A-59F](https://www.legislation.gov.uk/uksi/2010/948/regulation/59A) inserted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2013/982/regulation/8/3) (with [reg. 12](https://www.legislation.gov.uk/uksi/2013/982/regulation/12))
+[^c-18583621e456728158ca284fee829570]: Textual amendment: [Regs. 59A-59F](https://www.legislation.gov.uk/uksi/2010/948/regulation/59A) inserted (25.4.2013) by [The Community Infrastructure Levy (Amendment) Regulations 2013 (S.I. 2013/982)](https://www.legislation.gov.uk/uksi/2013/982), [regs. 1](https://www.legislation.gov.uk/uksi/2013/982/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2013/982/regulation/8/3) (with [reg. 12](https://www.legislation.gov.uk/uksi/2013/982/regulation/12))
 
-[^key-5811f77d269d24a5798e0a961d43cf24]: Textual amendment: [Reg. 59A(7)](https://www.legislation.gov.uk/uksi/2010/948/regulation/59A/7) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/9/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-5811f77d269d24a5798e0a961d43cf24]: Textual amendment: [Reg. 59A(7)](https://www.legislation.gov.uk/uksi/2010/948/regulation/59A/7) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/9/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

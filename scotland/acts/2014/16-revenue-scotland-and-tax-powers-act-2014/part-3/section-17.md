@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Disclosure of information prohibited or restricted by statute or agreement[^key-c2b17c90243cda46c04807411917c37e]
+## 17. Disclosure of information prohibited or restricted by statute or agreement[^c-c2b17c90243cda46c04807411917c37e]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ Sections 13(1) and 15(3) are subject to any provision which prohibits or restric
 
 ## Annotations
 
-[^key-c2b17c90243cda46c04807411917c37e]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/16/section/17) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-c2b17c90243cda46c04807411917c37e]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/16/section/17) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

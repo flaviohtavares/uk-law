@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — Joint fire and rescue boards: supplementary provision[^key-77757d1d82cb5e5f649df830aa69d524]
+## SCHEDULE 1 — Joint fire and rescue boards: supplementary provision[^c-77757d1d82cb5e5f649df830aa69d524]
 
 *Extent: S*
 
@@ -24,18 +24,18 @@ summary: ''
 
 (introduced by section 4)
 
-### Status[^key-77757d1d82cb5e5f649df830aa69d524]
+### Status[^c-77757d1d82cb5e5f649df830aa69d524]
 
-**1.**[^key-77757d1d82cb5e5f649df830aa69d524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-77757d1d82cb5e5f649df830aa69d524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### General powers[^key-77757d1d82cb5e5f649df830aa69d524]
+### General powers[^c-77757d1d82cb5e5f649df830aa69d524]
 
-**2.**[^key-77757d1d82cb5e5f649df830aa69d524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-77757d1d82cb5e5f649df830aa69d524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Pensions[^key-77757d1d82cb5e5f649df830aa69d524]
+### Pensions[^c-77757d1d82cb5e5f649df830aa69d524]
 
-**3.**[^key-77757d1d82cb5e5f649df830aa69d524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-77757d1d82cb5e5f649df830aa69d524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-77757d1d82cb5e5f649df830aa69d524]: Textual amendment: Sch. 1 repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-77757d1d82cb5e5f649df830aa69d524]: Textual amendment: Sch. 1 repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1.4. Forms[^key-9133e8f2a1d26ad2112830cac3c25bac]
+## 1.4. Forms[^c-9133e8f2a1d26ad2112830cac3c25bac]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9133e8f2a1d26ad2112830cac3c25bac]: Commencement: [Rule 1.4](https://www.legislation.gov.uk/ssi/2017/103/rule/1.4) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-9133e8f2a1d26ad2112830cac3c25bac]: Commencement: [Rule 1.4](https://www.legislation.gov.uk/ssi/2017/103/rule/1.4) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

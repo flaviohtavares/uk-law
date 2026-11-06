@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Control of business transfers[^key-119043654e1fde785e938c4b78ea36f8]
+## 22. Control of business transfers[^c-119043654e1fde785e938c4b78ea36f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-119043654e1fde785e938c4b78ea36f8]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2012/21/section/22) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-119043654e1fde785e938c4b78ea36f8]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2012/21/section/22) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

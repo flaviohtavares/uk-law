@@ -24,7 +24,7 @@ summary: ''
 
 - (a) he was (or is alleged to have been) liable to pay council tax under section 6, 7 or 8 above;
 - (b) he was (or is alleged to have been) so liable, as spouse or civil partner[^c18834911] , under section 9 above; or
-- (c) a penalty was imposed on him under regulations under section 14C or[^key-737cb59934a596dbae82ca3814997951] under paragraph 1 of Schedule 3 to this Act.
+- (c) a penalty was imposed on him under regulations under section 14C or[^c-737cb59934a596dbae82ca3814997951] under paragraph 1 of Schedule 3 to this Act.
 
 (2) Nothing in the following provisions of this section shall prejudice the generality of subsection (1) above.
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c18834911]: Textual amendment: Words in s. 18(1)(b) inserted (15.4.2005 for specified purposes and otherwise 5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(1)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/1), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263), [Sch. 27 para. 140(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/140/3); [S.I. 2005/1112](https://www.legislation.gov.uk/uksi/2005/1112), [art. 2](https://www.legislation.gov.uk/uksi/2005/1112/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1112/schedule/1); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2](https://www.legislation.gov.uk/uksi/2005/3175/article/2)
 
-[^key-737cb59934a596dbae82ca3814997951]: Textual amendment: Words in [s. 18(1)(c)](https://www.legislation.gov.uk/ukpga/1992/14/section/18/1/c) inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 14(3)](https://www.legislation.gov.uk/ukpga/2012/17/section/14/3)
+[^c-737cb59934a596dbae82ca3814997951]: Textual amendment: Words in [s. 18(1)(c)](https://www.legislation.gov.uk/ukpga/1992/14/section/18/1/c) inserted (31.10.2012) by [Local Government Finance Act 2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17), [s. 14(3)](https://www.legislation.gov.uk/ukpga/2012/17/section/14/3)

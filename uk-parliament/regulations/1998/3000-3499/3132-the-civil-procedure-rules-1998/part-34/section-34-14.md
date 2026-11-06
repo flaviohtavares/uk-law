@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.14. Fees and expenses of examiner of the court[^key-798c62a5986467a056ca268e9986c13c][^key-ded0f0c94fe27a99b1178b18c457896a]
+## 34.14. Fees and expenses of examiner of the court[^c-798c62a5986467a056ca268e9986c13c][^c-ded0f0c94fe27a99b1178b18c457896a]
 
 *Extent: E+W*
 
-(1)[^key-7c86aad223b73c9d8e7450921585934f] An examiner of the court may charge a fee for the examination.
+(1)[^c-7c86aad223b73c9d8e7450921585934f] An examiner of the court may charge a fee for the examination.
 
 (2) He need not send the deposition to the court unless the fee is paid.
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-798c62a5986467a056ca268e9986c13c]: Commencement: [Rule 34.14](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.14) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-798c62a5986467a056ca268e9986c13c]: Commencement: [Rule 34.14](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.14) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-ded0f0c94fe27a99b1178b18c457896a]: Textual amendment: Words in [rule 34.14](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.14) heading inserted (26.4.1999) by [The Civil Procedure (Amendment) Rules 1999 (S.I. 1999/1008)](https://www.legislation.gov.uk/uksi/1999/1008), [rules 1](https://www.legislation.gov.uk/uksi/1999/1008/rule/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/1999/1008/rule/11/b/i)
+[^c-ded0f0c94fe27a99b1178b18c457896a]: Textual amendment: Words in [rule 34.14](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.14) heading inserted (26.4.1999) by [The Civil Procedure (Amendment) Rules 1999 (S.I. 1999/1008)](https://www.legislation.gov.uk/uksi/1999/1008), [rules 1](https://www.legislation.gov.uk/uksi/1999/1008/rule/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/1999/1008/rule/11/b/i)
 
-[^key-7c86aad223b73c9d8e7450921585934f]: Textual amendment: Rule 34.14(1) substituted (26.4.1999) by [The Civil Procedure (Amendment) Rules 1999 (S.I. 1999/1008)](https://www.legislation.gov.uk/uksi/1999/1008), [rules 1](https://www.legislation.gov.uk/uksi/1999/1008/rule/1), [11(b)(ii)](https://www.legislation.gov.uk/uksi/1999/1008/rule/11/b/ii)
+[^c-7c86aad223b73c9d8e7450921585934f]: Textual amendment: Rule 34.14(1) substituted (26.4.1999) by [The Civil Procedure (Amendment) Rules 1999 (S.I. 1999/1008)](https://www.legislation.gov.uk/uksi/1999/1008), [rules 1](https://www.legislation.gov.uk/uksi/1999/1008/rule/1), [11(b)(ii)](https://www.legislation.gov.uk/uksi/1999/1008/rule/11/b/ii)

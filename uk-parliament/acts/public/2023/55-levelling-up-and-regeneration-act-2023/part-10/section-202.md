@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Appeals[^key-8b077c1fdd2840a26d93d2845499f4aa][^key-0fce1e50d61919e8d1cb3505011326a0]
+## 202. Appeals[^c-8b077c1fdd2840a26d93d2845499f4aa][^c-0fce1e50d61919e8d1cb3505011326a0]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b077c1fdd2840a26d93d2845499f4aa]: Commencement: S. 202 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-8b077c1fdd2840a26d93d2845499f4aa]: Commencement: S. 202 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-0fce1e50d61919e8d1cb3505011326a0]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2023/55/section/202) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)
+[^c-0fce1e50d61919e8d1cb3505011326a0]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2023/55/section/202) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)

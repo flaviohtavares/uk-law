@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Interpretation of Part 1[^key-b0026216bda8279686239b0a7a1bb15b]
+## 55. Interpretation of Part 1[^c-b0026216bda8279686239b0a7a1bb15b]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In this Part—
 
 ## Annotations
 
-[^key-b0026216bda8279686239b0a7a1bb15b]: Commencement: S. 55 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-b0026216bda8279686239b0a7a1bb15b]: Commencement: S. 55 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

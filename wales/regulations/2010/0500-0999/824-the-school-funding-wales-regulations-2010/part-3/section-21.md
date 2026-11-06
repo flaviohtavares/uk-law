@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Budget share adjustments[^key-42c4d9148c5e691ea0c8e9d825b1a63f]
+## 21. Budget share adjustments[^c-42c4d9148c5e691ea0c8e9d825b1a63f]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ the local authority must determine that school’s budget share for the followin
 
 ## Annotations
 
-[^key-42c4d9148c5e691ea0c8e9d825b1a63f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2010/824/regulation/21) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-42c4d9148c5e691ea0c8e9d825b1a63f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2010/824/regulation/21) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

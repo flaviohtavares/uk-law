@@ -22,7 +22,7 @@ summary: ''
 
 Article 42
 
-### PART 1 — REMOVAL OF HEDGEROWS[^key-a2f04abbea4cd3c833b2756abbac2f02]
+### PART 1 — REMOVAL OF HEDGEROWS[^c-a2f04abbea4cd3c833b2756abbac2f02]
 
 | (1) Area | (2) Location of hedgerow as shown on the tree preservation order and hedgerow plan |
 | --- | --- |
@@ -113,7 +113,7 @@ Article 42
 | Mid-Sussex District | H469 shown on sheet 34 |
 | Mid-Sussex District | H489 shown on sheet 34 |
 
-### PART 2 — REMOVAL OF IMPORTANT HEDGEROWS[^key-5d6f6a82def76e03aa29bd55bc1c57ad]
+### PART 2 — REMOVAL OF IMPORTANT HEDGEROWS[^c-5d6f6a82def76e03aa29bd55bc1c57ad]
 
 | (1) Area | (2) Reference of hedgerow as shown on the tree preservation and hedgerow plan |
 | --- | --- |
@@ -138,6 +138,6 @@ Article 42
 
 ## Annotations
 
-[^key-a2f04abbea4cd3c833b2756abbac2f02]: Commencement: Sch. 13 Pt. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-a2f04abbea4cd3c833b2756abbac2f02]: Commencement: Sch. 13 Pt. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-5d6f6a82def76e03aa29bd55bc1c57ad]: Commencement: Sch. 13 Pt. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-5d6f6a82def76e03aa29bd55bc1c57ad]: Commencement: Sch. 13 Pt. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1A — MONITORING: MINIMUM REQUIREMENTS[^key-2a37ce92ae4ce5ad9e8991870a70d44a]
+## SCHEDULE 1A — MONITORING: MINIMUM REQUIREMENTS[^c-2a37ce92ae4ce5ad9e8991870a70d44a]
 
 *Extent: S*
 
@@ -44,7 +44,7 @@ Regulation 6(2) and (3)
 - (a) inspections of records of the functionality and maintenance status of equipment; and
 - (b) inspections of the catchment area, water abstraction, treatment, storage and distribution infrastructure.
 
-**2A.**[^key-31f4956bf3df60db91211a8430272fc4] (1) Each monitoring programme must include an operational monitoring programme that—
+**2A.**[^c-31f4956bf3df60db91211a8430272fc4] (1) Each monitoring programme must include an operational monitoring programme that—
 
 - (a) takes into account any parameter, or micro-organism, parasite or substance, identified as relevant—
   - (i) by virtue of regulation 5(2), or
@@ -77,7 +77,7 @@ Regulation 6(2) and (3)
 - “**NTU**” means Nephelometric Turbidity Unit, and
 - “**PFU**” means Plaque Forming Unit.
 
-**3.** Scottish Water must ensure that each monitoring programme prepared by it is reviewed on a continuous basis, and updated or reconfirmed at least every 6[^key-f6fd7166c68e6a3eb45cb23c15651416] years.
+**3.** Scottish Water must ensure that each monitoring programme prepared by it is reviewed on a continuous basis, and updated or reconfirmed at least every 6[^c-f6fd7166c68e6a3eb45cb23c15651416] years.
 
 ### PART B — Standard parameters and frequencies
 
@@ -92,7 +92,7 @@ including those that are important for assessing the impact of any part of the p
 
 **2.** (1) The following parameters (“Group A parameters”) must be monitored at least at the minimum frequencies determined in accordance with the table in paragraph 3:—
 
-- (a) *Escherichia coli*, enterococci,[^key-82ef80c3df1978a9d0351e699a57cdda] coliform bacteria, colony count 22 °C, colour, turbidity, taste, odour, hydrogen ion concentration (pH), and conductivity; and
+- (a) *Escherichia coli*, enterococci,[^c-82ef80c3df1978a9d0351e699a57cdda] coliform bacteria, colony count 22 °C, colour, turbidity, taste, odour, hydrogen ion concentration (pH), and conductivity; and
 - (b) any other parameter, or other micro-organism, parasite or substance, (except radon, tritium and indicative dose) identified as relevant in the monitoring programme—
   - (i) by virtue of regulation 5(2) (as read with regulation 6(2)(a)); or
   - (ii) where relevant, through a risk assessment.
@@ -131,8 +131,8 @@ Minimum frequency of sampling and analysis for compliance monitoring
 **2.** Based on the results of a risk assessment, the list of parameters in Part B of this schedule (including any micro-organism, parasite or substance referred to in paragraph 2(1)(b) of that Part), must be extended and/or the minimum sampling frequencies under that Part increased if—
 
 - (a) the list of parameters or frequencies required to be monitored under that Part B is not sufficient to fulfil the obligations imposed by regulation 5(1), (3) and (4);
-- (b) additional monitoring is required by regulation 5(2); [^key-7eaddf8530625cf29fec12c47712bb38]...
-- (c) this is necessary to verify the matters in paragraph 1(a) of Part A of this schedule,[^key-d8178e3dd879cd9aca9a85e37a392d29]
+- (b) additional monitoring is required by regulation 5(2); [^c-7eaddf8530625cf29fec12c47712bb38]...
+- (c) this is necessary to verify the matters in paragraph 1(a) of Part A of this schedule,[^c-d8178e3dd879cd9aca9a85e37a392d29]
 - (d) a risk assessment has established that raw water—
   - (i) in the catchment area used to abstract water for human consumption purposes, or
   - (ii) as a result of abstraction through the public water supply system,
@@ -142,9 +142,9 @@ Minimum frequency of sampling and analysis for compliance monitoring
 
 **3.** Subject to paragraph 4, based on the results of a risk assessment the list of parameters in Part B of this schedule (including any micro-organism, parasite or substance referred to in paragraph 2(1)(b) of that Part) and the sampling frequencies under that Part B may be reduced, provided that the following conditions are met:—
 
-- (a) the frequency of sampling for *Escherichia coli* and enterococci[^key-4a6c03c7642b2123c9575b3a555eaaba] must not be reduced below the minimum frequency required by that Part B; and
+- (a) the frequency of sampling for *Escherichia coli* and enterococci[^c-4a6c03c7642b2123c9575b3a555eaaba] must not be reduced below the minimum frequency required by that Part B; and
 - (b) for other parameters in the list—
-  - (i)[^key-714dc6ea3a51c2700357564adcfabf30] a risk assessment has established that the parameter to be removed from the list of parameters to be monitored under Part B of this schedule, or for which the minimum sampling frequencies are to be reduced, is not present or, as the case may be, is not likely to be present in raw water—
+  - (i)[^c-714dc6ea3a51c2700357564adcfabf30] a risk assessment has established that the parameter to be removed from the list of parameters to be monitored under Part B of this schedule, or for which the minimum sampling frequencies are to be reduced, is not present or, as the case may be, is not likely to be present in raw water—
     - (aa) in the catchment area used to abstract water for human consumption purposes, and
     - (bb) as a result of abstraction through the public water supply system,
 
@@ -152,7 +152,7 @@ Minimum frequency of sampling and analysis for compliance monitoring
   - (ii) where a parameter from the list of parameters to be monitored under Part B of this schedule can only occur as a result of the treatment technique or disinfection method, that technique or method is not used by Scottish Water, or
   - (iii) the specifications in paragraph 3A are complied with.
 
-**3A.**[^key-054dadd783a510c7880d7b7910b429d6] The specifications are that—
+**3A.**[^c-054dadd783a510c7880d7b7910b429d6] The specifications are that—
 
 - (a) the location and frequency of sampling must be determined in relation to the parameter’s origin, as well as the variability and long-term trend of its concentration, taking into account the water quality standards,
 - (b) to reduce the minimum sampling frequency for a parameter under Part B of this schedule, the results obtained from samples collected at regular intervals over a period of at least 3 years from sampling points representative of the whole water supply zone must all be less than 60% of the prescribed concentration or value for the parameter,
@@ -167,11 +167,11 @@ Minimum frequency of sampling and analysis for compliance monitoring
   - (i) a new water source is integrated into the water supply chain (from the catchment area through abstraction, treatment and storage to distribution), or
   - (ii) changes made to the water supply chain are expected to have a potentially adverse effect on the quality of water.
 
-**4.** (1)[^key-40df2da03abcf358c0e844d7647069ee] The minimum sampling frequency for a parameter under Part B of this schedule (including for a micro-organism, parasite or substance referred to in paragraph 2(1)(b) of that Part) may be reduced or any such parameter may be removed from the list of parameters to be monitored under paragraph 3(b), only if the Drinking Water Quality Regulator for Scotland, by notice to Scottish Water, consents in accordance with sub-paragraph (2) to the reduction or removal, and that consent has not been revoked under sub-paragraph (4).
+**4.** (1)[^c-40df2da03abcf358c0e844d7647069ee] The minimum sampling frequency for a parameter under Part B of this schedule (including for a micro-organism, parasite or substance referred to in paragraph 2(1)(b) of that Part) may be reduced or any such parameter may be removed from the list of parameters to be monitored under paragraph 3(b), only if the Drinking Water Quality Regulator for Scotland, by notice to Scottish Water, consents in accordance with sub-paragraph (2) to the reduction or removal, and that consent has not been revoked under sub-paragraph (4).
 
-(2)[^key-75e93974ef79b76616a652ac31f2a661] The Drinking Water Quality Regulator for Scotland may consent, under sub-paragraph (1), if the Regulator is satisfied that to do so would not compromise the quality of the water.
+(2)[^c-75e93974ef79b76616a652ac31f2a661] The Drinking Water Quality Regulator for Scotland may consent, under sub-paragraph (1), if the Regulator is satisfied that to do so would not compromise the quality of the water.
 
-(3) The Drinking Water Quality Regulator for Scotland may not consent, under paragraph (1)[^key-535a4185b108e1c5c1664740dc93de9f], to the removal of any of the following from the list of parameters to be monitored:—
+(3) The Drinking Water Quality Regulator for Scotland may not consent, under paragraph (1)[^c-535a4185b108e1c5c1664740dc93de9f], to the removal of any of the following from the list of parameters to be monitored:—
 
 - (a) enterococci, *Escherichia coli*, coliform bacteria, colony count 22 °C, colour, turbidity or hydrogen ion concentration (pH);
 - (b) iron, lead or manganese;
@@ -180,7 +180,7 @@ Minimum frequency of sampling and analysis for compliance monitoring
   - (i) by virtue of regulation 5(2); or
   - (ii) where relevant, through a risk assessment.
 
-(4) The Drinking Water Quality Regulator for Scotland may, by notice to Scottish Water, revoke with immediate effect any consent given by it under sub-paragraph (1)[^key-7ddd44aa3280359b951c6325a624e7dd].
+(4) The Drinking Water Quality Regulator for Scotland may, by notice to Scottish Water, revoke with immediate effect any consent given by it under sub-paragraph (1)[^c-7ddd44aa3280359b951c6325a624e7dd].
 
 (5) In sub-paragraph (3) “nitrate vulnerable zone” means any area of land designated as a nitrate vulnerable zone by regulation 2 of the Designation of Nitrate Vulnerable Zones (Scotland) Regulations 2015.
 
@@ -226,7 +226,7 @@ Minimum frequency of sampling and analysis for compliance monitoring
 - (a) where previous results show that the concentration of radionuclides in one or more supplies of water is stable, the minimum sampling and analysis frequencies are to be decided by the Scottish Ministers, and confirmed by notice to Scottish Water, taking into consideration the risk to human health; and
 - (b) where the Scottish Ministers, by notice to Scottish Water, confirm that they are satisfied (on the basis of representative surveys, monitoring data or other reliable information) that levels of radon, tritium and the calculated indicative dose in one or more supplies of water will, for a period specified in the notice, remain below the prescribed concentration or value for each of these parameters at the point of compliance, Scottish Water is not required to monitor any such supply for these parameters during the period specified.
 
-(4)[^key-fb86663b46a22b610cdc53f0785efb26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-fb86663b46a22b610cdc53f0785efb26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 2. Radon
 
@@ -385,30 +385,30 @@ where—
 
 ## Annotations
 
-[^key-2a37ce92ae4ce5ad9e8991870a70d44a]: Textual amendment: Sch. 1A inserted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [sch. 1](https://www.legislation.gov.uk/ssi/2017/281/schedule/1) (as amended by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2017/321/regulation/3/2))
+[^c-2a37ce92ae4ce5ad9e8991870a70d44a]: Textual amendment: Sch. 1A inserted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [sch. 1](https://www.legislation.gov.uk/ssi/2017/281/schedule/1) (as amended by [The Public and Private Water Supplies (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/321)](https://www.legislation.gov.uk/ssi/2017/321), [regs. 1](https://www.legislation.gov.uk/ssi/2017/321/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2017/321/regulation/3/2))
 
-[^key-31f4956bf3df60db91211a8430272fc4]: Textual amendment: [Sch. 1A Pt. A para. 2A](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/A/paragraph/2A) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(2)(a)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/2/a)
+[^c-31f4956bf3df60db91211a8430272fc4]: Textual amendment: [Sch. 1A Pt. A para. 2A](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/A/paragraph/2A) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(2)(a)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/2/a)
 
-[^key-f6fd7166c68e6a3eb45cb23c15651416]: Textual amendment: Word in [sch. 1A Pt. A para. 3](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/A/paragraph/3) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(2)(b)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/2/b)
+[^c-f6fd7166c68e6a3eb45cb23c15651416]: Textual amendment: Word in [sch. 1A Pt. A para. 3](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/A/paragraph/3) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(2)(b)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/2/b)
 
-[^key-82ef80c3df1978a9d0351e699a57cdda]: Textual amendment: Word in [sch. 1A Pt. B para. 2(a)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/B/paragraph/2/a) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(3)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/3)
+[^c-82ef80c3df1978a9d0351e699a57cdda]: Textual amendment: Word in [sch. 1A Pt. B para. 2(a)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/B/paragraph/2/a) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(3)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/3)
 
-[^key-7eaddf8530625cf29fec12c47712bb38]: Textual amendment: Word in [sch. 1A Pt. C para. 2](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/2) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(a)(i)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/a/i)
+[^c-7eaddf8530625cf29fec12c47712bb38]: Textual amendment: Word in [sch. 1A Pt. C para. 2](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/2) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(a)(i)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/a/i)
 
-[^key-d8178e3dd879cd9aca9a85e37a392d29]: Textual amendment: [Sch. 1A Pt. C paras. 2(d)(e)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/2/d) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/a/ii)
+[^c-d8178e3dd879cd9aca9a85e37a392d29]: Textual amendment: [Sch. 1A Pt. C paras. 2(d)(e)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/2/d) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/a/ii)
 
-[^key-4a6c03c7642b2123c9575b3a555eaaba]: Textual amendment: Words in [sch. 1A Pt. C para. 3(a)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/3/a) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(b)(i)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/b/i)
+[^c-4a6c03c7642b2123c9575b3a555eaaba]: Textual amendment: Words in [sch. 1A Pt. C para. 3(a)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/3/a) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(b)(i)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/b/i)
 
-[^key-714dc6ea3a51c2700357564adcfabf30]: Textual amendment: [Sch. 1A Pt. C paras. 3(b)(i)-(iii)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/3/b/i) substituted for [sch. 1A Pt. C paras. 3(b)(i)-(iv)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C) (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/b/ii)
+[^c-714dc6ea3a51c2700357564adcfabf30]: Textual amendment: [Sch. 1A Pt. C paras. 3(b)(i)-(iii)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/3/b/i) substituted for [sch. 1A Pt. C paras. 3(b)(i)-(iv)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C) (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/b/ii)
 
-[^key-054dadd783a510c7880d7b7910b429d6]: Textual amendment: [Sch. 1A Pt. C paras. 3A](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/3A), [3B](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/3B) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(c)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/c)
+[^c-054dadd783a510c7880d7b7910b429d6]: Textual amendment: [Sch. 1A Pt. C paras. 3A](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/3A), [3B](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/3B) inserted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(c)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/c)
 
-[^key-40df2da03abcf358c0e844d7647069ee]: Textual amendment: [Sch. 1A Pt. C para. 4(1)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/4/1) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(d)(i)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/d/i)
+[^c-40df2da03abcf358c0e844d7647069ee]: Textual amendment: [Sch. 1A Pt. C para. 4(1)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/4/1) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(d)(i)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/d/i)
 
-[^key-75e93974ef79b76616a652ac31f2a661]: Textual amendment: [Sch. 1A Pt. C para. 4(2)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/4/2) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(d)(ii)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/d/ii)
+[^c-75e93974ef79b76616a652ac31f2a661]: Textual amendment: [Sch. 1A Pt. C para. 4(2)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/4/2) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(d)(ii)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/d/ii)
 
-[^key-535a4185b108e1c5c1664740dc93de9f]: Textual amendment: Word in [sch. 1A Pt. C para. 4(3)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/4/3) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(d)(iii)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/d/iii)
+[^c-535a4185b108e1c5c1664740dc93de9f]: Textual amendment: Word in [sch. 1A Pt. C para. 4(3)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/4/3) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(d)(iii)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/d/iii)
 
-[^key-7ddd44aa3280359b951c6325a624e7dd]: Textual amendment: Word in [sch. 1A Pt. C para. 4(4)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/4/4) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(d)(iii)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/d/iii)
+[^c-7ddd44aa3280359b951c6325a624e7dd]: Textual amendment: Word in [sch. 1A Pt. C para. 4(4)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/C/paragraph/4/4) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(4)(d)(iii)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/4/d/iii)
 
-[^key-fb86663b46a22b610cdc53f0785efb26]: Textual amendment: [Sch. 1A Pt. E para. 1(4)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/E/paragraph/1/4) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(5)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/5)
+[^c-fb86663b46a22b610cdc53f0785efb26]: Textual amendment: [Sch. 1A Pt. E para. 1(4)](https://www.legislation.gov.uk/ssi/2014/364/schedule/1A/part/E/paragraph/1/4) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [17(5)](https://www.legislation.gov.uk/ssi/2022/387/regulation/17/5)

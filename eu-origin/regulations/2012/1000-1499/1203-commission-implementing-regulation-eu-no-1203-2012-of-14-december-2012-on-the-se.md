@@ -35,42 +35,42 @@ on the separate sale of regulated retail roaming services within the Union
 
 (Text with EEA relevance) (revoked)
 
-[^key-f1401e99300d9b6f8986a3921a06513b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1401e99300d9b6f8986a3921a06513b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter and scope[^key-f1401e99300d9b6f8986a3921a06513b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-f1401e99300d9b6f8986a3921a06513b]
+## Article 1. Subject matter and scope[^c-f1401e99300d9b6f8986a3921a06513b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Technical modality for the implementation of the separate sale of regulated retail roaming services provided as a bundle[^key-f1401e99300d9b6f8986a3921a06513b]
+## Article 2. Definitions[^c-f1401e99300d9b6f8986a3921a06513b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Technical modality for the implementation of accessing local data roaming services on a visited network[^key-f1401e99300d9b6f8986a3921a06513b]
+## Article 3. Technical modality for the implementation of the separate sale of regulated retail roaming services provided as a bundle[^c-f1401e99300d9b6f8986a3921a06513b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Technical solution to implement the separate sale of regulated retail roaming services[^key-f1401e99300d9b6f8986a3921a06513b]
+## Article 4. Technical modality for the implementation of accessing local data roaming services on a visited network[^c-f1401e99300d9b6f8986a3921a06513b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Customer information on separate sale of regulated retail roaming services[^key-f1401e99300d9b6f8986a3921a06513b]
+## Article 5. Technical solution to implement the separate sale of regulated retail roaming services[^c-f1401e99300d9b6f8986a3921a06513b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Review[^key-f1401e99300d9b6f8986a3921a06513b]
+## Article 6. Customer information on separate sale of regulated retail roaming services[^c-f1401e99300d9b6f8986a3921a06513b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-f1401e99300d9b6f8986a3921a06513b]
+## Article 7. Review[^c-f1401e99300d9b6f8986a3921a06513b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f1401e99300d9b6f8986a3921a06513b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 8. Entry into force[^c-f1401e99300d9b6f8986a3921a06513b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f1401e99300d9b6f8986a3921a06513b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f1401e99300d9b6f8986a3921a06513b]: Textual amendment: Regulation revoked (31.12.2020) by [The Mobile Roaming (EU Exit) Regulations 2019 (S.I. 2019/587)](https://www.legislation.gov.uk/uksi/2019/587), [regs. 1](https://www.legislation.gov.uk/uksi/2019/587/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/587/regulation/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1401e99300d9b6f8986a3921a06513b]: Textual amendment: Regulation revoked (31.12.2020) by [The Mobile Roaming (EU Exit) Regulations 2019 (S.I. 2019/587)](https://www.legislation.gov.uk/uksi/2019/587), [regs. 1](https://www.legislation.gov.uk/uksi/2019/587/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/587/regulation/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

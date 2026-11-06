@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.6. Documents issuing from Secretary of State[^key-c61228e2e75fe7065e4767e302e707fd]
+## 12.6. Documents issuing from Secretary of State[^c-c61228e2e75fe7065e4767e302e707fd]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ is conclusive evidence of the matters dealt with in the certificate.
 
 ## Annotations
 
-[^key-c61228e2e75fe7065e4767e302e707fd]: Commencement: [Rule 12.6](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.6) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c61228e2e75fe7065e4767e302e707fd]: Commencement: [Rule 12.6](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.6) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

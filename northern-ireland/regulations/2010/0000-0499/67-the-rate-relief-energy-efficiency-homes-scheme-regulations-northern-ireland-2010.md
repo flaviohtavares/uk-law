@@ -32,7 +32,7 @@ summary: ''
 
 Rates
 
-The Rate Relief (Energy Efficiency Homes Scheme) Regulations (Northern Ireland) 2010 (revoked)[^key-f625317fa4039655e4037f0d2194d797]
+The Rate Relief (Energy Efficiency Homes Scheme) Regulations (Northern Ireland) 2010 (revoked)[^c-f625317fa4039655e4037f0d2194d797]
 
 Made
 
@@ -42,70 +42,70 @@ Coming into operation
 
 1st April 2010
 
-[^key-f625317fa4039655e4037f0d2194d797]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f625317fa4039655e4037f0d2194d797]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introductory[^key-f625317fa4039655e4037f0d2194d797]
+## PART 1 — Introductory[^c-f625317fa4039655e4037f0d2194d797]
 
-### 1. Citation and commencement[^key-f625317fa4039655e4037f0d2194d797]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-f625317fa4039655e4037f0d2194d797]
+### 1. Citation and commencement[^c-f625317fa4039655e4037f0d2194d797]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Excluded dwelling-houses[^key-f625317fa4039655e4037f0d2194d797]
+### 2. Interpretation[^c-f625317fa4039655e4037f0d2194d797]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Energy Efficiency Rate Reduction[^key-f625317fa4039655e4037f0d2194d797]
-
-### 4. Rate reduction[^key-f625317fa4039655e4037f0d2194d797]
+### 3. Excluded dwelling-houses[^c-f625317fa4039655e4037f0d2194d797]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amount of rate relief[^key-f625317fa4039655e4037f0d2194d797]
+## PART 2 — Energy Efficiency Rate Reduction[^c-f625317fa4039655e4037f0d2194d797]
+
+### 4. Rate reduction[^c-f625317fa4039655e4037f0d2194d797]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Applications[^key-f625317fa4039655e4037f0d2194d797]
+### 5. Amount of rate relief[^c-f625317fa4039655e4037f0d2194d797]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Inspections[^key-f625317fa4039655e4037f0d2194d797]
+### 6. Applications[^c-f625317fa4039655e4037f0d2194d797]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Decisions, Reviews and Appeals[^key-f625317fa4039655e4037f0d2194d797]
-
-### 8. Decision and review by the Department[^key-f625317fa4039655e4037f0d2194d797]
+### 7. Inspections[^c-f625317fa4039655e4037f0d2194d797]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Appeals to and from the Valuation Tribunal[^key-f625317fa4039655e4037f0d2194d797]
+## PART 3 — Decisions, Reviews and Appeals[^c-f625317fa4039655e4037f0d2194d797]
+
+### 8. Decision and review by the Department[^c-f625317fa4039655e4037f0d2194d797]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f625317fa4039655e4037f0d2194d797]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 9. Appeals to and from the Valuation Tribunal[^c-f625317fa4039655e4037f0d2194d797]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f625317fa4039655e4037f0d2194d797]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Energy Efficiency Measures and Standards[^key-f625317fa4039655e4037f0d2194d797]
+## SCHEDULE 1 — Energy Efficiency Measures and Standards[^c-f625317fa4039655e4037f0d2194d797]
 
 Regulation 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Amount of Rate Relief[^key-f625317fa4039655e4037f0d2194d797]
+## SCHEDULE 2 — Amount of Rate Relief[^c-f625317fa4039655e4037f0d2194d797]
 
 Regulation 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f625317fa4039655e4037f0d2194d797]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f625317fa4039655e4037f0d2194d797]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f625317fa4039655e4037f0d2194d797]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/67) revoked (1.4.2011) by [The Rate Relief (Energy Efficiency Homes Scheme) (Revocation and Savings) Regulations (Northern Ireland) 2011 (S.R. 2011/92)](https://www.legislation.gov.uk/nisr/2011/92), [regs. 1](https://www.legislation.gov.uk/nisr/2011/92/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2011/92/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2011/92/regulation/3/2))
+[^c-f625317fa4039655e4037f0d2194d797]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/67) revoked (1.4.2011) by [The Rate Relief (Energy Efficiency Homes Scheme) (Revocation and Savings) Regulations (Northern Ireland) 2011 (S.R. 2011/92)](https://www.legislation.gov.uk/nisr/2011/92), [regs. 1](https://www.legislation.gov.uk/nisr/2011/92/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2011/92/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2011/92/regulation/3/2))

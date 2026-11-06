@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Suspension from a pharmaceutical list[^key-7706f055870f98c96bd8954e4a46e306]
+## 41. Suspension from a pharmaceutical list[^c-7706f055870f98c96bd8954e4a46e306]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7706f055870f98c96bd8954e4a46e306]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2020/1073/regulation/41) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-7706f055870f98c96bd8954e4a46e306]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2020/1073/regulation/41) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

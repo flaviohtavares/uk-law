@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Definition of “domestic abuse”[^M_I_58248366-f4a4-444c-fee2-74a54624f294][^key-b9c30381bb02f1007a235839df7ebce6]
+## 1. Definition of “domestic abuse”[^M_I_58248366-f4a4-444c-fee2-74a54624f294][^c-b9c30381bb02f1007a235839df7ebce6]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ and it does not matter whether the behaviour consists of a single incident or a 
 
 [^M_I_58248366-f4a4-444c-fee2-74a54624f294]: Commencement: S. 1 in force at 5.7.2021 for specified purposes by [S.I. 2021/797](https://www.legislation.gov.uk/uksi/2021/797), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/797/regulation/2/1)
 
-[^key-b9c30381bb02f1007a235839df7ebce6]: Commencement: S. 1 in force at 1.10.2021 in so far as not already in force by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/a)
+[^c-b9c30381bb02f1007a235839df7ebce6]: Commencement: S. 1 in force at 1.10.2021 in so far as not already in force by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/a)

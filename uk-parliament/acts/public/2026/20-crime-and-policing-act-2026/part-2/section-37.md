@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Delivery of crossbows[^key-d63c1455f6fb9f7088a1dda8d806fe9a]
+## 37. Delivery of crossbows[^c-d63c1455f6fb9f7088a1dda8d806fe9a]
 
 *Extent: E+W+S*
 
@@ -307,4 +307,4 @@ In the [Crossbows Act 1987](https://www.legislation.gov.uk/ukpga/1987/32/content
 
 ## Annotations
 
-[^key-d63c1455f6fb9f7088a1dda8d806fe9a]: Commencement: S. 37 not in force at Royal Assent, see [s. 255(1)(10)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/10)(b)
+[^c-d63c1455f6fb9f7088a1dda8d806fe9a]: Commencement: S. 37 not in force at Royal Assent, see [s. 255(1)(10)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/10)(b)

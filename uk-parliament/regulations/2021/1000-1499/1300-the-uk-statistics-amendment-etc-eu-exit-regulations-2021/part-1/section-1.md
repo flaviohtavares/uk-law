@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-384a3be843df1dad27524a2e59bce784]
+## 1. Citation and commencement[^c-384a3be843df1dad27524a2e59bce784]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the UK Statistics (Amendment etc.) (EU Exit) R
 
 ## Annotations
 
-[^key-384a3be843df1dad27524a2e59bce784]: Commencement: Reg. 1 in force at 15.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1)
+[^c-384a3be843df1dad27524a2e59bce784]: Commencement: Reg. 1 in force at 15.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1)

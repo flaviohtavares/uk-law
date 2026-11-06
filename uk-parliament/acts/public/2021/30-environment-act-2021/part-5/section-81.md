@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Reporting on discharges from storm overflows[^key-724743ff3f1dbd6409b690ba148d83cf][^key-15eb7e75cccb07d81bfdd089b72536d5][^key-329c8b50fef743d507c7f45ac0b59f70]
+## 81. Reporting on discharges from storm overflows[^c-724743ff3f1dbd6409b690ba148d83cf][^c-15eb7e75cccb07d81bfdd089b72536d5][^c-329c8b50fef743d507c7f45ac0b59f70]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,8 +51,8 @@ In Chapter 4 of Part 4 of the Water Industry Act 1991 (as inserted by section 80
 
 ## Annotations
 
-[^key-724743ff3f1dbd6409b690ba148d83cf]: Commencement: S. 81 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-724743ff3f1dbd6409b690ba148d83cf]: Commencement: S. 81 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-15eb7e75cccb07d81bfdd089b72536d5]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2021/30/section/81) in force at 17.5.2024 for specified purposes by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/c)
+[^c-15eb7e75cccb07d81bfdd089b72536d5]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2021/30/section/81) in force at 17.5.2024 for specified purposes by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/c)
 
-[^key-329c8b50fef743d507c7f45ac0b59f70]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2021/30/section/81) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 4](https://www.legislation.gov.uk/uksi/2024/639/regulation/4)
+[^c-329c8b50fef743d507c7f45ac0b59f70]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2021/30/section/81) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 4](https://www.legislation.gov.uk/uksi/2024/639/regulation/4)

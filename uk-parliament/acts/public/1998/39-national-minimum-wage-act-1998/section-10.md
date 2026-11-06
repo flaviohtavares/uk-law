@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Worker’s right of access to records.[^c9531401][^c9531411][^key-ab4f39a804ff1f313397e76e8b26b448]
+## 10. Worker’s right of access to records.[^c9531401][^c9531411][^c-ab4f39a804ff1f313397e76e8b26b448]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 [^c9531411]: Modification: S. 10 extended (with modications) by [S.I. 1997/2151 (N.I. 22)](https://www.legislation.gov.uk/nisi/1997/2151), [art. 8A](https://www.legislation.gov.uk/nisi/1997/2151/article/8A) (as inserted (1.4.1999) by [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39), [ss. 47(1)(c)](https://www.legislation.gov.uk/ukpga/1998/39/section/47/1/c), [56(2)](https://www.legislation.gov.uk/ukpga/1998/39/section/56/2), [Sch. 2 Pt. III](https://www.legislation.gov.uk/ukpga/1998/39/schedule/2/part/III), [para. 26](https://www.legislation.gov.uk/ukpga/1998/39/paragraph/26) (with [s. 36](https://www.legislation.gov.uk/ukpga/1998/39/section/36)); S.I. 1999/685, art. 2, Sch. (with art. 3))
 
-[^key-ab4f39a804ff1f313397e76e8b26b448]: Modification: S. 10 applied (with modifications) (E.W.) (30.7.2014) by [Agricultural Sector (Wales) Act 2014 (anaw 6)](https://www.legislation.gov.uk/anaw/2014/6), [ss. 5(1)](https://www.legislation.gov.uk/anaw/2014/6/section/5/1)[(2)(a)](https://www.legislation.gov.uk/anaw/2014/6/section/5/2/a)[(3)-(7)](https://www.legislation.gov.uk/anaw/2014/6/section/5/3), [19](https://www.legislation.gov.uk/anaw/2014/6/section/19) (with [s. 14(1)](https://www.legislation.gov.uk/anaw/2014/6/section/14/1))
+[^c-ab4f39a804ff1f313397e76e8b26b448]: Modification: S. 10 applied (with modifications) (E.W.) (30.7.2014) by [Agricultural Sector (Wales) Act 2014 (anaw 6)](https://www.legislation.gov.uk/anaw/2014/6), [ss. 5(1)](https://www.legislation.gov.uk/anaw/2014/6/section/5/1)[(2)(a)](https://www.legislation.gov.uk/anaw/2014/6/section/5/2/a)[(3)-(7)](https://www.legislation.gov.uk/anaw/2014/6/section/5/3), [19](https://www.legislation.gov.uk/anaw/2014/6/section/19) (with [s. 14(1)](https://www.legislation.gov.uk/anaw/2014/6/section/14/1))

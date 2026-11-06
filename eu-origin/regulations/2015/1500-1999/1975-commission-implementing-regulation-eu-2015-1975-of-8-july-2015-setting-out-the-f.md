@@ -33,30 +33,30 @@ of 8 July 2015
 
 setting out the frequency and the format of the reporting of irregularities concerning the European Agricultural Guarantee Fund and the European Agricultural Fund for Rural Development, under Regulation (EU) No 1306/2013 of the European Parliament and of the Council (revoked)
 
-[^key-455e22be8a81314ba43e0c290d5bed4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-455e22be8a81314ba43e0c290d5bed4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-455e22be8a81314ba43e0c290d5bed4b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Frequency of the reporting of irregularities[^key-455e22be8a81314ba43e0c290d5bed4b]
+## Article 1. Subject matter[^c-455e22be8a81314ba43e0c290d5bed4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Reporting format[^key-455e22be8a81314ba43e0c290d5bed4b]
+## Article 2. Frequency of the reporting of irregularities[^c-455e22be8a81314ba43e0c290d5bed4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Use of the euro[^key-455e22be8a81314ba43e0c290d5bed4b]
+## Article 3. Reporting format[^c-455e22be8a81314ba43e0c290d5bed4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-455e22be8a81314ba43e0c290d5bed4b]
+## Article 4. Use of the euro[^c-455e22be8a81314ba43e0c290d5bed4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-455e22be8a81314ba43e0c290d5bed4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 5. Entry into force[^c-455e22be8a81314ba43e0c290d5bed4b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-455e22be8a81314ba43e0c290d5bed4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-455e22be8a81314ba43e0c290d5bed4b]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Agricultural Policy (Financing, Management and Monitoring Supplementary Provisions) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/765)](https://www.legislation.gov.uk/uksi/2019/765), [regs. 1](https://www.legislation.gov.uk/uksi/2019/765/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/765/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-455e22be8a81314ba43e0c290d5bed4b]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Agricultural Policy (Financing, Management and Monitoring Supplementary Provisions) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/765)](https://www.legislation.gov.uk/uksi/2019/765), [regs. 1](https://www.legislation.gov.uk/uksi/2019/765/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/765/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

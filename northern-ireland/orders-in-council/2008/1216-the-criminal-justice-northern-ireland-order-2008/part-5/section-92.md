@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92. Jurisdiction of magistrates' court in relation to proving execution of arrest warrant[^key-a5fab894a1a9cc03da4ad36e0f5b845e]
+## 92. Jurisdiction of magistrates' court in relation to proving execution of arrest warrant[^c-a5fab894a1a9cc03da4ad36e0f5b845e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5fab894a1a9cc03da4ad36e0f5b845e]: Textual amendment: [Art. 92](https://www.legislation.gov.uk/nisi/2008/1216/article/92) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 136(4)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/136/4), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-a5fab894a1a9cc03da4ad36e0f5b845e]: Textual amendment: [Art. 92](https://www.legislation.gov.uk/nisi/2008/1216/article/92) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 136(4)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/136/4), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

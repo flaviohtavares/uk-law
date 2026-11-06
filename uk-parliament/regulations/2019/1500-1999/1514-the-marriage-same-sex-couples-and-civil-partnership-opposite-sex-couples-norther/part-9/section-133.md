@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Sex Discrimination (Northern Ireland) Order 1976[^key-14791fa3e8239b5d7615a698ca612f72]
+## 133. Sex Discrimination (Northern Ireland) Order 1976[^c-14791fa3e8239b5d7615a698ca612f72]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14791fa3e8239b5d7615a698ca612f72]: Textual amendment: [Reg. 133](https://www.legislation.gov.uk/uksi/2019/1514/regulation/133) omitted (1.9.2020) by virtue of [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2020/742/regulation/14/3)
+[^c-14791fa3e8239b5d7615a698ca612f72]: Textual amendment: [Reg. 133](https://www.legislation.gov.uk/uksi/2019/1514/regulation/133) omitted (1.9.2020) by virtue of [The Marriage and Civil Partnership (Northern Ireland) Regulations 2020 (S.I. 2020/742)](https://www.legislation.gov.uk/uksi/2020/742), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/742/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2020/742/regulation/14/3)

@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Regulatory intervention by Scottish Housing Regulator
 
-### 1. Managers appointed by, or on the requirement of, the Scottish Housing Regulator[^key-2db8645b0b01c84ee417d89f17dbc5b1]
+### 1. Managers appointed by, or on the requirement of, the Scottish Housing Regulator[^c-2db8645b0b01c84ee417d89f17dbc5b1]
 
 (1) The Housing (Scotland) Act 2010 is amended as follows.
 
@@ -85,7 +85,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) in subsection (3), for “section 50 of the Co-operative and Community Benefit Societies and Credit Unions Act 1965 (c.12)” substitute “ section 109 of the Co-operative and Community Benefit Societies Act 2014 ”,
 - (b) in subsection (4), for “section 51 or 52 of the Co-operative and Community Benefit Societies and Credit Unions Act 1965 (c.12) (and, in particular, has effect subject to section 54 of that Act)” substitute “ section 110 or 112 of the Co-operative and Community Benefit Societies Act 2014 ”.
 
-### 2. Registered social landlords: removal, suspension and appointment of officers etc.[^key-57711446fbe285d67d9dd5e095f737f7]
+### 2. Registered social landlords: removal, suspension and appointment of officers etc.[^c-57711446fbe285d67d9dd5e095f737f7]
 
 (1) The Housing (Scotland) Act 2010 is further amended as follows.
 
@@ -148,7 +148,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Disposal of land etc. by registered social landlords
 
-### 3. Disposal of land or other assets by registered social landlord[^key-cd283972676fd2ea9c8ae3ffb574c490]
+### 3. Disposal of land or other assets by registered social landlord[^c-cd283972676fd2ea9c8ae3ffb574c490]
 
 (1) The Housing (Scotland) Act 2010 is further amended as follows.
 
@@ -228,7 +228,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 4. Special procedure where disposal results in change of landlord[^key-f3c2587f8f5fa204f716dd3b8bbcdfb1]
+### 4. Special procedure where disposal results in change of landlord[^c-f3c2587f8f5fa204f716dd3b8bbcdfb1]
 
 (1) The Housing (Scotland) Act 2010 is further amended as follows.
 
@@ -296,7 +296,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Organisational changes affecting registered social landlords
 
-### 5. Change of name, office or constitution by registered social landlord[^key-99c7352a6b11fed72482471e617940b6]
+### 5. Change of name, office or constitution by registered social landlord[^c-99c7352a6b11fed72482471e617940b6]
 
 (1) The Housing (Scotland) Act 2010 is further amended as follows.
 
@@ -317,7 +317,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) Sections 93 to 95 are repealed.
 
-### 6. Restructuring, winding up and dissolution of registered social landlord[^key-627fbdb1a5c38c173298688fe43f184d]
+### 6. Restructuring, winding up and dissolution of registered social landlord[^c-627fbdb1a5c38c173298688fe43f184d]
 
 (1) The Housing (Scotland) Act 2010 is further amended as follows.
 
@@ -538,7 +538,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (16) In section 165 (interpretation), in the definition of “registered society”, for “Co-operative and Community Benefit Societies and Credit Unions Act 1965 (c.12)” substitute “ Co-operative and Community Benefit Societies Act 2014 ”.
 
-### 7. Registered social landlord becoming a subsidiary of another body[^key-1a0e253b027a1df7948f0db7924a13b7]
+### 7. Registered social landlord becoming a subsidiary of another body[^c-1a0e253b027a1df7948f0db7924a13b7]
 
 (1) The Housing (Scotland) Act 2010 is further amended as follows.
 
@@ -578,7 +578,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Further modification of regulation of social landlords
 
-### 8. Power to modify functions of Scottish Housing Regulator[^key-611a6abf9395496c3e81d006e6ceda75]
+### 8. Power to modify functions of Scottish Housing Regulator[^c-611a6abf9395496c3e81d006e6ceda75]
 
 (1) The Scottish Ministers may by regulations modify the functions of the Scottish Housing Regulator which relate to social landlords.
 
@@ -603,7 +603,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Local authority influence over registered social landlords
 
-### 9. Power to reduce local authority influence over registered social landlords[^key-99c48c4b8bf2967475b3a3d5faef6ef3]
+### 9. Power to reduce local authority influence over registered social landlords[^c-99c48c4b8bf2967475b3a3d5faef6ef3]
 
 (1) The Scottish Ministers may by regulations make provision for the purpose of limiting or removing the ability of local authorities to exert influence over registered social landlords through––
 
@@ -642,7 +642,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Duration of regulation-making powers
 
-### 10. Duration of powers conferred by sections 8(1) and 9(1)[^key-d9bad03069dd6bc60ea21aa6e4c570c0]
+### 10. Duration of powers conferred by sections 8(1) and 9(1)[^c-d9bad03069dd6bc60ea21aa6e4c570c0]
 
 (1) No regulations may be made under section 8(1) or 9(1) after the end of the period of 3 years beginning with the day after Royal Assent.
 
@@ -667,22 +667,22 @@ The short title of this Act is the Housing (Amendment) (Scotland) Act 2018.
 
 ## Annotations
 
-[^key-2db8645b0b01c84ee417d89f17dbc5b1]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2018/13/section/1) in force at 8.3.2019 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-2db8645b0b01c84ee417d89f17dbc5b1]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2018/13/section/1) in force at 8.3.2019 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
 
-[^key-57711446fbe285d67d9dd5e095f737f7]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2018/13/section/2) in force at 8.3.2019 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [regs. 3-5](https://www.legislation.gov.uk/ssi/2018/253/regulation/3))
+[^c-57711446fbe285d67d9dd5e095f737f7]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2018/13/section/2) in force at 8.3.2019 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [regs. 3-5](https://www.legislation.gov.uk/ssi/2018/253/regulation/3))
 
-[^key-cd283972676fd2ea9c8ae3ffb574c490]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2018/13/section/3) in force at 8.3.2019 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [reg. 6](https://www.legislation.gov.uk/ssi/2018/253/regulation/6))
+[^c-cd283972676fd2ea9c8ae3ffb574c490]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2018/13/section/3) in force at 8.3.2019 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [reg. 6](https://www.legislation.gov.uk/ssi/2018/253/regulation/6))
 
-[^key-f3c2587f8f5fa204f716dd3b8bbcdfb1]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2018/13/section/4) in force at 8.3.2019 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-f3c2587f8f5fa204f716dd3b8bbcdfb1]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2018/13/section/4) in force at 8.3.2019 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
 
-[^key-99c7352a6b11fed72482471e617940b6]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2018/13/section/5) in force at 8.3.2019 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/253/regulation/7))
+[^c-99c7352a6b11fed72482471e617940b6]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2018/13/section/5) in force at 8.3.2019 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/253/regulation/7))
 
-[^key-627fbdb1a5c38c173298688fe43f184d]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2018/13/section/6) in force at 8.3.2019 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/253/regulation/8))
+[^c-627fbdb1a5c38c173298688fe43f184d]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2018/13/section/6) in force at 8.3.2019 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/253/regulation/8))
 
-[^key-1a0e253b027a1df7948f0db7924a13b7]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2018/13/section/7) in force at 8.3.2019 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-1a0e253b027a1df7948f0db7924a13b7]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2018/13/section/7) in force at 8.3.2019 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
 
-[^key-611a6abf9395496c3e81d006e6ceda75]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/13/section/8) in force at 6.9.2018 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/1)
+[^c-611a6abf9395496c3e81d006e6ceda75]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/13/section/8) in force at 6.9.2018 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/1)
 
-[^key-99c48c4b8bf2967475b3a3d5faef6ef3]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2018/13/section/9) in force at 6.9.2018 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/1)
+[^c-99c48c4b8bf2967475b3a3d5faef6ef3]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2018/13/section/9) in force at 6.9.2018 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/1)
 
-[^key-d9bad03069dd6bc60ea21aa6e4c570c0]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2018/13/section/10) in force at 6.9.2018 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/1)
+[^c-d9bad03069dd6bc60ea21aa6e4c570c0]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2018/13/section/10) in force at 6.9.2018 by [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/1)

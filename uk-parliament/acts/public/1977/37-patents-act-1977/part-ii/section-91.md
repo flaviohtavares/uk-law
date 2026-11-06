@@ -22,8 +22,8 @@ summary: ''
 
 (1) Judicial notice shall be taken of the following, that is to say—
 
-- (a) the European Patent Convention, the Community Patent Convention , the Agreement on a Unified Patent Court[^key-a8dfb96b23359c7c6779f1a662dc7e4a] and the Patent Co-operation Treaty (each of which is hereafter in this section referred to as the relevant convention);
-- (b) any bulletin, journal or gazette published under the relevant convention and the register of European patents kept under the European Patent Convention[^key-243e5fcf0520ad8dca6243ca71c7b00d]; and
+- (a) the European Patent Convention, the Community Patent Convention , the Agreement on a Unified Patent Court[^c-a8dfb96b23359c7c6779f1a662dc7e4a] and the Patent Co-operation Treaty (each of which is hereafter in this section referred to as the relevant convention);
+- (b) any bulletin, journal or gazette published under the relevant convention and the register of European patents kept under the European Patent Convention[^c-243e5fcf0520ad8dca6243ca71c7b00d]; and
 - (c) any decision of, or expression of opinion by, the relevant convention court on any question arising under or in connection with the relevant convention.
 
 (2) Any document mentioned in subsection (1)(b) above shall be admissible as evidence of any instrument or other act thereby communicated of any convention institution.
@@ -42,13 +42,13 @@ and any document purporting to be such a copy as is mentioned in paragraph (b) a
 (6) In this section—
 
 - “**convention institution**” means an institution established by or having functions under the relevant convention;
-- “**relevant convention court**” does not include a court of the United Kingdom or of any other country which is a party to the relevant convention but does include the Unified Patent Court[^key-047214e808f5bb2f5f244e85d14ca574]; and
+- “**relevant convention court**” does not include a court of the United Kingdom or of any other country which is a party to the relevant convention but does include the Unified Patent Court[^c-047214e808f5bb2f5f244e85d14ca574]; and
 - “**legal proceedings**”, in relation to the United Kingdom, includes proceedings before the comptroller.
 
 ## Annotations
 
-[^key-a8dfb96b23359c7c6779f1a662dc7e4a]: Textual amendment: Words in s. 91(1)(a) inserted (coming into force in accordance with art. 1(2)) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (S.I. 2016/388)](https://www.legislation.gov.uk/uksi/2016/388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/388/article/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2016/388/article/2/7/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/388/article/3))
+[^c-a8dfb96b23359c7c6779f1a662dc7e4a]: Textual amendment: Words in s. 91(1)(a) inserted (coming into force in accordance with art. 1(2)) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (S.I. 2016/388)](https://www.legislation.gov.uk/uksi/2016/388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/388/article/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2016/388/article/2/7/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/388/article/3))
 
-[^key-243e5fcf0520ad8dca6243ca71c7b00d]: Textual amendment: Words in s. 91(1) substituted (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/20); [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-243e5fcf0520ad8dca6243ca71c7b00d]: Textual amendment: Words in s. 91(1) substituted (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2004/16/schedule/2/paragraph/20); [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(k)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/k) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
 
-[^key-047214e808f5bb2f5f244e85d14ca574]: Textual amendment: Words in s. 91(6) inserted (coming into force in accordance with art. 1(2)) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (S.I. 2016/388)](https://www.legislation.gov.uk/uksi/2016/388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/388/article/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2016/388/article/2/7/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/388/article/3))
+[^c-047214e808f5bb2f5f244e85d14ca574]: Textual amendment: Words in s. 91(6) inserted (coming into force in accordance with art. 1(2)) by [The Patents (European Patent with Unitary Effect and Unified Patent Court) Order 2016 (S.I. 2016/388)](https://www.legislation.gov.uk/uksi/2016/388), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/388/article/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2016/388/article/2/7/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/388/article/3))

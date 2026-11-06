@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Notice of SCSWIS's decision under Chapter 4[^key-63105b5b66730950a5c9713bb6d715b7][^key-207fccd4c68f6bf3623eef09eff1905d]
+## 88. Notice of SCSWIS's decision under Chapter 4[^c-63105b5b66730950a5c9713bb6d715b7][^c-207fccd4c68f6bf3623eef09eff1905d]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-63105b5b66730950a5c9713bb6d715b7]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2010/8/section/88) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-63105b5b66730950a5c9713bb6d715b7]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2010/8/section/88) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-207fccd4c68f6bf3623eef09eff1905d]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2010/8/section/88) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-207fccd4c68f6bf3623eef09eff1905d]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2010/8/section/88) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

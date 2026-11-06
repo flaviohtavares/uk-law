@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Replacement of counterfoils by corresponding number lists[^key-68d6f1c2b8186a0969eed530515409ba]
+## 30. Replacement of counterfoils by corresponding number lists[^c-68d6f1c2b8186a0969eed530515409ba]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68d6f1c2b8186a0969eed530515409ba]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2006/2910/regulation/30) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-68d6f1c2b8186a0969eed530515409ba]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2006/2910/regulation/30) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00049]: Footnote: Regulation 72 was amended by [S.I. 2002/1871](https://www.legislation.gov.uk/uksi/2002/1871) and [2006/752](https://www.legislation.gov.uk/uksi/2006/752).

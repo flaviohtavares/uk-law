@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Repeals in connection with offences under sections 179 and 181[^key-eb11711206f40291ae5e95427612457d][^key-f8f53342d4b6d17638885f755ca61c31]
+## 189. Repeals in connection with offences under sections 179 and 181[^c-eb11711206f40291ae5e95427612457d][^c-f8f53342d4b6d17638885f755ca61c31]
 
 *Extent: E+W+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb11711206f40291ae5e95427612457d]: Commencement: S. 189 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-eb11711206f40291ae5e95427612457d]: Commencement: S. 189 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-f8f53342d4b6d17638885f755ca61c31]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2023/50/section/189) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-f8f53342d4b6d17638885f755ca61c31]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2023/50/section/189) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

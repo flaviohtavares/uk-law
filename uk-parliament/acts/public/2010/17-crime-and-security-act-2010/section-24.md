@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Power to issue a domestic violence protection notice[^M_I_d4b02b43-f5ad-4f2e-e33f-2c418c1ed159][^M_I_da9d17da-c3e3-4ddf-fefb-aee465d14ad5][^key-0b4e759bc48a5d6431be13f59bea4c5a][^key-986d3d1d006f129046325bc3de491bed]
+## 24. Power to issue a domestic violence protection notice[^M_I_d4b02b43-f5ad-4f2e-e33f-2c418c1ed159][^M_I_da9d17da-c3e3-4ddf-fefb-aee465d14ad5][^c-0b4e759bc48a5d6431be13f59bea4c5a][^c-986d3d1d006f129046325bc3de491bed]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ summary: ''
 
 [^M_I_da9d17da-c3e3-4ddf-fefb-aee465d14ad5]: Commencement: S. 24 coming into force (temp.) (7.10.2011 for specified police areas and policing divisions for a period ending on 29.6.2012 so that the Secretary of State may assess the effectiveness of this provision) by [The Crime and Security Act 2010 (Domestic Violence: Pilot Schemes) Order (No. 2) 2011 (S.I. 2011/2279)](https://www.legislation.gov.uk/uksi/2011/2279), [arts. 2](https://www.legislation.gov.uk/uksi/2011/2279/article/2), [3](https://www.legislation.gov.uk/uksi/2011/2279/article/3)
 
-[^key-0b4e759bc48a5d6431be13f59bea4c5a]: Commencement: S. 24 in force at 30.6.2012 for specified purposes by [S.I. 2012/1615](https://www.legislation.gov.uk/uksi/2012/1615), [arts. 2](https://www.legislation.gov.uk/uksi/2012/1615/article/2), [3](https://www.legislation.gov.uk/uksi/2012/1615/article/3)
+[^c-0b4e759bc48a5d6431be13f59bea4c5a]: Commencement: S. 24 in force at 30.6.2012 for specified purposes by [S.I. 2012/1615](https://www.legislation.gov.uk/uksi/2012/1615), [arts. 2](https://www.legislation.gov.uk/uksi/2012/1615/article/2), [3](https://www.legislation.gov.uk/uksi/2012/1615/article/3)
 
-[^key-986d3d1d006f129046325bc3de491bed]: Commencement: S. 24 in force at 8.3.2014 in so far as not already in force by [S.I. 2014/478](https://www.legislation.gov.uk/uksi/2014/478), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/478/article/2/a)
+[^c-986d3d1d006f129046325bc3de491bed]: Commencement: S. 24 in force at 8.3.2014 in so far as not already in force by [S.I. 2014/478](https://www.legislation.gov.uk/uksi/2014/478), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/478/article/2/a)

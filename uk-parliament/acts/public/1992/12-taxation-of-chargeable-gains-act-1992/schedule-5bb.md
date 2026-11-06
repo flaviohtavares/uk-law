@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5BB — Seed enterprise investment scheme: re-investment[^key-097cf880621a747c1e1d40236447e415]
+## SCHEDULE 5BB — Seed enterprise investment scheme: re-investment[^c-097cf880621a747c1e1d40236447e415]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,12 +26,12 @@ summary: ''
 
 (2) Condition A is that—
 
-- (a) there would (ignoring sub-paragraphs (5) and (6)) be a chargeable gain (“the original gain”) accruing to the investor at any time in the tax year 2012-13 or any subsequent tax year[^key-27493a4269dfdfbbadb23624f6223d08][^key-995ccc9f91a4b5a2f53e58a6474c1679] (the year in question being referred to in this Schedule as “**the relevant year**”), and
-- (b) the original gain is one accruing on the disposal of an asset by the investor at any time (“the disposal time”) in the relevant year[^key-43de00f69b0fe7efa419af129d0e54e0].
+- (a) there would (ignoring sub-paragraphs (5) and (6)) be a chargeable gain (“the original gain”) accruing to the investor at any time in the tax year 2012-13 or any subsequent tax year[^c-27493a4269dfdfbbadb23624f6223d08][^c-995ccc9f91a4b5a2f53e58a6474c1679] (the year in question being referred to in this Schedule as “**the relevant year**”), and
+- (b) the original gain is one accruing on the disposal of an asset by the investor at any time (“the disposal time”) in the relevant year[^c-43de00f69b0fe7efa419af129d0e54e0].
 
 (3) Condition B is that—
 
-- (a) the investor is eligible for SEIS relief for the relevant year[^key-1d6e4e88210a010f96a7e7a88627911a] in respect of an amount subscribed for an issue of shares in a company made to the investor in that year,
+- (a) the investor is eligible for SEIS relief for the relevant year[^c-1d6e4e88210a010f96a7e7a88627911a] in respect of an amount subscribed for an issue of shares in a company made to the investor in that year,
 - (b) the investor makes a claim for and obtains SEIS relief for that year in respect of all or some of those shares (“the relevant SEIS shares”), and
 - (c) if the relevant SEIS shares, or any corresponding bonus shares in relation to those shares, were issued before the disposal time, they are still held by the investor at the disposal time.
 
@@ -40,7 +40,7 @@ summary: ''
 - (a) the investor has made a claim under this paragraph for relief in relation to the original gain, and
 - (b) the claim is in respect of the amount on which SEIS relief is claimed by the investor in respect of the relevant SEIS shares (“the SEIS expenditure”) or part of that amount.
 
-(5)[^key-77149775792724d7bb072066adf334ee] The relevant percentage of the available SEIS expenditure is to be set against a corresponding amount of the original gain.
+(5)[^c-77149775792724d7bb072066adf334ee] The relevant percentage of the available SEIS expenditure is to be set against a corresponding amount of the original gain.
 
 (5A) In sub-paragraph (5)—
 
@@ -50,7 +50,7 @@ summary: ''
   - (c) does not exceed so much of the original gain as is unmatched;
 - “**the relevant percentage**” means—
   - (a) if the relevant year is the tax year 2012-13, 100%, and
-  - (b) if the relevant year is any subsequent tax year[^key-db83615a0fe3dcc83be4a08b0ed08466], 50%.
+  - (b) if the relevant year is any subsequent tax year[^c-db83615a0fe3dcc83be4a08b0ed08466], 50%.
 
 (6) Where an amount of the SEIS expenditure is set against the whole or part of the original gain under sub-paragraph (5), so much of that gain as is equal to that amount is to be treated as not being a chargeable gain.
 
@@ -61,7 +61,7 @@ summary: ''
 
 ### Restrictions on relief under paragraph 1
 
-**2.** (1) Sub-paragraph (2) applies if the investor's tax reduction under section 257AB of ITA 2007 for the relevant year[^key-1abd74ab83e1092343d4ef3b61eda7b7] is limited by subsection (2)(b) of that section (calculation of tax reduction where claim made for amounts subscribed for shares which exceed £200,000[^M_F_2b6e94af-8af8-4626-cd14-19aa10fe814e]).
+**2.** (1) Sub-paragraph (2) applies if the investor's tax reduction under section 257AB of ITA 2007 for the relevant year[^c-1abd74ab83e1092343d4ef3b61eda7b7] is limited by subsection (2)(b) of that section (calculation of tax reduction where claim made for amounts subscribed for shares which exceed £200,000[^M_F_2b6e94af-8af8-4626-cd14-19aa10fe814e]).
 
 (2) Paragraph 1(5) to (7) has effect as if references to the SEIS expenditure were references to so much of that expenditure as is given by the formula—[^M_F_a66f709c-1641-493b-ed52-d75fc9d309f7]
 
@@ -71,7 +71,7 @@ where—
 
 SA means the SEIS expenditure (ignoring this paragraph);
 
-TSA means the total of the amounts subscribed for shares issued in the relevant year[^key-6e248ad486fd0d26ad15d3f60d8d0d81] in respect of which the investor is eligible for and claims SEIS relief for that year[^key-9dda303ee3ad3100e9cbe30c9c8803a9].
+TSA means the total of the amounts subscribed for shares issued in the relevant year[^c-6e248ad486fd0d26ad15d3f60d8d0d81] in respect of which the investor is eligible for and claims SEIS relief for that year[^c-9dda303ee3ad3100e9cbe30c9c8803a9].
 
 (3) Sub-paragraph (4) applies if the amount of SEIS relief attributable to any of the relevant SEIS shares has been reduced under Chapter 6 of Part 5A of ITA 2007 before the SEIS relief was obtained (otherwise than by virtue of corresponding bonus shares being issued in respect of those shares).
 
@@ -113,7 +113,7 @@ where—
 - (b) SEIS re-investment relief is also attributable to the shares, and
 - (c) the SEIS relief which is attributable to the shares is withdrawn or reduced under Chapters 6 and 7 of Part 5A of ITA 2007.
 
-(2) A chargeable gain accrues to the individual in the tax year in which the shares were issued[^key-ea6364afa72bcaed9b727e491b9ad017] on a disposal made in that tax year.
+(2) A chargeable gain accrues to the individual in the tax year in which the shares were issued[^c-ea6364afa72bcaed9b727e491b9ad017] on a disposal made in that tax year.
 
 (3) The amount of that gain is—
 
@@ -169,28 +169,28 @@ This is subject to sub-paragraph (3).
 
 ## Annotations
 
-[^key-097cf880621a747c1e1d40236447e415]: Textual amendment: Sch. 5BB inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/5)
+[^c-097cf880621a747c1e1d40236447e415]: Textual amendment: Sch. 5BB inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/5)
 
-[^key-27493a4269dfdfbbadb23624f6223d08]: Textual amendment: Words in Sch. 5BB para. 1(2)(a) substituted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 55(1)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/55/1/a)
+[^c-27493a4269dfdfbbadb23624f6223d08]: Textual amendment: Words in Sch. 5BB para. 1(2)(a) substituted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 55(1)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/55/1/a)
 
-[^key-995ccc9f91a4b5a2f53e58a6474c1679]: Textual amendment: Words in Sch. 5BB para. 1(2)(a) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/2/a/i)
+[^c-995ccc9f91a4b5a2f53e58a6474c1679]: Textual amendment: Words in Sch. 5BB para. 1(2)(a) inserted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/2/a/i)
 
-[^key-43de00f69b0fe7efa419af129d0e54e0]: Textual amendment: Words in Sch. 5BB para. 1(2)(b) substituted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/2/a/ii)
+[^c-43de00f69b0fe7efa419af129d0e54e0]: Textual amendment: Words in Sch. 5BB para. 1(2)(b) substituted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/2/a/ii)
 
-[^key-1d6e4e88210a010f96a7e7a88627911a]: Textual amendment: Words in Sch. 5BB para. 1(3)(a) substituted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(2)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/2/b)
+[^c-1d6e4e88210a010f96a7e7a88627911a]: Textual amendment: Words in Sch. 5BB para. 1(3)(a) substituted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(2)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/2/b)
 
-[^key-77149775792724d7bb072066adf334ee]: Textual amendment: Sch. 5BB para. 1(5)(5A) substituted for Sch. 5BB para. 1(5) (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(2)(c)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/2/c)
+[^c-77149775792724d7bb072066adf334ee]: Textual amendment: Sch. 5BB para. 1(5)(5A) substituted for Sch. 5BB para. 1(5) (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(2)(c)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/2/c)
 
-[^key-db83615a0fe3dcc83be4a08b0ed08466]: Textual amendment: Words in Sch. 5BB para. 1(5A) substituted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 55(1)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/55/1/b)
+[^c-db83615a0fe3dcc83be4a08b0ed08466]: Textual amendment: Words in Sch. 5BB para. 1(5A) substituted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 55(1)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/55/1/b)
 
-[^key-1abd74ab83e1092343d4ef3b61eda7b7]: Textual amendment: Words in Sch. 5BB para. 2(1) substituted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/3/a)
+[^c-1abd74ab83e1092343d4ef3b61eda7b7]: Textual amendment: Words in Sch. 5BB para. 2(1) substituted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/3/a)
 
 [^M_F_2b6e94af-8af8-4626-cd14-19aa10fe814e]: Textual amendment: Sum in Sch. 5BB para. 2(1) substituted (6.4.2023 in relation to shares issued on or after that date) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 15(6)(a)(7)](https://www.legislation.gov.uk/ukpga/2023/30/section/15/6/a)
 
 [^M_F_a66f709c-1641-493b-ed52-d75fc9d309f7]: Textual amendment: Sum "£200,000" in formula in Sch. 5BB para. 2(2) substituted for "£100,000" (6.4.2023 in relation to shares issued on or after that date) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 15(6)(b)(7)](https://www.legislation.gov.uk/ukpga/2023/30/section/15/6/b)
 
-[^key-6e248ad486fd0d26ad15d3f60d8d0d81]: Textual amendment: Words in Sch. 5BB para. 2(2) substituted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/3/b/i)
+[^c-6e248ad486fd0d26ad15d3f60d8d0d81]: Textual amendment: Words in Sch. 5BB para. 2(2) substituted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/3/b/i)
 
-[^key-9dda303ee3ad3100e9cbe30c9c8803a9]: Textual amendment: Words in Sch. 5BB para. 2(2) substituted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/3/b/ii)
+[^c-9dda303ee3ad3100e9cbe30c9c8803a9]: Textual amendment: Words in Sch. 5BB para. 2(2) substituted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/3/b/ii)
 
-[^key-ea6364afa72bcaed9b727e491b9ad017]: Textual amendment: Words in Sch. 5BB para. 5(2) substituted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/4)
+[^c-ea6364afa72bcaed9b727e491b9ad017]: Textual amendment: Words in Sch. 5BB para. 5(2) substituted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 57(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/57/4)

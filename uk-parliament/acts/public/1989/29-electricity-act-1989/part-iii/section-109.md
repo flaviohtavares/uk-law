@@ -40,7 +40,7 @@ and for the purposes of this subsection the principal office of a company regist
 - (a) addressing it to him by the description of “owner” or “occupier” of the land (describing it); and
 - (b) either leaving it in the hands of a person who is or appears to be resident or employed on the land or leaving it conspicuously affixed to some building or object on or near the land.
 
-(4A)[^key-3a81de9f9c8454e5d748cb5ffcd0db23] In the case of any document required or authorised by virtue of this Act to be served on any person by the Authority or the Secretary of State, that document may also be served by electronic means if the conditions in subsection (4B) are met.
+(4A)[^c-3a81de9f9c8454e5d748cb5ffcd0db23] In the case of any document required or authorised by virtue of this Act to be served on any person by the Authority or the Secretary of State, that document may also be served by electronic means if the conditions in subsection (4B) are met.
 
 (4B) The conditions in this subsection are that—
 
@@ -58,7 +58,7 @@ and for the purposes of this subsection the principal office of a company regist
 
 (5) This section shall not apply to any document in relation to the service of which provision is made by rules of court.
 
-(6)[^key-a41b9a19598c8ebfd59ea71864375789] In this section—
+(6)[^c-a41b9a19598c8ebfd59ea71864375789] In this section—
 
 - “secretary”, in relation to a local authority within the meaning of the Local Government Act 1972 or the Local Government (Scotland) Act 1973, means the proper officer within the meaning of that Act;
 - “working day” means any day other than—
@@ -70,6 +70,6 @@ and for the purposes of this subsection the principal office of a company regist
 
 [^c4119181]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-3a81de9f9c8454e5d748cb5ffcd0db23]: Textual amendment: S. 109(4A)-(4E) inserted (1.8.2021) by [The Gas Act 1986 and Electricity Act 1989 (Electronic Communications) Order 2021 (S.I. 2021/789)](https://www.legislation.gov.uk/uksi/2021/789), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/789/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/789/article/3/2)
+[^c-3a81de9f9c8454e5d748cb5ffcd0db23]: Textual amendment: S. 109(4A)-(4E) inserted (1.8.2021) by [The Gas Act 1986 and Electricity Act 1989 (Electronic Communications) Order 2021 (S.I. 2021/789)](https://www.legislation.gov.uk/uksi/2021/789), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/789/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/789/article/3/2)
 
-[^key-a41b9a19598c8ebfd59ea71864375789]: Textual amendment: S. 109(6) substituted (1.8.2021) by [The Gas Act 1986 and Electricity Act 1989 (Electronic Communications) Order 2021 (S.I. 2021/789)](https://www.legislation.gov.uk/uksi/2021/789), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/789/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2021/789/article/3/3)
+[^c-a41b9a19598c8ebfd59ea71864375789]: Textual amendment: S. 109(6) substituted (1.8.2021) by [The Gas Act 1986 and Electricity Act 1989 (Electronic Communications) Order 2021 (S.I. 2021/789)](https://www.legislation.gov.uk/uksi/2021/789), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/789/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2021/789/article/3/3)

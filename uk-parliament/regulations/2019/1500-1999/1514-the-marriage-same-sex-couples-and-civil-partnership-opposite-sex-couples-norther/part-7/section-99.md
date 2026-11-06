@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. State Pension Credit Regulations (Northern Ireland) 2003[^key-e76f7e843d0a6e9bf18080f59911e6f4]
+## 99. State Pension Credit Regulations (Northern Ireland) 2003[^c-e76f7e843d0a6e9bf18080f59911e6f4]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 1(2) of the State Pension Credit Regulations (Northern Ireland) 20
 
 ## Annotations
 
-[^key-e76f7e843d0a6e9bf18080f59911e6f4]: Commencement: Reg. 99 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-e76f7e843d0a6e9bf18080f59911e6f4]: Commencement: Reg. 99 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00162]: Footnote: [S.R. (N.I.) 2003/28](https://www.legislation.gov.uk/nisr/2003/28). In regulation 1(2), the definition of “couple” was inserted by paragraph 30 of Schedule 3 to [S.R. (N.I.) 2005/536](https://www.legislation.gov.uk/nisr/2005/536).

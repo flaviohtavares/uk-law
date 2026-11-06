@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Traffic regulation[^key-fb426976b5319bf129b74d6aeb92fde8]
+## 17. Traffic regulation[^c-fb426976b5319bf129b74d6aeb92fde8]
 
 *Extent: E+W+S*
 
@@ -52,6 +52,6 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-fb426976b5319bf129b74d6aeb92fde8]: Commencement: Art. 17 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-fb426976b5319bf129b74d6aeb92fde8]: Commencement: Art. 17 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00030]: Footnote: Section 32 was amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51). There are other amendments to section 32 which are not relevant to this Order.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Enforcement[^key-79beae1ad58df6564f7a81246a5332f5]
+## 54. Enforcement[^c-79beae1ad58df6564f7a81246a5332f5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79beae1ad58df6564f7a81246a5332f5]: Textual amendment: [S. 54](https://www.legislation.gov.uk/anaw/2017/2/section/54) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/27)
+[^c-79beae1ad58df6564f7a81246a5332f5]: Textual amendment: [S. 54](https://www.legislation.gov.uk/anaw/2017/2/section/54) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/27)

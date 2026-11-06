@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Deprivation orders[^key-c9a93a528f0bea6940ae24d14ed9b99e][^key-41b212768bec014b1fd22becd672a67c]
+## 39. Deprivation orders[^c-c9a93a528f0bea6940ae24d14ed9b99e][^c-41b212768bec014b1fd22becd672a67c]
 
 *Extent: S*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c9a93a528f0bea6940ae24d14ed9b99e]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2006/11/section/39) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2) (with [art. 4(1)(b)](https://www.legislation.gov.uk/ssi/2006/482/article/4/1/b))
+[^c-c9a93a528f0bea6940ae24d14ed9b99e]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2006/11/section/39) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2) (with [art. 4(1)(b)](https://www.legislation.gov.uk/ssi/2006/482/article/4/1/b))
 
-[^key-41b212768bec014b1fd22becd672a67c]: Modification: [Ss. 39](https://www.legislation.gov.uk/asp/2006/11/section/39), [40](https://www.legislation.gov.uk/asp/2006/11/section/40) applied (1.9.2021) by [The Animal Welfare (Licensing of Activities Involving Animals) (Scotland) Regulations 2021 (S.S.I. 2021/84)](https://www.legislation.gov.uk/ssi/2021/84), [regs. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1), [25(1)](https://www.legislation.gov.uk/ssi/2021/84/regulation/25/1)
+[^c-41b212768bec014b1fd22becd672a67c]: Modification: [Ss. 39](https://www.legislation.gov.uk/asp/2006/11/section/39), [40](https://www.legislation.gov.uk/asp/2006/11/section/40) applied (1.9.2021) by [The Animal Welfare (Licensing of Activities Involving Animals) (Scotland) Regulations 2021 (S.S.I. 2021/84)](https://www.legislation.gov.uk/ssi/2021/84), [regs. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1), [25(1)](https://www.legislation.gov.uk/ssi/2021/84/regulation/25/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19C. Obligations in Part II and III of these Regulations which are met by complying with obligations in Regulation (EU) 2017/745[^key-48cc0bf75579e9d355d64ee4cacbbbd6]
+## 19C. Obligations in Part II and III of these Regulations which are met by complying with obligations in Regulation (EU) 2017/745[^c-48cc0bf75579e9d355d64ee4cacbbbd6]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
   - (i) that the device meets the general safety and performance requirements in Annex I which apply to it; or
   - (ii) that paragraphs (10) and (11) apply;
 - (b) ensures that the relevant conformity assessment procedure that applies to the device has been carried out in accordance with Article 52;
-- (ba)[^key-4c693c96d951e5ea0f950b40f6a50bb9] ensures that any certificate issued by a notified body in connection with that conformity assessment procedure has not expired or been withdrawn;
+- (ba)[^c-4c693c96d951e5ea0f950b40f6a50bb9] ensures that any certificate issued by a notified body in connection with that conformity assessment procedure has not expired or been withdrawn;
 - (c) ensures that the documentation required by the relevant conformity assessment procedure is drawn up;
 - (d) ensures that the technical documentation required by Annexes II and III and other relevant documentation required by a relevant conformity assessment procedure is prepared in or translated into English;
 - (e) affixes a CE marking and, where applicable, the identification number of the notified body which carried out the relevant conformity assessment on the device in accordance with the procedure set out in Annexes IX, X or XI;
@@ -52,7 +52,7 @@ summary: ''
 
 (6) Where paragraph (7) applies, regulations 8 and 14 are treated as being satisfied.
 
-(7)[^key-897eec2237c09136dac146a16ec91303] This paragraph applies where, before a system or procedure pack is placed on the market, the person responsible for combining devices to produce that system or procedure pack—
+(7)[^c-897eec2237c09136dac146a16ec91303] This paragraph applies where, before a system or procedure pack is placed on the market, the person responsible for combining devices to produce that system or procedure pack—
 
 - (a) has complied with the relevant requirements of Article 22 including where that Article requires a conformity assessment in accordance with Annex IX or XI; and
 - (b) ensures that any certificate issued by a notified body in connection with that conformity assessment procedure has not expired or been withdrawn.
@@ -72,8 +72,8 @@ summary: ''
 
 ## Annotations
 
-[^key-48cc0bf75579e9d355d64ee4cacbbbd6]: Textual amendment: Regs. 19B, 19C inserted (E.W.S.) (31.12.2020) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/791)](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [4(11)](https://www.legislation.gov.uk/uksi/2019/791/regulation/4/11) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [24](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/24)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48cc0bf75579e9d355d64ee4cacbbbd6]: Textual amendment: Regs. 19B, 19C inserted (E.W.S.) (31.12.2020) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/791)](https://www.legislation.gov.uk/uksi/2019/791), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/791/regulation/1/1), [4(11)](https://www.legislation.gov.uk/uksi/2019/791/regulation/4/11) (as amended by [S.I. 2020/1478](https://www.legislation.gov.uk/uksi/2020/1478), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/3), [Sch. 2 paras. 2](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/2), [24](https://www.legislation.gov.uk/uksi/2020/1478/schedule/2/paragraph/24)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4c693c96d951e5ea0f950b40f6a50bb9]: Textual amendment: [Reg. 19C(3)(ba)](https://www.legislation.gov.uk/uksi/2002/618/regulation/19C/3/ba) inserted (1.7.2023) by [The Medical Devices (Amendment) (Great Britain) Regulations 2023 (S.I. 2023/627)](https://www.legislation.gov.uk/uksi/2023/627), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/627/regulation/2/2), [7(2)](https://www.legislation.gov.uk/uksi/2023/627/regulation/7/2)
+[^c-4c693c96d951e5ea0f950b40f6a50bb9]: Textual amendment: [Reg. 19C(3)(ba)](https://www.legislation.gov.uk/uksi/2002/618/regulation/19C/3/ba) inserted (1.7.2023) by [The Medical Devices (Amendment) (Great Britain) Regulations 2023 (S.I. 2023/627)](https://www.legislation.gov.uk/uksi/2023/627), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/627/regulation/2/2), [7(2)](https://www.legislation.gov.uk/uksi/2023/627/regulation/7/2)
 
-[^key-897eec2237c09136dac146a16ec91303]: Textual amendment: [Reg. 19C(7)](https://www.legislation.gov.uk/uksi/2002/618/regulation/19C/7) substituted (1.7.2023) by [The Medical Devices (Amendment) (Great Britain) Regulations 2023 (S.I. 2023/627)](https://www.legislation.gov.uk/uksi/2023/627), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/627/regulation/2/2), [7(3)](https://www.legislation.gov.uk/uksi/2023/627/regulation/7/3)
+[^c-897eec2237c09136dac146a16ec91303]: Textual amendment: [Reg. 19C(7)](https://www.legislation.gov.uk/uksi/2002/618/regulation/19C/7) substituted (1.7.2023) by [The Medical Devices (Amendment) (Great Britain) Regulations 2023 (S.I. 2023/627)](https://www.legislation.gov.uk/uksi/2023/627), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2023/627/regulation/2/2), [7(3)](https://www.legislation.gov.uk/uksi/2023/627/regulation/7/3)

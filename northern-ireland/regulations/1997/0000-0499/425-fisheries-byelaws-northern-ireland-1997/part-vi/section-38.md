@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**38.**[^key-c64c12b20199d8702a6d7f1c3c2fa9c6] The mesh of the wings of any draft net for use in fresh water for the taking of salmon or freshwater fish shall be of a size not less than 21 millimetres from knot to knot or 84 millimetres to be measured all round each mesh and the mesh of the tail of such draft net (which tail shall not exceed 2.5 metres in length) shall be of a size not less than 6 millimetres from knot to knot or 24 millimetres to be measured all round each mesh.
+**38.**[^c-c64c12b20199d8702a6d7f1c3c2fa9c6] The mesh of the wings of any draft net for use in fresh water for the taking of salmon or freshwater fish shall be of a size not less than 21 millimetres from knot to knot or 84 millimetres to be measured all round each mesh and the mesh of the tail of such draft net (which tail shall not exceed 2.5 metres in length) shall be of a size not less than 6 millimetres from knot to knot or 24 millimetres to be measured all round each mesh.
 
 ## Annotations
 
-[^key-c64c12b20199d8702a6d7f1c3c2fa9c6]: Commencement: S. 38 in operation at 1.11.1997, see byelaw 1
+[^c-c64c12b20199d8702a6d7f1c3c2fa9c6]: Commencement: S. 38 in operation at 1.11.1997, see byelaw 1

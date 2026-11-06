@@ -41,7 +41,7 @@ Coming into force
 
 The National Assembly for Wales, in exercise of powers conferred on it by sections 43(1) and (2) and 44(1) of the Public Services Ombudsman (Wales) Act 2005[^f00001] hereby makes the following Order:
 
-## 1. Title, commencement, application and interpretation[^key-f115fd16a13a4539cc136ff37b562e82]
+## 1. Title, commencement, application and interpretation[^c-f115fd16a13a4539cc136ff37b562e82]
 
 (1) The title of this Order is the Public Services Ombudsman (Wales) Act 2005 (Transitional Provisions and Consequential Amendments) Order 2006 and it shall come into force on 1 April 2006.
 
@@ -57,13 +57,13 @@ The National Assembly for Wales, in exercise of powers conferred on it by sectio
   and who is entitled to vote on any question which falls to be decided at any meeting of that committee or sub-committee; and
 - “relevant authority” (“*awdurdod perthnasol*”) means a county council, a county borough council, a National Park authority established under section 63 of the Environment Act 1995[^f00002] or a fire and rescue authority constituted by a scheme under section 2 of the Fire and Rescue Services Act 2004[^f00003] or a scheme to which section 4 of that Act applies.
 
-## 2. Revocation and amendment of subordinate legislation[^key-c11d74c81842982ab7c6f75fee5ac31d]
+## 2. Revocation and amendment of subordinate legislation[^c-c11d74c81842982ab7c6f75fee5ac31d]
 
 The subordinate legislation referred to in Schedule 1 is revoked.
 
-**3.**[^key-9ef5b6aa57e443b43b768478c8cb68b3] Schedule 2 contains amendments to subordinate legislation.
+**3.**[^c-9ef5b6aa57e443b43b768478c8cb68b3] Schedule 2 contains amendments to subordinate legislation.
 
-## 4. Transitional provisions[^key-408881190f6bd6ce22fdd982b5136948]
+## 4. Transitional provisions[^c-408881190f6bd6ce22fdd982b5136948]
 
 (1) Paragraph (2) applies if—
 
@@ -89,11 +89,11 @@ The Deputy Presiding Officer of the National Assembly
 
 14 February 2006
 
-## SCHEDULE 1 — SUBORDINATE LEGISLATION REVOKED[^key-c867ace89b4de7fae4b6abc8105bf505]
+## SCHEDULE 1 — SUBORDINATE LEGISLATION REVOKED[^c-c867ace89b4de7fae4b6abc8105bf505]
 
 Article 2
 
-[^key-c867ace89b4de7fae4b6abc8105bf505]The following subordinate legislation is revoked—
+[^c-c867ace89b4de7fae4b6abc8105bf505]The following subordinate legislation is revoked—
 
 - (a) The Government of Wales Act (Complaints of Maladministration) (Transitional and Saving Provisions) Order 1999[^f00007];
 - (b) The Commission for Local Administration in Wales and Local Commissioner in Wales (Functions and Expenses) Regulations 2001[^f00008]; and
@@ -103,11 +103,11 @@ Article 2
 
 Article 3
 
-### 1. Official Secrets Act 1989 (Prescription) Order 1990[^key-af4b7599e5a00097929aaba7f23ce893]
+### 1. Official Secrets Act 1989 (Prescription) Order 1990[^c-af4b7599e5a00097929aaba7f23ce893]
 
 In the Official Secrets Act 1989 (Prescription) Order 1990[^f00010], in Schedule 2 (Prescriptions), in the entry in the first column for “Officer of the Health Service Commissioner for England or Wales” omit the words “or Wales”.
 
-### 2. Child Support (Information, Evidence and Disclosure) Regulations 1992[^key-94da3bc84fbd64741568eb6557431f18]
+### 2. Child Support (Information, Evidence and Disclosure) Regulations 1992[^c-94da3bc84fbd64741568eb6557431f18]
 
 In the Child Support (Information, Evidence and Disclosure) Regulations 1992[^f00011], in Regulation 11 (Employment to which section 50 of the Act applies)—
 
@@ -120,7 +120,7 @@ In the Child Support (Information, Evidence and Disclosure) Regulations 1992[^f0
 
   .
 
-### 3. Public Services Contracts Regulations 1993[^key-41c02e7eb51de0855dd246eca114a29b]
+### 3. Public Services Contracts Regulations 1993[^c-41c02e7eb51de0855dd246eca114a29b]
 
 In the Public Services Contracts Regulations 1993[^f00012], in Schedule 3 (GPA Annex I Contracting Authorities)—
 
@@ -128,7 +128,7 @@ In the Public Services Contracts Regulations 1993[^f00012], in Schedule 3 (GPA A
 - (b) after the entry referred to in paragraph (a) above insert, “Office of the Public Services Ombudsman for Wales”;
 - (c) after the entry for “Office of Fair Trading” insert “Office of the Health Service Commissioner for England”.
 
-### 4. Public Supply Contracts Regulations 1995[^key-c29ac3a75f5f85be88d87c9518be178a]
+### 4. Public Supply Contracts Regulations 1995[^c-c29ac3a75f5f85be88d87c9518be178a]
 
 In the Public Supply Contracts Regulations 1995[^f00013], in Schedule 1 (GPA Annex I Contracting Authorities)—
 
@@ -136,11 +136,11 @@ In the Public Supply Contracts Regulations 1995[^f00013], in Schedule 1 (GPA Ann
 - (b) after the entry referred to in paragraph (a) above insert, “Office of the Public Services Ombudsman for Wales”;
 - (c) after the entry for “Office of Fair Trading” insert “Office of the Health Service Commissioner for England”.
 
-### 5. Health Authorities Act 1995 (Transitional Provisions) Order 1996[^key-b4c8a8c0ed1f3dbf05799be2448c955d]
+### 5. Health Authorities Act 1995 (Transitional Provisions) Order 1996[^c-b4c8a8c0ed1f3dbf05799be2448c955d]
 
 In the Health Authorities Act 1995 (Transitional Provisions) Order 1996[^f00014], in Article 9(1) omit “or Wales”.
 
-### 6. Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) Regulations 2001[^key-3ff62fabc96b020297de7b2b8e570fba]
+### 6. Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) Regulations 2001[^c-3ff62fabc96b020297de7b2b8e570fba]
 
 In the Local Government Investigations (Functions of Monitoring Officers and Standards Committees) (Wales) Regulations 2001[^f00015]—
 
@@ -148,15 +148,15 @@ In the Local Government Investigations (Functions of Monitoring Officers and Sta
 - (b) In Regulations 7(a), 9(3) and 13(1) for “Local Commissioner in Wales” substitute “Public Services Ombudsman for Wales, and
 - (c) In Regulation 12 for “Local Commissioner for Wales” substitute “Public Services Ombudsman for Wales.”
 
-### 7. Standards Committees (Wales) Regulations 2001[^key-6922de7fa6c41f8e6add142ab66a8dfa]
+### 7. Standards Committees (Wales) Regulations 2001[^c-6922de7fa6c41f8e6add142ab66a8dfa]
 
 In the Standards Committees (Wales) Regulations 2001[^f00016], in Regulation 29(2) for “Commission for Local Administration in Wales” substitute “Public Services Ombudsman for Wales”.
 
-### 8. Local Authorities (Alternative Arrangements) (Wales) Regulations 2001[^key-7c0fbfbb0e7e97c5dbb239c738b256d9]
+### 8. Local Authorities (Alternative Arrangements) (Wales) Regulations 2001[^c-7c0fbfbb0e7e97c5dbb239c738b256d9]
 
 In the Local Authorities (Alternative Arrangements) (Wales) Regulations 2001[^f00017], in Part I (Miscellaneous functions) of Schedule 1, in paragraph 16, column 1, for “Local Commissioner” substitute “Public Services Ombudsman for Wales”.
 
-### 9. Adjudications by Case Tribunals and Interim Case Tribunals (Wales) Regulations 2001[^key-52c79ac95e5fd9c1f03e2ab60904e849]
+### 9. Adjudications by Case Tribunals and Interim Case Tribunals (Wales) Regulations 2001[^c-52c79ac95e5fd9c1f03e2ab60904e849]
 
 In the Adjudications by Case Tribunals and Interim Case Tribunals (Wales) Regulations 2001 [^f00018], in the Schedule—
 
@@ -164,22 +164,22 @@ In the Adjudications by Case Tribunals and Interim Case Tribunals (Wales) Regula
 - (b) In paragraph 2(a), for “Local Commissioner” substitute “Public Services Ombudsman for Wales”; and
 - (c) In paragraph 8, for “the Commission for Local Administration in Wales” substitute “the Public Services Ombudsman for Wales”.
 
-### 10. Conduct of Members (Model Code of Conduct) (Wales) Order 2001[^key-24e5efa0f6a46c473571012067d50557]
+### 10. Conduct of Members (Model Code of Conduct) (Wales) Order 2001[^c-24e5efa0f6a46c473571012067d50557]
 
 In the Conduct of Members (Model Code of Conduct) (Wales) Order 2001[^f00019], in Part II of the Schedule, in paragraph 6(1)(c), for “the Local Commissioner for Local Administration in Wales” substitute “the Public Services Ombudsman for Wales”.
 
-### 11. Local Authorities Executive Arrangements (Functions and Responsibilities) (Wales) Regulations 2001[^key-4205ab9de736600510ae36de1cfefd9d]
+### 11. Local Authorities Executive Arrangements (Functions and Responsibilities) (Wales) Regulations 2001[^c-4205ab9de736600510ae36de1cfefd9d]
 
 In the Local Authorities Executive Arrangements (Functions and Responsibilities) (Wales) Regulations 2001[^f00020], in Part I (Miscellaneous functions) of Schedule 1, in paragraph 16, column 1, for “Local Commissioner” substitute “Public Services Ombudsman for Wales”.
 
-### 12. National Assembly for Wales (Disqualification) Order 2003[^key-dadf81f9e915ad4eae4bea5d406c3a8a]
+### 12. National Assembly for Wales (Disqualification) Order 2003[^c-dadf81f9e915ad4eae4bea5d406c3a8a]
 
 In the National Assembly for Wales (Disqualification) Order 2003[^f00021]—
 
 - (a) In Part 1 of the Schedule omit the reference to “The Commission for Local Administration in Wales”; and
 - (b) In Part 2 of the Schedule omit the reference to “Health Service Commissioner for Wales”.
 
-### 13. Adoption Agencies (Wales) Regulations 2005[^key-aceb258394f553f84888d357bb0c52a0]
+### 13. Adoption Agencies (Wales) Regulations 2005[^c-aceb258394f553f84888d357bb0c52a0]
 
 In the Adoption Agencies (Wales) Regulations 2005[^f00022], in Regulation 43(1), in sub-paragraph (d), substitute “Public Services Ombudsman for Wales” for “Commissioner for Local Administration in Wales”.
 
@@ -197,17 +197,17 @@ The amendments and revocations made by this Order are consequential upon those c
 
 [^f00001]: Footnote: [2005 c. 1](https://www.legislation.gov.uk/ukpga/2005/1)
 
-[^key-f115fd16a13a4539cc136ff37b562e82]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2006/362/article/1) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-f115fd16a13a4539cc136ff37b562e82]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2006/362/article/1) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00002]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
 [^f00003]: Footnote: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21).
 
-[^key-c11d74c81842982ab7c6f75fee5ac31d]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2006/362/article/2) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-c11d74c81842982ab7c6f75fee5ac31d]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2006/362/article/2) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
-[^key-9ef5b6aa57e443b43b768478c8cb68b3]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2006/362/article/3) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-9ef5b6aa57e443b43b768478c8cb68b3]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2006/362/article/3) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
-[^key-408881190f6bd6ce22fdd982b5136948]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2006/362/article/4) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-408881190f6bd6ce22fdd982b5136948]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2006/362/article/4) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00004]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
@@ -215,7 +215,7 @@ The amendments and revocations made by this Order are consequential upon those c
 
 [^f00006]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-c867ace89b4de7fae4b6abc8105bf505]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2006/362/schedule/1) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-c867ace89b4de7fae4b6abc8105bf505]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2006/362/schedule/1) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00007]: Footnote: S.I. [1999/1791](https://www.legislation.gov.uk/uksi/1999/1791).
 
@@ -223,54 +223,54 @@ The amendments and revocations made by this Order are consequential upon those c
 
 [^f00009]: Footnote: S.I. [2004/2359](https://www.legislation.gov.uk/uksi/2004/2359).
 
-[^key-af4b7599e5a00097929aaba7f23ce893]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/1) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-af4b7599e5a00097929aaba7f23ce893]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/1) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00010]: Footnote: S.I. [1990/200](https://www.legislation.gov.uk/uksi/1990/200), amended by S.I. [1999/1042](https://www.legislation.gov.uk/uksi/1999/1042) and [S.I 2004/1823](https://www.legislation.gov.uk/uksi/2004/1823); there are other amending instruments but none is relevant.
 
-[^key-94da3bc84fbd64741568eb6557431f18]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/2) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-94da3bc84fbd64741568eb6557431f18]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/2) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00011]: Footnote: [S.I.1992/1812](https://www.legislation.gov.uk/uksi/1992/1812), amended by [S.I.2004/1823](https://www.legislation.gov.uk/uksi/2004/1823); there are other amending instruments but none is relevant.
 
-[^key-41c02e7eb51de0855dd246eca114a29b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/3) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-41c02e7eb51de0855dd246eca114a29b]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/3) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00012]: Footnote: S.I. [1993/3228](https://www.legislation.gov.uk/uksi/1993/3228), amended by the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32), and by S.I. [2000/2009](https://www.legislation.gov.uk/uksi/2000/2009), S.I. [2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), and [S.S.I. 2003/242](https://www.legislation.gov.uk/ssi/2003/242), there are other amendments but none is relevant.
 
-[^key-c29ac3a75f5f85be88d87c9518be178a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/4) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-c29ac3a75f5f85be88d87c9518be178a]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/4) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00013]: Footnote: S.I. [1995/201](https://www.legislation.gov.uk/uksi/1995/201), amended by the Police (Northern Ireland) Act [2000 (c. 32)](https://www.legislation.gov.uk/ukpga/2000/32), and by S.I. [2000/209](https://www.legislation.gov.uk/uksi/2000/209), [2002/881](https://www.legislation.gov.uk/uksi/2002/881), and [S.S.I. 2003/242](https://www.legislation.gov.uk/ssi/2003/242); there are other amendments but none is relevant.
 
-[^key-b4c8a8c0ed1f3dbf05799be2448c955d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/5) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-b4c8a8c0ed1f3dbf05799be2448c955d]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/5) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00014]: Footnote: [S.I 1996/709](https://www.legislation.gov.uk/uksi/1996/709), to which there are amendments not relevant to this Order.
 
-[^key-3ff62fabc96b020297de7b2b8e570fba]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/6) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-3ff62fabc96b020297de7b2b8e570fba]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/6) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00015]: Footnote: S.I. [2001/2281 (W.171)](https://www.legislation.gov.uk/wsi/2001/2281), amended by S.I. [2005/761](https://www.legislation.gov.uk/uksi/2005/761).
 
-[^key-6922de7fa6c41f8e6add142ab66a8dfa]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/7) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-6922de7fa6c41f8e6add142ab66a8dfa]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/7) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00016]: Footnote: S.I. [2001/2283 (W.172)](https://www.legislation.gov.uk/wsi/2001/2283).
 
-[^key-7c0fbfbb0e7e97c5dbb239c738b256d9]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/8) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-7c0fbfbb0e7e97c5dbb239c738b256d9]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/8) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00017]: Footnote: S.I. [2001/2284 (W.173)](https://www.legislation.gov.uk/wsi/2001/2284), amended by S.I. [2002/810 (W.90)](https://www.legislation.gov.uk/wsi/2002/810), S.I. [2004/3092](https://www.legislation.gov.uk/uksi/2004/3092), [S.I. 2005 /368](https://www.legislation.gov.uk/uksi/2005/368); there are other amendments but none is relevant.
 
-[^key-52c79ac95e5fd9c1f03e2ab60904e849]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/9) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-52c79ac95e5fd9c1f03e2ab60904e849]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/9) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00018]: Footnote: S.I. [2001/2288 (W.176)](https://www.legislation.gov.uk/wsi/2001/2288).
 
-[^key-24e5efa0f6a46c473571012067d50557]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/10) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-24e5efa0f6a46c473571012067d50557]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/10) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00019]: Footnote: S.I. [2001/2289 (W.177)](https://www.legislation.gov.uk/wsi/2001/2289).
 
-[^key-4205ab9de736600510ae36de1cfefd9d]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/11) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-4205ab9de736600510ae36de1cfefd9d]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/11) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00020]: Footnote: S.I. [2001/2291 (W.179)](https://www.legislation.gov.uk/wsi/2001/2291), amended by S.I. [2002/783 (W.84)](https://www.legislation.gov.uk/wsi/2002/783) and S.I. [2004/3093](https://www.legislation.gov.uk/uksi/2004/3093); there are other amendments but none is relevant.
 
-[^key-dadf81f9e915ad4eae4bea5d406c3a8a]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/12) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-dadf81f9e915ad4eae4bea5d406c3a8a]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/12) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00021]: Footnote: S.I. [2003/437](https://www.legislation.gov.uk/uksi/2003/437), amended by S.I. [2004/664](https://www.legislation.gov.uk/uksi/2004/664).
 
-[^key-aceb258394f553f84888d357bb0c52a0]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/13) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
+[^c-aceb258394f553f84888d357bb0c52a0]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2006/362/schedule/2/paragraph/13) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2006/362/article/1/1)
 
 [^f00022]: Footnote: S.I. [2005/1313 (W. 95)](https://www.legislation.gov.uk/wsi/2005/1313).

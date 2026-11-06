@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46XB. Import of Schedule 3DA revenue generating goods[^key-5071cf9e999e92e7f1e48a9beb76da5b]
+## 46XB. Import of Schedule 3DA revenue generating goods[^c-5071cf9e999e92e7f1e48a9beb76da5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5071cf9e999e92e7f1e48a9beb76da5b]: Textual amendment: [Pt. 5 Ch. 4GA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4GA) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/440/regulation/5)
+[^c-5071cf9e999e92e7f1e48a9beb76da5b]: Textual amendment: [Pt. 5 Ch. 4GA](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4GA) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/440/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Preparation and filing of accounts in euros[^key-31e5a720421047d8c466b3b0f3f2a700]
+## 18. Preparation and filing of accounts in euros[^c-31e5a720421047d8c466b3b0f3f2a700]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31e5a720421047d8c466b3b0f3f2a700]: Commencement: Reg. 18 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-31e5a720421047d8c466b3b0f3f2a700]: Commencement: Reg. 18 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

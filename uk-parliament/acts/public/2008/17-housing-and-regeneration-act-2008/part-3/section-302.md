@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 302. Shared ownership leases: protection for hard to replace houses[^key-0f24d7f28886dfef5b039be800b9cf43][^key-aef0b9ba72c451b5ee6b1b4d9d1b3b8c]
+## 302. Shared ownership leases: protection for hard to replace houses[^c-0f24d7f28886dfef5b039be800b9cf43][^c-aef0b9ba72c451b5ee6b1b4d9d1b3b8c]
 
 *Extent: E+W*
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f24d7f28886dfef5b039be800b9cf43]: Commencement: S. 302 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(5)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/5) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-0f24d7f28886dfef5b039be800b9cf43]: Commencement: S. 302 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(5)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/5) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-aef0b9ba72c451b5ee6b1b4d9d1b3b8c]: Commencement: [S. 302](https://www.legislation.gov.uk/ukpga/2008/17/section/302) in force at 7.9.2009 for E. in so far as not already in force by [S.I. 2009/2096](https://www.legislation.gov.uk/uksi/2009/2096), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2009/2096/article/2/2/b) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/2))
+[^c-aef0b9ba72c451b5ee6b1b4d9d1b3b8c]: Commencement: [S. 302](https://www.legislation.gov.uk/ukpga/2008/17/section/302) in force at 7.9.2009 for E. in so far as not already in force by [S.I. 2009/2096](https://www.legislation.gov.uk/uksi/2009/2096), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2009/2096/article/2/2/b) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/2))

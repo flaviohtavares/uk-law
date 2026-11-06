@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Information from administrator[^key-0be9fa24cf8e6ce8c6799370837230fd]
+## 83. Information from administrator[^c-0be9fa24cf8e6ce8c6799370837230fd]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0be9fa24cf8e6ce8c6799370837230fd]: Commencement: Rule 83 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-0be9fa24cf8e6ce8c6799370837230fd]: Commencement: Rule 83 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

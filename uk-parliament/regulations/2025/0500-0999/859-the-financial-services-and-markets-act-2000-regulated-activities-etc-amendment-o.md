@@ -46,7 +46,7 @@ In accordance with section 429(3) and (4) of and paragraph 26(1) and (2) of Sche
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent and interpretation[^key-d94392db2ee96a1478c0eaa2c2c716ab]
+### 1. Citation, commencement, extent and interpretation[^c-d94392db2ee96a1478c0eaa2c2c716ab]
 
 (1) This Order may be cited as the Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025.
 
@@ -76,7 +76,7 @@ In accordance with section 429(3) and (4) of and paragraph 26(1) and (2) of Sche
 
 ## PART 2 — Amendment of primary legislation
 
-### 2. Amendment of the CCA 1974[^key-ee4f7c02e7cbc85f8a5c9f59b6e86582]
+### 2. Amendment of the CCA 1974[^c-ee4f7c02e7cbc85f8a5c9f59b6e86582]
 
 (1) The Consumer Credit Act 1974[^f00006] is amended as follows.
 
@@ -197,7 +197,7 @@ In accordance with section 429(3) and (4) of and paragraph 26(1) and (2) of Sche
 
 ## PART 3 — Amendment of secondary legislation
 
-### 3. Amendment of the Regulated Activities Order[^key-fd39c30f042af80a19aab03c320836c7]
+### 3. Amendment of the Regulated Activities Order[^c-fd39c30f042af80a19aab03c320836c7]
 
 (1) The Regulated Activities Order is amended as follows.
 
@@ -205,15 +205,15 @@ In accordance with section 429(3) and (4) of and paragraph 26(1) and (2) of Sche
 
 > **36FB. Activities in relation to certain regulated credit agreements**
 >
-> (1) There are excluded from article 36A[^f00027] activities carried on in relation to a regulated deferred payment credit agreement [^key-7e8ae26fd1ccb2a606c64e64bdb2648d]....
+> (1) There are excluded from article 36A[^f00027] activities carried on in relation to a regulated deferred payment credit agreement [^c-7e8ae26fd1ccb2a606c64e64bdb2648d]....
 >
-> (2)[^key-b32b440e4d2ad0f09c606ae4476ad1ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (2)[^c-b32b440e4d2ad0f09c606ae4476ad1ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> (3)[^key-b32b440e4d2ad0f09c606ae4476ad1ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> (3)[^c-b32b440e4d2ad0f09c606ae4476ad1ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > (4) In this article—
 >
-> - [^key-282f6c37a371c57311435d3b3a733c5f]...
+> - [^c-282f6c37a371c57311435d3b3a733c5f]...
 > - “**regulated deferred payment credit agreement**” means an agreement—
 >   - (a) which meets each of the conditions set out in article 60F(2)(a) to (d) (exempt agreements: exemptions relating to number of repayments to be made); and
 >   - (b) to which paragraph (7A) of that article applies.
@@ -256,7 +256,7 @@ In accordance with section 429(3) and (4) of and paragraph 26(1) and (2) of Sche
 
   .
 
-### 4. Amendment of the Financial Services (Distance Marketing) Regulations 2004[^key-69b7abde88ebf44bd7159940f8a0c875]
+### 4. Amendment of the Financial Services (Distance Marketing) Regulations 2004[^c-69b7abde88ebf44bd7159940f8a0c875]
 
 After regulation 6 (financial services marketed by an intermediary) of the Financial Services (Distance Marketing) Regulations 2004[^f00029] insert—
 
@@ -271,7 +271,7 @@ After regulation 6 (financial services marketed by an intermediary) of the Finan
 
 .
 
-### 5. Amendment of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^key-db14d674e2e29e284a5313e2c4a60c74]
+### 5. Amendment of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^c-db14d674e2e29e284a5313e2c4a60c74]
 
 In article 15(1A) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^f00030] (introductions), after sub-paragraph (b) insert—
 
@@ -283,7 +283,7 @@ In article 15(1A) of the Financial Services and Markets Act 2000 (Financial Prom
 
 ## PART 4 — Transitional provisions
 
-### 6. Interpretation of Part 4[^key-76125c554929c7b2c5f0de48ed6379b0]
+### 6. Interpretation of Part 4[^c-76125c554929c7b2c5f0de48ed6379b0]
 
 In this Part—
 
@@ -294,8 +294,8 @@ In this Part—
 - “**the register**” has the meaning given by article 9;
 - “**registration**” means registration for temporary permission on the register in accordance with article 9;
 - “**relevant activity**” means an activity which is, after the regulatory commencement date, within the scope of—
-  - (a) article [^key-d0200d085d591548720c1a6f18c8ce56]... 60B (regulated credit agreements) of the Regulated Activities Order, and
-  - (b) article 64 of that Order (agreeing to carry on specified kinds of activity) so far as it relates to the activities specified by that article[^key-9b027984f36d3d1e840c4d90fc238b20],
+  - (a) article [^c-d0200d085d591548720c1a6f18c8ce56]... 60B (regulated credit agreements) of the Regulated Activities Order, and
+  - (b) article 64 of that Order (agreeing to carry on specified kinds of activity) so far as it relates to the activities specified by that article[^c-9b027984f36d3d1e840c4d90fc238b20],
 
   by virtue of the amendments made by this Order;
 - “**relevant application**” means an application made by a temporarily permissioned person on or before the last application date—
@@ -304,7 +304,7 @@ In this Part—
 - “**temporarily permissioned person**” means a person with temporary permission under article 10;
 - “**temporary permission**” has the meaning given by articles 10 and 11.
 
-### 6A. Transitional provision: person with Part 4A permission to carry on an activity in relation to article 60B[^key-ad526e25557eb79985ff7951a2655fb6]
+### 6A. Transitional provision: person with Part 4A permission to carry on an activity in relation to article 60B[^c-ad526e25557eb79985ff7951a2655fb6]
 
 (1) Subject to paragraph (3), where a person has a Part 4A permission to carry on an activity specified by article 60B (regulated credit agreements) of the Regulated Activities Order immediately before the regulatory commencement date (“the permission”), then on or after that date the permission is to be treated as permission to carry on an activity of a kind specified by that article as it has effect following the amendments made by this Order.
 
@@ -317,7 +317,7 @@ In this Part—
 - (a) vary or cancel a Part 4A permission under the Act or;
 - (b) impose, vary or cancel a requirement in relation to a Part 4A permission under the Act.
 
-### 7. Direction in relation to process for registration for temporary permission[^key-c4bb5c9cac9ca72b2a57591fb6dcddfa]
+### 7. Direction in relation to process for registration for temporary permission[^c-c4bb5c9cac9ca72b2a57591fb6dcddfa]
 
 The FCA may by direction specify—
 
@@ -327,7 +327,7 @@ The FCA may by direction specify—
 - (d) the amount of any fee payable under its rules in relation to registration; and
 - (e) such information as the FCA may reasonably require to be contained in, or supplied with, such a notification.
 
-### 8. Process for registration for temporary permission[^key-f8366768b1f588732cc3d14a7155ab62]
+### 8. Process for registration for temporary permission[^c-f8366768b1f588732cc3d14a7155ab62]
 
 (1) A person carrying on a relevant activity at the initial commencement date may notify the FCA of a desire for registration under this article.
 
@@ -354,7 +354,7 @@ The FCA may by direction specify—
 
 (7) The person who gave the notification must notify the FCA promptly of any material changes affecting the notification.
 
-### 9. Registration for temporary permission[^key-766d40078cda45fbff05be7b09fa95c4]
+### 9. Registration for temporary permission[^c-766d40078cda45fbff05be7b09fa95c4]
 
 (1) Where a person gives a notification of a desire for registration in accordance with article 8, the FCA must enter that person onto a register of persons with temporary permission maintained by it (“**the register**”).
 
@@ -363,7 +363,7 @@ The FCA may by direction specify—
 - (a) publish the register on its official website and make it available for public inspection, and
 - (b) update the register on a regular basis.
 
-### 10. Temporary permission[^key-7c7ae3aa2b4b0b1c4e7dcec881d2605f]
+### 10. Temporary permission[^c-7c7ae3aa2b4b0b1c4e7dcec881d2605f]
 
 (1) A person entered onto the register in accordance with article 9 for a relevant activity has temporary permission to carry on the relevant activity.
 
@@ -374,13 +374,13 @@ The FCA may by direction specify—
 - (a) subject to sub-paragraph (e), where that person makes a relevant application on or before the last application date, and the FCA decides to grant the application, on the day stated in its written notice under section 55V(5)[^f00034] as the date from which the permission granted under that notice has effect;
 - (b) subject to sub-paragraph (e), where that person makes a relevant application on or before the last application date, and the FCA decides to give or vary a Part 4A permission under section 55X(4)(a), (b), (c), (d) (ea) or (eb)[^f00035] (determination of applications: warning notices and decision notices), on the day on which the FCA gives the decision notice under section 55X;
 - (c) subject to sub-paragraph (e), where that person makes a relevant application on or before the last application date, and the FCA decides to refuse the application under section 55X(4)(f), then—
-  - (i) permission in respect of article [^key-76397330c7d78726547f1424595e634b]... 60B(1) of the Regulated Activities Order and article 64 of that Order so far as it relates to the activity specified by that article[^key-740316b35390f328f9c5d3aea86bef07] ceases to have effect on the day on which the FCA gives the decision notice refusing the application under section 55X;
+  - (i) permission in respect of article [^c-76397330c7d78726547f1424595e634b]... 60B(1) of the Regulated Activities Order and article 64 of that Order so far as it relates to the activity specified by that article[^c-740316b35390f328f9c5d3aea86bef07] ceases to have effect on the day on which the FCA gives the decision notice refusing the application under section 55X;
   - (ii) permission in respect of article 60B(2) of the Regulated Activities Order and article 64 of that Order so far as it relates to the activity specified by that article continues until whichever is the earliest of—
     - (aa) the end of a period of 2 years beginning with the day referred to in paragraph (i);
     - (bb) where that person gives written notice to the FCA that they no longer want to have a temporary permission under this paragraph, the day after the date on which the notice is given; or
     - (cc) the day on which that person has recovered all sums due to them under any credit agreement covered by the temporary permission or otherwise discharged them;
 - (d) subject to sub-paragraph (e), where that person makes a relevant application on or before the last application date, and they withdraw their application by written notice under section 55V(4) (determination of applications), then—
-  - (i) permission in respect of article [^key-ff9c6d3758c9f212caf7065168810e67]... 60B(1) of the Regulated Activities Order and article 64 of that Order so far as it relates to the activity specified by that article[^key-a9f7ca16d503d25b00ab5dc0b41d840e] ceases to have effect on the day after the date on which that person gives notice of withdrawal of the application under section 55V(4);
+  - (i) permission in respect of article [^c-ff9c6d3758c9f212caf7065168810e67]... 60B(1) of the Regulated Activities Order and article 64 of that Order so far as it relates to the activity specified by that article[^c-a9f7ca16d503d25b00ab5dc0b41d840e] ceases to have effect on the day after the date on which that person gives notice of withdrawal of the application under section 55V(4);
   - (ii) permission in respect of article 60B(2) of the Regulated Activities Order and article 64 of that Order so far as it relates to the activity specified by that article continues until whichever is the earliest of—
     - (aa) the end of a period of 2 years beginning with the day referred to in paragraph (i);
     - (bb) where that person gives written notice to the FCA that they no longer want to have a temporary permission under this paragraph, the day after the date on which the notice is given; or
@@ -409,7 +409,7 @@ The FCA may by direction specify—
 
 (8) In this article, a reference to a numbered section or Part is a reference to the section or Part so numbered in the 2000 Act.
 
-### 11. Application of the 2000 Act to persons with temporary permission[^key-76ad04053a2339eabcbd94f38c6e6b8e]
+### 11. Application of the 2000 Act to persons with temporary permission[^c-76ad04053a2339eabcbd94f38c6e6b8e]
 
 (1) This article applies to a person who has temporary permission to carry on a relevant activity in relation to relevant activities carried on under that temporary permission.
 
@@ -428,9 +428,9 @@ The FCA may by direction specify—
 - (a) under section 55A for permission to carry on a regulated activity which is not a relevant activity; or
 - (b) under section 55H to vary a Part 4A permission by adding to the activities to which the permission relates a regulated activity which is not a relevant activity,
 
-the application may be treated by the FCA as relating also to either or both[^key-9b4e88b98307342400c519d2e9da4542] of the regulated activities for which that person has temporary permission.
+the application may be treated by the FCA as relating also to either or both[^c-9b4e88b98307342400c519d2e9da4542] of the regulated activities for which that person has temporary permission.
 
-(5) If the FCA treats the application as relating also to either or both[^key-9061257880439e10770e67e087f42308] of the regulated activities for which that person has a temporary permission, article 12(4) does not apply in relation to the application.
+(5) If the FCA treats the application as relating also to either or both[^c-9061257880439e10770e67e087f42308] of the regulated activities for which that person has a temporary permission, article 12(4) does not apply in relation to the application.
 
 (6) The duty imposed by section 55B(3)[^f00042] (satisfaction of threshold conditions) does not apply where the FCA exercises its power in relation to that person under—
 
@@ -449,7 +449,7 @@ the application may be treated by the FCA as relating also to either or both[^ke
 
 (10) In this article, a reference to a numbered section, Part or Schedule is a reference to the section, Part or Schedule so numbered in the 2000 Act.
 
-### 12. Relevant applications[^key-b7e8802fcb2b4c516278e974e18c9008]
+### 12. Relevant applications[^c-b7e8802fcb2b4c516278e974e18c9008]
 
 (1) In relation to a relevant application, the FCA, may by direction specify the date on or after which a relevant application may be made, provided that date is before the regulatory commencement date.
 
@@ -465,7 +465,7 @@ the application may be treated by the FCA as relating also to either or both[^ke
 
 ## PART 5 — Review
 
-### 13. Review[^key-fc2aee66950a8cbb3f2d6c69f2cb293d]
+### 13. Review[^c-fc2aee66950a8cbb3f2d6c69f2cb293d]
 
 (1) The Treasury must from time to time—
 
@@ -525,11 +525,11 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00004]: Footnote: Paragraph 26 of Schedule 2 was amended by section 8 of the Financial Services Act 2012.
 
-[^key-d94392db2ee96a1478c0eaa2c2c716ab]: Commencement: Art. 1 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
+[^c-d94392db2ee96a1478c0eaa2c2c716ab]: Commencement: Art. 1 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
 
 [^f00005]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 
-[^key-ee4f7c02e7cbc85f8a5c9f59b6e86582]: Commencement: Art. 2 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
+[^c-ee4f7c02e7cbc85f8a5c9f59b6e86582]: Commencement: Art. 2 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
 
 [^f00006]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
 
@@ -571,67 +571,67 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00025]: Footnote: Article 60F was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881). Relevant amendments were made by [S.I. 2014/366](https://www.legislation.gov.uk/uksi/2014/366) and [1850](https://www.legislation.gov.uk/uksi/2014/1850) and [2015/352](https://www.legislation.gov.uk/uksi/2015/352).
 
-[^key-fd39c30f042af80a19aab03c320836c7]: Commencement: Art. 3 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
+[^c-fd39c30f042af80a19aab03c320836c7]: Commencement: Art. 3 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
 
 [^f00026]: Footnote: Article 36FA was inserted by [S.I. 2019/1067](https://www.legislation.gov.uk/uksi/2019/1067).
 
 [^f00027]: Footnote: Article 36A was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
-[^key-7e8ae26fd1ccb2a606c64e64bdb2648d]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2025/859/article/3/2) omitted (3.12.2025) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/2/a)
+[^c-7e8ae26fd1ccb2a606c64e64bdb2648d]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2025/859/article/3/2) omitted (3.12.2025) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/2/a)
 
-[^key-b32b440e4d2ad0f09c606ae4476ad1ce]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2025/859/article/3/2) omitted (3.12.2025) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/2/b)
+[^c-b32b440e4d2ad0f09c606ae4476ad1ce]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2025/859/article/3/2) omitted (3.12.2025) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/2/b)
 
-[^key-282f6c37a371c57311435d3b3a733c5f]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2025/859/article/3/2) omitted (3.12.2025) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/2/c)
+[^c-282f6c37a371c57311435d3b3a733c5f]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2025/859/article/3/2) omitted (3.12.2025) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/2/c)
 
 [^f00028]: Footnote: [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10).
 
-[^key-69b7abde88ebf44bd7159940f8a0c875]: Commencement: Art. 4 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
+[^c-69b7abde88ebf44bd7159940f8a0c875]: Commencement: Art. 4 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
 
 [^f00029]: Footnote: [S.I. 2004/2095](https://www.legislation.gov.uk/uksi/2004/2095).
 
-[^key-db14d674e2e29e284a5313e2c4a60c74]: Commencement: Art. 5 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
+[^c-db14d674e2e29e284a5313e2c4a60c74]: Commencement: Art. 5 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
 
 [^f00030]: Footnote: [S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529), amended by [S.I. 2014/366](https://www.legislation.gov.uk/uksi/2014/366).
 
-[^key-76125c554929c7b2c5f0de48ed6379b0]: Commencement: Art. 6 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
+[^c-76125c554929c7b2c5f0de48ed6379b0]: Commencement: Art. 6 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
 
 [^f00031]: Footnote: Article 60B was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881), and the definition of “credit agreement” was substituted by [S.I. 2014/1850](https://www.legislation.gov.uk/uksi/2014/1850).
 
 [^f00032]: Footnote: Section 55A was inserted by section 11(2) of the Financial Services Act 2012.
 
-[^key-d0200d085d591548720c1a6f18c8ce56]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2025/859/article/6) omitted (3.12.2025) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/3/a)
+[^c-d0200d085d591548720c1a6f18c8ce56]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2025/859/article/6) omitted (3.12.2025) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/3/a)
 
-[^key-9b027984f36d3d1e840c4d90fc238b20]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2025/859/article/6) substituted (3.12.2025) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/3/b)
+[^c-9b027984f36d3d1e840c4d90fc238b20]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2025/859/article/6) substituted (3.12.2025) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/3/b)
 
 [^f00033]: Footnote: Section 55H was inserted by section 11(2) of the Financial Services Act 2012.
 
-[^key-ad526e25557eb79985ff7951a2655fb6]: Textual amendment: [Art. 6A](https://www.legislation.gov.uk/uksi/2025/859/article/6A) inserted (3.12.2025) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/4)
+[^c-ad526e25557eb79985ff7951a2655fb6]: Textual amendment: [Art. 6A](https://www.legislation.gov.uk/uksi/2025/859/article/6A) inserted (3.12.2025) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/4)
 
-[^key-c4bb5c9cac9ca72b2a57591fb6dcddfa]: Commencement: Art. 7 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
+[^c-c4bb5c9cac9ca72b2a57591fb6dcddfa]: Commencement: Art. 7 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
 
-[^key-f8366768b1f588732cc3d14a7155ab62]: Commencement: Art. 8 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
+[^c-f8366768b1f588732cc3d14a7155ab62]: Commencement: Art. 8 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
 
-[^key-766d40078cda45fbff05be7b09fa95c4]: Commencement: Art. 9 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
+[^c-766d40078cda45fbff05be7b09fa95c4]: Commencement: Art. 9 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
 
-[^key-7c7ae3aa2b4b0b1c4e7dcec881d2605f]: Commencement: Art. 10 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
+[^c-7c7ae3aa2b4b0b1c4e7dcec881d2605f]: Commencement: Art. 10 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
 
 [^f00034]: Footnote: Section 55V was inserted by section 11(2) of the Financial Services Act 2012. Subsection (5) was amended by paragraph 8 of Schedule 5 to the Financial Services and Markets Act [2023 (c.29)](https://www.legislation.gov.uk/ukpga/2023/29).
 
 [^f00035]: Footnote: Section 55X was inserted by section 11(2) of the Financial Services Act 2012. Subsection (4) was amended by paragraph 9 of Schedule 5 to the Financial Services and Markets Act 2023.
 
-[^key-76397330c7d78726547f1424595e634b]: Textual amendment: Words in [art. 10(3)(c)(i)](https://www.legislation.gov.uk/uksi/2025/859/article/10/3/c/i) omitted (3.12.2025) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/5/a/i)
+[^c-76397330c7d78726547f1424595e634b]: Textual amendment: Words in [art. 10(3)(c)(i)](https://www.legislation.gov.uk/uksi/2025/859/article/10/3/c/i) omitted (3.12.2025) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/5/a/i)
 
-[^key-740316b35390f328f9c5d3aea86bef07]: Textual amendment: Words in [art. 10(3)(c)(i)](https://www.legislation.gov.uk/uksi/2025/859/article/10/3/c/i) substituted (3.12.2025) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/5/a/ii)
+[^c-740316b35390f328f9c5d3aea86bef07]: Textual amendment: Words in [art. 10(3)(c)(i)](https://www.legislation.gov.uk/uksi/2025/859/article/10/3/c/i) substituted (3.12.2025) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/5/a/ii)
 
-[^key-ff9c6d3758c9f212caf7065168810e67]: Textual amendment: Words in [art. 10(3)(d)(i)](https://www.legislation.gov.uk/uksi/2025/859/article/10/3/d/i) omitted (3.12.2025) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/5/b/i)
+[^c-ff9c6d3758c9f212caf7065168810e67]: Textual amendment: Words in [art. 10(3)(d)(i)](https://www.legislation.gov.uk/uksi/2025/859/article/10/3/d/i) omitted (3.12.2025) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/5/b/i)
 
-[^key-a9f7ca16d503d25b00ab5dc0b41d840e]: Textual amendment: Words in [art. 10(3)(d)(i)](https://www.legislation.gov.uk/uksi/2025/859/article/10/3/d/i) substituted (3.12.2025) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/5/b/ii)
+[^c-a9f7ca16d503d25b00ab5dc0b41d840e]: Textual amendment: Words in [art. 10(3)(d)(i)](https://www.legislation.gov.uk/uksi/2025/859/article/10/3/d/i) substituted (3.12.2025) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/5/b/ii)
 
 [^f00036]: Footnote: Section 55L was inserted by section 11(2) of the Financial Services Act 2012.
 
 [^f00037]: Footnote: Section 404F was inserted by section 14(1) of the Financial Services Act [2010 (c.28)](https://www.legislation.gov.uk/ukpga/2010/28). Subsection (7) was amended by paragraph 20 of Schedule 18 to the Financial Services Act 2012.
 
-[^key-76ad04053a2339eabcbd94f38c6e6b8e]: Commencement: Art. 11 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
+[^c-76ad04053a2339eabcbd94f38c6e6b8e]: Commencement: Art. 11 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
 
 [^f00038]: Footnote: Section 38(2) was amended by paragraph 4 of Schedule 18 to the Financial Services Act 2012.
 
@@ -641,9 +641,9 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00041]: Footnote: Section 63E was inserted by section 29 of the Financial Services (Banking Reform) Act 2013 and amended by paragraph 11 of Schedule 4 to the Bank of England and Financial Services Act 2016, and [S.I. 2018/1253](https://www.legislation.gov.uk/uksi/2018/1253) and [2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
-[^key-9b4e88b98307342400c519d2e9da4542]: Textual amendment: Words in [art. 11(4)](https://www.legislation.gov.uk/uksi/2025/859/article/11/4) substituted (3.12.2025) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/6/a)
+[^c-9b4e88b98307342400c519d2e9da4542]: Textual amendment: Words in [art. 11(4)](https://www.legislation.gov.uk/uksi/2025/859/article/11/4) substituted (3.12.2025) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/6/a)
 
-[^key-9061257880439e10770e67e087f42308]: Textual amendment: Words in [art. 11(5)](https://www.legislation.gov.uk/uksi/2025/859/article/11/5) substituted (3.12.2025) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/6/b)
+[^c-9061257880439e10770e67e087f42308]: Textual amendment: Words in [art. 11(5)](https://www.legislation.gov.uk/uksi/2025/859/article/11/5) substituted (3.12.2025) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) (No. 2) Order 2025 (S.I. 2025/1154)](https://www.legislation.gov.uk/uksi/2025/1154), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1154/article/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2025/1154/article/2/6/b)
 
 [^f00042]: Footnote: Sections 55B and 55J were inserted by section 11(2) of the Financial Services Act 2012.
 
@@ -651,8 +651,8 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00044]: Footnote: [S.I. 2009/774](https://www.legislation.gov.uk/uksi/2009/774). Article 6A was inserted by [S.I. 2013/1881](https://www.legislation.gov.uk/uksi/2013/1881).
 
-[^key-b7e8802fcb2b4c516278e974e18c9008]: Commencement: Art. 12 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
+[^c-b7e8802fcb2b4c516278e974e18c9008]: Commencement: Art. 12 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
 
-[^key-fc2aee66950a8cbb3f2d6c69f2cb293d]: Commencement: Art. 13 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
+[^c-fc2aee66950a8cbb3f2d6c69f2cb293d]: Commencement: Art. 13 in force at 15.7.2025 for specified purposes and 15.7.2026 in so far as not already in force, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2/3)
 
 [^f00045]: Footnote: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26).

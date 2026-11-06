@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211. Revocation of references to dissolved bodies, repealed legislation etc.[^key-4f0eb045eaf81cbc356d5cb1ab0f6feb]
+## 211. Revocation of references to dissolved bodies, repealed legislation etc.[^c-4f0eb045eaf81cbc356d5cb1ab0f6feb]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f0eb045eaf81cbc356d5cb1ab0f6feb]: Commencement: Art. 211 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-4f0eb045eaf81cbc356d5cb1ab0f6feb]: Commencement: Art. 211 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

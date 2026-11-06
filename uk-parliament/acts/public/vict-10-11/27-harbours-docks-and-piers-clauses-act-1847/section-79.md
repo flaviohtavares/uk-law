@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Justices to appoint special constables named by the undertakers.[^key-ee2e78b2063affaca9f52a6ebec070d6]
+## 79. Justices to appoint special constables named by the undertakers.[^c-ee2e78b2063affaca9f52a6ebec070d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any two justices may appoint such persons as shall be nominated for that purpose
 
 ## Annotations
 
-[^key-ee2e78b2063affaca9f52a6ebec070d6]: Modification: S. 79 modified (E.W.S.) (16.8.2006) by [Dover Harbour Revision Order 2006 (S.I. 2006/2167)](https://www.legislation.gov.uk/uksi/2006/2167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2167/article/1/1), [14](https://www.legislation.gov.uk/uksi/2006/2167/article/14)
+[^c-ee2e78b2063affaca9f52a6ebec070d6]: Modification: S. 79 modified (E.W.S.) (16.8.2006) by [Dover Harbour Revision Order 2006 (S.I. 2006/2167)](https://www.legislation.gov.uk/uksi/2006/2167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2167/article/1/1), [14](https://www.legislation.gov.uk/uksi/2006/2167/article/14)

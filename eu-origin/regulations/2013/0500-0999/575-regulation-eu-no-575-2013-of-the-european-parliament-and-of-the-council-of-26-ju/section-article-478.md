@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 478. Applicable percentages for deduction from Common Equity Tier 1, Additional Tier 1 and Tier 2 items[^key-9627cb61023ca9eca0c430e50b85edbe]
+## Article 478. Applicable percentages for deduction from Common Equity Tier 1, Additional Tier 1 and Tier 2 items[^c-9627cb61023ca9eca0c430e50b85edbe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9627cb61023ca9eca0c430e50b85edbe]: Textual amendment: [Art. 478](https://www.legislation.gov.uk/eur/2013/575/article/478) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(52)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/52)
+[^c-9627cb61023ca9eca0c430e50b85edbe]: Textual amendment: [Art. 478](https://www.legislation.gov.uk/eur/2013/575/article/478) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(52)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/52)

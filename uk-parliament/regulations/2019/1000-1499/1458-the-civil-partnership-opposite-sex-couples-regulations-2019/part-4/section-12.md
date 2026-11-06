@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Legitimacy of children of civil partners[^key-d0b95467c990cd4bcc1b26a6fd647fa5]
+## 12. Legitimacy of children of civil partners[^c-d0b95467c990cd4bcc1b26a6fd647fa5]
 
 *Extent: E+W*
 
@@ -75,7 +75,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d0b95467c990cd4bcc1b26a6fd647fa5]: Commencement: Reg. 12 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-d0b95467c990cd4bcc1b26a6fd647fa5]: Commencement: Reg. 12 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00019]: Footnote: [1976 c. 31](https://www.legislation.gov.uk/ukpga/1976/31).
 

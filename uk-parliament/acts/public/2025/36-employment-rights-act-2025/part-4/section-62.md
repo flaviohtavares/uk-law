@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Requirement to contribute to political fund[^key-71c0d5ae0c3d39d4e8798c310bf9a4e7]
+## 62. Requirement to contribute to political fund[^c-71c0d5ae0c3d39d4e8798c310bf9a4e7]
 
 *Extent: E+W+S*
 
@@ -129,4 +129,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71c0d5ae0c3d39d4e8798c310bf9a4e7]: Commencement: S. 62 in force at 18.2.2026, see [s. 159(2)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/b) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/4))
+[^c-71c0d5ae0c3d39d4e8798c310bf9a4e7]: Commencement: S. 62 in force at 18.2.2026, see [s. 159(2)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/b) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/4))

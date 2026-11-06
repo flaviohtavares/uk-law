@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 243. Hearings without notice[^key-83be8815d465104de9120aff19255f8c]
+## 243. Hearings without notice[^c-83be8815d465104de9120aff19255f8c]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ but nothing in those provisions is to be taken as prohibiting the applicant from
 
 ## Annotations
 
-[^key-83be8815d465104de9120aff19255f8c]: Commencement: [Rule 243](https://www.legislation.gov.uk/uksi/2011/1301/rule/243) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-83be8815d465104de9120aff19255f8c]: Commencement: [Rule 243](https://www.legislation.gov.uk/uksi/2011/1301/rule/243) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

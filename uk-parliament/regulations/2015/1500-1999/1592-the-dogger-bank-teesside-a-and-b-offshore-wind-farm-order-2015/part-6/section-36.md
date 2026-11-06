@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Trees subject to tree preservation orders[^key-b79973f30d8da307e8608acf2d333fa4]
+## 36. Trees subject to tree preservation orders[^c-b79973f30d8da307e8608acf2d333fa4]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b79973f30d8da307e8608acf2d333fa4]: Commencement: Art. 36 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
+[^c-b79973f30d8da307e8608acf2d333fa4]: Commencement: Art. 36 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
 
 [^f00039]: Footnote: Section 206(1) was amended by paragraph 11 of Schedule 8 to the Planning Act 2008.

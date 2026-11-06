@@ -22,7 +22,7 @@ summary: ''
 
 Article 9
 
-### 1. Section 117: High Court and county court jurisdiction[^key-d2d173236583114f4cf08b7082c74ca5]
+### 1. Section 117: High Court and county court jurisdiction[^c-d2d173236583114f4cf08b7082c74ca5]
 
 Section 117 is modified so as to read as follows—
 
@@ -39,19 +39,19 @@ Section 117 is modified so as to read as follows—
 >
 > ending with the day on which the petition for winding it up is presented.
 >
-> (5) The Lord Chancellor may, with the concurrence of the Lord Chief Justice, by order[^key-aefecd1693d8e328f4b3c17918af6c2e] in a statutory instrument exclude a county court from having winding-up jurisdiction, and for the purposes of that jurisdiction may attach its district, or any part thereof, to any other county court, and may by statutory instrument revoke or vary any such order.
+> (5) The Lord Chancellor may, with the concurrence of the Lord Chief Justice, by order[^c-aefecd1693d8e328f4b3c17918af6c2e] in a statutory instrument exclude a county court from having winding-up jurisdiction, and for the purposes of that jurisdiction may attach its district, or any part thereof, to any other county court, and may by statutory instrument revoke or vary any such order.
 >
 > - In exercising the powers of this section, the Lord Chancellor shall provide that a county court is not to have winding-up jurisdiction unless it has for the time being jurisdiction for the purposes of Parts VIII to XI of this Act (individual insolvency).
 >
 > (6) Every court in England and Wales having winding-up jurisdiction has for the purposes of that jurisdiction all the powers of the High Court; and every prescribed officer of the court shall perform any duties which an officer of the High Court may discharge by order of a judge of that court or otherwise in relation to winding up.
 >
-> (7)[^key-c9908c5b4abc34c4d5e18bb51950e449] This section is subject to Article 3 of the EC Regulation (jurisdiction under the EC Regulation)
+> (7)[^c-c9908c5b4abc34c4d5e18bb51950e449] This section is subject to Article 3 of the EC Regulation (jurisdiction under the EC Regulation)
 >
-> (8)[^key-da6381a9297b8518a02aa1cd7ac7efe2] The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under this section.
+> (8)[^c-da6381a9297b8518a02aa1cd7ac7efe2] The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under this section.
 
 .
 
-### 2. Section 221: Winding up of unregistered companies[^key-439c71b6d9f0f1ab1c7dc63b252a76ce]
+### 2. Section 221: Winding up of unregistered companies[^c-439c71b6d9f0f1ab1c7dc63b252a76ce]
 
 Section 221 is modified so as to read as follows—
 
@@ -66,7 +66,7 @@ Section 221 is modified so as to read as follows—
 >
 > ending with the day on which the winding-up petition is presented.
 >
-> (3A)[^key-8eea9c0cb60d8c45713ec9e7e3a9a340] The preceding subsections are subject to Article 3 of the EC Regulation (jurisdiction under the EC Regulation).
+> (3A)[^c-8eea9c0cb60d8c45713ec9e7e3a9a340] The preceding subsections are subject to Article 3 of the EC Regulation (jurisdiction under the EC Regulation).
 >
 > (4) No insolvent partnership shall be wound up under this Act voluntarily.
 >
@@ -75,7 +75,7 @@ Section 221 is modified so as to read as follows—
 > - (a) with the exceptions and additions mentioned in the following subsections of this section and in section 221A, and
 > - (b) with the modifications specified in Part II of Schedule 3 to the Insolvent Partnerships Order 1994.
 >
-> (6) Sections 73(1), 74(2)(a) to (d) and (3), 75 to 78, 83, 122, 123, 124(2) and (3), 176A,[^key-1ff60e869ca83dcd83fb47dbf49abe51] 202, 203, 205 and 250 shall not apply.
+> (6) Sections 73(1), 74(2)(a) to (d) and (3), 75 to 78, 83, 122, 123, 124(2) and (3), 176A,[^c-1ff60e869ca83dcd83fb47dbf49abe51] 202, 203, 205 and 250 shall not apply.
 >
 > (7) The circumstances in which an insolvent partnership may be wound up as an unregistered company are as follows—
 >
@@ -101,16 +101,16 @@ Section 221 is modified so as to read as follows—
 
 ## Annotations
 
-[^key-d2d173236583114f4cf08b7082c74ca5]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1994/2421/schedule/5/paragraph/1) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-d2d173236583114f4cf08b7082c74ca5]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1994/2421/schedule/5/paragraph/1) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
-[^key-aefecd1693d8e328f4b3c17918af6c2e]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1994/2421/schedule/5/paragraph/1/5) substituted (3.4.2006) by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) Order 2006 (S.I. 2006/680)](https://www.legislation.gov.uk/uksi/2006/680), [art. 1](https://www.legislation.gov.uk/uksi/2006/680/article/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2006/680/schedule/2/paragraph/6/2)
+[^c-aefecd1693d8e328f4b3c17918af6c2e]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1994/2421/schedule/5/paragraph/1/5) substituted (3.4.2006) by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) Order 2006 (S.I. 2006/680)](https://www.legislation.gov.uk/uksi/2006/680), [art. 1](https://www.legislation.gov.uk/uksi/2006/680/article/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2006/680/schedule/2/paragraph/6/2)
 
-[^key-c9908c5b4abc34c4d5e18bb51950e449]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1994/2421/schedule/5/paragraph/1) inserted (31.5.2002) by [The Insolvent Partnerships (Amendment) Order 2002 (S.I. 2002/1308)](https://www.legislation.gov.uk/uksi/2002/1308), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/5/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/2/2))
+[^c-c9908c5b4abc34c4d5e18bb51950e449]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1994/2421/schedule/5/paragraph/1) inserted (31.5.2002) by [The Insolvent Partnerships (Amendment) Order 2002 (S.I. 2002/1308)](https://www.legislation.gov.uk/uksi/2002/1308), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/5/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/2/2))
 
-[^key-da6381a9297b8518a02aa1cd7ac7efe2]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1994/2421/schedule/5/paragraph/1/8) inserted (3.4.2006) by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) Order 2006 (S.I. 2006/680)](https://www.legislation.gov.uk/uksi/2006/680), [art. 1](https://www.legislation.gov.uk/uksi/2006/680/article/1), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2006/680/schedule/2/paragraph/6/3)
+[^c-da6381a9297b8518a02aa1cd7ac7efe2]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1994/2421/schedule/5/paragraph/1/8) inserted (3.4.2006) by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) Order 2006 (S.I. 2006/680)](https://www.legislation.gov.uk/uksi/2006/680), [art. 1](https://www.legislation.gov.uk/uksi/2006/680/article/1), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2006/680/schedule/2/paragraph/6/3)
 
-[^key-439c71b6d9f0f1ab1c7dc63b252a76ce]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1994/2421/schedule/5/paragraph/2) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-439c71b6d9f0f1ab1c7dc63b252a76ce]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1994/2421/schedule/5/paragraph/2) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
-[^key-8eea9c0cb60d8c45713ec9e7e3a9a340]: Textual amendment: Words in [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1994/2421/schedule/5/paragraph/2) inserted (31.5.2002) by [The Insolvent Partnerships (Amendment) Order 2002 (S.I. 2002/1308)](https://www.legislation.gov.uk/uksi/2002/1308), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/5/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/2/2))
+[^c-8eea9c0cb60d8c45713ec9e7e3a9a340]: Textual amendment: Words in [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1994/2421/schedule/5/paragraph/2) inserted (31.5.2002) by [The Insolvent Partnerships (Amendment) Order 2002 (S.I. 2002/1308)](https://www.legislation.gov.uk/uksi/2002/1308), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/5/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/2/2))
 
-[^key-1ff60e869ca83dcd83fb47dbf49abe51]: Textual amendment: Word in [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1994/2421/schedule/5/paragraph/2) inserted (6.4.2006) by [The Insolvent Partnerships (Amendment) Order 2006 (S.I. 2006/622)](https://www.legislation.gov.uk/uksi/2006/622), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/622/article/1/1), [8](https://www.legislation.gov.uk/uksi/2006/622/article/8) (with [art. 2](https://www.legislation.gov.uk/uksi/2006/622/article/2))
+[^c-1ff60e869ca83dcd83fb47dbf49abe51]: Textual amendment: Word in [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1994/2421/schedule/5/paragraph/2) inserted (6.4.2006) by [The Insolvent Partnerships (Amendment) Order 2006 (S.I. 2006/622)](https://www.legislation.gov.uk/uksi/2006/622), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/622/article/1/1), [8](https://www.legislation.gov.uk/uksi/2006/622/article/8) (with [art. 2](https://www.legislation.gov.uk/uksi/2006/622/article/2))

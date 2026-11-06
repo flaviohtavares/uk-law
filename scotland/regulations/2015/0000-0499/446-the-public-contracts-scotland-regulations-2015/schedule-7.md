@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## Schedule 7 — Procurement by UK contracting authorities[^key-e942458aba55cfc92ce3f6cfd49c4626]
+## Schedule 7 — Procurement by UK contracting authorities[^c-e942458aba55cfc92ce3f6cfd49c4626]
 
 *Extent: S*
 
@@ -114,4 +114,4 @@ regulation 3A
 
 ## Annotations
 
-[^key-e942458aba55cfc92ce3f6cfd49c4626]: Textual amendment: [Schs. 7](https://www.legislation.gov.uk/ssi/2015/446/schedule/7), [8](https://www.legislation.gov.uk/ssi/2015/446/schedule/8) inserted (20.12.2025) by [The Cross-Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392)](https://www.legislation.gov.uk/ssi/2025/392), [regs. 1](https://www.legislation.gov.uk/ssi/2025/392/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/392/regulation/2/3)
+[^c-e942458aba55cfc92ce3f6cfd49c4626]: Textual amendment: [Schs. 7](https://www.legislation.gov.uk/ssi/2015/446/schedule/7), [8](https://www.legislation.gov.uk/ssi/2015/446/schedule/8) inserted (20.12.2025) by [The Cross-Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392)](https://www.legislation.gov.uk/ssi/2025/392), [regs. 1](https://www.legislation.gov.uk/ssi/2025/392/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2025/392/regulation/2/3)

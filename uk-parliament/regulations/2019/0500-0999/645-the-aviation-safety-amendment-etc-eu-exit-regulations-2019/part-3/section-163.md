@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Amendment of Articles 94 to 114 of Regulation (EU) No 2018/1139[^key-607942e5b75270fd5e8963c2c4886b43]
+## 163. Amendment of Articles 94 to 114 of Regulation (EU) No 2018/1139[^c-607942e5b75270fd5e8963c2c4886b43]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ Omit the following—
 
 ## Annotations
 
-[^key-607942e5b75270fd5e8963c2c4886b43]: Commencement: Reg. 163 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-607942e5b75270fd5e8963c2c4886b43]: Commencement: Reg. 163 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

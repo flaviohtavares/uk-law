@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Guidance by Welsh Ministers[^key-a973f1aea92b88a6b99e962ed0df6997]
+## 35. Guidance by Welsh Ministers[^c-a973f1aea92b88a6b99e962ed0df6997]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a973f1aea92b88a6b99e962ed0df6997]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2013/6/section/35) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-a973f1aea92b88a6b99e962ed0df6997]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2013/6/section/35) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Early retirement on ill-health (active members and non-contributing members )[^key-6a402886008e4fdb74f43999b42d8e57]
+## 52. Early retirement on ill-health (active members and non-contributing members )[^c-6a402886008e4fdb74f43999b42d8e57]
 
 *Extent: N.I.*
 
 (1) A pension payable under this regulation shall be known as an ill-health pension and may be paid at two different tiers known as a tier 1 ill-health pension and a tier 2 ill-health pension.
 
-(2) An active member or a non-contributing member[^key-2a9a3c5d3151aa72e90ef74cca9e7a2c] who has not reached the age of 65 and who has ceased to be employed in HSC employment is entitled to immediate payment of a tier 1 ill-health pension that is payable for life if—
+(2) An active member or a non-contributing member[^c-2a9a3c5d3151aa72e90ef74cca9e7a2c] who has not reached the age of 65 and who has ceased to be employed in HSC employment is entitled to immediate payment of a tier 1 ill-health pension that is payable for life if—
 
 - (a) in the opinion of the Department the member suffers from physical or mental infirmity as a result of which the member is permanently incapable of discharging the duties of the member's employment efficiently,
 - (b) the member's employment is terminated because of that physical or mental infirmity,
@@ -40,10 +40,10 @@ summary: ''
 
 (5) The annual amount of a tier 2 ill-health pension (disregarding any additional pension) is calculated as specified in regulation 45(4), but on the assumption that the member's pensionable service—
 
-- (a)[^key-cf63e02bbd7d4a90386d2f9b9f19390c] is increased by the enhancement period where the member—
+- (a)[^c-cf63e02bbd7d4a90386d2f9b9f19390c] is increased by the enhancement period where the member—
   - (i) has not had a break in pensionable service of 12 months or more; or
   - (ii) has returned to pensionable employment 12 months or more after having a break in such service and it would be more favourable to the member to treat the member’s pensionable service before and after the break, and all such other breaks (if any), as continuous;
-- (b)[^key-14a059995f075c7ae706580b7cc39c9c] is not increased by the enhancement period in the circumstances referred to in sub-paragraph (a) (ii)[^key-72c99312477b304ba09142bc59ea8509] if—
+- (b)[^c-14a059995f075c7ae706580b7cc39c9c] is not increased by the enhancement period in the circumstances referred to in sub-paragraph (a) (ii)[^c-72c99312477b304ba09142bc59ea8509] if—
   - (i) the member’s pensionable service before and after the break is treated separately under regulation 110, or
   - (ii) the member’s pensionable service in respect of an earlier service credit is treated separately under regulation 136G.
 
@@ -122,7 +122,7 @@ TPSn is the member's total pensionable service if that regulation were not appli
 
     before the member reaches age 65, or
   - (c) that, through no fault on the part of the member, it is not possible for the member to receive before the member reaches age 65;
-- “permanently” means—[^key-6e70bded610c871bdfa4e69383782fec]
+- “permanently” means—[^c-6e70bded610c871bdfa4e69383782fec]
   - (a) the period until age 65; and
   - (b) in the case of a 2008 Section Optant who, before joining this Section of the Scheme, was assessed by a medical adviser as being—
     - (i) permanently incapable of efficiently discharging their duties for the purposes of regulation 13A(2)(b)(i) of the 1995 Regulations (Ill health pension on early retirement), that Optant shall be deemed to be permanently incapable of discharging the duties of the Optant’s employment efficiently for the purposes of paragraph (2)(a),
@@ -135,24 +135,24 @@ TPSn is the member's total pensionable service if that regulation were not appli
 
     regard being had to the number of hours, half-days and sessions the member worked in that employment.
 
-(18)[^key-46dd7dff4461717eb333e2c5662d99ec] In the case of a 2008 Section Optant, this regulation is subject to regulations 136L and 136N to 136R.
+(18)[^c-46dd7dff4461717eb333e2c5662d99ec] In the case of a 2008 Section Optant, this regulation is subject to regulations 136L and 136N to 136R.
 
-(19)[^key-5210f5295a27c45002be6d77fdadbf20] In the case of a Waiting Period Joiner, this regulation is subject to regulation 136ZA.
+(19)[^c-5210f5295a27c45002be6d77fdadbf20] In the case of a Waiting Period Joiner, this regulation is subject to regulation 136ZA.
 
 ## Annotations
 
-[^key-6a402886008e4fdb74f43999b42d8e57]: Textual amendment: Words in [reg. 52 heading](https://www.legislation.gov.uk/nisr/2008/256/part/2/chapter/4/crossheading/entitlement-to-pensions) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [26(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/26/2)
+[^c-6a402886008e4fdb74f43999b42d8e57]: Textual amendment: Words in [reg. 52 heading](https://www.legislation.gov.uk/nisr/2008/256/part/2/chapter/4/crossheading/entitlement-to-pensions) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [26(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/26/2)
 
-[^key-2a9a3c5d3151aa72e90ef74cca9e7a2c]: Textual amendment: Words in [reg. 52(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/52/2) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [26(3)](https://www.legislation.gov.uk/nisr/2009/188/regulation/26/3)
+[^c-2a9a3c5d3151aa72e90ef74cca9e7a2c]: Textual amendment: Words in [reg. 52(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/52/2) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme and Injury Benefits) and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/188)](https://www.legislation.gov.uk/nisr/2009/188), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/188/regulation/1/2), [26(3)](https://www.legislation.gov.uk/nisr/2009/188/regulation/26/3)
 
-[^key-cf63e02bbd7d4a90386d2f9b9f19390c]: Textual amendment: [Reg. 52(5)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/52/5/a) substituted (16.8.2022) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [37(a)](https://www.legislation.gov.uk/nisr/2022/196/regulation/37/a)
+[^c-cf63e02bbd7d4a90386d2f9b9f19390c]: Textual amendment: [Reg. 52(5)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/52/5/a) substituted (16.8.2022) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [37(a)](https://www.legislation.gov.uk/nisr/2022/196/regulation/37/a)
 
-[^key-14a059995f075c7ae706580b7cc39c9c]: Textual amendment: [Reg. 52(5)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/52/5/b) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [32(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/32/2)
+[^c-14a059995f075c7ae706580b7cc39c9c]: Textual amendment: [Reg. 52(5)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/52/5/b) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [32(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/32/2)
 
-[^key-72c99312477b304ba09142bc59ea8509]: Textual amendment: Word in [reg. 52(5)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/52/5/b) inserted (16.8.2022) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [37(b)](https://www.legislation.gov.uk/nisr/2022/196/regulation/37/b)
+[^c-72c99312477b304ba09142bc59ea8509]: Textual amendment: Word in [reg. 52(5)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/52/5/b) inserted (16.8.2022) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [37(b)](https://www.legislation.gov.uk/nisr/2022/196/regulation/37/b)
 
-[^key-6e70bded610c871bdfa4e69383782fec]: Textual amendment: Words in [reg. 52(17)](https://www.legislation.gov.uk/nisr/2008/256/regulation/52/17) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [32(3)](https://www.legislation.gov.uk/nisr/2010/22/regulation/32/3)
+[^c-6e70bded610c871bdfa4e69383782fec]: Textual amendment: Words in [reg. 52(17)](https://www.legislation.gov.uk/nisr/2008/256/regulation/52/17) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [32(3)](https://www.legislation.gov.uk/nisr/2010/22/regulation/32/3)
 
-[^key-46dd7dff4461717eb333e2c5662d99ec]: Textual amendment: [Reg. 52(18)](https://www.legislation.gov.uk/nisr/2008/256/regulation/52/18) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [32(4)](https://www.legislation.gov.uk/nisr/2010/22/regulation/32/4)
+[^c-46dd7dff4461717eb333e2c5662d99ec]: Textual amendment: [Reg. 52(18)](https://www.legislation.gov.uk/nisr/2008/256/regulation/52/18) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [32(4)](https://www.legislation.gov.uk/nisr/2010/22/regulation/32/4)
 
-[^key-5210f5295a27c45002be6d77fdadbf20]: Textual amendment: [Reg. 52(19)](https://www.legislation.gov.uk/nisr/2008/256/regulation/52/19) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 24](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/24), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
+[^c-5210f5295a27c45002be6d77fdadbf20]: Textual amendment: [Reg. 52(19)](https://www.legislation.gov.uk/nisr/2008/256/regulation/52/19) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 24](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/24), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)

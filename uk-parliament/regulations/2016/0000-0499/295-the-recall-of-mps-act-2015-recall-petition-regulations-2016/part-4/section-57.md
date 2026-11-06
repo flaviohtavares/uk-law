@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Proxies at petitions[^key-d367864a34c17eaae7c237f8892f8db5]
+## 57. Proxies at petitions[^c-d367864a34c17eaae7c237f8892f8db5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,13 +26,13 @@ summary: ''
 
 (3) A person is not capable of being appointed to sign a petition as proxy if the person—
 
-- (za)[^key-6deac0c4b7b30604088eb74518d7889d] is not registered in a register of parliamentary electors,
+- (za)[^c-6deac0c4b7b30604088eb74518d7889d] is not registered in a register of parliamentary electors,
 - (a) is subject to any legal incapacity (age apart) to sign a petition as an elector, and
 - (b) is neither a Commonwealth citizen or a citizen of the Republic of Ireland.
 
 (4) A person is not capable of signing a petition as proxy unless before the end of the signing period for that petition the person has attained the age of 18; but such a person may sign the petition during the signing period notwithstanding that they may have not attained the age of 18 on the day they sign the petition.
 
-(5)[^key-ff9fb49cf7d6d213907d79c2432d0410][^key-324c40286c1cf1df12181d297e5092fa] A person—
+(5)[^c-ff9fb49cf7d6d213907d79c2432d0410][^c-324c40286c1cf1df12181d297e5092fa] A person—
 
 - (a) is not entitled to sign a petition as proxy on behalf of more than two persons who do not fall within paragraph (5A), but
 - (b) subject to sub-paragraph (a), is entitled to sign such a petition on behalf of up to four persons.
@@ -73,10 +73,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d367864a34c17eaae7c237f8892f8db5]: Commencement: Reg. 57 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-d367864a34c17eaae7c237f8892f8db5]: Commencement: Reg. 57 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-6deac0c4b7b30604088eb74518d7889d]: Textual amendment: Reg. 57(3)(za) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(7)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/7/a) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
+[^c-6deac0c4b7b30604088eb74518d7889d]: Textual amendment: Reg. 57(3)(za) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(7)(a)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/7/a) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
 
-[^key-ff9fb49cf7d6d213907d79c2432d0410]: Modification: Reg. 57(5) excluded (temp.) (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [Sch. 2 para. 34(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/34/1) (with [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/31))
+[^c-ff9fb49cf7d6d213907d79c2432d0410]: Modification: Reg. 57(5) excluded (temp.) (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [Sch. 2 para. 34(1)](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/34/1) (with [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/31))
 
-[^key-324c40286c1cf1df12181d297e5092fa]: Textual amendment: Reg. 57(5)(5A) substituted for reg. 57(5) (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(f)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/f), [19(7)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/7/b) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
+[^c-324c40286c1cf1df12181d297e5092fa]: Textual amendment: Reg. 57(5)(5A) substituted for reg. 57(5) (31.1.2024) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(3)(f)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/3/f), [19(7)(b)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/7/b) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))

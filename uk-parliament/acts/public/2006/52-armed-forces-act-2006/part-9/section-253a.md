@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253A. Finding of domestic abuse[^key-8d2c326262b1ea2be093618df5ae7c82]
+## 253A. Finding of domestic abuse[^c-8d2c326262b1ea2be093618df5ae7c82]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d2c326262b1ea2be093618df5ae7c82]: Textual amendment: [S. 253A](https://www.legislation.gov.uk/ukpga/2006/52/section/253A) and cross-heading inserted (5.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/6/2), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2026/772/regulation/4/b)
+[^c-8d2c326262b1ea2be093618df5ae7c82]: Textual amendment: [S. 253A](https://www.legislation.gov.uk/ukpga/2006/52/section/253A) and cross-heading inserted (5.10.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/6/2), [49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1); [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2026/772/regulation/4/b)

@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Consequential amendments relating to information[^key-caaf1b0eac838c848db56516efd77604]
+## 51. Consequential amendments relating to information[^c-caaf1b0eac838c848db56516efd77604]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-38af5f4e7c4702a154dafb5f81437c07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-38af5f4e7c4702a154dafb5f81437c07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-4afc93ce9589e3ea64a1818efecb854a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4afc93ce9589e3ea64a1818efecb854a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-33fe9b505fa33b869ba903023b4e1c95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-33fe9b505fa33b869ba903023b4e1c95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-da065e6d5118ddbf2e8248dd6be03d2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-da065e6d5118ddbf2e8248dd6be03d2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In Part 12 of that Act before section 175 insert—
 
@@ -69,18 +69,18 @@ summary: ''
 
 .
 
-(7)[^key-4c72c7e9961d1523bc5208ff724075ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-4c72c7e9961d1523bc5208ff724075ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-caaf1b0eac838c848db56516efd77604]: Commencement: S. 51 in force at 6.4.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3300/schedule/2)
+[^c-caaf1b0eac838c848db56516efd77604]: Commencement: S. 51 in force at 6.4.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3300/schedule/2)
 
-[^key-38af5f4e7c4702a154dafb5f81437c07]: Textual amendment: S. 51(1) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)
+[^c-38af5f4e7c4702a154dafb5f81437c07]: Textual amendment: S. 51(1) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)
 
-[^key-4afc93ce9589e3ea64a1818efecb854a]: Textual amendment: [S. 51(2)](https://www.legislation.gov.uk/ukpga/2006/14/section/51/2) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(g)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/g); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-4afc93ce9589e3ea64a1818efecb854a]: Textual amendment: [S. 51(2)](https://www.legislation.gov.uk/ukpga/2006/14/section/51/2) repealed (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(g)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/g); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-33fe9b505fa33b869ba903023b4e1c95]: Textual amendment: S. 51(3) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)
+[^c-33fe9b505fa33b869ba903023b4e1c95]: Textual amendment: S. 51(3) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)
 
-[^key-da065e6d5118ddbf2e8248dd6be03d2a]: Textual amendment: S. 51(4) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)
+[^c-da065e6d5118ddbf2e8248dd6be03d2a]: Textual amendment: S. 51(4) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)
 
-[^key-4c72c7e9961d1523bc5208ff724075ad]: Textual amendment: S. 51(7) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)
+[^c-4c72c7e9961d1523bc5208ff724075ad]: Textual amendment: S. 51(7) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)

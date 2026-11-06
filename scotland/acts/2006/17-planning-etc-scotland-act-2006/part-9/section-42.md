@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Power of veto[^key-84adabf2b353bd681adf4df7254b961e][^key-957d307082a7fb2a15df17782c365408]
+## 42. Power of veto[^c-84adabf2b353bd681adf4df7254b961e][^c-957d307082a7fb2a15df17782c365408]
 
 *Extent: S*
 
@@ -56,6 +56,6 @@ notice that the authority are or are not vetoing the proposals.
 
 ## Annotations
 
-[^key-84adabf2b353bd681adf4df7254b961e]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2006/17/section/42) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
+[^c-84adabf2b353bd681adf4df7254b961e]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2006/17/section/42) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
 
-[^key-957d307082a7fb2a15df17782c365408]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2006/17/section/42) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-957d307082a7fb2a15df17782c365408]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2006/17/section/42) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

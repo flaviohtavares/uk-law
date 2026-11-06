@@ -26,10 +26,10 @@ summary: ''
 
 (3) A registered patron of a benefice may by an instrument creating a power of attorney confer on the donee of the power authority to discharge on his behalf all the functions of a patron of that benefice, and where such a power is created the donee shall, subject to the provisions of Part II of this Measure, be entitled to discharge those functions until the power is revoked.
 
-(3A)[^key-09a1ab1b8760d75afcc18e34e46c3cd5] The reference in subsection (3) to a power of attorney does not include an enduring power of attorney or lasting power of attorney (within the meaning of the Mental Capacity Act 2005).
+(3A)[^c-09a1ab1b8760d75afcc18e34e46c3cd5] The reference in subsection (3) to a power of attorney does not include an enduring power of attorney or lasting power of attorney (within the meaning of the Mental Capacity Act 2005).
 
 (4) Any person entitled to discharge any functions in relation to a benefice by virtue of this section shall be entitled to discharge those functions notwithstanding that he is not registered in the register of patrons in relation to that benefice.
 
 ## Annotations
 
-[^key-09a1ab1b8760d75afcc18e34e46c3cd5]: Textual amendment: [S. 5(3A)](https://www.legislation.gov.uk/ukcm/1986/3/section/5/3A) inserted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 34(2)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/34/2) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-09a1ab1b8760d75afcc18e34e46c3cd5]: Textual amendment: [S. 5(3A)](https://www.legislation.gov.uk/ukcm/1986/3/section/5/3A) inserted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 34(2)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/34/2) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)

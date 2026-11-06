@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Prescribed form and content of a mandatory notice[^key-a3a08aa7d2dd4739f3f303d1346d2d80]
+## 3. Prescribed form and content of a mandatory notice[^c-a3a08aa7d2dd4739f3f303d1346d2d80]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A mandatory notice must be in writing and contain—
 
 ## Annotations
 
-[^key-a3a08aa7d2dd4739f3f303d1346d2d80]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1272/regulation/3) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1272/regulation/1/1)
+[^c-a3a08aa7d2dd4739f3f303d1346d2d80]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1272/regulation/3) in force at 4.1.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1272/regulation/1/1)

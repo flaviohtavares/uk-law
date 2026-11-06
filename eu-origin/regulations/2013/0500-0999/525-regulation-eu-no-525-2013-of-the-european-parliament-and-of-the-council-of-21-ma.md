@@ -38,169 +38,169 @@ on a mechanism for monitoring and reporting greenhouse gas emissions and for rep
 
 (Text with EEA relevance) (revoked)
 
-[^key-a31c5910e0c63244c9c61af4ff92d644]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a31c5910e0c63244c9c61af4ff92d644]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER 1 — SUBJECT MATTER, SCOPE AND DEFINITIONS[^key-a31c5910e0c63244c9c61af4ff92d644]
+## CHAPTER 1 — SUBJECT MATTER, SCOPE AND DEFINITIONS[^c-a31c5910e0c63244c9c61af4ff92d644]
 
-### Article 1. Subject matter[^key-a31c5910e0c63244c9c61af4ff92d644]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Scope[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 1. Subject matter[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Definitions[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 2. Scope[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 2 — LOW-CARBON DEVELOPMENT STRATEGIES[^key-a31c5910e0c63244c9c61af4ff92d644]
-
-### Article 4. Low-carbon development strategies[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 3. Definitions[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 3 — REPORTING ON HISTORICAL GREENHOUSE GAS EMISSIONS AND REMOVALS[^key-a31c5910e0c63244c9c61af4ff92d644]
+## CHAPTER 2 — LOW-CARBON DEVELOPMENT STRATEGIES[^c-a31c5910e0c63244c9c61af4ff92d644]
 
-### Article 5. National inventory systems[^key-a31c5910e0c63244c9c61af4ff92d644]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 6. Union inventory system[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 4. Low-carbon development strategies[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Greenhouse gas inventories[^key-a31c5910e0c63244c9c61af4ff92d644]
+## CHAPTER 3 — REPORTING ON HISTORICAL GREENHOUSE GAS EMISSIONS AND REMOVALS[^c-a31c5910e0c63244c9c61af4ff92d644]
+
+### Article 5. National inventory systems[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Approximated greenhouse gas inventories[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 6. Union inventory system[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Procedures for completing emission estimates to compile the Union inventory[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 7. Greenhouse gas inventories[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 4 — REGISTRIES[^key-a31c5910e0c63244c9c61af4ff92d644]
-
-### Article 10. Establishment and operation of registries[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 8. Approximated greenhouse gas inventories[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Retirement of units under the Kyoto Protocol[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 9. Procedures for completing emission estimates to compile the Union inventory[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 5 — REPORTING ON POLICIES AND MEASURES AND ON PROJECTIONS OF ANTHROPOGENIC GREENHOUSE GAS EMISSIONS BY SOURCES AND REMOVALS BY SINKS[^key-a31c5910e0c63244c9c61af4ff92d644]
+## CHAPTER 4 — REGISTRIES[^c-a31c5910e0c63244c9c61af4ff92d644]
 
-### Article 12. National and Union systems for policies and measures and projections[^key-a31c5910e0c63244c9c61af4ff92d644]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 13. Reporting on policies and measures[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 10. Establishment and operation of registries[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Reporting on projections[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 11. Retirement of units under the Kyoto Protocol[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 6 — REPORTING ON OTHER INFORMATION RELEVANT FOR CLIMATE CHANGE[^key-a31c5910e0c63244c9c61af4ff92d644]
+## CHAPTER 5 — REPORTING ON POLICIES AND MEASURES AND ON PROJECTIONS OF ANTHROPOGENIC GREENHOUSE GAS EMISSIONS BY SOURCES AND REMOVALS BY SINKS[^c-a31c5910e0c63244c9c61af4ff92d644]
 
-### Article 15. Reporting on national adaptation actions[^key-a31c5910e0c63244c9c61af4ff92d644]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 16. Reporting on financial and technology support provided to developing countries[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 12. National and Union systems for policies and measures and projections[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Reporting on the use of auctioning revenue and project credits[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 13. Reporting on policies and measures[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 18. Biennial reports and national communications[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 14. Reporting on projections[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 7 — UNION EXPERT REVIEW OF GREENHOUSE GAS EMISSIONS[^key-a31c5910e0c63244c9c61af4ff92d644]
+## CHAPTER 6 — REPORTING ON OTHER INFORMATION RELEVANT FOR CLIMATE CHANGE[^c-a31c5910e0c63244c9c61af4ff92d644]
 
-### Article 19. Inventory review[^key-a31c5910e0c63244c9c61af4ff92d644]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 20. Addressing the effects of recalculations[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 15. Reporting on national adaptation actions[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 8 — REPORTING ON PROGRESS TOWARDS UNION AND INTERNATIONAL COMMITMENTS[^key-a31c5910e0c63244c9c61af4ff92d644]
-
-### Article 21. Reporting on progress[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 16. Reporting on financial and technology support provided to developing countries[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 22. Report on the additional period for fulfilling commitments under the Kyoto Protocol[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 17. Reporting on the use of auctioning revenue and project credits[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 9 — COOPERATION AND SUPPORT[^key-a31c5910e0c63244c9c61af4ff92d644]
-
-### Article 23. Cooperation between the Member States and the Union[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 18. Biennial reports and national communications[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 24. Role of the European Environment Agency[^key-a31c5910e0c63244c9c61af4ff92d644]
+## CHAPTER 7 — UNION EXPERT REVIEW OF GREENHOUSE GAS EMISSIONS[^c-a31c5910e0c63244c9c61af4ff92d644]
+
+### Article 19. Inventory review[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 10 — DELEGATION[^key-a31c5910e0c63244c9c61af4ff92d644]
-
-### Article 25. Exercise of the delegation[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 20. Addressing the effects of recalculations[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER 11 — FINAL PROVISIONS[^key-a31c5910e0c63244c9c61af4ff92d644]
+## CHAPTER 8 — REPORTING ON PROGRESS TOWARDS UNION AND INTERNATIONAL COMMITMENTS[^c-a31c5910e0c63244c9c61af4ff92d644]
 
-### Article 26. Committee procedure[^key-a31c5910e0c63244c9c61af4ff92d644]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 27. Review[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 21. Reporting on progress[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 28. Repeal[^key-a31c5910e0c63244c9c61af4ff92d644]
+### Article 22. Report on the additional period for fulfilling commitments under the Kyoto Protocol[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 29. Entry into force[^key-a31c5910e0c63244c9c61af4ff92d644]
+## CHAPTER 9 — COOPERATION AND SUPPORT[^c-a31c5910e0c63244c9c61af4ff92d644]
+
+### Article 23. Cooperation between the Member States and the Union[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a31c5910e0c63244c9c61af4ff92d644]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 24. Role of the European Environment Agency[^c-a31c5910e0c63244c9c61af4ff92d644]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## CHAPTER 10 — DELEGATION[^c-a31c5910e0c63244c9c61af4ff92d644]
+
+### Article 25. Exercise of the delegation[^c-a31c5910e0c63244c9c61af4ff92d644]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## CHAPTER 11 — FINAL PROVISIONS[^c-a31c5910e0c63244c9c61af4ff92d644]
+
+### Article 26. Committee procedure[^c-a31c5910e0c63244c9c61af4ff92d644]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 27. Review[^c-a31c5910e0c63244c9c61af4ff92d644]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 28. Repeal[^c-a31c5910e0c63244c9c61af4ff92d644]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 29. Entry into force[^c-a31c5910e0c63244c9c61af4ff92d644]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a31c5910e0c63244c9c61af4ff92d644]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — GREENHOUSE GASES[^key-a31c5910e0c63244c9c61af4ff92d644]
+## ANNEX I — GREENHOUSE GASES[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — The sum of the effects of recalculated greenhouse gas emissions by Member State as referred to in Article 20(1)[^key-a31c5910e0c63244c9c61af4ff92d644]
+## ANNEX II — The sum of the effects of recalculated greenhouse gas emissions by Member State as referred to in Article 20(1)[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-a31c5910e0c63244c9c61af4ff92d644]
+## ANNEX III[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IIIA[^key-a31c5910e0c63244c9c61af4ff92d644]
+## ANNEX IIIA[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-a31c5910e0c63244c9c61af4ff92d644]
+## ANNEX IV[^c-a31c5910e0c63244c9c61af4ff92d644]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -212,4 +212,4 @@ Commission statements
 
 ## Annotations
 
-[^key-a31c5910e0c63244c9c61af4ff92d644]: Textual amendment: Regulation revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)
+[^c-a31c5910e0c63244c9c61af4ff92d644]: Textual amendment: Regulation revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)

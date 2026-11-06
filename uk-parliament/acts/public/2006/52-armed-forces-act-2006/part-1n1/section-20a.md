@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20A. Exceeding alcohol limit for prescribed safety-critical duties[^key-8d24a195a7e6999b2786d87fcc79d015]
+## 20A. Exceeding alcohol limit for prescribed safety-critical duties[^c-8d24a195a7e6999b2786d87fcc79d015]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d24a195a7e6999b2786d87fcc79d015]: Textual amendment: S. 20A inserted (8.3.2012 for specified purposes, 1.11.2013 in so far as not already in force) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 10](https://www.legislation.gov.uk/ukpga/2011/18/section/10), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/669/article/3/b); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/b)
+[^c-8d24a195a7e6999b2786d87fcc79d015]: Textual amendment: S. 20A inserted (8.3.2012 for specified purposes, 1.11.2013 in so far as not already in force) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 10](https://www.legislation.gov.uk/ukpga/2011/18/section/10), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/669/article/3/b); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/b)

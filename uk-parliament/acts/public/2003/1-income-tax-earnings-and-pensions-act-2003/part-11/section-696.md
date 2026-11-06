@@ -24,8 +24,8 @@ summary: ''
 
 (2) The amount referred to is the amount which, on the basis of the best estimate that can reasonably be made, is the amount of income likely to be PAYE income in respect of the provision of the asset.
 
-(3)[^key-d71684e11abeeea780908b6a0d1fa207] This section does not apply to any PAYE income so far as it is employment income under Chapter 2 of Part 7A.
+(3)[^c-d71684e11abeeea780908b6a0d1fa207] This section does not apply to any PAYE income so far as it is employment income under Chapter 2 of Part 7A.
 
 ## Annotations
 
-[^key-d71684e11abeeea780908b6a0d1fa207]: Textual amendment: [S. 696(3)](https://www.legislation.gov.uk/ukpga/2003/1/section/696/3) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/32)
+[^c-d71684e11abeeea780908b6a0d1fa207]: Textual amendment: [S. 696(3)](https://www.legislation.gov.uk/ukpga/2003/1/section/696/3) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/32)

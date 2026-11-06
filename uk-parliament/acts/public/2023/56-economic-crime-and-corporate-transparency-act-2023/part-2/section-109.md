@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Meaning of “limited partnership”[^key-b1649f19d52e02c60ae40b3732adf208]
+## 109. Meaning of “limited partnership”[^c-b1649f19d52e02c60ae40b3732adf208]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1649f19d52e02c60ae40b3732adf208]: Commencement: S. 109 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-b1649f19d52e02c60ae40b3732adf208]: Commencement: S. 109 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

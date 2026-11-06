@@ -49,8 +49,8 @@ the Secretary of State or, as the case may be, the National Assembly for Wales s
 - (a) provisions which are designated under subsection (1)(b) as attracting discretionary exemption, or
 - (b) modifications which fall within the modifications designated under subsection (1)(d) as being available on a discretionary basis.
 
-(5)[^key-5bb13be587a2d8a900039a33e1128677] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-5bb13be587a2d8a900039a33e1128677] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5bb13be587a2d8a900039a33e1128677]: Textual amendment: [S. 7(5)](https://www.legislation.gov.uk/ukpga/2002/32/section/7/5) omitted (30.9.2018) by virtue of [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/644/article/1/2), [39(1)](https://www.legislation.gov.uk/uksi/2018/644/article/39/1)
+[^c-5bb13be587a2d8a900039a33e1128677]: Textual amendment: [S. 7(5)](https://www.legislation.gov.uk/ukpga/2002/32/section/7/5) omitted (30.9.2018) by virtue of [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/644/article/1/2), [39(1)](https://www.legislation.gov.uk/uksi/2018/644/article/39/1)

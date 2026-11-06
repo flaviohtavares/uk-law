@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, NORTHERN IRELAND
 
-The Education (Listed Bodies) (Amendment) (Northern Ireland) Order 2005 (revoked)[^key-7dac6230ebf623497afbec68226b1b87]
+The Education (Listed Bodies) (Amendment) (Northern Ireland) Order 2005 (revoked)[^c-7dac6230ebf623497afbec68226b1b87]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 30th August 2005
 
-[^key-7dac6230ebf623497afbec68226b1b87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dac6230ebf623497afbec68226b1b87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7dac6230ebf623497afbec68226b1b87]
+## 1. Citation and commencement[^c-7dac6230ebf623497afbec68226b1b87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-7dac6230ebf623497afbec68226b1b87]
+## 2. Amendments[^c-7dac6230ebf623497afbec68226b1b87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7dac6230ebf623497afbec68226b1b87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7dac6230ebf623497afbec68226b1b87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7dac6230ebf623497afbec68226b1b87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dac6230ebf623497afbec68226b1b87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7dac6230ebf623497afbec68226b1b87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7dac6230ebf623497afbec68226b1b87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7dac6230ebf623497afbec68226b1b87]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2005/379) revoked (11.1.2018) by [The Education (Listed Bodies) Order (Northern Ireland) 2018 (S.R. 2018/9)](https://www.legislation.gov.uk/nisr/2018/9), [art. 3](https://www.legislation.gov.uk/nisr/2018/9/article/3)
+[^c-7dac6230ebf623497afbec68226b1b87]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2005/379) revoked (11.1.2018) by [The Education (Listed Bodies) Order (Northern Ireland) 2018 (S.R. 2018/9)](https://www.legislation.gov.uk/nisr/2018/9), [art. 3](https://www.legislation.gov.uk/nisr/2018/9/article/3)

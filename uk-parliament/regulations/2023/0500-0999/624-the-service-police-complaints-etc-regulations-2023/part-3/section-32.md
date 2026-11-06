@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Power of the Commissioner to determine the form of an investigation[^key-ad3a36d97c7842a9baa417a148dee7a5]
+## 32. Power of the Commissioner to determine the form of an investigation[^c-ad3a36d97c7842a9baa417a148dee7a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ such directions as the Commissioner considers appropriate for the purpose of giv
 
 ## Annotations
 
-[^key-ad3a36d97c7842a9baa417a148dee7a5]: Commencement: Reg. 32 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-ad3a36d97c7842a9baa417a148dee7a5]: Commencement: Reg. 32 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

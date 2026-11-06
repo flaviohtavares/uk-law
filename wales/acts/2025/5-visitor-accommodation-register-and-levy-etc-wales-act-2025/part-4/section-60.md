@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Power to make provision about transfers of businesses as going concerns[^key-4c0860e2238b37211759a4124d78df99][^key-5263edbd5f0d452e0a3bd041274b3c0d]
+## 60. Power to make provision about transfers of businesses as going concerns[^c-4c0860e2238b37211759a4124d78df99][^c-5263edbd5f0d452e0a3bd041274b3c0d]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c0860e2238b37211759a4124d78df99]: Commencement: S. 60 in force at 19.9.2025 for specified purposes, see [s. 67(1)(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/1/2)
+[^c-4c0860e2238b37211759a4124d78df99]: Commencement: S. 60 in force at 19.9.2025 for specified purposes, see [s. 67(1)(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/1/2)
 
-[^key-5263edbd5f0d452e0a3bd041274b3c0d]: Commencement: [S. 60](https://www.legislation.gov.uk/asc/2025/5/section/60) in force at 1.10.2026 in so far as not already in force by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(t)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/t)
+[^c-5263edbd5f0d452e0a3bd041274b3c0d]: Commencement: [S. 60](https://www.legislation.gov.uk/asc/2025/5/section/60) in force at 1.10.2026 in so far as not already in force by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(t)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/t)

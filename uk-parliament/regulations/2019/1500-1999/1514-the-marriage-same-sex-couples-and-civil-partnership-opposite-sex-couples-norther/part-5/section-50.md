@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Amendments relating to registration[^key-682e51135d23a4047f34e56975b2da56]
+## 50. Amendments relating to registration[^c-682e51135d23a4047f34e56975b2da56]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-682e51135d23a4047f34e56975b2da56]: Commencement: Reg. 50 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-682e51135d23a4047f34e56975b2da56]: Commencement: Reg. 50 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)

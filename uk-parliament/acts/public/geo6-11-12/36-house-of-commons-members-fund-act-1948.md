@@ -31,38 +31,38 @@ House of Commons Members’ Fund Act 1948 (repealed)
 
 1948 c.36
 
-[^key-8b532e8caa7d979ff3f644a3b40d91ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b532e8caa7d979ff3f644a3b40d91ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Payments to widowers of past members.[^key-8b532e8caa7d979ff3f644a3b40d91ef]
+## 1. Payments to widowers of past members.[^c-8b532e8caa7d979ff3f644a3b40d91ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Increase of annual payments to past members, widows and children.[^key-8b532e8caa7d979ff3f644a3b40d91ef]
+## 2. Increase of annual payments to past members, widows and children.[^c-8b532e8caa7d979ff3f644a3b40d91ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Variation of maximum payments and deductions from members’ salaries.[^key-8b532e8caa7d979ff3f644a3b40d91ef]
+## 3. Variation of maximum payments and deductions from members’ salaries.[^c-8b532e8caa7d979ff3f644a3b40d91ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Provision for cases of special hardship.[^key-8b532e8caa7d979ff3f644a3b40d91ef]
+## 4. Provision for cases of special hardship.[^c-8b532e8caa7d979ff3f644a3b40d91ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Acceptance of property by the trustees.[^key-8b532e8caa7d979ff3f644a3b40d91ef]
+## 5. Acceptance of property by the trustees.[^c-8b532e8caa7d979ff3f644a3b40d91ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Report by Government Actuary.[^key-8b532e8caa7d979ff3f644a3b40d91ef]
+## 6. Report by Government Actuary.[^c-8b532e8caa7d979ff3f644a3b40d91ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Citation.[^key-8b532e8caa7d979ff3f644a3b40d91ef]
+## 7. Citation.[^c-8b532e8caa7d979ff3f644a3b40d91ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8b532e8caa7d979ff3f644a3b40d91ef]: Textual amendment: Act repealed (12.8.2016) by [House of Commons Members' Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [s. 9(b)](https://www.legislation.gov.uk/ukpga/2016/18/section/9/b)
+[^c-8b532e8caa7d979ff3f644a3b40d91ef]: Textual amendment: Act repealed (12.8.2016) by [House of Commons Members' Fund Act 2016 (c. 18)](https://www.legislation.gov.uk/ukpga/2016/18), [s. 9(b)](https://www.legislation.gov.uk/ukpga/2016/18/section/9/b)

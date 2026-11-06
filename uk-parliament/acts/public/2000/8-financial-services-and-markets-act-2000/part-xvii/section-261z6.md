@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261Z6. Power to make provision about unauthorised co-ownership AIFs[^key-ed924db09d5d7e04e32aa2a070474308]
+## 261Z6. Power to make provision about unauthorised co-ownership AIFs[^c-ed924db09d5d7e04e32aa2a070474308]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed924db09d5d7e04e32aa2a070474308]: Textual amendment: Pt. 17 Ch. 3B inserted (29.10.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/64/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/2/c)
+[^c-ed924db09d5d7e04e32aa2a070474308]: Textual amendment: Pt. 17 Ch. 3B inserted (29.10.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/64/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/2/c)

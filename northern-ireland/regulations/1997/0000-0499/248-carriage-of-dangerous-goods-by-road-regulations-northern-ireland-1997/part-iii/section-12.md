@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. General requirements for carriage[^key-2021fc342601e8d8629872eda7a68525]
+## 12. General requirements for carriage[^c-2021fc342601e8d8629872eda7a68525]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ shall ensure that no food is carried in that vehicle unless it is effectively se
 
 ## Annotations
 
-[^key-2021fc342601e8d8629872eda7a68525]: Commencement: Reg. 12 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-2021fc342601e8d8629872eda7a68525]: Commencement: Reg. 12 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

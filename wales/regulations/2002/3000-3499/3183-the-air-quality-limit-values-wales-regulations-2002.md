@@ -64,7 +64,7 @@ In these Regulations—
 - “oxides of nitrogen" (“*ocsidau nitrogen*") means the sum of nitric oxide and nitrogen dioxide added as parts per billion and expressed as nitrogen dioxide in microgrammes per cubic metre;
 - “PM<sub>2.5</sub>" means particulate matter which passes through a size-selective inlet with a 50% efficiency cut-off at 2.5 mm aerodynamic diameter;
 - “PM<sub>10</sub>" means particulate matter which passes through a size-selective inlet with a 50% efficiency cut-off at 10 mm aerodynamic diameter;
-- “public” means one or more natural or legal persons, including, but not limited to, health care bodies and organisations having an interest in ambient air quality and representing the interests of sensitive populations, consumers and the environment;[^key-f7d75a360db2b1bfe30aace0f9f5c82b]
+- “public” means one or more natural or legal persons, including, but not limited to, health care bodies and organisations having an interest in ambient air quality and representing the interests of sensitive populations, consumers and the environment;[^c-f7d75a360db2b1bfe30aace0f9f5c82b]
 - “relevant pollutants" (“*llygrynnau perthnasol*") means sulphur dioxide, nitrogen dioxide and oxides of nitrogen, particulate matter, lead, benzene and carbon monoxide;
 - “upper assessment threshold" (“*trothwy asesu uchaf*") has the meaning given in regulation 6(5); and
 - “zone" (“*parth*") means a part of Wales shown on a map published by the National Assembly on 3 December 2002, deposited at the offices of the National Assembly, Environmental Protection Division, Cathays Park, Cardiff CF10 3NQ.
@@ -160,7 +160,7 @@ The National Assembly must ensure that ambient air quality is assessed in each z
 - (d) the sampling and analysis of benzene; and
 - (e) the analysis of carbon monoxide
 
-are set out in Schedule 6, and these methods must be used unless other methods are used which the National Assembly considers can be demonstrated to give equivalent results or, in relation to the sampling and measurement of PM10, which the National Assembly considers can be demonstrated to display a consistent relationship to the reference method[^key-f93d763be0d98d0f2b97ea8cadcf03e2].
+are set out in Schedule 6, and these methods must be used unless other methods are used which the National Assembly considers can be demonstrated to give equivalent results or, in relation to the sampling and measurement of PM10, which the National Assembly considers can be demonstrated to display a consistent relationship to the reference method[^c-f93d763be0d98d0f2b97ea8cadcf03e2].
 
 (7) The National Assembly must ensure that measuring stations to supply representative data on concentrations of PM<sub>2.5</sub> are installed and operated, using any method for the sampling and measurement of PM<sub>2.5</sub> that it considers suitable, and that where possible sampling points for PM<sub>2.5</sub> are co-located with sampling points for PM<sub>10</sub>.
 
@@ -201,7 +201,7 @@ are set out in Schedule 6, and these methods must be used unless other methods a
 
 (11) For zones to which regulation 6(7)(b)(ii) applies, the National Assembly may provide that plans or programmes is only required where the limit values are exceeded owing to PM<sub>10</sub> levels other than those caused by winter road sanding.
 
-(12)[^key-1bf57c00a8f51a577eb15cc9ef5a122d] The National Assembly must ensure that the public is given early and effective opportunities to participate in the preparation and modification or review of any plan or programme which is required to be drawn up under paragraph (3), in accordance with paragraphs (13) and (14).
+(12)[^c-1bf57c00a8f51a577eb15cc9ef5a122d] The National Assembly must ensure that the public is given early and effective opportunities to participate in the preparation and modification or review of any plan or programme which is required to be drawn up under paragraph (3), in accordance with paragraphs (13) and (14).
 
 (13) The National Assembly must—
 
@@ -254,7 +254,7 @@ are set out in Schedule 6, and these methods must be used unless other methods a
 
 (8) Information to be made available to the public under this regulation must include the map of zones referred to in regulation 2 and action plans, plans and programmes prepared under regulations 9 and 10 respectively.
 
-(9)[^key-97b9a501ffc82c6effa7fe8da5fce541] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-97b9a501ffc82c6effa7fe8da5fce541] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) Information made available under this regulation must be clear, comprehensible and accessible.
 
@@ -809,7 +809,7 @@ A full account of all the measures through which achievement of limit values wil
 
 [^c17958191]: Marginal citation: [S.I. 2000/2812](https://www.legislation.gov.uk/uksi/2000/2812).
 
-[^key-f7d75a360db2b1bfe30aace0f9f5c82b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2002/3183/regulation/2) inserted (30.4.2005) by [The Air Quality Limit Values (Wales) (Amendment) Regulations 2005 (S.I. 2005/1157)](https://www.legislation.gov.uk/wsi/2005/1157), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1157/regulation/1/1), [3(1)](https://www.legislation.gov.uk/wsi/2005/1157/regulation/3/1)
+[^c-f7d75a360db2b1bfe30aace0f9f5c82b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2002/3183/regulation/2) inserted (30.4.2005) by [The Air Quality Limit Values (Wales) (Amendment) Regulations 2005 (S.I. 2005/1157)](https://www.legislation.gov.uk/wsi/2005/1157), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1157/regulation/1/1), [3(1)](https://www.legislation.gov.uk/wsi/2005/1157/regulation/3/1)
 
 [^c17958201]: Marginal citation: OJ No L296, 21.11.96, p. 55.
 
@@ -819,13 +819,13 @@ A full account of all the measures through which achievement of limit values wil
 
 [^c17958231]: Marginal citation: *See* regulation 10(11).
 
-[^key-f93d763be0d98d0f2b97ea8cadcf03e2]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/wsi/2002/3183/regulation/8/6) inserted (30.4.2005) by [The Air Quality Limit Values (Wales) (Amendment) Regulations 2005 (S.I. 2005/1157)](https://www.legislation.gov.uk/wsi/2005/1157), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1157/regulation/1/1), [4](https://www.legislation.gov.uk/wsi/2005/1157/regulation/4)
+[^c-f93d763be0d98d0f2b97ea8cadcf03e2]: Textual amendment: Words in [reg. 8(6)](https://www.legislation.gov.uk/wsi/2002/3183/regulation/8/6) inserted (30.4.2005) by [The Air Quality Limit Values (Wales) (Amendment) Regulations 2005 (S.I. 2005/1157)](https://www.legislation.gov.uk/wsi/2005/1157), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1157/regulation/1/1), [4](https://www.legislation.gov.uk/wsi/2005/1157/regulation/4)
 
 [^c17958241]: Marginal citation: Regulation 9(3) of the Air Quality Limit Values (Wales) Regulations 2001 imposed a corresponding obligation to prepare a plan or programme for the attainment of the relevant limit values, in relation to these pollutants, by dates prior to the coming into force of these Regulations.
 
-[^key-1bf57c00a8f51a577eb15cc9ef5a122d]: Textual amendment: [Reg. 10(12)-(14)](https://www.legislation.gov.uk/wsi/2002/3183/regulation/10/12) inserted (30.4.2005) by [The Air Quality Limit Values (Wales) (Amendment) Regulations 2005 (S.I. 2005/1157)](https://www.legislation.gov.uk/wsi/2005/1157), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1157/regulation/1/1), [3(2)](https://www.legislation.gov.uk/wsi/2005/1157/regulation/3/2)
+[^c-1bf57c00a8f51a577eb15cc9ef5a122d]: Textual amendment: [Reg. 10(12)-(14)](https://www.legislation.gov.uk/wsi/2002/3183/regulation/10/12) inserted (30.4.2005) by [The Air Quality Limit Values (Wales) (Amendment) Regulations 2005 (S.I. 2005/1157)](https://www.legislation.gov.uk/wsi/2005/1157), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1157/regulation/1/1), [3(2)](https://www.legislation.gov.uk/wsi/2005/1157/regulation/3/2)
 
-[^key-97b9a501ffc82c6effa7fe8da5fce541]: Textual amendment: [Reg. 12(9)](https://www.legislation.gov.uk/wsi/2002/3183/regulation/12/9) omitted (30.4.2005) by virtue of [The Air Quality Limit Values (Wales) (Amendment) Regulations 2005 (S.I. 2005/1157)](https://www.legislation.gov.uk/wsi/2005/1157), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1157/regulation/1/1), [3(3)](https://www.legislation.gov.uk/wsi/2005/1157/regulation/3/3)
+[^c-97b9a501ffc82c6effa7fe8da5fce541]: Textual amendment: [Reg. 12(9)](https://www.legislation.gov.uk/wsi/2002/3183/regulation/12/9) omitted (30.4.2005) by virtue of [The Air Quality Limit Values (Wales) (Amendment) Regulations 2005 (S.I. 2005/1157)](https://www.legislation.gov.uk/wsi/2005/1157), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/1157/regulation/1/1), [3(3)](https://www.legislation.gov.uk/wsi/2005/1157/regulation/3/3)
 
 [^c17958251]: Marginal citation: [S.I. 2001/2683](https://www.legislation.gov.uk/uksi/2001/2683) (W.224).
 

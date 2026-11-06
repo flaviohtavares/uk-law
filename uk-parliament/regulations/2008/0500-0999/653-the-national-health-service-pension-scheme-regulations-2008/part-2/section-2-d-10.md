@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.D.10. Early retirement on ill-health (deferred members)[^key-711e81490fdad746ba196ea5b6104f1b]
+## 2.D.10. Early retirement on ill-health (deferred members)[^c-711e81490fdad746ba196ea5b6104f1b]
 
 *Extent: E+W*
 
 (1) A deferred member who has not reached the age of 65 is entitled to immediate payment of a pension that is payable for life if—
 
-- (a) in the opinion of the Secretary of State the member suffers from physical or mental infirmity as a result of which the member is permanently[^key-28578313cfc78ac33c01c7e9237bbced] incapable of engaging in regular employment of like duration, and
+- (a) in the opinion of the Secretary of State the member suffers from physical or mental infirmity as a result of which the member is permanently[^c-28578313cfc78ac33c01c7e9237bbced] incapable of engaging in regular employment of like duration, and
 - (b) the member has claimed the pension.
 
 (2) A deferred member who is in NHS employment and has not reached the age of 65 is entitled to immediate payment of a pension that is payable for life if—
 
 - (a) in the opinion of the Secretary of State the member—
   - (i) does not fall within paragraph (1)(a), but
-  - (ii) suffers from physical or mental infirmity[^key-6d917f3f6ea0af5a7456509aad6d0e7d] as a result of which the member is permanently incapable of discharging the duties of the member’s employment efficiently, and
+  - (ii) suffers from physical or mental infirmity[^c-6d917f3f6ea0af5a7456509aad6d0e7d] as a result of which the member is permanently incapable of discharging the duties of the member’s employment efficiently, and
 - (b) the member has left that employment and claimed the pension.
 
 (3) The amount of the annual pension payable under this regulation (disregarding any additional pension) is calculated as specified in regulation 2.D.1(4).
@@ -91,14 +91,14 @@ summary: ''
 
     regard being had to the number of hours, half-days and sessions the member worked in that employment.
 
-(10)[^key-9e7b5ac43e0e54f62e7955d781ddff17] In the case of a 2008 Section Optant, this regulation is subject to regulation 2.K.12.
+(10)[^c-9e7b5ac43e0e54f62e7955d781ddff17] In the case of a 2008 Section Optant, this regulation is subject to regulation 2.K.12.
 
 ## Annotations
 
-[^key-711e81490fdad746ba196ea5b6104f1b]: Modification: [Reg. 2.D.10](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.10) excluded (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [28(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/95/regulation/28/2/c/ii)
+[^c-711e81490fdad746ba196ea5b6104f1b]: Modification: [Reg. 2.D.10](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.10) excluded (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [28(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/95/regulation/28/2/c/ii)
 
-[^key-28578313cfc78ac33c01c7e9237bbced]: Textual amendment: Word in [reg. 2.D.10(1)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.10/1/a) inserted (with effect from 1.4.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/6), [35(a)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/35/a) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-28578313cfc78ac33c01c7e9237bbced]: Textual amendment: Word in [reg. 2.D.10(1)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.10/1/a) inserted (with effect from 1.4.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/6), [35(a)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/35/a) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
 
-[^key-6d917f3f6ea0af5a7456509aad6d0e7d]: Textual amendment: Word in [reg. 2.D.10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.10/2/a/ii) substituted (with effect from 1.4.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/6), [35(b)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/35/b) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-6d917f3f6ea0af5a7456509aad6d0e7d]: Textual amendment: Word in [reg. 2.D.10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.10/2/a/ii) substituted (with effect from 1.4.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(6)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/6), [35(b)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/35/b) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
 
-[^key-9e7b5ac43e0e54f62e7955d781ddff17]: Textual amendment: [Reg. 2.D.10(10)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.10/10) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2009/2446/regulation/31)
+[^c-9e7b5ac43e0e54f62e7955d781ddff17]: Textual amendment: [Reg. 2.D.10(10)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.10/10) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2009/2446/regulation/31)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Persons who are members of the same household[^key-db38c0fc126a89693f3061ad4b456962]
+## 4. Persons who are members of the same household[^c-db38c0fc126a89693f3061ad4b456962]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db38c0fc126a89693f3061ad4b456962]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/22/section/4) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-db38c0fc126a89693f3061ad4b456962]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/22/section/4) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

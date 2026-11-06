@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The Office of Rail and Road[^key-fa0aa70c6da1e139eb135f46405f54c7] may, on the application of the person permitted by an access agreement to use the whole or part of a railway facility or network installation, give directions requiring the parties to the access agreement to make to the agreement—
+(1) The Office of Rail and Road[^c-fa0aa70c6da1e139eb135f46405f54c7] may, on the application of the person permitted by an access agreement to use the whole or part of a railway facility or network installation, give directions requiring the parties to the access agreement to make to the agreement—
 
 - (a) amendments permitting more extensive use of the railway facility or network installation by the applicant; and
 - (b) any amendments which the Office of Rail and Road considers necessary or desirable in consequence of those amendments.
@@ -52,7 +52,7 @@ and if the applicant is permitted to use only part of the railway facility or ne
 
 [^c14100281]: Textual amendment: S. 22A inserted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 232(2)](https://www.legislation.gov.uk/ukpga/2000/38/section/232/2); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-fa0aa70c6da1e139eb135f46405f54c7]: Textual amendment: Words in s. 22A substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(ff)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/ff)
+[^c-fa0aa70c6da1e139eb135f46405f54c7]: Textual amendment: Words in s. 22A substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(ff)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/ff)
 
 [^c18907441]: Textual amendment: Words in s. 22A(4)(b) omitted (28.11.2005) by virtue of [The Railways Infrastructure (Access and Management) Regulations 2005 (S.I. 2005/3049)](https://www.legislation.gov.uk/uksi/2005/3049), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2005/3049/regulation/2/4), [Sch. 1 para. 4(d)(i)](https://www.legislation.gov.uk/uksi/2005/3049/schedule/1/paragraph/4/d/i)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. VRTS credits: registration of ZE SPVs (SPV van manufacturers)[^key-988008299968768311e13a1e804366f4]
+## 53. VRTS credits: registration of ZE SPVs (SPV van manufacturers)[^c-988008299968768311e13a1e804366f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ An SPV van manufacturer acquires a VRTS credit for a scheme year in respect of e
 
 ## Annotations
 
-[^key-988008299968768311e13a1e804366f4]: Commencement: Art. 53 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-988008299968768311e13a1e804366f4]: Commencement: Art. 53 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80B. Restrictions relating to further methods[^key-e81dfc0d83a85cf29445bcf8d38aa15c]
+## 80B. Restrictions relating to further methods[^c-e81dfc0d83a85cf29445bcf8d38aa15c]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ has effect in relation to the liable person.
 
 ## Annotations
 
-[^key-e81dfc0d83a85cf29445bcf8d38aa15c]: Textual amendment: Ss. 80A, 80B and cross-heading inserted (24.6.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 94(2)](https://www.legislation.gov.uk/ukpga/2025/28/section/94/2), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/a)
+[^c-e81dfc0d83a85cf29445bcf8d38aa15c]: Textual amendment: Ss. 80A, 80B and cross-heading inserted (24.6.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 94(2)](https://www.legislation.gov.uk/ukpga/2025/28/section/94/2), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/a)

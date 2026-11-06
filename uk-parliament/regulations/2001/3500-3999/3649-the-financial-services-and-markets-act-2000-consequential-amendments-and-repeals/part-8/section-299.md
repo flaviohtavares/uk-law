@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 299. Lending institutions and savings institutions[^key-1de19dbaf36321ccecd464811fa41e96]
+## 299. Lending institutions and savings institutions[^c-1de19dbaf36321ccecd464811fa41e96]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,7 +69,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1de19dbaf36321ccecd464811fa41e96]: Commencement: Art. 299 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1de19dbaf36321ccecd464811fa41e96]: Commencement: Art. 299 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00224]: Footnote: Section 151B was inserted by the Leasehold Reform, Housing and Urban Development Act [1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28), section 118.
 

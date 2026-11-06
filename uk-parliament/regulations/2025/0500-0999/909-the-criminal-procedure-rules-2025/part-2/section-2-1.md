@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.1. When the Rules apply[^key-5fc0490a883da4ef989bc00708d23e21]
+## 2.1. When the Rules apply[^c-5fc0490a883da4ef989bc00708d23e21]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5fc0490a883da4ef989bc00708d23e21]: Commencement: [Rule 2.1](https://www.legislation.gov.uk/uksi/2025/909/rule/2.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-5fc0490a883da4ef989bc00708d23e21]: Commencement: [Rule 2.1](https://www.legislation.gov.uk/uksi/2025/909/rule/2.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00040]: Footnote: [S.I. 2020/759](https://www.legislation.gov.uk/uksi/2020/759); amended by [S.I. 2021/40](https://www.legislation.gov.uk/uksi/2021/40), [2021/849](https://www.legislation.gov.uk/uksi/2021/849), [2022/45](https://www.legislation.gov.uk/uksi/2022/45), [2022/815](https://www.legislation.gov.uk/uksi/2022/815), [2023/44](https://www.legislation.gov.uk/uksi/2023/44), [2023/786](https://www.legislation.gov.uk/uksi/2023/786), [2024/62](https://www.legislation.gov.uk/uksi/2024/62), [2024/842](https://www.legislation.gov.uk/uksi/2024/842) and [2025/60](https://www.legislation.gov.uk/uksi/2025/60).
 

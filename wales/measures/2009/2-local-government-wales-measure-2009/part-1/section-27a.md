@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27A. Welsh Ministers' power to prescribe a scale of fees[^key-1e7a763eaa1595365668e8ee543b88af]
+## 27A. Welsh Ministers' power to prescribe a scale of fees[^c-1e7a763eaa1595365668e8ee543b88af]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e7a763eaa1595365668e8ee543b88af]: Textual amendment: [S. 27A](https://www.legislation.gov.uk/mwa/2009/2/section/27A) inserted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 88](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/88) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-1e7a763eaa1595365668e8ee543b88af]: Textual amendment: [S. 27A](https://www.legislation.gov.uk/mwa/2009/2/section/27A) inserted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 88](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/88) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

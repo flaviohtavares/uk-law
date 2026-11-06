@@ -28,10 +28,10 @@ summary: ''
 (2) The provisions are—
 
 - (a) section 5(2)(b) of the [^c12397771]Parliamentary Commissioner Act 1967;
-- (b)[^key-d0ed5eeb3a038fc4b0e3eccb153577e0] section 21(1)(b) of the Public Services Ombudsman Act (Northern Ireland) 2016.
+- (b)[^c-d0ed5eeb3a038fc4b0e3eccb153577e0] section 21(1)(b) of the Public Services Ombudsman Act (Northern Ireland) 2016.
 
 ## Annotations
 
 [^c12397771]: Marginal citation: [1967 c.13](https://www.legislation.gov.uk/ukpga/1967/13).
 
-[^key-d0ed5eeb3a038fc4b0e3eccb153577e0]: Textual amendment: S. 78(2)(b) substituted for s. 78(2)(b)(c) (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 8](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/8)
+[^c-d0ed5eeb3a038fc4b0e3eccb153577e0]: Textual amendment: S. 78(2)(b) substituted for s. 78(2)(b)(c) (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 8](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/8)

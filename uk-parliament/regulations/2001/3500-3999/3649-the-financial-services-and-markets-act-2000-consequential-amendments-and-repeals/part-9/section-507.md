@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 507. Contraventions by an authorised person[^key-a7766ddbc91c1c007e2fecfdcde9bc60]
+## 507. Contraventions by an authorised person[^c-a7766ddbc91c1c007e2fecfdcde9bc60]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ In regulation 16 of the Public Offers of Securities Regulations 1995 (contravent
 
 ## Annotations
 
-[^key-a7766ddbc91c1c007e2fecfdcde9bc60]: Commencement: Art. 507 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a7766ddbc91c1c007e2fecfdcde9bc60]: Commencement: Art. 507 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

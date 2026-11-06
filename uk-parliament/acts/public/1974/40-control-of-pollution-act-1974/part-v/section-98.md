@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Interpretation of Part V.[^c2460471][^key-30de31ba538ae3fa16a2bd080e35ff2b][^c2460461]
+## 98. Interpretation of Part V.[^c2460471][^c-30de31ba538ae3fa16a2bd080e35ff2b][^c2460461]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ In this Part of this Act—
 
     S. 98 modified (10.1.1992) by [S.I. 1991/2913](https://www.legislation.gov.uk/uksi/1991/2913), [art. 8(2)(3)](https://www.legislation.gov.uk/uksi/1991/2913/article/8/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2913/schedule/2)
 
-[^key-30de31ba538ae3fa16a2bd080e35ff2b]: Modification: S. 98 modified (E.) (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
+[^c-30de31ba538ae3fa16a2bd080e35ff2b]: Modification: S. 98 modified (E.) (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
 
 [^c2460461]: Modification: S. 98 shall have effect as if in paragraph (*a*) of the definition of “relevant authority” after the words “Middle Temple” there were inserted (E.W.) (27.12.1985) by [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884), [art. 5](https://www.legislation.gov.uk/uksi/1985/1884/article/5), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/1985/1884/schedule/2/paragraph/12) “, any authority established by the Waste Regulation and Disposal (Authorities) Order 1985”
 

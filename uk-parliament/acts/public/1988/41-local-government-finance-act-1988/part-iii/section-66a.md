@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66A. Unoccupied hereditaments: change of state of property to be disregarded[^key-2ce029a4fa0b1b0aab5e617f458ba94e]
+## 66A. Unoccupied hereditaments: change of state of property to be disregarded[^c-2ce029a4fa0b1b0aab5e617f458ba94e]
 
 *Extent: E+W*
 
@@ -36,10 +36,10 @@ summary: ''
 
 (5) The regulations may provide that they have effect (with any necessary adaptations) in relation to omissions as well as to acts.
 
-(6) Regulations under this section may be made by the appropriate national authority[^key-4fd0a3c0c1e5271aa66f6e80dfe057d7].
+(6) Regulations under this section may be made by the appropriate national authority[^c-4fd0a3c0c1e5271aa66f6e80dfe057d7].
 
 ## Annotations
 
-[^key-2ce029a4fa0b1b0aab5e617f458ba94e]: Textual amendment: S. 66A inserted (19.7.2007) (with effect in accordance with s. 3(3)-(5) of the amending Act) by [Rating (Empty Properties) Act 2007 (c. 9)](https://www.legislation.gov.uk/ukpga/2007/9), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2007/9/section/3/2), [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/ukpga/2007/9/schedule/1/paragraph/4/1)
+[^c-2ce029a4fa0b1b0aab5e617f458ba94e]: Textual amendment: S. 66A inserted (19.7.2007) (with effect in accordance with s. 3(3)-(5) of the amending Act) by [Rating (Empty Properties) Act 2007 (c. 9)](https://www.legislation.gov.uk/ukpga/2007/9), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2007/9/section/3/2), [Sch. 1 para. 4(1)](https://www.legislation.gov.uk/ukpga/2007/9/schedule/1/paragraph/4/1)
 
-[^key-4fd0a3c0c1e5271aa66f6e80dfe057d7]: Textual amendment: Words in s. 66A(6) substituted for s. 66A(6)(a)(b) (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(15)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/15)
+[^c-4fd0a3c0c1e5271aa66f6e80dfe057d7]: Textual amendment: Words in s. 66A(6) substituted for s. 66A(6)(a)(b) (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(15)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/15)

@@ -34,7 +34,7 @@ COMPANIES
 
 PARTNERSHIP
 
-The Partnerships and Unlimited Companies (Accounts) (Amendment) Regulations 2005 (revoked)[^key-60e07611a3ccb91a82825a924e44c52f]
+The Partnerships and Unlimited Companies (Accounts) (Amendment) Regulations 2005 (revoked)[^c-60e07611a3ccb91a82825a924e44c52f]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 1st October 2005
 
-[^key-60e07611a3ccb91a82825a924e44c52f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60e07611a3ccb91a82825a924e44c52f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, and interpretation[^key-60e07611a3ccb91a82825a924e44c52f]
+## 1. Citation, commencement, and interpretation[^c-60e07611a3ccb91a82825a924e44c52f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 7 of the principal regulations (exemption where accounts consolidated)[^key-60e07611a3ccb91a82825a924e44c52f]
+## 2. Amendment of regulation 7 of the principal regulations (exemption where accounts consolidated)[^c-60e07611a3ccb91a82825a924e44c52f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule to the principal regulations (modifications and adaptations of Companies Acts provisions)[^key-60e07611a3ccb91a82825a924e44c52f]
+## 3. Amendment of Schedule to the principal regulations (modifications and adaptations of Companies Acts provisions)[^c-60e07611a3ccb91a82825a924e44c52f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60e07611a3ccb91a82825a924e44c52f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60e07611a3ccb91a82825a924e44c52f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-60e07611a3ccb91a82825a924e44c52f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60e07611a3ccb91a82825a924e44c52f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-60e07611a3ccb91a82825a924e44c52f]: Textual amendment: Regulations revoked (1.9.2013) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/7/a)
+[^c-60e07611a3ccb91a82825a924e44c52f]: Textual amendment: Regulations revoked (1.9.2013) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/7/a)

@@ -43,15 +43,15 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with section 142(3)(b)(ii) of the Housing (Wales) Act 2014, a draft of these Regulations has been laid before, and approved by a resolution of, Senedd Cymru[^f00003].
 
-## 1. Title and coming into force[^key-5224d192a5c17ccf3539b45fcba4f32c]
+## 1. Title and coming into force[^c-5224d192a5c17ccf3539b45fcba4f32c]
 
 The title of these Regulations is the Allocation of Housing and Homelessness (Eligibility) (Wales) (Amendment) (No. 3) Regulations 2023 and they come into force on 16 November 2023.
 
-## 2. Amendment of the Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014[^key-873b857fbf2eac11b4834b57cb7fe12e]
+## 2. Amendment of the Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014[^c-873b857fbf2eac11b4834b57cb7fe12e]
 
 The Allocation of Housing and Homelessness (Eligibility) (Wales) Regulations 2014[^f00004] are amended as follows.
 
-## 3. Amendments to regulation 3[^key-86e3e25a1355e9de7723f418f711bda7]
+## 3. Amendments to regulation 3[^c-86e3e25a1355e9de7723f418f711bda7]
 
 In regulation 3 (persons subject to immigration control who are eligible for an allocation of housing accommodation)—
 
@@ -69,7 +69,7 @@ In regulation 3 (persons subject to immigration control who are eligible for an 
   >     - (bb) who has been resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland for less than five years beginning on the date of entry or the date on which P’s sponsor gave the undertaking in respect of P, whichever date is the later; and
   >     - (cc) whose sponsor or, where there is more than one sponsor, at least one of whose sponsors, is still alive.
 
-## 4. Amendments to regulation 4[^key-17ab052473c0673bb0680b167f4aab51]
+## 4. Amendments to regulation 4[^c-17ab052473c0673bb0680b167f4aab51]
 
 In regulation 4(2) (other persons from abroad who are ineligible for an allocation of housing accommodation)—
 
@@ -79,7 +79,7 @@ In regulation 4(2) (other persons from abroad who are ineligible for an allocati
 
   > - (l) a person who was residing in Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon immediately before 7 October 2023 and who left Israel, the West Bank, the Gaza Strip, East Jerusalem, the Golan Heights or Lebanon in connection with the Hamas terrorist attack in Israel on 7 October 2023 or the violence which rapidly escalated in the region following the attack.
 
-## 5. Amendments to regulation 5[^key-9e5106ef2482f65a5af8298cd4b734f0]
+## 5. Amendments to regulation 5[^c-9e5106ef2482f65a5af8298cd4b734f0]
 
 In regulation 5(1) (persons subject to immigration control who are eligible for housing assistance)—
 
@@ -97,7 +97,7 @@ In regulation 5(1) (persons subject to immigration control who are eligible for 
   >     - (bb) who has been resident in the United Kingdom, the Channel Islands, the Isle of Man or the Republic of Ireland for less than five years beginning on the date of entry or the date on which P’s sponsor gave the undertaking in respect of P, whichever date is the later; and
   >     - (cc) whose sponsor or, where there is more than one sponsor, at least one of whose sponsors, is still alive.
 
-## 6. Amendments to regulation 6[^key-c53b51e9c219da82d5c2194d55da14fd]
+## 6. Amendments to regulation 6[^c-c53b51e9c219da82d5c2194d55da14fd]
 
 In regulation 6(2) (other persons from abroad who are ineligible for housing assistance)—
 
@@ -143,18 +143,18 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: The reference in section 142(3) to the National Assembly for Wales now has effect as a reference to Senedd Cymru, by virtue of section 150A(2) of the Government of Wales Act 2006. See also section 40 of the Legislation (Wales) Act [2019 (anaw 4)](https://www.legislation.gov.uk/anaw/2019/4) for provision about the procedure that applies to this instrument.
 
-[^key-5224d192a5c17ccf3539b45fcba4f32c]: Commencement: Reg. 1 in force at 16.11.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1211/regulation/1)
+[^c-5224d192a5c17ccf3539b45fcba4f32c]: Commencement: Reg. 1 in force at 16.11.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1211/regulation/1)
 
-[^key-873b857fbf2eac11b4834b57cb7fe12e]: Commencement: Reg. 2 in force at 16.11.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1211/regulation/1)
+[^c-873b857fbf2eac11b4834b57cb7fe12e]: Commencement: Reg. 2 in force at 16.11.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1211/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2014/2603 (W. 257)](https://www.legislation.gov.uk/wsi/2014/2603) as saved and modified by article 5 of [S.I. 2015/1272 (W. 88) (C. 73)](https://www.legislation.gov.uk/wsi/2015/1272) and amended by [S.I. 2017/698 (W. 164)](https://www.legislation.gov.uk/wsi/2017/698), [S.I. 2019/1041 (W. 183)](https://www.legislation.gov.uk/wsi/2019/1041), [S.I. 2019/1149 (W. 199)](https://www.legislation.gov.uk/wsi/2019/1149), regulation 76 of [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309), regulation 26 of [S.I. 2020/1372](https://www.legislation.gov.uk/uksi/2020/1372), [S.I. 2021/353 (W. 105)](https://www.legislation.gov.uk/wsi/2021/353), [S.I. 2021/1147 (W. 282)](https://www.legislation.gov.uk/wsi/2021/1147), [S.I. 2022/485 (W. 121)](https://www.legislation.gov.uk/wsi/2022/485), [S.I. 2023/76 (W. 14)](https://www.legislation.gov.uk/wsi/2023/76) and [S.I. 2023/611 (W. 92)](https://www.legislation.gov.uk/wsi/2023/611).
 
-[^key-86e3e25a1355e9de7723f418f711bda7]: Commencement: Reg. 3 in force at 16.11.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1211/regulation/1)
+[^c-86e3e25a1355e9de7723f418f711bda7]: Commencement: Reg. 3 in force at 16.11.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1211/regulation/1)
 
 [^f00005]: Footnote: Laid before Parliament on 23 May 1994 (HC 395), as amended.
 
-[^key-17ab052473c0673bb0680b167f4aab51]: Commencement: Reg. 4 in force at 16.11.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1211/regulation/1)
+[^c-17ab052473c0673bb0680b167f4aab51]: Commencement: Reg. 4 in force at 16.11.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1211/regulation/1)
 
-[^key-9e5106ef2482f65a5af8298cd4b734f0]: Commencement: Reg. 5 in force at 16.11.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1211/regulation/1)
+[^c-9e5106ef2482f65a5af8298cd4b734f0]: Commencement: Reg. 5 in force at 16.11.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1211/regulation/1)
 
-[^key-c53b51e9c219da82d5c2194d55da14fd]: Commencement: Reg. 6 in force at 16.11.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1211/regulation/1)
+[^c-c53b51e9c219da82d5c2194d55da14fd]: Commencement: Reg. 6 in force at 16.11.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1211/regulation/1)

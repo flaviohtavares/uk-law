@@ -22,7 +22,7 @@ summary: ''
 
 (1) On receiving a request the Commission must appoint a selection panel.
 
-(1A)[^key-d9ff561e6b87f9f1c289a86e05f884e8] The panel must have an odd number of members not less than five.
+(1A)[^c-d9ff561e6b87f9f1c289a86e05f884e8] The panel must have an odd number of members not less than five.
 
 (1B) The members of the panel must include—
 
@@ -38,28 +38,28 @@ and contributions to meeting more than one of the requirements may be made by th
 
 (2) The panel must—
 
-- (a) determine the selection process to be applied by it[^key-ccf688e48af85f26c2e15c68c9e001e9],
+- (a) determine the selection process to be applied by it[^c-ccf688e48af85f26c2e15c68c9e001e9],
 - (b) apply the selection process, and
 - (c) make a selection accordingly.
 
-(2A)[^key-9ea09d0db1a1d318c0c797b5594800d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-9ea09d0db1a1d318c0c797b5594800d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) One person only must be selected for each recommendation to which a request relates.
 
-(4) Subsection (3) applies to selection under this section and to selection under regulations under section 94C[^key-e736d480a9cee541009a3c512d244d95].
+(4) Subsection (3) applies to selection under this section and to selection under regulations under section 94C[^c-e736d480a9cee541009a3c512d244d95].
 
-(5)[^key-7a21fc6760f0b1f25213e63f39f7e0ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7a21fc6760f0b1f25213e63f39f7e0ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) A selection panel is a committee of the Commission.
 
 ## Annotations
 
-[^key-d9ff561e6b87f9f1c289a86e05f884e8]: Textual amendment: [S. 70(1A)-(1D)](https://www.legislation.gov.uk/ukpga/2005/4/section/70/1A) inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 58(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/58/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-d9ff561e6b87f9f1c289a86e05f884e8]: Textual amendment: [S. 70(1A)-(1D)](https://www.legislation.gov.uk/ukpga/2005/4/section/70/1A) inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 58(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/58/2); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-ccf688e48af85f26c2e15c68c9e001e9]: Textual amendment: Words in [s. 70(2)(a)](https://www.legislation.gov.uk/ukpga/2005/4/section/70/2/a) inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 58(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/58/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-ccf688e48af85f26c2e15c68c9e001e9]: Textual amendment: Words in [s. 70(2)(a)](https://www.legislation.gov.uk/ukpga/2005/4/section/70/2/a) inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 58(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/58/3); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-9ea09d0db1a1d318c0c797b5594800d3]: Textual amendment: [S. 70(2A)](https://www.legislation.gov.uk/ukpga/2005/4/section/70/2A) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 58(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/58/4); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-9ea09d0db1a1d318c0c797b5594800d3]: Textual amendment: [S. 70(2A)](https://www.legislation.gov.uk/ukpga/2005/4/section/70/2A) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 58(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/58/4); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-e736d480a9cee541009a3c512d244d95]: Textual amendment: Words in [s. 70(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/70/4) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 58(5)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/58/5); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-e736d480a9cee541009a3c512d244d95]: Textual amendment: Words in [s. 70(4)](https://www.legislation.gov.uk/ukpga/2005/4/section/70/4) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 58(5)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/58/5); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
 
-[^key-7a21fc6760f0b1f25213e63f39f7e0ca]: Textual amendment: [S. 70(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/70/5) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 58(6)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/58/6); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)
+[^c-7a21fc6760f0b1f25213e63f39f7e0ca]: Textual amendment: [S. 70(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/70/5) omitted (1.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 58(6)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/58/6); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/e) (with savings in [S.I. 2013/2192](https://www.legislation.gov.uk/uksi/2013/2192), regs. 48, 49)

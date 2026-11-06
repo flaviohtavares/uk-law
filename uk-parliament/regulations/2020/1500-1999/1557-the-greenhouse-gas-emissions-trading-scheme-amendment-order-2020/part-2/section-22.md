@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Article 39 amended (inspections)[^key-34f6ff3fd5dc99c08fe6ccdf10870662]
+## 22. Article 39 amended (inspections)[^c-34f6ff3fd5dc99c08fe6ccdf10870662]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34f6ff3fd5dc99c08fe6ccdf10870662]: Commencement: Art. 22 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-34f6ff3fd5dc99c08fe6ccdf10870662]: Commencement: Art. 22 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

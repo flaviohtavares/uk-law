@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Establishment of active member’s account[^key-a7918d0384339471b90d7c007058d4ab]
+## 40. Establishment of active member’s account[^c-a7918d0384339471b90d7c007058d4ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7918d0384339471b90d7c007058d4ab]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2014/1964/regulation/40) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-a7918d0384339471b90d7c007058d4ab]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2014/1964/regulation/40) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

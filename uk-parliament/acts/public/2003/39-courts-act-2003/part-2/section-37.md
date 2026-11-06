@@ -27,11 +27,11 @@ summary: ''
 
 (2) In this section “**magistrates' court**” includes—
 
-- (a) a committee of justices, [^key-c8eae09794c7532a26a701771a1af625]...
-- (b)[^key-ae106d99bc273eb8764bad0308787c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a committee of justices, [^c-c8eae09794c7532a26a701771a1af625]...
+- (b)[^c-ae106d99bc273eb8764bad0308787c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8eae09794c7532a26a701771a1af625]: Textual amendment: Word in [s. 37(2)(a)](https://www.legislation.gov.uk/ukpga/2003/39/section/37/2/a) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 31(a)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/31/a); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-c8eae09794c7532a26a701771a1af625]: Textual amendment: Word in [s. 37(2)(a)](https://www.legislation.gov.uk/ukpga/2003/39/section/37/2/a) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 31(a)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/31/a); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-ae106d99bc273eb8764bad0308787c71]: Textual amendment: [S. 37(2)(b)](https://www.legislation.gov.uk/ukpga/2003/39/section/37/2/b) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 31(b)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/31/b); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-ae106d99bc273eb8764bad0308787c71]: Textual amendment: [S. 37(2)(b)](https://www.legislation.gov.uk/ukpga/2003/39/section/37/2/b) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 31(b)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/31/b); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)

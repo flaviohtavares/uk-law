@@ -23,7 +23,7 @@ summary: ''
 (1) The trade union shall—
 
 - (a) provide every candidate with an opportunity of preparing an election address in his own words and of submitting it to the union to be distributed to the persons accorded entitlement to vote in the election; and
-- (b) secure that, so far as reasonably practicable, copies of every election address submitted to it in time are distributed to each of those persons [^key-f2f22d7e39c8c7ea61771328e95c353e]... along with the voting papers or voting access methods[^key-ee66c67bd5860dc069f04b0b47b3d03b] for the election.
+- (b) secure that, so far as reasonably practicable, copies of every election address submitted to it in time are distributed to each of those persons [^c-f2f22d7e39c8c7ea61771328e95c353e]... along with the voting papers or voting access methods[^c-ee66c67bd5860dc069f04b0b47b3d03b] for the election.
 
 (2) The trade union may determine the time by which an election address must be submitted to it for distribution; but the time so determined must not be earlier than the latest time at which a person may become a candidate in the election.
 
@@ -52,6 +52,6 @@ is provided to any candidate without being provided equally to all the others.
 
 ## Annotations
 
-[^key-f2f22d7e39c8c7ea61771328e95c353e]: Textual amendment: Words in s. 48(1)(b) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(4)(a)](https://www.legislation.gov.uk/uksi/2026/881/article/3/4/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-f2f22d7e39c8c7ea61771328e95c353e]: Textual amendment: Words in s. 48(1)(b) omitted (25.8.2026) by virtue of [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(4)(a)](https://www.legislation.gov.uk/uksi/2026/881/article/3/4/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-ee66c67bd5860dc069f04b0b47b3d03b]: Textual amendment: Words in s. 48(1)(b) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(4)(b)](https://www.legislation.gov.uk/uksi/2026/881/article/3/4/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-ee66c67bd5860dc069f04b0b47b3d03b]: Textual amendment: Words in s. 48(1)(b) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(4)(b)](https://www.legislation.gov.uk/uksi/2026/881/article/3/4/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

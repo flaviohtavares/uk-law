@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Temporary stopping up of streets[^key-5070651528ac1684102846fb9e7c4b0e]
+## 14. Temporary stopping up of streets[^c-5070651528ac1684102846fb9e7c4b0e]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5070651528ac1684102846fb9e7c4b0e]: Commencement: Art. 14 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-5070651528ac1684102846fb9e7c4b0e]: Commencement: Art. 14 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

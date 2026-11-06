@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — Competition test: functions and agreements relating to buses[^c13080751][^key-7fdb4e90c0975807f74d897baa2eb3a5]
+## SCHEDULE 10 — Competition test: functions and agreements relating to buses[^c13080751][^c-7fdb4e90c0975807f74d897baa2eb3a5]
 
 *Extent: E+W+S*
 
 **1.** The [^c13080761]Social Security Act 1986 shall be amended as mentioned in the following provisions of this Schedule.
 
-### 2.[^key-7fdb4e90c0975807f74d897baa2eb3a5]
+### 2.[^c-7fdb4e90c0975807f74d897baa2eb3a5]
 
 **May not be in force at this date. Check the source.**
 
@@ -96,7 +96,7 @@ summary: ''
 
   > - “**week**”, in relation to community charge benefits, means a period of seven days beginning with a Monday.
 
-### 3.[^key-7fdb4e90c0975807f74d897baa2eb3a5]
+### 3.[^c-7fdb4e90c0975807f74d897baa2eb3a5]
 
 **May not be in force at this date. Check the source.**
 
@@ -114,7 +114,7 @@ summary: ''
 
 .
 
-### 4.[^key-7fdb4e90c0975807f74d897baa2eb3a5]
+### 4.[^c-7fdb4e90c0975807f74d897baa2eb3a5]
 
 **May not be in force at this date. Check the source.**
 
@@ -126,7 +126,7 @@ summary: ''
 
 > (8A) A person’s income in respect of a week shall be calculated in accordance with prescribed rules; and the rules may provide for the calculation to be made by reference to an average over a period (which need not include the week concerned).
 
-### 5.[^key-7fdb4e90c0975807f74d897baa2eb3a5]
+### 5.[^c-7fdb4e90c0975807f74d897baa2eb3a5]
 
 **May not be in force at this date. Check the source.**
 
@@ -177,7 +177,7 @@ The following shall be inserted after section 22—
 >
 > (4) Without prejudice to the generality of subsection (3) above the regulations may include provision equivalent to that included under section 22A above subject to any modifications the Secretary of State sees fit.
 
-### 6.[^key-7fdb4e90c0975807f74d897baa2eb3a5]
+### 6.[^c-7fdb4e90c0975807f74d897baa2eb3a5]
 
 **May not be in force at this date. Check the source.**
 
@@ -359,13 +359,13 @@ The following shall be inserted after section 31—
 >
 > (6) Each charging authority and each levying authority shall make copies of the community charge benefit scheme, with any modifications adopted by it under section 31B above, available for public inspection at its principal office at all reasonable hours without payment.
 
-### 7.[^key-7fdb4e90c0975807f74d897baa2eb3a5]
+### 7.[^c-7fdb4e90c0975807f74d897baa2eb3a5]
 
 **May not be in force at this date. Check the source.**
 
 In section 51 (regulations about claims for and payments of benefit) in subsection (1) paragraphs (j) and (u) shall be omitted.
 
-### 8.[^key-7fdb4e90c0975807f74d897baa2eb3a5]
+### 8.[^c-7fdb4e90c0975807f74d897baa2eb3a5]
 
 **May not be in force at this date. Check the source.**
 
@@ -420,7 +420,7 @@ The following shall be inserted after section 51—
 
 (5) In subsection (5) for “(4)” there shall be substituted “ (4A) ”.
 
-### 10.[^key-7fdb4e90c0975807f74d897baa2eb3a5]
+### 10.[^c-7fdb4e90c0975807f74d897baa2eb3a5]
 
 **May not be in force at this date. Check the source.**
 
@@ -431,7 +431,7 @@ In section 61 (consultations on subordinate legislation) after paragraph (b) of 
 
 .
 
-### 11.[^key-7fdb4e90c0975807f74d897baa2eb3a5]
+### 11.[^c-7fdb4e90c0975807f74d897baa2eb3a5]
 
 **May not be in force at this date. Check the source.**
 
@@ -448,7 +448,7 @@ In section 61 (consultations on subordinate legislation) after paragraph (b) of 
 
 (4) In subsection (5) after “30” there shall be inserted “ , 31F ”.
 
-### 12.[^key-7fdb4e90c0975807f74d897baa2eb3a5]
+### 12.[^c-7fdb4e90c0975807f74d897baa2eb3a5]
 
 **May not be in force at this date. Check the source.**
 
@@ -462,7 +462,7 @@ In section 85 (financial provision) in subsection (1)(a) after sub-paragraph (v)
 
 [^c13080751]: Textual amendment: Sch. 10 (except paras. 1, 9(1)(5)) repealed (1.7.1992) by [1992 c. 6](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 3](https://www.legislation.gov.uk/ukpga/1992/6/section/3), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch.1](https://www.legislation.gov.uk/ukpga/1992/6/schedule/1) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/ukpga/1992/6/schedule/3/paragraph/2), [4](https://www.legislation.gov.uk/ukpga/1992/6/schedule/3/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/1992/6/schedule/3/paragraph/6))
 
-[^key-7fdb4e90c0975807f74d897baa2eb3a5]: Textual amendment: Sch. 10 heading substituted (9.2.2009 for E., 1.4.2009 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2008/26/schedule/2/paragraph/16); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1); [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/579/article/2/d)
+[^c-7fdb4e90c0975807f74d897baa2eb3a5]: Textual amendment: Sch. 10 heading substituted (9.2.2009 for E., 1.4.2009 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2008/26/schedule/2/paragraph/16); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1); [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/579/article/2/d)
 
 [^c13080761]: Marginal citation: [1986 c. 50](https://www.legislation.gov.uk/ukpga/1986/50).
 

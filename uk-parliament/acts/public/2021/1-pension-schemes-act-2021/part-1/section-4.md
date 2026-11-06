@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Qualifying schemes: supplementary[^c24458091][^key-a4da58260eb27256e2cb09790b0f7a60]
+## 4. Qualifying schemes: supplementary[^c24458091][^c-a4da58260eb27256e2cb09790b0f7a60]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c24458091]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/1/section/4) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-a4da58260eb27256e2cb09790b0f7a60]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/1/section/4) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-a4da58260eb27256e2cb09790b0f7a60]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/1/section/4) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

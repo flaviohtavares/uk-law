@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 71. Reconsideration by the Tribunal on its own initiative[^key-d379ea5734eb7a09fb8339b0fb82d4db]
+## 71. Reconsideration by the Tribunal on its own initiative[^c-d379ea5734eb7a09fb8339b0fb82d4db]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where the Tribunal proposes to reconsider a judgment on its own initiative, it m
 
 ## Annotations
 
-[^key-d379ea5734eb7a09fb8339b0fb82d4db]: Commencement: [Rule 71](https://www.legislation.gov.uk/uksi/2024/1155/rule/71) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-d379ea5734eb7a09fb8339b0fb82d4db]: Commencement: [Rule 71](https://www.legislation.gov.uk/uksi/2024/1155/rule/71) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

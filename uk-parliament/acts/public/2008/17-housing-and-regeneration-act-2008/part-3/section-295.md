@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 295. Management agreements: extending requirements to co-operate[^key-937bc1baef55aafcb09f0de1ed6b8eb2]
+## 295. Management agreements: extending requirements to co-operate[^c-937bc1baef55aafcb09f0de1ed6b8eb2]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-937bc1baef55aafcb09f0de1ed6b8eb2]: Commencement: [S. 295](https://www.legislation.gov.uk/ukpga/2008/17/section/295) in force at 1.12.2008 for E. by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/a) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-937bc1baef55aafcb09f0de1ed6b8eb2]: Commencement: [S. 295](https://www.legislation.gov.uk/ukpga/2008/17/section/295) in force at 1.12.2008 for E. by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(1)(a)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/a) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

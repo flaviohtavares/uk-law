@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Certificates as to proof of certain matters[^key-3a412150879819c82d21bc03e5e6b36d][^key-6a1faa48a29f888fe14c0997f1ffc8b0]
+## 47. Certificates as to proof of certain matters[^c-3a412150879819c82d21bc03e5e6b36d][^c-6a1faa48a29f888fe14c0997f1ffc8b0]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a412150879819c82d21bc03e5e6b36d]: Commencement: S. 47 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-3a412150879819c82d21bc03e5e6b36d]: Commencement: S. 47 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-6a1faa48a29f888fe14c0997f1ffc8b0]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2022/9/section/47) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)
+[^c-6a1faa48a29f888fe14c0997f1ffc8b0]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2022/9/section/47) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Police bail[^key-4c909c453b7e0923f844b8509abbb598]
+## 10. Police bail[^c-4c909c453b7e0923f844b8509abbb598]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ has effect.
 
 ## Annotations
 
-[^key-4c909c453b7e0923f844b8509abbb598]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/48/section/10) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-4c909c453b7e0923f844b8509abbb598]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/48/section/10) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/709/article/3/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))

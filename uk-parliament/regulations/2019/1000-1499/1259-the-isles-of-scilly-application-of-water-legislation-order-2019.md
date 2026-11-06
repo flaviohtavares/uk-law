@@ -51,17 +51,17 @@ The Council of the Isles of Scilly has, in accordance with section 193(2) of the
 
 In accordance with section 222(2) of the Water Industry Act 1991, the Secretary of State has consulted the Council of the Isles of Scilly.
 
-## 1. Citation[^key-2f7c3a285254bdff188b5ade8ccbe9a5]
+## 1. Citation[^c-2f7c3a285254bdff188b5ade8ccbe9a5]
 
 This Order may be cited as the Isles of Scilly (Application of Water Legislation) Order 2019.
 
-## 2. Commencement[^key-4f0d2486b8db553706fe4f37d0ee6328]
+## 2. Commencement[^c-4f0d2486b8db553706fe4f37d0ee6328]
 
 (1) Articles 1 to 4 come into force on 1st November 2019.
 
 (2) Article 5 comes into force on 1st April 2020.
 
-## 3. Application of the Water Act 1989[^key-f2a8b2facc9e22c38a5fe824e76dcbd9]
+## 3. Application of the Water Act 1989[^c-f2a8b2facc9e22c38a5fe824e76dcbd9]
 
 (1) The following provisions of the Water Act 1989 apply to the Isles of Scilly as they apply to the rest of England—
 
@@ -176,7 +176,7 @@ This is subject to the following modifications.
   - (ii) for “in such proportions” there were substituted “ to such extent ”;
   - (iii) for the words from “the water authority's” to the end, there were substituted “ the successor company ”.
 
-## 4. Application of the Water Industry Act 1991[^key-6330e8b176ba44dedb28a372948b8142]
+## 4. Application of the Water Industry Act 1991[^c-6330e8b176ba44dedb28a372948b8142]
 
 (1) The Water Industry Act 1991 applies to the Isles of Scilly as it applies to the rest of England. This is subject to the following modifications.
 
@@ -190,7 +190,7 @@ This is subject to the following modifications.
   > but nothing in this subsection shall impose any duty on the Secretary of State to secure that such appointments are made in respect of the Isles of Scilly before 1st April 2020
 
   ;
-- (c)[^key-5a27c03931a78c17a1d1690164402929] for subsection (2) there were substituted—
+- (c)[^c-5a27c03931a78c17a1d1690164402929] for subsection (2) there were substituted—
 
   > (2) Subject to subsections (3) to (6)—
   >
@@ -266,13 +266,13 @@ This is subject to the following modifications.
 
 .
 
-(8A)[^key-8cf3c97a20463e66de6616c9f9f85464] Section 102(2) is to be read as if at the end there were inserted—
+(8A)[^c-8cf3c97a20463e66de6616c9f9f85464] Section 102(2) is to be read as if at the end there were inserted—
 
 > ; but nothing in this subsection shall confer any right to make an application under this subsection before 1st April 2025
 
 .
 
-(9)[^key-3f4f8a900189a33685d1e6850e1d3637] Section 105(1)(b) is to be read as if at the end there were inserted “following an application under section 102(2)”.
+(9)[^c-3f4f8a900189a33685d1e6850e1d3637] Section 105(1)(b) is to be read as if at the end there were inserted “following an application under section 102(2)”.
 
 (10) Section 106 is to be read as if after subsection (3) there were inserted—
 
@@ -334,7 +334,7 @@ This is subject to the following modifications.
 
 .
 
-## 5. Revocation[^key-4c510744ec158b722b09fdd9eb78e1da]
+## 5. Revocation[^c-4c510744ec158b722b09fdd9eb78e1da]
 
 The Isles of Scilly (Water and Sewerage) (Miscellaneous Provisions) Order 1990 [^c23845071] is revoked.
 
@@ -367,20 +367,20 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23845061]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 222 was substituted by section 118(4) of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25). The Water Industry Act 1991 was last amended in relation to England by [S.I. 2019/558](https://www.legislation.gov.uk/uksi/2019/558).
 
-[^key-2f7c3a285254bdff188b5ade8ccbe9a5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2019/1259/article/1) in force at 1.11.2019, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/1)
+[^c-2f7c3a285254bdff188b5ade8ccbe9a5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2019/1259/article/1) in force at 1.11.2019, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/1)
 
-[^key-4f0d2486b8db553706fe4f37d0ee6328]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2019/1259/article/2) in force at 1.11.2019, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/1)
+[^c-4f0d2486b8db553706fe4f37d0ee6328]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2019/1259/article/2) in force at 1.11.2019, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/1)
 
-[^key-f2a8b2facc9e22c38a5fe824e76dcbd9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2019/1259/article/3) in force at 1.11.2019, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/1)
+[^c-f2a8b2facc9e22c38a5fe824e76dcbd9]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2019/1259/article/3) in force at 1.11.2019, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/1)
 
-[^key-6330e8b176ba44dedb28a372948b8142]: Commencement: Art. 4 in force at 1.11.2019, see art. 2(1)
+[^c-6330e8b176ba44dedb28a372948b8142]: Commencement: Art. 4 in force at 1.11.2019, see art. 2(1)
 
-[^key-5a27c03931a78c17a1d1690164402929]: Textual amendment: [Art. 4(2)(c)](https://www.legislation.gov.uk/uksi/2019/1259/article/4/2/c) substituted (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/214/article/6/2)
+[^c-5a27c03931a78c17a1d1690164402929]: Textual amendment: [Art. 4(2)(c)](https://www.legislation.gov.uk/uksi/2019/1259/article/4/2/c) substituted (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/214/article/6/2)
 
-[^key-8cf3c97a20463e66de6616c9f9f85464]: Textual amendment: [Art. 4(8A)](https://www.legislation.gov.uk/uksi/2019/1259/article/4/8A) inserted (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/214/article/6/3)
+[^c-8cf3c97a20463e66de6616c9f9f85464]: Textual amendment: [Art. 4(8A)](https://www.legislation.gov.uk/uksi/2019/1259/article/4/8A) inserted (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/214/article/6/3)
 
-[^key-3f4f8a900189a33685d1e6850e1d3637]: Textual amendment: [Art. 4(9)](https://www.legislation.gov.uk/uksi/2019/1259/article/4/9) substituted (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [6(4)](https://www.legislation.gov.uk/uksi/2020/214/article/6/4)
+[^c-3f4f8a900189a33685d1e6850e1d3637]: Textual amendment: [Art. 4(9)](https://www.legislation.gov.uk/uksi/2019/1259/article/4/9) substituted (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [6(4)](https://www.legislation.gov.uk/uksi/2020/214/article/6/4)
 
-[^key-4c510744ec158b722b09fdd9eb78e1da]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2019/1259/article/5) in force at 1.4.2020, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/2)
+[^c-4c510744ec158b722b09fdd9eb78e1da]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2019/1259/article/5) in force at 1.4.2020, see [art. 2(2)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/2)
 
 [^c23845071]: Marginal citation: [S.I. 1990/524](https://www.legislation.gov.uk/uksi/1990/524).

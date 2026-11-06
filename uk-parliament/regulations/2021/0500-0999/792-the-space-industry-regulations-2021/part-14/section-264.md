@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 264. Anonymised information[^key-908f0c18741999d6156199297d2cde40]
+## 264. Anonymised information[^c-908f0c18741999d6156199297d2cde40]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 255 does not prohibit a disclosure of protected information which is 
 
 ## Annotations
 
-[^key-908f0c18741999d6156199297d2cde40]: Commencement: Reg. 264 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-908f0c18741999d6156199297d2cde40]: Commencement: Reg. 264 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

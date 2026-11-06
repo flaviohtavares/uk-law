@@ -23,7 +23,7 @@ summary: ''
 (1) A person is qualified to issue a certificate for the purposes of section 35(4)(b) of this Act if he either—
 
 - (a) has an interest in the site of the operations which (apart from any restrictions imposed by law) entitles him to carry out the operations in question; or
-- (b) has a right to enter on and take possession of that site under section 11(1) [^key-604c5eb9510335a410622fbfd143c111]... of the [^c251022]Compulsory Purchase Act 1965 (powers of entry on land subject to compulsory purchase) or, in the case of a site in Scotland, under paragraph 3(1) of Schedule 2 to the [^c251023]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947.
+- (b) has a right to enter on and take possession of that site under section 11(1) [^c-604c5eb9510335a410622fbfd143c111]... of the [^c251022]Compulsory Purchase Act 1965 (powers of entry on land subject to compulsory purchase) or, in the case of a site in Scotland, under paragraph 3(1) of Schedule 2 to the [^c251023]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947.
 
 (2) Statutory undertakers are qualified to issue a certificate for the purposes of section 35(4)(b) of this Act if they are entitled by or under any enactment to carry out the operations in question.
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-604c5eb9510335a410622fbfd143c111]: Textual amendment: Words in [s. 36(1)(b)](https://www.legislation.gov.uk/ukpga/1979/46/section/36/1/b) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 16 para. 15](https://www.legislation.gov.uk/ukpga/2016/22/schedule/16/paragraph/15); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/j)
+[^c-604c5eb9510335a410622fbfd143c111]: Textual amendment: Words in [s. 36(1)(b)](https://www.legislation.gov.uk/ukpga/1979/46/section/36/1/b) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 16 para. 15](https://www.legislation.gov.uk/ukpga/2016/22/schedule/16/paragraph/15); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/j)
 
 [^c251022]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 

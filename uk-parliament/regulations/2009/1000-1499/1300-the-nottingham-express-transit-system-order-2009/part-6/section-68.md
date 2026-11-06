@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Minerals[^key-e909056834efa85a3f3c4d654b75d1fc]
+## 68. Minerals[^c-e909056834efa85a3f3c4d654b75d1fc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Nothing in this Order shall affect the right of any person entitled to any mine 
 
 ## Annotations
 
-[^key-e909056834efa85a3f3c4d654b75d1fc]: Commencement: Art. 68 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-e909056834efa85a3f3c4d654b75d1fc]: Commencement: Art. 68 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12A. Project B Offshore works: abandonment, decay or removal[^key-bc98a59638f7360c230e6cd852fec343]
+## 12A. Project B Offshore works: abandonment, decay or removal[^c-bc98a59638f7360c230e6cd852fec343]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc98a59638f7360c230e6cd852fec343]: Textual amendment: [Art. 12A](https://www.legislation.gov.uk/uksi/2015/1592/article/12A) inserted (1.12.2020) by [The Dogger Bank Teesside A and B Offshore Wind Farm (Amendment) (No. 2) Order 2020 (S.I. 2020/1389)](https://www.legislation.gov.uk/uksi/2020/1389), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1389/article/1), [4(g)](https://www.legislation.gov.uk/uksi/2020/1389/article/4/g)
+[^c-bc98a59638f7360c230e6cd852fec343]: Textual amendment: [Art. 12A](https://www.legislation.gov.uk/uksi/2015/1592/article/12A) inserted (1.12.2020) by [The Dogger Bank Teesside A and B Offshore Wind Farm (Amendment) (No. 2) Order 2020 (S.I. 2020/1389)](https://www.legislation.gov.uk/uksi/2020/1389), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1389/article/1), [4(g)](https://www.legislation.gov.uk/uksi/2020/1389/article/4/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Works below high water mark.[^c10050351][^key-337ad8ea5e20197760e229ec495bec25]
+## 38. Works below high water mark.[^c10050351][^c-337ad8ea5e20197760e229ec495bec25]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c10050351]: Modification: S. 38 applied (1.12.1991) by [Water Resources Act 1991 (c. 57, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/57), [ss. 181(3)](https://www.legislation.gov.uk/ukpga/1991/57/section/181/3), [225(2)](https://www.legislation.gov.uk/ukpga/1991/57/section/225/2), (with ss. 16(6), 179, 222(3), 224(1), 225(4), Sch. 22 paras. 1, 2, 4, Sch. 23 para. 6).
 
-[^key-337ad8ea5e20197760e229ec495bec25]: Modification: S. 38 functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2018/644/article/15/2)
+[^c-337ad8ea5e20197760e229ec495bec25]: Modification: S. 38 functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2018/644/article/15/2)

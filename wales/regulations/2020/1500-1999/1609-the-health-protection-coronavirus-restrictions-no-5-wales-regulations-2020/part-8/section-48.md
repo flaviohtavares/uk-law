@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Amount of fixed penalty: general[^key-417ebe054d19b9a5c7d8ef55c6bfe757]
+## 48. Amount of fixed penalty: general[^c-417ebe054d19b9a5c7d8ef55c6bfe757]
 
 *Extent: E+W*
 
-(1) Unless regulation 50 or 52[^key-6f1fd3f35d3712ac9183dec9cab43248] applies, the amount of a fixed penalty is—
+(1) Unless regulation 50 or 52[^c-6f1fd3f35d3712ac9183dec9cab43248] applies, the amount of a fixed penalty is—
 
 - (a) £60, or
 - (b) if £30 is paid before the end of the period of 14 days following the date of the notice, £30.
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-417ebe054d19b9a5c7d8ef55c6bfe757]: Commencement: Reg. 48 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-417ebe054d19b9a5c7d8ef55c6bfe757]: Commencement: Reg. 48 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
 
-[^key-6f1fd3f35d3712ac9183dec9cab43248]: Textual amendment: Words in [reg. 48(1)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/48/1) substituted (28.3.2022) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(18)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/18) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))
+[^c-6f1fd3f35d3712ac9183dec9cab43248]: Textual amendment: Words in [reg. 48(1)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/48/1) substituted (28.3.2022) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(18)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/18) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))
 
 [^c24382771]: Marginal citation: [S.I. 2020/1011](https://www.legislation.gov.uk/uksi/2020/1011) (W. 225).

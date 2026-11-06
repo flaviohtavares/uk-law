@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Modifications to Verification Regulation 2018[^M_I_44285b36-0b20-4929-f9dd-b10a91269454][^key-0dbd02c9b4dde1bff347a17bc29890c7]
+## SCHEDULE 5 — Modifications to Verification Regulation 2018[^M_I_44285b36-0b20-4929-f9dd-b10a91269454][^c-0dbd02c9b4dde1bff347a17bc29890c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,9 +47,9 @@ and subject to the following additional modifications.
   ;
 - (b) in point (2)—
   - (i) for “a national” there were substituted “ the national ”;
-  - (ii) for “harmonised standards, within the meaning of point 9 of Article 2 of Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/eur/2008/765),” there were substituted the standard referred to in Annex 2[^key-92dfb0d9458d29b7a34b2159447b0587];
+  - (ii) for “harmonised standards, within the meaning of point 9 of Article 2 of Regulation [(EC) No 765/2008](https://www.legislation.gov.uk/eur/2008/765),” there were substituted the standard referred to in Annex 2[^c-92dfb0d9458d29b7a34b2159447b0587];
 - (c) in point (3)—
-  - (ai)[^key-ff66e61d1ee80936df108d2e25d698df] “or another legal entity” were omitted;
+  - (ai)[^c-ff66e61d1ee80936df108d2e25d698df] “or another legal entity” were omitted;
   - (i) for “a national” there were substituted “ the national ”;
   - (ii) the words “or a natural person otherwise authorised, without prejudice to Article 5(2) of that Regulation,” were omitted;
 - (d) after point (3) there were inserted—
@@ -102,7 +102,7 @@ and subject to the following additional modifications.
 
 **5.** Article 4 is to be read as if—
 
-- (a) for the words from “the relevant harmonised standards” to “*European Union*” there were substituted the standard referred to in Annex 2[^key-524891e092af2fd5d0dc67868edfcc2d];
+- (a) for the words from “the relevant harmonised standards” to “*European Union*” there were substituted the standard referred to in Annex 2[^c-524891e092af2fd5d0dc67868edfcc2d];
 - (b) for “the applicable harmonised standards” there were substituted “ those standards ”.
 
 **6.** Article 5 is to be read as if for “bodies” there were substituted “ body ”.
@@ -333,20 +333,20 @@ and subject to the following additional modifications.
 
 **24.** The Verification Regulation 2018 is to be read as if after Article 34 there were inserted—
 
-> **Article 34a — Virtual site visits by verifiers of installations because of force majeure[^key-112f81a68ae7e3003a0ee9d2f2f8647b]**
+> **Article 34a — Virtual site visits by verifiers of installations because of force majeure[^c-112f81a68ae7e3003a0ee9d2f2f8647b]**
 >
-> Where serious, extraordinary and unforeseeable circumstances, outside the control of the operator [^key-1d8b4f40534f83d337d578ccdc3b96b8]..., prevent the verifier from carrying out a physical site visit in accordance with Article 21(1) and where these circumstances cannot, after using all reasonable efforts, be overcome, the verifier may decide, subject to the approval of the regulator in accordance with the second and third subparagraph of this Article, to carry out a virtual site visit. The verifier shall take measures to reduce the verification risk to an acceptable level and carry out a physical visit to the site of the installation [^key-1d8b4f40534f83d337d578ccdc3b96b8]... without undue delay. The decision to carry out a virtual site visit shall be based on the outcome of the risk analysis and after determining that the conditions for carrying out a virtual site visit are met. The verifier shall inform the operator [^key-1d8b4f40534f83d337d578ccdc3b96b8]... thereof without undue delay.
+> Where serious, extraordinary and unforeseeable circumstances, outside the control of the operator [^c-1d8b4f40534f83d337d578ccdc3b96b8]..., prevent the verifier from carrying out a physical site visit in accordance with Article 21(1) and where these circumstances cannot, after using all reasonable efforts, be overcome, the verifier may decide, subject to the approval of the regulator in accordance with the second and third subparagraph of this Article, to carry out a virtual site visit. The verifier shall take measures to reduce the verification risk to an acceptable level and carry out a physical visit to the site of the installation [^c-1d8b4f40534f83d337d578ccdc3b96b8]... without undue delay. The decision to carry out a virtual site visit shall be based on the outcome of the risk analysis and after determining that the conditions for carrying out a virtual site visit are met. The verifier shall inform the operator [^c-1d8b4f40534f83d337d578ccdc3b96b8]... thereof without undue delay.
 >
-> The operator [^key-56a617945f6bea820936dc5f78a91888]... shall submit an application to the regulator requesting the regulator to approve the verifier's decision to carry out a virtual site visit.
+> The operator [^c-56a617945f6bea820936dc5f78a91888]... shall submit an application to the regulator requesting the regulator to approve the verifier's decision to carry out a virtual site visit.
 >
-> On an application submitted by the operator [^key-4e6e40389a0189346aedd508933fbf9c]... concerned, the regulator shall decide whether to approve the verifier's decision to carry out a virtual site visit, taking into consideration all of the following elements:
+> On an application submitted by the operator [^c-4e6e40389a0189346aedd508933fbf9c]... concerned, the regulator shall decide whether to approve the verifier's decision to carry out a virtual site visit, taking into consideration all of the following elements:
 >
 > - (a) evidence that it is not possible to carry out a physical site visit because of the force majeure circumstances;
 > - (b) the information provided by the verifier on the outcome of the risk analysis;
 > - (c) information on how the virtual site visit will be carried out;
 > - (d) evidence that measures are taken to reduce the verification risk to an acceptable level.
 >
-> **Article 34b — Virtual site visits by verifiers of aircraft operators[^key-60bd468b271a777fecab25802e960b65]**
+> **Article 34b — Virtual site visits by verifiers of aircraft operators[^c-60bd468b271a777fecab25802e960b65]**
 >
 > **1.** For the purpose of verifying the report of an aircraft operator (other than a small emitter referred to in Article 55(1) of Implementing Regulation (EU) 2018/2066), the verifier may, with the agreement of the aircraft operator and subject to the approval of the regulator in accordance with paragraph 4, carry out a virtual site visit instead of carrying out a physical site visit in accordance with Article 21(1).
 >
@@ -418,7 +418,7 @@ and subject to the following additional modifications.
 
 **33.** Article 45 is to be read as if, in the words before point (a), for “each” there were substituted “ the ”.
 
-**34.**[^key-606afb1c67d3d66b71612a81fc97158e] Article 46(1) is to be read as if—
+**34.**[^c-606afb1c67d3d66b71612a81fc97158e] Article 46(1) is to be read as if—
 
 - (a) in the first subparagraph “or other legal entity” were omitted;
 - (b) in the second subparagraph “harmonised” were omitted.
@@ -430,7 +430,7 @@ and subject to the following additional modifications.
 
 **36.** Article 48 is to be read as if in each of paragraphs 1 and 2 “harmonised” were omitted.
 
-**37.**[^key-20ecaee463ee85588a53fb8091b6fb11] Article 49 is to be read as if—
+**37.**[^c-20ecaee463ee85588a53fb8091b6fb11] Article 49 is to be read as if—
 
 - (a) in paragraph 1 “harmonised” were omitted;
 - (b) in paragraph 2 in the second subparagraph “harmonised” were omitted;
@@ -524,7 +524,7 @@ and subject to the following additional modifications.
 - (b) in the table—
   - (i) in the entry for group 10 for “Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “ the 2020 Order ”;
   - (ii) in the entries for groups 10 and 11 for “Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31)” in each place there were substituted “ the CCS licensing regime ”;
-  - (iia)[^key-b1cb7401341c217fc6adc94d469cd0f3] after the entry for group 12 (aviation activities) there were inserted—
+  - (iia)[^c-b1cb7401341c217fc6adc94d469cd0f3] after the entry for group 12 (aviation activities) there were inserted—
 
     | Activity Group No | Scopes of accreditation |
     | --- | --- |
@@ -532,7 +532,7 @@ and subject to the following additional modifications.
   - (iii) in the entry for group 98 for “Article 10a of Directive [2003/87/EC](https://www.legislation.gov.uk/eudr/2003/87)” there were substituted “ Part 4A of the 2020 Order, Delegated Regulation (EU) 2019/331 or Implementing Regulation (EU) 2019/1842 ”;
   - (iv) the entry for group 99 were omitted.
 
-**55.**[^key-8c7b96c25e09221b096d42d8ad41f7ae] Annex 2 is to be read as if for the first sentence there were substituted—
+**55.**[^c-8c7b96c25e09221b096d42d8ad41f7ae] Annex 2 is to be read as if for the first sentence there were substituted—
 
 > The standard referred to in this Annex is:
 >
@@ -549,28 +549,28 @@ and subject to the following additional modifications.
 
 [^M_I_44285b36-0b20-4929-f9dd-b10a91269454]: Commencement: Sch. 5 in force at 31.12.2020 immediately after IP completion day, see [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/2/b)
 
-[^key-0dbd02c9b4dde1bff347a17bc29890c7]: Textual amendment: Sch. 5 substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [36](https://www.legislation.gov.uk/uksi/2020/1557/article/36)
+[^c-0dbd02c9b4dde1bff347a17bc29890c7]: Textual amendment: Sch. 5 substituted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [36](https://www.legislation.gov.uk/uksi/2020/1557/article/36)
 
-[^key-92dfb0d9458d29b7a34b2159447b0587]: Textual amendment: Words in [Sch. 5 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/4/b/ii) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(2)(a)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/2/a)
+[^c-92dfb0d9458d29b7a34b2159447b0587]: Textual amendment: Words in [Sch. 5 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/4/b/ii) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(2)(a)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/2/a)
 
-[^key-ff66e61d1ee80936df108d2e25d698df]: Textual amendment: [Sch. 5 para. 4(c)(ai)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/4/c/ai) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/2/b)
+[^c-ff66e61d1ee80936df108d2e25d698df]: Textual amendment: [Sch. 5 para. 4(c)(ai)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/4/c/ai) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/2/b)
 
-[^key-524891e092af2fd5d0dc67868edfcc2d]: Textual amendment: Words in [Sch. 5 para. 5(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/5/a) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(3)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/3)
+[^c-524891e092af2fd5d0dc67868edfcc2d]: Textual amendment: Words in [Sch. 5 para. 5(a)](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/5/a) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(3)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/3)
 
-[^key-112f81a68ae7e3003a0ee9d2f2f8647b]: Textual amendment: Words in [Sch. 5 para. 24](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/24) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/4/a/i)
+[^c-112f81a68ae7e3003a0ee9d2f2f8647b]: Textual amendment: Words in [Sch. 5 para. 24](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/24) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/4/a/i)
 
-[^key-1d8b4f40534f83d337d578ccdc3b96b8]: Textual amendment: Words in [Sch. 5 para. 24](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/24) omitted (1.1.2023) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/4/a/ii)
+[^c-1d8b4f40534f83d337d578ccdc3b96b8]: Textual amendment: Words in [Sch. 5 para. 24](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/24) omitted (1.1.2023) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/4/a/ii)
 
-[^key-56a617945f6bea820936dc5f78a91888]: Textual amendment: Words in [Sch. 5 para. 24](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/24) omitted (1.1.2023) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/4/a/iii)
+[^c-56a617945f6bea820936dc5f78a91888]: Textual amendment: Words in [Sch. 5 para. 24](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/24) omitted (1.1.2023) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/4/a/iii)
 
-[^key-4e6e40389a0189346aedd508933fbf9c]: Textual amendment: Words in [Sch. 5 para. 24](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/24) omitted (1.1.2023) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/4/a/iv)
+[^c-4e6e40389a0189346aedd508933fbf9c]: Textual amendment: Words in [Sch. 5 para. 24](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/24) omitted (1.1.2023) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/4/a/iv)
 
-[^key-60bd468b271a777fecab25802e960b65]: Textual amendment: Words in [Sch. 5 para. 24](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/24) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(4)(b)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/4/b)
+[^c-60bd468b271a777fecab25802e960b65]: Textual amendment: Words in [Sch. 5 para. 24](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/24) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(4)(b)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/4/b)
 
-[^key-606afb1c67d3d66b71612a81fc97158e]: Textual amendment: [Sch. 5 para. 34](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/34) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(5)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/5)
+[^c-606afb1c67d3d66b71612a81fc97158e]: Textual amendment: [Sch. 5 para. 34](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/34) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(5)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/5)
 
-[^key-20ecaee463ee85588a53fb8091b6fb11]: Textual amendment: [Sch. 5 para. 37](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/37) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(6)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/6)
+[^c-20ecaee463ee85588a53fb8091b6fb11]: Textual amendment: [Sch. 5 para. 37](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/37) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(6)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/6)
 
-[^key-b1cb7401341c217fc6adc94d469cd0f3]: Textual amendment: Sch. 5 para. 54(b)(iia) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [30(2)](https://www.legislation.gov.uk/uksi/2024/1366/article/30/2)
+[^c-b1cb7401341c217fc6adc94d469cd0f3]: Textual amendment: Sch. 5 para. 54(b)(iia) inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [30(2)](https://www.legislation.gov.uk/uksi/2024/1366/article/30/2)
 
-[^key-8c7b96c25e09221b096d42d8ad41f7ae]: Textual amendment: [Sch. 5 para. 55](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/55) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(7)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/7)
+[^c-8c7b96c25e09221b096d42d8ad41f7ae]: Textual amendment: [Sch. 5 para. 55](https://www.legislation.gov.uk/uksi/2020/1265/schedule/5/paragraph/55) substituted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [14(7)](https://www.legislation.gov.uk/uksi/2022/1173/article/14/7)

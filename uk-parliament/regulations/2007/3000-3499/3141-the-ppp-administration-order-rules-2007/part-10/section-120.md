@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. “Petition”[^key-8f79ab95a35fe3c749c4d1fad12ff012]
+## 120. “Petition”[^c-8f79ab95a35fe3c749c4d1fad12ff012]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f79ab95a35fe3c749c4d1fad12ff012]: Commencement: [Rule 120](https://www.legislation.gov.uk/uksi/2007/3141/rule/120) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-8f79ab95a35fe3c749c4d1fad12ff012]: Commencement: [Rule 120](https://www.legislation.gov.uk/uksi/2007/3141/rule/120) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

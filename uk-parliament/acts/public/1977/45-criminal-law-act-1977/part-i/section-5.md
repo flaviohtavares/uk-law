@@ -44,7 +44,7 @@ but a person convicted of conspiracy to trespass in any proceedings brought by v
 
 (6) The rules laid down by sections 1 and 2 above shall apply for determining whether a person is guilty of an offence of conspiracy under any enactment other than section 1 above, but conduct which is an offence under any such other enactment shall not also be an offence under section 1 above.
 
-(7)[^key-d7de873eeb24226a18566dc57ad02780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-d7de873eeb24226a18566dc57ad02780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) The fact that the person or persons who, so far as appears from the indictment on which any person has been convicted of conspiracy, were the only other parties to the agreement on which his conviction was based have been acquitted of conspiracy by reference to that agreement (whether after being tried with the person convicted or separately) shall not be a ground for quashing his conviction unless under all the circumstances of the case his conviction is inconsistent with the acquittal of the other person or persons in question.
 
@@ -61,7 +61,7 @@ but a person convicted of conspiracy to trespass in any proceedings brought by v
 
 [^c4764301]: Textual amendment: Words repealed by [Criminal Justice Act 1987 (c. 38, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1987/38), [s. 12(2)](https://www.legislation.gov.uk/ukpga/1987/38/section/12/2)
 
-[^key-d7de873eeb24226a18566dc57ad02780]: Textual amendment: [S. 5(7)](https://www.legislation.gov.uk/ukpga/1977/45/section/5/7) repealed (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 54](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/54), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a/i)
+[^c-d7de873eeb24226a18566dc57ad02780]: Textual amendment: [S. 5(7)](https://www.legislation.gov.uk/ukpga/1977/45/section/5/7) repealed (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 54](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/54), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a/i)
 
 [^c4764331]: Editorial: The text of ss. 5(10)(11), 15(2), 17, 30(1)(2), 31(10), 32(3), 46, 49, 52, 57, 63(1), 65(4)(5), Sch. 13 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. UK Government Investments Limited[^key-18f810359a3c9112e056332816909a04]
+## 36. UK Government Investments Limited[^c-18f810359a3c9112e056332816909a04]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18f810359a3c9112e056332816909a04]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2016/12/section/36) in force at 1.2.2017 by [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/a)
+[^c-18f810359a3c9112e056332816909a04]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2016/12/section/36) in force at 1.2.2017 by [S.I. 2017/70](https://www.legislation.gov.uk/uksi/2017/70), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/70/regulation/2/a)

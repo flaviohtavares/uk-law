@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5d91a9c2f9465fa9ea8e6cd498b780fe] Nothing in the EMI code affects—
+(1)[^c-5d91a9c2f9465fa9ea8e6cd498b780fe] Nothing in the EMI code affects—
 
 - (a) the operation of Chapters 2 to 4 of this Part in relation to shares acquired under a qualifying option, or
 - (b) the operation of Chapter 5 of this Part otherwise than in relation to the acquisition of shares under a qualifying option.
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d91a9c2f9465fa9ea8e6cd498b780fe]: Textual amendment: S. 541(1)(2) substituted (1.9.2003 with effect in accordance with Sch. 22 para. 41(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 41(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/41/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-5d91a9c2f9465fa9ea8e6cd498b780fe]: Textual amendment: S. 541(1)(2) substituted (1.9.2003 with effect in accordance with Sch. 22 para. 41(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 41(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/41/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)

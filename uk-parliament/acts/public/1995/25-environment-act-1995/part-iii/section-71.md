@@ -39,7 +39,7 @@ summary: ''
 
 (5) Where agreement as to the apportionment of the amount to be raised by a National Park authority in respect of any financial year by way of levies is entered into, before 1st December in the immediately preceding financial year, by all the authorities to whom the levies in respect of that year may be issued by that authority, that amount shall be apportioned between those authorities in accordance with the agreement, instead of in accordance with any provision made by virtue of that section 74.
 
-(6) Regulations under that section 74 may include provision for requiring an authority to anticipate a levy by virtue of this section when making any calculations which fall, for the financial year following that in which any National Park authority is established, to be made (whether originally or by way of substitute) under section 31A or 42A (calculation of council tax requirement by authorities in England) or section 32 or 42 (calculation of budget requirement by authorities in Wales) of the Local Government Finance Act 1992.[^key-874ee75e0234375293919f966ff43869]
+(6) Regulations under that section 74 may include provision for requiring an authority to anticipate a levy by virtue of this section when making any calculations which fall, for the financial year following that in which any National Park authority is established, to be made (whether originally or by way of substitute) under section 31A or 42A (calculation of council tax requirement by authorities in England) or section 32 or 42 (calculation of budget requirement by authorities in Wales) of the Local Government Finance Act 1992.[^c-874ee75e0234375293919f966ff43869]
 
 (7) A National Park authority shall not by virtue of this section be a local authority within the meaning of the [^c14539221]Town and Country Planning Act 1990.
 
@@ -47,6 +47,6 @@ summary: ''
 
 [^c14539201]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
 
-[^key-874ee75e0234375293919f966ff43869]: Textual amendment: Words in s. 71(6) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/32); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-874ee75e0234375293919f966ff43869]: Textual amendment: Words in s. 71(6) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/32); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
 [^c14539221]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).

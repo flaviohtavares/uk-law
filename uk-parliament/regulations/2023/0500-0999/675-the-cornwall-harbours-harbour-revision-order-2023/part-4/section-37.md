@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Master’s responsibility in relation to directions[^key-ef5b098c4fc8000623c9dd5f85326661]
+## 37. Master’s responsibility in relation to directions[^c-ef5b098c4fc8000623c9dd5f85326661]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The giving of a general direction or a special direction shall not diminish or i
 
 ## Annotations
 
-[^key-ef5b098c4fc8000623c9dd5f85326661]: Commencement: Art. 37 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-ef5b098c4fc8000623c9dd5f85326661]: Commencement: Art. 37 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

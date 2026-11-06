@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E9. Avoidance of duplicate pensions[^key-3cd1ba9763351949b62c6967fc779d7b]
+## E9. Avoidance of duplicate pensions[^c-3cd1ba9763351949b62c6967fc779d7b]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ where—
 
 ## Annotations
 
-[^key-3cd1ba9763351949b62c6967fc779d7b]: Commencement: Reg. E9 in operation at 2.11.1998, see reg. A1
+[^c-3cd1ba9763351949b62c6967fc779d7b]: Commencement: Reg. E9 in operation at 2.11.1998, see reg. A1

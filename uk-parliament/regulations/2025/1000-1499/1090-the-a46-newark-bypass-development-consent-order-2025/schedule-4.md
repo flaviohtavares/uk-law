@@ -33,7 +33,7 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 - (c) Private means of access to be stopped up, as described in column (2) of Parts 4 and 6 of this Schedule, are shown by light pink shading (as shown in the key) over the extent to be stopped up, as described in column (3) of Parts 4 and 6 of this Schedule, and are given a reference label.
 - (d) New private means of access to be substituted for a private means of access to be stopped up (or which are otherwise to be provided), as specified in column (4) of Part 4 and column (2) of Part 5 of this Schedule, are shown by green shading.
 
-### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-63ff09489dd1d9a0341802e0f1bf6c88]
+### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-63ff09489dd1d9a0341802e0f1bf6c88]
 
 <table>
 <thead>
@@ -49,7 +49,7 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 </tbody>
 </table>
 
-### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-9c69a55b862626d3e1db13dfdeb4bc8b]
+### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-9c69a55b862626d3e1db13dfdeb4bc8b]
 
 <table>
 <thead>
@@ -77,7 +77,7 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 </tbody>
 </table>
 
-### PART 3 — NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^key-86b4c89a2c5bec45901d43b925bbc2a1]
+### PART 3 — NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^c-86b4c89a2c5bec45901d43b925bbc2a1]
 
 <table>
 <thead>
@@ -111,7 +111,7 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 </tbody>
 </table>
 
-### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-f06948cec210bfeee3836abe3f2c6a23]
+### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-f06948cec210bfeee3836abe3f2c6a23]
 
 <table>
 <thead>
@@ -146,7 +146,7 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 </tbody>
 </table>
 
-### PART 5 — NEW PRIVATE MEANS OF ACCESS WHICH ARE TO BE PROVIDED[^key-4739578ea407839bf2297b84442e9f93]
+### PART 5 — NEW PRIVATE MEANS OF ACCESS WHICH ARE TO BE PROVIDED[^c-4739578ea407839bf2297b84442e9f93]
 
 <table>
 <thead>
@@ -176,7 +176,7 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 </tbody>
 </table>
 
-### PART 6 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-c2aed1c5c7740b121cf3af269c8091e8]
+### PART 6 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-c2aed1c5c7740b121cf3af269c8091e8]
 
 <table>
 <thead>
@@ -196,14 +196,14 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 
 ## Annotations
 
-[^key-63ff09489dd1d9a0341802e0f1bf6c88]: Commencement: Sch. 4 Pt. 1 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-63ff09489dd1d9a0341802e0f1bf6c88]: Commencement: Sch. 4 Pt. 1 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
-[^key-9c69a55b862626d3e1db13dfdeb4bc8b]: Commencement: Sch. 4 Pt. 2 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-9c69a55b862626d3e1db13dfdeb4bc8b]: Commencement: Sch. 4 Pt. 2 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
-[^key-86b4c89a2c5bec45901d43b925bbc2a1]: Commencement: Sch. 4 Pt. 3 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-86b4c89a2c5bec45901d43b925bbc2a1]: Commencement: Sch. 4 Pt. 3 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
-[^key-f06948cec210bfeee3836abe3f2c6a23]: Commencement: Sch. 4 Pt. 4 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-f06948cec210bfeee3836abe3f2c6a23]: Commencement: Sch. 4 Pt. 4 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
-[^key-4739578ea407839bf2297b84442e9f93]: Commencement: Sch. 4 Pt. 5 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-4739578ea407839bf2297b84442e9f93]: Commencement: Sch. 4 Pt. 5 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
-[^key-c2aed1c5c7740b121cf3af269c8091e8]: Commencement: Sch. 4 Pt. 6 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-c2aed1c5c7740b121cf3af269c8091e8]: Commencement: Sch. 4 Pt. 6 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)

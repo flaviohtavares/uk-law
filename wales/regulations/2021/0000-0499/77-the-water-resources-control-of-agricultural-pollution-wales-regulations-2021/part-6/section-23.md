@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Storage of organic manure[^key-9e1f519777b102bc1ea76063357471a9]
+## 23. Storage of organic manure[^c-9e1f519777b102bc1ea76063357471a9]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ An occupier of a holding who stores any organic manure (other than slurry), or a
 
 ## Annotations
 
-[^key-9e1f519777b102bc1ea76063357471a9]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2021/77/regulation/23) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-9e1f519777b102bc1ea76063357471a9]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2021/77/regulation/23) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

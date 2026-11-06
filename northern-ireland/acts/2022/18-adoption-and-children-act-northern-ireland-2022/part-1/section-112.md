@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 112. Channel Islands and the Isle of Man[^key-c089595416af272c48a59926914ae8ea]
+## 112. Channel Islands and the Isle of Man[^c-c089595416af272c48a59926914ae8ea]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c089595416af272c48a59926914ae8ea]: Commencement: S. 112 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-c089595416af272c48a59926914ae8ea]: Commencement: S. 112 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

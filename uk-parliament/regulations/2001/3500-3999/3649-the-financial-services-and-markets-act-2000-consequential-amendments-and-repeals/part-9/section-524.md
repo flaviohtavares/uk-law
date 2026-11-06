@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 524. Interpretation of the 1996 Regulations[^key-327e59326c174af96a958a5f735d8fa5]
+## 524. Interpretation of the 1996 Regulations[^c-327e59326c174af96a958a5f735d8fa5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-327e59326c174af96a958a5f735d8fa5]: Textual amendment: [Art. 524](https://www.legislation.gov.uk/uksi/2001/3649/article/524) revoked (6.4.2006) by [The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006 (S.I. 2006/714)](https://www.legislation.gov.uk/uksi/2006/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2006/714/regulation/6), [Sch.](https://www.legislation.gov.uk/uksi/2006/714/schedule) Table
+[^c-327e59326c174af96a958a5f735d8fa5]: Textual amendment: [Art. 524](https://www.legislation.gov.uk/uksi/2001/3649/article/524) revoked (6.4.2006) by [The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006 (S.I. 2006/714)](https://www.legislation.gov.uk/uksi/2006/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2006/714/regulation/6), [Sch.](https://www.legislation.gov.uk/uksi/2006/714/schedule) Table

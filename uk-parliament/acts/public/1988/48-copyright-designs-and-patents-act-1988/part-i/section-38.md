@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Copying by librarians: articles in periodicals.[^key-57e5fef60d7912e46cd9868f93461894]
+## 38. Copying by librarians: articles in periodicals.[^c-57e5fef60d7912e46cd9868f93461894]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57e5fef60d7912e46cd9868f93461894]: Textual amendment: Ss. 37-40 repealed (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/14) Table
+[^c-57e5fef60d7912e46cd9868f93461894]: Textual amendment: Ss. 37-40 repealed (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/14) Table

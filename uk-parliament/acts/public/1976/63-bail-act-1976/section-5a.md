@@ -31,7 +31,7 @@ summary: ''
 - (a) imposes conditions in granting bail in criminal proceedings, or
 - (b) varies any conditions of bail or imposes conditions in respect of bail in criminal proceedings,
 
-the custody officer shall, [^key-ca16aff1c14920b34bad124879e953c5]... give reasons for imposing or varying the conditions.”.
+the custody officer shall, [^c-ca16aff1c14920b34bad124879e953c5]... give reasons for imposing or varying the conditions.”.
 
 (3) For subsection (4) substitute the following—
 
@@ -47,4 +47,4 @@ the custody officer shall, [^key-ca16aff1c14920b34bad124879e953c5]... give reaso
 
 [^c8003821]: Textual amendment: S. 5A(1A) inserted (1.8.2001) by [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16), [s. 129(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/129/2); [S.I. 2001/2223](https://www.legislation.gov.uk/uksi/2001/2223), [art. 3(i)](https://www.legislation.gov.uk/uksi/2001/2223/article/3/i)
 
-[^key-ca16aff1c14920b34bad124879e953c5]: Textual amendment: Words in s. 5A(2) repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/2); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1)[(2)(l)(ii)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/l/ii)
+[^c-ca16aff1c14920b34bad124879e953c5]: Textual amendment: Words in s. 5A(2) repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/2); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1)[(2)(l)(ii)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/l/ii)

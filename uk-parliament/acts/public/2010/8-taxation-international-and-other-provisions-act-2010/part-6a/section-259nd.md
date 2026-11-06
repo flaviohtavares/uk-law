@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259ND. Meaning of “50% investment” and “25% investment”[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259ND. Meaning of “50% investment” and “25% investment”[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,24 +24,24 @@ summary: ''
 
 (2) Where this section applies for the purposes of determining whether a person has a “25% investment” in another person for the purposes of section 259NC(2), references in this section to X% are to be read as references to 25%.
 
-(3)[^key-cf12a1863a94dfb3c3b4bbedb80fab0c] A person (“P”) has an X% investment in a company (“C”) if it is reasonable to suppose that—
+(3)[^c-cf12a1863a94dfb3c3b4bbedb80fab0c] A person (“P”) has an X% investment in a company (“C”) if it is reasonable to suppose that—
 
 - (a) P possesses or is entitled to acquire X% or more of the share capital or issued share capital of C,
 - (b) P possesses or is entitled to acquire X% or more of the voting power in C, or
 - (c) if the whole of C's share capital were disposed of, P would receive (directly or indirectly and whether at the time of disposal or later) X% or more of the proceeds of the disposal.
 
-(4)[^key-cf12a1863a94dfb3c3b4bbedb80fab0c] A person (“P”) has an X% investment in another person (“Q”) if it is reasonable to suppose that—
+(4)[^c-cf12a1863a94dfb3c3b4bbedb80fab0c] A person (“P”) has an X% investment in another person (“Q”) if it is reasonable to suppose that—
 
 - (a) if the whole of Q's income were distributed, P would receive (directly or indirectly and whether at the time of the distribution or later) X% or more of the distributed amount, or
 - (b) in the event of a winding-up of Q or in any other circumstances, P would receive (directly or indirectly and whether or not at the time of the winding-up or other circumstances or later) X% or more of Q's assets which would then be available for distribution.
 
-(5)[^key-cf12a1863a94dfb3c3b4bbedb80fab0c] In this section, references to a person receiving any proceeds, amount or assets include references to the proceeds, amount or assets being applied (directly or indirectly) for that person's benefit.
+(5)[^c-cf12a1863a94dfb3c3b4bbedb80fab0c] In this section, references to a person receiving any proceeds, amount or assets include references to the proceeds, amount or assets being applied (directly or indirectly) for that person's benefit.
 
-(6)[^key-cf12a1863a94dfb3c3b4bbedb80fab0c] For the purposes of subsections (3) and (4), in determining what percentage investment a person (“P”) has in another person (“U”), where P acts together with a third person (“T”) in relation to U, P is to be taken to have all of T's rights and interests in relation to U.
+(6)[^c-cf12a1863a94dfb3c3b4bbedb80fab0c] For the purposes of subsections (3) and (4), in determining what percentage investment a person (“P”) has in another person (“U”), where P acts together with a third person (“T”) in relation to U, P is to be taken to have all of T's rights and interests in relation to U.
 
-(7)[^key-cf12a1863a94dfb3c3b4bbedb80fab0c][^M_F_2cf683c1-ba11-4113-c3b6-11af2b9809ee] P is to be taken to “act together” with T in relation to U if (and only if) subsection (7A) or (7B) applies.
+(7)[^c-cf12a1863a94dfb3c3b4bbedb80fab0c][^M_F_2cf683c1-ba11-4113-c3b6-11af2b9809ee] P is to be taken to “act together” with T in relation to U if (and only if) subsection (7A) or (7B) applies.
 
-(7A)[^key-cf12a1863a94dfb3c3b4bbedb80fab0c] This subsection applies if—
+(7A)[^c-cf12a1863a94dfb3c3b4bbedb80fab0c] This subsection applies if—
 
 - (a) P and T are party to a partnership agreement that—
   - (i) it is reasonable to suppose is designed to affect the value of any of T's rights or interest in relation to U, or
@@ -50,7 +50,7 @@ summary: ''
   - (i) some or all of P's rights or interests in relation to U, and
   - (ii) some or all of T's rights or interests in relation to U.
 
-(7B)[^key-cf12a1863a94dfb3c3b4bbedb80fab0c] This subsection applies if P has a relevant investment in U and—
+(7B)[^c-cf12a1863a94dfb3c3b4bbedb80fab0c] This subsection applies if P has a relevant investment in U and—
 
 - (a) P and T are connected (within the meaning given by section 163),
 - (b) for the purposes of influencing the conduct of U's affairs—
@@ -62,29 +62,29 @@ summary: ''
   - (i) it is reasonable to suppose is designed to affect the value of any of T's rights or interests in relation to U, or
   - (ii) relates to the exercise of any of T's rights in relation to U.
 
-(7C)[^key-cf12a1863a94dfb3c3b4bbedb80fab0c] To determine whether P has a “relevant investment” in U at a particular time, subsections (3) and (4) apply but as if—
+(7C)[^c-cf12a1863a94dfb3c3b4bbedb80fab0c] To determine whether P has a “relevant investment” in U at a particular time, subsections (3) and (4) apply but as if—
 
 - (a) for “an X%”, in both places, there were substituted “ a relevant ”, and
 - (b) for “X% or more”, in each place, there were substituted “ greater than 5% ”.
 
-(7D)[^key-cf12a1863a94dfb3c3b4bbedb80fab0c] For that purpose—
+(7D)[^c-cf12a1863a94dfb3c3b4bbedb80fab0c] For that purpose—
 
 - (a) subsection (6) is to be ignored, and
 - (b) P's rights and interests are to be aggregated with the rights and interests of persons connected to P (within the meaning given by section 1122 of CTA 2010, ignoring subsection (4) of that section).
 
-(8)[^key-cf12a1863a94dfb3c3b4bbedb80fab0c] [^M_F_9733eb5a-d5da-47b6-b59c-f8eafae31628]... P does not “act together” with T in relation to U under paragraph (b) of subsection (7A)[^M_F_3593b294-acc4-43b0-f126-2d46617b23e2] where—
+(8)[^c-cf12a1863a94dfb3c3b4bbedb80fab0c] [^M_F_9733eb5a-d5da-47b6-b59c-f8eafae31628]... P does not “act together” with T in relation to U under paragraph (b) of subsection (7A)[^M_F_3593b294-acc4-43b0-f126-2d46617b23e2] where—
 
 - (a) the person who manages the rights or interests of P mentioned in sub-paragraph (i) of that paragraph, does so as the operator of a collective investment scheme,
 - (b) that person manages the rights or interests of T mentioned in sub-paragraph (ii) of that paragraph as the operator of a different collective investment scheme, and
 - (c) the Commissioners are satisfied that the management of the schemes is not coordinated for the purpose of influencing the conduct of U 's affairs.
 
-(9)[^key-cf12a1863a94dfb3c3b4bbedb80fab0c] In subsection (8) “**collective investment scheme**” and “**operator**” have the same meaning as in Part 17 of the Financial Services and Markets Act 2000 (see sections 235 and 237 of that Act).
+(9)[^c-cf12a1863a94dfb3c3b4bbedb80fab0c] In subsection (8) “**collective investment scheme**” and “**operator**” have the same meaning as in Part 17 of the Financial Services and Markets Act 2000 (see sections 235 and 237 of that Act).
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-cf12a1863a94dfb3c3b4bbedb80fab0c]: Modification: [S. 259ND(3)-(9)](https://www.legislation.gov.uk/ukpga/2010/8/section/259ND/3) applied (with modifications) (with effect in accordance with s. 121(6) of the amending Act) by 2014 c. 26, Sch. 33A para. 2(4) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/10))
+[^c-cf12a1863a94dfb3c3b4bbedb80fab0c]: Modification: [S. 259ND(3)-(9)](https://www.legislation.gov.uk/ukpga/2010/8/section/259ND/3) applied (with modifications) (with effect in accordance with s. 121(6) of the amending Act) by 2014 c. 26, Sch. 33A para. 2(4) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/10))
 
 [^M_F_2cf683c1-ba11-4113-c3b6-11af2b9809ee]: Textual amendment: S. 259ND(7)-(7D) substituted for s. 259ND(7) (retrospectively) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 paras. 24(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/24/2), [36](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/36)
 

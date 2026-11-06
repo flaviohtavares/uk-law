@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3B — DESIGNATED MASTER’S, ETC. COURSES[^key-3a5767039cbe22997f9622adab579d3a]
+## SCHEDULE 3B — DESIGNATED MASTER’S, ETC. COURSES[^c-3a5767039cbe22997f9622adab579d3a]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ Regulation 152
 
 ## Annotations
 
-[^key-3a5767039cbe22997f9622adab579d3a]: Textual amendment: [Sch. 3B](https://www.legislation.gov.uk/nisr/2009/373/schedule/3B) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [45](https://www.legislation.gov.uk/nisr/2017/7/regulation/45), [Sch. 2](https://www.legislation.gov.uk/nisr/2017/7/schedule/2)
+[^c-3a5767039cbe22997f9622adab579d3a]: Textual amendment: [Sch. 3B](https://www.legislation.gov.uk/nisr/2009/373/schedule/3B) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [45](https://www.legislation.gov.uk/nisr/2017/7/regulation/45), [Sch. 2](https://www.legislation.gov.uk/nisr/2017/7/schedule/2)

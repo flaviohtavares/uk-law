@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Annual reports and implementation of binding decisions[^key-02a43922b4bc8757f24af0056b6a0c5a]
+## 36. Annual reports and implementation of binding decisions[^c-02a43922b4bc8757f24af0056b6a0c5a]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ After Article 6 of the Energy Order there shall be inserted the following Articl
 
 ## Annotations
 
-[^key-02a43922b4bc8757f24af0056b6a0c5a]: Commencement: Reg. 36 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-02a43922b4bc8757f24af0056b6a0c5a]: Commencement: Reg. 36 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

@@ -46,13 +46,13 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act a draft of this inst
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-68a830123ddfbdfdf222260e88bf9280]
+### 1. Citation and commencement[^c-68a830123ddfbdfdf222260e88bf9280]
 
 (1) These Regulations may be cited as the Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2020.
 
 (2) Subject to paragraph (3), these Regulations come into force on IP completion day.
 
-(3) This regulation and regulation 55 come[^key-23a877e243cc0678e92c3ae51af37bd6] into force immediately before IP completion day.
+(3) This regulation and regulation 55 come[^c-23a877e243cc0678e92c3ae51af37bd6] into force immediately before IP completion day.
 
 (4) “**IP completion day**” has the same meaning as in section 39(1) of the European Union (Withdrawal Agreement) Act 2020 [^c24197381].
 
@@ -60,18 +60,18 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act a draft of this inst
 
 ### CHAPTER 1 — Amendment of Commission Implementing Regulation (EU) 2017/373
 
-#### 2. Commission Implementing Regulation (EU) 2017/373: introduction[^key-806b209674557918211b6b2729ee7afb]
+#### 2. Commission Implementing Regulation (EU) 2017/373: introduction[^c-806b209674557918211b6b2729ee7afb]
 
 Commission Implementing Regulation (EU) 2017/373 of 1 March 2017 laying down common requirements for providers of air traffic management/air navigation services and other air traffic management network functions and their oversight, repealing Regulation [(EC) No 482/2008](https://www.legislation.gov.uk/eur/2008/482), Implementing Regulations (EU) No 1034/2011, (EU) No 1035/2011 and (EU) 2016/1377 and amending Regulation (EU) No 677/2011 is amended in accordance with regulations 3 to 15.
 
-#### 3. Article 1 of Commission Implementing Regulation (EU) 2017/373[^key-a692e8d9c222cba542c9cb8808544908]
+#### 3. Article 1 of Commission Implementing Regulation (EU) 2017/373[^c-a692e8d9c222cba542c9cb8808544908]
 
 In Article 1 (subject matter), point 2—
 
 - (a) for “authorities” substitute “ authority ”, and
 - (b) for “their” substitute “ its ”.
 
-#### 4. Article 2 of Commission Implementing Regulation (EU) 2017/373[^key-d35d55bdbc6361e0d91b6e747ca6340e]
+#### 4. Article 2 of Commission Implementing Regulation (EU) 2017/373[^c-d35d55bdbc6361e0d91b6e747ca6340e]
 
 In Article 2 (definitions) after point (1) insert—
 
@@ -79,7 +79,7 @@ In Article 2 (definitions) after point (1) insert—
 
 .
 
-#### 5. Article 3 of Commission Implementing Regulation (EU) 2017/373[^key-4de3521f889405a2155ac80f42258804]
+#### 5. Article 3 of Commission Implementing Regulation (EU) 2017/373[^c-4de3521f889405a2155ac80f42258804]
 
 (1) Article 3 (provision of ATM/ANS and ATM network functions) is amended as follows.
 
@@ -103,7 +103,7 @@ In Article 2 (definitions) after point (1) insert—
 - (b) for “that Member State” substitute “ he or she ”, and
 - (c) omit “Union and national”.
 
-#### 6. Article 4 of Commission Implementing Regulation (EU) 2017/373[^key-f3db9a28254c6c4064aa238e7e3727b5]
+#### 6. Article 4 of Commission Implementing Regulation (EU) 2017/373[^c-f3db9a28254c6c4064aa238e7e3727b5]
 
 (1) Article 4 (competent authority for certification, oversight and enforcement) is amended as follows.
 
@@ -117,7 +117,7 @@ In Article 2 (definitions) after point (1) insert—
 
 (3) Omit points 3, 4 and 7.
 
-#### 7. Article 6 of Commission Implementing Regulation (EU) 2017/373[^key-ad12c861693b0212dfd2ecc9970644ae]
+#### 7. Article 6 of Commission Implementing Regulation (EU) 2017/373[^c-ad12c861693b0212dfd2ecc9970644ae]
 
 (1) Article 6 (service providers) is amended as follows.
 
@@ -127,19 +127,19 @@ In Article 2 (definitions) after point (1) insert—
 
 (4) Omit point (l).
 
-#### 8. Article 7 of Commission Implementing Regulation (EU) 2017/373[^key-f1adee61842ad71a8a94549c674665f7]
+#### 8. Article 7 of Commission Implementing Regulation (EU) 2017/373[^c-f1adee61842ad71a8a94549c674665f7]
 
 In Article 7 (declaration by providers of flight information services) for “Member States allow” substitute “ the Secretary of State allows ”.
 
-#### 9. Article 8 of Commission Implementing Regulation (EU) 2017/373[^key-200d916d7259e34a20041f4ad53ce0e2]
+#### 9. Article 8 of Commission Implementing Regulation (EU) 2017/373[^c-200d916d7259e34a20041f4ad53ce0e2]
 
 In Article 8 (existing certificates), in paragraph 2, for “Member States” substitute “ The competent authority ”.
 
-#### 10. Article 9 of Commission Implementing Regulation (EU) 2017/373[^key-c29c54e45c7aa83262cf5eefba78e62f]
+#### 10. Article 9 of Commission Implementing Regulation (EU) 2017/373[^c-c29c54e45c7aa83262cf5eefba78e62f]
 
 In Article 9 (repeal and amendment) omit paragraph 3.
 
-#### 11. Annex 1 to Commission Implementing Regulation (EU) 2017/373[^key-3974cf1431e40396ca9ea276de3ada68]
+#### 11. Annex 1 to Commission Implementing Regulation (EU) 2017/373[^c-3974cf1431e40396ca9ea276de3ada68]
 
 (1) Annex 1 (definition of terms used in Annexes 2 to 13) is amended as follows.
 
@@ -171,7 +171,7 @@ In Article 9 (repeal and amendment) omit paragraph 3.
 
 (9) In point (108) for “Member States” substitute “ United Kingdom ”.
 
-#### 12. Annex 2 to Commission Implementing Regulation (EU) 2017/373[^key-ac05cc886e5c00ac9e39a0684f3a0d14]
+#### 12. Annex 2 to Commission Implementing Regulation (EU) 2017/373[^c-ac05cc886e5c00ac9e39a0684f3a0d14]
 
 (1) Annex 2 (requirements for the competent authority – oversight of services and other ATM network functions) is amended as follows.
 
@@ -183,7 +183,7 @@ In Article 9 (repeal and amendment) omit paragraph 3.
 
 (5) In point ATM/ANS.AR.C.005 (certification, declaration and verification of service providers' compliance with the requirements) in point (b)(5) omit “Article 9 of Regulation [(EC) No 549/2004](https://www.legislation.gov.uk/eur/2004/549),”.
 
-#### 13. Annex 3 to Commission Implementing Regulation (EU) 2017/373[^key-bb398ce6b0f2af93740f14a3a53ec19e]
+#### 13. Annex 3 to Commission Implementing Regulation (EU) 2017/373[^c-bb398ce6b0f2af93740f14a3a53ec19e]
 
 (1) Annex 3 (common requirements for service providers) is amended as follows.
 
@@ -237,7 +237,7 @@ In Article 9 (repeal and amendment) omit paragraph 3.
   - (iii) for “their” substitute “ its ”, and
   - (iv) for “Union and national” substitute “ applicable ”.
 
-#### 14. Annex 4 to Commission Implementing Regulation (EU) 2017/373[^key-0ca3eb78646e6a0d0f8b5cba04f22c8b]
+#### 14. Annex 4 to Commission Implementing Regulation (EU) 2017/373[^c-0ca3eb78646e6a0d0f8b5cba04f22c8b]
 
 (1) Annex 4 (specific requirements for providers of air traffic services) is amended as follows.
 
@@ -247,17 +247,17 @@ In Article 9 (repeal and amendment) omit paragraph 3.
 
 (4) In point ATS.OR.305 (responsibilities of air traffic control service providers with regard to the problematic use of psychoactive substances by air traffic controllers), in point (b), for “Directive [95/46/EC](https://www.legislation.gov.uk/eudr/1995/46) of the European Parliament and of the Council and to the applicable national” substitute “ Regulation (EU) 2016/679 and the applicable ”.
 
-#### 15. Annex 12 to Commission Implementing Regulation (EU) 2017/373[^key-f7fd867141a12a8c417c32a3e21957e2]
+#### 15. Annex 12 to Commission Implementing Regulation (EU) 2017/373[^c-f7fd867141a12a8c417c32a3e21957e2]
 
 Omit Annex 12 (specific requirements for the Network Manager).
 
 ### CHAPTER 2 — Amendment of Commission Implementing Regulation (EU) 2019/123
 
-#### 16. Commission Implementing Regulation (EU) 2019/123: introduction[^key-9e39bc1d0873e2aa289bfa7bc4e8c4a9]
+#### 16. Commission Implementing Regulation (EU) 2019/123: introduction[^c-9e39bc1d0873e2aa289bfa7bc4e8c4a9]
 
 Commission Implementing Regulation (EU) 2019/123 of 24 January 2019 laying down detailed rules for the implementation of air traffic management (ATM) network functions and repealing Commission Regulation (EU) No 677/2011 is amended in accordance with regulations 17 to 52.
 
-#### 17. Article 1 of Commission Implementing Regulation (EU) 2019/123[^key-dc1399d1e405c8f3d7c44df9b0be8038]
+#### 17. Article 1 of Commission Implementing Regulation (EU) 2019/123[^c-dc1399d1e405c8f3d7c44df9b0be8038]
 
 (1) Article 1 (subject matter and scope) is amended as follows.
 
@@ -271,7 +271,7 @@ Commission Implementing Regulation (EU) 2019/123 of 24 January 2019 laying down 
 
 (4) In paragraph 4 for the words from “within the ICAO EUR region” to the end of the paragraph substitute “ under the responsibility of the United Kingdom ”.
 
-#### 18. Article 2 of Commission Implementing Regulation (EU) 2019/123[^key-8ac39bcc5ec9b749a725182474e9c4fe]
+#### 18. Article 2 of Commission Implementing Regulation (EU) 2019/123[^c-8ac39bcc5ec9b749a725182474e9c4fe]
 
 (1) Article 2 (definitions) is amended as follows.
 
@@ -294,7 +294,7 @@ Commission Implementing Regulation (EU) 2019/123 of 24 January 2019 laying down 
 
 (9) Omit points (10), (11), (13), (16) and (17).
 
-#### 19. Article 3 of Commission Implementing Regulation (EU) 2019/123[^key-76f89d5302dc692b81a3d78f4d787cf3]
+#### 19. Article 3 of Commission Implementing Regulation (EU) 2019/123[^c-76f89d5302dc692b81a3d78f4d787cf3]
 
 (1) Article 3 (components of the network) is amended as follows.
 
@@ -310,7 +310,7 @@ Commission Implementing Regulation (EU) 2019/123 of 24 January 2019 laying down 
 - (f) omit “and Union-wide”, and
 - (g) for “the performance scheme” substitute “ any performance scheme established pursuant to Chapter IV of Part 1 of the Transport Act 2000 ”.
 
-#### 20. Article 4 of Commission Implementing Regulation (EU) 2019/123[^key-2f53841c5e6fe4f256acfbdeb94e52fb]
+#### 20. Article 4 of Commission Implementing Regulation (EU) 2019/123[^c-2f53841c5e6fe4f256acfbdeb94e52fb]
 
 For Article 4 (appointment of the Network Manager and duties of the Network Manager following its appointment) substitute—
 
@@ -320,23 +320,23 @@ For Article 4 (appointment of the Network Manager and duties of the Network Mana
 
 .
 
-#### 21. Article 5 of Commission Implementing Regulation (EU) 2019/123[^key-ae5250b269bdde4b44988469aa1ba20e]
+#### 21. Article 5 of Commission Implementing Regulation (EU) 2019/123[^c-ae5250b269bdde4b44988469aa1ba20e]
 
 Omit Article 5 (assessment).
 
-#### 22. Article 6 of Commission Implementing Regulation (EU) 2019/123[^key-60c54cc379ec959ee4c4d5387ac916b5]
+#### 22. Article 6 of Commission Implementing Regulation (EU) 2019/123[^c-60c54cc379ec959ee4c4d5387ac916b5]
 
 Omit Article 6 (conditions of withdrawal).
 
-#### 23. Article 7 of Commission Implementing Regulation (EU) 2019/123[^key-a3ab4e361f110685b0d2a867d5d4241a]
+#### 23. Article 7 of Commission Implementing Regulation (EU) 2019/123[^c-a3ab4e361f110685b0d2a867d5d4241a]
 
 Omit Article 7 (tasks of the Network Manager).
 
-#### 24. Article 8 of Commission Implementing Regulation (EU) 2019/123[^key-200d80200ea0631b30576ab6477061e7]
+#### 24. Article 8 of Commission Implementing Regulation (EU) 2019/123[^c-200d80200ea0631b30576ab6477061e7]
 
 Omit Article 8 (Network Strategy Plan).
 
-#### 25. Article 9 of Commission Implementing Regulation (EU) 2019/123[^key-a6e2d2e229c4ad214deaa2d7f50bb104]
+#### 25. Article 9 of Commission Implementing Regulation (EU) 2019/123[^c-a6e2d2e229c4ad214deaa2d7f50bb104]
 
 (1) Article 9 (Network Operations Plan) is amended as follows.
 
@@ -346,11 +346,11 @@ Omit Article 8 (Network Strategy Plan).
 
 (4) Omit paragraph 8.
 
-#### 26. Article 10 of Commission Implementing Regulation (EU) 2019/123[^key-c6b0030b9bc835cbb3a211db0a5c176d]
+#### 26. Article 10 of Commission Implementing Regulation (EU) 2019/123[^c-c6b0030b9bc835cbb3a211db0a5c176d]
 
 Omit Article 10 (remedial measures).
 
-#### 27. Article 11 of Commission Implementing Regulation (EU) 2019/123[^key-c0968b15b03336ea45b50f6f7b8addf2]
+#### 27. Article 11 of Commission Implementing Regulation (EU) 2019/123[^c-c0968b15b03336ea45b50f6f7b8addf2]
 
 (1) Article 11 (relations with operational stakeholders) is amended as follows.
 
@@ -365,7 +365,7 @@ Omit Article 10 (remedial measures).
 
 (5) In paragraph 4 for “I to VI” substitute “ 1 to 4 ”.
 
-#### 28. Article 12 of Commission Implementing Regulation (EU) 2019/123[^key-d25c6bc87d6bece85a441423cdc79214]
+#### 28. Article 12 of Commission Implementing Regulation (EU) 2019/123[^c-d25c6bc87d6bece85a441423cdc79214]
 
 (1) Article 12 (relations with Member States) is amended as follows.
 
@@ -380,11 +380,11 @@ Omit Article 10 (remedial measures).
 - (c) for “and they shall” substitute “ they must ”, and
 - (d) omit “at national level”.
 
-#### 29. Article 13 of Commission Implementing Regulation (EU) 2019/123[^key-22d7baca2f009f4a971e8199caa521f5]
+#### 29. Article 13 of Commission Implementing Regulation (EU) 2019/123[^c-22d7baca2f009f4a971e8199caa521f5]
 
 Omit Article 13 (relations with functional airspace blocks).
 
-#### 30. Article 14 of Commission Implementing Regulation (EU) 2019/123[^key-f191ee572b4cafd37dec82252fa62a4d]
+#### 30. Article 14 of Commission Implementing Regulation (EU) 2019/123[^c-f191ee572b4cafd37dec82252fa62a4d]
 
 (1) Article 14 (civil-military cooperation) is amended as follows.
 
@@ -397,43 +397,43 @@ Omit Article 13 (relations with functional airspace blocks).
 
 (4) Omit paragraphs 3 and 4.
 
-#### 31. Article 15 of Commission Implementing Regulation (EU) 2019/123[^key-37d03a4916ccc35ba53668c301abb42d]
+#### 31. Article 15 of Commission Implementing Regulation (EU) 2019/123[^c-37d03a4916ccc35ba53668c301abb42d]
 
 Omit Article 15 (cooperative decision-making).
 
-#### 32. Article 16 of Commission Implementing Regulation (EU) 2019/123[^key-026d9c72b1598f6fc75091b37a0b90ee]
+#### 32. Article 16 of Commission Implementing Regulation (EU) 2019/123[^c-026d9c72b1598f6fc75091b37a0b90ee]
 
 Omit Article 16 (consultation process).
 
-#### 33. Article 17 of Commission Implementing Regulation (EU) 2019/123[^key-5f787f00312040ba99b557b761e41d31]
+#### 33. Article 17 of Commission Implementing Regulation (EU) 2019/123[^c-5f787f00312040ba99b557b761e41d31]
 
 Omit Article 17 (working arrangements and processes for operations).
 
-#### 34. Article 18 of Commission Implementing Regulation (EU) 2019/123[^key-3efee33bee9a7a95c42fde3d11dc4fbc]
+#### 34. Article 18 of Commission Implementing Regulation (EU) 2019/123[^c-3efee33bee9a7a95c42fde3d11dc4fbc]
 
 Omit Article 18 (Network Management Board).
 
-#### 35. Chapter IV of Commission Implementing Regulation (EU) 2019/123[^key-9cd044dc01979c3333c7c632f2d900cd]
+#### 35. Chapter IV of Commission Implementing Regulation (EU) 2019/123[^c-9cd044dc01979c3333c7c632f2d900cd]
 
 Omit the heading “Chapter IV Network Crisis Management”.
 
-#### 36. Article 19 of Commission Implementing Regulation (EU) 2019/123[^key-8a4104c39f28a4301b90f1bfac45727a]
+#### 36. Article 19 of Commission Implementing Regulation (EU) 2019/123[^c-8a4104c39f28a4301b90f1bfac45727a]
 
 Omit Article 19 (European Aviation Crisis Coordination Cell).
 
-#### 37. Article 20 of Commission Implementing Regulation (EU) 2019/123[^key-11abaef896fe54b43cbe5d6f428bfa3f]
+#### 37. Article 20 of Commission Implementing Regulation (EU) 2019/123[^c-11abaef896fe54b43cbe5d6f428bfa3f]
 
 Omit Article 20 (responsibilities of the Network Manager).
 
-#### 38. Chapter V of Commission Implementing Regulation (EU) 2019/123[^key-00120c3bde6be822864368c570691bb9]
+#### 38. Chapter V of Commission Implementing Regulation (EU) 2019/123[^c-00120c3bde6be822864368c570691bb9]
 
 For the heading to Chapter V substitute “ MONITORING AND REPORTING ”.
 
-#### 39. Article 21 of Commission Implementing Regulation (EU) 2019/123[^key-960584e6da0ac1ac026c7aebc04d17ed]
+#### 39. Article 21 of Commission Implementing Regulation (EU) 2019/123[^c-960584e6da0ac1ac026c7aebc04d17ed]
 
 Omit Article 21 (information and consultation of the Member States).
 
-#### 40. Article 22 of Commission Implementing Regulation (EU) 2019/123[^key-082b6eb28066f806e4e0c850558e1cfb]
+#### 40. Article 22 of Commission Implementing Regulation (EU) 2019/123[^c-082b6eb28066f806e4e0c850558e1cfb]
 
 (1) Article 22 (monitoring and reporting) is amended as follows.
 
@@ -446,31 +446,31 @@ Omit Article 21 (information and consultation of the Member States).
 
 (4) omit paragraph 3.
 
-#### 41. Article 23 of Commission Implementing Regulation (EU) 2019/123[^key-7854dbab7f95169f26ad41e34ef40bad]
+#### 41. Article 23 of Commission Implementing Regulation (EU) 2019/123[^c-7854dbab7f95169f26ad41e34ef40bad]
 
 Omit Article 23 (supervision of the Network Manager).
 
-#### 42. Chapter VI of Commission Implementing Regulation (EU) 2019/123[^key-caff5c6af1f67e955f46971b75d12252]
+#### 42. Chapter VI of Commission Implementing Regulation (EU) 2019/123[^c-caff5c6af1f67e955f46971b75d12252]
 
 Omit the heading “Chapter VI Relations With Third Countries”.
 
-#### 43. Article 24 of Commission Implementing Regulation (EU) 2019/123[^key-6c06a668999361bbb48355268eaba15c]
+#### 43. Article 24 of Commission Implementing Regulation (EU) 2019/123[^c-6c06a668999361bbb48355268eaba15c]
 
 Omit Article 24 (participation of third countries in the work of the Network Manager).
 
-#### 44. Article 25 of Commission Implementing Regulation (EU) 2019/123[^key-f2a91814cd22288e58bc26fc5fa2bfb0]
+#### 44. Article 25 of Commission Implementing Regulation (EU) 2019/123[^c-f2a91814cd22288e58bc26fc5fa2bfb0]
 
 Omit Article 25 (financing and budget of the Network Manager).
 
-#### 45. Article 27 of Commission Implementing Regulation (EU) 2019/123[^key-bc0b09721c943fbfead8a0c87376203a]
+#### 45. Article 27 of Commission Implementing Regulation (EU) 2019/123[^c-bc0b09721c943fbfead8a0c87376203a]
 
 Omit Article 27 (entry into force).
 
-#### 46. Further amendment of Commission Implementing Regulation (EU) 2019/123[^key-44edee69994325e38380c9e77022582d]
+#### 46. Further amendment of Commission Implementing Regulation (EU) 2019/123[^c-44edee69994325e38380c9e77022582d]
 
 After Article 27 omit the sentence which begins “This Regulation shall be binding”.
 
-#### 47. Annex 1 to Commission Implementing Regulation (EU) 2019/123[^key-5f5d5709aa2d45365f161315c90eae66]
+#### 47. Annex 1 to Commission Implementing Regulation (EU) 2019/123[^c-5f5d5709aa2d45365f161315c90eae66]
 
 (1) Annex 1 (The European Route Network Design function) is amended as follows.
 
@@ -502,7 +502,7 @@ After Article 27 omit the sentence which begins “This Regulation shall be bind
 
 (5) Omit Part D (ongoing monitoring of performance achievements at network level).
 
-#### 48. Annex 2 to Commission Implementing Regulation (EU) 2019/123[^key-49365867521b086b4c18c0f7f9a0cc8d]
+#### 48. Annex 2 to Commission Implementing Regulation (EU) 2019/123[^c-49365867521b086b4c18c0f7f9a0cc8d]
 
 (1) Annex 2 (air traffic flow management function) is amended as follows.
 
@@ -607,7 +607,7 @@ After Article 27 omit the sentence which begins “This Regulation shall be bind
   - (ii) at the end of the first sentence insert “ by the unit providing central ATFM ”, and
   - (iii) omit the second and third sentences.
 
-#### 49. Annex 3 to Commission Implementing Regulation (EU) 2019/123[^key-60ef1c7c8fdf2e6c88839cab2e249e27]
+#### 49. Annex 3 to Commission Implementing Regulation (EU) 2019/123[^c-60ef1c7c8fdf2e6c88839cab2e249e27]
 
 (1) Annex 3 (the radio frequency function) is amended as follows.
 
@@ -656,7 +656,7 @@ After Article 27 omit the sentence which begins “This Regulation shall be bind
 - (a) omit points 1, 2 and 3,
 - (b) in point 4 for “Member States” substitute “ The Secretary of State ”.
 
-#### 50. Annex 4 to Commission Implementing Regulation (EU) 2019/123[^key-05385c13c30d6acb0d5ad44e2a6a45b3]
+#### 50. Annex 4 to Commission Implementing Regulation (EU) 2019/123[^c-05385c13c30d6acb0d5ad44e2a6a45b3]
 
 (1) Annex 4 (the radar transponder codes function) is amended as follows.
 
@@ -707,29 +707,29 @@ After Article 27 omit the sentence which begins “This Regulation shall be bind
   - (ii) omit “prescribed by the Network Manager”, and
 - (f) omit points 7 and 8.
 
-#### 51. Annex 5 to Commission Implementing Regulation (EU) 2019/123[^key-5fe090d86255a6598818290d48a2b8a7]
+#### 51. Annex 5 to Commission Implementing Regulation (EU) 2019/123[^c-5fe090d86255a6598818290d48a2b8a7]
 
 Omit Annex 5 (template for Network Strategy Plan).
 
-#### 52. Annex 6 to Commission Implementing Regulation (EU) 2019/123[^key-42fe803db60d20c4a005d2090ee9f3df]
+#### 52. Annex 6 to Commission Implementing Regulation (EU) 2019/123[^c-42fe803db60d20c4a005d2090ee9f3df]
 
 Omit Annex 6 (template for Network Operations Plan).
 
 ### CHAPTER 3 — Revocation of Commission Implementing Regulation (EU) 2019/317
 
-#### 53. Commission Implementing Regulation (EU) 2019/317[^key-b7ae7f36205c7fe7c4d5a5f4db40d234]
+#### 53. Commission Implementing Regulation (EU) 2019/317[^c-b7ae7f36205c7fe7c4d5a5f4db40d234]
 
 Commission Implementing Regulation (EU) 2019/317 of 11 February 2019 laying down a performance and charging scheme in the single European sky and repealing Implementing Regulations (EU) No 390/2013 and (EU) No 391/2013 is revoked.
 
 ## PART 3 — Revocation of EU decision
 
-### 54. Commission Implementing Decision (EU) 2019/903[^key-ed65a8f8c168effd877d8defea379784]
+### 54. Commission Implementing Decision (EU) 2019/903[^c-ed65a8f8c168effd877d8defea379784]
 
 Commission Implementing Decision (EU) 2019/903 of 29 May 2019 setting the Union-wide performance targets for the air traffic management network for the third reference period starting on 1 January 2020 and ending on 31 December 2024 is revoked.
 
 ## PART 4 — Amendment of subordinate legislation
 
-### 55. The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019[^key-3a04b3503ca8245bb415f7386c809e9c]
+### 55. The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019[^c-3a04b3503ca8245bb415f7386c809e9c]
 
 (1) The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 [^c24197511] are amended as follows.
 
@@ -787,45 +787,45 @@ A full impact assessment has not been produced for this instrument, as no signif
 
 [^c24197371]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Sections 8 and 23 and Schedule 7 were amended by sections 27 of, and Schedule 5 to, the [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
 
-[^key-68a830123ddfbdfdf222260e88bf9280]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)(4)
+[^c-68a830123ddfbdfdf222260e88bf9280]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)(4)
 
-[^key-23a877e243cc0678e92c3ae51af37bd6]: Textual amendment: Words in reg. 1(3) substituted (18.8.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/784)](https://www.legislation.gov.uk/uksi/2020/784), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/784/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2020/784/regulation/9)
+[^c-23a877e243cc0678e92c3ae51af37bd6]: Textual amendment: Words in reg. 1(3) substituted (18.8.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/784)](https://www.legislation.gov.uk/uksi/2020/784), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/784/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2020/784/regulation/9)
 
 [^c24197381]: Marginal citation: [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1).
 
-[^key-806b209674557918211b6b2729ee7afb]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-806b209674557918211b6b2729ee7afb]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-a692e8d9c222cba542c9cb8808544908]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-a692e8d9c222cba542c9cb8808544908]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-d35d55bdbc6361e0d91b6e747ca6340e]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-d35d55bdbc6361e0d91b6e747ca6340e]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-4de3521f889405a2155ac80f42258804]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-4de3521f889405a2155ac80f42258804]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-f3db9a28254c6c4064aa238e7e3727b5]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-f3db9a28254c6c4064aa238e7e3727b5]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-ad12c861693b0212dfd2ecc9970644ae]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-ad12c861693b0212dfd2ecc9970644ae]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-f1adee61842ad71a8a94549c674665f7]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-f1adee61842ad71a8a94549c674665f7]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-200d916d7259e34a20041f4ad53ce0e2]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-200d916d7259e34a20041f4ad53ce0e2]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-c29c54e45c7aa83262cf5eefba78e62f]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-c29c54e45c7aa83262cf5eefba78e62f]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-3974cf1431e40396ca9ea276de3ada68]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-3974cf1431e40396ca9ea276de3ada68]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-ac05cc886e5c00ac9e39a0684f3a0d14]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-ac05cc886e5c00ac9e39a0684f3a0d14]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-bb398ce6b0f2af93740f14a3a53ec19e]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-bb398ce6b0f2af93740f14a3a53ec19e]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-0ca3eb78646e6a0d0f8b5cba04f22c8b]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-0ca3eb78646e6a0d0f8b5cba04f22c8b]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-f7fd867141a12a8c417c32a3e21957e2]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-f7fd867141a12a8c417c32a3e21957e2]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-9e39bc1d0873e2aa289bfa7bc4e8c4a9]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-9e39bc1d0873e2aa289bfa7bc4e8c4a9]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-dc1399d1e405c8f3d7c44df9b0be8038]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-dc1399d1e405c8f3d7c44df9b0be8038]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-8ac39bcc5ec9b749a725182474e9c4fe]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-8ac39bcc5ec9b749a725182474e9c4fe]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
 [^c24197391]: Marginal citation: “UK ATMS” is defined in regulation 4(10) of [S.I. 2019/459](https://www.legislation.gov.uk/uksi/2019/459).
 
@@ -833,96 +833,96 @@ A full impact assessment has not been produced for this instrument, as no signif
 
 [^c24197411]: Marginal citation: OJ L 28, 31.1.2019, p. 1-45.
 
-[^key-76f89d5302dc692b81a3d78f4d787cf3]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-76f89d5302dc692b81a3d78f4d787cf3]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
 [^c24197421]: Marginal citation: OJ L 28, 31.1.2019, p. 1-45.
 
-[^key-2f53841c5e6fe4f256acfbdeb94e52fb]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-2f53841c5e6fe4f256acfbdeb94e52fb]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-ae5250b269bdde4b44988469aa1ba20e]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-ae5250b269bdde4b44988469aa1ba20e]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-60c54cc379ec959ee4c4d5387ac916b5]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-60c54cc379ec959ee4c4d5387ac916b5]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-a3ab4e361f110685b0d2a867d5d4241a]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-a3ab4e361f110685b0d2a867d5d4241a]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-200d80200ea0631b30576ab6477061e7]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-200d80200ea0631b30576ab6477061e7]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-a6e2d2e229c4ad214deaa2d7f50bb104]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-a6e2d2e229c4ad214deaa2d7f50bb104]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
 [^c24197431]: Marginal citation: OJ L 28, 31.1.2019, p. 1-45.
 
-[^key-c6b0030b9bc835cbb3a211db0a5c176d]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-c6b0030b9bc835cbb3a211db0a5c176d]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-c0968b15b03336ea45b50f6f7b8addf2]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-c0968b15b03336ea45b50f6f7b8addf2]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-d25c6bc87d6bece85a441423cdc79214]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-d25c6bc87d6bece85a441423cdc79214]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-22d7baca2f009f4a971e8199caa521f5]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-22d7baca2f009f4a971e8199caa521f5]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-f191ee572b4cafd37dec82252fa62a4d]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-f191ee572b4cafd37dec82252fa62a4d]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
 [^c24197441]: Marginal citation: OJ L 28, 31.1.2019, p. 1-45.
 
-[^key-37d03a4916ccc35ba53668c301abb42d]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-37d03a4916ccc35ba53668c301abb42d]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-026d9c72b1598f6fc75091b37a0b90ee]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-026d9c72b1598f6fc75091b37a0b90ee]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-5f787f00312040ba99b557b761e41d31]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-5f787f00312040ba99b557b761e41d31]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-3efee33bee9a7a95c42fde3d11dc4fbc]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-3efee33bee9a7a95c42fde3d11dc4fbc]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-9cd044dc01979c3333c7c632f2d900cd]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-9cd044dc01979c3333c7c632f2d900cd]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-8a4104c39f28a4301b90f1bfac45727a]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-8a4104c39f28a4301b90f1bfac45727a]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-11abaef896fe54b43cbe5d6f428bfa3f]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-11abaef896fe54b43cbe5d6f428bfa3f]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-00120c3bde6be822864368c570691bb9]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-00120c3bde6be822864368c570691bb9]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-960584e6da0ac1ac026c7aebc04d17ed]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-960584e6da0ac1ac026c7aebc04d17ed]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-082b6eb28066f806e4e0c850558e1cfb]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-082b6eb28066f806e4e0c850558e1cfb]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
 [^c24197451]: Marginal citation: OJ L 28, 31.1.2019, p. 1-45.
 
-[^key-7854dbab7f95169f26ad41e34ef40bad]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-7854dbab7f95169f26ad41e34ef40bad]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-caff5c6af1f67e955f46971b75d12252]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-caff5c6af1f67e955f46971b75d12252]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-6c06a668999361bbb48355268eaba15c]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-6c06a668999361bbb48355268eaba15c]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-f2a91814cd22288e58bc26fc5fa2bfb0]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-f2a91814cd22288e58bc26fc5fa2bfb0]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-bc0b09721c943fbfead8a0c87376203a]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-bc0b09721c943fbfead8a0c87376203a]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-44edee69994325e38380c9e77022582d]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-44edee69994325e38380c9e77022582d]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-5f5d5709aa2d45365f161315c90eae66]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-5f5d5709aa2d45365f161315c90eae66]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
 [^c24197461]: Marginal citation: OJ L 28, 31.1.2019, p. 1-45.
 
-[^key-49365867521b086b4c18c0f7f9a0cc8d]: Commencement: Reg. 48 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-49365867521b086b4c18c0f7f9a0cc8d]: Commencement: Reg. 48 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-60ef1c7c8fdf2e6c88839cab2e249e27]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-60ef1c7c8fdf2e6c88839cab2e249e27]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
 [^c24197471]: Marginal citation: OJ L 28, 31.1.2019, p. 1-45.
 
 [^c24197481]: Marginal citation: OJ L 28, 31.1.2019, p. 1-45.
 
-[^key-05385c13c30d6acb0d5ad44e2a6a45b3]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-05385c13c30d6acb0d5ad44e2a6a45b3]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
 [^c24197491]: Marginal citation: OJ L 28, 31.1.2019, p. 1-45.
 
 [^c24197501]: Marginal citation: OJ L 28, 31.1.2019, p. 1-45.
 
-[^key-5fe090d86255a6598818290d48a2b8a7]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-5fe090d86255a6598818290d48a2b8a7]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-42fe803db60d20c4a005d2090ee9f3df]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-42fe803db60d20c4a005d2090ee9f3df]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-b7ae7f36205c7fe7c4d5a5f4db40d234]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-b7ae7f36205c7fe7c4d5a5f4db40d234]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-ed65a8f8c168effd877d8defea379784]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
+[^c-ed65a8f8c168effd877d8defea379784]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day, see reg. 1(2)(4)
 
-[^key-3a04b3503ca8245bb415f7386c809e9c]: Commencement: Reg. 55 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)(4)
+[^c-3a04b3503ca8245bb415f7386c809e9c]: Commencement: Reg. 55 in force at 31.12.2020 immediately before IP completion day, see reg. 1(3)(4)
 
 [^c24197511]: Marginal citation: [S.I. 2019/459](https://www.legislation.gov.uk/uksi/2019/459). The reference to exit day in regulation 1(2) (commencement) is to be read as a reference to IP completion day, by virtue of paragraph 1(1) of Schedule 5 to the [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).

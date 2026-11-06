@@ -27,7 +27,7 @@ summary: ''
 
 ANIMALS
 
-The Animals (Scientific Procedures) Act (Fees) Order 1990 (revoked)[^key-a46f8d36cec56ce774b708e46ea1193c]
+The Animals (Scientific Procedures) Act (Fees) Order 1990 (revoked)[^c-a46f8d36cec56ce774b708e46ea1193c]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into force
 
 1st January 1991
 
-[^key-a46f8d36cec56ce774b708e46ea1193c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a46f8d36cec56ce774b708e46ea1193c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-a46f8d36cec56ce774b708e46ea1193c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a46f8d36cec56ce774b708e46ea1193c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a46f8d36cec56ce774b708e46ea1193c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a46f8d36cec56ce774b708e46ea1193c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a46f8d36cec56ce774b708e46ea1193c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a46f8d36cec56ce774b708e46ea1193c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a46f8d36cec56ce774b708e46ea1193c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a46f8d36cec56ce774b708e46ea1193c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a46f8d36cec56ce774b708e46ea1193c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a46f8d36cec56ce774b708e46ea1193c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a46f8d36cec56ce774b708e46ea1193c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a46f8d36cec56ce774b708e46ea1193c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a46f8d36cec56ce774b708e46ea1193c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a46f8d36cec56ce774b708e46ea1193c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a46f8d36cec56ce774b708e46ea1193c]: Textual amendment: Order revoked (1.1.1993) by [The Animals (Scientific Procedures) Act (Fees) Order 1992 (S.I. 1992/3058)](https://www.legislation.gov.uk/uksi/1992/3058), [art. 1](https://www.legislation.gov.uk/uksi/1992/3058/article/1) \[Editorial note: No historical versions of this S.I.have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]
+[^c-a46f8d36cec56ce774b708e46ea1193c]: Textual amendment: Order revoked (1.1.1993) by [The Animals (Scientific Procedures) Act (Fees) Order 1992 (S.I. 1992/3058)](https://www.legislation.gov.uk/uksi/1992/3058), [art. 1](https://www.legislation.gov.uk/uksi/1992/3058/article/1) \[Editorial note: No historical versions of this S.I.have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]

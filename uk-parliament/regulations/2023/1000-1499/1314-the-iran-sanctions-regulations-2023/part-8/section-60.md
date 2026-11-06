@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Treasury licences[^key-eddc38fb12de7eeefa6c9e75e0c0a359]
+## 60. Treasury licences[^c-eddc38fb12de7eeefa6c9e75e0c0a359]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eddc38fb12de7eeefa6c9e75e0c0a359]: Commencement: Reg. 60 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-eddc38fb12de7eeefa6c9e75e0c0a359]: Commencement: Reg. 60 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

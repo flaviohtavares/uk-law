@@ -54,15 +54,15 @@ They have carried out the consultation required by Article 9 of Regulation [(EC)
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act, and it appears to the Scottish Ministers that it is expedient for the references in the Regulations to Community instruments to be references to those instruments as amended from time to time.
 
-## 1. Citation and commencement[^key-bd11ed89f413113a457e8577dcac44dd]
+## 1. Citation and commencement[^c-bd11ed89f413113a457e8577dcac44dd]
 
 These Regulations may be cited as the Beef and Veal Labelling (Scotland) Regulations 2008 and come into force on 25th January 2009.
 
-## 2. Extent[^key-e7424391f7900409ef67d28c9f878d06]
+## 2. Extent[^c-e7424391f7900409ef67d28c9f878d06]
 
 These Regulations extend to Scotland only.
 
-## 3. Interpretation[^key-92fa4949dc3bde313dd44218af4674b5]
+## 3. Interpretation[^c-92fa4949dc3bde313dd44218af4674b5]
 
 (1) In these Regulations–
 
@@ -76,7 +76,7 @@ These Regulations extend to Scotland only.
 
 (2) Any reference in these Regulations to a Community instrument is a reference to that instrument as amended from time to time.
 
-## 4. Authorities responsible for enforcement[^key-ca95a04e1dc25ab665d4a20f1f0caa6c]
+## 4. Authorities responsible for enforcement[^c-ca95a04e1dc25ab665d4a20f1f0caa6c]
 
 (1) The Scottish Ministers shall be the competent authority for the purposes of–
 
@@ -91,7 +91,7 @@ These Regulations extend to Scotland only.
 - (a) the Scottish Ministers, for the purposes of ascertaining whether there is or has been any contravention of these Regulations in slaughterhouses, cutting plants or wholesalers; and
 - (b) local authorities, for the purposes of ascertaining whether there is or has been any contravention of these Regulations in places other than in slaughterhouses, cutting plants or wholesalers.
 
-## 5. Enforcement of marketing and labelling requirements[^key-d8193f397e428229808d04f621309787]
+## 5. Enforcement of marketing and labelling requirements[^c-d8193f397e428229808d04f621309787]
 
 (1) Any person engaged in the marketing of beef or veal who fails to comply with any provision listed in Schedule 1 to these Regulations (Community marketing and labelling provisions) is guilty of an offence.
 
@@ -103,13 +103,13 @@ These Regulations extend to Scotland only.
 
 (5) In paragraph (1) “marketing” includes the supply of beef or veal, otherwise than on sale, in the course of a business.
 
-## 6. Powers of authorised officers[^key-cbf846d6215193a073f10ab43c7db14c]
+## 6. Powers of authorised officers[^c-cbf846d6215193a073f10ab43c7db14c]
 
 (1) The Scottish Ministers or a local authority may appoint any individual to be an authorised officer for the purposes of these Regulations.
 
 (2) Schedule 2 (powers of authorised officers) has effect.
 
-## 7. Offences by bodies corporate[^key-f1ef6005a78884e8b4eacca4c7f4428c]
+## 7. Offences by bodies corporate[^c-f1ef6005a78884e8b4eacca4c7f4428c]
 
 (1) A person is guilty of an offence if conditions A and B are met.
 
@@ -134,7 +134,7 @@ These Regulations extend to Scotland only.
 
 (6) Where the affairs of a body corporate are managed by its members, the provisions of this regulation apply in relation to the acts and defaults of a member in connection with the member’s functions of management as if the member were a director of the body corporate.
 
-## 8. Defence of due diligence[^key-0455af897c0b6803278538ec4e4195dd]
+## 8. Defence of due diligence[^c-0455af897c0b6803278538ec4e4195dd]
 
 (1) In any proceedings for an offence under these Regulations, it is a defence for the person charged (in this Regulation, “the person”) to prove that all due diligence was exercised to avoid the commission of the offence.
 
@@ -154,13 +154,13 @@ These Regulations extend to Scotland only.
 
 (6) In paragraph (5)(b), the reference to appearing before a court includes a reference to being brought before a court.
 
-## 9. Penalties[^key-ec697312b86b454d3a3edc7ecbd9601e]
+## 9. Penalties[^c-ec697312b86b454d3a3edc7ecbd9601e]
 
 (1) A person guilty of an offence under these Regulations (other than under paragraph 4 of Schedule 2) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 (2) A person guilty of an offence under paragraph 4 of Schedule 2 to these Regulations (obstruction of authorised officers) is liable on summary conviction to a fine not exceeding level 5 on the standard scale or to imprisonment for a term not exceeding six months or to both.
 
-## 10. Revocation[^key-0d47ced3d11a89c2c5c61ee92bc42ba0]
+## 10. Revocation[^c-0d47ced3d11a89c2c5c61ee92bc42ba0]
 
 The Beef Labelling (Enforcement) (Scotland) Regulations 2001[^f00018] are revoked.
 
@@ -178,13 +178,13 @@ Edinburgh
 
 Regulation 5(1)
 
-**1.**[^key-d7adfd355df8f85d1aab8abe391f3ee3] The following provisions of Commission Regulation 1141/97–
+**1.**[^c-d7adfd355df8f85d1aab8abe391f3ee3] The following provisions of Commission Regulation 1141/97–
 
 - (i) Article 2 (provision of an identification and registration system);
 - (ii) Article 3(1) (access to premises and records); and
 - (iii) Article 3(4) (provision of information to the competent authority).
 
-**2.**[^key-38a4741de4d539a40aa2f01dc11bc8d6] The following provisions of Regulation 1760/2000–
+**2.**[^c-38a4741de4d539a40aa2f01dc11bc8d6] The following provisions of Regulation 1760/2000–
 
 - (i) Article 11 (requirement to label);
 - (ii) Article 13(1) (compulsory labelling: general rules);
@@ -195,7 +195,7 @@ Regulation 5(1)
 - (vii) Article 16(4) (voluntary labelling); and
 - (viii) Article 17(1) (voluntary labelling of beef from third countries).
 
-**3.**[^key-6560caf41b326b95d35a1896cb9339ac] The following provisions of Commission Regulation 1825/2000–
+**3.**[^c-6560caf41b326b95d35a1896cb9339ac] The following provisions of Commission Regulation 1825/2000–
 
 - (i) Article 1 (traceability);
 - (ii) Article 2 (labelling where information is not available);
@@ -204,7 +204,7 @@ Regulation 5(1)
 - (v) Article 6(3) (beef in small retail packages); and
 - (vi) Article 7 (checks).
 
-**4.**[^key-1642dbcf5f76f87c6990d298cfc7d56e] The following provision of Council Regulation 1234/2007–
+**4.**[^c-1642dbcf5f76f87c6990d298cfc7d56e] The following provision of Council Regulation 1234/2007–
 
 - (i) Article 113b (marketing of the meat of bovine animals aged 12 months or less);
 - (ii) paragraph II of Annex XIa (classification of bovine animals aged 12 months or less at the slaughterhouse);
@@ -214,7 +214,7 @@ Regulation 5(1)
 - (vi) paragraph VI of Annex XIa (recording); and
 - (vii) paragraph VIII of Annex XIa (meat imported from third countries).
 
-**5.**[^key-f72a40cab89b63c12787905de7cd397b] The following provision of Commission Regulation 566/2008–
+**5.**[^c-f72a40cab89b63c12787905de7cd397b] The following provision of Commission Regulation 566/2008–
 
 - (i) Article 4(1) (compulsory information on the label);
 - (ii) Article 4(2) (indication of age); and
@@ -224,7 +224,7 @@ Regulation 5(1)
 
 Regulation 6(2)
 
-### 1. Powers of entry[^key-acb37460c156266febcb09e021176817]
+### 1. Powers of entry[^c-acb37460c156266febcb09e021176817]
 
 (1) An authorised officer has the right at all reasonable hours to enter any premises (excluding premises used only as a dwelling) for the purpose of ascertaining whether–
 
@@ -258,7 +258,7 @@ the justice of the peace or sheriff may by a signed warrant authorise an authori
 
 (8) In sub-paragraph (3), “justice of the peace” means a justice of the peace appointed under section 67(1) of the Criminal Proceedings etc. (Reform) (Scotland) Act 2007[^f00019].
 
-### 2. Powers of inspection and sampling etc.[^key-f939788969207baad858c74372497590]
+### 2. Powers of inspection and sampling etc.[^c-f939788969207baad858c74372497590]
 
 (1) An authorised officer entering any premises by virtue of paragraph 1 above, or of a warrant issued under it, may–
 
@@ -270,7 +270,7 @@ the justice of the peace or sheriff may by a signed warrant authorise an authori
 - (f) have access to, and inspect and check the operation of, any computer and any associated apparatus or material which is or has been used in connection with any such records mentioned in sub-paragraph (c) above, and require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford such assistance as that person may reasonably require; and
 - (g) where records are kept by means of a computer, require the records to be produced in a visible and legible form in which they may be taken away.
 
-### 3. Protection of authorised officers acting in good faith[^key-7b29db5626df2fc2a7060d12460255cd]
+### 3. Protection of authorised officers acting in good faith[^c-7b29db5626df2fc2a7060d12460255cd]
 
 (1) No authorised officer shall be personally liable in respect of any act–
 
@@ -288,7 +288,7 @@ if the authorised officer acted in the honest belief that these Regulations requ
 
 the Scottish Ministers or the relevant local authority may indemnify the authorised officer against the whole or part of any damages which that officer has been ordered to pay or any costs which that officer may have incurred if they are satisfied that that officer honestly believed that the act complained of was within the scope of that officer’s employment.
 
-### 4. Obstruction of authorised officers[^key-861f8f7972117a60c8ad0d48d15e3ae0]
+### 4. Obstruction of authorised officers[^c-861f8f7972117a60c8ad0d48d15e3ae0]
 
 It is an offence–
 
@@ -330,11 +330,11 @@ A Regulatory Impact Assessment (RIA) was prepared in respect of these Regulation
 
 [^f00002]: Footnote: O.J. No. L 31, 1.2.2002, p.1, as amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council (O.J. No. L 245, 29.9.2003, p.4), Commission Regulation [(EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) (O.J. No. L 100, 8.4.2006, p.3) and Commission Regulation [(EC) No. 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) (O.J. No. L 60, 5.3.2008, p.17).
 
-[^key-bd11ed89f413113a457e8577dcac44dd]: Commencement: Reg. 1 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-bd11ed89f413113a457e8577dcac44dd]: Commencement: Reg. 1 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
-[^key-e7424391f7900409ef67d28c9f878d06]: Commencement: Reg. 2 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-e7424391f7900409ef67d28c9f878d06]: Commencement: Reg. 2 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
-[^key-92fa4949dc3bde313dd44218af4674b5]: Commencement: Reg. 3 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-92fa4949dc3bde313dd44218af4674b5]: Commencement: Reg. 3 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
 [^f00003]: Footnote: O.J. No. L 165, 24.6.1997, p.7.
 
@@ -366,38 +366,38 @@ A Regulatory Impact Assessment (RIA) was prepared in respect of these Regulation
 
 [^f00017]: Footnote: O.J. No. L 363, 20.12.2006, p.1.
 
-[^key-ca95a04e1dc25ab665d4a20f1f0caa6c]: Commencement: Reg. 4 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-ca95a04e1dc25ab665d4a20f1f0caa6c]: Commencement: Reg. 4 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
-[^key-d8193f397e428229808d04f621309787]: Commencement: Reg. 5 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-d8193f397e428229808d04f621309787]: Commencement: Reg. 5 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
-[^key-cbf846d6215193a073f10ab43c7db14c]: Commencement: Reg. 6 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-cbf846d6215193a073f10ab43c7db14c]: Commencement: Reg. 6 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
-[^key-f1ef6005a78884e8b4eacca4c7f4428c]: Commencement: Reg. 7 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-f1ef6005a78884e8b4eacca4c7f4428c]: Commencement: Reg. 7 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
-[^key-0455af897c0b6803278538ec4e4195dd]: Commencement: Reg. 8 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-0455af897c0b6803278538ec4e4195dd]: Commencement: Reg. 8 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
-[^key-ec697312b86b454d3a3edc7ecbd9601e]: Commencement: Reg. 9 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-ec697312b86b454d3a3edc7ecbd9601e]: Commencement: Reg. 9 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
-[^key-0d47ced3d11a89c2c5c61ee92bc42ba0]: Commencement: Reg. 10 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-0d47ced3d11a89c2c5c61ee92bc42ba0]: Commencement: Reg. 10 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
 [^f00018]: Footnote: [S.S.I. 2001/252](https://www.legislation.gov.uk/ssi/2001/252).
 
-[^key-d7adfd355df8f85d1aab8abe391f3ee3]: Commencement: Sch. 1 para. 1 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-d7adfd355df8f85d1aab8abe391f3ee3]: Commencement: Sch. 1 para. 1 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
-[^key-38a4741de4d539a40aa2f01dc11bc8d6]: Commencement: Sch. 1 para. 2 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-38a4741de4d539a40aa2f01dc11bc8d6]: Commencement: Sch. 1 para. 2 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
-[^key-6560caf41b326b95d35a1896cb9339ac]: Commencement: Sch. 1 para. 3 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-6560caf41b326b95d35a1896cb9339ac]: Commencement: Sch. 1 para. 3 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
-[^key-1642dbcf5f76f87c6990d298cfc7d56e]: Commencement: Sch. 1 para. 4 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-1642dbcf5f76f87c6990d298cfc7d56e]: Commencement: Sch. 1 para. 4 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
-[^key-f72a40cab89b63c12787905de7cd397b]: Commencement: Sch. 1 para. 5 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-f72a40cab89b63c12787905de7cd397b]: Commencement: Sch. 1 para. 5 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
-[^key-acb37460c156266febcb09e021176817]: Commencement: Sch. 2 para. 1 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-acb37460c156266febcb09e021176817]: Commencement: Sch. 2 para. 1 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
 [^f00019]: Footnote: [2007 asp 6](https://www.legislation.gov.uk/asp/2007/6).
 
-[^key-f939788969207baad858c74372497590]: Commencement: Sch. 2 para. 2 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-f939788969207baad858c74372497590]: Commencement: Sch. 2 para. 2 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
-[^key-7b29db5626df2fc2a7060d12460255cd]: Commencement: Sch. 2 para. 3 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-7b29db5626df2fc2a7060d12460255cd]: Commencement: Sch. 2 para. 3 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
 
-[^key-861f8f7972117a60c8ad0d48d15e3ae0]: Commencement: Sch. 2 para. 4 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)
+[^c-861f8f7972117a60c8ad0d48d15e3ae0]: Commencement: Sch. 2 para. 4 in force at 25.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/418/regulation/1)

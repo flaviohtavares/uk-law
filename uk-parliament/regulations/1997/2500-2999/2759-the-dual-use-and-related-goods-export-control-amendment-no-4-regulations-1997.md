@@ -30,7 +30,7 @@ summary: ''
 
 CUSTOMS AND EXCISE
 
-The Dual-Use and Related Goods (Export Control) (Amendment No. 4) Regulations 1997 (revoked)[^key-e3ac82fbcb400b2ab1af30846ce234fd]
+The Dual-Use and Related Goods (Export Control) (Amendment No. 4) Regulations 1997 (revoked)[^c-e3ac82fbcb400b2ab1af30846ce234fd]
 
 Made
 
@@ -44,34 +44,34 @@ Coming into force
 
 15th December 1997
 
-[^key-e3ac82fbcb400b2ab1af30846ce234fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3ac82fbcb400b2ab1af30846ce234fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e3ac82fbcb400b2ab1af30846ce234fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e3ac82fbcb400b2ab1af30846ce234fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3ac82fbcb400b2ab1af30846ce234fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e3ac82fbcb400b2ab1af30846ce234fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3ac82fbcb400b2ab1af30846ce234fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e3ac82fbcb400b2ab1af30846ce234fd]: Textual amendment: Regulations revoked (28.9.2000) by [The Dual-Use Items (Export Control) Regulations 2000 (S.I. 2000/2620)](https://www.legislation.gov.uk/uksi/2000/2620), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2620/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2620/schedule/1) (with [reg. 14](https://www.legislation.gov.uk/uksi/2000/2620/regulation/14))
+[^c-e3ac82fbcb400b2ab1af30846ce234fd]: Textual amendment: Regulations revoked (28.9.2000) by [The Dual-Use Items (Export Control) Regulations 2000 (S.I. 2000/2620)](https://www.legislation.gov.uk/uksi/2000/2620), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2620/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2620/schedule/1) (with [reg. 14](https://www.legislation.gov.uk/uksi/2000/2620/regulation/14))

@@ -32,7 +32,7 @@ summary: ''
 
 lands tribunal
 
-Lands Tribunal (Salaries) Order (Northern Ireland) 2007 (revoked)[^key-0677d1928846f3850f9ea31744a05e7c]
+Lands Tribunal (Salaries) Order (Northern Ireland) 2007 (revoked)[^c-0677d1928846f3850f9ea31744a05e7c]
 
 Made
 
@@ -44,28 +44,28 @@ Coming into operation
 
 To be laid before Parliament under paragraph 7(3) of the Schedule to the Northern Ireland Act 2000
 
-[^key-0677d1928846f3850f9ea31744a05e7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0677d1928846f3850f9ea31744a05e7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0677d1928846f3850f9ea31744a05e7c]
+## 1. Citation and commencement[^c-0677d1928846f3850f9ea31744a05e7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-0677d1928846f3850f9ea31744a05e7c]
+## 2. Revocation[^c-0677d1928846f3850f9ea31744a05e7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increases in salaries[^key-0677d1928846f3850f9ea31744a05e7c]
+## 3. Increases in salaries[^c-0677d1928846f3850f9ea31744a05e7c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0677d1928846f3850f9ea31744a05e7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0677d1928846f3850f9ea31744a05e7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0677d1928846f3850f9ea31744a05e7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0677d1928846f3850f9ea31744a05e7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0677d1928846f3850f9ea31744a05e7c]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2007/255) revoked (5.11.2008) by [Lands Tribunal (Salaries) Order (Northern Ireland) 2008 (S.R. 2008/432)](https://www.legislation.gov.uk/nisr/2008/432), [arts. 1](https://www.legislation.gov.uk/nisr/2008/432/article/1), [2](https://www.legislation.gov.uk/nisr/2008/432/article/2)
+[^c-0677d1928846f3850f9ea31744a05e7c]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2007/255) revoked (5.11.2008) by [Lands Tribunal (Salaries) Order (Northern Ireland) 2008 (S.R. 2008/432)](https://www.legislation.gov.uk/nisr/2008/432), [arts. 1](https://www.legislation.gov.uk/nisr/2008/432/article/1), [2](https://www.legislation.gov.uk/nisr/2008/432/article/2)

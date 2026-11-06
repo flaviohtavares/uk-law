@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 13 — LAND OF WHICH ONLY SUBSOIL MORE THAN 9 METRES BENEATH THE SURFACE MAY BE ACQUIRED[^key-48680d87344a1e164b36e784ebf424af]
+## SCHEDULE 13 — LAND OF WHICH ONLY SUBSOIL MORE THAN 9 METRES BENEATH THE SURFACE MAY BE ACQUIRED[^c-48680d87344a1e164b36e784ebf424af]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ Article 31
 
 ## Annotations
 
-[^key-48680d87344a1e164b36e784ebf424af]: Commencement: Sch. 13 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-48680d87344a1e164b36e784ebf424af]: Commencement: Sch. 13 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Recovering penalties[^key-122aa030f9d4804d213029efb27e278a]
+## 57. Recovering penalties[^c-122aa030f9d4804d213029efb27e278a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-122aa030f9d4804d213029efb27e278a]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2012/19/section/57) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-122aa030f9d4804d213029efb27e278a]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2012/19/section/57) in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

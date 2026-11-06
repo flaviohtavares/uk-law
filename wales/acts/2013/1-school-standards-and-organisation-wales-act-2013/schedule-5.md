@@ -26,7 +26,7 @@ summary: ''
 
 #### Education Reform Act 1988
 
-**1.**[^key-4ca845d50f0a911a2880d7b04e906db8] (1) Section 219 of the Education Reform Act 1988 (powers of Welsh Ministers and Secretary of State in relation to certain educational institutions) is amended as follows.
+**1.**[^c-4ca845d50f0a911a2880d7b04e906db8] (1) Section 219 of the Education Reform Act 1988 (powers of Welsh Ministers and Secretary of State in relation to certain educational institutions) is amended as follows.
 
 (2) In subsection (3) after “institution” insert “ in England ”.
 
@@ -40,11 +40,11 @@ summary: ''
 
 #### Education Act 1996
 
-**2.**[^key-89058f94ef4573551d7acd7831d4ddce] (1) The Education Act 1996 is amended as follows.
+**2.**[^c-89058f94ef4573551d7acd7831d4ddce] (1) The Education Act 1996 is amended as follows.
 
 (2) In section 409(4) (complaints and enforcement: maintained schools in Wales) for the words from “section 496” to “duties)” substitute “ Chapter 1 or 2 of Part 2 of the School Standards and Organisation (Wales) Act 2013 (intervention in conduct of maintained schools and local authorities) ”.
 
-(3)[^key-8445157d01a6614745efcc0f14f7a9e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8445157d01a6614745efcc0f14f7a9e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 496(2) (power to prevent unreasonable exercise of functions)—
 
@@ -60,11 +60,11 @@ summary: ''
 
 (7) In section 560(6) (work experience in last year of compulsory schooling) after “or 496” insert “ or Chapter 2 of Part 2 of the School Standards and Organisation (Wales) Act 2013 ”.
 
-(8)[^key-138eadbb28229bff9b16812fdff80695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-138eadbb28229bff9b16812fdff80695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Teaching and Higher Education Act 1998
 
-**3.**[^key-1974ba9a4993cdb62760b8b448d4c985] In section 19 of the Teaching and Higher Education Act 1998 (requirement to serve induction period) for subsection (12) substitute—
+**3.**[^c-1974ba9a4993cdb62760b8b448d4c985] In section 19 of the Teaching and Higher Education Act 1998 (requirement to serve induction period) for subsection (12) substitute—
 
 > (12) Chapter 1 of Part 2 of the School Standards and Organisation (Wales) Act 2013 (“**the 2013 Act**”) (intervention in conduct of maintained schools) has effect in relation to duties imposed and powers conferred by virtue of this section as if—
 >
@@ -80,7 +80,7 @@ summary: ''
 
 #### School Standards and Framework Act 1998
 
-**4.**[^key-68ea82ca3510aafa230727e6928b9faa] (1) The School Standards and Framework Act 1998 is amended as follows.
+**4.**[^c-68ea82ca3510aafa230727e6928b9faa] (1) The School Standards and Framework Act 1998 is amended as follows.
 
 (2) Chapter 4 of Part 1 (intervention in schools in Wales causing concern) is repealed.
 
@@ -111,7 +111,7 @@ summary: ''
 
 #### Local Government Act 2000
 
-**5.**[^key-3d1f78b476c36084eea9917c9b3f63ef] (1) Schedule 1 to the Local Government Act 2000 (executive arrangements in Wales) is amended as follows.
+**5.**[^c-3d1f78b476c36084eea9917c9b3f63ef] (1) Schedule 1 to the Local Government Act 2000 (executive arrangements in Wales) is amended as follows.
 
 (2) For paragraph 10 substitute—
 
@@ -124,7 +124,7 @@ summary: ''
 
 #### Education Act 2002
 
-**6.**[^key-854444e5f7091085878db84cedbb4724] (1) The Education Act 2002 is amended as follows.
+**6.**[^c-854444e5f7091085878db84cedbb4724] (1) The Education Act 2002 is amended as follows.
 
 (2) In section 34(7) (arrangements for government of new schools) after “State)” insert “ and Chapter 1 of Part 2 of the School Standards and Organisation (Wales) Act 2013 (intervention in conduct of maintained schools in Wales) ”.
 
@@ -163,7 +163,7 @@ summary: ''
 
 #### Children Act 2004
 
-**7.**[^key-044496ea233256962243fdadbd7324d4] (1) The Children Act 2004 is amended as follows.
+**7.**[^c-044496ea233256962243fdadbd7324d4] (1) The Children Act 2004 is amended as follows.
 
 (2) In section 50 (intervention)—
 
@@ -192,7 +192,7 @@ summary: ''
 
 #### Education Act 2005
 
-**8.**[^key-388de9e2cfc0369aad5305efde439ee2] (1) The Education Act 2005 is amended as follows.
+**8.**[^c-388de9e2cfc0369aad5305efde439ee2] (1) The Education Act 2005 is amended as follows.
 
 (2) Omit section 45 (power to direct closure of school).
 
@@ -216,7 +216,7 @@ summary: ''
 
 #### Education and Inspections Act 2006
 
-**9.**[^key-1e45b2876c1d5069e4f36159c381a9ac] (1) The Education and Inspections Act 2006 is amended as follows.
+**9.**[^c-1e45b2876c1d5069e4f36159c381a9ac] (1) The Education and Inspections Act 2006 is amended as follows.
 
 (2) In Schedule 7 (amendments relating to schools causing concern) omit paragraphs 3 to 14, 16, 17, 18, 19(b) and 21.
 
@@ -224,7 +224,7 @@ summary: ''
 
 #### Childcare Act 2006
 
-**10.**[^key-01307c0016ca274e9691f2e8487e56b6] For section 29 of the Childcare Act 2006 (powers of Welsh Ministers to secure proper performance etc) substitute—
+**10.**[^c-01307c0016ca274e9691f2e8487e56b6] For section 29 of the Childcare Act 2006 (powers of Welsh Ministers to secure proper performance etc) substitute—
 
 > **29. Powers of intervention of Welsh Ministers**
 >
@@ -234,7 +234,7 @@ summary: ''
 
 #### Equality Act 2010
 
-**11.**[^key-1e39b5fa8f42c281e7520fb3543779c4] (1) Section 87 of the Equality Act 2010 (application of certain powers under Education Act 1996) is amended as follows.
+**11.**[^c-1e39b5fa8f42c281e7520fb3543779c4] (1) Section 87 of the Equality Act 2010 (application of certain powers under Education Act 1996) is amended as follows.
 
 (2) At the beginning insert—
 
@@ -255,11 +255,11 @@ summary: ''
 
 #### Apprenticeships, Skills, Children and Learning Act 2009
 
-**12.**[^key-46d4258a71d4a4b030d740565897bafb] In the Apprenticeships, Skills, Children and Learning Act 2009 omit section 205 and Schedule 14 (powers in relation to schools causing concern).
+**12.**[^c-46d4258a71d4a4b030d740565897bafb] In the Apprenticeships, Skills, Children and Learning Act 2009 omit section 205 and Schedule 14 (powers in relation to schools causing concern).
 
 #### Education (Wales) Measure 2011
 
-**13.**[^key-9de2e9811c478a37882affa2b7ca1df7] (1) The Education (Wales) Measure 2011 is amended as follows.
+**13.**[^c-9de2e9811c478a37882affa2b7ca1df7] (1) The Education (Wales) Measure 2011 is amended as follows.
 
 (2) Omit section 16 (federation of schools causing concern by direction of the Welsh Ministers).
 
@@ -276,7 +276,7 @@ summary: ''
 
 #### Education Reform Act 1988
 
-**14.**[^key-de305006a2e89e2401d2a7461354e417] (1) The Education Reform Act 1988 is amended as follows.
+**14.**[^c-de305006a2e89e2401d2a7461354e417] (1) The Education Reform Act 1988 is amended as follows.
 
 (2) In section 198(1) (transfers under Parts 1 and 2) after paragraph (c) insert—
 
@@ -286,13 +286,13 @@ summary: ''
 
 .
 
-#### ...[^key-b2065b9542244e9f3011ec5b93521310]
+#### ...[^c-b2065b9542244e9f3011ec5b93521310]
 
-**15.**[^key-b2065b9542244e9f3011ec5b93521310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-b2065b9542244e9f3011ec5b93521310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Further and Higher Education Act 1992
 
-**16.**[^key-6f1583dbd341ac6eb05beff32edf7a31] (1) The Further and Higher Education Act 1992 is amended as follows.
+**16.**[^c-6f1583dbd341ac6eb05beff32edf7a31] (1) The Further and Higher Education Act 1992 is amended as follows.
 
 (2) In section 58 (reorganisation of schools involving establishment of further education corporation)—
 
@@ -311,7 +311,7 @@ summary: ''
 
 #### Education Act 1996
 
-**17.**[^key-52076d7afb30c30acf6f3bc9a2c98069] (1) The Education Act 1996 is amended as follows.
+**17.**[^c-52076d7afb30c30acf6f3bc9a2c98069] (1) The Education Act 1996 is amended as follows.
 
 (2) In section 5(3A)(b) (primary schools, secondary schools and middle schools)—
 
@@ -337,7 +337,7 @@ summary: ''
 
 #### Education Act 1997
 
-**18.**[^key-69414210d8bc4f94448467cd88bda0c4] (1) The Education Act 1997 is amended as follows.
+**18.**[^c-69414210d8bc4f94448467cd88bda0c4] (1) The Education Act 1997 is amended as follows.
 
 (2) In section 29 (functions of the Welsh Ministers in relation to curriculum and assessment—
 
@@ -348,7 +348,7 @@ summary: ''
 
 #### School Standards and Framework Act 1998
 
-**19.**[^key-b4b272472a0f8c1b7cd8299cc963a940] (1) The School Standards and Framework Act 1998 is amended as follows.
+**19.**[^c-b4b272472a0f8c1b7cd8299cc963a940] (1) The School Standards and Framework Act 1998 is amended as follows.
 
 (2) In section 20(2A)(b) (new categories of maintained schools) after “this Act” insert “ or sections 45 to 55 of, and Schedule 4 to, the School Standards and Organisation (Wales) Act 2013 ”.
 
@@ -376,7 +376,7 @@ summary: ''
 (7) In section 49(6) (maintained schools to have delegated budgets)—
 
 - (a) omit “paragraph 14(2) of Schedule 6, paragraph 3(3) of Schedule 7A to the Learning and Skills Act 2000”,
-- (b) after “2002” insert “ [^key-56b0caf36a9c5f4eef00e815c618957d]... or paragraph 4 of Schedule 3 to, the School Standards and Organisation (Wales) Act 2013 ”.
+- (b) after “2002” insert “ [^c-56b0caf36a9c5f4eef00e815c618957d]... or paragraph 4 of Schedule 3 to, the School Standards and Organisation (Wales) Act 2013 ”.
 
 (8) In section 82(1) (modification of trust deeds) for “or the Academies Act 2010” substitute “ , the Academies Act 2010 or the School Standards and Organisation (Wales) Act 2013 ”.
 
@@ -471,11 +471,11 @@ summary: ''
 
 #### Learning and Skills Act 2000
 
-**20.**[^key-ce954ef74afea164711704e7b41e9c21] (1) The Learning and Skills Act 2000 is amended as follows.
+**20.**[^c-ce954ef74afea164711704e7b41e9c21] (1) The Learning and Skills Act 2000 is amended as follows.
 
 (2) In section 33P(3)(b)(i) (application of local curriculum provisions to students who are registered pupils of special schools or who have learning difficulties) omit “or foundation”.
 
-(3)[^key-593b1aebbf050a163e5aff4be80272ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-593b1aebbf050a163e5aff4be80272ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Omit sections 113 and 113A.
 
@@ -488,7 +488,7 @@ summary: ''
 
 #### Education Act 2002
 
-**21.**[^key-2e75a2a8fd1e29dec1bf5b248259e4e7] (1) The Education Act 2002 is amended as follows.
+**21.**[^c-2e75a2a8fd1e29dec1bf5b248259e4e7] (1) The Education Act 2002 is amended as follows.
 
 (2) In section 19(2)(e) (governing bodies) omit “, a foundation special school”.
 
@@ -522,7 +522,7 @@ summary: ''
 
 #### Education Act 2005
 
-**22.**[^key-3d3fd4061aa49095ea17a951e3940be2] (1) The Education Act 2005 is amended as follows.
+**22.**[^c-3d3fd4061aa49095ea17a951e3940be2] (1) The Education Act 2005 is amended as follows.
 
 (2) In section 28 (duty to arrange regular inspections of certain schools)—
 
@@ -555,7 +555,7 @@ summary: ''
 
 #### Education and Inspections Act 2006
 
-**23.**[^key-8b0ee1d683043e79839a4a9d8fd6e882] (1) The Education and Inspections Act 2006 is amended as follows.
+**23.**[^c-8b0ee1d683043e79839a4a9d8fd6e882] (1) The Education and Inspections Act 2006 is amended as follows.
 
 (2) Omit section 54(1)(e) (pupil banding).
 
@@ -565,31 +565,31 @@ summary: ''
 
 #### National Health Service (Wales) Act 2006
 
-**24.**[^key-bb050aa12e238987bfae75547c6a04ad] (1) The National Health Service (Wales) Act 2006 is amended as follows.
+**24.**[^c-bb050aa12e238987bfae75547c6a04ad] (1) The National Health Service (Wales) Act 2006 is amended as follows.
 
 (2) In paragraph 5(1)(a) and (b) of Schedule 1 (further provision about the Welsh Ministers and services under this Act) for “, voluntary or foundation special” substitute “ or voluntary ”.
 
 #### Learner Travel (Wales) Measure 2008
 
-**25.**[^key-b3dc827fa4d945ae371937c77ca03556] (1) The Learner Travel (Wales) Measure 2008 is amended as follows.
+**25.**[^c-b3dc827fa4d945ae371937c77ca03556] (1) The Learner Travel (Wales) Measure 2008 is amended as follows.
 
 (2) In section 24(1) (general interpretation) in the definition of “maintained school” omit “or foundation”.
 
 #### Learning and Skills (Wales) Measure 2009
 
-**26.**[^key-62cb94f1fd3b973ad414cffd9f83c35d] (1) The Learning and Skills (Wales) Measure 2009 is amended as follows.
+**26.**[^c-62cb94f1fd3b973ad414cffd9f83c35d] (1) The Learning and Skills (Wales) Measure 2009 is amended as follows.
 
 (2) In section 44 (learning pathways: interpretation) in the definition of “maintained school” omit “or foundation”.
 
 #### Healthy Eating in Schools (Wales) Measure 2009
 
-**27.**[^key-33ef48a639632f3da5a3de39993407b5] (1) The Healthy Eating in Schools (Wales) Measure 2009 is amended as follows.
+**27.**[^c-33ef48a639632f3da5a3de39993407b5] (1) The Healthy Eating in Schools (Wales) Measure 2009 is amended as follows.
 
 (2) In section 11 (interpretation) in the definition of “maintained school” omit “or foundation”.
 
 #### Equality Act 2010
 
-**28.**[^key-16d9e304168e914cd3cd2c073876ebe3] (1) The Equality Act 2010 is amended as follows.
+**28.**[^c-16d9e304168e914cd3cd2c073876ebe3] (1) The Equality Act 2010 is amended as follows.
 
 (2) In paragraph 4 of Schedule 11 (single-sex schools turning co-educational)—
 
@@ -598,7 +598,7 @@ summary: ''
 
 #### Education (Wales) Measure 2011
 
-**29.**[^key-721935c9558c2618863751cefe84d078] (1) The Education (Wales) Measure 2011 is amended as follows.
+**29.**[^c-721935c9558c2618863751cefe84d078] (1) The Education (Wales) Measure 2011 is amended as follows.
 
 (2) In section 8 (interpretation of Part 1) in the definition of “maintained school” omit “or foundation”.
 
@@ -612,7 +612,7 @@ summary: ''
 
 #### Welsh Language (Wales) Measure 2011
 
-**30.**[^key-7ac2a6633fd6a71a11c8221d550644b3] (1) The Welsh Language (Wales) Measure 2011 is amended as follows.
+**30.**[^c-7ac2a6633fd6a71a11c8221d550644b3] (1) The Welsh Language (Wales) Measure 2011 is amended as follows.
 
 (2) In paragraph 2 of Schedule 6 in the definition of “governing body of a school” omit “or foundation”.
 
@@ -628,7 +628,7 @@ summary: ''
 
 #### Education Act 2002
 
-**32.**[^key-727285436d8b72e46dc44b29f4e8f069] In Schedule 21 to the Education Act 2002 (minor and consequential amendments) omit paragraph 110.
+**32.**[^c-727285436d8b72e46dc44b29f4e8f069] In Schedule 21 to the Education Act 2002 (minor and consequential amendments) omit paragraph 110.
 
 #### Education Act 2005
 
@@ -638,7 +638,7 @@ summary: ''
 
 **34.**[^c2220667] (1) The Education and Inspections Act 2006 is amended as follows.
 
-(2)[^key-147393bbc010fe0039b74cd2c9614f62] Omit section 58 (code of practice as to relationships between local authorities and maintained schools).
+(2)[^c-147393bbc010fe0039b74cd2c9614f62] Omit section 58 (code of practice as to relationships between local authorities and maintained schools).
 
 (3) In section 87 (power to charge for provision of meals)—
 
@@ -658,78 +658,78 @@ summary: ''
 
 ## Annotations
 
-[^key-4ca845d50f0a911a2880d7b04e906db8]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/1) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-4ca845d50f0a911a2880d7b04e906db8]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/1) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-89058f94ef4573551d7acd7831d4ddce]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/2) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-89058f94ef4573551d7acd7831d4ddce]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/2) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-8445157d01a6614745efcc0f14f7a9e6]: Textual amendment: [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/2/3) omitted (5.4.2025) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(13)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/13) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(iii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/iii)
+[^c-8445157d01a6614745efcc0f14f7a9e6]: Textual amendment: [Sch. 5 para. 2(3)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/2/3) omitted (5.4.2025) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(13)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/13) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(iii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/iii)
 
-[^key-138eadbb28229bff9b16812fdff80695]: Textual amendment: [Sch. 5 para. 2(8)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/2/8) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/14/3)
+[^c-138eadbb28229bff9b16812fdff80695]: Textual amendment: [Sch. 5 para. 2(8)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/2/8) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/14/3)
 
-[^key-1974ba9a4993cdb62760b8b448d4c985]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/3) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-1974ba9a4993cdb62760b8b448d4c985]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/3) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-68ea82ca3510aafa230727e6928b9faa]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/4) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-68ea82ca3510aafa230727e6928b9faa]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/4) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-3d1f78b476c36084eea9917c9b3f63ef]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/5) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-3d1f78b476c36084eea9917c9b3f63ef]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/5) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-854444e5f7091085878db84cedbb4724]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/6) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-854444e5f7091085878db84cedbb4724]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/6) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-044496ea233256962243fdadbd7324d4]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/7) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-044496ea233256962243fdadbd7324d4]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/7) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-388de9e2cfc0369aad5305efde439ee2]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/8) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-388de9e2cfc0369aad5305efde439ee2]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/8) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-1e45b2876c1d5069e4f36159c381a9ac]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/9) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-1e45b2876c1d5069e4f36159c381a9ac]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/9) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-01307c0016ca274e9691f2e8487e56b6]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/10) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-01307c0016ca274e9691f2e8487e56b6]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/10) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-1e39b5fa8f42c281e7520fb3543779c4]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/11) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-1e39b5fa8f42c281e7520fb3543779c4]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/11) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-46d4258a71d4a4b030d740565897bafb]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/12) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-46d4258a71d4a4b030d740565897bafb]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/12) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-9de2e9811c478a37882affa2b7ca1df7]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/13) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-9de2e9811c478a37882affa2b7ca1df7]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/13) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(f)](https://www.legislation.gov.uk/wsi/2014/178/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
-[^key-de305006a2e89e2401d2a7461354e417]: Commencement: Sch. 5 para. 14 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-de305006a2e89e2401d2a7461354e417]: Commencement: Sch. 5 para. 14 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-b2065b9542244e9f3011ec5b93521310]: Textual amendment: Sch. 5 para. 15 and cross-heading repealed (29.6.2021) by [Diocesan Boards of Education Measure 2021 (No. 1)](https://www.legislation.gov.uk/ukcm/2021/1), [ss. 21(3)(f)](https://www.legislation.gov.uk/ukcm/2021/1/section/21/3/f), [24(3)](https://www.legislation.gov.uk/ukcm/2021/1/section/24/3) (with [s. 23(8)](https://www.legislation.gov.uk/ukcm/2021/1/section/23/8), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukcm/2021/1/schedule/2/paragraph/6))
+[^c-b2065b9542244e9f3011ec5b93521310]: Textual amendment: Sch. 5 para. 15 and cross-heading repealed (29.6.2021) by [Diocesan Boards of Education Measure 2021 (No. 1)](https://www.legislation.gov.uk/ukcm/2021/1), [ss. 21(3)(f)](https://www.legislation.gov.uk/ukcm/2021/1/section/21/3/f), [24(3)](https://www.legislation.gov.uk/ukcm/2021/1/section/24/3) (with [s. 23(8)](https://www.legislation.gov.uk/ukcm/2021/1/section/23/8), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukcm/2021/1/schedule/2/paragraph/6))
 
-[^key-6f1583dbd341ac6eb05beff32edf7a31]: Commencement: Sch. 5 para. 16 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-6f1583dbd341ac6eb05beff32edf7a31]: Commencement: Sch. 5 para. 16 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-52076d7afb30c30acf6f3bc9a2c98069]: Commencement: Sch. 5 para. 17 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-52076d7afb30c30acf6f3bc9a2c98069]: Commencement: Sch. 5 para. 17 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-69414210d8bc4f94448467cd88bda0c4]: Commencement: Sch. 5 para. 18 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-69414210d8bc4f94448467cd88bda0c4]: Commencement: Sch. 5 para. 18 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-b4b272472a0f8c1b7cd8299cc963a940]: Commencement: Sch. 5 para. 19 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-b4b272472a0f8c1b7cd8299cc963a940]: Commencement: Sch. 5 para. 19 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
 
-[^key-56b0caf36a9c5f4eef00e815c618957d]: Textual amendment: Words in [Sch. 5 para. 19(7)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/19/7/b) omitted (1.4.2026) by virtue of [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments and Transitory Provision) Regulations 2026 (W.S.I. 2026/72)](https://www.legislation.gov.uk/wsi/2026/72), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/72/regulation/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2026/72/regulation/7/3)
+[^c-56b0caf36a9c5f4eef00e815c618957d]: Textual amendment: Words in [Sch. 5 para. 19(7)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/19/7/b) omitted (1.4.2026) by virtue of [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments and Transitory Provision) Regulations 2026 (W.S.I. 2026/72)](https://www.legislation.gov.uk/wsi/2026/72), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/72/regulation/1/2), [7(3)](https://www.legislation.gov.uk/wsi/2026/72/regulation/7/3)
 
-[^key-ce954ef74afea164711704e7b41e9c21]: Commencement: Sch. 5 para. 20 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-ce954ef74afea164711704e7b41e9c21]: Commencement: Sch. 5 para. 20 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-593b1aebbf050a163e5aff4be80272ab]: Textual amendment: [Sch. 5 para. 20(3)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/20/3) omitted (5.4.2025) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(13)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/13) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(iii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/iii)
+[^c-593b1aebbf050a163e5aff4be80272ab]: Textual amendment: [Sch. 5 para. 20(3)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/20/3) omitted (5.4.2025) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(13)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/13) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(iii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/iii)
 
-[^key-2e75a2a8fd1e29dec1bf5b248259e4e7]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/21) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-2e75a2a8fd1e29dec1bf5b248259e4e7]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/21) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
 [^M_F_dd72917e-70fa-4681-c432-18e4ecf3ba7a]: Textual amendment: Sch. 5 para. 21(4)-(6) omitted (30.4.2021) by [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 70](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/70) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
 
-[^key-3d3fd4061aa49095ea17a951e3940be2]: Commencement: Sch. 5 para. 22 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-3d3fd4061aa49095ea17a951e3940be2]: Commencement: Sch. 5 para. 22 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-8b0ee1d683043e79839a4a9d8fd6e882]: Commencement: Sch. 5 para. 23 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-8b0ee1d683043e79839a4a9d8fd6e882]: Commencement: Sch. 5 para. 23 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-bb050aa12e238987bfae75547c6a04ad]: Commencement: Sch. 5 para. 24 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-bb050aa12e238987bfae75547c6a04ad]: Commencement: Sch. 5 para. 24 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-b3dc827fa4d945ae371937c77ca03556]: Commencement: Sch. 5 para. 25 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-b3dc827fa4d945ae371937c77ca03556]: Commencement: Sch. 5 para. 25 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-62cb94f1fd3b973ad414cffd9f83c35d]: Commencement: Sch. 5 para. 26 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-62cb94f1fd3b973ad414cffd9f83c35d]: Commencement: Sch. 5 para. 26 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-33ef48a639632f3da5a3de39993407b5]: Commencement: Sch. 5 para. 27 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-33ef48a639632f3da5a3de39993407b5]: Commencement: Sch. 5 para. 27 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-16d9e304168e914cd3cd2c073876ebe3]: Commencement: Sch. 5 para. 28 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-16d9e304168e914cd3cd2c073876ebe3]: Commencement: Sch. 5 para. 28 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-721935c9558c2618863751cefe84d078]: Commencement: Sch. 5 para. 29 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-721935c9558c2618863751cefe84d078]: Commencement: Sch. 5 para. 29 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-7ac2a6633fd6a71a11c8221d550644b3]: Commencement: Sch. 5 para. 30 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-7ac2a6633fd6a71a11c8221d550644b3]: Commencement: Sch. 5 para. 30 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-727285436d8b72e46dc44b29f4e8f069]: Commencement: [Sch. 5 para. 32](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/32) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(g)](https://www.legislation.gov.uk/wsi/2014/178/article/2/g) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-727285436d8b72e46dc44b29f4e8f069]: Commencement: [Sch. 5 para. 32](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/32) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(g)](https://www.legislation.gov.uk/wsi/2014/178/article/2/g) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
 
 [^c2220667]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/34) not in force at Royal Assent; [Sch. 5 para. 34(1)(3)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/34/1/3) in force at 4.5.2013, see [s. 100(3)](https://www.legislation.gov.uk/anaw/2013/1/section/100/3)
 
-[^key-147393bbc010fe0039b74cd2c9614f62]: Commencement: [Sch. 5 para. 34(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/34/2) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(g)](https://www.legislation.gov.uk/wsi/2014/178/article/2/g) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))
+[^c-147393bbc010fe0039b74cd2c9614f62]: Commencement: [Sch. 5 para. 34(2)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/34/2) in force at 20.2.2014 by [S.I. 2014/178](https://www.legislation.gov.uk/wsi/2014/178), [art. 2(g)](https://www.legislation.gov.uk/wsi/2014/178/article/2/g) (with [art. 3](https://www.legislation.gov.uk/wsi/2014/178/article/3))

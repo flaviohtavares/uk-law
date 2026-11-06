@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Conditions making it appropriate to give a decision notice without a warning notice[^key-97de238157229e7cbb469d2ca084db7a]
+## 66. Conditions making it appropriate to give a decision notice without a warning notice[^c-97de238157229e7cbb469d2ca084db7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97de238157229e7cbb469d2ca084db7a]: Commencement: Art. 66 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-97de238157229e7cbb469d2ca084db7a]: Commencement: Art. 66 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

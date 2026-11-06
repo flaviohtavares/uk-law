@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Pretending to be licensed[^key-a80489aed30082e68eb86cc129be267d]
+## 74. Pretending to be licensed[^c-a80489aed30082e68eb86cc129be267d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a80489aed30082e68eb86cc129be267d]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2010/16/section/74) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-a80489aed30082e68eb86cc129be267d]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2010/16/section/74) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

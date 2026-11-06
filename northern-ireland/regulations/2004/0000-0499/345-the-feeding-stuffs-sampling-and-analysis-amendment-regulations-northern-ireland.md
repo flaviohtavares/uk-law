@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Feeding Stuffs (Sampling and Analysis) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-fd2731e66d270b23a5e060bca5266815]
+The Feeding Stuffs (Sampling and Analysis) (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-fd2731e66d270b23a5e060bca5266815]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 17th September 2004
 
-[^key-fd2731e66d270b23a5e060bca5266815]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd2731e66d270b23a5e060bca5266815]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-fd2731e66d270b23a5e060bca5266815]
+## 1. Citation, commencement and interpretation[^c-fd2731e66d270b23a5e060bca5266815]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 1999[^key-fd2731e66d270b23a5e060bca5266815]
+## 2. Amendments to the Feeding Stuffs (Sampling and Analysis) Regulations (Northern Ireland) 1999[^c-fd2731e66d270b23a5e060bca5266815]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd2731e66d270b23a5e060bca5266815]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd2731e66d270b23a5e060bca5266815]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fd2731e66d270b23a5e060bca5266815]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fd2731e66d270b23a5e060bca5266815]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fd2731e66d270b23a5e060bca5266815]: Textual amendment: Regulations revoked (11.10.2010) by [The Feed (Sampling and Analysis and Specified Undesirable Substances) Regulations (Northern Ireland) 2010 (S.R. 2010/323)](https://www.legislation.gov.uk/nisr/2010/323), [regs. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1), [23](https://www.legislation.gov.uk/nisr/2010/323/regulation/23), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/323/schedule/3)
+[^c-fd2731e66d270b23a5e060bca5266815]: Textual amendment: Regulations revoked (11.10.2010) by [The Feed (Sampling and Analysis and Specified Undesirable Substances) Regulations (Northern Ireland) 2010 (S.R. 2010/323)](https://www.legislation.gov.uk/nisr/2010/323), [regs. 1](https://www.legislation.gov.uk/nisr/2010/323/regulation/1), [23](https://www.legislation.gov.uk/nisr/2010/323/regulation/23), [Sch. 3](https://www.legislation.gov.uk/nisr/2010/323/schedule/3)

@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 30(2) of the Fisheries Act 1981[^f00001], and of all other powers enabling them in that behalf, hereby make the following Order:
 
-## 1. Citation, commencement and extent[^key-bd710383b13ff69d8204a3b3065cf19f]
+## 1. Citation, commencement and extent[^c-bd710383b13ff69d8204a3b3065cf19f]
 
 (1) This Order may be cited as the Sea Fishing (Prohibition on the Removal of Shark Fins) (Scotland) Order 2007 and shall come into force on 1st March 2007.
 
@@ -54,16 +54,16 @@ The Scottish Ministers, in exercise of the powers conferred by section 30(2) of 
 
 (3) Nothing in paragraph (2) shall be treated as prejudicing the effect of section 30(2A) of the Fisheries Act 1981[^f00002] in the rest of the United Kingdom in relation to, or for purposes incidental to, any provision which creates an offence.
 
-## 2. Interpretation[^key-5e4f9c53d622cd5fb2a652f06540f60c]
+## 2. Interpretation[^c-5e4f9c53d622cd5fb2a652f06540f60c]
 
 (1) In this Order–
 
-- [^key-1e221deb9210642ee9f27d1c9ac4bd24]...
+- [^c-1e221deb9210642ee9f27d1c9ac4bd24]...
 - “premises” includes land;
-- “the Regulation” means Council Regulation [(EC) No. 1185/2003](https://www.legislation.gov.uk/european/regulation/2003/1185) of 26 June 2003 on the removal of fins of sharks on board vessels[^f00003] , as amended by Council Regulation (EU) No. 605/2013[^key-11381f34c1b0f3cbe9f9db4a6d47563b];
-- [^key-1e221deb9210642ee9f27d1c9ac4bd24]...
+- “the Regulation” means Council Regulation [(EC) No. 1185/2003](https://www.legislation.gov.uk/european/regulation/2003/1185) of 26 June 2003 on the removal of fins of sharks on board vessels[^f00003] , as amended by Council Regulation (EU) No. 605/2013[^c-11381f34c1b0f3cbe9f9db4a6d47563b];
+- [^c-1e221deb9210642ee9f27d1c9ac4bd24]...
 - “relevant document” means a document relating to the catching of sharks or the landing, transportation, transhipment, sale or disposal of sharks, shark fins or remaining parts of sharks;
-- “relevant fishing boat” means—[^key-b6d0f40e938d60dbf311f1c9eba3756c]
+- “relevant fishing boat” means—[^c-b6d0f40e938d60dbf311f1c9eba3756c]
   - (a) a Scottish fishing boat wherever it may be; and
   - (b) any other fishing boat which is within the Scottish zone;
 - “relevant offence” means an offence under–
@@ -74,17 +74,17 @@ The Scottish Ministers, in exercise of the powers conferred by section 30(2) of 
 
 (2) Expressions used in this Order which are not defined in this Order and which appear in the Regulation have the same meaning in this Order as they have for the purposes of the Regulation.
 
-## 3. Offences[^key-5bbb22667bc35aa979d17f569451b72a]
+## 3. Offences[^c-5bbb22667bc35aa979d17f569451b72a]
 
 (1) A person in charge of a relevant fishing boat in relation to which there is a contravention of, or failure to comply with, a provision of the Regulation referred to in column 1 of Part 1 of the Schedule, commits an offence.
 
 (2) A person who contravenes the provision of the Regulation referred to in column 1 of Part 2 of the Schedule commits an offence.
 
-(3)[^key-083149cab07d6aee09835cce0c281c03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-083149cab07d6aee09835cce0c281c03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-083149cab07d6aee09835cce0c281c03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-083149cab07d6aee09835cce0c281c03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Penalties[^key-2a182752d48029012b61ceea4f564ff0]
+## 4. Penalties[^c-2a182752d48029012b61ceea4f564ff0]
 
 (1) A person guilty of a relevant offence shall be liable–
 
@@ -95,7 +95,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 30(2) of 
 
 (3) Section 221 (recovery of fines by civil diligence) of the Criminal Procedure (Scotland) Act 1995[^f00006] applies to the recovery of any sums ordered to be forfeited under paragraph (2) as it applies to fines to be recovered by Civil diligence in pursuance of that Act.
 
-## 5. Recovery of fines[^key-8e28879bc41b1b88630eda6b70d4f31e]
+## 5. Recovery of fines[^c-8e28879bc41b1b88630eda6b70d4f31e]
 
 (1) Without prejudice to the provisions of section 221 of the Criminal Procedure (Scotland) Act 1995, where a court has imposed a fine on any person in respect of a relevant offence, that court may for the purposes of recovering the fine–
 
@@ -113,7 +113,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 30(2) of 
 
 (4) Where in relation to a fine in respect of a relevant offence a transfer of fine order under section 222 of the Criminal Procedure (Scotland) Act 1995, section 90 of the Magistrates' Courts Act 1980[^f00007] or Article 95 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00008] specifies a court of summary jurisdiction in Scotland, this article shall apply as if the fine were a fine imposed by that court.
 
-## 6. Powers of sea-fishery officers in relation to fishing boats[^key-833d84c98799dc32dd4ea4156c02d310]
+## 6. Powers of sea-fishery officers in relation to fishing boats[^c-833d84c98799dc32dd4ea4156c02d310]
 
 (1) For the purpose of enforcing article 3 of this Order, a British sea-fishery officer may exercise the powers conferred by paragraphs (2) to (6) in relation to a relevant fishing boat.
 
@@ -142,7 +142,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 30(2) of 
 
 (8) That time is when the master is served with a notice in writing signed by a British sea-fishery officer stating that the previous notice ceases to have effect.
 
-## 7. Powers of sea-fishery officers on land[^key-3c02e33d294099c3120ffa9ae3c5de0e]
+## 7. Powers of sea-fishery officers on land[^c-3c02e33d294099c3120ffa9ae3c5de0e]
 
 (1) For the purpose of enforcing article 3 of this Order, a British sea fishery officer may exercise the powers conferred by paragraphs (2) to (11) of this article in relation to–
 
@@ -184,7 +184,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 30(2) of 
 
 (14) A warrant under paragraph (12) is valid for the period of one month beginning with the date on which it is granted or for such shorter period as the sheriff may specify.
 
-## 8. Powers of British sea-fishery officers to seize shark fins etc.[^key-81dc5ad3c441deb25c0c933536bea8c6]
+## 8. Powers of British sea-fishery officers to seize shark fins etc.[^c-81dc5ad3c441deb25c0c933536bea8c6]
 
 A British sea-fishery officer may seize–
 
@@ -193,7 +193,7 @@ A British sea-fishery officer may seize–
 
 any shark fins or remaining parts of sharks in respect of which the officer has reasonable grounds to suspect that an offence under this Order has been committed.
 
-## 9. Powers of sea-fishery officers: supplementary[^key-0ad0972ded89b9c6b588b2c16382b1e1]
+## 9. Powers of sea-fishery officers: supplementary[^c-0ad0972ded89b9c6b588b2c16382b1e1]
 
 (1) A British sea-fishery officer, or a person assisting such an officer by virtue of article 6(2) or 7(3) or (12), is not liable in any civil or criminal proceedings for anything done in the purported exercise of a power conferred by article 6, 7 or 8 if the court is satisfied–
 
@@ -214,7 +214,7 @@ commits an offence.
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
 
-## 10. Offences committed by bodies corporate and Scottish partnerships[^key-a106c47dba131f6733824a43f29ab742]
+## 10. Offences committed by bodies corporate and Scottish partnerships[^c-a106c47dba131f6733824a43f29ab742]
 
 (1) Where an offence under this Order has been committed by a body corporate and the contravention in question is proved to have occurred with the consent or connivance of, or to be attributable to any neglect on the part of–
 
@@ -227,7 +227,7 @@ that person as well as the body corporate shall be guilty of that offence and sh
 
 (3) Where an offence under this Order has been committed by a Scottish partnership and the contravention in question is proved to have occurred with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, that partner as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-## 11. Admissibility in evidence of logbooks and other documents[^key-f481b27d4c2966301064fdad3200dfbb]
+## 11. Admissibility in evidence of logbooks and other documents[^c-f481b27d4c2966301064fdad3200dfbb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -239,7 +239,7 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE — SPECIFIED PROVISIONS OF THE REGULATION, CONTRAVENTION OF WHICH CONSTITUTES AN OFFENCE[^key-64dc400823ee06bc37e32adfaa55b092]
+## SCHEDULE — SPECIFIED PROVISIONS OF THE REGULATION, CONTRAVENTION OF WHICH CONSTITUTES AN OFFENCE[^c-64dc400823ee06bc37e32adfaa55b092]
 
 Article 3
 
@@ -271,48 +271,48 @@ A Regulatory Impact Assessment in relation to this Order has been prepared and p
 
 [^f00001]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29). Section 30 was amended by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 68.
 
-[^key-bd710383b13ff69d8204a3b3065cf19f]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2007/39/article/1) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+[^c-bd710383b13ff69d8204a3b3065cf19f]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2007/39/article/1) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
 
 [^f00002]: Footnote: Section 30(2A) was inserted by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)), Schedule 2, paragraph 68.
 
-[^key-5e4f9c53d622cd5fb2a652f06540f60c]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2007/39/article/2) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+[^c-5e4f9c53d622cd5fb2a652f06540f60c]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2007/39/article/2) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
 
-[^key-1e221deb9210642ee9f27d1c9ac4bd24]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/39/article/2/1) omitted (5.10.2015) by virtue of [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [25(2)(a)](https://www.legislation.gov.uk/ssi/2015/320/article/25/2/a) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
+[^c-1e221deb9210642ee9f27d1c9ac4bd24]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/39/article/2/1) omitted (5.10.2015) by virtue of [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [25(2)(a)](https://www.legislation.gov.uk/ssi/2015/320/article/25/2/a) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
 
 [^f00003]: Footnote: O.J.L. 167, 4.7.2003, p.1.
 
-[^key-11381f34c1b0f3cbe9f9db4a6d47563b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/39/article/2/1) inserted (28.3.2019) by [The Fisheries (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/69)](https://www.legislation.gov.uk/ssi/2019/69), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/69/regulation/1/2/a), [5(2)](https://www.legislation.gov.uk/ssi/2019/69/regulation/5/2)
+[^c-11381f34c1b0f3cbe9f9db4a6d47563b]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/39/article/2/1) inserted (28.3.2019) by [The Fisheries (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/69)](https://www.legislation.gov.uk/ssi/2019/69), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/69/regulation/1/2/a), [5(2)](https://www.legislation.gov.uk/ssi/2019/69/regulation/5/2)
 
-[^key-b6d0f40e938d60dbf311f1c9eba3756c]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/39/article/2/1) substituted (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [25(2)(b)](https://www.legislation.gov.uk/ssi/2015/320/article/25/2/b) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
+[^c-b6d0f40e938d60dbf311f1c9eba3756c]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/39/article/2/1) substituted (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [25(2)(b)](https://www.legislation.gov.uk/ssi/2015/320/article/25/2/b) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
 
 [^f00004]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46). The part of the internal waters and territorial sea of the United Kingdom which is adjacent to Scotland is determined by the Scottish Adjacent Waters Boundaries Order 1999 (S.I. [1999/1126](https://www.legislation.gov.uk/uksi/1999/1126)).
 
 [^f00005]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-5bbb22667bc35aa979d17f569451b72a]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2007/39/article/3) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+[^c-5bbb22667bc35aa979d17f569451b72a]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2007/39/article/3) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
 
-[^key-083149cab07d6aee09835cce0c281c03]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/ssi/2007/39/article/3/3)[(4)](https://www.legislation.gov.uk/ssi/2007/39/article/3/4) omitted (5.10.2015) by virtue of [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [25(3)](https://www.legislation.gov.uk/ssi/2015/320/article/25/3) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
+[^c-083149cab07d6aee09835cce0c281c03]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/ssi/2007/39/article/3/3)[(4)](https://www.legislation.gov.uk/ssi/2007/39/article/3/4) omitted (5.10.2015) by virtue of [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [25(3)](https://www.legislation.gov.uk/ssi/2015/320/article/25/3) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
 
-[^key-2a182752d48029012b61ceea4f564ff0]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2007/39/article/4) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+[^c-2a182752d48029012b61ceea4f564ff0]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2007/39/article/4) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
 
 [^f00006]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-8e28879bc41b1b88630eda6b70d4f31e]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2007/39/article/5) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+[^c-8e28879bc41b1b88630eda6b70d4f31e]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2007/39/article/5) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
 
 [^f00007]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
 [^f00008]: Footnote: S.I. [1981/1675](https://www.legislation.gov.uk/uksi/1981/1675).
 
-[^key-833d84c98799dc32dd4ea4156c02d310]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2007/39/article/6) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+[^c-833d84c98799dc32dd4ea4156c02d310]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2007/39/article/6) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
 
-[^key-3c02e33d294099c3120ffa9ae3c5de0e]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2007/39/article/7) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+[^c-3c02e33d294099c3120ffa9ae3c5de0e]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2007/39/article/7) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
 
-[^key-81dc5ad3c441deb25c0c933536bea8c6]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2007/39/article/8) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+[^c-81dc5ad3c441deb25c0c933536bea8c6]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2007/39/article/8) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
 
-[^key-0ad0972ded89b9c6b588b2c16382b1e1]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2007/39/article/9) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+[^c-0ad0972ded89b9c6b588b2c16382b1e1]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2007/39/article/9) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
 
-[^key-a106c47dba131f6733824a43f29ab742]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2007/39/article/10) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
+[^c-a106c47dba131f6733824a43f29ab742]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2007/39/article/10) in force at 1.3.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/39/article/1/1)
 
-[^key-f481b27d4c2966301064fdad3200dfbb]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/ssi/2007/39/article/11) omitted (5.10.2015) by virtue of [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [25(4)](https://www.legislation.gov.uk/ssi/2015/320/article/25/4) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
+[^c-f481b27d4c2966301064fdad3200dfbb]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/ssi/2007/39/article/11) omitted (5.10.2015) by virtue of [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [25(4)](https://www.legislation.gov.uk/ssi/2015/320/article/25/4) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
 
-[^key-64dc400823ee06bc37e32adfaa55b092]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2007/39/schedule) substituted (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [25(5)](https://www.legislation.gov.uk/ssi/2015/320/article/25/5) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))
+[^c-64dc400823ee06bc37e32adfaa55b092]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2007/39/schedule) substituted (5.10.2015) by [The Sea Fishing (EU Control Measures) (Scotland) Order 2015 (S.S.I. 2015/320)](https://www.legislation.gov.uk/ssi/2015/320), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/320/article/1/1), [25(5)](https://www.legislation.gov.uk/ssi/2015/320/article/25/5) (with [art. 31(2)](https://www.legislation.gov.uk/ssi/2015/320/article/31/2))

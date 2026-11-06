@@ -31,7 +31,7 @@ summary: ''
 
 MEDICINES
 
-Medicated Feedingstuffs (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^key-4c06b4828b04e2e7eeec9e8c54247a64]
+Medicated Feedingstuffs (Amendment) Regulations (Northern Ireland) 2004 (revoked)[^c-4c06b4828b04e2e7eeec9e8c54247a64]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into operation
 
 1st April 2004
 
-[^key-4c06b4828b04e2e7eeec9e8c54247a64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c06b4828b04e2e7eeec9e8c54247a64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4c06b4828b04e2e7eeec9e8c54247a64]
+## 1. Citation and commencement[^c-4c06b4828b04e2e7eeec9e8c54247a64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Medicated Feedingstuffs Regulations 1998[^key-4c06b4828b04e2e7eeec9e8c54247a64]
+## 2. Amendment of the Medicated Feedingstuffs Regulations 1998[^c-4c06b4828b04e2e7eeec9e8c54247a64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c06b4828b04e2e7eeec9e8c54247a64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c06b4828b04e2e7eeec9e8c54247a64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-4c06b4828b04e2e7eeec9e8c54247a64]
+## SCHEDULE[^c-4c06b4828b04e2e7eeec9e8c54247a64]
 
 Regulation 2(2)
 
-> **SCHEDULE 1[^key-4c06b4828b04e2e7eeec9e8c54247a64]**
+> **SCHEDULE 1[^c-4c06b4828b04e2e7eeec9e8c54247a64]**
 >
 > Regulation 35
 >
-> **PART 1 — fees payable in relation to the grant or renewal of approvals of premises[^key-4c06b4828b04e2e7eeec9e8c54247a64]**
+> **PART 1 — fees payable in relation to the grant or renewal of approvals of premises[^c-4c06b4828b04e2e7eeec9e8c54247a64]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Note[^key-4c06b4828b04e2e7eeec9e8c54247a64]**
+> **Note[^c-4c06b4828b04e2e7eeec9e8c54247a64]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART II — fees payable in relation to the grant or renewal of approvals of distributors[^key-4c06b4828b04e2e7eeec9e8c54247a64]**
+> **PART II — fees payable in relation to the grant or renewal of approvals of distributors[^c-4c06b4828b04e2e7eeec9e8c54247a64]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c06b4828b04e2e7eeec9e8c54247a64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c06b4828b04e2e7eeec9e8c54247a64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4c06b4828b04e2e7eeec9e8c54247a64]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/154) revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))
+[^c-4c06b4828b04e2e7eeec9e8c54247a64]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/154) revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))

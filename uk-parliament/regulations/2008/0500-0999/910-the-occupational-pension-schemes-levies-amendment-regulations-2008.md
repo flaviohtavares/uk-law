@@ -36,24 +36,24 @@ Coming into force
 
 31st March 2008
 
-[^key-ba7975582d6b7f1e9475dc638df1e010]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba7975582d6b7f1e9475dc638df1e010]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ba7975582d6b7f1e9475dc638df1e010][^key-ba7975582d6b7f1e9475dc638df1e010]
+## 1. Citation and commencement[^c-ba7975582d6b7f1e9475dc638df1e010][^c-ba7975582d6b7f1e9475dc638df1e010]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Occupational Pension Schemes (Levies) Regulations 2005[^key-ba7975582d6b7f1e9475dc638df1e010][^key-ba7975582d6b7f1e9475dc638df1e010]
+## 2. Amendment of the Occupational Pension Schemes (Levies) Regulations 2005[^c-ba7975582d6b7f1e9475dc638df1e010][^c-ba7975582d6b7f1e9475dc638df1e010]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ba7975582d6b7f1e9475dc638df1e010]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba7975582d6b7f1e9475dc638df1e010]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ba7975582d6b7f1e9475dc638df1e010]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ba7975582d6b7f1e9475dc638df1e010]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ba7975582d6b7f1e9475dc638df1e010]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2008/910) revoked (1.4.2015) by [The Occupational Pension Schemes (Levies) (Amendment) Regulations 2015 (S.I. 2015/84)](https://www.legislation.gov.uk/uksi/2015/84), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/84/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/84/regulation/2/2/b)
+[^c-ba7975582d6b7f1e9475dc638df1e010]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2008/910) revoked (1.4.2015) by [The Occupational Pension Schemes (Levies) (Amendment) Regulations 2015 (S.I. 2015/84)](https://www.legislation.gov.uk/uksi/2015/84), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/84/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/84/regulation/2/2/b)

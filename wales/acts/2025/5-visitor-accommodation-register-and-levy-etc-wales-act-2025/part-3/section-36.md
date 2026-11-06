@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Duty to make levy return in respect of accounting period[^key-4c539d43f78738913ff66b70bb1c2672]
+## 36. Duty to make levy return in respect of accounting period[^c-4c539d43f78738913ff66b70bb1c2672]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c539d43f78738913ff66b70bb1c2672]: Commencement: S. 36 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-4c539d43f78738913ff66b70bb1c2672]: Commencement: S. 36 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

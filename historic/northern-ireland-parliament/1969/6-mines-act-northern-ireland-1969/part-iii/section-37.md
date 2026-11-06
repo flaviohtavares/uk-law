@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Transport rules.[^key-7e92650338bcfab227679e52983a42bb]
+## 37. Transport rules.[^c-7e92650338bcfab227679e52983a42bb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e92650338bcfab227679e52983a42bb]: Textual amendment: [S. 37](https://www.legislation.gov.uk/apni/1969/6/section/37) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-7e92650338bcfab227679e52983a42bb]: Textual amendment: [S. 37](https://www.legislation.gov.uk/apni/1969/6/section/37) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

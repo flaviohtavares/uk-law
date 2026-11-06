@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. TV licensing: alternatives to criminal sanctions[^key-79231a6c9a23054f2ee37bbc271914af]
+## 78. TV licensing: alternatives to criminal sanctions[^c-79231a6c9a23054f2ee37bbc271914af]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,4 +79,4 @@ and any such provision may be made by repealing, revoking or otherwise amending 
 
 ## Annotations
 
-[^key-79231a6c9a23054f2ee37bbc271914af]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2015/20/section/78) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(l)](https://www.legislation.gov.uk/uksi/2015/994/article/6/l)
+[^c-79231a6c9a23054f2ee37bbc271914af]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2015/20/section/78) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(l)](https://www.legislation.gov.uk/uksi/2015/994/article/6/l)

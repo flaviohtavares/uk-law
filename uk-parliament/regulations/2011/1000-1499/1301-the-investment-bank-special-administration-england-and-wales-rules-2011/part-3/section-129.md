@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 129. Proxy holder with financial interest[^key-6ebd0ad8c8f0c63271ecd3c344b732ed]
+## 129. Proxy holder with financial interest[^c-6ebd0ad8c8f0c63271ecd3c344b732ed]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ebd0ad8c8f0c63271ecd3c344b732ed]: Commencement: [Rule 129](https://www.legislation.gov.uk/uksi/2011/1301/rule/129) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-6ebd0ad8c8f0c63271ecd3c344b732ed]: Commencement: [Rule 129](https://www.legislation.gov.uk/uksi/2011/1301/rule/129) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

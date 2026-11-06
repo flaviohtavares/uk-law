@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Powers of High Court on referral[^key-e437d2ef986aba97ab38c494a5334902]
+## 43. Powers of High Court on referral[^c-e437d2ef986aba97ab38c494a5334902]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e437d2ef986aba97ab38c494a5334902]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2026/2/section/43) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-e437d2ef986aba97ab38c494a5334902]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2026/2/section/43) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

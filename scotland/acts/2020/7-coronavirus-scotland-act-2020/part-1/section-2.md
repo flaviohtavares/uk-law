@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Eviction from dwelling-houses[^key-bb80034a422641f43348597ae4403700]
+## 2. Eviction from dwelling-houses[^c-bb80034a422641f43348597ae4403700]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb80034a422641f43348597ae4403700]: Textual amendment: [S. 2](https://www.legislation.gov.uk/asp/2020/7/section/2) expires (1.10.2022) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/7/section/12/1)
+[^c-bb80034a422641f43348597ae4403700]: Textual amendment: [S. 2](https://www.legislation.gov.uk/asp/2020/7/section/2) expires (1.10.2022) by [Coronavirus (Scotland) Act 2020 (asp 7)](https://www.legislation.gov.uk/asp/2020/7), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/7/section/12/1)

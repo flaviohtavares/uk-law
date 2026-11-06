@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12A. Spatial development strategy to be produced by strategic planning authorities[^key-7d6fc29b9587be7529b03bdeead25eaf]
+## 12A. Spatial development strategy to be produced by strategic planning authorities[^c-7d6fc29b9587be7529b03bdeead25eaf]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (3) But a principal authority that is a constituent authority of a strategic planning board is not a strategic planning authority for the purposes of this Part.
 
-(3A)[^key-2c4a135195fa396db24aba7d65b09794] Where there is a mayor for the area of a combined authority or combined county authority, the functions of the authority under this Part as a strategic planning authority are functions of the authority exercisable only by the mayor on behalf of the authority.
+(3A)[^c-2c4a135195fa396db24aba7d65b09794] Where there is a mayor for the area of a combined authority or combined county authority, the functions of the authority under this Part as a strategic planning authority are functions of the authority exercisable only by the mayor on behalf of the authority.
 
 (4) In this Part “**strategy area**”, in relation to a spatial development strategy, means—
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d6fc29b9587be7529b03bdeead25eaf]: Textual amendment: Pt. 1A inserted (18.12.2025 for the purposes of making regulations, otherwise prosp.) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 58(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/58/1), [118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-7d6fc29b9587be7529b03bdeead25eaf]: Textual amendment: Pt. 1A inserted (18.12.2025 for the purposes of making regulations, otherwise prosp.) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 58(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/58/1), [118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
 
-[^key-2c4a135195fa396db24aba7d65b09794]: Textual amendment: S. 12A(3A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/2/paragraph/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-2c4a135195fa396db24aba7d65b09794]: Textual amendment: S. 12A(3A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/2/paragraph/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

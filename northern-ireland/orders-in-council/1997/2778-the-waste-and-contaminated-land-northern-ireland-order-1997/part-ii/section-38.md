@@ -31,7 +31,7 @@ summary: ''
 (3) Regulations may provide that a person shall not be required for the purposes of this Article to be a registered carrier of controlled waste if—
 
 - (a) he is a prescribed person or a person of such a description as may be prescribed; or
-- (b) without prejudice to sub-paragraph (a), he is a person in relation to whom the prescribed requirements under the law of any part of the United Kingdom or any EU[^key-eb5ed71e616183c9eb4fd374c98f2cea] member State are satisfied.
+- (b) without prejudice to sub-paragraph (a), he is a person in relation to whom the prescribed requirements under the law of any part of the United Kingdom or any EU[^c-eb5ed71e616183c9eb4fd374c98f2cea] member State are satisfied.
 
 (4) In proceedings against any person for an offence under this Article in respect of the transport of any controlled waste it shall be a defence for that person to show—
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-eb5ed71e616183c9eb4fd374c98f2cea]: Textual amendment: Words in [art. 38(3)(b)](https://www.legislation.gov.uk/nisi/1997/2778/article/38/3/b) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/584/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb5ed71e616183c9eb4fd374c98f2cea]: Textual amendment: Words in [art. 38(3)(b)](https://www.legislation.gov.uk/nisi/1997/2778/article/38/3/b) substituted (31.12.2020) by [The Environment (Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/584)](https://www.legislation.gov.uk/uksi/2019/584), [regs. 1](https://www.legislation.gov.uk/uksi/2019/584/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/584/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20500401]: Textual amendment: Word in art. 38(4)(a) inserted (25.6.2007) by [Waste (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/611 (N.I. 3))](https://www.legislation.gov.uk/nisi/2007/611), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/611/article/1/3), [13(1)(a)](https://www.legislation.gov.uk/nisi/2007/611/article/13/1/a) (with [art. 13(2)](https://www.legislation.gov.uk/nisi/2007/611/article/13/2)); [S.R. 2007/294](https://www.legislation.gov.uk/nisr/2007/294), [art. 2](https://www.legislation.gov.uk/nisr/2007/294/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/294/schedule)
 

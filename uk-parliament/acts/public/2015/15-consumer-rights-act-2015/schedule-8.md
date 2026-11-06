@@ -24,13 +24,13 @@ Section 81
 
 ### PART 1 — Competition Act 1998
 
-**1.**[^key-c57c9037d79e693c69aa3ba9a0809d17] The Competition Act 1998 is amended in accordance with this Part.
+**1.**[^c-c57c9037d79e693c69aa3ba9a0809d17] The Competition Act 1998 is amended in accordance with this Part.
 
-**2.**[^key-06dcf4bd240a68af41a66cc46feff478] For the heading of Chapter 4 of Part 1, substitute “ Appeals, proceedings before the Tribunal and settlements relating to infringements of competition law ”.
+**2.**[^c-06dcf4bd240a68af41a66cc46feff478] For the heading of Chapter 4 of Part 1, substitute “ Appeals, proceedings before the Tribunal and settlements relating to infringements of competition law ”.
 
-**3.**[^key-4b2f523dd095f222f67c8025349787de] For the cross-heading preceding section 46, substitute “ Appeals and proceedings before the Tribunal ”.
+**3.**[^c-4b2f523dd095f222f67c8025349787de] For the cross-heading preceding section 46, substitute “ Appeals and proceedings before the Tribunal ”.
 
-**4.**[^key-dd8c242f35c9c536ea64023253dce5f4] (1) For section 47A substitute—
+**4.**[^c-dd8c242f35c9c536ea64023253dce5f4] (1) For section 47A substitute—
 
 > **47A. Proceedings before the Tribunal: claims for damages etc.**
 >
@@ -61,7 +61,7 @@ Section 81
 
 (2) Section 47A of the Competition Act 1998 (as substituted by sub-paragraph (1)) applies to claims arising before the commencement of this paragraph as it applies to claims arising after that time.
 
-**5.**[^key-d57763f0bcd2fff567f97906ba50ea7f] (1) For section 47B substitute—
+**5.**[^c-d57763f0bcd2fff567f97906ba50ea7f] (1) For section 47B substitute—
 
 > **47B. Collective proceedings before the Tribunal**
 >
@@ -114,7 +114,7 @@ Section 81
 
 (2) Section 47B of the Competition Act 1998 (as substituted by sub-paragraph (1)) applies to claims arising before the commencement of this paragraph as it applies to claims arising after that time.
 
-**6.**[^key-9cc54cc271057ce2931d6117f9e6ddb2] After section 47B (as substituted by paragraph 5) insert—
+**6.**[^c-9cc54cc271057ce2931d6117f9e6ddb2] After section 47B (as substituted by paragraph 5) insert—
 
 > **47C. Collective proceedings: damages and costs**
 >
@@ -143,7 +143,7 @@ Section 81
 > - (b) “damages” (except in the term “exemplary damages”) includes any sum of money which may be awarded by the Tribunal in collective proceedings (other than costs or expenses);
 > - (c) “**damages-based agreement**” has the meaning given in section 58AA(3) of the Courts and Legal Services Act 1990.
 
-**7.**[^key-584f8f67f106b5db8deaf2ec17a6eae9] After section 47C (inserted by paragraph 6) insert—
+**7.**[^c-584f8f67f106b5db8deaf2ec17a6eae9] After section 47C (inserted by paragraph 6) insert—
 
 > **47D. Proceedings under section 47A or collective proceedings: injunctions etc.**
 >
@@ -159,7 +159,7 @@ Section 81
 >
 > (3) Subsection (2) is subject to Tribunal rules which make provision of the kind mentioned in paragraph 15A(3) of Schedule 4 to the Enterprise Act 2002 (undertakings as to damages in relation to claims subject to the fast-track procedure).
 
-**8.**[^key-80d5e9cfa7923a2e940750f15644d59a] (1) After section 47D (inserted by paragraph 7) insert—
+**8.**[^c-80d5e9cfa7923a2e940750f15644d59a] (1) After section 47D (inserted by paragraph 7) insert—
 
 > **47E. Limitation or prescriptive periods for proceedings under section 47A and collective proceedings**
 >
@@ -199,7 +199,7 @@ Section 81
 
 (2) Section 47E of the Competition Act 1998 does not apply in relation to claims arising before the commencement of this paragraph.
 
-**9.**[^key-6b3d57eeb31c449c931f60a23bff7267] (1) Section 49 (further appeals) is amended in accordance with this paragraph.
+**9.**[^c-6b3d57eeb31c449c931f60a23bff7267] (1) Section 49 (further appeals) is amended in accordance with this paragraph.
 
 (2) In subsection (1)—
 
@@ -228,7 +228,7 @@ Section 81
 
 > (2A) An appeal from a decision of the Tribunal in respect of a claim included in collective proceedings may be brought only by the representative in those proceedings or by a defendant to that claim.
 
-**10.**[^key-3dd27fb503d1f2e47ddd0bdd612f8642] (1) After section 49 insert—
+**10.**[^c-3dd27fb503d1f2e47ddd0bdd612f8642] (1) After section 49 insert—
 
 > **Settlements relating to infringements of competition law**
 >
@@ -272,7 +272,7 @@ Section 81
 
 (2) Section 49A of the Competition Act 1998 applies to claims arising before the commencement of this paragraph as it applies to claims arising after that time.
 
-**11.**[^key-daef2320b6211e9ee113fcde634eea4f] (1) After section 49A (inserted by paragraph 10) insert—
+**11.**[^c-daef2320b6211e9ee113fcde634eea4f] (1) After section 49A (inserted by paragraph 10) insert—
 
 > **49B. Collective settlements: where a collective proceedings order has not been made**
 >
@@ -318,7 +318,7 @@ Section 81
 
 (2) Section 49B of the Competition Act 1998 applies to claims arising before the commencement of this paragraph as it applies to claims arising after that time.
 
-**12.**[^key-d8fd6a1e7833c13edac5c51197600863][^key-b405f93d8cc0397cadbc7fc9466d12c4] After section 49B (inserted by paragraph 11) insert—
+**12.**[^c-d8fd6a1e7833c13edac5c51197600863][^c-b405f93d8cc0397cadbc7fc9466d12c4] After section 49B (inserted by paragraph 11) insert—
 
 > **49C. Approval of redress schemes by the CMA**
 >
@@ -413,7 +413,7 @@ Section 81
 > - (b) in Northern Ireland, the High Court or a county court,
 > - (c) in Scotland, the Court of Session or the sheriff.
 
-**13.**[^key-d776b8751339c564f967d1d1f2f0ccc8] (1) Section 58 (findings of fact by CMA) is amended in accordance with this paragraph.
+**13.**[^c-d776b8751339c564f967d1d1f2f0ccc8] (1) Section 58 (findings of fact by CMA) is amended in accordance with this paragraph.
 
 (2) In subsection (1), after “the court” insert “ or the Tribunal ”.
 
@@ -438,7 +438,7 @@ Section 81
 > - (a) in England and Wales or Northern Ireland, the High Court,
 > - (b) in Scotland, the Court of Session or the sheriff.
 
-**14.**[^key-c2c312c9ed9b6f0cc6731e959bc419b4] (1) For section 58A substitute—
+**14.**[^c-c2c312c9ed9b6f0cc6731e959bc419b4] (1) For section 58A substitute—
 
 > **58A. Infringement decisions**
 >
@@ -478,7 +478,7 @@ Section 81
 
 (2) Section 58A of the Competition Act 1998 (as substituted by sub-paragraph (1)) does not apply in relation to decisions made before the commencement of this paragraph.
 
-**15.**[^key-d4c1f8d331dccc7725dd3cbb8f969605] (1) Section 59 (interpretation of Part 1) is amended in accordance with this paragraph.
+**15.**[^c-d4c1f8d331dccc7725dd3cbb8f969605] (1) Section 59 (interpretation of Part 1) is amended in accordance with this paragraph.
 
 (2) In subsection (1), at the appropriate places insert—
 
@@ -530,13 +530,13 @@ Section 81
 >
 > (1B) Sections 41, 42, 45 and 46 of the Civil Jurisdiction and Judgments Act 1982 apply for the purpose of determining whether a person is regarded as “**domiciled in the United Kingdom**” for the purposes of this Part.
 
-**16.**[^key-a3cfcd4bac2bbdc84d0162afd38c9af9] In section 71 (regulations, orders and rules), after subsection (4)(ca) insert—
+**16.**[^c-a3cfcd4bac2bbdc84d0162afd38c9af9] In section 71 (regulations, orders and rules), after subsection (4)(ca) insert—
 
 > - (cb) section 47C(7),
 
 .
 
-**17.**[^key-fa95c7a24373950807ea063cee085f10] (1) Schedule 8 (appeals) is amended in accordance with this paragraph.
+**17.**[^c-fa95c7a24373950807ea063cee085f10] (1) Schedule 8 (appeals) is amended in accordance with this paragraph.
 
 (2) In paragraph 2(1), for “46 or 47” substitute “ 46, 47 or 49D(3) ”.
 
@@ -557,9 +557,9 @@ Section 81
 
 ### PART 2 — Enterprise Act 2002
 
-**18.**[^key-90bff3b4d9c62ad4ff02b6f070d1572c][^key-983e4dd7a0533d06d0ff634a240d3af8] The Enterprise Act 2002 is amended in accordance with this Part.
+**18.**[^c-90bff3b4d9c62ad4ff02b6f070d1572c][^c-983e4dd7a0533d06d0ff634a240d3af8] The Enterprise Act 2002 is amended in accordance with this Part.
 
-**19.**[^key-9f23a264312b5eab8a9027216684283e] (1) Section 14 (constitution of Tribunal for particular proceedings and its decisions) is amended as follows.
+**19.**[^c-9f23a264312b5eab8a9027216684283e] (1) Section 14 (constitution of Tribunal for particular proceedings and its decisions) is amended as follows.
 
 (2) In subsection (1), after “before it” insert “ , including proceedings relating to the approval of a collective settlement under section 49A or 49B of the 1998 Act, ”.
 
@@ -567,20 +567,20 @@ Section 81
 
 > (1A) But in the case of proceedings relating to a claim under section 47A of the 1998 Act which is subject to the fast-track procedure (as described in Tribunal rules), the Tribunal may consist of a chairman only.
 
-**20.**[^key-e9450c1aec9cdbe821869e648d1de1d6][^key-b190495b8ecfeecbaf6f4e48f2101952] In section 15 (Tribunal rules), in subsection (1), at the end insert “ , including proceedings relating to the approval of a collective settlement under section 49A or 49B of the 1998 Act. ”
+**20.**[^c-e9450c1aec9cdbe821869e648d1de1d6][^c-b190495b8ecfeecbaf6f4e48f2101952] In section 15 (Tribunal rules), in subsection (1), at the end insert “ , including proceedings relating to the approval of a collective settlement under section 49A or 49B of the 1998 Act. ”
 
-**21.**[^key-ca6a200f22f923d839bea1fab4f8b72d][^key-de1b51295a020b03c70b35f8fbe18dd1] In section 16 (transfers of certain proceedings to and from Tribunal), in subsection (5), for “High Court or the Court of Session of” substitute “ court of all or any part of ”.
+**21.**[^c-ca6a200f22f923d839bea1fab4f8b72d][^c-de1b51295a020b03c70b35f8fbe18dd1] In section 16 (transfers of certain proceedings to and from Tribunal), in subsection (5), for “High Court or the Court of Session of” substitute “ court of all or any part of ”.
 
-**22.**[^key-006c8cc8718c66a4f7c3b9a2b7e907d0][^key-c23a76ee4ea2c22250fbd95e1987ad2e] Schedule 4 (Tribunal: procedure) is amended in accordance with the following paragraphs of this Part.
+**22.**[^c-006c8cc8718c66a4f7c3b9a2b7e907d0][^c-c23a76ee4ea2c22250fbd95e1987ad2e] Schedule 4 (Tribunal: procedure) is amended in accordance with the following paragraphs of this Part.
 
-**23.**[^key-beaef75c314a5987d0cb40f10ddc45df] In paragraph 1 (decisions of the Tribunal), for sub-paragraph (1)(a) substitute—
+**23.**[^c-beaef75c314a5987d0cb40f10ddc45df] In paragraph 1 (decisions of the Tribunal), for sub-paragraph (1)(a) substitute—
 
 > - (a) state the reasons for the decision;
 > - (aa) state whether the decision was unanimous or taken by a majority or, where proceedings are heard by a chairman only, state that fact;
 
 .
 
-**24.**[^key-42b094c039e413aa527463c7801de4cc] After paragraph 1 insert—
+**24.**[^c-42b094c039e413aa527463c7801de4cc] After paragraph 1 insert—
 
 > **Enforcement of injunctions in England and Wales and Northern Ireland**
 >
@@ -590,12 +590,12 @@ Section 81
 >
 > (3) If, after hearing any witnesses who may be produced against or on behalf of A, and any statement made by or on behalf of A, the High Court is satisfied that A would have been in contempt of court if the injunction had been granted by the High Court, the High Court may deal with A as if A were in contempt.
 
-**25.**[^key-f97f7856ccd889dbd0e091e049010507] In each of paragraphs 4(c) and 5(1)(c)—
+**25.**[^c-f97f7856ccd889dbd0e091e049010507] In each of paragraphs 4(c) and 5(1)(c)—
 
 - (a) for “47B(6)” substitute “ 47C(3) or (4) ”; and
 - (b) for “specified body concerned” substitute “ representative in the proceedings under section 47B of that Act ”.
 
-**26.**[^key-94858dfda3346e184cba40ed8a1b8cbc] In paragraph 6—
+**26.**[^c-94858dfda3346e184cba40ed8a1b8cbc] In paragraph 6—
 
 - (a) for sub-paragraph (a) substitute—
 
@@ -607,25 +607,25 @@ Section 81
   - (ii) for “his behalf” substitute “ behalf of that person ”; and
 - (c) in the full-out words at the end, for “individual” substitute “ person ”.
 
-**27.**[^key-ec1d5330f5f9c4087a6c063ab4a14f3f] In paragraph 7—
+**27.**[^c-ec1d5330f5f9c4087a6c063ab4a14f3f] In paragraph 7—
 
 - (a) for “specified body” substitute “ representative ”; and
 - (b) for “individual” substitute “ person ”.
 
-**28.**[^key-d1051115a1e484db28e4ef7c16c3487d][^key-358254632ae8e8ebef03eeb77a693ac1] In paragraph 9—
+**28.**[^c-d1051115a1e484db28e4ef7c16c3487d][^c-358254632ae8e8ebef03eeb77a693ac1] In paragraph 9—
 
 - (a) the existing provision is numbered as sub-paragraph (1), and
 - (b) after that provision insert—
 
   > (2) In this Schedule, where a paragraph is capable of applying to proceedings relating to the approval of a collective settlement under section 49A or 49B of the 1998 Act, any reference in that paragraph to “**proceedings**” includes a reference to those proceedings.
 
-**29.**[^key-3f9552bf59bfcd053fc24e358474f9aa][^key-5c35c9cb7496c1b6d4e21bcbc41d3a4f] In paragraph 11(2), for paragraph (a) substitute—
+**29.**[^c-3f9552bf59bfcd053fc24e358474f9aa][^c-5c35c9cb7496c1b6d4e21bcbc41d3a4f] In paragraph 11(2), for paragraph (a) substitute—
 
 > - (a) make further provision as to procedural aspects of the operation of the limitation or prescriptive periods in relation to claims which may be made in proceedings under section 47A of the 1998 Act, as set out in section 47E(3) to (6) of that Act;
 
 .
 
-**30.**[^key-0e82afdf79376ec08d6bbcc64f3b85d3][^key-030cdcdc23ba1212e8fd133dcb73da09] For paragraph 13 substitute—
+**30.**[^c-0e82afdf79376ec08d6bbcc64f3b85d3][^c-030cdcdc23ba1212e8fd133dcb73da09] For paragraph 13 substitute—
 
 > **13.** (1) Tribunal rules may provide for the Tribunal—
 >
@@ -639,7 +639,7 @@ Section 81
 >
 > (2) In this paragraph, “**a section 47B claim**” means a claim made in proceedings under section 47B of the 1998 Act at the commencement of those proceedings.
 
-**31.**[^key-89acdfb5e904354af398aadc7b0f83fc][^key-ec87675d4a95ae1c01cdd3501d34358c] After paragraph 15 insert—
+**31.**[^c-89acdfb5e904354af398aadc7b0f83fc][^c-ec87675d4a95ae1c01cdd3501d34358c] After paragraph 15 insert—
 
 > **Fast-track procedure**
 >
@@ -685,9 +685,9 @@ Section 81
 > - (g) the procedure by which a person may opt in or opt out of a collective settlement;
 > - (h) the payment of compensation under a collective settlement, including the procedure for publicising a compensation award.
 
-**32.**[^key-36f4bbcaecbfbfd4042826379c24346b][^key-e92af82f2513343a8538ffae677b39a9] In paragraph 17 (conduct of the hearing)—
+**32.**[^c-36f4bbcaecbfbfd4042826379c24346b][^c-e92af82f2513343a8538ffae677b39a9] In paragraph 17 (conduct of the hearing)—
 
-- (a)[^key-a1ab0ef4ade3e64f275c1e04352cf2de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a1ab0ef4ade3e64f275c1e04352cf2de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in sub-paragraph (2)—
   - (i) for “an individual” substitute “ a person ”; and
   - (ii) for “that individual” substitute “ that person ”;
@@ -698,7 +698,7 @@ Section 81
   ; and
 - (d) in sub-paragraph (3), for “an individual” substitute “ a person ”.
 
-**33.**[^key-5788ea9a0129363b4d9a88318dc371d3][^key-7cb3c3bfdad0e6684932325a0be61821] After paragraph 20 insert—
+**33.**[^c-5788ea9a0129363b4d9a88318dc371d3][^c-7cb3c3bfdad0e6684932325a0be61821] After paragraph 20 insert—
 
 > **Stay or sist of proceedings**
 >
@@ -716,122 +716,122 @@ Section 81
 >
 > (3) Rules under sub-paragraph (1) or (2) may in particular make provision in relation to the stay or sist of proceedings under section 47A or 47B which relate to a claim in respect of an infringement decision (as defined in section 47A(6)) which has not become final (see section 58A of the 1998 Act).
 
-**34.**[^key-227969d200665eb99d76e4d22924fc44][^key-267188cec34e8b0a578a4552a7638669] After paragraph 21 insert—
+**34.**[^c-227969d200665eb99d76e4d22924fc44][^c-267188cec34e8b0a578a4552a7638669] After paragraph 21 insert—
 
 > **Injunctions**
 >
 > **21A.** Tribunal rules may make provision in relation to the grant of injunctions (including interim injunctions) in proceedings under section 47A or 47B of the 1998 Act.
 
-**35.**[^key-2eaac85cdd34369b35ae582f0667ea4b][^key-c51d496cd0f739cf5e2435141b74861e] In paragraph 23(3), for “an individual” substitute “ a person ”.
+**35.**[^c-2eaac85cdd34369b35ae582f0667ea4b][^c-c51d496cd0f739cf5e2435141b74861e] In paragraph 23(3), for “an individual” substitute “ a person ”.
 
-**36.**[^key-188baa890e7030741e8bfd75d5e03a88] In paragraph 25, after “transfer of” insert “ all or any part of ”.
+**36.**[^c-188baa890e7030741e8bfd75d5e03a88] In paragraph 25, after “transfer of” insert “ all or any part of ”.
 
 ### PART 3 — Courts and Legal Services Act 1990
 
-**37.**[^key-5db1b8d40d5e7dc0f477690bd14dd746] In the Courts and Legal Services Act 1990, in section 58AA (damages-based agreements), after subsection (10) insert—
+**37.**[^c-5db1b8d40d5e7dc0f477690bd14dd746] In the Courts and Legal Services Act 1990, in section 58AA (damages-based agreements), after subsection (10) insert—
 
 > (11) Subsection (1) is subject to section 47C(8) of the Competition Act 1998.
 
 ## Annotations
 
-[^key-c57c9037d79e693c69aa3ba9a0809d17]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/1) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-c57c9037d79e693c69aa3ba9a0809d17]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/1) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-06dcf4bd240a68af41a66cc46feff478]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/2) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-06dcf4bd240a68af41a66cc46feff478]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/2) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-4b2f523dd095f222f67c8025349787de]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/3) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-4b2f523dd095f222f67c8025349787de]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/3) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-dd8c242f35c9c536ea64023253dce5f4]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/4) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-dd8c242f35c9c536ea64023253dce5f4]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/4) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-d57763f0bcd2fff567f97906ba50ea7f]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-d57763f0bcd2fff567f97906ba50ea7f]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/5) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-9cc54cc271057ce2931d6117f9e6ddb2]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/6) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-9cc54cc271057ce2931d6117f9e6ddb2]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/6) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-584f8f67f106b5db8deaf2ec17a6eae9]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/7) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-584f8f67f106b5db8deaf2ec17a6eae9]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/7) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-80d5e9cfa7923a2e940750f15644d59a]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/8) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-80d5e9cfa7923a2e940750f15644d59a]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/8) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-6b3d57eeb31c449c931f60a23bff7267]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/9) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-6b3d57eeb31c449c931f60a23bff7267]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/9) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-3dd27fb503d1f2e47ddd0bdd612f8642]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/10) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-3dd27fb503d1f2e47ddd0bdd612f8642]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/10) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-daef2320b6211e9ee113fcde634eea4f]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/11) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-daef2320b6211e9ee113fcde634eea4f]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/11) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-d8fd6a1e7833c13edac5c51197600863]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/12) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/a)
+[^c-d8fd6a1e7833c13edac5c51197600863]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/12) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/a)
 
-[^key-b405f93d8cc0397cadbc7fc9466d12c4]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/12) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-b405f93d8cc0397cadbc7fc9466d12c4]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/12) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-d776b8751339c564f967d1d1f2f0ccc8]: Commencement: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/13) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-d776b8751339c564f967d1d1f2f0ccc8]: Commencement: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/13) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-c2c312c9ed9b6f0cc6731e959bc419b4]: Commencement: [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/14) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-c2c312c9ed9b6f0cc6731e959bc419b4]: Commencement: [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/14) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-d4c1f8d331dccc7725dd3cbb8f969605]: Commencement: [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/15) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-d4c1f8d331dccc7725dd3cbb8f969605]: Commencement: [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/15) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-a3cfcd4bac2bbdc84d0162afd38c9af9]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/16) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-a3cfcd4bac2bbdc84d0162afd38c9af9]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/16) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-fa95c7a24373950807ea063cee085f10]: Commencement: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/17) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-fa95c7a24373950807ea063cee085f10]: Commencement: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/17) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-90bff3b4d9c62ad4ff02b6f070d1572c]: Commencement: [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/18) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/b)
+[^c-90bff3b4d9c62ad4ff02b6f070d1572c]: Commencement: [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/18) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(b)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/b)
 
-[^key-983e4dd7a0533d06d0ff634a240d3af8]: Commencement: [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/18) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-983e4dd7a0533d06d0ff634a240d3af8]: Commencement: [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/18) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-9f23a264312b5eab8a9027216684283e]: Commencement: [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/19) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-9f23a264312b5eab8a9027216684283e]: Commencement: [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/19) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-e9450c1aec9cdbe821869e648d1de1d6]: Commencement: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/20) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/c)
+[^c-e9450c1aec9cdbe821869e648d1de1d6]: Commencement: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/20) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/c)
 
-[^key-b190495b8ecfeecbaf6f4e48f2101952]: Commencement: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/20) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-b190495b8ecfeecbaf6f4e48f2101952]: Commencement: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/20) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-ca6a200f22f923d839bea1fab4f8b72d]: Commencement: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/21) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/c)
+[^c-ca6a200f22f923d839bea1fab4f8b72d]: Commencement: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/21) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/c)
 
-[^key-de1b51295a020b03c70b35f8fbe18dd1]: Commencement: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/21) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-de1b51295a020b03c70b35f8fbe18dd1]: Commencement: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/21) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-006c8cc8718c66a4f7c3b9a2b7e907d0]: Commencement: [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/22) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/c)
+[^c-006c8cc8718c66a4f7c3b9a2b7e907d0]: Commencement: [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/22) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(c)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/c)
 
-[^key-c23a76ee4ea2c22250fbd95e1987ad2e]: Commencement: [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/22) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-c23a76ee4ea2c22250fbd95e1987ad2e]: Commencement: [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/22) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-beaef75c314a5987d0cb40f10ddc45df]: Commencement: [Sch. 8 para. 23](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/23) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-beaef75c314a5987d0cb40f10ddc45df]: Commencement: [Sch. 8 para. 23](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/23) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-42b094c039e413aa527463c7801de4cc]: Commencement: [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/24) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-42b094c039e413aa527463c7801de4cc]: Commencement: [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/24) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-f97f7856ccd889dbd0e091e049010507]: Commencement: [Sch. 8 para. 25](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/25) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-f97f7856ccd889dbd0e091e049010507]: Commencement: [Sch. 8 para. 25](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/25) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-94858dfda3346e184cba40ed8a1b8cbc]: Commencement: [Sch. 8 para. 26](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/26) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-94858dfda3346e184cba40ed8a1b8cbc]: Commencement: [Sch. 8 para. 26](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/26) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-ec1d5330f5f9c4087a6c063ab4a14f3f]: Commencement: [Sch. 8 para. 27](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/27) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-ec1d5330f5f9c4087a6c063ab4a14f3f]: Commencement: [Sch. 8 para. 27](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/27) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-d1051115a1e484db28e4ef7c16c3487d]: Commencement: [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/28) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
+[^c-d1051115a1e484db28e4ef7c16c3487d]: Commencement: [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/28) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
 
-[^key-358254632ae8e8ebef03eeb77a693ac1]: Commencement: [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/28) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-358254632ae8e8ebef03eeb77a693ac1]: Commencement: [Sch. 8 para. 28](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/28) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-3f9552bf59bfcd053fc24e358474f9aa]: Commencement: [Sch. 8 para. 29](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/29) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
+[^c-3f9552bf59bfcd053fc24e358474f9aa]: Commencement: [Sch. 8 para. 29](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/29) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
 
-[^key-5c35c9cb7496c1b6d4e21bcbc41d3a4f]: Commencement: [Sch. 8 para. 29](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/29) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-5c35c9cb7496c1b6d4e21bcbc41d3a4f]: Commencement: [Sch. 8 para. 29](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/29) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-0e82afdf79376ec08d6bbcc64f3b85d3]: Commencement: [Sch. 8 para. 30](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/30) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
+[^c-0e82afdf79376ec08d6bbcc64f3b85d3]: Commencement: [Sch. 8 para. 30](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/30) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
 
-[^key-030cdcdc23ba1212e8fd133dcb73da09]: Commencement: [Sch. 8 para. 30](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/30) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-030cdcdc23ba1212e8fd133dcb73da09]: Commencement: [Sch. 8 para. 30](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/30) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-89acdfb5e904354af398aadc7b0f83fc]: Commencement: [Sch. 8 para. 31](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/31) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
+[^c-89acdfb5e904354af398aadc7b0f83fc]: Commencement: [Sch. 8 para. 31](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/31) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
 
-[^key-ec87675d4a95ae1c01cdd3501d34358c]: Commencement: [Sch. 8 para. 31](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/31) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-ec87675d4a95ae1c01cdd3501d34358c]: Commencement: [Sch. 8 para. 31](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/31) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-36f4bbcaecbfbfd4042826379c24346b]: Commencement: [Sch. 8 para. 32](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/32) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
+[^c-36f4bbcaecbfbfd4042826379c24346b]: Commencement: [Sch. 8 para. 32](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/32) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
 
-[^key-e92af82f2513343a8538ffae677b39a9]: Commencement: [Sch. 8 para. 32](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/32) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-e92af82f2513343a8538ffae677b39a9]: Commencement: [Sch. 8 para. 32](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/32) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-a1ab0ef4ade3e64f275c1e04352cf2de]: Textual amendment: [Sch. 8 para. 32(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/32/a) omitted (28.6.2022) by virtue of [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 48(7)](https://www.legislation.gov.uk/ukpga/2022/35/section/48/7), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+[^c-a1ab0ef4ade3e64f275c1e04352cf2de]: Textual amendment: [Sch. 8 para. 32(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/32/a) omitted (28.6.2022) by virtue of [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 48(7)](https://www.legislation.gov.uk/ukpga/2022/35/section/48/7), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
 
-[^key-5788ea9a0129363b4d9a88318dc371d3]: Commencement: [Sch. 8 para. 33](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/33) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
+[^c-5788ea9a0129363b4d9a88318dc371d3]: Commencement: [Sch. 8 para. 33](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/33) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
 
-[^key-7cb3c3bfdad0e6684932325a0be61821]: Commencement: [Sch. 8 para. 33](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/33) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-7cb3c3bfdad0e6684932325a0be61821]: Commencement: [Sch. 8 para. 33](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/33) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-227969d200665eb99d76e4d22924fc44]: Commencement: [Sch. 8 para. 34](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/34) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
+[^c-227969d200665eb99d76e4d22924fc44]: Commencement: [Sch. 8 para. 34](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/34) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
 
-[^key-267188cec34e8b0a578a4552a7638669]: Commencement: [Sch. 8 para. 34](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/34) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-267188cec34e8b0a578a4552a7638669]: Commencement: [Sch. 8 para. 34](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/34) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-2eaac85cdd34369b35ae582f0667ea4b]: Commencement: [Sch. 8 para. 35](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/35) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
+[^c-2eaac85cdd34369b35ae582f0667ea4b]: Commencement: [Sch. 8 para. 35](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/35) in force at 3.8.2015 for specified purposes by [S.I. 2015/1584](https://www.legislation.gov.uk/uksi/2015/1584), [art. 3(d)](https://www.legislation.gov.uk/uksi/2015/1584/article/3/d)
 
-[^key-c51d496cd0f739cf5e2435141b74861e]: Commencement: [Sch. 8 para. 35](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/35) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-c51d496cd0f739cf5e2435141b74861e]: Commencement: [Sch. 8 para. 35](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/35) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-188baa890e7030741e8bfd75d5e03a88]: Commencement: [Sch. 8 para. 36](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/36) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-188baa890e7030741e8bfd75d5e03a88]: Commencement: [Sch. 8 para. 36](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/36) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
 
-[^key-5db1b8d40d5e7dc0f477690bd14dd746]: Commencement: [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/37) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)
+[^c-5db1b8d40d5e7dc0f477690bd14dd746]: Commencement: [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2015/15/schedule/8/paragraph/37) in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(j)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/j)

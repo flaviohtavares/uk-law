@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 171. Reduction of benefits where annual allowance charge paid by scheme manager[^key-3f5931a02e2999f9f449152aa75adde3]
+## 171. Reduction of benefits where annual allowance charge paid by scheme manager[^c-3f5931a02e2999f9f449152aa75adde3]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f5931a02e2999f9f449152aa75adde3]: Commencement: [Reg. 171](https://www.legislation.gov.uk/ssi/2015/19/regulation/171) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-3f5931a02e2999f9f449152aa75adde3]: Commencement: [Reg. 171](https://www.legislation.gov.uk/ssi/2015/19/regulation/171) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

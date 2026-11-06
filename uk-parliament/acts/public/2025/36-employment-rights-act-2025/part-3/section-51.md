@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Agency workers who are not otherwise “workers”[^key-c539abadc1329748020210857c1202fb][^key-4cc46879287bb63ab5dcd6fcf2e58998]
+## 51. Agency workers who are not otherwise “workers”[^c-c539abadc1329748020210857c1202fb][^c-4cc46879287bb63ab5dcd6fcf2e58998]
 
 *Extent: E+W+S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c539abadc1329748020210857c1202fb]: Commencement: S. 51 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-c539abadc1329748020210857c1202fb]: Commencement: S. 51 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-4cc46879287bb63ab5dcd6fcf2e58998]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2025/36/section/51) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(21)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/21)
+[^c-4cc46879287bb63ab5dcd6fcf2e58998]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2025/36/section/51) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(21)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/21)

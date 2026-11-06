@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 494. Grossing up of discretionary payment and payment of income tax[^key-d0e43128a803faf052eeb68ec1d03860]
+## 494. Grossing up of discretionary payment and payment of income tax[^c-d0e43128a803faf052eeb68ec1d03860]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0e43128a803faf052eeb68ec1d03860]: Modification: S. 494 excluded (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [12(4)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/12/4)
+[^c-d0e43128a803faf052eeb68ec1d03860]: Modification: S. 494 excluded (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [12(4)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/12/4)

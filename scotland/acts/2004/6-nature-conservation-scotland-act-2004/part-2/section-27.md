@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Offences in relation to nature conservation orders[^key-32dfc7df9b31370b2e26f1c3a3129a1d]
+## 27. Offences in relation to nature conservation orders[^c-32dfc7df9b31370b2e26f1c3a3129a1d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32dfc7df9b31370b2e26f1c3a3129a1d]: Commencement: S. 27 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-32dfc7df9b31370b2e26f1c3a3129a1d]: Commencement: S. 27 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

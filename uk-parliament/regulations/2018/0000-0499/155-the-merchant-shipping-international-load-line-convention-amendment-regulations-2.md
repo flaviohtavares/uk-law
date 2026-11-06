@@ -46,13 +46,13 @@ Coming into force
 
 9th March 2018
 
-The Secretary of State, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], and in exercise of the powers conferred by section 85(1) to (1B), (3) and (5) to (7), section 86(1), section 302(1) and section 306A of that Act, and with the consent of the Treasury[^f00002], makes the following Regulations:[^key-6eefe82eee79e12696968bb79b631aca]
+The Secretary of State, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], and in exercise of the powers conferred by section 85(1) to (1B), (3) and (5) to (7), section 86(1), section 302(1) and section 306A of that Act, and with the consent of the Treasury[^f00002], makes the following Regulations:[^c-6eefe82eee79e12696968bb79b631aca]
 
-## 1. Citation and commencement[^key-daabd6c6f332382e261c7ac5c968c22e]
+## 1. Citation and commencement[^c-daabd6c6f332382e261c7ac5c968c22e]
 
 These Regulations may be cited as the Merchant Shipping (International Load Line Convention) (Amendment) Regulations 2018 and come into force on 9th March 2018.
 
-## 2. Interpretation[^key-6e1462b682cbd1ce13b13fa49bab8c22]
+## 2. Interpretation[^c-6e1462b682cbd1ce13b13fa49bab8c22]
 
 In these Regulations—
 
@@ -105,7 +105,7 @@ In these Regulations—
 - “sea” in the United Kingdom does not include Category A, B, C or D waters;
 - “valid” in the context of an International Load Line Certificate or an International Exemption Certificate means in force.
 
-## 3. Assigning Authorities[^key-0e1bdaaa2efaa295f8e3dca296333f61]
+## 3. Assigning Authorities[^c-0e1bdaaa2efaa295f8e3dca296333f61]
 
 (1) In these Regulations, “Assigning Authority” means the Secretary of State or any person authorised by the Secretary of State.
 
@@ -132,7 +132,7 @@ In these Regulations—
 
 (8) An Assigning Authority other than the Secretary of State is not to be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown and its property is not to be regarded as property of, or held on behalf of, the Crown.
 
-## 4. Application[^key-cec2206af98b78cf4c5e0d1ec9550883]
+## 4. Application[^c-cec2206af98b78cf4c5e0d1ec9550883]
 
 (1) Subject to paragraphs (2) and (4), these Regulations apply to—
 
@@ -161,7 +161,7 @@ In these Regulations—
 
 (7) Any amendment to the 1966 Convention which relates to the structure of a ship applies only to ships the keels of which are laid, or which are at a similar stage of construction, on or after the date on which the amendment comes into force.
 
-## 5. Ambulatory reference[^key-af62cded6d30fd82ce50755253fd8edc]
+## 5. Ambulatory reference[^c-af62cded6d30fd82ce50755253fd8edc]
 
 (1) In these Regulations, “Annex I”, “Annex II” and “Annex III” mean Annex I, Annex II and Annex III of the 1966 Convention and any reference to Annex I, Annex II or Annex III is to be construed—
 
@@ -179,7 +179,7 @@ In these Regulations—
 
 (5) This regulation does not apply to regulation 4(4) or (6).
 
-## 6. General compliance[^key-82831c647a1bafcadcae7d7ee9eb0990]
+## 6. General compliance[^c-82831c647a1bafcadcae7d7ee9eb0990]
 
 (1) Subject to paragraph (2), a ship must not proceed, or attempt to proceed, to sea unless—
 
@@ -195,7 +195,7 @@ In these Regulations—
 
 (4) In applying these Regulations, the Secretary of State must give due regard to any deviation or delay caused by any ship owing to stress of weather or any other cause of force majeure.
 
-## 7. Exemptions[^key-71f509ea35a38466fc4476e8a3b828f5]
+## 7. Exemptions[^c-71f509ea35a38466fc4476e8a3b828f5]
 
 (1) Subject to paragraph (2), the Secretary of State may exempt from any of the provisions of these Regulations—
 
@@ -209,7 +209,7 @@ In these Regulations—
 
 (3) Where an exemption is granted subject to safety requirements, the exemption ceases to have effect if those requirements are not complied with.
 
-## 8. Equivalents[^key-ae452617129e7f19dc911fc8341fa80a]
+## 8. Equivalents[^c-ae452617129e7f19dc911fc8341fa80a]
 
 (1) Subject to paragraph (2), an Assigning Authority may—
 
@@ -218,7 +218,7 @@ In these Regulations—
 
 (2) Where the Assigning Authority is not the Secretary of State, the Assigning Authority may allow an equivalent under paragraph (1) only with the approval of the Secretary of State.
 
-## 9. Repairs, alterations and modifications[^key-1cc99ea6b45f134743c66a4690bb6d3c]
+## 9. Repairs, alterations and modifications[^c-1cc99ea6b45f134743c66a4690bb6d3c]
 
 (1) A ship which undergoes repairs, alterations, modifications and any related outfitting must continue to comply with the requirements previously applicable to the ship.
 
@@ -229,11 +229,11 @@ In these Regulations—
 - (a) amended freeboards appropriate to the condition of the ship have been assigned, the ship has been marked with appropriate load lines and a new International Load Line Certificate has been issued to the owner of the ship; or
 - (b) the alteration has been inspected by an Assigning Authority and the Assigning Authority is satisfied that the alteration is not such as to require any change in the freeboards assigned to the ship, and full particulars of the alteration have been endorsed by the Assigning Authority on the record referred to in regulation 25.
 
-## 10. Zones and areas[^key-e56469321fcc46ae70116e050cea41c3]
+## 10. Zones and areas[^c-e56469321fcc46ae70116e050cea41c3]
 
 A ship must comply with the load line requirements applicable to it under these Regulations in the zones and areas described in Annex II.
 
-## 11. Submersion[^key-6cde4b8dba3283e29ec176271a877b61]
+## 11. Submersion[^c-6cde4b8dba3283e29ec176271a877b61]
 
 (1) Except as provided for in paragraphs (3) to (5), a ship must not be so loaded that the appropriate load lines on the sides of the ship—
 
@@ -248,7 +248,7 @@ A ship must comply with the load line requirements applicable to it under these 
 
 (5) When a ship departs from a port situated on a river or in Category A, B, C or D waters, deeper loading is permitted corresponding to the weight of fuel and all other materials required for consumption between the point of departure and the sea.
 
-## 12. Initial, renewal and annual surveys[^key-0e312403311d323a3eb620169bebb32f]
+## 12. Initial, renewal and annual surveys[^c-0e312403311d323a3eb620169bebb32f]
 
 (1) A United Kingdom ship must be subjected to—
 
@@ -262,15 +262,15 @@ A ship must comply with the load line requirements applicable to it under these 
 
 (2) After a satisfactory annual survey, the Assigning Authority must endorse the Convention certificate accordingly.
 
-## 13. Maintenance of conditions after survey[^key-1bed31313949524c49acf7f6e472dede]
+## 13. Maintenance of conditions after survey[^c-1bed31313949524c49acf7f6e472dede]
 
 The owner and master must ensure that after completion of any survey required under regulation 12, no material alteration is made to the ship, its structure, equipment, arrangements, material or scantlings covered by the survey without the approval of the Assigning Authority that issued the Convention certificate.
 
-## 14. Issue of Convention certificates[^key-a292a4769f5821a4b59b1a92fcfb7b19]
+## 14. Issue of Convention certificates[^c-a292a4769f5821a4b59b1a92fcfb7b19]
 
 Upon satisfactory completion of an initial or renewal survey to a United Kingdom ship, and upon payment of any appropriate fee, the Assigning Authority must issue a Convention certificate in respect of the ship.
 
-## 15. Issue or endorsement of International Load Line Certificates by another Government and on behalf of other Contracting Governments[^key-857fd852dd3a4033af5a4bc40ab47c70]
+## 15. Issue or endorsement of International Load Line Certificates by another Government and on behalf of other Contracting Governments[^c-857fd852dd3a4033af5a4bc40ab47c70]
 
 (1) The Secretary of State may request a Contracting Government—
 
@@ -297,11 +297,11 @@ Upon satisfactory completion of an initial or renewal survey to a United Kingdom
 - (a) is registered in a country whose government is not a Contracting Government, or
 - (b) is not registered, but is entitled to fly the flag of a country whose government is not a Contracting Government.
 
-## 16. Form of Convention certificates[^key-df7e187da2647a03c0d32b35bebdbc5e]
+## 16. Form of Convention certificates[^c-df7e187da2647a03c0d32b35bebdbc5e]
 
 A Convention certificate must be in the form prescribed by Annex III.
 
-## 17. Duration and validity of an International Load Line Certificate[^key-5e97831a5451589707330e081da4e8f5]
+## 17. Duration and validity of an International Load Line Certificate[^c-5e97831a5451589707330e081da4e8f5]
 
 (1) Subject to the following paragraphs and to regulation 18, the duration of an International Load Line Certificate is for such period as is specified in the certificate, not exceeding five years beginning with the date of completion of the initial or renewal survey.
 
@@ -311,7 +311,7 @@ A Convention certificate must be in the form prescribed by Annex III.
 
 (4) Subject to regulation 18(9), where a renewal survey is completed more than three months before the expiry of the existing certificate, the new certificate is valid for a period beginning with the date of completion of the renewal survey and ending on a date which does not exceed five years from the date of completion of that renewal survey.
 
-## 18. Extension of periods of validity of an International Load Line Certificate[^key-cf5ccb6504f084b520a6bdbf1e8bebfe]
+## 18. Extension of periods of validity of an International Load Line Certificate[^c-cf5ccb6504f084b520a6bdbf1e8bebfe]
 
 (1) If an International Load Line Certificate is issued for a period of less than five years, the Assigning Authority may extend the validity of the certificate beyond the expiry date to a period not exceeding five years beginning with the date of completion of the initial or renewal survey, provided that the annual surveys applicable when a certificate is issued for a period of five years are carried out as appropriate.
 
@@ -350,7 +350,7 @@ A Convention certificate must be in the form prescribed by Annex III.
 
 (12) In this regulation “short voyages” means voyages where neither the distance from the port in which a voyage begins and the final port of destination nor the return voyage exceeds 1,000 nautical miles[^f00011].
 
-## 19. Duration and validity of an International Load Line Exemption Certificate[^key-477b603bcfe82fcaf45ff1f03787a3d3]
+## 19. Duration and validity of an International Load Line Exemption Certificate[^c-477b603bcfe82fcaf45ff1f03787a3d3]
 
 (1) The duration of an International Load Line Exemption Certificate issued in respect of a ship to which regulation 7(1)(a) or 7(1)(b) applies, is for such period as specified in the certificate, not exceeding five years beginning with the date of completion of the initial survey or most recent renewal survey, as appropriate.
 
@@ -358,7 +358,7 @@ A Convention certificate must be in the form prescribed by Annex III.
 
 (3) Except for regulation 17(1), regulations 17 and 18 apply in relation to an International Load Line Exemption Certificate as they apply in relation to an International Load Line Certificate.
 
-## 20. Procedure to be adopted when a ship is deficient[^key-be3242eea50a7c4854d517a2091f931f]
+## 20. Procedure to be adopted when a ship is deficient[^c-be3242eea50a7c4854d517a2091f931f]
 
 (1) This regulation applies where an Assigning Authority determines that—
 
@@ -387,7 +387,7 @@ A Convention certificate must be in the form prescribed by Annex III.
 - (b) received in legible form, and
 - (c) capable of being used for subsequent reference.
 
-## 21. Cancellation of International Load Line Certificates and surrender of Convention certificates[^key-201de7e9ed371aa101fb0e9da146de7e]
+## 21. Cancellation of International Load Line Certificates and surrender of Convention certificates[^c-201de7e9ed371aa101fb0e9da146de7e]
 
 (1) The Secretary of State may cancel an International Load Line Certificate issued in respect of a United Kingdom ship where the Secretary of State is satisfied that—
 
@@ -409,13 +409,13 @@ A Convention certificate must be in the form prescribed by Annex III.
 - (b) received in legible form, and
 - (c) capable of being used for subsequent reference.
 
-## 22. Acceptance of Convention certificates[^key-bb78eaab93ecdee1df6fd51ad748d452]
+## 22. Acceptance of Convention certificates[^c-bb78eaab93ecdee1df6fd51ad748d452]
 
 (1) The Secretary of State must accept a valid Convention certificate issued by a Contracting Government (other than the United Kingdom) in respect of a non-United Kingdom ship.
 
 (2) The Secretary of State must accept a valid Convention certificate issued in respect of a United Kingdom ship by another Contracting Government under regulation 15(1).
 
-## 23. Control of non-United Kingdom ships holding a valid Convention certificate[^key-5de085e9825a4becf2e96503a1f5fde1]
+## 23. Control of non-United Kingdom ships holding a valid Convention certificate[^c-5de085e9825a4becf2e96503a1f5fde1]
 
 (1) A non-United Kingdom ship holding a valid Convention certificate is subject to the control of officers authorised by the Secretary of State when it is in a United Kingdom port.
 
@@ -439,14 +439,14 @@ A Convention certificate must be in the form prescribed by Annex III.
 - (b) received in legible form, and
 - (c) capable of being used for subsequent reference.
 
-## 24. Authorisation of removal etc., of appropriate marks[^key-00ee1c28c37d8ef20d37da368c68246d]
+## 24. Authorisation of removal etc., of appropriate marks[^c-00ee1c28c37d8ef20d37da368c68246d]
 
 After the appropriate marks have been made on a ship—
 
 - (a) it is the duty of the owner and master to keep the ship so marked; and
 - (b) the marks must not be concealed, removed, altered, defaced or obliterated except with the authority of the Assigning Authority.
 
-## 25. Record of conditions of assignment[^key-7c90018f38f3efdf8b52725aba4f0854]
+## 25. Record of conditions of assignment[^c-7c90018f38f3efdf8b52725aba4f0854]
 
 (1) A record containing the conditions of assignment required by the Assigning Authority must be provided by the Assigning Authority to the ship and be—
 
@@ -455,7 +455,7 @@ After the appropriate marks have been made on a ship—
 
 (2) A ship ceases to comply with the conditions of assignment if the record is not on board and available for inspection in accordance with paragraph (1).
 
-## 26. Offences[^key-7f7fff314b9659417e5922cda1f732e7]
+## 26. Offences[^c-7f7fff314b9659417e5922cda1f732e7]
 
 (1) Any contravention of regulation 6(1)(a), (b), (d) or (e) is an offence by each of the master and the owner.
 
@@ -524,7 +524,7 @@ and by such additional fine, not exceeding an amount calculated in accordance wi
   - (ii) in Scotland or Northern Ireland by a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment by imprisonment for a term not exceeding six months, or a fine, or both.
 
-## 27. Detention[^key-c0b884416115a8dc6279ff82d1a0ad72]
+## 27. Detention[^c-c0b884416115a8dc6279ff82d1a0ad72]
 
 (1) Any ship which, in contravention of regulation 6(1), proceeds or attempts to proceed to sea without being surveyed and marked may be detained until it has been so surveyed and marked.
 
@@ -539,18 +539,18 @@ and by such additional fine, not exceeding an amount calculated in accordance wi
 
 (5) The provisions of sections 96 and 97 of the Merchant Shipping Act 1995 (except section 96(3) and the words “as a dangerously unsafe ship” in section 96(5)) apply in relation to a detention notice issued pursuant to this regulation as they apply in relation to detention notices issued pursuant to section 95, and in such application “the relevant inspector” means a person issuing the detention notice.
 
-## 28. Amendments[^key-2c443ae5e88a6dc5fa676808616bcc8f]
+## 28. Amendments[^c-2c443ae5e88a6dc5fa676808616bcc8f]
 
 The Schedule has effect.
 
-## 29. Certificates issued under the Merchant Shipping (Load Line) Regulations 1998[^key-faea49f2af3e27b6ef0998b4d7575d0c]
+## 29. Certificates issued under the Merchant Shipping (Load Line) Regulations 1998[^c-faea49f2af3e27b6ef0998b4d7575d0c]
 
 Any International Load Line Certificate or International Load Line Exemption Certificate issued under regulation 9 or 12 of the Merchant Shipping (Load Line) Regulations 1998[^f00013] which is valid immediately before the day on which these Regulations come into force—
 
 - (a) has effect on and after that date as if it were issued under these Regulations, and
 - (b) subject to the provisions of these Regulations continues to be valid until the expiry of that certificate.
 
-## 30. Review of the Regulations[^key-68095dab669c80dd88dbb9ee797331b8]
+## 30. Review of the Regulations[^c-68095dab669c80dd88dbb9ee797331b8]
 
 (1) The Secretary of State must from time to time—
 
@@ -596,11 +596,11 @@ Two fo the Lords Commissioners of Her Majesty’s Treasury
 
 Regulation 28
 
-### 1. Merchant Shipping (Load Line) Regulations 1998[^key-fa3eb2f1985e7843c646e15af934ff13]
+### 1. Merchant Shipping (Load Line) Regulations 1998[^c-fa3eb2f1985e7843c646e15af934ff13]
 
 The Merchant Shipping (Load Line) Regulations 1998[^f00015] are amended as follows.
 
-### 2.[^key-beee95207088ac5fa9e11e2f9f712c2d]
+### 2.[^c-beee95207088ac5fa9e11e2f9f712c2d]
 
 In regulation 2—
 
@@ -647,7 +647,7 @@ In regulation 2—
 - (t) omit the definition of “valid Convention certificate”;
 - (u) omit paragraph (3).
 
-### 3.[^key-dae904c894f8db96aaf4967a75c106bf]
+### 3.[^c-dae904c894f8db96aaf4967a75c106bf]
 
 In regulation 4(1)—
 
@@ -658,11 +658,11 @@ In regulation 4(1)—
   > - (f) new ships of 24 metres or more in length engaged on an international voyage; and
   > - (g) existing ships of 150 gross tons or more engaged on an international voyage.
 
-### 4.[^key-5f590f2ba7fbc4e2770d3f7483edddf1]
+### 4.[^c-5f590f2ba7fbc4e2770d3f7483edddf1]
 
 In regulation 4(2)(c), omit paragraphs (ii), (iii) and (iv).
 
-### 5.[^key-488973d2678612d29ff6233806fce902]
+### 5.[^c-488973d2678612d29ff6233806fce902]
 
 In regulation 5—
 
@@ -671,7 +671,7 @@ In regulation 5—
 
   > (2) Subject to paragraph (4) the Secretary of State may exempt any ship from these Regulations.
 
-### 6.[^key-1148a96028075655670a35836aae5ecb]
+### 6.[^c-1148a96028075655670a35836aae5ecb]
 
 In regulation 6—
 
@@ -680,11 +680,11 @@ In regulation 6—
 - (c) in paragraph 5(b) omit “in the case of any other ship”;
 - (d) omit paragraph (6).
 
-### 7.[^key-e758bb0666f5ab2fc582ff62f2093c4f]
+### 7.[^c-e758bb0666f5ab2fc582ff62f2093c4f]
 
 In regulation 8(3) after “endorse” omit “the International Load Line Certificate, the International Load Line Certificate (1966) or, as the case may be,”.
 
-### 8.[^key-e7152f6d9395071e1649d4d71fef6938]
+### 8.[^c-e7152f6d9395071e1649d4d71fef6938]
 
 In regulation 9—
 
@@ -695,21 +695,21 @@ In regulation 9—
 - (c) omit paragraph (5);
 - (d) omit paragraph (6).
 
-### 9.[^key-08b09794f09c8c6d66b33a9fd000e8e8]
+### 9.[^c-08b09794f09c8c6d66b33a9fd000e8e8]
 
 In regulation 12—
 
 - (a) omit paragraph (1);
 - (b) in paragraph 3(c) for “an appropriate certificate” substitute “a United Kingdom Load Line Certificate”.
 
-### 10.[^key-4da9e5c535cbe01658d53c14311c079c]
+### 10.[^c-4da9e5c535cbe01658d53c14311c079c]
 
 In regulation 14—
 
 - (a) omit paragraph (1);
 - (b) in paragraph (4) after “paragraph (2)” omit “in respect of a ship registered in a Convention country”.
 
-### 11.[^key-faf562c1334692c4a284250186a1f073]
+### 11.[^c-faf562c1334692c4a284250186a1f073]
 
 After regulation 37 insert—
 
@@ -733,7 +733,7 @@ After regulation 37 insert—
 >
 > (6) In this regulation, “regulatory provision” has the same meaning as in sections 28 to 32 of the Small Business, Enterprise and Employment Act 2015 (see section 32 of that Act).
 
-### 12. Merchant Shipping (Fees) Regulations 2006[^key-f1ad139e1f7f3e82a47c7a3219cd4e1b]
+### 12. Merchant Shipping (Fees) Regulations 2006[^c-f1ad139e1f7f3e82a47c7a3219cd4e1b]
 
 In Part 1 of Schedule 1 to the Merchant Shipping (Fees) Regulations 2006[^f00017], Section G Load Lines, the Table in paragraph 1 is amended as follows—
 
@@ -773,11 +773,11 @@ An impact assessment of the effect of this instrument has been produced and is p
 
 [^f00002]: Footnote: The consent of the Treasury is required to make these Regulations under section 302(1) of the Merchant Shipping Act 1995.
 
-[^key-6eefe82eee79e12696968bb79b631aca]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/155) excluded (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1195/schedule/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-6eefe82eee79e12696968bb79b631aca]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/155) excluded (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2025/1195/schedule/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
-[^key-daabd6c6f332382e261c7ac5c968c22e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-daabd6c6f332382e261c7ac5c968c22e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-6e1462b682cbd1ce13b13fa49bab8c22]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/155/regulation/2) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-6e1462b682cbd1ce13b13fa49bab8c22]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/155/regulation/2) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
 [^f00003]: Footnote: Cmnd. 3708. The Convention may be obtained in copy from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign and Commonwealth Office treaties database (http://treaties.fco.gov.uk/docs/pdf/1968/TS0058.pdf).
 
@@ -791,100 +791,100 @@ An impact assessment of the effect of this instrument has been produced and is p
 
 [^f00008]: Footnote: The 1966 Convention came into force with respect to the United Kingdom on 21st July 1968. The 1988 Protocol came into force with respect to the United Kingdom on 8th June 2000.
 
-[^key-0e1bdaaa2efaa295f8e3dca296333f61]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/155/regulation/3) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-0e1bdaaa2efaa295f8e3dca296333f61]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/155/regulation/3) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-cec2206af98b78cf4c5e0d1ec9550883]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/155/regulation/4) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-cec2206af98b78cf4c5e0d1ec9550883]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2018/155/regulation/4) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
 [^f00009]: Footnote: The relevant legislation in force immediately before 21st July 1968 was The Load Line Rules 1959 ([S.I. 1959/2238](https://www.legislation.gov.uk/uksi/1959/2238)). The Regulations lapsed on the repeal of the enabling authority, the Merchant Shipping (Safety and Load Line Conventions) Act [1932 (c. 9)](https://www.legislation.gov.uk/ukpga/1932/9). A copy of the Regulations as made is available for inspection or in copy from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SW1A 0PW.
 
 [^f00010]: Footnote: Annex I to the 1966 Convention as it was in force immediately prior to 1st January 2005, is available in copy from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR. It is also available in the Command Paper for the 1966 Convention (Cmnd. 3708), which is available on the Foreign and Commonwealth Office treaties database (http://treaties.fco.gov.uk/docs/pdf/1968/TS0058.pdf).
 
-[^key-af62cded6d30fd82ce50755253fd8edc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/155/regulation/5) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-af62cded6d30fd82ce50755253fd8edc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/155/regulation/5) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-82831c647a1bafcadcae7d7ee9eb0990]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/155/regulation/6) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-82831c647a1bafcadcae7d7ee9eb0990]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2018/155/regulation/6) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-71f509ea35a38466fc4476e8a3b828f5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/155/regulation/7) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-71f509ea35a38466fc4476e8a3b828f5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/155/regulation/7) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-ae452617129e7f19dc911fc8341fa80a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/155/regulation/8) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-ae452617129e7f19dc911fc8341fa80a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/155/regulation/8) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-1cc99ea6b45f134743c66a4690bb6d3c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/155/regulation/9) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-1cc99ea6b45f134743c66a4690bb6d3c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2018/155/regulation/9) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-e56469321fcc46ae70116e050cea41c3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/155/regulation/10) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-e56469321fcc46ae70116e050cea41c3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2018/155/regulation/10) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-6cde4b8dba3283e29ec176271a877b61]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/155/regulation/11) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-6cde4b8dba3283e29ec176271a877b61]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/155/regulation/11) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-0e312403311d323a3eb620169bebb32f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/155/regulation/12) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-0e312403311d323a3eb620169bebb32f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2018/155/regulation/12) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-1bed31313949524c49acf7f6e472dede]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/155/regulation/13) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-1bed31313949524c49acf7f6e472dede]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/155/regulation/13) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-a292a4769f5821a4b59b1a92fcfb7b19]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/155/regulation/14) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-a292a4769f5821a4b59b1a92fcfb7b19]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2018/155/regulation/14) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-857fd852dd3a4033af5a4bc40ab47c70]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/155/regulation/15) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-857fd852dd3a4033af5a4bc40ab47c70]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/155/regulation/15) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-df7e187da2647a03c0d32b35bebdbc5e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/155/regulation/16) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-df7e187da2647a03c0d32b35bebdbc5e]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/155/regulation/16) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-5e97831a5451589707330e081da4e8f5]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/155/regulation/17) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-5e97831a5451589707330e081da4e8f5]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/155/regulation/17) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-cf5ccb6504f084b520a6bdbf1e8bebfe]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/155/regulation/18) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-cf5ccb6504f084b520a6bdbf1e8bebfe]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2018/155/regulation/18) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
 [^f00011]: Footnote: See International Maritime Organization (IMO) Resolution A.1104(29) (Survey Guidelines under the Harmonized System of Survey and Certification (HSSC), 2015). The Resolution may be obtained in copy from the IMO of 4 Albert Embankment, London SE1 7SR or on http://www.imo.org/en/OurWork/MSAS/Documents/A%2029-J-60%20-%20RES.1104%20(E).pdf.
 
-[^key-477b603bcfe82fcaf45ff1f03787a3d3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2018/155/regulation/19) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-477b603bcfe82fcaf45ff1f03787a3d3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2018/155/regulation/19) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-be3242eea50a7c4854d517a2091f931f]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2018/155/regulation/20) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-be3242eea50a7c4854d517a2091f931f]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2018/155/regulation/20) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-201de7e9ed371aa101fb0e9da146de7e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2018/155/regulation/21) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-201de7e9ed371aa101fb0e9da146de7e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2018/155/regulation/21) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-bb78eaab93ecdee1df6fd51ad748d452]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2018/155/regulation/22) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-bb78eaab93ecdee1df6fd51ad748d452]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2018/155/regulation/22) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-5de085e9825a4becf2e96503a1f5fde1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2018/155/regulation/23) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-5de085e9825a4becf2e96503a1f5fde1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2018/155/regulation/23) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-00ee1c28c37d8ef20d37da368c68246d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2018/155/regulation/24) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-00ee1c28c37d8ef20d37da368c68246d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2018/155/regulation/24) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-7c90018f38f3efdf8b52725aba4f0854]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2018/155/regulation/25) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-7c90018f38f3efdf8b52725aba4f0854]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2018/155/regulation/25) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-7f7fff314b9659417e5922cda1f732e7]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2018/155/regulation/26) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-7f7fff314b9659417e5922cda1f732e7]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2018/155/regulation/26) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-c0b884416115a8dc6279ff82d1a0ad72]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2018/155/regulation/27) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-c0b884416115a8dc6279ff82d1a0ad72]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2018/155/regulation/27) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
 [^f00012]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Section 284 was amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), section 9 and Schedule 1, and also by the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines and Summary Conviction) Regulations 2015 ([S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664)), regulation 4 and Schedule 4.
 
-[^key-2c443ae5e88a6dc5fa676808616bcc8f]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2018/155/regulation/28) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-2c443ae5e88a6dc5fa676808616bcc8f]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2018/155/regulation/28) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-faea49f2af3e27b6ef0998b4d7575d0c]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2018/155/regulation/29) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-faea49f2af3e27b6ef0998b4d7575d0c]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2018/155/regulation/29) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
 [^f00013]: Footnote: [S.I. 1998/2241](https://www.legislation.gov.uk/uksi/1998/2241), amended by [S.I. 2000/1335](https://www.legislation.gov.uk/uksi/2000/1335) and [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114).
 
-[^key-68095dab669c80dd88dbb9ee797331b8]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2018/155/regulation/30) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-68095dab669c80dd88dbb9ee797331b8]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2018/155/regulation/30) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
 [^f00014]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), section 19.
 
-[^key-fa3eb2f1985e7843c646e15af934ff13]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/1) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-fa3eb2f1985e7843c646e15af934ff13]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/1) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
 [^f00015]: Footnote: [S.I. 1998/2241](https://www.legislation.gov.uk/uksi/1998/2241), amended by [S.I. 2000/1335](https://www.legislation.gov.uk/uksi/2000/1335) and [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114).
 
-[^key-beee95207088ac5fa9e11e2f9f712c2d]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/2) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-beee95207088ac5fa9e11e2f9f712c2d]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/2) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-dae904c894f8db96aaf4967a75c106bf]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/3) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-dae904c894f8db96aaf4967a75c106bf]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/3) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-5f590f2ba7fbc4e2770d3f7483edddf1]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/4) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-5f590f2ba7fbc4e2770d3f7483edddf1]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/4) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-488973d2678612d29ff6233806fce902]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/5) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-488973d2678612d29ff6233806fce902]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/5) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-1148a96028075655670a35836aae5ecb]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/6) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-1148a96028075655670a35836aae5ecb]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/6) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-e758bb0666f5ab2fc582ff62f2093c4f]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/7) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-e758bb0666f5ab2fc582ff62f2093c4f]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/7) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-e7152f6d9395071e1649d4d71fef6938]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/8) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-e7152f6d9395071e1649d4d71fef6938]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/8) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-08b09794f09c8c6d66b33a9fd000e8e8]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/9) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-08b09794f09c8c6d66b33a9fd000e8e8]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/9) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-4da9e5c535cbe01658d53c14311c079c]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/10) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-4da9e5c535cbe01658d53c14311c079c]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/10) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
-[^key-faf562c1334692c4a284250186a1f073]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/11) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-faf562c1334692c4a284250186a1f073]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/11) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
 [^f00016]: Footnote: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), section 19.
 
-[^key-f1ad139e1f7f3e82a47c7a3219cd4e1b]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/12) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
+[^c-f1ad139e1f7f3e82a47c7a3219cd4e1b]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/155/schedule/paragraph/12) in force at 9.3.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/155/regulation/1)
 
 [^f00017]: Footnote: [S.I. 2006/2055](https://www.legislation.gov.uk/uksi/2006/2055), amended by [S.I. 2006/3225](https://www.legislation.gov.uk/uksi/2006/3225).

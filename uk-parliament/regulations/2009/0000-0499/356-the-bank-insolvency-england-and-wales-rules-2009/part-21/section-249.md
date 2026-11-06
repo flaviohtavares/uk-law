@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 249. Final admission/rejection of proofs[^key-e227dd4daf86cfdb4dfb15ead5472875]
+## 249. Final admission/rejection of proofs[^c-e227dd4daf86cfdb4dfb15ead5472875]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 11.3 of the 1986 Rules[^f00082]. Ignore paragraph (4).
 
 ## Annotations
 
-[^key-e227dd4daf86cfdb4dfb15ead5472875]: Commencement: Rule 249 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-e227dd4daf86cfdb4dfb15ead5472875]: Commencement: Rule 249 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00082]: Footnote: Paragraphs (3) and (4) were added by [S.I. 2002/1307](https://www.legislation.gov.uk/uksi/2002/1307).

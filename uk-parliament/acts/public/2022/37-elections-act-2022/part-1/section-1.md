@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Voter identification[^key-fc75bb01d29cf985a9d97ecb34d63713][^key-65635db10d050298f58155c3e6ee9e28][^key-2194f147f311bf0ee4a41e7f6eb8edd6][^key-0504537ebe24d47ac6454cfe2a0475b1]
+## 1. Voter identification[^c-fc75bb01d29cf985a9d97ecb34d63713][^c-65635db10d050298f58155c3e6ee9e28][^c-2194f147f311bf0ee4a41e7f6eb8edd6][^c-0504537ebe24d47ac6454cfe2a0475b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ Schedule 1 makes provision, including provision amending RPA 1983, in connection
 
 ## Annotations
 
-[^key-fc75bb01d29cf985a9d97ecb34d63713]: Commencement: S. 1 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-fc75bb01d29cf985a9d97ecb34d63713]: Commencement: S. 1 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-65635db10d050298f58155c3e6ee9e28]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/37/section/1) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/a)
+[^c-65635db10d050298f58155c3e6ee9e28]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/37/section/1) in force at 27.8.2022 for specified purposes by [S.I. 2022/916](https://www.legislation.gov.uk/uksi/2022/916), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/916/regulation/2/a)
 
-[^key-2194f147f311bf0ee4a41e7f6eb8edd6]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/37/section/1) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/a)
+[^c-2194f147f311bf0ee4a41e7f6eb8edd6]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/37/section/1) in force at 16.1.2023 for specified purposes by [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/a)
 
-[^key-0504537ebe24d47ac6454cfe2a0475b1]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/37/section/1) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a)
+[^c-0504537ebe24d47ac6454cfe2a0475b1]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/37/section/1) in force at 31.1.2024 in so far as not already in force by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/4/a)

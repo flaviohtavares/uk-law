@@ -31,7 +31,7 @@ summary: ''
 
 LAND REFORM
 
-The Crofting Community Right to Buy (Ballot) (Scotland) Regulations 2004 (revoked)[^key-aa435099d868d07582d4b10ec0ca2612]
+The Crofting Community Right to Buy (Ballot) (Scotland) Regulations 2004 (revoked)[^c-aa435099d868d07582d4b10ec0ca2612]
 
 Made
 
@@ -45,72 +45,72 @@ Coming into force
 
 15th June 2004
 
-[^key-aa435099d868d07582d4b10ec0ca2612]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa435099d868d07582d4b10ec0ca2612]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-aa435099d868d07582d4b10ec0ca2612]
+## 1. Citation, commencement and interpretation[^c-aa435099d868d07582d4b10ec0ca2612]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Conduct of Ballot[^key-aa435099d868d07582d4b10ec0ca2612]
+## 2. Conduct of Ballot[^c-aa435099d868d07582d4b10ec0ca2612]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-aa435099d868d07582d4b10ec0ca2612]
+## 3.[^c-aa435099d868d07582d4b10ec0ca2612]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-aa435099d868d07582d4b10ec0ca2612]
+## 4.[^c-aa435099d868d07582d4b10ec0ca2612]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-aa435099d868d07582d4b10ec0ca2612]
+## 5.[^c-aa435099d868d07582d4b10ec0ca2612]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Proxy Votes[^key-aa435099d868d07582d4b10ec0ca2612]
+## 6. Proxy Votes[^c-aa435099d868d07582d4b10ec0ca2612]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Ballot results[^key-aa435099d868d07582d4b10ec0ca2612]
+## 7. Ballot results[^c-aa435099d868d07582d4b10ec0ca2612]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Retention of Ballot papers etc[^key-aa435099d868d07582d4b10ec0ca2612]
+## 8. Retention of Ballot papers etc[^c-aa435099d868d07582d4b10ec0ca2612]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa435099d868d07582d4b10ec0ca2612]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa435099d868d07582d4b10ec0ca2612]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — LAND REFORM (SCOTLAND) ACT 2003[^key-aa435099d868d07582d4b10ec0ca2612]
+## SCHEDULE — LAND REFORM (SCOTLAND) ACT 2003[^c-aa435099d868d07582d4b10ec0ca2612]
 
 Regulation 7
 
-### BALLOT RETURN FORM[^key-aa435099d868d07582d4b10ec0ca2612]
+### BALLOT RETURN FORM[^c-aa435099d868d07582d4b10ec0ca2612]
 
-**1.**[^key-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-aa435099d868d07582d4b10ec0ca2612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aa435099d868d07582d4b10ec0ca2612]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aa435099d868d07582d4b10ec0ca2612]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa435099d868d07582d4b10ec0ca2612]: Textual amendment: Regulation revoked (24.2.2021) by The Crofting Community Right to [Buy (Procedure, Ballots and Forms) (Scotland) Regulations 2020 (S.S.I. 2020/451)](https://www.legislation.gov.uk/ssi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1), [18(c)](https://www.legislation.gov.uk/ssi/2020/451/regulation/18/c) (with [regs. 19](https://www.legislation.gov.uk/ssi/2020/451/regulation/19), [20](https://www.legislation.gov.uk/ssi/2020/451/regulation/20)) (as amended by [S.S.I. 2021/27](https://www.legislation.gov.uk/ssi/2021/27), [regs. 1](https://www.legislation.gov.uk/ssi/2021/27/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/27/regulation/2/2))
+[^c-aa435099d868d07582d4b10ec0ca2612]: Textual amendment: Regulation revoked (24.2.2021) by The Crofting Community Right to [Buy (Procedure, Ballots and Forms) (Scotland) Regulations 2020 (S.S.I. 2020/451)](https://www.legislation.gov.uk/ssi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1), [18(c)](https://www.legislation.gov.uk/ssi/2020/451/regulation/18/c) (with [regs. 19](https://www.legislation.gov.uk/ssi/2020/451/regulation/19), [20](https://www.legislation.gov.uk/ssi/2020/451/regulation/20)) (as amended by [S.S.I. 2021/27](https://www.legislation.gov.uk/ssi/2021/27), [regs. 1](https://www.legislation.gov.uk/ssi/2021/27/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/27/regulation/2/2))

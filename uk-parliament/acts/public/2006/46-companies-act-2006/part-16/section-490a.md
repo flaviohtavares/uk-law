@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 490A. Defective appointments: default power of Secretary of State[^key-7b47de1b48d21e367d9bf93b6b7db9a1]
+## 490A. Defective appointments: default power of Secretary of State[^c-7b47de1b48d21e367d9bf93b6b7db9a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ the Secretary of State may appoint another auditor or auditors in place of the a
 
 ## Annotations
 
-[^key-7b47de1b48d21e367d9bf93b6b7db9a1]: Textual amendment: S. 490A inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/19) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-7b47de1b48d21e367d9bf93b6b7db9a1]: Textual amendment: S. 490A inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/19) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

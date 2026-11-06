@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Short title[^key-60e8c57690ce5146a128c6f05203a511][^key-60e8c57690ce5146a128c6f05203a511]
+## 60. Short title[^c-60e8c57690ce5146a128c6f05203a511][^c-60e8c57690ce5146a128c6f05203a511]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Coronavirus (Recovery and Reform) (Scotland) 
 
 ## Annotations
 
-[^key-60e8c57690ce5146a128c6f05203a511]: Commencement: S. 60 in force at 11.8.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-60e8c57690ce5146a128c6f05203a511]: Commencement: S. 60 in force at 11.8.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

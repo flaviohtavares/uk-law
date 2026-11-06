@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Introduction[^key-af587c3f3f320ef931393f94da05c037]
+## 66. Introduction[^c-af587c3f3f320ef931393f94da05c037]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Part 22 of the Act (auditors and actuaries) is amended as follows.
 
 ## Annotations
 
-[^key-af587c3f3f320ef931393f94da05c037]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-af587c3f3f320ef931393f94da05c037]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

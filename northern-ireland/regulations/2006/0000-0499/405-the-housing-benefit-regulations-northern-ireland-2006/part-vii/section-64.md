@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Disregard of contribution and rent[^key-14f35b51cdea513b685c2b0677a9df68]
+## 64. Disregard of contribution and rent[^c-14f35b51cdea513b685c2b0677a9df68]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where the claimant or his partner is a student and, for the purposes of assessin
 
 ## Annotations
 
-[^key-14f35b51cdea513b685c2b0677a9df68]: Commencement: [Reg. 64](https://www.legislation.gov.uk/nisr/2006/405/regulation/64) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-14f35b51cdea513b685c2b0677a9df68]: Commencement: [Reg. 64](https://www.legislation.gov.uk/nisr/2006/405/regulation/64) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

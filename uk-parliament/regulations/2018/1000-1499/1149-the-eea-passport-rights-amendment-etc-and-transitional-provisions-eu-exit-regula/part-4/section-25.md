@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Solvency 2 Regulations 2015 [^c23428871] (approvals) are modified as follows.
 
-(2) Regulation 48 (models) has effect as if, in paragraph (4), for the words from “six months” to the end there were substituted “ three years beginning with the day on which IP completion day[^key-bc2c2a6ea730fab6b5c541ee083496fa] occurs. ”
+(2) Regulation 48 (models) has effect as if, in paragraph (4), for the words from “six months” to the end there were substituted “ three years beginning with the day on which IP completion day[^c-bc2c2a6ea730fab6b5c541ee083496fa] occurs. ”
 
 (3) Part 4 has effect as if, after Chapter 2, there were inserted—
 
@@ -71,4 +71,4 @@ summary: ''
 
 [^c23428871]: Marginal citation: [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575).
 
-[^key-bc2c2a6ea730fab6b5c541ee083496fa]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2018/1149/regulation/25) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(p)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/p)
+[^c-bc2c2a6ea730fab6b5c541ee083496fa]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2018/1149/regulation/25) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(p)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/p)

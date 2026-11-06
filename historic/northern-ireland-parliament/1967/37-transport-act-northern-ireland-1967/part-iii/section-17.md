@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Grant of vehicle licences.[^key-ea40d1c9aedf7873d2fb11b83982d450]
+## 17. Grant of vehicle licences.[^c-ea40d1c9aedf7873d2fb11b83982d450]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea40d1c9aedf7873d2fb11b83982d450]: Textual amendment: Pt. III repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-ea40d1c9aedf7873d2fb11b83982d450]: Textual amendment: Pt. III repealed (1.7.2012) by [Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010 (c. 2)](https://www.legislation.gov.uk/nia/2010/2), [s. 60(2)](https://www.legislation.gov.uk/nia/2010/2/section/60/2), [Sch. 4](https://www.legislation.gov.uk/nia/2010/2/schedule/4); [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

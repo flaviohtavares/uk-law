@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Effect of failure to serve certain notices in connection with SSSIs[^key-7a67524e8e3d717f7e657fef5bcc6060]
+## 57. Effect of failure to serve certain notices in connection with SSSIs[^c-7a67524e8e3d717f7e657fef5bcc6060]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ After section 70A of the 1981 Act insert—
 
 ## Annotations
 
-[^key-7a67524e8e3d717f7e657fef5bcc6060]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2006/16/section/57) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-7a67524e8e3d717f7e657fef5bcc6060]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2006/16/section/57) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)

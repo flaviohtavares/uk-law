@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. In accordance with rule 3.10.6(2) of the Investment Funds sourcebook[^key-e9b4336016896f29027962c75c05d1eb], the criteria to assess whether a delegation conflicts with the interests of the AIFM or the investor in the AIF shall at least include:
+1. In accordance with rule 3.10.6(2) of the Investment Funds sourcebook[^c-e9b4336016896f29027962c75c05d1eb], the criteria to assess whether a delegation conflicts with the interests of the AIFM or the investor in the AIF shall at least include:
 
 - (a) where the AIFM and the delegate are members of the same group or have any other contractual relationship, the extent to which the delegate controls the AIFM or has the ability to influence its actions;
 - (b) where the delegate and an investor in the relevant AIF are members of the same group or have any other contractual relationship, the extent to which this investor controls the delegate or has the ability to influence its actions;
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9b4336016896f29027962c75c05d1eb]: Textual amendment: Words in Art. 80(1) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [31(7)](https://www.legislation.gov.uk/uksi/2019/328/regulation/31) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e9b4336016896f29027962c75c05d1eb]: Textual amendment: Words in Art. 80(1) substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [31(7)](https://www.legislation.gov.uk/uksi/2019/328/regulation/31) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

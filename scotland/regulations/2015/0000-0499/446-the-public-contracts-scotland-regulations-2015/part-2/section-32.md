@@ -50,7 +50,7 @@ provided that the contracting authority has indicated in the procurement documen
 
 (10) The information provided by the contracting authority in accordance with paragraph (9) must be sufficiently precise to enable economic operators to identify the nature and scope of the required solution and decide whether to request to participate in the procedure.
 
-(11) The minimum time period for the receipt of requests to participate shall be 30 days from the date on which the contract notice is submitted[^key-cf4a4e705bc66cf8bd740baef83e8cf2] for publication.
+(11) The minimum time period for the receipt of requests to participate shall be 30 days from the date on which the contract notice is submitted[^c-cf4a4e705bc66cf8bd740baef83e8cf2] for publication.
 
 (12) A contracting authority may limit the number of suitable candidates to be invited to participate in the procedure in accordance with regulation 66 (reduction of the number of otherwise qualified candidates to be invited to participate).
 
@@ -87,4 +87,4 @@ provided that the contracting authority has indicated in the procurement documen
 
 ## Annotations
 
-[^key-cf4a4e705bc66cf8bd740baef83e8cf2]: Textual amendment: Word in [reg. 32(11)](https://www.legislation.gov.uk/ssi/2015/446/regulation/32/11) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(27)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/27) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))
+[^c-cf4a4e705bc66cf8bd740baef83e8cf2]: Textual amendment: Word in [reg. 32(11)](https://www.legislation.gov.uk/ssi/2015/446/regulation/32/11) substituted (31.12.2020) by [The Public Procurement etc. (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/468)](https://www.legislation.gov.uk/ssi/2020/468), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/468/regulation/1/2), [4(27)](https://www.legislation.gov.uk/ssi/2020/468/regulation/4/27) (with [sch. paras. 1-5](https://www.legislation.gov.uk/ssi/2020/468/schedule/paragraph/1))

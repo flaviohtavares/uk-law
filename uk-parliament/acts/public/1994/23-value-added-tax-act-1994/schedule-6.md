@@ -22,7 +22,7 @@ summary: ''
 
 Section 19.
 
-### Part 1 — Valuation of supplies of fuel for private use[^key-4a7ac4527b810f48dec9106aa302e505]
+### Part 1 — Valuation of supplies of fuel for private use[^c-4a7ac4527b810f48dec9106aa302e505]
 
 #### Option for valuation on flat-rate basis
 
@@ -81,7 +81,7 @@ Section 19.
 
 (4) The Treasury may, by order, amend the definition of “road fuel” in sub-paragraph (3).
 
-### Part 2 — Other Provisions[^key-f863ac23ce8dfd9217cb5ef2ec566de6]
+### Part 2 — Other Provisions[^c-f863ac23ce8dfd9217cb5ef2ec566de6]
 
 **1.** (1) Where—
 
@@ -100,11 +100,11 @@ the Commissioners may direct that the value of the supply shall be taken to be i
 
 shall be taken to be its open market value.
 
-(4) For the purposes of this paragraph any question whether a person is connected with another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010[^key-2840433eedd699b07fd40d1bae3ba36c].
+(4) For the purposes of this paragraph any question whether a person is connected with another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010[^c-2840433eedd699b07fd40d1bae3ba36c].
 
-(5) This paragraph does not apply to a supply to which paragraph 8A or[^key-f52067e1f172e3c65807115db974e14c] 10 below applies.
+(5) This paragraph does not apply to a supply to which paragraph 8A or[^c-f52067e1f172e3c65807115db974e14c] 10 below applies.
 
-**1A.**[^key-49f6f6bc3d930a5f61cf917ed464a0b8] (1) Where—
+**1A.**[^c-49f6f6bc3d930a5f61cf917ed464a0b8] (1) Where—
 
 - (a) the value of a supply made by a taxable person for a consideration is (apart from this sub-paragraph) less than its open market value,
 - (b) the taxable person is a motor manufacturer or motor dealer,
@@ -134,11 +134,11 @@ shall be taken to be its open market value.
   - (b) has to the rear of the driver’s seat roofed accommodation which is fitted with side windows or which is constructed or adapted for the fitting of side windows,
 
   but does not include any vehicle excluded by sub-paragraph (5) below;
-- “**motor dealer**” means a person whose business consists in whole or in part of obtaining supplies of, [^key-611e2bd4cc94afa6814b44b84278cbe2]... or importing, new or second-hand motor cars for resale with a view to making an overall profit on the sale of them (whether or not a profit is made on each sale);
+- “**motor dealer**” means a person whose business consists in whole or in part of obtaining supplies of, [^c-611e2bd4cc94afa6814b44b84278cbe2]... or importing, new or second-hand motor cars for resale with a view to making an overall profit on the sale of them (whether or not a profit is made on each sale);
 - “**motor manufacturer**” means a person whose business consists in whole or in part of producing motor cars including producing motor cars by conversion of a vehicle (whether a motor car or not);
 - “**relative**” means husband, wife, brother, sister, ancestor or lineal descendant;
 - “**stock in trade**” means new or second-hand motor cars (other than second-hand motor cars which are not qualifying motor cars within sub-paragraph (6) below) which are—
-  - (a) produced by a motor manufacturer, or supplied to or imported by a motor dealer, for the purpose of resale, and[^key-b9bef06984bd6e7c4d9004ca1dac7eec]
+  - (a) produced by a motor manufacturer, or supplied to or imported by a motor dealer, for the purpose of resale, and[^c-b9bef06984bd6e7c4d9004ca1dac7eec]
   - (b) intended to be sold within 12 months of their production, supply or importation (as the case may require),
 
   and such motor cars shall not cease to be stock in trade where they are temporarily put to a use in the motor manufacturer’s or, as the case may be, the motor dealer’s business which involves making them available for private use.
@@ -158,7 +158,7 @@ shall be taken to be its open market value.
 
 (6) For the purposes of this paragraph a motor car is a “**qualifying motor car**”if—
 
-- (a) it has never been supplied[^key-a0419d03e7dd94cbed7f34d7e68147b5]... or imported in circumstances in which the VAT on that supply[^key-1a81df5a22477ee02521e929194631ff]... or importation was wholly excluded from credit as input tax by virtue of an order under section 25(7) (as at 17th March 2004 see article 7 of the Value Added Tax (Input Tax) Order 1992); or
+- (a) it has never been supplied[^c-a0419d03e7dd94cbed7f34d7e68147b5]... or imported in circumstances in which the VAT on that supply[^c-1a81df5a22477ee02521e929194631ff]... or importation was wholly excluded from credit as input tax by virtue of an order under section 25(7) (as at 17th March 2004 see article 7 of the Value Added Tax (Input Tax) Order 1992); or
 - (b) a taxable person has elected under such an order for it to be treated as such.
 
 (7) The Treasury may by order amend any of the definitions in this paragraph.
@@ -170,7 +170,7 @@ shall be taken to be its open market value.
 
 the Commissioners may by notice in writing to the taxable person direct that the value of any such supply by him after the giving of the notice or after such later date as may be specified in the notice shall be taken to be its open market value on a sale by retail.
 
-**2A.**[^key-88f3c55f496a9115768a9f3d00024a1f] (1) This paragraph applies if—
+**2A.**[^c-88f3c55f496a9115768a9f3d00024a1f] (1) This paragraph applies if—
 
 - (a) a taxable person (“P”) makes a supply of road fuel for a consideration,
 - (b) the recipient of the supply is—
@@ -192,14 +192,14 @@ the Commissioners may by notice in writing to the taxable person direct that the
 
 - (a) any goods whose supply involves their removal to the United Kingdom—
   - (i) are charged in connection with their removal to the United Kingdom with a duty of excise; or
-  - (ii) on that removal are subject, in accordance with any provision for the time being having effect for transitional purposes in connection with the accession of any State to the European Union[^key-5fa4693b8fddc184655acee8d269af4f], to any [^key-1cf759011d8ee57b69a18b1714b0c6c5]... agricultural levy of the European Union; or
+  - (ii) on that removal are subject, in accordance with any provision for the time being having effect for transitional purposes in connection with the accession of any State to the European Union[^c-5fa4693b8fddc184655acee8d269af4f], to any [^c-1cf759011d8ee57b69a18b1714b0c6c5]... agricultural levy of the European Union; or
 - (b) the time of supply of any dutiable goods, or of any goods which comprise a mixture of dutiable goods and other goods, is determined under section 18(4) to be the duty point,
 
 then the value of the supply shall be taken for the purposes of this Act to be the sum of its value apart from this paragraph and the amount, so far as not already included in that value, of the duty or, as the case may be, agricultural levy which has been or is to be paid in respect of the goods.
 
 (2) In this paragraph “**dutiable goods**” and “**duty point**” have the same meanings as in section 18.
 
-**4.**[^key-2b9ce86a23bd732a165d6dd9dff3227f] (1) Sub-paragraph (2) applies where—
+**4.**[^c-2b9ce86a23bd732a165d6dd9dff3227f] (1) Sub-paragraph (2) applies where—
 
 - (a) goods or services are supplied for a consideration which is a price in money,
 - (b) the terms on which those goods or services are so supplied allow a discount for prompt payment of that price,
@@ -208,16 +208,16 @@ then the value of the supply shall be taken for the purposes of this Act to be t
 
 (2) For the purposes of section 19 (value of supply of goods or services) the consideration is the discounted price paid.
 
-**5.**[^key-6cab54aea96ed7fdf0377ccace0eded0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6cab54aea96ed7fdf0377ccace0eded0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** (1) Where there is a supply of goods by virtue of—
 
 - (a) a Treasury order under section 5(5); or
 - (b) paragraph 5(1) or 6 of Schedule 4 but otherwise than for a consideration); or
-- (c) paragraph 8 of that Schedule; [^key-7ffb2550893c8ba540901d13d9401e25]...
-- (d)[^key-7ffb2550893c8ba540901d13d9401e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) paragraph 8 of that Schedule; [^c-7ffb2550893c8ba540901d13d9401e25]...
+- (d)[^c-7ffb2550893c8ba540901d13d9401e25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-then, except where the person making the supply opts under paragraph A1(3) above for valuation on the flat-rate basis or[^key-4433ad8276988175c774d1045ffdf680] paragraph 10 below applies, the value of the supply shall be determined as follows.
+then, except where the person making the supply opts under paragraph A1(3) above for valuation on the flat-rate basis or[^c-4433ad8276988175c774d1045ffdf680] paragraph 10 below applies, the value of the supply shall be determined as follows.
 
 (2) The value of the supply shall be taken to be—
 
@@ -227,14 +227,14 @@ then, except where the person making the supply opts under paragraph A1(3) above
 
 (3) For the purposes of sub-paragraph (2) above the amount of consideration in money that would be payable by any person if he were to purchase any goods shall be taken to be the amount that would be so payable after the deduction of any amount included in the purchase price in respect of VAT on the supply of the goods to that person.
 
-**7.** (1)[^key-38ce80e71700898a43357e0a4fe96a67] Where there is a supply of services by virtue of—
+**7.** (1)[^c-38ce80e71700898a43357e0a4fe96a67] Where there is a supply of services by virtue of—
 
 - (a) a Treasury order under section 5(4); or
 - (b) paragraph 5(4)[^c15298921] of Schedule 4 (but otherwise than for a consideration),
 
 the value of the supply shall be taken to be the full cost to the taxable person of providing the services except where paragraph 10 below applies.
 
-(2)[^key-b10d947d180977bbdace60c05a04d438] Regulations may, in relation to a supply of services by virtue of paragraph 5(4) of Schedule 4 (but otherwise than for a consideration), make provision for determining how the full cost to the taxable person of providing the services is to be calculated.
+(2)[^c-b10d947d180977bbdace60c05a04d438] Regulations may, in relation to a supply of services by virtue of paragraph 5(4) of Schedule 4 (but otherwise than for a consideration), make provision for determining how the full cost to the taxable person of providing the services is to be calculated.
 
 (3) The regulations may, in particular, make provision for the calculation to be made by reference to any prescribed period.
 
@@ -243,12 +243,12 @@ the value of the supply shall be taken to be the full cost to the taxable person
 - (a) different provision for different circumstances;
 - (b) such incidental, supplementary, consequential or transitional provision as the Commissioners think fit.
 
-**8.**[^c15298931] Where any supply of services is treated by virtue of section 8 , or any supply of goods is treated by virtue of section 9A,[^key-5c7df3f43d1b1f8cf88ce30a6dd1f4aa] as made by the person by whom they are received, the value of the supply shall be taken—
+**8.**[^c15298931] Where any supply of services is treated by virtue of section 8 , or any supply of goods is treated by virtue of section 9A,[^c-5c7df3f43d1b1f8cf88ce30a6dd1f4aa] as made by the person by whom they are received, the value of the supply shall be taken—
 
-- (a) in a case where the consideration for which the services or goods[^key-20a68d30f1f53683ee03870b88804543] were in fact supplied to him was a consideration in money, to be such amount as is equal to that consideration; and
+- (a) in a case where the consideration for which the services or goods[^c-20a68d30f1f53683ee03870b88804543] were in fact supplied to him was a consideration in money, to be such amount as is equal to that consideration; and
 - (b) in a case where that consideration did not consist or not wholly consist of money, to be such amount in money as is equivalent to that consideration.
 
-**8A.**[^key-1654cb5a1ec720b5c43a1fef54fe5e6f] (1) This paragraph applies where—
+**8A.**[^c-1654cb5a1ec720b5c43a1fef54fe5e6f] (1) This paragraph applies where—
 
 - (a) a supply (“the intra-group supply”) made by a member of a group (“**the supplier**”) to another member of the group is, by virtue of section 43(2A), excluded from the supplies disregarded under section 43(1)(a), and
 - (b) the representative member of the group satisfies the Commissioners as to the value of each bought-in supply.
@@ -311,7 +311,7 @@ a rate specified in or determined in accordance with the notice, as for the time
 
 (7) The time by reference to which the appropriate rate of exchange is to be determined for the purpose of valuing any supply is the time when the supply takes place; and, accordingly, the day on which it takes place is the relevant day for the purposes of sub-paragraph (1) above.
 
-**11A.**[^key-aeee680fb99d45fa1008ba3f3f6bd14d] (1) Sub-paragraph (2) applies to goods that—
+**11A.**[^c-aeee680fb99d45fa1008ba3f3f6bd14d] (1) Sub-paragraph (2) applies to goods that—
 
 - (a) fall within subsection (5) of section 21 (works of art etc), and
 - (b) are treated as supplied in the United Kingdom as a result of section 7(5B) (importation of consignments with an intrinsic value not exceeding £135).
@@ -320,7 +320,7 @@ a rate specified in or determined in accordance with the notice, as for the time
 
 (3) An order under section 2(2) may contain provision making such alteration of the percentage for the time being specified in sub-paragraph (2) as the Treasury consider appropriate in consequence of any increase or decrease by that order of the rate of VAT.
 
-**11B.**[^key-98566d782bdbc1e71365e36d3fafe6c9] (1) This paragraph applies for the purposes of determining the value of a supply consisting of the letting on hire of a motor vehicle on relevant benefit terms.
+**11B.**[^c-98566d782bdbc1e71365e36d3fafe6c9] (1) This paragraph applies for the purposes of determining the value of a supply consisting of the letting on hire of a motor vehicle on relevant benefit terms.
 
 (2) But this paragraph is to be ignored for the purposes of Schedule 1 (VAT registration).
 
@@ -334,52 +334,52 @@ a rate specified in or determined in accordance with the notice, as for the time
 
 ## Annotations
 
-[^key-4a7ac4527b810f48dec9106aa302e505]: Textual amendment: Sch. 6 Pt. 1 inserted (with effect in accordance with Sch. 38 para. 7(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 38 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/38/paragraph/2)
+[^c-4a7ac4527b810f48dec9106aa302e505]: Textual amendment: Sch. 6 Pt. 1 inserted (with effect in accordance with Sch. 38 para. 7(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 38 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/38/paragraph/2)
 
-[^key-f863ac23ce8dfd9217cb5ef2ec566de6]: Textual amendment: Sch. 6 renumbered as Sch. 6 Pt. 2 (with effect in accordance with Sch. 38 para. 7(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 38 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/38/paragraph/2)
+[^c-f863ac23ce8dfd9217cb5ef2ec566de6]: Textual amendment: Sch. 6 renumbered as Sch. 6 Pt. 2 (with effect in accordance with Sch. 38 para. 7(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 38 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/38/paragraph/2)
 
-[^key-2840433eedd699b07fd40d1bae3ba36c]: Textual amendment: Words in Sch. 6 para. 1(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 285(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/285/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2840433eedd699b07fd40d1bae3ba36c]: Textual amendment: Words in Sch. 6 para. 1(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 285(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/285/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f52067e1f172e3c65807115db974e14c]: Textual amendment: Words in Sch. 6 para. 1(5) inserted (with effect in accordance with s. 200(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 200(6)](https://www.legislation.gov.uk/ukpga/2012/14/section/200/6)
+[^c-f52067e1f172e3c65807115db974e14c]: Textual amendment: Words in Sch. 6 para. 1(5) inserted (with effect in accordance with s. 200(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 200(6)](https://www.legislation.gov.uk/ukpga/2012/14/section/200/6)
 
-[^key-49f6f6bc3d930a5f61cf917ed464a0b8]: Textual amendment: Sch. 6 para. 1A inserted (1.1.2005 with effect in accordance with s. 22(5) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 22(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/22/2); [S.I. 2004/3104](https://www.legislation.gov.uk/uksi/2004/3104), [art. 2](https://www.legislation.gov.uk/uksi/2004/3104/article/2); S.I. 2004/3104, art. 2
+[^c-49f6f6bc3d930a5f61cf917ed464a0b8]: Textual amendment: Sch. 6 para. 1A inserted (1.1.2005 with effect in accordance with s. 22(5) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 22(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/22/2); [S.I. 2004/3104](https://www.legislation.gov.uk/uksi/2004/3104), [art. 2](https://www.legislation.gov.uk/uksi/2004/3104/article/2); S.I. 2004/3104, art. 2
 
-[^key-611e2bd4cc94afa6814b44b84278cbe2]: Textual amendment: Words in Sch. 6 para. 1A(4) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 91(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/91/2/a/i) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-611e2bd4cc94afa6814b44b84278cbe2]: Textual amendment: Words in Sch. 6 para. 1A(4) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 91(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/91/2/a/i) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-b9bef06984bd6e7c4d9004ca1dac7eec]: Textual amendment: Words in Sch. 6 para. 1A(4) substituted (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 91(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/91/2/a/ii) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-b9bef06984bd6e7c4d9004ca1dac7eec]: Textual amendment: Words in Sch. 6 para. 1A(4) substituted (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 91(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/91/2/a/ii) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-a0419d03e7dd94cbed7f34d7e68147b5]: Textual amendment: Words in Sch. 6 para. 1A(6)(a) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 91(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/91/2/b/i) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-a0419d03e7dd94cbed7f34d7e68147b5]: Textual amendment: Words in Sch. 6 para. 1A(6)(a) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 91(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/91/2/b/i) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-1a81df5a22477ee02521e929194631ff]: Textual amendment: Word in Sch. 6 para. 1A(6)(a) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 91(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/91/2/b/ii) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-1a81df5a22477ee02521e929194631ff]: Textual amendment: Word in Sch. 6 para. 1A(6)(a) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 91(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/91/2/b/ii) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-88f3c55f496a9115768a9f3d00024a1f]: Textual amendment: Sch. 6 para. 2A inserted (retrospective and with effect in accordance with Sch. 38 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 38 paras. 6](https://www.legislation.gov.uk/ukpga/2013/29/schedule/38/paragraph/6), [8](https://www.legislation.gov.uk/ukpga/2013/29/schedule/38/paragraph/8)
+[^c-88f3c55f496a9115768a9f3d00024a1f]: Textual amendment: Sch. 6 para. 2A inserted (retrospective and with effect in accordance with Sch. 38 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 38 paras. 6](https://www.legislation.gov.uk/ukpga/2013/29/schedule/38/paragraph/6), [8](https://www.legislation.gov.uk/ukpga/2013/29/schedule/38/paragraph/8)
 
-[^key-5fa4693b8fddc184655acee8d269af4f]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-5fa4693b8fddc184655acee8d269af4f]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-1cf759011d8ee57b69a18b1714b0c6c5]: Textual amendment: Words in Sch. 6 para. 3(1)(a)(ii) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 91(3)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/91/3) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-1cf759011d8ee57b69a18b1714b0c6c5]: Textual amendment: Words in Sch. 6 para. 3(1)(a)(ii) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 91(3)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/91/3) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-2b9ce86a23bd732a165d6dd9dff3227f]: Textual amendment: Sch. 6 para. 4 substituted (with effect in accordance with s. 108(2)-(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/108/1)
+[^c-2b9ce86a23bd732a165d6dd9dff3227f]: Textual amendment: Sch. 6 para. 4 substituted (with effect in accordance with s. 108(2)-(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/108/1)
 
-[^key-6cab54aea96ed7fdf0377ccace0eded0]: Textual amendment: Sch. 6 para. 5 repealed (with application in accordance with Sch. 1 para. 4 of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2003/14/schedule/1/paragraph/3), [Sch. 43 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/2)
+[^c-6cab54aea96ed7fdf0377ccace0eded0]: Textual amendment: Sch. 6 para. 5 repealed (with application in accordance with Sch. 1 para. 4 of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2003/14/schedule/1/paragraph/3), [Sch. 43 Pt. 2](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/2)
 
-[^key-7ffb2550893c8ba540901d13d9401e25]: Textual amendment: Sch. 6 para. 6(1)(d) and word omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/4) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-7ffb2550893c8ba540901d13d9401e25]: Textual amendment: Sch. 6 para. 6(1)(d) and word omitted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/4) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-4433ad8276988175c774d1045ffdf680]: Textual amendment: Words in Sch. 6 para. 6(1) inserted (with effect in accordance with Sch. 38 para. 7(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 38 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/38/paragraph/3)
+[^c-4433ad8276988175c774d1045ffdf680]: Textual amendment: Words in Sch. 6 para. 6(1) inserted (with effect in accordance with Sch. 38 para. 7(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 38 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/38/paragraph/3)
 
-[^key-38ce80e71700898a43357e0a4fe96a67]: Textual amendment: Sch. 6 para. 7 renumbered as Sch. 6 para. 7(1) (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 99(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/99/5)
+[^c-38ce80e71700898a43357e0a4fe96a67]: Textual amendment: Sch. 6 para. 7 renumbered as Sch. 6 para. 7(1) (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 99(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/99/5)
 
 [^c15298921]: Textual amendment: Words in Sch. 6 para. 7(b) substituted (retrospectively) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 33(3)(b)](https://www.legislation.gov.uk/ukpga/1995/4/section/33/3/b)
 
-[^key-b10d947d180977bbdace60c05a04d438]: Textual amendment: Sch. 6 para. 7(2)-(4) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 99(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/99/5)
+[^c-b10d947d180977bbdace60c05a04d438]: Textual amendment: Sch. 6 para. 7(2)-(4) inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 99(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/99/5)
 
 [^c15298931]: Modification: Sch. 6 para. 8 modified (30.6.1997) by [S.I. 1997/1523](https://www.legislation.gov.uk/uksi/1997/1523), [arts. 7](https://www.legislation.gov.uk/uksi/1997/1523/article/7), [8](https://www.legislation.gov.uk/uksi/1997/1523/article/8)
 
-[^key-5c7df3f43d1b1f8cf88ce30a6dd1f4aa]: Textual amendment: Words in Sch. 6 para. 8 inserted (with effect in accordance with s. 5(2) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2005/22/section/5/1/a)
+[^c-5c7df3f43d1b1f8cf88ce30a6dd1f4aa]: Textual amendment: Words in Sch. 6 para. 8 inserted (with effect in accordance with s. 5(2) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2005/22/section/5/1/a)
 
-[^key-20a68d30f1f53683ee03870b88804543]: Textual amendment: Words in Sch. 6 para. 8 inserted (with effect in accordance with s. 5(2) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2005/22/section/5/1/b)
+[^c-20a68d30f1f53683ee03870b88804543]: Textual amendment: Words in Sch. 6 para. 8 inserted (with effect in accordance with s. 5(2) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2005/22/section/5/1/b)
 
-[^key-1654cb5a1ec720b5c43a1fef54fe5e6f]: Textual amendment: Sch. 6 para. 8A inserted (with effect in accordance with s. 200(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 200(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/200/7)
+[^c-1654cb5a1ec720b5c43a1fef54fe5e6f]: Textual amendment: Sch. 6 para. 8A inserted (with effect in accordance with s. 200(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 200(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/200/7)
 
-[^key-aeee680fb99d45fa1008ba3f3f6bd14d]: Textual amendment: [Sch. 6 para. 11A](https://www.legislation.gov.uk/ukpga/1994/23/schedule/6/paragraph/11A) inserted (with effect in accordance with s. 97(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 97(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/97/1)
+[^c-aeee680fb99d45fa1008ba3f3f6bd14d]: Textual amendment: [Sch. 6 para. 11A](https://www.legislation.gov.uk/ukpga/1994/23/schedule/6/paragraph/11A) inserted (with effect in accordance with s. 97(2) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 97(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/97/1)
 
-[^key-98566d782bdbc1e71365e36d3fafe6c9]: Textual amendment: [Sch. 6 para. 11B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/6/paragraph/11B) inserted (with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 80(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/80/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/80/5)
+[^c-98566d782bdbc1e71365e36d3fafe6c9]: Textual amendment: [Sch. 6 para. 11B](https://www.legislation.gov.uk/ukpga/1994/23/schedule/6/paragraph/11B) inserted (with effect in accordance with s. 80(5) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 80(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/80/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/80/5)

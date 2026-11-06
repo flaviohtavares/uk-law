@@ -132,7 +132,7 @@ In accordance with section 176(1) of the 1992 Act and, in so far as these Regula
 - [Section 37 — Loss of benefit penalties: transition from working tax credit](part-2/section-37.md)
 - [Section 38 — Loss of benefit penalties: maximum total reduction](part-2/section-38.md)
 
-### PART 3 — ARRANGEMENTS REGARDING CHANGES TO THE CHILD ELEMENT FROM APRIL 2017[^key-b19646e3024c161510e54618420a8281]
+### PART 3 — ARRANGEMENTS REGARDING CHANGES TO THE CHILD ELEMENT FROM APRIL 2017[^c-b19646e3024c161510e54618420a8281]
 
 *Extent: E+W+S+N.I.*
 
@@ -142,18 +142,18 @@ In accordance with section 176(1) of the 1992 Act and, in so far as these Regula
 - [Section 42 — Evidence for non-consensual conception where claimant previously had an award of child tax credit](part-part3/section-42.md)
 - [Section 43 — Abolition of higher amount of the child element for first child or qualifying young person – saving where claimant responsible for a child or qualifying young person born before 6th April 2017](part-part3/section-43.md)
 
-### PART 4 — MANAGED MIGRATION TO UNIVERSAL CREDIT[^key-90e3de9c82961a5746b71bf6175c0696]
+### PART 4 — MANAGED MIGRATION TO UNIVERSAL CREDIT[^c-90e3de9c82961a5746b71bf6175c0696]
 
 *Extent: E+W+S+N.I.*
 
-#### The Migration Process[^key-90e3de9c82961a5746b71bf6175c0696]
+#### The Migration Process[^c-90e3de9c82961a5746b71bf6175c0696]
 
 - [Section 44 — Migration notice](part-4/section-44.md)
 - [Section 45 — Extension of the deadline day](part-4/section-45.md)
 - [Section 46 — Termination of existing benefits if no claim before the deadline](part-4/section-46.md)
 - [Section 47 — Notified persons who claim as a different benefit unit](part-4/section-47.md)
 
-#### Transitional Protection[^key-90e3de9c82961a5746b71bf6175c0696]
+#### Transitional Protection[^c-90e3de9c82961a5746b71bf6175c0696]
 
 - [Section 48 — Meaning of “qualifying claim”](part-4/section-48.md)
 - [Section 49 — Meaning of “migration day”](part-4/section-49.md)
@@ -164,12 +164,12 @@ In accordance with section 176(1) of the 1992 Act and, in so far as these Regula
 - [Section 54 — The transitional element - indicative UC amount](part-4/section-54.md)
 - [Section 55 — The transitional element – initial amount and adjustment where other elements increase](part-4/section-55.md)
 
-#### Ending of transitional protection[^key-90e3de9c82961a5746b71bf6175c0696]
+#### Ending of transitional protection[^c-90e3de9c82961a5746b71bf6175c0696]
 
 - [Section 56 — Circumstances in which transitional protection ceases](part-4/section-56.md)
 - [Section 57 — Application of transitional protection to a subsequent award](part-4/section-57.md)
 
-#### Miscellaneous[^key-90e3de9c82961a5746b71bf6175c0696]
+#### Miscellaneous[^c-90e3de9c82961a5746b71bf6175c0696]
 
 - [Section 58 — Qualifying claim – Secretary of State may set later commencement day](part-4/section-58.md)
 - [Section 59 — Minimum income floor not to apply for first 12 months](part-4/section-59.md)
@@ -245,6 +245,6 @@ An assessment has been made of the impact of the introduction of universal credi
 
 [^c2210258]: Marginal citation: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-b19646e3024c161510e54618420a8281]: Textual amendment: Pt. 3 inserted (6.4.2017) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017 (S.I. 2017/376)](https://www.legislation.gov.uk/uksi/2017/376), [regs. 1](https://www.legislation.gov.uk/uksi/2017/376/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/376/regulation/3/3)
+[^c-b19646e3024c161510e54618420a8281]: Textual amendment: Pt. 3 inserted (6.4.2017) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017 (S.I. 2017/376)](https://www.legislation.gov.uk/uksi/2017/376), [regs. 1](https://www.legislation.gov.uk/uksi/2017/376/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/376/regulation/3/3)
 
-[^key-90e3de9c82961a5746b71bf6175c0696]: Textual amendment: Pt. 4 inserted (24.7.2019) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/3/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/1152/regulation/2))
+[^c-90e3de9c82961a5746b71bf6175c0696]: Textual amendment: Pt. 4 inserted (24.7.2019) by [The Universal Credit (Managed Migration Pilot and Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1152)](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/3/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/1152/regulation/2))

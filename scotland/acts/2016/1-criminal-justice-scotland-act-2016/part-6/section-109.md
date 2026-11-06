@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Statements by accused[^key-bbb873e209ffa7102d1acc9f6f0991d4]
+## 109. Statements by accused[^c-bbb873e209ffa7102d1acc9f6f0991d4]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbb873e209ffa7102d1acc9f6f0991d4]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2016/1/section/109) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2017/345/article/9))
+[^c-bbb873e209ffa7102d1acc9f6f0991d4]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2016/1/section/109) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2017/345/article/9))

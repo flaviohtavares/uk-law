@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Transactions treated as being on arm's length terms[^key-74bfacd5e5d425a557585e416c9c92ef]
+## 22. Transactions treated as being on arm's length terms[^c-74bfacd5e5d425a557585e416c9c92ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74bfacd5e5d425a557585e416c9c92ef]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2009/4/section/22) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 6(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/6/a), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-74bfacd5e5d425a557585e416c9c92ef]: Textual amendment: [S. 22](https://www.legislation.gov.uk/ukpga/2009/4/section/22) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 6(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/6/a), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

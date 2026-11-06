@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Council [Decision 2005/834/EC](https://www.legislation.gov.uk/european/decision/2005/0834)[^key-b812b1ccecf904b40c4d2ace90863d18]
+## 3. Council [Decision 2005/834/EC](https://www.legislation.gov.uk/european/decision/2005/0834)[^c-b812b1ccecf904b40c4d2ace90863d18]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b812b1ccecf904b40c4d2ace90863d18]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1388/regulation/3) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-b812b1ccecf904b40c4d2ace90863d18]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1388/regulation/3) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)

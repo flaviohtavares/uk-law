@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Transfer of functions etc. back from the appropriate supervisory body.[^key-ea8e6ca9d3eb288360f5a0d51613ceb1]
+## 5. Transfer of functions etc. back from the appropriate supervisory body.[^c-ea8e6ca9d3eb288360f5a0d51613ceb1]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ the relevant Minister may by order made by statutory instrument constitute an in
 
 ## Annotations
 
-[^key-ea8e6ca9d3eb288360f5a0d51613ceb1]: Textual amendment: Words in s. 5 heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 317](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/317) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ea8e6ca9d3eb288360f5a0d51613ceb1]: Textual amendment: Words in s. 5 heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 317](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/317) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c1415306]: Textual amendment: Words in s. 5 substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22), [para. 191](https://www.legislation.gov.uk/ukpga/1995/25/paragraph/191)(with ss. 7(6), 115, 117); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)

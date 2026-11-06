@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Alternative procedure for byelaws[^key-cfe19eb5d90a16fa6298a64e34bd3c38]
+## 129. Alternative procedure for byelaws[^c-cfe19eb5d90a16fa6298a64e34bd3c38]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfe19eb5d90a16fa6298a64e34bd3c38]: Commencement: S. 129 in force at 27.1.2010 by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/112/article/2/a)
+[^c-cfe19eb5d90a16fa6298a64e34bd3c38]: Commencement: S. 129 in force at 27.1.2010 by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/112/article/2/a)

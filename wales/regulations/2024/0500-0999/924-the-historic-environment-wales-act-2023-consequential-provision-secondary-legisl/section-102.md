@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**102.**[^key-8f3e3df89ac4d81d29d3835da98dd1a0] After regulation 13 insert—
+**102.**[^c-8f3e3df89ac4d81d29d3835da98dd1a0] After regulation 13 insert—
 
 > **13A. Period specified for choice of inquiry, hearing or written procedure**
 >
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f3e3df89ac4d81d29d3835da98dd1a0]: Commencement: [Reg. 102](https://www.legislation.gov.uk/wsi/2024/924/regulation/102) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-8f3e3df89ac4d81d29d3835da98dd1a0]: Commencement: [Reg. 102](https://www.legislation.gov.uk/wsi/2024/924/regulation/102) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

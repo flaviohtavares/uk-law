@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^c11858481][^c11858491][^c11858501] In this Part of this Act, unless the context otherwise requires, the following expressions have the meanings hereby assigned to them respectively, that is to say:—
 
-- [^key-40d0917b74a2096692f95682c0c1f3a9]...[^c11858521]
+- [^c-40d0917b74a2096692f95682c0c1f3a9]...[^c11858521]
 - [^c11858531]. . .
 - [^c11858541]. . .
 - [^c11858551]. . .
@@ -38,7 +38,7 @@ summary: ''
 - [^c11858641]. . .
 - [^c11858651]. . .
 
-(2)[^key-ee1b33c83eb61835fb86fa797f5fdd42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ee1b33c83eb61835fb86fa797f5fdd42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)
 
@@ -52,7 +52,7 @@ summary: ''
 
 [^c11858501]: Modification: S. 86(1) amended by [S.I. 1987/2110](https://www.legislation.gov.uk/uksi/1987/2110), [art. 8(c)](https://www.legislation.gov.uk/uksi/1987/2110/article/8/c)
 
-[^key-40d0917b74a2096692f95682c0c1f3a9]: Textual amendment: Words in s. 86(1) repealed (12.11.2003) by [The Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2)
+[^c-40d0917b74a2096692f95682c0c1f3a9]: Textual amendment: Words in s. 86(1) repealed (12.11.2003) by [The Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2)
 
 [^c11858521]: Marginal citation: [1981 c. 38](https://www.legislation.gov.uk/ukpga/1981/38).
 
@@ -82,7 +82,7 @@ summary: ''
 
 [^c11858651]: Textual amendment: S. 86(1): definition of “**telepost service**” repealed (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1149/schedule/2) (with [art. 4(11)](https://www.legislation.gov.uk/uksi/2001/1149/article/4/11))
 
-[^key-ee1b33c83eb61835fb86fa797f5fdd42]: Textual amendment: [S. 86(2)](https://www.legislation.gov.uk/ukpga/1969/48/section/86/2) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-ee1b33c83eb61835fb86fa797f5fdd42]: Textual amendment: [S. 86(2)](https://www.legislation.gov.uk/ukpga/1969/48/section/86/2) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c11858691]: Textual amendment: S. 86(3) repealed by [British Telecommunications Act 1981 (c. 38)](https://www.legislation.gov.uk/ukpga/1981/38), [Sch. 6 Pt. II](https://www.legislation.gov.uk/ukpga/1981/38/schedule/6/part/II)
 

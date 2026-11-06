@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8ZA. Contact with a child in care[^key-39eb57b3ab0666e431b7dddcea2c0796]
+## 8ZA. Contact with a child in care[^c-39eb57b3ab0666e431b7dddcea2c0796]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ When considering whether contact between C and any of the persons mentioned in p
 
 ## Annotations
 
-[^key-39eb57b3ab0666e431b7dddcea2c0796]: Textual amendment: Reg. 8ZA inserted (25.7.2014) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1556)](https://www.legislation.gov.uk/uksi/2014/1556), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1556/regulation/1), [10](https://www.legislation.gov.uk/uksi/2014/1556/regulation/10)
+[^c-39eb57b3ab0666e431b7dddcea2c0796]: Textual amendment: Reg. 8ZA inserted (25.7.2014) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1556)](https://www.legislation.gov.uk/uksi/2014/1556), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1556/regulation/1), [10](https://www.legislation.gov.uk/uksi/2014/1556/regulation/10)
 
 [^c20224571]: Marginal citation: Section 34(1) was amended by section 139(1) of, and paragraphs 54 and 64 of Schedule 3 to, the Adoption and Children Act 2002.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Involvement of local representatives[^key-41688c22bab00ff705ff55dbd0525c73][^key-f8bd53466da7ad75dc7e7613aa0d6d51]
+## 138. Involvement of local representatives[^c-41688c22bab00ff705ff55dbd0525c73][^c-f8bd53466da7ad75dc7e7613aa0d6d51]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41688c22bab00ff705ff55dbd0525c73]: Textual amendment: S. 138 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 103(2)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/103/2/b), [115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l)
+[^c-41688c22bab00ff705ff55dbd0525c73]: Textual amendment: S. 138 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 103(2)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/103/2/b), [115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l)
 
-[^key-f8bd53466da7ad75dc7e7613aa0d6d51]: Commencement: S. 138 in force at 1.4.2009 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/917/article/3/a)
+[^c-f8bd53466da7ad75dc7e7613aa0d6d51]: Commencement: S. 138 in force at 1.4.2009 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/917/article/3/a)

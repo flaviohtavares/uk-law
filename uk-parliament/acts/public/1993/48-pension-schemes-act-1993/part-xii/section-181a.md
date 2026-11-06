@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181A. Interpretation of references to money purchase contracted-out schemes or appropriate schemes after abolition date[^key-919beff7ec074940768c71e17530a3a4]
+## 181A. Interpretation of references to money purchase contracted-out schemes or appropriate schemes after abolition date[^c-919beff7ec074940768c71e17530a3a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-919beff7ec074940768c71e17530a3a4]: Textual amendment: [S. 181A](https://www.legislation.gov.uk/ukpga/1993/48/section/181A) repealed (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 44](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/44)
+[^c-919beff7ec074940768c71e17530a3a4]: Textual amendment: [S. 181A](https://www.legislation.gov.uk/ukpga/1993/48/section/181A) repealed (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 44](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/44)

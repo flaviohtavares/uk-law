@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Financial Assistance Scheme Regulations 2005[^key-c947f3c5d6ed53460f9365b9631384f4]
+## 102. Financial Assistance Scheme Regulations 2005[^c-c947f3c5d6ed53460f9365b9631384f4]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ In regulation 2(1) of the Financial Assistance Scheme Regulations 2005[^f00165],
 
 ## Annotations
 
-[^key-c947f3c5d6ed53460f9365b9631384f4]: Commencement: Reg. 102 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-c947f3c5d6ed53460f9365b9631384f4]: Commencement: Reg. 102 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00165]: Footnote: [S.I. 2005/1986](https://www.legislation.gov.uk/uksi/2005/1986). In regulation 2(1), the definition of “partner” was inserted (with UK extent) by [S.I. 2009/1851](https://www.legislation.gov.uk/uksi/2009/1851), and substituted (so far as extending to England and Wales) by paragraph 36 of Schedule 1 to [S.I. 2014/107](https://www.legislation.gov.uk/uksi/2014/107) and (so far as extending to Scotland) by paragraph 25 of Schedule 6 to [S.I. 2014/3229](https://www.legislation.gov.uk/uksi/2014/3229), and amended (with UK extent) by [S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).

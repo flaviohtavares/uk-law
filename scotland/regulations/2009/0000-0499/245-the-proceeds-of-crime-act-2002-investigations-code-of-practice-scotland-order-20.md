@@ -32,7 +32,7 @@ summary: ''
 
 Proceeds Of Crime
 
-The Proceeds of Crime Act 2002 (Investigations: Code of Practice) (Scotland) Order 2009 (revoked)[^key-422553ebfb5be2a1cee59e18c9a0403a]
+The Proceeds of Crime Act 2002 (Investigations: Code of Practice) (Scotland) Order 2009 (revoked)[^c-422553ebfb5be2a1cee59e18c9a0403a]
 
 Made
 
@@ -40,24 +40,24 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-422553ebfb5be2a1cee59e18c9a0403a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-422553ebfb5be2a1cee59e18c9a0403a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and revocation[^key-422553ebfb5be2a1cee59e18c9a0403a]
+## 1. Citation, commencement, extent and revocation[^c-422553ebfb5be2a1cee59e18c9a0403a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revised code of practice[^key-422553ebfb5be2a1cee59e18c9a0403a]
+## 2. Revised code of practice[^c-422553ebfb5be2a1cee59e18c9a0403a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-422553ebfb5be2a1cee59e18c9a0403a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-422553ebfb5be2a1cee59e18c9a0403a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-422553ebfb5be2a1cee59e18c9a0403a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-422553ebfb5be2a1cee59e18c9a0403a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-422553ebfb5be2a1cee59e18c9a0403a]: Textual amendment: Order revoked (28.11.2019) by [The Proceeds of Crime Act 2002 (Investigations: Code of Practice) (Scotland) Order 2019 (S.S.I. 2019/390)](https://www.legislation.gov.uk/ssi/2019/390), [arts. 1](https://www.legislation.gov.uk/ssi/2019/390/article/1), [3](https://www.legislation.gov.uk/ssi/2019/390/article/3)
+[^c-422553ebfb5be2a1cee59e18c9a0403a]: Textual amendment: Order revoked (28.11.2019) by [The Proceeds of Crime Act 2002 (Investigations: Code of Practice) (Scotland) Order 2019 (S.S.I. 2019/390)](https://www.legislation.gov.uk/ssi/2019/390), [arts. 1](https://www.legislation.gov.uk/ssi/2019/390/article/1), [3](https://www.legislation.gov.uk/ssi/2019/390/article/3)

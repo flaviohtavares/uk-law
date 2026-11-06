@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. School organisation plans.[^key-9ebf39a981c818e641bfe70199c65081]
+## 26. School organisation plans.[^c-9ebf39a981c818e641bfe70199c65081]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ebf39a981c818e641bfe70199c65081]: Textual amendment: Ss. 26-26B repealed (1.3.2005 for E., 1.9.2006 for W.) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/31/schedule/5/part/1); [S.I. 2005/394](https://www.legislation.gov.uk/uksi/2005/394), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2005/394/article/2/1/l); [S.I. 2006/885](https://www.legislation.gov.uk/uksi/2006/885), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2006/885/article/2/3/b)
+[^c-9ebf39a981c818e641bfe70199c65081]: Textual amendment: Ss. 26-26B repealed (1.3.2005 for E., 1.9.2006 for W.) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/31/schedule/5/part/1); [S.I. 2005/394](https://www.legislation.gov.uk/uksi/2005/394), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2005/394/article/2/1/l); [S.I. 2006/885](https://www.legislation.gov.uk/uksi/2006/885), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2006/885/article/2/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 190. Payment by employers to scheme manager[^key-5b4274669e02775fb05ebfbac060bfad]
+## 190. Payment by employers to scheme manager[^c-5b4274669e02775fb05ebfbac060bfad]
 
 *Extent: S*
 
@@ -24,9 +24,9 @@ summary: ''
 
 (2) After the end of each pay period, P’s employer is to pay to the scheme manager in respect of P’s pensionable earnings for that pay period—
 
-- (a) the contributions payable under regulation 186; and[^key-9358735c73ad118104950bf581b063f8]
-- (b) the contributions required to be deducted from P’s pensionable earnings under regulation 187 (whether or not such amounts were deducted); [^key-e1683b133e830bbb5ebf38bb55eb3d9b]...
-- (c)[^key-e1683b133e830bbb5ebf38bb55eb3d9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the contributions payable under regulation 186; and[^c-9358735c73ad118104950bf581b063f8]
+- (b) the contributions required to be deducted from P’s pensionable earnings under regulation 187 (whether or not such amounts were deducted); [^c-e1683b133e830bbb5ebf38bb55eb3d9b]...
+- (c)[^c-e1683b133e830bbb5ebf38bb55eb3d9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purpose of paragraph (1)—
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5b4274669e02775fb05ebfbac060bfad]: Commencement: [Reg. 190](https://www.legislation.gov.uk/ssi/2014/292/regulation/190) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-5b4274669e02775fb05ebfbac060bfad]: Commencement: [Reg. 190](https://www.legislation.gov.uk/ssi/2014/292/regulation/190) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-9358735c73ad118104950bf581b063f8]: Textual amendment: Word in [reg. 190(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/190/2/a) inserted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [19(a)](https://www.legislation.gov.uk/ssi/2015/97/regulation/19/a)
+[^c-9358735c73ad118104950bf581b063f8]: Textual amendment: Word in [reg. 190(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/190/2/a) inserted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [19(a)](https://www.legislation.gov.uk/ssi/2015/97/regulation/19/a)
 
-[^key-e1683b133e830bbb5ebf38bb55eb3d9b]: Textual amendment: [Reg. 190(2)(c)](https://www.legislation.gov.uk/ssi/2014/292/regulation/190/2/c) and word omitted (1.4.2015) by virtue of [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [19(b)](https://www.legislation.gov.uk/ssi/2015/97/regulation/19/b)
+[^c-e1683b133e830bbb5ebf38bb55eb3d9b]: Textual amendment: [Reg. 190(2)(c)](https://www.legislation.gov.uk/ssi/2014/292/regulation/190/2/c) and word omitted (1.4.2015) by virtue of [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [19(b)](https://www.legislation.gov.uk/ssi/2015/97/regulation/19/b)

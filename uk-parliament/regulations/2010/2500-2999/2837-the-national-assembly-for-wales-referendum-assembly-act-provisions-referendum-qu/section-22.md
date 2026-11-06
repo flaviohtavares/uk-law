@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Publication and copies of documents[^key-0b2e4e2fa6421e9759439a53ad31f7fb]
+## 22. Publication and copies of documents[^c-0b2e4e2fa6421e9759439a53ad31f7fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b2e4e2fa6421e9759439a53ad31f7fb]: Commencement: Art. 22 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-0b2e4e2fa6421e9759439a53ad31f7fb]: Commencement: Art. 22 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

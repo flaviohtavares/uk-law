@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Penalty for evasion[^key-0f71c35239a498b74cee77501dcf4b84][^key-2aa33b44296caac0f00136612182ac47][^key-6d3fb379168fa318b8e49c16fb890824]
+## 25. Penalty for evasion[^c-0f71c35239a498b74cee77501dcf4b84][^c-2aa33b44296caac0f00136612182ac47][^c-6d3fb379168fa318b8e49c16fb890824]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ that person is liable to a penalty of an amount equal to the amount of the tax o
 
 (2) Subsection (1) is subject to the following provisions of this Part.
 
-(3)[^key-070ee5762ad8a9339fea5947fc557a3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-070ee5762ad8a9339fea5947fc557a3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Any reference in this section to a person’s “**evading**” any relevant tax or duty includes a reference to his obtaining or securing, without his being entitled to it,—
 
@@ -57,10 +57,10 @@ that conduct does not also give rise to liability to a penalty under this sectio
 
 ## Annotations
 
-[^key-0f71c35239a498b74cee77501dcf4b84]: Commencement: S. 25 in force at 27.11.2003 by [S.I. 2003/2985](https://www.legislation.gov.uk/uksi/2003/2985), [art. 2](https://www.legislation.gov.uk/uksi/2003/2985/article/2)
+[^c-0f71c35239a498b74cee77501dcf4b84]: Commencement: S. 25 in force at 27.11.2003 by [S.I. 2003/2985](https://www.legislation.gov.uk/uksi/2003/2985), [art. 2](https://www.legislation.gov.uk/uksi/2003/2985/article/2)
 
-[^key-2aa33b44296caac0f00136612182ac47]: Modification: Pt. 3 modified (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 158(7)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/158/7) (as inserted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/6) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642) [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
+[^c-2aa33b44296caac0f00136612182ac47]: Modification: Pt. 3 modified (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22), [Sch. 7 para. 158(7)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/158/7) (as inserted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 10(6)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/10/6) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642) [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
 
-[^key-6d3fb379168fa318b8e49c16fb890824]: Modification: Pt. 3 continued (31.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3/1/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-6d3fb379168fa318b8e49c16fb890824]: Modification: Pt. 3 continued (31.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [3(1)(b)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3/1/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-070ee5762ad8a9339fea5947fc557a3d]: Textual amendment: S. 25(3) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 149](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/149) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-070ee5762ad8a9339fea5947fc557a3d]: Textual amendment: S. 25(3) omitted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 149](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/149) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Abolition of alternative possession procedure following notice to treat[^key-2d84dac6cde88c8ff136f396fc42aa64]
+## 190. Abolition of alternative possession procedure following notice to treat[^c-2d84dac6cde88c8ff136f396fc42aa64]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 16 abolishes the alternative procedure for taking possession of land un
 
 ## Annotations
 
-[^key-2d84dac6cde88c8ff136f396fc42aa64]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2016/22/section/190) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/j)
+[^c-2d84dac6cde88c8ff136f396fc42aa64]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2016/22/section/190) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/j)

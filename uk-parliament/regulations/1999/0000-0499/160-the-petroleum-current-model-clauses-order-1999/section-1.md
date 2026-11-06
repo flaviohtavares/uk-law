@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-1a5964cd54dbae2a832be56bbe1e4743]
+## 1. Citation and commencement[^c-1a5964cd54dbae2a832be56bbe1e4743]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Petroleum (Current Model Clauses) Order 1999 and 
 
 ## Annotations
 
-[^key-1a5964cd54dbae2a832be56bbe1e4743]: Commencement: Art. 1 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)
+[^c-1a5964cd54dbae2a832be56bbe1e4743]: Commencement: Art. 1 in force at 15.2.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/160/article/1)

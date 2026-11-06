@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Notice of appointment[^key-8de176055066214197e40c7db15d2592]
+## 31. Notice of appointment[^c-8de176055066214197e40c7db15d2592]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8de176055066214197e40c7db15d2592]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2011/1301/rule/31) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-8de176055066214197e40c7db15d2592]: Commencement: [Rule 31](https://www.legislation.gov.uk/uksi/2011/1301/rule/31) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

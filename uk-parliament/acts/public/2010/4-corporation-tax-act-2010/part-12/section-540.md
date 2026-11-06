@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 540. Election to treat notional income as arising in instalments[^key-e167a138688b21dd95afa6bf643903c3]
+## 540. Election to treat notional income as arising in instalments[^c-e167a138688b21dd95afa6bf643903c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e167a138688b21dd95afa6bf643903c3]: Textual amendment: Ss. 538-540 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/33) (with [Sch. 4 para. 33(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/33/2))
+[^c-e167a138688b21dd95afa6bf643903c3]: Textual amendment: Ss. 538-540 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/33) (with [Sch. 4 para. 33(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/33/2))

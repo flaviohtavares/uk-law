@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Calculation of earned income in an assessment period[^key-ca391f2ef29ea7e82f858c9aa9267499]
+## 47. Calculation of earned income in an assessment period[^c-ca391f2ef29ea7e82f858c9aa9267499]
 
 *Extent: S*
 
@@ -32,12 +32,12 @@ the relevant authority may use such parts of that information as are relevant fo
 
 (3) An applicant who has had employed earnings and has withdrawn their labour in furtherance of a trade dispute is, unless their contract of service has been terminated, to be assumed to have employed earnings at the same level as they would have had were it not for the trade dispute.
 
-(4)[^key-554d3725a86cfcfa346c8e27c6544932] In this regulation, “**trade dispute**” has the meaning given in section 244 of the Trade Union and Labour Relations (Consolidation) Act 1992.
+(4)[^c-554d3725a86cfcfa346c8e27c6544932] In this regulation, “**trade dispute**” has the meaning given in section 244 of the Trade Union and Labour Relations (Consolidation) Act 1992.
 
 ## Annotations
 
-[^key-ca391f2ef29ea7e82f858c9aa9267499]: Commencement: [Reg. 47](https://www.legislation.gov.uk/ssi/2021/249/regulation/47) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-ca391f2ef29ea7e82f858c9aa9267499]: Commencement: [Reg. 47](https://www.legislation.gov.uk/ssi/2021/249/regulation/47) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00152]: Footnote: Section 131 was amended by section 4 of the Wales Act [2014 (c.29)](https://www.legislation.gov.uk/ukpga/2014/29) and section 20 of the Welfare Reform and Work Act [2016 (c.7)](https://www.legislation.gov.uk/ukpga/2016/7).
 
-[^key-554d3725a86cfcfa346c8e27c6544932]: Textual amendment: [Reg. 47(4)](https://www.legislation.gov.uk/ssi/2021/249/regulation/47/4) inserted (1.4.2023) by [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/38)](https://www.legislation.gov.uk/ssi/2023/38), [regs. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1), [12](https://www.legislation.gov.uk/ssi/2023/38/regulation/12)
+[^c-554d3725a86cfcfa346c8e27c6544932]: Textual amendment: [Reg. 47(4)](https://www.legislation.gov.uk/ssi/2021/249/regulation/47/4) inserted (1.4.2023) by [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/38)](https://www.legislation.gov.uk/ssi/2023/38), [regs. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1), [12](https://www.legislation.gov.uk/ssi/2023/38/regulation/12)

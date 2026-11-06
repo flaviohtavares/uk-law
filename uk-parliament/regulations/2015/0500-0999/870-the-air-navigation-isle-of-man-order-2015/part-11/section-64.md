@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Flights over a foreign country[^key-113178cfd51707e31005790d1f6b1773]
+## 64. Flights over a foreign country[^c-113178cfd51707e31005790d1f6b1773]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-113178cfd51707e31005790d1f6b1773]: Commencement: [Art. 64](https://www.legislation.gov.uk/uksi/2015/870/article/64) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-113178cfd51707e31005790d1f6b1773]: Commencement: [Art. 64](https://www.legislation.gov.uk/uksi/2015/870/article/64) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

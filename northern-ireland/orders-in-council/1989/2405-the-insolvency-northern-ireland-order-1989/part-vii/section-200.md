@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 200. Inquiry into company's dealings, etc.[^key-ae447ef0f31fbaa4cd3e555ead738ac5][^key-a2bf2f68007bbdce65c2dcc9f41f17cf][^key-a5acab5327f25d3edbc47d233400809f][^key-a2bf2f68007bbdce65c2dcc9f41f17cf]
+## 200. Inquiry into company's dealings, etc.[^c-ae447ef0f31fbaa4cd3e555ead738ac5][^c-a2bf2f68007bbdce65c2dcc9f41f17cf][^c-a5acab5327f25d3edbc47d233400809f][^c-a2bf2f68007bbdce65c2dcc9f41f17cf]
 
 *Extent: N.I.*
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ae447ef0f31fbaa4cd3e555ead738ac5]: Modification: [Art. 200](https://www.legislation.gov.uk/nisi/1989/2405/article/200) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-ae447ef0f31fbaa4cd3e555ead738ac5]: Modification: [Art. 200](https://www.legislation.gov.uk/nisi/1989/2405/article/200) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
-[^key-a2bf2f68007bbdce65c2dcc9f41f17cf]: Modification: [Pt. 7](https://www.legislation.gov.uk/nisi/1989/2405/part/7) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-a2bf2f68007bbdce65c2dcc9f41f17cf]: Modification: [Pt. 7](https://www.legislation.gov.uk/nisi/1989/2405/part/7) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
-[^key-a5acab5327f25d3edbc47d233400809f]: Modification: [Art. 200](https://www.legislation.gov.uk/nisi/1989/2405/article/200) applied (2.3.2026) by [The Payment and Electronic Money Institution Insolvency (Northern Ireland) Rules 2026 (S.R. 2026/11)](https://www.legislation.gov.uk/nisr/2026/11), [rules 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1), [211](https://www.legislation.gov.uk/nisr/2026/11/rule/211)
+[^c-a5acab5327f25d3edbc47d233400809f]: Modification: [Art. 200](https://www.legislation.gov.uk/nisi/1989/2405/article/200) applied (2.3.2026) by [The Payment and Electronic Money Institution Insolvency (Northern Ireland) Rules 2026 (S.R. 2026/11)](https://www.legislation.gov.uk/nisr/2026/11), [rules 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1), [211](https://www.legislation.gov.uk/nisr/2026/11/rule/211)

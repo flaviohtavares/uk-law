@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56C. Ships: exceptions from prohibition on operating specified ships[^key-4776a3dc8618cd2e805efdf44d3f4c10]
+## 56C. Ships: exceptions from prohibition on operating specified ships[^c-4776a3dc8618cd2e805efdf44d3f4c10]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4776a3dc8618cd2e805efdf44d3f4c10]: Textual amendment: [Regs. 56B](https://www.legislation.gov.uk/uksi/2023/1314/regulation/56B), [56C](https://www.legislation.gov.uk/uksi/2023/1314/regulation/56C) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2026/983/regulation/24)
+[^c-4776a3dc8618cd2e805efdf44d3f4c10]: Textual amendment: [Regs. 56B](https://www.legislation.gov.uk/uksi/2023/1314/regulation/56B), [56C](https://www.legislation.gov.uk/uksi/2023/1314/regulation/56C) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2026/983/regulation/24)

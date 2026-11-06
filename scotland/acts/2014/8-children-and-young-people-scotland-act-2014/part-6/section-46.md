@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Early learning and childcare[^key-7dacf7e79f5965b9cbf46d235f02262a]
+## 46. Early learning and childcare[^c-7dacf7e79f5965b9cbf46d235f02262a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Part, “**early learning and childcare**” means a service, consisting
 
 ## Annotations
 
-[^key-7dacf7e79f5965b9cbf46d235f02262a]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2014/8/section/46) in force at 28.6.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/131/article/2/1)
+[^c-7dacf7e79f5965b9cbf46d235f02262a]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2014/8/section/46) in force at 28.6.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/131/article/2/1)

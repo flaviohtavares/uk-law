@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 194. Power to change penalty provisions in Chapter 3[^key-019f3e2bf67b429c47159aa24aeb5aef]
+## 194. Power to change penalty provisions in Chapter 3[^c-019f3e2bf67b429c47159aa24aeb5aef]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-019f3e2bf67b429c47159aa24aeb5aef]: Commencement: [S. 194](https://www.legislation.gov.uk/asp/2014/16/section/194) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-019f3e2bf67b429c47159aa24aeb5aef]: Commencement: [S. 194](https://www.legislation.gov.uk/asp/2014/16/section/194) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

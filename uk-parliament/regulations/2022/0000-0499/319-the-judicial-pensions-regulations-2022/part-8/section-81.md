@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Entitlement to surviving adult’s pension[^key-b0b2eac318095c802b0a23aa7ed0b157]
+## 81. Entitlement to surviving adult’s pension[^c-b0b2eac318095c802b0a23aa7ed0b157]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0b2eac318095c802b0a23aa7ed0b157]: Commencement: Reg. 81 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-b0b2eac318095c802b0a23aa7ed0b157]: Commencement: Reg. 81 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

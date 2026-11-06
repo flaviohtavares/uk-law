@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Controls on ammunition which expands on impact[^c22719681][^key-5662d870b86e23a1107a311e165274b4]
+## 129. Controls on ammunition which expands on impact[^c22719681][^c-5662d870b86e23a1107a311e165274b4]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c22719681]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2017/3/section/129) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-5662d870b86e23a1107a311e165274b4]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2017/3/section/129) in force at 2.5.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/e)
+[^c-5662d870b86e23a1107a311e165274b4]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2017/3/section/129) in force at 2.5.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/e)

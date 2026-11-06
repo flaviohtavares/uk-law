@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Authorisation of post-mortem examination etc. as respects child under 12 years of age[^key-e20ecf1909bd4dc936ed6ae4870292f6]
+## 33. Authorisation of post-mortem examination etc. as respects child under 12 years of age[^c-e20ecf1909bd4dc936ed6ae4870292f6]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e20ecf1909bd4dc936ed6ae4870292f6]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2006/4/section/33) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-e20ecf1909bd4dc936ed6ae4870292f6]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2006/4/section/33) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

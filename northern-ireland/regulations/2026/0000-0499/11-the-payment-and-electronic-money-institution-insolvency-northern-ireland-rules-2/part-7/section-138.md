@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 138. Redemption by administrator[^key-7a81fb1ce951c6ea9f2d6f75d624f2a0]
+## 138. Redemption by administrator[^c-7a81fb1ce951c6ea9f2d6f75d624f2a0]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a81fb1ce951c6ea9f2d6f75d624f2a0]: Commencement: [Rule 138](https://www.legislation.gov.uk/nisr/2026/11/rule/138) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-7a81fb1ce951c6ea9f2d6f75d624f2a0]: Commencement: [Rule 138](https://www.legislation.gov.uk/nisr/2026/11/rule/138) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

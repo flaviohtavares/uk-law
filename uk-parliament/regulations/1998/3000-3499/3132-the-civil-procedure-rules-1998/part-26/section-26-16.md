@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26.16. Assignment within the intermediate track[^key-62406252147bc7fc9cba2c32481e196d]
+## 26.16. Assignment within the intermediate track[^c-62406252147bc7fc9cba2c32481e196d]
 
 *Extent: E+W*
 
@@ -26,10 +26,10 @@ Table 2
 
 | Complexity band 1 | Complexity band 2 | Complexity band 3 | Complexity band 4 |
 | --- | --- | --- | --- |
-| Any claim where—<br>(a) only one issue is in dispute; and<br>(b) the trial is not expected to last longer than one day, including—<br>(i) personal injury claims where liability or quantum is in dispute;<br>(ii) road traffic accident related, non-personal injury claims[^key-e831bb20ad304ed0b6835758dde5d426]; and<br>(iii) defended debt claims | Any less complex claim where more than one issue is in dispute, including personal injury accident claims where liability and quantum are in dispute | Any more complex claim where more than one issue is in dispute, but which is unsuitable for assignment to complexity band 2, including noise induced hearing loss and other employer’s liability disease claims | Any claim which would normally be allocated to the intermediate track, but which is unsuitable for assignment to complexity bands 1 to 3, including any personal injury claim where there are serious issues of fact or law |
+| Any claim where—<br>(a) only one issue is in dispute; and<br>(b) the trial is not expected to last longer than one day, including—<br>(i) personal injury claims where liability or quantum is in dispute;<br>(ii) road traffic accident related, non-personal injury claims[^c-e831bb20ad304ed0b6835758dde5d426]; and<br>(iii) defended debt claims | Any less complex claim where more than one issue is in dispute, including personal injury accident claims where liability and quantum are in dispute | Any more complex claim where more than one issue is in dispute, but which is unsuitable for assignment to complexity band 2, including noise induced hearing loss and other employer’s liability disease claims | Any claim which would normally be allocated to the intermediate track, but which is unsuitable for assignment to complexity bands 1 to 3, including any personal injury claim where there are serious issues of fact or law |
 
 ## Annotations
 
-[^key-62406252147bc7fc9cba2c32481e196d]: Textual amendment: Pt. 26 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/572/schedule/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-62406252147bc7fc9cba2c32481e196d]: Textual amendment: Pt. 26 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/572/schedule/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-e831bb20ad304ed0b6835758dde5d426]: Textual amendment: Words in rule 26.16 Table 2 substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [16(6)](https://www.legislation.gov.uk/uksi/2023/788/rule/16/6)
+[^c-e831bb20ad304ed0b6835758dde5d426]: Textual amendment: Words in rule 26.16 Table 2 substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [16(6)](https://www.legislation.gov.uk/uksi/2023/788/rule/16/6)

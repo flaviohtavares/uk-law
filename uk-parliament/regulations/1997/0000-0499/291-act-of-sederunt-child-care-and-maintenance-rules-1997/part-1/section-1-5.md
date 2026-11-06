@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1.5. Vulnerable witnesses[^key-d66660099f705d68ffe62002fdf0b404]
+## 1.5. Vulnerable witnesses[^c-d66660099f705d68ffe62002fdf0b404]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d66660099f705d68ffe62002fdf0b404]: Textual amendment: Rule 1.5 inserted (1.11.2007) by [Act of Sederunt (Child Care and Maintenance Rules 1997) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2007 (S.S.I. 2007/468)](https://www.legislation.gov.uk/ssi/2007/468), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2007/468/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2007/468/paragraph/2/2)
+[^c-d66660099f705d68ffe62002fdf0b404]: Textual amendment: Rule 1.5 inserted (1.11.2007) by [Act of Sederunt (Child Care and Maintenance Rules 1997) Amendment (Vulnerable Witnesses (Scotland) Act 2004) 2007 (S.S.I. 2007/468)](https://www.legislation.gov.uk/ssi/2007/468), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2007/468/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2007/468/paragraph/2/2)

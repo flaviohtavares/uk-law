@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Authorities dissolved by orders: control of disposals, contracts and reserves[^key-a08c39b0326c63bce28981cccef227e5]
+## 24. Authorities dissolved by orders: control of disposals, contracts and reserves[^c-a08c39b0326c63bce28981cccef227e5]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) enter into any non-capital contract under which the consideration payable by the relevant authority exceeds £100,000, where—
   - (i) the period of the contract extends beyond a date specified in the direction; or
   - (ii) under the terms of the contract, that period may be extended beyond that date; or
-- (d) include an amount of financial reserves in a calculation under section 31A(3) or 42A(3)[^key-dfcbd8a9aaaa7b580bbd63af588ac0a6] of the Local Government Finance Act 1992 (c. 14).
+- (d) include an amount of financial reserves in a calculation under section 31A(3) or 42A(3)[^c-dfcbd8a9aaaa7b580bbd63af588ac0a6] of the Local Government Finance Act 1992 (c. 14).
 
 (2) In this Chapter “**relevant authority**” means a local authority—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a08c39b0326c63bce28981cccef227e5]: Commencement: S. 24 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)
+[^c-a08c39b0326c63bce28981cccef227e5]: Commencement: S. 24 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)
 
-[^key-dfcbd8a9aaaa7b580bbd63af588ac0a6]: Textual amendment: Words in [s. 24(1)(d)](https://www.legislation.gov.uk/ukpga/2007/28/section/24/1/d) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 49](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/49); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-dfcbd8a9aaaa7b580bbd63af588ac0a6]: Textual amendment: Words in [s. 24(1)(d)](https://www.legislation.gov.uk/ukpga/2007/28/section/24/1/d) substituted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 49](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/49); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Expenditure under private finance transactions[^key-16182909649269cf9441a136d898f6d2]
+## 8. Expenditure under private finance transactions[^c-16182909649269cf9441a136d898f6d2]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16182909649269cf9441a136d898f6d2]: Commencement: Reg. 8 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-16182909649269cf9441a136d898f6d2]: Commencement: Reg. 8 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

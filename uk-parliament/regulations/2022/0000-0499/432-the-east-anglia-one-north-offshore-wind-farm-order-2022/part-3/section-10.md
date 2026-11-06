@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Public rights of way[^key-8cc5c87146cc9c866ded1ed8f559b6e3]
+## 10. Public rights of way[^c-8cc5c87146cc9c866ded1ed8f559b6e3]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8cc5c87146cc9c866ded1ed8f559b6e3]: Commencement: Art. 10 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-8cc5c87146cc9c866ded1ed8f559b6e3]: Commencement: Art. 10 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
 
 [^f00030]: Footnote: Part 1 was amended by s.192(1) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and Schedule 1 to the Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009, [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 3(1), 31,33(1) and 34(1)
 
-### 1. Power to serve enforcement notice[^key-270fed0a87e54335b2ce22420e0d4414]
+### 1. Power to serve enforcement notice[^c-270fed0a87e54335b2ce22420e0d4414]
 
 (1) Where the enforcing authority reasonably believes, in respect of a supply of water to a point of compliance in its area—
 
@@ -61,7 +61,7 @@ and (in either case) that the person is not taking appropriate steps for the pur
 - (b) the Drinking Water Quality Regulator for Scotland; or
 - (c) the Scottish Ministers.
 
-### 2. Right of appeal against enforcement notice[^key-dd8fd7ed96af1f037415e4b6622116bb]
+### 2. Right of appeal against enforcement notice[^c-dd8fd7ed96af1f037415e4b6622116bb]
 
 (1) A person on whom an enforcement notice has been served may, within a period of 14 days beginning with the date of service, appeal to the sheriff against the notice.
 
@@ -73,7 +73,7 @@ and (in either case) that the person is not taking appropriate steps for the pur
 
 (5) Where a person has rectified the contravention specified in an enforcement notice, the enforcing authority must publish (or arrange for the publication of) information to this effect, in such a manner as the enforcing authority thinks appropriate for bringing it to the attention of persons affected, or who may have been affected, by the contravention.
 
-### 3. Failure to comply with enforcement notice[^key-899cdd8742a3100ec0899843a9bc9e99]
+### 3. Failure to comply with enforcement notice[^c-899cdd8742a3100ec0899843a9bc9e99]
 
 (1) This paragraph applies where, in relation to an enforcement notice, a person—
 
@@ -89,7 +89,7 @@ and (in either case) that the person is not taking appropriate steps for the pur
 
 (3) The expenses which may be recovered under sub-paragraph (2)(b) include such proportion of the enforcing authority’s administrative expenses (including expenses incurred in establishing the contravention and in connection with the enforcement notice) as the enforcing authority considers appropriate.
 
-### 4. Offences in relation to enforcement notice[^key-adfb74a7a9ef22d1dd4fd5cdaec51ef9]
+### 4. Offences in relation to enforcement notice[^c-adfb74a7a9ef22d1dd4fd5cdaec51ef9]
 
 (1) A person commits an offence if the person fails to do anything which an enforcement notice requires the person to do (including a failure to complete a step required by a specified date).
 
@@ -102,10 +102,10 @@ and (in either case) that the person is not taking appropriate steps for the pur
 
 ## Annotations
 
-[^key-270fed0a87e54335b2ce22420e0d4414]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/7/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-270fed0a87e54335b2ce22420e0d4414]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2017/282/schedule/7/paragraph/1) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-dd8fd7ed96af1f037415e4b6622116bb]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/7/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-dd8fd7ed96af1f037415e4b6622116bb]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2017/282/schedule/7/paragraph/2) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-899cdd8742a3100ec0899843a9bc9e99]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ssi/2017/282/schedule/7/paragraph/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-899cdd8742a3100ec0899843a9bc9e99]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ssi/2017/282/schedule/7/paragraph/3) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
 
-[^key-adfb74a7a9ef22d1dd4fd5cdaec51ef9]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ssi/2017/282/schedule/7/paragraph/4) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-adfb74a7a9ef22d1dd4fd5cdaec51ef9]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ssi/2017/282/schedule/7/paragraph/4) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

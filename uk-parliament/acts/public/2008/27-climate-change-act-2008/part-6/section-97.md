@@ -33,7 +33,7 @@ In this Act—
   - (c) an enactment contained in, or in an instrument made under, Northern Ireland legislation, and
   - (d) an enactment contained in, or in an instrument made under, a Measure or Act of the National Assembly for Wales;
 - “**European law**” means—
-  - (a) all the rights, powers, liabilities, obligations and restrictions from time to time created or arising by or under the EU[^key-4c858ecd1a3eb9fe88e9470f347ec91e] Treaties, and
+  - (a) all the rights, powers, liabilities, obligations and restrictions from time to time created or arising by or under the EU[^c-4c858ecd1a3eb9fe88e9470f347ec91e] Treaties, and
   - (b) all the remedies and procedures from time to time provided for by or under the EU Treaties,
 
   and “European policy” has a corresponding meaning;
@@ -46,4 +46,4 @@ In this Act—
 
 ## Annotations
 
-[^key-4c858ecd1a3eb9fe88e9470f347ec91e]: Textual amendment: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 2, 3, 6 (with art. 3(2)(3)4(2)6(4)6(5))
+[^c-4c858ecd1a3eb9fe88e9470f347ec91e]: Textual amendment: Words in Act substituted (22.4.2011) by The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043), arts. 2, 3, 6 (with art. 3(2)(3)4(2)6(4)6(5))

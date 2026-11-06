@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.7. Postponement of enquiry[^key-ef1c266dd1c27bc73456f9f9797f0b0a]
+## 48.7. Postponement of enquiry[^c-ef1c266dd1c27bc73456f9f9797f0b0a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef1c266dd1c27bc73456f9f9797f0b0a]: Commencement: [Rule 48.7](https://www.legislation.gov.uk/uksi/2025/909/rule/48.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ef1c266dd1c27bc73456f9f9797f0b0a]: Commencement: [Rule 48.7](https://www.legislation.gov.uk/uksi/2025/909/rule/48.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

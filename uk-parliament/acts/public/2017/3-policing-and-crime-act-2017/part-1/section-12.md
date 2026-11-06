@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Fire safety inspections[^c22718421][^key-722284f251d70a2e3c8f945a87a9ad4f]
+## 12. Fire safety inspections[^c22718421][^c-722284f251d70a2e3c8f945a87a9ad4f]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 [^c22718421]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/3/section/12) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-722284f251d70a2e3c8f945a87a9ad4f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/3/section/12) in force at 17.7.2017 in so far as not already in force by [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/c)
+[^c-722284f251d70a2e3c8f945a87a9ad4f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/3/section/12) in force at 17.7.2017 in so far as not already in force by [S.I. 2017/726](https://www.legislation.gov.uk/uksi/2017/726), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/726/regulation/2/c)

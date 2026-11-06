@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Sections 151 and 152: meaning of “SIM farm” etc[^key-ba0403124a6d8d6a7be19afbce0a37bd][^key-0a7211f321e96e3d5fd1139c60bb885a]
+## 153. Sections 151 and 152: meaning of “SIM farm” etc[^c-ba0403124a6d8d6a7be19afbce0a37bd][^c-0a7211f321e96e3d5fd1139c60bb885a]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba0403124a6d8d6a7be19afbce0a37bd]: Commencement: S. 153 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-ba0403124a6d8d6a7be19afbce0a37bd]: Commencement: S. 153 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-0a7211f321e96e3d5fd1139c60bb885a]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2026/20/section/153) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/a)
+[^c-0a7211f321e96e3d5fd1139c60bb885a]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2026/20/section/153) in force at 29.10.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/5/a)

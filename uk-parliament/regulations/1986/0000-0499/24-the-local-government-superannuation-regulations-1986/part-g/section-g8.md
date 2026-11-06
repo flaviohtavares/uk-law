@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## G8. Power to agree notional remuneration[^key-7fbefb5eed14bd6ba9b1dde161dff816]
+## G8. Power to agree notional remuneration[^c-7fbefb5eed14bd6ba9b1dde161dff816]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fbefb5eed14bd6ba9b1dde161dff816]: Commencement: [Reg. G8](https://www.legislation.gov.uk/uksi/1986/24/regulation/G8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-7fbefb5eed14bd6ba9b1dde161dff816]: Commencement: [Reg. G8](https://www.legislation.gov.uk/uksi/1986/24/regulation/G8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

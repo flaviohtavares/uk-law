@@ -32,7 +32,7 @@ summary: ''
 
 Climate Change Levy
 
-The Climate Change Agreements (Eligible Facilities) (Amendment) Regulations 2009 (revoked)[^key-7e9d071f54af02cd3061158eb339e773]
+The Climate Change Agreements (Eligible Facilities) (Amendment) Regulations 2009 (revoked)[^c-7e9d071f54af02cd3061158eb339e773]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st October 2009
 
-[^key-7e9d071f54af02cd3061158eb339e773]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e9d071f54af02cd3061158eb339e773]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7e9d071f54af02cd3061158eb339e773]
+## 1. Citation and commencement[^c-7e9d071f54af02cd3061158eb339e773]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Climate Change Agreements (Eligible Facilities) Regulations 2006[^key-7e9d071f54af02cd3061158eb339e773]
+## 2. Amendment of the Climate Change Agreements (Eligible Facilities) Regulations 2006[^c-7e9d071f54af02cd3061158eb339e773]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7e9d071f54af02cd3061158eb339e773]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e9d071f54af02cd3061158eb339e773]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7e9d071f54af02cd3061158eb339e773]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7e9d071f54af02cd3061158eb339e773]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7e9d071f54af02cd3061158eb339e773]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2458) revoked (1.1.2013) by [The Climate Change Agreements (Eligible Facilities) Regulations 2012 (S.I. 2012/2999)](https://www.legislation.gov.uk/uksi/2012/2999), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/3), [9(1)(d)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/9/1/d) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/9/2))
+[^c-7e9d071f54af02cd3061158eb339e773]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2458) revoked (1.1.2013) by [The Climate Change Agreements (Eligible Facilities) Regulations 2012 (S.I. 2012/2999)](https://www.legislation.gov.uk/uksi/2012/2999), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/1/3), [9(1)(d)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/9/1/d) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2012/2999/regulation/9/2))

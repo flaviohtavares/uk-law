@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8B. Power in connection with certain other separation issues[^key-6ea85b1e8bfad6ab59ae8146872355a9]
+## 8B. Power in connection with certain other separation issues[^c-6ea85b1e8bfad6ab59ae8146872355a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ea85b1e8bfad6ab59ae8146872355a9]: Textual amendment: [S. 8B](https://www.legislation.gov.uk/ukpga/2018/16/section/8B) inserted (19.5.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 18](https://www.legislation.gov.uk/ukpga/2020/1/section/18), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/g)
+[^c-6ea85b1e8bfad6ab59ae8146872355a9]: Textual amendment: [S. 8B](https://www.legislation.gov.uk/ukpga/2018/16/section/8B) inserted (19.5.2020) by [European Union (Withdrawal Agreement) Act 2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1), [ss. 18](https://www.legislation.gov.uk/ukpga/2020/1/section/18), [42(7)](https://www.legislation.gov.uk/ukpga/2020/1/section/42/7) (with [s. 38(3)](https://www.legislation.gov.uk/ukpga/2020/1/section/38/3), [Sch. 5 para. 66](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/66)); [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/g)

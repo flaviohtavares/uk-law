@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Acknowledgment in circumstances described in regulation 47[^key-cc781389b9260bb70013291251bdc23c]
+## 48. Acknowledgment in circumstances described in regulation 47[^c-cc781389b9260bb70013291251bdc23c]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cc781389b9260bb70013291251bdc23c]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2012/2079/regulation/48) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-cc781389b9260bb70013291251bdc23c]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2012/2079/regulation/48) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
 
 [^f00034]: Footnote: In respect of England and Wales, the Secretary of State has prescribed the form that the acknowledgment required by this regulation must take. See the Green Deal (Acknowledgment) Regulations 2012 ([S.I. 2012/1661](https://www.legislation.gov.uk/uksi/2012/1661)), which were made under section 15(3) of the Act. The Scottish Ministers have prescribed the form of acknowledgment for Scotland. See the Green Deal (Acknowledgment) (Scotland) Regulations 2012 ([S.S.I. 2012/214](https://www.legislation.gov.uk/ssi/2012/214)), which were made under section 15(4) of the Act.
 

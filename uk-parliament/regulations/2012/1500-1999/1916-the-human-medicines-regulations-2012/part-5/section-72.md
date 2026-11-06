@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies if the use, sale, supply or offer for sale or supply of a medicinal product is suspended in accordance with regulation 69[^key-78b93d7a290b2508cafcf0334b70d9c5].
+(1) This regulation applies if the use, sale, supply or offer for sale or supply of a medicinal product is suspended in accordance with regulation 69[^c-78b93d7a290b2508cafcf0334b70d9c5].
 
 (2) A person must not—
 
@@ -31,4 +31,4 @@ knowing, or having reasonable cause to believe, that such use, sale, supply or o
 
 ## Annotations
 
-[^key-78b93d7a290b2508cafcf0334b70d9c5]: Textual amendment: Words in [reg. 72(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/72/1) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2024/832/regulation/58)
+[^c-78b93d7a290b2508cafcf0334b70d9c5]: Textual amendment: Words in [reg. 72(1)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/72/1) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [58](https://www.legislation.gov.uk/uksi/2024/832/regulation/58)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Notifying competent authority of the detention of a third-country aircraft[^key-0635e426fa83dcb250da72e87723e111]
+## 149. Notifying competent authority of the detention of a third-country aircraft[^c-0635e426fa83dcb250da72e87723e111]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If an authorised person detains a third-country aircraft the person must immedia
 
 ## Annotations
 
-[^key-0635e426fa83dcb250da72e87723e111]: Commencement: [Art. 149](https://www.legislation.gov.uk/uksi/2015/870/article/149) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-0635e426fa83dcb250da72e87723e111]: Commencement: [Art. 149](https://www.legislation.gov.uk/uksi/2015/870/article/149) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

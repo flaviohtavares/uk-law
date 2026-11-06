@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 265. Electronic submission of information[^key-025989f2f0bc4c7cbece55397d3987c9]
+## 265. Electronic submission of information[^c-025989f2f0bc4c7cbece55397d3987c9]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-025989f2f0bc4c7cbece55397d3987c9]: Commencement: Rule 265 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-025989f2f0bc4c7cbece55397d3987c9]: Commencement: Rule 265 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

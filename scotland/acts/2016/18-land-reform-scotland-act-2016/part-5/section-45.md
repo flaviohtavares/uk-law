@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Meaning of “land”[^key-25718dde23adc52506cee4c38172c341]
+## 45. Meaning of “land”[^c-25718dde23adc52506cee4c38172c341]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25718dde23adc52506cee4c38172c341]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2016/18/section/45) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-25718dde23adc52506cee4c38172c341]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2016/18/section/45) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

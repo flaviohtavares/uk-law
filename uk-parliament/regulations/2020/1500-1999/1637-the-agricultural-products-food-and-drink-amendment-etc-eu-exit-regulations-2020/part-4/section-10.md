@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. The Spirit Drinks Regulations 2008[^key-b0c0b0aa38dfbc6782a23f6a1b65d214]
+## 10. The Spirit Drinks Regulations 2008[^c-b0c0b0aa38dfbc6782a23f6a1b65d214]
 
 *Extent: E+W+S*
 
@@ -112,4 +112,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0c0b0aa38dfbc6782a23f6a1b65d214]: Commencement: Reg. 10 in force at 31.12.2020, see reg. 1(7)
+[^c-b0c0b0aa38dfbc6782a23f6a1b65d214]: Commencement: Reg. 10 in force at 31.12.2020, see reg. 1(7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Protective works to buildings[^key-617b73501f0a99eb8dd61e28412b305c]
+## 16. Protective works to buildings[^c-617b73501f0a99eb8dd61e28412b305c]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 ## Annotations
 
-[^key-617b73501f0a99eb8dd61e28412b305c]: Commencement: Art. 16 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-617b73501f0a99eb8dd61e28412b305c]: Commencement: Art. 16 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)

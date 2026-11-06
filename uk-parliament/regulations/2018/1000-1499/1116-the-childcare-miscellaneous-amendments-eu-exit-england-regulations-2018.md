@@ -49,7 +49,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 ## 1. Citation and commencement
 
-These Regulations may be cited as the Childcare (Miscellaneous Amendments) (EU Exit) (England) Regulations 2018 and come into force on exit day[^key-9123abea80ba27a8ed2d64bb54fbce74].
+These Regulations may be cited as the Childcare (Miscellaneous Amendments) (EU Exit) (England) Regulations 2018 and come into force on exit day[^c-9123abea80ba27a8ed2d64bb54fbce74].
 
 ## 2. Amendment of the Childcare (Supply and Disclosure of Information) (England) Regulations 2007
 
@@ -83,7 +83,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c23425641]: Marginal citation: [2006 c. 21](https://www.legislation.gov.uk/ukpga/2006/21). Section 84 was amended by section 84 of, and paragraphs 32 and 54 of Schedule 4 to the [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6) (hereafter referred to as “**the 2014 Act**”). Section 84A was inserted by section 84 of, and paragraphs 32 and 55 of Schedule 4 to the 2014 Act. Section 90 was amended by section 84 of, and paragraphs 32 and 59 of Schedule 4 to the 2014 Act.
 
-[^key-9123abea80ba27a8ed2d64bb54fbce74]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2018/1116/regulation/1) substituted (29.3.2019 at 10.00 p.m.) by [The Childcare (Correction to Miscellaneous Amendments) (England) (EU Exit) Regulations 2019 (S.I. 2019/727)](https://www.legislation.gov.uk/uksi/2019/727), [regs. 1](https://www.legislation.gov.uk/uksi/2019/727/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/727/regulation/2)
+[^c-9123abea80ba27a8ed2d64bb54fbce74]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2018/1116/regulation/1) substituted (29.3.2019 at 10.00 p.m.) by [The Childcare (Correction to Miscellaneous Amendments) (England) (EU Exit) Regulations 2019 (S.I. 2019/727)](https://www.legislation.gov.uk/uksi/2019/727), [regs. 1](https://www.legislation.gov.uk/uksi/2019/727/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/727/regulation/2)
 
 [^c23425651]: Marginal citation: [S.I. 2007/722](https://www.legislation.gov.uk/uksi/2007/722), to which there are amendments not relevant to these Regulations.
 

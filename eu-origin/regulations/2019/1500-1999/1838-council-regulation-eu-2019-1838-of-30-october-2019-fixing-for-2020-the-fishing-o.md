@@ -34,72 +34,72 @@ of 30 October 2019
 
 fixing for 2020 the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea and amending Regulation (EU) 2019/124 as regards certain fishing opportunities in other waters (revoked)
 
-[^key-9512ade64e3346465d5e956c93cd2a04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9512ade64e3346465d5e956c93cd2a04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER I — GENERAL PROVISIONS[^key-9512ade64e3346465d5e956c93cd2a04]
+## CHAPTER I — GENERAL PROVISIONS[^c-9512ade64e3346465d5e956c93cd2a04]
 
-### Article 1. Subject matter[^key-9512ade64e3346465d5e956c93cd2a04]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Scope[^key-9512ade64e3346465d5e956c93cd2a04]
+### Article 1. Subject matter[^c-9512ade64e3346465d5e956c93cd2a04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Definitions[^key-9512ade64e3346465d5e956c93cd2a04]
+### Article 2. Scope[^c-9512ade64e3346465d5e956c93cd2a04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — FISHING OPPORTUNITIES[^key-9512ade64e3346465d5e956c93cd2a04]
-
-### Article 4. TACs and allocations[^key-9512ade64e3346465d5e956c93cd2a04]
+### Article 3. Definitions[^c-9512ade64e3346465d5e956c93cd2a04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Special provisions on allocations of fishing opportunities[^key-9512ade64e3346465d5e956c93cd2a04]
+## CHAPTER II — FISHING OPPORTUNITIES[^c-9512ade64e3346465d5e956c93cd2a04]
+
+### Article 4. TACs and allocations[^c-9512ade64e3346465d5e956c93cd2a04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Conditions for landing of catches and by-catches[^key-9512ade64e3346465d5e956c93cd2a04]
+### Article 5. Special provisions on allocations of fishing opportunities[^c-9512ade64e3346465d5e956c93cd2a04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Measures on recreational fisheries for cod in subdivisions ICES 22-26[^key-9512ade64e3346465d5e956c93cd2a04]
+### Article 6. Conditions for landing of catches and by-catches[^c-9512ade64e3346465d5e956c93cd2a04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Measures on sea trout and salmon fishing in ICES subdivisions 22-32[^key-9512ade64e3346465d5e956c93cd2a04]
+### Article 7. Measures on recreational fisheries for cod in subdivisions ICES 22-26[^c-9512ade64e3346465d5e956c93cd2a04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Flexibility[^key-9512ade64e3346465d5e956c93cd2a04]
+### Article 8. Measures on sea trout and salmon fishing in ICES subdivisions 22-32[^c-9512ade64e3346465d5e956c93cd2a04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Data transmission[^key-9512ade64e3346465d5e956c93cd2a04]
+### Article 9. Flexibility[^c-9512ade64e3346465d5e956c93cd2a04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — FINAL PROVISIONS[^key-9512ade64e3346465d5e956c93cd2a04]
-
-### Article 11. Amendments to Regulation (EU) 2019/124[^key-9512ade64e3346465d5e956c93cd2a04]
+### Article 10. Data transmission[^c-9512ade64e3346465d5e956c93cd2a04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Entry into force[^key-9512ade64e3346465d5e956c93cd2a04]
+## CHAPTER III — FINAL PROVISIONS[^c-9512ade64e3346465d5e956c93cd2a04]
+
+### Article 11. Amendments to Regulation (EU) 2019/124[^c-9512ade64e3346465d5e956c93cd2a04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9512ade64e3346465d5e956c93cd2a04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 12. Entry into force[^c-9512ade64e3346465d5e956c93cd2a04]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9512ade64e3346465d5e956c93cd2a04]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — TACs APPLICABLE TO UNION FISHING VESSELS IN AREAS WHERE TACs EXIST BY SPECIES AND BY AREA[^key-9512ade64e3346465d5e956c93cd2a04]
+## ANNEX — TACs APPLICABLE TO UNION FISHING VESSELS IN AREAS WHERE TACs EXIST BY SPECIES AND BY AREA[^c-9512ade64e3346465d5e956c93cd2a04]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9512ade64e3346465d5e956c93cd2a04]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-9512ade64e3346465d5e956c93cd2a04]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

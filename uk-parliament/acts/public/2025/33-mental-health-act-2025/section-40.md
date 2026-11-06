@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Independent mental health advocates[^key-9a35a91273e570c990e9357de7f1ad70]
+## 40. Independent mental health advocates[^c-9a35a91273e570c990e9357de7f1ad70]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ Schedule 3 contains amendments relating to independent mental health advocates, 
 
 ## Annotations
 
-[^key-9a35a91273e570c990e9357de7f1ad70]: Commencement: S. 40 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-9a35a91273e570c990e9357de7f1ad70]: Commencement: S. 40 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

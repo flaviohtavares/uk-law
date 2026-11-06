@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Applications for postal administration orders[^key-9876d8ea61e1c8a01e4f55d2c91752cc]
+## 70. Applications for postal administration orders[^c-9876d8ea61e1c8a01e4f55d2c91752cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) by the Secretary of State, or
 - (b) with the consent of the Secretary of State, by OFCOM.
 
-(2)[^key-0dcbe40ed5e7533cc7e89f2833cf3ed7] The applicant for a postal administration order in relation to a company must give notice of the application to—
+(2)[^c-0dcbe40ed5e7533cc7e89f2833cf3ed7] The applicant for a postal administration order in relation to a company must give notice of the application to—
 
 - (a) every person who has appointed an administrative receiver of the company,
 - (b) every person who is or may be entitled to appoint an administrative receiver of the company,
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9876d8ea61e1c8a01e4f55d2c91752cc]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2011/5/section/70) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-9876d8ea61e1c8a01e4f55d2c91752cc]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2011/5/section/70) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-0dcbe40ed5e7533cc7e89f2833cf3ed7]: Modification: [S. 70(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/70/2) modified (with application in accordance with rule 3 of the amending S.I.) by [The Postal Administration (Scotland) Rules 2016 (S.I. 2016/900)](https://www.legislation.gov.uk/uksi/2016/900), [rules 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1), [7(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/7/1)
+[^c-0dcbe40ed5e7533cc7e89f2833cf3ed7]: Modification: [S. 70(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/70/2) modified (with application in accordance with rule 3 of the amending S.I.) by [The Postal Administration (Scotland) Rules 2016 (S.I. 2016/900)](https://www.legislation.gov.uk/uksi/2016/900), [rules 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1), [7(1)](https://www.legislation.gov.uk/uksi/2016/900/rule/7/1)

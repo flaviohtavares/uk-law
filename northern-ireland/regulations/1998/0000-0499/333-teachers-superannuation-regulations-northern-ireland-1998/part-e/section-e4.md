@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E4. Entitlement to payment of retirement benefits[^key-c8f56dab90067d240408d92468d6cb2e]
+## E4. Entitlement to payment of retirement benefits[^c-c8f56dab90067d240408d92468d6cb2e]
 
 *Extent: N.I.*
 
@@ -90,6 +90,6 @@ his employer has notified the Department in writing that his pensionable employm
 
 ## Annotations
 
-[^key-c8f56dab90067d240408d92468d6cb2e]: Commencement: Reg. E4 in operation at 2.11.1998, see reg. A1
+[^c-c8f56dab90067d240408d92468d6cb2e]: Commencement: Reg. E4 in operation at 2.11.1998, see reg. A1
 
 [^f00019]: Footnote: [S.R. 1997 No. 312](https://www.legislation.gov.uk/nisr/1997/312)

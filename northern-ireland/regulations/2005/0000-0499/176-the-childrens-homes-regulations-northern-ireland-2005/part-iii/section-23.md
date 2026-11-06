@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Complaints and representations[^key-92c3c8ccf2c836cbc90e8de6cfc51048]
+## 23. Complaints and representations[^c-92c3c8ccf2c836cbc90e8de6cfc51048]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (4) The copy of the procedure supplied under paragraph (3) shall include –
 
-- (a) the name, address and telephone number of the RQIA[^key-4ca5e5950155e725f54604a422e453f9]; and
+- (a) the name, address and telephone number of the RQIA[^c-4ca5e5950155e725f54604a422e453f9]; and
 - (b) details of the procedure (if any) which has been notified to the registered person by the RQIA for the making of complaints to it relating to children’s homes.
 
 (5) The registered person shall ensure that a written record is made of any complaint, the action taken in response, and the outcome of the investigation.
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-92c3c8ccf2c836cbc90e8de6cfc51048]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2005/176/regulation/23) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-92c3c8ccf2c836cbc90e8de6cfc51048]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2005/176/regulation/23) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
 
-[^key-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

@@ -74,8 +74,8 @@ and other expressions have the same meanings as in the Act.
 - (a) a person is entitled to benefit in respect of that child for the week immediately preceding the first week of the child's absence from Great Britain; and
 - (b) the child's absence was when it began intended to be temporary and has throughout continued to be so intended; and
 - (c) that week—
-  - (i) falls within a period of 12[^key-a595a3a65398a534b65020d5ee8c7b7c] weeks beginning with the first week of the child's absence; or
-  - (ii)[^key-38146b8805100f475d2d3827e6cbc1e3] is a week, not falling within the period specified in sub-paragraph (c)(i) above, in which the child’s absence is by reason only of his receiving full-time education by attendance at a recognised educational establishment in another State which is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993 or his being engaged in an educational exchange or visit made with the written approval of the recognised educational establishment which he normally attends;
+  - (i) falls within a period of 12[^c-a595a3a65398a534b65020d5ee8c7b7c] weeks beginning with the first week of the child's absence; or
+  - (ii)[^c-38146b8805100f475d2d3827e6cbc1e3] is a week, not falling within the period specified in sub-paragraph (c)(i) above, in which the child’s absence is by reason only of his receiving full-time education by attendance at a recognised educational establishment in another State which is a Contracting Party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993 or his being engaged in an educational exchange or visit made with the written approval of the recognised educational establishment which he normally attends;
   - (iii) being a week in which the child's absence is for the specific purpose of being treated for illness or disability of mind or, body which commenced before his absence began but not falling within the period specified in sub-paragraph (c)(i), falls within such extended period of time (if any) as is determined by the Secretary of State in his discretion.
 
 (3) Where a child leaves Great Britain in the week in which it was born or is born while its mother is absent from Great Britain, the said section 13(2)(a) shall not operate to make benefit not payable in respect of that child for any week in which, by virtue of the provisions of regulation 4(3), section 13(3)(a) of the Act does not operate to disentitle a person to benefit in respect of that child.
@@ -100,13 +100,13 @@ and other expressions have the same meanings as in the Act.
 
 (1) Section 13(3)(a) of the Act (subject to regulations, no person to be entitled to benefit in respect of a child for any week unless that person is in Great Britain in that week) shall have effect subject to the following provisions of this regulation and to the provisions of Parts II and III of these regulations.
 
-(2) The said section 13(3)(a) [^key-8fe9c76921772919131cf1c54c24a343]... shall not operate to disentitle a person to benefit in respect of a child for any week in which that person is absent from Great Britain if—
+(2) The said section 13(3)(a) [^c-8fe9c76921772919131cf1c54c24a343]... shall not operate to disentitle a person to benefit in respect of a child for any week in which that person is absent from Great Britain if—
 
 - (a) that person is entitled to benefit in respect of that child for the week immediately preceding the first week of that person's absence from Great Britain; and
 - (b) that person's absence was when it began intended to be temporary and has throughout continued to be so intended; and
-- (c) that week falls within a period of 8[^key-200302e8f08753c0d379bb01bb318c80] weeks beginning with the first week of that person's absence.
+- (c) that week falls within a period of 8[^c-200302e8f08753c0d379bb01bb318c80] weeks beginning with the first week of that person's absence.
 
-(2A)[^key-339f3f7d67e3328f799d100755ea35ab] If a person dies while paragraph (2) applies to him, the said section 13(3)(a) shall not operate to disentitle another person to benefit in respect of a child, being a child in respect of whom the deceased was entitled to benefit immediately before his death, for any week which falls within a period of 8[^key-d0793a379b9329ea6f0c178d2792057d] weeks beginning with the first week of the deceased's absence from Great Britain.
+(2A)[^c-339f3f7d67e3328f799d100755ea35ab] If a person dies while paragraph (2) applies to him, the said section 13(3)(a) shall not operate to disentitle another person to benefit in respect of a child, being a child in respect of whom the deceased was entitled to benefit immediately before his death, for any week which falls within a period of 8[^c-d0793a379b9329ea6f0c178d2792057d] weeks beginning with the first week of the deceased's absence from Great Britain.
 
 (3) If in the week in which a woman gives birth to a child in Great Britain she subsequently leaves Great Britain or if she gives birth to a child while she is absent from Great Britain, then if—
 
@@ -114,7 +114,7 @@ and other expressions have the same meanings as in the Act.
 - (b) that child (if born outside Great Britain) was born within the period of 8[^M_F_2d663bfa-acbf-4597-8ab5-ef022eb7a305] weeks beginning with the first week of its mother's absence; and
 - (c) had that child been born at the beginning of the week immediately preceding that in which its mother's absence began, she could have satisfied the requirements for entitlement to benefit in respect of it,
 
-the said section 13(3)(a) shall not operate to disentitle a person to benefit in respect of that child for the period of 8[^key-fcad3332371f027860bcd41e1b018bf7] weeks beginning with the first week of its mother's absence.
+the said section 13(3)(a) shall not operate to disentitle a person to benefit in respect of that child for the period of 8[^c-fcad3332371f027860bcd41e1b018bf7] weeks beginning with the first week of its mother's absence.
 
 ### 5. Circumstances in which a person may be entitled to benefit in respect of a child for a week where that person has not been in Great Britain for more than 182 days in the 52 weeks preceding that week
 
@@ -122,7 +122,7 @@ the said section 13(3)(a) shall not operate to disentitle a person to benefit in
 
 (2) The said section 13(3)(b) shall not operate to disentitle a person to benefit in respect of a child for any week if—
 
-- (a)[^key-f3c1c1f93fed90af3815d1c49d631077] in that week that child satisfies or, otherwise than by virtue of regulation 3(2)(a), is to be regarded as satisfying the requirements in section 13(2)(a) and (b) of the Act and that person is in fact in Great Britain and responsible for that child within the meaning of section 3(1) of the Act; or
+- (a)[^c-f3c1c1f93fed90af3815d1c49d631077] in that week that child satisfies or, otherwise than by virtue of regulation 3(2)(a), is to be regarded as satisfying the requirements in section 13(2)(a) and (b) of the Act and that person is in fact in Great Britain and responsible for that child within the meaning of section 3(1) of the Act; or
 - (b) that week begins in a period of 183 consecutive days throughout which (disregarding up to 28 days of temporary absence from Great Britain, whether consecutive or not) that person is likely to be in Great Britain; and before that week but within that period that person, while in Great Britain, has been an employed earner (not being an employed earner in relation to whom primary Class 1 contributions are not payable by reason of regulation 113(2) or (3) of the Social Security (Contributions) Regulations 1975[^f00001] (primary and secondary Class 1 contributions not payable in relation to certain persons who are ordinarily neither resident nor employed in the United Kingdom)) or a self-employed earner (not being a self-employed earner who is not liable to pay Class 2 contributions by reason of regulation 113(1)(d) of those regulations (liability of a person to pay contributions as a self-employed earner related to that person's being ordinarily resident, or resident for a certain time, in Great Britain)); or
 - (c) in that week that person is in fact in Great Britain and residing with his spouse who satisfies or is to be regarded as satisfying the requirements in the said section 13(3)(b); or
 - (d) in that week that person is in fact in Great Britain; and that week begins in a period of 183 consecutive days throughout which (disregarding up to 28 days of temporary absence from Great Britain whether consecutive or not) that person is likely to be in Great Britain; and for a week not more than 156 weeks before that week—
@@ -139,7 +139,7 @@ the said section 13(3)(a) shall not operate to disentitle a person to benefit in
 
 (1) The persons to whom this Part of these regulations applies are—
 
-- (a) a civil servant, that is to say a person who is employed by the civil service of the United Kingdom, and is paid a salary or wages by a government department of the United Kingdom,[^key-81529e3a7d9e5cc463b84554369e8b32] other than a person who is—
+- (a) a civil servant, that is to say a person who is employed by the civil service of the United Kingdom, and is paid a salary or wages by a government department of the United Kingdom,[^c-81529e3a7d9e5cc463b84554369e8b32] other than a person who is—
   - (i) a serving member of the forces; or
   - (ii) a person who entered or was recruited for such employment outside the United Kingdom for service outside the United Kingdom, unless he entered or was recruited for such service immediately following a period during which he was a serving member of the forces;
 - (b) a serving member of the forces within the meaning of the definition of “serving member of the forces” in regulation 1(2) of the Social Security (Contributions) Regulations 1975;
@@ -160,7 +160,7 @@ the said section 13(3)(a) shall not operate to disentitle a person to benefit in
 
 (3) Unless in his discretion the Secretary of State otherwise determines in any case or class of cases, any day of absence from one another of a child and a person, being a day on which paragraph (1) applies to that person, shall, if that absence is due solely to that person being one to whom that paragraph applies, be a day which shall be disregarded under the provisions of section 3(2) of the Act (circumstances in which a person who has had a child living with him at some time before a particular week is to be treated for the purposes of section 3 of the Act as having that child living with him in that week notwithstanding their absence from one another).
 
-### 8. Interim payments to persons to whom regulation 6 applies who are absent from Great Britain[^key-8fceb4884bf7c87a539930279e70f02c]
+### 8. Interim payments to persons to whom regulation 6 applies who are absent from Great Britain[^c-8fceb4884bf7c87a539930279e70f02c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -170,11 +170,11 @@ the said section 13(3)(a) shall not operate to disentitle a person to benefit in
 
 Without prejudice to any other provision of these regulations, Part I of the Act shall have effect as if the provisions relating to family allowances under the Family Allowances Acts 1965 to 1975 contained in agreements set out in the Schedules to the Orders in Council specified in the Schedule to these regulations applied (with the necessary modifications) to benefit.
 
-### 10. Transitional provision relating to the operation of regulations 2 to 5 and 7(2)(b)[^key-aaa77276c27c486af2ad1c2d7b454c25]
+### 10. Transitional provision relating to the operation of regulations 2 to 5 and 7(2)(b)[^c-aaa77276c27c486af2ad1c2d7b454c25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Transitional provision relating to certain persons to whom regulation 6 applies[^key-8741efa9f16b5e44cf853a36c9ec019c]
+### 11. Transitional provision relating to certain persons to whom regulation 6 applies[^c-8741efa9f16b5e44cf853a36c9ec019c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -189,10 +189,10 @@ Regulation 9
 - [^M_F_a2718929-4ca5-4095-d5b3-347799bc5596]...
 - [^M_F_b2f4cde6-5317-48e1-a6b5-5f01918335d0]...
 - The Family Allowances, National Insurance and Industrial Injuries (Belgium) Order 1958 S.I. 1958/771 (1958 II, p. 1599)
-- [^key-7e29c477df7df46bfb9453c29d8c34c0]...
+- [^c-7e29c477df7df46bfb9453c29d8c34c0]...
 - The Family Allowances, National Insurance and Industrial Injuries (Germany) Order 1961 S.I. 1961/1202 (1961 II, p. 2371)
 - The Family Allowances, National Insurance and Industrial Injuries (Gibraltar) Order 1974 S.I. 1974/555 (1974 I, p. 2279)
-- [^key-1b3ec8c37c97432de95fb6a0693eddfd]...
+- [^c-1b3ec8c37c97432de95fb6a0693eddfd]...
 - [^M_F_5d25b280-1d07-4d6d-aeca-9198fa53488a]...
 - The Family Allowances, National Insurance and Industrial Injuries (Spain) Order 1975 S.I. 1975/415 (1975 I, p. 1293)
 - The Family Allowances, National Insurance and Industrial Injuries (Switzerland) Order 1969 S.I. 1969/384 (1969 I, p. 1050)
@@ -208,40 +208,40 @@ The appointed day, the day on which child benefit first becomes payable, is 4th 
 
 ## Annotations
 
-[^key-a595a3a65398a534b65020d5ee8c7b7c]: Textual amendment: Word in [reg. 2(2)(c)(i)](https://www.legislation.gov.uk/uksi/1976/963/regulation/2/2/c/i) substituted (1.3.1999) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1999 (S.I. 1999/198)](https://www.legislation.gov.uk/uksi/1999/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/198/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1999/198/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/1999/198/regulation/3))
+[^c-a595a3a65398a534b65020d5ee8c7b7c]: Textual amendment: Word in [reg. 2(2)(c)(i)](https://www.legislation.gov.uk/uksi/1976/963/regulation/2/2/c/i) substituted (1.3.1999) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1999 (S.I. 1999/198)](https://www.legislation.gov.uk/uksi/1999/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/198/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/1999/198/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/1999/198/regulation/3))
 
-[^key-38146b8805100f475d2d3827e6cbc1e3]: Textual amendment: [Reg. 2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/1976/963/regulation/2/2/c/ii) substituted (1.3.1999) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1999 (S.I. 1999/198)](https://www.legislation.gov.uk/uksi/1999/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/198/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/1999/198/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/1999/198/regulation/3))
+[^c-38146b8805100f475d2d3827e6cbc1e3]: Textual amendment: [Reg. 2(2)(c)(ii)](https://www.legislation.gov.uk/uksi/1976/963/regulation/2/2/c/ii) substituted (1.3.1999) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1999 (S.I. 1999/198)](https://www.legislation.gov.uk/uksi/1999/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/198/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/1999/198/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/1999/198/regulation/3))
 
-[^key-8fe9c76921772919131cf1c54c24a343]: Textual amendment: Words in reg. 4(2) omitted (22.11.1976) by virtue of [The Child Benefit (Miscellaneous Minor Amendments) Regulations 1976 (S.I. 1976/1758)](https://www.legislation.gov.uk/uksi/1976/1758), [regs. 1](https://www.legislation.gov.uk/uksi/1976/1758/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/1976/1758/regulation/4/1)
+[^c-8fe9c76921772919131cf1c54c24a343]: Textual amendment: Words in reg. 4(2) omitted (22.11.1976) by virtue of [The Child Benefit (Miscellaneous Minor Amendments) Regulations 1976 (S.I. 1976/1758)](https://www.legislation.gov.uk/uksi/1976/1758), [regs. 1](https://www.legislation.gov.uk/uksi/1976/1758/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/1976/1758/regulation/4/1)
 
-[^key-200302e8f08753c0d379bb01bb318c80]: Textual amendment: Number in reg. 4(2)(c) substituted (27.8.1984) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1984 (S.I. 1984/875)](https://www.legislation.gov.uk/uksi/1984/875), [regs. 1](https://www.legislation.gov.uk/uksi/1984/875/regulation/1), [2](https://www.legislation.gov.uk/uksi/1984/875/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/1984/875/regulation/3))
+[^c-200302e8f08753c0d379bb01bb318c80]: Textual amendment: Number in reg. 4(2)(c) substituted (27.8.1984) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1984 (S.I. 1984/875)](https://www.legislation.gov.uk/uksi/1984/875), [regs. 1](https://www.legislation.gov.uk/uksi/1984/875/regulation/1), [2](https://www.legislation.gov.uk/uksi/1984/875/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/1984/875/regulation/3))
 
-[^key-339f3f7d67e3328f799d100755ea35ab]: Textual amendment: Reg. 4(2A) inserted (22.11.1976) by [The Child Benefit (Miscellaneous Minor Amendments) Regulations 1976 (S.I. 1976/1758)](https://www.legislation.gov.uk/uksi/1976/1758), [regs. 1](https://www.legislation.gov.uk/uksi/1976/1758/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/1976/1758/regulation/4/1)
+[^c-339f3f7d67e3328f799d100755ea35ab]: Textual amendment: Reg. 4(2A) inserted (22.11.1976) by [The Child Benefit (Miscellaneous Minor Amendments) Regulations 1976 (S.I. 1976/1758)](https://www.legislation.gov.uk/uksi/1976/1758), [regs. 1](https://www.legislation.gov.uk/uksi/1976/1758/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/1976/1758/regulation/4/1)
 
-[^key-d0793a379b9329ea6f0c178d2792057d]: Textual amendment: Number in reg. 4(2A) substituted (27.8.1984) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1984 (S.I. 1984/875)](https://www.legislation.gov.uk/uksi/1984/875), [regs. 1](https://www.legislation.gov.uk/uksi/1984/875/regulation/1), [2](https://www.legislation.gov.uk/uksi/1984/875/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/1984/875/regulation/3))
+[^c-d0793a379b9329ea6f0c178d2792057d]: Textual amendment: Number in reg. 4(2A) substituted (27.8.1984) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1984 (S.I. 1984/875)](https://www.legislation.gov.uk/uksi/1984/875), [regs. 1](https://www.legislation.gov.uk/uksi/1984/875/regulation/1), [2](https://www.legislation.gov.uk/uksi/1984/875/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/1984/875/regulation/3))
 
 [^M_F_2d663bfa-acbf-4597-8ab5-ef022eb7a305]: Textual amendment: Number in reg. 4(3)(b) substituted (27.8.1984) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1984 (S.I. 1984/875)](https://www.legislation.gov.uk/uksi/1984/875), [regs. 1](https://www.legislation.gov.uk/uksi/1984/875/regulation/1), [2](https://www.legislation.gov.uk/uksi/1984/875/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/1984/875/regulation/3))
 
-[^key-fcad3332371f027860bcd41e1b018bf7]: Textual amendment: Number in reg. 4(3) substituted (27.8.1984) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1984 (S.I. 1984/875)](https://www.legislation.gov.uk/uksi/1984/875), [regs. 1](https://www.legislation.gov.uk/uksi/1984/875/regulation/1), [2](https://www.legislation.gov.uk/uksi/1984/875/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/1984/875/regulation/3))
+[^c-fcad3332371f027860bcd41e1b018bf7]: Textual amendment: Number in reg. 4(3) substituted (27.8.1984) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1984 (S.I. 1984/875)](https://www.legislation.gov.uk/uksi/1984/875), [regs. 1](https://www.legislation.gov.uk/uksi/1984/875/regulation/1), [2](https://www.legislation.gov.uk/uksi/1984/875/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/1984/875/regulation/3))
 
-[^key-f3c1c1f93fed90af3815d1c49d631077]: Textual amendment: [Reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/1976/963/regulation/5/2/a) substituted (22.11.1976) by [The Child Benefit (Miscellaneous Minor Amendments) Regulations 1976 (S.I. 1976/1758)](https://www.legislation.gov.uk/uksi/1976/1758), [regs. 1](https://www.legislation.gov.uk/uksi/1976/1758/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1976/1758/regulation/4/2)
+[^c-f3c1c1f93fed90af3815d1c49d631077]: Textual amendment: [Reg. 5(2)(a)](https://www.legislation.gov.uk/uksi/1976/963/regulation/5/2/a) substituted (22.11.1976) by [The Child Benefit (Miscellaneous Minor Amendments) Regulations 1976 (S.I. 1976/1758)](https://www.legislation.gov.uk/uksi/1976/1758), [regs. 1](https://www.legislation.gov.uk/uksi/1976/1758/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1976/1758/regulation/4/2)
 
 [^f00001]: Footnote: (1975 I, p. 1516).
 
-[^key-81529e3a7d9e5cc463b84554369e8b32]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/1976/963/regulation/6/1/a) substituted (28.12.1992) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1992 (S.I. 1992/2972)](https://www.legislation.gov.uk/uksi/1992/2972), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2972/regulation/1), [2](https://www.legislation.gov.uk/uksi/1992/2972/regulation/2)
+[^c-81529e3a7d9e5cc463b84554369e8b32]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/1976/963/regulation/6/1/a) substituted (28.12.1992) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1992 (S.I. 1992/2972)](https://www.legislation.gov.uk/uksi/1992/2972), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2972/regulation/1), [2](https://www.legislation.gov.uk/uksi/1992/2972/regulation/2)
 
-[^key-8fceb4884bf7c87a539930279e70f02c]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1976/963/regulation/8) revoked (6.4.1987) by [Social Security (Payments on account, Overpayments and Recovery) Regulations 1987 (S.I. 1987/491)](https://www.legislation.gov.uk/uksi/1987/491), [regs. 1](https://www.legislation.gov.uk/uksi/1987/491/regulation/1), [19(1)](https://www.legislation.gov.uk/uksi/1987/491/regulation/19/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1987/491/schedule/part/I); [The Social Security (Payments on account, Overpayments and Recovery) Regulations 1986 (S.I. 1986/2217)](https://www.legislation.gov.uk/uksi/1986/2217) [regs. 1(1)](https://www.legislation.gov.uk/uksi/1986/2217/contents/made), [20](https://www.legislation.gov.uk/uksi/1986/2217/contents/made), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1986/2217/contents/made)
+[^c-8fceb4884bf7c87a539930279e70f02c]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1976/963/regulation/8) revoked (6.4.1987) by [Social Security (Payments on account, Overpayments and Recovery) Regulations 1987 (S.I. 1987/491)](https://www.legislation.gov.uk/uksi/1987/491), [regs. 1](https://www.legislation.gov.uk/uksi/1987/491/regulation/1), [19(1)](https://www.legislation.gov.uk/uksi/1987/491/regulation/19/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1987/491/schedule/part/I); [The Social Security (Payments on account, Overpayments and Recovery) Regulations 1986 (S.I. 1986/2217)](https://www.legislation.gov.uk/uksi/1986/2217) [regs. 1(1)](https://www.legislation.gov.uk/uksi/1986/2217/contents/made), [20](https://www.legislation.gov.uk/uksi/1986/2217/contents/made), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1986/2217/contents/made)
 
-[^key-aaa77276c27c486af2ad1c2d7b454c25]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1976/963/regulation/10) revoked (27.8.1984) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1984 (S.I. 1984/875)](https://www.legislation.gov.uk/uksi/1984/875), [regs. 1](https://www.legislation.gov.uk/uksi/1984/875/regulation/1), [4](https://www.legislation.gov.uk/uksi/1984/875/regulation/4)
+[^c-aaa77276c27c486af2ad1c2d7b454c25]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1976/963/regulation/10) revoked (27.8.1984) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1984 (S.I. 1984/875)](https://www.legislation.gov.uk/uksi/1984/875), [regs. 1](https://www.legislation.gov.uk/uksi/1984/875/regulation/1), [4](https://www.legislation.gov.uk/uksi/1984/875/regulation/4)
 
-[^key-8741efa9f16b5e44cf853a36c9ec019c]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1976/963/regulation/11) revoked (27.8.1984) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1984 (S.I. 1984/875)](https://www.legislation.gov.uk/uksi/1984/875), [regs. 1](https://www.legislation.gov.uk/uksi/1984/875/regulation/1), [4](https://www.legislation.gov.uk/uksi/1984/875/regulation/4)
+[^c-8741efa9f16b5e44cf853a36c9ec019c]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1976/963/regulation/11) revoked (27.8.1984) by [The Child Benefit (Residence and Persons Abroad) Amendment Regulations 1984 (S.I. 1984/875)](https://www.legislation.gov.uk/uksi/1984/875), [regs. 1](https://www.legislation.gov.uk/uksi/1984/875/regulation/1), [4](https://www.legislation.gov.uk/uksi/1984/875/regulation/4)
 
 [^M_F_a2718929-4ca5-4095-d5b3-347799bc5596]: Textual amendment: Words in Sch. omitted (29.6.1992) by [The Social Security (Australia) Order 1992 (S.I. 1992/1312)](https://www.legislation.gov.uk/uksi/1992/1312), [art. 1](https://www.legislation.gov.uk/uksi/1992/1312/article/1), [3(1)](https://www.legislation.gov.uk/uksi/1992/1312/article/3/1).
 
 [^M_F_b2f4cde6-5317-48e1-a6b5-5f01918335d0]: Textual amendment: Words in Sch. omitted (16.3.1981) by [The Social Security (Austria) Order 1981 (S.I. 1981/605)](https://www.legislation.gov.uk/uksi/1981/605), [art. 1](https://www.legislation.gov.uk/uksi/1981/605/article/1), [4](https://www.legislation.gov.uk/uksi/1981/605/article/4).
 
-[^key-7e29c477df7df46bfb9453c29d8c34c0]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1976/963/schedule) omitted (1.12.1995) by virtue of [The Social Security (Canada) Order 1995 (S.I. 1995/2699)](https://www.legislation.gov.uk/uksi/1995/2699), [arts. 1](https://www.legislation.gov.uk/uksi/1995/2699/article/1), [3(2)](https://www.legislation.gov.uk/uksi/1995/2699/article/3/2)
+[^c-7e29c477df7df46bfb9453c29d8c34c0]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1976/963/schedule) omitted (1.12.1995) by virtue of [The Social Security (Canada) Order 1995 (S.I. 1995/2699)](https://www.legislation.gov.uk/uksi/1995/2699), [arts. 1](https://www.legislation.gov.uk/uksi/1995/2699/article/1), [3(2)](https://www.legislation.gov.uk/uksi/1995/2699/article/3/2)
 
-[^key-1b3ec8c37c97432de95fb6a0693eddfd]: Textual amendment: Words in Sch. omitted (2.11.1994) by virtue of [The Social Security (Jersey and Guernsey) Order 1994 (S.I. 1994/2802)](https://www.legislation.gov.uk/uksi/1994/2802), [arts. 1](https://www.legislation.gov.uk/uksi/1994/2802/article/1), [3(2)](https://www.legislation.gov.uk/uksi/1994/2802/article/3/2)
+[^c-1b3ec8c37c97432de95fb6a0693eddfd]: Textual amendment: Words in Sch. omitted (2.11.1994) by virtue of [The Social Security (Jersey and Guernsey) Order 1994 (S.I. 1994/2802)](https://www.legislation.gov.uk/uksi/1994/2802), [arts. 1](https://www.legislation.gov.uk/uksi/1994/2802/article/1), [3(2)](https://www.legislation.gov.uk/uksi/1994/2802/article/3/2)
 
 [^M_F_5d25b280-1d07-4d6d-aeca-9198fa53488a]: Textual amendment: Words in Sch. omitted (1.1.1984) by [The Social Security (New Zealand) Order 1983 (S.I. 1983/1894)](https://www.legislation.gov.uk/uksi/1983/1894), [art. 1](https://www.legislation.gov.uk/uksi/1983/1894/article/1), [4(1)](https://www.legislation.gov.uk/uksi/1983/1894/article/4/1).

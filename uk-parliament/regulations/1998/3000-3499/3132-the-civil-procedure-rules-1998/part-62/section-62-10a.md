@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62.10A. Decisions under the 1996 Act where the permission of the court which made the decision is required for an appeal[^key-00a865104ccd0f989e3685a7035e98a5]
+## 62.10A. Decisions under the 1996 Act where the permission of the court which made the decision is required for an appeal[^c-00a865104ccd0f989e3685a7035e98a5]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00a865104ccd0f989e3685a7035e98a5]: Textual amendment: [Rule 62.10A](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.10A) inserted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [19(2)](https://www.legislation.gov.uk/uksi/2026/817/rule/19/2)
+[^c-00a865104ccd0f989e3685a7035e98a5]: Textual amendment: [Rule 62.10A](https://www.legislation.gov.uk/uksi/1998/3132/rule/62.10A) inserted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [19(2)](https://www.legislation.gov.uk/uksi/2026/817/rule/19/2)

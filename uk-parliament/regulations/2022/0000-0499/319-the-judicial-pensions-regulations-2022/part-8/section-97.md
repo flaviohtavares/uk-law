@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Payment of lump sum death benefit to nominees or personal representatives[^key-b9747e1ecdfb875220fcef56f4be5994]
+## 97. Payment of lump sum death benefit to nominees or personal representatives[^c-b9747e1ecdfb875220fcef56f4be5994]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9747e1ecdfb875220fcef56f4be5994]: Commencement: Reg. 97 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-b9747e1ecdfb875220fcef56f4be5994]: Commencement: Reg. 97 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

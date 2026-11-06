@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237. Copy of qualifying indemnity provision to be available for inspection[^c19644421][^key-7bb96b0f815ae45981a7ae19adb0a7c6][^key-c187c213598b5c6b64fa9f71a6dd4d59]
+## 237. Copy of qualifying indemnity provision to be available for inspection[^c19644421][^c-7bb96b0f815ae45981a7ae19adb0a7c6][^c-c187c213598b5c6b64fa9f71a6dd4d59]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ unless it has at all times been kept at the company's registered office.
 
 [^c19644421]: Commencement: S. 237 wholly in force at 1.10.2007; s. 237 not in force at Royal Assent see s. 1300; s. 237 in force at 1.10.2007 by [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/2194/article/2/1/d) (with saving in [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12) and subject to transitional adaptations specified in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2194/schedule/1) and with transitional provisions and savings in [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2007/2194/schedule/3/paragraph/15))
 
-[^key-7bb96b0f815ae45981a7ae19adb0a7c6]: Modification: [S. 237](https://www.legislation.gov.uk/ukpga/2006/46/section/237) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(a)(iv)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/a/iv)
+[^c-7bb96b0f815ae45981a7ae19adb0a7c6]: Modification: [S. 237](https://www.legislation.gov.uk/ukpga/2006/46/section/237) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(a)(iv)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/a/iv)
 
-[^key-c187c213598b5c6b64fa9f71a6dd4d59]: Modification: [S. 237](https://www.legislation.gov.uk/ukpga/2006/46/section/237) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-c187c213598b5c6b64fa9f71a6dd4d59]: Modification: [S. 237](https://www.legislation.gov.uk/ukpga/2006/46/section/237) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61F. Authorisation to act in relation to neighbourhood areas[^key-249b87a8b4b50ae39c9f5c2aa4b3cb8c][^key-917fe079927b9b8fcb732ffa3f122fca][^key-99c58ceb70d9a80231e26e93f5bf37c9]
+## 61F. Authorisation to act in relation to neighbourhood areas[^c-249b87a8b4b50ae39c9f5c2aa4b3cb8c][^c-917fe079927b9b8fcb732ffa3f122fca][^c-99c58ceb70d9a80231e26e93f5bf37c9]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ summary: ''
 - (a) ceases to have effect at the end of the period of 5 years beginning with the day on which it is made but without affecting the validity of any proposal for a neighbourhood development order made before the end of that period, and
 - (b) in the case of the designation of an unincorporated association, is not to be affected merely because of a change in the membership of the association.
 
-(8A)[^key-6cd42a0ffb3373aa714d3e76cbab027e] A designation ceases to have effect if—
+(8A)[^c-6cd42a0ffb3373aa714d3e76cbab027e] A designation ceases to have effect if—
 
 - (a) a new parish council is created or there is a change in the area of a parish council, and
 - (b) as a result, the neighbourhood area for which the neighbourhood forum is designated consists of or includes the whole or any part of the area of the parish council.
@@ -92,10 +92,10 @@ and, where an organisation or body's designation is withdrawn, the authority mus
 
 ## Annotations
 
-[^key-249b87a8b4b50ae39c9f5c2aa4b3cb8c]: Modification: S. 61F applied by 2004 c. 5, s. 38C(2)(a) (as inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/7); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4))
+[^c-249b87a8b4b50ae39c9f5c2aa4b3cb8c]: Modification: S. 61F applied by 2004 c. 5, s. 38C(2)(a) (as inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/7); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4))
 
-[^key-917fe079927b9b8fcb732ffa3f122fca]: Modification: S. 61F applied (with modifications) by 2004 c. 5, s. 38C(2A) (as inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 4(7)](https://www.legislation.gov.uk/ukpga/2017/20/section/4/7), [46(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/3); [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/b))
+[^c-917fe079927b9b8fcb732ffa3f122fca]: Modification: S. 61F applied (with modifications) by 2004 c. 5, s. 38C(2A) (as inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 4(7)](https://www.legislation.gov.uk/ukpga/2017/20/section/4/7), [46(3)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/3); [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/b))
 
-[^key-99c58ceb70d9a80231e26e93f5bf37c9]: Textual amendment: Ss. 61E-61Q and cross-heading inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/2); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^c-99c58ceb70d9a80231e26e93f5bf37c9]: Textual amendment: Ss. 61E-61Q and cross-heading inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/2); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
 
-[^key-6cd42a0ffb3373aa714d3e76cbab027e]: Textual amendment: [S. 61F(8A)](https://www.legislation.gov.uk/ukpga/1990/8/section/61F/8A), [(8B)](https://www.legislation.gov.uk/ukpga/1990/8/section/61F/8B) inserted (31.1.2018) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2017/20/section/5/2), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/c)
+[^c-6cd42a0ffb3373aa714d3e76cbab027e]: Textual amendment: [S. 61F(8A)](https://www.legislation.gov.uk/ukpga/1990/8/section/61F/8A), [(8B)](https://www.legislation.gov.uk/ukpga/1990/8/section/61F/8B) inserted (31.1.2018) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2017/20/section/5/2), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/c)

@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-ddef5b5c947979e82fd4b58634329514]
+## 1. Citation and commencement[^c-ddef5b5c947979e82fd4b58634329514]
 
 These Regulations may be cited as the Non-Domestic Rates (Islands and Remote Areas Hospitality Relief) (Scotland) Regulations 2024 and come into force on 1 April 2024.
 
-## 2. Interpretation[^key-2e497a12d7f4e045ac6df7f63c436342]
+## 2. Interpretation[^c-2e497a12d7f4e045ac6df7f63c436342]
 
 In these Regulations—
 
@@ -60,7 +60,7 @@ In these Regulations—
 - “**lands and heritages**” has the meaning prescribed by and under section 42 (interpretation) of the Lands Valuation (Scotland) Act 1854[^f00002],
 - “**rates**” means non-domestic rates levied under section 7B (provisions as to setting of non-domestic rates) of the Local Government (Scotland) Act 1975[^f00003].
 
-## 3. Applications for relief[^key-56e11fbe14415947bb3bedda7407fce3]
+## 3. Applications for relief[^c-56e11fbe14415947bb3bedda7407fce3]
 
 (1) An application for relief under these Regulations must—
 
@@ -78,9 +78,9 @@ In these Regulations—
   - (c) a body corporate, a director of that body,
 - “sign” or “**signed**”, in relation to an application made by electronic communication, means an electronic signature, as defined in section 7(2) (electronic signatures and related certificates) of the 2000 Act[^f00005].
 
-## 4. Relief for lands and heritages used for hospitality purposes on islands and in specified remote areas[^key-ce9db402f4e8bd3ee10b92d3c4ed00d3]
+## 4. Relief for lands and heritages used for hospitality purposes on islands and in specified remote areas[^c-ce9db402f4e8bd3ee10b92d3c4ed00d3]
 
-(1) This regulation grants relief to a person liable to pay rates in respect of lands and heritages on a day in the 2024-2025 or 2025-2026[^key-1e68649f7e95ed7bee72c51ad0c4b889] financial year where—
+(1) This regulation grants relief to a person liable to pay rates in respect of lands and heritages on a day in the 2024-2025 or 2025-2026[^c-1e68649f7e95ed7bee72c51ad0c4b889] financial year where—
 
 - (a) the lands and heritages are situated—
   - (i) on an island, or
@@ -109,61 +109,61 @@ Edinburgh
 
 Regulation 4(1)(a)
 
-### PART 1 — Cape Wrath[^key-694f9e6c9dbc65c41a96098abe016cfa]
+### PART 1 — Cape Wrath[^c-694f9e6c9dbc65c41a96098abe016cfa]
 
 From OS Grid Reference NC 28476 60018, the boundary follows Abhainn an t-Strathann in a westerly, then north-westerly direction to OS Grid Reference NC 23085 63339. The boundary then follows the Sandwood Loch to OS Grid Reference NC 22556 65099, from which point it follows the high water coastline in a northerly, then easterly, then southerly direction to OS Grid Reference NC 35227 62844. From this point, the boundary follows the Grudie River in a westerly, then south-westerly direction to OS Grid Reference NC 31694 61853, and then in a south-westerly direction to the starting point at OS Grid Reference NC 28476 60018.
 
-### PART 2 — Knoydart[^key-34b34ad6045df18559939281c059b28d]
+### PART 2 — Knoydart[^c-34b34ad6045df18559939281c059b28d]
 
 From OS Grid Reference NM 91245 93007, the boundary follows Abhainn Ceann-loch-morair in a west-south-westerly direction to OS Grid Reference NM 86389 90774, and then the northern shore of Loch Morar to OS Grid Reference NM 73795 91798. From here, the boundary follows Allt an Inbhire Chruaidh, Lochan a’ chuirn Duibh, and Lochan Stole in a northerly direction to OS Grid Reference NM 74476 93867. The boundary then follows a north-westerly direction to OS Grid Reference NM 75283 94662, from which it continues in an easterly, northerly, westerly, north-westerly, north-easterly, and then easterly direction, along the high water coastline, to OS Grid Reference NG 92820 07243. From here, the boundary continues in a south-south-easterly direction to OS Grid Reference NG 96593 01169, following which it follows the northern shore of Loch Cuaich in a westerly direction to OS Grid Reference NM 93224 99081, and then Allt Coire nan Gall in a southerly direction to OS Grid Reference NM 92709 97505. The boundary then goes in a southerly direction to the starting point at OS Grid Reference NM 91245 93007.
 
-### PART 3 — Scoraig[^key-4b22b005d723a25b470fee35d5854f38]
+### PART 3 — Scoraig[^c-4b22b005d723a25b470fee35d5854f38]
 
 From OS Grid Reference NH 08429 96166, the boundary follows Allt Uisge na Feith to OS Grid Reference NH 06951 93952, and then proceeds in a southerly direction to OS Grid Reference NH 05456 91758. The boundary then follows the high water coastline in a north-westerly, northerly, south-easterly, and north-easterly direction to the starting point at OS Grid Reference NH 08429 96166.
 
-## SCHEDULE 2 — Specified Purposes[^key-7acfb3bfa663bbe63b50428f31f021da]
+## SCHEDULE 2 — Specified Purposes[^c-7acfb3bfa663bbe63b50428f31f021da]
 
 Regulation 4(1)(b)
 
 ### Class 1 Bed and breakfast accommodation
 
-[^key-7acfb3bfa663bbe63b50428f31f021da]
+[^c-7acfb3bfa663bbe63b50428f31f021da]
 
 Use as bed and breakfast accommodation.
 
 ### Class 2 Camping site
 
-[^key-7acfb3bfa663bbe63b50428f31f021da]
+[^c-7acfb3bfa663bbe63b50428f31f021da]
 
 Use as a camping site.
 
 ### Class 3 Caravan
 
-[^key-7acfb3bfa663bbe63b50428f31f021da]
+[^c-7acfb3bfa663bbe63b50428f31f021da]
 
 Use as a caravan (within the meaning of Part 1 of the Caravan Sites and Control of Development Act 1960[^f00006]).
 
 ### Class 4 Caravan site
 
-[^key-7acfb3bfa663bbe63b50428f31f021da]
+[^c-7acfb3bfa663bbe63b50428f31f021da]
 
 Use as a caravan site (within the meaning of Part 1 of the Caravan Sites and Control of Development Act 1960[^f00007]).
 
 ### Class 5 Chalet, holiday hut and bothy
 
-[^key-7acfb3bfa663bbe63b50428f31f021da]
+[^c-7acfb3bfa663bbe63b50428f31f021da]
 
 Use as a chalet, holiday hut or bothy.
 
 ### Class 6 Guest house, hotel and hostel
 
-[^key-7acfb3bfa663bbe63b50428f31f021da]
+[^c-7acfb3bfa663bbe63b50428f31f021da]
 
 Use as a guest house, hotel or hostel, where no significant element of care is provided.
 
 ### Class 7 Public house
 
-[^key-7acfb3bfa663bbe63b50428f31f021da]
+[^c-7acfb3bfa663bbe63b50428f31f021da]
 
 Use as a public house or nightclub where the following conditions are satisfied—
 
@@ -173,23 +173,23 @@ Use as a public house or nightclub where the following conditions are satisfied�
 
 ### Class 8 Restaurant
 
-[^key-7acfb3bfa663bbe63b50428f31f021da]
+[^c-7acfb3bfa663bbe63b50428f31f021da]
 
 Use for the sale of food or refreshments to members of the public for consumption on those premises, including any café, coffee shop, bistro, fast food restaurant or snack bar that is so used.
 
 ### Class 9 Self-catering holiday accommodation
 
-[^key-7acfb3bfa663bbe63b50428f31f021da]
+[^c-7acfb3bfa663bbe63b50428f31f021da]
 
 Use as self-catering holiday accommodation.
 
 ### Class 10 Timeshare accommodation
 
-[^key-7acfb3bfa663bbe63b50428f31f021da]
+[^c-7acfb3bfa663bbe63b50428f31f021da]
 
 Use as timeshare accommodation.
 
-### Class 11 Small music venue[^key-9a1b6532f967a1d7974682d3ecef00ae]
+### Class 11 Small music venue[^c-9a1b6532f967a1d7974682d3ecef00ae]
 
 Use as a venue to host live music events where each of the following conditions is satisfied—
 
@@ -233,31 +233,31 @@ Reproduced by permission of Ordnance Survey on behalf of HMSO. © Crown copyrigh
 
 [^f00001]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39). Section 153 was amended by section 67 of the Climate Change (Scotland) Act [2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12) and section 15 of the Non-Domestic Rates (Scotland) Act [2020 (asp 4)](https://www.legislation.gov.uk/asp/2020/4). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-ddef5b5c947979e82fd4b58634329514]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
+[^c-ddef5b5c947979e82fd4b58634329514]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
 
-[^key-2e497a12d7f4e045ac6df7f63c436342]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2024/55/regulation/2) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
+[^c-2e497a12d7f4e045ac6df7f63c436342]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2024/55/regulation/2) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
 
 [^f00002]: Footnote: [1854 c. 91](https://www.legislation.gov.uk/ukpga/1854/91) (17 & 18 Vict.). Section 42 was amended by the Statute Law Revision Act [1892 (c. 19)](https://www.legislation.gov.uk/ukpga/1892/19) and section 152(2) of the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
 [^f00003]: Footnote: Section 7B was inserted by section 110(2) of the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14) and amended by paragraph 100(4) of schedule 13 of the Local Government etc. (Scotland) Act 1994.
 
-[^key-56e11fbe14415947bb3bedda7407fce3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2024/55/regulation/3) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
+[^c-56e11fbe14415947bb3bedda7407fce3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2024/55/regulation/3) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
 
 [^f00004]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of schedule 17 of the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
 [^f00005]: Footnote: Section 7(2) was amended by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696).
 
-[^key-ce9db402f4e8bd3ee10b92d3c4ed00d3]: Commencement: Reg. 4 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
+[^c-ce9db402f4e8bd3ee10b92d3c4ed00d3]: Commencement: Reg. 4 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
 
-[^key-1e68649f7e95ed7bee72c51ad0c4b889]: Textual amendment: Words in reg. 4(1) inserted (1.4.2025) by [The Non-Domestic Rates (Hospitality Relief) (Scotland) Regulations 2025 (S.S.I. 2025/40)](https://www.legislation.gov.uk/ssi/2025/40), [regs. 1](https://www.legislation.gov.uk/ssi/2025/40/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2025/40/regulation/6/2)
+[^c-1e68649f7e95ed7bee72c51ad0c4b889]: Textual amendment: Words in reg. 4(1) inserted (1.4.2025) by [The Non-Domestic Rates (Hospitality Relief) (Scotland) Regulations 2025 (S.S.I. 2025/40)](https://www.legislation.gov.uk/ssi/2025/40), [regs. 1](https://www.legislation.gov.uk/ssi/2025/40/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2025/40/regulation/6/2)
 
-[^key-694f9e6c9dbc65c41a96098abe016cfa]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2024/55/schedule/1/part/1) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
+[^c-694f9e6c9dbc65c41a96098abe016cfa]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2024/55/schedule/1/part/1) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
 
-[^key-34b34ad6045df18559939281c059b28d]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2024/55/schedule/1/part/2) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
+[^c-34b34ad6045df18559939281c059b28d]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2024/55/schedule/1/part/2) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
 
-[^key-4b22b005d723a25b470fee35d5854f38]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ssi/2024/55/schedule/1/part/3) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
+[^c-4b22b005d723a25b470fee35d5854f38]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ssi/2024/55/schedule/1/part/3) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
 
-[^key-7acfb3bfa663bbe63b50428f31f021da]: Commencement: Sch. 2 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
+[^c-7acfb3bfa663bbe63b50428f31f021da]: Commencement: Sch. 2 in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/ssi/2024/55/regulation/1)
 
 [^f00006]: Footnote: [1960 c. 62](https://www.legislation.gov.uk/ukpga/1960/62). The term ‘caravan’ is defined in section 29(1) of that Act.
 
@@ -265,4 +265,4 @@ Reproduced by permission of Ordnance Survey on behalf of HMSO. © Crown copyrigh
 
 [^f00008]: Footnote: [2005 asp 16](https://www.legislation.gov.uk/asp/2005/16). There are amendments to section 26 that are not relevant to these Regulations.
 
-[^key-9a1b6532f967a1d7974682d3ecef00ae]: Textual amendment: Sch. 2 Class 11 inserted (1.4.2025) by [The Non-Domestic Rates (Hospitality Relief) (Scotland) Regulations 2025 (S.S.I. 2025/40)](https://www.legislation.gov.uk/ssi/2025/40), [regs. 1](https://www.legislation.gov.uk/ssi/2025/40/regulation/1), [6(3)](https://www.legislation.gov.uk/ssi/2025/40/regulation/6/3)
+[^c-9a1b6532f967a1d7974682d3ecef00ae]: Textual amendment: Sch. 2 Class 11 inserted (1.4.2025) by [The Non-Domestic Rates (Hospitality Relief) (Scotland) Regulations 2025 (S.S.I. 2025/40)](https://www.legislation.gov.uk/ssi/2025/40), [regs. 1](https://www.legislation.gov.uk/ssi/2025/40/regulation/1), [6(3)](https://www.legislation.gov.uk/ssi/2025/40/regulation/6/3)

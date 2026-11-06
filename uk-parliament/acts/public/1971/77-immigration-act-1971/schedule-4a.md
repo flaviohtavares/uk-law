@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4A — Enforcement powers in relation to ships[^key-e91b5df230f47f34f66de525d590e28a]
+## SCHEDULE 4A — Enforcement powers in relation to ships[^c-e91b5df230f47f34f66de525d590e28a]
 
 *Extent: E+W+S+N.I.*
 
 Sections 28M, 28N and 28O
 
-### PART A1 — United Kingdom[^key-c02399e7e47d968b05d7aab502e783e5]
+### PART A1 — United Kingdom[^c-c02399e7e47d968b05d7aab502e783e5]
 
 #### A1. Introductory
 
@@ -265,7 +265,7 @@ A relevant officer is not liable in any criminal or civil proceedings for anythi
 
 **2.** (1) This paragraph applies if a relevant officer has reasonable grounds to suspect that—
 
-- (a) an offence under section 24B, 25 or 25A of this Act or section 21 of the 2006 Act[^key-97eebea19d54d8f16254008cd19b6319] is being, or has been, committed on the ship, or
+- (a) an offence under section 24B, 25 or 25A of this Act or section 21 of the 2006 Act[^c-97eebea19d54d8f16254008cd19b6319] is being, or has been, committed on the ship, or
 - (b) the ship is otherwise being used in connection with the commission of an offence under any of those sections.
 
 (2) The relevant officer may—
@@ -448,7 +448,7 @@ to assist the officer in the exercise of powers under this Part of this Schedule
 
 **13.** (1) This paragraph applies if a relevant officer has reasonable grounds to suspect that—
 
-- (a) an offence under section 24B, 25 or 25A of this Act or section 21 of the 2006 Act[^key-b4a47ee71c555f0f19ee0fc6f913cb36] is being, or has been, committed on the ship, or
+- (a) an offence under section 24B, 25 or 25A of this Act or section 21 of the 2006 Act[^c-b4a47ee71c555f0f19ee0fc6f913cb36] is being, or has been, committed on the ship, or
 - (b) the ship is otherwise being used in connection with the commission of an offence under any of those sections.
 
 (2) The relevant officer may—
@@ -467,7 +467,7 @@ to assist the officer in the exercise of powers under this Part of this Schedule
 
 **14.** (1) This paragraph applies if a relevant officer has reasonable grounds to suspect that there is evidence on the ship (other than items subject to legal privilege) relating—
 
-- (a) to an offence under section 24B, 25 or 25A of this Act or section 21 of the 2006 Act[^key-c838a37dd311935117c341ea890d50bd], or
+- (a) to an offence under section 24B, 25 or 25A of this Act or section 21 of the 2006 Act[^c-c838a37dd311935117c341ea890d50bd], or
 - (b) to an offence that is connected with an offence under any of those sections.
 
 (2) The relevant officer may search—
@@ -497,7 +497,7 @@ to assist the officer in the exercise of powers under this Part of this Schedule
 
 #### Power of arrest and seizure
 
-**15.** (1) This paragraph applies if a relevant officer has reasonable grounds to suspect that an offence under section 24B, 25 or 25A of this Act or section 21 of the 2006 Act[^key-2b22ee294ab8b2b8300d9f5ae3d2ba50] has been, or is being, committed on the ship.
+**15.** (1) This paragraph applies if a relevant officer has reasonable grounds to suspect that an offence under section 24B, 25 or 25A of this Act or section 21 of the 2006 Act[^c-2b22ee294ab8b2b8300d9f5ae3d2ba50] has been, or is being, committed on the ship.
 
 (2) The relevant officer may arrest without warrant anyone whom the officer has reasonable grounds for suspecting to be guilty of the offence.
 
@@ -629,7 +629,7 @@ to assist the officer in the exercise of powers under this Part of this Schedule
 
 **24.** (1) This paragraph applies if a relevant officer has reasonable grounds to suspect that—
 
-- (a) an offence under section 24B, 25 or 25A of this Act or section 21 of the 2006 Act[^key-4387dc5bf986117d61e38dd4170813af] is being, or has been, committed on the ship, or
+- (a) an offence under section 24B, 25 or 25A of this Act or section 21 of the 2006 Act[^c-4387dc5bf986117d61e38dd4170813af] is being, or has been, committed on the ship, or
 - (b) the ship is otherwise being used in connection with the commission of an offence under any of those sections.
 
 (2) The relevant officer may—
@@ -648,7 +648,7 @@ to assist the officer in the exercise of powers under this Part of this Schedule
 
 **25.** (1) This paragraph applies if a relevant officer has reasonable grounds to suspect that there is evidence on the ship (other than items subject to legal privilege) relating—
 
-- (a) to an offence under section 24B, 25 or 25A of this Act or section 21 of the 2006 Act[^key-29d719534c4e600c13c7116d19fee0b6], or
+- (a) to an offence under section 24B, 25 or 25A of this Act or section 21 of the 2006 Act[^c-29d719534c4e600c13c7116d19fee0b6], or
 - (b) to an offence that is connected with an offence under any of those sections.
 
 (2) The relevant officer may search—
@@ -678,7 +678,7 @@ to assist the officer in the exercise of powers under this Part of this Schedule
 
 #### Power of arrest and seizure
 
-**26.** (1) This paragraph applies if a relevant officer has reasonable grounds to suspect that an offence under section 24B, 25 or 25A of this Act or section 21 of the 2006 Act[^key-c5dc4029f26d833c5b36439c93afa96b] has been, or is being, committed on the ship.
+**26.** (1) This paragraph applies if a relevant officer has reasonable grounds to suspect that an offence under section 24B, 25 or 25A of this Act or section 21 of the 2006 Act[^c-c5dc4029f26d833c5b36439c93afa96b] has been, or is being, committed on the ship.
 
 (2) The relevant officer may arrest without warrant anyone whom the officer has reasonable grounds for suspecting to be guilty of the offence.
 
@@ -796,9 +796,9 @@ to assist the officer in the exercise of powers under this Part of this Schedule
 
 ## Annotations
 
-[^key-e91b5df230f47f34f66de525d590e28a]: Textual amendment: Sch. 4A inserted (31.5.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/8); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
+[^c-e91b5df230f47f34f66de525d590e28a]: Textual amendment: Sch. 4A inserted (31.5.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2016/19/schedule/14/paragraph/8); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/603/regulation/2/d)
 
-[^key-c02399e7e47d968b05d7aab502e783e5]: Textual amendment: [Sch. 4A Pts. A1-M1](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/part/A1) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/10); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-c02399e7e47d968b05d7aab502e783e5]: Textual amendment: [Sch. 4A Pts. A1-M1](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/part/A1) inserted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/10); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
 [^M_F_ab38a78c-9611-4f2c-c33e-7703bcf15e0f]: Textual amendment: Words in Sch. 4A para. 1(1) omitted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 11(a)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/11/a); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
@@ -806,7 +806,7 @@ to assist the officer in the exercise of powers under this Part of this Schedule
 
 [^M_F_bde6535b-061a-4275-d509-ddc3e0375c5c]: Textual amendment: Words in [Sch. 4A para. 1(2)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/2/1/a) inserted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(2)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/3); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-97eebea19d54d8f16254008cd19b6319]: Textual amendment: Words in [Sch. 4A para. 2(1)(a)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/2/1/a) substituted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(3)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/3); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-97eebea19d54d8f16254008cd19b6319]: Textual amendment: Words in [Sch. 4A para. 2(1)(a)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/2/1/a) substituted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(3)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/3); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
 [^M_F_4aae6ec3-6b1a-4d53-8a50-453264f515f3]: Textual amendment: Words in [Sch. 4A para. 3(1)(a)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/2/1/a) substituted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(4)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/3); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
@@ -826,11 +826,11 @@ to assist the officer in the exercise of powers under this Part of this Schedule
 
 [^M_F_450175a4-16b5-43b5-c0fc-8ffd47202337]: Textual amendment: Words in [Sch. 4A para. 12(2)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/2/1/a) inserted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(6)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/3); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-b4a47ee71c555f0f19ee0fc6f913cb36]: Textual amendment: Words in [Sch. 4A para. 13(1)(a)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/13/1/a) substituted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(7)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/7); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-b4a47ee71c555f0f19ee0fc6f913cb36]: Textual amendment: Words in [Sch. 4A para. 13(1)(a)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/13/1/a) substituted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(7)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/7); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-c838a37dd311935117c341ea890d50bd]: Textual amendment: Words in [Sch. 4A para. 14(1)(a)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/14/1/a) substituted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(8)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/8); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-c838a37dd311935117c341ea890d50bd]: Textual amendment: Words in [Sch. 4A para. 14(1)(a)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/14/1/a) substituted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(8)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/8); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-2b22ee294ab8b2b8300d9f5ae3d2ba50]: Textual amendment: Words in [Sch. 4A para. 15(1)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/15/1) substituted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(9)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/9); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-2b22ee294ab8b2b8300d9f5ae3d2ba50]: Textual amendment: Words in [Sch. 4A para. 15(1)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/15/1) substituted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(9)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/9); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
 [^M_F_4a2f9c39-5f67-4f2f-e98d-e23569c331ac]: Textual amendment: Sch. 4A para. 17(5) omitted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 15(a)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/11/a); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
@@ -842,11 +842,11 @@ to assist the officer in the exercise of powers under this Part of this Schedule
 
 [^M_F_fd0fe7b8-b1a0-4842-c6ad-e9d0e421d8d9]: Textual amendment: Words in [Sch. 4A para. 23(2)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/2/1/a) inserted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(10)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/3); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-4387dc5bf986117d61e38dd4170813af]: Textual amendment: Words in [Sch. 4A para. 24(1)(a)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/24/1/a) substituted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(11)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/11); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-4387dc5bf986117d61e38dd4170813af]: Textual amendment: Words in [Sch. 4A para. 24(1)(a)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/24/1/a) substituted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(11)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/11); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-29d719534c4e600c13c7116d19fee0b6]: Textual amendment: Words in [Sch. 4A para. 25(1)(a)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/25/1/a) substituted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(12)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/12); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-29d719534c4e600c13c7116d19fee0b6]: Textual amendment: Words in [Sch. 4A para. 25(1)(a)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/25/1/a) substituted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(12)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/12); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
-[^key-c5dc4029f26d833c5b36439c93afa96b]: Textual amendment: Words in [Sch. 4A para. 26(1)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/26/1) substituted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(13)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/13); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
+[^c-c5dc4029f26d833c5b36439c93afa96b]: Textual amendment: Words in [Sch. 4A para. 26(1)](https://www.legislation.gov.uk/ukpga/1971/77/schedule/4A/paragraph/26/1) substituted (12.4.2023) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 6 para. 10(13)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/6/paragraph/10/13); [S.I. 2023/283](https://www.legislation.gov.uk/uksi/2023/283), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/283/regulation/3/b)
 
 [^M_F_7cae4936-2473-4365-f5a5-2de05a3ee4a9]: Textual amendment: Words in Sch. 4A para. 26(3) omitted (28.6.2022) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1), [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/11/a); [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 

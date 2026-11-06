@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 91. Appeals in respect of consents under Chapter II.[^key-03154b57716d29c77a06e0fccc009b92]
+## 91. Appeals in respect of consents under Chapter II.[^c-03154b57716d29c77a06e0fccc009b92]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03154b57716d29c77a06e0fccc009b92]: Textual amendment: S. 91 repealed (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 8(2)(i)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/8/2/i), [Sch. 28](https://www.legislation.gov.uk/uksi/2010/675/schedule/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
+[^c-03154b57716d29c77a06e0fccc009b92]: Textual amendment: S. 91 repealed (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 8(2)(i)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/8/2/i), [Sch. 28](https://www.legislation.gov.uk/uksi/2010/675/schedule/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))

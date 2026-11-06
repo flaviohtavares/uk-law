@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32EA. Alternative quality requirements for a collective money purchase scheme[^key-3d258ed3180029fce9dc520cd9666d80][^key-021bf0aea326ae513867e96a32ed0baf]
+## 32EA. Alternative quality requirements for a collective money purchase scheme[^c-3d258ed3180029fce9dc520cd9666d80][^c-021bf0aea326ae513867e96a32ed0baf]
 
 *Extent: E+W+S*
 
@@ -69,6 +69,6 @@ the prescribed alternative requirement is set out in paragraph (2).
 
 ## Annotations
 
-[^key-3d258ed3180029fce9dc520cd9666d80]: Textual amendment: [Reg. 32EA](https://www.legislation.gov.uk/uksi/2010/772/regulation/32EA) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 2(3)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/2/3)
+[^c-3d258ed3180029fce9dc520cd9666d80]: Textual amendment: [Reg. 32EA](https://www.legislation.gov.uk/uksi/2010/772/regulation/32EA) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 2(3)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/2/3)
 
-[^key-021bf0aea326ae513867e96a32ed0baf]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1257/regulation/4)
+[^c-021bf0aea326ae513867e96a32ed0baf]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1257/regulation/4)

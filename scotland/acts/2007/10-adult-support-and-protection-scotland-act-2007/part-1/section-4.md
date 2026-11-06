@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Council's duty to make inquiries[^key-8a23008724248c6583cbeb23733680d6]
+## 4. Council's duty to make inquiries[^c-8a23008724248c6583cbeb23733680d6]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A council must make inquiries about a person's well-being, property or financial
 
 ## Annotations
 
-[^key-8a23008724248c6583cbeb23733680d6]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2007/10/section/4) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-8a23008724248c6583cbeb23733680d6]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2007/10/section/4) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

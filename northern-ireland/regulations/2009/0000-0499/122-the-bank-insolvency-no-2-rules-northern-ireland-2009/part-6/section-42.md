@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. General power to call meetings[^key-0b455b135e749fae17bfa9a64b8f9d33]
+## 42. General power to call meetings[^c-0b455b135e749fae17bfa9a64b8f9d33]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b455b135e749fae17bfa9a64b8f9d33]: Commencement: Rule 42 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-0b455b135e749fae17bfa9a64b8f9d33]: Commencement: Rule 42 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59.10. Statements of case[^key-b86c9615e686de7195c572935f3010d3]
+## 59.10. Statements of case[^c-b86c9615e686de7195c572935f3010d3]
 
 *Extent: E+W*
 
-The court may at any time before or after issue of the claim form order a Circuit Commercial claim[^key-6518154761a4d5784babccb5c8b1e020] to proceed without the filing or service of statements of case.
+The court may at any time before or after issue of the claim form order a Circuit Commercial claim[^c-6518154761a4d5784babccb5c8b1e020] to proceed without the filing or service of statements of case.
 
 ## Annotations
 
-[^key-b86c9615e686de7195c572935f3010d3]: Textual amendment: Pt. 59 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 3](https://www.legislation.gov.uk/uksi/2001/4015/schedule/3)
+[^c-b86c9615e686de7195c572935f3010d3]: Textual amendment: Pt. 59 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 3](https://www.legislation.gov.uk/uksi/2001/4015/schedule/3)
 
-[^key-6518154761a4d5784babccb5c8b1e020]: Textual amendment: Words in [Pt. 59](https://www.legislation.gov.uk/uksi/1998/3132/part/59) substituted (1.10.2017) by [The Civil Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/889)](https://www.legislation.gov.uk/uksi/2017/889), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/889/rule/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2017/889/rule/7/2/b)
+[^c-6518154761a4d5784babccb5c8b1e020]: Textual amendment: Words in [Pt. 59](https://www.legislation.gov.uk/uksi/1998/3132/part/59) substituted (1.10.2017) by [The Civil Procedure (Amendment No. 2) Rules 2017 (S.I. 2017/889)](https://www.legislation.gov.uk/uksi/2017/889), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/889/rule/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2017/889/rule/7/2/b)

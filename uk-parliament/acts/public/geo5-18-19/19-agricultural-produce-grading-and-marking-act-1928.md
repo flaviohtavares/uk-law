@@ -29,60 +29,60 @@ Agricultural Produce (Grading and Marking) Act 1928 (repealed)
 
 1928 c.19
 
-[^key-c1d770c478a6776cd177a238a2f713e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1d770c478a6776cd177a238a2f713e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Grading of Agricultural Produce[^key-c1d770c478a6776cd177a238a2f713e3]
-
-**No longer in force.**
-
-### 1. Prescription and use of grade designations.[^key-c1d770c478a6776cd177a238a2f713e3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Grade designation marks.[^key-c1d770c478a6776cd177a238a2f713e3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Special provisions as to Eggs[^key-c1d770c478a6776cd177a238a2f713e3]
+## Grading of Agricultural Produce[^c-c1d770c478a6776cd177a238a2f713e3]
 
 **No longer in force.**
 
-### 3. Marking of preserved eggs.[^key-c1d770c478a6776cd177a238a2f713e3]
+### 1. Prescription and use of grade designations.[^c-c1d770c478a6776cd177a238a2f713e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Cold and chemical storage of eggs.[^key-c1d770c478a6776cd177a238a2f713e3]
+### 2. Grade designation marks.[^c-c1d770c478a6776cd177a238a2f713e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Supplementary[^key-c1d770c478a6776cd177a238a2f713e3]
+## Special provisions as to Eggs[^c-c1d770c478a6776cd177a238a2f713e3]
 
 **No longer in force.**
 
-### 5. Enforcement and expenses.[^key-c1d770c478a6776cd177a238a2f713e3]
+### 3. Marking of preserved eggs.[^c-c1d770c478a6776cd177a238a2f713e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Provisions as to regulations and orders.[^key-c1d770c478a6776cd177a238a2f713e3]
+### 4. Cold and chemical storage of eggs.[^c-c1d770c478a6776cd177a238a2f713e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Interpretation.[^key-c1d770c478a6776cd177a238a2f713e3]
+## Supplementary[^c-c1d770c478a6776cd177a238a2f713e3]
+
+**No longer in force.**
+
+### 5. Enforcement and expenses.[^c-c1d770c478a6776cd177a238a2f713e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Application to Scotland.[^key-c1d770c478a6776cd177a238a2f713e3]
+### 6. Provisions as to regulations and orders.[^c-c1d770c478a6776cd177a238a2f713e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Saving for other Acts.[^key-c1d770c478a6776cd177a238a2f713e3]
+### 7. Interpretation.[^c-c1d770c478a6776cd177a238a2f713e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Short title and extent.[^key-c1d770c478a6776cd177a238a2f713e3]
+### 8. Application to Scotland.[^c-c1d770c478a6776cd177a238a2f713e3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Saving for other Acts.[^c-c1d770c478a6776cd177a238a2f713e3]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Short title and extent.[^c-c1d770c478a6776cd177a238a2f713e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c1d770c478a6776cd177a238a2f713e3]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/18-19/19) repealed (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [Sch. 23 para. 33](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/33)
+[^c-c1d770c478a6776cd177a238a2f713e3]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/18-19/19) repealed (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [Sch. 23 para. 33](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/33)

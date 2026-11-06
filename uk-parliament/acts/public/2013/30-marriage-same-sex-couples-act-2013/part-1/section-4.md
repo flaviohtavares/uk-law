@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Opt-in: marriage in places of worship[^key-1cc55ae2dec48d0ce62ff05a51581e0d][^key-e3d85f410e58242bd1e48f65af2dcc67]
+## 4. Opt-in: marriage in places of worship[^c-1cc55ae2dec48d0ce62ff05a51581e0d][^c-e3d85f410e58242bd1e48f65af2dcc67]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1cc55ae2dec48d0ce62ff05a51581e0d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/30/section/4) in force at 31.10.2013 for specified purposes by [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2789/article/2/a)
+[^c-1cc55ae2dec48d0ce62ff05a51581e0d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/30/section/4) in force at 31.10.2013 for specified purposes by [S.I. 2013/2789](https://www.legislation.gov.uk/uksi/2013/2789), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2789/article/2/a)
 
-[^key-e3d85f410e58242bd1e48f65af2dcc67]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/30/section/4) in force at 13.3.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/93/article/3/b)
+[^c-e3d85f410e58242bd1e48f65af2dcc67]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/30/section/4) in force at 13.3.2014 in so far as not already in force by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/93/article/3/b)

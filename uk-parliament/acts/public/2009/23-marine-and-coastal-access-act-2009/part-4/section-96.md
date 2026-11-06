@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Variable monetary penalties: procedure[^c2007846][^key-10634ff47b5820a66de234808a5ac6cf]
+## 96. Variable monetary penalties: procedure[^c2007846][^c-10634ff47b5820a66de234808a5ac6cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 [^c2007846]: Commencement: S. 96 partly in force; s. 96 in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-10634ff47b5820a66de234808a5ac6cf]: Commencement: S. 96 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-10634ff47b5820a66de234808a5ac6cf]: Commencement: S. 96 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

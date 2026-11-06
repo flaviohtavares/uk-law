@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Section 169 (investigations etc. in support of overseas regulator)[^key-0e2204a0051a9237e7d917f6a63f287b]
+## 46. Section 169 (investigations etc. in support of overseas regulator)[^c-0e2204a0051a9237e7d917f6a63f287b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Omit section 169(3) [^c23657771] and (6) [^c23657781] (investigations in connect
 
 ## Annotations
 
-[^key-0e2204a0051a9237e7d917f6a63f287b]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-0e2204a0051a9237e7d917f6a63f287b]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657771]: Marginal citation: Subsection (3) was amended by section 41 of, and paragraphs 9(1) and (3) of Part 1 of Schedule 12 to, the Financial Services Act 2012 and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 

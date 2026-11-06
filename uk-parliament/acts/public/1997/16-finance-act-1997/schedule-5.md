@@ -60,7 +60,7 @@ Section 50.
 
 (4) The reference in sub-paragraph (2) above to provisions relating to a relevant tax is a reference to any provisions of—
 
-- (a) any enactment or subordinate legislation[^key-2cb06a836b29abb2ecd61fadd8e46105] (whether or not still in force) which relates to that tax or to any matter connected with it; or
+- (a) any enactment or subordinate legislation[^c-2cb06a836b29abb2ecd61fadd8e46105] (whether or not still in force) which relates to that tax or to any matter connected with it; or
 - (b) any notice published by the Commissioners under or for the purposes of any such enactment or subordinate legislation.
 
 (5) This paragraph has effect for the purposes of making any repayment on or after the day on which this Act is passed, even if the claim for that repayment was made before that day.
@@ -131,8 +131,8 @@ Section 50.
 (2) Those enactments are—
 
 - (a) section 12(4)(a) and (5) of the Finance Act 1994 (excise duties);
-- (b)[^key-88dfc9a14c22c2dec5b396bd16b8d566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-88dfc9a14c22c2dec5b396bd16b8d566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-88dfc9a14c22c2dec5b396bd16b8d566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-88dfc9a14c22c2dec5b396bd16b8d566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part III — Interest
 
@@ -362,15 +362,15 @@ the Commissioners may make a supplementary assessment of the amount of the exces
 
 #### Review of decisions and appeals
 
-**19.** (1) Sections 13A to 16[^key-7e44e51b18163ce151402fa16cba5b87] of the [^c14709761]Finance Act 1994 (review and appeals) shall have effect in relation to any decision which—
+**19.** (1) Sections 13A to 16[^c-7e44e51b18163ce151402fa16cba5b87] of the [^c14709761]Finance Act 1994 (review and appeals) shall have effect in relation to any decision which—
 
 - (a) is contained in an assessment under paragraph 14, 15 or 17 above,
 - (b) is a decision about whether any amount is due to the Commissioners or about how much is due, and
 - (c) is made in a case in which the relevant repayment provision is section 137A of the [^c14709771]Customs and Excise Management Act 1979 or Part 1 of Schedule 3 to the Finance Act 2001 or the relevant interest provision is Part 2 of that Schedule[^c14709781],
 
-as if that decision were such a decision as is mentioned in section 13A(2)(b)[^key-c5050b84ec0053ec9f3147a94d19f8a8] of that Act of 1994.
+as if that decision were such a decision as is mentioned in section 13A(2)(b)[^c-c5050b84ec0053ec9f3147a94d19f8a8] of that Act of 1994.
 
-(2) Sections 59 to 60[^key-751ee9708772816c8e55202d6dec83d8] of that Act of 1994 (review and appeal in the case of insurance premium tax) shall have effect in relation to any decision which—
+(2) Sections 59 to 60[^c-751ee9708772816c8e55202d6dec83d8] of that Act of 1994 (review and appeal in the case of insurance premium tax) shall have effect in relation to any decision which—
 
 - (a) is contained in an assessment under paragraph 14, 15 or 17 above,
 - (b) is a decision about whether any amount is due to the Commissioners or about how much is due, and
@@ -407,7 +407,7 @@ as if that decision were a decision to which section 54 of that Act applies.
   - (ii) an overpayment of interest under paragraph 29 of Schedule 5 to the [^c14709831]Finance Act 1996, or
   - (iii) interest on an amount specified in an assessment in relation to which the relevant tax is landfill tax.
 
-(3) For the purposes of this Part of this Schedule notification to a personal representative, trustee in bankruptcy, trustee or interim trustee in a sequestration[^key-4d0cd291064e0497c1b5fab9217c3248], receiver, liquidator or person otherwise acting in a representative capacity in relation to another shall be treated as notification to the person in relation to whom he so acts.
+(3) For the purposes of this Part of this Schedule notification to a personal representative, trustee in bankruptcy, trustee or interim trustee in a sequestration[^c-4d0cd291064e0497c1b5fab9217c3248], receiver, liquidator or person otherwise acting in a representative capacity in relation to another shall be treated as notification to the person in relation to whom he so acts.
 
 #### Consequential amendment
 
@@ -427,7 +427,7 @@ as if that decision were a decision to which section 54 of that Act applies.
 
 [^c14709501]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-2cb06a836b29abb2ecd61fadd8e46105]: Textual amendment: Words in [Sch. 5 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/paragraph/2/4/a) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/689/regulation/7/3) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39), [43](https://www.legislation.gov.uk/uksi/2019/689/regulation/43)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2cb06a836b29abb2ecd61fadd8e46105]: Textual amendment: Words in [Sch. 5 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/paragraph/2/4/a) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/689/regulation/7/3) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39), [43](https://www.legislation.gov.uk/uksi/2019/689/regulation/43)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c14709511]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
@@ -441,7 +441,7 @@ as if that decision were a decision to which section 54 of that Act applies.
 
 [^c14709561]: Marginal citation: [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8).
 
-[^key-88dfc9a14c22c2dec5b396bd16b8d566]: Textual amendment: [Sch. 5 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/paragraph/6/2/b)[(c)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/paragraph/6/2/c) omitted (1.4.2010) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 43(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/43/b); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1)
+[^c-88dfc9a14c22c2dec5b396bd16b8d566]: Textual amendment: [Sch. 5 para. 6(2)(b)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/paragraph/6/2/b)[(c)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/paragraph/6/2/c) omitted (1.4.2010) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 43(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/43/b); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1)
 
 [^c14709581]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
@@ -465,7 +465,7 @@ as if that decision were a decision to which section 54 of that Act applies.
 
 [^c14709721]: Textual amendment: [Sch. 5 para. 15(2)(d)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/paragraph/15/2/d) and the word “or” immediately preceding it inserted (1.11.2001) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [s. 15](https://www.legislation.gov.uk/ukpga/2001/9/section/15), [Sch. 3 para. 19(3)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/19/3); [S.I. 2001/3300](https://www.legislation.gov.uk/uksi/2001/3300), [art. 2](https://www.legislation.gov.uk/uksi/2001/3300/article/2)
 
-[^key-7e44e51b18163ce151402fa16cba5b87]: Textual amendment: Words in [Sch. 5 para. 19(1)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/paragraph/19/1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 244(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/244/2/a)
+[^c-7e44e51b18163ce151402fa16cba5b87]: Textual amendment: Words in [Sch. 5 para. 19(1)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/paragraph/19/1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 244(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/244/2/a)
 
 [^c14709761]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
@@ -473,9 +473,9 @@ as if that decision were a decision to which section 54 of that Act applies.
 
 [^c14709781]: Textual amendment: Words in Sch. 5 para. 19(1)(c) substituted (1.11.2001) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [s. 15](https://www.legislation.gov.uk/ukpga/2001/9/section/15), [Sch. 3 para. 19(4)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/19/4); [S.I. 2001/3300](https://www.legislation.gov.uk/uksi/2001/3300), [art. 2](https://www.legislation.gov.uk/uksi/2001/3300/article/2)
 
-[^key-c5050b84ec0053ec9f3147a94d19f8a8]: Textual amendment: Word in [Sch. 5 para. 19(1)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/paragraph/19/1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 244(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/244/2/b)
+[^c-c5050b84ec0053ec9f3147a94d19f8a8]: Textual amendment: Word in [Sch. 5 para. 19(1)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/paragraph/19/1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 244(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/244/2/b)
 
-[^key-751ee9708772816c8e55202d6dec83d8]: Textual amendment: Words in [Sch. 5 para. 19(2)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/paragraph/19/2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 244(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/244/3)
+[^c-751ee9708772816c8e55202d6dec83d8]: Textual amendment: Words in [Sch. 5 para. 19(2)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/5/paragraph/19/2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 244(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/244/3)
 
 [^c14709791]: Marginal citation: [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8).
 
@@ -483,4 +483,4 @@ as if that decision were a decision to which section 54 of that Act applies.
 
 [^c14709831]: Marginal citation: [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8).
 
-[^key-4d0cd291064e0497c1b5fab9217c3248]: Textual amendment: Words in Sch. 5 para. 20(3) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/18)
+[^c-4d0cd291064e0497c1b5fab9217c3248]: Textual amendment: Words in Sch. 5 para. 20(3) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/18)

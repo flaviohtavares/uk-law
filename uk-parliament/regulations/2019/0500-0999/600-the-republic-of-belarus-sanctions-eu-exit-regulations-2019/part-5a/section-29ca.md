@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29CA. Registration of an aircraft in the United Kingdom[^key-69cc84ab996d08c66729effb159bc4bf][^key-396da29829b415a3b27d2cbd14af1a5e]
+## 29CA. Registration of an aircraft in the United Kingdom[^c-69cc84ab996d08c66729effb159bc4bf][^c-396da29829b415a3b27d2cbd14af1a5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-69cc84ab996d08c66729effb159bc4bf]: Textual amendment: [Reg. 29CA](https://www.legislation.gov.uk/uksi/2019/600/regulation/29CA) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2022/748/regulation/25)
+[^c-69cc84ab996d08c66729effb159bc4bf]: Textual amendment: [Reg. 29CA](https://www.legislation.gov.uk/uksi/2019/600/regulation/29CA) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2022/748/regulation/25)
 
-[^key-396da29829b415a3b27d2cbd14af1a5e]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2019/600/part/5A) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2021/1146/regulation/21)
+[^c-396da29829b415a3b27d2cbd14af1a5e]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2019/600/part/5A) inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2021/1146/regulation/21)

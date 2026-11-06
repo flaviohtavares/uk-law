@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157A. “Devolved Welsh authority”[^key-eac6898649d2448dd68d7152522a3ed2]
+## 157A. “Devolved Welsh authority”[^c-eac6898649d2448dd68d7152522a3ed2]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 (3) In determining for the purposes of this section whether functions of a public authority are exercisable only in relation to Wales, no account is taken of any function that—
 
 - (a) is exercisable otherwise than in relation to Wales, and
-- (b) could (apart from this paragraph) be conferred or imposed by provision falling within the Senedd's[^key-60edd79c70d763519861630d1afb7962] legislative competence (by virtue of section 108A(3)).
+- (b) could (apart from this paragraph) be conferred or imposed by provision falling within the Senedd's[^c-60edd79c70d763519861630d1afb7962] legislative competence (by virtue of section 108A(3)).
 
 (4) Where the conditions in subsection (2) are relevant to determining whether a provision of an Act of the Senedd is within the Senedd's legislative competence, the time for assessing whether those conditions are met is the time when the Act is passed.
 
@@ -56,14 +56,14 @@ Such an Order in Council is subject to annulment in pursuance of a resolution of
 
 (8) In this section “**"public authority”**” means a body, office or holder of an office that has functions of a public nature.
 
-(9)[^key-6d6227ab586a6bd17849dc2183a8489b] References in this section to Wales include, in relation to a relevant function of a public authority, the area of the Welsh zone beyond the seaward limit of the territorial sea.
+(9)[^c-6d6227ab586a6bd17849dc2183a8489b] References in this section to Wales include, in relation to a relevant function of a public authority, the area of the Welsh zone beyond the seaward limit of the territorial sea.
 
 A function of a public authority is “relevant” if it relates to fishing, fisheries or fish health.
 
 ## Annotations
 
-[^key-eac6898649d2448dd68d7152522a3ed2]: Textual amendment: S. 157A inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2017/4/section/4/1), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/a)
+[^c-eac6898649d2448dd68d7152522a3ed2]: Textual amendment: S. 157A inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2017/4/section/4/1), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/a)
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
 
-[^key-6d6227ab586a6bd17849dc2183a8489b]: Textual amendment: S. 157A(9) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [ss. 45(3)](https://www.legislation.gov.uk/ukpga/2020/22/section/45/3), [54(2)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-6d6227ab586a6bd17849dc2183a8489b]: Textual amendment: S. 157A(9) inserted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [ss. 45(3)](https://www.legislation.gov.uk/ukpga/2020/22/section/45/3), [54(2)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/2) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

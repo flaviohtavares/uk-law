@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**181.**[^key-ef2c6259438d68a20a55092b5c13f4a0] Omit section 50 (preserved rights: transfer to local authorities of responsibilities as to accommodation).
+**181.**[^c-ef2c6259438d68a20a55092b5c13f4a0] Omit section 50 (preserved rights: transfer to local authorities of responsibilities as to accommodation).
 
 ## Annotations
 
-[^key-ef2c6259438d68a20a55092b5c13f4a0]: Commencement: Reg. 181 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-ef2c6259438d68a20a55092b5c13f4a0]: Commencement: Reg. 181 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**73.**[^key-a6d212978650f07be4874f44e7489e75] Omit regulation 3(2).
+**73.**[^c-a6d212978650f07be4874f44e7489e75] Omit regulation 3(2).
 
 ## Annotations
 
-[^key-a6d212978650f07be4874f44e7489e75]: Commencement: [Reg. 73](https://www.legislation.gov.uk/wsi/2024/924/regulation/73) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-a6d212978650f07be4874f44e7489e75]: Commencement: [Reg. 73](https://www.legislation.gov.uk/wsi/2024/924/regulation/73) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

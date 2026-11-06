@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Investigations on behalf of FCA or PRA.[^c15383311][^key-bce358218ef3a6a2f74f98ffd02a9fa0]
+## 65. Investigations on behalf of FCA or PRA.[^c15383311][^c-bce358218ef3a6a2f74f98ffd02a9fa0]
 
 *Extent: E+W+S+N.I.*
 
-(1) If it appears to the FCA or the PRA[^key-932c175e8cfc3cb0d6a5c94720a0da06] desirable to do so for the purpose of its supervisory functions in relation to a friendly society, the FCA or the PRA may appoint one or more competent persons to investigate and report to it on the state and conduct of the activities of the society, or any particular aspect of those activities.
+(1) If it appears to the FCA or the PRA[^c-932c175e8cfc3cb0d6a5c94720a0da06] desirable to do so for the purpose of its supervisory functions in relation to a friendly society, the FCA or the PRA may appoint one or more competent persons to investigate and report to it on the state and conduct of the activities of the society, or any particular aspect of those activities.
 
 (1A)[^c15383341] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -59,9 +59,9 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 [^c15383311]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/1992/40/section/65) wholly in force; [s. 65](https://www.legislation.gov.uk/ukpga/1992/40/section/65) not in force at Royal Assent see [s. 126(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/126/2); [s. 65](https://www.legislation.gov.uk/ukpga/1992/40/section/65) in force for certain purposes at 13.1.1993 by [S.I. 1993/16](https://www.legislation.gov.uk/uksi/1993/16), [art. 2](https://www.legislation.gov.uk/uksi/1993/16/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/16/schedule/1); [s. 65](https://www.legislation.gov.uk/ukpga/1992/40/section/65) in force for all remaining purposes at 28.4.1993 by [S.I. 1993/1186](https://www.legislation.gov.uk/uksi/1993/1186), [art. 2(2)](https://www.legislation.gov.uk/uksi/1993/1186/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1993/1186/schedule/2)
 
-[^key-bce358218ef3a6a2f74f98ffd02a9fa0]: Textual amendment: Words in [s. 65 heading](https://www.legislation.gov.uk/ukpga/1992/40/part/V/crossheading/inspections-etc) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 25](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/25) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-bce358218ef3a6a2f74f98ffd02a9fa0]: Textual amendment: Words in [s. 65 heading](https://www.legislation.gov.uk/ukpga/1992/40/part/V/crossheading/inspections-etc) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 25](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/25) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-932c175e8cfc3cb0d6a5c94720a0da06]: Textual amendment: Words in [s. 65](https://www.legislation.gov.uk/ukpga/1992/40/section/65) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 24](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/24) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-932c175e8cfc3cb0d6a5c94720a0da06]: Textual amendment: Words in [s. 65](https://www.legislation.gov.uk/ukpga/1992/40/section/65) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 24](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/24) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^c15383341]: Textual amendment: [S. 65(1A)(3A)](https://www.legislation.gov.uk/ukpga/1992/40/section/65/1A/3A) repealed (1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [13(2)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2617/schedule/4) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 

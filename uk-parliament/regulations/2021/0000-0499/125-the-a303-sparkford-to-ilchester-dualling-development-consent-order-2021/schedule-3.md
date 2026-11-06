@@ -22,7 +22,7 @@ summary: ''
 
 Articles 13, 14 and 18
 
-### PART 1 — TRUNK ROADS[^key-f9d51d60d84f20ef9c13e1509d704263]
+### PART 1 — TRUNK ROADS[^c-f9d51d60d84f20ef9c13e1509d704263]
 
 - Shown as dashed purple lines on the Classification of Roads Plans
 
@@ -41,7 +41,7 @@ Articles 13, 14 and 18
   | Sparkford | Hazlegrove Junction Westbound On Slip between points P and Q on sheet 4 of the Classification of Roads Plans, comprising of 313 metres. |
   | Sparkford | Hazlegrove Junction Westbound Off Slip between points R and S on sheet 4 of the Classification of Roads Plans, comprising of 340 metres. |
 
-### PART 2A — ROADS TO BE DE-TRUNKED AND VESTED IN SOMERSET COUNTY COUNCIL[^key-5d793e59107a9f7274e21c5d53bbeecd]
+### PART 2A — ROADS TO BE DE-TRUNKED AND VESTED IN SOMERSET COUNTY COUNCIL[^c-5d793e59107a9f7274e21c5d53bbeecd]
 
 | *(1)* *Area Parish* | *(2)* *Length of road* |
 | --- | --- |
@@ -50,13 +50,13 @@ Articles 13, 14 and 18
 | West Camel<br>Queen Camel | Former A303 east of Steart Hill between points AI and EA on sheet 2 of the De-trunking plans, comprising of 279 metres. |
 | Sparkford | Hazlegrove roundabout between points P, S, AO and AK on sheet 3 of the De-trunking plans comprising of 167 metres. |
 
-### PART 2B — ROADS TO BE DE-TRUNKED AND REMAIN UNDER THE CONTROL AND MANAGEMENT OF THE UNDERTAKER[^key-e47cc2dbf9f51da7ce6352645fbb9531]
+### PART 2B — ROADS TO BE DE-TRUNKED AND REMAIN UNDER THE CONTROL AND MANAGEMENT OF THE UNDERTAKER[^c-e47cc2dbf9f51da7ce6352645fbb9531]
 
 |  |  |
 | --- | --- |
 | Queen Camel<br>Sparkford | Former A303 west of Hazlegrove roundabout between points AN and EI on sheet 3 of the De-trunking plans, comprising of 622 metres. |
 
-### PART 3 — CLASSIFIED A ROADS[^key-8999359ea07631980c5c28c2a7e5b5eb]
+### PART 3 — CLASSIFIED A ROADS[^c-8999359ea07631980c5c28c2a7e5b5eb]
 
 - Shown as dashed blue lines on the Classification of Roads Plans
 
@@ -66,7 +66,7 @@ Articles 13, 14 and 18
   | Queen Camel<br>Sparkford | Camel Hill Link, between points AJ and AK on sheets 3 and 4 of the Classification of Roads Plans, comprising of 687 metres. |
   | Sparkford | Hazlegrove Roundabout on sheet 4 of the Classification of Roads Plans, circulatory carriageway length comprising of 167 metres. |
 
-### PART 4 — CLASSIFIED B ROADS[^key-8c0c9b0341f08aa404041d329fc880e4]
+### PART 4 — CLASSIFIED B ROADS[^c-8c0c9b0341f08aa404041d329fc880e4]
 
 - Shown as dashed green lines on the Classification of Roads Plans
 
@@ -78,7 +78,7 @@ Articles 13, 14 and 18
   | West Camel | Downhead Junction Link between points Z and Y on sheet 2 of the Classification of Roads Plans, comprising of 305 metres. |
   | West Camel | Steart Hill Roundabout on sheet 2 of the Classification of Roads Plans, circulatory carriageway length comprising of 88 metres. |
 
-### PART 5 — UNCLASSIFIED ROADS[^key-db5a66598ca92e832ef40c1bf1560397]
+### PART 5 — UNCLASSIFIED ROADS[^c-db5a66598ca92e832ef40c1bf1560397]
 
 - Shown as dashed orange lines on the Classification of Roads Plans
 
@@ -102,7 +102,7 @@ Articles 13, 14 and 18
   | Sparkford | Ridge Copse Link between points AN and AO on sheet 4 of the Classification of Roads Plans, comprising 87 metres. |
   | Queen Camel | Traits Lane Turning Head between points DN and EF on sheet 3 of the Classification of Roads Plans, comprising 39 metres. |
 
-### PART 6 — SPEED LIMITS[^key-0b9197dfe2cdf825a2839c41d6612d9d]
+### PART 6 — SPEED LIMITS[^c-0b9197dfe2cdf825a2839c41d6612d9d]
 
 | *(1)* *Area* | *(2)* *Road name, number and length* | *(3)* *Speed limit* |
 | --- | --- | --- |
@@ -144,7 +144,7 @@ Articles 13, 14 and 18
 | Sparkford | Hazlegrove Roundabout shown as a dashed purple line on sheet 4 of the Permanent Speed Limit Order Plans, circulatory carriageway length comprising 167 metres. | National Speed Limit |
 | Sparkford | Hazlegrove Junction Westbound off slip shown as a dashed purple line between points R and S on sheet 4 of the Permanent Speed Limit Order Plans, comprising 340 metres. | National Speed Limit |
 
-### PART 7 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^key-67cae383072ada9c83c73e56cc63f3a5]
+### PART 7 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^c-67cae383072ada9c83c73e56cc63f3a5]
 
 | *(1)* *Area* | *(2)* *Road name, number and length* | *(3)* *Measures* |
 | --- | --- | --- |
@@ -161,7 +161,7 @@ Articles 13, 14 and 18
 | Sparkford | Hazlegrove Junction Westbound On Slip shown as a dashed green line between points P and Q on sheet 4 of the Traffic Regulation Measures Plans, comprising of 313 metres. | Clearway (to include verges, hard shoulders and hard strips) |
 | Sparkford | Hazlegrove Junction Westbound Off Slip shown as a dashed green line between points R and S on sheet 4 of the Traffic Regulation Measures Plans, comprising of 340 metres. | Clearway (to include verges, hard shoulders and hard strips) |
 
-### PART 8 — TRAFFIC REGULATION MEASURES (WEIGHT RESTRICTIONS)[^key-1588397ab4c1395ba3866867b4e0bc3e]
+### PART 8 — TRAFFIC REGULATION MEASURES (WEIGHT RESTRICTIONS)[^c-1588397ab4c1395ba3866867b4e0bc3e]
 
 | *(1)* *Area* | *(2)* *Road name, number and length* | *(3)* *Measures* |
 | --- | --- | --- |
@@ -169,14 +169,14 @@ Articles 13, 14 and 18
 | West Camel | Former A303 (West of Howell Hill) shown as a dashed purple line between points AQ and AF on sheet 2 of the Traffic Regulation Measures Plans, comprising 120 metres. | 7.5 tonne weight restriction (except for loading and exempt vehicles) |
 | West Camel | Howell Hill Link (East) shown as a dashed purple line between points AF and AG on sheets 2 and 3 of the Traffic Regulation Measures Plans, comprising 376 metres. | 7.5 tonne weight restriction (except for loading and exempt vehicles) |
 
-### PART 9 — TRAFFIC REGULATION MEASURES (WAITING RESTRICTIONS)[^key-dca41668ecbd8c6fdd431fcdf57e0ffa]
+### PART 9 — TRAFFIC REGULATION MEASURES (WAITING RESTRICTIONS)[^c-dca41668ecbd8c6fdd431fcdf57e0ffa]
 
 | *(1)* *Area* | *(2)* *Road name, number and length* | *(3)* *Measures* |
 | --- | --- | --- |
 | West Camel | A303 eastbound, located at 1,210 metres in eastern direction from Higher Farm Lane Overbridge, layby shown coloured light blue on sheet 1 of the Traffic Regulation Measures Plans. | Waiting restricted to two hours |
 | West Camel, | A303 westbound, located at 3,477 metres in eastern direction from Higher Farm Lane Overbridge, layby shown coloured light blue on sheet 3 of the Traffic Regulation Measures Plans. | Waiting restricted to two hours |
 
-### PART 10 — REVOCATIONS AND VARIATIONS OF ORDERS[^key-1d0953bfe7b67de2f05dc243fda34075]
+### PART 10 — REVOCATIONS AND VARIATIONS OF ORDERS[^c-1d0953bfe7b67de2f05dc243fda34075]
 
 | *(1)* *Area* | *(2)* *Road name, number* | *(3)* *Title of Order* | *(4)* *Revocations or variations* |
 | --- | --- | --- | --- |
@@ -187,7 +187,7 @@ Articles 13, 14 and 18
 | Yeovilton<br>West Camel<br>Queen Camel<br>Sparkford | A303 | Sparkford to Ilchester improvement and slip roads Side Roads Order 1996 | To be revoked in so far as it is in force and within the Order limits. |
 | West Camel | Howell Hill | The County Council of Somerset (Bridgehampton and West Camel) (Weight Restriction) Order 2007 | To be revoked from the junction of Howell Hill and the existing A303 at Canegore Corner and point AG shown on Sheet 3 of the Traffic Regulatory Measures Plans |
 
-### PART 11 — PUBLIC RIGHTS OF WAY[^key-fc594bc23d9a5807bb4c126976d7d8dd]
+### PART 11 — PUBLIC RIGHTS OF WAY[^c-fc594bc23d9a5807bb4c126976d7d8dd]
 
 | *(1)* *Area* | *(2)* *Length of Footpath/Cycle track/Bridleway//Footway in verge* |
 | --- | --- |
@@ -221,7 +221,7 @@ Articles 13, 14 and 18
 
 ### PART 12 — NOTIFICATION OF DATES TO BE DETERMINED
 
-**26.**[^key-30e6b6d18a55c5909852e5dd2c68ae83] (1) Where in accordance with article 14 (classification of roads, etc.) any classification, speed limit, traffic regulation measure, restriction, revocation or variation or part thereof is to take effect from a day to be determined, the undertaker must notify the date for each classification, speed limit, traffic regulation measure, restriction, revocation or variation or part thereof as follows—
+**26.**[^c-30e6b6d18a55c5909852e5dd2c68ae83] (1) Where in accordance with article 14 (classification of roads, etc.) any classification, speed limit, traffic regulation measure, restriction, revocation or variation or part thereof is to take effect from a day to be determined, the undertaker must notify the date for each classification, speed limit, traffic regulation measure, restriction, revocation or variation or part thereof as follows—
 
 - (a) notice must be served no less than 14 days before the day to be determined;
 - (b) notice must be served on—
@@ -234,28 +234,28 @@ Articles 13, 14 and 18
 
 ## Annotations
 
-[^key-f9d51d60d84f20ef9c13e1509d704263]: Commencement: Sch. 3 Pt. 1 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-f9d51d60d84f20ef9c13e1509d704263]: Commencement: Sch. 3 Pt. 1 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-5d793e59107a9f7274e21c5d53bbeecd]: Commencement: Sch. 3 Pt. 2A in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-5d793e59107a9f7274e21c5d53bbeecd]: Commencement: Sch. 3 Pt. 2A in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-e47cc2dbf9f51da7ce6352645fbb9531]: Commencement: Sch. 3 Pt. 2B in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-e47cc2dbf9f51da7ce6352645fbb9531]: Commencement: Sch. 3 Pt. 2B in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-8999359ea07631980c5c28c2a7e5b5eb]: Commencement: Sch. 3 Pt. 3 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-8999359ea07631980c5c28c2a7e5b5eb]: Commencement: Sch. 3 Pt. 3 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-8c0c9b0341f08aa404041d329fc880e4]: Commencement: Sch. 3 Pt. 4 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-8c0c9b0341f08aa404041d329fc880e4]: Commencement: Sch. 3 Pt. 4 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-db5a66598ca92e832ef40c1bf1560397]: Commencement: Sch. 3 Pt. 5 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-db5a66598ca92e832ef40c1bf1560397]: Commencement: Sch. 3 Pt. 5 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-0b9197dfe2cdf825a2839c41d6612d9d]: Commencement: Sch. 3 Pt. 6 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-0b9197dfe2cdf825a2839c41d6612d9d]: Commencement: Sch. 3 Pt. 6 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-67cae383072ada9c83c73e56cc63f3a5]: Commencement: Sch. 3 Pt. 7 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-67cae383072ada9c83c73e56cc63f3a5]: Commencement: Sch. 3 Pt. 7 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-1588397ab4c1395ba3866867b4e0bc3e]: Commencement: Sch. 3 Pt. 8 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-1588397ab4c1395ba3866867b4e0bc3e]: Commencement: Sch. 3 Pt. 8 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-dca41668ecbd8c6fdd431fcdf57e0ffa]: Commencement: Sch. 3 Pt. 9 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-dca41668ecbd8c6fdd431fcdf57e0ffa]: Commencement: Sch. 3 Pt. 9 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-1d0953bfe7b67de2f05dc243fda34075]: Commencement: Sch. 3 Pt. 10 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-1d0953bfe7b67de2f05dc243fda34075]: Commencement: Sch. 3 Pt. 10 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-fc594bc23d9a5807bb4c126976d7d8dd]: Commencement: Sch. 3 Pt. 11 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-fc594bc23d9a5807bb4c126976d7d8dd]: Commencement: Sch. 3 Pt. 11 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
-[^key-30e6b6d18a55c5909852e5dd2c68ae83]: Commencement: Sch. 3 para. 26 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-30e6b6d18a55c5909852e5dd2c68ae83]: Commencement: Sch. 3 para. 26 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)

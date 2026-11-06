@@ -44,7 +44,7 @@ summary: ''
 - (b) if no such period is specified but a test of competence is so specified, when the osteopath concerned passes the test; or
 - (c) if both a period and a test are so specified, when the period ends or when the osteopath concerned passes the test, whichever is the later to occur.
 
-(6) At any time while a conditions of practice order is in force under this section or by virtue of a decision of a court on an appeal under section 31[^key-7086a8c6887a138005ae64061eebf014] , the Committee may (whether or not of its own motion)—
+(6) At any time while a conditions of practice order is in force under this section or by virtue of a decision of a court on an appeal under section 31[^c-7086a8c6887a138005ae64061eebf014] , the Committee may (whether or not of its own motion)—
 
 - (a) extend, or further extend, the period for which the order has effect;
 - (b) revoke or vary any of the conditions;
@@ -57,7 +57,7 @@ summary: ''
 - (a) the period specified in the conditions of practice order was the extended or reduced period; and
 - (b) the test of competence was specified in that order.
 
-(8) At any time while a suspension order is in force with respect to an osteopath under this section or by virtue of a decision of a court on an appeal under section 31[^key-059699dd90458a4c6f7f813b4a2fcaa2] , the Committee may (whether or not of its own motion)—
+(8) At any time while a suspension order is in force with respect to an osteopath under this section or by virtue of a decision of a court on an appeal under section 31[^c-059699dd90458a4c6f7f813b4a2fcaa2] , the Committee may (whether or not of its own motion)—
 
 - (a) extend, or further extend, the period of suspension; and
 - (b) make a conditions of practice order with which the osteopath must comply if he resumes the practice of osteopathy after the end of his period of suspension.
@@ -86,6 +86,6 @@ summary: ''
 
 [^c10494941]: Textual amendment: Words in s. 22(5)(a) repealed (5.7.1994) by [1994 c. 17](https://www.legislation.gov.uk/ukpga/1994/17), [s. 42](https://www.legislation.gov.uk/ukpga/1994/17/section/42), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/ukpga/1994/17/schedule/2/paragraph/5/2)
 
-[^key-7086a8c6887a138005ae64061eebf014]: Textual amendment: Words in s. 22(6) substituted (1.4.2003) by [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [ss. 33(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/33/3), [42(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/42/3); [S.I. 2003/833](https://www.legislation.gov.uk/uksi/2003/833), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/833/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/833/article/4))
+[^c-7086a8c6887a138005ae64061eebf014]: Textual amendment: Words in s. 22(6) substituted (1.4.2003) by [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [ss. 33(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/33/3), [42(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/42/3); [S.I. 2003/833](https://www.legislation.gov.uk/uksi/2003/833), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/833/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/833/article/4))
 
-[^key-059699dd90458a4c6f7f813b4a2fcaa2]: Textual amendment: Words in s. 22(8) substituted (1.4.2003) by [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [ss. 33(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/33/3), [42(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/42/3); [S.I. 2003/833](https://www.legislation.gov.uk/uksi/2003/833), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/833/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/833/article/4))
+[^c-059699dd90458a4c6f7f813b4a2fcaa2]: Textual amendment: Words in s. 22(8) substituted (1.4.2003) by [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [ss. 33(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/33/3), [42(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/42/3); [S.I. 2003/833](https://www.legislation.gov.uk/uksi/2003/833), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/833/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/833/article/4))

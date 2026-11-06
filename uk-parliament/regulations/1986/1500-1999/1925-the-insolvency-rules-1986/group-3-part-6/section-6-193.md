@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.193. Review of order[^key-01824d7835facaf5df231146ee1a443a]
+## 6.193. Review of order[^c-01824d7835facaf5df231146ee1a443a]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ If such a report is filed, a copy of it shall be sent by the trustee to the bank
 
 ## Annotations
 
-[^key-01824d7835facaf5df231146ee1a443a]: Commencement: [Rule 6.193](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.193) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-01824d7835facaf5df231146ee1a443a]: Commencement: [Rule 6.193](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.193) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00191]: Marginal citation: \[FORM 6.66\]

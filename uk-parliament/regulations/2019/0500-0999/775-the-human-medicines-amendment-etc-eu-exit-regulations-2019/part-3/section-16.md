@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Insertion of new regulation 18A (approved country for import)[^key-c1b0379e5560d97b128d237e4b1e1c5e]
+## 16. Insertion of new regulation 18A (approved country for import)[^c-c1b0379e5560d97b128d237e4b1e1c5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ After regulation 18, insert—
 
 ## Annotations
 
-[^key-c1b0379e5560d97b128d237e4b1e1c5e]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c1b0379e5560d97b128d237e4b1e1c5e]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

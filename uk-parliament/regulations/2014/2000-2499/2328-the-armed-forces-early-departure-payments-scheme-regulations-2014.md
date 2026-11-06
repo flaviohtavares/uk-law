@@ -52,13 +52,13 @@ In accordance with section 3(5) of that Act, these Regulations are made with the
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-e01910f3d94e2d7d950a9af825bdf85c]
+### 1. Citation and commencement[^c-e01910f3d94e2d7d950a9af825bdf85c]
 
 (1) These Regulations may be cited as the Armed Forces Early Departure Payments Scheme Regulations 2014.
 
 (2) These Regulations come into force on 1st April 2015.
 
-### 2. Establishment of the Armed Forces Early Departure Payments Scheme[^key-1b0a9cd1a9f11b3fd0bfcfc26b30d5a3]
+### 2. Establishment of the Armed Forces Early Departure Payments Scheme[^c-1b0a9cd1a9f11b3fd0bfcfc26b30d5a3]
 
 These Regulations establish a scheme that provides for—
 
@@ -67,18 +67,18 @@ These Regulations establish a scheme that provides for—
   - (i) meets certain conditions as to length of service as a member of the regular forces (see regulations 16 to 18); or
   - (ii) is unfit for service as a member of the armed forces (see regulations 19 to 22).
 
-### 3. Governance[^key-54a49be5b5d27a4a08b68d150bb92e64]
+### 3. Governance[^c-54a49be5b5d27a4a08b68d150bb92e64]
 
 The provisions of regulations 4 (scheme manager) to 8 (conflict of interest: pension board) of the AFPS 14 regulations are to apply to this scheme and reference in those regulations to “these Regulations” and “this scheme” are to be construed accordingly.
 
-### 4. General interpretation[^key-60ba2900bbde2314f0a001f32de8751c]
+### 4. General interpretation[^c-60ba2900bbde2314f0a001f32de8751c]
 
 In these Regulations—
 
 - “the Act” means the Public Service Pensions Act 2013;
 - “active member” has the meaning given in section 124(1) of the Pensions Act 1995;
 - “AFPS 14” means the Armed Forces Pension Scheme established under regulation 2 of the Armed Forces Pension Regulations 2014;
-- “[^key-2ea85a5d09c655b48b2cb94cfe67e384]AFPS 14 regulations” means the Armed Forces Pension Regulations 2014;
+- “[^c-2ea85a5d09c655b48b2cb94cfe67e384]AFPS 14 regulations” means the Armed Forces Pension Regulations 2014;
 - “AFPS 05” means the Armed Forces Pension Scheme 2005 established by regulation 2 of the Armed Forces Pension Scheme Order 2005;
 - “AFPS 75” means the Armed Forces Pension Scheme 1975 set out in—
   - (a) Orders in Council made under section 3 of the Naval and Marine Pay and Pensions Act 1865[^f00002];
@@ -86,9 +86,9 @@ In these Regulations—
   - (c) Orders and regulations made under section 2 of the Air Force (Constitution) Act 1917[^f00003].
 - “connected scheme” is to be read in accordance with section 4(6) of the Act;
 - “deferred pension age” has the meaning given in section 10(3) of the Act and refers to the membership of the AFPS 14;
-- “[^key-a7563d9d5361373ddcf221ce166a22b4]EDP 2015” means the scheme established by the Armed Forces Early Departure Payments Scheme Regulations 2014;
+- “[^c-a7563d9d5361373ddcf221ce166a22b4]EDP 2015” means the scheme established by the Armed Forces Early Departure Payments Scheme Regulations 2014;
 - “final pensionable earnings” has the meaning given in regulation 5;
-- “flexible service” means one or both of the following types of service—[^key-3e5a39cf025463f4fe1b788b68216727]
+- “flexible service” means one or both of the following types of service—[^c-3e5a39cf025463f4fe1b788b68216727]
   - (a) part-time service;
   - (b) restricted separation service,
 
@@ -110,7 +110,7 @@ In these Regulations—
 - “scheme year” means a period of one year beginning with 1st April and ending with 31st March;
 - “service reduction percentage” has the meaning given in regulation 5A.
 
-### 5. Meaning of “final pensionable earnings”[^key-99dd0e21bfd980ebc9635438b3af85e9]
+### 5. Meaning of “final pensionable earnings”[^c-99dd0e21bfd980ebc9635438b3af85e9]
 
 (1) For the purposes of this scheme “final pensionable earnings”, in relation to any person, means the greatest amount that is the person’s total pensionable earnings for 365 consecutive days falling within the period of 3 years ending with the last day of the person’s service.
 
@@ -143,9 +143,9 @@ If the period of the final pensionable earnings includes the day 29th February t
 
 (7) If at any time during the period of 3 years mentioned in paragraph (1) the person is treated under regulation 24(meaning of “assumed pay”) of the AFPS 14 regulations as receiving assumed pay or would be if that person were a member of the AFPS 14 throughout that period for the purpose of this regulation, the person’s pensionable earnings for each day during that period when the person is so treated include the assumed pay for that day.
 
-(8)[^key-9b45bde63a262e61bdb90ce5ee6a0b61] Where a person served on flexible terms during any part of the period of 3 years mentioned in paragraph (1), the person’s final pensionable earnings are calculated as though the person had not served on flexible terms for that period.
+(8)[^c-9b45bde63a262e61bdb90ce5ee6a0b61] Where a person served on flexible terms during any part of the period of 3 years mentioned in paragraph (1), the person’s final pensionable earnings are calculated as though the person had not served on flexible terms for that period.
 
-### 5A. Meaning of “service reduction percentage”[^key-0a9ddde279f0b4f070468a34c8da63bb]
+### 5A. Meaning of “service reduction percentage”[^c-0a9ddde279f0b4f070468a34c8da63bb]
 
 (1) In this scheme, the “service reduction percentage” in respect of a period of flexible service is given by the formula, expressed as a percentage—
 
@@ -158,7 +158,7 @@ Where—
 
 (2) For the purposes of the Scheme, a period of flexible service ends and another begins when any change in the service reduction percentage occurs.
 
-### 6. Earnings adjustments in determining final pensionable earnings[^key-379503c86b4c305fe9884a7df7980f6d]
+### 6. Earnings adjustments in determining final pensionable earnings[^c-379503c86b4c305fe9884a7df7980f6d]
 
 (1) For the purposes of determining a person’s final pensionable earnings under regulation 5 (meaning of “final pensionable earnings”) the amount of pensionable earnings, as determined in accordance with regulation 5, for that part of the period of 365 days that falls 365 days or more before the last day of service, is adjusted for earnings, in accordance with paragraph (3).
 
@@ -169,7 +169,7 @@ Where—
 - (a) was eligible to be so increased; and
 - (b) had come into payment on the day following the last day of that period.
 
-### 7. Meaning of “qualifying service”[^key-11812387e4eda2b8fd097a63ebc3aa0a]
+### 7. Meaning of “qualifying service”[^c-11812387e4eda2b8fd097a63ebc3aa0a]
 
 (1) For the purposes of this scheme “qualifying service” means the number of calendar days from the first day of paid service to the last day of paid service, but excluding the following periods—
 
@@ -184,7 +184,7 @@ Where—
 
 ## PART 2 — Early departure payments
 
-### 8. Eligibility for early departure payments[^key-5ff5a9155c5ba28cf39fdfb0921cefc1]
+### 8. Eligibility for early departure payments[^c-5ff5a9155c5ba28cf39fdfb0921cefc1]
 
 (1) A person is eligible for payments under regulation 9 (entitlement to early departure payments) if the person meets conditions A to E.
 
@@ -197,18 +197,18 @@ Where—
 (5) Condition D is that the person is not entitled to the immediate payment of a pension under—
 
 - (a) regulation 51 (entitlement to ill-health pension: active members with permanent serious ill-health) of the AFPS 14 regulations, or
-- (b) regulation 52 (entitlement to ill-health pension: active members with significant impairment of capacity for gainful employment) of the AFPS 14 regulations[^key-dcecf33a29ced34653feac23aa048ec8].
+- (b) regulation 52 (entitlement to ill-health pension: active members with significant impairment of capacity for gainful employment) of the AFPS 14 regulations[^c-dcecf33a29ced34653feac23aa048ec8].
 
 (6) Condition E is that the person is not entitled to a payment under regulation 19 (lump sum awards: incapacity for armed forces service) which the scheme administrator determines should be paid instead of a payment under regulation 9 (entitlement to early departure payments).
 
 (7) In paragraph (2) “excluded person” means—
 
 - (a) any person, the terms of whose service excludes that person from eligibility for payments under regulation 9, unless the Secretary of State has agreed to treat that person as if their terms of service do not exclude them; and
-- (b)[^key-81093f80be48b0c746f2f33b2564c2ef] person who—
+- (b)[^c-81093f80be48b0c746f2f33b2564c2ef] person who—
   - (i) is not an active member of AFPS 14, or
   - (ii) is not eligible to be a member of AFPS 14.
 
-### 9. Entitlement to early departure payments[^key-006047763b1d01d26aea14596b8a37d3]
+### 9. Entitlement to early departure payments[^c-006047763b1d01d26aea14596b8a37d3]
 
 (1) A person who is eligible to become entitled to payments under this regulation in accordance with regulation 8 (eligibility for early departure payments) becomes so entitled from the time that the person ceases to be in service as a member of the regular forces.
 
@@ -221,9 +221,9 @@ Where—
 
 (4) The periodical payments are to be made at monthly intervals in arrears.
 
-(5)[^key-e91376f3888948e7fd0b17fff2c230f7] If, on a review under regulation 58 (member’s request for review of ill-health awards) of the AFPS 14 regulations, a person entitled to payments under this regulation becomes entitled to a pension under regulation 52 (entitlement to ill-health pension: active member with significant impairment of capacity for gainful employment) of the AFPS 14 regulations, then that person ceases to have any entitlement under this regulation from the date the pension under regulation 52 becomes payable.
+(5)[^c-e91376f3888948e7fd0b17fff2c230f7] If, on a review under regulation 58 (member’s request for review of ill-health awards) of the AFPS 14 regulations, a person entitled to payments under this regulation becomes entitled to a pension under regulation 52 (entitlement to ill-health pension: active member with significant impairment of capacity for gainful employment) of the AFPS 14 regulations, then that person ceases to have any entitlement under this regulation from the date the pension under regulation 52 becomes payable.
 
-### 10. Amount of early departure payments[^key-6d8ace1e1778c3978f7ec01a7a6459af]
+### 10. Amount of early departure payments[^c-6d8ace1e1778c3978f7ec01a7a6459af]
 
 (1) The annual amount of the periodical payments payable to an eligible person is the sum of—
 
@@ -240,7 +240,7 @@ Where—
 
 (6) In the case of a person who has not been a member of the AFPS 14 for the whole of their period of qualifying service, the amount of the periodical payments or lump sum to which the person would have been entitled had the person been such a member for that period, is to be such amount as the scheme manager considers appropriate after consultation with the scheme actuary.
 
-### 11. Option to convert the entire lump sum payment into additional monthly payments[^key-03ac2762ed231723f1c2c7d9dd47fc09]
+### 11. Option to convert the entire lump sum payment into additional monthly payments[^c-03ac2762ed231723f1c2c7d9dd47fc09]
 
 (1) A person may opt to exchange the whole of the lump sum to which the person would be entitled under regulation 10 (amount of early departure payments) for an increase in the amount of periodical payments payable to the person.
 
@@ -252,13 +252,13 @@ Where—
 
 (5) For the purposes of this regulation, the option is treated as having been exercised on the date on which it is received by the scheme administrator.
 
-### 12. Increases for inflation[^key-bdaaf9999981864fa19bb1026c4ac81a]
+### 12. Increases for inflation[^c-bdaaf9999981864fa19bb1026c4ac81a]
 
 (1) When a person attains the age of 55, the amount of the person’s basic amount and additional service allowance payable under regulation 10 (amount of early departure payments) are to be adjusted for inflation in respect of each scheme year in accordance with paragraph (2).
 
 (2) The reference in paragraph (1) to adjusting for inflation the amount of the person’s basic amount and additional service allowance is to increasing it by the same amount as that by which an annual pension of an amount equal to the amount of the person’s basic amount and the additional service allowance would have been increased under the Pensions (Increase) Act 1971 if the pension was eligible to be so increased and had come into payment on the day that such basic amount and additional service allowance comes into payment.
 
-### 13. Effect of rejoining the regular forces[^key-cc3b51c40393f918b084ff9fa6a402b8]
+### 13. Effect of rejoining the regular forces[^c-cc3b51c40393f918b084ff9fa6a402b8]
 
 (1) This regulation applies where a person who is receiving payments under regulation 9 (entitlement to early departure payments) undertakes a period of new service.
 
@@ -288,13 +288,13 @@ Where—
 
 (9) Payments referred to in paragraph (8) are not to be recalculated in respect of their subsequent period of service and are to cease once the person is in receipt of a pension relating to that prior period of service under AFPS 14 or, if the person is not a member of the AFPS 14, has reached the deferred pension age for a member of that scheme.
 
-### 14. Effect of joining the reserve forces[^key-c13137d5e24f66c033793645d8a3fe18]
+### 14. Effect of joining the reserve forces[^c-c13137d5e24f66c033793645d8a3fe18]
 
 (1) Where a person in receipt of payments under regulation 9 (entitlement to early departure payments) enters service with the reserve forces, that person is to retain the payments they receive under regulation 9.
 
 (2) Payments referred to in paragraph (1) are not to be recalculated at the point of cessation of the person’s service in the reserve forces and will cease once the person is in receipt of a pension under the AFPS 14 or, if the person is not a member of the AFPS 14, has reached the deferred pension age for a member of that scheme.
 
-### 15. Effect of emergencies[^key-9ba227d46294a7c4cba31099baf365f4]
+### 15. Effect of emergencies[^c-9ba227d46294a7c4cba31099baf365f4]
 
 (1) This regulation applies where a person who would be entitled to payment under regulation 9 (entitlement to early departure payments), if that person had ceased to be in service on the relevant date, does not cease to be in service on that date by reason only of—
 
@@ -311,15 +311,15 @@ Where—
 
 ## PART 3 — Resettlement grants
 
-### 16. Entitlement to a resettlement grant[^key-6ac40fcb1a997c445ec706651ab8b41c]
+### 16. Entitlement to a resettlement grant[^c-6ac40fcb1a997c445ec706651ab8b41c]
 
 (1) A person who ceases to be in service as a member of the regular forces is entitled to a lump sum payment (a resettlement grant) if the person—
 
 - (a) has at least 12 years’ qualifying service in the regular forces,
 - (b) is not entitled to payments under regulations 9 (entitlement to early departure payments), 19 (lump sum awards: incapacity for armed forces service) or the immediate payment of a pension under—
-  - (i) regulation 43 (retirement on or after normal pension age - active members) of the AFPS 14 regulations[^key-783c989896da569d7bd286b69e6ebf81], or
-  - (ii) regulation 51 (entitlement to ill-health pension: active members with permanent serious ill-health) of the AFPS 14 regulations[^key-70279ff335724bf946fc16ff26594a89], or
-  - (iii) regulation 52 (entitlement to ill-health pension: active members with significant impairment of capacity for gainful employment) of the AFPS 14 regulations[^key-b146e3d9b76a1bbf52e9e9cdf85f98c4], or
+  - (i) regulation 43 (retirement on or after normal pension age - active members) of the AFPS 14 regulations[^c-783c989896da569d7bd286b69e6ebf81], or
+  - (ii) regulation 51 (entitlement to ill-health pension: active members with permanent serious ill-health) of the AFPS 14 regulations[^c-70279ff335724bf946fc16ff26594a89], or
+  - (iii) regulation 52 (entitlement to ill-health pension: active members with significant impairment of capacity for gainful employment) of the AFPS 14 regulations[^c-b146e3d9b76a1bbf52e9e9cdf85f98c4], or
 - (c) either—
   - (i) has not previously received a payment under this regulation or the corresponding provisions, or
   - (ii) is not an active member of the AFPS 75 or the AFPS 05.
@@ -332,13 +332,13 @@ Where—
 - (d) regulation 3063 of the Queen’s Regulations for the Royal Air Force; and
 - (e) any earlier or later provisions corresponding to those mentioned in sub-paragraph (a), (b), (c) or (d).
 
-### 17. Amount of resettlement grant[^key-3fdc2c36d5d7527b7af804f5ca9d7945]
+### 17. Amount of resettlement grant[^c-3fdc2c36d5d7527b7af804f5ca9d7945]
 
 (1) The amount of the resettlement grant a person receives under regulation 16 (entitlement to a resettlement grant) is to be determined by the scheme manager and published.
 
 (2) The resettlement grant is payable before the expiry of the period of 3 months beginning with the day on which the person ceases to be a member of the regular forces.
 
-### 18. Effect of resettlement grant on rejoining the regular forces or joining the reserve forces[^key-d21a11ada7906f18cb2474def29a14f5]
+### 18. Effect of resettlement grant on rejoining the regular forces or joining the reserve forces[^c-d21a11ada7906f18cb2474def29a14f5]
 
 (1) This regulation applies where a person who is in receipt of a resettlement grant under regulation 16 (entitlement to a resettlement grant) rejoins the regular forces, joins the reserve forces or rejoins the reserve forces.
 
@@ -355,7 +355,7 @@ Where—
 
 ## PART 4 — Lump sums on incapacity
 
-### 19. Lump sum awards: incapacity for armed forces service[^key-ede8045b14293ac9c1c5254419c32686]
+### 19. Lump sum awards: incapacity for armed forces service[^c-ede8045b14293ac9c1c5254419c32686]
 
 (1) A person who ceases to be in service as a member of the armed forces is entitled to immediate payment of a lump sum if—
 
@@ -366,34 +366,34 @@ Where—
 - (e) the person is not entitled to payments under either—
   - (i) regulation 9 (entitlement to early departure payments), where the scheme manager determines that payment should be made instead of a payment under this regulation, or
   - (ii) the immediate payment of a pension under-
-    - (aa) regulation 43 (retirement on or after reaching normal pension age-active members) of the AFPS 14 regulations[^key-707bd2d933e4b517f9ee7e1055fb4504], or
-    - (bb) regulation 51 (entitlement to ill-health pension: active members with permanent serious ill-health) of the AFPS 14 regulations[^key-f7cf32c1a58cc6a85d68840a02875e40], or
-    - (cc) regulation 52 (entitlement to ill-health pension: active members with significant impairment of capacity for gainful employment) of the AFPS 14 regulations[^key-8f3b112df6c4a2825c6a5c77885cf3a6], or
-    - (dd) regulation 60 (option for members in serious ill-health to exchange whole pension for lump sum) of the AFPS 14 regulations[^key-98b25938920dc4dda6b835f2439fbb57].
+    - (aa) regulation 43 (retirement on or after reaching normal pension age-active members) of the AFPS 14 regulations[^c-707bd2d933e4b517f9ee7e1055fb4504], or
+    - (bb) regulation 51 (entitlement to ill-health pension: active members with permanent serious ill-health) of the AFPS 14 regulations[^c-f7cf32c1a58cc6a85d68840a02875e40], or
+    - (cc) regulation 52 (entitlement to ill-health pension: active members with significant impairment of capacity for gainful employment) of the AFPS 14 regulations[^c-8f3b112df6c4a2825c6a5c77885cf3a6], or
+    - (dd) regulation 60 (option for members in serious ill-health to exchange whole pension for lump sum) of the AFPS 14 regulations[^c-98b25938920dc4dda6b835f2439fbb57].
 
 (2) The following periods do not constitute qualifying service for the purposes of this regulation—
 
 - (a) any pensionable service in respect of which a person’s rights under the AFPS 14 are extinguished, or
 - (b) any pensionable service in a connected scheme in respect of which the person’s rights under that scheme are extinguished.
 
-### 20. Amount of lump sum on incapacity for armed forces service[^key-d9b44c0fb03c3adf253131052bfb999f]
+### 20. Amount of lump sum on incapacity for armed forces service[^c-d9b44c0fb03c3adf253131052bfb999f]
 
 (1) The amount of the lump sum a person receives under regulation 19 (lump sum awards: incapacity for armed forces service) is to be determined by multiplying one eighth of the person’s final pensionable earnings by their service expressed in years and fractions of a year except where—
 
 - (a) the amount calculated is less than one half of the person’s final pensionable earnings. In these circumstances the person is to receive an amount equivalent to half the person’s final pensionable earnings.
 - (b) the amount calculated is more than twice the person’s final pensionable earnings. In these circumstances the person is to receive an amount equivalent to twice the person’s final pensionable earnings.
 
-(1A)[^key-50f9bd1677f2028627ed9fd123b5f445] For members who have served on flexible terms, when calculating length of service for the purpose of paragraph (1), all years and parts of a year during any period of flexible service are reduced by the service reduction percentage applicable to that period of flexible service.
+(1A)[^c-50f9bd1677f2028627ed9fd123b5f445] For members who have served on flexible terms, when calculating length of service for the purpose of paragraph (1), all years and parts of a year during any period of flexible service are reduced by the service reduction percentage applicable to that period of flexible service.
 
 (2) The lump sum is payable before the expiry of the period of 3 months beginning with the day on which the person ceases to be a member of the armed forces.
 
-### 21. Effect of payment of an early departure payment, relating to previous service, on payment of lump sum on incapacity for armed forces service[^key-b668eb4d1d980d7e85c8d667faa176c1]
+### 21. Effect of payment of an early departure payment, relating to previous service, on payment of lump sum on incapacity for armed forces service[^c-b668eb4d1d980d7e85c8d667faa176c1]
 
 (1) Where a person is in receipt of payments under regulation 9 (entitlement to early departure payments) and subsequently becomes entitled to a payment under regulation 19 (lump sum awards: incapacity for armed forces service), that person will continue to receive payments under regulation 9 unless the scheme manager determines that the person should receive a payment under regulation 19 instead of payments under regulation 9.
 
 (2) If the scheme manager determines that the person is to receive a payment under regulation 19, payments under regulation 9 are to end from the date that the payment under regulation 19 is made.
 
-### 22. Effect of rejoining the armed forces having received a lump sum award for incapacity for armed forces service[^key-4353295a4e222c93bede02d871879294]
+### 22. Effect of rejoining the armed forces having received a lump sum award for incapacity for armed forces service[^c-4353295a4e222c93bede02d871879294]
 
 (1) Subject to paragraph (2), where a person is accepted for re-entry to the armed forces that person is to retain any previous lump sum paid under regulation 19 (lump sum awards: incapacity for armed forces service).
 
@@ -483,86 +483,86 @@ Regulation 22 sets out the effect of rejoining the armed forces having received 
 
 [^f00001]: Footnote: [2013 c. 25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-e01910f3d94e2d7d950a9af825bdf85c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-e01910f3d94e2d7d950a9af825bdf85c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-1b0a9cd1a9f11b3fd0bfcfc26b30d5a3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2328/regulation/2) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-1b0a9cd1a9f11b3fd0bfcfc26b30d5a3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2328/regulation/2) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-54a49be5b5d27a4a08b68d150bb92e64]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2328/regulation/3) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-54a49be5b5d27a4a08b68d150bb92e64]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/2328/regulation/3) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-60ba2900bbde2314f0a001f32de8751c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2328/regulation/4) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-60ba2900bbde2314f0a001f32de8751c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/2328/regulation/4) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-2ea85a5d09c655b48b2cb94cfe67e384]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/2328/regulation/4) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2015/466/regulation/20)
+[^c-2ea85a5d09c655b48b2cb94cfe67e384]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/2328/regulation/4) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2015/466/regulation/20)
 
 [^f00002]: Footnote: 28 and 29 Vict. c.73
 
 [^f00003]: Footnote: 7 and 8 Geo 5 c.51
 
-[^key-a7563d9d5361373ddcf221ce166a22b4]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/2328/regulation/2) inserted (1.4.2015) by virtue of [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2015/568/regulation/42)
+[^c-a7563d9d5361373ddcf221ce166a22b4]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/2328/regulation/2) inserted (1.4.2015) by virtue of [The Armed Forces (Transitional Provisions) Pensions Regulations 2015 (S.I. 2015/568)](https://www.legislation.gov.uk/uksi/2015/568), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2), [42](https://www.legislation.gov.uk/uksi/2015/568/regulation/42)
 
-[^key-3e5a39cf025463f4fe1b788b68216727]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/2328/regulation/4) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/6/2)
+[^c-3e5a39cf025463f4fe1b788b68216727]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2014/2328/regulation/4) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/6/2)
 
 [^f00004]: Footnote: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).
 
-[^key-99dd0e21bfd980ebc9635438b3af85e9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2328/regulation/5) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-99dd0e21bfd980ebc9635438b3af85e9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/2328/regulation/5) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-9b45bde63a262e61bdb90ce5ee6a0b61]: Textual amendment: [Reg. 5(8)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/5/8) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/6/3)
+[^c-9b45bde63a262e61bdb90ce5ee6a0b61]: Textual amendment: [Reg. 5(8)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/5/8) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/3), [6(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/6/3)
 
-[^key-0a9ddde279f0b4f070468a34c8da63bb]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2014/2328/regulation/5A) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/6/4)
+[^c-0a9ddde279f0b4f070468a34c8da63bb]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2014/2328/regulation/5A) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/3), [6(4)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/6/4)
 
-[^key-379503c86b4c305fe9884a7df7980f6d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2328/regulation/6) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-379503c86b4c305fe9884a7df7980f6d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/2328/regulation/6) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-11812387e4eda2b8fd097a63ebc3aa0a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/2328/regulation/7) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-11812387e4eda2b8fd097a63ebc3aa0a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/2328/regulation/7) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-5ff5a9155c5ba28cf39fdfb0921cefc1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/2328/regulation/8) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-5ff5a9155c5ba28cf39fdfb0921cefc1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/2328/regulation/8) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-dcecf33a29ced34653feac23aa048ec8]: Textual amendment: Word in [reg. 8(5)(b)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/8/5/b) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2015/466/regulation/21/a)
+[^c-dcecf33a29ced34653feac23aa048ec8]: Textual amendment: Word in [reg. 8(5)(b)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/8/5/b) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2015/466/regulation/21/a)
 
-[^key-81093f80be48b0c746f2f33b2564c2ef]: Textual amendment: [Reg. 8(7)(b)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/8/7/b) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2015/466/regulation/21/b)
+[^c-81093f80be48b0c746f2f33b2564c2ef]: Textual amendment: [Reg. 8(7)(b)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/8/7/b) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2015/466/regulation/21/b)
 
-[^key-006047763b1d01d26aea14596b8a37d3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/2328/regulation/9) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-006047763b1d01d26aea14596b8a37d3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/2328/regulation/9) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-e91376f3888948e7fd0b17fff2c230f7]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/9/5) inserted (11.6.2026 with effect from 1.4.2015) by [The Armed Forces Pension (Amendment) Regulations 2026 (S.I. 2026/523)](https://www.legislation.gov.uk/uksi/2026/523), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/523/regulation/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2026/523/regulation/5/2), [6](https://www.legislation.gov.uk/uksi/2026/523/regulation/6)
+[^c-e91376f3888948e7fd0b17fff2c230f7]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/9/5) inserted (11.6.2026 with effect from 1.4.2015) by [The Armed Forces Pension (Amendment) Regulations 2026 (S.I. 2026/523)](https://www.legislation.gov.uk/uksi/2026/523), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/523/regulation/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2026/523/regulation/5/2), [6](https://www.legislation.gov.uk/uksi/2026/523/regulation/6)
 
-[^key-6d8ace1e1778c3978f7ec01a7a6459af]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/2328/regulation/10) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-6d8ace1e1778c3978f7ec01a7a6459af]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/2328/regulation/10) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-03ac2762ed231723f1c2c7d9dd47fc09]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/2328/regulation/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-03ac2762ed231723f1c2c7d9dd47fc09]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/2328/regulation/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-bdaaf9999981864fa19bb1026c4ac81a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/2328/regulation/12) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-bdaaf9999981864fa19bb1026c4ac81a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/2328/regulation/12) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-cc3b51c40393f918b084ff9fa6a402b8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/2328/regulation/13) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-cc3b51c40393f918b084ff9fa6a402b8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2014/2328/regulation/13) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-c13137d5e24f66c033793645d8a3fe18]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/2328/regulation/14) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-c13137d5e24f66c033793645d8a3fe18]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/2328/regulation/14) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-9ba227d46294a7c4cba31099baf365f4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/2328/regulation/15) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-9ba227d46294a7c4cba31099baf365f4]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/2328/regulation/15) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-6ac40fcb1a997c445ec706651ab8b41c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/2328/regulation/16) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-6ac40fcb1a997c445ec706651ab8b41c]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2014/2328/regulation/16) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-783c989896da569d7bd286b69e6ebf81]: Textual amendment: Word in [reg. 16(1)(b)(i)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/16/1/b/i) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2015/466/regulation/22/a)
+[^c-783c989896da569d7bd286b69e6ebf81]: Textual amendment: Word in [reg. 16(1)(b)(i)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/16/1/b/i) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2015/466/regulation/22/a)
 
-[^key-70279ff335724bf946fc16ff26594a89]: Textual amendment: Word in [reg. 16(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/16/1/b/ii) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2015/466/regulation/22/b)
+[^c-70279ff335724bf946fc16ff26594a89]: Textual amendment: Word in [reg. 16(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/16/1/b/ii) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2015/466/regulation/22/b)
 
-[^key-b146e3d9b76a1bbf52e9e9cdf85f98c4]: Textual amendment: Word in [reg. 16(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/16/1/b/iii) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [22(c)](https://www.legislation.gov.uk/uksi/2015/466/regulation/22/c)
+[^c-b146e3d9b76a1bbf52e9e9cdf85f98c4]: Textual amendment: Word in [reg. 16(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/16/1/b/iii) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [22(c)](https://www.legislation.gov.uk/uksi/2015/466/regulation/22/c)
 
 [^f00005]: Footnote: [S.I. 2005/437](https://www.legislation.gov.uk/uksi/2005/437)
 
-[^key-3fdc2c36d5d7527b7af804f5ca9d7945]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/2328/regulation/17) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-3fdc2c36d5d7527b7af804f5ca9d7945]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2014/2328/regulation/17) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-d21a11ada7906f18cb2474def29a14f5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/2328/regulation/18) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-d21a11ada7906f18cb2474def29a14f5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/2328/regulation/18) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-ede8045b14293ac9c1c5254419c32686]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/2328/regulation/19) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-ede8045b14293ac9c1c5254419c32686]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/2328/regulation/19) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-707bd2d933e4b517f9ee7e1055fb4504]: Textual amendment: Word in reg. 19(1)(e)(ii)(aa) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2015/466/regulation/23/a)
+[^c-707bd2d933e4b517f9ee7e1055fb4504]: Textual amendment: Word in reg. 19(1)(e)(ii)(aa) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2015/466/regulation/23/a)
 
-[^key-f7cf32c1a58cc6a85d68840a02875e40]: Textual amendment: Word in reg. 19(1)(e)(ii)(bb) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2015/466/regulation/23/b)
+[^c-f7cf32c1a58cc6a85d68840a02875e40]: Textual amendment: Word in reg. 19(1)(e)(ii)(bb) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2015/466/regulation/23/b)
 
-[^key-8f3b112df6c4a2825c6a5c77885cf3a6]: Textual amendment: Word in reg. 19(1)(e)(ii)(cc) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [23(c)](https://www.legislation.gov.uk/uksi/2015/466/regulation/23/c)
+[^c-8f3b112df6c4a2825c6a5c77885cf3a6]: Textual amendment: Word in reg. 19(1)(e)(ii)(cc) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [23(c)](https://www.legislation.gov.uk/uksi/2015/466/regulation/23/c)
 
-[^key-98b25938920dc4dda6b835f2439fbb57]: Textual amendment: Word in reg. 19(1)(e)(ii)(dd) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [23(d)](https://www.legislation.gov.uk/uksi/2015/466/regulation/23/d)
+[^c-98b25938920dc4dda6b835f2439fbb57]: Textual amendment: Word in reg. 19(1)(e)(ii)(dd) inserted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [23(d)](https://www.legislation.gov.uk/uksi/2015/466/regulation/23/d)
 
-[^key-d9b44c0fb03c3adf253131052bfb999f]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/2328/regulation/20) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-d9b44c0fb03c3adf253131052bfb999f]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2014/2328/regulation/20) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-50f9bd1677f2028627ed9fd123b5f445]: Textual amendment: [Reg. 20(1A)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/20/1A) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/3), [6(5)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/6/5)
+[^c-50f9bd1677f2028627ed9fd123b5f445]: Textual amendment: [Reg. 20(1A)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/20/1A) inserted (1.4.2019) by [The Armed Forces Pension Schemes and Early Departure Payments Schemes (Amendments Relating to Flexible Working and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1111)](https://www.legislation.gov.uk/uksi/2018/1111), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/1/3), [6(5)](https://www.legislation.gov.uk/uksi/2018/1111/regulation/6/5)
 
-[^key-b668eb4d1d980d7e85c8d667faa176c1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2014/2328/regulation/21) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-b668eb4d1d980d7e85c8d667faa176c1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2014/2328/regulation/21) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
 
-[^key-4353295a4e222c93bede02d871879294]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/2328/regulation/22) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)
+[^c-4353295a4e222c93bede02d871879294]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2014/2328/regulation/22) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2328/regulation/1/2)

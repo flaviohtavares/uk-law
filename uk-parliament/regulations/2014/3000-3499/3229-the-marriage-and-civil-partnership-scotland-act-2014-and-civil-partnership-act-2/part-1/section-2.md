@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-d5247dfc2e72c5f89bf1044e90068ffa]
+## 2. Interpretation[^c-d5247dfc2e72c5f89bf1044e90068ffa]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ In this Order—
 
 ## Annotations
 
-[^key-d5247dfc2e72c5f89bf1044e90068ffa]: Commencement: Art. 2 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-d5247dfc2e72c5f89bf1044e90068ffa]: Commencement: Art. 2 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00003]: Footnote: [1977 c.15](https://www.legislation.gov.uk/ukpga/1977/15).
 

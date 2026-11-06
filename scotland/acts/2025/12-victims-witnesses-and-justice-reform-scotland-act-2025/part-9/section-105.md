@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Restrictions on evidence relating to sexual offences[^key-44efe7d1c7767666a878b66955fb60b9]
+## 105. Restrictions on evidence relating to sexual offences[^c-44efe7d1c7767666a878b66955fb60b9]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44efe7d1c7767666a878b66955fb60b9]: Commencement: S. 105 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-44efe7d1c7767666a878b66955fb60b9]: Commencement: S. 105 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

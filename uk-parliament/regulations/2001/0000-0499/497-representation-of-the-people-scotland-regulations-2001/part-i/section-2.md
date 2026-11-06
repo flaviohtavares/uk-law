@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Revocations[^key-d33e99cceebb574617fb5cb84f4340f6]
+## 2. Revocations[^c-d33e99cceebb574617fb5cb84f4340f6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The instruments listed in column 1 of Schedule 2 to these Regulations (which hav
 
 ## Annotations
 
-[^key-d33e99cceebb574617fb5cb84f4340f6]: Commencement: Reg. 2 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-d33e99cceebb574617fb5cb84f4340f6]: Commencement: Reg. 2 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)

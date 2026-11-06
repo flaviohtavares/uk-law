@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^key-c143a8af88a7bfcb0495cb2527bdf110]
+## SCHEDULE 6 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^c-c143a8af88a7bfcb0495cb2527bdf110]
 
 *Extent: E+W+S*
 
 Article 11
 
-Table 9[^key-69d60c0b8fed8ac389c1bd1b4ddb9cf8]
+Table 9[^c-69d60c0b8fed8ac389c1bd1b4ddb9cf8]
 
 <table>
 <tbody>
@@ -76,6 +76,6 @@ Table 9[^key-69d60c0b8fed8ac389c1bd1b4ddb9cf8]
 
 ## Annotations
 
-[^key-c143a8af88a7bfcb0495cb2527bdf110]: Commencement: Sch. 6 in force at 3.4.2019, see art. 1
+[^c-c143a8af88a7bfcb0495cb2527bdf110]: Commencement: Sch. 6 in force at 3.4.2019, see art. 1
 
-[^key-69d60c0b8fed8ac389c1bd1b4ddb9cf8]: Textual amendment: Sch. 6 Table 9 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [8](https://www.legislation.gov.uk/uksi/2020/413/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/413/schedule/5)
+[^c-69d60c0b8fed8ac389c1bd1b4ddb9cf8]: Textual amendment: Sch. 6 Table 9 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [8](https://www.legislation.gov.uk/uksi/2020/413/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2020/413/schedule/5)

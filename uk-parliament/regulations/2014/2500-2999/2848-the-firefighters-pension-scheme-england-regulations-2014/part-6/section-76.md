@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Meaning of “surviving partner”[^key-7dd446067f773009e10b16cdcb31e574]
+## 76. Meaning of “surviving partner”[^c-7dd446067f773009e10b16cdcb31e574]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dd446067f773009e10b16cdcb31e574]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2014/2848/regulation/76) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-7dd446067f773009e10b16cdcb31e574]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2014/2848/regulation/76) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

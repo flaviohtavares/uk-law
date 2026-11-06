@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.5. Application to vacate a guilty plea[^key-c028ecb4946513ad6f8246f3efdf97dc]
+## 25.5. Application to vacate a guilty plea[^c-c028ecb4946513ad6f8246f3efdf97dc]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c028ecb4946513ad6f8246f3efdf97dc]: Commencement: [Rule 25.5](https://www.legislation.gov.uk/uksi/2025/909/rule/25.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c028ecb4946513ad6f8246f3efdf97dc]: Commencement: [Rule 25.5](https://www.legislation.gov.uk/uksi/2025/909/rule/25.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

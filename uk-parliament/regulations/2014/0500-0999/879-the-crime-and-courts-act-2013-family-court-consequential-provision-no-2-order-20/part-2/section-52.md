@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**52.**[^key-14aec735e97c871731b44f51f485f42a] In section 5, omit subsection (2).
+**52.**[^c-14aec735e97c871731b44f51f485f42a] In section 5, omit subsection (2).
 
 ## Annotations
 
-[^key-14aec735e97c871731b44f51f485f42a]: Commencement: Art. 52 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-14aec735e97c871731b44f51f485f42a]: Commencement: Art. 52 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

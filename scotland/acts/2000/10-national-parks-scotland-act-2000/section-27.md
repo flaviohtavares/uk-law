@@ -26,11 +26,11 @@ summary: ''
 - (b) created or acquired by the authority in the exercise of its functions, or
 - (c) otherwise in its keeping.
 
-(2)[^key-842a3687701ae669d2523d7acaa8c4d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-842a3687701ae669d2523d7acaa8c4d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-842a3687701ae669d2523d7acaa8c4d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-842a3687701ae669d2523d7acaa8c4d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-842a3687701ae669d2523d7acaa8c4d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-842a3687701ae669d2523d7acaa8c4d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The authority—
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-842a3687701ae669d2523d7acaa8c4d6]: Textual amendment: [S. 27(2)-(4)](https://www.legislation.gov.uk/asp/2000/10/section/27/2) repealed (1.1.2013) by [Public Records (Scotland) Act 2011 (asp 12)](https://www.legislation.gov.uk/asp/2011/12), [ss. 14(d)](https://www.legislation.gov.uk/asp/2011/12/section/14/d), [16(1)](https://www.legislation.gov.uk/asp/2011/12/section/16/1); [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)
+[^c-842a3687701ae669d2523d7acaa8c4d6]: Textual amendment: [S. 27(2)-(4)](https://www.legislation.gov.uk/asp/2000/10/section/27/2) repealed (1.1.2013) by [Public Records (Scotland) Act 2011 (asp 12)](https://www.legislation.gov.uk/asp/2011/12), [ss. 14(d)](https://www.legislation.gov.uk/asp/2011/12/section/14/d), [16(1)](https://www.legislation.gov.uk/asp/2011/12/section/16/1); [S.S.I. 2012/247](https://www.legislation.gov.uk/ssi/2012/247), [art. 2](https://www.legislation.gov.uk/ssi/2012/247/article/2)

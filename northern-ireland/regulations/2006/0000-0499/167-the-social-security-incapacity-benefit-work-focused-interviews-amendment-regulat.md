@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-ae10a7c22f388530e78c7a6347ef4c0d]
+The Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-ae10a7c22f388530e78c7a6347ef4c0d]
 
 Made
 
@@ -41,40 +41,40 @@ Coming into operation
 
 24th April 2006
 
-[^key-ae10a7c22f388530e78c7a6347ef4c0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae10a7c22f388530e78c7a6347ef4c0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ae10a7c22f388530e78c7a6347ef4c0d]
+## 1. Citation and commencement[^c-ae10a7c22f388530e78c7a6347ef4c0d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Incapacity Benefit Work-focused Interviews) Regulations[^key-ae10a7c22f388530e78c7a6347ef4c0d]
+## 2. Amendment of the Social Security (Incapacity Benefit Work-focused Interviews) Regulations[^c-ae10a7c22f388530e78c7a6347ef4c0d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ae10a7c22f388530e78c7a6347ef4c0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae10a7c22f388530e78c7a6347ef4c0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-ae10a7c22f388530e78c7a6347ef4c0d]
+## SCHEDULE[^c-ae10a7c22f388530e78c7a6347ef4c0d]
 
 Regulation 2(3)
 
-> **SCHEDULE — Postcode Districts[^key-ae10a7c22f388530e78c7a6347ef4c0d]**
+> **SCHEDULE — Postcode Districts[^c-ae10a7c22f388530e78c7a6347ef4c0d]**
 >
 > Regulation 1(2)
 >
-> **PART I[^key-ae10a7c22f388530e78c7a6347ef4c0d]**
+> **PART I[^c-ae10a7c22f388530e78c7a6347ef4c0d]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART II[^key-ae10a7c22f388530e78c7a6347ef4c0d]**
+> **PART II[^c-ae10a7c22f388530e78c7a6347ef4c0d]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ae10a7c22f388530e78c7a6347ef4c0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ae10a7c22f388530e78c7a6347ef4c0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ae10a7c22f388530e78c7a6347ef4c0d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/167) revoked (15.12.2008) by [The Social Security (Incapacity Benefit Work-focused Interviews) Regulations (Northern Ireland) 2008 (S.R. 2008/465)](https://www.legislation.gov.uk/nisr/2008/465), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1), [Sch. reg. 11](https://www.legislation.gov.uk/nisr/2008/465/schedule/regulation/11)
+[^c-ae10a7c22f388530e78c7a6347ef4c0d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/167) revoked (15.12.2008) by [The Social Security (Incapacity Benefit Work-focused Interviews) Regulations (Northern Ireland) 2008 (S.R. 2008/465)](https://www.legislation.gov.uk/nisr/2008/465), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/465/regulation/1/1), [Sch. reg. 11](https://www.legislation.gov.uk/nisr/2008/465/schedule/regulation/11)

@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Pollution Prevention and Control (Designation of Landfill Directive) (Scotland) Order 2003 (revoked)[^key-3b51171f8ee49953944bdde08ab461b6]
+The Pollution Prevention and Control (Designation of Landfill Directive) (Scotland) Order 2003 (revoked)[^c-3b51171f8ee49953944bdde08ab461b6]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into force
 
 1st April 2003
 
-[^key-3b51171f8ee49953944bdde08ab461b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b51171f8ee49953944bdde08ab461b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-3b51171f8ee49953944bdde08ab461b6]
+## 1. Citation, commencement and extent[^c-3b51171f8ee49953944bdde08ab461b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation[^key-3b51171f8ee49953944bdde08ab461b6]
+## 2. Designation[^c-3b51171f8ee49953944bdde08ab461b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3b51171f8ee49953944bdde08ab461b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b51171f8ee49953944bdde08ab461b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3b51171f8ee49953944bdde08ab461b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3b51171f8ee49953944bdde08ab461b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3b51171f8ee49953944bdde08ab461b6]: Textual amendment: Order revoked (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [reg. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2019/436/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b51171f8ee49953944bdde08ab461b6]: Textual amendment: Order revoked (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [reg. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2019/436/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

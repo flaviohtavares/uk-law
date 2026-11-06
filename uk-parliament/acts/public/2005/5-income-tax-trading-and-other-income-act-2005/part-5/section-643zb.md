@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 643ZB. Protected foreign-source income and transitional trust income not to be taxed elsewhere in Chapter[^key-cf583be31abaaf652fcc1b964ea593d7]
+## 643ZB. Protected foreign-source income and transitional trust income not to be taxed elsewhere in Chapter[^c-cf583be31abaaf652fcc1b964ea593d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf583be31abaaf652fcc1b964ea593d7]: Textual amendment: [Ss. 643ZA](https://www.legislation.gov.uk/ukpga/2005/5/section/643ZA), [643ZB](https://www.legislation.gov.uk/ukpga/2005/5/section/643ZB) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 12](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/12), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-cf583be31abaaf652fcc1b964ea593d7]: Textual amendment: [Ss. 643ZA](https://www.legislation.gov.uk/ukpga/2005/5/section/643ZA), [643ZB](https://www.legislation.gov.uk/ukpga/2005/5/section/643ZB) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 12](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/12), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)

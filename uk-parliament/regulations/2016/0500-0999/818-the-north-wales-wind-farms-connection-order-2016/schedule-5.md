@@ -22,7 +22,7 @@ summary: ''
 
 Article 11
 
-### PART 1 — THOSE PARTS OF ACCESSES TO BE MAINTAINED AT THE EXPENSE OF THE UNDERTAKER[^key-4d4f0670c6af8780cd5fa60fe51019a9]
+### PART 1 — THOSE PARTS OF ACCESSES TO BE MAINTAINED AT THE EXPENSE OF THE UNDERTAKER[^c-4d4f0670c6af8780cd5fa60fe51019a9]
 
 Table 4
 
@@ -75,7 +75,7 @@ Table 4
 | Denbighshire | Groesffordd Marli to Cefn Meiriadog Road | The extension of the existing northern access comprising part of numbered works 2A and shown on the access and rights of way plans (sheet 13) hatched green between points CR and CS. |
 | Denbighshire | Groesffordd Marli to Glascoed Road | The extension of the existing access comprising part of numbered works 2A and shown on the access and rights of way plans (sheet 13) hatched green between points CT1 and CT2. |
 
-### PART 2 — THOSE WORKS TO RESTORE TEMPORARY ACCESSES WHICH WILL BE MAINTAINED AT THE PUBLIC EXPENSE[^key-7a0cd8e161236a8ea00d6f9a9d8c8888]
+### PART 2 — THOSE WORKS TO RESTORE TEMPORARY ACCESSES WHICH WILL BE MAINTAINED AT THE PUBLIC EXPENSE[^c-7a0cd8e161236a8ea00d6f9a9d8c8888]
 
 Table 5
 
@@ -124,7 +124,7 @@ Table 5
 | Denbighshire | Groesffordd Marli to Cefn Meiriadog Road | The restoration works restoring the northern access shown on the access and rights of way plans (sheet 13) hatched green between points CR and CS following the completion and installation of numbered work 1A. |
 | Denbighshire | Groesffordd Marli to Glascoed Road | The restoration works restoring the access shown on the access and rights of way plans (sheet 13) hatched green between points CT1 and CT2 following the completion and installation of numbered work 1A. |
 
-### PART 3 — THOSE WORKS TO RESTORE TEMPORARY ACCESSES WHICH WILL BE MAINTAINED BY THE STREET AUTHORITY[^key-ed3a3a9c26d158c9134a1aa1c68fe1df]
+### PART 3 — THOSE WORKS TO RESTORE TEMPORARY ACCESSES WHICH WILL BE MAINTAINED BY THE STREET AUTHORITY[^c-ed3a3a9c26d158c9134a1aa1c68fe1df]
 
 Table 6
 
@@ -176,7 +176,7 @@ Table 6
 | Denbighshire | Groesffordd Marli to Cefn Meiriadog Road | The restoration works restoring the northern access shown on the access and rights of way plans (sheet 13) hatched red between points CR and CS following the completion and installation of numbered work 1A. |
 | Denbighshire | Access track from Groesffordd Marli to Cefn Meiriadog Road | The restoration works restoring the access shown on the access and rights of way plans (sheet 13) hatched red between points CT1/CT2 to CU following the completion and installation of numbered work 1A. |
 
-### PART 4 — THOSE PARTS OF ACCESSES TO BE MAINTAINED BY THE STREET AUTHORITY[^key-035f451fd620f110835828ff4442e046]
+### PART 4 — THOSE PARTS OF ACCESSES TO BE MAINTAINED BY THE STREET AUTHORITY[^c-035f451fd620f110835828ff4442e046]
 
 Table 7
 
@@ -191,10 +191,10 @@ Table 7
 
 ## Annotations
 
-[^key-4d4f0670c6af8780cd5fa60fe51019a9]: Commencement: Sch. 5 Pt. 1 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-4d4f0670c6af8780cd5fa60fe51019a9]: Commencement: Sch. 5 Pt. 1 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-7a0cd8e161236a8ea00d6f9a9d8c8888]: Commencement: Sch. 5 Pt. 2 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-7a0cd8e161236a8ea00d6f9a9d8c8888]: Commencement: Sch. 5 Pt. 2 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-ed3a3a9c26d158c9134a1aa1c68fe1df]: Commencement: Sch. 5 Pt. 3 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-ed3a3a9c26d158c9134a1aa1c68fe1df]: Commencement: Sch. 5 Pt. 3 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-035f451fd620f110835828ff4442e046]: Commencement: Sch. 5 Pt. 4 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-035f451fd620f110835828ff4442e046]: Commencement: Sch. 5 Pt. 4 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)

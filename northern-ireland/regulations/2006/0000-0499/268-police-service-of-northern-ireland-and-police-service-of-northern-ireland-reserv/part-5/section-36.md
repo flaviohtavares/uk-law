@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Reduction of pension in case of default[^key-8f61f405fbec2d15566b942022969ea4]
+## 36. Reduction of pension in case of default[^c-8f61f405fbec2d15566b942022969ea4]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ Provided that—
 
 ## Annotations
 
-[^key-8f61f405fbec2d15566b942022969ea4]: Commencement: Reg. 36 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-8f61f405fbec2d15566b942022969ea4]: Commencement: Reg. 36 in operation at 25.7.2006 with effect in accordance with reg. 1

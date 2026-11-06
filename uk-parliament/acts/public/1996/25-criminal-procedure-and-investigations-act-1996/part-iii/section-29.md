@@ -66,11 +66,11 @@ and, in a case in which an order is made for a preparatory hearing under that se
 - (b) an offence under any of sections 15 to 18 of that Act (offences relating to terrorist property);
 - (c) an offence under section 38B of that Act (failure to disclose information about acts of terrorism);
 - (d) an offence under section 54 of that Act (weapons training);
-- (e) an offence under any of sections 56 to 59 of that Act (directing terrorism, possessing things and collecting information for the purposes of terrorism , eliciting information about armed forces etc, entering or remaining in a designated area[^key-bb92199fc530cf867ef6924fc8afdced] and inciting terrorism outside the United Kingdom);
+- (e) an offence under any of sections 56 to 59 of that Act (directing terrorism, possessing things and collecting information for the purposes of terrorism , eliciting information about armed forces etc, entering or remaining in a designated area[^c-bb92199fc530cf867ef6924fc8afdced] and inciting terrorism outside the United Kingdom);
 - (f) an offence in respect of which there is jurisdiction by virtue of section 62 of that Act (extra-territorial jurisdiction in respect of certain offences committed outside the United Kingdom for the purposes of terrorism etc.);
 - (g) an offence under Part 1 of the Terrorism Act 2006 (miscellaneous terrorist related offences);
 - (h) conspiring or attempting to commit a terrorism offence;
-- (i)[^key-26ea2881f29e32ea5a43cfa36d0b2548][^c19585321] incitement to commit a terrorism offence.
+- (i)[^c-26ea2881f29e32ea5a43cfa36d0b2548][^c19585321] incitement to commit a terrorism offence.
 
 (7) For the purposes of this section an offence carries a maximum of at least 10 years' imprisonment if—
 
@@ -107,8 +107,8 @@ and, in a case in which an order is made for a preparatory hearing under that se
 
 [^c18993861]: Textual amendment: S. 29(6)-(9) inserted (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 16(5)](https://www.legislation.gov.uk/ukpga/2006/11/section/16/5), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2](https://www.legislation.gov.uk/uksi/2006/1013/article/2)
 
-[^key-bb92199fc530cf867ef6924fc8afdced]: Textual amendment: Words in s. 29(6)(e) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/34)
+[^c-bb92199fc530cf867ef6924fc8afdced]: Textual amendment: Words in s. 29(6)(e) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/34)
 
-[^key-26ea2881f29e32ea5a43cfa36d0b2548]: Modification: S. 29(6)(i) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 29](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/29) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-26ea2881f29e32ea5a43cfa36d0b2548]: Modification: S. 29(6)(i) modified (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 6 para. 29](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/29) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
 [^c19585321]: Modification: S. 29(6)(i) modified (prosp.) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 63(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/63/1), [Sch. 6 para. 29](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/29)

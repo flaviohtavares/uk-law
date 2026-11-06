@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196. Charging for commercial fishing licences[^c2008191][^key-7fed1af1c31527aaeebbc01403b1fbbd]
+## 196. Charging for commercial fishing licences[^c2008191][^c-7fed1af1c31527aaeebbc01403b1fbbd]
 
 *Extent: E+W*
 
-(1)[^key-ba6a809765e320d8f8cf6b5de4d43a57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ba6a809765e320d8f8cf6b5de4d43a57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 22 of that Act (interpretation) after subsection (3) insert—
 
@@ -30,6 +30,6 @@ summary: ''
 
 [^c2008191]: Commencement: S. 196 partly in force; s. 196 in force for specified purposes at Royal Assent see s. 324(1)(c)
 
-[^key-7fed1af1c31527aaeebbc01403b1fbbd]: Commencement: S. 196 in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)
+[^c-7fed1af1c31527aaeebbc01403b1fbbd]: Commencement: S. 196 in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/8)
 
-[^key-ba6a809765e320d8f8cf6b5de4d43a57]: Textual amendment: [S. 196(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/196/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 11(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/11/4) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-ba6a809765e320d8f8cf6b5de4d43a57]: Textual amendment: [S. 196(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/196/1) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 11(4)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/11/4) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

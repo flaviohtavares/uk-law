@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Extent[^key-93ef89e0e201cd3ae7e2d2a29289fd36]
+## 3. Extent[^c-93ef89e0e201cd3ae7e2d2a29289fd36]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Rules apply in relation to a company which is a universal service provider w
 
 ## Annotations
 
-[^key-93ef89e0e201cd3ae7e2d2a29289fd36]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2013/3208/rule/3) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-93ef89e0e201cd3ae7e2d2a29289fd36]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2013/3208/rule/3) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

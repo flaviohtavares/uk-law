@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Key definitions for Part 3[^key-8299eb1620dacbcb037f788f771d3297]
+## 130. Key definitions for Part 3[^c-8299eb1620dacbcb037f788f771d3297]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8299eb1620dacbcb037f788f771d3297]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2023/52/section/130) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)
+[^c-8299eb1620dacbcb037f788f771d3297]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2023/52/section/130) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)

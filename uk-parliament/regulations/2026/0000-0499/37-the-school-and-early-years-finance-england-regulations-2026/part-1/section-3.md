@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Amendment of the Childcare (Provision of Information About Young Children) (England) Regulations 2009[^key-620e77f9a2d68d3c13001d1395abf4b0]
+## 3. Amendment of the Childcare (Provision of Information About Young Children) (England) Regulations 2009[^c-620e77f9a2d68d3c13001d1395abf4b0]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-620e77f9a2d68d3c13001d1395abf4b0]: Commencement: Reg. 3 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-620e77f9a2d68d3c13001d1395abf4b0]: Commencement: Reg. 3 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
 
 [^f00050]: Footnote: [S.I. 2009/1554](https://www.legislation.gov.uk/uksi/2009/1554); relevant amending instruments are [S.I. 2015/1696](https://www.legislation.gov.uk/uksi/2015/1696), [2017/461](https://www.legislation.gov.uk/uksi/2017/461) and [2024/66](https://www.legislation.gov.uk/uksi/2024/66).

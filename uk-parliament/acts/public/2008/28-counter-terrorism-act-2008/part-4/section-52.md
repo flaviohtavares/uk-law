@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Travel outside the United Kingdom[^key-0cb63c726a0533b4ca7323880cbc8d0f]
+## 52. Travel outside the United Kingdom[^c-0cb63c726a0533b4ca7323880cbc8d0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cb63c726a0533b4ca7323880cbc8d0f]: Commencement: S. 52 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
+[^c-0cb63c726a0533b4ca7323880cbc8d0f]: Commencement: S. 52 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)

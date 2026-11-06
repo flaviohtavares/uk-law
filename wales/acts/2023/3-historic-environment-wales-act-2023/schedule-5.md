@@ -24,7 +24,7 @@ summary: ''
 
 ### PART 1 — NOTICE OF PROPOSED TERMINATION
 
-#### 1. Requirement to serve notice of proposed termination[^key-4f57b9b77d094bc9cdba035d2dd0d8eb][^key-ea118557db2bebb317ce561686d55c60]
+#### 1. Requirement to serve notice of proposed termination[^c-4f57b9b77d094bc9cdba035d2dd0d8eb][^c-ea118557db2bebb317ce561686d55c60]
 
 (1) Before making an order under section 27 terminating a scheduled monument partnership agreement or a provision of such an agreement the Welsh Ministers must serve notice of a proposal to make the order (a “notice of proposed termination”) on—
 
@@ -42,7 +42,7 @@ summary: ''
 
 (4) Where the effect of an order proposed to be made under section 27 would be to exclude any works from the scope of a scheduled monument consent granted by the agreement, the notice of proposed termination must provide that the affected works must not be carried out on or after a day specified by the notice.
 
-#### 2. Effect on authorised works of service of notice of proposed termination[^key-625f5698926de89a7357b29e9bd1e027][^key-d81dabd51c054af38d3af8414ffd3164]
+#### 2. Effect on authorised works of service of notice of proposed termination[^c-625f5698926de89a7357b29e9bd1e027][^c-d81dabd51c054af38d3af8414ffd3164]
 
 (1) Where a notice of proposed termination provides that the works to which a scheduled monument consent relates must not be carried out on or after a day specified by the notice, those works are not authorised for the purposes of Chapter 3 of Part 2 of this Act from the beginning of that day.
 
@@ -56,7 +56,7 @@ summary: ''
 
 ### PART 2 — PROCEEDING TO MAKE AN ORDER AFTER SERVICE OF NOTICE
 
-#### 3. Making an order under section 27[^key-a2d4e81776192bfc4cddacd57228b548][^key-3751196c0f42aa07aa9feb09e7edae56]
+#### 3. Making an order under section 27[^c-a2d4e81776192bfc4cddacd57228b548][^c-3751196c0f42aa07aa9feb09e7edae56]
 
 (1) This paragraph applies where a notice of proposed termination has been served under Part 1 of this Schedule.
 
@@ -85,7 +85,7 @@ summary: ''
 
 (7) Where the Welsh Ministers make an order under section 27 by virtue of sub-paragraph (2)(c), the order may be made either on the terms set out by the notice of proposed termination or with‍ modifications.
 
-#### 4. Notification once order made[^key-d22b610522350210be620a585f8eb7bc][^key-3e799d7129462e0ae839dd69fbef2299]
+#### 4. Notification once order made[^c-d22b610522350210be620a585f8eb7bc][^c-3e799d7129462e0ae839dd69fbef2299]
 
 As soon as practicable after making an order under section 27 the Welsh Ministers must send a copy of the order—
 
@@ -96,7 +96,7 @@ As soon as practicable after making an order under section 27 the Welsh Minister
 
 ### PART 3 — SUPPLEMENTARY
 
-#### 5. Procedure after hearing or inquiry[^key-9977df37f6c93ea347dc79904db053c2][^key-f4cfed21e584a5c497ae8ea829e44306]
+#### 5. Procedure after hearing or inquiry[^c-9977df37f6c93ea347dc79904db053c2][^c-f4cfed21e584a5c497ae8ea829e44306]
 
 (1) The person appointed to carry out a hearing or inquiry under paragraph 3 must, after the close of the hearing or inquiry, make a report in writing to the Welsh Ministers.
 
@@ -104,22 +104,22 @@ As soon as practicable after making an order under section 27 the Welsh Minister
 
 ## Annotations
 
-[^key-4f57b9b77d094bc9cdba035d2dd0d8eb]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-4f57b9b77d094bc9cdba035d2dd0d8eb]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-ea118557db2bebb317ce561686d55c60]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asc/2023/3/schedule/5/paragraph/1) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-ea118557db2bebb317ce561686d55c60]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/asc/2023/3/schedule/5/paragraph/1) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-625f5698926de89a7357b29e9bd1e027]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-625f5698926de89a7357b29e9bd1e027]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-d81dabd51c054af38d3af8414ffd3164]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asc/2023/3/schedule/5/paragraph/2) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-d81dabd51c054af38d3af8414ffd3164]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/asc/2023/3/schedule/5/paragraph/2) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-a2d4e81776192bfc4cddacd57228b548]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-a2d4e81776192bfc4cddacd57228b548]: Commencement: Sch. 5 para. 3 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-3751196c0f42aa07aa9feb09e7edae56]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asc/2023/3/schedule/5/paragraph/3) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-3751196c0f42aa07aa9feb09e7edae56]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/asc/2023/3/schedule/5/paragraph/3) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-d22b610522350210be620a585f8eb7bc]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-d22b610522350210be620a585f8eb7bc]: Commencement: Sch. 5 para. 4 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-3e799d7129462e0ae839dd69fbef2299]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/asc/2023/3/schedule/5/paragraph/4) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-3e799d7129462e0ae839dd69fbef2299]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/asc/2023/3/schedule/5/paragraph/4) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-9977df37f6c93ea347dc79904db053c2]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-9977df37f6c93ea347dc79904db053c2]: Commencement: Sch. 5 para. 5 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-f4cfed21e584a5c497ae8ea829e44306]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asc/2023/3/schedule/5/paragraph/5) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-f4cfed21e584a5c497ae8ea829e44306]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/asc/2023/3/schedule/5/paragraph/5) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

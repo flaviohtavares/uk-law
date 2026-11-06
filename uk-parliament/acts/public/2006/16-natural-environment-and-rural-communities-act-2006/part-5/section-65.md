@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Emergency financial assistance[^key-5f4e86dae0a25fd082d36124d6bfff85]
+## 65. Emergency financial assistance[^c-5f4e86dae0a25fd082d36124d6bfff85]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f4e86dae0a25fd082d36124d6bfff85]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2006/16/section/65) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-5f4e86dae0a25fd082d36124d6bfff85]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2006/16/section/65) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

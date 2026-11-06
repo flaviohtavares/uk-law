@@ -57,7 +57,7 @@ The Secretary of State for Social Security in exercise of his powers under secti
 
 ## 2. Application of Regulations
 
-These Regulations apply to any review under section 19 of the Social Security Administration Act 1992 of any question falling to be determined by the Secretary of State by virtue of section 170(7) of the 1993 Act (questions arising in connection with the issue, cancellation or variation of contracting-out certificates [^key-c3f06c54eee44c22c1832d6676c5cf1f]...and other questions falling to be determined by the Secretary of State under the 1993 Act, not being questions under section 170(1)(e) of that Act [^c1677899]).
+These Regulations apply to any review under section 19 of the Social Security Administration Act 1992 of any question falling to be determined by the Secretary of State by virtue of section 170(7) of the 1993 Act (questions arising in connection with the issue, cancellation or variation of contracting-out certificates [^c-c3f06c54eee44c22c1832d6676c5cf1f]...and other questions falling to be determined by the Secretary of State under the 1993 Act, not being questions under section 170(1)(e) of that Act [^c1677899]).
 
 ## 3. Applications to the Secretary of State for a review of a determination
 
@@ -95,7 +95,7 @@ and the notice shall state that any person to whom it is given may request a for
 
 (4) In any case in which a formal hearing of a review is held such hearing shall be in public except where the Secretary of State is satisfied that, by reason of the confidential or sensitive nature of matters raised, it is just and reasonable for the hearing or any part of it to be in private.
 
-(5)[^key-5eb3dfa1bd71cc1acd413fa34bb85c3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-5eb3dfa1bd71cc1acd413fa34bb85c3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Any person to whom notice of the hearing has been given under paragraph (3) shall be entitled to be heard at the hearing and may give evidence and call witnesses and shall be given an opportunity of putting questions directly to any witness called at the hearing.
 
@@ -179,8 +179,8 @@ An assessment of the compliance cost for employers of the measures arising from 
 
 [^c1677898]: Marginal citation: *See* section 185(8) of the Pension Schemes Act 1993 as amended by paragraph 80(f) of Schedule 5 to the Pensions Act 1995.
 
-[^key-c3f06c54eee44c22c1832d6676c5cf1f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1997/358/regulation/2) omitted (6.4.2012) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2011/1245/regulation/9)
+[^c-c3f06c54eee44c22c1832d6676c5cf1f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1997/358/regulation/2) omitted (6.4.2012) by virtue of [The Pensions Act 2007 (Abolition of Contracting-out for Defined Contribution Pension Schemes) (Consequential Amendments) Regulations 2011 (S.I. 2011/1245)](https://www.legislation.gov.uk/uksi/2011/1245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1245/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2011/1245/regulation/9)
 
 [^c1677899]: Marginal citation: By virtue of section 170(1)(e) of the Pension Schemes Act 1993, as inserted by section 151 of and paragraph 70(a)(iii) of Schedule 5 to the Pensions Act 1995, any question as to whether an employment is, or is to be treated as, contracted-out falls to be determined under section 17(1) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5) and reviewed accordingly.
 
-[^key-5eb3dfa1bd71cc1acd413fa34bb85c3a]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/1997/358/regulation/4/5) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/80)
+[^c-5eb3dfa1bd71cc1acd413fa34bb85c3a]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/1997/358/regulation/4/5) omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/80)

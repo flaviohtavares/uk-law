@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Grazings committees: duty to report breaches of crofters' and owner-occupier crofters' duties etc.[^key-226afbb14741f027f66162e8634f0ca6]
+## 38. Grazings committees: duty to report breaches of crofters' and owner-occupier crofters' duties etc.[^c-226afbb14741f027f66162e8634f0ca6]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ After section 49 of the 1993 Act insert—
 
 ## Annotations
 
-[^key-226afbb14741f027f66162e8634f0ca6]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2010/14/section/38) in force at 1.4.2012 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/2)
+[^c-226afbb14741f027f66162e8634f0ca6]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2010/14/section/38) in force at 1.4.2012 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/2)

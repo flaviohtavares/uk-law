@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**51E.**[^key-803aa9fa3f649411679cf9cd7eb6114a] (1) The relevant Authority shall, in carrying out its functions under this Part, have regard to the proper administration of CCL.
+**51E.**[^c-803aa9fa3f649411679cf9cd7eb6114a] (1) The relevant Authority shall, in carrying out its functions under this Part, have regard to the proper administration of CCL.
 
 (2) The relevant Authority shall in particular, and as appropriate, act in accordance with and have regard to Schedule 2 paragraphs 8, 10 and 11.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-803aa9fa3f649411679cf9cd7eb6114a]: Textual amendment: Pt. 4A inserted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [19](https://www.legislation.gov.uk/uksi/2003/604/regulation/19)
+[^c-803aa9fa3f649411679cf9cd7eb6114a]: Textual amendment: Pt. 4A inserted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [19](https://www.legislation.gov.uk/uksi/2003/604/regulation/19)

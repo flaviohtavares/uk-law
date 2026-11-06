@@ -39,7 +39,7 @@ The Department for Communities[^f00001] makes the following Order in exercise of
 
 The powers are exercisable by the Department by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00003].
 
-## 1. Citation and interpretation[^key-8f21f48fed2c6b8d8b9cb65963a53a08]
+## 1. Citation and interpretation[^c-8f21f48fed2c6b8d8b9cb65963a53a08]
 
 (1) This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) Order (Northern Ireland) 2025.
 
@@ -55,12 +55,12 @@ The powers are exercisable by the Department by virtue of Article 2 of the Welfa
 - “**income-related employment and support allowance**” means an income-related allowance under Part 1 of the 2007 Act;
 - “**old style ESA**” means an employment and support allowance under Part 1 of the 2007 Act as it has effect apart from the amendments made by Schedule 3, and Part 1 of Schedule 12, to the 2015 Order that remove references to an income-related allowance and references to an award of old style ESA shall be construed accordingly;
 - “**old style JSA**” means a jobseeker’s allowance under the Jobseekers (Northern Ireland) Order 1995 as it has effect apart from amendments made by Part 1 of Schedule 12 to the 2015 Order that remove references to an income-based jobseeker’s allowance and references to an award of old style JSA shall be construed accordingly;
-- “[^key-f31158ed7a034447d53cf0b2e17ade85]**specified accommodation**” has the same meaning as in the Transitional Regulations;
+- “[^c-f31158ed7a034447d53cf0b2e17ade85]**specified accommodation**” has the same meaning as in the Transitional Regulations;
 - “**temporary accommodation**” has the same meaning as in the Transitional Regulations;
 - “**the Transitional Regulations**” means the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016[^f00008];
 - “**two week run-on period**” means the period referred to in regulation 6(2A)[^f00009] or 47(1)(a)[^f00010] of the Transitional Regulations or regulation 4(1) of the Universal Credit (Managed Migration and Miscellaneous Amendments) Regulations (Northern Ireland) 2019[^f00011].
 
-## 2. Conversion of contributory old style ESA[^key-65b0568f69d8e4a4fa6fea8341b84a93]
+## 2. Conversion of contributory old style ESA[^c-65b0568f69d8e4a4fa6fea8341b84a93]
 
 (1) The day appointed for the coming into operation of the amending provisions in the case of an award of old style ESA in respect of which the claimant—
 
@@ -71,15 +71,15 @@ is as follows.
 
 (2) In the case of an award where either of the conditions in paragraph (1)(a) or (b) applies on 1st December 2025, the day appointed is 1st December 2025.
 
-(3) In any other case, the day appointed is any day falling before 1st October 2026 which is[^key-10c8b05bcb1fbbd707699a1987c73934] the first day on which either of those conditions applies.
+(3) In any other case, the day appointed is any day falling before 1st October 2026 which is[^c-10c8b05bcb1fbbd707699a1987c73934] the first day on which either of those conditions applies.
 
-## 3. Claimant commitment on conversion of contributory old style ESA[^key-bee299f79697a770493ffe0763a85b4c]
+## 3. Claimant commitment on conversion of contributory old style ESA[^c-bee299f79697a770493ffe0763a85b4c]
 
 (1) Where the amending provisions come into operation in relation to an award of old style ESA in accordance with Article 2 (conversion of contributory old style ESA) the Department may, for so long as the Department considers necessary to protect the efficient administration of employment and support allowance, delay the preparation of a claimant commitment in accordance with section 11A[^f00012] of the 2007 Act.
 
 (2) Section 1(3)(aa)[^f00013] of the 2007 Act (acceptance of claimant commitment to be a condition of entitlement to employment and support allowance) is not to apply during any period for which the preparation of a claimant commitment is delayed under paragraph (1).
 
-## 3A. Abolition of income-related employment and support allowance[^key-80020a36a970256e7e37ff5dea0dcb59]
+## 3A. Abolition of income-related employment and support allowance[^c-80020a36a970256e7e37ff5dea0dcb59]
 
 (1) Subject to the saving in paragraph (2), the day appointed for the coming into operation of the amending provisions in the case of an award of old style ESA in respect of which those provisions—
 
@@ -95,7 +95,7 @@ is 1st October 2026.
 
 (3) The saving in paragraph (2) does not prevent the amending provisions from coming into operation as a consequence of a claim for universal credit or from being treated as coming into operation in accordance with regulation 47(1)(a) of the Transitional Regulations (termination of existing benefits if no claim before the deadline).
 
-## 4. Abolition of income-based jobseeker’s allowance[^key-99f2c65c5b30710f93e5485d9bf9aa94]
+## 4. Abolition of income-based jobseeker’s allowance[^c-99f2c65c5b30710f93e5485d9bf9aa94]
 
 The day appointed for the coming into operation of the amending provisions in the case of an award of old style JSA in respect of which those provisions—
 
@@ -104,7 +104,7 @@ The day appointed for the coming into operation of the amending provisions in th
 
 is 1st April 2026.
 
-## 5. Abolition of income support[^key-e8be6cae390e5536fc7a71d521c0101d]
+## 5. Abolition of income support[^c-e8be6cae390e5536fc7a71d521c0101d]
 
 The day appointed for the coming into operation of Article 39(1)(c) of the 2015 Order (abolition of income support) in respect of an award of income support that—
 
@@ -113,7 +113,7 @@ The day appointed for the coming into operation of Article 39(1)(c) of the 2015 
 
 is 1st April 2026.
 
-## 6. Housing benefit – claimants moving from temporary or specified accommodation on or after 14th November 2025 and before 1st October 2026[^key-0a307c279d6aa1ba9e6e010acf327e3d][^key-d441e9fd583306240b968991aa50a853]
+## 6. Housing benefit – claimants moving from temporary or specified accommodation on or after 14th November 2025 and before 1st October 2026[^c-0a307c279d6aa1ba9e6e010acf327e3d][^c-d441e9fd583306240b968991aa50a853]
 
 (1) The day appointed for the coming into operation of Article 39(1)(d) of the 2015 Order (abolition of housing benefit) in relation to an award of housing benefit where the claimant—
 
@@ -121,11 +121,11 @@ is 1st April 2026.
 - (b) does not fall within regulation 4A(3) to (5) of the Transitional Regulations[^f00014] (exemption from restrictions on claims for housing benefit for persons over the qualifying age for state pension credit etc.); and
 - (c) is entitled to that award in respect of temporary accommodation or specified accommodation,
 
-is any day falling on or after 14th November 2025 and before 1st October 2026[^key-aa2af672ffbf180ce1ac5835c633bb28] that is the day after the last day on which the claimant is entitled to housing benefit in respect of accommodation of that description.
+is any day falling on or after 14th November 2025 and before 1st October 2026[^c-aa2af672ffbf180ce1ac5835c633bb28] that is the day after the last day on which the claimant is entitled to housing benefit in respect of accommodation of that description.
 
-(2)[^key-106b546054e8cc395bc4f15305f6db5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-106b546054e8cc395bc4f15305f6db5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Abolition of housing benefit for working age claimants who are not in temporary accommodation or specified accommodation[^key-674f75cbbe03d2dd441a8f7ffa8370cc]
+## 7. Abolition of housing benefit for working age claimants who are not in temporary accommodation or specified accommodation[^c-674f75cbbe03d2dd441a8f7ffa8370cc]
 
 (1) Subject to the savings in paragraph (4), the day appointed for the coming into operation of Article 39(1)(d) of the Order (abolition of housing benefit) in the case of an award of housing benefit that—
 
@@ -323,7 +323,7 @@ The following provisions of the Welfare Reform (Northern Ireland) Order 2015 ([S
 
 [^f00003]: Footnote: [S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927)
 
-[^key-8f21f48fed2c6b8d8b9cb65963a53a08]: Commencement: Art. 1 in operation at made date
+[^c-8f21f48fed2c6b8d8b9cb65963a53a08]: Commencement: Art. 1 in operation at made date
 
 [^f00004]: Footnote: [2007 c.2](https://www.legislation.gov.uk/ukpga/2007/2)
 
@@ -333,7 +333,7 @@ The following provisions of the Welfare Reform (Northern Ireland) Order 2015 ([S
 
 [^f00007]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
-[^key-f31158ed7a034447d53cf0b2e17ade85]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisr/2025/176/article/1/2) inserted (17.6.2026) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/115)](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(2)](https://www.legislation.gov.uk/nisr/2026/115/article/2/2)
+[^c-f31158ed7a034447d53cf0b2e17ade85]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisr/2025/176/article/1/2) inserted (17.6.2026) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/115)](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(2)](https://www.legislation.gov.uk/nisr/2026/115/article/2/2)
 
 [^f00008]: Footnote: [S.R. 2016 No. 226](https://www.legislation.gov.uk/nisr/2016/226)
 
@@ -343,30 +343,30 @@ The following provisions of the Welfare Reform (Northern Ireland) Order 2015 ([S
 
 [^f00011]: Footnote: [S.R. 2019 No. 152](https://www.legislation.gov.uk/nisr/2019/152)
 
-[^key-65b0568f69d8e4a4fa6fea8341b84a93]: Commencement: Art. 2 in operation at made date
+[^c-65b0568f69d8e4a4fa6fea8341b84a93]: Commencement: Art. 2 in operation at made date
 
-[^key-10c8b05bcb1fbbd707699a1987c73934]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisr/2025/176/article/2/3) inserted (17.6.2026) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/115)](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(3)](https://www.legislation.gov.uk/nisr/2026/115/article/2/3)
+[^c-10c8b05bcb1fbbd707699a1987c73934]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisr/2025/176/article/2/3) inserted (17.6.2026) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/115)](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(3)](https://www.legislation.gov.uk/nisr/2026/115/article/2/3)
 
-[^key-bee299f79697a770493ffe0763a85b4c]: Commencement: Art. 3 in operation at made date
+[^c-bee299f79697a770493ffe0763a85b4c]: Commencement: Art. 3 in operation at made date
 
 [^f00012]: Footnote: Section 11A was inserted by Article 63 of the Welfare Reform (Northern Ireland) Order 2015
 
 [^f00013]: Footnote: Section 1(3)(aa) was inserted by Article 60 of the Welfare Reform (Northern Ireland) Order 2015
 
-[^key-80020a36a970256e7e37ff5dea0dcb59]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/nisr/2025/176/article/3A) inserted (17.6.2026) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/115)](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(4)](https://www.legislation.gov.uk/nisr/2026/115/article/2/4)
+[^c-80020a36a970256e7e37ff5dea0dcb59]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/nisr/2025/176/article/3A) inserted (17.6.2026) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/115)](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(4)](https://www.legislation.gov.uk/nisr/2026/115/article/2/4)
 
-[^key-99f2c65c5b30710f93e5485d9bf9aa94]: Commencement: Art. 4 in operation at made date
+[^c-99f2c65c5b30710f93e5485d9bf9aa94]: Commencement: Art. 4 in operation at made date
 
-[^key-e8be6cae390e5536fc7a71d521c0101d]: Commencement: Art. 5 in operation at made date
+[^c-e8be6cae390e5536fc7a71d521c0101d]: Commencement: Art. 5 in operation at made date
 
-[^key-0a307c279d6aa1ba9e6e010acf327e3d]: Commencement: Art. 6 in operation at made date
+[^c-0a307c279d6aa1ba9e6e010acf327e3d]: Commencement: Art. 6 in operation at made date
 
-[^key-d441e9fd583306240b968991aa50a853]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisr/2025/176/article/6) heading substituted (17.6.2026) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/115)](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(5)(a)](https://www.legislation.gov.uk/nisr/2026/115/article/2/5/a)
+[^c-d441e9fd583306240b968991aa50a853]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisr/2025/176/article/6) heading substituted (17.6.2026) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/115)](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(5)(a)](https://www.legislation.gov.uk/nisr/2026/115/article/2/5/a)
 
 [^f00014]: Footnote: Regulation 4A was inserted by regulation 4 of [S.R. 2022 No. 194](https://www.legislation.gov.uk/nisr/2022/194)
 
-[^key-aa2af672ffbf180ce1ac5835c633bb28]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/nisr/2025/176/article/6/1) inserted (17.6.2026) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/115)](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(5)(b)](https://www.legislation.gov.uk/nisr/2026/115/article/2/5/b)
+[^c-aa2af672ffbf180ce1ac5835c633bb28]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/nisr/2025/176/article/6/1) inserted (17.6.2026) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/115)](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(5)(b)](https://www.legislation.gov.uk/nisr/2026/115/article/2/5/b)
 
-[^key-106b546054e8cc395bc4f15305f6db5b]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/nisr/2025/176/article/6/2) omitted (17.6.2026) by virtue of [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/115)](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(5)(c)](https://www.legislation.gov.uk/nisr/2026/115/article/2/5/c)
+[^c-106b546054e8cc395bc4f15305f6db5b]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/nisr/2025/176/article/6/2) omitted (17.6.2026) by virtue of [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/115)](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(5)(c)](https://www.legislation.gov.uk/nisr/2026/115/article/2/5/c)
 
-[^key-674f75cbbe03d2dd441a8f7ffa8370cc]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/nisr/2025/176/article/7) inserted (17.6.2026) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/115)](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(6)](https://www.legislation.gov.uk/nisr/2026/115/article/2/6)
+[^c-674f75cbbe03d2dd441a8f7ffa8370cc]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/nisr/2025/176/article/7) inserted (17.6.2026) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 18) (Abolition of Benefits) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/115)](https://www.legislation.gov.uk/nisr/2026/115), [art. 2(6)](https://www.legislation.gov.uk/nisr/2026/115/article/2/6)

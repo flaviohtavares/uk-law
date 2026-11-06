@@ -33,7 +33,7 @@ summary: ''
 
 Environmental Protection
 
-The Large Combustion Plants (Transitional National Plan) Regulations 2015 (revoked)[^key-f2ff5daf65cb94a83324bd2184673367]
+The Large Combustion Plants (Transitional National Plan) Regulations 2015 (revoked)[^c-f2ff5daf65cb94a83324bd2184673367]
 
 Made
 
@@ -45,94 +45,94 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-f2ff5daf65cb94a83324bd2184673367]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2ff5daf65cb94a83324bd2184673367]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and expiry[^key-f2ff5daf65cb94a83324bd2184673367]
+## 1. Citation, commencement and expiry[^c-f2ff5daf65cb94a83324bd2184673367]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f2ff5daf65cb94a83324bd2184673367]
+## 2. Interpretation[^c-f2ff5daf65cb94a83324bd2184673367]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Provision of information by the Secretary of State[^key-f2ff5daf65cb94a83324bd2184673367]
+## 3. Provision of information by the Secretary of State[^c-f2ff5daf65cb94a83324bd2184673367]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional National Plan register[^key-f2ff5daf65cb94a83324bd2184673367]
+## 4. Transitional National Plan register[^c-f2ff5daf65cb94a83324bd2184673367]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Duty on regulator[^key-f2ff5daf65cb94a83324bd2184673367]
+## 5. Duty on regulator[^c-f2ff5daf65cb94a83324bd2184673367]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Reports of emissions[^key-f2ff5daf65cb94a83324bd2184673367]
+## 6. Reports of emissions[^c-f2ff5daf65cb94a83324bd2184673367]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transfer of emission allowance[^key-f2ff5daf65cb94a83324bd2184673367]
+## 7. Transfer of emission allowance[^c-f2ff5daf65cb94a83324bd2184673367]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Determination of emission allowance on plant closure or plant variation[^key-f2ff5daf65cb94a83324bd2184673367]
+## 8. Determination of emission allowance on plant closure or plant variation[^c-f2ff5daf65cb94a83324bd2184673367]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. The Environment Agency's costs of establishing and maintaining the register[^key-f2ff5daf65cb94a83324bd2184673367]
+## 9. The Environment Agency's costs of establishing and maintaining the register[^c-f2ff5daf65cb94a83324bd2184673367]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Consequential amendments[^key-f2ff5daf65cb94a83324bd2184673367]
+## 10. Consequential amendments[^c-f2ff5daf65cb94a83324bd2184673367]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocation and savings[^key-f2ff5daf65cb94a83324bd2184673367]
+## 11. Revocation and savings[^c-f2ff5daf65cb94a83324bd2184673367]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2ff5daf65cb94a83324bd2184673367]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2ff5daf65cb94a83324bd2184673367]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — The Register[^key-f2ff5daf65cb94a83324bd2184673367]
+## SCHEDULE 1 — The Register[^c-f2ff5daf65cb94a83324bd2184673367]
 
 Regulations 3 and 4
 
-**1.**[^key-f2ff5daf65cb94a83324bd2184673367] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f2ff5daf65cb94a83324bd2184673367] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f2ff5daf65cb94a83324bd2184673367] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f2ff5daf65cb94a83324bd2184673367] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f2ff5daf65cb94a83324bd2184673367] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f2ff5daf65cb94a83324bd2184673367] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f2ff5daf65cb94a83324bd2184673367] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f2ff5daf65cb94a83324bd2184673367] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f2ff5daf65cb94a83324bd2184673367] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f2ff5daf65cb94a83324bd2184673367] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f2ff5daf65cb94a83324bd2184673367] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f2ff5daf65cb94a83324bd2184673367] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f2ff5daf65cb94a83324bd2184673367] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f2ff5daf65cb94a83324bd2184673367] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Consequential Amendments[^key-f2ff5daf65cb94a83324bd2184673367]
+## SCHEDULE 2 — Consequential Amendments[^c-f2ff5daf65cb94a83324bd2184673367]
 
 Regulation 10
 
-### 1. The Environmental Permitting (England and Wales) Regulations 2010[^key-f2ff5daf65cb94a83324bd2184673367]
+### 1. The Environmental Permitting (England and Wales) Regulations 2010[^c-f2ff5daf65cb94a83324bd2184673367]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. The Pollution Prevention and Control (Scotland) Regulations 2012[^key-f2ff5daf65cb94a83324bd2184673367]
+### 2. The Pollution Prevention and Control (Scotland) Regulations 2012[^c-f2ff5daf65cb94a83324bd2184673367]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013[^key-f2ff5daf65cb94a83324bd2184673367]
+### 3. The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013[^c-f2ff5daf65cb94a83324bd2184673367]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2ff5daf65cb94a83324bd2184673367]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2ff5daf65cb94a83324bd2184673367]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f2ff5daf65cb94a83324bd2184673367]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/1973) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)
+[^c-f2ff5daf65cb94a83324bd2184673367]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/1973) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)

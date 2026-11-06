@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Indemnity insurance for Commissioners[^key-6b4496918eb6968056bea87a54cd2add]
+## 50. Indemnity insurance for Commissioners[^c-6b4496918eb6968056bea87a54cd2add]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Commissioners may enter into, and pay premiums for, a contract of insurance 
 
 ## Annotations
 
-[^key-6b4496918eb6968056bea87a54cd2add]: Commencement: Art. 50 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-6b4496918eb6968056bea87a54cd2add]: Commencement: Art. 50 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

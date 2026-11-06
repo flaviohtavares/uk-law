@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85A. Procedure in relation to postal voting statements: personal identifier verification[^key-fb727c097fefea7fd7ee59c8353e659a][^key-95643c12b00c720ea24520482be92bcd]
+## 85A. Procedure in relation to postal voting statements: personal identifier verification[^c-fb727c097fefea7fd7ee59c8353e659a][^c-95643c12b00c720ea24520482be92bcd]
 
 *Extent: S*
 
-(1)[^key-9a5c99861e71c67a61083ca877f34c87] This regulation applies in the circumstances described in regulation 84(2).
+(1)[^c-9a5c99861e71c67a61083ca877f34c87] This regulation applies in the circumstances described in regulation 84(2).
 
 (2) The returning officer must satisfy himself that the postal voting statement is duly completed and as part of that process must compare the date of birth and the signature on the postal voting statement against the date of birth and the signature contained in the personal identifier record relating to the person to whom the postal ballot paper was addressed.
 
-(3) Where the returning officer is not so satisfied, he shall mark the statement “rejected”, attach it to the ballot paper envelope, or if there is no such envelope but there is a ballot paper[^key-9840ce45f3e402e2bf73e7fedbdaa39a], the ballot paper, and, subject to paragraph (4), place it in the receptacle for rejected votes (verification procedure).
+(3) Where the returning officer is not so satisfied, he shall mark the statement “rejected”, attach it to the ballot paper envelope, or if there is no such envelope but there is a ballot paper[^c-9840ce45f3e402e2bf73e7fedbdaa39a], the ballot paper, and, subject to paragraph (4), place it in the receptacle for rejected votes (verification procedure).
 
 (4) Before placing a postal voting statement in the receptacle for rejected votes (verification procedure), the returning officer must show it to the agents and must permit them to view the entries in the personal identifiers record which relate to the person to whom the postal ballot paper was addressed, and if any of them object to his decision, he must add the words “rejection objected to”.
 
@@ -53,10 +53,10 @@ the returning officer shall open the envelope.
 
 ## Annotations
 
-[^key-fb727c097fefea7fd7ee59c8353e659a]: Modification: [Reg. 85A](https://www.legislation.gov.uk/uksi/2001/497/regulation/85A) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 42](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/42)
+[^c-fb727c097fefea7fd7ee59c8353e659a]: Modification: [Reg. 85A](https://www.legislation.gov.uk/uksi/2001/497/regulation/85A) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 42](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/42)
 
-[^key-95643c12b00c720ea24520482be92bcd]: Textual amendment: [Regs. 85A](https://www.legislation.gov.uk/uksi/2001/497/regulation/85A), [85B](https://www.legislation.gov.uk/uksi/2001/497/regulation/85B) inserted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2008 (S.I. 2008/305)](https://www.legislation.gov.uk/uksi/2008/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2008/305/regulation/10)
+[^c-95643c12b00c720ea24520482be92bcd]: Textual amendment: [Regs. 85A](https://www.legislation.gov.uk/uksi/2001/497/regulation/85A), [85B](https://www.legislation.gov.uk/uksi/2001/497/regulation/85B) inserted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2008 (S.I. 2008/305)](https://www.legislation.gov.uk/uksi/2008/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/305/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2008/305/regulation/10)
 
-[^key-9a5c99861e71c67a61083ca877f34c87]: Textual amendment: [Reg. 85A(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/85A/1) substituted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/c), [33(1)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/33/1)
+[^c-9a5c99861e71c67a61083ca877f34c87]: Textual amendment: [Reg. 85A(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/85A/1) substituted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/c), [33(1)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/33/1)
 
-[^key-9840ce45f3e402e2bf73e7fedbdaa39a]: Textual amendment: Words in [reg. 85A(3)](https://www.legislation.gov.uk/uksi/2001/497/regulation/85A/3) inserted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/c), [33(2)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/33/2)
+[^c-9840ce45f3e402e2bf73e7fedbdaa39a]: Textual amendment: Words in [reg. 85A(3)](https://www.legislation.gov.uk/uksi/2001/497/regulation/85A/3) inserted (6.4.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(3)(c)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/3/c), [33(2)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/33/2)

@@ -42,11 +42,11 @@ Coming into operation-
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001], in exercise of the powers conferred by sections 19(1) and 124(1), (2) and (2A) of the Fisheries Act (Northern Ireland) 1966[^f00002], makes the following Regulations.
 
-## 1. Citation and commencement[^key-b13b6ca6c203b8f74a0216e97094dee8]
+## 1. Citation and commencement[^c-b13b6ca6c203b8f74a0216e97094dee8]
 
 These Regulations may be cited as the Scallop Enhancement Sites (Prohibited Methods of Fishing) Regulations (Northern Ireland) 2022 and come into operation on 1 January 2023.
 
-## 2. Interpretation[^key-798854041430ea0d899c88304a8048c4]
+## 2. Interpretation[^c-798854041430ea0d899c88304a8048c4]
 
 In these Regulations—
 
@@ -60,7 +60,7 @@ In these Regulations—
 - “**Drumfad Bay scallop enhancement site**” means the area of the sea drawn by a line joining each of the points lettered alphabetically in column 1 in Table 2 of the Schedule, the co-ordinates which are set out in columns 2 and 3 opposite each point;
 - “**mechanical dredge**” means a device with a rigid framed mouth constructed to catch shell-fish whilst being towed along the sea bed by a fishing boat;
 - “**Roaring Rock scallop enhancement site**” means the area of the sea drawn by a line joining each of the points lettered alphabetically in column 1 in Table 3 of the Schedule, the co-ordinates which are set out in columns 2 and 3 opposite each point;
-- “[^key-ce8efc3fcfb75574f4ba513ea911f988]**scallop**” means—
+- “[^c-ce8efc3fcfb75574f4ba513ea911f988]**scallop**” means—
   - (a) King scallop *(Pecten maximus)*; or
   - (b) Queen scallop (*Aequipecten opercularis*).
 - “**suction dredge**” means—
@@ -68,9 +68,9 @@ In these Regulations—
   - (b) any other mechanical, pneumatic or hydraulic device which raises material or shell-fish from the sea bed by means of suction or pumping;
 - “**Whitehead scallop enhancement site**” means the area of the sea drawn by a line joining each of the points lettered alphabetically in column 1 in Table 4 of the Schedule, the coordinates which are set out in columns 2 and 3 opposite each point.
 
-## 3. Prohibited methods of fishing[^key-c84926f9e5ae4eb22e9ffb8de10eeacb]
+## 3. Prohibited methods of fishing[^c-c84926f9e5ae4eb22e9ffb8de10eeacb]
 
-(1) Subject to paragraph (2) fishing for sea-fish using demersal mobile gear and fishing for scallops by any means[^key-c1169e603837a35f51cfde0e84436244] is prohibited in—
+(1) Subject to paragraph (2) fishing for sea-fish using demersal mobile gear and fishing for scallops by any means[^c-c1169e603837a35f51cfde0e84436244] is prohibited in—
 
 - (a) Ballyquintin scallop enhancement site;
 - (b) Drumfad Bay scallop enhancement site;
@@ -87,7 +87,7 @@ A senior officer of the
 
 Department of Agriculture, Environment and Rural Affairs
 
-## SCHEDULE — Scallop Enhancement Sites[^key-f67ae0bf39d0b6cef032ca960375cd24]
+## SCHEDULE — Scallop Enhancement Sites[^c-f67ae0bf39d0b6cef032ca960375cd24]
 
 Regulation 2
 
@@ -143,16 +143,16 @@ Contravention of the Regulations is an offence under section 124(3) of the Fishe
 
 [^f00002]: Footnote: [1966 c.17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17); Section 124 was substituted by [S.I. 1981/227 (N.I.7)](https://www.legislation.gov.uk/nisi/1981/227), Article 6, and relevant amendments were made by [2001 c.4 (N.I.)](https://www.legislation.gov.uk/nia/2001/4) section 1 and [S.I. 2002/790](https://www.legislation.gov.uk/uksi/2002/790), Article 6(2). There is another amendment but it is not relevant.
 
-[^key-b13b6ca6c203b8f74a0216e97094dee8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2022/272/regulation/1) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/272/regulation/1)
+[^c-b13b6ca6c203b8f74a0216e97094dee8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2022/272/regulation/1) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/272/regulation/1)
 
-[^key-798854041430ea0d899c88304a8048c4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2022/272/regulation/2) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/272/regulation/1)
+[^c-798854041430ea0d899c88304a8048c4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2022/272/regulation/2) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/272/regulation/1)
 
 [^f00003]: Footnote: Definitions of World Geodetic System 1984 Datum and co-ordinate reference system are available via EPSG Geodetic Parameter Registry as EPSG:6326 (http://epsg.io/6326-datum) and EPSG:4326 (http://epsg.io/4326) respectively.
 
-[^key-ce8efc3fcfb75574f4ba513ea911f988]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2022/272/regulation/2) inserted (1.7.2025) by [The Scallop Enhancement Sites (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/102)](https://www.legislation.gov.uk/nisr/2025/102), [regs. 1](https://www.legislation.gov.uk/nisr/2025/102/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/102/regulation/2/2)
+[^c-ce8efc3fcfb75574f4ba513ea911f988]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2022/272/regulation/2) inserted (1.7.2025) by [The Scallop Enhancement Sites (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/102)](https://www.legislation.gov.uk/nisr/2025/102), [regs. 1](https://www.legislation.gov.uk/nisr/2025/102/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/102/regulation/2/2)
 
-[^key-c84926f9e5ae4eb22e9ffb8de10eeacb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2022/272/regulation/3) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/272/regulation/1)
+[^c-c84926f9e5ae4eb22e9ffb8de10eeacb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2022/272/regulation/3) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/272/regulation/1)
 
-[^key-c1169e603837a35f51cfde0e84436244]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2022/272/regulation/3/1) substituted (1.7.2025) by [The Scallop Enhancement Sites (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/102)](https://www.legislation.gov.uk/nisr/2025/102), [regs. 1](https://www.legislation.gov.uk/nisr/2025/102/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2025/102/regulation/2/3)
+[^c-c1169e603837a35f51cfde0e84436244]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2022/272/regulation/3/1) substituted (1.7.2025) by [The Scallop Enhancement Sites (Prohibited Methods of Fishing) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/102)](https://www.legislation.gov.uk/nisr/2025/102), [regs. 1](https://www.legislation.gov.uk/nisr/2025/102/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2025/102/regulation/2/3)
 
-[^key-f67ae0bf39d0b6cef032ca960375cd24]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2022/272/schedule) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/272/regulation/1)
+[^c-f67ae0bf39d0b6cef032ca960375cd24]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2022/272/schedule) in operation at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/272/regulation/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Rating And Valuation, England
 
-The Rating Lists (Valuation Date) (England) Order 2014 (revoked)[^key-3a5fc967aa03860757750aa2d3dec7b4]
+The Rating Lists (Valuation Date) (England) Order 2014 (revoked)[^c-3a5fc967aa03860757750aa2d3dec7b4]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 21st November 2014
 
-[^key-3a5fc967aa03860757750aa2d3dec7b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a5fc967aa03860757750aa2d3dec7b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-3a5fc967aa03860757750aa2d3dec7b4]
+## 1. Citation, commencement and application[^c-3a5fc967aa03860757750aa2d3dec7b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Valuation date[^key-3a5fc967aa03860757750aa2d3dec7b4]
+## 2. Valuation date[^c-3a5fc967aa03860757750aa2d3dec7b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-3a5fc967aa03860757750aa2d3dec7b4]
+## 3. Revocation[^c-3a5fc967aa03860757750aa2d3dec7b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a5fc967aa03860757750aa2d3dec7b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a5fc967aa03860757750aa2d3dec7b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3a5fc967aa03860757750aa2d3dec7b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a5fc967aa03860757750aa2d3dec7b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3a5fc967aa03860757750aa2d3dec7b4]: Textual amendment: Order revoked (1.7.2018) by [The Rating Lists (Valuation Date) (England) Order 2018 (S.I. 2018/553)](https://www.legislation.gov.uk/uksi/2018/553), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/553/article/1/2), [3](https://www.legislation.gov.uk/uksi/2018/553/article/3)
+[^c-3a5fc967aa03860757750aa2d3dec7b4]: Textual amendment: Order revoked (1.7.2018) by [The Rating Lists (Valuation Date) (England) Order 2018 (S.I. 2018/553)](https://www.legislation.gov.uk/uksi/2018/553), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/553/article/1/2), [3](https://www.legislation.gov.uk/uksi/2018/553/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Meaning of “member”[^key-b33834d818602f07a70776db5a0c07f0]
+## 22. Meaning of “member”[^c-b33834d818602f07a70776db5a0c07f0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Part, a reference to a member of a local authority includes a reference 
 
 ## Annotations
 
-[^key-b33834d818602f07a70776db5a0c07f0]: Commencement: [S. 22](https://www.legislation.gov.uk/mwa/2011/4/section/22) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)
+[^c-b33834d818602f07a70776db5a0c07f0]: Commencement: [S. 22](https://www.legislation.gov.uk/mwa/2011/4/section/22) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)

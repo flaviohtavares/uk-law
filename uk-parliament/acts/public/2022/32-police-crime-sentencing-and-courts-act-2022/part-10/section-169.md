@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Offences outside the United Kingdom: notification requirements[^key-a601f38a841eee34d9267ecb080610ff][^key-8ddcf26d912810fa6ec8f823852cc09c]
+## 169. Offences outside the United Kingdom: notification requirements[^c-a601f38a841eee34d9267ecb080610ff][^c-8ddcf26d912810fa6ec8f823852cc09c]
 
 *Extent: E+W*
 
@@ -158,6 +158,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a601f38a841eee34d9267ecb080610ff]: Commencement: S. 169 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-a601f38a841eee34d9267ecb080610ff]: Commencement: S. 169 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-8ddcf26d912810fa6ec8f823852cc09c]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2022/32/section/169) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/b)
+[^c-8ddcf26d912810fa6ec8f823852cc09c]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2022/32/section/169) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/b)

@@ -95,9 +95,9 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 (3) In regulation 6(1), for “born in the EU” substitute “born in a member State or in the United Kingdom”.
 
-(4) In the heading to regulation 7, for “EU” substitute “Great Britain from a country other than Northern Ireland or a member State[^key-29fbcd2f0eb7012f5d8338aa5d050d35]”.
+(4) In the heading to regulation 7, for “EU” substitute “Great Britain from a country other than Northern Ireland or a member State[^c-29fbcd2f0eb7012f5d8338aa5d050d35]”.
 
-(5)[^key-374b87c075370d9b5c9156ad204bb3c5] In regulation 13(2)(b) for “another member State” substitute “a member State or Northern Ireland”.
+(5)[^c-374b87c075370d9b5c9156ad204bb3c5] In regulation 13(2)(b) for “another member State” substitute “a member State or Northern Ireland”.
 
 (6) Omit regulation 35(4)(b) (together with the preceding “and”).
 
@@ -129,6 +129,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24576801]: Commencement: Reg. 3 in force on IP completion day, see reg. 1 and [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-29fbcd2f0eb7012f5d8338aa5d050d35]: Textual amendment: Words in reg. 3(4) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [26(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/26/2)
+[^c-29fbcd2f0eb7012f5d8338aa5d050d35]: Textual amendment: Words in reg. 3(4) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [26(2)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/26/2)
 
-[^key-374b87c075370d9b5c9156ad204bb3c5]: Textual amendment: Reg. 3(5) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [26(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/26/3)
+[^c-374b87c075370d9b5c9156ad204bb3c5]: Textual amendment: Reg. 3(5) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [26(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/26/3)

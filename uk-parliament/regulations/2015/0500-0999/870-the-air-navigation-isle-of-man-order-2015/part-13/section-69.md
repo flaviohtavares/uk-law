@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Carriage of weapons and of munitions of war – requirement for permission and for commander to be informed[^key-47016618be4bf007fef17b091a31e357]
+## 69. Carriage of weapons and of munitions of war – requirement for permission and for commander to be informed[^c-47016618be4bf007fef17b091a31e357]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47016618be4bf007fef17b091a31e357]: Commencement: [Art. 69](https://www.legislation.gov.uk/uksi/2015/870/article/69) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-47016618be4bf007fef17b091a31e357]: Commencement: [Art. 69](https://www.legislation.gov.uk/uksi/2015/870/article/69) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

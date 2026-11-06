@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32C. Regulations about orders under section 32A[^M_C_46588fff-4316-411d-9235-d57960cc9f8c][^key-e50a3526c0cb61d89517e59621a99e95]
+## 32C. Regulations about orders under section 32A[^M_C_46588fff-4316-411d-9235-d57960cc9f8c][^c-e50a3526c0cb61d89517e59621a99e95]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 - (c) requiring an order to specify the dates on which deductions are to be made under it;
 - (d) for the rate of deduction under an order not to exceed such rate as may be specified in, or determined in accordance with, the regulations;
 - (e) as to circumstances in which amounts standing to the credit of an account are to be disregarded for the purposes of section 32A;
-- (f) as to the payment of sums deducted under an order to the Secretary of State[^key-2404a52baba1f653a5f30f9293e25460];
+- (f) as to the payment of sums deducted under an order to the Secretary of State[^c-2404a52baba1f653a5f30f9293e25460];
 - (g) allowing the deposit-taker at which an order is directed to deduct from the amount standing to the credit of the account specified in the order a prescribed amount towards its administrative costs before making any deduction required by section 32A(6)(a);
 - (h) with respect to notifications to be given to the person against whom an order is made (and, in the case of an order made in respect of a joint account, to the other account-holders) of amounts deducted, and amounts paid, under the order;
 - (i) requiring the deposit-taker at which an order is directed to notify the Secretary of State in the prescribed manner and within a prescribed period—
@@ -38,7 +38,7 @@ summary: ''
 - (j) requiring the deposit-taker at which an order is directed to notify the Secretary of State in the prescribed manner and within a prescribed period if, after the time at which the order is served on the deposit-taker—
   - (i) the account specified in the order is closed;
   - (ii) a new account of any description is opened with the deposit-taker by the person against whom the order is made;
-- (k) as to circumstances in which the deposit-taker at which an order is directed, the person against whom the order is made and (in the case of an order made in respect of a joint account) the other account-holders may apply to the Secretary of State for the Secretary of State[^key-d3565af37c5f8d4ca68a0e96dbb5a54c] to review the order and as to such a review;
+- (k) as to circumstances in which the deposit-taker at which an order is directed, the person against whom the order is made and (in the case of an order made in respect of a joint account) the other account-holders may apply to the Secretary of State for the Secretary of State[^c-d3565af37c5f8d4ca68a0e96dbb5a54c] to review the order and as to such a review;
 - (l) for the variation of orders;
 - (m) similar to that made by section 32A(8), in relation to any variation of an order;
 - (n) for an order to lapse in such circumstances as may be prescribed;
@@ -55,7 +55,7 @@ summary: ''
 (4) The Secretary of State shall by regulations make provision for any person affected to have a right to appeal to a court—
 
 - (a) against the making of an order under section 32A;
-- (b) against any decision made by the Secretary of State[^key-dfe48d67fab90e8c1a9c559aa823fc73] on an application under regulations made under subsection (2)(k).
+- (b) against any decision made by the Secretary of State[^c-dfe48d67fab90e8c1a9c559aa823fc73] on an application under regulations made under subsection (2)(k).
 
 (5) On an appeal under regulations made under subsection (4)(a), the court shall not question the maintenance calculation by reference to which the order was made.
 
@@ -68,10 +68,10 @@ summary: ''
 
 [^M_C_46588fff-4316-411d-9235-d57960cc9f8c]: Modification: S. 32C modified (10.6.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 59(5)](https://www.legislation.gov.uk/ukpga/2008/6/section/59/5); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 2(6)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/6)
 
-[^key-e50a3526c0cb61d89517e59621a99e95]: Textual amendment: [Ss. 32A-32D](https://www.legislation.gov.uk/ukpga/1991/48/section/32A) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 22](https://www.legislation.gov.uk/ukpga/2008/6/section/22), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/1/a)
+[^c-e50a3526c0cb61d89517e59621a99e95]: Textual amendment: [Ss. 32A-32D](https://www.legislation.gov.uk/ukpga/1991/48/section/32A) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 22](https://www.legislation.gov.uk/ukpga/2008/6/section/22), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/1/a)
 
-[^key-2404a52baba1f653a5f30f9293e25460]: Textual amendment: Words in s. 32C(2) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 36(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/36/a)
+[^c-2404a52baba1f653a5f30f9293e25460]: Textual amendment: Words in s. 32C(2) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 36(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/36/a)
 
-[^key-d3565af37c5f8d4ca68a0e96dbb5a54c]: Textual amendment: Words in s. 32C(2)(k) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 36(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/36/a)
+[^c-d3565af37c5f8d4ca68a0e96dbb5a54c]: Textual amendment: Words in s. 32C(2)(k) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 36(a)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/36/a)
 
-[^key-dfe48d67fab90e8c1a9c559aa823fc73]: Textual amendment: Words in s. 32C(4) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 36(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/36/b)
+[^c-dfe48d67fab90e8c1a9c559aa823fc73]: Textual amendment: Words in s. 32C(4) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/2), [Sch. para. 36(b)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/36/b)

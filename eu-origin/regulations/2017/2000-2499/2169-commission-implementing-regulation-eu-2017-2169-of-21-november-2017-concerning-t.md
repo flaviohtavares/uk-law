@@ -35,24 +35,24 @@ concerning the format and arrangements for the transmission of European Statisti
 
 (Text with EEA relevance) (revoked)
 
-[^key-11ec65d2eb9b10cd3009218c8540cbf5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11ec65d2eb9b10cd3009218c8540cbf5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-11ec65d2eb9b10cd3009218c8540cbf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-11ec65d2eb9b10cd3009218c8540cbf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-11ec65d2eb9b10cd3009218c8540cbf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-11ec65d2eb9b10cd3009218c8540cbf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-11ec65d2eb9b10cd3009218c8540cbf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-11ec65d2eb9b10cd3009218c8540cbf5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11ec65d2eb9b10cd3009218c8540cbf5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11ec65d2eb9b10cd3009218c8540cbf5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — The structure for transmitting statistical data on natural gas price[^key-11ec65d2eb9b10cd3009218c8540cbf5]
+## ANNEX I — The structure for transmitting statistical data on natural gas price[^c-11ec65d2eb9b10cd3009218c8540cbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — The structure for transmitting statistical data on electricity price[^key-11ec65d2eb9b10cd3009218c8540cbf5]
+## ANNEX II — The structure for transmitting statistical data on electricity price[^c-11ec65d2eb9b10cd3009218c8540cbf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-11ec65d2eb9b10cd3009218c8540cbf5]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 281](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/281); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-11ec65d2eb9b10cd3009218c8540cbf5]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 281](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/281); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -24,18 +24,18 @@ summary: ''
 
 ### The relief
 
-**1.**[^key-d51bff2fd1d3c55972b286a608ac1a09] The leaseback element of a sale and leaseback arrangement is relieved from tax if the qualifying conditions are met.
+**1.**[^c-d51bff2fd1d3c55972b286a608ac1a09] The leaseback element of a sale and leaseback arrangement is relieved from tax if the qualifying conditions are met.
 
 ### Sale and leaseback arrangements
 
-**2.**[^key-ae52de7fe535997722d1ba6a944f43f5] A sale and leaseback arrangement is an arrangement under which—
+**2.**[^c-ae52de7fe535997722d1ba6a944f43f5] A sale and leaseback arrangement is an arrangement under which—
 
 - (a) a person (““A””) transfers or grants to another person (““B””) a major interest in land (the ““sale””), and
 - (b) out of that interest B grants a lease to A (the ““leaseback””).
 
 ### Qualifying conditions
 
-**3.**[^key-2aef2e62850604c52ea572449e7f549a] (1) The qualifying conditions are—
+**3.**[^c-2aef2e62850604c52ea572449e7f549a] (1) The qualifying conditions are—
 
 - (a) that the sale transaction is entered into wholly or partly in consideration of the leaseback transaction being entered into,
 - (b) that the only other consideration (if any) for the sale is the payment of money (whether in sterling or another currency) or the assumption, satisfaction or release of a debt (or both),
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d51bff2fd1d3c55972b286a608ac1a09]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/9/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-d51bff2fd1d3c55972b286a608ac1a09]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/9/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-ae52de7fe535997722d1ba6a944f43f5]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/9/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-ae52de7fe535997722d1ba6a944f43f5]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/9/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-2aef2e62850604c52ea572449e7f549a]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/9/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-2aef2e62850604c52ea572449e7f549a]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/9/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

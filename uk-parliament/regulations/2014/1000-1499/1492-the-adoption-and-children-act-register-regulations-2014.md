@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State for Education, makes the following Regulations in exercise of the powers conferred by sections 125(1), (1A) and (4), 128(1), (2) and (5), 129(2A), and (3) and 140(7) and (8) of the Adoption and Children Act 2002[^f00001].
 
-## 1. Citation and commencement[^key-b13a9ef0b4d3b9747a6e55e2612ca449]
+## 1. Citation and commencement[^c-b13a9ef0b4d3b9747a6e55e2612ca449]
 
 These Regulations may be cited as the Adoption and Children Act Register Regulations 2014 and come into force on 25th July 2014.
 
-## 2. Interpretation[^key-79a32c625ccc7aaaa6e4aa1fb14e60d9]
+## 2. Interpretation[^c-79a32c625ccc7aaaa6e4aa1fb14e60d9]
 
 (1) In these Regulations—
 
@@ -60,7 +60,7 @@ These Regulations may be cited as the Adoption and Children Act Register Regulat
 
 (2) Where the Secretary of State has made arrangements with an organisation under section 126(1) of the Act, references to “the Secretary of State” must be read as references to “the registration organisation”.
 
-## 3. The Adoption and Children Act Register[^key-952a2f6d16a37a59d9e486906c9d88b3]
+## 3. The Adoption and Children Act Register[^c-952a2f6d16a37a59d9e486906c9d88b3]
 
 The register[^f00003] may contain—
 
@@ -68,9 +68,9 @@ The register[^f00003] may contain—
 - (b) the information in paragraphs 1 to 12 and 14 to 20 of Schedule 1A to the 2005 Regulations about children for whom a local authority in England is considering adoption[^f00005] (“Part 2 of the register”); and
 - (c) the information in Schedule 4B to the 2005 Regulations about prospective adopters who an adoption agency or a Welsh, Scottish or Northern Irish adoption agency is satisfied are suitable to adopt a child[^f00006] (“Part 3 of the register”).
 
-## 4. Information to be provided for entry in Part 2 of the register[^key-0e2d5a8ccbd5146a6f41d7cece6cb167]
+## 4. Information to be provided for entry in Part 2 of the register[^c-0e2d5a8ccbd5146a6f41d7cece6cb167]
 
-(1)[^key-d7df2f9534e0b7c4fd55635f65870f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-d7df2f9534e0b7c4fd55635f65870f36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where an adoption agency provides information for entry in Part 2 of the register, the agency must confirm to the Secretary of State that it is considering adoption for that child.
 
@@ -78,7 +78,7 @@ The register[^f00003] may contain—
 
 (4) An adoption agency which has provided information about a child to the Secretary of State under this regulation must notify the Secretary of State when the agency has decided to place that child under section 22C(5) of the Children Act 1989[^f00007] with a local authority foster parent who has been approved as a prospective adopter following consideration in accordance with section 22C(9B)(c)[^f00008] of that Act.
 
-## 5. Retention of information[^key-0780250e905dd8fe40f44aee72e48a1b]
+## 5. Retention of information[^c-0780250e905dd8fe40f44aee72e48a1b]
 
 (1) As soon as reasonably practicable after being notified about a child under regulation 19A(3) of the 2005 Regulations, the Secretary of State must remove from Part 1 of the register any information relating to that child.
 
@@ -90,7 +90,7 @@ The register[^f00003] may contain—
 
 (5) The Secretary of State must ensure that the information contained in the register is at all times kept in secure conditions and in particular that all appropriate measures are taken to prevent the theft, unauthorised disclosure, loss or destruction of that information.
 
-## 6. Disclosure of information[^key-728f45ad0b9f1dfe321e40ccd9b44d42]
+## 6. Disclosure of information[^c-728f45ad0b9f1dfe321e40ccd9b44d42]
 
 Any information contained in the register may be disclosed—
 
@@ -103,11 +103,11 @@ Any information contained in the register may be disclosed—
 - (g) to a court for the purposes of making an order under the Act or the Children Act 1989;
 - (h) to the person who provides the web based information service supported and funded by the Department for Education for the purposes of providing information to the public about adoption and the adoption process in England.
 
-## 7. Amendments to the Adoption Agencies Regulations 2005[^key-0543c4b5cd36a85aab4fbf3984a5f30e]
+## 7. Amendments to the Adoption Agencies Regulations 2005[^c-0543c4b5cd36a85aab4fbf3984a5f30e]
 
 The 2005 Regulations are amended as follows.
 
-**8.**[^key-76bad3aa3f5c3a8e55b73cb8e08b8ae6] In regulation 2 (interpretation)—
+**8.**[^c-76bad3aa3f5c3a8e55b73cb8e08b8ae6] In regulation 2 (interpretation)—
 
 - (a) omit the definition of “the Adoption Register”; and
 - (b) at the end insert—
@@ -116,7 +116,7 @@ The 2005 Regulations are amended as follows.
 
   .
 
-**9.**[^key-f6b31b9fdf2ce873552fd55734be46ba] For regulation 19A substitute—
+**9.**[^c-f6b31b9fdf2ce873552fd55734be46ba] For regulation 19A substitute—
 
 > **19A. Information to be provided for entry in Part 1 of the register**
 >
@@ -133,7 +133,7 @@ The 2005 Regulations are amended as follows.
 
 .
 
-**10.**[^key-a9341795ad56f2cd3c6e09d4b365c50c] For regulation 30G substitute—
+**10.**[^c-a9341795ad56f2cd3c6e09d4b365c50c] For regulation 30G substitute—
 
 > **30G. Information to be provided for entry in Part 3 of the register**
 >
@@ -151,7 +151,7 @@ The 2005 Regulations are amended as follows.
 
 .
 
-**11.**[^key-fc541bdbd1d039e25a257f9e3dc736e5] After Schedule 1 insert—
+**11.**[^c-fc541bdbd1d039e25a257f9e3dc736e5] After Schedule 1 insert—
 
 > **SCHEDULE 1A — Information about children suitable for adoption**
 >
@@ -201,7 +201,7 @@ The 2005 Regulations are amended as follows.
 
 .
 
-**12.**[^key-9aac31080b00472dd70016829a0aefd6] After Schedule 4A insert—
+**12.**[^c-9aac31080b00472dd70016829a0aefd6] After Schedule 4A insert—
 
 > **SCHEDULE 4B — Information about prospective adopters who are suitable to adopt a child**
 >
@@ -281,13 +281,13 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2002 c.38](https://www.legislation.gov.uk/ukpga/2002/38). Sections 125, 128 and 129 were amended by the Children and Families Act [2014 (c.6)](https://www.legislation.gov.uk/ukpga/2014/6) (“the 2014 Act”). See section 144(1) for the definition of “regulations” and section 131(1)(b) for thedefinition of “prescribed”.
 
-[^key-b13a9ef0b4d3b9747a6e55e2612ca449]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+[^c-b13a9ef0b4d3b9747a6e55e2612ca449]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
 
-[^key-79a32c625ccc7aaaa6e4aa1fb14e60d9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/1492/regulation/2) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+[^c-79a32c625ccc7aaaa6e4aa1fb14e60d9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/1492/regulation/2) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2005/389](https://www.legislation.gov.uk/uksi/2005/389); amended by [S.I. 2005/3482](https://www.legislation.gov.uk/uksi/2005/3482), [2007/603](https://www.legislation.gov.uk/uksi/2007/603), [2009/1892](https://www.legislation.gov.uk/uksi/2009/1892), [2009/1895](https://www.legislation.gov.uk/uksi/2009/1895), [2010/1172](https://www.legislation.gov.uk/uksi/2010/1172), [2011/589](https://www.legislation.gov.uk/uksi/2011/589), [2012/1410](https://www.legislation.gov.uk/uksi/2012/1410), [2013/235](https://www.legislation.gov.uk/uksi/2013/235), [2013/985](https://www.legislation.gov.uk/uksi/2013/985) and [2014/852](https://www.legislation.gov.uk/uksi/2014/852).
 
-[^key-952a2f6d16a37a59d9e486906c9d88b3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/1492/regulation/3) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+[^c-952a2f6d16a37a59d9e486906c9d88b3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/1492/regulation/3) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
 
 [^f00003]: Footnote: See section 125 of the Act for the meaning of “the register”.
 
@@ -297,17 +297,17 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00006]: Footnote: See section 131(2)(b) and (2A)(b) of the 2002 Act for the definition of “suitable to adopt a child”.
 
-[^key-0e2d5a8ccbd5146a6f41d7cece6cb167]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/1492/regulation/4) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+[^c-0e2d5a8ccbd5146a6f41d7cece6cb167]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/1492/regulation/4) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
 
-[^key-d7df2f9534e0b7c4fd55635f65870f36]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1492/regulation/4/1) omitted (1.5.2019) by virtue of [The Children’s Homes etc. Inspection Fees, Childcare Fees, Adoption and Children Act Register (Amendment) Regulations 2019 (S.I. 2019/835)](https://www.legislation.gov.uk/uksi/2019/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/835/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2019/835/regulation/8)
+[^c-d7df2f9534e0b7c4fd55635f65870f36]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1492/regulation/4/1) omitted (1.5.2019) by virtue of [The Children’s Homes etc. Inspection Fees, Childcare Fees, Adoption and Children Act Register (Amendment) Regulations 2019 (S.I. 2019/835)](https://www.legislation.gov.uk/uksi/2019/835), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/835/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2019/835/regulation/8)
 
 [^f00007]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
 [^f00008]: Footnote: Section 22C was inserted by section 8(1) of the Children and Young Persons Act [2008 (c.23)](https://www.legislation.gov.uk/ukpga/2008/23) and amended by section 2 of the 2014 Act.
 
-[^key-0780250e905dd8fe40f44aee72e48a1b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/1492/regulation/5) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+[^c-0780250e905dd8fe40f44aee72e48a1b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/1492/regulation/5) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
 
-[^key-728f45ad0b9f1dfe321e40ccd9b44d42]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/1492/regulation/6) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+[^c-728f45ad0b9f1dfe321e40ccd9b44d42]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/1492/regulation/6) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
 
 [^f00009]: Footnote: [2004 c.31](https://www.legislation.gov.uk/ukpga/2004/31).
 
@@ -319,18 +319,18 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00013]: Footnote: See section 37 of the Children Act [2004 (c.31)](https://www.legislation.gov.uk/ukpga/2004/31) for the definition of “family proceedings officer”.
 
-[^key-0543c4b5cd36a85aab4fbf3984a5f30e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/1492/regulation/7) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+[^c-0543c4b5cd36a85aab4fbf3984a5f30e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/1492/regulation/7) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
 
-[^key-76bad3aa3f5c3a8e55b73cb8e08b8ae6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/1492/regulation/8) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+[^c-76bad3aa3f5c3a8e55b73cb8e08b8ae6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/1492/regulation/8) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
 
-[^key-f6b31b9fdf2ce873552fd55734be46ba]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/1492/regulation/9) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+[^c-f6b31b9fdf2ce873552fd55734be46ba]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/1492/regulation/9) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
 
-[^key-a9341795ad56f2cd3c6e09d4b365c50c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/1492/regulation/10) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+[^c-a9341795ad56f2cd3c6e09d4b365c50c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/1492/regulation/10) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
 
-[^key-fc541bdbd1d039e25a257f9e3dc736e5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/1492/regulation/11) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+[^c-fc541bdbd1d039e25a257f9e3dc736e5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/1492/regulation/11) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
 
 [^f00014]: Footnote: [1976 c.36](https://www.legislation.gov.uk/ukpga/1976/36). Section 18 was repealed by Schedule 5 to the 2002 Act except in so far as it continues to have effect in respect of orders made under section 18 by virtue of paragraph 7(1) of Schedule 4 to the 2002 Act.
 
 [^f00015]: Footnote: See section 2(6) of the 2002 Act for the definition of “adoption support services”.
 
-[^key-9aac31080b00472dd70016829a0aefd6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/1492/regulation/12) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)
+[^c-9aac31080b00472dd70016829a0aefd6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/1492/regulation/12) in force at 25.7.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/1492/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Debt in a foreign currency[^key-a13c10ef04b429c6efe9390b3a60cdbc]
+## 100. Debt in a foreign currency[^c-a13c10ef04b429c6efe9390b3a60cdbc]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a13c10ef04b429c6efe9390b3a60cdbc]: Commencement: Rule 100 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-a13c10ef04b429c6efe9390b3a60cdbc]: Commencement: Rule 100 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

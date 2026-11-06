@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.27. Discharge and variation[^key-bda7d67018b67a0462935f36fe6d36a7]
+## 5.27. Discharge and variation[^c-bda7d67018b67a0462935f36fe6d36a7]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bda7d67018b67a0462935f36fe6d36a7]: Commencement: Rule 5.27 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-bda7d67018b67a0462935f36fe6d36a7]: Commencement: Rule 5.27 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

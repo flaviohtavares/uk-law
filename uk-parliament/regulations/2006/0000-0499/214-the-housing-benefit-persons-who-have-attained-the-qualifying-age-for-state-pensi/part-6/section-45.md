@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 45. Calculation of capital in the United Kingdom[^key-bc2564425aa4870ccf3a414457023340]
+## 45. Calculation of capital in the United Kingdom[^c-bc2564425aa4870ccf3a414457023340]
 
 Capital which a claimant possesses in the United Kingdom shall be calculated at its current market or surrender value less—
 
@@ -23,4 +23,4 @@ Capital which a claimant possesses in the United Kingdom shall be calculated at 
 
 ## Annotations
 
-[^key-bc2564425aa4870ccf3a414457023340]: Textual amendment: Reg. 45 substituted (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [12(6)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/12/6)
+[^c-bc2564425aa4870ccf3a414457023340]: Textual amendment: Reg. 45 substituted (1.10.2007) by [The Social Security (Miscellaneous Amendments) (No. 5) Regulations 2007 (S.I. 2007/2618)](https://www.legislation.gov.uk/uksi/2007/2618), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/1/1), [12(6)](https://www.legislation.gov.uk/uksi/2007/2618/regulation/12/6)

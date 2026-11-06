@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27ZA. Advice, guidance and assistance to persons arrested or on whom sentence deferred[^key-7b9c58f77ebc7a7e3bcbdc3b38fa7b51]
+## 27ZA. Advice, guidance and assistance to persons arrested or on whom sentence deferred[^c-7b9c58f77ebc7a7e3bcbdc3b38fa7b51]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b9c58f77ebc7a7e3bcbdc3b38fa7b51]: Textual amendment: S. 27ZA inserted (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 71(4)](https://www.legislation.gov.uk/asp/2003/7/section/71/4), [89(2)](https://www.legislation.gov.uk/asp/2003/7/section/89/2); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)
+[^c-7b9c58f77ebc7a7e3bcbdc3b38fa7b51]: Textual amendment: S. 27ZA inserted (27.6.2003) by [Criminal Justice (Scotland) Act 2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), [ss. 71(4)](https://www.legislation.gov.uk/asp/2003/7/section/71/4), [89(2)](https://www.legislation.gov.uk/asp/2003/7/section/89/2); [S.S.I. 2003/288](https://www.legislation.gov.uk/ssi/2003/288), [art. 2](https://www.legislation.gov.uk/ssi/2003/288/article/2), [sch.](https://www.legislation.gov.uk/ssi/2003/288/schedule)

@@ -43,9 +43,9 @@ Coming into force
 
 In exercise of the powers conferred on the Secretary of State by sections 7(1) and (4) and 42(6) and (7) of the Teaching and Higher Education Act 1998[^f00001] and now vested in the National Assembly for Wales[^f00002], the National Assembly for Wales, being of the opinion that the General Teaching Council for Wales may, having regard to their general objectives, appropriately discharge the additional functions hereby conferred and having carried out such consultation as appears to it to be appropriate, makes the following Order:
 
-**1.**[^key-cc43f0e95a28aa2d19a59204ebab37d2] This Order may be cited as the General Teaching Council for Wales (Additional Functions) Order 2000 and shall come into force on 1st September 2000.
+**1.**[^c-cc43f0e95a28aa2d19a59204ebab37d2] This Order may be cited as the General Teaching Council for Wales (Additional Functions) Order 2000 and shall come into force on 1st September 2000.
 
-**2.**[^key-718472f5e2ad5e3026eec0421bb17306] In this Order—
+**2.**[^c-718472f5e2ad5e3026eec0421bb17306] In this Order—
 
 - “the 1988 Act” (“*Deddf 1988*”) means the Education Reform Act 1988[^f00003];
 - “the 1998 Act” (“*Deddf 1998*”) means the Teaching and Higher Education Act 1998;
@@ -60,7 +60,7 @@ In exercise of the powers conferred on the Secretary of State by sections 7(1) a
 - “registered teacher” (“*athro neu athrawes gofrestredig*”) means a person for the time being registered under section 3 of the 1998 Act; and
 - “teacher who has passed the threshold” (“*athro neu athrawes sydd wedi croesi'r trothwy*”) means a teacher who has been certified by an assessor appointed by the Secretary of State for Education and Employment as having passed the performance threshold determined by the Secretary of State, or who has been so certified by a head teacher or other person under arrangements approved by an assessor.
 
-**3.**[^key-7d732ca292d389da4c806e17e8d9dda9] (1) There is hereby conferred on the Council the additional function of maintaining records relating to the categories of persons listed in Part I of the Schedule to this Order.
+**3.**[^c-7d732ca292d389da4c806e17e8d9dda9] (1) There is hereby conferred on the Council the additional function of maintaining records relating to the categories of persons listed in Part I of the Schedule to this Order.
 
 (2) The records mentioned in paragraph (1) shall contain the information listed in Part II of the Schedule to this Order in so far as applicable to the person concerned.
 
@@ -80,42 +80,42 @@ The Presiding Officer of the National Assembly
 
 ### PART I — Persons relating to whom the Council is required to maintain records
 
-**1.**[^key-5d6f79b69ff5276eca774059f8cf282e] Persons whose names have been removed from the Register other than those whose names were removed at their own request or who have died.
+**1.**[^c-5d6f79b69ff5276eca774059f8cf282e] Persons whose names have been removed from the Register other than those whose names were removed at their own request or who have died.
 
-**2.**[^key-13bb79ed6755e9e2faaefe59f14161bb] Persons who are ineligible for registration by virtue of section 3(3)(a) to (c) and (4) of the 1998 Act.
+**2.**[^c-13bb79ed6755e9e2faaefe59f14161bb] Persons who are ineligible for registration by virtue of section 3(3)(a) to (c) and (4) of the 1998 Act.
 
-**3.**[^key-cf8d5a1203ad58ac69dffcb8f5aab50f] Qualified teachers who are not registered teachers.
+**3.**[^c-cf8d5a1203ad58ac69dffcb8f5aab50f] Qualified teachers who are not registered teachers.
 
-**4.**[^key-850d97d2d76693eb3792ead066b41c57] Persons who are not registered teachers who have started a course for the initial training of teachers, whether or not they have completed such course.
+**4.**[^c-850d97d2d76693eb3792ead066b41c57] Persons who are not registered teachers who have started a course for the initial training of teachers, whether or not they have completed such course.
 
-**5.**[^key-81b482d3c39885cbd61f8954e19e5032] Persons who are not qualified teachers who are employed as teachers in schools maintained by a local education authority.
+**5.**[^c-81b482d3c39885cbd61f8954e19e5032] Persons who are not qualified teachers who are employed as teachers in schools maintained by a local education authority.
 
-**6.**[^key-72c7379a3d0599c088adf5eac36080d9] Persons who are not registered teachers who are preparing for, or who have obtained, the National Professional Qualification for Headship.
+**6.**[^c-72c7379a3d0599c088adf5eac36080d9] Persons who are not registered teachers who are preparing for, or who have obtained, the National Professional Qualification for Headship.
 
-**7.**[^key-04c92433c99e6f01df71fb1d9633439d] Persons not falling within any of the above mentioned categories and who are not registered teachers, who–
+**7.**[^c-04c92433c99e6f01df71fb1d9633439d] Persons not falling within any of the above mentioned categories and who are not registered teachers, who–
 
 - (a) have had an official reference number assigned to them; and
 - (b) are, or have at any time been, employed as a teacher at a school or other educational institution.
 
 ### PART II — Information to be contained in the records
 
-**1.**[^key-8d31d02502c245d37ab81946f4f087be] The official reference number, if any, assigned to the person.
+**1.**[^c-8d31d02502c245d37ab81946f4f087be] The official reference number, if any, assigned to the person.
 
-**2.**[^key-e1ec179ded30403f21fc95d73ac44d9b] Whether the person is male or female.
+**2.**[^c-e1ec179ded30403f21fc95d73ac44d9b] Whether the person is male or female.
 
-**3.**[^key-7e2d73ea2c1b5981573bcfb882c0a3c6] The person’s date of birth.
+**3.**[^c-7e2d73ea2c1b5981573bcfb882c0a3c6] The person’s date of birth.
 
-**4.**[^key-e467b9cac5c7cf8967f185cd110c5bb2] If known, any name by which the person was formerly known.
+**4.**[^c-e467b9cac5c7cf8967f185cd110c5bb2] If known, any name by which the person was formerly known.
 
-**5.**[^key-b207d76129846654c49b9a7b5f6df12a] If known, the racial group to which the person belongs.
+**5.**[^c-b207d76129846654c49b9a7b5f6df12a] If known, the racial group to which the person belongs.
 
-**6.**[^key-60a5b0c4bbbbe424d7b3962eab5e7f18] If known, whether the person is disabled.
+**6.**[^c-60a5b0c4bbbbe424d7b3962eab5e7f18] If known, whether the person is disabled.
 
-**7.**[^key-d12269a4d7478301ecce28b9bf2a74fe] The person’s home address, or other contact address, telephone number, facsimile number and electronic mail address.
+**7.**[^c-d12269a4d7478301ecce28b9bf2a74fe] The person’s home address, or other contact address, telephone number, facsimile number and electronic mail address.
 
-**8.**[^key-d6675124c53975b948c4d14ba8d66bf7] The person’s national insurance number.
+**8.**[^c-d6675124c53975b948c4d14ba8d66bf7] The person’s national insurance number.
 
-**9.**[^key-d7661c4d52b5be7e8a3b81f8d1da1c5a] (1) If known, where the person is employed as a teacher—
+**9.**[^c-d7661c4d52b5be7e8a3b81f8d1da1c5a] (1) If known, where the person is employed as a teacher—
 
 - (a) the name, address, telephone and facsimile numbers and electronic mail address of the school or institution at which the person is employed to teach;
 - (b) details of the type of school or institution at which the person is employed to teach and the name of the local education authority maintaining the school or institution if applicable;
@@ -125,9 +125,9 @@ The Presiding Officer of the National Assembly
 
 (2) Where the person is not currently employed as a teacher, the date on which he or she was last so employed, and the details specified in paragraphs (a) to (e) of sub-paragraph (1) in relation to his or her most recent teaching post.
 
-**10.**[^key-2650f130fbcfaa494dd563e05816d32d] If the person is retired, on a career break, unemployed or employed otherwise than as a teacher.
+**10.**[^c-2650f130fbcfaa494dd563e05816d32d] If the person is retired, on a career break, unemployed or employed otherwise than as a teacher.
 
-**11.**[^key-1d09f097592579f3c754b9809bfc292c] Where the person holds a degree or equivalent qualification–
+**11.**[^c-1d09f097592579f3c754b9809bfc292c] Where the person holds a degree or equivalent qualification–
 
 - (a) the date of its award;
 - (b) its title;
@@ -135,11 +135,11 @@ The Presiding Officer of the National Assembly
 - (d) the class of the degree or qualification; and
 - (e) the subject.
 
-**12.**[^key-31b5a2515ea1219ce93bf4c1bcbf6aaf] The date on which the person qualified as a teacher.
+**12.**[^c-31b5a2515ea1219ce93bf4c1bcbf6aaf] The date on which the person qualified as a teacher.
 
-**13.**[^key-fd8536d579f6ad320b846e69e81a3d9c] The date on which the person took up his or her first post as a qualified teacher.
+**13.**[^c-fd8536d579f6ad320b846e69e81a3d9c] The date on which the person took up his or her first post as a qualified teacher.
 
-**14.**[^key-ee4631931f2181de5ebe2b743ec8a273] Where the person has successfully completed a course for the initial training of teachers–
+**14.**[^c-ee4631931f2181de5ebe2b743ec8a273] Where the person has successfully completed a course for the initial training of teachers–
 
 - (a) the name of the institution providing the course;
 - (b) the title or description of the course;
@@ -147,26 +147,26 @@ The Presiding Officer of the National Assembly
 - (d) the ages of pupils the course was designed to prepare the person to teach; and
 - (e) the date on which the course started and was completed.
 
-**15.**[^key-91a5ba9e153f7a6b5c3f393ef5e939c5] Where the person qualified as a teacher other than by successfully completing a course for the initial training of teachers–
+**15.**[^c-91a5ba9e153f7a6b5c3f393ef5e939c5] Where the person qualified as a teacher other than by successfully completing a course for the initial training of teachers–
 
 - (a) the type of training programme completed;
 - (b) the name of the school or institution at which the teacher training was undertaken; and
 - (c) the date on which the training programme was completed.
 
-**16.**[^key-fd8b6e7b7bc038f0134f4b004a87314d] If known,
+**16.**[^c-fd8b6e7b7bc038f0134f4b004a87314d] If known,
 
 - (a) particulars of any qualification held by the person for teaching the visually or hearing impaired such as is referred to in regulation 11, 12 or 13 of the Education (Teachers' Qualifications and Health Standards) (Wales) Regulations 1999[^f00007];
 - (b) where the person has been awarded the National Professional Qualification for Headship, an indication of that fact and the date of the award;
 - (c) particulars of any other academic or professional qualification held by the person; and
 - (d) where the teacher is able to teach through the medium of Welsh, an indication of that fact.
 
-**17.**[^key-28d08fa9c231c5574108df735e2699dd] If known—
+**17.**[^c-28d08fa9c231c5574108df735e2699dd] If known—
 
 - (a) where the person is a teacher who has passed the threshold, an indication of that fact, the date on which the person passed the threshold and the name of the school at which the person was employed when he or she passed the threshold;
 - (b) where the person is an advanced skills teacher, an indication of that fact, the date on which the person was certified as such, and the school at which the person was employed when he or she was certified as an advanced skills teacher;
 - (c) where the person is a fast track teacher, an indication of that fact, the date on which the person joined the fast track, and the school at which the person was employed when he or she joined the fast track.
 
-**18.**[^key-d62674765ac3182774e80f80fe0d9eac] (1) Where the person has served an induction period or part of an induction period, whether in England or in Wales, —
+**18.**[^c-d62674765ac3182774e80f80fe0d9eac] (1) Where the person has served an induction period or part of an induction period, whether in England or in Wales, —
 
 - (a) the identity of the appropriate body (within the meaning of section 19 of the 1998 Act);
 - (b) the date on which the person started the induction period;
@@ -180,17 +180,17 @@ The Presiding Officer of the National Assembly
 - (a) if the person is exempt from the requirement to serve an induction period and the reason for the exemption; or
 - (b) if there was no requirement on the person to serve an induction period at the relevant time, a statement of that fact[^f00008].
 
-**19.**[^key-9f3f5fdeb36c92d71dc11115a0ec20d6] If applicable, an indication that the person has failed a period of probation, and whether the National Assembly or the Secretary of State has consented to his or her employment as a teacher under regulations made under section 218(1) and (2) of the 1988 Act[^f00009].
+**19.**[^c-9f3f5fdeb36c92d71dc11115a0ec20d6] If applicable, an indication that the person has failed a period of probation, and whether the National Assembly or the Secretary of State has consented to his or her employment as a teacher under regulations made under section 218(1) and (2) of the 1988 Act[^f00009].
 
-**20.**[^key-29f67003758cb9484a8fd28dabd6209e] Where the person is a qualified teacher who is ineligible for registration pursuant to section 3(3), and regulations under section 4, of the 1998 Act, particulars of the direction, disciplinary order or other prohibition by virtue of which the person is ineligible for registration.
+**20.**[^c-29f67003758cb9484a8fd28dabd6209e] Where the person is a qualified teacher who is ineligible for registration pursuant to section 3(3), and regulations under section 4, of the 1998 Act, particulars of the direction, disciplinary order or other prohibition by virtue of which the person is ineligible for registration.
 
-**21.**[^key-fcd63f3c4f12c0e25aaae8a0b1f8d7da] Where the person’s name has been removed from the Register, particulars of the grounds on which the person’s name was removed from the Register.
+**21.**[^c-fcd63f3c4f12c0e25aaae8a0b1f8d7da] Where the person’s name has been removed from the Register, particulars of the grounds on which the person’s name was removed from the Register.
 
-**22.**[^key-f57308661f79ea423315a8361593b8f8] The terms of any restriction or particulars of any prohibition for the time being in force in relation to the person as the result of a direction given by the National Assembly or the Secretary of State by virtue of section 218(6) of the 1988 Act[^f00010].
+**22.**[^c-f57308661f79ea423315a8361593b8f8] The terms of any restriction or particulars of any prohibition for the time being in force in relation to the person as the result of a direction given by the National Assembly or the Secretary of State by virtue of section 218(6) of the 1988 Act[^f00010].
 
-**23.**[^key-7b3a3eb6dcfff876695d9839af9fdfed] Terms of any restriction or particulars of any prohibition for the time being in force in relation to the person as a result of disciplinary action taken by the General Teaching Council for Scotland.
+**23.**[^c-7b3a3eb6dcfff876695d9839af9fdfed] Terms of any restriction or particulars of any prohibition for the time being in force in relation to the person as a result of disciplinary action taken by the General Teaching Council for Scotland.
 
-**24.**[^key-0186394309bcf3c0a3ab22769d628994] If applicable, an indication that the person has retired under regulation E4(4) of the Teachers' Pensions Regulations 1997[^f00011] (ill health retirement).
+**24.**[^c-0186394309bcf3c0a3ab22769d628994] If applicable, an indication that the person has retired under regulation E4(4) of the Teachers' Pensions Regulations 1997[^f00011] (ill health retirement).
 
 (This note is not part of the Order)
 
@@ -214,9 +214,9 @@ The information to be included in the records is set out in Part II of the Sched
 
 [^f00002]: Footnote: See the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-cc43f0e95a28aa2d19a59204ebab37d2]: Commencement: Art. 1 in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-cc43f0e95a28aa2d19a59204ebab37d2]: Commencement: Art. 1 in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-718472f5e2ad5e3026eec0421bb17306]: Commencement: Art. 2 in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-718472f5e2ad5e3026eec0421bb17306]: Commencement: Art. 2 in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
 [^f00003]: Footnote: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
 
@@ -224,78 +224,78 @@ The information to be included in the records is set out in Part II of the Sched
 
 [^f00005]: Footnote: At the time of making this Order the regulations in force for Wales under this provision were the Education (Teachers' Qualifications and Health Standards) (Wales) Regulations 1999 (S.I. [1999/2817](https://www.legislation.gov.uk/uksi/1999/2817)). At the time of making this Order the regulations in force for England under this provision were the Education (Teachers' Qualifications and Health Standards) (England) Regulations 1999 (S.I. [1999/2166](https://www.legislation.gov.uk/uksi/1999/2166)).
 
-[^key-7d732ca292d389da4c806e17e8d9dda9]: Commencement: Art. 3 in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-7d732ca292d389da4c806e17e8d9dda9]: Commencement: Art. 3 in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
 [^f00006]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-5d6f79b69ff5276eca774059f8cf282e]: Commencement: [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/1/paragraph/1) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-5d6f79b69ff5276eca774059f8cf282e]: Commencement: [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/1/paragraph/1) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-13bb79ed6755e9e2faaefe59f14161bb]: Commencement: [Sch. Pt. 1 para. 2](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/1/paragraph/2) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-13bb79ed6755e9e2faaefe59f14161bb]: Commencement: [Sch. Pt. 1 para. 2](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/1/paragraph/2) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-cf8d5a1203ad58ac69dffcb8f5aab50f]: Commencement: [Sch. Pt. 1 para. 3](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/1/paragraph/3) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-cf8d5a1203ad58ac69dffcb8f5aab50f]: Commencement: [Sch. Pt. 1 para. 3](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/1/paragraph/3) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-850d97d2d76693eb3792ead066b41c57]: Commencement: [Sch. Pt. 1 para. 4](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/1/paragraph/4) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-850d97d2d76693eb3792ead066b41c57]: Commencement: [Sch. Pt. 1 para. 4](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/1/paragraph/4) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-81b482d3c39885cbd61f8954e19e5032]: Commencement: [Sch. Pt. 1 para. 5](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/1/paragraph/5) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-81b482d3c39885cbd61f8954e19e5032]: Commencement: [Sch. Pt. 1 para. 5](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/1/paragraph/5) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-72c7379a3d0599c088adf5eac36080d9]: Commencement: [Sch. Pt. 1 para. 6](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/1/paragraph/6) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-72c7379a3d0599c088adf5eac36080d9]: Commencement: [Sch. Pt. 1 para. 6](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/1/paragraph/6) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-04c92433c99e6f01df71fb1d9633439d]: Commencement: [Sch. Pt. 1 para. 7](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/1/paragraph/7) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-04c92433c99e6f01df71fb1d9633439d]: Commencement: [Sch. Pt. 1 para. 7](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/1/paragraph/7) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-8d31d02502c245d37ab81946f4f087be]: Commencement: [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/1) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-8d31d02502c245d37ab81946f4f087be]: Commencement: [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/1) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-e1ec179ded30403f21fc95d73ac44d9b]: Commencement: [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/2) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-e1ec179ded30403f21fc95d73ac44d9b]: Commencement: [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/2) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-7e2d73ea2c1b5981573bcfb882c0a3c6]: Commencement: [Sch. Pt. 2 para. 3](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/3) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-7e2d73ea2c1b5981573bcfb882c0a3c6]: Commencement: [Sch. Pt. 2 para. 3](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/3) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-e467b9cac5c7cf8967f185cd110c5bb2]: Commencement: [Sch. Pt. 2 para. 4](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/4) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-e467b9cac5c7cf8967f185cd110c5bb2]: Commencement: [Sch. Pt. 2 para. 4](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/4) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-b207d76129846654c49b9a7b5f6df12a]: Commencement: [Sch. Pt. 2 para. 5](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/5) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-b207d76129846654c49b9a7b5f6df12a]: Commencement: [Sch. Pt. 2 para. 5](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/5) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-60a5b0c4bbbbe424d7b3962eab5e7f18]: Commencement: [Sch. Pt. 2 para. 6](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/6) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-60a5b0c4bbbbe424d7b3962eab5e7f18]: Commencement: [Sch. Pt. 2 para. 6](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/6) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-d12269a4d7478301ecce28b9bf2a74fe]: Commencement: [Sch. Pt. 2 para. 7](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/7) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-d12269a4d7478301ecce28b9bf2a74fe]: Commencement: [Sch. Pt. 2 para. 7](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/7) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-d6675124c53975b948c4d14ba8d66bf7]: Commencement: [Sch. Pt. 2 para. 8](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/8) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-d6675124c53975b948c4d14ba8d66bf7]: Commencement: [Sch. Pt. 2 para. 8](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/8) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-d7661c4d52b5be7e8a3b81f8d1da1c5a]: Commencement: [Sch. Pt. 2 para. 9](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/9) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-d7661c4d52b5be7e8a3b81f8d1da1c5a]: Commencement: [Sch. Pt. 2 para. 9](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/9) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-2650f130fbcfaa494dd563e05816d32d]: Commencement: [Sch. Pt. 2 para. 10](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/10) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-2650f130fbcfaa494dd563e05816d32d]: Commencement: [Sch. Pt. 2 para. 10](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/10) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-1d09f097592579f3c754b9809bfc292c]: Commencement: [Sch. Pt. 2 para. 11](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/11) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-1d09f097592579f3c754b9809bfc292c]: Commencement: [Sch. Pt. 2 para. 11](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/11) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-31b5a2515ea1219ce93bf4c1bcbf6aaf]: Commencement: [Sch. Pt. 2 para. 12](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/12) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-31b5a2515ea1219ce93bf4c1bcbf6aaf]: Commencement: [Sch. Pt. 2 para. 12](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/12) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-fd8536d579f6ad320b846e69e81a3d9c]: Commencement: [Sch. Pt. 2 para. 13](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/13) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-fd8536d579f6ad320b846e69e81a3d9c]: Commencement: [Sch. Pt. 2 para. 13](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/13) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-ee4631931f2181de5ebe2b743ec8a273]: Commencement: [Sch. Pt. 2 para. 14](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/14) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-ee4631931f2181de5ebe2b743ec8a273]: Commencement: [Sch. Pt. 2 para. 14](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/14) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-91a5ba9e153f7a6b5c3f393ef5e939c5]: Commencement: [Sch. Pt. 2 para. 15](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/15) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-91a5ba9e153f7a6b5c3f393ef5e939c5]: Commencement: [Sch. Pt. 2 para. 15](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/15) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-fd8b6e7b7bc038f0134f4b004a87314d]: Commencement: [Sch. Pt. 2 para. 16](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/16) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-fd8b6e7b7bc038f0134f4b004a87314d]: Commencement: [Sch. Pt. 2 para. 16](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/16) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
 [^f00007]: Footnote: S.I. [1999/2817 (W. 18)](https://www.legislation.gov.uk/wsi/1999/2817).
 
-[^key-28d08fa9c231c5574108df735e2699dd]: Commencement: [Sch. Pt. 2 para. 17](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/17) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-28d08fa9c231c5574108df735e2699dd]: Commencement: [Sch. Pt. 2 para. 17](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/17) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-d62674765ac3182774e80f80fe0d9eac]: Commencement: [Sch. Pt. 2 para. 18](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/18) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-d62674765ac3182774e80f80fe0d9eac]: Commencement: [Sch. Pt. 2 para. 18](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/18) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
 [^f00008]: Footnote: When this Order was made, induction was not a requirement for teachers in Wales; no regulations had been made under section 19 of the 1998 Act in relation to Wales. The requirement to have an induction period in England applies from 1st September 1999 (S.I. [1999/1065](https://www.legislation.gov.uk/uksi/1999/1065)).
 
-[^key-9f3f5fdeb36c92d71dc11115a0ec20d6]: Commencement: [Sch. Pt. 2 para. 19](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/19) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-9f3f5fdeb36c92d71dc11115a0ec20d6]: Commencement: [Sch. Pt. 2 para. 19](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/19) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
 [^f00009]: Footnote: See note (b) on page 4 above.
 
-[^key-29f67003758cb9484a8fd28dabd6209e]: Commencement: [Sch. Pt. 2 para. 20](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/20) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-29f67003758cb9484a8fd28dabd6209e]: Commencement: [Sch. Pt. 2 para. 20](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/20) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-fcd63f3c4f12c0e25aaae8a0b1f8d7da]: Commencement: [Sch. Pt. 2 para. 21](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/21) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-fcd63f3c4f12c0e25aaae8a0b1f8d7da]: Commencement: [Sch. Pt. 2 para. 21](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/21) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-f57308661f79ea423315a8361593b8f8]: Commencement: [Sch. Pt. 2 para. 22](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/22) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-f57308661f79ea423315a8361593b8f8]: Commencement: [Sch. Pt. 2 para. 22](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/22) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
 [^f00010]: Footnote: At the time of making this Order the regulations in force under this provision were the Education (Teacher) Regulations 1993 (S.I. [1993/543](https://www.legislation.gov.uk/uksi/1993/543)); the relevant amending instruments are S.I. [1995/2594](https://www.legislation.gov.uk/uksi/1995/2594) and [1998/1584](https://www.legislation.gov.uk/uksi/1998/1584).
 
-[^key-7b3a3eb6dcfff876695d9839af9fdfed]: Commencement: [Sch. Pt. 2 para. 23](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/23) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-7b3a3eb6dcfff876695d9839af9fdfed]: Commencement: [Sch. Pt. 2 para. 23](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/23) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
-[^key-0186394309bcf3c0a3ab22769d628994]: Commencement: [Sch. Pt. 2 para. 24](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/24) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
+[^c-0186394309bcf3c0a3ab22769d628994]: Commencement: [Sch. Pt. 2 para. 24](https://www.legislation.gov.uk/wsi/2000/1941/schedule/part/2/paragraph/24) in force at 1.9.2000, see [art. 1](https://www.legislation.gov.uk/wsi/2000/1941/article/1)
 
 [^f00011]: Footnote: S.I. [1997/3001](https://www.legislation.gov.uk/uksi/1997/3001) to which there are amendments not relevant to this Order.

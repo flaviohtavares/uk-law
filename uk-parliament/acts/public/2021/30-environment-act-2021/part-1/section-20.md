@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Statements about Bills containing new environmental law[^key-0b5d124f6bc0647c8a27944272a6ab90][^key-0a3b34b60811f2154df2640d202d6666]
+## 20. Statements about Bills containing new environmental law[^c-0b5d124f6bc0647c8a27944272a6ab90][^c-0a3b34b60811f2154df2640d202d6666]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b5d124f6bc0647c8a27944272a6ab90]: Commencement: S. 20 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-0b5d124f6bc0647c8a27944272a6ab90]: Commencement: S. 20 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-0a3b34b60811f2154df2640d202d6666]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2021/30/section/20) in force at 10.5.2022 by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/d)
+[^c-0a3b34b60811f2154df2640d202d6666]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2021/30/section/20) in force at 10.5.2022 by [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [2(d)](https://www.legislation.gov.uk/uksi/2022/518/regulation/2/d)

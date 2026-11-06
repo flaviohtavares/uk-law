@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Period of permanent service[^key-3819569a6d1738778edb1687afb302e3]
+## 14. Period of permanent service[^c-3819569a6d1738778edb1687afb302e3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ For the purpose of determining entitlement to payment of benefits to or in respe
 
 ## Annotations
 
-[^key-3819569a6d1738778edb1687afb302e3]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-3819569a6d1738778edb1687afb302e3]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

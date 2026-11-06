@@ -56,8 +56,8 @@ summary: ''
 
 (10) Where, in the case of a cathedral which is or part of which is a parish church, the constitution provided, immediately before the commencement of this section, for the incumbent of the benefice which comprises the parish to be the dean, the constitution must continue so to provide.
 
-(11)[^key-07d7e783f003fb3ffc06856e62fdd4f2] The constitution may include provision in accordance with section 14A for the appointment of a lay person as a residentiary canon of the cathedral.
+(11)[^c-07d7e783f003fb3ffc06856e62fdd4f2] The constitution may include provision in accordance with section 14A for the appointment of a lay person as a residentiary canon of the cathedral.
 
 ## Annotations
 
-[^key-07d7e783f003fb3ffc06856e62fdd4f2]: Textual amendment: [S. 5(11)](https://www.legislation.gov.uk/ukcm/2021/2/section/5/11) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/16)
+[^c-07d7e783f003fb3ffc06856e62fdd4f2]: Textual amendment: [S. 5(11)](https://www.legislation.gov.uk/ukcm/2021/2/section/5/11) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/16)

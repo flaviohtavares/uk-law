@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Training and equality of opportunity[^key-3365479e851967a3c5179722119e8e5f]
+## 27. Training and equality of opportunity[^c-3365479e851967a3c5179722119e8e5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,8 +39,8 @@ summary: ''
 
 (5) In this section—
 
-- “**disabled**” has the same meaning as in the Equality Act 2010 or, in Northern Ireland, *(Extent: E+W+S)*[^key-5c7431f6f985dd70817b3dff8ebfb523] the Disability Discrimination Act 1995 (c. 50);
-- “**racial group**” has the same meaning as in the Race Relations Act 1976 (c. 74) *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-ef5a74423e4c12c6870dd42de566d3db] Equality Act 2010 *(Extent: E+W+S)* or, in Northern Ireland, the Race Relations (Northern Ireland) Order 1997 (S.I. 1997/869 (N.I. 6)).
+- “**disabled**” has the same meaning as in the Equality Act 2010 or, in Northern Ireland, *(Extent: E+W+S)*[^c-5c7431f6f985dd70817b3dff8ebfb523] the Disability Discrimination Act 1995 (c. 50);
+- “**racial group**” has the same meaning as in the Race Relations Act 1976 (c. 74) *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-ef5a74423e4c12c6870dd42de566d3db] Equality Act 2010 *(Extent: E+W+S)* or, in Northern Ireland, the Race Relations (Northern Ireland) Order 1997 (S.I. 1997/869 (N.I. 6)).
 
 (6) The Secretary of State may by order amend subsection (4) by adding any other form of equality of opportunity that he considers appropriate.
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3365479e851967a3c5179722119e8e5f]: Commencement: S. 27 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-3365479e851967a3c5179722119e8e5f]: Commencement: S. 27 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-5c7431f6f985dd70817b3dff8ebfb523]: Textual amendment: Words in s. 27(5) inserted by 2010 c. 15, Sch. 26 Pt. 1 para. 54(a) (as inserted (E.W.S.) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5)) (see S.I. 2010/2317, art. 2)
+[^c-5c7431f6f985dd70817b3dff8ebfb523]: Textual amendment: Words in s. 27(5) inserted by 2010 c. 15, Sch. 26 Pt. 1 para. 54(a) (as inserted (E.W.S.) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5)) (see S.I. 2010/2317, art. 2)
 
-[^key-ef5a74423e4c12c6870dd42de566d3db]: Textual amendment: Words in s. 27(5) substituted by 2010 c. 15, Sch. 26 Pt. 1 para. 54(b) (as inserted (E.W.S.) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5)) (see S.I. 2010/2317, art. 2)
+[^c-ef5a74423e4c12c6870dd42de566d3db]: Textual amendment: Words in s. 27(5) substituted by 2010 c. 15, Sch. 26 Pt. 1 para. 54(b) (as inserted (E.W.S.) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5)) (see S.I. 2010/2317, art. 2)

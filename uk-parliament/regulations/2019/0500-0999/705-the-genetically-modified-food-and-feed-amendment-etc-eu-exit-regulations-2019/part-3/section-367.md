@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 367. Amendment of Commission Implementing Decision (EU) 2017/2453[^key-af7e3622c76b7157b508a0e003f0eb0d]
+## 367. Amendment of Commission Implementing Decision (EU) 2017/2453[^c-af7e3622c76b7157b508a0e003f0eb0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Decision (EU) 2017/2453 of 21 December 2017 authorising 
 
 ## Annotations
 
-[^key-af7e3622c76b7157b508a0e003f0eb0d]: Commencement: Reg. 367 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-af7e3622c76b7157b508a0e003f0eb0d]: Commencement: Reg. 367 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

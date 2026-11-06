@@ -126,7 +126,7 @@ In this Act—
   - (c) any species of bird;
 - “**shellfish**” includes molluscs and crustaceans of any kind found in the sea or inland waters;
 - “**SSFS**” means a Secretary of State fisheries statement;
-- “**subordinate legislation**” means an instrument made under primary legislation or under assimilated direct[^key-132600d55ecc5a2418541be39a0d6468] legislation;
+- “**subordinate legislation**” means an instrument made under primary legislation or under assimilated direct[^c-132600d55ecc5a2418541be39a0d6468] legislation;
 - “**sustainable level**”, in relation to a marine stock, means a level of that stock above biomass levels capable of producing maximum sustainable yield;
 - “**UK fishing boat**” means a fishing boat—
   - (a) which is registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995, or
@@ -138,4 +138,4 @@ In this Act—
 
 ## Annotations
 
-[^key-132600d55ecc5a2418541be39a0d6468]: Textual amendment: Words in [s. 52](https://www.legislation.gov.uk/ukpga/2020/22/section/52) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 94(2)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/94/2/c)
+[^c-132600d55ecc5a2418541be39a0d6468]: Textual amendment: Words in [s. 52](https://www.legislation.gov.uk/ukpga/2020/22/section/52) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 94(2)(c)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/94/2/c)

@@ -24,14 +24,14 @@ Section 9
 
 ### Introduction
 
-**1.**[^key-158a8814c2e847db07bf48aad546fb0a] This Schedule—
+**1.**[^c-158a8814c2e847db07bf48aad546fb0a] This Schedule—
 
 - (a) sets out the circumstances in which a person (the “pensioner”) is entitled to an inherited deferral amount for the purpose of section 9, and
 - (b) determines that amount.
 
 ### Dead spouse or civil partner entitled to old state pension with deferral increase
 
-**2.**[^key-2c85735069441321449ab326410b52ff] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited deferral amount under this paragraph if—
+**2.**[^c-2c85735069441321449ab326410b52ff] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited deferral amount under this paragraph if—
 
 - (a) the spouse or civil partner was entitled to an old state pension with an increase under paragraph 1 or 2A of Schedule 5 to the Contributions and Benefits Act, and
 - (b) the pensioner would, on reaching pensionable age or on the death of the spouse or civil partner, have been entitled to an old state pension if in the relevant provisions of the Contributions and Benefits Act: (i) the words “before 6 April 2016” were omitted, and (ii) any reference to a bereavement allowance included a reference to bereavement support payment under section 30 of this Act.
@@ -42,7 +42,7 @@ Section 9
 
 ### Dead spouse or civil partner's entitlement to old state pension deferred at time of death
 
-**3.**[^key-3b33cf475bba65fd43092ff79584ab02] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited deferral amount under this paragraph if—
+**3.**[^c-3b33cf475bba65fd43092ff79584ab02] (1) A pensioner whose spouse or civil partner has died is entitled to an inherited deferral amount under this paragraph if—
 
 - (a) the spouse or civil partner's entitlement to an old state pension was deferred when he or she died, and
 - (b) the pensioner would, on reaching pensionable age or on the death of the spouse or civil partner, have been entitled to an old state pension if in the relevant provisions of the Contributions and Benefits Act: (i) the words “before 6 April 2016” were omitted, and (ii) any reference to a bereavement allowance included a reference to bereavement support payment under section 30 of this Act.
@@ -59,23 +59,23 @@ Section 9
 
 ### “The relevant provisions” of the Contributions and Benefits Act
 
-**4.**[^key-7919690cda8e6bb286ad540edadf8991] For the purposes of this Schedule “the relevant provisions” of the Contributions and Benefits Act are those mentioned in section 8(9)(b).
+**4.**[^c-7919690cda8e6bb286ad540edadf8991] For the purposes of this Schedule “the relevant provisions” of the Contributions and Benefits Act are those mentioned in section 8(9)(b).
 
 ### Supplementary
 
-**5.**[^key-90706d14f38dd5b0913fd447a00bfa52] When determining entitlement to, or calculating, an inherited deferral amount under this Schedule based on entitlement to an old state pension ignore—
+**5.**[^c-90706d14f38dd5b0913fd447a00bfa52] When determining entitlement to, or calculating, an inherited deferral amount under this Schedule based on entitlement to an old state pension ignore—
 
 - (a) any requirement to make a claim for that pension;
 - (b) any provision suspending payment of, or disqualifying a person from receiving, any amount of that pension.
 
 ## Annotations
 
-[^key-158a8814c2e847db07bf48aad546fb0a]: Commencement: Sch. 5 para. 1 in force at 6.4.2016, see s. 56(1)(4)
+[^c-158a8814c2e847db07bf48aad546fb0a]: Commencement: Sch. 5 para. 1 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-2c85735069441321449ab326410b52ff]: Commencement: Sch. 5 para. 2 in force at 6.4.2016, see s. 56(1)(4)
+[^c-2c85735069441321449ab326410b52ff]: Commencement: Sch. 5 para. 2 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-3b33cf475bba65fd43092ff79584ab02]: Commencement: Sch. 5 para. 3 in force at 6.4.2016, see s. 56(1)(4)
+[^c-3b33cf475bba65fd43092ff79584ab02]: Commencement: Sch. 5 para. 3 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-7919690cda8e6bb286ad540edadf8991]: Commencement: Sch. 5 para. 4 in force at 6.4.2016, see s. 56(1)(4)
+[^c-7919690cda8e6bb286ad540edadf8991]: Commencement: Sch. 5 para. 4 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-90706d14f38dd5b0913fd447a00bfa52]: Commencement: Sch. 5 para. 5 in force at 6.4.2016, see s. 56(1)(4)
+[^c-90706d14f38dd5b0913fd447a00bfa52]: Commencement: Sch. 5 para. 5 in force at 6.4.2016, see s. 56(1)(4)

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 13. Maximum rent[^key-c98ea4f114114b88cb076cfce0376ae1]
+## 13. Maximum rent[^c-c98ea4f114114b88cb076cfce0376ae1]
 
 (1) The maximum rent shall be determined in accordance with paragraphs (2) to (6) where—
 
@@ -45,4 +45,4 @@ in determining the maximum rent the relevant authority shall deduct an amount de
 
 ## Annotations
 
-[^key-c98ea4f114114b88cb076cfce0376ae1]: Textual amendment: Regs. 13-13ZB substituted for reg. 13 (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2007/2869/regulation/6)
+[^c-c98ea4f114114b88cb076cfce0376ae1]: Textual amendment: Regs. 13-13ZB substituted for reg. 13 (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2007/2869/regulation/6)

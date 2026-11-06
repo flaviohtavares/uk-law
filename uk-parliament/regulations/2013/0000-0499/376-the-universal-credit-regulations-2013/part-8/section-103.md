@@ -25,7 +25,7 @@ summary: ''
 - (a) a work search requirement under section 17(1)(a) (to take all reasonable action to obtain paid work etc.); or
 - (b) a work availability requirement under section 18(1).
 
-(2)[^key-7885377c9f2dc3f989e1c8e10f1dba07] The reduction in the circumstances described in the first column of the following table is the period set out in—
+(2)[^c-7885377c9f2dc3f989e1c8e10f1dba07] The reduction in the circumstances described in the first column of the following table is the period set out in—
 
 - (a) the second column, where the claimant is aged 18 or over on the date of the sanctionable failure;
 - (b) the third column, where the claimant is aged 16 or 17 on the date of the sanctionable failure.
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7885377c9f2dc3f989e1c8e10f1dba07]: Textual amendment: Reg. 103(2) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseeker's Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [5(8)](https://www.legislation.gov.uk/uksi/2016/678/regulation/5/8)
+[^c-7885377c9f2dc3f989e1c8e10f1dba07]: Textual amendment: Reg. 103(2) substituted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseeker's Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [5(8)](https://www.legislation.gov.uk/uksi/2016/678/regulation/5/8)

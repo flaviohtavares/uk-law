@@ -32,7 +32,7 @@ summary: ''
 
 Investigatory Powers
 
-The Regulation of Investigatory Powers (Covert Surveillance and Property Interference – Code of Practice) (Scotland) Order 2015 (revoked)[^key-bf739f22030189956b8407b6498d1cd0]
+The Regulation of Investigatory Powers (Covert Surveillance and Property Interference – Code of Practice) (Scotland) Order 2015 (revoked)[^c-bf739f22030189956b8407b6498d1cd0]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 2nd February 2015
 
-[^key-bf739f22030189956b8407b6498d1cd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf739f22030189956b8407b6498d1cd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bf739f22030189956b8407b6498d1cd0]
+## 1. Citation and commencement[^c-bf739f22030189956b8407b6498d1cd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revised code of practice[^key-bf739f22030189956b8407b6498d1cd0]
+## 2. Revised code of practice[^c-bf739f22030189956b8407b6498d1cd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-bf739f22030189956b8407b6498d1cd0]
+## 3. Revocation[^c-bf739f22030189956b8407b6498d1cd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf739f22030189956b8407b6498d1cd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf739f22030189956b8407b6498d1cd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bf739f22030189956b8407b6498d1cd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf739f22030189956b8407b6498d1cd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bf739f22030189956b8407b6498d1cd0]: Textual amendment: Order revoked (28.2.2018) by [The Regulation of Investigatory Powers (Covert Surveillance and Property Interference – Code of Practice) (Scotland) Order 2018 (S.S.I. 2018/54)](https://www.legislation.gov.uk/ssi/2018/54), [arts. 1](https://www.legislation.gov.uk/ssi/2018/54/article/1), [3](https://www.legislation.gov.uk/ssi/2018/54/article/3)
+[^c-bf739f22030189956b8407b6498d1cd0]: Textual amendment: Order revoked (28.2.2018) by [The Regulation of Investigatory Powers (Covert Surveillance and Property Interference – Code of Practice) (Scotland) Order 2018 (S.S.I. 2018/54)](https://www.legislation.gov.uk/ssi/2018/54), [arts. 1](https://www.legislation.gov.uk/ssi/2018/54/article/1), [3](https://www.legislation.gov.uk/ssi/2018/54/article/3)

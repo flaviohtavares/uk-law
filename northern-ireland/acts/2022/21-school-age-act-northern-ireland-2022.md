@@ -35,7 +35,7 @@ An Act to amend the meaning of “compulsory school age” in the Education Orde
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Meaning of “compulsory school age”[^key-497b03aa01c6e7ad8fe964801e5e7d75]
+## 1. Meaning of “compulsory school age”[^c-497b03aa01c6e7ad8fe964801e5e7d75]
 
 (1) In Article 46 of the Education and Libraries (Northern Ireland) Order 1986 (compulsory school age), in paragraph (1), after “sixteen years”, in each place it appears, insert “or, in some deferred cases, seventeen years”.
 
@@ -78,7 +78,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 .
 
-## 2. Consequential amendments[^key-2b8e5e238d455774946f9cbab0c2e972]
+## 2. Consequential amendments[^c-2b8e5e238d455774946f9cbab0c2e972]
 
 (1) In Article 46A of the Education and Libraries (Northern Ireland) Order 1986 (commencement of secondary education), in paragraph (1), in sub-paragraph (a), after “where” insert “, except in a deferred case,”.
 
@@ -115,13 +115,13 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (7) The amendments made by subsections (5) and (6) do not affect the power to make regulations amending or revoking the provision made by those amendments.
 
-## 3. Review[^key-b5177f7efb56bf92429a775f24ee5c84]
+## 3. Review[^c-b5177f7efb56bf92429a775f24ee5c84]
 
 (1) The Department of Education must, before the fifth anniversary of the commencement of this Act, review and make a report on the effectiveness of the definition of “deferred case” contained in the amendment made by section 1(2).
 
 (2) The Department must lay a copy of the report before the Assembly.
 
-## 4. Commencement and short title[^key-2e1fbb7417a0e58da8cd05292dcabb69]
+## 4. Commencement and short title[^c-2e1fbb7417a0e58da8cd05292dcabb69]
 
 (1) This Act comes into operation on the day after Royal Assent.
 
@@ -129,10 +129,10 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Annotations
 
-[^key-497b03aa01c6e7ad8fe964801e5e7d75]: Commencement: S. 1 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/21/section/4/1)
+[^c-497b03aa01c6e7ad8fe964801e5e7d75]: Commencement: S. 1 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/21/section/4/1)
 
-[^key-2b8e5e238d455774946f9cbab0c2e972]: Commencement: S. 2 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/21/section/4/1)
+[^c-2b8e5e238d455774946f9cbab0c2e972]: Commencement: S. 2 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/21/section/4/1)
 
-[^key-b5177f7efb56bf92429a775f24ee5c84]: Commencement: S. 3 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/21/section/4/1)
+[^c-b5177f7efb56bf92429a775f24ee5c84]: Commencement: S. 3 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/21/section/4/1)
 
-[^key-2e1fbb7417a0e58da8cd05292dcabb69]: Commencement: S. 4 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/21/section/4/1)
+[^c-2e1fbb7417a0e58da8cd05292dcabb69]: Commencement: S. 4 in operation at 28.4.2022, see [s. 4(1)](https://www.legislation.gov.uk/nia/2022/21/section/4/1)

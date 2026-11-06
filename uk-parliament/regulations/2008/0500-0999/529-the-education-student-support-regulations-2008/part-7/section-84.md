@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Persons to be treated as eligible students[^key-21a7b8c27d44f9ce1de4281034704b4f]
+## 84. Persons to be treated as eligible students[^c-21a7b8c27d44f9ce1de4281034704b4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ A person is a “person treated as an eligible student” if—
 
 ## Annotations
 
-[^key-21a7b8c27d44f9ce1de4281034704b4f]: Commencement: Reg. 84 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-21a7b8c27d44f9ce1de4281034704b4f]: Commencement: Reg. 84 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

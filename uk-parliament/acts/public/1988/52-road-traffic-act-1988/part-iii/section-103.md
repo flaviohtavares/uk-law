@@ -23,7 +23,7 @@ summary: ''
 (1) A person is guilty of an offence if, while disqualified for holding or obtaining a licence, he—
 
 - (a) obtains a licence, or
-- (b)[^key-8aeab4df4ff3539c610ade97477085d5] drives a motor vehicle on a road.
+- (b)[^c-8aeab4df4ff3539c610ade97477085d5] drives a motor vehicle on a road.
 
 (2) A licence obtained by a person who is disqualified is of no effect (or, where the disqualification relates only to vehicles of a particular class, is of no effect in relation to vehicles of that class).
 
@@ -47,7 +47,7 @@ the references to disqualification for holding or obtaining a licence and drivin
 (1) A person is guilty of an offence if, while disqualified for holding or obtaining a licence, he—
 
 - (a) obtains a licence, or
-- (b)[^key-8aeab4df4ff3539c610ade97477085d5] drives a motor vehicle on a road.
+- (b)[^c-8aeab4df4ff3539c610ade97477085d5] drives a motor vehicle on a road.
 
 (2) A licence obtained by a person who is disqualified is of no effect (or, where the disqualification relates only to vehicles of a particular class, is of no effect in relation to vehicles of that class).
 
@@ -72,7 +72,7 @@ the references to disqualification for holding or obtaining a licence and drivin
 
 [^c13985071]: Textual amendment: S. 103 substituted (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 19](https://www.legislation.gov.uk/ukpga/1991/40/section/19); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 
-[^key-8aeab4df4ff3539c610ade97477085d5]: Modification: S. 103(1)(b) excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
+[^c-8aeab4df4ff3539c610ade97477085d5]: Modification: S. 103(1)(b) excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
 
 [^c13985111]: Textual amendment: S. 103(3) repealed (1.10.2002) by [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30), [s. 107](https://www.legislation.gov.uk/ukpga/2002/30/section/107), [Sch. 7 para. 11(1)(2)](https://www.legislation.gov.uk/ukpga/2002/30/schedule/7/paragraph/11/1/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8); [S.I. 2002/2306](https://www.legislation.gov.uk/uksi/2002/2306), [art. 2(g)(i)-(iii)](https://www.legislation.gov.uk/uksi/2002/2306/article/2/g/i)(a)
 

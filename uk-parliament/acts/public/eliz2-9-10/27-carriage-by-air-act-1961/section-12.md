@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Application to Northern Ireland.[^key-480d90fa606049c6688651383dea2297][^key-f29f6e8a6442e56bd4109cb14e943b93]
+## 12. Application to Northern Ireland.[^c-480d90fa606049c6688651383dea2297][^c-f29f6e8a6442e56bd4109cb14e943b93]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the application of this Act to Northern Ireland any reference to an enactment
 
 ## Annotations
 
-[^key-480d90fa606049c6688651383dea2297]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/12) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/1899/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-480d90fa606049c6688651383dea2297]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/12) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/1899/schedule/1) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
 
-[^key-f29f6e8a6442e56bd4109cb14e943b93]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/12) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))
+[^c-f29f6e8a6442e56bd4109cb14e943b93]: Modification: [S. 12](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/section/12) applied (with modifications) (6.8.2004) by [The Carriage by Air Acts (Application of Provisions) Order 2004 (S.I. 2004/1899)](https://www.legislation.gov.uk/uksi/2004/1899), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2004/1899/article/7/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1899/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1899/schedule/3) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2004/1899/article/1/3), [3](https://www.legislation.gov.uk/uksi/2004/1899/article/3))

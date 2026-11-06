@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. The responsible pharmacist[^M_I_8d9b05a8-edc9-4eeb-81de-0d47fd084f07][^key-1249d3f7d28210735bb88aa70b7999cd]
+## 30. The responsible pharmacist[^M_I_8d9b05a8-edc9-4eeb-81de-0d47fd084f07][^c-1249d3f7d28210735bb88aa70b7999cd]
 
 *Extent: E+W*
 
@@ -71,12 +71,12 @@ summary: ''
 
 (2) In section 77 of the Medicines Act 1968 (c. 67) (annual return of premises to registrar), omit paragraph (b) and the “and” immediately preceding it.
 
-(3)[^key-51f52f9657104df55bda912a7799f042] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-51f52f9657104df55bda912a7799f042] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^M_I_8d9b05a8-edc9-4eeb-81de-0d47fd084f07]: Commencement: S. 30 in force for certain purposes at Royal Assent, see [s. 83](https://www.legislation.gov.uk/ukpga/2006/28/section/83)
 
-[^key-1249d3f7d28210735bb88aa70b7999cd]: Commencement: S. 30 in force at 1.10.2009 in so far as not already in force by [S.I. 2008/2714](https://www.legislation.gov.uk/uksi/2008/2714), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/2714/article/2/b)
+[^c-1249d3f7d28210735bb88aa70b7999cd]: Commencement: S. 30 in force at 1.10.2009 in so far as not already in force by [S.I. 2008/2714](https://www.legislation.gov.uk/uksi/2008/2714), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/2714/article/2/b)
 
-[^key-51f52f9657104df55bda912a7799f042]: Textual amendment: [S. 30(3)](https://www.legislation.gov.uk/ukpga/2006/28/section/30/3) omitted (1.12.2022) by virtue of [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2022/849/schedule/1/paragraph/10); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+[^c-51f52f9657104df55bda912a7799f042]: Textual amendment: [S. 30(3)](https://www.legislation.gov.uk/ukpga/2006/28/section/30/3) omitted (1.12.2022) by virtue of [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2022/849/schedule/1/paragraph/10); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)

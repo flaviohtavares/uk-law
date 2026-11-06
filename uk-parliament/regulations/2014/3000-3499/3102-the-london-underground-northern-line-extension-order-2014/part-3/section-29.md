@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Rights under or over streets[^key-83543776a5c6f1eed4c0c199c3f0b2e0]
+## 29. Rights under or over streets[^c-83543776a5c6f1eed4c0c199c3f0b2e0]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83543776a5c6f1eed4c0c199c3f0b2e0]: Commencement: Art. 29 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-83543776a5c6f1eed4c0c199c3f0b2e0]: Commencement: Art. 29 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

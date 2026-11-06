@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.138A. Trustee’s remuneration where it is not fixed in accordance with Rule 6.138[^key-b6722695903bc95143433356192b7a6e]
+## 6.138A. Trustee’s remuneration where it is not fixed in accordance with Rule 6.138[^c-b6722695903bc95143433356192b7a6e]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6722695903bc95143433356192b7a6e]: Textual amendment: [Rule 6.138A](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.138A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [34](https://www.legislation.gov.uk/uksi/2004/584/article/34)
+[^c-b6722695903bc95143433356192b7a6e]: Textual amendment: [Rule 6.138A](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.138A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rules 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [34](https://www.legislation.gov.uk/uksi/2004/584/article/34)

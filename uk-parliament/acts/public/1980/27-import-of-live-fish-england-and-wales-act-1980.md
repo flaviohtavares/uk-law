@@ -33,11 +33,11 @@ An Act to restrict in England and Wales the import, keeping or release of live f
 
 \[15th May 1980\] [^c737409][^c737410]
 
-## 1. Power to limit the import etc. of fish and fish eggs.[^key-6c777fdbd5d0c2592455424a4dd447a4]
+## 1. Power to limit the import etc. of fish and fish eggs.[^c-6c777fdbd5d0c2592455424a4dd447a4]
 
 (1) [^c2107615]. . . subject to subsection (2) below, the Minister may by order forbid either absolutely or except under a licence granted under this section, the import into, or the keeping or the release, in any part of England and Wales of live fish, or the live eggs of fish, of a species which is not native to England and Wales and which in the opinion of the Minister might compete with, displace, prey on or harm the habitat of any freshwater fish, shellfish or salmon in England and Wales.
 
-(2) Before determining whether or not to make an order under this section, the Minister shall consult Natural England[^c2107613] ,the Natural Resources Body for Wales[^key-f37ed279c392233e162eb7aa3181c0f5] and any other person with whom the Minister considers that consultation is appropriate.
+(2) Before determining whether or not to make an order under this section, the Minister shall consult Natural England[^c2107613] ,the Natural Resources Body for Wales[^c-f37ed279c392233e162eb7aa3181c0f5] and any other person with whom the Minister considers that consultation is appropriate.
 
 (3) The Minister may, subject to such conditions as he thinks fit, grant a licence to any person to import keep or release[^c737420] live fish, or the live eggs of fish, of a species specified in an order under this section and the Minister may revoke or vary any such licence.
 
@@ -63,7 +63,7 @@ An Act to restrict in England and Wales the import, keeping or release of live f
 
 shall be guilty of an offence under this Act and shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale[^c737424].
 
-(2)[^key-d79de7e3e5ed67157dfdc9ff7230dec9] A person shall not be guilty of an offence under this Act in respect of any act if he does the act for some scientific or research purpose authorised by the Minister.
+(2)[^c-d79de7e3e5ed67157dfdc9ff7230dec9] A person shall not be guilty of an offence under this Act in respect of any act if he does the act for some scientific or research purpose authorised by the Minister.
 
 (3) The Court by whom any person is convicted of an offence under paragraph (*a*) or (*b*) of subsection (1) above may[^c737425] order any fish or eggs in respect of which the offence was committed to be forfeited and destroyed.
 
@@ -94,13 +94,13 @@ In this Act—
 
 [^c737410]: Modification: Act: power to transfer certain functions conferred (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-6c777fdbd5d0c2592455424a4dd447a4]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1980/27/section/1) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-6c777fdbd5d0c2592455424a4dd447a4]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1980/27/section/1) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c2107615]: Textual amendment: Words in s. 1(1) omitted (27.3.2009) by virtue of [The Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 45](https://www.legislation.gov.uk/uksi/2009/463/regulation/45), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/5)
 
 [^c2107613]: Textual amendment: Words in s. 1(2) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 62](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/62); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-f37ed279c392233e162eb7aa3181c0f5]: Textual amendment: Words in s. 1(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 158](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/158) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-f37ed279c392233e162eb7aa3181c0f5]: Textual amendment: Words in s. 1(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 158](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/158) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c737420]: Textual amendment: Words substituted by [Fisheries Act 1981 (c. 29, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1981/29), [s. 37(2)](https://www.legislation.gov.uk/ukpga/1981/29/section/37/2)
 
@@ -110,6 +110,6 @@ In this Act—
 
 [^c737424]: Textual amendment: Words substituted by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)
 
-[^key-d79de7e3e5ed67157dfdc9ff7230dec9]: Modification: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1980/27/section/3/2) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-d79de7e3e5ed67157dfdc9ff7230dec9]: Modification: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1980/27/section/3/2) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c737425]: Textual amendment: Word substituted by [Fisheries Act 1981 (c. 29, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1981/29), [s. 37(4)](https://www.legislation.gov.uk/ukpga/1981/29/section/37/4)

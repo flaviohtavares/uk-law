@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Notice of charge and payment[^key-8b6408d321ea5109d9cf4d474104d8a0]
+## 114. Notice of charge and payment[^c-8b6408d321ea5109d9cf4d474104d8a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 4A(1)(a)(ii) (notice of charge and payment)[^f00109] for “a reco
 
 ## Annotations
 
-[^key-8b6408d321ea5109d9cf4d474104d8a0]: Commencement: Art. 114 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-8b6408d321ea5109d9cf4d474104d8a0]: Commencement: Art. 114 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00109]: Footnote: Regulation 4A was inserted by regulation 5 of S.I. [1997/2430](https://www.legislation.gov.uk/uksi/1997/2430).

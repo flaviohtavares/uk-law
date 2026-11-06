@@ -22,18 +22,18 @@ summary: ''
 
 Article 24
 
-### 1. Compensation enactments[^key-45b2d1805d13cd6d5f2d7548ba45f608]
+### 1. Compensation enactments[^c-45b2d1805d13cd6d5f2d7548ba45f608]
 
 The enactments for the time being in force with respect to compensation for the compulsory purchase of land are to apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right or restrictive covenant as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-726fb42d64220766038d47ad8fe0946c] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973 [^c24052751] has effect subject to the modifications set out in sub-paragraph (2).
+**2.**[^c-726fb42d64220766038d47ad8fe0946c] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973 [^c24052751] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 of the 1965 Act as substituted by paragraph 5—
 
 - (a) for “land is acquired or taken from” substitute “ a right or restrictive covenant over land is purchased from or imposed on ”; and
 - (b) for “acquired or taken from him” substitute “ over which the right is exercisable or the restrictive covenant enforceable ”.
 
-**3.**[^key-8967575c3b9b87d435e81e72f04e4cb0] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1961 has effect subject to the modification set out in paragraph 2(2).
+**3.**[^c-8967575c3b9b87d435e81e72f04e4cb0] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1961 has effect subject to the modification set out in paragraph 2(2).
 
 (2) For section 5A(5A) (relevant valuation date) of the 1961 Act, after “if” substitute—
 
@@ -45,14 +45,14 @@ The enactments for the time being in force with respect to compensation for the 
 
 .
 
-### 4. Application of Part 1 of the 1965 Act[^key-e289e349614dfd62116a64e52605e0fc]
+### 4. Application of Part 1 of the 1965 Act[^c-e289e349614dfd62116a64e52605e0fc]
 
 Part 1 (compulsory purchase under Acquisition of Land Act of 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 29) to the acquisition of land under article 22, applies to the compulsory acquisition of a right by the creation of a new right under article 24—
 
 - (a) with the modifications specified in paragraph 5; and
 - (b) with such other modifications as may be necessary.
 
-**5.**[^key-227766dd858717635a24741df85f213c] (1) The modifications referred to in paragraph 4(a) are as follows.
+**5.**[^c-227766dd858717635a24741df85f213c] (1) The modifications referred to in paragraph 4(a) are as follows.
 
 (2) References in the 1965 Act to land are, in the appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -141,14 +141,14 @@ are modified to secure that, as against persons with interests in the land which
 
 ## Annotations
 
-[^key-45b2d1805d13cd6d5f2d7548ba45f608]: Commencement: Sch. 8 para. 1 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-45b2d1805d13cd6d5f2d7548ba45f608]: Commencement: Sch. 8 para. 1 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-726fb42d64220766038d47ad8fe0946c]: Commencement: Sch. 8 para. 2 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-726fb42d64220766038d47ad8fe0946c]: Commencement: Sch. 8 para. 2 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
 [^c24052751]: Marginal citation: [1973 c.26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-8967575c3b9b87d435e81e72f04e4cb0]: Commencement: Sch. 8 para. 3 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-8967575c3b9b87d435e81e72f04e4cb0]: Commencement: Sch. 8 para. 3 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-e289e349614dfd62116a64e52605e0fc]: Commencement: Sch. 8 para. 4 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-e289e349614dfd62116a64e52605e0fc]: Commencement: Sch. 8 para. 4 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-227766dd858717635a24741df85f213c]: Commencement: Sch. 8 para. 5 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-227766dd858717635a24741df85f213c]: Commencement: Sch. 8 para. 5 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)

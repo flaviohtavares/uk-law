@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Risks of explosion in coal mines[^key-43baded9a2cdf91ca08fcde5a0890f3f]
+## 26. Risks of explosion in coal mines[^c-43baded9a2cdf91ca08fcde5a0890f3f]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The mine operator must ensure that (where necessary) there are in place—
 
 ## Annotations
 
-[^key-43baded9a2cdf91ca08fcde5a0890f3f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2014/3248/regulation/26) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-43baded9a2cdf91ca08fcde5a0890f3f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2014/3248/regulation/26) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

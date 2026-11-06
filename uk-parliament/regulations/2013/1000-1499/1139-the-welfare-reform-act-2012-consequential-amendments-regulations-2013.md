@@ -30,81 +30,81 @@ summary: ''
 
 Social Security
 
-The Welfare Reform Act 2012 (Consequential Amendments) Regulations 2013 *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+The Welfare Reform Act 2012 (Consequential Amendments) Regulations 2013 *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-Made *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+Made *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-14th May 2013 *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+14th May 2013 *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-Laid before Parliament *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+Laid before Parliament *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-20th May 2013 *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+20th May 2013 *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-Coming into force *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+Coming into force *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-10th June 2013 *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+10th June 2013 *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by section 32 of the Welfare Reform Act 2012 *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a][^f00001]. *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+The Secretary of State for Work and Pensions makes the following Regulations in exercise of the powers conferred by section 32 of the Welfare Reform Act 2012 *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a][^f00001]. *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-This instrument contains only regulations made by virtue of section 32 of the Welfare Reform Act 2012 and is made before the end of the period of 6 months beginning with the coming into force of that section. *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+This instrument contains only regulations made by virtue of section 32 of the Welfare Reform Act 2012 and is made before the end of the period of 6 months beginning with the coming into force of that section. *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-In accordance with section 176(2)(b) of the Social Security Administration Act 1992 *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a][^f00002], the Secretary of State has obtained the agreement of organisations appearing to him to be representative of the authorities concerned that proposals in respect of these Regulations should not be referred to them. *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+In accordance with section 176(2)(b) of the Social Security Administration Act 1992 *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a][^f00002], the Secretary of State has obtained the agreement of organisations appearing to him to be representative of the authorities concerned that proposals in respect of these Regulations should not be referred to them. *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-## 1. Citation and commencement[^key-91d40965be7d109b5a212c555f72ccc6]
+## 1. Citation and commencement[^c-91d40965be7d109b5a212c555f72ccc6]
 
-These Regulations may be cited as the Welfare Reform Act 2012 (Consequential Amendments) Regulations 2013 and come into force on 10th June 2013. *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+These Regulations may be cited as the Welfare Reform Act 2012 (Consequential Amendments) Regulations 2013 and come into force on 10th June 2013. *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-## 2. Amendment of the Discretionary Financial Assistance Regulations 2001[^key-5fb91ed579682cec5fdb0d9ff37febc5]
+## 2. Amendment of the Discretionary Financial Assistance Regulations 2001[^c-5fb91ed579682cec5fdb0d9ff37febc5]
 
-(1 (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] The Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a][^f00003] are amended as follows. *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+(1 (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] The Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a][^f00003] are amended as follows. *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-(2 (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] In regulation 1(2) *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a][^f00004] (interpretation) after the definition of “the Housing Benefit (State Pension Credit) Regulations” add— *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+(2 (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] In regulation 1(2) *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a][^f00004] (interpretation) after the definition of “the Housing Benefit (State Pension Credit) Regulations” add— *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-> - “the *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a] Universal Credit Regulations *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]” means the Universal Credit Regulations 2013 *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a][^f00005]; *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
-> - “relevant award of universal credit” means an award of universal credit the calculation of which includes an amount under section 11 of the Welfare Reform Act 2012, calculated in accordance with Schedule 4 to the Universal Credit Regulations, or would include such an amount but for paragraph 3(e) of Schedule 1 to those Regulations; *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
-> - “universal credit” means universal credit under Part 1 of the Welfare Reform Act *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]  2012. *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+> - “the *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a] Universal Credit Regulations *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]” means the Universal Credit Regulations 2013 *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a][^f00005]; *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
+> - “relevant award of universal credit” means an award of universal credit the calculation of which includes an amount under section 11 of the Welfare Reform Act 2012, calculated in accordance with Schedule 4 to the Universal Credit Regulations, or would include such an amount but for paragraph 3(e) of Schedule 1 to those Regulations; *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
+> - “universal credit” means universal credit under Part 1 of the Welfare Reform Act *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]  2012. *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-(3 (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] In regulation 2 *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a][^f00006] (discretionary housing payments)— *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+(3 (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] In regulation 2 *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a][^f00006] (discretionary housing payments)— *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] in paragraph (1)(a) after “housing benefit or” insert “a relevant award of universal credit”; *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
-- (b (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] in paragraph (3)(b) after “housing benefit” insert “or a relevant award of universal credit”. *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+- (a (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] in paragraph (1)(a) after “housing benefit or” insert “a relevant award of universal credit”; *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
+- (b (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] in paragraph (3)(b) after “housing benefit” insert “or a relevant award of universal credit”. *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-(4 (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] In regulation 3 (circumstances in which discretionary housing payments may be made)— *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+(4 (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] In regulation 3 (circumstances in which discretionary housing payments may be made)— *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] after paragraph (a) insert— *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+- (a (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] after paragraph (a) insert— *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-  > - (aa (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] a liability to meet any payment in respect of service charges other than a payment listed in paragraph 7 of Schedule 1 to the Universal Credit Regulations; *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+  > - (aa (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] a liability to meet any payment in respect of service charges other than a payment listed in paragraph 7 of Schedule 1 to the Universal Credit Regulations; *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-  ; *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
-- (b (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] after paragraph (n) *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a][^f00007] add— *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+  ; *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
+- (b (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] after paragraph (n) *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a][^f00007] add— *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-  > - (o (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] a reduction in the amount of universal credit due to recovery of an overpayment pursuant to section 71ZB of the Social Security Administration Act 1992 *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a][^f00008]; *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
-  > - (p (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] a reduction in the amount of universal credit pursuant to a decision made under section 26 or 27 of the Welfare Reform Act 2012. *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+  > - (o (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] a reduction in the amount of universal credit due to recovery of an overpayment pursuant to section 71ZB of the Social Security Administration Act 1992 *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a][^f00008]; *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
+  > - (p (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] a reduction in the amount of universal credit pursuant to a decision made under section 26 or 27 of the Welfare Reform Act 2012. *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-  . *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+  . *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-(5 (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] For regulation 4 *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a][^f00009] (limit on the amount of the discretionary housing payment that may be made) substitute— *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+(5 (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] For regulation 4 *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a][^f00009] (limit on the amount of the discretionary housing payment that may be made) substitute— *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-> **4 (Extent: E) (affected by repeal, see note).**[^key-968eaac3213ad2ab2b5b10041ec1899a] (1 (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] Where a person is entitled to housing benefit the amount of the discretionary housing payment (if calculated as a weekly sum) shall not exceed— *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+> **4 (Extent: E) (affected by repeal, see note).**[^c-968eaac3213ad2ab2b5b10041ec1899a] (1 (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] Where a person is entitled to housing benefit the amount of the discretionary housing payment (if calculated as a weekly sum) shall not exceed— *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 >
-> - (a (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] the aggregate of the payments specified in regulation 12(1) of the Housing Benefit Regulations less the aggregate of the amounts referred to in regulation 12B(2) of those Regulations calculated on a weekly basis in accordance with regulations 80 and 81 of those Regulations; or *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
-> - (b (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] the aggregate of the payments specified in regulation 12(1) of the Housing Benefit (State Pension Credit) Regulations less the aggregate of the amounts referred to in regulation 12B(2) of those Regulations, calculated on a weekly basis in accordance with regulations 61 and 62 of those Regulations. *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+> - (a (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] the aggregate of the payments specified in regulation 12(1) of the Housing Benefit Regulations less the aggregate of the amounts referred to in regulation 12B(2) of those Regulations calculated on a weekly basis in accordance with regulations 80 and 81 of those Regulations; or *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
+> - (b (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] the aggregate of the payments specified in regulation 12(1) of the Housing Benefit (State Pension Credit) Regulations less the aggregate of the amounts referred to in regulation 12B(2) of those Regulations, calculated on a weekly basis in accordance with regulations 61 and 62 of those Regulations. *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 >
-> (2 (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] Where a person is entitled to a relevant award of universal credit the amount of the discretionary housing payment (if calculated as a monthly sum) shall not exceed— *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+> (2 (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] Where a person is entitled to a relevant award of universal credit the amount of the discretionary housing payment (if calculated as a monthly sum) shall not exceed— *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 >
-> - (a (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] the amount calculated in accordance with Schedule 4 to the Universal Credit Regulations; or *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
-> - (b (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] where paragraph 3(e) of Schedule 1 to the Universal Credit Regulations applies, the aggregate of the payments referred to in paragraph 3 of Schedule 4 to those Regulations, calculated on a monthly basis. *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+> - (a (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] the amount calculated in accordance with Schedule 4 to the Universal Credit Regulations; or *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
+> - (b (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] where paragraph 3(e) of Schedule 1 to the Universal Credit Regulations applies, the aggregate of the payments referred to in paragraph 3 of Schedule 4 to those Regulations, calculated on a monthly basis. *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-(6 (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] In regulation 5 *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a][^f00010] (period for, or in respect of which, discretionary housing payments may be made) in paragraph (2) after “housing benefit or” insert “relevant award of universal credit”. *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+(6 (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] In regulation 5 *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a][^f00010] (period for, or in respect of which, discretionary housing payments may be made) in paragraph (2) after “housing benefit or” insert “relevant award of universal credit”. *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-(7 (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] In regulation 6 *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a][^f00011] (form, manner and procedure for claims)— *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+(7 (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] In regulation 6 *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a][^f00011] (form, manner and procedure for claims)— *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] in paragraph (1)(b)(i) after “housing benefit or” insert “relevant award of universal credit”; *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
-- (b (Extent: E) (affected by repeal, see note))[^key-968eaac3213ad2ab2b5b10041ec1899a] in paragraph (2) after “housing benefit or” insert “relevant award of universal credit”. *(Extent: E)* *(affected by repeal, see note)*[^key-968eaac3213ad2ab2b5b10041ec1899a]
+- (a (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] in paragraph (1)(b)(i) after “housing benefit or” insert “relevant award of universal credit”; *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
+- (b (Extent: E) (affected by repeal, see note))[^c-968eaac3213ad2ab2b5b10041ec1899a] in paragraph (2) after “housing benefit or” insert “relevant award of universal credit”. *(Extent: E)* *(affected by repeal, see note)*[^c-968eaac3213ad2ab2b5b10041ec1899a]
 
 Signed by authority of the Secretary of State for Work and Pensions
 
@@ -130,15 +130,15 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 ## Annotations
 
-[^key-968eaac3213ad2ab2b5b10041ec1899a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1139) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
+[^c-968eaac3213ad2ab2b5b10041ec1899a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/1139) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
 
 [^f00001]: Footnote: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
 
 [^f00002]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-91d40965be7d109b5a212c555f72ccc6]: Commencement: Reg. 1 in force at 10.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1139/regulation/1)
+[^c-91d40965be7d109b5a212c555f72ccc6]: Commencement: Reg. 1 in force at 10.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1139/regulation/1)
 
-[^key-5fb91ed579682cec5fdb0d9ff37febc5]: Commencement: Reg. 2 in force at 10.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1139/regulation/1)
+[^c-5fb91ed579682cec5fdb0d9ff37febc5]: Commencement: Reg. 2 in force at 10.6.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1139/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2001/1167](https://www.legislation.gov.uk/uksi/2001/1167).
 

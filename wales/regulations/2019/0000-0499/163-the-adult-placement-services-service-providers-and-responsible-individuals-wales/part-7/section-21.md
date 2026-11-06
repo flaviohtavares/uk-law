@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Safeguarding – overarching requirement[^key-1c3093f515a0fe42ee6bf790a890e938]
+## 21. Safeguarding – overarching requirement[^c-1c3093f515a0fe42ee6bf790a890e938]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must put arrangements in place to ensure that individuals a
 
 ## Annotations
 
-[^key-1c3093f515a0fe42ee6bf790a890e938]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2019/163/regulation/21) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-1c3093f515a0fe42ee6bf790a890e938]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2019/163/regulation/21) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

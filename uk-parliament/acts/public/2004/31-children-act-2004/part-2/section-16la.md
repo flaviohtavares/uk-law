@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16LA. Duty to share information[^key-2e20cad419654c2c935dad7dd1fc51c4]
+## 16LA. Duty to share information[^c-2e20cad419654c2c935dad7dd1fc51c4]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e20cad419654c2c935dad7dd1fc51c4]: Textual amendment: Ss. 16LA-16LD and cross-heading inserted (29.4.2026 so far as it confers or relates to a power to make regulations; 30.9.2026 the insertion of ss. 16LA, 16LB; and otherwise prosp.) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 4](https://www.legislation.gov.uk/ukpga/2026/21/section/4), [78(1)(a)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2026/803/regulation/6/a)
+[^c-2e20cad419654c2c935dad7dd1fc51c4]: Textual amendment: Ss. 16LA-16LD and cross-heading inserted (29.4.2026 so far as it confers or relates to a power to make regulations; 30.9.2026 the insertion of ss. 16LA, 16LB; and otherwise prosp.) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 4](https://www.legislation.gov.uk/ukpga/2026/21/section/4), [78(1)(a)(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 6(a)](https://www.legislation.gov.uk/uksi/2026/803/regulation/6/a)

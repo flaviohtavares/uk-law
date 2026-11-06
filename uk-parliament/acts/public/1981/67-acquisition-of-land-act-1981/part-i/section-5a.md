@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Power to require information[^key-f86d15d3d35468300dee6430695fdcc5][^key-f8af215601e813d6d2eb118e780a6439][^key-1c9073dc7fffef29345a68238274c654]
+## 5A. Power to require information[^c-f86d15d3d35468300dee6430695fdcc5][^c-f8af215601e813d6d2eb118e780a6439][^c-1c9073dc7fffef29345a68238274c654]
 
 *Extent: E+W*
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f86d15d3d35468300dee6430695fdcc5]: Modification: S. 5A power to apply (with modifications) conferred (16.7.2014 for E. for specified purposes, 2.12.2014 for E. in so far as not already in force) by [Business Rate Supplements Act 2009 (c. 7)](https://www.legislation.gov.uk/ukpga/2009/7), [s. 32](https://www.legislation.gov.uk/ukpga/2009/7/section/32), [Sch. 2 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/8/2/a) (with [s. 31](https://www.legislation.gov.uk/ukpga/2009/7/section/31)); [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2); S.I. 2014/3200, art. 2
+[^c-f86d15d3d35468300dee6430695fdcc5]: Modification: S. 5A power to apply (with modifications) conferred (16.7.2014 for E. for specified purposes, 2.12.2014 for E. in so far as not already in force) by [Business Rate Supplements Act 2009 (c. 7)](https://www.legislation.gov.uk/ukpga/2009/7), [s. 32](https://www.legislation.gov.uk/ukpga/2009/7/section/32), [Sch. 2 para. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2009/7/schedule/2/paragraph/8/2/a) (with [s. 31](https://www.legislation.gov.uk/ukpga/2009/7/section/31)); [S.I. 2014/1860](https://www.legislation.gov.uk/uksi/2014/1860), [art. 2](https://www.legislation.gov.uk/uksi/2014/1860/article/2); S.I. 2014/3200, art. 2
 
-[^key-f8af215601e813d6d2eb118e780a6439]: Modification: [S. 5A](https://www.legislation.gov.uk/ukpga/1981/67/section/5A) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 7 para. 4(2)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/7/paragraph/4/2)
+[^c-f8af215601e813d6d2eb118e780a6439]: Modification: [S. 5A](https://www.legislation.gov.uk/ukpga/1981/67/section/5A) modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 7 para. 4(2)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/7/paragraph/4/2)
 
-[^key-1c9073dc7fffef29345a68238274c654]: Textual amendment: Ss. 5A, 5B inserted (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 105(2)](https://www.legislation.gov.uk/ukpga/2004/5/section/105/2); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-1c9073dc7fffef29345a68238274c654]: Textual amendment: Ss. 5A, 5B inserted (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 105(2)](https://www.legislation.gov.uk/ukpga/2004/5/section/105/2); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

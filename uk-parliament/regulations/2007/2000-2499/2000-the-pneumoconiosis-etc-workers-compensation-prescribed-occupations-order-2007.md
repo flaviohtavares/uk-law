@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State for Work and Pensions makes the following Order in exercise of the powers conferred on him by paragraph 8(1) of the Schedule to the Pneumoconiosis etc. (Workers’ Compensation) Act 1979[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-c8dfaff5e0e65b490aa33be6c50c00ef]
+## 1. Citation, commencement and interpretation[^c-c8dfaff5e0e65b490aa33be6c50c00ef]
 
 (1) This Order may be cited as the Pneumoconiosis etc. (Workers’ Compensation) (Prescribed Occupations) Order 2007 and shall come into force on the 10th August 2007.
 
@@ -60,7 +60,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 - “mine” includes every shaft in the course of being sunk, and every level and inclined plane in the course of being driven, and all the shafts, levels, planes, works, tramways and sidings, both below ground and above ground, in and adjacent to and belonging to the mine, but does not include any part of such premises on which any manufacturing process is carried on other than a process ancillary to the getting or dressing of minerals or the preparation of minerals for sale;
 - “silica rock” means quartz, quartzite, ganister, sandstone, gritstone and chert, but not natural sand or rotten rock.
 
-## 2. Prescribed occupations[^key-423616beaa2a7fac66fe4325e528e750]
+## 2. Prescribed occupations[^c-423616beaa2a7fac66fe4325e528e750]
 
 For the purposes of paragraph 8(1) of the Schedule to the Act, the occupations prescribed in relation to the diseases to which the Act applies are set out in the Schedule to this Order.
 
@@ -80,51 +80,51 @@ Article 2
 
 ### PART 1 — Occupations prescribed in relation to Pneumoconiosis
 
-**1.**[^key-654cced668d79d10207580d9755da984] Any occupation involving—
+**1.**[^c-654cced668d79d10207580d9755da984] Any occupation involving—
 
 - (a) the mining, quarrying or working of silica rock or the working of dried quartzose sand or any dry deposit or dry residue of silica or any dry admixture containing such materials (including any occupation in which any of the aforesaid operations are carried out incidentally to the mining or quarrying of other materials or to the manufacture of articles containing crushed or ground silica rock);
 - (b) the handling of any of the material specified in sub-paragraph (a) in or incidental to any of the operations mentioned in that sub-paragraph, or substantial exposure to the dust arising from such operations.
 
-**2.**[^key-759a13bbde13eca98e3d3f3adeb29364] Any occupation involving the breaking, crushing or grinding of flint or the working or handling of broken, crushed or ground flint or materials containing such flint, or substantial exposure to the dust arising from such operations.
+**2.**[^c-759a13bbde13eca98e3d3f3adeb29364] Any occupation involving the breaking, crushing or grinding of flint or the working or handling of broken, crushed or ground flint or materials containing such flint, or substantial exposure to the dust arising from such operations.
 
-**3.**[^key-34aed56a08a16f69f11c2c53410e04a0] Any occupation involving sand blasting by means of compressed air with the use of quartzose sand or crushed silica rock or flint, or substantial exposure to the dust arising from sand and blasting.
+**3.**[^c-34aed56a08a16f69f11c2c53410e04a0] Any occupation involving sand blasting by means of compressed air with the use of quartzose sand or crushed silica rock or flint, or substantial exposure to the dust arising from sand and blasting.
 
-**4.**[^key-3624d5aaa5bbe35821669df68ccedeae] Any occupation involving work in a foundry or the performance of, or substantial exposure to the dust arising from, any of the following operations—
+**4.**[^c-3624d5aaa5bbe35821669df68ccedeae] Any occupation involving work in a foundry or the performance of, or substantial exposure to the dust arising from, any of the following operations—
 
 - (a) the freeing of steel castings from adherent siliceous substance;
 - (b) the freeing of metal castings from adherent siliceous substance—
   - (i) by blasting with an abrasive propelled by compressed air, by steam or by a wheel, or
   - (ii) by the use of power-driven tools.
 
-**5.**[^key-ecfb6531026bacbc6b8ca22cd35c9a49] Any occupation in or incidental to the manufacture of china or earthenware (including sanitary earthenware, electrical earthenware and earthenware tiles), and any occupation involving substantial exposure to the dust arising from such operations.
+**5.**[^c-ecfb6531026bacbc6b8ca22cd35c9a49] Any occupation in or incidental to the manufacture of china or earthenware (including sanitary earthenware, electrical earthenware and earthenware tiles), and any occupation involving substantial exposure to the dust arising from such operations.
 
-**6.**[^key-b6a7162883c5a0b0ab1e08855a9bcc09] Any occupation involving the grinding of mineral graphite, or substantial exposure to the dust arising from such grinding.
+**6.**[^c-b6a7162883c5a0b0ab1e08855a9bcc09] Any occupation involving the grinding of mineral graphite, or substantial exposure to the dust arising from such grinding.
 
-**7.**[^key-a870d0935576678727ab9f1bb37cc308] Any occupation involving the dressing of granite or any igneous rock by masons or the crushing of such materials, or substantial exposure to the dust arising from such operations.
+**7.**[^c-a870d0935576678727ab9f1bb37cc308] Any occupation involving the dressing of granite or any igneous rock by masons or the crushing of such materials, or substantial exposure to the dust arising from such operations.
 
-**8.**[^key-58c844710d689a1b0478c59dbf346d7f] Any occupation involving the use, or preparation for use, of a grindstone or substantial exposure to the dust arising from such operations.
+**8.**[^c-58c844710d689a1b0478c59dbf346d7f] Any occupation involving the use, or preparation for use, of a grindstone or substantial exposure to the dust arising from such operations.
 
-**9.**[^key-5cac0cd53da46f038450b66ce514d5b2] Any occupation involving—
+**9.**[^c-5cac0cd53da46f038450b66ce514d5b2] Any occupation involving—
 
 - (a) the working or handling of asbestos or any admixture of asbestos;
 - (b) the manufacture or repair of asbestos textiles or other articles containing or composed of asbestos;
 - (c) the cleaning of any machinery or plant used in any of the operations in the preceding two paragraphs, and of any chambers, fixtures and appliances for the collection of asbestos dust;
 - (d) substantial exposure to the dust arising from any of the operations in sub-paragraphs (a) to (c).
 
-**10.**[^key-448c076ac5bf8efee708ad555418b8f5] Any occupation involving—
+**10.**[^c-448c076ac5bf8efee708ad555418b8f5] Any occupation involving—
 
 - (a) work underground in any mine in which one of the objects of the mining operations is the getting of any mineral;
 - (b) the working or handling above ground at any coal or tin mine of any minerals extracted from that mine, or any operation incidental to this;
 - (c) the trimming of coal in any ship, barge, or lighter, or in any dock or harbour or at any wharf or quay;
 - (d) the sawing, splitting or dressing of slate, or any operation incidental to such operations.
 
-**11.**[^key-ff05b0c4c0983622306c27b45750b4e4] Any occupation in or incidental to the manufacture of carbon electrodes by an industrial undertaking for use in the electrolytic extraction of aluminium from aluminium oxide, and any occupation involving substantial exposure to the dust arising from such operations.
+**11.**[^c-ff05b0c4c0983622306c27b45750b4e4] Any occupation in or incidental to the manufacture of carbon electrodes by an industrial undertaking for use in the electrolytic extraction of aluminium from aluminium oxide, and any occupation involving substantial exposure to the dust arising from such operations.
 
-**12.**[^key-a43b65e4c64474f445aa62339e18d0e2] Any occupation involving boiler scaling or substantial exposure to the dust arising from boiler scaling.
+**12.**[^c-a43b65e4c64474f445aa62339e18d0e2] Any occupation involving boiler scaling or substantial exposure to the dust arising from boiler scaling.
 
-**13.**[^key-59b6c3968da04802b26d830099cd90e3] Any occupation involving exposure to dust in excess of the level met in the ordinary course of life, which is not listed in paragraphs 1 to 12.
+**13.**[^c-59b6c3968da04802b26d830099cd90e3] Any occupation involving exposure to dust in excess of the level met in the ordinary course of life, which is not listed in paragraphs 1 to 12.
 
-### PART 2 — Occupations prescribed in relation to the other diseases to which the Act applies[^key-a12da246658ae16e872b37e8152cd038]
+### PART 2 — Occupations prescribed in relation to the other diseases to which the Act applies[^c-a12da246658ae16e872b37e8152cd038]
 
 <table>
 <thead>
@@ -143,7 +143,7 @@ Article 2
 </tbody>
 </table>
 
-[^key-671236d9477f5f1da14d2185fe82846f][^key-238bd60e492a6e7bfa477bccc9d92396][^key-e3ef9495696cfaedca2376021fa2de18]
+[^c-671236d9477f5f1da14d2185fe82846f][^c-238bd60e492a6e7bfa477bccc9d92396][^c-e3ef9495696cfaedca2376021fa2de18]
 
 EXPLANATORY NOTE
 
@@ -159,40 +159,40 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1979 c.41](https://www.legislation.gov.uk/ukpga/1979/41). The Schedule was inserted by section 58(3) of the Welfare Reform Act [2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5).
 
-[^key-c8dfaff5e0e65b490aa33be6c50c00ef]: Commencement: Art. 1 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-c8dfaff5e0e65b490aa33be6c50c00ef]: Commencement: Art. 1 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-423616beaa2a7fac66fe4325e528e750]: Commencement: Art. 2 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-423616beaa2a7fac66fe4325e528e750]: Commencement: Art. 2 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-654cced668d79d10207580d9755da984]: Commencement: Sch. para. 1 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-654cced668d79d10207580d9755da984]: Commencement: Sch. para. 1 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-759a13bbde13eca98e3d3f3adeb29364]: Commencement: Sch. para. 2 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-759a13bbde13eca98e3d3f3adeb29364]: Commencement: Sch. para. 2 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-34aed56a08a16f69f11c2c53410e04a0]: Commencement: Sch. para. 3 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-34aed56a08a16f69f11c2c53410e04a0]: Commencement: Sch. para. 3 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-3624d5aaa5bbe35821669df68ccedeae]: Commencement: Sch. para. 4 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-3624d5aaa5bbe35821669df68ccedeae]: Commencement: Sch. para. 4 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-ecfb6531026bacbc6b8ca22cd35c9a49]: Commencement: Sch. para. 5 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-ecfb6531026bacbc6b8ca22cd35c9a49]: Commencement: Sch. para. 5 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-b6a7162883c5a0b0ab1e08855a9bcc09]: Commencement: Sch. para. 6 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-b6a7162883c5a0b0ab1e08855a9bcc09]: Commencement: Sch. para. 6 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-a870d0935576678727ab9f1bb37cc308]: Commencement: Sch. para. 7 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-a870d0935576678727ab9f1bb37cc308]: Commencement: Sch. para. 7 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-58c844710d689a1b0478c59dbf346d7f]: Commencement: Sch. para. 8 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-58c844710d689a1b0478c59dbf346d7f]: Commencement: Sch. para. 8 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-5cac0cd53da46f038450b66ce514d5b2]: Commencement: Sch. para. 9 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-5cac0cd53da46f038450b66ce514d5b2]: Commencement: Sch. para. 9 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-448c076ac5bf8efee708ad555418b8f5]: Commencement: Sch. para. 10 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-448c076ac5bf8efee708ad555418b8f5]: Commencement: Sch. para. 10 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-ff05b0c4c0983622306c27b45750b4e4]: Commencement: Sch. para. 11 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-ff05b0c4c0983622306c27b45750b4e4]: Commencement: Sch. para. 11 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-a43b65e4c64474f445aa62339e18d0e2]: Commencement: Sch. para. 12 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-a43b65e4c64474f445aa62339e18d0e2]: Commencement: Sch. para. 12 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-59b6c3968da04802b26d830099cd90e3]: Commencement: Sch. para. 13 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-59b6c3968da04802b26d830099cd90e3]: Commencement: Sch. para. 13 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-a12da246658ae16e872b37e8152cd038]: Commencement: Sch. Pt. 2 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
+[^c-a12da246658ae16e872b37e8152cd038]: Commencement: Sch. Pt. 2 in force at 10.8.2007, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2000/article/1/1)
 
-[^key-671236d9477f5f1da14d2185fe82846f]: Textual amendment: Word in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2007/2000/schedule/part/2) substituted (23.2.2024) by [The Pneumoconiosis etc. (Workers' Compensation) (Specified Diseases and Prescribed Occupations) (Amendment) Regulations 2024 (S.I. 2024/199)](https://www.legislation.gov.uk/uksi/2024/199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/199/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2024/199/regulation/4/a)
+[^c-671236d9477f5f1da14d2185fe82846f]: Textual amendment: Word in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2007/2000/schedule/part/2) substituted (23.2.2024) by [The Pneumoconiosis etc. (Workers' Compensation) (Specified Diseases and Prescribed Occupations) (Amendment) Regulations 2024 (S.I. 2024/199)](https://www.legislation.gov.uk/uksi/2024/199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/199/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2024/199/regulation/4/a)
 
-[^key-238bd60e492a6e7bfa477bccc9d92396]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2007/2000/schedule/part/2) inserted (23.2.2024) by [The Pneumoconiosis etc. (Workers' Compensation) (Specified Diseases and Prescribed Occupations) (Amendment) Regulations 2024 (S.I. 2024/199)](https://www.legislation.gov.uk/uksi/2024/199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/199/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2024/199/regulation/4/b)
+[^c-238bd60e492a6e7bfa477bccc9d92396]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2007/2000/schedule/part/2) inserted (23.2.2024) by [The Pneumoconiosis etc. (Workers' Compensation) (Specified Diseases and Prescribed Occupations) (Amendment) Regulations 2024 (S.I. 2024/199)](https://www.legislation.gov.uk/uksi/2024/199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/199/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2024/199/regulation/4/b)
 
-[^key-e3ef9495696cfaedca2376021fa2de18]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2007/2000/schedule/part/2) inserted (23.2.2024) by [The Pneumoconiosis etc. (Workers' Compensation) (Specified Diseases and Prescribed Occupations) (Amendment) Regulations 2024 (S.I. 2024/199)](https://www.legislation.gov.uk/uksi/2024/199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/199/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2024/199/regulation/4/c)
+[^c-e3ef9495696cfaedca2376021fa2de18]: Textual amendment: Words in [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2007/2000/schedule/part/2) inserted (23.2.2024) by [The Pneumoconiosis etc. (Workers' Compensation) (Specified Diseases and Prescribed Occupations) (Amendment) Regulations 2024 (S.I. 2024/199)](https://www.legislation.gov.uk/uksi/2024/199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/199/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2024/199/regulation/4/c)

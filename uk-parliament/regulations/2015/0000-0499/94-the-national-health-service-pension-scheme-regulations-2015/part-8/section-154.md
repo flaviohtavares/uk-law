@@ -31,8 +31,8 @@ summary: ''
 
 (3) The scheme manager may at any other time require an independent provider to provide an IP guarantee and may do so in particular—
 
-- (a) if that independent provider[^key-c4efa332cf1583e011a29bedd604fffc] fails to meet any of its liabilities under these Regulations as an employing authority;
-- (b) if, before it was granted employing authority status under this Part, that independent provider[^key-80575e1cd72b79e49bbd5546b98125f3] failed in any other capacity to meet such liabilities;
+- (a) if that independent provider[^c-c4efa332cf1583e011a29bedd604fffc] fails to meet any of its liabilities under these Regulations as an employing authority;
+- (b) if, before it was granted employing authority status under this Part, that independent provider[^c-80575e1cd72b79e49bbd5546b98125f3] failed in any other capacity to meet such liabilities;
 - (c) if the scheme manager has reasonable grounds to believe that the independent provider is unable, or is likely to become unable, to meet such liabilities.
 
 (4) The scheme manager may in exceptional cases specify additional requirements for an IP guarantee.
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c4efa332cf1583e011a29bedd604fffc]: Textual amendment: Words in [reg. 154(3)(a)](https://www.legislation.gov.uk/uksi/2015/94/regulation/154/3/a) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [82(a)](https://www.legislation.gov.uk/uksi/2016/245/regulation/82/a) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-c4efa332cf1583e011a29bedd604fffc]: Textual amendment: Words in [reg. 154(3)(a)](https://www.legislation.gov.uk/uksi/2015/94/regulation/154/3/a) substituted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [82(a)](https://www.legislation.gov.uk/uksi/2016/245/regulation/82/a) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
 
-[^key-80575e1cd72b79e49bbd5546b98125f3]: Textual amendment: Words in [reg. 154(3)(b)](https://www.legislation.gov.uk/uksi/2015/94/regulation/154/3/b) inserted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [82(b)](https://www.legislation.gov.uk/uksi/2016/245/regulation/82/b) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-80575e1cd72b79e49bbd5546b98125f3]: Textual amendment: Words in [reg. 154(3)(b)](https://www.legislation.gov.uk/uksi/2015/94/regulation/154/3/b) inserted (1.4.2016) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/2), [82(b)](https://www.legislation.gov.uk/uksi/2016/245/regulation/82/b) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

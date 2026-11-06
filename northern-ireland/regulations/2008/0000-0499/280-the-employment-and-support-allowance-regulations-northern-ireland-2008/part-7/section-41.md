@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Meaning of “remunerative work” for the purposes of paragraph 6(1)(e) of Schedule 1 to the Act[^key-99e1a5e4ce0faf2240dd9814da08136f]
+## 41. Meaning of “remunerative work” for the purposes of paragraph 6(1)(e) of Schedule 1 to the Act[^c-99e1a5e4ce0faf2240dd9814da08136f]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ is to be treated as being engaged in remunerative work for the period for which 
 
 ## Annotations
 
-[^key-99e1a5e4ce0faf2240dd9814da08136f]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2008/280/regulation/41) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-99e1a5e4ce0faf2240dd9814da08136f]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2008/280/regulation/41) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

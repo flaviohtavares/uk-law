@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Duty of candour[^key-d88d064595aef301911258afae3f35fe][^key-fb3bcab7fc72fff7b02e21553218046c]
+## 81. Duty of candour[^c-d88d064595aef301911258afae3f35fe][^c-fb3bcab7fc72fff7b02e21553218046c]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ In section 20 of the Health and Social Care Act 2008 (regulation of regulated ac
 
 ## Annotations
 
-[^key-d88d064595aef301911258afae3f35fe]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2014/23/section/81) in force at 7.7.2014 for specified purposes by [S.I. 2014/1714](https://www.legislation.gov.uk/uksi/2014/1714), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1714/article/2/a)
+[^c-d88d064595aef301911258afae3f35fe]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2014/23/section/81) in force at 7.7.2014 for specified purposes by [S.I. 2014/1714](https://www.legislation.gov.uk/uksi/2014/1714), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1714/article/2/a)
 
-[^key-fb3bcab7fc72fff7b02e21553218046c]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2014/23/section/81) in force at 15.7.2014 in so far as not already in force by [S.I. 2014/1714](https://www.legislation.gov.uk/uksi/2014/1714), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1714/article/3/1)
+[^c-fb3bcab7fc72fff7b02e21553218046c]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2014/23/section/81) in force at 15.7.2014 in so far as not already in force by [S.I. 2014/1714](https://www.legislation.gov.uk/uksi/2014/1714), [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1714/article/3/1)

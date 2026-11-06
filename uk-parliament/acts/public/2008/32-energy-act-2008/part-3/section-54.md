@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Nuclear decommissioning: regulations and guidance[^key-d2b7ede086216b9890532df578e9a647]
+## 54. Nuclear decommissioning: regulations and guidance[^c-d2b7ede086216b9890532df578e9a647]
 
 *Extent: E+W+N.I.*
 
@@ -56,7 +56,7 @@ summary: ''
 
 (8) Before making regulations or publishing guidance under this section, the Secretary of State must consult—
 
-- (a)[^key-6f8cd9e743b80b59b2c1d6ce38e71897] the Office for Nuclear Regulation,
+- (a)[^c-6f8cd9e743b80b59b2c1d6ce38e71897] the Office for Nuclear Regulation,
 - (b) the Environment Agency, and
 - (c) the Department of the Environment in Northern Ireland,
 
@@ -70,6 +70,6 @@ in so far as the regulations or guidance relate to functions conferred on them b
 
 ## Annotations
 
-[^key-d2b7ede086216b9890532df578e9a647]: Commencement: S. 54 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-d2b7ede086216b9890532df578e9a647]: Commencement: S. 54 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
 
-[^key-6f8cd9e743b80b59b2c1d6ce38e71897]: Textual amendment: [S. 54(8)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/54/8/a) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 98](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/98); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-6f8cd9e743b80b59b2c1d6ce38e71897]: Textual amendment: [S. 54(8)(a)](https://www.legislation.gov.uk/ukpga/2008/32/section/54/8/a) substituted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 98](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/98); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

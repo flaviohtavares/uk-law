@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) An auditor who has been removed by resolution under section 510 or by order of the court under section 511A[^key-ef94830deedf1954b636d92c63fc05de] has, notwithstanding his removal, the rights conferred by section 502(2) in relation to any general meeting of the company—
+(1) An auditor who has been removed by resolution under section 510 or by order of the court under section 511A[^c-ef94830deedf1954b636d92c63fc05de] has, notwithstanding his removal, the rights conferred by section 502(2) in relation to any general meeting of the company—
 
 - (a) at which his term of office would otherwise have expired, or
 - (b) at which it is proposed to fill the vacancy caused by his removal.
@@ -33,4 +33,4 @@ summary: ''
 
 [^c20617991]: Modification: Ss. 484-539 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/11) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-ef94830deedf1954b636d92c63fc05de]: Textual amendment: Words in s. 513(1) inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 23(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/23/2) (with [reg. 1(12)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/12))
+[^c-ef94830deedf1954b636d92c63fc05de]: Textual amendment: Words in s. 513(1) inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 23(2)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/23/2) (with [reg. 1(12)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/12))

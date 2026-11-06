@@ -46,7 +46,7 @@ In accordance with section 12(6) of that Act, the Secretary of State has consult
 
 In accordance with section 61(2)[^f00002] of that Act, a draft of these Regulations has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement, extent and application[^key-4972d2f8a87144ae6c92e64c9f5914ac]
+## 1. Citation, commencement, extent and application[^c-4972d2f8a87144ae6c92e64c9f5914ac]
 
 (1) These Regulations may be cited as the Microchipping of Cats and Dogs (England) Regulations 2023.
 
@@ -59,7 +59,7 @@ In accordance with section 61(2)[^f00002] of that Act, a draft of these Regulati
 
 (4) These Regulations extend to England and Wales, and apply in relation to England only.
 
-## 2. Interpretation[^key-96eecbd7c7672c1d8232b6becdaad1a1]
+## 2. Interpretation[^c-96eecbd7c7672c1d8232b6becdaad1a1]
 
 In these Regulations—
 
@@ -79,7 +79,7 @@ In these Regulations—
     - (iv) in the Isles of Scilly, the Council of the Isle of Scilly;
 - “**microchipped**” means microchipped in accordance with regulation 3(4).
 
-## 3. Obligation to microchip[^key-0f7bf41e2946e7707b6d4b1f826003fe]
+## 3. Obligation to microchip[^c-0f7bf41e2946e7707b6d4b1f826003fe]
 
 (1) This regulation is subject to regulation 4.
 
@@ -99,13 +99,13 @@ must ensure that it is microchipped.
 - (a) a microchip which complies with regulation 5 has been implanted in the cat or the dog; and
 - (b) the details set out in regulation 6 are recorded on a database by a database operator meeting the conditions in regulation 7.
 
-## 4. Exception to the obligation to microchip[^key-8f7bec9efc579661bed4567d9ab57f1c]
+## 4. Exception to the obligation to microchip[^c-8f7bec9efc579661bed4567d9ab57f1c]
 
 (1) Regulation 3 does not apply for as long as a veterinary surgeon certifies, on a form approved by the Secretary of State, that a cat or a dog should not be microchipped for reasons relating to the health of the animal.
 
 (2) A certificate issued under paragraph (1) must state the period for which the cat or the dog will be unfit to be microchipped.
 
-## 5. Form of a microchip[^key-5b52c7938f76875cf6c16c331bf9ca52]
+## 5. Form of a microchip[^c-5b52c7938f76875cf6c16c331bf9ca52]
 
 Any microchip implanted in a cat or a dog must meet the following requirements—
 
@@ -114,7 +114,7 @@ Any microchip implanted in a cat or a dog must meet the following requirements�
 - (c) it must be compliant with ISO standard 11785:1996 of the International Standards Organisation’s standards for microchips apart from Annex A; and
 - (d) it must respond to a transponder which operates at 134.2 kilohertz and conforms with the FDXB protocol set out in ISO standards 11784:1996 and 11785:1996.
 
-## 6. Details to be recorded on databases[^key-d09bcb88a7196da769d3ad6a34a9d340]
+## 6. Details to be recorded on databases[^c-d09bcb88a7196da769d3ad6a34a9d340]
 
 (1) Where a keeper is under an obligation to ensure that a cat or a dog is microchipped, the details to be recorded on a database as referred to in regulation 3(4)(b) are—
 
@@ -134,7 +134,7 @@ Any microchip implanted in a cat or a dog must meet the following requirements�
 
 (2) In this regulation “**breeder**” means any keeper of a bitch which whelps, whether or not they carry on a business as a breeder of dogs.
 
-## 7. Conditions to be met by a database operator[^key-39b1a7fef64b2a6c0ac4024461dd39b8]
+## 7. Conditions to be met by a database operator[^c-39b1a7fef64b2a6c0ac4024461dd39b8]
 
 (1) A database operator must—
 
@@ -161,7 +161,7 @@ Any microchip implanted in a cat or a dog must meet the following requirements�
 
 (4) In this regulation “**on-line request**” means a request submitted to a database operator in the manner provided for by the database operator’s website.
 
-## 8. Powers of the Secretary of State[^key-ec4671a2dd7aa73c9f82c1f578a54318]
+## 8. Powers of the Secretary of State[^c-ec4671a2dd7aa73c9f82c1f578a54318]
 
 (1) The Secretary of State may serve a notice on a database operator requiring it to provide any information—
 
@@ -174,7 +174,7 @@ Any microchip implanted in a cat or a dog must meet the following requirements�
 - (a) cease holding itself out as meeting the conditions in regulation 7; and
 - (b) provide the Secretary of State or another database operator with an electronic copy of all the data recorded on its database pursuant to regulation 3(4)(b).
 
-## 9. Change of keeper[^key-fa707bac0f30f432c668103651499851]
+## 9. Change of keeper[^c-fa707bac0f30f432c668103651499851]
 
 (1) A keeper must not transfer a cat or a dog to a new keeper unless—
 
@@ -183,7 +183,7 @@ Any microchip implanted in a cat or a dog must meet the following requirements�
 
 (2) Where a cat or a dog is transferred to a new keeper, the new keeper must, unless the previous keeper has already done so, record their full name, address and contact telephone number (if any) and any changes in the cat’s or dog’s name with the database on which the details of the cat or the dog are recorded pursuant to regulation 3(4)(b).
 
-## 10. Implanting of microchips[^key-835515ad6e908051ad947dcdb87afee9]
+## 10. Implanting of microchips[^c-835515ad6e908051ad947dcdb87afee9]
 
 (1) No person may implant a microchip in a cat or a dog unless one of the following paragraphs applies—
 
@@ -208,7 +208,7 @@ Any microchip implanted in a cat or a dog must meet the following requirements�
 - “**student of veterinary surgery**” has the meaning given by regulation 3 of the Schedule to the Veterinary Surgeons (Practice by Students) Regulations Order of Council 1981[^f00008];
 - “**veterinary surgeon**” means a person registered in the register of veterinary surgeons kept under section 2 of the 1966 Act, or the supplementary veterinary register kept under section 8 of that Act[^f00009].
 
-## 11. Adverse reaction and failure of microchip[^key-62c0e2de39e18e624dcb6f3efad88d50]
+## 11. Adverse reaction and failure of microchip[^c-62c0e2de39e18e624dcb6f3efad88d50]
 
 (1) Anyone who identifies an adverse reaction to a microchip or the failure of a microchip implanted in a cat or a dog must report that reaction or failure to the Secretary of State.
 
@@ -219,7 +219,7 @@ Any microchip implanted in a cat or a dog must meet the following requirements�
 
 (3) In this regulation “**failure of a microchip**” means failure to transmit the number encoded in the microchip when scanned by an appropriate transceiver.
 
-## 12. Authorised person[^key-46a30908be180e60a6269f6124ef7335]
+## 12. Authorised person[^c-46a30908be180e60a6269f6124ef7335]
 
 (1) The Secretary of State may, in writing, authorise any person (“**an authorised person**”) to act for the purposes of enforcing these Regulations.
 
@@ -229,7 +229,7 @@ Any microchip implanted in a cat or a dog must meet the following requirements�
 
 (4) In this regulation, a “**community support officer**” means anyone so designated under section 38(1)(a) of the Police Reform Act 2002[^f00010]
 
-## 13. Powers of an authorised person[^key-42c9d89d27bccac0ff6b22778dc1a86d]
+## 13. Powers of an authorised person[^c-42c9d89d27bccac0ff6b22778dc1a86d]
 
 (1) An authorised person may, on producing the relevant written authorisation mentioned in regulation 12(1) or another official identity document, take possession of a cat or a dog without the consent of its keeper for the purpose of checking whether the cat or the dog is microchipped.
 
@@ -242,22 +242,22 @@ Any microchip implanted in a cat or a dog must meet the following requirements�
 
 ## 14. Offences
 
-(1)[^key-8495fb9d4ab4dcb674f5c32944e324c8] It is an offence, punishable on summary conviction by a fine not exceeding level 4 on the standard scale, to fail to comply with a notice served under regulation 8.
+(1)[^c-8495fb9d4ab4dcb674f5c32944e324c8] It is an offence, punishable on summary conviction by a fine not exceeding level 4 on the standard scale, to fail to comply with a notice served under regulation 8.
 
 (2) It is an offence, punishable on summary conviction by a fine not exceeding level 2 on the standard scale, to—
 
-- (a)[^key-a6f6f6cf2b4fe4a6bdf9b24d4a6508e6] fail to comply with regulation 9(1);
-- (b)[^key-8495fb9d4ab4dcb674f5c32944e324c8] implant a microchip into a cat or dog without complying with the requirements of regulation 10(1);
-- (c)[^key-8495fb9d4ab4dcb674f5c32944e324c8] fail to comply with a notice served under regulation 10(2);
-- (d)[^key-8495fb9d4ab4dcb674f5c32944e324c8] fail to report an adverse reaction or the failure of a microchip in accordance with regulation 11(1);
-- (e)[^key-a6f6f6cf2b4fe4a6bdf9b24d4a6508e6] fail to comply with a notice served under regulation 13(2);
-- (f)[^key-a6f6f6cf2b4fe4a6bdf9b24d4a6508e6] obstruct an authorised person exercising a power under regulation 13.
+- (a)[^c-a6f6f6cf2b4fe4a6bdf9b24d4a6508e6] fail to comply with regulation 9(1);
+- (b)[^c-8495fb9d4ab4dcb674f5c32944e324c8] implant a microchip into a cat or dog without complying with the requirements of regulation 10(1);
+- (c)[^c-8495fb9d4ab4dcb674f5c32944e324c8] fail to comply with a notice served under regulation 10(2);
+- (d)[^c-8495fb9d4ab4dcb674f5c32944e324c8] fail to report an adverse reaction or the failure of a microchip in accordance with regulation 11(1);
+- (e)[^c-a6f6f6cf2b4fe4a6bdf9b24d4a6508e6] fail to comply with a notice served under regulation 13(2);
+- (f)[^c-a6f6f6cf2b4fe4a6bdf9b24d4a6508e6] obstruct an authorised person exercising a power under regulation 13.
 
-## 15. Appeals[^key-5398fce4f9286b7cc02d64e6dc7f067c]
+## 15. Appeals[^c-5398fce4f9286b7cc02d64e6dc7f067c]
 
 (1) A database operator may appeal to the First-tier Tribunal against a notice served under regulation 8.
 
-(2)[^key-1fd29df8c4af4f945404639915465556] A person to whom regulation 10(1)(c) or 10(1)(d) applies may appeal to the First-tier Tribunal against a notice served under regulation 10(2).
+(2)[^c-1fd29df8c4af4f945404639915465556] A person to whom regulation 10(1)(c) or 10(1)(d) applies may appeal to the First-tier Tribunal against a notice served under regulation 10(2).
 
 (3) A keeper may appeal to the First-tier Tribunal against a notice served under regulation 13(2)(a)**.**
 
@@ -265,7 +265,7 @@ Any microchip implanted in a cat or a dog must meet the following requirements�
 
 (5) On appeal the First-tier Tribunal may cancel, confirm or vary the notice appealed against.
 
-## 16. Corporate bodies, partnerships and unincorporated associations[^key-0a9595696a116f1bf2c976424a65d0fb]
+## 16. Corporate bodies, partnerships and unincorporated associations[^c-0a9595696a116f1bf2c976424a65d0fb]
 
 (1) Where—
 
@@ -292,7 +292,7 @@ the relevant individual as well as the body corporate, partnership, Scottish par
 
 (5) A fine imposed on a partnership or an unincorporated association on conviction for an offence under these Regulations is to be paid out of the funds of the partnership or association.
 
-## 17. Review[^key-656439b51afe7dfc55c392a177a84bf0]
+## 17. Review[^c-656439b51afe7dfc55c392a177a84bf0]
 
 (1) The Secretary of State must from time to time—
 
@@ -308,7 +308,7 @@ the relevant individual as well as the body corporate, partnership, Scottish par
 
 (3) The first report under these Regulations must be published before the end of the period of five years beginning with the day on which this regulation comes into force.
 
-## 18. Revocation[^key-246ada4755e9d464c4fd164680ed434d]
+## 18. Revocation[^c-246ada4755e9d464c4fd164680ed434d]
 
 The Microchipping of Dogs (England) Regulations 2015[^f00013] are revoked.
 
@@ -352,33 +352,33 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: Section 61(2) was amended by section 1(3) of the Animal Welfare (Service Animals) Act [2019 (c. 15)](https://www.legislation.gov.uk/ukpga/2019/15).
 
-[^key-4972d2f8a87144ae6c92e64c9f5914ac]: Commencement: Reg. 1 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-4972d2f8a87144ae6c92e64c9f5914ac]: Commencement: Reg. 1 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
-[^key-96eecbd7c7672c1d8232b6becdaad1a1]: Commencement: Reg. 2 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-96eecbd7c7672c1d8232b6becdaad1a1]: Commencement: Reg. 2 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
 [^f00003]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15). There are amendments to section 173 of the Equality Act 2010 but none is relevant to these Regulations.
 
 [^f00004]: Footnote: [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867). Regulation 2 of the Local Government Changes for England Regulations 1994 was amended by [S.I. 1995/1055](https://www.legislation.gov.uk/uksi/1995/1055), [S.I. 1995/1748](https://www.legislation.gov.uk/uksi/1995/1748) and [S.I. 1996/330](https://www.legislation.gov.uk/uksi/1996/330).
 
-[^key-0f7bf41e2946e7707b6d4b1f826003fe]: Commencement: Reg. 3 in force at 20.5.2023 for specified purposes and 10.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/3)
+[^c-0f7bf41e2946e7707b6d4b1f826003fe]: Commencement: Reg. 3 in force at 20.5.2023 for specified purposes and 10.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/3)
 
-[^key-8f7bec9efc579661bed4567d9ab57f1c]: Commencement: Reg. 4 in force at 20.5.2023 for specified purposes and 10.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/3)
+[^c-8f7bec9efc579661bed4567d9ab57f1c]: Commencement: Reg. 4 in force at 20.5.2023 for specified purposes and 10.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/3)
 
-[^key-5b52c7938f76875cf6c16c331bf9ca52]: Commencement: Reg. 5 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-5b52c7938f76875cf6c16c331bf9ca52]: Commencement: Reg. 5 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
 [^f00005]: Footnote: ISO Central Secretariat, International Organization for Standardization (ISO), 1 rue Varembé, Case postale, CH-1211, Geneva 20, Switzerland. A copy of the relevant standard is available from https://www.iso.org/standards.html
 
-[^key-d09bcb88a7196da769d3ad6a34a9d340]: Commencement: Reg. 6 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-d09bcb88a7196da769d3ad6a34a9d340]: Commencement: Reg. 6 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2018/486](https://www.legislation.gov.uk/uksi/2018/486).
 
-[^key-39b1a7fef64b2a6c0ac4024461dd39b8]: Commencement: Reg. 7 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-39b1a7fef64b2a6c0ac4024461dd39b8]: Commencement: Reg. 7 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
-[^key-ec4671a2dd7aa73c9f82c1f578a54318]: Commencement: Reg. 8 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-ec4671a2dd7aa73c9f82c1f578a54318]: Commencement: Reg. 8 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
-[^key-fa707bac0f30f432c668103651499851]: Commencement: Reg. 9 in force at 20.5.2023 for specified purposes and 10.6.2024 in so far as not already in force, see [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-fa707bac0f30f432c668103651499851]: Commencement: Reg. 9 in force at 20.5.2023 for specified purposes and 10.6.2024 in so far as not already in force, see [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
-[^key-835515ad6e908051ad947dcdb87afee9]: Commencement: Reg. 10 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-835515ad6e908051ad947dcdb87afee9]: Commencement: Reg. 10 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
 [^f00007]: Footnote: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36). Schedule 3 to the Veterinary Surgeons Act 1966 was substituted by [S.I. 1988/526](https://www.legislation.gov.uk/uksi/1988/526). Paragraph 6 of that Schedule was inserted by [S.I. 1991/1412](https://www.legislation.gov.uk/uksi/1991/1412) and substituted by [S.I. 2002/1479](https://www.legislation.gov.uk/uksi/2002/1479). Paragraph 7 of that Schedule was inserted by [S.I. 2002/1479](https://www.legislation.gov.uk/uksi/2002/1479) and amended by [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824). There are other amendments to Schedule 3 which are not relevant to these Regulations.
 
@@ -386,30 +386,30 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00009]: Footnote: Section 2 of the Veterinary Surgeons Act 1966 was amended by [S.I. 2003/2919](https://www.legislation.gov.uk/uksi/2003/2919), [S. I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824), [S.I. 2019/454](https://www.legislation.gov.uk/uksi/2019/454) and [S.I. 2020/1038](https://www.legislation.gov.uk/uksi/2020/1038).
 
-[^key-62c0e2de39e18e624dcb6f3efad88d50]: Commencement: Reg. 11 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-62c0e2de39e18e624dcb6f3efad88d50]: Commencement: Reg. 11 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
-[^key-46a30908be180e60a6269f6124ef7335]: Commencement: Reg. 12 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-46a30908be180e60a6269f6124ef7335]: Commencement: Reg. 12 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
 [^f00010]: Footnote: [2002 c. 20](https://www.legislation.gov.uk/ukpga/2002/20). Section 38(1) and (9) of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3) substituted section 38(1) of the Police Reform Act 2002.
 
-[^key-42c9d89d27bccac0ff6b22778dc1a86d]: Commencement: Reg. 13 in force at 20.5.2023 for specified purposes and 10.6.2024 in so far as not already in force, see [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-42c9d89d27bccac0ff6b22778dc1a86d]: Commencement: Reg. 13 in force at 20.5.2023 for specified purposes and 10.6.2024 in so far as not already in force, see [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
-[^key-8495fb9d4ab4dcb674f5c32944e324c8]: Commencement: Reg. 14(1)(2)(b)-(d) in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-8495fb9d4ab4dcb674f5c32944e324c8]: Commencement: Reg. 14(1)(2)(b)-(d) in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
-[^key-a6f6f6cf2b4fe4a6bdf9b24d4a6508e6]: Commencement: Reg. 14(2)(a)(e)(f) in force at 20.5.2023 for specified purposes and 10.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/3)
+[^c-a6f6f6cf2b4fe4a6bdf9b24d4a6508e6]: Commencement: Reg. 14(2)(a)(e)(f) in force at 20.5.2023 for specified purposes and 10.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/3)
 
-[^key-5398fce4f9286b7cc02d64e6dc7f067c]: Commencement: Reg. 15(1)(3)-(5) in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-5398fce4f9286b7cc02d64e6dc7f067c]: Commencement: Reg. 15(1)(3)-(5) in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
-[^key-1fd29df8c4af4f945404639915465556]: Commencement: Reg. 15(2) in force at 20.5.2023 for specified purposes and 10.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-1fd29df8c4af4f945404639915465556]: Commencement: Reg. 15(2) in force at 20.5.2023 for specified purposes and 10.6.2024 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
-[^key-0a9595696a116f1bf2c976424a65d0fb]: Commencement: Reg. 16 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-0a9595696a116f1bf2c976424a65d0fb]: Commencement: Reg. 16 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
 [^f00011]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1), (2) and (5) of section 33 of the Criminal Justice Act 1925 were repealed by section 132 of, and Schedule 6 to, the Magistrates’ Courts Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), subsection (3) was amended by section 56(1) of, and Part 2, paragraph 19 of Schedule 8 to, the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23) and subsection (4) was partially repealed by section 109(1) and (3) of, and paragraph 71 of Schedule 8 and Schedule 10 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 
 [^f00012]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Paragraph 2(a) of Schedule 3 to the Magistrates’ Court Act 1980 was amended by section 47 of, and paragraph 13 of Schedule 1 to, the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), paragraph 5 of Schedule 3 to that Act was repealed by sections 25(2) and 101(2) of, and Schedule 13 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53) and paragraph 6 was amended by section 41 of, and paragraphs 51(1) and (13)(b) of Schedule 3 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-656439b51afe7dfc55c392a177a84bf0]: Commencement: Reg. 17 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-656439b51afe7dfc55c392a177a84bf0]: Commencement: Reg. 17 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
-[^key-246ada4755e9d464c4fd164680ed434d]: Commencement: Reg. 18 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
+[^c-246ada4755e9d464c4fd164680ed434d]: Commencement: Reg. 18 in force at 20.5.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/468/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 2015/108](https://www.legislation.gov.uk/uksi/2015/108). The Microchipping of Dogs (England) Regulations 2015 were amended by the Microchipping of Dogs (England) (Amendment) Regulations 2022 ([S.I. 2022/121](https://www.legislation.gov.uk/uksi/2022/121)) so as to extend the period of their application from 7 to 9 years from the date of their coming into force.

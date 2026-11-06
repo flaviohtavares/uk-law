@@ -27,7 +27,7 @@ summary: ''
   - (ii) to which Part 4 of the Undertakings for Collective Investment in Transferable Securities Regulations 2011 (mergers) applies; or
 - (b) to replace its trustee.
 
-(1) The manager must give written notice of the proposal to the FCA[^key-3e4eb04b65e89eb5f622d8f7cf8e1291].
+(1) The manager must give written notice of the proposal to the FCA[^c-3e4eb04b65e89eb5f622d8f7cf8e1291].
 
 (2) Any notice given in respect of a proposal to alter the scheme involving a change in the trust deed must be accompanied by a certificate signed by a solicitor to the effect that the change will not affect the compliance of the deed with the trust scheme rules.
 
@@ -50,6 +50,6 @@ summary: ''
 
 [^c2109400]: Textual amendment: S. 251(A1)(1) substituted for s. 251(1) (1.7.2011) by The Undertakings for Collective Investment in [Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [reg. 2(17)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/2/17)
 
-[^key-3e4eb04b65e89eb5f622d8f7cf8e1291]: Textual amendment: Word in ss. 242-252A substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3e4eb04b65e89eb5f622d8f7cf8e1291]: Textual amendment: Word in ss. 242-252A substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 9(1)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/9/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c1709529]: Modification: S. 251(3) extended (1.12.2001) by [S.I. 2001/3592](https://www.legislation.gov.uk/uksi/2001/3592), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2), [41(1)](https://www.legislation.gov.uk/uksi/2001/3592/article/41/1) (with [art. 23(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/23/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Provision against danger to navigation[^key-10eae2bab220b953870894313dfd1962]
+## 37. Provision against danger to navigation[^c-10eae2bab220b953870894313dfd1962]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In case of damage to, or destruction or decay of, a tidal work or any part of it
 
 ## Annotations
 
-[^key-10eae2bab220b953870894313dfd1962]: Commencement: Art. 37 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-10eae2bab220b953870894313dfd1962]: Commencement: Art. 37 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

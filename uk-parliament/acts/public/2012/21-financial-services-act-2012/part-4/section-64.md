@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Duty of Treasury, Bank and PRA to co-ordinate discharge of functions[^key-99a8edc725f4c03ff35af21405c4a4e9]
+## 64. Duty of Treasury, Bank and PRA to co-ordinate discharge of functions[^c-99a8edc725f4c03ff35af21405c4a4e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99a8edc725f4c03ff35af21405c4a4e9]: Commencement: S. 64 in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-99a8edc725f4c03ff35af21405c4a4e9]: Commencement: S. 64 in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)

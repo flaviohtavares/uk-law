@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 147. Section 146: sanctions[^key-a79cb9f86ad05eb00ef20e7b5d9b85c1]
+## 147. Section 146: sanctions[^c-a79cb9f86ad05eb00ef20e7b5d9b85c1]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a79cb9f86ad05eb00ef20e7b5d9b85c1]: Commencement: [S. 147](https://www.legislation.gov.uk/asp/2016/21/section/147) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-a79cb9f86ad05eb00ef20e7b5d9b85c1]: Commencement: [S. 147](https://www.legislation.gov.uk/asp/2016/21/section/147) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

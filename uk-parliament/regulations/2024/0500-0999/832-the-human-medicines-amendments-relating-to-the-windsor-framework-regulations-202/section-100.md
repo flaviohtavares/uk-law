@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Amendment to regulation 211[^key-d36f120298ac78248608d4e2f03682a4]
+## 100. Amendment to regulation 211[^c-d36f120298ac78248608d4e2f03682a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 211 (persons liable), omit “or regulation 210(1)(a) (offences re
 
 ## Annotations
 
-[^key-d36f120298ac78248608d4e2f03682a4]: Commencement: [Reg. 100](https://www.legislation.gov.uk/uksi/2024/832/regulation/100) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-d36f120298ac78248608d4e2f03682a4]: Commencement: [Reg. 100](https://www.legislation.gov.uk/uksi/2024/832/regulation/100) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)

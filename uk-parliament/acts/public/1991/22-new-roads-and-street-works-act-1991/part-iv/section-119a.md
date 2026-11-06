@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119A. Enforcement of sections 118 and 119: imposition of penalties[^key-1f433d6dc0ae0e72ab382bd762499499]
+## 119A. Enforcement of sections 118 and 119: imposition of penalties[^c-1f433d6dc0ae0e72ab382bd762499499]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f433d6dc0ae0e72ab382bd762499499]: Textual amendment: [S. 119A](https://www.legislation.gov.uk/ukpga/1991/22/section/119A) inserted (S.) (1.10.2007) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 25(2)](https://www.legislation.gov.uk/asp/2005/12/section/25/2), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2007/409](https://www.legislation.gov.uk/ssi/2007/409), [art. 2](https://www.legislation.gov.uk/ssi/2007/409/article/2)
+[^c-1f433d6dc0ae0e72ab382bd762499499]: Textual amendment: [S. 119A](https://www.legislation.gov.uk/ukpga/1991/22/section/119A) inserted (S.) (1.10.2007) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 25(2)](https://www.legislation.gov.uk/asp/2005/12/section/25/2), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2007/409](https://www.legislation.gov.uk/ssi/2007/409), [art. 2](https://www.legislation.gov.uk/ssi/2007/409/article/2)

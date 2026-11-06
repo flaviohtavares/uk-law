@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 108. Relevant information[^key-f9710705d3d9070237f865480bab3e3e]
+## 108. Relevant information[^c-f9710705d3d9070237f865480bab3e3e]
 
 *Extent: N.I.*
 
-(1) The information the supplier is to supply to the requirer is that prescribed in paragraphs (2) and (3) (referred to in this Section[^key-6ab54eccade05cf91edf1210b2fb1da0] as “**the relevant information**”).
+(1) The information the supplier is to supply to the requirer is that prescribed in paragraphs (2) and (3) (referred to in this Section[^c-6ab54eccade05cf91edf1210b2fb1da0] as “**the relevant information**”).
 
 (2) For a supplier who falls within paragraph (4) or section 119A(2)(b) of the Administration Act (“**the landlord**”), the information is—
 
@@ -79,9 +79,9 @@ and other expressions used in this regulation and also in the Companies (Norther
 
 ## Annotations
 
-[^key-f9710705d3d9070237f865480bab3e3e]: Commencement: [Reg. 108](https://www.legislation.gov.uk/nisr/2006/405/regulation/108) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-f9710705d3d9070237f865480bab3e3e]: Commencement: [Reg. 108](https://www.legislation.gov.uk/nisr/2006/405/regulation/108) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-6ab54eccade05cf91edf1210b2fb1da0]: Textual amendment: Word in [reg. 108(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/108/1) substituted (10.12.2007) by [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2007/467/regulation/7/3)
+[^c-6ab54eccade05cf91edf1210b2fb1da0]: Textual amendment: Word in [reg. 108(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/108/1) substituted (10.12.2007) by [The Social Security (Claims and Information) Regulations (Northern Ireland) 2007 (S.R. 2007/467)](https://www.legislation.gov.uk/nisr/2007/467), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/467/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2007/467/regulation/7/3)
 
 [^f00153]: Footnote: [1964 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1964/33)
 

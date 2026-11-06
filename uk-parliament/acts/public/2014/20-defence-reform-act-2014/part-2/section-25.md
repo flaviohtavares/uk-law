@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Reports on overheads and forward planning etc[^key-8cba92d3fcbee68c469b41922cea231a][^key-964fd265e5f5e0cb61c847f0d7d2c0e9]
+## 25. Reports on overheads and forward planning etc[^c-8cba92d3fcbee68c469b41922cea231a][^c-964fd265e5f5e0cb61c847f0d7d2c0e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (3) In this section, “**designated person**” means—
 
-- (a)[^key-72f4cb9d7e98922177d8368d59f03ec6] where P is associated with one or more other persons—
+- (a)[^c-72f4cb9d7e98922177d8368d59f03ec6] where P is associated with one or more other persons—
   - (i) the ultimate parent undertaking in relation to P and those other persons, or
   - (ii) where permitted under the regulations in relation to a report mentioned in subsection (2), another person associated with P which that undertaking and the Secretary of State have agreed is to be a designated person in relation to that report, and
 - (b) otherwise, P.
@@ -66,8 +66,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8cba92d3fcbee68c469b41922cea231a]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/20/section/25) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(j)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/j)
+[^c-8cba92d3fcbee68c469b41922cea231a]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/20/section/25) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(j)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/j)
 
-[^key-964fd265e5f5e0cb61c847f0d7d2c0e9]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/20/section/25) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
+[^c-964fd265e5f5e0cb61c847f0d7d2c0e9]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2014/20/section/25) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
 
-[^key-72f4cb9d7e98922177d8368d59f03ec6]: Textual amendment: [S. 25(3)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/25/3/a) substituted (19.1.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 13(2)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/13/2); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vi)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vi) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-72f4cb9d7e98922177d8368d59f03ec6]: Textual amendment: [S. 25(3)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/25/3/a) substituted (19.1.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 13(2)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/13/2); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vi)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vi) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))

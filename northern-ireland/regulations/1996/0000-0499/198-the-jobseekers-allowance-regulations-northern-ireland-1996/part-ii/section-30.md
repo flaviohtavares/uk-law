@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Circumstances in which a claimant is to be regarded as having good cause for failing to comply with a notice under regulation 23[^key-0d51d54b3df70febab11a29d710db01e]
+## 30. Circumstances in which a claimant is to be regarded as having good cause for failing to comply with a notice under regulation 23[^c-0d51d54b3df70febab11a29d710db01e]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ For the purposes of regulation 27 (where entitlement is not to cease), a claiman
 
 ## Annotations
 
-[^key-0d51d54b3df70febab11a29d710db01e]: Commencement: Reg. 30 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-0d51d54b3df70febab11a29d710db01e]: Commencement: Reg. 30 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

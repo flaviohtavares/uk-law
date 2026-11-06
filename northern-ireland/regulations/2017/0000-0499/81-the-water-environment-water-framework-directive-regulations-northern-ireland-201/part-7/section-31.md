@@ -31,11 +31,11 @@ summary: ''
 
 (2) The Department must make accessible to the public through its website and at its principal offices the results of the analysis conducted in accordance with regulation 7 (economic analysis of water use in river basin district and international river basin districts).
 
-(3)[^key-213c3712f46b651bda80ef1ddf4c4865] The Department must—
+(3)[^c-213c3712f46b651bda80ef1ddf4c4865] The Department must—
 
 - (a) produce an interim report describing progress in the implementation of each planned programme of measures;
 - (b) publish that report in such manner as the Department considers appropriate within three years after the publication of the most recent updated relevant river basin management plan under regulation 26.
 
 ## Annotations
 
-[^key-213c3712f46b651bda80ef1ddf4c4865]: Textual amendment: [Reg. 31(3)](https://www.legislation.gov.uk/nisr/2017/81/regulation/31/3) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [12(8)](https://www.legislation.gov.uk/uksi/2019/112/regulation/12/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-213c3712f46b651bda80ef1ddf4c4865]: Textual amendment: [Reg. 31(3)](https://www.legislation.gov.uk/nisr/2017/81/regulation/31/3) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [12(8)](https://www.legislation.gov.uk/uksi/2019/112/regulation/12/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

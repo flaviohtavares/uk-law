@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Collaboration agreements[^key-993771c6d10a2d45e7e364ced5f3db6b]
+## 8. Collaboration agreements[^c-993771c6d10a2d45e7e364ced5f3db6b]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ to seek to enter into an agreement under this article for such purposes, and on 
 
 ## Annotations
 
-[^key-993771c6d10a2d45e7e364ced5f3db6b]: Commencement: Art. 8 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-993771c6d10a2d45e7e364ced5f3db6b]: Commencement: Art. 8 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)

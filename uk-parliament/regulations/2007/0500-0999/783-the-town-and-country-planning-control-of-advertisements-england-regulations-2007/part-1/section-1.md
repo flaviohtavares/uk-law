@@ -29,8 +29,8 @@ summary: ''
 - (a) the display complies with the conditions and limitations specified in column (2) of that Schedule as applicable to advertisements of that description; and
 - (b) except in the case of an advertisement within Class F, all the conditions specified in Schedule 2 are complied with;
 - (c) in the case of an advertisement within Class F, the requirements of paragraphs 1 to 3 and 5 of the standard conditions are complied with.
-- (d)[^key-ca8b9d26ba7c3904f23d6e55fcde7d67] in the case of an advertisement within Class H, the requirements of Part 4A are complied with.
+- (d)[^c-ca8b9d26ba7c3904f23d6e55fcde7d67] in the case of an advertisement within Class H, the requirements of Part 4A are complied with.
 
 ## Annotations
 
-[^key-ca8b9d26ba7c3904f23d6e55fcde7d67]: Textual amendment: [Reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2007/783/regulation/1/3/d) inserted (24.6.2021) by [The Town and Country Planning (Control of Advertisements) (England) (Amendment) Regulations 2021 (S.I. 2021/617)](https://www.legislation.gov.uk/uksi/2021/617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/617/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2021/617/regulation/6/1)
+[^c-ca8b9d26ba7c3904f23d6e55fcde7d67]: Textual amendment: [Reg. 1(3)(d)](https://www.legislation.gov.uk/uksi/2007/783/regulation/1/3/d) inserted (24.6.2021) by [The Town and Country Planning (Control of Advertisements) (England) (Amendment) Regulations 2021 (S.I. 2021/617)](https://www.legislation.gov.uk/uksi/2021/617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/617/regulation/1/2), [6(1)](https://www.legislation.gov.uk/uksi/2021/617/regulation/6/1)

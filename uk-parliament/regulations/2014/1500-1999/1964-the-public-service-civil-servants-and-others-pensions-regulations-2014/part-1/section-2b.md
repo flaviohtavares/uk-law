@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2B. Connected Schemes[^key-1672e539fb755be519c5310cb0e21524]
+## 2B. Connected Schemes[^c-1672e539fb755be519c5310cb0e21524]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,10 +31,10 @@ summary: ''
 
 *Extent: S*
 
-(3)[^key-249334ec396d9b2d0c5eefe24424df31] Sub-paragraphs (a) and (b) of paragraph (2) do not apply for the purposes of regulation 62B of the Public Service (Civil Servants and Others) Pensions (Remediable Service) Regulations 2023.
+(3)[^c-249334ec396d9b2d0c5eefe24424df31] Sub-paragraphs (a) and (b) of paragraph (2) do not apply for the purposes of regulation 62B of the Public Service (Civil Servants and Others) Pensions (Remediable Service) Regulations 2023.
 
 ## Annotations
 
-[^key-1672e539fb755be519c5310cb0e21524]: Textual amendment: Regs. 2A-2C inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/537/regulation/4)
+[^c-1672e539fb755be519c5310cb0e21524]: Textual amendment: Regs. 2A-2C inserted (with effect from 1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2018 (S.I. 2018/537)](https://www.legislation.gov.uk/uksi/2018/537), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2018/537/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2018/537/regulation/4)
 
-[^key-249334ec396d9b2d0c5eefe24424df31]: Textual amendment: Reg. 2B(3) inserted (S.) (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/2/2)
+[^c-249334ec396d9b2d0c5eefe24424df31]: Textual amendment: Reg. 2B(3) inserted (S.) (17.11.2025) by [The Public Service (Civil Servants and Others) Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/1115)](https://www.legislation.gov.uk/uksi/2025/1115), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2025/1115/regulation/2/2)

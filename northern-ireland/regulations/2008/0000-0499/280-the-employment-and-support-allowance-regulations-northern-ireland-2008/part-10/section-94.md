@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 94. Calculation of weekly amount of income[^key-c62e66f3cb721478c82c5aaf38f9f138]
+## 94. Calculation of weekly amount of income[^c-c62e66f3cb721478c82c5aaf38f9f138]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) exceeds a week, the weekly amount is to be determined—
   - (i) in a case where that period is a month, by multiplying the amount of the payment by 12 and dividing the product by 52,
   - (ii) in a case where that period is 3 months, by multiplying the amount of the payment by 4 and dividing the product by 52,
-  - (iii)[^key-50efe50acff4f4922500c472cb3a6134] in a case where that period is a year and the payment is an award of working tax credit, by dividing the payment by the number of days in the year and multiplying the result by 7,
+  - (iii)[^c-50efe50acff4f4922500c472cb3a6134] in a case where that period is a year and the payment is an award of working tax credit, by dividing the payment by the number of days in the year and multiplying the result by 7,
   - (iiia) in a case where that period is a year and the payment is income other than an award of working tax credit, by dividing the amount of the payment by 52,
   - (iv) in any other case by multiplying the amount of the payment by 7 and dividing the product by the number equal to the number of days in the period in respect of which it is made.
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c62e66f3cb721478c82c5aaf38f9f138]: Commencement: [Reg. 94](https://www.legislation.gov.uk/nisr/2008/280/regulation/94) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-c62e66f3cb721478c82c5aaf38f9f138]: Commencement: [Reg. 94](https://www.legislation.gov.uk/nisr/2008/280/regulation/94) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-50efe50acff4f4922500c472cb3a6134]: Textual amendment: [Reg. 94(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2008/280/regulation/94/1/b/iii) substituted (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [8(5)](https://www.legislation.gov.uk/nisr/2009/92/regulation/8/5)
+[^c-50efe50acff4f4922500c472cb3a6134]: Textual amendment: [Reg. 94(1)(b)(iii)](https://www.legislation.gov.uk/nisr/2008/280/regulation/94/1/b/iii) substituted (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [8(5)](https://www.legislation.gov.uk/nisr/2009/92/regulation/8/5)

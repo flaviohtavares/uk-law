@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a) and (d), 131(1), 132(3) and (4)(b) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and Articles 6(5), 14(1) and (4)(b) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00004] in so far as regulation 3 is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of those regulations should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-edce2fde358f52bcf057f5a264094354]
+## 1. Citation, commencement and interpretation[^c-edce2fde358f52bcf057f5a264094354]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2002 and shall come into operation on 8th April 2002.
 
@@ -52,11 +52,11 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Income Support: income disregard[^key-bc26c8d9efef6de02196cd742d43ca99]
+## 2. Income Support: income disregard[^c-bc26c8d9efef6de02196cd742d43ca99]
 
 (1) The Income Support Regulations shall be amended in accordance with paragraphs (2) to (5).
 
-(2)[^key-ff2725c945953623a305dc12ffe11b99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ff2725c945953623a305dc12ffe11b99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 42(4)(*a*)(i)[^f00016] (notional income) after “war widow’s pension” there shall be inserted “or war widower’s pension” and after “widow” there shall be inserted “or widower”.
 
@@ -70,11 +70,11 @@ The Department for Social Development, in exercise of the powers conferred on it
 - (d) in paragraph 56(1)(*a*)[^f00020] after “widow” there shall be inserted “or widower”, and
 - (e) in paragraph 56(1)(*b*) after “widows” there shall be inserted “or widowers”.
 
-## 3. Housing Benefit: income disregard[^key-0c319f1284d8df19821d60ab5a192148]
+## 3. Housing Benefit: income disregard[^c-0c319f1284d8df19821d60ab5a192148]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Jobseeker’s Allowance: income disregard[^key-b30b34b59690cd8900a6fd1cb576da03]
+## 4. Jobseeker’s Allowance: income disregard[^c-b30b34b59690cd8900a6fd1cb576da03]
 
 (1) The Jobseeker’s Allowance Regulations shall be amended in accordance with paragraphs (2) to (5).
 
@@ -84,19 +84,19 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 .
 
-(3)[^key-569d9e7641f387a9d0fe5a04c46d85f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-569d9e7641f387a9d0fe5a04c46d85f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-569d9e7641f387a9d0fe5a04c46d85f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-569d9e7641f387a9d0fe5a04c46d85f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In Schedule 6 (sums to be disregarded in the calculation of income other than earnings)—
 
-- (a)[^key-ef73132c4463ef02c3cea72a56ec14f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-ef73132c4463ef02c3cea72a56ec14f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ef73132c4463ef02c3cea72a56ec14f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ef73132c4463ef02c3cea72a56ec14f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraphs 53 and 54 after “widows” there shall be inserted “or widowers”;
 - (d) in paragraph 55(1)(*a*) after “widow” there shall be inserted “or widower”, and
 - (e) in paragraph 55(1)(*b*) after “widows” there shall be inserted “or widowers”.
 
-## 5. Income Support and Jobseeker’s Allowance: housing costs linking rules[^key-00f15f641b743ce5762930ce80c41cfd]
+## 5. Income Support and Jobseeker’s Allowance: housing costs linking rules[^c-00f15f641b743ce5762930ce80c41cfd]
 
 In paragraph 14(13) of Schedule 3 to the Income Support Regulations[^f00028] (housing costs: linking rule) and paragraph 13(15) of Schedule 2 to the Jobseeker’s Allowance Regulations[^f00029] (housing costs: linking rule) after “paragraph 6(1)(*a*)” there shall be inserted “, 6(1)(*b*)”.
 
@@ -144,7 +144,7 @@ These Regulations do not impose any charge on business.
 
 [^f00005]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-edce2fde358f52bcf057f5a264094354]: Commencement: Reg. 1 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/128/regulation/1/1)
+[^c-edce2fde358f52bcf057f5a264094354]: Commencement: Reg. 1 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/128/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327), [S.R. 1995 Nos. 86](https://www.legislation.gov.uk/nisr/1995/86) and [410](https://www.legislation.gov.uk/nisr/1995/410), [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22), [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326) and [S.R. 2001 No. 78](https://www.legislation.gov.uk/nisr/2001/78)
 
@@ -152,9 +152,9 @@ These Regulations do not impose any charge on business.
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-bc26c8d9efef6de02196cd742d43ca99]: Commencement: Reg. 2 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/128/regulation/1/1)
+[^c-bc26c8d9efef6de02196cd742d43ca99]: Commencement: Reg. 2 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/128/regulation/1/1)
 
-[^key-ff2725c945953623a305dc12ffe11b99]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/128/regulation/2/2) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
+[^c-ff2725c945953623a305dc12ffe11b99]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2002/128/regulation/2/2) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
 
 [^f00016]: Footnote: Paragraph (4) was substituted by regulation 9(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318) and amended by regulation 5(2) of [S.R. 1995 No. 410](https://www.legislation.gov.uk/nisr/1995/410) and regulation 2(2)(*a*) of [S.R. 1998 No. 326](https://www.legislation.gov.uk/nisr/1998/326)
 
@@ -166,15 +166,15 @@ These Regulations do not impose any charge on business.
 
 [^f00020]: Footnote: Paragraph 56 was added by regulation 2(10)(*b*) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327)
 
-[^key-0c319f1284d8df19821d60ab5a192148]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/128/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-0c319f1284d8df19821d60ab5a192148]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/128/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-b30b34b59690cd8900a6fd1cb576da03]: Commencement: Reg. 4 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/128/regulation/1/1)
+[^c-b30b34b59690cd8900a6fd1cb576da03]: Commencement: Reg. 4 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/128/regulation/1/1)
 
-[^key-569d9e7641f387a9d0fe5a04c46d85f6]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2002/128/regulation/4/3)[(4)](https://www.legislation.gov.uk/nisr/2002/128/regulation/4/4) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
+[^c-569d9e7641f387a9d0fe5a04c46d85f6]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/nisr/2002/128/regulation/4/3)[(4)](https://www.legislation.gov.uk/nisr/2002/128/regulation/4/4) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
 
-[^key-ef73132c4463ef02c3cea72a56ec14f6]: Textual amendment: [Reg. 4(5)(a)](https://www.legislation.gov.uk/nisr/2002/128/regulation/4/5/a)[(b)](https://www.legislation.gov.uk/nisr/2002/128/regulation/4/5/b) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
+[^c-ef73132c4463ef02c3cea72a56ec14f6]: Textual amendment: [Reg. 4(5)(a)](https://www.legislation.gov.uk/nisr/2002/128/regulation/4/5/a)[(b)](https://www.legislation.gov.uk/nisr/2002/128/regulation/4/5/b) revoked (5.1.2009) by [The Social Security (Miscellaneous Amendments No. 7) Regulations (Northern Ireland) 2008 (S.R. 2008/498)](https://www.legislation.gov.uk/nisr/2008/498), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/498/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/498/schedule)
 
-[^key-00f15f641b743ce5762930ce80c41cfd]: Commencement: Reg. 5 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/128/regulation/1/1)
+[^c-00f15f641b743ce5762930ce80c41cfd]: Commencement: Reg. 5 in operation at 8.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/128/regulation/1/1)
 
 [^f00028]: Footnote: Sub-paragraph (13) was added by regulation 6(*c*) of [S.R. 2001 No. 78](https://www.legislation.gov.uk/nisr/2001/78)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Retention of accounting records after amalgamation[^key-58a9484da98d4da95bae6ac9714f9def]
+## 11. Retention of accounting records after amalgamation[^c-58a9484da98d4da95bae6ac9714f9def]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58a9484da98d4da95bae6ac9714f9def]: Commencement: Reg. 11 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-58a9484da98d4da95bae6ac9714f9def]: Commencement: Reg. 11 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

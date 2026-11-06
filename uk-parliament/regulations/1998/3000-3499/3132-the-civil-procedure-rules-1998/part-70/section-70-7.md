@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70.7. Debt respite scheme[^key-b17933a8b519b0b4ab05be26550cdeb6]
+## 70.7. Debt respite scheme[^c-b17933a8b519b0b4ab05be26550cdeb6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b17933a8b519b0b4ab05be26550cdeb6]: Textual amendment: [Rule 70.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/70.7) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2021/117/rule/16/3)
+[^c-b17933a8b519b0b4ab05be26550cdeb6]: Textual amendment: [Rule 70.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/70.7) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2021/117/rule/16/3)

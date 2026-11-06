@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-The Secretary of State[^key-219f7d952dec61d58c8d53c3c4132f51] may by order make such amendments of Schedule 3 as the Secretary of State considers appropriate for removing from that Schedule an institution that has ceased to exist.
+The Secretary of State[^c-219f7d952dec61d58c8d53c3c4132f51] may by order make such amendments of Schedule 3 as the Secretary of State considers appropriate for removing from that Schedule an institution that has ceased to exist.
 
 ## Annotations
 
-[^key-219f7d952dec61d58c8d53c3c4132f51]: Textual amendment: Words in [s. 24](https://www.legislation.gov.uk/ukpga/2011/25/section/24) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(c)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/c) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-219f7d952dec61d58c8d53c3c4132f51]: Textual amendment: Words in [s. 24](https://www.legislation.gov.uk/ukpga/2011/25/section/24) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(c)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/c) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

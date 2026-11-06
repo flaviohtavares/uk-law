@@ -32,7 +32,7 @@ summary: ''
 - (a) before the appointed date in pursuance of paragraph 21(1)(a) of that Schedule, or
 - (b) in pursuance of a determination on an appeal determined after that date by virtue of subsection (2) above,
 
-shall, in relation to any time on or after that date or, as the case may be, the date on which it is issued, be conclusive evidence that the policy to which it relates is (subject to paragraphs A1(2), B2(2) and B3(3) of that Schedule and[^key-ab68e664aef7122c15c6ad7bcde425ab] to any variation of the policy) a qualifying policy.
+shall, in relation to any time on or after that date or, as the case may be, the date on which it is issued, be conclusive evidence that the policy to which it relates is (subject to paragraphs A1(2), B2(2) and B3(3) of that Schedule and[^c-ab68e664aef7122c15c6ad7bcde425ab] to any variation of the policy) a qualifying policy.
 
 (4) Paragraph 22 of that Schedule (certificates from body issuing policy) shall cease to have effect in relation to any time on or after the appointed date.
 
@@ -59,18 +59,18 @@ shall, in relation to any time on or after that date or, as the case may be, the
 
 (7) In paragraph 27(1) of that Schedule, except so far as it has effect for the purposes of any case to which paragraph 21 of that Schedule applies by virtue of the preceding provisions of this section, for “paragraphs 21 and” there shall be substituted “ paragraph ”.
 
-(8)[^key-187928cfe9a6794cfe613282fb58458a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-187928cfe9a6794cfe613282fb58458a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-8835e568b97fdfb20737c88271a1bd9b][^c15670921] In this section “**the appointed date**” means such date as may be specified for the purpose in an order made by the Board.
+(9)[^c-8835e568b97fdfb20737c88271a1bd9b][^c15670921] In this section “**the appointed date**” means such date as may be specified for the purpose in an order made by the Board.
 
 ## Annotations
 
 [^c15670841]: Textual amendment: Words in s. 55(1)(a)(2)(3)(a)(4)(5)(a)(6) substituted (29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 162(1)(a)](https://www.legislation.gov.uk/ukpga/1996/8/section/162/1/a)
 
-[^key-ab68e664aef7122c15c6ad7bcde425ab]: Textual amendment: Words in s. 55 inserted (retrospective to 6.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 9 para. 6(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/9/paragraph/6/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/9/paragraph/6/2)
+[^c-ab68e664aef7122c15c6ad7bcde425ab]: Textual amendment: Words in s. 55 inserted (retrospective to 6.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 9 para. 6(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/9/paragraph/6/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/9/paragraph/6/2)
 
-[^key-187928cfe9a6794cfe613282fb58458a]: Textual amendment: S. 55(8) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/d)
+[^c-187928cfe9a6794cfe613282fb58458a]: Textual amendment: S. 55(8) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/d)
 
-[^key-8835e568b97fdfb20737c88271a1bd9b]: Subordinate legislation: S. 55(9): 6.4.2013 specified as "the appointed date" by [The Finance Act 1995, Section 55 (Appointed Date) Order 2013 (S.I. 2013/759)](https://www.legislation.gov.uk/uksi/2013/759), art. 2
+[^c-8835e568b97fdfb20737c88271a1bd9b]: Subordinate legislation: S. 55(9): 6.4.2013 specified as "the appointed date" by [The Finance Act 1995, Section 55 (Appointed Date) Order 2013 (S.I. 2013/759)](https://www.legislation.gov.uk/uksi/2013/759), art. 2
 
 [^c15670921]: Textual amendment: S. 55(9) inserted (29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 162(1)(b)](https://www.legislation.gov.uk/ukpga/1996/8/section/162/1/b)

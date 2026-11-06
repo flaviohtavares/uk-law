@@ -35,7 +35,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 Most Gracious Sovereign
 
-WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, towards raising the necessary supplies to defray Your Majesty’s public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and to grant unto Your Majesty the several duties hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ae39319e15216168aa87703a47f02a94][^key-b395963c1784f3a5b53403eb65e68fc4]
+WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, towards raising the necessary supplies to defray Your Majesty’s public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and to grant unto Your Majesty the several duties hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ae39319e15216168aa87703a47f02a94][^c-b395963c1784f3a5b53403eb65e68fc4]
 
 ## Contents
 
@@ -187,7 +187,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 61 — Deductions on account of tax from contract payments](part-3/section-61.md)
 - [Section 62 — Treatment of sums deducted](part-3/section-62.md)
 
-##### Liability for things done in the knowledge of deliberate failures to comply[^key-8ecd3397516972555089077d49dea7fa]
+##### Liability for things done in the knowledge of deliberate failures to comply[^c-8ecd3397516972555089077d49dea7fa]
 
 - [Section 62A — Payments made in the knowledge of deliberate failures to comply](part-3/section-62a.md)
 - [Section 62B — Returns made in the knowledge of deliberate failures to comply](part-3/section-62b.md)
@@ -202,7 +202,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 67 — Registration for gross payment: appeals](part-3/section-67.md)
 - [Section 68 — Registration for payment under deduction: cancellation and appeals](part-3/section-68.md)
 
-##### Verification, returns , security etc and penalties[^key-317c493d194667e1b33a3d64a3df7ba1]
+##### Verification, returns , security etc and penalties[^c-317c493d194667e1b33a3d64a3df7ba1]
 
 *Extent: E+W+S+N.I.*
 
@@ -396,7 +396,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 147 — Immediate needs annuities](part-3/section-147.md)
 - [Section 148 — Corporation tax: health service bodies](part-3/section-148.md)
 
-### Part 4 — Pension schemes etc[^key-46e8d5c569b19d0e9a2f312b69f474eb][^key-c64b2263e9f72b903c0a939ec7e39eac][^key-f6790585a11707cc02ba82956350ce1c][^key-a948cbddfe23187fa5a5b4123481e308][^key-a1138fa4e92eba2b7eb5b5b376f617ae][^key-273c9fbdf2ffdfadbfcd8e5cf352efa5][^key-7a0f6b1d40f90c5a3bebee1cca348376][^key-783f338aa86fef8706e19f17f3a7bec3][^key-2a8a1cd66ca0fae24783c53ac32d5621][^key-ad52800ba2add115c6a58e408808ced6][^key-27f77d759fd91525d85096007c2697da][^key-ee5955abc025fe4771ca62a7cfcf3da0][^key-165f37fd19da339addb8c90f46adc6b5][^key-4265f2fe5de93f27a58e05e6fde808c6][^key-a5655b4278fece169066d2103f8b0c34][^key-7055643fff30dd4e1a4ed50a34b655c1][^key-f29818d1db078d90531471f3477cfbbf]
+### Part 4 — Pension schemes etc[^c-46e8d5c569b19d0e9a2f312b69f474eb][^c-c64b2263e9f72b903c0a939ec7e39eac][^c-f6790585a11707cc02ba82956350ce1c][^c-a948cbddfe23187fa5a5b4123481e308][^c-a1138fa4e92eba2b7eb5b5b376f617ae][^c-273c9fbdf2ffdfadbfcd8e5cf352efa5][^c-7a0f6b1d40f90c5a3bebee1cca348376][^c-783f338aa86fef8706e19f17f3a7bec3][^c-2a8a1cd66ca0fae24783c53ac32d5621][^c-ad52800ba2add115c6a58e408808ced6][^c-27f77d759fd91525d85096007c2697da][^c-ee5955abc025fe4771ca62a7cfcf3da0][^c-165f37fd19da339addb8c90f46adc6b5][^c-4265f2fe5de93f27a58e05e6fde808c6][^c-a5655b4278fece169066d2103f8b0c34][^c-7055643fff30dd4e1a4ed50a34b655c1][^c-f29818d1db078d90531471f3477cfbbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -412,7 +412,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 151 — Meaning of “member”](part-4/section-151.md)
 - [Section 152 — Meaning of “arrangement”](part-4/section-152.md)
 
-#### Chapter 2 — Registration of pension schemes[^key-706621963aabe9fe1c8d3ea3d105d1cf]
+#### Chapter 2 — Registration of pension schemes[^c-706621963aabe9fe1c8d3ea3d105d1cf]
 
 ##### Registration
 
@@ -442,7 +442,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 159C — Penalties for failure to comply with information notices etc](part-4/section-159c.md)
 - [Section 159D — Penalties for inaccurate information or documents provided under information notice](part-4/section-159d.md)
 
-#### Chapter 3 — Payments by registered pension schemes[^key-ad52800ba2add115c6a58e408808ced6][^key-7055643fff30dd4e1a4ed50a34b655c1]
+#### Chapter 3 — Payments by registered pension schemes[^c-ad52800ba2add115c6a58e408808ced6][^c-7055643fff30dd4e1a4ed50a34b655c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -491,7 +491,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 
 - [Section 181 — Value shifting](part-4/section-181.md)
 
-##### Alternatively secured pensions[^key-7992d3ef8b1e9b788e0cd6795a5de49e]
+##### Alternatively secured pensions[^c-7992d3ef8b1e9b788e0cd6795a5de49e]
 
 - [Section 181A — Minimum level of payment](part-4/section-181a.md)
 
@@ -502,7 +502,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 184 — Unauthorised borrowing: other arrangements](part-4/section-184.md)
 - [Section 185 — Effect of unauthorised borrowing: other arrangements](part-4/section-185.md)
 
-##### Income and gains from taxable property[^key-14923a90fc6f1fca33b804f56d912e25]
+##### Income and gains from taxable property[^c-14923a90fc6f1fca33b804f56d912e25]
 
 - [Section 185A — Income from taxable property](part-4/section-185a.md)
 - [Section 185B — Annual profits and deemed profits](part-4/section-185b.md)
@@ -514,11 +514,11 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 185H — Disposal of interest in vehicle](part-4/section-185h.md)
 - [Section 185I — Credit for tax paid](part-4/section-185i.md)
 
-##### Repayments of lump sums[^key-57fff1cd5eef9483b0086f0955c69a13]
+##### Repayments of lump sums[^c-57fff1cd5eef9483b0086f0955c69a13]
 
 - [Section 185J — Effect of repayment of certain pre-6 April 2015 lump sums](part-4/section-185j.md)
 
-#### Chapter 4 — Registered pension schemes: tax reliefs and exemptions[^key-2a8a1cd66ca0fae24783c53ac32d5621]
+#### Chapter 4 — Registered pension schemes: tax reliefs and exemptions[^c-2a8a1cd66ca0fae24783c53ac32d5621]
 
 ##### Scheme investments
 
@@ -574,7 +574,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 
 - [Section 203 — Inheritance tax exemptions](part-4/section-203.md)
 
-#### Chapter 5 — Registered pension schemes: tax charges[^key-2a8a1cd66ca0fae24783c53ac32d5621][^key-ad52800ba2add115c6a58e408808ced6][^key-7055643fff30dd4e1a4ed50a34b655c1]
+#### Chapter 5 — Registered pension schemes: tax charges[^c-2a8a1cd66ca0fae24783c53ac32d5621][^c-ad52800ba2add115c6a58e408808ced6][^c-7055643fff30dd4e1a4ed50a34b655c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -599,7 +599,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 212 — Valuation of uncrystallised rights for purposes of section 210](part-4/section-212.md)
 - [Section 213 — Surchargeable unauthorised employer payments](part-4/section-213.md)
 
-##### ...[^key-ee7e4d6ed87b119b2e762643b4712843]
+##### ...[^c-ee7e4d6ed87b119b2e762643b4712843]
 
 *Extent: E+W+S+N.I.*
 
@@ -620,7 +620,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 213O — Anti-avoidance](part-4/section-213o.md)
 - [Section 213P — Power to make regulations about charge](part-4/section-213p.md)
 
-##### ...[^key-7cfd6266dcc9729103d06088bdfbd5b8]
+##### ...[^c-7cfd6266dcc9729103d06088bdfbd5b8]
 
 - [Section 214 — Lifetime allowance charge](part-4/section-214.md)
 - [Section 215 — Amount of charge](part-4/section-215.md)
@@ -689,7 +689,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 
 - [Section 242 — De-registration charge](part-4/section-242.md)
 
-#### CHAPTER 5A — Registered pension schemes established outside the United Kingdom[^key-f5ddc233ae75a5a85948b6e17a343094]
+#### CHAPTER 5A — Registered pension schemes established outside the United Kingdom[^c-f5ddc233ae75a5a85948b6e17a343094]
 
 *Extent: E+W+S+N.I.*
 
@@ -699,7 +699,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 242D — Non-UK registered schemes: annual allowance charge](part-4/section-242d.md)
 - [Section 242E — Investment-regulated non-UK registered schemes](part-4/section-242e.md)
 
-#### Chapter 6 — Schemes that are not registered pension schemes[^key-82faf91a8e0d278a23fafc96e1ffb2ca]
+#### Chapter 6 — Schemes that are not registered pension schemes[^c-82faf91a8e0d278a23fafc96e1ffb2ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -708,7 +708,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 243 — Overseas pension schemes: migrant member relief](part-4/section-243.md)
 - [Section 244 — Non-UK schemes: application of certain charges](part-4/section-244.md)
 
-##### Non-UK schemes: the overseas transfer charge[^key-8442a960629e1e99ed567cd792d5924f]
+##### Non-UK schemes: the overseas transfer charge[^c-8442a960629e1e99ed567cd792d5924f]
 
 *Extent: E+W+S+N.I.*
 
@@ -746,7 +746,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 248 — Employer’s cost of insuring against non-payment of benefit](part-4/section-248.md)
 - [Section 249 — Taxation of non-pension benefits](part-4/section-249.md)
 
-#### Chapter 7 — Compliance[^key-7055643fff30dd4e1a4ed50a34b655c1]
+#### Chapter 7 — Compliance[^c-7055643fff30dd4e1a4ed50a34b655c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -762,7 +762,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 254 — Accounting for tax by scheme administrators](part-4/section-254.md)
 - [Section 255 — Assessments under this Part](part-4/section-255.md)
 
-##### Payment[^key-8002110412e1da74997788d8467485fb]
+##### Payment[^c-8002110412e1da74997788d8467485fb]
 
 - [Section 255A — Electronic payment](part-4/section-255a.md)
 - [Section 255B — Payments to be cleared payments](part-4/section-255b.md)
@@ -784,7 +784,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 265 — Winding-up to facilitate payment of lump sums](part-4/section-265.md)
 - [Section 266 — Transfers to insured schemes](part-4/section-266.md)
 
-##### Relief from liability in respect of returned unauthorised member payments[^key-033b2b605e00427e49f5541a49d4c836]
+##### Relief from liability in respect of returned unauthorised member payments[^c-033b2b605e00427e49f5541a49d4c836]
 
 - [Section 266A — Member's liability](part-4/section-266a.md)
 - [Section 266B — Scheme's liability](part-4/section-266b.md)
@@ -811,11 +811,11 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 273B — Power of trustees or managers to make certain payments](part-4/section-273b.md)
 - [Section 274 — Supplementary](part-4/section-274.md)
 
-#### Chapter 8 — Supplementary[^key-ad52800ba2add115c6a58e408808ced6]
+#### Chapter 8 — Supplementary[^c-ad52800ba2add115c6a58e408808ced6]
 
 *Extent: E+W+S+N.I.*
 
-##### Master Trust schemes, collective money purchase schemes etc[^key-deb27d7dabdaa6f3b549d61e720ea7bb][^key-e2cf778e16ffa27e7d0b812294a9e534]
+##### Master Trust schemes, collective money purchase schemes etc[^c-deb27d7dabdaa6f3b549d61e720ea7bb][^c-e2cf778e16ffa27e7d0b812294a9e534]
 
 - [Section 274ZZA — Master Trust schemes](part-4/section-274zza.md)
 - [Section 274ZZB — Collective money purchase schemes](part-4/section-274zzb.md)
@@ -891,7 +891,7 @@ WE, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - [Section 304 — Application to certain partnership transactions](part-6/section-304.md)
 - [Section 305 — Liability of partners](part-6/section-305.md)
 
-### Part 7 — Disclosure of tax avoidance schemes[^key-616dd686ec4a3dcff96309164163af9c]
+### Part 7 — Disclosure of tax avoidance schemes[^c-616dd686ec4a3dcff96309164163af9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -1005,74 +1005,74 @@ SCHEDULES
 
 ## Annotations
 
-[^key-ae39319e15216168aa87703a47f02a94]: Modification: Act modified (1.7.2008) (N.I.) (with effect in accordance with reg. 1 of the amending Rule) by [The Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008 (S.R. 2008/256)](https://www.legislation.gov.uk/nisr/2008/256), [reg. 88(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/88/1) (with [regs. 134](https://www.legislation.gov.uk/nisr/2008/256/regulation/134), [258](https://www.legislation.gov.uk/nisr/2008/256/regulation/258))
+[^c-ae39319e15216168aa87703a47f02a94]: Modification: Act modified (1.7.2008) (N.I.) (with effect in accordance with reg. 1 of the amending Rule) by [The Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008 (S.R. 2008/256)](https://www.legislation.gov.uk/nisr/2008/256), [reg. 88(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/88/1) (with [regs. 134](https://www.legislation.gov.uk/nisr/2008/256/regulation/134), [258](https://www.legislation.gov.uk/nisr/2008/256/regulation/258))
 
-[^key-b395963c1784f3a5b53403eb65e68fc4]: Modification: Act modified (1.7.2008) (N.I.) (with effect in accordance with reg. 1 of the amending Rule) by [The Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008 (S.R. 2008/256)](https://www.legislation.gov.uk/nisr/2008/256), [reg. 215(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/215/1) (with [regs. 134](https://www.legislation.gov.uk/nisr/2008/256/regulation/134), [258](https://www.legislation.gov.uk/nisr/2008/256/regulation/258))
+[^c-b395963c1784f3a5b53403eb65e68fc4]: Modification: Act modified (1.7.2008) (N.I.) (with effect in accordance with reg. 1 of the amending Rule) by [The Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008 (S.R. 2008/256)](https://www.legislation.gov.uk/nisr/2008/256), [reg. 215(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/215/1) (with [regs. 134](https://www.legislation.gov.uk/nisr/2008/256/regulation/134), [258](https://www.legislation.gov.uk/nisr/2008/256/regulation/258))
 
-[^key-8ecd3397516972555089077d49dea7fa]: Textual amendment: [Ss. 62A-62C](https://www.legislation.gov.uk/ukpga/2004/12/section/62A) and cross-heading inserted (with effect from 6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 220(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/220/2), [222(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/222/1)
+[^c-8ecd3397516972555089077d49dea7fa]: Textual amendment: [Ss. 62A-62C](https://www.legislation.gov.uk/ukpga/2004/12/section/62A) and cross-heading inserted (with effect from 6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 220(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/220/2), [222(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/222/1)
 
-[^key-317c493d194667e1b33a3d64a3df7ba1]: Textual amendment: Word in [s. 69 cross-heading](https://www.legislation.gov.uk/ukpga/2004/12/part/3/chapter/3/crossheading/verification-returns-etc-and-penalties) inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 82(1)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/82/1/a)
+[^c-317c493d194667e1b33a3d64a3df7ba1]: Textual amendment: Word in [s. 69 cross-heading](https://www.legislation.gov.uk/ukpga/2004/12/part/3/chapter/3/crossheading/verification-returns-etc-and-penalties) inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 82(1)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/82/1/a)
 
-[^key-46e8d5c569b19d0e9a2f312b69f474eb]: Modification: Pt. 4 modified (N.I.) (1.4.2006) by [The Firemens Pension Scheme Order (Northern Ireland) 2006 (S.R. 2006/210)](https://www.legislation.gov.uk/nisr/2006/210), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2006/210/article/1/2), [103](https://www.legislation.gov.uk/nisr/2006/210/article/103)
+[^c-46e8d5c569b19d0e9a2f312b69f474eb]: Modification: Pt. 4 modified (N.I.) (1.4.2006) by [The Firemens Pension Scheme Order (Northern Ireland) 2006 (S.R. 2006/210)](https://www.legislation.gov.uk/nisr/2006/210), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2006/210/article/1/2), [103](https://www.legislation.gov.uk/nisr/2006/210/article/103)
 
-[^key-c64b2263e9f72b903c0a939ec7e39eac]: Modification: Pt. 4 modified (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [9](https://www.legislation.gov.uk/uksi/2006/575/regulation/9), [10](https://www.legislation.gov.uk/uksi/2006/575/regulation/10)
+[^c-c64b2263e9f72b903c0a939ec7e39eac]: Modification: Pt. 4 modified (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [9](https://www.legislation.gov.uk/uksi/2006/575/regulation/9), [10](https://www.legislation.gov.uk/uksi/2006/575/regulation/10)
 
-[^key-f6790585a11707cc02ba82956350ce1c]: Modification: Pt. 4 modified (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [12](https://www.legislation.gov.uk/uksi/2006/575/regulation/12)
+[^c-f6790585a11707cc02ba82956350ce1c]: Modification: Pt. 4 modified (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [12](https://www.legislation.gov.uk/uksi/2006/575/regulation/12)
 
-[^key-a948cbddfe23187fa5a5b4123481e308]: Modification: Pt. 4 modified (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [13(5)](https://www.legislation.gov.uk/uksi/2006/575/regulation/13/5)
+[^c-a948cbddfe23187fa5a5b4123481e308]: Modification: Pt. 4 modified (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [13(5)](https://www.legislation.gov.uk/uksi/2006/575/regulation/13/5)
 
-[^key-a1138fa4e92eba2b7eb5b5b376f617ae]: Modification: Pt. 4 modified (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [26](https://www.legislation.gov.uk/uksi/2006/575/regulation/26)
+[^c-a1138fa4e92eba2b7eb5b5b376f617ae]: Modification: Pt. 4 modified (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [26](https://www.legislation.gov.uk/uksi/2006/575/regulation/26)
 
-[^key-273c9fbdf2ffdfadbfcd8e5cf352efa5]: Modification: Pt. 4 modified (31.12.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/7); [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)
+[^c-273c9fbdf2ffdfadbfcd8e5cf352efa5]: Modification: Pt. 4 modified (31.12.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2006/48/schedule/3/paragraph/7); [S.I. 2007/3203](https://www.legislation.gov.uk/uksi/2007/3203), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/3203/article/3/b)
 
-[^key-7a0f6b1d40f90c5a3bebee1cca348376]: Modification: Pt. 4 modified (1.7.2008) (N.I.) (with effect in accordance with reg. 1 of the amending Rule) by [The Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008 (S.R. 2008/256)](https://www.legislation.gov.uk/nisr/2008/256), [regs. 1](https://www.legislation.gov.uk/nisr/2008/256/regulation/1), [124(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/124/1) (with [regs. 134](https://www.legislation.gov.uk/nisr/2008/256/regulation/134), [258](https://www.legislation.gov.uk/nisr/2008/256/regulation/258))
+[^c-7a0f6b1d40f90c5a3bebee1cca348376]: Modification: Pt. 4 modified (1.7.2008) (N.I.) (with effect in accordance with reg. 1 of the amending Rule) by [The Health and Social Care (Pension Scheme) Regulations (Northern Ireland) 2008 (S.R. 2008/256)](https://www.legislation.gov.uk/nisr/2008/256), [regs. 1](https://www.legislation.gov.uk/nisr/2008/256/regulation/1), [124(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/124/1) (with [regs. 134](https://www.legislation.gov.uk/nisr/2008/256/regulation/134), [258](https://www.legislation.gov.uk/nisr/2008/256/regulation/258))
 
-[^key-783f338aa86fef8706e19f17f3a7bec3]: Modification: Pt. 4 modified by [The Taxation of Pension Schemes (Transitional Provisions) Order 2006 (S.I. 2006/572)](https://www.legislation.gov.uk/uksi/2006/572), [reg. 5A](https://www.legislation.gov.uk/uksi/2006/572/regulation/5A) (as inserted (6.4.2006) by [S.I. 2008/2990](https://www.legislation.gov.uk/uksi/2008/2990), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2990/article/1/1), [3](https://www.legislation.gov.uk/uksi/2008/2990/article/3))
+[^c-783f338aa86fef8706e19f17f3a7bec3]: Modification: Pt. 4 modified by [The Taxation of Pension Schemes (Transitional Provisions) Order 2006 (S.I. 2006/572)](https://www.legislation.gov.uk/uksi/2006/572), [reg. 5A](https://www.legislation.gov.uk/uksi/2006/572/regulation/5A) (as inserted (6.4.2006) by [S.I. 2008/2990](https://www.legislation.gov.uk/uksi/2008/2990), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/2990/article/1/1), [3](https://www.legislation.gov.uk/uksi/2008/2990/article/3))
 
-[^key-2a8a1cd66ca0fae24783c53ac32d5621]: Modification: Pt. 4 applied (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 35 para. 18](https://www.legislation.gov.uk/ukpga/2009/10/schedule/35/paragraph/18)
+[^c-2a8a1cd66ca0fae24783c53ac32d5621]: Modification: Pt. 4 applied (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 35 para. 18](https://www.legislation.gov.uk/ukpga/2009/10/schedule/35/paragraph/18)
 
-[^key-ad52800ba2add115c6a58e408808ced6]: Modification: Pt. 4 modified (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 18 para. 14(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/14/3)
+[^c-ad52800ba2add115c6a58e408808ced6]: Modification: Pt. 4 modified (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 18 para. 14(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/18/paragraph/14/3)
 
-[^key-27f77d759fd91525d85096007c2697da]: Modification: Pt. 4 applied (with modifications) (with application in accordance with Sch. 22 para. 1 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 22 para. 1(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/22/paragraph/1/2)
+[^c-27f77d759fd91525d85096007c2697da]: Modification: Pt. 4 applied (with modifications) (with application in accordance with Sch. 22 para. 1 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 22 para. 1(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/22/paragraph/1/2)
 
-[^key-ee5955abc025fe4771ca62a7cfcf3da0]: Modification: Pt. 4 modified (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/6/paragraph/1/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/6/paragraph/1/3)
+[^c-ee5955abc025fe4771ca62a7cfcf3da0]: Modification: Pt. 4 modified (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 6 para. 1(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/6/paragraph/1/2)[(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/6/paragraph/1/3)
 
-[^key-165f37fd19da339addb8c90f46adc6b5]: Modification: Pt. 4: power to amend conferred (17.12.2014) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/30/section/4/3)
+[^c-165f37fd19da339addb8c90f46adc6b5]: Modification: Pt. 4: power to amend conferred (17.12.2014) by [Taxation of Pensions Act 2014 (c. 30)](https://www.legislation.gov.uk/ukpga/2014/30), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2014/30/section/4/3)
 
-[^key-4265f2fe5de93f27a58e05e6fde808c6]: Modification: Pt. 4 modified (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/1)
+[^c-4265f2fe5de93f27a58e05e6fde808c6]: Modification: Pt. 4 modified (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/1)
 
-[^key-a5655b4278fece169066d2103f8b0c34]: Modification: Pt. 4 modified (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/9/2)
+[^c-a5655b4278fece169066d2103f8b0c34]: Modification: Pt. 4 modified (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 4 para. 9(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/4/paragraph/9/2)
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
+[^c-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
 
-[^key-f29818d1db078d90531471f3477cfbbf]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2004/12/part/4) modified (14.7.2026 for the tax year 2014-15 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/673/regulation/10)
+[^c-f29818d1db078d90531471f3477cfbbf]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2004/12/part/4) modified (14.7.2026 for the tax year 2014-15 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/673/regulation/10)
 
-[^key-706621963aabe9fe1c8d3ea3d105d1cf]: Modification: Pt. 4 Ch. 2 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [7](https://www.legislation.gov.uk/uksi/2006/575/regulation/7)
+[^c-706621963aabe9fe1c8d3ea3d105d1cf]: Modification: Pt. 4 Ch. 2 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [7](https://www.legislation.gov.uk/uksi/2006/575/regulation/7)
 
-[^key-7992d3ef8b1e9b788e0cd6795a5de49e]: Textual amendment: S. 181A and cross-heading inserted (19.7.2007) (with effect in accordance with Sch. 19 para. 29(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 19 para. 14](https://www.legislation.gov.uk/ukpga/2007/11/schedule/19/paragraph/14)
+[^c-7992d3ef8b1e9b788e0cd6795a5de49e]: Textual amendment: S. 181A and cross-heading inserted (19.7.2007) (with effect in accordance with Sch. 19 para. 29(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 19 para. 14](https://www.legislation.gov.uk/ukpga/2007/11/schedule/19/paragraph/14)
 
-[^key-14923a90fc6f1fca33b804f56d912e25]: Textual amendment: Ss. 185A-185I and cross-heading inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 158(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/158/2), [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/21/paragraph/6)
+[^c-14923a90fc6f1fca33b804f56d912e25]: Textual amendment: Ss. 185A-185I and cross-heading inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 158(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/158/2), [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/21/paragraph/6)
 
-[^key-57fff1cd5eef9483b0086f0955c69a13]: Textual amendment: S. 185J and cross-heading inserted (19.3.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 5 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/5/paragraph/3), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/5/paragraph/15)
+[^c-57fff1cd5eef9483b0086f0955c69a13]: Textual amendment: S. 185J and cross-heading inserted (19.3.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 5 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/5/paragraph/3), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/5/paragraph/15)
 
-[^key-ee7e4d6ed87b119b2e762643b4712843]: Textual amendment: [Ss. 213A-213P](https://www.legislation.gov.uk/ukpga/2004/12/section/213A) and cross-heading inserted (with effect for tax year 2011-12 and subsequent tax years in accordance with [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2010/13/schedule/2/paragraph/5) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/2/paragraph/2); which insertion fell without ever having effect as a result of the repeal (10.12.2010) of the affecting provision by [The Finance Act 2010, Section 23 and Schedule 2 (High Income Excess Relief Charge) (Repeal) Order 2010 (S.I. 2010/2938)](https://www.legislation.gov.uk/uksi/2010/2938), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2938/article/1), [2](https://www.legislation.gov.uk/uksi/2010/2938/article/2)
+[^c-ee7e4d6ed87b119b2e762643b4712843]: Textual amendment: [Ss. 213A-213P](https://www.legislation.gov.uk/ukpga/2004/12/section/213A) and cross-heading inserted (with effect for tax year 2011-12 and subsequent tax years in accordance with [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2010/13/schedule/2/paragraph/5) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/2/paragraph/2); which insertion fell without ever having effect as a result of the repeal (10.12.2010) of the affecting provision by [The Finance Act 2010, Section 23 and Schedule 2 (High Income Excess Relief Charge) (Repeal) Order 2010 (S.I. 2010/2938)](https://www.legislation.gov.uk/uksi/2010/2938), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2938/article/1), [2](https://www.legislation.gov.uk/uksi/2010/2938/article/2)
 
-[^key-7cfd6266dcc9729103d06088bdfbd5b8]: Textual amendment: [Ss. 214-226](https://www.legislation.gov.uk/ukpga/2004/12/section/214) and cross-heading omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 3](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/3), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4); and (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [S.I. 2024/1012](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17))
+[^c-7cfd6266dcc9729103d06088bdfbd5b8]: Textual amendment: [Ss. 214-226](https://www.legislation.gov.uk/ukpga/2004/12/section/214) and cross-heading omitted (for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 9 paras. 3](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/3), [124](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/124) (with [Sch. 9 paras. 125-132A](https://www.legislation.gov.uk/ukpga/2024/3/schedule/9/paragraph/125)) (as amended by [S.I. 2024/356](https://www.legislation.gov.uk/uksi/2024/356), [regs. 1](https://www.legislation.gov.uk/uksi/2024/356/regulation/1), [4](https://www.legislation.gov.uk/uksi/2024/356/regulation/4); and (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [S.I. 2024/1012](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [17](https://www.legislation.gov.uk/uksi/2024/1012/regulation/17))
 
-[^key-f5ddc233ae75a5a85948b6e17a343094]: Textual amendment: Pt. 4 Ch. 5A inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/14)
+[^c-f5ddc233ae75a5a85948b6e17a343094]: Textual amendment: Pt. 4 Ch. 5A inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/14)
 
-[^key-82faf91a8e0d278a23fafc96e1ffb2ca]: Modification: Pt. 4 Ch. 6 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [25](https://www.legislation.gov.uk/uksi/2006/575/regulation/25)
+[^c-82faf91a8e0d278a23fafc96e1ffb2ca]: Modification: Pt. 4 Ch. 6 excluded (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [25](https://www.legislation.gov.uk/uksi/2006/575/regulation/25)
 
-[^key-8442a960629e1e99ed567cd792d5924f]: Textual amendment: Ss. 244A-244N and cross-heading inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/11)
+[^c-8442a960629e1e99ed567cd792d5924f]: Textual amendment: Ss. 244A-244N and cross-heading inserted (with effect in accordance with Sch. 4 para. 25 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2017/10/schedule/4/paragraph/11)
 
-[^key-8002110412e1da74997788d8467485fb]: Textual amendment: Ss. 255A, 255B and cross-heading inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 48](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/48), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)
+[^c-8002110412e1da74997788d8467485fb]: Textual amendment: Ss. 255A, 255B and cross-heading inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 48](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/48), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)
 
-[^key-033b2b605e00427e49f5541a49d4c836]: Textual amendment: Ss. 266A, 266B and cross-heading inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 4](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/4), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)
+[^c-033b2b605e00427e49f5541a49d4c836]: Textual amendment: Ss. 266A, 266B and cross-heading inserted (6.4.2006) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 10 paras. 4](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/4), [64(1)](https://www.legislation.gov.uk/ukpga/2005/7/schedule/10/paragraph/64/1)
 
-[^key-deb27d7dabdaa6f3b549d61e720ea7bb]: Textual amendment: [S. 274ZA](https://www.legislation.gov.uk/ukpga/2004/12/section/274ZA) cross-heading substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/4)
+[^c-deb27d7dabdaa6f3b549d61e720ea7bb]: Textual amendment: [S. 274ZA](https://www.legislation.gov.uk/ukpga/2004/12/section/274ZA) cross-heading substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/4)
 
-[^key-e2cf778e16ffa27e7d0b812294a9e534]: Textual amendment: [S. 274B](https://www.legislation.gov.uk/ukpga/2004/12/section/274B) and cross-heading inserted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 3 paras. 1(5)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/1/5), [2(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/2/3) (with [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/4))
+[^c-e2cf778e16ffa27e7d0b812294a9e534]: Textual amendment: [S. 274B](https://www.legislation.gov.uk/ukpga/2004/12/section/274B) and cross-heading inserted (15.3.2018) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 3 paras. 1(5)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/1/5), [2(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/2/3) (with [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2018/3/schedule/3/paragraph/4))
 
 [^M_F_be117235-bcd1-472e-c7ef-e9561810b9af]: Textual amendment: S. 274ZB and cross-heading inserted (11.7.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 348(1)(d)(3)](https://www.legislation.gov.uk/ukpga/2023/30/section/348/1/d/3)
 
-[^key-616dd686ec4a3dcff96309164163af9c]: Modification: Pt. 7 excluded (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 35 para. 13(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/13/b)
+[^c-616dd686ec4a3dcff96309164163af9c]: Modification: Pt. 7 excluded (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 35 para. 13(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/35/paragraph/13/b)

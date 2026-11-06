@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Restrictions on changing category of school[^key-cb6a40ec40478885e411f56964746a4e]
+## 46. Restrictions on changing category of school[^c-cb6a40ec40478885e411f56964746a4e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb6a40ec40478885e411f56964746a4e]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2013/1/section/46) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-cb6a40ec40478885e411f56964746a4e]: Commencement: [S. 46](https://www.legislation.gov.uk/anaw/2013/1/section/46) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

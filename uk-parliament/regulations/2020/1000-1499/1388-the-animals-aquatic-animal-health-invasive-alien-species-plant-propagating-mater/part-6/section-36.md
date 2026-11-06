@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. The Non-Commercial Movement of Pet Animals Order 2011[^key-50f84f2ebd57fee7b2c06698f0dc2bf2]
+## 36. The Non-Commercial Movement of Pet Animals Order 2011[^c-50f84f2ebd57fee7b2c06698f0dc2bf2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-50f84f2ebd57fee7b2c06698f0dc2bf2]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2020/1388/regulation/36) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-50f84f2ebd57fee7b2c06698f0dc2bf2]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2020/1388/regulation/36) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
 [^f00071]: Footnote: [S.I. 2011/2883](https://www.legislation.gov.uk/uksi/2011/2883), amended by [S.I. 2014/3158](https://www.legislation.gov.uk/uksi/2014/3158). There are other amending instruments but none is relevant.

@@ -40,136 +40,136 @@ setting out a methodology for determining the correlation parameters necessary f
 
 (Text with EEA relevance) (revoked)
 
-[^key-4b2589b42daa8a75ed373265c2baf142]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b2589b42daa8a75ed373265c2baf142]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-4b2589b42daa8a75ed373265c2baf142]
+## Article 1. Subject matter[^c-4b2589b42daa8a75ed373265c2baf142]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-4b2589b42daa8a75ed373265c2baf142]
+## Article 2. Definitions[^c-4b2589b42daa8a75ed373265c2baf142]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Determination of average specific emissions of CO<sub>2</sub> for target compliance purposes in the period 2017 to 2020[^key-4b2589b42daa8a75ed373265c2baf142]
+## Article 3. Determination of average specific emissions of CO<sub>2</sub> for target compliance purposes in the period 2017 to 2020[^c-4b2589b42daa8a75ed373265c2baf142]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Determination of average specific emissions based on WLTP CO<sub>2</sub> values[^key-4b2589b42daa8a75ed373265c2baf142]
+## Article 4. Determination of average specific emissions based on WLTP CO<sub>2</sub> values[^c-4b2589b42daa8a75ed373265c2baf142]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Application of Article 12 of Regulation (EU) No 510/2011 – eco-innovations[^key-4b2589b42daa8a75ed373265c2baf142]
+## Article 5. Application of Article 12 of Regulation (EU) No 510/2011 – eco-innovations[^c-4b2589b42daa8a75ed373265c2baf142]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Determination and correction of NEDC CO<sub>2</sub> values for the calculation of the specific average emissions[^key-4b2589b42daa8a75ed373265c2baf142]
+## Article 6. Determination and correction of NEDC CO<sub>2</sub> values for the calculation of the specific average emissions[^c-4b2589b42daa8a75ed373265c2baf142]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6a. Reporting of WLTP measurement results[^key-4b2589b42daa8a75ed373265c2baf142]
+## Article 6a. Reporting of WLTP measurement results[^c-4b2589b42daa8a75ed373265c2baf142]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Amendments to Regulation (EU) No 293/2012[^key-4b2589b42daa8a75ed373265c2baf142]
+## Article 7. Amendments to Regulation (EU) No 293/2012[^c-4b2589b42daa8a75ed373265c2baf142]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force[^key-4b2589b42daa8a75ed373265c2baf142]
+## Article 8. Entry into force[^c-4b2589b42daa8a75ed373265c2baf142]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b2589b42daa8a75ed373265c2baf142]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b2589b42daa8a75ed373265c2baf142]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-4b2589b42daa8a75ed373265c2baf142]
+## ANNEX I[^c-4b2589b42daa8a75ed373265c2baf142]
 
-[^key-4b2589b42daa8a75ed373265c2baf142]1.
+[^c-4b2589b42daa8a75ed373265c2baf142]1.
 
 INTRODUCTION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b2589b42daa8a75ed373265c2baf142]2.
+[^c-4b2589b42daa8a75ed373265c2baf142]2.
 
 DETERMINATION OF THE NEDC CO<sub>2</sub> VALUE FOR THE WLTP INTERPOLATION FAMILY
 
-[^key-4b2589b42daa8a75ed373265c2baf142]2.1.
+[^c-4b2589b42daa8a75ed373265c2baf142]2.1.
 
 **Correlation tool**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b2589b42daa8a75ed373265c2baf142]2.2.
+[^c-4b2589b42daa8a75ed373265c2baf142]2.2.
 
 **Identification of the WLTP test results to be used for the purpose of defining the input data for the simulation model**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b2589b42daa8a75ed373265c2baf142]2.2a.
+[^c-4b2589b42daa8a75ed373265c2baf142]2.2a.
 
 WLTP test conditions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b2589b42daa8a75ed373265c2baf142]2.2b.
+[^c-4b2589b42daa8a75ed373265c2baf142]2.2b.
 
 Applicability of the WLTP test conditions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b2589b42daa8a75ed373265c2baf142]2.3.
+[^c-4b2589b42daa8a75ed373265c2baf142]2.3.
 
 **Determination of the input data and conditions for the operation of the correlation tool**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b2589b42daa8a75ed373265c2baf142]2.4.
+[^c-4b2589b42daa8a75ed373265c2baf142]2.4.
 
 **Input data matrix**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b2589b42daa8a75ed373265c2baf142]3.
+[^c-4b2589b42daa8a75ed373265c2baf142]3.
 
 DETERMINATION OF NEDC CO<sub>2</sub> EMISSION AND FUEL CONSUMPTION VALUES FOR VEHICLE H AND L
 
-[^key-4b2589b42daa8a75ed373265c2baf142]3.1.
+[^c-4b2589b42daa8a75ed373265c2baf142]3.1.
 
 **Determination of NEDC CO<sub>2</sub> reference values, phase-specific values and fuel consumption values for vehicle H and L**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b2589b42daa8a75ed373265c2baf142]3.2.
+[^c-4b2589b42daa8a75ed373265c2baf142]3.2.
 
 **Interpretation of the NEDC CO<sub>2</sub> reference values determined for vehicle H, L or R<sub>MSV</sub>**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b2589b42daa8a75ed373265c2baf142]3.3.
+[^c-4b2589b42daa8a75ed373265c2baf142]3.3.
 
 **Calculation of the NEDC phase-specific CO<sub>2</sub> values and fuel consumption values for vehicles H, L and R<sub>MSV</sub>**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b2589b42daa8a75ed373265c2baf142]4.
+[^c-4b2589b42daa8a75ed373265c2baf142]4.
 
 CALCULATION OF THE NEDC CO<sub>2</sub> VALUES AND FUEL CONSUMPTION VALUES TO BE ATTRIBUTED TO INDIVIDUAL COMPLETE N1 VEHICLES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b2589b42daa8a75ed373265c2baf142]5.
+[^c-4b2589b42daa8a75ed373265c2baf142]5.
 
 RECORDING OF DATA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-4b2589b42daa8a75ed373265c2baf142]
+## ANNEX II[^c-4b2589b42daa8a75ed373265c2baf142]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b2589b42daa8a75ed373265c2baf142]: Textual amendment: Regulation revoked (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [115](https://www.legislation.gov.uk/uksi/2023/1394/article/115) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))
+[^c-4b2589b42daa8a75ed373265c2baf142]: Textual amendment: Regulation revoked (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [115](https://www.legislation.gov.uk/uksi/2023/1394/article/115) (with [art. 117](https://www.legislation.gov.uk/uksi/2023/1394/article/117))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Recovery of costs of new connections[^key-3cca869de1d4a5e2ac4a4544a11eddfd]
+## 29. Recovery of costs of new connections[^c-3cca869de1d4a5e2ac4a4544a11eddfd]
 
 *Extent: E+W+S*
 
@@ -34,10 +34,10 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 (4) In this paragraph—
 
 - “**public communications provider**” has the same meaning as in section 151(1) of the 2003 Act; and
-- “**public utility undertaker**” means a gas, water, electricity or[^key-41c45d567a1455b3739ad64a74693ead] sewerage undertaker.
+- “**public utility undertaker**” means a gas, water, electricity or[^c-41c45d567a1455b3739ad64a74693ead] sewerage undertaker.
 
 ## Annotations
 
-[^key-3cca869de1d4a5e2ac4a4544a11eddfd]: Commencement: Art. 29 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-3cca869de1d4a5e2ac4a4544a11eddfd]: Commencement: Art. 29 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
 
-[^key-41c45d567a1455b3739ad64a74693ead]: Textual amendment: Word in [art. 29(4)](https://www.legislation.gov.uk/uksi/2022/432/article/29/4) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-41c45d567a1455b3739ad64a74693ead]: Textual amendment: Word in [art. 29(4)](https://www.legislation.gov.uk/uksi/2022/432/article/29/4) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England.
 
-## 55. Functions of Council in relation to churches, etc. in use[^key-7b44259dc1c2bd8d58268283ca34f8a1]
+## 55. Functions of Council in relation to churches, etc. in use[^c-7b44259dc1c2bd8d58268283ca34f8a1]
 
 *Extent: E*
 
 (1) It shall be the duty of the Council—
 
 - (a) to advise the Archbishops' Council and the General Synod, when requested to do so, on matters relating to churches;
-- (b) to consider consultation by and requests for advice from judges and registrars of the ecclesiastical courts and from Diocesan Advisory Committees in relation to applications or possible applications for the grant of a faculty, any other matter referred to in section 7(1)(a), (c) or (d) of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018[^key-305577079c9e4563cb74ee40f4f4b753] and any matter to which any of sections 56, 58(1) to (6) and (9), 60, 62 to 64, 68 to 75 and 77 to 79 of that Measure[^key-0839e543cfd4b1b78259ce050b82087b] relates and, to the extent that the Council thinks appropriate, respond to such requests or consultation;
+- (b) to consider consultation by and requests for advice from judges and registrars of the ecclesiastical courts and from Diocesan Advisory Committees in relation to applications or possible applications for the grant of a faculty, any other matter referred to in section 7(1)(a), (c) or (d) of the Ecclesiastical Jurisdiction and Care of Churches Measure 2018[^c-305577079c9e4563cb74ee40f4f4b753] and any matter to which any of sections 56, 58(1) to (6) and (9), 60, 62 to 64, 68 to 75 and 77 to 79 of that Measure[^c-0839e543cfd4b1b78259ce050b82087b] relates and, to the extent that the Council thinks appropriate, respond to such requests or consultation;
 - (c) to promote the care and conservation of churches and greater knowledge, understanding and enjoyment of and artistic activity relating to churches both within the Church of England and more widely among the general public or sections of the public on its own or in conjunction with other persons and bodies;
 - (d) to promote, in consultation with such other persons and organisations as it thinks fit, by means of guidance or otherwise, standards of good practice in relation to the use, care, conservation, repair, planning, design and development of churches; and
 - (e) to convene, annually, a meeting of the chairmen and secretaries of Diocesan Advisory Committees and, so far as practicable, to maintain regular contact with those committees.
@@ -55,8 +55,8 @@ but does not include a cathedral.
 
 ## Annotations
 
-[^key-7b44259dc1c2bd8d58268283ca34f8a1]: Commencement: S. 55 in force at 11.6.2008 by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
+[^c-7b44259dc1c2bd8d58268283ca34f8a1]: Commencement: S. 55 in force at 11.6.2008 by [2007 No. 3](https://www.legislation.gov.uk/ukci/2007/3), Instrument made by Archbishops
 
-[^key-305577079c9e4563cb74ee40f4f4b753]: Textual amendment: Words in s. 55(1)(b) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 15(a)](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/15/a) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-305577079c9e4563cb74ee40f4f4b753]: Textual amendment: Words in s. 55(1)(b) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 15(a)](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/15/a) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-0839e543cfd4b1b78259ce050b82087b]: Textual amendment: Words in s. 55(1)(b) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 15(b)](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/15/b) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-0839e543cfd4b1b78259ce050b82087b]: Textual amendment: Words in s. 55(1)(b) substituted (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 3 para. 15(b)](https://www.legislation.gov.uk/ukcm/2018/3/schedule/3/paragraph/15/b) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

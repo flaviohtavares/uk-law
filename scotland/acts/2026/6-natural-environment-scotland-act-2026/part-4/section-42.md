@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Nature conservation marine protected areas: climate adaptation[^key-d82f763536b06526c71a868ac42acdfd][^key-43534f4f25018c5f9d8b09b87788d4d6]
+## 42. Nature conservation marine protected areas: climate adaptation[^c-d82f763536b06526c71a868ac42acdfd][^c-43534f4f25018c5f9d8b09b87788d4d6]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d82f763536b06526c71a868ac42acdfd]: Commencement: S. 42 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-d82f763536b06526c71a868ac42acdfd]: Commencement: S. 42 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-43534f4f25018c5f9d8b09b87788d4d6]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2026/6/section/42) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(y)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/y)
+[^c-43534f4f25018c5f9d8b09b87788d4d6]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2026/6/section/42) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(y)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/y)

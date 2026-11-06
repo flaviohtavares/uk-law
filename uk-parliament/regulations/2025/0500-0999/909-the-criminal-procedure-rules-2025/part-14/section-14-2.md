@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.2. Exercise of court’s powers: general[^key-0da2c22c879f67ca8a142bbcb43cf90d]
+## 14.2. Exercise of court’s powers: general[^c-0da2c22c879f67ca8a142bbcb43cf90d]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ summary: ''
 
 *\[Note. See section 5 of the Bail Act 1976 and sections 93(7) and 102(4) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012*[^f00347].
 
-*When, by virtue of a direction given under section 51 of the Criminal Justice Act 2003[^key-8490bd17a3dd0a8edf911e4685a9087a]*, *a defendant attends a hearing through a live link, then under section 52A of that Act the defendant is to be treated as present in court.*
+*When, by virtue of a direction given under section 51 of the Criminal Justice Act 2003[^c-8490bd17a3dd0a8edf911e4685a9087a]*, *a defendant attends a hearing through a live link, then under section 52A of that Act the defendant is to be treated as present in court.*
 
 *Under section 91 of the 2012 Act, instead of granting bail to a defendant under 18 the court may*—
 
@@ -72,8 +72,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0da2c22c879f67ca8a142bbcb43cf90d]: Commencement: [Rule 14.2](https://www.legislation.gov.uk/uksi/2025/909/rule/14.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-0da2c22c879f67ca8a142bbcb43cf90d]: Commencement: [Rule 14.2](https://www.legislation.gov.uk/uksi/2025/909/rule/14.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00347]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-8490bd17a3dd0a8edf911e4685a9087a]: Textual amendment: Words in rule 14.2 Note substituted (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/5)
+[^c-8490bd17a3dd0a8edf911e4685a9087a]: Textual amendment: Words in rule 14.2 Note substituted (23.2.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rule 2](https://www.legislation.gov.uk/uksi/2026/47/rule/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/47/schedule/paragraph/5)

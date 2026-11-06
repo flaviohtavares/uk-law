@@ -41,167 +41,167 @@ Coming into force
 
 In exercise of the powers conferred on Ministers of the Crown by sections 66(1), 68(1) and (1A), 69(1), (3), (6) and (7), 70(1), 74(1), 74A and 84 of the Agriculture Act 1970 [^c23962181], and now vested in the National Assembly for Wales [^c23962191], and after consultation in accordance with section 84(1) of that Act with such persons or organisations as appear to it to represent the interests concerned, and, being designated [^c23962201] for the purposes of section 2(2) of the European Communities Act 1972 [^c23962211] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by section 2(2) of the European Communities Act 1972, the National Assembly for Wales makes the following Regulations:—
 
-## 1. Title, commencement and application[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 1. Title, commencement and application[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 2. Interpretation[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed material[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 3. Prescribed material[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Matters required or permitted to be contained in a statutory statement or otherwise declared[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 4. Matters required or permitted to be contained in a statutory statement or otherwise declared[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Forms of statutory statement[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 5. Forms of statutory statement[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Register of marks[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 6. Register of marks[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Limits of variation[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 7. Limits of variation[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Assigned meanings[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 8. Assigned meanings[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Manner of packaging and sealing compound feeding stuffs, additives and premixtures[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 9. Manner of packaging and sealing compound feeding stuffs, additives and premixtures[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Control of feed materials[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 10. Control of feed materials[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Control of additives in feeding stuffs[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 11. Control of additives in feeding stuffs[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Control of products intended for animal feed containing undesirable substances[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 12. Control of products intended for animal feed containing undesirable substances[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Control of feeding stuffs containing prohibited materials[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 13. Control of feeding stuffs containing prohibited materials[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Control of certain protein sources[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 14. Control of certain protein sources[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Control of the iron content of milk replacer feeds[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 15. Control of the iron content of milk replacer feeds[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Control of ash insoluble in hydrochloric acid in compound feeding stuffs[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 16. Control of ash insoluble in hydrochloric acid in compound feeding stuffs[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Control of feeding stuffs intended for particular nutritional purposes, and supplementary provisions relating to statutory statements[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 17. Control of feeding stuffs intended for particular nutritional purposes, and supplementary provisions relating to statutory statements[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17A. Provision of information in relation to compound feeding stuffs for animals other than pet animals[^key-2b76cd80e3419840b9b09729f962bd9f]
+## 17A. Provision of information in relation to compound feeding stuffs for animals other than pet animals[^c-2b76cd80e3419840b9b09729f962bd9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Modification of the Agriculture Act 1970 in relation to all feeding stuffs[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 18. Modification of the Agriculture Act 1970 in relation to all feeding stuffs[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Modification of the Agriculture Act 1970 in relation to imported feeding stuffs[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 19. Modification of the Agriculture Act 1970 in relation to imported feeding stuffs[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Exemptions from these Regulations[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 20. Exemptions from these Regulations[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Further exemptions from these Regulations[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 21. Further exemptions from these Regulations[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Enforcement of provisions made under section 2(2) of the European Communities Act 1972[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 22. Enforcement of provisions made under section 2(2) of the European Communities Act 1972[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Revocations[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 23. Revocations[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Modification of section 74A(3) of the Agriculture Act 1970[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 24. Modification of section 74A(3) of the Agriculture Act 1970[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Modification of the Feeding Stuffs (Sampling and Analysis) Regulations 1999[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 25. Modification of the Feeding Stuffs (Sampling and Analysis) Regulations 1999[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26. Modification of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 26. Modification of the Feeding Stuffs (Establishments and Intermediaries) Regulations 1999[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 27. Modification of the Feeding Stuffs (Enforcement) Regulations 1999[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## 27. Modification of the Feeding Stuffs (Enforcement) Regulations 1999[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
@@ -213,73 +213,73 @@ D. Elis-Thomas
 
 The Presiding Officer of the National Assembly
 
-## SCHEDULE 1 — METHOD OF CALCULATING THE ENERGY VALUE OF COMPOUND FEEDS[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## SCHEDULE 1 — METHOD OF CALCULATING THE ENERGY VALUE OF COMPOUND FEEDS[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 regulation 2(1)
 
-[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — CONTROL OF FEED MATERIALS[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## SCHEDULE 2 — CONTROL OF FEED MATERIALS[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 **regulations 2(1) and 10 Schedule 4 Part I paragraphs 7 and 20**
 
-### PART I — PRINCIPAL PROCESSES USED FOR THE PREPARATION OF THE FEED MATERIALS LISTED IN PART II OF THIS SCHEDULE[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### PART I — PRINCIPAL PROCESSES USED FOR THE PREPARATION OF THE FEED MATERIALS LISTED IN PART II OF THIS SCHEDULE[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — NON-EXCLUSIVE LIST OF THE MAIN FEED MATERIALS[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### PART II — NON-EXCLUSIVE LIST OF THE MAIN FEED MATERIALS[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
-[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — OTHER FEED MATERIALS[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART III — OTHER FEED MATERIALS[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -287,27 +287,27 @@ regulation 2(1)
 
 **regulation 11**
 
-**1.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### TABLE — ADDITIVES CONTROLLED BY THE ADDITIVES DIRECTIVE
 
@@ -335,7 +335,7 @@ regulation 2(1)
 </tbody>
 </table>
 
-#### PART II — PERMITTED COLOURANTS[^key-fc8b9efa72fe839905a31ea6bc989c6c]
+#### PART II — PERMITTED COLOURANTS[^c-fc8b9efa72fe839905a31ea6bc989c6c]
 
 <table>
 <thead>
@@ -380,7 +380,7 @@ regulation 2(1)
 </tbody>
 </table>
 
-[^key-0965d02ca87c215ed41aead2f21fcc92][^c5192251]
+[^c-0965d02ca87c215ed41aead2f21fcc92][^c5192251]
 
 #### PART III — PERMITTED EMULSIFIERS, STABILISERS, THICKENERS AND GELLING AGENTS
 
@@ -527,7 +527,7 @@ regulation 2(1)
 </tbody>
 </table>
 
-[^key-420054b1f094e7158d698b27555ef5f0][^key-420054b1f094e7158d698b27555ef5f0][^key-420054b1f094e7158d698b27555ef5f0][^key-420054b1f094e7158d698b27555ef5f0][^key-420054b1f094e7158d698b27555ef5f0][^key-420054b1f094e7158d698b27555ef5f0][^key-420054b1f094e7158d698b27555ef5f0][^key-420054b1f094e7158d698b27555ef5f0][^key-420054b1f094e7158d698b27555ef5f0][^key-420054b1f094e7158d698b27555ef5f0][^key-420054b1f094e7158d698b27555ef5f0][^key-420054b1f094e7158d698b27555ef5f0][^key-420054b1f094e7158d698b27555ef5f0][^key-420054b1f094e7158d698b27555ef5f0]
+[^c-420054b1f094e7158d698b27555ef5f0][^c-420054b1f094e7158d698b27555ef5f0][^c-420054b1f094e7158d698b27555ef5f0][^c-420054b1f094e7158d698b27555ef5f0][^c-420054b1f094e7158d698b27555ef5f0][^c-420054b1f094e7158d698b27555ef5f0][^c-420054b1f094e7158d698b27555ef5f0][^c-420054b1f094e7158d698b27555ef5f0][^c-420054b1f094e7158d698b27555ef5f0][^c-420054b1f094e7158d698b27555ef5f0][^c-420054b1f094e7158d698b27555ef5f0][^c-420054b1f094e7158d698b27555ef5f0][^c-420054b1f094e7158d698b27555ef5f0][^c-420054b1f094e7158d698b27555ef5f0]
 
 #### PART VI — AROMATIC AND APPETISING SUBSTANCES
 
@@ -611,7 +611,7 @@ regulation 2(1)
 </tbody>
 </table>
 
-[^key-178109289d6ff917aabb45304e0c5e6b][^c15966611][^c15966621]
+[^c-178109289d6ff917aabb45304e0c5e6b][^c15966611][^c15966621]
 
 #### PART VIII — PERMITTED ACIDITY REGULATORS FOR PET FOODS FOR DOGS AND CATS
 
@@ -651,11 +651,11 @@ regulation 2(1)
 | E529 | Calcium oxide |
 | E540 | Dicalcium diphosphate |
 
-#### PART IX — EUROPEAN COMMUNITY REGULATIONS BY WHICH ADDITIVES ARE CONTROLLED<sup>(1)</sup>[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+#### PART IX — EUROPEAN COMMUNITY REGULATIONS BY WHICH ADDITIVES ARE CONTROLLED<sup>(1)</sup>[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
-[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -665,145 +665,145 @@ regulation 2(1)
 
 ### PART I
 
-**1.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-93ad05ef85dd54c9159071861d6f480c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-93ad05ef85dd54c9159071861d6f480c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — DECLARATION OF ANALYTICAL CONSTITUENTS[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### PART II — DECLARATION OF ANALYTICAL CONSTITUENTS[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — CONTENTS OF THE STATUTORY STATEMENT (FOR ADDITIVES AND PREMIXTURES NOT CONTAINED IN FEEDING STUFFS)[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## SCHEDULE 5 — CONTENTS OF THE STATUTORY STATEMENT (FOR ADDITIVES AND PREMIXTURES NOT CONTAINED IN FEEDING STUFFS)[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 **regulation 4**
 
-### PART I — ADDITIVES[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### PART I — ADDITIVES[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
-**1.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — PREMIXTURES[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### PART II — PREMIXTURES[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
-**1.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — LIMITS OF VARIATION[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## SCHEDULE 6 — LIMITS OF VARIATION[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 **regulation 7**
 
-### PART A — — COMPOUND FEEDING STUFFS EXCEPT THOSE FOR PETS[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### PART A — — COMPOUND FEEDING STUFFS EXCEPT THOSE FOR PETS[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — — COMPOUND PET FOODS[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### PART B — — COMPOUND PET FOODS[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART C — — FEED MATERIALS[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### PART C — — FEED MATERIALS[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART D — — VITAMINS AND TRACE ELEMENTS[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### PART D — — VITAMINS AND TRACE ELEMENTS[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART E — — ENERGY VALUE OF COMPOUND FEEDING STUFFS[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### PART E — — ENERGY VALUE OF COMPOUND FEEDING STUFFS[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 7 — PRESCRIBED LIMITS FOR UNDESIRABLE SUBSTANCES[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## SCHEDULE 7 — PRESCRIBED LIMITS FOR UNDESIRABLE SUBSTANCES[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 **regulation 12**
 
-### PART I — FEEDING STUFFS[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### PART I — FEEDING STUFFS[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — FEED MATERIALS[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### PART II — FEED MATERIALS[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
-#### CHAPTER A[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### CHAPTER B[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+#### CHAPTER A[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 8 — CONTROL OF CERTAIN PROTEIN SOURCES[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+#### CHAPTER B[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 8 — CONTROL OF CERTAIN PROTEIN SOURCES[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
@@ -811,47 +811,47 @@ regulation 14 and Schedule 4 Part I, paragraph 30
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 9 — PERMITTED FEEDING STUFFS INTENDED FOR PARTICULAR NUTRITIONAL PURPOSES AND PROVISIONS RELATING TO THEIR USE[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## SCHEDULE 9 — PERMITTED FEEDING STUFFS INTENDED FOR PARTICULAR NUTRITIONAL PURPOSES AND PROVISIONS RELATING TO THEIR USE[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 **regulation 17 and Schedule 4 Part I, paragraphs 18, 19, 26 and 31**
 
-### CHAPTER A[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### CHAPTER A[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER B[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### CHAPTER B[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
-**1.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ea18e2bb0e5d02c2c5d62640c4001acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 10[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+## SCHEDULE 10[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 **No longer in force.**
 
 **regulation 17 and Schedule 4 Part I Paragraphs 18 and 19**
 
-### PART I — CATEGORIES OF FEED MATERIALS FOR USE IN RELATION TO COMPOUND FEEDING STUFFS FOR PET ANIMALS[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### PART I — CATEGORIES OF FEED MATERIALS FOR USE IN RELATION TO COMPOUND FEEDING STUFFS FOR PET ANIMALS[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — CATEGORIES OF FEED MATERIALS FOR USE IN RELATION TO COMPOUND FEEDING STUFFS FOR ANIMALS OTHER THAN PETS[^key-ea18e2bb0e5d02c2c5d62640c4001acd]
+### PART II — CATEGORIES OF FEED MATERIALS FOR USE IN RELATION TO COMPOUND FEEDING STUFFS FOR ANIMALS OTHER THAN PETS[^c-ea18e2bb0e5d02c2c5d62640c4001acd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -990,24 +990,24 @@ The exceptions are provisions relating to non-feed uses in Article 9k.1, and pro
 
 [^c23962211]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-ea18e2bb0e5d02c2c5d62640c4001acd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2001/343) revoked (except reg. 17A, Sch. 3 Table Pts. 1-8 (for specified purposes) and Sch. 4 para. 19) (25.1.2006) by [The Feeding Stuffs (Wales) Regulations 2006 (S.I. 2006/116)](https://www.legislation.gov.uk/wsi/2006/116), [regs. 1](https://www.legislation.gov.uk/wsi/2006/116/regulation/1), [7](https://www.legislation.gov.uk/wsi/2006/116/regulation/7)
+[^c-ea18e2bb0e5d02c2c5d62640c4001acd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2001/343) revoked (except reg. 17A, Sch. 3 Table Pts. 1-8 (for specified purposes) and Sch. 4 para. 19) (25.1.2006) by [The Feeding Stuffs (Wales) Regulations 2006 (S.I. 2006/116)](https://www.legislation.gov.uk/wsi/2006/116), [regs. 1](https://www.legislation.gov.uk/wsi/2006/116/regulation/1), [7](https://www.legislation.gov.uk/wsi/2006/116/regulation/7)
 
-[^key-2b76cd80e3419840b9b09729f962bd9f]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/wsi/2001/343/regulation/17A) revoked (17.11.2006) by [The Feeding Stuffs (Wales) (Amendment) Regulations 2006 (S.I. 2006/2928)](https://www.legislation.gov.uk/wsi/2006/2928), [regs. 1](https://www.legislation.gov.uk/wsi/2006/2928/regulation/1), [3(a)](https://www.legislation.gov.uk/wsi/2006/2928/regulation/3/a)
+[^c-2b76cd80e3419840b9b09729f962bd9f]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/wsi/2001/343/regulation/17A) revoked (17.11.2006) by [The Feeding Stuffs (Wales) (Amendment) Regulations 2006 (S.I. 2006/2928)](https://www.legislation.gov.uk/wsi/2006/2928), [regs. 1](https://www.legislation.gov.uk/wsi/2006/2928/regulation/1), [3(a)](https://www.legislation.gov.uk/wsi/2006/2928/regulation/3/a)
 
 [^c23962601]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-fc8b9efa72fe839905a31ea6bc989c6c]: Textual amendment: Sch. 3 Table Pt. 2 substituted (3.12.2003) by [The Feeding Stuffs, the Feeding Stuffs (Sampling and Analysis) and the Feeding Stuffs (Enforcement) (Amendment) (Wales) (No.2) Regulations 2003 (S.I. 2003/3119)](https://www.legislation.gov.uk/uksi/2003/3119), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/3119/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2003/3119/regulation/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3119/schedule)
+[^c-fc8b9efa72fe839905a31ea6bc989c6c]: Textual amendment: Sch. 3 Table Pt. 2 substituted (3.12.2003) by [The Feeding Stuffs, the Feeding Stuffs (Sampling and Analysis) and the Feeding Stuffs (Enforcement) (Amendment) (Wales) (No.2) Regulations 2003 (S.I. 2003/3119)](https://www.legislation.gov.uk/uksi/2003/3119), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/3119/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2003/3119/regulation/2/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3119/schedule)
 
-[^key-0965d02ca87c215ed41aead2f21fcc92]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
+[^c-0965d02ca87c215ed41aead2f21fcc92]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/article/8)
 
 [^c5192251]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
 
-[^key-420054b1f094e7158d698b27555ef5f0]: Textual amendment: Words in Sch. 3 Table Pt. 5 deleted (9.7.2004) by [The Feeding Stuffs, the Feeding Stuffs (Sampling and Analysis) and the Feeding Stuffs (Enforcement) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1749)](https://www.legislation.gov.uk/uksi/2004/1749), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1749/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/1749/regulation/2/2)
+[^c-420054b1f094e7158d698b27555ef5f0]: Textual amendment: Words in Sch. 3 Table Pt. 5 deleted (9.7.2004) by [The Feeding Stuffs, the Feeding Stuffs (Sampling and Analysis) and the Feeding Stuffs (Enforcement) (Amendment) (Wales) Regulations 2004 (S.I. 2004/1749)](https://www.legislation.gov.uk/uksi/2004/1749), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1749/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2004/1749/regulation/2/2)
 
-[^key-178109289d6ff917aabb45304e0c5e6b]: Textual amendment: Sch. 3 Pt. 7 footnote substituted (1.5.2003) by [The Feeding Stuffs (Amendment) (Wales) Regulations 2003 (S.I. 2003/989)](https://www.legislation.gov.uk/uksi/2003/989), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/989/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2003/989/regulation/6/a)
+[^c-178109289d6ff917aabb45304e0c5e6b]: Textual amendment: Sch. 3 Pt. 7 footnote substituted (1.5.2003) by [The Feeding Stuffs (Amendment) (Wales) Regulations 2003 (S.I. 2003/989)](https://www.legislation.gov.uk/uksi/2003/989), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/989/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2003/989/regulation/6/a)
 
 [^c15966611]: Marginal citation: OJ No. L188, 21.7.1999, p.35.
 
 [^c15966621]: Marginal citation: OJ No. L183, 12.7.2002, p.10.
 
-[^key-93ad05ef85dd54c9159071861d6f480c]: Textual amendment: [Sch. 4 para. 19](https://www.legislation.gov.uk/wsi/2001/343/schedule/4/paragraph/19) revoked (17.11.2006) by [The Feeding Stuffs (Wales) (Amendment) Regulations 2006 (S.I. 2006/2928)](https://www.legislation.gov.uk/wsi/2006/2928), [regs. 1](https://www.legislation.gov.uk/wsi/2006/2928/regulation/1), [3(a)](https://www.legislation.gov.uk/wsi/2006/2928/regulation/3/a)
+[^c-93ad05ef85dd54c9159071861d6f480c]: Textual amendment: [Sch. 4 para. 19](https://www.legislation.gov.uk/wsi/2001/343/schedule/4/paragraph/19) revoked (17.11.2006) by [The Feeding Stuffs (Wales) (Amendment) Regulations 2006 (S.I. 2006/2928)](https://www.legislation.gov.uk/wsi/2006/2928), [regs. 1](https://www.legislation.gov.uk/wsi/2006/2928/regulation/1), [3(a)](https://www.legislation.gov.uk/wsi/2006/2928/regulation/3/a)

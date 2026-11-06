@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52B. Obligation of confidentiality: offence[^key-13264e207e9d652082856a7641e17eca]
+## 52B. Obligation of confidentiality: offence[^c-13264e207e9d652082856a7641e17eca]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,11 +31,11 @@ summary: ''
 
 (3) In proceedings for an offence under this regulation, it is a defence for the accused to prove—
 
-- (a) that the accused did not know and had no reason to suspect that the information was confidential information; [^key-3995f6278b9258a090f1b3d2a54c64ef]...
+- (a) that the accused did not know and had no reason to suspect that the information was confidential information; [^c-3995f6278b9258a090f1b3d2a54c64ef]...
 - (b) that the accused took all reasonable precautions and exercised all due diligence to avoid committing the offence.
 
 ## Annotations
 
-[^key-13264e207e9d652082856a7641e17eca]: Textual amendment: Regs. 52A, 52B inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(7)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/7)
+[^c-13264e207e9d652082856a7641e17eca]: Textual amendment: Regs. 52A, 52B inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(7)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/7)
 
-[^key-3995f6278b9258a090f1b3d2a54c64ef]: Textual amendment: Word in [reg. 52B(3)(a)](https://www.legislation.gov.uk/uksi/2017/692/regulation/52B/3/a) omitted (30.6.2026) by virtue of [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2026/621/regulation/31)
+[^c-3995f6278b9258a090f1b3d2a54c64ef]: Textual amendment: Word in [reg. 52B(3)(a)](https://www.legislation.gov.uk/uksi/2017/692/regulation/52B/3/a) omitted (30.6.2026) by virtue of [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2026/621/regulation/31)

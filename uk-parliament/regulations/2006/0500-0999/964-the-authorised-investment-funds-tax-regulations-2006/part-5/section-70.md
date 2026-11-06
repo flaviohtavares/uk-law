@@ -29,7 +29,7 @@ summary: ''
 - “**gross income**” has the same meaning as in regulation 50, and
 - “**net liability to corporation tax**” is to be construed in accordance with regulation 49(3).
 
-(4)[^key-248980206954c8f8dee2285b97ac2555] In the case of a Property AIF and a Tax Elected Fund, an appropriate statement for the purposes of section 234A of ICTA includes a written statement—
+(4)[^c-248980206954c8f8dee2285b97ac2555] In the case of a Property AIF and a Tax Elected Fund, an appropriate statement for the purposes of section 234A of ICTA includes a written statement—
 
 - (a) showing the details specified in paragraph (5),
 - (b) providing details to allow the participant to access an electronic means of calculating the amounts that would be shown in a written statement that would, apart from this paragraph, be provided in accordance with subsection (6) (in the case of a PAIF distribution (interest) or a TEF distribution (non-dividend)) or subsection (7) (in the case of a PAIF distribution (dividends) or a TEF distribution (dividend)) of section 234A, and
@@ -50,4 +50,4 @@ summary: ''
 
 [^c15459191]: Marginal citation: Section 234A was inserted by section 32(1) of the [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48) and amended by paragraph 2(2) of Schedule 37 to the [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8).
 
-[^key-248980206954c8f8dee2285b97ac2555]: Textual amendment: [Reg. 70(4)](https://www.legislation.gov.uk/uksi/2006/964/regulation/70/4)[(5)](https://www.legislation.gov.uk/uksi/2006/964/regulation/70/5) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [25](https://www.legislation.gov.uk/uksi/2009/2036/regulation/25)
+[^c-248980206954c8f8dee2285b97ac2555]: Textual amendment: [Reg. 70(4)](https://www.legislation.gov.uk/uksi/2006/964/regulation/70/4)[(5)](https://www.legislation.gov.uk/uksi/2006/964/regulation/70/5) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [25](https://www.legislation.gov.uk/uksi/2009/2036/regulation/25)

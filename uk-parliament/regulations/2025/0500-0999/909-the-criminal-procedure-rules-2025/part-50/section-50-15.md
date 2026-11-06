@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.15. Introduction of additional evidence[^key-c2849ddb88909133ea9855e0888d58c3]
+## 50.15. Introduction of additional evidence[^c-c2849ddb88909133ea9855e0888d58c3]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c2849ddb88909133ea9855e0888d58c3]: Commencement: [Rule 50.15](https://www.legislation.gov.uk/uksi/2025/909/rule/50.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c2849ddb88909133ea9855e0888d58c3]: Commencement: [Rule 50.15](https://www.legislation.gov.uk/uksi/2025/909/rule/50.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01344]: Footnote: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41); section 202 was amended by paragraph 26 of Schedule 13 to the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48).
 

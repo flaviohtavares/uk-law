@@ -16,46 +16,46 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5C — Venture capital trusts: deferred charge on re-investment[^key-6e3d1c3cccf51e0a2daef61136c13bd8]
+## SCHEDULE 5C — Venture capital trusts: deferred charge on re-investment[^c-6e3d1c3cccf51e0a2daef61136c13bd8]
 
 *Extent: E+W+S+N.I.*
 
-### Application of Schedule[^key-6e3d1c3cccf51e0a2daef61136c13bd8]
+### Application of Schedule[^c-6e3d1c3cccf51e0a2daef61136c13bd8]
 
 **No longer in force.**
 
-**1.**[^key-6e3d1c3cccf51e0a2daef61136c13bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6e3d1c3cccf51e0a2daef61136c13bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The postponement of the original gain[^key-6e3d1c3cccf51e0a2daef61136c13bd8]
-
-**No longer in force.**
-
-**2.**[^key-6e3d1c3cccf51e0a2daef61136c13bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Chargeable events[^key-6e3d1c3cccf51e0a2daef61136c13bd8]
+### The postponement of the original gain[^c-6e3d1c3cccf51e0a2daef61136c13bd8]
 
 **No longer in force.**
 
-**3.**[^key-6e3d1c3cccf51e0a2daef61136c13bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6e3d1c3cccf51e0a2daef61136c13bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Gain accruing on chargeable event[^key-6e3d1c3cccf51e0a2daef61136c13bd8]
-
-**No longer in force.**
-
-**4.**[^key-6e3d1c3cccf51e0a2daef61136c13bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Persons to whom gain accrues[^key-6e3d1c3cccf51e0a2daef61136c13bd8]
+### Chargeable events[^c-6e3d1c3cccf51e0a2daef61136c13bd8]
 
 **No longer in force.**
 
-**5.**[^key-6e3d1c3cccf51e0a2daef61136c13bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6e3d1c3cccf51e0a2daef61136c13bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interpretation[^key-6e3d1c3cccf51e0a2daef61136c13bd8]
+### Gain accruing on chargeable event[^c-6e3d1c3cccf51e0a2daef61136c13bd8]
 
 **No longer in force.**
 
-**6.**[^key-6e3d1c3cccf51e0a2daef61136c13bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6e3d1c3cccf51e0a2daef61136c13bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Persons to whom gain accrues[^c-6e3d1c3cccf51e0a2daef61136c13bd8]
+
+**No longer in force.**
+
+**5.**[^c-6e3d1c3cccf51e0a2daef61136c13bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Interpretation[^c-6e3d1c3cccf51e0a2daef61136c13bd8]
+
+**No longer in force.**
+
+**6.**[^c-6e3d1c3cccf51e0a2daef61136c13bd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6e3d1c3cccf51e0a2daef61136c13bd8]: Textual amendment: Sch. 5C repealed (with effect in accordance with Sch. 19 para. 7 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/19/paragraph/5), [Sch. 42 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/13)
+[^c-6e3d1c3cccf51e0a2daef61136c13bd8]: Textual amendment: Sch. 5C repealed (with effect in accordance with Sch. 19 para. 7 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/19/paragraph/5), [Sch. 42 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/13)

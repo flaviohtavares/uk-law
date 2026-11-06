@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Provision for impairments[^key-5a1f82a9f8e6e04877f1b922be99875e]
+## 66. Provision for impairments[^c-5a1f82a9f8e6e04877f1b922be99875e]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a1f82a9f8e6e04877f1b922be99875e]: Commencement: Reg. 66 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-5a1f82a9f8e6e04877f1b922be99875e]: Commencement: Reg. 66 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
 [^f00051]: Footnote: IFRS Accounting Standards are published by the International Accounting Standards Board. They are available to view at https://www.ifrs.org/issued-standards/list-of-standards/ (registration for a free account is required). Hard copies can be purchased online at https:shop.ifrs.org.

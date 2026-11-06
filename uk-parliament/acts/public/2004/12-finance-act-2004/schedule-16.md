@@ -24,7 +24,7 @@ Section 85
 
 ### Income tax relief: restricted securities
 
-**1.**[^key-bf8423d34dee60c5d6684958d076babc] (1) Chapter 2 of Part 7 of the Income Tax (Earnings and Pensions) Act 2003 (c. 1) (employment income: restricted securities) is amended as follows.
+**1.**[^c-bf8423d34dee60c5d6684958d076babc] (1) Chapter 2 of Part 7 of the Income Tax (Earnings and Pensions) Act 2003 (c. 1) (employment income: restricted securities) is amended as follows.
 
 (2) In section 426 (charge on occurrence of chargeable event), for subsections (1) to (4) substitute—
 
@@ -72,7 +72,7 @@ Section 85
 
 ### Income tax relief: convertible securities
 
-**2.**[^key-0c71e1f9d4288ee6116884e89f9fd634] (1) Chapter 3 of Part 7 of the Income Tax (Earnings and Pensions) Act 2003 (c. 1) (employment income: convertible securities) is amended as follows.
+**2.**[^c-0c71e1f9d4288ee6116884e89f9fd634] (1) Chapter 3 of Part 7 of the Income Tax (Earnings and Pensions) Act 2003 (c. 1) (employment income: convertible securities) is amended as follows.
 
 (2) In section 438 (charge on occurrence of chargeable event), for subsections (1) to (4) substitute—
 
@@ -120,7 +120,7 @@ Section 85
 
 ### Income tax relief: securities options
 
-**3.**[^key-d947b7e16c26abe94081e3571db3b1d8] (1) Chapter 5 of Part 7 of the Income Tax (Earnings and Pensions) Act 2003 (c. 1) (employment income: securities options) is amended as follows.
+**3.**[^c-d947b7e16c26abe94081e3571db3b1d8] (1) Chapter 5 of Part 7 of the Income Tax (Earnings and Pensions) Act 2003 (c. 1) (employment income: securities options) is amended as follows.
 
 (2) In section 476 (charge on occurrence of chargeable event), for subsections (1) to (4) substitute—
 
@@ -168,7 +168,7 @@ Section 85
 
 ### Consequential amendments: PAYE
 
-**4.**[^key-feda2922ddff520cb9bac81021404f14] (1) Part 11 of the Income Tax (Earnings and Pensions) Act 2003 (c. 1) (Pay As You Earn) is amended as follows.
+**4.**[^c-feda2922ddff520cb9bac81021404f14] (1) Part 11 of the Income Tax (Earnings and Pensions) Act 2003 (c. 1) (Pay As You Earn) is amended as follows.
 
 (2) In section 698 (PAYE: special charges on employment-related securities), after subsection (2) insert—
 
@@ -184,11 +184,11 @@ Section 85
 
 ### Consequential amendments: corporation tax relief
 
-**5.**[^key-c327979494a61e7a4273e04debbc987e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c327979494a61e7a4273e04debbc987e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Consequential amendments: capital gains tax
 
-**6.**[^key-54a3d9ecbd8a91e330804313e7649816] (1) Section 119A of the Taxation of Chargeable Gains Act 1992 (c. 12) (increase in expenditure by reference to tax charged in relation to employment-related securities) is amended as follows.
+**6.**[^c-54a3d9ecbd8a91e330804313e7649816] (1) Section 119A of the Taxation of Chargeable Gains Act 1992 (c. 12) (increase in expenditure by reference to tax charged in relation to employment-related securities) is amended as follows.
 
 (2) For subsection (5) (determination of relevant amount) substitute—
 
@@ -205,7 +205,7 @@ Section 85
 
 ### Other consequential amendments
 
-**7.**[^key-8ed80363ad8d5dd50d56ecedc5a845d6] (1) In section 484(7) of the Income Tax (Earnings and Pensions) Act 2003 (definitions for Chapter 5 of Part 7), omit the definition of “the Contributions and Benefits Act” and the word “and” preceding it.
+**7.**[^c-8ed80363ad8d5dd50d56ecedc5a845d6] (1) In section 484(7) of the Income Tax (Earnings and Pensions) Act 2003 (definitions for Chapter 5 of Part 7), omit the definition of “the Contributions and Benefits Act” and the word “and” preceding it.
 
 (2) In section 721 (1) of that Act (general definitions), at the appropriate place insert—
 
@@ -221,16 +221,16 @@ Section 85
 
 ## Annotations
 
-[^key-bf8423d34dee60c5d6684958d076babc]: Commencement: Sch. 16 para. 1 in force at 1.9.2004 by [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
+[^c-bf8423d34dee60c5d6684958d076babc]: Commencement: Sch. 16 para. 1 in force at 1.9.2004 by [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
 
-[^key-0c71e1f9d4288ee6116884e89f9fd634]: Commencement: Sch. 16 para. 2 in force at 1.9.2004 by [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
+[^c-0c71e1f9d4288ee6116884e89f9fd634]: Commencement: Sch. 16 para. 2 in force at 1.9.2004 by [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
 
-[^key-d947b7e16c26abe94081e3571db3b1d8]: Commencement: Sch. 16 para. 3 in force at 1.9.2004 by [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
+[^c-d947b7e16c26abe94081e3571db3b1d8]: Commencement: Sch. 16 para. 3 in force at 1.9.2004 by [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
 
-[^key-feda2922ddff520cb9bac81021404f14]: Commencement: Sch. 16 para. 4 in force at 1.9.2004 by [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
+[^c-feda2922ddff520cb9bac81021404f14]: Commencement: Sch. 16 para. 4 in force at 1.9.2004 by [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
 
-[^key-c327979494a61e7a4273e04debbc987e]: Textual amendment: [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/16/paragraph/5) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-c327979494a61e7a4273e04debbc987e]: Textual amendment: [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/16/paragraph/5) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-54a3d9ecbd8a91e330804313e7649816]: Commencement: Sch. 16 para. 6 in force at 1.9.2004 by [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
+[^c-54a3d9ecbd8a91e330804313e7649816]: Commencement: Sch. 16 para. 6 in force at 1.9.2004 by [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
 
-[^key-8ed80363ad8d5dd50d56ecedc5a845d6]: Commencement: Sch. 16 para. 7 in force at 1.9.2004 by [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)
+[^c-8ed80363ad8d5dd50d56ecedc5a845d6]: Commencement: Sch. 16 para. 7 in force at 1.9.2004 by [S.I. 2004/1945](https://www.legislation.gov.uk/uksi/2004/1945), [art. 2](https://www.legislation.gov.uk/uksi/2004/1945/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Apportionment of targets[^key-dca5859094fd02f17a61c167cebda8c0][^key-dde4cd36b4502c4fe5811460ecc9d936]
+## 60. Apportionment of targets[^c-dca5859094fd02f17a61c167cebda8c0][^c-dde4cd36b4502c4fe5811460ecc9d936]
 
 *Extent: E+W+S+N.I.*
 
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dca5859094fd02f17a61c167cebda8c0]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2016/11/section/60) in force at 1.12.2017 for specified purposes by [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/c)
+[^c-dca5859094fd02f17a61c167cebda8c0]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2016/11/section/60) in force at 1.12.2017 for specified purposes by [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/c)
 
-[^key-dde4cd36b4502c4fe5811460ecc9d936]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2016/11/section/60) in force at 1.10.2018 in so far as not already in force by [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/5/b)
+[^c-dde4cd36b4502c4fe5811460ecc9d936]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2016/11/section/60) in force at 1.10.2018 in so far as not already in force by [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/5/b)

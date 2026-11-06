@@ -31,7 +31,7 @@ summary: ''
 
 FIRE AND RESCUE SERVICES, WALES
 
-The Fire and Rescue Authorities (Improvement Plans) (Wales) Order 2010 (revoked)[^key-ee92f2af8f11e81ea3f40635afb02a82]
+The Fire and Rescue Authorities (Improvement Plans) (Wales) Order 2010 (revoked)[^c-ee92f2af8f11e81ea3f40635afb02a82]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1 April 2010
 
-[^key-ee92f2af8f11e81ea3f40635afb02a82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee92f2af8f11e81ea3f40635afb02a82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, interpretation and application[^key-ee92f2af8f11e81ea3f40635afb02a82]
+## 1. Title, commencement, interpretation and application[^c-ee92f2af8f11e81ea3f40635afb02a82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Date for publication of improvement plan[^key-ee92f2af8f11e81ea3f40635afb02a82]
+## 2. Date for publication of improvement plan[^c-ee92f2af8f11e81ea3f40635afb02a82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ee92f2af8f11e81ea3f40635afb02a82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee92f2af8f11e81ea3f40635afb02a82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ee92f2af8f11e81ea3f40635afb02a82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee92f2af8f11e81ea3f40635afb02a82]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ee92f2af8f11e81ea3f40635afb02a82]: Textual amendment: Order revoked (21.5.2012) by [The Fire and Rescue Authorities (Improvement Plans) (Wales) Order 2012 (S.I. 2012/1143)](https://www.legislation.gov.uk/uksi/2012/1143), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1143/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/1143/article/3)
+[^c-ee92f2af8f11e81ea3f40635afb02a82]: Textual amendment: Order revoked (21.5.2012) by [The Fire and Rescue Authorities (Improvement Plans) (Wales) Order 2012 (S.I. 2012/1143)](https://www.legislation.gov.uk/uksi/2012/1143), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1143/article/1/1), [3](https://www.legislation.gov.uk/uksi/2012/1143/article/3)

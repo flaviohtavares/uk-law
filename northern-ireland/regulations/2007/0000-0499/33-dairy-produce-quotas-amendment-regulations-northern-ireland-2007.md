@@ -41,19 +41,19 @@ Coming into operation-
 
 The Department of Agriculture and Rural Development (“**the Department**”), being a Department designated[^f00001] for the purposes, makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00002].
 
-## 1. Citation and commencement[^key-f90d8ab8505aa4b1c0f16d50ee6faa63]
+## 1. Citation and commencement[^c-f90d8ab8505aa4b1c0f16d50ee6faa63]
 
 These Regulations may be cited as the Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 and shall come into operation on 31<sup>st</sup> March 2007.
 
-## 2. Interpretation[^key-65d42127995ad698d56022672f35445c]
+## 2. Interpretation[^c-65d42127995ad698d56022672f35445c]
 
 The Interpretation Act (Northern Ireland)(1954)[^f00003] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Amendment of the Dairy Produce Quotas Regulations (Northern Ireland) 2005[^key-4cc7fe1c900a5d4640a77e0941edd6a1]
+## 3. Amendment of the Dairy Produce Quotas Regulations (Northern Ireland) 2005[^c-4cc7fe1c900a5d4640a77e0941edd6a1]
 
 (1) The Dairy Produce Quotas Regulations (Northern Ireland) 2005[^f00004] shall be amended in accordance with paragraphs (2) to (10).
 
-(2)[^key-3a3c4d36ae1c8d5995baba34a5325818] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3a3c4d36ae1c8d5995baba34a5325818] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 7(a) (Inspection of entries in the Department’s registers), for heads (i) to (iii) there shall be substituted—
 
@@ -128,14 +128,14 @@ Regulation 3—
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-f90d8ab8505aa4b1c0f16d50ee6faa63]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1) in operation at 31.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1)
+[^c-f90d8ab8505aa4b1c0f16d50ee6faa63]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1) in operation at 31.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1)
 
-[^key-65d42127995ad698d56022672f35445c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/33/regulation/2) in operation at 31.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1)
+[^c-65d42127995ad698d56022672f35445c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/33/regulation/2) in operation at 31.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-4cc7fe1c900a5d4640a77e0941edd6a1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/33/regulation/3) in operation at 31.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1)
+[^c-4cc7fe1c900a5d4640a77e0941edd6a1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/33/regulation/3) in operation at 31.3.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2005 No. 70](https://www.legislation.gov.uk/nisr/2005/70), as amended by [S.R. 2006 No. 60](https://www.legislation.gov.uk/nisr/2006/60)
 
-[^key-3a3c4d36ae1c8d5995baba34a5325818]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/2) omitted (1.4.2008) by virtue of [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [regs. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [4](https://www.legislation.gov.uk/nisr/2008/70/regulation/4)
+[^c-3a3c4d36ae1c8d5995baba34a5325818]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/2) omitted (1.4.2008) by virtue of [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [regs. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [4](https://www.legislation.gov.uk/nisr/2008/70/regulation/4)

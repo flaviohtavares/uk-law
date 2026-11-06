@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Income treated as capital[^key-4ae8b166251fff063d66d97c8bd41a84]
+## 34. Income treated as capital[^c-4ae8b166251fff063d66d97c8bd41a84]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ shall be treated as capital.
 
 ## Annotations
 
-[^key-4ae8b166251fff063d66d97c8bd41a84]: Commencement: Reg. 34 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-4ae8b166251fff063d66d97c8bd41a84]: Commencement: Reg. 34 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

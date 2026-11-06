@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Disposal of material by way of landfill[^key-9ed4bc977da23223cae40fef5cb8c85e]
+## 4. Disposal of material by way of landfill[^c-9ed4bc977da23223cae40fef5cb8c85e]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ed4bc977da23223cae40fef5cb8c85e]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2017/3/section/4) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-9ed4bc977da23223cae40fef5cb8c85e]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2017/3/section/4) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

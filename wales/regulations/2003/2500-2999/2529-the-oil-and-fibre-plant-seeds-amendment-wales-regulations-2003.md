@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS, WALES
 
-The Oil and Fibre Plant Seeds (Amendment) (Wales) Regulations 2003 (revoked)[^key-a3c7200116c48c9c5adba60585612108]
+The Oil and Fibre Plant Seeds (Amendment) (Wales) Regulations 2003 (revoked)[^c-a3c7200116c48c9c5adba60585612108]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 6th October 2003
 
-[^key-a3c7200116c48c9c5adba60585612108]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3c7200116c48c9c5adba60585612108]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-a3c7200116c48c9c5adba60585612108]
+## 1. Title, commencement and application[^c-a3c7200116c48c9c5adba60585612108]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a3c7200116c48c9c5adba60585612108]
+## 2. Interpretation[^c-a3c7200116c48c9c5adba60585612108]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-a3c7200116c48c9c5adba60585612108]
+## 3. Amendment of the principal Regulations[^c-a3c7200116c48c9c5adba60585612108]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3c7200116c48c9c5adba60585612108]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3c7200116c48c9c5adba60585612108]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a3c7200116c48c9c5adba60585612108]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3c7200116c48c9c5adba60585612108]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a3c7200116c48c9c5adba60585612108]: Textual amendment: Regulations revoked (13.12.2004) by [The Oil and Fibre Plant Seed (Wales) Regulations 2004 (S.I. 2004/2881)](https://www.legislation.gov.uk/uksi/2004/2881), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2881/regulation/1), [32(1)(b)](https://www.legislation.gov.uk/uksi/2004/2881/regulation/32/1/b)
+[^c-a3c7200116c48c9c5adba60585612108]: Textual amendment: Regulations revoked (13.12.2004) by [The Oil and Fibre Plant Seed (Wales) Regulations 2004 (S.I. 2004/2881)](https://www.legislation.gov.uk/uksi/2004/2881), [regs. 1](https://www.legislation.gov.uk/uksi/2004/2881/regulation/1), [32(1)(b)](https://www.legislation.gov.uk/uksi/2004/2881/regulation/32/1/b)

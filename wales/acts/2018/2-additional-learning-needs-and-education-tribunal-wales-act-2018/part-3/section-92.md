@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. The President and members of the panels[^key-ae3a43ca0eb7ffbab640bd183122ed1c][^key-03e3b74ad72e6f6971736d7f71ca1aa0]
+## 92. The President and members of the panels[^c-ae3a43ca0eb7ffbab640bd183122ed1c][^c-03e3b74ad72e6f6971736d7f71ca1aa0]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae3a43ca0eb7ffbab640bd183122ed1c]: Commencement: S. 92 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(l)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/l)
+[^c-ae3a43ca0eb7ffbab640bd183122ed1c]: Commencement: S. 92 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(l)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/l)
 
-[^key-03e3b74ad72e6f6971736d7f71ca1aa0]: Commencement: S. 92 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)
+[^c-03e3b74ad72e6f6971736d7f71ca1aa0]: Commencement: S. 92 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(h)](https://www.legislation.gov.uk/wsi/2021/373/article/8/h)

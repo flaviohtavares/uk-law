@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Correction of errors and setting aside of decisions[^c17081851][^key-636d97e7bcd01c173d679d331ea8acda]
+## 28. Correction of errors and setting aside of decisions[^c17081851][^c-636d97e7bcd01c173d679d331ea8acda]
 
 *Extent: N.I.*
 
@@ -38,18 +38,18 @@ summary: ''
 - (c) the [^m00025] Pension Schemes (Northern Ireland) Act 1993;
 - (d) the Jobseekers Order;[^c17081921]. . .
 - (e) the Recovery of Benefits Order;[^c17081931] [^c20568401]. . .
-- (f) the State Pension Credit Act (Northern Ireland) 2002;[^c20568411][^key-fefc57d266230e76b9980cdc6da90acd]...
+- (f) the State Pension Credit Act (Northern Ireland) 2002;[^c20568411][^c-fefc57d266230e76b9980cdc6da90acd]...
 - (g) Part 1 of the Welfare Reform Act (Northern Ireland) 2007.
-- (h)[^key-95663c04b1c4818781d8ce0a2d2db3a1] Part 2 of the Welfare Reform (Northern Ireland) Order 2015. or[^key-9f2e4492745145bc89e7af7ca67c7a35]
-- (i) Part 5 of that Order. [^key-6ce63771b1d6366fc1acab751b00a2bc]...[^key-b5245052e87bd79a46d7e9cb0a4ec9eb]
-- (j) Part1 of the Pensions Act (Northern Ireland) 2015 or section 29 of that Act[^key-1968768647aa630b4721cf417a416dd1] . or[^key-247f13f305732359ea2005a15f40c176]
+- (h)[^c-95663c04b1c4818781d8ce0a2d2db3a1] Part 2 of the Welfare Reform (Northern Ireland) Order 2015. or[^c-9f2e4492745145bc89e7af7ca67c7a35]
+- (i) Part 5 of that Order. [^c-6ce63771b1d6366fc1acab751b00a2bc]...[^c-b5245052e87bd79a46d7e9cb0a4ec9eb]
+- (j) Part1 of the Pensions Act (Northern Ireland) 2015 or section 29 of that Act[^c-1968768647aa630b4721cf417a416dd1] . or[^c-247f13f305732359ea2005a15f40c176]
 - (k) Articles 13 to 16 of the Welfare Reform and Work (Northern Ireland) Order 2016.
 
 ## Annotations
 
 [^c17081851]: Textual amendment: mod. by SR 1999/349, 350
 
-[^key-636d97e7bcd01c173d679d331ea8acda]: Modification: Art. 28 applied (with modifications) (30.11.2016) by [The Childcare Payments (Appeals) Regulations 2016 (S.I. 2016/1078)](https://www.legislation.gov.uk/uksi/2016/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1078/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/1078/regulation/6)
+[^c-636d97e7bcd01c173d679d331ea8acda]: Modification: Art. 28 applied (with modifications) (30.11.2016) by [The Childcare Payments (Appeals) Regulations 2016 (S.I. 2016/1078)](https://www.legislation.gov.uk/uksi/2016/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1078/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/1078/regulation/6)
 
 [^c17081861]: Textual amendment: temp. mod. by SI 2002/2926
 
@@ -69,16 +69,16 @@ summary: ''
 
 [^c20568411]: Textual amendment: Art. 28(3)(g) and preceding word added (1.7.2008 for certain purposes, otherwise 27.7.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 28(1)](https://www.legislation.gov.uk/nia/2007/2/section/28/1), [60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 3 para. 10(6)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/10/6); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/a)
 
-[^key-fefc57d266230e76b9980cdc6da90acd]: Textual amendment: Word in art. 28(3)(f) repealed (2.5.2016 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 39(a)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/39/a); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(v)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/v)[(hh)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/hh)
+[^c-fefc57d266230e76b9980cdc6da90acd]: Textual amendment: Word in art. 28(3)(f) repealed (2.5.2016 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 39(a)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/39/a); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(v)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/v)[(hh)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/hh)
 
-[^key-95663c04b1c4818781d8ce0a2d2db3a1]: Textual amendment: Art. 28(3)(h) inserted (2.5.2016 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 39(b)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/39/b); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(v)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/v)[(hh)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/hh)
+[^c-95663c04b1c4818781d8ce0a2d2db3a1]: Textual amendment: Art. 28(3)(h) inserted (2.5.2016 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 2 para. 39(b)](https://www.legislation.gov.uk/nisi/2015/2006/schedule/2/paragraph/39/b); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(v)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/v)[(hh)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/hh)
 
-[^key-9f2e4492745145bc89e7af7ca67c7a35]: Textual amendment: Art. 28(3)(i) and word inserted (2.5.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 40](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/40); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(h)(vii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/h/vii)
+[^c-9f2e4492745145bc89e7af7ca67c7a35]: Textual amendment: Art. 28(3)(i) and word inserted (2.5.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 40](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/40); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(5)(h)(vii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/5/h/vii)
 
-[^key-6ce63771b1d6366fc1acab751b00a2bc]: Textual amendment: Word in [art. 28(3)](https://www.legislation.gov.uk/nisi/1998/1506/article/28/3) omitted (4.9.2017) by virtue of [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [15(7)(a) (with art. 16)](https://www.legislation.gov.uk/nisi/2016/999/article/15/7/a); [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(c)](https://www.legislation.gov.uk/nisr/2017/166/article/2/c)
+[^c-6ce63771b1d6366fc1acab751b00a2bc]: Textual amendment: Word in [art. 28(3)](https://www.legislation.gov.uk/nisi/1998/1506/article/28/3) omitted (4.9.2017) by virtue of [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [15(7)(a) (with art. 16)](https://www.legislation.gov.uk/nisi/2016/999/article/15/7/a); [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(c)](https://www.legislation.gov.uk/nisr/2017/166/article/2/c)
 
-[^key-b5245052e87bd79a46d7e9cb0a4ec9eb]: Textual amendment: Art. 28(3)(j) and word inserted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 32](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/32)
+[^c-b5245052e87bd79a46d7e9cb0a4ec9eb]: Textual amendment: Art. 28(3)(j) and word inserted (6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 12 para. 32](https://www.legislation.gov.uk/nia/2015/5/schedule/12/paragraph/32)
 
-[^key-1968768647aa630b4721cf417a416dd1]: Textual amendment: Words in art. 28(3)(j) inserted (6.4.2017) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 16 para. 40](https://www.legislation.gov.uk/nia/2015/5/schedule/16/paragraph/40); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3), [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))
+[^c-1968768647aa630b4721cf417a416dd1]: Textual amendment: Words in art. 28(3)(j) inserted (6.4.2017) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(1)](https://www.legislation.gov.uk/nia/2015/5/section/53/1), [Sch. 16 para. 40](https://www.legislation.gov.uk/nia/2015/5/schedule/16/paragraph/40); [S.R. 2017/44](https://www.legislation.gov.uk/nisr/2017/44), [art. 2(2)](https://www.legislation.gov.uk/nisr/2017/44/article/2/2) (with [arts. 3](https://www.legislation.gov.uk/nisr/2017/44/article/3), [4](https://www.legislation.gov.uk/nisr/2017/44/article/4))
 
-[^key-247f13f305732359ea2005a15f40c176]: Textual amendment: [Art. 28(3)(k)](https://www.legislation.gov.uk/nisi/1998/1506/article/28/3/k) and preceding word inserted (4.9.2017) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [15(7)(b) (with art. 16)](https://www.legislation.gov.uk/nisi/2016/999/article/15/7/b); [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(c)](https://www.legislation.gov.uk/nisr/2017/166/article/2/c)
+[^c-247f13f305732359ea2005a15f40c176]: Textual amendment: [Art. 28(3)(k)](https://www.legislation.gov.uk/nisi/1998/1506/article/28/3/k) and preceding word inserted (4.9.2017) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [15(7)(b) (with art. 16)](https://www.legislation.gov.uk/nisi/2016/999/article/15/7/b); [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(c)](https://www.legislation.gov.uk/nisr/2017/166/article/2/c)

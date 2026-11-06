@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Ministerial power of direction to designate or vary heat network zone[^key-9f8fc51615d45b0676df8e372704bbb3]
+## 53. Ministerial power of direction to designate or vary heat network zone[^c-9f8fc51615d45b0676df8e372704bbb3]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f8fc51615d45b0676df8e372704bbb3]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2021/9/section/53) in force at 30.5.2023 by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(h)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/h)
+[^c-9f8fc51615d45b0676df8e372704bbb3]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2021/9/section/53) in force at 30.5.2023 by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(h)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/h)

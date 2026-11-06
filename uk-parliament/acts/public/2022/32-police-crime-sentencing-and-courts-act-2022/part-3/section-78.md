@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Intentionally or recklessly causing public nuisance[^key-4b081b93bdd057b7aa390e09d4522a41][^key-993edfd5c36ba8b380c8c5995a7ab82d]
+## 78. Intentionally or recklessly causing public nuisance[^c-4b081b93bdd057b7aa390e09d4522a41][^c-993edfd5c36ba8b380c8c5995a7ab82d]
 
 *Extent: E+W*
 
@@ -40,10 +40,10 @@ summary: ''
 
 (4) A person guilty of an offence under subsection (1) is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-916d198b0be9fea08bc91cde9d5e3e89], to a fine or to both;
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-916d198b0be9fea08bc91cde9d5e3e89], to a fine or to both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 10 years, to a fine or to both.
 
-(5) In relation to an offence committed before the coming into force of paragraph 24(2) of Schedule 22 to the Sentencing Act 2020 (increase in magistrates’ court power to impose imprisonment) the reference in subsection (4)(a) to the general limit in a magistrates’ court[^key-ff5875458bf91630a096eb53dbc8f1df] is to be read as a reference to 6 months.
+(5) In relation to an offence committed before the coming into force of paragraph 24(2) of Schedule 22 to the Sentencing Act 2020 (increase in magistrates’ court power to impose imprisonment) the reference in subsection (4)(a) to the general limit in a magistrates’ court[^c-ff5875458bf91630a096eb53dbc8f1df] is to be read as a reference to 6 months.
 
 (6) The common law offence of public nuisance is abolished.
 
@@ -62,10 +62,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4b081b93bdd057b7aa390e09d4522a41]: Commencement: S. 78 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-4b081b93bdd057b7aa390e09d4522a41]: Commencement: S. 78 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-993edfd5c36ba8b380c8c5995a7ab82d]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2022/32/section/78) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-993edfd5c36ba8b380c8c5995a7ab82d]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2022/32/section/78) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
 
-[^key-916d198b0be9fea08bc91cde9d5e3e89]: Textual amendment: Words in [s. 78(4)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/78/4/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-916d198b0be9fea08bc91cde9d5e3e89]: Textual amendment: Words in [s. 78(4)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/78/4/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-ff5875458bf91630a096eb53dbc8f1df]: Textual amendment: Words in [s. 78(5)](https://www.legislation.gov.uk/ukpga/2022/32/section/78/5) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-ff5875458bf91630a096eb53dbc8f1df]: Textual amendment: Words in [s. 78(5)](https://www.legislation.gov.uk/ukpga/2022/32/section/78/5) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)

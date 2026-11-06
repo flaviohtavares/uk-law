@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Referral of release decisions: life prisoners[^key-4494f5df2b77b1eb0e6b7574ba5ce357][^key-ff4c57c7c3392b653e9edd3f3a48c2fb]
+## 61. Referral of release decisions: life prisoners[^c-4494f5df2b77b1eb0e6b7574ba5ce357][^c-ff4c57c7c3392b653e9edd3f3a48c2fb]
 
 *Extent: E+W*
 
@@ -101,6 +101,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4494f5df2b77b1eb0e6b7574ba5ce357]: Commencement: S. 61 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-4494f5df2b77b1eb0e6b7574ba5ce357]: Commencement: S. 61 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-ff4c57c7c3392b653e9edd3f3a48c2fb]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2024/21/section/61) in force at 31.12.2025 by [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/e)
+[^c-ff4c57c7c3392b653e9edd3f3a48c2fb]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2024/21/section/61) in force at 31.12.2025 by [S.I. 2025/1325](https://www.legislation.gov.uk/uksi/2025/1325), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1325/regulation/2/e)

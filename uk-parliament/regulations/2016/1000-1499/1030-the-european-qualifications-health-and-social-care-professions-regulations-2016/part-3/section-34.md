@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Amendment of article 39[^key-c55e784c247a82944c251e0e4d7f76ff]
+## 34. Amendment of article 39[^c-c55e784c247a82944c251e0e4d7f76ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c55e784c247a82944c251e0e4d7f76ff]: Commencement: Reg. 34 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-c55e784c247a82944c251e0e4d7f76ff]: Commencement: Reg. 34 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00027]: Footnote: Article 39 was amended by [S.I. 2014/1887](https://www.legislation.gov.uk/uksi/2014/1887) and [2015/806](https://www.legislation.gov.uk/uksi/2015/806).

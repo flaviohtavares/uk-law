@@ -45,11 +45,11 @@ The National Assembly for Wales and the Secretary of State, acting jointly in ex
 
 ## PART 1 — Introduction
 
-### 1. Title, application and commencement[^key-8709465950df021e93ca01d7a4d0b5e5]
+### 1. Title, application and commencement[^c-8709465950df021e93ca01d7a4d0b5e5]
 
 This Order is called the Disease Control (Wales) Order 2003; it applies in relation to Wales and comes into force on 1st August 2003.
 
-### 2. Interpretation[^key-bf9ee577da8981a1986d47e8ec0ae2f5]
+### 2. Interpretation[^c-bf9ee577da8981a1986d47e8ec0ae2f5]
 
 In this Order—
 
@@ -59,58 +59,58 @@ In this Order—
 - “land” (“*tir*”) includes common or unenclosed land;
 - “the National Assembly” (“*y Cynulliad Cenedlaethol*”) means the National Assembly for Wales;
 - “premises” (“*safle*”) includes land, with or without buildings;
-- “quarantine unit” (“[^key-76e812cfb660ef14f06791ad0ffce399]*uned gwarantin*”) means a facility or premises approved in writing for quarantine purposes by a body accredited by the United Kingdom Accreditation Service (UKAS);
+- “quarantine unit” (“[^c-76e812cfb660ef14f06791ad0ffce399]*uned gwarantin*”) means a facility or premises approved in writing for quarantine purposes by a body accredited by the United Kingdom Accreditation Service (UKAS);
 - “sole occupancy group” (“*grŵp meddianaeth unigol*”) has the meaning assigned by article 11;
-- “slaughterhouse” (“*lladd-dy*”) has the meaning it is given in the Food Hygiene (Wales) Regulations 2006[^key-467ba0de5e4be82b9f0da01e74ee1f94];
+- “slaughterhouse” (“*lladd-dy*”) has the meaning it is given in the Food Hygiene (Wales) Regulations 2006[^c-467ba0de5e4be82b9f0da01e74ee1f94];
 - “standstill period” (“*cyfnod segur*”) means a period when animals may not be moved off premises because of the provisions of articles 4 or 5;
-- [^key-24ea905808bc3d6f07388a16779b56d9]...
+- [^c-24ea905808bc3d6f07388a16779b56d9]...
 - and
 - “veterinary treatment” (“*triniaeth filfeddygol*”) includes, in the case of goats, the collection of semen.
 
-### 3. Exceptions[^key-b878ae73ddaca5af507a519041dab2d4]
+### 3. Exceptions[^c-b878ae73ddaca5af507a519041dab2d4]
 
 This Order does not apply in relation to a movement —
 
 - (a) licensed under the Foot-and-Mouth Disease Order 1983[^f00003]; or
 - (b) to or from a zoo licensed under the Zoo Licensing Act 1981[^f00004].
 
-### 3A. Emergency measures[^key-4b5cc452f6feb43ad2743899a96a77d5]
+### 3A. Emergency measures[^c-4b5cc452f6feb43ad2743899a96a77d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — Movement restrictions
 
-### 4. Restrictions on the movement of cattle, sheep and goats[^key-3b23e43d9422e977f4984bebcb6f6880]
+### 4. Restrictions on the movement of cattle, sheep and goats[^c-3b23e43d9422e977f4984bebcb6f6880]
 
 No person may move any sheep, goats or cattle from any premises if any sheep, goats, cattle or pigs have been moved on to those premises during the previous 6 days.
 
-### 5. Restrictions on the movement of pigs[^key-2e952023a585b2d0e4d1655c9e64b2c7]
+### 5. Restrictions on the movement of pigs[^c-2e952023a585b2d0e4d1655c9e64b2c7]
 
 No person may move a pig from any premises if —
 
 - (a) any pig has been moved on to those premises during the previous 20 days; or
 - (b) any cattle, goats or sheep have been moved on to those premises during the previous 6 days.
 
-### 6. Permitted movements during standstill[^key-8c9e210fd2bbc4f2db061faa22377630]
+### 6. Permitted movements during standstill[^c-8c9e210fd2bbc4f2db061faa22377630]
 
 Notwithstanding articles 4 and 5, animals may be moved off premises during the standstill period if —
 
 - (a) the movement is one specified in Schedule 1; or
 - (b) a permit disapplying the standstill period has been issued by a veterinary inspector.
 
-### 7. Movements that do not trigger a standstill period[^key-804b3df59dc124793071180923e845ca]
+### 7. Movements that do not trigger a standstill period[^c-804b3df59dc124793071180923e845ca]
 
 The standstill period is not triggered by a movement on to premises if it is a movement specified in Schedule 2.
 
-### 8. Isolation facilities[^key-a61a07e5bf8404799085777cd98d3497]
+### 8. Isolation facilities[^c-a61a07e5bf8404799085777cd98d3497]
 
-(1)[^key-d066c26e4eb32363ff41b438db368d78] Where pigs are held in an isolation facility under any provision of this Order, and other pigs are moved in before they are released from the isolation facility, no pig may be removed from the isolation facility before the last date of release of the last pigs moved into the isolation facility.
+(1)[^c-d066c26e4eb32363ff41b438db368d78] Where pigs are held in an isolation facility under any provision of this Order, and other pigs are moved in before they are released from the isolation facility, no pig may be removed from the isolation facility before the last date of release of the last pigs moved into the isolation facility.
 
 (2) Pigs may not share an isolation facility with animals of any other species.
 
-(3)[^key-9f244d2281c0f08e1096de216246e406] An isolation facility may not be used to hold any animals other than pigs.
+(3)[^c-9f244d2281c0f08e1096de216246e406] An isolation facility may not be used to hold any animals other than pigs.
 
-### 8A. Quarantine units[^key-831c4e2f5cbbfce98545263f81ccb06e]
+### 8A. Quarantine units[^c-831c4e2f5cbbfce98545263f81ccb06e]
 
 (1) A quarantine unit may only be used to hold cattle, sheep and goats.
 
@@ -144,30 +144,30 @@ The standstill period is not triggered by a movement on to premises if it is a m
 - “skin test” (“*prawf croen*”) means a single intradermal comparative cervical tuberculin test for tuberculosis using bovine and avian tuberculin; and
 - “tuberculosis” (“*twbercwlosis*”) means infection with *Mycobacterium bovis* (*M.bovis*).
 
-### 9. Marking sheep and goats travelling to shows or exhibitions[^key-10f9aecd6b4d4083579dc1164aea5ced]
+### 9. Marking sheep and goats travelling to shows or exhibitions[^c-10f9aecd6b4d4083579dc1164aea5ced]
 
 No person may move sheep or goats to a show or exhibition unless the animals are marked with an individual identification number in accordance with article 6 of the Sheep and Goats Identification and Movement (Interim Measures) (Wales) (No. 2) Order 2002[^f00005].
 
-### 10. Restrictions on movements to and from slaughterhouses[^key-efbba5e0751833e6b8b7215215ecf713]
+### 10. Restrictions on movements to and from slaughterhouses[^c-efbba5e0751833e6b8b7215215ecf713]
 
 No person may —
 
 - (a) move any animal to a slaughterhouse save for the purpose of slaughter within 48 hours of its arrival there; or
 - (b) receive any animal from a slaughterhouse unless, in the case of any animal other than a pig, under the authority of a licence issued by a veterinary inspector.
 
-### 11. Sole occupancy groups[^key-c38070708150f86a916ee66e208002cb]
+### 11. Sole occupancy groups[^c-c38070708150f86a916ee66e208002cb]
 
 The National Assembly and the Secretary of State may authorise sets of premises as sole occupancy groups if he or she is satisfied that the premises are linked in terms of their control.
 
 ## PART 3 — Licences
 
-### 12. Requirement for a licence to move animals[^key-4368c1dd32e80f8558943cfdf0af4d21]
+### 12. Requirement for a licence to move animals[^c-4368c1dd32e80f8558943cfdf0af4d21]
 
 (1) No person may move an animal from any premises unless the movement is made under the authority of a licence issued by the National Assembly, the Secretary of State or an inspector.
 
-(2) Paragraph (1) does not apply to any movement authorised by a licence under article 20 of the Pigs (Records, Identification and Movement) (Wales) Order 2011[^key-98673156e6fc64dd2944ce547c1e2250] (licences relating to pet pigs).
+(2) Paragraph (1) does not apply to any movement authorised by a licence under article 20 of the Pigs (Records, Identification and Movement) (Wales) Order 2011[^c-98673156e6fc64dd2944ce547c1e2250] (licences relating to pet pigs).
 
-### 13. Notices prohibiting movement under a general licence[^key-0f05a1fac9a7848107ef2080768d5d50]
+### 13. Notices prohibiting movement under a general licence[^c-0f05a1fac9a7848107ef2080768d5d50]
 
 (1) Where a general licence has been issued under article 12, the National Assembly or the Secretary of State may issue a notice prohibiting -
 
@@ -185,7 +185,7 @@ The National Assembly and the Secretary of State may authorise sets of premises 
 
 (5) A notice must be in writing, may be subject to conditions and may be amended, suspended or revoked at any time by further notice by the National Assembly or the Secretary of State.
 
-### 14. Specific licences[^key-d33dc1477a291d8fbdc51f509871b4b3]
+### 14. Specific licences[^c-d33dc1477a291d8fbdc51f509871b4b3]
 
 (1) An animal moved under a specific licence must —
 
@@ -198,39 +198,39 @@ The National Assembly and the Secretary of State may authorise sets of premises 
 - (b) allow a copy or an extract to be taken; and
 - (c) if so required, furnish his or her name and address.
 
-(3)[^key-8149d69008a66c3c14c211fae065054f] Every animal which is moved under a specific licence must be kept separate throughout such movement from any animal which is not being moved under that licence.
+(3)[^c-8149d69008a66c3c14c211fae065054f] Every animal which is moved under a specific licence must be kept separate throughout such movement from any animal which is not being moved under that licence.
 
 (4) Where animals are moved under a specific licence, then, unless the licence provides otherwise, the occupier of premises which they are moved on to must —
 
 - (a) ensure that he or she or his or her representative is given the licence before allowing the animals to be unloaded; and
 - (b) keep the licence for six months and during that period produce it to an inspector on request.
 
-### 15. General licences[^key-1d3b355a08301cb9da292e126752bd56]
+### 15. General licences[^c-1d3b355a08301cb9da292e126752bd56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15A. Movement documents for deer[^key-7de9089b156313eae259557d04323e2b]
+### 15A. Movement documents for deer[^c-7de9089b156313eae259557d04323e2b]
 
 Where deer are moved under a general licence, and that licence requires the person moving the deer to have a movement document, the occupier of premises which they are moved on to must—
 
 - (a) comply with the conditions of the licence relating to the reporting of movement information; and
 - (b) keep a copy of the completed movement document for six months and during that period produce it to an inspector on request.
 
-### 16. Copies of licences[^key-2e703f51efc0527e756630c9748daff8]
+### 16. Copies of licences[^c-2e703f51efc0527e756630c9748daff8]
 
 Where an inspector of a local authority issues a licence under article 12(1), he or she must retain a copy of the licence for six months.
 
-### 17. Compliance with licences, etc.[^key-5740df5dffee7620e1741bbcc74eff3d]
+### 17. Compliance with licences, etc.[^c-5740df5dffee7620e1741bbcc74eff3d]
 
 If any person fails to comply with a licence, permit, authorisation or notice issued under this Order an officer of the National Assembly or the Secretary of State or an inspector may arrange for it to be complied with at the expense of the person in default.
 
-### 18. Licences issued in Scotland or England[^key-bde5661e3d9ae994440150d2a1c1f597]
+### 18. Licences issued in Scotland or England[^c-bde5661e3d9ae994440150d2a1c1f597]
 
 A licence issued by a competent authority in Scotland or England for the purpose of the movement of animals operates in Wales as if it had been issued under this Order.
 
 ## PART 4 — Miscellaneous and enforcement
 
-### 19. Licences, permits and authorisations[^key-c7e08720ade3058eca09e338e9a50a8c]
+### 19. Licences, permits and authorisations[^c-c7e08720ade3058eca09e338e9a50a8c]
 
 (1) Any licence, permit or authorisation under this Order must be in writing, may be general or specific, may be subject to conditions and may be varied, suspended or revoked at any time by notice in writing issued —
 
@@ -241,13 +241,13 @@ A licence issued by a competent authority in Scotland or England for the purpose
 
 (2) In deciding whether to issue a licence under article 12(1) or a permit under article 6(b) an inspector or a veterinary inspector must comply with any instructions issued by the National Assembly or the Secretary of State.
 
-### 20. Cleansing and disinfection[^key-8ac1db80aaf778431e8a8b497ac85a30]
+### 20. Cleansing and disinfection[^c-8ac1db80aaf778431e8a8b497ac85a30]
 
 (1) A licence issued under article 12(1), a permit issued under article 6(b) or an authorisation under article 11 may specify requirements for the cleansing and disinfection of any vehicle used for moving animals additional to the requirements of the Transport of Animals (Cleansing and Disinfection) (Wales) (No.3) Order 2003[^f00007].
 
 (2) Where animals are moved under a licence, the occupier of the premises which they are moved on to must provide adequate facilities, equipment and materials for any cleansing and disinfection required by the licence.
 
-### 21. Change of occupation of premises[^key-20fe7e80e9ecc69ab073e86b041d824c]
+### 21. Change of occupation of premises[^c-20fe7e80e9ecc69ab073e86b041d824c]
 
 (1) Where, on the termination of his or her right of occupation of any premises, the owner of any animal on those premises is unable to remove it from those premises by reason of any restriction imposed by or under this Order, the person entitled to the occupation of those premises must —
 
@@ -256,17 +256,17 @@ A licence issued by a competent authority in Scotland or England for the purpose
 
 (2) The provisions of paragraph (1) shall continue to apply until the expiry of a period of 7 days from the date on which any restriction on the movement of the animal off the premises ceases to apply and the owner of the animal shall be liable to pay to the person who affords any facilities or feeds, tends or otherwise keeps that animal, in accordance with those provisions, such sums by way of remuneration and reimbursement of expenses as may be just and reasonable in all the circumstances.
 
-### 22. Enforcement[^key-94f58f345ceb2f465a3a895ef72b16ef]
+### 22. Enforcement[^c-94f58f345ceb2f465a3a895ef72b16ef]
 
 (1) This Order is to be enforced by the local authority.
 
 (2) The National Assembly or the Secretary of State may direct, in relation to cases of a particular description or any particular case, that an enforcement duty imposed on a local authority under this regulation is to be discharged by the National Assembly or the Secretary of State and not by the local authority.
 
-### 23. Revocations[^key-5038fe6b53f9e0209579b01f4e7048a8]
+### 23. Revocations[^c-5038fe6b53f9e0209579b01f4e7048a8]
 
 The Disease Control (Interim Measures) (Wales) (No.2) Order 2003[^f00008] is revoked.
 
-### 24. Amendment of the Sheep and Goats Identification and Movement (Interim Measures) (Wales) (No.2) Order 2002[^key-57622ceae508589d6f8034d30e39340b]
+### 24. Amendment of the Sheep and Goats Identification and Movement (Interim Measures) (Wales) (No.2) Order 2002[^c-57622ceae508589d6f8034d30e39340b]
 
 (1) The Sheep and Goats Identification and Movement (Interim Measures) (Wales) (No.2) Order 2002 is amended in accordance with this article.
 
@@ -294,7 +294,7 @@ Department for Environment, Food and Rural Affairs
 
 Article 6(a)
 
-### 1. Movement for veterinary treatment, etc.[^key-0ed26ce4c963fbdf7bd6ac0201982d2b]
+### 1. Movement for veterinary treatment, etc.[^c-0ed26ce4c963fbdf7bd6ac0201982d2b]
 
 (1) The movement of an animal to a place for veterinary treatment.
 
@@ -302,30 +302,30 @@ Article 6(a)
 
 (3) The movement of an animal to a laboratory for diagnostic tests to be carried out to ascertain whether the animal is affected by or has been exposed to a disease.
 
-### 2. Movement for slaughter[^key-fba28e02392a21a6798baa2908b96bb1]
+### 2. Movement for slaughter[^c-fba28e02392a21a6798baa2908b96bb1]
 
 The movement of an animal direct to a slaughterhouse.
 
-**3.**[^key-f03e9b5a914de4a2662f1012290f03ba] The movement of a pig to a market for pigs intended for immediate slaughter.
+**3.**[^c-f03e9b5a914de4a2662f1012290f03ba] The movement of a pig to a market for pigs intended for immediate slaughter.
 
-**4.**[^key-53f94673ae0c2504d41cb73cf4ad3f61] The movement of an animal to a collecting centre for animals intended for immediate slaughter, provided that —
+**4.**[^c-53f94673ae0c2504d41cb73cf4ad3f61] The movement of an animal to a collecting centre for animals intended for immediate slaughter, provided that —
 
 - (a) the collecting centre premises have not been and will not be used on the same day for a show or exhibition or for the sale or trading of animals otherwise than for immediate slaughter; and
 - (b) all animals moved to the collecting centre are moved from there direct to a slaughterhouse.
 
-### 5. Movement for artificial insemination[^key-19e8949111c48ea054cf5f8cc49ffd54]
+### 5. Movement for artificial insemination[^c-19e8949111c48ea054cf5f8cc49ffd54]
 
-The movement of [^key-910130efcb205fa1a3e9d7eb21df9b5e]... pigs to an artificial insemination centre.
+The movement of [^c-910130efcb205fa1a3e9d7eb21df9b5e]... pigs to an artificial insemination centre.
 
-### 7. Animals for export[^key-e1c82bbc08cf4c0ebf076080f6441fae]
+### 7. Animals for export[^c-e1c82bbc08cf4c0ebf076080f6441fae]
 
-The movement of an animal for direct export or to a collecting centre or assembly centre [^key-b2c640abbc6f564486abfbb741d8d0a9]... prior to such export.
+The movement of an animal for direct export or to a collecting centre or assembly centre [^c-b2c640abbc6f564486abfbb741d8d0a9]... prior to such export.
 
-### 8. Movement within a sole occupancy group[^key-94b1f14be06164ee8a272e1d07087395]
+### 8. Movement within a sole occupancy group[^c-94b1f14be06164ee8a272e1d07087395]
 
 The movement of animals between premises in a sole occupancy group.
 
-### 9. Common land[^key-ba8f56e116e730c2e3c82504114afff6]
+### 9. Common land[^c-ba8f56e116e730c2e3c82504114afff6]
 
 (1) The movement of an animal between land over which the owner or keeper of the animal has a registered right of common and —
 
@@ -336,28 +336,28 @@ The movement of animals between premises in a sole occupancy group.
 
 (3) In this paragraph “registered right of common” means a right of common registered under the Commons Registration Act 1965[^f00010] or a right of common which is exempt from such registration but which is registered, designated, attached, or otherwise recognised, continued or preserved under and in accordance with any of the New Forest Acts 1854, 1949, 1964 and 1970, the Epping Forest Acts 1878[^f00011] and 1880[^f00012] or the City of London (Various Powers) Act 1977[^f00013] or any like right or permission exercised in the Forest of Dean.
 
-### 10. Movement of pigs for breeding, etc.[^key-de146aaa53b9254fb1d5d853cba8b5fa]
+### 10. Movement of pigs for breeding, etc.[^c-de146aaa53b9254fb1d5d853cba8b5fa]
 
-(1) The movement of a pig intended for breeding or growing in accordance with article 21 of the Pigs (Records, Identification and Movement) (Wales) Order 2011[^key-834be716b24dcd0821ee10f3b7fadcd5].
+(1) The movement of a pig intended for breeding or growing in accordance with article 21 of the Pigs (Records, Identification and Movement) (Wales) Order 2011[^c-834be716b24dcd0821ee10f3b7fadcd5].
 
 (2) The movement of a pig intended for breeding other than in accordance with paragraph (1) if that pig has been placed in an isolation facility approved for this purpose by a veterinary inspector for 20 days prior to the movement.
 
-### 11. Movement of pigs to shows and exhibitions[^key-6244c686c1f4223b80001015a30ec830]
+### 11. Movement of pigs to shows and exhibitions[^c-6244c686c1f4223b80001015a30ec830]
 
 The movement of a pig to a show or exhibition provided that —
 
 - (a) it is isolated for 20 days prior to the movement taking place in premises approved for this purpose by a veterinary inspector; or
 - (b) it has been returned to its premises of origin from a show or exhibition and isolated at its premises of origin in premises approved in accordance with paragraph (a) from the time of arriving from the first show or exhibition to the time of leaving for the second show or exhibition.
 
-### 12. Movement of rams and bulls for breeding[^key-5d627a0252b89d53f4d3d95f42b24a29]
+### 12. Movement of rams and bulls for breeding[^c-5d627a0252b89d53f4d3d95f42b24a29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Movement of cattle, sheep and goats to shows and exhibitions[^key-9707dfab1fcc0b911d567bf79f785a20]
+### 13. Movement of cattle, sheep and goats to shows and exhibitions[^c-9707dfab1fcc0b911d567bf79f785a20]
 
 The movement of cattle, sheep and goats to shows and exhibitions provided where they have moved from another show or exhibition within the last 6 days they have been held in a quarantine unit and have not left that quarantine unit since being taken into it.
 
-### 14. Vehicles dropping off other animals[^key-ba988f75fb73d200c6fe0b49dc32b019]
+### 14. Vehicles dropping off other animals[^c-ba988f75fb73d200c6fe0b49dc32b019]
 
 Movement of an animal which is on a vehicle which enters premises to drop off other animals, provided it has not left the means of transport while on the premises.
 
@@ -365,60 +365,60 @@ Movement of an animal which is on a vehicle which enters premises to drop off ot
 
 Article 7
 
-### Z1. Movement of cattle, sheep and goats[^key-42522d683398eb56285351b6425640f4]
+### Z1. Movement of cattle, sheep and goats[^c-42522d683398eb56285351b6425640f4]
 
 Arrival of cattle, sheep and goats on to the premises provided they are quarantined for 6 days after their arrival in a quarantine unit.
 
-### 1. Arrival at a premises licensed under the Animal Gatherings (Wales) Order 2010.[^key-87ea9c688135c428f0e87ed6b93ed985][^key-a3e07f39d195ca5545dceb3fb3757c8c]
+### 1. Arrival at a premises licensed under the Animal Gatherings (Wales) Order 2010.[^c-87ea9c688135c428f0e87ed6b93ed985][^c-a3e07f39d195ca5545dceb3fb3757c8c]
 
-The movement of an animal on to any premises licensed under the Animal Gatherings (Wales) Order 2010[^key-f27105258d51545c18369bdbdca60598] if the movement is for the purposes of a gathering licensed under that Order.
+The movement of an animal on to any premises licensed under the Animal Gatherings (Wales) Order 2010[^c-f27105258d51545c18369bdbdca60598] if the movement is for the purposes of a gathering licensed under that Order.
 
-### 2. Arrival at an artificial insemination centre[^key-90beee846d433416b5e1f1a867409366]
+### 2. Arrival at an artificial insemination centre[^c-90beee846d433416b5e1f1a867409366]
 
 The movement of an animal on to an artificial insemination centre.
 
-### 3. Movement of a pig under the Pigs (Records, Identification and Movement) (Wales) Order 2011[^key-b8fc941d2e03c979a3dadca8acc28d61][^key-433d9a279414d8d731dd75c4a0a67c0d]
+### 3. Movement of a pig under the Pigs (Records, Identification and Movement) (Wales) Order 2011[^c-b8fc941d2e03c979a3dadca8acc28d61][^c-433d9a279414d8d731dd75c4a0a67c0d]
 
-Movement of a pig where that movement is as referred to in article 21 of the Pigs (Records, Identification and Movement) (Wales) Order 2011[^key-e7ed0ab2672e784f93b771ad3313a62d].
+Movement of a pig where that movement is as referred to in article 21 of the Pigs (Records, Identification and Movement) (Wales) Order 2011[^c-e7ed0ab2672e784f93b771ad3313a62d].
 
-### 4. Movement of a pig for breeding purposes[^key-7cd942820763bca9ee07e942aeb6262e]
+### 4. Movement of a pig for breeding purposes[^c-7cd942820763bca9ee07e942aeb6262e]
 
-(1) Arrival of a pig for breeding (other than one being moved under article 21 of the Pigs (Records, Identification and Movement) (Wales) Order 2011[^key-2dc295a8fd6a27cbfc78c41dc4e7bd3a] on the breeding premises provided that —
+(1) Arrival of a pig for breeding (other than one being moved under article 21 of the Pigs (Records, Identification and Movement) (Wales) Order 2011[^c-2dc295a8fd6a27cbfc78c41dc4e7bd3a] on the breeding premises provided that —
 
 - (a) prior to being moved, either there is no standstill period on the premises of departure, or alternatively it has been isolated for 20 days prior to the movement taking place in a facility approved for this purpose by a veterinary inspector;
 - (b) it is isolated while on the breeding premises (or for 20 days, whichever is shorter) in an isolation facility approved for this purpose by a veterinary inspector;
 - (c) any pig placed in the isolation facility with the pig brought on to the premise for breeding purposes has been on the breeding premises for at least 20 days before being placed in that facility;
 - (d) any other pig placed into the isolation facility on the breeding premises with the one brought on to those premises remains in isolation for 20 days after the arrival of the pig being brought into the premises, or for 20 days after being placed into isolation with it whichever is later; and
-- (e) the recipient of the breeding pig submits, in accordance with the terms of the licence under which the pig is moved, and[^key-958a630052596451c8631b3fc4cd1af8] without undue delay a declaration that the pig is intended for breeding on those premises.
+- (e) the recipient of the breeding pig submits, in accordance with the terms of the licence under which the pig is moved, and[^c-958a630052596451c8631b3fc4cd1af8] without undue delay a declaration that the pig is intended for breeding on those premises.
 
-(2) Movement of a pig (other than one being moved under article 21 of the Pigs (Records, Identification and Movement) (Wales) Order 2011[^key-23dcf4f6b809ecdf40aae2fca5372cb2] which is being returned to those premises from a place to which it had been moved for breeding, provided that —
+(2) Movement of a pig (other than one being moved under article 21 of the Pigs (Records, Identification and Movement) (Wales) Order 2011[^c-23dcf4f6b809ecdf40aae2fca5372cb2] which is being returned to those premises from a place to which it had been moved for breeding, provided that —
 
 - (a) it is isolated for 20 days after the date of its return from all other animals, and
-- (b) the occupier of the premises from which the pig has returned from breeding has submitted[^key-eb1ac270dbd9ad4d451618b075eae037] the declaration required in paragraph 4(1)(e) [^key-9e2e338c756debf28e23358d7ad41402]....
+- (b) the occupier of the premises from which the pig has returned from breeding has submitted[^c-eb1ac270dbd9ad4d451618b075eae037] the declaration required in paragraph 4(1)(e) [^c-9e2e338c756debf28e23358d7ad41402]....
 
-### 5. Return of pigs, cattle, sheep or goats from a show or exhibition[^key-931846cb2fa606e23e79ebb91faaf667]
+### 5. Return of pigs, cattle, sheep or goats from a show or exhibition[^c-931846cb2fa606e23e79ebb91faaf667]
 
 (1) The return of cattle, sheep or goats from a show or exhibition to the premises from which they were consigned to that show or exhibition provided that the animals are quarantined for 6 days after their return in a quarantine unit.
 
 (2) The return of pigs from a show or exhibition to the premises from which they were consigned to that show or exhibition provided that the animals are isolated for 20 days after their return in a facility approved for this purpose by a veterinary inspector.
 
-### 6. Return of breeding rams and bulls from a market[^key-a0e23a8d9772266cadad8a931bd00b9a]
+### 6. Return of breeding rams and bulls from a market[^c-a0e23a8d9772266cadad8a931bd00b9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Arrival of rams and bulls for breeding[^key-05bedf017da197aad7bf73d79fdc1e1b]
+### 7. Arrival of rams and bulls for breeding[^c-05bedf017da197aad7bf73d79fdc1e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Arrival of goats for breeding[^key-2050befae259374fa2541ff19e19c0b8]
+### 8. Arrival of goats for breeding[^c-2050befae259374fa2541ff19e19c0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Artificial insemination centres[^key-be6d7eed9207f48eb25448933f454b56][^key-0e7f75beaf9ff276d657b6bf42aa4bd1]
+### 9. Artificial insemination centres[^c-be6d7eed9207f48eb25448933f454b56][^c-0e7f75beaf9ff276d657b6bf42aa4bd1]
 
 Arrival of cattle, sheep or goats which are being returned from an artificial insemination centre provided that they are quarantined for 6 days after their return in a quarantine unit.
 
-### 10.[^key-8b745aacd3fcff1efd4558a887409648]
+### 10.[^c-8b745aacd3fcff1efd4558a887409648]
 
 Arrival of pigs which are being returned to those premises from an artificial insemination centre provided they are isolated from all other animals for 20 days after their return.
 
@@ -426,21 +426,21 @@ Arrival of pigs which are being returned to those premises from an artificial in
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Imported animals[^key-78cba712225aed179a83fccf2bf91968]
+### 12. Imported animals[^c-78cba712225aed179a83fccf2bf91968]
 
 (1) The arrival of an imported animal at its point of entry into Wales.
 
 (2) Movement of an animal from its point of entry into the United Kingdom following its import from another member State.
 
-### 13. Movement within a sole occupancy group[^key-65a44521f0450448351604ff208964cf]
+### 13. Movement within a sole occupancy group[^c-65a44521f0450448351604ff208964cf]
 
 The movement of animals between premises in a sole occupancy group.
 
-### 14. Vehicles collecting other animals[^key-3be291991e412d50b8512a7b909c4bef]
+### 14. Vehicles collecting other animals[^c-3be291991e412d50b8512a7b909c4bef]
 
 Movement of an animal brought on to premises in a vehicle to collect other animals provided that the animal is not unloaded at those premises.
 
-### 15. Arrival from veterinary treatment, etc.[^key-8fad9cdd5af34cb8c73a0c29f649e860]
+### 15. Arrival from veterinary treatment, etc.[^c-8fad9cdd5af34cb8c73a0c29f649e860]
 
 The arrival of sheep, goats, cattle or pigs being returned to those premises from a place for veterinary treatment or of any offspring to which they have given birth while there provided that—
 
@@ -484,103 +484,103 @@ A regulatory appraisal has been prepared and placed in the library of the Nation
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). Functions conferred under the 1981 Act on “the Ministers” (as defined in section 86 of that Act) were transferred so far as exercisable by the Secretary of State for Wales in relation to Wales, to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I.1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The joint functions of “the Ministers” exercisable by the Secretary of State for Scotland in relation to Wales were transferred to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 (S.I. [1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)). All functions of the Minister of Agriculture, Fisheries and Food were then further transferred to the Secretary of State by the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. [2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
-[^key-8709465950df021e93ca01d7a4d0b5e5]: Commencement: Art. 1 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-8709465950df021e93ca01d7a4d0b5e5]: Commencement: Art. 1 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-bf9ee577da8981a1986d47e8ec0ae2f5]: Commencement: Art. 2 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-bf9ee577da8981a1986d47e8ec0ae2f5]: Commencement: Art. 2 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-76e812cfb660ef14f06791ad0ffce399]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2003/1966/article/2) inserted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [3(b)](https://www.legislation.gov.uk/wsi/2017/674/article/3/b) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-76e812cfb660ef14f06791ad0ffce399]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2003/1966/article/2) inserted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [3(b)](https://www.legislation.gov.uk/wsi/2017/674/article/3/b) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-467ba0de5e4be82b9f0da01e74ee1f94]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2003/1966/article/2) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [3(a)](https://www.legislation.gov.uk/wsi/2017/674/article/3/a) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-467ba0de5e4be82b9f0da01e74ee1f94]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2003/1966/article/2) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [3(a)](https://www.legislation.gov.uk/wsi/2017/674/article/3/a) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-24ea905808bc3d6f07388a16779b56d9]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2003/1966/article/2) omitted (6.6.2008) by virtue of [The Disease Control (Wales) (Amendment) Order 2008 (S.I. 2008/1314)](https://www.legislation.gov.uk/wsi/2008/1314), [arts. 1](https://www.legislation.gov.uk/wsi/2008/1314/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2008/1314/article/2/2)
+[^c-24ea905808bc3d6f07388a16779b56d9]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2003/1966/article/2) omitted (6.6.2008) by virtue of [The Disease Control (Wales) (Amendment) Order 2008 (S.I. 2008/1314)](https://www.legislation.gov.uk/wsi/2008/1314), [arts. 1](https://www.legislation.gov.uk/wsi/2008/1314/article/1), [2(2)](https://www.legislation.gov.uk/wsi/2008/1314/article/2/2)
 
-[^key-b878ae73ddaca5af507a519041dab2d4]: Commencement: Art. 3 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-b878ae73ddaca5af507a519041dab2d4]: Commencement: Art. 3 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
 [^f00003]: Footnote: S.I. [1983/1950](https://www.legislation.gov.uk/uksi/1983/1950) as last amended in relation to Wales by S.I. [2001/4009 (W.335)](https://www.legislation.gov.uk/wsi/2001/4009).
 
 [^f00004]: Footnote: [1981 c. 37](https://www.legislation.gov.uk/ukpga/1981/37).
 
-[^key-4b5cc452f6feb43ad2743899a96a77d5]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/wsi/2003/1966/article/3A) omitted (8.9.2007 at 12 noon) by virtue of [The Disease Control (Wales) (Amendment) (No. 2) Order 2007 (S.I. 2007/2626)](https://www.legislation.gov.uk/wsi/2007/2626), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2007/2626/article/1/2), [2](https://www.legislation.gov.uk/wsi/2007/2626/article/2)
+[^c-4b5cc452f6feb43ad2743899a96a77d5]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/wsi/2003/1966/article/3A) omitted (8.9.2007 at 12 noon) by virtue of [The Disease Control (Wales) (Amendment) (No. 2) Order 2007 (S.I. 2007/2626)](https://www.legislation.gov.uk/wsi/2007/2626), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2007/2626/article/1/2), [2](https://www.legislation.gov.uk/wsi/2007/2626/article/2)
 
-[^key-3b23e43d9422e977f4984bebcb6f6880]: Commencement: Art. 4 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-3b23e43d9422e977f4984bebcb6f6880]: Commencement: Art. 4 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-2e952023a585b2d0e4d1655c9e64b2c7]: Commencement: Art. 5 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-2e952023a585b2d0e4d1655c9e64b2c7]: Commencement: Art. 5 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-8c9e210fd2bbc4f2db061faa22377630]: Commencement: Art. 6 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-8c9e210fd2bbc4f2db061faa22377630]: Commencement: Art. 6 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-804b3df59dc124793071180923e845ca]: Commencement: Art. 7 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-804b3df59dc124793071180923e845ca]: Commencement: Art. 7 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-a61a07e5bf8404799085777cd98d3497]: Commencement: Art. 8 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-a61a07e5bf8404799085777cd98d3497]: Commencement: Art. 8 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-d066c26e4eb32363ff41b438db368d78]: Textual amendment: [Art. 8(1)](https://www.legislation.gov.uk/wsi/2003/1966/article/8/1) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [4(a)](https://www.legislation.gov.uk/wsi/2017/674/article/4/a) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-d066c26e4eb32363ff41b438db368d78]: Textual amendment: [Art. 8(1)](https://www.legislation.gov.uk/wsi/2003/1966/article/8/1) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [4(a)](https://www.legislation.gov.uk/wsi/2017/674/article/4/a) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-9f244d2281c0f08e1096de216246e406]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/wsi/2003/1966/article/8/3) inserted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [4(b)](https://www.legislation.gov.uk/wsi/2017/674/article/4/b) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-9f244d2281c0f08e1096de216246e406]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/wsi/2003/1966/article/8/3) inserted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [4(b)](https://www.legislation.gov.uk/wsi/2017/674/article/4/b) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-831c4e2f5cbbfce98545263f81ccb06e]: Textual amendment: [Art. 8A](https://www.legislation.gov.uk/wsi/2003/1966/article/8A) inserted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [5](https://www.legislation.gov.uk/wsi/2017/674/article/5) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-831c4e2f5cbbfce98545263f81ccb06e]: Textual amendment: [Art. 8A](https://www.legislation.gov.uk/wsi/2003/1966/article/8A) inserted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [5](https://www.legislation.gov.uk/wsi/2017/674/article/5) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
 [^f00005]: Footnote: S.I. [2002/2302 (W.227)](https://www.legislation.gov.uk/wsi/2002/2302), amended by S.I. [2003/167 (W.27)](https://www.legislation.gov.uk/wsi/2003/167), S.I. [2003/946 (W.127)](https://www.legislation.gov.uk/wsi/2003/946) and this Order.
 
-[^key-10f9aecd6b4d4083579dc1164aea5ced]: Commencement: Art. 9 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-10f9aecd6b4d4083579dc1164aea5ced]: Commencement: Art. 9 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-efbba5e0751833e6b8b7215215ecf713]: Commencement: Art. 10 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-efbba5e0751833e6b8b7215215ecf713]: Commencement: Art. 10 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-c38070708150f86a916ee66e208002cb]: Commencement: Art. 11 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-c38070708150f86a916ee66e208002cb]: Commencement: Art. 11 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-4368c1dd32e80f8558943cfdf0af4d21]: Commencement: Art. 12 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-4368c1dd32e80f8558943cfdf0af4d21]: Commencement: Art. 12 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-98673156e6fc64dd2944ce547c1e2250]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/wsi/2003/1966/article/12/2) substituted (25.11.2011) by [The Pigs (Records, Identification and Movement) (Wales) Order 2011 (S.I. 2011/2830)](https://www.legislation.gov.uk/wsi/2011/2830), [arts. 1](https://www.legislation.gov.uk/wsi/2011/2830/article/1), [26(2)](https://www.legislation.gov.uk/wsi/2011/2830/article/26/2)
+[^c-98673156e6fc64dd2944ce547c1e2250]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/wsi/2003/1966/article/12/2) substituted (25.11.2011) by [The Pigs (Records, Identification and Movement) (Wales) Order 2011 (S.I. 2011/2830)](https://www.legislation.gov.uk/wsi/2011/2830), [arts. 1](https://www.legislation.gov.uk/wsi/2011/2830/article/1), [26(2)](https://www.legislation.gov.uk/wsi/2011/2830/article/26/2)
 
-[^key-0f05a1fac9a7848107ef2080768d5d50]: Commencement: Art. 13 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-0f05a1fac9a7848107ef2080768d5d50]: Commencement: Art. 13 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-d33dc1477a291d8fbdc51f509871b4b3]: Commencement: Art. 14 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-d33dc1477a291d8fbdc51f509871b4b3]: Commencement: Art. 14 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-8149d69008a66c3c14c211fae065054f]: Textual amendment: [Art. 14(3)](https://www.legislation.gov.uk/wsi/2003/1966/article/14/3) substituted (6.6.2008) by [The Disease Control (Wales) (Amendment) Order 2008 (S.I. 2008/1314)](https://www.legislation.gov.uk/wsi/2008/1314), [arts. 1](https://www.legislation.gov.uk/wsi/2008/1314/article/1), [2(3)](https://www.legislation.gov.uk/wsi/2008/1314/article/2/3)
+[^c-8149d69008a66c3c14c211fae065054f]: Textual amendment: [Art. 14(3)](https://www.legislation.gov.uk/wsi/2003/1966/article/14/3) substituted (6.6.2008) by [The Disease Control (Wales) (Amendment) Order 2008 (S.I. 2008/1314)](https://www.legislation.gov.uk/wsi/2008/1314), [arts. 1](https://www.legislation.gov.uk/wsi/2008/1314/article/1), [2(3)](https://www.legislation.gov.uk/wsi/2008/1314/article/2/3)
 
-[^key-1d3b355a08301cb9da292e126752bd56]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/wsi/2003/1966/article/15) omitted (11.9.2017) by virtue of [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [6](https://www.legislation.gov.uk/wsi/2017/674/article/6) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-1d3b355a08301cb9da292e126752bd56]: Textual amendment: [Art. 15](https://www.legislation.gov.uk/wsi/2003/1966/article/15) omitted (11.9.2017) by virtue of [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [6](https://www.legislation.gov.uk/wsi/2017/674/article/6) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-7de9089b156313eae259557d04323e2b]: Textual amendment: [Art. 15A](https://www.legislation.gov.uk/wsi/2003/1966/article/15A) inserted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [7](https://www.legislation.gov.uk/wsi/2017/674/article/7) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-7de9089b156313eae259557d04323e2b]: Textual amendment: [Art. 15A](https://www.legislation.gov.uk/wsi/2003/1966/article/15A) inserted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [7](https://www.legislation.gov.uk/wsi/2017/674/article/7) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-2e703f51efc0527e756630c9748daff8]: Commencement: Art. 16 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-2e703f51efc0527e756630c9748daff8]: Commencement: Art. 16 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-5740df5dffee7620e1741bbcc74eff3d]: Commencement: Art. 17 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-5740df5dffee7620e1741bbcc74eff3d]: Commencement: Art. 17 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-bde5661e3d9ae994440150d2a1c1f597]: Commencement: Art. 18 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-bde5661e3d9ae994440150d2a1c1f597]: Commencement: Art. 18 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-c7e08720ade3058eca09e338e9a50a8c]: Commencement: Art. 19 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-c7e08720ade3058eca09e338e9a50a8c]: Commencement: Art. 19 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-8ac1db80aaf778431e8a8b497ac85a30]: Commencement: Art. 20 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-8ac1db80aaf778431e8a8b497ac85a30]: Commencement: Art. 20 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
 [^f00007]: Footnote: S.I. [2003/1968 (W.213)](https://www.legislation.gov.uk/wsi/2003/1968).
 
-[^key-20fe7e80e9ecc69ab073e86b041d824c]: Commencement: Art. 21 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-20fe7e80e9ecc69ab073e86b041d824c]: Commencement: Art. 21 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-94f58f345ceb2f465a3a895ef72b16ef]: Commencement: Art. 22 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-94f58f345ceb2f465a3a895ef72b16ef]: Commencement: Art. 22 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-5038fe6b53f9e0209579b01f4e7048a8]: Commencement: Art. 23 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-5038fe6b53f9e0209579b01f4e7048a8]: Commencement: Art. 23 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
 [^f00008]: Footnote: S.I. [2003/1414 (W.166)](https://www.legislation.gov.uk/wsi/2003/1414).
 
-[^key-57622ceae508589d6f8034d30e39340b]: Commencement: Art. 24 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-57622ceae508589d6f8034d30e39340b]: Commencement: Art. 24 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-0ed26ce4c963fbdf7bd6ac0201982d2b]: Commencement: Sch. 1 para. 1 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-0ed26ce4c963fbdf7bd6ac0201982d2b]: Commencement: Sch. 1 para. 1 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-fba28e02392a21a6798baa2908b96bb1]: Commencement: Sch. 1 para. 2 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-fba28e02392a21a6798baa2908b96bb1]: Commencement: Sch. 1 para. 2 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-f03e9b5a914de4a2662f1012290f03ba]: Commencement: Sch. 1 para. 3 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-f03e9b5a914de4a2662f1012290f03ba]: Commencement: Sch. 1 para. 3 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-53f94673ae0c2504d41cb73cf4ad3f61]: Commencement: Sch. 1 para. 4 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-53f94673ae0c2504d41cb73cf4ad3f61]: Commencement: Sch. 1 para. 4 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-19e8949111c48ea054cf5f8cc49ffd54]: Commencement: Sch. 1 para. 5 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-19e8949111c48ea054cf5f8cc49ffd54]: Commencement: Sch. 1 para. 5 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-910130efcb205fa1a3e9d7eb21df9b5e]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2003/1966/schedule/1/paragraph/5) omitted (11.9.2017) by virtue of [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 1(2)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/1/2) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-910130efcb205fa1a3e9d7eb21df9b5e]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2003/1966/schedule/1/paragraph/5) omitted (11.9.2017) by virtue of [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 1(2)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/1/2) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-e1c82bbc08cf4c0ebf076080f6441fae]: Commencement: Sch. 1 para. 7 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-e1c82bbc08cf4c0ebf076080f6441fae]: Commencement: Sch. 1 para. 7 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-b2c640abbc6f564486abfbb741d8d0a9]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2003/1966/schedule/1/paragraph/7) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/2), [33](https://www.legislation.gov.uk/wsi/2020/1612/regulation/33)
+[^c-b2c640abbc6f564486abfbb741d8d0a9]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2003/1966/schedule/1/paragraph/7) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/2), [33](https://www.legislation.gov.uk/wsi/2020/1612/regulation/33)
 
-[^key-94b1f14be06164ee8a272e1d07087395]: Commencement: Sch. 1 para. 8 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-94b1f14be06164ee8a272e1d07087395]: Commencement: Sch. 1 para. 8 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-ba8f56e116e730c2e3c82504114afff6]: Commencement: Sch. 1 para. 9 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-ba8f56e116e730c2e3c82504114afff6]: Commencement: Sch. 1 para. 9 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
 [^f00010]: Footnote: [1965 c. 64](https://www.legislation.gov.uk/ukpga/1965/64).
 
@@ -590,69 +590,69 @@ A regulatory appraisal has been prepared and placed in the library of the Nation
 
 [^f00013]: Footnote: [1977 c. XV](https://www.legislation.gov.uk/ukla/1977/15).
 
-[^key-de146aaa53b9254fb1d5d853cba8b5fa]: Commencement: Sch. 1 para. 10 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-de146aaa53b9254fb1d5d853cba8b5fa]: Commencement: Sch. 1 para. 10 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-834be716b24dcd0821ee10f3b7fadcd5]: Textual amendment: Words in [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/wsi/2003/1966/schedule/1/paragraph/10/1) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 1(5)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/1/5) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-834be716b24dcd0821ee10f3b7fadcd5]: Textual amendment: Words in [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/wsi/2003/1966/schedule/1/paragraph/10/1) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 1(5)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/1/5) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-6244c686c1f4223b80001015a30ec830]: Commencement: Sch. 1 para. 11 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-6244c686c1f4223b80001015a30ec830]: Commencement: Sch. 1 para. 11 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-5d627a0252b89d53f4d3d95f42b24a29]: Textual amendment: [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2003/1966/schedule/1/paragraph/12) omitted (11.9.2017) by virtue of [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 1(6)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/1/6) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-5d627a0252b89d53f4d3d95f42b24a29]: Textual amendment: [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2003/1966/schedule/1/paragraph/12) omitted (11.9.2017) by virtue of [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 1(6)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/1/6) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-9707dfab1fcc0b911d567bf79f785a20]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2003/1966/schedule/1/paragraph/13) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 1(7)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/1/7) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-9707dfab1fcc0b911d567bf79f785a20]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2003/1966/schedule/1/paragraph/13) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 1(7)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/1/7) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-ba988f75fb73d200c6fe0b49dc32b019]: Commencement: Sch. 1 para. 14 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-ba988f75fb73d200c6fe0b49dc32b019]: Commencement: Sch. 1 para. 14 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-42522d683398eb56285351b6425640f4]: Textual amendment: [Sch. 2 para. Z1](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/Z1) inserted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(2)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/2) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-42522d683398eb56285351b6425640f4]: Textual amendment: [Sch. 2 para. Z1](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/Z1) inserted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(2)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/2) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-87ea9c688135c428f0e87ed6b93ed985]: Commencement: Sch. 2 para. 1 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-87ea9c688135c428f0e87ed6b93ed985]: Commencement: Sch. 2 para. 1 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-a3e07f39d195ca5545dceb3fb3757c8c]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/1) heading substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(3)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/3) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-a3e07f39d195ca5545dceb3fb3757c8c]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/1) heading substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(3)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/3) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-f27105258d51545c18369bdbdca60598]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/1) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(3)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/3) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-f27105258d51545c18369bdbdca60598]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/1) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(3)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/3) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-90beee846d433416b5e1f1a867409366]: Commencement: Sch. 2 para. 2 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-90beee846d433416b5e1f1a867409366]: Commencement: Sch. 2 para. 2 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-b8fc941d2e03c979a3dadca8acc28d61]: Commencement: Sch. 2 para. 3 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-b8fc941d2e03c979a3dadca8acc28d61]: Commencement: Sch. 2 para. 3 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-433d9a279414d8d731dd75c4a0a67c0d]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/3) heading substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(4)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/4) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-433d9a279414d8d731dd75c4a0a67c0d]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/3) heading substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(4)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/4) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-e7ed0ab2672e784f93b771ad3313a62d]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/3) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(5)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/5) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-e7ed0ab2672e784f93b771ad3313a62d]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/3) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(5)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/5) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-7cd942820763bca9ee07e942aeb6262e]: Commencement: Sch. 2 para. 4 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-7cd942820763bca9ee07e942aeb6262e]: Commencement: Sch. 2 para. 4 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-2dc295a8fd6a27cbfc78c41dc4e7bd3a]: Textual amendment: Words in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/4/1) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(6)(a)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/6/a) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-2dc295a8fd6a27cbfc78c41dc4e7bd3a]: Textual amendment: Words in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/4/1) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(6)(a)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/6/a) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-958a630052596451c8631b3fc4cd1af8]: Textual amendment: Words in [Sch. 2 para. 4(1)(e)](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/4/1/e) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(6)(b)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/6/b) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-958a630052596451c8631b3fc4cd1af8]: Textual amendment: Words in [Sch. 2 para. 4(1)(e)](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/4/1/e) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(6)(b)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/6/b) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-23dcf4f6b809ecdf40aae2fca5372cb2]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/4/2) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(6)(a)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/6/a) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-23dcf4f6b809ecdf40aae2fca5372cb2]: Textual amendment: Words in [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/4/2) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(6)(a)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/6/a) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-eb1ac270dbd9ad4d451618b075eae037]: Textual amendment: Word in [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/4/2/b) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(6)(c)(i)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/6/c/i) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-eb1ac270dbd9ad4d451618b075eae037]: Textual amendment: Word in [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/4/2/b) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(6)(c)(i)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/6/c/i) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-9e2e338c756debf28e23358d7ad41402]: Textual amendment: Words in [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/4/2/b) omitted (11.9.2017) by virtue of [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(6)(c)(ii)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/6/c/ii) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-9e2e338c756debf28e23358d7ad41402]: Textual amendment: Words in [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/4/2/b) omitted (11.9.2017) by virtue of [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(6)(c)(ii)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/6/c/ii) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-931846cb2fa606e23e79ebb91faaf667]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/5) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(7)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/7) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-931846cb2fa606e23e79ebb91faaf667]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/5) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(7)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/7) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-a0e23a8d9772266cadad8a931bd00b9a]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/6) omitted (11.9.2017) by virtue of [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(8)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/8) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-a0e23a8d9772266cadad8a931bd00b9a]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/6) omitted (11.9.2017) by virtue of [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(8)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/8) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-05bedf017da197aad7bf73d79fdc1e1b]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/7) omitted (11.9.2017) by virtue of [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(9)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/9) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-05bedf017da197aad7bf73d79fdc1e1b]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/7) omitted (11.9.2017) by virtue of [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(9)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/9) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-2050befae259374fa2541ff19e19c0b8]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/8) omitted (11.9.2017) by virtue of [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(10)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/10) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-2050befae259374fa2541ff19e19c0b8]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/8) omitted (11.9.2017) by virtue of [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(10)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/10) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-be6d7eed9207f48eb25448933f454b56]: Commencement: Sch. 2 para. 9 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-be6d7eed9207f48eb25448933f454b56]: Commencement: Sch. 2 para. 9 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-0e7f75beaf9ff276d657b6bf42aa4bd1]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/9) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(11)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/11) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-0e7f75beaf9ff276d657b6bf42aa4bd1]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/9) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(11)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/11) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-8b745aacd3fcff1efd4558a887409648]: Commencement: Sch. 2 para. 10 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-8b745aacd3fcff1efd4558a887409648]: Commencement: Sch. 2 para. 10 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
 [^M_F_9fc3a995-57ec-4150-fa38-4f7a2354dc91]: Textual amendment: Sch. 2 para. 11 omitted (11.9.2017) by virtue of [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/uksi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/674/article/1/3), [Sch. para. 2(12)](https://www.legislation.gov.uk/uksi/2017/674/schedule/paragraph/2/12) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
-[^key-78cba712225aed179a83fccf2bf91968]: Commencement: Sch. 2 para. 12 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-78cba712225aed179a83fccf2bf91968]: Commencement: Sch. 2 para. 12 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-65a44521f0450448351604ff208964cf]: Commencement: Sch. 2 para. 13 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-65a44521f0450448351604ff208964cf]: Commencement: Sch. 2 para. 13 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-3be291991e412d50b8512a7b909c4bef]: Commencement: Sch. 2 para. 14 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
+[^c-3be291991e412d50b8512a7b909c4bef]: Commencement: Sch. 2 para. 14 in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/wsi/2003/1966/article/1)
 
-[^key-8fad9cdd5af34cb8c73a0c29f649e860]: Textual amendment: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/15) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(13)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/13) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
+[^c-8fad9cdd5af34cb8c73a0c29f649e860]: Textual amendment: [Sch. 2 para. 15](https://www.legislation.gov.uk/wsi/2003/1966/schedule/2/paragraph/15) substituted (11.9.2017) by [The Disease Control (Wales) (Amendment) Order 2017 (S.I. 2017/674)](https://www.legislation.gov.uk/wsi/2017/674), [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3), [Sch. para. 2(13)](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2/13) (as amended by [S.I. 2017/677](https://www.legislation.gov.uk/uksi/2017/677), [art. 3](https://www.legislation.gov.uk/uksi/2017/677/article/3))
 
 [^f00015]: Footnote: S.I. [2003/1414 (W.166)](https://www.legislation.gov.uk/wsi/2003/1414).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4ZD. Permitted withdrawals from a junior ISA account[^key-23140fc123eff5eb43ab0e4394ecae86]
+## 4ZD. Permitted withdrawals from a junior ISA account[^c-23140fc123eff5eb43ab0e4394ecae86]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Withdrawals from a junior ISA account may only be made—
 
 ## Annotations
 
-[^key-23140fc123eff5eb43ab0e4394ecae86]: Textual amendment: Regs. 4ZA-4ZE inserted (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [8](https://www.legislation.gov.uk/uksi/2011/1780/regulation/8)
+[^c-23140fc123eff5eb43ab0e4394ecae86]: Textual amendment: Regs. 4ZA-4ZE inserted (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [8](https://www.legislation.gov.uk/uksi/2011/1780/regulation/8)

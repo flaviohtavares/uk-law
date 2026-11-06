@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Circumstances in which a person is to be treated as being or not being a member of the household[^key-44db7a884c02b9585f3597d96bf31d91]
+## 10. Circumstances in which a person is to be treated as being or not being a member of the household[^c-44db7a884c02b9585f3597d96bf31d91]
 
 *Extent: N.I.*
 
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-44db7a884c02b9585f3597d96bf31d91]: Commencement: Reg. 10 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-44db7a884c02b9585f3597d96bf31d91]: Commencement: Reg. 10 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
 
 [^f00044]: Footnote: [S.R. 1989 No. 253](https://www.legislation.gov.uk/nisr/1989/253); to which there are amendments not relevant to these Regulations
 

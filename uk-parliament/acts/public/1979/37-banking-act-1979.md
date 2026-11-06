@@ -67,7 +67,7 @@ In any circumstances in which proof of absence of negligence on the part of a ba
 
 (1) The amendments in Part I of Schedule 6 to this Act being amendments consequential on the provisions of this Act, shall have effect, subject to the savings in Part II of that Schedule.
 
-(2)[^key-ed6926b6321782dd43ee80189ee33ae4][^c911801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ed6926b6321782dd43ee80189ee33ae4][^c911801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 52. Short title, commencement and extent.
 
@@ -75,7 +75,7 @@ In any circumstances in which proof of absence of negligence on the part of a ba
 
 (2) This Act extends to Northern Ireland.
 
-(3)[^key-3c7c31db1d22990810b735a148fbfebc][^c911802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3c7c31db1d22990810b735a148fbfebc][^c911802] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Any reference in any provision of this Act to “**the appointed day**” shall be construed as a reference to the day appointed for the purposes of that provision; and any reference in this Act to the day appointed for the purposes of any provision of this Act—
 
@@ -196,11 +196,11 @@ and the expression “bank” in any instrument made under the said Act of 1976 
 
 [^c911800]: Textual amendment: [Ss. 48–50](https://www.legislation.gov.uk/ukpga/1979/37/section/48) repealed by [Banking Act 1987 (c. 22, SIF 10)](https://www.legislation.gov.uk/ukpga/1987/22), [s. 108(2)](https://www.legislation.gov.uk/ukpga/1987/22/section/108/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/1987/22/schedule/7/part/1)
 
-[^key-ed6926b6321782dd43ee80189ee33ae4]: Textual amendment: [S. 51(2)](https://www.legislation.gov.uk/ukpga/1979/37/section/51/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
+[^c-ed6926b6321782dd43ee80189ee33ae4]: Textual amendment: [S. 51(2)](https://www.legislation.gov.uk/ukpga/1979/37/section/51/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
 
 [^c911801]: Modification: The text of ss. 38, 51(2), Sch. 6 Pt. I para. 1–3, 9(a)(b) and 10(a)(b) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-3c7c31db1d22990810b735a148fbfebc]: Textual amendment: [S. 52(3)](https://www.legislation.gov.uk/ukpga/1979/37/section/52/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
+[^c-3c7c31db1d22990810b735a148fbfebc]: Textual amendment: [S. 52(3)](https://www.legislation.gov.uk/ukpga/1979/37/section/52/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
 
 [^c911802]: Modification: Power of appointment conferred by s. 52(3) partly exercised by [S.I. 1979/938](https://www.legislation.gov.uk/uksi/1979/938), 1982/188, 1985/797 (the power has been fully exercised as regards all the unrepealed provisions of the Act except for Sch. 6 para. 10)
 

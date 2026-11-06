@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 211. Compensation for damage caused by discontinuance order[^key-571742db35effc7cce9a5596081ab85d]
+## 211. Compensation for damage caused by discontinuance order[^c-571742db35effc7cce9a5596081ab85d]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-571742db35effc7cce9a5596081ab85d]: Commencement: S. 211 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-571742db35effc7cce9a5596081ab85d]: Commencement: S. 211 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

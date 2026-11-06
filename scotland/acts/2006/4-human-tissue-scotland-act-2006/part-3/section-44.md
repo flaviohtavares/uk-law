@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Authorisation of use etc. after examination: child 12 years of age or over[^key-24a3679d8d90ecb0f6a351335f132a3b]
+## 44. Authorisation of use etc. after examination: child 12 years of age or over[^c-24a3679d8d90ecb0f6a351335f132a3b]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ for one or more of the purposes referred to in section 39(b).
 
 ## Annotations
 
-[^key-24a3679d8d90ecb0f6a351335f132a3b]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2006/4/section/44) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-24a3679d8d90ecb0f6a351335f132a3b]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2006/4/section/44) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

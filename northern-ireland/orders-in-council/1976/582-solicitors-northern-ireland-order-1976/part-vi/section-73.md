@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Cessation and suspension of membership of Society, etc.[^key-f1c586d9299d6274d52ed8ac6bb360bd]
+## 73. Cessation and suspension of membership of Society, etc.[^c-f1c586d9299d6274d52ed8ac6bb360bd]
 
 *Extent: N.I.*
 
-(1)[^key-0c790e59d8db00e0e2d4b988d8e5568e] If the name of a solicitor who is a member of the Society is removed from or struck off the roll that solicitor shall thereupon cease to be a member of the Society.
+(1)[^c-0c790e59d8db00e0e2d4b988d8e5568e] If the name of a solicitor who is a member of the Society is removed from or struck off the roll that solicitor shall thereupon cease to be a member of the Society.
 
 (2) A member of the Society who is suspended from practising as a solicitor shall not be entitled during the period of his supension to any of the rights or privileges of membership of the Society.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f1c586d9299d6274d52ed8ac6bb360bd]: Modification: [Art. 73](https://www.legislation.gov.uk/nisi/1976/582/article/73) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(rr)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/rr)
+[^c-f1c586d9299d6274d52ed8ac6bb360bd]: Modification: [Art. 73](https://www.legislation.gov.uk/nisi/1976/582/article/73) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(rr)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/rr)
 
-[^key-0c790e59d8db00e0e2d4b988d8e5568e]: Modification: [Art. 73(1)](https://www.legislation.gov.uk/nisi/1976/582/article/73/1) applied ( with modifications) (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/4)
+[^c-0c790e59d8db00e0e2d4b988d8e5568e]: Modification: [Art. 73(1)](https://www.legislation.gov.uk/nisi/1976/582/article/73/1) applied ( with modifications) (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(4)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/4)

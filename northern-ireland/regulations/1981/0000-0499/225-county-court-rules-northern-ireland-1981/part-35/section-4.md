@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where the defendant in ejectment proceedings for non-payment of rent, or any other person evicted by a decree for possession had in such ejectment proceedings, is entitled to redeem the lands and is desirous to obtain an order of restitution to be restored to the possession of the land after such decree has been executed, such person shall serve a notice upon the plaintiff the said ejectment proceedings, in Form 167, \[[^f00339] not less than 28 days before the date on\] which the application for such order of restitution is intended to be made.
 
-(2)[^key-b27997016b8e8934d685ecaa724a0dfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b27997016b8e8934d685ecaa724a0dfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The order of restitution, ordering a defendant to be restored to the possession of lands from which he had been evicted by a decree in ejectment proceedings for non-payment of rent, shall be in Form 168.
 
@@ -38,7 +38,7 @@ summary: ''
 
 [^f00339]: Footnote: Word substituted by [S.R. 1995 No. 151](https://www.legislation.gov.uk/nisr/1995/151) with effect from 01.09.95
 
-[^key-b27997016b8e8934d685ecaa724a0dfe]: Textual amendment: Order 35 rule 4(2) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(12)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/12); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-b27997016b8e8934d685ecaa724a0dfe]: Textual amendment: Order 35 rule 4(2) omitted (31.10.2016) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(12)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/12); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
 [^f00342]: Footnote: Figure substituted by [S.R. 1982 No. 120](https://www.legislation.gov.uk/nisr/1982/120) with effect from 01.06.82
 

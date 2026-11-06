@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.12. Proof of service[^key-17f86cd2ef78dfe51a30f79885b04f85]
+## 4.12. Proof of service[^c-17f86cd2ef78dfe51a30f79885b04f85]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The person who serves a document may prove that by signing a certificate explain
 
 ## Annotations
 
-[^key-17f86cd2ef78dfe51a30f79885b04f85]: Commencement: [Rule 4.12](https://www.legislation.gov.uk/uksi/2025/909/rule/4.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-17f86cd2ef78dfe51a30f79885b04f85]: Commencement: [Rule 4.12](https://www.legislation.gov.uk/uksi/2025/909/rule/4.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Contents
 
-### Part 1 — Water Industry Commissioner and the representation of consumers[^key-4e8507d08b9bd07494ea567ad01c91dc]
+### Part 1 — Water Industry Commissioner and the representation of consumers[^c-4e8507d08b9bd07494ea567ad01c91dc]
 
 *Extent: S*
 
@@ -203,4 +203,4 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-4e8507d08b9bd07494ea567ad01c91dc]: Textual amendment: Words in Pt. 1 title substituted (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8), [sch. 2 para. 7](https://www.legislation.gov.uk/asp/2010/8/schedule/2/paragraph/7); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(d)](https://www.legislation.gov.uk/ssi/2011/278/article/2/d)
+[^c-4e8507d08b9bd07494ea567ad01c91dc]: Textual amendment: Words in Pt. 1 title substituted (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8), [sch. 2 para. 7](https://www.legislation.gov.uk/asp/2010/8/schedule/2/paragraph/7); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(d)](https://www.legislation.gov.uk/ssi/2011/278/article/2/d)

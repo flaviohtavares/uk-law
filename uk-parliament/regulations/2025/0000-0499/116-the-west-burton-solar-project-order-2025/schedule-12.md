@@ -22,7 +22,7 @@ summary: ''
 
 Article ‎38
 
-### PART 1 — REMOVAL OF HEDGEROWS[^key-432b310528672a5da84efbdd40909834]
+### PART 1 — REMOVAL OF HEDGEROWS[^c-432b310528672a5da84efbdd40909834]
 
 | *(1)*<br>*Area* | *(2)*<br>*Number of hedgerow and extent of removal* |
 | --- | --- |
@@ -106,7 +106,7 @@ Article ‎38
 | District of Bassetlaw | Removal of part of approximately 217.54m of hedgerow within the area identified by a green line on sheet 10 of the important hedgerows plan, reference H184 |
 | District of Bassetlaw | Removal of part of approximately 51.86m of hedgerow within the area identified by a green line on sheet 10 of the important hedgerows plan, reference H187 |
 
-### PART 2 — REMOVAL OF POTENTIALLY IMPORTANT HEDGEROWS[^key-5792559450a9319bcfb97d9be6780af9]
+### PART 2 — REMOVAL OF POTENTIALLY IMPORTANT HEDGEROWS[^c-5792559450a9319bcfb97d9be6780af9]
 
 | *(1)*<br>*Area* | *(2)*<br>*Number of hedgerow and extent of removal* |
 | --- | --- |
@@ -120,7 +120,7 @@ Article ‎38
 | District of West Lindsey | Removal of part of approximately 856.54m of hedgerow within the area identified by a yellow line on sheet 5 of the important hedgerows plan, reference H104 |
 | District of Bassetlaw | Removal of part of approximately 205.93m of hedgerow within the area identified by a yellow line on sheet 7 of the important hedgerows plan, reference H117 |
 
-### PART 3 — REMOVAL OF IMPORTANT HEDGEROWS[^key-aa71b1a11dc68dee5e968e7c769aa9a4]
+### PART 3 — REMOVAL OF IMPORTANT HEDGEROWS[^c-aa71b1a11dc68dee5e968e7c769aa9a4]
 
 | *(1)*<br>*Area* | *(2)*<br>*Number of hedgerow and extent of removal* |
 | --- | --- |
@@ -235,8 +235,8 @@ Article ‎38
 
 ## Annotations
 
-[^key-432b310528672a5da84efbdd40909834]: Commencement: Sch. 12 Pt. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-432b310528672a5da84efbdd40909834]: Commencement: Sch. 12 Pt. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-5792559450a9319bcfb97d9be6780af9]: Commencement: Sch. 12 Pt. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-5792559450a9319bcfb97d9be6780af9]: Commencement: Sch. 12 Pt. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-aa71b1a11dc68dee5e968e7c769aa9a4]: Commencement: Sch. 12 Pt. 3 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-aa71b1a11dc68dee5e968e7c769aa9a4]: Commencement: Sch. 12 Pt. 3 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)

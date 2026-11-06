@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 304. Further reports by OFT.[^key-8902ec2a78b3fea319b7fb83bdf0e3b5][^c2075365]
+## 304. Further reports by OFT.[^c-8902ec2a78b3fea319b7fb83bdf0e3b5][^c2075365]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8902ec2a78b3fea319b7fb83bdf0e3b5]: Textual amendment: Pt. 18 Ch. 2 omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 34(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/34/a), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-8902ec2a78b3fea319b7fb83bdf0e3b5]: Textual amendment: Pt. 18 Ch. 2 omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 34(a)](https://www.legislation.gov.uk/ukpga/2012/21/section/34/a), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c2075365]: Textual amendment: Words in s. 304 substituted (1.4.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 278](https://www.legislation.gov.uk/ukpga/2002/40/section/278), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 25 para. 40(11)(a)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/25/paragraph/40/11/a); [S.I. 2003/766](https://www.legislation.gov.uk/uksi/2003/766), [art. 2](https://www.legislation.gov.uk/uksi/2003/766/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/766/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/766/article/3))

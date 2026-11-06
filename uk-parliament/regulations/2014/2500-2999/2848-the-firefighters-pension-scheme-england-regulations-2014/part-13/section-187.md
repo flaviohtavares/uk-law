@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Duty to have regard to guidance[^key-5ffb4e37b97c36a739b1e6d916faba3e]
+## 187. Duty to have regard to guidance[^c-5ffb4e37b97c36a739b1e6d916faba3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A scheme manager must have regard to any guidance issued by the Secretary of Sta
 
 ## Annotations
 
-[^key-5ffb4e37b97c36a739b1e6d916faba3e]: Commencement: [Reg. 187](https://www.legislation.gov.uk/uksi/2014/2848/regulation/187) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-5ffb4e37b97c36a739b1e6d916faba3e]: Commencement: [Reg. 187](https://www.legislation.gov.uk/uksi/2014/2848/regulation/187) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

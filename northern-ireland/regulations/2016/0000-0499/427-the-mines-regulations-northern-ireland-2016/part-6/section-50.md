@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Emergency routes and emergency doors[^key-0ed808332651818633896ee9fcd9530d]
+## 50. Emergency routes and emergency doors[^c-0ed808332651818633896ee9fcd9530d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ed808332651818633896ee9fcd9530d]: Commencement: [Reg. 50](https://www.legislation.gov.uk/nisr/2016/427/regulation/50) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-0ed808332651818633896ee9fcd9530d]: Commencement: [Reg. 50](https://www.legislation.gov.uk/nisr/2016/427/regulation/50) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

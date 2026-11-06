@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36A. Communication of notices made on polling day[^key-8dd263d8052045e018ee8e19ecec12ba][^key-fae85ab5eebfe391fab5c4a0ffadddac]
+## 36A. Communication of notices made on polling day[^c-8dd263d8052045e018ee8e19ecec12ba][^c-fae85ab5eebfe391fab5c4a0ffadddac]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8dd263d8052045e018ee8e19ecec12ba]: Modification: [Reg. 36A](https://www.legislation.gov.uk/uksi/2001/341/regulation/36A) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(f)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/f)
+[^c-8dd263d8052045e018ee8e19ecec12ba]: Modification: [Reg. 36A](https://www.legislation.gov.uk/uksi/2001/341/regulation/36A) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(f)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/f)
 
-[^key-fae85ab5eebfe391fab5c4a0ffadddac]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2001/341/regulation/36A) inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2006/2910/regulation/26) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/3/a))
+[^c-fae85ab5eebfe391fab5c4a0ffadddac]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2001/341/regulation/36A) inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2006/2910/regulation/26) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/3/a))

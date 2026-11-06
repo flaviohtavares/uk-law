@@ -34,7 +34,7 @@ summary: ''
 - (a) which is paid to or for the benefit of, or otherwise treated as income of, the child, and
 - (b) which (apart from subsection (3)) would be treated as income of the settlor under subsection (1).
 
-(5) Subsection (1) does not apply so far as provided by section 630 (exception for gifts to charities) [^key-dde0f40c87aaab9bbdc2400313a6146b]....
+(5) Subsection (1) does not apply so far as provided by section 630 (exception for gifts to charities) [^c-dde0f40c87aaab9bbdc2400313a6146b]....
 
 (6) See—
 
@@ -56,7 +56,7 @@ summary: ''
 
 [^c19767581]: Textual amendment: Words in s. 629(1)(a)(b) substituted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1), [192(2)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/192/2)
 
-[^key-dde0f40c87aaab9bbdc2400313a6146b]: Textual amendment: Words in [s. 629(5)](https://www.legislation.gov.uk/ukpga/2005/5/section/629/5) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 6](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/6), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-dde0f40c87aaab9bbdc2400313a6146b]: Textual amendment: Words in [s. 629(5)](https://www.legislation.gov.uk/ukpga/2005/5/section/629/5) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 6](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/6), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
 
 [^c19767611]: Textual amendment: Word in s. 629(7)(b) omitted (5.12.2005) by virtue of [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1), [192(3)(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/192/3/a)
 

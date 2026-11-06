@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## C3. Contributions for past added years[^key-7bffc54a22f6b92f8ab40c1d94308f70]
+## C3. Contributions for past added years[^c-7bffc54a22f6b92f8ab40c1d94308f70]
 
 *Extent: N.I.*
 
@@ -83,4 +83,4 @@ the election shall be treated as not having been made and any additional contrib
 
 ## Annotations
 
-[^key-7bffc54a22f6b92f8ab40c1d94308f70]: Commencement: Reg. C3 in operation at 2.11.1998, see reg. A1
+[^c-7bffc54a22f6b92f8ab40c1d94308f70]: Commencement: Reg. C3 in operation at 2.11.1998, see reg. A1

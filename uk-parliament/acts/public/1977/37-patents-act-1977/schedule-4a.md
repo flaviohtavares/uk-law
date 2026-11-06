@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4A — SUPPLEMENTARY PROTECTION CERTIFICATES[^key-d3bf9c28aa058b23ccb7befe6ad5ba34]
+## SCHEDULE 4A — SUPPLEMENTARY PROTECTION CERTIFICATES[^c-d3bf9c28aa058b23ccb7befe6ad5ba34]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 - sections 39 to 59 (employees’ inventions, licences of right and compulsory licences and use of patented inventions for services of the Crown);
 - sections 60 to 71 (infringement);
 - section 74(1) and (7) (proceedings in which validity of patent may be put in issue);
-- sections 74A and 74B (opinions by the Patent Office);[^key-7fe26d7b3f76c21c0579066cf9e6b21a]
+- sections 74A and 74B (opinions by the Patent Office);[^c-7fe26d7b3f76c21c0579066cf9e6b21a]
 - section 75 (amendment of patent in infringement or revocation proceedings);
 - sections 103 and 105 (privilege for communications relating to patent proceedings);
 - section 108 (licences granted by order of comptroller);
@@ -114,7 +114,7 @@ A supplementary protection certificate does not take effect unless—
 - (a) “the Medicinal Products Regulation” means Regulation (EC) No 469/2009 of the European Parliament and of the Council of 6th May 2009 concerning the supplementary protection certificate for medicinal products[^M_F_6f81ca85-fa86-44f6-e560-fecb2381df95], and
 - (b) “the Plant Protection Products Regulation” means Regulation [(EC) No 1610/96](https://www.legislation.gov.uk/european/regulation/1996/1610) of the European Parliament and of the Council of 23 July 1996 concerning the creation of a supplementary protection certificate for plant protection products.
 
-### 8. Transitional provision[^key-fefaa104f502dec6675917f8865c1ca1]
+### 8. Transitional provision[^c-fefaa104f502dec6675917f8865c1ca1]
 
 (1) A reference (express or implied) in this Act to the Medicinal Products Regulation, or a provision of it, is to be read as being or (subject to context) including a reference to the old Regulation, or the corresponding provision of the old Regulation, in relation to times, circumstances or purposes in relation to which the old Regulation, or that provision, had effect.
 
@@ -124,10 +124,10 @@ A supplementary protection certificate does not take effect unless—
 
 ## Annotations
 
-[^key-d3bf9c28aa058b23ccb7befe6ad5ba34]: Textual amendment: Sch. 4A inserted (17.12.2007) by [The Patents (Compulsory Licensing and Supplementary Protection Certificates) Regulations 2007 (S.I. 2007/3293)](https://www.legislation.gov.uk/uksi/2007/3293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3293/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2007/3293/regulation/2/3)
+[^c-d3bf9c28aa058b23ccb7befe6ad5ba34]: Textual amendment: Sch. 4A inserted (17.12.2007) by [The Patents (Compulsory Licensing and Supplementary Protection Certificates) Regulations 2007 (S.I. 2007/3293)](https://www.legislation.gov.uk/uksi/2007/3293), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3293/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2007/3293/regulation/2/3)
 
-[^key-7fe26d7b3f76c21c0579066cf9e6b21a]: Textual amendment: Words in Sch. 4A para. 1(2) inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2014/18/section/16/3), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-7fe26d7b3f76c21c0579066cf9e6b21a]: Textual amendment: Words in Sch. 4A para. 1(2) inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2014/18/section/16/3), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
 [^M_F_6f81ca85-fa86-44f6-e560-fecb2381df95]: Textual amendment: Words in Sch. 4A para. 7(a) substituted (1.10.2014) by [The Patents (Supplementary Protection Certificates) Regulations 2014 (S.I. 2014/2411)](https://www.legislation.gov.uk/uksi/2014/2411), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2411/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2014/2411/regulation/2/3/b)
 
-[^key-fefaa104f502dec6675917f8865c1ca1]: Textual amendment: Sch. 4A para. 8 and cross-heading inserted (1.10.2014) by [The Patents (Supplementary Protection Certificates) Regulations 2014 (S.I. 2014/2411)](https://www.legislation.gov.uk/uksi/2014/2411), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2411/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/2411/regulation/2/3/b)
+[^c-fefaa104f502dec6675917f8865c1ca1]: Textual amendment: Sch. 4A para. 8 and cross-heading inserted (1.10.2014) by [The Patents (Supplementary Protection Certificates) Regulations 2014 (S.I. 2014/2411)](https://www.legislation.gov.uk/uksi/2014/2411), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2411/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2014/2411/regulation/2/3/b)

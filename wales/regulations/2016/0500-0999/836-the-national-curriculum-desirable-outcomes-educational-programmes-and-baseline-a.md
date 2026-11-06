@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The National Curriculum (Desirable Outcomes, Educational Programmes and Baseline and End of Phase Assessment Arrangements for the Foundation Phase) (Wales) (Amendment) Order 2016 (revoked)[^key-b6c4ee4ee07b25569567623ac44ede10]
+The National Curriculum (Desirable Outcomes, Educational Programmes and Baseline and End of Phase Assessment Arrangements for the Foundation Phase) (Wales) (Amendment) Order 2016 (revoked)[^c-b6c4ee4ee07b25569567623ac44ede10]
 
 Made
 
@@ -45,22 +45,22 @@ Coming into force
 
 1 September 2016
 
-[^key-b6c4ee4ee07b25569567623ac44ede10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6c4ee4ee07b25569567623ac44ede10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-b6c4ee4ee07b25569567623ac44ede10]
+## 1. Title, commencement and application[^c-b6c4ee4ee07b25569567623ac44ede10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-b6c4ee4ee07b25569567623ac44ede10]
+## 2. Amendment[^c-b6c4ee4ee07b25569567623ac44ede10]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b6c4ee4ee07b25569567623ac44ede10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6c4ee4ee07b25569567623ac44ede10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b6c4ee4ee07b25569567623ac44ede10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6c4ee4ee07b25569567623ac44ede10]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b6c4ee4ee07b25569567623ac44ede10]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2016/836) revoked (1.9.2022) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/wsi/2022/517/regulation/8/2/b)
+[^c-b6c4ee4ee07b25569567623ac44ede10]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2016/836) revoked (1.9.2022) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/wsi/2022/517/regulation/8/2/b)

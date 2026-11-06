@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Time limit for charging person formerly subject to service law[^key-144f081c2be1ca6f16dbbdb4b885e473][^key-cd4e828a0566ba464332f5cf53d47528]
+## 57. Time limit for charging person formerly subject to service law[^c-144f081c2be1ca6f16dbbdb4b885e473][^c-cd4e828a0566ba464332f5cf53d47528]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-144f081c2be1ca6f16dbbdb4b885e473]: Commencement: S. 57 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-144f081c2be1ca6f16dbbdb4b885e473]: Commencement: S. 57 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-cd4e828a0566ba464332f5cf53d47528]: Commencement: S. 57 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-cd4e828a0566ba464332f5cf53d47528]: Commencement: S. 57 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

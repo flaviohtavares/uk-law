@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**13.**[^key-9ccc289e4e3f1a81137e7929abea789f] In Part 19 (Bail in magistrates' courts and the Crown Court)—
+**13.**[^c-9ccc289e4e3f1a81137e7929abea789f] In Part 19 (Bail in magistrates' courts and the Crown Court)—
 
 - (a) in rule 19.2(6) (Application to a magistrates' court to reconsider grant of police bail), for “rule 4.2(1)”, substitute “rule 4.11”; and
 - (b) after rule 19.25, insert—
@@ -69,7 +69,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9ccc289e4e3f1a81137e7929abea789f]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2009/2087/article/13) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-9ccc289e4e3f1a81137e7929abea789f]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2009/2087/article/13) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
 
 [^f00003]: Footnote: [1976 c. 63](https://www.legislation.gov.uk/ukpga/1976/63); section 3(6ZAA) was inserted by section 131 of the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16) and amended by section 51 of, and paragraphs 1 and 2 of Schedule 11 to, the Criminal Justice and Immigration Act [1998 (c. 4)](https://www.legislation.gov.uk/ukpga/1998/4).
 

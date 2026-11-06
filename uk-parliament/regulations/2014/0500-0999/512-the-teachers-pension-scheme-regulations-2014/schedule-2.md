@@ -73,7 +73,7 @@ The amount of extra pension for a person (P) at any given time is the sum of the
   - (i) an amount determined by the Treasury for that financial year; or
   - (ii) if the Treasury has not determined an amount for that financial year, the amount calculated under sub-paragraph (2).
 
-(2) If the Treasury has not determined an amount under sub-paragraph (1)(b)(i) for any financial year, the overall amount for that financial year is the amount to which the annual rate of a pension of an amount equal to the overall amount for the previous financial year would have been increased under PIA 1971 rounded to the nearest £100,[^key-a35f087821057fa710c388f7e1c1432b] if—
+(2) If the Treasury has not determined an amount under sub-paragraph (1)(b)(i) for any financial year, the overall amount for that financial year is the amount to which the annual rate of a pension of an amount equal to the overall amount for the previous financial year would have been increased under PIA 1971 rounded to the nearest £100,[^c-a35f087821057fa710c388f7e1c1432b] if—
 
 - (a) that pension were eligible to be so increased; and
 - (b) the beginning date for that pension were the first day of the previous financial year.
@@ -423,7 +423,7 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 
 ##### 29. Eligible to make buy-out election
 
-(1) A member (P) who has a normal pension age over 65 may elect to pay contributions to buy out the standard reduction (“buy-out election”) for a period of up to 3 years insofar as this relates to P’s—[^key-6e3bf35b2a4782406a42d0056e353eae]
+(1) A member (P) who has a normal pension age over 65 may elect to pay contributions to buy out the standard reduction (“buy-out election”) for a period of up to 3 years insofar as this relates to P’s—[^c-6e3bf35b2a4782406a42d0056e353eae]
 
 - (a) standard earned pension; and
 - (b) faster accrual earned pension (if any).
@@ -453,7 +453,7 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 
 (3) The notice of election must specify—
 
-- (a)[^key-f6dd7c2c969492536b5a01c33157740c] if P is in more than one eligible employment, the names of the employers in relation to P’s eligible employments;
+- (a)[^c-f6dd7c2c969492536b5a01c33157740c] if P is in more than one eligible employment, the names of the employers in relation to P’s eligible employments;
 - (b) P's name;
 - (c) P's date of birth;
 - (d) P's normal pension age;
@@ -544,8 +544,8 @@ The scheme manager must determine the amount of the monthly payment to be paid i
 
 ## Annotations
 
-[^key-a35f087821057fa710c388f7e1c1432b]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2014/512/schedule/2/paragraph/3/2) inserted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [30](https://www.legislation.gov.uk/uksi/2014/2652/regulation/30)
+[^c-a35f087821057fa710c388f7e1c1432b]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2014/512/schedule/2/paragraph/3/2) inserted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [30](https://www.legislation.gov.uk/uksi/2014/2652/regulation/30)
 
-[^key-6e3bf35b2a4782406a42d0056e353eae]: Textual amendment: Words in [Sch. 2 para. 29(1)](https://www.legislation.gov.uk/uksi/2014/512/schedule/2/paragraph/29/1) inserted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [31](https://www.legislation.gov.uk/uksi/2014/2652/regulation/31)
+[^c-6e3bf35b2a4782406a42d0056e353eae]: Textual amendment: Words in [Sch. 2 para. 29(1)](https://www.legislation.gov.uk/uksi/2014/512/schedule/2/paragraph/29/1) inserted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2014 (S.I. 2014/2652)](https://www.legislation.gov.uk/uksi/2014/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2652/regulation/1), [31](https://www.legislation.gov.uk/uksi/2014/2652/regulation/31)
 
-[^key-f6dd7c2c969492536b5a01c33157740c]: Textual amendment: [Sch. 2 para. 30(3)(a)](https://www.legislation.gov.uk/uksi/2014/512/schedule/2/paragraph/30/3/a) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/592)](https://www.legislation.gov.uk/uksi/2015/592), [regs. 1](https://www.legislation.gov.uk/uksi/2015/592/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/592/regulation/4)
+[^c-f6dd7c2c969492536b5a01c33157740c]: Textual amendment: [Sch. 2 para. 30(3)(a)](https://www.legislation.gov.uk/uksi/2014/512/schedule/2/paragraph/30/3/a) substituted (1.4.2015) by [The Teachers Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/592)](https://www.legislation.gov.uk/uksi/2015/592), [regs. 1](https://www.legislation.gov.uk/uksi/2015/592/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/592/regulation/4)

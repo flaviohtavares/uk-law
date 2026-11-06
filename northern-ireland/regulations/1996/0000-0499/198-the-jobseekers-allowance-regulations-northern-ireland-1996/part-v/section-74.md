@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Person of a prescribed description for the purpose of Article 22(3) of the Order[^key-62b5b22527ce53c3196d4de4f58f0930]
+## 74. Person of a prescribed description for the purpose of Article 22(3) of the Order[^c-62b5b22527ce53c3196d4de4f58f0930]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ by reason only of any engagement in an activity referred to in paragraph (3) or 
 
 ## Annotations
 
-[^key-62b5b22527ce53c3196d4de4f58f0930]: Commencement: Reg. 74 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-62b5b22527ce53c3196d4de4f58f0930]: Commencement: Reg. 74 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

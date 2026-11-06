@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Communities (Definition of Treaties) (1996 Hague Convention on Protection of Children etc.) Order 2010 (revoked)[^key-402939eead73136a447b93c64681b02a]
+The European Communities (Definition of Treaties) (1996 Hague Convention on Protection of Children etc.) Order 2010 (revoked)[^c-402939eead73136a447b93c64681b02a]
 
 Made
 
@@ -48,22 +48,22 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-402939eead73136a447b93c64681b02a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-402939eead73136a447b93c64681b02a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-402939eead73136a447b93c64681b02a]
+## 1. Citation and commencement[^c-402939eead73136a447b93c64681b02a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Specification as one of the Community Treaties[^key-402939eead73136a447b93c64681b02a]
+## 2. Specification as one of the Community Treaties[^c-402939eead73136a447b93c64681b02a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-402939eead73136a447b93c64681b02a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-402939eead73136a447b93c64681b02a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-402939eead73136a447b93c64681b02a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-402939eead73136a447b93c64681b02a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-402939eead73136a447b93c64681b02a]: Textual amendment: Order revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-402939eead73136a447b93c64681b02a]: Textual amendment: Order revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Duty of cremation authority before carrying out cremation[^key-a3577d1499d67f38441aa18b71e6acce]
+## 51. Duty of cremation authority before carrying out cremation[^c-a3577d1499d67f38441aa18b71e6acce]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3577d1499d67f38441aa18b71e6acce]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2016/20/section/51) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2018/380/regulation/4), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-a3577d1499d67f38441aa18b71e6acce]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2016/20/section/51) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2018/380/regulation/4), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

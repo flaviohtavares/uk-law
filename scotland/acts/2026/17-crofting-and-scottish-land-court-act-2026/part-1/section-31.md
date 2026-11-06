@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Changes to the content required in the Register of Crofts[^key-c574e6e489a4e1b75bd90928680e6477]
+## 31. Changes to the content required in the Register of Crofts[^c-c574e6e489a4e1b75bd90928680e6477]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c574e6e489a4e1b75bd90928680e6477]: Commencement: S. 31 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-c574e6e489a4e1b75bd90928680e6477]: Commencement: S. 31 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

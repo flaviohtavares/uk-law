@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Power to prohibit offer of incentives to transfer pension rights[^key-2373605d5c7e5badb5901f2036cac3ea]
+## 33. Power to prohibit offer of incentives to transfer pension rights[^c-2373605d5c7e5badb5901f2036cac3ea]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2373605d5c7e5badb5901f2036cac3ea]: Textual amendment: [S. 33](https://www.legislation.gov.uk/nia/2015/5/section/33) repealed (cond.) (24.6.2022) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 34](https://www.legislation.gov.uk/nia/2015/5/section/34), [53(2)(c)](https://www.legislation.gov.uk/nia/2015/5/section/53/2/c)
+[^c-2373605d5c7e5badb5901f2036cac3ea]: Textual amendment: [S. 33](https://www.legislation.gov.uk/nia/2015/5/section/33) repealed (cond.) (24.6.2022) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [ss. 34](https://www.legislation.gov.uk/nia/2015/5/section/34), [53(2)(c)](https://www.legislation.gov.uk/nia/2015/5/section/53/2/c)

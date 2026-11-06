@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Duties on receipt of list of assets and liabilities[^key-346b80033c3fe2dc3c80f745cb99a6c5]
+## 42. Duties on receipt of list of assets and liabilities[^c-346b80033c3fe2dc3c80f745cb99a6c5]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ the trustee must send to AiB the statement, copy statement and comments mentione
 
 ## Annotations
 
-[^key-346b80033c3fe2dc3c80f745cb99a6c5]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2016/21/section/42) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-346b80033c3fe2dc3c80f745cb99a6c5]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2016/21/section/42) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

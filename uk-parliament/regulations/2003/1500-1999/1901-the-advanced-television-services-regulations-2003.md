@@ -71,9 +71,9 @@ In these Regulations—
 - “**television programme**” means any programme (with or without sounds) which—
   - (a) is produced wholly or partly to be seen on television; and
   - (b) consists of moving or still images or of legible text or of any combination of those things; and
-- “**wide-screen television service**” means a television service that consists wholly or partially of programmes produced and edited to be displayed with a width-height ratio[^key-37861eedc6e3dd13c48156a1d51db7db] of 16:9.
+- “**wide-screen television service**” means a television service that consists wholly or partially of programmes produced and edited to be displayed with a width-height ratio[^c-37861eedc6e3dd13c48156a1d51db7db] of 16:9.
 
-## 4. Wide-Screen Television Services[^key-a3f1264ae13039313da6c87a9b27e268]
+## 4. Wide-Screen Television Services[^c-a3f1264ae13039313da6c87a9b27e268]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -88,7 +88,7 @@ save that if the equipment is rented, this regulation applies only if the rentee
 
 (2) This regulation applies to all consumer equipment intended for the reception of digital television signals and capable of descrambling such signals, except equipment which was put on the market in any member State before 25th July 2003.
 
-## 6. Interoperability for analogue television sets[^key-756bc298d9256e6da0b174400d762cc1]
+## 6. Interoperability for analogue television sets[^c-756bc298d9256e6da0b174400d762cc1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -228,11 +228,11 @@ and an order so made may contain such provision as appears to the court appropri
 - (a) to the sheriff principal from the decision of the sheriff; and
 - (b) with leave of the sheriff principal, to the Court of Session from the decision of the sheriff principal.
 
-**8.** (1) Where in England and Wales or Northern Ireland any equipment has been seized and detained by an officer of an enforcement authority pursuant to paragraph 4, an officer of that authority may apply to a justice of the peace acting in[^key-0ff5daf10e28da0dd052a640d4db866c] the local justice area in which the equipment was seized (referred to below in this paragraph as the relevant local justice area) to initiate proceedings for forfeiture of the equipment under this paragraph.
+**8.** (1) Where in England and Wales or Northern Ireland any equipment has been seized and detained by an officer of an enforcement authority pursuant to paragraph 4, an officer of that authority may apply to a justice of the peace acting in[^c-0ff5daf10e28da0dd052a640d4db866c] the local justice area in which the equipment was seized (referred to below in this paragraph as the relevant local justice area) to initiate proceedings for forfeiture of the equipment under this paragraph.
 
 (2) An application under this paragraph must be made within the period of six months beginning with the date on which the equipment to which it relates was seized.
 
-(3) A justice of the peace to whom an application under this paragraph is made may issue a summons to any person appearing to him to be the owner of or otherwise interested in any equipment to which the application relates requiring him to appear on a day specified in the summons before a magistrates' court acting in the relevant local justice area[^key-39b3b5071daac13ccf2bc176caffa6ac] to show cause why the equipment should not be forfeited.
+(3) A justice of the peace to whom an application under this paragraph is made may issue a summons to any person appearing to him to be the owner of or otherwise interested in any equipment to which the application relates requiring him to appear on a day specified in the summons before a magistrates' court acting in the relevant local justice area[^c-39b3b5071daac13ccf2bc176caffa6ac] to show cause why the equipment should not be forfeited.
 
 (4) In addition to the person summoned, any other person claiming to be the owner of or otherwise interested in any equipment to which an application under this paragraph relates shall be entitled to appear before the court on the day specified in the summons to show cause why it should not be forfeited.
 
@@ -255,7 +255,7 @@ and an order so made may contain such provision as appears to the court appropri
 
 (10) This paragraph has effect notwithstanding anything in section 140 of the Magistrates' Courts Act 1980 or article 58 of the Magistrates' Courts (Northern Ireland) Order 1981 (disposal of non-pecuniary forfeitures).
 
-(11) In the application of this paragraph to Northern Ireland references to a local justice area[^key-585023a3f0be56685c0fee5bfa22290e] shall be read as references to a petty sessions district.
+(11) In the application of this paragraph to Northern Ireland references to a local justice area[^c-585023a3f0be56685c0fee5bfa22290e] shall be read as references to a petty sessions district.
 
 (12) This paragraph applies to England and Wales and Northern Ireland only.
 
@@ -327,11 +327,11 @@ These Regulations replace the earlier standards provided for in the Advanced Tel
 
 [^c5064301]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-37861eedc6e3dd13c48156a1d51db7db]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2003/1901/regulation/3) substituted (17.11.2003) by [The Advanced Television Services (Amendment) Regulations 2003 (S.I. 2003/2750)](https://www.legislation.gov.uk/uksi/2003/2750), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2750/regulation/1), [2](https://www.legislation.gov.uk/uksi/2003/2750/regulation/2)
+[^c-37861eedc6e3dd13c48156a1d51db7db]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2003/1901/regulation/3) substituted (17.11.2003) by [The Advanced Television Services (Amendment) Regulations 2003 (S.I. 2003/2750)](https://www.legislation.gov.uk/uksi/2003/2750), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2750/regulation/1), [2](https://www.legislation.gov.uk/uksi/2003/2750/regulation/2)
 
-[^key-a3f1264ae13039313da6c87a9b27e268]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/1901/regulation/4) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-a3f1264ae13039313da6c87a9b27e268]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/1901/regulation/4) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
-[^key-756bc298d9256e6da0b174400d762cc1]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/1901/regulation/6) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-756bc298d9256e6da0b174400d762cc1]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/1901/regulation/6) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
 [^c5064311]: Marginal citation: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72).
 
@@ -341,11 +341,11 @@ These Regulations replace the earlier standards provided for in the Advanced Tel
 
 [^c5064341]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675); [article 22](https://www.legislation.gov.uk/uksi/2003/1901/article/22) was amended by the [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [section 70](https://www.legislation.gov.uk/ukpga/2001/16/section/70) and Schedule 2, paragraph 13.
 
-[^key-0ff5daf10e28da0dd052a640d4db866c]: Textual amendment: Words in [Sch. para. 8(1)](https://www.legislation.gov.uk/uksi/2003/1901/schedule/paragraph/8/1) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 218(a)](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/218/a)
+[^c-0ff5daf10e28da0dd052a640d4db866c]: Textual amendment: Words in [Sch. para. 8(1)](https://www.legislation.gov.uk/uksi/2003/1901/schedule/paragraph/8/1) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 218(a)](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/218/a)
 
-[^key-39b3b5071daac13ccf2bc176caffa6ac]: Textual amendment: Words in [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2003/1901/schedule/paragraph/8/3) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 218(b)](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/218/b)
+[^c-39b3b5071daac13ccf2bc176caffa6ac]: Textual amendment: Words in [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2003/1901/schedule/paragraph/8/3) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 218(b)](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/218/b)
 
-[^key-585023a3f0be56685c0fee5bfa22290e]: Textual amendment: Words in [Sch. para. 8(11)](https://www.legislation.gov.uk/uksi/2003/1901/schedule/paragraph/8/11) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 218(c)](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/218/c)
+[^c-585023a3f0be56685c0fee5bfa22290e]: Textual amendment: Words in [Sch. para. 8(11)](https://www.legislation.gov.uk/uksi/2003/1901/schedule/paragraph/8/11) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 218(c)](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/218/c)
 
 [^c5064351]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 

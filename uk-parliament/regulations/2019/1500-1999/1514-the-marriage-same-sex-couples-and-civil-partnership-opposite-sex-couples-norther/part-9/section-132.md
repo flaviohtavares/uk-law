@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Solicitors (Northern Ireland) Order 1976[^key-8868d6dd6283ab8e7a9462aed4c19737]
+## 132. Solicitors (Northern Ireland) Order 1976[^c-8868d6dd6283ab8e7a9462aed4c19737]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In Article 28(2)(b) of the Solicitors (Northern Ireland) Order 1976[^f00216], fo
 
 ## Annotations
 
-[^key-8868d6dd6283ab8e7a9462aed4c19737]: Commencement: Reg. 132 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-8868d6dd6283ab8e7a9462aed4c19737]: Commencement: Reg. 132 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00216]: Footnote: [S.I. 1976/582 (N.I. 12)](https://www.legislation.gov.uk/nisi/1976/582). Article 28 was amended by [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703), [S.I. 1989/1343 (N.I. 14)](https://www.legislation.gov.uk/nisi/1989/1343).

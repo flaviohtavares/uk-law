@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Listed products[^key-103bc36561c2e47c5c4432fff3008f4b]
+## SCHEDULE 1 — Listed products[^c-103bc36561c2e47c5c4432fff3008f4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Regulation 2
 
-### PART 1 — Listed products and implementing measures[^key-103bc36561c2e47c5c4432fff3008f4b]
+### PART 1 — Listed products and implementing measures[^c-103bc36561c2e47c5c4432fff3008f4b]
 
-**1.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Boilers and appliances[^key-103bc36561c2e47c5c4432fff3008f4b]
+### PART 2 — Boilers and appliances[^c-103bc36561c2e47c5c4432fff3008f4b]
 
-**1.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Refrigerator appliances[^key-103bc36561c2e47c5c4432fff3008f4b]
+### PART 3 — Refrigerator appliances[^c-103bc36561c2e47c5c4432fff3008f4b]
 
-**1.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — Ballasts for fluorescent lighting[^key-103bc36561c2e47c5c4432fff3008f4b]
+### PART 4 — Ballasts for fluorescent lighting[^c-103bc36561c2e47c5c4432fff3008f4b]
 
-**1.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-103bc36561c2e47c5c4432fff3008f4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-103bc36561c2e47c5c4432fff3008f4b]: Textual amendment: Regulations revoked (20.11.2010) by [The Ecodesign for Energy Related Products Regulations 2010 (S.I. 2010/2617)](https://www.legislation.gov.uk/uksi/2010/2617), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2617/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2010/2617/regulation/20/a)
+[^c-103bc36561c2e47c5c4432fff3008f4b]: Textual amendment: Regulations revoked (20.11.2010) by [The Ecodesign for Energy Related Products Regulations 2010 (S.I. 2010/2617)](https://www.legislation.gov.uk/uksi/2010/2617), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2617/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2010/2617/regulation/20/a)

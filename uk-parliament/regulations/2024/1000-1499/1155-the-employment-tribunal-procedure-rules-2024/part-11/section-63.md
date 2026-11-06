@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. When a judgment or order takes effect[^key-682cf6c503bd4f2bf724f71986a140e3]
+## 63. When a judgment or order takes effect[^c-682cf6c503bd4f2bf724f71986a140e3]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A judgment or order takes effect from the day when it is given or made, or on su
 
 ## Annotations
 
-[^key-682cf6c503bd4f2bf724f71986a140e3]: Commencement: [Rule 63](https://www.legislation.gov.uk/uksi/2024/1155/rule/63) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-682cf6c503bd4f2bf724f71986a140e3]: Commencement: [Rule 63](https://www.legislation.gov.uk/uksi/2024/1155/rule/63) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

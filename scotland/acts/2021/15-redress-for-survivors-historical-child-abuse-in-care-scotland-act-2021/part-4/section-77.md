@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Outcome of a section 76 review[^key-ac4dca55e863f1b43978be8691004c61]
+## 77. Outcome of a section 76 review[^c-ac4dca55e863f1b43978be8691004c61]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) The review panel may not—
 
-- (a) reverse or vary a determination under section 75 that a person is or[^key-cf3f55d59ea03019644139d4f6908169] remains eligible for a redress payment,
+- (a) reverse or vary a determination under section 75 that a person is or[^c-cf3f55d59ea03019644139d4f6908169] remains eligible for a redress payment,
 - (b) determine that a person is to be entitled to or, as the case may be, offered a lower amount by way of an individually assessed payment than the person was entitled to or offered under section 75, or
 - (c) determine that more is to be deducted in accordance with section 42 from the person's redress payment than was determined under section 75.
 
@@ -35,7 +35,7 @@ summary: ''
 
 (4) Subsections (4) and (7) of section 36 apply to a determination as upheld, reversed or varied as they apply to a determination made under section 36, subject to the modification that references to the panel appointed under section 35 to determine the application are to be read as references to the review panel.
 
-(4A)[^key-dee938618fe388b493aa1c7b89a4dcb3] Subsections (4B) and (4C) apply where the review panel determines under this section that an offer of a redress payment is to be made (whether or not an offer of a redress payment was made under the determination under section 75(5)(b) which was the subject of the request for a review).
+(4A)[^c-dee938618fe388b493aa1c7b89a4dcb3] Subsections (4B) and (4C) apply where the review panel determines under this section that an offer of a redress payment is to be made (whether or not an offer of a redress payment was made under the determination under section 75(5)(b) which was the subject of the request for a review).
 
 (4B) In assessing the amount of the redress payment (if any) to be offered, no account is to be taken of any redress payment which has previously been paid in respect of the original determination which was referred for reconsideration under section 75 but no entitlement to any such amount arises by virtue of section 50(2).
 
@@ -47,7 +47,7 @@ summary: ''
 (5) Once the review panel has conducted the review, Redress Scotland must inform the Scottish Ministers who must, as soon as reasonably practicable—
 
 - (a) notify the person who requested it of the review panel's determination, and
-- (b)[^key-cdbb68c96843505d246f610167b3822c] provide the person with—
+- (b)[^c-cdbb68c96843505d246f610167b3822c] provide the person with—
   - (i) a summary, provided by Redress Scotland, of the review panel’s reasons for reaching that determination,
   - (ii) information in relation to the effect of the panel’s determination on a previous offer of a redress payment made under the determination under section 75(5)(b),
   - (iii) where the panel’s determination makes an offer of a redress payment, information about the period for which the offer remains valid by virtue of section 49(3) and the options available to the person in respect of it.
@@ -58,10 +58,10 @@ summary: ''
 
 ## Annotations
 
-[^key-ac4dca55e863f1b43978be8691004c61]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2021/15/section/77) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-ac4dca55e863f1b43978be8691004c61]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2021/15/section/77) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
 
-[^key-cf3f55d59ea03019644139d4f6908169]: Textual amendment: Words in [s. 77(2)(a)](https://www.legislation.gov.uk/asp/2021/15/section/77/2/a) inserted (9.2.2022) by [The Redress for Survivors (Historical Child Abuse in Care) (Reconsideration and Review of Determinations) (Scotland) Regulations 2022 (S.S.I. 2022/44)](https://www.legislation.gov.uk/ssi/2022/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/44/regulation/1/1), [26(2)](https://www.legislation.gov.uk/ssi/2022/44/regulation/26/2)
+[^c-cf3f55d59ea03019644139d4f6908169]: Textual amendment: Words in [s. 77(2)(a)](https://www.legislation.gov.uk/asp/2021/15/section/77/2/a) inserted (9.2.2022) by [The Redress for Survivors (Historical Child Abuse in Care) (Reconsideration and Review of Determinations) (Scotland) Regulations 2022 (S.S.I. 2022/44)](https://www.legislation.gov.uk/ssi/2022/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/44/regulation/1/1), [26(2)](https://www.legislation.gov.uk/ssi/2022/44/regulation/26/2)
 
-[^key-dee938618fe388b493aa1c7b89a4dcb3]: Textual amendment: [S. 77(4A)-(4C)](https://www.legislation.gov.uk/asp/2021/15/section/77/4A) inserted (9.2.2022) by [The Redress for Survivors (Historical Child Abuse in Care) (Reconsideration and Review of Determinations) (Scotland) Regulations 2022 (S.S.I. 2022/44)](https://www.legislation.gov.uk/ssi/2022/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/44/regulation/1/1), [26(3)](https://www.legislation.gov.uk/ssi/2022/44/regulation/26/3)
+[^c-dee938618fe388b493aa1c7b89a4dcb3]: Textual amendment: [S. 77(4A)-(4C)](https://www.legislation.gov.uk/asp/2021/15/section/77/4A) inserted (9.2.2022) by [The Redress for Survivors (Historical Child Abuse in Care) (Reconsideration and Review of Determinations) (Scotland) Regulations 2022 (S.S.I. 2022/44)](https://www.legislation.gov.uk/ssi/2022/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/44/regulation/1/1), [26(3)](https://www.legislation.gov.uk/ssi/2022/44/regulation/26/3)
 
-[^key-cdbb68c96843505d246f610167b3822c]: Textual amendment: [S. 77(5)(b)](https://www.legislation.gov.uk/asp/2021/15/section/77/5/b) substituted (9.2.2022) by [The Redress for Survivors (Historical Child Abuse in Care) (Reconsideration and Review of Determinations) (Scotland) Regulations 2022 (S.S.I. 2022/44)](https://www.legislation.gov.uk/ssi/2022/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/44/regulation/1/1), [26(4)](https://www.legislation.gov.uk/ssi/2022/44/regulation/26/4)
+[^c-cdbb68c96843505d246f610167b3822c]: Textual amendment: [S. 77(5)(b)](https://www.legislation.gov.uk/asp/2021/15/section/77/5/b) substituted (9.2.2022) by [The Redress for Survivors (Historical Child Abuse in Care) (Reconsideration and Review of Determinations) (Scotland) Regulations 2022 (S.S.I. 2022/44)](https://www.legislation.gov.uk/ssi/2022/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/44/regulation/1/1), [26(4)](https://www.legislation.gov.uk/ssi/2022/44/regulation/26/4)

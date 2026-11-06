@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Part 5 community bodies[^key-9e8648b2328893a362eaffd83aa364cc]
+## 49. Part 5 community bodies[^c-9e8648b2328893a362eaffd83aa364cc]
 
 *Extent: S*
 
@@ -102,4 +102,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e8648b2328893a362eaffd83aa364cc]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2016/18/section/49) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-9e8648b2328893a362eaffd83aa364cc]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2016/18/section/49) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

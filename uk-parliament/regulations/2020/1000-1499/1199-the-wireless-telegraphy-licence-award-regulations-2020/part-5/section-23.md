@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Number of principal stage rounds[^key-78e4f0cc09713ab19bf70f8c4ea068cd]
+## 23. Number of principal stage rounds[^c-78e4f0cc09713ab19bf70f8c4ea068cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78e4f0cc09713ab19bf70f8c4ea068cd]: Commencement: Reg. 23 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-78e4f0cc09713ab19bf70f8c4ea068cd]: Commencement: Reg. 23 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

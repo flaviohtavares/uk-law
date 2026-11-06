@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80L. Tax on carriage of passengers by air[^key-208b331801764bfe2ff13c8388fcce75]
+## 80L. Tax on carriage of passengers by air[^c-208b331801764bfe2ff13c8388fcce75]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A tax charged on the carriage of passengers by air from airports in Scotland is 
 
 ## Annotations
 
-[^key-208b331801764bfe2ff13c8388fcce75]: Textual amendment: Pt. 4A Ch. 5 inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/17/1), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)
+[^c-208b331801764bfe2ff13c8388fcce75]: Textual amendment: Pt. 4A Ch. 5 inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 17(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/17/1), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3)

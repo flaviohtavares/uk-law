@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14A. Application for exemptions[^key-4f6dac51495a6bd1784549ade235baa1]
+## 14A. Application for exemptions[^c-4f6dac51495a6bd1784549ade235baa1]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f6dac51495a6bd1784549ade235baa1]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2011/3066/regulation/14A) inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4f6dac51495a6bd1784549ade235baa1]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2011/3066/regulation/14A) inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

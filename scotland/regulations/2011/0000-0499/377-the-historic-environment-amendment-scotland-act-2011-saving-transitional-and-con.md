@@ -48,7 +48,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 32(1) and (2) of the Historic Environment (Amendment) (Scotland) Act 2011[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-21dafd71ae7c072650c2815b1647a6ac]
+## 1. Citation, commencement and interpretation[^c-21dafd71ae7c072650c2815b1647a6ac]
 
 (1) This Order may be cited as the Historic Environment (Amendment) (Scotland) Act 2011 (Saving, Transitional and Consequential Provisions) Order 2011 and comes into force on 1st December 2011.
 
@@ -59,7 +59,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “the Listed Buildings Act” means the Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997[^f00003]; and
 - “scheduled monument consent” has the same meaning as in section 61(1) of the 1979 Act.
 
-## 2. Offences under sections 2, 28 and 42 of the 1979 Act: modification of defences[^key-8a07355b4e9796b27b2e28c81da47123]
+## 2. Offences under sections 2, 28 and 42 of the 1979 Act: modification of defences[^c-8a07355b4e9796b27b2e28c81da47123]
 
 Notwithstanding the commencement of section 3 (offences under sections 2, 28 and 42: modification of defences) of the Act on 1st December 2011—
 
@@ -67,26 +67,26 @@ Notwithstanding the commencement of section 3 (offences under sections 2, 28 an
 - (b) section 28(1) (offence of damaging certain ancient monuments) of the 1979 Act continues to have effect as it did immediately before that date in relation to any damage or destruction of a protected monument (within the meaning of section 28 of the 1979 Act) before that date; and
 - (c) section 42 (restrictions on use of metal detectors) of the 1979 Act continues to have effect as it did immediately before that date in relation to an act specified in section 42(1) or (3) of the 1979 Act occurring before that date.
 
-## 3. Scheduled monument consent: applications[^key-b7da7786e84b5a761af93421c25f6483]
+## 3. Scheduled monument consent: applications[^c-b7da7786e84b5a761af93421c25f6483]
 
 Notwithstanding the commencement of section 15(3) (scheduled monument consent: applications) of the Act on 1st December 2011, paragraph 2(1) and (2) of Schedule 1 (applications for scheduled monument consent) to the 1979 Act continues to have effect as it did immediately before that date in respect of an application for scheduled monument consent made before that date.
 
-## 4. Power of Scottish Ministers to refuse to entertain applications for scheduled monument consent[^key-a13e2820f668a14bdf01699fc6e496ca]
+## 4. Power of Scottish Ministers to refuse to entertain applications for scheduled monument consent[^c-a13e2820f668a14bdf01699fc6e496ca]
 
 Paragraph 2B(1) (refusal to entertain certain applications for scheduled monument consent) of Schedule 1 to the 1979 Act[^f00004] applies only to an application made on or after 1st December 2011.
 
-## 5. Power of planning authority to decline to determine applications[^key-f134a57ce1a59a0d5070c0ab0547cb1d]
+## 5. Power of planning authority to decline to determine applications[^c-f134a57ce1a59a0d5070c0ab0547cb1d]
 
 An application for listed building consent is a current application for the purposes of section 10A(1) (declining to determine applications) of the Listed Buildings Act[^f00005] only if the application is made on or after 1st December 2011.
 
-## 6. Hearings in connection with applications for listed building consent and appeals[^key-73f3adc0da903120707dce32e1334251]
+## 6. Hearings in connection with applications for listed building consent and appeals[^c-73f3adc0da903120707dce32e1334251]
 
 Notwithstanding the commencement of section 21 (hearings in connection with applications for listed building consent and appeals) of the Act on 1st December 2011—
 
 - (a) where a direction requiring an application to be referred to the Scottish Ministers instead of being dealt with by the planning authority is given under section 11(1) (call-in of application) of the Listed Buildings Act before that date, section 11 of the Listed Buildings Act continues to apply for the purposes of that application as it had effect immediately before that date; and
 - (b) where notice of appeal is given to the Scottish Ministers under section 19(1) (appeals: supplementary provisions) or section 35(2) (appeal against enforcement notice) of the Listed Buildings Act before that date the provisions of Schedule 3 to the Listed Buildings Act continue to apply for the purposes of that appeal as those provisions had effect immediately before that date.
 
-## 7. Amendment of the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^key-b2140b19fc57cdb7a378b97847d39a4a]
+## 7. Amendment of the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^c-b2140b19fc57cdb7a378b97847d39a4a]
 
 (1) The Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^f00006] is amended in accordance with paragraph (2).
 
@@ -96,7 +96,7 @@ Notwithstanding the commencement of section 21 (hearings in connection with appl
 
 .
 
-## 8. Amendment of the Transport and Works (Scotland) Act 2007 (Consents under Enactments) Regulations 2007[^key-4924ac9a24213748b6cf00dc6fc910b2]
+## 8. Amendment of the Transport and Works (Scotland) Act 2007 (Consents under Enactments) Regulations 2007[^c-4924ac9a24213748b6cf00dc6fc910b2]
 
 (1) Subject to paragraph (4), the Transport and Works (Scotland) Act 2007 (Consents under Enactments) Regulations 2007[^f00008] are amended in accordance with paragraphs (2) and (3).
 
@@ -141,7 +141,7 @@ Notwithstanding the commencement of section 21 (hearings in connection with appl
 
 (4) The Transport and Works (Scotland) Act 2007 (Consents under Enactments) Regulations 2007 continue to have effect as they had effect immediately before 1st December 2011 in relation to an application for scheduled monument consent made before that date.
 
-## 9. Amendment of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2008[^key-f4f66538a3b2efa132a56ae4673451ef]
+## 9. Amendment of the Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2008[^c-f4f66538a3b2efa132a56ae4673451ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -179,36 +179,36 @@ Article 8 amends the Transport and Works (Scotland) Act 2007 (Consents under Ena
 
 [^f00001]: Footnote: [2011 asp 3](https://www.legislation.gov.uk/asp/2011/3).
 
-[^key-21dafd71ae7c072650c2815b1647a6ac]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2011/377/article/1) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
+[^c-21dafd71ae7c072650c2815b1647a6ac]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2011/377/article/1) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
 
 [^f00002]: Footnote: [1979 c.46](https://www.legislation.gov.uk/ukpga/1979/46).
 
 [^f00003]: Footnote: [1997 c.9](https://www.legislation.gov.uk/ukpga/1997/9).
 
-[^key-8a07355b4e9796b27b2e28c81da47123]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2011/377/article/2) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
+[^c-8a07355b4e9796b27b2e28c81da47123]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2011/377/article/2) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
 
-[^key-b7da7786e84b5a761af93421c25f6483]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2011/377/article/3) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
+[^c-b7da7786e84b5a761af93421c25f6483]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2011/377/article/3) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
 
-[^key-a13e2820f668a14bdf01699fc6e496ca]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2011/377/article/4) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
+[^c-a13e2820f668a14bdf01699fc6e496ca]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2011/377/article/4) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
 
 [^f00004]: Footnote: Paragraph 2B is inserted by section 16 of the Historic Environment (Amendment) (Scotland) Act [2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3).
 
-[^key-f134a57ce1a59a0d5070c0ab0547cb1d]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2011/377/article/5) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
+[^c-f134a57ce1a59a0d5070c0ab0547cb1d]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2011/377/article/5) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
 
 [^f00005]: Footnote: Section 10A is introduced by section 20 of the [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3).
 
-[^key-73f3adc0da903120707dce32e1334251]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2011/377/article/6) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
+[^c-73f3adc0da903120707dce32e1334251]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2011/377/article/6) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
 
-[^key-b2140b19fc57cdb7a378b97847d39a4a]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2011/377/article/7) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
+[^c-b2140b19fc57cdb7a378b97847d39a4a]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2011/377/article/7) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
 
 [^f00006]: Footnote: [S.I. 1992/223](https://www.legislation.gov.uk/uksi/1992/223) to which there are amendments which are not relevant to the changes made by this Order.
 
 [^f00007]: Footnote: [1979 c.46](https://www.legislation.gov.uk/ukpga/1979/46). Section 32A is inserted by section 11 of the Historic Environment (Amendment) (Scotland) Act [2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3).
 
-[^key-4924ac9a24213748b6cf00dc6fc910b2]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2011/377/article/8) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
+[^c-4924ac9a24213748b6cf00dc6fc910b2]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2011/377/article/8) in force at 1.12.2011, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2011/377/article/1/1)
 
 [^f00008]: Footnote: [S.S.I. 2007/569](https://www.legislation.gov.uk/ssi/2007/569).
 
 [^f00009]: Footnote: [S.S.I. 2011/375](https://www.legislation.gov.uk/ssi/2011/375).
 
-[^key-f4f66538a3b2efa132a56ae4673451ef]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/ssi/2011/377/article/9) revoked (30.6.2013) by [The Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013 (S.S.I. 2013/155)](https://www.legislation.gov.uk/ssi/2013/155), [reg. 1](https://www.legislation.gov.uk/ssi/2013/155/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2013/155/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2013/155/regulation/2), [49](https://www.legislation.gov.uk/ssi/2013/155/regulation/49), [51(2)-(4)](https://www.legislation.gov.uk/ssi/2013/155/regulation/51/2))
+[^c-f4f66538a3b2efa132a56ae4673451ef]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/ssi/2011/377/article/9) revoked (30.6.2013) by [The Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013 (S.S.I. 2013/155)](https://www.legislation.gov.uk/ssi/2013/155), [reg. 1](https://www.legislation.gov.uk/ssi/2013/155/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2013/155/schedule/9) (with [regs. 2](https://www.legislation.gov.uk/ssi/2013/155/regulation/2), [49](https://www.legislation.gov.uk/ssi/2013/155/regulation/49), [51(2)-(4)](https://www.legislation.gov.uk/ssi/2013/155/regulation/51/2))

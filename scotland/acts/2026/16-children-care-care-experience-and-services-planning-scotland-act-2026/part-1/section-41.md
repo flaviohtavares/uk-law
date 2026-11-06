@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Single member children’s hearings and pre-hearing panels[^key-7a55719f130afe1f5c271bae98352294]
+## 41. Single member children’s hearings and pre-hearing panels[^c-7a55719f130afe1f5c271bae98352294]
 
 *Extent: S*
 
@@ -314,4 +314,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a55719f130afe1f5c271bae98352294]: Commencement: S. 41 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-7a55719f130afe1f5c271bae98352294]: Commencement: S. 41 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

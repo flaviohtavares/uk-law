@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Authorised excuses for failure as to return and declarations[^key-c088372a87201bf8beebd8cc44468e74]
+## 53. Authorised excuses for failure as to return and declarations[^c-c088372a87201bf8beebd8cc44468e74]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ the court shall relieve the candidate from the consequences of the act or omissi
 
 ## Annotations
 
-[^key-c088372a87201bf8beebd8cc44468e74]: Commencement: Art. 53 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-c088372a87201bf8beebd8cc44468e74]: Commencement: Art. 53 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

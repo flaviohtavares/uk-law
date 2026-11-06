@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Insertion of articles 12 and 13[^key-3264d08e23a839e5b56539b3bdf54793]
+## 16. Insertion of articles 12 and 13[^c-3264d08e23a839e5b56539b3bdf54793]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ After article 11, insert—
 
 ## Annotations
 
-[^key-3264d08e23a839e5b56539b3bdf54793]: Commencement: Reg. 16 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-3264d08e23a839e5b56539b3bdf54793]: Commencement: Reg. 16 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-7d5524b49312596a8ad93541010f9e8e]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-7d5524b49312596a8ad93541010f9e8e]
 
 *Extent: E+W+S*
 
 Article 2(1)
 
-[^key-7d5524b49312596a8ad93541010f9e8e]
+[^c-7d5524b49312596a8ad93541010f9e8e]
 
 In the County Borough of Neath Port Talbot—
 
-[^key-7d5524b49312596a8ad93541010f9e8e]
+[^c-7d5524b49312596a8ad93541010f9e8e]
 
 The construction, operation and maintenance of a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act, being an electricity generating station located on the site of the Port Talbot steelworks, with a nominal gross electrical output capacity of up to 150 megawatts, fuelled by gases produced during the steelmaking process with natural gas provided as a back up, comprising—
 
@@ -73,7 +73,7 @@ The construction, operation and maintenance of a nationally significant infrastr
     - (vii) associated system earth requirements; and
     - (viii) protection and control equipment.
 
-[^key-7d5524b49312596a8ad93541010f9e8e]
+[^c-7d5524b49312596a8ad93541010f9e8e]
 
 In connection with the Works and to the extent that they do not form part of a Work, development comprising—
 
@@ -87,4 +87,4 @@ only within the Order limits and insofar as such development is unlikely to give
 
 ## Annotations
 
-[^key-7d5524b49312596a8ad93541010f9e8e]: Commencement: Sch. 1 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-7d5524b49312596a8ad93541010f9e8e]: Commencement: Sch. 1 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)

@@ -66,7 +66,7 @@ and for the purposes of those paragraphs it is immaterial whether the third part
 - (b) the provision of the benefits, facilities or services to the woman in question is regulated by her contract of employment, or
 - (c) the benefits, facilities or services relate to training.
 
-(8)[^c17232791] In its application to any discrimination falling within Article 4A or 4B[^key-db22bcfb3ffb6d65be9074bc929908e5] , this Article shall have effect with the omission of paragraphs (4) to (6).
+(8)[^c17232791] In its application to any discrimination falling within Article 4A or 4B[^c-db22bcfb3ffb6d65be9074bc929908e5] , this Article shall have effect with the omission of paragraphs (4) to (6).
 
 ## Annotations
 
@@ -82,4 +82,4 @@ and for the purposes of those paragraphs it is immaterial whether the third part
 
 [^c17232791]: Textual amendment: SR 1999/311
 
-[^key-db22bcfb3ffb6d65be9074bc929908e5]: Textual amendment: Words in [art. 8(8)](https://www.legislation.gov.uk/nisi/1976/1042/article/8/8) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2016/191/regulation/9)
+[^c-db22bcfb3ffb6d65be9074bc929908e5]: Textual amendment: Words in [art. 8(8)](https://www.legislation.gov.uk/nisi/1976/1042/article/8/8) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2016/191/regulation/9)

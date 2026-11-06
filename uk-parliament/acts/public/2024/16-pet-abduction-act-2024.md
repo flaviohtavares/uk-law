@@ -36,7 +36,7 @@ An Act to create offences of dog abduction and cat abduction and to confer a pow
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Dog abduction[^key-9eb21c107c83c906658cdd8cfc97200b][^key-28be63f0058fd3b4715bdac65a1eaeb1]
+## 1. Dog abduction[^c-9eb21c107c83c906658cdd8cfc97200b][^c-28be63f0058fd3b4715bdac65a1eaeb1]
 
 (1) A person (A) commits the offence of dog abduction if they—
 
@@ -91,7 +91,7 @@ and A and the dog are both in England or Northern Ireland at the time the dog is
   - (i) causing or inducing the dog to remain with the person or anyone else, or
   - (ii) causing the dog to be detained.
 
-## 2. Cat abduction[^key-9fedcf077b83f69b57d01690fba4f482][^key-17d2f6941007896f2a385940b770b0c3]
+## 2. Cat abduction[^c-9fedcf077b83f69b57d01690fba4f482][^c-17d2f6941007896f2a385940b770b0c3]
 
 (1) A person (A) commits the offence of cat abduction if—
 
@@ -128,7 +128,7 @@ and A and the dog are both in England or Northern Ireland at the time the dog is
 - (a) causing or inducing the cat to accompany the person or anyone else, or
 - (b) causing the cat to be taken.
 
-## 3. Abduction of other animals commonly kept as pets[^key-ee0488e3dfc7e188f2a0b877f80890b5]
+## 3. Abduction of other animals commonly kept as pets[^c-ee0488e3dfc7e188f2a0b877f80890b5]
 
 (1) An appropriate national authority may by regulations amend this Act so that section 1 or 2 applies or is replicated, with or without modifications, in respect of further species of animal.
 
@@ -167,7 +167,7 @@ and A and the dog are both in England or Northern Ireland at the time the dog is
 
 (11) The provision that may be made by virtue of subsection (10)(b) includes, in particular, provision amending the Magistrates’ Courts (Northern Ireland) Order 1981 ([S.I. 1981/1675 (N.I. 26))](https://www.legislation.gov.uk/nisi/1981/1675).
 
-## 4. Sections 1 and 2: consequential provision[^key-3ddb8c78dbd4687838c7f58fcffaab2e][^key-a47cbf32a714cbc1d1887493568a767f]
+## 4. Sections 1 and 2: consequential provision[^c-3ddb8c78dbd4687838c7f58fcffaab2e][^c-a47cbf32a714cbc1d1887493568a767f]
 
 *Extent: N.I.*
 
@@ -175,13 +175,13 @@ In Article 29(1) of the Magistrates’ Courts (Northern Ireland) Order 1981 ([S.
 
 > - (s) section 1 or 2 of the Pet Abduction Act 2024 (dog or cat abduction).
 
-## 5. Extent[^key-9f9de41a14630d2fc7042ce327b2d335]
+## 5. Extent[^c-9f9de41a14630d2fc7042ce327b2d335]
 
 (1) This Act, other than section 4, extends to England and Wales and to Northern Ireland.
 
 (2) Section 4 extends to Northern Ireland only.
 
-## 6. Commencement[^key-193aedcc510d63dfe217ac0d86f200af]
+## 6. Commencement[^c-193aedcc510d63dfe217ac0d86f200af]
 
 (1) Sections 1 and 2, so far as they extend to England and Wales, come into force at the end of the period of three months beginning with the day on which this Act is passed.
 
@@ -202,28 +202,28 @@ In Article 29(1) of the Magistrates’ Courts (Northern Ireland) Order 1981 ([S.
 
 (8) The power of DAERA to make an order under this section is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 ([S.I. 1979/1573 (N.I. 12))](https://www.legislation.gov.uk/nisi/1979/1573).
 
-## 7. Short title[^key-7fbf5d9d79a861e4f64a61781b308133]
+## 7. Short title[^c-7fbf5d9d79a861e4f64a61781b308133]
 
 This Act may be cited as the Pet Abduction Act 2024.
 
 ## Annotations
 
-[^key-9eb21c107c83c906658cdd8cfc97200b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/16/section/1) in force at 24.8.2024 for E.W., see [s. 6(1)](https://www.legislation.gov.uk/ukpga/2024/16/section/6/1)
+[^c-9eb21c107c83c906658cdd8cfc97200b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/16/section/1) in force at 24.8.2024 for E.W., see [s. 6(1)](https://www.legislation.gov.uk/ukpga/2024/16/section/6/1)
 
-[^key-28be63f0058fd3b4715bdac65a1eaeb1]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/16/section/1) in force at 24.8.2024 for N.I. by [S.R. 2024/156](https://www.legislation.gov.uk/nisr/2024/156), [art. 2(a)](https://www.legislation.gov.uk/nisr/2024/156/article/2/a)
+[^c-28be63f0058fd3b4715bdac65a1eaeb1]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2024/16/section/1) in force at 24.8.2024 for N.I. by [S.R. 2024/156](https://www.legislation.gov.uk/nisr/2024/156), [art. 2(a)](https://www.legislation.gov.uk/nisr/2024/156/article/2/a)
 
-[^key-9fedcf077b83f69b57d01690fba4f482]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/16/section/2) in force at 24.8.2024 for E.W., see [s. 6(1)](https://www.legislation.gov.uk/ukpga/2024/16/section/6/1)
+[^c-9fedcf077b83f69b57d01690fba4f482]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/16/section/2) in force at 24.8.2024 for E.W., see [s. 6(1)](https://www.legislation.gov.uk/ukpga/2024/16/section/6/1)
 
-[^key-17d2f6941007896f2a385940b770b0c3]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/16/section/2) in force at 24.8.2024 for N.I. by [S.R. 2024/156](https://www.legislation.gov.uk/nisr/2024/156), [art. 2(a)](https://www.legislation.gov.uk/nisr/2024/156/article/2/a)
+[^c-17d2f6941007896f2a385940b770b0c3]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2024/16/section/2) in force at 24.8.2024 for N.I. by [S.R. 2024/156](https://www.legislation.gov.uk/nisr/2024/156), [art. 2(a)](https://www.legislation.gov.uk/nisr/2024/156/article/2/a)
 
-[^key-ee0488e3dfc7e188f2a0b877f80890b5]: Commencement: S. 3 in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukpga/2024/16/section/6/3)
+[^c-ee0488e3dfc7e188f2a0b877f80890b5]: Commencement: S. 3 in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukpga/2024/16/section/6/3)
 
-[^key-3ddb8c78dbd4687838c7f58fcffaab2e]: Commencement: S. 4 not in force at Royal Assent, see [s. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2024/16/section/6/2/b)
+[^c-3ddb8c78dbd4687838c7f58fcffaab2e]: Commencement: S. 4 not in force at Royal Assent, see [s. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2024/16/section/6/2/b)
 
-[^key-a47cbf32a714cbc1d1887493568a767f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2024/16/section/4) in force at 24.8.2024 by [S.R. 2024/156](https://www.legislation.gov.uk/nisr/2024/156), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/156/article/2/b)
+[^c-a47cbf32a714cbc1d1887493568a767f]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2024/16/section/4) in force at 24.8.2024 by [S.R. 2024/156](https://www.legislation.gov.uk/nisr/2024/156), [art. 2(b)](https://www.legislation.gov.uk/nisr/2024/156/article/2/b)
 
-[^key-9f9de41a14630d2fc7042ce327b2d335]: Commencement: S. 5 in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukpga/2024/16/section/6/3)
+[^c-9f9de41a14630d2fc7042ce327b2d335]: Commencement: S. 5 in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukpga/2024/16/section/6/3)
 
-[^key-193aedcc510d63dfe217ac0d86f200af]: Commencement: S. 6 in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukpga/2024/16/section/6/3)
+[^c-193aedcc510d63dfe217ac0d86f200af]: Commencement: S. 6 in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukpga/2024/16/section/6/3)
 
-[^key-7fbf5d9d79a861e4f64a61781b308133]: Commencement: S. 7 in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukpga/2024/16/section/6/3)
+[^c-7fbf5d9d79a861e4f64a61781b308133]: Commencement: S. 7 in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukpga/2024/16/section/6/3)

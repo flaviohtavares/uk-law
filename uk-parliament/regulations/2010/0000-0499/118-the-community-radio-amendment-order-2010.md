@@ -32,7 +32,7 @@ summary: ''
 
 Broadcasting
 
-The Community Radio (Amendment) Order 2010 (revoked)[^key-8289e3424be518fc91b5d9697d27d82f]
+The Community Radio (Amendment) Order 2010 (revoked)[^c-8289e3424be518fc91b5d9697d27d82f]
 
 Made
 
@@ -40,30 +40,30 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-8289e3424be518fc91b5d9697d27d82f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8289e3424be518fc91b5d9697d27d82f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8289e3424be518fc91b5d9697d27d82f]
+## 1. Citation and commencement[^c-8289e3424be518fc91b5d9697d27d82f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Community Radio Order 2004[^key-8289e3424be518fc91b5d9697d27d82f]
+## 2. Amendment of the Community Radio Order 2004[^c-8289e3424be518fc91b5d9697d27d82f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8289e3424be518fc91b5d9697d27d82f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8289e3424be518fc91b5d9697d27d82f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8289e3424be518fc91b5d9697d27d82f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8289e3424be518fc91b5d9697d27d82f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8289e3424be518fc91b5d9697d27d82f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8289e3424be518fc91b5d9697d27d82f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8289e3424be518fc91b5d9697d27d82f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8289e3424be518fc91b5d9697d27d82f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8289e3424be518fc91b5d9697d27d82f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8289e3424be518fc91b5d9697d27d82f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8289e3424be518fc91b5d9697d27d82f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/118) revoked (1.4.2025) by [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2025/160/article/7/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2025/160/article/8))
+[^c-8289e3424be518fc91b5d9697d27d82f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/118) revoked (1.4.2025) by [The Community Radio Order 2025 (S.I. 2025/160)](https://www.legislation.gov.uk/uksi/2025/160), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/160/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2025/160/article/7/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2025/160/article/8))

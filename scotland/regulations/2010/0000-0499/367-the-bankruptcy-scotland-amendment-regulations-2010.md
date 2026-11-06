@@ -48,29 +48,29 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 5(4C)(a) and (b), 15(6), 19(2), 40(3B) and 73(1) of the Bankruptcy (Scotland) Act 1985[^f00001], section 11(1)(b) of the Debt Arrangement and Attachment (Scotland) Act 2002[^f00002] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-d5feb8079c4a20c61e06619cae4434c8]
+## 1. Citation and commencement[^c-d5feb8079c4a20c61e06619cae4434c8]
 
 These Regulations may be cited as the Bankruptcy (Scotland) Amendment Regulations 2010 and come into force on 15th November 2010.
 
-## 2. Interpretation[^key-14e519984a1e9a4ca050f7c6ad0b22f4]
+## 2. Interpretation[^c-14e519984a1e9a4ca050f7c6ad0b22f4]
 
 In these Regulations “the 2008 Regulations” means the Bankruptcy (Scotland) Regulations 2008[^f00003].
 
-## 3. Amendment of the Bankruptcy (Scotland) Regulations 2008[^key-d010b0b0f293925f020e2e1f1f58293f]
+## 3. Amendment of the Bankruptcy (Scotland) Regulations 2008[^c-d010b0b0f293925f020e2e1f1f58293f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prescribed amount for the purposes of section 11(1)(b) of the Debt Arrangement and Attachment (Scotland) Act 2002.[^key-178467a3482289543c5401bf6e342a5d]
+## 4. Prescribed amount for the purposes of section 11(1)(b) of the Debt Arrangement and Attachment (Scotland) Act 2002.[^c-178467a3482289543c5401bf6e342a5d]
 
 For the purposes of section 11(1)(b) of the Debt Arrangement and Attachment (Scotland) Act 2002 (articles exempt from attachment) the prescribed value of a vehicle is £3,000.
 
-## 5. Saving provisions[^key-8db453c75b5e8032eead71b7e0ce9878]
+## 5. Saving provisions[^c-8db453c75b5e8032eead71b7e0ce9878]
 
 Notwithstanding the revocation of regulations 11 and 15(3) of the 2008 Regulations, those provisions shall continue to have effect in respect of sequestrations awarded prior to 15th November 2010.
 
-**6.**[^key-41bffde83a29bb3af64592660e61d856] Notwithstanding the revocation of regulation 14(1)(b) of the 2008 Regulations, that provision shall continue to have effect in respect of applications under section 5(2A) of the Bankruptcy (Scotland) Act 1985 received by the Accountant in Bankruptcy prior to 15th December 2010.
+**6.**[^c-41bffde83a29bb3af64592660e61d856] Notwithstanding the revocation of regulation 14(1)(b) of the 2008 Regulations, that provision shall continue to have effect in respect of applications under section 5(2A) of the Bankruptcy (Scotland) Act 1985 received by the Accountant in Bankruptcy prior to 15th December 2010.
 
-**7.**[^key-200efbf76ca7b94e8417ed6c6e285831] Notwithstanding the revocation of regulations 15(1) and 15(2) of the 2008 Regulations, those provisions shall continue to have effect in respect of any application such as referred to in regulation 15(1) made prior to 15th November 2010.
+**7.**[^c-200efbf76ca7b94e8417ed6c6e285831] Notwithstanding the revocation of regulations 15(1) and 15(2) of the 2008 Regulations, those provisions shall continue to have effect in respect of any application such as referred to in regulation 15(1) made prior to 15th November 2010.
 
 KENNY MACASKILL
 
@@ -82,7 +82,7 @@ Edinburgh
 
 21st October 2010
 
-## SCHEDULE 1[^key-4ac10b7052673a362d8f5e39f07deb3b]
+## SCHEDULE 1[^c-4ac10b7052673a362d8f5e39f07deb3b]
 
 **No longer in force.**
 
@@ -90,7 +90,7 @@ Regulation 3(6)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-26dc812933c56014481cfdcaa6f12212]
+## SCHEDULE 2[^c-26dc812933c56014481cfdcaa6f12212]
 
 **No longer in force.**
 
@@ -98,19 +98,19 @@ Regulation 3(6)(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-facdf25ac3be640b6e47335dbc8997b8]
+## SCHEDULE 3[^c-facdf25ac3be640b6e47335dbc8997b8]
 
 Regulation 3(6)(e)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2010/367/images/ssi_20100367_en_051)
 
-## SCHEDULE 4[^key-885ebc08526963cfd903495dce7d457f]
+## SCHEDULE 4[^c-885ebc08526963cfd903495dce7d457f]
 
 Regulation 3(6)(g)
 
 [image: see source](https://www.legislation.gov.uk/ssi/2010/367/images/ssi_20100367_en_052) [image: see source](https://www.legislation.gov.uk/ssi/2010/367/images/ssi_20100367_en_053)
 
-## SCHEDULE 5[^key-aef541394c941b253827212bab844fb8]
+## SCHEDULE 5[^c-aef541394c941b253827212bab844fb8]
 
 Regulation 3(6)(g)
 
@@ -140,28 +140,28 @@ Regulations 5, 6 and 7 contain savings provisions in relation to the revoked pro
 
 [^f00002]: Footnote: [2002 asp 17](https://www.legislation.gov.uk/asp/2002/17).
 
-[^key-d5feb8079c4a20c61e06619cae4434c8]: Commencement: Reg. 1 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
+[^c-d5feb8079c4a20c61e06619cae4434c8]: Commencement: Reg. 1 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
 
-[^key-14e519984a1e9a4ca050f7c6ad0b22f4]: Commencement: Reg. 2 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
+[^c-14e519984a1e9a4ca050f7c6ad0b22f4]: Commencement: Reg. 2 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
 
 [^f00003]: Footnote: [S.S.I. 2008/82](https://www.legislation.gov.uk/ssi/2008/82) as amended by [S.S.I. 2008/334](https://www.legislation.gov.uk/ssi/2008/334).
 
-[^key-d010b0b0f293925f020e2e1f1f58293f]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/367/regulation/3) revoked (1.4.2015) by [The Bankruptcy (Scotland) Regulations 2014 (S.S.I. 2014/225)](https://www.legislation.gov.uk/ssi/2014/225), [regs. 1](https://www.legislation.gov.uk/ssi/2014/225/regulation/1), [23(c)](https://www.legislation.gov.uk/ssi/2014/225/regulation/23/c) (with [reg. 24](https://www.legislation.gov.uk/ssi/2014/225/regulation/24))
+[^c-d010b0b0f293925f020e2e1f1f58293f]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/367/regulation/3) revoked (1.4.2015) by [The Bankruptcy (Scotland) Regulations 2014 (S.S.I. 2014/225)](https://www.legislation.gov.uk/ssi/2014/225), [regs. 1](https://www.legislation.gov.uk/ssi/2014/225/regulation/1), [23(c)](https://www.legislation.gov.uk/ssi/2014/225/regulation/23/c) (with [reg. 24](https://www.legislation.gov.uk/ssi/2014/225/regulation/24))
 
-[^key-178467a3482289543c5401bf6e342a5d]: Commencement: Reg. 4 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
+[^c-178467a3482289543c5401bf6e342a5d]: Commencement: Reg. 4 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
 
-[^key-8db453c75b5e8032eead71b7e0ce9878]: Commencement: Reg. 5 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
+[^c-8db453c75b5e8032eead71b7e0ce9878]: Commencement: Reg. 5 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
 
-[^key-41bffde83a29bb3af64592660e61d856]: Commencement: Reg. 6 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
+[^c-41bffde83a29bb3af64592660e61d856]: Commencement: Reg. 6 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
 
-[^key-200efbf76ca7b94e8417ed6c6e285831]: Commencement: Reg. 7 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
+[^c-200efbf76ca7b94e8417ed6c6e285831]: Commencement: Reg. 7 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
 
-[^key-4ac10b7052673a362d8f5e39f07deb3b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2010/367/schedule/1) revoked (1.4.2015) by [The Bankruptcy (Scotland) Regulations 2014 (S.S.I. 2014/225)](https://www.legislation.gov.uk/ssi/2014/225), [regs. 1](https://www.legislation.gov.uk/ssi/2014/225/regulation/1), [23(c)](https://www.legislation.gov.uk/ssi/2014/225/regulation/23/c) (with [reg. 24](https://www.legislation.gov.uk/ssi/2014/225/regulation/24))
+[^c-4ac10b7052673a362d8f5e39f07deb3b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2010/367/schedule/1) revoked (1.4.2015) by [The Bankruptcy (Scotland) Regulations 2014 (S.S.I. 2014/225)](https://www.legislation.gov.uk/ssi/2014/225), [regs. 1](https://www.legislation.gov.uk/ssi/2014/225/regulation/1), [23(c)](https://www.legislation.gov.uk/ssi/2014/225/regulation/23/c) (with [reg. 24](https://www.legislation.gov.uk/ssi/2014/225/regulation/24))
 
-[^key-26dc812933c56014481cfdcaa6f12212]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2010/367/schedule/2) revoked (1.4.2015) by [The Bankruptcy (Scotland) Regulations 2014 (S.S.I. 2014/225)](https://www.legislation.gov.uk/ssi/2014/225), [regs. 1](https://www.legislation.gov.uk/ssi/2014/225/regulation/1), [23(c)](https://www.legislation.gov.uk/ssi/2014/225/regulation/23/c) (with [reg. 24](https://www.legislation.gov.uk/ssi/2014/225/regulation/24))
+[^c-26dc812933c56014481cfdcaa6f12212]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2010/367/schedule/2) revoked (1.4.2015) by [The Bankruptcy (Scotland) Regulations 2014 (S.S.I. 2014/225)](https://www.legislation.gov.uk/ssi/2014/225), [regs. 1](https://www.legislation.gov.uk/ssi/2014/225/regulation/1), [23(c)](https://www.legislation.gov.uk/ssi/2014/225/regulation/23/c) (with [reg. 24](https://www.legislation.gov.uk/ssi/2014/225/regulation/24))
 
-[^key-facdf25ac3be640b6e47335dbc8997b8]: Commencement: Sch. 3 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
+[^c-facdf25ac3be640b6e47335dbc8997b8]: Commencement: Sch. 3 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
 
-[^key-885ebc08526963cfd903495dce7d457f]: Commencement: Sch. 4 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
+[^c-885ebc08526963cfd903495dce7d457f]: Commencement: Sch. 4 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
 
-[^key-aef541394c941b253827212bab844fb8]: Commencement: Sch. 5 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)
+[^c-aef541394c941b253827212bab844fb8]: Commencement: Sch. 5 in force at 15.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/367/regulation/1)

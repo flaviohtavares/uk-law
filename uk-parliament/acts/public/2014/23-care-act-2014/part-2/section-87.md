@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Rights of appeal[^key-b1a2d363095d6db60a2d4ff248a61569]
+## 87. Rights of appeal[^c-b1a2d363095d6db60a2d4ff248a61569]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1a2d363095d6db60a2d4ff248a61569]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2014/23/section/87) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/b)
+[^c-b1a2d363095d6db60a2d4ff248a61569]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2014/23/section/87) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Food and drink provided at Academies[^key-7f305b077d44adc4d5ad8189afd4f9d6]
+## 31. Food and drink provided at Academies[^c-7f305b077d44adc4d5ad8189afd4f9d6]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f305b077d44adc4d5ad8189afd4f9d6]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2026/21/section/31) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-7f305b077d44adc4d5ad8189afd4f9d6]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2026/21/section/31) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)

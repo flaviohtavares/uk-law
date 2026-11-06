@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Offence relating to applications for registration[^key-fa96b777a6d2a100b4fdd30a4756abd4]
+## 112. Offence relating to applications for registration[^c-fa96b777a6d2a100b4fdd30a4756abd4]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa96b777a6d2a100b4fdd30a4756abd4]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2012/5/section/112) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-fa96b777a6d2a100b4fdd30a4756abd4]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2012/5/section/112) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

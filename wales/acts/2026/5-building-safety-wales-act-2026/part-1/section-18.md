@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Registers of category 1 buildings and category 2 buildings[^key-ae26c5d2e1aa7f6df9954a8cea3d1b3d]
+## 18. Registers of category 1 buildings and category 2 buildings[^c-ae26c5d2e1aa7f6df9954a8cea3d1b3d]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae26c5d2e1aa7f6df9954a8cea3d1b3d]: Commencement: S. 18 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-ae26c5d2e1aa7f6df9954a8cea3d1b3d]: Commencement: S. 18 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

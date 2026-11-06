@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Shaft construction and modification[^key-a603317c560a4e698b9f6a9d5dd507c2]
+## 36. Shaft construction and modification[^c-a603317c560a4e698b9f6a9d5dd507c2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The mine operator shall ensure that, so far as is reasonably practicable, the co
 
 ## Annotations
 
-[^key-a603317c560a4e698b9f6a9d5dd507c2]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2016/427/regulation/36) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-a603317c560a4e698b9f6a9d5dd507c2]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2016/427/regulation/36) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

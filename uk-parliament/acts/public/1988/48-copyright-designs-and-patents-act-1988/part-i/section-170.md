@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-4071d7097a5299307190d9125bb3b301] Schedule 1 contains transitional provisions and savings relating to works made, and acts or events occurring, before the commencement of this Part, and otherwise with respect to the operation of the provisions of this Part.
+(1)[^c-4071d7097a5299307190d9125bb3b301] Schedule 1 contains transitional provisions and savings relating to works made, and acts or events occurring, before the commencement of this Part, and otherwise with respect to the operation of the provisions of this Part.
 
-(2)[^key-9a55196a17fd5431bda5a95df042dd21] The Secretary of State may by regulations amend Schedule 1 to reduce the duration of copyright in existing works which are unpublished, other than photographs or films.
+(2)[^c-9a55196a17fd5431bda5a95df042dd21] The Secretary of State may by regulations amend Schedule 1 to reduce the duration of copyright in existing works which are unpublished, other than photographs or films.
 
-(3)[^key-d771877b05ec5a0e4057c2012ac72c35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d771877b05ec5a0e4057c2012ac72c35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) “ **Existing works** ” has the same meaning as in Schedule 1.
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4071d7097a5299307190d9125bb3b301]: Textual amendment: S. 170 renumbered as s. 170(1) (25.4.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 76(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/76/2), [103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1)
+[^c-4071d7097a5299307190d9125bb3b301]: Textual amendment: S. 170 renumbered as s. 170(1) (25.4.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 76(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/76/2), [103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1)
 
-[^key-9a55196a17fd5431bda5a95df042dd21]: Textual amendment: S. 170(2)-(7) inserted (25.4.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 76(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/76/3), [103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1)
+[^c-9a55196a17fd5431bda5a95df042dd21]: Textual amendment: S. 170(2)-(7) inserted (25.4.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 76(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/76/3), [103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1)
 
-[^key-d771877b05ec5a0e4057c2012ac72c35]: Textual amendment: S. 170(3) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2019/605/regulation/17) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
+[^c-d771877b05ec5a0e4057c2012ac72c35]: Textual amendment: S. 170(3) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2019/605/regulation/17) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)

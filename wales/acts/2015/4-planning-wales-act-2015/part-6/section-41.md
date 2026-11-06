@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Power to make provision enabling joint planning boards to exercise development management functions in National Parks[^c22542971][^key-8b318f8bc68049027c5f70c488a80907]
+## 41. Power to make provision enabling joint planning boards to exercise development management functions in National Parks[^c22542971][^c-8b318f8bc68049027c5f70c488a80907]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^c22542971]: Commencement: [S. 41](https://www.legislation.gov.uk/anaw/2015/4/section/41) partly in force; [s. 41](https://www.legislation.gov.uk/anaw/2015/4/section/41) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-8b318f8bc68049027c5f70c488a80907]: Commencement: [S. 41](https://www.legislation.gov.uk/anaw/2015/4/section/41) in force at 16.3.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 4(c)](https://www.legislation.gov.uk/wsi/2015/1987/article/4/c)
+[^c-8b318f8bc68049027c5f70c488a80907]: Commencement: [S. 41](https://www.legislation.gov.uk/anaw/2015/4/section/41) in force at 16.3.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 4(c)](https://www.legislation.gov.uk/wsi/2015/1987/article/4/c)

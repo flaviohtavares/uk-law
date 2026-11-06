@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Any person who is, or has been, employed in employment to which this paragraph[^key-aa57cab9a99333a713f1587f2c2670f5] applies is guilty of an offence if, without lawful authority, he discloses any information which—
+(1) Any person who is, or has been, employed in employment to which this paragraph[^c-aa57cab9a99333a713f1587f2c2670f5] applies is guilty of an offence if, without lawful authority, he discloses any information which—
 
 - (a) was acquired by him in the course of that employment; and
 - (b) relates to a particular person.
 
-(1A)[^key-71852f993f8fef5c7d6b011b09bc7bb4] Paragraph (1) applies to employment as—
+(1A)[^c-71852f993f8fef5c7d6b011b09bc7bb4] Paragraph (1) applies to employment as—
 
 - (a) the Chief Child Support Officer;
 - (b) any other child support officer;
@@ -61,7 +61,7 @@ and to employment of any other kind which is prescribed for the purposes of this
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine or both; or
 - (b) on summary conviction, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum or both.
 
-(5)[^key-1620a619926a8b51389c0c11c2ad0a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1620a619926a8b51389c0c11c2ad0a63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) For the purposes of this Article a disclosure is to be regarded as made with lawful authority if, and only if, it is made—
 
@@ -92,11 +92,11 @@ and to employment of any other kind which is prescribed for the purposes of this
 
 ## Annotations
 
-[^key-aa57cab9a99333a713f1587f2c2670f5]: Textual amendment: Words in [art. 46(1)](https://www.legislation.gov.uk/nisi/1991/2628/article/46/1) substituted (1.11.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 4 para. 1(18)](https://www.legislation.gov.uk/nia/2008/10/schedule/4/paragraph/1/18); [S.R. 2008/419](https://www.legislation.gov.uk/nisr/2008/419), [art. 3(c)](https://www.legislation.gov.uk/nisr/2008/419/article/3/c)
+[^c-aa57cab9a99333a713f1587f2c2670f5]: Textual amendment: Words in [art. 46(1)](https://www.legislation.gov.uk/nisi/1991/2628/article/46/1) substituted (1.11.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 4 para. 1(18)](https://www.legislation.gov.uk/nia/2008/10/schedule/4/paragraph/1/18); [S.R. 2008/419](https://www.legislation.gov.uk/nisr/2008/419), [art. 3(c)](https://www.legislation.gov.uk/nisr/2008/419/article/3/c)
 
-[^key-71852f993f8fef5c7d6b011b09bc7bb4]: Textual amendment: [Art. 46(1A)-(1C)](https://www.legislation.gov.uk/nisi/1991/2628/article/46/1A) inserted (1.11.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 4 para. 1(19)](https://www.legislation.gov.uk/nia/2008/10/schedule/4/paragraph/1/19); [S.R. 2008/419](https://www.legislation.gov.uk/nisr/2008/419), [art. 3(c)](https://www.legislation.gov.uk/nisr/2008/419/article/3/c)
+[^c-71852f993f8fef5c7d6b011b09bc7bb4]: Textual amendment: [Art. 46(1A)-(1C)](https://www.legislation.gov.uk/nisi/1991/2628/article/46/1A) inserted (1.11.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 4 para. 1(19)](https://www.legislation.gov.uk/nia/2008/10/schedule/4/paragraph/1/19); [S.R. 2008/419](https://www.legislation.gov.uk/nisr/2008/419), [art. 3(c)](https://www.legislation.gov.uk/nisr/2008/419/article/3/c)
 
-[^key-1620a619926a8b51389c0c11c2ad0a63]: Textual amendment: [Art. 46(5)](https://www.legislation.gov.uk/nisi/1991/2628/article/46/5) repealed (1.11.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5); [S.R. 2008/419](https://www.legislation.gov.uk/nisr/2008/419), [art. 3(d)(i)](https://www.legislation.gov.uk/nisr/2008/419/article/3/d/i)
+[^c-1620a619926a8b51389c0c11c2ad0a63]: Textual amendment: [Art. 46(5)](https://www.legislation.gov.uk/nisi/1991/2628/article/46/5) repealed (1.11.2008) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 5](https://www.legislation.gov.uk/nia/2008/10/schedule/5); [S.R. 2008/419](https://www.legislation.gov.uk/nisr/2008/419), [art. 3(d)(i)](https://www.legislation.gov.uk/nisr/2008/419/article/3/d/i)
 
 [^c16852611]: Marginal citation: [1986 NI 4](https://www.legislation.gov.uk/1986/ni4)
 

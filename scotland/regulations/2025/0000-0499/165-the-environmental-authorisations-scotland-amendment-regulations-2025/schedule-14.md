@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 14 — NEW SCHEDULE 23 TO BE ADDED INTO THE 2018 REGULATIONS[^key-8162b9c76cb658976d934d17804c2e6b][^key-937dc31761dbc1e252f7fc7ebd100b2c]
+## SCHEDULE 14 — NEW SCHEDULE 23 TO BE ADDED INTO THE 2018 REGULATIONS[^c-8162b9c76cb658976d934d17804c2e6b][^c-937dc31761dbc1e252f7fc7ebd100b2c]
 
 *Extent: S*
 
@@ -456,9 +456,9 @@ Regulation 9(2)
 
 ## Annotations
 
-[^key-8162b9c76cb658976d934d17804c2e6b]: Commencement: [Sch. 14](https://www.legislation.gov.uk/ssi/2025/165/schedule/14) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
+[^c-8162b9c76cb658976d934d17804c2e6b]: Commencement: [Sch. 14](https://www.legislation.gov.uk/ssi/2025/165/schedule/14) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/ii/5)
 
-[^key-937dc31761dbc1e252f7fc7ebd100b2c]: Commencement: [Sch. 14](https://www.legislation.gov.uk/ssi/2025/165/schedule/14) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-937dc31761dbc1e252f7fc7ebd100b2c]: Commencement: [Sch. 14](https://www.legislation.gov.uk/ssi/2025/165/schedule/14) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
 
 [^f00079]: Footnote: EUR 1907/2006, amended by [S.I. 2019/720](https://www.legislation.gov.uk/uksi/2019/720), [S.I. 2019/758](https://www.legislation.gov.uk/uksi/2019/758) and [S.I. 2021/904](https://www.legislation.gov.uk/uksi/2021/904).
 

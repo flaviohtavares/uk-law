@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Restrictions on power to make payments[^key-c89cea300588bc884d7c13536248539f]
+## 89. Restrictions on power to make payments[^c-c89cea300588bc884d7c13536248539f]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c89cea300588bc884d7c13536248539f]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2018/9/section/89) in force at 1.4.2024 by [S.S.I. 2024/57](https://www.legislation.gov.uk/ssi/2024/57), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2024/57/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/57/regulation/3))
+[^c-c89cea300588bc884d7c13536248539f]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2018/9/section/89) in force at 1.4.2024 by [S.S.I. 2024/57](https://www.legislation.gov.uk/ssi/2024/57), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2024/57/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/57/regulation/3))

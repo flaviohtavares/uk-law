@@ -56,7 +56,7 @@ In accordance with paragraph 2(2) of Schedule 2 to the 1972 Act and paragraph 1(
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-5d5724eb12f8608d7731511882474b4c]
+### 1. Citation and commencement[^c-5d5724eb12f8608d7731511882474b4c]
 
 (1) These Regulations may be cited as the Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2019.
 
@@ -67,7 +67,7 @@ In accordance with paragraph 2(2) of Schedule 2 to the 1972 Act and paragraph 1(
 
 ## PART 2 — Amendment of out of date references
 
-### 2. The Fertilisers Regulations 1991[^key-f2e4682c64b0143415bafd3b0983e46f]
+### 2. The Fertilisers Regulations 1991[^c-f2e4682c64b0143415bafd3b0983e46f]
 
 (1) The Fertilisers Regulations 1991 [^c23644051] are amended as follows.
 
@@ -130,11 +130,11 @@ In accordance with paragraph 2(2) of Schedule 2 to the 1972 Act and paragraph 1(
 
 (16) In Part 2, in paragraph 2 omit the words from the beginning to “EC fertiliser,”.
 
-### 3. The Ammonium Nitrate Materials (High Nitrogen Content) Safety Regulations 2003[^key-19302c35f102306b7e5c8ee4194c132c]
+### 3. The Ammonium Nitrate Materials (High Nitrogen Content) Safety Regulations 2003[^c-19302c35f102306b7e5c8ee4194c132c]
 
 In Schedule 2 to the Ammonium Nitrate Materials (High Nitrogen Content) Safety Regulations 2003 [^c23644061], in paragraph 12, in notes 1 and 2, for the words from “Annex II” to “87/94/EEC” substitute “ Annex 3 to Regulation [(EC) No 2003/2003](https://www.legislation.gov.uk/eur/2003/2003) of the European Parliament and of the Council relating to fertilisers [^c23644071] ”.
 
-### 4. The EC Fertilisers (England and Wales) Regulations 2006[^key-2a0040f451acca77547fe8c87a161001]
+### 4. The EC Fertilisers (England and Wales) Regulations 2006[^c-2a0040f451acca77547fe8c87a161001]
 
 (1) The EC Fertilisers (England and Wales) Regulations 2006 [^c23644081] are amended as follows.
 
@@ -155,7 +155,7 @@ In Schedule 2 to the Ammonium Nitrate Materials (High Nitrogen Content) Safety R
 
 ## PART 3 — Amendment of retained direct EU legislation
 
-### 5. Regulation [(EC) No 2003/2003](https://www.legislation.gov.uk/eur/2003/2003) of the European Parliament and of the Council relating to fertilisers[^key-958fe72cc1b33f11d8a0f137fd592173]
+### 5. Regulation [(EC) No 2003/2003](https://www.legislation.gov.uk/eur/2003/2003) of the European Parliament and of the Council relating to fertilisers[^c-958fe72cc1b33f11d8a0f137fd592173]
 
 (1) Regulation [(EC) No 2003/2003](https://www.legislation.gov.uk/eur/2003/2003) of the European Parliament and of the Council relating to fertilisers is amended as follows.
 
@@ -179,7 +179,7 @@ In Schedule 2 to the Ammonium Nitrate Materials (High Nitrogen Content) Safety R
 
     ;
   - (iii) in point (w), for “customs territory of the European Community” substitute “ United Kingdom ”;
-  - (iv)[^key-29affe8352faf5d6ed374df0281d97c9] after point (x) insert—
+  - (iv)[^c-29affe8352faf5d6ed374df0281d97c9] after point (x) insert—
 
     > - (y) “Appropriate authority” means:
     >   - (i) in relation to a decision in respect of ammonium nitrate fertilisers of high nitrogen content where the decision is outside devolved competence, the Secretary of State;
@@ -198,7 +198,7 @@ In Schedule 2 to the Ammonium Nitrate Materials (High Nitrogen Content) Safety R
     ;
 - (c) after that paragraph insert—
 
-  > **2.[^key-ebd40f9bf485388dcd041dc83f1449a4]**
+  > **2.[^c-ebd40f9bf485388dcd041dc83f1449a4]**
   >
   > References in this Regulation to devolved competence are to be read in accordance with the following provisions:
   >
@@ -388,17 +388,17 @@ In Schedule 2 to the Ammonium Nitrate Materials (High Nitrogen Content) Safety R
 - (a) omit Section A;
 - (b) in section B, in paragraph 1 omit the second indent.
 
-### 6. The EEA agreement[^key-3d1e4de555d0a5f8123b06e486116ec4]
+### 6. The EEA agreement[^c-3d1e4de555d0a5f8123b06e486116ec4]
 
 In Annex 2 to the EEA agreement, in Chapter 14 (fertilisers), in point 1 omit the words from “The provisions of the Regulation shall” to the end.
 
 ## PART 4 — Amendment of primary and secondary legislation
 
-### 7. The Agriculture Act 1970[^key-9b5c8ce26fac8e33c559b555e0b4b1b2]
+### 7. The Agriculture Act 1970[^c-9b5c8ce26fac8e33c559b555e0b4b1b2]
 
 In section 74A(4) of the Agriculture Act 1970 [^c23644131], for “implementing or supplementing any EU instrument” substitute “ supplementing retained direct EU legislation ”.
 
-### 8. The Fertilisers Regulations 1991[^key-137c921c0172a42f96b08491ea894c12]
+### 8. The Fertilisers Regulations 1991[^c-137c921c0172a42f96b08491ea894c12]
 
 (1) The Fertilisers Regulations 1991 are amended as follows.
 
@@ -408,13 +408,13 @@ In section 74A(4) of the Agriculture Act 1970 [^c23644131], for “implementing 
 
 > **2B. Scope: “EC fertilisers”**
 >
-> These Regulations do not apply to fertilisers designated as “EC fertilisers” which comply with the requirements set out in Regulation [(EC) No 2003/2003](https://www.legislation.gov.uk/eur/2003/2003) [^c23644141] as it has effect in EU law as amended from time to time, where those fertilisers are placed on the market before the end of the period of two years beginning with IP completion day[^key-19e17afbad6abbbf009ea0df7fa012b7].
+> These Regulations do not apply to fertilisers designated as “EC fertilisers” which comply with the requirements set out in Regulation [(EC) No 2003/2003](https://www.legislation.gov.uk/eur/2003/2003) [^c23644141] as it has effect in EU law as amended from time to time, where those fertilisers are placed on the market before the end of the period of two years beginning with IP completion day[^c-19e17afbad6abbbf009ea0df7fa012b7].
 
 .
 
 (4) In Schedule 2, in Part 1, in paragraph 1(j), for “European Union” substitute “ United Kingdom ”.
 
-### 9. The Ammonium Nitrate Materials (High Nitrogen Content) Safety Regulations 2003[^key-913b5d8f01479a51354b7a1db84d6209]
+### 9. The Ammonium Nitrate Materials (High Nitrogen Content) Safety Regulations 2003[^c-913b5d8f01479a51354b7a1db84d6209]
 
 (1) The Ammonium Nitrate Materials (High Nitrogen Content) Safety Regulations 2003 are amended as follows.
 
@@ -449,7 +449,7 @@ In section 74A(4) of the Agriculture Act 1970 [^c23644131], for “implementing 
 
 > **13. Transitional provision**
 >
-> (1) This regulation applies to relevant ammonium nitrate material imported into Great Britain from within the European Union, where that material is imported into Great Britain before the end of the period of two years beginning with IP completion day[^key-f941a5e64aa1518344f8293d1ab1a1dc].
+> (1) This regulation applies to relevant ammonium nitrate material imported into Great Britain from within the European Union, where that material is imported into Great Britain before the end of the period of two years beginning with IP completion day[^c-f941a5e64aa1518344f8293d1ab1a1dc].
 >
 > (2) In regulation 2(2)(a), the definition of “competent laboratory” applies as if the reference to the United Kingdom were a reference to the United Kingdom and the European Union.
 >
@@ -459,7 +459,7 @@ In section 74A(4) of the Agriculture Act 1970 [^c23644131], for “implementing 
 
 (7) In Schedule 3, in the words before sub-paragraph (a) omit “outside the European Union”.
 
-### 10. The EC Fertilisers (England and Wales) Regulations 2006[^key-114872ea79d5ef7c18bffd0b4906291b]
+### 10. The EC Fertilisers (England and Wales) Regulations 2006[^c-114872ea79d5ef7c18bffd0b4906291b]
 
 (1) The EC Fertilisers (England and Wales) Regulations 2006 are amended as follows.
 
@@ -511,44 +511,44 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23644041]: Marginal citation: [S.I. 1976/897](https://www.legislation.gov.uk/uksi/1976/897), to which there is an amendment not relevant to these Regulations.
 
-[^key-5d5724eb12f8608d7731511882474b4c]: Commencement: Reg. 1 in force at 15.3.2019, see reg. 1(2)(a)
+[^c-5d5724eb12f8608d7731511882474b4c]: Commencement: Reg. 1 in force at 15.3.2019, see reg. 1(2)(a)
 
-[^key-f2e4682c64b0143415bafd3b0983e46f]: Commencement: Reg. 2 in force at 15.3.2019, see reg. 1(2)(a)
+[^c-f2e4682c64b0143415bafd3b0983e46f]: Commencement: Reg. 2 in force at 15.3.2019, see reg. 1(2)(a)
 
 [^c23644051]: Marginal citation: [S.I. 1991/2197](https://www.legislation.gov.uk/uksi/1991/2197), amended by [S.I. 1995/16](https://www.legislation.gov.uk/uksi/1995/16), 1998/2024, 2011/1043; there is another amending instrument but it is not relevant.
 
-[^key-19302c35f102306b7e5c8ee4194c132c]: Commencement: Reg. 3 in force at 15.3.2019, see reg. 1(2)(a)
+[^c-19302c35f102306b7e5c8ee4194c132c]: Commencement: Reg. 3 in force at 15.3.2019, see reg. 1(2)(a)
 
 [^c23644061]: Marginal citation: [S.I. 2003/1082](https://www.legislation.gov.uk/uksi/2003/1082), to which there are amendments not relevant to these Regulations.
 
 [^c23644071]: Marginal citation: OJ No L 304 21.11.2003, p 1, as last amended by Commission Regulation (EU) 2016/1618 (OJ No L 242, 9.9.2016, p 24).
 
-[^key-2a0040f451acca77547fe8c87a161001]: Commencement: Reg. 4 in force at 15.3.2019, see reg. 1(2)(a)
+[^c-2a0040f451acca77547fe8c87a161001]: Commencement: Reg. 4 in force at 15.3.2019, see reg. 1(2)(a)
 
 [^c23644081]: Marginal citation: [S.I. 2006/2486](https://www.legislation.gov.uk/uksi/2006/2486), amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-958fe72cc1b33f11d8a0f137fd592173]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-958fe72cc1b33f11d8a0f137fd592173]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-29affe8352faf5d6ed374df0281d97c9]: Textual amendment: Reg. 5(3)(b)(iv) substituted (27.2.2021) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/207)](https://www.legislation.gov.uk/uksi/2021/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/207/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/207/regulation/2/2/a)
+[^c-29affe8352faf5d6ed374df0281d97c9]: Textual amendment: Reg. 5(3)(b)(iv) substituted (27.2.2021) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/207)](https://www.legislation.gov.uk/uksi/2021/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/207/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/207/regulation/2/2/a)
 
-[^key-ebd40f9bf485388dcd041dc83f1449a4]: Textual amendment: Words in reg. 5(3)(c) substituted (27.2.2021) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/207)](https://www.legislation.gov.uk/uksi/2021/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/207/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/207/regulation/2/2/b)
+[^c-ebd40f9bf485388dcd041dc83f1449a4]: Textual amendment: Words in reg. 5(3)(c) substituted (27.2.2021) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/207)](https://www.legislation.gov.uk/uksi/2021/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/207/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/207/regulation/2/2/b)
 
 [^M_F_17f79965-2eba-43d6-a867-c5e2ff51fd72]: Textual amendment: Words in reg. 5(16) substituted (27.2.2021) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/207)](https://www.legislation.gov.uk/uksi/2021/207), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/207/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/207/regulation/2/2/c)
 
-[^key-3d1e4de555d0a5f8123b06e486116ec4]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-3d1e4de555d0a5f8123b06e486116ec4]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-9b5c8ce26fac8e33c559b555e0b4b1b2]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-9b5c8ce26fac8e33c559b555e0b4b1b2]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23644131]: Marginal citation: [1970 c. 40](https://www.legislation.gov.uk/ukpga/1970/40). Section 74A was inserted by the European Communities Act 1972, Schedule 4, paragraph 6; subsection (4) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-137c921c0172a42f96b08491ea894c12]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-137c921c0172a42f96b08491ea894c12]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23644141]: Marginal citation: OJ No L 304, 21.11.2003, p 1, as last amended by Commission Regulation (EU) 2016/1618 (OJ No L 242, 9.9.2016, p 24).
 
-[^key-19e17afbad6abbbf009ea0df7fa012b7]: Textual amendment: Words in reg. 8(3) substituted (31.12.2020 immediately before IP completion day) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/998)](https://www.legislation.gov.uk/uksi/2020/998), [regs. 1](https://www.legislation.gov.uk/uksi/2020/998/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/998/regulation/2/2)
+[^c-19e17afbad6abbbf009ea0df7fa012b7]: Textual amendment: Words in reg. 8(3) substituted (31.12.2020 immediately before IP completion day) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/998)](https://www.legislation.gov.uk/uksi/2020/998), [regs. 1](https://www.legislation.gov.uk/uksi/2020/998/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/998/regulation/2/2)
 
-[^key-913b5d8f01479a51354b7a1db84d6209]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-913b5d8f01479a51354b7a1db84d6209]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-f941a5e64aa1518344f8293d1ab1a1dc]: Textual amendment: Words in reg. 9(6) substituted (31.12.2020 immediately before IP completion day) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/998)](https://www.legislation.gov.uk/uksi/2020/998), [regs. 1](https://www.legislation.gov.uk/uksi/2020/998/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/998/regulation/2/3)
+[^c-f941a5e64aa1518344f8293d1ab1a1dc]: Textual amendment: Words in reg. 9(6) substituted (31.12.2020 immediately before IP completion day) by [The Fertilisers and Ammonium Nitrate Material (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/998)](https://www.legislation.gov.uk/uksi/2020/998), [regs. 1](https://www.legislation.gov.uk/uksi/2020/998/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/998/regulation/2/3)
 
-[^key-114872ea79d5ef7c18bffd0b4906291b]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-114872ea79d5ef7c18bffd0b4906291b]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)

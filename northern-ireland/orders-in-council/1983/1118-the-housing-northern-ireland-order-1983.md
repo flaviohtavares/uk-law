@@ -75,7 +75,7 @@ This Order may be cited as the Housing (Northern Ireland) Order 1983 and shall c
 
 (6) The Executive may at any time, and if the Department so directs shall, submit to the Department proposals amending a scheme approved under paragraph (4) or a scheme replacing any such scheme; and paragraphs (3) to (5) shall have effect in relation to those proposals or a scheme replacing an existing scheme as they have effect in relation to a scheme.
 
-#### 3A. House sales by registered housing associations[^key-231b0f35f0fcf14701783882bfe0ae05]
+#### 3A. House sales by registered housing associations[^c-231b0f35f0fcf14701783882bfe0ae05]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -995,7 +995,7 @@ Article 25 (1).
 
 ### Land acquired for development
 
-**3.** A tenancy is not a secure tenancy if the dwelling-house is on land which has been acquired for development (within the meaning of section 23 of the Planning Act (Northern Ireland) 2011[^key-54022c65e4ddc7d242ca4bdf27da2606] ) and the dwelling-house is used by the landlord, pending development of the land, as temporary housing accommodation.
+**3.** A tenancy is not a secure tenancy if the dwelling-house is on land which has been acquired for development (within the meaning of section 23 of the Planning Act (Northern Ireland) 2011[^c-54022c65e4ddc7d242ca4bdf27da2606] ) and the dwelling-house is used by the landlord, pending development of the land, as temporary housing accommodation.
 
 ### Accommodation for homeless persons[^c20335741]
 
@@ -1007,9 +1007,9 @@ Article 25 (1).
 
 (2) A tenancy mentioned in sub‐paragraph (1) becomes a secure tenancy if the landlord notifies the tenant that it is to be reguarded as a secure tenancy.
 
-### ...[^key-77212613cada82ab930d0bba019d80c3]
+### ...[^c-77212613cada82ab930d0bba019d80c3]
 
-**3B.**[^key-77212613cada82ab930d0bba019d80c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3B.**[^c-77212613cada82ab930d0bba019d80c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Temporary letting to person seeking accommodation
 
@@ -1276,7 +1276,7 @@ Article 108.
 
 [^c20336741]: Textual amendment: [Chapter 1](https://www.legislation.gov.uk/nisi/1983/1118/part/1) (arts. 3, 4) substituted for Chapter 1 (arts. 3-23) by 1992/1725 (NI 15), art. 96(1)(2).
 
-[^key-231b0f35f0fcf14701783882bfe0ae05]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/nisi/1983/1118/article/3A) repealed (29.8.2022) by [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 7(1)](https://www.legislation.gov.uk/nia/2020/5/section/7/1), [10(1)](https://www.legislation.gov.uk/nia/2020/5/section/10/1) (with [s. 7(2)](https://www.legislation.gov.uk/nia/2020/5/section/7/2))
+[^c-231b0f35f0fcf14701783882bfe0ae05]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/nisi/1983/1118/article/3A) repealed (29.8.2022) by [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 7(1)](https://www.legislation.gov.uk/nia/2020/5/section/7/1), [10(1)](https://www.legislation.gov.uk/nia/2020/5/section/10/1) (with [s. 7(2)](https://www.legislation.gov.uk/nia/2020/5/section/7/2))
 
 [^c20336781]: Textual amendment: [Chapter 1](https://www.legislation.gov.uk/nisi/1983/1118/part/1) (arts. 3, 4) substituted for Chapter 1 (arts. 3-23) by 1992/1725 (NI 15), art. 96(1)(2).
 
@@ -1370,7 +1370,7 @@ Article 108.
 
 [^c17507451]: Textual amendment: [2003 NI 2](https://www.legislation.gov.uk/2003/ni2)
 
-[^key-54022c65e4ddc7d242ca4bdf27da2606]: Textual amendment: Words in Sch. 2 para. 3 substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 46](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/46) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-54022c65e4ddc7d242ca4bdf27da2606]: Textual amendment: Words in Sch. 2 para. 3 substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 46](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/46) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
 [^c20335741]: Textual amendment: [2003 NI 2](https://www.legislation.gov.uk/2003/ni2)
 
@@ -1378,7 +1378,7 @@ Article 108.
 
 [^c19794471]: Textual amendment: Words in [Sch. 2 para. 3A(1)](https://www.legislation.gov.uk/nisi/1983/1118/schedule/2/paragraph/3A/1) substituted (16.6.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 43(4)(b)](https://www.legislation.gov.uk/ukpga/2006/13/section/43/4/b), [62](https://www.legislation.gov.uk/ukpga/2006/13/section/62); [S.I. 2006/1497](https://www.legislation.gov.uk/uksi/2006/1497), [art. 3](https://www.legislation.gov.uk/uksi/2006/1497/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/1497/schedule)
 
-[^key-77212613cada82ab930d0bba019d80c3]: Textual amendment: Sch. 2 para. 3B and cross-heading repealed (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/745/schedule/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-77212613cada82ab930d0bba019d80c3]: Textual amendment: Sch. 2 para. 3B and cross-heading repealed (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/745/schedule/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c17507521]: Textual amendment: [1986 NI 13](https://www.legislation.gov.uk/1986/ni13)
 

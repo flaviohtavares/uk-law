@@ -62,7 +62,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 - “**the 1993 Act**” means the Pension Schemes Act 1993;
 - “**the 1995 Act**” means the Pensions Act 1995;
 - “**the 2004 Act**” means the Pensions Act 2004;
-- [^key-2a6d354d144b9dfa72a2378dc1adf2ee]...
+- [^c-2a6d354d144b9dfa72a2378dc1adf2ee]...
 - “**employer**”, in relation to an occupational pension scheme, means the employer of persons in the description of employment to which the scheme relates;
 - “**the general levy**” means the levy imposed under section 175 of the 1993 Act by regulation 3(1) or (2);
 - “**managers**” has the same meaning as in the 2004 Act (see section 318 of that Act);
@@ -83,11 +83,11 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 - “trustees”, in the case of a scheme which is not set up under a trust, means the managers of the scheme;
 - “**unallocated assets**”, in relation to a scheme, means any assets of the scheme which have not been specifically allocated for the provision of benefits to or in respect of members (whether generally or individually).
 
-(2)[^key-0b7efcb7b52796f4bc89a2ad9ecaefd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0b7efcb7b52796f4bc89a2ad9ecaefd1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. The general levy
 
-(1) The trustees of each registrable occupational pension scheme[^key-4b48fbdf396acf68d0fba4312b0e18f7]... are liable to pay a levy to the Secretary of State for the purpose of meeting the expenditure referred to in section 175(1) of the 1993 Act, except for expenditure of the Regulatory Authority in connection with its functions in relation to schemes within paragraph (2).
+(1) The trustees of each registrable occupational pension scheme[^c-4b48fbdf396acf68d0fba4312b0e18f7]... are liable to pay a levy to the Secretary of State for the purpose of meeting the expenditure referred to in section 175(1) of the 1993 Act, except for expenditure of the Regulatory Authority in connection with its functions in relation to schemes within paragraph (2).
 
 (2) The trustees of each registrable personal pension scheme are liable to pay a levy to the Secretary of State for the purpose of meeting the expenditure referred to in section 175(1) of the 1993 Act, except for expenditure of the Regulatory Authority in connection with its functions in relation to schemes within paragraph (1).
 
@@ -129,21 +129,21 @@ the reference day is the date on which the scheme becomes a registrable scheme.
 
 ## 6. Amount of the general levy: occupational pension schemes
 
-(1) The amount of the general levy payable for a financial year by virtue of regulation 3(1) in respect of a scheme with the number of members on the reference day that is specified for that financial year for that scheme in column (1) of the appropriate table in Part 1 of the Schedule[^key-db21e71e36b44f21aa1e188e38772fac] is—
+(1) The amount of the general levy payable for a financial year by virtue of regulation 3(1) in respect of a scheme with the number of members on the reference day that is specified for that financial year for that scheme in column (1) of the appropriate table in Part 1 of the Schedule[^c-db21e71e36b44f21aa1e188e38772fac] is—
 
 - (a) the amount specified for such a scheme in column 2 of the table (where M is the number of the scheme's members on the reference day); or
 - (b) if no amount is so specified or an amount which is greater is specified for such a scheme in column 3 of the table, the amount specified for such a scheme in column 3.
 
-(2)[^key-3e697793c8989f03ea20bb504867194b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3e697793c8989f03ea20bb504867194b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 7. Amount of the general levy: personal pension schemes
 
-(1) The amount of the general levy payable for a financial year by virtue of regulation 3(2) in respect of a scheme with the number of members on the reference day that is specified for that financial year in column (1) of the appropriate table in Part 2 of the Schedule[^key-e47174f0bed82da83dee5d6d5098d280] is—
+(1) The amount of the general levy payable for a financial year by virtue of regulation 3(2) in respect of a scheme with the number of members on the reference day that is specified for that financial year in column (1) of the appropriate table in Part 2 of the Schedule[^c-e47174f0bed82da83dee5d6d5098d280] is—
 
 - (a) the amount specified for such a scheme in column 2 of the table (where M is the number of the scheme's members on the reference day); or
 - (b) if no amount is so specified or an amount which is greater is specified for such a scheme in column 3 of the table, the amount specified for such a scheme in column 3.
 
-(2)[^key-07e82ef8f29603653b16286ee171e8dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-07e82ef8f29603653b16286ee171e8dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 8. Waiver
 
@@ -218,7 +218,7 @@ Minister of State,
 
 Department for Work and Pensions
 
-## SCHEDULE — AMOUNT OF THE GENERAL LEVY[^key-f88a449366cf06652d948925041d326e]
+## SCHEDULE — AMOUNT OF THE GENERAL LEVY[^c-f88a449366cf06652d948925041d326e]
 
 Regulations 6(1) and 7(1)
 
@@ -236,7 +236,7 @@ Regulations 6(1) and 7(1)
 
 the scheme shall be treated for the purposes of this Part as a Master Trust scheme.
 
-**2.**[^key-a403902e7eda65d4188a6bd84aa817f4] This table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2024—
+**2.**[^c-a403902e7eda65d4188a6bd84aa817f4] This table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2024—
 
 | Number of members on the reference day | Amount of levy calculated by reference to the number of members (M) | Minimum amount of levy |
 | --- | --- | --- |
@@ -248,7 +248,7 @@ the scheme shall be treated for the purposes of this Part as a Master Trust sche
 | 10,000 to 499,999 | £2.01 multiplied by M | £28,898 |
 | 500,000 or more | £1.52 multiplied by M | £1,004,998. |
 
-**3.**[^key-389140a4523b465cb31fe9027de52748] This table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2025—
+**3.**[^c-389140a4523b465cb31fe9027de52748] This table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2025—
 
 | Number of members on the reference day | Amount of levy calculated by reference to the number of members (M) | Minimum amount of levy |
 | --- | --- | --- |
@@ -260,7 +260,7 @@ the scheme shall be treated for the purposes of this Part as a Master Trust sche
 | 10,000 to 499,999 | £2.14 multiplied by M | £30,697 |
 | 500,000 or more | £1.62 multiplied by M | £1,069,998. |
 
-**4.**[^key-f12defec88ee52499b8b5770654dc5d3] This table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2026—
+**4.**[^c-f12defec88ee52499b8b5770654dc5d3] This table relates to defined benefits schemes and hybrid schemes for the financial year beginning with 1st April 2026—
 
 | Number of members on the reference day | Amount of levy calculated by reference to the number of members (M) | Minimum amount of levy |
 | --- | --- | --- |
@@ -272,7 +272,7 @@ the scheme shall be treated for the purposes of this Part as a Master Trust sche
 | 10,000 to 499,999 | £2.28 multiplied by M | £32,697 |
 | 500,000 or more | £1.73 multiplied by M | £1,139,998. |
 
-**5.**[^key-eddcac0ded14e4e7fb06253d49a1534f] This table relates to money purchase schemes for the financial year beginning with 1st April 2024—
+**5.**[^c-eddcac0ded14e4e7fb06253d49a1534f] This table relates to money purchase schemes for the financial year beginning with 1st April 2024—
 
 | Number of members on the reference day | Amount of levy calculated by reference to the number of members (M) | Minimum amount of levy |
 | --- | --- | --- |
@@ -284,7 +284,7 @@ the scheme shall be treated for the purposes of this Part as a Master Trust sche
 | 10,000 to 499,999 | £1.37 multiplied by M | £19,699 |
 | 500,000 or more | £1.04 multiplied by M | £684,999. |
 
-**6.**[^key-3c19930ff7b5566db9b9b1cc073bc61b] This table relates to money purchase schemes for the financial year beginning with 1st April 2025—
+**6.**[^c-3c19930ff7b5566db9b9b1cc073bc61b] This table relates to money purchase schemes for the financial year beginning with 1st April 2025—
 
 | Number of members on the reference day | Amount of levy calculated by reference to the number of members (M) | Minimum amount of levy |
 | --- | --- | --- |
@@ -296,7 +296,7 @@ the scheme shall be treated for the purposes of this Part as a Master Trust sche
 | 10,000 to 499,999 | £1.46 multiplied by M | £20,998 |
 | 500,000 or more | £1.11 multiplied by M | £729,999. |
 
-**7.**[^key-f9531ea6b75d25ba950bcdd760be3eb2] This table relates to money purchase schemes for the financial year beginning with 1st April 2026—
+**7.**[^c-f9531ea6b75d25ba950bcdd760be3eb2] This table relates to money purchase schemes for the financial year beginning with 1st April 2026—
 
 | Number of members on the reference day | Amount of levy calculated by reference to the number of members (M) | Minimum amount of levy |
 | --- | --- | --- |
@@ -308,7 +308,7 @@ the scheme shall be treated for the purposes of this Part as a Master Trust sche
 | 10,000 to 499,999 | £1.56 multiplied by M | £22,298 |
 | 500,000 or more | £1.18 multiplied by M | £779,999. |
 
-**8.**[^key-3652a55a2cfcf0dcabf952dd3f593183] This table relates to Master Trust schemes for the financial year beginning with 1st April 2024—
+**8.**[^c-3652a55a2cfcf0dcabf952dd3f593183] This table relates to Master Trust schemes for the financial year beginning with 1st April 2024—
 
 | Number of members on the reference day | Amount of levy calculated by reference to the number of members (M) | Minimum amount of levy |
 | --- | --- | --- |
@@ -320,7 +320,7 @@ the scheme shall be treated for the purposes of this Part as a Master Trust sche
 | 10,000 to 499,999 | £1.00 multiplied by M | £14,299 |
 | 500,000 or more | £0.76 multiplied by M | £499,999. |
 
-**9.**[^key-1d45ed9d268ac7bd520bb333afcc2219] This table relates to Master Trust schemes for the financial year beginning with 1st April 2025—
+**9.**[^c-1d45ed9d268ac7bd520bb333afcc2219] This table relates to Master Trust schemes for the financial year beginning with 1st April 2025—
 
 | Number of members on the reference day | Amount of levy calculated by reference to the number of members (M) | Minimum amount of levy |
 | --- | --- | --- |
@@ -332,7 +332,7 @@ the scheme shall be treated for the purposes of this Part as a Master Trust sche
 | 10,000 to 499,999 | £1.07 multiplied by M | £15,199 |
 | 500,000 or more | £0.81 multiplied by M | £534,999. |
 
-**10.**[^key-4e30d5faf8e655444f640cefdc0c7f12] This table relates to Master Trust schemes for the financial year beginning with 1st April 2026—
+**10.**[^c-4e30d5faf8e655444f640cefdc0c7f12] This table relates to Master Trust schemes for the financial year beginning with 1st April 2026—
 
 | Number of members on the reference day | Amount of levy calculated by reference to the number of members (M) | Minimum amount of levy |
 | --- | --- | --- |
@@ -346,7 +346,7 @@ the scheme shall be treated for the purposes of this Part as a Master Trust sche
 
 ### PART 2 — PERSONAL PENSION SCHEMES
 
-**11.**[^key-8431ceee5d0ca9b7edb3936c6661efce] This table relates to the financial year beginning with 1st April 2024—
+**11.**[^c-8431ceee5d0ca9b7edb3936c6661efce] This table relates to the financial year beginning with 1st April 2024—
 
 | Number of members on the reference day | Amount of levy calculated by reference to the number of members (M) | Minimum amount of levy |
 | --- | --- | --- |
@@ -358,7 +358,7 @@ the scheme shall be treated for the purposes of this Part as a Master Trust sche
 | 10,000 to 499,999 | £0.40 multiplied by M | £5,300 |
 | 500,000 or more | £0.30 multiplied by M | £200,000. |
 
-**12.**[^key-e37ac32857215fccdb180df2c2a3acf6] This table relates to the financial year beginning with 1st April 2025—
+**12.**[^c-e37ac32857215fccdb180df2c2a3acf6] This table relates to the financial year beginning with 1st April 2025—
 
 | Number of members on the reference day | Amount of levy calculated by reference to the number of members (M) | Minimum amount of levy |
 | --- | --- | --- |
@@ -370,7 +370,7 @@ the scheme shall be treated for the purposes of this Part as a Master Trust sche
 | 10,000 to 499,999 | £0.43 multiplied by M | £5,700 |
 | 500,000 or more | £0.32 multiplied by M | £215,000. |
 
-**13.**[^key-20c9c241de5efa9c665cc526e3ffbc3e] This table relates to the financial year beginning with 1st April 2026—
+**13.**[^c-20c9c241de5efa9c665cc526e3ffbc3e] This table relates to the financial year beginning with 1st April 2026—
 
 | Number of members on the reference day | Amount of levy calculated by reference to the number of members (M) | Minimum amount of levy |
 | --- | --- | --- |
@@ -412,48 +412,48 @@ An assessment of the impact on business, charities or the voluntary sector of th
 
 [^c1133543]: Marginal citation: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35). *See* [section 185](https://www.legislation.gov.uk/uksi/2005/626/section/185) of the Pension Schemes Act 1993 which provides that the Secretary of State must consult such persons as he may consider appropriate before making regulations for the purposes of section 175 of that Act. This duty does not apply where regulations are made before the end of six months beginning with the coming into force of any enactment upon which the regulations are consequential.
 
-[^key-2a6d354d144b9dfa72a2378dc1adf2ee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/626/regulation/2/1) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2a6d354d144b9dfa72a2378dc1adf2ee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/626/regulation/2/1) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c1133544]: Marginal citation: Section 101B was inserted by section 37 of the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-0b7efcb7b52796f4bc89a2ad9ecaefd1]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2005/626/regulation/2/2) revoked (6.4.2006) by [Occupational Pension Schemes (Republic of Ireland Schemes Exemption (Revocation) and Tax Exempt Schemes (Miscellaneous Amendments)) Regulations 2006 (S.I. 2006/467)](https://www.legislation.gov.uk/uksi/2006/467), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2006/467/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2006/467/regulation/10), [Schs.](https://www.legislation.gov.uk/uksi/2006/467/schedule)
+[^c-0b7efcb7b52796f4bc89a2ad9ecaefd1]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2005/626/regulation/2/2) revoked (6.4.2006) by [Occupational Pension Schemes (Republic of Ireland Schemes Exemption (Revocation) and Tax Exempt Schemes (Miscellaneous Amendments)) Regulations 2006 (S.I. 2006/467)](https://www.legislation.gov.uk/uksi/2006/467), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2006/467/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2006/467/regulation/10), [Schs.](https://www.legislation.gov.uk/uksi/2006/467/schedule)
 
-[^key-4b48fbdf396acf68d0fba4312b0e18f7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2005/626/regulation/3/1) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2019/192/regulation/18/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b48fbdf396acf68d0fba4312b0e18f7]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2005/626/regulation/3/1) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [18(3)](https://www.legislation.gov.uk/uksi/2019/192/regulation/18/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c1133546]: Marginal citation: [S.I. 1997/666](https://www.legislation.gov.uk/uksi/1997/666).
 
-[^key-db21e71e36b44f21aa1e188e38772fac]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2005/626/regulation/6/1) substituted (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2021 (S.I. 2021/214)](https://www.legislation.gov.uk/uksi/2021/214), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/214/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/214/regulation/2/2/a)
+[^c-db21e71e36b44f21aa1e188e38772fac]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2005/626/regulation/6/1) substituted (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2021 (S.I. 2021/214)](https://www.legislation.gov.uk/uksi/2021/214), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/214/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/214/regulation/2/2/a)
 
-[^key-3e697793c8989f03ea20bb504867194b]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2005/626/regulation/6/2) omitted (1.4.2021) by virtue of [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2021 (S.I. 2021/214)](https://www.legislation.gov.uk/uksi/2021/214), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/214/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/214/regulation/2/2/b)
+[^c-3e697793c8989f03ea20bb504867194b]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2005/626/regulation/6/2) omitted (1.4.2021) by virtue of [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2021 (S.I. 2021/214)](https://www.legislation.gov.uk/uksi/2021/214), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/214/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/214/regulation/2/2/b)
 
-[^key-e47174f0bed82da83dee5d6d5098d280]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2005/626/regulation/7/1) substituted (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2021 (S.I. 2021/214)](https://www.legislation.gov.uk/uksi/2021/214), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/214/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/214/regulation/2/3/a)
+[^c-e47174f0bed82da83dee5d6d5098d280]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2005/626/regulation/7/1) substituted (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2021 (S.I. 2021/214)](https://www.legislation.gov.uk/uksi/2021/214), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/214/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2021/214/regulation/2/3/a)
 
-[^key-07e82ef8f29603653b16286ee171e8dd]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2005/626/regulation/7/2) omitted (1.4.2021) by virtue of [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2021 (S.I. 2021/214)](https://www.legislation.gov.uk/uksi/2021/214), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/214/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/214/regulation/2/3/b)
+[^c-07e82ef8f29603653b16286ee171e8dd]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2005/626/regulation/7/2) omitted (1.4.2021) by virtue of [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2021 (S.I. 2021/214)](https://www.legislation.gov.uk/uksi/2021/214), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/214/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2021/214/regulation/2/3/b)
 
 [^c1133547]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-f88a449366cf06652d948925041d326e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2005/626/schedule) inserted (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2021 (S.I. 2021/214)](https://www.legislation.gov.uk/uksi/2021/214), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/214/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/214/regulation/2/4)
+[^c-f88a449366cf06652d948925041d326e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2005/626/schedule) inserted (1.4.2021) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2021 (S.I. 2021/214)](https://www.legislation.gov.uk/uksi/2021/214), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/214/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/214/regulation/2/4)
 
-[^key-a403902e7eda65d4188a6bd84aa817f4]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/2) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/2)
+[^c-a403902e7eda65d4188a6bd84aa817f4]: Textual amendment: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/2) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/2)
 
-[^key-389140a4523b465cb31fe9027de52748]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/3) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/3)
+[^c-389140a4523b465cb31fe9027de52748]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/3) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/3)
 
-[^key-f12defec88ee52499b8b5770654dc5d3]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/4) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/4)
+[^c-f12defec88ee52499b8b5770654dc5d3]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/4) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/4)
 
-[^key-eddcac0ded14e4e7fb06253d49a1534f]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/5) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/5)
+[^c-eddcac0ded14e4e7fb06253d49a1534f]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/5) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/5)
 
-[^key-3c19930ff7b5566db9b9b1cc073bc61b]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/6) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/6)
+[^c-3c19930ff7b5566db9b9b1cc073bc61b]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/6) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/6)
 
-[^key-f9531ea6b75d25ba950bcdd760be3eb2]: Textual amendment: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/7) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/7)
+[^c-f9531ea6b75d25ba950bcdd760be3eb2]: Textual amendment: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/7) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/7)
 
-[^key-3652a55a2cfcf0dcabf952dd3f593183]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/8) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/8)
+[^c-3652a55a2cfcf0dcabf952dd3f593183]: Textual amendment: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/8) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/8)
 
-[^key-1d45ed9d268ac7bd520bb333afcc2219]: Textual amendment: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/9) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/9)
+[^c-1d45ed9d268ac7bd520bb333afcc2219]: Textual amendment: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/9) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/9)
 
-[^key-4e30d5faf8e655444f640cefdc0c7f12]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/10) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/10)
+[^c-4e30d5faf8e655444f640cefdc0c7f12]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/10) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/10)
 
-[^key-8431ceee5d0ca9b7edb3936c6661efce]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/11) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/11)
+[^c-8431ceee5d0ca9b7edb3936c6661efce]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/11) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/11)
 
-[^key-e37ac32857215fccdb180df2c2a3acf6]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/12) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/12)
+[^c-e37ac32857215fccdb180df2c2a3acf6]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/12) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/12)
 
-[^key-20c9c241de5efa9c665cc526e3ffbc3e]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/13) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/13)
+[^c-20c9c241de5efa9c665cc526e3ffbc3e]: Textual amendment: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2005/626/schedule/paragraph/13) substituted (1.4.2024) by [The Occupational and Personal Pension Schemes (General Levy) (Amendment) Regulations 2024 (S.I. 2024/274)](https://www.legislation.gov.uk/uksi/2024/274), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/274/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2024/274/regulation/2/13)

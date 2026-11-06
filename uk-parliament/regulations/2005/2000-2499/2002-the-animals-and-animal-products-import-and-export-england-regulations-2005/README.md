@@ -34,7 +34,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Animals and Animal Products (Import and Export) (England) Regulations 2005 (revoked)[^key-f7c4c69da4435d8edf96bfa8d8631b14]
+The Animals and Animal Products (Import and Export) (England) Regulations 2005 (revoked)[^c-f7c4c69da4435d8edf96bfa8d8631b14]
 
 Made
 
@@ -48,11 +48,11 @@ Coming into force
 
 15th August 2005
 
-[^key-f7c4c69da4435d8edf96bfa8d8631b14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7c4c69da4435d8edf96bfa8d8631b14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-f7c4c69da4435d8edf96bfa8d8631b14]
+### PART 1 — Introduction[^c-f7c4c69da4435d8edf96bfa8d8631b14]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ Coming into force
 - [Section 2 — Exception](part-1/section-2.md)
 - [Section 3 — Enforcement](part-1/section-3.md)
 
-### PART 2 — Intra-Community Trade[^key-f7c4c69da4435d8edf96bfa8d8631b14]
+### PART 2 — Intra-Community Trade[^c-f7c4c69da4435d8edf96bfa8d8631b14]
 
 *Extent: E+W*
 
@@ -79,7 +79,7 @@ Coming into force
 - [Section 12 — Assembly centres and slaughterhouses](part-2/section-12.md)
 - [Section 13 — Illegal consignments](part-2/section-13.md)
 
-### PART 3 — Third Countries[^key-f7c4c69da4435d8edf96bfa8d8631b14]
+### PART 3 — Third Countries[^c-f7c4c69da4435d8edf96bfa8d8631b14]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ Coming into force
 - [Section 22 — Arrival at the place of destination](part-3/section-22.md)
 - [Section 23 — Post-import controls](part-3/section-23.md)
 
-### PART 4 — Imports Where Checks Have Been Carried Out in Another Member State[^key-f7c4c69da4435d8edf96bfa8d8631b14]
+### PART 4 — Imports Where Checks Have Been Carried Out in Another Member State[^c-f7c4c69da4435d8edf96bfa8d8631b14]
 
 *Extent: E+W*
 
@@ -106,7 +106,7 @@ Coming into force
 - [Section 25 — Imports](part-4/section-25.md)
 - [Section 26 — Import procedure](part-4/section-26.md)
 
-### PART 5 — General[^key-f7c4c69da4435d8edf96bfa8d8631b14]
+### PART 5 — General[^c-f7c4c69da4435d8edf96bfa8d8631b14]
 
 *Extent: E+W*
 
@@ -135,14 +135,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-f7c4c69da4435d8edf96bfa8d8631b14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7c4c69da4435d8edf96bfa8d8631b14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-f7c4c69da4435d8edf96bfa8d8631b14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f7c4c69da4435d8edf96bfa8d8631b14]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f7c4c69da4435d8edf96bfa8d8631b14]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/2002) revoked (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (revoked) 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2006/1471/regulation/36)
+[^c-f7c4c69da4435d8edf96bfa8d8631b14]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/2002) revoked (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (revoked) 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2006/1471/regulation/36)

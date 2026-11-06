@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.1. When this Part applies[^key-397a39e80ca9e698602d80595bb3115b]
+## 18.1. When this Part applies[^c-397a39e80ca9e698602d80595bb3115b]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ This Part applies—
 
 ## Annotations
 
-[^key-397a39e80ca9e698602d80595bb3115b]: Commencement: [Rule 18.1](https://www.legislation.gov.uk/uksi/2025/909/rule/18.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-397a39e80ca9e698602d80595bb3115b]: Commencement: [Rule 18.1](https://www.legislation.gov.uk/uksi/2025/909/rule/18.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00437]: Footnote: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23).
 

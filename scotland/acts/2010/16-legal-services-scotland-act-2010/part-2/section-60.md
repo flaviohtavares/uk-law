@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Working context[^key-f50723ac5f1455fde3576ee7af76abbf]
+## 60. Working context[^c-f50723ac5f1455fde3576ee7af76abbf]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f50723ac5f1455fde3576ee7af76abbf]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2010/16/section/60) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-f50723ac5f1455fde3576ee7af76abbf]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2010/16/section/60) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Duty not to interfere with or misuse certain things provided under statutory requirements[^key-4805bde48b6bc64ac87322ec5830e515]
+## 103. Duty not to interfere with or misuse certain things provided under statutory requirements[^c-4805bde48b6bc64ac87322ec5830e515]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,10 +33,10 @@ summary: ''
   - (ii) to a fine, or
   - (iii) to both.
 
-(3)[^key-47a71031b73192276191bf599280945c] In the application of this section in England and Wales, the reference in subsection (2)(a)(i) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
+(3)[^c-47a71031b73192276191bf599280945c] In the application of this section in England and Wales, the reference in subsection (2)(a)(i) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
 
 ## Annotations
 
-[^key-4805bde48b6bc64ac87322ec5830e515]: Commencement: S. 103 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-4805bde48b6bc64ac87322ec5830e515]: Commencement: S. 103 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-47a71031b73192276191bf599280945c]: Textual amendment: [S. 103(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/103/3) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [26(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/26/3)
+[^c-47a71031b73192276191bf599280945c]: Textual amendment: [S. 103(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/103/3) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [26(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/26/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — LAND IN WHICH ONLY NEW RIGHTS ETC., MAY BE ACQUIRED[^key-25a378134ca410c952ddb279e298e341]
+## SCHEDULE 6 — LAND IN WHICH ONLY NEW RIGHTS ETC., MAY BE ACQUIRED[^c-25a378134ca410c952ddb279e298e341]
 
 *Extent: E+W+S*
 
@@ -61,10 +61,10 @@ Article 21
 </tbody>
 </table>
 
-[^key-6b1bde61712615a46a0b5b26b4f15c68]
+[^c-6b1bde61712615a46a0b5b26b4f15c68]
 
 ## Annotations
 
-[^key-25a378134ca410c952ddb279e298e341]: Commencement: Sch. 6 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-25a378134ca410c952ddb279e298e341]: Commencement: Sch. 6 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
 
-[^key-6b1bde61712615a46a0b5b26b4f15c68]: Textual amendment: Words in Sch. 6 substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)
+[^c-6b1bde61712615a46a0b5b26b4f15c68]: Textual amendment: Words in Sch. 6 substituted (31.1.2024) by [The Hornsea Four Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/117)](https://www.legislation.gov.uk/uksi/2024/117), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/117/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/117/schedule)

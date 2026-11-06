@@ -32,7 +32,7 @@ summary: ''
 
 Food, England
 
-The Plastic Materials and Articles in Contact with Food (England) (Amendment) Regulations 2011 (revoked)[^key-b6d5b4bad90bb40a16b6fada74a5970c]
+The Plastic Materials and Articles in Contact with Food (England) (Amendment) Regulations 2011 (revoked)[^c-b6d5b4bad90bb40a16b6fada74a5970c]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st March 2011
 
-[^key-b6d5b4bad90bb40a16b6fada74a5970c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6d5b4bad90bb40a16b6fada74a5970c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-b6d5b4bad90bb40a16b6fada74a5970c]
+## 1. Title and commencement[^c-b6d5b4bad90bb40a16b6fada74a5970c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Plastic Materials and Articles in Contact with Food (England) Regulations 2009[^key-b6d5b4bad90bb40a16b6fada74a5970c]
+## 2. Amendment to the Plastic Materials and Articles in Contact with Food (England) Regulations 2009[^c-b6d5b4bad90bb40a16b6fada74a5970c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b6d5b4bad90bb40a16b6fada74a5970c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6d5b4bad90bb40a16b6fada74a5970c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b6d5b4bad90bb40a16b6fada74a5970c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6d5b4bad90bb40a16b6fada74a5970c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b6d5b4bad90bb40a16b6fada74a5970c]: Textual amendment: Regulations revoked (20.11.2012) by The Materials and Articles in Contact with [Food (England) Regulations 2012 (S.I. 2012/2619)](https://www.legislation.gov.uk/uksi/2012/2619), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2619/regulation/1), [31(d)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/31/d)
+[^c-b6d5b4bad90bb40a16b6fada74a5970c]: Textual amendment: Regulations revoked (20.11.2012) by The Materials and Articles in Contact with [Food (England) Regulations 2012 (S.I. 2012/2619)](https://www.legislation.gov.uk/uksi/2012/2619), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2619/regulation/1), [31(d)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/31/d)

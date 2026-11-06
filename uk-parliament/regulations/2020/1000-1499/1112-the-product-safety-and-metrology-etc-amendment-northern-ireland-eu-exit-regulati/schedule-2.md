@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 3
 
-**1.**[^key-4b269d9a99a2be2938a7552651c3873c] (1) The Noise Emission in the Environment by Equipment for use Outdoors Regulations 2001 are amended as follows.
+**1.**[^c-4b269d9a99a2be2938a7552651c3873c] (1) The Noise Emission in the Environment by Equipment for use Outdoors Regulations 2001 are amended as follows.
 
 (2) In regulation 2—
 
@@ -77,6 +77,6 @@ Regulation 3
 
 ## Annotations
 
-[^key-4b269d9a99a2be2938a7552651c3873c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/2/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
+[^c-4b269d9a99a2be2938a7552651c3873c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1112/schedule/2/paragraph/1) in force at 31.12.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b)
 
 [^c24301661]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16). Section 7A was inserted by section 5 of the [European Union (Withdrawal Agreement) Act 2020 (c.1)](https://www.legislation.gov.uk/ukpga/2020/1).

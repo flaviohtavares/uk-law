@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Appeal to Supreme Court[^key-9de95a75e34eac860e9c13d35d996aef]
+## 193. Appeal to Supreme Court[^c-9de95a75e34eac860e9c13d35d996aef]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9de95a75e34eac860e9c13d35d996aef]: Commencement: [Art. 193](https://www.legislation.gov.uk/uksi/2013/2870/article/193) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-9de95a75e34eac860e9c13d35d996aef]: Commencement: [Art. 193](https://www.legislation.gov.uk/uksi/2013/2870/article/193) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

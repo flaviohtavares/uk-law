@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. The harm test[^key-24336d4280180e02785fde740eefd89e]
+## 6. The harm test[^c-24336d4280180e02785fde740eefd89e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ Information in documents which are stated to be subject to the harm test under t
 
 ## Annotations
 
-[^key-24336d4280180e02785fde740eefd89e]: Commencement: Reg. 6 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-24336d4280180e02785fde740eefd89e]: Commencement: Reg. 6 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

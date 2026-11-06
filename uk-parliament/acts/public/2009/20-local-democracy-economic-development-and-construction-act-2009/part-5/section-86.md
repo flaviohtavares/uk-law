@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Regulations[^key-2b28c4d17f2bdeb3d91eb471d2ce22ce]
+## 86. Regulations[^c-2b28c4d17f2bdeb3d91eb471d2ce22ce]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b28c4d17f2bdeb3d91eb471d2ce22ce]: Textual amendment: S. 87 repealed (15.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(5)(q)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/q), [Sch. 25 Pt. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/15)
+[^c-2b28c4d17f2bdeb3d91eb471d2ce22ce]: Textual amendment: S. 87 repealed (15.11.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(5)(q)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/q), [Sch. 25 Pt. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/15)

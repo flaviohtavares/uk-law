@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5A — Additional conditions that apply in relation to conventionally reared meat chickens[^key-2a3b50840f6f81411188b83bf5d3ad7a]
+## SCHEDULE 5A — Additional conditions that apply in relation to conventionally reared meat chickens[^c-2a3b50840f6f81411188b83bf5d3ad7a]
 
 *Extent: E+W*
 
@@ -30,20 +30,20 @@ In this Schedule—
 
 - “chicken” (“*iâr*”) means a conventionally reared meat chicken;
 - “keeper” (“*ceidwad*”) means any person responsible for or in charge of chickens in terms of contract or by law whether on a permanent or temporary basis;
-- “official veterinarian” (“*milfeddyg swyddogol*”) has the same meaning as it has in Regulation (EU) 2017/625[^key-7e311cb5ca103c9645477a707db92191];
-- “Regulation 853/2004” (“*Rheoliad 853/2004*”) means Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin , as last amended by Commission Regulation (EU) 2017/1981 of 31 October 2017[^key-e82519ccba2df96e0b0cc9a0d0647b1e];
-- [^key-f48debcaf73040c9b4ee98edbaeb80fe]...
-- “[^key-a3780d0bb5b9ee2c7289f4ea6e63b218]**Regulation (EU) 2017/625**” (“***Rheoliad (EU) 2017/625***”) means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.
+- “official veterinarian” (“*milfeddyg swyddogol*”) has the same meaning as it has in Regulation (EU) 2017/625[^c-7e311cb5ca103c9645477a707db92191];
+- “Regulation 853/2004” (“*Rheoliad 853/2004*”) means Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) of the European Parliament and of the Council laying down specific hygiene rules for food of animal origin , as last amended by Commission Regulation (EU) 2017/1981 of 31 October 2017[^c-e82519ccba2df96e0b0cc9a0d0647b1e];
+- [^c-f48debcaf73040c9b4ee98edbaeb80fe]...
+- “[^c-a3780d0bb5b9ee2c7289f4ea6e63b218]**Regulation (EU) 2017/625**” (“***Rheoliad (EU) 2017/625***”) means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.
 
 ### PART 2 — General additional conditions
 
 #### 2. Training
 
-(1)[^key-f82a4ad36f439c06c3eec95c76103176] A keeper must hold a recognised certificate.
+(1)[^c-f82a4ad36f439c06c3eec95c76103176] A keeper must hold a recognised certificate.
 
 (1A) In this paragraph, “**recognised certificate**” means a certificate recognised by the Welsh Ministers attesting to the completion of such training, or the acquisition of experience equivalent to such training, as the Welsh Ministers consider appropriate.
 
-(2) The Welsh Ministers must publish from time to time, in such a way as the Welsh Ministers consider appropriate, a list of recognised certificates[^key-8ae94fea7f7757f3757a11f5af2983c1].
+(2) The Welsh Ministers must publish from time to time, in such a way as the Welsh Ministers consider appropriate, a list of recognised certificates[^c-8ae94fea7f7757f3757a11f5af2983c1].
 
 #### 3. Stocking density limits
 
@@ -156,26 +156,26 @@ After the final depopulation of a house and before a new flock is introduced—
 
 #### 15. Identification of poor welfare conditions and follow-up
 
-(1) An official veterinarian conducting controls under Regulation (EU) 2017/625[^key-ef63cbaad3c35b9ae1748c7556ab3f18] in relation to chickens must evaluate the results of the post-mortem inspection to identify possible indications of poor welfare conditions in their holding or house of origin.
+(1) An official veterinarian conducting controls under Regulation (EU) 2017/625[^c-ef63cbaad3c35b9ae1748c7556ab3f18] in relation to chickens must evaluate the results of the post-mortem inspection to identify possible indications of poor welfare conditions in their holding or house of origin.
 
 (2) If the mortality rate of the chickens or the results of the post-mortem inspection are consistent with poor animal welfare conditions, the official veterinarian must communicate the data to the keeper of those chickens and to the Welsh Ministers without delay.
 
 ## Annotations
 
-[^key-2a3b50840f6f81411188b83bf5d3ad7a]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A) inserted (10.11.2010) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2010 (S.I. 2010/2713)](https://www.legislation.gov.uk/wsi/2010/2713), [regs. 1](https://www.legislation.gov.uk/wsi/2010/2713/regulation/1), [8](https://www.legislation.gov.uk/wsi/2010/2713/regulation/8), [Sch.](https://www.legislation.gov.uk/wsi/2010/2713/schedule)
+[^c-2a3b50840f6f81411188b83bf5d3ad7a]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A) inserted (10.11.2010) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2010 (S.I. 2010/2713)](https://www.legislation.gov.uk/wsi/2010/2713), [regs. 1](https://www.legislation.gov.uk/wsi/2010/2713/regulation/1), [8](https://www.legislation.gov.uk/wsi/2010/2713/regulation/8), [Sch.](https://www.legislation.gov.uk/wsi/2010/2713/schedule)
 
-[^key-7e311cb5ca103c9645477a707db92191]: Textual amendment: Words in [Sch. 5A para. 1](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [22(2)(a)(i)](https://www.legislation.gov.uk/wsi/2020/44/regulation/22/2/a/i)
+[^c-7e311cb5ca103c9645477a707db92191]: Textual amendment: Words in [Sch. 5A para. 1](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [22(2)(a)(i)](https://www.legislation.gov.uk/wsi/2020/44/regulation/22/2/a/i)
 
-[^key-e82519ccba2df96e0b0cc9a0d0647b1e]: Textual amendment: Words in [Sch. 5A para. 1](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/1) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [9(a)](https://www.legislation.gov.uk/wsi/2019/463/regulation/9/a)
+[^c-e82519ccba2df96e0b0cc9a0d0647b1e]: Textual amendment: Words in [Sch. 5A para. 1](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/1) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [9(a)](https://www.legislation.gov.uk/wsi/2019/463/regulation/9/a)
 
-[^key-f48debcaf73040c9b4ee98edbaeb80fe]: Textual amendment: Words in [Sch. 5A para. 1](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/1) omitted (31.1.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [22(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/44/regulation/22/2/a/ii)
+[^c-f48debcaf73040c9b4ee98edbaeb80fe]: Textual amendment: Words in [Sch. 5A para. 1](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/1) omitted (31.1.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [22(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/44/regulation/22/2/a/ii)
 
-[^key-a3780d0bb5b9ee2c7289f4ea6e63b218]: Textual amendment: Words in [Sch. 5A para. 1](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/1) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [22(2)(a)(iii)](https://www.legislation.gov.uk/wsi/2020/44/regulation/22/2/a/iii)
+[^c-a3780d0bb5b9ee2c7289f4ea6e63b218]: Textual amendment: Words in [Sch. 5A para. 1](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/1) inserted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [22(2)(a)(iii)](https://www.legislation.gov.uk/wsi/2020/44/regulation/22/2/a/iii)
 
-[^key-f82a4ad36f439c06c3eec95c76103176]: Textual amendment: [Sch. 5A para. 2(1)](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/2/1)[(1A)](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/2/1A) substituted for [Sch. 5A](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A) [para. 2(1)](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/2/1) (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/wsi/2019/684/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f82a4ad36f439c06c3eec95c76103176]: Textual amendment: [Sch. 5A para. 2(1)](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/2/1)[(1A)](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/2/1A) substituted for [Sch. 5A](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A) [para. 2(1)](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/2/1) (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/wsi/2019/684/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8ae94fea7f7757f3757a11f5af2983c1]: Textual amendment: Words in [Sch. 5A para. 2(2)](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/2/2) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/wsi/2019/684/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8ae94fea7f7757f3757a11f5af2983c1]: Textual amendment: Words in [Sch. 5A para. 2(2)](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/2/2) substituted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/684)](https://www.legislation.gov.uk/wsi/2019/684), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/684/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/wsi/2019/684/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00012]: Footnote: OJ No L125, 23.5.96, p.3.
 
-[^key-ef63cbaad3c35b9ae1748c7556ab3f18]: Textual amendment: Words in [Sch. 5A para. 15(1)](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/15/1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/wsi/2020/44/regulation/22/2/b)
+[^c-ef63cbaad3c35b9ae1748c7556ab3f18]: Textual amendment: Words in [Sch. 5A para. 15(1)](https://www.legislation.gov.uk/wsi/2007/3070/schedule/5A/paragraph/15/1) substituted (31.1.2020) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) (Wales) Regulations 2020 (S.I. 2020/44)](https://www.legislation.gov.uk/wsi/2020/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/44/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/wsi/2020/44/regulation/22/2/b)

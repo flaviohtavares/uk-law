@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Requirements for rules of registered societies[^key-999499f3a3cca41077e82bb00e2a7ede]
+## 190. Requirements for rules of registered societies[^c-999499f3a3cca41077e82bb00e2a7ede]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-999499f3a3cca41077e82bb00e2a7ede]: Commencement: Art. 190 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-999499f3a3cca41077e82bb00e2a7ede]: Commencement: Art. 190 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

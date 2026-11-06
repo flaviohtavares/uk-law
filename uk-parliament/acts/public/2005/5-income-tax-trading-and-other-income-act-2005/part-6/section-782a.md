@@ -28,8 +28,8 @@ summary: ''
 (2) In subsection (1)—
 
 - “**domestic premises**” means premises used wholly or mainly as a separate private dwelling, and
-- “[^key-70d24eb9a08d100d7f08022cb1426a4a]**microgeneration system**” has the same meaning as in section 263AZA of the Taxation of Chargeable Gains Act 1992.
+- “[^c-70d24eb9a08d100d7f08022cb1426a4a]**microgeneration system**” has the same meaning as in section 263AZA of the Taxation of Chargeable Gains Act 1992.
 
 ## Annotations
 
-[^key-70d24eb9a08d100d7f08022cb1426a4a]: Textual amendment: Words in s. 782A(2) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 57(3)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/57/3/b), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)
+[^c-70d24eb9a08d100d7f08022cb1426a4a]: Textual amendment: Words in s. 782A(2) substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 57(3)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/57/3/b), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)

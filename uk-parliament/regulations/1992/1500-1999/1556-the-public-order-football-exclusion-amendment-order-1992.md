@@ -26,7 +26,7 @@ summary: ''
 
 PUBLIC ORDER
 
-The Public Order (Football Exclusion) (Amendment) Order 1992 (revoked)[^key-febb898c5411b38ef5e1aacca8f67883]
+The Public Order (Football Exclusion) (Amendment) Order 1992 (revoked)[^c-febb898c5411b38ef5e1aacca8f67883]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into force
 
 1st August 1992
 
-[^key-febb898c5411b38ef5e1aacca8f67883]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-febb898c5411b38ef5e1aacca8f67883]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-febb898c5411b38ef5e1aacca8f67883]
+## 1.[^c-febb898c5411b38ef5e1aacca8f67883]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-febb898c5411b38ef5e1aacca8f67883]
+## 2.[^c-febb898c5411b38ef5e1aacca8f67883]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-febb898c5411b38ef5e1aacca8f67883]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-febb898c5411b38ef5e1aacca8f67883]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-febb898c5411b38ef5e1aacca8f67883]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-febb898c5411b38ef5e1aacca8f67883]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-febb898c5411b38ef5e1aacca8f67883]: Textual amendment: Order revoked (27.9.1999) by [The Public Order (Domestic Football Banning) Order 1999 (S.I. 1999/2460)](https://www.legislation.gov.uk/uksi/1999/2460), [art. 2](https://www.legislation.gov.uk/uksi/1999/2460/article/2); \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]
+[^c-febb898c5411b38ef5e1aacca8f67883]: Textual amendment: Order revoked (27.9.1999) by [The Public Order (Domestic Football Banning) Order 1999 (S.I. 1999/2460)](https://www.legislation.gov.uk/uksi/1999/2460), [art. 2](https://www.legislation.gov.uk/uksi/1999/2460/article/2); \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]

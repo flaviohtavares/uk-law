@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. Review of Act[^key-7a476f23a900dd86b1e7dc748df6b12d][^key-3091cbf80a8b238721bf73fdc4b97506]
+## 117. Review of Act[^c-7a476f23a900dd86b1e7dc748df6b12d][^c-3091cbf80a8b238721bf73fdc4b97506]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a476f23a900dd86b1e7dc748df6b12d]: Commencement: S. 117 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-7a476f23a900dd86b1e7dc748df6b12d]: Commencement: S. 117 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-3091cbf80a8b238721bf73fdc4b97506]: Commencement: [S. 117](https://www.legislation.gov.uk/asp/2023/3/section/117) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-3091cbf80a8b238721bf73fdc4b97506]: Commencement: [S. 117](https://www.legislation.gov.uk/asp/2023/3/section/117) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)

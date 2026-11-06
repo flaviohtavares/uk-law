@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Exceptions to dropped footway parking prohibition[^key-a492397019342b7592f67f6caa500185]
+## 57. Exceptions to dropped footway parking prohibition[^c-a492397019342b7592f67f6caa500185]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a492397019342b7592f67f6caa500185]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2019/17/section/57) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-a492397019342b7592f67f6caa500185]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2019/17/section/57) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

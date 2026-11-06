@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Compensation where compulsory acquisition of land[^key-561fe7d9687a14b734a0fb42eaa6d9bb]
+## 54. Compensation where compulsory acquisition of land[^c-561fe7d9687a14b734a0fb42eaa6d9bb]
 
 *Extent: S*
 
-(1) Subject to subsection (4), this subsection applies where, in pursuance of any enactment providing for the acquisition or taking of possession of land compulsorily, any person (the “acquiring authority”) acquires the interest of the tenant under, or takes possession of the land or any part of the land comprised in a lease constituting, a short limited duration tenancy , a limited duration tenancy or a modern limited duration tenancy[^key-cdfb28f911b2da7b50e00bf55d3e02b0] .
+(1) Subject to subsection (4), this subsection applies where, in pursuance of any enactment providing for the acquisition or taking of possession of land compulsorily, any person (the “acquiring authority”) acquires the interest of the tenant under, or takes possession of the land or any part of the land comprised in a lease constituting, a short limited duration tenancy , a limited duration tenancy or a modern limited duration tenancy[^c-cdfb28f911b2da7b50e00bf55d3e02b0] .
 
 (2) Where subsection (1) applies, compensation for disturbance is payable by the acquiring authority to the tenant of an amount equal to four times the annual rent of the land or, in the case of part of the land, four times the annual rent proportionate to that part.
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-561fe7d9687a14b734a0fb42eaa6d9bb]: Commencement: S. 54 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-561fe7d9687a14b734a0fb42eaa6d9bb]: Commencement: S. 54 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-cdfb28f911b2da7b50e00bf55d3e02b0]: Textual amendment: Words in [s. 54(1)](https://www.legislation.gov.uk/asp/2003/11/section/54/1) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(21)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/21) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-cdfb28f911b2da7b50e00bf55d3e02b0]: Textual amendment: Words in [s. 54(1)](https://www.legislation.gov.uk/asp/2003/11/section/54/1) substituted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [s. 130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1), [sch. 2 para. 7(21)](https://www.legislation.gov.uk/asp/2016/18/schedule/2/paragraph/7/21) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)

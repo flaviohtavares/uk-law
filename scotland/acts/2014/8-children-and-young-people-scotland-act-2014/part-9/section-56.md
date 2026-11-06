@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Corporate parents[^key-c4f097e4dcee1c379a489aef318ddf2e]
+## 56. Corporate parents[^c-c4f097e4dcee1c379a489aef318ddf2e]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4f097e4dcee1c379a489aef318ddf2e]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2014/8/section/56) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
+[^c-c4f097e4dcee1c379a489aef318ddf2e]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2014/8/section/56) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)

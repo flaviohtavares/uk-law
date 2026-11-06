@@ -45,7 +45,7 @@ Coming into force
 
 29th December 1986
 
-The Lord Chancellor, in the exercise of his powers under sections 411 and 412 of the Insolvency Act 1986, with the concurrence of the Secretary of State, and after consulting the committee existing for that purpose under section 413 of that Act, hereby makes the following Rules:—[^key-d0ff2d1cc14b715472b753963984e990][^key-d3777025b4b323db1d78099b781dfdfa][^key-ec89c681909e870085d078b1e2a4da0d][^key-48800a257c9bf685d7676b74e31945f3][^key-2d80454d0cf81f8e899fde0eb800367f][^key-4e9cb2ddf5bd049c5585eb978b753e60][^key-a22dd2e272d1f87d7576800c937ef231][^key-16d94e67b69578f8b3bad6b205275bc9][^key-b2976d628e99c53b188383788bde7f9d]
+The Lord Chancellor, in the exercise of his powers under sections 411 and 412 of the Insolvency Act 1986, with the concurrence of the Secretary of State, and after consulting the committee existing for that purpose under section 413 of that Act, hereby makes the following Rules:—[^c-d0ff2d1cc14b715472b753963984e990][^c-d3777025b4b323db1d78099b781dfdfa][^c-ec89c681909e870085d078b1e2a4da0d][^c-48800a257c9bf685d7676b74e31945f3][^c-2d80454d0cf81f8e899fde0eb800367f][^c-4e9cb2ddf5bd049c5585eb978b753e60][^c-a22dd2e272d1f87d7576800c937ef231][^c-16d94e67b69578f8b3bad6b205275bc9][^c-b2976d628e99c53b188383788bde7f9d]
 
 ## Contents
 
@@ -143,19 +143,19 @@ THE FIRST GROUP OF PARTS
 
 - [Section 1.30 — False representations, etc](group-2-part-1/section-1-30.md)
 
-##### CHAPTER 7 — EC Regulation—Conversion of Voluntary Arrangement into Winding up[^key-4d52716dd11323d319e09efd3d486a6f]
+##### CHAPTER 7 — EC Regulation—Conversion of Voluntary Arrangement into Winding up[^c-4d52716dd11323d319e09efd3d486a6f]
 
 - [Section 1.31 — Application for conversion into winding up](group-2-part-1/section-1-31.md)
 - [Section 1.32 — Contents of affidavit](group-2-part-1/section-1-32.md)
 - [Section 1.33 — Power of court](group-2-part-1/section-1-33.md)
 
-##### CHAPTER 8 — EC Regulation—Member State Liquidator[^key-4d52716dd11323d319e09efd3d486a6f]
+##### CHAPTER 8 — EC Regulation—Member State Liquidator[^c-4d52716dd11323d319e09efd3d486a6f]
 
 - [Section 1.34 — Interpretation of creditor and notice to member State liquidator](group-2-part-1/section-1-34.md)
 
-##### CHAPTER 9 — OBTAINING A MORATORIUM[^key-a24294a6c677ad37333268cfc6787cfd]
+##### CHAPTER 9 — OBTAINING A MORATORIUM[^c-a24294a6c677ad37333268cfc6787cfd]
 
-###### PROCEEDINGS DURING A MORATORIUM — NOMINEES — CONSIDERATION OF PROPOSALS WHERE MORATORIUM OBTAINED — SECTION A: OBTAINING A MORATORIUM[^key-a24294a6c677ad37333268cfc6787cfd]
+###### PROCEEDINGS DURING A MORATORIUM — NOMINEES — CONSIDERATION OF PROPOSALS WHERE MORATORIUM OBTAINED — SECTION A: OBTAINING A MORATORIUM[^c-a24294a6c677ad37333268cfc6787cfd]
 
 - [Section 1.35 — Preparation of proposal by directors and submission to nominee](group-2-part-1/section-1-35.md)
 - [Section 1.36 — Delivery of documents to the intended nominee etc.](group-2-part-1/section-1-36.md)
@@ -166,18 +166,18 @@ THE FIRST GROUP OF PARTS
 - [Section 1.41 — Notice of extension of moratorium](group-2-part-1/section-1-41.md)
 - [Section 1.42 — Notice and advertisement of end of moratorium](group-2-part-1/section-1-42.md)
 
-###### SECTION B: PROCEEDINGS DURING A MORATORIUM[^key-a24294a6c677ad37333268cfc6787cfd]
+###### SECTION B: PROCEEDINGS DURING A MORATORIUM[^c-a24294a6c677ad37333268cfc6787cfd]
 
 - [Section 1.43 — Disposal of charged property etc. during a moratorium](group-2-part-1/section-1-43.md)
 
-###### SECTION C: NOMINEES[^key-a24294a6c677ad37333268cfc6787cfd]
+###### SECTION C: NOMINEES[^c-a24294a6c677ad37333268cfc6787cfd]
 
 - [Section 1.44 — Withdrawal of nominee’s consent to act](group-2-part-1/section-1-44.md)
 - [Section 1.45 — Replacement of nominee by the court](group-2-part-1/section-1-45.md)
 - [Section 1.46 — Notification of appointment of a replacement nominee](group-2-part-1/section-1-46.md)
 - [Section 1.47 — Applications to court under paragraphs 26 or 27 of Schedule A1 to the Act](group-2-part-1/section-1-47.md)
 
-###### SECTION D: CONSIDERATION OF PROPOSALS WHERE MORATORIUM OBTAINED[^key-a24294a6c677ad37333268cfc6787cfd]
+###### SECTION D: CONSIDERATION OF PROPOSALS WHERE MORATORIUM OBTAINED[^c-a24294a6c677ad37333268cfc6787cfd]
 
 - [Section 1.48 — Summoning of meetings; procedure at meetings etc.](group-2-part-1/section-1-48.md)
 - [Section 1.49 — Entitlement to vote (creditors)](group-2-part-1/section-1-49.md)
@@ -187,15 +187,15 @@ THE FIRST GROUP OF PARTS
 - [Section 1.53 — Requisite majorities (members) and proceedings to obtain agreement on the proposal](group-2-part-1/section-1-53.md)
 - [Section 1.54 — Implementation of the arrangement](group-2-part-1/section-1-54.md)
 
-#### PART 2 — ADMINISTRATION PROCEDURE[^key-3cd429780944af0d9d340d0898769129]
+#### PART 2 — ADMINISTRATION PROCEDURE[^c-3cd429780944af0d9d340d0898769129]
 
 *Extent: E+W*
 
-##### CHAPTER 1 — PRELIMINARY[^key-3cd429780944af0d9d340d0898769129]
+##### CHAPTER 1 — PRELIMINARY[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.1 — Introductory and interpretation](group-2-part-2/section-2-1.md)
 
-##### CHAPTER 2 — APPOINTMENT OF ADMINISTRATOR BY COURT[^key-3cd429780944af0d9d340d0898769129]
+##### CHAPTER 2 — APPOINTMENT OF ADMINISTRATOR BY COURT[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.2 — Affidavit in support of administration application](group-2-part-2/section-2-2.md)
 - [Section 2.3 — Form of application](group-2-part-2/section-2-3.md)
@@ -210,18 +210,18 @@ THE FIRST GROUP OF PARTS
 - [Section 2.12 — The hearing](group-2-part-2/section-2-12.md)
 - [Section 2.14 — Notice of administration order](group-2-part-2/section-2-14.md)
 
-##### CHAPTER 3 — APPOINTMENT OF ADMINISTRATOR BY HOLDER OF FLOATING CHARGE[^key-3cd429780944af0d9d340d0898769129]
+##### CHAPTER 3 — APPOINTMENT OF ADMINISTRATOR BY HOLDER OF FLOATING CHARGE[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.15 — Notice of intention to appoint](group-2-part-2/section-2-15.md)
 - [Section 2.16 — Notice of appointment](group-2-part-2/section-2-16.md)
 - [Section 2.19 — Appointment taking place out of court business hours](group-2-part-2/section-2-19.md)
 
-##### CHAPTER 4 — APPOINTMENT OF ADMINISTRATOR BY COMPANY OR DIRECTORS[^key-3cd429780944af0d9d340d0898769129]
+##### CHAPTER 4 — APPOINTMENT OF ADMINISTRATOR BY COMPANY OR DIRECTORS[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.20 — Notice of intention to appoint](group-2-part-2/section-2-20.md)
 - [Section 2.23 — Notice of appointment](group-2-part-2/section-2-23.md)
 
-##### CHAPTER 5 — PROCESS OF ADMINISTRATION[^key-3cd429780944af0d9d340d0898769129]
+##### CHAPTER 5 — PROCESS OF ADMINISTRATION[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.27 — Notification and advertisement of administrator’s appointment](group-2-part-2/section-2-27.md)
 - [Section 2.28 — Notice requiring statement of affairs](group-2-part-2/section-2-28.md)
@@ -231,9 +231,9 @@ THE FIRST GROUP OF PARTS
 - [Section 2.32 — Expenses of statement of affairs](group-2-part-2/section-2-32.md)
 - [Section 2.33 — Administrator’s proposals](group-2-part-2/section-2-33.md)
 
-##### CHAPTER 6 — MEETINGS AND REPORTS[^key-3cd429780944af0d9d340d0898769129]
+##### CHAPTER 6 — MEETINGS AND REPORTS[^c-3cd429780944af0d9d340d0898769129]
 
-###### SECTION A: CREDITORS' MEETINGS[^key-3cd429780944af0d9d340d0898769129]
+###### SECTION A: CREDITORS' MEETINGS[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.34 — Meetings to consider administrator’s proposals](group-2-part-2/section-2-34.md)
 - [Section 2.35 — Creditors' meetings generally](group-2-part-2/section-2-35.md)
@@ -251,11 +251,11 @@ THE FIRST GROUP OF PARTS
 - [Section 2.47 — Reports to creditors](group-2-part-2/section-2-47.md)
 - [Section 2.48 — Correspondence instead of creditors' meetings](group-2-part-2/section-2-48.md)
 
-###### SECTION B: COMPANY MEETINGS[^key-3cd429780944af0d9d340d0898769129]
+###### SECTION B: COMPANY MEETINGS[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.49 — Venue and conduct of company meeting](group-2-part-2/section-2-49.md)
 
-##### CHAPTER 7 — THE CREDITORS' COMMITTEE[^key-3cd429780944af0d9d340d0898769129]
+##### CHAPTER 7 — THE CREDITORS' COMMITTEE[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.50 — Constitution of committee](group-2-part-2/section-2-50.md)
 - [Section 2.51 — Formalities of establishment](group-2-part-2/section-2-51.md)
@@ -274,22 +274,22 @@ THE FIRST GROUP OF PARTS
 - [Section 2.64 — Members' dealing with the company](group-2-part-2/section-2-64.md)
 - [Section 2.65 — Formal defects](group-2-part-2/section-2-65.md)
 
-##### CHAPTER 8 — DISPOSAL OF CHARGED PROPERTY[^key-3cd429780944af0d9d340d0898769129]
+##### CHAPTER 8 — DISPOSAL OF CHARGED PROPERTY[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.66](group-2-part-2/section-2-66.md)
 
-##### CHAPTER 9 — EXPENSES OF THE ADMINISTRATION[^key-3cd429780944af0d9d340d0898769129]
+##### CHAPTER 9 — EXPENSES OF THE ADMINISTRATION[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.67](group-2-part-2/section-2-67.md)
 
-##### CHAPTER 10 — DISTRIBUTIONS TO CREDITORSSECTION A: APPLICATION OF CHAPTER AND GENERAL[^key-3cd429780944af0d9d340d0898769129]
+##### CHAPTER 10 — DISTRIBUTIONS TO CREDITORSSECTION A: APPLICATION OF CHAPTER AND GENERAL[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.68](group-2-part-2/section-2-68.md)
 - [Section 2.69 — Debts of insolvent company to rank equally](group-2-part-2/section-2-69.md)
 - [Section 2.70 — Supplementary provisions as to dividend](group-2-part-2/section-2-70.md)
 - [Section 2.71 — Division of unsold assets](group-2-part-2/section-2-71.md)
 
-###### SECTION B: MACHINERY OF PROVING A DEBT[^key-3cd429780944af0d9d340d0898769129]
+###### SECTION B: MACHINERY OF PROVING A DEBT[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.72 — Proving a debt](group-2-part-2/section-2-72.md)
 - [Section 2.73 — Claim established by affidavit](group-2-part-2/section-2-73.md)
@@ -301,7 +301,7 @@ THE FIRST GROUP OF PARTS
 - [Section 2.79 — Withdrawal or variation of proof](group-2-part-2/section-2-79.md)
 - [Section 2.80 — Expunging of proof by the court](group-2-part-2/section-2-80.md)
 
-###### SECTION C: QUANTIFICATION OF CLAIMS[^key-3cd429780944af0d9d340d0898769129]
+###### SECTION C: QUANTIFICATION OF CLAIMS[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.81 — Estimate of quantum](group-2-part-2/section-2-81.md)
 - [Section 2.82 — Negotiable instruments, etc](group-2-part-2/section-2-82.md)
@@ -329,14 +329,14 @@ THE FIRST GROUP OF PARTS
 - [Section 2.104 — Assignment of right to dividend](group-2-part-2/section-2-104.md)
 - [Section 2.105 — Debt payable at future time](group-2-part-2/section-2-105.md)
 
-##### CHAPTER 11 — THE ADMINISTRATOR[^key-3cd429780944af0d9d340d0898769129]
+##### CHAPTER 11 — THE ADMINISTRATOR[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.106 — Fixing of remuneration](group-2-part-2/section-2-106.md)
 - [Section 2.107 — Recourse to meeting of creditors](group-2-part-2/section-2-107.md)
 - [Section 2.108 — Recourse to the court](group-2-part-2/section-2-108.md)
 - [Section 2.109 — Creditors' claim that remuneration is excessive](group-2-part-2/section-2-109.md)
 
-##### CHAPTER 12 — ENDING ADMINISTRATION[^key-3cd429780944af0d9d340d0898769129]
+##### CHAPTER 12 — ENDING ADMINISTRATION[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.110 — Final progress reports](group-2-part-2/section-2-110.md)
 - [Section 2.111 — Notice of automatic end of administration](group-2-part-2/section-2-111.md)
@@ -348,7 +348,7 @@ THE FIRST GROUP OF PARTS
 - [Section 2.117 — Moving from administration to creditors' voluntary liquidation](group-2-part-2/section-2-117.md)
 - [Section 2.118 — Moving from administration to dissolution](group-2-part-2/section-2-118.md)
 
-##### CHAPTER 13 — REPLACING ADMINISTRATOR[^key-3cd429780944af0d9d340d0898769129]
+##### CHAPTER 13 — REPLACING ADMINISTRATOR[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.119 — Grounds for resignation](group-2-part-2/section-2-119.md)
 - [Section 2.120 — Notice of intention to resign](group-2-part-2/section-2-120.md)
@@ -361,13 +361,13 @@ THE FIRST GROUP OF PARTS
 - [Section 2.127 — Notification and advertisement of appointment of joint administrator](group-2-part-2/section-2-127.md)
 - [Section 2.129 — Administrator’s duties on vacating office](group-2-part-2/section-2-129.md)
 
-##### CHAPTER 14 — EC REGULATION: CONVERSION OF ADMINISTRATION INTO WINDING UP[^key-3cd429780944af0d9d340d0898769129]
+##### CHAPTER 14 — EC REGULATION: CONVERSION OF ADMINISTRATION INTO WINDING UP[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.130 — Application for conversion into winding up](group-2-part-2/section-2-130.md)
 - [Section 2.131 — Contents of affidavit](group-2-part-2/section-2-131.md)
 - [Section 2.132 — Power of court](group-2-part-2/section-2-132.md)
 
-##### CHAPTER 15 — EC REGULATION: MEMBER STATE LIQUIDATOR[^key-3cd429780944af0d9d340d0898769129]
+##### CHAPTER 15 — EC REGULATION: MEMBER STATE LIQUIDATOR[^c-3cd429780944af0d9d340d0898769129]
 
 - [Section 2.133 — Interpretation of creditor and notice to member State liquidator](group-2-part-2/section-2-133.md)
 
@@ -444,7 +444,7 @@ THE FIRST GROUP OF PARTS
 - [Section 3.37 — Notice to creditors](group-2-part-3/section-3-37.md)
 - [Section 3.38 — Preservation of certificate with company's records](group-2-part-3/section-3-38.md)
 
-##### CHAPTER 7 — SECTION 176A: THE PRESCRIBED PART[^key-7b4127b9e01d495f530bfe487c22b806]
+##### CHAPTER 7 — SECTION 176A: THE PRESCRIBED PART[^c-7b4127b9e01d495f530bfe487c22b806]
 
 - [Section 3.39 — Report to creditors](group-2-part-3/section-3-39.md)
 - [Section 3.40 — Receiver to deal with prescribed part](group-2-part-3/section-3-40.md)
@@ -873,7 +873,7 @@ THE FIRST GROUP OF PARTS
 - [Section 4.229 — Second excepted case](group-2-part-4/section-4-229.md)
 - [Section 4.230 — Third excepted case](group-2-part-4/section-4-230.md)
 
-##### CHAPTER 23 — EC Regulation—Member State Liquidator[^key-7007abc96878b2f409cd81e24b460e8a]
+##### CHAPTER 23 — EC Regulation—Member State Liquidator[^c-7007abc96878b2f409cd81e24b460e8a]
 
 - [Section 4.231 — Interpretation of creditor and notice to member State liquidator](group-2-part-4/section-4-231.md)
 
@@ -937,7 +937,7 @@ THE SECOND GROUP OF PARTS
 - [Section 5.33 — Fees, costs, charges and expenses](group-3-part-5/section-5-33.md)
 - [Section 5.34 — Completion or termination of the arrangement](group-3-part-5/section-5-34.md)
 
-##### CHAPTER 7 — FAST-TRACK VOLUNTARY ARRANGEMENT[^key-8d65eb9d3bcd19d0fe8fff34f33d3479][^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]
+##### CHAPTER 7 — FAST-TRACK VOLUNTARY ARRANGEMENT[^c-8d65eb9d3bcd19d0fe8fff34f33d3479][^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]
 
 - [Section 5.35 — Application of Chapter](group-3-part-5/section-5-35.md)
 - [Section 5.36 — Interpretation](group-3-part-5/section-5-36.md)
@@ -956,30 +956,30 @@ THE SECOND GROUP OF PARTS
 - [Section 5.49 — Employment of agents by the supervisor](group-3-part-5/section-5-49.md)
 - [Section 5.50 — Completion or termination of the fast-track voluntary arrangement](group-3-part-5/section-5-50.md)
 
-##### CHAPTER 8 — APPLICATION BY A BANKRUPT TO ANNULA BANKRUPTCY ORDER UNDER SECTION 261(2)(a)[^key-8d65eb9d3bcd19d0fe8fff34f33d3479][^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]
+##### CHAPTER 8 — APPLICATION BY A BANKRUPT TO ANNULA BANKRUPTCY ORDER UNDER SECTION 261(2)(a)[^c-8d65eb9d3bcd19d0fe8fff34f33d3479][^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]
 
 - [Section 5.51 — Application of this Chapter](group-3-part-5/section-5-51.md)
 - [Section 5.52 — Application to court](group-3-part-5/section-5-52.md)
 - [Section 5.53 — Notice to creditors](group-3-part-5/section-5-53.md)
 
-##### CHAPTER 9 — APPLICATION BY OFFICIAL RECEIVER TO ANNUL A BANKRUPTCY ORDER UNDER SECTION 261(2)(b)[^key-8d65eb9d3bcd19d0fe8fff34f33d3479][^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]
+##### CHAPTER 9 — APPLICATION BY OFFICIAL RECEIVER TO ANNUL A BANKRUPTCY ORDER UNDER SECTION 261(2)(b)[^c-8d65eb9d3bcd19d0fe8fff34f33d3479][^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]
 
 - [Section 5.54 — Application of this Chapter](group-3-part-5/section-5-54.md)
 - [Section 5.55 — Application to court](group-3-part-5/section-5-55.md)
 - [Section 5.56 — Notice to creditors](group-3-part-5/section-5-56.md)
 
-##### CHAPTER 10 — APPLICATION BY OFFICIAL RECEIVER TO ANNULA BANKRUPTCY ORDER UNDER SECTION 263D(3)[^key-8d65eb9d3bcd19d0fe8fff34f33d3479][^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]
+##### CHAPTER 10 — APPLICATION BY OFFICIAL RECEIVER TO ANNULA BANKRUPTCY ORDER UNDER SECTION 263D(3)[^c-8d65eb9d3bcd19d0fe8fff34f33d3479][^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]
 
 - [Section 5.57 — Application of this Chapter](group-3-part-5/section-5-57.md)
 - [Section 5.58 — Application to court](group-3-part-5/section-5-58.md)
 - [Section 5.59 — Notice to creditors](group-3-part-5/section-5-59.md)
 
-##### CHAPTER 11 — OTHER MATTERS ARISING ON ANNULMENTS UNDER SECTIONS 261(2)(a), 261(2)(b) OR 263D(3)[^key-8d65eb9d3bcd19d0fe8fff34f33d3479][^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]
+##### CHAPTER 11 — OTHER MATTERS ARISING ON ANNULMENTS UNDER SECTIONS 261(2)(a), 261(2)(b) OR 263D(3)[^c-8d65eb9d3bcd19d0fe8fff34f33d3479][^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]
 
 - [Section 5.60](group-3-part-5/section-5-60.md)
 - [Section 5.61 — Trustee’s final account](group-3-part-5/section-5-61.md)
 
-##### CHAPTER 12 — EC REGULATION: CONVERSION OF VOLUNTARY ARRANGEMENT INTO BANKRUPTCY[^key-8d65eb9d3bcd19d0fe8fff34f33d3479][^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]
+##### CHAPTER 12 — EC REGULATION: CONVERSION OF VOLUNTARY ARRANGEMENT INTO BANKRUPTCY[^c-8d65eb9d3bcd19d0fe8fff34f33d3479][^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]
 
 - [Section 5.62 — Application for conversion of voluntary arrangement into bankruptcy](group-3-part-5/section-5-62.md)
 - [Section 5.63 — Contents of affidavit](group-3-part-5/section-5-63.md)
@@ -1308,7 +1308,7 @@ THE SECOND GROUP OF PARTS
 - [Section 6.192 — Order to payor of income: administration](group-3-part-6/section-6-192.md)
 - [Section 6.193 — Review of order](group-3-part-6/section-6-193.md)
 
-##### CHAPTER 16A — INCOME PAYMENTS AGREEMENTS[^key-6b4bdc321feca16cded57229ab349ada]
+##### CHAPTER 16A — INCOME PAYMENTS AGREEMENTS[^c-6b4bdc321feca16cded57229ab349ada]
 
 - [Section 6.193A — Approval of income payments agreements](group-3-part-6/section-6-193a.md)
 - [Section 6.193B — Acceptance of income payments agreements](group-3-part-6/section-6-193b.md)
@@ -1362,7 +1362,7 @@ THE SECOND GROUP OF PARTS
 - [Section 6.213 — Other matters arising on annulment](group-3-part-6/section-6-213.md)
 - [Section 6.214 — Trustee's final account](group-3-part-6/section-6-214.md)
 
-##### CHAPTER 21A — NOTICE UNDER SECTION 279(2)[^key-885cec51e98bc54fb39a081a27c1ee46]
+##### CHAPTER 21A — NOTICE UNDER SECTION 279(2)[^c-885cec51e98bc54fb39a081a27c1ee46]
 
 - [Section 6.214A — Notice under section 279(2) that an investigation of the conduct and affairs of a bankrupt is unnecessary or concluded](group-3-part-6/section-6-214a.md)
 
@@ -1380,7 +1380,7 @@ THE SECOND GROUP OF PARTS
 - [Section 6.222 — Costs under this Chapter](group-3-part-6/section-6-222.md)
 - [Section 6.223 — Bankrupt's debts surviving discharge](group-3-part-6/section-6-223.md)
 
-##### CHAPTER 22(A)— — REGISTER OF BANKRUPTCY ORDERS[^key-b0b4b31d0791043ca7f65e59f0c52b51]
+##### CHAPTER 22(A)— — REGISTER OF BANKRUPTCY ORDERS[^c-b0b4b31d0791043ca7f65e59f0c52b51]
 
 **No longer in force.**
 
@@ -1428,12 +1428,12 @@ THE SECOND GROUP OF PARTS
 - [Section 6.237D — Charging Order](group-3-part-6/section-6-237d.md)
 - [Section 6.237E — Interpretation](group-3-part-6/section-6-237e.md)
 
-##### CHAPTER 27 — EC Regulation—Member State Liquidator[^key-3ba1a371c073b6872a3dad6390610eab]
+##### CHAPTER 27 — EC Regulation—Member State Liquidator[^c-3ba1a371c073b6872a3dad6390610eab]
 
 - [Section 6.238 — Interpretation of creditor and notice to member State liquidator](group-3-part-6/section-6-238.md)
 - [Section 6.239 — Interpretation of creditor and notice to member State liquidator appointed in main proceedings](group-3-part-6/section-6-239.md)
 
-##### CHAPTER 28 — BANKRUPTCY RESTRICTIONS ORDER[^key-f1680a6cfbb1fcae58930e797b64ba80]
+##### CHAPTER 28 — BANKRUPTCY RESTRICTIONS ORDER[^c-f1680a6cfbb1fcae58930e797b64ba80]
 
 - [Section 6.240](group-3-part-6/section-6-240.md)
 - [Section 6.241 — Application for bankruptcy restrictions order](group-3-part-6/section-6-241.md)
@@ -1441,38 +1441,38 @@ THE SECOND GROUP OF PARTS
 - [Section 6.243 — The bankrupt’s evidence](group-3-part-6/section-6-243.md)
 - [Section 6.244 — Making a bankruptcy restrictions order](group-3-part-6/section-6-244.md)
 
-##### CHAPTER 29 — INTERIM BANKRUPTCY RESTRICTIONS ORDER[^key-f1680a6cfbb1fcae58930e797b64ba80]
+##### CHAPTER 29 — INTERIM BANKRUPTCY RESTRICTIONS ORDER[^c-f1680a6cfbb1fcae58930e797b64ba80]
 
 - [Section 6.245 — Application for interim bankruptcy restrictions order](group-3-part-6/section-6-245.md)
 - [Section 6.246 — The case against the defendant](group-3-part-6/section-6-246.md)
 - [Section 6.247 — Making an interim bankruptcy restrictions order](group-3-part-6/section-6-247.md)
 - [Section 6.248 — Application to set aside an interim bankruptcy restrictions order](group-3-part-6/section-6-248.md)
 
-##### CHAPTER 30 — BANKRUPTCY RESTRICTIONS UNDERTAKING[^key-f1680a6cfbb1fcae58930e797b64ba80]
+##### CHAPTER 30 — BANKRUPTCY RESTRICTIONS UNDERTAKING[^c-f1680a6cfbb1fcae58930e797b64ba80]
 
 - [Section 6.249 — Acceptance of the bankruptcy restrictions undertaking](group-3-part-6/section-6-249.md)
 - [Section 6.250 — Notification to the court](group-3-part-6/section-6-250.md)
 - [Section 6.251 — Application under paragraph 9(3) of Schedule 4A to the Act to annul a bankruptcy restrictions undertaking](group-3-part-6/section-6-251.md)
 
-#### PART 6A[^key-d1919e44dc131030ccb9fcb0de2ece83]
+#### PART 6A[^c-d1919e44dc131030ccb9fcb0de2ece83]
 
-##### CHAPTER 1 — GENERAL[^key-d1919e44dc131030ccb9fcb0de2ece83]
+##### CHAPTER 1 — GENERAL[^c-d1919e44dc131030ccb9fcb0de2ece83]
 
 - [Section 6A.1 — The individual insolvency register; the bankruptcy restrictions register](group-3-part-6a/section-6a-1.md)
 
-##### CHAPTER 2 — INDIVIDUAL INSOLVENCY REGISTER[^key-d1919e44dc131030ccb9fcb0de2ece83]
+##### CHAPTER 2 — INDIVIDUAL INSOLVENCY REGISTER[^c-d1919e44dc131030ccb9fcb0de2ece83]
 
 - [Section 6A.2 — Entry of information onto the individual insolvency register—individual voluntary arrangements](group-3-part-6a/section-6a-2.md)
 - [Section 6A.3 — Deletion of information from the individual insolvency register—individual voluntary arrangements](group-3-part-6a/section-6a-3.md)
 - [Section 6A.4 — Entry of information onto the individual insolvency register—bankruptcy orders](group-3-part-6a/section-6a-4.md)
 - [Section 6A.5 — Deletion of information from the individual insolvency register—bankruptcy orders](group-3-part-6a/section-6a-5.md)
 
-##### CHAPTER 3 — BANKRUPTCY RESTRICTIONS REGISTER[^key-d1919e44dc131030ccb9fcb0de2ece83]
+##### CHAPTER 3 — BANKRUPTCY RESTRICTIONS REGISTER[^c-d1919e44dc131030ccb9fcb0de2ece83]
 
 - [Section 6A.6 — Bankruptcy restrictions orders and undertakings—entry of information onto the bankruptcy restrictions register](group-3-part-6a/section-6a-6.md)
 - [Section 6A.7 — Deletion of information from the bankruptcy restrictions register—bankruptcy restrictions orders and undertakings](group-3-part-6a/section-6a-7.md)
 
-##### CHAPTER 4 — RECTIFICATION OF REGISTERS[^key-d1919e44dc131030ccb9fcb0de2ece83]
+##### CHAPTER 4 — RECTIFICATION OF REGISTERS[^c-d1919e44dc131030ccb9fcb0de2ece83]
 
 - [Section 6A.8 — Rectification of the registers](group-3-part-6a/section-6a-8.md)
 
@@ -1543,7 +1543,7 @@ THE THIRD GROUP OF PARTS
 - [Section 7.31 — Right to inspect the file](group-4-part-7/section-7-31.md)
 - [Section 7.32 — Filing of Gazette notices and advertisements](group-4-part-7/section-7-32.md)
 
-##### CHAPTER 6 — Costs and Detailed Assessment[^key-c5eaab65272188f4ce7782597f0c6150]
+##### CHAPTER 6 — Costs and Detailed Assessment[^c-c5eaab65272188f4ce7782597f0c6150]
 
 *Extent: E+W*
 
@@ -1558,7 +1558,7 @@ THE THIRD GROUP OF PARTS
 - [Section 7.41 — Costs and expenses of witnesses](group-4-part-7/section-7-41.md)
 - [Section 7.42 — Final costs certificate](group-4-part-7/section-7-42.md)
 
-##### CHAPTER 7 — Persons who Lack Capacity to Manage their Affairs[^key-34ba70ac6891607a7f4663a3c96683ff]
+##### CHAPTER 7 — Persons who Lack Capacity to Manage their Affairs[^c-34ba70ac6891607a7f4663a3c96683ff]
 
 *Extent: E+W*
 
@@ -1592,12 +1592,12 @@ THE THIRD GROUP OF PARTS
 - [Section 7.60 — Further Information and Disclosure](group-4-part-7/section-7-60.md)
 - [Section 7.61 — Office copies of documents](group-4-part-7/section-7-61.md)
 
-##### CHAPTER 10 — EC Regulation—Creditors' Voluntary Winding up—Confirmation by The Court[^key-f71bd373b87d3753c5c1943b00046733]
+##### CHAPTER 10 — EC Regulation—Creditors' Voluntary Winding up—Confirmation by The Court[^c-f71bd373b87d3753c5c1943b00046733]
 
 - [Section 7.62 — Application for confirmation](group-4-part-7/section-7-62.md)
 - [Section 7.63 — Notice to member State liquidator and creditors in member States](group-4-part-7/section-7-63.md)
 
-##### CHAPTER 11 — EC Regulation—Member State Liquidator[^key-f71bd373b87d3753c5c1943b00046733]
+##### CHAPTER 11 — EC Regulation—Member State Liquidator[^c-f71bd373b87d3753c5c1943b00046733]
 
 **No longer in force (ended 2002-05-31).**
 
@@ -1752,52 +1752,52 @@ The Arrangement of Rules at the beginning of the statutory instrument lists the 
 
 ## Annotations
 
-[^key-d0ff2d1cc14b715472b753963984e990]: Modification: [Rules](https://www.legislation.gov.uk/uksi/1986/1925) applied (29.12.1986) by [The Administration of Insolvent Estates of Deceased Persons Order 1986 (S.I. 1986/1999)](https://www.legislation.gov.uk/uksi/1986/1999), [arts. 1](https://www.legislation.gov.uk/uksi/1986/1999/article/1), [3(1)](https://www.legislation.gov.uk/uksi/1986/1999/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/1986/1999/article/3/2))
+[^c-d0ff2d1cc14b715472b753963984e990]: Modification: [Rules](https://www.legislation.gov.uk/uksi/1986/1925) applied (29.12.1986) by [The Administration of Insolvent Estates of Deceased Persons Order 1986 (S.I. 1986/1999)](https://www.legislation.gov.uk/uksi/1986/1999), [arts. 1](https://www.legislation.gov.uk/uksi/1986/1999/article/1), [3(1)](https://www.legislation.gov.uk/uksi/1986/1999/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/1986/1999/article/3/2))
 
-[^key-d3777025b4b323db1d78099b781dfdfa]: Modification: Rules construed as one with the amending S.I. (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rules 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [2(2)](https://www.legislation.gov.uk/uksi/1987/1919/rule/2/2)
+[^c-d3777025b4b323db1d78099b781dfdfa]: Modification: Rules construed as one with the amending S.I. (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rules 1](https://www.legislation.gov.uk/uksi/1987/1919/rule/1), [2(2)](https://www.legislation.gov.uk/uksi/1987/1919/rule/2/2)
 
-[^key-ec89c681909e870085d078b1e2a4da0d]: Modification: Rules construed as one with the amending S.I. (3.4.1989 with application in accordance with rule. 3(2)) by [The Insolvency (Amendment) Rules 1989 (S.I. 1989/397)](https://www.legislation.gov.uk/uksi/1989/397), [rules 1](https://www.legislation.gov.uk/uksi/1989/397/rule/1), [2(2)](https://www.legislation.gov.uk/uksi/1989/397/rule/2/2)
+[^c-ec89c681909e870085d078b1e2a4da0d]: Modification: Rules construed as one with the amending S.I. (3.4.1989 with application in accordance with rule. 3(2)) by [The Insolvency (Amendment) Rules 1989 (S.I. 1989/397)](https://www.legislation.gov.uk/uksi/1989/397), [rules 1](https://www.legislation.gov.uk/uksi/1989/397/rule/1), [2(2)](https://www.legislation.gov.uk/uksi/1989/397/rule/2/2)
 
-[^key-48800a257c9bf685d7676b74e31945f3]: Modification: Rules modified in part (1.1.1992) by [The Solicitors' Incorporated Practices Order 1991 (S.I. 1991/2684)](https://www.legislation.gov.uk/uksi/1991/2684), [arts. 1](https://www.legislation.gov.uk/uksi/1991/2684/article/1), [4](https://www.legislation.gov.uk/uksi/1991/2684/article/4), [5](https://www.legislation.gov.uk/uksi/1991/2684/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2684/schedule/1)
+[^c-48800a257c9bf685d7676b74e31945f3]: Modification: Rules modified in part (1.1.1992) by [The Solicitors' Incorporated Practices Order 1991 (S.I. 1991/2684)](https://www.legislation.gov.uk/uksi/1991/2684), [arts. 1](https://www.legislation.gov.uk/uksi/1991/2684/article/1), [4](https://www.legislation.gov.uk/uksi/1991/2684/article/4), [5](https://www.legislation.gov.uk/uksi/1991/2684/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2684/schedule/1)
 
-[^key-2d80454d0cf81f8e899fde0eb800367f]: Modification: Rules applied (with modifications) (6.4.2001) by [Limited Liability Partnerships Regulations 2001 (S.I. 2001/1090)](https://www.legislation.gov.uk/uksi/2001/1090), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1090/regulation/1), [Sch. 6 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/2001/1090/schedule/6/part/2/paragraph/3) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2001/1090/regulation/10/2))
+[^c-2d80454d0cf81f8e899fde0eb800367f]: Modification: Rules applied (with modifications) (6.4.2001) by [Limited Liability Partnerships Regulations 2001 (S.I. 2001/1090)](https://www.legislation.gov.uk/uksi/2001/1090), [reg. 1](https://www.legislation.gov.uk/uksi/2001/1090/regulation/1), [Sch. 6 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/2001/1090/schedule/6/part/2/paragraph/3) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2001/1090/regulation/10/2))
 
-[^key-4e9cb2ddf5bd049c5585eb978b753e60]: Modification: Rules excluded (7.10.2001) by [The Railway Administration Order Rules 2001 (S.I. 2001/3352)](https://www.legislation.gov.uk/uksi/2001/3352), [rules 1.1](https://www.legislation.gov.uk/uksi/2001/3352/rule/1.1), [10.11](https://www.legislation.gov.uk/uksi/2001/3352/rule/10.11)
+[^c-4e9cb2ddf5bd049c5585eb978b753e60]: Modification: Rules excluded (7.10.2001) by [The Railway Administration Order Rules 2001 (S.I. 2001/3352)](https://www.legislation.gov.uk/uksi/2001/3352), [rules 1.1](https://www.legislation.gov.uk/uksi/2001/3352/rule/1.1), [10.11](https://www.legislation.gov.uk/uksi/2001/3352/rule/10.11)
 
-[^key-a22dd2e272d1f87d7576800c937ef231]: Modification: Rules applied (with modifications) (1.12.2001) by [The Bankruptcy (Financial Services and Markets Act 2000) Rules 2001 (S.I. 2001/3634)](https://www.legislation.gov.uk/uksi/2001/3634), [rules 1](https://www.legislation.gov.uk/uksi/2001/3634/rule/1), [3-8](https://www.legislation.gov.uk/uksi/2001/3634/rule/3)
+[^c-a22dd2e272d1f87d7576800c937ef231]: Modification: Rules applied (with modifications) (1.12.2001) by [The Bankruptcy (Financial Services and Markets Act 2000) Rules 2001 (S.I. 2001/3634)](https://www.legislation.gov.uk/uksi/2001/3634), [rules 1](https://www.legislation.gov.uk/uksi/2001/3634/rule/1), [3-8](https://www.legislation.gov.uk/uksi/2001/3634/rule/3)
 
-[^key-16d94e67b69578f8b3bad6b205275bc9]: Modification: Rules applied (with modifications) (1.8.2007) by [The European Grouping of Territorial Cooperation Regulations 2007 (revoked) 2007 (S.I. 2007/1949)](https://www.legislation.gov.uk/uksi/2007/1949), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/1949/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2007/1949/regulation/7), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2007/1949/schedule/part/3)
+[^c-16d94e67b69578f8b3bad6b205275bc9]: Modification: Rules applied (with modifications) (1.8.2007) by [The European Grouping of Territorial Cooperation Regulations 2007 (revoked) 2007 (S.I. 2007/1949)](https://www.legislation.gov.uk/uksi/2007/1949), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/1949/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2007/1949/regulation/7), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2007/1949/schedule/part/3)
 
-[^key-b2976d628e99c53b188383788bde7f9d]: Modification: Rules applied (6.8.2007) by [S.I. 1987/2023](https://www.legislation.gov.uk/uksi/1987/2023), [rule 2(5)](https://www.legislation.gov.uk/uksi/1987/2023/rule/2/5) (as inserted by [The Insolvent Companies (Disqualification of Unfit Directors) Proceedings (Amendment) Rules 2007 (S.I. 2007/1906)](https://www.legislation.gov.uk/uksi/2007/1906), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1906/rule/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/1906/rule/3/3) (with [rule 1(3)](https://www.legislation.gov.uk/uksi/2007/1906/rule/1/3)))
+[^c-b2976d628e99c53b188383788bde7f9d]: Modification: Rules applied (6.8.2007) by [S.I. 1987/2023](https://www.legislation.gov.uk/uksi/1987/2023), [rule 2(5)](https://www.legislation.gov.uk/uksi/1987/2023/rule/2/5) (as inserted by [The Insolvent Companies (Disqualification of Unfit Directors) Proceedings (Amendment) Rules 2007 (S.I. 2007/1906)](https://www.legislation.gov.uk/uksi/2007/1906), [rules 1(1)](https://www.legislation.gov.uk/uksi/2007/1906/rule/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2007/1906/rule/3/3) (with [rule 1(3)](https://www.legislation.gov.uk/uksi/2007/1906/rule/1/3)))
 
-[^key-4d52716dd11323d319e09efd3d486a6f]: Textual amendment: [Pt. 1 Chs. 7](https://www.legislation.gov.uk/uksi/1986/1925/part/1/chapter/7), [8](https://www.legislation.gov.uk/uksi/1986/1925/part/1/chapter/8) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [4(4)](https://www.legislation.gov.uk/uksi/2002/1307/rule/4/4) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
+[^c-4d52716dd11323d319e09efd3d486a6f]: Textual amendment: [Pt. 1 Chs. 7](https://www.legislation.gov.uk/uksi/1986/1925/part/1/chapter/7), [8](https://www.legislation.gov.uk/uksi/1986/1925/part/1/chapter/8) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [4(4)](https://www.legislation.gov.uk/uksi/2002/1307/rule/4/4) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
 
-[^key-a24294a6c677ad37333268cfc6787cfd]: Textual amendment: Pt. 1 Ch. 9 inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2002/2712/schedule/1/paragraph/21) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/rule/3/2))
+[^c-a24294a6c677ad37333268cfc6787cfd]: Textual amendment: Pt. 1 Ch. 9 inserted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2002/2712/schedule/1/paragraph/21) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/rule/3/2))
 
-[^key-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
+[^c-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
 
-[^key-7b4127b9e01d495f530bfe487c22b806]: Textual amendment: [Pt. 3 Ch. 7](https://www.legislation.gov.uk/uksi/1986/1925/part/3/chapter/7) inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/11)
+[^c-7b4127b9e01d495f530bfe487c22b806]: Textual amendment: [Pt. 3 Ch. 7](https://www.legislation.gov.uk/uksi/1986/1925/part/3/chapter/7) inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/11)
 
-[^key-7007abc96878b2f409cd81e24b460e8a]: Textual amendment: Pt. 4 Ch. 23 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [6(9)](https://www.legislation.gov.uk/uksi/2002/1307/rule/6/9) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
+[^c-7007abc96878b2f409cd81e24b460e8a]: Textual amendment: Pt. 4 Ch. 23 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [6(9)](https://www.legislation.gov.uk/uksi/2002/1307/rule/6/9) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
 
 [^M_F_b0164211-5029-4fd7-ab4d-0575a9715ee0]: Textual amendment: Pt. 5 substituted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/24) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/rule/3/2))
 
-[^key-8d65eb9d3bcd19d0fe8fff34f33d3479]: Textual amendment: Pt. 5 Chs. 7-12 substituted for Pt. 5 Ch. 7 (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/3), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/31)
+[^c-8d65eb9d3bcd19d0fe8fff34f33d3479]: Textual amendment: Pt. 5 Chs. 7-12 substituted for Pt. 5 Ch. 7 (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/3), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/31)
 
-[^key-6b4bdc321feca16cded57229ab349ada]: Textual amendment: [Pt. 6 Ch. 16A](https://www.legislation.gov.uk/uksi/1986/1925/part/6/chapter/16A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/39)
+[^c-6b4bdc321feca16cded57229ab349ada]: Textual amendment: [Pt. 6 Ch. 16A](https://www.legislation.gov.uk/uksi/1986/1925/part/6/chapter/16A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/39)
 
-[^key-885cec51e98bc54fb39a081a27c1ee46]: Textual amendment: [Pt. 6 Ch. 21A](https://www.legislation.gov.uk/uksi/1986/1925/part/6/chapter/21A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/46) (with [rule 9(3)(c)](https://www.legislation.gov.uk/uksi/2003/1730/article/9/3/c))
+[^c-885cec51e98bc54fb39a081a27c1ee46]: Textual amendment: [Pt. 6 Ch. 21A](https://www.legislation.gov.uk/uksi/1986/1925/part/6/chapter/21A) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/46) (with [rule 9(3)(c)](https://www.legislation.gov.uk/uksi/2003/1730/article/9/3/c))
 
-[^key-b0b4b31d0791043ca7f65e59f0c52b51]: Textual amendment: Pt. 6 Ch. 22A revoked (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/50)
+[^c-b0b4b31d0791043ca7f65e59f0c52b51]: Textual amendment: Pt. 6 Ch. 22A revoked (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/50)
 
-[^key-3ba1a371c073b6872a3dad6390610eab]: Textual amendment: Pt. 6 Ch. 27 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [8(9)](https://www.legislation.gov.uk/uksi/2002/1307/rule/8/9) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
+[^c-3ba1a371c073b6872a3dad6390610eab]: Textual amendment: Pt. 6 Ch. 27 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [8(9)](https://www.legislation.gov.uk/uksi/2002/1307/rule/8/9) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
 
-[^key-f1680a6cfbb1fcae58930e797b64ba80]: Textual amendment: [Pt. 6 Chs. 28-30](https://www.legislation.gov.uk/uksi/1986/1925/part/6/chapter/28) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/52)
+[^c-f1680a6cfbb1fcae58930e797b64ba80]: Textual amendment: [Pt. 6 Chs. 28-30](https://www.legislation.gov.uk/uksi/1986/1925/part/6/chapter/28) inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 52](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/52)
 
-[^key-d1919e44dc131030ccb9fcb0de2ece83]: Textual amendment: Pt. 6A inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/53)
+[^c-d1919e44dc131030ccb9fcb0de2ece83]: Textual amendment: Pt. 6A inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(3)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/3), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/53)
 
-[^key-c5eaab65272188f4ce7782597f0c6150]: Textual amendment: Pt. 7 Ch. 6 substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/rule/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/3)
+[^c-c5eaab65272188f4ce7782597f0c6150]: Textual amendment: Pt. 7 Ch. 6 substituted (26.4.1999) by [The Insolvency (Amendment) (No. 2) Rules 1999 (S.I. 1999/1022)](https://www.legislation.gov.uk/uksi/1999/1022), [rule 1](https://www.legislation.gov.uk/uksi/1999/1022/rule/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/1999/1022/schedule/paragraph/3)
 
-[^key-34ba70ac6891607a7f4663a3c96683ff]: Textual amendment: [Ch. 7 Pt. 7](https://www.legislation.gov.uk/uksi/1986/1925/chapter/7/part/7) heading substituted (1.10.2007) by [The Mental Capacity Act 2005 (Transitional and Consequential Provisions) Order 2007 (S.I. 2007/1898)](https://www.legislation.gov.uk/uksi/2007/1898), [art. 1](https://www.legislation.gov.uk/uksi/2007/1898/article/1), [Sch. 1 para. 12(4)](https://www.legislation.gov.uk/uksi/2007/1898/schedule/1/paragraph/12/4)
+[^c-34ba70ac6891607a7f4663a3c96683ff]: Textual amendment: [Ch. 7 Pt. 7](https://www.legislation.gov.uk/uksi/1986/1925/chapter/7/part/7) heading substituted (1.10.2007) by [The Mental Capacity Act 2005 (Transitional and Consequential Provisions) Order 2007 (S.I. 2007/1898)](https://www.legislation.gov.uk/uksi/2007/1898), [art. 1](https://www.legislation.gov.uk/uksi/2007/1898/article/1), [Sch. 1 para. 12(4)](https://www.legislation.gov.uk/uksi/2007/1898/schedule/1/paragraph/12/4)
 
-[^key-f71bd373b87d3753c5c1943b00046733]: Textual amendment: Pt. 7 Chs. 10, 11 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [9(1)](https://www.legislation.gov.uk/uksi/2002/1307/rule/9/1) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
+[^c-f71bd373b87d3753c5c1943b00046733]: Textual amendment: Pt. 7 Chs. 10, 11 inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [9(1)](https://www.legislation.gov.uk/uksi/2002/1307/rule/9/1) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Inspection[^key-024cac577813b05e398d95fdf26a5783][^key-8dfe74a98e9e2e77db03b6a4d0229f44]
+## 42. Inspection[^c-024cac577813b05e398d95fdf26a5783][^c-8dfe74a98e9e2e77db03b6a4d0229f44]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-024cac577813b05e398d95fdf26a5783]: Textual amendment: [S. 42](https://www.legislation.gov.uk/ukpga/2005/11/section/42) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/12)
+[^c-024cac577813b05e398d95fdf26a5783]: Textual amendment: [S. 42](https://www.legislation.gov.uk/ukpga/2005/11/section/42) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/12)
 
-[^key-8dfe74a98e9e2e77db03b6a4d0229f44]: Commencement: S. 42 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-8dfe74a98e9e2e77db03b6a4d0229f44]: Commencement: S. 42 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Referral to referee: requirements in preliminary certificate or final certificate[^key-18787258e154837dbce293f4de094f7a]
+## 60. Referral to referee: requirements in preliminary certificate or final certificate[^c-18787258e154837dbce293f4de094f7a]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18787258e154837dbce293f4de094f7a]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2011/9/section/60) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-18787258e154837dbce293f4de094f7a]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2011/9/section/60) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

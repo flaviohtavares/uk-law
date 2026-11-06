@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Offence of virginity testing: England and Wales[^key-87598caf7bcaf6c891c55043615c8b61][^key-e8774f0cee7c344045f0472d485282c6]
+## 136. Offence of virginity testing: England and Wales[^c-87598caf7bcaf6c891c55043615c8b61][^c-e8774f0cee7c344045f0472d485282c6]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-87598caf7bcaf6c891c55043615c8b61]: Commencement: S. 136 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-87598caf7bcaf6c891c55043615c8b61]: Commencement: S. 136 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-e8774f0cee7c344045f0472d485282c6]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2022/31/section/136) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-e8774f0cee7c344045f0472d485282c6]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2022/31/section/136) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

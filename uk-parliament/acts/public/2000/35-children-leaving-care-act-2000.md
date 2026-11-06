@@ -364,7 +364,7 @@ In the 1989 Act, after section 24C insert—
 
 *Extent: E+W*
 
-- (ba)[^key-fc21ca1bc5d02f542c24532696014d91] a category 1 young person within the meaning of section 104 of the Social Services and Well-being (Wales) Act 2014;
+- (ba)[^c-fc21ca1bc5d02f542c24532696014d91] a category 1 young person within the meaning of section 104 of the Social Services and Well-being (Wales) Act 2014;
 - (bb (Extent: E+W)) a category 2 young person within the meaning of section 104 of the Social Services and Well-being (Wales) Act 2014; *(Extent: E+W)*
 - (c) any person of a description prescribed in regulations under subsection (4).
 
@@ -466,7 +466,7 @@ are repealed.
 
 [^c8871821]: Marginal citation: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-fc21ca1bc5d02f542c24532696014d91]: Textual amendment: [S. 6(2)(ba)(bb)](https://www.legislation.gov.uk/ukpga/2000/35/section/6/2/ba) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [178](https://www.legislation.gov.uk/wsi/2016/413/regulation/178)
+[^c-fc21ca1bc5d02f542c24532696014d91]: Textual amendment: [S. 6(2)(ba)(bb)](https://www.legislation.gov.uk/ukpga/2000/35/section/6/2/ba) inserted (E.W.) (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [178](https://www.legislation.gov.uk/wsi/2016/413/regulation/178)
 
 [^c8871831]: Marginal citation: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36).
 

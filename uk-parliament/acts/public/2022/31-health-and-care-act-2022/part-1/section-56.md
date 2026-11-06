@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Recommendations about restructuring of NHS trusts[^key-d79f1270b0c1279d9815253d10c02e24][^key-fec629a87fe6b7e3a0808189d4833cf1]
+## 56. Recommendations about restructuring of NHS trusts[^c-d79f1270b0c1279d9815253d10c02e24][^c-fec629a87fe6b7e3a0808189d4833cf1]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ After section 27B of the National Health Service Act 2006 (inserted by section 5
 
 ## Annotations
 
-[^key-d79f1270b0c1279d9815253d10c02e24]: Commencement: S. 56 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-d79f1270b0c1279d9815253d10c02e24]: Commencement: S. 56 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-fec629a87fe6b7e3a0808189d4833cf1]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2022/31/section/56) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-fec629a87fe6b7e3a0808189d4833cf1]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2022/31/section/56) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

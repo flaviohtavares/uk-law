@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Overpayments of college fee loan[^key-aa92c28ffa7dfd40f4d5423c7066ac30]
+## 112. Overpayments of college fee loan[^c-aa92c28ffa7dfd40f4d5423c7066ac30]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Any overpayment of college fee loan is recoverable by the Secretary of State fro
 
 ## Annotations
 
-[^key-aa92c28ffa7dfd40f4d5423c7066ac30]: Commencement: Reg. 112 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-aa92c28ffa7dfd40f4d5423c7066ac30]: Commencement: Reg. 112 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

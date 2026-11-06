@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Access to seized documents[^key-d6a3adaa444e90d2c8222dc0c6c8cdaa]
+## 124. Access to seized documents[^c-d6a3adaa444e90d2c8222dc0c6c8cdaa]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6a3adaa444e90d2c8222dc0c6c8cdaa]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2025/26/section/124) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-d6a3adaa444e90d2c8222dc0c6c8cdaa]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2025/26/section/124) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

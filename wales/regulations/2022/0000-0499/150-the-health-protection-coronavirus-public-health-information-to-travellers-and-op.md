@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, Public Health Information to Travellers and Operator Liability) (Wales) (Amendment) Regulations 2022 (revoked)[^key-183937dde54fa7c527bc732e0b668dd9]
+The Health Protection (Coronavirus, Public Health Information to Travellers and Operator Liability) (Wales) (Amendment) Regulations 2022 (revoked)[^c-183937dde54fa7c527bc732e0b668dd9]
 
 Made
 
@@ -45,51 +45,51 @@ Coming into force
 
 18 February 2022
 
-[^key-183937dde54fa7c527bc732e0b668dd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-183937dde54fa7c527bc732e0b668dd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and coming into force[^key-183937dde54fa7c527bc732e0b668dd9]
+## 1. Title and coming into force[^c-183937dde54fa7c527bc732e0b668dd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus, Public Health Information for Persons Travelling to Wales etc.) Regulations 2020[^key-183937dde54fa7c527bc732e0b668dd9]
+## 2. Amendment of the Health Protection (Coronavirus, Public Health Information for Persons Travelling to Wales etc.) Regulations 2020[^c-183937dde54fa7c527bc732e0b668dd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of the Health Protection (Coronavirus, International Travel, Pre-Departure Testing and Operator Liability) (Wales) (Amendment) Regulations 2021[^key-183937dde54fa7c527bc732e0b668dd9]
+## 10. Amendment of the Health Protection (Coronavirus, International Travel, Pre-Departure Testing and Operator Liability) (Wales) (Amendment) Regulations 2021[^c-183937dde54fa7c527bc732e0b668dd9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-183937dde54fa7c527bc732e0b668dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-183937dde54fa7c527bc732e0b668dd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-183937dde54fa7c527bc732e0b668dd9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-183937dde54fa7c527bc732e0b668dd9]EXPLANATORY NOTE
+[^c-183937dde54fa7c527bc732e0b668dd9]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -109,4 +109,4 @@ There has been no regulatory impact assessment in relation to these Regulations 
 
 ## Annotations
 
-[^key-183937dde54fa7c527bc732e0b668dd9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2022/150) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 60](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/60)
+[^c-183937dde54fa7c527bc732e0b668dd9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2022/150) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 60](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/60)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101.[^key-3532bf76e451d1c739a8fed71790d1e1]
+## 101.[^c-3532bf76e451d1c739a8fed71790d1e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ In Article 27 (monitoring market quality and competition)—
 
 ## Annotations
 
-[^key-3532bf76e451d1c739a8fed71790d1e1]: Commencement: Reg. 101 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-3532bf76e451d1c739a8fed71790d1e1]: Commencement: Reg. 101 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

@@ -31,72 +31,72 @@ Road Traffic Regulation Act 1967 (repealed)
 
 1967 c. 76
 
-[^key-2a9a7ef67a092240c9dc277ea4aa227e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a9a7ef67a092240c9dc277ea4aa227e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 27th July 1967.
 
 **No longer in force.**
 
-## 1—108. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-2a9a7ef67a092240c9dc277ea4aa227e][^key-2a9a7ef67a092240c9dc277ea4aa227e]
+## 1—108. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-2a9a7ef67a092240c9dc277ea4aa227e][^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
-## Supplementary[^key-2a9a7ef67a092240c9dc277ea4aa227e]
+## Supplementary[^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
-### 109. Consequential amendments.[^key-2a9a7ef67a092240c9dc277ea4aa227e][^key-2a9a7ef67a092240c9dc277ea4aa227e]
+### 109. Consequential amendments.[^c-2a9a7ef67a092240c9dc277ea4aa227e][^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 110—112. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-2a9a7ef67a092240c9dc277ea4aa227e][^key-2a9a7ef67a092240c9dc277ea4aa227e]
+### 110—112. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-2a9a7ef67a092240c9dc277ea4aa227e][^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
-### 113. †Short title, commencement and extent.[^key-2a9a7ef67a092240c9dc277ea4aa227e][^key-2a9a7ef67a092240c9dc277ea4aa227e]
+### 113. †Short title, commencement and extent.[^c-2a9a7ef67a092240c9dc277ea4aa227e][^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULES 1–5.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-2a9a7ef67a092240c9dc277ea4aa227e]
+## SCHEDULES 1–5.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — CONSEQUENTIAL AMENDMENTS[^key-2a9a7ef67a092240c9dc277ea4aa227e]
+## SCHEDULE 6 — CONSEQUENTIAL AMENDMENTS[^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
 Section 109.
 
-[^key-2a9a7ef67a092240c9dc277ea4aa227e]
+[^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a9a7ef67a092240c9dc277ea4aa227e]
+[^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a9a7ef67a092240c9dc277ea4aa227e]
+[^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### THE ROAD TRAFFIC ACT 1960[^key-2a9a7ef67a092240c9dc277ea4aa227e]
+### THE ROAD TRAFFIC ACT 1960[^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a9a7ef67a092240c9dc277ea4aa227e]
+[^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a9a7ef67a092240c9dc277ea4aa227e]
+[^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a9a7ef67a092240c9dc277ea4aa227e]
+[^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a9a7ef67a092240c9dc277ea4aa227e]
+[^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULES 7, 8.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-2a9a7ef67a092240c9dc277ea4aa227e]
+## SCHEDULES 7, 8.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-2a9a7ef67a092240c9dc277ea4aa227e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a9a7ef67a092240c9dc277ea4aa227e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1967/76) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-2a9a7ef67a092240c9dc277ea4aa227e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1967/76) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

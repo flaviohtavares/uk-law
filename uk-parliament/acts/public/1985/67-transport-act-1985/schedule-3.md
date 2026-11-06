@@ -90,7 +90,7 @@ for the word “designated” (in each place where it occurs) there shall be sub
 
 - (a) in subsection (1) (authorities to whom the section applies), for the words from “designated” to “section 9(1)” there shall be substituted the words “area which is a passenger transport area for the purposes of Part II”;
 - (b) in subsection (3)(b), for the words from “Authority” to the end of the paragraph there shall be substituted the words “Passenger Transport Authority for the passenger transport area in question (referred to below in this section as the relevant Passenger Transport Authority)”; and
-- (c) in subsection (4), for the words “Authority established as aforesaid” and “Authority so established” there shall be substituted the words “relevant Passenger Transport Authority”. *(Extent: E+W)* *(affected by repeal, see note)*[^key-805a593773e34f226ee716dd24e4bfca]
+- (c) in subsection (4), for the words “Authority established as aforesaid” and “Authority so established” there shall be substituted the words “relevant Passenger Transport Authority”. *(Extent: E+W)* *(affected by repeal, see note)*[^c-805a593773e34f226ee716dd24e4bfca]
 
 **19.** In section 141(1) of that Act (application of Town and Country Planning Acts), for the words from “designated” to “section 9(1)” there shall be substituted the words “for any area which is a passenger transport area for the purposes of Part II”.
 
@@ -178,7 +178,7 @@ and in paragraph 3(b), for “9(1)(b)” there shall be substituted “9(2)”.
 
 [^c19438921]: Textual amendment: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/1985/67/schedule/3/paragraph/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
-[^key-805a593773e34f226ee716dd24e4bfca]: Textual amendment: [Sch. 3 para. 18(c)](https://www.legislation.gov.uk/ukpga/1985/67/schedule/3/paragraph/18/c) repealed (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-805a593773e34f226ee716dd24e4bfca]: Textual amendment: [Sch. 3 para. 18(c)](https://www.legislation.gov.uk/ukpga/1985/67/schedule/3/paragraph/18/c) repealed (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
 [^c10883951]: Marginal citation: [1969 c. 48](https://www.legislation.gov.uk/ukpga/1969/48).
 

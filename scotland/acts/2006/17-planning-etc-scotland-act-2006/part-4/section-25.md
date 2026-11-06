@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Fixed penalty notices[^key-cc13a76eb080e04dda3b34430801f126][^key-bf0861e0645fd29cec1b60e1ad83fd9d]
+## 25. Fixed penalty notices[^c-cc13a76eb080e04dda3b34430801f126][^c-bf0861e0645fd29cec1b60e1ad83fd9d]
 
 *Extent: S*
 
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc13a76eb080e04dda3b34430801f126]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2006/17/section/25) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(b)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/b)
+[^c-cc13a76eb080e04dda3b34430801f126]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2006/17/section/25) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(b)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/b)
 
-[^key-bf0861e0645fd29cec1b60e1ad83fd9d]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2006/17/section/25) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-bf0861e0645fd29cec1b60e1ad83fd9d]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2006/17/section/25) in force at 3.8.2009 in so far as not already in force by [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

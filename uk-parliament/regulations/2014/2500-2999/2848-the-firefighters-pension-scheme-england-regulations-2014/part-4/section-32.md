@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Receipt of a transfer value payment[^key-839f81452b1681689f7361671b84626b]
+## 32. Receipt of a transfer value payment[^c-839f81452b1681689f7361671b84626b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-839f81452b1681689f7361671b84626b]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2014/2848/regulation/32) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-839f81452b1681689f7361671b84626b]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2014/2848/regulation/32) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

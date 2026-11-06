@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. The age-related secondary percentage[^key-7658feec79c097acbfa31c3bb96b69be]
+## 9A. The age-related secondary percentage[^c-7658feec79c097acbfa31c3bb96b69be]
 
 *Extent: N.I.*
 
@@ -59,6 +59,6 @@ this section is not to apply to the earnings so far as they exceed that threshol
 
 ## Annotations
 
-[^key-7658feec79c097acbfa31c3bb96b69be]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/1992/7/section/9A) inserted (13.5.2014 for specified purposes, 6.4.2015 in so far as not already in force) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 9(8)](https://www.legislation.gov.uk/ukpga/2014/7/section/9/8)[(11)(a)](https://www.legislation.gov.uk/ukpga/2014/7/section/9/11/a)
+[^c-7658feec79c097acbfa31c3bb96b69be]: Textual amendment: [S. 9A](https://www.legislation.gov.uk/ukpga/1992/7/section/9A) inserted (13.5.2014 for specified purposes, 6.4.2015 in so far as not already in force) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 9(8)](https://www.legislation.gov.uk/ukpga/2014/7/section/9/8)[(11)(a)](https://www.legislation.gov.uk/ukpga/2014/7/section/9/11/a)
 
 [^M_F_9f189f3d-d842-498b-bf5d-7e5e96c02996]: Textual amendment: S. 9A(1A) inserted (6.4.2016) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [s. 1(8)](https://www.legislation.gov.uk/ukpga/2015/5/section/1/8)[(11)(b)](https://www.legislation.gov.uk/ukpga/2015/5/section/1/11/b)

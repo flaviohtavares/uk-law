@@ -30,17 +30,17 @@ Before Article 1 insert—
 > - “**the 2009 Employee Involvement (GB) Regulations**” means the European Public Limited-Liability Company (Employee Involvement) (Great Britain) Regulations 2009 [^c23529041];
 > - “**the 2009 Employee Involvement (NI) Regulations**” means the European Public Limited-Liability Company (Employee Involvement) (Northern Ireland) Regulations 2009 [^c23529051];
 > - “**the Companies Acts**” has the meaning given by section 2 of the Companies Act 2006 [^c23529061];
-> - “**SE**” means a European Public Limited-Liability Company (or Societas Europaea) within the meaning of this regulation, as it had effect immediately before IP completion day[^key-222e8402e0b6d92d36d35203219c3676] and means an SE registered in the United Kingdom.
+> - “**SE**” means a European Public Limited-Liability Company (or Societas Europaea) within the meaning of this regulation, as it had effect immediately before IP completion day[^c-222e8402e0b6d92d36d35203219c3676] and means an SE registered in the United Kingdom.
 >
 > **Article AA1**
 >
 > **1.**
 >
-> On IP completion day[^key-327c19f20607e4406bf38e89309a70c1] every SE which remains registered in the United Kingdom immediately before IP completion day converts to a United Kingdom Societas (or UK Societas), and on and after IP completion day “UK Societas” replaces “SE” in its name.
+> On IP completion day[^c-327c19f20607e4406bf38e89309a70c1] every SE which remains registered in the United Kingdom immediately before IP completion day converts to a United Kingdom Societas (or UK Societas), and on and after IP completion day “UK Societas” replaces “SE” in its name.
 >
 > **2.**
 >
-> A UK Societas is deemed to have in place of its existing statutes, statutes that comprise the provisions of its existing statutes save that, as they apply from IP completion day[^key-cbcfe55b08c01729e6974819825fafbb]—
+> A UK Societas is deemed to have in place of its existing statutes, statutes that comprise the provisions of its existing statutes save that, as they apply from IP completion day[^c-cbcfe55b08c01729e6974819825fafbb]—
 >
 > - (a) “UK Societas” replaces “SE” in any reference to the SE's name;
 > - (b) any use of “European Public Limited-Liability Company” or “Societas Europaea” is replaced by “ United Kingdom Societas ” or “UK Societas”;
@@ -55,7 +55,7 @@ Before Article 1 insert—
 >
 > In paragraph 4, an “**outgoing SE**” means an SE—
 >
-> - (a) which, immediately before IP completion day[^key-d3748c7ea89073bb178c6cfb4daebe21], is registered in a Member State pursuant to a transfer of its registered address from the United Kingdom to that Member State; but
+> - (a) which, immediately before IP completion day[^c-d3748c7ea89073bb178c6cfb4daebe21], is registered in a Member State pursuant to a transfer of its registered address from the United Kingdom to that Member State; but
 > - (b) whose registration in the United Kingdom has not been deleted before IP completion day,
 >
 > in accordance with Article 8 of this Regulation, as it applied immediately before IP completion day.
@@ -95,12 +95,12 @@ Before Article 1 insert—
 
 [^c23529061]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-222e8402e0b6d92d36d35203219c3676]: Textual amendment: Words in [reg. 97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/uksi/2020/523/regulation/4/a/i)
+[^c-222e8402e0b6d92d36d35203219c3676]: Textual amendment: Words in [reg. 97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [4(a)(i)](https://www.legislation.gov.uk/uksi/2020/523/regulation/4/a/i)
 
-[^key-327c19f20607e4406bf38e89309a70c1]: Textual amendment: Words in [reg. 97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [4(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/523/regulation/4/a/ii/aa)
+[^c-327c19f20607e4406bf38e89309a70c1]: Textual amendment: Words in [reg. 97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [4(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/523/regulation/4/a/ii/aa)
 
-[^key-cbcfe55b08c01729e6974819825fafbb]: Textual amendment: Words in [reg. 97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [4(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/523/regulation/4/a/ii/bb)
+[^c-cbcfe55b08c01729e6974819825fafbb]: Textual amendment: Words in [reg. 97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [4(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/523/regulation/4/a/ii/bb)
 
 [^c23529071]: Marginal citation: OJ No. L 294, 10.11.2001, p. 22.
 
-[^key-d3748c7ea89073bb178c6cfb4daebe21]: Textual amendment: Words in [reg. 97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [4(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/523/regulation/4/a/ii/cc)
+[^c-d3748c7ea89073bb178c6cfb4daebe21]: Textual amendment: Words in [reg. 97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [4(a)(ii)(cc)](https://www.legislation.gov.uk/uksi/2020/523/regulation/4/a/ii/cc)

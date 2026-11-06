@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies if section 224(2) applies to EIS relief attributable to shares held by an individual and—
 
 - (a) the amount of the reduction (“A”) in the individual's liability to income tax for any tax year in respect of the shares, is less than
-- (b) the amount (“B”) which is equal to income tax at the EIS[^key-be153e215c6af22137c0c8f1400272de] original rate on the amount on which the individual claims EIS relief in respect of the shares.
+- (b) the amount (“B”) which is equal to income tax at the EIS[^c-be153e215c6af22137c0c8f1400272de] original rate on the amount on which the individual claims EIS relief in respect of the shares.
 
 (2) Section 224(2) has effect as if the amount referred to as “**R**” were reduced by multiplying it by the fraction—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be153e215c6af22137c0c8f1400272de]: Textual amendment: Words in s. 229(1)(b) substituted (13.10.2011) (with effect in accordance with s. 42(7)(8) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 42(3)(f)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/3/f)[(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/6); [S.I. 2011/2459](https://www.legislation.gov.uk/uksi/2011/2459), [art. 2](https://www.legislation.gov.uk/uksi/2011/2459/article/2)
+[^c-be153e215c6af22137c0c8f1400272de]: Textual amendment: Words in s. 229(1)(b) substituted (13.10.2011) (with effect in accordance with s. 42(7)(8) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 42(3)(f)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/3/f)[(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/6); [S.I. 2011/2459](https://www.legislation.gov.uk/uksi/2011/2459), [art. 2](https://www.legislation.gov.uk/uksi/2011/2459/article/2)

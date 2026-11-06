@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Report on operation of Act[^key-503b83f532e37b5a4d8599d7bdd9493d]
+## 28. Report on operation of Act[^c-503b83f532e37b5a4d8599d7bdd9493d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-503b83f532e37b5a4d8599d7bdd9493d]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2018/12/section/28) in force at 4.10.2018 by [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)
+[^c-503b83f532e37b5a4d8599d7bdd9493d]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2018/12/section/28) in force at 4.10.2018 by [S.S.I. 2018/282](https://www.legislation.gov.uk/ssi/2018/282), [reg. 2](https://www.legislation.gov.uk/ssi/2018/282/regulation/2)

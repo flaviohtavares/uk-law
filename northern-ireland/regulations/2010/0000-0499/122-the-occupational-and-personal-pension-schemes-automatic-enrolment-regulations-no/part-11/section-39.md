@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Requirements for meeting the test scheme standard[^key-67f6796d89a40407302b2c91ef029325]
+## 39. Requirements for meeting the test scheme standard[^c-67f6796d89a40407302b2c91ef029325]
 
 *Extent: N.I.*
 
@@ -39,7 +39,7 @@ may certify that a scheme satisfies the test scheme standard.
   - (ii) death benefits;
   - (iii) discretionary benefits (apart from those arising from discretionary pre-retirement revaluation made in the case of schemes providing for average salary benefits);
   - (iv) survivors’ benefits;
-  - (v) [^key-e8ff5b7b2b26c04d811a5616fe84bcaa]... money purchase benefits;
+  - (v) [^c-e8ff5b7b2b26c04d811a5616fe84bcaa]... money purchase benefits;
   - (vi) benefits in respect of any person who is not a jobholder for the purposes of the Act;
   - (vii) benefits in respect of any jobholder whose annual rate of benefit accrual under the scheme has been reduced below the rate specified in section 23(4)(a) (test scheme), where the reduction is made as a result of a request made by the jobholder in question in accordance with scheme rules, or
   - (viii) benefits in respect of any jobholder who has given notice under section 8 (jobholder’s right to opt out).
@@ -55,7 +55,7 @@ a scheme actuary or employer must follow any guidance issued by the Department u
 
 (7) “Scheme actuary” has the meaning given in section 22(7) except—
 
-- (a)[^key-2a0ecd916c61e2207a63dcf03c4c9e05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2a0ecd916c61e2207a63dcf03c4c9e05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) where the scheme is a defined benefits or hybrid scheme within section 18(c) and there is an actuary appointed to the scheme who satisfies the requirements of regulations made under Article 47(5) of the 1995 Order[^f00014] (professional advisers), or
 - (c) in any other circumstances where, by virtue of regulations made under Article 47 of the 1995 Order, the scheme is not required to appoint a scheme actuary.
 
@@ -65,10 +65,10 @@ a scheme actuary or employer must follow any guidance issued by the Department u
 
 ## Annotations
 
-[^key-67f6796d89a40407302b2c91ef029325]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2010/122/regulation/39) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-67f6796d89a40407302b2c91ef029325]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2010/122/regulation/39) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
 
-[^key-e8ff5b7b2b26c04d811a5616fe84bcaa]: Textual amendment: Words in [reg. 39(4)(b)(v)](https://www.legislation.gov.uk/nisr/2010/122/regulation/39/4/b/v) omitted (1.7.2012) by virtue of [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(18)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/18)
+[^c-e8ff5b7b2b26c04d811a5616fe84bcaa]: Textual amendment: Words in [reg. 39(4)(b)(v)](https://www.legislation.gov.uk/nisr/2010/122/regulation/39/4/b/v) omitted (1.7.2012) by virtue of [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(18)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/18)
 
-[^key-2a0ecd916c61e2207a63dcf03c4c9e05]: Textual amendment: [Reg. 39(7)(a)](https://www.legislation.gov.uk/nisr/2010/122/regulation/39/7/a) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [29(5)](https://www.legislation.gov.uk/uksi/2019/193/regulation/29/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2a0ecd916c61e2207a63dcf03c4c9e05]: Textual amendment: [Reg. 39(7)(a)](https://www.legislation.gov.uk/nisr/2010/122/regulation/39/7/a) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [29(5)](https://www.legislation.gov.uk/uksi/2019/193/regulation/29/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00014]: Footnote: *See* [S.R. 1997 No. 94](https://www.legislation.gov.uk/nisr/1997/94)

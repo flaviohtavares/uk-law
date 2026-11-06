@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 153. Appointment of teachers by the Authority[^c17610881][^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a]
+## 153. Appointment of teachers by the Authority[^c17610881][^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a]
 
 *Extent: N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) teachers to posts in controlled schools; and
 - (b) peripatetic teachers.
 
-(2)[^key-9afab5d0036986395bdfa8338b1ae202] A scheme under paragraph (1) may provide—
+(2)[^c-9afab5d0036986395bdfa8338b1ae202] A scheme under paragraph (1) may provide—
 
 - (a) for any specified functions of the Authority under the scheme to be exercised by committees of the Authority (“teaching appointments committees”);
 - (b) for a teaching appointments committee to include persons who are not members of the Authority; and
@@ -41,6 +41,6 @@ summary: ''
 
 [^c17610881]: Textual amendment: [1998 NI 13](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-9afab5d0036986395bdfa8338b1ae202]: Textual amendment: Art. 153(2)-(5) substituted for art. 153(2)-(4) (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 11(18)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11/18) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-9afab5d0036986395bdfa8338b1ae202]: Textual amendment: Art. 153(2)-(5) substituted for art. 153(2)-(4) (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 11(18)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11/18) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

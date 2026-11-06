@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55B. VRTS credits: conversion of CRTS credits by a VRTS participant which is also an SPV car manufacturer[^key-9c53ada4e3fd7b8acc86dfb2800beb00]
+## 55B. VRTS credits: conversion of CRTS credits by a VRTS participant which is also an SPV car manufacturer[^c-9c53ada4e3fd7b8acc86dfb2800beb00]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c53ada4e3fd7b8acc86dfb2800beb00]: Textual amendment: [Art. 55B](https://www.legislation.gov.uk/uksi/2023/1394/article/55B) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [25](https://www.legislation.gov.uk/uksi/2025/1101/article/25)
+[^c-9c53ada4e3fd7b8acc86dfb2800beb00]: Textual amendment: [Art. 55B](https://www.legislation.gov.uk/uksi/2023/1394/article/55B) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [25](https://www.legislation.gov.uk/uksi/2025/1101/article/25)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## 28A. Arrangements for official measures[^key-a74fb0983834bcf5642f861933aa705a]
+## 28A. Arrangements for official measures[^c-a74fb0983834bcf5642f861933aa705a]
 
 *Extent: E+W+S+NI*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a74fb0983834bcf5642f861933aa705a]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/uksi/2011/463/regulation/28A) inserted (30.6.2016) by [The Seed Marketing (Amendment) Regulations 2016 (S.I. 2016/613)](https://www.legislation.gov.uk/uksi/2016/613), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/613/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/613/regulation/4)
+[^c-a74fb0983834bcf5642f861933aa705a]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/uksi/2011/463/regulation/28A) inserted (30.6.2016) by [The Seed Marketing (Amendment) Regulations 2016 (S.I. 2016/613)](https://www.legislation.gov.uk/uksi/2016/613), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/613/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2016/613/regulation/4)

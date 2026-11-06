@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and Commencement[^key-714154cba753d79f3e49ae048a6aa373]
+## 1. Citation and Commencement[^c-714154cba753d79f3e49ae048a6aa373]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the East Midlands Gateway Rail Freight Interchange an
 
 ## Annotations
 
-[^key-714154cba753d79f3e49ae048a6aa373]: Commencement: Art. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-714154cba753d79f3e49ae048a6aa373]: Commencement: Art. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

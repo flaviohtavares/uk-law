@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Amendment of regulation 68 (revocation, variation and suspension of UK marketing authorisation or parallel import licence)[^key-a885955c19b3dd73df5e4c45a71f5df0]
+## 77. Amendment of regulation 68 (revocation, variation and suspension of UK marketing authorisation or parallel import licence)[^c-a885955c19b3dd73df5e4c45a71f5df0]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) In paragraph (7)—
 
 - (a) after “authorisation” insert “ or licence ”; and
-- (b)[^key-5acf19d7181e9c1aede41f62ac89af5d] for “established in the European Union” substitute—
+- (b)[^c-5acf19d7181e9c1aede41f62ac89af5d] for “established in the European Union” substitute—
 
   > established in—
   >
@@ -40,7 +40,7 @@ summary: ''
 
 (4) In paragraph (8)(b), for “states other than EEA states” substitute “ countries other than approved countries for import ”.
 
-(5)[^key-d945052e4aa3b49293ab1fef5f262bbb] In paragraph (9)(a) omit “other than the United Kingdom”.
+(5)[^c-d945052e4aa3b49293ab1fef5f262bbb] In paragraph (9)(a) omit “other than the United Kingdom”.
 
 (6) In paragraph (10)—
 
@@ -59,12 +59,12 @@ summary: ''
 >
 > (11E) The licensing authority may not exercise its powers under paragraph (1) by virtue of the condition in paragraph (11D)—
 >
-> - (a) before the end of the period of one year beginning with IP completion day[^key-2204a136ece01a1d80fabaade5789187]; and
+> - (a) before the end of the period of one year beginning with IP completion day[^c-2204a136ece01a1d80fabaade5789187]; and
 > - (b) in any event, in a way that prevents the import of any medicinal product in respect of which a qualified person undertook the certification referred to in Article 51(3) of the 2001 Directive before IP completion day.
 >
 > (11F) Condition O is that the licensing authority thinks that a variation of a UK marketing authorisation is necessary as a result of the submission of the results of a study by the holder of that authorisation under regulation 78A(14).
 >
-> (11G)[^key-fb4903b24f7625ad785549a1b0ce6918] Condition P is that the licensing authority thinks that the revocation, variation or suspension is necessary or expedient in light of the Protocol on Ireland/Northern Ireland in the withdrawal agreement.
+> (11G)[^c-fb4903b24f7625ad785549a1b0ce6918] Condition P is that the licensing authority thinks that the revocation, variation or suspension is necessary or expedient in light of the Protocol on Ireland/Northern Ireland in the withdrawal agreement.
 
 .
 
@@ -77,14 +77,14 @@ summary: ''
 
 ## Annotations
 
-[^key-a885955c19b3dd73df5e4c45a71f5df0]: Commencement: Reg. 77 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a885955c19b3dd73df5e4c45a71f5df0]: Commencement: Reg. 77 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884911]: Marginal citation: Regulation 68 was amended by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855) and 2014/1878.
 
-[^key-5acf19d7181e9c1aede41f62ac89af5d]: Textual amendment: Reg. 77(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 57(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/57/a)
+[^c-5acf19d7181e9c1aede41f62ac89af5d]: Textual amendment: Reg. 77(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 57(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/57/a)
 
-[^key-d945052e4aa3b49293ab1fef5f262bbb]: Textual amendment: Reg. 77(5) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 57(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/57/b)
+[^c-d945052e4aa3b49293ab1fef5f262bbb]: Textual amendment: Reg. 77(5) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 57(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/57/b)
 
-[^key-2204a136ece01a1d80fabaade5789187]: Textual amendment: Words in reg. 77(8) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 57(c)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/57/c/i)
+[^c-2204a136ece01a1d80fabaade5789187]: Textual amendment: Words in reg. 77(8) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 57(c)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/57/c/i)
 
-[^key-fb4903b24f7625ad785549a1b0ce6918]: Textual amendment: Words in reg. 77(8) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 57(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/57/c/ii)
+[^c-fb4903b24f7625ad785549a1b0ce6918]: Textual amendment: Words in reg. 77(8) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 57(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/57/c/ii)

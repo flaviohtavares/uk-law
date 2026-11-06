@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. New information on risks of damage from marketing genetically modified organisms[^key-e9b7fd6222940852f5577183d6dd751b]
+## 31. New information on risks of damage from marketing genetically modified organisms[^c-e9b7fd6222940852f5577183d6dd751b]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ it shall vary the consent as proposed and inform the applicant, the competent au
 
 ## Annotations
 
-[^key-e9b7fd6222940852f5577183d6dd751b]: Commencement: Reg. 31 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-e9b7fd6222940852f5577183d6dd751b]: Commencement: Reg. 31 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

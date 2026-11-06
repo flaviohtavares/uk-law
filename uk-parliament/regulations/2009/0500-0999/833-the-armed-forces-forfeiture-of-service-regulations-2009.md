@@ -32,7 +32,7 @@ summary: ''
 
 Defence
 
-The Armed Forces (Forfeiture of Service) Regulations 2009 (revoked)[^key-4a129d1058adbcff0db601d51a57d183]
+The Armed Forces (Forfeiture of Service) Regulations 2009 (revoked)[^c-4a129d1058adbcff0db601d51a57d183]
 
 Made
 
@@ -46,56 +46,56 @@ Coming into force
 
 31st October 2009
 
-[^key-4a129d1058adbcff0db601d51a57d183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a129d1058adbcff0db601d51a57d183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4a129d1058adbcff0db601d51a57d183]
+## 1. Citation and commencement[^c-4a129d1058adbcff0db601d51a57d183]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4a129d1058adbcff0db601d51a57d183]
+## 2. Interpretation[^c-4a129d1058adbcff0db601d51a57d183]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Determination that a trial may be dispensed with[^key-4a129d1058adbcff0db601d51a57d183]
+## 3. Determination that a trial may be dispensed with[^c-4a129d1058adbcff0db601d51a57d183]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Forfeiture of service[^key-4a129d1058adbcff0db601d51a57d183]
+## 4. Forfeiture of service[^c-4a129d1058adbcff0db601d51a57d183]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Restoration of forfeited service[^key-4a129d1058adbcff0db601d51a57d183]
+## 5. Restoration of forfeited service[^c-4a129d1058adbcff0db601d51a57d183]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional provisions[^key-4a129d1058adbcff0db601d51a57d183]
+## 6. Transitional provisions[^c-4a129d1058adbcff0db601d51a57d183]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4a129d1058adbcff0db601d51a57d183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a129d1058adbcff0db601d51a57d183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — TRANSITIONAL PROVISIONS[^key-4a129d1058adbcff0db601d51a57d183]
+## SCHEDULE — TRANSITIONAL PROVISIONS[^c-4a129d1058adbcff0db601d51a57d183]
 
 Regulation 6
 
-**1.**[^key-4a129d1058adbcff0db601d51a57d183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4a129d1058adbcff0db601d51a57d183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4a129d1058adbcff0db601d51a57d183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4a129d1058adbcff0db601d51a57d183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4a129d1058adbcff0db601d51a57d183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4a129d1058adbcff0db601d51a57d183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4a129d1058adbcff0db601d51a57d183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4a129d1058adbcff0db601d51a57d183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4a129d1058adbcff0db601d51a57d183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4a129d1058adbcff0db601d51a57d183] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4a129d1058adbcff0db601d51a57d183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a129d1058adbcff0db601d51a57d183]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4a129d1058adbcff0db601d51a57d183]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/833) revoked (31.10.2009) by [The Armed Forces (Forfeiture of Service) (No. 2) Regulations 2009 (S.I. 2009/1090)](https://www.legislation.gov.uk/uksi/2009/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1090/regulation/1), [7](https://www.legislation.gov.uk/uksi/2009/1090/regulation/7)
+[^c-4a129d1058adbcff0db601d51a57d183]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/833) revoked (31.10.2009) by [The Armed Forces (Forfeiture of Service) (No. 2) Regulations 2009 (S.I. 2009/1090)](https://www.legislation.gov.uk/uksi/2009/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1090/regulation/1), [7](https://www.legislation.gov.uk/uksi/2009/1090/regulation/7)

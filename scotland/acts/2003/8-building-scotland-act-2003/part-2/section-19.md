@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Completion certificates: certification of construction[^key-5441b28eacd0050b3146d6dbcd0c048e]
+## 19. Completion certificates: certification of construction[^c-5441b28eacd0050b3146d6dbcd0c048e]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-5441b28eacd0050b3146d6dbcd0c048e]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2003/8/section/19) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-5441b28eacd0050b3146d6dbcd0c048e]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2003/8/section/19) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

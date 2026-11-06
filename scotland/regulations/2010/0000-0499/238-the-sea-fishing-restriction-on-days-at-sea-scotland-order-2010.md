@@ -32,7 +32,7 @@ summary: ''
 
 Sea Fisheries
 
-The Sea Fishing (Restriction on Days at Sea) (Scotland) Order 2010 (revoked)[^key-f91c81122393d0960174f8eac6d9cd3b]
+The Sea Fishing (Restriction on Days at Sea) (Scotland) Order 2010 (revoked)[^c-f91c81122393d0960174f8eac6d9cd3b]
 
 Made
 
@@ -46,72 +46,72 @@ Coming into force
 
 1st July 2010
 
-[^key-f91c81122393d0960174f8eac6d9cd3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f91c81122393d0960174f8eac6d9cd3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-f91c81122393d0960174f8eac6d9cd3b]
+## 1. Citation, commencement and extent[^c-f91c81122393d0960174f8eac6d9cd3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f91c81122393d0960174f8eac6d9cd3b]
+## 2. Interpretation[^c-f91c81122393d0960174f8eac6d9cd3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Cod recovery zone[^key-f91c81122393d0960174f8eac6d9cd3b]
+## 3. Cod recovery zone[^c-f91c81122393d0960174f8eac6d9cd3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Absence from port[^key-f91c81122393d0960174f8eac6d9cd3b]
+## 4. Absence from port[^c-f91c81122393d0960174f8eac6d9cd3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Use of regulated gear[^key-f91c81122393d0960174f8eac6d9cd3b]
+## 5. Use of regulated gear[^c-f91c81122393d0960174f8eac6d9cd3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Penalties[^key-f91c81122393d0960174f8eac6d9cd3b]
+## 6. Penalties[^c-f91c81122393d0960174f8eac6d9cd3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Recovery of fines[^key-f91c81122393d0960174f8eac6d9cd3b]
+## 7. Recovery of fines[^c-f91c81122393d0960174f8eac6d9cd3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Powers of British sea-fishery officers in relation to fishing boats[^key-f91c81122393d0960174f8eac6d9cd3b]
+## 8. Powers of British sea-fishery officers in relation to fishing boats[^c-f91c81122393d0960174f8eac6d9cd3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Powers of British sea-fishery officers on land[^key-f91c81122393d0960174f8eac6d9cd3b]
+## 9. Powers of British sea-fishery officers on land[^c-f91c81122393d0960174f8eac6d9cd3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Powers of British sea-fishery officers to seize fish and fishing gear[^key-f91c81122393d0960174f8eac6d9cd3b]
+## 10. Powers of British sea-fishery officers to seize fish and fishing gear[^c-f91c81122393d0960174f8eac6d9cd3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Protection of officers[^key-f91c81122393d0960174f8eac6d9cd3b]
+## 11. Protection of officers[^c-f91c81122393d0960174f8eac6d9cd3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Obstruction of officers[^key-f91c81122393d0960174f8eac6d9cd3b]
+## 12. Obstruction of officers[^c-f91c81122393d0960174f8eac6d9cd3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Offences by bodies corporate[^key-f91c81122393d0960174f8eac6d9cd3b]
+## 13. Offences by bodies corporate[^c-f91c81122393d0960174f8eac6d9cd3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Admissibility in evidence of logbooks and other documents[^key-f91c81122393d0960174f8eac6d9cd3b]
+## 14. Admissibility in evidence of logbooks and other documents[^c-f91c81122393d0960174f8eac6d9cd3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f91c81122393d0960174f8eac6d9cd3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f91c81122393d0960174f8eac6d9cd3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f91c81122393d0960174f8eac6d9cd3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f91c81122393d0960174f8eac6d9cd3b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f91c81122393d0960174f8eac6d9cd3b]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/238) revoked (1.12.2017) by [The Sea Fishing (Miscellaneous Revocations) (Scotland) Order 2017 (S.S.I. 2017/324)](https://www.legislation.gov.uk/ssi/2017/324), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/324/article/1/1), [2](https://www.legislation.gov.uk/ssi/2017/324/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/324/schedule)
+[^c-f91c81122393d0960174f8eac6d9cd3b]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/238) revoked (1.12.2017) by [The Sea Fishing (Miscellaneous Revocations) (Scotland) Order 2017 (S.S.I. 2017/324)](https://www.legislation.gov.uk/ssi/2017/324), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2017/324/article/1/1), [2](https://www.legislation.gov.uk/ssi/2017/324/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/324/schedule)

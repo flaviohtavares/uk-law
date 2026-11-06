@@ -45,7 +45,7 @@ The Welsh Ministers, in exercise of the powers conferred by section 104(4)(c), p
 
 In accordance with section 196(6) of the Social Services and Well-being (Wales) Act 2014, a draft of this instrument was laid before and approved by a resolution of the National Assembly for Wales.
 
-## 1. Title, commencement, interpretation and application[^key-f5e0baa790f298649908c3c134592170]
+## 1. Title, commencement, interpretation and application[^c-f5e0baa790f298649908c3c134592170]
 
 (1) The title of these Regulations is the Children (Secure Accommodation) (Wales) Regulations 2015.
 
@@ -58,18 +58,18 @@ In accordance with section 196(6) of the Social Services and Well-being (Wales) 
 - “the Act” (“*y Ddeddf*”) means the Social Services and Well-being (Wales) Act 2014;
 - “independent visitor” (“*ymwelydd annibynnol*”) means a person appointed by a local authority under section 98 of the Act;
 - “local authority” (“*awdurdod lleol*”) means a Welsh local authority unless the contrary is indicated;
-- “secure accommodation” (“[^key-e64de669bd2b785ced9e06136f679a0b]*llety diogel*”), unless the wording indicates that its meaning is restricted to accommodation in Wales, means accommodation which is provided—
+- “secure accommodation” (“[^c-e64de669bd2b785ced9e06136f679a0b]*llety diogel*”), unless the wording indicates that its meaning is restricted to accommodation in Wales, means accommodation which is provided—
   - (a) in Wales for the purpose of restricting the liberty of children to whom the criteria in paragraphs (a) or (b) of section 119(1) of the Act apply,
   - (b) in England for the purpose of restricting the liberty of children to whom the criteria in paragraphs (a) or (b) of section 25(1) of the Children Act 1989 apply, or
   - (c) by a secure accommodation service in Scotland as defined in paragraph 6 of Schedule 12 to the Public Services Reform (Scotland) Act 2010.
 
-(5)[^key-ac13efad7c2caa7380ae5df0036c2fe4] In these Regulations references to the registration of a secure accommodation service in Wales, or a person who is registered in respect of such a service in regulations 8, 9 and 12 are references to registration under Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016.
+(5)[^c-ac13efad7c2caa7380ae5df0036c2fe4] In these Regulations references to the registration of a secure accommodation service in Wales, or a person who is registered in respect of such a service in regulations 8, 9 and 12 are references to registration under Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016.
 
 ## Maximum Period Without Court Authorisation
 
-### 2. Maximum period in secure accommodation without court authorisation[^key-593c04f91f78338d39f56e3799e3a095]
+### 2. Maximum period in secure accommodation without court authorisation[^c-593c04f91f78338d39f56e3799e3a095]
 
-(1) Subject to paragraph (2) and (3), the maximum period beyond which a local authority or a local authority in England[^key-47bfd2bca9c5fe8726364640ee971c26] may not keep a child in secure accommodation in Wales[^key-a7c6a2ac772caaaaa2cd471d8fae39aa] without the authority of the court is an aggregate of 72 hours (whether or not consecutive) in any period of 28 days.
+(1) Subject to paragraph (2) and (3), the maximum period beyond which a local authority or a local authority in England[^c-47bfd2bca9c5fe8726364640ee971c26] may not keep a child in secure accommodation in Wales[^c-a7c6a2ac772caaaaa2cd471d8fae39aa] without the authority of the court is an aggregate of 72 hours (whether or not consecutive) in any period of 28 days.
 
 (2) Where—
 
@@ -81,7 +81,7 @@ the maximum period is extended until 12 midday on the first day which is not a p
 
 (3) Where a court gives authority for a child to be held in secure accommodation, any period during which the child was kept in secure accommodation prior to that period of authorisation shall be disregarded in calculating the maximum period in relation to any subsequent periods in secure accommodation after the court-authorised period has expired.
 
-### 3. Requirement where child detained without court authority[^key-7837258e2c89741833448012d2619f1f]
+### 3. Requirement where child detained without court authority[^c-7837258e2c89741833448012d2619f1f]
 
 (1) Before a local authority places a child in secure accommodation without court authority it must first create a written record setting out—
 
@@ -99,15 +99,15 @@ the maximum period is extended until 12 midday on the first day which is not a p
 
 ## Court Authorisation
 
-### 4. Applications to court[^key-f59472844c7573d2f580674ae0a481f8]
+### 4. Applications to court[^c-f59472844c7573d2f580674ae0a481f8]
 
 (1) Applications to court under section 119 of the Act may only be made by the local authority (including an English local authority) which is looking after the child (subject to the power of a local authority to arrange for its functions to be carried out by another person under section 101 of the Local Government Act 1972[^f00004] or sections 14 to 20 of the Local Government Act 2000[^f00005]).
 
-(2)[^key-bc3d1dc01546a62f6a94b7c15b7f3446] But where regulation 16(1)(a) of these Regulations applies to modify section 119 of the Act so that it applies in relation to children, other than those being looked after by a local authority, who are being provided with accommodation provided or arranged by a Local Health Board, National Health Service Trust or a local authority in the exercise of education functions, then applications to court can only be made by the Local Health Board or the National Health Service Trust which is providing or arranging the accommodation or by the local authority which is arranging the accommodation.
+(2)[^c-bc3d1dc01546a62f6a94b7c15b7f3446] But where regulation 16(1)(a) of these Regulations applies to modify section 119 of the Act so that it applies in relation to children, other than those being looked after by a local authority, who are being provided with accommodation provided or arranged by a Local Health Board, National Health Service Trust or a local authority in the exercise of education functions, then applications to court can only be made by the Local Health Board or the National Health Service Trust which is providing or arranging the accommodation or by the local authority which is arranging the accommodation.
 
 (3) Where regulation 16(1)(b) of these Regulations applies to modify section 119 of the Act so that it applies in relation to children, other than those being looked after by a local authority, who are being provided with accommodation in an independent hospital or a care home, then applications to court can only be made by the independent hospital or care home which is providing the accommodation.
 
-### 5. Duty to inform parents and others of intention to place child in secure accommodation[^key-d40d95fecf1770bf0572952ee1173b2a]
+### 5. Duty to inform parents and others of intention to place child in secure accommodation[^c-d40d95fecf1770bf0572952ee1173b2a]
 
 Where a local authority intends to apply to a court to place a child whom it is looking after in secure accommodation, it must, as far as is reasonably practicable, notify, as soon as possible—
 
@@ -116,23 +116,23 @@ Where a local authority intends to apply to a court to place a child whom it is 
 - (c) the child’s independent visitor, if one has been appointed; and
 - (d) any other person who that local authority considers should be informed.
 
-### 6. Maximum periods of authorisation by the court[^key-d6433d2527db5f12426d56e6f7f9cc36]
+### 6. Maximum periods of authorisation by the court[^c-d6433d2527db5f12426d56e6f7f9cc36]
 
-(1) Subject to paragraph (2) of this regulation and regulation 7[^key-2415b8b1063610ac5f6f671789450b9f], where a child has been made the subject of an application under section 119 of the Act, the maximum initial period for which a court may authorise the child to be kept in secure accommodation in Wales[^key-47b3fd8713c549f72b7433eb7ab8d301] is three months.
+(1) Subject to paragraph (2) of this regulation and regulation 7[^c-2415b8b1063610ac5f6f671789450b9f], where a child has been made the subject of an application under section 119 of the Act, the maximum initial period for which a court may authorise the child to be kept in secure accommodation in Wales[^c-47b3fd8713c549f72b7433eb7ab8d301] is three months.
 
-(2) Where a child is subject to an application to extend the period in secure accommodation in Wales[^key-9125b8326b1ebbf6aad7abdd32665e5a] under section 119 of the Act the maximum further period which a court may authorise at any one time is 6 months.
+(2) Where a child is subject to an application to extend the period in secure accommodation in Wales[^c-9125b8326b1ebbf6aad7abdd32665e5a] under section 119 of the Act the maximum further period which a court may authorise at any one time is 6 months.
 
-### 7. Maximum period of authorisation for remanded children[^key-a79a4535e48094535516994252a8a269]
+### 7. Maximum period of authorisation for remanded children[^c-a79a4535e48094535516994252a8a269]
 
-(1) The maximum period for which a court may from time to time authorise a child who has been remanded to local authority accommodation under section 91(3) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00006] to be kept in secure accommodation in Wales[^key-be275c69eb4638b19bd886e40d792792] (whether the period is the initial period or a further period) is the period of the remand.
+(1) The maximum period for which a court may from time to time authorise a child who has been remanded to local authority accommodation under section 91(3) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00006] to be kept in secure accommodation in Wales[^c-be275c69eb4638b19bd886e40d792792] (whether the period is the initial period or a further period) is the period of the remand.
 
 (2) The reference to “local authority” in paragraph (1) includes an English local authority.
 
-(3)[^key-fd196ed103c55a0e2e2bd7c26d42c0e9] Any authorisation in respect of such a child must not exceed 28 days on any one occasion without further authorisation.
+(3)[^c-fd196ed103c55a0e2e2bd7c26d42c0e9] Any authorisation in respect of such a child must not exceed 28 days on any one occasion without further authorisation.
 
 ## Requirements in relation to placements in secure accommodation
 
-### 8. Placement in a regulated setting[^key-46c6c5f903891262f7b5e90553e4a29f][^key-99b4d7b0ce33f7bcf59c0a907772c45a]
+### 8. Placement in a regulated setting[^c-46c6c5f903891262f7b5e90553e4a29f][^c-99b4d7b0ce33f7bcf59c0a907772c45a]
 
 A local authority may only place a looked after child in secure accommodation—
 
@@ -140,7 +140,7 @@ A local authority may only place a looked after child in secure accommodation—
 - (b) in a home in England which is registered under Part 2 of the Care Standards Act 2000 as a children’s home providing accommodation for the purpose of restricting liberty, or
 - (c) provided by a secure accommodation service in Scotland.
 
-### 9. Duty to give information of placement in secure accommodation[^key-f1f58fed70020a2694aef58529db656b]
+### 9. Duty to give information of placement in secure accommodation[^c-f1f58fed70020a2694aef58529db656b]
 
 (1) Where a child is placed in secure accommodation in premises in Wales at which a secure accommodation service is provided by a person other than the local authority which is looking after the child, the person registered in respect of that service must inform the local authority or local authority in England which is looking after the child that the child has been placed there within 12 hours of the placement beginning.
 
@@ -150,11 +150,11 @@ A local authority may only place a looked after child in secure accommodation—
 - (b) the period of authorisation;
 - (c) details of any order made by a court authorising the placement.
 
-### 10. Appointment of persons to review placements[^key-40b5427de95f6c9b48d5b6c689adc44c]
+### 10. Appointment of persons to review placements[^c-40b5427de95f6c9b48d5b6c689adc44c]
 
 A local authority which decides to place a child in secure accommodation must appoint at least 3 persons to review the decision within 15 working days of the start of the placement and then at intervals not exceeding three months where the placement in secure accommodation continues.
 
-### 11. Reviews of placement in secure accommodation[^key-6bbcf1fcd679e959e5db5d90b5f43d74]
+### 11. Reviews of placement in secure accommodation[^c-6bbcf1fcd679e959e5db5d90b5f43d74]
 
 (1) The persons appointed under regulation 10 must consider, having regard to the welfare of the child in question—
 
@@ -174,7 +174,7 @@ A local authority which decides to place a child in secure accommodation must ap
 
 (4) The local authority must, as far as is reasonably practicable, inform all those whose views are required to be taken into account under paragraph (2) of the recommendation made by the review and of what action, if any, it proposes to take in the light of the recommendation.
 
-### 12. Records to be kept in respect of a child in secure accommodation in a regulated setting[^key-baf930f9feb8fa8248bdd92fd4b63c78][^key-a7745e6944c6729fb2c41ce38bc422f0]
+### 12. Records to be kept in respect of a child in secure accommodation in a regulated setting[^c-baf930f9feb8fa8248bdd92fd4b63c78][^c-a7745e6944c6729fb2c41ce38bc422f0]
 
 When a child is placed in secure accommodation in premises in Wales at which a secure accommodation service is provided the persons who are registered to provide a secure accommodation service in respect of those premises must maintain a record for that child which includes—
 
@@ -192,24 +192,24 @@ When a child is placed in secure accommodation in premises in Wales at which a s
 
 ## Application of section 119 to particular categories of children
 
-### 13. Placement of a child aged under 13 in secure accommodation[^key-2fdd4908cafffd7a414b78ec4eb8b5dc]
+### 13. Placement of a child aged under 13 in secure accommodation[^c-2fdd4908cafffd7a414b78ec4eb8b5dc]
 
 (1) A local authority may not place a child under the age of 13 years in secure accommodation without the prior approval of the Welsh Ministers in relation to the placement of that child.
 
 (2) The Welsh Ministers may make the approval subject to such terms and conditions as they see fit.
 
-### 14. Children to whom section 119 does not apply[^key-c53e57ffa5d95b539b21caf6f01022b9]
+### 14. Children to whom section 119 does not apply[^c-c53e57ffa5d95b539b21caf6f01022b9]
 
 Section 119 does not apply to a child—
 
-- (a) who is detained under any provision of the Mental Health Act 1983[^f00008] or in respect of whom an order has been made under section 90 or 91 of the Powers of the Criminal Courts (Sentencing) Act 2000[^f00009] or section 250[^key-21546405042b06814aa9c6bb5e2c5a7f] , 252A[^key-574f852ac60d6ed809de933028e9a6a6] or 259 of the Sentencing Code (detention at Her Majesty’s Pleasure or for specified period);
+- (a) who is detained under any provision of the Mental Health Act 1983[^f00008] or in respect of whom an order has been made under section 90 or 91 of the Powers of the Criminal Courts (Sentencing) Act 2000[^f00009] or section 250[^c-21546405042b06814aa9c6bb5e2c5a7f] , 252A[^c-574f852ac60d6ed809de933028e9a6a6] or 259 of the Sentencing Code (detention at Her Majesty’s Pleasure or for specified period);
 - (b) who is the subject of a child assessment order made under section 43 of the Children Act 1989[^f00010] and who is kept away from home pursuant to that order;
-- (c)[^key-a13fa6496aac62bae4a32b686db6493e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-a13fa6496aac62bae4a32b686db6493e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) who is remanded to youth detention accommodation and is treated as looked after by virtue of section 104(1) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00011].
 
-### 15. Detained children to whom section 119 applies subject to modifications: children detained under the Police and Criminal Evidence Act 1984[^key-dc6bd9ca0a39ab5870ce25ceec5ebdb0]
+### 15. Detained children to whom section 119 applies subject to modifications: children detained under the Police and Criminal Evidence Act 1984[^c-dc6bd9ca0a39ab5870ce25ceec5ebdb0]
 
-(1) Section 119 of the Act has effect subject to the modification specified in paragraph (2) in relation to children who are being looked after by a local authority or local authority in England[^key-282d19279222c5bb4920e415932776ec] and are aged between 12 and 17[^key-f1b9155a0d3fb83f2d0cf82311ed3433] and are detained under section 38(6) of the Police and Criminal Evidence Act 1984[^f00012] (detained children).
+(1) Section 119 of the Act has effect subject to the modification specified in paragraph (2) in relation to children who are being looked after by a local authority or local authority in England[^c-282d19279222c5bb4920e415932776ec] and are aged between 12 and 17[^c-f1b9155a0d3fb83f2d0cf82311ed3433] and are detained under section 38(6) of the Police and Criminal Evidence Act 1984[^f00012] (detained children).
 
 (2) The modification in paragraph (1) is that, for the words “unless it appears” to the end of subsection (1), there shall be substituted the following words—
 
@@ -218,9 +218,9 @@ Section 119 does not apply to a child—
 > - (a) the child is likely to abscond from such other accommodation, or
 > - (b) the child is likely to injure himself or herself or other people if he or she is kept in any such other accommodation.
 
-### 16. Children to whom section 119 has effect subject to modifications[^key-47e6c9d053baeeae609c3126be922459]
+### 16. Children to whom section 119 has effect subject to modifications[^c-47e6c9d053baeeae609c3126be922459]
 
-(1) Subject to regulation 14[^key-036e759f875eb924fc1e9359c8c80c6b] and paragraphs (2) and (3) of this regulation section 119 of the Act applies, in addition to children looked after by local authorities (including English local authorities)—
+(1) Subject to regulation 14[^c-036e759f875eb924fc1e9359c8c80c6b] and paragraphs (2) and (3) of this regulation section 119 of the Act applies, in addition to children looked after by local authorities (including English local authorities)—
 
 - (a) to children, other than those looked after by a local authority (including an English local authority), who are accommodated by—
   - (i) Local Health Boards;
@@ -238,7 +238,7 @@ Section 119 does not apply to a child—
 - (a) in subsection (1) replace the words “who is being looked after by a local authority or a local authority in England” with the words “who is being provided with accommodation in a care home or an independent hospital”; and
 - (b) in subsection (2)(c) replace the phrase “by a local authority” with the words “by a person carrying on a care home or an independent hospital”.
 
-### 17. Disapplication of the Children (Secure Accommodation) Regulations 1991 to Wales[^key-99722d7e968a2474331d5d1c46f8284e]
+### 17. Disapplication of the Children (Secure Accommodation) Regulations 1991 to Wales[^c-99722d7e968a2474331d5d1c46f8284e]
 
 Insert into the Children (Secure Accommodation) Regulations 1991[^f00013] the following regulation after regulation 1—
 
@@ -252,14 +252,14 @@ Insert into the Children (Secure Accommodation) Regulations 1991[^f00013] the fo
 >
 > (2) In relation to cases to which paragraph (1) applies refer to section 119 of the Social Services and Wellbeing (Wales) Act 2014 and the Children (Secure Accommodation) (Wales) Regulations 2015.
 
-### 18. Revocations[^key-33bd591220ae7736d1d4e6ebd57b1852]
+### 18. Revocations[^c-33bd591220ae7736d1d4e6ebd57b1852]
 
 The following Regulations are revoked—
 
 - (a) the Children (Secure Accommodation) (Amendment) (Wales) Regulations 2006[^f00014];
 - (b) the Children (Secure Accommodation) (Amendment) (Wales) Regulations 2013[^f00015].
 
-### 19. Disapplication of Regulations in relation to Wales[^key-fa8255099d4bef16809a995be2cdf838]
+### 19. Disapplication of Regulations in relation to Wales[^c-fa8255099d4bef16809a995be2cdf838]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -295,98 +295,98 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4).
 
-[^key-f5e0baa790f298649908c3c134592170]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
+[^c-f5e0baa790f298649908c3c134592170]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
 
-[^key-e64de669bd2b785ced9e06136f679a0b]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/4) substituted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(2)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/2)
+[^c-e64de669bd2b785ced9e06136f679a0b]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/4) substituted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(2)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/2)
 
-[^key-ac13efad7c2caa7380ae5df0036c2fe4]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/5) substituted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(3)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/3)
+[^c-ac13efad7c2caa7380ae5df0036c2fe4]: Textual amendment: [Reg. 1(5)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/5) substituted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(3)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/3)
 
-[^key-593c04f91f78338d39f56e3799e3a095]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1988/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
+[^c-593c04f91f78338d39f56e3799e3a095]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1988/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
 
-[^key-47bfd2bca9c5fe8726364640ee971c26]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/2/1) inserted (6.4.2016) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2016 (S.I. 2016/312)](https://www.legislation.gov.uk/wsi/2016/312), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/312/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2016/312/regulation/2/3/a)
+[^c-47bfd2bca9c5fe8726364640ee971c26]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/2/1) inserted (6.4.2016) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2016 (S.I. 2016/312)](https://www.legislation.gov.uk/wsi/2016/312), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/312/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2016/312/regulation/2/3/a)
 
-[^key-a7c6a2ac772caaaaa2cd471d8fae39aa]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/2/1) inserted (6.4.2016) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2016 (S.I. 2016/312)](https://www.legislation.gov.uk/wsi/2016/312), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/312/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2016/312/regulation/2/3/b)
+[^c-a7c6a2ac772caaaaa2cd471d8fae39aa]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/2/1) inserted (6.4.2016) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2016 (S.I. 2016/312)](https://www.legislation.gov.uk/wsi/2016/312), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/312/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2016/312/regulation/2/3/b)
 
-[^key-7837258e2c89741833448012d2619f1f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1988/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
+[^c-7837258e2c89741833448012d2619f1f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1988/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
 
-[^key-f59472844c7573d2f580674ae0a481f8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1988/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
+[^c-f59472844c7573d2f580674ae0a481f8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1988/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
 
 [^f00004]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
 [^f00005]: Footnote: [2000 c .22](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-bc3d1dc01546a62f6a94b7c15b7f3446]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/4/2)[(3)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/4/3) substituted for [reg. 4(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/4/2) (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/4)
+[^c-bc3d1dc01546a62f6a94b7c15b7f3446]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/4/2)[(3)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/4/3) substituted for [reg. 4(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/4/2) (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/4)
 
-[^key-d40d95fecf1770bf0572952ee1173b2a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1988/regulation/5) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
+[^c-d40d95fecf1770bf0572952ee1173b2a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1988/regulation/5) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
 
-[^key-d6433d2527db5f12426d56e6f7f9cc36]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1988/regulation/6) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
+[^c-d6433d2527db5f12426d56e6f7f9cc36]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1988/regulation/6) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
 
-[^key-2415b8b1063610ac5f6f671789450b9f]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/6/1) inserted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(5)(a)(i)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/5/a/i)
+[^c-2415b8b1063610ac5f6f671789450b9f]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/6/1) inserted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(5)(a)(i)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/5/a/i)
 
-[^key-47b3fd8713c549f72b7433eb7ab8d301]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/6/1) inserted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(5)(a)(ii)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/5/a/ii)
+[^c-47b3fd8713c549f72b7433eb7ab8d301]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/6/1) inserted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(5)(a)(ii)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/5/a/ii)
 
-[^key-9125b8326b1ebbf6aad7abdd32665e5a]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/6/2) inserted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(5)(b)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/5/b)
+[^c-9125b8326b1ebbf6aad7abdd32665e5a]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/6/2) inserted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(5)(b)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/5/b)
 
-[^key-a79a4535e48094535516994252a8a269]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1988/regulation/7) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
+[^c-a79a4535e48094535516994252a8a269]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1988/regulation/7) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
 
 [^f00006]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-be275c69eb4638b19bd886e40d792792]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/7/1) inserted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(6)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/6)
+[^c-be275c69eb4638b19bd886e40d792792]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/7/1) inserted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(6)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/6)
 
-[^key-fd196ed103c55a0e2e2bd7c26d42c0e9]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/7/3) inserted (6.4.2016) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2016 (S.I. 2016/312)](https://www.legislation.gov.uk/wsi/2016/312), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/312/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2016/312/regulation/2/4)
+[^c-fd196ed103c55a0e2e2bd7c26d42c0e9]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/7/3) inserted (6.4.2016) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2016 (S.I. 2016/312)](https://www.legislation.gov.uk/wsi/2016/312), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/312/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2016/312/regulation/2/4)
 
-[^key-46c6c5f903891262f7b5e90553e4a29f]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1988/regulation/8) substituted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(7)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/7)
+[^c-46c6c5f903891262f7b5e90553e4a29f]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1988/regulation/8) substituted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(7)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/7)
 
-[^key-99b4d7b0ce33f7bcf59c0a907772c45a]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1988/crossheading/requirements-in-relation-to-placements-in-secure-accommodation) heading substituted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(8)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/8)
+[^c-99b4d7b0ce33f7bcf59c0a907772c45a]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1988/crossheading/requirements-in-relation-to-placements-in-secure-accommodation) heading substituted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(8)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/8)
 
-[^key-f1f58fed70020a2694aef58529db656b]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/1988/regulation/9) substituted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(9)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/9)
+[^c-f1f58fed70020a2694aef58529db656b]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/1988/regulation/9) substituted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(9)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/9)
 
-[^key-40b5427de95f6c9b48d5b6c689adc44c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2015/1988/regulation/10) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
+[^c-40b5427de95f6c9b48d5b6c689adc44c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2015/1988/regulation/10) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
 
-[^key-6bbcf1fcd679e959e5db5d90b5f43d74]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2015/1988/regulation/11) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
+[^c-6bbcf1fcd679e959e5db5d90b5f43d74]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2015/1988/regulation/11) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
 
-[^key-baf930f9feb8fa8248bdd92fd4b63c78]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/wsi/2015/1988/regulation/12) substituted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(10)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/10)
+[^c-baf930f9feb8fa8248bdd92fd4b63c78]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/wsi/2015/1988/regulation/12) substituted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(10)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/10)
 
-[^key-a7745e6944c6729fb2c41ce38bc422f0]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/wsi/2015/1988/crossheading/requirements-in-relation-to-placements-in-secure-accommodation) heading substituted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(11)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/11)
+[^c-a7745e6944c6729fb2c41ce38bc422f0]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/wsi/2015/1988/crossheading/requirements-in-relation-to-placements-in-secure-accommodation) heading substituted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(11)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/11)
 
-[^key-2fdd4908cafffd7a414b78ec4eb8b5dc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2015/1988/regulation/13) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
+[^c-2fdd4908cafffd7a414b78ec4eb8b5dc]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2015/1988/regulation/13) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
 
-[^key-c53e57ffa5d95b539b21caf6f01022b9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2015/1988/regulation/14) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
+[^c-c53e57ffa5d95b539b21caf6f01022b9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2015/1988/regulation/14) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
 
 [^f00008]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
 [^f00009]: Footnote: [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6).
 
-[^key-21546405042b06814aa9c6bb5e2c5a7f]: Textual amendment: Words in [reg. 14(a)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/14/a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 434(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/434/1) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-21546405042b06814aa9c6bb5e2c5a7f]: Textual amendment: Words in [reg. 14(a)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/14/a) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 434(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/434/1) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-574f852ac60d6ed809de933028e9a6a6]: Textual amendment: Word in [reg. 14(a)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/14/a) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 32](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/32)
+[^c-574f852ac60d6ed809de933028e9a6a6]: Textual amendment: Word in [reg. 14(a)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/14/a) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 32](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/32)
 
 [^f00010]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-a13fa6496aac62bae4a32b686db6493e]: Textual amendment: [Reg. 14(c)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/14/c) omitted (6.4.2016) by virtue of [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2016 (S.I. 2016/312)](https://www.legislation.gov.uk/wsi/2016/312), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/312/regulation/1/2), [2(7)](https://www.legislation.gov.uk/wsi/2016/312/regulation/2/7)
+[^c-a13fa6496aac62bae4a32b686db6493e]: Textual amendment: [Reg. 14(c)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/14/c) omitted (6.4.2016) by virtue of [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2016 (S.I. 2016/312)](https://www.legislation.gov.uk/wsi/2016/312), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/312/regulation/1/2), [2(7)](https://www.legislation.gov.uk/wsi/2016/312/regulation/2/7)
 
 [^f00011]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-dc6bd9ca0a39ab5870ce25ceec5ebdb0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2015/1988/regulation/15) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
+[^c-dc6bd9ca0a39ab5870ce25ceec5ebdb0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2015/1988/regulation/15) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
 
-[^key-282d19279222c5bb4920e415932776ec]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/15/1) inserted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(12)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/12)
+[^c-282d19279222c5bb4920e415932776ec]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/15/1) inserted (2.4.2018) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2018 (S.I. 2018/391)](https://www.legislation.gov.uk/wsi/2018/391), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2018/391/regulation/1/4), [2(12)](https://www.legislation.gov.uk/wsi/2018/391/regulation/2/12)
 
-[^key-f1b9155a0d3fb83f2d0cf82311ed3433]: Textual amendment: Word in [reg. 15(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/15/1) substituted (6.4.2016) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2016 (S.I. 2016/312)](https://www.legislation.gov.uk/wsi/2016/312), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/312/regulation/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2016/312/regulation/2/8)
+[^c-f1b9155a0d3fb83f2d0cf82311ed3433]: Textual amendment: Word in [reg. 15(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/15/1) substituted (6.4.2016) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2016 (S.I. 2016/312)](https://www.legislation.gov.uk/wsi/2016/312), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/312/regulation/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2016/312/regulation/2/8)
 
 [^f00012]: Footnote: [1984 c.60](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-47e6c9d053baeeae609c3126be922459]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2015/1988/regulation/16) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
+[^c-47e6c9d053baeeae609c3126be922459]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2015/1988/regulation/16) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
 
-[^key-036e759f875eb924fc1e9359c8c80c6b]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/16/1) substituted (6.4.2016) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2016 (S.I. 2016/312)](https://www.legislation.gov.uk/wsi/2016/312), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/312/regulation/1/2), [2(9)](https://www.legislation.gov.uk/wsi/2016/312/regulation/2/9)
+[^c-036e759f875eb924fc1e9359c8c80c6b]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/16/1) substituted (6.4.2016) by [The Children (Secure Accommodation) (Wales) (Amendment) Regulations 2016 (S.I. 2016/312)](https://www.legislation.gov.uk/wsi/2016/312), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/312/regulation/1/2), [2(9)](https://www.legislation.gov.uk/wsi/2016/312/regulation/2/9)
 
-[^key-99722d7e968a2474331d5d1c46f8284e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2015/1988/regulation/17) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
+[^c-99722d7e968a2474331d5d1c46f8284e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2015/1988/regulation/17) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 1991/1505](https://www.legislation.gov.uk/uksi/1991/1505).
 
-[^key-33bd591220ae7736d1d4e6ebd57b1852]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2015/1988/regulation/18) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
+[^c-33bd591220ae7736d1d4e6ebd57b1852]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2015/1988/regulation/18) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1988/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2006/2986 (W. 276)](https://www.legislation.gov.uk/wsi/2006/2986).
 
 [^f00015]: Footnote: [S.I. 2013/663 (W. 76)](https://www.legislation.gov.uk/wsi/2013/663).
 
-[^key-fa8255099d4bef16809a995be2cdf838]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/wsi/2015/1988/regulation/19) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)
+[^c-fa8255099d4bef16809a995be2cdf838]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/wsi/2015/1988/regulation/19) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)

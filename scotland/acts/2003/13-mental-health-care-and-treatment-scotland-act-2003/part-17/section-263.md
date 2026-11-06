@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 263. Inspection of records by medical practitioner[^key-f3d3278e8a3a38f0112c7a7828abfc97]
+## 263. Inspection of records by medical practitioner[^c-f3d3278e8a3a38f0112c7a7828abfc97]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ that does not authorise the detention of the patient in hospital to produce them
 
 ## Annotations
 
-[^key-f3d3278e8a3a38f0112c7a7828abfc97]: Commencement: [S. 263](https://www.legislation.gov.uk/asp/2003/13/section/263) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-f3d3278e8a3a38f0112c7a7828abfc97]: Commencement: [S. 263](https://www.legislation.gov.uk/asp/2003/13/section/263) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-df459ae392d0e87ac73ac2c3360a3874] The School Standards and Framework Act 1998 (c. 31) is amended as follows.
+(1)[^c-df459ae392d0e87ac73ac2c3360a3874] The School Standards and Framework Act 1998 (c. 31) is amended as follows.
 
-(2)[^key-df459ae392d0e87ac73ac2c3360a3874] In section 45A (determination of specified budgets of local authority[^key-539a148a152b679b0b2f5402f58a05e0]), after subsection (4A) insert—
+(2)[^c-df459ae392d0e87ac73ac2c3360a3874] In section 45A (determination of specified budgets of local authority[^c-539a148a152b679b0b2f5402f58a05e0]), after subsection (4A) insert—
 
 > (4B) For the purposes of this Part, the duty imposed on a local authority in England by section 7(1) of the Childcare Act 2006 (duty to secure prescribed early years provision free of charge) is to be treated as imposed on the authority in their capacity as a local authority.
 
-(3)[^key-09745bfca7570ae08a6554ce65105de6] After section 47 (determination of school's budget share) insert—
+(3)[^c-09745bfca7570ae08a6554ce65105de6] After section 47 (determination of school's budget share) insert—
 
 > **47ZA. Free of charge early years provision outside a maintained school: budgetary framework: England**
 >
@@ -58,8 +58,8 @@ summary: ''
 
 ## Annotations
 
-[^key-df459ae392d0e87ac73ac2c3360a3874]: Commencement: S. 202(1)(2) in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-df459ae392d0e87ac73ac2c3360a3874]: Commencement: S. 202(1)(2) in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
 
-[^key-09745bfca7570ae08a6554ce65105de6]: Commencement: S. 202(3) in force at 28.2.2011 by [S.I. 2010/2374](https://www.legislation.gov.uk/uksi/2010/2374), [art. 3](https://www.legislation.gov.uk/uksi/2010/2374/article/3)
+[^c-09745bfca7570ae08a6554ce65105de6]: Commencement: S. 202(3) in force at 28.2.2011 by [S.I. 2010/2374](https://www.legislation.gov.uk/uksi/2010/2374), [art. 3](https://www.legislation.gov.uk/uksi/2010/2374/article/3)

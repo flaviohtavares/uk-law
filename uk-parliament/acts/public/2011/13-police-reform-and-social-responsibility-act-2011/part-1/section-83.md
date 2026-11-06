@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-f5bf9113ffb0001f24ddb1eedd7bbf05] Section 54 of the Police Act 1996 (appointment and functions of inspectors of constabulary) is amended as follows.
+(1)[^c-f5bf9113ffb0001f24ddb1eedd7bbf05] Section 54 of the Police Act 1996 (appointment and functions of inspectors of constabulary) is amended as follows.
 
-(2)[^key-f5bf9113ffb0001f24ddb1eedd7bbf05] In subsection (2) omit “to the Secretary of State”.
+(2)[^c-f5bf9113ffb0001f24ddb1eedd7bbf05] In subsection (2) omit “to the Secretary of State”.
 
-(3)[^key-f6d09bee3ead0f467c072a58ecabccb2] Omit subsection (2A).
+(3)[^c-f6d09bee3ead0f467c072a58ecabccb2] Omit subsection (2A).
 
-(4)[^key-f5bf9113ffb0001f24ddb1eedd7bbf05] After subsection (2B) insert—
+(4)[^c-f5bf9113ffb0001f24ddb1eedd7bbf05] After subsection (2B) insert—
 
 > (2BA) The local policing body for a police area may at any time request the inspectors of constabulary to carry out an inspection under this section of a police force maintained for that police area; and a request under this subsection may include a request for the inspection to be confined to a particular part of the force in question, to particular matters or to particular activities of that force.
 >
@@ -34,14 +34,14 @@ summary: ''
 
 .
 
-(5)[^key-f5bf9113ffb0001f24ddb1eedd7bbf05] Omit subsection (2C).
+(5)[^c-f5bf9113ffb0001f24ddb1eedd7bbf05] Omit subsection (2C).
 
-(6)[^key-f5bf9113ffb0001f24ddb1eedd7bbf05] In subsection (4)—
+(6)[^c-f5bf9113ffb0001f24ddb1eedd7bbf05] In subsection (4)—
 
 - (a) for “in such form as the Secretary of State may direct” substitute “ on the carrying out of inspections under this section ”, and
 - (b) for “Secretary of State” (in the third place) substitute “ chief inspector ”.
 
-(7)[^key-f5bf9113ffb0001f24ddb1eedd7bbf05] After subsection (4) insert—
+(7)[^c-f5bf9113ffb0001f24ddb1eedd7bbf05] After subsection (4) insert—
 
 > (4A) A report under subsection (4) must include the chief inspector's assessment of the efficiency and effectiveness of policing in England and Wales for the year in respect of which the report is prepared.
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f5bf9113ffb0001f24ddb1eedd7bbf05]: Commencement: S. 83(1)(2)(4)-(7) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-f5bf9113ffb0001f24ddb1eedd7bbf05]: Commencement: S. 83(1)(2)(4)-(7) in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-f6d09bee3ead0f467c072a58ecabccb2]: Commencement: [S. 83(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/83/3) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-f6d09bee3ead0f467c072a58ecabccb2]: Commencement: [S. 83(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/83/3) in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)

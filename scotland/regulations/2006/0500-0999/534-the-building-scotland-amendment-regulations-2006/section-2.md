@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Amendment of Regulations[^key-bc26898109a0d58eccadd36925a3c954]
+## 2. Amendment of Regulations[^c-bc26898109a0d58eccadd36925a3c954]
 
 *Extent: S*
 
@@ -53,6 +53,6 @@ In the Building (Scotland) Regulations 2004[^f00002]–
 
 ## Annotations
 
-[^key-bc26898109a0d58eccadd36925a3c954]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2006/534/regulation/2) in force at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1)
+[^c-bc26898109a0d58eccadd36925a3c954]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2006/534/regulation/2) in force at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2004/406](https://www.legislation.gov.uk/ssi/2004/406).

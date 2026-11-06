@@ -83,7 +83,7 @@ but no application may be made under sub-paragraph (a) unless there has been a m
 - “statement” includes any representation of fact, whether made in words or otherwise;
 - “video recording” means any recording, on any medium, from which a moving image may by any means be produced and includes the accompanying sound-track.
 
-(10)[^key-dccc3671bc101b7487bdeb50ee80ca85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-dccc3671bc101b7487bdeb50ee80ca85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) Without prejudice to the generality of any statutory provision conferring power to make rules to which this paragraph applies, such rules may make such provision as appears to the authority making them to be necessary or expedient for the purposes of this Article.
 
@@ -108,4 +108,4 @@ but no application may be made under sub-paragraph (a) unless there has been a m
 
 [^c21388231]: Textual amendment: [Art. 81A(6A)-(6D)](https://www.legislation.gov.uk/nisi/1989/1341/article/81A/6A) inserted (4.7.1996 with application as mentioned in [s. 62(3)](https://www.legislation.gov.uk/ukpga/1996/25/section/62/3) of the amending Act) by [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [s. 62(2)](https://www.legislation.gov.uk/ukpga/1996/25/section/62/2) (as modified in its application to Northern Ireland by Sch. 4 para. 25)
 
-[^key-dccc3671bc101b7487bdeb50ee80ca85]: Textual amendment: [Art. 81A(10)](https://www.legislation.gov.uk/nisi/1989/1341/article/81A/10) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 11(d)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/11/d); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-dccc3671bc101b7487bdeb50ee80ca85]: Textual amendment: [Art. 81A(10)](https://www.legislation.gov.uk/nisi/1989/1341/article/81A/10) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 11(d)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/11/d); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)

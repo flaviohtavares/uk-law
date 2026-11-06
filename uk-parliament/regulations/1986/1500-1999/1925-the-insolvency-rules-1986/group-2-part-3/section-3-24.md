@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.24. Removal[^key-59d0c6637c3c0548b592fb7b4ca58cdd]
+## 3.24. Removal[^c-59d0c6637c3c0548b592fb7b4ca58cdd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A member of the committee may be removed by resolution at a meeting of creditors
 
 ## Annotations
 
-[^key-59d0c6637c3c0548b592fb7b4ca58cdd]: Commencement: [Rule 3.24](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.24) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-59d0c6637c3c0548b592fb7b4ca58cdd]: Commencement: [Rule 3.24](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.24) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

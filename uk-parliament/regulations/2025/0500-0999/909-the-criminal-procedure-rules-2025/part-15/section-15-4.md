@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15.4. Defence disclosure[^key-1b0ebf8480283760bd96cebad79cf4b0]
+## 15.4. Defence disclosure[^c-1b0ebf8480283760bd96cebad79cf4b0]
 
 *Extent: E+W*
 
@@ -83,7 +83,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1b0ebf8480283760bd96cebad79cf4b0]: Commencement: [Rule 15.4](https://www.legislation.gov.uk/uksi/2025/909/rule/15.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1b0ebf8480283760bd96cebad79cf4b0]: Commencement: [Rule 15.4](https://www.legislation.gov.uk/uksi/2025/909/rule/15.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00407]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); section 6 was amended by section 332 of, and Part 3 of Schedule 37 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

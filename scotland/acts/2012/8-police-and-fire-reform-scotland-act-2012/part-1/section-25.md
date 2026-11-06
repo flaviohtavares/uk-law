@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Police cadets[^key-ad467e1fae96ce62a31b887ed278e2dd]
+## 25. Police cadets[^c-ad467e1fae96ce62a31b887ed278e2dd]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad467e1fae96ce62a31b887ed278e2dd]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2012/8/section/25) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-ad467e1fae96ce62a31b887ed278e2dd]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2012/8/section/25) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

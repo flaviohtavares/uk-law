@@ -22,7 +22,7 @@ summary: ''
 
 (1) The amount to be registered as the rent of any dwelling-house shall include any sums payable by the tenant to the landlord for the use of furniture or for services or in respect of council tax[^c981921], whether or not those sums are separate from the sums payable for the occupation of the dwelling-house or are payable under separate agreements.
 
-(2) Subject to subsection (3) below, there shall be noted separately on the register the amount, if any, of the registered rent which, in the opinion of the rent officer or the First-tier Tribunal[^key-cc5c922179510a8bab727601624d8bb9], is fairly attributable to each of the following—
+(2) Subject to subsection (3) below, there shall be noted separately on the register the amount, if any, of the registered rent which, in the opinion of the rent officer or the First-tier Tribunal[^c-cc5c922179510a8bab727601624d8bb9], is fairly attributable to each of the following—
 
 - (a) the use of furniture;
 - (b) the provision of services;
@@ -39,7 +39,7 @@ summary: ''
 
 [^c981921]: Textual amendment: Words in s. 49(1) inserted (1.4.1993) by [S.I. 1993/658](https://www.legislation.gov.uk/uksi/1993/658), [art. 2 Sch. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/1993/658/article/2/schedule/1/paragraph/3/a).
 
-[^key-cc5c922179510a8bab727601624d8bb9]: Textual amendment: Words in [s. 49(2)](https://www.legislation.gov.uk/ukpga/1984/58/section/49/2) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(5)(a)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/5/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+[^c-cc5c922179510a8bab727601624d8bb9]: Textual amendment: Words in [s. 49(2)](https://www.legislation.gov.uk/ukpga/1984/58/section/49/2) substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 1(5)(a)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/1/5/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
 
 [^c981931]: Textual amendment: S. 49(2)(d) inserted (1.4.1993) by [S.I. 1993/658](https://www.legislation.gov.uk/uksi/1993/658), [art. 2 Sch. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/1993/658/article/2/schedule/1/paragraph/3/b).
 

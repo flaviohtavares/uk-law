@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Construction and maintenance of new, altered or diverted streets[^key-1fea98da3709329917c34f3f8e3258e8]
+## 13. Construction and maintenance of new, altered or diverted streets[^c-1fea98da3709329917c34f3f8e3258e8]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ but for the purposes of such a defence it is not relevant to prove that the prom
 
 ## Annotations
 
-[^key-1fea98da3709329917c34f3f8e3258e8]: Commencement: Art. 13 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-1fea98da3709329917c34f3f8e3258e8]: Commencement: Art. 13 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

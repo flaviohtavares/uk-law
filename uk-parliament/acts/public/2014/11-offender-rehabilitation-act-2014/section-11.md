@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Drug testing[^key-2cc73163a428d40e9a04b5bf536ddf8f]
+## 11. Drug testing[^c-2cc73163a428d40e9a04b5bf536ddf8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cc73163a428d40e9a04b5bf536ddf8f]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/11/section/11) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(j)](https://www.legislation.gov.uk/uksi/2015/40/article/2/j)
+[^c-2cc73163a428d40e9a04b5bf536ddf8f]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2014/11/section/11) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(j)](https://www.legislation.gov.uk/uksi/2015/40/article/2/j)

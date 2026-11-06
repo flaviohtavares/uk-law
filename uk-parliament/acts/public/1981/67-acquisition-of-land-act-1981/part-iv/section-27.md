@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W*
 
-This Part of this Act shall not apply to an order which is confirmed by Act of Parliament under section 4 or[^key-5b68f6fd69def1c5bdd28d0be6e1c999] 6 of the [^c3314411]Statutory Orders (Special Procedure) Act 1945.
+This Part of this Act shall not apply to an order which is confirmed by Act of Parliament under section 4 or[^c-5b68f6fd69def1c5bdd28d0be6e1c999] 6 of the [^c3314411]Statutory Orders (Special Procedure) Act 1945.
 
 ## Annotations
 
-[^key-5b68f6fd69def1c5bdd28d0be6e1c999]: Textual amendment: Words in s. 27 inserted (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 25(9)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/9), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/e) (with [art. 8(3)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/3))
+[^c-5b68f6fd69def1c5bdd28d0be6e1c999]: Textual amendment: Words in s. 27 inserted (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 25(9)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/9), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/e) (with [art. 8(3)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/3))
 
 [^c3314411]: Marginal citation: 1945 (9 & 10 Geo 6) c. 18.

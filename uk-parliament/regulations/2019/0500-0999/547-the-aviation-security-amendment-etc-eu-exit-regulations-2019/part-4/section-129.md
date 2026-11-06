@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Amendment of Annex 13 to the EEA Agreement[^key-245aa4abd77b4b28a0a0e01325f1626c]
+## 129. Amendment of Annex 13 to the EEA Agreement[^c-245aa4abd77b4b28a0a0e01325f1626c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit paragraphs 66h, 66hc and 66hf of Annex 13 to the EEA Agreement so far as th
 
 ## Annotations
 
-[^key-245aa4abd77b4b28a0a0e01325f1626c]: Commencement: Reg. 129 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-245aa4abd77b4b28a0a0e01325f1626c]: Commencement: Reg. 129 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

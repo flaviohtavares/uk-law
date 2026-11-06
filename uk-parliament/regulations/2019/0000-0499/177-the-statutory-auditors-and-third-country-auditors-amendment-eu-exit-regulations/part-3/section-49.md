@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Amendment of Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^key-60d0403a33b88e6f281d2d62584766f2]
+## 49. Amendment of Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008[^c-60d0403a33b88e6f281d2d62584766f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Limited Liability Partnerships (Accounts and Audit) (Application of Companie
 
 ## Annotations
 
-[^key-60d0403a33b88e6f281d2d62584766f2]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-60d0403a33b88e6f281d2d62584766f2]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586891]: Marginal citation: [S.I. 2008/1911](https://www.legislation.gov.uk/uksi/2008/1911).

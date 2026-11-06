@@ -62,10 +62,10 @@ summary: ''
 
 the tenancy is continued by such possession by the non-entitled partner.
 
-(8A)[^key-1eedb7b80fe5f5d4d54e413ea9cad58e] In subsection (1)(a), “**secured loan**” includes secured obligation (construed in accordance with section 43(1) of the Moveable Transactions (Scotland) Act 2023).
+(8A)[^c-1eedb7b80fe5f5d4d54e413ea9cad58e] In subsection (1)(a), “**secured loan**” includes secured obligation (construed in accordance with section 43(1) of the Moveable Transactions (Scotland) Act 2023).
 
 (9) In this section “**improvements**” includes alterations and enlargement.
 
 ## Annotations
 
-[^key-1eedb7b80fe5f5d4d54e413ea9cad58e]: Textual amendment: [S. 102(8A)](https://www.legislation.gov.uk/ukpga/2004/33/section/102/8A) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(2)](https://www.legislation.gov.uk/asp/2023/3/section/56/2), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-1eedb7b80fe5f5d4d54e413ea9cad58e]: Textual amendment: [S. 102(8A)](https://www.legislation.gov.uk/ukpga/2004/33/section/102/8A) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(2)](https://www.legislation.gov.uk/asp/2023/3/section/56/2), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)

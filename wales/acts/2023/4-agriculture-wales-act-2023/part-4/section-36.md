@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Overview of Part[^key-9d817d4dba4b5328c55ccd54b776a3bd][^key-dc0f06415536aa92375a9ec1ac9919e9]
+## 36. Overview of Part[^c-9d817d4dba4b5328c55ccd54b776a3bd][^c-dc0f06415536aa92375a9ec1ac9919e9]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ This Part amends Part 2 of the [Forestry Act 1967 (c. 10)](https://www.legislati
 
 ## Annotations
 
-[^key-9d817d4dba4b5328c55ccd54b776a3bd]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2023/4/section/36) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
+[^c-9d817d4dba4b5328c55ccd54b776a3bd]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2023/4/section/36) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
 
-[^key-dc0f06415536aa92375a9ec1ac9919e9]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2023/4/section/36) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)
+[^c-dc0f06415536aa92375a9ec1ac9919e9]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2023/4/section/36) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)

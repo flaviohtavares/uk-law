@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Persons entitled to purchase and hold certificates[^key-b5d13110678b85e2cf0c38eae0d3f49d]
+## 57. Persons entitled to purchase and hold certificates[^c-b5d13110678b85e2cf0c38eae0d3f49d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5d13110678b85e2cf0c38eae0d3f49d]: Commencement: Reg. 57 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-b5d13110678b85e2cf0c38eae0d3f49d]: Commencement: Reg. 57 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

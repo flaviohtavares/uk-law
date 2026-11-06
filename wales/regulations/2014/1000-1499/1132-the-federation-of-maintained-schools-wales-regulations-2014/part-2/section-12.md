@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Consideration of responses to proposals and determination as to whether to proceed – small schools[^key-9d1afc597a05e7084b6dac100d544822]
+## 12. Consideration of responses to proposals and determination as to whether to proceed – small schools[^c-9d1afc597a05e7084b6dac100d544822]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d1afc597a05e7084b6dac100d544822]: Commencement: Reg. 12 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-9d1afc597a05e7084b6dac100d544822]: Commencement: Reg. 12 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

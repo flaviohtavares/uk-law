@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Financial acts of the Assembly.[^key-d8c8101e0dbb7beef7808602c8b81451][^key-07d7bacc0a40da160220fa2df1576050]
+## 63. Financial acts of the Assembly.[^c-d8c8101e0dbb7beef7808602c8b81451][^c-07d7bacc0a40da160220fa2df1576050]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ shall not be passed without cross-community support.
 
 ## Annotations
 
-[^key-d8c8101e0dbb7beef7808602c8b81451]: Modification: S. 63 excluded by 1994 c. 9, s. 30A(11)(b) (as inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 23 para. 9](https://www.legislation.gov.uk/ukpga/2012/14/schedule/23/paragraph/9))
+[^c-d8c8101e0dbb7beef7808602c8b81451]: Modification: S. 63 excluded by 1994 c. 9, s. 30A(11)(b) (as inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 23 para. 9](https://www.legislation.gov.uk/ukpga/2012/14/schedule/23/paragraph/9))
 
-[^key-07d7bacc0a40da160220fa2df1576050]: Modification: S. 63 excluded by 2010 c. 4, s. 357IA(5) (as inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1))
+[^c-07d7bacc0a40da160220fa2df1576050]: Modification: S. 63 excluded by 2010 c. 4, s. 357IA(5) (as inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1))

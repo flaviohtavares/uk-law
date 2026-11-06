@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where a proposed contractor elects in a written notice served on NHS England[^key-b28b1bbfa1e4e2e4b3d10e1a627c8660] at any time prior to the contract being entered into to be regarded as a health service body for the purposes of section 4 of the 1990 Act, it shall be so regarded from the date on which the contract is entered into.
+(1) Where a proposed contractor elects in a written notice served on NHS England[^c-b28b1bbfa1e4e2e4b3d10e1a627c8660] at any time prior to the contract being entered into to be regarded as a health service body for the purposes of section 4 of the 1990 Act, it shall be so regarded from the date on which the contract is entered into.
 
 (2) If, in accordance with paragraph (1) or (5), a contractor is to be regarded as a health service body, that fact shall not affect the nature of, or any rights or liabilities arising under, any other contract with a health service body entered into by that contractor before the date on which the contractor is to be so regarded.
 
@@ -47,7 +47,7 @@ as a health service body for the purposes of section 4 of the 1990 Act from the 
 (7) Where a contractor ceases to be a health service body pursuant to—
 
 - (a) paragraph (5) or (6), it shall continue to be regarded as a health service body for the purposes of being a party to any other NHS contract entered into after it became a health service body but before the date on which the contractor ceased to be a health service body (for which purposes it ceases to be such a body on the termination of that NHS contract);
-- (b)[^key-bccdd696a6734c89e11e5eaf3bcefe55] paragraph (5), where it or NHS England—
+- (b)[^c-bccdd696a6734c89e11e5eaf3bcefe55] paragraph (5), where it or NHS England—
   - (i) has referred any matter to the NHS dispute resolution procedure before it ceases to be a health service body, or
   - (ii) refers any matter to the NHS dispute resolution procedure, in accordance with paragraph 54(1)(a) of Schedule 3, after it ceases to be a health service body,
 
@@ -60,6 +60,6 @@ as a health service body for the purposes of section 4 of the 1990 Act from the 
 
 ## Annotations
 
-[^key-b28b1bbfa1e4e2e4b3d10e1a627c8660]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-b28b1bbfa1e4e2e4b3d10e1a627c8660]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-bccdd696a6734c89e11e5eaf3bcefe55]: Textual amendment: [Reg. 9(7)(b)](https://www.legislation.gov.uk/uksi/2005/3361/regulation/9/7/b) substituted (1.7.2015) by [The National Health Service (Primary Dental Services and General Ophthalmic Services) (Miscellaneous Amendments and Transitional Provision) Regulations 2015 (S.I. 2015/416)](https://www.legislation.gov.uk/uksi/2015/416), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/416/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2015/416/regulation/2) (with [reg. 12](https://www.legislation.gov.uk/uksi/2015/416/regulation/12))
+[^c-bccdd696a6734c89e11e5eaf3bcefe55]: Textual amendment: [Reg. 9(7)(b)](https://www.legislation.gov.uk/uksi/2005/3361/regulation/9/7/b) substituted (1.7.2015) by [The National Health Service (Primary Dental Services and General Ophthalmic Services) (Miscellaneous Amendments and Transitional Provision) Regulations 2015 (S.I. 2015/416)](https://www.legislation.gov.uk/uksi/2015/416), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/416/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2015/416/regulation/2) (with [reg. 12](https://www.legislation.gov.uk/uksi/2015/416/regulation/12))

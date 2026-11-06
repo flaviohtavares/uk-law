@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60D. Date on which child support maintenance is to be treated as paid[^key-e0df9776fa0bddfd056058c88e34d22e][^key-7bf640b53d9ff1f134d0a3ed3f3a17aa]
+## 60D. Date on which child support maintenance is to be treated as paid[^c-e0df9776fa0bddfd056058c88e34d22e][^c-7bf640b53d9ff1f134d0a3ed3f3a17aa]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0df9776fa0bddfd056058c88e34d22e]: Textual amendment: [Pt. V Ch. 7A](https://www.legislation.gov.uk/uksi/1987/1967/part/V/chapter/7A) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/2/4/c)
+[^c-e0df9776fa0bddfd056058c88e34d22e]: Textual amendment: [Pt. V Ch. 7A](https://www.legislation.gov.uk/uksi/1987/1967/part/V/chapter/7A) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Social Security (Child Maintenance Amendments) Regulations 2008 (S.I. 2008/2111)](https://www.legislation.gov.uk/uksi/2008/2111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2008/2111/regulation/2/4/c)
 
-[^key-7bf640b53d9ff1f134d0a3ed3f3a17aa]: Textual amendment: Pt. V Ch. VIIA inserted (19.4.1993) by [The Social Security (Miscellaneous Provisions) Amendment Regulations 1993 (S.I. 1993/846)](https://www.legislation.gov.uk/uksi/1993/846), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/846/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1993/846/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/846/regulation/1/2))
+[^c-7bf640b53d9ff1f134d0a3ed3f3a17aa]: Textual amendment: Pt. V Ch. VIIA inserted (19.4.1993) by [The Social Security (Miscellaneous Provisions) Amendment Regulations 1993 (S.I. 1993/846)](https://www.legislation.gov.uk/uksi/1993/846), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/846/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1993/846/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/1993/846/regulation/1/2))

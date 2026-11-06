@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 157. Interpretation of this Part[^key-c1ded64aa76d4d6dfecc21bd5e772114][^key-878734b81fd7dd38d42d96319cf0e307]
+## 157. Interpretation of this Part[^c-c1ded64aa76d4d6dfecc21bd5e772114][^c-878734b81fd7dd38d42d96319cf0e307]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ In this Part—
 
 ## Annotations
 
-[^key-c1ded64aa76d4d6dfecc21bd5e772114]: Commencement: S. 157 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-c1ded64aa76d4d6dfecc21bd5e772114]: Commencement: S. 157 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-878734b81fd7dd38d42d96319cf0e307]: Commencement: [S. 157](https://www.legislation.gov.uk/asc/2023/3/section/157) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-878734b81fd7dd38d42d96319cf0e307]: Commencement: [S. 157](https://www.legislation.gov.uk/asc/2023/3/section/157) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

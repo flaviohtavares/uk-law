@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Qualification specific recognition of an awarding body[^key-b8274278edb3154bb39cb9581ec9bc92]
+## 9. Qualification specific recognition of an awarding body[^c-b8274278edb3154bb39cb9581ec9bc92]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ Qualifications Wales must recognise the body in respect of the award in Wales of
 
 ## Annotations
 
-[^key-b8274278edb3154bb39cb9581ec9bc92]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2015/5/section/9) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-b8274278edb3154bb39cb9581ec9bc92]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2015/5/section/9) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

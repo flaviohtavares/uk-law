@@ -44,7 +44,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 96(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation, commencement and interpretation[^key-737f9bdd6b988354050c2509fbfc7663]
+## 1. Citation, commencement and interpretation[^c-737f9bdd6b988354050c2509fbfc7663]
 
 (1) These Regulations may be cited as the Social Security Information-sharing (Scotland) Regulations 2021 and come into force on 26 July 2021.
 
@@ -54,21 +54,21 @@ In accordance with section 96(2) of that Act, a draft of this instrument has bee
 - “the 2018 Act” means the Social Security (Scotland) Act 2018,
 - “the Public Guardian” is to be construed in accordance with section 6 of the Adults with Incapacity (Scotland) Act 2000[^f00003] (the Public Guardian and his functions).
 
-## 2. Specification of persons who may be required to supply information[^key-8e642a2713f1e50782539326b4b22417]
+## 2. Specification of persons who may be required to supply information[^c-8e642a2713f1e50782539326b4b22417]
 
 (1) The persons described in paragraph (2) are specified for the purposes of section 85(2)(g) of the 2018 Act (persons who may be required to supply information).
 
 (2) The persons are—
 
 - (a) any supplier of vehicles approved by the Scottish Ministers under an accreditation scheme run by Ministers to supply vehicles for the benefit of individuals who are entitled to the higher rate of the mobility component of Child Disability Payment in accordance with regulation 13 of the Disability Assistance for Children and Young People (Scotland) Regulations 2021[^f00004] (mobility requirements: higher rate mobility component),
-- (aa)[^key-9af9d2aec4493ca9b9aa80afccb05f32] any supplier of vehicles approved by the Scottish Ministers under an accreditation scheme run by the Scottish Ministers to supply vehicles for the benefit of individuals who are entitled to the enhanced rate of the mobility component of Adult Disability Payment in accordance with regulation 6 of the Disability Assistance for Working Age People (Scotland) Regulations 2022 (mobility component),
+- (aa)[^c-9af9d2aec4493ca9b9aa80afccb05f32] any supplier of vehicles approved by the Scottish Ministers under an accreditation scheme run by the Scottish Ministers to supply vehicles for the benefit of individuals who are entitled to the enhanced rate of the mobility component of Adult Disability Payment in accordance with regulation 6 of the Disability Assistance for Working Age People (Scotland) Regulations 2022 (mobility component),
 - (b) the contractor under a general medical services contract within the meaning of section 17J of the 1978 Act[^f00005] (Health Boards’ power to enter into general medical services contracts),
 - (c) the contractor under an arrangement under section 2C(2) of the 1978 Act[^f00006] (functions of Health Boards: primary medical services),
-- (d) the provider under an agreement under section 17C(1)(a) of the 1978 Act[^f00007] (agreement for provision of primary medical services), [^key-dfebb4586eca6679614d3d5ae58570d5]...
-- (e) the Public Guardian and[^key-75ef4827ccd5eeb2498058e5f131d6aa]
+- (d) the provider under an agreement under section 17C(1)(a) of the 1978 Act[^f00007] (agreement for provision of primary medical services), [^c-dfebb4586eca6679614d3d5ae58570d5]...
+- (e) the Public Guardian and[^c-75ef4827ccd5eeb2498058e5f131d6aa]
 - (f) an integration authority as defined in section 59 of the Public Bodies (Joint Working) (Scotland) Act 2014[^f00004].
 
-## 3. Supplying information to receive information in return[^key-d1b2fc12c2cd678948532a04c4379a20]
+## 3. Supplying information to receive information in return[^c-d1b2fc12c2cd678948532a04c4379a20]
 
 (1) Paragraph (2) applies where the Scottish Ministers require information to be supplied under section 85(1) of the 2018 Act (requirement to supply information) by—
 
@@ -82,16 +82,16 @@ for the purpose of determining an individual’s entitlement to social security 
 
 (3) Information may be supplied by the Scottish Ministers under paragraph (2) only with the authorisation of the individual to whom the information relates.
 
-## 4. Use of information supplied by the Scottish Ministers[^key-6bf4f822ad2fa8b07179dd0cba5d742b]
+## 4. Use of information supplied by the Scottish Ministers[^c-6bf4f822ad2fa8b07179dd0cba5d742b]
 
 (1) Information held by the Scottish Ministers for the purpose of a social security function may be supplied by Ministers under section 85(5) of the 2018 Act (specification of functions) to—
 
-- (a) a supplier of vehicles described in regulation 2(2)(a) or 2(2)(aa)[^key-420b4db7ab8bc49defa434a3146deb72] for use for the purposes of the function of that person specified in paragraph (2),
+- (a) a supplier of vehicles described in regulation 2(2)(a) or 2(2)(aa)[^c-420b4db7ab8bc49defa434a3146deb72] for use for the purposes of the function of that person specified in paragraph (2),
 - (b) a local authority for use for the purposes of the functions of the local authority specified in paragraph (3).
-- (c)[^key-eee82de0cf7ae0082169554f206ea8cf] where regulation 4A applies, a local authority for use for the purposes of the functions of the local authority specified in paragraph (3A),
+- (c)[^c-eee82de0cf7ae0082169554f206ea8cf] where regulation 4A applies, a local authority for use for the purposes of the functions of the local authority specified in paragraph (3A),
 - (d) where regulation 4B applies, a local authority for use for the purposes of the functions of the local authority specified in paragraph (3B),
 - (e) where regulation 4C applies, the Public Guardian for use for the purposes of the function of the Public Guardian specified in paragraph (3C),
-- (f)[^key-abb2982a767ad5783251788042827be4] where regulation 4D applies, a local authority for the purposes of the function of the local authority specified in paragraph (3D).
+- (f)[^c-abb2982a767ad5783251788042827be4] where regulation 4D applies, a local authority for the purposes of the function of the local authority specified in paragraph (3D).
 
 (2) The specified function referred to in paragraph (1)(a) is the provision of a vehicle.
 
@@ -101,14 +101,14 @@ for the purpose of determining an individual’s entitlement to social security 
 - (b) the administration under section 134(1) of the Social Security Administration Act 1992[^f00010] (arrangements for housing benefit) of housing benefit provided by virtue of a scheme under section 123(1)(d) of the Social Security Contributions and Benefits Act 1992[^f00011] (income-related benefit),
 - (c) the administration of the national travel concession scheme provided for by the National Bus Travel Concession Scheme for Older and Disabled Persons (Scotland) Order 2006[^f00012],
 - (d) the administration of a travel concession scheme established under section 93 of the Transport Act 1985[^f00013] (travel concession schemes),
-- (e) determining whether a person falls within the description of person prescribed for the purposes of section 21(2) of the Chronically Sick and Disabled Persons Act 1970[^f00014] (issue of badges for display on motor vehicles to disabled persons falling within prescribed descriptions) by regulation 4(2)(ad) or 4(2)(ae)[^key-7d31c6ba2704fdf75f4851f0ed63f1ef] of the Disabled Persons (Badges for Motor Vehicles) (Scotland) Regulations 2000[^f00015] (descriptions of disabled persons),
+- (e) determining whether a person falls within the description of person prescribed for the purposes of section 21(2) of the Chronically Sick and Disabled Persons Act 1970[^f00014] (issue of badges for display on motor vehicles to disabled persons falling within prescribed descriptions) by regulation 4(2)(ad) or 4(2)(ae)[^c-7d31c6ba2704fdf75f4851f0ed63f1ef] of the Disabled Persons (Badges for Motor Vehicles) (Scotland) Regulations 2000[^f00015] (descriptions of disabled persons),
 - (f) determining whether to provide occasional financial or other assistance for the purpose described in section 2(1)(a) or (b) of the Welfare Funds (Scotland) Act 2015[^f00016] (use of welfare funds: assistance for short term need and community care),
 - (g) determining—
-  - (i) whether to make discretionary housing payments under Part 5 of the Social Security (Scotland) Act 2018 (discretionary housing payments)[^key-a046449c186ae5262e9b9043ccbbf44b],
+  - (i) whether to make discretionary housing payments under Part 5 of the Social Security (Scotland) Act 2018 (discretionary housing payments)[^c-a046449c186ae5262e9b9043ccbbf44b],
   - (ii) the amount of any such payments.
-- (h)[^key-6e25837451ea16fc5f530bec26e1f400] determining whether a person applying for or receiving a welfare service is liable to contribute towards the cost of that service and if so the amount of that contribution.
+- (h)[^c-6e25837451ea16fc5f530bec26e1f400] determining whether a person applying for or receiving a welfare service is liable to contribute towards the cost of that service and if so the amount of that contribution.
 
-(3A)[^key-0f8e78db73a628147534fbd89850cba4] The specified functions referred to in paragraph (1)(c) are—
+(3A)[^c-0f8e78db73a628147534fbd89850cba4] The specified functions referred to in paragraph (1)(c) are—
 
 - (a) the duty to promote social welfare under section 12 of the Social Work (Scotland) Act 1968 (general social welfare services of local authorities),
 - (b) the duty to children looked after by local authorities under section 17 of the Children (Scotland) Act 1995 (duty of local authority to child looked after by them),
@@ -124,15 +124,15 @@ for the purpose of determining an individual’s entitlement to social security 
 
 (3C) The specified function referred to in paragraph (1)(e) is the duty to investigate circumstances where the property or financial affairs of an adult appear to be at risk under section 6(2)(d) of the Adults with Incapacity (Scotland) Act 2000 (the Public Guardian and his functions).
 
-(3D)[^key-234942eb82f8c45fde7124a7a69f9317] The specified function referred to in paragraph (1)(f) is the power to provide or to secure the provision of food and drink to pupils under section 53(3) of the Education (Scotland) Act 1980 (provision of school meals).
+(3D)[^c-234942eb82f8c45fde7124a7a69f9317] The specified function referred to in paragraph (1)(f) is the power to provide or to secure the provision of food and drink to pupils under section 53(3) of the Education (Scotland) Act 1980 (provision of school meals).
 
-(4)[^key-fbaaaa187835d81b6634aaaec342c737] In this regulation “**welfare service**” means—
+(4)[^c-fbaaaa187835d81b6634aaaec342c737] In this regulation “**welfare service**” means—
 
 - (a) housing support services, as defined in regulation 2 of the Social Security (Information-sharing in relation to Welfare Services etc.) Regulations 2012 (interpretation),
 - (b) the provision of residential care, as defined in regulation 2 of the Social Security (Information-sharing in relation to Welfare Services etc.) Regulations 2012 (interpretation),
 - (c) the provision of domiciliary care, as defined in regulation 5(4)(d) of the Social Security (Information-sharing in relation to Welfare Services etc.) Regulations 2012 (supply of relevant information by the Secretary of State).
 
-## 4A. Use of information supplied under regulation 4(1)(c)[^key-01aa8ed68961d625eccfd58a9f6f3134]
+## 4A. Use of information supplied under regulation 4(1)(c)[^c-01aa8ed68961d625eccfd58a9f6f3134]
 
 (1) This regulation applies where—
 
@@ -197,7 +197,7 @@ for the purpose of determining an individual’s entitlement to social security 
 
 (2) In this regulation, “**harm**” means mental or emotional harm.
 
-## 4D. Use of information supplied under regulation 4(1)(f)[^key-41ee2ed233247f68ab62e152246f5a4a]
+## 4D. Use of information supplied under regulation 4(1)(f)[^c-41ee2ed233247f68ab62e152246f5a4a]
 
 This regulation applies where the Scottish Ministers know or believe that the information relates to a child—
 
@@ -206,7 +206,7 @@ This regulation applies where the Scottish Ministers know or believe that the in
   - (ii) the first, second or third yearly stage of secondary education, and
 - (b) in respect of whom an individual is in receipt of a Scottish child payment within the meaning of regulation 3(2) of the Scottish Child Payment Regulations  2020.
 
-## 5. Supply of information to be no more than is necessary[^key-aa5a17f77a3b55a1f8928df0dbb9b42e][^key-6bf4f822ad2fa8b07179dd0cba5d742b][^key-c12f5c23896164e128d3c56f0c54e85c]
+## 5. Supply of information to be no more than is necessary[^c-aa5a17f77a3b55a1f8928df0dbb9b42e][^c-6bf4f822ad2fa8b07179dd0cba5d742b][^c-c12f5c23896164e128d3c56f0c54e85c]
 
 Where the Scottish Ministers supply information under these Regulations, which relates to an individual, the information supplied must be no more than is necessary for the purpose for which it is to be used by the recipient.
 
@@ -236,17 +236,17 @@ Regulation 5 makes clear that no more information may be supplied than is necess
 
 [^f00001]: Footnote: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9). The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-737f9bdd6b988354050c2509fbfc7663]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/178/regulation/1) in force at 26.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/178/regulation/1/1)
+[^c-737f9bdd6b988354050c2509fbfc7663]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/178/regulation/1) in force at 26.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/178/regulation/1/1)
 
 [^f00002]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29).
 
 [^f00003]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4). Section 6 was amended by section 67 and paragraph 5(a) of schedule 1 of the Adult Support and Protection (Scotland) Act [2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10) and [S.S.I. 2015/157](https://www.legislation.gov.uk/ssi/2015/157).
 
-[^key-8e642a2713f1e50782539326b4b22417]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/178/regulation/2) in force at 26.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/178/regulation/1/1)
+[^c-8e642a2713f1e50782539326b4b22417]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/178/regulation/2) in force at 26.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/178/regulation/1/1)
 
 [^f00004]: Footnote: [S.S.I. 2021/174](https://www.legislation.gov.uk/ssi/2021/174).
 
-[^key-9af9d2aec4493ca9b9aa80afccb05f32]: Textual amendment: [Reg. 2(2)(aa)](https://www.legislation.gov.uk/ssi/2021/178/regulation/2/2/aa) inserted (21.3.2022) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2022 (S.S.I. 2022/56)](https://www.legislation.gov.uk/ssi/2022/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/56/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2022/56/regulation/2/a)
+[^c-9af9d2aec4493ca9b9aa80afccb05f32]: Textual amendment: [Reg. 2(2)(aa)](https://www.legislation.gov.uk/ssi/2021/178/regulation/2/2/aa) inserted (21.3.2022) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2022 (S.S.I. 2022/56)](https://www.legislation.gov.uk/ssi/2022/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/56/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2022/56/regulation/2/a)
 
 [^f00005]: Footnote: Section 17J was inserted by section 4 of the Primary Medical Services (Scotland) Act [2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1) (“the 2004 Act”).
 
@@ -254,23 +254,23 @@ Regulation 5 makes clear that no more information may be supplied than is necess
 
 [^f00007]: Footnote: Section 17C was inserted by section 21(2) of the National Health Service (Primary Care) Act [1997 (c.46)](https://www.legislation.gov.uk/ukpga/1997/46). Section 17C(1)(a) was amended by section 2(2)(a) of the 2004 Act.
 
-[^key-dfebb4586eca6679614d3d5ae58570d5]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2021/178/regulation/2/2) omitted (21.3.2022) by virtue of [The Social Security Information-sharing (Scotland) Amendment Regulations 2022 (S.S.I. 2022/56)](https://www.legislation.gov.uk/ssi/2022/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/56/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2022/56/regulation/2/b)
+[^c-dfebb4586eca6679614d3d5ae58570d5]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/ssi/2021/178/regulation/2/2) omitted (21.3.2022) by virtue of [The Social Security Information-sharing (Scotland) Amendment Regulations 2022 (S.S.I. 2022/56)](https://www.legislation.gov.uk/ssi/2022/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/56/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2022/56/regulation/2/b)
 
-[^key-75ef4827ccd5eeb2498058e5f131d6aa]: Textual amendment: [Reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2021/178/regulation/2/2/f) and word inserted (21.3.2022) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2022 (S.S.I. 2022/56)](https://www.legislation.gov.uk/ssi/2022/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/56/regulation/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2022/56/regulation/2/c)
+[^c-75ef4827ccd5eeb2498058e5f131d6aa]: Textual amendment: [Reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2021/178/regulation/2/2/f) and word inserted (21.3.2022) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2022 (S.S.I. 2022/56)](https://www.legislation.gov.uk/ssi/2022/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/56/regulation/1/1), [2(c)](https://www.legislation.gov.uk/ssi/2022/56/regulation/2/c)
 
-[^key-d1b2fc12c2cd678948532a04c4379a20]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/178/regulation/3) in force at 26.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/178/regulation/1/1)
+[^c-d1b2fc12c2cd678948532a04c4379a20]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/178/regulation/3) in force at 26.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/178/regulation/1/1)
 
 [^f00008]: Footnote: Section 2(1)(a) was amended by paragraph 1 of schedule 7 of the Health and Social Services and Social Security Adjudications Act [1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41), section 28(a)(i) and (ii) of the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19), paragraph 1(2)(a) of schedule 1 of the National Health Service Reform (Scotland) Act [2004 (asp 7)](https://www.legislation.gov.uk/asp/2004/7) and paragraph 2(2) of schedule 2 of the Smoking, Health and Social Care (Scotland) Act [2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13).
 
 [^f00009]: Footnote: Section 2(1)(b) was inserted by section 28(a)(ii) of the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19). It was amended by paragraph 2(2) of schedule 2 of the Smoking, Health and Social Care (Scotland) Act [2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13).
 
-[^key-6bf4f822ad2fa8b07179dd0cba5d742b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/178/regulation/4) in force at 26.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/178/regulation/1/1)
+[^c-6bf4f822ad2fa8b07179dd0cba5d742b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/178/regulation/4) in force at 26.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/178/regulation/1/1)
 
-[^key-420b4db7ab8bc49defa434a3146deb72]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/1/a) inserted (21.3.2022) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2022 (S.S.I. 2022/56)](https://www.legislation.gov.uk/ssi/2022/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/56/regulation/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2022/56/regulation/3/a)
+[^c-420b4db7ab8bc49defa434a3146deb72]: Textual amendment: Words in [reg. 4(1)(a)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/1/a) inserted (21.3.2022) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2022 (S.S.I. 2022/56)](https://www.legislation.gov.uk/ssi/2022/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/56/regulation/1/1), [3(a)](https://www.legislation.gov.uk/ssi/2022/56/regulation/3/a)
 
-[^key-eee82de0cf7ae0082169554f206ea8cf]: Textual amendment: [Reg. 4(1)(c)-(e)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/1/c) inserted (16.1.2024) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2024 (S.S.I. 2024/8)](https://www.legislation.gov.uk/ssi/2024/8), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/8/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2024/8/regulation/2/a)
+[^c-eee82de0cf7ae0082169554f206ea8cf]: Textual amendment: [Reg. 4(1)(c)-(e)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/1/c) inserted (16.1.2024) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2024 (S.S.I. 2024/8)](https://www.legislation.gov.uk/ssi/2024/8), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/8/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2024/8/regulation/2/a)
 
-[^key-abb2982a767ad5783251788042827be4]: Textual amendment: [Reg. 4(1)(f)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/1/f) inserted (19.5.2025) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2025 (S.S.I. 2025/143)](https://www.legislation.gov.uk/ssi/2025/143), [regs. 1](https://www.legislation.gov.uk/ssi/2025/143/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2025/143/regulation/2/a)
+[^c-abb2982a767ad5783251788042827be4]: Textual amendment: [Reg. 4(1)(f)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/1/f) inserted (19.5.2025) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2025 (S.S.I. 2025/143)](https://www.legislation.gov.uk/ssi/2025/143), [regs. 1](https://www.legislation.gov.uk/ssi/2025/143/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2025/143/regulation/2/a)
 
 [^f00010]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5). Section 134 was substituted by paragraph 1(2) of schedule 12 of the Housing Act [1996 (c.52)](https://www.legislation.gov.uk/ukpga/1996/52).
 
@@ -282,26 +282,26 @@ Regulation 5 makes clear that no more information may be supplied than is necess
 
 [^f00014]: Footnote: [1970 c.44](https://www.legislation.gov.uk/ukpga/1970/44).
 
-[^key-7d31c6ba2704fdf75f4851f0ed63f1ef]: Textual amendment: Words in [reg. 4(3)(e)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/3/e) inserted (21.3.2022) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2022 (S.S.I. 2022/56)](https://www.legislation.gov.uk/ssi/2022/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/56/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2022/56/regulation/3/b)
+[^c-7d31c6ba2704fdf75f4851f0ed63f1ef]: Textual amendment: Words in [reg. 4(3)(e)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/3/e) inserted (21.3.2022) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2022 (S.S.I. 2022/56)](https://www.legislation.gov.uk/ssi/2022/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/56/regulation/1/1), [3(b)](https://www.legislation.gov.uk/ssi/2022/56/regulation/3/b)
 
 [^f00015]: Footnote: [S.S.I. 2000/59](https://www.legislation.gov.uk/ssi/2000/59). Sub-paragraph (ad) was inserted by [S.S.I. 2021/73](https://www.legislation.gov.uk/ssi/2021/73).
 
 [^f00016]: Footnote: [2015 asp 5](https://www.legislation.gov.uk/asp/2015/5).
 
-[^key-a046449c186ae5262e9b9043ccbbf44b]: Textual amendment: Words in [reg. 4(3)(g)(i)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/3/g/i) substituted (23.6.2025) by [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [7(2)](https://www.legislation.gov.uk/ssi/2025/195/regulation/7/2)
+[^c-a046449c186ae5262e9b9043ccbbf44b]: Textual amendment: Words in [reg. 4(3)(g)(i)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/3/g/i) substituted (23.6.2025) by [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [7(2)](https://www.legislation.gov.uk/ssi/2025/195/regulation/7/2)
 
-[^key-6e25837451ea16fc5f530bec26e1f400]: Textual amendment: [Reg. 4(3)(h)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/3/h) inserted (21.3.2022) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2022 (S.S.I. 2022/56)](https://www.legislation.gov.uk/ssi/2022/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/56/regulation/1/1), [3(c)](https://www.legislation.gov.uk/ssi/2022/56/regulation/3/c)
+[^c-6e25837451ea16fc5f530bec26e1f400]: Textual amendment: [Reg. 4(3)(h)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/3/h) inserted (21.3.2022) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2022 (S.S.I. 2022/56)](https://www.legislation.gov.uk/ssi/2022/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/56/regulation/1/1), [3(c)](https://www.legislation.gov.uk/ssi/2022/56/regulation/3/c)
 
-[^key-0f8e78db73a628147534fbd89850cba4]: Textual amendment: [Reg. 4(3A)-(3C)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/3A) inserted (16.1.2024) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2024 (S.S.I. 2024/8)](https://www.legislation.gov.uk/ssi/2024/8), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/8/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2024/8/regulation/2/b)
+[^c-0f8e78db73a628147534fbd89850cba4]: Textual amendment: [Reg. 4(3A)-(3C)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/3A) inserted (16.1.2024) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2024 (S.S.I. 2024/8)](https://www.legislation.gov.uk/ssi/2024/8), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/8/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2024/8/regulation/2/b)
 
-[^key-234942eb82f8c45fde7124a7a69f9317]: Textual amendment: [Reg. 4(3D)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/3D) inserted (19.5.2025) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2025 (S.S.I. 2025/143)](https://www.legislation.gov.uk/ssi/2025/143), [regs. 1](https://www.legislation.gov.uk/ssi/2025/143/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2025/143/regulation/2/b)
+[^c-234942eb82f8c45fde7124a7a69f9317]: Textual amendment: [Reg. 4(3D)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/3D) inserted (19.5.2025) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2025 (S.S.I. 2025/143)](https://www.legislation.gov.uk/ssi/2025/143), [regs. 1](https://www.legislation.gov.uk/ssi/2025/143/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2025/143/regulation/2/b)
 
-[^key-fbaaaa187835d81b6634aaaec342c737]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/4) inserted (21.3.2022) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2022 (S.S.I. 2022/56)](https://www.legislation.gov.uk/ssi/2022/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/56/regulation/1/1), [3(d)](https://www.legislation.gov.uk/ssi/2022/56/regulation/3/d)
+[^c-fbaaaa187835d81b6634aaaec342c737]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/ssi/2021/178/regulation/4/4) inserted (21.3.2022) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2022 (S.S.I. 2022/56)](https://www.legislation.gov.uk/ssi/2022/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/56/regulation/1/1), [3(d)](https://www.legislation.gov.uk/ssi/2022/56/regulation/3/d)
 
-[^key-01aa8ed68961d625eccfd58a9f6f3134]: Textual amendment: [Regs. 4A-4C](https://www.legislation.gov.uk/ssi/2021/178/regulation/4A) inserted (16.1.2024) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2024 (S.S.I. 2024/8)](https://www.legislation.gov.uk/ssi/2024/8), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/8/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2024/8/regulation/3)
+[^c-01aa8ed68961d625eccfd58a9f6f3134]: Textual amendment: [Regs. 4A-4C](https://www.legislation.gov.uk/ssi/2021/178/regulation/4A) inserted (16.1.2024) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2024 (S.S.I. 2024/8)](https://www.legislation.gov.uk/ssi/2024/8), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/8/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2024/8/regulation/3)
 
-[^key-41ee2ed233247f68ab62e152246f5a4a]: Textual amendment: [Reg. 4D](https://www.legislation.gov.uk/ssi/2021/178/regulation/4D) inserted (19.5.2025) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2025 (S.S.I. 2025/143)](https://www.legislation.gov.uk/ssi/2025/143), [regs. 1](https://www.legislation.gov.uk/ssi/2025/143/regulation/1), [3](https://www.legislation.gov.uk/ssi/2025/143/regulation/3)
+[^c-41ee2ed233247f68ab62e152246f5a4a]: Textual amendment: [Reg. 4D](https://www.legislation.gov.uk/ssi/2021/178/regulation/4D) inserted (19.5.2025) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2025 (S.S.I. 2025/143)](https://www.legislation.gov.uk/ssi/2025/143), [regs. 1](https://www.legislation.gov.uk/ssi/2025/143/regulation/1), [3](https://www.legislation.gov.uk/ssi/2025/143/regulation/3)
 
-[^key-aa5a17f77a3b55a1f8928df0dbb9b42e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/178/regulation/5) in force at 26.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/178/regulation/1/1)
+[^c-aa5a17f77a3b55a1f8928df0dbb9b42e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/178/regulation/5) in force at 26.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/178/regulation/1/1)
 
-[^key-c12f5c23896164e128d3c56f0c54e85c]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/178/regulation/5) cross-heading inserted (16.1.2024) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2024 (S.S.I. 2024/8)](https://www.legislation.gov.uk/ssi/2024/8), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/8/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2024/8/regulation/4)
+[^c-c12f5c23896164e128d3c56f0c54e85c]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/178/regulation/5) cross-heading inserted (16.1.2024) by [The Social Security Information-sharing (Scotland) Amendment Regulations 2024 (S.S.I. 2024/8)](https://www.legislation.gov.uk/ssi/2024/8), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/8/regulation/1/1), [4](https://www.legislation.gov.uk/ssi/2024/8/regulation/4)
